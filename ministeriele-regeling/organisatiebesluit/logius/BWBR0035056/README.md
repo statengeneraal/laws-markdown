@@ -3,12 +3,12 @@
 ##Organisatiebesluit Logius
 
 De secretaris-generaal van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 16, tweede lid, van het Organisatiebesluit BZK 2012](../../../../ministeriele-regeling/organisatiebesluit/bzk/2012/BWBR0031833/README.md);
+Gelet op artikel 16, tweede lid, van het Organisatiebesluit BZK 2012;
 Besluit:    
 
 ### Artikel  1  
 
-Dit besluit heeft betrekking op de baten-lastendienst Logius, genoemd in het [Organisatiebesluit BZK 2012](../../../../ministeriele-regeling/organisatiebesluit/bzk/2012/BWBR0031833/README.md). 
+Dit besluit heeft betrekking op de baten-lastendienst Logius, genoemd in het Organisatiebesluit BZK 2012. 
 
 ### Artikel  2  
 

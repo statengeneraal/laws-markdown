@@ -5,7 +5,7 @@
 De Minister van Landbouw en Visserij,  
 Overwegende, dat het noodzakelijk is uitvoering te geven aan het bepaalde in artikel 2, lid 2, van de Verordening nr. 134 van de Commissie van de Europese Economische Gemeenschap betreffende de opgaven van oogsten en voorraden van wijn (Pb. E.G. 1962, 111);
 
-Gelet op de [Landbouwwet](../../../../../wet/landbouwwet/BWBR0002252/README.md),
+Gelet op de Landbouwwet,
 Besluit:    
 
 ### Artikel  1  

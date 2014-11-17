@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de [Telecommunicatiewet](../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en andere wetten te wijzigen in verband met de implementatie van Richtlijn nr. 2002/19/EG van het Europees Parlement en de Raad van de Europese Unie van 7 maart 2002 inzake de toegang tot en de interconnectie van elektronische-communicatienetwerken en bijbehorende faciliteiten (PbEG L 108), Richtlijn nr. 2002/20/EG van het Europees Parlement en de Raad van de Europese Unie van 7 maart 2002 betreffende de machtiging voor elektronische-communicatienetwerken en -diensten (PbEG L 108), Richtlijn nr. 2002/21/EG van het Europees Parlement en de Raad van de Europese Unie van 7 maart 2002 inzake een gemeenschappelijk regelgevingskader voor elektronische-communicatienetwerken en -diensten (PbEG L 108), Richtlijn nr. 2002/22/EG van het Europees Parlement en de Raad van de Europese Unie van 7 maart 2002 inzake de universele dienst en gebruikersrechten met betrekking tot elektronische-communicatienetwerken en -diensten (PbEG L 108), Richtlijn nr. 2002/58/EG van het Europees Parlement en de Raad van de Europese Unie van 12 juli 2002 betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie (PbEG L 201), alsmede Richtlijn nr. 2002/77/EG van de Commissie van de Europese Gemeenschappen van 16 september 2002 betreffende de mededinging op de markten voor elektronische-communicatienetwerken en -diensten (PbEG L 249);
+Alzo Wij in overweging genomen hebben, dat het noodzakelijk is de Telecommunicatiewet en andere wetten te wijzigen in verband met de implementatie van Richtlijn nr. 2002/19/EG van het Europees Parlement en de Raad van de Europese Unie van 7 maart 2002 inzake de toegang tot en de interconnectie van elektronische-communicatienetwerken en bijbehorende faciliteiten (PbEG L 108), Richtlijn nr. 2002/20/EG van het Europees Parlement en de Raad van de Europese Unie van 7 maart 2002 betreffende de machtiging voor elektronische-communicatienetwerken en -diensten (PbEG L 108), Richtlijn nr. 2002/21/EG van het Europees Parlement en de Raad van de Europese Unie van 7 maart 2002 inzake een gemeenschappelijk regelgevingskader voor elektronische-communicatienetwerken en -diensten (PbEG L 108), Richtlijn nr. 2002/22/EG van het Europees Parlement en de Raad van de Europese Unie van 7 maart 2002 inzake de universele dienst en gebruikersrechten met betrekking tot elektronische-communicatienetwerken en -diensten (PbEG L 108), Richtlijn nr. 2002/58/EG van het Europees Parlement en de Raad van de Europese Unie van 12 juli 2002 betreffende de verwerking van persoonsgegevens en de bescherming van de persoonlijke levenssfeer in de sector elektronische communicatie (PbEG L 201), alsmede Richtlijn nr. 2002/77/EG van de Commissie van de Europese Gemeenschappen van 16 september 2002 betreffende de mededinging op de markten voor elektronische-communicatienetwerken en -diensten (PbEG L 249);
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:   
 
 ###Artikel I 
@@ -51,7 +51,7 @@ Wijzigt de Wet Onafhankelijke post- en telecommunicatieautoriteit.
 
 ###Artikel XI 
 
-Onverminderd het bepaalde in [artikel 1:8, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), blijven verplichtingen op grond van deze wet of op grond van de [Telecommunicatiewet](../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) zoals deze luidt na het tijdstip van inwerkingtreding van deze wet, die ertoe strekken om ontwerpen van besluiten aan de Staten-Generaal voor te leggen buiten toepassing voor zover deze besluiten zijn vastgesteld voor het tijdstip van inwerkingtreding van deze wet.
+Onverminderd het bepaalde in artikel 1:8, eerste lid, van de Algemene wet bestuursrecht, blijven verplichtingen op grond van deze wet of op grond van de Telecommunicatiewet zoals deze luidt na het tijdstip van inwerkingtreding van deze wet, die ertoe strekken om ontwerpen van besluiten aan de Staten-Generaal voor te leggen buiten toepassing voor zover deze besluiten zijn vastgesteld voor het tijdstip van inwerkingtreding van deze wet.
 
 ###Artikel XII 
 
@@ -85,21 +85,21 @@ Wijzigt de Mededingingswet, de Elektriciteitswet 1998, de Gaswet en de Wet bestu
 
 Na de inwerkingtreding van deze wet berust: 
 
-a. het [Besluit alternatieve verdeling nummers](../../../../../../../../../../AMvB/besluit/alternatieve/verdeling/nummers/BWBR0014124/README.md) op [artikel 4.2, negende lid, van de Telecommunicatiewet](../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md); 
+a. het Besluit alternatieve verdeling nummers op artikel 4.2, negende lid, van de Telecommunicatiewet; 
 
-b. het [Besluit randapparaten en radioapparaten](../../../../../../../../../../AMvB/besluit/randapparaten/en/radioapparaten/BWBR0011261/README.md) mede op de artikelen 10.1b en [10.13, van de Telecommunicatiewet](../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md); 
+b. het Besluit randapparaten en radioapparaten mede op de artikelen 10.1b en 10.13, van de Telecommunicatiewet; 
 
-c. het [Besluit 1-1-2 alarmcentrales](../../../../../../../../../../ministeriele-regeling/besluit/1-1-2/alarmcentrales/BWBR0009991/README.md) mede op [artikel 11.10, vijfde lid, van de Telecommunicatiewet](../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md). 
+c. het Besluit 1-1-2 alarmcentrales mede op artikel 11.10, vijfde lid, van de Telecommunicatiewet. 
 
 ###Artikel XX 
 
-De tekst van de [Telecommunicatiewet](../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) wordt in het Staatsblad geplaatst.
+De tekst van de Telecommunicatiewet wordt in het Staatsblad geplaatst.
 
 ###Artikel XXI 
 
 1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip.   
 2.  In het koninklijk besluit kan worden bepaald dat daarbij aan te geven artikelen of onderdelen daarvan op een later, bij koninklijk besluit te bepalen tijdstip in werking treden.   
-3.  In een koninklijk besluit als bedoeld in het eerste en tweede lid, wordt zo nodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](../../../../../../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md). 
+3.  In een koninklijk besluit als bedoeld in het eerste en tweede lid, wordt zo nodig toepassing gegeven aan artikel 16 van de Tijdelijke referendumwet. 
 
 ###Artikel XXII 
 

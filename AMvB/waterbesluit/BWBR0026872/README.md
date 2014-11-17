@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 17 februari 2009, nr. CEND/HDJZ-2009/132 Sector WAT, Hoofddirectie Juridische Zaken, gedaan in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-Gelet op de [artikelen 1.2, tweede lid](../../../wet/waterwet/BWBR0025458/README.md), [2.9](../../../wet/waterwet/BWBR0025458/README.md), [2.14](../../../wet/waterwet/BWBR0025458/README.md), [3.1, eerste tot en met derde lid](../../../wet/waterwet/BWBR0025458/README.md), [3.10, tweede lid](../../../wet/waterwet/BWBR0025458/README.md), [3.11, tweede lid](../../../wet/waterwet/BWBR0025458/README.md), [4.3, eerste lid](../../../wet/waterwet/BWBR0025458/README.md), [4.7](../../../wet/waterwet/BWBR0025458/README.md), [4.8, tweede lid](../../../wet/waterwet/BWBR0025458/README.md), [5.1, derde lid](../../../wet/waterwet/BWBR0025458/README.md), [5.2, derde lid](../../../wet/waterwet/BWBR0025458/README.md), 5.29, eerste lid,[ 6.5](../../../wet/waterwet/BWBR0025458/README.md), [6.6](../../../wet/waterwet/BWBR0025458/README.md), [6.7](../../../wet/waterwet/BWBR0025458/README.md), [6.14, eerste lid](../../../wet/waterwet/BWBR0025458/README.md), [6.16, eerste lid,](../../../wet/waterwet/BWBR0025458/README.md) [6.20, tweede lid](../../../wet/waterwet/BWBR0025458/README.md), [7.8, tweede en derde lid](../../../wet/waterwet/BWBR0025458/README.md), en [10.1, eerste lid, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md);
+Gelet op de artikelen 1.2, tweede lid, 2.9, 2.14, 3.1, eerste tot en met derde lid, 3.10, tweede lid, 3.11, tweede lid, 4.3, eerste lid, 4.7, 4.8, tweede lid, 5.1, derde lid, 5.2, derde lid, 5.29, eerste lid, 6.5, 6.6, 6.7, 6.14, eerste lid, 6.16, eerste lid, 6.20, tweede lid, 7.8, tweede en derde lid, en 10.1, eerste lid, van de Waterwet;
 
 De Raad van State gehoord (advies van 5 juni 2009, nr. W09.09.0044/IV);
 
@@ -46,7 +46,7 @@ Hebben goedgevonden en verstaan:
 
 *Verdrag:* op 22 september 1992 te Parijs tot stand gekomen Verdrag inzake de bescherming van het mariene milieu in het noordoostelijk deel van de Atlantische Oceaan (Trb. 1993, 16);
 
-*wet:* [Waterwet](../../../wet/waterwet/BWBR0025458/README.md);
+*wet:* Waterwet;
 
 *zijwater:* oppervlaktewaterlichaam dat in open verbinding staat met een van de hoofdwateren.   
 2.  In dit besluit en de daarop berustende bepalingen wordt onder oppervlaktewaterlichaam mede begrepen een gedeelte van een oppervlaktewaterlichaam.  
@@ -66,7 +66,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1.3  
 
-Dit besluit berust mede op [artikel 7.23, vijfde lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md). 
+Dit besluit berust mede op artikel 7.23, vijfde lid, van de wet. 
 
 ### Hoofdstuk  2  
 
@@ -134,7 +134,7 @@ Onverminderd artikel 2.1, kunnen bij of krachtens provinciale verordening voor r
 
 ### Artikel  2.3  
 
-1.  Het bevoegd gezag controleert het brengen van stedelijk afvalwater in een oppervlaktewaterlichaam vanuit een zuiveringtechnisch werk op de naleving van de eisen gesteld krachtens de [artikelen 3.5e](../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.5f van het Activiteitenbesluit milieubeheer](../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) in ieder geval overeenkomstig de in [artikel 3.5g, eerste lid, van dat besluit](../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) bedoelde regels.   
+1.  Het bevoegd gezag controleert het brengen van stedelijk afvalwater in een oppervlaktewaterlichaam vanuit een zuiveringtechnisch werk op de naleving van de eisen gesteld krachtens de artikelen 3.5e en 3.5f van het Activiteitenbesluit milieubeheer in ieder geval overeenkomstig de in artikel 3.5g, eerste lid, van dat besluit bedoelde regels.   
 2.  Het bevoegd gezag controleert oppervlaktewaterlichamen waarin vanuit een zuiveringtechnisch werk stedelijk afvalwater wordt gebracht of waarin bedrijfsafvalwater wordt gebracht afkomstig van een bij ministeriële regeling aangewezen categorie van bedrijven of bedrijfsactiviteiten, in ieder geval wanneer mag worden verwacht dat de kwaliteit van het ontvangende oppervlaktewaterlichaam in betekenende mate zal worden beïnvloed.   
 3.  Het bevoegd gezag legt binnen vier maanden na ontvangst van een verzoek daartoe de resultaten van de in het eerste en tweede lid bedoelde controles over aan Onze Minister.  
 
@@ -198,7 +198,7 @@ c. gegevens omtrent de voortgang van de uitvoering van de maatregelen, bedoeld i
 
 ### Artikel  4.1  
 
-1.  De voorbereiding van het nationale waterplan en de documenten die ten behoeve van het opstellen van dat plan afzonderlijk worden vastgesteld, geschiedt overeenkomstig [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met dien verstande dat zienswijzen op het ontwerp naar voren kunnen worden gebracht door een ieder, gedurende een termijn van zes maanden.   
+1.  De voorbereiding van het nationale waterplan en de documenten die ten behoeve van het opstellen van dat plan afzonderlijk worden vastgesteld, geschiedt overeenkomstig afdeling 3.4 van de Algemene wet bestuursrecht, met dien verstande dat zienswijzen op het ontwerp naar voren kunnen worden gebracht door een ieder, gedurende een termijn van zes maanden.   
 2.  Het ontwerp van het nationale waterplan wordt ten minste een jaar voor het begin van de periode waarop het plan betrekking heeft ter inzage gelegd.   
 3.  De ontwerpen van het nationale waterplan en de documenten, bedoeld in het eerste lid, worden tevens ter inzage gelegd bij de provincies.  
 
@@ -232,7 +232,7 @@ a. het ontwerp van de stroomgebiedbeheerplannen die betrekking hebben of mede be
 b. het ontwerp van de overstromingsrisicobeheerplannen die betrekking hebben of mede betrekking hebben op het Nederlandse grondgebied;  
 
 c. de initiële beoordeling en het monitoringsprogramma, bedoeld in het eerste lid, onderdeel c, onder 1° respectievelijk 4°.    
-3.  Op een overstromingsrisicobeheerplan is [artikel 4.3, tweede lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md) van overeenkomstige toepassing.   
+3.  Op een overstromingsrisicobeheerplan is artikel 4.3, tweede lid, van de wet van overeenkomstige toepassing.   
 4.  Het ontwerp van een samenvatting, bedoeld in het eerste lid, onderdeel c, wordt telkens ten minste zes weken voor het tijdstip waarop zij wordt vastgesteld ter inzage gelegd. 
 
 ### Artikel  4.4  
@@ -277,8 +277,8 @@ b. een programma van maatregelen, opgesteld overeenkomstig de eisen gesteld in d
 a. de doelstellingen en maatregelen, bedoeld in het eerste lid, alsmede een overzicht van de financiële middelen die voor de uitvoering van die maatregelen nodig zijn, en  
 
 b. de goede milieutoestand, de milieudoelen met bijbehorende indicatoren en het programma van maatregelen, bedoeld in het tweede lid.     
-4.  Maatregelen als bedoeld in artikel 11 van de kaderrichtlijn water dienen uiterlijk drie jaren na de in [artikel 4.8, eerste lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md) bedoelde zesjaarlijkse herziening operationeel te zijn.   
-5.  Het programma van maatregelen, bedoeld in het tweede lid, onderdeel b, is uiterlijk een jaar na de in [artikel 4.8, eerste lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md) bedoelde zesjaarlijkse herziening operationeel. 
+4.  Maatregelen als bedoeld in artikel 11 van de kaderrichtlijn water dienen uiterlijk drie jaren na de in artikel 4.8, eerste lid, van de wet bedoelde zesjaarlijkse herziening operationeel te zijn.   
+5.  Het programma van maatregelen, bedoeld in het tweede lid, onderdeel b, is uiterlijk een jaar na de in artikel 4.8, eerste lid, van de wet bedoelde zesjaarlijkse herziening operationeel. 
 
 ### Artikel  4.6a  
 
@@ -292,13 +292,13 @@ Onze Ministers leggen in het nationale waterplan de functie drinkwateronttrekkin
 
 1.  Onze Ministers leggen in het nationale waterplan de functie zwemwater vast: 
 
-a. indien de maatregelen ter verwezenlijking van de op grond van [artikel 1, derde lid, van de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden](../../../wet/wet/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0002660/README.md) voorgeschreven klasse «aanvaardbaar» naar hun oordeel uitvoerbaar en niet onevenredig kostbaar zijn;  
+a. indien de maatregelen ter verwezenlijking van de op grond van artikel 1, derde lid, van de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden voorgeschreven klasse «aanvaardbaar» naar hun oordeel uitvoerbaar en niet onevenredig kostbaar zijn;  
 
 b. voor zover die functie verenigbaar is met de andere aan het water toegekende functies.     
-2.  De functie zwemwater wordt niet vastgelegd, indien een op grond van [artikel 10b, tweede lid, van de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden](../../../wet/wet/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0002660/README.md) aangewezen locatie gedurende vijf achtereenvolgende jaren in de klasse «slecht» is ingedeeld.   
-3.  Onze Ministers houden bij de vaststelling van de functie zwemwater rekening met het oordeel van gedeputeerde staten, bedoeld in [artikel 10b, eerste lid, van de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden](../../../wet/wet/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0002660/README.md).   
-4.  Indien voor een rijkswater toepassing wordt gegeven aan [artikel 11, tweede lid, van de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden](../../../wet/wet/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0002660/README.md) zijn Onze Ministers bevoegd om de functie zwemwater niet langer vast te leggen in het nationale waterplan.   
-5.  Voor zover de in het nationale waterplan vastgelegde functie zwemwater heeft geleid tot een aanwijzing op grond van [artikel 10b, tweede lid, van de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden](../../../wet/wet/hygiëne/en/veiligheid/zwemgelegenheden/BWBR0002660/README.md), wordt deze functie gedurende het badseizoen niet ongedaan gemaakt.  
+2.  De functie zwemwater wordt niet vastgelegd, indien een op grond van artikel 10b, tweede lid, van de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden aangewezen locatie gedurende vijf achtereenvolgende jaren in de klasse «slecht» is ingedeeld.   
+3.  Onze Ministers houden bij de vaststelling van de functie zwemwater rekening met het oordeel van gedeputeerde staten, bedoeld in artikel 10b, eerste lid, van de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden.   
+4.  Indien voor een rijkswater toepassing wordt gegeven aan artikel 11, tweede lid, van de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden zijn Onze Ministers bevoegd om de functie zwemwater niet langer vast te leggen in het nationale waterplan.   
+5.  Voor zover de in het nationale waterplan vastgelegde functie zwemwater heeft geleid tot een aanwijzing op grond van artikel 10b, tweede lid, van de Wet hygiëne en veiligheid badinrichtingen en zwemgelegenheden, wordt deze functie gedurende het badseizoen niet ongedaan gemaakt.  
 
 ### Artikel  4.9  
 
@@ -349,7 +349,7 @@ Indien internationale verplichtingen of bovenregionale belangen dat noodzakelijk
 
 ### Artikel  4.14  
 
-1.  De voorbereiding van het beheerplan voor de rijkswateren geschiedt overeenkomstig [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met dien verstande dat zienswijzen op het ontwerp naar voren kunnen worden gebracht door een ieder.   
+1.  De voorbereiding van het beheerplan voor de rijkswateren geschiedt overeenkomstig afdeling 3.4 van de Algemene wet bestuursrecht, met dien verstande dat zienswijzen op het ontwerp naar voren kunnen worden gebracht door een ieder.   
 2.  Het ontwerp van het beheerplan voor de rijkswateren wordt tevens ter inzage gelegd bij de provincies.   
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent de voorbereiding, vormgeving en inrichting van het beheerplan voor de rijkswateren.  
 
@@ -395,7 +395,7 @@ Indien internationale verplichtingen of bovenregionale belangen dat noodzakelijk
 
 ### Artikel  5.1  
 
-Van de in [artikel 5.1, eerste lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md) bedoelde verplichtingen wordt vrijstelling verleend met betrekking tot de volgende waterstaatswerken of delen daarvan: 
+Van de in artikel 5.1, eerste lid, van de wet bedoelde verplichtingen wordt vrijstelling verleend met betrekking tot de volgende waterstaatswerken of delen daarvan: 
 
 a. de oppervlaktewaterlichamen Noordzee, Waddenzee, Eems-Dollard, Westerschelde en IJsselmeer, met inbegrip van het Zwarte Meer en Ketelmeer;  
 
@@ -420,7 +420,7 @@ c. Veerse Meer;
 d. Volkerak-Zoommeer, Bathse Spuikanaal, Schelde-Rijnverbinding tussen het Volkerak-Zoommeer en de Kreekraksluizen;  
 
 e. IJsselmeer, Ketelmeer, Vossemeer, Zwarte Meer, Markermeer, IJmeer, Buiten-IJ, Gooimeer, Eemmeer, Wolderwijd, Nijkerkernauw, Nuldernauw, Veluwemeer, Drontermeer.     
-2.  De voorbereiding van een peilbesluit geschiedt overeenkomstig [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met dien verstande dat Onze Minister binnen acht weken na afloop van de termijn, genoemd in [artikel 3.11, vierde lid, van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), het peilbesluit vaststelt.   
+2.  De voorbereiding van een peilbesluit geschiedt overeenkomstig afdeling 3.4 van de Algemene wet bestuursrecht, met dien verstande dat Onze Minister binnen acht weken na afloop van de termijn, genoemd in artikel 3.11, vierde lid, van die wet, het peilbesluit vaststelt.   
 3.  Bij het vaststellen van een peilbesluit houdt Onze Minister rekening met het nationale waterplan en het beheerplan voor de rijkswateren.  
 
 ### §  3  
@@ -459,7 +459,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 *bedrijfsafvalwater:* afvalwater dat vrijkomt bij door de mens bedrijfsmatig of in een omvang alsof zij bedrijfsmatig was, ondernomen bedrijvigheid, dat geen huishoudelijk afvalwater, afvloeiend hemelwater of grondwater is;
 
-*bouwen:* een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);
+*bouwen:* een bouwactiviteit als bedoeld in artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht;
 
 *emissiegrenswaarde:* emissiegrenswaarde als bedoeld in artikel 2, onderdeel 40, van de kaderrichtlijn water;
 
@@ -473,7 +473,7 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Artikel  6.1a  
 
-Bij het verlenen van een watervergunning houdt het bevoegd gezag rekening met de ingevolge de [artikelen 4.1](../../../wet/waterwet/BWBR0025458/README.md), [4.4](../../../wet/waterwet/BWBR0025458/README.md) en [4.6 van de wet](../../../wet/waterwet/BWBR0025458/README.md) vastgestelde plannen, die betrekking hebben op het betreffende watersysteem of onderdeel daarvan. 
+Bij het verlenen van een watervergunning houdt het bevoegd gezag rekening met de ingevolge de artikelen 4.1, 4.4 en 4.6 van de wet vastgestelde plannen, die betrekking hebben op het betreffende watersysteem of onderdeel daarvan. 
 
 ### §  2  
 
@@ -481,27 +481,27 @@ Bij het verlenen van een watervergunning houdt het bevoegd gezag rekening met de
 
 ### Artikel  6.1b  
 
-Op de voorbereiding van een vergunning als bedoeld in [artikel 6.2 van de wet](../../../wet/waterwet/BWBR0025458/README.md) zijn de [afdelingen 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [13.2 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing, indien het lozen plaatsvindt: 
+Op de voorbereiding van een vergunning als bedoeld in artikel 6.2 van de wet zijn de afdelingen 3.4 van de Algemene wet bestuursrecht en 13.2 van de Wet milieubeheer niet van toepassing, indien het lozen plaatsvindt: 
 
-a. vanuit een inrichting, niet zijnde een inrichting als bedoeld in [artikel 1.1, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+a. vanuit een inrichting, niet zijnde een inrichting als bedoeld in artikel 1.1, derde lid, van de Wet algemene bepalingen omgevingsrecht;  
 
-b. anders dan vanuit een inrichting in de zin van [artikel 1.1, derde lid, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md).  
+b. anders dan vanuit een inrichting in de zin van artikel 1.1, derde lid, van de Wet milieubeheer.  
 
 ### Artikel  6.1c*  
 
-Op de voorbereiding van een beschikking tot verlening, wijziging of intrekking van een vergunning voor een open bodemenergiesysteem als bedoeld in [artikel 6.4, eerste lid, onder b, van de wet](../../../wet/waterwet/BWBR0025458/README.md) zijn [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing. 
+Op de voorbereiding van een beschikking tot verlening, wijziging of intrekking van een vergunning voor een open bodemenergiesysteem als bedoeld in artikel 6.4, eerste lid, onder b, van de wet zijn afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van de Wet milieubeheer niet van toepassing. 
 
 ### Artikel  6.1c  
 
-[Hoofdstuk 6 van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md) is mede van toepassing op handelingen waaromtrent regels zijn gesteld bij of krachtens de [Wet gewasbeschermingsmiddelen en biociden](../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), voor zover die handelingen plaatsvinden in het kader van agrarische activiteiten als bedoeld in [artikel 1.1 van het Activiteitenbesluit milieubeheer](../../../AMvB/activiteitenbesluit/BWBR0022762/README.md). 
+Hoofdstuk 6 van de Waterwet is mede van toepassing op handelingen waaromtrent regels zijn gesteld bij of krachtens de Wet gewasbeschermingsmiddelen en biociden, voor zover die handelingen plaatsvinden in het kader van agrarische activiteiten als bedoeld in artikel 1.1 van het Activiteitenbesluit milieubeheer. 
 
 ### Artikel  6.2  
 
 Indien internationale verplichtingen dat noodzakelijk maken, kan bij ministeriële regeling worden bepaald dat: 
 
-a. in een vergunning als bedoeld in [artikel 6.2 van de wet](../../../wet/waterwet/BWBR0025458/README.md) wordt bepaald dat zij geldt voor een bij die vergunning vast te stellen termijn van ten hoogste een bij die regeling vast te stellen aantal jaren;  
+a. in een vergunning als bedoeld in artikel 6.2 van de wet wordt bepaald dat zij geldt voor een bij die vergunning vast te stellen termijn van ten hoogste een bij die regeling vast te stellen aantal jaren;  
 
-b. het bevoegd gezag met een bij die regeling vast te stellen frequentie beziet of een vergunning als bedoeld in [artikel 6.2 van de wet](../../../wet/waterwet/BWBR0025458/README.md) nog toereikend is, gezien de ontwikkelingen op het gebied van de technische mogelijkheden tot bescherming van het milieu en de ontwikkelingen met betrekking tot de kwaliteit van het milieu.   
+b. het bevoegd gezag met een bij die regeling vast te stellen frequentie beziet of een vergunning als bedoeld in artikel 6.2 van de wet nog toereikend is, gezien de ontwikkelingen op het gebied van de technische mogelijkheden tot bescherming van het milieu en de ontwikkelingen met betrekking tot de kwaliteit van het milieu.   
 
 ### Artikel  6.3  
 
@@ -517,28 +517,28 @@ Indien internationale verplichtingen dat noodzakelijk maken, kunnen bij minister
 
 ### Artikel  6.8  
 
-1.  Een vergunning als bedoeld in [artikel 6.3 van de wet](../../../wet/waterwet/BWBR0025458/README.md) kan slechts worden verleend in overeenstemming met het Protocol en het Verdrag.   
-2.  Van de vergunningplicht, bedoeld in [artikel 6.3 van de wet](../../../wet/waterwet/BWBR0025458/README.md), zijn de volgende gedragingen vrijgesteld: 
+1.  Een vergunning als bedoeld in artikel 6.3 van de wet kan slechts worden verleend in overeenstemming met het Protocol en het Verdrag.   
+2.  Van de vergunningplicht, bedoeld in artikel 6.3 van de wet, zijn de volgende gedragingen vrijgesteld: 
 
 a. het plaatsen van vaste substanties of voorwerpen met een ander oogmerk dan het zich er enkel van ontdoen;  
 
 b. het achterlaten van vaste substanties of voorwerpen die aanvankelijk in zee zijn geplaatst met een ander oogmerk dan het zich ervan ontdoen.     
-3.  In de gevallen, waarin door overmacht het in [artikel 6.3, eerste lid, onderdeel a, van de wet](../../../wet/waterwet/BWBR0025458/README.md) omschreven verbod wordt overtreden, maakt de kapitein van het vaartuig of de gezagvoerder van het luchtvaartuig van het voorval melding in het scheepsdagboek of het journaal. Tevens doet hij van dit voorval onverwijld mededeling aan Onze Minister.  
+3.  In de gevallen, waarin door overmacht het in artikel 6.3, eerste lid, onderdeel a, van de wet omschreven verbod wordt overtreden, maakt de kapitein van het vaartuig of de gezagvoerder van het luchtvaartuig van het voorval melding in het scheepsdagboek of het journaal. Tevens doet hij van dit voorval onverwijld mededeling aan Onze Minister.  
 
 ### Artikel  6.9  
 
-1.  Een vergunning als bedoeld in [artikel 6.3 van de wet](../../../wet/waterwet/BWBR0025458/README.md) wordt verleend door Onze Minister, in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
-2.  [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) zijn niet van toepassing, indien: 
+1.  Een vergunning als bedoeld in artikel 6.3 van de wet wordt verleend door Onze Minister, in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer.   
+2.  Afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van de Wet milieubeheer zijn niet van toepassing, indien: 
 
 a. de aanvraag betrekking heeft op het in het buitenland aan boord van een Nederlands vaartuig of luchtvaartuig nemen van afvalstoffen, verontreinigende of schadelijke stoffen, met het oogmerk die stoffen te storten; en  
 
 b. de Staat op wiens grondgebied dat aan boord nemen geschiedt, partij is bij het Protocol of het Verdrag.     
-3.  Voorts kan Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer bepalen dat [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [afdeling 13.2 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) niet van toepassing zijn indien de aanvraag betrekking heeft op stoffen waarvan door een ongewoon voorval de afvoer op korte termijn nodig is.  
+3.  Voorts kan Onze Minister in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer bepalen dat afdeling 3.4 van de Algemene wet bestuursrecht en afdeling 13.2 van de Wet milieubeheer niet van toepassing zijn indien de aanvraag betrekking heeft op stoffen waarvan door een ongewoon voorval de afvoer op korte termijn nodig is.  
 
 ### Artikel  6.10  
 
-1.  Degene aan wie gevaarlijke afvalstoffen in de zin van de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden afgegeven met het oogmerk deze te doen storten is verplicht elke zodanige afgifte te melden aan de krachtens [artikel 10.40 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen instantie. Op de melding zijn de regels die zijn vastgesteld krachtens [artikel 10.41 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) van overeenkomstige toepassing.   
-2.  Het is een persoon als bedoeld in de eerste volzin van het eerste lid verboden gevaarlijke afvalstoffen in ontvangst te nemen zonder dat hem daarbij een omschrijving en een begeleidingsbrief als bedoeld in [artikel 10.39 van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) worden verstrekt.  
+1.  Degene aan wie gevaarlijke afvalstoffen in de zin van de Wet milieubeheer worden afgegeven met het oogmerk deze te doen storten is verplicht elke zodanige afgifte te melden aan de krachtens artikel 10.40 van de Wet milieubeheer aangewezen instantie. Op de melding zijn de regels die zijn vastgesteld krachtens artikel 10.41 van de Wet milieubeheer van overeenkomstige toepassing.   
+2.  Het is een persoon als bedoeld in de eerste volzin van het eerste lid verboden gevaarlijke afvalstoffen in ontvangst te nemen zonder dat hem daarbij een omschrijving en een begeleidingsbrief als bedoeld in artikel 10.39 van de Wet milieubeheer worden verstrekt.  
 
 ### §  5  
 
@@ -546,16 +546,16 @@ b. de Staat op wiens grondgebied dat aan boord nemen geschiedt, partij is bij he
 
 ### Artikel  6.10a  
 
-1.  Het is verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in [artikel 6.5, aanhef en onder b, van de wet](../../../wet/waterwet/BWBR0025458/README.md), grondwater te onttrekken of water te infiltreren onder oppervlaktewaterlichamen in beheer bij het Rijk, voor zover dat beheer inhoudt het uitvoeren en handhaven van bij of krachtens de [wet](../../../wet/waterwet/BWBR0025458/README.md) gestelde regels ten aanzien van peilbesluiten of het brengen van water in of het onttrekken van water uit oppervlaktewaterlichamen (waterkwantiteitsbeheer).   
+1.  Het is verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in artikel 6.5, aanhef en onder b, van de wet, grondwater te onttrekken of water te infiltreren onder oppervlaktewaterlichamen in beheer bij het Rijk, voor zover dat beheer inhoudt het uitvoeren en handhaven van bij of krachtens de wet gestelde regels ten aanzien van peilbesluiten of het brengen van water in of het onttrekken van water uit oppervlaktewaterlichamen (waterkwantiteitsbeheer).   
 2.  Bij ministeriële regeling kan worden bepaald dat het eerste lid niet van toepassing is voor daarbij aan te wijzen categorieën van gevallen waarin het onttrekken of infiltreren een daarbij vastgestelde hoeveelheidsgrens niet overschrijdt.  
 
 ### Artikel  6.11  
 
-1.  Degene die grondwater onttrekt of water infiltreert, waarvoor geen vergunning is vereist krachtens [artikel 6.4 van de wet](../../../wet/waterwet/BWBR0025458/README.md), artikel 6.10a of een verordening van het waterschap, meldt dit bij het bevoegd gezag. Bij ministeriële regeling worden regels gesteld over de gegevens die bij de melding worden verstrekt.   
+1.  Degene die grondwater onttrekt of water infiltreert, waarvoor geen vergunning is vereist krachtens artikel 6.4 van de wet, artikel 6.10a of een verordening van het waterschap, meldt dit bij het bevoegd gezag. Bij ministeriële regeling worden regels gesteld over de gegevens die bij de melding worden verstrekt.   
 2.  Degene die grondwater onttrekt of water infiltreert, meet de in elk kwartaal onttrokken hoeveelheid grondwater of geïnfiltreerd water met een nauwkeurigheid van ten minste 95%. Voor kortdurende of seizoensgebonden onttrekkingen of infiltraties kan het bevoegd gezag in de voorschriften van de vergunning voor het onttrekken van grondwater of het infiltreren van water of, indien geen vergunning is vereist, bij maatwerkvoorschrift bepalen dat de hoeveelheid over een kortere tijdsspanne wordt gemeten.   
 3.  Degene die water infiltreert, meet de kwaliteit van dat water volgens bij ministeriële regeling te stellen regels.   
 4.  Uiterlijk op 31 januari van elk jaar of, indien de onttrekking of infiltratie is beëindigd, binnen een maand na het tijdstip van beëindiging, wordt opgave gedaan aan het bevoegd gezag over de in het voorgaande kalenderjaar gemeten hoeveelheden onttrokken grondwater, geïnfiltreerd water en de kwaliteit van het geïnfiltreerde water.   
-5.  Bij provinciale verordening, voor zover het betreft het onttrekken van grondwater of het infiltreren van water als bedoeld in [artikel 6.4 van de wet](../../../wet/waterwet/BWBR0025458/README.md), dan wel bij verordening van het waterschap, voor zover het betreft het onttrekken van grondwater of het infiltreren van water in andere gevallen dan bedoeld in dat artikel, kunnen gevallen worden aangewezen waarin de verplichtingen, bedoeld in het eerste tot en met vierde lid, niet gelden.  
+5.  Bij provinciale verordening, voor zover het betreft het onttrekken van grondwater of het infiltreren van water als bedoeld in artikel 6.4 van de wet, dan wel bij verordening van het waterschap, voor zover het betreft het onttrekken van grondwater of het infiltreren van water in andere gevallen dan bedoeld in dat artikel, kunnen gevallen worden aangewezen waarin de verplichtingen, bedoeld in het eerste tot en met vierde lid, niet gelden.  
 
 ### §  5a  
 
@@ -563,8 +563,8 @@ b. de Staat op wiens grondgebied dat aan boord nemen geschiedt, partij is bij he
 
 ### Artikel  6.11a  
 
-1.  Het bevoegd gezag verbindt aan een vergunning als bedoeld in [artikel 6.4, eerste lid, onder b, van de wet](../../../wet/waterwet/BWBR0025458/README.md) voor het onttrekken van grondwater voor een open bodemenergiesysteem de voorschriften die zijn opgenomen in de artikelen 6.11b tot en met 6.11g.   
-2.  Bij ministeriële regeling kunnen ter bescherming van de in [artikel 2.1 van de wet](../../../wet/waterwet/BWBR0025458/README.md) bedoelde doelstellingen en belangen nadere regels worden gesteld indien dit wenselijk is in het belang van een goede uitvoering van deze paragraaf.  
+1.  Het bevoegd gezag verbindt aan een vergunning als bedoeld in artikel 6.4, eerste lid, onder b, van de wet voor het onttrekken van grondwater voor een open bodemenergiesysteem de voorschriften die zijn opgenomen in de artikelen 6.11b tot en met 6.11g.   
+2.  Bij ministeriële regeling kunnen ter bescherming van de in artikel 2.1 van de wet bedoelde doelstellingen en belangen nadere regels worden gesteld indien dit wenselijk is in het belang van een goede uitvoering van deze paragraaf.  
 
 ### Artikel  6.11b  
 
@@ -592,7 +592,7 @@ c. het energierendement dat jaarlijks vanaf de datum van ingebruikneming is beha
 
 ### Artikel  6.11e  
 
-Het verrichten van werkzaamheden ten behoeve van een open bodemenergiesysteem vindt plaats overeenkomstig de daartoe krachtens het [Besluit bodemkwaliteit](../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) aangewezen normdocumenten door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit. 
+Het verrichten van werkzaamheden ten behoeve van een open bodemenergiesysteem vindt plaats overeenkomstig de daartoe krachtens het Besluit bodemkwaliteit aangewezen normdocumenten door een persoon of instelling, die daartoe beschikt over een erkenning op grond van dat besluit. 
 
 ### Artikel  6.11f  
 
@@ -612,14 +612,14 @@ Het verrichten van werkzaamheden ten behoeve van een open bodemenergiesysteem vi
 1.  Het bevoegd gezag verbindt aan een vergunning zodanige voorschriften dat het in werking hebben van een open bodemenergiesysteem niet leidt tot zodanige interferentie met een eerder geïnstalleerd bodemenergiesysteem, dat het doelmatig functioneren van een van de desbetreffende systemen kan worden geschaad.   
 2.  Bij de toepassing van het eerste lid wordt rekening gehouden met een eerder geïnstalleerd bodemenergiesysteem, indien: 
 
-a. het een open bodemenergiesysteem betreft waarvoor een vergunning is verleend krachtens [artikel 6.4, eerste lid, onder b, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md), of dat aan het bevoegd gezag is gemeld krachtens [artikel 6.6 van die wet](../../../wet/waterwet/BWBR0025458/README.md);  
+a. het een open bodemenergiesysteem betreft waarvoor een vergunning is verleend krachtens artikel 6.4, eerste lid, onder b, van de Waterwet, of dat aan het bevoegd gezag is gemeld krachtens artikel 6.6 van die wet;  
 
-b. het een gesloten bodemenergiesysteem betreft dat aan het bevoegd gezag is gemeld overeenkomstig [artikel 1.10](../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) juncto [artikel 1.21a, eerste of derde lid, van het Activiteitenbesluit milieubeheer](../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) dan wel [artikel 1.10a, eerste lid, van het Besluit lozen buiten inrichtingen](../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md) of waarvoor een omgevingsvergunning is verleend.    
+b. het een gesloten bodemenergiesysteem betreft dat aan het bevoegd gezag is gemeld overeenkomstig artikel 1.10 juncto artikel 1.21a, eerste of derde lid, van het Activiteitenbesluit milieubeheer dan wel artikel 1.10a, eerste lid, van het Besluit lozen buiten inrichtingen of waarvoor een omgevingsvergunning is verleend.    
 
 ### Artikel  6.11i  
 
 1.  Met betrekking tot de onderwerpen die in de artikelen 6.11b tot en met 6.11h zijn geregeld, verbindt het bevoegd gezag geen andere voorschriften aan de vergunning, bedoeld in het eerste lid, dan de voorschriften die daaraan moeten worden verbonden krachtens die artikelen.   
-2.  Het bevoegd gezag kan aan de vergunning in aanvulling op de voorschriften die zijn opgenomen in de artikelen 6.11b tot en met 6.11h, met betrekking tot onderwerpen die in die artikelen niet zijn geregeld, andere voorschriften verbinden ter bescherming van de in [artikel 2.1 van de wet](../../../wet/waterwet/BWBR0025458/README.md) bedoelde doelstellingen en belangen.   
+2.  Het bevoegd gezag kan aan de vergunning in aanvulling op de voorschriften die zijn opgenomen in de artikelen 6.11b tot en met 6.11h, met betrekking tot onderwerpen die in die artikelen niet zijn geregeld, andere voorschriften verbinden ter bescherming van de in artikel 2.1 van de wet bedoelde doelstellingen en belangen.   
 3.  De voorschriften, bedoeld in het eerste lid, kunnen mede inhouden de verplichting om met betrekking tot een bodemenergiesysteem het verrichten van handelingen te melden, metingen of berekeningen uit te voeren, gegevens bij te houden en daarvan opgave te doen aan een daarbij aangewezen bestuursorgaan.  
 
 ### §  6  
@@ -628,7 +628,7 @@ b. het een gesloten bodemenergiesysteem betreft dat aan het bevoegd gezag is gem
 
 ### Artikel  6.12  
 
-1.  Het is verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) gebruik te maken van een oppervlaktewaterlichaam of een bijbehorend kunstwerk in beheer bij het Rijk, niet zijnde de Noordzee, door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder: 
+1.  Het is verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in artikel 6.5 van de wet gebruik te maken van een oppervlaktewaterlichaam of een bijbehorend kunstwerk in beheer bij het Rijk, niet zijnde de Noordzee, door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder: 
 
 a. werken te maken of te behouden;  
 
@@ -652,11 +652,11 @@ g. ontgrondingen.
 
 ### Artikel  6.13  
 
-1.  Het is verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) gebruik te maken van de Noordzee door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder: 
+1.  Het is verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in artikel 6.5 van de wet gebruik te maken van de Noordzee door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder: 
 
 a. de bodem op te hogen of te verharden of land aan te winnen;  
 
-b. suppleties of andere handelingen die een landwaartse verplaatsing van de kustlijn tot gevolg kunnen hebben uit te voeren, anders dan op grond van [artikel 2.7 van de wet](../../../wet/waterwet/BWBR0025458/README.md);  
+b. suppleties of andere handelingen die een landwaartse verplaatsing van de kustlijn tot gevolg kunnen hebben uit te voeren, anders dan op grond van artikel 2.7 van de wet;  
 
 c. installaties of kabels en leidingen te plaatsen of neer te leggen, of deze te laten staan of liggen;  
 
@@ -665,7 +665,7 @@ d. te bouwen.
 
 ### Artikel  6.14  
 
-1.  Het is verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) gebruik te maken van waterkeringen in beheer bij het Rijk of van een daartoe behorende beschermingszone door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder werken te maken of te behouden, dan wel vaste substanties of voorwerpen te storten, te plaatsen of neer te leggen, of deze te laten staan of liggen.   
+1.  Het is verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in artikel 6.5 van de wet gebruik te maken van waterkeringen in beheer bij het Rijk of van een daartoe behorende beschermingszone door, anders dan in overeenstemming met de functie, daarin, daarop, daarboven, daarover of daaronder werken te maken of te behouden, dan wel vaste substanties of voorwerpen te storten, te plaatsen of neer te leggen, of deze te laten staan of liggen.   
 2.  Artikel 6.12, tweede lid, aanhef en onderdelen c en f, is van overeenkomstige toepassing.  
 
 ### Artikel  6.15  
@@ -695,7 +695,7 @@ b. het melden en registreren van gegevens ten aanzien van het gebruik en de opga
 
 ### Artikel  6.17  
 
-Het is in bij ministeriële regeling te bepalen gevallen verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in [artikel 6.5 van de wet](../../../wet/waterwet/BWBR0025458/README.md) water te brengen in of te onttrekken aan oppervlaktewaterlichamen in beheer bij het Rijk. 
+Het is in bij ministeriële regeling te bepalen gevallen verboden zonder daartoe strekkende vergunning van Onze Minister als bedoeld in artikel 6.5 van de wet water te brengen in of te onttrekken aan oppervlaktewaterlichamen in beheer bij het Rijk. 
 
 ### Artikel  6.18  
 
@@ -723,13 +723,13 @@ Degene die water brengt in of onttrekt aan oppervlaktewaterlichamen in beheer bi
 
 ### Artikel  6.22  
 
-1.  In afwijking van [artikel 2:15, tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), neemt het bevoegd gezag een aanvraag die langs elektronische weg wordt ingediend, in ontvangst.   
+1.  In afwijking van artikel 2:15, tweede lid, van de Algemene wet bestuursrecht, neemt het bevoegd gezag een aanvraag die langs elektronische weg wordt ingediend, in ontvangst.   
 2.  Indien een aanvraag langs elektronische weg wordt ingediend, worden de daarbij te verstrekken gegevens en bescheiden eveneens langs elektronische weg verstrekt. De aanvrager kan de gegevens en bescheiden op schriftelijke wijze verstrekken, voor zover het bevoegd gezag daarvoor toestemming heeft gegeven.   
-3.  Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop een aanvraag langs elektronische weg wordt ingediend, alsmede met betrekking tot het beheer van de in de voorziening, bedoeld in [artikel 7.6 van de Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), opgenomen gegevens en bescheiden.  
+3.  Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop een aanvraag langs elektronische weg wordt ingediend, alsmede met betrekking tot het beheer van de in de voorziening, bedoeld in artikel 7.6 van de Wet algemene bepalingen omgevingsrecht, opgenomen gegevens en bescheiden.  
 
 ### Artikel  6.23  
 
-1.  Onverminderd [artikel 4:2, tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) verstrekt de aanvrager bij de aanvraag de bij ministeriële regeling aangewezen gegevens en bescheiden ten aanzien van de betrokken handelingen.   
+1.  Onverminderd artikel 4:2, tweede lid, van de Algemene wet bestuursrecht verstrekt de aanvrager bij de aanvraag de bij ministeriële regeling aangewezen gegevens en bescheiden ten aanzien van de betrokken handelingen.   
 2.  De in het eerste lid bedoelde gegevens en bescheiden behoeven niet te worden verstrekt voor zover: 
 
 a. de aanvrager die gegevens of bescheiden reeds aan het bevoegd gezag heeft verstrekt en het bevoegd gezag over die gegevens of bescheiden beschikt, of  
@@ -763,12 +763,12 @@ f. door middel van een oevergrondwaterwinning.
 
 ### Artikel  7.2  
 
-1.  De in [artikel 7.7, eerste lid, onderdeel b, van de wet](../../../wet/waterwet/BWBR0025458/README.md) bedoelde onderzoekingen bestaan uit: 
+1.  De in artikel 7.7, eerste lid, onderdeel b, van de wet bedoelde onderzoekingen bestaan uit: 
 
 a. onderzoekingen betreffende het grondwaterregime in de provincie, voor zover deze rechtstreeks noodzakelijk zijn voor de totstandkoming en de uitvoering van het regionale waterplan in verband met het onttrekken van grondwater dan wel het infiltreren van water in de bodem;  
 
 b. onderzoekingen naar de samenhang tussen het in onderdeel a bedoelde grondwaterregime en de daarbij betrokken belangen.     
-2.  De kosten van de in het eerste lid bedoelde onderzoekingen, welke kunnen worden aangemerkt als de kosten, bedoeld in [artikel 7.7, eerste lid, onderdeel b, van de wet](../../../wet/waterwet/BWBR0025458/README.md), zijn de kosten van: 
+2.  De kosten van de in het eerste lid bedoelde onderzoekingen, welke kunnen worden aangemerkt als de kosten, bedoeld in artikel 7.7, eerste lid, onderdeel b, van de wet, zijn de kosten van: 
 
 a. het verkrijgen en bewerken van gegevens betreffende de geohydrologische gesteldheid van de provincie;  
 
@@ -788,7 +788,7 @@ f. de publicatie van de resultaten van de onderzoekingen.
 
 ### Artikel  7.3  
 
-De maatregelen, bedoeld in [artikel 7.23, vijfde lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md), zijn vermeld in bijlage V bij dit besluit. 
+De maatregelen, bedoeld in artikel 7.23, vijfde lid, van de wet, zijn vermeld in bijlage V bij dit besluit. 
 
 ### Hoofdstuk  8  
 
@@ -800,7 +800,7 @@ De maatregelen, bedoeld in [artikel 7.23, vijfde lid, van de wet](../../../wet/w
 
 ### Artikel  8.1  
 
-De maatregelen, bedoeld in artikel 11 van de kaderrichtlijn water, die zijn opgenomen in een plan als bedoeld in de [artikelen 4.1](../../../wet/waterwet/BWBR0025458/README.md), [4.4](../../../wet/waterwet/BWBR0025458/README.md) of [4.6 van de wet](../../../wet/waterwet/BWBR0025458/README.md) dat betrekking heeft op de jaren 2010 tot 2015, dienen uiterlijk op 22 december 2012 operationeel te zijn. 
+De maatregelen, bedoeld in artikel 11 van de kaderrichtlijn water, die zijn opgenomen in een plan als bedoeld in de artikelen 4.1, 4.4 of 4.6 van de wet dat betrekking heeft op de jaren 2010 tot 2015, dienen uiterlijk op 22 december 2012 operationeel te zijn. 
 
 ### Artikel  8.1a  
 
@@ -815,18 +815,18 @@ De eerste overstromingsrisicobeheerplannen die betrekking hebben of mede betrekk
 
 ### Artikel  8.3  
 
-1.  Een opgave van een inrichting als bedoeld in [artikel 11, eerste lid, onderdeel a, van de Grondwaterwet](../../../wet/grondwaterwet/BWBR0003406/README.md), dan wel een melding als bedoeld in [artikel 15b van de Grondwaterwet](../../../wet/grondwaterwet/BWBR0003406/README.md), die is gedaan voor het tijdstip van inwerkingtreding van [artikel 6.4 van de wet](../../../wet/waterwet/BWBR0025458/README.md), wordt gelijkgesteld met een melding als bedoeld in artikel 6.11, eerste lid.   
-2.  Besluiten als bedoeld in artikel 3, eerste lid, of artikel 5, derde lid, in samenhang met [artikel 3, eerste lid, van het Uitvoeringsbesluit ex artikel 11 en 12 Grondwaterwet](../../../AMvB/uitvoeringsbesluit/ex/artikel/11/en/12/grondwaterwet/BWBR0003837/README.md), genomen door gedeputeerde staten voor het tijdstip van inwerkingtreding van [artikel 6.4 van de wet](../../../wet/waterwet/BWBR0025458/README.md), worden gelijkgesteld met maatwerkvoorschriften als bedoeld in artikel 6.11, tweede lid, genomen door het bevoegd gezag.   
-3.  Gedeputeerde staten dragen de archiefbescheiden die betrekking hebben op onttrekkingen en infiltraties, waarvoor het dagelijks bestuur van het waterschap ingevolge een verordening als bedoeld in a[rtikel 6.13 van de wet](../../../wet/waterwet/BWBR0025458/README.md) dan wel een algemene maatregel van bestuur als bedoeld in [artikel 6.5, onder b, van de wet](../../../wet/waterwet/BWBR0025458/README.md) bevoegd gezag is geworden, over aan dat dagelijks bestuur.   
-4.  Het derde lid geldt niet voor bescheiden die overeenkomstig de [Archiefwet 1995](../../../wet/archiefwet/1995/BWBR0007376/README.md) zijn overgebracht naar een archiefbewaarplaats.  
+1.  Een opgave van een inrichting als bedoeld in artikel 11, eerste lid, onderdeel a, van de Grondwaterwet, dan wel een melding als bedoeld in artikel 15b van de Grondwaterwet, die is gedaan voor het tijdstip van inwerkingtreding van artikel 6.4 van de wet, wordt gelijkgesteld met een melding als bedoeld in artikel 6.11, eerste lid.   
+2.  Besluiten als bedoeld in artikel 3, eerste lid, of artikel 5, derde lid, in samenhang met artikel 3, eerste lid, van het Uitvoeringsbesluit ex artikel 11 en 12 Grondwaterwet, genomen door gedeputeerde staten voor het tijdstip van inwerkingtreding van artikel 6.4 van de wet, worden gelijkgesteld met maatwerkvoorschriften als bedoeld in artikel 6.11, tweede lid, genomen door het bevoegd gezag.   
+3.  Gedeputeerde staten dragen de archiefbescheiden die betrekking hebben op onttrekkingen en infiltraties, waarvoor het dagelijks bestuur van het waterschap ingevolge een verordening als bedoeld in artikel 6.13 van de wet dan wel een algemene maatregel van bestuur als bedoeld in artikel 6.5, onder b, van de wet bevoegd gezag is geworden, over aan dat dagelijks bestuur.   
+4.  Het derde lid geldt niet voor bescheiden die overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats.  
 
 ### Artikel  8.4  
 
-1.  Van een vergunning als bedoeld in [artikel 2 van de Wet beheer rijkswaterstaatswerken](../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md) voor handelingen als bedoeld in de artikelen 6.12, tweede lid, 6.13, tweede lid en 6.14, tweede lid, die direct voor het tijdstip van inwerkingtreding van die artikelen in werking en onherroepelijk is, worden de voorschriften aangemerkt als voorschriften, gesteld krachtens artikel 6.15, derde lid, mits de voorschriften van die vergunning vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van voorschriften krachtens dat artikel.   
+1.  Van een vergunning als bedoeld in artikel 2 van de Wet beheer rijkswaterstaatswerken voor handelingen als bedoeld in de artikelen 6.12, tweede lid, 6.13, tweede lid en 6.14, tweede lid, die direct voor het tijdstip van inwerkingtreding van die artikelen in werking en onherroepelijk is, worden de voorschriften aangemerkt als voorschriften, gesteld krachtens artikel 6.15, derde lid, mits de voorschriften van die vergunning vallen binnen de bevoegdheid van het bevoegd gezag tot het stellen van voorschriften krachtens dat artikel.   
 2.  Het eerste lid is van overeenkomstige toepassing op een vergunning als bedoeld in dat lid, die overeenkomstig artikel 2.29 van de Invoeringswet Waterwet is verleend en onherroepelijk is geworden.   
-3.  Een vergunning voor de aanleg of wijziging van waterstaatswerken door of vanwege de beheerder, die onmiddellijk voor het tijdstip van inwerkingtreding van paragraaf 6 van hoofdstuk 6 in werking en onherroepelijk is overeenkomstig [artikel 2 van de Wet beheer rijkswaterstaatswerken](../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md), wordt, in afwijking van de artikelen 6.12, tweede lid, 6.13, tweede lid en 6.14, tweede lid, gelijkgesteld met een vergunning krachtens het eerste lid van die artikelen. [Artikel 5.4 van de wet](../../../wet/waterwet/BWBR0025458/README.md) is niet van toepassing op de aanleg of wijziging van een waterstaatswerk in overeenstemming met die vergunning.   
-4.  Het derde lid is van overeenkomstige toepassing op een vergunning als bedoeld in dat lid, die overeenkomstig [artikel 2.29 van de Invoeringswet Waterwet](../../../wet/invoeringswet/waterwet/BWBR0026710/README.md) is verleend en onherroepelijk is geworden.   
-5.  Het derde en vierde lid zijn niet van toepassing op de aanleg of wijziging van een waterstaatswerk waarop [artikel 2.16](../../../wet/invoeringswet/waterwet/BWBR0026710/README.md) of [artikel 2.16a van de Invoeringswet Waterwet](../../../wet/invoeringswet/waterwet/BWBR0026710/README.md) van toepassing is.  
+3.  Een vergunning voor de aanleg of wijziging van waterstaatswerken door of vanwege de beheerder, die onmiddellijk voor het tijdstip van inwerkingtreding van paragraaf 6 van hoofdstuk 6 in werking en onherroepelijk is overeenkomstig artikel 2 van de Wet beheer rijkswaterstaatswerken, wordt, in afwijking van de artikelen 6.12, tweede lid, 6.13, tweede lid en 6.14, tweede lid, gelijkgesteld met een vergunning krachtens het eerste lid van die artikelen. Artikel 5.4 van de wet is niet van toepassing op de aanleg of wijziging van een waterstaatswerk in overeenstemming met die vergunning.   
+4.  Het derde lid is van overeenkomstige toepassing op een vergunning als bedoeld in dat lid, die overeenkomstig artikel 2.29 van de Invoeringswet Waterwet is verleend en onherroepelijk is geworden.   
+5.  Het derde en vierde lid zijn niet van toepassing op de aanleg of wijziging van een waterstaatswerk waarop artikel 2.16 of artikel 2.16a van de Invoeringswet Waterwet van toepassing is.  
 
 ### Artikel  8.5  
 
@@ -834,20 +834,20 @@ Tot het tijdstip van inwerkingtreding van artikel 6.20, tweede lid, wordt in art
 
 ### Artikel  8.6  
 
-[Artikel 2.25, tweede tot en met vierde lid, van de Invoeringswet Waterwet](../../../wet/invoeringswet/waterwet/BWBR0026710/README.md) is van overeenkomstige toepassing op een vergunning krachtens [artikel 1, tweede lid, van de Wet verontreiniging oppervlaktewateren](../../../wet/wet/verontreiniging/oppervlaktewateren/BWBR0002682/README.md), die overeenkomstig het [eerste lid van artikel 2.29 van de Invoeringswet Waterwet ](../../../wet/invoeringswet/waterwet/BWBR0026710/README.md)onherroepelijk is geworden na het tijdstip van inwerkingtreding van [paragraaf 6.2 van de wet](../../../wet/waterwet/BWBR0025458/README.md). 
+Artikel 2.25, tweede tot en met vierde lid, van de Invoeringswet Waterwet is van overeenkomstige toepassing op een vergunning krachtens artikel 1, tweede lid, van de Wet verontreiniging oppervlaktewateren, die overeenkomstig het eerste lid van artikel 2.29 van de Invoeringswet Waterwet onherroepelijk is geworden na het tijdstip van inwerkingtreding van paragraaf 6.2 van de wet. 
 
 ### Artikel  8.7  
 
-1.  Indien door de inwerkingtreding van een algemene maatregel van bestuur, een ministeriële regeling, een provinciale verordening of een verordening van een waterschap de betrokkenheid van het bestuursorgaan, dat met toepassing van [artikel 6.17 van de wet](../../../wet/waterwet/BWBR0025458/README.md) als bevoegd gezag een watervergunning heeft verleend, bij die watervergunning eindigt, wordt die watervergunning met betrekking tot de resterende vergunningplichtige handeling of handelingen gelijkgesteld met een watervergunning, verleend door het bestuursorgaan dat voor die handeling of handelingen, zo nodig met overeenkomstige toepassing van [artikel 6.17 van de wet](../../../wet/waterwet/BWBR0025458/README.md), bevoegd gezag is.   
+1.  Indien door de inwerkingtreding van een algemene maatregel van bestuur, een ministeriële regeling, een provinciale verordening of een verordening van een waterschap de betrokkenheid van het bestuursorgaan, dat met toepassing van artikel 6.17 van de wet als bevoegd gezag een watervergunning heeft verleend, bij die watervergunning eindigt, wordt die watervergunning met betrekking tot de resterende vergunningplichtige handeling of handelingen gelijkgesteld met een watervergunning, verleend door het bestuursorgaan dat voor die handeling of handelingen, zo nodig met overeenkomstige toepassing van artikel 6.17 van de wet, bevoegd gezag is.   
 2.  Het overeenkomstig het eerste lid bepaalde bevoegd gezag deelt aan de vergunninghouder mede dat hij bevoegd gezag is voor de watervergunning.  
 
 ### Artikel  8.7a  
 
-Voor zover artikel 6.12 van toepassing is in gedeelten van het rivierbed doordat tengevolge van dit besluit zoals dat luidde op 22 december 2009 begrenzingen, gebiedsaanwijzingen of andere beperkingen op het vereiste van een vergunning krachtens de [Wet beheer rijkswaterstaatswerken](../../../wet/wet/beheer/rijkswaterstaatswerken/BWBR0008331/README.md), zoals die wet luidde vóór genoemde datum, zijn gewijzigd of vervallen, is met ingang van genoemde datum dat artikel niet van toepassing op gedragingen waarvoor op de genoemde datum een eerder verleende vergunning als bedoeld in [artikel 40 van de Woningwet](../../../wet/woningwet/BWBR0005181/README.md), zoals die wet luidde op die datum, onherroepelijk was. 
+Voor zover artikel 6.12 van toepassing is in gedeelten van het rivierbed doordat tengevolge van dit besluit zoals dat luidde op 22 december 2009 begrenzingen, gebiedsaanwijzingen of andere beperkingen op het vereiste van een vergunning krachtens de Wet beheer rijkswaterstaatswerken, zoals die wet luidde vóór genoemde datum, zijn gewijzigd of vervallen, is met ingang van genoemde datum dat artikel niet van toepassing op gedragingen waarvoor op de genoemde datum een eerder verleende vergunning als bedoeld in artikel 40 van de Woningwet, zoals die wet luidde op die datum, onherroepelijk was. 
 
 ### Artikel  8.7b  
 
-De artikelen 6.1c en 6.11a tot en met 6.11i van dit besluit zijn niet van toepassing op de voorbereiding en vaststelling van een beschikking op een vóór het tijdstip van inwerkingtreding van die artikelen gedane aanvraag om een vergunning dan wel verzoek om wijziging van een vergunning of van de daaraan verbonden voorschriften als bedoeld in [artikel 6.4, eerste lid, onder b, van de wet](../../../wet/waterwet/BWBR0025458/README.md). 
+De artikelen 6.1c en 6.11a tot en met 6.11i van dit besluit zijn niet van toepassing op de voorbereiding en vaststelling van een beschikking op een vóór het tijdstip van inwerkingtreding van die artikelen gedane aanvraag om een vergunning dan wel verzoek om wijziging van een vergunning of van de daaraan verbonden voorschriften als bedoeld in artikel 6.4, eerste lid, onder b, van de wet. 
 
 ### §  2  
 
@@ -948,7 +948,7 @@ E. M. H. Hirsch Ballin
 
 – Julianakanaal, Lateraal kanaal, Maas-Waalkanaal, Kanaal van St. Andries;  
 
-– Wilhelminakanaal, met inbegrip van de Amertak, Zuid-Willemsvaart (Brabantse tak), Kanaal Wessem-Nederweert.   
+– Wilhelminakanaal, met inbegrip van de Amertak, Zuid-Willemsvaart (Brabantse tak), Máximakanaal, Kanaal Wessem-Nederweert.   
 
 ### 2  
 
@@ -1162,6 +1162,8 @@ E. M. H. Hirsch Ballin
 
 – sluis Engelen;  
 
+– sluis Empel; 
+
 – sluis St. Andries;  
 
 – sluiscomplex Weurt;  
@@ -1190,9 +1192,11 @@ E. M. H. Hirsch Ballin
 
 – kanaaldijken Zuid-Willemsvaart;  
 
+–kanaaldijken Máximakanaal;
+
 – kanaaldijken Markkanaal;  
 
-– kanaaldijken Wilheminakanaal;  
+– kanaaldijken Wilhelminakanaal;  
 
 – kanaaldijken Wessem – Nederweert;  
 
@@ -1266,7 +1270,7 @@ E. M. H. Hirsch Ballin
 
 ### Bijlage  V  
 
-####Maatregelen waarvoor krachtens [artikel 7.23, vijfde lid, van de wet](../../../wet/waterwet/BWBR0025458/README.md) subsidie wordt verleend voor honderd procent van de kosten van uitvoering (Bijlage bij artikel 7.3  van het Waterbesluit)
+####Maatregelen waarvoor krachtens artikel 7.23, vijfde lid, van de wet subsidie wordt verleend voor honderd procent van de kosten van uitvoering (Bijlage bij artikel 7.3  van het Waterbesluit)
 
 | Beheerder  | Naam project  | Nummer project  | Aard van maatregel  | Te versterken vakken  | Te versterken  |
 |:---|:---|:---|:---|:---|:---|

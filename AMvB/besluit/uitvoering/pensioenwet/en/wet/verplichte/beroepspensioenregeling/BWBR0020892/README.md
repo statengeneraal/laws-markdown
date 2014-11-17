@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 26 oktober 2006, Directie Arbeidsverhoudingen, nr. AV/PB/2006/88128;
 
-Gelet op de [artikelen 21](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [33](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [34](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [38 tot en met 46](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [60](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [66](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [69](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [71](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [76](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [83](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [84](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [105](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [151](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [160](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [176 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), de [artikelen 42](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [43](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [48 tot en met 57](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [72](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [78](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [82](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [91](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [110](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [146](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [155](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [171 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [artikel 12c, vijfde lid, van de Wet gelijke behandeling van mannen en vrouwen](../../../../../../../../../wet/wet/gelijke/behandeling/van/mannen/en/vrouwen/BWBR0003299/README.md), [artikel 13, derde lid](../../../../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md) en [23, tweede lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](../../../../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md), [artikel 65](../../../../../../../../../wet/invoerings-/en/aanpassingswet/pensioenwet/BWBR0020828/README.md) en [67 van de Invoerings- en aanpassingswet Pensioenwet](../../../../../../../../../wet/invoerings-/en/aanpassingswet/pensioenwet/BWBR0020828/README.md), [artikel 1a, eerste lid, onderdeel d, en tweede lid, van de Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), [artikel 1a, eerste lid, onderdeel e, en tweede lid, van de Wet Nationale ombudsman](../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md), [artikel 99, eerste lid, van de Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md), [artikel 33](../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [34 van de Wet op de loonbelasting 1964](../../../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), [artikel 1, tweede lid, van de Wet toezicht accountantsorganisaties](../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [artikel 24, tweede lid](../../../../../../../../../wet/huursubsidiewet/BWBR0008659/README.md) en [artikel 55, zesde lid, van de Wet op de huurtoeslag](../../../../../../../../../wet/huursubsidiewet/BWBR0008659/README.md);
+Gelet op de artikelen 21, 33, 34, 38 tot en met 46, 60, 66, 69, 71, 76, 83, 84, 105, 151, 160 en 176 van de Pensioenwet, de artikelen 42, 43, 48 tot en met 57, 72, 78, 82, 91, 110, 146, 155 en 171 van de Wet verplichte beroepspensioenregeling, artikel 12c, vijfde lid, van de Wet gelijke behandeling van mannen en vrouwen, artikel 13, derde lid en 23, tweede lid, van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, artikel 65 en 67 van de Invoerings- en aanpassingswet Pensioenwet, artikel 1a, eerste lid, onderdeel d, en tweede lid, van de Wet openbaarheid van bestuur, artikel 1a, eerste lid, onderdeel e, en tweede lid, van de Wet Nationale ombudsman, artikel 99, eerste lid, van de Wet gemeentelijke basisadministratie persoonsgegevens, artikel 33 en 34 van de Wet op de loonbelasting 1964, artikel 1, tweede lid, van de Wet toezicht accountantsorganisaties, artikel 24, tweede lid en artikel 55, zesde lid, van de Wet op de huurtoeslag;
 
 De Raad van State gehoord (advies van 16 november 2006, no. W12.06.0459/IV);
 
@@ -32,11 +32,11 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 – fonds: 
 
-1°. pensioenfonds als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md);  
+1°. pensioenfonds als bedoeld in artikel 1 van de Pensioenwet;  
 
-2°. beroepspensioenfonds als bedoeld in [artikel 1 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);    
+2°. beroepspensioenfonds als bedoeld in artikel 1 van de Wet verplichte beroepspensioenregeling;    
 
-– loonaanvullingsuitkering: een uitkering als bedoeld in [artikel 60, eerste lid, onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md); 
+– loonaanvullingsuitkering: een uitkering als bedoeld in artikel 60, eerste lid, onderdeel a, van de Wet werk en inkomen naar arbeidsvermogen; 
 
 – opbouwkeuzevoet: verhouding tussen het pensioen waarvan kan worden afgezien en het pensioen dat daarvoor in de plaats kan worden opgebouwd;  
 
@@ -44,9 +44,9 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 – pensioenregeling: 
 
-1°. pensioenregeling als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md);  
+1°. pensioenregeling als bedoeld in artikel 1 van de Pensioenwet;  
 
-2°. beroepspensioenregeling als bedoeld in [artikel 1 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);    
+2°. beroepspensioenregeling als bedoeld in artikel 1 van de Wet verplichte beroepspensioenregeling;    
 
 – rechthebbende: degene die in aanmerking komt voor waardeoverdracht;  
 
@@ -60,17 +60,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 – uitvoerder: 
 
-1°. pensioenuitvoerder als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md);  
+1°. pensioenuitvoerder als bedoeld in artikel 1 van de Pensioenwet;  
 
-2°. pensioenuitvoerder als bedoeld in [artikel 1 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).    
+2°. pensioenuitvoerder als bedoeld in artikel 1 van de Wet verplichte beroepspensioenregeling.    
 
-– vervolguitkering: een uitkering als bedoeld in [artikel 60, eerste lid, onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).  
+– vervolguitkering: een uitkering als bedoeld in artikel 60, eerste lid, onderdeel b, van de Wet werk en inkomen naar arbeidsvermogen.  
 
 ### Artikel  1a  
 
 ####Nadere regels arbeidsongeschiktheidspensioen
 
-1.  Voor zover een aanvulling op een vervolguitkering of een loonaanvullingsuitkering geen arbeidsongeschiktheidspensioen is als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 1 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), wordt deze aanvulling als arbeidsongeschiktheidspensioen in de zin van een van die artikelen aangemerkt indien: 
+1.  Voor zover een aanvulling op een vervolguitkering of een loonaanvullingsuitkering geen arbeidsongeschiktheidspensioen is als bedoeld in artikel 1 van de Pensioenwet of artikel 1 van de Wet verplichte beroepspensioenregeling, wordt deze aanvulling als arbeidsongeschiktheidspensioen in de zin van een van die artikelen aangemerkt indien: 
 
 a. de aanvulling op de vervolguitkering niet varieert met inkomsten uit arbeid, tenzij de aanvulling hoger wordt vastgesteld indien de inkomsten uit arbeid toenemen;  
 
@@ -89,13 +89,13 @@ c. het een eenmalige aanvulling is die wordt verstrekt in verband met werkhervat
 
 ####Informatie over basispensioenregeling
 
-1.  De informatie over de inhoud van de basispensioenregeling, bedoeld in [artikel 21 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 48 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), bevat in ieder geval het volgende: 
+1.  De informatie over de inhoud van de basispensioenregeling, bedoeld in artikel 21 van de Pensioenwet dan wel artikel 48 van de Wet verplichte beroepspensioenregeling, bevat in ieder geval het volgende: 
 
 a. de ingangsdatum van de pensioenovereenkomst dan wel beroepspensioenregeling;  
 
 b. de pensioensoorten, waarbij aangegeven wordt of nabestaandenpensioen, al dan niet samen met ouderdomspensioen, deel uitmaakt van de basispensioenregeling;  
 
-c. het karakter van de pensioenovereenkomst, bedoeld in [artikel 10 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), dan wel de beroepspensioenregeling, bedoeld in [artikel 28 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), waarbij wordt vermeld welke risico’s door de werknemer dan wel beroepsgenoot gedragen worden;  
+c. het karakter van de pensioenovereenkomst, bedoeld in artikel 10 van de Pensioenwet, dan wel de beroepspensioenregeling, bedoeld in artikel 28 van de Wet verplichte beroepspensioenregeling, waarbij wordt vermeld welke risico’s door de werknemer dan wel beroepsgenoot gedragen worden;  
 
 d. de wijze waarop de pensioenaanspraken worden vastgesteld;  
 
@@ -107,7 +107,7 @@ g. de gevolgen van arbeidsongeschiktheid voor de verwerving van pensioenaansprak
 
 h. een betalingsvoorbehoud van de werkgever;  
 
-i. de mogelijkheid tot vrijwillige voortzetting, bedoeld in [artikel 54 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 65 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md); en  
+i. de mogelijkheid tot vrijwillige voortzetting, bedoeld in artikel 54 van de Pensioenwet dan wel artikel 65 van de Wet verplichte beroepspensioenregeling; en  
 
 j. de informatieverplichtingen van de werknemer dan wel beroepsgenoot jegens de werkgever en de uitvoerder.     
 2.  Indien er sprake is van een premieovereenkomst dan wel premieregeling informeert de uitvoerder de werknemer dan wel beroepsgenoot over: 
@@ -117,13 +117,13 @@ a. de bestemming van de premie waarbij onderscheid gemaakt wordt tussen pensioen
 b. het verloop van de premie.     
 3.  Tevens wordt informatie verstrekt over: 
 
-a. het wettelijk recht op waardeoverdracht, bedoeld in [artikel 71 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 82 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) of de mogelijkheid tot waardeoverdracht, bedoeld in [artikel 75 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 86 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);  
+a. het wettelijk recht op waardeoverdracht, bedoeld in artikel 71 van de Pensioenwet dan wel artikel 82 van de Wet verplichte beroepspensioenregeling of de mogelijkheid tot waardeoverdracht, bedoeld in artikel 75 van de Pensioenwet dan wel artikel 86 van de Wet verplichte beroepspensioenregeling;  
 
 b. de keuzemogelijkheden die er zijn ten aanzien van uitruil;  
 
 c. het bestaan van een vrijwillige pensioenregeling en de pensioensoort waarop deze vrijwillige pensioenregeling betrekking heeft;  
 
-d. welke informatie op verzoek wordt verstrekt op grond van [artikel 46 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [artikel 57 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en artikel 9;  
+d. welke informatie op verzoek wordt verstrekt op grond van artikel 46 van de Pensioenwet, artikel 57 van de Wet verplichte beroepspensioenregeling en artikel 9;  
 
 e. het actueel zijn van een korte- of langetermijnherstelplan; en  
 
@@ -139,11 +139,11 @@ De Stichting Autoriteit Financiële Markten kan nadere regels stellen met betrek
 
 ####Informatie over toeslagverlening
 
-1.  De informatie over toeslagverlening die op grond van de [artikelen 21](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [38 tot en met 45 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel de [artikelen 48 tot en met 56 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) wordt verstrekt heeft betrekking op: 
+1.  De informatie over toeslagverlening die op grond van de artikelen 21 en 38 tot en met 45 van de Pensioenwet dan wel de artikelen 48 tot en met 56 van de Wet verplichte beroepspensioenregeling wordt verstrekt heeft betrekking op: 
 
 a. het ambitieniveau en de voorwaarden die gelden bij de toeslagverlening;  
 
-b. de wijze van financiering van voorwaardelijke toeslagverlening en, indien is gekozen voor financiering als bedoeld in [artikel 137, eerste lid, onderdeel a, van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 132, eerste lid, onderdeel a, van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), de hoogte van de voorziening in relatie tot de benodigde voorziening;  
+b. de wijze van financiering van voorwaardelijke toeslagverlening en, indien is gekozen voor financiering als bedoeld in artikel 137, eerste lid, onderdeel a, van de Pensioenwet dan wel artikel 132, eerste lid, onderdeel a, van de Wet verplichte beroepspensioenregeling, de hoogte van de voorziening in relatie tot de benodigde voorziening;  
 
 c. de verwachtingen ten aanzien van toekomstige toeslagverlening; en  
 
@@ -175,9 +175,9 @@ c. in geval van een premieovereenkomst dan wel premieregeling:
 
 De uitvoerder verstrekt de deelnemer bij beëindiging van de deelneming informatie over: 
 
-a. de mogelijkheid van afkoop, bedoeld in [artikel 66 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 78 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), voor zover er sprake is van een pensioenaanspraak onder de afkoopgrens;  
+a. de mogelijkheid van afkoop, bedoeld in artikel 66 van de Pensioenwet dan wel artikel 78 van de Wet verplichte beroepspensioenregeling, voor zover er sprake is van een pensioenaanspraak onder de afkoopgrens;  
 
-b. het recht op waardeoverdracht, bedoeld in [artikel 71 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 82 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), of de mogelijkheid tot waardeoverdracht, bedoeld in [artikel 75 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 86 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);  
+b. het recht op waardeoverdracht, bedoeld in artikel 71 van de Pensioenwet dan wel artikel 82 van de Wet verplichte beroepspensioenregeling, of de mogelijkheid tot waardeoverdracht, bedoeld in artikel 75 van de Pensioenwet dan wel artikel 86 van de Wet verplichte beroepspensioenregeling;  
 
 c. de consequenties van arbeidsongeschiktheid;  
 
@@ -189,7 +189,7 @@ e. het vervallen van de dekking tegen het risico op overlijden indien nabestaand
 
 ####Verstrekken informatie aan gewezen partner bij scheiding
 
-De uitvoerder verstrekt de gewezen partner bij scheiding informatie over de mogelijkheid van afkoop, bedoeld in [artikel 68 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 80 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), voor zover sprake is van een pensioenaanspraak onder de afkoopgrens. 
+De uitvoerder verstrekt de gewezen partner bij scheiding informatie over de mogelijkheid van afkoop, bedoeld in artikel 68 van de Pensioenwet dan wel artikel 80 van de Wet verplichte beroepspensioenregeling, voor zover sprake is van een pensioenaanspraak onder de afkoopgrens. 
 
 ### Artikel  8  
 
@@ -198,7 +198,7 @@ De uitvoerder verstrekt de gewezen partner bij scheiding informatie over de moge
 1.  De uitvoerder informeert een deelnemer voorafgaand aan de deelneming in de vrijwillige pensioenregeling over de inhoud van de vrijwillige pensioenregeling, waarbij artikel 2, eerste en tweede lid, en artikel 3 van overeenkomstige toepassing zijn.   
 2.  De informatie over de reglementair te bereiken pensioenaanspraken wordt overeenkomstig artikel 5, tweede lid, vastgesteld. Indien bij een premieovereenkomst of een premieregeling de premie wordt belegd wordt een indicatie gegeven van het te bereiken voor periodieke uitkeringen aan te wenden kapitaal op de pensioendatum en de daarbij gehanteerde veronderstellingen.   
 3.  De indicatie van het te bereiken kapitaal, bedoeld in het tweede lid, wordt berekend op basis van drie scenario’s: een historisch, een vier procent rendement en een pessimistisch opbrengstscenario.  
-4. De regels op grond van [artikel 66, vierde lid, van het Besluit gedragstoezicht financiële ondernemingen Wft](../../../../../../../../../AMvB/besluit/gedragstoezicht/financiële/ondernemingen/wft/BWBR0020421/README.md) zijn van overeenkomstige toepassing.
+4. De regels op grond van artikel 66, vierde lid, van het Besluit gedragstoezicht financiële ondernemingen Wft zijn van overeenkomstige toepassing.
 
 ### Artikel  9  
 
@@ -209,25 +209,25 @@ De uitvoerder verstrekt de gewezen partner bij scheiding informatie over de moge
 3.  De pensioenuitvoerder verstrekt op verzoek van de deelnemer, gewezen deelnemer of gewezen partner een indicatie van de hoogte van de periodieke uitkeringen op de pensioendatum wanneer het kapitaal, bedoeld in het tweede lid en artikel 5, tweede lid, onderdelen b en c, onder 2°, daarvoor wordt aangewend.   
 4.  Bij de indicatie, bedoeld in het derde lid, worden de op het moment van het verzoek bij de pensioenuitvoerder geldende tarieven gehanteerd. De periodieke uitkeringen worden gecorrigeerd voor te verwachten prijsinflatie. Bij regeling van Onze Minister wordt bepaald met welke te verwachten prijsinflatie gecorrigeerd wordt.   
 5.  Bij het verstrekken van de indicatie, bedoeld in het derde lid, dient de pensioenuitvoerder er op te wijzen dat het risico dat de definitieve pensioenuitkering afwijkt van de indicatie bij de betrokkene ligt.   
-6.  Het fonds of de premiepensioeninstelling verstrekt de deelnemer, de gewezen deelnemer, de gewezen partner of de pensioengerechtigde op verzoek de verklaring inzake beleggingsbeginselen, bedoeld in [artikel 145 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [artikel 140 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) of artikel 3:267a, van de Wet op het financieel toezicht.   
+6.  Het fonds of de premiepensioeninstelling verstrekt de deelnemer, de gewezen deelnemer, de gewezen partner of de pensioengerechtigde op verzoek de verklaring inzake beleggingsbeginselen, bedoeld in artikel 145 van de Pensioenwet, artikel 140 van de Wet verplichte beroepspensioenregeling of artikel 3:267a, van de Wet op het financieel toezicht.   
 7.  De uitvoerder verstrekt de deelnemer, de gewezen deelnemer, de gewezen partner of de pensioengerechtigde op verzoek: 
 
-a. het kortetermijnherstelplan, bedoeld in [artikel 140 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 135 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);  
+a. het kortetermijnherstelplan, bedoeld in artikel 140 van de Pensioenwet dan wel artikel 135 van de Wet verplichte beroepspensioenregeling;  
 
-b. het langetermijnherstelplan, bedoeld in [artikel 138 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 133 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);  
+b. het langetermijnherstelplan, bedoeld in artikel 138 van de Pensioenwet dan wel artikel 133 van de Wet verplichte beroepspensioenregeling;  
 
 c. informatie over de hoogte van de dekkingsgraad;  
 
-d. informatie over het van toepassing zijn van een aanwijzing als bedoeld in [artikel 171 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 166 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md); en  
+d. informatie over het van toepassing zijn van een aanwijzing als bedoeld in artikel 171 van de Pensioenwet dan wel artikel 166 van de Wet verplichte beroepspensioenregeling; en  
 
-e. informatie over de aanstelling van een bewindvoerder als bedoeld in [artikel 173 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 168 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).     
-8.  De uitvoerder verstrekt de deelnemer of gewezen deelnemer op verzoek informatie over de consequenties van uitruil als bedoeld in [artikel 60](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [61](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [62 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel de [artikelen 72](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [73](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) of [74 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) voor de deelnemer.  
+e. informatie over de aanstelling van een bewindvoerder als bedoeld in artikel 173 van de Pensioenwet dan wel artikel 168 van de Wet verplichte beroepspensioenregeling.     
+8.  De uitvoerder verstrekt de deelnemer of gewezen deelnemer op verzoek informatie over de consequenties van uitruil als bedoeld in artikel 60, 61 of 62 van de Pensioenwet dan wel de artikelen 72, 73 of 74 van de Wet verplichte beroepspensioenregeling voor de deelnemer.  
 
 ### Artikel  10  
 
 ####Kosten informatieverstrekking
 
-De informatie op grond van de [artikelen 21](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [38 tot en met 45](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [46, eerste lid, onderdeel a, en tweede lid, van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel de [artikelen 48 tot en met 56](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [57, eerste lid, onderdeel a en tweede lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) wordt kosteloos verstrekt. De informatie op grond van artikel 9, eerste en achtste lid, wordt eveneens kosteloos verstrekt. 
+De informatie op grond van de artikelen 21, 38 tot en met 45 en 46, eerste lid, onderdeel a, en tweede lid, van de Pensioenwet dan wel de artikelen 48 tot en met 56, 57, eerste lid, onderdeel a en tweede lid, van de Wet verplichte beroepspensioenregeling wordt kosteloos verstrekt. De informatie op grond van artikel 9, eerste en achtste lid, wordt eveneens kosteloos verstrekt. 
 
 ### Hoofdstuk  3  
 
@@ -239,7 +239,7 @@ De informatie op grond van de [artikelen 21](../../../../../../../../../wet/pens
 
 ####Waarborging goed bestuur
 
-1.  Als principes voor goed pensioenfondsbestuur als bedoeld in [artikel 33, tweede lid, van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 42, tweede lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) worden aangewezen voor fondsen de Code Pensioenfondsen, zoals geformuleerd door de Stichting van de Arbeid en de Pensioenfederatie op 6 september 2013 en voor verzekeraars de Code Rechtstreeks verzekerde regelingen, zoals geformuleerd door de Stichting van de Arbeid en het Verbond van Verzekeraars op 18 december 2013. Deze laatste code is van overeenkomstige toepassing op premiepensioeninstellingen.   
+1.  Als principes voor goed pensioenfondsbestuur als bedoeld in artikel 33, tweede lid, van de Pensioenwet dan wel artikel 42, tweede lid, van de Wet verplichte beroepspensioenregeling worden aangewezen voor fondsen de Code Pensioenfondsen, zoals geformuleerd door de Stichting van de Arbeid en de Pensioenfederatie op 6 september 2013 en voor verzekeraars de Code Rechtstreeks verzekerde regelingen, zoals geformuleerd door de Stichting van de Arbeid en het Verbond van Verzekeraars op 18 december 2013. Deze laatste code is van overeenkomstige toepassing op premiepensioeninstellingen.   
 2.  Een uitvoerder doet in het jaarverslag mededeling over de naleving van de principes, bedoeld in het eerste lid. Indien een uitvoerder de principes niet heeft nageleefd of niet voornemens is deze in het lopende en daarop volgende boekjaar na te leven, doet hij daarvan in het jaarverslag gemotiveerd opgave. 
 
 ### Hoofdstuk  4  
@@ -258,7 +258,7 @@ a. taken en werkzaamheden van personen die het dagelijks beleid bepalen, daarond
 
 b. werkzaamheden waarvan uitbesteding de verantwoordelijkheid van de uitvoerder voor de organisatie en beheersing van bedrijfsprocessen en het toezicht daarop kan ondermijnen;  
 
-c. indien de uitbesteding een belemmering kan vormen voor een adequaat toezicht op de naleving van het bij of krachtens de [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel de [Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) bepaalde.   
+c. indien de uitbesteding een belemmering kan vormen voor een adequaat toezicht op de naleving van het bij of krachtens de Pensioenwet dan wel de Wet verplichte beroepspensioenregeling bepaalde.   
 
 ### Artikel  13  
 
@@ -275,7 +275,7 @@ c. de verplichting voor de derde om informatie waar de toezichthouder ter uitvoe
 
 d. de mogelijkheid voor het fonds om te allen tijde wijzigingen aan te brengen in de wijze waarop de uitvoering van de werkzaamheden door de derde geschiedt;  
 
-e. de verplichting voor de derde om het fonds in staat te stellen blijvend te voldoen aan het bij of krachtens de [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel de [Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) bepaalde;  
+e. de verplichting voor de derde om het fonds in staat te stellen blijvend te voldoen aan het bij of krachtens de Pensioenwet dan wel de Wet verplichte beroepspensioenregeling bepaalde;  
 
 f. de mogelijkheid voor de toezichthouder om onderzoek ter plaatse te doen of te laten doen bij de derde; en  
 
@@ -286,7 +286,7 @@ g. de wijze waarop de overeenkomst wordt beëindigd, en de wijze waarop wordt ge
 ####Beheersing van de risico’s
 
 1.  Een fonds draagt zorg voor een systematische analyse van de risico’s die samenhangen met de uitbesteding van werkzaamheden en legt deze vast. Het fonds maakt de analyse op het niveau van zijn eigen organisatie in zijn geheel en op het niveau van de onderscheiden bedrijfsonderdelen.   
-2.  Een fonds voert een adequaat beleid en beschikt over procedures en maatregelen met betrekking tot de uitbesteding van werkzaamheden, als onderdeel van een beheerste en integere bedrijfsvoering als bedoeld in [artikel 143 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 138 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).   
+2.  Een fonds voert een adequaat beleid en beschikt over procedures en maatregelen met betrekking tot de uitbesteding van werkzaamheden, als onderdeel van een beheerste en integere bedrijfsvoering als bedoeld in artikel 143 van de Pensioenwet dan wel artikel 138 van de Wet verplichte beroepspensioenregeling.   
 3.  Een fonds beschikt over toereikende procedures, maatregelen, deskundigheid en informatie om de uitvoering van de uitbestede werkzaamheden te kunnen beoordelen.   
 4.  Een fonds heeft zicht op het beloningsbeleid van de derde aan wie werkzaamheden worden uitbesteed, betrekt het beloningsbeleid bij de keuze voor de derde waaraan de werkzaamheden worden uitbesteed en maakt zijn beleid dienaangaande openbaar. 
 
@@ -300,15 +300,15 @@ g. de wijze waarop de overeenkomst wordt beëindigd, en de wijze waarop wordt ge
 
 ####Ruilvoet en opbouwkeuzevoet
 
-1.  Per geboden keuzemogelijkheid als bedoeld in [artikel 60](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [61](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [62 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 72](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [73](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [74 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), wordt door de pensioenuitvoerder voor een door hem te bepalen periode voor alle deelnemers en gewezen deelnemers dezelfde ruilvoet of opbouwkeuzevoet vastgesteld.   
-2.  De ruilvoet en opbouwkeuzevoet worden zodanig vastgesteld dat sprake is van collectieve actuariële gelijkwaardigheid als bedoeld in de [artikelen 60, vijfde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [61, vierde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), en [62, eerste lid, van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 72, vijfde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [73, vierde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [74, eerste lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).   
+1.  Per geboden keuzemogelijkheid als bedoeld in artikel 60, 61 of 62 van de Pensioenwet dan wel artikel 72, 73, 74 van de Wet verplichte beroepspensioenregeling, wordt door de pensioenuitvoerder voor een door hem te bepalen periode voor alle deelnemers en gewezen deelnemers dezelfde ruilvoet of opbouwkeuzevoet vastgesteld.   
+2.  De ruilvoet en opbouwkeuzevoet worden zodanig vastgesteld dat sprake is van collectieve actuariële gelijkwaardigheid als bedoeld in de artikelen 60, vijfde lid, 61, vierde lid, en 62, eerste lid, van de Pensioenwet dan wel artikel 72, vijfde lid, 73, vierde lid en 74, eerste lid, van de Wet verplichte beroepspensioenregeling.   
 3.  In afwijking van het eerste lid kan aan een gewezen deelnemer de ruilvoet worden toegekend, die geldt op de dag van beëindiging van de deelneming.  
 
 ### Artikel  16  
 
 ####Afkoop kleine pensioenen en afkoop bovenmatig pensioen
 
-1.  De afkoopwaarde, bedoeld in de [artikelen 66](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [69, tweede lid, van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel bedoeld in [artikel 78 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), wordt door de pensioenuitvoerder vastgesteld door middel van een afkoopvoet.   
+1.  De afkoopwaarde, bedoeld in de artikelen 66 en 69, tweede lid, van de Pensioenwet dan wel bedoeld in artikel 78 van de Wet verplichte beroepspensioenregeling, wordt door de pensioenuitvoerder vastgesteld door middel van een afkoopvoet.   
 2.  Er wordt dezelfde afkoopvoet vastgesteld voor een door de pensioenuitvoerder vast te stellen periode voor alle deelnemers en gewezen deelnemers.   
 3.  De afkoopvoet wordt zodanig vastgesteld dat er sprake is van collectieve actuariële gelijkwaardigheid.  
 
@@ -316,7 +316,7 @@ g. de wijze waarop de overeenkomst wordt beëindigd, en de wijze waarop wordt ge
 
 ####Gelijke behandeling bij pensioenovereenkomsten met onbepaalde verhouding tussen pensioensoorten
 
-Indien met de werkgever niet uitdrukkelijk een bepaalde verhouding tussen verschillende pensioensoorten is overeengekomen wordt de beschikbaar gestelde premie of de aanspraak op kapitaal, bedoeld in [artikel 12c, tweede lid, van de Wet gelijke behandeling van mannen en vrouwen](../../../../../../../../../wet/wet/gelijke/behandeling/van/mannen/en/vrouwen/BWBR0003299/README.md) zodanig vastgesteld dat, ervan uitgaande dat slechts ouderdomspensioen is toegezegd, het in te kopen pensioen naar het inzicht op het tijdstip van vaststelling van die bijdrage voor mannen en vrouwen gelijk is. 
+Indien met de werkgever niet uitdrukkelijk een bepaalde verhouding tussen verschillende pensioensoorten is overeengekomen wordt de beschikbaar gestelde premie of de aanspraak op kapitaal, bedoeld in artikel 12c, tweede lid, van de Wet gelijke behandeling van mannen en vrouwen zodanig vastgesteld dat, ervan uitgaande dat slechts ouderdomspensioen is toegezegd, het in te kopen pensioen naar het inzicht op het tijdstip van vaststelling van die bijdrage voor mannen en vrouwen gelijk is. 
 
 ### Hoofdstuk  6  
 
@@ -349,12 +349,12 @@ De overdragende uitvoerder verstrekt de opgave of de voorlopige opgave, bedoeld 
 
 ####Tijdelijke regeling aanvullende bijdragen
 
-1.  De in [artikel 71 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 82 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) genoemde plicht tot waardeoverdracht geldt niet indien een aanvullende bijdrage van de oude of nieuwe werkgever noodzakelijk is en voldaan is aan de volgende voorwaarden: 
+1.  De in artikel 71 van de Pensioenwet dan wel artikel 82 van de Wet verplichte beroepspensioenregeling genoemde plicht tot waardeoverdracht geldt niet indien een aanvullende bijdrage van de oude of nieuwe werkgever noodzakelijk is en voldaan is aan de volgende voorwaarden: 
 
 a. de aanvullende bijdrage bedraagt meer dan € 15.000,– en meer dan 10% van de overdrachtswaarde; en  
 
 b. de betreffende werkgever is een kleine werkgever.     
-2.  Een kleine werkgever als bedoeld in het eerste lid, onderdeel b, is een werkgever te wiens laste, in het tweede kalenderjaar dat aan het kalenderjaar waarin de in het derde lid bedoelde situatie wordt vastgesteld vooraf is gegaan, een premieplichtig loon als bedoeld in [artikel 2.5, eerste lid, onderdeel a, van het Besluit Wfsv](../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), is gekomen dat gelijk is aan of minder bedraagt dan 25 maal het door het Uitvoeringsinstituut werknemersverzekeringen vastgestelde gemiddelde premieplichtige loon per werknemer in dat kalenderjaar.  
+2.  Een kleine werkgever als bedoeld in het eerste lid, onderdeel b, is een werkgever te wiens laste, in het tweede kalenderjaar dat aan het kalenderjaar waarin de in het derde lid bedoelde situatie wordt vastgesteld vooraf is gegaan, een premieplichtig loon als bedoeld in artikel 2.5, eerste lid, onderdeel a, van het Besluit Wfsv, is gekomen dat gelijk is aan of minder bedraagt dan 25 maal het door het Uitvoeringsinstituut werknemersverzekeringen vastgestelde gemiddelde premieplichtige loon per werknemer in dat kalenderjaar.  
 3.  Indien de overdragende pensioenuitvoerder bij vaststelling van de opgave of voorlopige opgave, bedoeld in artikel 18 of de ontvangende pensioenuitvoerder na ontvangst van de opgave of voorlopige opgave, bedoeld in artikel 18, vaststelt dat een aanvullende bijdrage van de oude of nieuwe werkgever noodzakelijk is die meer bedraagt dan € 15.000,– en meer dan 10% van de overdrachtswaarde, stelt hij de betreffende werkgever in de gelegenheid om binnen een maand na ontvangst van het daartoe strekkende verzoek aan te tonen dat de werkgever een kleine werkgever is als bedoeld in het eerste lid, onderdeel b. Tevens wordt de betreffende werkgever gevraagd of hij, indien hij een kleine werkgever is, bereid is de aanvullende bijdrage te betalen. De overdragende pensioenuitvoerder informeert de ontvangende pensioenuitvoerder terstond na afloop van de gegeven termijn over hetgeen van de oude werkgever is vernomen.   
 4.  Indien de werkgever niet binnen de gegeven termijn aantoont een kleine werkgever te zijn als bedoeld in het eerste lid, onderdeel b, wordt aangenomen dat hij geen kleine werkgever is.   
 5.  Indien op grond van de voorgaande leden de plicht tot waardeoverdracht niet geldt en de werkgever niet bereid is de aanvullende bijdragen te betalen, informeert de ontvangende pensioenuitvoerder de deelnemer hierover schriftelijk.  
@@ -371,7 +371,7 @@ De ontvangende uitvoerder verstrekt de opgave of voorlopige opgave, bedoeld in a
 
 1.  Indien de deelnemer gebruik wil maken van zijn recht op waardeoverdracht, dient hij binnen twee maanden na ontvangst van de opgave of voorlopige opgave, bedoeld in artikel 18, en, indien van toepassing, artikel 22, een verzoek tot waardeoverdracht in bij de ontvangende uitvoerder.   
 2.  Pensioenaanspraken die door de rechthebbende zijn of worden verkregen op grond van de FVP-bijdrage worden geacht inbegrepen te zijn in het verzoek, bedoeld in het eerste lid.   
-3.  Indien de partner die begunstigde is voor het partnerpensioen niet instemt met het verzoek tot waardeoverdracht met betrekking tot het partnerpensioen, is [artikel 58 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 69 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) van overeenkomstige toepassing.  
+3.  Indien de partner die begunstigde is voor het partnerpensioen niet instemt met het verzoek tot waardeoverdracht met betrekking tot het partnerpensioen, is artikel 58 van de Pensioenwet dan wel artikel 69 van de Wet verplichte beroepspensioenregeling van overeenkomstige toepassing.  
 
 ### Artikel  22  
 
@@ -393,16 +393,16 @@ De deelnemer kan voor het einde van de termijn genoemd in artikel 21, eerste lid
 
 ####Opschorting plicht tot waardeoverdracht
 
-1.  De vaststelling door fondsen of de plicht tot waardeoverdracht, bedoeld in de [artikelen 71](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [76 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 82 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), wordt opgeschort vanwege de in [artikel 72, onderdeel a, van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 83, onderdeel a, van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) omschreven situatie, vindt plaats per de eerste dag van iedere kalendermaand aan de hand van de dekkingsgraad op de laatste dag van de voorafgaande kalendermaand.   
-2.  Indien de plicht tot waardeoverdracht is opgeschort vanwege de in [artikel 72 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 83 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) omschreven situatie na de datum waarop de ontvangende uitvoerder de gegevens, bedoeld in artikel 20, aan de deelnemer heeft verstrekt, verhindert de opschorting de verdere afhandeling van deze waardeoverdracht niet.   
-3.  Indien de plicht tot waardeoverdracht is opgeschort vanwege de in [artikel 72 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 83 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) omschreven situatie informeert de ontvangende uitvoerder de deelnemer die een opgave heeft gevraagd van zijn pensioenaanspraken als bedoeld in artikel 18 schriftelijk over de opschorting van de plicht tot waardeoverdracht en de gevolgen daarvan.   
-4.  De plicht tot waardeoverdracht herleeft zodra de ontvangende en de overdragende uitvoerder niet langer in de in [artikel 72 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 83 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) omschreven situatie verkeren. Het eerste lid is van overeenkomstige toepassing.   
-5.  Als de plicht tot waardeoverdracht na een periode van opschorting vanwege de in [artikel 72 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 83 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) omschreven situatie herleeft, geldt het volgende: 
+1.  De vaststelling door fondsen of de plicht tot waardeoverdracht, bedoeld in de artikelen 71 en 76 van de Pensioenwet of artikel 82 van de Wet verplichte beroepspensioenregeling, wordt opgeschort vanwege de in artikel 72, onderdeel a, van de Pensioenwet of artikel 83, onderdeel a, van de Wet verplichte beroepspensioenregeling omschreven situatie, vindt plaats per de eerste dag van iedere kalendermaand aan de hand van de dekkingsgraad op de laatste dag van de voorafgaande kalendermaand.   
+2.  Indien de plicht tot waardeoverdracht is opgeschort vanwege de in artikel 72 van de Pensioenwet of artikel 83 van de Wet verplichte beroepspensioenregeling omschreven situatie na de datum waarop de ontvangende uitvoerder de gegevens, bedoeld in artikel 20, aan de deelnemer heeft verstrekt, verhindert de opschorting de verdere afhandeling van deze waardeoverdracht niet.   
+3.  Indien de plicht tot waardeoverdracht is opgeschort vanwege de in artikel 72 van de Pensioenwet of artikel 83 van de Wet verplichte beroepspensioenregeling omschreven situatie informeert de ontvangende uitvoerder de deelnemer die een opgave heeft gevraagd van zijn pensioenaanspraken als bedoeld in artikel 18 schriftelijk over de opschorting van de plicht tot waardeoverdracht en de gevolgen daarvan.   
+4.  De plicht tot waardeoverdracht herleeft zodra de ontvangende en de overdragende uitvoerder niet langer in de in artikel 72 van de Pensioenwet of artikel 83 van de Wet verplichte beroepspensioenregeling omschreven situatie verkeren. Het eerste lid is van overeenkomstige toepassing.   
+5.  Als de plicht tot waardeoverdracht na een periode van opschorting vanwege de in artikel 72 van de Pensioenwet of artikel 83 van de Wet verplichte beroepspensioenregeling omschreven situatie herleeft, geldt het volgende: 
 
 a. indien de aanvangsdatum van de deelname aan de pensioenregeling van de ontvangende uitvoerder ligt voor de datum waarop de plicht tot waardeoverdracht herleeft en de gegevens, bedoeld in artikel 20, niet aan de deelnemer zijn verstrekt voor de datum waarop de plicht tot waardeoverdracht is opgeschort, is, in afwijking van de definitie, bedoeld in artikel 1, de overdrachtsdatum de datum waarop de plicht tot waardeoverdracht is herleefd;  
 
-b. indien de deelnemer een opgave heeft gevraagd van zijn pensioenaanspraken als bedoeld in artikel 18 voor de herleving van de plicht tot waardeoverdracht, vraagt de ontvangende uitvoerder binnen drie maanden na herleving van de plicht tot waardeoverdracht aan de overdragende uitvoerder een opgave als bedoeld in artikel 18, tenzij de plicht tot waardeoverdracht weer is opgeschort vanwege de in [artikel 72 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 83 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) beschreven situatie.    
-6.  Indien in de in het tweede lid beschreven situatie de deelnemer voor de datum van inwerkingtreding van het Besluit van 12 november 2009 tot wijziging van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling in verband met aanpassing van de regeling voor waardeoverdracht en de kostenregeling (Stb. 2009, 598), een verzoek tot waardeoverdracht als bedoeld in artikel 21 heeft gedaan dat niet is afgehandeld vanwege de in [artikel 72 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 83 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) omschreven situatie, stelt de ontvangende uitvoerder de deelnemer in de gelegenheid zijn verzoek in te trekken.  
+b. indien de deelnemer een opgave heeft gevraagd van zijn pensioenaanspraken als bedoeld in artikel 18 voor de herleving van de plicht tot waardeoverdracht, vraagt de ontvangende uitvoerder binnen drie maanden na herleving van de plicht tot waardeoverdracht aan de overdragende uitvoerder een opgave als bedoeld in artikel 18, tenzij de plicht tot waardeoverdracht weer is opgeschort vanwege de in artikel 72 van de Pensioenwet of artikel 83 van de Wet verplichte beroepspensioenregeling beschreven situatie.    
+6.  Indien in de in het tweede lid beschreven situatie de deelnemer voor de datum van inwerkingtreding van het Besluit van 12 november 2009 tot wijziging van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling in verband met aanpassing van de regeling voor waardeoverdracht en de kostenregeling (Stb. 2009, 598), een verzoek tot waardeoverdracht als bedoeld in artikel 21 heeft gedaan dat niet is afgehandeld vanwege de in artikel 72 van de Pensioenwet of artikel 83 van de Wet verplichte beroepspensioenregeling omschreven situatie, stelt de ontvangende uitvoerder de deelnemer in de gelegenheid zijn verzoek in te trekken.  
 
 ### Artikel  24  
 
@@ -456,20 +456,20 @@ Indien bij een uitkeringsovereenkomst, een uitkeringsregeling of een premieovere
 
 ####Bestuur en toezicht fonds
 
-Bepalingen ter uitvoering van de [artikelen 101a, negende lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), en [104, tiende lid, van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en artikel [110a, tiende lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) 
+Bepalingen ter uitvoering van de artikelen 101a, negende lid, en 104, tiende lid, van de Pensioenwet en artikel 110a, tiende lid, van de Wet verplichte beroepspensioenregeling 
 
 ### Artikel  28a  
 
 ####Voorzitter omgekeerd gemengd bestuur
 
-1.  De voorzitter van een omgekeerd gemengd bestuur als bedoeld in [artikel 99 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) bepaalt de agenda van de overleggen van het bestuur en het niet uitvoerend deel van het bestuur.   
+1.  De voorzitter van een omgekeerd gemengd bestuur als bedoeld in artikel 99 van de Pensioenwet bepaalt de agenda van de overleggen van het bestuur en het niet uitvoerend deel van het bestuur.   
 2.  De voorzitter van een omgekeerd gemengd bestuur ziet toe op een goede samenstelling en het functioneren van het bestuur en is namens het bestuur eerste aanspreekpunt voor het verantwoordingsorgaan over het functioneren van het bestuur. 
 
 ### Artikel  28b  
 
 ####Auditcommissie omgekeerd gemengd bestuur
 
-1.  De niet uitvoerende bestuurders bij een omgekeerd gemengd bestuur als bedoeld in [artikel 99 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) stellen een auditcommissie bedrijfseconomische aspecten en risicobeheer in. Deze auditcommissie is in ieder geval belast met toezicht op: 
+1.  De niet uitvoerende bestuurders bij een omgekeerd gemengd bestuur als bedoeld in artikel 99 van de Pensioenwet stellen een auditcommissie bedrijfseconomische aspecten en risicobeheer in. Deze auditcommissie is in ieder geval belast met toezicht op: 
 
 a. de risicobeheersing;  
 
@@ -483,27 +483,27 @@ c. de financiële informatieverschaffing door het fonds.
 ####Raad van toezicht
 
 1.  De raad van toezicht van een fonds kan de bestuurders van het fonds schorsen of ontslaan wegens disfunctioneren.   
-2.  Van disfunctioneren als bedoeld in het eerste lid is in ieder geval sprake indien het bestuur een besluit heeft genomen zonder de op grond van [artikel 104, derde lid, van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) of [artikel 110a, derde lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) benodigde goedkeuring van de raad van toezicht en het bestuur niet aannemelijk maakt dat dit nodig was in het belang van de deelnemers, gewezen deelnemers, andere aanspraakgerechtigden en pensioengerechtigden dan wel voortvloeit uit een aanwijzing van de toezichthouder, een last onder dwangsom of rechtstreeks voortvloeit uit een wettelijk voorschrift.   
+2.  Van disfunctioneren als bedoeld in het eerste lid is in ieder geval sprake indien het bestuur een besluit heeft genomen zonder de op grond van artikel 104, derde lid, van de Pensioenwet of artikel 110a, derde lid, van de Wet verplichte beroepspensioenregeling benodigde goedkeuring van de raad van toezicht en het bestuur niet aannemelijk maakt dat dit nodig was in het belang van de deelnemers, gewezen deelnemers, andere aanspraakgerechtigden en pensioengerechtigden dan wel voortvloeit uit een aanwijzing van de toezichthouder, een last onder dwangsom of rechtstreeks voortvloeit uit een wettelijk voorschrift.   
 3.  Het bestuur van een fonds legt de benoeming van een kandidaat bestuurder voor aan de raad van toezicht. De raad van toezicht kan de benoeming van deze kandidaat bestuurder beletten indien deze niet voldoet aan de profielschets. 
 
 ### Hoofdstuk  7  
 
 ####Geschiktheid, betrouwbaarheid en tijdsbeslag
 
-Bepalingen ter uitvoering van de [artikelen 106, achtste lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), en [106a van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en de [artikelen 110c, achtste lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), en [110ca van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  
+Bepalingen ter uitvoering van de artikelen 106, achtste lid, en 106a van de Pensioenwet en de artikelen 110c, achtste lid, en 110ca van de Wet verplichte beroepspensioenregeling  
 
 ### Artikel  29  
 
 ####Toets geschiktheid en betrouwbaarheid
 
-1.  De Nederlandsche Bank toetst de geschiktheid en de betrouwbaarheid van een persoon die het beleid van een fonds bepaalt of mede bepaalt, bedoeld in [artikel 106 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 110c van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), voorafgaand aan de benoeming van deze persoon en op ieder ander moment, indien daar, naar het oordeel van de Nederlandsche Bank, aanleiding toe bestaat.   
-2.  De Nederlandsche Bank toetst de geschiktheid en betrouwbaarheid van een persoon die het intern toezicht van een fonds door een visitatiecommissie uitoefent, bedoeld in [artikel 106 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 110c van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), indien daar, naar het oordeel van de Nederlandsche Bank, aanleiding toe bestaat.  
+1.  De Nederlandsche Bank toetst de geschiktheid en de betrouwbaarheid van een persoon die het beleid van een fonds bepaalt of mede bepaalt, bedoeld in artikel 106 van de Pensioenwet dan wel artikel 110c van de Wet verplichte beroepspensioenregeling, voorafgaand aan de benoeming van deze persoon en op ieder ander moment, indien daar, naar het oordeel van de Nederlandsche Bank, aanleiding toe bestaat.   
+2.  De Nederlandsche Bank toetst de geschiktheid en betrouwbaarheid van een persoon die het intern toezicht van een fonds door een visitatiecommissie uitoefent, bedoeld in artikel 106 van de Pensioenwet dan wel artikel 110c van de Wet verplichte beroepspensioenregeling, indien daar, naar het oordeel van de Nederlandsche Bank, aanleiding toe bestaat.  
 
 ### Artikel  31  
 
 ####Betrouwbaarheid
 
-De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoeld in [artikel 106, derde lid, van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) dan wel [artikel 110c, derde lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) buiten twijfel staat op basis van diens voornemens, handelingen en antecedenten. 
+De Nederlandsche Bank stelt vast of de betrouwbaarheid van een persoon als bedoeld in artikel 106, derde lid, van de Pensioenwet dan wel artikel 110c, derde lid, van de Wet verplichte beroepspensioenregeling buiten twijfel staat op basis van diens voornemens, handelingen en antecedenten. 
 
 ### Artikel  32  
 
@@ -521,7 +521,7 @@ a. door betrokkene verstrekte gegevens en inlichtingen;
 
 b. van de Landelijke Officier van Justitie verkregen gegevens uit de politieregisters;  
 
-c. gegevens uit de registratie, bedoeld in [artikel 1, onderdeel b, van de Wet controle op rechtspersonen](../../../../../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
+c. gegevens uit de registratie, bedoeld in artikel 1, onderdeel b, van de Wet controle op rechtspersonen;  
 
 d. gegevens en inlichtingen, verkregen van de Belastingdienst;  
 
@@ -556,7 +556,7 @@ a. deze onherroepelijk veroordeeld is ter zake van een misdrijf, genoemd in onde
 
 b. deze veroordeeld is ter zake van een misdrijf, genoemd in onderdeel 1 van bijlage A, waarbij de uitspraak nog niet onherroepelijk is of waarbij sinds het onherroepelijk worden van de uitspraak acht of meer jaren zijn verstreken;  
 
-c. deze veroordeeld is ter zake van een overtreding van [artikel 69 van de Algemene wet inzake de rijksbelastingen](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) of [artikel 65 van de Invorderingswet 1990](../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), waarbij betrokkene veroordeeld is tot een gevangenisstraf of boete; of  
+c. deze veroordeeld is ter zake van een overtreding van artikel 69 van de Algemene wet inzake de rijksbelastingen of artikel 65 van de Invorderingswet 1990, waarbij betrokkene veroordeeld is tot een gevangenisstraf of boete; of  
 
 d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen ter zake van een feit, genoemd in onderdeel 5 van bijlage A, en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.     
 2.  De Nederlandsche Bank kan op grond van de omstandigheden of belangen, genoemd in artikel 35, afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d. 
@@ -569,7 +569,7 @@ De Nederlandsche Bank neemt bij de vaststelling, bedoeld in artikel 31, in aanme
 
 a. het onderlinge verband tussen de aan een antecedent ten grondslag liggende gedraging of gedragingen en de overige omstandigheden van het geval;  
 
-b. de belangen die de [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en de [Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) beogen te beschermen; en  
+b. de belangen die de Pensioenwet en de Wet verplichte beroepspensioenregeling beogen te beschermen; en  
 
 c. de overige belangen van het fonds en de betrokkene.   
 
@@ -609,26 +609,26 @@ a. wordt verstaan onder een klein fonds: een fonds met een beheerd vermogen van 
 
 b. wordt verstaan onder een groot fonds: een fonds met meer dan € 10 miljard beheerd vermogen;  
 
-c. betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten, bedoeld in [artikel 397, eerste en tweede lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), onderscheidenlijk de stichting, bedoeld in [artikel 297a, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), niet zijnde een fonds;  
+c. betreft de verwijzing naar rechtspersonen de rechtsvorm van de naamloze vennootschap en de besloten vennootschap met beperkte aansprakelijkheid die op twee opeenvolgende balansdata, zonder onderbreking nadien op twee opeenvolgende balansdata, niet heeft voldaan aan ten minste twee van de vereisten, bedoeld in artikel 397, eerste en tweede lid, van Boek 2 van het Burgerlijk Wetboek, onderscheidenlijk de stichting, bedoeld in artikel 297a, eerste lid, van Boek 2 van het Burgerlijk Wetboek, niet zijnde een fonds;  
 
 d. telt de benoeming bij verschillende rechtspersonen die met elkaar in een groep zijn verbonden, als één benoeming;  
 
 e. wordt verstaan onder toezichthoudend orgaan: een raad van toezicht, een raad van commissarissen of indien bij een rechtspersoon de bestuurstaken zijn verdeeld over uitvoerende en niet-uitvoerende bestuurders, niet uitvoerende bestuurders;  
 
-f. geldt een tijdelijke aanstelling overeenkomstig [artikel 349a, tweede lid](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), of [artikel 356, onder c, van Boek 2 van het Burgerlijk wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), niet als benoeming.     
+f. geldt een tijdelijke aanstelling overeenkomstig artikel 349a, tweede lid, of artikel 356, onder c, van Boek 2 van het Burgerlijk wetboek, niet als benoeming.     
 6.  De nietigheid van de benoeming op grond van de vorige leden heeft geen gevolgen voor de rechtsgeldigheid van de besluitvorming waaraan is deelgenomen.  
 
 ### Hoofdstuk  8  
 
 ####Toedeling taken toezichthouders
 
-Bepalingen ter uitvoering van de [artikelen 108a, tweede lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [151, zevende lid, van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en de [artikelen 113a, tweede lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), en [146, zevende lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  
+Bepalingen ter uitvoering van de artikelen 108a, tweede lid en 151, zevende lid, van de Pensioenwet en de artikelen 113a, tweede lid, en 146, zevende lid, van de Wet verplichte beroepspensioenregeling  
 
 ### Artikel  35b  
 
 ####Verklaring geen bezwaar bij omzetting fonds
 
-1.  De Nederlandsche Bank verleent de verklaring van geen bezwaar, bedoeld in [artikel 114 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 113a van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).   
+1.  De Nederlandsche Bank verleent de verklaring van geen bezwaar, bedoeld in artikel 114 van de Pensioenwet en artikel 113a van de Wet verplichte beroepspensioenregeling.   
 2.  Bij de aanvraag van de verklaring van geen bezwaar, bedoeld in het eerste lid, worden in ieder geval verstrekt: 
 
 a. een door een accountant gecontroleerde en gewaarmerkte balans van het fonds met als peildatum de datum van omzetting van het fonds in een andere rechtsvorm; en  
@@ -639,15 +639,15 @@ b. de schriftelijk vastgelegde afspraken over de besteding van het vermogen van 
 
 ####Toedeling van taken
 
-1.  De Stichting Autoriteit Financiële Markten houdt toezicht op de naleving van de regels, gesteld bij of krachtens de [artikelen 21, eerste lid, tweede lid, tweede zin, vierde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [29, eerste lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), 29, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 29, eerste lid, [33](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), voor zover het betreft communicatie en de klachtenregeling van verzekeraars en premiepensioeninstellingen, [36](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [38 tot en met 47](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [48](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), met uitzondering van de berekeningen ten behoeve van de kwalitatieve en beeldende maatstaf, [49 tot en met 51](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [52, tweede tot en met zesde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [66, derde en vierde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [67, tweede lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [68, tweede lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [71, derde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), voor zover het de opgave van pensioenaanspraken betreft, [74, tweede en derde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md),[ 76, derde en negende lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), voor zover het de opgave van pensioenaanspraken betreft, [83, tweede, lid, onderdeel a](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), voor zover het betrekking heeft op het informeren van de daarin genoemde personen en [134, tweede lid van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md).   
-2.  De Stichting Autoriteit Financiële Markten houdt toezicht op de naleving van de regels, gesteld bij of krachtens de [artikelen 38](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [39, eerste lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), 39, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 39, eerste lid, [42](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), voor zover het betreft communicatie en de klachtenregeling van verzekeraars en premiepensioeninstellingen, [44](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [48 tot en met 58](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [59](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), met uitzondering van de berekeningen ten behoeve van de kwalitatieve en beeldende maatstaf, [60 tot en met 62](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [63, tweede tot en met zesde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [78, derde en vierde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [79, tweede lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [80, tweede lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [82, derde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), voor zover het de opgave van pensioenaanspraken betreft, [85, tweede en derde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [91, tweede, lid, onderdeel a](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), voor zover het betrekking heeft op het informeren van de daarin genoemde personen en [129, tweede lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).   
-3.  De Nederlandsche Bank houdt toezicht op de naleving van de regels, gesteld bij of krachtens de [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en de [Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), met uitzondering van de regels genoemd in het eerste en tweede lid.  
+1.  De Stichting Autoriteit Financiële Markten houdt toezicht op de naleving van de regels, gesteld bij of krachtens de artikelen 21, eerste lid, tweede lid, tweede zin, vierde lid, 29, eerste lid, 29, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 29, eerste lid, 33, voor zover het betreft communicatie en de klachtenregeling van verzekeraars en premiepensioeninstellingen, 36, 38 tot en met 47, 48, met uitzondering van de berekeningen ten behoeve van de kwalitatieve en beeldende maatstaf, 49 tot en met 51, 52, tweede tot en met zesde lid, 66, derde en vierde lid, 67, tweede lid, 68, tweede lid, 71, derde lid, voor zover het de opgave van pensioenaanspraken betreft, 74, tweede en derde lid, 76, derde en negende lid, voor zover het de opgave van pensioenaanspraken betreft, 83, tweede, lid, onderdeel a, voor zover het betrekking heeft op het informeren van de daarin genoemde personen en 134, tweede lid van de Pensioenwet.   
+2.  De Stichting Autoriteit Financiële Markten houdt toezicht op de naleving van de regels, gesteld bij of krachtens de artikelen 38, 39, eerste lid, 39, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 39, eerste lid, 42, voor zover het betreft communicatie en de klachtenregeling van verzekeraars en premiepensioeninstellingen, 44, 48 tot en met 58, 59, met uitzondering van de berekeningen ten behoeve van de kwalitatieve en beeldende maatstaf, 60 tot en met 62, 63, tweede tot en met zesde lid, 78, derde en vierde lid, 79, tweede lid, 80, tweede lid, 82, derde lid, voor zover het de opgave van pensioenaanspraken betreft, 85, tweede en derde lid, 91, tweede, lid, onderdeel a, voor zover het betrekking heeft op het informeren van de daarin genoemde personen en 129, tweede lid, van de Wet verplichte beroepspensioenregeling.   
+3.  De Nederlandsche Bank houdt toezicht op de naleving van de regels, gesteld bij of krachtens de Pensioenwet en de Wet verplichte beroepspensioenregeling, met uitzondering van de regels genoemd in het eerste en tweede lid.  
 
 ### Artikel  37  
 
 ####Uitzondering bevoegdheden
 
-De Stichting Autoriteit Financiële Markten beschikt niet over de bevoegdheden, bedoeld in de [artikelen 172](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [173](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [174 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en de [artikelen 167](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [168](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [169 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md). 
+De Stichting Autoriteit Financiële Markten beschikt niet over de bevoegdheden, bedoeld in de artikelen 172, 173 en 174 van de Pensioenwet en de artikelen 167, 168 en 169 van de Wet verplichte beroepspensioenregeling. 
 
 ### Artikel  38  
 
@@ -655,7 +655,7 @@ De Stichting Autoriteit Financiële Markten beschikt niet over de bevoegdheden, 
 
 1.  De Stichting Autoriteit Financiële Markten en De Nederlandsche Bank maken afspraken over: 
 
-a. de uitwisseling van gegevens en inlichtingen, bedoeld in [artikel 205 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 199 van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);  
+a. de uitwisseling van gegevens en inlichtingen, bedoeld in artikel 205 van de Pensioenwet en artikel 199 van de Wet verplichte beroepspensioenregeling;  
 
 b. de afstemming van beleidsregels, met name over de inzet van handhavinginstrumenten;  
 
@@ -697,7 +697,7 @@ Vervallen per 01-01-2013
 
 ####Vaststelling hoogte boete
 
-1.  De toezichthouder stelt een bestuurlijke boete in de tweede of derde categorie vast op het basisbedrag, bedoeld in [artikel 179, tweede lid, van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 174, tweede lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md).   
+1.  De toezichthouder stelt een bestuurlijke boete in de tweede of derde categorie vast op het basisbedrag, bedoeld in artikel 179, tweede lid, van de Pensioenwet en artikel 174, tweede lid, van de Wet verplichte beroepspensioenregeling.   
 2.  De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de ernst of duur van de overtreding een dergelijke verlaging of verhoging rechtvaardigt.   
 3.  De toezichthouder verlaagt of verhoogt het basisbedrag met ten hoogste 50 procent indien de mate van verwijtbaarheid van de overtreder een dergelijke verlaging of verhoging rechtvaardigt.  
 
@@ -725,194 +725,194 @@ De door de toezichthouder met toepassing van artikel 48 vast te stellen bestuurl
 
 ####Indeling naar categorie
 
-1.  Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) is als volgt beboetbaar:  
+1.  Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de Pensioenwet is als volgt beboetbaar:  
 
 | Pensioenwet  | Boetecategorie  |
 |:---|:---|
-| [21, eerste lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [21, tweede lid, tweede volzin](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [23](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [25](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [26](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [28](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [29, eerste lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
+| 21, eerste lid  | 2  |
+| 21, tweede lid, tweede volzin  | 2  |
+| 23  | 2  |
+| 25  | 1  |
+| 26  | 1  |
+| 28  | 1  |
+| 29, eerste lid  | 2  |
 | 29, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 29, eerste lid  | 2  |
-| [34, eerste lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [35](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [36, eerste lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [38 tot en met 48](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [49](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [50, tweede en vierde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-|[51, eerste, tweede, vierde en vijfde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  |2 |
-| [52](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [58](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [60, eerste tot en met tiende lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [61, eerste tot en met vijfde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [62, eerste tot en met vijfde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [63](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [66, derde, vierde, vijfde, zesde en negende lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [67, tweede lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [68, tweede lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [69, tweede en derde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [71, eerste tot en met vijfde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [74, tweede en derde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [76, eerste, tweede, derde en vierde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [83, tweede lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [84, tweede lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [85, eerste lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [86, eerste en tweede lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [87](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [91](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [94, tweede lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [95](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [96](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [98](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [100](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [101](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [101a](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [102](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [102a](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [103](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [104](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [105](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [106](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [107](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [111](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [112](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [113](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [115](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  |1 |
-| [115a](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  |1 |
-| [115b](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  |1 |
-| [115c](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  |1 |
-| [115e](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  |1 |
-| [115f](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  |1 |
-| [115g](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  |1 |
-| [115h](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  |1 |
-| [116](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [117](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [118, eerste, tweede en derde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [119, eerste, tweede en derde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [120, eerste, tweede en derde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [125](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [128](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [129](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [130](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [134, tweede, vierde en vijfde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [135, eerste en vierde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [136, eerste lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [137, eerste lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [138, eerste t/m vierde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [139](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [140, eerste tot en met derde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [143](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [145](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [146](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [147, eerste, tweede, derde en vijfde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [150](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [167](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [169](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [170](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [171, eerste lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [172, vijfde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [194](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [197](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [199](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 1  |
-| [203, derde lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
-| [204](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md)  | 2  |
+| 34, eerste lid  | 2  |
+| 35  | 2  |
+| 36, eerste lid  | 2  |
+| 38 tot en met 48  | 2  |
+| 49  | 2  |
+| 50, tweede en vierde lid  | 1  |
+|51, eerste, tweede, vierde en vijfde lid  |2 |
+| 52  | 2  |
+| 58  | 2  |
+| 60, eerste tot en met tiende lid  | 2  |
+| 61, eerste tot en met vijfde lid  | 2  |
+| 62, eerste tot en met vijfde lid  | 2  |
+| 63  | 1  |
+| 66, derde, vierde, vijfde, zesde en negende lid  | 2  |
+| 67, tweede lid  | 2  |
+| 68, tweede lid  | 2  |
+| 69, tweede en derde lid  | 2  |
+| 71, eerste tot en met vijfde lid  | 2  |
+| 74, tweede en derde lid  | 2  |
+| 76, eerste, tweede, derde en vierde lid  | 2  |
+| 83, tweede lid  | 2  |
+| 84, tweede lid  | 2  |
+| 85, eerste lid  | 2  |
+| 86, eerste en tweede lid  | 2  |
+| 87  | 2  |
+| 91  | 1  |
+| 94, tweede lid  | 1  |
+| 95  | 2  |
+| 96  | 1  |
+| 98  | 1  |
+| 100  | 1  |
+| 101  | 1  |
+| 101a  | 1  |
+| 102  | 1  |
+| 102a  | 1  |
+| 103  | 1  |
+| 104  | 1  |
+| 105  | 1  |
+| 106  | 1  |
+| 107  | 1  |
+| 111  | 1  |
+| 112  | 1  |
+| 113  | 1  |
+| 115  |1 |
+| 115a  |1 |
+| 115b  |1 |
+| 115c  |1 |
+| 115e  |1 |
+| 115f  |1 |
+| 115g  |1 |
+| 115h  |1 |
+| 116  | 2  |
+| 117  | 2  |
+| 118, eerste, tweede en derde lid  | 2  |
+| 119, eerste, tweede en derde lid  | 2  |
+| 120, eerste, tweede en derde lid  | 2  |
+| 125  | 2  |
+| 128  | 1  |
+| 129  | 1  |
+| 130  | 1  |
+| 134, tweede, vierde en vijfde lid  | 1  |
+| 135, eerste en vierde lid  | 1  |
+| 136, eerste lid  | 1  |
+| 137, eerste lid  | 1  |
+| 138, eerste t/m vierde lid  | 2  |
+| 139  | 2  |
+| 140, eerste tot en met derde lid  | 2  |
+| 143  | 1  |
+| 145  | 1  |
+| 146  | 1  |
+| 147, eerste, tweede, derde en vijfde lid  | 2  |
+| 150  | 1  |
+| 167  | 1  |
+| 169  | 1  |
+| 170  | 1  |
+| 171, eerste lid  | 2  |
+| 172, vijfde lid  | 1  |
+| 194  | 1  |
+| 197  | 1  |
+| 199  | 1  |
+| 203, derde lid  | 2  |
+| 204  | 2  |
 
-2.  Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de [Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) is als volgt beboetbaar:  
+2.  Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de Wet verplichte beroepspensioenregeling is als volgt beboetbaar:  
 
 | Wet verplichte beroepspensioenregeling  | Boetecategorie  |
 |:---|:---|
-| [8](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [21](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [22](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [23](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [25](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [26](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [35](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [36](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [38](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [39, eerste lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-|[39, zevende lid](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), voor zover het betreft de overeenkomstige toepassing van artikel 39, eerste lid |2 |
-| [43, eerste lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [44, eerste lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [46](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [47](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [48, eerste en tweede lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [49 tot en met 59](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [60](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [61, tweede en vierde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-|[62, eerste, tweede, vierde en vijfde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  |2 |
-| [63](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [69](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [72, eerste tot en met tiende lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [73, eerste tot en met derde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [74, eerste tot en met vijfde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [75](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [78, derde, vierde, vijfde, zesde en negende lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [79, tweede lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [80, tweede lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [82, eerste tot en met vijfde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [85, tweede en derde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [91, tweede lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [92, tweede lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [93, eerste lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [94, eerste en tweede lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [95](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [99](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [102, tweede lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [103](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [104](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [105](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [106](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [107](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [108](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [110](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [110a](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [110b](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [110c](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [110d](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [110e](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [110f](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [110g](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [110h](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [113](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [114](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [115](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [116](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [117](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [118](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [123](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [124](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [125](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [129, tweede, vierde en vijfde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [130, eerste en vierde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [131, eerste lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [132, eerste lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [133, eerste tot en met vierde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [134](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [135, eerste tot en met derde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [138](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [140](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [141](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [142, eerste, tweede, derde en vijfde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [145](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [162](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [164](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [165](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [166, eerste lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [167, vijfde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [191](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [193](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 1  |
-| [197, derde lid](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
-| [198](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md)  | 2  |
+| 8  | 2  |
+| 21  | 2  |
+| 22  | 1  |
+| 23  | 2  |
+| 25  | 2  |
+| 26  | 1  |
+| 35  | 1  |
+| 36  | 1  |
+| 38  | 1  |
+| 39, eerste lid  | 2  |
+|39, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 39, eerste lid |2 |
+| 43, eerste lid  | 2  |
+| 44, eerste lid  | 2  |
+| 46  | 2  |
+| 47  | 2  |
+| 48, eerste en tweede lid  | 2  |
+| 49 tot en met 59  | 2  |
+| 60  | 2  |
+| 61, tweede en vierde lid  | 1  |
+|62, eerste, tweede, vierde en vijfde lid  |2 |
+| 63  | 2  |
+| 69  | 2  |
+| 72, eerste tot en met tiende lid  | 2  |
+| 73, eerste tot en met derde lid  | 2  |
+| 74, eerste tot en met vijfde lid  | 2  |
+| 75  | 1  |
+| 78, derde, vierde, vijfde, zesde en negende lid  | 2  |
+| 79, tweede lid  | 2  |
+| 80, tweede lid  | 2  |
+| 82, eerste tot en met vijfde lid  | 2  |
+| 85, tweede en derde lid  | 2  |
+| 91, tweede lid  | 2  |
+| 92, tweede lid  | 2  |
+| 93, eerste lid  | 2  |
+| 94, eerste en tweede lid  | 2  |
+| 95  | 2  |
+| 99  | 1  |
+| 102, tweede lid  | 1  |
+| 103  | 2  |
+| 104  | 1  |
+| 105  | 1  |
+| 106  | 1  |
+| 107  | 1  |
+| 108  | 1  |
+| 110  | 1  |
+| 110a  | 1  |
+| 110b  | 1  |
+| 110c  | 1  |
+| 110d  | 1  |
+| 110e  | 1  |
+| 110f  | 1  |
+| 110g  | 1  |
+| 110h  | 1  |
+| 113  | 1  |
+| 114  | 2  |
+| 115  | 2  |
+| 116  | 2  |
+| 117  | 2  |
+| 118  | 2  |
+| 123  | 1  |
+| 124  | 1  |
+| 125  | 1  |
+| 129, tweede, vierde en vijfde lid  | 1  |
+| 130, eerste en vierde lid  | 1  |
+| 131, eerste lid  | 1  |
+| 132, eerste lid  | 1  |
+| 133, eerste tot en met vierde lid  | 2  |
+| 134  | 2  |
+| 135, eerste tot en met derde lid  | 2  |
+| 138  | 1  |
+| 140  | 1  |
+| 141  | 1  |
+| 142, eerste, tweede, derde en vijfde lid  | 2  |
+| 145  | 1  |
+| 162  | 1  |
+| 164  | 1  |
+| 165  | 1  |
+| 166, eerste lid  | 2  |
+| 167, vijfde lid  | 1  |
+| 191  | 1  |
+| 193  | 1  |
+| 197, derde lid  | 2  |
+| 198  | 2  |
 
-3.  Overtreding van een voorschrift gesteld in een hierna genoemd artikel van de [Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is als volgt beboetbaar:  
+3.  Overtreding van een voorschrift gesteld in een hierna genoemd artikel van de Algemene wet bestuursrecht is als volgt beboetbaar:  
 
 | Algemene wet bestuursrecht  | Boetecategorie  |
 |:---|:---|
-| [5:20](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)  | 2  |
+| 5:20  | 2  |
 
 4.  Overtreding van een voorschrift gesteld in een hierna genoemd artikel van dit besluit is als volgt beboetbaar:  
 
@@ -932,18 +932,18 @@ De door de toezichthouder met toepassing van artikel 48 vast te stellen bestuurl
 | 27   | 2  |
 | 28   | 2  |
 
-5.  Overtreding van een voorschrift gesteld in een hierna genoemd artikel van het [Besluit financieel toetsingskader pensioenfondsen](../../../../../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md) is als volgt beboetbaar:  
+5.  Overtreding van een voorschrift gesteld in een hierna genoemd artikel van het Besluit financieel toetsingskader pensioenfondsen is als volgt beboetbaar:  
 
 | Besluit financieel toetsingskader pensioenfondsen  | Boetecategorie  |
 |:---|:---|
-| [12](../../../../../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md)  | 1  |
-| [13](../../../../../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md)  | 1  |
-| [14](../../../../../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md)  | 1  |
-| [15](../../../../../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md)  | 2  |
-| [16](../../../../../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md)  | 2  |
-| [29](../../../../../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md)  | 2  |
-| [31](../../../../../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md)  | 2  |
-| [33](../../../../../../../../../AMvB/besluit/financieel/toetsingskader/pensioenfondsen/BWBR0020871/README.md)  | 2  |
+| 12  | 1  |
+| 13  | 1  |
+| 14  | 1  |
+| 15  | 2  |
+| 16  | 2  |
+| 29  | 2  |
+| 31  | 2  |
+| 33  | 2  |
 
 ### Hoofdstuk  11  
 
@@ -951,10 +951,10 @@ De door de toezichthouder met toepassing van artikel 48 vast te stellen bestuurl
 
 ### Artikel  52  
 
-####Overgangsrecht in verband met [artikel 18](../../../../../../../../../wet/invoerings-/en/aanpassingswet/pensioenwet/BWBR0020828/README.md) en [artikel 22 Invoerings- en aanpassingswet Pensioenwet](../../../../../../../../../wet/invoerings-/en/aanpassingswet/pensioenwet/BWBR0020828/README.md)
+####Overgangsrecht in verband met artikel 18 en artikel 22 Invoerings- en aanpassingswet Pensioenwet
 
-1.  Ten aanzien van de in [artikel 18, derde lid, van de Invoerings- en aanpassingwet Pensioenwet](../../../../../../../../../wet/invoerings-/en/aanpassingswet/pensioenwet/BWBR0020828/README.md) bedoelde pensioentoezeggingen, welke op grond van [artikel 2, eerste lid, onderdeel c en vierde lid, onderdeel c, van de Pensioen- en spaarfondsenwet](../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) al zijn ondergebracht bij een verzekeraar en waarbij na de datum van inwerkingtreding van [artikel 1 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) geen verwerving van pensioen meer plaats vindt, blijft de [Pensioen- en spaarfondsenwet](../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) en [hoofdstuk I](../../../../../../../../../ministeriele-regeling/regelen/verzekeringsovereenkomsten/pensioen-/en/spaarfondsenwet/BWBR0004195/README.md) en [III van de Regelen verzekeringsovereenkomsten Pensioen- en spaarfondsenwet](../../../../../../../../../ministeriele-regeling/regelen/verzekeringsovereenkomsten/pensioen-/en/spaarfondsenwet/BWBR0004195/README.md) van toepassing.   
-2.  In aanvulling op [artikel 22, eerste lid, van de Invoerings- en aanpassingswet Pensioenwet](../../../../../../../../../wet/invoerings-/en/aanpassingswet/pensioenwet/BWBR0020828/README.md) blijft, tot de datum van inwerkingtreding van de [artikelen 38 tot en met 45 van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [artikel 8a, vierde lid, van de Pensioen- en spaarfondsenwet](../../../../../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md) van toepassing.  
+1.  Ten aanzien van de in artikel 18, derde lid, van de Invoerings- en aanpassingwet Pensioenwet bedoelde pensioentoezeggingen, welke op grond van artikel 2, eerste lid, onderdeel c en vierde lid, onderdeel c, van de Pensioen- en spaarfondsenwet al zijn ondergebracht bij een verzekeraar en waarbij na de datum van inwerkingtreding van artikel 1 van de Pensioenwet geen verwerving van pensioen meer plaats vindt, blijft de Pensioen- en spaarfondsenwet en hoofdstuk I en III van de Regelen verzekeringsovereenkomsten Pensioen- en spaarfondsenwet van toepassing.   
+2.  In aanvulling op artikel 22, eerste lid, van de Invoerings- en aanpassingswet Pensioenwet blijft, tot de datum van inwerkingtreding van de artikelen 38 tot en met 45 van de Pensioenwet, artikel 8a, vierde lid, van de Pensioen- en spaarfondsenwet van toepassing.  
 
 ### Artikel  52a  
 
@@ -966,12 +966,12 @@ Artikel 35a is niet van toepassing op benoemingen tot bestuurder of lid van de r
 
 ####Intrekken besluiten
 
-1. Het [Besluit verplichte beroepspensioenregeling](../../../../../../../../../AMvB/besluit/verplichte/beroepspensioenregeling/BWBR0019290/README.md) wordt ingetrokken.
-2. Het [Besluit minimumbedrag eigen vermogen pensioenfondsen](../../../../../../../../../AMvB/besluit/minimumbedrag/eigen/vermogen/pensioenfondsen/BWBR0019490/README.md) wordt ingetrokken. 
+1. Het Besluit verplichte beroepspensioenregeling wordt ingetrokken.
+2. Het Besluit minimumbedrag eigen vermogen pensioenfondsen wordt ingetrokken. 
 
 ###Artikel 54 
 
-####Wijziging vanwege invoering [Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+####Wijziging vanwege invoering Wft
 
 Wijzigt dit besluit. 
 
@@ -983,43 +983,43 @@ Wijzigt dit besluit.
 
 ###Artikel 56 
 
-####Wijziging [Besluit meldingsregeling Wet Bpf 2000](../../../../../../../../../AMvB/besluit/meldingsregeling/wet/bpf/2000/BWBR0012093/README.md)
+####Wijziging Besluit meldingsregeling Wet Bpf 2000
 
 Wijzigt het Besluit meldingsregeling Wet Bpf 2000. 
 
 ###Artikel 57 
 
-####Wijziging [Vrijstellingsbesluit Wet Bpf 2000](../../../../../../../../../AMvB/vrijstellingsbesluit/wet/bpf/2000/BWBR0012094/README.md)
+####Wijziging Vrijstellingsbesluit Wet Bpf 2000
 
 Wijzigt het Vrijstellingsbesluit Wet Bpf 2000. 
 
 ###Artikel 58 
 
-####Wijziging [Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004](../../../../../../../../../AMvB/uitvoeringsbesluit/pensioenaspecten/sociaal/akkoord/2004/BWBR0018605/README.md)
+####Wijziging Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004
 
 Wijzigt het Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004. 
 
 ###Artikel 59 
 
-####Wijziging [Besluit bestuursorganen WNo en Wob](../../../../../../../../../AMvB/besluit/bestuursorganen/wno/en/wob/BWBR0009896/README.md)
+####Wijziging Besluit bestuursorganen WNo en Wob
 
 Wijzigt het Besluit bestuursorganen WNo en Wob. 
 
 ###Artikel 60 
 
-####Wijziging [Besluit gemeentelijke basisadministratie persoonsgegevens](../../../../../../../../../AMvB/besluit/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006933/README.md)
+####Wijziging Besluit gemeentelijke basisadministratie persoonsgegevens
 
 Wijzigt het Besluit gemeentelijke basisadministratie persoonsgegevens. 
 
 ###Artikel 61 
 
-####Wijziging [bijlage Wet toezicht accountantsorganisaties](../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md)
+####Wijziging bijlage Wet toezicht accountantsorganisaties
 
 Wijzigt de Wet toezicht accountantsorganisaties. 
 
 ###Artikel 62 
 
-####Wijziging [Besluit op de huurtoeslag](../../../../../../../../../AMvB/huursubsidiebesluit/BWBR0008763/README.md)
+####Wijziging Besluit op de huurtoeslag
 
 Wijzigt het Besluit op de huurtoeslag. 
 
@@ -1029,8 +1029,8 @@ Wijzigt het Besluit op de huurtoeslag.
 
 1.  Dit besluit treedt in werking met ingang van 1 januari 2007, met uitzondering van de artikelen 2 tot en met 10 en artikel 15.   
 2.  De artikelen 2 tot en met 10 treden in werking met ingang van 1 januari 2008.   
-3.  Artikel 15 geldt ten aanzien van de keuzemogelijkheid, bedoeld in [artikel 61, eerste, derde, vierde en zesde lid, van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 73, eerste, derde, vierde en zesde lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) met ingang van 1 januari 2008.   
-4.  Artikel 15 geldt ten aanzien van de keuzemogelijkheid, bedoeld in [artikel 61, tweede, zevende, achtste en negende lid, van de Pensioenwet](../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [artikel 73, tweede, zevende, achtste en negende lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) met ingang van 1 januari 2009.  
+3.  Artikel 15 geldt ten aanzien van de keuzemogelijkheid, bedoeld in artikel 61, eerste, derde, vierde en zesde lid, van de Pensioenwet en artikel 73, eerste, derde, vierde en zesde lid, van de Wet verplichte beroepspensioenregeling met ingang van 1 januari 2008.   
+4.  Artikel 15 geldt ten aanzien van de keuzemogelijkheid, bedoeld in artikel 61, tweede, zevende, achtste en negende lid, van de Pensioenwet en artikel 73, tweede, zevende, achtste en negende lid, van de Wet verplichte beroepspensioenregeling met ingang van 1 januari 2009.  
 
 ### Artikel  64  
 
@@ -1064,29 +1064,29 @@ E. M. H. Hirsch Ballin
 
 Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld ter zake van poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van: 
 
-– het in of vanuit Nederland, beschikkende over voorwetenschap, verrichten of bewerkstelligen van transacties in bepaalde effecten ([artikelen 5:53](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:56 van de Wet op het financieel toezicht](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) Wft);  
+– het in of vanuit Nederland, beschikkende over voorwetenschap, verrichten of bewerkstelligen van transacties in bepaalde effecten (artikelen 5:53 en 5:56 van de Wet op het financieel toezicht Wft);  
 
-– het doorgeven van voorwetenschap als bedoeld in de [artikelen 5:53](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:56 van de Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of de nadrukkelijke aanbeveling bepaalde transacties te doen zonder daarbij de voorwetenschap door te geven ([artikel 5:57 van de Wft](../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md));  
+– het doorgeven van voorwetenschap als bedoeld in de artikelen 5:53 en 5:56 van de Wft of de nadrukkelijke aanbeveling bepaalde transacties te doen zonder daarbij de voorwetenschap door te geven (artikel 5:57 van de Wft);  
 
-– deelneming aan een criminele of terroristische organisatie ([artikelen 140 tot en met 140a van het Wetboek van Strafrecht](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (WvSr));  
+– deelneming aan een criminele of terroristische organisatie (artikelen 140 tot en met 140a van het Wetboek van Strafrecht (WvSr));  
 
-– valsheid in geschrifte ([artikel 225 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– valsheid in geschrifte (artikel 225 WvSr);  
 
-– opzettelijk verstrekken van onware gegevens ([artikel 227a WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzettelijk verstrekken van onware gegevens (artikel 227a WvSr);  
 
-– opzettelijk schenden van de verplichting gegevens te verstrekken ([artikel 227b WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzettelijk schenden van de verplichting gegevens te verstrekken (artikel 227b WvSr);  
 
-– diefstal onder verzwarende omstandigheden ([artikelen 311](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [312 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– diefstal onder verzwarende omstandigheden (artikelen 311 en 312 WvSr);  
 
-– verduistering ([artikelen 321 tot en met 323 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– verduistering (artikelen 321 tot en met 323 WvSr);  
 
-– benadeling van schuldeisers of rechthebbenden ([artikelen 340 tot en met 348 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– benadeling van schuldeisers of rechthebbenden (artikelen 340 tot en met 348 WvSr);  
 
-– opzetheling ([artikel 416 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzetheling (artikel 416 WvSr);  
 
-– witwassen ([artikelen 420 bis tot en met 420 ter WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)); of  
+– witwassen (artikelen 420 bis tot en met 420 ter WvSr); of  
 
-– overtreding van een bepaling uit de financiële ordeningswetgeving, als misdrijf strafbaar gesteld in [artikel 2](../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) juncto [6 van de Wet op de economische delicten](../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) en waarvoor betrokkene is veroordeeld tot een onvoorwaardelijke gevangenisstraf of een geldboete van ten minste de vierde categorie; of  
+– overtreding van een bepaling uit de financiële ordeningswetgeving, als misdrijf strafbaar gesteld in artikel 2 juncto 6 van de Wet op de economische delicten en waarvoor betrokkene is veroordeeld tot een onvoorwaardelijke gevangenisstraf of een geldboete van ten minste de vierde categorie; of  
 
 – overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.   
 
@@ -1102,113 +1102,113 @@ Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld ter zake 
 
 #### *Wetboek van Strafrecht:* 
 
-– openbare orde en discriminatie ([artikelen 131 tot en met 151a](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– openbare orde en discriminatie (artikelen 131 tot en met 151a);  
 
-– gemeengevaarlijke misdrijven ([artikelen 157 tot en met 175](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– gemeengevaarlijke misdrijven (artikelen 157 tot en met 175);  
 
-– openbaar gezag ([artikelen 177 tot en met 207a](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) );  
+– openbaar gezag (artikelen 177 tot en met 207a );  
 
-– muntmisdrijven ([artikelen 208 tot en met 215 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– muntmisdrijven (artikelen 208 tot en met 215 WvSr);  
 
-– andere valsheiddelicten dan muntmisdrijven ([artikelen 216 tot en met 235 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– andere valsheiddelicten dan muntmisdrijven (artikelen 216 tot en met 235 WvSr);  
 
-– opzettelijk verstrekken van onware gegevens ([artikel 227a WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzettelijk verstrekken van onware gegevens (artikel 227a WvSr);  
 
-– opzettelijk schenden van de verplichting gegevens te verstrekken ([artikel 227b WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzettelijk schenden van de verplichting gegevens te verstrekken (artikel 227b WvSr);  
 
-– misdrijven tegen de zeden ([artikelen 242](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [246](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [243 tot en met 245](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [247 tot en met 250](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [250ter WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– misdrijven tegen de zeden (artikelen 242, 246, 243 tot en met 245, 247 tot en met 250, 250ter WvSr);  
 
-– bedreiging met geweld of misdrijf ([artikel 285 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– bedreiging met geweld of misdrijf (artikel 285 WvSr);  
 
-– geweldsmisdrijven tegen het leven ([artikelen 287 tot en met 294 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– geweldsmisdrijven tegen het leven (artikelen 287 tot en met 294 WvSr);  
 
-– mishandeling ([artikelen 300 tot en met 306 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– mishandeling (artikelen 300 tot en met 306 WvSr);  
 
-– dood en lichamelijk letsel door schuld ([artikelen 307 tot en met 309 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– dood en lichamelijk letsel door schuld (artikelen 307 tot en met 309 WvSr);  
 
-– eenvoudige diefstal ([artikel 310 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– eenvoudige diefstal (artikel 310 WvSr);  
 
-– diefstal onder verzwarende omstandigheden ([artikel 311 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– diefstal onder verzwarende omstandigheden (artikel 311 WvSr);  
 
-– diefstal met geweld ([artikel 312 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– diefstal met geweld (artikel 312 WvSr);  
 
-– afpersing ([artikel 317 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– afpersing (artikel 317 WvSr);  
 
-– verduistering ([artikelen 321 tot en met 323 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– verduistering (artikelen 321 tot en met 323 WvSr);  
 
-– bedrog ([artikelen 326 tot en met 337 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– bedrog (artikelen 326 tot en met 337 WvSr);  
 
-– benadeling van schuldeisers of rechthebbenden ([artikelen 340 tot en met 348 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– benadeling van schuldeisers of rechthebbenden (artikelen 340 tot en met 348 WvSr);  
 
-– vernieling ([artikelen 350 tot en met 354](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– vernieling (artikelen 350 tot en met 354);  
 
-– ambtsmisdrijven ([artikelen 355 tot en met 380 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– ambtsmisdrijven (artikelen 355 tot en met 380 WvSr);  
 
-– heling en schuldheling ([artikelen 416 tot en met 417 bis WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– heling en schuldheling (artikelen 416 tot en met 417 bis WvSr);  
 
-– witwassen ([artikelen 420 bis tot en met 420 quinquies WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– witwassen (artikelen 420 bis tot en met 420 quinquies WvSr);  
 
-– opgave van valse naam, academische titel etc. ([artikel 435 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opgave van valse naam, academische titel etc. (artikel 435 WvSr);  
 
-– indruk wekken van officieel gesteund of erkend optreden ([artikel 435b WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– indruk wekken van officieel gesteund of erkend optreden (artikel 435b WvSr);  
 
-– onbevoegd uitoefenen makelaardij ([artikel 436a WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– onbevoegd uitoefenen makelaardij (artikel 436a WvSr);  
 
-– eigenmachtig handelen tijdens surséance ([artikel 442 WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– eigenmachtig handelen tijdens surséance (artikel 442 WvSr);  
 
-– verstrekken van onware gegevens ([artikel 447c WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)); of  
+– verstrekken van onware gegevens (artikel 447c WvSr); of  
 
-– schenden van de verplichting gegevens te verstrekken ([artikel 447d WvSr](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)).   
+– schenden van de verplichting gegevens te verstrekken (artikel 447d WvSr).   
 
 #### *Algemene wet inzake rijksbelastingen:* 
 
-– overtreding fiscale wetgeving ([artikelen 68](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [69](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)). 
+– overtreding fiscale wetgeving (artikelen 68 en 69). 
 
 #### *Opiumwet:* 
 
-– met opzet smokkelen, bereiden, verkopen, afleveren, aanwezig hebben, etc. van harddrugs ([artikel 2, eerste lid](../../../../../../../../../wet/opiumwet/BWBR0001941/README.md));  
+– met opzet smokkelen, bereiden, verkopen, afleveren, aanwezig hebben, etc. van harddrugs (artikel 2, eerste lid);  
 
-– met opzet smokkelen, bereiden, verkopen, afleveren, aanwezig hebben en vervaardigen softdrugs ([3, eerste lid](../../../../../../../../../wet/opiumwet/BWBR0001941/README.md)); of  
+– met opzet smokkelen, bereiden, verkopen, afleveren, aanwezig hebben en vervaardigen softdrugs (3, eerste lid); of  
 
-– voorbereidingshandelingen met betrekking tot bereiden, verkopen, afleveren etc. en smokkel harddrugs ([artikel 10a, eerste lid](../../../../../../../../../wet/opiumwet/BWBR0001941/README.md)).   
+– voorbereidingshandelingen met betrekking tot bereiden, verkopen, afleveren etc. en smokkel harddrugs (artikel 10a, eerste lid).   
 
 #### *Wet op de economische delicten:* 
 
-Door de [Wet op de economische delicten strafbaar](../../../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) gestelde gedragingen, met name verbodsbepalingen uit de financiële ordeningswetgeving en overtreding van de [artikelen 2](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [3, eerste lid](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [4 eerste lid](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [5, eerste en derde lid](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [8](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [16](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [17, tweede lid](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [23, eerste en tweede lid](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [33](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md). 
+Door de Wet op de economische delicten strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële ordeningswetgeving en overtreding van de artikelen 2, 3, eerste lid, 4 eerste lid, 5, eerste en derde lid, 8, 16, 17, tweede lid, 23, eerste en tweede lid, 33 en 34 van de Wet ter voorkoming van witwassen en financieren van terrorisme. 
 
 #### *Wet wapens en munitie:* 
 
-– zonder erkenning wapens of munitie vervaardigen etc. ([artikel 9, eerste lid](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md));  
+– zonder erkenning wapens of munitie vervaardigen etc. (artikel 9, eerste lid);  
 
-– voorhanden hebben etc. van bepaalde wapens ([artikel 13, eerste lid](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md));  
+– voorhanden hebben etc. van bepaalde wapens (artikel 13, eerste lid);  
 
-– zonder consent bepaalde wapens of munitie doen binnenkomen of uitgaan etc. ([artikel 14, eerste lid](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md));  
+– zonder consent bepaalde wapens of munitie doen binnenkomen of uitgaan etc. (artikel 14, eerste lid);  
 
-– zonder vergunning/verlof vervoeren van bepaalde wapens of munitie ([artikel 22, eerste lid](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md));  
+– zonder vergunning/verlof vervoeren van bepaalde wapens of munitie (artikel 22, eerste lid);  
 
-– verboden voorhanden hebben van bepaalde wapens of munitie ([artikel 26, eerste lid](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)); of  
+– verboden voorhanden hebben van bepaalde wapens of munitie (artikel 26, eerste lid); of  
 
-– verboden overdragen van bepaalde wapens of munitie ([artikel 31, eerste lid](../../../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)).   
+– verboden overdragen van bepaalde wapens of munitie (artikel 31, eerste lid).   
 
 #### *Wegenverkeerswet 1994:* 
 
-– dood of letsel door schuld ([artikel 6](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md));  
+– dood of letsel door schuld (artikel 6);  
 
-– doorrijden na ongeval ([artikel 7](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md));  
+– doorrijden na ongeval (artikel 7);  
 
-– rijden onder invloed ([artikel 8](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md));  
+– rijden onder invloed (artikel 8);  
 
-– motorvoertuig besturen na ontzegging ([artikel 9](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md));  
+– motorvoertuig besturen na ontzegging (artikel 9);  
 
-– joyriding ([artikel 11](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)); of  
+– joyriding (artikel 11); of  
 
-– medewerking weigeren aan onderzoek ([artikel 163](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)).   Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hierboven genoemde. 
+– medewerking weigeren aan onderzoek (artikel 163).   Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hierboven genoemde. 
 
 ### 2.2 
 
 ####Transacties met de Officier van Justitie
 
-Betrokkene heeft een transactie als bedoeld in [artikel 74 van het Wetboek van Strafrecht](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) gedaan ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten. Onder transacties worden ook verstaan transacties in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde. 
+Betrokkene heeft een transactie als bedoeld in artikel 74 van het Wetboek van Strafrecht gedaan ter zake van een of meer van de hiervoor onder 1 genoemde strafbare feiten. Onder transacties worden ook verstaan transacties in het buitenland met de terzake bevoegde autoriteiten ter zake van overtreding van een of meer daar geldende strafbepalingen vergelijkbaar met de hiervoor genoemde. 
 
 ### 2.3 
 
@@ -1246,7 +1246,7 @@ Andere feiten of omstandigheden die redelijkerwijs van belang kunnen zijn voor d
 
 – met betrekking tot de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon beleidsbepaler of medebeleidsbepaler bekleedt/bekleedde, feitelijke zeggenschap in het bestuur uitoefent/uitoefende of anderszins (mede)verantwoordelijk is/was voor het beleid, is surséance van betaling of faillissement aangevraagd of uitgesproken;  
 
-– betrokkene is veroordeeld tot het voldoen van openstaande schulden wegens aansprakelijkheid voor het faillissement van een vennootschap of rechtspersoon op grond van de toepasselijke bepalingen van [Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) ([artikelen 50a](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), 1[38](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [149](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [248](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [259](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [300a](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)).   
+– betrokkene is veroordeeld tot het voldoen van openstaande schulden wegens aansprakelijkheid voor het faillissement van een vennootschap of rechtspersoon op grond van de toepasselijke bepalingen van Boek 2 van het Burgerlijk Wetboek (artikelen 50a, 138, 149, 248, 259 en 300a).   
 
 ### 3.3 
 
@@ -1270,7 +1270,7 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 – betrokkene, of zijn huidige of één van zijn voormalige werkgevers of een vennootschap of rechtspersoon, waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijk zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede-)verantwoordelijk is/was voor het beleid, is in conflict geweest met een van overheidswege (in Nederland of elders) met het toezicht op de financiële markten belaste toezichthouder, en dit conflict heeft geleid tot enige maatregel jegens betrokkene dan wel jegens de vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijk zeggenschap in het bestuur uitoefent/uitoefende of anderszins verantwoordelijk is of was voor het beleid;  
 
-– aan betrokkene of aan een vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, een verklaring door de Minister van Justitie ter zake van de oprichting van dan wel van de wijziging van de statuten van een vennootschap geweigerd op gronden genoemd in [artikel 68, tweede lid](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [179, tweede lid](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [125, tweede lid](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), onderscheidenlijk [235, tweede lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+– aan betrokkene of aan een vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, een verklaring door de Minister van Justitie ter zake van de oprichting van dan wel van de wijziging van de statuten van een vennootschap geweigerd op gronden genoemd in artikel 68, tweede lid, 179, tweede lid, 125, tweede lid, onderscheidenlijk 235, tweede lid, van Boek 2 van het Burgerlijk Wetboek.   
 
 ### 4.2 
 
@@ -1286,25 +1286,25 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 ####Persoonlijk
 
-Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
+Aan betrokkene is op grond van de Algemene wet inzake rijksbelastingen een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
 
-– opzettelijk een onjuiste of onvolledige belastingaangifte doen ([artikel 67d](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md));  
+– opzettelijk een onjuiste of onvolledige belastingaangifte doen (artikel 67d);  
 
-– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven ([artikel 67e](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md));  
+– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven (artikel 67e);  
 
-– het aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten is dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald ([artikel 67f](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).   
+– het aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten is dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald (artikel 67f).   
 
 ### 5.2 
 
 ####Zakelijk
 
-Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt/bekleedde als beleidsbepaler, medebeleidsbepaler, feitelijke zeggenschap in het bestuur uitoefent/uitoefende of anderszins (mede)verantwoordelijk is/was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
+Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt/bekleedde als beleidsbepaler, medebeleidsbepaler, feitelijke zeggenschap in het bestuur uitoefent/uitoefende of anderszins (mede)verantwoordelijk is/was voor het beleid, is op grond van de Algemene wet inzake rijksbelastingen een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
 
-– opzettelijk een onjuiste of onvolledige belastingaangifte doen ([artikel 67d](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md));  
+– opzettelijk een onjuiste of onvolledige belastingaangifte doen (artikel 67d);  
 
-– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven ([artikel 67e](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)); of  
+– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven (artikel 67e); of  
 
-– het is aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald ([artikel 67f](../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).   
+– het is aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald (artikel 67f).   
 
 ### 5.3 
 

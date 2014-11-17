@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Financiën van 12 juli 2006, nr. FM 2006-01681 M;
 
-Gelet op richtlijn nr. 85/611/EEG van de Raad van de Europese Gemeenschappen van 20 december 1985 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende bepaalde instellingen voor collectieve belegging in effecten (icbe’s) (PbEG L 375), richtlijn nr. 87/102/EEG van de Raad van de Europese Gemeenschappen van 22 december 1986 betreffende de harmonisatie van de wettelijke en bestuursrechtelijke bepalingen der lidstaten inzake het consumentenkrediet (PbEG 1987 L 42), richtlijn nr. 92/49/EEG van de Raad van de Europese Gemeenschappen van 18 juni 1992 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende de toegang tot het directe verzekeringsbedrijf, met uitzondering van de levensverzekeringsbranche, en houdende wijziging van de richtlijnen 73/239/EEG en 88/357/EEG (PbEG L 228), richtlijn nr. 93/22/EEG van de Raad van de Europese Gemeenschappen van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten (PbEG L 141), richtlijn nr. 2002/65/EG van het Europees Parlement en de Raad van de Europese Unie van 23 september 2002 betreffende de verkoop op afstand van financiële diensten aan consumenten en tot wijziging van de richtlijnen nr. 90/619/EEG, nr. 97/7/EG en nr. 98/27/EG (PbEG L 271), richtlijn nr. 2002/83/EG van het Europees Parlement en de Raad van 5 november 2002 betreffende levensverzekering (PbEG L 345) en richtlijn nr. 2002/92/EG van het Europees Parlement en de Raad van de Europese Unie van 9 december 2002 betreffende verzekeringsbemiddeling (PbEG L 9) en de [artikelen 4:3, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:5, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:9, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:10, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:11, derde en vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:14, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:15, tweede lid, aanhef en onderdeel a en onderdeel b, onder 2°](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:16, tweede en derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:17, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:20, eerste lid, tweede lid, derde lid, aanhef en onderdeel b, vierde lid, en vijfde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:22, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:25, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:26, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:27, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:30a, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:32, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:33, derde en vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:34, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:43, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:48, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:49, tweede lid, aanhef en onderdeel e](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:51, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:52, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:56, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:61](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:71, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:72, derde lid, aanhef en onderdeel a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:73, derde lid, aanhef en onderdelen a en c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:74, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:75, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:76, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:78, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:85, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:86](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:87, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:88, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:89, tweede lid, van de Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+Gelet op richtlijn nr. 85/611/EEG van de Raad van de Europese Gemeenschappen van 20 december 1985 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende bepaalde instellingen voor collectieve belegging in effecten (icbe’s) (PbEG L 375), richtlijn nr. 87/102/EEG van de Raad van de Europese Gemeenschappen van 22 december 1986 betreffende de harmonisatie van de wettelijke en bestuursrechtelijke bepalingen der lidstaten inzake het consumentenkrediet (PbEG 1987 L 42), richtlijn nr. 92/49/EEG van de Raad van de Europese Gemeenschappen van 18 juni 1992 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende de toegang tot het directe verzekeringsbedrijf, met uitzondering van de levensverzekeringsbranche, en houdende wijziging van de richtlijnen 73/239/EEG en 88/357/EEG (PbEG L 228), richtlijn nr. 93/22/EEG van de Raad van de Europese Gemeenschappen van 10 mei 1993 betreffende het verrichten van diensten op het gebied van beleggingen in effecten (PbEG L 141), richtlijn nr. 2002/65/EG van het Europees Parlement en de Raad van de Europese Unie van 23 september 2002 betreffende de verkoop op afstand van financiële diensten aan consumenten en tot wijziging van de richtlijnen nr. 90/619/EEG, nr. 97/7/EG en nr. 98/27/EG (PbEG L 271), richtlijn nr. 2002/83/EG van het Europees Parlement en de Raad van 5 november 2002 betreffende levensverzekering (PbEG L 345) en richtlijn nr. 2002/92/EG van het Europees Parlement en de Raad van de Europese Unie van 9 december 2002 betreffende verzekeringsbemiddeling (PbEG L 9) en de artikelen 4:3, vierde lid, 4:5, derde lid, 4:9, derde lid, 4:10, derde lid, 4:11, derde en vierde lid, 4:14, tweede lid, 4:15, tweede lid, aanhef en onderdeel a en onderdeel b, onder 2°, 4:16, tweede en derde lid, 4:17, derde lid, 4:20, eerste lid, tweede lid, derde lid, aanhef en onderdeel b, vierde lid, en vijfde lid, 4:22, eerste lid, 4:25, eerste lid, 4:26, derde lid, 4:27, vierde lid, 4:30a, derde lid, 4:32, tweede lid, 4:33, derde en vierde lid, 4:34, derde lid, 4:43, tweede lid, 4:48, tweede lid, 4:49, tweede lid, aanhef en onderdeel e, 4:51, vierde lid, 4:52, derde lid, 4:56, eerste lid, 4:61, 4:71, vierde lid, 4:72, derde lid, aanhef en onderdeel a, 4:73, derde lid, aanhef en onderdelen a en c, 4:74, tweede lid, 4:75, tweede lid, 4:76, tweede lid, 4:78, eerste lid, 4:85, derde lid, 4:86, 4:87, derde lid, 4:88, derde lid, en 4:89, tweede lid, van de Wet op het financieel toezicht;
 
 De Raad van State gehoord (advies van 20 september 2006, nr. W06.06.0334/IV);
 
@@ -42,17 +42,17 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluit
 
 5°. beleggingsobject;  
 
-6°. spaarrekening eigen woning als bedoeld in [artikel 3.116a, tweede lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+6°. spaarrekening eigen woning als bedoeld in artikel 3.116a, tweede lid, van de Wet inkomstenbelasting 2001;  
 
-7°. beleggingsrecht eigen woning als bedoeld in [artikel 3.116a, derde lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+7°. beleggingsrecht eigen woning als bedoeld in artikel 3.116a, derde lid, van de Wet inkomstenbelasting 2001;  
 
-8°. lijfrentespaarrekening als bedoeld in [artikel 3.126a, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+8°. lijfrentespaarrekening als bedoeld in artikel 3.126a, eerste lid, van de Wet inkomstenbelasting 2001;  
 
-9°. lijfrentebeleggingsrecht als bedoeld in [artikel 3.126a, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md); 
+9°. lijfrentebeleggingsrecht als bedoeld in artikel 3.126a, eerste lid, van de Wet inkomstenbelasting 2001; 
 
-10°. ander financieel product dat bij ministeriële regeling kan worden aangewezen indien dit ten behoeve van de vergelijkbaarheid van de onder 2° tot en met 9° bedoelde complexe producten met dit financiële product in verband met de belangen die het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beoogt te beschermen wenselijk is; of  
+10°. ander financieel product dat bij ministeriële regeling kan worden aangewezen indien dit ten behoeve van de vergelijkbaarheid van de onder 2° tot en met 9° bedoelde complexe producten met dit financiële product in verband met de belangen die het Deel Gedragstoezicht financiële ondernemingen van de wet beoogt te beschermen wenselijk is; of  
 
-11°. combinatie van een of meer onder 2° tot en met 10° bedoelde complexe producten met een of meer financiële producten;  *consumptief krediet*: krediet, niet zijnde hypothecair krediet; *debetrentevoet:* verschuldigde rente voor een krediet, uitgedrukt op jaarbasis en toegepast in een vast of variabel percentage; *dekkingspercentage:* een door de aanbieder van krediet vastgesteld percentage van de waarde van de in onderpand gegeven financiële instrumenten, bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of van de daartoe behorende afzonderlijke financiële instrumenten aan de hand waarvan de aanbieder van krediet de kredietlimiet bepaalt;*deposito:* tegoed bij een bank dat onmiddellijk kan worden opgevraagd en waarvan de rentetermijn ten hoogste twaalf maanden bedraagt; *distributiekosten:* kosten voor het completeren van het dossier ten behoeve van de aanvraag van de offerte, het ondersteunen van de consument of, indien het een verzekering betreft, de cliënt bij de aanvraag en bij het aangaan van een overeenkomst met betrekking tot een financieel product en de kosten voor het maken van reclame-uitingen voor de genoemde werkzaamheden en voor advies;*doorlopende provisie*: 
+11°. combinatie van een of meer onder 2° tot en met 10° bedoelde complexe producten met een of meer financiële producten;  *consumptief krediet*: krediet, niet zijnde hypothecair krediet; *debetrentevoet:* verschuldigde rente voor een krediet, uitgedrukt op jaarbasis en toegepast in een vast of variabel percentage; *dekkingspercentage:* een door de aanbieder van krediet vastgesteld percentage van de waarde van de in onderpand gegeven financiële instrumenten, bedoeld in artikel 1:1 van de wet, of van de daartoe behorende afzonderlijke financiële instrumenten aan de hand waarvan de aanbieder van krediet de kredietlimiet bepaalt;*deposito:* tegoed bij een bank dat onmiddellijk kan worden opgevraagd en waarvan de rentetermijn ten hoogste twaalf maanden bedraagt; *distributiekosten:* kosten voor het completeren van het dossier ten behoeve van de aanvraag van de offerte, het ondersteunen van de consument of, indien het een verzekering betreft, de cliënt bij de aanvraag en bij het aangaan van een overeenkomst met betrekking tot een financieel product en de kosten voor het maken van reclame-uitingen voor de genoemde werkzaamheden en voor advies;*doorlopende provisie*: 
 
 1°. beloning of vergoeding, in welke vorm dan ook, niet zijnde afsluitprovisie, die een aanbieder van een betalingsbeschermer, een complex product, een hypothecair krediet, een hypothecair krediet gecombineerd met een beleggingsrekening, een schadeverzekering of een uitvaartverzekering, na de totstandkoming van een overeenkomst tussen hem en een consument voor het bemiddelen of adviseren inzake die overeenkomst rechtstreeks of middellijk betaalt; of  
 
@@ -60,7 +60,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluit
 
 1°. geldkrediet waarbij de consument op verschillende tijdstippen geldsommen kan opnemen, voorzover het uitstaande saldo de kredietlimiet niet overschrijdt; of  
 
-2°. goederenkrediet waarbij de aanbieder of een derde gehouden is aan een consument op verschillende tijdstippen het genot van een roerende zaak, financieel instrument of beleggingsobject te verschaffen of een dienst te verlenen, voorzover het uitstaande saldo de kredietlimiet niet overschrijdt;   *effectenkrediet:* het aan een consument ter beschikking stellen van een doorlopend krediet tegen onderpand van financiële instrumenten als bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), waarmee de consument transacties kan verrichten in financiële instrumenten en de aanbieder van krediet betrokken is bij die transacties;*eindtermen*: normen met betrekking tot de vakbekwaamheid voor het verlenen van een bepaalde financiële dienst met betrekking tot een bepaald financieel product; *essentiële beleggersinformatie:* een kort document waarin informatie over de in artikel 66a, eerste lid, genoemde onderwerpen is weergegeven met betrekking tot rechten van deelneming in een beleggingsinstelling of icbe.*financieel analist*: een relevante persoon die tastbaar onderzoek op beleggingsgebied verricht; *financieel derivaat*: financieel instrument als bedoeld in [artikel 4:60, eerste lid, onderdeel d, e, f of g, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); *financiële bijsluiter:* een document waarin informatie over de in artikel 66, eerste lid, genoemde onderwerpen met betrekking tot een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe, is weergegeven;*geldmarktinstrument*: financieel instrument als bedoeld in onderdeel c van de definitie van financieel instrument in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);*gelieerde partij*: 
+2°. goederenkrediet waarbij de aanbieder of een derde gehouden is aan een consument op verschillende tijdstippen het genot van een roerende zaak, financieel instrument of beleggingsobject te verschaffen of een dienst te verlenen, voorzover het uitstaande saldo de kredietlimiet niet overschrijdt;   *effectenkrediet:* het aan een consument ter beschikking stellen van een doorlopend krediet tegen onderpand van financiële instrumenten als bedoeld in artikel 1:1 van de wet, waarmee de consument transacties kan verrichten in financiële instrumenten en de aanbieder van krediet betrokken is bij die transacties;*eindtermen*: normen met betrekking tot de vakbekwaamheid voor het verlenen van een bepaalde financiële dienst met betrekking tot een bepaald financieel product; *essentiële beleggersinformatie:* een kort document waarin informatie over de in artikel 66a, eerste lid, genoemde onderwerpen is weergegeven met betrekking tot rechten van deelneming in een beleggingsinstelling of icbe.*financieel analist*: een relevante persoon die tastbaar onderzoek op beleggingsgebied verricht; *financieel derivaat*: financieel instrument als bedoeld in artikel 4:60, eerste lid, onderdeel d, e, f of g, van de wet; *financiële bijsluiter:* een document waarin informatie over de in artikel 66, eerste lid, genoemde onderwerpen met betrekking tot een complex product, niet zijnde rechten van deelneming in een beleggingsinstelling of icbe, is weergegeven;*geldmarktinstrument*: financieel instrument als bedoeld in onderdeel c van de definitie van financieel instrument in artikel 1:1 van de wet;*gelieerde partij*: 
 
 1°. persoon die met een beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe of met een bestuurder van een beheerder van een icbe, maatschappij voor collectieve belegging in effecten of bewaarder van een icbe in een formele of feitelijke zeggenschapsstructuur is verbonden;  
 
@@ -92,7 +92,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder: *afsluit
 
 a.als onderzoek op beleggingsgebied wordt gepresenteerd of op enigerlei andere wijze wordt voorgesteld als een objectieve of onafhankelijke verklaring van de aangelegenheden die in de aanbeveling aan de orde komen; en
 
-b.indien het tot een cliënt zou zijn gericht, geen adviseren is;*op- en afslagen*: bedragen waarmee de door de deelnemers voor rechten van deelneming in een icbe betaalde of ontvangen prijs of terugbetaling worden verhoogd onderscheidenlijk verlaagd ten opzichte van de intrinsieke waarde van de rechten van deelneming; *pensioenverzekering:* levensverzekering die een werkgever afsluit ten behoeve van zijn werknemers, waaronder de directeur-grootaandeelhouder, bestaande uit een ouderdomspensioen of nabestaandenpensioen als bedoeld in [artikel 1 van de Pensioenwet](../../../../../../../wet/pensioenwet/BWBR0020809/README.md);*persoonlijke transactie*: een transactie in een financieel instrument door of in naam van een relevante persoon, waarbij:
+b.indien het tot een cliënt zou zijn gericht, geen adviseren is;*op- en afslagen*: bedragen waarmee de door de deelnemers voor rechten van deelneming in een icbe betaalde of ontvangen prijs of terugbetaling worden verhoogd onderscheidenlijk verlaagd ten opzichte van de intrinsieke waarde van de rechten van deelneming; *pensioenverzekering:* levensverzekering die een werkgever afsluit ten behoeve van zijn werknemers, waaronder de directeur-grootaandeelhouder, bestaande uit een ouderdomspensioen of nabestaandenpensioen als bedoeld in artikel 1 van de Pensioenwet;*persoonlijke transactie*: een transactie in een financieel instrument door of in naam van een relevante persoon, waarbij:
 
 1°.de betrokken relevante persoon handelt anders dan in de normale uitoefening van zijn beroep of bedrijf;
 
@@ -108,21 +108,21 @@ b.indien het tot een cliënt zou zijn gericht, geen adviseren is;*op- en afslage
 
 3°.een werknemer van de beleggingsonderneming of van een verbonden agent van de beleggingsonderneming of een andere natuurlijke persoon wiens diensten ter beschikking en onder zeggenschap staan van een beleggingsonderneming onderscheidenlijk de verbonden agent en die betrokken is bij het verrichten van beleggingsactiviteiten of het verlenen van beleggingsdiensten door de beleggingsonderneming; of
 
-4°.een natuurlijke persoon die uit hoofde van een overeenkomst tot uitbesteding met het oog op het verlenen of verrichten door de beleggingsonderneming van beleggingsdiensten of beleggingsactiviteiten rechtstreeks betrokken is bij het verrichten van diensten ten behoeve van de beleggingsonderneming of haar verbonden agent;*retourprovisie*: gedeelte van een door of ten laste van een icbe voor een dienst van een derde te betalen of betaalde vergoeding dat direct of indirect door de ontvanger wordt terugbetaald of doorbetaald; *richtlijn consumentenkrediet:* richtlijn nr. 2008/48/EG van het Europese Parlement en de Raad van de Europese Unie van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van Richtlijn 87/102/EEG van de Raad (PbEU L133); *richtlijn elektronisch geld:* richtlijn nr. 2009/110 van het Europees parlement en de Raad van de Europese Unie van 16 september 2009 betreffende de toegang tot, de uitoefening van en het prudentieel toezicht op de werkzaamheden van instellingen voor elektronisch geld, tot wijziging van de Richtlijnen 2005/60/EG en 2006/48/EG en tot intrekking van Richtlijn 2000/46/EG (Pb EU L 267);*risico-indicator*: weergave van het risiconiveau van een complex product;*serie van beleggingsobjecten*: verzameling van beleggingsobjecten waarvoor hetzelfde beleggingsobjectprospectus, bedoeld in [artikel 4:30a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt opgesteld;*termijnbedrag*: bedrag van de betaling die een consument aan het einde van een betalingstermijn moet hebben gedaan;*toetstermen*: criteria waaraan de vakbekwaamheid van een persoon wordt getoetst om te kunnen vaststellen of deze voldoet aan de eindtermen; *totale door de consument te betalen bedrag:* som van het totale kredietbedrag en de totale kosten van het krediet voor de consument; *totale kosten van het krediet voor de consument:* alle kosten inzake een consumptief krediet, met uitzondering van notariskosten, die de consument in verband met een krediet moet betalen en die de aanbieder bekend zijn, met inbegrip van rente, provisie, belastingen, vergoedingen van welke aard ook en kosten in verband met nevendiensten met betrekking tot het krediet, indien het sluiten van een overeenkomst met betrekking tot die diensten verplicht is om het krediet op de geadverteerde voorwaarden te verkrijgen, of de som van de door een consument te betalen termijnbedragen gedurende de looptijd van een overeenkomst inzake hypothecair krediet; *totale kredietbedrag:* de kredietlimiet of de kredietsom;*uitstaand saldo:*
+4°.een natuurlijke persoon die uit hoofde van een overeenkomst tot uitbesteding met het oog op het verlenen of verrichten door de beleggingsonderneming van beleggingsdiensten of beleggingsactiviteiten rechtstreeks betrokken is bij het verrichten van diensten ten behoeve van de beleggingsonderneming of haar verbonden agent;*retourprovisie*: gedeelte van een door of ten laste van een icbe voor een dienst van een derde te betalen of betaalde vergoeding dat direct of indirect door de ontvanger wordt terugbetaald of doorbetaald; *richtlijn consumentenkrediet:* richtlijn nr. 2008/48/EG van het Europese Parlement en de Raad van de Europese Unie van 23 april 2008 inzake kredietovereenkomsten voor consumenten en tot intrekking van Richtlijn 87/102/EEG van de Raad (PbEU L133); *richtlijn elektronisch geld:* richtlijn nr. 2009/110 van het Europees parlement en de Raad van de Europese Unie van 16 september 2009 betreffende de toegang tot, de uitoefening van en het prudentieel toezicht op de werkzaamheden van instellingen voor elektronisch geld, tot wijziging van de Richtlijnen 2005/60/EG en 2006/48/EG en tot intrekking van Richtlijn 2000/46/EG (Pb EU L 267);*risico-indicator*: weergave van het risiconiveau van een complex product;*serie van beleggingsobjecten*: verzameling van beleggingsobjecten waarvoor hetzelfde beleggingsobjectprospectus, bedoeld in artikel 4:30a, van de wet wordt opgesteld;*termijnbedrag*: bedrag van de betaling die een consument aan het einde van een betalingstermijn moet hebben gedaan;*toetstermen*: criteria waaraan de vakbekwaamheid van een persoon wordt getoetst om te kunnen vaststellen of deze voldoet aan de eindtermen; *totale door de consument te betalen bedrag:* som van het totale kredietbedrag en de totale kosten van het krediet voor de consument; *totale kosten van het krediet voor de consument:* alle kosten inzake een consumptief krediet, met uitzondering van notariskosten, die de consument in verband met een krediet moet betalen en die de aanbieder bekend zijn, met inbegrip van rente, provisie, belastingen, vergoedingen van welke aard ook en kosten in verband met nevendiensten met betrekking tot het krediet, indien het sluiten van een overeenkomst met betrekking tot die diensten verplicht is om het krediet op de geadverteerde voorwaarden te verkrijgen, of de som van de door een consument te betalen termijnbedragen gedurende de looptijd van een overeenkomst inzake hypothecair krediet; *totale kredietbedrag:* de kredietlimiet of de kredietsom;*uitstaand saldo:*
 
 1°. indien het geldkrediet betreft: op enig tijdstip bestaand totaal van de tot en met dat tijdstip door de consument opgenomen geldsommen, vermeerderd met de tot en met dat tijdstip aan de consument in rekening gebrachte kredietvergoeding en verminderd met de tot en met dat tijdstip door de consument gedane betalingen;  
 
-2°. indien het goederenkrediet betreft: op enig tijdstip bestaand totaal van de contante waarde van de roerende zaken, financiële instrumenten, beleggingsobjecten of diensten waarvan tot en met dat tijdstip aan de consument het genot is verschaft, of welke tot en met dat tijdstip aan de consument zijn verleend, vermeerderd met het totaalbedrag van de tot en met dat tijdstip aan de consument in rekening gebrachte kredietvergoeding en verminderd met de tot en met dat tijdstip door de consument gedane betalingen;  *uitvaartverzekering:* levensverzekering die uitsluitend strekt tot het doen van geldelijke uitkeringen in verband met de verzorging van de uitvaart van een natuurlijke persoon of een natura-uitvaartverzekering;*wet*: [Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  *woning:* een gebouw of een afzonderlijk gedeelte daarvan en de bij dat gebouw behorende grond, een duurzaam aan een plaats gebonden woonschip of een woonwagen als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Huisvestingwet](../../../../../../../wet/huisvestingswet/BWBR0005674/README.md) en de daarbij behorende standplaats als bedoeld in artikel 1, eerste lid, onderdeel e, van de Huisvestingswet.
+2°. indien het goederenkrediet betreft: op enig tijdstip bestaand totaal van de contante waarde van de roerende zaken, financiële instrumenten, beleggingsobjecten of diensten waarvan tot en met dat tijdstip aan de consument het genot is verschaft, of welke tot en met dat tijdstip aan de consument zijn verleend, vermeerderd met het totaalbedrag van de tot en met dat tijdstip aan de consument in rekening gebrachte kredietvergoeding en verminderd met de tot en met dat tijdstip door de consument gedane betalingen;  *uitvaartverzekering:* levensverzekering die uitsluitend strekt tot het doen van geldelijke uitkeringen in verband met de verzorging van de uitvaart van een natuurlijke persoon of een natura-uitvaartverzekering;*wet*: Wet op het financieel toezicht;  *woning:* een gebouw of een afzonderlijk gedeelte daarvan en de bij dat gebouw behorende grond, een duurzaam aan een plaats gebonden woonschip of een woonwagen als bedoeld in artikel 1, eerste lid, onderdeel f, van de Huisvestingwet en de daarbij behorende standplaats als bedoeld in artikel 1, eerste lid, onderdeel e, van de Huisvestingswet.
 
 ### §  1.2  
 
 ####Bijzondere bepalingen
 
-Bepalingen ter uitvoering van de [artikelen 1:20, eerste lid, onderdeel f](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:3, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:5, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van de artikelen 1:20, eerste lid, onderdeel f, 4:3, vierde lid, en 4:5, derde lid, van de wet 
 
 ### Artikel  1a  
 
-[Artikel 1:20, eerste lid, onderdeel f, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van toepassing indien: 
+Artikel 1:20, eerste lid, onderdeel f, van de wet is van toepassing indien: 
 
 a. een financiëledienstverlener die adviseert een krediet verleent voor de betaling van de advieskosten en distributiekosten gericht op het tot stand brengen van een overeenkomst inzake een financieel product als bedoeld in artikel 86c waarbij de consument of, indien het een verzekering betreft, de cliënt is gehouden binnen twee jaar af te lossen;  
 
@@ -130,8 +130,8 @@ b. een financiëledienstverlener, voor zover hij niet adviseert, een krediet ver
 
 ### Artikel  2  
 
-1.  Het beleid van een houder van een ontheffing als bedoeld in [artikel 4:3, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt bepaald of mede bepaald door personen wier betrouwbaarheid buiten twijfel staat. Indien binnen de houder van een ontheffing een orgaan is belast met het toezicht op het beleid en de algemene gang van zaken van de houder van een ontheffing wordt dit toezicht gehouden door personen wier betrouwbaarheid buiten twijfel staat.   
-2.  De aanvrager van een ontheffing als bedoeld in [artikel 4:3, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) toont aan dat zal worden voldaan aan het eerste lid en legt ten aanzien van de betrokken personen de volgende gegevens over: 
+1.  Het beleid van een houder van een ontheffing als bedoeld in artikel 4:3, vierde lid, van de wet wordt bepaald of mede bepaald door personen wier betrouwbaarheid buiten twijfel staat. Indien binnen de houder van een ontheffing een orgaan is belast met het toezicht op het beleid en de algemene gang van zaken van de houder van een ontheffing wordt dit toezicht gehouden door personen wier betrouwbaarheid buiten twijfel staat.   
+2.  De aanvrager van een ontheffing als bedoeld in artikel 4:3, vierde lid, van de wet toont aan dat zal worden voldaan aan het eerste lid en legt ten aanzien van de betrokken personen de volgende gegevens over: 
 
 a. een opgave van de naam, de geboortedatum, de geboorteplaats, nationaliteit, het privé-adres, het telefoon- en faxnummer en de functie;  
 
@@ -140,16 +140,16 @@ b. een kopie van een geldig identiteitsbewijs;
 c. gegevens met betrekking tot de antecedenten, bedoeld in artikel 13; en  
 
 d. een opgave van referenten.     
-3.  De betrouwbaarheid van een persoon als bedoeld in het eerste lid staat buiten twijfel wanneer dat eenmaal door een toezichthouder voor de toepassing van de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.   
+3.  De betrouwbaarheid van een persoon als bedoeld in het eerste lid staat buiten twijfel wanneer dat eenmaal door een toezichthouder voor de toepassing van de wet is vastgesteld, zolang niet een wijziging in de relevante feiten of omstandigheden een redelijke aanleiding geeft tot een nieuwe beoordeling.   
 4.  Op de vaststelling van de betrouwbaarheid van de personen, bedoeld in het eerste lid, zijn de artikelen 12 tot en met 16 van overeenkomstige toepassing.  
 
 ### Artikel  3  
 
-1.  De houder van een ontheffing als bedoeld in [artikel 4:3, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md): 
+1.  De houder van een ontheffing als bedoeld in artikel 4:3, vierde lid, van de wet: 
 
 a. informeert, alvorens een overeenkomst aan te gaan terzake van het als tussenpersoon verrichten van werkzaamheden ten behoeve van het buiten besloten kring aantrekken of ter beschikking verkrijgen van opvorderbare gelden van anderen dan professionele marktpartijen zijn wederpartij duidelijk en volledig over diens rechten en plichten met betrekking tot de overeenkomst;  
 
-b. meldt aan de Autoriteit Financiële Markten iedere wijzing in de gegevens die eerder door hemzelf of door een financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gestelde eisen met betrekking tot de betrouwbaarheid van de personen, bedoeld in artikel 2, eerste lid. De houder meldt de wijziging schriftelijk en onverwijld nadat hij daarvan in het kader van de normale bedrijfsvoering kennis heeft genomen; en  
+b. meldt aan de Autoriteit Financiële Markten iedere wijzing in de gegevens die eerder door hemzelf of door een financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de wet gestelde eisen met betrekking tot de betrouwbaarheid van de personen, bedoeld in artikel 2, eerste lid. De houder meldt de wijziging schriftelijk en onverwijld nadat hij daarvan in het kader van de normale bedrijfsvoering kennis heeft genomen; en  
 
 c. meldt aan de Autoriteit Financiële Markten schriftelijk het voornemen tot wijziging van de personen, bedoeld in artikel 2, eerste lid.     
 2.  De houder van een ontheffing geeft geen uitvoering aan het voornemen, bedoeld in het eerste lid, onderdeel c, voordat de Autoriteit Financiële Markten heeft vastgesteld dat de betrouwbaarheid van de betrokken persoon buiten twijfel staat. De Autoriteit Financiële Markten neemt een besluit omtrent de betrouwbaarheid: 
@@ -167,11 +167,11 @@ b. een kopie van een geldig identiteitsbewijs;
 c. gegevens met betrekking tot de antecedenten, bedoeld in artikel 13; en  
 
 d. een opgave van referenten.     
-5.  Het tweede en vierde lid, onderdelen b, c en d, zijn niet van toepassing indien de wijziging een persoon betreft wiens betrouwbaarheid voor de toepassing van de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) door een toezichthouder reeds is vastgesteld.  
+5.  Het tweede en vierde lid, onderdelen b, c en d, zijn niet van toepassing indien de wijziging een persoon betreft wiens betrouwbaarheid voor de toepassing van de wet door een toezichthouder reeds is vastgesteld.  
 
 ### Artikel  4  
 
-De rechtspersoon, bedoeld in [artikel 4:5, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verstrekt bij de in dat lid bedoelde melding aan de Autoriteit Financiële Markten de volgende gegevens over de betrokken onderneming: 
+De rechtspersoon, bedoeld in artikel 4:5, tweede lid, van de wet verstrekt bij de in dat lid bedoelde melding aan de Autoriteit Financiële Markten de volgende gegevens over de betrokken onderneming: 
 
 a. een opgave van de naam en het adres;  
 
@@ -189,7 +189,7 @@ d. indien de onderneming is ingeschreven in het handelsregister: een opgave van 
 
 ####Bewijzen van vakbekwaamheid
 
-Bepalingen ter uitvoering van [artikel 4:9, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:9, derde lid, van de wet 
 
 ### Artikel  5  
 
@@ -197,19 +197,19 @@ In deze paragraaf wordt verstaan onder:
 
 *inkomensverzekering:* schadeverzekering ter dekking van het risico van financiële schade ten gevolge van arbeidsongeschiktheid of werkloosheid;  
 
-*pensioen:* pensioenverzekering en premiepensioenvordering als bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+*pensioen:* pensioenverzekering en premiepensioenvordering als bedoeld in artikel 1:1 van de wet;  
 
 *schadeverzekering particulier:* schadeverzekering, niet zijnde een inkomensverzekering of een schadeverzekering zakelijk;  
 
 *schadeverzekering zakelijk:* schadeverzekering ten behoeve van een cliënt handelend in de uitoefening van zijn beroep of bedrijf, met uitzondering van een inkomensverzekering;  
 
-*vermogen:* levensverzekeringen, niet zijnde pensioenverzekeringen, en lijfrentespaarrekeningen als bedoeld in [artikel 3.126a, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), spaarrekeningen eigen woning als bedoeld in [artikel 3.116a, tweede lid, van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), rechten van deelneming in beleggingsinstellingen voor zover vrijgesteld op grond van [artikel 2:104, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en beleggingsobjecten;  
+*vermogen:* levensverzekeringen, niet zijnde pensioenverzekeringen, en lijfrentespaarrekeningen als bedoeld in artikel 3.126a, eerste lid, van de Wet inkomstenbelasting 2001, spaarrekeningen eigen woning als bedoeld in artikel 3.116a, tweede lid, van de Wet inkomstenbelasting 2001, rechten van deelneming in beleggingsinstellingen voor zover vrijgesteld op grond van artikel 2:104, eerste lid, van de wet en beleggingsobjecten;  
 
-*zorgverzekering:* een schadeverzekering ten behoeve van een verzekeringsplichtige als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en een aanvullende ziektekostenverzekering.   
+*zorgverzekering:* een schadeverzekering ten behoeve van een verzekeringsplichtige als bedoeld in artikel 1, onderdeel d, van de Zorgverzekeringswet en een aanvullende ziektekostenverzekering.   
 
 ### Artikel  6  
 
-1. Een financiëledienstverlener voldoet aan [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), indien: 
+1. Een financiëledienstverlener voldoet aan artikel 4:9, tweede lid, van de wet, indien: 
 
 a. hij zijn bedrijfsvoering zodanig heeft ingericht dat een vakbekwame financiële dienstverlening aan consumenten of, indien het verzekeringen betreft, cliënten voldoende is gewaarborgd;  
 
@@ -217,7 +217,7 @@ b. de werknemers en andere natuurlijke personen die zich onder zijn verantwoorde
 
 1°. een geldig, op grond van die artikelen vereist diploma, afgegeven door een door Onze Minister erkend exameninstituut als bedoeld in artikel 11a; dan wel  
 
-2°. een geldige erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md); en    
+2°. een geldige erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties; en    
 
 c. de personen, bedoeld in onderdeel b, voldoen aan de in artikel 11 gestelde eisen.    
 2.  Het eerste lid, onderdelen b en c, is niet van toepassing op de gevolmachtigde of ondergevolmachtigde agent. 
@@ -269,7 +269,7 @@ Personen die over een in tabel 3 genoemd diploma beschikken, zijn tevens vakbekw
 
 ####Exameninstituten
 
-Bepalingen ter uitvoering van [artikel 4:9, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:9, derde lid, van de wet 
 
 ### Artikel  11a  
 
@@ -333,7 +333,7 @@ h. de interne klachtenprocedure.
 
 ####Centrale examenbank
 
-Bepalingen ter uitvoering van [artikel 4:9, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:9, derde lid, van de wet 
 
 ### Artikel  11e  
 
@@ -345,16 +345,16 @@ Bepalingen ter uitvoering van [artikel 4:9, derde lid, van de wet](../../../../.
 
 ####Informatiesysteem inzake beroepskwalificaties
 
-Bepalingen ter uitvoering van het [artikel 4:9a, vijfde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van het artikel 4:9a, vijfde lid, van de wet 
 
 ### Artikel  11f  
 
-1.  Het informatiesysteem inzake beroepskwalificaties, bedoeld in [artikel 4:9a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bevat persoonsgegevens van: 
+1.  Het informatiesysteem inzake beroepskwalificaties, bedoeld in artikel 4:9a, eerste lid, van de wet bevat persoonsgegevens van: 
 
 a. kandidaten die beschikken over een diploma als bedoeld in artikel 6, eerste lid, onderdeel b, onder 1°, of een erkenning als bedoeld in artikel 6, eerste lid, onderdeel b, onder 2°;  
 
 b. kandidaten die deelnemen aan een examen als bedoeld in artikel 9, tweede lid, of 11, eerste of vierde lid.     
-2.  Ten aanzien van de in het eerste lid, onderdelen a en b, bedoelde personen worden, naast het in [artikel 4:9a, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), genoemde burgerservicenummer, of bij het ontbreken daarvan aan de kandidaat toegekend nummer, de volgende gegevens opgenomen: 
+2.  Ten aanzien van de in het eerste lid, onderdelen a en b, bedoelde personen worden, naast het in artikel 4:9a, derde lid, van de wet, genoemde burgerservicenummer, of bij het ontbreken daarvan aan de kandidaat toegekend nummer, de volgende gegevens opgenomen: 
 
 a. geslachtsnaam, voornamen en voorletters;  
 
@@ -381,7 +381,7 @@ k. de naam van het exameninstituut, waar het examen is afgelegd.
 ### Artikel  11g  
 
 1.  Een erkend exameninstituut verstrekt aan de beheerder van het informatiesysteem inzake beroepskwalificaties uit eigen beweging of op verzoek alle gegevens als bedoeld in artikel 11f, tweede lid, die noodzakelijk zijn voor het bijhouden dan wel schonen van de gegevens in het informatiesysteem.   
-2.  Persoonsgegevens die zijn opgenomen in het informatiesysteem inzake beroepskwalificaties worden slechts ter beschikking gesteld aan erkende exameninstituten en aan Onze Minister. De gegevens worden niet gebruikt voor een ander doel dan de uitvoering van de krachtens [artikel 4:9, derde en vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), gestelde regels.  
+2.  Persoonsgegevens die zijn opgenomen in het informatiesysteem inzake beroepskwalificaties worden slechts ter beschikking gesteld aan erkende exameninstituten en aan Onze Minister. De gegevens worden niet gebruikt voor een ander doel dan de uitvoering van de krachtens artikel 4:9, derde en vierde lid, gestelde regels.  
 
 ### Artikel  11h  
 
@@ -394,7 +394,7 @@ b. indien de betrokken persoon is overleden.
 
 ### Artikel  11i  
 
-1.  Met betrekking tot het informatiesysteem inzake beroepskwalificaties is Onze Minister de verantwoordelijke in de zin van de [Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+1.  Met betrekking tot het informatiesysteem inzake beroepskwalificaties is Onze Minister de verantwoordelijke in de zin van de Wet bescherming persoonsgegevens.   
 2.  Het eerste lid is van overeenkomstige toepassing op de tijdelijke gegevensverwerking in de centrale examenbank ten behoeve van het afnemen van examens.  
 
 ### Artikel  11j  
@@ -405,18 +405,18 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking to
 
 ####Doorberekening kosten
 
-Bepalingen ter uitvoering van [artikel 4:9, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:9, vierde lid, van de wet 
 
 ### Artikel  11k  
 
-1.  Onze Minister brengt de kosten die verband houden met de uitvoering van de krachtens [artikel 4:9, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), gestelde regels in rekening bij exameninstituten als bedoeld in artikel 4:9, derde lid, van de wet.   
+1.  Onze Minister brengt de kosten die verband houden met de uitvoering van de krachtens artikel 4:9, derde lid, van de wet, gestelde regels in rekening bij exameninstituten als bedoeld in artikel 4:9, derde lid, van de wet.   
 2.  De kosten, bedoeld in het eerste lid, zijn: 
 
 a. kosten die verband houden met de ontwikkeling en het beheer van de centrale examenbank;  
 
 b. kosten die verband houden met de ontwikkeling en het beheer van de examenvragen;  
 
-c. kosten die verband houden met de ontwikkeling en het beheer van het informatiesysteem, bedoeld in [artikel 4:9a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+c. kosten die verband houden met de ontwikkeling en het beheer van het informatiesysteem, bedoeld in artikel 4:9a, eerste lid, van de wet;  
 
 d. kosten die verband houden met de ontwikkeling en het beheer van de eindtermen en toetstermen, bedoeld in artikel 9, vijfde lid, en artikel 11, vijfde en zesde lid;  
 
@@ -428,11 +428,11 @@ e. kosten die verband houden met de controle op een ordelijk verloop van de afna
 
 ####Betrouwbaarheid
 
-Bepalingen ter uitvoering van [artikel 4:10, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:10, derde lid, van de wet 
 
 ### Artikel  12  
 
-De Autoriteit Financiële Markten stelt vast of de betrouwbaarheid van een persoon als bedoeld in [artikel 4:10, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) buiten twijfel staat op basis van diens voornemens, handelingen en antecedenten. 
+De Autoriteit Financiële Markten stelt vast of de betrouwbaarheid van een persoon als bedoeld in artikel 4:10, eerste lid, van de wet buiten twijfel staat op basis van diens voornemens, handelingen en antecedenten. 
 
 ### Artikel  13  
 
@@ -456,7 +456,7 @@ a. door betrokkene verstrekte gegevens en inlichtingen;
 
 b. door de Landelijke Officier van Justitie verstrekte politiegegevens;  
 
-c. gegevens uit de registratie, bedoeld in [artikel 1, onderdeel b, van de Wet controle op rechtspersonen](../../../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md);  
+c. gegevens uit de registratie, bedoeld in artikel 1, onderdeel b, van de Wet controle op rechtspersonen;  
 
 d. gegevens en inlichtingen, verkregen van de Belastingdienst;  
 
@@ -489,7 +489,7 @@ a. deze onherroepelijk veroordeeld is terzake van een misdrijf, genoemd in onder
 
 b. deze veroordeeld is terzake van een misdrijf, genoemd in onderdeel 1 van bijlage C, waarbij de uitspraak nog niet onherroepelijk is of waarbij sinds het onherroepelijk worden van de uitspraak acht of meer jaren zijn verstreken;  
 
-c. deze veroordeeld is terzake van een overtreding van [artikel 69 van de Algemene wet inzake de rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) of [artikel 65 van de Invorderingswet 1990](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), waarbij betrokkene veroordeeld is tot een gevangenisstraf of boete; of  
+c. deze veroordeeld is terzake van een overtreding van artikel 69 van de Algemene wet inzake de rijksbelastingen of artikel 65 van de Invorderingswet 1990, waarbij betrokkene veroordeeld is tot een gevangenisstraf of boete; of  
 
 d. deze een vergrijpboete van meer dan € 62.500 opgelegd heeft gekregen terzake van een feit, genoemd in onderdeel 5 van bijlage C, en het besluit waarbij de vergrijpboete is opgelegd onherroepelijk is geworden of waarbij ten minste de rechter in eerste aanleg uitspraak heeft gedaan.     
 2.  De Autoriteit Financiële Markten kan op grond van de omstandigheden of belangen, genoemd in artikel 16, afwijken van het eerste lid, ten aanzien van de onderdelen b, c en d.  
@@ -512,12 +512,12 @@ c. de overige belangen van de beheerder, beleggingsmaatschappij, beleggingsonder
 
 ####Beleggingsinstellingen, icbe’s, hun beheerders, hun bewaarders, en pensioenbewaarders
 
-Bepalingen ter uitvoering van de [artikelen 4:11, derde en vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:14, tweede lid, aanhef en onderdeel b, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van de artikelen 4:11, derde en vierde lid, en 4:14, tweede lid, aanhef en onderdeel b, van de wet 
 
 ### Artikel  17  
 
-1.  Een beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder als bedoeld in [artikel 4:11, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) draagt zorg voor een systematische analyse van integriteitrisico´s.   
-2.  De beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder draagt er zorg voor dat het beleid, bedoeld in [artikel 4:11, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zijn neerslag vindt in procedures en maatregelen.   
+1.  Een beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder als bedoeld in artikel 4:11, eerste lid, van de wet draagt zorg voor een systematische analyse van integriteitrisico´s.   
+2.  De beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder draagt er zorg voor dat het beleid, bedoeld in artikel 4:11, eerste lid, van de wet, zijn neerslag vindt in procedures en maatregelen.   
 3.  De beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder stelt alle relevante bedrijfsonderdelen in kennis van het beleid en de procedures en maatregelen.   
 4.  De beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder draagt zorg voor de uitvoering en de systematische toetsing van het beleid en de procedures en maatregelen.   
 5.  De beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder draagt zorg voor onafhankelijk toezicht op de uitvoering van het beleid en de procedures en maatregelen.   
@@ -525,23 +525,23 @@ Bepalingen ter uitvoering van de [artikelen 4:11, derde en vierde lid](../../../
 
 ### Artikel  18  
 
-Een beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen met betrekking tot het tegengaan van verstrengeling van de privé-belangen van personen die het beleid van de financiële onderneming bepalen, personen die onderdeel zijn van een orgaan dat is belast met toezicht op het beleid en de algemene gang van zaken van de financiële onderneming, andere werknemers, of andere personen die in opdracht van de betrokken onderneming op structurele basis werkzaamheden voor haar verrichten met haar belangen of die van haar deelnemers. 
+Een beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder als bedoeld in artikel 4:14, eerste lid, van de wet beschikt over procedures en maatregelen met betrekking tot het tegengaan van verstrengeling van de privé-belangen van personen die het beleid van de financiële onderneming bepalen, personen die onderdeel zijn van een orgaan dat is belast met toezicht op het beleid en de algemene gang van zaken van de financiële onderneming, andere werknemers, of andere personen die in opdracht van de betrokken onderneming op structurele basis werkzaamheden voor haar verrichten met haar belangen of die van haar deelnemers. 
 
 ### Artikel  19  
 
-1.  Een beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen met betrekking tot de omgang met en vastlegging van incidenten.   
+1.  Een beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder als bedoeld in artikel 4:14, eerste lid, van de wet beschikt over procedures en maatregelen met betrekking tot de omgang met en vastlegging van incidenten.   
 2.  De beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder neemt naar aanleiding van een incident maatregelen die zijn gericht op het beheersen van de opgetreden risico’s en het voorkomen van herhaling.   
 3.  De beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder informeert de Autoriteit Financiële Markten onverwijld omtrent incidenten.  
 
 ### Artikel  20  
 
-1.  Een beheerder van een icbe, bewaarder van een icbe, maatschappij voor collectieve belegging in effecten of pensioenbewaarder als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) maakt een onderbouwde beoordeling van de betrouwbaarheid van personen die hij onderscheidenlijk zij wil benoemen in een integriteitgevoelige functie.   
+1.  Een beheerder van een icbe, bewaarder van een icbe, maatschappij voor collectieve belegging in effecten of pensioenbewaarder als bedoeld in artikel 4:14, eerste lid, van de wet maakt een onderbouwde beoordeling van de betrouwbaarheid van personen die hij onderscheidenlijk zij wil benoemen in een integriteitgevoelige functie.   
 2.  De beheerder van een icbe, bewaarder van een icbe, maatschappij voor collectieve belegging in effecten of pensioenbewaarder draagt zorg voor de beoordeling van de betrouwbaarheid van degenen die, anders dan op grond van een arbeidsovereenkomst, werkzaamheden in een integriteitgevoelige functie verrichten.  
 
 ### Artikel  21  
 
-1.  Een beleggingsinstelling of icbe als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt ter bescherming van de integriteit van het bedrijf over procedures en maatregelen met betrekking tot de acceptatie van deelnemers.   
-2.  Onverminderd het bepaalde ingevolge de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) beschikt de beleggingsinstelling of icbe over procedures en maatregelen met betrekking tot de identificatie van deelnemers en de verificatie daarvan. De beleggingsinstelling of icbe accepteert een deelnemer niet indien zij de identiteit niet heeft vastgesteld overeenkomstig het daarvoor opgestelde beleid.   
+1.  Een beleggingsinstelling of icbe als bedoeld in artikel 4:14, eerste lid, van de wet beschikt ter bescherming van de integriteit van het bedrijf over procedures en maatregelen met betrekking tot de acceptatie van deelnemers.   
+2.  Onverminderd het bepaalde ingevolge de Wet ter voorkoming van witwassen en financieren van terrorisme beschikt de beleggingsinstelling of icbe over procedures en maatregelen met betrekking tot de identificatie van deelnemers en de verificatie daarvan. De beleggingsinstelling of icbe accepteert een deelnemer niet indien zij de identiteit niet heeft vastgesteld overeenkomstig het daarvoor opgestelde beleid.   
 3.  De beleggingsinstelling of icbe beschikt ter bescherming van de integriteit van het bedrijf over organisatorische en administratieve procedures en maatregelen die betrekking hebben op risicoclassificaties ten aanzien van cliënten, producten of diensten.   
 4.  De beleggingsinstelling of icbe beschikt over procedures en maatregelen met betrekking tot de analyse van gegevens van deelnemers, mede in relatie tot de door de deelnemer afgenomen producten, en de detectie van afwijkende transactiepatronen. Aan de hand van deze procedures en maatregelen bepaalt de beleggingsinstelling of icbe tevens de risico’s van bepaalde cliënten, producten of diensten voor de integere uitoefening van haar bedrijf.   
 5.  De beleggingsinstelling of icbe draagt zorg voor de documentatie en vastlegging met betrekking tot de acceptatie en indeling naar risico van cliënten, de identificatie en verificatie van de gegevens van cliënten en de bewaking van transacties van cliënten. Dergelijke gegevens worden tot vijf jaar na de dienstverlening of het beëindigen van de relatie bewaard.   
@@ -549,58 +549,58 @@ Een beheerder van een icbe, bewaarder van een icbe, icbe of pensioenbewaarder al
 
 ### Artikel  22  
 
-1.  Een beleggingsinstelling of icbe als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) onderzoekt, op verzoek van de Autoriteit Financiële Markten, of in haar administratie bepaalde personen of instellingen voorkomen die naar het oordeel van Onze Minister, in verband met vermoede terroristische activiteiten of daarmee verband houdende activiteiten, de integriteit van de financiële sector kunnen schaden.   
+1.  Een beleggingsinstelling of icbe als bedoeld in artikel 4:14, eerste lid, van de wet onderzoekt, op verzoek van de Autoriteit Financiële Markten, of in haar administratie bepaalde personen of instellingen voorkomen die naar het oordeel van Onze Minister, in verband met vermoede terroristische activiteiten of daarmee verband houdende activiteiten, de integriteit van de financiële sector kunnen schaden.   
 2.  De beleggingsinstelling of icbe verstrekt de uitkomst van het in het eerste lid bedoelde onderzoek, binnen een door de Autoriteit Financiële Markten vast te stellen termijn, aan de Autoriteit Financiële Markten.  
 
 ### §  4.2  
 
 ####Beleggingsondernemingen
 
-Bepalingen ter uitvoering van de [artikelen 4:11, derde en vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:14, tweede lid, aanhef en onderdeel b, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van de artikelen 4:11, derde en vierde lid, en 4:14, tweede lid, aanhef en onderdeel b, van de wet 
 
 ### Artikel  23  
 
-1. Een beleggingsonderneming draagt er, met het oog op de integere uitoefening van haar bedrijf, zorg voor dat het beleid, bedoeld in [artikel 4:11, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zijn neerslag vindt in procedures en maatregelen.  
+1. Een beleggingsonderneming draagt er, met het oog op de integere uitoefening van haar bedrijf, zorg voor dat het beleid, bedoeld in artikel 4:11, eerste lid, van de wet, zijn neerslag vindt in procedures en maatregelen.  
 2. De beleggingsonderneming draagt zorg voor onafhankelijk toezicht op de uitvoering van het beleid en de procedures en maatregelen, bedoeld in het eerste lid, en beschikt over procedures die erin voorzien dat gesignaleerde tekortkomingen of gebreken worden gerapporteerd aan de personen die belast zijn met de taak, bedoeld in artikel 31c. 
 3. De beleggingsonderneming beschikt over procedures die erin voorzien dat gesignaleerde tekortkomingen of gebreken met betrekking tot de integere uitoefening van het bedrijf onder toezicht van de personen die zijn belast met de taak, bedoeld in artikel 31c, tot een gepaste bijstelling leiden.
 
 ### Artikel  24  
 
-1.  Een beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen met betrekking tot de behandeling en administratieve vastlegging van incidenten.   
+1.  Een beleggingsonderneming als bedoeld in artikel 4:14, eerste lid, van de wet beschikt over procedures en maatregelen met betrekking tot de behandeling en administratieve vastlegging van incidenten.   
 2.  De beleggingsonderneming neemt naar aanleiding van een incident maatregelen die zijn gericht op het beheersen van de opgetreden risico’s en het voorkomen van herhaling.   
 3.  De beleggingsonderneming informeert de Autoriteit Financiële Markten onverwijld omtrent incidenten.  
 
 ### Artikel  25  
 
-1.  Een beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) maakt een onderbouwde beoordeling van de betrouwbaarheid van een personeelslid dat zij wil benoemen in een integriteitgevoelige functie.   
+1.  Een beleggingsonderneming als bedoeld in artikel 4:14, eerste lid, van de wet maakt een onderbouwde beoordeling van de betrouwbaarheid van een personeelslid dat zij wil benoemen in een integriteitgevoelige functie.   
 2.  De beleggingsonderneming draagt zorg voor de beoordeling van de betrouwbaarheid van degenen die, anders dan op grond van een arbeidsovereenkomst, werkzaamheden in een integriteitgevoelige functie verrichten  
 
 ### Artikel  26  
 
-1.  Een beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen met betrekking tot de acceptatie van cliënten. Deze procedures en maatregelen hebben betrekking op risicoclassificaties ten aanzien van cliënten, producten of diensten.   
-2.  Onverminderd het bepaalde ingevolge de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) beschikt de beleggingsonderneming over procedures en maatregelen met betrekking tot de identificatie van cliënten en de verificatie daarvan. De beleggingsonderneming accepteert een cliënt niet indien zij de identiteit niet heeft vastgesteld overeenkomstig het daarvoor opgestelde beleid.   
+1.  Een beleggingsonderneming als bedoeld in artikel 4:14, eerste lid, van de wet beschikt over procedures en maatregelen met betrekking tot de acceptatie van cliënten. Deze procedures en maatregelen hebben betrekking op risicoclassificaties ten aanzien van cliënten, producten of diensten.   
+2.  Onverminderd het bepaalde ingevolge de Wet ter voorkoming van witwassen en financieren van terrorisme beschikt de beleggingsonderneming over procedures en maatregelen met betrekking tot de identificatie van cliënten en de verificatie daarvan. De beleggingsonderneming accepteert een cliënt niet indien zij de identiteit niet heeft vastgesteld overeenkomstig het daarvoor opgestelde beleid.   
 3.  De beleggingsonderneming beschikt over procedures met betrekking tot de analyse van gegevens van cliënten, mede in relatie tot de door de cliënt afgenomen producten en diensten, en de detectie van afwijkende transactiepatronen. Aan de hand van deze procedures en maatregelen worden tevens de risico’s ten aanzien van bepaalde cliënten of producten bepaald.   
 4.  De beleggingsonderneming draagt zorg voor de documentatie en vastlegging met betrekking tot de acceptatie en indeling van cliënten naar risico en de bewaking van het handelen van cliënten. Dergelijke gegevens worden tot vijf jaar na de dienstverlening of het beëindigen van de relatie bewaard.  
 
 ### Artikel  27  
 
-1.  Een beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) onderzoekt, op verzoek van de Autoriteit Financiële Markten, of in haar administratie bepaalde personen of instellingen voorkomen die naar het oordeel van Onze Minister, in verband met vermoede terroristische activiteiten of daarmee verband houdende activiteiten, de integriteit van de financiële sector kunnen schaden.   
+1.  Een beleggingsonderneming als bedoeld in artikel 4:14, eerste lid, van de wet onderzoekt, op verzoek van de Autoriteit Financiële Markten, of in haar administratie bepaalde personen of instellingen voorkomen die naar het oordeel van Onze Minister, in verband met vermoede terroristische activiteiten of daarmee verband houdende activiteiten, de integriteit van de financiële sector kunnen schaden.   
 2.  De beleggingsonderneming verstrekt de uitkomst van het in het eerste lid bedoelde onderzoek aan de Autoriteit Financiële Markten, binnen een door deze vast te stellen termijn.  
 
 ### §  4.3  
 
 ####Financiëledienstverleners
 
-Bepalingen ter uitvoering van de [artikelen 4:11, tweede en derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:15, tweede lid, aanhef en onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van de artikelen 4:11, tweede en derde lid, en 4:15, tweede lid, aanhef en onderdeel a, van de wet 
 
 ### Artikel  28  
 
-1.  Een financiëledienstverlener als bedoeld in [artikel 4:11, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) draagt er zorg voor dat de betrouwbaarheid van de werknemers en andere natuurlijke personen die zich onder zijn verantwoordelijkheid rechtstreeks bezighouden met het verlenen van financiële diensten, buiten twijfel staat.   
-2.  Een persoon als bedoeld in het eerste lid is betrouwbaar, indien hij een verklaring omtrent het gedrag als bedoeld in de [Wet justitiële en strafvorderlijke gegevens](../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) over kan leggen, en hij niet failliet is verklaard, tenzij rehabilitatie als bedoeld in [artikel 212 van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md) heeft plaatsgevonden.  
+1.  Een financiëledienstverlener als bedoeld in artikel 4:11, tweede lid, van de wet draagt er zorg voor dat de betrouwbaarheid van de werknemers en andere natuurlijke personen die zich onder zijn verantwoordelijkheid rechtstreeks bezighouden met het verlenen van financiële diensten, buiten twijfel staat.   
+2.  Een persoon als bedoeld in het eerste lid is betrouwbaar, indien hij een verklaring omtrent het gedrag als bedoeld in de Wet justitiële en strafvorderlijke gegevens over kan leggen, en hij niet failliet is verklaard, tenzij rehabilitatie als bedoeld in artikel 212 van de Faillissementswet heeft plaatsgevonden.  
 
 ### Artikel  29  
 
-1.  Een financiëledienstverlener als bedoeld in [artikel 4:15, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) stelt procedures en maatregelen vast met betrekking tot de omgang met en vastlegging van incidenten.   
+1.  Een financiëledienstverlener als bedoeld in artikel 4:15, eerste lid, van de wet stelt procedures en maatregelen vast met betrekking tot de omgang met en vastlegging van incidenten.   
 2.  De financiëledienstverlener neemt naar aanleiding van een incident passende maatregelen. Deze maatregelen zijn gericht op het beheersen van de opgetreden risico’s en het voorkomen van herhaling.   
 3.  De financiëledienstverlener informeert de Autoriteit Financiële Markten onverwijld omtrent incidenten.  
 
@@ -612,7 +612,7 @@ Bepalingen ter uitvoering van de [artikelen 4:11, tweede en derde lid](../../../
 
 ####Algemene aspecten van de bedrijfsvoering
 
-Bepalingen ter uitvoering van [artikel 4:14, tweede lid, aanhef en onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van de artikelen 4:9b, tweede lid, en 4:14, tweede lid, aanhef en onderdeel a, van de wet 
 
 ### Artikel  29a  
 
@@ -620,7 +620,7 @@ De bedrijfsvoering van een Nederlandse beheerder van een beleggingsinstelling vo
 
 ### Artikel  30  
 
-1.  De bedrijfsvoering van een beheerder van een icbe, icbe, beleggingsonderneming, bewaarder van een icbe of pensioenbewaarder, bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voorziet in: 
+1.  De bedrijfsvoering van een beheerder van een icbe, icbe, beleggingsonderneming, bewaarder van een icbe of pensioenbewaarder, bedoeld in artikel 4:14, eerste lid, van de wet voorziet in: 
 
 a. duidelijke besluitvormingsprocedures en een duidelijke, evenwichtige en adequate organisatiestructuur;  
 
@@ -688,15 +688,28 @@ e. periodiek de deugdelijkheid van de interne procedures voor het nemen van bele
 f. periodiek het risicobeheerbeleid en de procedures en maatregelen voor de uitvoering van het risicobeheerbeleid goedkeuren en evalueren, met inbegrip van het risicolimietensysteem voor elke door de beheerder beheerde icbe.     
 2.  De beheerder zorgt ervoor dat ten minste jaarlijks wordt gerapporteerd aan de personen die het dagelijks beleid bepalen van de beheerder over de uitvoering van de beleggingsstrategieën en interne procedures voor het nemen van de beleggingsbeslissingen, bedoeld in het eerste lid, onderdelen b tot en met e.  
 
+### Artikel  31e  
+
+1.  Een beleggingsonderneming in de zin van de verordening kapitaalvereisten beschikt over interne regelingen en procedures die zijn gericht op een doeltreffend en prudent bestuur van de onderneming, dat voldoet aan de vereisten in artikel 88, eerste lid, van de richtlijn kapitaalvereisten.   
+2.  Een beleggingsonderneming in de zin van de verordening kapitaalvereisten, die significant is ingevolge artikel 31f, beschikt over een benoemingscommissie waarvan de taken en bevoegdheden voldoen aan de vereisten in artikel 88, tweede lid, van de richtlijn kapitaalvereisten.  
+
+### Artikel  31f  
+
+Een beleggingsonderneming is, mede voor de toepassing van artikel 4:9b, eerste lid, van de wet, significant indien zij door de Autoriteit Financiële Markten, gelet op haar omvang, interne organisatie en de aard, reikwijdte en complexiteit van haar activiteiten als significant wordt aangemerkt. 
+
+### Artikel  31g  
+
+Een beleggingsonderneming in de zin van de verordening kapitaalvereisten die over een website beschikt, geeft daarop uitleg over de wijze waarop zij voldoet aan de vereisten inzake bestuur, beloning en publicatie van gegevens in artikel 31e, de bij of krachtens artikel 23e van het Besluit prudentiële regels Wft gestelde regels, het Besluit uitvoering publicatieverplichtingen richtlijn kapitaalvereisten en artikel 4:9b van de wet. 
+
 ### §  5.2  
 
 ####Gedragsaspecten van de bedrijfsvoering
 
-Bepalingen ter uitvoering van de [artikelen 4:14, tweede lid, aanhef en onderdeel c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:15, tweede lid, aanhef en onderdeel b, onder 2°, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van de artikelen 4:14, tweede lid, aanhef en onderdeel c, en 4:15, tweede lid, aanhef en onderdeel b, onder 2°, van de wet 
 
 ### Artikel  32  
 
-1.  Een financiële onderneming als bedoeld in [artikel 4:14](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [4:15 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die financiële producten aanbiedt of samenstelt en in de markt verkrijgbaar stelt, beschikt over adequate procedures en maatregelen die waarborgen dat bij de ontwikkeling van het financieel product op een evenwichtige wijze rekening wordt gehouden met de belangen van de consument, cliënt en, indien van toepassing, de begunstigde van het financieel product en dat het financieel product aantoonbaar het resultaat is van deze belangenafweging.   
+1.  Een financiële onderneming als bedoeld in artikel 4:14 of 4:15 van de wet die financiële producten aanbiedt of samenstelt en in de markt verkrijgbaar stelt, beschikt over adequate procedures en maatregelen die waarborgen dat bij de ontwikkeling van het financieel product op een evenwichtige wijze rekening wordt gehouden met de belangen van de consument, cliënt en, indien van toepassing, de begunstigde van het financieel product en dat het financieel product aantoonbaar het resultaat is van deze belangenafweging.   
 2.  De procedures en maatregelen, bedoeld in het eerste lid, worden vastgelegd en waarborgen in ieder geval dat: 
 
 a. de doelgroep van het financieel product is afgebakend, waarbij is geanalyseerd en omschreven wat de beoogde doelstelling van de doelgroep is;  
@@ -709,29 +722,29 @@ d. regelmatig een controle en indien nodig een gepaste bijstelling van de proced
 3.  De financiële onderneming past periodiek, op door haar te bepalen tijdstippen of als daar aanleiding toe is, de procedures en maatregelen, bedoeld in het eerste lid, toe op de financiële producten die door haar worden aangeboden, of zijn samengesteld en in de markt verkrijgbaar worden gesteld.   
 4.  Indien een financieel product afbreuk doet aan de belangen van de consument, cliënt of begunstigde voor wie het product ontwikkeld is, past de financiele onderneming zo spoedig mogelijk het product aan of staakt zij het aanbieden of samenstellen en het in de markt verkrijgbaar stellen van het financieel product.   
 5.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het bepaalde in het eerste lid.   
-6.  Het vierde lid is niet van toepassing op het beheren of uitvoeren van overeenkomsten als bedoeld in de onderdelen a, b en c van de definitie van aanbieden in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+6.  Het vierde lid is niet van toepassing op het beheren of uitvoeren van overeenkomsten als bedoeld in de onderdelen a, b en c van de definitie van aanbieden in artikel 1:1 van de wet.   
 7.  Dit artikel is niet van toepassing op beheerders van een beleggingsinstelling die rechten van deelneming in een beleggingsinstelling aanbieden aan professionele beleggers, beheerders van een instelling voor collectieve belegging in effecten en beleggingsondernemingen.  
 
 ### Artikel  32a  
 
-1.  Een aanbieder als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die een consument of, indien het een verzekering betreft, cliënt adviseert, bewaart, indien de advisering leidt tot het aangaan van een overeenkomst inzake het aanbevolen product met de consument onderscheidenlijk de cliënt, de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ingewonnen, alsmede de gegevens betreffende het verkochte financiële product, gedurende ten minste vijf jaren vanaf het moment van advisering.   
-2.  Een adviseur als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die een consument of, indien het een verzekering betreft, cliënt adviseert, en het aanbevolen financiële product niet tevens aanbiedt aan de consument of cliënt of met betrekking tot het aanbevolen financiële product niet tevens bemiddelt of optreedt als gevolmachtigde agent of ondergevolmachtigde agent, bewaart de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ingewonnen, alsmede de gegevens betreffende het aanbevolen financiële product, gedurende ten minste vijf jaren vanaf het moment van advisering.   
-3.  Een bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die een consument of, indien het een verzekering betreft, cliënt adviseert bewaart, indien de advisering leidt tot het aangaan van een overeenkomst met de consument onderscheidenlijk de cliënt inzake het aanbevolen product, de informatie die hij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ingewonnen, alsmede de gegevens betreffende het aanbevolen financiële product, gedurende ten minste vijf jaren vanaf het moment van advisering.   
-4.  Het eerste, tweede en derde lid zijn niet van toepassing op financiële ondernemingen die bij de advisering uitsluitend te werk gaan volgens een gestandaardiseerde en gesystematiseerde procedure die voor de Autoriteit Financiële Markten verifieerbaar is, en die aan de hand van deze procedure aan de Autoriteit Financiële Markten kunnen aantonen welke informatie zij overeenkomstig [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) over consumenten onderscheidenlijk cliënten inwinnen en welke adviezen consumenten onderscheidenlijk cliënten op basis van de aldus ingewonnen informatie worden gegeven.   
-5.  Een aanbieder, bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die in het kader van een door hem verstrekt advies met een consument of, indien het een verzekering betreft, cliënt een overeenkomst aangaat onderscheidenlijk bemiddelt bij de totstandkoming van een overeenkomst inzake een ander financieel product dan waarover hij de consument onderscheidenlijk de cliënt heeft geadviseerd, is gedurende ten minste vijf jaren na de totstandkoming van de overeenkomst in staat om aan de Autoriteit Financiële Markten aan te tonen dat de consument onderscheidenlijk de cliënt in weerwil van het advies de keuze heeft gemaakt voor het aangaan van die overeenkomst.  
+1.  Een aanbieder als bedoeld in artikel 4:15, eerste of derde lid, van de wet die een consument of, indien het een verzekering betreft, cliënt adviseert, bewaart, indien de advisering leidt tot het aangaan van een overeenkomst inzake het aanbevolen product met de consument onderscheidenlijk de cliënt, de informatie die hij overeenkomstig artikel 4:23, eerste lid, onderdeel a, van de wet heeft ingewonnen, alsmede de gegevens betreffende het verkochte financiële product, gedurende ten minste vijf jaren vanaf het moment van advisering.   
+2.  Een adviseur als bedoeld in artikel 4:15, eerste of derde lid, van de wet die een consument of, indien het een verzekering betreft, cliënt adviseert, en het aanbevolen financiële product niet tevens aanbiedt aan de consument of cliënt of met betrekking tot het aanbevolen financiële product niet tevens bemiddelt of optreedt als gevolmachtigde agent of ondergevolmachtigde agent, bewaart de informatie die hij overeenkomstig artikel 4:23, eerste lid, onderdeel a, van de wet heeft ingewonnen, alsmede de gegevens betreffende het aanbevolen financiële product, gedurende ten minste vijf jaren vanaf het moment van advisering.   
+3.  Een bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent als bedoeld in artikel 4:15, eerste of derde lid, van de wet die een consument of, indien het een verzekering betreft, cliënt adviseert bewaart, indien de advisering leidt tot het aangaan van een overeenkomst met de consument onderscheidenlijk de cliënt inzake het aanbevolen product, de informatie die hij overeenkomstig artikel 4:23, eerste lid, onderdeel a, van de wet heeft ingewonnen, alsmede de gegevens betreffende het aanbevolen financiële product, gedurende ten minste vijf jaren vanaf het moment van advisering.   
+4.  Het eerste, tweede en derde lid zijn niet van toepassing op financiële ondernemingen die bij de advisering uitsluitend te werk gaan volgens een gestandaardiseerde en gesystematiseerde procedure die voor de Autoriteit Financiële Markten verifieerbaar is, en die aan de hand van deze procedure aan de Autoriteit Financiële Markten kunnen aantonen welke informatie zij overeenkomstig artikel 4:23, eerste lid, onderdeel a, van de wet over consumenten onderscheidenlijk cliënten inwinnen en welke adviezen consumenten onderscheidenlijk cliënten op basis van de aldus ingewonnen informatie worden gegeven.   
+5.  Een aanbieder, bemiddelaar, gevolmachtigde agent of ondergevolmachtigde agent als bedoeld in artikel 4:15, eerste of derde lid, van de wet die in het kader van een door hem verstrekt advies met een consument of, indien het een verzekering betreft, cliënt een overeenkomst aangaat onderscheidenlijk bemiddelt bij de totstandkoming van een overeenkomst inzake een ander financieel product dan waarover hij de consument onderscheidenlijk de cliënt heeft geadviseerd, is gedurende ten minste vijf jaren na de totstandkoming van de overeenkomst in staat om aan de Autoriteit Financiële Markten aan te tonen dat de consument onderscheidenlijk de cliënt in weerwil van het advies de keuze heeft gemaakt voor het aangaan van die overeenkomst.  
 
 ### Artikel  33  
 
-Een aanbieder van krediet als bedoeld in [artikel 4:15, eerste of derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bewaart de informatie die hij ingevolge de [artikelen 4:34, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en 113 en 114 heeft ingewonnen, alsmede de door hem aangeboden overeenkomst inzake krediet, indien die overeenkomst tot stand is gekomen, ten minste gedurende vijf jaren na de dag waarop die overeenkomst is afgewikkeld. 
+Een aanbieder van krediet als bedoeld in artikel 4:15, eerste of derde lid, van de wet bewaart de informatie die hij ingevolge de artikelen 4:34, eerste lid, van de wet en 113 en 114 heeft ingewonnen, alsmede de door hem aangeboden overeenkomst inzake krediet, indien die overeenkomst tot stand is gekomen, ten minste gedurende vijf jaren na de dag waarop die overeenkomst is afgewikkeld. 
 
 ### Artikel  33a  
 
-1.  Een Nederlandse beheerder van een beleggingsinstelling voert met betrekking tot de beleggingsinstellingen die hij beheert, beleid gericht op het beheersen van risico’s die de in [artikel 4:14, tweede lid, onderdeel c, aanhef, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde belangen kunnen schaden.   
+1.  Een Nederlandse beheerder van een beleggingsinstelling voert met betrekking tot de beleggingsinstellingen die hij beheert, beleid gericht op het beheersen van risico’s die de in artikel 4:14, tweede lid, onderdeel c, aanhef, van de wet bedoelde belangen kunnen schaden.   
 2.  De beheerder beschikt over procedures en maatregelen die waarborgen dat wordt voldaan aan de ingevolge artikel 15, eerste, tweede, derde en vijfde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde voorwaarden die met het oog op de in het eerste lid bedoelde belangen worden gesteld.  
 
 ### Artikel  34  
 
-1.  De bedrijfsvoering van een beheerder van een icbe, icbe of bewaarder van een icbe als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) omvat ten minste procedures en maatregelen die waarborgen dat: 
+1.  De bedrijfsvoering van een beheerder van een icbe, icbe of bewaarder van een icbe als bedoeld in artikel 4:14, eerste lid, van de wet omvat ten minste procedures en maatregelen die waarborgen dat: 
 
 a. elke transactie waarbij de icbe is betrokken, kan worden gereconstrueerd;  
 
@@ -826,7 +839,7 @@ c. de gegevens niet anderszins gemanipuleerd of gewijzigd kunnen worden.
 
 ### Artikel  34e  
 
-De bedrijfsvoering van een pensioenbewaarder als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) omvat ten minste procedures en maatregelen die waarborgen dat: 
+De bedrijfsvoering van een pensioenbewaarder als bedoeld in artikel 4:14, eerste lid, van de wet omvat ten minste procedures en maatregelen die waarborgen dat: 
 
 a. elke transactie in verband met het overgedragen pensioenvermogen, kan worden gereconstrueerd;  
 
@@ -842,17 +855,17 @@ f. de administratie van het overgedragen pensioenvermogen ten minste een keer pe
 
 ### Artikel  34f  
 
-De bedrijfsvoering van een premiepensioeninstelling als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) omvat ten minste procedures en maatregelen die waarborgen dat: 
+De bedrijfsvoering van een premiepensioeninstelling als bedoeld in artikel 4:14, eerste lid, van de wet omvat ten minste procedures en maatregelen die waarborgen dat: 
 
 a. er een systematische, toegankelijke en actuele administratie van pensioendeelnemers en pensioengerechtigden is waarin, voor zover van toepassing, de rechten en verplichtingen van die deelnemers en gerechtigden en de daarmee verband houdende afspraken inzichtelijk worden gemaakt;  
 
-b. de administratie, bedoeld in onderdeel a, zodanig is dat deze geen belemmering vormt of kan vormen voor de toepassing van de regeling van [artikel 4:71a van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+b. de administratie, bedoeld in onderdeel a, zodanig is dat deze geen belemmering vormt of kan vormen voor de toepassing van de regeling van artikel 4:71a van de wet.   
 
 ### Artikel  35  
 
-1. Een beleggingsonderneming houdt gegevens bij over alle door haar verleende beleggingsdiensten, nevendiensten en verrichte beleggingsactiviteiten ten einde het toezicht op de naleving van hetgeen ter implementatie van de richtlijn markten voor financiële instrumenten ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald mogelijk te maken. 
+1. Een beleggingsonderneming houdt gegevens bij over alle door haar verleende beleggingsdiensten, nevendiensten en verrichte beleggingsactiviteiten ten einde het toezicht op de naleving van hetgeen ter implementatie van de richtlijn markten voor financiële instrumenten ingevolge de wet is bepaald mogelijk te maken. 
 2. De beleggingsonderneming bewaart de gegevens, bedoeld in het eerste lid, gedurende ten minste vijf jaar. 
-3. Een beleggingsonderneming bewaart de gegevens met betrekking tot de overeenkomst, bedoeld in [artikel 4:89, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), ten minste voor de duur van de relatie met de cliënt. 
+3. Een beleggingsonderneming bewaart de gegevens met betrekking tot de overeenkomst, bedoeld in artikel 4:89, tweede lid, van de wet, ten minste voor de duur van de relatie met de cliënt. 
 4. Een beleggingsonderneming bewaart de gegevens, bedoeld in het eerste en derde lid, op een duurzame drager in een zodanige vorm en op zodanige wijze dat:
 
 a.de Autoriteit Financiële Markten vlot toegang kan hebben tot de gegevens en elk stadium van de verwerking van een transactie kan reconstrueren;
@@ -860,11 +873,11 @@ a.de Autoriteit Financiële Markten vlot toegang kan hebben tot de gegevens en e
 b.alle wijzigingen, alsmede de inhoud van de gegevens voordat wijzigingen zijn aangebracht, gemakkelijk kunnen worden achterhaald;
 
 c.de gegevens niet anderszins gemanipuleerd of gewijzigd kunnen worden. 
-5. De Autoriteit Financiële Markten stelt een lijst op van gegevens die een beleggingsonderneming op grond van hetgeen ter implementatie van de richtlijn markten voor financiële instrumenten ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald, ten minste moet bewaren. 
+5. De Autoriteit Financiële Markten stelt een lijst op van gegevens die een beleggingsonderneming op grond van hetgeen ter implementatie van de richtlijn markten voor financiële instrumenten ingevolge de wet is bepaald, ten minste moet bewaren. 
 
 ###Artikel 35a 
 
-1. Een beheerder van een icbe of beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen voor het voorkomen van en omgaan met belangenconflicten tussen de beheerder van een icbe of beleggingsonderneming en haar cliënten of tussen haar cliënten onderling. 
+1. Een beheerder van een icbe of beleggingsonderneming als bedoeld in artikel 4:14, eerste lid, van de wet beschikt over procedures en maatregelen voor het voorkomen van en omgaan met belangenconflicten tussen de beheerder van een icbe of beleggingsonderneming en haar cliënten of tussen haar cliënten onderling. 
 2. De procedures en maatregelen, bedoeld in het eerste lid, zijn erop gericht dat relevante personen die betrokken zijn bij verschillende bedrijfsactiviteiten waarbij het risico bestaat op een belangenconflict als bedoeld in het eerste lid, deze activiteiten verrichten in een mate van onafhankelijkheid die evenredig is aan de omvang en activiteiten van de beheerder van een icbe of beleggingsonderneming en de groep waarvan zij deel uitmaakt, en aan de grootte van het risico dat de belangen van een cliënt worden geschaad. 
 3. De procedures en maatregelen, bedoeld in het eerste lid, omvatten, voor zover nodig en passend om de mate van onafhankelijkheid, bedoeld in het tweede lid, te waarborgen:
 
@@ -881,21 +894,21 @@ e.maatregelen ter voorkoming of controle van de gelijktijdige of achtereenvolgen
 
 ### Artikel 35b 
 
-1. Een beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) legt de gegevens vast die betrekking hebben op de soorten door of in naam van de onderneming verrichte beleggingsdiensten, beleggingsactiviteiten of nevendiensten waarbij een belangenconflict is ontstaan of kan ontstaan dat een wezenlijk risico met zich brengt dat de belangen van een of meer cliënten worden geschaad. 
+1. Een beleggingsonderneming als bedoeld in artikel 4:14, eerste lid, van de wet legt de gegevens vast die betrekking hebben op de soorten door of in naam van de onderneming verrichte beleggingsdiensten, beleggingsactiviteiten of nevendiensten waarbij een belangenconflict is ontstaan of kan ontstaan dat een wezenlijk risico met zich brengt dat de belangen van een of meer cliënten worden geschaad. 
 2.  Een beheerder van een icbe legt de gegevens vast die betrekking hebben op de soorten door of in naam van de beheerder verrichte werkzaamheden in verband met het beheren van beleggingen waarbij een belangenconflict is ontstaan of kan ontstaan dat een wezenlijk risico met zich brengt dat de belangen van een of meer icbe's of van de deelnemers worden geschaad.   
 3.  De beheerder zorgt ervoor dat de personen die het dagelijks beleid bepalen van de beheerder onmiddellijk in kennis worden gesteld wanneer de getroffen maatregelen voor het voorkomen van en omgaan met belangenconflicten niet volstaan om met redelijke zekerheid te garanderen dat risico’s dat de belangen van de icbe of de deelnemers ervan worden geschaad, zullen worden vermeden, zodat zij alle nodige beslissingen kunnen nemen om te waarborgen dat de beheerder in ieder geval handelt in het belang van de icbe en haar deelnemers.   
 4.  De beheerder stelt de deelnemers van een door hem beheerde icbe via een duurzame drager op de hoogte van de situaties, bedoeld in het derde lid, met opgave van redenen van de beslissing die de personen die het dagelijks beleid bepalen ter zake hebben genomen. 
 
 ### Artikel 35c 
 
-1. Een beheerder van een icbe of beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) beschikt over procedures en maatregelen met betrekking tot persoonlijke transacties. 
-2. De procedures en maatregelen, bedoeld in het eerste lid, zijn er op gericht dat indien een relevante persoon betrokken is bij het verrichten van activiteiten die een belangenconflict kunnen doen ontstaan, of indien een relevante persoon als gevolg van een activiteit die hij in naam van de beheerder of beleggingsonderneming verricht toegang heeft tot informatie als bedoeld in [artikel 5:53, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of tot andere vertrouwelijke informatie over cliënten of transacties met of voor cliënten:
+1. Een beheerder van een icbe of beleggingsonderneming als bedoeld in artikel 4:14, eerste lid, van de wet beschikt over procedures en maatregelen met betrekking tot persoonlijke transacties. 
+2. De procedures en maatregelen, bedoeld in het eerste lid, zijn er op gericht dat indien een relevante persoon betrokken is bij het verrichten van activiteiten die een belangenconflict kunnen doen ontstaan, of indien een relevante persoon als gevolg van een activiteit die hij in naam van de beheerder of beleggingsonderneming verricht toegang heeft tot informatie als bedoeld in artikel 5:53, eerste lid, van de wet of tot andere vertrouwelijke informatie over cliënten of transacties met of voor cliënten:
 
-a.geen persoonlijke transactie door of in naam van die relevante persoon wordt verricht die in strijd is met [artikel 5:56](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [5:58 Wft](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);
+a.geen persoonlijke transactie door of in naam van die relevante persoon wordt verricht die in strijd is met artikel 5:56 of 5:58 Wft;
 
 b.geen persoonlijke transactie door of in naam van die relevante persoon wordt verricht die gepaard gaat met misbruik of ongeoorloofde bekendmaking van de in de aanhef bedoelde vertrouwelijke informatie;
 
-c.geen persoonlijke transactie door of in naam van die relevante persoon wordt verricht die anderszins in strijd is of in strijd kan zijn met hetgeen ter uitvoering van de herziene richtlijn beleggingsinstellingen of de richtlijn markten voor financiële instrumenten ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald;
+c.geen persoonlijke transactie door of in naam van die relevante persoon wordt verricht die anderszins in strijd is of in strijd kan zijn met hetgeen ter uitvoering van de herziene richtlijn beleggingsinstellingen of de richtlijn markten voor financiële instrumenten ingevolge de wet is bepaald;
 
 d.de relevante persoon niet, anders dan in de normale uitoefening van zijn beroep of bedrijf, een andere persoon adviseert om een transactie in een financieel instrument aan te gaan die, wanneer dit een persoonlijke transactie van de relevante persoon zou zijn, niet zou zijn toegestaan op grond van onderdeel a, b of c, of onder artikel 35h, onderdeel a of b of artikel 164, derde lid zou vallen; en
 
@@ -905,7 +918,7 @@ f.de relevante persoon geen informatie of advies aan een andere persoon bekendma
 
 ### Artikel 35d 
 
-Een beheerder van een icbe of beleggingsonderneming als bedoeld in [artikel 4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) draagt er zorg voor dat relevante personen op de hoogte zijn van de door haar vastgestelde maatregelen en procedures, bedoeld in artikel 35c, eerste lid.
+Een beheerder van een icbe of beleggingsonderneming als bedoeld in artikel 4:14, eerste lid, van de wet draagt er zorg voor dat relevante personen op de hoogte zijn van de door haar vastgestelde maatregelen en procedures, bedoeld in artikel 35c, eerste lid.
 
 ### Artikel 35e 
 
@@ -943,9 +956,9 @@ b.de bij het onderzoek betrokken financieel analisten of andere relevante person
 
 c.zijzelf, financieel analisten en andere relevante personen die bij het verrichten van het onderzoek zijn betrokken, geen vergoeding aanvaarden van degenen die een wezenlijk belang hebben bij het onderwerp van het onderzoek;
 
-d.zijzelf, de financieel analisten en andere relevante personen die bij het verrichten van onderzoek op beleggingsgebied zijn betrokken, aan uitgevende instellingen als bedoeld in [artikel 5:53, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), niet een gunstige behandeling beloven in hun onderzoek; en
+d.zijzelf, de financieel analisten en andere relevante personen die bij het verrichten van onderzoek op beleggingsgebied zijn betrokken, aan uitgevende instellingen als bedoeld in artikel 5:53, vierde lid, van de wet, niet een gunstige behandeling beloven in hun onderzoek; en
 
-e.uitgevende instellingen als bedoeld in [artikel 5:53, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), relevante personen die geen financieel analist zijn, en andere personen vóór de verspreiding van het onderzoek geen inzage krijgen in het concept-onderzoek ter controle van de juistheid van de feitelijke beweringen in dit onderzoek of voor andere doeleinden, met uitzondering van een controle op de naleving van de juridische verplichtingen van de uitgevende instelling, indien het concept-onderzoek een aanbeveling of richtprijs bevat.
+e.uitgevende instellingen als bedoeld in artikel 5:53, vierde lid, van de wet, relevante personen die geen financieel analist zijn, en andere personen vóór de verspreiding van het onderzoek geen inzage krijgen in het concept-onderzoek ter controle van de juistheid van de feitelijke beweringen in dit onderzoek of voor andere doeleinden, met uitzondering van een controle op de naleving van de juridische verplichtingen van de uitgevende instelling, indien het concept-onderzoek een aanbeveling of richtprijs bevat.
 
 ### Artikel  35i  
 
@@ -974,7 +987,7 @@ b. beheerders van beleggingsinstellingen met zetel in een aangewezen staat, bele
 
 ### Artikel  37  
 
-Een financiële onderneming gaat niet over tot het uitbesteden van werkzaamheden indien dat een belemmering vormt voor een adequaat toezicht op de naleving van het [Deel Gedragstoezicht financiële ondernemingen van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
+Een financiële onderneming gaat niet over tot het uitbesteden van werkzaamheden indien dat een belemmering vormt voor een adequaat toezicht op de naleving van het Deel Gedragstoezicht financiële ondernemingen van de wet. 
 
 ### Artikel  37a  
 
@@ -1014,12 +1027,12 @@ f. hij over de nodige deskundigheid beschikt en de nodige zorgvuldigheid en waak
 ###Artikel 38b 
 
 1. Een beleggingsonderneming gaat niet over tot het uitbesteden van werkzaamheden indien dat afbreuk doet aan de kwaliteit van haar onafhankelijke interne toetsing als bedoeld in artikel 31, zesde lid. 
-2. Het eerste lid is niet van toepassing op banken die een vergunning hebben als bedoeld in [artikel 2:11 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en in Nederland beleggingsdiensten mogen verlenen of beleggingsactiviteiten mogen verrichten.
+2. Het eerste lid is niet van toepassing op banken die een vergunning hebben als bedoeld in artikel 2:11 van de wet en in Nederland beleggingsdiensten mogen verlenen of beleggingsactiviteiten mogen verrichten.
 
 ### Artikel 38c 
 
 1. Een beleggingsonderneming die werkzaamheden uitbesteedt aan een derde, draagt er zorg voor dat zij daartoe over de nodige deskundigheid beschikt en daarbij de nodige zorgvuldigheid en waakzaamheid in acht neemt. 
-2. Het eerste lid is niet van toepassing op banken die een vergunning hebben als bedoeld in [artikel 2:11 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en in Nederland beleggingsdiensten mogen verlenen of beleggingsactiviteiten mogen verrichten.
+2. Het eerste lid is niet van toepassing op banken die een vergunning hebben als bedoeld in artikel 2:11 van de wet en in Nederland beleggingsdiensten mogen verlenen of beleggingsactiviteiten mogen verrichten.
 
 ### Artikel 38d 
 
@@ -1027,12 +1040,12 @@ f. hij over de nodige deskundigheid beschikt en de nodige zorgvuldigheid en waak
 
 a.de uitbesteding geen afbreuk doet aan de verantwoordelijkheid van de personen die het dagelijks beleid bepalen;
 
-b.door de uitbesteding de relatie en verplichtingen van de beleggingsonderneming jegens haar cliënten uit hoofde van hetgeen ter implementatie van de richtlijn markten voor financiële instrumenten ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is bepaald niet worden gewijzigd;
+b.door de uitbesteding de relatie en verplichtingen van de beleggingsonderneming jegens haar cliënten uit hoofde van hetgeen ter implementatie van de richtlijn markten voor financiële instrumenten ingevolge de wet is bepaald niet worden gewijzigd;
 
-c.de voorwaarden waaraan de beleggingsonderneming moet voldoen om een vergunning als bedoeld in [artikel 2:96 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) te verkrijgen en om deze te behouden niet worden ondermijnd; en
+c.de voorwaarden waaraan de beleggingsonderneming moet voldoen om een vergunning als bedoeld in artikel 2:96 van de wet te verkrijgen en om deze te behouden niet worden ondermijnd; en
 
-d.door de uitbesteding geen afbreuk wordt gedaan aan de naleving van voorschriften verbonden aan de vergunning als bedoeld in [artikel 2:96 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
-2. Het eerste lid, aanhef en onderdeel a, is niet van toepassing op banken die een vergunning hebben als bedoeld in [artikel 2:11 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en in Nederland beleggingsdiensten mogen verlenen of beleggingsactiviteiten mogen verrichten.
+d.door de uitbesteding geen afbreuk wordt gedaan aan de naleving van voorschriften verbonden aan de vergunning als bedoeld in artikel 2:96 van de wet. 
+2. Het eerste lid, aanhef en onderdeel a, is niet van toepassing op banken die een vergunning hebben als bedoeld in artikel 2:11 van de wet en in Nederland beleggingsdiensten mogen verlenen of beleggingsactiviteiten mogen verrichten.
 
 ### Artikel 38e 
 
@@ -1061,7 +1074,7 @@ j.de derde alle vertrouwelijke informatie over haar en haar cliënten beschermt;
 
 k.zij en de derde over een noodplan beschikken dat voorziet in calamiteitenbeheersing en in een periodieke controle van de noodvoorzieningen wanneer dit noodzakelijk is gelet op de uitbestede werkzaamheden. 
 3. De toezichthouders maken slechts gebruik van de mogelijkheid, bedoeld in het tweede lid, onderdeel i, om bij de derde een onderzoek ter plaatse te doen of te laten doen, indien niet op andere wijze kan worden vastgesteld dat ten aanzien van de uitbestede werkzaamheden wordt voldaan aan het bij of krachtens de wet bepaalde. 
-4. Het eerste, tweede en derde lid, onderdelen a, b, d, e en g zijn niet van toepassing op banken die een vergunning hebben als bedoeld in [artikel 2:11 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en in Nederland beleggingsdiensten mogen verlenen of beleggingsactiviteiten mogen verrichten.
+4. Het eerste, tweede en derde lid, onderdelen a, b, d, e en g zijn niet van toepassing op banken die een vergunning hebben als bedoeld in artikel 2:11 van de wet en in Nederland beleggingsdiensten mogen verlenen of beleggingsactiviteiten mogen verrichten.
 
 ### Artikel 38f 
 
@@ -1088,12 +1101,12 @@ Indien een betaalinstelling of elektronischgeldinstelling voornemens is werkzaam
 
 ### Artikel  38j  
 
-Bij de uitbesteding van werkzaamheden in verband met het verlenen van betaaldiensten dan wel de uitgifte van elektronisch geld draagt de betaalinstelling of de elektronischgeldinstelling er zorg voor dat uitbesteding de verplichtingen van de betaalinstelling, onderscheidenlijk de elektronischgeldinstelling, jegens haar cliënten en de rechten van haar cliënten uit hoofde van de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [Titel 7B van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) niet wijzigt. 
+Bij de uitbesteding van werkzaamheden in verband met het verlenen van betaaldiensten dan wel de uitgifte van elektronisch geld draagt de betaalinstelling of de elektronischgeldinstelling er zorg voor dat uitbesteding de verplichtingen van de betaalinstelling, onderscheidenlijk de elektronischgeldinstelling, jegens haar cliënten en de rechten van haar cliënten uit hoofde van de wet of Titel 7B van Boek 7 van het Burgerlijk Wetboek niet wijzigt. 
 
 ### Artikel  38k  
 
 1.  De artikelen 37, 38g, 38h en 38j zijn slechts van toepassing op het uitbesteden van werkzaamheden door betaalinstellingen of elektronischgeldinstellingen voor zover het belangrijke werkzaamheden betreft.   
-2.  Een werkzaamheid wordt als belangrijk aangemerkt indien een gebrekkige of tekortschietende uitvoering ervan wezenlijk afbreuk zou doen aan de naleving door de betaalinstelling of de elektronischgeldinstelling van de vergunningsvereisten, als bedoeld in [artikel 2:3b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) respectievelijk [artikel 2:10b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), of van andere verplichtingen ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of [Titel 7B van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), dan wel aan haar financiële resultaten of de soliditeit of continuïteit van haar betaaldiensten of uitgifte van elektronisch geld.  
+2.  Een werkzaamheid wordt als belangrijk aangemerkt indien een gebrekkige of tekortschietende uitvoering ervan wezenlijk afbreuk zou doen aan de naleving door de betaalinstelling of de elektronischgeldinstelling van de vergunningsvereisten, als bedoeld in artikel 2:3b van de wet respectievelijk artikel 2:10b van de wet, of van andere verplichtingen ingevolge de wet of Titel 7B van Boek 7 van het Burgerlijk Wetboek, dan wel aan haar financiële resultaten of de soliditeit of continuïteit van haar betaaldiensten of uitgifte van elektronisch geld.  
 
 ### Artikel  38l  
 
@@ -1113,11 +1126,11 @@ c. is de derde, gelet op de aard van de opdracht, aantoonbaar in staat om de opd
 
 ####Interne klachtenprocedure
 
-Bepalingen ter uitvoering van [artikel 4:17, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:17, derde lid, van de wet 
 
 ### Artikel  39  
 
-Deze paragraaf is van toepassing op financiële ondernemingen waarvoor op grond van [artikel 4:17, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) de verplichting geldt om over een interne klachtenprocedure te beschikken. 
+Deze paragraaf is van toepassing op financiële ondernemingen waarvoor op grond van artikel 4:17, eerste lid, van de wet de verplichting geldt om over een interne klachtenprocedure te beschikken. 
 
 ### Artikel  40  
 
@@ -1155,11 +1168,11 @@ De financiële onderneming voorziet in procedures en maatregelen die waarborgen 
 
 ####Erkende geschilleninstantie
 
-Bepalingen ter uitvoering van [artikel 4:17, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:17, derde lid, van de wet 
 
 ### Artikel  45  
 
-1.  Onze Minister kan een geschilleninstantie als bedoeld in [artikel 4:17, eerste lid, onderdeel b, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), slechts erkennen indien: 
+1.  Onze Minister kan een geschilleninstantie als bedoeld in artikel 4:17, eerste lid, onderdeel b, van de wet, slechts erkennen indien: 
 
 a. de bij die geschilleninstantie aangesloten financiële ondernemingen een groep van voldoende betekenis en veelsoortigheid vormen of aannemelijk gemaakt kan worden dat dit op korte termijn na erkenning het geval zal zijn;  
 
@@ -1284,11 +1297,11 @@ b. het aantal in het afgelopen kalenderjaar ingediende en behandelde geschillen,
 
 ####Inleidende bepalingen
 
-Bepalingen ter uitvoering van de [artikelen 4:22, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:25a, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:25b, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van de artikelen 4:22, eerste lid, 4:25a, eerste lid, en 4:25b, eerste en tweede lid, van de wet 
 
 ### Artikel  49  
 
-1.  Een financiële onderneming verstrekt de ingevolge deze afdeling en de [artikelen 4:25a, eerste lid, onderdeel a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:25b, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aan de consument of cliënt te verstrekken informatie schriftelijk, tenzij in deze afdeling anders wordt bepaald. De financiële onderneming kan de informatie via een andere duurzame drager verstrekken, indien zij zich ervan heeft vergewist dat de consument onderscheidenlijk cliënt over de benodigde middelen beschikt om kennis te nemen van de aldus te verstrekken informatie.   
+1.  Een financiële onderneming verstrekt de ingevolge deze afdeling en de artikelen 4:25a, eerste lid, onderdeel a, en 4:25b, eerste en tweede lid, van de wet aan de consument of cliënt te verstrekken informatie schriftelijk, tenzij in deze afdeling anders wordt bepaald. De financiële onderneming kan de informatie via een andere duurzame drager verstrekken, indien zij zich ervan heeft vergewist dat de consument onderscheidenlijk cliënt over de benodigde middelen beschikt om kennis te nemen van de aldus te verstrekken informatie.   
 2.  De financiële onderneming verstrekt de informatie, bedoeld in het eerste lid, in de Nederlandse taal. De informatie kan in een andere taal worden verstrekt: 
 
 a. indien de consument of cliënt daarom verzoekt en de financiële onderneming hiermee heeft ingestemd;  
@@ -1300,7 +1313,7 @@ c. indien het essentiële beleggersinformatie betreft en het gebruik van de desb
 
 ###Artikel 49a 
 
-1. Een beleggingsonderneming verstrekt de ingevolge deze afdeling en de [artikelen 4:20, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:90b, derde en achtste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [artikel 4:90c, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aan de cliënt te verstrekken informatie schriftelijk, tenzij in deze afdeling of die artikelen anders wordt bepaald. De beleggingsonderneming kan na toestemming van de cliënt, de informatie op een andere duurzame drager verstrekken, indien dat past in de context waarin zij met de cliënt zaken doet. 
+1. Een beleggingsonderneming verstrekt de ingevolge deze afdeling en de artikelen 4:20, derde lid, 4:90b, derde en achtste lid, en artikel 4:90c, derde lid, van de wet aan de cliënt te verstrekken informatie schriftelijk, tenzij in deze afdeling of die artikelen anders wordt bepaald. De beleggingsonderneming kan na toestemming van de cliënt, de informatie op een andere duurzame drager verstrekken, indien dat past in de context waarin zij met de cliënt zaken doet. 
 2. Een beleggingsonderneming kan, na toestemming van de cliënt, de op grond van de artikelen 58a tot en met 58e en 59a te verschaffen informatie die niet persoonlijk tot de cliënt is gericht via haar website verstrekken indien:
 
 a.het gebruik van de website past in de context waarin zij met de cliënt zaken doet;
@@ -1314,11 +1327,11 @@ c.de informatie actueel is en, zolang dat voor de cliënt van belang is, op de w
 
 ####Cliëntenclassificatie
 
-Bepaling ter uitvoering van [artikel 4:18c, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepaling ter uitvoering van artikel 4:18c, vierde lid, van de wet 
 
 ### Artikel 49b 
 
-Een cliënt die als niet-professionele belegger is gekwalificeerd, kan door een beleggingsonderneming of beheerder van een beleggingsinstelling op schriftelijk verzoek als professionele belegger worden behandeld indien is voldaan aan het in [artikel 4:18c van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde, en:
+Een cliënt die als niet-professionele belegger is gekwalificeerd, kan door een beleggingsonderneming of beheerder van een beleggingsinstelling op schriftelijk verzoek als professionele belegger worden behandeld indien is voldaan aan het in artikel 4:18c van de wet bepaalde, en:
 
 a.de beleggingsonderneming of beheerder van een beleggingsinstelling de cliënt schriftelijk waarschuwt voor het lagere beschermingsniveau en het niet van toepassing zijn van het beleggerscompensatiestelsel; en
 
@@ -1328,7 +1341,7 @@ b.de cliënt in een afzonderlijk document bevestigt dat hij zich bewust is van d
 
 ####Algemene informatie over financiële ondernemingen
 
-Bepalingen ter uitvoering van [artikel 4:22, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:22, eerste lid, van de wet 
 
 ### Artikel  50  
 
@@ -1336,7 +1349,7 @@ Bepalingen ter uitvoering van [artikel 4:22, eerste lid, van de wet](../../../..
 
 a. de gegevens omtrent hemzelf, de door hem beheerde icbe’s en de bewaarders die aan de icbe’s zijn verbonden welke ingevolge enig wettelijk voorschrift in het handelsregister moeten worden opgenomen;  
 
-b. de overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+b. de overeenkomst, bedoeld in artikel 4:43, eerste lid, van de wet;  
 
 c. zijn vergunning; en  
 
@@ -1359,15 +1372,15 @@ Een financiële onderneming maakt een beschrijving van haar beleid inzake beloni
 
 ### Artikel  51  
 
-1.  Een beleggingsonderneming of bank deelt aan een ieder die een gerechtvaardigd belang heeft op verzoek mede aan welke systemen als bedoeld in [artikel 212a van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md) de beleggingsonderneming onderscheidenlijk de bank deelneemt.   
-2.  Een beleggingsonderneming of bank verstrekt aan een ieder die een gerechtvaardigd belang heeft op verzoek informatie over de belangrijkste regels die gelden voor de werking van de systemen bedoeld in [artikel 212a van de Faillissementswet](../../../../../../../wet/faillissementswet/BWBR0001860/README.md), waaraan de beleggingsonderneming onderscheidenlijk de bank deelneemt.   
+1.  Een beleggingsonderneming of bank deelt aan een ieder die een gerechtvaardigd belang heeft op verzoek mede aan welke systemen als bedoeld in artikel 212a van de Faillissementswet de beleggingsonderneming onderscheidenlijk de bank deelneemt.   
+2.  Een beleggingsonderneming of bank verstrekt aan een ieder die een gerechtvaardigd belang heeft op verzoek informatie over de belangrijkste regels die gelden voor de werking van de systemen bedoeld in artikel 212a van de Faillissementswet, waaraan de beleggingsonderneming onderscheidenlijk de bank deelneemt.   
 3.  Het eerste en tweede lid zijn niet van toepassing op beleggingsondernemingen met zetel in een andere lidstaat.  
 
 ###§ 8.1.2a 
 
 ####Informatieverstrekking door beleggingsondernemingen en aanbieders van hypothecair krediet
 
-Bepalingen ter uitvoering van de [artikelen 4:19, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:22, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van de artikelen 4:19, vierde lid, en 4:22, eerste lid, van de wet 
 
 ### Artikel 51a 
 
@@ -1427,7 +1440,7 @@ Een aanbieder van hypothecair krediet publiceert op zijn website de actuele vast
 
 ####Reclame-uitingen en andere onverplichte precontractuele informatie
 
-Bepalingen ter uitvoering van [artikel 4:22, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:22, eerste lid, van de wet 
 
 ### Artikel  52  
 
@@ -1475,7 +1488,7 @@ b. brengt in een reclame-uiting over krediet niet tot uiting dat lopende overeen
 c. brengt in een reclame-uiting over krediet niet tot uiting dat met een negatieve uitkomst van de raadpleging van het stelsel van kredietregistratie of anderszins in afwijking van de geldende gedragscode toch een krediet kan worden verkregen; en 
 
 d. geeft in een reclame-uiting over krediet geen kenmerken van het krediet weer waarin fiscale voordelen zijn verwerkt.     
-10.  Indien een financiële onderneming in een reclame-uiting informatie als bedoeld in het eerste of tweede lid of informatie over een specifiek product verstrekt over een krediet, verstrekt zij daarbij informatie over de verkrijgbaarheid van de informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). De eerste volzin is niet van toepassing op reclame-uitingen over krediet, voorzover het krediet onderdeel uitmaakt van een complex product.   
+10.  Indien een financiële onderneming in een reclame-uiting informatie als bedoeld in het eerste of tweede lid of informatie over een specifiek product verstrekt over een krediet, verstrekt zij daarbij informatie over de verkrijgbaarheid van de informatie, bedoeld in artikel 4:33, eerste lid, van de wet. De eerste volzin is niet van toepassing op reclame-uitingen over krediet, voorzover het krediet onderdeel uitmaakt van een complex product.   
 11.  Indien een financiële onderneming informatie verstrekt over de kenmerken van het krediet, bedoeld in het eerste lid en tweede lid, is het vierde lid van overeenkomstige toepassing.   
 12.  Artikel 49, eerste lid, eerste volzin, is niet van toepassing op het verstrekken van informatie in een reclame-uiting als bedoeld in dit artikel.   
 13.  Indien een financiële onderneming in een reclame-uiting over effectenkrediet melding maakt van een debetrentevoet of andere gegevens betreffende de kosten van een effectenkrediet, meldt zij tevens: 
@@ -1507,7 +1520,7 @@ b. het feit dat het een beheerder van een beleggingsinstelling, beleggingsinstel
 
 c. dat de beheerder van een beheerder van een beleggingsinstelling, beleggingsinstelling, beheerder van een icbe of icbe is opgenomen in het register dat wordt gehouden door de Autoriteit Financiële Markten; en  
 
-d. indien het een icbe betreft: waar het prospectus, bedoeld in [artikel 4:49, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), verkrijgbaar is.     
+d. indien het een icbe betreft: waar het prospectus, bedoeld in artikel 4:49, eerste lid, van de wet, verkrijgbaar is.     
 2.  Het eerste lid, onderdelen c en d, is niet van toepassing op reclame-uitingen op radio en televisie.   
 3.  Onverminderd artikel 52 wordt in een reclame-uiting anders dan via de televisie of radio over een icbe, indien van toepassing, duidelijk de aandacht gevestigd op het feit dat: 
 
@@ -1527,7 +1540,7 @@ De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot d
 
 ####Verplichte precontractuele informatie
 
-Bepalingen ter uitvoering van de [artikelen 4:20, eerste en tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:22, eerste lid en tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:25a, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:25b, eerste en tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:90b, tiende lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van de artikelen 4:20, eerste en tweede lid, 4:22, eerste lid en tweede lid, 4:25a, eerste lid, 4:25b, eerste en tweede lid, en 4:90b, tiende lid, van de wet 
 
 ### Artikel  57  
 
@@ -1537,10 +1550,10 @@ a. zijn naam en adres en, indien de financiëledienstverlener een rechtspersoon 
 
 b. de aard van zijn financiële dienstverlening;  
 
-c. voorzover [artikel 4:17 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing is: zijn interne klachtenprocedure, bedoeld in [artikel 4:17, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en de erkende geschilleninstantie waarbij hij is aangesloten; en  
+c. voorzover artikel 4:17 van de wet van toepassing is: zijn interne klachtenprocedure, bedoeld in artikel 4:17, eerste lid, onderdeel a, van de wet, en de erkende geschilleninstantie waarbij hij is aangesloten; en  
 
 d. zijn inschrijving in het door de toezichthouder gehouden register.     
-2.  In afwijking van artikel 49, eerste lid, kan de informatie, bedoeld in het eerste lid, en in [artikel 4:25b, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), op verzoek van de cliënt mondeling worden verstrekt, indien het financiële product een verzekering is en onmiddellijke dekking noodzakelijk is. In dat geval verstrekt de financiëledienstverlener de informatie tevens onmiddellijk na de totstandkoming van de overeenkomst overeenkomstig artikel 49, eerste lid, aan de cliënt.  
+2.  In afwijking van artikel 49, eerste lid, kan de informatie, bedoeld in het eerste lid, en in artikel 4:25b, eerste en tweede lid, van de wet, op verzoek van de cliënt mondeling worden verstrekt, indien het financiële product een verzekering is en onmiddellijke dekking noodzakelijk is. In dat geval verstrekt de financiëledienstverlener de informatie tevens onmiddellijk na de totstandkoming van de overeenkomst overeenkomstig artikel 49, eerste lid, aan de cliënt.  
 
 ###Artikel 58a 
 
@@ -1608,7 +1621,7 @@ d.eventuele marge- of soortgelijke verplichtingen die van toepassing zijn op het
 3. Een beleggingsonderneming die aan een niet-professionele belegger informatie verstrekt over een financieel instrument waarvoor overeenkomstig de richtlijn prospectus een prospectus is gepubliceerd, deelt de cliënt mede waar dit prospectus verkrijgbaar is. 
 4. Indien aangenomen mag worden dat de risico´s die verbonden zijn aan een financieel instrument dat uit twee of meer verschillende financiële instrumenten bestaat, groter zijn dan de risico´s die verbonden zijn aan elk van de financiële instrumenten afzonderlijk, verstrekt de beleggingsonderneming een adequate beschrijving van de verschillende financiële instrumenten waaruit het instrument bestaat en van de risicoverhogende wisselwerking daartussen. 
 5. Een beleggingsonderneming verstrekt over een financieel instrument dat een garantie van een derde omvat, aan een niet-professionele belegger voldoende bijzonderheden over de garantie en de garantiegever. 
-6. De essentiële beleggersinformatie wordt voor de toepassing van [artikel 4:20, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot een recht van deelneming in een icbe als passende informatie aangemerkt.
+6. De essentiële beleggersinformatie wordt voor de toepassing van artikel 4:20, eerste lid, van de wet met betrekking tot een recht van deelneming in een icbe als passende informatie aangemerkt.
 
 ### Artikel 58d 
 
@@ -1632,7 +1645,7 @@ c.een vermelding van de desbetreffende buitenlandse valuta en de toepasselijke o
 d.vermelding van de mogelijkheid dat transacties die verband houden met het financiële instrument of de beleggingsdienst, nog andere kosten, voor de niet-professionele belegger kunnen meebrengen die niet via de beleggingsonderneming worden betaald of door haar worden opgelegd;
 
 e.de regelingen voor betaling of andere prestaties met betrekking tot de uitvoering van de beleggings- of nevendienst. 
-2. De essentiële beleggersinformatie wordt voor de toepassing van [artikel 4:20, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot een recht van deelneming in een icbe als passende informatie aangemerkt wat de aan de icbe zelf verbonden kosten en bijbehorende lasten, met inbegrip van de instap- en uitstapprovisies, betreft.
+2. De essentiële beleggersinformatie wordt voor de toepassing van artikel 4:20, eerste lid, van de wet met betrekking tot een recht van deelneming in een icbe als passende informatie aangemerkt wat de aan de icbe zelf verbonden kosten en bijbehorende lasten, met inbegrip van de instap- en uitstapprovisies, betreft.
 
 ### Artikel 58f 
 
@@ -1647,7 +1660,7 @@ e.de regelingen voor betaling of andere prestaties met betrekking tot de uitvoer
 
 Een beleggingsonderneming verstrekt een niet-professionele belegger voorafgaand aan het uitvoeren van een order met betrekking tot een financieel instrument voor diens rekening de volgende informatie over haar orderuitvoeringsbeleid:
 
-a.een uitleg over het relatieve gewicht dat de beleggingsonderneming overeenkomstig [artikel 4:90a, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) toekent aan de in [artikel 4:90a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) genoemde factoren, of over de wijze waarop zij het relatieve gewicht van deze factoren bepaalt;
+a.een uitleg over het relatieve gewicht dat de beleggingsonderneming overeenkomstig artikel 4:90a, tweede lid, van de wet toekent aan de in artikel 4:90a, eerste lid, van de wet genoemde factoren, of over de wijze waarop zij het relatieve gewicht van deze factoren bepaalt;
 
 b.een overzicht van de plaatsen van uitvoering waarop de beleggingsonderneming een aanzienlijk beroep doet om haar verplichting na te komen om alle redelijke maatregelen te nemen teneinde bij de uitvoering van orders van cliënten steeds het best mogelijke resultaat te behalen;
 
@@ -1722,55 +1735,55 @@ d. voor zover van toepassing, de bij de betalingstransactie toe te passen feitel
 
 a. de naam van de betaaldienstverlener, het adres van het hoofdkantoor en, in voorkomend geval, het adres van zijn betaaldienstagent of bijkantoor in de lidstaat waar de betaaldienst wordt aangeboden, en enig ander adres, inclusief emailadres, dat relevant is voor de communicatie met de betaaldienstverlener;  
 
-b. de gegevens betreffende de relevante toezichthouders of toezichthoudende autoriteiten en betreffende het in [artikel 1:107 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde register en gegevens aan de hand waarvan de registerinschrijving kan worden gecontroleerd;  
+b. de gegevens betreffende de relevante toezichthouders of toezichthoudende autoriteiten en betreffende het in artikel 1:107 van de wet bedoelde register en gegevens aan de hand waarvan de registerinschrijving kan worden gecontroleerd;  
 
 c. een beschrijving van de voornaamste kenmerken van de aan te bieden betaaldienst;  
 
 d. de gedetailleerde informatie of de unieke identificator die door de betaaldienstverlener wordt verstrekt opdat een betaalopdracht correct kan worden uitgevoerd;  
 
-e. de vorm waarin en de procedure volgens welke de instemming met het uitvoeren van een betalingstransactie wordt verstrekt, respectievelijk wordt ingetrokken, overeenkomstig de [artikelen 522](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [534 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+e. de vorm waarin en de procedure volgens welke de instemming met het uitvoeren van een betalingstransactie wordt verstrekt, respectievelijk wordt ingetrokken, overeenkomstig de artikelen 522 en 534 van Boek 7 van het Burgerlijk Wetboek;  
 
-f. een referentie aan het in [artikel 532 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) omschreven tijdstip van ontvangst van een betaalopdracht en aan het eventueel door de betaaldienstverlener bepaalde uiterste tijdstip;  
+f. een referentie aan het in artikel 532 van Boek 7 van het Burgerlijk Wetboek omschreven tijdstip van ontvangst van een betaalopdracht en aan het eventueel door de betaaldienstverlener bepaalde uiterste tijdstip;  
 
 g. de maximum uitvoeringstermijn voor de aangeboden betaaldiensten; en  
 
-h. de vermelding of de mogelijkheid bestaat uitgavenlimieten voor het gebruik van het betaalinstrument overeenkomstig [artikel 523, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) overeen te komen;  
+h. de vermelding of de mogelijkheid bestaat uitgavenlimieten voor het gebruik van het betaalinstrument overeenkomstig artikel 523, eerste lid, van Boek 7 van het Burgerlijk Wetboek overeen te komen;  
 
 i. alle kosten die door de betaaldienstgebruiker aan de betaaldienstverlener verschuldigd zijn en, voor zover van toepassing, de splitsing van de bedragen en eventuele kosten;  
 
 j. voor zover van toepassing, de toe te passen rentevoet en wisselkoers, of, indien de referentierentevoet en -wisselkoers te hanteren zijn, de wijze van berekening van de feitelijke interesten en de relevante datum en de index of basis voor de vaststelling van die referentierentevoet of -wisselkoers;  
 
-k. indien overeengekomen, de onmiddellijke toepassing van wijzigingen in de referentierentevoet of -wisselkoers en de informatievereisten met betrekking tot de wijzigingen overeenkomstig [artikel 517, derde en vierde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+k. indien overeengekomen, de onmiddellijke toepassing van wijzigingen in de referentierentevoet of -wisselkoers en de informatievereisten met betrekking tot de wijzigingen overeenkomstig artikel 517, derde en vierde lid, van Boek 7 van het Burgerlijk Wetboek;  
 
-l. voor zover van toepassing, de technieken voor communicatie, met inbegrip van de technische vereisten van de apparatuur van de betaaldienstgebruiker, zoals tussen de partijen voor de mededeling van informatie en kennisgevingen krachtens de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [Titel 7B van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) overeengekomen;  
+l. voor zover van toepassing, de technieken voor communicatie, met inbegrip van de technische vereisten van de apparatuur van de betaaldienstgebruiker, zoals tussen de partijen voor de mededeling van informatie en kennisgevingen krachtens de wet en Titel 7B van Boek 7 van het Burgerlijk Wetboek overeengekomen;  
 
-m. de wijze waarop en de frequentie waarmee informatie betreffende betaaldiensten krachtens de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [Titel 7B van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) ter beschikking moet worden gesteld;  
+m. de wijze waarop en de frequentie waarmee informatie betreffende betaaldiensten krachtens de wet en Titel 7B van Boek 7 van het Burgerlijk Wetboek ter beschikking moet worden gesteld;  
 
 n. de taal of talen waarin de raamovereenkomst voor betaaldiensten wordt gesloten en waarin de communicatie gedurende de looptijd van de contractuele betrekking plaatsvindt; en  
 
-o. een vermelding dat de betaaldienstgebruiker het recht heeft de contractuele voorwaarden van de raamovereenkomst voor betaaldiensten en informatie en voorwaarden overeenkomstig [artikel 516 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) te ontvangen;  
+o. een vermelding dat de betaaldienstgebruiker het recht heeft de contractuele voorwaarden van de raamovereenkomst voor betaaldiensten en informatie en voorwaarden overeenkomstig artikel 516 van Boek 7 van het Burgerlijk Wetboek te ontvangen;  
 
-p. voor zover van toepassing, een beschrijving van de maatregelen die de betaaldienstgebruiker moet nemen om de veilige bewaring van een betaalinstrument te waarborgen evenals de wijze waarop de betaaldienstverlener in kennis moet worden gesteld voor de toepassing van [artikel 524, eerste lid, onderdeel b, van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+p. voor zover van toepassing, een beschrijving van de maatregelen die de betaaldienstgebruiker moet nemen om de veilige bewaring van een betaalinstrument te waarborgen evenals de wijze waarop de betaaldienstverlener in kennis moet worden gesteld voor de toepassing van artikel 524, eerste lid, onderdeel b, van Boek 7 van het Burgerlijk Wetboek;  
 
-q. indien overeengekomen, de voorwaarden waaronder de betaaldienstverlener zich het recht voorbehoudt het gebruik van een betaalinstrument te blokkeren overeenkomstig [artikel 523 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+q. indien overeengekomen, de voorwaarden waaronder de betaaldienstverlener zich het recht voorbehoudt het gebruik van een betaalinstrument te blokkeren overeenkomstig artikel 523 van Boek 7 van het Burgerlijk Wetboek;  
 
-r. informatie over de aansprakelijkheid van de betaler overeenkomstig [artikel 529 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), onder vermelding van het relevante bedrag;  
+r. informatie over de aansprakelijkheid van de betaler overeenkomstig artikel 529 van Boek 7 van het Burgerlijk Wetboek, onder vermelding van het relevante bedrag;  
 
-s. op welke wijze en binnen welke termijn de betaaldienstgebruiker de betaaldienstverlener in kennis moet stellen van een niet-toegestane of foutief uitgevoerde betalingstransactie overeenkomstig [artikel 526 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), onder vermelding van de aansprakelijkheid van de betaaldienstverlener voor niet-toegestane betalingstransacties overeenkomstig [artikel 528 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+s. op welke wijze en binnen welke termijn de betaaldienstgebruiker de betaaldienstverlener in kennis moet stellen van een niet-toegestane of foutief uitgevoerde betalingstransactie overeenkomstig artikel 526 van Boek 7 van het Burgerlijk Wetboek, onder vermelding van de aansprakelijkheid van de betaaldienstverlener voor niet-toegestane betalingstransacties overeenkomstig artikel 528 van Boek 7 van het Burgerlijk Wetboek;  
 
-t. informatie over de aansprakelijkheid van de betaaldienstverlener voor de uitvoering van betalingstransacties overeenkomstig de [artikelen 543 tot en met 545 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md); en  
+t. informatie over de aansprakelijkheid van de betaaldienstverlener voor de uitvoering van betalingstransacties overeenkomstig de artikelen 543 tot en met 545 van Boek 7 van het Burgerlijk Wetboek; en  
 
-u. de voorwaarden voor terugbetaling overeenkomstig de [artikelen 530](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [531 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+u. de voorwaarden voor terugbetaling overeenkomstig de artikelen 530 en 531 van Boek 7 van het Burgerlijk Wetboek;  
 
-v. indien overeengekomen, de informatie dat de betaaldienstgebruiker geacht wordt overeenkomstig [artikel 517 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) wijzigingen in de voorwaarden te hebben aanvaard tenzij hij de betaaldienstverlener voor de voorgestelde datum van inwerkingtreding van die wijzigingen ervan in kennis heeft gesteld dat hij de wijzigingen niet aanvaardt;  
+v. indien overeengekomen, de informatie dat de betaaldienstgebruiker geacht wordt overeenkomstig artikel 517 van Boek 7 van het Burgerlijk Wetboek wijzigingen in de voorwaarden te hebben aanvaard tenzij hij de betaaldienstverlener voor de voorgestelde datum van inwerkingtreding van die wijzigingen ervan in kennis heeft gesteld dat hij de wijzigingen niet aanvaardt;  
 
 w. de looptijd van de raamovereenkomst voor betaaldiensten; en  
 
-x. een vermelding dat de betaaldienstgebruiker een raamovereenkomst voor betaaldiensten kan beëindigen en alle afspraken met betrekking tot beëindiging van de overeenkomst overeenkomstig de [artikelen 517, eerste lid](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en [518 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+x. een vermelding dat de betaaldienstgebruiker een raamovereenkomst voor betaaldiensten kan beëindigen en alle afspraken met betrekking tot beëindiging van de overeenkomst overeenkomstig de artikelen 517, eerste lid, en 518 van Boek 7 van het Burgerlijk Wetboek;  
 
 y. de contractuele bepalingen inzake het op de raamovereenkomst voor betaaldiensten toepasselijke recht of de ter zake bevoegde rechter; en  
 
-z. de klachtenprocedure en buitengerechtelijke geschillenbeslechting die ingevolge [artikel 4:17 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor de betaaldienstgebruiker openstaan.    
+z. de klachtenprocedure en buitengerechtelijke geschillenbeslechting die ingevolge artikel 4:17 van de wet voor de betaaldienstgebruiker openstaan.    
 
 ### Artikel  59f  
 
@@ -1824,7 +1837,7 @@ l. indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggi
 
 m.een omschrijving van de gevolgen van een verhoging of verlaging van de premie, met inbegrip van premievrijmaken, en, indien de overeenkomst in die mogelijkheid voorziet, van afkoop, en een opgave van de afkoopwaarde gedurende ten minste de eerste tien jaren van de looptijd, onder vermelding van het voor de berekening gehanteerde rendementspercentage;
 
-n. de wijze waarop de cliënt gebruik kan maken van zijn recht, bedoeld in [artikel 4:63 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), om de overeenkomst op te zeggen;  
+n. de wijze waarop de cliënt gebruik kan maken van zijn recht, bedoeld in artikel 4:63 van de wet, om de overeenkomst op te zeggen;  
 
 o. de wijze waarop de overeenkomst kan worden beëindigd en de termijn die daarbij in acht wordt genomen;  
 
@@ -1856,7 +1869,7 @@ a. zijn rechtsvorm;
 
 b. het recht dat op de overeenkomst van toepassing is, of de door de schadeverzekeraar voorgestelde rechtskeuze; en  
 
-c. de naam en het adres van de schade-afhandelaar, bedoeld in [artikel 4:71, eerste lid, onderdeel e, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
+c. de naam en het adres van de schade-afhandelaar, bedoeld in artikel 4:71, eerste lid, onderdeel e, van de wet.     
 2.  In afwijking van het eerste lid kan de in dat lid bedoelde informatie onmiddellijk na de totstandkoming van de overeenkomst worden verstrekt, of uiterlijk tegelijk met het afgeven van de polis, indien de cliënt het recht heeft zonder een boete verschuldigd te zijn en zonder opgave van redenen de overeenkomst binnen veertien kalenderdagen na de dag waarop hij de informatie heeft ontvangen te ontbinden en de cliënt is geïnformeerd over de wijze waarop hij gebruik kan maken van dat recht.  
 
 ### Artikel  62  
@@ -1883,7 +1896,7 @@ g. de overige mogelijkheden die de aanbieder heeft om de verzekerde prestatie of
 
 h. een opgave of indicatie van de afkoop- of premievrije waarde of een opgave van de wijze waarop deze waarden worden berekend;  
 
-i. de wijze waarop de cliënt gebruik kan maken van zijn recht, bedoeld in [artikel 4:63 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), om de overeenkomst op te zeggen;  
+i. de wijze waarop de cliënt gebruik kan maken van zijn recht, bedoeld in artikel 4:63 van de wet, om de overeenkomst op te zeggen;  
 
 j. de wijze waarop de overeenkomst kan worden beëindigd en de termijn die daarbij in acht wordt genomen;  
 
@@ -1893,16 +1906,16 @@ l. een opgave van de uitvaartonderneming die de uitvaart zal verzorgen, dan wel 
 
 m. de overige polisvoorwaarden, en  
 
-n. indien het een overeenkomst betreft die strekt fondsvorming als bedoeld in [artikel 4:18, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md): informatie over de wijze waarop de ingelegde gelden worden belegd.     
+n. indien het een overeenkomst betreft die strekt fondsvorming als bedoeld in artikel 4:18, tweede lid, van de wet: informatie over de wijze waarop de ingelegde gelden worden belegd.     
 2.  Indien de termijn van beëindiging, bedoeld in het eerste lid, onderdeel j, langer is dan een jaar, maakt de natura-uitvaartverzekeraar dit op een opvallende wijze uitdrukkelijk kenbaar aan de cliënt, bij gebreke waarvan een opzegtermijn van een jaar geldt ongeacht het in de overeenkomst bepaalde.   
 3.  In afwijking van het eerste lid kan de in dat lid bedoelde informatie onmiddellijk na de totstandkoming van de overeenkomst worden verstrekt, of uiterlijk tegelijk met het afgeven van de polis, indien de cliënt het recht heeft zonder een boete verschuldigd te zijn en zonder opgave van redenen de overeenkomst binnen dertig kalenderdagen na de dag waarop hij de informatie heeft ontvangen, terugwerkend tot de datum van de totstandkoming van de overeenkomst, te ontbinden en de cliënt is geïnformeerd over de wijze waarop hij gebruik kan maken van dat recht.   
-4.  Indien een natura-uitvaartverzekeraar bij de totstandkoming van een overeenkomst die strekt tot fondsvorming als bedoeld in [4:18, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in afwijking van het eerste lid, de in dat lid bedoelde informatie onmiddellijk na de totstandkoming van een overeenkomst of uiterlijk tegelijk met het afgeven van de polis verstrekt in overeenstemming met het derde lid, komt de natura-uitvaartverzekeraar met de cliënt overeen dat de eventueel na de totstandkoming van de overeenkomst opgetreden waardevermeerdering of -vermindering van de beleggingen voor rekening van de cliënt blijft, indien deze overeenkomstig het derde lid de overeenkomst, terugwerkend tot de datum van de totstandkoming van de overeenkomst, ontbindt.  
+4.  Indien een natura-uitvaartverzekeraar bij de totstandkoming van een overeenkomst die strekt tot fondsvorming als bedoeld in 4:18, tweede lid, van de wet in afwijking van het eerste lid, de in dat lid bedoelde informatie onmiddellijk na de totstandkoming van een overeenkomst of uiterlijk tegelijk met het afgeven van de polis verstrekt in overeenstemming met het derde lid, komt de natura-uitvaartverzekeraar met de cliënt overeen dat de eventueel na de totstandkoming van de overeenkomst opgetreden waardevermeerdering of -vermindering van de beleggingen voor rekening van de cliënt blijft, indien deze overeenkomstig het derde lid de overeenkomst, terugwerkend tot de datum van de totstandkoming van de overeenkomst, ontbindt.  
 
 ### §  8.1.5  
 
 ####Financiële bijsluiter en essentiële beleggersinformatie
 
-Bepalingen ter uitvoering van [artikel 4:22, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:22, eerste lid, van de wet 
 
 ### Artikel  64  
 
@@ -1974,13 +1987,13 @@ c. in welke taal de informatie, bedoeld in de onderdelen a en b, voor de deelnem
 
 ####Informatie gedurende de looptijd van een overeenkomst
 
-Bepalingen ter uitvoering van de [artikelen 4:20, derde lid, aanhef en onderdeel b, vierde en vijfde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:22, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [artikel 549 van Boek 7 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) 
+Bepalingen ter uitvoering van de artikelen 4:20, derde lid, aanhef en onderdeel b, vierde en vijfde lid, en 4:22, tweede lid, van de wet en artikel 549 van Boek 7 van het Burgerlijk Wetboek 
 
 ### Artikel  67  
 
 1.  Gedurende de looptijd van een overeenkomst inzake een beleggingsobject verstrekt de aanbieder de consument ten minste de volgende informatie: 
 
-a. een door een accountant dan wel een deskundige die ingevolge het recht van de staat waar de aanbieder zijn zetel heeft, bevoegd is de jaarrekening te onderzoeken, gecontroleerde jaarrekening, waarvan de toelichting ten minste een opsplitsing bevat van de totale verkoopkosten, de productiekosten, de beheerkosten en de administratieve kosten van de aanbieder, een opsplitsing van deze kosten per serie van beleggingsobjecten waartoe het beleggingsobject behoort, alsmede het totaal van de door consumenten ingelegde gelden in de serie van beleggingsobjecten. De opstelling van de jaarrekening geschiedt door een aanbieder met een zetel in Nederland zoveel mogelijk overeenkomstig [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of de internationale jaarrekeningstandaarden. De opstelling van de jaarrekening van een aanbieder met een zetel in een andere lidstaat geschiedt overeenkomstig de voorschriften van de richtlijn jaarrekening en van de richtlijn geconsolideerde jaarrekening of overeenkomstig de internationale jaarrekeningstandaarden. Voor de overige aanbieders geschiedt de opstelling op gelijkwaardige wijze. In de jaarrekening wordt meegedeeld overeenkomstig welke voorschriften de opstelling geschiedt;  
+a. een door een accountant dan wel een deskundige die ingevolge het recht van de staat waar de aanbieder zijn zetel heeft, bevoegd is de jaarrekening te onderzoeken, gecontroleerde jaarrekening, waarvan de toelichting ten minste een opsplitsing bevat van de totale verkoopkosten, de productiekosten, de beheerkosten en de administratieve kosten van de aanbieder, een opsplitsing van deze kosten per serie van beleggingsobjecten waartoe het beleggingsobject behoort, alsmede het totaal van de door consumenten ingelegde gelden in de serie van beleggingsobjecten. De opstelling van de jaarrekening geschiedt door een aanbieder met een zetel in Nederland zoveel mogelijk overeenkomstig Titel 9 van Boek 2 van het Burgerlijk Wetboek of de internationale jaarrekeningstandaarden. De opstelling van de jaarrekening van een aanbieder met een zetel in een andere lidstaat geschiedt overeenkomstig de voorschriften van de richtlijn jaarrekening en van de richtlijn geconsolideerde jaarrekening of overeenkomstig de internationale jaarrekeningstandaarden. Voor de overige aanbieders geschiedt de opstelling op gelijkwaardige wijze. In de jaarrekening wordt meegedeeld overeenkomstig welke voorschriften de opstelling geschiedt;  
 
 b. ten minste een maal per jaar een door een onafhankelijke deskundige in dat jaar opgestelde waardering van de serie van beleggingsobjecten waartoe het beleggingsobject behoort; en  
 
@@ -2076,7 +2089,7 @@ h.voor elke in de rapportageperiode uitgevoerde transactie, voor zover van toepa
 
 a.eenmaal per kwartaal, indien de niet-professionele belegger een verzoek daartoe heeft ingediend;
 
-b.ten minste eenmaal per jaar, indien het vijfde lid van toepassing is, tenzij het periodieke overzicht betrekking heeft op transacties in effecten als bedoeld in onderdeel c van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of in financiële instrumenten als bedoeld in de onderdelen d tot en met j van de definitie van financieel instrument in [dat artikel](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); of
+b.ten minste eenmaal per jaar, indien het vijfde lid van toepassing is, tenzij het periodieke overzicht betrekking heeft op transacties in effecten als bedoeld in onderdeel c van de definitie van effect in artikel 1:1 van de wet of in financiële instrumenten als bedoeld in de onderdelen d tot en met j van de definitie van financieel instrument in dat artikel; of
 
 c.maandelijks, indien het een overeenkomst betreft die een portefeuille met hefboomwerking toestaat. 
 5. De beleggingsonderneming wijst haar cliënten die niet-professionele belegger zijn erop dat zij het recht hebben om een verzoek als bedoeld in het vierde lid, onderdeel a, in te dienen. 
@@ -2248,13 +2261,13 @@ c. voorzover zulks niet blijkt uit een wijziging van de polisvoorwaarden: iedere
 
 ### Artikel  75  
 
-Gedurende de looptijd van een overeenkomst inzake een schadeverzekering stelt een schadeverzekeraar met zetel buiten Nederland die de branche Aansprakelijkheid Motorrijtuigen uitoefent door middel van het verrichten van diensten naar Nederland de cliënt binnen twee weken in kennis van een wijziging in de naam of het adres van de schade-afhandelaar, bedoeld in [artikel 4:71, eerste lid, onderdeel e, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
+Gedurende de looptijd van een overeenkomst inzake een schadeverzekering stelt een schadeverzekeraar met zetel buiten Nederland die de branche Aansprakelijkheid Motorrijtuigen uitoefent door middel van het verrichten van diensten naar Nederland de cliënt binnen twee weken in kennis van een wijziging in de naam of het adres van de schade-afhandelaar, bedoeld in artikel 4:71, eerste lid, onderdeel e, van de wet. 
 
 ### §  8.1.7  
 
 ####Informatieverstrekking in het kader van een overeenkomst op afstand
 
-Bepalingen ter uitvoering van [artikel 4:20, eerste lid, tweede lid, derde lid, aanhef en onderdeel b, vierde lid, en vijfde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:20, eerste lid, tweede lid, derde lid, aanhef en onderdeel b, vierde lid, en vijfde lid, van de wet 
 
 ### Artikel  77  
 
@@ -2264,7 +2277,7 @@ a. zijn naam en adres, de hoedanigheid waarin hij optreedt tegenover de consume
 
 b. de aard van zijn financiële dienstverlening;  
 
-c. voorzover [artikel 4:17 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing is: zijn interne klachtenprocedure, bedoeld in [artikel 4:17, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de erkende geschilleninstantie waarbij hij is aangesloten;  
+c. voorzover artikel 4:17 van de wet van toepassing is: zijn interne klachtenprocedure, bedoeld in artikel 4:17, eerste lid, onderdeel a, van de wet en de erkende geschilleninstantie waarbij hij is aangesloten;  
 
 d. zijn inschrijving in het door de toezichthouder gehouden register;  
 
@@ -2288,7 +2301,7 @@ m. de minimale looptijd van de overeenkomst op afstand;
 
 n. het contractuele recht op tussentijdse beëindiging van de overeenkomst op afstand en de eventuele boete verbonden aan de uitoefening van dat recht;  
 
-o. het feit dat het in [artikel 4:28, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde recht wel of niet van toepassing is, de duur van en de voorwaarden voor de uitoefening van dat recht, met inbegrip van informatie over het bedrag dat de consument gehouden kan zijn te betalen, de gevolgen van niet-uitoefening van dat recht en de wijze waarop dat recht kan worden uitgeoefend;  
+o. het feit dat het in artikel 4:28, eerste en tweede lid, van de wet bedoelde recht wel of niet van toepassing is, de duur van en de voorwaarden voor de uitoefening van dat recht, met inbegrip van informatie over het bedrag dat de consument gehouden kan zijn te betalen, de gevolgen van niet-uitoefening van dat recht en de wijze waarop dat recht kan worden uitgeoefend;  
 
 p. het bestaan van op de overeenkomst op afstand toepasselijke garantiefondsen of andere compensatieregelingen die niet vallen onder richtlijn nr. 1994/19/EG van het Europees Parlement en de Raad van de Europese Unie van 30 mei 1994 inzake de depositogarantiestelsels (PbEG L 135) en richtlijn nr. 1997/9/EG van het Europees Parlement en de Raad van de Europese Unie van 3 maart 1997 inzake de beleggerscompensatiestelsels (PbEG L 084);  
 
@@ -2327,7 +2340,7 @@ c. de totale kosten, of, wanneer de exacte kosten niet kunnen worden genoemd, de
 
 d. de omstandigheid dat de consument andere bedragen verschuldigd kan zijn die niet via de financiëledienstverlener worden betaald of door hem worden opgelegd;  
 
-e. de toepasselijkheid van het in [artikel 4:28, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde recht, de duur van en de voorwaarden voor de uitoefening van dat recht, met inbegrip van informatie over het bedrag dat de consument gehouden kan zijn te betalen, de gevolgen van niet-uitoefening van dat recht; en  
+e. de toepasselijkheid van het in artikel 4:28, eerste en tweede lid, van de wet bedoelde recht, de duur van en de voorwaarden voor de uitoefening van dat recht, met inbegrip van informatie over het bedrag dat de consument gehouden kan zijn te betalen, de gevolgen van niet-uitoefening van dat recht; en  
 
 f. de omstandigheid dat op verzoek van de consument andere informatie beschikbaar is, waarbij de aard van die informatie aan de consument wordt medegedeeld.     
 2.  Ten aanzien van consumptief krediet dat op verzoek van de consument met onmiddellijke ingang beschikbaar wordt gesteld, anders dan in de vorm van een geoorloofde debetstand waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument op verzoek of binnen een termijn van één tot drie maanden plaatsvindt, zijn de belangrijkste kenmerken, bedoeld in het eerste lid, onderdeel b, de volgende gegevens: 
@@ -2368,11 +2381,11 @@ Gedurende de looptijd van een overeenkomst op afstand verstrekt een financiëled
 
 ####Inwinnen van informatie door beleggingsondernemingen en financiëledienstverleners
 
-Bepalingen ter uitvoering van de [artikelen 4:23, derde lid, onderdelen a en b](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:24, eerste lid, vierde lid, onderdeel e, en vijfde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van de artikelen 4:23, derde lid, onderdelen a en b, 4:24, eerste lid, vierde lid, onderdeel e, en vijfde lid, van de wet 
 
 ### Artikel 80a 
 
-1. De informatie, bedoeld in [artikel 4:23, eerste lid, aanhef en onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), stelt de beleggingsonderneming in staat om vast te kunnen stellen dat een transactie waarop haar advies of beheer van een individueel vermogen betrekking heeft:
+1. De informatie, bedoeld in artikel 4:23, eerste lid, aanhef en onderdeel a, van de wet, stelt de beleggingsonderneming in staat om vast te kunnen stellen dat een transactie waarop haar advies of beheer van een individueel vermogen betrekking heeft:
 
 a.voldoet aan de beleggingsdoelstellingen van de cliënt;
 
@@ -2386,25 +2399,25 @@ c.van dien aard is dat de cliënt, gelet op diens ervaring en kennis, kan begrij
 
 ### Artikel 80b 
 
-1. Een beleggingsonderneming die zonder daarbij te adviseren een andere beleggingsdienst verleent dan het beheren van een individueel vermogen, stelt bij de beoordeling van de passendheid, bedoeld in [artikel 4:24, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), vast of de cliënt over de nodige ervaring en kennis beschikt om te begrijpen welke risico’s aan het betrokken financiële instrument en de betrokken beleggingsdienst verbonden zijn. 
+1. Een beleggingsonderneming die zonder daarbij te adviseren een andere beleggingsdienst verleent dan het beheren van een individueel vermogen, stelt bij de beoordeling van de passendheid, bedoeld in artikel 4:24, eerste lid, van de wet, vast of de cliënt over de nodige ervaring en kennis beschikt om te begrijpen welke risico’s aan het betrokken financiële instrument en de betrokken beleggingsdienst verbonden zijn. 
 2. Een beleggingsonderneming, als bedoeld in het eerste lid, die een beleggingsdienst verleent voor een professionele belegger, handelt in overeenstemming met het eerste lid, onderdeel c, indien zij ervan uitgaat dat deze cliënt over de nodige ervaring en kennis beschikt. 
 3. Indien de cliënt vóór 1 november 2007 een reeks transacties met betrekking tot financiële instrumenten heeft verricht of vóór dat tijdstip een beleggingsdienst verscheidene malen heeft afgenomen, mag de beleggingsonderneming ervan uitgaan dat de cliënt met betrekking tot dat financiële instrument of die beleggingsdienst over de ervaring en kennis, bedoeld in het eerste lid, beschikt.
 
 ### Artikel 80c 
 
-1. De informatie over de kennis en ervaring van de cliënt, bedoeld in [artikel 4:23, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voorzover deze redelijkerwijs relevant is voor een advies over financiële instrumenten of beheer van een individueel vermogen, en de informatie, bedoeld in [artikel 4:24, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is wat de hoeveelheid betreft evenredig aan het soort cliënt, de aard en omvang van de beleggingsdienst en het beoogde soort financiële instrument, de complexiteit ervan en de daarmee samenhangende risico’s, en bevat gegevens over:
+1. De informatie over de kennis en ervaring van de cliënt, bedoeld in artikel 4:23, eerste lid, onderdeel a, van de wet, voorzover deze redelijkerwijs relevant is voor een advies over financiële instrumenten of beheer van een individueel vermogen, en de informatie, bedoeld in artikel 4:24, eerste lid, van de wet, is wat de hoeveelheid betreft evenredig aan het soort cliënt, de aard en omvang van de beleggingsdienst en het beoogde soort financiële instrument, de complexiteit ervan en de daarmee samenhangende risico’s, en bevat gegevens over:
 
 a.het soort beleggingsdiensten en financiële instrumenten waarmee de cliënt vertrouwd is;
 
 b.de aard, het volume en de frequentie van de transacties in financiële instrumenten van de cliënt en de periode waarin deze zijn verricht; en
 
 c.de opleiding en het beroep of, voor zover relevant, het vroegere beroep of de vroegere beroepen van de cliënt. 
-2. Een beleggingsonderneming moedigt een cliënt niet aan om de informatie, bedoeld in [artikel 4:23, eerste lid, onderdeel a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [artikel 4:24, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) niet te verstrekken. 
-3. Een beleggingsonderneming mag vertrouwen op de door de cliënt verstrekte informatie over de in [artikel 4:23, eerste lid, onderdeel a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [artikel 4:24, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) genoemde onderwerpen, tenzij zij weet of zou moeten weten dat deze informatie gedateerd, onnauwkeurig of onvolledig is.
+2. Een beleggingsonderneming moedigt een cliënt niet aan om de informatie, bedoeld in artikel 4:23, eerste lid, onderdeel a, en artikel 4:24, eerste lid, van de wet niet te verstrekken. 
+3. Een beleggingsonderneming mag vertrouwen op de door de cliënt verstrekte informatie over de in artikel 4:23, eerste lid, onderdeel a, en artikel 4:24, eerste lid, van de wet genoemde onderwerpen, tenzij zij weet of zou moeten weten dat deze informatie gedateerd, onnauwkeurig of onvolledig is.
 
 ### Artikel 80d 
 
-Als financieel instrument in de zin van [artikel 4:24, vierde lid, onderdeel e, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) worden aangewezen financiële instrumenten, niet zijnde financiële instrumenten als bedoeld in onderdeel c van de definitie van effecten in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of financiële instrumenten als bedoeld in de onderdelen d tot en met j van de definitie van financieel instrument in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voor zover:
+Als financieel instrument in de zin van artikel 4:24, vierde lid, onderdeel e, van de wet worden aangewezen financiële instrumenten, niet zijnde financiële instrumenten als bedoeld in onderdeel c van de definitie van effecten in artikel 1:1 van de wet of financiële instrumenten als bedoeld in de onderdelen d tot en met j van de definitie van financieel instrument in artikel 1:1 van de wet, voor zover:
 
 a.er zich regelmatig een gelegenheid voordoet om deze te verkopen, te gelde te maken of anderszins te realiseren tegen voor de marktdeelnemers publiekelijk beschikbare prijzen die hetzij marktprijzen zijn, hetzij prijzen die afkomstig zijn van of gevalideerd door waarderingssystemen die onafhankelijk zijn van de uitgevende instelling of beleggingsinstelling;
 
@@ -2414,8 +2427,8 @@ c.voor het publiek informatie beschikbaar is over de kenmerken ervan die goed te
 
 ### Artikel  80e  
 
-1.  Een financiëledienstverlener die, zonder daarbij te adviseren, een betalingsbeschermer, complex product, hypothecair krediet, individuele arbeidsongeschiktheidsverzekering of een bij ministeriële regeling aan te wijzen ander financieel product aanbiedt, bemiddelt of ten aanzien van dit financieel product optreedt als gevolmachtigde agent, stelt bij de beoordeling van de passendheid, bedoeld in [artikel 4:24, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voorafgaand aan de dienstverlening vast of de consument of cliënt over voldoende kennis en ervaring beschikt om te begrijpen welke risico’s zijn verbonden aan het desbetreffende financieel product en het verlenen van de betrokken financiële dienst.   
-2.  Het inwinnen van informatie over de kennis en ervaring van de consument of cliënt, bedoeld in [artikel 4:24, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is wat de hoeveelheid betreft evenredig aan de aard van het financieel product, de complexiteit daarvan en de daarmee samenhangende risico’s. In ieder geval wordt informatie ingewonnen over: 
+1.  Een financiëledienstverlener die, zonder daarbij te adviseren, een betalingsbeschermer, complex product, hypothecair krediet, individuele arbeidsongeschiktheidsverzekering of een bij ministeriële regeling aan te wijzen ander financieel product aanbiedt, bemiddelt of ten aanzien van dit financieel product optreedt als gevolmachtigde agent, stelt bij de beoordeling van de passendheid, bedoeld in artikel 4:24, eerste lid, van de wet, voorafgaand aan de dienstverlening vast of de consument of cliënt over voldoende kennis en ervaring beschikt om te begrijpen welke risico’s zijn verbonden aan het desbetreffende financieel product en het verlenen van de betrokken financiële dienst.   
+2.  Het inwinnen van informatie over de kennis en ervaring van de consument of cliënt, bedoeld in artikel 4:24, eerste lid, van de wet, is wat de hoeveelheid betreft evenredig aan de aard van het financieel product, de complexiteit daarvan en de daarmee samenhangende risico’s. In ieder geval wordt informatie ingewonnen over: 
 
 a. de financiële producten waarmee de consument of cliënt bekend is;  
 
@@ -2424,20 +2437,20 @@ b. het inzicht van de consument of cliënt in de eigenschappen en risico’s van
 c. de mate waarin de consument of cliënt inzicht heeft in zijn eigen financiële situatie; en  
 
 d. de behoefte van de consument of cliënt aan advies over het desbetreffende financieel product.     
-3.  In de waarschuwing, bedoeld in [artikel 4:24, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wijst de financiëledienstverlener de consument of cliënt erop dat het inwinnen van advies raadzaam is.   
+3.  In de waarschuwing, bedoeld in artikel 4:24, tweede lid, van de wet wijst de financiëledienstverlener de consument of cliënt erop dat het inwinnen van advies raadzaam is.   
 4.  Een financiëledienstverlener mag vertrouwen op de door de consument of de cliënt verstrekte informatie over de in het tweede lid genoemde onderwerpen, tenzij hij weet of redelijkerwijs kan vermoeden dat deze informatie gedateerd, onnauwkeurig of onvolledig is.   
 5.  Indien meerdere financiëledienstverleners betrokken zijn bij het verlenen van de financiële dienst aan de consument of cliënt wordt de informatie, bedoeld in het eerste lid, ingewonnen door de financiëledienstverlener die rechtstreeks door de consument of cliënt is benaderd voor het verlenen van de financiële dienst.   
 6.  De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot de wijze waarop de informatie over de kennis en ervaring, bedoeld in het eerste lid, wordt ingewonnen van de consument of cliënt, de informatie, bedoeld in het tweede lid, alsmede de formulering van de waarschuwing, bedoeld in het derde lid.  
 
 ### §  8.2.2  
 
-####Bepalingen ter uitvoering van de [artikelen 4:25, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:25a, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:25b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+####Bepalingen ter uitvoering van de artikelen 4:25, eerste lid, 4:25a, eerste lid, en 4:25b van de wet
 
 ### Artikel  81  
 
 1.  Het gebruik van automatische oproepsystemen zonder menselijke tussenkomst, faxen of elektronische berichten voor het overbrengen van ongevraagde informatie aan een consument, ter bevordering van de totstandkoming van een overeenkomst op afstand, is uitsluitend toegestaan indien de consument daarvoor voorafgaand toestemming heeft verleend. Er zijn voor de consument geen kosten verbonden aan het verlenen van deze toestemming.   
 2.  Het gebruik van andere dan de in het eerste lid genoemde technieken voor communicatie op afstand voor het overbrengen van ongevraagde informatie of het doen van ongevraagde mededelingen aan een consument, ter bevordering van de totstandkoming van een overeenkomst op afstand, is toegestaan, tenzij de desbetreffende consument te kennen heeft gegeven dat hij informatie of mededelingen waarbij van deze technieken gebruik wordt gemaakt, niet wenst te ontvangen. Er zijn voor de consument geen kosten verbonden aan voorzieningen waarmee wordt voorkomen dat aan een consument ongevraagde informatie wordt overgebracht.   
-3.  Een financiële onderneming die elektronische contactgegevens voor elektronische berichten heeft verkregen in het kader van de verkoop van een financieel product of het verlenen van een financiële dienst mag deze gegevens gebruiken voor het overbrengen van informatie ter bevordering van de totstandkoming van een overeenkomst op afstand met betrekking tot eigen gelijksoortige financiële producten of financiële diensten, indien bij de verkrijging van de contactgegevens aan de consument duidelijk en uitdrukkelijk de gelegenheid is geboden om kosteloos en op gemakkelijke wijze verzet aan te tekenen tegen het gebruik van die elektronische contactgegevens, en, indien de consument hiervan geen gebruik heeft gemaakt, hem bij elke tot stand gebrachte communicatie de mogelijkheid wordt geboden om onder dezelfde voorwaarden verzet aan te tekenen tegen het verdere gebruik van zijn elektronische contactgegevens. [Artikel 41, tweede lid, van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) is van overeenkomstige toepassing.   
+3.  Een financiële onderneming die elektronische contactgegevens voor elektronische berichten heeft verkregen in het kader van de verkoop van een financieel product of het verlenen van een financiële dienst mag deze gegevens gebruiken voor het overbrengen van informatie ter bevordering van de totstandkoming van een overeenkomst op afstand met betrekking tot eigen gelijksoortige financiële producten of financiële diensten, indien bij de verkrijging van de contactgegevens aan de consument duidelijk en uitdrukkelijk de gelegenheid is geboden om kosteloos en op gemakkelijke wijze verzet aan te tekenen tegen het gebruik van die elektronische contactgegevens, en, indien de consument hiervan geen gebruik heeft gemaakt, hem bij elke tot stand gebrachte communicatie de mogelijkheid wordt geboden om onder dezelfde voorwaarden verzet aan te tekenen tegen het verdere gebruik van zijn elektronische contactgegevens. Artikel 41, tweede lid, van de Wet bescherming persoonsgegevens is van overeenkomstige toepassing.   
 4.  Bij het gebruik van elektronische berichten ter bevordering van de totstandkoming van een overeenkomst op afstand dienen telkens de volgende gegevens te worden vermeld: 
 
 a. de werkelijke identiteit van degene namens wie de communicatie wordt overgebracht, en  
@@ -2511,11 +2524,11 @@ b. provisies die noodzakelijk zijn voor het verlenen van de desbetreffende finan
 c. provisies die worden verschaft door een bemiddelaar of adviseur, niet zijnde een aanbieder of gevolmachtigde agent, aan een andere bemiddelaar of adviseur;  
 
 d. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.     
-3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op personen die ingevolge [artikel 2:104, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn vrijgesteld van [artikel 2:96, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voor zover die personen in Nederland beleggingsdiensten mogen verlenen: 
+3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op personen die ingevolge artikel 2:104, eerste lid, van de wet zijn vrijgesteld van artikel 2:96, eerste lid, van de wet voor zover die personen in Nederland beleggingsdiensten mogen verlenen: 
 
-a. als bedoeld in onderdeel a van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met betrekking tot rechten van deelneming in een beleggingsinstelling of icbe voor zover die personen in Nederland orders mogen doorgeven aan beleggingsinstellingen of icbe’s die in Nederland rechten van deelneming mogen aanbieden en aan banken en beleggingsondernemingen die in Nederland beleggingsdiensten mogen verlenen;  
+a. als bedoeld in onderdeel a van de definitie van verlenen van een beleggingsdienst in artikel 1:1 van de wet, met betrekking tot rechten van deelneming in een beleggingsinstelling of icbe voor zover die personen in Nederland orders mogen doorgeven aan beleggingsinstellingen of icbe’s die in Nederland rechten van deelneming mogen aanbieden en aan banken en beleggingsondernemingen die in Nederland beleggingsdiensten mogen verlenen;  
 
-b. als bedoeld in onderdeel d van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met betrekking tot rechten van deelneming in een beleggingsinstelling of icbe.    
+b. als bedoeld in onderdeel d van de definitie van verlenen van een beleggingsdienst in artikel 1:1 van de wet, met betrekking tot rechten van deelneming in een beleggingsinstelling of icbe.    
 
 ### Artikel  86d  
 
@@ -2651,7 +2664,7 @@ c. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis nie
 
 ####Afwikkelondernemingen
 
-Bepaling ter uitvoering van [artikel 4:26, achtste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepaling ter uitvoering van artikel 4:26, achtste lid, van de wet 
 
 ### Artikel  87a  
 
@@ -2670,7 +2683,7 @@ e. de wijze waarop zij betaaldienstverleners waarmee zij een overeenkomst heeft 
 
 a. een beschrijving van de voorgenomen wijziging, bedoeld in het eerste lid;  
 
-b. gegevens op basis waarvan de Autoriteit Financiële Markten redelijkerwijs kan beoordelen of wordt voldaan aan de [artikelen 4:76a tot en met 4:76d van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).     
+b. gegevens op basis waarvan de Autoriteit Financiële Markten redelijkerwijs kan beoordelen of wordt voldaan aan de artikelen 4:76a tot en met 4:76d van de wet.     
 3.  De afwikkelonderneming geeft geen uitvoering aan het voornemen voordat de Autoriteit Financiële Markten heeft ingestemd met de wijziging. De Autoriteit Financiële Markten neemt een besluit omtrent instemming: 
 
 a. binnen zes weken na ontvangst van de kennisgeving; of  
@@ -2681,7 +2694,7 @@ b. indien de Autoriteit Financiële Markten binnen twee weken na ontvangst van d
 
 ####Beheerders van beleggingsinstellingen en beheerders van icbe’s
 
-Bepalingen ter uitvoering van [artikel 4:26, negende lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:37c, negende lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:26, negende lid, en 4:37c, negende lid, van de wet 
 
 ### Artikel  87  
 
@@ -2689,7 +2702,7 @@ Deze paragraaf is niet van toepassing op beheerders van icbe’s met zetel in ee
 
 ### Artikel  88  
 
-1.  Een beheerder van een icbe meldt aan de Autoriteit Financiële Markten een wijziging in de gegevens die eerder door hemzelf of door een andere financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gestelde eisen met betrekking tot de betrouwbaarheid van: 
+1.  Een beheerder van een icbe meldt aan de Autoriteit Financiële Markten een wijziging in de gegevens die eerder door hemzelf of door een andere financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de wet gestelde eisen met betrekking tot de betrouwbaarheid van: 
 
 a. de personen die het beleid van de beheerder van een icbe, van een door hem beheerde maatschappij voor collectieve belegging in effecten of van een bewaarder die is verbonden aan een door hem beheerde icbe bepalen of mede bepalen; of  
 
@@ -2703,14 +2716,14 @@ b. de personen die onderdeel zijn van een orgaan dat belast is met het toezicht 
 
 ### Artikel  88b  
 
-1.  Een Nederlandse beheerder van een beleggingsinstelling meldt voorgenomen wijzigingen van de gegevens, bedoeld in [artikel 4:37c, zesde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) ten minste een maand voorafgaand aan de wijziging schriftelijk aan de Autoriteit Financiële Markten.   
+1.  Een Nederlandse beheerder van een beleggingsinstelling meldt voorgenomen wijzigingen van de gegevens, bedoeld in artikel 4:37c, zesde lid, van de wet ten minste een maand voorafgaand aan de wijziging schriftelijk aan de Autoriteit Financiële Markten.   
 2.  In afwijking van het eerste lid meldt de beheerder wijzigingen die hij niet heeft kunnen voorzien onverwijld nadat de wijziging is doorgevoerd aan de Autoriteit Financiële Markten.   
 3.  Indien de beheerder als gevolg van de voorgenomen wijziging niet meer aan de ingevolge de wet gestelde regels zou voldoen, deelt de Autoriteit Financiële Markten hem mede dat de voorgenomen wijziging niet doorgevoerd kan worden.   
 4.  De melding, bedoeld in het eerste lid, voldoet aan de ingevolge artikel 31, vijfde lid, onderdeel b, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.  
 
 ### Artikel  89  
 
-1.  Een beheerder van een icbe meldt aan de Autoriteit Financiële Markten schriftelijk het voornemen tot wijziging van het registratiedocument, bedoeld in [artikel 4:48, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), voorzover het betreft gegevens over: 
+1.  Een beheerder van een icbe meldt aan de Autoriteit Financiële Markten schriftelijk het voornemen tot wijziging van het registratiedocument, bedoeld in artikel 4:48, eerste lid, van de wet, voorzover het betreft gegevens over: 
 
 a. de activiteiten van de beheerder en de soorten icbe's die hij beheert of voornemens is te beheren, bedoeld in onderdeel 1.b. van bijlage H;  
 
@@ -2756,7 +2769,7 @@ Een beheerder van een icbe zendt een afschrift van elke met een bewaarder van ee
 
 ### Artikel  91  
 
-1.  Een beheerder van een icbe meldt een wijziging van de gegevens, bedoeld in [artikel 4:50, eerste lid, met uitzondering van de onderdelen a, d, g en i van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van een door hem beheerde icbe ten minste twee weken voorafgaand aan de wijziging schriftelijk aan de Autoriteit Financiële Markten.   
+1.  Een beheerder van een icbe meldt een wijziging van de gegevens, bedoeld in artikel 4:50, eerste lid, met uitzondering van de onderdelen a, d, g en i van de wet, van een door hem beheerde icbe ten minste twee weken voorafgaand aan de wijziging schriftelijk aan de Autoriteit Financiële Markten.   
 2.  Een beheerder van een icbe meldt een wijziging in het fondsreglement of de statuten van een door hem beheerde icbe ten minste een maand voorafgaand aan de wijziging schriftelijk aan de Autoriteit Financiële Markten.   
 3.  Een beheerder van een icbe meldt het voornemen tot vervanging van de beheerder of de bewaarder die aan de icbe is verbonden ten minste een maand tevoren schriftelijk aan de Autoriteit Financiële Markten.   
 4.  De beheerder geeft geen uitvoering aan het voornemen, bedoeld in het tweede en derde lid, voordat de Autoriteit Financiële Markten daarmee heeft ingestemd. 
@@ -2781,7 +2794,7 @@ Een beheerder van een icbe die door middel van het verrichten van diensten een i
 
 ####Beleggingsondernemingen
 
-Bepalingen ter uitvoering van [artikel 4:26, negende lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:26, negende lid, van de wet 
 
 ### Artikel  93  
 
@@ -2789,7 +2802,7 @@ Deze paragraaf is niet van toepassing op beleggingsondernemingen met zetel in ee
 
 ### Artikel  94  
 
-1.  Een beleggingsonderneming meldt aan de Autoriteit Financiële Markten een wijziging in de gegevens die eerder door haarzelf of door een andere financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gestelde eisen met betrekking tot de betrouwbaarheid van: 
+1.  Een beleggingsonderneming meldt aan de Autoriteit Financiële Markten een wijziging in de gegevens die eerder door haarzelf of door een andere financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de wet gestelde eisen met betrekking tot de betrouwbaarheid van: 
 
 a. de personen die het beleid van de beleggingsonderneming bepalen of mede bepalen; of  
 
@@ -2847,13 +2860,13 @@ b. beleggingsondernemingen die voor het beheren van een instelling voor collecti
 
 1.  Een beleggingsonderneming meldt aan de Autoriteit Financiële Markten ten minste twee weken tevoren schriftelijk een wijziging in: 
 
-a. de maatregelen, bedoeld in [artikel 4:83, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a. de maatregelen, bedoeld in artikel 4:83, tweede lid, van de wet;  
 
-b. de maatregelen, bedoeld in [artikel 4:87, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+b. de maatregelen, bedoeld in artikel 4:87, eerste en tweede lid, van de wet;  
 
-c. de onderdelen van de bedrijfsvoering met betrekking waartoe ingevolge [artikel 4:14, tweede lid, aanhef en onderdelen a en b](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), regels zijn gesteld, voorzover het een significante wijziging betreft;  
+c. de onderdelen van de bedrijfsvoering met betrekking waartoe ingevolge artikel 4:14, tweede lid, aanhef en onderdelen a en b, regels zijn gesteld, voorzover het een significante wijziging betreft;  
 
-d. de onderdelen van de bedrijfsvoering waarover ingevolge [artikel 4:14, tweede lid, aanhef en onderdeel c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), regels zijn gesteld, voorzover het een significante wijziging betreft;  
+d. de onderdelen van de bedrijfsvoering waarover ingevolge artikel 4:14, tweede lid, aanhef en onderdeel c, regels zijn gesteld, voorzover het een significante wijziging betreft;  
 
 e. de naam en het adres van het hoofdkantoor van de beleggingsonderneming, en, indien zij haar zetel niet in Nederland heeft, het adres van het bijkantoor, alsmede, in voorkomend geval, de plaats van haar zetel;  
 
@@ -2909,11 +2922,11 @@ b. de maatregelen gericht op het bevorderen en handhaven van een integere bedrij
 
 ####Collectieve vergunninghouders
 
-Bepalingen ter uitvoering van [artikel 4:26, negende lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:26, negende lid, van de wet 
 
 ### Artikel  100  
 
-Een rechtspersoon als bedoeld in [artikel 2:105, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) meldt aan de Autoriteit Financiële Markten binnen twee weken schriftelijk een wijziging in: 
+Een rechtspersoon als bedoeld in artikel 2:105, eerste lid, van de wet meldt aan de Autoriteit Financiële Markten binnen twee weken schriftelijk een wijziging in: 
 
 a. de naam en het adres van een aangesloten onderneming;  
 
@@ -2927,7 +2940,7 @@ d. indien een aangesloten onderneming is ingeschreven in het handelsregister: he
 
 ####Financiëledienstverleners
 
-Bepalingen ter uitvoering van [artikel 4:26, negende lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:26, negende lid, van de wet 
 
 ### Artikel  101  
 
@@ -2943,7 +2956,7 @@ d. herverzekeringsbemiddelaars met zetel in een andere lidstaat.
 
 ### Artikel  102  
 
-1.  Een financiëledienstverlener meldt aan de Autoriteit Financiële Markten een wijziging in de gegevens die eerder door hemzelf of een andere financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gestelde eisen met betrekking tot de betrouwbaarheid van: 
+1.  Een financiëledienstverlener meldt aan de Autoriteit Financiële Markten een wijziging in de gegevens die eerder door hemzelf of een andere financiële onderneming aan een toezichthouder zijn verstrekt ten behoeve van de beoordeling van de ingevolge de wet gestelde eisen met betrekking tot de betrouwbaarheid van: 
 
 a. de personen die het beleid van de financiëledienstverlener bepalen of mede bepalen; of  
 
@@ -2997,25 +3010,25 @@ g. indien hij een gevolmachtigde agent of ondergevolmachtigde agent is: de verze
 
 ####Verzekeraars
 
-Bepalingen ter uitvoering van [artikel 4:26, zesde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:26, zesde lid, van de wet 
 
 ### Artikel  105  
 
-Een schadeverzekeraar met zetel in Nederland die de branche Aansprakelijkheid motorrijtuigen uitoefent of een schadeverzekeraar met zetel in een staat die geen lidstaat is die de branche Aansprakelijkheid motorrijtuigen uitoefent vanuit een in Nederland gelegen bijkantoor, meldt een wijziging in de naam of het adres van een door hem in een andere lidstaat aangestelde schaderegelaar als bedoeld in [artikel 4:70, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) binnen twee weken schriftelijk aan de Autoriteit Financiële Markten. 
+Een schadeverzekeraar met zetel in Nederland die de branche Aansprakelijkheid motorrijtuigen uitoefent of een schadeverzekeraar met zetel in een staat die geen lidstaat is die de branche Aansprakelijkheid motorrijtuigen uitoefent vanuit een in Nederland gelegen bijkantoor, meldt een wijziging in de naam of het adres van een door hem in een andere lidstaat aangestelde schaderegelaar als bedoeld in artikel 4:70, tweede lid, van de wet binnen twee weken schriftelijk aan de Autoriteit Financiële Markten. 
 
 ### Artikel  106  
 
-Een schadeverzekeraar met zetel buiten Nederland die de branche Aansprakelijkheid motorrijtuigen uitoefent door middel van het verrichten van diensten naar Nederland meldt een wijziging in de akte van aanstelling van de schade-afhandelaar, bedoeld in [artikel 4:71, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) binnen twee weken schriftelijk aan de Autoriteit Financiële Markten. 
+Een schadeverzekeraar met zetel buiten Nederland die de branche Aansprakelijkheid motorrijtuigen uitoefent door middel van het verrichten van diensten naar Nederland meldt een wijziging in de akte van aanstelling van de schade-afhandelaar, bedoeld in artikel 4:71, derde lid, van de wet binnen twee weken schriftelijk aan de Autoriteit Financiële Markten. 
 
 ### Afdeling  9.2  
 
 ####Meldingsplicht accountant
 
-Bepalingen ter uitvoering van [artikel 4:27, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:27, vierde lid, van de wet 
 
 ### Artikel  107  
 
-1.  De door een accountant als bedoeld in [artikel 4:27, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) op grond van artikel 4:27, vierde lid, van de wet te verstrekken gegevens zijn: 
+1.  De door een accountant als bedoeld in artikel 4:27, tweede lid, van de wet op grond van artikel 4:27, vierde lid, van de wet te verstrekken gegevens zijn: 
 
 a. het accountantsverslag aan de bestuurders en de raad van commissarissen;  
 
@@ -3034,7 +3047,7 @@ c. correspondentie tussen de accountant en de financiële onderneming die rechts
 
 ####Instemmingsvereiste centrale tegenpartij
 
-Bepaling ter uitvoering van [artikel 4:27a, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepaling ter uitvoering van artikel 4:27a, tweede lid, van de wet 
 
 ### Artikel  108a  
 
@@ -3060,7 +3073,7 @@ c. indien de Nederlandsche Bank de Autoriteit Financiële Markten om advies heef
 
 ####Beleggingsobjecten
 
-Bepalingen ter uitvoering van [artikel 4:30a, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:30a, derde lid, van de wet 
 
 ### Artikel  109  
 
@@ -3076,7 +3089,7 @@ d. rechtspersoon waarin een bestuurder van een aanbieder van beleggingsobjecten 
 
 ### Artikel  110  
 
-1.  In het beleggingsobjectprospectus, bedoeld in [artikel 4:30a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) worden, voorzover van toepassing, de volgende gegevens opgenomen: 
+1.  In het beleggingsobjectprospectus, bedoeld in artikel 4:30a, eerste lid, van de wet worden, voorzover van toepassing, de volgende gegevens opgenomen: 
 
 a. de naam, rechtsvorm, datum van oprichting, zetel en de plaats van het hoofdkantoor van de aanbieder;  
 
@@ -3125,11 +3138,11 @@ Vervallen per 01-01-2012
 
 ####Precontractuele informatie inzake krediet
 
-Bepalingen ter uitvoering van [artikel 4:33, tweede tot en met vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:33, tweede tot en met vierde lid, van de wet 
 
 ### Artikel  111  
 
-[Artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is niet van toepassing op: 
+Artikel 4:33, eerste lid, van de wet is niet van toepassing op: 
 
 a. aanbieders van hypothecair krediet;  
 
@@ -3139,7 +3152,7 @@ c. aanbieders van krediet voorzover zij overeenkomsten inzake krediet beheren of
 
 ### Artikel  112  
 
-1.  De informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met betrekking tot andere vormen van krediet dan bedoeld in de artikelen 112a en 112b, wordt schriftelijk of op een andere duurzame drager verstrekt in de vorm van het in bijlage D bij dit besluit opgenomen formulier en bevat de in die bijlage bedoelde gegevens.   
+1.  De informatie, bedoeld in artikel 4:33, eerste lid, van de wet, met betrekking tot andere vormen van krediet dan bedoeld in de artikelen 112a en 112b, wordt schriftelijk of op een andere duurzame drager verstrekt in de vorm van het in bijlage D bij dit besluit opgenomen formulier en bevat de in die bijlage bedoelde gegevens.   
 2.  De informatie, bedoeld in het eerste lid, wordt gebaseerd op de door de consument kenbaar gemaakte voorkeur en verstrekte informatie.   
 3.  Informatie in aanvulling op de informatie, bedoeld in het eerste lid, wordt verstrekt in een afzonderlijk document.   
 4.  Indien de overeenkomst op verzoek van de consument tot stand is gekomen met gebruikmaking van een techniek voor communicatie op afstand waardoor de in het eerste lid bedoelde informatie niet op de in dat lid voorgeschreven wijze voorafgaand aan de totstandkoming van de overeenkomst kan worden verstrekt, verstrekt de aanbieder de informatie onmiddellijk na de totstandkoming van de overeenkomst aan de consument.   
@@ -3158,7 +3171,7 @@ d. de specifieke gevolgen van het krediet voor de consument, met inbegrip van de
 
 ### Artikel  112a  
 
-1.  De informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) met betrekking tot krediet in de vorm van een geoorloofde debetstand waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument op verzoek of binnen een termijn van één tot drie maanden plaatsvindt, wordt schriftelijk of op een andere duurzame drager verstrekt.   
+1.  De informatie, bedoeld in artikel 4:33, eerste lid, van de wet met betrekking tot krediet in de vorm van een geoorloofde debetstand waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument op verzoek of binnen een termijn van één tot drie maanden plaatsvindt, wordt schriftelijk of op een andere duurzame drager verstrekt.   
 2.  De informatie bevat de volgende gegevens: 
 
 a. het soort krediet;  
@@ -3179,38 +3192,38 @@ h. de voorwaarden en de procedure voor beëindiging van de overeenkomst inzake k
 
 i. de geldende rentevoet in geval de consument niet tijdig betaalt alsmede de wijzigingsmodaliteiten ervan en, in voorkomend geval, de kosten van niet-nakoming;  
 
-j. het recht van de consument op grond van [artikel 4:32 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)onverwijld en kosteloos geïnformeerd te worden over het resultaat van de raadpleging van een gegevensbestand ter beoordeling van zijn kredietwaardigheid;  
+j. het recht van de consument op grond van artikel 4:32 van de wetonverwijld en kosteloos geïnformeerd te worden over het resultaat van de raadpleging van een gegevensbestand ter beoordeling van zijn kredietwaardigheid;  
 
 k. informatie omtrent de, vanaf het moment waarop de overeenkomst tot stand is gekomen, in rekening te brengen kosten, alsmede, voor zover van toepassing, de voorwaarden waaronder deze kosten gewijzigd kunnen worden; en  
 
 l. voor zover van toepassing, de periode gedurende welke de aanbieder van het krediet door de precontractuele informatie is gebonden.     
 3.  De informatie kan worden verstrekt door gebruikmaking van het formulier, opgenomen in bijlage E van dit besluit. Alle informatie wordt even opvallend weergegeven.   
 4.  De aanbieder verstrekt aan de consument op zijn verzoek een kosteloos exemplaar van de ontwerpovereenkomst inzake krediet, tenzij de aanbieder op het tijdstip van het verzoek niet voornemens is de overeenkomst met de consument aan te gaan.   
-5.  Indien de overeenkomst op verzoek van de consument tot stand is gekomen met gebruikmaking van een techniek voor communicatie op afstand waardoor de in het eerste lid bedoelde informatie niet op de in dat lid voorgeschreven wijze voorafgaand aan de totstandkoming van de overeenkomst kan worden verstrekt, verstrekt de aanbieder, in afwijking van het eerste lid, de informatie, bedoeld in [artikel 7:61 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), onmiddellijk na de totstandkoming van de overeenkomst aan de consument.   
+5.  Indien de overeenkomst op verzoek van de consument tot stand is gekomen met gebruikmaking van een techniek voor communicatie op afstand waardoor de in het eerste lid bedoelde informatie niet op de in dat lid voorgeschreven wijze voorafgaand aan de totstandkoming van de overeenkomst kan worden verstrekt, verstrekt de aanbieder, in afwijking van het eerste lid, de informatie, bedoeld in artikel 7:61 van het Burgerlijk Wetboek, onmiddellijk na de totstandkoming van de overeenkomst aan de consument.   
 6.  Indien informatie als bedoeld in het eerste lid niet voorafgaand aan de totstandkoming van de overeenkomst op de in dat lid bedoelde wijze kan worden bepaald, wordt zij bepaald met toepassing van de desbetreffende hypothese, bedoeld in bijlage A, deel II.  
 
 ### Artikel  112b  
 
-De informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met betrekking tot effectenkrediet kan worden verstrekt door gebruikmaking van het formulier, opgenomen in bijlage F van dit besluit. De informatie bevat de in die bijlage bedoelde gegevens. Alle informatie wordt even opvallend weergegeven. 
+De informatie, bedoeld in artikel 4:33, eerste lid, van de wet, met betrekking tot effectenkrediet kan worden verstrekt door gebruikmaking van het formulier, opgenomen in bijlage F van dit besluit. De informatie bevat de in die bijlage bedoelde gegevens. Alle informatie wordt even opvallend weergegeven. 
 
 ### Artikel  112c  
 
-De informatie, bedoeld in [artikel 4:33, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), met betrekking tot krediet in de vorm van een geoorloofde debetstand waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument binnen een termijn van een maand plaatsvindt, bevat de in artikel 112a, tweede lid, onderdelen c, e, f en g, bedoelde gegevens met betrekking tot de kenmerken van het krediet. 
+De informatie, bedoeld in artikel 4:33, eerste lid, van de wet, met betrekking tot krediet in de vorm van een geoorloofde debetstand waarbij is overeengekomen dat de ter zake verschuldigde betaling van de consument binnen een termijn van een maand plaatsvindt, bevat de in artikel 112a, tweede lid, onderdelen c, e, f en g, bedoelde gegevens met betrekking tot de kenmerken van het krediet. 
 
 ### §  10.2.2  
 
 ####Verplichting tot inwinnen van informatie en ten hoogste toegelaten kredietvergoeding
 
-Bepalingen ter uitvoering van de [artikelen 4:32, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:34, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:35 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van de artikelen 4:32, tweede lid, 4:34, derde lid, en 4:35 van de wet 
 
 ### Artikel  113  
 
 1.  Een aanbieder van krediet gaat met een consument geen overeenkomst inzake krediet aan waarvan het totale kredietbedrag meer dan € 1000 bedraagt, indien hij niet beschikt over voldoende schriftelijke of op een andere duurzame drager vastgelegde informatie aangaande de financiële positie van de consument om, ter voorkoming van overkreditering, te kunnen beoordelen of het aangaan van de overeenkomst verantwoord is.   
-2.  Het eerste lid is niet van toepassing op aanbieders van krediet voorzover zij krediet aanbieden tegen onderpand van effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die tot zekerheid dienen voor de terugbetaling van het krediet aan een consument die reeds op het moment van aangaan van de overeenkomst inzake krediet bezitter is van de te verpanden effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van welk krediet het totale kredietbedrag gedurende de looptijd van de overeenkomst inzake het krediet niet hoger is dan zeventig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel a van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dan wel niet hoger is dan tachtig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en: 
+2.  Het eerste lid is niet van toepassing op aanbieders van krediet voorzover zij krediet aanbieden tegen onderpand van effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in artikel 1:1 van de wet, die tot zekerheid dienen voor de terugbetaling van het krediet aan een consument die reeds op het moment van aangaan van de overeenkomst inzake krediet bezitter is van de te verpanden effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in artikel 1:1 van de wet, van welk krediet het totale kredietbedrag gedurende de looptijd van de overeenkomst inzake het krediet niet hoger is dan zeventig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel a van de definitie van effect in artikel 1:1 van de wet, dan wel niet hoger is dan tachtig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel b van de definitie van effect in artikel 1:1 van de wet, en: 
 
-1°. die effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zijn toegelaten tot de handel op een gereglementeerde markt; of  
+1°. die effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in artikel 1:1 van de wet, zijn toegelaten tot de handel op een gereglementeerde markt; of  
 
-2°. de waarde van die effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), door middel van een openbare prijsaanduiding voor een ieder kenbaar is.     
+2°. de waarde van die effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in artikel 1:1 van de wet, door middel van een openbare prijsaanduiding voor een ieder kenbaar is.     
 3.  Het eerste lid is niet van toepassing op aanbieders van krediet voor zover zij krediet aanbieden in de vorm van een geoorloofde debetstand die binnen drie maanden dient te worden afgelost en die niet hoger is dan het bedrag dat maandelijks op de rekening wordt gestort. 
 
 ### Artikel  114  
@@ -3231,11 +3244,11 @@ Alvorens met een consument een overeenkomst inzake krediet aan te gaan waarvan h
 2°. de koopsom of aannemingsom dan wel de kosten volgens de begroting van een bouwkundig bedrijf, eventueel vermeerderd met de kosten van de grond, kosten van de bouw, inclusief de kosten voor meerwerk, bouwrente en renteverlies tijdens de bouwperiode, en de aansluiting op nutsvoorzieningen; of  
 
 3°. de marktwaarde van de woning blijkens een door een deskundig taxateur opgemaakt taxatierapport dat op het moment van aangaan van het hypothecair krediet niet ouder is dan een jaar, eventueel na verbouwing.    
-7.  In afwijking van het zesde lid, onder 3°, mag tevens worden uitgegaan van de waarde van de woning zoals laatstelijk bepaald op grond van de [Wet waardering onroerende zaken](../../../../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), indien sprake is van een aanvraag van een hypothecair krediet met betrekking tot een woning die reeds geheel of gedeeltelijk in eigendom is van de consument of met betrekking tot een woning die door erfopvolging geheel of gedeeltelijk door de consument wordt verkregen. 
+7.  In afwijking van het zesde lid, onder 3°, mag tevens worden uitgegaan van de waarde van de woning zoals laatstelijk bepaald op grond van de Wet waardering onroerende zaken, indien sprake is van een aanvraag van een hypothecair krediet met betrekking tot een woning die reeds geheel of gedeeltelijk in eigendom is van de consument of met betrekking tot een woning die door erfopvolging geheel of gedeeltelijk door de consument wordt verkregen. 
 
 ### Artikel  115a  
 
-Een aanbieder van krediet rekent geen hogere kredietvergoeding dan op grond van het [Besluit kredietvergoeding](../../../../../../../AMvB/besluit/kredietvergoeding/BWBR0005233/README.md) ten hoogste toegelaten kredietvergoeding. 
+Een aanbieder van krediet rekent geen hogere kredietvergoeding dan op grond van het Besluit kredietvergoeding ten hoogste toegelaten kredietvergoeding. 
 
 ### Afdeling  10.3  
 
@@ -3245,11 +3258,11 @@ Een aanbieder van krediet rekent geen hogere kredietvergoeding dan op grond van 
 
 ####Regels voor beheerders van beleggingsinstellingen, beleggingsinstellingen en bewaarders van beleggingsinstellingen
 
-Bepalingen ter uitvoering van [4:37c, negende lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37e, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37f, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37g, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37h, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37i, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37k, zesde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37l, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37m, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37n](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37o, zesde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:37t, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van 4:37c, negende lid, 4:37e, derde lid, 4:37f, derde lid, 4:37g, tweede lid, 4:37h, tweede lid, 4:37i, derde lid, 4:37k, zesde lid, 4:37l, vierde lid, 4:37m, tweede lid, 4:37n, 4:37o, zesde lid, 4:37t, eerste lid 
 
 ### Artikel  115b  
 
-De informatie, bedoeld in [artikel 4:37c, zesde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die voorafgaand aan het aanbieden van rechten van deelneming aan de Autoriteit Financiële Markten dient te worden verstrekt, voldoet aan de ingevolge artikel 31 van de richtlijn beheerders van alternatieve beleggingsinstellingen vastgestelde normen. 
+De informatie, bedoeld in artikel 4:37c, zesde lid, van de wet, die voorafgaand aan het aanbieden van rechten van deelneming aan de Autoriteit Financiële Markten dient te worden verstrekt, voldoet aan de ingevolge artikel 31 van de richtlijn beheerders van alternatieve beleggingsinstellingen vastgestelde normen. 
 
 ### Artikel  115c  
 
@@ -3258,21 +3271,21 @@ De informatie, bedoeld in [artikel 4:37c, zesde lid, van de wet](../../../../../
 
 ### Artikel  115d  
 
-De taken van de bewaarder van een beleggingsinstelling, bedoeld in [artikel 4:37f, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), omvatten in ieder geval de uitvoering van de ingevolge artikel 21, zevende, achtste, negende en zeventiende lid, onderdeel c, van de richtlijn beheerders van alternatieve beleggingsinstellingen bedoelde taken. 
+De taken van de bewaarder van een beleggingsinstelling, bedoeld in artikel 4:37f, derde lid, van de wet, omvatten in ieder geval de uitvoering van de ingevolge artikel 21, zevende, achtste, negende en zeventiende lid, onderdeel c, van de richtlijn beheerders van alternatieve beleggingsinstellingen bedoelde taken. 
 
 ### Artikel  115e  
 
-1.  Een overeenkomst inzake beheer en bewaring als bedoeld in [artikel 4:37f van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voldoet aan de ingevolge artikel 21, tweede, twaalfde, dertiende, veertiende, vijftiende en zeventiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.   
+1.  Een overeenkomst inzake beheer en bewaring als bedoeld in artikel 4:37f van de wet voldoet aan de ingevolge artikel 21, tweede, twaalfde, dertiende, veertiende, vijftiende en zeventiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.   
 2.  In de overeenkomst inzake beheer en bewaring wordt een beding opgenomen op grond waarvan de beleggingsinstelling of de deelnemers in de beleggingsinstelling rechtstreeks een beroep kunnen doen op de bepalingen die in de overeenkomst zijn opgenomen ingevolge de in artikel 21, twaalfde, dertiende, veertiende, vijftiende en zeventiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.  
 
 ### Artikel  115f  
 
-1.  Indien de bewaarder aansprakelijkheid geheel of gedeeltelijk uitsluit als bedoeld in [artikel 4:37g, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), worden door de bewaarder de ingevolge artikel 21, zeventiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde regels, in acht genomen.   
-2.  Indien financiële instrumenten als bedoeld in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in bewaring worden genomen in een staat die geen lidstaat is als bedoeld in [artikel 4:37g, tweede lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is de bewaarder niet aansprakelijk voor verlies van de financiële instrumenten, indien wordt voldaan aan de in artikel 21, veertiende en zeventiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen, gestelde voorwaarden.  
+1.  Indien de bewaarder aansprakelijkheid geheel of gedeeltelijk uitsluit als bedoeld in artikel 4:37g, eerste lid, van de wet, worden door de bewaarder de ingevolge artikel 21, zeventiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde regels, in acht genomen.   
+2.  Indien financiële instrumenten als bedoeld in artikel 1:1 van de wet in bewaring worden genomen in een staat die geen lidstaat is als bedoeld in artikel 4:37g, tweede lid, onderdeel a, van de wet, is de bewaarder niet aansprakelijk voor verlies van de financiële instrumenten, indien wordt voldaan aan de in artikel 21, veertiende en zeventiende lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen, gestelde voorwaarden.  
 
 ### Artikel  115g  
 
-Een entiteit die niet voldoet aan het bepaalde in [artikel 4:37h, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) kan slechts als bewaarder van de beleggingsinstellingen, bedoeld in artikel 4:37h, tweede lid, van de wet optreden indien die entiteit: 
+Een entiteit die niet voldoet aan het bepaalde in artikel 4:37h, eerste lid, van de wet kan slechts als bewaarder van de beleggingsinstellingen, bedoeld in artikel 4:37h, tweede lid, van de wet optreden indien die entiteit: 
 
 a. de taken als bewaarder verricht in het kader van haar beroeps- of bedrijfsuitoefening; en  
 
@@ -3288,11 +3301,11 @@ De waardering van de activa en de berekening van de intrinsieke waarde per recht
 
 ### Artikel  115j  
 
-Het prospectus, bedoeld in [artikel 4:37l, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat ten minste de gegevens, bedoeld in artikel 23, eerste en tweede lid, eerste volzin, van de richtlijn beheerders van alternatieve beleggingsinstellingen. 
+Het prospectus, bedoeld in artikel 4:37l, eerste lid, van de wet, bevat ten minste de gegevens, bedoeld in artikel 23, eerste en tweede lid, eerste volzin, van de richtlijn beheerders van alternatieve beleggingsinstellingen. 
 
 ### Artikel  115k  
 
-1.  De informatie, bedoeld in [artikel 4:37m, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) omvat ten minste de gegevens, bedoeld in artikel 23, tweede lid, tweede volzin, vierde en vijfde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.   
+1.  De informatie, bedoeld in artikel 4:37m, eerste lid, van de wet omvat ten minste de gegevens, bedoeld in artikel 23, tweede lid, tweede volzin, vierde en vijfde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen.   
 2.  De beheerder van een beleggingsinstelling neemt bij het verstrekken van de gegevens, bedoeld in het eerste lid de ingevolge artikel 23, zesde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen door de Europese Commissie gestelde regels in acht.  
 
 ### Artikel  115l  
@@ -3302,22 +3315,22 @@ Het prospectus, bedoeld in [artikel 4:37l, eerste lid, van de wet](../../../../.
 
 ### Artikel  115m  
 
-1.  Het jaarverslag, bedoeld in [artikel 4:37o, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat ten minste de gegevens, bedoeld in artikel 22, tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen en de in artikel 29, tweede lid, van deze richtlijn genoemde informatie.   
+1.  Het jaarverslag, bedoeld in artikel 4:37o, eerste en tweede lid, van de wet, bevat ten minste de gegevens, bedoeld in artikel 22, tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen en de in artikel 29, tweede lid, van deze richtlijn genoemde informatie.   
 2.  Het jaarverslag voldoet aan de ingevolge artikel 22, vierde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen gestelde eisen.  
 
 ### Artikel  115n  
 
-De kennisgeving, bedoeld in [artikel 4:37t, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat ten minste de gegevens, bedoeld in artikel 27, derde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen. 
+De kennisgeving, bedoeld in artikel 4:37t, eerste lid, van de wet, bevat ten minste de gegevens, bedoeld in artikel 27, derde lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen. 
 
 ### Artikel  115o  
 
-Het jaarverslag, bedoeld in [artikel 4:37u, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat de gegevens, bedoeld in artikel 29, tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen. 
+Het jaarverslag, bedoeld in artikel 4:37u, eerste lid, onderdeel a, van de wet, bevat de gegevens, bedoeld in artikel 29, tweede lid, van de richtlijn beheerders van alternatieve beleggingsinstellingen. 
 
 ### §  10.3.1.1  
 
 ####Aanvullende regels voor beheerders van beleggingsinstellingen inzake het aanbieden van rechten van deelneming aan niet-professionele beleggers
 
-Bepalingen ter uitvoering van [artikel 4:37p van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:37p van de wet 
 
 ### Artikel  115p  
 
@@ -3334,7 +3347,7 @@ b. wordt tegengegaan dat de beheerder of haar werknemers strafbare feiten of and
 c. wordt tegengegaan dat wegens haar cliënten het vertrouwen in de beheerder of in de financiële markten kan worden geschaad; en  
 
 d. wordt tegengegaan dat andere handelingen door de beheerder of haar werknemers worden verricht die op een dusdanige wijze ingaan tegen hetgeen volgens het ongeschreven recht in het maatschappelijk verkeer betaamt, dat hierdoor het vertrouwen in de beheerder of in de financiële markten ernstig kan worden geschaad.     
-2.  [Artikel 4:11, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de artikelen 17, 19 en 20 zijn van overeenkomstige toepassing.  
+2.  Artikel 4:11, vierde lid, van de wet en de artikelen 17, 19 en 20 zijn van overeenkomstige toepassing.  
 
 ### Artikel  115r  
 
@@ -3369,19 +3382,19 @@ Een beheerder behandelt deelnemers onder vergelijkbare omstandigheden op gelijke
 ### Artikel  115v  
 
 1.   Een beheerder beschikt over een website.   
-2.   De beheerder vermeldt het adres van de website in het prospectus, bedoeld in [artikel 4:37l van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), in de halfjaarcijfers, bedoeld in artikel 115y, in zijn jaarverslag en in de jaarverslagen van de door hem beheerde beleggingsinstellingen, bedoeld in [artikel 4:37o, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
+2.   De beheerder vermeldt het adres van de website in het prospectus, bedoeld in artikel 4:37l van de wet, in de halfjaarcijfers, bedoeld in artikel 115y, in zijn jaarverslag en in de jaarverslagen van de door hem beheerde beleggingsinstellingen, bedoeld in artikel 4:37o, eerste lid, van de wet.   
 3.  Telkens wanneer een beleggingsinstelling rechten van deelneming aanbiedt, verkoopt, inkoopt of daarop terugbetaalt, publiceert de beheerder de intrinsieke waarde van de rechten van deelneming onverwijld op zijn website, onder vermelding van het moment waarop de bepaling van de intrinsieke waarde plaatsvond.   
-4.  De [artikelen 4:46, tweede en vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:46a, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:49, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en artikel 50, eerste en tweede lid, zijn van overeenkomstige toepassing.  
+4.  De artikelen 4:46, tweede en vierde lid, 4:46a, tweede lid, en 4:49, eerste lid, van de wet en artikel 50, eerste en tweede lid, zijn van overeenkomstige toepassing.  
 
 ### Artikel  115w  
 
 1.  Een beheerder heeft op zijn website de voorwaarden die gelden tussen een door hem beheerde beleggingsinstelling en de deelnemers beschikbaar.   
-2.  [Artikel 4:47, tweede, derde en zesde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en artikel 116b zijn van toepassing, met dien verstande dat de informatie alleen op de website van de beheerder gepubliceerd dient te worden.   
-3.  [Artikel 4:47, vierde en vijfde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is van overeenkomstige toepassing.  
+2.  Artikel 4:47, tweede, derde en zesde lid, van de wet en artikel 116b zijn van toepassing, met dien verstande dat de informatie alleen op de website van de beheerder gepubliceerd dient te worden.   
+3.  Artikel 4:47, vierde en vijfde lid, van de wet is van overeenkomstige toepassing.  
 
 ### Artikel  115x  
 
-1.  Onverminderd [artikel 4:37l, eerste tot en met derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en artikel 115j bevat het prospectus tevens: 
+1.  Onverminderd artikel 4:37l, eerste tot en met derde lid, van de wet en artikel 115j bevat het prospectus tevens: 
 
 a. de gegevens, genoemd in bijlage I, met uitzondering van de onderdelen 1.3, 1.5, 1.6, 1.8, 3.1, 3.2, 3.3, 3.5, 4.7, 5.1, 5.3, 5.12, 5.15–5.18, 5.20, 7.1, 7.4, en 11.1.  
 
@@ -3389,25 +3402,25 @@ b. de gegevens, genoemd in bijlage I, onderdelen 3.2, 4.7 en 5.12, met dien vers
 
 c. de gegevens die voor beleggers noodzakelijk zijn om zich een oordeel te vormen over de beleggingsinstelling en de daaraan verbonden kosten en risico’s;  
 
-d. een verklaring van de beheerder dat hijzelf, de beleggingsinstelling en de eventueel daaraan verbonden bewaarder voldoen aan de bij of krachtens de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gestelde regels en dat het prospectus voldoet aan de bij of krachtens de wet gestelde regels;  
+d. een verklaring van de beheerder dat hijzelf, de beleggingsinstelling en de eventueel daaraan verbonden bewaarder voldoen aan de bij of krachtens de wet gestelde regels en dat het prospectus voldoet aan de bij of krachtens de wet gestelde regels;  
 
-e. een mededeling van een accountant, onder vermelding van zijn naam en kantooradres, dat het prospectus de ingevolge de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voorgeschreven gegevens bevat.     
-2.  De Autoriteit Financiële Markten kan verlangen dat het prospectus, bedoeld in [artikel 4:37l van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van een beheerder, in een of meer door haar te bepalen talen beschikbaar wordt gesteld indien dit, gelet op de voorgenomen verspreiding van het prospectus, noodzakelijk is voor een adequate informatieverschaffing aan het publiek.   
+e. een mededeling van een accountant, onder vermelding van zijn naam en kantooradres, dat het prospectus de ingevolge de wet voorgeschreven gegevens bevat.     
+2.  De Autoriteit Financiële Markten kan verlangen dat het prospectus, bedoeld in artikel 4:37l van de wet, van een beheerder, in een of meer door haar te bepalen talen beschikbaar wordt gesteld indien dit, gelet op de voorgenomen verspreiding van het prospectus, noodzakelijk is voor een adequate informatieverschaffing aan het publiek.   
 3.  Artikel 118, tweede en derde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  115y  
 
-1.  Een beheerder en een bewaarder verstrekken binnen zes maanden na afloop van het boekjaar aan de Autoriteit Financiële Markten de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in de [artikelen 361, eerste lid](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [391, eerste lid](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), onderscheidenlijk [392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
-2.  De beheerder en de bewaarder verstrekken de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in het eerste lid, wat de indeling en inhoud betreft onverminderd de artikelen 122 tot en met 124, in de vorm waarin deze zijn opgemaakt krachtens of de internationale jaarrekeningstandaarden of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), met uitzondering van [artikel 396, zevende lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), voor zover het de vrijstelling van de verplichting, bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), betreft en [artikel 403 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) voor zover het een beheerder betreft.   
+1.  Een beheerder en een bewaarder verstrekken binnen zes maanden na afloop van het boekjaar aan de Autoriteit Financiële Markten de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in de artikelen 361, eerste lid, 391, eerste lid, onderscheidenlijk 392, eerste lid, onderdelen a tot en met h, van Boek 2 van het Burgerlijk Wetboek.   
+2.  De beheerder en de bewaarder verstrekken de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in het eerste lid, wat de indeling en inhoud betreft onverminderd de artikelen 122 tot en met 124, in de vorm waarin deze zijn opgemaakt krachtens of de internationale jaarrekeningstandaarden of Titel 9 van Boek 2 van het Burgerlijk Wetboek, met uitzondering van artikel 396, zevende lid, van Boek 2 van het Burgerlijk Wetboek, voor zover het de vrijstelling van de verplichting, bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, betreft en artikel 403 van Boek 2 van het Burgerlijk Wetboek voor zover het een beheerder betreft.   
 3.  De beheerder maakt binnen zes maanden na afloop van het boekjaar de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in het eerste lid, openbaar door publicatie op de website van de beheerder.   
-4.  De beheerder maakt binnen zes maanden na afloop van het boekjaar een jaarrekening en een jaarverslag van de door hem beheerde beleggingsinstellingen, bedoeld in [artikel 4:37o, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), openbaar door publicatie op zijn website.   
-5.  Het jaarverslag van een beleggingsinstelling, bedoeld in [artikel 4:37o, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat een verklaring van de beheerder dat hij voor de beleggingsinstelling beschikt over een beschrijving van de inrichting van de bedrijfsvoering die voldoet aan het bepaalde ingevolge de [artikelen 3:17, tweede lid, onderdeel c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en dat de bedrijfsvoering van de beleggingsinstelling effectief en overeenkomstig de beschrijving functioneert.   
+4.  De beheerder maakt binnen zes maanden na afloop van het boekjaar een jaarrekening en een jaarverslag van de door hem beheerde beleggingsinstellingen, bedoeld in artikel 4:37o, eerste lid, van de wet, openbaar door publicatie op zijn website.   
+5.  Het jaarverslag van een beleggingsinstelling, bedoeld in artikel 4:37o, van de wet, bevat een verklaring van de beheerder dat hij voor de beleggingsinstelling beschikt over een beschrijving van de inrichting van de bedrijfsvoering die voldoet aan het bepaalde ingevolge de artikelen 3:17, tweede lid, onderdeel c, en 4:14, eerste lid, van de wet, en dat de bedrijfsvoering van de beleggingsinstelling effectief en overeenkomstig de beschrijving functioneert.   
 6.  De beheerder verstrekt binnen negen weken na afloop van de eerste helft van het boekjaar zijn halfjaarcijfers en de halfjaarcijfers van de door hem beheerde beleggingsinstellingen aan de Autoriteit Financiële Markten.   
 7.  De beheerder maakt binnen negen weken na afloop van de eerste helft van het boekjaar de halfjaarcijfers, bedoeld in het vijfde lid, openbaar door publicatie op de website van de beheerder.   
 8.  De beheerder houdt de informatie, bedoeld in het tweede, derde en zesde lid, gedurende ten minste drie jaar beschikbaar op zijn website.   
 9.  De artikelen 122 tot en met 125 zijn van overeenkomstige toepassing.   
 10.  Het eerste tot en met het negende lid is niet van toepassing op beheerders die beleggingsinstellingen beheren waarvan de rechten van deelneming zijn toegelaten tot de handel op een in Nederland gelegen of functionerende gereglementeerde markt en niet op verzoek van de deelnemers ten laste van de activa direct of indirect worden ingekocht of terugbetaald.   
-11.  Onverminderd het bepaalde in [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) kan de Autoriteit Financiële Markten op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste tot en met het negende lid, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die dit artikel beoogt te bereiken anderszins worden bereikt.  
+11.  Onverminderd het bepaalde in Titel 9 van Boek 2 van het Burgerlijk Wetboek kan de Autoriteit Financiële Markten op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het eerste tot en met het negende lid, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die dit artikel beoogt te bereiken anderszins worden bereikt.  
 
 ### Artikel  115z  
 
@@ -3446,11 +3459,11 @@ Door of namens een beleggingsinstelling worden geen transacties uitgevoerd voor 
 
 ####Regels voor beheerders van icbe’s, icbe’s en bewaarders van icbe’s
 
-Bepalingen ter uitvoering van de [artikelen 4:43, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:47, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:48, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:49, tweede lid, aanhef en onderdeel e](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:51, vijfde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:52, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:56, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:59a, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:59e, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:60, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:61, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van de artikelen 4:43, tweede lid, 4:47, tweede lid, 4:48, tweede lid, 4:49, tweede lid, aanhef en onderdeel e, 4:51, vijfde lid, en 4:52, derde lid, 4:56, eerste lid, 4:59a, derde lid, 4:59e, tweede lid, 4:60, eerste lid en 4:61, van de wet  
 
 ### Artikel  116  
 
-De tussen een beheerder van een icbe en een bewaarder van een icbe te sluiten overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bepaalt in ieder geval dat: 
+De tussen een beheerder van een icbe en een bewaarder van een icbe te sluiten overeenkomst, bedoeld in artikel 4:43, eerste lid, van de wet, bepaalt in ieder geval dat: 
 
 a. de bewaarder van een icbe bij het bewaren in het belang van de deelnemers in de icbe optreedt;  
 
@@ -3462,24 +3475,24 @@ d. indien bewijzen van rechten van deelneming worden afgegeven, deze bewijzen do
 
 e. indien de overeenkomst de activa van een icbe betreft, dat de bewaarder van een icbe: 
 
-1°. zich ervan vergewist dat het aanbieden, verkoop, inkoop en intrekking van alsmede terugbetaling op rechten van deelneming voor rekening van de icbe, overeenkomstig de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of de statuten onderscheidenlijk het fondsreglement van de icbe geschieden;  
+1°. zich ervan vergewist dat het aanbieden, verkoop, inkoop en intrekking van alsmede terugbetaling op rechten van deelneming voor rekening van de icbe, overeenkomstig de wet of de statuten onderscheidenlijk het fondsreglement van de icbe geschieden;  
 
 2°. zich ervan vergewist dat bij transacties met betrekking tot de activa van de icbe de tegenprestatie binnen de gebruikelijke termijnen wordt voldaan;  
 
-3°. zich ervan vergewist dat de opbrengsten van de icbe een bestemming krijgen in overeenstemming met de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of de statuten onderscheidenlijk het fondsreglement van de icbe;  
+3°. zich ervan vergewist dat de opbrengsten van de icbe een bestemming krijgen in overeenstemming met de wet of de statuten onderscheidenlijk het fondsreglement van de icbe;  
 
 4°. zich ervan vergewist dat de waarde van de rechten van deelneming wordt berekend overeenkomstig de wet of de statuten onderscheidenlijk het fondsreglement van de icbe; en  
 
-5°. de aanwijzingen van de beheerder van een icbe dient uit te voeren, tenzij deze in strijd zijn met de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of de statuten onderscheidenlijk het fondsreglement van de icbe.     
+5°. de aanwijzingen van de beheerder van een icbe dient uit te voeren, tenzij deze in strijd zijn met de wet of de statuten onderscheidenlijk het fondsreglement van de icbe.     
 
 ### Artikel  116a  
 
-1.  Onverminderd artikel 116 bevat de te sluiten overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tussen een beheerder van een icbe met zetel in een andere lidstaat en een bewaarder van een icbe met zetel in een andere lidstaat, tevens de gegevens, genoemd in bijlage G.   
-2.  Verplichtingen tot vertrouwelijkheid die op de beheerder van een icbe en de bewaarder van een icbe bij de overeenkomst, bedoeld in [artikel 4:43, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van toepassing zijn, beperken niet de toegang van de toezichthouders of de toezichthoudende instantie van de lidstaat van de zetel van de icbe tot relevante informatie.  
+1.  Onverminderd artikel 116 bevat de te sluiten overeenkomst, bedoeld in artikel 4:43, eerste lid, van de wet tussen een beheerder van een icbe met zetel in een andere lidstaat en een bewaarder van een icbe met zetel in een andere lidstaat, tevens de gegevens, genoemd in bijlage G.   
+2.  Verplichtingen tot vertrouwelijkheid die op de beheerder van een icbe en de bewaarder van een icbe bij de overeenkomst, bedoeld in artikel 4:43, eerste lid, van de wet van toepassing zijn, beperken niet de toegang van de toezichthouders of de toezichthoudende instantie van de lidstaat van de zetel van de icbe tot relevante informatie.  
 
 ### Artikel  116b  
 
-De advertentie en mededeling op de website van de beheerder van een icbe, bedoeld in [artikel 4:47, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevatten tenminste: 
+De advertentie en mededeling op de website van de beheerder van een icbe, bedoeld in artikel 4:47, eerste lid, van de wet, bevatten tenminste: 
 
 a. een beschrijving van de voorgestelde voorwaardenwijziging;  
 
@@ -3491,15 +3504,15 @@ d. de datum waarop de voorgestelde voorwaardenwijziging van kracht zal worden;
 
 e. een vermelding van het feit dat een ten opzichte van het voorstel ongewijzigde voorwaardenwijziging niet separaat zal worden bekendgemaakt, maar als onderdeel van de gewijzigde voorwaarden op de website beschikbaar zal zijn alsmede de datum waarop deze gewijzigde voorwaarden op de website beschikbaar zullen zijn;  
 
-f. indien van toepassing: de toepasselijkheid van [artikel 4:47, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) alsmede de datum waarop de in dat lid genoemde termijn aanvangt en eindigt.   
+f. indien van toepassing: de toepasselijkheid van artikel 4:47, vierde lid, van de wet alsmede de datum waarop de in dat lid genoemde termijn aanvangt en eindigt.   
 
 ### Artikel  117  
 
-Het registratiedocument, bedoeld in [artikel 4:48, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat ten minste de gegevens, genoemd in bijlage H. 
+Het registratiedocument, bedoeld in artikel 4:48, eerste lid, van de wet, bevat ten minste de gegevens, genoemd in bijlage H. 
 
 ### Artikel  118  
 
-1.  Onverminderd [artikel 4:49, tweede lid, aanhef en onderdelen a tot en met d, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bevat het prospectus, bedoeld in [artikel 4:49, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de gegevens, genoemd in bijlage I.   
+1.  Onverminderd artikel 4:49, tweede lid, aanhef en onderdelen a tot en met d, van de wet bevat het prospectus, bedoeld in artikel 4:49, eerste lid, van de wet, de gegevens, genoemd in bijlage I.   
 2.  In het prospectus worden in afzonderlijke paragrafen de gegevens opgenomen over: 
 
 a. de kosten van de icbe en de wijze waarop zij ten laste komen van het resultaat van de icbe, in mindering worden gebracht op het beheerde vermogen of anderszins direct of indirect ten laste komen van de deelnemers in de icbe; en  
@@ -3509,18 +3522,18 @@ b. de aan de icbe verbonden risico’s.
 
 ### Artikel  119  
 
-Een beheerder van een icbe, icbe of bewaarder van een icbe verstrekt de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 4:51, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wat de indeling en inhoud betreft, onverminderd de artikelen 121 tot en met 124 en 146, in de vorm waarin deze zijn opgemaakt krachtens [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of de internationale jaarrekeningstandaarden. 
+Een beheerder van een icbe, icbe of bewaarder van een icbe verstrekt de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in artikel 4:51, eerste lid, van de wet, wat de indeling en inhoud betreft, onverminderd de artikelen 121 tot en met 124 en 146, in de vorm waarin deze zijn opgemaakt krachtens Titel 9 van Boek 2 van het Burgerlijk Wetboek of de internationale jaarrekeningstandaarden. 
 
 ### Artikel  120  
 
-1.  Een beheerder van een icbe stelt de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 4:52, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de halfjaarcijfers, bedoeld in artikel 4:52, tweede lid, kosteloos verkrijgbaar voor deelnemers in de icbe.   
-2.  De openbaarmaking van de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 4:52, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), geschiedt door publicatie op de website van de beheerder van de icbe. Gelijktijdig met de publicatie op de website deelt de beheerder in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer, mee dat voor deelnemers op verzoek bij de beheerder een afschrift van de jaarrekening, het jaarverslag en de overige gegevens van de beheerder, de icbe of de bewaarder van een icbe voor de deelnemers in de icbe kosteloos verkrijgbaar is.   
-3.  De openbaarmaking van de halfjaarcijfers, bedoeld in [artikel 4:52, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) geschiedt overeenkomstig het tweede lid.   
+1.  Een beheerder van een icbe stelt de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in artikel 4:52, eerste lid, van de wet en de halfjaarcijfers, bedoeld in artikel 4:52, tweede lid, kosteloos verkrijgbaar voor deelnemers in de icbe.   
+2.  De openbaarmaking van de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in artikel 4:52, eerste lid, van de wet, geschiedt door publicatie op de website van de beheerder van de icbe. Gelijktijdig met de publicatie op de website deelt de beheerder in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer, mee dat voor deelnemers op verzoek bij de beheerder een afschrift van de jaarrekening, het jaarverslag en de overige gegevens van de beheerder, de icbe of de bewaarder van een icbe voor de deelnemers in de icbe kosteloos verkrijgbaar is.   
+3.  De openbaarmaking van de halfjaarcijfers, bedoeld in artikel 4:52, tweede lid, van de wet geschiedt overeenkomstig het tweede lid.   
 4.  De beheerder van een icbe houdt de informatie, bedoeld in het tweede en derde lid, gedurende ten minste drie jaar beschikbaar op zijn website.  
 
 ### Artikel  121  
 
-1.  Het jaarverslag van een icbe, bedoeld in [artikel 4:51, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat een verklaring van de beheerder van een icbe dat hij voor de icbe beschikt over een beschrijving van de inrichting van de bedrijfsvoering die voldoet aan het bepaalde ingevolge de [artikelen 3:17, tweede lid, onderdeel c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:14, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en dat de bedrijfsvoering van de icbe effectief en overeenkomstig de beschrijving functioneert.  
+1.  Het jaarverslag van een icbe, bedoeld in artikel 4:51, eerste lid, van de wet, bevat een verklaring van de beheerder van een icbe dat hij voor de icbe beschikt over een beschrijving van de inrichting van de bedrijfsvoering die voldoet aan het bepaalde ingevolge de artikelen 3:17, tweede lid, onderdeel c, en 4:14, eerste lid, van de wet, en dat de bedrijfsvoering van de icbe effectief en overeenkomstig de beschrijving functioneert.  
 
 ### Artikel  122  
 
@@ -3536,10 +3549,10 @@ d. een mededeling in hoeverre activa die geen financiële instrumenten zijn die 
 
 e. het bedrag der verplichtingen, onderscheiden naar soort aan het einde van het boekjaar, die voortvloeien uit dekkingstransacties met betrekking tot koers- en wisselkoersrisico in verband met de beleggingen, voorzover een en ander niet reeds in de balans en winst- en verliesrekening is begrepen;  
 
-f. een gespecificeerde opgave van de activa van de icbe die deelnemingen zijn in de zin van [artikel 389, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md); en  
+f. een gespecificeerde opgave van de activa van de icbe die deelnemingen zijn in de zin van artikel 389, eerste lid, van Boek 2 van het Burgerlijk Wetboek; en  
 
 g. indien de icbe 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling of icbe: de gegevens, bedoeld in de onderdelen a, b, c, d en e, met betrekking tot de andere beleggingsinstelling of icbe.     
-2.  Onverminderd [artikel 379, derde lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) vermeldt de beheerder van een icbe onder de overige gegevens, bedoeld in [artikel 4:51, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), het totale persoonlijke belang dat de bestuurders van de beheerder van een icbe of de maatschappij voor collectieve belegging in effecten bij iedere belegging van de icbe aan het begin en het einde van het boekjaar hebben gehad.  
+2.  Onverminderd artikel 379, derde lid, van Boek 2 van het Burgerlijk Wetboek vermeldt de beheerder van een icbe onder de overige gegevens, bedoeld in artikel 4:51, eerste lid, van de wet, het totale persoonlijke belang dat de bestuurders van de beheerder van een icbe of de maatschappij voor collectieve belegging in effecten bij iedere belegging van de icbe aan het begin en het einde van het boekjaar hebben gehad.  
 
 ### Artikel  123  
 
@@ -3563,7 +3576,7 @@ h. de wijze waarop de op- en afslagen zijn berekend, aan wie de op- en afslagen 
 
 i. de overige eenmalige kosten die deelnemers in de icbe betalen bij in- en uittreding, inclusief de berekeningsgrondslag;  
 
-j. een vergelijkend overzicht van de naar soort onderscheiden volgens het prospectus, bedoeld in [artikel 4:49, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), te maken kosten en de daadwerkelijk gemaakte kosten;  
+j. een vergelijkend overzicht van de naar soort onderscheiden volgens het prospectus, bedoeld in artikel 4:49, eerste lid, van de wet, te maken kosten en de daadwerkelijk gemaakte kosten;  
 
 k. de naar soort onderscheiden kosten die voortvloeien uit directe of indirecte beleggingen in andere beleggingsinstellingen of icbe’s of icbe’s;  
 
@@ -3635,7 +3648,7 @@ j. indien de icbe 85 procent of meer van het beheerde vermogen direct of indirec
 
 1.  De halfjaarcijfers van een icbe bevatten ten minste de volgende gegevens: 
 
-a. de balans en winst- en verliesrekening, alsmede een mutatieoverzicht van het eigen vermogen van de maatschappij voor collectieve belegging in effecten of van het beheerde vermogen van het fonds voor collectieve belegging in effecten met inachtneming, voorzover de aard van deze stukken dat toelaat, van de bepalingen van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of de internationale jaarrekeningstandaarden;  
+a. de balans en winst- en verliesrekening, alsmede een mutatieoverzicht van het eigen vermogen van de maatschappij voor collectieve belegging in effecten of van het beheerde vermogen van het fonds voor collectieve belegging in effecten met inachtneming, voorzover de aard van deze stukken dat toelaat, van de bepalingen van Titel 9 van Boek 2 van het Burgerlijk Wetboek of de internationale jaarrekeningstandaarden;  
 
 b. een overzicht van de samenstelling van de activa van de icbe;  
 
@@ -3644,15 +3657,15 @@ c. een opgave van de intrinsieke waarde van de icbe en het aantal uitstaande rec
 d. indien van toepassing: de vermelding, bedoeld in artikel 122, tweede lid; en  
 
 e. indien van toepassing: een mededeling dat de icbe interimdividend heeft uitgekeerd of voornemens is dat te doen.     
-2.  De halfjaarcijfers van een beheerder van een icbe bevatten ten minste de balans en winst- en verliesrekening, alsmede een mutatieoverzicht van het eigen vermogen met inachtneming, voorzover de aard van deze stukken dat toelaat, van de bepalingen van [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), met uitzondering van [artikel 403](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), of de internationale jaarrekeningstandaarden.   
-3.  Indien de halfjaarcijfers van de beheerder van een icbe of de icbe door een accountant zijn onderzocht, wordt diens verklaring gevoegd bij de stukken die ingevolge [artikel 4:51, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aan de Autoriteit Financiële Markten worden verstrekt.  
+2.  De halfjaarcijfers van een beheerder van een icbe bevatten ten minste de balans en winst- en verliesrekening, alsmede een mutatieoverzicht van het eigen vermogen met inachtneming, voorzover de aard van deze stukken dat toelaat, van de bepalingen van Titel 9 van Boek 2 van het Burgerlijk Wetboek, met uitzondering van artikel 403, of de internationale jaarrekeningstandaarden.   
+3.  Indien de halfjaarcijfers van de beheerder van een icbe of de icbe door een accountant zijn onderzocht, wordt diens verklaring gevoegd bij de stukken die ingevolge artikel 4:51, tweede lid, van de wet aan de Autoriteit Financiële Markten worden verstrekt.  
 
 ### Artikel  126  
 
-1.  [Artikel 4:56, eerste lid, eerste volzin, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is niet van toepassing op icbe’s die maatschappij voor collectieve belegging in effecten zijn waarvan de rechten van deelneming zijn toegelaten tot de notering op een gereglementeerde markt, een multilaterale handelsfaciliteit of een met een gereglementeerde markt of een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is en die uitsluitend op dat handelsplatform worden verhandeld. De statuten van de maatschappij voor collectieve belegging in effecten vermelden in dat geval de methoden voor de berekening van de intrinsieke waarde van die rechten.   
-2.  [Artikel 4:56, eerste lid, eerste volzin, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is tevens niet van toepassing op icbe’s die maatschappij voor collectieve belegging in effecten zijn waarvan de rechten van deelneming voor ten minste tachtig procent op een in de statuten vermeld handelsplatform worden verhandeld, indien: 
+1.  Artikel 4:56, eerste lid, eerste volzin, van de wet is niet van toepassing op icbe’s die maatschappij voor collectieve belegging in effecten zijn waarvan de rechten van deelneming zijn toegelaten tot de notering op een gereglementeerde markt, een multilaterale handelsfaciliteit of een met een gereglementeerde markt of een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is en die uitsluitend op dat handelsplatform worden verhandeld. De statuten van de maatschappij voor collectieve belegging in effecten vermelden in dat geval de methoden voor de berekening van de intrinsieke waarde van die rechten.   
+2.  Artikel 4:56, eerste lid, eerste volzin, van de wet is tevens niet van toepassing op icbe’s die maatschappij voor collectieve belegging in effecten zijn waarvan de rechten van deelneming voor ten minste tachtig procent op een in de statuten vermeld handelsplatform worden verhandeld, indien: 
 
-a. de belangen van de deelnemers in de maatschappij voor collectieve belegging in effecten worden beschermd op een wijze die gelijkwaardig is aan de bescherming uit hoofde van de [wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en dit besluit;  
+a. de belangen van de deelnemers in de maatschappij voor collectieve belegging in effecten worden beschermd op een wijze die gelijkwaardig is aan de bescherming uit hoofde van de wet en dit besluit;  
 
 b. de rechten van deelneming zijn toegelaten tot de notering op een handelsplatform van de lidstaat waar zij verhandeld worden;  
 
@@ -3664,7 +3677,7 @@ e. de statuten de methoden voor de berekening van de intrinsieke waarde van de r
 
 ### Artikel  126a  
 
-1.  Het beleid ter zake van het voorkomen van belangenconflicten, bedoeld in [artikel 4:59a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is gericht op het herkennen van in ieder geval de volgende situaties waarbij een beheerder van een icbe, een relevante persoon of een persoon die met de beheerder is verbonden door een zeggenschapsband: 
+1.  Het beleid ter zake van het voorkomen van belangenconflicten, bedoeld in artikel 4:59a, eerste lid, van de wet, is gericht op het herkennen van in ieder geval de volgende situaties waarbij een beheerder van een icbe, een relevante persoon of een persoon die met de beheerder is verbonden door een zeggenschapsband: 
 
 a. financieel gewin kan behalen of een financieel verlies kan vermijden ten koste van de icbe;  
 
@@ -3683,10 +3696,10 @@ b. de belangen van door hem beheerde icbe's.
 
 ### Artikel  126b  
 
-1.  Een beheerder van een icbe legt het beleid, bedoeld in [artikel 4:59a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) vast en draagt er zorg voor dit beleid te implementeren en in stand te houden. Het beleid is afgestemd op de aard, omvang en complexiteit van zijn bedrijf.   
+1.  Een beheerder van een icbe legt het beleid, bedoeld in artikel 4:59a, eerste lid, van de wet vast en draagt er zorg voor dit beleid te implementeren en in stand te houden. Het beleid is afgestemd op de aard, omvang en complexiteit van zijn bedrijf.   
 2.  Indien de beheerder deel uitmaakt van een groep, heeft het beleid ook betrekking op belangenconflicten die kunnen ontstaan als gevolg van de structuur en bedrijfsactiviteiten van andere ondernemingen die deel uitmaken van de groep.   
 3.  Het beleid omschrijft, onder verwijzing naar de werkzaamheden in verband met het beheer van icbe’s die door of in naam van de beheerder worden verricht, de omstandigheden die een belangenconflict vormen of kunnen doen ontstaan dat een wezenlijk risico met zich brengt dat de belangen van de icbe of van een of meer cliënten worden geschaad, alsmede de te volgen procedures en te nemen maatregelen voor het omgaan met een dergelijk conflict.   
-4.  Het beleid vermeldt de te volgen procedures en te nemen maatregelen voor het beheersen van een belangenconflict als bedoeld in [artikel 4:59a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  
+4.  Het beleid vermeldt de te volgen procedures en te nemen maatregelen voor het beheersen van een belangenconflict als bedoeld in artikel 4:59a, eerste lid, van de wet.  
 
 ### Artikel  126c  
 
@@ -3786,7 +3799,7 @@ b. beloningen of vergoedingen die worden verschaft door of aan een derde of dege
 
 ### Artikel  128  
 
-De statuten of het fondsreglement van een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) vermelden: 
+De statuten of het fondsreglement van een icbe als bedoeld in artikel 4:61, eerste lid, van de wet vermelden: 
 
 a. de wijze waarop de bepaling plaatsvindt van de prijs bij het aanbieden, de verkoop- of inkoopprijs, en het bedrag bij terugbetaling van de waarde van de rechten van deelneming; en  
 
@@ -3794,11 +3807,11 @@ b. de aard van de kosten die ten laste komen van het resultaat, in mindering wor
 
 ### Artikel  129  
 
-Een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die belegt in rechten van deelneming in andere beleggingsinstellingen die door haar beheerder worden beheerd of die worden beheerd door een beheerder waarmee haar beheerder in een formele of feitelijke zeggenschapsstructuur is verbonden, brengt geen kosten in rekening voor inschrijving of aflossing ten aanzien van de rechten van deelneming in die andere beleggingsinstellingen. 
+Een icbe als bedoeld in artikel 4:61, eerste lid, van de wet die belegt in rechten van deelneming in andere beleggingsinstellingen die door haar beheerder worden beheerd of die worden beheerd door een beheerder waarmee haar beheerder in een formele of feitelijke zeggenschapsstructuur is verbonden, brengt geen kosten in rekening voor inschrijving of aflossing ten aanzien van de rechten van deelneming in die andere beleggingsinstellingen. 
 
 ### Artikel  130  
 
-Het beheerde vermogen van een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt uitsluitend belegd in: 
+Het beheerde vermogen van een icbe als bedoeld in artikel 4:61, eerste lid, van de wet wordt uitsluitend belegd in: 
 
 a. effecten en geldmarktinstrumenten die zijn toegelaten tot de notering of worden verhandeld op een gereglementeerde markt of een multilaterale handelsfaciliteit;  
 
@@ -3806,7 +3819,7 @@ b. effecten en geldmarktinstrumenten die zijn toegelaten tot de notering of word
 
 c. effecten waarvan het aannemelijk is dat zij binnen een jaar na emissie zullen worden toegelaten tot de notering of ter verhandeling zullen worden aangeboden op een gereglementeerde markt, een multilaterale handelsfaciliteit of een met een gereglementeerde markt of een multilaterale handelsfaciliteit vergelijkbaar systeem uit een staat die geen lidstaat is voorzover de statuten of het fondsreglement van de icbe voorzien in belegging in deze financiële instrumenten;  
 
-d. rechten van deelneming in icbe’s voor het aanbieden waarvan op grond van [artikel 2:65 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) een vergunning is verleend of in icbe’s die overeenkomstig de richtlijn instellingen voor collectieve belegging in effecten in een andere lidstaat zijn toegelaten, indien de betreffende icbe’s volgens hun statuten of fondsreglementen niet meer dan tien procent van hun beheerde vermogen beleggen in rechten van deelneming in andere beleggingsinstellingen;  
+d. rechten van deelneming in icbe’s voor het aanbieden waarvan op grond van artikel 2:65 van de wet een vergunning is verleend of in icbe’s die overeenkomstig de richtlijn instellingen voor collectieve belegging in effecten in een andere lidstaat zijn toegelaten, indien de betreffende icbe’s volgens hun statuten of fondsreglementen niet meer dan tien procent van hun beheerde vermogen beleggen in rechten van deelneming in andere beleggingsinstellingen;  
 
 e. rechten van deelneming in beleggingsinstellingen met zetel in een aangewezen staat of in icbe’s waarop het toezicht naar het oordeel van de toezichthoudende instanties in andere lidstaten gelijkwaardig is aan de richtlijn instellingen voor collectieve belegging in effecten en ten aanzien waarvan de samenwerking tussen de toezichthouders en de toezichthoudende instanties genoegzaam is gewaarborgd, indien: 
 
@@ -3859,11 +3872,11 @@ c. worden aangehouden in accessoir liquide middelen.
 
 ### Artikel  132  
 
-Het beheerde vermogen van een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt niet belegd in edele metalen of in certificaten die deze metalen vertegenwoordigen. 
+Het beheerde vermogen van een icbe als bedoeld in artikel 4:61, eerste lid, van de wet wordt niet belegd in edele metalen of in certificaten die deze metalen vertegenwoordigen. 
 
 ### Artikel  133  
 
-1.  De icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) doet de Autoriteit Financiële Markten ten minste jaarlijks mededeling van de tot haar activa behorende soorten financiële derivaten, de onderliggende risico’s, de kwantitatieve begrenzingen en de methodes die zijn gekozen om de aan transacties in deze financiële instrumenten verbonden risico’s te ramen.   
+1.  De icbe als bedoeld in artikel 4:61, eerste lid, van de wet doet de Autoriteit Financiële Markten ten minste jaarlijks mededeling van de tot haar activa behorende soorten financiële derivaten, de onderliggende risico’s, de kwantitatieve begrenzingen en de methodes die zijn gekozen om de aan transacties in deze financiële instrumenten verbonden risico’s te ramen.   
 2.  De Autoriteit Financiële Markten evalueert de regelmatigheid en de volledigheid van de informatie, bedoeld in het eerste lid.   
 3.  Het totale risico van een icbe wordt dagelijks berekend.   
 4.  Voor de berekening van het totale risico in financiële derivaten van een feeder-icbe wordt het eigen directe risico in financiële derivaten, bedoeld in artikel 131, tweede lid, onderdeel a, van de feeder-icbe gecombineerd met: 
@@ -3878,7 +3891,7 @@ b. het potentiële totale maximumrisico in financiële derivaten dat de master-i
 
 ### Artikel  134  
 
-1.  Het beheerde vermogen van een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt tot ten hoogste tien procent belegd in effecten en geldmarktinstrumenten die zijn uitgegeven door dezelfde instelling. Een icbe belegt niet meer dan twintig procent van het beheerde vermogen in deposito’s bij één bank.   
+1.  Het beheerde vermogen van een icbe als bedoeld in artikel 4:61, eerste lid, van de wet wordt tot ten hoogste tien procent belegd in effecten en geldmarktinstrumenten die zijn uitgegeven door dezelfde instelling. Een icbe belegt niet meer dan twintig procent van het beheerde vermogen in deposito’s bij één bank.   
 2.  Het tegenpartijrisico van de icbe bij een transactie in financiële derivaten die niet op een gereglementeerde markt of een andere markt in financiële instrumenten worden verhandeld, bedraagt niet meer dan: 
 
 a. tien procent van haar vermogen wanneer de tegenpartij een bank is; of  
@@ -3896,7 +3909,7 @@ c. risico’s ten gevolge van transacties in financiële derivaten die niet op e
 
 ### Artikel  135  
 
-1.  In afwijking van artikel 134 kan het beheerde vermogen van een icbe tot ten hoogste vijfentwintig procent worden belegd in geregistreerde gedekte obligaties als bedoeld in het [Besluit prudentiële regels Wft](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) van een bepaalde uitgevende bank.   
+1.  In afwijking van artikel 134 kan het beheerde vermogen van een icbe tot ten hoogste vijfentwintig procent worden belegd in geregistreerde gedekte obligaties als bedoeld in het Besluit prudentiële regels Wft van een bepaalde uitgevende bank.   
 2.  Indien het beheerde vermogen van een icbe voor meer dan vijf procent wordt belegd in obligaties als bedoeld in het eerste lid die door één instelling zijn uitgegeven, bedraagt de totale waarde van deze beleggingen niet meer dan tachtig procent van de activa van die uitgevende instelling.  
 
 ### Artikel  136  
@@ -3932,13 +3945,13 @@ c. de index wordt op passende wijze bekendgemaakt.
 
 ### Artikel  139  
 
-1.  Het beheerde vermogen van een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt tot ten hoogste twintig procent belegd in rechten van deelneming in beleggingsinstellingen of icbe’s als bedoeld in artikel 130, onderdeel d of e, die zijn uitgegeven door dezelfde beleggingsinstelling of icbe.   
+1.  Het beheerde vermogen van een icbe als bedoeld in artikel 4:61, eerste lid, van de wet wordt tot ten hoogste twintig procent belegd in rechten van deelneming in beleggingsinstellingen of icbe’s als bedoeld in artikel 130, onderdeel d of e, die zijn uitgegeven door dezelfde beleggingsinstelling of icbe.   
 2.  De beleggingen in rechten van deelneming in beleggingsinstellingen of icbe’s als bedoeld in artikel 130, onderdeel e, bedragen in totaal niet meer dan dertig procent van het beheerde vermogen van de icbe.  
 
 ### Artikel  140  
 
-1.  Een beheerder van een icbe verwerft, voor de door hem beheerde icbe’s als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) gezamenlijk, niet meer dan twintig procent van de aandelen met stemrecht in dezelfde uitgevende instelling.   
-2.  Het beheerde vermogen van een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt niet belegd in meer dan: 
+1.  Een beheerder van een icbe verwerft, voor de door hem beheerde icbe’s als bedoeld in artikel 4:61, eerste lid, van de wet gezamenlijk, niet meer dan twintig procent van de aandelen met stemrecht in dezelfde uitgevende instelling.   
+2.  Het beheerde vermogen van een icbe als bedoeld in artikel 4:61, eerste lid, van de wet wordt niet belegd in meer dan: 
 
 a. tien procent van de aandelen zonder stemrecht van dezelfde uitgevende instelling;  
 
@@ -3971,11 +3984,11 @@ c. aandelen in het kapitaal van een dochteronderneming van de maatschappij voor 
 
 ### Artikel  144  
 
-Een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) legt binnen vier weken na een verzoek daartoe van de Autoriteit Financiële Markten, dan wel binnen vier weken na afloop van het boekjaar, een mededeling van een accountant over aan de Autoriteit Financiële Markten waaruit blijkt dat de icbe in overeenstemming heeft gehandeld met de artikelen 130 tot en met 143. 
+Een icbe als bedoeld in artikel 4:61, eerste lid, van de wet legt binnen vier weken na een verzoek daartoe van de Autoriteit Financiële Markten, dan wel binnen vier weken na afloop van het boekjaar, een mededeling van een accountant over aan de Autoriteit Financiële Markten waaruit blijkt dat de icbe in overeenstemming heeft gehandeld met de artikelen 130 tot en met 143. 
 
 ### Artikel  145  
 
-1. Gelijktijdig met de verkrijgbaarstelling van het prospectus, bedoeld in [artikel 4:50, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zendt de beheerder een afschrift van het prospectus en van de essentiële beleggersinformatie van de icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aan de Autoriteit Financiële Markten.  
+1. Gelijktijdig met de verkrijgbaarstelling van het prospectus, bedoeld in artikel 4:50, tweede lid, van de wet, zendt de beheerder een afschrift van het prospectus en van de essentiële beleggersinformatie van de icbe als bedoeld in artikel 4:61, eerste lid, van de wet aan de Autoriteit Financiële Markten.  
 2.  De beheerder van een icbe zendt wijzigingen in de essentiële beleggersinformatie aan de Autoriteit Financiële markten. 
 
 ### Artikel  146  
@@ -4015,21 +4028,21 @@ d. het bedrag van de verplichtingen onderscheiden naar soort aan het einde van h
 
 ### Artikel  147  
 
-1.  Een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) publiceert telkens wanneer zij of haar beheerder rechten van deelneming aanbiedt, verkoopt, inkoopt, of daarop terugbetaalt de koers, de verkoop- onderscheidenlijk inkoopprijs en het bedrag van de terugbetaling op de website van haar beheerder. De Autoriteit Financiële Markten kan op verzoek besluiten dat de icbe deze bekendmaking eenmaal per maand doet, indien de belangen van de deelnemers daardoor niet worden geschaad.   
+1.  Een icbe als bedoeld in artikel 4:61, eerste lid, van de wet publiceert telkens wanneer zij of haar beheerder rechten van deelneming aanbiedt, verkoopt, inkoopt, of daarop terugbetaalt de koers, de verkoop- onderscheidenlijk inkoopprijs en het bedrag van de terugbetaling op de website van haar beheerder. De Autoriteit Financiële Markten kan op verzoek besluiten dat de icbe deze bekendmaking eenmaal per maand doet, indien de belangen van de deelnemers daardoor niet worden geschaad.   
 2.  Het eerste lid is niet van toepassing op icbe’s als bedoeld in artikel 126, eerste lid.   
-3.  Onverminderd [artikel 4:46a van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) brengt een icbe als bedoeld in artikel 126 de intrinsieke waarde van de rechten van deelneming ten minste tweemaal per week ter kennis van de Autoriteit Financiële Markten en publiceert zij de intrinsieke waarde van de rechten van deelneming tweemaal per maand op de website van haar beheerder waarbij tussen elk van de tijdstippen van publicatie een periode van ten minste een week ligt.   
-4.  Een icbe als bedoeld in [artikel 4:61, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verschaft desgevraagd aan een deelnemer gegevens betreffende kwantitatieve begrenzingen die van toepassing zijn op het risicobeheer, de daartoe gekozen methodes en de recente ontwikkeling van de risico’s en rendementen van de voornaamste categorie financiële instrumenten.  
+3.  Onverminderd artikel 4:46a van de wet brengt een icbe als bedoeld in artikel 126 de intrinsieke waarde van de rechten van deelneming ten minste tweemaal per week ter kennis van de Autoriteit Financiële Markten en publiceert zij de intrinsieke waarde van de rechten van deelneming tweemaal per maand op de website van haar beheerder waarbij tussen elk van de tijdstippen van publicatie een periode van ten minste een week ligt.   
+4.  Een icbe als bedoeld in artikel 4:61, eerste lid, van de wet verschaft desgevraagd aan een deelnemer gegevens betreffende kwantitatieve begrenzingen die van toepassing zijn op het risicobeheer, de daartoe gekozen methodes en de recente ontwikkeling van de risico’s en rendementen van de voornaamste categorie financiële instrumenten.  
 
 ### §  10.3.2.1  
 
 ####Aanvullende regels voor master-icbe en feeder-icbe en de overeenkomst tussen de betrokken accountants en bewaarders
 
-Bepalingen ter uitvoering van de [artikelen 4:57a, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:57b, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:57c, vijfde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:61, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:61a, vijfde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:61b, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van de artikelen 4:57a, tweede lid, 4:57b, vierde lid, 4:57c, vijfde lid, 4:61, eerste lid, 4:61a, vijfde lid, en 4:61b, vierde lid, van de wet  
 
 ### Artikel  147a  
 
 1.  In afwijking van artikel 139, eerste lid, kan het beheerde vermogen van een icbe voor meer dan twintig procent worden belegd in een bepaalde master-icbe indien de Autoriteit Financiële Markten daarmee heeft ingestemd. De Autoriteit Financiële Markten neemt een besluit omtrent instemming binnen vijftien werkdagen na ontvangst van de aanvraag van instemming.   
-2.  De Autoriteit Financiële Markten stemt met de aanvraag in, indien de beheerder aantoont dat de feeder-icbe, haar bewaarder, haar accountant en de master-icbe zullen voldoen aan het bepaalde ingevolge de [artikelen 4:57a tot en met 4:57c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:61a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:61b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en het bepaalde in deze paragraaf.   
+2.  De Autoriteit Financiële Markten stemt met de aanvraag in, indien de beheerder aantoont dat de feeder-icbe, haar bewaarder, haar accountant en de master-icbe zullen voldoen aan het bepaalde ingevolge de artikelen 4:57a tot en met 4:57c, 4:61a en 4:61b van de wet en het bepaalde in deze paragraaf.   
 3.  De aanvraag van instemming geschiedt onder opgave van de volgende gegevens: 
 
 a. het fondsreglement of de statuten van de feeder-icbe en de master-icbe;  
@@ -4040,9 +4053,9 @@ c. de overeenkomst tot uitwisseling van informatie tussen de feeder-icbe en de m
 
 d. indien van toepassing, de aan de deelnemers te verstrekken informatie, bedoeld in artikel 147f, eerste lid;  
 
-e. indien van toepassing, de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 4:57b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tussen de bewaarder van de feeder-icbe en de bewaarder van de master-icbe;  
+e. indien van toepassing, de overeenkomst tot uitwisseling van informatie, bedoeld in artikel 4:57b van de wet tussen de bewaarder van de feeder-icbe en de bewaarder van de master-icbe;  
 
-f. indien van toepassing, de overeenkomst tot uitwisseling van informatie, bedoeld in [artikel 4:57c van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tussen de accountant van de feeder-icbe en de accountant van de master-icbe; en  
+f. indien van toepassing, de overeenkomst tot uitwisseling van informatie, bedoeld in artikel 4:57c van de wet tussen de accountant van de feeder-icbe en de accountant van de master-icbe; en  
 
 g. indien het een master-icbe met zetel in een andere lidstaat betreft: een verklaring van de toezichthoudende instantie van de lidstaat van de zetel van de master-icbe dat deze een icbe is en voldoet aan de onderdelen b en c, in de definitie van master-icbe in artikel 1 van de wet.     
 4.  De gegevens, bedoeld in het derde lid, worden verstrekt in het Nederlands of in een taal die door de Autoriteit Financiële Markten is goedgekeurd.  
@@ -4057,19 +4070,19 @@ g. indien het een master-icbe met zetel in een andere lidstaat betreft: een verk
 
 ### Artikel  147c  
 
-De overeenkomst tot uitwisseling van informatie tussen de bewaarders als bedoeld in de [artikel 4:57b, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en een overeenkomst tot uitwisseling van informatie tussen accountants als bedoeld in [artikel 4:57c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bevatten de gegevens, genoemd in bijlage J. 
+De overeenkomst tot uitwisseling van informatie tussen de bewaarders als bedoeld in de artikel 4:57b, eerste lid, van de wet en een overeenkomst tot uitwisseling van informatie tussen accountants als bedoeld in artikel 4:57c, eerste lid, van de wet bevatten de gegevens, genoemd in bijlage J. 
 
 ### Artikel  147d  
 
 1.  Indien een feeder-icbe en haar master-icbe beide hun zetel in Nederland hebben is uitsluitend het Nederlands recht van toepassing op de overeenkomst tot uitwisseling van informatie, bedoeld in artikel 147b, eerste lid.   
 2.  Indien de feeder-icbe of de master-icbe haar zetel in een andere lidstaat heeft, dan bepaalt de overeenkomst tot uitwisseling van informatie, bedoeld in artikel 147b, eerste lid, dat uitsluitend het Nederlands recht of het recht van die andere lidstaat van toepassing is op die overeenkomst.   
-3.  Het recht van de lidstaat dat op grond van het eerste of tweede lid van toepassing is op een overeenkomst tot uitwisseling van informatie is eveneens van toepassing op een overeenkomst tussen de bewaarders van de feeder-icbe en de master-icbe als bedoeld in [artikel 4:57b, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en een overeenkomst tussen de accountants van de feeder-icbe en master-icbe als bedoeld in [artikel 4:57c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).   
-4.  Indien de overeenkomst is vervangen door bedrijfsvoeringsregels als, bedoeld in artikel 147b, vierde lid, voorziet een overeenkomst tussen bewaarders als bedoeld [artikel 4:57b, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), respectievelijk tussen accountants als bedoeld in [artikel 4:57c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) erin dat het recht van de lidstaat van de zetel van de feeder-icbe of het recht van de lidstaat van de zetel van de master-icbe bij uitsluiting van toepassing is op de overeenkomst.   
-5.  De overeenkomsten, bedoeld in de [artikelen 4:57b, eerste lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:57c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en artikel 147b, eerste lid, bepalen dat de rechter van de lidstaat waarvan het recht van toepassing is op de overeenkomst, wordt aangewezen voor de kennisneming van geschillen welke naar aanleiding van de overeenkomst ontstaan of zullen ontstaan.  
+3.  Het recht van de lidstaat dat op grond van het eerste of tweede lid van toepassing is op een overeenkomst tot uitwisseling van informatie is eveneens van toepassing op een overeenkomst tussen de bewaarders van de feeder-icbe en de master-icbe als bedoeld in artikel 4:57b, eerste lid, van de wet en een overeenkomst tussen de accountants van de feeder-icbe en master-icbe als bedoeld in artikel 4:57c, eerste lid, van de wet.   
+4.  Indien de overeenkomst is vervangen door bedrijfsvoeringsregels als, bedoeld in artikel 147b, vierde lid, voorziet een overeenkomst tussen bewaarders als bedoeld artikel 4:57b, eerste lid, respectievelijk tussen accountants als bedoeld in artikel 4:57c, eerste lid, van de wet erin dat het recht van de lidstaat van de zetel van de feeder-icbe of het recht van de lidstaat van de zetel van de master-icbe bij uitsluiting van toepassing is op de overeenkomst.   
+5.  De overeenkomsten, bedoeld in de artikelen 4:57b, eerste lid, en 4:57c, eerste lid, van de wet en artikel 147b, eerste lid, bepalen dat de rechter van de lidstaat waarvan het recht van toepassing is op de overeenkomst, wordt aangewezen voor de kennisneming van geschillen welke naar aanleiding van de overeenkomst ontstaan of zullen ontstaan.  
 
 ### Artikel  147e  
 
-Een bewaarder van een master-icbe meldt aan de Autoriteit Financiële Markten in ieder geval de volgende onregelmatigheden op grond van [artikel 4:57a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md): 
+Een bewaarder van een master-icbe meldt aan de Autoriteit Financiële Markten in ieder geval de volgende onregelmatigheden op grond van artikel 4:57a, eerste lid, van de wet: 
 
 a. fouten in de berekening van de intrinsieke waarde van de master-icbe;  
 
@@ -4092,7 +4105,7 @@ b. de essentiële beleggersinformatie van de feeder-icbe en de master-icbe;
 c. de datum waarop de icbe uitvoering zal geven aan haar voornemen; en  
 
 d. een verklaring dat deelnemers binnen dertig dagen na de informatieverstrekking kunnen eisen dat hun rechten van deelneming worden ingekocht of terugbetaald.     
-2.  Indien de beheerder van een icbe een kennisgeving heeft gedaan als bedoeld in [artikel 2:123, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) verstrekt de icbe de informatie, bedoeld in het eerste lid, in de officiële taal of een van de officiële talen van de lidstaat waar zij rechten van deelneming aanbiedt, of in een taal die door de toezichthoudende instantie van de desbetreffende lidstaat is goedgekeurd.   
+2.  Indien de beheerder van een icbe een kennisgeving heeft gedaan als bedoeld in artikel 2:123, eerste lid, van de wet verstrekt de icbe de informatie, bedoeld in het eerste lid, in de officiële taal of een van de officiële talen van de lidstaat waar zij rechten van deelneming aanbiedt, of in een taal die door de toezichthoudende instantie van de desbetreffende lidstaat is goedgekeurd.   
 3.  De informatie, bedoeld in het eerste lid, wordt ten minste dertig dagen voor de datum, bedoeld in het eerste lid, onderdeel c, verstrekt.   
 4.  De icbe gaat niet over tot een belegging van meer dan twintig procent van haar beheerd vermogen in rechten van deelneming in de master-icbe voordat de termijn, bedoeld in het derde lid, is verstreken.   
 5.  De icbe brengt bij inkoop of terugbetaling van rechten van deelneming als bedoeld in het eerste lid, onderdeel d, geen andere kosten in rekening dan desinvesteringskosten.   
@@ -4140,7 +4153,7 @@ Een master-icbe brengt geen inschrijvingskosten of inkoopkosten in rekening voor
 
 ### Artikel  147p  
 
-1.  Uiterlijk twee maanden na de datum van de bekendmaking van een voornemen tot liquidatie van de master-icbe als bedoeld in [artikel 4:61a, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zendt de feeder-icbe de volgende gegevens aan de Autoriteit Financiële Markten: 
+1.  Uiterlijk twee maanden na de datum van de bekendmaking van een voornemen tot liquidatie van de master-icbe als bedoeld in artikel 4:61a, eerste lid, van de wet, zendt de feeder-icbe de volgende gegevens aan de Autoriteit Financiële Markten: 
 
 a. indien de feeder-icbe voornemens is ten minste 85 procent van haar beheerd vermogen te beleggen in rechten van deelneming in een andere master-icbe: 
 
@@ -4180,7 +4193,7 @@ b. de feeder-icbe de contanten uitsluitend herbelegd met het oog op een efficië
 
 ### Artikel  147r  
 
-1.  Binnen een maand nadat een feeder-icbe informatie met betrekking tot een voorgenomen fusie of splitsing van de master-icbe als bedoeld in [artikel 4:61b, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft ontvangen, zendt de feeder-icbe de volgende gegevens aan de Autoriteit Financiële Markten: 
+1.  Binnen een maand nadat een feeder-icbe informatie met betrekking tot een voorgenomen fusie of splitsing van de master-icbe als bedoeld in artikel 4:61b, derde lid, van de wet heeft ontvangen, zendt de feeder-icbe de volgende gegevens aan de Autoriteit Financiële Markten: 
 
 a. indien de feeder-icbe voornemens is ten minste 85 procent van haar activa te beleggen in rechten van deelneming van dezelfde master-icbe: 
 
@@ -4217,7 +4230,7 @@ b. de feeder-icbe een deelnemer wordt van een uit een splitsing voortkomende icb
 a. de master-icbe de verdwijnende icbe is en de feeder-icbe door de voorgenomen fusie een deelnemer wordt van de verkrijgende icbe; en  
 
 b. de feeder-icbe een deelnemer wordt van een uit een splitsing voortkomende icbe die materieel afwijkt van de master-icbe.     
-4.  In afwijking van het eerste lid zendt de feeder-icbe de gegevens, bedoeld in het eerste lid, uiterlijk drie maanden voor de beoogde ingangsdatum van de fusie of splitsing van de master-icbe aan de Autoriteit Financiële Markten, indien de master-icbe de informatie, bedoeld in [artikel 4:61b, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), meer dan vier maanden voor de beoogde ingangsdatum van de fusie of splitsing aan de feeder-icbe heeft verstrekt.   
+4.  In afwijking van het eerste lid zendt de feeder-icbe de gegevens, bedoeld in het eerste lid, uiterlijk drie maanden voor de beoogde ingangsdatum van de fusie of splitsing van de master-icbe aan de Autoriteit Financiële Markten, indien de master-icbe de informatie, bedoeld in artikel 4:61b, derde lid, van de wet, meer dan vier maanden voor de beoogde ingangsdatum van de fusie of splitsing aan de feeder-icbe heeft verstrekt.   
 5.  De feeder-icbe informeert haar deelnemers en de master-icbe onverwijld over haar voornemen tot liquidatie.  
 
 ### Artikel  147s  
@@ -4225,7 +4238,7 @@ b. de feeder-icbe een deelnemer wordt van een uit een splitsing voortkomende icb
 1.  De Autoriteit Financiële Markten neemt binnen vijftien werkdagen na ontvangst van alle gegevens, een besluit op een aanvraag van instemming als bedoeld in artikel 147r, eerste lid, onderdeel a, b of c.   
 2.  De feeder-icbe informeert de master-icbe over een besluit van de Autoriteit Financiële Markten als bedoeld in het eerste lid.   
 3.  De feeder-icbe neemt na ontvangst van de instemming op een aanvraag, als bedoeld in artikel 147r, eerste lid, onderdeel b, onder 1° en 2°, zo spoedig mogelijk de maatregelen om aan het bepaalde in artikel 147f te voldoen.   
-4.  Indien de Autoriteit Financiële Markten nog geen besluit heeft genomen op een aanvraag van instemming als bedoeld in artikel 147r, eerste lid, onderdeel b of c, biedt de feeder-icbe haar rechten van deelneming in de master-icbe ter inkoop of terugbetaling aan op grond van de [artikelen 4:61b, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:62h van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), op de werkdag voorafgaand aan de laatste dag waarop de feeder-icbe haar rechten van deelneming in de master-icbe ter inkoop of terugbetaling kan aanbieden.   
+4.  Indien de Autoriteit Financiële Markten nog geen besluit heeft genomen op een aanvraag van instemming als bedoeld in artikel 147r, eerste lid, onderdeel b of c, biedt de feeder-icbe haar rechten van deelneming in de master-icbe ter inkoop of terugbetaling aan op grond van de artikelen 4:61b, tweede lid, en 4:62h van de wet, op de werkdag voorafgaand aan de laatste dag waarop de feeder-icbe haar rechten van deelneming in de master-icbe ter inkoop of terugbetaling kan aanbieden.   
 5.  De feeder-icbe biedt haar rechten van deelneming in de master-icbe op grond van het vierde lid tevens aan om te zorgen dat geen afbreuk wordt gedaan aan het recht van haar deelnemers, bedoeld in artikel 147f, eerste lid, onderdeel d.   
 6.  Alvorens de feeder-icbe haar rechten van deelneming in een master-icbe op grond van het vierde lid ter inkoop of terugbetaling aanbiedt, onderzoekt zij alternatieve oplossingen die kunnen bijdragen de transactiekosten of andere negatieve effecten voor haar eigen deelnemers te vermijden of te verminderen.   
 7.  De feeder-icbe ontvangt opbrengsten van de inkoop of terugbetaling van haar rechten van deelneming in de master-icbe: 
@@ -4240,11 +4253,11 @@ b. in de vorm van een gehele of gedeeltelijk overdracht van activa in natura, in
 
 ####Fusies tussen icbe's
 
-Bepalingen ter uitvoering van de [artikelen 4:62b, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:62e, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:62g, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)  
+Bepalingen ter uitvoering van de artikelen 4:62b, derde lid, 4:62e, tweede lid, en 4:62g, vierde lid, van de wet  
 
 ### Artikel  147t  
 
-1.  De bij de kennisgeving van de voorgenomen fusie te verstrekken gegevens, bedoeld in [artikel 4:62b, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn: 
+1.  De bij de kennisgeving van de voorgenomen fusie te verstrekken gegevens, bedoeld in artikel 4:62b, derde lid, van de wet zijn: 
 
 a. het door de betrokken icbe's goedgekeurde gemeenschappelijk fusievoorstel;  
 
@@ -4257,7 +4270,7 @@ d. de informatie over de voorgenomen fusie die de betrokken icbe's aan hun deeln
 
 ### Artikel  147u  
 
-Het gemeenschappelijk fusievoorstel, bedoeld in [artikel 4:62e, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), bevat in ieder geval de volgende gegevens: 
+Het gemeenschappelijk fusievoorstel, bedoeld in artikel 4:62e, eerste lid, van de wet, bevat in ieder geval de volgende gegevens: 
 
 a. het soort fusie en de betrokken icbe's;  
 
@@ -4281,7 +4294,7 @@ Een bewaarder van een verdwijnende icbe en de bewaarder van een verkrijgende icb
 
 ### Artikel  147w  
 
-1.  De te verstrekken informatie over de voorgenomen fusie aan de deelnemers van de betrokken icbe's, bedoeld in [artikel 4:62g, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)is beknopt en in niet-technische bewoordingen opgesteld en omvat in ieder geval: 
+1.  De te verstrekken informatie over de voorgenomen fusie aan de deelnemers van de betrokken icbe's, bedoeld in artikel 4:62g, vierde lid, van de wetis beknopt en in niet-technische bewoordingen opgesteld en omvat in ieder geval: 
 
 a. de achtergrond en redenen van de voorgenomen fusie;  
 
@@ -4323,8 +4336,8 @@ g. een toelichting of de beheerder van de verdwijnende icbe voornemens is een he
 
 a. informatie over hoe zal worden omgegaan met alle nog te ontvangen inkomsten in de icbe's; en  
 
-b. informatie op welke wijze het verslag van de accountant, bedoeld in [artikel 4:62f, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), kan worden verkregen.     
-2.  Indien het gemeenschappelijk fusievoorstel een bepaling omvat betreffende een bijbetaling als bedoeld in [artikel 4:62a, onderdeel a of b](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wordt informatie verstrekt over de bijbetaling en onder meer over wanneer en op welke wijze deelnemers van de verdwijnende icbe de bijbetaling zullen ontvangen.  
+b. informatie op welke wijze het verslag van de accountant, bedoeld in artikel 4:62f, tweede lid, van de wet, kan worden verkregen.     
+2.  Indien het gemeenschappelijk fusievoorstel een bepaling omvat betreffende een bijbetaling als bedoeld in artikel 4:62a, onderdeel a of b, wordt informatie verstrekt over de bijbetaling en onder meer over wanneer en op welke wijze deelnemers van de verdwijnende icbe de bijbetaling zullen ontvangen.  
 
 ### Artikel  147z  
 
@@ -4335,7 +4348,7 @@ a. indien van toepassing de procedure op grond waarvan de algemene vergadering z
 b. nadere informatie over een voorgenomen opschorting van de verhandeling van rechten van deelneming; en  
 
 c. informatie over wanneer de fusie van kracht zal worden.     
-2.  Indien op grond van [artikel 317](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of [330 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) een besluit tot fusie wordt genomen door de algemene vergadering, bevat de informatie aan de deelnemers een aanbeveling van de beheerder of van degenen die het dagelijks beleid bepalen van de maatschappij voor collectieve belegging in effecten zonder aparte beheerder.  
+2.  Indien op grond van artikel 317 of 330 van Boek 2 van het Burgerlijk Wetboek een besluit tot fusie wordt genomen door de algemene vergadering, bevat de informatie aan de deelnemers een aanbeveling van de beheerder of van degenen die het dagelijks beleid bepalen van de maatschappij voor collectieve belegging in effecten zonder aparte beheerder.  
 
 ### Artikel  147aa  
 
@@ -4343,9 +4356,9 @@ Onverminderd de artikelen 147w, 147x, eerste lid, 147y en 147z omvat de te verst
 
 a. de termijn waarbinnen het inschrijven op of vragen om terugbetaling van rechten van deelneming in de verdwijnende icbe mogelijk blijft;  
 
-b. de termijn waarbinnen de deelnemers, die niet binnen de termijn gebruik hebben gemaakt van hun rechten op grond van [artikel 4:62h, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), hun rechten als deelnemer van de verkrijgende icbe kunnen uitoefenen; en  
+b. de termijn waarbinnen de deelnemers, die niet binnen de termijn gebruik hebben gemaakt van hun rechten op grond van artikel 4:62h, van de wet, hun rechten als deelnemer van de verkrijgende icbe kunnen uitoefenen; en  
 
-c. een toelichting dat indien een besluit tot fusie dient te worden genomen door de algemene vergadering van de verdwijnende icbe op grond van [artikel 317](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of [330van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)en het fusiebesluit met de vereiste meerderheid is genomen, de deelnemers die niet hebben gestemd, tegen het fusievoorstel hebben gestemd, of niet binnen de termijn gebruik hebben gemaakt van hun rechten op grond van [artikel 4:62h, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), deelnemers worden van de verkrijgende icbe.   
+c. een toelichting dat indien een besluit tot fusie dient te worden genomen door de algemene vergadering van de verdwijnende icbe op grond van artikel 317 of 330van Boek 2 van het Burgerlijk Wetboeken het fusiebesluit met de vereiste meerderheid is genomen, de deelnemers die niet hebben gestemd, tegen het fusievoorstel hebben gestemd, of niet binnen de termijn gebruik hebben gemaakt van hun rechten op grond van artikel 4:62h, van de wet, deelnemers worden van de verkrijgende icbe.   
 
 ### Artikel  147bb  
 
@@ -4359,23 +4372,23 @@ Indien de informatie over de voorgenomen fusie, bedoeld in artikel 147w, aan de 
 
 ### Artikel  147dd  
 
-Indien de beheerder van een verdwijnende icbe of een verkrijgende icbe op grond van de [artikelen 2:123](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [2:124a van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) rechten van deelneming in een door hem beheerde icbe aanbiedt in een andere lidstaat verstrekt de desbetreffende icbe de informatie, bedoeld in artikel 147w, aan haar deelnemers in de officiële taal van die andere lidstaat of in een door de toezichthoudende instantie van die andere lidstaat goedgekeurde taal. 
+Indien de beheerder van een verdwijnende icbe of een verkrijgende icbe op grond van de artikelen 2:123 en 2:124a van de wet rechten van deelneming in een door hem beheerde icbe aanbiedt in een andere lidstaat verstrekt de desbetreffende icbe de informatie, bedoeld in artikel 147w, aan haar deelnemers in de officiële taal van die andere lidstaat of in een door de toezichthoudende instantie van die andere lidstaat goedgekeurde taal. 
 
 ### Afdeling  10.4  
 
 ####Verzekeringen
 
-Bepalingen ter uitvoering van [artikel 4:71, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:71, vierde lid, van de wet 
 
 ### Artikel  148  
 
-1.  De aanstelling van een schade-afhandelaar als bedoeld in [artikel 4:71, eerste lid, onderdeel e, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt niet beëindigd, tenzij de beëindiging gepaard gaat met de aanstelling van een opvolger.   
+1.  De aanstelling van een schade-afhandelaar als bedoeld in artikel 4:71, eerste lid, onderdeel e, van de wet wordt niet beëindigd, tenzij de beëindiging gepaard gaat met de aanstelling van een opvolger.   
 2.  De schadeverzekeraar meldt de beëindiging van de aanstelling van de schade-afhandelaar binnen twee weken aan de Autoriteit Financiële Markten, onder overlegging van de akte van aanstelling van de opvolger van de schade-afhandelaar, waaruit diens naam, adres en bevoegdheden blijken.  
 
 ### Artikel  149  
 
-1.  De schade-afhandelaar houdt van rechtswege op schade-afhandelaar te zijn vanaf de dag van het van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, de verlening van surséance van betaling, de faillietverklaring, de ontbinding, bedoeld in [artikel 19 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), de onderbewindstelling van één of meer goederen, bedoeld in [Titel 19 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), of de ondercuratelestelling.   
-2.  De schadeverzekeraar meldt het overlijden, het van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, de surséance van betaling, de faillietverklaring, de ontbinding, bedoeld in [artikel 19 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), de onderbewindstelling van één of meer van de goederen, bedoeld in [Titel 19 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), of de ondercuratelestelling van de schade-afhandelaar binnen twee weken aan de Autoriteit Financiële Markten, onder overlegging van de akte van aanstelling van de opvolger van de schade-afhandelaar met ingang van de dag van het overlijden, het van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, de surséance van betaling, de faillietverklaring, de ontbinding, bedoeld in [artikel 19 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), de onderbewindstelling van één of meer van de goederen, bedoeld in [Titel 19 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), of de ondercuratelestelling. Uit de akte van aanstelling blijken de naam, het adres en de bevoegdheden van de opvolger van de schade-afhandelaar.  
+1.  De schade-afhandelaar houdt van rechtswege op schade-afhandelaar te zijn vanaf de dag van het van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, de verlening van surséance van betaling, de faillietverklaring, de ontbinding, bedoeld in artikel 19 van Boek 2 van het Burgerlijk Wetboek, de onderbewindstelling van één of meer goederen, bedoeld in Titel 19 van Boek 1 van het Burgerlijk Wetboek, of de ondercuratelestelling.   
+2.  De schadeverzekeraar meldt het overlijden, het van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, de surséance van betaling, de faillietverklaring, de ontbinding, bedoeld in artikel 19 van Boek 2 van het Burgerlijk Wetboek, de onderbewindstelling van één of meer van de goederen, bedoeld in Titel 19 van Boek 1 van het Burgerlijk Wetboek, of de ondercuratelestelling van de schade-afhandelaar binnen twee weken aan de Autoriteit Financiële Markten, onder overlegging van de akte van aanstelling van de opvolger van de schade-afhandelaar met ingang van de dag van het overlijden, het van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, de surséance van betaling, de faillietverklaring, de ontbinding, bedoeld in artikel 19 van Boek 2 van het Burgerlijk Wetboek, de onderbewindstelling van één of meer van de goederen, bedoeld in Titel 19 van Boek 1 van het Burgerlijk Wetboek, of de ondercuratelestelling. Uit de akte van aanstelling blijken de naam, het adres en de bevoegdheden van de opvolger van de schade-afhandelaar.  
 
 ### Hoofdstuk  11  
 
@@ -4385,19 +4398,19 @@ Bepalingen ter uitvoering van [artikel 4:71, vierde lid, van de wet](../../../..
 
 ####Krediet
 
-Bepalingen ter uitvoering van [artikel 4:74, tweede en derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:74, tweede en derde lid, van de wet 
 
 ### Artikel  152  
 
-[Artikel 4:74, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is niet van toepassing op: 
+Artikel 4:74, eerste lid, van de wet, is niet van toepassing op: 
 
 a. overeenkomsten inzake krediet waarvoor bij het aangaan hypothecaire zekerheid wordt verleend of inzake krediet waarvoor reeds hypothecaire zekerheid bestaat, indien het krediet wordt verleend tegen een voor hypothecaire kredieten van de betrokken aanbieder gebruikelijk jaarlijks kostenpercentage;  
 
-b. overeenkomsten inzake krediet, voorzover het krediet wordt aangeboden tegen onderpand van effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die tot zekerheid dienen voor de terugbetaling van het krediet aan een consument die reeds op het moment van aangaan van de overeenkomst inzake krediet bezitter is van de te verpanden effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van welk krediet het totale kredietbedrag gedurende de looptijd van de overeenkomst inzake het krediet niet hoger is dan zeventig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel a van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dan wel niet hoger is dan tachtig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en: 
+b. overeenkomsten inzake krediet, voorzover het krediet wordt aangeboden tegen onderpand van effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in artikel 1:1 van de wet, die tot zekerheid dienen voor de terugbetaling van het krediet aan een consument die reeds op het moment van aangaan van de overeenkomst inzake krediet bezitter is van de te verpanden effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in artikel 1:1 van de wet, van welk krediet het totale kredietbedrag gedurende de looptijd van de overeenkomst inzake het krediet niet hoger is dan zeventig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel a van de definitie van effect in artikel 1:1 van de wet, dan wel niet hoger is dan tachtig procent van de waarde van de te verpanden effecten, indien het effecten betreffen als bedoeld in onderdeel b van de definitie van effect in artikel 1:1 van de wet, en: 
 
-1°. die effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), zijn toegelaten tot de handel op een gereglementeerde markt; of  
+1°. die effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in artikel 1:1 van de wet, zijn toegelaten tot de handel op een gereglementeerde markt; of  
 
-2°. de waarde van die effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), door middel van een openbare prijsaanduiding voor een ieder kenbaar is.     
+2°. de waarde van die effecten als bedoeld in onderdeel a, dan wel onderdeel b van de definitie van effect in artikel 1:1 van de wet, door middel van een openbare prijsaanduiding voor een ieder kenbaar is.     
 
 ### Artikel  153  
 
@@ -4423,8 +4436,8 @@ Een bemiddelaar heeft over de periode waarin een consument ten minste twee maand
 
 ### Artikel  157  
 
-1.  Met ingang van het tijdstip waarop een aanbieder het door een consument verschuldigde vervroegd opeist in een geval als bedoeld in [artikel 33, aanhef en onderdeel c, van de Wet op het consumentenkrediet](../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md), heeft de bemiddelaar geen aanspraak meer op provisie ter zake van de desbetreffende overeenkomst.   
-2.  Met ingang van het tijdstip waarop een overeenkomst van rechtswege wordt ontbonden op grond van [artikel 41, derde lid, van de Wet op het consumentenkrediet](../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md), heeft de bemiddelaar geen aanspraak meer op provisie ter zake van de desbetreffende overeenkomst, met dien verstande dat indien de ontbinding ongedaan wordt gemaakt op grond van [artikel 42, tweede lid, van de Wet op het consumentenkrediet](../../../../../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md), hij weer aanspraak heeft opprovisie over de periode gerekend vanaf het tijdstip waarop de ontbinding ongedaan is gemaakt.  
+1.  Met ingang van het tijdstip waarop een aanbieder het door een consument verschuldigde vervroegd opeist in een geval als bedoeld in artikel 33, aanhef en onderdeel c, van de Wet op het consumentenkrediet, heeft de bemiddelaar geen aanspraak meer op provisie ter zake van de desbetreffende overeenkomst.   
+2.  Met ingang van het tijdstip waarop een overeenkomst van rechtswege wordt ontbonden op grond van artikel 41, derde lid, van de Wet op het consumentenkrediet, heeft de bemiddelaar geen aanspraak meer op provisie ter zake van de desbetreffende overeenkomst, met dien verstande dat indien de ontbinding ongedaan wordt gemaakt op grond van artikel 42, tweede lid, van de Wet op het consumentenkrediet, hij weer aanspraak heeft opprovisie over de periode gerekend vanaf het tijdstip waarop de ontbinding ongedaan is gemaakt.  
 
 ### Artikel  158  
 
@@ -4435,11 +4448,11 @@ Een bemiddelaar heeft over de periode waarin een consument ten minste twee maand
 
 ####Verzekeringen
 
-Bepalingen ter uitvoering van [artikel 4:75, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van artikel 4:75, tweede lid, van de wet 
 
 ### Artikel  159  
 
-1.  De beroepsaansprakelijkheidsverzekering, bedoeld in [artikel 4:75, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), dekt de aansprakelijkheid van de bemiddelaar wegens fouten, verzuimen of nalatigheden begaan in de uitoefening van diens beroep en voorgevallen op het grondgebied waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is.   
+1.  De beroepsaansprakelijkheidsverzekering, bedoeld in artikel 4:75, eerste lid, van de wet, dekt de aansprakelijkheid van de bemiddelaar wegens fouten, verzuimen of nalatigheden begaan in de uitoefening van diens beroep en voorgevallen op het grondgebied waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is.   
 2.  De beroepsaansprakelijkheidsverzekering wordt gesloten bij: 
 
 a. een financiële onderneming die voor het uitoefenen van het bedrijf van schadeverzekeraar een door de Nederlandsche Bank verleende vergunning heeft voor de branche Algemene aansprakelijkheid; of  
@@ -4448,7 +4461,7 @@ b. een financiële onderneming met zetel in een andere lidstaat die als schadeve
 
 ### Artikel  160  
 
-1.  Onder een vergelijkbare voorziening als bedoeld in [artikel 4:75, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) wordt verstaan een onvoorwaardelijke garantstelling voor alle verplichtingen voortvloeiend uit aansprakelijkheid van de bemiddelaar wegens fouten, verzuimen of nalatigheden, begaan in de uitoefening van diens beroep en voorgevallen op het grondgebied waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is.   
+1.  Onder een vergelijkbare voorziening als bedoeld in artikel 4:75, eerste lid, van de wet wordt verstaan een onvoorwaardelijke garantstelling voor alle verplichtingen voortvloeiend uit aansprakelijkheid van de bemiddelaar wegens fouten, verzuimen of nalatigheden, begaan in de uitoefening van diens beroep en voorgevallen op het grondgebied waarop de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is.   
 2.  De onvoorwaardelijke garantstelling wordt verstrekt door: 
 
 a. een financiële onderneming die voor het uitoefenen van het bedrijf van bank een door de Nederlandsche Bank verleende vergunning heeft;  
@@ -4461,17 +4474,17 @@ c. een bank met zetel in de Verenigde Staten van Amerika, Japan, Australië, Can
 
 ####Aanvullende regels betreffende herverzekeringsbemiddelen
 
-Bepaling ter uitvoering van [artikel 4:76, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepaling ter uitvoering van artikel 4:76, tweede lid, van de wet 
 
 ### Artikel  161  
 
-De artikelen 159 en 160 zijn van overeenkomstige toepassing op de beroepsaansprakelijkheidsverzekering en de vergelijkbare voorziening, bedoeld in [artikel 4:76, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
+De artikelen 159 en 160 zijn van overeenkomstige toepassing op de beroepsaansprakelijkheidsverzekering en de vergelijkbare voorziening, bedoeld in artikel 4:76, eerste lid, van de wet. 
 
 ### Hoofdstuk  12a  
 
 ####Aanvullende regels betreffende afwikkelondernemingen
 
-Bepalingen ter uitvoering van de [artikelen 4:76a, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:76b, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:76c, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:76d, tweede lid van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van de artikelen 4:76a, tweede lid, 4:76b, derde lid, 4:76c, tweede lid, en 4:76d, tweede lid van de wet 
 
 ### Artikel  161a  
 
@@ -4481,7 +4494,7 @@ Bepalingen ter uitvoering van de [artikelen 4:76a, tweede lid](../../../../../..
 
 ### Artikel  161b  
 
-Ten behoeve van het tijdig en efficiënt verlenen van diensten, bedoeld in [artikel 4:76b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), heeft een afwikkelonderneming duidelijk omschreven doelen die meetbaar en haalbaar zijn met betrekking tot een minimaal dienstenniveau, risicobeheersingsverwachtingen en zakelijke prioriteiten. 
+Ten behoeve van het tijdig en efficiënt verlenen van diensten, bedoeld in artikel 4:76b van de wet, heeft een afwikkelonderneming duidelijk omschreven doelen die meetbaar en haalbaar zijn met betrekking tot een minimaal dienstenniveau, risicobeheersingsverwachtingen en zakelijke prioriteiten. 
 
 ### Artikel  161c  
 
@@ -4489,7 +4502,7 @@ De afwikkelonderneming maakt gebruik van communicatieprocedures die een effectie
 
 ### Artikel  161d  
 
-Het inzicht, bedoeld in [artikel 4:76d, eerste lid, van de we](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)t dat een afwikkelonderneming biedt in de financiële risico’s en de kosten die zijn verbonden aan afwikkeldiensten, heeft betrekking op tarieven en basisgegevens over transactievolumes- en waarden en omvat een beschrijving van het gebruikte systeem. 
+Het inzicht, bedoeld in artikel 4:76d, eerste lid, van de wet dat een afwikkelonderneming biedt in de financiële risico’s en de kosten die zijn verbonden aan afwikkeldiensten, heeft betrekking op tarieven en basisgegevens over transactievolumes- en waarden en omvat een beschrijving van het gebruikte systeem. 
 
 ### Artikel  161e  
 
@@ -4499,7 +4512,7 @@ De Autoriteit Financiële Markten kan ter uitvoering van internationaal aanvaard
 
 ####Aanvullende regels betreffende optreden als clearinginstelling
 
-Bepaling ter uitvoering van [artikel 4:78, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepaling ter uitvoering van artikel 4:78, eerste lid, van de wet 
 
 ### Artikel  162  
 
@@ -4514,12 +4527,12 @@ Bepaling ter uitvoering van [artikel 4:78, eerste lid, van de wet](../../../../.
 
 ####Algemeen
 
-Bepalingen ter uitvoering van de [artikelen 4:85, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:86](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:87, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:88, derde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:89, tweede lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:90, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) 
+Bepalingen ter uitvoering van de artikelen 4:85, derde lid, 4:86, 4:87, derde lid, 4:88, derde lid, en 4:89, tweede lid, 4:90, tweede lid, van de wet 
 
 ### Artikel  163  
 
-1.  Een beleggingsonderneming met zetel in Nederland verstrekt de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 4:85, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wat de indeling en inhoud betreft in de vorm waarin deze zijn opgemaakt krachtens [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) of de internationale jaarrekeningstandaarden.   
-2.  Een beleggingsonderneming met zetel in een staat die geen lidstaat is verstrekt de jaarrekening en het jaarverslag, bedoeld in [artikel 4:85, vierde lid](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), wat de indeling en inhoud betreft in de vorm waarin deze zijn opgemaakt ingevolge het recht van de staat waar de beleggingsonderneming haar zetel heeft of de internationale jaarrekeningstandaarden.  
+1.  Een beleggingsonderneming met zetel in Nederland verstrekt de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in artikel 4:85, eerste lid, van de wet, wat de indeling en inhoud betreft in de vorm waarin deze zijn opgemaakt krachtens Titel 9 van Boek 2 van het Burgerlijk Wetboek of de internationale jaarrekeningstandaarden.   
+2.  Een beleggingsonderneming met zetel in een staat die geen lidstaat is verstrekt de jaarrekening en het jaarverslag, bedoeld in artikel 4:85, vierde lid, wat de indeling en inhoud betreft in de vorm waarin deze zijn opgemaakt ingevolge het recht van de staat waar de beleggingsonderneming haar zetel heeft of de internationale jaarrekeningstandaarden.  
 
 ### Artikel  164  
 
@@ -4567,9 +4580,9 @@ e.draagt er zorg voor dat de gelden van cliënten die overeenkomstig artikel 165
 f.treft passende organisatorische maatregelen om het risico van verlies of vermindering van de financiële instrumenten en gelden van cliënten, dan wel van hun rechten daarop, als gevolg van misbruik van financiële instrumenten en gelden, fraude, wanbeheer, het bijhouden van ontoereikende gegevens of nalatigheid tot een minimum te beperken. 
 2. De Autoriteit Financiële Markten stelt regels met betrekking tot:
 
-a.de maatregelen ter bescherming van de rechten van de cliënt en ter voorkoming van het gebruik van financiële instrumenten of gelden van de cliënt, bedoeld in [artikel 4:87, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md); en
+a.de maatregelen ter bescherming van de rechten van de cliënt en ter voorkoming van het gebruik van financiële instrumenten of gelden van de cliënt, bedoeld in artikel 4:87, eerste en tweede lid, van de wet; en
 
-b.de wijze waarop de instemming, bedoeld in [artikel 4:87, eerste lid, onderdeel b](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), van de cliënt kan worden verkregen voor gebruik van diens financiële instrumenten voor eigen rekening door de beleggingsonderneming. 
+b.de wijze waarop de instemming, bedoeld in artikel 4:87, eerste lid, onderdeel b, van de cliënt kan worden verkregen voor gebruik van diens financiële instrumenten voor eigen rekening door de beleggingsonderneming. 
 
 ###Artikel 165a 
 
@@ -4587,7 +4600,7 @@ b.indien het financiële instrumenten betreft die voor een professionele belegge
 
 a.een centrale bank;
 
-b.een bank waaraan een vergunning als bedoeld in de herziene richtlijn banken is verleend;
+b.een bank waaraan een vergunning als bedoeld in de richtlijn kapitaalvereisten is verleend;
 
 c.een bank waaraan in een staat die geen lidstaat is vergunning is verleend voor het uitoefenen van het bedrijf van bank;
 
@@ -4613,7 +4626,7 @@ b.de beleggingsonderneming beschikt over systemen en controlemiddelen die waarbo
 
 ### Artikel 165d 
 
-Een beleggingsonderneming als bedoeld in [artikel 4:87, eerste en tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die financiële instrumenten en gelden voor een cliënt onder zich houdt legt eenmaal per jaar aan de Autoriteit Financiële Markten een verslag over van een externe accountant over de deugdelijkheid van de in haar bedrijfsvoering getroffen maatregelen om te voldoen aan de artikelen 165 tot en met 165c.
+Een beleggingsonderneming als bedoeld in artikel 4:87, eerste en tweede lid, van de wet die financiële instrumenten en gelden voor een cliënt onder zich houdt legt eenmaal per jaar aan de Autoriteit Financiële Markten een verslag over van een externe accountant over de deugdelijkheid van de in haar bedrijfsvoering getroffen maatregelen om te voldoen aan de artikelen 165 tot en met 165c.
 
 ### Artikel  166  
 
@@ -4621,7 +4634,7 @@ Een vermogensbeheerder die tevens beheerder van een icbe met zetel in Nederland 
 
 ### Artikel  167  
 
-Het beleid, bedoeld in [artikel 4:88, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), is gericht op het herkennen van in elk geval de volgende situaties:
+Het beleid, bedoeld in artikel 4:88, eerste lid, van de wet, is gericht op het herkennen van in elk geval de volgende situaties:
 
 a.de beleggingsonderneming, een relevante persoon of een persoon die met de beleggingsonderneming is verbonden door een zeggenschapsband kan financieel gewin behalen of een financieel verlies vermijden ten koste van de cliënt;
 
@@ -4635,24 +4648,24 @@ e.de onderneming, een relevante persoon of een persoon die met de beleggingsonde
 
 ###Artikel 167a 
 
-1. Een beleggingsonderneming legt het beleid, bedoeld in [artikel 4:88, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), schriftelijk vast en draagt er zorg voor dit beleid te implementeren en in stand te houden. Het beleid is evenredig aan de omvang en organisatie van de beleggingsonderneming en aan de aard, schaal en complexiteit van haar bedrijf. 
+1. Een beleggingsonderneming legt het beleid, bedoeld in artikel 4:88, eerste lid, van de wet, schriftelijk vast en draagt er zorg voor dit beleid te implementeren en in stand te houden. Het beleid is evenredig aan de omvang en organisatie van de beleggingsonderneming en aan de aard, schaal en complexiteit van haar bedrijf. 
 2. Indien de beleggingsonderneming deel uitmaakt van een groep, heeft het beleid ook betrekking op belangenconflicten die kunnen ontstaan als gevolg van de structuur en bedrijfsactiviteiten van andere ondernemingen die deel uitmaken van de groep. 
 3. Het beleid omschrijft, onder verwijzing naar de specifieke beleggingsdiensten, beleggingsactiviteiten en nevendiensten die door of in naam van de beleggingsonderneming worden verleend, onderscheidenlijk verricht, de omstandigheden die een belangenconflict vormen of kunnen doen ontstaan dat een wezenlijk risico met zich brengt dat de belangen van een cliënt worden geschaad, alsmede de te volgen procedures en te nemen maatregelen voor het omgaan met een dergelijk conflict. 
-4. Het overeenkomstig het eerste lid vastgestelde beleid vermeldt de te volgen procedures en te nemen maatregelen voor het beheersen van een belangenconflict als bedoeld in [artikel 4:88, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).
+4. Het overeenkomstig het eerste lid vastgestelde beleid vermeldt de te volgen procedures en te nemen maatregelen voor het beheersen van een belangenconflict als bedoeld in artikel 4:88, eerste lid, van de wet.
 
 ### Artikel 167b 
 
-Een beleggingsonderneming als bedoeld in [artikel 4:88, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), brengt de cliënt, indien een belangenconflict onvermijdelijk blijkt te zijn, hiervan door middel van een duurzame drager op de hoogte. De beleggingsonderneming vermeldt daarbij, met inachtneming van de kenmerken van de cliënt, voldoende bijzonderheden om deze in staat te stellen met kennis van zaken een beslissing te nemen ten aanzien van de beleggingsdienst, beleggingsactiviteit of nevendienst in verband waarmee het belangenconflict zich voordoet.
+Een beleggingsonderneming als bedoeld in artikel 4:88, tweede lid, van de wet, brengt de cliënt, indien een belangenconflict onvermijdelijk blijkt te zijn, hiervan door middel van een duurzame drager op de hoogte. De beleggingsonderneming vermeldt daarbij, met inachtneming van de kenmerken van de cliënt, voldoende bijzonderheden om deze in staat te stellen met kennis van zaken een beslissing te nemen ten aanzien van de beleggingsdienst, beleggingsactiviteit of nevendienst in verband waarmee het belangenconflict zich voordoet.
 
 ### Artikel  168  
 
-1.  In een overeenkomst als bedoeld in [artikel 4:89, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) zijn ten minste bepaald: 
+1.  In een overeenkomst als bedoeld in artikel 4:89, eerste lid, van de wet zijn ten minste bepaald: 
 
 a. de naar soort onderscheiden diensten die de beleggingsonderneming in het kader van de overeenkomst voor de cliënt zal verrichten;  
 
 b. een specificatie van de eventuele beperkingen met betrekking tot de markten waarop transacties in financiële instrumenten ten behoeve van de cliënt zullen worden afgewikkeld;  
 
-c. de naar soort onderscheiden kosten, anders dan de kosten ter zake van een aanbieding van effecten als bedoeld in [hoofdstuk 5.1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die aan de cliënt in rekening worden gebracht alsmede de aan die kosten ten grondslag liggende berekening;  
+c. de naar soort onderscheiden kosten, anders dan de kosten ter zake van een aanbieding van effecten als bedoeld in hoofdstuk 5.1 van de wet, die aan de cliënt in rekening worden gebracht alsmede de aan die kosten ten grondslag liggende berekening;  
 
 d. de wijze waarop instructies van de cliënt en berichten van de beleggingsonderneming worden verstrekt en geadministreerd;  
 
@@ -4688,13 +4701,13 @@ a. provisies die rechtstreeks worden verschaft door de cliënt of degene die nam
 
 b. provisies die noodzakelijk zijn voor het verlenen van de betreffende dienst of de betreffende dienst mogelijk maken;  
 
-c. provisies met betrekking tot het verlenen van een beleggingsdienst of nevendienst aan een professionele belegger of een in aanmerking komende tegenpartij en provisies voor het verlenen van een beleggingsdienst als bedoeld in de onderdelen e en f van de definitie van verlenen van een beleggingsdienst in [artikel 1:1 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), indien: 
+c. provisies met betrekking tot het verlenen van een beleggingsdienst of nevendienst aan een professionele belegger of een in aanmerking komende tegenpartij en provisies voor het verlenen van een beleggingsdienst als bedoeld in de onderdelen e en f van de definitie van verlenen van een beleggingsdienst in artikel 1:1 van de wet, indien: 
 
 1°. de cliënt op uitvoerige, accurate en begrijpelijke wijze mededeling wordt gedaan van het bestaan, de aard en het bedrag, of indien het bedrag niet kan worden achterhaald, de wijze van berekening daarvan, van de provisie voordat de desbetreffende dienst wordt verleend; en  
 
 2°. de provisie de kwaliteit van de desbetreffende dienst ten goede komt en geen afbreuk doet aan de verplichting van de beleggingsonderneming om zich in te zetten voor de belangen van de cliënt;    
 
-d. provisies die worden verschaft door een beleggingsonderneming aan een door die beleggingsonderneming met inachtneming van [artikel 2:97, vijfde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) aangemelde verbonden agent dan wel provisies die door die verbonden agent aan de betrokken beleggingsonderneming worden verschaft;  
+d. provisies die worden verschaft door een beleggingsonderneming aan een door die beleggingsonderneming met inachtneming van artikel 2:97, vijfde lid, van de wet aangemelde verbonden agent dan wel provisies die door die verbonden agent aan de betrokken beleggingsonderneming worden verschaft;  
 
 e. relatiegeschenken, voor zover de gezamenlijke waarde daarvan op jaarbasis niet meer bedraagt dan € 100.    
 
@@ -4777,17 +4790,17 @@ d. de pensioenbewaarder volgens het recht van de staat waar de premiepensioenins
 
 ### Artikel  169  
 
-Artikel 3, eerste lid, aanhef en onderdeel a, is niet van toepassing op houders van een ontheffing als bedoeld in [artikel 4:3, vierde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) die is verleend voor 15 september 2004. 
+Artikel 3, eerste lid, aanhef en onderdeel a, is niet van toepassing op houders van een ontheffing als bedoeld in artikel 4:3, vierde lid, van de wet die is verleend voor 15 september 2004. 
 
 ### Artikel  170  
 
-Tot 1 oktober 2007 is artikel 6 niet van toepassing op financiëledienstverleners die niet bemiddelen in verzekeringen, optreden als gevolmachtigde agent of optreden als ondergevolmachtigde agent, voorzover zij op 1 januari 2006 niet voldeden aan [artikel 17 van het Besluit financiële dienstverlening](../../../../../../../AMvB/besluit/financiële/dienstverlening/BWBR0019283/README.md) en aannemelijk kunnen maken dat zij vanaf 1 oktober 2007 wel zullen voldoen aan artikel 6. 
+Tot 1 oktober 2007 is artikel 6 niet van toepassing op financiëledienstverleners die niet bemiddelen in verzekeringen, optreden als gevolmachtigde agent of optreden als ondergevolmachtigde agent, voorzover zij op 1 januari 2006 niet voldeden aan artikel 17 van het Besluit financiële dienstverlening en aannemelijk kunnen maken dat zij vanaf 1 oktober 2007 wel zullen voldoen aan artikel 6. 
 
 ### Artikel  171  
 
-1.  Een financiëledienstverlener die onmiddellijk voorafgaand aan de inwerkingtreding van [artikel I, onderdeel E, van het Wijzigingsbesluit financiële markten 2013](../../../../../../../AMvB/wijzigingsbesluit/financiële/markten/2013/BWBR0032731/README.md), over een vergunning beschikte en op dat moment voldeed aan [artikel 4:9, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), behoeft gedurende een termijn van 24 maanden, gerekend vanaf de dag waarop genoemd artikel I, onderdeel E, in werking treedt, niet te voldoen aan artikel 6 eerste lid, onderdeel b.   
-2.  Een financiëledienstverlener die binnen zes maanden, gerekend vanaf de dag waarop [artikel I, onderdeel E, van het Wijzigingsbesluit](../../../../../../../AMvB/wijzigingsbesluit/financiële/markten/2013/BWBR0032731/README.md), in werking treedt, een vergunning heeft aangevraagd, behoeft gedurende die zes maanden niet te voldoen aan artikel 6 eerste lid, onderdeel b.   
-3.  Een financiëledienstverlener als bedoeld in het tweede lid die werknemers en andere natuurlijke personen als bedoeld in artikel 6 eerste lid, onderdeel b, in dienst heeft, behoeft gedurende een termijn van 24 maanden, gerekend vanaf de dag waarop [artikel I, onderdeel E, van het Wijzigingsbesluit financiële markten 2013](../../../../../../../AMvB/wijzigingsbesluit/financiële/markten/2013/BWBR0032731/README.md), in werking treedt, niet te voldoen aan artikel 6 eerste lid, onderdeel b, voor zover die personen op de dag voorafgaand aan de inwerkingtreding van genoemd artikel I, onderdeel E, over een geldig diploma of geldige erkenning van beroepskwalificaties beschikten.   
+1.  Een financiëledienstverlener die onmiddellijk voorafgaand aan de inwerkingtreding van artikel I, onderdeel E, van het Wijzigingsbesluit financiële markten 2013, over een vergunning beschikte en op dat moment voldeed aan artikel 4:9, tweede lid, van de wet, behoeft gedurende een termijn van 24 maanden, gerekend vanaf de dag waarop genoemd artikel I, onderdeel E, in werking treedt, niet te voldoen aan artikel 6 eerste lid, onderdeel b.   
+2.  Een financiëledienstverlener die binnen zes maanden, gerekend vanaf de dag waarop artikel I, onderdeel E, van het Wijzigingsbesluit, in werking treedt, een vergunning heeft aangevraagd, behoeft gedurende die zes maanden niet te voldoen aan artikel 6 eerste lid, onderdeel b.   
+3.  Een financiëledienstverlener als bedoeld in het tweede lid die werknemers en andere natuurlijke personen als bedoeld in artikel 6 eerste lid, onderdeel b, in dienst heeft, behoeft gedurende een termijn van 24 maanden, gerekend vanaf de dag waarop artikel I, onderdeel E, van het Wijzigingsbesluit financiële markten 2013, in werking treedt, niet te voldoen aan artikel 6 eerste lid, onderdeel b, voor zover die personen op de dag voorafgaand aan de inwerkingtreding van genoemd artikel I, onderdeel E, over een geldig diploma of geldige erkenning van beroepskwalificaties beschikten.   
 4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gelijkstelling van reeds bestaande diploma’s met diploma’s als bedoeld in artikel 7. 
 
 ### Artikel  172  
@@ -4898,29 +4911,29 @@ j) met betrekking tot overeenkomsten inzake krediet waarvoor een vaste debetrent
 
 Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van: 
 
-– het in of vanuit Nederland, beschikkende over voorwetenschap, verrichten of bewerkstelligen van transacties in bepaalde effecten ([artikelen 5:53](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:56 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md));  
+– het in of vanuit Nederland, beschikkende over voorwetenschap, verrichten of bewerkstelligen van transacties in bepaalde effecten (artikelen 5:53 en 5:56 van de wet);  
 
-– het doorgeven van voorwetenschap als bedoeld in [artikelen 5:53](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [5:56 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of de nadrukkelijke aanbeveling bepaalde transacties te doen zonder daarbij de voorwetenschap door te geven ([artikel 5:57 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md));  
+– het doorgeven van voorwetenschap als bedoeld in artikelen 5:53 en 5:56 van de wet of de nadrukkelijke aanbeveling bepaalde transacties te doen zonder daarbij de voorwetenschap door te geven (artikel 5:57 van de wet);  
 
-– deelneming aan een criminele en of terroristische organisatie ([artikelen 140 tot en met 140a van het Wetboek van Strafrecht](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) (WvSr));  
+– deelneming aan een criminele en of terroristische organisatie (artikelen 140 tot en met 140a van het Wetboek van Strafrecht (WvSr));  
 
-– valsheid in geschrifte ([artikel 225 van het WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– valsheid in geschrifte (artikel 225 van het WvSr);  
 
-– opzettelijk verstrekken van onware gegevens ([artikel 227a van het WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzettelijk verstrekken van onware gegevens (artikel 227a van het WvSr);  
 
-– opzettelijk schenden van de verplichting gegevens te verstrekken ([artikel 227b van het WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzettelijk schenden van de verplichting gegevens te verstrekken (artikel 227b van het WvSr);  
 
-– diefstal onder verzwarende omstandigheden ([artikelen 311](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [312 van het WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– diefstal onder verzwarende omstandigheden (artikelen 311 en 312 van het WvSr);  
 
-– verduistering ([artikelen 321 tot en met 323 van het WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– verduistering (artikelen 321 tot en met 323 van het WvSr);  
 
-– benadeling van schuldeisers of rechthebbenden ([artikelen 340 tot en met 348 van het WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– benadeling van schuldeisers of rechthebbenden (artikelen 340 tot en met 348 van het WvSr);  
 
-– opzetheling ([artikel 416 van het WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzetheling (artikel 416 van het WvSr);  
 
-– witwassen ([artikelen 420bis tot en met 420ter van het WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– witwassen (artikelen 420bis tot en met 420ter van het WvSr);  
 
-– overtreding van een bepaling uit de financiële toezichtswetgeving, als misdrijf strafbaar gesteld in [artikel 2](../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) juncto [6 van de Wet op de economische delicten](../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) en waarvoor betrokkene is veroordeeld tot een onvoorwaardelijke gevangenisstraf of een geldboete van ten minste de vierde categorie; of  
+– overtreding van een bepaling uit de financiële toezichtswetgeving, als misdrijf strafbaar gesteld in artikel 2 juncto 6 van de Wet op de economische delicten en waarvoor betrokkene is veroordeeld tot een onvoorwaardelijke gevangenisstraf of een geldboete van ten minste de vierde categorie; of  
 
 – overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde.   
 
@@ -4935,106 +4948,106 @@ Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake v
 Bij vonnis is betrokkene in Nederland of in het buitenland veroordeeld terzake van poging tot, voorbereiding van, doen plegen van, uitlokken van, mislukte uitlokking van, medeplegen van, medeplichtigheid aan of plegen van: 
 ### *Wetboek van Strafrecht:* 
 
-– openbare orde en discriminatie ([artikelen 131 tot en met 151a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– openbare orde en discriminatie (artikelen 131 tot en met 151a);  
 
-– gemeengevaarlijke misdrijven ([artikelen 157 tot en met 175](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– gemeengevaarlijke misdrijven (artikelen 157 tot en met 175);  
 
-– openbaar gezag ([artikelen 177 tot en met 207a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) );  
+– openbaar gezag (artikelen 177 tot en met 207a );  
 
-– muntmisdrijven ([artikelen 208 tot en met 215](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– muntmisdrijven (artikelen 208 tot en met 215);  
 
-– andere valsheiddelicten dan muntmisdrijven ([artikelen 216 tot en met 235](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– andere valsheiddelicten dan muntmisdrijven (artikelen 216 tot en met 235);  
 
-– opzettelijk verstrekken van onware gegevens ([artikel 227a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzettelijk verstrekken van onware gegevens (artikel 227a);  
 
-– opzettelijk schenden van de verplichting gegevens te verstrekken ([artikel 227b](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opzettelijk schenden van de verplichting gegevens te verstrekken (artikel 227b);  
 
-– misdrijven tegen de zeden ([artikelen 242](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [246](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [243 tot en met 245](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [247 tot en met 250](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [250ter](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– misdrijven tegen de zeden (artikelen 242, 246, 243 tot en met 245, 247 tot en met 250, 250ter);  
 
-– bedreiging met geweld of misdrijf ([artikel 285](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– bedreiging met geweld of misdrijf (artikel 285);  
 
-– geweldsmisdrijven tegen het leven ([artikelen 287 tot en met 294](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– geweldsmisdrijven tegen het leven (artikelen 287 tot en met 294);  
 
-– mishandeling ([artikelen 300 tot en met 306](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– mishandeling (artikelen 300 tot en met 306);  
 
-– dood en lichamelijk letsel door schuld ([artikelen 307 tot en met 309](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– dood en lichamelijk letsel door schuld (artikelen 307 tot en met 309);  
 
-– eenvoudige diefstal ([artikel 310](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– eenvoudige diefstal (artikel 310);  
 
-– diefstal onder verzwarende omstandigheden ([artikel 311](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– diefstal onder verzwarende omstandigheden (artikel 311);  
 
-– diefstal met geweld ([artikel 312](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– diefstal met geweld (artikel 312);  
 
-– afpersing ([artikel 317](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– afpersing (artikel 317);  
 
-– verduistering ([artikelen 321 tot en met 323](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– verduistering (artikelen 321 tot en met 323);  
 
-– bedrog ([artikelen 326 tot en met 337](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– bedrog (artikelen 326 tot en met 337);  
 
-– benadeling van schuldeisers of rechthebbenden ([artikelen 340 tot en met 348](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– benadeling van schuldeisers of rechthebbenden (artikelen 340 tot en met 348);  
 
-– vernieling ([artikelen 350 tot en met 354](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– vernieling (artikelen 350 tot en met 354);  
 
-– ambtsmisdrijven ([artikelen 355 tot en met 380](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– ambtsmisdrijven (artikelen 355 tot en met 380);  
 
-– heling en schuldheling ([artikelen 416 tot en met 417bis](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– heling en schuldheling (artikelen 416 tot en met 417bis);  
 
-– witwassen ([artikelen 420bis tot en met 420quinquies](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– witwassen (artikelen 420bis tot en met 420quinquies);  
 
-– opgave van valse naam, academische titel etc. ([artikel 435](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– opgave van valse naam, academische titel etc. (artikel 435);  
 
-– onbevoegd uitoefenen makelaardij ([artikel 436a](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– onbevoegd uitoefenen makelaardij (artikel 436a);  
 
-– indruk wekken van officieel gesteund of erkend optreden ([artikel 435b](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– indruk wekken van officieel gesteund of erkend optreden (artikel 435b);  
 
-– eigenmachtig handelen tijdens surséance ([artikel 442](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md));  
+– eigenmachtig handelen tijdens surséance (artikel 442);  
 
-– verstrekken van onware gegevens ([artikel 447c](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)); of  
+– verstrekken van onware gegevens (artikel 447c); of  
 
-– schenden van de verplichting gegevens te verstrekken ([artikel 447d](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md)).   
+– schenden van de verplichting gegevens te verstrekken (artikel 447d).   
 ### *Algemene wet inzake de rijksbelastingen (AWR):* 
 
-– overtreding fiscale wetgeving ([artikelen 68](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [69](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)). 
+– overtreding fiscale wetgeving (artikelen 68 en 69). 
 ### *Opiumwet:* 
 
-– met opzet smokkelen, bereiden, verkopen, afleveren, aanwezig hebben, etc. van harddrugs ([artikel 2, eerste lid](../../../../../../../wet/opiumwet/BWBR0001941/README.md));  
+– met opzet smokkelen, bereiden, verkopen, afleveren, aanwezig hebben, etc. van harddrugs (artikel 2, eerste lid);  
 
-– met opzet smokkelen, bereiden, verkopen, afleveren, aanwezig hebben en vervaardigen softdrugs ([artikel 3, eerste lid](../../../../../../../wet/opiumwet/BWBR0001941/README.md)); of  
+– met opzet smokkelen, bereiden, verkopen, afleveren, aanwezig hebben en vervaardigen softdrugs (artikel 3, eerste lid); of  
 
-– voorbereidingshandelingen met betrekking tot bereiden, verkopen, afleveren etc. en smokkelen van harddrugs ([artikel 10a, eerste lid](../../../../../../../wet/opiumwet/BWBR0001941/README.md)).   
+– voorbereidingshandelingen met betrekking tot bereiden, verkopen, afleveren etc. en smokkelen van harddrugs (artikel 10a, eerste lid).   
 ### *Wet op de economische delicten (WED):* 
 
-Door de [WED](../../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van de [artikelen 2](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [3, eerste lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [4, eerste lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [5, eerste en derde lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [8](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [16, tweede lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [23, eerste en tweede lid](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [33](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) en [34 van de Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md). 
+Door de WED strafbaar gestelde gedragingen, met name verbodsbepalingen uit de financiële toezichtswetgeving en overtreding van de artikelen 2, 3, eerste lid, 4, eerste lid, 5, eerste en derde lid, 8, 16, tweede lid, 23, eerste en tweede lid, 33 en 34 van de Wet ter voorkoming van witwassen en financieren van terrorisme. 
 ### *Wet wapens en munitie:* 
 
-– zonder erkenning wapen of munitie vervaardigen etc. ([artikel 9, eerste lid](../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)), vervaardigen, voorhanden hebben etc. bepaalde wapens ([artikel 13, eerste lid](../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md));  
+– zonder erkenning wapen of munitie vervaardigen etc. (artikel 9, eerste lid), vervaardigen, voorhanden hebben etc. bepaalde wapens (artikel 13, eerste lid);  
 
-– zonder consent bepaalde wapens of munitie doen binnenkomen of uitgaan etc. ([artikel 14, eerste lid](../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md));  
+– zonder consent bepaalde wapens of munitie doen binnenkomen of uitgaan etc. (artikel 14, eerste lid);  
 
-– zonder vergunning of verlof vervoeren bepaalde wapens of munitie ([artikel 22, eerste lid](../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md));  
+– zonder vergunning of verlof vervoeren bepaalde wapens of munitie (artikel 22, eerste lid);  
 
-– verboden voorhanden hebben van bepaalde wapens of munitie ([artikel 26, eerste lid](../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)); of  
+– verboden voorhanden hebben van bepaalde wapens of munitie (artikel 26, eerste lid); of  
 
-– verboden overdragen van bepaalde wapens of munitie ([artikel 31, eerste lid](../../../../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md)).   
+– verboden overdragen van bepaalde wapens of munitie (artikel 31, eerste lid).   
 ### *Wegenverkeerswet 1994:* 
 
-– dood of letsel door schuld ([artikel 6](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md));  
+– dood of letsel door schuld (artikel 6);  
 
-– doorrijden na ongeval ([artikel 7](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md));  
+– doorrijden na ongeval (artikel 7);  
 
-– rijden onder invloed ([artikel 8](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md));  
+– rijden onder invloed (artikel 8);  
 
-– motorvoertuig besturen na ontzegging ([artikel 9](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md));  
+– motorvoertuig besturen na ontzegging (artikel 9);  
 
-– joyriding ([artikel 11](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)); of  
+– joyriding (artikel 11); of  
 
-– medewerking weigeren aan onderzoek ([artikel 163](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md)).   
+– medewerking weigeren aan onderzoek (artikel 163).   
 ###*Algemene Douanewet*
 
-– overtreding douanewetgeving ([artikelen 10:5](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md) en [10:6](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md)).  
+– overtreding douanewetgeving (artikelen 10:5 en 10:6).  
 ###*Invorderingswet 1990*
 
-– overtreding fiscale wetgeving ([artikelen 64](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [65](../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md)).  
+– overtreding fiscale wetgeving (artikelen 64 en 65).  
 ###Buitenlandse strafbepalingen
 
 Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde. 
@@ -5043,7 +5056,7 @@ Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens
 
 #### *Transacties* 
 
-Betrokkene heeft een transactie als bedoeld in [artikel 74 van het WvSr](../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [artikel 76 van de AWR](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) of [artikel 10:15 van de Algemene Douanewet](../../../../../../../wet/algemene/douanewet/BWBR0023746/README.md) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties wordt ook verstaan een daarmee vergelijkbare overeenkomst met betrekking tot niet-vervolging ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, gesloten met de daartoe bevoegde autoriteit. 
+Betrokkene heeft een transactie als bedoeld in artikel 74 van het WvSr, artikel 76 van de AWR of artikel 10:15 van de Algemene Douanewet gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties wordt ook verstaan een daarmee vergelijkbare overeenkomst met betrekking tot niet-vervolging ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, gesloten met de daartoe bevoegde autoriteit. 
 
 ### 2.3 
 
@@ -5081,7 +5094,7 @@ Andere feiten of omstandigheden die redelijkerwijs voor de Autoriteit Financiël
 
 – met betrekking tot de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijke zeggenschap over het beleid uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is surséance van betaling of faillissement aangevraagd of uitgesproken; of  
 
-– betrokkene is veroordeeld tot voldoen van openstaande schulden wegens aansprakelijkheid voor het faillissement van een vennootschap of rechtspersoon op grond van de toepasselijke bepalingen van [Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) ([artikelen 50a](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [138](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [149](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [248](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [259](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [300a](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md)).   
+– betrokkene is veroordeeld tot voldoen van openstaande schulden wegens aansprakelijkheid voor het faillissement van een vennootschap of rechtspersoon op grond van de toepasselijke bepalingen van Boek 2 van het Burgerlijk Wetboek (artikelen 50a, 138, 149, 248, 259 en 300a).   
 
 ### 3.3 
 
@@ -5105,7 +5118,7 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 – betrokkene, of zijn huidige of één van zijn voormalige werkgevers of een vennootschap of rechtspersoon, waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijk zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede-)verantwoordelijk is of was voor het beleid, is in conflict geweest met een toezichthouder of toezichthoudende instantie en dit conflict heeft geleid tot enige maatregel jegens betrokkene dan wel jegens de vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijk zeggenschap over het beleid uitoefent of uitoefende of anderszins verantwoordelijk is of was voor het beleid;  
 
-– aan betrokkene of aan een vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, een verklaring door de Minister van Justitie ter zake van de oprichting van dan wel van de wijziging van de statuten van een vennootschap geweigerd op gronden genoemd in de [artikelen 68, tweede lid](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [179, tweede lid](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [125, tweede lid](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), onderscheidenlijk [235, tweede lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+– aan betrokkene of aan een vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, een verklaring door de Minister van Justitie ter zake van de oprichting van dan wel van de wijziging van de statuten van een vennootschap geweigerd op gronden genoemd in de artikelen 68, tweede lid, 179, tweede lid, 125, tweede lid, onderscheidenlijk 235, tweede lid, van Boek 2 van het Burgerlijk Wetboek.   
 
 ### 4.2 
 
@@ -5121,25 +5134,25 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 ####*Persoonlijk* 
 
-Aan betrokkene is op grond van de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
+Aan betrokkene is op grond van de Algemene wet inzake rijksbelastingen een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
 
-– opzettelijk een onjuiste of onvolledige belastingaangifte doen ([artikel 67d](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md));  
+– opzettelijk een onjuiste of onvolledige belastingaangifte doen (artikel 67d);  
 
-– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven ([artikel 67e](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)); of  
+– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven (artikel 67e); of  
 
-– het aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten is dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald ([artikel 67f](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).   
+– het aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten is dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald (artikel 67f).   
 
 ### 5.2 
 
 ####*Zakelijk* 
 
-Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de [Algemene wet inzake rijksbelastingen](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
+Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de Algemene wet inzake rijksbelastingen een vergrijpboete opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
 
-– opzettelijk een onjuiste of onvolledige belastingaangifte doen ([artikel 67d](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md));  
+– opzettelijk een onjuiste of onvolledige belastingaangifte doen (artikel 67d);  
 
-– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven ([artikel 67e](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)); of  
+– het is aan opzet of grove schuld van de belastingplichtige te wijten dat een belastingaanslag tot een te laag bedrag is vastgesteld of anderszins te weinig belasting is geheven (artikel 67e); of  
 
-– het is aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten is dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald ([artikel 67f van de AWR](../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md)).   
+– het is aan opzet of grove schuld van de belastingplichtige of inhoudingsplichtige te wijten is dat belasting niet, gedeeltelijk niet, dan wel niet binnen de termijn is betaald (artikel 67f van de AWR).   
 
 ### 5.3 
 
@@ -5449,19 +5462,19 @@ c. de personen die onderdeel zijn van een orgaan dat belast is met het toezicht 
 
 ####Financiële gegevens over de beheerder van een icbe en de bewaarder van een icbe
 
-4.1. Een verklaring van een accountant dat aan het bepaalde ingevolge de [artikelen 3:53](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [3:57 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is voldaan. 4.2. Indien beschikbaar: een verklaring van een accountant dat de jaarrekening van de beheerder van een icbe en iedere bewaarder van een icbe is onderzocht. Indien de verklaring voorbehouden bevat dan wel een oordeelonthouding worden de redenen daarvan in de tekst van de verklaring vermeld. 
+4.1. Een verklaring van een accountant dat aan het bepaalde ingevolge de artikelen 3:53 en 3:57 van de wet is voldaan. 4.2. Indien beschikbaar: een verklaring van een accountant dat de jaarrekening van de beheerder van een icbe en iedere bewaarder van een icbe is onderzocht. Indien de verklaring voorbehouden bevat dan wel een oordeelonthouding worden de redenen daarvan in de tekst van de verklaring vermeld. 
 
 ### 5 
 
 ####Gegevens over informatieverstrekking
 
-5.1. De wijze waarop de beheerder van een icbe periodiek informatie verschaft. 5.2. De datum waarop de jaarrekening en de halfjaarcijfers van de beheerder van een icbe op grond van zijn statuten of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) moeten zijn afgesloten. 5.3. De datum waarop de jaarrekening van iedere bewaarder van een icbe op grond van zijn statuten of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) moet zijn afgesloten. 5.4. Vermelding van het feit dat de statuten, de jaarrekeningen en jaarverslagen van de beheerder van een icbe en iedere bewaarder van een icbe en de halfjaarcijfers van de beheerder van een icbe op de website beschikbaar zijn en dat deze stukken voor de deelnemers bij de beheerder van een icbe kosteloos verkrijgbaar zijn. 
+5.1. De wijze waarop de beheerder van een icbe periodiek informatie verschaft. 5.2. De datum waarop de jaarrekening en de halfjaarcijfers van de beheerder van een icbe op grond van zijn statuten of Titel 9 van Boek 2 van het Burgerlijk Wetboek moeten zijn afgesloten. 5.3. De datum waarop de jaarrekening van iedere bewaarder van een icbe op grond van zijn statuten of Titel 9 van Boek 2 van het Burgerlijk Wetboek moet zijn afgesloten. 5.4. Vermelding van het feit dat de statuten, de jaarrekeningen en jaarverslagen van de beheerder van een icbe en iedere bewaarder van een icbe en de halfjaarcijfers van de beheerder van een icbe op de website beschikbaar zijn en dat deze stukken voor de deelnemers bij de beheerder van een icbe kosteloos verkrijgbaar zijn. 
 
 ### 6 
 
 ####Gegevens over vervanging van de beheerder van een icbe of de bewaarder van een icbe
 
-6.1. De regels en voorwaarden die gelden bij een vervanging van de beheerder van een icbe of de bewaarder van een icbe. 6.2. Een verklaring dat een verzoek aan de Autoriteit Financiële Markten ingevolge [artikel 1:104, eerste lid, onderdeel a, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) tot intrekking van de vergunning bekend wordt gemaakt in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder van een icbe. 
+6.1. De regels en voorwaarden die gelden bij een vervanging van de beheerder van een icbe of de bewaarder van een icbe. 6.2. Een verklaring dat een verzoek aan de Autoriteit Financiële Markten ingevolge artikel 1:104, eerste lid, onderdeel a, van de wet tot intrekking van de vergunning bekend wordt gemaakt in een landelijk verspreid Nederlands dagblad dan wel aan het adres van iedere deelnemer alsmede op de website van de beheerder van een icbe. 
 
 ### Bijlage I 
 
@@ -5493,7 +5506,7 @@ De namen van de personen die het beleid van de maatschappij voor collectieve bel
 
 ####Gegevens over informatieverstrekking
 
-4.1. De wijze waarop de icbe periodiek informatie verstrekt. 4.2. De datum waarop de jaarrekening en de halfjaarcijfers van de icbe op grond van haar voorwaarden of [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) moeten zijn afgesloten, vermelding van het feit dat deze stukken op de website van de beheerder beschikbaar zijn en dat deze stukken voor de deelnemers bij de beheerder kosteloos verkrijgbaar zijn. 4.3. De plaatsen waar de vergunning van de beheerder van de icbe en het fondsreglement of de statuten van de icbe verkrijgbaar zijn. 4.4. Vermelding van het feit dat aan een ieder op verzoek kosteloos een afschrift van het fondsreglement of de statuten wordt verstrekt. 4.5. Vermelding van het feit dat aan ieder op verzoek tegen ten hoogste de kostprijs de gegevens omtrent de beheerder, de icbe en, indien van toepassing, de bewaarder welke ingevolge enig wettelijk voorschrift in het handelsregister moeten worden opgenomen, worden verstrekt. 4.6. Vermelding van het feit dat aan de deelnemers in de icbe op verzoek tegen ten hoogste de kostprijs de volgende gegevens worden verstrekt: 
+4.1. De wijze waarop de icbe periodiek informatie verstrekt. 4.2. De datum waarop de jaarrekening en de halfjaarcijfers van de icbe op grond van haar voorwaarden of Titel 9 van Boek 2 van het Burgerlijk Wetboek moeten zijn afgesloten, vermelding van het feit dat deze stukken op de website van de beheerder beschikbaar zijn en dat deze stukken voor de deelnemers bij de beheerder kosteloos verkrijgbaar zijn. 4.3. De plaatsen waar de vergunning van de beheerder van de icbe en het fondsreglement of de statuten van de icbe verkrijgbaar zijn. 4.4. Vermelding van het feit dat aan een ieder op verzoek kosteloos een afschrift van het fondsreglement of de statuten wordt verstrekt. 4.5. Vermelding van het feit dat aan ieder op verzoek tegen ten hoogste de kostprijs de gegevens omtrent de beheerder, de icbe en, indien van toepassing, de bewaarder welke ingevolge enig wettelijk voorschrift in het handelsregister moeten worden opgenomen, worden verstrekt. 4.6. Vermelding van het feit dat aan de deelnemers in de icbe op verzoek tegen ten hoogste de kostprijs de volgende gegevens worden verstrekt: 
 
 a. een afschrift van de vergunning van de beheerder;  
 
@@ -5517,7 +5530,7 @@ a. een beschrijving van de wijze waarop informatie wordt verschaft over de ander
 
 b. indien van toepassing: de afspraken tussen de icbe en de andere beleggingsinstelling of icbe over de verdeling van kosten en aan wie het voordeel ten goede komt.   5.10. Indien van toepassing: een verklaring dat de icbe belegt in een andere beleggingsmaatschappij, maatschappij voor collectieve belegging in effecten of die een met de beheerder, beleggingsmaatschappij, maatschappij voor collectieve belegging in effecten of bewaarder gelieerde partij is of in een andere beleggingsinstelling of icbe die beheerd wordt door een met de beheerder, beleggingsmaatschappij, maatschappij voor collectieve belegging in effecten of bewaarder gelieerde partij en de voorwaarden waaronder verkoop of inkoop van, alsmede terugbetaling op de rechten van deelneming in de andere beleggingsinstelling of icbe plaatsvindt. 5.11. Indien de icbe 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling of icbe: een beschrijving van het beleggingsbeleid van de andere beleggingsinstelling of icbe. 5.12. Indien de icbe 85 procent of meer van het beheerde vermogen direct of indirect belegt in een andere beleggingsinstelling of icbe: 
 
-a. het feit dat de beheerder van de andere beleggingsinstelling of icbe een vergunning als bedoeld in [artikel 2:65 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft en in Nederland onder toezicht staat;  
+a. het feit dat de beheerder van de andere beleggingsinstelling of icbe een vergunning als bedoeld in artikel 2:65 van de wet heeft en in Nederland onder toezicht staat;  
 
 b. vermelding van het feit dat de andere beleggingsinstelling of icbe: 
 
@@ -5525,7 +5538,7 @@ b. vermelding van het feit dat de andere beleggingsinstelling of icbe:
 
 2°. in die lidstaat onder toezicht staat;  
 
-3°. indien van toepassing: een aanvraag van instemming als bedoeld in [artikel 2:72 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft gedaan en in het register, bedoeld in [artikel 1:108 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) van de wet, is opgenomen; en  
+3°. indien van toepassing: een aanvraag van instemming als bedoeld in artikel 2:72 van de wet heeft gedaan en in het register, bedoeld in artikel 1:108 van de wet van de wet, is opgenomen; en  
 
 4°. niet onder Nederlands toezicht staat;    
 
@@ -5535,13 +5548,13 @@ c. het feit dat de andere beleggingsinstelling of icbe:
 
 2°. al dan niet in die staat een vergunning heeft en onder toezicht staat of beheerd wordt door een beheerder die in een derde land al dan niet een vergunning heeft en onder toezicht staat van een met name genoemde toezichthouder;  
 
-3°. indien van toepassing: een mededeling als bedoeld in [artikel 2:73 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) heeft gedaan; en  
+3°. indien van toepassing: een mededeling als bedoeld in artikel 2:73 van de wet heeft gedaan; en  
 
 4°. niet onder Nederlands toezicht staat; of    
 
 d. het feit dat de andere beleggingsinstelling of icbe: 
 
-1°. haar zetel heeft in een staat die niet ingevolge [artikel 2:66 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is aangewezen;  
+1°. haar zetel heeft in een staat die niet ingevolge artikel 2:66 van de wet is aangewezen;  
 
 2°. al dan niet een vergunning heeft en onder toezicht staat van een met name genoemde buitenlandse toezichthouder of beheerd wordt door een of beheerder die al dan niet een vergunning heeft en onder toezicht staat van een met name genoemde buitenlandse toezichthouder; en  
 
@@ -5673,7 +5686,7 @@ Een overeenkomst tot uitwisseling van informatie tussen een feeder-icbe en een m
 
 a. de wijze en het tijdstip waarop de master-icbe de feeder-icbe een afschrift van haar fondsreglement of de statuten, het prospectus, de essentiële beleggersinformatie en alle wijzigingen ervan verstrekt;  
 
-b. de wijze en het tijdstip waarop de master-icbe de feeder-icbe informeert over het uitbesteden van werkzaamheden met betrekking tot het beheer van beleggingen of het risicobeheer aan derden in overeenstemming met het ingevolge de [artikelen 3:18](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:16 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bepaalde;  
+b. de wijze en het tijdstip waarop de master-icbe de feeder-icbe informeert over het uitbesteden van werkzaamheden met betrekking tot het beheer van beleggingen of het risicobeheer aan derden in overeenstemming met het ingevolge de artikelen 3:18 en 4:16 van de wet bepaalde;  
 
 c. in voorkomend geval, de wijze en het tijdstip waarop de master-icbe aan de feeder-icbe interne operationele documenten, zoals documenten betreffende het risicobeheerproces en nalevingsverslagen, verstrekt;  
 
@@ -5711,7 +5724,7 @@ d. voor zover nodig, andere passende maatregelen om de naleving van artikel 147j
 
 e. voor zover de feeder-icbe en de master-icbe een andere valuta hanteren, de grondslag voor omrekening van handelsorders;  
 
-f. afwikkelingscycli en betalingsdetails voor aankoop van of inschrijving op en inkoop of terugbetaling van rechten van deelneming van de master-icbe waaronder, voor zover tussen de partijen overeengekomen, de voorwaarden waaronder de master-icbe een verzoek tot terugbetaling door middel van een overdracht van activa in natura aan de feeder-icbe mag afwikkelen, met name in de gevallen, bedoeld in de [artikelen 4:61a](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:61b van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+f. afwikkelingscycli en betalingsdetails voor aankoop van of inschrijving op en inkoop of terugbetaling van rechten van deelneming van de master-icbe waaronder, voor zover tussen de partijen overeengekomen, de voorwaarden waaronder de master-icbe een verzoek tot terugbetaling door middel van een overdracht van activa in natura aan de feeder-icbe mag afwikkelen, met name in de gevallen, bedoeld in de artikelen 4:61a en 4:61b van de wet;  
 
 g. procedures om te waarborgen dat verzoeken om inlichtingen en klachten van deelnemers op passende wijze worden afgehandeld; en  
 
@@ -5735,7 +5748,7 @@ Een overeenkomst als bedoeld in artikel 147b, eerste lid, voorziet ten aanzien v
 
 a. indien de feeder-icbe en de master-icbe dezelfde afsluitingsdatum van het boekjaar aanhouden, de coördinatie of de periodieke verslagen; en  
 
-b. indien de afsluitingsdatum van het boekjaar van de feeder-icbe afwijkt van de afsluitingsdatum van het boekjaar van de master-icbe, regelingen op grond waarvan de feeder-icbe van de master-icbe alle informatie verkrijgt die nodig is om haar periodieke verslagen tijdig te kunnen opstellen en wordt gewaarborgd dat de accountant van de master-icbe in staat is op de afsluitingsdatum van het boekjaar van de feeder-icbe een ad hoc-verslag als bedoeld in [artikel 4:57c, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) op te stellen.   
+b. indien de afsluitingsdatum van het boekjaar van de feeder-icbe afwijkt van de afsluitingsdatum van het boekjaar van de master-icbe, regelingen op grond waarvan de feeder-icbe van de master-icbe alle informatie verkrijgt die nodig is om haar periodieke verslagen tijdig te kunnen opstellen en wordt gewaarborgd dat de accountant van de master-icbe in staat is op de afsluitingsdatum van het boekjaar van de feeder-icbe een ad hoc-verslag als bedoeld in artikel 4:57c, tweede lid, van de wet op te stellen.   
 
 ### 1.6  
 
@@ -5761,7 +5774,7 @@ e. de wijze van en het tijdschema voor de kennisgeving van andere wijzigingen va
 
 #### *Belangenconflicten* 
 
-Voor zover de door de beheerder genomen maatregelen om te voldoen aan de [artikelen 3:17, tweede lid, aanhef en onderdeel c](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [4:14 van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) daarin niet voorzien, wordt in de regels omtrent de bedrijfsvoering, bedoeld in artikel 147b, vierde lid, voorzien in maatregelen om te waarborgen dat belangenconflicten tussen de feeder-icbe en de master-icbe of tussen de feeder-icbe en andere deelnemers van de master-icbe worden beperkt. 
+Voor zover de door de beheerder genomen maatregelen om te voldoen aan de artikelen 3:17, tweede lid, aanhef en onderdeel c, en 4:14 van de wet daarin niet voorzien, wordt in de regels omtrent de bedrijfsvoering, bedoeld in artikel 147b, vierde lid, voorzien in maatregelen om te waarborgen dat belangenconflicten tussen de feeder-icbe en de master-icbe of tussen de feeder-icbe en andere deelnemers van de master-icbe worden beperkt. 
 
 ### 2.2  
 
@@ -5791,7 +5804,7 @@ d. voor zover nodig, andere passende maatregelen om de naleving van artikel 147j
 
 e. voor zover de feeder-icbe en de master-icbe een andere valuta hanteren, de grondslag voor omrekening van handelsorders;  
 
-f. afwikkelingscycli en betalingsdetails voor aankoop en terugbetaling van rechten van deelneming van de master-icbe waaronder, voor zover tussen de partijen overeengekomen, de voorwaarden waaronder, de master-icbe een verzoek tot terugbetaling door middel van een overdracht van activa in natura aan de feeder-icbe mag afwikkelen, met name in de gevallen, bedoeld in de [artikelen 4:61b](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en 4:61c van de wet; en  
+f. afwikkelingscycli en betalingsdetails voor aankoop en terugbetaling van rechten van deelneming van de master-icbe waaronder, voor zover tussen de partijen overeengekomen, de voorwaarden waaronder, de master-icbe een verzoek tot terugbetaling door middel van een overdracht van activa in natura aan de feeder-icbe mag afwikkelen, met name in de gevallen, bedoeld in de artikelen 4:61b en 4:61c van de wet; en  
 
 g. voor zover de master-icbe aan haar fondsreglement of statuten en prospectus bepaalde rechten of bevoegdheden met betrekking tot deelnemers ontleent en besluit de uitoefening van die rechten en bevoegdheden met betrekking tot de feeder-icbe geheel of gedeeltelijk te beperken of op te geven, een verklaring met betrekking tot de desbetreffende voorwaarden.   
 
@@ -5813,17 +5826,17 @@ De regels over de bedrijfsvoering, bedoeld in artikel 147b, vierde lid, voorzien
 
 a. indien de feeder-icbe en de master-icbe dezelfde afsluitingsdatum van het boekjaar aanhouden, de coördinatie of de periodieke verslagen; en  
 
-b. indien de afsluitingsdatum van het boekjaar van de feeder-icbe afwijkt van de afsluitingsdatum van het boekjaar van de master-icbe, regelingen op grond waarvan de feeder-icbe van de master-icbe alle informatie verkrijgt die nodig is om haar periodieke verslagen tijdig te kunnen opstellen en wordt gewaarborgd dat de accountant van de master-icbe in staat is op de afsluitingsdatum van het boekjaar van de feeder-icbe een ad hoc-verslag als bedoeld in [artikel 4:57c, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) op te stellen.   
+b. indien de afsluitingsdatum van het boekjaar van de feeder-icbe afwijkt van de afsluitingsdatum van het boekjaar van de master-icbe, regelingen op grond waarvan de feeder-icbe van de master-icbe alle informatie verkrijgt die nodig is om haar periodieke verslagen tijdig te kunnen opstellen en wordt gewaarborgd dat de accountant van de master-icbe in staat is op de afsluitingsdatum van het boekjaar van de feeder-icbe een ad hoc-verslag als bedoeld in artikel 4:57c, tweede lid, van de wet op te stellen.   
 
 ### 3  
 
-####Inhoud van een overeenkomst als bedoeld in [artikel 4:57b, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+####Inhoud van een overeenkomst als bedoeld in artikel 4:57b, eerste lid, van de wet
 
 ### 3.1  
 
 #### *Bewaarders* 
 
-Een overeenkomst tot uitwisseling van informatie als bedoeld in [artikel 4:57b, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voorziet in het volgende: 
+Een overeenkomst tot uitwisseling van informatie als bedoeld in artikel 4:57b, eerste lid, van de wet voorziet in het volgende: 
 
 a. de vaststelling van de documenten en soort informatie die tussen de bewaarder van de master-icbe en de bewaarder van de feeder-icbe systematisch worden uitgewisseld en of de documenten en de informatie door de ene bewaarder aan de andere bewaarder worden verstrekt dan wel op verzoek beschikbaar worden gesteld;  
 
@@ -5845,13 +5858,13 @@ g. vaststelling van bepaalde onzekere gebeurtenissen waarvan door de ene bewaard
 
 ### 4  
 
-####Inhoud van een overeenkomst als bedoeld in [artikel 4:57c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md)
+####Inhoud van een overeenkomst als bedoeld in artikel 4:57c, eerste lid, van de wet
 
 ### 4.1  
 
 #### *Accountants* 
 
-Een overeenkomst tot uitwisseling van informatie als bedoeld in [artikel 4:57c, eerste lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) voorziet in het volgende: 
+Een overeenkomst tot uitwisseling van informatie als bedoeld in artikel 4:57c, eerste lid, van de wet voorziet in het volgende: 
 
 a. de vaststelling van de documenten en soort informatie die tussen de accountant van de master-icbe en de accountant van de feeder-icbe systematisch worden uitgewisseld en of de documenten en de informatie door de ene accountant aan de andere accountant worden verstrekt dan wel op verzoek beschikbaar worden gesteld;  
 
@@ -5859,13 +5872,13 @@ c. de wijze van en het tijdschema, waaronder alle geldende uiterste termijnen, v
 
 d. de coördinatie van de rol van elke accountant bij de boekhoudkundige werkzaamheden bij het afsluiten van het boekjaar voor de desbetreffende instelling voor collectieve belegging in effecten;  
 
-e. vaststelling van aangelegenheden die als onregelmatigheden worden aangemerkt en in het accountantsverslag van de master-icbe worden opgenomen zodat de accountant van de feeder-icbe kan voldoen aan [artikel 4:57c, derde lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+e. vaststelling van aangelegenheden die als onregelmatigheden worden aangemerkt en in het accountantsverslag van de master-icbe worden opgenomen zodat de accountant van de feeder-icbe kan voldoen aan artikel 4:57c, derde lid, van de wet;  
 
 f. de wijze van en het tijdschema voor behandeling van ad hoc-verzoeken om bijstand van de ene accountant aan de andere accountant, waaronder verzoeken om nadere informatie over in het accountantsverslag van de accountant van de master-icbe openbaar gemaakte onregelmatigheden;  
 
-g. bepalingen over het opstellen van de accountantsverslagen, bedoeld in [artikel 4:57c, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en de wijze van en het tijdschema voor het verstrekken van het accountantsverslag van de master-icbe en concepten van dat accountantsverslag aan de accountant van de feeder-icbe; en  
+g. bepalingen over het opstellen van de accountantsverslagen, bedoeld in artikel 4:57c, tweede lid, van de wet en de wijze van en het tijdschema voor het verstrekken van het accountantsverslag van de master-icbe en concepten van dat accountantsverslag aan de accountant van de feeder-icbe; en  
 
-h. indien de afsluitingsdatum van het boekjaar van de master-icbe afwijkt van de afsluitingsdatum van het boekjaar van de feeder-icbe, de wijze van en het tijdschema voor het opstellen door de accountant van de master-icbe van het ad hoc-verslag, bedoeld in [artikel 4:57c, tweede lid, van de wet](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en voor het verstrekken van het ad hoc-verslag en concepten van dat verslag.   
+h. indien de afsluitingsdatum van het boekjaar van de master-icbe afwijkt van de afsluitingsdatum van het boekjaar van de feeder-icbe, de wijze van en het tijdschema voor het opstellen door de accountant van de master-icbe van het ad hoc-verslag, bedoeld in artikel 4:57c, tweede lid, van de wet en voor het verstrekken van het ad hoc-verslag en concepten van dat verslag.   
 
 ### Bijlage K  
 
@@ -5916,7 +5929,7 @@ h. indien de afsluitingsdatum van het boekjaar van de master-icbe afwijkt van de
 | Assurantiebemiddeling B  | SEA/SEFD  | Onderdelen 1 en 4 van bijlage B   |
 | Erkend Assurantieagent (B)  | SEA/SEFD  | Onderdelen 1 en 4 van bijlage B   |
 | Assurantiebemiddeling A  | SEA/SEFD  | Onderdelen 1 en 4 van bijlage B   |
-| Verklaring bedoeld in [artikel 4, achtste lid, tweede volzin, Wabb](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md)  | Sociaal-Economische Raad  | Onderdelen 1 en 4 van bijlage B   |
+| Verklaring bedoeld in artikel 4, achtste lid, tweede volzin, Wabb  | Sociaal-Economische Raad  | Onderdelen 1 en 4 van bijlage B   |
 | A-modules: Algemeen, Brand, Transport en Varia  | SEA/SEFD  | Onderdelen 1 en 4 van bijlage B   |
 | Branchediploma’s: Brand, Transport, M&S en Varia  | SEA/SEFD  | Onderdelen 1 en 4 van bijlage B   |
 | --- | --- | --- |
@@ -5924,7 +5937,7 @@ h. indien de afsluitingsdatum van het boekjaar van de master-icbe afwijkt van de
 | Assurantiebemiddeling B  | SEA/SEFD  | Onderdelen 1 en 5 van bijlage B   |
 | Erkend assurantieagent (B)  | SEA/SEFD  | Onderdelen 1 en 5 van bijlage B   |
 | Assurantiebemiddeling A  | SEA/SEFD  | Onderdelen 1 en 5 van bijlage B   |
-| Verklaring bedoeld in [artikel 4, achtste lid, tweede volzin, van de Wet assurantiebemiddelingsbedrijf](../../../../../../../wet/wet/assurantiebemiddelingsbedrijf/BWBR0004993/README.md)  | Sociaal-Economische Raad  | Onderdelen 1 en 5 van bijlage B   |
+| Verklaring bedoeld in artikel 4, achtste lid, tweede volzin, van de Wet assurantiebemiddelingsbedrijf  | Sociaal-Economische Raad  | Onderdelen 1 en 5 van bijlage B   |
 | A-modules: Algemeen en Leven  | SEA/SEFD  | Onderdelen 1 en 5 van bijlage B   |
 | Branche diploma Leven  | SEA/SEFD  | Onderdelen 1 en 5 van bijlage B   |
 | FFP diploma<sup>1</sup> en aansluitende ononderbroken FFP PE  | FFP  | Onderdelen 1 en 5 van bijlage B   |

@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 27 juni 2006, nr. KvI2006278987, houdende regels voor het subsidiëren van voorzieningen die de emissie van deeltjes door voertuigen met een dieselmotor verminderen (Subsidieregeling emissieverminderende voorzieningen voor voertuigen met een dieselmotor)
 
 De Staatssecretaris van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op [artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer](../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+Gelet op artikel 15.13, eerste tot en met derde lid, van de Wet milieubeheer;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,11 +17,11 @@ In deze regeling wordt verstaan onder:
 
 a. agentschap: Agentschap NL van het Ministerie van Economische Zaken, Landbouw en Innovatie;  
 
-b. emissieverminderende voorziening: technische voorziening voor een voertuig die de uitstoot van luchtvervuilende stoffen vermindert ten opzichte van de bij of krachtens de [Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) verplicht gestelde emissiewaarden en die als voertuigonderdeel bij of krachtens [die wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) niet verplicht is gesteld;  
+b. emissieverminderende voorziening: technische voorziening voor een voertuig die de uitstoot van luchtvervuilende stoffen vermindert ten opzichte van de bij of krachtens de Wegenverkeerswet 1994 verplicht gestelde emissiewaarden en die als voertuigonderdeel bij of krachtens die wet niet verplicht is gesteld;  
 
 c.voertuig: bestelauto, vrachtauto of bus; 
 
-d. eerste kentekenhouder: de kentekenhouder van een motorrijtuig aan wie de eerste afgifte van een kentekenbewijs of een deel I B heeft plaatsgevonden, als bedoeld in [artikel 25, derde lid, van het Kentekenreglement](../../../../../../../AMvB/kentekenreglement/BWBR0006951/README.md);  
+d. eerste kentekenhouder: de kentekenhouder van een motorrijtuig aan wie de eerste afgifte van een kentekenbewijs of een deel I B heeft plaatsgevonden, als bedoeld in artikel 25, derde lid, van het Kentekenreglement;  
 
 e. richtlijn 2007/46/EG: richtlijn 2007/46/EG van het Europees Parlement en de Raad van de Europese Unie van 5 september 2007 tot vaststelling van een kader voor de goedkeuring van motorvoertuigen en aanhangwagens daarvan en van systemen, onderdelen en technische eenheden die voor dergelijke voertuigen zijn bestemd (Kaderrichtlijn) (Pb EU L 263);  
 
@@ -43,7 +43,7 @@ Deze regeling heeft tot doel een bijdrage te leveren aan de verbetering van de l
 
 ####Wijze van subsidieverstrekking
 
-1. De subsidievaststelling geschiedt in volgorde van ontvangst van de aanvragen, met dien verstande dat, indien de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld als datum van ontvangst van de aanvraag geldt. 
+1. De subsidievaststelling geschiedt in volgorde van ontvangst van de aanvragen, met dien verstande dat, indien de aanvrager krachtens artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld als datum van ontvangst van de aanvraag geldt. 
 2. Indien de inbouw van een voorziening bij de Dienst Wegverkeer moet worden gemeld, geschiedt de subsidievaststelling in afwijking van het eerste lid in volgorde van de meldingen van de inbouw aan de Dienst Wegverkeer.
 
 ### Hoofdstuk  2  

@@ -403,7 +403,7 @@ b. zodanige waarden noodzakelijk zijn als gevolg van een vaststelling of herzien
 
 ### Artikel  4.2  
 
-Artikel 4.1, eerste en tweede lid, is van overeenkomstige toepassing op het verlenen van een omgevingsvergunning waarbij van het bestemmingsplan wordt afgeweken met toepassing van artikel 2.12, eerste lid, onder a, onder 2° en 3°, van de Wet algemene bepalingen omgevingsrecht, die geheel of gedeeltelijk betrekking heeft op gronden behorende tot een zone als bedoeld in artikel 1.4 of artikel 1.4a. 
+Artikel 4.1, eerste en tweede lid, is van overeenkomstige toepassing op het verlenen van een omgevingsvergunning waarbij voor een termijn langer dan tien jaar van het bestemmingsplan wordt afgeweken met toepassing van artikel 2.12, eerste lid, onder a, onder 2° en 3°, van de Wet algemene bepalingen omgevingsrecht, die geheel of gedeeltelijk betrekking heeft op gronden behorende tot een zone als bedoeld in artikel 1.4 of artikel 1.4a. 
 
 ### Artikel  4.3  
 

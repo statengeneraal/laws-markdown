@@ -213,7 +213,7 @@ e.Nothing in this paragraph shall prevent the Contracting Government which first
 
 a.Upon the request of a Contracting Government, concurred in by at least one-third of the Contracting Governments, a conference of Governments will be convened by the Organization to consider amendments to the present Convention.
 
-b.Every amendment adopted by such a conference by a twothirds majority of those present and voting of the Contracting Governments shall be communicated by the Organization to all Contracting Governments for their acceptance.
+b.Every amendment adopted by such a conference by a two-thirds majority of those present and voting of the Contracting Governments shall be communicated by the Organization to all Contracting Governments for their acceptance.
 
 c.Such amendment shall come into force twelve months after the date on which it is accepted by two-thirds of the Contracting Governments. The amendment shall come into force with respect to all Contracting Governments except those which, before it comes into force, make a declaration that they do not accept the amendment.
 

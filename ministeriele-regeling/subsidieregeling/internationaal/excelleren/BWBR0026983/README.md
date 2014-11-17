@@ -397,9 +397,15 @@ In dit hoofdstuk wordt verstaan onder:
 
 Aan de subsidie wordt ten minste de voorwaarde verbonden, dat 
 
-a. binnen een maand na de dagtekening van de beschikking de bij de beschikking behorende uitvoeringsovereenkomst door de subsidieaanvrager ondertekend is geretourneerd, en  
+a. binnen zes maanden na dagtekening van de beschikking is gebleken dat de subsidie-ontvanger 
 
-b. binnen zes maanden na dagtekening van de beschikking is gebleken dat de subsidie-ontvanger met een of meer partijen waaronder ten minste één financier overeenkomsten heeft gesloten op basis waarvan hem door partijen ten behoeve van de nieuwe activiteiten financiering wordt verstrekt ter grootte van een bedrag in contanten dat zich verhoudt tot het subsidiebedrag als ten minste 65 staat tot 35.   
+i. met een of meer partijen waaronder ten minste één financier, of  
+
+ii. door middel van eigen financiering en met ten minste één financier overeenkomsten heeft gesloten op basis waarvan hem door partijen ten behoeve van de nieuwe activiteiten financiering wordt verstrekt ter grootte van een bedrag in contanten dat zich verhoudt tot het subsidiebedrag als ten minste 65 staat tot 35, en   
+
+b. uit de financieringsovereenkomsten blijkt dat de Minister op de punten looptijd van de financiering, de eventuele zekerheden en mogelijke preferentie of achterstelling ten opzichte van andere financiering geen groter financieel risico loopt dan de financier of de overige verstrekkers van financiering, ieder voor zich, en  
+
+c. binnen een maand na het sluiten van de in onderdeel a genoemde overeenkomsten gegevens worden aangeleverd waaruit blijkt dat voldaan is aan de in onderdelen a en b genoemde voorwaarden en dat de bij de beschikking behorende uitvoeringsovereenkomst door de subsidieaanvrager ondertekend is geretourneerd.   
 
 ### Artikel  5.5  
 
@@ -413,7 +419,7 @@ c. de rentabiliteits- en continuïteitsperspectieven van de nieuwe activiteiten 
 
 d. in de voorafgaande periode van twaalf maanden meer middelen aan de ondernemer onttrokken zijn dan een redelijk te achten bedrijfsvoering meebrengt dan wel een verplichting tot een zodanige onttrekking is aangegaan;  
 
-e. de financiering, bedoeld in artikel 5.3, onderdeel b, niet geheel wordt verstrekt in geld;  
+e. de financiering, bedoeld in artikel 5.3, onderdeel a, niet geheel wordt verstrekt in geld;  
 
 f. de financiering kan leiden tot de gehele of gedeeltelijke afwenteling van bestaande risico’s op de Staat;  
 
@@ -431,7 +437,7 @@ l. in verband met de nieuwe activiteiten sprake is van het gebruik van kinder- o
 
 m. onvoldoende vertrouwen bestaat in de wijze waarop systematisch wordt gecontroleerd en geborgd dat in verband met de nieuwe activiteiten geen gebruik wordt gemaakt van kinder- of dwangarbeid door een subsidie-ontvanger, de onderneming waarin de nieuwe activiteiten worden verricht of in enige onderneming van de ondernemer of de eerste wezenlijke toeleverancier voor de nieuwe activiteiten;  
 
-n. de subsidie-ontvanger ook een financiering heeft met een garantie krachtens hoofdstuk 3 (Groeifaciliteit) van de Subsidieregeling starten, groeien en overdragen van een onderneming, indien het risicoprofiel van deze garantie toeneemt door verstrekking van de aangevraagde subsidie.   
+n.de subsidie-ontvanger ook een financiering heeft met een garantie krachtens hoofdstuk 3, titel 3.12 (Groeifaciliteit) van de Regeling nationale EZ subsidies, indien het risicoprofiel van deze garantie toeneemt door verstrekking van de aangevraagde subsidie. 
 
 ### Artikel  5.6  
 

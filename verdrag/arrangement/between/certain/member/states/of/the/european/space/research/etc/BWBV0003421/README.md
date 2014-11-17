@@ -97,7 +97,7 @@ The Organisation shall notify the Participants, after consultation with the Prog
 
 ### Article  16  
 
-The Participants may decide to cease the execution of the programme by a two-thirds majority representing also at least twothirds of the contributions to the programme.
+The Participants may decide to cease the execution of the programme by a two-thirds majority representing also at least two-thirds of the contributions to the programme.
 
 ### Article  17  
 
@@ -122,7 +122,7 @@ Annexes A and B to this Arrangement form an integral part of it.
 
 ### Article  20  
 
-Upon entry into force of the Arrangement, the Government of the French Republic shall register it with the Secretariat of the United Nations, in accordance with [Article 102 of the United Nations Charter](../../../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).
+Upon entry into force of the Arrangement, the Government of the French Republic shall register it with the Secretariat of the United Nations, in accordance with Article 102 of the United Nations Charter.
 
 ### Article  21  
 
@@ -302,7 +302,7 @@ The direct expenditure resulting from the execution of the programme by the Orga
 
 ####Revision clause
 
-The provisions of paragraphs 1 and 2 of this Annex may be revised by a unanimous decision of the Programme Board. The provisions of paragraphs 3 and 4 of this Annex may be revised by a twothirds majority decision of the Programme Board.
+The provisions of paragraphs 1 and 2 of this Annex may be revised by a unanimous decision of the Programme Board. The provisions of paragraphs 3 and 4 of this Annex may be revised by a two-thirds majority decision of the Programme Board.
 
 ####Overeenkomst tussen bepaalde Lid-Staten van de Europese Organisatie voor Ruimteonderzoek en de Europese Organisatie voor Ruimteonderzoek betreffende de uitvoering van een telecommunicatiesatellieten-programma
 
@@ -424,7 +424,7 @@ De Bijlagen A en B bij deze Overeenkomst vormen een integrerend deel daarvan.
 
 ### Artikel  20  
 
-Bij de inwerkingtreding van de Overeenkomst doet de Regering van de Franse Republiek deze registreren bij het Secretariaat van de Verenigde Naties, zulks overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](../../../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).
+Bij de inwerkingtreding van de Overeenkomst doet de Regering van de Franse Republiek deze registreren bij het Secretariaat van de Verenigde Naties, zulks overeenkomstig artikel 102 van het Handvest der Verenigde Naties.
 
 ### Artikel  21  
 

@@ -77,7 +77,7 @@ Met ingang van 1 januari 2010 wijzigen de bedragen die in het kader van het woon
 
 ####Verhuisvoorzieningen Sociaal flankerend beleid
 
-In het Sociaal flankerend beleid sector Rijk 2008-2012 zijn twee voorzieningen opgenomen die betrekking hebben op verhuizing (voorziening 11 en 12). De bij deze voorzieningen behorende bedragen worden jaarlijks per 1 januari geïndexeerd. In de [circulaire van 6 mei 2008](../../../../../../../../../../../circulaire/circulaire/sociaal/flankerend/beleid/sector/rijk/2008–2012/BWBR0023859/README.md), nr. 2008-0000195249 en [van 16 december 2008](../../../../../../../../../../../circulaire/circulaire/wijziging/financiële/arbeidsvoorwaarden/sector/rijk/per/1/etc/BWBR0025133/README.md), kenmerk 2008-0000564650 is abusievelijk aangegeven, dat de indexatie plaatsvindt aan de hand van de consumentenprijsindex over de voorafgaande periode september tot en met oktober. De indexatie vond (per 1 januari 2008 en per 1 januari 2009) en vindt (per 1 januari 2010 en verder) echter plaats op basis van het cijfer over de periode november t/m oktober en resulteert daarmee in iets hogere bedragen. De bedragen per 1 januari 2010 wijzigen als volgt: voorziening 11: € 5.726,83 (was € 5.687,02) voorziening 12: € 11.454,42 (was € 11.374,80)    
+In het Sociaal flankerend beleid sector Rijk 2008-2012 zijn twee voorzieningen opgenomen die betrekking hebben op verhuizing (voorziening 11 en 12). De bij deze voorzieningen behorende bedragen worden jaarlijks per 1 januari geïndexeerd. In de circulaire van 6 mei 2008, nr. 2008-0000195249 en van 16 december 2008, kenmerk 2008-0000564650 is abusievelijk aangegeven, dat de indexatie plaatsvindt aan de hand van de consumentenprijsindex over de voorafgaande periode september tot en met oktober. De indexatie vond (per 1 januari 2008 en per 1 januari 2009) en vindt (per 1 januari 2010 en verder) echter plaats op basis van het cijfer over de periode november t/m oktober en resulteert daarmee in iets hogere bedragen. De bedragen per 1 januari 2010 wijzigen als volgt: voorziening 11: € 5.726,83 (was € 5.687,02) voorziening 12: € 11.454,42 (was € 11.374,80)    
 ### 4  
 
 ####Te werken uren op jaarbasis
@@ -129,7 +129,7 @@ De Belastingdienst heeft bekend gemaakt, dat het bedrag van de levensloopverlofk
 
 ####Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel
 
-In deze regeling wordt bij het vaststellen van de hoogte van de bijdrage een uurprijs in aanmerking genomen die niet hoger is dan de op basis van [artikel 7 van de Wet kinderopvang](../../../../../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) vastgestelde uurprijs. Het kabinet heeft besloten vanaf 2010 afzonderlijke uurprijzen te hanteren, te weten voor: 
+In deze regeling wordt bij het vaststellen van de hoogte van de bijdrage een uurprijs in aanmerking genomen die niet hoger is dan de op basis van artikel 7 van de Wet kinderopvang vastgestelde uurprijs. Het kabinet heeft besloten vanaf 2010 afzonderlijke uurprijzen te hanteren, te weten voor: 
 
 a. dagopvang een bedrag van maximaal € 6,25;  
 
@@ -150,7 +150,7 @@ Het Belastingplan 2010 c.a. bestaat uit 6 onderdelen, te weten:
 
 – Wetgeving is in de maak om vanaf 2011 de ‘eenduidige loonaangifte’ in te voeren, waarbij onder handhaving van de ‘loon over’ methode de correctieberichten met betrekking tot het lopende kalenderjaar komen te vervallen.  
 
-– Voor werknemers jonger dan 23 jaar geldt de ‘kleine banen regeling’, vooralsnog alleen in 2010, waarbij een vrijstelling geldt voor de premies werknemersverzekeringen en de inkomensafhankelijke bijdrage [Zorgverzekeringswet](../../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). Of sprake is van een ‘kleine baan’ wordt bepaald aan de hand van een per leeftijd verschillend maximaal loon.  
+– Voor werknemers jonger dan 23 jaar geldt de ‘kleine banen regeling’, vooralsnog alleen in 2010, waarbij een vrijstelling geldt voor de premies werknemersverzekeringen en de inkomensafhankelijke bijdrage Zorgverzekeringswet. Of sprake is van een ‘kleine baan’ wordt bepaald aan de hand van een per leeftijd verschillend maximaal loon.  
 
 – Het door werknemers, die op 1 januari van het jaar 61 jaar of ouder zijn, opgenomen levenslooploon wordt niet langer als loon uit tegenwoordige arbeid aangemerkt. Er bestaat over dat loon geen recht meer op de arbeidskorting en evenmin op de doorwerkbonus. De groene loonbelastingtabel is van toepassing.  
 
@@ -165,16 +165,16 @@ Het Belastingplan 2010 c.a. bestaat uit 6 onderdelen, te weten:
 
 ####Verhaal van WGA-lasten op de werknemer
 
-De WGA-lasten (premie of eigen risico) van de werkgever mogen op grond van de [Wet financiering sociale verzekeringen](../../../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) (WFSV) voor maximaal de helft verhaald worden op de werknemer. Deze verdeling benadrukt de gezamenlijke verantwoordelijkheid van de werkgever en de werknemer tot het voorkomen en ‘oplossen’ van (gedeeltelijke) arbeidsongeschiktheid en daarmee verband houdende werkloosheid. De Sector Rijk past een uniform verhaal van de WGA-lasten toe bij alle werknemers. De inhouding wordt gebaseerd op de lasten van de werkgever in de sector Rijk met de laagste WGA-kosten. Voor het jaar 2010 is het op de werknemers te verhalen premiepercentage voorlopig vastgesteld op 0,1% (was tot 1 mei 2009 0,05% en sindsdien 0,00%). In de loop van 2010 wordt het definitieve percentage vastgesteld. Het verhaal dient ook toegepast te worden door werkgevers, die gekozen hebben voor het eigenrisicodragerschap. Het verhaal is niet aftrekbaar voor de loonbelasting en vormt aldus een inhouding op het netto loon.    
+De WGA-lasten (premie of eigen risico) van de werkgever mogen op grond van de Wet financiering sociale verzekeringen (WFSV) voor maximaal de helft verhaald worden op de werknemer. Deze verdeling benadrukt de gezamenlijke verantwoordelijkheid van de werkgever en de werknemer tot het voorkomen en ‘oplossen’ van (gedeeltelijke) arbeidsongeschiktheid en daarmee verband houdende werkloosheid. De Sector Rijk past een uniform verhaal van de WGA-lasten toe bij alle werknemers. De inhouding wordt gebaseerd op de lasten van de werkgever in de sector Rijk met de laagste WGA-kosten. Voor het jaar 2010 is het op de werknemers te verhalen premiepercentage voorlopig vastgesteld op 0,1% (was tot 1 mei 2009 0,05% en sindsdien 0,00%). In de loop van 2010 wordt het definitieve percentage vastgesteld. Het verhaal dient ook toegepast te worden door werkgevers, die gekozen hebben voor het eigenrisicodragerschap. Het verhaal is niet aftrekbaar voor de loonbelasting en vormt aldus een inhouding op het netto loon.    
 ### 13  
 
 ####Salderen van kilometers bij vervoer vanwege de werkgever
 
 Vergoedingen voor zakelijke kilometers zijn belastingvrij, voor zover deze een bedrag van € 0,19 per kilometer niet overschrijden. Variabele kilometervergoedingen mogen daarbij gesaldeerd worden om te bepalen of de vergoeding gemiddeld meer is dan € 0,19 per kilometer. Kilometers die gemaakt zijn met vervoer vanwege de werkgever mogen niet in de saldering worden betrokken. In het Interdepartementaal Fiscaal Overleg is benadrukt, dat als vervoer vanwege de werkgever ook wordt aangemerkt: 
 
-- het vervoer van de ambtenaar die meereist met een collega die daarvoor een verhoogde kilometervergoeding ontvangt ([artikel 3 Reisregeling binnenland](../../../../../../../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md));  
+- het vervoer van de ambtenaar die meereist met een collega die daarvoor een verhoogde kilometervergoeding ontvangt (artikel 3 Reisregeling binnenland);  
 
-- het vervoer van de ambtenaar die meereist met een collega die daarvoor ook de omrijdkilometers vergoed krijgt ([artikel 2](../../../../../../../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md) en [3 Reisregeling binnenland](../../../../../../../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md)).       
+- het vervoer van de ambtenaar die meereist met een collega die daarvoor ook de omrijdkilometers vergoed krijgt (artikel 2 en 3 Reisregeling binnenland).       
 ### 14  
 
 ####Regelgeving en circulaires
@@ -190,11 +190,11 @@ J.J.M. Uijlenbroek
 
 | Wetgeving en Algemene maatregelen van bestuur  | Datum  | Staatsblad  | Beschrijving  |
 |:---|:---|:---|:---|
-| 12-02-2009  | 2009, 50  | [Besluit van 21 januari 2009 houdende vaststelling van regels met betrekking tot de hoogte van de vergoeding voor adviescolleges en commissies (Besluit vergoedingen adviescolleges en commissies)](../../../../../../../../../../../AMvB/besluit/vergoedingen/adviescolleges/en/commissies/BWBR0025279/README.md)  |
+| 12-02-2009  | 2009, 50  | Besluit van 21 januari 2009 houdende vaststelling van regels met betrekking tot de hoogte van de vergoeding voor adviescolleges en commissies (Besluit vergoedingen adviescolleges en commissies)  |
 | 12-02-2009  | 2009, 51  | Besluit van 21 januari 2009 houdende vaststelling van het tijdstip van inwerkingtreding van de Wet vergoedingen adviescolleges en commissies  |
 | 02-07-2009  | 2009, 279  | Besluit van 17 juni 2009, houdende wijziging van het Arbeidstijdenbesluit in verband met personenchauffeurs  |
 | 21-07-2009  | 2009, 302  | Besluit van 3 juli 2009 tot wijziging van het Verplaatsingskostenbesluit 1989 en het Besluit  reis-, verblijf- en verhuiskosten politie in verband met enkele wijzigingen in de tegemoetkoming voor woon-werkverkeer en enkele andere wijzigingen  |
-| 26-08-2009  | 2009, 354  | [Besluit van 18 juli 2009, houdende wijziging van het Algemeen Rijksambtenarenreglement en enkele andere besluiten in verband met een aanpassing in de benoemingstermijnen van commissieleden](../../../../../../../../../../../AMvB/wijzigingsbesluit/algemeen/rijksambtenarenreglement/enz./(aanpassing/etc/BWBR0026301/README.md)  |
+| 26-08-2009  | 2009, 354  | Besluit van 18 juli 2009, houdende wijziging van het Algemeen Rijksambtenarenreglement en enkele andere besluiten in verband met een aanpassing in de benoemingstermijnen van commissieleden  |
 
 | Ministeriële regelingen  | Datum  | Kenmerk  | Staatscourant  | Beschrijving  |
 |:---|:---|:---|:---|:---|
@@ -209,18 +209,18 @@ J.J.M. Uijlenbroek
 
 | Circulaires  | Datum  | Kenmerk  | Staatscourant  | Beschrijving  | 08-01-2009  | 2008-0000557098  | 2009, 16  | Aanvullende afspraken betreffende de circulaire "pilot tussen Rijk en Onderwijs"  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|
-| 29-01-2009  | [2009-0000033018](../../../../../../../../../../../circulaire/circulaire/vergoedingen/adviescolleges/en/commissies/BWBR0025276/README.md)  | 2009, 26  | Vergoedingen adviescolleges en commissies  |
-| 23-02-2009  | [2009-0000049210](../../../../../../../../../../../circulaire/circulaire/woon-werkverkeer/regioproblematiek/BWBR0025384/README.md)  | 2009, 43  | Woon-werkverkeer: regioproblematiek  |
-| 27-02-2009  | [2009-0000107039](../../../../../../../../../../../circulaire/circulaire/harmonisering/stagevergoedingen/BWBR0025459/README.md)  | 2009, 49  | Harmonisering stagevergoedingen  |
+| 29-01-2009  | 2009-0000033018  | 2009, 26  | Vergoedingen adviescolleges en commissies  |
+| 23-02-2009  | 2009-0000049210  | 2009, 43  | Woon-werkverkeer: regioproblematiek  |
+| 27-02-2009  | 2009-0000107039  | 2009, 49  | Harmonisering stagevergoedingen  |
 | 02-03-2009  | 2009-0000107860  | 2009, 53  | Woon-werkverkeer: regioproblematiek correctie  |
 | 02-03-2009  | 2009-0000109419  | 2009, 53  | Tarieflijst logies- en overige kosten buitenlandse dienstreizen per 1 april 2009  |
 | 27-04-2009  | 2009-0000216564  | 2009, 88  | WGA-premieverhaal naar 0,0%  |
-| 29-04-2009  | [2009-0000093084](../../../../../../../../../../../circulaire/circulaire/woon-werkverkeer/aanvullende/afspraken/BWBR0025885/README.md)  | 2009, 97  | Woon-werkverkeer: aanvullende afspraken  |
-| 04-06-2009  | [2009-0000297075](../../../../../../../../../../../circulaire/circulaire/aanpassing/voorschriften/(maximum/verrekeningsbedragen/voor/etc/BWBR0025974/README.md)  | 2009, 111  | Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d.  |
-| 04-06-2009  | [2009-0000303728](../../../../../../../../../../../circulaire/circulaire/aanpassing/huurwaarde/dienstwoningen/BWBR0025976/README.md)  | 2009, 111  | Aanpassing huurwaarde dienstwoningen  |
+| 29-04-2009  | 2009-0000093084  | 2009, 97  | Woon-werkverkeer: aanvullende afspraken  |
+| 04-06-2009  | 2009-0000297075  | 2009, 111  | Aanpassing voorschriften ingevolge het Besluit betaling emolumenten burgerlijk rijkspersoneel v.w.b. de maximum verrekeningsbedragen voor verwarming e.d.  |
+| 04-06-2009  | 2009-0000303728  | 2009, 111  | Aanpassing huurwaarde dienstwoningen  |
 | 23-07-2009  | 2009-0000320969  | 2009, 11622  | Arbeidsvoorwaarden personenchauffeurs  |
-| 29-07-2009  | [2009-0000411580](../../../../../../../../../../../circulaire/circulaire/sgi/faciliteiten/BWBR0026232/README.md)  | 2009, 11937  | SGI faciliteiten  |
-| 29-07-2009  | [2009-0000411125](../../../../../../../../../../../circulaire/circulaire/spaarloonregeling/BWBR0026236/README.md)  | 2009, 11938  | Spaarloonregeling  |
+| 29-07-2009  | 2009-0000411580  | 2009, 11937  | SGI faciliteiten  |
+| 29-07-2009  | 2009-0000411125  | 2009, 11938  | Spaarloonregeling  |
 | 08-09-2009  | 2009-0000487069  | 2009, 14049  | Tarieflijst logies- en overige kosten buitenlandse dienstreizen per 1 oktober 2009  |
 | 03-11-2009  | 2009-0000574557  | 2009, 17140  | Doorwerken na 65 jaar bij de sector Rijk  |
 | xx-xx-2009  | 2009-0000591255  | Op datum circulaire niet bekend  | Wijziging in de financiële arbeidsvoorwaarden sector Rijk per 1 januari 2010  |

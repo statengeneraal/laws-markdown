@@ -612,7 +612,8 @@ h) informar sobre otras funciones de asesoramiento o propuestas que le encomiend
 i) presentar al Consejo un informe resumido de sus acciones y decisiones y sobre el alcance de su programa de trabajo. Este informe debe estar a disposición de los países o territorios miembros por parte de la Secretaría General por lo menos 30 (treinta) días antes de la fecha de la reunión del Consejo, excepto en casos donde las reuniones del Comité de Gestión y del Consejo se lleven a cabo en un lapso menor a 30 días. La Secretaría General, con una antelación de 15 días, trasladará a los países o territorios miembros de la Unión el Orden del Día de sus reuniones, y remitirá las Actas resumen de las mismas en el plazo de 15 días a contar desde su celebración.  
 
 j) poner a disposición de los países o territorios miembros de la Unión que así lo requieran, los documentos examinados y elaborados por el Comité.     
-2.  Composición 
+2.  
+###Composición
 
 a) El Comité de Gestión estará integrado por siete miembros: el Presidente del Consejo quien presidirá el Comité de Gestión, y seis países o territorios miembros de la Unión que serán elegidos mediante voto secreto por el Consejo en su reunión constitutiva. De entre los seis miembros electos para integrar el Comité de Gestión, los dos países que obtuvieren el mayor número de votos ejercerán las funciones de Primer y Segundo Vicepresidente del Consejo, respectivamente.  
 
@@ -623,7 +624,8 @@ c) La elección de los miembros del Comité de Gestión se hará mediante voto s
 d) Los miembros del Comité de Gestión elegidos continuarán siendo miembros hasta el Congreso Ordinario siguiente, a menos que el país o territorio miembro representado en el Comité de Gestión se retire voluntariamente. En tal caso, el país o territorio miembro que sigue con el mayor número de votos, si éste aún tiene interés, reemplazará al miembro que deja el Comité de Gestión.  
 
 e) El Secretario General participará con voz y sin voto.     
-3.  Funcionamiento 
+3.  
+###Funcionamiento
 
 a) El Comité de Gestión se reunirá al menos dos veces al año, procurando que dichas reuniones se celebren en fechas equidistantes.  
 
@@ -636,7 +638,8 @@ d) Se tomarán decisiones por mayoría simple.
 e) En caso de que lo solicitaren, los países o territorios miembros podrán financiar la concurrencia de un delegado a las reuniones del Comité de Gestión que se realicen fuera del período del Consejo Consultivo y Ejecutivo, con cargo a su alícuota de Cooperación Técnica. El financiamiento consistirá en la provisión de un pasaje aéreo de ida y vuelta, clase económica, el pago del 80% del monto del viático estipulado por el PNUD para la sede del Comité y la provisión de una tarjeta asistencial.  
 
 f) En su reunión constitutiva, el Comité de Gestión puede asignar funciones específicas, dentro de sus atribuciones, a ciertos miembros para asegurar el funcionamiento eficiente del Comité.     
-4.  Observadores 
+4.  
+###Observadores
 
 a) Podrán participar en las reuniones del Comité de Gestión, en carácter de observadores sin derecho de voto: 
 
@@ -1579,14 +1582,16 @@ h) To review any other advisory functions or proposals referred to it by the Cou
 i) To submit to the Council a summary report of its actions and decisions and on the scope of its work program. This report shall be made available to member countries or territories by the Secretariat at least 30 (thirty) days prior to the date of the Council meeting, except in cases where meetings of the Management Committee and the Council are held within less than 30 days of one another. The General Secretariat shall provide member countries or territories of the Union with the agenda of its meetings at least 15 days in advance, and shall provide them with summary Acts adopted at such within 15 days after the meetings are held;  
 
 j) To make any documents considered and drafted by the Committee available to any member countries or territories of the Union that so request. 
-2. Composition 
+2. 
+###Composition
 
 a) The Management Committee shall be composed of seven members: the Chairman of the Council, who shall chair the Management Committee, and six member countries or territories of the Union, to be elected by the Council at its first meeting. The two countries that receive the most votes among the six members elected to form the Management Committee shall serve as First and Second Vice-Chairman of the Council, respectively.  
 
 b) The elected members of the Management Committee shall continue to serve as members until the next regular Congress, unless the member country or territory represented on the Management Committee voluntarily resigns. In this event, the next member country or territory with the largest number of votes shall, if it is interested in doing so, replace the member leaving the Management Committee.  
 
 c) The General Secretariat shall have the right to speak, but not the right to vote at meetings. 
-3. Operation
+3. 
+###Operation
 
 a) The Management Committee shall meet at least twice a year, and shall attempt to ensure that such meetings are held at equal intervals.  
 

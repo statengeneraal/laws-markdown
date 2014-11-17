@@ -3,11 +3,11 @@
 ##Mandaatbesluit BZK 2012
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties en de Minister voor Immigratie, Integratie en Asiel;  
-Gelet op de [Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de Algemene wet bestuursrecht;
 
-Mede gelet op de [Comptabiliteitswet 2011](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en het [Besluit privaatrechtelijke rechtshandelingen 1996](../../../../../AMvB/besluit/privaatrechtelijke/rechtshandelingen/1996/BWBR0007804/README.md);
+Mede gelet op de Comptabiliteitswet 2011 en het Besluit privaatrechtelijke rechtshandelingen 1996;
 
-Mede gelet op het [Koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de Secretaris-generaal](../../../../../KB/besluit/regeling/functie/en/verantwoordelijkheid/van/de/etc/BWBR0004419/README.md);
+Mede gelet op het Koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de Secretaris-generaal;
 Besluiten vast te stellen het navolgende Mandaatbesluit:     
 ### Hoofdstuk  1  
 
@@ -23,15 +23,13 @@ b.  *Minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties dan we
 
 c.  *stuk:* een schriftelijk stuk dat een besluit inhoudt of een ander schriftelijk stuk dat wordt toegerekend aan de Minister;  
 
-d.  *diensthoofd:* een directeur-generaal, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst of de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering;  
+d.  *diensthoofd:* een directeur-generaal, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering of de Nationaal Commissaris Digitale Overheid;  
 
-e.  *algemeen directeur:* de algemeen directeur van de Rijksgebouwendienst of de algemeen directeur van het Rijksvastgoed- en Ontwikkelingsbedrijf;  
+e.  *directeur:* de leidinggevende werkzaam binnen een in het Organisatiebesluit BZK 2012 genoemd dienstonderdeel die rechtstreeks ressorteert onder een directeur-generaal, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering of de Nationaal Commissaris Digitale Overheid;  
 
-f.  *directeur:* de leidinggevende werkzaam binnen een in het [Organisatiebesluit BZK 2012](../../../../../ministeriele-regeling/organisatiebesluit/bzk/2012/BWBR0031833/README.md) genoemd dienstonderdeel die rechtstreeks ressorteert onder een directeur-generaal, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst of de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering. In het kader van dit besluit worden ook aangemerkt als directeur de rechtstreeks onder de algemeen directeur van de Rijksgebouwendienst of de algemeen directeur van het Rijksvastgoed- en Ontwikkelingsbedrijf ressorterende functionarissen;  
+f.  *mandaat:* de bevoegdheid om namens de Minister besluiten te nemen en stukken af te doen en te ondertekenen;  
 
-g.  *mandaat:* de bevoegdheid om namens de Minister besluiten te nemen en stukken af te doen en te ondertekenen;  
-
-h.  *werkterrein:* de taken van de betreffende functionaris en zijn dienstonderdeel overeenkomstig het [Organisatiebesluit BZK 2012](../../../../../ministeriele-regeling/organisatiebesluit/bzk/2012/BWBR0031833/README.md) en de daarop gebaseerde besluiten.   
+g.  *werkterrein:* de taken van de betreffende functionaris en zijn dienstonderdeel overeenkomstig het Organisatiebesluit BZK 2012 en de daarop gebaseerde besluiten.   
 
 ### Artikel  1.2  
 
@@ -63,7 +61,7 @@ f. het geven van aanwijzingen aan een ander bestuursorgaan op grond van een wett
 
 g. het toepassen van aanwijzing 3 van de Aanwijzingen inzake externe contacten van rijksambtenaren;  
 
-h. het vaststellen van de organisatie van het Ministerie, bedoeld in [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](../../../../../KB/coördinatiebesluit/organisatie/en/bedrijfsvoering/rijksdienst/2011/BWBR0029514/README.md);  
+h. het vaststellen van de organisatie van het Ministerie, bedoeld in artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011;  
 
 i. de verantwoordelijkheid voor departementale verwerking van persoonsgegevens;  
 
@@ -122,7 +120,7 @@ l. buitenlandse autoriteiten, in rang gelijk aan of hoger dan een minister of ee
 
 ### Artikel  3.1  
 
-Aan de Secretaris-generaal wordt mandaat verleend ten aanzien van aangelegenheden die, gelet op het [koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de Secretaris-generaal](../../../../../KB/besluit/regeling/functie/en/verantwoordelijkheid/van/de/etc/BWBR0004419/README.md), behoren tot het werkterrein van de Secretaris-generaal en die, onverminderd het bepaalde in dit besluit, redelijkerwijs niet behoren te worden voorgelegd aan de Minister. 
+Aan de Secretaris-generaal wordt mandaat verleend ten aanzien van aangelegenheden die, gelet op het koninklijk besluit van 18 oktober 1988, houdende regeling van de functie en verantwoordelijkheid van de Secretaris-generaal, behoren tot het werkterrein van de Secretaris-generaal en die, onverminderd het bepaalde in dit besluit, redelijkerwijs niet behoren te worden voorgelegd aan de Minister. 
 
 ### Artikel  3.2  
 
@@ -132,23 +130,23 @@ a. het werkterrein van de functionarissen en organisatieonderdelen van het Minis
 
 b. het beleid en beheer inzake alle aspecten van de bedrijfsvoering van het Ministerie met inbegrip van aangelegenheden op organisatorisch, personeel, financieel en materieel gebied;  
 
-c. het vaststellen van de formatie van het Ministerie, bedoeld in [artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011](../../../../../KB/coördinatiebesluit/organisatie/en/bedrijfsvoering/rijksdienst/2011/BWBR0029514/README.md);  
+c. het vaststellen van de formatie van het Ministerie, bedoeld in artikel 3, tweede lid, van het Coördinatiebesluit organisatie en bedrijfsvoering rijksdienst 2011;  
 
 d. het rechtstreeks leiding geven aan de diensthoofden en overige rechtstreeks onder de Secretaris-generaal ressorterende functionarissen, voor zover ten aanzien van de directeur-generaal voor de Algemene Bestuursdienst niet anders is bepaald;  
 
-e. het nader vaststellen van de inrichting van de onder de directeuren-generaal, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst en de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering ressorterende dienstonderdelen op grond van het [Organisatiebesluit BZK 2012](../../../../../ministeriele-regeling/organisatiebesluit/bzk/2012/BWBR0031833/README.md);  
+e. het nader vaststellen van de inrichting van de onder de directeuren-generaal, het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst, de hoofddirecteur van de Dienst Concernstaf en Bedrijfsvoering en de Nationaal Commissaris Digitale Overheid ressorterende dienstonderdelen op grond van het Organisatiebesluit BZK 2012;  
 
 f. aangelegenheden die op grond van bovendepartementale regelgeving of afspraken op centraal departementaal niveau dienen te worden afgehandeld;  
 
 g. het beslissen op bezwaarschriften, anders dan bedoeld in artikel 4.9;  
 
-h. het optreden als gemachtigd ambtenaar in de zin van departementale regelgeving met betrekking tot de uitvoering van de [Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md);  
+h. het optreden als gemachtigd ambtenaar in de zin van departementale regelgeving met betrekking tot de uitvoering van de Wet openbaarheid van bestuur;  
 
 i. het behandelen van klachten ingevolge een wettelijke regeling met betrekking tot klachtrecht, waarover door een commissie wordt gerapporteerd of geadviseerd;  
 
-j. het vertegenwoordigen van de Minister in het departementaal overleg met de centrales van verenigingen van ambtenaren, bedoeld in [artikel 113 van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+j. het vertegenwoordigen van de Minister in het departementaal overleg met de centrales van verenigingen van ambtenaren, bedoeld in artikel 113 van het Algemeen Rijksambtenarenreglement;  
 
-k. personele beheersbeslissingen op grond van het [Besluit financiën en personeel Kabinetten van de Gouverneurs](../../../../../ministeriele-regeling/besluit/financiën/en/personeel/kabinetten/van/de/gouverneurs/BWBR0030723/README.md) ten aanzien van de directeuren van de Kabinetten van de Gouverneurs van Aruba, Curaçao en Sint Maarten;  
+k. personele beheersbeslissingen op grond van het Besluit financiën en personeel Kabinetten van de Gouverneurs ten aanzien van de directeuren van de Kabinetten van de Gouverneurs van Aruba, Curaçao en Sint Maarten;  
 
 l. de verantwoordelijkheid voor het beheer van de archiefbescheiden bij het Ministerie op grond van de geldende regelgeving;  
 
@@ -156,7 +154,7 @@ m. het vertegenwoordigen van de Minister namens de Staat in gerechtelijke proced
 
 n. het vaststellen van beleidsregels en circulaires met betrekking tot de aangelegenheden, bedoeld in dit artikel;  
 
-o. het beslissen op bezwaarschriften tegen de door het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst genomen besluiten met betrekking tot aanvragen als bedoeld in [hoofdstuk 4 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md).   
+o. het beslissen op bezwaarschriften tegen de door het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst genomen besluiten met betrekking tot aanvragen als bedoeld in hoofdstuk 4 van de Wet op de inlichtingen- en veiligheidsdiensten 2002.   
 
 ### Paragraaf  2  
 
@@ -175,7 +173,7 @@ o. het beslissen op bezwaarschriften tegen de door het hoofd van de Algemene Inl
 
 1.  De Secretaris-generaal is, voor zover niet anders is bepaald, bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen ten aanzien van aangelegenheden op het werkterrein van deze functionarissen, respectievelijk tot het beperken of het intrekken daarvan.   
 2.  De Secretaris-generaal kan, voor zover niet anders is bepaald, bij het verlenen van ondermandaat tevens de bevoegdheid toekennen tot het verlenen van ondermandaat aan een rechtstreeks onder de gemandateerde ressorterende functionaris of in bijzondere gevallen aan een andere functionaris, ten aanzien van aangelegenheden op het werkterrein van die functionaris.   
-3.  De Secretaris-generaal is bevoegd om in bijzondere gevallen, naast of in plaats van deze paragraaf, mondeling of schriftelijk ondermandaat te verlenen aan een onder hem ressorterende functionaris voor een bepaald geval, met inachtneming van [artikel 1, derde lid, van het Besluit privaatrechtelijke rechtshandelingen 1996](../../../../../AMvB/besluit/privaatrechtelijke/rechtshandelingen/1996/BWBR0007804/README.md).  
+3.  De Secretaris-generaal is bevoegd om in bijzondere gevallen, naast of in plaats van deze paragraaf, mondeling of schriftelijk ondermandaat te verlenen aan een onder hem ressorterende functionaris voor een bepaald geval, met inachtneming van artikel 1, derde lid, van het Besluit privaatrechtelijke rechtshandelingen 1996.  
 
 ### Artikel  3.5  
 
@@ -208,7 +206,7 @@ b. het vaststellen van de capaciteitsplannen binnen de door de Secretaris-genera
 
 c. het leiding geven aan de rechtstreeks onder het diensthoofd ressorterende functionarissen;  
 
-d. het optreden als bestuurder in de zin van de [Wet op de ondernemingsraden](../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) in het overleg met de ondernemingsraad van de onder het diensthoofd ressorterende dienstonderdelen, voor zover niet een onder het diensthoofd ressorterende functionaris als zodanig optreedt;  
+d. het optreden als bestuurder in de zin van de Wet op de ondernemingsraden in het overleg met de ondernemingsraad van de onder het diensthoofd ressorterende dienstonderdelen, voor zover niet een onder het diensthoofd ressorterende functionaris als zodanig optreedt;  
 
 e. het vertegenwoordigen van de Minister namens de Staat in gerechtelijke procedures waarbij het dienstonderdeel is betrokken;  
 
@@ -228,28 +226,28 @@ j. het inschakelen van de Landsadvocaat voor ondersteuning of vertegenwoordiging
 
 ### Artikel  4.3  
 
-1.  Het mandaat van het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst omvat tevens de bevoegdheid om te besluiten op aanvragen als bedoeld in [hoofdstuk 4 van de Wet op de inlichtingen- en veiligheidsdiensten 2002](../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md).   
+1.  Het mandaat van het hoofd van de Algemene Inlichtingen- en Veiligheidsdienst omvat tevens de bevoegdheid om te besluiten op aanvragen als bedoeld in hoofdstuk 4 van de Wet op de inlichtingen- en veiligheidsdiensten 2002.   
 2.  Het eerste lid is niet van toepassing op bezwaarschriften dienaangaande.  
 
 ### Artikel  4.4  
 
 Het mandaat van de directeur-generaal Bestuur en Koninkrijksrelaties omvat tevens: 
 
-a. de leiding van het overleg met de centrales van overheidspersoneel en de overheidswerkgevers of verenigingen van overheidswerkgevers, bedoeld in de [Regeling overleg Raad voor het Overheidspersoneelsbeleid](../../../../../KB/regeling/overleg/raad/voor/het/overheidspersoneelsbeleid/BWBR0008494/README.md);  
+a. de leiding van het overleg met de centrales van overheidspersoneel en de overheidswerkgevers of verenigingen van overheidswerkgevers, bedoeld in de Regeling overleg Raad voor het Overheidspersoneelsbeleid;  
 
 b. de bevoegdheid om te beslissen op bezwaarschriften tegen namens de Minister genomen besluiten met betrekking tot de uitvoering van de begroting voor Koninkrijksrelaties, met uitzondering van besluiten die door de Minister, de Secretaris-generaal of de directeur-generaal Bestuur en Koninkrijksrelaties zijn genomen.   
 
 ### Artikel  4.5  
 
-Het mandaat van de directeur-generaal Organisatie en Bedrijfsvoering Rijk omvat tevens de leiding van het overleg met de Sectorcommissie overleg rijkspersoneel, genoemd in het [Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md). 
+Het mandaat van de directeur-generaal Organisatie en Bedrijfsvoering Rijk omvat tevens de leiding van het overleg met de Sectorcommissie overleg rijkspersoneel, genoemd in het Algemeen Rijksambtenarenreglement. 
 
 ### Artikel  4.7  
 
-Het mandaat van de directeur-generaal Wonen en Bouwen omvat tevens het beslissen op verzoeken om informatie, als bedoeld in [artikel 6, tweede lid, van de Uitvoeringsregeling openbaarheid van bestuur Binnenlandse Zaken](../../../../../ministeriele-regeling/uitvoeringsregeling/openbaarheid/van/bestuur/binnenlandse/zaken/BWBR0008536/README.md). 
+Het mandaat van de directeur-generaal Wonen en Bouwen omvat tevens het beslissen op verzoeken om informatie, als bedoeld in artikel 6, tweede lid, van de Uitvoeringsregeling openbaarheid van bestuur Binnenlandse Zaken. 
 
 ### Artikel  4.8  
 
-Het mandaat van de directeur-generaal Rijksvastgoedbedrijf i.o. omvat tevens het beslissen op verzoeken om informatie, als bedoeld in [artikel 6, tweede lid, van de Uitvoeringsregeling openbaarheid van bestuur Binnenlandse Zaken](../../../../../ministeriele-regeling/uitvoeringsregeling/openbaarheid/van/bestuur/binnenlandse/zaken/BWBR0008536/README.md). 
+Het mandaat van de directeur-generaal Rijksvastgoedbedrijf omvat tevens het beslissen op verzoeken om informatie, als bedoeld in artikel 6, tweede lid, van de Uitvoeringsregeling openbaarheid van bestuur Binnenlandse Zaken. 
 
 ### Artikel  4.9  
 
@@ -266,23 +264,23 @@ Het mandaat van het diensthoofd is niet van toepassing op het nemen van besluite
 
 a. de onderdeeloverstijgende kaders van het beleid en beheer inzake alle aspecten van de bedrijfsvoering van het Ministerie met inbegrip van aangelegenheden op organisatorisch, personeel, financieel en materieel gebied en aangelegenheden met betrekking tot het verrichten van privaatrechtelijke rechtshandelingen;  
 
-b. het nader vaststellen van de inrichting van de onder de diensthoofden ressorterende dienstonderdelen op basis van het [Organisatiebesluit BZK 2012](../../../../../ministeriele-regeling/organisatiebesluit/bzk/2012/BWBR0031833/README.md);  
+b. het nader vaststellen van de inrichting van de onder de diensthoofden ressorterende dienstonderdelen op basis van het Organisatiebesluit BZK 2012;  
 
 c. aangelegenheden die op grond van bovendepartementale regelgeving of afspraken op centraal departementaal niveau dienen te worden afgehandeld;  
 
-d. het vertegenwoordigen van de Minister in het departementaal overleg met de centrales van verenigingen van ambtenaren, bedoeld in [artikel 113 van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+d. het vertegenwoordigen van de Minister in het departementaal overleg met de centrales van verenigingen van ambtenaren, bedoeld in artikel 113 van het Algemeen Rijksambtenarenreglement;  
 
-e. personele beheersbeslissingen op grond van het [Besluit financiën en personeel Kabinetten van de Gouverneurs](../../../../../ministeriele-regeling/besluit/financiën/en/personeel/kabinetten/van/de/gouverneurs/BWBR0030723/README.md) ten aanzien van de directeuren van de Kabinetten van de Gouverneurs van Aruba, Curaçao en Sint Maarten;  
+e. personele beheersbeslissingen op grond van het Besluit financiën en personeel Kabinetten van de Gouverneurs ten aanzien van de directeuren van de Kabinetten van de Gouverneurs van Aruba, Curaçao en Sint Maarten;  
 
-f. het optreden als gemachtigd ambtenaar in de zin van departementale regelgeving met betrekking tot de uitvoering van de [Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md);  
+f. het optreden als gemachtigd ambtenaar in de zin van departementale regelgeving met betrekking tot de uitvoering van de Wet openbaarheid van bestuur;  
 
-g. het optreden als bevoegd gezag als bedoeld in het [Besluit melden vermoeden van misstand bij Rijk en Politie](../../../../../AMvB/besluit/melden/vermoeden/van/misstand/bij/rijk/en/politie/BWBR0026951/README.md);  
+g. het optreden als bevoegd gezag als bedoeld in het Besluit melden vermoeden van misstand bij Rijk en Politie;  
 
-h. het verlenen van ontslag aan een ambtenaar op grond van [artikel 125e van de Ambtenarenwet](../../../../../wet/ambtenarenwet/BWBR0001947/README.md);  
+h. het verlenen van ontslag aan een ambtenaar op grond van artikel 125e van de Ambtenarenwet;  
 
 i. het vaststellen en ondertekenen van beleidsregels en circulaires met betrekking tot de aangelegenheden, bedoeld in dit artikel;  
 
-j. het toekennen van vergoeding van representatiekosten op grond van [artikel 68a Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).   
+j. het toekennen van vergoeding van representatiekosten op grond van artikel 68a Algemeen Rijksambtenarenreglement.   
 
 ### Artikel  4.10a  
 
@@ -302,7 +300,7 @@ Het mandaat van de directeur-generaal Bestuur en Koninkrijksrelaties is niet van
 
 1.  Het diensthoofd is, voor zover niet anders is bepaald, bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen ten aanzien van aangelegenheden op het werkterrein van deze functionarissen, respectievelijk tot het beperken of het intrekken daarvan.   
 2.  Het diensthoofd kan bij toepassing van de bevoegdheid tot het verlenen van ondermandaat, bedoeld in het eerste lid, afwijken van hetgeen in dit besluit is bepaald over het mandaat van de algemeen directeur of de directeur, met uitzondering van het bepaalde in artikel 6.7.   
-3.   Het diensthoofd is bevoegd om in bijzondere gevallen, naast of in plaats van het bepaalde in het eerste en tweede lid, mondeling of schriftelijk ondermandaat te verlenen aan een onder hem ressorterende functionaris voor een bepaald geval, met inachtneming van [artikel 1, derde lid, van het Besluit privaatrechtelijke rechtshandelingen 1996](../../../../../AMvB/besluit/privaatrechtelijke/rechtshandelingen/1996/BWBR0007804/README.md).   
+3.   Het diensthoofd is bevoegd om in bijzondere gevallen, naast of in plaats van het bepaalde in het eerste en tweede lid, mondeling of schriftelijk ondermandaat te verlenen aan een onder hem ressorterende functionaris voor een bepaald geval, met inachtneming van artikel 1, derde lid, van het Besluit privaatrechtelijke rechtshandelingen 1996.   
 4.  Het diensthoofd kan, voor zover niet anders is bepaald, bij het verlenen van ondermandaat tevens de bevoegdheid toekennen tot het verlenen van ondermandaat aan een rechtstreeks onder de gemandateerde ressorterende functionaris of in bijzondere gevallen aan een andere functionaris, ten aanzien van aangelegenheden op het werkterrein van de functionaris.  
 
 ### Artikel  4.13  
@@ -312,99 +310,32 @@ Het diensthoofd verleent ondermandaat bij schriftelijk besluit, in overeenstemmi
 ### Artikel  4.14  
 
 1.  Bij tijdelijke afwezigheid of verhindering van het diensthoofd worden diens taken volledig uitgeoefend door het plaatsvervangend diensthoofd.   
-2.  De aanwijzing van een plaatsvervangend diensthoofd geschiedt door het diensthoofd met inachtneming van het [Organisatiebesluit BZK 2012](../../../../../ministeriele-regeling/organisatiebesluit/bzk/2012/BWBR0031833/README.md) en in overeenstemming met de Secretaris-generaal.   
+2.  De aanwijzing van een plaatsvervangend diensthoofd geschiedt door het diensthoofd met inachtneming van het Organisatiebesluit BZK 2012 en in overeenstemming met de Secretaris-generaal.   
 3.  Bij gelijktijdige tijdelijke afwezigheid of verhindering van het diensthoofd en het plaatsvervangend diensthoofd worden de taken van het diensthoofd bij wijze van plaatsvervanging volledig uitgeoefend door de functionaris die daartoe door het diensthoofd in overeenstemming met de Secretaris-generaal is aangewezen.  
 
 ### Hoofdstuk  5  
 
 ####Algemeen directeuren
 
+Vervallen per 30-07-2014 
+
 ### Paragraaf  1  
 
 ####Mandaat algemeen directeuren
 
-### Artikel  5.1  
-
-Aan de algemeen directeur wordt mandaat verleend ten aanzien van aangelegenheden die behoren tot het werkterrein van de algemeen directeur en die, onverminderd het bepaalde in dit besluit, redelijkerwijs niet behoren te worden voorgelegd aan een hoger bevoegd gezag. 
-
-### Artikel  5.2  
-
-Onverminderd het bepaalde in dit besluit, heeft het mandaat van de algemeen directeur, voor zover het betreft de uitvoering van het primaire proces bij de desbetreffende organisatieonderdelen, ieder geval betrekking op: 
-
-a. het werkterrein van de algemeen directeur en de onder de algemeen directeur ressorterende functionarissen en organisatieonderdelen en het uitoefenen van integraal management dienaangaande met inbegrip van aangelegenheden op organisatorisch, personeel, financieel en materieel gebied;  
-
-b. het vaststellen van de capaciteitsplannen binnen de door de Secretaris-generaal vastgestelde formatie van de onder de algemeen directeur ressorterende organisatieonderdelen;  
-
-c. het leiding geven aan de rechtstreeks onder de algemeen directeur ressorterende functionarissen;  
-
-d. het optreden als bestuurder in de zin van de [Wet op de ondernemingsraden](../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) in het overleg met de ondernemingsraad van de onder de algemeen directeur ressorterende organisatieonderdelen, voor zover niet een onder de algemeen directeur ressorterende functionaris als zodanig optreedt;  
-
-e. het vertegenwoordigen van de Minister namens de Staat in gerechtelijke procedures waarbij het organisatieonderdeel is betrokken;  
-
-f. het vaststellen van beleidsregels en circulaires met betrekking tot aangelegenheden op het werkterrein van de algemeen directeur;  
-
-g. het beheer van de archiefbescheiden van de onder de algemeen directeur ressorterende organisatieonderdelen op grond van de desbetreffende departementale regelgeving;  
-
-h. het afnemen van de eed of de belofte van ambtenaren die worden aangesteld bij een onder de algemeen directeur ressorterend organisatieonderdeel;  
-
-i. het beslissen op bezwaarschriften gericht tegen besluiten inzake aangelegenheden die behoren tot zijn werkterrein, en met uitzondering van die besluiten die door de Minister, de Secretaris-generaal, het diensthoofd of de algemeen directeur zijn genomen, onverminderd artikel 4.3 en voor zover in wet- en regelgeving niet anders is bepaald;  
-
-j. het inschakelen van de Landsadvocaat voor ondersteuning of vertegenwoordiging van het Ministerie.   
+Vervallen per 30-07-2014 
 
 ### Paragraaf  2  
 
 ####Beperkingen mandaat algemeen directeuren
 
-### Artikel  5.3  
-
-Het mandaat van de algemeen directeur is niet van toepassing op het nemen van besluiten en het afdoen en ondertekenen van stukken met betrekking tot: 
-
-a. de onderdeeloverstijgende kaders van het beleid en beheer inzake alle aspecten van de bedrijfsvoering van het Ministerie met inbegrip van aangelegenheden op organisatorisch, personeel, financieel en materieel gebied en aangelegenheden met betrekking tot het verrichten van privaatrechtelijke rechtshandelingen;  
-
-b. het nader vaststellen van de inrichting van de onder de diensthoofden ressorterende dienstonderdelen op basis van het [Organisatiebesluit BZK 2012](../../../../../ministeriele-regeling/organisatiebesluit/bzk/2012/BWBR0031833/README.md);  
-
-c. aangelegenheden die op grond van bovendepartementale regelgeving of afspraken op centraal departementaal niveau dienen te worden afgehandeld;  
-
-d. het vertegenwoordigen van de Minister in het departementaal overleg met de centrales van verenigingen van ambtenaren, bedoeld in [artikel 113 van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
-
-e. personele beheersbeslissingen op grond van het [Besluit financiën en personeel Kabinetten van de Gouverneurs](../../../../../ministeriele-regeling/besluit/financiën/en/personeel/kabinetten/van/de/gouverneurs/BWBR0030723/README.md) ten aanzien van de directeuren van de Kabinetten van de Gouverneurs van Aruba, Curaçao en Sint Maarten;  
-
-f. het optreden als gemachtigd ambtenaar in de zin van departementale regelgeving met betrekking tot de uitvoering van de [Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md);  
-
-g. het optreden als bevoegd gezag als bedoeld in de [Regeling procedure inzake het omgaan met een vermoeden van een misstand](../../../../../ministeriele-regeling/regeling/procedure/inzake/het/omgaan/met/een/vermoeden/van/een/misstand/BWBR0011899/README.md);  
-
-h. het verlenen van ontslag aan een ambtenaar op grond van [artikel 125e van de Ambtenarenwet](../../../../../wet/ambtenarenwet/BWBR0001947/README.md);  
-
-i. het vaststellen en ondertekenen van beleidsregels en circulaires met betrekking tot de aangelegenheden, bedoeld in dit artikel;  
-
-j. het toekennen van vergoeding van representatiekosten op grond van [artikel 68a Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).   
-
-### Artikel  5.4  
-
-1.  Het mandaat van de algemeen directeur met betrekking tot het aangaan van financiële verplichtingen en het doen van uitgaven is beperkt tot het budget dat aan de algemeen directeur ter beschikking is gesteld op basis van een door de Secretaris-generaal en de directeur Financieel-economische Zaken goedgekeurde budgettaire uitwerking van dat deel van de begroting waarvoor het diensthoofd verantwoordelijk is.   
-2.  De algemeen directeur is bevoegd om in afwijking van het eerste lid financiële verplichtingen aan te gaan en uitgaven te doen, voor zover aan hem daartoe uitdrukkelijk en schriftelijk mandaat is verleend door de Minister of de Secretaris-generaal, met instemming van de directeur Financieel-economische Zaken.   
-3.   In afwijking van het eerste en het tweede lid geldt voor de algemeen directeur van een baten-lastendienst dat hij verantwoordelijk is voor een kostendekkende exploitatie binnen de afspraken die hij met opdrachtgevers en de eigenaar heeft gemaakt.   
+Vervallen per 30-07-2014 
 
 ### Paragraaf  3  
 
 ####Ondermandaat en plaatsvervanging
 
-### Artikel  5.5  
-
-1.  De algemeen directeur is, voor zover niet anders is bepaald, bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen ten aanzien van aangelegenheden op het werkterrein van deze functionarissen, respectievelijk tot het beperken of het intrekken daarvan.   
-2.  De algemeen directeur kan bij toepassing van de bevoegdheid tot het verlenen van ondermandaat, bedoeld in het eerste lid, afwijken van hetgeen in dit besluit is bepaald over het mandaat van de directeur, met uitzondering van het bepaalde in artikel 6.7.   
-3.   De algemeen directeur is bevoegd om in bijzondere gevallen, naast of in plaats van het bepaalde in het eerste en tweede lid, mondeling of schriftelijk ondermandaat te verlenen aan een onder hem ressorterende functionaris voor een bepaald geval, met inachtneming van [artikel 1, derde lid, van het Besluit privaatrechtelijke rechtshandelingen 1996](../../../../../AMvB/besluit/privaatrechtelijke/rechtshandelingen/1996/BWBR0007804/README.md).   
-4.  De algemeen directeur kan, voor zover niet anders is bepaald, bij het verlenen van ondermandaat tevens de bevoegdheid toekennen tot het verlenen van ondermandaat aan een rechtstreeks onder de gemandateerde ressorterende functionaris of in bijzondere gevallen aan een andere functionaris, ten aanzien van aangelegenheden op het werkterrein van de functionaris.  
-
-### Artikel  5.6  
-
-De algemeen directeur verleent ondermandaat bij schriftelijk besluit, in overeenstemming met het diensthoofd en na advies van de directeur Financieel-economische Zaken en de directeur Personeel en Organisatie. 
-
-### Artikel  5.7  
-
-1.  Bij tijdelijke afwezigheid of verhindering van de algemeen directeur worden diens taken volledig uitgeoefend door de plaatsvervangend algemeen directeur.   
-2.  De aanwijzing van een plaatsvervangend algemeen directeur geschiedt door de algemeen directeur met inachtneming van het [Organisatiebesluit BZK 2012](../../../../../ministeriele-regeling/organisatiebesluit/bzk/2012/BWBR0031833/README.md) en in overeenstemming met het diensthoofd.   
-3.  Bij gelijktijdige tijdelijke afwezigheid of verhindering van de algemeen directeur en de plaatsvervangend algemeen directeur worden de taken van de algemeen directeur bij wijze van plaatsvervanging volledig uitgeoefend door de functionaris die daartoe door de algemeen directeur in overeenstemming met het diensthoofd is aangewezen.  
+Vervallen per 30-07-2014 
 
 ### Hoofdstuk  6  
 
@@ -426,13 +357,13 @@ a. het werkterrein van de directeur en de onder de directeur ressorterende funct
 
 b. het leiding geven aan de rechtstreeks onder de directeur ressorterende functionarissen;  
 
-c. het optreden als bestuurder in de zin van de [Wet op de ondernemingsraden](../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md) in het overleg met de ondernemingsraad van het desbetreffende dienstonderdeel, voor zover het diensthoofd of de algemeen directeur niet als zodanig optreedt;  
+c. het optreden als bestuurder in de zin van de Wet op de ondernemingsraden in het overleg met de ondernemingsraad van het desbetreffende dienstonderdeel, voor zover het diensthoofd niet als zodanig optreedt;  
 
 d. het vertegenwoordigen van de Minister namens de Staat in gerechtelijke procedures waarbij het dienstonderdeel is betrokken;  
 
 e. het afnemen van de eed of de belofte van ambtenaren bij het dienstonderdeel waarover de directeur de leiding voert voor zover het een buitendienst, agentschap of baten-lastendienst betreft.  
 
-f. het beslissen op bezwaarschriften gericht tegen besluiten inzake aangelegenheden die behoren tot zijn werkterrein, en met uitzondering van die besluiten die door de Minister, de Secretaris-generaal, het diensthoofd, de algemeen directeur of de directeur zijn genomen, voor zover in wet- en regelgeving niet anders is bepaald.   
+f. het beslissen op bezwaarschriften gericht tegen besluiten inzake aangelegenheden die behoren tot zijn werkterrein, en met uitzondering van die besluiten die door de Minister, de Secretaris-generaal, het diensthoofd of de directeur zijn genomen, voor zover in wet- en regelgeving niet anders is bepaald.   
 
 ### Paragraaf  2  
 
@@ -442,7 +373,7 @@ f. het beslissen op bezwaarschriften gericht tegen besluiten inzake aangelegenhe
 
 De directeur Financieel-economische Zaken is bevoegd: 
 
-a. tot het af doen en ondertekenen van stukken in verband met de uitvoering van [artikel 21 van de Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) en het [Besluit taak FEZ](../../../../../AMvB/besluit/taak/fez/BWBR0005333/README.md);  
+a. tot het af doen en ondertekenen van stukken in verband met de uitvoering van artikel 21 van de Comptabiliteitswet 2001 en het Besluit taak FEZ;  
 
 b. tot het geven van instructies aan de onderdelen die verantwoordelijk zijn voor de financiële bedrijfsvoering en control;  
 
@@ -462,7 +393,7 @@ c. tot het ondertekenen van brieven met betrekking tot het voeren van de salaris
 
 d. tot het afdoen en ondertekenen van stukken met betrekking tot het aangaan van raamovereenkomsten inzake organisatie-advisering, opleiding, scholing, training en assessments bij het Ministerie, en overeenkomsten inzake departementale vervoersregelingen, arbeidsomstandigheden, bedrijfsmaatschappelijk werk en kinderopvang;  
 
-e. tot het afdoen en ondertekenen van stukken met betrekking tot de vergoeding van representatiekosten op grond van [artikel 68a Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).  
+e. tot het afdoen en ondertekenen van stukken met betrekking tot de vergoeding van representatiekosten op grond van artikel 68a Algemeen Rijksambtenarenreglement.  
 
 f. tot het geven van vakinhoudelijke instructies aan de P&O-afdelingen van alle dienstonderdelen en tot het geven van advies aan managers op het gebied van P&O zaken van het Ministerie.   
 
@@ -517,12 +448,12 @@ l. de onderwerpen genoemd in artikel 4.10.
 
 1.  De directeur is, voor zover niet anders is bepaald, bevoegd tot het verlenen van ondermandaat aan onder hem ressorterende functionarissen ten aanzien van aangelegenheden op het werkterrein van deze functionarissen, respectievelijk tot het beperken of het intrekken daarvan.   
 2.  De directeur kan, voor zover niet anders is bepaald, bij het verlenen van ondermandaat tevens de bevoegdheid toekennen tot het verlenen van ondermandaat aan een rechtstreeks onder de gemandateerde ressorterende functionaris ten aanzien van aangelegenheden op het werkterrein van de functionaris.   
-3.  De directeur is bevoegd om in bijzondere gevallen, naast het bepaalde in het eerste en tweede lid, mondeling of schriftelijk ondermandaat te verlenen aan een onder hem ressorterende functionaris voor een bepaald geval, met inachtneming van [artikel 1, derde lid, van het Besluit privaatrechtelijke rechtshandelingen 1996](../../../../../AMvB/besluit/privaatrechtelijke/rechtshandelingen/1996/BWBR0007804/README.md).   
+3.  De directeur is bevoegd om in bijzondere gevallen, naast het bepaalde in het eerste en tweede lid, mondeling of schriftelijk ondermandaat te verlenen aan een onder hem ressorterende functionaris voor een bepaald geval, met inachtneming van artikel 1, derde lid, van het Besluit privaatrechtelijke rechtshandelingen 1996.   
 4.  De directeur is bevoegd tot het verlenen van ondermandaat aan de rechtstreeks onder de directeur ressorterende leidinggevenden ten aanzien van het vaststellen van beoordelingen, indien en voor zover deze leidinggevenden zelf leidinggevenden aansturen. 
 
 ### Artikel  6.9  
 
-1.  De directeur verleent ondermandaat bij schriftelijk besluit, in overeenstemming met het diensthoofd of de algemeen directeur en met kennisgeving aan de directeur Personeel en Organisatie en de directeur Financieel-economische Zaken.   
+1.  De directeur verleent ondermandaat bij schriftelijk besluit, in overeenstemming met het diensthoofd en met kennisgeving aan de directeur Personeel en Organisatie en de directeur Financieel-economische Zaken.   
 2.  De door de directeur gemandateerde, bedoeld in artikel 6.8, eerste lid, verleent ondermandaat bij schriftelijk besluit, in overeenstemming met de directeur en met kennisgeving aan de directeur Personeel en Organisatie en aan de directeur Financieel-economische Zaken.  
 
 ### Artikel  6.10  
@@ -537,13 +468,13 @@ c. het verlenen van buitengewoon verlof van korte duur;
 
 d. het accorderen van binnenlandse dienstreizen en daarbij gebruikte vervoermiddel;  
 
-e. het voeren respectievelijk de verslaglegging van het gesprek, bedoeld in [artikel 71 van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).   
+e. het voeren respectievelijk de verslaglegging van het gesprek, bedoeld in artikel 71 van het Algemeen Rijksambtenarenreglement.   
 
 ### Artikel  6.11  
 
 1.  Bij tijdelijke afwezigheid of verhindering van de directeur worden diens taken volledig uitgeoefend door de plaatsvervangend directeur.   
-2.  De aanwijzing van een plaatsvervangend directeur geschiedt door de directeur met inachtneming van het [Organisatiebesluit BZK 2012](../../../../../ministeriele-regeling/organisatiebesluit/bzk/2012/BWBR0031833/README.md) en in overeenstemming met het diensthoofd of de algemeen directeur.   
-3.  Bij gelijktijdige tijdelijke afwezigheid of verhindering van de directeur en de plaatsvervangend directeur worden de taken van de directeur bij wijze van plaatsvervanging volledig uitgeoefend door de functionaris die daartoe door de directeur in overeenstemming met het diensthoofd of de algemeen directeur is aangewezen.  
+2.  De aanwijzing van een plaatsvervangend directeur geschiedt door de directeur met inachtneming van het Organisatiebesluit BZK 2012 en in overeenstemming met het diensthoofd of de algemeen directeur.   
+3.  Bij gelijktijdige tijdelijke afwezigheid of verhindering van de directeur en de plaatsvervangend directeur worden de taken van de directeur bij wijze van plaatsvervanging volledig uitgeoefend door de functionaris die daartoe door de directeur in overeenstemming met het diensthoofd is aangewezen.  
 
 ### Hoofdstuk  7  
 
@@ -557,7 +488,7 @@ a. algemene en bijzondere aanwijzingen van de mandaatgever ten aanzien van de ui
 
 b. departementale richtlijnen met betrekking tot paraaf en medeparaaf en het voorleggen en afdoen van stukken;  
 
-c. de van toepassing zijnde wet- en regelgeving en overige departementale richtlijnen, in het bijzonder de [Comptabiliteitswet 2001](../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md), de [Wet op de ondernemingsraden](../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md), het [Besluit privaatrechtelijke rechtshandelingen 1996](../../../../../AMvB/besluit/privaatrechtelijke/rechtshandelingen/1996/BWBR0007804/README.md), het [Besluit taak FEZ](../../../../../AMvB/besluit/taak/fez/BWBR0005333/README.md), het departementale kader voor externe inhuur, het [Organisatiebesluit BZK 2012](../../../../../ministeriele-regeling/organisatiebesluit/bzk/2012/BWBR0031833/README.md) en (de richtlijnen inzake) administratieve organisatiebeschrijvingen.   
+c. de van toepassing zijnde wet- en regelgeving en overige departementale richtlijnen, in het bijzonder de Comptabiliteitswet 2001, de Wet op de ondernemingsraden, het Besluit privaatrechtelijke rechtshandelingen 1996, het Besluit taak FEZ, het departementale kader voor externe inhuur, het Organisatiebesluit BZK 2012 en (de richtlijnen inzake) administratieve organisatiebeschrijvingen.   
 
 ### Artikel  7.2  
 
@@ -588,7 +519,7 @@ In gevallen waarin dit besluit niet voorziet, beslist de Minister, de Secretaris
 ### Artikel  8.1  
 
 1.  De directeur Personeel en Organisatie is belast met het beheer van dit besluit.   
-2.  De Secretaris-generaal, de diensthoofden, de algemeen directeuren, de directeuren, ieder voor zover het hem aangaat, zijn verantwoordelijk voor een juiste, volledige en tijdige aanlevering aan de directeur Personeel en Organisatie van de gegevens die een goed beheer van dit besluit onderscheidenlijk het mandaatregister mogelijk maken.   
+2.  De Secretaris-generaal, de diensthoofden, de directeuren, ieder voor zover het hem aangaat, zijn verantwoordelijk voor een juiste, volledige en tijdige aanlevering aan de directeur Personeel en Organisatie van de gegevens die een goed beheer van dit besluit onderscheidenlijk het mandaatregister mogelijk maken.   
 3.  Het beheer en de aanlevering van gegevens geschieden met inachtneming van de desbetreffende (richtlijnen inzake) administratieve organisatiebeschrijvingen.   
 4.  De directeur Personeel en Organisatie rapporteert aan de Minister en de Secretaris-generaal over het beheer van dit besluit en het centrale mandaatregister.  
 
@@ -619,11 +550,11 @@ Wijziging van dit besluit geschiedt op initiatief van de directeur Personeel en 
 ### Artikel  9.1  
 
 1.  Vóór het tijdstip van inwerkingtreding van dit besluit van kracht zijnde mandaten, ondermandaten, volmachten en machtigingen op de terreinen van het voormalige Ministerie van Justitie en het voormalige Ministerie van Volkshuisvesting, Ruimtelijke Ordening en Milieu die met ingang van 14 oktober 2010 bij het Ministerie zijn ondergebracht en waarin op het tijdstip van inwerkingtreding van dit besluit niet is voorzien, blijven van kracht totdat op grond van dit besluit is voorzien in mandaat, ondermandaat, volmacht of machtiging dan wel is voorzien in intrekking daarvan.   
-2.  Besluiten of handelingen die op grond van het [Mandaatbesluit BZK 2009](../../../../../ministeriele-regeling/mandaatbesluit/bzk/2009/BWBR0027413/README.md) zijn genomen of verricht in de periode van 14 oktober 2010 tot de datum van inwerkingtreding van dit besluit en waarin op het tijdstip van inwerkingtreding van dit besluit niet is voorzien, worden aangemerkt als te zijn genomen of verricht namens de Minister.  
+2.  Besluiten of handelingen die op grond van het Mandaatbesluit BZK 2009 zijn genomen of verricht in de periode van 14 oktober 2010 tot de datum van inwerkingtreding van dit besluit en waarin op het tijdstip van inwerkingtreding van dit besluit niet is voorzien, worden aangemerkt als te zijn genomen of verricht namens de Minister.  
 
 ### Artikel  9.2  
 
-Het [Mandaatbesluit BZK 2009](../../../../../ministeriele-regeling/mandaatbesluit/bzk/2009/BWBR0027413/README.md), de [Tijdelijke regeling mandaat, volmacht en machtiging Immigratie en Asiel](../../../../../ministeriele-regeling/tijdelijke/regeling/mandaat/volmacht/en/machtiging/immigratie/en/asiel/BWBR0028860/README.md) en het [Tijdelijk besluit mandaat, volmacht en machtiging Wonen, Wijken en Integratie, en Rijksgebouwendienst](../../../../../ministeriele-regeling/tijdelijk/besluit/mandaat/volmacht/en/machtiging/wonen/wijken/en/etc/BWBR0029897/README.md) worden ingetrokken. 
+Het Mandaatbesluit BZK 2009, de Tijdelijke regeling mandaat, volmacht en machtiging Immigratie en Asiel en het Tijdelijk besluit mandaat, volmacht en machtiging Wonen, Wijken en Integratie, en Rijksgebouwendienst worden ingetrokken. 
 
 ### Artikel  9.3  
 
