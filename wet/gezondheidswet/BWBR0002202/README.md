@@ -28,38 +28,50 @@ d. "provinciale kruisverenigingen": de provinciale verenigingen met volledige re
 
 ####De Nationale Raad voor de Volksgezondheid 
 
+Vervallen per 21-02-1997 
+
 ### §  1  
 
 ####Van de zetel en de taak 
+
+Vervallen per 21-02-1997 
 
 ### §  2  
 
 ####Van de samenstelling 
 
+Vervallen per 21-02-1997 
+
 ### §  3  
 
 ####Van de Kamers en de commissies 
+
+Vervallen per 21-02-1997 
 
 ### §  4  
 
 ####Van de werkwijze 
 
+Vervallen per 21-02-1997 
+
 ### §  5  
 
 ####Van de vergoedingen 
 
-### HOOFDSTUK  III  
+Vervallen per 21-02-1997 
 
-####DE GEZONDHEIDSRAAD 
+### Hoofdstuk  III  
+
+####De Gezondheidsraad
 
 ### Artikel  21  
 
 1.  Er is een Gezondheidsraad.   
-2.  De in [artikel 10, eerste volzin, van de Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) opgenomen bovengrens voor het aantal leden van adviescolleges geldt niet voor de Gezondheidsraad.   
-3.  In afwijking van [artikel 10, tweede volzin, van de Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) kunnen bij koninklijk besluit uit de andere leden ten hoogste twee vice-voorzitters worden benoemd.   
+2.  De in artikel 10, eerste volzin, van de Kaderwet adviescolleges opgenomen bovengrens voor het aantal leden van adviescolleges geldt niet voor de Gezondheidsraad.   
+3.  In afwijking van artikel 10, tweede volzin, van de Kaderwet adviescolleges kunnen bij koninklijk besluit uit de andere leden ten hoogste twee vice-voorzitters worden benoemd.   
 4.  Een vice-voorzitter oefent een door de voorzitter in overeenstemming met die vice-voorzitter te bepalen gedeelte van de taak van de voorzitter uit.   
-5.  In afwijking van [artikel 11, tweede lid, van de Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md), kan herbenoeming van de leden driemaal plaatsvinden.   
-6.  In afwijking van [artikel 11, tweede lid, van de Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md), worden de voorzitter en vice-voorzitters, ongeacht de duur van een eerder lidmaatschap, voor ten hoogste vier jaar benoemd als lid, tevens voorzitter, onderscheidenlijk vice-voorzitter. Herbenoeming als lid, tevens voorzitter dan wel vice-voorzitter, kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden.  
+5.  In afwijking van artikel 11, tweede lid, van de Kaderwet adviescolleges, kan herbenoeming van de leden driemaal plaatsvinden.   
+6.  In afwijking van artikel 11, tweede lid, van de Kaderwet adviescolleges, worden de voorzitter en vice-voorzitters, ongeacht de duur van een eerder lidmaatschap, voor ten hoogste vier jaar benoemd als lid, tevens voorzitter, onderscheidenlijk vice-voorzitter. Herbenoeming als lid, tevens voorzitter dan wel vice-voorzitter, kan twee maal en telkens voor ten hoogste vier jaar plaatsvinden.  
 
 ### Artikel  22  
 
@@ -67,29 +79,29 @@ De Gezondheidsraad heeft tot taak Onze Ministers en de beide kamers der Staten-G
 
 ###Artikel 23 
 
-Voor de toepassing van de [Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) en [artikel 9 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) wordt een rapport dat geen advies bevat, gelijkgesteld aan een advies.
+Voor de toepassing van de Kaderwet adviescolleges en artikel 9 van de Wet openbaarheid van bestuur wordt een rapport dat geen advies bevat, gelijkgesteld aan een advies.
 
 ### Artikel  24  
 
-1.  In afwijking van [artikel 16 van de Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) kan de voorzitter uit de leden commissies instellen.   
+1.  In afwijking van artikel 16 van de Kaderwet adviescolleges kan de voorzitter uit de leden commissies instellen.   
 2.  De voorzitter wijst uit de leden van een commissie een voorzitter aan.   
 3.  De voorzitter en de vice-voorzitters zijn bevoegd de vergaderingen van de onderscheidene commissies, waarvan zij geen lid zijn, bij te wonen en aan de beraadslagingen deel te nemen.  
 
 ### Artikel  25  
 
-In afwijking van [artikel 19, tweede lid, van de Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) kan de voorzitter op verzoek van een commissie andere personen betrekken bij de werkzaamheden van die commissie, voor zover dat voor de vervulling van haar taak nodig is. 
+In afwijking van artikel 19, tweede lid, van de Kaderwet adviescolleges kan de voorzitter op verzoek van een commissie andere personen betrekken bij de werkzaamheden van die commissie, voor zover dat voor de vervulling van haar taak nodig is. 
 
 ### Artikel  26  
 
-In afwijking van de [artikelen 17](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md), [18](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) en [20, eerste lid, van de Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) is een commissie als bedoeld in artikel 24 bevoegd in naam van de Gezondheidsraad door tussenkomst van de voorzitter een rapport als bedoeld in artikel 22 uit te brengen. Op de beraadslaging en besluitvorming binnen een commissie is [artikel 20 van de Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) van overeenkomstige toepassing. 
+In afwijking van de artikelen 17, 18 en 20, eerste lid, van de Kaderwet adviescolleges is een commissie als bedoeld in artikel 24 bevoegd in naam van de Gezondheidsraad door tussenkomst van de voorzitter een rapport als bedoeld in artikel 22 uit te brengen. Op de beraadslaging en besluitvorming binnen een commissie is artikel 20 van de Kaderwet adviescolleges van overeenkomstige toepassing. 
 
 ### Artikel  26a  
 
-In afwijking van [artikel 21 van de Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) wordt een reglement van orde voor de Gezondheidsraad en de commissies door de voorzitter vastgesteld. 
+In afwijking van artikel 21 van de Kaderwet adviescolleges wordt een reglement van orde voor de Gezondheidsraad en de commissies door de voorzitter vastgesteld. 
 
 ###Artikel 27 
 
-In afwijking van [artikel 15, tweede lid, van de Kaderwet adviescolleges](../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) is de secretaris van de Gezondheidsraad voor zijn werkzaamheden voor de Gezondheidsraad uitsluitend verantwoording schuldig aan de voorzitter.
+In afwijking van artikel 15, tweede lid, van de Kaderwet adviescolleges is de secretaris van de Gezondheidsraad voor zijn werkzaamheden voor de Gezondheidsraad uitsluitend verantwoording schuldig aan de voorzitter.
 
 ### Hoofdstuk  IV  
 
@@ -107,7 +119,7 @@ a. het verrichten van onderzoek naar de staat van de volksgezondheid en de deter
 
 b. het toezicht op de naleving en de opsporing van overtredingen van het bepaalde bij of krachtens wettelijke voorschriften op het gebied van de volksgezondheid, een en ander voor zover de ambtenaren van het Staatstoezicht daarmede zijn belast bij of krachtens wettelijk voorschrift;   
 
-c. het geven of weigeren van de toestemming, bedoeld in [artikel 40, derde lid, onder c, van de Geneesmiddelenwet](../../../wet/geneesmiddelenwet/BWBR0021505/README.md).    
+c. het geven of weigeren van de toestemming, bedoeld in artikel 40, derde lid, onder c, van de Geneesmiddelenwet.    
 2.  Het Staatstoezicht heeft voorts tot taak het uitbrengen van adviezen en het verstrekken van inlichtingen aan Onze Minister op verzoek of uit eigen beweging, met betrekking tot hetgeen het Staatstoezicht op grond van het eerste lid ter kennis is gekomen.    
 3.  De in het eerste lid, onder b, genoemde taken strekken zich ook uit tot de voorschriften van een verordening van de Raad van de Europese Gemeenschappen op het gebied van de volksgezondheid, voor zover de verordening toezicht op de naleving en opsporing van overtredingen daarvan vordert.   
 4. Bij algemene maatregel van bestuur kan worden bepaald dat een of meer onderdelen van het Staatstoezicht ressorteren onder een andere Minister dan Onze Minister van Volksgezondheid, Welzijn en Sport. De voordracht voor een zodanige algemene maatregel van bestuur wordt gedaan door Onze Minister van Volksgezondheid, Welzijn en Sport, in overeenstemming met Onze Minister wie het mede aangaat.
@@ -127,20 +139,20 @@ Aan het hoofd van elk onderdeel van het Staatstoezicht staat een hoofdinspecteur
 
 a. Wet toezicht op krankzinnigen BES;  
 
-b. [Wet beperking tabaksgebruik BES](../../../wet-BES/wet/beperking/tabaksgebruik/bes/BWBR0028544/README.md);  
+b. Wet beperking tabaksgebruik BES;  
 
-c. [Warenwet BES](../../../wet-BES/warenwet/bes/BWBR0028619/README.md);  
+c. Warenwet BES;  
 
-d. [Opiumwet 1960 BES](../../../wet-BES/opiumwet/1960/bes/BWBR0028519/README.md);  
+d. Opiumwet 1960 BES;  
 
-e. [Wet op de geneesmiddelenvoorziening BES](../../../wet-BES/wet/op/de/geneesmiddelenvoorziening/bes/BWBR0028486/README.md);  
+e. Wet op de geneesmiddelenvoorziening BES;  
 
-f. [Wet organisatie bloedvoorziening BES](../../../wet-BES/wet/organisatie/bloedvoorziening/bes/BWBR0028454/README.md);  
+f. Wet organisatie bloedvoorziening BES;  
 
-g. [Wet zorginstellingen BES](../../../wet-BES/wet/zorginstellingen/bes/BWBR0028734/README.md);  
+g. Wet zorginstellingen BES;  
 
 h. Vergunningwet BES.    
-3.  Het Staatstoezicht op de Volksgezondheid oefent in de openbare lichamen Bonaire, Sint Eustatius en Saba zijn taken uit met inachtneming van de rechten, plichten en bevoegdheden, genoemd in de [Hoofdstukken 3](../../../wet-BES/wet/inspectie/biociden/bes/BWBR0028563/README.md), [4](../../../wet-BES/wet/inspectie/biociden/bes/BWBR0028563/README.md) en [5 van de Wet Inspectie Biociden BES](../../../wet-BES/wet/inspectie/biociden/bes/BWBR0028563/README.md).  
+3.  Het Staatstoezicht op de Volksgezondheid oefent in de openbare lichamen Bonaire, Sint Eustatius en Saba zijn taken uit met inachtneming van de rechten, plichten en bevoegdheden, genoemd in de Hoofdstukken 3, 4 en 5 van de Wet Inspectie Biociden BES.  
 
 ### §  3  
 
@@ -150,9 +162,9 @@ h. Vergunningwet BES.
 
 1.  Met betrekking tot de uitvoering van de in artikel 36, eerste lid, onder a, bedoelde taak: 
 
-a. zijn de [artikelen 5:12](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:17](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:18](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.  
+a. zijn de artikelen 5:12, 5:13, 5:15, 5:16, 5:17, 5:18 en 5:20 van de Algemene wet bestuursrecht van overeenkomstige toepassing.  
 
-b. zijn de ambtenaren, voor zover dat voor de vervulling van hun taak noodzakelijk is en in afwijking van [artikel 5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), bevoegd tot inzage van de patiëntendossiers. Voor zover de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding van het dossier verplicht is, geldt gelijke verplichting voor de betrokken ambtenaar.     
+b. zijn de ambtenaren, voor zover dat voor de vervulling van hun taak noodzakelijk is en in afwijking van artikel 5:20 van de Algemene wet bestuursrecht, bevoegd tot inzage van de patiëntendossiers. Voor zover de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding van het dossier verplicht is, geldt gelijke verplichting voor de betrokken ambtenaar.     
 2.  Onze Minister is bevoegd een last onder dwangsom op te leggen ter zake van een gedraging die in strijd is met het eerste lid, onder b.  
 
 ### Artikel  41  
@@ -293,8 +305,8 @@ Waar in enig wettelijk voorschrift wordt verwezen naar een artikel van de Gezond
 
 ### Artikel  69a  
 
-1.  Na de inwerkingtreding van de [Aanpassingswet derde tranche Awb I](../../../wet/aanpassingswet/derde/tranche/awb/i/BWBR0008994/README.md) berust het Besluit Staatstoezicht Volksgezondheid op artikel 36, eerste lid, van deze wet.    
-2.  Ten aanzien van de in [artikel 145 van de Wet op de beroepen in de individuele gezondheidszorg](../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) genoemde wetten is deze wet van toepassing zoals deze luidde voor de inwerkingtreding van de [Aanpassingswet derde tranche Awb I](../../../wet/aanpassingswet/derde/tranche/awb/i/BWBR0008994/README.md).   
+1.  Na de inwerkingtreding van de Aanpassingswet derde tranche Awb I berust het Besluit Staatstoezicht Volksgezondheid op artikel 36, eerste lid, van deze wet.    
+2.  Ten aanzien van de in artikel 145 van de Wet op de beroepen in de individuele gezondheidszorg genoemde wetten is deze wet van toepassing zoals deze luidde voor de inwerkingtreding van de Aanpassingswet derde tranche Awb I.   
 
 ### Artikel  70  
 

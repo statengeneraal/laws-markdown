@@ -19,17 +19,17 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 1. Bij de toepassing van dit wetboek gelden de bepalingen van het gemene strafrecht, daaronder begrepen de negende titel van het eerste boek van het Wetboek van Strafrecht, behoudens de afwijkingen bij de wet vastgesteld.  
 2.  In dit wetboek wordt verstaan onder: 
 
-a.  *Wetboek van Strafrecht:* het [Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) van het Europese deel van Nederland.  
+a.  *Wetboek van Strafrecht:* het Wetboek van Strafrecht van het Europese deel van Nederland.  
 
-b.  *Wetboek van Strafvordering:* het [Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van het Europese deel van Nederland.   
+b.  *Wetboek van Strafvordering:* het Wetboek van Strafvordering van het Europese deel van Nederland.   
 
 ### Artikel  2  
 
-Op de niet in dit wetboek omschreven strafbare feiten, begaan door in [artikel 2 van de Wet militaire strafrechtspraak](../../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) genoemde personen, is het gemene strafrecht toepasselijk, behoudens de afwijkingen bij de wet vastgesteld. 
+Op de niet in dit wetboek omschreven strafbare feiten, begaan door in artikel 2 van de Wet militaire strafrechtspraak genoemde personen, is het gemene strafrecht toepasselijk, behoudens de afwijkingen bij de wet vastgesteld. 
 
 ### Artikel  3  
 
-De in het [Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) voorkomende bepalingen betreffende feiten, begaan aan boord van of met betrekking tot een Nederlands schip, zijn ook toepasselijk op die feiten, begaan aan boord van of met betrekking tot een vaartuig der krijgsmacht, tenzij de inhoud dier bepalingen deze toepasselijkheid uitsluit of het feit valt onder een zwaardere strafbepaling. 
+De in het Wetboek van Strafrecht voorkomende bepalingen betreffende feiten, begaan aan boord van of met betrekking tot een Nederlands schip, zijn ook toepasselijk op die feiten, begaan aan boord van of met betrekking tot een vaartuig der krijgsmacht, tenzij de inhoud dier bepalingen deze toepasselijkheid uitsluit of het feit valt onder een zwaardere strafbepaling. 
 
 ### Titel  I  
 
@@ -41,7 +41,7 @@ De Nederlandse strafwet is toepasselijk op de militair, die zich buiten Nederlan
 
 ### Artikel  5  
 
-De Nederlandse strafwet is toepasselijk op ieder die zich, in tijd van oorlog, buiten Nederland schuldig maakt aan een strafbaar feit, waarvan onder die omstandigheden de kennisneming behoort aan de gerechten bedoeld in de [Wet militaire strafrechtspraak](../../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md). 
+De Nederlandse strafwet is toepasselijk op ieder die zich, in tijd van oorlog, buiten Nederland schuldig maakt aan een strafbaar feit, waarvan onder die omstandigheden de kennisneming behoort aan de gerechten bedoeld in de Wet militaire strafrechtspraak. 
 
 ### Titel  IA  
 
@@ -49,12 +49,12 @@ De Nederlandse strafwet is toepasselijk op ieder die zich, in tijd van oorlog, b
 
 ### Artikel  5a  
 
-1.  Op feiten door in [artikel 2 van de Wet militaire strafrechtspraak](../../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) genoemde personen begaan in of met betrekking tot Aruba, Curaçao of Sint Maarten of in of met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba, is het aldaar geldende strafrecht toepasselijk, indien de Nederlandse strafwet tegen zodanige feiten geen straf bedreigt.   
+1.  Op feiten door in artikel 2 van de Wet militaire strafrechtspraak genoemde personen begaan in of met betrekking tot Aruba, Curaçao of Sint Maarten of in of met betrekking tot de openbare lichamen Bonaire, Sint Eustatius en Saba, is het aldaar geldende strafrecht toepasselijk, indien de Nederlandse strafwet tegen zodanige feiten geen straf bedreigt.   
 2.  Indien het strafrecht van een der in het vorige lid genoemde Rijksdelen wordt toegepast, kunnen tevens worden toegepast de bepalingen van de Nederlandse strafwet, die betrekking hebben op de voorwaardelijke veroordeling en op de terbeschikkingstelling wegens gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens.  
 
 ### Artikel  5b  
 
-Indien de Nederlandse strafwet op feiten door in [artikel 2 van de Wet militaire strafrechtspraak](../../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) genoemde personen begaan in of met betrekking tot Aruba, Curaçao of Sint Maarten of in of met betrekking tot de openbare lichamen Bonaire, Sint Eustatius of Saba, een lagere vrijheidsstraf of geldboete stelt dan de strafwet van Aruba, Curaçao of Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba, kan een vrijheidsstraf of geldboete worden opgelegd van ten hoogste de tijd dan wel het bedrag, gesteld bij laatstbedoelde strafwet. 
+Indien de Nederlandse strafwet op feiten door in artikel 2 van de Wet militaire strafrechtspraak genoemde personen begaan in of met betrekking tot Aruba, Curaçao of Sint Maarten of in of met betrekking tot de openbare lichamen Bonaire, Sint Eustatius of Saba, een lagere vrijheidsstraf of geldboete stelt dan de strafwet van Aruba, Curaçao of Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba, kan een vrijheidsstraf of geldboete worden opgelegd van ten hoogste de tijd dan wel het bedrag, gesteld bij laatstbedoelde strafwet. 
 
 ### Titel  II  
 
@@ -76,12 +76,12 @@ Voor de gevangenisstraf en de hechtenis gelden de in het gemene recht daarvoor g
 
 1. Ingeval gevangenisstraf of hechtenis kan worden uitgesproken is de rechter bevoegd in plaats daarvan tot militaire detentie te veroordelen.
 2. De duur van de militaire detentie zal de duur van de tegen het feit bedreigde vrijheidsstraf en die van zes maanden niet mogen overschrijden.
-3. [Artikel 27 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is bij het opleggen van militaire detentie van overeenkomstige toepassing.
+3. Artikel 27 van het Wetboek van Strafrecht is bij het opleggen van militaire detentie van overeenkomstige toepassing.
 
 ### Artikel  12  
 
-1.  Militaire detentie wordt als regel in algehele of beperkte gemeenschap ondergaan. De straf wordt ten uitvoer gelegd in een inrichting als bedoeld in [artikel 1, onder b, van de Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md).   
-2.  Voor militairen die in een penitentiaire inrichting een vrijheidsstraf ondergaan, kunnen bij of krachtens algemene maatregel van bestuur en in afwijking van de bij of krachtens de [Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) gestelde regels bijzondere voorschriften worden vastgesteld met betrekking tot: 
+1.  Militaire detentie wordt als regel in algehele of beperkte gemeenschap ondergaan. De straf wordt ten uitvoer gelegd in een inrichting als bedoeld in artikel 1, onder b, van de Penitentiaire beginselenwet.   
+2.  Voor militairen die in een penitentiaire inrichting een vrijheidsstraf ondergaan, kunnen bij of krachtens algemene maatregel van bestuur en in afwijking van de bij of krachtens de Penitentiaire beginselenwet gestelde regels bijzondere voorschriften worden vastgesteld met betrekking tot: 
 
 a. de indeling en het beheer van en het regime in de desbetreffende inrichtingen;  
 
@@ -107,22 +107,22 @@ Een opdracht tot het verlenen van bijstand aan een voorwaardelijk veroordeelde k
 ### Artikel  35  
 
 1.  Ontzetting van de rechten, vermeld in artikel 28, eerste lid, onder 1° en 2°, van het Wetboek van Strafrecht, kan worden uitgesproken bij veroordeling wegens enig opzettelijk gepleegd misdrijf, in dit wetboek omschreven.   
-2.  Ontzetting van het recht, vermeld in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), kan worden uitgesproken bij veroordeling tot gevangenisstraf van tenminste een jaar wegens het plegen van een misdrijf als omschreven in het Tweede Boek, Titel I, van dit wetboek.  
+2.  Ontzetting van het recht, vermeld in artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht, kan worden uitgesproken bij veroordeling tot gevangenisstraf van tenminste een jaar wegens het plegen van een misdrijf als omschreven in het Tweede Boek, Titel I, van dit wetboek.  
 
 ### Artikel  35a  
 
-Indien een persoon genoemd in [artikel 2 van de Wet militaire strafrechtspraak](../../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) naar aanleiding van een strafbaar feit begaan in of met betrekking tot Aruba, Curaçao en Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba, is ontzet uit een van de rechten vermeld in [artikel 28, eerste lid, onderdelen 1° tot en met 5°, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), heeft deze ontzetting ook betrekking op de uitoefening van die rechten in de betrokken rijksdelen en openbare lichamen. 
+Indien een persoon genoemd in artikel 2 van de Wet militaire strafrechtspraak naar aanleiding van een strafbaar feit begaan in of met betrekking tot Aruba, Curaçao en Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius en Saba, is ontzet uit een van de rechten vermeld in artikel 28, eerste lid, onderdelen 1° tot en met 5°, van het Wetboek van Strafrecht, heeft deze ontzetting ook betrekking op de uitoefening van die rechten in de betrokken rijksdelen en openbare lichamen. 
 
 ### Artikel  35b  
 
-1.  Ingeval tegen de bestuurder van een motorrijtuig proces-verbaal wordt opgemaakt ter zake van overtreding van artikel 163 of artikel 164 van dit wetboek, is [artikel 164 van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van overeenkomstige toepassing, met dien verstande dat de in laatstgenoemd artikel omschreven verplichting tot overgifte betrekking heeft op elk aan de bestuurder ingevolge enige binnen het Koninkrijk geldende regeling afgegeven rijbewijs alsmede op het hem in het buitenland uitgereikt internationaal rijbewijs.   
-2.  Indien [artikel 164 van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) wordt toegepast in een geval dat zich voordoet in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba, worden onder opsporingsambtenaren als bedoeld in dat artikel mede begrepen de militairen die aldaar zijn aangesteld als opsporingsambtenaar.  
+1.  Ingeval tegen de bestuurder van een motorrijtuig proces-verbaal wordt opgemaakt ter zake van overtreding van artikel 163 of artikel 164 van dit wetboek, is artikel 164 van de Wegenverkeerswet 1994 van overeenkomstige toepassing, met dien verstande dat de in laatstgenoemd artikel omschreven verplichting tot overgifte betrekking heeft op elk aan de bestuurder ingevolge enige binnen het Koninkrijk geldende regeling afgegeven rijbewijs alsmede op het hem in het buitenland uitgereikt internationaal rijbewijs.   
+2.  Indien artikel 164 van de Wegenverkeerswet 1994 wordt toegepast in een geval dat zich voordoet in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba, worden onder opsporingsambtenaren als bedoeld in dat artikel mede begrepen de militairen die aldaar zijn aangesteld als opsporingsambtenaar.  
 
 ### Artikel  36  
 
 1.  Bij veroordeling van de bestuurder van een motorrijtuig wegens overtreding van artikel 163, 164, 167 of 169 kan hem de bevoegdheid motorrijtuigen te besturen voor de duur van ten hoogste vijf jaren worden ontzegd.   
-2.  Voor de toepassing van het eerste lid wordt een strafbeschikking als bedoeld in [Titel IVA van het Tweede Boek van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) met een veroordeling gelijkgesteld.  
-3.   [Artikel 179, vierde en zesde lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is van overeenkomstige toepassing.  
+2.  Voor de toepassing van het eerste lid wordt een strafbeschikking als bedoeld in Titel IVA van het Tweede Boek van het Wetboek van Strafvordering met een veroordeling gelijkgesteld.  
+3.   Artikel 179, vierde en zesde lid, van de Wegenverkeerswet 1994 is van overeenkomstige toepassing.  
 
 ###Artikel 36a 
 
@@ -143,11 +143,11 @@ Bij algemene maatregel van rijksbestuur kunnen regels worden gesteld met betrekk
 
 ### Artikel  44a  
 
-De verpleging van personen die krachtens uitspraak van een van de gerechten bedoeld in de [Wet militaire strafrechtspraak](../../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) ter beschikking zijn gesteld, kan in de gevallen en op de wijze bij algemene maatregel van rijksbestuur te bepalen geschieden in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba. 
+De verpleging van personen die krachtens uitspraak van een van de gerechten bedoeld in de Wet militaire strafrechtspraak ter beschikking zijn gesteld, kan in de gevallen en op de wijze bij algemene maatregel van rijksbestuur te bepalen geschieden in Aruba, Curaçao of Sint Maarten of in de openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ###Artikel 46 
 
-Indien een militair door het begaan van een misdrijf waarop hechtenis is gesteld, een dienstplicht schendt, wordt hij, onverminderd de toepassing van [artikel 44 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), gestraft met gevangenisstraf van ten hoogste de duur der op dat misdrijf gestelde hechtenis.
+Indien een militair door het begaan van een misdrijf waarop hechtenis is gesteld, een dienstplicht schendt, wordt hij, onverminderd de toepassing van artikel 44 van het Wetboek van Strafrecht, gestraft met gevangenisstraf van ten hoogste de duur der op dat misdrijf gestelde hechtenis.
 
 ### Artikel  48  
 
@@ -171,7 +171,7 @@ Ten aanzien van een militair die opzettelijk met een militair van mindere rang o
 
 ### Artikel  54  
 
-Indien een der misdrijven, omschreven in de [artikelen 245](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [248a](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [281 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), gepleegd is in tijd van oorlog, door een persoon, genoemd in [artikel 2 van de Wet militaire strafrechtspraak](../../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md), kan de vervolging ambtshalve plaatshebben. 
+Indien een der misdrijven, omschreven in de artikelen 245, 248a en 281 van het Wetboek van Strafrecht, gepleegd is in tijd van oorlog, door een persoon, genoemd in artikel 2 van de Wet militaire strafrechtspraak, kan de vervolging ambtshalve plaatshebben. 
 
 ### Titel  VIII  
 
@@ -192,7 +192,7 @@ De termijn van verjaring van het recht tot strafvordering ter zake van ongeoorlo
 
 ### Artikel  59  
 
-1.  De krachtens [artikel 59 van de Wet Militaire strafrechtspraak](../../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) aangewezen bevelvoerende militairen kunnen buiten het Koninkrijk of binnen de territoriale zee onder omstandigheden en in zaken bij algemene maatregel van Rijksbestuur vast te stellen de bevoegdheid uitoefenen, welke in [artikel 74 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) aan de officier van justitie is toegekend. De [artikelen 74a](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [74b van dat wetboek](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zijn daarbij van overeenkomstige toepassing.   
+1.  De krachtens artikel 59 van de Wet Militaire strafrechtspraak aangewezen bevelvoerende militairen kunnen buiten het Koninkrijk of binnen de territoriale zee onder omstandigheden en in zaken bij algemene maatregel van Rijksbestuur vast te stellen de bevoegdheid uitoefenen, welke in artikel 74 van het Wetboek van Strafrecht aan de officier van justitie is toegekend. De artikelen 74a en 74b van dat wetboek zijn daarbij van overeenkomstige toepassing.   
 2.  Bij algemene maatregel van Rijksbestuur worden voorschriften gegeven met betrekking tot de wijze waarop de in het voorgaande lid bedoelde bevoegdheid wordt uitgeoefend.   
 3.  De bevelvoerende militairen bekleed met de bevoegdheid, bedoeld in het eerste lid, maken hiervan gebruik volgens richtlijnen, vast te stellen door het College van procureurs-generaal.  
 
@@ -241,7 +241,7 @@ Onder militairen worden mede begrepen de tot enige militaire dienst gebruikt wor
 
 ### Artikel  66  
 
-In de uitdrukking "hij die ....", gebezigd in de omschrijving van een strafbaar feit wordt onder het woord "hij" verstaan ieder persoon genoemd in [artikel 2 van de Wet militaire strafrechtspraak](../../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md). 
+In de uitdrukking "hij die ....", gebezigd in de omschrijving van een strafbaar feit wordt onder het woord "hij" verstaan ieder persoon genoemd in artikel 2 van de Wet militaire strafrechtspraak. 
 
 ### Artikel  67  
 
@@ -540,7 +540,7 @@ De militair die opzettelijk van eens anders reispas, veiligheidskaart, reisorder
 
 ### Artikel  113  
 
-Indien een der misdrijven, omschreven in de artikelen 111 en 112 van dit wetboek of in de [artikelen 228, eerste en derde lid](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), of [229 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), door een militair in tijd van oorlog wordt gepleegd ten einde het misdrijf van desertie gemakkelijk te maken, wordt hij gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie. 
+Indien een der misdrijven, omschreven in de artikelen 111 en 112 van dit wetboek of in de artikelen 228, eerste en derde lid, of 229 van het Wetboek van Strafrecht, door een militair in tijd van oorlog wordt gepleegd ten einde het misdrijf van desertie gemakkelijk te maken, wordt hij gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vierde categorie. 
 
 ### Artikel  114  
 
@@ -745,13 +745,13 @@ Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vierde catego
 
 ### Artikel  141  
 
-Indien een in de [artikelen 300-303 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) bedoeld misdrijf door een militair wordt gepleegd tegen een andere militair of iemand, die anderszins bij of ten behoeve van de krijgsmacht werkzaam is, kunnen de in die artikelen bepaalde gevangenisstraffen met een derde worden verhoogd. 
+Indien een in de artikelen 300-303 van het Wetboek van Strafrecht bedoeld misdrijf door een militair wordt gepleegd tegen een andere militair of iemand, die anderszins bij of ten behoeve van de krijgsmacht werkzaam is, kunnen de in die artikelen bepaalde gevangenisstraffen met een derde worden verhoogd. 
 
 ### Artikel  142  
 
 1.  Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie worden gestraft de militairen die in tijd van oorlog met vereende krachten geweld tegen een of meer personen plegen en bij het plegen van het feit misbruik maken of dreigen te maken van macht, gelegenheid of middel, hun als militair gegeven.   
-2.  Met gelijke straf worden gestraft de in [artikel 2 van de Wet militaire strafrechtspraak](../../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) genoemde personen die gelijke handelingen plegen en daarbij misbruik maken of dreigen te maken van macht, gelegenheid of middel, hun door hun betrekking tot de krijgsmacht gegeven.   
-3.   [Artikel 81 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) blijft buiten toepassing.  
+2.  Met gelijke straf worden gestraft de in artikel 2 van de Wet militaire strafrechtspraak genoemde personen die gelijke handelingen plegen en daarbij misbruik maken of dreigen te maken van macht, gelegenheid of middel, hun door hun betrekking tot de krijgsmacht gegeven.   
+3.   Artikel 81 van het Wetboek van Strafrecht blijft buiten toepassing.  
 
 ### Artikel  143  
 
@@ -773,7 +773,7 @@ Met gevangenisstraf van ten hoogste drie jaren of geldboete van de vierde catego
 
 ###Artikel 146 
 
-Indien het in [artikel 365 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) omschreven misdrijf wordt gepleegd door een militair kan de in dat artikel bepaalde gevangenisstraf met een derde worden verhoogd.
+Indien het in artikel 365 van het Wetboek van Strafrecht omschreven misdrijf wordt gepleegd door een militair kan de in dat artikel bepaalde gevangenisstraf met een derde worden verhoogd.
 
 ###Artikel 147 
 
@@ -807,11 +807,11 @@ Artikel 151 is niet van toepassing op hem die door de kennisgeving gevaar voor e
 
 ### Artikel  153  
 
-1.  Hij die, mondeling of bij geschrifte, een militair opruit tot enig misdrijf, in dit wetboek omschreven of door hem te begaan onder een der in [artikel 44 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) vermelde omstandigheden, wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.   
-2.  De schuldige wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien de opruiing betreft een der misdrijven omschreven in de [artikelen 92-101](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [121 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), desertie, strafbare schending van een dienstbevel in tijd van oorlog, muiterij of militair oproer buiten tijd van oorlog.   
+1.  Hij die, mondeling of bij geschrifte, een militair opruit tot enig misdrijf, in dit wetboek omschreven of door hem te begaan onder een der in artikel 44 van het Wetboek van Strafrecht vermelde omstandigheden, wordt gestraft met gevangenisstraf van ten hoogste vijf jaren of geldboete van de vierde categorie.   
+2.  De schuldige wordt gestraft met gevangenisstraf van ten hoogste vijftien jaren of geldboete van de vijfde categorie, indien de opruiing betreft een der misdrijven omschreven in de artikelen 92-101 of 121 van het Wetboek van Strafrecht, desertie, strafbare schending van een dienstbevel in tijd van oorlog, muiterij of militair oproer buiten tijd van oorlog.   
 3.  De schuldige wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie:  
 
-1°. indien de opruiing geschiedt in tijd van oorlog en zij betreft een der in de [artikelen 92](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [93 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) omschreven misdrijven, militair verraad, desertie in een der in artikel 102 omschreven gevallen, schending van een dienstbevel als bedoeld in artikel 128, muiterij, militair oproer of een der in de artikelen 142 en 160 omschreven misdrijven;  
+1°. indien de opruiing geschiedt in tijd van oorlog en zij betreft een der in de artikelen 92 en 93 van het Wetboek van Strafrecht omschreven misdrijven, militair verraad, desertie in een der in artikel 102 omschreven gevallen, schending van een dienstbevel als bedoeld in artikel 128, muiterij, militair oproer of een der in de artikelen 142 en 160 omschreven misdrijven;  
 
 2°. indien de opruiing geschiedt aan boord van een oorlogsvaartuig of luchtvaartuig der krijgsmacht, zich ergens bevindende waar geen onmiddellijke hulp te verkrijgen is, en zij muiterij of militair oproer betreft.     
 4.  Met gelijke straffen wordt gestraft hij die een der in dit artikel vermelde geschriften, waarvan hij de inhoud kent, verspreidt, tentoonstelt, aanslaat of ter verspreiding in voorraad heeft.  
@@ -834,7 +834,7 @@ Met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categ
 
 1°. de militair die in tijd van oorlog bij het plegen van diefstal misbruik maakt of dreigt te maken van macht, gelegenheid of middel, hem als militair gegeven;  
 
-2°. de persoon, behorende tot de in [artikel 2 van de Wet militaire strafrechtspraak](../../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) genoemden, die bij het plegen van diefstal misbruik maakt of dreigt te maken van macht, gelegenheid of middel, hem door zijn betrekking tot de krijgsmacht gegeven;  
+2°. de persoon, behorende tot de in artikel 2 van de Wet militaire strafrechtspraak genoemden, die bij het plegen van diefstal misbruik maakt of dreigt te maken van macht, gelegenheid of middel, hem door zijn betrekking tot de krijgsmacht gegeven;  
 
 3°. hij die diefstal pleegt aan of tegen een dode, zieke of verwonde, behorende tot de krijgsmacht van een der strijdende partijen. Onder hen, die behoren tot de krijgsmacht van een der strijdende partijen, worden voor de toepassing van deze bepaling gerekend allen, die bij deze krijgsmacht in dienstbetrekking zijn of haar met toestemming van de militaire overheid vergezellen of volgen.     
 2.  Indien het feit gepleegd is door twee of meer verenigde personen, worden de schuldigen gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie.  
@@ -865,8 +865,8 @@ b.uit winstbejag een goed voorhanden heeft of overdraagt dan wel een persoonlijk
 ### Artikel  160  
 
 1.  Met levenslange gevangenisstraf of tijdelijke van ten hoogste dertig jaren of geldboete van de vijfde categorie worden gestraft de militairen die in tijd van oorlog met verenigde krachten opzettelijk en wederrechtelijk enig goed dat geheel of gedeeltelijk aan een ander toebehoort, vernielen, beschadigen, onbruikbaar maken of wegmaken, en bij het plegen van dat feit misbruik maken of dreigen te maken van macht, gelegenheid of middel, hun als militair gegeven.   
-2.  Met gelijke straf worden gestraft de in [artikel 2 van de Wet militaire strafrechtspraak](../../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md) genoemde personen die gelijke handelingen plegen en daarbij misbruik maken of dreigen te maken van macht, gelegenheid of middel, hun door hun betrekking tot de krijgsmacht gegeven.   
-3.   [Artikel 81 van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) blijft buiten toepassing.  
+2.  Met gelijke straf worden gestraft de in artikel 2 van de Wet militaire strafrechtspraak genoemde personen die gelijke handelingen plegen en daarbij misbruik maken of dreigen te maken van macht, gelegenheid of middel, hun door hun betrekking tot de krijgsmacht gegeven.   
+3.   Artikel 81 van het Wetboek van Strafrecht blijft buiten toepassing.  
 
 ###Artikel 161 
 

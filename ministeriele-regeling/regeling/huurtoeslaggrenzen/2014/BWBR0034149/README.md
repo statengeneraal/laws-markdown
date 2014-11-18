@@ -3,11 +3,11 @@
 ##Regeling van de minister voor Wonen en Rijksdienst van 30 oktober 2013, nr. 2013-0000670268, houdende aanpassing van de bedragen, genoemd in de artikelen 13, eerste lid, onderdelen a en b, 14, eerste lid, 17, tweede lid, 18, eerste en derde lid, en 20, eerste en tweede lid, van de Wet op de huurtoeslag, van de minimum-inkomensijkpunten, bedoeld in artikel 17, eerste lid, van die wet en van de factoren, bedoeld in artikel 19, tweede lid, van die wet alsmede van de bedragen, genoemd in artikel 2a, tweede lid, onderdelen b en c, van het Besluit op de huurtoeslag (Regeling huurtoeslaggrenzen 2014)
 
 De Minister voor Wonen en Rijksdienst, na overleg met de Minister van Sociale Zaken en Werkgelegenheid;  
-Gelet op de [artikelen 19, vierde lid](../../../../../wet/huursubsidiewet/BWBR0008659/README.md), en [27, eerste, derde, vierde, vijfde en zesde lid, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md), en [artikel 2a, vierde lid, van het Besluit op de huurtoeslag](../../../../../AMvB/huursubsidiebesluit/BWBR0008763/README.md);
+Gelet op de artikelen 19, vierde lid, en 27, eerste, derde, vierde, vijfde en zesde lid, van de Wet op de huurtoeslag, en artikel 2a, vierde lid, van het Besluit op de huurtoeslag;
 Besluit:     
 ### §  1  
 
-####Wijziging van de [Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md) en het [Besluit op de huurtoeslag](../../../../../AMvB/huursubsidiebesluit/BWBR0008763/README.md)
+####Wijziging van de Wet op de huurtoeslag en het Besluit op de huurtoeslag
 
 ### Artikel  1  
 
@@ -19,11 +19,11 @@ Wijzigt het Besluit op de huurtoeslag.
 
 ### §  2  
 
-####Vaststelling van bedragen en factoren ingevolge de [Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md)
+####Vaststelling van bedragen en factoren ingevolge de Wet op de huurtoeslag
 
 ### Artikel  3  
 
-Het minimum-inkomensijkpunt, bedoeld in [artikel 17, eerste lid, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md), is: 
+Het minimum-inkomensijkpunt, bedoeld in artikel 17, eerste lid, van de Wet op de huurtoeslag, is: 
 
 a. voor een eenpersoonshuishouden: € 15.025;  
 
@@ -35,7 +35,7 @@ d. voor een meerpersoonsouderenhuishouden: € 22.025.
 
 ### Artikel  4  
 
-De factoren, bedoeld in [artikel 19, tweede lid, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md), zijn:  
+De factoren, bedoeld in artikel 19, tweede lid, van de Wet op de huurtoeslag, zijn:  
 
 | Huishoudens  | Factor a  | Factor b  |
 |:---|:---|:---|
@@ -50,7 +50,7 @@ De factoren, bedoeld in [artikel 19, tweede lid, van de Wet op de huurtoeslag](.
 
 ### Artikel  5  
 
-De [Regeling huurtoeslaggrenzen 2013](../../../../../ministeriele-regeling/regeling/huurtoeslaggrenzen/2013/BWBR0032368/README.md) wordt ingetrokken. 
+De Regeling huurtoeslaggrenzen 2013 wordt ingetrokken. 
 
 ### Artikel  6  
 

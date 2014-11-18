@@ -45,17 +45,24 @@ Deze verordening verstaat onder:
 
 ### Artikel  3  
 
-Van het bepaalde in artikel 2 mag worden afgeweken, indien het pootaardappelen voor eigen gebruik betreft behorende tot de in de bijlage onder A genoemde zetmeelrassen, en het perceel waarop deze aardappelen ten behoeve van de zetmeelaardappelteelt worden geteeld gelegen is in de daartoe in de bijlage onder B aangewezen gebieden en indien de ondernemer beschikt over één of meerdere beoordelingsrapporten, afgegeven door de Stichting Teeltbeschermings-maatregelen Zetmeelaardappelen (TBM), waaruit blijkt dat de desbetreffende voor de teelt gebruikte pootaardappelen door de Stichting Teeltbeschermingsmaatregelen Zetmeelaardappelen zijn beoordeeld. 
+Van het bepaalde in artikel 2 mag worden afgeweken, indien het pootaardappelen voor eigen gebruik betreft ten behoeve van de zetmeelaardappelteelt behorende tot de in de bijlage onder A genoemde zetmeelrassen, en het perceel waarop deze aardappelen worden geteeld gelegen is in de daartoe in de bijlage onder B aangewezen gebieden. 
 
 ###Artikel 4 
 
-1. Van het bepaalde in artikel 2 mag worden afgeweken, indien het pootaardappelen voor eigen gebruik betreft ten behoeve van de consumptieaardappelteelt en deze pootaardappelen voor dat doel zijn geclassificeerd in de C-norm geldend voor gecertificeerd pootgoed op basis van een beoordeling te velde als bedoeld in het Keuringsreglement van de NAK. Een bij dat keuringsreglement voorgeschreven AM-vrijverklaring is dan niet nodig.
-2. De uitzondering bedoeld in het eerste lid is toegestaan mits:
+1. Van het bepaalde in artikel 2 mag worden afgeweken, indien het pootaardappelen voor eigen gebruik betreft ten behoeve van de consumptieaardappelteelt en deze pootaardappelen voor dat doel zijn geclassificeerd in de C-norm geldend voor gecertificeerd pootgoed op basis van een beoordeling te velde als bedoeld in het Keuringsreglement van de NAK.
+2. Bij de toepassing van de in het eerste lid bedoelde afwijking
 
-zowel het perceel waarvan de pootaardappelen afkomstig zijn als het perceel waarop de consumptieaardappelteelt plaatsvindt, gelegen zijn binnen een straal van 25 kilometer vanaf het vestigingsadres van de onderneming en
+is geen bij het Keuringsreglement van de NAK voorgeschreven AM-vrijverklaring vereist,
 
-binnen de eigen/dezelfde onderneming in het voorgaande teeltjaar geen pootaardappelen zijn geteeld die door de NAK conform het keuringsreglement te velde zijn goedgekeurd.
-3. Wanneer niet aan de voorwaarden bedoeld in het tweede lid is voldaan, dan is het verboden de teelt van de in het eerste lid bedoelde pootaardappelen bij de keuringsdienst ter keuring aan te bieden. 
+mogen ook pootaardappelen als uitgangsmateriaal worden gebruikt die gecertificeerd zijn als klasse C. 
+3. De uitzondering bedoeld in het eerste lid is toegestaan op voorwaarde dat:
+
+het perceel waarvan de pootaardappelen afkomstig zijn, gelegen is binnen een straal van 25 kilometer vanaf het vestigingsadres van de onderneming;
+
+het perceel waarop de consumptieaardappelteelt plaatsvindt gelegen is binnen een straal van 50 kilometer vanaf het vestigingsadres van de onderneming;
+
+binnen de eigen/dezelfde onderneming in het voorgaande teelt jaar geen pootaardappelen zijn geteeld die door de NAK conform het keuringsreglement te velde zijn goedgekeurd.
+4. Wanneer niet aan de voorwaarden bedoeld in het derde lid is voldaan, dan is het verboden de teelt van de in het eerste lid bedoelde pootaardappelen bij de keuringsdienst ter keuring aan te bieden. 
 
 ### §  3  
 

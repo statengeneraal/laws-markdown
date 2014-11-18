@@ -2,8 +2,8 @@
 
 ##Bijdragereglement Stimuleringsfonds voor Architectuur
 
-De [Regeling projectsubsidies Architectuur](../../../../../../zbo/regeling/projectsubsidies/architectuur/BWBR0012135/README.md) van het Stimuleringsfonds voor Architectuur (SfA) wordt vervangen door het Bijdragereglement Stimuleringsfonds voor Architectuur. Daarnaast heeft het SfA twee deelregelingen opgesteld die per heden ingaan. De regelingen zijn hieronder weergegeven.Het Ministerie van OCW heeft per brief met kenmerk DK/I&I/113462 ingestemd met de regelingen.Het bestuur van de stichting Stimuleringsfonds voor Architectuur, In overeenstemming met de minister van Onderwijs, Cultuur en Wetenschappen,  
-Gelet op [artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid](../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
+De Regeling projectsubsidies Architectuur van het Stimuleringsfonds voor Architectuur (SfA) wordt vervangen door het Bijdragereglement Stimuleringsfonds voor Architectuur. Daarnaast heeft het SfA twee deelregelingen opgesteld die per heden ingaan. De regelingen zijn hieronder weergegeven.Het Ministerie van OCW heeft per brief met kenmerk DK/I&I/113462 ingestemd met de regelingen.Het bestuur van de stichting Stimuleringsfonds voor Architectuur, In overeenstemming met de minister van Onderwijs, Cultuur en Wetenschappen,  
+Gelet op artikel 10, vierde lid van de Wet op het specifiek cultuurbeleid;
 Besluit:    
 
 ### Artikel  1  
@@ -52,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 ####Toepasselijkheid Bijdragereglement
 
-1.  De bepalingen in dit reglement zijn van toepassing op het aanvragen, beoordelen, verlenen en vaststellen van een bijdrage voor een project. Dit reglement geldt naast de statuten, het huishoudelijk reglement en de [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). In deelregelingen kan het SfA nadere formele, financiële, kwalitatieve of kwantitatieve vereisten stellen.   
+1.  De bepalingen in dit reglement zijn van toepassing op het aanvragen, beoordelen, verlenen en vaststellen van een bijdrage voor een project. Dit reglement geldt naast de statuten, het huishoudelijk reglement en de Algemene wet bestuursrecht. In deelregelingen kan het SfA nadere formele, financiële, kwalitatieve of kwantitatieve vereisten stellen.   
 2.  Een bijdrage wordt altijd verleend onder de voorwaarde dat voldoende gelden aan het SfA ter beschikking worden gesteld.   
 3.  Het SfA kan, ten aanzien van de volgorde van de beoordeling en de verlening van een bijdrage, voorrang verlenen aan een bepaalde aanvraag in verband met: 
 
@@ -236,7 +236,7 @@ Het SfA kan een voorschot betaalbaar stellen. In het besluit tot verlening van d
 
 1.  De ontvanger van een bijdrage dient binnen vier maanden na afloop van het project een inhoudelijke en financiële verantwoording in. Deze verantwoording moet inzicht geven in de aard, duur en omvang van de verrichte activiteiten (zie artikel 14, lid 1). In de verantwoording worden de daadwerkelijk verrichte activiteit en de in de aanvraag voorgenomen activiteit met elkaar vergeleken. Voorwaarden met betrekking tot de wijze waarop de inhoudelijke en financiële verslagen moeten zijn ingericht, zijn als bijlagen bij het positieve besluit met betrekking tot de aanvraag gevoegd.   
 2.  De aanvrager dient in alle publicitaire uitingen het SfA te vermelden als subsidieverstrekker. In publicaties en verslagen dient het logo van het SfA te worden opgenomen. Wanneer een aanvrager logo’s opneemt van commerciële sponsors dient ook het logo van het SfA te worden gebruikt.   
-3.  Indien de totale bijdrage van het SfA voor een project meer bedraagt dan 50.000 euro moet de financiële verantwoording worden voorzien van een accountantsverklaring als bedoeld in [artikel 393 lid van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) omtrent de naleving van de bepalingen van het reglement en eventuele deelregelingen. De ontvanger garandeert het SfA dat het project op doelmatige en financieel verantwoorde wijze wordt uitgevoerd. In dat kader voert de ontvanger een goed beleid en beheer, gebruikt hij de bijdrage op efficiënte wijze voor het doel waarvoor ze is verleend en leeft hij alle verplichtingen na die door het SfA zijn verbonden aan de verlening van de bijdrage.   
+3.  Indien de totale bijdrage van het SfA voor een project meer bedraagt dan 50.000 euro moet de financiële verantwoording worden voorzien van een accountantsverklaring als bedoeld in artikel 393 lid van Boek 2 van het Burgerlijk Wetboek omtrent de naleving van de bepalingen van het reglement en eventuele deelregelingen. De ontvanger garandeert het SfA dat het project op doelmatige en financieel verantwoorde wijze wordt uitgevoerd. In dat kader voert de ontvanger een goed beleid en beheer, gebruikt hij de bijdrage op efficiënte wijze voor het doel waarvoor ze is verleend en leeft hij alle verplichtingen na die door het SfA zijn verbonden aan de verlening van de bijdrage.   
 4.  Indien de totale bijdrage van het SfA voor een project minder dan 50.000 euro bedragen moet de financiële verantwoording met bewijsstukken worden gestaafd.   
 5.  De ontvanger van de bijdrage doet zo spoedig mogelijk, onder overlegging van de relevante bescheiden, schriftelijke mededeling aan het SfA indien zich feiten of omstandigheden (zullen) voordoen die van invloed kunnen zijn op het verlenen of vaststellen van de bijdrage, dan wel het intrekken of wijzigen ervan.  
 
@@ -287,7 +287,7 @@ d. aan het bezwaar volledig tegemoet wordt gekomen en andere belanghebbenden daa
 
 ####Bescherming persoonsgegevens
 
-Het SfA verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het SfA zijn medegedeeld of om persoonsgegevens als bedoeld in [hoofdstuk 2, paragraaf 2 van de Wet Bescherming Persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt. 
+Het SfA verstrekt geen vertrouwelijke informatie over een aanvraag aan derden. Het gaat hier om bedrijfs- en fabricagegegevens die door een aanvrager vertrouwelijk aan het SfA zijn medegedeeld of om persoonsgegevens als bedoeld in hoofdstuk 2, paragraaf 2 van de Wet Bescherming Persoonsgegevens, tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt. 
 
 ### Artikel  17  
 
@@ -297,7 +297,7 @@ Dit reglement treedt in werking op de tweede dag na die waarop de regeling in de
 
 ### Artikel  18  
 
-De [Regeling projectsubsidies Architectuur](../../../../../../zbo/regeling/projectsubsidies/architectuur/BWBR0012135/README.md) (RPA010101) wordt ingetrokken. 
+De Regeling projectsubsidies Architectuur (RPA010101) wordt ingetrokken. 
 
 ### Artikel  19  
 

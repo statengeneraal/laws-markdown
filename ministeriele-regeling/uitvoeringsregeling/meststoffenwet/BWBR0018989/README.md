@@ -5,11 +5,11 @@
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
 Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-Gelet op de [artikelen 5d, eerste en vierde lid](../../../../wet/meststoffenwet/BWBR0004054/README.md), [5e, vijfde en zesde lid](../../../../wet/meststoffenwet/BWBR0004054/README.md), [5f, derde en vijfde lid](../../../../wet/meststoffenwet/BWBR0004054/README.md), [5g](../../../../wet/meststoffenwet/BWBR0004054/README.md), [59b](../../../../wet/meststoffenwet/BWBR0004054/README.md), [60](../../../../wet/meststoffenwet/BWBR0004054/README.md) en [69 van de Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md);
+Gelet op de artikelen 5d, eerste en vierde lid, 5e, vijfde en zesde lid, 5f, derde en vijfde lid, 5g, 59b, 60 en 69 van de Meststoffenwet;
 
-Gelet op [artikel 64 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md);
+Gelet op artikel 64 van de Wet bodembescherming;
 
-Gelet op de [artikelen 26, tweede en derde lid](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [28, tweede lid, onderdeel b](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [35, eerste lid, onderdeel b](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [36](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [41](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [46](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [52](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [53, derde lid](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [54](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [55, derde lid](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [56](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [64](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [70](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en [71 van het Uitvoeringsbesluit Meststoffenwet](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md);
+Gelet op de artikelen 26, tweede en derde lid, 28, tweede lid, onderdeel b, 35, eerste lid, onderdeel b, 36, 41, 46, 52, 53, derde lid, 54, 55, derde lid, 56, 64, 70 en 71 van het Uitvoeringsbesluit Meststoffenwet;
 
 Gelezen het advies van de Technische Commissie Bodembescherming;
 Besluit:     
@@ -23,9 +23,9 @@ Besluit:
 
 AGR-apparatuur: apparatuur voor automatische gegevensregistratie; 
 
-automatische bemonsterings- en verpakkingsapparatuur: apparatuur als bedoeld in [artikel 49, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) in samenhang met artikel 78, onderscheidenlijk 79; 
+automatische bemonsterings- en verpakkingsapparatuur: apparatuur als bedoeld in artikel 49, eerste lid, van het besluit in samenhang met artikel 78, onderscheidenlijk 79; 
 
-besluit: [Uitvoeringsbesluit Meststoffenwet](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md);  
+besluit: Uitvoeringsbesluit Meststoffenwet;  
 
 champost: product van paardenmest, ponymest, pluimveemest of een mengsel daarvan waarop champignons zijn geteeld; 
 
@@ -41,9 +41,9 @@ gewasperceel: perceel of deel van een perceel met een minimale omvang van twee h
 
 hypotheekhouder: degene ten gunste van wie een recht van hypotheek is gevestigd op een registergoed behorende tot een bedrijf; 
 
-kennisgeving van overgang: kennisgeving van overgang van een productierecht, of een gedeelte daarvan, als bedoeld in [artikel 27, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md); 
+kennisgeving van overgang: kennisgeving van overgang van een productierecht, of een gedeelte daarvan, als bedoeld in artikel 27, eerste lid, van de wet; 
 
-mengvoeder: mengvoeder als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Kaderwet diervoeders](../../../../wet/kaderwet/diervoeders/BWBR0015764/README.md); 
+mengvoeder: mengvoeder als bedoeld in artikel 1, eerste lid, onderdeel d, van de Kaderwet diervoeders; 
 
 mestkorrels: dierlijke meststoffen die in een overeenkomstig artikel 24, eerste lid, onderdeel f, van verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L 300) erkende inrichting of bedrijf zodanig zijn bewerkt dat het drogestofgehalte ervan ten minste 90% bedraagt; 
 
@@ -51,7 +51,7 @@ mineralenconcentraat: door middel van ultrafiltratie of gelijkwaardige industri�
 
 minister: Minister van Economische Zaken;  
 
-productielocatie: gebouw of afgescheiden gedeelte daarvan als bedoeld in [artikel 1, eerste lid, onderdeel i, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), dat onderdeel uitmaakt van een bedrijf; 
+productielocatie: gebouw of afgescheiden gedeelte daarvan als bedoeld in artikel 1, eerste lid, onderdeel i, van de wet, dat onderdeel uitmaakt van een bedrijf; 
 
 Raad: Raad voor Accreditatie te Utrecht; 
 
@@ -61,9 +61,9 @@ vaste mest: dierlijke meststoffen die niet verpompbaar zijn;
 
 verordening (EG) nr. 1069/2009: verordening (EG) nr. 1069/2009 van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van gezondheidsvoorschriften inzake niet voor menselijke consumptie bestemde dierlijke bijproducten en afgeleide producten en tot intrekking van Verordening (EG) nr. 1774/2002 (PbEU L 300); 
 
-vervoersbewijs dierlijke meststoffen: vervoersbewijs als bedoeld in [artikel 53 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) in samenhang met artikel 60;  
+vervoersbewijs dierlijke meststoffen: vervoersbewijs als bedoeld in artikel 53 van het besluit in samenhang met artikel 60;  
 
-vervoersbewijs zuiveringsslib en compost: vervoersbewijs als bedoeld in [artikel 55 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) in samenhang met artikel 68;  
+vervoersbewijs zuiveringsslib en compost: vervoersbewijs als bedoeld in artikel 55 van het besluit in samenhang met artikel 68;  
 
 vervreemder van een productierecht: landbouwer van wiens bedrijf een productierecht, of een gedeelte daarvan, afkomstig is;  
 
@@ -71,10 +71,10 @@ verwerver van een productierecht: landbouwer naar wiens bedrijf een productierec
 
 vloeibaar zuiveringsslib: zuiveringsslib dat verpompbaar is; 
 
-weegwerktuig: niet-automatisch weegwerktuig als bedoeld in [artikel 1, onderdeel h, van het Meetinstrumentenbesluit I](../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) en dat voldoet aan de bij of krachtens dat besluit gestelde regels; 
+weegwerktuig: niet-automatisch weegwerktuig als bedoeld in artikel 1, onderdeel h, van het Meetinstrumentenbesluit I en dat voldoet aan de bij of krachtens dat besluit gestelde regels; 
 
-wet: [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md).     
-2.  Voor de toepassing van hoofdstuk 3 wordt onder graasdieren, perceel, zuiveringsslib en compost verstaan hetgeen daaronder in [artikel 1 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) wordt verstaan.  
+wet: Meststoffenwet.     
+2.  Voor de toepassing van hoofdstuk 3 wordt onder graasdieren, perceel, zuiveringsslib en compost verstaan hetgeen daaronder in artikel 1 van het besluit wordt verstaan.  
 
 ### Artikel  2  
 
@@ -82,7 +82,7 @@ Voor de toepassing van deze regeling, met uitzondering van hoofdstuk 4, worden d
 
 ### Artikel  3  
 
-Als grond waarop bosbouw wordt uitgeoefend die aan bij ministeriële regeling gestelde regels voldoet als bedoeld in [artikel 1, eerste lid, onderdeel g, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) wordt aangemerkt grond met een houtopstand die valt onder de vrijstelling, bedoeld in de [Regeling meldings- en herplantplicht](../../../../ministeriele-regeling/regeling/meldings-/en/herplantplicht/BWBR0003518/README.md). 
+Als grond waarop bosbouw wordt uitgeoefend die aan bij ministeriële regeling gestelde regels voldoet als bedoeld in artikel 1, eerste lid, onderdeel g, van de wet wordt aangemerkt grond met een houtopstand die valt onder de vrijstelling, bedoeld in de Regeling meldings- en herplantplicht. 
 
 ### Hoofdstuk  2  
 
@@ -90,7 +90,7 @@ Als grond waarop bosbouw wordt uitgeoefend die aan bij ministeriële regeling ge
 
 ### Artikel 4  
 
-Voor zover zij voldoen aan de [artikelen 9 tot en met 15 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) zijn aangewezen: 
+Voor zover zij voldoen aan de artikelen 9 tot en met 15 van het besluit zijn aangewezen: 
 
 a. als afvalstoffen of reststoffen die als meststof kunnen worden verhandeld, de in bijlage Aa, onder I, opgenomen stoffen;  
 
@@ -107,8 +107,8 @@ gereserveerd
 ### Artikel 6  
 
 1. Het is niet toegestaan zuiveringsslib, de in bijlage Aa, onder I en II, opgenomen stoffen of de in bijlage Aa, onder IV, opgenomen eindproducten van de aldaar omschreven bewerkingsprocédés, onderling of met andere meststoffen te mengen. 
-2.  In afwijking van het eerste lid, is het toegestaan verschillende partijen vloeibaar zuiveringsslib onderling te mengen, mits de gehalten stikstof en fosfaat in de afzonderlijke partijen zijn vastgesteld overeenkomstig de artikelen 92a en 92b en deze afzonderlijke partijen overigens voldoen aan de bij of krachtens [hoofdstuk III van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) ter zake van zuiveringsslib gestelde regels. 
-3. Het is slechts toegestaan andere dan in het eerste lid bedoelde meststoffen te mengen, indien deze meststoffen afzonderlijk voldoen aan de bij of krachtens [hoofdstuk III van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) ter zake van die meststoffen gestelde regels en het mengsel voldoet aan de bij of krachtens [hoofdstuk III van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) ter zake van die meststoffen gestelde regels. 
+2.  In afwijking van het eerste lid, is het toegestaan verschillende partijen vloeibaar zuiveringsslib onderling te mengen, mits de gehalten stikstof en fosfaat in de afzonderlijke partijen zijn vastgesteld overeenkomstig de artikelen 92a en 92b en deze afzonderlijke partijen overigens voldoen aan de bij of krachtens hoofdstuk III van het besluit ter zake van zuiveringsslib gestelde regels. 
+3. Het is slechts toegestaan andere dan in het eerste lid bedoelde meststoffen te mengen, indien deze meststoffen afzonderlijk voldoen aan de bij of krachtens hoofdstuk III van het besluit ter zake van die meststoffen gestelde regels en het mengsel voldoet aan de bij of krachtens hoofdstuk III van het besluit ter zake van die meststoffen gestelde regels. 
 4.  In afwijking van het eerste lid is het toegestaan de in bijlage Aa, onder IV, opgenomen eindproducten van de aldaar omschreven bewerkingprocedés, die zijn gebruikt als strooisel in stallen te mengen met dierlijke mest in de mestkelder. 
 
 ### Artikel 7  
@@ -134,7 +134,7 @@ Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om secundaire nu
 
 ### Artikel 10  
 
-In geval het betreft anorganische meststoffen die niet alleen hoofdzakelijk zijn bedoeld om primaire of secundaire nutriënten te leveren, maar ook om de micronutriënten koper en zink te leveren, is [artikel 14 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), voor zover het betreft de in [bijlage II, onder tabel 1 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), opgenomen maximale waarden voor koper en zink onderscheidenlijk artikel 8, voor zover het betreft de in bijlage Ab, onder tabel 1, opgenomen maximale waarden voor koper en zink, niet van toepassing, voor zover: 
+In geval het betreft anorganische meststoffen die niet alleen hoofdzakelijk zijn bedoeld om primaire of secundaire nutriënten te leveren, maar ook om de micronutriënten koper en zink te leveren, is artikel 14 van het besluit, voor zover het betreft de in bijlage II, onder tabel 1 van het besluit, opgenomen maximale waarden voor koper en zink onderscheidenlijk artikel 8, voor zover het betreft de in bijlage Ab, onder tabel 1, opgenomen maximale waarden voor koper en zink, niet van toepassing, voor zover: 
 
 a. de meststoffen overeenkomstig artikel 14 zijn voorzien van de gehalten aan koper onderscheidenlijk zink; en  
 
@@ -146,15 +146,15 @@ Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om micronutriën
 
 ### Artikel 12  
 
-1. De gehalten stikstof en fosfaat in meststoffen, bedoeld in [artikel 19, eerste lid, onderdeel d van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden voor stikstof uitsluitend in de vorm van het element (N) en voor fosfaat in de vorm van het oxide (P<sub>2</sub>O<sub>5</sub>) en desgewenst in de vorm van het element (P) uitgedrukt
-2. De waardegevende bestanddelen in meststoffen, bedoeld in [artikel 19, eerste lid, onderdeel e, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), met uitzondering van stikstof en fosfaat behoeven uitsluitend te worden vermeld voor zover deze de in de [artikelen 9 tot en met 12 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en de in artikel 7 van deze regeling bedoelde minimale hoeveelheden te boven gaan.
+1. De gehalten stikstof en fosfaat in meststoffen, bedoeld in artikel 19, eerste lid, onderdeel d van het besluit, worden voor stikstof uitsluitend in de vorm van het element (N) en voor fosfaat in de vorm van het oxide (P<sub>2</sub>O<sub>5</sub>) en desgewenst in de vorm van het element (P) uitgedrukt
+2. De waardegevende bestanddelen in meststoffen, bedoeld in artikel 19, eerste lid, onderdeel e, van het besluit, met uitzondering van stikstof en fosfaat behoeven uitsluitend te worden vermeld voor zover deze de in de artikelen 9 tot en met 12 van het besluit en de in artikel 7 van deze regeling bedoelde minimale hoeveelheden te boven gaan.
 3. De in het tweede lid bedoelde gegevens worden voor kalium, calcium, magnesium, natrium en zwavel in de vorm van het oxide (K<sub>2</sub>O; CaO; MgO; Na<sub>2</sub>O; onderscheidenlijk SO<sub>3</sub>) en desgewenst in de vorm van het element (K; Ca; Mg; Na onderscheidenlijk S) uitgedrukt.
-4. De hoeveelheid van de meststoffen, bedoeld in [artikel 19, eerste lid, onderdeel f, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), wordt uitgedrukt in kilogrammen of in tonnen.
+4. De hoeveelheid van de meststoffen, bedoeld in artikel 19, eerste lid, onderdeel f, van het besluit, wordt uitgedrukt in kilogrammen of in tonnen.
 
 ### Artikel 13  
 
-1. Behalve de gegevens, bedoeld in [artikel 19, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) zijn overige organische meststoffen en overige anorganische meststoffen die bestaan uit de in bijlage Aa opgenomen stoffen, voorzien van het nummer waaronder de desbetreffende stof op deze bijlage is vermeld.
-2. Behalve de gegevens, bedoeld in [artikel 19, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) zijn mengsels van meststoffen voorzien van gegevens over de meststoffen waaruit het mengsel bestaat en de verhouding waarin deze in het mengsel voorkomen.
+1. Behalve de gegevens, bedoeld in artikel 19, eerste lid, van het besluit zijn overige organische meststoffen en overige anorganische meststoffen die bestaan uit de in bijlage Aa opgenomen stoffen, voorzien van het nummer waaronder de desbetreffende stof op deze bijlage is vermeld.
+2. Behalve de gegevens, bedoeld in artikel 19, eerste lid, van het besluit zijn mengsels van meststoffen voorzien van gegevens over de meststoffen waaruit het mengsel bestaat en de verhouding waarin deze in het mengsel voorkomen.
 3. Indien het mengsel mede bestaat uit ingevolge artikel 4, onderdeel c, aangewezen stoffen, wordt bij de in het tweede lid bedoelde vermelding over de samenstelling en verhouding tevens vermeld het nummer waaronder de desbetreffende stof op bijlage Aa, onder III, is vermeld.
 
 ### Artikel 14  
@@ -168,8 +168,8 @@ In geval het betreft anorganische meststoffen die niet alleen primaire of secund
 
 ### Artikel 16  
 
-1. De gehalten stikstof en fosfaat in meststoffen, bedoeld in [artikel 19, eerste lid, onderdeel d van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden in gewichtsprocenten vermeld en komen overeen met de gehalten stikstof en fosfaat zoals deze voor de desbetreffende meststof overeenkomstig artikel 17, dan wel artikel 92a tot en met 92b voor zover het zuiveringsslib of compost betreft, zijn vastgesteld
-2. De waardegevende bestanddelen in meststoffen, bedoeld in [artikel 19, eerste lid, onderdeel e, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), met uitzondering van stikstof en fosfaat worden in gewichtsprocenten of op gewichtsbasis vermeld en komen overeen met: 
+1. De gehalten stikstof en fosfaat in meststoffen, bedoeld in artikel 19, eerste lid, onderdeel d van het besluit, worden in gewichtsprocenten vermeld en komen overeen met de gehalten stikstof en fosfaat zoals deze voor de desbetreffende meststof overeenkomstig artikel 17, dan wel artikel 92a tot en met 92b voor zover het zuiveringsslib of compost betreft, zijn vastgesteld
+2. De waardegevende bestanddelen in meststoffen, bedoeld in artikel 19, eerste lid, onderdeel e, van het besluit, met uitzondering van stikstof en fosfaat worden in gewichtsprocenten of op gewichtsbasis vermeld en komen overeen met: 
 
 a. de gehalten aan overige nutriënten zoals deze voor de desbetreffende meststof overeenkomstig artikel 17 zijn vastgesteld;  
 
@@ -210,7 +210,7 @@ c. de neutraliserende waarde zoals deze voor de desbetreffende meststof overeenk
 
 ### Artikel 23  
 
-Het tijdstip, bedoeld in [artikel 77 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) bedraagt voor alle meststoffen 1 januari 2011.
+Het tijdstip, bedoeld in artikel 77 van het besluit bedraagt voor alle meststoffen 1 januari 2011.
 
 ### Hoofdstuk  3  
 
@@ -222,8 +222,8 @@ Het tijdstip, bedoeld in [artikel 77 van het besluit](../../../../AMvB/uitvoerin
 
 ### Artikel  24  
 
-1.  De gebruiksnorm voor dierlijke meststoffen, bedoeld in [artikel 8, onderdeel a, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), is 250 kilogram stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond die voor het op of in de bodem brengen van dierlijke meststoffen beschikbaar is.   
-2.  In afwijking van het eerste lid, is de gebruiksnorm voor dierlijke meststoffen, bedoeld in [artikel 8, onderdeel a, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) 230 kilogram stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond die voor het op of in de bodem brengen van dierlijke mest beschikbaar is, indien de landbouwgrond is gelegen op zand- of lössgrond, bedoeld in [Bijlage I bij het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), in de provincies Overijssel, Gelderland, Utrecht, Noord-Brabant of Limburg.   
+1.  De gebruiksnorm voor dierlijke meststoffen, bedoeld in artikel 8, onderdeel a, van de wet, is 250 kilogram stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond die voor het op of in de bodem brengen van dierlijke meststoffen beschikbaar is.   
+2.  In afwijking van het eerste lid, is de gebruiksnorm voor dierlijke meststoffen, bedoeld in artikel 8, onderdeel a, van de wet 230 kilogram stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond die voor het op of in de bodem brengen van dierlijke mest beschikbaar is, indien de landbouwgrond is gelegen op zand- of lössgrond, bedoeld in Bijlage I bij het besluit, in de provincies Overijssel, Gelderland, Utrecht, Noord-Brabant of Limburg.   
 3.  De in het eerste en tweede lid bedoelde gebruiksnormen zijn uitsluitend van toepassing: 
 
 a. op dierlijke meststoffen afkomstig van graasdieren; en  
@@ -233,8 +233,8 @@ b. indien wordt voldaan aan elk van de voorwaarden, bedoeld in de artikelen 25, 
 ### Artikel  25  
 
 1.  Uiterlijk op 31 januari van het kalenderjaar waarin de gebruiksnormen, bedoeld in artikel 24, eerste en tweede lid, worden toegepast, meldt de landbouwer het bedrijf voor de toepassing van artikel 24, eerste en tweede lid, aan bij de minister.   
-2.  Met de melding verklaart de landbouwer dat hij de gebruiksnormen, bedoeld in [artikel 8 van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), de bij of krachtens de hoofdstukken 5 en 9 in samenhang met de [hoofdstukken IV](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [VI](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en [X van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) gestelde regels, de [artikelen 4b](../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) en [8a van het Besluit gebruik meststoffen](../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) en de voorschriften die uit hoofde van deze paragraaf aan hem worden gesteld naleeft.   
-3.  De landbouwer voldoet aan de gebruiksnormen, bedoeld in [artikel 8 van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), de bij of krachtens de hoofdstukken 5 en 9 in samenhang met de [hoofdstukken IV](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [VI](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en [X van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) gestelde regels en de [artikelen 4b](../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) en [8a van het Besluit gebruik meststoffen](../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md).   
+2.  Met de melding verklaart de landbouwer dat hij de gebruiksnormen, bedoeld in artikel 8 van de wet, de bij of krachtens de hoofdstukken 5 en 9 in samenhang met de hoofdstukken IV, VI en X van het besluit gestelde regels, de artikelen 4b en 8a van het Besluit gebruik meststoffen en de voorschriften die uit hoofde van deze paragraaf aan hem worden gesteld naleeft.   
+3.  De landbouwer voldoet aan de gebruiksnormen, bedoeld in artikel 8 van de wet, de bij of krachtens de hoofdstukken 5 en 9 in samenhang met de hoofdstukken IV, VI en X van het besluit gestelde regels en de artikelen 4b en 8a van het Besluit gebruik meststoffen.   
 4.  De landbouwer betaalt ten behoeve van ’s Rijks kas een geldsom ter dekking van de kosten die samenhangen met monitoringswerkzaamheden, bedoeld in artikel 8 van de derogatiebeschikking, ter hoogte van het bij zijn oppervlakte landbouwgrond behorende tarief, bedoeld in Bijlage Ad. Bij de melding, bedoeld in het eerste lid, stelt de landbouwer door middel van het afgeven van een machtiging tot betaling de minister in staat dit bedrag te innen.   
 5.  In het kalenderjaar waarin de gebruiksnormen, bedoeld in artikel 24, eerste en tweede lid, worden toegepast, wordt gedurende de periode van 15 mei tot en met 15 september ten minste tachtig procent van de tot het bedrijf behorende oppervlakte landbouwgrond, die voor het op of in de bodem brengen van dierlijke meststoffen beschikbaar is, onafgebroken beteeld met gras dat is bestemd om te worden gebruikt als ruwvoer.   
 6.  De landbouwer gebruikt geen fosfaat uit kunstmest.   
@@ -251,10 +251,10 @@ b. indien wordt voldaan aan elk van de voorwaarden, bedoeld in de artikelen 25, 
 
 1.  De landbouwer stelt vóór 1 februari van het kalenderjaar waarin de gebruiksnorm, bedoeld in artikel 24, eerste lid, wordt toegepast, voor het desbetreffende jaar een bemestingsplan op dat voldoet aan artikel 5, vierde en vijfde lid, van de derogatiebeschikking.   
 2.  De landbouwer herziet het bemestingsplan uiterlijk zeven dagen nadat zich een wijziging in de landbouwpraktijk heeft voorgedaan, indien dat noodzakelijk is om de consistentie van het bemestingsplan te waarborgen.   
-3.  De landbouwer bewaart het bemestingsplan als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).   
+3.  De landbouwer bewaart het bemestingsplan als onderdeel van de administratie, bedoeld in artikel 32 van het besluit.   
 4.  De landbouwer houdt een meststoffenregister bij dat voldoet aan artikel 5, zevende lid, van de derogatiebeschikking.   
 5.  De landbouwer verstrekt elk kalenderjaar uiterlijk op 31 januari aan de minister gegevens uit het meststoffenregister.   
-6.  De landbouwer bewaart het meststoffenregister als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).   
+6.  De landbouwer bewaart het meststoffenregister als onderdeel van de administratie, bedoeld in artikel 32 van het besluit.   
 7.  In afwijking van het eerste lid stelt de landbouwer in 2014 een bemestingsplan op vóór 14 juni.   
 8.  In afwijking van het vijfde lid verstrekt de landbouwer in 2014 uiterlijk op 13 juni aan de minister gegevens uit het meststoffenregister.   
 9.  Het zevende lid, het achtste lid en dit lid vervallen met ingang van 1 januari 2015. 
@@ -263,7 +263,7 @@ b. indien wordt voldaan aan elk van de voorwaarden, bedoeld in de artikelen 25, 
 
 1.  Ten hoogste vier jaren voorafgaand aan 1 februari van het kalenderjaar waarin de gebruiksnorm, bedoeld in artikel 24, eerste lid, wordt toegepast, zijn de waarde van de fosfaattoestand en de waarde van het stikstofleverende vermogen van de bodem van de tot het bedrijf behorende oppervlakte landbouwgrond vastgesteld en vastgelegd in een analyserapport door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.   
 2.  Het laboratorium stelt de fosfaattoestand van de bodem vast door middel van bemonstering en analyse van de bodem van de desbetreffende percelen overeenkomstig artikel 103a, eerste tot en met derde lid.   
-3.  De landbouwer bewaart het analyserapport als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).   
+3.  De landbouwer bewaart het analyserapport als onderdeel van de administratie, bedoeld in artikel 32 van het besluit.   
 4.  Indien een perceel door de landbouwer in gebruik wordt genomen na 1 februari en vóór 16 mei van het kalenderjaar waarin de gebruiksnorm, bedoeld in artikel 24, eerste lid, wordt toegepast, vindt de waardevaststelling, bedoeld in het eerste lid, uiterlijk 7 dagen na de ingebruikname plaats.   
 5.  In afwijking van het eerste lid zijn in 2014 de daar bedoelde waarden ten hoogste vier jaren, 4 maanden en 14 dagen voorafgaand aan 14 juni vastgesteld en vastgelegd in een daar bedoeld analyserapport.   
 6.  Het vijfde lid en dit lid vervallen met ingang van 1 januari 2015. 
@@ -278,7 +278,7 @@ b. bemonstering en analyse van de bodem overeenkomstig het in bijlage L opgenom
 
 ### Artikel  27c  
 
-Indien niet wordt voldaan aan elk van de voorwaarden, bedoeld in de artikelen 25, 27 en 27a, is de gebruiksnorm voor dierlijke meststoffen, bedoeld in [artikel 9, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) van toepassing. 
+Indien niet wordt voldaan aan elk van de voorwaarden, bedoeld in de artikelen 25, 27 en 27a, is de gebruiksnorm voor dierlijke meststoffen, bedoeld in artikel 9, eerste lid, van de wet van toepassing. 
 
 ### §  2  
 
@@ -286,7 +286,7 @@ Indien niet wordt voldaan aan elk van de voorwaarden, bedoeld in de artikelen 25
 
 ### Artikel  28  
 
-1.  Als hoeveelheid stikstof als bedoeld in [artikel 10, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) wordt vastgesteld de hoeveelheid stikstof die in bijlage A, tabel 1, bij het desbetreffende gewas onder het desbetreffende jaar is vermeld, uitgedrukt in kilogrammen stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond, zoals deze in voorkomend geval is onderscheiden naar de grondsoort van het perceel waarop de teelt plaatsvindt, het aantal voorafgaande teelten van hetzelfde gewas in het desbetreffende jaar, de in het desbetreffende jaar aan de betrokken teelt voorafgaande of op de betrokken teelt volgende teelt van andere gewassen, het tijdstip waarop het desbetreffende perceel is beteeld, alsmede de bij de teelt toegepaste landbouwpraktijk, met dien verstande dat: 
+1.  Als hoeveelheid stikstof als bedoeld in artikel 10, eerste lid, van de wet wordt vastgesteld de hoeveelheid stikstof die in bijlage A, tabel 1, bij het desbetreffende gewas onder het desbetreffende jaar is vermeld, uitgedrukt in kilogrammen stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond, zoals deze in voorkomend geval is onderscheiden naar de grondsoort van het perceel waarop de teelt plaatsvindt, het aantal voorafgaande teelten van hetzelfde gewas in het desbetreffende jaar, de in het desbetreffende jaar aan de betrokken teelt voorafgaande of op de betrokken teelt volgende teelt van andere gewassen, het tijdstip waarop het desbetreffende perceel is beteeld, alsmede de bij de teelt toegepaste landbouwpraktijk, met dien verstande dat: 
 
 a. de hoeveelheid stikstof die bij ‘tijdelijk grasland’ en bij ‘groenbemesters’ is vermeld, niet geldt voor tijdelijk grasland dat wordt, onderscheidenlijk groenbemesters die worden geteeld aansluitend op de teelt van maïs;  
 
@@ -303,37 +303,70 @@ c. de hoeveelheid stikstof die bij ‘Consumptieaardappelen Vroeg’ is vermeld,
 d. de hoeveelheid stikstof die bij ‘Pootaardappelen Uitgroeiteelt’ is vermeld, uitsluitend geldt indien het loof na 15 augustus van het desbetreffende jaar wordt vernietigd; en  
 
 e. de hoeveelheid stikstof die onder ‘lössgrond’ is vermeld, uitsluitend geldt indien het grond betreft die is ontstaan in eolisch materiaal en binnen 80 cm van het maaiveld voor meer dan de helft bestaat uit leem met een kleinere fractie dan 50 µm.     
-2.  Indien het gewogen gemiddelde van de hoeveelheid stikstof van alle op de tot een bedrijf behorende oppervlakte landbouwgrond geteelde gewassen of gewasgroepen uit Bijlage A, tabel 1, in een kalenderjaar ten minste 100 kilogram en ten hoogste 110 kilogram stikstof per hectare is, bedraagt de hoeveelheid stikstof, bedoeld in [artikel 10, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) in het desbetreffende kalenderjaar, in afwijking van het eerste lid, 110 kilogram stikstof per hectare van de tot dat bedrijf behorende oppervlakte landbouwgrond.  
+2.  Indien het gewogen gemiddelde van de hoeveelheid stikstof van alle op de tot een bedrijf behorende oppervlakte landbouwgrond geteelde gewassen of gewasgroepen uit Bijlage A, tabel 1, in een kalenderjaar ten minste 100 kilogram en ten hoogste 110 kilogram stikstof per hectare is, bedraagt de hoeveelheid stikstof, bedoeld in artikel 10, eerste lid, van de wet in het desbetreffende kalenderjaar, in afwijking van het eerste lid, 110 kilogram stikstof per hectare van de tot dat bedrijf behorende oppervlakte landbouwgrond.  
 
 ### Artikel  28a  
 
-1.  In afwijking van artikel 28 bedraagt de hoeveelheid stikstof, bedoeld in [artikel 10, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), voor suikerbieten en voor de in bijlage A, tabel 5, vermelde consumptieaardappelrassen, voor zover de teelt van deze gewassen op kleigrond plaatsvindt, de hoeveelheid stikstof die in bijlage A, tabel 1, bij het desbetreffende gewas onder het desbetreffende jaar is vermeld, vermeerderd met 15 kilogrammen onderscheidenlijk 30 kilogrammen stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond, indien: 
+1.  In afwijking van artikel 28 bedraagt de hoeveelheid stikstof, bedoeld in artikel 10, eerste lid, van de wet, voor onderstaande gewassen voor zover de teelt van deze gewassen op kleigrond plaatsvindt, de hoeveelheid stikstof die in bijlage A, tabel 1, bij het desbetreffende gewas onder het desbetreffende jaar is vermeld, vermeerderd met de hieronder vermelde hoeveelheid stikstof per hectare van de tot het bedrijf behorende oppervlakte landbouwgrond, onder de in het tweede lid vermelde voorwaarden: 
 
-a. voor zover het het gewas suikerbieten betreft, de gemiddelde opbrengst van het totale areaal suikerbieten dat op het desbetreffende bedrijf op kleigrond werd geteeld, gemeten over de drie aan het desbetreffende jaar voorafgaande jaren, ten minste 75 ton per hectare bedroeg;  
+a. voor zover het gewas suikerbieten betreft, 15 kilogrammen stikstof, indien de gemiddelde opbrengst van het totale areaal suikerbieten dat op het desbetreffende bedrijf op kleigrond werd geteeld, gemeten over de drie aan het desbetreffende jaar voorafgaande jaren, ten minste 75 ton per hectare bedroeg;  
 
-b. voor zover het de in bijlage A, tabel 5, genoemde consumptieaardappelrassen betreft, de gemiddelde opbrengst van het totale areaal van deze consumptieaardappelrassen dat op het desbetreffende bedrijf op kleigrond werd geteeld, gemeten over de drie aan het desbetreffende jaar voorafgaande jaren, ten minste 50 ton per hectare bedroeg;  
+b. voor zover het de in bijlage A, tabel 5, genoemde consumptieaardappelrassen betreft, 30 kilogrammen stikstof, indien de gemiddelde opbrengst van het totale areaal van deze consumptieaardappelrassen dat op het desbetreffende bedrijf op kleigrond werd geteeld, gemeten over de drie aan het desbetreffende jaar voorafgaande jaren, ten minste 50 ton per hectare bedroeg;  
 
-c. de landbouwer de in het tweede lid bedoelde afnemers heeft gemachtigd om desgevraagd gegevens over de afgenomen hoeveelheden suikerbieten of consumptieaardappelen te verstrekken aan de minister;  
+c. voor zover het gewas wintertarwe betreft, 15 kilogrammen stikstof, indien de gemiddelde opbrengst van het totale areaal wintertarwe dat op het desbetreffende bedrijf op kleigrond werd geteeld, gemeten over de drie aan het desbetreffende jaar voorafgaande jaren, ten minste 9 ton per hectare bedroeg;  
 
-d. de landbouwer het desbetreffende bedrijf uiterlijk op 15 mei van het desbetreffende kalenderjaar heeft aangemeld bij de minister;  
+d. voor zover het gewas zomertarwe betreft, 20 kilogrammen stikstof, indien de gemiddelde opbrengst van het totale areaal zomertarwe dat op het desbetreffende bedrijf op kleigrond werd geteeld, gemeten over de drie aan het desbetreffende jaar voorafgaande jaren, ten minste 8 ton per hectare bedroeg;  
 
-e. de landbouwer bij de melding, bedoeld in onderdeel d, heeft verklaard dat ten aanzien van het desbetreffende bedrijf is voldaan aan de onderdelen a, b, in samenhang met het tweede lid, en aan onderdeel c;  
+e. voor zover het gewas wintergerst betreft, 20 kilogrammen stikstof, indien de gemiddelde opbrengst van het totale areaal wintergerst dat op het desbetreffende bedrijf op kleigrond werd geteeld, gemeten over de drie aan het desbetreffende jaar voorafgaande jaren, ten minste 9 ton per hectare bedroeg;  
 
-f. de landbouwer als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), gegevens bewaart waaruit in voorkomend geval ter zake van elk van de drie aan het desbetreffende jaar voorafgaande jaren blijkt: 
+f. voor zover het gewas zomergerst betreft, 30 kilogrammen stikstof, indien de gemiddelde opbrengst van het totale areaal zomergerst dat op het desbetreffende bedrijf op kleigrond werd geteeld, gemeten over de drie aan het desbetreffende jaar voorafgaande jaren, ten minste 7 ton per hectare bedroeg.     
+2.  De landbouwer die gebruik maakt van de verhoging van de stikstofgebruiksnorm, bedoeld in het eerste lid, voldoet aan de volgende voorwaarden: 
 
-1°. welke consumptieaardappelrassen op zijn bedrijf werden geteeld;  
+a. de landbouwer heeft de afnemers, bedoeld in het derde lid, gemachtigd om desgevraagd gegevens over de afgenomen hoeveelheden te verstrekken aan de minister;  
 
-2°. het aantal hectaren kleigrond dat met de desbetreffende consumptieaardappelrassen of suikerbieten is beteeld;  
+b. de landbouwer heeft het desbetreffende bedrijf uiterlijk op 15 mei van het kalenderjaar waarin gebruik gemaakt wordt van de verhoging van de stikstofgebruiksnorm aangemeld bij de minister;  
+
+c. de landbouwer heeft bij de melding, bedoeld in onderdeel b, verklaard dat ten aanzien van het desbetreffende bedrijf is voldaan aan het eerste lid, onderdelen a tot en met f, in samenhang met het derde lid, en aan het tweede lid, onderdeel a;  
+
+d. de landbouwer als onderdeel van de administratie, bedoeld in artikel 32 van het besluit, gegevens bewaart waaruit in voorkomend geval ter zake van elk van de drie aan het desbetreffende jaar voorafgaande jaren blijkt: 
+
+1°. welke gewassen en rassen op zijn bedrijf werden geteeld;  
+
+2°. het aantal hectaren kleigrond dat met de desbetreffende gewassen en rassen was beteeld;  
 
 3°. de hoogte van de gewasopbrengst; en  
 
 4°. de afnemers van de desbetreffende gewassen.       
-2.  Voor de bepaling van de gewasopbrengst, bedoeld in het eerste lid, onderdelen a en b, wordt uitsluitend in aanmerking genomen de hoeveelheid suikerbieten, onderscheidenlijk consumptieaardappelen die door de desbetreffende landbouwer rechtstreeks dan wel door tussenkomst van een daartoe gespecialiseerd bedrijf dat zich toelegt op het sorteren van suikerbieten of consumptieaardappelen, zijn afgeleverd aan afnemers die de suikerbieten onderscheidenlijk de consumptieaardappelen tot voor menselijke consumptie geschikte producten verwerken.  
+3.  Voor de bepaling van de gewasopbrengst, bedoeld in het eerste lid, onderdelen a tot en met f, wordt uitsluitend in aanmerking genomen de hoeveelheid die door de desbetreffende landbouwer rechtstreeks dan wel door tussenkomst van een daartoe gespecialiseerd bedrijf dat zich toelegt op het sorteren van de betreffende gewassen, is afgeleverd aan afnemers die de suikerbieten respectievelijk de consumptieaardappelen tot voor menselijke consumptie dan wel de gewassen, bedoeld in het eerste lid, onder c tot en met f, tot voor menselijke of dierlijke consumptie geschikte producten verwerken.   
+4.  In afwijking van het tweede lid, onderdeel b, meldt de landbouwer in 2014 uiterlijk op 15 september zijn bedrijf aan bij de minister.   
+5.  In afwijking van het eerste lid, onderdelen c, d, e en f, wordt de opbrengst bepaald aan de hand van het voorafgaande jaar in 2014 en de twee voorafgaande jaren in 2015.   
+6.  Het vierde lid en dit lid vervallen met ingang van 1 januari 2015.   
+7.  Het vijfde lid en dit lid vervallen met ingang van 1 januari 2016.  
+
+### Artikel  28b  
+
+1.  In afwijking van artikel 28 bedraagt de hoeveelheid stikstof, bedoeld in artikel 10, eerste lid, van de wet op bouwland voor een gewasperceel 125 procent van de hoeveelheid stikstof die in bijlage A, tabel 1, voor de desbetreffende grondsoort bij het desbetreffende gewas onder het desbetreffende jaar is vermeld, indien voor dat betreffende gewasperceel: 
+
+a. de betrokken landbouwer schade leidt of dreigt te leiden uit opbrengstderving of kwaliteitsverlies, veroorzaakt door het optreden van een neerslaghoeveelheid die uitgaat boven 50 millimeter in de 24 uur na 08.00 uur of 60 millimeter in de 48 uur na 08.00 uur;  
+
+b. de te verwachten financiële opbrengst van het betreffende gewasperceel zonder bijbemesting tenminste 25 procent lager is;  
+
+c. neerslag en opbrengstderving in een rapport door een geregistreerd schade-expert zijn bevestigd, waarin ook melding gemaakt wordt van ligging en areaal van het betreffende gewasperceel;  
+
+d. de hoeveelheid stikstof die boven 100 procent van de in bijlage A, tabel 1, genoemde hoeveelheid uitgaat, wordt toegediend in de vorm van anorganische meststoffen;  
+
+e. de landbouwer het voornemen tot bijbemesting vooraf heeft gemeld bij de minister;  
+
+f. de landbouwer bij de melding, bedoeld in onderdeel e, heeft verklaard dat ten aanzien van het desbetreffende bedrijf wordt voldaan aan de onderdelen a tot en met d;  
+
+g. de landbouwer als onderdeel van de administratie, bedoeld in artikel 32 van het besluit, het rapport, bedoeld onder c, bewaart.     
+2.  In afwijking van onderdeel e, meldt de landbouwer in 2014 uiterlijk op 15 augustus de bijbemesting bij de minister, indien de neerslaghoeveelheden als bedoeld in onderdeel a zich vóór 1 augustus 2014 hebben voorgedaan.   
+3.  Het tweede lid, de aanduiding ‘1.’ voor het eerste lid alsmede dit lid vervallen met ingang van 1 januari 2015.  
 
 ### Artikel  29  
 
-1. Bij de bepaling van de in [artikel 12, tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) bedoelde hoeveelheid meststoffen wordt de hoeveelheid stikstof in dierlijke en andere in bijlage B vermelde organische meststoffen slechts in aanmerking genomen voor het percentage dat in de tabel van die bijlage is vermeld voor de desbetreffende meststof en, indien sprake is van dierlijke meststoffen die op bouwland op kleigrond of veengrond op of in de bodem zijn gebracht, voor de desbetreffende periode waarin de meststoffen op of in de bodem zijn gebracht, met dien verstande dat het bij de omstandigheid ‘op bedrijf met beweiding’ of ‘op bedrijf zonder beweiding’ vermelde percentage uitsluitend geldt indien op het desbetreffende bedrijf de in bijlage A, tabel 1, bij ‘grasland met beweiden’ onderscheidenlijk ‘grasland met volledig maaien’ vermelde hoeveelheid stikstof als stikstofgebruiksnorm wordt toegepast.  
-2.  Indien het mengsels van organische meststoffen betreft, wordt bij de bepaling van de in [artikel 12, tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) bedoelde hoeveelheid meststoffen de hoeveelheid stikstof in dat mengsel in aanmerking genomen voor het hoogste percentage dat in bijlage B is vermeld bij de meststoffen die het mengsel bevat. 
+1. Bij de bepaling van de in artikel 12, tweede lid, van de wet bedoelde hoeveelheid meststoffen wordt de hoeveelheid stikstof in dierlijke en andere in bijlage B vermelde organische meststoffen slechts in aanmerking genomen voor het percentage dat in de tabel van die bijlage is vermeld voor de desbetreffende meststof en, indien sprake is van dierlijke meststoffen die op bouwland op kleigrond of veengrond op of in de bodem zijn gebracht, voor de desbetreffende periode waarin de meststoffen op of in de bodem zijn gebracht, met dien verstande dat het bij de omstandigheid ‘op bedrijf met beweiding’ of ‘op bedrijf zonder beweiding’ vermelde percentage uitsluitend geldt indien op het desbetreffende bedrijf de in bijlage A, tabel 1, bij ‘grasland met beweiden’ onderscheidenlijk ‘grasland met volledig maaien’ vermelde hoeveelheid stikstof als stikstofgebruiksnorm wordt toegepast.  
+2.  Indien het mengsels van organische meststoffen betreft, wordt bij de bepaling van de in artikel 12, tweede lid, van de wet bedoelde hoeveelheid meststoffen de hoeveelheid stikstof in dat mengsel in aanmerking genomen voor het hoogste percentage dat in bijlage B is vermeld bij de meststoffen die het mengsel bevat. 
 
 ### §  3  
 
@@ -341,8 +374,8 @@ f. de landbouwer als onderdeel van de administratie, bedoeld in [artikel 32 van 
 
 ### Artikel  29a  
 
-1.  De fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), is per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met lage fosfaattoestand betreft, 100 kilogram fosfaat per jaar.   
-2.  De fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), is per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met lage fosfaattoestand betreft: 
+1.  De fosfaatgebruiksnorm voor meststoffen, bedoeld in artikel 8, onderdeel c, van de wet, is per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met lage fosfaattoestand betreft, 100 kilogram fosfaat per jaar.   
+2.  De fosfaatgebruiksnorm voor meststoffen, bedoeld in artikel 8, onderdeel c, van de wet, is per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met lage fosfaattoestand betreft: 
 
 a. 80 kilogram fosfaat in 2014;  
 
@@ -350,8 +383,8 @@ b. 75 kilogram fosfaat in 2015 en per volgende jaren.
 
 ### Artikel  30  
 
-1.  In afwijking van artikel 29a, eerste lid, is de fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor elk perceel dan wel gewasperceel, waarvan blijkens de aan de minister verstrekte gegevens de waarde van de fosfaattoestand van de bodem lager is dan het PAL-getal 16, 120 kilogram fosfaat in per jaar.   
-2.  In afwijking van artikel 29a, tweede lid, is de fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor elk perceel dan wel gewasperceel, waarvan blijkens de aan de minister verstrekte gegevens de waarde voor de fosfaattoestand van de bodem lager is dan het Pw-getal 25, 120 kilogram fosfaat per jaar.  
+1.  In afwijking van artikel 29a, eerste lid, is de fosfaatgebruiksnorm voor meststoffen, bedoeld in artikel 8, onderdeel c, van de wet, per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor elk perceel dan wel gewasperceel, waarvan blijkens de aan de minister verstrekte gegevens de waarde van de fosfaattoestand van de bodem lager is dan het PAL-getal 16, 120 kilogram fosfaat in per jaar.   
+2.  In afwijking van artikel 29a, tweede lid, is de fosfaatgebruiksnorm voor meststoffen, bedoeld in artikel 8, onderdeel c, van de wet, per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor elk perceel dan wel gewasperceel, waarvan blijkens de aan de minister verstrekte gegevens de waarde voor de fosfaattoestand van de bodem lager is dan het Pw-getal 25, 120 kilogram fosfaat per jaar.  
 
 ### Artikel  31  
 
@@ -393,7 +426,7 @@ h. de resultaten van de analyses;
 i. bijzondere waarnemingen, die tijdens de analyse van het mengmonster van elk betrokken perceel dan wel gewasperceel zijn gedaan; en  
 
 j. alle niet in bijlage C voorgeschreven handelingen die het resultaat van de analyse van het mengmonster van elk betrokken perceel dan wel gewasperceel hebben beïnvloed.     
-3.  De landbouwer bewaart een afschrift van het analyserapport gedurende vijf jaar na afloop van het kalenderjaar waarin de fosfaatgebruiksnorm, bedoeld in artikel 30, eerste of tweede lid, wordt toegepast als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).  
+3.  De landbouwer bewaart een afschrift van het analyserapport gedurende vijf jaar na afloop van het kalenderjaar waarin de fosfaatgebruiksnorm, bedoeld in artikel 30, eerste of tweede lid, wordt toegepast als onderdeel van de administratie, bedoeld in artikel 32 van het besluit.  
 
 ### §  4  
 
@@ -401,7 +434,7 @@ j. alle niet in bijlage C voorgeschreven handelingen die het resultaat van de an
 
 ### Artikel  34  
 
-Bij de bepaling van de in [artikel 12, vierde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) bedoelde hoeveelheid meststoffen, wordt: 
+Bij de bepaling van de in artikel 12, vierde lid, van de wet bedoelde hoeveelheid meststoffen, wordt: 
 
 a. 50 procent van de hoeveelheid fosfaat in compost niet in aanmerking genomen, tot een maximum van 3,5 kilogram fosfaat per 1000 kilogram droge stof;  
 
@@ -409,8 +442,8 @@ b. in de jaren 2006 tot en met 2009 50 procent van de hoeveelheid fosfaat in sch
 
 ### Artikel  35  
 
-1.  Een landbouwer kan in enig kalenderjaar ten aanzien van zijn bedrijf in afwijking van [artikel 11, tweede, derde, vierde of vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), een hogere fosfaatgebruiksnorm voor meststoffen op bouwland toepassen, indien de hoeveelheid fosfaat waarmee de ingevolge [artikel 11, tweede, derde, vierde of vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), geldende fosfaatgebruiksnorm is overschreden in het navolgende kalenderjaar volledig wordt gecompenseerd.   
-2.  De hogere fosfaatgebruiksnorm, bedoeld in het eerste lid, is niet meer dan 20 kilogram fosfaat per hectare per jaar hoger dan de fosfaatgebruiksnorm die geldt ingevolge [artikel 11, tweede, derde, vierde of vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md).  
+1.  Een landbouwer kan in enig kalenderjaar ten aanzien van zijn bedrijf in afwijking van artikel 11, tweede, derde, vierde of vijfde lid, van de wet, een hogere fosfaatgebruiksnorm voor meststoffen op bouwland toepassen, indien de hoeveelheid fosfaat waarmee de ingevolge artikel 11, tweede, derde, vierde of vijfde lid, van de wet, geldende fosfaatgebruiksnorm is overschreden in het navolgende kalenderjaar volledig wordt gecompenseerd.   
+2.  De hogere fosfaatgebruiksnorm, bedoeld in het eerste lid, is niet meer dan 20 kilogram fosfaat per hectare per jaar hoger dan de fosfaatgebruiksnorm die geldt ingevolge artikel 11, tweede, derde, vierde of vijfde lid, van de wet.  
 
 ### §  5  
 
@@ -469,12 +502,12 @@ e. de producent daadwerkelijk mineralenconcentraat produceert, overeenkomstig de
 4.  Wijzigingen in de elementen, bedoeld in artikel 35a, zesde lid, vinden niet plaats dan na instemming van de minister.   
 5.  De aangewezen producent draagt er zorg voor dat op het vervoersbewijs dierlijke mest uitsluitend de in bijlage I voor mineralenconcentraat opgenomen mestcode wordt vermeld, indien het mineralenconcentraat is vervaardigd overeenkomstig de op grond van artikel 35a, zesde lid, overgelegde beschrijving van het productieproces, en indien het mineralenconcentraat wordt afgevoerd naar een gebruiker waarmee hij een overeenkomst tot afname van het mineralenconcentraat heeft gesloten.   
 6.  Het gewicht van en het stikstofgehalte en het fosfaatgehalte in de van het bedrijf of van de onderneming van de producent afgevoerde hoeveelheid mineralenconcentraat wordt bepaald door middel van weging met behulp van een weegwerktuig onderscheidenlijk door middel van analyse van een uit de desbetreffende hoeveelheid genomen monster. Het nemen van dit monster en de analyse van dit monster geschieden overeenkomstig de artikelen 78 tot en met 81.   
-7.  Ingeval de aangewezen producent een intermediair is, heeft de in [artikel 14, eerste lid, van de Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) bedoelde verantwoording betrekking op zowel de hoeveelheid fosfaat als de hoeveelheid stikstof.   
+7.  Ingeval de aangewezen producent een intermediair is, heeft de in artikel 14, eerste lid, van de Meststoffenwet bedoelde verantwoording betrekking op zowel de hoeveelheid fosfaat als de hoeveelheid stikstof.   
 8.  Indien de aangewezen producent niet voldoet aan dit artikel of aan de ingevolge artikel 35b, tweede lid, gestelde voorschriften, kan de minister de aanwijzing als deelnemer voor een bepaalde periode schorsen of intrekken.  
 
 ### Artikel  35e  
 
-De landbouwer die op zijn bedrijf mineralenconcentraat gebruikt, is voor wat betreft het gebruik van het mineralenconcentraat, voor de jaren 2009, 2010, 2011, 2012, 2013 en 2014 vrijgesteld van [artikel 7 van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), voor zover het gebruik van de totale hoeveelheid meststoffen op zijn bedrijf de stikstofgebruiksnorm, bedoeld in [artikel 8, onderdeel b, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), en de fosfaatgebruiksnorm, bedoeld in [artikel 8, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), niet overschrijdt, en indien is voldaan aan elk van de voorwaarden, bedoeld in artikel 35f.
+De landbouwer die op zijn bedrijf mineralenconcentraat gebruikt, is voor wat betreft het gebruik van het mineralenconcentraat, voor de jaren 2009, 2010, 2011, 2012, 2013 en 2014 vrijgesteld van artikel 7 van de wet, voor zover het gebruik van de totale hoeveelheid meststoffen op zijn bedrijf de stikstofgebruiksnorm, bedoeld in artikel 8, onderdeel b, van de wet, en de fosfaatgebruiksnorm, bedoeld in artikel 8, onderdeel c, van de wet, niet overschrijdt, en indien is voldaan aan elk van de voorwaarden, bedoeld in artikel 35f.
 
 ### Artikel  35f  
 
@@ -483,9 +516,9 @@ De landbouwer die op zijn bedrijf mineralenconcentraat gebruikt, is voor wat bet
 3.  Het mineralenconcentraat is rechtstreeks vanaf het bedrijf of de onderneming van de in het eerste lid bedoelde producent op het bedrijf van de landbouwer aangevoerd.   
 4.  Het gewicht van en het stikstofgehalte en het fosfaatgehalte in de op het bedrijf van de landbouwer aangevoerde hoeveelheid mineralenconcentraat worden bepaald door middel van weging met behulp van een weegwerktuig onderscheidenlijk door middel van analyse van een uit de desbetreffende hoeveelheid genomen monster. Het nemen van dit monster en de analyse van dit monster geschieden overeenkomstig de artikelen 78 tot en met 81.   
 5.  Op het vervoersbewijs dierlijke meststoffen dat de desbetreffende aangevoerde vracht vergezelt, is de in bijlage I voor mineralenconcentraat opgenomen mestcode vermeld.   
-6.  De landbouwer houdt in de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), de gegevens bij over de oppervlakte en de ligging van de percelen van zijn bedrijf waarop mineralenconcentraat op of in de bodem is gebracht.   
+6.  De landbouwer houdt in de administratie, bedoeld in artikel 32 van het besluit, de gegevens bij over de oppervlakte en de ligging van de percelen van zijn bedrijf waarop mineralenconcentraat op of in de bodem is gebracht.   
 7.  De landbouwer verleent indien door of namens de minister daartoe verzocht alle noodzakelijke medewerking aan het in artikel 35a, eerste lid, bedoelde onderzoek.   
-8.  Bij de bepaling van de in [artikel 12, tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) bedoelde hoeveelheid meststoffen wordt voor het desbetreffende bedrijf de hoeveelheid stikstof in het mineralenconcentraat voor 100 procent in aanmerking genomen.  
+8.  Bij de bepaling van de in artikel 12, tweede lid, van de wet bedoelde hoeveelheid meststoffen wordt voor het desbetreffende bedrijf de hoeveelheid stikstof in het mineralenconcentraat voor 100 procent in aanmerking genomen.  
 
 ### Artikel  35g  
 
@@ -497,7 +530,7 @@ Deze paragraaf vervalt met ingang van 1 januari 2015.
 
 ### Artikel  36  
 
-1.  Als forfaitaire productienormen als bedoeld in [artikel 28, tweede lid, onderdeel b, en vierde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) worden voor de onderscheiden diersoorten en diercategorieën de normen vastgesteld die zijn vermeld in bijlage D, tabel I, kolom A.   
+1.  Als forfaitaire productienormen als bedoeld in artikel 28, tweede lid, onderdeel b, en vierde lid, van het besluit worden voor de onderscheiden diersoorten en diercategorieën de normen vastgesteld die zijn vermeld in bijlage D, tabel I, kolom A.   
 2.  Indien de omschrijving behorende bij een diercategorie niet overeenkomt met de feitelijke situatie, worden de normen gehanteerd van de diercategorie waarvan de omschrijving het meest aansluit bij de feitelijke situatie.  
 
 ### Hoofdstuk  5  
@@ -506,14 +539,14 @@ Deze paragraaf vervalt met ingang van 1 januari 2015.
 
 ### Artikel  37  
 
-1.  De aanmelding, bedoeld in [artikel 31, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na inwerkingtreding van deze regeling bij de minister.   
+1.  De aanmelding, bedoeld in artikel 31, eerste lid, van het besluit, geschiedt binnen 30 dagen na inwerkingtreding van deze regeling bij de minister.   
 2.  Indien een landbouwbedrijf wordt opgericht na 1 januari 2006, geschiedt de aanmelding, bedoeld in het eerste lid, uiterlijk 30 dagen na oprichting.   
-3.  De gegevens, bedoeld in [artikel 31, tweede lid, onderdeel a, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), betreffen mede: 
+3.  De gegevens, bedoeld in artikel 31, tweede lid, onderdeel a, van het besluit, betreffen mede: 
 
 a. het adres van de bedrijfsgebouwen waar dierlijke mest wordt geproduceerd; en  
 
 b. het correspondentieadres van de landbouwer, indien dit afwijkt van het adres, bedoeld in onderdeel a.     
-4.  Wijzigingen in de ingevolge [artikel 31 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) verstrekte gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de minister ter identificatie van het bedrijf verstrekte relatienummer, gemeld aan de minister.  
+4.  Wijzigingen in de ingevolge artikel 31 van het besluit verstrekte gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de minister ter identificatie van het bedrijf verstrekte relatienummer, gemeld aan de minister.  
 
 ### Artikel  37a  
 
@@ -521,14 +554,14 @@ De landbouwer stelt in Nederland zijn administratie voor controle beschikbaar aa
 
 ### Artikel  38  
 
-1.  De gegevens, bedoeld in [artikel 32, tweede lid, onderdeel c, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), betreffen uitsluitend die percelen landbouwgrond die bij het bedrijf in het kader van normale bedrijfsvoering in gebruik zijn en die al dan niet gedeeltelijk zijn gelegen in Duitsland of in België, tot 20, onderscheidenlijk tot 25 kilometer uit de Nederlandse grens.   
-2.  De gegevens, bedoeld in [artikel 32, tweede lid, onderdeel e, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden onderscheiden naar diersoorten en diercategorieën per soort overeenkomstig de omschrijvingen in bijlage D, tabel I.   
-3.  De gegevens, bedoeld in [artikel 32, tweede lid, onderdeel g, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden per afzonderlijke opslagruimte weergegeven.   
-4.  Indien op een bedrijf ‘covergiste mest’ als bedoeld in bijlage Aa, onder IV wordt geproduceerd, worden de gegevens, bedoeld in [artikel 33, derde lid, onderdeel c, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), onderscheiden naar de tezamen met de dierlijke meststoffen vergiste stoffen overeenkomstig de aanduiding en de daarbij behorende omschrijving van de desbetreffende stof in bijlage Aa, onder IV, en bevat de administratie behalve de gegevens, bedoeld in [artikel 33, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), gegevens over het bedrijf of de onderneming waar de desbetreffende stof als reststof is vrijgekomen. 
+1.  De gegevens, bedoeld in artikel 32, tweede lid, onderdeel c, van het besluit, betreffen uitsluitend die percelen landbouwgrond die bij het bedrijf in het kader van normale bedrijfsvoering in gebruik zijn en die al dan niet gedeeltelijk zijn gelegen in Duitsland of in België, tot 20, onderscheidenlijk tot 25 kilometer uit de Nederlandse grens.   
+2.  De gegevens, bedoeld in artikel 32, tweede lid, onderdeel e, van het besluit, worden onderscheiden naar diersoorten en diercategorieën per soort overeenkomstig de omschrijvingen in bijlage D, tabel I.   
+3.  De gegevens, bedoeld in artikel 32, tweede lid, onderdeel g, van het besluit, worden per afzonderlijke opslagruimte weergegeven.   
+4.  Indien op een bedrijf ‘covergiste mest’ als bedoeld in bijlage Aa, onder IV wordt geproduceerd, worden de gegevens, bedoeld in artikel 33, derde lid, onderdeel c, van het besluit, onderscheiden naar de tezamen met de dierlijke meststoffen vergiste stoffen overeenkomstig de aanduiding en de daarbij behorende omschrijving van de desbetreffende stof in bijlage Aa, onder IV, en bevat de administratie behalve de gegevens, bedoeld in artikel 33, derde lid, van het besluit, gegevens over het bedrijf of de onderneming waar de desbetreffende stof als reststof is vrijgekomen. 
 
 ### Artikel  39  
 
-Behalve de gegevens, bedoeld in [artikel 32, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), bevat de administratie van de landbouwer gegevens over: 
+Behalve de gegevens, bedoeld in artikel 32, tweede lid, van het besluit, bevat de administratie van de landbouwer gegevens over: 
 
 a. de hoeveelheid dierlijke meststoffen die in de periode van 1 januari tot en met 31 januari of van 16 september tot en met 31 december, op zijn bedrijf op bouwland op kleigrond of veengrond op of in de bodem is gebracht; en  
 
@@ -537,7 +570,7 @@ b. de oppervlakte en de ligging van de percelen van zijn bedrijf waarop zuiverin
 ### Artikel  40  
 
 1.  Wijzigingen in de aantallen op het bedrijf gehouden dan wel anderszins aanwezige varkens, kippen, kalkoenen en runderen, worden binnen drie dagen na de datum waarop de wijziging zich heeft voorgedaan, onder vermelding van de datum waarop deze wijziging zich heeft voorgedaan, in de administratie opgenomen.   
-2.  Wijzigingen in de overige gegevens die de administratie ingevolge de [artikelen 32, tweede lid](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), en[ 33 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en de artikelen 38 en 39 bevat, worden binnen 30 dagen na de datum waarop de wijziging zich heeft voorgedaan, onder vermelding van de datum waarop deze wijziging zich heeft voorgedaan, in de administratie opgenomen.  
+2.  Wijzigingen in de overige gegevens die de administratie ingevolge de artikelen 32, tweede lid, en 33 van het besluit en de artikelen 38 en 39 bevat, worden binnen 30 dagen na de datum waarop de wijziging zich heeft voorgedaan, onder vermelding van de datum waarop deze wijziging zich heeft voorgedaan, in de administratie opgenomen.  
 
 ### Artikel  41  
 
@@ -545,7 +578,7 @@ De landbouwer die in de periode van 16 mei tot en met 31 oktober van een kalen
 
 ### Artikel  42  
 
-1.  De landbouwer, bedoeld in [artikel 35, eerste lid, onderdeel a, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), de landbouwer op wiens bedrijf in het voorgaande kalenderjaar de gebruiksnorm, bedoeld in artikel 24, eerste lid, is toegepast of de landbouwer wiens bedrijf daartoe voor het huidige kalenderjaar is aangemeld bij de minister overeenkomstig artikel 25, eerste lid, verstrekt jaarlijks vóór 1 februari aan de minister met betrekking tot het voorgaande kalenderjaar gegevens uit de administratie over: 
+1.  De landbouwer, bedoeld in artikel 35, eerste lid, onderdeel a, van het besluit, de landbouwer op wiens bedrijf in het voorgaande kalenderjaar de gebruiksnorm, bedoeld in artikel 24, eerste lid, is toegepast of de landbouwer wiens bedrijf daartoe voor het huidige kalenderjaar is aangemeld bij de minister overeenkomstig artikel 25, eerste lid, verstrekt jaarlijks vóór 1 februari aan de minister met betrekking tot het voorgaande kalenderjaar gegevens uit de administratie over: 
 
 a. de aan het eind van het kalenderjaar op het bedrijf aanwezige hoeveelheid meststoffen, onderscheiden naar: 
 
@@ -563,21 +596,21 @@ c. het gemiddelde aantal in het kalenderjaar op het bedrijf gehouden dieren, and
 
 d. het aantal aan- of afgevoerde staldieren, anders dan varkens of vleeskalveren, onderscheiden naar diersoort en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in bijlage D, tabel I.     
 2.  De landbouwer op wiens bedrijf op 31 december 2005 pluimveerechten, varkensrechten of niet-gebonden mestproductierechten rustten of wiens bedrijf overeenkomstig artikel 25, eerste lid, is aangemeld voor toepassing in 2006 van de gebruiksnorm, bedoeld in artikel 24, eerste lid, verstrekt vóór 1 februari 2006 aan de minister gegevens uit de administratie over de op 1 januari 2006 op het bedrijf aanwezige hoeveelheid meststoffen, onderscheiden naar meststoffen als bedoeld in het eerste lid, onderdeel a, onder 1° tot en met 4°.   
-3.  De landbouwer die op het eigen bedrijf geproduceerde koemelk zelf verwerkt tot eindproducten en die 50 procent of meer van de geproduceerde koemelk levert aan een koper als bedoeld in de [Regeling superheffing en melkpremie 2004](../../../../ministeriele-regeling/regeling/superheffing/BWBR0016539/README.md), verstrekt aan de minister gegevens met betrekking tot de op het bedrijf geproduceerde hoeveelheid koemelk.  
+3.  De landbouwer die op het eigen bedrijf geproduceerde koemelk zelf verwerkt tot eindproducten en die 50 procent of meer van de geproduceerde koemelk levert aan een koper als bedoeld in de Regeling superheffing en melkpremie 2004, verstrekt aan de minister gegevens met betrekking tot de op het bedrijf geproduceerde hoeveelheid koemelk.  
 
 ### Artikel  43  
 
-1.  De [artikelen 26](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en [31 tot en met 35 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en de artikelen 37 tot en met 42 zijn niet van toepassing ten aanzien van een bedrijf, indien op elk moment in het desbetreffende kalenderjaar wordt voldaan aan elk van de volgende voorwaarden: 
+1.  De artikelen 26 en 31 tot en met 35 van het besluit en de artikelen 37 tot en met 42 zijn niet van toepassing ten aanzien van een bedrijf, indien op elk moment in het desbetreffende kalenderjaar wordt voldaan aan elk van de volgende voorwaarden: 
 
 a. de som van de tot dan toe in dat jaar op het bedrijf aangevoerde dierlijke meststoffen en de productie van meststoffen door de op dat moment op het bedrijf gehouden dan wel anderszins aanwezige dieren op jaarbasis is ten hoogste 350 kilogram stikstof;  
 
 b. de tot het bedrijf behorende oppervlakte landbouwgrond is niet groter dan drie hectare.     
-2.  De [artikelen 32, tweede lid, onderdelen d, e, f en h en 33 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en de artikelen 40, eerste lid, en 42, eerste lid, onderdelen a, c en d, zijn niet van toepassing ten aanzien van diersoorten als bedoeld in bijlage D, tabel I, waarvan de op enig moment op het bedrijf gehouden of anderszins aanwezige dieren tezamen op jaarbasis ten hoogste 350 kilogram stikstof produceren, onderscheidenlijk ten aanzien van de door deze dieren geproduceerde hoeveelheid dierlijke meststoffen.   
+2.  De artikelen 32, tweede lid, onderdelen d, e, f en h en 33 van het besluit en de artikelen 40, eerste lid, en 42, eerste lid, onderdelen a, c en d, zijn niet van toepassing ten aanzien van diersoorten als bedoeld in bijlage D, tabel I, waarvan de op enig moment op het bedrijf gehouden of anderszins aanwezige dieren tezamen op jaarbasis ten hoogste 350 kilogram stikstof produceren, onderscheidenlijk ten aanzien van de door deze dieren geproduceerde hoeveelheid dierlijke meststoffen.   
 3.  De productie van dierlijke meststoffen op jaarbasis, bedoeld in het eerste lid, onderdeel a, en het tweede lid, wordt bepaald op basis van het aantal op het desbetreffende moment gehouden dieren, onderscheiden naar diersoorten en diercategorieën per soort, en op basis van de voor de onderscheiden diersoorten en diercategorieën in bijlage D, tabel I, kolom B, en tabel II vermelde forfaitaire productienormen, uitgedrukt in kilogrammen stikstof per dier per jaar.  
 
 ### Artikel  44  
 
-De [artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en de artikelen 40 en 42, eerste lid, onderdelen a en c, zijn niet van toepassing ten aanzien van de in enig kalenderjaar op het bedrijf ingeschaarde schapen, onderscheidenlijk de door deze schapen geproduceerde hoeveelheid dierlijke meststoffen, indien ten aanzien van dat bedrijf wordt voldaan aan elk van de volgende voorwaarden: 
+De artikelen 32, tweede lid, onderdelen e, g, en h, van het besluit en de artikelen 40 en 42, eerste lid, onderdelen a en c, zijn niet van toepassing ten aanzien van de in enig kalenderjaar op het bedrijf ingeschaarde schapen, onderscheidenlijk de door deze schapen geproduceerde hoeveelheid dierlijke meststoffen, indien ten aanzien van dat bedrijf wordt voldaan aan elk van de volgende voorwaarden: 
 
 a. het aantal in dat kalenderjaar ingeschaarde schapen is niet groter dan 450;  
 
@@ -589,23 +622,23 @@ b. inscharing van de schapen vindt slechts gedurende één aaneengesloten period
 
 ### Artikel  45  
 
-1.  De aanmelding, bedoeld in [artikel 38, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na inwerkingtreding van deze regeling bij de minister.   
+1.  De aanmelding, bedoeld in artikel 38, eerste lid, van het besluit, geschiedt binnen 30 dagen na inwerkingtreding van deze regeling bij de minister.   
 2.  Indien een intermediaire onderneming wordt opgericht na 1 januari 2006, geschiedt de aanmelding, bedoeld in het eerste lid, uiterlijk 30 dagen na oprichting.   
-3.  De gegevens, bedoeld in [artikel 38, tweede lid, onderdeel a, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), betreffen mede: 
+3.  De gegevens, bedoeld in artikel 38, tweede lid, onderdeel a, van het besluit, betreffen mede: 
 
 a. de kadastrale aanduiding van de onderscheiden locaties van de opslagruimten van de onderneming; en  
 
 b. het correspondentieadres van de onderneming.     
-4.  De gegevens, bedoeld in [artikel 38, tweede lid, onderdelen f en g, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), betreffen mede de serienummers van de automatische bemonsterings- en verpakkingsapparatuur en de AGR-apparatuur alsmede een aanduiding van het type waartoe deze apparatuur behoort, het versienummer en de fabrikant van deze apparatuur.   
-5.  De gegevens, bedoeld in [artikel 38, tweede lid, onderdeel h, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden, voor zover het opslagruimten voor drijfmest of vaste mest betreft, mede uitgedrukt in kubieke meters onderscheidenlijk in vierkante meters.   
-6.  Behalve de gegevens, bedoeld in [artikel 38, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), verstrekt de intermediair ter zake van de transportmiddelen die voor het vervoer van drijfmest exclusief bij de desbetreffende onderneming in gebruik zijn en waarop overeenkomstig artikel 53, tweede lid, automatische bemonsterings- en verpakkingsapparatuur is bevestigd, tenzij het vervoer van dierlijke meststoffen van een bedrijf naar een intermediaire onderneming plaatsvindt met behulp van een pijpleiding, tevens gegevens over: 
+4.  De gegevens, bedoeld in artikel 38, tweede lid, onderdelen f en g, van het besluit, betreffen mede de serienummers van de automatische bemonsterings- en verpakkingsapparatuur en de AGR-apparatuur alsmede een aanduiding van het type waartoe deze apparatuur behoort, het versienummer en de fabrikant van deze apparatuur.   
+5.  De gegevens, bedoeld in artikel 38, tweede lid, onderdeel h, van het besluit, worden, voor zover het opslagruimten voor drijfmest of vaste mest betreft, mede uitgedrukt in kubieke meters onderscheidenlijk in vierkante meters.   
+6.  Behalve de gegevens, bedoeld in artikel 38, tweede lid, van het besluit, verstrekt de intermediair ter zake van de transportmiddelen die voor het vervoer van drijfmest exclusief bij de desbetreffende onderneming in gebruik zijn en waarop overeenkomstig artikel 53, tweede lid, automatische bemonsterings- en verpakkingsapparatuur is bevestigd, tenzij het vervoer van dierlijke meststoffen van een bedrijf naar een intermediaire onderneming plaatsvindt met behulp van een pijpleiding, tevens gegevens over: 
 
-a. het kenteken en de meldcode, zoals deze zijn vermeld op het voor het betrokken voertuig afgegeven, geldige kentekenbewijs, bedoeld in [artikel 1, eerste lid, onderdeel h, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), voor zover het een motorrijtuig of aanhangwagen als bedoeld in [artikel 1, eerste lid, onderdelen c onderscheidenlijk d, van die wet](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) betreft; of  
+a. het kenteken en de meldcode, zoals deze zijn vermeld op het voor het betrokken voertuig afgegeven, geldige kentekenbewijs, bedoeld in artikel 1, eerste lid, onderdeel h, van de Wegenverkeerswet 1994, voor zover het een motorrijtuig of aanhangwagen als bedoeld in artikel 1, eerste lid, onderdelen c onderscheidenlijk d, van die wet betreft; of  
 
 b. het chassisnummer van het betrokken transportmiddel, voor zover het een ander transportmiddel betreft.    
-7. Indien op een onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt de intermediair behalve de gegevens, bedoeld in [artikel 38, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), tevens een omschrijving van de in [artikel 16, eerste lid, van het beslui](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md)t bedoelde behandelingsmethode voor zuiveringsslib. 
-8.  Wijzigingen in de ingevolge [artikel 38 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of het zesde of zevende lid geregistreerde gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de minister ter identificatie van de onderneming verstrekte relatienummer, gemeld aan de minister.   
-9.  De [artikelen 38](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en [39 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) zijn niet van toepassing op tuincentra en hoveniers voor zover deze meststoffen afvoeren naar een afnemer, die geen bedrijf of een onderneming in het kader waarvan meststoffen worden verhandeld, voert.  
+7. Indien op een onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt de intermediair behalve de gegevens, bedoeld in artikel 38, tweede lid, van het besluit, tevens een omschrijving van de in artikel 16, eerste lid, van het besluit bedoelde behandelingsmethode voor zuiveringsslib. 
+8.  Wijzigingen in de ingevolge artikel 38 van het besluit of het zesde of zevende lid geregistreerde gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de minister ter identificatie van de onderneming verstrekte relatienummer, gemeld aan de minister.   
+9.  De artikelen 38 en 39 van het besluit zijn niet van toepassing op tuincentra en hoveniers voor zover deze meststoffen afvoeren naar een afnemer, die geen bedrijf of een onderneming in het kader waarvan meststoffen worden verhandeld, voert.  
 
 ### Artikel  45a  
 
@@ -613,30 +646,30 @@ De intermediair stelt in Nederland zijn administratie voor controle beschikbaar 
 
 ### Artikel  46  
 
-1.  De gegevens, bedoeld in [artikel 39, tweede lid, onderdeel b, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bijgehouden op het daartoe door de minister verstrekte formulier.   
+1.  De gegevens, bedoeld in artikel 39, tweede lid, onderdeel b, van het besluit, worden bijgehouden op het daartoe door de minister verstrekte formulier.   
 2.  In plaats van het in het eerste lid bedoelde formulier kunnen andere gegevensdragers worden gebruikt, onder de voorwaarde dat daarbij dezelfde berekeningswijze wordt gehanteerd als bij gebruik van het in het eerste lid bedoelde formulier, het geval zou zijn geweest.   
-3.  Voor zover het hoeveelheden dierlijke meststoffen, zuiveringsslib of compost betreft, worden de gegevens, bedoeld in [artikel 39, tweede lid, onderdeel b, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), ingevuld zoals deze ook zijn vermeld op het op de desbetreffende hoeveelheid betrekking hebbende vervoersbewijs dierlijke meststoffen, onderscheidenlijk vervoersbewijs zuiveringsslib en compost en op het ter zake door het laboratorium verstrekte overzicht van de analyseresultaten.   
-4.  Voor zover het hoeveelheden mestkorrels, overige organische meststoffen en anorganische meststoffen betreft, worden de gegevens, bedoeld in [artikel 39, tweede lid, onderdeel b, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), overgenomen van het etiket op de verpakking, dan wel van het begeleidend document bij de meststoffen.   
-5.  Behalve de gegevens, bedoeld in [artikel 39, tweede en derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), bevat de administratie met betrekking tot de overdracht van een opslagruimte voor meststoffen, bedoeld in [artikel 39, tweede lid, onderdeel c, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), het door de minister ter identificatie verstrekte relatienummer van de bij deze overdracht betrokken intermediaire onderneming.  
-6. Indien op een onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, bevat de administratie behalve de gegevens, bedoeld in [artikel 39, tweede en derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) tevens gegevens over:
+3.  Voor zover het hoeveelheden dierlijke meststoffen, zuiveringsslib of compost betreft, worden de gegevens, bedoeld in artikel 39, tweede lid, onderdeel b, van het besluit, ingevuld zoals deze ook zijn vermeld op het op de desbetreffende hoeveelheid betrekking hebbende vervoersbewijs dierlijke meststoffen, onderscheidenlijk vervoersbewijs zuiveringsslib en compost en op het ter zake door het laboratorium verstrekte overzicht van de analyseresultaten.   
+4.  Voor zover het hoeveelheden mestkorrels, overige organische meststoffen en anorganische meststoffen betreft, worden de gegevens, bedoeld in artikel 39, tweede lid, onderdeel b, van het besluit, overgenomen van het etiket op de verpakking, dan wel van het begeleidend document bij de meststoffen.   
+5.  Behalve de gegevens, bedoeld in artikel 39, tweede en derde lid, van het besluit, bevat de administratie met betrekking tot de overdracht van een opslagruimte voor meststoffen, bedoeld in artikel 39, tweede lid, onderdeel c, van het besluit, het door de minister ter identificatie verstrekte relatienummer van de bij deze overdracht betrokken intermediaire onderneming.  
+6. Indien op een onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, bevat de administratie behalve de gegevens, bedoeld in artikel 39, tweede en derde lid, van het besluit tevens gegevens over:
 
-a. de in [artikel 16, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) bedoelde behandelingsmethode voor zuiveringsslib;  
+a. de in artikel 16, eerste lid, van het besluit bedoelde behandelingsmethode voor zuiveringsslib;  
 
 b. de hoeveelheid geproduceerd, behandeld zuiveringsslib; en  
 
-c. de gehalten aan droge stof, fosfaat en stikstof, de pH-waarde, het organisch stofgehalte en de hoeveelheden van de in [bijlage II, onder tabel 2, bij het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen zware metalen in het zuiveringsslib alsmede de resultaten van de uitgevoerde bemonsteringen en analyses, bedoeld in artikel 21.  
-7. Indien op een onderneming compost wordt geproduceerd of anderszins wordt behandeld, bevat de administratie behalve de gegevens, bedoeld in [artikel 39, tweede en derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) tevens gegevens over:
+c. de gehalten aan droge stof, fosfaat en stikstof, de pH-waarde, het organisch stofgehalte en de hoeveelheden van de in bijlage II, onder tabel 2, bij het besluit opgenomen zware metalen in het zuiveringsslib alsmede de resultaten van de uitgevoerde bemonsteringen en analyses, bedoeld in artikel 21.  
+7. Indien op een onderneming compost wordt geproduceerd of anderszins wordt behandeld, bevat de administratie behalve de gegevens, bedoeld in artikel 39, tweede en derde lid, van het besluit tevens gegevens over:
 
 a. de hoeveelheid geproduceerde, behandelde compost; en  
 
-b. de gehalten aan droge stof, fosfaat en stikstof, het organisch stofgehalte en de hoeveelheden van de in [bijlage II, onder tabel 3, bij het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen zware metalen.   
-8.  Indien op een onderneming ‘covergiste mest’ als bedoeld in bijlage Aa, onder IV wordt geproduceerd, worden de gegevens, bedoeld in [artikel 39, derde lid, onderdeel c, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), onderscheiden naar de tezamen met de dierlijke meststoffen vergiste stoffen overeenkomstig de aanduiding en de daarbij behorende omschrijving van de desbetreffende stof in bijlage Aa, onder IV, en bevat de administratie behalve de gegevens, bedoeld in [artikel 39, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), gegevens over het bedrijf of de onderneming waar de desbetreffende stof als reststof is vrijgekomen. 
+b. de gehalten aan droge stof, fosfaat en stikstof, het organisch stofgehalte en de hoeveelheden van de in bijlage II, onder tabel 3, bij het besluit opgenomen zware metalen.   
+8.  Indien op een onderneming ‘covergiste mest’ als bedoeld in bijlage Aa, onder IV wordt geproduceerd, worden de gegevens, bedoeld in artikel 39, derde lid, onderdeel c, van het besluit, onderscheiden naar de tezamen met de dierlijke meststoffen vergiste stoffen overeenkomstig de aanduiding en de daarbij behorende omschrijving van de desbetreffende stof in bijlage Aa, onder IV, en bevat de administratie behalve de gegevens, bedoeld in artikel 39, derde lid, van het besluit, gegevens over het bedrijf of de onderneming waar de desbetreffende stof als reststof is vrijgekomen. 
 
 ### Artikel  47  
 
-1.  Wijzigingen in de gegevens die de administratie ingevolge [artikel 39, tweede lid, aanhef en onderdelen a en c, en derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en artikel 46, vijfde lid, bevat, worden binnen 30 dagen na de datum waarop de wijziging zich heeft voorgedaan in de administratie opgenomen.   
-2.  Wijzigingen in de gegevens, die de administratie ingevolge [artikel 39, tweede lid, onderdeel b, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) bevat, worden, voor zover het dierlijke meststoffen anders dan mestkorrels betreft, binnen 24 uur na het tijdstip waarop de analyseresultaten, bedoeld in artikel 81, eerste lid, van het laboratorium zijn ontvangen op het in artikel 46, eerste lid, bedoelde formulier verwerkt.   
-3.  Wijzigingen in de gegevens, die de administratie ingevolge [artikel 39, tweede lid, onderdeel b, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) bevat, worden, voor zover het meststoffen anders dan dierlijke meststoffen betreft, binnen 24 uur na het tijdstip waarop de wijziging zich heeft voorgedaan op het in artikel 46, eerste lid, bedoelde formulier verwerkt.  
+1.  Wijzigingen in de gegevens die de administratie ingevolge artikel 39, tweede lid, aanhef en onderdelen a en c, en derde lid, van het besluit en artikel 46, vijfde lid, bevat, worden binnen 30 dagen na de datum waarop de wijziging zich heeft voorgedaan in de administratie opgenomen.   
+2.  Wijzigingen in de gegevens, die de administratie ingevolge artikel 39, tweede lid, onderdeel b, van het besluit bevat, worden, voor zover het dierlijke meststoffen anders dan mestkorrels betreft, binnen 24 uur na het tijdstip waarop de analyseresultaten, bedoeld in artikel 81, eerste lid, van het laboratorium zijn ontvangen op het in artikel 46, eerste lid, bedoelde formulier verwerkt.   
+3.  Wijzigingen in de gegevens, die de administratie ingevolge artikel 39, tweede lid, onderdeel b, van het besluit bevat, worden, voor zover het meststoffen anders dan dierlijke meststoffen betreft, binnen 24 uur na het tijdstip waarop de wijziging zich heeft voorgedaan op het in artikel 46, eerste lid, bedoelde formulier verwerkt.  
 
 ### Artikel  48  
 
@@ -647,14 +680,14 @@ a. de hoeveelheden meststoffen, anders dan dierlijke meststoffen, zuiveringsslib
 b. de hoeveelheden meststoffen die bij de overdracht van een opslagruimte voor meststoffen aan of van een andere intermediair op het moment van overdracht in de desbetreffende opslagruimte aanwezig waren, onderscheiden naar meststoffen als bedoeld in artikel 42, eerste lid, onderdeel a, onder 1° tot en met 4°, alsmede het door de minister ter identificatie verstrekte relatienummer van bij deze overdracht betrokken andere intermediaire onderneming; en  
 
 c. de aan het eind van het kalenderjaar op de onderneming aanwezige hoeveelheid meststoffen onderscheiden naar meststoffen als bedoeld in artikel 42, eerste lid, onderdeel a, onder 1° tot en met 4°.     
-2.  De ondernemer in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt jaarlijks vóór 1 februari aan de minister gegevens uit de administratie over de in het voorgaande kalenderjaar in het zuiveringsslib gemiddeld aanwezige hoeveelheden van de in [bijlage II, onder tabel 2, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen zware metalen.  
+2.  De ondernemer in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt jaarlijks vóór 1 februari aan de minister gegevens uit de administratie over de in het voorgaande kalenderjaar in het zuiveringsslib gemiddeld aanwezige hoeveelheden van de in bijlage II, onder tabel 2, van het besluit opgenomen zware metalen.  
 3. Het tweede lid is niet van toepassing indien de in het tweede lid bedoelde gegevens zijn verstrekt door het laboratorium dat de analyses heeft verricht.
 4. De minister is bevoegd de op grond van het tweede of derde lid verstrekte gegevens door te geven aan gedeputeerde staten van de provincie waarbinnen de desbetreffende onderneming is gevestigd. 
 5.  De intermediair die verschillende partijen vloeibaar zuiveringsslib, waarvoor op grond van artikel 92b een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, verstrekt op elektronische wijze aan de minister het stikstofgehalte, het fosfaatgehalte en het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in artikel 46, eerste lid, bedoelde formulier, of de in artikel 46, tweede lid, genoemde andere gegevensdragers is berekend. 
 
 ### Artikel  49  
 
-1.  Op de opslagruimten voor meststoffen, bedoeld in [artikel 38, tweede lid, onderdeel a, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden de door de minister verstrekte registratienummers ter identificatie van de afzonderlijke opslagruimten aangebracht, op zodanige wijze dat het nummer steeds duidelijk zichtbaar en leesbaar is.   
+1.  Op de opslagruimten voor meststoffen, bedoeld in artikel 38, tweede lid, onderdeel a, van het besluit, worden de door de minister verstrekte registratienummers ter identificatie van de afzonderlijke opslagruimten aangebracht, op zodanige wijze dat het nummer steeds duidelijk zichtbaar en leesbaar is.   
 2.  De opslagruimten voor meststoffen worden in de administratie en bij de verstrekking van gegevens mede aangeduid met het registratienummer van de opslagruimte, bedoeld in het eerste lid.  
 
 ### Hoofdstuk  7  
@@ -663,12 +696,12 @@ c. de aan het eind van het kalenderjaar op de onderneming aanwezige hoeveelheid 
 
 ### Artikel  50  
 
-1.  De aanmelding door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na oprichting van deze onderneming bij de minister.   
-2.  De aanmelding door de ondernemer in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt behandeld, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na oprichting van deze onderneming, overeenkomstig de krachtens artikel 118 gestelde regels.   
-3.  De aanmelding door de ondernemer in het kader van wiens onderneming meststoffen worden verhandeld, bedoeld in [artikel 43, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschiedt binnen 30 dagen na 1 januari 2008 bij de minister. Indien een onderneming als bedoeld in de vorige volzin wordt opgericht na 1 januari 2008, geschiedt de aanmelding uiterlijk 30 dagen na oprichting.  
-4. Indien op een onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt de ondernemer behalve de gegevens, bedoeld in [artikel 43, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), tevens een omschrijving van de in [artikel 16, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) bedoelde behandelingsmethode voor zuiveringsslib. 
-5.  Wijzigingen in de ingevolge [artikel 43 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of het vierde lid geregistreerde gegevens worden door de desbetreffende ondernemer, uiterlijk 30 dagen na de datum van de wijziging onder vermelding van het door de minister ter identificatie van de onderneming verstrekte relatienummer, gemeld aan de minister.  
-6. De [artikelen 43](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en [44 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) zijn niet van toepassing op tuincentra en hoveniers voor zover deze meststoffen afvoeren naar een afnemer, die geen bedrijf of een onderneming in het kader waarvan meststoffen worden verhandeld, voert.
+1.  De aanmelding door de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, bedoeld in artikel 43, eerste lid, van het besluit, geschiedt binnen 30 dagen na oprichting van deze onderneming bij de minister.   
+2.  De aanmelding door de ondernemer in het kader van wiens onderneming van bedrijven afgenomen koemelk wordt behandeld, bedoeld in artikel 43, eerste lid, van het besluit, geschiedt binnen 30 dagen na oprichting van deze onderneming, overeenkomstig de krachtens artikel 118 gestelde regels.   
+3.  De aanmelding door de ondernemer in het kader van wiens onderneming meststoffen worden verhandeld, bedoeld in artikel 43, tweede lid, van het besluit, geschiedt binnen 30 dagen na 1 januari 2008 bij de minister. Indien een onderneming als bedoeld in de vorige volzin wordt opgericht na 1 januari 2008, geschiedt de aanmelding uiterlijk 30 dagen na oprichting.  
+4. Indien op een onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt de ondernemer behalve de gegevens, bedoeld in artikel 43, derde lid, van het besluit, tevens een omschrijving van de in artikel 16, eerste lid, van het besluit bedoelde behandelingsmethode voor zuiveringsslib. 
+5.  Wijzigingen in de ingevolge artikel 43 van het besluit of het vierde lid geregistreerde gegevens worden door de desbetreffende ondernemer, uiterlijk 30 dagen na de datum van de wijziging onder vermelding van het door de minister ter identificatie van de onderneming verstrekte relatienummer, gemeld aan de minister.  
+6. De artikelen 43 en 44 van het besluit zijn niet van toepassing op tuincentra en hoveniers voor zover deze meststoffen afvoeren naar een afnemer, die geen bedrijf of een onderneming in het kader waarvan meststoffen worden verhandeld, voert.
 
 ### Artikel  50a  
 
@@ -676,20 +709,20 @@ De ondernemer, bedoeld in artikel 50, eerste tot en met derde lid, stelt in Nede
 
 ### Artikel  51  
 
-1.  Behalve de gegevens, bedoeld in [artikel 44, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), bevat de administratie van de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), gegevens over: 
+1.  Behalve de gegevens, bedoeld in artikel 44, tweede lid, van het besluit, bevat de administratie van de ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, bedoeld in artikel 43, eerste lid, van het besluit, gegevens over: 
 
 a. de resultaten van de uitgevoerde bemonsteringen en analyses, bedoeld in artikel 98, eerste en tweede lid; en  
 
 b. de op het etiket of het begeleidend document, bedoeld in artikel 99, eerste lid, vermelde droge stofgehalte dan wel het vochtgehalte en het stikstofgehalte en het fosfaatgehalte in de droge stof.    
-2. Behalve de gegevens, bedoeld in [artikel 44, vierde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), bevat de administratie van de ondernemer, bedoeld in [artikel 43, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) voor zover hij compost produceert of anderszins behandelt, gegevens over:
+2. Behalve de gegevens, bedoeld in artikel 44, vierde lid, van het besluit, bevat de administratie van de ondernemer, bedoeld in artikel 43, tweede lid, van het besluit voor zover hij compost produceert of anderszins behandelt, gegevens over:
 
 a. de hoeveelheid geproduceerde, behandelde compost; en  
 
-b. de gehalten aan droge stof, fosfaat en stikstof, het organisch stofgehalte en de hoeveelheden van de in [bijlage II, onder tabel 3, bij het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen zware metalen in de compost.  
-3. De gegevens, bedoeld in [artikel 44, vijfde lid, onderdeel c, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), betreffen de gehalten aan droge stof, fosfaat en stikstof, de pH-waarde, het organisch stofgehalte en de hoeveelheden van de in [bijlage II, onder tabel 2, bij het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen zware metalen in het zuiveringsslib. 
-4.  Behalve de gegevens, bedoeld in [artikel 44, vierde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), bevat de administratie van de ondernemer, bedoeld in [artikel 43, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) voor zover hij verschillende partijen vloeibaar zuiveringsslib waarvoor op grond van artikel 92b een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, de hoeveelheden vloeibaar zuiveringsslib die in iedere afzonderlijke opslagruimte zijn aangevoerd en de hoeveelheden vloeibaar zuiveringsslib die uit die opslagruimte zijn afgevoerd, zodanig dat steeds blijkt welke hoeveelheid vloeibaar zuiveringsslib zich in de opslagruimte bevindt.   
+b. de gehalten aan droge stof, fosfaat en stikstof, het organisch stofgehalte en de hoeveelheden van de in bijlage II, onder tabel 3, bij het besluit opgenomen zware metalen in de compost.  
+3. De gegevens, bedoeld in artikel 44, vijfde lid, onderdeel c, van het besluit, betreffen de gehalten aan droge stof, fosfaat en stikstof, de pH-waarde, het organisch stofgehalte en de hoeveelheden van de in bijlage II, onder tabel 2, bij het besluit opgenomen zware metalen in het zuiveringsslib. 
+4.  Behalve de gegevens, bedoeld in artikel 44, vierde lid, van het besluit, bevat de administratie van de ondernemer, bedoeld in artikel 43, tweede lid, van het besluit voor zover hij verschillende partijen vloeibaar zuiveringsslib waarvoor op grond van artikel 92b een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, de hoeveelheden vloeibaar zuiveringsslib die in iedere afzonderlijke opslagruimte zijn aangevoerd en de hoeveelheden vloeibaar zuiveringsslib die uit die opslagruimte zijn afgevoerd, zodanig dat steeds blijkt welke hoeveelheid vloeibaar zuiveringsslib zich in de opslagruimte bevindt.   
 5.  De gegevens, bedoeld in het vierde lid, worden bijgehouden op het daartoe door de minister verstrekte formulier en worden overgenomen van het op de desbetreffende hoeveelheid betrekking hebbende vervoersbewijs zuiveringsslib en compost en op het ter zake door het laboratorium verstrekte overzicht van de analyseresultaten. Artikel 46, tweede en derde lid, is van overeenkomstige toepassing.  
-6.  Wijzigingen in de gegevens die de administratie ingevolge [artikel 44 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of het eerste tot en met het derde lid bevat, worden binnen 30 dagen na de datum waarop de wijziging zich heeft voorgedaan in de administratie opgenomen.   
+6.  Wijzigingen in de gegevens die de administratie ingevolge artikel 44 van het besluit of het eerste tot en met het derde lid bevat, worden binnen 30 dagen na de datum waarop de wijziging zich heeft voorgedaan in de administratie opgenomen.   
 7.  Wijzigingen in de gegevens, die de administratie ingevolge het vierde lid bevat, worden binnen 24 uur na het tijdstip waarop de wijziging zich heeft voorgedaan op het in het vijfde lid bedoelde formulier verwerkt. 
 
 ### Artikel  51a  
@@ -706,10 +739,10 @@ a. de naam, het adres en het door de minister ter identificatie van het bedrijf 
 b. de hoeveelheid geleverd mengvoeder bestemd voor staldieren of runderen, onderscheiden naar diersoort; en  
 
 c. de hoeveelheid geleverd ruwvoer en enkelvoudig diervoeder.   
-2. De ondernemer in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt jaarlijks vóór 1 februari aan de minister gegevens uit de administratie over de in het voorgaande kalenderjaar in het zuiveringsslib gemiddeld aanwezige hoeveelheden van de in [bijlage II, onder tabel 2, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen zware metalen.
+2. De ondernemer in het kader van wiens onderneming zuiveringsslib wordt geproduceerd of anderszins wordt behandeld, verstrekt jaarlijks vóór 1 februari aan de minister gegevens uit de administratie over de in het voorgaande kalenderjaar in het zuiveringsslib gemiddeld aanwezige hoeveelheden van de in bijlage II, onder tabel 2, van het besluit opgenomen zware metalen.
 3. Het tweede lid is niet van toepassing indien de in het tweede lid bedoelde gegevens zijn verstrekt door het laboratorium dat de analyses heeft verricht.
 4. De minister is bevoegd de op grond van het tweede of derde lid verstrekte gegevens door te geven aan gedeputeerde staten van de provincie waarbinnen de desbetreffende onderneming is gevestigd. 
-5.  De ondernemer, bedoeld in [artikel 43, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) die verschillende partijen vloeibaar zuiveringsslib waarvoor op grond van artikel 92b een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, verstrekt op elektronische wijze aan de minister het stikstofgehalte, het fosfaatgehalte en het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in artikel 51, vijfde lid, bedoelde formulier, of de in artikel 51, vijfde lid in samenhang met artikel 46, tweede lid, genoemde andere gegevensdragers is berekend. 
+5.  De ondernemer, bedoeld in artikel 43, tweede lid, van het besluit die verschillende partijen vloeibaar zuiveringsslib waarvoor op grond van artikel 92b een verschillend analysenummer is verstrekt, in één opslagruimte opslaat, verstrekt op elektronische wijze aan de minister het stikstofgehalte, het fosfaatgehalte en het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in artikel 51, vijfde lid, bedoelde formulier, of de in artikel 51, vijfde lid in samenhang met artikel 46, tweede lid, genoemde andere gegevensdragers is berekend. 
 
 ### Hoofdstuk  8  
 
@@ -784,7 +817,7 @@ b. de mestcode van de desbetreffende vracht dierlijke meststoffen, zoals deze vo
 
 c. de datum waarop het laden van de dierlijke meststoffen aanvangt; en  
 
-d. het kenteken van het motorrijtuig, bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), dat de vracht dierlijke meststoffen vervoert.  
+d. het kenteken van het motorrijtuig, bedoeld in artikel 1, eerste lid, onderdeel c, van de Wegenverkeerswet 1994, dat de vracht dierlijke meststoffen vervoert.  
 3. Indien het vervoer niet dan wel niet overeenkomstig de verstrekte gegevens plaatsvindt, trekt de desbetreffende vervoerder, de in het eerste lid bedoelde mededeling onverwijld elektronisch in. 
 
 ### Artikel  57b  
@@ -792,7 +825,7 @@ d. het kenteken van het motorrijtuig, bedoeld in [artikel 1, eerste lid, onderde
 1.  In geval van vervoer van dierlijke meststoffen buiten Nederland doet de vervoerder ten minste drie werkdagen voordat de vracht dierlijke meststoffen wordt geladen hiervan elektronisch mededeling aan de minister en de Voedsel en Waren Autoriteit.   
 2.  Bij de in het eerste lid bedoelde mededeling worden in ieder geval de volgende gegevens verstrekt: 
 
-a. naam, adres en indien van toepassing de door de Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md), verstrekte KvK-nummers van de betrokken vervoerder en van de leveranciers;  
+a. naam, adres en indien van toepassing de door de Kamer van Koophandel, bedoeld in artikel 2 van de Wet op de Kamer van Koophandel, verstrekte KvK-nummers van de betrokken vervoerder en van de leveranciers;  
 
 b. de mestcode van de desbetreffende vracht dierlijke meststoffen, zoals deze voor de desbetreffende mestsoort is opgenomen in bijlage I;  
 
@@ -823,11 +856,11 @@ c. de postcode en het huisnummer van de laadplaats en de losplaats;
 
 d. het nummer van het op de desbetreffende vracht betrekking hebbende vervoersbewijs dierlijke meststoffen; en  
 
-e. indien het transportmiddel een mestvoertuig betreft, het kenteken van het motorrijtuig, bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).    
+e. indien het transportmiddel een mestvoertuig betreft, het kenteken van het motorrijtuig, bedoeld in artikel 1, eerste lid, onderdeel c, van de Wegenverkeerswet 1994.    
 
 ### Artikel  59  
 
-De [artikelen 48](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en [49 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en en de artikelen 53 tot en met 56 zijn niet van toepassing op het vervoer van dierlijke meststoffen, indien: 
+De artikelen 48 en 49 van het besluit en en de artikelen 53 tot en met 56 zijn niet van toepassing op het vervoer van dierlijke meststoffen, indien: 
 
 a. de hoeveelheid van die meststoffen ingevolge de artikelen 84 tot en met 91a wordt bepaald op basis van de in die artikelen bedoelde stikstofgehalten, onderscheidenlijk fosfaatgehalten;  
 
@@ -854,7 +887,7 @@ a. de afvoer vindt plaats op basis van een schriftelijke overeenkomst tussen de 
 b. de hoeveelheid van de desbetreffende vracht meststoffen wordt bepaald overeenkomstig de aan de ontheffing verbonden voorschriften; en  
 
 c. het op de vracht betrekking hebbende vervoersbewijs dierlijke meststoffen is overeenkomstig artikel 66, vierde lid, onderdeel a, ingevuld.     
-2.  Het eerste lid is niet van toepassing, indien de vracht dierlijke meststoffen op grond van de voorschriften die zijn verbonden aan de aan de leverancier van de desbetreffende vracht verleende ontheffing wordt vervoerd overeenkomstig de [artikelen 48](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en [49 van het Uitvoeringsbesluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en de artikelen 53 tot en met 56.  
+2.  Het eerste lid is niet van toepassing, indien de vracht dierlijke meststoffen op grond van de voorschriften die zijn verbonden aan de aan de leverancier van de desbetreffende vracht verleende ontheffing wordt vervoerd overeenkomstig de artikelen 48 en 49 van het Uitvoeringsbesluit en de artikelen 53 tot en met 56.  
 
 ### Artikel  59b  
 
@@ -890,7 +923,7 @@ e. de grootte van een vracht wordt vooraf aan het vervoer bepaald en is ten hoog
 
 ### Artikel  60  
 
-1.  Als vervoersbewijs als bedoeld in [artikel 53, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) wordt vastgesteld het vervoersbewijs dierlijke meststoffen dat overeenkomt met het model dat is opgenomen in bijlage F, onderdeel A.   
+1.  Als vervoersbewijs als bedoeld in artikel 53, derde lid, van het besluit wordt vastgesteld het vervoersbewijs dierlijke meststoffen dat overeenkomt met het model dat is opgenomen in bijlage F, onderdeel A.   
 2.  Het vervoersbewijs dierlijke meststoffen wordt door de minister verstrekt en is voorzien van een uniek nummer.   
 3.  Indien de dierlijke meststoffen buiten Nederland worden gebracht, wordt ter zake van het vervoer, in afwijking van het tweede lid,: 
 
@@ -972,11 +1005,11 @@ De vervoerder van een vracht dierlijke meststoffen, onderscheidenlijk van meerde
 1.  De op het vervoersbewijs dierlijke meststoffen ingevulde gegevens worden door de vervoerder uiterlijk 30 werkdagen na het vervoer van de vracht dierlijke meststoffen op elektronische wijze bij de minister ingediend.   
 2.  De elektronisch in te dienen gegevens bevatten mede de code van het laboratorium dat de analyse van de dierlijke meststoffen waarop het vervoersbewijs dierlijke meststoffen betrekking heeft, heeft uitgevoerd, en de op basis van deze analyse vastgestelde hoeveelheid dierlijke meststoffen.   
 3.  Indien de hoeveelheid van de dierlijke meststoffen overeenkomstig de artikelen 84 tot en met 91 wordt bepaald op basis van de in die artikelen bedoelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, worden de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens, in afwijking van het eerste lid, uiterlijk tien werkdagen na het vervoer van de vracht of vrachten dierlijke meststoffen bij de minister ingediend.   
-4.  In het in het derde lid bedoelde geval kan de indiening van de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens, in afwijking van[ artikel 53, zesde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), geschieden door middel van het indienen van het origineel van het door de vervoerder ondertekende vervoersbewijs dierlijke meststoffen bij de minister, tenzij het een vervoersbewijs dierlijke meststoffen als bedoeld in artikel 62a betreft.  
+4.  In het in het derde lid bedoelde geval kan de indiening van de op het vervoersbewijs dierlijke meststoffen ingevulde gegevens, in afwijking van artikel 53, zesde lid, van het besluit, geschieden door middel van het indienen van het origineel van het door de vervoerder ondertekende vervoersbewijs dierlijke meststoffen bij de minister, tenzij het een vervoersbewijs dierlijke meststoffen als bedoeld in artikel 62a betreft.  
 
 ### Artikel  65  
 
-In afwijking van [artikel 53, vijfde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), kunnen de leverancier of de afnemer de vervoerder ter zake van de ondertekening van het vervoersbewijs dierlijke meststoffen machtigen onder de volgende voorwaarden: 
+In afwijking van artikel 53, vijfde lid, van het besluit, kunnen de leverancier of de afnemer de vervoerder ter zake van de ondertekening van het vervoersbewijs dierlijke meststoffen machtigen onder de volgende voorwaarden: 
 
 a. de machtiging geschiedt voordat het vervoer van de vracht waarop de machtiging betrekking heeft plaatsvindt;  
 
@@ -990,7 +1023,7 @@ c. een afschrift van het bewijsstuk van de machtiging, bedoeld onder b, wordt ti
 
 a. wordt, in afwijking van artikel 61, eerste en tweede lid, het vervoersbewijs dierlijke meststoffen door de afnemer ingevuld en ondertekend op het tijdstip waarop de kalvergier op de kalvergierbewerkingsinstallatie wordt aangevoerd en wordt het vervoersbewijs dierlijke meststoffen door de afnemer aan de leverancier toegezonden, waarna de leverancier het vervoersbewijs dierlijke meststoffen ondertekent en terugzendt aan de afnemer; en  
 
-b. kan, in afwijking van [artikel 53, vijfde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), de leverancier de afnemer ter zake van de ondertekening van het vervoersbewijs dierlijke meststoffen machtigen, onder de in artikel 65, onderdelen a en b, genoemde voorwaarden.     
+b. kan, in afwijking van artikel 53, vijfde lid, van het besluit, de leverancier de afnemer ter zake van de ondertekening van het vervoersbewijs dierlijke meststoffen machtigen, onder de in artikel 65, onderdelen a en b, genoemde voorwaarden.     
 2.  In het in artikel 59, onderdeel e, bedoelde geval en onder de in dat onderdeel, onder 1°, genoemde voorwaarde: 
 
 a. worden, in afwijking van artikel 61, eerste lid, uiterlijk bij het laden van de kalvergier de onderdelen 1, 3a, met uitzondering van het CMR-nummer, 3b, met uitzondering van het combinatienummer, het netto gewicht en het tijdstip van het lossen, en 5 van het vervoersbewijs dierlijke meststoffen, ingevuld en door de leverancier ondertekend;  
@@ -1018,11 +1051,11 @@ b. wordt het vervoersbewijs door de vervoerder aan de leverancier toegezonden, w
 
 c. wordt bij onderdeel 4 van het vervoersbewijs dierlijke meststoffen de opmerkingscode ‘42’ ingevuld;  
 
-d. kan, in afwijking van [artikel 53, vijfde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), de leverancier de vervoerder ter zake van de ondertekening van het vervoersbewijs dierlijke meststoffen machtigen, onder de in artikel 65, onderdelen a en b, genoemde voorwaarden.   
+d. kan, in afwijking van artikel 53, vijfde lid, van het besluit, de leverancier de vervoerder ter zake van de ondertekening van het vervoersbewijs dierlijke meststoffen machtigen, onder de in artikel 65, onderdelen a en b, genoemde voorwaarden.   
 
 ### Artikel  67  
 
-[Artikel 53 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) is niet van toepassing op het vervoer van: 
+Artikel 53 van het besluit is niet van toepassing op het vervoer van: 
 
 a. dierlijke meststoffen van een tuincentrum of een hovenier naar een afnemer, niet zijnde een landbouwer of een ondernemer;  
 
@@ -1048,16 +1081,16 @@ e. vaste meststoffen die ten hoogste 10% vaste dierlijke meststoffen of 10% cham
 
 ### Artikel  68  
 
-1. Als vervoersbewijs als bedoeld in [artikel 55, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) wordt vastgesteld het vervoersbewijs zuiveringsslib en compost dat overeenkomt met het model dat is opgenomen in bijlage G, onderdeel A.
+1. Als vervoersbewijs als bedoeld in artikel 55, eerste lid, van het besluit wordt vastgesteld het vervoersbewijs zuiveringsslib en compost dat overeenkomt met het model dat is opgenomen in bijlage G, onderdeel A.
 2. Het vervoersbewijs zuiveringsslib en compost wordt door de minister verstrekt en is voorzien van een uniek nummer. 
 
 ### Artikel  69  
 
 1. Uiterlijk bij het laden van meststoffen worden de onderdelen 1, 3a, 3b en 3c, met uitzondering van het gewicht van de vracht, de hoeveelheden fosfaat en stikstof en het drogestofgehalte, van het vervoersbewijs zuiveringsslib en compost ingevuld en wordt het vervoersbewijs door de leverancier ondertekend. In voorkomend geval wordt bij onderdeel 1 het registratienummer van de desbetreffende opslag ingevuld.
-2. Bij onderdeel 3c wordt als analysenummer ingevuld het bij de desbetreffende vracht behorende analysenummer, bedoeld in artikel 92b, derde lid, dan wel indien het een vracht vloeibaar zuiveringsslib betreft die afkomstig is uit een opslagruimte voor vloeibaar zuiveringsslib als bedoeld in [artikel 39, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of in artikel 51, vierde lid, het ter zake van de ontvangst van de overeenkomstig artikel 48, vijfde lid, of 52, vijfde lid, verstrekte gegevens door de minister uitgegeven samenstellingnummer.
+2. Bij onderdeel 3c wordt als analysenummer ingevuld het bij de desbetreffende vracht behorende analysenummer, bedoeld in artikel 92b, derde lid, dan wel indien het een vracht vloeibaar zuiveringsslib betreft die afkomstig is uit een opslagruimte voor vloeibaar zuiveringsslib als bedoeld in artikel 39, tweede lid, van het besluit of in artikel 51, vierde lid, het ter zake van de ontvangst van de overeenkomstig artikel 48, vijfde lid, of 52, vijfde lid, verstrekte gegevens door de minister uitgegeven samenstellingnummer.
 3. Het netto gewicht van de vracht wordt terstond na de weging bij onderdeel 3 van het op de vracht betrekking hebbende vervoersbewijs zuiveringsslib en compost ingevuld.
 4. Uiterlijk bij het lossen van de meststoffen worden de onderdelen 3d en 5 van het op die vracht betrekking hebbende en overeenkomstig het eerste lid ingevulde vervoersbewijs zuiveringsslib en compost ingevuld en wordt het vervoersbewijs door de vervoerder en de afnemer ondertekend. Ingeval de afnemer een intermediair is, wordt bij onderdeel 5, in voorkomend geval, het registratienummer van de desbetreffende opslag ingevuld.
-5. Met de ondertekening verklaren de leverancier en de vervoerder dat de desbetreffende vracht zuiveringsslib of compost voldoet aan [artikel 16](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) onderscheidenlijk [artikel 17 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).
+5. Met de ondertekening verklaren de leverancier en de vervoerder dat de desbetreffende vracht zuiveringsslib of compost voldoet aan artikel 16 onderscheidenlijk artikel 17 van het besluit.
 6. Indien zich ter zake van het vervoer één of meer van de in bijlage G, onderdeel B, vermelde omstandigheden voordoen, worden de hiermee corresponderende codes terstond bij onderdeel 4 van het vervoersbewijs zuiveringsslib en compost ingevuld.
 7. In zoverre in afwijking van de voorgaande leden, kunnen de gegevens op het vervoersbewijs zuiveringsslib en compost worden vermeld door het printen van deze gegevens in een aan de invulvelden gerelateerde volgorde binnen de daarvoor op het vervoersbewijs bestemde vrije ruimte. 
 
@@ -1065,11 +1098,11 @@ e. vaste meststoffen die ten hoogste 10% vaste dierlijke meststoffen of 10% cham
 
 1. De vervoerder van een vracht zuiveringsslib of compost verstrekt uiterlijk tien werkdagen na het vervoer de leverancier en de afnemer een afschrift van het op die vracht betrekking hebbende vervoersbewijs.
 2. De op het vervoersbewijs zuiveringsslib en compost ingevulde gegevens worden door de vervoerder uiterlijk tien werkdagen na het vervoer van de vracht zuiveringsslib of compost op elektronische wijze bij de minister ingediend.
-3. In afwijking van [artikel 55, vierde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), kunnen de leverancier of de afnemer, de vervoerder ter zake van de ondertekening van het vervoersbewijs zuiveringsslib en compost machtigen. Artikel 65 is op deze machtiging van overeenkomstige toepassing. 
+3. In afwijking van artikel 55, vierde lid, van het besluit, kunnen de leverancier of de afnemer, de vervoerder ter zake van de ondertekening van het vervoersbewijs zuiveringsslib en compost machtigen. Artikel 65 is op deze machtiging van overeenkomstige toepassing. 
 
 ### Artikel 69b  
 
-[Artikel 55 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) is niet van toepassing op het vervoer van: 
+Artikel 55 van het besluit is niet van toepassing op het vervoer van: 
 
 a. compost verpakt in eenheden van ten hoogste 25 kilogram; en  
 
@@ -1081,49 +1114,49 @@ b. compost naar een particulier in leveringen tot een maximum van 3000 kilogram 
 
 ### Artikel  70  
 
-Als eindproduct als bedoeld in [artikel 1, eerste lid, onderdeel dd, onder 1°, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), voldoet as waarin maximaal 10% organische stof aanwezig is. 
+Als eindproduct als bedoeld in artikel 1, eerste lid, onderdeel dd, onder 1°, van de wet, voldoet as waarin maximaal 10% organische stof aanwezig is. 
 
 ### Artikel  71  
 
-1.  Het verwerkingspercentage, bedoeld in [artikel 33a, tweede lid, onderdeel b, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), bedraagt voor: 
+1.  Het verwerkingspercentage, bedoeld in artikel 33a, tweede lid, onderdeel b, van de wet, bedraagt voor: 
 
-a. het in [bijlage I bij de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) als gebied II omschreven gebied: 30 procent;  
+a. het in bijlage I bij de wet als gebied II omschreven gebied: 30 procent;  
 
-b. het in [bijlage I bij de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) als gebied I omschreven gebied: 15 procent;  
+b. het in bijlage I bij de wet als gebied I omschreven gebied: 15 procent;  
 
 c. het deel van Nederland dat niet behoort tot de gebieden, bedoeld in de onderdelen a en b: 5 procent.     
 2.  Indien een bedrijf bestaat uit verschillende productielocaties die zijn gelegen in verschillende gebieden als bedoeld in het eerste lid, geldt in een kalenderjaar voor het bedrijf het hoogste verwerkingspercentage.  
 
 ### Artikel  72  
 
-De hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, bedoeld in [artikel 33a, tweede lid, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), bedraagt 100 kilogram. 
+De hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, bedoeld in artikel 33a, tweede lid, onderdeel c, van de wet, bedraagt 100 kilogram. 
 
 ### Artikel  72a  
 
-1.  Als categorieën landbouwers als bedoeld in [artikel 33a, tweede lid, onderdeel b, onder 2°, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) worden aangewezen: 
+1.  Als categorieën landbouwers als bedoeld in artikel 33a, tweede lid, onderdeel b, onder 2°, van de wet worden aangewezen: 
 
 a. landbouwers die een biologisch veehouderijbedrijf als bedoeld in artikel 14 van Verordening (EG) nr. 834/2007 van de Raad van de Europese Unie van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007, L 189) hebben en de dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel a;  
 
 b. landbouwers die op hun bedrijf dierlijke meststoffen afkomstig van paarden, pony’s of pluimvee produceren, en deze dierlijke meststoffen overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b, waarbij de afvoer als bedoeld in artikel 89, eerste lid, tevens wordt beschouwd als het overdragen of laten overdragen aan een afnemer die behoort tot de categorie afnemers, bedoeld in het tweede lid, onderdeel b.     
-2.  Als categorieën afnemers als bedoeld in [artikel 33a, tweede lid, onderdeel b, onder 2°](../../../../wet/meststoffenwet/BWBR0004054/README.md), worden aangewezen: 
+2.  Als categorieën afnemers als bedoeld in artikel 33a, tweede lid, onderdeel b, onder 2°, worden aangewezen: 
 
 a. landbouwers die een bedrijf hebben waar biologisch plantaardige productie, als bedoeld in artikel 12 van Verordening (EG) nr. 834/2007 van de Raad van de Europese Unie van 28 juni 2007 inzake de biologische productie en de etikettering van biologische producten en tot intrekking van Verordening (EEG) nr. 2092/91 (PbEU 2007, L 189) plaatsvindt;  
 
 b. ondernemers die champignonsubstraat bereiden.     
-3.  Een afnemer als bedoeld in het tweede lid, onderdeel b, die in een kalenderjaar ingevolge [artikel 33a, tweede lid, onderdeel b, onder 2°](../../../../wet/meststoffenwet/BWBR0004054/README.md), een hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, ontvangt, gebruikt in het desbetreffende kalenderjaar die hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, voor de bereiding van champignonsubstraat.  
+3.  Een afnemer als bedoeld in het tweede lid, onderdeel b, die in een kalenderjaar ingevolge artikel 33a, tweede lid, onderdeel b, onder 2°, een hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, ontvangt, gebruikt in het desbetreffende kalenderjaar die hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, voor de bereiding van champignonsubstraat.  
 
 ### Artikel  72b  
 
-1.  De afstand, bedoeld in [artikel 33a, tweede lid, onderdeel b, onder 3°, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), tussen: 
+1.  De afstand, bedoeld in artikel 33a, tweede lid, onderdeel b, onder 3°, van de wet, tussen: 
 
 a. het in België gelegen perceel en de Nederlandse grens bedraagt ten hoogste 25 kilometer;  
 
 b. het in Duitsland gelegen perceel en de Nederlandse grens bedraagt ten hoogste 20 kilometer.     
-2.  De voorwaarden, bedoeld in [artikel 33a, tweede lid, onderdeel b, onder 3°, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), zijn de voorwaarden, genoemd in artikel 87, eerste lid, onderdelen a en d tot en met f.  
+2.  De voorwaarden, bedoeld in artikel 33a, tweede lid, onderdeel b, onder 3°, van de wet, zijn de voorwaarden, genoemd in artikel 87, eerste lid, onderdelen a en d tot en met f.  
 
 ### Artikel  72c  
 
-Als voorwaarden, bedoeld in [artikel 33a, tweede lid, onderdeel e, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) gelden dat: 
+Als voorwaarden, bedoeld in artikel 33a, tweede lid, onderdeel e, van de wet gelden dat: 
 
 a. het bedrijfsoverschot van de landbouwer in het desbetreffende kalenderjaar maximaal 25% van de totale mestproductie van zijn bedrijf in dat jaar bedraagt, en  
 
@@ -1131,22 +1164,22 @@ b. de overgedragen dierlijke meststoffen direct en zonder tussenopslag op landbo
 
 ### Artikel  72d  
 
-Als soort dierlijke meststoffen als bedoeld in [artikel 58 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), is champost aangewezen. 
+Als soort dierlijke meststoffen als bedoeld in artikel 58 van het besluit, is champost aangewezen. 
 
 ### Artikel  72e  
 
-De periode, bedoeld in [artikel 57 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), bedraagt het kalenderjaar waarvoor de mestverwerkingsovereenkomsten zijn gesloten. 
+De periode, bedoeld in artikel 57 van het besluit, bedraagt het kalenderjaar waarvoor de mestverwerkingsovereenkomsten zijn gesloten. 
 
 ### Artikel  72f  
 
-1.  In een mestverwerkingsovereenkomst, als bedoeld in [artikel 1, eerste lid, onderdeel ee, onder 2°, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), en in een overeenkomst, als bedoeld in [artikel 33a, derde lid, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), zijn opgenomen de door de minister ter identificatie van de partijen bij de overeenkomst verstrekte relatienummers.   
-2.  De gegevens die in het kader van [artikel 33b, vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) worden gemeld zijn: 
+1.  In een mestverwerkingsovereenkomst, als bedoeld in artikel 1, eerste lid, onderdeel ee, onder 2°, van de wet, en in een overeenkomst, als bedoeld in artikel 33a, derde lid, onderdeel c, van de wet, zijn opgenomen de door de minister ter identificatie van de partijen bij de overeenkomst verstrekte relatienummers.   
+2.  De gegevens die in het kader van artikel 33b, vijfde lid, van de wet worden gemeld zijn: 
 
 a. het kalenderjaar waarop de overeenkomst ziet;  
 
 b. de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor de overeenkomst is gesloten;  
 
-c. de door de minister ter identificatie van de partijen bij de overeenkomst verstrekte relatienummers, waarbij per relatienummer is aangegeven het soort partij, bedoeld in [artikel 1, eerste lid, onderdeel ee, onder 2°, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) dan wel de soort landbouwer, bedoeld in [artikel 33a, derde lid, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md).    
+c. de door de minister ter identificatie van de partijen bij de overeenkomst verstrekte relatienummers, waarbij per relatienummer is aangegeven het soort partij, bedoeld in artikel 1, eerste lid, onderdeel ee, onder 2°, van de wet dan wel de soort landbouwer, bedoeld in artikel 33a, derde lid, onderdeel c, van de wet.    
 
 ### Hoofdstuk  9  
 
@@ -1158,24 +1191,24 @@ c. de door de minister ter identificatie van de partijen bij de overeenkomst ver
 
 ### Artikel  73  
 
-1. Als forfaitaire productienormen als bedoeld in [artikel 66, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) worden voor de onderscheiden diersoorten en diercategorieën de normen vastgesteld, die zijn vermeld in bijlage D, tabel I, kolommen B en C.  
-2.  [Artikel 1, onderdelen b, c, f en j, van de Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk](../../../../pbo/zuivelverordening/2005/grondslag/uitbetaling/boerderijmelk/BWBR0017209/README.md), zijn van overeenkomstige toepassing in deze paragraaf. 
+1. Als forfaitaire productienormen als bedoeld in artikel 66, eerste lid, van het besluit worden voor de onderscheiden diersoorten en diercategorieën de normen vastgesteld, die zijn vermeld in bijlage D, tabel I, kolommen B en C.  
+2.  Artikel 1, onderdelen b, c, f en j, van de Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk, zijn van overeenkomstige toepassing in deze paragraaf. 
 
 ### Artikel  74  
 
-1.  Als forfaitaire productienormen per melkkoe als bedoeld in [artikel 66, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) worden voor de naar de gemiddelde melkproductie en naar het gemiddelde ureumgehalte in de geproduceerde melk onderscheiden melkkoeien vastgesteld de normen die zijn vermeld in bijlage D, tabel II.   
-2.  De gemiddelde melkproductie per melkkoe, bedoeld in [artikel 66, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), wordt bepaald door de hoeveelheid in het desbetreffende kalenderjaar op het bedrijf geproduceerde koemelk te delen door het gemiddeld aantal in het desbetreffende kalenderjaar op het bedrijf gehouden melkkoeien.   
-3.  De totale hoeveelheid in een kalenderjaar op het bedrijf geproduceerde koemelk en het gemiddelde ureumgehalte, bedoeld in [artikel 66, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden vastgesteld overeenkomstig de artikelen 75a tot en met 75d.   
-4.  In afwijking van het tweede en het derde lid zijn de gemiddelde melkproductie en het gemiddelde ureumgehalte van koemelk van melkkoeien van landbouwers die op het eigen bedrijf geproduceerde melk zelf verwerken tot eindproducten en landbouwers die minder dan 50 procent van de geproduceerde melk leveren aan een koper als bedoeld in de [Regeling superheffing en melkpremie 2004](../../../../ministeriele-regeling/regeling/superheffing/BWBR0016539/README.md), 7500 kilogram, onderscheidenlijk 26 milligram per 100 gram.   
+1.  Als forfaitaire productienormen per melkkoe als bedoeld in artikel 66, tweede lid, van het besluit worden voor de naar de gemiddelde melkproductie en naar het gemiddelde ureumgehalte in de geproduceerde melk onderscheiden melkkoeien vastgesteld de normen die zijn vermeld in bijlage D, tabel II.   
+2.  De gemiddelde melkproductie per melkkoe, bedoeld in artikel 66, tweede lid, van het besluit, wordt bepaald door de hoeveelheid in het desbetreffende kalenderjaar op het bedrijf geproduceerde koemelk te delen door het gemiddeld aantal in het desbetreffende kalenderjaar op het bedrijf gehouden melkkoeien.   
+3.  De totale hoeveelheid in een kalenderjaar op het bedrijf geproduceerde koemelk en het gemiddelde ureumgehalte, bedoeld in artikel 66, tweede lid, van het besluit, worden vastgesteld overeenkomstig de artikelen 75a tot en met 75d.   
+4.  In afwijking van het tweede en het derde lid zijn de gemiddelde melkproductie en het gemiddelde ureumgehalte van koemelk van melkkoeien van landbouwers die op het eigen bedrijf geproduceerde melk zelf verwerken tot eindproducten en landbouwers die minder dan 50 procent van de geproduceerde melk leveren aan een koper als bedoeld in de Regeling superheffing en melkpremie 2004, 7500 kilogram, onderscheidenlijk 26 milligram per 100 gram.   
 5.  In afwijking van het derde lid is het gemiddelde ureumgehalte in koemelk van melkkoeien van bedrijven die meer dan 50 procent van de geproduceerde koemelk leveren aan ondernemingen waar maximaal 500.000 kilogram koemelk per jaar wordt verwerkt 26 milligram per 100 gram.  
 
 ### Artikel  74a  
 
-Voor zover het graasdieren betreft die worden gehouden op een bedrijf dat is geregistreerd overeenkomstig [artikel 2, eerste lid, van de Landbouwkwaliteitsregeling 2007](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/2007/BWBR0022543/README.md) en die behoren tot de in [Bijlage I](../../../../ministeriele-regeling/landbouwkwaliteitsregeling/2007/BWBR0022543/README.md) bij die regeling onderscheiden categorieën dieren, zijn de in [artikel 66, eerste en tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) bedoelde forfaitaire productienormen, uitgedrukt in kilogrammen stikstof per dier per jaar, in afwijking van de artikelen 73 en 74, de normen die bij de desbetreffende categorie dieren in die bijlage zijn vermeld. 
+Voor zover het graasdieren betreft die worden gehouden op een bedrijf dat is geregistreerd overeenkomstig artikel 2, eerste lid, van de Landbouwkwaliteitsregeling 2007 en die behoren tot de in Bijlage I bij die regeling onderscheiden categorieën dieren, zijn de in artikel 66, eerste en tweede lid, van het besluit bedoelde forfaitaire productienormen, uitgedrukt in kilogrammen stikstof per dier per jaar, in afwijking van de artikelen 73 en 74, de normen die bij de desbetreffende categorie dieren in die bijlage zijn vermeld. 
 
 ### Artikel  75  
 
-De [artikelen 44, eerste, derde en vierde lid](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), en[ 45, eerste en vijfde lid, van het besluit ](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md)zijn niet van toepassing op ondernemers in het kader van wier onderneming maximaal 500.000 kilogram afgenomen koemelk wordt verwerkt, voor zover de gegevens betrekking hebben op het ureumgehalte van de afgenomen koemelk. 
+De artikelen 44, eerste, derde en vierde lid, en 45, eerste en vijfde lid, van het besluit zijn niet van toepassing op ondernemers in het kader van wier onderneming maximaal 500.000 kilogram afgenomen koemelk wordt verwerkt, voor zover de gegevens betrekking hebben op het ureumgehalte van de afgenomen koemelk. 
 
 ### Artikel  75a  
 
@@ -1197,7 +1230,7 @@ De minister stelt op basis van de berekening, bedoeld in artikel 75b, tweede lid
 
 ### Artikel  75e  
 
-De minister draagt er zorg voor dat aan de landbouwer die 50 procent of meer van de geproduceerde koemelk levert aan een koper als bedoeld in de [Regeling superheffing 2008 en melkpremie 2004](../../../../ministeriele-regeling/regeling/superheffing/BWBR0016539/README.md), jaarlijks vóór 1 februari gegevens over de totale hoeveelheid in het voorafgaande kalenderjaar op het bedrijf geproduceerde koemelk en het gemiddelde ureumgehalte van deze hoeveelheid koemelk worden verstrekt 
+De minister draagt er zorg voor dat aan de landbouwer die 50 procent of meer van de geproduceerde koemelk levert aan een koper als bedoeld in de Regeling superheffing 2008 en melkpremie 2004, jaarlijks vóór 1 februari gegevens over de totale hoeveelheid in het voorafgaande kalenderjaar op het bedrijf geproduceerde koemelk en het gemiddelde ureumgehalte van deze hoeveelheid koemelk worden verstrekt 
 
 ### §  2  
 
@@ -1205,13 +1238,13 @@ De minister draagt er zorg voor dat aan de landbouwer die 50 procent of meer van
 
 ### Artikel  76  
 
-1.  Het gewicht van de op een bedrijf of intermediaire onderneming aangevoerde hoeveelheid dierlijke meststoffen, de van een bedrijf of intermediaire onderneming afgevoerde hoeveelheid dierlijke meststoffen en de binnen een intermediaire onderneming vervoerde hoeveelheid dierlijke meststoffen, bedoeld in [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), wordt door de vervoerder van de desbetreffende meststoffen bepaald door middel van weging met behulp van een weegwerktuig.   
+1.  Het gewicht van de op een bedrijf of intermediaire onderneming aangevoerde hoeveelheid dierlijke meststoffen, de van een bedrijf of intermediaire onderneming afgevoerde hoeveelheid dierlijke meststoffen en de binnen een intermediaire onderneming vervoerde hoeveelheid dierlijke meststoffen, bedoeld in artikel 68, eerste lid, van het besluit, wordt door de vervoerder van de desbetreffende meststoffen bepaald door middel van weging met behulp van een weegwerktuig.   
 2.  De bepaling van het gewicht geschiedt op zodanige wijze dat daarbij het gewicht van het transportmiddel buiten beschouwing blijft. Hiertoe wordt per vracht dierlijke meststoffen het gewicht van het geladen transportmiddel verminderd met het gewicht van het ledige transportmiddel zoals dat direct voorafgaande aan of na het vervoer is bepaald. Indien een vracht dierlijke meststoffen wordt afgevoerd of aangevoerd in een container, kan het gewicht van die meststoffen worden bepaald door het gewicht van de gevulde container te verminderen met het gewicht van de lege container dat eenmalig is bepaald en dat duidelijk zichtbaar en niet verwijderbaar op de container is aangebracht.  
 3.  Het gewicht van een hoeveelheid dierlijke meststoffen die ingevolge de artikelen 84 tot en met 91a wordt bepaald op basis van de in die artikelen bedoelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, wordt in afwijking van het eerste lid bepaald op basis van het volume en het soortelijk gewicht van de meststoffen.  
 
 ### Artikel  77  
 
-1.  Het stikstofgehalte en het fosfaatgehalte in de op een bedrijf of intermediaire onderneming aangevoerde hoeveelheid dierlijke meststoffen, de van een bedrijf of intermediaire onderneming afgevoerde hoeveelheid dierlijke meststoffen en de binnen een intermediaire onderneming vervoerde hoeveelheid dierlijke meststoffen, bedoeld in [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden vastgesteld door middel van analyse van een uit de desbetreffende meststoffen genomen monster.   
+1.  Het stikstofgehalte en het fosfaatgehalte in de op een bedrijf of intermediaire onderneming aangevoerde hoeveelheid dierlijke meststoffen, de van een bedrijf of intermediaire onderneming afgevoerde hoeveelheid dierlijke meststoffen en de binnen een intermediaire onderneming vervoerde hoeveelheid dierlijke meststoffen, bedoeld in artikel 68, eerste lid, van het besluit, worden vastgesteld door middel van analyse van een uit de desbetreffende meststoffen genomen monster.   
 2.  Indien een vervoerder binnen een periode van ten hoogste zeven dagen van één leverancier meerdere vrachten dierlijke meststoffen afvoert naar één afnemer kan het stikstofgehalte en het fosfaatgehalte van deze vrachten worden vastgesteld door middel van analyse van een mengmonster dat op verzoek van de vervoerder door het betrokken laboratorium uit de uit deze vrachten genomen monsters is samengesteld, onder de volgende voorwaarden: 
 
 a. het mengmonster bestaat uit ten hoogste twaalf monsters; en  
@@ -1242,13 +1275,13 @@ b. het verschil in gewicht tussen de grootste en de kleinste vracht bedraagt bij
 2.  Indien bij ontvangst van een toegezonden monster wordt geconstateerd dat de monsterverpakking is beschadigd, rapporteert het laboratorium aan de meldkamer van de Algemene Inspectiedienst de gegevens ter identificatie van de monsterverpakking en het nummer van het op de desbetreffende vracht betrekking hebbende vervoersbewijs dierlijke meststoffen. Het laboratorium volgt de door de Algemene Inspectiedienst ter zake verstrekte aanwijzingen op.   
 3.  Het laboratorium voldoet aan de overigens in het in artikel 80, eerste lid, bedoelde accreditatieprogramma gestelde eisen.   
 4.  Uiterlijk tien werkdagen na verzending van de analyseresultaten door het laboratorium, kan door de betrokkenen heranalyse worden aangevraagd. Er vindt ten hoogste éénmaal een heranalyse plaats die wordt uitgevoerd door het laboratorium dat de analyse heeft uitgevoerd.   
-5.  Indien een laboratorium het fosfaatgehalte of stikstofgehalte van een monster niet kan vaststellen, omdat het monster na ontvangst door het laboratorium in het ongerede is geraakt, wordt de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste en vijfde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) bepaald op basis van de in bijlage I voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.  
+5.  Indien een laboratorium het fosfaatgehalte of stikstofgehalte van een monster niet kan vaststellen, omdat het monster na ontvangst door het laboratorium in het ongerede is geraakt, wordt de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste en vijfde lid, van het besluit bepaald op basis van de in bijlage I voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.  
 
 ### Artikel  82  
 
 1.  In het in artikel 59, onderdeel d, bedoelde geval: 
 
-a. wordt het gewicht van de hoeveelheid kalvergier in afwijking van artikel 76, eerste lid, door de afnemer bepaald met behulp van een in de kalvergierbewerkingsinstallatie aangebracht apparaat ter bepaling van het volume dat voldoet aan de bij of krachtens de [Metrologiewet](../../../../wet/metrologiewet/BWBR0019517/README.md) gestelde regels, waarbij één kubieke meter kalvergier overeenkomt met 1000 kilogram; en  
+a. wordt het gewicht van de hoeveelheid kalvergier in afwijking van artikel 76, eerste lid, door de afnemer bepaald met behulp van een in de kalvergierbewerkingsinstallatie aangebracht apparaat ter bepaling van het volume dat voldoet aan de bij of krachtens de Metrologiewet gestelde regels, waarbij één kubieke meter kalvergier overeenkomt met 1000 kilogram; en  
 
 b. geschieden de bemonstering en de verpakking van de genomen monsters, in zoverre in afwijking van artikel 77, derde lid, in samenhang met artikel 78, onderscheidenlijk 79 door de afnemer met behulp van op de kalvergierbewerkingsinstallatie aangebracht automatische bemonsteringsapparatuur waarmee uit het totale van één leverancier aangevoerde volume kalvergier een representatief monster wordt genomen.     
 2.  In het in artikel 59, onderdeel e, bedoelde geval: 
@@ -1258,11 +1291,11 @@ a. wordt het gewicht van de hoeveelheid kalvergier in afwijking van artikel 76, 
 b. geschieden de bemonstering en de verpakking van de genomen monsters, in afwijking van artikel 77, derde lid, in samenhang met artikel 78, onderscheidenlijk 79 door de afnemer met behulp van op de kalvergierbewerkingsinstallatie aangebrachte automatische bemonsteringsapparatuur en automatische verpakkingsapparatuur als bedoeld in artikel 78, eerste lid, onderscheidenlijk artikel 79, eerste lid.     
 3.  In het artikel 59b, onderdeel b, bedoelde geval: 
 
-a. kan het gewicht van de hoeveelheid dierlijke mest, bedoeld in artikel 76, eerste lid, door de intermediair ook worden bepaald met behulp van een in de pijpleiding aangebracht apparaat ter bepaling van het volume dat voldoet aan de bij of krachtens de [Metrologiewet](../../../../wet/metrologiewet/BWBR0019517/README.md) gestelde regels, waarbij het gemeten volume naar gewicht omgerekend wordt aan de hand van de dichtheid, en  
+a. kan het gewicht van de hoeveelheid dierlijke mest, bedoeld in artikel 76, eerste lid, door de intermediair ook worden bepaald met behulp van een in de pijpleiding aangebracht apparaat ter bepaling van het volume dat voldoet aan de bij of krachtens de Metrologiewet gestelde regels, waarbij het gemeten volume naar gewicht omgerekend wordt aan de hand van de dichtheid, en  
 
 b. geschieden de bemonstering en de verpakking van de genomen monsters, in afwijking van artikel 77, derde lid, in samenhang met artikel 78, onderscheidenlijk 79, door de vervoerder, met behulp van op de pijpleiding aangebrachte automatische bemonsteringsapparatuur, waarmee uit het totale van één leverancier aangevoerde volume drijfmest van maximaal 36 ton dat wordt vervoerd door de pijpleiding, een representatief monster wordt genomen.    
 4.  In het in artikel 59a, eerste lid, bedoelde geval, wordt het stikstofgehalte en het fosfaatgehalte van de desbetreffende vracht dierlijke meststoffen, in afwijking van artikel 77, bepaald door de leverancier overeenkomstig de voorschriften die zijn verbonden aan de aan hem verleende ontheffing van de artikelen 76, eerste lid, en 77.  
-5.  [Artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) in samenhang met de artikelen 76 en 77, is niet van toepassing op de van een tuincentrum of een hovenier afgevoerde hoeveelheid dierlijke meststoffen naar een afnemer, niet zijnde een landbouwer of een ondernemer.  
+5.  Artikel 68, eerste lid, van het besluit in samenhang met de artikelen 76 en 77, is niet van toepassing op de van een tuincentrum of een hovenier afgevoerde hoeveelheid dierlijke meststoffen naar een afnemer, niet zijnde een landbouwer of een ondernemer.  
 
 ### Artikel  83  
 
@@ -1270,9 +1303,9 @@ Indien een vracht bestaat uit mestkorrels, geldt dat het gewicht, onderscheidenl
 
 ### Artikel  84  
 
-1.  Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een ander bedrijf, kunnen de in een kalenderjaar van het bedrijf afgevoerde dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
+1.  Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een ander bedrijf, kunnen de in een kalenderjaar van het bedrijf afgevoerde dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
 
-a. het product van enerzijds het aantal hectaren landbouwgrond dat in dat kalenderjaar tot het bedrijf waarvan de meststoffen afkomstig zijn behoort en anderzijds het per hectare van die landbouwgrond bij of krachtens [artikel 11, eerste tot en met vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), in de vorm van dierlijke meststoffen vastgestelde deel van de fosfaatgebruiksnorm, bedraagt in de jaren 2011, 2012 en 2013 ten minste 80 procent en in de jaren 2014 en volgende ten minste 75 procent van de totale hoeveelheid op dat bedrijf in dat kalenderjaar geproduceerde dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat;  
+a. het product van enerzijds het aantal hectaren landbouwgrond dat in dat kalenderjaar tot het bedrijf waarvan de meststoffen afkomstig zijn behoort en anderzijds het per hectare van die landbouwgrond bij of krachtens artikel 11, eerste tot en met vijfde lid, van de wet, in de vorm van dierlijke meststoffen vastgestelde deel van de fosfaatgebruiksnorm, bedraagt in de jaren 2011, 2012 en 2013 ten minste 80 procent en in de jaren 2014 en volgende ten minste 75 procent van de totale hoeveelheid op dat bedrijf in dat kalenderjaar geproduceerde dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat;  
 
 b. de van het bedrijf afgevoerde dierlijke meststoffen worden rechtstreeks, zonder tussenopslag, vervoerd; en  
 
@@ -1281,9 +1314,9 @@ c. de afstand tussen de productielocatie van het bedrijf waarvan de dierlijke me
 
 ### Artikel  85  
 
-Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een perceel dat voor de duur van ten hoogste één jaar in gebruik is gegeven aan een ander bedrijf, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
+Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een perceel dat voor de duur van ten hoogste één jaar in gebruik is gegeven aan een ander bedrijf, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
 
-a. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar de uit gebruik gegeven percelen wordt afgevoerd bedraagt, uitgedrukt in kilogrammen fosfaat, ten hoogste het product van enerzijds het aantal hectaren landbouwgrond dat in dat kalenderjaar uit gebruik is gegeven en anderzijds het per hectare van die landbouwgrond bij of krachtens [artikel 11, eerste tot en met vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), in de vorm van dierlijke meststoffen vastgestelde deel van de fosfaatgebruiksnorm;  
+a. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar de uit gebruik gegeven percelen wordt afgevoerd bedraagt, uitgedrukt in kilogrammen fosfaat, ten hoogste het product van enerzijds het aantal hectaren landbouwgrond dat in dat kalenderjaar uit gebruik is gegeven en anderzijds het per hectare van die landbouwgrond bij of krachtens artikel 11, eerste tot en met vijfde lid, van de wet, in de vorm van dierlijke meststoffen vastgestelde deel van de fosfaatgebruiksnorm;  
 
 b. de afstand tussen de productielocatie van het bedrijf waarvan de dierlijke meststoffen afkomstig zijn en het desbetreffende perceel bedraagt hemelsbreed ten hoogste tien kilometer;  
 
@@ -1295,18 +1328,18 @@ e. de overeenkomst tot ingebruikgeving is schriftelijk aangegaan.
 
 ### Artikel  86  
 
-1. Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een afnemer, die geen bedrijf of onderneming voert, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
+1. Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een afnemer, die geen bedrijf of onderneming voert, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
 
 a. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar afnemers die geen bedrijf of onderneming voeren wordt afgevoerd bedraagt ten hoogste 250 kilogram fosfaat; en  
 
 b. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar een afnemer die geen bedrijf of onderneming voert wordt afgevoerd bedraagt ten hoogste 20 kilogram fosfaat per afnemer.    
-2.  Indien vaste dierlijke meststoffen van een intermediaire onderneming worden afgevoerd naar een afnemer die geen bedrijf of onderneming voert, kan de desbetreffende hoeveelheid meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de voorwaarde dat de totale hoeveelheid vaste dierlijke meststoffen die in een kalenderjaar naar een dergelijke afnemer wordt afgevoerd ten hoogste 20 kilogram fosfaat per afnemer bedraagt. 
+2.  Indien vaste dierlijke meststoffen van een intermediaire onderneming worden afgevoerd naar een afnemer die geen bedrijf of onderneming voert, kan de desbetreffende hoeveelheid meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de voorwaarde dat de totale hoeveelheid vaste dierlijke meststoffen die in een kalenderjaar naar een dergelijke afnemer wordt afgevoerd ten hoogste 20 kilogram fosfaat per afnemer bedraagt. 
 
 ### Artikel  87  
 
-1.  Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een perceel landbouwgrond dat, al dan niet gedeeltelijk, is gelegen in Duitsland of in België, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
+1.  Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een perceel landbouwgrond dat, al dan niet gedeeltelijk, is gelegen in Duitsland of in België, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
 
-a. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar de in het eerste lid bedoelde percelen wordt afgevoerd bedraagt, uitgedrukt in kilogrammen fosfaat, ten hoogste het product van het aantal hectaren in Duitsland of in België gelegen landbouwgrond en het indien de landbouwgrond in Nederland zou zijn gelegen per hectare van die landbouwgrond bij of krachtens [artikel 11, eerste tot en met vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), in de vorm van dierlijke meststoffen vastgestelde deel van de fosfaatgebruiksnorm;  
+a. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar de in het eerste lid bedoelde percelen wordt afgevoerd bedraagt, uitgedrukt in kilogrammen fosfaat, ten hoogste het product van het aantal hectaren in Duitsland of in België gelegen landbouwgrond en het indien de landbouwgrond in Nederland zou zijn gelegen per hectare van die landbouwgrond bij of krachtens artikel 11, eerste tot en met vijfde lid, van de wet, in de vorm van dierlijke meststoffen vastgestelde deel van de fosfaatgebruiksnorm;  
 
 b. de afstand tussen het in België gelegen perceel en de Nederlandse grens bedraagt ten hoogste 25 kilometer;  
 
@@ -1317,9 +1350,9 @@ d. het perceel is in het kader van een normale bedrijfsvoering daadwerkelijk bij
 e. indien het perceel in België is gelegen, behoort dit perceel ingevolge eigendom of ingevolge een in België geregistreerde pachtovereenkomst toe aan het bedrijf en is dit perceel, voor wat betreft het Vlaamse gedeelte van België, geregistreerd bij de Vlaamse Mestbank ingevolge artikel 30 van het Besluit van de Vlaamse regering van 20 december 1995 tot uitvoering van sommige artikelen van het decreet van 23 januari 1991 inzake de bescherming van het leefmilieu tegen de verontreiniging door meststoffen; en  
 
 f. indien het perceel in Duitsland is gelegen, behoort dit perceel ingevolge eigendom of ingevolge een in Duitsland geregistreerde pachtovereenkomst toe aan het bedrijf.     
-2.  Indien dierlijke meststoffen worden afgevoerd van een bedrijf dat, al dan niet gedeeltelijk, is gelegen in Duitsland of België, naar een perceel landbouwgrond dat is gelegen in Nederland, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
+2.  Indien dierlijke meststoffen worden afgevoerd van een bedrijf dat, al dan niet gedeeltelijk, is gelegen in Duitsland of België, naar een perceel landbouwgrond dat is gelegen in Nederland, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
 
-a. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar de in de aanhef van dit lid bedoelde percelen wordt afgevoerd bedraagt, uitgedrukt in kilogrammen fosfaat, ten hoogste het product van het aantal hectaren van die percelen en het bij of krachtens [artikel 11, eerste tot en met vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), in de vorm van dierlijke meststoffen vastgestelde deel van de fosfaatgebruiksnorm;  
+a. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar de in de aanhef van dit lid bedoelde percelen wordt afgevoerd bedraagt, uitgedrukt in kilogrammen fosfaat, ten hoogste het product van het aantal hectaren van die percelen en het bij of krachtens artikel 11, eerste tot en met vijfde lid, van de wet, in de vorm van dierlijke meststoffen vastgestelde deel van de fosfaatgebruiksnorm;  
 
 b. de afstand tussen het in Nederland gelegen perceel en de grens met België bedraagt ten hoogste 25 kilometer;  
 
@@ -1331,20 +1364,20 @@ e. het perceel behoort blijkens registratie bij de minister toe aan het bedrijf 
 
 ### Artikel  88  
 
-Indien dierlijke meststoffen afkomstig van konijnen, met een drogestofgehalte van ten hoogste 2,5 procent naar of van een bedrijf of onderneming worden aangevoerd, onderscheidenlijk worden afgevoerd, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten. 
+Indien dierlijke meststoffen afkomstig van konijnen, met een drogestofgehalte van ten hoogste 2,5 procent naar of van een bedrijf of onderneming worden aangevoerd, onderscheidenlijk worden afgevoerd, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten. 
 
 ### Artikel  89  
 
-1. Indien dierlijke meststoffen afkomstig van paarden of pony's van een bedrijf worden afgevoerd naar een intermediaire onderneming waar tussenopslag van maximaal 48 uur van deze meststoffen plaatsvindt voordat deze meststoffen worden afgevoerd naar een onderneming waar deze meststoffen worden gebruikt voor de productie van substraat voor de teelt van champignons of van een grondstof voor de productie van dat substraat, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
-2. Indien de in het eerste lid bedoelde dierlijke meststoffen die in tussenopslag hebben gelegen van de intermediaire onderneming worden afgevoerd naar een onderneming waar deze meststoffen worden gebruikt voor de productie van het in het eerst lid bedoelde substraat of grondstof, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten. 
-3.  Indien dierlijke meststoffen afkomstig van paarden of pony's van een bedrijf worden afgevoerd naar een onderneming waar deze meststoffen worden gebruikt voor de productie van substraat voor de teelt van champignons of van een grondstof voor de productie van substraat, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.   
-4.  Indien het in het derde lid bedoelde substraat van een onderneming of een bedrijf wordt afgevoerd naar een bedrijf waar dit substraat wordt gebruikt voor de teelt van champignons, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.   
-5.  Indien het in het vierde lid bedoelde substraat in de vorm van champost van een bedrijf wordt afgevoerd naar een ander bedrijf, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.   
-6.  Indien het in het vierde lid bedoelde substraat in de vorm van champost van een bedrijf wordt overgebracht uit Nederland, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.  
+1. Indien dierlijke meststoffen afkomstig van paarden of pony's van een bedrijf worden afgevoerd naar een intermediaire onderneming waar tussenopslag van maximaal 48 uur van deze meststoffen plaatsvindt voordat deze meststoffen worden afgevoerd naar een onderneming waar deze meststoffen worden gebruikt voor de productie van substraat voor de teelt van champignons of van een grondstof voor de productie van dat substraat, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.
+2. Indien de in het eerste lid bedoelde dierlijke meststoffen die in tussenopslag hebben gelegen van de intermediaire onderneming worden afgevoerd naar een onderneming waar deze meststoffen worden gebruikt voor de productie van het in het eerst lid bedoelde substraat of grondstof, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten. 
+3.  Indien dierlijke meststoffen afkomstig van paarden of pony's van een bedrijf worden afgevoerd naar een onderneming waar deze meststoffen worden gebruikt voor de productie van substraat voor de teelt van champignons of van een grondstof voor de productie van substraat, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.   
+4.  Indien het in het derde lid bedoelde substraat van een onderneming of een bedrijf wordt afgevoerd naar een bedrijf waar dit substraat wordt gebruikt voor de teelt van champignons, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.   
+5.  Indien het in het vierde lid bedoelde substraat in de vorm van champost van een bedrijf wordt afgevoerd naar een ander bedrijf, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.   
+6.  Indien het in het vierde lid bedoelde substraat in de vorm van champost van een bedrijf wordt overgebracht uit Nederland, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel II, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten.  
 
 ### Artikel  89a  
 
-Indien dierlijke meststoffen afkomstig van paarden of pony’s van een bedrijf in de gemeente Vlieland worden afgevoerd naar een ander bedrijf in de gemeente Vlieland, kan de desbetreffende hoeveelheid dierlijke meststoffen, in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
+Indien dierlijke meststoffen afkomstig van paarden of pony’s van een bedrijf in de gemeente Vlieland worden afgevoerd naar een ander bedrijf in de gemeente Vlieland, kan de desbetreffende hoeveelheid dierlijke meststoffen, in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
 
 a. de hoeveelheid dierlijke meststoffen is afkomstig van de op het bedrijf gehouden, dan wel anderszins aanwezige dieren;  
 
@@ -1354,7 +1387,7 @@ c. bij onderdeel 4 van het vervoersbewijs dierlijke meststoffen wordt de opmerki
 
 ### Artikel  90  
 
-Indien dierlijke meststoffen van een bedrijf als bedoeld in artikel 43, eerste lid, worden afgevoerd naar een ander bedrijf, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
+Indien dierlijke meststoffen van een bedrijf als bedoeld in artikel 43, eerste lid, worden afgevoerd naar een ander bedrijf, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
 
 a. de hoeveelheid dierlijke meststoffen is afkomstig van de op het bedrijf gehouden, dan wel anderszins aanwezige dieren;  
 
@@ -1364,15 +1397,15 @@ c. de afstand tussen de desbetreffende bedrijven bedraagt hemelsbreed ten hoogst
 
 ### Artikel  91  
 
-Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een natuurterrein of overige grond als bedoeld in [artikel 1, eerste lid, onderdeel b, onderscheidenlijk onderdeel d, van het Besluit gebruik meststoffen](../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md), waarvan de desbetreffende landbouwer het exclusieve gebruiksrecht heeft, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
+Indien dierlijke meststoffen van een bedrijf worden afgevoerd naar een natuurterrein of overige grond als bedoeld in artikel 1, eerste lid, onderdeel b, onderscheidenlijk onderdeel d, van het Besluit gebruik meststoffen, waarvan de desbetreffende landbouwer het exclusieve gebruiksrecht heeft, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald op basis van de in bijlage I, tabel I, voor de desbetreffende mestsoort vermelde forfaitaire stikstofgehalten, onderscheidenlijk fosfaatgehalten, onder de volgende voorwaarden: 
 
-a. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar het natuurterrein wordt afgevoerd, bedraagt uitgedrukt in kilogrammen fosfaat, ten hoogste het product van het aantal hectaren natuurterrein en de hoeveelheid fosfaat die ingevolge [artikel 2, derde en vierde lid, van het Besluit gebruik meststoffen](../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) per hectare van dat natuurterrein mag worden gebruikt; en  
+a. de totale hoeveelheid dierlijke meststoffen die in een kalenderjaar naar het natuurterrein wordt afgevoerd, bedraagt uitgedrukt in kilogrammen fosfaat, ten hoogste het product van het aantal hectaren natuurterrein en de hoeveelheid fosfaat die ingevolge artikel 2, derde en vierde lid, van het Besluit gebruik meststoffen per hectare van dat natuurterrein mag worden gebruikt; en  
 
 b. de afstand tussen de productielocatie van het bedrijf waarvan de dierlijke meststoffen afkomstig zijn en het desbetreffende natuurterrein bedraagt hemelsbreed ten hoogste twintig kilometer.   
 
 ### Artikel  91a  
 
-Indien een hoeveelheid vaste meststoffen die ten hoogste 10% vaste dierlijke meststoffen of 10% champost bevat, van een onderneming wordt afgevoerd naar een bedrijf, een intermediaire onderneming of een afnemer die geen bedrijf of intermediaire onderneming voert, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald: 
+Indien een hoeveelheid vaste meststoffen die ten hoogste 10% vaste dierlijke meststoffen of 10% champost bevat, van een onderneming wordt afgevoerd naar een bedrijf, een intermediaire onderneming of een afnemer die geen bedrijf of intermediaire onderneming voert, kan de desbetreffende hoeveelheid dierlijke meststoffen, in zoverre in afwijking van artikel 68, eerste lid, van het besluit, worden bepaald: 
 
 a. uitgaande van de stikstofgehalten onderscheidenlijk de fosfaatgehalten van de afzonderlijke grondstoffen waaruit het mengsel is bereid en het aandeel van deze stoffen in het eindproduct; of  
 
@@ -1380,7 +1413,7 @@ b. uitgaande van de stikstofgehalten onderscheidenlijk de fosfaatgehalten van de
 
 ### Artikel 91b  
 
-Indien dezelfde vracht vaste dierlijke meststoffen binnen zeven dagen twee maal wordt vervoerd van of naar een bedrijf of een onderneming, kan de hoeveelheid meststoffen van het eerste vervoer, in zoverre in afwijking van [artikel 68, eerste lid van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), gelijkgesteld worden aan de hoeveelheid meststoffen van het tweede vervoer, onder voorwaarde dat tijdens het laden van zowel het eerste als het tweede vervoer, de gegevens ter identificatie van de monsterverpakking als bedoeld in artikel 55, tweede lid, onderdeel b, van het tweede vervoer worden ingelezen en vastgelegd. 
+Indien dezelfde vracht vaste dierlijke meststoffen binnen zeven dagen twee maal wordt vervoerd van of naar een bedrijf of een onderneming, kan de hoeveelheid meststoffen van het eerste vervoer, in zoverre in afwijking van artikel 68, eerste lid van het besluit, gelijkgesteld worden aan de hoeveelheid meststoffen van het tweede vervoer, onder voorwaarde dat tijdens het laden van zowel het eerste als het tweede vervoer, de gegevens ter identificatie van de monsterverpakking als bedoeld in artikel 55, tweede lid, onderdeel b, van het tweede vervoer worden ingelezen en vastgelegd. 
 
 ### §  3  
 
@@ -1388,8 +1421,8 @@ Indien dezelfde vracht vaste dierlijke meststoffen binnen zeven dagen twee maal 
 
 ### Artikel  92  
 
-1. Het gewicht van de van een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld afgevoerde, de op een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld aangevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid zuiveringsslib of compost, bedoeld in [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), wordt door de vervoerder van de desbetreffende meststoffen bepaald door middel van weging met behulp van een weegwerktuig.
-2. Het stikstofgehalte en het fosfaatgehalte van de van een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld, afgevoerde, of de op een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld, aangevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid zuiveringsslib of compost, bedoeld in [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), komt overeen met het stikstofgehalte en het fosfaatgehalte zoals dat voor de hoeveelheid zuiveringsslib of compost waaruit de desbetreffende vracht afkomstig is, overeenkomstig de artikelen 92a en 92b is vastgesteld. 
+1. Het gewicht van de van een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld afgevoerde, de op een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld aangevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid zuiveringsslib of compost, bedoeld in artikel 68, eerste lid, van het besluit, wordt door de vervoerder van de desbetreffende meststoffen bepaald door middel van weging met behulp van een weegwerktuig.
+2. Het stikstofgehalte en het fosfaatgehalte van de van een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld, afgevoerde, of de op een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld, aangevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid zuiveringsslib of compost, bedoeld in artikel 68, eerste lid, van het besluit, komt overeen met het stikstofgehalte en het fosfaatgehalte zoals dat voor de hoeveelheid zuiveringsslib of compost waaruit de desbetreffende vracht afkomstig is, overeenkomstig de artikelen 92a en 92b is vastgesteld. 
 
 ### Artikel 92a  
 
@@ -1417,14 +1450,14 @@ c. het stikstofgehalte, het fosfaatgehalte alsmede het drogestofgehalte ten mins
 
 ### Artikel  92c  
 
-Ingeval een hoeveelheid vloeibaar zuiveringsslib die afkomstig is uit een opslagruimte voor vloeibaar zuiveringsslib als bedoeld in [artikel 39, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of in artikel 51, vierde lid, en die rechtstreeks van de desbetreffende onderneming wordt afgevoerd naar een bedrijf, komt het stikstofgehalte en het fosfaatgehalte alsmede het drogestofgehalte van de desbetreffende hoeveelheid zuiveringsslib, in afwijking van [artikel 68, eerste lid van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), overeen met het stikstofgehalte, het fosfaatgehalte onderscheidenlijk het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in artikel 46, eerste lid, of artikel 51, vijfde lid, bedoelde formulier, of de in artikel 46, tweede lid, genoemde andere gegevensdragers is berekend en zoals dat voordat de afvoer plaatsvond, overeenkomstig artikel 48, vijfde lid, of 52, vijfde lid, aan de minister is verstrekt. 
+Ingeval een hoeveelheid vloeibaar zuiveringsslib die afkomstig is uit een opslagruimte voor vloeibaar zuiveringsslib als bedoeld in artikel 39, tweede lid, van het besluit of in artikel 51, vierde lid, en die rechtstreeks van de desbetreffende onderneming wordt afgevoerd naar een bedrijf, komt het stikstofgehalte en het fosfaatgehalte alsmede het drogestofgehalte van de desbetreffende hoeveelheid zuiveringsslib, in afwijking van artikel 68, eerste lid van het besluit, overeen met het stikstofgehalte, het fosfaatgehalte onderscheidenlijk het drogestofgehalte zoals dat voor de in de desbetreffende opslag aanwezige hoeveelheid zuiveringsslib met gebruikmaking van het in artikel 46, eerste lid, of artikel 51, vijfde lid, bedoelde formulier, of de in artikel 46, tweede lid, genoemde andere gegevensdragers is berekend en zoals dat voordat de afvoer plaatsvond, overeenkomstig artikel 48, vijfde lid, of 52, vijfde lid, aan de minister is verstrekt. 
 
 ### Artikel  93  
 
-1. Het gewicht van de van een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld afgevoerde, de op een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld aangevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid andere meststoffen dan dierlijke meststoffen, zuiveringsslib of compost, bedoeld in [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), wordt bepaald door middel van weging met behulp van een weegwerktuig.
-2. Het stikstofgehalte en het fosfaatgehalte van de van een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld afgevoerde of de op een bedrijf of intermediaire onderneming aangevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid andere meststoffen dan dierlijke meststoffen, zuiveringsslib of compost, bedoeld in [artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald overeenkomstig artikel 17 door bemonstering en analyse.  
+1. Het gewicht van de van een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld afgevoerde, de op een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld aangevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid andere meststoffen dan dierlijke meststoffen, zuiveringsslib of compost, bedoeld in artikel 68, eerste lid, van het besluit, wordt bepaald door middel van weging met behulp van een weegwerktuig.
+2. Het stikstofgehalte en het fosfaatgehalte van de van een bedrijf of onderneming in het kader waarvan meststoffen worden verhandeld afgevoerde of de op een bedrijf of intermediaire onderneming aangevoerde en de binnen een intermediaire onderneming vervoerde hoeveelheid andere meststoffen dan dierlijke meststoffen, zuiveringsslib of compost, bedoeld in artikel 68, eerste lid, van het besluit, worden bepaald overeenkomstig artikel 17 door bemonstering en analyse.  
 3.  In voorkomend geval geldt dat het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, van de in eerste en tweede lid bedoelde meststoffen overeenkomen met het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, zoals vermeld op de verpakking van of het begeleidende document bij de desbetreffende meststoffen.   
-4.  [Artikel 68, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) in samenhang met het eerste en tweede lid, is niet van toepassing op de van een tuincentrum of een hovenier afgevoerde hoeveelheid meststoffen, anders dan dierlijke meststoffen, zuiveringsslib of compost, naar een afnemer, niet zijnde een landbouwer of een ondernemer.  
+4.  Artikel 68, eerste lid, van het besluit in samenhang met het eerste en tweede lid, is niet van toepassing op de van een tuincentrum of een hovenier afgevoerde hoeveelheid meststoffen, anders dan dierlijke meststoffen, zuiveringsslib of compost, naar een afnemer, niet zijnde een landbouwer of een ondernemer.  
 
 ### §  4  
 
@@ -1432,17 +1465,17 @@ Ingeval een hoeveelheid vloeibaar zuiveringsslib die afkomstig is uit een opslag
 
 ### Artikel  94  
 
-1.  Het gewicht van de op een bedrijf opgeslagen hoeveelheid dierlijke meststoffen, bedoeld in [artikel 68, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), wordt bepaald op basis van meting van het volume en het soortelijk gewicht van deze meststoffen.   
-2.  Het stikstofgehalte en het fosfaatgehalte in de op een bedrijf opgeslagen hoeveelheid dierlijke meststoffen, bedoeld in [artikel 68, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden bepaald op basis van de best beschikbare gegevens.   
-3.  Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een intermediaire onderneming opgeslagen hoeveelheid dierlijke meststoffen, bedoeld in [artikel 68, vijfde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), komt overeen met de onderscheiden hoeveelheden die met gebruikmaking van het in artikel 46, eerste lid, genoemde formulier, respectievelijk in artikel 46, tweede lid, genoemde andere gegevensdragers zijn berekend.   
+1.  Het gewicht van de op een bedrijf opgeslagen hoeveelheid dierlijke meststoffen, bedoeld in artikel 68, derde lid, van het besluit, wordt bepaald op basis van meting van het volume en het soortelijk gewicht van deze meststoffen.   
+2.  Het stikstofgehalte en het fosfaatgehalte in de op een bedrijf opgeslagen hoeveelheid dierlijke meststoffen, bedoeld in artikel 68, derde lid, van het besluit, worden bepaald op basis van de best beschikbare gegevens.   
+3.  Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een intermediaire onderneming opgeslagen hoeveelheid dierlijke meststoffen, bedoeld in artikel 68, vijfde lid, van het besluit, komt overeen met de onderscheiden hoeveelheden die met gebruikmaking van het in artikel 46, eerste lid, genoemde formulier, respectievelijk in artikel 46, tweede lid, genoemde andere gegevensdragers zijn berekend.   
 4.  Onverminderd het eerste tot en met het derde lid, is de aan het begin van het kalenderjaar opgeslagen hoeveelheid dierlijke meststoffen, gelijk aan de aan het einde van het voorafgaande kalenderjaar opgeslagen hoeveelheid dierlijke meststoffen.  
 
 ### Artikel  95  
 
-1.  Het gewicht van de op een bedrijf opgeslagen hoeveelheid zuiveringsslib of compost, bedoeld in [artikel 68, vierde en vijfde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), wordt bepaald op basis van meting van het volume en het soortelijk gewicht van deze meststoffen.   
-2.  Het stikstofgehalte en het fosfaatgehalte in de op een bedrijf opgeslagen hoeveelheid zuiveringsslib of compost, bedoeld in [artikel 68, vierde en vijfde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) worden bepaald op basis van de best beschikbare gegevens.   
-3.  Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een onderneming in het kader waarvan meststoffen worden verhandeld opgeslagen hoeveelheid zuiveringsslib of compost, bedoeld in [artikel 68, vijfde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), komen overeen met de onderscheiden hoeveelheden die met gebruikmaking van het in artikel 46, eerste lid, of artikel 51, vijfde lid, bedoelde formulier, of de in artikel 46, tweede lid genoemde andere gegevensdragers zijn berekend.   
-4.  Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een bedrijf of een onderneming in het kader waarvan meststoffen worden verhandeld opgeslagen meststoffen anders dan dierlijke meststoffen, zuiveringsslib of compost, bedoeld in [artikel 68, vierde en vijfde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), komen overeen met het gewicht onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, zoals vermeld op de verpakking van of het begeleidende document bij de desbetreffende meststoffen. Ingeval van bulkopslag van de desbetreffende meststoffen wordt het gewicht bepaald op basis van meting van het volume en het soortelijk gewicht van deze meststoffen   
+1.  Het gewicht van de op een bedrijf opgeslagen hoeveelheid zuiveringsslib of compost, bedoeld in artikel 68, vierde en vijfde lid, van het besluit, wordt bepaald op basis van meting van het volume en het soortelijk gewicht van deze meststoffen.   
+2.  Het stikstofgehalte en het fosfaatgehalte in de op een bedrijf opgeslagen hoeveelheid zuiveringsslib of compost, bedoeld in artikel 68, vierde en vijfde lid, van het besluit worden bepaald op basis van de best beschikbare gegevens.   
+3.  Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een onderneming in het kader waarvan meststoffen worden verhandeld opgeslagen hoeveelheid zuiveringsslib of compost, bedoeld in artikel 68, vijfde lid, van het besluit, komen overeen met de onderscheiden hoeveelheden die met gebruikmaking van het in artikel 46, eerste lid, of artikel 51, vijfde lid, bedoelde formulier, of de in artikel 46, tweede lid genoemde andere gegevensdragers zijn berekend.   
+4.  Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een bedrijf of een onderneming in het kader waarvan meststoffen worden verhandeld opgeslagen meststoffen anders dan dierlijke meststoffen, zuiveringsslib of compost, bedoeld in artikel 68, vierde en vijfde lid, van het besluit, komen overeen met het gewicht onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, zoals vermeld op de verpakking van of het begeleidende document bij de desbetreffende meststoffen. Ingeval van bulkopslag van de desbetreffende meststoffen wordt het gewicht bepaald op basis van meting van het volume en het soortelijk gewicht van deze meststoffen   
 5.  Onverminderd het eerste tot en met het vierde lid, is de aan het begin van het kalenderjaar opgeslagen hoeveelheid in deze leden genoemde meststoffen, gelijk aan de aan het einde van het voorafgaande kalenderjaar opgeslagen hoeveelheid in deze leden genoemde meststoffen.  
 
 ### §  5  
@@ -1451,7 +1484,7 @@ Ingeval een hoeveelheid vloeibaar zuiveringsslib die afkomstig is uit een opslag
 
 ### Artikel  96  
 
-Als forfaitaire stikstofgehalten als bedoeld in [artikel 67, vijfde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) worden vastgesteld de gehalten, uitgedrukt in kilogrammen stikstof per dier per jaar, die in bijlage D, tabel I, kolom D, voor de onderscheiden diersoorten en diercategorieën en toegepaste huisvestingssysteem zijn vermeld. 
+Als forfaitaire stikstofgehalten als bedoeld in artikel 67, vijfde lid, van het besluit worden vastgesteld de gehalten, uitgedrukt in kilogrammen stikstof per dier per jaar, die in bijlage D, tabel I, kolom D, voor de onderscheiden diersoorten en diercategorieën en toegepaste huisvestingssysteem zijn vermeld. 
 
 ### §  6  
 
@@ -1459,7 +1492,7 @@ Als forfaitaire stikstofgehalten als bedoeld in [artikel 67, vijfde lid, van het
 
 ### Artikel  97  
 
-1.  De ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, bedoeld in [artikel 43, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md): 
+1.  De ondernemer in het kader van wiens onderneming diervoeders worden afgeleverd aan een bedrijf met staldieren of runderen, bedoeld in artikel 43, eerste lid, van het besluit: 
 
 a. bepaalt het gewicht van de desbetreffende hoeveelheid diervoeders door middel van weging met behulp van een weegwerktuig; en  
 
@@ -1505,13 +1538,13 @@ g. de hoeveelheid diervoeder in kilogrammen.
 
 ### Artikel  100  
 
-Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een bedrijf aan- of afgevoerde, dan wel de aanwezige voorraden diervoeders, bedoeld in [artikel 67, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), anders dan ruwvoer en enkelvoudig diervoeder zoals vermeld in bijlage J, komen overeen met het gewicht onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, zoals vermeld op de verpakking van of het begeleidende document bij de desbetreffende diervoeders, bedoeld in artikel 99, eerste lid, dan wel met het stikstofgehalte en het fosfaatgehalte zoals deze ingevolge artikel 99, derde lid, schriftelijk zijn verstrekt. Ingeval van bulkopslag van de desbetreffende diervoeders wordt het gewicht van de aanwezige voorraden diervoeders bepaald op basis van meting van het volume en het soortelijk gewicht van deze diervoeders. 
+Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de op een bedrijf aan- of afgevoerde, dan wel de aanwezige voorraden diervoeders, bedoeld in artikel 67, eerste lid, van het besluit, anders dan ruwvoer en enkelvoudig diervoeder zoals vermeld in bijlage J, komen overeen met het gewicht onderscheidenlijk het stikstofgehalte en het fosfaatgehalte, zoals vermeld op de verpakking van of het begeleidende document bij de desbetreffende diervoeders, bedoeld in artikel 99, eerste lid, dan wel met het stikstofgehalte en het fosfaatgehalte zoals deze ingevolge artikel 99, derde lid, schriftelijk zijn verstrekt. Ingeval van bulkopslag van de desbetreffende diervoeders wordt het gewicht van de aanwezige voorraden diervoeders bepaald op basis van meting van het volume en het soortelijk gewicht van deze diervoeders. 
 
 ### Artikel  101  
 
-1.  Het gewicht van het in [artikel 67, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) bedoelde op een bedrijf aan- of afgevoerde ruwvoer en enkelvoudig diervoeder zoals vermeld in bijlage J, wordt bepaald door middel van weging met behulp van een weegwerktuig, dan wel door middel van meting van het volume en het soortelijk gewicht.   
-2.  Als het gewicht per hectare van het in [artikel 67, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) bedoelde op het bedrijf geproduceerde ruwvoer en enkelvoudig diervoeder zoals vermeld in bijlage J, wordt vastgesteld het gewicht dat voor de onderscheiden soorten ruwvoer en enkelvoudig diervoer in die bijlage is vermeld.   
-3.  Als het stikstofgehalte en het fosfaatgehalte in het op een bedrijf aan- of afgevoerde, dan wel de aanwezige voorraden ruwvoer en enkelvoudig diervoeder, bedoeld in [artikel 67, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), en het op het bedrijf geproduceerde ruwvoer en enkelvoudig diervoeder, bedoeld in[ artikel 67, tweede lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), worden vastgesteld het stikstofgehalte en het fosfaatgehalte per kilogram diervoeder, die voor de onderscheiden soorten ruwvoer of enkelvoudig diervoeder zijn vermeld in bijlage J.  
+1.  Het gewicht van het in artikel 67, eerste lid, van het besluit bedoelde op een bedrijf aan- of afgevoerde ruwvoer en enkelvoudig diervoeder zoals vermeld in bijlage J, wordt bepaald door middel van weging met behulp van een weegwerktuig, dan wel door middel van meting van het volume en het soortelijk gewicht.   
+2.  Als het gewicht per hectare van het in artikel 67, tweede lid, van het besluit bedoelde op het bedrijf geproduceerde ruwvoer en enkelvoudig diervoeder zoals vermeld in bijlage J, wordt vastgesteld het gewicht dat voor de onderscheiden soorten ruwvoer en enkelvoudig diervoer in die bijlage is vermeld.   
+3.  Als het stikstofgehalte en het fosfaatgehalte in het op een bedrijf aan- of afgevoerde, dan wel de aanwezige voorraden ruwvoer en enkelvoudig diervoeder, bedoeld in artikel 67, eerste lid, van het besluit, en het op het bedrijf geproduceerde ruwvoer en enkelvoudig diervoeder, bedoeld in artikel 67, tweede lid, van het besluit, worden vastgesteld het stikstofgehalte en het fosfaatgehalte per kilogram diervoeder, die voor de onderscheiden soorten ruwvoer of enkelvoudig diervoeder zijn vermeld in bijlage J.  
 
 ### §  7  
 
@@ -1519,16 +1552,16 @@ Het gewicht, onderscheidenlijk het stikstofgehalte en het fosfaatgehalte van de 
 
 ### Artikel  102  
 
-1. Als forfaitaire stikstofgehalten en fosfaatgehalten per dier of per kilogram levend gewicht als bedoeld in [artikel 67, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) worden voor de onderscheiden diersoorten en diercategorieën vastgesteld, de forfaitaire gehalten die zijn vermeld in bijlage D, tabel III.  
-2.  De bepaling van de hoeveelheden stikstof en fosfaat in staldieren, bedoeld in [artikel 67, derde lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), wordt gebaseerd op de in het eerste lid bedoelde forfaitaire stikstofgehalten en fosfaatgehalten per kilogram levend gewicht. Ingeval van een dier geen gegevens over het gewicht beschikbaar zijn, worden de hoeveelheden stikstof en fosfaat in dat dier bepaald op basis van de in het eerste lid bedoelde forfaitaire stikstofgehalten en fosfaatgehalten per dier. 
+1. Als forfaitaire stikstofgehalten en fosfaatgehalten per dier of per kilogram levend gewicht als bedoeld in artikel 67, derde lid, van het besluit worden voor de onderscheiden diersoorten en diercategorieën vastgesteld, de forfaitaire gehalten die zijn vermeld in bijlage D, tabel III.  
+2.  De bepaling van de hoeveelheden stikstof en fosfaat in staldieren, bedoeld in artikel 67, derde lid, van het besluit, wordt gebaseerd op de in het eerste lid bedoelde forfaitaire stikstofgehalten en fosfaatgehalten per kilogram levend gewicht. Ingeval van een dier geen gegevens over het gewicht beschikbaar zijn, worden de hoeveelheden stikstof en fosfaat in dat dier bepaald op basis van de in het eerste lid bedoelde forfaitaire stikstofgehalten en fosfaatgehalten per dier. 
 
 ### Artikel  102a  
 
-Voor de toepassing van [artikel 20 van de Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md), worden bij de vaststelling van het dagelijkse aanwezige aantal vleeskalkoenen, bedoeld in [artikel 69, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), de hanen van een bepaalde mestronde aangemerkt als tegelijk voor de slacht afgeleverd met de laatste voor de slacht afgeleverde hennen van die mestronde. 
+Voor de toepassing van artikel 20 van de Meststoffenwet, worden bij de vaststelling van het dagelijkse aanwezige aantal vleeskalkoenen, bedoeld in artikel 69, eerste lid, van het besluit, de hanen van een bepaalde mestronde aangemerkt als tegelijk voor de slacht afgeleverd met de laatste voor de slacht afgeleverde hennen van die mestronde. 
 
 ### Artikel  103  
 
-Als forfaitaire stikstofgehalten en fosfaatgehalten per kilogram eieren als bedoeld in [artikel 67, vierde lid, van het besluit ](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md)worden voor de onderscheiden soorten eieren vastgesteld, de forfaitaire gehalten die zijn vermeld in bijlage D, tabel IV. 
+Als forfaitaire stikstofgehalten en fosfaatgehalten per kilogram eieren als bedoeld in artikel 67, vierde lid, van het besluit worden voor de onderscheiden soorten eieren vastgesteld, de forfaitaire gehalten die zijn vermeld in bijlage D, tabel IV. 
 
 ### §  8  
 
@@ -1536,7 +1569,7 @@ Als forfaitaire stikstofgehalten en fosfaatgehalten per kilogram eieren als bedo
 
 ### Artikel  103a  
 
-1.  De fosfaattoestand van de bodem, bedoeld in [artikel 69a van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), wordt vastgesteld door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025, door middel van bemonstering en analyse van de bodem overeenkomstig het in bijlage L opgenomen protocol.   
+1.  De fosfaattoestand van de bodem, bedoeld in artikel 69a van het besluit, wordt vastgesteld door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025, door middel van bemonstering en analyse van de bodem overeenkomstig het in bijlage L opgenomen protocol.   
 2.  Het laboratorium stelt ter zake van de bemonstering en analyse een analyserapport op, dat voor ieder bemonsterd perceel in ieder geval de volgende gegevens bevat: 
 
 a. de naam en het adres van de landbouwer wiens perceel is bemonsterd;  
@@ -1577,7 +1610,7 @@ b. bemonstering en analyse van de bodem overeenkomstig het in bijlage L opgenome
 
 1.  Het laboratorium dat de in artikel 103a bedoelde vaststelling heeft verricht, verstrekt de landbouwer het analyserapport en verstrekt desgevraagd gegevens over die vaststelling aan de minister.   
 2.  De landbouwer meldt de fosfaattoestand van het desbetreffende perceel gebaseerd op het op grond van artikel 103a, derde lid, geldige analyserapport, uiterlijk 15 mei van het desbetreffende kalenderjaar.   
-3.  De landbouwer bewaart het analyserapport als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).  
+3.  De landbouwer bewaart het analyserapport als onderdeel van de administratie, bedoeld in artikel 32 van het besluit.  
 
 ### Artikel  103c  
 
@@ -1614,7 +1647,7 @@ f. het laboratorium in het analyserapport de naam vermeldt van degene die de wer
 
 ### Artikel  104  
 
-1.  De kennisgeving van overgang, bedoeld in [artikel 27, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) geschiedt bij de minister.   
+1.  De kennisgeving van overgang, bedoeld in artikel 27, eerste lid, van de wet geschiedt bij de minister.   
 2.  Bij de kennisgeving van overgang worden door partijen in ieder geval de volgende gegevens verstrekt: 
 
 a. de door de minister ter identificatie van het bedrijf verstrekte relatienummers;  
@@ -1622,7 +1655,7 @@ a. de door de minister ter identificatie van het bedrijf verstrekte relatienumme
 b. het aantal varkenseenheden of pluimvee-eenheden waarop de kennisgeving betrekking heeft;  
 
 c. het gedeelte van het productierecht, dat in het desbetreffende kalenderjaar op het bedrijf van de vervreemder niet wordt benut voor het houden van dieren.     
-3.  Voor de toepassing van [artikel 26, zevende lid, van de Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) worden bij de kennisgeving van overgang tevens de volgende gegevens verstrekt: 
+3.  Voor de toepassing van artikel 26, zevende lid, van de Meststoffenwet worden bij de kennisgeving van overgang tevens de volgende gegevens verstrekt: 
 
 a. een civielrechtelijke titel die het exclusieve gebruiksgenot verschaft van de installatie waarin de mestbehandeling of mestvergisting plaatsvindt;  
 
@@ -1642,7 +1675,7 @@ h. een afschrift van de omgevingsvergunning voor de behandelingsinstallatie of v
 
 ### Artikel  104a  
 
-Voor de toepassing van [artikel 26, zevende lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) geeft het bedrijf waarbinnen de verplaatsing van de varkens-, kippen- of kalkoenhouderij plaatsvindt, van de verplaatsing vooraf kennis aan de minister en verstrekt de overeenkomstige gegevens bedoeld, in artikel 104, tweede en derde lid. 
+Voor de toepassing van artikel 26, zevende lid, van de wet geeft het bedrijf waarbinnen de verplaatsing van de varkens-, kippen- of kalkoenhouderij plaatsvindt, van de verplaatsing vooraf kennis aan de minister en verstrekt de overeenkomstige gegevens bedoeld, in artikel 104, tweede en derde lid. 
 
 ### §  2  
 
@@ -1656,7 +1689,7 @@ Voor de toepassing van [artikel 26, zevende lid, van de wet](../../../../wet/mes
 
 a. een rechterlijke uitspraak waaruit blijkt dat degene op wiens bedrijf het verzoek betrekking heeft de desbetreffende overgang geen doorgang kan laten vinden; of  
 
-b. een schriftelijke verklaring van een notaris, waarin deze stelt dat hij van de hypotheekhouder op grond van [artikel 268, eerste lid, van boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) de opdracht heeft ontvangen om het desbetreffende registergoed, of in voorkomend geval de desbetreffende registergoederen in het openbaar te verkopen.     
+b. een schriftelijke verklaring van een notaris, waarin deze stelt dat hij van de hypotheekhouder op grond van artikel 268, eerste lid, van boek 3 van het Burgerlijk Wetboek de opdracht heeft ontvangen om het desbetreffende registergoed, of in voorkomend geval de desbetreffende registergoederen in het openbaar te verkopen.     
 4.  Na afloop van de overeenkomstig het derde lid verlengde termijn wordt de kennisgeving van de overgang onherroepelijk door de minister in behandeling genomen.   
 5.  In afwijking van het eerste lid, onderscheidenlijk het tweede tot en met het vierde lid, wordt de kennisgeving van overgang door de minister in behandeling genomen voordat de termijn van 30 dagen, onderscheidenlijk de verlengde termijn is verstreken, zodra hij van elke hypotheekhouder die het bedrijf heeft laten registreren, onderscheidenlijk elke hypotheekhouder die om verlenging van de desbetreffende termijn heeft verzocht, een verklaring heeft ontvangen waaruit blijkt dat tegen in behandeling neming geen bezwaar bestaat.  
 
@@ -1674,7 +1707,7 @@ c. het correspondentieadres van het in onderdeel b bedoelde bedrijf.
 
 ### Artikel  107  
 
-1.  Indien de aanmelding, bedoeld in artikel 106, eerste lid, niet voor akkoord is medeondertekend door degene op wiens bedrijf de aanmelding betrekking heeft, wordt het bedrijf slechts geregistreerd, indien de hypotheekhouder bij het verzoek tevens een uittreksel van het in [artikel 260, eerste lid, van boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) bedoelde openbare register overlegt, waaruit blijkt op welke registergoederen behorend tot het bedrijf een hypotheekrecht is gevestigd.   
+1.  Indien de aanmelding, bedoeld in artikel 106, eerste lid, niet voor akkoord is medeondertekend door degene op wiens bedrijf de aanmelding betrekking heeft, wordt het bedrijf slechts geregistreerd, indien de hypotheekhouder bij het verzoek tevens een uittreksel van het in artikel 260, eerste lid, van boek 3 van het Burgerlijk Wetboek bedoelde openbare register overlegt, waaruit blijkt op welke registergoederen behorend tot het bedrijf een hypotheekrecht is gevestigd.   
 2.  De minister doet van de registratie, bedoeld in het eerste lid, schriftelijk mededeling aan degene op wiens bedrijf de registratie betrekking heeft. Indien deze binnen 30 dagen na dagtekening van deze mededeling aan de minister verklaart dat de geregistreerde gegevens niet juist zijn, gelden in plaats van artikel 105 de volgende leden.   
 3.  De minister neemt een kennisgeving van overgang, gedaan door degene op wiens bedrijf de registratie betrekking heeft, niet in behandeling zolang de hypotheekhouder de registratie niet laat doorhalen, doch hoogstens gedurende negentig dagen na dagtekening van de schriftelijke mededeling, bedoeld in het tweede lid.   
 4.  De termijn, bedoeld in het derde lid, wordt eenmalig met negentig dagen verlengd indien de hypotheekhouder daartoe binnen de eerstgenoemde termijn een verzoek doet aan de minister, onder gelijktijdige overlegging van een rechterlijke uitspraak of een verklaring van een notaris als bedoeld in artikel 105, derde lid.   
@@ -1706,7 +1739,7 @@ d. de indiening of het achterwege blijven van de verklaring bedoeld in artikel 1
 
 ### Artikel  110  
 
-1.  De kennisgeving, bedoeld in [artikel 31, tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), geschiedt bij de minister.   
+1.  De kennisgeving, bedoeld in artikel 31, tweede lid, van de wet, geschiedt bij de minister.   
 2.  Bij de kennisgeving, bedoeld in het eerste lid, worden in ieder geval de volgende gegevens verstrekt: 
 
 a. het door de minister ter identificatie van het bedrijf verstrekte relatienummer; en  
@@ -1721,7 +1754,7 @@ b. indien een gedeelte van het productierecht komt te vervallen, het aantal vark
 
 1.  Een kennisgeving van overgang, bedoeld in artikel 104, eerste lid, wordt eerst geregistreerd nadat de verwerver een bedrag van € 100 aan de minister heeft voldaan.   
 2.  Een aanmelding ter registratie, bedoeld in artikel 105, eerste lid, wordt voor de toepassing van paragraaf 2 eerst in behandeling genomen nadat een bedrag van € 35 aan de minister is voldaan.   
-3.  Indien de minister op grond van [artikel 29, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) niet tot registratie overgaat, wordt het bedrag, bedoeld in het eerste lid, aan de betaler gerestitueerd.   
+3.  Indien de minister op grond van artikel 29, eerste lid, van de wet niet tot registratie overgaat, wordt het bedrag, bedoeld in het eerste lid, aan de betaler gerestitueerd.   
 4.  Het bedrag, bedoeld in het tweede lid, geldt per verzoek per bedrijf.  
 
 ###§  4a  
@@ -1730,11 +1763,11 @@ b. indien een gedeelte van het productierecht komt te vervallen, het aantal vark
 
 ### Artikel  111a  
 
-1.  [Artikel 26, zevende lid, van de Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) is van toepassing indien wordt voldaan aan de volgende voorwaarden: 
+1.  Artikel 26, zevende lid, van de Meststoffenwet is van toepassing indien wordt voldaan aan de volgende voorwaarden: 
 
 a. de mestbehandeling of mestvergisting geschiedt in een installatie die overeenkomstig artikel 23, eerste lid, of 24, eerste lid, van verordening (EG) nr. 1069/2009 geregistreerd respectievelijk erkend is;  
 
-b. ten aanzien van de installatie is een vergunning als bedoeld in [artikel 8.1, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) omgevingsrecht afgegeven;  
+b. ten aanzien van de installatie is een vergunning als bedoeld in artikel 8.1, eerste lid, van de Wet milieubeheer of een omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht afgegeven;  
 
 c. de mestbehandeling of mestvergisting van de dierlijke meststoffen geschiedt in een installatie op een naar het oordeel van de minister adequate wijze;  
 
@@ -1749,11 +1782,11 @@ g. de eindproducten die bij de mestbehandeling of mestvergisting ontstaan, worde
 h. indien de mestbehandeling of de vergisting van de dierlijke meststoffen niet op een adequate wijze kan geschieden als gevolg van een storing van de installatie, doet de landbouwer hiervan binnen drie dagen melding aan de minister, en  
 
 i. wijzigingen in de ingevolge artikel 104 verstrekte gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de minister ter identificatie van het bedrijf verstrekte relatienummer, gemeld aan de minister.     
-2.  Indien niet wordt voldaan aan de voorwaarden, genoemd in het eerste lid, wordt van het op dat bedrijf rustende varkensrecht onderscheidenlijk pluimveerecht dat deel buiten beschouwing gelaten dat volgens [artikel 26, zevende lid, van de Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) is overgegaan van een bedrijf dat geheel of gedeeltelijk is gelegen buiten dat concentratiegebied naar een bedrijf dat geheel of gedeeltelijk is gelegen binnen het concentratiegebied.  
+2.  Indien niet wordt voldaan aan de voorwaarden, genoemd in het eerste lid, wordt van het op dat bedrijf rustende varkensrecht onderscheidenlijk pluimveerecht dat deel buiten beschouwing gelaten dat volgens artikel 26, zevende lid, van de Meststoffenwet is overgegaan van een bedrijf dat geheel of gedeeltelijk is gelegen buiten dat concentratiegebied naar een bedrijf dat geheel of gedeeltelijk is gelegen binnen het concentratiegebied.  
 
 ### Artikel  111b  
 
-Een productierecht, of een gedeelte daarvan, dat is overgegaan ingevolge het bepaalde in [artikel 26, zevende lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) kan niet overgaan naar een ander bedrijf binnen het concentratiegebied. 
+Een productierecht, of een gedeelte daarvan, dat is overgegaan ingevolge het bepaalde in artikel 26, zevende lid, van de wet kan niet overgaan naar een ander bedrijf binnen het concentratiegebied. 
 
 ### §  5  
 
@@ -1761,13 +1794,13 @@ Een productierecht, of een gedeelte daarvan, dat is overgegaan ingevolge het bep
 
 ###Artikel 112 
 
-1.  De minister kan indien naar zijn oordeel is voldaan aan deze paragraaf ontheffing verlenen van het verbod, bedoeld in de [artikelen 19](../../../../wet/meststoffenwet/BWBR0004054/README.md) en [20, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md).   
+1.  De minister kan indien naar zijn oordeel is voldaan aan deze paragraaf ontheffing verlenen van het verbod, bedoeld in de artikelen 19 en 20, eerste lid, van de wet.   
 2.  De ontheffing geldt voor het overeenkomstig artikel 113 te bepalen gemiddeld aantal varkens onderscheidenlijk kippen en kalkoenen dat in een kalenderjaar ten hoogste mag worden gehouden.   
-3.  Het gemiddeld aantal varkens onderscheidenlijk kippen en kalkoenen, bedoeld in het tweede lid, wordt uitgedrukt in varkenseenheden onderscheidenlijk in pluimvee-eenheden, overeenkomstig de in [bijlage II van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) daarvoor opgenomen normen. 
+3.  Het gemiddeld aantal varkens onderscheidenlijk kippen en kalkoenen, bedoeld in het tweede lid, wordt uitgedrukt in varkenseenheden onderscheidenlijk in pluimvee-eenheden, overeenkomstig de in bijlage II van de wet daarvoor opgenomen normen. 
 
 ###Artikel 113 
 
-1.  Het gemiddeld aantal varkens onderscheidenlijk kippen en kalkoenen, bedoeld in artikel 112, tweede lid, komt overeen met het verschil in omvang van het op het bedrijf rustende productierecht op het tijdstip, bedoeld in artikel 119, tweede lid, en op het tijdstip waarop de ontheffing is verleend, verminderd met de omvang van de verkleiningen van het op het bedrijf rustende productierecht die in de periode vanaf het tijdstip waarop de ontheffing is verleend, hebben plaatsgevonden als gevolg van een registratie van een kennisgeving van een overgang van een productierecht, of gedeelte daarvan als bedoeld in [artikel 27, tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), en bedraagt ten hoogste de ingevolge artikel 115, eerste lid, onderdeel a, bedoelde omvang van de voorgenomen vergroting van het varkensrecht, onderscheidenlijk pluimveerecht.   
+1.  Het gemiddeld aantal varkens onderscheidenlijk kippen en kalkoenen, bedoeld in artikel 112, tweede lid, komt overeen met het verschil in omvang van het op het bedrijf rustende productierecht op het tijdstip, bedoeld in artikel 119, tweede lid, en op het tijdstip waarop de ontheffing is verleend, verminderd met de omvang van de verkleiningen van het op het bedrijf rustende productierecht die in de periode vanaf het tijdstip waarop de ontheffing is verleend, hebben plaatsgevonden als gevolg van een registratie van een kennisgeving van een overgang van een productierecht, of gedeelte daarvan als bedoeld in artikel 27, tweede lid, van de wet, en bedraagt ten hoogste de ingevolge artikel 115, eerste lid, onderdeel a, bedoelde omvang van de voorgenomen vergroting van het varkensrecht, onderscheidenlijk pluimveerecht.   
 2.  Het totale aantal diereenheden, waarvoor ingevolge deze paragraaf ontheffing wordt verleend bedraagt ten hoogste 270.270. Van dit aantal zijn 135.135 diereenheden gereserveerd voor ontheffingen in het kader van mestverbranding en het resterende aantal is gereserveerd voor ontheffingen in het kader van mestverwerking. Van het laatstbedoelde aantal is 81.081 gereserveerd voor varkenseenheden. 
 
 ###Artikel 114 
@@ -1786,7 +1819,7 @@ b. ten aanzien van een door deze landbouwer gevoerd bedrijf:
 
 2°. dat op de datum, genoemd onder 1°, beschikte over een varkensrecht of een pluimveerecht, voor zover de aanvraag betrekking heeft op varkenseenheden onderscheidenlijk op pluimvee-eenheden; en  
 
-3°. waarvan het productierecht na de datum, genoemd onder 1°, niet is verkleind, als gevolg van een registratie van een kennisgeving van een overgang van een productierecht, of gedeelte daarvan als bedoeld in [artikel 27, tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), tenzij deze verkleining nadien is ongedaan gemaakt door een vergroting van het productierecht als gevolg van een registratie van een kennisgeving van een overgang van een productierecht, of gedeelte daarvan als bedoeld in [artikel 27, tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md).    
+3°. waarvan het productierecht na de datum, genoemd onder 1°, niet is verkleind, als gevolg van een registratie van een kennisgeving van een overgang van een productierecht, of gedeelte daarvan als bedoeld in artikel 27, tweede lid, van de wet, tenzij deze verkleining nadien is ongedaan gemaakt door een vergroting van het productierecht als gevolg van een registratie van een kennisgeving van een overgang van een productierecht, of gedeelte daarvan als bedoeld in artikel 27, tweede lid, van de wet.    
 
 ###Artikel 115 
 
@@ -1821,7 +1854,7 @@ De ontheffing wordt slechts verleend indien wordt voldaan aan elk van de volgend
 
 a. de omvang van de voorgenomen vergroting van het productierecht bedraagt ten hoogste 100 procent van het op het bedrijf rustende productierecht;  
 
-b. het op het bedrijf rustende productierecht is in de periode vanaf het tijdstip waarop de ontheffing is aangevraagd, niet verkleind, als gevolg van een registratie van een kennisgeving van een overgang van een productierecht, of gedeelte daarvan als bedoeld in [artikel 27, tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md),  
+b. het op het bedrijf rustende productierecht is in de periode vanaf het tijdstip waarop de ontheffing is aangevraagd, niet verkleind, als gevolg van een registratie van een kennisgeving van een overgang van een productierecht, of gedeelte daarvan als bedoeld in artikel 27, tweede lid, van de wet,  
 
 c. de verbranding of de verwerking van de dierlijke meststoffen geschiedt op een naar het oordeel van de minister adequate wijze; en  
 
@@ -1833,7 +1866,7 @@ d. de installatie waarin de dierlijke meststoffen worden verbrand of verwerkt, h
 
 a. de installatie is overeenkomstig artikel 23, eerste lid of 24, eerste lid, van verordening (EG) nr. 1069/2009 geregistreerd respectievelijk erkend;  
 
-b. ten aanzien van de installatie is een vergunning als bedoeld in [artikel 8.1, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) of een omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) afgegeven;  
+b. ten aanzien van de installatie is een vergunning als bedoeld in artikel 8.1, eerste lid, van de Wet milieubeheer of een omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht afgegeven;  
 
 c. de installatie voldoet steeds aan de voorwaarden, bedoeld in artikel 117, onderdelen c en d;  
 
@@ -1850,7 +1883,7 @@ h. in de in onderdeel g bedoelde situatie voert de landbouwer de hoeveelheid die
 i. indien de verbranding of de verwerking van de dierlijke meststoffen niet op een adequate wijze kan geschieden als gevolg van een storing van de installatie, doet de landbouwer hiervan binnen drie dagen melding aan de minister; en  
 
 j. Wijzigingen in de ingevolge artikel 115 verstrekte gegevens worden uiterlijk 30 dagen na de datum van de wijziging, onder vermelding van het door de minister ter identificatie van het bedrijf verstrekte relatienummer, gemeld aan de minister.     
-2.  De landbouwer bewaart een afschrift van de overeenkomsten, bedoeld in het eerste lid, onderdelen f en g, als onderdeel van de administratie, bedoeld in [artikel 32 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).   
+2.  De landbouwer bewaart een afschrift van de overeenkomsten, bedoeld in het eerste lid, onderdelen f en g, als onderdeel van de administratie, bedoeld in artikel 32 van het besluit.   
 3.  Aan de ontheffing kunnen nadere voorschriften worden verbonden. 
 
 ###Artikel 119 
@@ -1860,14 +1893,14 @@ j. Wijzigingen in de ingevolge artikel 115 verstrekte gegevens worden uiterlijk 
 
 ###Artikel 120 
 
-1.  De ontheffing kan geheel of gedeeltelijk worden ingetrokken indien in strijd wordt gehandeld met één of meer bij of krachtens artikel 118 gestelde voorschriften of indien overigens in strijd wordt gehandeld met de bij of krachtens de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md).   
+1.  De ontheffing kan geheel of gedeeltelijk worden ingetrokken indien in strijd wordt gehandeld met één of meer bij of krachtens artikel 118 gestelde voorschriften of indien overigens in strijd wordt gehandeld met de bij of krachtens de Meststoffenwet.   
 2.  De ontheffing wordt ingetrokken indien de producent, die de aanvraag om ontheffing heeft ingediend, het bedrijf ten aanzien waarvan de ontheffing is verleend, niet langer voert.   
 3.  In afwijking van het tweede lid, gaan indien het gehele bedrijf ongewijzigd wordt voortgezet door een andere landbouwer de rechten en voorschriften verbonden aan de ontheffing op hem over indien partijen zulks ter zake van de registratie van de overgang van het op dat bedrijf rustende productierecht aan de minister hebben gemeld.   
 4.  De ontheffing vervalt indien niet binnen 36 of 18 maanden, te rekenen vanaf het tijdstip waarop over de aanvraag is beslist met de mestverbranding onderscheidenlijk mestverwerking is begonnen. 
 
 ###Artikel 121 
 
-Voor de toepassing van deze paragraaf wordt bij de bepaling van de omvang van het op een bedrijf rustende productierecht de beperking van de verkleining en de vergroting die ingevolge [artikel 28, derde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) plaatsvindt in het jaar waarin de kennisgeving van de overgang van een productierecht wordt geregistreerd, buiten beschouwing gelaten.
+Voor de toepassing van deze paragraaf wordt bij de bepaling van de omvang van het op een bedrijf rustende productierecht de beperking van de verkleining en de vergroting die ingevolge artikel 28, derde lid, van de wet plaatsvindt in het jaar waarin de kennisgeving van de overgang van een productierecht wordt geregistreerd, buiten beschouwing gelaten.
 
 ### Hoofdstuk  10a  
 
@@ -1911,9 +1944,9 @@ De resultaten van het controleprogramma worden opgenomen in het verslag, bedoeld
 
 ### Artikel  122  
 
-1.  De in [artikel 26, eerste lid, van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) en de in de artikelen 25, eerste, tweede, derde, vierde en zevende lid, 32, eerste lid, 35a, derde, vierde en vijfde lid, 37, eerste, tweede en vierde lid, 41, 42, 45, eerste, tweede en achtste lid, 48, 50, eerste, tweede, derde en vijfde lid, 52, 103b, tweede lid, 104, eerste lid, artikel 105, eerste lid, artikel 110, eerste lid, artikel 114, artikel 115 en artikel 119, tweede lid, bedoelde meldingen, verklaringen, verstrekking van gegevens, kennisgevingen, aanmeldingen ter registratie en aanvragen tot ontheffing geschieden door indiening bij de minister van het ingevulde en ondertekende daartoe bestemde formulier, dat door de minister wordt verstrekt.   
+1.  De in artikel 26, eerste lid, van het besluit en de in de artikelen 25, eerste, tweede, derde, vierde en zevende lid, 32, eerste lid, 35a, derde, vierde en vijfde lid, 37, eerste, tweede en vierde lid, 41, 42, 45, eerste, tweede en achtste lid, 48, 50, eerste, tweede, derde en vijfde lid, 52, 103b, tweede lid, 104, eerste lid, artikel 105, eerste lid, artikel 110, eerste lid, artikel 114, artikel 115 en artikel 119, tweede lid, bedoelde meldingen, verklaringen, verstrekking van gegevens, kennisgevingen, aanmeldingen ter registratie en aanvragen tot ontheffing geschieden door indiening bij de minister van het ingevulde en ondertekende daartoe bestemde formulier, dat door de minister wordt verstrekt.   
 2.  Indien de in het eerste lid bedoelde handelingen op elektronische wijze geschieden, wordt gebruik gemaakt van het door de minister daartoe ter beschikking gestelde elektronische portaal.   
-3.  De in [artikel 33b, vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) bedoelde elektronische verstrekking van gegevens, de in de artikelen 55, vierde lid, 56, 81, eerste lid, en 92b, vierde en vijfde lid, bedoelde elektronische verzending van gegevens, de in de artikelen 48, vijfde lid, 52, 57a en 58 bedoelde elektronische mededelingen en verstrekkingen van gegevens, de in de artikelen 28a, onderdeel e, en 35f, tweede lid, bedoelde elektronische aanmelding en de in de artikelen 64 en 69a, bedoelde elektronische indiening van gegevens geschieden met gebruikmaking van het door de minister daartoe ter beschikking gestelde elektronische portaal.   
+3.  De in artikel 33b, vijfde lid, van de wet bedoelde elektronische verstrekking van gegevens, de in de artikelen 55, vierde lid, 56, 81, eerste lid, en 92b, vierde en vijfde lid, bedoelde elektronische verzending van gegevens, de in de artikelen 48, vijfde lid, 52, 57a en 58 bedoelde elektronische mededelingen en verstrekkingen van gegevens, de in de artikelen 28a, onderdeel e, en 35f, tweede lid, bedoelde elektronische aanmelding en de in de artikelen 64 en 69a, bedoelde elektronische indiening van gegevens geschieden met gebruikmaking van het door de minister daartoe ter beschikking gestelde elektronische portaal.   
 4.  De elektronische verzending wordt door de vervoerder ondertekend door middel van een persoonlijke gebruikerscode, die overeenkomstig artikel 123 door de minister op naam van de desbetreffende vervoerder is geregistreerd.  
 
 ### Artikel  123  
@@ -1925,7 +1958,7 @@ De resultaten van het controleprogramma worden opgenomen in het verslag, bedoeld
 
 1.  Degene die ingevolge deze regeling gegevens in de administratie moet opnemen of uit de administratie moet verstrekken, doet dit volledig en naar waarheid.   
 2.  Het opnemen in of verstrekken uit de administratie van de in het eerste lid bedoelde gegevens geschiedt, voor zover niet uitdrukkelijk anders is bepaald, onverwijld nadat de gegevens bekend zijn bij degene die ze ingevolge deze regeling moet opnemen in of verstrekken uit de administratie.   
-3.  De in het eerste lid bedoelde gegevens worden niet gewijzigd in de administratie en worden bewaard als onderdeel van de administratie, bedoeld in de [artikelen 32](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md), [39](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) of [44 van het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).  
+3.  De in het eerste lid bedoelde gegevens worden niet gewijzigd in de administratie en worden bewaard als onderdeel van de administratie, bedoeld in de artikelen 32, 39 of 44 van het besluit.  
 
 ### Artikel  125  
 
@@ -1933,7 +1966,7 @@ Met een laboratorium als bedoeld in de artikelen 17, tweede lid, 18, tweede lid,
 
 ### Artikel  126  
 
-1.  Het verbod, bedoeld in [artikel 7 van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), is niet van toepassing op bedrijven, waarop [artikel 3.65](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) of [3.70 van het Besluit algemene regels voor inrichtingen milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) van toepassing is.   
+1.  Het verbod, bedoeld in artikel 7 van de wet, is niet van toepassing op bedrijven, waarop artikel 3.65 of 3.70 van het Besluit algemene regels voor inrichtingen milieubeheer van toepassing is.   
 2.  Op het bedrijf, of deel van het bedrijf, bedoeld in het eerste lid, wordt ten hoogste 170 kilogram stikstof in de vorm van dierlijke meststoffen op of in de bodem gebracht. 
 
 ### Artikel  127  
@@ -1942,11 +1975,11 @@ De voldoening aan de voorwaarden 30, 35, 43, 44, 92a, derde lid, en 126, tweede 
 
 ### Artikel  129  
 
-Met het toezicht op de naleving van het bepaalde bij of krachtens de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) zijn belast de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Economische Zaken, Landbouw en Innovatie. 
+Met het toezicht op de naleving van het bepaalde bij of krachtens de Meststoffenwet zijn belast de ambtenaren van de Algemene Inspectiedienst van het Ministerie van Economische Zaken, Landbouw en Innovatie. 
 
 ### Artikel  130  
 
-De hoogte van de bestuurlijke boete die overeenkomstig [artikel 51 van de Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) kan worden opgelegd, wordt vastgesteld overeenkomstig het bedrag dat in bijlage M voor de desbetreffende overtreding is vermeld. 
+De hoogte van de bestuurlijke boete die overeenkomstig artikel 51 van de Meststoffenwet kan worden opgelegd, wordt vastgesteld overeenkomstig het bedrag dat in bijlage M voor de desbetreffende overtreding is vermeld. 
 
 ### Artikel  131  
 
@@ -1954,11 +1987,11 @@ Wijzigt de Uitvoeringsregeling Invorderingswet 1990.
 
 ### Artikel  132  
 
-De volgende regelingen worden ingetrokken: a. de [Vrijstellingsregeling mestbe- en verwerking Meststoffenwet](../../../../ministeriele-regeling/vrijstellingsregeling/mestbe-/en/verwerking/meststoffenwet/BWBR0008485/README.md); b. de [Vaststellingsregeling aanvraagformulieren Besluit erkenning tussenpersonen, mestverwerkers en exporteurs Meststoffenwet](../../../../ministeriele-regeling/vaststelling/aanvraagformulieren/besluit/erkenning/tussenpersonen/etc/BWBR0013806/README.md); c. de [Regeling uitvoering heffingen en verrekening Meststoffenwet](../../../../ministeriele-regeling/regeling/uitvoering/heffingen/en/verrekening/meststoffenwet/BWBR0008480/README.md); d. de [Regeling landbouwgrond en natuurterrein Meststoffenwet](../../../../ministeriele-regeling/regeling/landbouwgrond/meststoffenwet/BWBR0009251/README.md); e. de [Regeling vrijstelling van de heffingen Meststoffenwet voor kleine bedrijven, tuinbouwbedrijven en tuincentra](../../../../ministeriele-regeling/vrijstelling/van/de/heffingen/meststoffenwet/voor/kleine/bedrijven/etc/BWBR0010206/README.md); f. de [Vrijstellingsregeling gestarte en uitgebreide bedrijven Meststoffenwet](../../../../ministeriele-regeling/vrijstellingsregeling/gestarte/en/uitgebreide/bedrijven/meststoffenwet/BWBR0011238/README.md); g. de [Vaststellingsregeling formulier grondgebruikersverklaring](../../../../ministeriele-regeling/vaststelling/formulier/grondgebruiksverklaring/BWBR0011148/README.md); h. de [Vaststellingsregeling formulier vrijstelling gestarte en uitgebreide bedrijven](../../../../ministeriele-regeling/vaststelling/formulier/vrijstelling/gestarte/en/uitgebreide/bedrijven/BWBR0012386/README.md); i. de [Beleidsregels bestuurlijke boeten Bureau Heffingen 1999](../../../../beleidsregel/beleidsregels/bestuurlijke/boeten/bureau/heffingen/1999/BWBR0010788/README.md); j. de [Beleidsregels Algemene wet bestuursrecht Bureau Heffingen](../../../../beleidsregel/beleidsregels/algemene/wet/bestuursrecht/bureau/heffingen/2003/BWBR0015976/README.md); k. de Vrijstellingsregeling gebruik dierlijke meststoffen 2005; en l. de [regeling van de Minister van Landbouw en Visserij van 17 december 1986, nr. J9110, houdende aanwijzing van toezichthoudende ambtenaren Meststoffenwet](../../../../ministeriele-regeling/aanwijzing/toezichthoudende/ambtenaren/meststoffenwet/BWBR0004065/README.md) (Stcrt. 246). 
+De volgende regelingen worden ingetrokken: a. de Vrijstellingsregeling mestbe- en verwerking Meststoffenwet; b. de Vaststellingsregeling aanvraagformulieren Besluit erkenning tussenpersonen, mestverwerkers en exporteurs Meststoffenwet; c. de Regeling uitvoering heffingen en verrekening Meststoffenwet; d. de Regeling landbouwgrond en natuurterrein Meststoffenwet; e. de Regeling vrijstelling van de heffingen Meststoffenwet voor kleine bedrijven, tuinbouwbedrijven en tuincentra; f. de Vrijstellingsregeling gestarte en uitgebreide bedrijven Meststoffenwet; g. de Vaststellingsregeling formulier grondgebruikersverklaring; h. de Vaststellingsregeling formulier vrijstelling gestarte en uitgebreide bedrijven; i. de Beleidsregels bestuurlijke boeten Bureau Heffingen 1999; j. de Beleidsregels Algemene wet bestuursrecht Bureau Heffingen; k. de Vrijstellingsregeling gebruik dierlijke meststoffen 2005; en l. de regeling van de Minister van Landbouw en Visserij van 17 december 1986, nr. J9110, houdende aanwijzing van toezichthoudende ambtenaren Meststoffenwet (Stcrt. 246). 
 
 ### Artikel  133  
 
-Indien een hypotheekhouder een bedrijf voor 1 januari 2006 heeft aangemeld overeenkomstig [artikel 5 van de Regeling leges en blokkade Wet herstructurering varkenshouderij](../../../../ministeriele-regeling/regeling/leges/en/blokkade/wet/herstructurering/varkenshouderij/BWBR0009801/README.md) of [artikel 3 van de Regeling leges en blokkade pluimveerechten](../../../../ministeriele-regeling/regeling/leges/en/blokkade/pluimveerechten/meststoffenwet/BWBR0012009/README.md), zoals deze artikelen luidden op 31 december 2005, wordt dit bedrijf in afwijking van artikel 106, eerste lid, voor de toepassing van artikel 105, zonder voorafgaand verzoek daartoe geregistreerd bij de minister. 
+Indien een hypotheekhouder een bedrijf voor 1 januari 2006 heeft aangemeld overeenkomstig artikel 5 van de Regeling leges en blokkade Wet herstructurering varkenshouderij of artikel 3 van de Regeling leges en blokkade pluimveerechten, zoals deze artikelen luidden op 31 december 2005, wordt dit bedrijf in afwijking van artikel 106, eerste lid, voor de toepassing van artikel 105, zonder voorafgaand verzoek daartoe geregistreerd bij de minister. 
 
 ### Artikel  135  
 
@@ -1978,9 +2011,9 @@ C.P. Veerman
 
 ### Bijlage 
 
-Tabel met de verschillende rechtsgrondslagen in de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md), de [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en het [Uitvoeringsbesluit Meststoffenwet](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) van de artikelen van de Uitvoeringsregeling Meststoffenwet  
+Tabel met de verschillende rechtsgrondslagen in de Meststoffenwet, de Wet bodembescherming en het Uitvoeringsbesluit Meststoffenwet van de artikelen van de Uitvoeringsregeling Meststoffenwet  
 
-| Artikel [meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md)  | Artikelen [Uitvoeringsbesluit Meststoffenwet](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md)  | Artikelen Uitvoeringsregeling Meststoffenwet  |
+| Artikel meststoffenwet  | Artikelen Uitvoeringsbesluit Meststoffenwet  | Artikelen Uitvoeringsregeling Meststoffenwet  |
 |:---|:---|:---|
 | 1, eerste lid, onderdeel f  | --- | 3  |
 | 5d (10 nieuw), eerste lid  | --- | 28  |
@@ -2036,7 +2069,7 @@ Tabel met de verschillende rechtsgrondslagen in de [Meststoffenwet](../../../../
 | --- | 36, onderdelen b en d, 41 onderdelen b en d, 46, onderdelen b en d  | 124  |
 | --- | 71  | 128  |
 | 69 (47 nieuw)  | --- | 129  |
-| Artikel [Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md)  | --- | Artikelen Uitvoeringsregeling Meststoffenwet  |
+| Artikel Wet bodembescherming  | --- | Artikelen Uitvoeringsregeling Meststoffenwet  |
 | 64  | --- | 134  |
 
 ### bijlage Aa  
@@ -2118,7 +2151,7 @@ I. Stoffen die als meststof kunnen worden verhandeld
 |  *A2*   |  *Gewas(-producten) voor de biogasproductie*   |
 | 1  | Energiemaïs  |
 |  *B*   |  *stoffen van plantaardige herkomst afkomstig van natuurterrein als bedoeld in artikel 1, eerste lid, onderdeel e, van het Besluit gebruik meststoffen*   |
-|1 |Weidegras en op het veld gedroogd weidegras afkomstig van grasland als bedoeld in [artikel 1, eerste lid, onderdeel c, van het Besluit gebruik meststoffen](../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md). |
+|1 |Weidegras en op het veld gedroogd weidegras afkomstig van grasland als bedoeld in artikel 1, eerste lid, onderdeel c, van het Besluit gebruik meststoffen. |
 |  *B1*   |  *Weidegras afkomstig van grasland als bedoeld in artikel 1, eerste lid, onderdeel c, van het Besluit gebruik meststoffen.*   |
 |  *C*   |  *Stoffen afkomstig uit de voedings- en genotmiddelenindustrie*   |
 |  *C1*   |  *Stoffen van plantaardige herkomst*   |
@@ -2171,7 +2204,7 @@ I. Stoffen die als meststof kunnen worden verhandeld
 |  *F*  |  *Hulpstoffen of toevoegmiddelen*   |
 | 1.  | Slib of steekvast slib dat vrijkomt bij de bereiding van drinkwater uit grondwater of oppervlaktewater via een zandbed en dat bestaat uit ijzer(III)hydroxide en water (waterijzer van drinkwaterbereiding). |
 |2.  |Slib of steekvast slib dat vrijkomt bij de bereiding van proceswater uit oppervlaktewater onder gebruik van een filterstap met actief kool en dat bestaat uit ijzer(III)hydroxide, water en organische stof (waterijzer van proceswaterbereiding). |
-| *G* |Stoffen waar de in [bijlage II, onder tabel 1, bij het besluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel en de in bijlage II, onder tabel 4, bij het besluit opgenomen maximale waarden voor organische microverontreinigingen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel voor gelden. |
+| *G* |Stoffen waar de in bijlage II, onder tabel 1, bij het besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel en de in bijlage II, onder tabel 4, bij het besluit opgenomen maximale waarden voor organische microverontreinigingen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel voor gelden. |
 | *G1* |Plantaardige stoffen en stoffen afkomstig van de verwerking van plantaardige producten |
 |1.  |Reststof die is verkregen bij de verwerking van aardappelen en die in hoofdzaak uit bestaat uit aardappel (Solanum tuberosum. L.) en aardappelresten en die vrij is van verpakkingsmateriaal. (aardappelrestanten). |
 |2. |Reststof die is verkregen bij het snijden, wassen of blancheren van groenten en fruit bestemd voor levensmiddelenproducten (groenten- en fruitrestanten). |
@@ -4424,7 +4457,7 @@ De uitkomst van de bepaling, het Pw-getal bij volumeverhouding 1:60 wordt uitged
 
 ####behorende bij artikel 130 
 
-| Wettelijke bepaling  | [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) (Mw)  | [Uitvoeringsbesluit](../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md) (UB)  | Uitvoeringsregeling (UR)  | Omschrijving regelovertreding  | Feitcode  | Hoogte bestuurlijke boete  |
+| Wettelijke bepaling  | Meststoffenwet (Mw)  | Uitvoeringsbesluit (UB)  | Uitvoeringsregeling (UR)  | Omschrijving regelovertreding  | Feitcode  | Hoogte bestuurlijke boete  |
 |:---|:---|:---|:---|:---|:---|:---|
 | Administratieve verplichtingen landbouwers  |
 | --- |

@@ -27,7 +27,7 @@ c.openbare lichamen: de openbare lichamen Bonaire, Sint Eustatius en Saba.
 
 1.  De vergoeding, bedoeld in artikel 1c, eerste lid, van de Wet Nationale ombudsman, bedraagt: 
 
-a. voor provincies: € 0,0055 per 1 januari 2014: € 0,060 per inwoner per jaar;  
+a. voor provincies: € 0,0055 per 1 januari 2014: € 0,0060 per inwoner per jaar;  
 
 b. voor gemeenten: € 0,1772 per 1 januari 2014: € 0,1947 per inwoner per jaar;  
 

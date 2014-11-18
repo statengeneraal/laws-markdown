@@ -6,12 +6,12 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister-President, Minister van Algemene Zaken d.d. 7 december 2005, nr. 05M480139;
 
-Gelet op [artikel 44, eerste lid, van de Grondwet](../../../../../../../../../../../../wet/grondwet/BWBR0001840/README.md);
+Gelet op artikel 44, eerste lid, van de Grondwet;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
 
-Onze Minister van Veiligheid en Justitie is belast met de taken en de uitoefening van de daaruit voortvloeiende bevoegdheden die ingevolge de in de bijlage bij dit besluit genoemde bepalingen toekomen aan een andere minister, voorzover de onverwijlde uitoefening daarvan noodzakelijk is om maatregelen te nemen ter voorkoming van een terroristisch misdrijf als bedoeld in [artikel 83 van het Wetboek van Strafrecht](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of om op voorhand de gevolgen daarvan te beperken en indien overleg of overeenstemming over die maatregelen tussen Onze Minister van Veiligheid en Justitie en die andere minister niet mogelijk is binnen de beschikbare tijd. 
+Onze Minister van Veiligheid en Justitie is belast met de taken en de uitoefening van de daaruit voortvloeiende bevoegdheden die ingevolge de in de bijlage bij dit besluit genoemde bepalingen toekomen aan een andere minister, voorzover de onverwijlde uitoefening daarvan noodzakelijk is om maatregelen te nemen ter voorkoming van een terroristisch misdrijf als bedoeld in artikel 83 van het Wetboek van Strafrecht of om op voorhand de gevolgen daarvan te beperken en indien overleg of overeenstemming over die maatregelen tussen Onze Minister van Veiligheid en Justitie en die andere minister niet mogelijk is binnen de beschikbare tijd. 
 
 ### Artikel  2  
 
@@ -50,24 +50,24 @@ J. P. H. Donner
 
 ####, bedoeld in artikel 1  van het Besluit, houdende tijdelijke herindeling van ministeriële taken in geval van een terroristische dreiging met een urgent karakter
 
-1. [Artikel 5 van de Havenbeveiligingswet](../../../../../../../../../../../../wet/havenbeveiligingswet/BWBR0016991/README.md).  
+1. Artikel 5 van de Havenbeveiligingswet.  
 
-2. De [artikelen 42](../../../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), [43a, eerste lid](../../../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), [46, eerste lid](../../../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md), [47](../../../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) en [48, eerste en tweede lid, van de Kernenergiewet](../../../../../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md).  
+2. De artikelen 42, 43a, eerste lid, 46, eerste lid, 47 en 48, eerste en tweede lid, van de Kernenergiewet.  
 
-3. [Artikel 67 van de Postwet 2009](../../../../../../../../../../../../wet/postwet/2009/BWBR0025572/README.md).  
+3. Artikel 67 van de Postwet 2009.  
 
-4. De [artikelen 14.1](../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md) en [18.9, eerste en tweede lid, van de Telecommunicatiewet](../../../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md).  
+4. De artikelen 14.1 en 18.9, eerste en tweede lid, van de Telecommunicatiewet.  
 
-5. [Artikel 2 van de Uitvoeringswet verdrag biologische wapens](../../../../../../../../../../../../wet/uitvoeringswet/verdrag/biologische/wapens/BWBR0003385/README.md).  
+5. Artikel 2 van de Uitvoeringswet verdrag biologische wapens.  
 
-6. De [artikelen 3, derde lid](../../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [48, tweede lid](../../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [59, eerste lid](../../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [62, tweede lid](../../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en [63, tweede lid, van de Vreemdelingenwet 2000](../../../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).  
+6. De artikelen 3, derde lid, 48, tweede lid, 59, eerste lid, 62, tweede lid, en 63, tweede lid, van de Vreemdelingenwet 2000.  
 
-7. De [artikelen 21, eerste en tweede lid](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), [32l, eerste en derde lid](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md), en [32m van de Warenwet](../../../../../../../../../../../../wet/warenwet/BWBR0001969/README.md).  
+7. De artikelen 21, eerste en tweede lid, 32l, eerste en derde lid, en 32m van de Warenwet.  
 
-8. [Artikel 23 van de Drinkwaterwet](../../../../../../../../../../../../wet/drinkwaterwet/BWBR0026338/README.md).  
+8. Artikel 23 van de Drinkwaterwet.  
 
-9. [Artikel 5.31, derde lid, van de Waterwet](../../../../../../../../../../../../wet/waterwet/BWBR0025458/README.md).  
+9. Artikel 5.31, derde lid, van de Waterwet.  
 
-10. De [artikelen 5.10, eerste lid](../../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [9.1 van de Wet luchtvaart](../../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).  
+10. De artikelen 5.10, eerste lid, en 9.1 van de Wet luchtvaart.  
 
-11. [Artikel 17.19 van de Wet milieubeheer](../../../../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).   
+11. Artikel 17.19 van de Wet milieubeheer.   

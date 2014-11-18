@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Verkeer en Waterstaat van 15 augustus 2007, nr. HDJZ/I&O/2007-904, Hoofddirectie Juridische Zaken;
 
-Gelet op de [artikelen 18, vierde lid](../../../wet/waterschapswet/BWBR0005108/README.md), [19, tweede en derde lid](../../../wet/waterschapswet/BWBR0005108/README.md), [20, tweede en vierde lid](../../../wet/waterschapswet/BWBR0005108/README.md), [21, eerste en vijfde lid](../../../wet/waterschapswet/BWBR0005108/README.md), [24, tweede en derde lid](../../../wet/waterschapswet/BWBR0005108/README.md), [25](../../../wet/waterschapswet/BWBR0005108/README.md), [29, eerste lid](../../../wet/waterschapswet/BWBR0005108/README.md), [32a](../../../wet/waterschapswet/BWBR0005108/README.md), [44, eerste lid](../../../wet/waterschapswet/BWBR0005108/README.md), [49, eerste en tweede lid](../../../wet/waterschapswet/BWBR0005108/README.md), [98a, eerste en tweede lid](../../../wet/waterschapswet/BWBR0005108/README.md), [109, zesde lid](../../../wet/waterschapswet/BWBR0005108/README.md), [120, vierde lid](../../../wet/waterschapswet/BWBR0005108/README.md), [122g](../../../wet/waterschapswet/BWBR0005108/README.md), [122k, tweede lid](../../../wet/waterschapswet/BWBR0005108/README.md), en [126a van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md);
+Gelet op de artikelen 18, vierde lid, 19, tweede en derde lid, 20, tweede en vierde lid, 21, eerste en vijfde lid, 24, tweede en derde lid, 25, 29, eerste lid, 32a, 44, eerste lid, 49, eerste en tweede lid, 98a, eerste en tweede lid, 109, zesde lid, 120, vierde lid, 122g, 122k, tweede lid, en 126a van de Waterschapswet;
 
 De Raad van State gehoord (advies van 8 oktober 2007, nr. W09.07.0306/IV);
 
@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1.1  
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  *Onze Minister*: Onze Minister van Verkeer en Waterstaat;  *wet*: [Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md). 
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  *Onze Minister*: Onze Minister van Verkeer en Waterstaat;  *wet*: Waterschapswet. 
 
 ### Hoofdstuk  2  
 
@@ -85,7 +85,7 @@ De kandidaatstelling voor de verkiezing vindt plaats op de dinsdag in de periode
 2.  Vóór het indienen van het in het eerste lid bedoelde verzoek om registratie wordt een waarborgsom van € 225,– betaald aan het waterschap. Deze waarborgsom dient te worden overgemaakt naar de door het dagelijks bestuur aangewezen rekening van het waterschap bij een bank, onder vermelding van de woorden «waarborgsom registratie» en met vermelding van de naam van de belangengroepering. Na inlevering van een geldige kandidatenlijst voor de eerstkomende verkiezing na de beslissing op het verzoek wordt hem de waarborgsom zo spoedig mogelijk teruggegeven. Over de terug te betalen waarborgsommen wordt geen rente vergoed.   
 3.  Bij het verzoek worden overgelegd: 
 
-a. een afschrift van de notariële akte waarin de statuten van de belangengroepering zijn opgenomen en een uiterlijk zes maanden voor de indiening van het verzoek afgegeven bewijs van inschrijving in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](../../../wet/handelsregisterwet/1996/BWBR0007893/README.md);  
+a. een afschrift van de notariële akte waarin de statuten van de belangengroepering zijn opgenomen en een uiterlijk zes maanden voor de indiening van het verzoek afgegeven bewijs van inschrijving in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 1996;  
 
 b. een bewijs van betaling;  
 
@@ -133,7 +133,7 @@ Uiterlijk op de veertiende dag voor de kandidaatstelling brengt het stembureau d
 ### Artikel  2.14  
 
 1.  Tegen een beschikking als bedoeld in de artikelen 2.10, 2.11 of 2.12, kan een belanghebbende beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt een beroepschrift ingevolge [die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) tegen een beschikking als bedoeld in het eerste lid ingediend uiterlijk op de zesde dag na de dagtekening van het dag- of nieuwsblad waarin de beschikking is opgenomen.  
+2.  In afwijking van artikel 6:7 van de Algemene wet bestuursrecht wordt een beroepschrift ingevolge die wet tegen een beschikking als bedoeld in het eerste lid ingediend uiterlijk op de zesde dag na de dagtekening van het dag- of nieuwsblad waarin de beschikking is opgenomen.  
 
 ### Artikel  2.15  
 
@@ -153,7 +153,7 @@ Bij ministeriële regeling kunnen modellen worden vastgesteld voor de registers 
 
 1.  Een kandidaat wordt op de kandidatenlijst vermeld met naam, voorletters, geboortedatum, adres en woonplaats. Achter de voorletters kan tussen haakjes de roepnaam van de kandidaat worden vermeld.   
 2.  Nadere aanduidingen van de naam, mits op de gebruikelijke wijze afgekort, mogen aan de naam worden toegevoegd.   
-3.  Een persoon die gehuwd is of gehuwd is geweest, dan wel wiens partnerschap geregistreerd is of geregistreerd is geweest, wordt op de lijst vermeld hetzij met de eigen geslachtsnaam, hetzij, voor zover hij daartoe op grond van [artikel 9 van Boek 1 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) bevoegd is, met de geslachtsnaam van de echtgenoot of geregistreerde partner, dan wel met de eigen geslachtsnaam door middel van een liggend streepje gevolgd door of voorafgegaan door de geslachtsnaam van de echtgenoot of geregistreerde partner.   
+3.  Een persoon die gehuwd is of gehuwd is geweest, dan wel wiens partnerschap geregistreerd is of geregistreerd is geweest, wordt op de lijst vermeld hetzij met de eigen geslachtsnaam, hetzij, voor zover hij daartoe op grond van artikel 9 van Boek 1 van het Burgerlijk Wetboek bevoegd is, met de geslachtsnaam van de echtgenoot of geregistreerde partner, dan wel met de eigen geslachtsnaam door middel van een liggend streepje gevolgd door of voorafgegaan door de geslachtsnaam van de echtgenoot of geregistreerde partner.   
 4.  Achter de voorletters of, indien vermeld, de roepnaam, mag ter aanduiding van het geslacht van de kandidaat de toevoeging «(m)» of «(v)» worden geplaatst.   
 5.  Indien het betreft de verkiezing van de leden van het algemeen bestuur van een waterschap geheel of gedeeltelijk in de provincie Friesland gelegen, mogen aanduidingen op de kandidatenlijst in de Friese taal worden vermeld.  
 
@@ -292,7 +292,7 @@ Indien de aanduiding van een belangengroepering niet in overeenstemming is met d
 ### Artikel  2.35  
 
 1.  Tegen een beschikking als bedoeld in artikel 2.31 kan een belanghebbende en iedere kiezer beroep instellen bij de Afdeling bestuursrechtspraak van de Raad van State.   
-2.  In afwijking van [artikel 6:7 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedraagt de termijn voor het indienen van een beroepschrift vier dagen.   
+2.  In afwijking van artikel 6:7 van de Algemene wet bestuursrecht bedraagt de termijn voor het indienen van een beroepschrift vier dagen.   
 3.  De Afdeling doet uitspraak uiterlijk op de zesde dag nadat het beroepschrift is ontvangen.   
 4.  Indien de uitspraak van de Afdeling strekt tot gegrondverklaring van het beroep, bepaalt zij dat haar uitspraak in de plaats treedt van de vernietigde beschikking.   
 5.  De voorzitter van de Afdeling stelt partijen en de voorzitter van het stembureau onverwijld in kennis van de uitspraak.  
@@ -805,7 +805,7 @@ De beslissing betreffende de toelating van de tot lid van het algemeen bestuur b
 ### Artikel  2.107  
 
 1.  Indien op het tijdstip van aftreding van de leden de goedkeuring van de geloofsbrieven van meer dan de helft van het bij reglement voorgeschreven aantal leden niet onherroepelijk is geworden, houden de leden zitting, totdat zulks is geschied. Gedurende deze tijd oefenen de bij de verkiezing gekozen leden hun functie niet uit.   
-2.  Het eerste lid is van overeenkomstige toepassing op het tijdstip van instelling van een waterschap, met dien verstande dat gedurende deze tijd de leden van het ingevolge [artikel 28, eerste lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md) aangewezen waterschap zitting houden. Het dagelijks bestuur en het algemeen bestuur nemen gedurende deze tijd slechts besluiten die geen uitstel kunnen lijden.  
+2.  Het eerste lid is van overeenkomstige toepassing op het tijdstip van instelling van een waterschap, met dien verstande dat gedurende deze tijd de leden van het ingevolge artikel 28, eerste lid, van de wet aangewezen waterschap zitting houden. Het dagelijks bestuur en het algemeen bestuur nemen gedurende deze tijd slechts besluiten die geen uitstel kunnen lijden.  
 3.  Een plaats die openvalt na het tijdstip van aftreding, wordt vervuld op dezelfde wijze, als zou zijn geschied, indien zij voor dat tijdstip zou zijn opengevallen.  
 
 ### §  18  
@@ -832,7 +832,7 @@ e. die lid is van het algemeen bestuur of als zodanig benoemd is verklaard, terw
 
 f. van wie door de voorzitter van het stembureau een schriftelijke verklaring is ontvangen dat hij niet voor benoeming in aanmerking wenst te komen;  
 
-g. die niet benoembaar is ingevolge [artikel 31 van de wet](../../../wet/waterschapswet/BWBR0005108/README.md).     
+g. die niet benoembaar is ingevolge artikel 31 van de wet.     
 2.  Een verklaring als bedoeld in het eerste lid, onderdeel f, kan worden ingetrokken.  
 
 ### Artikel  2.110  
@@ -859,7 +859,7 @@ Iedere benoeming die met toepassing van deze paragraaf geschiedt, wordt terstond
 
 ### Artikel  2.114  
 
-1.  Indien sprake is van de situatie, bedoeld in [artikel 31, derde lid](../../../wet/waterschapswet/BWBR0005108/README.md), of [artikel 33, vierde lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md), geeft de voorzitter van het waterschap hiervan onverwijld kennis aan de voorzitter van het stembureau.   
+1.  Indien sprake is van de situatie, bedoeld in artikel 31, derde lid, of artikel 33, vierde lid, van de wet, geeft de voorzitter van het waterschap hiervan onverwijld kennis aan de voorzitter van het stembureau.   
 2.  Een overeenkomstige kennisgeving vindt plaats, indien door overlijden van een lid een plaats in het algemeen bestuur is opengevallen.  
 
 ### Artikel  2.115  
@@ -874,7 +874,7 @@ Het lid dat zijn ontslag heeft ingezonden, houdt op lid te zijn met ingang van d
 
 ### Artikel  2.117  
 
-Artikel 2.14 is van toepassing op een besluit als bedoeld in de [artikelen X 5](../../../wet/kieswet/BWBR0004627/README.md) en [X 8 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) ingeval de situatie genoemd in de [artikelen 31, derde lid](../../../wet/waterschapswet/BWBR0005108/README.md), en [33, vierde lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md) optreedt. 
+Artikel 2.14 is van toepassing op een besluit als bedoeld in de artikelen X 5 en X 8 van de Kieswet ingeval de situatie genoemd in de artikelen 31, derde lid, en 33, vierde lid, van de wet optreedt. 
 
 ### §  20  
 
@@ -910,11 +910,11 @@ Een openbare kennisgeving, als bedoeld in de artikelen 2.1, derde lid, 2.13, 2.1
 
 ### Artikel  2.122  
 
-Een besluit als bedoeld in de artikelen 2.10, 2.11, 2.12, 2.31, 2.117, alsmede een besluit dat is genomen op grond van de ministeriële regeling, bedoeld in artikel 2.45, derde lid, is een besluit als bedoeld in [artikel 21, eerste lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md). 
+Een besluit als bedoeld in de artikelen 2.10, 2.11, 2.12, 2.31, 2.117, alsmede een besluit dat is genomen op grond van de ministeriële regeling, bedoeld in artikel 2.45, derde lid, is een besluit als bedoeld in artikel 21, eerste lid, van de wet. 
 
 ### Artikel  2.123  
 
-De paragrafen 17 tot en met 20 zijn van overeenkomstige toepassing op de leden van het algemeen bestuur die zijn benoemd door de organisaties, bedoeld in [artikel 14 van de wet](../../../wet/waterschapswet/BWBR0005108/README.md). 
+De paragrafen 17 tot en met 20 zijn van overeenkomstige toepassing op de leden van het algemeen bestuur die zijn benoemd door de organisaties, bedoeld in artikel 14 van de wet. 
 
 ### Artikel  2.124  
 
@@ -930,7 +930,7 @@ Bij de instelling van een waterschap kan bij reglement worden bepaald dat wordt 
 
 ### Artikel  3.1  
 
-1.  In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:  *bezoldiging*: bedrag per maand waarop een voorzitter of een lid van het dagelijks bestuur aanspraak kan maken;  *FPU-uitkering*: de uitkering op grond van de Regeling flexibel pensioen en uittreden, bedoeld in artikel 3 van de Centrale vut-overeenkomst overheids- en onderwijspersoneel en artikel 1.5 van het Pensioenreglement van de Stichting pensioenfonds ABP, waarbij onder de Centrale vut-overeenkomst overheids- en onderwijspersoneel wordt verstaan de overeenkomst die is aangegaan op grond van [artikel 2 van de Wet kaderregeling vut overheidspersoneel](../../../wet/wet/kaderregeling/vut/overheidspersoneel/BWBR0007792/README.md) en onder het Pensioenreglement van de Stichting pensioenfonds ABP wordt verstaan het reglement van die stichting dat is vastgesteld met inachtneming van de overeenkomst, bedoeld in [artikel 4, eerste lid, van de Wet privatisering ABP](../../../wet/wet/privatisering/abp/BWBR0007791/README.md);  *lid van het algemeen bestuur*: lid van het algemeen bestuur van een waterschap, dat niet tevens lid van het dagelijks bestuur van dat waterschap is;  *lid van het dagelijks bestuur*: lid van het dagelijks bestuur van een waterschap, dat niet tevens voorzitter is van dat waterschap;  *plaatsvervangend voorzitter*: het lid van het dagelijks bestuur dat tot plaatsvervanger van de voorzitter is aangewezen;  *salarisschaal*: een als zodanig in [bijlage B van Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) vermelde reeks van genummerde salarissen;  *tijdsbestedingsnorm*: het deel van de werkweek dat de voorzitter en het lid van het dagelijks bestuur in staat dienen te worden gesteld aan hun ambt te besteden, uitgedrukt in een percentage van een voltijdsfunctie;   *tijdstip van beëindiging van het lidmaatschap van het algemeen bestuur*: tijdstip van beëindiging van het lidmaatschap, bedoeld in de [artikelen 23, tweede lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md), [artikel 33, vierde lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md) juncto [artikel X 8, eerste tot en met vijfde lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), en de artikelen 2.114 en 2.116;  *tijdstip van beëindiging van het lidmaatschap van het dagelijks bestuur*: tijdstip van beëindiging van het lidmaatschap van het algemeen bestuur en het tijdstip van beëindiging, bedoeld in [artikel 41, vierde en vijfde lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md);  *vergoeding*: maandelijkse vergoeding voor de werkzaamheden verbonden aan het lidmaatschap van het algemeen bestuur.   
+1.  In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:  *bezoldiging*: bedrag per maand waarop een voorzitter of een lid van het dagelijks bestuur aanspraak kan maken;  *FPU-uitkering*: de uitkering op grond van de Regeling flexibel pensioen en uittreden, bedoeld in artikel 3 van de Centrale vut-overeenkomst overheids- en onderwijspersoneel en artikel 1.5 van het Pensioenreglement van de Stichting pensioenfonds ABP, waarbij onder de Centrale vut-overeenkomst overheids- en onderwijspersoneel wordt verstaan de overeenkomst die is aangegaan op grond van artikel 2 van de Wet kaderregeling vut overheidspersoneel en onder het Pensioenreglement van de Stichting pensioenfonds ABP wordt verstaan het reglement van die stichting dat is vastgesteld met inachtneming van de overeenkomst, bedoeld in artikel 4, eerste lid, van de Wet privatisering ABP;  *lid van het algemeen bestuur*: lid van het algemeen bestuur van een waterschap, dat niet tevens lid van het dagelijks bestuur van dat waterschap is;  *lid van het dagelijks bestuur*: lid van het dagelijks bestuur van een waterschap, dat niet tevens voorzitter is van dat waterschap;  *plaatsvervangend voorzitter*: het lid van het dagelijks bestuur dat tot plaatsvervanger van de voorzitter is aangewezen;  *salarisschaal*: een als zodanig in bijlage B van Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 vermelde reeks van genummerde salarissen;  *tijdsbestedingsnorm*: het deel van de werkweek dat de voorzitter en het lid van het dagelijks bestuur in staat dienen te worden gesteld aan hun ambt te besteden, uitgedrukt in een percentage van een voltijdsfunctie;   *tijdstip van beëindiging van het lidmaatschap van het algemeen bestuur*: tijdstip van beëindiging van het lidmaatschap, bedoeld in de artikelen 23, tweede lid, van de wet, artikel 33, vierde lid, van de wet juncto artikel X 8, eerste tot en met vijfde lid, van de Kieswet, en de artikelen 2.114 en 2.116;  *tijdstip van beëindiging van het lidmaatschap van het dagelijks bestuur*: tijdstip van beëindiging van het lidmaatschap van het algemeen bestuur en het tijdstip van beëindiging, bedoeld in artikel 41, vierde en vijfde lid, van de wet;  *vergoeding*: maandelijkse vergoeding voor de werkzaamheden verbonden aan het lidmaatschap van het algemeen bestuur.   
 2.  In dit hoofdstuk wordt onder het provinciaal bestuur onderscheidenlijk (het college van) gedeputeerde staten verstaan het provinciaal bestuur onderscheidenlijk (het college of de colleges van) gedeputeerde staten van de provincie of de provincies waarin het waterschap is gelegen.  
 
 ### §  2  
@@ -970,8 +970,12 @@ Het algemeen bestuur kan nadere regels stellen over het ter beschikking stellen 
 
 ### Artikel  3.8  
 
-1.  Een lid van het algemeen bestuur ontvangt ten laste van het waterschap een tegemoetkoming in de kosten van een ziektekostenverzekering van € 203,21 per jaar.   
+1.  Een lid van het algemeen bestuur ontvangt ten laste van het waterschap een tegemoetkoming in de kosten van een ziektekostenverzekering van € 97,54 per jaar.   
 2.  Het in het eerste lid genoemde bedrag wordt bij ministeriële regeling gewijzigd overeenkomstig de wijzigingen die de bezoldiging van het personeel in de sector Rijk ondergaat.  
+
+### Artikel  3.8aa  
+
+Ten aanzien van individuele gevallen kan het dagelijks bestuur artikel 3.8, eerste lid, buiten toepassing laten of daarvan afwijken voor zover toepassing van de in het Correctiebesluit in verband met het schrappen van de tegemoetkoming ziektekostenverzekering commissieleden (Stb. 2014, 431) aan dit artikellid verleende terugwerkende kracht, zal leiden tot een onbillijkheid van overwegende aard. 
 
 ### Artikel  3.8a  
 
@@ -999,8 +1003,8 @@ b. voor zover de ziekte of het dienstongeval niet aan eigen schuld of onvoorzich
 
 ### Artikel  3.9a  
 
-1.  Het dagelijks bestuur kent een lid van het algemeen bestuur dat naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van het waterschap op aanvraag een tegemoetkoming toe voor een voorziening als bedoeld in [artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
-2.  Het gestelde bij of krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.  
+1.  Het dagelijks bestuur kent een lid van het algemeen bestuur dat naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van het waterschap op aanvraag een tegemoetkoming toe voor een voorziening als bedoeld in artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen.   
+2.  Het gestelde bij of krachtens artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.  
 
 ### Artikel  3.10  
 
@@ -1009,13 +1013,13 @@ b. voor zover de ziekte of het dienstongeval niet aan eigen schuld of onvoorzich
 
 ### Artikel  3.10a  
 
-1.  In het geval een lid van het algemeen bestuur een uitkering op grond van de [Werkloosheidswet](../../../wet/werkloosheidswet/BWBR0004045/README.md) ontvangt en de na toepassing van [artikel 20 van die wet](../../../wet/werkloosheidswet/BWBR0004045/README.md) ontstane korting op deze uitkering ten gevolge van het uitoefenen van de functie meer bedraagt dan de vergoeding, bedoeld in artikel 3.2, wordt deze vergoeding ten laste van het waterschap verhoogd tot het bedrag van bedoelde korting.   
-2.  In het geval dat een lid van het algemeen bestuur een uitkering op grond van het [Besluit Werkloosheid onderwijs- en onderzoekpersoneel](../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) ontvangt en de na toepassing van [artikel 6, vierde lid, van dat besluit](../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) ontstane korting op deze uitkering ten gevolge van het uitoefenen van de functie meer bedraagt dan de vergoeding, bedoeld in artikel 3.2, wordt deze vergoeding ten laste van het waterschap verhoogd tot het bedrag van bedoelde korting.   
+1.  In het geval een lid van het algemeen bestuur een uitkering op grond van de Werkloosheidswet ontvangt en de na toepassing van artikel 20 van die wet ontstane korting op deze uitkering ten gevolge van het uitoefenen van de functie meer bedraagt dan de vergoeding, bedoeld in artikel 3.2, wordt deze vergoeding ten laste van het waterschap verhoogd tot het bedrag van bedoelde korting.   
+2.  In het geval dat een lid van het algemeen bestuur een uitkering op grond van het Besluit Werkloosheid onderwijs- en onderzoekpersoneel ontvangt en de na toepassing van artikel 6, vierde lid, van dat besluit ontstane korting op deze uitkering ten gevolge van het uitoefenen van de functie meer bedraagt dan de vergoeding, bedoeld in artikel 3.2, wordt deze vergoeding ten laste van het waterschap verhoogd tot het bedrag van bedoelde korting.   
 3.  In het geval een lid van het algemeen bestuur een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding, bedoeld in artikel 3.2, op verzoek van het desbetreffende lid worden verlaagd.  
 
 ### Artikel  3.10b  
 
-Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) worden aangewezen de vergoedingen, bedoeld in de artikelen 3.9, eerste, tweede en vierde lid. 
+Als eindheffingsbestanddeel als bedoeld in artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964 worden aangewezen de vergoedingen, bedoeld in de artikelen 3.9, eerste, tweede en vierde lid. 
 
 ### Artikel  3.10c  
 
@@ -1035,7 +1039,7 @@ Indien het dagelijks bestuur ten behoeve van een veilige woon- en werkplek van e
 
 1.  Een lid van het dagelijks bestuur ontvangt een onkostenvergoeding ten bedrage van € 345 per maand, naar evenredigheid van de vastgestelde tijdsbestedingsnorm.   
 2.  Het bedrag, genoemd in het eerste lid, wordt per 1 januari van elk jaar gewijzigd aan de hand van de consumentenprijsindex geldend voor de maand september van het voorafgaande kalenderjaar.   
-3.  De vergoeding, bedoeld in het eerste lid, wordt als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) aangewezen.  
+3.  De vergoeding, bedoeld in het eerste lid, wordt als eindheffingsbestanddeel als bedoeld in artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964 aangewezen.  
 
 ### Artikel  3.12  
 
@@ -1155,7 +1159,7 @@ De aanspraak op de bezoldiging begint op de dag dat de benoeming ingaat en eindi
 
 ### Artikel  3.26a  
 
-Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) worden aangewezen: 
+Als eindheffingsbestanddeel als bedoeld in artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964 worden aangewezen: 
 
 a. de verstrekkingen, bedoeld in artikel 3.15, eerste lid;  
 
@@ -1172,11 +1176,11 @@ Een voorzitter die geschorst is, behoudt gedurende de schorsing zijn bezoldiging
 
 ### Artikel  3.29  
 
-Bij de toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): 
+Bij de toepassing van artikel 39c van de Wet op de loonbelasting 1964: 
 
 a. verstrekt het dagelijks bestuur op aanvraag een vergoeding voor de belastingheffing als gevolg van de verstrekkingen, bedoeld in artikel 3.15, eerste lid;  
 
-b. wordt het bedrag, genoemd in de artikelen 3.8, eerste lid, 3.9, eerste, tweede en vierde lid, 3.11a, eerste lid, en 3.26, eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md); en  
+b. wordt het bedrag, genoemd in de artikelen 3.8, eerste lid, 3.9, eerste, tweede en vierde lid, 3.11a, eerste lid, en 3.26, eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001; en  
 
 c. blijven de artikelen 3.10b, 3.11a, derde lid, en 3.26a buiten toepassing.   
 
@@ -1190,7 +1194,7 @@ De voorzitter geniet bedrijfsgeneeskundige begeleiding overeenkomstig de voor he
 
 ### Artikel  3.34  
 
-Degene die op grond van [artikel 51a van de wet](../../../wet/waterschapswet/BWBR0005108/README.md), gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van voorzitter is belast geweest, geniet voor die tijd, ten laste van het waterschap, een vergoeding ten bedrage van de voor dat ambt vastgestelde bezoldiging. Indien de waarneming geschiedt door een lid van het dagelijks bestuur wordt de vergoeding verminderd met hetgeen als lid van het dagelijks bestuur aan bezoldiging wordt ontvangen. 
+Degene die op grond van artikel 51a van de wet, gedurende meer dan dertig dagen onafgebroken met de waarneming van het ambt van voorzitter is belast geweest, geniet voor die tijd, ten laste van het waterschap, een vergoeding ten bedrage van de voor dat ambt vastgestelde bezoldiging. Indien de waarneming geschiedt door een lid van het dagelijks bestuur wordt de vergoeding verminderd met hetgeen als lid van het dagelijks bestuur aan bezoldiging wordt ontvangen. 
 
 ### Artikel  3.35  
 
@@ -1221,7 +1225,7 @@ Aan de voorzitter wordt een ambtsjubileumgratificatie en een dienstjubileumgrati
 ### Artikel  3.40  
 
 1.  Zo spoedig mogelijk na het overlijden van de voorzitter wordt aan de weduwe of weduwnaar van wie de overleden voorzitter niet duurzaam gescheiden leefde ten laste van het waterschap een bedrag uitgekeerd, gelijk aan de bezoldiging, vermeerderd met de vakantie-uitkering, over drie maanden, berekend naar het tijdstip van overlijden. Indien de overledene geen weduwe of weduwnaar van wie de overleden voorzitter niet duurzaam gescheiden leefde nalaat, geschiedt de uitkering ten behoeve van de minderjarige wettige of natuurlijke kinderen, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of gedeeltelijk afhankelijk waren van de bezoldiging van de voorzitter.   
-2.  Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden voorzitter ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in [artikel 3, derde en vierde lid, van de Algemene nabestaandenwet](../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).  
+2.  Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden voorzitter ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in artikel 3, derde en vierde lid, van de Algemene nabestaandenwet.  
 
 ### Artikel  3.41  
 
@@ -1237,7 +1241,7 @@ De artikelen 3.9, tweede tot en met vierde lid, 3.9a, 3.10b, 3.10c, 3.12a tot en
 
 ### Artikel  4.1  
 
-In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:  *begroting na wijziging*: de begroting zoals deze luidt na verwerking van alle door het algemeen bestuur lopende het begrotingsjaar vastgestelde begrotingswijzigingen;  *CBS*: Centraal Bureau voor de Statistiek;  *deelneming*: een participatie in een besloten of naamloze vennootschap, waarin het waterschap aandelen heeft;  *EMU*: de Economische en Monetaire Unie;  *EMU-saldo*: het vorderingensaldo op transactiebasis van de gehele sector overheid, met inbegrip van de centrale overheid, sociale fondsen en lokale overheden;  *financieel belang*: een aan de verbonden partij ter beschikking gesteld bedrag dat niet verhaalbaar is indien de verbonden partij failliet gaat onderscheidenlijk het bedrag waarvoor aansprakelijkheid bestaat indien de verbonden partij haar verplichtingen niet nakomt;  *kosten- en opbrengstsoorten*: indeling waarmee de lasten en baten naar hun aard worden gerangschikt;  *kostendragers*: indeling waarmee de netto-kosten worden gerangschikt naar de taken die in het reglement aan het waterschap worden opgedragen of door het algemeen bestuur worden onderscheiden en waarvoor een aparte belasting wordt geheven;  *netto-kosten*: kosten die aan een bepaald programma, een bepaald product of een bepaalde kostendrager worden toegerekend en waarvan zijn afgetrokken de baten (met uitzondering van de belastingopbrengsten en andere algemene opbrengsten) die aan hetzelfde programma of product danwel dezelfde kostendrager worden toegerekend;  *openbare lichamen:* openbare lichamen als bedoeld in [artikel 1, onderdeel a, van de Wet financiering decentrale overheden](../../../wet/wet/financiering/decentrale/overheden/BWBR0011987/README.md); *programma*: een samenhangend geheel van activiteiten;  *verbonden partij*: een privaatrechtelijke of publiekrechtelijke organisatie waarin het waterschap een bestuurlijk en een financieel belang heeft. Onder bestuurlijk belang wordt verstaan zeggenschap, hetzij uit hoofde van vertegenwoordiging in het bestuur hetzij uit hoofde van stemrecht. 
+In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder:  *begroting na wijziging*: de begroting zoals deze luidt na verwerking van alle door het algemeen bestuur lopende het begrotingsjaar vastgestelde begrotingswijzigingen;  *CBS*: Centraal Bureau voor de Statistiek;  *deelneming*: een participatie in een besloten of naamloze vennootschap, waarin het waterschap aandelen heeft;  *EMU*: de Economische en Monetaire Unie;  *EMU-saldo*: het vorderingensaldo op transactiebasis van de gehele sector overheid, met inbegrip van de centrale overheid, sociale fondsen en lokale overheden;  *financieel belang*: een aan de verbonden partij ter beschikking gesteld bedrag dat niet verhaalbaar is indien de verbonden partij failliet gaat onderscheidenlijk het bedrag waarvoor aansprakelijkheid bestaat indien de verbonden partij haar verplichtingen niet nakomt;  *kosten- en opbrengstsoorten*: indeling waarmee de lasten en baten naar hun aard worden gerangschikt;  *kostendragers*: indeling waarmee de netto-kosten worden gerangschikt naar de taken die in het reglement aan het waterschap worden opgedragen of door het algemeen bestuur worden onderscheiden en waarvoor een aparte belasting wordt geheven;  *netto-kosten*: kosten die aan een bepaald programma, een bepaald product of een bepaalde kostendrager worden toegerekend en waarvan zijn afgetrokken de baten (met uitzondering van de belastingopbrengsten en andere algemene opbrengsten) die aan hetzelfde programma of product danwel dezelfde kostendrager worden toegerekend;  *openbare lichamen:* openbare lichamen als bedoeld in artikel 1, onderdeel a, van de Wet financiering decentrale overheden; *programma*: een samenhangend geheel van activiteiten;  *verbonden partij*: een privaatrechtelijke of publiekrechtelijke organisatie waarin het waterschap een bestuurlijk en een financieel belang heeft. Onder bestuurlijk belang wordt verstaan zeggenschap, hetzij uit hoofde van vertegenwoordiging in het bestuur hetzij uit hoofde van stemrecht. 
 
 ### Artikel  4.2  
 
@@ -1533,7 +1537,7 @@ d. belangrijke afwijkingen tussen de realisatie in de jaarverslaggeving en de pl
 
 1.  Het jaarverslag bevat ten minste de paragrafen die ingevolge artikel 4.11, in de begroting zijn opgenomen, met dien verstande dat in plaats van onderdeel a van dat artikel een paragraaf betreffende de ontwikkelingen in het vorig begrotingsjaar wordt opgenomen, met uitzondering van de onderdelen b en d, van dat artikel, alsmede een paragraaf betreffende topinkomens. Ze bevatten de verantwoording van hetgeen in de overeenkomstige paragrafen in de begroting is opgenomen.   
 2.  In de paragraaf betreffende het EMU-saldo wordt de in artikel 4.22 bedoelde specificatie opgenomen voor het begrotingsjaar en volgens de realisatie van het vorige begrotingsjaar.   
-3.  In de paragraaf betreffende topinkomens wordt de informatie opgenomen, bedoeld in de [artikelen 4.1, eerste en tweede lid](../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), en [4.2, eerste, tweede en derde lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md).  
+3.  In de paragraaf betreffende topinkomens wordt de informatie opgenomen, bedoeld in de artikelen 4.1, eerste en tweede lid, en 4.2, eerste, tweede en derde lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.  
 
 ### Artikel  4.31  
 
@@ -2094,17 +2098,17 @@ Indien de informatie voor derden niet voldoende inzicht biedt, kan Onze Minister
 
 ### Artikel  5.1  
 
-In dit hoofdstuk wordt verstaan onder:  *accountant*: de accountant, bedoeld in [artikel 109, tweede lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md);  *deelverantwoording*: een in opdracht van het algemeen bestuur opgestelde afzonderlijke verantwoording van een deel van de organisatie van het waterschap. 
+In dit hoofdstuk wordt verstaan onder:  *accountant*: de accountant, bedoeld in artikel 109, tweede lid, van de wet;  *deelverantwoording*: een in opdracht van het algemeen bestuur opgestelde afzonderlijke verantwoording van een deel van de organisatie van het waterschap. 
 
 ### Artikel  5.2  
 
-1.  De accountant gebruikt ten behoeve van de oordeelsvorming over de jaarrekening van het waterschap, bedoeld in [artikel 109, derde lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md), de volgende goedkeuringstoleranties: 
+1.  De accountant gebruikt ten behoeve van de oordeelsvorming over de jaarrekening van het waterschap, bedoeld in artikel 109, derde lid, van de wet, de volgende goedkeuringstoleranties: 
 
 a. ten aanzien van fouten in de jaarrekening 1% van de omvangsbasis;  
 
 b. ten aanzien van onzekerheden in de controle 3% van de omvangsbasis.     
 2.  De omvangsbasis is gelijk aan de totale bruto-lasten van het waterschap.   
-3.  De fouten in de jaarrekening en de onzekerheden in de controle kunnen betrekking hebben op het getrouwe beeld, bedoeld in [artikel 109, derde lid, onderdeel a, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md), dan wel op de rechtmatigheid van de baten, lasten en balansmutaties, bedoeld in [artikel 109, derde lid, onderdeel b, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md).   
+3.  De fouten in de jaarrekening en de onzekerheden in de controle kunnen betrekking hebben op het getrouwe beeld, bedoeld in artikel 109, derde lid, onderdeel a, van de wet, dan wel op de rechtmatigheid van de baten, lasten en balansmutaties, bedoeld in artikel 109, derde lid, onderdeel b, van de wet.   
 4.  De accountant richt zijn controle zodanig in dat een redelijke mate van zekerheid bestaat dat fouten en onzekerheden die afzonderlijk of gezamenlijk de goedkeuringstoleranties voor fouten in de jaarrekening respectievelijk onzekerheden in de controle overschrijden worden ontdekt.   
 5.  De accountant onthoudt een goedkeurende accountantsverklaring aan de jaarrekening indien één der of beide goedkeuringstoleranties, zoals opgenomen in het eerste lid, worden overschreden.   
 6.  Indien het algemeen bestuur opdracht geeft over een deelverantwoording een afzonderlijke accountantsverklaring af te geven, dan zijn de goedkeuringstoleranties ten aanzien van fouten in de deelverantwoording 1% en ten aanzien van onzekerheden in de controle 3% van de omvangsbasis van die deelverantwoording. Op grond van (bijzondere) activiteiten van het onderdeel van de organisatie van het waterschap kan de accountant voor de berekening van de goedkeuringstoleranties voor bepaalde deelverantwoordingen gemotiveerd kiezen voor een andere omvangsbasis dan de totale bruto-lasten van de deelverantwoording.   
@@ -2137,13 +2141,13 @@ Naast de kwantitatieve fouten en onzekerheden in de controle houdt de accountant
 
 In dit hoofdstuk en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.  *agrarische gronden*: ten behoeve van de landbouw als bedoeld in [artikel 312 van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), bedrijfsmatig geëxploiteerde cultuurgronden, voor zover deze niet de ondergrond vormen van gebouwde eigendommen;  
+a.  *agrarische gronden*: ten behoeve van de landbouw als bedoeld in artikel 312 van Boek 7 van het Burgerlijk Wetboek, bedrijfsmatig geëxploiteerde cultuurgronden, voor zover deze niet de ondergrond vormen van gebouwde eigendommen;  
 
 b.  *bouwpercelen*: onbebouwde, al dan niet bouwrijp gemaakte percelen, waarop gebouwd mag worden.   
 
 ### Artikel  6.2  
 
-De kostendelen, bedoeld in [artikel 120, vierde lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md), worden vastgesteld op basis van de onderlinge verhoudingen tussen de waarden in het economische verkeer van: 
+De kostendelen, bedoeld in artikel 120, vierde lid, van de wet, worden vastgesteld op basis van de onderlinge verhoudingen tussen de waarden in het economische verkeer van: 
 
 a. het totaal van de ongebouwde onroerende zaken, niet zijnde natuurterreinen;  
 
@@ -2185,12 +2189,12 @@ d. overige verharde wegen,   inclusief kunstwerken, binnen het gebied van het wa
 
 ### Artikel  6.6  
 
-1.  De gemiddelde waarde per hectare en de in aanmerking te nemen oppervlakte van de categorieën ongebouwde zaken, bedoeld in artikel 6.3, onderdelen b en c, omvat de waarde en de oppervlakte van de kadastrale percelen waarin zij zijn gelegen, met uitzondering van de delen van die percelen die ingevolge de [wet](../../../wet/waterschapswet/BWBR0005108/README.md) worden aangemerkt als gebouwde onroerende zaken of als natuurterreinen of die niet dienstbaar zijn aan de verkeersfunctie van deze ongebouwde zaken.   
+1.  De gemiddelde waarde per hectare en de in aanmerking te nemen oppervlakte van de categorieën ongebouwde zaken, bedoeld in artikel 6.3, onderdelen b en c, omvat de waarde en de oppervlakte van de kadastrale percelen waarin zij zijn gelegen, met uitzondering van de delen van die percelen die ingevolge de wet worden aangemerkt als gebouwde onroerende zaken of als natuurterreinen of die niet dienstbaar zijn aan de verkeersfunctie van deze ongebouwde zaken.   
 2.  De waarde van elk van de categorieën ongebouwde zaken, bedoeld in artikel 6.3, onderdeel c, en artikel 6.4, tweede lid, onderdelen a tot en met d, wordt gesteld op 75% van de vervangingswaarde.  
 
 ### Artikel  6.7  
 
-De gemiddelde waarde per hectare van bouwpercelen wordt bepaald op basis van de waarden die voor de binnen het gebied van het waterschap gelegen bouwpercelen op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) zijn vastgesteld. 
+De gemiddelde waarde per hectare van bouwpercelen wordt bepaald op basis van de waarden die voor de binnen het gebied van het waterschap gelegen bouwpercelen op de voet van hoofdstuk IV van de Wet waardering onroerende zaken zijn vastgesteld. 
 
 ### Artikel  6.8  
 
@@ -2203,7 +2207,7 @@ De gemiddelde waarde per hectare van de ongebouwde onroerende zaken, bedoeld in 
 
 ### Artikel  6.10  
 
-De waarde in het economische verkeer van de gebouwde onroerende zaken is de som van de waarden die voor deze gebouwde onroerende zaken zijn vastgesteld op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md). 
+De waarde in het economische verkeer van de gebouwde onroerende zaken is de som van de waarden die voor deze gebouwde onroerende zaken zijn vastgesteld op de voet van hoofdstuk IV van de Wet waardering onroerende zaken. 
 
 ### Artikel  6.11  
 
@@ -2216,8 +2220,8 @@ De waarde in het economische verkeer van de gebouwde onroerende zaken is de som 
 
 ### Artikel  6.12  
 
-1.  De meting, bemonstering en analyse, bedoeld in [artikel 122g, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md), geschieden door de heffingplichtige gedurende elk etmaal van het kalenderjaar overeenkomstig de door het algemeen bestuur bij belastingverordening gegeven nadere regels.   
-2.  Op aanvraag van de gebruiker staat de ambtenaar, bedoeld in [artikel 123, derde lid, onderdeel b, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md), onder nader te stellen voorwaarden toe dat voor het aantal etmalen dat meting, bemonstering en analyse geschieden, wordt afgeweken van het eerste lid indien door de gebruiker aannemelijk wordt gemaakt dat voor de berekening van de vervuilingswaarde met gegevens over meting, bemonstering en analyse van een beperkt aantal etmalen kan worden volstaan.   
+1.  De meting, bemonstering en analyse, bedoeld in artikel 122g, van de wet, geschieden door de heffingplichtige gedurende elk etmaal van het kalenderjaar overeenkomstig de door het algemeen bestuur bij belastingverordening gegeven nadere regels.   
+2.  Op aanvraag van de gebruiker staat de ambtenaar, bedoeld in artikel 123, derde lid, onderdeel b, van de wet, onder nader te stellen voorwaarden toe dat voor het aantal etmalen dat meting, bemonstering en analyse geschieden, wordt afgeweken van het eerste lid indien door de gebruiker aannemelijk wordt gemaakt dat voor de berekening van de vervuilingswaarde met gegevens over meting, bemonstering en analyse van een beperkt aantal etmalen kan worden volstaan.   
 3.  Het in het tweede lid bedoelde besluit wordt genomen bij voor bezwaar vatbare beschikking.   
 4.  De bepaling van het zuurstofverbruik van de stoffen welke in een kalenderjaar worden afgevoerd, geschiedt op basis van de som van het chemisch zuurstofverbruik en het zuurstofverbruik door omzetting van stikstofverbindingen.   
 5.  Indien de uitkomst van de methode tot bepaling van het chemisch zuurstofverbruik in belangrijke mate is beïnvloed door biologisch niet of nagenoeg niet afbreekbare stoffen, wordt op die uitkomst een correctie toegepast. Het algemeen bestuur geeft omtrent die correctie nadere regels bij belastingverordening.  
@@ -2228,40 +2232,40 @@ De waarde in het economische verkeer van de gebouwde onroerende zaken is de som 
 
 ### Artikel  6.13  
 
-In deze paragraaf wordt verstaan onder:  *inspecteur*: de in [artikel 123, derde lid, onderdeel b, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md), bedoelde ambtenaar van het waterschap.  *administratieplichtig*: gehouden om op zodanige wijze een administratie te voeren en de daartoe behorende boeken, bescheiden en andere gegevensdragers op zodanige wijze te bewaren, dat de gegevens die van belang zijn voor de heffing van de waterschapsbelastingen ten aanzien van de belastingplichtige, hieruit duidelijk blijken;  *informatieplichtig*: gehouden om de gegevens en inlichtingen aan de inspecteur te verstrekken welke voor de heffing van waterschapsbelastingen ten aanzien van derden van belang kunnen zijn en gehouden de boeken, bescheiden en andere gegevensdragers of de inhoud daarvan - zulks ter keuze van de inspecteur -– die van belang kunnen zijn voor de heffing van waterschapsbelastingen ten aanzien van derden, voor dit doel beschikbaar te stellen. 
+In deze paragraaf wordt verstaan onder:  *inspecteur*: de in artikel 123, derde lid, onderdeel b, van de wet, bedoelde ambtenaar van het waterschap.  *administratieplichtig*: gehouden om op zodanige wijze een administratie te voeren en de daartoe behorende boeken, bescheiden en andere gegevensdragers op zodanige wijze te bewaren, dat de gegevens die van belang zijn voor de heffing van de waterschapsbelastingen ten aanzien van de belastingplichtige, hieruit duidelijk blijken;  *informatieplichtig*: gehouden om de gegevens en inlichtingen aan de inspecteur te verstrekken welke voor de heffing van waterschapsbelastingen ten aanzien van derden van belang kunnen zijn en gehouden de boeken, bescheiden en andere gegevensdragers of de inhoud daarvan - zulks ter keuze van de inspecteur -– die van belang kunnen zijn voor de heffing van waterschapsbelastingen ten aanzien van derden, voor dit doel beschikbaar te stellen. 
 
 ### Artikel  6.14  
 
-1.  Administratieplichtig voor de toepassing van de zuiveringsheffing, bedoeld in [artikel 122d, eerste lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md) en de verontreinigingsheffing, bedoeld in [artikel 7.2, tweede lid, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md) is: 
+1.  Administratieplichtig voor de toepassing van de zuiveringsheffing, bedoeld in artikel 122d, eerste lid, van de wet en de verontreinigingsheffing, bedoeld in artikel 7.2, tweede lid, van de Waterwet is: 
 
-a. de heffingplichtige op wie [artikel 122k van de wet](../../../wet/waterschapswet/BWBR0005108/README.md) of [artikel 7.5, vijfde lid, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md) in samenhang met dat artikel van toepassing is.  
+a. de heffingplichtige op wie artikel 122k van de wet of artikel 7.5, vijfde lid, van de Waterwet in samenhang met dat artikel van toepassing is.  
 
-b. de heffingplichtige op wie artikel 6.12, tweede lid, van dit besluit of [7.5, tweede lid, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md) van toepassing is.     
+b. de heffingplichtige op wie artikel 6.12, tweede lid, van dit besluit of 7.5, tweede lid, van de Waterwet van toepassing is.     
 2.  De in het eerste lid bedoelde administratieplichtige is verplicht de gegevensdragers, die op basis van het eerste lid tot zijn administratie dienen te behoren, gedurende zeven jaren te bewaren.   
 3.  De in het tweede lid bedoelde gegevensdragers dienen zodanig bewaard te worden dat controle daarvan door de inspecteur binnen redelijke termijn mogelijk is. De in het eerste lid bedoelde administratieplichtige verleent daartoe zijn medewerking.  
 
 ### Artikel  6.15  
 
-De in artikel 6.14, eerste lid, bedoelde administratieplichtige die niet of niet volledig voldoet aan de vordering van de inspecteur om de in artikel 6.14 bedoelde gegevensdragers of de inhoud daarvan voor raadpleging beschikbaar te stellen, wordt voor de toepassing van [artikel 25, zesde lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [artikel 27e, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) geacht niet volledig te hebben voldaan aan de verplichting ingevolge [artikel 52 van die wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), tenzij aannemelijk is dat het niet, dan wel niet volledig voldoen aan de vordering van de inspecteur het gevolg is van overmacht. 
+De in artikel 6.14, eerste lid, bedoelde administratieplichtige die niet of niet volledig voldoet aan de vordering van de inspecteur om de in artikel 6.14 bedoelde gegevensdragers of de inhoud daarvan voor raadpleging beschikbaar te stellen, wordt voor de toepassing van artikel 25, zesde lid, en artikel 27e, eerste lid, van de Algemene wet inzake rijksbelastingen geacht niet volledig te hebben voldaan aan de verplichting ingevolge artikel 52 van die wet, tenzij aannemelijk is dat het niet, dan wel niet volledig voldoen aan de vordering van de inspecteur het gevolg is van overmacht. 
 
 ### Artikel  6.16  
 
 1.  Informatieplichtig is: 
 
-a. de eigenaar, de bezitter en de beperkt gerechtigde van een woonruimte of een bedrijfsruimte, voor zover dat voor de heffing van de waterschapbelastingen, bedoeld in de [artikelen 117, aanhef en onderdeel a](../../../wet/waterschapswet/BWBR0005108/README.md),[122d, eerste lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md), of in [artikel 7.2, tweede lid, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md), van belang kan zijn, ter zake van de naam-, adres- en woonplaatsgegevens van degene die het gebruik heeft van de woonruimte of bedrijfsruimte;  
+a. de eigenaar, de bezitter en de beperkt gerechtigde van een woonruimte of een bedrijfsruimte, voor zover dat voor de heffing van de waterschapbelastingen, bedoeld in de artikelen 117, aanhef en onderdeel a,122d, eerste lid, van de wet, of in artikel 7.2, tweede lid, van de Waterwet, van belang kan zijn, ter zake van de naam-, adres- en woonplaatsgegevens van degene die het gebruik heeft van de woonruimte of bedrijfsruimte;  
 
-b. de eigenaar of beheerder van een energiebedrijf en het administratiekantoor dat voor die persoon werkzaam is voor zover dat voor de heffing van de waterschapsbelasting, bedoeld in [artikel 117, aanhef en onderdeel a](../../../wet/waterschapswet/BWBR0005108/README.md), [122d, eerste lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md) of in [artikel 7.2, tweede lid, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md), van belang kan zijn, ter zake van de naam-, adres- en woonplaatsgegevens van degene die het gebruik heeft van een woonruimte of een bedrijfsruimte, die is aangesloten op voorzieningen van het energiebedrijf;  
+b. de eigenaar of beheerder van een energiebedrijf en het administratiekantoor dat voor die persoon werkzaam is voor zover dat voor de heffing van de waterschapsbelasting, bedoeld in artikel 117, aanhef en onderdeel a, 122d, eerste lid, van de wet of in artikel 7.2, tweede lid, van de Waterwet, van belang kan zijn, ter zake van de naam-, adres- en woonplaatsgegevens van degene die het gebruik heeft van een woonruimte of een bedrijfsruimte, die is aangesloten op voorzieningen van het energiebedrijf;  
 
-c. de eigenaar of beheerder van een waterleidingbedrijf en het administratiekantoor dat voor die persoon werkzaam is voor zover dat voor de heffing van de waterschapsbelasting, bedoeld in [artikel 117, aanhef en onderdeel a](../../../wet/waterschapswet/BWBR0005108/README.md), [artikel 122d, eerste lid, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md) of in [artikel 7.2, tweede lid, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md), van belang kan zijn, ter zake van naam-, adres- en woonplaatsgegevens en van de gegevens met betrekking tot de omvang van de geleverde hoeveelheid water, van degene die het gebruik heeft van een woonruimte of een bedrijfsruimte, die is aangesloten op voorzieningen van het waterleidingbedrijf;  
+c. de eigenaar of beheerder van een waterleidingbedrijf en het administratiekantoor dat voor die persoon werkzaam is voor zover dat voor de heffing van de waterschapsbelasting, bedoeld in artikel 117, aanhef en onderdeel a, artikel 122d, eerste lid, van de wet of in artikel 7.2, tweede lid, van de Waterwet, van belang kan zijn, ter zake van naam-, adres- en woonplaatsgegevens en van de gegevens met betrekking tot de omvang van de geleverde hoeveelheid water, van degene die het gebruik heeft van een woonruimte of een bedrijfsruimte, die is aangesloten op voorzieningen van het waterleidingbedrijf;  
 
-d. de aannemer, bedoeld in [artikel 750, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), die een onroerende zaak tot stand heeft gebracht en heeft opgeleverd, voor zover dat voor de heffing van de waterschapsbelasting, bedoeld in [artikel 115, eerste lid, onderdeel c, van de wet](../../../wet/waterschapswet/BWBR0005108/README.md), van belang kan zijn, ter zake van de vervaardigingskosten van de tot stand gebrachte onroerende zaak.     
+d. de aannemer, bedoeld in artikel 750, eerste lid, van Boek 7 van het Burgerlijk Wetboek, die een onroerende zaak tot stand heeft gebracht en heeft opgeleverd, voor zover dat voor de heffing van de waterschapsbelasting, bedoeld in artikel 115, eerste lid, onderdeel c, van de wet, van belang kan zijn, ter zake van de vervaardigingskosten van de tot stand gebrachte onroerende zaak.     
 2.  Voor zover dit redelijkerwijs van belang is voor de uitvoering van dit besluit, gelden de in het eerste lid bedoelde verplichtingen ook buiten het gebied van het waterschap.   
 3.  Informatieplichtig zijn slechts degenen die voor de heffing van rijksbelastingen administratieplichtig zijn.  
 
 ### Artikel  6.17  
 
-1.  Indien een belastingschuldige een aanvraag heeft ingediend tot het verlenen van kwijtschelding van waterschapbelastingen als bedoeld in [artikel 144 van de wet](../../../wet/waterschapswet/BWBR0005108/README.md) zijn de colleges van burgemeester en wethouders, de rijksbelastingdienst en de Dienst Wegverkeer, bedoeld in [artikel 4a van de Wegenverkeerswet 1994](../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), desgevraagd gehouden kosteloos gegevens te verstrekken aan de dagelijkse besturen van de waterschappen in verband met de inkomens- en vermogenspositie van de belastingschuldige, ten behoeve van de beoordeling van deze aanvraag.   
-2.  De Stichting Inlichtingenbureau is bewerker in de zin van de [Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) voor het verwerken van gegevens noodzakelijk voor het verlenen van deze kwijtschelding van waterschapsbelastingen die door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), of de in het eerste lid bedoelde instanties, op grond van enig wettelijk voorschrift worden verstrekt aan de dagelijkse besturen van de waterschappen.  
+1.  Indien een belastingschuldige een aanvraag heeft ingediend tot het verlenen van kwijtschelding van waterschapbelastingen als bedoeld in artikel 144 van de wet zijn de colleges van burgemeester en wethouders, de rijksbelastingdienst en de Dienst Wegverkeer, bedoeld in artikel 4a van de Wegenverkeerswet 1994, desgevraagd gehouden kosteloos gegevens te verstrekken aan de dagelijkse besturen van de waterschappen in verband met de inkomens- en vermogenspositie van de belastingschuldige, ten behoeve van de beoordeling van deze aanvraag.   
+2.  De Stichting Inlichtingenbureau is bewerker in de zin van de Wet bescherming persoonsgegevens voor het verwerken van gegevens noodzakelijk voor het verlenen van deze kwijtschelding van waterschapsbelastingen die door het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen, of de in het eerste lid bedoelde instanties, op grond van enig wettelijk voorschrift worden verstrekt aan de dagelijkse besturen van de waterschappen.  
 
 ### Hoofdstuk  7  
 
@@ -2273,23 +2277,23 @@ d. de aannemer, bedoeld in [artikel 750, eerste lid, van Boek 7 van het Burgerli
 
 ### Artikel  7.1  
 
-De [Comptabiliteitsvoorschriften waterschappen](../../../AMvB/comptabiliteitsvoorschriften/waterschappen/BWBR0005309/README.md) worden ingetrokken met dien verstande dat zij op grond van [artikel 98a van de wet](../../../wet/waterschapswet/BWBR0005108/README.md), van toepassing blijven op de inrichting van de meerjarenraming, de begroting, de jaarverslaggeving, de uitvoeringsinformatie en de informatieverstrekking aan derden alsmede de daarbij behorende toelichtingen voor het begrotingsjaar 2008. 
+De Comptabiliteitsvoorschriften waterschappen worden ingetrokken met dien verstande dat zij op grond van artikel 98a van de wet, van toepassing blijven op de inrichting van de meerjarenraming, de begroting, de jaarverslaggeving, de uitvoeringsinformatie en de informatieverstrekking aan derden alsmede de daarbij behorende toelichtingen voor het begrotingsjaar 2008. 
 
 ### Artikel  7.2  
 
-Het [Besluit vergoedingen en tegemoetkoming leden algemeen bestuur waterschap](../../../AMvB/besluit/vergoedingen/en/tegemoetkoming/leden/algemeen/bestuur/waterschap/BWBR0012472/README.md) wordt ingetrokken. 
+Het Besluit vergoedingen en tegemoetkoming leden algemeen bestuur waterschap wordt ingetrokken. 
 
 ### Artikel  7.3  
 
-Het [Besluit bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap](../../../AMvB/besluit/bezoldiging/en/tegemoetkoming/in/kosten/leden/dagelijks/bestuur/etc/BWBR0012471/README.md) wordt ingetrokken. 
+Het Besluit bezoldiging en tegemoetkoming in kosten leden dagelijks bestuur waterschap wordt ingetrokken. 
 
 ### Artikel  7.4  
 
-Het [Rechtspositiebesluit voorzitters waterschappen](../../../AMvB/rechtspositiebesluit/voorzitters/waterschappen/BWBR0005238/README.md) wordt ingetrokken. 
+Het Rechtspositiebesluit voorzitters waterschappen wordt ingetrokken. 
 
 ### Artikel  7.5  
 
-Het [Besluit administratieve verplichtingen waterschapsbelastingen](../../../AMvB/besluit/administratieve/verplichtingen/waterschapsbelastingen/BWBR0007686/README.md) wordt ingetrokken. 
+Het Besluit administratieve verplichtingen waterschapsbelastingen wordt ingetrokken. 
 
 ### §  2  
 
@@ -2302,7 +2306,7 @@ Het [Besluit administratieve verplichtingen waterschapsbelastingen](../../../AMv
 
 ### Artikel  7.6a  
 
-Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): 
+Bij toepassing van artikel 39c van de Wet op de loonbelasting 1964: 
 
 a. wordt op aanvraag door het dagelijks bestuur een vergoeding verstrekt voor de belastingheffing als gevolg van de verstrekkingen, bedoeld in artikel 3.15, eerste lid;  
 
@@ -2312,8 +2316,8 @@ c. blijft artikel 3.26a buiten toepassing.
 
 ### Artikel  7.6b  
 
-1.  De artikelen 3.21, 3.29 en 3.30, zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel VII, onderdelen D en G, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](../../../AMvB/besluit/wijziging/van/de/rechtspositiebesluiten/decentrale/politieke/etc/BWBR0029407/README.md), blijven van toepassing op de voorzitter die voor de datum van inwerkingtreding van dit besluit ingevolge artikel 3.31 kennis heeft gegeven aan het dagelijks bestuur dat hij wegens ziekte zijn ambt niet kan vervullen.   
-2.  De artikelen 3.37 en 3.39, zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel VII, onderdeel K, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](../../../AMvB/besluit/wijziging/van/de/rechtspositiebesluiten/decentrale/politieke/etc/BWBR0029407/README.md), blijven van toepassing op de voormalig voorzitter van wie het ontslag is ingegaan voor 27 februari 2010.  
+1.  De artikelen 3.21, 3.29 en 3.30, zoals deze luidden op de dag voor de datum van inwerkingtreding van artikel VII, onderdelen D en G, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010, blijven van toepassing op de voorzitter die voor de datum van inwerkingtreding van dit besluit ingevolge artikel 3.31 kennis heeft gegeven aan het dagelijks bestuur dat hij wegens ziekte zijn ambt niet kan vervullen.   
+2.  De artikelen 3.37 en 3.39, zoals deze luidden op de dag voor de datum van inwerkingtreding van artikel VII, onderdeel K, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010, blijven van toepassing op de voormalig voorzitter van wie het ontslag is ingegaan voor 27 februari 2010.  
 
 ### §  3  
 
@@ -2345,7 +2349,7 @@ E. M. H. Hirsch Ballin
 
 ####, model goedkeurende accountantsverklaring, bedoeld in artikel 5.4, eerste lid , van het Waterschapsbesluit
 
-In [artikel 109, derde lid, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md) zijn de elementen opgenomen, die de accountant in de accountantsverklaring moet opnemen. In geval van een goedkeuring van de jaarrekening (goedkeurend getrouwheidsconclusie en geen materiële onrechtmatigheden en/of onzekerheden over de rechtmatigheid; fout ≤ 1%; onzekerheid ≤ 3%) dient bij het opstellen van de accountantsverklaring de volgende tekst te worden aangehouden door de accountant. Aan: Opdrachtgever 
+In artikel 109, derde lid, van de Waterschapswet zijn de elementen opgenomen, die de accountant in de accountantsverklaring moet opnemen. In geval van een goedkeuring van de jaarrekening (goedkeurend getrouwheidsconclusie en geen materiële onrechtmatigheden en/of onzekerheden over de rechtmatigheid; fout ≤ 1%; onzekerheid ≤ 3%) dient bij het opstellen van de accountantsverklaring de volgende tekst te worden aangehouden door de accountant. Aan: Opdrachtgever 
 
 ####Accountantsverklaring
 
@@ -2359,7 +2363,7 @@ Het dagelijks bestuur van waterschap .... (naam waterschap) is verantwoordelijk 
 
 #### *Verantwoordelijkheid van de accountant* 
 
-Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle, als bedoeld in [artikel 109, tweede lid, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md). Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder hoofdstuk 4 van het Waterschapsbesluit. <sup>3Indien van toepassing ook verwijzen naar het door het waterschap opgestelde controleprotocol.</sup> Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat. Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De keuze van de uit te voeren werkzaamheden is afhankelijk van de professionele oordeelsvorming van de accountant, waaronder begrepen zijn beoordeling van de risico´s van afwijkingen van materieel belang als gevolg van fraude of fouten. In die beoordeling neemt de accountant in aanmerking het voor het opmaken van en getrouw weergeven in de jaarrekening van zowel de baten en lasten als de activa en passiva, alsmede het voor de naleving van de wet- en regelgeving relevante interne beheersingssysteem, teneinde een verantwoorde keuze te kunnen maken van de controlewerkzaamheden die onder de gegeven omstandigheden adequaat zijn, maar die niet tot doel hebben een oordeel te geven over de effectiviteit van het interne beheersingssysteem van het waterschap. Tevens omvat een controle onder meer een evaluatie van de aanvaardbaarheid van de toegepaste grondslagen voor financiële verslaggeving, van de redelijkheid van schattingen die het dagelijks bestuur van het waterschap heeft gemaakt, en een evaluatie van het algehele beeld van de jaarrekening. De bij onze controle toegepaste goedkeuringstolerantie bedraagt voor fouten ...% en voor onzekerheden ...% van de totale bruto-lasten. Deze goedkeuringstolerantie is door het algemeen bestuur bij besluit van .............. (datum, nummer) vastgesteld. Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel 
+Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op basis van onze controle, als bedoeld in artikel 109, tweede lid, van de Waterschapswet. Wij hebben onze controle verricht in overeenstemming met Nederlands recht, waaronder hoofdstuk 4 van het Waterschapsbesluit. <sup>3Indien van toepassing ook verwijzen naar het door het waterschap opgestelde controleprotocol.</sup> Dienovereenkomstig zijn wij verplicht te voldoen aan de voor ons geldende gedragsnormen en zijn wij gehouden onze controle zodanig te plannen en uit te voeren dat een redelijke mate van zekerheid wordt verkregen dat de jaarrekening geen afwijkingen van materieel belang bevat. Een controle omvat het uitvoeren van werkzaamheden ter verkrijging van controle-informatie over de bedragen en de toelichtingen in de jaarrekening. De keuze van de uit te voeren werkzaamheden is afhankelijk van de professionele oordeelsvorming van de accountant, waaronder begrepen zijn beoordeling van de risico´s van afwijkingen van materieel belang als gevolg van fraude of fouten. In die beoordeling neemt de accountant in aanmerking het voor het opmaken van en getrouw weergeven in de jaarrekening van zowel de baten en lasten als de activa en passiva, alsmede het voor de naleving van de wet- en regelgeving relevante interne beheersingssysteem, teneinde een verantwoorde keuze te kunnen maken van de controlewerkzaamheden die onder de gegeven omstandigheden adequaat zijn, maar die niet tot doel hebben een oordeel te geven over de effectiviteit van het interne beheersingssysteem van het waterschap. Tevens omvat een controle onder meer een evaluatie van de aanvaardbaarheid van de toegepaste grondslagen voor financiële verslaggeving, van de redelijkheid van schattingen die het dagelijks bestuur van het waterschap heeft gemaakt, en een evaluatie van het algehele beeld van de jaarrekening. De bij onze controle toegepaste goedkeuringstolerantie bedraagt voor fouten ...% en voor onzekerheden ...% van de totale bruto-lasten. Deze goedkeuringstolerantie is door het algemeen bestuur bij besluit van .............. (datum, nummer) vastgesteld. Wij zijn van mening dat de door ons verkregen controle-informatie voldoende en geschikt is als basis voor ons oordeel 
 
 #### *Oordeel* 
 
@@ -2367,7 +2371,7 @@ Naar ons oordeel geeft de jaarrekening van waterschap .............. (naam water
 
 ####Verklaring betreffende andere wettelijke voorschriften en/of voorschriften van regelgevende instanties
 
-Op grond van de wettelijke verplichting ingevolge [artikel 109, derde lid, onderdeel d, van de Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md) melden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening. Plaats, datum Naam accountantsorganisatie Naam externe accountant en ondertekening met die naam 
+Op grond van de wettelijke verplichting ingevolge artikel 109, derde lid, onderdeel d, van de Waterschapswet melden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening. Plaats, datum Naam accountantsorganisatie Naam externe accountant en ondertekening met die naam 
 
 ### Bijlage II 
 

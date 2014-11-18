@@ -3,7 +3,7 @@
 ##Regeling van de Minister voor Veiligheid en Justitie van 13 december 2012, nr. 330698, houdende nadere regels over de behandeling van klachten over gedragingen van ambtenaren van politie als bedoeld in artikel 2, onderdelen a tot en met c, van de Politiewet 2012 (Regeling klachtbehandeling politie)
 
 De Minister van Veiligheid en Justitie,  
-Gelet op [artikel 68, eerste lid, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md);
+Gelet op artikel 68, eerste lid, van de Politiewet 2012;
 Besluit:    
 
 ### Artikel  1  
@@ -12,9 +12,9 @@ In deze regeling wordt verstaan onder:
 
 a.  *de Minister:* de Minister van Veiligheid en Justitie;  
 
-b.  *de wet:* de [Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+b.  *de wet:* de Politiewet 2012;  
 
-c.  *ambtenaren van politie:* de ambtenaren van politie, bedoeld in [artikel 2, onderdelen a, b en c, van de wet](../../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+c.  *ambtenaren van politie:* de ambtenaren van politie, bedoeld in artikel 2, onderdelen a, b en c, van de wet;  
 
 d.  *Landelijke eenheid:* de landelijke eenheid, bedoeld in artikel 2, eerste lid, van de Regeling beheer politie;  
 
@@ -22,8 +22,8 @@ e.  *een ondersteunende dienst:* een ondersteunende dienst als bedoeld in artike
 
 ### Artikel  2  
 
-1.  Er is een klachtencommissie voor de Landelijke eenheid en voor iedere regionale eenheid. De klachtencommissie heeft tot taak het behandelen van een klacht over een gedraging van een ambtenaar van politie die bij de desbetreffende eenheid is tewerkgesteld. De klachtencommissie adviseert voorts, gevraagd en ongevraagd de politiechef bij zijn taak, genoemd in [artikel 70, tweede lid, van de wet](../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
-2.  Iedere klachtencommissie voor de regionale eenheid is tevens belast met het gevraagd en ongevraagd adviseren van de korpschef over klachten over gedragingen van ambtenaren van politie die werkzaam zijn bij een ondersteunende dienst en hun werkgebied als bedoeld in [artikel 1, onderdeel x, onder 3, van het Besluit algemene rechtspositie politie](../../../../../AMvB/besluit/algemene/rechtspositie/politie/BWBR0006516/README.md) hebben in het gebied dat de regionale eenheid bestrijkt.   
+1.  Er is een klachtencommissie voor de Landelijke eenheid en voor iedere regionale eenheid. De klachtencommissie heeft tot taak het behandelen van een klacht over een gedraging van een ambtenaar van politie die bij de desbetreffende eenheid is tewerkgesteld. De klachtencommissie adviseert voorts, gevraagd en ongevraagd de politiechef bij zijn taak, genoemd in artikel 70, tweede lid, van de wet.   
+2.  Iedere klachtencommissie voor de regionale eenheid is tevens belast met het gevraagd en ongevraagd adviseren van de korpschef over klachten over gedragingen van ambtenaren van politie die werkzaam zijn bij een ondersteunende dienst en hun werkgebied als bedoeld in artikel 1, onderdeel x, onder 3, van het Besluit algemene rechtspositie politie hebben in het gebied dat de regionale eenheid bestrijkt.   
 3.  In afwijking van het eerste lid, tweede volzin, kan de politiechef van een eenheid, in voorkomende gevallen besluiten, na overleg met de voorzitter van de klachtencommissie van die eenheid, de behandeling van en advisering over een klacht over te dragen aan een klachtencommissie voor een andere eenheid.  
 
 ### Artikel  3  
@@ -38,7 +38,7 @@ e.  *een ondersteunende dienst:* een ondersteunende dienst als bedoeld in artike
 
 ### Artikel  4  
 
-1.  Er is een nationale klachtencommissie, die de Minister en de korpschef gevraagd en ongevraagd adviseert bij hun in [artikel 70, derde en vijfde lid, van de wet](../../../../../wet/politiewet/2012/BWBR0031788/README.md) genoemde taken.   
+1.  Er is een nationale klachtencommissie, die de Minister en de korpschef gevraagd en ongevraagd adviseert bij hun in artikel 70, derde en vijfde lid, van de wet genoemde taken.   
 2.  De nationale klachtencommissie bestaat uit de voorzitters van de klachtencommissies, bedoeld in artikel 3, eerste lid, tweede volzin.   
 3.  De commissie wijst uit haar midden een vaste voorzitter en een plaatsvervanger aan, die de onafhankelijkheid van de commissie bewaken.   
 4.  Een advies dient door drie leden tot stand te komen. In nader te bepalen gevallen, te bepalen in het huishoudelijk reglement zoals bedoeld in artikel 5, zesde lid, kan hiervan worden afgeweken.   
@@ -48,7 +48,7 @@ e.  *een ondersteunende dienst:* een ondersteunende dienst als bedoeld in artike
 
 ### Artikel  5  
 
-1.  De klachtencommissie stelt jaarlijks een jaarverslag van haar werkzaamheden vast overeenkomstig een door de korpschef in overeenstemming met de voorzitters van de klachtencommissies vastgesteld model. De nationale klachtencommissie stelt alleen een jaarverslag op wanneer de commissie in het betreffende jaar de Minister of de korpschef heeft geadviseerd bij hun in [artikel 70, derde en vijfde lid, van de wet](../../../../../wet/politiewet/2012/BWBR0031788/README.md) genoemde taken.   
+1.  De klachtencommissie stelt jaarlijks een jaarverslag van haar werkzaamheden vast overeenkomstig een door de korpschef in overeenstemming met de voorzitters van de klachtencommissies vastgesteld model. De nationale klachtencommissie stelt alleen een jaarverslag op wanneer de commissie in het betreffende jaar de Minister of de korpschef heeft geadviseerd bij hun in artikel 70, derde en vijfde lid, van de wet genoemde taken.   
 2.  De klachtencommissies registreren de klachten conform de uniforme rubricering zoals bepaald krachtens artikel 6, eerste lid.   
 3.  Het jaarverslag wordt uiterlijk 1 maart aangeboden aan de politiechef, alsmede aan de korpschef ten behoeve van het jaarverslag van de politie. Het jaarverslag van de nationale klachtencommissie wordt in voorkomende gevallen uiterlijk 1 maart aangeboden aan de Minister en de korpschef.   
 4.  De Minister, de korpschef en de politiechef verstrekken de commissies alle gegevens die zij voor behandeling en advisering nodig achten.   
@@ -69,8 +69,8 @@ De korpschef stelt nadere regels vast omtrent de uniforme wijze waarop de behand
 ### Artikel  8  
 
 1.  Deze regeling treedt in werking met ingang van 1 januari 2013 met uitzondering van artikel 3, vierde lid, tweede volzin, die in werking treedt met ingang van 1 januari 2015.   
-2.  De verplichting, bedoeld in artikel 3, eerste lid, om de leden van de klachtencommissie te benoemen op basis van een open sollicitatieprocedure, is niet van toepassing op de benoeming met ingang van 1 januari 2013, voor zover het een commissielid betreft dat voor 1 januari 2013 lid was van een klachtencommissie als bedoeld in [artikel 61, tweede lid, onderdeel a, van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md), zoals dit luidde voor 1 januari 2013.   
-3.  In afwijking van artikel 3, vijfde lid kan een commissielid dat voor 1 januari 2013 langer dan zeven jaar lid was van een klachtencommissie als bedoeld in [artikel 61, tweede lid, onderdeel a, van de Politiewet 1993](../../../../../wet/politiewet/1993/BWBR0006299/README.md), zoals dit luidde voor 1 januari 2013, met ingang van 1 januari 2013 benoemd worden voor een periode van maximaal één jaar.  
+2.  De verplichting, bedoeld in artikel 3, eerste lid, om de leden van de klachtencommissie te benoemen op basis van een open sollicitatieprocedure, is niet van toepassing op de benoeming met ingang van 1 januari 2013, voor zover het een commissielid betreft dat voor 1 januari 2013 lid was van een klachtencommissie als bedoeld in artikel 61, tweede lid, onderdeel a, van de Politiewet 1993, zoals dit luidde voor 1 januari 2013.   
+3.  In afwijking van artikel 3, vijfde lid kan een commissielid dat voor 1 januari 2013 langer dan zeven jaar lid was van een klachtencommissie als bedoeld in artikel 61, tweede lid, onderdeel a, van de Politiewet 1993, zoals dit luidde voor 1 januari 2013, met ingang van 1 januari 2013 benoemd worden voor een periode van maximaal één jaar.  
 
 ### Artikel  9  
 

@@ -3,14 +3,14 @@
 ##Regeling van de minister van Verkeer en Waterstaat in verband met de invoering van markttoezicht op het aanbod van dienstverlening door registerloodsen en een herziening van de loodsgeldtariefstructuur (Regeling markttoezicht registerloodsen)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 27b, vijfde lid](../../../../../wet/loodsenwet/BWBR0004365/README.md), [27c, vierde lid](../../../../../wet/loodsenwet/BWBR0004365/README.md), [27d, derde en vierde lid,](../../../../../wet/loodsenwet/BWBR0004365/README.md) en [27j, tweede lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md), [artikel 14a, tweede lid, van de Scheepvaartverkeerswet](../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md) en [artikel VII, tweede lid, van de Wet markttoezicht registerloodsen](../../../../../wet/wet/markttoezicht/registerloodsen/BWBR0023140/README.md);
+Gelet op de artikelen 27b, vijfde lid, 27c, vierde lid, 27d, derde en vierde lid, en 27j, tweede lid, van de Loodsenwet, artikel 14a, tweede lid, van de Scheepvaartverkeerswet en artikel VII, tweede lid, van de Wet markttoezicht registerloodsen;
 Besluit:    
 
 ### Artikel  1  
 
 ####Aanwijzing openbare lichamen
 
-Voor de toepassing van [artikel 27b, vijfde lid](../../../../../wet/loodsenwet/BWBR0004365/README.md), [27c, vierde lid](../../../../../wet/loodsenwet/BWBR0004365/README.md), en [27j, tweede lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md) worden vertegenwoordigers van de volgende openbare lichamen, betrokken bij het bestuur van een of meer zeehavens aangewezen: 
+Voor de toepassing van artikel 27b, vijfde lid, 27c, vierde lid, en 27j, tweede lid, van de Loodsenwet worden vertegenwoordigers van de volgende openbare lichamen, betrokken bij het bestuur van een of meer zeehavens aangewezen: 
 
 a. Havenschap Delfzijl/Eemshaven (Groningen Seaports);  
 
@@ -34,7 +34,7 @@ i. Zeeland Seaports.
 
 ####Aanwijzing representatieve organisaties
 
-Voor de toepassing van [artikel 27b, vijfde lid](../../../../../wet/loodsenwet/BWBR0004365/README.md), [27c, vierde lid](../../../../../wet/loodsenwet/BWBR0004365/README.md), en [27j, tweede lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md), worden vertegenwoordigers van de volgende representatieve organisaties van ondernemers in het scheepvaart- en havenbedrijf aangewezen: 
+Voor de toepassing van artikel 27b, vijfde lid, 27c, vierde lid, en 27j, tweede lid, van de Loodsenwet, worden vertegenwoordigers van de volgende representatieve organisaties van ondernemers in het scheepvaart- en havenbedrijf aangewezen: 
 
 a. Koninklijke Vereniging van Nederlandse reders (KNVR);  
 
@@ -60,7 +60,7 @@ j. Vereniging van Zeeuwse cargadoors (VZC).
 
 ####Regionale overlegcommissies
 
-Voor de toepassing van [artikel 27c, vierde lid](../../../../../wet/loodsenwet/BWBR0004365/README.md), en [27d, vierde lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md) worden vier regionale overlegcommissies ingesteld die, naast het bestuur van de desbetreffende regionale loodsencorporatie bestaan uit: 
+Voor de toepassing van artikel 27c, vierde lid, en 27d, vierde lid, van de Loodsenwet worden vier regionale overlegcommissies ingesteld die, naast het bestuur van de desbetreffende regionale loodsencorporatie bestaan uit: 
 
 a. de vertegenwoordigers van de openbare lichamen, bedoeld in artikel 1, onderdelen a en b, en vertegenwoordigers van de organisaties, bedoeld in artikel 2, onderdelen a, b en c, in de regio Noord;  
 
@@ -74,20 +74,20 @@ d. de vertegenwoordigers van de openbare lichamen, bedoeld in artikel 1, onderde
 
 ####Tariefgebieden en tariefkolommen
 
-1.  Ter nadere bepaling van het T-tarief, bedoeld in [artikel 4.3 van het Besluit markttoezicht registerloodsen](../../../../../AMvB/besluit/markttoezicht/registerloodsen/BWBR0023123/README.md), worden de zeehavengebieden overeenkomstig bijlage 1 bij deze regeling ingedeeld in tariefgebieden.   
+1.  Ter nadere bepaling van het T-tarief, bedoeld in artikel 4.3 van het Besluit markttoezicht registerloodsen, worden de zeehavengebieden overeenkomstig bijlage 1 bij deze regeling ingedeeld in tariefgebieden.   
 2.  De in het eerste lid bedoelde tariefgebieden, worden overeenkomstig bijlage 2 bij deze regeling ingedeeld in tariefkolommen.  
 
 ### Artikel  4  
 
 ####Correctiefactor
 
-De correctiefactor, bedoeld in [artikel 27d, derde lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md), bedraagt voor schepen die een inkomende-, uitgaande-, rendez-vous- of verhaalreis maken waarbij loodsdiensten worden verricht in het zeehavengebied van Delfzijl-Eemshaven, Harlingen-Terschelling of Den Helder-Den Oever-Oudenschild, +30% van het voor de betreffende reis vastgestelde S-tarief. 
+De correctiefactor, bedoeld in artikel 27d, derde lid, van de Loodsenwet, bedraagt voor schepen die een inkomende-, uitgaande-, rendez-vous- of verhaalreis maken waarbij loodsdiensten worden verricht in het zeehavengebied van Delfzijl-Eemshaven, Harlingen-Terschelling of Den Helder-Den Oever-Oudenschild, +30% van het voor de betreffende reis vastgestelde S-tarief. 
 
 ### Artikel  5  
 
 ####Bestuursorganen belast met nautisch beheer
 
-Voor de toepassing van[artikel 27j, tweede lid, van de Loodsenwet](../../../../../wet/loodsenwet/BWBR0004365/README.md), worden vertegenwoordigers van de volgende bestuursorganen belast met het nautisch beheer van een of meer zeehavens aangewezen: 
+Voor de toepassing vanartikel 27j, tweede lid, van de Loodsenwet, worden vertegenwoordigers van de volgende bestuursorganen belast met het nautisch beheer van een of meer zeehavens aangewezen: 
 
 a. de hoofdingenieur-directeur van Rijkswaterstaat Noord-Nederland;  
 
@@ -105,7 +105,7 @@ f. de Rijkshavenmeester Westerschelde.
 
 ####Arbeidsvergoeding 2003
 
-1.  Voor de berekening van de arbeidsvergoeding voor het jaar 2003 als bedoeld in [artikel VII van de Wet markttoezicht registerloodsen](../../../../../wet/wet/markttoezicht/registerloodsen/BWBR0023140/README.md), wordt uitgegaan van de volgende 9 scheepsklassen waarbij, uitgedrukt in meters, L staat voor lengte over alles, B staat voor maximale breedte en Tz staat voor maximale diepgang volgens zomerlastlijn:  
+1.  Voor de berekening van de arbeidsvergoeding voor het jaar 2003 als bedoeld in artikel VII van de Wet markttoezicht registerloodsen, wordt uitgegaan van de volgende 9 scheepsklassen waarbij, uitgedrukt in meters, L staat voor lengte over alles, B staat voor maximale breedte en Tz staat voor maximale diepgang volgens zomerlastlijn:  
 
 | Scheeps-  klasse  | Havens van Delfzijl, Eemshaven, Harlingen, Terschelling en Den Helder  | Overige havens  |--- |--- |--- |--- |--- |--- | L x B x Tz  van  | L x B x Tz  tot en met  | L x B x Tz  van  | L x B x Tz  tot en met  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -119,7 +119,7 @@ f. de Rijkshavenmeester Westerschelde.
 | Klasse 8  | 110.701  | 177.600  | 195.001  | 325.000  |
 | Klasse 9  | vanaf 177.601  | --- | vanaf 325.001  | --- |
 
-2.  in verband met de toepassing van [artikel VII van de Wet markttoezicht registerloodsen](../../../../../wet/wet/markttoezicht/registerloodsen/BWBR0023140/README.md) wordt de hoogte van de arbeidsvergoeding voor het jaar 2003 met betrekking tot: 
+2.  in verband met de toepassing van artikel VII van de Wet markttoezicht registerloodsen wordt de hoogte van de arbeidsvergoeding voor het jaar 2003 met betrekking tot: 
 
 a. directe loodsuren vastgesteld op gemiddeld € 91,14:  
 
@@ -147,13 +147,13 @@ d. indirecte taakuren vastgesteld op de hoogte van de vergoeding voor directe lo
 
 ####Vergoeding afgifte verklaring van vrijstelling
 
-Voor de afgifte van een verklaring van vrijstelling, bedoeld in [artikel 2, eerste lid, van het Besluit verklaringhouders Scheepvaartverkeerswet](../../../../../AMvB/besluit/verklaringhouders/scheepvaartverkeerswet/BWBR0007513/README.md), is aan de regionale autoriteit die de verklaring afgeeft een vergoeding verschuldigd van € 35,–. 
+Voor de afgifte van een verklaring van vrijstelling, bedoeld in artikel 2, eerste lid, van het Besluit verklaringhouders Scheepvaartverkeerswet, is aan de regionale autoriteit die de verklaring afgeeft een vergoeding verschuldigd van € 35,–. 
 
 ### Artikel  8  
 
 ####Aanpassen andere regelingen
 
-[Paragraaf 4 van de Regeling EG-verklaring registerloods](../../../../../ministeriele-regeling/regeling/eg-verklaring/registerloods/BWBR0013240/README.md) vervalt. 
+Paragraaf 4 van de Regeling EG-verklaring registerloods vervalt. 
 
 ### Artikel  9  
 
@@ -161,13 +161,13 @@ Voor de afgifte van een verklaring van vrijstelling, bedoeld in [artikel 2, eers
 
 De volgende regelingen worden ingetrokken: 
 
-a.[Regeling tarief verklaringen van vrijstelling Scheepvaartverkeerswet](../../../../../ministeriele-regeling/regeling/tarief/verklaringen/van/vrijstelling/scheepvaartverkeerswet/BWBR0007554/README.md);
+a.Regeling tarief verklaringen van vrijstelling Scheepvaartverkeerswet;
 
-b.[Regeling tarief loodsenregister en Register loodsplicht kleine zeeschepen](../../../../../ministeriele-regeling/regeling/tarief/loodsenregister/en/register/loodsplicht/kleine/zeeschepen/BWBR0007557/README.md);
+b.Regeling tarief loodsenregister en Register loodsplicht kleine zeeschepen;
 
-c.[Regeling van de Minster van Verkeer en waterstaat van 14 september 1995, nr. J013.629/95](../../../../../ministeriele-regeling/aanwijzing/overleg-/partijen/loodsgeldtarief/BWBR0007552/README.md) (Stcrt. 188); en
+c.Regeling van de Minster van Verkeer en waterstaat van 14 september 1995, nr. J013.629/95 (Stcrt. 188); en
 
-d.[Regeling loodsgeldtarieven](../../../../../ministeriele-regeling/regeling/loodsgeldtarieven/BWBR0007555/README.md).
+d.Regeling loodsgeldtarieven.
 
 ### Artikel  10  
 

@@ -3,16 +3,16 @@
 ##Regeling van de Minister voor Wonen en Rijksdienst van 16 oktober 2013, nr. 2013-0000642049, houdende vaststelling voor het jaar 2014 van het bedrag, bedoeld in artikel 6, zesde lid, onderdeel a, van de Wet bevordering eigenwoningbezit (Regeling koopsubsidieplafond 2014)
 
 De Minister voor Wonen en Rijksdienst,  
-Gelet op [artikel 6, zesde lid, aanhef en onderdeel a, van de Wet bevordering eigenwoningbezit](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md);
+Gelet op artikel 6, zesde lid, aanhef en onderdeel a, van de Wet bevordering eigenwoningbezit;
 Besluit:    
 
 ### Artikel  1  
 
-Het bedrag, bedoeld in [artikel 6, zesde lid, onderdeel a, van de Wet bevordering eigenwoningbezit](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), is voor het jaar 2014: € 0,00. 
+Het bedrag, bedoeld in artikel 6, zesde lid, onderdeel a, van de Wet bevordering eigenwoningbezit, is voor het jaar 2014: € 0,00. 
 
 ### Artikel  2  
 
-De [Regeling koopsubsidieplafond 2013](../../../../../ministeriele-regeling/regeling/koopsubsidieplafond/2013/BWBR0032457/README.md) wordt ingetrokken. 
+De Regeling koopsubsidieplafond 2013 wordt ingetrokken. 
 
 ### Artikel  3  
 

@@ -3,7 +3,7 @@
 ##Regeling van 15 september 2006, nr. 5443243/06, houdende regels ten aanzien van de behandeling van klachten over de Rijksrecherche (Klachtenregeling Rijksrecherche)
 
 De Minister van Justitie,  
-Gelet op de [artikelen 61](../../../../wet/politiewet/1993/BWBR0006299/README.md) en [62 van de Politiewet 1993](../../../../wet/politiewet/1993/BWBR0006299/README.md);
+Gelet op de artikelen 61 en 62 van de Politiewet 1993;
 Stelt vast de volgende regels over de behandeling, het onderzoek en de afdoening van klachten over de bij de Rijksrecherche werkzame bijzondere ambtenaren van politie en de directeur Rijksrecherche:     
 ### §  1  
 
@@ -13,7 +13,7 @@ Stelt vast de volgende regels over de behandeling, het onderzoek en de afdoening
 
 In deze regeling wordt verstaan onder: 
 
-a. ambtenaar van de rijksrecherche: de ambtenaar van de rijksrecherche, bedoeld in [artikel 2, onder d, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md);  
+a. ambtenaar van de rijksrecherche: de ambtenaar van de rijksrecherche, bedoeld in artikel 2, onder d, van de Politiewet 2012;  
 
 b. ambtenaar: de ambtenaar van de rijksrecherche tegen wie de klacht is ingediend;  
 
@@ -23,7 +23,7 @@ d. klachtencommissie: de klachtencommissie Rijksrecherche als bedoeld in artikel
 
 e. Minister: de Minister van Veiligheid en Justitie;  
 
-f. wet: de [Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+f. wet: de Politiewet 2012.  
 
 ### §  2  
 
@@ -35,8 +35,8 @@ f. wet: de [Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.
 
 1.  Er is een klachtencommissie Rijksrecherche, die het College gevraagd of ongevraagd adviseert over de afdoening van klachten over een gedraging van een ambtenaar van de rijksrecherche.   
 2.  De klachtencommissie bestaat uit een oneven aantal, doch ten minste drie onafhankelijke leden.   
-3.  De klachtencommissie bestaat uit leden die zijn benoemd in de commissie die adviseert over de afdoening van klachten over het optreden van ambtenaren als bedoeld in [artikel 2, onderdelen a tot en met c, van de wet](../../../../wet/politiewet/2012/BWBR0031788/README.md), werkzaam bij de Landelijke eenheid politiediensten, bedoeld in [artikel 2, eerste lid, van de Regeling beheer politie](../../../../ministeriele-regeling/regeling/beheer/politie/BWBR0032673/README.md).   
-4.  In afwijking van het gestelde in het derde lid, kan het College besluiten dat de klachtencommissie bestaat uit leden die zijn benoemd in de commissie die, adviseert over de afdoening van klachten over het optreden van ambtenaren als bedoeld in [artikel 2, onderdelen a tot en met c, van de wet](../../../../wet/politiewet/2012/BWBR0031788/README.md), werkzaam bij de regionale eenheden.   
+3.  De klachtencommissie bestaat uit leden die zijn benoemd in de commissie die adviseert over de afdoening van klachten over het optreden van ambtenaren als bedoeld in artikel 2, onderdelen a tot en met c, van de wet, werkzaam bij de Landelijke eenheid politiediensten, bedoeld in artikel 2, eerste lid, van de Regeling beheer politie.   
+4.  In afwijking van het gestelde in het derde lid, kan het College besluiten dat de klachtencommissie bestaat uit leden die zijn benoemd in de commissie die, adviseert over de afdoening van klachten over het optreden van ambtenaren als bedoeld in artikel 2, onderdelen a tot en met c, van de wet, werkzaam bij de regionale eenheden.   
 5.  Het College wijst een ambtelijk secretaris aan. De ambtelijk secretaris neemt niet deel aan de besluitvorming van de klachtencommissie en is niet betrokken bij de behandeling of coördinatie van klachten over gedragingen van ambtenaren van de rijksrecherche.   
 6.  Artikel 3, vijfde lid, van de Regeling klachtenbehandeling politie is van toepassing op de leden van de klachtencommissie.   
 7.  Tot 1 januari 2015 blijft het vijfde lid, tweede volzin, buiten toepassing. 
@@ -86,7 +86,7 @@ c. de directeur van de ambtenaren van de rijksrecherche.
 1.  De klachtencommissie krijgt van het College alle gegevens, die de commissie voor advisering nodig acht.   
 2.  De klachtencommissie kan de klager, de ambtenaar, getuigen of deskundigen schriftelijk dan wel mondeling horen.   
 3.  De klachtencommissie brengt binnen drie weken na ontvangst van het verzoek advies uit, bedoeld in artikel 7, eerste lid, onderscheidenlijk de kennisgeving, bedoeld in artikel 7, tweede lid.   
-4.  Met inachtneming van [artikel 67a van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md) vindt het bepaalde in de artikelen 7 en 8, eerste, tweede en derde lid, geen toepassing, indien door het College naar tevredenheid van de klager aan diens klacht is tegemoetgekomen. 
+4.  Met inachtneming van artikel 67a van de Politiewet 2012 vindt het bepaalde in de artikelen 7 en 8, eerste, tweede en derde lid, geen toepassing, indien door het College naar tevredenheid van de klager aan diens klacht is tegemoetgekomen. 
 
 ### Artikel  11  
 
@@ -110,11 +110,11 @@ Vervallen per 01-01-2013
 
 ### Artikel  23  
 
-De [Klachtenregeling bijzondere ambtenaren van politie](../../../../ministeriele-regeling/klachtenregeling/bijzondere/ambtenaren/van/politie/BWBR0007408/README.md) en de [Klachtenregeling Rijksrecherche 1997](../../../../ministeriele-regeling/klachtenregeling/rijksrecherche/1997/BWBR0009115/README.md) worden ingetrokken. 
+De Klachtenregeling bijzondere ambtenaren van politie en de Klachtenregeling Rijksrecherche 1997 worden ingetrokken. 
 
 ### Artikel  23a  
 
-Deze regeling berust op [artikel 68, eerste lid, van de Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md).  
+Deze regeling berust op artikel 68, eerste lid, van de Politiewet 2012.  
 
 ### Artikel  24  
 

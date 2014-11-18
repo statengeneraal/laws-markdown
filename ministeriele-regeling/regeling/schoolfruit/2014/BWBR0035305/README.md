@@ -50,7 +50,7 @@ b. in staat is producten landelijk te leveren,
 c. in staat is minimaal 80 scholen te beleveren, en  
 
 d. verklaart dat hij kennis heeft van en akkoord gaat met een vergoeding van maximaal 75% van de subsidiabele kosten van de steunaanvragen.     
-2.  Een verzoek om erkenning als bedoeld in het eerste lid wordt uiterlijk ingediend op 1 augustus van het schooljaar waarop de erkenningsaanvraag betrekking heeft.   
+2.  Een verzoek om erkenning als bedoeld in het eerste lid wordt uiterlijk ingediend op 28 november van het schooljaar waarop de erkenningsaanvraag betrekking heeft.   
 3.  Een verzoek om erkenning als bedoeld in het eerste lid omvat: 
 
 a. een volledig ingevuld door de minister ter beschikking gesteld middel;  
@@ -110,7 +110,7 @@ b. de afleverdata;
 c. het aantal leerlingen waarvoor producten geleverd worden, en  
 
 d. de hoeveelheden te leveren producten.     
-2.  De door beide partijen ondertekende overeenkomst wordt voor 1 november van het schooljaar ingediend.   
+2.  De door beide partijen ondertekende overeenkomst wordt voor 31 december van het schooljaar ingediend.   
 3.  De school kan het aantal leerlingen bedoeld in het eerste lid, onderdeel c, tijdens de periode van levering eenmalig met maximaal 5% wijzigen op basis van de werkelijke mutaties van de school.   
 4.  De wijziging bedoeld in het derde lid kan tot uiterlijk 1 december van het schooljaar plaatsvinden.  
 
@@ -173,15 +173,14 @@ g. Administratiekosten met betrekking tot de schoolfruitleveringen.
 
 ### Artikel  11  
 
-1.  Een erkende leverancier verzoekt de minister in vier termijnen om betaling van steun over de periode waarin hij in het schooljaar in het kader van deze regeling subsidiabele activiteiten heeft uitgevoerd.   
-2.  Steunaanvragen van leveranciers worden per periode van levering ingediend, waarbij de eerste periode in 2014 aanvangt in week 45. De perioden van levering voor het schooljaar 2014/2015 zijn:  
+1.  Een erkende leverancier verzoekt de minister in drie termijnen om betaling van steun over de periode waarin hij in het schooljaar in het kader van deze regeling subsidiabele activiteiten heeft uitgevoerd.   
+2.  Steunaanvragen van leveranciers worden per periode van levering ingediend, waarbij de eerste periode in 2015 aanvangt in week 2. De perioden van levering voor het schooljaar 2014/2015 zijn:  
 
 | --- | --- | --- |
 |:---|:---|:---|
-| a.  | Periode 1 (2014):  | Week 45-51 (7 weken)  |
-| b.  | Periode 2 (2015):  | Week 2-7 (6 weken)  |
-| c.  | Periode 3 (2015):  | Week 10-15 (6 weken)  |
-| d.  | Periode 4 (2015):  | Week 16-23 m.u.v. week 19 en 20 (6 weken)  |
+| a  | Periode 1 (2015):  | Week 2-7 (6 weken)  |
+| b  | Periode 2 (2015):  | Week 10-15 (6 weken)  |
+| c  | Periode 3 (2015):  | Week 16-23 m.u.v. week 19 en 20 (6 weken)  |
 
 3.  De steunaanvraag wordt ingediend uiterlijk op de laatste dag van de derde maand na de betreffende periode van levering.   
 4.  Een steunaanvraag van een leverancier omvat: 

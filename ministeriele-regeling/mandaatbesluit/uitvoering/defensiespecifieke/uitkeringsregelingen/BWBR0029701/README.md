@@ -16,25 +16,25 @@ b.  *Minister:* de Minister van Defensie.
 
 De Minister verleent aan het bestuur mandaat om namens hem besluiten te nemen ter uitvoering en op grond van de onderstaande regelingen: 
 
-a. De [Kaderwet militaire pensioenen](../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md), alsmede het daarop steunende [Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) en het [Besluit bijzondere militaire pensioenen](../../../../../../AMvB/besluit/bijzondere/militaire/pensioenen/BWBR0012222/README.md);  
+a.  De Kaderwet militaire pensioenen, alsmede het daarop steunende Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen met uitzondering van de artikelen 8a en 11a en het Besluit bijzondere militaire pensioenen met uitzondering van artikel 11a;  
 
 b. Voor zover na die datum nog noodzakelijk, de voor 1 juni 2001 geldende militaire pensioenwetten of -regelingen;  
 
-c. De [Uitkeringswet gewezen militairen](../../../../../../wet/uitkeringswet/gewezen/militairen/BWBR0002540/README.md);  
+c. De Uitkeringswet gewezen militairen;  
 
-d. De [Regeling inkomsten Uitkeringswet gewezen militairen](../../../../../../ministeriele-regeling/regeling/inkomsten/uitkeringswet/gewezen/militairen/BWBR0004201/README.md);  
+d. De Regeling inkomsten Uitkeringswet gewezen militairen;  
 
-e. De [Wet verbetering rechtspositie verzetsmilitairen](../../../../../../wet/wet/verbetering/rechtspositie/verzetsmilitairen/BWBR0003015/README.md);  
+e. De Wet verbetering rechtspositie verzetsmilitairen;  
 
-f. De [artikelen 62](../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) en [124 van het Burgerlijk ambtenarenreglement defensie](../../../../../../AMvB/burgerlijk/ambtenarenreglement/defensie/BWBR0006040/README.md) (BARD);  
+f. De artikelen 62 en 124 van het Burgerlijk ambtenarenreglement defensie (BARD);  
 
-g. De [artikelen 120 t/m 125 van het Algemeen militair ambtenarenreglement](../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md) (AMAR);  
+g. De artikelen 120 t/m 125 van het Algemeen militair ambtenarenreglement (AMAR);  
 
 h. De artikelen 84 en 85 van het Reglement rechtstoestand dienstplichtigen (Rrdpl);  
 
-i. De Regeling procesverbaal van ongeval en rapportage medische aangelegenheden, [artikel 147 AMAR](../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md);  
+i. De Regeling procesverbaal van ongeval en rapportage medische aangelegenheden, artikel 147 AMAR;  
 
-j. De [Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers](../../../../../../ministeriele-regeling/voorzieningenregeling/voor/militaire/oorlogs-/en/dienstslachtoffers/BWBR0008406/README.md);  
+j. De Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers;  
 
 k. De Faciliteitenregeling;  
 
@@ -42,7 +42,7 @@ l. Het Verzorgstersfonds, beschikking Staatssecretaris van 16 juli 1973;
 
 m. De Compensatieregeling motorrijtuigenbelasting, besluiten van 20 juni 1984 en 3 september 1986;  
 
-n. De Regeling dienstverbandaanspraken geneeskundige verzorging, [artikel 104 AMAR](../../../../../../AMvB/algemeen/militair/ambtenarenreglement/BWBR0003482/README.md);  
+n. De Regeling dienstverbandaanspraken geneeskundige verzorging, artikel 104 AMAR;  
 
 o. Artikel 53 Rrdpl (geneeskundige verstrekkingen gewezen dienstplichtigen);  
 
@@ -52,11 +52,15 @@ q. De Regeling onkostenvergoeding gewezen defensiepersoneel;
 
 r. De Regeling geneeskundige verzorging gepensioneerde militairen;  
 
-s. Voor zover de Minister zich de uitvoering daarvan niet heeft voorbehouden, de [Conversieregeling militaire pensioenen](../../../../../../ministeriele-regeling/conversieregeling/militaire/pensioenen/BWBR0012511/README.md) en de daarmee samenhangende berichtgeving bedoeld in [artikel 3, vijfde lid, van de Kaderwet militaire pensioenen](../../../../../../wet/kaderwet/militaire/pensioenen/BWBR0011955/README.md);  
+s. Voor zover de Minister zich de uitvoering daarvan niet heeft voorbehouden, de Conversieregeling militaire pensioenen en de daarmee samenhangende berichtgeving bedoeld in artikel 3, vijfde lid, van de Kaderwet militaire pensioenen;  
 
-t. De [Uitkeringswet financiële compensatie langdurige militaire dienst](../../../../../../wet/uitkeringswet/financiële/compensatie/langdurige/militaire/dienst/BWBR0005569/README.md);  
+t. De Uitkeringswet financiële compensatie langdurige militaire dienst;  
 
-u. De [Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen](../../../../../../wet/uitkeringswet/tegemoetkoming/twee/tot/vijfjarige/diensttijd/veteranen/BWBR0009197/README.md).   
+u. De Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen; 
+
+v. De artikelen 19 tot en met 25 van het Veteranenbesluit;  
+
+w. De Regeling berekeningsgrondslag inkomensvoorziening.   
 
 ### Artikel  3  
 
@@ -92,7 +96,7 @@ De stukken die op grond van dit besluit worden afgedaan en ondertekend, vermelde
 
 ### Artikel  9  
 
-Het [besluit van 23 april 2009](../../../../../../ministeriele-regeling/mandaatbesluit/uitvoering/defensiespecifieke/uitkeringsregelingen/BWBR0025836/README.md), Stcrt. 2009, 87 wordt ingetrokken. 
+Het besluit van 23 april 2009, Stcrt. 2009, 87 wordt ingetrokken. 
 
 ### Artikel  10  
 

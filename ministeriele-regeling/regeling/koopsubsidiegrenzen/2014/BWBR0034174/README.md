@@ -3,23 +3,23 @@
 ##Regeling van de Minister voor Wonen en Rijksdienst van 6 november 2013, nr. 2013-0000687426, houdende vaststelling van percentages, bedragen en inkomensklassen ingevolge de Wet bevordering eigenwoningbezit en wijziging van enkele bedragen in die wet (Regeling koopsubsidiegrenzen 2014)
 
 De Minister voor Wonen en Rijksdienst,  
-Gelet op de [artikelen 23](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), [26, tweede lid](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), [29, derde, vijfde en zevende lid](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), en [41, eerste en tweede lid, van de Wet bevordering eigenwoningbezit](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md);
+Gelet op de artikelen 23, 26, tweede lid, 29, derde, vijfde en zevende lid, en 41, eerste en tweede lid, van de Wet bevordering eigenwoningbezit;
 Besluit:     
 ### §  1  
 
-####Vaststelling van percentages, bedragen en inkomensklassen ingevolge de [Wet bevordering eigenwoningbezit](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md)
+####Vaststelling van percentages, bedragen en inkomensklassen ingevolge de Wet bevordering eigenwoningbezit
 
 ### Artikel  1  
 
-De rentevaste periode, bedoeld in [artikel 23 van de Wet bevordering eigenwoningbezit](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), is: 10 jaar. 
+De rentevaste periode, bedoeld in artikel 23 van de Wet bevordering eigenwoningbezit, is: 10 jaar. 
 
 ### Artikel  2  
 
-Het percentage van de toetsrente, bedoeld in [artikel 26, eerste lid, van de Wet bevordering eigenwoningbezit](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), bedraagt: 4,2. 
+Het percentage van de toetsrente, bedoeld in artikel 26, eerste lid, van de Wet bevordering eigenwoningbezit, bedraagt: 4,2. 
 
 ### Artikel  3  
 
-De financieringslastnorm, bedoeld in [artikel 29, eerste lid, van de Wet bevordering eigenwoningbezit](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), bedraagt: 
+De financieringslastnorm, bedoeld in artikel 29, eerste lid, van de Wet bevordering eigenwoningbezit, bedraagt: 
 
 a. voor een- en meerpersoonshuishoudens:  
 
@@ -116,7 +116,7 @@ b. voor een- en meerpersoonsouderenhuishoudens:
 
 ### Artikel  4  
 
-Het percentage, bedoeld in [artikel 29, tweede lid, van de Wet bevordering eigenwoningbezit](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), waarmee de financieringslastnorm, bedoeld in het eerste lid van dat artikel, ten hoogste kan worden vermeerderd, bedraagt: 
+Het percentage, bedoeld in artikel 29, tweede lid, van de Wet bevordering eigenwoningbezit, waarmee de financieringslastnorm, bedoeld in het eerste lid van dat artikel, ten hoogste kan worden vermeerderd, bedraagt: 
 
 a. voor een- en meerpersoonshuishoudens:  
 
@@ -213,7 +213,7 @@ b. voor een- en meerpersoonsouderenhuishoudens:
 
 ### Artikel  5  
 
-De inkomensklassen, en de daarbij behorende maximale hypothecaire lening, bedoeld in [artikel 29, vijfde lid, van de Wet bevordering eigenwoningbezit](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md), zijn: 
+De inkomensklassen, en de daarbij behorende maximale hypothecaire lening, bedoeld in artikel 29, vijfde lid, van de Wet bevordering eigenwoningbezit, zijn: 
 
 a. voor een- en meerpersoonshuishoudens:  
 
@@ -310,7 +310,7 @@ b. voor een- en meerpersoonsouderenhuishoudens:
 
 ### §  2  
 
-####Wijziging van de [Wet bevordering eigenwoningbezit](../../../../../wet/wet/bevordering/eigenwoningbezit/BWBR0011919/README.md)
+####Wijziging van de Wet bevordering eigenwoningbezit
 
 ### Artikel  6  
 
@@ -322,7 +322,7 @@ Wijzigt de Wet bevordering eigenwoningbezit.
 
 ### Artikel  7  
 
-De [Regeling koopsubsidiegrenzen 2013](../../../../../ministeriele-regeling/regeling/koopsubsidiegrenzen/2013/BWBR0032479/README.md) wordt ingetrokken.
+De Regeling koopsubsidiegrenzen 2013 wordt ingetrokken.
 
 ### Artikel  8  
 

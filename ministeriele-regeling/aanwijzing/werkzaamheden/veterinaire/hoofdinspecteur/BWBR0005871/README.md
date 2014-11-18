@@ -3,7 +3,7 @@
 ##Aanwijzing werkzaamheden veterinaire hoofdinspecteur
 
 De Staatssecretaris van Welzijn, Volksgezondheid en Cultuur  
-Gelet op [artikel 38, eerste lid, van de Gezondheidswet](../../../../../../wet/gezondheidswet/BWBR0002202/README.md);
+Gelet op artikel 38, eerste lid, van de Gezondheidswet;
 Besluit:    
 
 ### Artikel  1  

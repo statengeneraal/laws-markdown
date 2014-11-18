@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken van 4 oktober 1993, nr. BW93/U2069, directoraat-generaal Openbaar Bestuur, gedaan mede namens Onze Minister van Binnenlandse Zaken;
 
-Gelet op de [artikelen 95](../../../../../../wet/gemeentewet/BWBR0005416/README.md) en [96 van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md);
+Gelet op de artikelen 95 en 96 van de Gemeentewet;
 
 De Raad van State gehoord (advies van 8 februari 1994, nr. W04.93.0656.);
 
@@ -26,18 +26,18 @@ b.inwonertal: het aantal inwoners volgens de door het Centraal Bureau voor de St
 
 c.gedeputeerde staten: het college van gedeputeerde staten van de provincie waarin de gemeente is gelegen;  
 
-d.tijdstip van beëindiging van het raadslidmaatschap: het tijdstip van beëindiging van het lidmaatschap, bedoeld in de [artikelen C 4, tweede lid](../../../../../../wet/kieswet/BWBR0004627/README.md), [X 1, eerste en derde lid](../../../../../../wet/kieswet/BWBR0004627/README.md), [X 6](../../../../../../wet/kieswet/BWBR0004627/README.md) en [X 8, tweede, derde en vijfde lid van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md);  
+d.tijdstip van beëindiging van het raadslidmaatschap: het tijdstip van beëindiging van het lidmaatschap, bedoeld in de artikelen C 4, tweede lid, X 1, eerste en derde lid, X 6 en X 8, tweede, derde en vijfde lid van de Kieswet;  
 
-e.lid van een commissie: een lid van een commissie als bedoeld in de [artikelen 82](../../../../../../wet/gemeentewet/BWBR0005416/README.md), [83](../../../../../../wet/gemeentewet/BWBR0005416/README.md) en [84 van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md), dat niet tevens lid van de raad is of ambtenaar die als zodanig tot lid van een commissie is benoemd.   
+e.lid van een commissie: een lid van een commissie als bedoeld in de artikelen 82, 83 en 84 van de Gemeentewet, dat niet tevens lid van de raad is of ambtenaar die als zodanig tot lid van een commissie is benoemd.   
 
 ###Artikel 1a 
 
-1. De artikelen 2 tot en met 13 van dit besluit zijn van overeenkomstige toepassing op het lid van de raad aan wie ingevolge [artikel X 10 van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat:
+1. De artikelen 2 tot en met 13 van dit besluit zijn van overeenkomstige toepassing op het lid van de raad aan wie ingevolge artikel X 10 van de Kieswet tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, met dien verstande dat:
 
 a.de onkostenvergoeding die dit lid op grond van artikel 2, derde of vierde lid, ontvangt, de helft bedraagt van het bedrag dat op grond van die bepalingen van toepassing is;
 
 b.indien door de raad toepassing is gegeven aan artikel 4, dit lid een uitkering ontvangt voor alle vergaderingen die gedurende het tijdelijk ontslag plaatsvinden of hebben plaatsgevonden. 
-2. Een tijdelijk ontslag als bedoeld in [artikel X 10 van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md) wordt niet aangemerkt als aftreden als bedoeld in de artikelen 7 en 9 en als beëindiging van het raadslidmaatschap als bedoeld in artikel 8, tweede lid.
+2. Een tijdelijk ontslag als bedoeld in artikel X 10 van de Kieswet wordt niet aangemerkt als aftreden als bedoeld in de artikelen 7 en 9 en als beëindiging van het raadslidmaatschap als bedoeld in artikel 8, tweede lid.
 
 ### Hoofdstuk  2  
 
@@ -56,12 +56,12 @@ De raad kan bij verordening bepalen dat ten hoogste 20% van de vergoeding voor d
 
 ### Artikel  4a  
 
-1.  Aan een lid van de raad dat lid is van de vertrouwenscommissie, bedoeld in [artikel 61, derde lid, van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md), dan wel de rekenkamerfunctie, bedoeld in [artikel 81oa van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md), uitoefent dan wel lid is van de onderzoekscommissie als bedoeld in [artikel 155a, derde lid, van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md), wordt voor de duur van het lidmaatschap van de commissie dan wel de duur van de activiteiten per jaar ten laste van de gemeente een toelage verleend van 5% van de vergoeding voor de werkzaamheden op jaarbasis.   
+1.  Aan een lid van de raad dat lid is van de vertrouwenscommissie, bedoeld in artikel 61, derde lid, van de Gemeentewet, dan wel de rekenkamerfunctie, bedoeld in artikel 81oa van de Gemeentewet, uitoefent dan wel lid is van de onderzoekscommissie als bedoeld in artikel 155a, derde lid, van de Gemeentewet, wordt voor de duur van het lidmaatschap van de commissie dan wel de duur van de activiteiten per jaar ten laste van de gemeente een toelage verleend van 5% van de vergoeding voor de werkzaamheden op jaarbasis.   
 2.  Voor de toepassing van het eerste lid stelt de burgemeester de duur van het lidmaatschap van de commissie dan wel de duur van de activiteiten vast.  
 
 ### Artikel  5  
 
-1.  Indien ten aanzien van een gemeente toepassing is gegeven aan [artikel 7 van het Rechtspositiebesluit wethouders](../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md), passen gedeputeerde staten, op voorstel van de gemeenteraad, voor een bepaald tijdvak, de indeling van de raadsleden in een van de klassen, genoemd in de tabellen I en II, dienovereenkomstig aan.   
+1.  Indien ten aanzien van een gemeente toepassing is gegeven aan artikel 7 van het Rechtspositiebesluit wethouders, passen gedeputeerde staten, op voorstel van de gemeenteraad, voor een bepaald tijdvak, de indeling van de raadsleden in een van de klassen, genoemd in de tabellen I en II, dienovereenkomstig aan.   
 2.   Gedeputeerde staten kunnen na afloop van het tijdvak, bedoeld in het eerste lid, een nieuw tijdvak vaststellen.   
 3.   Van de besluiten, genoemd in het eerste en tweede lid, doen gedeputeerde staten onverwijld schriftelijk mededeling aan Onze Minister.  
 
@@ -98,7 +98,7 @@ b.gebruik van een eigen computer, bijbehorende apparatuur en software.
 
 ### Artikel  8a  
 
-1. Een lid van de raad dat op grond van [artikel 77 van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) meer dan dertig dagen onafgebroken het voorzitterschap van de raad waarneemt, ontvangt voor die tijd voor die waarneming een toeslag van 8% van zijn vergoeding als lid van de raad. 
+1. Een lid van de raad dat op grond van artikel 77 van de Gemeentewet meer dan dertig dagen onafgebroken het voorzitterschap van de raad waarneemt, ontvangt voor die tijd voor die waarneming een toeslag van 8% van zijn vergoeding als lid van de raad. 
 2. Het eerste lid is van overeenkomstige toepassing ten aanzien van de onkostenvergoeding, bedoeld in tabel II.
 
 ### Artikel  8b  
@@ -133,23 +133,27 @@ b. voor zover de ziekte of het dienstongeval niet aan eigen schuld of onvoorzich
 ### Artikel  10  
 
 1. De raad kan bij verordening bepalen dat het college van burgemeester en wethouders ten behoeve van de leden van de raad één of meer collectieve verzekeringen afsluit, waarbij wordt voorzien in de opbouw van een ouderdomspensioen en in geldelijke voorzieningen bij invaliditeit en overlijden.  
-2. Dit artikel is niet van toepassing op een lid van de raad dat is benoemd in een plaats die is opengevallen als gevolg van het tijdelijk ontslag van een lid van de raad wegens zwangerschap en bevalling of ziekte, ingevolge [artikel X 12 van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md).
+2. Dit artikel is niet van toepassing op een lid van de raad dat is benoemd in een plaats die is opengevallen als gevolg van het tijdelijk ontslag van een lid van de raad wegens zwangerschap en bevalling of ziekte, ingevolge artikel X 12 van de Kieswet.
 
 ### Artikel  11  
 
-1.  Een raads- of commissielid ontvangt ten laste van de gemeente een tegemoetkoming in de kosten van een ziektekostenverzekering van € 203,21 per jaar.   
+1.  Een raadslid ontvangt ten laste van de gemeente een tegemoetkoming in de kosten van een ziektekostenverzekering van € 97,54 per jaar.   
 2.  Het in het eerste lid genoemde bedrag wordt bij ministeriële regeling gewijzigd overeenkomstig de wijzigingen die de bezoldiging van het personeel in de sector Rijk ondergaat.  
+
+### Artikel  11a  
+
+Ten aanzien van individuele gevallen kan het college van burgemeester en wethouders artikel 11, eerste lid, buiten toepassing laten of daarvan afwijken voor zover toepassing van de in het Correctiebesluit in verband met het schrappen van de tegemoetkoming ziektekostenverzekering commissieleden (Stb. 2014, 431) aan dit artikellid verleende terugwerkende kracht, zal leiden tot een onbillijkheid van overwegende aard. 
 
 ### Artikel  12  
 
-1.  In het geval een raadslid een uitkering op grond van de [Werkloosheidswet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) ontvangt en de na toepassing van [artikel 20 van die wet](../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) ontstane korting op deze uitkering ten gevolge van het uitoefenen van het raadlidmaatschap meer bedraagt dan de vergoeding voor de werkzaamheden wordt deze vergoeding ten laste van de gemeente verhoogd tot het bedrag van bedoelde korting.   
-2.  In het geval een raadslid een uitkering op grond van het [Besluit Werkloosheid onderwijs- en onderzoekpersoneel](../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) ontvangt en de na toepassing van [artikel 6, vierde lid, van dat besluit](../../../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) ontstane korting op deze uitkering ten gevolge van het uitoefenen van het raadslidmaatschap meer bedraagt dan de vergoeding voor de werkzaamheden wordt deze vergoeding ten laste van de gemeente verhoogd tot het bedrag van bedoelde korting.   
+1.  In het geval een raadslid een uitkering op grond van de Werkloosheidswet ontvangt en de na toepassing van artikel 20 van die wet ontstane korting op deze uitkering ten gevolge van het uitoefenen van het raadlidmaatschap meer bedraagt dan de vergoeding voor de werkzaamheden wordt deze vergoeding ten laste van de gemeente verhoogd tot het bedrag van bedoelde korting.   
+2.  In het geval een raadslid een uitkering op grond van het Besluit Werkloosheid onderwijs- en onderzoekpersoneel ontvangt en de na toepassing van artikel 6, vierde lid, van dat besluit ontstane korting op deze uitkering ten gevolge van het uitoefenen van het raadslidmaatschap meer bedraagt dan de vergoeding voor de werkzaamheden wordt deze vergoeding ten laste van de gemeente verhoogd tot het bedrag van bedoelde korting.   
 3.  In het geval een raadslid een uitkering in verband met gehele of gedeeltelijke arbeidsongeschiktheid ontvangt, kan de vergoeding voor de werkzaamheden op verzoek van het desbetreffende raadslid worden verlaagd. 
 
 ### Artikel  12a  
 
-1.  Het college van burgemeester en wethouders kent een lid van de raad dat naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van de gemeente op aanvraag een tegemoetkoming toe voor een voorziening als bedoeld in [artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
-2.  Het gestelde bij of krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.  
+1.  Het college van burgemeester en wethouders kent een lid van de raad dat naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van de gemeente op aanvraag een tegemoetkoming toe voor een voorziening als bedoeld in artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen.   
+2.  Het gestelde bij of krachtens artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.  
 
 ### Artikel  13  
 
@@ -159,7 +163,7 @@ b. voor zover de ziekte of het dienstongeval niet aan eigen schuld of onvoorzich
 
 ### Artikel  13a  
 
-Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) worden aangewezen: 
+Als eindheffingsbestanddeel als bedoeld in artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964 worden aangewezen: 
 
 a. de onkostenvergoeding, bedoeld in artikel 2, derde lid;  
 
@@ -182,7 +186,7 @@ Indien het college van burgemeester en wethouders ten behoeve van een veilige wo
 ### Artikel  14  
 
 1.  Aan een lid van een commissie wordt een vergoeding voor het bijwonen van de vergaderingen van de commissie toegekend ter hoogte van het bedrag per vergadering, genoemd in tabel IV bij dit besluit. De artikelen 2, tweede lid, 6, 7, 7a, 12, 13 en 13b zijn van overeenkomstige toepassing.   
-2.  Indien ten aanzien van een gemeente toepassing is gegeven aan [artikel 7 van het Rechtspositiebesluit wethouders](../../../../../../AMvB/rechtspositiebesluit/wethouders/BWBR0006535/README.md), kan de gemeenteraad, al dan niet voor een bepaald tijdvak, de indeling van de commissieleden in een van de klassen, genoemd in tabel IV, aanpassen.  
+2.  Indien ten aanzien van een gemeente toepassing is gegeven aan artikel 7 van het Rechtspositiebesluit wethouders, kan de gemeenteraad, al dan niet voor een bepaald tijdvak, de indeling van de commissieleden in een van de klassen, genoemd in tabel IV, aanpassen.  
 
 ### Artikel  15  
 
@@ -198,11 +202,11 @@ b. een lid van een commissie ten aanzien waarvan de vergoeding niet geacht kan w
 
 ### Artikel  16  
 
-Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): 
+Bij toepassing van artikel 39c van de Wet op de loonbelasting 1964: 
 
 a. wordt op aanvraag door het college van burgemeester en wethouders een vergoeding verstrekt voor de belastingheffing als gevolg van de verstrekkingen, bedoeld in artikel 7a, eerste lid;  
 
-b. wordt het bedrag, genoemd in artikel 2, derde lid, artikel 11, eerste lid, en de vergoeding, bedoeld in artikel 13, eerste en derde lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en  
+b. wordt het bedrag, genoemd in artikel 2, derde lid, artikel 11, eerste lid, en de vergoeding, bedoeld in artikel 13, eerste en derde lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001, en  
 
 c. blijft artikel 13a buiten toepassing.   
 
@@ -217,7 +221,7 @@ Het koninklijk besluit van 23 november 1976 tot uitvoering van de artikelen 64*f
 
 ### Artikel  18a  
 
-1.  In afwijking van artikel 2, derde lid, en tot het tijdstip van aftreden van leden van de raad bedoeld in [artikel C 4 van de Kieswet](../../../../../../wet/kieswet/BWBR0004627/README.md), na de gemeenteraadsverkiezingen in het jaar 2018, ontvangen de raadsleden van een gemeente met 100.001 tot 150.000 inwoners € 176,66 per maand, de raadsleden van een gemeente met 150.001 tot 375.000 inwoners € 210,46 per maand en de raadsleden van een gemeente met meer dan 375.001 inwoners € 252,43 per maand, dan wel bij het aftreden van de leden van deze raad, bedoeld in [artikel 53, eerste lid, van de Wet algemene regels herindeling](../../../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md), in het geval de herindelingsverkiezingen van de desbetreffende gemeente valt voor het bovengenoemde tijdstip.   
+1.  In afwijking van artikel 2, derde lid, en tot het tijdstip van aftreden van leden van de raad bedoeld in artikel C 4 van de Kieswet, na de gemeenteraadsverkiezingen in het jaar 2018, ontvangen de raadsleden van een gemeente met 100.001 tot 150.000 inwoners € 180,90 per maand, de raadsleden van een gemeente met 150.001 tot 375.000 inwoners € 215,51 per maand en de raadsleden van een gemeente met meer dan 375.001 inwoners € 258,49 per maand, dan wel bij het aftreden van de leden van deze raad, bedoeld in artikel 53, eerste lid, van de Wet algemene regels herindeling, in het geval de herindelingsverkiezingen van de desbetreffende gemeente valt voor het bovengenoemde tijdstip.   
 2.  Tot het tijdstip genoemd in het eerste lid, is artikel 2, vierde lid, van toepassing op de bedragen genoemd in het eerste lid.  
 
 ### Artikel  19  

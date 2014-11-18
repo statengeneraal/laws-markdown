@@ -109,7 +109,7 @@ c. aan de rechtbank, aan wier voorzitter inschrijving is verzocht.
 5.   Schrapping van het tableau brengt mede verlies van de betrekkingen, waarbij de hoedanigheid van advocaat vereiste voor verkiesbaarheid of benoembaarheid is.  
 
 ### Artikel  8a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De advocaat waarop de gegevens betrekking hebben, de algemene raad, de secretaris van de algemene raad, de raden van de orden in de arrondissementen, het college van toezicht alsmede de griffiers, voorzitters, plaatsvervangend voorzitters, leden en plaatsvervangende leden van een raad van discipline en het hof van discipline hebben kosteloos inzage in de op grond van artikel 8 op het tableau verwerkte gegevens.   
 2.  Een ieder heeft kosteloos inzage in de op het tableau verwerkte gegevens, bedoeld in: 
@@ -128,7 +128,7 @@ f. artikel 8, eerste lid, onder l, voor zover het betreft een onherroepelijke be
 3.  De gegevens, bedoeld in het tweede lid, onder b tot en met e, voor zover deze betrekking hebben op het opleggen van de maatregel van schorsing in de uitoefening van de praktijk en een gelijktijdig daarmee opgelegde boete, kunnen door anderen dan de in het eerste lid bedoelde personen en instanties niet worden ingezien, indien tien jaren zijn verstreken na het onherroepelijk worden van de beslissing waarop de gegevens betrekking hebben. De raad van discipline of het hof van discipline kan bij zijn beslissing bepalen dat de in de eerste volzin bedoelde termijn wordt verkort, met dien verstande dat de termijn niet korter kan zijn dan de duur van de schorsing.  
 
 ### Artikel  8b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 De secretaris van de algemene raad maakt schriftelijk een lijst openbaar van gegevens over advocaten ten aanzien van wie een beslissing tot het onvoorwaardelijk opleggen van een maatregel als bedoeld in artikel 48, tweede lid, onder d of e, onherroepelijk is geworden. In deze lijst worden opgenomen: 
 
@@ -143,7 +143,7 @@ d. de maatregel die aan de advocaat is opgelegd, voor zover van toepassing met v
 e. de datum van de beslissing waarbij de maatregel is opgelegd alsmede de datum waarop de maatregel ingaat.   
 
 ### Artikel  8c  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Zij die verlangen niet langer op het tableau ingeschreven te staan of enige betrekking verkrijgen waarmee het beroep van advocaat onverenigbaar is, worden op hun aangifte door de secretaris van de algemene raad van het tableau geschrapt. In het laatstbedoelde geval kan eveneens de rechtbank in het arrondissement waarin de advocaat kantoor houdt tot schrapping beslissen op requisitoir van het openbaar ministerie, de raad van de orde in het arrondissement gehoord. Van de beslissing tot schrapping wordt door de griffier van de rechtbank kennisgegeven aan de secretaris van de algemene raad met het oog op de verwerking op het tableau.   
 2.  Van het tableau worden eveneens geschrapt zij die, hetzij onafgebroken, hetzij met onderbrekingen, gedurende een tijdvak van drie jaar voorwaardelijk als advocaat ingeschreven hebben gestaan: 
@@ -157,7 +157,7 @@ b. zonder dat het bewijs kan worden overgelegd dat met gunstig gevolg het in art
 6.  De secretaris van de algemene raad geeft van de inschrijving of de schrapping binnen acht dagen kennis aan de algemene raad, de raad van de orde in het arrondissement en het college van toezicht.  
 
 ### Artikel  8d  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 De artikelen 8, eerste lid, aanhef en onder a, b, d, en f tot en met m, en tweede lid, 8a, 8b, en 8c, eerste lid, zijn van overeenkomstige toepassing op advocaten die hun werkzaamheden uitoefenen onder hun oorspronkelijke beroepstitel als bedoeld in artikel 16h, met dien verstande dat: 
 
@@ -166,7 +166,7 @@ De artikelen 8, eerste lid, aanhef en onder a, b, d, en f tot en met m, en tweed
 – in artikel 8a, tweede lid, onderdelen b tot en met e, en artikel 8b voor «artikel 48, tweede lid, onder d of e» telkens wordt gelezen: artikel 48, tweede lid, onder e, of artikel 60aa, tweede lid.   
 
 ### Artikel  8e  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De raad van de orde in een arrondissement kan de raad van discipline verzoeken te beslissen dat de advocaat die niet duurzaam en stelselmatig het beroep van advocaat uitoefent, van het tableau wordt geschrapt.   
 2.  Op de behandeling van het verzoek zijn de artikelen 47, 49 en 50 van overeenkomstige toepassing, met dien verstande dat in de artikelen 49 en 50 voor «de klager» wordt gelezen: de raad van de orde in een arrondissement.   
@@ -174,7 +174,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Artikel 9, vijfde en zesde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  8f  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Schrapping van het tableau brengt het verlies mee van de betrekkingen, waarbij de hoedanigheid van advocaat is vereist voor verkiesbaarheid of benoembaarheid. 
 
@@ -279,7 +279,7 @@ e. de afgifte van de verklaring dat een advocaat voldoet aan de eisen, bedoeld o
 De advocaten oefenen de praktijk uit overeenkomstig de bevoegdheden en vereisten, bij de Wetboeken van Burgerlijke Rechtsvordering en Strafvordering en bij de bijzondere wetten en besluiten gegeven en gevorderd, en overeenkomstig deze wet en de daarop berustende verordeningen en besluiten. 
 
 ### Artikel  10a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  In het belang van een goede rechtsbedeling draagt de advocaat zorg voor de rechtsbescherming van zijn cliënt. Daartoe is de advocaat bij de uitoefening van zijn beroep: 
 
@@ -299,7 +299,7 @@ e. vertrouwenspersoon en neemt hij geheimhouding in acht binnen de door de wet e
 Zowel in burgerlijke als in strafzaken hebben de advocaten de bevoegdheid om als zodanig voor alle rechterlijke colleges binnen het Rijk op te treden. 
 
 ### Artikel  11a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Voor zover niet bij wet of bij verordening van het college van afgevaardigden anders is bepaald, is de advocaat ten aanzien van al hetgeen waarvan hij uit hoofde van zijn beroepsuitoefening als zodanig kennis neemt tot geheimhouding verplicht. Dezelfde verplichting geldt voor medewerkers en personeel van de advocaat, alsmede andere personen die betrokken zijn bij de beroepsuitoefening.   
 2.  De geheimhoudingsplicht, bedoeld in het eerste lid, blijft voortbestaan na beëindiging van de beroepsuitoefening of de betrekking waarin de werkzaamheden zijn verricht.  
@@ -410,7 +410,7 @@ Voor de uitoefening van de werkzaamheden die met de vertegenwoordiging en de ver
 3.   De Nederlandse orde van advocaten en de orden zijn rechtspersonen.  
 
 ### Artikel  17a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De Nederlandse orde van advocaten kent de volgende organen: 
 
@@ -515,7 +515,7 @@ De algemene raad en de raden van toezicht vertegenwoordigen de Nederlandse orde 
 4.   Jaarlijks wordt door de algemene raad en de raden van toezicht een verslag betreffende het afgelopen jaar uitgebracht en in de vergadering van het college van afgevaardigden, onderscheidenlijk van de orde, ter bespreking gesteld.  
 
 ### Artikel  32a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Er is een raad van advies, bestaande uit vijf of zeven leden, de voorzitter daaronder begrepen. De raad van advies bestaat in meerderheid uit leden die geen advocaat zijn.   
 2.  Alvorens een voorstel voor een verordening als bedoeld in artikel 28, eerste lid en tweede lid, onderdelen a tot en met d, bij het college van afgevaardigden wordt ingediend, wordt het ontwerp voor advies aan de raad van advies voorgelegd.   
@@ -544,10 +544,10 @@ De Nederlandse orde van advocaten, de algemene raad, het college van afgevaardig
 
 ####Het college van toezicht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  36a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Er is een college van toezicht dat bestaat uit drie leden, waaronder de deken van de algemene raad, die tevens voorzitter is.   
 2.  Met uitzondering van de deken van de algemene raad, worden de leden benoemd bij koninklijk besluit, op voordracht van Onze Minister van Veiligheid en Justitie. Een voordracht voor benoeming wordt niet gedaan dan op aanbeveling van de algemene raad. Daartoe maakt de algemene raad voor iedere vacature in het college een lijst van aanbeveling van zo mogelijk drie kandidaten op. Het college van afgevaardigden kan de algemene raad adviseren inzake de lijst van aanbeveling. De algemene raad zendt de lijst van aanbeveling, vergezeld van een op iedere kandidaat betrekking hebbende verklaring omtrent het gedrag als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens, en eventueel vergezeld van het advies van het college van afgevaardigden aan Onze Minister van Veiligheid en Justitie. Een in de aanbeveling opgenomen kandidaat kan uitsluitend wegens zwaarwegende en te motiveren gronden worden geweigerd door Onze Minister van Veiligheid en Justitie.   
@@ -558,7 +558,7 @@ Treedt in werking op een nader te bepalen tijdstip
 7.  Aan de besluitvorming door de algemene raad, bedoeld in het tweede lid, wordt niet deelgenomen door de deken.  
 
 ### Artikel  36b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De in artikel 36a, tweede lid, bedoelde leden van het college van toezicht kunnen niet tevens advocaat zijn.   
 2.  De in artikel 36a, tweede lid, bedoelde leden kunnen niet tevens: 
@@ -578,7 +578,7 @@ e. het lidmaatschap bekleden van vaste colleges van advies en bijstand aan de Re
 6.  Onder het tweede lid, onderdelen d en e, worden niet begrepen de leden van de Raad van State, de staatsraden en de staatsraden in buitengewone dienst die uitsluitend in de Afdeling advisering van de Raad van State zijn benoemd.  
 
 ### Artikel  36c  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Voor zover het betreft de in artikel 36a, tweede lid, bedoelde leden, eindigt het lidmaatschap van het college van toezicht: 
 
@@ -675,22 +675,22 @@ b. het lid bij onherroepelijk geworden rechterlijke uitspraak onder curatele is 
 
 ####Toezicht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  45a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De deken van de orde in het arrondissement is belast met het toezicht op de naleving door advocaten die kantoor houden in dat arrondissement van het bepaalde bij of krachtens deze wet met inbegrip van toezicht op de zorg die zij als advocaten behoren te betrachten ten opzichte van degenen wiens belangen zij als zodanig behartigen of behoren te behartigen, inbreuken op verordeningen van de Nederlandse orde van advocaten en enig handelen of nalaten dat een behoorlijk advocaat niet betaamt.   
 2.  De deken is voorts belast met het toezicht op de naleving van het bepaalde bij of krachtens de Wet ter voorkoming van witwassen en financieren van terrorisme.   
 3.  Ten behoeve van het houden van het toezicht, bedoeld in het eerste lid, zijn de advocaat, zijn medewerkers en personeel, alsmede andere personen die bij de beroepsuitoefening betrokken zijn, niet gehouden aan de geheimhoudingsplicht, bedoeld in artikel 11a. In dat geval geldt voor de deken alsmede voor de door hem ten behoeve van de uitoefening van het toezicht ingeschakelde medewerkers, personeel en andere personen een geheimhoudingsplicht, gelijk aan die bedoeld in artikel 11a.  
 
 ### Artikel  45b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 De deken van de algemene raad kan aan de deken van de orde in het arrondissement, gehoord de overige leden van het college van toezicht, aanwijzingen geven met betrekking tot de uitoefening van de taken, bedoeld in artikel 45a. 
 
 ### Artikel  45c  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het hof van discipline schorst op verzoek van het college van toezicht een deken in de taakuitoefening ingevolge de artikelen 45a, eerste of tweede lid, en 46c, indien en voor zolang: 
 
@@ -714,26 +714,26 @@ b. de deken bij onherroepelijk geworden rechterlijke uitspraak onder curatele is
 6.  Ingeval het hof van discipline toepassing geeft aan het eerste tot en met vierde lid, wordt de taakuitoefening ingevolge de artikelen 45a, eerste en tweede lid, en 46c waargenomen door het in artikel 23, eerste lid, bedoelde lid van de raad van de orde in het arrondissement.  
 
 ### Artikel  45d  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het college van toezicht kan de jaarlijkse vergadering van de orde, bedoeld in artikel 22, tweede lid, schriftelijk verzoeken de deken van de orde in het arrondissement te ontslaan en in zijn plaats een andere deken te kiezen, wegens tekortschieten in de taakuitoefening ingevolge de artikelen 45a, eerste of tweede lid, of 46c, wegens ongeschiktheid of onbekwaamheid voor de functie dan wel andere zwaarwegende in de persoon van betrokkene gelegen redenen.   
 2.  Het in het eerste lid bedoelde verzoek wordt gericht tot het in artikel 23, eerste lid, bedoelde lid van de raad van de orde in het arrondissement. De jaarlijkse vergadering van de orde in het arrondissement komt binnen zes weken na indiening van het verzoek bijeen om op het verzoek te beslissen.  
 
 ### Artikel  45e  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het college van toezicht stelt een jaarrekening en een begroting vast, welke de goedkeuring behoeft van Onze Minister van Veiligheid en Justitie, gehoord de algemene raad.   
 2.  Op de beslissing omtrent de goedkeuring, bedoeld in het eerste lid, is afdeling 10.2.1 van de Algemene wet bestuursrecht van overeenkomstige toepassing.   
 3.  Bij de toepassing van het eerste lid maakt de deken geen deel uit van de algemene raad.  
 
 ### Artikel  45f  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het college van toezicht stelt jaarlijks een werkplan vast, alsmede een verslag van werkzaamheden, waarin in ieder geval het gevoerde beleid in het algemeen en de doelmatigheid en doeltreffendheid van zijn werkzaamheden en werkwijze in het bijzonder in het afgelopen jaar worden neergelegd.   
 2.  Het werkplan en het verslag worden toegezonden aan Onze Minister van Veiligheid en Justitie, de algemene raad, het college van afgevaardigden en de raden van de orden in de arrondissementen, en worden voorts algemeen verkrijgbaar gesteld.  
 
 ### Artikel  45g  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De deken kan voor de overtreding van het bepaalde bij of krachtens een verordening als bedoeld in de artikelen 9b, zesde lid, 9c, tweede lid, en 28, tweede lid, onderdelen a tot en met d, een bestuurlijke boete of een last onder dwangsom opleggen.   
 2.  De bestuurlijke boete bedraagt ten hoogste een bedrag van de geldboete van de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
@@ -741,12 +741,12 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Het bedrag van de opgelegde bestuurlijke boete en de verbeurde last onder dwangsom komt ten bate aan de Nederlandse orde van advocaten.  
 
 ### Artikel  45h  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Het college van toezicht stelt beleidsregels vast voor de uitoefening van de taken ingevolge artikel 45a, eerste en tweede lid, en 46c. 
 
 ### Artikel  45i  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het college van toezicht ziet toe op de werking van het toezicht, bedoeld in artikel 45a en de klachtbehandeling door de deken ingevolge artikel 46c.   
 2.  De deken van de orde in het arrondissement verstrekt aan het college alle informatie die deze redelijkerwijs nodig heeft voor de uitoefening van de in het eerste lid bedoelde taak.  
@@ -823,7 +823,7 @@ b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in artikel 1
 2. Indien de advocaat zich in Zwitserland heeft laten inschrijven met inachtneming van de op 21 juni 1999 tot stand gekomen Overeenkomst tussen de Europese Gemeenschap en haar lidstaten enerzijds en de Zwitserse Bondsstaat anderzijds, over het vrije verkeer van personen, is het eerste lid van overeenkomstige toepassing.
 
 ### Artikel  46fb  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De griffier van de raad van discipline zendt zo spoedig mogelijk een afschrift van het klaagschrift, de daarbij gevoegde stukken en eventuele aanvullingen daarop aan de advocaat tegen wie de klacht zich richt en de deken van de orde waartoe de betrokken advocaat behoort.   
 2.  Geen afschrift hoeft te worden gezonden aan de deken voor zover het klaagschrift door hem is ingediend, of indien toepassing wordt gegeven aan het bepaalde in artikel 46i, eerste lid.  
@@ -843,13 +843,13 @@ Treedt in werking op een nader te bepalen tijdstip
 5.  Indien de raad van oordeel is dat het verzet gegrond is, wordt de klacht in verdere behandeling genomen.  
 
 ### Artikel  46i  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Indien de klacht zich naar het oordeel van de voorzitter van de raad van discipline daartoe leent, en uit het klaagschrift blijkt dat de klacht nog niet is voorgelegd aan een instantie die bevoegd is kennis te nemen van klachten of geschillen op grond van een regeling als bedoeld in artikel 28, tweede lid, onder b, kan de voorzitter besluiten de klacht in handen te stellen van de bevoegde instantie. Hij doet hiervan schriftelijk mededeling aan de klager, de betrokken advocaat en de deken.   
 2.  Indien de voorzitter toepassing geeft aan het eerste lid, stelt hij de op de zaak betrekking hebbende stukken in handen van de klachten- of geschilleninstantie. De beslissing schorst de termijn, bedoeld in artikel 46g, eerste lid, onder a. Tegen de beslissing staat geen rechtsmiddel open.  
 
 ### Artikel  46j  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Tot aan de behandeling van de klacht ter zitting kan de voorzitter van de raad van discipline besluiten dat: 
 
@@ -865,7 +865,7 @@ d. de klacht kennelijk van onvoldoende gewicht is.
 4.  Artikel 46h is van overeenkomstige toepassing ten aanzien van de beslissing in het eerste lid.  
 
 ### Artikel  46k  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De voorzitter van de raad van discipline kan de betrokken advocaat in de gelegenheid stellen om binnen vier weken na de dag van verzending van het afschrift van het klaagschrift overeenkomstig artikel 46fb, eerste lid, een verweerschrift in te dienen. De griffier van de raad zendt een afschrift van het verweerschrift aan de klager en de deken.   
 2.  Indien toepassing is gegeven aan het eerste lid, kan de voorzitter de klager in de gelegenheid stellen te repliceren binnen vier weken na verzending van een afschrift van het verweerschrift. De griffier zendt een afschrift van het repliek aan de advocaat, alsmede aan de deken, voor zover deze niet de klager is.   
@@ -873,7 +873,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  De voorzitter kan de in het eerste tot en met derde lid genoemde termijnen verlengen of deze termijnen op een ander moment laten aanvangen, indien hem blijkt dat daartoe in redelijkheid aanleiding bestaat.  
 
 ### Artikel  46l  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Tenzij toepassing wordt gegeven aan artikel 46g of 46i, kan de voorzitter van de raad van discipline, na verzending van een afschrift van het klaagschrift op grond van artikel 46fb, eerste lid, een vooronderzoek gelasten.   
 2.  Indien toepassing wordt gegeven aan het eerste lid, draagt de voorzitter het vooronderzoek op aan de deken van de orde waartoe de betrokken advocaat behoort, tenzij hij gronden aanwezig acht om het onderzoek op te dragen aan: 
@@ -891,7 +891,7 @@ d. de griffier.
 6.  De voorzitter kan besluiten dat het vooronderzoek wordt opgeschort of beëindigd voordat het verslag wordt uitgebracht.  
 
 ### Artikel  46m  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De voorzitter van de raad van discipline kan de vooronderzoeker aanwijzingen geven.   
 2.  Op het vooronderzoek en de vooronderzoeker zijn de artikelen 5:13 tot en met 5:17 en 5:20, eerste lid, van de Algemene wet bestuursrecht van overeenkomstige toepassing. Bij het opdragen van een vooronderzoek bepaalt de voorzitter welke bevoegdheden de vooronderzoeker namens de raad kan uitoefenen.   
@@ -902,7 +902,7 @@ Treedt in werking op een nader te bepalen tijdstip
 7.  Indien de klacht is ingediend door de deken, wordt het vooronderzoek niet aan hem opgedragen. In dat geval draagt de voorzitter het vooronderzoek op aan één van de personen, bedoeld in artikel 46l, tweede lid, onderdeel a tot en met d.  
 
 ### Artikel  46n  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De voorzitter van de raad van discipline kan de vooronderzoeker opdragen te onderzoeken of de klacht minnelijk kan worden geschikt. Voorts kan de voorzitter tot het moment waarop de raad uitspraak doet onderzoeken of de klacht minnelijk kan worden geschikt.   
 2.  Indien een minnelijke schikking van de klacht mogelijk blijkt, wordt deze op schrift gesteld en ondertekend door de klager en de betrokken advocaat. Een afschrift daarvan wordt gezonden aan de griffier van de raad, alsmede aan de deken en het college van toezicht.   
@@ -919,7 +919,7 @@ Treedt in werking op een nader te bepalen tijdstip
 In geval van intrekking van de klacht wordt de behandeling daarvan gestaakt, tenzij de raad van discipline beslist dat de behandeling van de klacht om redenen aan het algemeen belang ontleend, moet worden voortgezet. In dat laatste geval wordt de klacht verder behandeld als ware deze afkomstig van de deken. 
 
 ### Artikel  47b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Niemand kan in gevolge de bepalingen in deze paragraaf andermaal tuchtrechtelijk worden berecht voor een handelen of nalaten waarvoor ten aanzien van hem een onherroepelijk geworden tuchtrechtelijke eindbeslissing is genomen.   
 2.  Het eerste lid is niet van toepassing: 
@@ -930,7 +930,7 @@ b. indien toepassing is gegeven aan artikel 60ab, eerste en tweede lid, en op de
 3.  Indien toepassing is gegeven aan artikel 60ab en nadien de klacht gegrond wordt verklaard, wordt bij het bepalen van de maatregel als bedoeld in artikel 48, tweede lid, rekening gehouden met de reeds opgelegde schorsing in de uitoefening van de praktijk of voorlopige voorziening met betrekking tot de praktijkuitoefening.  
 
 ### Artikel  47c  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Indien aan een advocaat een maatregel als bedoeld in artikel 48, eerste lid, onderdelen d of e, is opgelegd dan wel op grond van artikel 60ab, eerste lid, is geschorst in de uitoefening van de praktijk of tegen hem een voorlopige voorziening met betrekking tot de praktijkuitoefening is getroffen, blijft betrokkene onderworpen aan tuchtrechtspraak ter zake van enig handelen of nalaten gedurende de tijd dat hij werkzaam was in de uitoefening van het beroep.   
 2.  Advocaten die niet meer als zodanig zijn ingeschreven overeenkomstig artikel 1, eerste lid, blijven onderworpen aan tuchtrechtspraak ter zake van enig handelen of nalaten gedurende de tijd dat zij ingeschreven waren.  
@@ -959,7 +959,7 @@ d. schrapping van het tableau.
 2.   De proeftijd beloopt ten hoogste twee jaren. Zij gaat in zodra de beslissing in kracht van gewijsde is gegaan.  
 
 ### Artikel  48aa  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De geldboete, bedoeld in artikel 48, tweede lid, onderdeel c, bedraagt ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
 2.  De beslissing tot oplegging van de geldboete bevat de termijn waarbinnen en de wijze waarop het bedrag moet worden betaald. Op verzoek van de betrokken advocaat kan de voorzitter van de raad van discipline de termijn verlengen.   
@@ -967,7 +967,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Wordt de boete niet voldaan binnen de in het tweede lid gestelde termijn, dan kan de raad, na de betrokken advocaat in de gelegenheid te hebben gesteld daarover te worden gehoord, ambtshalve beslissen op deze grond een maatregel als bedoeld in artikel 48, tweede lid, onder c, d of e, op te leggen.  
 
 ### Artikel  48ab  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De beslissing tot het opleggen van een geldboete levert een executoriale titel op, die met toepassing van het Wetboek van Burgerlijke Rechtsvordering ten uitvoer kan worden gelegd.   
 2.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de tenuitvoerlegging van de beslissing, bedoeld in het eerste lid.  

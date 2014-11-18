@@ -3,7 +3,7 @@
 ##Formulier van Kennisgeving Vestiging en Neerlegging Praktijk Artsen, Tandartsen, Apothekers Vroedvrouwen en Tandheelkundigen
 
 De Minister van Sociale Zaken en Volksgezondheid,
-Gelet op [artikel 3 van het Koninklijk besluit van 14 juli 1959, Stb. 284, tot uitvoering van artikel 42 van de Gezondheidswet (Besluit kennisgeving mutaties Gezondheidswet)](../../../../../../../../../../../AMvB/besluit/kennisgeving/mutaties/gezondheidswet/BWBR0002322/README.md),
+Gelet op artikel 3 van het Koninklijk besluit van 14 juli 1959, Stb. 284, tot uitvoering van artikel 42 van de Gezondheidswet (Besluit kennisgeving mutaties Gezondheidswet),
 Besluit:   vast te stellen het model van het formulier van kennisgeving van vestiging en van neerlegging van de praktijk door artsen, tandartsen, apothekers, vroedvrouwen en tandheelkundigen, welk model bij deze beschikking is gevoegd.     
 
 's-Gravenhage 
@@ -17,6 +17,8 @@ Voor deze:
 De 
 secretaris-generaal, 
 J. H. Klatte    
+
+Materieel uitgewerkt per 17-11-2014 
 
 FORMULIER van kennisgeving van vestiging en neerlegging van de praktijk door artsen, tandartsen, apothekers, vroedvrouwen en tandheelkundigen, zoals bedoeld in artikel 3 van het Koninklijk besluit van 14 juli 1959, *Stb.* 284 (Besluit kennisgeving mutaties Gezondheidswet). Bestemd voor de geneeskundige/farmaceutische hoofdinspecteur van de volksgezondheid, te 's-Gravenhage.  
 

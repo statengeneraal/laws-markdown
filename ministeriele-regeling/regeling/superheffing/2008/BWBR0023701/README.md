@@ -5,7 +5,7 @@
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
 Gelet op de artikelen 66 en 78 van Verordening (EG) nr. 1234/2007 van de Raad van de Europese Unie van 22 oktober 2007 houdende een gemeenschappelijke ordening van de landbouwmarkten en specifieke bepalingen voor een aantal landbouwproducten (PbEU L299);
 
-Voorts gelet op de [artikelen 13](../../../../../wet/landbouwwet/BWBR0002252/README.md), [19](../../../../../wet/landbouwwet/BWBR0002252/README.md), [23](../../../../../wet/landbouwwet/BWBR0002252/README.md), [27](../../../../../wet/landbouwwet/BWBR0002252/README.md), en [28 van de Landbouwwet](../../../../../wet/landbouwwet/BWBR0002252/README.md);
+Voorts gelet op de artikelen 13, 19, 23, 27, en 28 van de Landbouwwet;
 Besluit:     
 ### Paragraaf  1  
 
@@ -119,7 +119,7 @@ b. kan erkenning van de aanspraak op het quotum bij de verkrijger plaatsvinden, 
 1.  In afwijking van het bepaalde in de artikelen 7, 8 en 9 gaat door overdracht van een bedrijf of grond krachtens erfrecht dan wel huwelijksvermogensrecht een quotum op de rechthebbende over, met inachtneming van de hierna volgende bepalingen.   
 2.  De Minister wijzigt op verzoek van de rechthebbende of de rechthebbenden aan wie een bedrijf toekomt de registratie van het betrokken quotum.   
 3.  De Minister wijzigt op verzoek van de rechthebbende of de rechthebbenden aan wie gronden toekomen die ten tijde van de overdracht deel uitmaakten van een bedrijf waaraan een quotum was gerelateerd, de registratie van de betrokken hoeveelheid als overeengekomen door de rechthebbenden, op basis van de voor de melkproductie gebruikte oppervlakte.   
-4.  De Minister kan op verzoek de voorgaande leden overeenkomstig toepassen indien sprake is van een andere wijze van overdracht onder algemene titel dan is aangegeven in het eerste lid, dan wel indien sprake is van een overdracht onder bijzondere titel, anders dan in artikel 7, eerste lid, dan wel indien sprake is van in-de-plaatsstelling of medepacht als bedoeld in de [artikelen 363](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [364](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [366 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
+4.  De Minister kan op verzoek de voorgaande leden overeenkomstig toepassen indien sprake is van een andere wijze van overdracht onder algemene titel dan is aangegeven in het eerste lid, dan wel indien sprake is van een overdracht onder bijzondere titel, anders dan in artikel 7, eerste lid, dan wel indien sprake is van in-de-plaatsstelling of medepacht als bedoeld in de artikelen 363, 364 en 366 van Boek 7 van het Burgerlijk Wetboek.   
 5.  Een verzoek wordt gedaan door kennisgeving door de betrokken rechthebbende of de gezamenlijke rechthebbenden aan de minister. Artikel 11, eerste, tweede en zesde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  13  
@@ -139,11 +139,11 @@ b. kan erkenning van de aanspraak op het quotum bij de verkrijger plaatsvinden, 
 
 a. overdracht in eigendom;  
 
-b. een door de grondkamer goedgekeurde pachtovereenkomst als bedoeld in [artikel 311 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) betreffende los land hetwelk groter is dan één hectare of een hoeve geldend voor de duur van meer dan één jaar;  
+b. een door de grondkamer goedgekeurde pachtovereenkomst als bedoeld in artikel 311 van Boek 7 van het Burgerlijk Wetboek betreffende los land hetwelk groter is dan één hectare of een hoeve geldend voor de duur van meer dan één jaar;  
 
-c. een schriftelijke pachtovereenkomst als bedoeld in [artikel 311 van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) betreffende los land hetwelk niet groter is dan één hectare, geldend voor de duur van meer dan één jaar;  
+c. een schriftelijke pachtovereenkomst als bedoeld in artikel 311 van Boek 7 van het Burgerlijk Wetboek betreffende los land hetwelk niet groter is dan één hectare, geldend voor de duur van meer dan één jaar;  
 
-d. een door de grondkamer geregistreerde pachtovereenkomst als bedoeld in [artikel 396, tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), geldend voor de duur van meer dan één jaar doch voor ten hoogste twee jaar;  
+d. een door de grondkamer geregistreerde pachtovereenkomst als bedoeld in artikel 396, tweede lid, van Boek 7 van het Burgerlijk Wetboek, geldend voor de duur van meer dan één jaar doch voor ten hoogste twee jaar;  
 
 e. overdracht ingevolge vestiging, overdracht of tenietgaan van het recht van erfpacht of het recht van vruchtgebruik.     
 2.  Aan het hieronder bepaalde is hetzelfde gevolg verbonden als aan de pachtovereenkomst bedoeld in het eerste lid, de onderdelen b, c en d; 
@@ -152,16 +152,16 @@ a. een door de grondkamer goedgekeurde beëindigingsovereenkomst van een pachtov
 
 b. een schriftelijke beëindigingsovereenkomst van een pachtovereenkomst als bedoeld in het eerste lid, onderdelen c en d;  
 
-c. het eindigen van een pachtovereenkomst als bedoeld in het eerste lid onderdelen c en d, alsmede van een door de Grondkamers goedgekeurde pachtovereenkomst als bedoeld in [artikel 325, derde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), geldend voor de duur van meer dan één jaar, zonder dat een verzoek als bedoeld in [artikel 325, zesde lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) is ingediend, of van een pachtovereenkomst als bedoeld in [artikel 397, eerste en tweede lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);  
+c. het eindigen van een pachtovereenkomst als bedoeld in het eerste lid onderdelen c en d, alsmede van een door de Grondkamers goedgekeurde pachtovereenkomst als bedoeld in artikel 325, derde lid, van Boek 7 van het Burgerlijk Wetboek, geldend voor de duur van meer dan één jaar, zonder dat een verzoek als bedoeld in artikel 325, zesde lid, van Boek 7 van het Burgerlijk Wetboek is ingediend, of van een pachtovereenkomst als bedoeld in artikel 397, eerste en tweede lid, van Boek 7 van het Burgerlijk Wetboek;  
 
 d. een door de rechter uitgesproken ontbinding van een pachtovereenkomst;  
 
 e. een toewijzing door de rechter van een vordering tot beëindiging van een pachtovereenkomst;  
 
-f. het eindigen van een pachtovereenkomst als gevolg van een opzegging als bedoeld in [artikel 367, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), waarna niet overeenkomstig [artikel 369, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) verzet is aangetekend.     
+f. het eindigen van een pachtovereenkomst als gevolg van een opzegging als bedoeld in artikel 367, eerste lid, van Boek 7 van het Burgerlijk Wetboek, waarna niet overeenkomstig artikel 369, eerste lid, van Boek 7 van het Burgerlijk Wetboek verzet is aangetekend.     
 3.  Voor het tijdstip van overdracht van het quotum is bepalend: 
 
-a. de inschrijving van de desbetreffende akte in de in [artikel 89 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) bedoelde openbare registers met dien verstande dat in het geval van het tenietgaan van het recht van erfpacht of van het recht van vruchtgebruik het tijdstip van het tenietgaan in aanmerking wordt genomen;  
+a. de inschrijving van de desbetreffende akte in de in artikel 89 van Boek 3 van het Burgerlijk Wetboek bedoelde openbare registers met dien verstande dat in het geval van het tenietgaan van het recht van erfpacht of van het recht van vruchtgebruik het tijdstip van het tenietgaan in aanmerking wordt genomen;  
 
 b. de ingangsdatum van de pachtovereenkomst dan wel de datum waarop de betrokken partijen de pachtovereenkomst schriftelijk zijn aangegaan, voor zover deze na de ingangsdatum ligt;  
 
@@ -181,7 +181,7 @@ c. in geval van een overdracht op basis van artikel 8, eerste lid: de datum waar
 ### Artikel  17  
 
 1.  De koper doet bij de minister tijdig aangifte overeenkomstig het bepaalde in artikel 8, eerste en tweede lid, van de commissieverordening.   
-2.  Bij zijn aangifte voegt de koper een verklaring omtrent de juistheid van de in de aangifte vermelde gegevens van een accountant die is ingeschreven in het register, bedoeld in [artikel 36, eerste lid, van de Wet op het accountantsberoep](../../../../../wet/wet/op/het/accountantsberoep/BWBR0032573/README.md).   
+2.  Bij zijn aangifte voegt de koper een verklaring omtrent de juistheid van de in de aangifte vermelde gegevens van een accountant die is ingeschreven in het register, bedoeld in artikel 36, eerste lid, van de Wet op het accountantsberoep.   
 3.  Indien geen aangifte is ontvangen op 15 mei respectievelijk op 1 juli, is de koper het bedrag, berekend overeenkomstig artikel 8, derde lid, van de commissieverordening verschuldigd, onderscheidenlijk wordt de erkenning van de koper ingetrokken door de minister overeenkomstig het bepaalde in artikel 8, vierde lid, van de commissieverordening, behoudens in geval artikel 8, vijfde lid, van de commissieverordening van toepassing is.  
 
 ### Artikel  18  
@@ -212,7 +212,7 @@ c. in geval van een overdracht op basis van artikel 8, eerste lid: de datum waar
 
 1.  Overeenkomstig het bepaalde in artikel 23, eerste lid, van de commissieverordening, erkent de minister op verzoek een koper die actief is op Nederlands grondgebied, die voldoet aan het bepaalde in de artikel 23, tweede lid, van de commissieverordening en 
 
-a. die is ingeschreven in het handelsregister in de zin van [artikel 5 van de Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);  
+a. die is ingeschreven in het handelsregister in de zin van artikel 5 van de Handelsregisterwet 2007;  
 
 b. die zich ertoe verbindt het vetgehalte van de melk te laten vaststellen en het vervoer van melk door middel van daartoe gebruikelijke transportmiddelen te laten verrichten, die de mogelijkheid bieden om de hoeveelheid, de herkomst en de bestemming van de getransporteerde melk vast te stellen;  
 
@@ -259,7 +259,7 @@ e. de per producent geleverde hoeveelheden melk, onderscheiden naar:
 
 3°. de hoeveelheden melk, na correctie van de feitelijk geleverde hoeveelheden melk op grond van de vergelijking van het geconstateerde gemiddelde vetgehalte met het voor de producent geldende representatieve vetgehalte, en    
 
-f. de naam, het adres en het relatienummer, bedoeld in [artikel 1, onderdeel hh, van de Regeling identificatie en registratie van dieren](../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), van de producent.     
+f. de naam, het adres en het relatienummer, bedoeld in artikel 1, onderdeel hh, van de Regeling identificatie en registratie van dieren, van de producent.     
 2.  De koper doet ten aanzien van in de heffingsperiode van anderen dan producenten ontvangen melk desgevraagd opgave aan de minister van: 
 
 a. de, per leverancier, aan de koper geleverde hoeveelheden melk, alsmede de hoeveelheid vet van die melk onder vermelding van naam en adres van de leverancier, of  
@@ -293,7 +293,7 @@ b. indien het kwark betreft, de factor 3 gehanteerd.
 
 ### Artikel  21d  
 
-De koper stelt de in artikel 25a bedoelde hoeveelheden melk en vet vast overeenkomstig het bij of krachtens de [Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk](../../../../../pbo/zuivelverordening/2005/grondslag/uitbetaling/boerderijmelk/BWBR0017209/README.md), of op grond van een andere methodiek die naar het oordeel van de minister voldoende waarborgen biedt voor een nauwkeurige vaststelling. 
+De koper stelt de in artikel 25a bedoelde hoeveelheden melk en vet vast overeenkomstig het bij of krachtens de Zuivelverordening 2005, Grondslag uitbetaling boerderijmelk, of op grond van een andere methodiek die naar het oordeel van de minister voldoende waarborgen biedt voor een nauwkeurige vaststelling. 
 
 ### Artikel  21e  
 
@@ -339,12 +339,12 @@ De minister is de bevoegde autoriteit, bedoeld in Deel II, Titel I, Hoofdstuk II
 
 ### Artikel  26a  
 
-1.  De op 31 december 2014 aanhangige opgaven, aanvragen of verzoeken die zijn ingediend op grond van de Regeling superheffing 2008 en de [Zuivelverordening uitvoering Regeling superheffing 2008](../../../../../pbo/zuivelverordening/uitvoering/regeling/superheffing/2008/BWBR0025323/README.md) worden met ingang van 1 januari 2014 behandeld door de minister met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de melding, de aanvraag of het verzoek.   
-2.  Besluiten, niet inhoudende een algemeen verbindend voorschrift, een beslissing op bezwaar of een beslissing op een beroep, genomen op grond van de [Zuivelverordening uitvoering Regeling superheffing 2008](../../../../../pbo/zuivelverordening/uitvoering/regeling/superheffing/2008/BWBR0025323/README.md) door het Productschap Zuivel, die golden op de dag voor het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 januari 2014 geacht te zijn genomen door de minister op grond van deze regeling.  
+1.  De op 31 december 2014 aanhangige opgaven, aanvragen of verzoeken die zijn ingediend op grond van de Regeling superheffing 2008 en de Zuivelverordening uitvoering Regeling superheffing 2008 worden met ingang van 1 januari 2014 behandeld door de minister met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de melding, de aanvraag of het verzoek.   
+2.  Besluiten, niet inhoudende een algemeen verbindend voorschrift, een beslissing op bezwaar of een beslissing op een beroep, genomen op grond van de Zuivelverordening uitvoering Regeling superheffing 2008 door het Productschap Zuivel, die golden op de dag voor het tijdstip van inwerkingtreding van dit artikel, worden met ingang van 1 januari 2014 geacht te zijn genomen door de minister op grond van deze regeling.  
 
 ### Artikel  27  
 
-De [Regeling superheffing](../../../../../ministeriele-regeling/regeling/superheffing/BWBR0016539/README.md) wordt ingetrokken. 
+De Regeling superheffing wordt ingetrokken. 
 
 ### Artikel  28  
 
