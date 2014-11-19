@@ -69,8 +69,8 @@ b. indien een der aspirant-adoptiefouders op het tijdstip van de indiening van h
 
 ### Artikel  7  
 
-1.  Ten behoeve van de beslissing op bezwaar tegen een besluit, inhoudende de afwijzing van een verzoek tot verlening van een beginseltoestemming of tot verlenging van de geldigheidsduur ervan alsmede de intrekking van een beginseltoestemming wint Onze Minister, onder overlegging van de op de zaak betrekking hebbende bescheiden, schriftelijk advies in van de Raad voor strafrechtstoepassing en jeugdbescherming. [Artikel 7:13, tweede tot en met zevende lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing.   
-2.   Door de Raad opgeroepen getuigen en deskundigen ontvangen desverkiezend een vergoeding uit de openbare kas, door de voorzitter van de Raad te begroten overeenkomstig het bij of krachtens de [Wet griffierechten burgerlijke zaken](../../../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) bepaalde.   
+1.  Ten behoeve van de beslissing op bezwaar tegen een besluit, inhoudende de afwijzing van een verzoek tot verlening van een beginseltoestemming of tot verlenging van de geldigheidsduur ervan alsmede de intrekking van een beginseltoestemming wint Onze Minister, onder overlegging van de op de zaak betrekking hebbende bescheiden, schriftelijk advies in van de Raad voor strafrechtstoepassing en jeugdbescherming. Artikel 7:13, tweede tot en met zevende lid, van de Algemene wet bestuursrecht is van overeenkomstige toepassing.   
+2.   Door de Raad opgeroepen getuigen en deskundigen ontvangen desverkiezend een vergoeding uit de openbare kas, door de voorzitter van de Raad te begroten overeenkomstig het bij of krachtens de Wet griffierechten burgerlijke zaken bepaalde.   
 3.  Het eerste en het tweede lid zijn niet van toepassing: 
 
 a. indien bezwaar wordt gemaakt tegen een besluit tot afwijzing van het verzoek tot verlening van een beginseltoestemming op grond van artikel 5, vijfde lid, onderdeel b, en de aspirant-adoptiefouders zich bij het bezwaar niet op bijzondere omstandigheden hebben beroepen;  
@@ -91,7 +91,7 @@ b. indien bezwaar wordt gemaakt tegen een besluit tot verlenging van de geldighe
 
 ### Artikel  8  
 
-Onverminderd het bepaalde bij en krachtens de [Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), dient bij de binnenkomst in Nederland van een buitenlands kind met het oog op adoptie aan de volgende voorwaarden te worden voldaan:  
+Onverminderd het bepaalde bij en krachtens de Vreemdelingenwet 2000, dient bij de binnenkomst in Nederland van een buitenlands kind met het oog op adoptie aan de volgende voorwaarden te worden voldaan:  
 
 a. het buitenlandse kind mag op het tijdstip van binnenkomst in Nederland de leeftijd van zes jaren niet bereikt hebben, behoudens de bevoegdheid van Onze Minister om in bijzondere gevallen, op schriftelijk verzoek van de aspirant-adoptiefouders, een afwijking van deze leeftijdsgrens toe te staan;  
 
@@ -107,7 +107,7 @@ e. door de aspirant-adoptiefouders dient op bevredigende wijze door middel van b
 
 1.  De aspirant-adoptiefouders dan wel de adoptiefouders zijn vanaf het tijdstip van het vertrek van het buitenlandse kind naar Nederland verplicht te voorzien in de kosten van verzorging en opvoeding van dat kind als ware het hun eigen kind. De kosten van terugkeer naar het land van herkomst komen eveneens te hunnen laste.   
 2.   De in het eerste lid omschreven verplichtingen rusten eveneens op degene die in strijd met artikel 2 heeft gehandeld.   
-3.   De bepalingen van [titel 17 van boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) zijn zoveel mogelijk van overeenkomstige toepassing.  
+3.   De bepalingen van titel 17 van boek 1 van het Burgerlijk Wetboek zijn zoveel mogelijk van overeenkomstige toepassing.  
 
 ### Hoofdstuk  3a  
 
@@ -135,9 +135,9 @@ Dit hoofdstuk is uitsluitend van toepassing op kinderen die tussen 1 januari 20
 
 ### Artikel  10  
 
-1.  Indien is gehandeld in strijd met artikel 2 kan de kinderrechter een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) belasten met de voorlopige voogdij over de minderjarige, tenzij dit niet verenigbaar is met het belang van de minderjarige. In geval van voorlopige voogdij wendt de raad voor de kinderbescherming zich binnen zes weken tot de rechter ten einde een voorziening in het gezag over de minderjarige te verkrijgen. [Artikel 241, vierde, vijfde en zesde lid](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) alsmede [artikel 306*a* van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) zijn van overeenkomstige toepassing. [Artikel 813, tweede lid van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing.   
+1.  Indien is gehandeld in strijd met artikel 2 kan de kinderrechter een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg belasten met de voorlopige voogdij over de minderjarige, tenzij dit niet verenigbaar is met het belang van de minderjarige. In geval van voorlopige voogdij wendt de raad voor de kinderbescherming zich binnen zes weken tot de rechter ten einde een voorziening in het gezag over de minderjarige te verkrijgen. Artikel 241, vierde, vijfde en zesde lid alsmede artikel 306*a* van Boek 1 van het Burgerlijk Wetboek zijn van overeenkomstige toepassing. Artikel 813, tweede lid van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing.   
 2.   De voorlopige voogdij eindigt, behoudens eerdere intrekking, op het tijdstip waarop hetzij de voogdij over de minderjarige, dan wel diens verblijf bij aspirant-adoptiefouders aan wie een beginseltoestemming is verleend, een aanvang neemt, hetzij de minderjarige in het land van herkomst wordt teruggeplaatst.   
-3.  De kosten die de stichting ten behoeve van de minderjarige moet maken, komen ten laste van degene die de minderjarige in strijd met artikel 2 heeft opgenomen. De [artikelen 69](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en [71 tot en met 76 van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) zijn van overeenkomstige toepassing.  
+3.  De kosten die de stichting ten behoeve van de minderjarige moet maken, komen ten laste van degene die de minderjarige in strijd met artikel 2 heeft opgenomen. De artikelen 69 en 71 tot en met 76 van de Wet op de jeugdzorg zijn van overeenkomstige toepassing.  
 
 ### Hoofdstuk  4  
 
@@ -321,7 +321,7 @@ Ingeval aspirant-adoptiefouders hun inschrijving bij een vergunninghouder beëin
 
 ### Artikel  26  
 
-De toezichthouders beschikken niet over de bevoegdheden genoemd in de [artikelen 5:15](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:18](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+De toezichthouders beschikken niet over de bevoegdheden genoemd in de artikelen 5:15, 5:18 en 5:19 van de Algemene wet bestuursrecht.  
 
 ### Artikel  27  
 

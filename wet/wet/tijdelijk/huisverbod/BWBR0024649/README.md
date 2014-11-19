@@ -13,7 +13,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet wordt verstaan onder: 
 
-a.  *ambtenaar van politie:* de ambtenaar van politie, bedoeld in [artikel 2, onder a, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md), en de ambtenaar van politie, bedoeld in artikel 2, onder c, van die wet, voor zover hij is belast met de uitvoering van de politietaak;  
+a.  *ambtenaar van politie:* de ambtenaar van politie, bedoeld in artikel 2, onder a, van de Politiewet 2012, en de ambtenaar van politie, bedoeld in artikel 2, onder c, van die wet, voor zover hij is belast met de uitvoering van de politietaak;  
 
 b.  *huisverbod:* beschikking houdende een last tot het onmiddellijk verlaten van een bepaalde woning en een verbod tot het betreden van, zich ophouden bij of aanwezig zijn in die woning en een verbod om contact op te nemen met degenen die met de persoon tot wie de beschikking is gericht in dezelfde woning wonen of daarin anders dan incidenteel verblijven;  
 
@@ -23,7 +23,7 @@ c.  *uithuisgeplaatste:* degene aan wie een huisverbod is opgelegd.
 
 1.  De burgemeester kan een huisverbod opleggen aan een persoon indien uit feiten of omstandigheden blijkt dat diens aanwezigheid in de woning ernstig en onmiddellijk gevaar oplevert voor de veiligheid van één of meer personen die met hem in de woning wonen of daarin anders dan incidenteel verblijven of indien op grond van feiten of omstandigheden een ernstig vermoeden van dit gevaar bestaat. Het verbod geldt voor een periode van tien dagen, behoudens verlenging overeenkomstig artikel 9. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de aard van de feiten en omstandigheden die aanleiding kunnen geven om een huisverbod op te leggen.   
 2.  Een huisverbod kan slechts worden opgelegd aan een meerderjarig persoon.   
-3.  Indien de burgemeester voornemens is het huisverbod op te leggen wegens kindermishandeling of een ernstig vermoeden daarvan, neemt hij contact op met de stichting, bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) teneinde te overleggen over het voornemen om een huisverbod op te leggen.   
+3.  Indien de burgemeester voornemens is het huisverbod op te leggen wegens kindermishandeling of een ernstig vermoeden daarvan, neemt hij contact op met de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg teneinde te overleggen over het voornemen om een huisverbod op te leggen.   
 4.  Het huisverbod bevat in ieder geval: 
 
 a. een omschrijving van de plaats en de duur waarvoor het geldt;  
@@ -39,7 +39,7 @@ c. de namen van de personen ten aanzien van wie het verbod om contact op te neme
 
 ### Artikel  3  
 
-1.  De burgemeester kan van de bevoegdheden en taken, bedoeld in artikel 2, eerste, derde, zevende en achtste lid, en artikel 5, eerste lid, mandaat onderscheidenlijk machtiging verlenen aan de hulpofficier van justitie. [Artikel 10:9, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
+1.  De burgemeester kan van de bevoegdheden en taken, bedoeld in artikel 2, eerste, derde, zevende en achtste lid, en artikel 5, eerste lid, mandaat onderscheidenlijk machtiging verlenen aan de hulpofficier van justitie. Artikel 10:9, eerste lid, van de Algemene wet bestuursrecht is niet van toepassing.   
 2.  De hulpofficier van justitie doet onverwijld mededeling van een door hem opgelegd huisverbod aan de burgemeester.  
 
 ### Artikel  4  
@@ -51,7 +51,7 @@ c. de namen van de personen ten aanzien van wie het verbod om contact op te neme
 ### Artikel  5  
 
 1.  Indien de uithuisgeplaatste dat wenst, draagt de burgemeester zorg dat deze binnen 24 uur nadat hij die wens te kennen heeft gegeven, voor de duur van de behandeling van zijn verzoek om voorlopige voorziening wordt bijgestaan door een raadsman.   
-2.  De [artikelen 38](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [39](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [40, eerste en derde tot en met vijfde lid](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [45 tot en met 48](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [51 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing, met dien verstande dat: 
+2.  De artikelen 38, 39, 40, eerste en derde tot en met vijfde lid, 45 tot en met 48 en 51 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing, met dien verstande dat: 
 
 a. voor «de inverzekeringstelling» wordt gelezen: het huisverbod;  
 
@@ -61,13 +61,13 @@ c. voor «de verdachte» of «de inverzekering gestelde verdachte» wordt geleze
 
 ### Artikel  6  
 
-1.  Indien tegen het huisverbod een verzoek om voorlopige voorziening als bedoeld in [artikel 8:81 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt gedaan: 
+1.  Indien tegen het huisverbod een verzoek om voorlopige voorziening als bedoeld in artikel 8:81 van de Algemene wet bestuursrecht, wordt gedaan: 
 
-a. wordt, in afwijking van [artikel 8:83, eerste lid, van die wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de uithuisgeplaatste binnen drie dagen door de voorzieningenrechter gehoord;  
+a. wordt, in afwijking van artikel 8:83, eerste lid, van die wet, de uithuisgeplaatste binnen drie dagen door de voorzieningenrechter gehoord;  
 
-b. doet de voorzieningenrechter in afwijking van [artikel 8:84, eerste lid, van die wet](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) onmiddellijk na het horen van partijen uitspraak tenzij er sprake is van bijzondere omstandigheden, in welk geval de voorzieningenrechter binnen 24 uur na de behandeling van de zaak uitspraak doet.     
+b. doet de voorzieningenrechter in afwijking van artikel 8:84, eerste lid, van die wet onmiddellijk na het horen van partijen uitspraak tenzij er sprake is van bijzondere omstandigheden, in welk geval de voorzieningenrechter binnen 24 uur na de behandeling van de zaak uitspraak doet.     
 2.  De rechter betrekt bij de beoordeling van het huisverbod tevens de feiten en omstandigheden die zich hebben voorgedaan na het opleggen van het huisverbod.   
-3.  In afwijking van de [artikelen 8:41, eerste lid](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), en [8:82, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt door de griffier geen griffierecht geheven. 
+3.  In afwijking van de artikelen 8:41, eerste lid, en 8:82, eerste lid, van de Algemene wet bestuursrecht wordt door de griffier geen griffierecht geheven. 
 
 ### Artikel  7  
 
@@ -81,7 +81,7 @@ a. de echtgenoot, geregistreerde partner, andere levensgezel of andere meerderja
 
 b. de politie van de gemeente waar het huisverbod is opgelegd;  
 
-c. ingeval er minderjarigen betrokken zijn: de stichting, bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).     
+c. ingeval er minderjarigen betrokken zijn: de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg.     
 2.  De griffier stelt de uithuisgeplaatste, de raadsman van de uithuisgeplaatste en de burgemeester onverwijld mondeling op de hoogte van de uitspraak. De burgemeester stelt de personen, bedoeld in het eerste lid, onder a, voor zover zij niet aanwezig waren ter zitting waarop de uitspraak werd gedaan, en de politie onverwijld mondeling op de hoogte van de uitspraak.  
 
 ### Artikel  9  
@@ -107,7 +107,7 @@ Wijzigt het Wetboek van Strafvordering.
 
 ### Artikel  13  
 
-De [Algemene termijnenwet](../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is op de termijnen, bedoeld in de artikelen 2, eerste lid, en 9, eerste lid, niet van toepassing. 
+De Algemene termijnenwet is op de termijnen, bedoeld in de artikelen 2, eerste lid, en 9, eerste lid, niet van toepassing. 
 
 ### Artikel  14  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om wettelijke voorzieningen te treffen ter uitvoering van het op 19 oktober 1996 te ’s-Gravenhage tot stand gekomen verdrag inzake de bevoegdheid, het toepasselijke recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen (Trb. 1997, 299) alsmede van de verordening (EG) nr. 2201/2003 van de Raad van de Europese Unie van 27 november 2003 betreffende de bevoegdheid en de erkenning en tenuitvoerlegging van beslissingen in huwelijkszaken en inzake de ouderlijke verantwoordelijkheid, en tot intrekking van Verordening (EG) nr. 1347/2000 (PbEU L 338) en mede tot wijziging van het [Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), het [Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) en de [Uitvoeringswet EG-executieverordening](../../../../../wet/uitvoeringswet/eg-executieverordening/BWBR0015325/README.md);
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om wettelijke voorzieningen te treffen ter uitvoering van het op 19 oktober 1996 te ’s-Gravenhage tot stand gekomen verdrag inzake de bevoegdheid, het toepasselijke recht, de erkenning, de tenuitvoerlegging en de samenwerking op het gebied van ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen (Trb. 1997, 299) alsmede van de verordening (EG) nr. 2201/2003 van de Raad van de Europese Unie van 27 november 2003 betreffende de bevoegdheid en de erkenning en tenuitvoerlegging van beslissingen in huwelijkszaken en inzake de ouderlijke verantwoordelijkheid, en tot intrekking van Verordening (EG) nr. 1347/2000 (PbEU L 338) en mede tot wijziging van het Burgerlijk Wetboek, het Wetboek van Burgerlijke Rechtsvordering en de Uitvoeringswet EG-executieverordening;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -26,7 +26,7 @@ De hoofdstukken 1, 2, 4, 7 en 8 zijn mede van toepassing op internationale kwest
 
 ### Artikel  3  
 
-1.  Onverminderd het bepaalde in artikel 1, onder a, van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen (Trb. 1981, 10), artikel 4 van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (Trb. 1987, 139) en [artikel 2 van de Wet van 2 mei 1990 tot uitvoering van die verdragen](../../../../../wet/uitvoeringswet/internationale/kinderontvoering/BWBR0004746/README.md) (Stb. 202), is [deze wet](../../../../../wet/uitvoeringswet/internationale/kinderontvoering/BWBR0004746/README.md) van toepassing op kinderen die de leeftijd van achttien jaren nog niet hebben bereikt.   
+1.  Onverminderd het bepaalde in artikel 1, onder a, van het op 20 mei 1980 te Luxemburg tot stand gekomen Europese verdrag betreffende de erkenning en de tenuitvoerlegging van beslissingen inzake het gezag over kinderen en betreffende het herstel van het gezag over kinderen (Trb. 1981, 10), artikel 4 van het op 25 oktober 1980 te ’s-Gravenhage tot stand gekomen verdrag inzake de burgerrechtelijke aspecten van internationale ontvoering van kinderen (Trb. 1987, 139) en artikel 2 van de Wet van 2 mei 1990 tot uitvoering van die verdragen (Stb. 202), is deze wet van toepassing op kinderen die de leeftijd van achttien jaren nog niet hebben bereikt.   
 2.  Bereikt een kind ten aanzien waarvan een verzoek op grond van het verdrag, van de verordening of van deze wet in behandeling is, de leeftijd van achttien jaren, dan wordt de behandeling van dat verzoek ambtshalve gestaakt. Hetzelfde geldt voor maatregelen ter uitvoering van een beslissing op een verzoek.  
 
 ### Hoofdstuk  2  
@@ -91,9 +91,9 @@ c. indien van toepassing, bescheiden waaruit blijkt dat het kind vergunning heef
 
 ### Artikel  11  
 
-1.  Indien de voorschriften van artikel 10 niet in acht zijn genomen, kan de officier van justitie of de centrale autoriteit de kinderrechter verzoeken een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) te belasten met de voorlopige voogdij over het kind. Dit verzoek kan ook worden gedaan door de raad voor de kinderbescherming. Tenzij de kinderrechter een langere termijn van verval van de voorlopige voogdij heeft bepaald, wendt de raad zich binnen zes weken na de beslissing over de voorlopige voogdij tot de rechter ten einde een voorziening in het gezag over de minderjarige te verkrijgen. [Artikel 241, vierde, vijfde en zesde lid](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), alsmede [artikel 306a van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) zijn van overeenkomstige toepassing. [Artikel 813, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing.   
+1.  Indien de voorschriften van artikel 10 niet in acht zijn genomen, kan de officier van justitie of de centrale autoriteit de kinderrechter verzoeken een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg te belasten met de voorlopige voogdij over het kind. Dit verzoek kan ook worden gedaan door de raad voor de kinderbescherming. Tenzij de kinderrechter een langere termijn van verval van de voorlopige voogdij heeft bepaald, wendt de raad zich binnen zes weken na de beslissing over de voorlopige voogdij tot de rechter ten einde een voorziening in het gezag over de minderjarige te verkrijgen. Artikel 241, vierde, vijfde en zesde lid, alsmede artikel 306a van Boek 1 van het Burgerlijk Wetboek zijn van overeenkomstige toepassing. Artikel 813, tweede lid, van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing.   
 2.  De voorlopige voogdij eindigt, behoudens eerdere opheffing, op het tijdstip waarop hetzij de voogdij over het kind, dan wel diens plaatsing bij andere personen of een andere instelling, een aanvang neemt, of zijn terugkeer naar het land van herkomst is geregeld.   
-3.  De kosten die de voogdij-instelling ten behoeve van het kind moet maken, komen ten laste van degene bij wie het kind in strijd met artikel 10 is geplaatst. De [artikelen 69 tot en met 76 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) zijn van overeenkomstige toepassing.  
+3.  De kosten die de voogdij-instelling ten behoeve van het kind moet maken, komen ten laste van degene bij wie het kind in strijd met artikel 10 is geplaatst. De artikelen 69 tot en met 76 van de Wet op de jeugdzorg zijn van overeenkomstige toepassing.  
 
 ### Hoofdstuk  4  
 
@@ -110,7 +110,7 @@ De zaken tot kennisneming waarvan de rechtbank op grond van artikel 12, eerste l
 
 ### Artikel  14  
 
-[Artikel 14 van de Uitvoeringswet internationale kinderontvoering](../../../../../wet/uitvoeringswet/internationale/kinderontvoering/BWBR0004746/README.md) (Stb. 1990, 202) is van overeenkomstige toepassing in gevallen die door het verdrag, de verordening of deze wet worden bestreken. 
+Artikel 14 van de Uitvoeringswet internationale kinderontvoering (Stb. 1990, 202) is van overeenkomstige toepassing in gevallen die door het verdrag, de verordening of deze wet worden bestreken. 
 
 ### Hoofdstuk  5  
 
@@ -118,7 +118,7 @@ De zaken tot kennisneming waarvan de rechtbank op grond van artikel 12, eerste l
 
 ### Artikel  15  
 
-1.  De voorzieningenrechter van de rechtbank is bevoegd tot kennisneming van alle verzoeken die betrekking hebben op de erkenning, de niet-erkenning en de tenuitvoerlegging van beslissingen inzake ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen die op grond van het verdrag zijn gegeven, voor zover de erkenning, de niet-erkenning en de tenuitvoerlegging daarvan niet door de verordening worden beheerst. Ten aanzien van het verlof tot tenuitvoerlegging zijn de [artikelen 985 tot en met 990 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet van toepassing.   
+1.  De voorzieningenrechter van de rechtbank is bevoegd tot kennisneming van alle verzoeken die betrekking hebben op de erkenning, de niet-erkenning en de tenuitvoerlegging van beslissingen inzake ouderlijke verantwoordelijkheid en maatregelen ter bescherming van kinderen die op grond van het verdrag zijn gegeven, voor zover de erkenning, de niet-erkenning en de tenuitvoerlegging daarvan niet door de verordening worden beheerst. Ten aanzien van het verlof tot tenuitvoerlegging zijn de artikelen 985 tot en met 990 van het Wetboek van Burgerlijke Rechtsvordering niet van toepassing.   
 2.  In de zaken, bedoeld in het eerste lid, is bevoegd de voorzieningenrechter van de rechtbank binnen wier rechtsgebied de persoon tegen wie de tenuitvoerlegging wordt gevraagd, dan wel een kind waarop het verzoek betrekking heeft, gewone verblijfplaats heeft. Indien geen van deze personen gewone verblijfplaats in Nederland heeft, is bevoegd de voorzieningenrechter van de rechtbank binnen wier rechtsgebied de tenuitvoerlegging dient plaats te vinden. Kan de bevoegdheid niet worden gebaseerd op de in dit artikellid genoemde gronden, dan is bevoegd de voorzieningenrechter van de rechtbank Den Haag.   
 3.  Een beslissing op een verzoek als bedoeld in het eerste lid, wordt gevraagd bij verzoekschrift. Het wordt ingediend door een advocaat. Het verzoekschrift houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.  
 
@@ -144,7 +144,7 @@ De zaken tot kennisneming waarvan de rechtbank op grond van artikel 12, eerste l
 
 ### Artikel  18  
 
-1.  De voorzieningenrechter van de rechtbank is bevoegd tot kennisneming van de verzoeken, bedoeld in de artikelen 21, derde lid, 28 en 48, eerste lid, van de verordening. Ten aanzien van het verlof tot tenuitvoerlegging zijn de [artikelen 985 tot en met 990 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) niet van toepassing.   
+1.  De voorzieningenrechter van de rechtbank is bevoegd tot kennisneming van de verzoeken, bedoeld in de artikelen 21, derde lid, 28 en 48, eerste lid, van de verordening. Ten aanzien van het verlof tot tenuitvoerlegging zijn de artikelen 985 tot en met 990 van het Wetboek van Burgerlijke Rechtsvordering niet van toepassing.   
 2.  Artikel 29, tweede lid, van de verordening is van overeenkomstige toepassing op de relatieve bevoegdheid van de voorzieningenrechter in de zaken, bedoeld in artikel 21, derde lid, van de verordening. Kan de bevoegdheid van deze rechter niet worden gebaseerd op de daar genoemde gronden, dan is bevoegd de voorzieningenrechter van de rechtbank Den Haag.   
 3.  Een beslissing op een verzoek als bedoeld in het eerste lid, wordt gevraagd bij verzoekschrift. Het wordt ingediend door een advocaat. Het verzoekschrift houdt tevens in de keuze van een woonplaats binnen het arrondissement van de rechtbank.   
 4.  Onverminderd het bepaalde bij artikel 38, eerste lid, van de verordening, wordt bij ongenoegzaamheid van de bij het verzoekschrift overgelegde stukken aan de verzoeker de gelegenheid tot aanvulling gegeven met het stuk, bedoeld in artikel 37, eerste lid, onder a, van de verordening.  
@@ -163,8 +163,8 @@ De zaken tot kennisneming waarvan de rechtbank op grond van artikel 12, eerste l
 
 ### Artikel  21  
 
-1.  De procedure van [artikel 26 van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is niet van toepassing ten aanzien van het op artikel 21, derde lid, van de verordening gegronde verzoek om een beslissing houdende erkenning of niet-erkenning van een in een andere lidstaat gegeven beslissing ter zake van echtscheiding, scheiding van tafel en bed of nietigverklaring van het huwelijk.   
-2.  [Artikel 26e van Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is van overeenkomstige toepassing op een beslissing als bedoeld in het eerste lid.  
+1.  De procedure van artikel 26 van Boek 1 van het Burgerlijk Wetboek is niet van toepassing ten aanzien van het op artikel 21, derde lid, van de verordening gegronde verzoek om een beslissing houdende erkenning of niet-erkenning van een in een andere lidstaat gegeven beslissing ter zake van echtscheiding, scheiding van tafel en bed of nietigverklaring van het huwelijk.   
+2.  Artikel 26e van Boek 1 van het Burgerlijk Wetboek is van overeenkomstige toepassing op een beslissing als bedoeld in het eerste lid.  
 
 ### Artikel  22  
 
@@ -172,7 +172,7 @@ In het in artikel 41, derde lid, laatste zin, van de verordening bedoelde geval 
 
 ### Artikel  23  
 
-[Artikel 31 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing op de procedure, bedoeld in artikel 43 van de verordening, indien het certificaat door een Nederlandse rechter is afgegeven. 
+Artikel 31 van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing op de procedure, bedoeld in artikel 43 van de verordening, indien het certificaat door een Nederlandse rechter is afgegeven. 
 
 ### Hoofdstuk  7  
 

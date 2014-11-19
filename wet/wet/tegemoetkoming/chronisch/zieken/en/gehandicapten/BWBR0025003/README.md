@@ -48,7 +48,8 @@ c. die gebruik maken van een individuele voorziening, die beoogt hen in staat te
 2.  Bij algemene maatregel van bestuur wordt de hoogte van de tegemoetkoming, bedoeld in het eerste lid, vastgesteld, waarbij de hoogte van de tegemoetkoming voor verschillende groepen op een verschillend bedrag kan worden vastgesteld.   
 3.  De criteria, genoemd in het eerste lid, onder a tot en met c, kunnen indien dit met het oog op een betere werking van deze wet op korte termijn noodzakelijk wordt geacht, bij algemene maatregel van bestuur worden aangevuld.   
 4.  Na de plaatsing in het Staatsblad van een krachtens het derde lid vastgestelde algemene maatregel van bestuur wordt een voorstel van wet tot regeling van het betrokken onderwerp zo spoedig mogelijk bij de Staten-Generaal ingediend. Indien het voorstel wordt ingetrokken of indien een van de beide kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur onverwijld ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de algemene maatregel van bestuur ingetrokken op het tijdstip van inwerkingtreding van die wet.   
-5.  In afwijking in zoverre van de tweede en derde volzin van het vierde lid wordt, in geval de wijzigingen in de krachtens het derde lid vastgestelde algemene maatregel van bestuur meer omvatten dan een aanvulling van de criteria, genoemd in het eerste lid, onder a tot en met c, de algemene maatregel van bestuur niet ingetrokken, maar zodanig gewijzigd dat onverwijld dan wel met terugwerkende kracht tot en met de datum van inwerkingtreding van de wet uitsluitend de criteria waarmee de criteria, genoemd in het eerste lid, onder a tot en met c, zijn aangevuld, vervallen. 
+5.  In afwijking in zoverre van de tweede en derde volzin van het vierde lid wordt, in geval de wijzigingen in de krachtens het derde lid vastgestelde algemene maatregel van bestuur meer omvatten dan een aanvulling van de criteria, genoemd in het eerste lid, onder a tot en met c, de algemene maatregel van bestuur niet ingetrokken, maar zodanig gewijzigd dat onverwijld dan wel met terugwerkende kracht tot en met de datum van inwerkingtreding van de wet uitsluitend de criteria waarmee de criteria, genoemd in het eerste lid, onder a tot en met c, zijn aangevuld, vervallen.  
+6.  Een kalenderjaar dat na 31 december 2013 aanvangt, geldt niet als berekeningsjaar. 
 
 ### Artikel  2a  
 
@@ -89,14 +90,15 @@ Geen recht op een tegemoetkoming als bedoeld in artikel 2, wordt verleend voor d
 
 ### Artikel  3  
 
-1.  Het bestuur van het CAK stelt ambtshalve het recht op en de hoogte van de tegemoetkoming, bedoeld in artikel 2, eerste lid, vast.   
-2.  Het CAK verstrekt de tegemoetkoming, bedoeld in artikel 2, eerste lid, voor het einde van het kalenderjaar volgend op het berekeningsjaar.  
+1.  Het CAK stelt het recht op en de hoogte van de tegemoetkoming, bedoeld in artikel 2, eerste lid, in het kalenderjaar volgend op het berekeningsjaar, ambtshalve vast dan wel indien pas na dat kalenderjaar blijkt dat een persoon rechthebbende is, uiterlijk voor het einde van het tweede kalenderjaar volgend op het berekeningsjaar.   
+2.  Het CAK verstrekt de tegemoetkoming, bedoeld in artikel 2, eerste lid, voor het einde van het kalenderjaar waarin het CAK het recht op en de hoogte van die tegemoetkoming ambtshalve heeft vastgesteld.  
 
 ### Artikel  4  
 
 1.  Indien iemand die meent rechthebbende te zijn of zijn erfgenaam het CAK verzoekt om informatie over de gronden waarop een tegemoetkoming is verleend of geweigerd, verstrekt het CAK binnen 30 dagen na het verzoek kosteloos en in begrijpelijke taal schriftelijk de gevraagde informatie. Het verzoek kan worden gedaan vanaf 1 november van het kalenderjaar volgend op het berekeningsjaar. Het CAK gaat bij dit verzoek, na toestemming van verzoeker, bij zorgverzekeraars als bedoeld in artikel 1, onderdeel b, van de Zorgverzekeringswet, indicatieorganen als bedoeld in artikel 9a of stichtingen als bedoeld in artikel 9b, vierde lid, van de Algemene Wet Bijzondere Ziektekosten, colleges van burgemeester en wethouders of andere bij algemene maatregel van bestuur bepaalde instanties als bedoeld in artikel 5, tweede lid, na onder welke criteria als bedoeld bij of krachtens artikel 2, eerste lid, degene die meent rechthebbende te zijn, valt en deelt de uitkomst hiervan aan verzoeker mede. De verzoeker legitimeert zich desgevraagd op deugdelijke wijze.   
 2.  Indien iemand die meent rechthebbende te zijn of diens erfgenaam na afloop van de termijn, genoemd in het eerste lid, geen antwoord heeft gekregen van het CAK dan wel het antwoord onvoldoende acht, delen de in het eerste lid genoemde en bedoelde instanties op verzoek van hem of zijn erfgenaam binnen 30 dagen na het verzoek kosteloos en in begrijpelijke taal schriftelijk mede onder welke criteria, met inbegrip van de onderliggende zorggegevens, als bedoeld bij of krachtens artikel 2, eerste lid, degene die meent rechthebbende te zijn, valt.   
-3.  Bij ministeriële regeling kunnen regels worden gesteld over de vorm waarin de informatie wordt verstrekt.  
+3.  Het CAK kan uitsluitend binnen de termijn, bedoeld in artikel 3, eerste lid, op grond van een verzoek, bedoeld in het eerste lid, een tegemoetkoming als bedoeld in artikel 2, eerste lid, verlenen.  
+4.  Bij ministeriële regeling kunnen regels worden gesteld over de vorm waarin de informatie wordt verstrekt.  
 
 ### Artikel  5  
 
@@ -124,10 +126,8 @@ d. op welke datum gegevens als bedoeld in het eerste en tweede lid uiterlijk wor
 
 ### Artikel  5a  
 
-1.  Indien na vaststelling van de tegemoetkoming, bedoeld in artikel 2, eerste lid, uit een eerste vaststelling, eerste bepaling of wijziging van een inkomensgegeven of niet in Nederland belastbaar inkomen, bedoeld in artikel 8, tweede lid, van Algemene wet inkomensafhankelijke regelingen, blijkt dat geen recht bestaat op die tegemoetkoming, trekt het CAK die vaststelling in en vordert de verstrekte tegemoetkoming terug.   
-2.  Indien uit een wijziging van een inkomensgegeven of niet in Nederland belastbaar inkomen, bedoeld in artikel 8, tweede lid, van Algemene wet inkomens-afhankelijke regelingen, blijkt dat recht bestaat op de tegemoetkoming, bedoeld in artikel 2, eerste lid, stelt het CAK de hoogte van die tegemoetkoming vast en verstrekt die tegemoetkoming.   
-3.  De intrekking en de terugvordering op grond van het eerste lid geschieden binnen acht weken na het tijdstip waarop het voor het eerst vastgestelde, voor het eerst bepaalde of gewijzigde inkomensgegeven aan het CAK bekend is geworden dan wel de beschikking of uitspraak strekkende tot de in het eerste lid bedoelde vaststelling, bepaling of wijziging, onherroepelijk is geworden.   
-4.  De vaststelling, op grond van het tweede lid, geschiedt binnen acht weken na het tijdstip waarop het gewijzigde inkomensgegeven aan het CAK bekend is geworden dan wel de beschikking of uitspraak strekkende tot de in het tweede lid bedoelde wijziging onherroepelijk is geworden.  
+1.  Indien uit een wijziging van een inkomensgegeven of niet in Nederland belastbaar inkomen, bedoeld in artikel 8, tweede lid, van Algemene wet inkomens-afhankelijke regelingen, blijkt dat recht bestaat op de tegemoetkoming, bedoeld in artikel 2, eerste lid, stelt het CAK de hoogte van die tegemoetkoming vast en verstrekt die tegemoetkoming.   
+2.  Het CAK kan uitsluitend binnen de termijn, bedoeld in artikel 3, eerste lid, tot toepassing van dit artikel overgaan.  
 
 ### Artikel  5b  
 
@@ -144,23 +144,21 @@ Artikel XVI van Overige fiscale maatregelen 2009 is niet van toepassing op een d
 
 ####Tegemoetkoming arbeidsongeschikten
 
-### Artikel  10  
-
-1.  De persoon die van rechtswege verzekerd is ingevolge de Algemene Wet Bijzondere Ziektekosten en recht heeft op een uitkering in verband met een arbeidsongeschiktheid van 35% of meer en de persoon die recht heeft op een arbeidsongeschiktheidsuitkering naar een mate van arbeidsongeschiktheid van 35% of meer of op arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten, hebben recht op een tegemoetkoming.   
-2.  Het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 4, van de Wet structuur uitvoeringsorganisatie werk en inkomen, verstrekt de tegemoetkoming.   
-3.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de doelgroep, de hoogte van de tegemoetkoming en de wijze van betaling.  
-
 ### §  2.3  
 
 ####Algemene bepalingen met betrekking tot tegemoetkomingen
 
 ### Artikel  11  
 
-1.  De betaling van tegemoetkomingen, bedoeld in de artikelen 2 en 10, geschiedt eenmaal per kalenderjaar.   
-2.  De bedragen van de tegemoetkomingen kunnen jaarlijks per 1 januari bij regeling van Onze Minister worden gewijzigd voor zover de tabelcorrectiefactor, genoemd in artikel 10.2 van de Wet inkomstenbelasting 2001, daar aanleiding toe geeft.   
-3.  De tegemoetkomingen zijn niet vatbaar voor beslag.   
-4.  De tegemoetkomingen blijven buiten beschouwing bij de verlening van op het inkomen of vermogen afgestemde publiekrechtelijke uitkeringen en verstrekkingen.   
-5.  De tegemoetkomingen en de daarmee gepaard gaande beheerskosten komen ten laste van ’s Rijks kas.  
+1.  De betaling van de tegemoetkoming, bedoeld in artikel 2, eerste lid, geschiedt eenmaal per kalenderjaar.   
+2.  De bedragen van de tegemoetkoming kunnen jaarlijks per 1 januari bij regeling van Onze Minister worden gewijzigd voor zover de tabelcorrectiefactor, genoemd in artikel 10.2 van de Wet inkomstenbelasting 2001, daar aanleiding toe geeft.   
+3.  De tegemoetkoming is niet vatbaar voor beslag.   
+4.  De tegemoetkoming blijft buiten beschouwing bij de verlening van op het inkomen of vermogen afgestemde publiekrechtelijke uitkeringen en verstrekkingen.   
+5.  De tegemoetkoming en de daarmee gepaard gaande beheerskosten komen ten laste van ’s Rijks kas.  
+
+### Artikel  11a  
+
+De artikelen 10 en 11 zoals die luidden op 31 december 2013, blijven van toepassing met betrekking tot de tegemoetkomingen, bedoeld in artikel 10, die betrekking hebben op aan het kalenderjaar 2014 voorafgaande kalenderjaren. 
 
 ### Hoofdstuk  3  
 

@@ -3,7 +3,7 @@
 ##Regeling van het College voor examens van 18 maart 2014, nummer CvE-14.01060, houdende vaststelling van regels voor de omzetting van scores in cijfers bij centrale examens en de rekentoets in het voortgezet onderwijs 2014 (Regeling omzetting scores in cijfers centrale examens en rekentoets VO 2014)
 
 Het College voor examens,  
-Gelet op [artikel 2, tweede lid, aanhef en onderdeel e](../../../../../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md), en artikel 2a van de Wet College voor examens;
+Gelet op artikel 2, tweede lid, aanhef en onderdeel e, en artikel 2a van de Wet College voor examens;
 
 Gezien de goedkeuring van de Staatsecretaris van Onderwijs, Cultuur en Wetenschap, gegeven op 4 april 2014, kenmerk 612862;
 Besluit:    
@@ -12,7 +12,7 @@ Besluit:
 
 ####centrale examens VO
 
-De omzetting van scores in cijfers bij centrale examens VO, bedoeld in [artikel 2, tweede lid, onderdeel e, van de Wet College voor examens](../../../../../../../../../../../../../wet/wet/college/voor/examens/BWBR0025364/README.md) geschiedt op de in de bijlage 1 bij deze regeling vastgestelde wijze. 
+De omzetting van scores in cijfers bij centrale examens VO, bedoeld in artikel 2, tweede lid, onderdeel e, van de Wet College voor examens geschiedt op de in de bijlage 1 bij deze regeling vastgestelde wijze. 
 
 ### Artikel  2  
 
@@ -30,7 +30,7 @@ Deze regeling treedt in werking met ingang van de eerste dag na de datum van uit
 
 ####intrekking
 
-De [Regeling omzetting scores centrale examens in cijfers 2011](../../../../../../../../../../../../../zbo/regeling/omzetting/scores/centrale/examens/in/cijfers/2011/BWBR0029895/README.md), wordt ingetrokken. 
+De Regeling omzetting scores centrale examens in cijfers 2011, wordt ingetrokken. 
 
 ### Artikel  5  
 
