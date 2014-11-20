@@ -20,15 +20,15 @@ Onder de naam resolutieheffing 2014 wordt een belasting geheven van de in paragr
 
 In deze wet wordt verstaan onder: 
 
-a.  *bank:* bank als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+a.  *bank:* bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  
 
-b.  *centrale kredietinstelling:* centrale kredietinstelling als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+b.  *centrale kredietinstelling:* centrale kredietinstelling als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  
 
-c.  *deposito:* deposito als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+c.  *deposito:* deposito als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;  
 
 d.  *depositobasis:* bedrag van de bij een bank aangehouden deposito’s voor zover deze voor compensatie ingevolge het depositogarantiestelsel in aanmerking komen;  
 
-e.  *depositogarantiestelsel:* depositogarantiestelsel als bedoeld in [artikel 3:259, tweede lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md);  
+e.  *depositogarantiestelsel:* depositogarantiestelsel als bedoeld in artikel 3:259, tweede lid, van de Wet op het financieel toezicht;  
 
 f.  *groep banken:* twee of meer banken die met elkaar zijn verbonden in een formele of feitelijke zeggenschapstructuur.   
 
@@ -42,7 +42,7 @@ Belastingplichtig voor de resolutieheffing 2014 is een bank waarop het depositog
 
 ### Artikel  4  
 
-Indien een groep banken op grond van [artikel 3:111, eerste lid, van de Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) is vrijgesteld van het toezicht door de Nederlandsche Bank op de naleving van de in dat artikellid genoemde artikelen, is alleen de centrale kredietinstelling, bedoeld in dat artikel, belastingplichtig en zijn, in afwijking van artikel 3, de bij die centrale kredietinstelling aangesloten banken niet belastingplichtig. 
+Indien een groep banken op grond van artikel 3:111, eerste lid, van de Wet op het financieel toezicht is vrijgesteld van het toezicht door de Nederlandsche Bank op de naleving van de in dat artikellid genoemde artikelen, is alleen de centrale kredietinstelling, bedoeld in dat artikel, belastingplichtig en zijn, in afwijking van artikel 3, de bij die centrale kredietinstelling aangesloten banken niet belastingplichtig. 
 
 ### §  3  
 
@@ -91,7 +91,7 @@ De resolutieheffing 2014 wordt op aangifte voldaan.
 Wijzigt de Wet op de vennootschapsbelasting 1969. 
 
 ### Artikel  12  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de vennootschapsbelasting 1969. 
 

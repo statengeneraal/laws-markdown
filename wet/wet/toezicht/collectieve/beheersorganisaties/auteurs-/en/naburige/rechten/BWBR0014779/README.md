@@ -17,20 +17,20 @@ a. Onze Minister: Onze Minister van Veiligheid en Justitie;
 
 b. het College van Toezicht: het College van Toezicht, bedoeld in artikel 2;  
 
-c. collectieve beheersorganisatie: de door Onze Minister op grond van de [Auteurswet](../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) of de [Wet op de naburige rechten](../../../../../../../../../../wet/wet/op/de/naburige/rechten/BWBR0005921/README.md) aangewezen rechtspersoon, die belast is met de inning en de verdeling van vergoedingen, alsmede de rechtspersoon die door Onze Minister is aangewezen overeenkomstig artikel 17, eerste lid;  
+c. collectieve beheersorganisatie: de door Onze Minister op grond van de Auteurswet of de Wet op de naburige rechten aangewezen rechtspersoon, die belast is met de inning en de verdeling van vergoedingen, alsmede de rechtspersoon die door Onze Minister is aangewezen overeenkomstig artikel 17, eerste lid;  
 
 d. geschillencommissie: de geschillencommissie, bedoeld in artikel 22; 
 
-e.de Kaderwet: de [Kaderwet zelfstandige bestuursorganen](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md). 
+e.de Kaderwet: de Kaderwet zelfstandige bestuursorganen. 
 
 ### Artikel  2  
 
-1.  Er is een College van Toezicht dat tot taak heeft toezicht uit te oefenen op de inning en de verdeling van de vergoedingen door de collectieve beheersorganisaties. De [Kaderwet](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), met uitzondering van de [artikelen 21](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) en [22](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), is van toepassing op het College van Toezicht. Onze Minister oefent de bevoegdheden, bedoeld in de [artikelen 12, eerste lid](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), en [23, eerste en tweede lid, van de Kaderwet](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) uit in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap en Onze Minister van Economische Zaken.   
+1.  Er is een College van Toezicht dat tot taak heeft toezicht uit te oefenen op de inning en de verdeling van de vergoedingen door de collectieve beheersorganisaties. De Kaderwet, met uitzondering van de artikelen 21 en 22, is van toepassing op het College van Toezicht. Onze Minister oefent de bevoegdheden, bedoeld in de artikelen 12, eerste lid, en 23, eerste en tweede lid, van de Kaderwet uit in overeenstemming met Onze Minister van Onderwijs, Cultuur en Wetenschap en Onze Minister van Economische Zaken.   
 2.  Het College van Toezicht ziet er op toe dat een collectieve beheersorganisatie: 
 
 a. aan rechthebbenden en betalingsplichtigen inzicht verschaft in haar algemene en financiële beleid door: 
 
-(i) het jaarlijks opstellen en openbaar maken van een jaarverslag en een jaarrekening overeenkomstig [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+(i) het jaarlijks opstellen en openbaar maken van een jaarverslag en een jaarrekening overeenkomstig Titel 9 van Boek 2 van het Burgerlijk Wetboek;  
 
 (ii) openbaarmaking van de nevenfuncties van bestuurders, leden van de raad van toezicht, leden van een adviserend orgaan en van degene of degenen die met de dagelijkse leiding van een collectieve beheersorganisatie is of zijn belast;  
 
@@ -74,24 +74,24 @@ c. een besluit tot verhoging van de tarieven anders dan ingevolge een bij of kra
 
 ### Artikel  4  
 
-Het College van Toezicht houdt geen toezicht op collectieve beheersorganisaties voor zover toezicht op grond van de [Mededingingswet](../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) wordt uitgeoefend door de Autoriteit Consument en Markt. 
+Het College van Toezicht houdt geen toezicht op collectieve beheersorganisaties voor zover toezicht op grond van de Mededingingswet wordt uitgeoefend door de Autoriteit Consument en Markt. 
 
 ### Artikel  5  
 
-1.  Een collectieve beheersorganisatie is gehouden het College van Toezicht vooraf schriftelijk te informeren over te nemen besluiten die van wezenlijke invloed zijn op de uitoefening door de collectieve beheersorganisatie van haar taken of het verlenen van bemiddeling als bedoeld in [artikel 30a van de Auteurswet](../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md), waaronder: 
+1.  Een collectieve beheersorganisatie is gehouden het College van Toezicht vooraf schriftelijk te informeren over te nemen besluiten die van wezenlijke invloed zijn op de uitoefening door de collectieve beheersorganisatie van haar taken of het verlenen van bemiddeling als bedoeld in artikel 30a van de Auteurswet, waaronder: 
 
 a. investeringen die een door het College van Toezicht bij reglement vast te stellen bedrag te boven gaan;  
 
 b. het oprichten of mede-oprichten van een privaatrechtelijke rechtspersoon of het deelnemen in een vennootschap.     
 2.  De leden van het College van Toezicht hebben toegang tot de kantoren van een collectieve beheersorganisatie en kunnen de algemene ledenvergadering, de vergadering van aangeslotenen en de vergaderingen van het bestuur van de collectieve beheersorganisatie bijwonen. De leden van het College hebben inzage in boeken en bescheiden en andere informatiedragers van een collectieve beheersorganisatie een en ander voor zover kennisneming daarvan noodzakelijk is voor de uitoefening van het toezicht.   
-3.  Indien een collectieve beheersorganisatie samenwerkt met of werkzaamheden laat verrichten door een derde, verband houdende met de inning en de verdeling van vergoedingen op grond van de [Auteurswet](../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) en de [Wet op de naburige rechten](../../../../../../../../../../wet/wet/op/de/naburige/rechten/BWBR0005921/README.md), blijft zij verantwoordelijk voor de uitoefening van deze taken. Zij draagt in dat geval zorg voor de beschikbaarheid voor het College van Toezicht van de financiële gegevens die relevant kunnen zijn voor de taakuitoefening van het College.   
-4.  Het College van Toezicht kan, indien het daartoe gronden aanwezig acht, de boekhouding van een collectieve beheersorganisatie laten onderzoeken door een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De kosten van dit onderzoek komen voor rekening van de collectieve beheersorganisatie.   
-5.  Gegevens of inlichtingen omtrent een collectieve beheersorganisatie of een derde als bedoeld in artikel 16, die in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet zijn verkregen, mogen uitsluitend voor de toepassing van deze wet, de [Auteurswet](../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) en de [Wet op de naburige rechten](../../../../../../../../../../wet/wet/op/de/naburige/rechten/BWBR0005921/README.md) worden gebruikt. 
+3.  Indien een collectieve beheersorganisatie samenwerkt met of werkzaamheden laat verrichten door een derde, verband houdende met de inning en de verdeling van vergoedingen op grond van de Auteurswet en de Wet op de naburige rechten, blijft zij verantwoordelijk voor de uitoefening van deze taken. Zij draagt in dat geval zorg voor de beschikbaarheid voor het College van Toezicht van de financiële gegevens die relevant kunnen zijn voor de taakuitoefening van het College.   
+4.  Het College van Toezicht kan, indien het daartoe gronden aanwezig acht, de boekhouding van een collectieve beheersorganisatie laten onderzoeken door een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. De kosten van dit onderzoek komen voor rekening van de collectieve beheersorganisatie.   
+5.  Gegevens of inlichtingen omtrent een collectieve beheersorganisatie of een derde als bedoeld in artikel 16, die in verband met enige werkzaamheid ten behoeve van de uitvoering van deze wet zijn verkregen, mogen uitsluitend voor de toepassing van deze wet, de Auteurswet en de Wet op de naburige rechten worden gebruikt. 
 
 ### Artikel  6  
 
 1.  Het College van Toezicht kan een collectieve beheersorganisatie van advies dienen.   
-2.  Het College van Toezicht kan een collectieve beheersorganisatie aanwijzingen geven met betrekking tot de uitoefening van haar taken of het verlenen van bemiddeling als bedoeld in [artikel 30a van de Auteurswet](../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md). De collectieve beheersorganisatie is gehouden overeenkomstig de aanwijzingen te handelen.   
+2.  Het College van Toezicht kan een collectieve beheersorganisatie aanwijzingen geven met betrekking tot de uitoefening van haar taken of het verlenen van bemiddeling als bedoeld in artikel 30a van de Auteurswet. De collectieve beheersorganisatie is gehouden overeenkomstig de aanwijzingen te handelen.   
 3.  Het College van Toezicht kan slechts een aanwijzing geven indien de collectieve beheersorganisatie binnen een door het college te bepalen periode na ontvangst van een voorafgaand advies van het college het advies niet opvolgt.  
 
 ### Artikel  7  
@@ -115,7 +115,7 @@ b. het oprichten of mede-oprichten van een privaatrechtelijke rechtspersoon of h
 
 a. door het verstrijken van de periode waarvoor het lid is benoemd;  
 
-b.door ontslag, bedoeld in [artikel 12, tweede lid, van de Kaderwet](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md); 
+b.door ontslag, bedoeld in artikel 12, tweede lid, van de Kaderwet; 
 
 c. door ondercuratelestelling of overlijden van het lid;  
 
@@ -145,12 +145,12 @@ Het College van Toezicht kan vertegenwoordigers van betalingsplichtigen of ander
 
 ### Artikel  15  
 
-In afwijking van [artikel 18, eerste lid, eerste volzin, van de Kaderwet](../../../../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) stelt het College van Toezicht voor 1 juli een jaarverslag op. 
+In afwijking van artikel 18, eerste lid, eerste volzin, van de Kaderwet stelt het College van Toezicht voor 1 juli een jaarverslag op. 
 
 ### Artikel  16  
 
-1.  Indien een collectieve beheersorganisatie samenwerkt met of werkzaamheden laat verrichten door een in Nederland gevestigde derde, verband houdende met de inning of de verdeling van vergoedingen op grond van de [Auteurswet](../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) of de [Wet op de naburige rechten](../../../../../../../../../../wet/wet/op/de/naburige/rechten/BWBR0005921/README.md), is deze derde, onverminderd het bepaalde in artikel 5, derde lid, gehouden het College van Toezicht op zijn verzoek onverwijld alle inlichtingen te verschaffen die het college nodig acht voor zijn taakuitoefening.   
-2.  [Artikel 5:20 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) alsmede de artikelen 6, 18 en 19 zijn van overeenkomstige toepassing.  
+1.  Indien een collectieve beheersorganisatie samenwerkt met of werkzaamheden laat verrichten door een in Nederland gevestigde derde, verband houdende met de inning of de verdeling van vergoedingen op grond van de Auteurswet of de Wet op de naburige rechten, is deze derde, onverminderd het bepaalde in artikel 5, derde lid, gehouden het College van Toezicht op zijn verzoek onverwijld alle inlichtingen te verschaffen die het college nodig acht voor zijn taakuitoefening.   
+2.  Artikel 5:20 van de Algemene wet bestuursrecht alsmede de artikelen 6, 18 en 19 zijn van overeenkomstige toepassing.  
 
 ### Artikel  17  
 
@@ -163,31 +163,31 @@ In afwijking van [artikel 18, eerste lid, eerste volzin, van de Kaderwet](../../
 
 a. bij niet-naleving van een aanwijzing als bedoeld in artikel 6, tweede lid, van ten hoogste € 225.000 per overtreding, of, indien dat meer is, 5% van het totaal van de door een collectieve beheersorganisatie in het aan de beschikking voorafgaande boekjaar geïnde of voor verdeling beschikbare vergoedingen;  
 
-b. bij overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), van ten hoogste € 35.000 per overtreding, of, indien dat meer is, 1% van het totaal van de door een collectieve beheersorganisatie in het aan de beschikking voorafgaande boekjaar geïnde of voor verdeling beschikbare vergoedingen.     
+b. bij overtreding van artikel 5:20, eerste lid, van de Algemene wet bestuursrecht, van ten hoogste € 35.000 per overtreding, of, indien dat meer is, 1% van het totaal van de door een collectieve beheersorganisatie in het aan de beschikking voorafgaande boekjaar geïnde of voor verdeling beschikbare vergoedingen.     
 2.  Het College van Toezicht legt geen boete op indien de collectieve beheersorganisatie aan wie de overtreding kan worden toegerekend aannemelijk maakt dat haar van de overtreding geen verwijt kan worden gemaakt.   
 3.  Bij de vaststelling van de hoogte van de boete houdt het College van Toezicht rekening met de ernst en de duur van de overtreding. Bij een overtreding als bedoeld in het eerste lid, onderdeel a, vervalt de bevoegdheid tot het opleggen van een boete drie jaren na de dag waarop de overtreding is begaan. Bij een overtreding als bedoeld in het eerste lid, onderdeel b, vervalt de bevoegdheid tot het opleggen van een boete een jaar na de dag waarop de overtreding is begaan.   
 4.  Het College van Toezicht draagt de opbrengst van de bestuurlijke boeten af aan Onze Minister. De afgedragen opbrengst dient ter aanwending voor door Onze Minister te bepalen doeleinden van auteursrechtbeleid in brede zin.  
 
 ### Artikel  19  
 
-1.  Het College van Toezicht kan een last onder dwangsom opleggen wegens niet-naleving van een aanwijzing als bedoeld in artikel 6, tweede lid, of overtreding van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  Het College van Toezicht kan een last onder dwangsom opleggen wegens niet-naleving van een aanwijzing als bedoeld in artikel 6, tweede lid, of overtreding van artikel 5:20, eerste lid, van de Algemene wet bestuursrecht.   
 2.  Aan een last kunnen voorschriften worden verbonden betreffende de in artikel 2, tweede lid, aan een collectieve beheersorganisatie gestelde eisen.   
 3.  Een last geldt voor een door het College van Toezicht te bepalen termijn van ten hoogste twee jaren.   
 4.  Een boete, als bedoeld in artikel 18, en een last onder dwangsom kunnen samen worden opgelegd.  
 
 ### Artikel  20  
 
-Indien beroep wordt ingesteld tegen een besluit op grond van deze wet is, in afwijking van [artikel 8:7 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), in eerste aanleg uitsluitend de rechtbank te ’s-Gravenhage bevoegd. 
+Indien beroep wordt ingesteld tegen een besluit op grond van deze wet is, in afwijking van artikel 8:7 van de Algemene wet bestuursrecht, in eerste aanleg uitsluitend de rechtbank te ’s-Gravenhage bevoegd. 
 
 ### Artikel  21  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat, en onder welke voorwaarden, collectieve beheersorganisaties hun activiteiten betreffende de verdeling van vergoedingen op grond van de [Auteurswet](../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) of de [Wet op de naburige rechten](../../../../../../../../../../wet/wet/op/de/naburige/rechten/BWBR0005921/README.md) geheel of ten dele gezamenlijk uitoefenen.   
-2.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat de inning of de verdeling van vergoedingen, verschuldigd op grond van de [Auteurswet](../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) of de [Wet op de naburige rechten](../../../../../../../../../../wet/wet/op/de/naburige/rechten/BWBR0005921/README.md), geheel of ten dele wordt opgedragen aan een collectieve beheersorganisatie, als bedoeld in artikel 1, onderdeel c.  
+1.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat, en onder welke voorwaarden, collectieve beheersorganisaties hun activiteiten betreffende de verdeling van vergoedingen op grond van de Auteurswet of de Wet op de naburige rechten geheel of ten dele gezamenlijk uitoefenen.   
+2.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat de inning of de verdeling van vergoedingen, verschuldigd op grond van de Auteurswet of de Wet op de naburige rechten, geheel of ten dele wordt opgedragen aan een collectieve beheersorganisatie, als bedoeld in artikel 1, onderdeel c.  
 
 ### Artikel  22  
 
-1.  Onze Minister kan een geschillencommissie aanwijzen voor de beslechting van geschillen tussen collectieve beheersorganisaties en betalingsplichtigen over de billijkheid van de hoogte en de toepassing van door collectieve beheersorganisaties in rekening gebrachte vergoedingen, met uitzondering van geschillen over de hoogte van de in de [artikelen 15c](../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md), [16c](../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) en [16h van de Auteurswet](../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md) bedoelde vergoedingen.   
+1.  Onze Minister kan een geschillencommissie aanwijzen voor de beslechting van geschillen tussen collectieve beheersorganisaties en betalingsplichtigen over de billijkheid van de hoogte en de toepassing van door collectieve beheersorganisaties in rekening gebrachte vergoedingen, met uitzondering van geschillen over de hoogte van de in de artikelen 15c, 16c en 16h van de Auteurswet bedoelde vergoedingen.   
 2.  Bij de aanwijzing kunnen nadere regels worden gesteld omtrent de samenstelling, inrichting, procedures, bekostiging, werkwijze van en toezicht op de geschillencommissie.  
 
 ### Artikel  23  
@@ -211,22 +211,22 @@ c. de aard en de omvang van het gebruik.
 
 ###Artikel  25a 
 
-1.  De [paragrafen 1](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [2](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [4](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) en [5](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) alsmede de [artikelen 7.3, leden 1, 3, 6, 7, 8 en 9](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), en [7.5 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) en de daarop berustende algemene maatregelen van bestuur alsmede de ministeriële regeling, bedoeld in [artikel 1.9 van die wet](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), zijn van overeenkomstige toepassing op collectieve beheersorganisaties, met dien verstande dat: 
+1.  De paragrafen 1, 2, 4 en 5 alsmede de artikelen 7.3, leden 1, 3, 6, 7, 8 en 9, en 7.5 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector en de daarop berustende algemene maatregelen van bestuur alsmede de ministeriële regeling, bedoeld in artikel 1.9 van die wet, zijn van overeenkomstige toepassing op collectieve beheersorganisaties, met dien verstande dat: 
 
 a. wordt verstaan onder topfunctionaris: de leden van de uitvoerende, adviserende en toezichthoudende organen van een collectieve beheersorganisatie alsmede de hoogste ondergeschikte of de leden van de groep hoogste ondergeschikten aan dat orgaan en degene of degenen die is of zijn belast met de dagelijkse leiding van een collectieve beheersorganisatie.  
 
-b. de op grond van [artikel 5.5, eerste lid, van die wet](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) opgeëiste bedragen beschikbaar komen voor verdeling aan rechthebbenden, en  
+b. de op grond van artikel 5.5, eerste lid, van die wet opgeëiste bedragen beschikbaar komen voor verdeling aan rechthebbenden, en  
 
-c. voor [artikel 7.3, elfde lid van die wet](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) wordt gelezen: Voor de toepassing van dit artikel blijft buiten beschouwing iedere wijziging in de bezoldiging of de duur van het dienstverband die is of wordt overeengekomen tussen 18 januari 2012 en het tijdstip waarop deze wet in werking treedt.     
-2.  De op grond van [paragraaf 5 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) aan de Minister wie het aangaat toekomende bevoegdheden worden, in afwijking van [artikel 5.1 van die wet](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), voor de overeenkomstige toepassing van die wet op collectieve beheersorganisaties uitgeoefend door het College van Toezicht. De in de [artikelen 4.1](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [4.2](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [5.2, tweede lid](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), en [5.3 van genoemde wet](../../../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) bedoelde informatie wordt, in afwijking van die artikelen, verstrekt aan het College van Toezicht. 
+c. voor artikel 7.3, elfde lid van die wet wordt gelezen: Voor de toepassing van dit artikel blijft buiten beschouwing iedere wijziging in de bezoldiging of de duur van het dienstverband die is of wordt overeengekomen tussen 18 januari 2012 en het tijdstip waarop deze wet in werking treedt.     
+2.  De op grond van paragraaf 5 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector aan de Minister wie het aangaat toekomende bevoegdheden worden, in afwijking van artikel 5.1 van die wet, voor de overeenkomstige toepassing van die wet op collectieve beheersorganisaties uitgeoefend door het College van Toezicht. De in de artikelen 4.1, 4.2, 5.2, tweede lid, en 5.3 van genoemde wet bedoelde informatie wordt, in afwijking van die artikelen, verstrekt aan het College van Toezicht. 
 
 ### Artikel  26  
 
-Wijzigt de [Auteurswet 1912](../../../../../../../../../../wet/auteurswet/BWBR0001886/README.md).  
+Wijzigt de Auteurswet 1912.  
 
 ### Artikel  27  
 
-Wijzigt de [Wet op de naburige rechten](../../../../../../../../../../wet/wet/op/de/naburige/rechten/BWBR0005921/README.md).  
+Wijzigt de Wet op de naburige rechten.  
 
 ### Artikel  28  
 

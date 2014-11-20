@@ -57,7 +57,7 @@ h. de normpremie: de aan de hand van het drempelinkomen en het toetsingsinkomen 
 
 ### Artikel  4  
 
-Onze Minister stelt uiterlijk 15 dagen voorafgaande aan het berekeningsjaar bij regeling de standaardpremie voor het berekeningsjaar vast die wordt gevormd door de geraamde gemiddelde premie voor een verzekerde voor een zorgverzekering in het berekeningsjaar te vermeerderen met het geraamde gemiddelde bedrag dat een verzekerde naar verwachting in dat jaar betaalt ingevolge artikel 19 van de Zorgverzekeringswet, met dien verstande dat bij het geraamde gemiddelde bedrag verzekerden die recht hebben op een uitkering als bedoeld in artikel 118a van de Zorgverzekeringswet niet worden meegerekend.
+Onze Minister stelt uiterlijk 15 dagen voorafgaande aan het berekeningsjaar bij regeling de standaardpremie voor het berekeningsjaar vast die wordt gevormd door de geraamde gemiddelde premie voor een verzekerde voor een zorgverzekering in het berekeningsjaar te vermeerderen met het geraamde gemiddelde bedrag dat een verzekerde naar verwachting in dat jaar betaalt ingevolge artikel 19 van de Zorgverzekeringswet.
 
 ### Artikel  5  
 

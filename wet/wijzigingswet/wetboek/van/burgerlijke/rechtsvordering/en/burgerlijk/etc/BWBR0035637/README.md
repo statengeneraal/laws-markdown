@@ -10,27 +10,27 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is de executoriale verk
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt het Burgerlijk Wetboek Boek 3. 
 
 ### Artikel  III  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Overgangswet nieuw Burgerlijk Wetboek. 
 
 ### Artikel  IV  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Artikel I is niet van toepassing op de executie van een onroerende zaak, een aandeel daarin of een beperkt recht daarop, waarvan de aanzegging overeenkomstig artikel 544 van het Wetboek van Burgerlijke Rechtsvordering heeft plaatsgevonden voor de inwerkingtreding van deze wet. 
 
 ### Artikel  V  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 

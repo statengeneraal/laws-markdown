@@ -3496,7 +3496,7 @@ De notaris is verplicht, voor zover hem dit mogelijk is, uiterlijk op de dag na 
 De koper is gehouden de koopprijs te voldoen in handen van de notaris. Deze voldoet daaruit de kosten van de executie. 
 
 ### Artikel  524a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1. Indien sprake is van een tot bewoning bestemde onroerende zaak worden, voor zover verschuldigd, aan de koper geen andere kosten of heffingen in rekening gebracht dan: 
 
