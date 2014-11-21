@@ -16,7 +16,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 ### Artikel  2  
 
 1.  Er is een schadefonds geweldsmisdrijven. Onze Minister verstrekt het fonds jaarlijks een subsidie voor de kosten van de uitvoering van deze wet, voor zover niet op andere wijze in de vergoeding van deze kosten kan worden voorzien.    
-2.  In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is titel 4.2 van die wet van toepassing.    
+2.  In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht is titel 4.2 van die wet van toepassing.    
 3.   Het fonds is rechtspersoon en gevestigd te Rijswijk. De voorzitter van de commissie, of degene die hem vervangt, vertegenwoordigt het fonds in en buiten rechte.   
 
 ### Artikel  3  
@@ -71,7 +71,7 @@ Een aanvraag voor een uitkering moet bij het fonds worden ingediend binnen drie 
 4.   Aanvragen van eenvoudige aard die bij de commissie aanhangig worden gemaakt, worden in behandeling genomen door de enkelvoudige kamer. Indien een aanvraag naar het oordeel van deze kamer ongeschikt is voor behandeling, verwijst zij dit naar de meervoudige kamer. De enkelvoudige kamer kan ook in andere gevallen een aanvraag naar de meervoudige kamer verwijzen. De verwijzing kan geschieden in elke stand van het onderzoek. De behandeling van de verwezen aanvraag wordt voortgezet in de stand waain het zich bevindt.   
 5.   Indien een aanvraag naar het oordeel van de meervoudige kamer geschikt is voor verdere behandeling door de enkelvoudige kamer, kan zij dit verwijzen naar een enkelvoudige kamer. De vierde en vijfde volzin van het vierde lid zijn van toepassing.   
 6.   Aan de commissie is een secretaris verbonden, die door Onze Minister, de commissie gehoord, wordt benoemd en ontslagen.   
-7.  De [Kaderwet zelfstandige bestuursorganen](../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing op de commissie. 
+7.  De Kaderwet zelfstandige bestuursorganen is van toepassing op de commissie. 
 
 ### Artikel  9  
 

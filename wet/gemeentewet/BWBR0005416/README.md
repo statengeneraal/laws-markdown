@@ -2653,7 +2653,9 @@ E. M. H. Hirsch Ballin
 
 2. Wet publieke gezondheid.  
 
-3. Wet maatschappelijke ondersteuning 2015.   
+3. Wet maatschappelijke ondersteuning 2015.  
+
+4. Jeugdwet.  
 
 ### E  
 
@@ -2677,5 +2679,7 @@ E. M. H. Hirsch Ballin
 
 #### *Ministerie van Veiligheid en Justitie* 
 
-1. Wet veiligheidsregio’s.   
+1. Wet veiligheidsregio’s.  
+
+2. Jeugdwet.  
 

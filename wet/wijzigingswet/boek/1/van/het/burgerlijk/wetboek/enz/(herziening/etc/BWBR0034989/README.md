@@ -37,7 +37,7 @@ Onze Ministers zenden binnen vijf jaar na de inwerkingtreding van de wet aan de 
 ### Artikel  VI  
 Treedt in werking op een nader te bepalen tijdstip 
 
-De wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
+De wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.  
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   Gegeven te  
 

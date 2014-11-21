@@ -437,6 +437,93 @@ b. een vochtgehalte van:
 5°. ten hoogste 38% bij een vetgehalte van 60% of hoger in de droge stof.       
 4.  In plaats van de benaming ‘Commissiekaas’ kan ook de benaming ‘Mimolette’ worden gebruikt.  
 
+### §  2.7  
+
+####Nationale voorschriften over de aanduiding van bijzondere slachtpluimveehouderijsystemen
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  2.31  
+
+####Vermeldingen van houderijsystemen
+
+Treedt in werking per 01-01-2015 
+
+1.  Onverminderd verordening (EG) nr. 543/2008 worden ter aanduiding van het houderijsysteem bij de etikettering als bedoeld in artikel 1, derde lid, onderdeel a, van richtlijn 2000/13/EG van geslachte kippen de vermeldingen: 
+
+a. ‘Scharrel ... binnengehouden’;  
+
+b. ‘Scharrel ... met uitloop’;  
+
+c. ‘Boerenscharrel .... met uitloop’ of ‘Hoeve ... met uitloop’, of  
+
+d. ‘Boerenscharrel .... met vrije uitloop’ of ‘Hoeve ... met vrije uitloop’,   en de overeenkomstige aanduidingen in de andere talen van de Gemeenschap, uitsluitend gebruikt voor zover aan de in deze paragraaf gestelde voorschriften is voldaan.   
+2.  Deze paragraaf is uitsluitend van toepassing ten aanzien van in Nederland gehouden en geslachte kippen bij de etikettering waarvan de in het eerste lid, genoemde aanduidingen worden gebezigd.  
+
+### Artikel  2.32  
+
+####Stallen
+
+Treedt in werking per 01-01-2015 
+
+De kippen worden gehouden in stallen: 
+
+a. waarin op het grondoppervlak dat de kippen ter beschikking staat ten hoogste twaalf dieren per vierkante meter worden gehouden, met dien verstande dat gedurende de eerste drie levensweken van de kippen ten hoogste vijftien dieren per vierkante meter grondoppervlak worden gehouden;  
+
+b. waarin het voor de kippen beschikbare grondoppervlak geheel is bedekt met losse blanke houtsnippers, houtkrullen, los stro, los gehakseld stro of ander strooiselmateriaal;  
+
+c. waarin de voor de kippen bestemde ruimte zodanig is ingericht dat bij een buitensterkte van 1.200 lux minimaal 10 lux aan daglicht beschikbaar is, de totale hoeveelheid licht gemeten op ooghoogte van de dierenoverdag te allen tijde minimaal twintig lux is op ten minste tachtig procent van het oppervlak, een intermitterend verlichtingsschema met perioden korter dan acht uur niet wordt toegepast, geen kunstlicht wordt toegepast gedurende een aaneengesloten periode van acht uur vallende in de avond en in de nacht en het kunstlicht niet afkomstig is van laag frequente TL-verlichting.   
+
+### Artikel  2.33  
+
+####Verzorging
+
+Treedt in werking per 01-01-2015 
+
+1.  Met ingang van de derde levensweek wordt minimaal twee gram graan per kip per dag toegediend door het dagelijks strooien op het voor de kippen beschikbare grondoppervlak.   
+2.  Met ingang van de tweede levensweek wordt per mestperiode minimaal één stro-, hooi, of luzernebaal verstrekt per duizend kippen, waarbij de balen gelijkmatig over de ruimte worden verdeeld.  
+
+### Artikel  2.34  
+
+####Voeder
+
+Treedt in werking per 01-01-2015 
+
+Gedurende de mestperiode wordt voeder verstrekt waarin het minimumgehalte aan graan en graanbijproducten 70% bedraagt en waaraan geen dierlijke producten, met uitzondering van melkproducten, zijn toegevoegd. 
+
+### Artikel  2.35  
+
+####Uitloop
+
+Treedt in werking per 01-01-2015 
+
+1.  Bij gebruik van de vermeldingen, genoemd in artikel 2.31, onderdelen b, c en d: 
+
+a. hebben de kippen ten minste van het einde van de ochtendschemering tot het begin van de avondschemering of ten minste tien uur per dag toegang tot een uitloopruimte in de vrije lucht;  
+
+b. hebben de toegangsluiken tot de uitloop een minimale lengte per luik van zestig centimeter en een minimale hoogte van dertig centimeter en zijn zij gelijkelijk verdeeld over de kant van de stal waar zich de uitloop bevindt, en  
+
+c. hebben de kippen toegang tot de uitloop vanaf uiterlijk de 28e levensdag.     
+2.  Bij gebruik van de vermelding, genoemd in artikel 2.31, onderdeel b, mag de bezettingsdichtheid in de stal worden verhoogd tot dertien kippen per vierkante meter.  
+
+### Artikel  2.36  
+
+####Verkoop aan particulieren
+
+Treedt in werking per 01-01-2015 
+
+Bij verkoop van geslachte kippen aan particulieren: 
+
+a. worden onverpakte geslachte kippen gescheiden aangeboden, en  
+
+b. houdt de verkoper een administratie bij waarin tenminste is opgenomen: 
+
+1°. het aantal stuks en het nettogewicht van de aangevoerde kippen;  
+
+2°. het aantal stuks en het nettogewicht van de verkochte geslachte kippen;  
+
+3°. het aantal delen, het soort delen en het nettogewicht van de verkochte delen van geslachte kippen.     
+
 ### Hoofdstuk  3  
 
 ####: Niet voor menselijke consumptie bestemde dierlijke producten
@@ -761,6 +848,14 @@ b. de bezetting van de buitenruimte van vleeskuikens te laten plaatsvinden volge
 ####Overgangsrecht kwaliteitsaanduidingen
 
 De op het tijdstip van inwerkingtreding van dit artikel bij het Hoofdproductschap Akkerbouw aanhangige aanvragen en verzoeken, bedoeld in artikel 17, eerste lid, worden met ingang van 1 januari 2014 overeenkomstig deze regeling behandeld door de daartoe bevoegde autoriteit met inachtneming van de termijn die op dat tijdstip is verstreken sinds het tijdstip van indiening van de aanvraag of het verzoek. 
+
+### Artikel  4.2b  
+
+####Overgangsrecht aanduiding bijzondere slachtpluimveehouderijsystemen
+
+Treedt in werking per 01-01-2015 
+
+Vrijstellingen en ontheffingen verleend door het Productschap Pluimvee en Eieren die golden onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van dit artikel, worden met ingang van de inwerkingtreding van dit artikel geacht te zijn verleend door de minister op grond van artikel 10.1 van de wet, onder dezelfde voorschriften, beperkingen en voorwaarden. 
 
 ### Artikel  4.3  
 

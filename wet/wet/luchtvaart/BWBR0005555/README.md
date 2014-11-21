@@ -1765,7 +1765,7 @@ d. een bestemming die, of van een gebruik dat, vogels aantrekt, in verband met d
 
 ### Artikel  8.9  
 
-1.  Bij de verlening van een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 2° of 3°, of 2.12, tweede lid, van de Wet algemene bepalingen omgevingsrecht van het geldende bestemmingsplan wordt afgeweken en bij de toepassing van artikel 3.3, derde lid, van die wet wordt het luchthavenindelingbesluit in acht genomen.   
+1.  Bij de verlening van een omgevingsvergunning waarbij met toepassing van artikel 2.12, eerste lid, onder a, onder 2° of 3°, van de Wet algemene bepalingen omgevingsrecht van het geldende bestemmingsplan wordt afgeweken en bij de toepassing van artikel 3.3, derde lid, van die wet wordt het luchthavenindelingbesluit in acht genomen.   
 2.  In afwijking van artikel 3.3, tweede lid, van de Wet algemene bepalingen omgevingsrecht duurt de in die artikelen bedoelde aanhouding totdat een bestemmingsplan dat in overeenstemming is met het besluit in werking is getreden.   
 3.  Bij de toepassing van de artikelen, genoemd in het eerste lid, kan van het besluit worden afgeweken indien van Onze Minister van Verkeer en Waterstaat, in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, de verklaring is ontvangen dat hij tegen de afwijking geen bezwaar heeft.   
 4.  De verklaring van geen bezwaar die betrekking heeft op het luchthavengebied kan worden geweigerd met het oog op het gebruik van het gebied als luchthaven.   

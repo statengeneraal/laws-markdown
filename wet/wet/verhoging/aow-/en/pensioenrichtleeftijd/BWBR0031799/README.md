@@ -6,30 +6,30 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben dat het, in verband met de houdbaarheid van de overheidsfinanciën en de noodzaak ook voor toekomstige generaties een solide stelsel van collectieve voorzieningen zeker te stellen, wenselijk is de leeftijd waarop op grond van de [Algemene Ouderdomswet](../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) recht op ouderdomspensioen ontstaat met ingang van 2013 stapsgewijs te verhogen naar 66 jaar in 2019 en naar 67 jaar in 2023 en vervolgens te koppelen aan de stijging van de levensverwachting en in samenhang daarmee ook de [Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en de [Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) aan te passen;
+Alzo Wij in overweging genomen hebben dat het, in verband met de houdbaarheid van de overheidsfinanciën en de noodzaak ook voor toekomstige generaties een solide stelsel van collectieve voorzieningen zeker te stellen, wenselijk is de leeftijd waarop op grond van de Algemene Ouderdomswet recht op ouderdomspensioen ontstaat met ingang van 2013 stapsgewijs te verhogen naar 66 jaar in 2019 en naar 67 jaar in 2023 en vervolgens te koppelen aan de stijging van de levensverwachting en in samenhang daarmee ook de Wet werk en bijstand, de Wet inkomstenbelasting 2001 en de Wet op de loonbelasting 1964 aan te passen;
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
 
-####Wijziging van de [Algemene Ouderdomswet](../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md)
+####Wijziging van de Algemene Ouderdomswet
 
 Wijzigt de Algemene Ouderdomswet. 
 
 ### Artikel  II  
 
-####Wijziging van de [Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md)
+####Wijziging van de Wet werk en bijstand
 
 Wijzigt de Wet werk en bijstand. 
 
 ### Artikel  III  
 
-####Wijziging van de [Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)
+####Wijziging van de Wet inkomstenbelasting 2001
 
 Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  IV  
 
-####Wijziging van de [Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md)
+####Wijziging van de Wet op de loonbelasting 1964
 
 Wijzigt de Wet op de loonbelasting 1964. 
 

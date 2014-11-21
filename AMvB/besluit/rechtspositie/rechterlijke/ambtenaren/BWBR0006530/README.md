@@ -221,7 +221,7 @@ a. in geval van benoeming in het ambt van:
 
 2°. hoofdofficier van justitie, plaatsvervangend hoofdofficier van justitie, senior officier van justitie A, senior officier van justitie, officier van justitie, substituut-officier van justitie, plaatsvervangend officier van justitie, officier enkelvoudige zittingen of plaatsvervangend officier enkelvoudige zittingen bij een arrondissementsparket, ten overstaan van een enkelvoudige of meervoudige kamer van de rechtbank waarvan het rechtsgebied overeenkomt met dat van het parket waarvan is vastgesteld dat het ambt daarbij wordt vervuld;  
 
-3°. hoofdofficier van justitie, plaatsvervangend hoofdofficier van justitie, senior officier van justitie A, senior officier van justitie, officier van justitie, substituut-officier van justitie, plaatsvervangend officier van justitie, officier enkelvoudige zittingen of plaatsvervangend officier enkelvoudige zittingen bij het landelijk parket, het functioneel parket of het parket-generaal, ten overstaan van een enkelvoudige of meervoudige kamer van de rechtbank Amsterdam, Den Haag, Oost-Brabant of Oost-Nederland.   
+3°. hoofdofficier van justitie, plaatsvervangend hoofdofficier van justitie, senior officier van justitie A, senior officier van justitie, officier van justitie, substituut-officier van justitie, plaatsvervangend officier van justitie, officier enkelvoudige zittingen of plaatsvervangend officier enkelvoudige zittingen bij het landelijk parket, het functioneel parket of het parket-generaal, ten overstaan van een enkelvoudige of meervoudige kamer van de rechtbank Amsterdam, Den Haag, Oost-Brabant of Overijssel.   
 
 b. in geval van benoeming in het ambt van: 
 

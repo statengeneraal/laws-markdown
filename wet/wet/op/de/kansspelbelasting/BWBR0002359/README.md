@@ -25,7 +25,7 @@ c. de gerechtigden tot de prijzen van binnenlandse kansspelen, niet zijnde casin
 d. de in Nederland wonende of gevestigde gerechtigden tot de prijzen van buitenlandse kansspelen, niet zijnde kansspelen welke via het internet worden gespeeld;   
 
 e.de in Nederland wonende of gevestigde gerechtigden tot de prijzen van buitenlandse kansspelen welke via het internet worden gespeeld. 
-2. Onder exploitant als bedoeld in het eerste lid, onderdeel a, wordt verstaan degene die een kansspelautomaat exploiteert in de zin van [artikel 30h, tweede lid, van de Wet op de kansspelen](../../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md).
+2. Onder exploitant als bedoeld in het eerste lid, onderdeel a, wordt verstaan degene die een kansspelautomaat exploiteert in de zin van artikel 30h, tweede lid, van de Wet op de kansspelen.
 
 ### Artikel  2  
 
@@ -34,7 +34,7 @@ e.de in Nederland wonende of gevestigde gerechtigden tot de prijzen van buitenla
 a. prijzen en premies, indien de aanwijzing der winnaars geschiedt door enige kansbepaling waarop de deelnemers in het algemeen geen overwegende invloed kunnen uitoefenen, met uitzondering van levensverzekeringen en premieleningen;  
 
 b. prijzen en premies, uitgeloofd ten behoeve van de deelnemers aan een prijsvraag van welke aard ook, tenzij een wetenschappelijke of kunstzinnige prestatie wordt gevorderd, dan wel een prestatie waarmee het algemeen maatschappelijk belang wordt gediend.      
-2.   Kansspelen worden als binnenlands beschouwd, indien zij worden gehouden door natuurlijke personen of door lichamen in de zin van de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (Stb. 1959, 301), van wie een of meer in Nederland wonen of zijn gevestigd.    
+2.   Kansspelen worden als binnenlands beschouwd, indien zij worden gehouden door natuurlijke personen of door lichamen in de zin van de Algemene wet inzake rijksbelastingen (Stb. 1959, 301), van wie een of meer in Nederland wonen of zijn gevestigd.    
 3.   Kansspelen worden als buitenlands beschouwd, indien zij niet vallen onder het tweede lid.   
 
 ### Hoofdstuk  II  
