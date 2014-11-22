@@ -87,7 +87,7 @@ I have taken the XML files in these databases and converted them to the simple m
 
 Contact
 ------------
-Inquiries go to we.are.lawly@gmail.com.
+Inquiries go to maartenhoedjes@gmail.com.
 
 This repository is connected to [Open State](http://openstate.eu/), a Dutch organization that promotes open data and the [Leibniz Center for Law](http://www.leibnizcenter.org/), a research group in the University of Amsterdam which operates at the intersection of artificial intelligence and law.
 
