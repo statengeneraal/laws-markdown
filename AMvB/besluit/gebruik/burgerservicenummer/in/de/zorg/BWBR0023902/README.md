@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 16 januari 2007, MEVA/ICT-2740333, gedaan in overeenstemming met Onze Minister voor Bestuurlijke Vernieuwing en Koninkrijksrelaties;
 
-Gelet op de [artikelen 2](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md), [11](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md), [15](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md), [17](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) en [17a van de Wet gebruik burgerservicenummer in de zorg](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) en de [artikelen 17](../../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) en [21, vierde lid, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);
+Gelet op de artikelen 2, 11, 15, 17 en 17a van de Wet gebruik burgerservicenummer in de zorg en de artikelen 17 en 21, vierde lid, van de Wet algemene bepalingen burgerservicenummer;
 
 De Raad van State gehoord (advies van 21 februari 2007, nr. W13.07.0014/I);
 
@@ -20,30 +20,40 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a.  *wet:* [Wet gebruik burgerservicenummer in de zorg](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md);  
+a. *wet:* Wet gebruik burgerservicenummer in de zorg;  
 
-b.  *register van zorgaanbieders:* register van zorgaanbieders als bedoeld in [artikel 14, eerste lid, van de wet](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md);  
+b. *register van zorgaanbieders:* register van zorgaanbieders als bedoeld in artikel 14, eerste lid, van de wet;  
 
-c.  *register van indicatieorganen:* register van indicatieorganen als bedoeld in [artikel 14, eerste lid, van de wet](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md);  
+c. *register van indicatieorganen:* register van indicatieorganen als bedoeld in artikel 14, eerste lid, van de wet;  
 
-d.  *register van zorgverzekeraars:* register van zorgverzekeraars als bedoeld in [artikel 14, eerste lid, van de wet](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md);  
+d. *register van zorgverzekeraars:* register van zorgverzekeraars als bedoeld in artikel 14, eerste lid, van de wet;  
 
-e.  *register:* register van zorgaanbieders, register van indicatieorganen of register van zorgverzekeraars;  
+e. *register:* register van zorgaanbieders, register van indicatieorganen of register van zorgverzekeraars;  
 
-f.  *geregistreerde:* in een register opgenomen zorgaanbieder, indicatieorgaan of zorgverzekeraar;  
+f. *geregistreerde:* in een register opgenomen zorgaanbieder, indicatieorgaan of zorgverzekeraar;  
 
-g.  *SBV-Z:* sectorale berichtenvoorziening in de zorg als bedoeld in artikel 11, eerste lid;  
+g. *SBV-Z:* sectorale berichtenvoorziening in de zorg als bedoeld in artikel 11, eerste lid;  
 
-h.  *beheervoorziening:* beheervoorziening als bedoeld in [artikel 3 van de Wet algemene bepalingen burgerservicenummer](../../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);  
+h.  *beheervoorziening:* beheervoorziening als bedoeld in artikel 3 van de Wet algemene bepalingen burgerservicenummer;  
 
-i.  *systeembeschrijving:* systeembeschrijving als bedoeld in artikel 12;  
+i. *systeembeschrijving:* systeembeschrijving als bedoeld in artikel 12;  
 
-j.  *toegangsmiddel:* certificaat of ander authenticatiemiddel als bedoeld in artikel 18 met inbegrip van de drager van het toegangsmiddel.   
+j. *toegangsmiddel:* certificaat of ander authenticatiemiddel als bedoeld in artikel 18 met inbegrip van de drager van het toegangsmiddel;  
+
+k. *elektronisch uitwisselingssysteem:* een systeem waarmee zorgaanbieders op elektronische wijze, dossiers, gedeelten van dossiers of gegevens uit dossiers voor andere zorgaanbieders raadpleegbaar kunnen maken, waaronder niet begrepen een systeem binnen een zorgaanbieder, voor het bijhouden van een elektronisch dossier.  
 
 ### Artikel  2  
 
-1. De verbindingskantoren, bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md), worden aangewezen als zorgverzekeraar in de zin van de [wet](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) voor zover zij het in [artikel 8 van dat besluit](../../../../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md) aangegeven deel van de administratie verrichten voor de bij [artikel 2 van dat besluit](../../../../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md) aangewezen zorg.  
-2.  Als zorgaanbieder, respectievelijk zorg in de zin van de wet wordt aangewezen de Stichting Sanquin Bloedvoorziening voor zover het betreft haar werkzaamheden met betrekking tot het diagnostisch laboratoriumonderzoek voor een zorgaanbieder en het beheer en de exploitatie van het Transfusie Register Irregulaire antistoffen en X(kruis)-proeven. 
+1. De verbindingskantoren, bedoeld in artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering, worden aangewezen als zorgverzekeraar in de zin van de wet voor zover zij het in artikel 8 van dat besluit aangegeven deel van de administratie verrichten voor de bij artikel 2 van dat besluit aangewezen zorg.  
+2.  Als zorgaanbieder, respectievelijk zorg in de zin van de wet wordt aangewezen de Stichting Sanquin Bloedvoorziening voor zover het betreft haar werkzaamheden met betrekking tot het diagnostisch laboratoriumonderzoek voor een zorgaanbieder en het beheer en de exploitatie van het Transfusie Register Irregulaire antistoffen en X(kruis)-proeven.  
+3.  Het beheren en in stand houden van een elektronisch uitwisselingssysteem waarin het burgerservicenummer is opgenomen, wordt aangewezen als zorg in de zin van de wet.   
+4.  Een rechtspersoon die een elektronisch uitwisselingssysteem beheert en in stand houdt, niet zijnde een zorgaanbieder als bedoeld in artikel 1, onderdeel c van de wet, is aangewezen als zorgaanbieder in de zin van de wet zolang voldaan wordt aan elk van de volgende voorwaarden: 
+
+a. een van de rechtspersoon onafhankelijke organisatie heeft na onderzoek vastgesteld dat de rechtspersoon en de voorziening voldoen aan de door de Stichting Nederlands Normalisatie-Instituut uitgegeven norm 7510:2011 en heeft die bevinding opgenomen in een door die organisatie ten behoeve van de rechtspersoon opgesteld auditrapport;  
+
+b. de rechtspersoon heeft het College bescherming persoonsgegevens de in artikel 27 van de Wet bescherming persoonsgegevens voorgeschreven melding gedaan onder overlegging van het in onderdeel a bedoelde audit-rapport dat niet ouder is dan drie maanden;  
+
+c. de in onderdeel a bedoelde vaststelling is niet langer dan vijf jaar geleden gedaan.   
 
 ### Hoofdstuk  II  
 
@@ -75,11 +85,11 @@ a. indien de geregistreerde een natuurlijke persoon is:
 
 4°. geboorteplaats;  
 
-5°. titel in de zin van de [Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);    
+5°. titel in de zin van de Wet op de beroepen in de individuele gezondheidszorg;    
 
 b. indien de geregistreerde een rechtspersoon is: naam;  
 
-c. indien de geregistreerde een zorgaanbieder is als bedoeld in [artikel 1, eerste lid, onder c, sub 2°, van de Kwaliteitswet zorginstellingen](../../../../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md): naam van de instelling.     
+c. indien de geregistreerde een zorgaanbieder is als bedoeld in artikel 1, eerste lid, onder c, sub 2°, van de Kwaliteitswet zorginstellingen: naam van de instelling.     
 2.  In het register van indicatieorganen en zorgverzekeraars wordt per inschrijving opgenomen de naam van onderscheidenlijk het indicatieorgaan en de zorgverzekeraar.   
 3.  In de registers wordt voorts per inschrijving opgenomen: 
 
@@ -98,7 +108,7 @@ De geregistreerde stelt Onze Minister onmiddellijk op de hoogte van een wijzigin
 
 ### Artikel  8  
 
-Zolang de inschrijving van een zorgaanbieder in het register, bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), is geschorst, is zijn inschrijving in het register van zorgaanbieders geschorst. 
+Zolang de inschrijving van een zorgaanbieder in het register, bedoeld in artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg, is geschorst, is zijn inschrijving in het register van zorgaanbieders geschorst. 
 
 ### Artikel  9  
 
@@ -125,7 +135,7 @@ b. een aan een geregistreerde verstrekt toegangsmiddel geldig is.
 
 Voor de toepassing van dit hoofdstuk wordt verstaan onder: 
 
-*jeugdzorgaanbieder:* natuurlijke persoon of rechtspersoon die jeugdzorg verleent waarop aanspraak bestaat ingevolge de [Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+*jeugdzorgaanbieder:* natuurlijke persoon of rechtspersoon die jeugdzorg verleent waarop aanspraak bestaat ingevolge de Wet op de jeugdzorg.   
 
 ### Artikel  11  
 
@@ -177,7 +187,7 @@ g. het voorkomen van calamiteiten en het afhandelen daarvan.
 
 ### Artikel  15  
 
-Zorgaanbieders, indicatieorganen en zorgverzekeraars kunnen uitsluitend door tussenkomst van de SBV-Z gebruik maken van de voorzieningen, bedoeld in [artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md). 
+Zorgaanbieders, indicatieorganen en zorgverzekeraars kunnen uitsluitend door tussenkomst van de SBV-Z gebruik maken van de voorzieningen, bedoeld in artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer. 
 
 ### Artikel  16  
 
@@ -185,7 +195,7 @@ De zorgaanbieder, het indicatieorgaan, de zorgverzekeraar en de jeugdzorgaanbie
 
 ### Artikel  17  
 
-Het onderzoek, bedoeld in [artikel 21, derde lid, van de Wet algemene bepalingen burgerservicenummer](../../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md), leidt tot een oordeel over: 
+Het onderzoek, bedoeld in artikel 21, derde lid, van de Wet algemene bepalingen burgerservicenummer, leidt tot een oordeel over: 
 
 a. de volledigheid, begrijpelijkheid en juistheid van de beschrijving van de inrichting, werking en beveiliging van de SBV-Z, gelet op de geldende regelgeving;  
 
@@ -270,15 +280,15 @@ De geregistreerde verkrijgt geen recht van eigendom of rechten van intellectuele
 
 ### Artikel  26  
 
-[Artikel 5, aanhef en onder a, van de wet](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) geldt niet voor apothekers. 
+Artikel 5, aanhef en onder a, van de wet geldt niet voor apothekers. 
 
 ### Artikel  27  
 
-In afwijking van [artikel 5 van de wet](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) stelt een zorgaanbieder de identiteit van een persoon die op het moment van inwerkingtreding van de [wet](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) zijn cliënt is, vast voor zover dat redelijkerwijs nodig is ter uitvoering van [artikel 12 van de Wet algemene bepalingen burgerservicenummer](../../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md). 
+In afwijking van artikel 5 van de wet stelt een zorgaanbieder de identiteit van een persoon die op het moment van inwerkingtreding van de wet zijn cliënt is, vast voor zover dat redelijkerwijs nodig is ter uitvoering van artikel 12 van de Wet algemene bepalingen burgerservicenummer. 
 
 ### Artikel  28  
 
-1.  Indien het vaststellen van de identiteit van een cliënt door een zorgaanbieder overeenkomstig het bij of krachtens de [artikelen 5](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md), [6](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) en [17 van de wet](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) bepaalde onmogelijk blijkt of een onevenredige inspanning kost, gebruikt de zorgaanbieder in afwijking van de [artikelen 4](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md), [8](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) en [9 van de wet](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) geen burgerservicenummer.   
+1.  Indien het vaststellen van de identiteit van een cliënt door een zorgaanbieder overeenkomstig het bij of krachtens de artikelen 5, 6 en 17 van de wet bepaalde onmogelijk blijkt of een onevenredige inspanning kost, gebruikt de zorgaanbieder in afwijking van de artikelen 4, 8 en 9 van de wet geen burgerservicenummer.   
 2.  In de gevallen, bedoeld het eerste lid: 
 
 a. neemt de zorgaanbieder in ieder geval de volgende gegevens van de cliënt in zijn administratie op: 
@@ -312,18 +322,18 @@ a. de zorgaanbieder de identiteit van de cliënt aan de hand van de volgende geg
 5°. huisnummer van het woonadres en    
 
 b. de zorgaanbieder bij het verstrekken van het burgerservicenummer vermeldt dat de identiteit van de cliënt niet is vastgesteld.    
-2.  In afwijking van artikel 28, eerste lid, kan, met betrekking tot cliënten tot de leeftijd van 14 jaar, waarbij het vaststellen van de identiteit overeenkomstig het bij of krachtens de [artikelen 5](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) en [6 van de wet](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) bepaalde onmogelijk blijkt, het burgerservicenummer worden gebruikt bij jeugdgezondheidszorg als omschreven bij of krachtens de [Wet publieke gezondheid](../../../../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md) en bij vaccinaties, opgenomen in een vaccinatieprogramma als bedoeld in [artikel 18 van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), indien de zorgaanbieder: 
+2.  In afwijking van artikel 28, eerste lid, kan, met betrekking tot cliënten tot de leeftijd van 14 jaar, waarbij het vaststellen van de identiteit overeenkomstig het bij of krachtens de artikelen 5 en 6 van de wet bepaalde onmogelijk blijkt, het burgerservicenummer worden gebruikt bij jeugdgezondheidszorg als omschreven bij of krachtens de Wet publieke gezondheid en bij vaccinaties, opgenomen in een vaccinatieprogramma als bedoeld in artikel 18 van het Besluit zorgaanspraken AWBZ, indien de zorgaanbieder: 
 
 a. de identiteit van de cliënt controleert aan de hand van de gegevens genoemd in het eerste lid, onderdeel a, met de persoonslijst met burgerservicenummer die verstrekt is door de gemeente aan de cliënt, en  
 
 b. bij het verstrekken van het burgerservicenummer vermeldt dat de identiteit van de cliënt niet is vastgesteld.   
-3. De zorgaanbieder, bedoeld in het tweede lid, gaat bij elk volgend contact met de cliënt na of de cliënt inmiddels in het bezit is van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md) en gebruikt, indien dit het geval is, dit document eenmalig om de identiteit van de cliënt vast te stellen.
-4. Als de cliënt, bedoeld in het tweede en derde lid, de leeftijd van 14 jaren heeft bereikt, stelt de zorgaanbieder, bedoeld in het tweede en derde lid, alsnog eenmalig de identiteit van de cliënt vast overeenkomstig het bepaalde krachtens de [artikelen 5](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) en [6 van de wet](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md).
-5. In afwijking van artikel 28, eerste lid, kan met betrekking tot een pasgeborene het burgerservicenummer gebruikt worden bij zorg zoals huisartsen, medisch-specialisten, klinisch-psychologen, verloskundigen en kraamverzorgenden die plegen te bieden aan moeder en kind in verband met een bevalling als bedoeld in de [artikelen 2.4](../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) en [2.12 van het Besluit zorgverzekering](../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), indien de zorgaanbieder:
+3. De zorgaanbieder, bedoeld in het tweede lid, gaat bij elk volgend contact met de cliënt na of de cliënt inmiddels in het bezit is van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht en gebruikt, indien dit het geval is, dit document eenmalig om de identiteit van de cliënt vast te stellen.
+4. Als de cliënt, bedoeld in het tweede en derde lid, de leeftijd van 14 jaren heeft bereikt, stelt de zorgaanbieder, bedoeld in het tweede en derde lid, alsnog eenmalig de identiteit van de cliënt vast overeenkomstig het bepaalde krachtens de artikelen 5 en 6 van de wet.
+5. In afwijking van artikel 28, eerste lid, kan met betrekking tot een pasgeborene het burgerservicenummer gebruikt worden bij zorg zoals huisartsen, medisch-specialisten, klinisch-psychologen, verloskundigen en kraamverzorgenden die plegen te bieden aan moeder en kind in verband met een bevalling als bedoeld in de artikelen 2.4 en 2.12 van het Besluit zorgverzekering, indien de zorgaanbieder:
 
 a. tijdens de bevalling of direct daarna ter plaatse deze zorg heeft geboden en zich van de identiteit van de pasgeborene heeft kunnen vergewissen als kind van de kraamvrouw,  
 
-b. de identiteit en het burgerservicenummer van de kraamvrouw overeenkomstig de [artikelen 5 tot en met 7 van de wet](../../../../../../../../wet/wet/gebruik/burgerservicenummer/in/de/zorg/BWBR0023864/README.md) heeft vastgesteld, en  
+b. de identiteit en het burgerservicenummer van de kraamvrouw overeenkomstig de artikelen 5 tot en met 7 van de wet heeft vastgesteld, en  
 
 c. bij het verstrekken van het burgerservicenummer vermeldt dat de identiteit van de pasgeborene niet is vastgesteld.  
 
@@ -342,7 +352,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over de aan de gegevensv
 
 ### Artikel  33  
 
-Onze Minister benoemt een functionaris voor de gegevensbescherming als bedoeld in [artikel 62 van de Wet bescherming persoonsgegevens](../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), die toeziet op de verwerking van persoonsgegevens ten behoeve van de registers, de SBV-Z en de toegangsmiddelen. 
+Onze Minister benoemt een functionaris voor de gegevensbescherming als bedoeld in artikel 62 van de Wet bescherming persoonsgegevens, die toeziet op de verwerking van persoonsgegevens ten behoeve van de registers, de SBV-Z en de toegangsmiddelen. 
 
 ### Artikel  35  
 

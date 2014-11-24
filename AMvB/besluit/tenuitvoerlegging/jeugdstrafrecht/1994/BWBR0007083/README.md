@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 7 september 1994, Stafafdeling Wetgeving Publiekrecht, nr. 453938/94/6;
 
-Gelet op [artikel 77ff, tweede lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);
+Gelet op artikel 77ff, tweede lid, van het Wetboek van Strafrecht;
 
 De Raad van State gehoord (advies van 21 november 1994, no. W03.94.0565);
 
@@ -22,26 +22,26 @@ Hebben goedgevonden en verstaan:
 
 a. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
-b. jeugdige: een persoon ten aanzien van wie recht is gedaan overeenkomstig de [artikelen 77g tot en met 77hh van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+b. jeugdige: een persoon ten aanzien van wie recht is gedaan overeenkomstig de artikelen 77g tot en met 77hh van het Wetboek van Strafrecht;  
 
 c. voorwaardelijke veroordeling: veroordeling waarbij de straf of maatregel, tenzij de rechter later anders beveelt, geheel of gedeeltelijk niet zal worden ten uitvoer gelegd;  
 
 d. openbaar ministerie: het openbaar ministerie bij het gerecht dat de straf van jeugddetentie of van plaatsing in een inrichting voor jeugdigen heeft opgelegd;  
 
-e. raad voor de kinderbescherming: de raad, bedoeld in [artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+e. raad voor de kinderbescherming: de raad, bedoeld in artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek;  
 
-f.inrichting: een inrichting als bedoeld in [artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md);
+f.inrichting: een inrichting als bedoeld in artikel 1, onder b, van de Beginselenwet justitiële jeugdinrichtingen;
 
-g.jeugdreclassering: een stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), bij de uitvoering van de taken, bedoeld in [artikel 10, eerste lid, onder c en d, van die wet](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+g.jeugdreclassering: een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, bij de uitvoering van de taken, bedoeld in artikel 10, eerste lid, onder c en d, van die wet;
 
-h.reclassering: de stichting alsmede een reclasseringsinstelling als bedoeld in [artikel 1, onder b, onderscheidenlijk onder c, van de Reclasseringsregeling 1995](../../../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md);
+h.reclassering: de stichting alsmede een reclasseringsinstelling als bedoeld in artikel 1, onder b, onderscheidenlijk onder c, van de Reclasseringsregeling 1995;
 
-i.  scholings- en trainingsprogramma: een programma als bedoeld in [artikel 3 van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md); 
+i.  scholings- en trainingsprogramma: een programma als bedoeld in artikel 3 van de Beginselenwet justitiële jeugdinrichtingen; 
 
-j.  gedragsbeïnvloedende maatregel: de maatregel betreffende het gedrag van de jeugdige, bedoeld in [artikel 77w van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+j.  gedragsbeïnvloedende maatregel: de maatregel betreffende het gedrag van de jeugdige, bedoeld in artikel 77w van het Wetboek van Strafrecht;  
 
 k.  gedragsinterventie: een gestructureerd geheel van methodische handelingen gericht op de beïnvloeding van gedrag of omstandigheden van de jeugdige, met als doel het voorkomen van recidive.   
-2.  Onder jeugdige wordt mede verstaan een jongvolwassene die ten tijde van het plegen van een strafbaar feit de leeftijd van 18 jaren wel maar de leeftijd van 23 jaren nog niet had bereikt en ten aanzien van wie recht is gedaan overeenkomstig de [artikelen 77g tot en met 77hh van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). 
+2.  Onder jeugdige wordt mede verstaan een jongvolwassene die ten tijde van het plegen van een strafbaar feit de leeftijd van 18 jaren wel maar de leeftijd van 23 jaren nog niet had bereikt en ten aanzien van wie recht is gedaan overeenkomstig de artikelen 77g tot en met 77hh van het Wetboek van Strafrecht. 
 
 ### Afdeling  II  
 
@@ -53,7 +53,7 @@ k.  gedragsinterventie: een gestructureerd geheel van methodische handelingen ge
 
 ###Artikel 2 
 
-Zodra de uitspraak, waarbij een jeugdige de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd ten uitvoer kan worden gelegd, brengt het openbaar ministerie deze ter kennis van de selectiefunctionaris, bedoeld in [artikel 1, onder aa, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) onder bijvoeging van het dossier van de zaak. Het voegt daarbij het advies van de rechter omtrent de plaatsing en doet tevens mededeling van de verblijfplaats van de jeugdige en de datum waarop de uitspraak in kracht van gewijsde is gegaan.
+Zodra de uitspraak, waarbij een jeugdige de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd ten uitvoer kan worden gelegd, brengt het openbaar ministerie deze ter kennis van de selectiefunctionaris, bedoeld in artikel 1, onder aa, van de Beginselenwet justitiële jeugdinrichtingen onder bijvoeging van het dossier van de zaak. Het voegt daarbij het advies van de rechter omtrent de plaatsing en doet tevens mededeling van de verblijfplaats van de jeugdige en de datum waarop de uitspraak in kracht van gewijsde is gegaan.
 
 ### Artikel  4  
 
@@ -70,8 +70,8 @@ d. gegevens omtrent belangrijke voorvallen gedurende het verblijf.
 
 ### Artikel  4a  
 
-1. De jeugdreclassering dan wel de reclassering, belast met de begeleiding en het toezicht, bedoeld in [artikel 10, tweede lid, van het Reglement justitiële jeugdinrichtingen](../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md), kan aan de directeur van de inrichting een voorstel doen tot wijziging of opheffing van de voorwaarden, verbonden aan de deelname aan het scholings- en trainingsprogramma. 
-2. De jeugdreclassering dan wel de reclassering, belast met de begeleiding en het toezicht, bedoeld in [artikel 10, tweede lid, van het Reglement justitiële jeugdinrichtingen](../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md), dient desgevraagd de directeur van de inrichting en Onze Minister van advies. 
+1. De jeugdreclassering dan wel de reclassering, belast met de begeleiding en het toezicht, bedoeld in artikel 10, tweede lid, van het Reglement justitiële jeugdinrichtingen, kan aan de directeur van de inrichting een voorstel doen tot wijziging of opheffing van de voorwaarden, verbonden aan de deelname aan het scholings- en trainingsprogramma. 
+2. De jeugdreclassering dan wel de reclassering, belast met de begeleiding en het toezicht, bedoeld in artikel 10, tweede lid, van het Reglement justitiële jeugdinrichtingen, dient desgevraagd de directeur van de inrichting en Onze Minister van advies. 
 
 ### §  2  
 
@@ -82,7 +82,7 @@ d. gegevens omtrent belangrijke voorvallen gedurende het verblijf.
 1. De maatregel van plaatsing in een inrichting voor jeugdigen kan te allen tijde door Onze Minister voorwaardelijk of onvoorwaardelijk worden beëindigd indien het doel van de maatregel bereikt is of beter op andere wijze kan worden bereikt.
 2. De beschikking tot voorwaardelijke beëindiging wordt genomen op voorstel van de directeur van de inrichting.
 3. De beschikking kan ook ambtshalve worden genomen, doch slechts nadat de directeur van de inrichting is gehoord.
-4. De jeugdreclassering dan wel de reclassering, belast met de begeleiding en het toezicht, bedoeld in [artikel 10, tweede lid, van het Reglement justitiële jeugdinrichtingen](../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md), kan aan Onze Minister een voorstel doen tot het voorwaardelijk beëindigen van de maatregel van plaatsing in een inrichting voor jeugdigen. Dit voorstel wordt door tussenkomst van de directeur van de inrichting aan Onze Minister gedaan. 
+4. De jeugdreclassering dan wel de reclassering, belast met de begeleiding en het toezicht, bedoeld in artikel 10, tweede lid, van het Reglement justitiële jeugdinrichtingen, kan aan Onze Minister een voorstel doen tot het voorwaardelijk beëindigen van de maatregel van plaatsing in een inrichting voor jeugdigen. Dit voorstel wordt door tussenkomst van de directeur van de inrichting aan Onze Minister gedaan. 
 
 ###Artikel 6 
 
@@ -134,13 +134,13 @@ Indien Onze Minister besluit tot intrekking of schorsing van de voorwaardelijke 
 
 ### Artikel  14  
 
-1.  Uiterlijk drie maanden voordat de maatregel ingevolge [artikel 77s, zesde lid, tweede volzin, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) voorwaardelijk eindigt, maakt de directeur van de inrichting binnen een maand te rekenen vanaf voornoemd tijdstip een schriftelijk met redenen omkleed, gedagtekend en ondertekend advies op en zendt dit aan Onze Minister. Het advies betreft:  
+1.  Uiterlijk drie maanden voordat de maatregel ingevolge artikel 77s, zesde lid, tweede volzin, van het Wetboek van Strafrecht voorwaardelijk eindigt, maakt de directeur van de inrichting binnen een maand te rekenen vanaf voornoemd tijdstip een schriftelijk met redenen omkleed, gedagtekend en ondertekend advies op en zendt dit aan Onze Minister. Het advies betreft:  
 
 a. de wenselijkheid van de verlenging van de maatregel;  
 
 b. de termijn, waarover naar zijn mening, de verlenging zich zou moeten uitstrekken.     
 2.   Bij het advies wordt een afschrift van de aantekeningen omtrent de lichamelijke en geestelijke gesteldheid van de jeugdige overgelegd.  
-3. Indien in het geval, bedoeld in het eerste lid, de jeugdige op grond van een scholings- en trainingsprogramma of een voorwaardelijke beëindiging als bedoeld in [artikel 77s, zevende lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), buiten de inrichting verblijft, voegt de directeur van de inrichting bij zijn advies tevens de beschouwingen van de jeugdreclassering dan wel de reclassering inzake de wenselijkheid van de verlenging van de maatregel.  
+3. Indien in het geval, bedoeld in het eerste lid, de jeugdige op grond van een scholings- en trainingsprogramma of een voorwaardelijke beëindiging als bedoeld in artikel 77s, zevende lid, van het Wetboek van Strafrecht, buiten de inrichting verblijft, voegt de directeur van de inrichting bij zijn advies tevens de beschouwingen van de jeugdreclassering dan wel de reclassering inzake de wenselijkheid van de verlenging van de maatregel.  
 4.   Onze Minister zendt het advies met bijlagen aan het openbaar ministerie bij de rechtbank die in eerste aanleg heeft kennis genomen van het misdrijf terzake waarvan de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd.  
 
 ###Artikel 15 
@@ -159,12 +159,12 @@ b.indien zodanige vordering wel is ingediend van de beslissing van de rechtbank.
 
 ### Artikel  16  
 
-Bij het indienen van een vordering als bedoeld in [artikel 77tb van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) legt het openbaar ministerie de beschouwingen over van de jeugdreclassering dan wel de reclassering over de wijze waarop de jeugdige de voorwaarden, bedoeld in [artikel 77ta, eerste lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) heeft nageleefd. 
+Bij het indienen van een vordering als bedoeld in artikel 77tb van het Wetboek van Strafrecht legt het openbaar ministerie de beschouwingen over van de jeugdreclassering dan wel de reclassering over de wijze waarop de jeugdige de voorwaarden, bedoeld in artikel 77ta, eerste lid, van het Wetboek van Strafrecht heeft nageleefd. 
 
 ### Artikel  17  
 
-1.  Het openbaar ministerie brengt een vordering en een beslissing als bedoeld in [artikel 77tb van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), ter kennis aan de raad voor de kinderbescherming.   
-2.  Het openbaar ministerie brengt een beslissing als bedoeld in [artikel 77tb, derde lid, onderdeel b, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), onverwijld ter kennis aan de selectiefunctionaris.  
+1.  Het openbaar ministerie brengt een vordering en een beslissing als bedoeld in artikel 77tb van het Wetboek van Strafrecht, ter kennis aan de raad voor de kinderbescherming.   
+2.  Het openbaar ministerie brengt een beslissing als bedoeld in artikel 77tb, derde lid, onderdeel b, van het Wetboek van Strafrecht, onverwijld ter kennis aan de selectiefunctionaris.  
 
 ### §  5  
 
@@ -172,8 +172,8 @@ Bij het indienen van een vordering als bedoeld in [artikel 77tb van het Wetboek 
 
 ### Artikel  17a  
 
-1.  Het openbaar ministerie brengt een vordering en een beslissing als bedoeld in [artikel 77tc, eerste lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) ter kennis aan de raad voor de kinderbescherming.   
-2.  Het openbaar ministerie brengt een beslissing als bedoeld in [artikel 77tc, eerste lid](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), onverwijld ter kennis aan de selectiefunctionaris.  
+1.  Het openbaar ministerie brengt een vordering en een beslissing als bedoeld in artikel 77tc, eerste lid, van het Wetboek van Strafrecht ter kennis aan de raad voor de kinderbescherming.   
+2.  Het openbaar ministerie brengt een beslissing als bedoeld in artikel 77tc, eerste lid, onverwijld ter kennis aan de selectiefunctionaris.  
 
 ###Afdeling III 
 
@@ -186,7 +186,7 @@ Indien de directeur van de inrichting waar de jeugddetentie wordt ondergaan van 
 ###Artikel 19 
 
 1. Het openbaar ministerie brengt een beslissing van de rechter tot voorwaardelijke invrijheidstelling onverwijld ter kennis van de directeur van de inrichting waar de straf van jeugddetentie wordt ondergaan onder mededeling van de aan de jeugdige opgelegde voorwaarden en het begin en het einde van de proeftijd.
-2.  Het eerste lid is van overeenkomstige toepassing op het mededelen van beslissingen krachtens de [artikelen 77cc](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [77dd van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).
+2.  Het eerste lid is van overeenkomstige toepassing op het mededelen van beslissingen krachtens de artikelen 77cc en 77dd van het Wetboek van Strafrecht.
 
 ### Artikel  20  
 
@@ -198,8 +198,8 @@ De voorwaardelijke invrijheidstelling en haar herroeping worden aangetekend op h
 
 ### Artikel  21  
 
-1.  Het programma, bedoeld in [artikel 77w, derde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) kan mede bestaan uit een of meer gedragsinterventies.   
-2.  Indien de maatregel betreffende het gedrag van de jeugdige gezamenlijk met een vrijheidsbenemende straf wordt opgelegd, voorziet het programma bedoeld in [artikel 77w, derde lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) in ieder geval in begeleiding van de jeugdige bij een verantwoorde terugkeer in de samenleving. De rechter neemt in zijn vonnis zodanige bepalingen op als hij voor de juiste uitvoering van die begeleiding noodzakelijk acht.   
+1.  Het programma, bedoeld in artikel 77w, derde lid, van het Wetboek van Strafrecht kan mede bestaan uit een of meer gedragsinterventies.   
+2.  Indien de maatregel betreffende het gedrag van de jeugdige gezamenlijk met een vrijheidsbenemende straf wordt opgelegd, voorziet het programma bedoeld in artikel 77w, derde lid, van het Wetboek van Strafrecht in ieder geval in begeleiding van de jeugdige bij een verantwoorde terugkeer in de samenleving. De rechter neemt in zijn vonnis zodanige bepalingen op als hij voor de juiste uitvoering van die begeleiding noodzakelijk acht.   
 3.  Dit lid is nog niet in werking getreden.  
 
 ### Afdeling  V  
@@ -211,9 +211,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Zo spoedig mogelijk na de melding van niet naleving van voorwaarden brengt de jeugdreclassering of de reclassering advies uit aan het openbaar ministerie of de melding naar haar oordeel aanleiding zou kunnen geven tot een van de volgende maatregelen: 
 
-a. het indienen van een vordering als bedoeld in [artikel 77cc van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+a. het indienen van een vordering als bedoeld in artikel 77cc van het Wetboek van Strafrecht;  
 
-b. het indienen van een vordering als bedoeld in [artikel 77dd, eerste lid, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
+b. het indienen van een vordering als bedoeld in artikel 77dd, eerste lid, van het Wetboek van Strafrecht.   
 
 ### Artikel  26  
 
@@ -244,10 +244,10 @@ Met het oog op het beëindigen van het toezicht, stuurt de jeugdreclassering of 
 8°. een verbod op het gebruik van verdovende middelen of alcohol en de verplichting ten behoeve van de naleving van dit verbod mee te werken aan bloedonderzoek of urineonderzoek;  
 
 9°. andere bijzondere voorwaarden, het gedrag van de jeugdige betreffende.     
-2.  Een behandeling als bedoeld in het eerste lid, onder 1°, of de voorwaarde, bedoeld in het eerste lid, onder 9°, kunnen geheel of ten dele bestaan uit een vorm van zorg als bedoeld in [artikel 5, tweede lid, onderdelen a en b, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), indien de stichting, bedoeld in [artikel 1, eerste lid, van die wet](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) ten aanzien van de jeugdige een besluit heeft genomen waaruit blijkt dat deze op deze vorm van zorg is aangewezen.   
+2.  Een behandeling als bedoeld in het eerste lid, onder 1°, of de voorwaarde, bedoeld in het eerste lid, onder 9°, kunnen geheel of ten dele bestaan uit een vorm van zorg als bedoeld in artikel 5, tweede lid, onderdelen a en b, van de Wet op de jeugdzorg, indien de stichting, bedoeld in artikel 1, eerste lid, van die wet ten aanzien van de jeugdige een besluit heeft genomen waaruit blijkt dat deze op deze vorm van zorg is aangewezen.   
 3.  De rechter kan de werking van de bijzondere voorwaarden, genoemd in het eerste lid, beperken tot een bij de beslissing tot schorsing van het bevel tot voorlopige hechtenis te bepalen tijdsduur, met dien verstande dat een behandeling als bedoeld in het eerste lid, onder 1°, de begeleiding als bedoeld in het eerste lid, onder 2°, en een voorwaarde als bedoeld in het eerste lid, onder 9°, ten hoogste zes maanden kunnen duren. Aan een bijzondere voorwaarde kan elektronisch toezicht worden verbonden.   
 4.  Dit lid is nog niet in werking getreden.   
-5.  De in [artikel 493, zesde lid, van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde instemming moet blijken uit een door de jeugdige ondertekende verklaring, waarin de aard en inhoud van de bijzondere voorwaarden zijn omschreven. De instemming van de jeugdige kan eveneens blijken uit het proces-verbaal ter terechtzitting.  
+5.  De in artikel 493, zesde lid, van het Wetboek van Strafvordering bedoelde instemming moet blijken uit een door de jeugdige ondertekende verklaring, waarin de aard en inhoud van de bijzondere voorwaarden zijn omschreven. De instemming van de jeugdige kan eveneens blijken uit het proces-verbaal ter terechtzitting.  
 
 ### Afdeling  VII  
 

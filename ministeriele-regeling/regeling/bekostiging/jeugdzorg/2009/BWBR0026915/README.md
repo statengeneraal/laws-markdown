@@ -3,18 +3,18 @@
 ##Regeling van de Minister voor Jeugd en Gezin van 14 december 2009, nr. DWJZ/SWW-2974100, houdende regels met betrekking tot de uitkeringen jeugdzorg aan de provincies en eisen ten aanzien van het provinciale subsidiebeleid (Regeling bekostiging jeugdzorg 2009)
 
 De Minister voor Jeugd en Gezin en de Minister van Justitie,  
-Gelet op de [artikelen 32, zevende lid](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), en [41, zesde lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en de [artikelen 73g, tweede lid, van het Uitvoeringsbesluit Wet op de jeugdzorg](../../../../../../AMvB/uitvoeringsbesluit/wet/op/de/jeugdzorg/BWBR0017751/README.md);
+Gelet op de artikelen 32, zevende lid, en 41, zesde lid, van de Wet op de jeugdzorg en de artikelen 73g, tweede lid, van het Uitvoeringsbesluit Wet op de jeugdzorg;
 Besluiten:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a.  *de wet:* de [Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+a.  *de wet:* de Wet op de jeugdzorg;  
 
-b.  *besluit:* het [Uitvoeringsbesluit Wet op de jeugdzorg](../../../../../../AMvB/uitvoeringsbesluit/wet/op/de/jeugdzorg/BWBR0017751/README.md);  
+b.  *besluit:* het Uitvoeringsbesluit Wet op de jeugdzorg;  
 
-c.  *uitkeringen:* de uitkering bureau jeugdzorg als bedoeld in [artikel 73a, eerste lid, van het besluit](../../../../../../AMvB/uitvoeringsbesluit/wet/op/de/jeugdzorg/BWBR0017751/README.md) en de uitkering zorgaanbod als bedoeld in artikel 73a, tweede lid, van het besluit.   
+c.  *uitkeringen:* de uitkering bureau jeugdzorg als bedoeld in artikel 73a, eerste lid, van het besluit en de uitkering zorgaanbod als bedoeld in artikel 73a, tweede lid, van het besluit.   
 
 ### Artikel  2  
 
@@ -22,16 +22,16 @@ De uitkeringen worden betaald volgens het schema opgenomen in de bij deze regeli
 
 ### Artikel  3  
 
-Het uitvoeringsprogramma wordt, voor zover het betreft het overzicht, bedoeld in [artikel 32, tweede lid, van de wet](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), ingericht overeenkomstig het model opgenomen in de bij deze regeling behorende bijlage 2. 
+Het uitvoeringsprogramma wordt, voor zover het betreft het overzicht, bedoeld in artikel 32, tweede lid, van de wet, ingericht overeenkomstig het model opgenomen in de bij deze regeling behorende bijlage 2. 
 
 ### Artikel  4  
 
-1.  Provinciale staten hanteren als grondslag voor de subsidiëring, de activiteiten zoals deze voor de vaststelling van een normbedrag zijn omschreven in de regeling bedoeld in de [artikelen 73b, tweede lid](../../../../../../AMvB/uitvoeringsbesluit/wet/op/de/jeugdzorg/BWBR0017751/README.md), en [73g, tweede lid, van het besluit](../../../../../../AMvB/uitvoeringsbesluit/wet/op/de/jeugdzorg/BWBR0017751/README.md).   
+1.  Provinciale staten hanteren als grondslag voor de subsidiëring, de activiteiten zoals deze voor de vaststelling van een normbedrag zijn omschreven in de regeling bedoeld in de artikelen 73b, tweede lid, en 73g, tweede lid, van het besluit.   
 2.  Provinciale staten kunnen de activiteiten, voor zover het zorgaanbieders betreft, onderverdelen.  
 
 ### Artikel  5  
 
-1.  Provinciale staten verplichten de stichting en de zorgaanbieders de jaarlijkse verantwoording te voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+1.  Provinciale staten verplichten de stichting en de zorgaanbieders de jaarlijkse verantwoording te voorzien van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 2.  De stichting en de zorgaanbieders laten de accountantscontrole uitvoeren zoals door provinciale staten is voorgeschreven.   
 3.  Provinciale staten verplichten de zorgaanbieders er voor zorg te dragen dat: 
 
@@ -48,7 +48,7 @@ Provinciale staten verplichten de stichting en de zorgaanbieder er voor zorg te 
 
 ### Artikel  7  
 
-De [Regeling bekostiging jeugdzorg](../../../../../../ministeriele-regeling/regeling/bekostiging/jeugdzorg/BWBR0017815/README.md) wordt ingetrokken. 
+De Regeling bekostiging jeugdzorg wordt ingetrokken. 
 
 ### Artikel  8  
 
@@ -93,14 +93,14 @@ E.M.H. Hirsch Ballin
 
 ### A  
 
-####Inrichting activiteitenverslag en inzet van middelen ([artikel 32, tweede lid, onder a, b en c van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md))
+####Inrichting activiteitenverslag en inzet van middelen (artikel 32, tweede lid, onder a, b en c van de Wet op de jeugdzorg)
 
 ![245900](http://wetten.overheid.nl/Illustration/245900)
 ![245901](http://wetten.overheid.nl/Illustration/245901)
 
 ### B  
 
-####Kwalitatieve beschrijving van door de provincie gesubsidieerde activiteiten met betrekking tot de jaren t-2, t-1 en t (zie [artikel 32, tweede lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md))
+####Kwalitatieve beschrijving van door de provincie gesubsidieerde activiteiten met betrekking tot de jaren t-2, t-1 en t (zie artikel 32, tweede lid, van de Wet op de jeugdzorg)
 
 ### I  
 

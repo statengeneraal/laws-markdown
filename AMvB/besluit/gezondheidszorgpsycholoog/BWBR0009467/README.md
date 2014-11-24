@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 30 juni 1997, CSZ/BenO-979473; 
 
-Gelet op de [artikelen 24](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) en [25 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md); 
+Gelet op de artikelen 24 en 25 van de Wet op de beroepen in de individuele gezondheidszorg; 
 
 Gezien de adviezen van de Raad voor de beroepen in de individuele gezondheidszorg van september 1995 en van mei 1996; 
 
@@ -22,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. wet: de [Wet op de beroepen in de individuele gezondheidszorg](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md);   
+a. wet: de Wet op de beroepen in de individuele gezondheidszorg;   
 
 b. opleidingsinstelling: een rechtspersoon die een opleiding tot gezondheidszorgpsycholoog verzorgt;   
 
@@ -36,7 +36,7 @@ f. praktijkopdracht: binnen het cursorische onderwijs verstrekte opdracht die in
 
 ### Artikel  2  
 
-Om in het krachtens [artikel 3 van de wet](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) ingestelde register van gezondheidszorgpsychologen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot gezondheidszorgpsycholoog heeft afgelegd, uitgereikt door een krachtens artikel 6, eerste lid, aangewezen opleidingsinstelling.  
+Om in het krachtens artikel 3 van de wet ingestelde register van gezondheidszorgpsychologen te kunnen worden ingeschreven, is vereist het bezit van een getuigschrift waaruit blijkt dat de betrokkene met goed gevolg het examen ter afsluiting van een opleiding tot gezondheidszorgpsycholoog heeft afgelegd, uitgereikt door een krachtens artikel 6, eerste lid, aangewezen opleidingsinstelling.  
 
 ### §  2  
 
@@ -206,7 +206,7 @@ f. het verlenen van ontheffing van onderdelen van de opleiding.
 
 a. in het register van klinisch psychologen van het Nederlands Instituut van Psychologen dan wel in een beroepsbekwaamheidsregister van de Nederlandse vereniging van pedagogen en onderwijskundigen, of   
 
-b. in het krachtens [artikel 3 van de wet](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md) ingestelde register van gezondheidszorgpsychologen, of   
+b. in het krachtens artikel 3 van de wet ingestelde register van gezondheidszorgpsychologen, of   
 
 c. in de onder a en b bedoelde registers gezamenlijk.     
 
@@ -216,7 +216,7 @@ c. in de onder a en b bedoelde registers gezamenlijk.
 
 ### Artikel  11  
 
-1.  De psychologische behandelingsmethoden, bedoeld in [artikel 25 van de wet](../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), houden in:  
+1.  De psychologische behandelingsmethoden, bedoeld in artikel 25 van de wet, houden in:  
 
 a. het ten behoeve van de behandeling tot stand brengen van een relatie met de patiënt door de gezondheidszorgpsycholoog, alsmede het onderhouden van deze relatie;   
 

@@ -23,7 +23,7 @@ a.de naam op zichzelf of in verband met het beroep, de maatschappelijke positie 
 
 b.de naam zo veelvuldig voorkomt dat zij onvoldoende onderscheidend vermogen heeft; 
 
-c.de naam niet-Nederlands is en toebehoort aan personen die door naturalisatie of door het doen van een kennisgeving de Nederlandse nationaliteit hebben verkregen, of aan hun afstammelingen in rechte lijn; ten tijde van de naturalisatie of de kennisgeving dient de in [artikel 12, tweede lid, van de Rijkswet op het Nederlanderschap](../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) genoemde grond tot wijziging te hebben bestaan; 
+c.de naam niet-Nederlands is en toebehoort aan personen die door naturalisatie of door het doen van een kennisgeving de Nederlandse nationaliteit hebben verkregen, of aan hun afstammelingen in rechte lijn; ten tijde van de naturalisatie of de kennisgeving dient de in artikel 12, tweede lid, van de Rijkswet op het Nederlanderschap genoemde grond tot wijziging te hebben bestaan; 
 
 d.de verzoeker aantoont dat de naam in de akten van de burgerlijke stand sinds de invoering daarvan (1810–1838) onjuist is gespeld en in de volgens de verzoeker juiste spelling sindsdien is gevoerd; 
 
@@ -78,7 +78,7 @@ c.een ouder weigert in te stemmen met de verzochte geslachtsnaamswijziging van d
 
 d.een ouder weigert in te stemmen met de verzochte geslachtsnaamswijziging van de minderjarige jonger dan twaalf jaren, tenzij:
 
-1°.de ouder aan wie de minderjarige de geslachtsnaam waarvan wijziging wordt verzocht, ontleent, onherroepelijk is veroordeeld wegens het plegen tegen de minderjarige van een van de misdrijven, omschreven in de [titels XIII tot en met XV](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [XVIII tot en met XX van het tweede boek van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), waarbij onder misdrijf wordt begrepen medeplichtigheid aan en poging tot misdrijf;
+1°.de ouder aan wie de minderjarige de geslachtsnaam waarvan wijziging wordt verzocht, ontleent, onherroepelijk is veroordeeld wegens het plegen tegen de minderjarige van een van de misdrijven, omschreven in de titels XIII tot en met XV en XVIII tot en met XX van het tweede boek van het Wetboek van Strafrecht, waarbij onder misdrijf wordt begrepen medeplichtigheid aan en poging tot misdrijf;
 
 2°.de ouder aan wie de minderjarige de geslachtsnaam waarvan wijziging wordt verzocht, ontleent, van het gezag over het kind is ontzet; of
 
@@ -102,7 +102,7 @@ b.in de geslachtsnaam naar het recht van een staat waarvan het kind de nationali
 
 a. in een geslachtsnaam als bedoeld in artikel 3, eerste lid, indien de verzorging en opvoeding enige tijd gedurende de minderjarigheid hebben geduurd.  
 
-b. in zijn oorspronkelijke geslachtsnaam, indien de geslachtsnaam gedurende de minderjarigheid op grond van artikel 3 of op grond van [artikel 253t, vijfde lid, van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) was gewijzigd.      
+b. in zijn oorspronkelijke geslachtsnaam, indien de geslachtsnaam gedurende de minderjarigheid op grond van artikel 3 of op grond van artikel 253t, vijfde lid, van Boek 1 van het Burgerlijk Wetboek was gewijzigd.      
 2.  Het verzoek, bedoeld in het eerste lid, onder *a*, wordt afgewezen indien de levensgezel bedoeld in artikel 3, eerste lid, onder b, of de persoon, bedoeld in artikel 3, eerste lid, onder c, weigert in te stemmen met de verzochte naamswijziging.    
 3.  De geslachtsnaam kan op grond van dit artikel slechts eenmaal worden gewijzigd.   
 
@@ -110,7 +110,7 @@ b. in zijn oorspronkelijke geslachtsnaam, indien de geslachtsnaam gedurende de m
 
 1.  Op verzoek van een meerderjarige wordt zijn geslachtsnaam gewijzigd: 
 
-a. in de geslachtsnaam van de ouder dan wel van diens echtgenoot of geregistreerde partner die op grond van [artikel 253sa](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), eerste lid, van rechtswege het gezamenlijk gezag over hem heeft uitgeoefend, en wiens naam hij niet heeft, indien hij op de voet van [artikel 5, tweede, derde, vierde of vijfde lid](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), dan wel van [artikel 253sa, derde lid, van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) zijn geslachtsnaam heeft gekregen of indien hij op grond van [artikel IV van de Wet houdende wijziging van de artikelen 5 en 9 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/wijzigingswet/artikelen/5/en/9/van/boek/1/burgerlijk/wetboek/BWBR0008632/README.md) en in verband daarmede van enige andere artikelen van dit Wetboek de naam van zijn moeder heeft gekregen;  
+a. in de geslachtsnaam van de ouder dan wel van diens echtgenoot of geregistreerde partner die op grond van artikel 253sa, eerste lid, van rechtswege het gezamenlijk gezag over hem heeft uitgeoefend, en wiens naam hij niet heeft, indien hij op de voet van artikel 5, tweede, derde, vierde of vijfde lid, dan wel van artikel 253sa, derde lid, van Boek 1 van het Burgerlijk Wetboek zijn geslachtsnaam heeft gekregen of indien hij op grond van artikel IV van de Wet houdende wijziging van de artikelen 5 en 9 van Boek 1 van het Burgerlijk Wetboek en in verband daarmede van enige andere artikelen van dit Wetboek de naam van zijn moeder heeft gekregen;  
 
 b. in de geslachtsnaam van de ouder in wiens geslachtsnaamswijziging hij niet heeft gedeeld omdat hij ten tijde van de wijziging meerderjarig was;  
 

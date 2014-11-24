@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 12 maart 2012, nr. KO/2012/3708;
 
-Gelet op de [artikelen 1.50, tweede lid](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [1.56, tweede lid](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [1.56b, tweede lid](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [2.6, tweede lid van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);
+Gelet op de artikelen 1.50, tweede lid, 1.56, tweede lid, 1.56b, tweede lid en 2.6, tweede lid van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 18 april 2012, nr. W12.12.0080/III);
 
@@ -26,7 +26,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. *advies- en meldpunt kindermishandeling:* stichting als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) bij de uitvoering van de taak, bedoeld in [artikel 10, eerste lid, onder e, van die wet](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md); 
+a. *advies- en meldpunt kindermishandeling:* stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg bij de uitvoering van de taak, bedoeld in artikel 10, eerste lid, onder e, van die wet; 
 
 b. *bemiddelingsmedewerker:* de medewerker, werkzaam bij het gastouderbureau, die bemiddelt tussen gastouder en vraagouder en die daartoe de voorziening voor gastouderopvang bezoekt;  
 
@@ -36,17 +36,17 @@ d. *dagopvang:* kinderopvang verzorgd door een kindercentrum voor kinderen tot d
 
 e. *groep:* een eenheid die bestaat uit een aantal kinderen met één of meer beroepskrachten dan wel uit een aantal door een gastouder op te vangen kinderen;  
 
-f. *huiselijk geweld:* huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);  
+f. *huiselijk geweld:* huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning;  
 
-g. *kindermishandeling:* kindermishandeling als bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+g. *kindermishandeling:* kindermishandeling als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg;  
 
 h. *meldcode:* meldcode huiselijk geweld en kindermishandeling;  
 
-i. *steunpunt huiselijk geweld:* steunpunt huiselijk geweld als bedoeld in [artikel 21b van de Wet maatschappelijke ondersteuning](../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md); 
+i. *steunpunt huiselijk geweld:* steunpunt huiselijk geweld als bedoeld in artikel 21b van de Wet maatschappelijke ondersteuning; 
 
 j. *vraagouder:* ouder die kinderopvang vraagt die geboden wordt door een gastouder;  
 
-k. *wet:* [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md).   
+k. *wet:* Wet kinderopvang en kwaliteitseisen peuterspeelzalen.   
 
 ### Paragraaf  2  
 
@@ -216,13 +216,13 @@ a. het kunnen bieden van voldoende zorg aan kinderen die gastouderopvang ontvang
 b. het waarborgen van een veilige en gezonde omgeving die aansluit op de leefwereld van deze kinderen.     
 2.  Het voldoen aan de in de in het eerste lid, onderdeel a, bedoelde eis blijkt uit: 
 
-a. het bezit van een getuigschrift van met gunstig gevolg afgelegd examen van een bij ministeriële regeling aan te wijzen beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), specifiek gericht op gastouderopvang;  
+a. het bezit van een getuigschrift van met gunstig gevolg afgelegd examen van een bij ministeriële regeling aan te wijzen beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdeel b, van de Wet educatie en beroepsonderwijs, specifiek gericht op gastouderopvang;  
 
-b. het bezit van een getuigschrift van met gunstig gevolg afgelegd examen van een bij ministeriële regeling aan te wijzen beroepsopleiding als bedoeld in [artikel 7.2.2, eerste lid, onderdelen c, d of e, van de Wet educatie en beroepsonderwijs](../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b. het bezit van een getuigschrift van met gunstig gevolg afgelegd examen van een bij ministeriële regeling aan te wijzen beroepsopleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen c, d of e, van de Wet educatie en beroepsonderwijs;  
 
-c. het bezit van een getuigschrift van met goed gevolg afgelegd afsluitend examen van een bij ministeriële regeling aan te wijzen opleiding als bedoeld in [artikel 7.3a, eerste of tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md); of  
+c. het bezit van een getuigschrift van met goed gevolg afgelegd afsluitend examen van een bij ministeriële regeling aan te wijzen opleiding als bedoeld in artikel 7.3a, eerste of tweede lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek; of  
 
-d. het bezit van een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), verleend ten aanzien van de door hem te verrichten werkzaamheden.     
+d. het bezit van een erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties, verleend ten aanzien van de door hem te verrichten werkzaamheden.     
 3.  Het voldoen aan de in het eerste lid, onderdeel b, bedoelde eis blijkt uit het bezit van bij ministeriële regeling aan te wijzen bewijsstukken van met goed gevolg afgesloten onderricht dat in elk geval omvat eerste hulp aan kinderen bij ongevallen.  
 
 ### Artikel  14  
@@ -344,7 +344,7 @@ b. de elementen die het plan, bedoeld in het tweede lid, minimaal bevat.
 
 ####Overgangsrecht
 
-1.  De gastouder, de houder van een kindcentrum, van een gastouderbureau of van een peuterspeelzaal worden geacht tot 1 januari 2015 ten aanzien van die onderwerpen waarvan de toezichthouder na een onderzoek als bedoeld in [artikel 1.62](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) of [2.20 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), voor inwerkingtreding van dit besluit heeft vastgesteld dat er sprake is van een gelijkwaardig alternatief, voor zover er zich geen wijzigingen hebben voorgedaan tevens te voldoen aan de kwaliteitseisen opgenomen in dit besluit en de daarop gebaseerde ministeriële regeling betreffende die onderwerpen.   
+1.  De gastouder, de houder van een kindcentrum, van een gastouderbureau of van een peuterspeelzaal worden geacht tot 1 januari 2015 ten aanzien van die onderwerpen waarvan de toezichthouder na een onderzoek als bedoeld in artikel 1.62 of 2.20 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen, voor inwerkingtreding van dit besluit heeft vastgesteld dat er sprake is van een gelijkwaardig alternatief, voor zover er zich geen wijzigingen hebben voorgedaan tevens te voldoen aan de kwaliteitseisen opgenomen in dit besluit en de daarop gebaseerde ministeriële regeling betreffende die onderwerpen.   
 2.  Een certificaat als bedoeld in artikel 3, tweede lid, zoals dat lid luidde voorafgaande aan de inwerkingtreding van het Besluit van 16 augustus 2011 tot wijziging van het Besluit deskundigheidseisen gastouders kinderopvang in verband met het niet langer toelaten van het ervaringscertificaat als bewijs van deskundigheid (Stb. 398), dat is verstrekt voor 1 januari 2012, geeft blijk van het voldoen aan de in artikel 13, eerste lid, onderdeel a, van dit besluit bedoelde deskundigheidseis.   
 3.  Bij koninklijk besluit kan de termijn, genoemd in het eerste lid, eenmalig met één jaar worden verlengd.  
 
@@ -356,7 +356,7 @@ b. de elementen die het plan, bedoeld in het tweede lid, minimaal bevat.
 
 ####Intrekking besluit
 
-Het [Besluit deskundigheidseisen gastouders kinderopvang](../../../../../../../AMvB/besluit/deskundigheidseisen/gastouders/kinderopvang/BWBR0026824/README.md) wordt ingetrokken. 
+Het Besluit deskundigheidseisen gastouders kinderopvang wordt ingetrokken. 
 
 ### Artikel  24  
 

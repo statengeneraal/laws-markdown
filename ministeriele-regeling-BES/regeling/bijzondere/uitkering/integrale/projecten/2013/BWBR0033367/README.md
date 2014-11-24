@@ -5,7 +5,7 @@
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
 Handelende in overeenstemming met de Staatssecretaris van Sociale Zaken en Werkgelegenheid, de Staatssecretaris van Onderwijs, Cultuur en Wetenschap, de Minister voor Wonen en Rijksdienst en de Minister van Volksgezondheid, Welzijn en Sport;
 
-Gelet op [artikel 92, vijfde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md);
+Gelet op artikel 92, vijfde lid, van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba;
 Besluit:    
 
 ### Artikel  1  
@@ -14,9 +14,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *wet:* de [Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md);  
+a.  *wet:* de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba;  
 
-b.  *bijzondere uitkering integrale projecten:* een eenmalige bijzondere uitkering als bedoeld in [artikel 91, eerste lid](../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md), in samenhang met [artikel 92, vijfde lid, van de wet](../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md), ten behoeve van integrale projecten op Bonaire, Sint Eustatius of Saba in het kader van het verbeteren van de leefbaarheid, de re-integratie naar duurzaam betaald werk en het bevorderen van de maatschappelijke participatie;  
+b.  *bijzondere uitkering integrale projecten:* een eenmalige bijzondere uitkering als bedoeld in artikel 91, eerste lid, in samenhang met artikel 92, vijfde lid, van de wet, ten behoeve van integrale projecten op Bonaire, Sint Eustatius of Saba in het kader van het verbeteren van de leefbaarheid, de re-integratie naar duurzaam betaald werk en het bevorderen van de maatschappelijke participatie;  
 
 c.  *Minister:* de minister van Binnenlandse Zaken en Koninkrijksrelaties.   
 
@@ -53,8 +53,8 @@ De bijzondere uitkering integrale projecten wordt door het openbaar lichaam uits
 
 ####Niet of niet volledig bestede bijzondere uitkering integrale projecten
 
-1.  Het openbaar lichaam kan de niet of niet volledig bestede bijzondere uitkering integrale projecten over het kalenderjaar 2013 eveneens besteden aan een in het projectvoorstel opgenomen doel ten behoeve van het kalenderjaar 2014.   
-2.  De niet in de kalenderjaren 2013 of 2014 aan een in het projectvoorstel opgenomen doel als bedoeld in artikel 2, eerste lid, bestede bijzondere uitkering integrale projecten wordt in het kalenderjaar 2015 door de Minister teruggevorderd.  
+1.  Het openbaar lichaam kan de niet of niet volledig bestede bijzondere uitkering integrale projecten over het kalenderjaar 2013 eveneens besteden aan een in het projectvoorstel opgenomen doel ten behoeve van het kalenderjaar 2014 of 2015.   
+2.  De niet in de kalenderjaren 2013, 2014 of 2015 aan een in het projectvoorstel opgenomen doel als bedoeld in artikel 2, eerste lid, bestede bijzondere uitkering integrale projecten wordt in het kalenderjaar 2016 door de Minister teruggevorderd.   
 
 ### Artikel  7  
 
@@ -66,14 +66,14 @@ De openbare lichamen verstrekken desgevraagd aan de Minister de gegevens die hij
 
 ####Verantwoording
 
-1.  De openbare lichamen leggen over de besteding van de bijzondere uitkering integrale projecten verantwoording af aan de Minister via de jaarlijkse, door de openbare lichamen, op te stellen jaarrekening, bedoeld in [artikel 31 van de wet](../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md).   
-2.  Het openbaar lichaam vermeldt in de jaarrekening, in de paragraaf verantwoordingsinformatie bijzondere uitkering, bedoeld in [artikel 21, derde lid, onder c, van het Besluit begroting en verantwoording openbare lichamen BES](../../../../../../../../AMvB-BES/besluit/begroting/en/verantwoording/openbare/lichamen/bes/BWBR0030060/README.md), welk bedrag is besteed aan de in artikel 2, eerste lid, genoemde doelen.  
+1.  De openbare lichamen leggen over de besteding van de bijzondere uitkering integrale projecten verantwoording af aan de Minister via de jaarlijkse, door de openbare lichamen, op te stellen jaarrekening, bedoeld in artikel 31 van de wet.   
+2.  Het openbaar lichaam vermeldt in de jaarrekening, in de paragraaf verantwoordingsinformatie bijzondere uitkering, bedoeld in artikel 21, derde lid, onder c, van het Besluit begroting en verantwoording openbare lichamen BES, welk bedrag is besteed aan de in artikel 2, eerste lid, genoemde doelen.  
 
 ### Artikel  9  
 
 ####Betaling
 
-De middelen voor de bijzondere uitkering integrale projecten worden op grond van [artikel 88, achtste lid, van de wet](../../../../../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md) verstrekt uit de begroting van het BES-fonds. De betaling van de bijzondere uitkering integrale projecten geschiedt na goedkeuring door de minister van Sociale Zaken en Werkgelegenheid van het door de bestuurscolleges van de openbare lichamen ingediende projectvoorstel. 
+De middelen voor de bijzondere uitkering integrale projecten worden op grond van artikel 88, achtste lid, van de wet verstrekt uit de begroting van het BES-fonds. De betaling van de bijzondere uitkering integrale projecten geschiedt na goedkeuring door de minister van Sociale Zaken en Werkgelegenheid van het door de bestuurscolleges van de openbare lichamen ingediende projectvoorstel. 
 
 ### Artikel  10  
 
@@ -151,7 +151,7 @@ Gezien het hoge aantal alleenstaande moeders is kinderopvang in Caribisch Nederl
 
 ####Onderwijs
 
-Uit analyses blijkt dat de opleidingsrichting en het opleidingsniveau van jongeren vaak niet of onvoldoende aansluit bij de vraag van werkgevers. Daarnaast verlaten te veel jongeren voortijdig het voortgezet onderwijs. Adequate mogelijkheden op het vlak van educatie en opleiding dienen dus uitdrukkelijk onderdeel uit te maken van een integrale aanpak, om daarmee ook vanuit educatie en vorming een bijdrage te kunnen leveren aan een integraal aanbod aan bijvoorbeeld werkgevers. In dat verband kan onder meer gewezen worden op de in 2010 van kracht geworden [Wet sociale kanstrajecten jongeren BES](../../../../../../../../wet-BES/wet/sociale/kanstrajecten/jongeren/bes/BWBR0028506/README.md). Doel van deze regeling is dat voortijdig schoolverlaters tussen de 18 en 25 jaar (onvoldoende startkwalificatie, geen betaald werk, niet ingeschreven staan als onderwijsdeelnemer) via deelname aan een Sociaal Kanstraject Jongeren (SKJ) alsnog in staat worden gesteld om een startkwalificatie te behalen of, als dat niet haalbaar is, passend werk te vinden. Het gaat hierbij om maatwerktrajecten, gericht op het verwerven en versterken van de basisvaardigheden en de sociale redzaamheid en op het ontwikkelen van de nodige attitudes en vaardigheden om zich in een werkkring te kunnen handhaven. De middelen voor de financiering van de trajecten worden toegewezen via een daarvoor in het leven geroepen bijzondere uitkering. 
+Uit analyses blijkt dat de opleidingsrichting en het opleidingsniveau van jongeren vaak niet of onvoldoende aansluit bij de vraag van werkgevers. Daarnaast verlaten te veel jongeren voortijdig het voortgezet onderwijs. Adequate mogelijkheden op het vlak van educatie en opleiding dienen dus uitdrukkelijk onderdeel uit te maken van een integrale aanpak, om daarmee ook vanuit educatie en vorming een bijdrage te kunnen leveren aan een integraal aanbod aan bijvoorbeeld werkgevers. In dat verband kan onder meer gewezen worden op de in 2010 van kracht geworden Wet sociale kanstrajecten jongeren BES. Doel van deze regeling is dat voortijdig schoolverlaters tussen de 18 en 25 jaar (onvoldoende startkwalificatie, geen betaald werk, niet ingeschreven staan als onderwijsdeelnemer) via deelname aan een Sociaal Kanstraject Jongeren (SKJ) alsnog in staat worden gesteld om een startkwalificatie te behalen of, als dat niet haalbaar is, passend werk te vinden. Het gaat hierbij om maatwerktrajecten, gericht op het verwerven en versterken van de basisvaardigheden en de sociale redzaamheid en op het ontwikkelen van de nodige attitudes en vaardigheden om zich in een werkkring te kunnen handhaven. De middelen voor de financiering van de trajecten worden toegewezen via een daarvoor in het leven geroepen bijzondere uitkering. 
 
 * Draagt het projectvoorstel bij aan het verbeteren van de aansluiting tussen onderwijs en arbeidsmarkt op Bonaire, Sint Eustatius of Saba?  
 

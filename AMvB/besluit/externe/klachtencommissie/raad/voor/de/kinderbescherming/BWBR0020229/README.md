@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 8 juni 2006, nr. 5424309/06/6, Directie Wetgeving;
 
-Gelet op [artikel 239, vijfde lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);
+Gelet op artikel 239, vijfde lid, van Boek 1 van het Burgerlijk Wetboek;
 
 De Raad van State gehoord (advies van 27 juli 2006, nr. W03.06.0195/I);
 
@@ -22,9 +22,9 @@ In dit besluit wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Veiligheid en Justitie;  
 
-b. algemeen directeur: de algemeen directeur, bedoeld in [artikel 1, tweede lid, van het Organisatiebesluit raad voor de kinderbescherming 2006](../../../../../../../../../AMvB/organisatiebesluit/raad/voor/de/kinderbescherming/2006/BWBR0019732/README.md);  
+b. algemeen directeur: de algemeen directeur, bedoeld in artikel 1, tweede lid, van het Organisatiebesluit raad voor de kinderbescherming 2006;  
 
-c. raad: de raad voor de kinderbescherming, bedoeld in [artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).   
+c. raad: de raad voor de kinderbescherming, bedoeld in artikel 238, eerste lid, van Boek 1 van het Burgerlijk Wetboek.   
 
 ### Artikel  2  
 
@@ -37,7 +37,7 @@ Eenieder heeft het recht om over de wijze waarop een medewerker van de raad zich
 
 ### Artikel  4  
 
-1.  De klager kan zijn klacht binnen zes weken nadat de raad zijn beslissing heeft genomen of ingevolge [artikel 9:11 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) had behoren te nemen, aan de klachtencommissie voorleggen. Een klacht die na afloop van deze termijn is ingediend, kan alsnog in behandeling worden genomen indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.   
+1.  De klager kan zijn klacht binnen zes weken nadat de raad zijn beslissing heeft genomen of ingevolge artikel 9:11 van de Algemene wet bestuursrecht had behoren te nemen, aan de klachtencommissie voorleggen. Een klacht die na afloop van deze termijn is ingediend, kan alsnog in behandeling worden genomen indien redelijkerwijs niet kan worden geoordeeld dat de indiener in verzuim is geweest.   
 2.  De klachtencommissie bevestigt onverwijld de ontvangst van het klaagschrift schriftelijk. In deze bevestiging is de mededeling opgenomen dat de klager zich bij de behandeling van de klacht kan doen bijstaan door een raadsman of een vertrouwenspersoon.   
 3.  Indien de klacht verband houdt met een aangelegenheid waarover de raad een verzoek bij de rechter heeft ingediend of de rechter adviseert en de rechter over die aangelegenheid nog geen beslissing heeft genomen, stelt de raad na ontvangst van bericht door de klachtencommissie, de rechter onverwijld schriftelijk in kennis van het indienen van de klacht bij de klachtencommissie.  
 
@@ -128,7 +128,7 @@ De raad draagt zorg voor registratie van de bij de klachtencommissie ingediende 
 
 ### Artikel  15  
 
-1.  Er zijn vijf klachtencommissies. Elke commissie behandelt de klachten over gedragingen van de medewerker van de raad, werkzaam op het landelijk bureau of in de regio, bedoeld in [artikel 2, van het Organisatiebesluit raad voor de kinderbescherming 2006](../../../../../../../../../AMvB/organisatiebesluit/raad/voor/de/kinderbescherming/2006/BWBR0019732/README.md), waarvoor zij bevoegd is.   
+1.  Er zijn vijf klachtencommissies. Elke commissie behandelt de klachten over gedragingen van de medewerker van de raad, werkzaam op het landelijk bureau of in de regio, bedoeld in artikel 2, van het Organisatiebesluit raad voor de kinderbescherming 2006, waarvoor zij bevoegd is.   
 2.  De bevoegdheidsverdeling van de klachtencommissies is de volgende. Er is een klachtencommissie voor de: 
 
 a. regio Friesland en Flevoland en regio Groningen en Drente;  
@@ -175,7 +175,7 @@ d. leden met rechtspraak belast werkzaam bij het Centrale Raad van Beroep.   Zij
 
 ### Artikel  19  
 
-Het [Besluit klachtbehandeling raad voor de kinderbescherming](../../../../../../../../../AMvB/besluit/klachtbehandeling/raad/voor/de/kinderbescherming/BWBR0008127/README.md) wordt ingetrokken. 
+Het Besluit klachtbehandeling raad voor de kinderbescherming wordt ingetrokken. 
 
 ### Artikel  20  
 

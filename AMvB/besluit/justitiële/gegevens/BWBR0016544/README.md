@@ -279,6 +279,12 @@ c. de maatregel bedoeld in artikel 77s van het Wetboek van Strafrecht, indien de
 4.  De burgemeester vernietigt de op grond van het eerste lid verstrekte justitiële gegevens uiterlijk negen maanden na de datum van de verstrekking, indien niet tot het treffen van maatregelen is besloten. Indien tot het treffen van maatregelen is besloten, verwijdert de burgemeester de op grond van het eerste lid verstrekte justitiële gegevens uiterlijk negen maanden na de datum van de verstrekking. De verwijderde gegevens worden gedurende een termijn van vijf jaar bewaard ten behoeve van het afleggen van verantwoording, waarna de gegevens worden vernietigd.   
 5.  Het eerste lid, onder a en b, is niet van toepassing op personen op wie Titel VIIIA van het Eerste Boek van het Wetboek van Strafrecht is toegepast.  
 
+### Artikel  11aa  
+Treedt in werking per 01-01-2015 
+
+1.  Ten behoeve van de verantwoordelijkheid, bedoeld in de artikelen 2.1 en 2.4, tweede lid, van de Jeugdwet, kan Onze Minister aan een door het college van burgemeester en wethouders aangewezen ambtenaar of aan een door het college aangewezen en onder zijn verantwoordelijkheid werkzame functionaris justitiële gegevens als bedoeld in artikel 6, eerste lid, onderdeel f, en artikel 7, eerste lid, onder j, onderdelen 5 en 6, verstrekken van personen ten aanzien van wie in het kader van een strafrechtelijke beslissing is bepaald dat zij in aanmerking komen voor een vorm van jeugdhulp of jeugdreclassering, als bedoeld in artikel 1.1 van de Jeugdwet.   
+2.  Het college van burgemeester en wethouders treft maatregelen opdat de op grond van het eerste lid verstrekte justitiële gegevens uiterlijk twaalf maanden na de beëindiging van de tenuitvoerlegging van de in het eerste lid bedoelde strafrechtelijke beslissing worden vernietigd.  
+
 ### Paragraaf  2  
 
 ####Verstrekking ten behoeve van advies

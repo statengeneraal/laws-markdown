@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 oktober 2013, nr. 2013-0000602327;
 
-Gelet op richtlijn nr. 95/46/EG van het Europees Parlement en de Raad van de Europese Unie van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens (PbEG L 281) en de [artikelen 1.6](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [1.10, eerste lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [1.14, tweede en derde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.6](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.7, tweede en vierde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.31](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.33](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.34, derde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.37](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.43, vijfde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.49, derde en vierde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.65](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.67, tweede lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.69, tweede lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) j° 2.7, tweede en vierde lid, [2.70, tweede lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.77](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.78, derde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.79, tweede en derde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [3.1, tweede lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [3.2, zevende lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [3.3, eerste lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [3.3, derde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) j° 3.2. zevende lid, [3.5, vierde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [3.6, tweede lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [3.6, derde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) j° 3.5, vierde lid, [3.11, tweede lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [3.12](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [3.13](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [3.14, tweede lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [3.22, vierde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [4.3, vijfde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [4.4, tweede lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [4.5, derde en vierde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) j° 4.4, tweede lid, [4.6](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) j° 4.4, tweede lid, [4.8, eerste lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [4.12](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [4.15, derde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) en [4.16, derde lid, van de Wet basisregistratie personen](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md);
+Gelet op richtlijn nr. 95/46/EG van het Europees Parlement en de Raad van de Europese Unie van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens (PbEG L 281) en de artikelen 1.6, 1.10, eerste lid, 1.14, tweede en derde lid, 2.6, 2.7, tweede en vierde lid, 2.31, 2.33, 2.34, derde lid, 2.37, 2.43, vijfde lid, 2.49, derde en vierde lid, 2.65, 2.67, tweede lid, 2.69, tweede lid j° 2.7, tweede en vierde lid, 2.70, tweede lid, 2.77, 2.78, derde lid, 2.79, tweede en derde lid, 3.1, tweede lid, 3.2, zevende lid, 3.3, eerste lid, 3.3, derde lid j° 3.2. zevende lid, 3.5, vierde lid, 3.6, tweede lid, 3.6, derde lid j° 3.5, vierde lid, 3.11, tweede lid, 3.12, 3.13, 3.14, tweede lid, 3.22, vierde lid, 4.3, vijfde lid, 4.4, tweede lid, 4.5, derde en vierde lid j° 4.4, tweede lid, 4.6 j° 4.4, tweede lid, 4.8, eerste lid, 4.12, 4.15, derde lid en 4.16, derde lid, van de Wet basisregistratie personen;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 15 november 2013, nr. W04.13.0369/I);
 
@@ -24,11 +24,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-*een autorisatiebesluit:* een besluit als bedoeld in [artikel 3.2](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) of [artikel 3.3 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md);  
+*een autorisatiebesluit:* een besluit als bedoeld in artikel 3.2 of artikel 3.3 van de wet;  
 
 *de systeembeschrijving:* de beschrijving, bedoeld in artikel 4;  
 
-*de wet:* de [Wet basisregistratie personen](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).   
+*de wet:* de Wet basisregistratie personen.   
 
 ### §  2  
 
@@ -36,7 +36,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ### Artikel  2  
 
-Authentieke gegevens over ingezetenen als bedoeld in [artikel 1.6 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) zijn als zodanig aangeduid in de tabel die als bijlage 1 bij dit besluit is gevoegd. 
+Authentieke gegevens over ingezetenen als bedoeld in artikel 1.6 van de wet zijn als zodanig aangeduid in de tabel die als bijlage 1 bij dit besluit is gevoegd. 
 
 ### §  3  
 
@@ -45,9 +45,9 @@ Authentieke gegevens over ingezetenen als bedoeld in [artikel 1.6 van de wet](..
 ### Artikel  3  
 
 1.  Onze Minister stelt een systeembeschrijving vast.   
-2.  De systeembeschrijving kan een onderdeel bevatten dat is toegesneden op gemeenten die gebruikmaken van een oude gemeentelijke voorziening als bedoeld in [artikel 4.15, eerste lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), en een onderdeel dat is toegesneden op gemeenten die gebruik maken van een nieuwe gemeentelijke voorziening als bedoeld in dat lid.   
-3.  Voor het onderdeel dat is toegesneden op gemeenten die gebruikmaken van een oude voorziening kan verwezen worden naar de systeembeschrijving zoals deze laatstelijk werd gehanteerd onder de [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).   
-4.  Het tweede en derde lid zijn van overeenkomstige toepassing ten aanzien van de uitwisseling van berichten met een overheidsorgaan waaraan of een derde aan wie systematisch gegevens worden verstrekt, met dien verstande dat het betreft de in [artikel 4.16 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) bedoelde oude en nieuwe berichtuitwisseling.  
+2.  De systeembeschrijving kan een onderdeel bevatten dat is toegesneden op gemeenten die gebruikmaken van een oude gemeentelijke voorziening als bedoeld in artikel 4.15, eerste lid, van de wet, en een onderdeel dat is toegesneden op gemeenten die gebruik maken van een nieuwe gemeentelijke voorziening als bedoeld in dat lid.   
+3.  Voor het onderdeel dat is toegesneden op gemeenten die gebruikmaken van een oude voorziening kan verwezen worden naar de systeembeschrijving zoals deze laatstelijk werd gehanteerd onder de Wet gemeentelijke basisadministratie persoonsgegevens.   
+4.  Het tweede en derde lid zijn van overeenkomstige toepassing ten aanzien van de uitwisseling van berichten met een overheidsorgaan waaraan of een derde aan wie systematisch gegevens worden verstrekt, met dien verstande dat het betreft de in artikel 4.16 van de wet bedoelde oude en nieuwe berichtuitwisseling.  
 
 ### Artikel  4  
 
@@ -55,7 +55,7 @@ De systeembeschrijving geeft een beschrijving van de aspecten die zijn aangeduid
 
 ### Artikel  5  
 
-Een college van burgemeester en wethouders, Onze Minister, een aangewezen bestuursorgaan, een overheidsorgaan en een derde dragen er zorg voor dat zij uitvoering geven aan de [wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) op een wijze die overeenstemt met de systeembeschrijving. De uitvoering voor zover die op hen betrekking heeft, is aangeduid in de tabel die als bijlage 3 bij dit besluit is gevoegd. 
+Een college van burgemeester en wethouders, Onze Minister, een aangewezen bestuursorgaan, een overheidsorgaan en een derde dragen er zorg voor dat zij uitvoering geven aan de wet op een wijze die overeenstemt met de systeembeschrijving. De uitvoering voor zover die op hen betrekking heeft, is aangeduid in de tabel die als bijlage 3 bij dit besluit is gevoegd. 
 
 ### Artikel  6  
 
@@ -112,19 +112,19 @@ f. maatregelen bij calamiteiten.
 
 ### §  4  
 
-####Kosten in verband met de uitvoering van de [wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md)
+####Kosten in verband met de uitvoering van de wet
 
 ### Artikel  10  
 
 In deze paragraaf, artikel 51 en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.  *de betrokkene:* de betrokkene, bedoeld in [artikel 1.14, eerste lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md);  
+a.  *de betrokkene:* de betrokkene, bedoeld in artikel 1.14, eerste lid, van de wet;  
 
-b.  *de bijdrage:* de bijdrage van de betrokkene in de kosten in verband met de uitvoering van de wet, bedoeld in [artikel 1.14, eerste lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md);  
+b.  *de bijdrage:* de bijdrage van de betrokkene in de kosten in verband met de uitvoering van de wet, bedoeld in artikel 1.14, eerste lid, van de wet;  
 
 c.  *een bericht:* een logische eenheid van gegevens die wordt verzonden of verstrekt: 
 
-1° via het stelsel van berichtuitwisseling, bedoeld in [artikel 1.9, vierde lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md);  
+1° via het stelsel van berichtuitwisseling, bedoeld in artikel 1.9, vierde lid, van de wet;  
 
 2° met behulp van alternatieve media, of  
 
@@ -135,7 +135,7 @@ d.  *een jaar:* een kalenderjaar.
 ### Artikel  11  
 
 1.  Berichten tussen een gemeente en de centrale voorziening komen ten laste van de gemeente, waarbij een bericht dat door een gemeente via de centrale voorziening wordt verzonden aan een andere gemeente, ten laste komt van de gemeente die het bericht verzendt.   
-2.  Berichten aan of van een overheidsorgaan, anders dan organen van een gemeente, waaraan of een derde aan wie op grond van [artikel 3.2](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [3.3](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) of [3.13 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) gegevens worden verstrekt, komen ten laste van dat overheidsorgaan of die derde, met uitzondering van berichten in verband met [hoofdstuk 2, afdeling 1, paragraaf 4, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).   
+2.  Berichten aan of van een overheidsorgaan, anders dan organen van een gemeente, waaraan of een derde aan wie op grond van artikel 3.2, 3.3 of 3.13 van de wet gegevens worden verstrekt, komen ten laste van dat overheidsorgaan of die derde, met uitzondering van berichten in verband met hoofdstuk 2, afdeling 1, paragraaf 4, van de wet.   
 3.  Het eerste lid is niet van toepassing op: 
 
 a. berichten aan of van de centrale voorziening in verband met de bijhouding van gegevens;  
@@ -144,11 +144,11 @@ b. berichten in verband met de verstrekking van gegevens door een college van bu
 
 c. synchronisatieberichten;  
 
-d. berichten in verband met [artikel 2.34 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).    
+d. berichten in verband met artikel 2.34 van de wet.    
 
 ### Artikel  12  
 
-1.  Categorieën van kosten, als bedoeld in [artikel 1.14, tweede lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) zijn de kosten in verband met: 
+1.  Categorieën van kosten, als bedoeld in artikel 1.14, tweede lid, van de wet zijn de kosten in verband met: 
 
 a. het beheer en het gebruik van de centrale voorzieningen;  
 
@@ -174,7 +174,7 @@ b. het voor het volgende jaar te verwachten aantal berichten dat ten laste van d
 
 ### Artikel  15  
 
-1.  Categorieën van kosten, als bedoeld in [artikel 1.14, tweede lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), zijn tevens de kosten in verband met de afstemming van gegevens van een betrokkene op de gegevens in de basisregistratie.   
+1.  Categorieën van kosten, als bedoeld in artikel 1.14, tweede lid, van de wet, zijn tevens de kosten in verband met de afstemming van gegevens van een betrokkene op de gegevens in de basisregistratie.   
 2.  Bij regeling van Onze Minister wordt bepaald welke berichten voor de toepassing van dit artikel worden aangemerkt als afstemmingsberichten.   
 3.  Als afstemmingsbericht wordt slechts aangemerkt een bericht: 
 
@@ -192,21 +192,21 @@ c. dat als doel heeft de in het vijfde lid bedoelde verstrekking van gegevens mo
 
 ### Artikel  16  
 
-1.  Categorieën van kosten, als bedoeld in [artikel 1.14, tweede lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), zijn tevens de kosten in verband met de verzending van berichten met behulp van alternatieve media, tenzij deze kosten vallen onder artikel 15 of de verzending verband houdt met een infrastructurele wijziging ten aanzien van een gemeente.   
+1.  Categorieën van kosten, als bedoeld in artikel 1.14, tweede lid, van de wet, zijn tevens de kosten in verband met de verzending van berichten met behulp van alternatieve media, tenzij deze kosten vallen onder artikel 15 of de verzending verband houdt met een infrastructurele wijziging ten aanzien van een gemeente.   
 2.  Onze Minister kan bij de betrokkene aan wie de berichten worden verzonden in verband met de kosten, bedoeld in het eerste lid, een bijdrage in rekening brengen. Deze bijdrage kan in rekening worden gebracht naast de bijdrage die op grond van de artikelen 12, tweede lid, 13 en 14 voor de betrokkene wordt vastgesteld.   
 3.  Bij regeling van Onze Minister wordt vastgesteld welke bijdragen ten hoogste in rekening kunnen worden gebracht.  
 
 ### Artikel  17  
 
-1.  Categorieën van kosten, als bedoeld in [artikel 1.14, tweede lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), zijn tevens de kosten in verband met de schriftelijke verstrekking van gegevens.   
+1.  Categorieën van kosten, als bedoeld in artikel 1.14, tweede lid, van de wet, zijn tevens de kosten in verband met de schriftelijke verstrekking van gegevens.   
 2.  Een college van burgemeester en wethouders dat schriftelijk gegevens verstrekt, kan bij de betrokkene aan wie de gegevens worden verstrekt in verband met de kosten, bedoeld in het eerste lid, een bijdrage in rekening brengen. Voor zover de verstrekking geschiedt door Onze Minister, kan deze bijdrage in rekening worden gebracht naast de bijdrage die op grond van de artikelen 12, tweede lid, 13 en 14 voor de betrokkene wordt vastgesteld.   
 3.  Bij regeling van Onze Minister wordt vastgesteld welke bijdragen ten hoogste in rekening kunnen worden gebracht.  
 
 ### Artikel  18  
 
-1.  Categorieën van kosten, als bedoeld in [artikel 1.14, tweede lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), zijn tevens de kosten in verband met: 
+1.  Categorieën van kosten, als bedoeld in artikel 1.14, tweede lid, van de wet, zijn tevens de kosten in verband met: 
 
-a. de verstrekking van gegevens op grond van [artikel 3.13 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md);  
+a. de verstrekking van gegevens op grond van artikel 3.13 van de wet;  
 
 b. de verstrekking van gegevens, bedoeld in artikel 37, eerste lid, onderdeel c.     
 2.  De bijdrage van een betrokkene in de in het eerste lid bedoelde kosten wordt vastgesteld op basis van de kosten van de verstrekking, met uitzondering van de kosten waartoe door de betrokkene al wordt bijgedragen op grond van de artikelen 12, tweede lid, 13 en 14.   
@@ -214,7 +214,7 @@ b. de verstrekking van gegevens, bedoeld in artikel 37, eerste lid, onderdeel c.
 
 ### Artikel  19  
 
-1.  Categorieën van kosten, als bedoeld in [artikel 1.14, tweede lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), zijn tevens de kosten in verband met het ter beschikking stellen van informatie op grond van [artikel 3.14 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).   
+1.  Categorieën van kosten, als bedoeld in artikel 1.14, tweede lid, van de wet, zijn tevens de kosten in verband met het ter beschikking stellen van informatie op grond van artikel 3.14 van de wet.   
 2.  De bijdrage van een betrokkene in de in het eerste lid bedoelde kosten wordt, in afwijking van de artikelen 12, tweede lid, 13 en 14, vastgesteld op basis van de kosten van de terbeschikkingstelling.  
 
 ### Artikel  20  
@@ -279,8 +279,8 @@ d. andere personen die krachtens internationaal recht een bijzondere verblijfsre
 
 ### Artikel  23  
 
-1.  De in [artikel 2.7, eerste lid, onderdeel a, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) bedoelde algemene gegevens over ingezetenen zijn als zodanig nader bepaald in de tabel die als bijlage 1 bij dit besluit is gevoegd.   
-2.  De in de tabel in bijlage 1 bij dit besluit bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling en de in [artikel 2.7, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) genoemde administratieve gegevens worden nader bepaald bij regeling van Onze Minister.  
+1.  De in artikel 2.7, eerste lid, onderdeel a, van de wet bedoelde algemene gegevens over ingezetenen zijn als zodanig nader bepaald in de tabel die als bijlage 1 bij dit besluit is gevoegd.   
+2.  De in de tabel in bijlage 1 bij dit besluit bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling en de in artikel 2.7, eerste lid, onderdeel b, van de wet genoemde administratieve gegevens worden nader bepaald bij regeling van Onze Minister.  
 
 ### §  3  
 
@@ -288,8 +288,8 @@ d. andere personen die krachtens internationaal recht een bijzondere verblijfsre
 
 ### Artikel  24  
 
-1.  Het college van burgemeester en wethouders zendt een afschrift van een beslissing om op grond van [artikel 2.10, tweede lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) gegevens over een huwelijk, een geregistreerd partnerschap, een erkenning, of de geboortedatum van de betrokken persoon niet in de basisregistratie op te nemen, aan de korpschef als bedoeld in de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).   
-2.  Het eerste lid is slechts van toepassing indien de in dat lid bedoelde gegevens betrekking hebben op een vreemdeling als bedoeld in de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md).  
+1.  Het college van burgemeester en wethouders zendt een afschrift van een beslissing om op grond van artikel 2.10, tweede lid, van de wet gegevens over een huwelijk, een geregistreerd partnerschap, een erkenning, of de geboortedatum van de betrokken persoon niet in de basisregistratie op te nemen, aan de korpschef als bedoeld in de Vreemdelingenwet 2000.   
+2.  Het eerste lid is slechts van toepassing indien de in dat lid bedoelde gegevens betrekking hebben op een vreemdeling als bedoeld in de Vreemdelingenwet 2000.  
 
 ### Artikel  25  
 
@@ -298,17 +298,17 @@ d. andere personen die krachtens internationaal recht een bijzondere verblijfsre
 
 ### Artikel  26  
 
-Bij het voldoen aan de verplichtingen, bedoeld in [hoofdstuk 2, afdeling 1, paragraaf 4, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), wordt door een overheidsorgaan, indien bekend, het burgerservicenummer vermeld van de persoon of personen ten aanzien van wie gegevens, bescheiden of inlichtingen worden verstrekt of met betrekking tot wie mededelingen worden gedaan. 
+Bij het voldoen aan de verplichtingen, bedoeld in hoofdstuk 2, afdeling 1, paragraaf 4, van de wet, wordt door een overheidsorgaan, indien bekend, het burgerservicenummer vermeld van de persoon of personen ten aanzien van wie gegevens, bescheiden of inlichtingen worden verstrekt of met betrekking tot wie mededelingen worden gedaan. 
 
 ### Artikel  27  
 
-1.  Een bestuursorgaan als bedoeld in [artikel 2.34, eerste lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), alsmede een bestuursorgaan dat op grond van artikel 2.34, tweede of vierde lid, van de wet is aangewezen, doet mededeling aan het college van burgemeester en wethouders van door hem geconstateerde afwijkingen tussen enerzijds gegevens die hij verstrekt heeft gekregen uit de basisregistratie of waarvan de verstrekking achterwege is gebleven en anderzijds gegevens waarvan hij op andere wijze kennis heeft gekregen, alsmede van de grond van zijn gerede twijfel als bedoeld in artikel 2.34, eerste lid, van de wet.   
+1.  Een bestuursorgaan als bedoeld in artikel 2.34, eerste lid, van de wet, alsmede een bestuursorgaan dat op grond van artikel 2.34, tweede of vierde lid, van de wet is aangewezen, doet mededeling aan het college van burgemeester en wethouders van door hem geconstateerde afwijkingen tussen enerzijds gegevens die hij verstrekt heeft gekregen uit de basisregistratie of waarvan de verstrekking achterwege is gebleven en anderzijds gegevens waarvan hij op andere wijze kennis heeft gekregen, alsmede van de grond van zijn gerede twijfel als bedoeld in artikel 2.34, eerste lid, van de wet.   
 2.  Onze Minister kan nadere regels stellen omtrent de gevallen waarin en regels over de wijze waarop de mededeling wordt gedaan.  
 
 ### Artikel  28  
 
-1.  Het college van burgemeester en wethouders stelt het bestuursorgaan dat een mededeling als bedoeld in [artikel 2.34 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) heeft gedaan, zo spoedig mogelijk doch uiterlijk binnen vijf werkdagen na de ontvangst van de mededeling ervan in kennis of deze mededeling aanleiding is geweest voor verbetering, aanvulling of verwijdering van gegevens in de basisregistratie, dan wel dat bij het gegeven een aantekening als bedoeld in [artikel 2.26 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) is geplaatst in verband met het doen van een onderzoek naar de onjuistheid van het gegeven.   
-2.  Indien het college van burgemeester en wethouders besluit een aantekening als bedoeld in [artikel 2.26 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) te plaatsen, stelt het college het bestuursorgaan dat de mededeling heeft gedaan na afloop van het onderzoek ervan in kennis of naar aanleiding van de mededeling gegevens in de basisregistratie zijn verbeterd, aangevuld of verwijderd.  
+1.  Het college van burgemeester en wethouders stelt het bestuursorgaan dat een mededeling als bedoeld in artikel 2.34 van de wet heeft gedaan, zo spoedig mogelijk doch uiterlijk binnen vijf werkdagen na de ontvangst van de mededeling ervan in kennis of deze mededeling aanleiding is geweest voor verbetering, aanvulling of verwijdering van gegevens in de basisregistratie, dan wel dat bij het gegeven een aantekening als bedoeld in artikel 2.26 van de wet is geplaatst in verband met het doen van een onderzoek naar de onjuistheid van het gegeven.   
+2.  Indien het college van burgemeester en wethouders besluit een aantekening als bedoeld in artikel 2.26 van de wet te plaatsen, stelt het college het bestuursorgaan dat de mededeling heeft gedaan na afloop van het onderzoek ervan in kennis of naar aanleiding van de mededeling gegevens in de basisregistratie zijn verbeterd, aangevuld of verwijderd.  
 
 ### §  4  
 
@@ -321,14 +321,14 @@ Bij het voldoen aan de verplichtingen, bedoeld in [hoofdstuk 2, afdeling 1, para
 
 ### Artikel  30  
 
-1.  De gevallen waarin de verplichtingen, vermeld in [artikel 2.38 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), kunnen worden vervuld door de in [artikel 2.49, eerste lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) bedoelde personen zijn de gevallen waarin de betrokkene zelf niet in staat is om in persoon te verschijnen vanwege: 
+1.  De gevallen waarin de verplichtingen, vermeld in artikel 2.38 van de wet, kunnen worden vervuld door de in artikel 2.49, eerste lid, van de wet bedoelde personen zijn de gevallen waarin de betrokkene zelf niet in staat is om in persoon te verschijnen vanwege: 
 
 a. de toestand van zijn gezondheid, zo nodig onder overlegging van een schriftelijke verklaring ter zake van een behandelend arts, of  
 
 b. verblijf in een penitentiaire instelling.     
-2.  In de gevallen, bedoeld in het eerste lid, is de betrokkene, in afwijking van [artikel 2.38, eerste lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), niet verplicht zich in persoon te melden bij het college van burgemeester en wethouders.   
-3.  [Artikel 2.49, tweede lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), is niet van toepassing op de in het eerste lid bedoelde gevallen.   
-4.  De gevallen, bedoeld in het eerste lid, aanhef en onderdeel a, zijn tevens de in [artikel 2.49, vierde lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) bedoelde gevallen. Het tweede en derde lid zijn van overeenkomstige toepassing.  
+2.  In de gevallen, bedoeld in het eerste lid, is de betrokkene, in afwijking van artikel 2.38, eerste lid, van de wet, niet verplicht zich in persoon te melden bij het college van burgemeester en wethouders.   
+3.  Artikel 2.49, tweede lid, van de wet, is niet van toepassing op de in het eerste lid bedoelde gevallen.   
+4.  De gevallen, bedoeld in het eerste lid, aanhef en onderdeel a, zijn tevens de in artikel 2.49, vierde lid, van de wet bedoelde gevallen. Het tweede en derde lid zijn van overeenkomstige toepassing.  
 
 ### Afdeling  2  
 
@@ -340,21 +340,21 @@ b. verblijf in een penitentiaire instelling.
 
 ### Artikel  31  
 
-De volgende bestuursorganen zijn wat betreft de genoemde taken bevoegd om Onze Minister een verzoek als bedoeld in [artikel 2.68, eerste lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) of een opgave als bedoeld in [artikel 2.70, derde lid, onderdeel a, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) te doen: 
+De volgende bestuursorganen zijn wat betreft de genoemde taken bevoegd om Onze Minister een verzoek als bedoeld in artikel 2.68, eerste lid, van de wet of een opgave als bedoeld in artikel 2.70, derde lid, onderdeel a, van de wet te doen: 
 
 a. de volgende organen binnen de Belastingdienst: 
 
-1°. de directeur, de inspecteur en de ontvanger, bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md), wat betreft: 
+1°. de directeur, de inspecteur en de ontvanger, bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen, artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990 en artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet, wat betreft: 
 
-– de heffing van rijksbelastingen op grond van de [Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en van andere heffingen, premies of bijdragen van het rijk voor zover bij of krachtens de wet opgedragen;  
+– de heffing van rijksbelastingen op grond van de Algemene wet inzake rijksbelastingen en van andere heffingen, premies of bijdragen van het rijk voor zover bij of krachtens de wet opgedragen;  
 
-– de invordering van belastingen, andere heffingen van het rijk en tegemoetkomingen op grond van de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);  
+– de invordering van belastingen, andere heffingen van het rijk en tegemoetkomingen op grond van de Invorderingswet 1990;  
 
-– de heffing en invordering van invoerrechten en accijnzen op grond van de [Algemene douanewet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md);  
+– de heffing en invordering van invoerrechten en accijnzen op grond van de Algemene douanewet;  
 
-– de toepassing van de [Algemene douanewet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md) met betrekking tot de taken, voortvloeiende uit het bepaalde in [artikel 1:1 van de Algemene douanewet](../../../../../wet/algemene/douanewet/BWBR0023746/README.md);    
+– de toepassing van de Algemene douanewet met betrekking tot de taken, voortvloeiende uit het bepaalde in artikel 1:1 van de Algemene douanewet;    
 
-2°. de Belastingdienst/Toeslagen, bedoeld in [artikel 11, tweede lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) en de ontvanger, bedoeld in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), wat betreft de uitkering en terugvordering van tegemoetkomingen op grond van de [Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md);    
+2°. de Belastingdienst/Toeslagen, bedoeld in artikel 11, tweede lid, van de Algemene wet inkomensafhankelijke regelingen en de ontvanger, bedoeld in artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990, wat betreft de uitkering en terugvordering van tegemoetkomingen op grond van de Algemene wet inkomensafhankelijke regelingen;    
 
 b. dit onderdeel is nog niet in werking getreden;  
 
@@ -372,12 +372,12 @@ f. Onze Minister van Buitenlandse Zaken wat betreft de taken omtrent personen di
 
 ### Artikel  32  
 
-1.  De in [artikel 2.69, eerste lid, onderdeel a, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) bedoelde algemene gegevens over niet-ingezetenen zijn als zodanig nader bepaald in de tabel die als bijlage 1 bij dit besluit is gevoegd.   
-2.  De in de tabel in bijlage 1 bij dit besluit bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling en de in [artikel 2.69, eerste lid, onderdeel b, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) genoemde administratieve gegevens worden nader bepaald bij regeling van Onze Minister.  
+1.  De in artikel 2.69, eerste lid, onderdeel a, van de wet bedoelde algemene gegevens over niet-ingezetenen zijn als zodanig nader bepaald in de tabel die als bijlage 1 bij dit besluit is gevoegd.   
+2.  De in de tabel in bijlage 1 bij dit besluit bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling en de in artikel 2.69, eerste lid, onderdeel b, van de wet genoemde administratieve gegevens worden nader bepaald bij regeling van Onze Minister.  
 
 ### Artikel  33  
 
-1.  Onze Minister neemt bij een inschrijving als bedoeld in [artikel 2.67 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) ten minste de volgende gegevens over de betrokkene op: 
+1.  Onze Minister neemt bij een inschrijving als bedoeld in artikel 2.67 van de wet ten minste de volgende gegevens over de betrokkene op: 
 
 a. over de burgerlijke staat: de geslachtsnaam, de voornamen, de geboortedatum, de geboorteplaats, het geboorteland of -gebied en het geslacht;  
 
@@ -387,22 +387,22 @@ b. over de nationaliteit: de nationaliteit of nationaliteiten, dan wel een aandu
 
 ### Artikel  34  
 
-1.  Een aangewezen bestuursorgaan legt bij een verzoek om inschrijving als bedoeld in [artikel 2.68 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) ten minste een opgave over van de volgende gegevens over de burgerlijke staat van de betrokkene: de geslachtsnaam, de voornamen, de geboortedatum en het geslacht.   
+1.  Een aangewezen bestuursorgaan legt bij een verzoek om inschrijving als bedoeld in artikel 2.68 van de wet ten minste een opgave over van de volgende gegevens over de burgerlijke staat van de betrokkene: de geslachtsnaam, de voornamen, de geboortedatum en het geslacht.   
 2.  Het aangewezen bestuursorgaan legt daarnaast een opgave over van de data ingang en beëindiging rechtsgeldigheid van de in het eerste lid bedoelde gegevens voor zover deze bij het verzoek om inschrijving kunnen worden vastgesteld.   
 3.  Het aangewezen bestuursorgaan kan daarnaast een opgave overleggen van andere algemene gegevens voor zover de gegevens bij het verzoek om inschrijving kunnen worden vastgesteld.   
-4.  Een aangewezen bestuursorgaan legt bij een opgave als bedoeld in [artikel 2.70, derde lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), in andere gevallen dan bedoeld in het eerste lid, ten minste de volgende gegevens over de betrokkene over: het burgerservicenummer en de gegevens die voor bijhouding in aanmerking komen.  
+4.  Een aangewezen bestuursorgaan legt bij een opgave als bedoeld in artikel 2.70, derde lid, van de wet, in andere gevallen dan bedoeld in het eerste lid, ten minste de volgende gegevens over de betrokkene over: het burgerservicenummer en de gegevens die voor bijhouding in aanmerking komen.  
 
 ### Artikel  35  
 
-Degene die in persoon verschijnt in verband met een verzoek als bedoeld in [artikel 2.79 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), legt daarbij ten minste over: 
+Degene die in persoon verschijnt in verband met een verzoek als bedoeld in artikel 2.79 van de wet, legt daarbij ten minste over: 
 
-a. een op hem betrekking hebbend document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), of  
+a. een op hem betrekking hebbend document als bedoeld in artikel 1 van de Wet op de identificatieplicht, of  
 
 b. een buitenlands paspoort of ander reisdocument dan wel een buitenlandse nationale identiteitskaart.   
 
 ### Artikel  36  
 
-Een persoon die aan Onze Minister een verzoek richt als bedoeld in [artikel 2.81, derde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), in samenhang met [artikel 2.55, derde lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), is een recht verschuldigd dat gelijk is aan het recht dat het college van burgemeester en wethouders van de gemeente waar de inschrijfvoorziening is ondergebracht heft op grond van [artikel 229 van de Gemeentewet](../../../../../wet/gemeentewet/BWBR0005416/README.md) voor het uitvoeren van eenzelfde verzoek dat aan het college is gericht op grond van artikel 2.81, vierde lid, van de wet. 
+Een persoon die aan Onze Minister een verzoek richt als bedoeld in artikel 2.81, derde lid, in samenhang met artikel 2.55, derde lid, van de wet, is een recht verschuldigd dat gelijk is aan het recht dat het college van burgemeester en wethouders van de gemeente waar de inschrijfvoorziening is ondergebracht heft op grond van artikel 229 van de Gemeentewet voor het uitvoeren van eenzelfde verzoek dat aan het college is gericht op grond van artikel 2.81, vierde lid, van de wet. 
 
 ### Hoofdstuk  3  
 
@@ -418,14 +418,14 @@ Een persoon die aan Onze Minister een verzoek richt als bedoeld in [artikel 2.81
 
 ### Artikel  37  
 
-1.  De in [artikel 3.1, tweede lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) bedoelde systematische verstrekking van gegevens aan overheidsorganen betreft de volgende wijzen van verstrekking overeenkomstig de systeembeschrijving: 
+1.  De in artikel 3.1, tweede lid, van de wet bedoelde systematische verstrekking van gegevens aan overheidsorganen betreft de volgende wijzen van verstrekking overeenkomstig de systeembeschrijving: 
 
 a. spontane verstrekking, zijnde de eenmalige verstrekking van de in een autorisatiebesluit vermelde gegevens over de door het overheidsorgaan aangegeven personen die deel uitmaken van de in het autorisatiebesluit aangegeven categorie van personen, of over personen over wie de in de basisregistratie opgenomen gegevens voldoen aan de in het autorisatiebesluit genoemde voorwaarden, gevolgd door de verstrekking van de wijzigingen die zich voordoen in deze gegevens;  
 
 b. selectie- en conditionele verstrekking, zijnde de eenmalige of periodieke verstrekking van de in een autorisatiebesluit opgenomen gegevens over personen over wie de in de basisregistratie vermelde gegevens voldoen aan de in het autorisatiebesluit genoemde voorwaarden;  
 
 c. verstrekking op basis van een zoekvraag, zijnde een verstrekking op verzoek van het overheidsorgaan, van gegevens die deel uitmaken van de in een autorisatiebesluit vermelde gegevens over, per verzoek, een in het autorisatiebesluit gemaximeerd aantal personen die deel uitmaken van de in het autorisatiebesluit bepaalde categorie van personen en over wie de gegevens voldoen aan de gegevens die in het verzoek van het overheidsorgaan zijn vermeld.     
-2.  Het eerste lid is van overeenkomstige toepassing op de systematische verstrekking van gegevens aan derden als bedoeld in [artikel 3.3 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).  
+2.  Het eerste lid is van overeenkomstige toepassing op de systematische verstrekking van gegevens aan derden als bedoeld in artikel 3.3 van de wet.  
 
 ### Artikel  38  
 
@@ -433,7 +433,7 @@ Bij de indiening van een verzoek tot het nemen van een autorisatiebesluit maakt 
 
 ### Artikel  39  
 
-De door derden verrichte werkzaamheden met een gewichtig maatschappelijk belang, bedoeld in [artikel 3.3 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), de categorieën van derden die in verband met die werkzaamheden in aanmerking komen voor de systematische verstrekking van gegevens, de beperkingen ten aanzien van de gegevens die kunnen worden verstrekt en de bepaling of [artikel 3.21 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) op de verstrekking van toepassing is, zijn aangeduid in de tabel die als bijlage 4 bij dit besluit is gevoegd. 
+De door derden verrichte werkzaamheden met een gewichtig maatschappelijk belang, bedoeld in artikel 3.3 van de wet, de categorieën van derden die in verband met die werkzaamheden in aanmerking komen voor de systematische verstrekking van gegevens, de beperkingen ten aanzien van de gegevens die kunnen worden verstrekt en de bepaling of artikel 3.21 van de wet op de verstrekking van toepassing is, zijn aangeduid in de tabel die als bijlage 4 bij dit besluit is gevoegd. 
 
 ### §  2  
 
@@ -441,11 +441,11 @@ De door derden verrichte werkzaamheden met een gewichtig maatschappelijk belang,
 
 ### Artikel  40  
 
-Het college van burgemeester en wethouders weigert een verzoek tot verstrekking van gegevens als bedoeld in [artikel 3.5](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) of [artikel 3.6 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), indien het aantal verstrekkingen per jaar aan het overheidsorgaan of de derde naar redelijke verwachting van het college meer zal zijn dan vijfduizend verstrekkingen. 
+Het college van burgemeester en wethouders weigert een verzoek tot verstrekking van gegevens als bedoeld in artikel 3.5 of artikel 3.6 van de wet, indien het aantal verstrekkingen per jaar aan het overheidsorgaan of de derde naar redelijke verwachting van het college meer zal zijn dan vijfduizend verstrekkingen. 
 
 ### Artikel  41  
 
-De door derden verrichte werkzaamheden met een gewichtig maatschappelijk belang, bedoeld in [artikel 3.6 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), de categorieën van derden die in verband met die werkzaamheden in aanmerking komen voor de verstrekking van gegevens, de beperkingen ten aanzien van de gegevens die kunnen worden verstrekt en de bepaling of [artikel 3.21 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) op de verstrekking van toepassing is, zijn aangeduid in de tabel die als bijlage 5 bij dit besluit is gevoegd. 
+De door derden verrichte werkzaamheden met een gewichtig maatschappelijk belang, bedoeld in artikel 3.6 van de wet, de categorieën van derden die in verband met die werkzaamheden in aanmerking komen voor de verstrekking van gegevens, de beperkingen ten aanzien van de gegevens die kunnen worden verstrekt en de bepaling of artikel 3.21 van de wet op de verstrekking van toepassing is, zijn aangeduid in de tabel die als bijlage 5 bij dit besluit is gevoegd. 
 
 ### §  3  
 
@@ -453,15 +453,15 @@ De door derden verrichte werkzaamheden met een gewichtig maatschappelijk belang,
 
 ### Artikel  42  
 
-Ter uitvoering van [artikel 3.11 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) wordt van systematische verstrekking van gegevens geen aantekening gehouden voor zover de verstrekking noodzakelijk is voor: 
+Ter uitvoering van artikel 3.11 van de wet wordt van systematische verstrekking van gegevens geen aantekening gehouden voor zover de verstrekking noodzakelijk is voor: 
 
-a. de uitvoering van taken door de Algemene Inlichtingen- en Veiligheidsdienst op grond van [artikel 6, tweede lid, van de Wet op de Inlichtingen en Veiligheidsdiensten 2002](../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md), met inbegrip van werkzaamheden die ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst worden verricht op grond van [artikel 60 van die wet](../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md);  
+a. de uitvoering van taken door de Algemene Inlichtingen- en Veiligheidsdienst op grond van artikel 6, tweede lid, van de Wet op de Inlichtingen en Veiligheidsdiensten 2002, met inbegrip van werkzaamheden die ten behoeve van de Algemene Inlichtingen- en Veiligheidsdienst worden verricht op grond van artikel 60 van die wet;  
 
-b. de uitvoering van taken door de Militaire Inlichtingen en Veiligheidsdienst op grond van [artikel 7, tweede lid, van de Wet op de Inlichtingen- en Veiligheidsdiensten 2002](../../../../../wet/wet/op/de/inlichtingen-/en/veiligheidsdiensten/2002/BWBR0013409/README.md);  
+b. de uitvoering van taken door de Militaire Inlichtingen en Veiligheidsdienst op grond van artikel 7, tweede lid, van de Wet op de Inlichtingen- en Veiligheidsdiensten 2002;  
 
-c. de uitvoering van taken door de politie op grond van [artikel 3 van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md) of door de Koninklijke marechaussee op grond van [artikel 4 van die wet](../../../../../wet/politiewet/2012/BWBR0031788/README.md), die verband houden met de bestrijding van zware of georganiseerde criminaliteit;  
+c. de uitvoering van taken door de politie op grond van artikel 3 van de Politiewet 2012 of door de Koninklijke marechaussee op grond van artikel 4 van die wet, die verband houden met de bestrijding van zware of georganiseerde criminaliteit;  
 
-d. de uitvoering van taken door de rijksrecherche op grond van [artikel 49 van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md) die verband houden met onderzoeken in opdracht van het College van Procureurs-Generaal.   
+d. de uitvoering van taken door de rijksrecherche op grond van artikel 49 van de Politiewet 2012 die verband houden met onderzoeken in opdracht van het College van Procureurs-Generaal.   
 
 ### Artikel  43  
 
@@ -471,9 +471,9 @@ d. de uitvoering van taken door de rijksrecherche op grond van [artikel 49 van d
 
 ### Artikel  44  
 
-1.  [Artikel 3.13 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) is van toepassing op een verstrekking uit de basisregistratie voor zover: 
+1.  Artikel 3.13 van de wet is van toepassing op een verstrekking uit de basisregistratie voor zover: 
 
-a. het verzoek daartoe is gedaan door een instelling als bedoeld in [artikel 1.2 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), een onderzoeksafdeling van een overheidsorgaan of een onderzoeksbureau;  
+a. het verzoek daartoe is gedaan door een instelling als bedoeld in artikel 1.2 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, een onderzoeksafdeling van een overheidsorgaan of een onderzoeksbureau;  
 
 b. het onderzoek een algemeen belang dient;  
 
@@ -483,10 +483,10 @@ d. de verzoeker heeft aangetoond dat de nodige voorzieningen zijn getroffen tene
 
 e. de gegevens slechts in geanonimiseerde vorm aan anderen beschikbaar worden gesteld, tenzij de ingeschrevene uitdrukkelijk met de voorgenomen openbaarmaking van de hem betreffende gegevens heeft ingestemd.     
 2.  De verstrekking geschiedt door Onze Minister of door een college van burgemeester en wethouders   
-3.  Verstrekking door Onze Minister geschiedt overeenkomstig hetgeen bij of krachtens de wet is bepaald ten aanzien van systematische verstrekkingen, met uitzondering van [artikel 3.2, achtste lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).   
+3.  Verstrekking door Onze Minister geschiedt overeenkomstig hetgeen bij of krachtens de wet is bepaald ten aanzien van systematische verstrekkingen, met uitzondering van artikel 3.2, achtste lid, van de wet.   
 4.  Onze Minister maakt slechts gebruik van zijn bevoegdheid, bedoeld in het tweede lid, voor zover: 
 
-a. de verzoeker heeft aangetoond dat het voor een goede uitvoering van het onderzoek noodzakelijk is dat verstrekking plaatsvindt overeenkomstig hetgeen krachtens de [artikelen 3.1](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) en [3.2 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) is bepaald;  
+a. de verzoeker heeft aangetoond dat het voor een goede uitvoering van het onderzoek noodzakelijk is dat verstrekking plaatsvindt overeenkomstig hetgeen krachtens de artikelen 3.1 en 3.2 van de wet is bepaald;  
 
 b. aan de voorwaarden, genoemd in het eerste lid, is voldaan, en  
 
@@ -518,21 +518,21 @@ d. de informatie tijdig op een andere manier kan worden verkregen.
 
 ### Artikel  46  
 
-Het college van burgemeester en wethouders of Onze Minister voldoet in ieder geval niet aan een verzoek van een betrokkene als bedoeld in [artikel 3.22, eerste en tweede lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), en [3.23, eerste lid, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), voor zover de verstrekking van gegevens uit de basisregistratie heeft plaatsgevonden voor de uitvoering van de hieronder bedoelde taken en voor zover het overheidsorgaan waaraan of de derde aan wie de gegevens ter uitvoering van die taken zijn verstrekt, heeft aangegeven dat aan het verzoek van de betrokkene niet kan worden voldaan: 
+Het college van burgemeester en wethouders of Onze Minister voldoet in ieder geval niet aan een verzoek van een betrokkene als bedoeld in artikel 3.22, eerste en tweede lid, en 3.23, eerste lid, van de wet, voor zover de verstrekking van gegevens uit de basisregistratie heeft plaatsgevonden voor de uitvoering van de hieronder bedoelde taken en voor zover het overheidsorgaan waaraan of de derde aan wie de gegevens ter uitvoering van die taken zijn verstrekt, heeft aangegeven dat aan het verzoek van de betrokkene niet kan worden voldaan: 
 
-a. taken op grond van de [artikelen 3](../../../../../wet/politiewet/2012/BWBR0031788/README.md), [4](../../../../../wet/politiewet/2012/BWBR0031788/README.md) en [49 van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md) die worden uitgevoerd in het belang van de veiligheid van de staat of de voorkoming, opsporing en vervolging van strafbare feiten;  
+a. taken op grond van de artikelen 3, 4 en 49 van de Politiewet 2012 die worden uitgevoerd in het belang van de veiligheid van de staat of de voorkoming, opsporing en vervolging van strafbare feiten;  
 
-b. taken op grond van [artikel 3 van de Wet op de bijzondere opsporingsdiensten](../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md);  
+b. taken op grond van artikel 3 van de Wet op de bijzondere opsporingsdiensten;  
 
-c. taken op grond van [artikel 36, eerste lid, onderdeel b, van de Gezondheidswet](../../../../../wet/gezondheidswet/BWBR0002202/README.md);  
+c. taken op grond van artikel 36, eerste lid, onderdeel b, van de Gezondheidswet;  
 
-d. taken op grond van [artikel 13, aanhef en onderdeel a, van de Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md);  
+d. taken op grond van artikel 13, aanhef en onderdeel a, van de Wet ter voorkoming van witwassen en financieren van terrorisme;  
 
-e. taken op grond van [artikel 110, eerste lid, van de Wet op het notarisambt](../../../../../wet/notariswet/BWBR0010388/README.md), [artikel 30 van de Gerechtsdeurwaarderswet](../../../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md) of [artikel 24 van de Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md);  
+e. taken op grond van artikel 110, eerste lid, van de Wet op het notarisambt, artikel 30 van de Gerechtsdeurwaarderswet of artikel 24 van de Wet ter voorkoming van witwassen en financieren van terrorisme;  
 
-f. de taken, bedoeld in [artikel 11, eerste lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+f. de taken, bedoeld in artikel 11, eerste lid, van de Wet op de jeugdzorg;  
 
-g. de taken, bedoeld in [artikel 21b, tweede lid, van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).   
+g. de taken, bedoeld in artikel 21b, tweede lid, van de Wet maatschappelijke ondersteuning.   
 
 ### Hoofdstuk  4  
 
@@ -544,10 +544,10 @@ g. de taken, bedoeld in [artikel 21b, tweede lid, van de Wet maatschappelijke on
 
 ### Artikel  47  
 
-1.  De onderzoeken, bedoeld in [artikel 4.3 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), geschieden jaarlijks, uiterlijk op 30 september.   
+1.  De onderzoeken, bedoeld in artikel 4.3 van de wet, geschieden jaarlijks, uiterlijk op 30 september.   
 2.  De uitvoering van deze onderzoeken geschiedt met behulp van een door Onze Minister beschikbaar gesteld evaluatie-instrument.   
 3.  Onze Minister verstrekt ten behoeve van het onderzoek door een college van burgemeester en wethouders aan het college een op de ingezetenen van de gemeente betrekking hebbend overzicht van aandachtspunten.   
-4.  De uittreksels, bedoeld in [artikel 4.3 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), bevatten de geaggregeerde resultaten van het onderzoek. Bij regeling van Onze Minister wordt voor de verschillende typen uittreksels het aggregatieniveau bepaald.   
+4.  De uittreksels, bedoeld in artikel 4.3 van de wet, bevatten de geaggregeerde resultaten van het onderzoek. Bij regeling van Onze Minister wordt voor de verschillende typen uittreksels het aggregatieniveau bepaald.   
 5.  De uittreksels worden jaarlijks, uiterlijk op 31 oktober, verzonden.   
 6.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten aanzien van de uitvoering van de onderzoeken en de inhoud van de uittreksels.  
 
@@ -561,7 +561,7 @@ g. de taken, bedoeld in [artikel 21b, tweede lid, van de Wet maatschappelijke on
 
 ### Artikel  48  
 
-1.  De op grond van [artikel 4.6 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) aan het college van burgemeester en wethouders verstrekte gegevens worden toegevoegd aan het persoonsregister.   
+1.  De op grond van artikel 4.6 van de wet aan het college van burgemeester en wethouders verstrekte gegevens worden toegevoegd aan het persoonsregister.   
 2.  Onze Minister kan regels stellen omtrent de zorg voor het persoonsregister, het persoonskaartenarchief en het schakelregister. Daarbij kan worden bepaald dat het persoonsregister op een andere wijze dan in de vorm van persoonskaarten, bedoeld in het Besluit bevolkingsboekhouding, kan worden aangehouden en kan de vernietiging van persoonskaarten worden geregeld.  
 
 ### Artikel  49  
@@ -580,10 +580,10 @@ c. het centraal archief van overledenen, bestaande uit de persoonskaarten, bedoe
 
 ### Artikel  50  
 
-1.  Onze Minister raadpleegt de desbetreffende gemeenten, overheidsorganen waaraan en derden aan wie systematisch gegevens worden verstrekt, inzake de overgang, bedoeld in de [artikelen 4.15](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) en [4.16 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).   
+1.  Onze Minister raadpleegt de desbetreffende gemeenten, overheidsorganen waaraan en derden aan wie systematisch gegevens worden verstrekt, inzake de overgang, bedoeld in de artikelen 4.15 en 4.16 van de wet.   
 2.  Onze Minister stelt een schema vast waarin voor een betrokkene of groep van betrokkenen een tijdstip wordt vastgesteld voor de overgang van de oude naar de nieuwe voorzieningen of berichtuitwisseling.   
 3.  Onze Minister kan verschillende tijdstippen vaststellen voor verschillende delen van de organisatie van de gemeente, het overheidsorgaan of de derde, of voor verschillende wijzen van verstrekking van gegevens.   
-4.  De betrokkenen dragen er zorg voor dat zij op het desbetreffende tijdstip gereed zijn om uitvoering te geven aan de [wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) met behulp van de nieuwe voorzieningen of de nieuwe berichtuitwisseling.  
+4.  De betrokkenen dragen er zorg voor dat zij op het desbetreffende tijdstip gereed zijn om uitvoering te geven aan de wet met behulp van de nieuwe voorzieningen of de nieuwe berichtuitwisseling.  
 
 ### Artikel  51  
 
@@ -597,13 +597,13 @@ c. het centraal archief van overledenen, bestaande uit de persoonskaarten, bedoe
 
 ### §  3  
 
-####Overgangsbepaling in verband met de kosten in verband met de uitvoering van de [wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md)
+####Overgangsbepaling in verband met de kosten in verband met de uitvoering van de wet
 
 ### Artikel  53  
 
-1.  In afwijking van artikel 13 geldt voor het jaar 2014 de abonnementsstructuur die Onze Minister voor dat jaar heeft vastgesteld op grond van [artikel 6 van het Besluit gemeentelijke basisadministratie persoonsgegevens](../../../../../AMvB/besluit/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006933/README.md) zoals dat luidde op de laatste dag voor de intrekking van de [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).   
-2.  Voor de toepassing van artikel 13, derde lid, wordt wat betreft het vaststellen van de abonnementsstructuur voor het jaar 2015, uitgegaan van vermindering van de bijdragen met de kosten, bedoeld in [artikel 4 van het Besluit gemeentelijke basisadministratie persoonsgegevens](../../../../../AMvB/besluit/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006933/README.md) zoals dat luidde op de laatste dag voor de intrekking van de [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).   
-3.  Voor de toepassing van artikel 14 wordt wat betreft het bij een betrokkene in rekening te brengen abonnementstarief voor het jaar 2014 gelet op het aantal netwerkberichten dat in het jaar 2013 ten laste van hem kwam op grond van het [Besluit gemeentelijke basisadministratie persoonsgegevens](../../../../../AMvB/besluit/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006933/README.md) zoals dat gold op de laatste dag voor de intrekking van de [Wet gemeentelijke basisadministratie persoonsgegevens](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md).  
+1.  In afwijking van artikel 13 geldt voor het jaar 2014 de abonnementsstructuur die Onze Minister voor dat jaar heeft vastgesteld op grond van artikel 6 van het Besluit gemeentelijke basisadministratie persoonsgegevens zoals dat luidde op de laatste dag voor de intrekking van de Wet gemeentelijke basisadministratie persoonsgegevens.   
+2.  Voor de toepassing van artikel 13, derde lid, wordt wat betreft het vaststellen van de abonnementsstructuur voor het jaar 2015, uitgegaan van vermindering van de bijdragen met de kosten, bedoeld in artikel 4 van het Besluit gemeentelijke basisadministratie persoonsgegevens zoals dat luidde op de laatste dag voor de intrekking van de Wet gemeentelijke basisadministratie persoonsgegevens.   
+3.  Voor de toepassing van artikel 14 wordt wat betreft het bij een betrokkene in rekening te brengen abonnementstarief voor het jaar 2014 gelet op het aantal netwerkberichten dat in het jaar 2013 ten laste van hem kwam op grond van het Besluit gemeentelijke basisadministratie persoonsgegevens zoals dat gold op de laatste dag voor de intrekking van de Wet gemeentelijke basisadministratie persoonsgegevens.  
 
 ### Afdeling  3  
 
@@ -759,25 +759,25 @@ I.W. Opstelten
 |  *2*   | De technische en administratieve inrichting en werking van de centrale voorzieningen.  |
 |  *3*   | De uitwisseling van berichten tussen de gemeentelijke voorzieningen en de centrale voorzieningen.  |
 |  *4*   | De uitwisseling van berichten tussen de centrale voorzieningen en de overheidsorganen waaraan en derden aan wie systematisch gegevens worden verstrekt.  |
-|  *5*   | De verwijdering uit de basisregistratie en de vernietiging van:  • de algemene gegevens, bedoeld in [artikel 2.7, eerste lid, onderdeel a, onder 10° en 11°, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md);  • de algemene gegevens over een vreemde nationaliteit naast gegevens over het Nederlanderschap of de behandeling als Nederlander;  • de administratieve gegevens, bedoeld in de [artikelen 2.7](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) en [2.69 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).  |
-|  *6*   | De uitwisseling van berichten tussen de centrale voorzieningen en een bestuursorgaan dat voldoet aan zijn verplichtingen, bedoeld in [artikel 2.34 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).  |
-|  *7*   | De uitwisseling van berichten tussen de centrale voorzieningen en een overheidsorgaan dat voldoet aan zijn verplichtingen, bedoeld in [hoofdstuk 2, afdeling 1, paragraaf 4, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).  |
+|  *5*   | De verwijdering uit de basisregistratie en de vernietiging van:  • de algemene gegevens, bedoeld in artikel 2.7, eerste lid, onderdeel a, onder 10° en 11°, van de wet;  • de algemene gegevens over een vreemde nationaliteit naast gegevens over het Nederlanderschap of de behandeling als Nederlander;  • de administratieve gegevens, bedoeld in de artikelen 2.7 en 2.69 van de wet.  |
+|  *6*   | De uitwisseling van berichten tussen de centrale voorzieningen en een bestuursorgaan dat voldoet aan zijn verplichtingen, bedoeld in artikel 2.34 van de wet.  |
+|  *7*   | De uitwisseling van berichten tussen de centrale voorzieningen en een overheidsorgaan dat voldoet aan zijn verplichtingen, bedoeld in hoofdstuk 2, afdeling 1, paragraaf 4, van de wet.  |
 |  *8*   | De uitwisseling van berichten tussen aangewezen bestuursorganen en de centrale voorzieningen.  |
 |  *9*   | De systematische verstrekking van gegevens, bedoeld in artikel 37 .  |
 |  *10*   | De technische en administratieve inrichting en werking van de centrale voorzieningen in verband met de overgang van de oude naar de nieuwe gemeentelijke voorzieningen en van de oude naar de nieuwe uitwisseling van berichten.  |
 
 ### Bijlage 3 
 
-####De uitvoering van de [wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) overeenkomstig de systeembeschrijving
+####De uitvoering van de wet overeenkomstig de systeembeschrijving
 
 ####Bijlage bij artikel 5 
 
 |--- |  *Het college van burgemeester en wethouders*   |  *De Minister van Binnenlandse Zaken en Koninkrijksrelaties*   |  *Aangewezen bestuursorgaan*   |  *Overheidsorgaan*   |  *Derde*   |
 |:---|:---|:---|:---|:---|:---|
 |  *Bijhouding van de basisregistratie*   | • De bijhouding van de basisregistratie door de bijhoudingsgemeente.  • Het raadplegen van de centrale voorzieningen in verband met de bijhouding door de bijhoudingsgemeente.  | • De bijhouding van de basisregistratie door de minister.  • Het raadplegen van de centrale voorzieningen in verband met de bijhouding door de minister.  • Het ontsluiten van de centrale voorzieningen in verband met de bijhouding door de bijhoudingsgemeente.  | –  | –  | –  |
-|  *Een verzoek of opgave in verband met de bijhouding*   | –  | Het verwerken van een verzoek als bedoeld in de [artikelen 2.67](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) en [2.68 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) of van een opgave als bedoeld in [artikel 2.70 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).  | Het doen van een verzoek als bedoeld in artikel 2.68 van de wet of van een opgave als bedoeld in artikel 2.70 van de wet.  | –  | –  |
-|  *Verschaffen van informatie aan of door de bijhoudingsgemeente*   | • Het in ontvangst nemen van een mededeling als bedoeld in [artikel 2.34 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).  • Het doen van een kennisgeving als bedoeld in artikel 2.34 van de wet.  • Het verschaffen van informatie aan een andere gemeente op grond van [artikel 2.35 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).  • Het in ontvangst nemen van informatie als bedoeld in [hoofdstuk 2, afdeling 1, paragraaf 4, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).  | • Het doorgeleiden van een mededeling als bedoeld in artikel 2.34 van de wet aan de bijhoudingsgemeente.  • Het doorgeleiden van een kennisgeving als bedoeld in artikel 2.34 van de wet aan het bestuursorgaan  • Het doorgeleiden van informatie als bedoeld in hoofdstuk 2, afdeling 1, paragraaf 4, van de wet aan de bijhoudingsgemeente.  | –  | • Het doen van mededeling als bedoeld in artikel 2.34 van de wet.  • Het in ontvangst nemen van een kennisgeving als bedoeld in artikel 2.34 van de wet.  • Het verschaffen van informatie aan de bijhoudingsgemeente op grond van hoofdstuk 2, afdeling 1, paragraaf 4, van de wet.  | –  |
-|  *Systematische verstrekking*   | –  | De systematische verstrekking.  | –  | • Berichtuitwisseling met de centrale voorzieningen bij systematische verstrekking van gegevens.  • Het verlenen van medewerking aan een onderzoek als bedoeld in [artikel 1.12 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).  | • Berichtuitwisseling met de centrale voorzieningen bij systematische verstrekking van gegevens.  • Het verlenen van medewerking aan een onderzoek als bedoeld in artikel 1.12 van de wet.  |
+|  *Een verzoek of opgave in verband met de bijhouding*   | –  | Het verwerken van een verzoek als bedoeld in de artikelen 2.67 en 2.68 van de wet of van een opgave als bedoeld in artikel 2.70 van de wet.  | Het doen van een verzoek als bedoeld in artikel 2.68 van de wet of van een opgave als bedoeld in artikel 2.70 van de wet.  | –  | –  |
+|  *Verschaffen van informatie aan of door de bijhoudingsgemeente*   | • Het in ontvangst nemen van een mededeling als bedoeld in artikel 2.34 van de wet.  • Het doen van een kennisgeving als bedoeld in artikel 2.34 van de wet.  • Het verschaffen van informatie aan een andere gemeente op grond van artikel 2.35 van de wet.  • Het in ontvangst nemen van informatie als bedoeld in hoofdstuk 2, afdeling 1, paragraaf 4, van de wet.  | • Het doorgeleiden van een mededeling als bedoeld in artikel 2.34 van de wet aan de bijhoudingsgemeente.  • Het doorgeleiden van een kennisgeving als bedoeld in artikel 2.34 van de wet aan het bestuursorgaan  • Het doorgeleiden van informatie als bedoeld in hoofdstuk 2, afdeling 1, paragraaf 4, van de wet aan de bijhoudingsgemeente.  | –  | • Het doen van mededeling als bedoeld in artikel 2.34 van de wet.  • Het in ontvangst nemen van een kennisgeving als bedoeld in artikel 2.34 van de wet.  • Het verschaffen van informatie aan de bijhoudingsgemeente op grond van hoofdstuk 2, afdeling 1, paragraaf 4, van de wet.  | –  |
+|  *Systematische verstrekking*   | –  | De systematische verstrekking.  | –  | • Berichtuitwisseling met de centrale voorzieningen bij systematische verstrekking van gegevens.  • Het verlenen van medewerking aan een onderzoek als bedoeld in artikel 1.12 van de wet.  | • Berichtuitwisseling met de centrale voorzieningen bij systematische verstrekking van gegevens.  • Het verlenen van medewerking aan een onderzoek als bedoeld in artikel 1.12 van de wet.  |
 |  *Verstrekking door het college*   | Het raadplegen van de centrale voorzieningen in verband met het verstrekken van gegevens door het college.  | Het ontsluiten van de centrale voorzieningen in verband met het verstrekken van gegevens door het college.  | –  | –  | –  |
 |  *Vastleggen van de verstrekkingen*   | Het vastleggen van de verstrekkingen die door het college zijn gedaan.  | • Het vastleggen van de verstrekkingen die door de minister zijn gedaan.  • Het ontsluiten van informatie over het verstrekken van gegevens.  | –  | –  | –  |
 |  *Rechten van de burger*   | Het raadplegen van de centrale voorzieningen in verband met het uitvoering geven aan de rechten van de burger.  | • Het ontsluiten van de centrale voorzieningen voor het uitvoering geven aan de rechten van de burger door het college.  • Het raadplegen van de centrale voorzieningen in verband met het uitvoering geven aan de rechten van de burger door de minister.  | –  | –  | –  |
@@ -791,21 +791,21 @@ I.W. Opstelten
 
 |  *Werkzaamheden*   |  *Categorieën van derden*   |  *Clausulering van de werkzaamheden en beperking van gegevens die kunnen worden verstrekt*   |  Artikel 3.21 * toepasselijk*   |
 |:---|:---|:---|:---|
-|  *De uitvoering van pensioenregelingen *   | • Pensioenfondsen, beroepspensioenfondsen, de Stichting Notarieel Pensioenfonds en premiepensioeninstellingen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md).  • Verzekeraars als bedoeld in [artikel 1 van de Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md).  • De stichting, bedoeld in [artikel 2 van de Wet privatisering FVP](../../../../../wet/wet/privatisering/fvp/BWBR0009756/README.md).  | --- | Nee  |
+|  *De uitvoering van pensioenregelingen *   | • Pensioenfondsen, beroepspensioenfondsen, de Stichting Notarieel Pensioenfonds en premiepensioeninstellingen als bedoeld in artikel 1:1 van de Wet op het financieel toezicht.  • Verzekeraars als bedoeld in artikel 1 van de Pensioenwet.  • De stichting, bedoeld in artikel 2 van de Wet privatisering FVP.  | --- | Nee  |
 |  *De uitvoering van een regeling inzake vervroegd uittreden*   | De stichtingen met als doel het toekennen van een uitkering aan personen wegens vervroegd uittreden.  | --- | Nee  |
-|  *De uitvoering van een spaarregeling die is gericht op een uitkering bij wijze van oudedagsvoorziening*   | Ondernemingsspaarfondsen als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Pensioen- en spaarfondsenwet](../../../../../wet/pensioen-/en/spaarfondsenwet/BWBR0002089/README.md), zoals de Pensioen- en spaarfondsenwet luidde op de dag voorafgaand aan de inwerkingtreding van de [Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md).  | --- | Nee  |
-|  *Het overeenkomstig een wettelijke regeling aanbieden en uitvoeren van zorgverzekeringen*   | Zorgverzekeraars als bedoeld in [artikel 1 van de Zorgverzekeringswet](../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).  | --- | Nee  |
+|  *De uitvoering van een spaarregeling die is gericht op een uitkering bij wijze van oudedagsvoorziening*   | Ondernemingsspaarfondsen als bedoeld in artikel 1, eerste lid, onderdeel d, van de Pensioen- en spaarfondsenwet, zoals de Pensioen- en spaarfondsenwet luidde op de dag voorafgaand aan de inwerkingtreding van de Pensioenwet.  | --- | Nee  |
+|  *Het overeenkomstig een wettelijke regeling aanbieden en uitvoeren van zorgverzekeringen*   | Zorgverzekeraars als bedoeld in artikel 1 van de Zorgverzekeringswet.  | --- | Nee  |
 |  *Het bijhouden van een registratie ten behoeve van de ledenadministratie van kerkgenootschappen en andere genootschappen op geestelijke grondslag*   | Stichting Interkerkelijke Leden-Administratie.  | • De werkzaamheden geschieden zodanig dat:  a. de stichting haar werkzaamheden op gelijke voet verricht voor ieder kerkgenootschap of ander genootschap op geestelijke grondslag, dat daar van gebruik wenst te maken en deze genootschappen desgewenst op gelijke voet deel uit kunnen maken van de organen van de stichting.  | Ja  |
 | --- | --- | b. personen over wie gegevens door de stichting worden verwerkt, worden geïnformeerd dat zij schriftelijk aan de stichting kunnen verzoeken de verwerking van hun gegevens te beëindigen.  | --- |
 | --- | --- | • Uit de basisregistratie kunnen geen andere algemene gegevens worden verstrekt dan: algemene gegevens over de naam, de geslachtsnaam van de echtgenoot, de eerdere echtgenoot, de geregistreerde partner of de eerdere geregistreerde partner en het gebruik door de ingeschrevene van die naam, het adres, de geboortedatum, de datum van overlijden en het administratienummer of het burgerservicenummer van de tot de genootschappen behorende leden.  | --- |
-|  *Het uitvoeren van bevolkingsonderzoek *   | Een rechtspersoon die van Onze Minister van Volksgezondheid, Welzijn en Sport een vergunning heeft verkregen voor het verrichten van een bevolkingsonderzoek als bedoeld in [artikel 3, eerste lid, van de Wet op het bevolkingsonderzoek](../../../../../wet/wet/op/het/bevolkingsonderzoek/BWBR0005699/README.md).  | De werkzaamheden geschieden zodanig dat personen die niet langer uitgenodigd willen worden voor deelname aan het onderzoek worden geïnformeerd dat zij schriftelijk aan de rechtspersoon die het onderzoek verricht kunnen verzoeken de verwerking van hun gegevens te beëindigen.  | Nee  |
-|  *De gezondheidszorgverlening aan patiënten in de instelling*   | Een instelling als bedoeld in [artikel 1 van de Wet toelating zorginstellingen](../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).  | --- | Ja  |
+|  *Het uitvoeren van bevolkingsonderzoek *   | Een rechtspersoon die van Onze Minister van Volksgezondheid, Welzijn en Sport een vergunning heeft verkregen voor het verrichten van een bevolkingsonderzoek als bedoeld in artikel 3, eerste lid, van de Wet op het bevolkingsonderzoek.  | De werkzaamheden geschieden zodanig dat personen die niet langer uitgenodigd willen worden voor deelname aan het onderzoek worden geïnformeerd dat zij schriftelijk aan de rechtspersoon die het onderzoek verricht kunnen verzoeken de verwerking van hun gegevens te beëindigen.  | Nee  |
+|  *De gezondheidszorgverlening aan patiënten in de instelling*   | Een instelling als bedoeld in artikel 1 van de Wet toelating zorginstellingen.  | --- | Ja  |
 |  *De bijhouding van een registratie betreffende overleden personen*   | Stichting Centraal Bureau voor Genealogie.  | De bijhouding geschiedt zonder de verwerking van de uit de basisregistratie verkregen gegevens over een in leven zijnde persoon die de stichting schriftelijk heeft verzocht om beëindiging van die verwerking.  | Nee  |
 |  *De verificatie van de identiteit van betrokkenen in verband met de juiste toerekening van persoonsgegevens bij het aangaan van nieuwe financiële verplichtingen *   | Een instelling die tot taak heeft een registratie in stand te houden betreffende kredieten van natuurlijke personen.  | • De verificatie geschiedt ter voorkoming van overkreditering bij natuurlijke personen van wie gegevens worden verwerkt en uitsluitend bij het aangaan van nieuwe financiële verplichtingen.  | Nee  |
 | --- | --- | • Uit de basisregistratie kunnen geen andere algemene gegevens worden verstrekt dan: de algemene gegevens over de naam, de geboortedatum, het geslacht, het huwelijk dan wel geregistreerd partnerschap en eerdere huwelijken of eerdere geregistreerde partnerschappen, het gebruik door de ingeschrevene van de geslachtsnaam van de echtgenoot, de geregistreerde partner, de eerdere echtgenoot of de eerdere geregistreerde partner, het administratienummer of het burgerservicenummer, het overlijden, het adres en het vertrek uit Nederland.  | --- |
-|  *Het bijhouden van een registratie van donoren ter uitvoering van taken op grond van de Wet inzake bloedvoorziening*   | De Bloedvoorzieningsorganisatie als bedoeld in [artikel 1 van de Wet inzake bloedvoorziening](../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md).  | --- | Nee  |
+|  *Het bijhouden van een registratie van donoren ter uitvoering van taken op grond van de Wet inzake bloedvoorziening*   | De Bloedvoorzieningsorganisatie als bedoeld in artikel 1 van de Wet inzake bloedvoorziening.  | --- | Nee  |
 |  *Het opsporen van personen in het kader van de werkzaamheden op het terrein van de maatschappelijke zorg, bedoeld in artikel 2, onderdeel d, van de Kaderwet VWS-subsidies*   | Stichting Ambulante FIOM.  | De werkzaamheden geschieden zodanig dat geen gegevens aan derden worden verstrekt zonder uitdrukkelijke voorafgaande toestemming van de ingeschrevene.  | Nee  |
-|  *Het opsporen van vermiste personen en het herstellen van contact tussen familieleden die van elkaar gescheiden zijn geraakt*   | De vereniging het Nederlandse Rode Kruis.  | Het vermist raken van personen en het gescheiden raken van familieleden zijn het gevolg van een gewapend conflict, een ramp of andere bijzondere gebeurtenis, als bedoeld in [artikel 3, vierde lid, onderdeel c, van het Besluit Rode Kruis 1988](../../../../../rijksKB/besluit/rode/kruis/1988/BWBR0004470/README.md).  | Nee  |
+|  *Het opsporen van vermiste personen en het herstellen van contact tussen familieleden die van elkaar gescheiden zijn geraakt*   | De vereniging het Nederlandse Rode Kruis.  | Het vermist raken van personen en het gescheiden raken van familieleden zijn het gevolg van een gewapend conflict, een ramp of andere bijzondere gebeurtenis, als bedoeld in artikel 3, vierde lid, onderdeel c, van het Besluit Rode Kruis 1988.  | Nee  |
 
 ### Bijlage 5 
 
@@ -816,9 +816,9 @@ I.W. Opstelten
 |  *Werkzaamheden*   |  *Categorieën van derden*   |  *Clausulering van de werkzaamheden en beperking van gegevens die kunnen worden verstrekt*   |  Artikel 3.21  * toepasselijk*   |
 |:---|:---|:---|:---|
 |  *Gerechtelijke werkzaamheden*   | Een derde die uit hoofde van ambt of beroep gewoonlijk met de hiervoor genoemde werkzaamheden is belast.  | De werkzaamheden geschieden in verband met de uitvoering van een algemeen verbindend voorschrift.  | Ja  |
-|  *Het honoreren van aanspraken van gerechtigden op, al dan niet op termijn opvorderbare gelden, effecten of goederen op de instellingen of verzekeraar*   | Banken, effecteninstellingen, verzekeraars en beleggingsinstellingen als bedoeld in [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), die zijn ingeschreven in het in [artikel 1:107 van die wet](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) bedoelde register.  | Uit de basisregistratie kunnen geen andere algemene gegevens worden verstrekt dan: de algemene gegevens geslachtsnaam, voornamen, geboortedatum, geboorteplaats, overlijdensdatum, algemene gegevens over het adres en datum vertrek uit Nederland.  | Nee  |
+|  *Het honoreren van aanspraken van gerechtigden op, al dan niet op termijn opvorderbare gelden, effecten of goederen op de instellingen of verzekeraar*   | Banken, effecteninstellingen, verzekeraars en beleggingsinstellingen als bedoeld in artikel 1:1 van de Wet op het financieel toezicht, die zijn ingeschreven in het in artikel 1:107 van die wet bedoelde register.  | Uit de basisregistratie kunnen geen andere algemene gegevens worden verstrekt dan: de algemene gegevens geslachtsnaam, voornamen, geboortedatum, geboorteplaats, overlijdensdatum, algemene gegevens over het adres en datum vertrek uit Nederland.  | Nee  |
 |  *Het opsporen van personen in het kader van de werkzaamheden op het terrein van de maatschappelijke zorg, bedoeld in artikel 2, onderdeel d, van de Kaderwet VWS-subsidies*   | Stichting Ambulante FIOM.  | De werkzaamheden geschieden zodanig dat geen gegevens aan derden worden verstrekt zonder uitdrukkelijke voorafgaande toestemming van de ingeschrevene.  | Nee  |
-|  *Het uitvoeren van de taken, bedoeld in artikel 21b, tweede lid, van de Wet maatschappelijke ondersteuning*   | Een steunpunt huiselijk geweld als bedoeld in [artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), niet zijnde een overheidsorgaan.  | Uit de basisregistratie kunnen geen andere algemene gegevens worden verstrekt dan: de algemene gegevens, bedoeld in [artikel 2.7, eerste lid, onderdeel a, onder 1° tot en met 6°, van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).  | Nee  |
+|  *Het uitvoeren van de taken, bedoeld in artikel 21b, tweede lid, van de Wet maatschappelijke ondersteuning*   | Een steunpunt huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning, niet zijnde een overheidsorgaan.  | Uit de basisregistratie kunnen geen andere algemene gegevens worden verstrekt dan: de algemene gegevens, bedoeld in artikel 2.7, eerste lid, onderdeel a, onder 1° tot en met 6°, van de wet.  | Nee  |
 
 ### Bijlage 6 
 

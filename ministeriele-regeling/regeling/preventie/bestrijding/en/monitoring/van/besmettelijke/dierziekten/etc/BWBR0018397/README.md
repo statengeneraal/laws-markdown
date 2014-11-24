@@ -249,7 +249,7 @@ bx. verordening (EG) nr. 616/2009: verordening (EG) nr. 616/2009 van de Commissi
 
 by.  *verordening (EG) nr. 175/2010:* verordening (EG) nr. 175/2010 van de Commissie van de Europese Gemeenschappen van 2 maart 2010 ter uitvoering van Richtlijn 2006/88/EG van de Raad wat betreft maatregelen ter bestrijding van de verhoogde mortaliteit bij oesters van de soort Crassostrea gigas in samenhang met de detectie van het Ostreid herpesvirus 1 µvar (OsHV-1 µvar); 
 
-bz. Verordening (EG) nr. 998/2003: Verordening (EG) nr. 998/2003 van het Europees Parlement en de Raad van de Europese Unie van 26 mei 2003 inzake veterinairrechtelijke voorschriften voor het niet-commerciële verkeer van gezelschapsdieren en houdende wijziging van Richtlijn 92/95/EEG van de Raad (PbEU L 146); 
+bz.Verordening (EU) nr. 576/2013: Verordening (EU) nr. 576/2013 van het Europees Parlement en de Raad van 12 juni 2013 betreffende het niet-commerciële verkeer van gezelschapsdieren en tot intrekking van Verordening (EG) nr. 998/2003 (PbEU L 178); 
 
 ca.  richtlijn 2005/94/EG: richtlijn 2005/94/EG van de Raad van 20 december 2005 betreffende communautaire maatregelen ter bestrijding van aviaire influenza en tot intrekking van Richtlijn 92/40/EG, bijlage I (PbEU 2006, L10);  
 
@@ -1681,7 +1681,7 @@ c.ontsmetten hun handen, bedrijfskleding en schoeisel met het door de ambtenaar 
 
 ### Artikel  113c  
 
-Ingevolge artikel 2, vierde lid, van het Besluit gebruik sera en entstoffen wordt ter behandeling tegen rabiës een recombinant vaccin als bedoeld in bijlage I*ter*, onderdeel 1, onder a, onder ii, van Verordening (EG) nr. 998/2003 aangewezen.
+Ingevolge artikel 2, vierde lid, van het Besluit gebruik sera en entstoffen wordt ter behandeling tegen rabiës een recombinant vaccin als bedoeld in bijlage III, onderdeel 1, onder a, onder ii, van Verordening (EU) nr. 576/2013 aangewezen.
 
 ### Titel  6  
 

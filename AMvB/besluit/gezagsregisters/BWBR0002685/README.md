@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 24 september 1969, Stafafdeling Wetgeving nieuw Burgerlijk Wetboek, nr. 373/669;
 
-Gelet op [artikel 244 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);
+Gelet op artikel 244 van Boek 1 van het Burgerlijk Wetboek;
 
 De Raad van State gehoord (advies van 22 oktober 1969 nr. 41);
 
@@ -15,27 +15,27 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In het ingevolge [artikel 244 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) bij elke rechtbank berustende openbaar register tekent de griffier rechtsfeiten aan, die betrekking hebben op de gezagsuitoefening over minderjarigen. 
+In het ingevolge artikel 244 van Boek 1 van het Burgerlijk Wetboek bij elke rechtbank berustende openbaar register tekent de griffier rechtsfeiten aan, die betrekking hebben op de gezagsuitoefening over minderjarigen. 
 
 ### Artikel  2  
 
 In het register wordt aantekening gehouden van:  
 
-a. alle rechterlijke beslissingen, waarbij in het over minderjarigen uit te oefenen gezag hetzij blijvend, hetzij tijdelijk wordt voorzien of wijziging gebracht ingevolge de [artikelen 77, tweede lid onder a](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [251](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [251a](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [253](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [253b tot en met 253d](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [253g tot en met 253ha](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [253n](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [253o](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [253q](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [253r](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [253t](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [253v](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [253x](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [266](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [269](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [271](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [274](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [275](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [277](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [282](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [295 tot en met 297](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [299a](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [302](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [322](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [323](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [324](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [327](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [328](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [331](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [334](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [425, tweede lid](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [430, tweede lid](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [453a van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [artikel 4, tweede lid, van de Uitvoeringswet internationale kinderontvoering](../../../../wet/uitvoeringswet/internationale/kinderontvoering/BWBR0004746/README.md) alsmede de [artikelen 4, vierde lid](../../../../wet/uitvoeringswet/internationale/kinderbescherming/BWBR0019574/README.md), [12](../../../../wet/uitvoeringswet/internationale/kinderbescherming/BWBR0019574/README.md), [15](../../../../wet/uitvoeringswet/internationale/kinderbescherming/BWBR0019574/README.md) en [18 van de Uitvoeringswet internationale kinderbescherming](../../../../wet/uitvoeringswet/internationale/kinderbescherming/BWBR0019574/README.md);  
+a. alle rechterlijke beslissingen, waarbij in het over minderjarigen uit te oefenen gezag hetzij blijvend, hetzij tijdelijk wordt voorzien of wijziging gebracht ingevolge de artikelen 77, tweede lid onder a, 251, 251a, 253, 253b tot en met 253d, 253g tot en met 253ha, 253n, 253o, 253q, 253r, 253t, 253v, 253x, 266, 269, 271, 274, 275, 277, 282, 295 tot en met 297, 299a, 302, 322, 323, 324, 327, 328, 331, 334, 425, tweede lid, 430, tweede lid en 453a van Boek 1 van het Burgerlijk Wetboek, artikel 4, tweede lid, van de Uitvoeringswet internationale kinderontvoering alsmede de artikelen 4, vierde lid, 12, 15 en 18 van de Uitvoeringswet internationale kinderbescherming;  
 
 b. de beslissingen met betrekking tot de gezagsuitoefening gegeven in het Caribisch deel van het Koninkrijk voor minderjarigen die zich in Nederland willen vestigen;  
 
 c. de buitenslands gegeven rechterlijke beslissingen met betrekking tot de gezagsuitoefening die van rechtswege worden erkend; 
 
-d. de aantekening van gezamenlijk gezag, bedoeld in [artikel 252 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+d. de aantekening van gezamenlijk gezag, bedoeld in artikel 252 van Boek 1 van het Burgerlijk Wetboek;  
 
-e. de aantekening van gezag na overlijden, bedoeld in [artikel 292 van Boek I van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md); 
+e. de aantekening van gezag na overlijden, bedoeld in artikel 292 van Boek I van het Burgerlijk Wetboek; 
 
 f. meerderjarigverklaring, voor zover de desbetreffende moeder daardoor van rechtswege het gezag over haar kind verkrijgt, ondertoezichtstelling, voorlopige ondertoezichtstelling, verlenging of verkorting van de ondertoezichtstelling en de vervanging van de gezinsvoogdijinstelling door een andere;  
 
-g. de maatregel van voorlopige voogdij ingevolgde de artikelen [241](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [271](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [272](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [331](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [332 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [artikel 13, vierde lid, van de Uitvoeringswet internationale kinderontvoering](../../../../wet/uitvoeringswet/internationale/kinderontvoering/BWBR0004746/README.md), [artikel 10, eerste lid, van de Wet opneming buitenlandse kinderen ter adoptie](../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md), alsmede op grond van enige andere wet;  
+g. de maatregel van voorlopige voogdij ingevolgde de artikelen 241, 271, 272, 331 en 332 van Boek 1 van het Burgerlijk Wetboek, artikel 13, vierde lid, van de Uitvoeringswet internationale kinderontvoering, artikel 10, eerste lid, van de Wet opneming buitenlandse kinderen ter adoptie, alsmede op grond van enige andere wet;  
 
-h. benoeming of ontslag van een bewindvoerder of opheffing van het bewind overeenkomstig [artikel 370 van Boek 1 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+h. benoeming of ontslag van een bewindvoerder of opheffing van het bewind overeenkomstig artikel 370 van Boek 1 van het Burgerlijk Wetboek;  
 
 i. alle rechterlijke beslissingen waarbij een der onder a, b, c, f en g bedoelde beslissingen dan wel de aantekeningen onder d en e worden bekrachtigd, vernietigd of herroepen;  
 
@@ -67,7 +67,7 @@ Binnen de eerste drie maanden van elk kalenderjaar worden de gegevens betreffend
 
 ### Artikel  10  
 
-1.  De griffier is verplicht aan ieder kosteloos inzage van het register te verstrekken. Hij is voorts verplicht om - met inachtneming van het bij of krachtens de [Wet griffierechten burgerlijke zaken](../../../../wet/wet/griffierechten/burgerlijke/zaken/BWBR0028899/README.md) bepaalde - aan ieder een uittreksel uit het register te verstrekken. Het verzoek tot inzage in het register dan wel tot verstrekking van een uittreksel daaruit dient op een bepaalde minderjarige betrekking te hebben.   
+1.  De griffier is verplicht aan ieder kosteloos inzage van het register te verstrekken. Hij is voorts verplicht om - met inachtneming van het bij of krachtens de Wet griffierechten burgerlijke zaken bepaalde - aan ieder een uittreksel uit het register te verstrekken. Het verzoek tot inzage in het register dan wel tot verstrekking van een uittreksel daaruit dient op een bepaalde minderjarige betrekking te hebben.   
 2.   Het eerste lid is mede van toepassing op de inzage en de verstrekking van uittreksels van de gegevens die reeds overeenkomstig artikel 9, uit het register zijn gelicht.   
 3.  Aan overheidsorganen en derden kan rechtstreeks toegang tot het register worden verleend voorzover deze toegang noodzakelijk is voor de goede vervulling van hun taken. Deze toegang heeft betrekking op een bepaalde minderjarige. 
 

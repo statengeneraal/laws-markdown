@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 mei 2013, kenmerk 118705-104010-WJZ, in overeenstemming met de Staatssecretaris van Veiligheid en Justitie, Onze Minister van Onderwijs, Cultuur en Wetenschap en Onze Minister van Sociale Zaken en Werkgelegenheid;
 
-Gelet op de [artikelen 5a, vijfde lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), [7b, vijfde lid, van de Beginselenwet verpleging ter beschikking gestelden](../../../../../../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), [5b, vijfde lid, van de Penitentiaire beginselenwet](../../../../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [9a, vijfde lid, van de Wet Centraal Orgaan opvang asielzoekers](../../../../../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md), [artikel 16 van het Wetboek van Strafrecht](../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [16, negende lid, van de Leerplichtwet 1969](../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md), [1.3.9, vijfde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [5, vijfde lid, van de Wet op de expertisecentra](../../../../../../../../../wet/isovso/BWBR0003549/README.md), [1.21, vijfde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md), [4b, vijfde lid, van de Wet op het primair onderwijs](../../../../../../../../../wet/wbo/BWBR0003420/README.md), [3a, vijfde lid, van de Wet op het voortgezet onderwijs](../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [1.51a, vijfde lid](../../../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) en [2.9a, vijfde lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), [3a, vijfde lid, van de Kwaliteitswet zorginstellingen](../../../../../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md), [10b, tweede lid](../../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en [21f, vierde lid, van de Wet maatschappelijke ondersteuning](../../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), [40a van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), [13b, derde lid](../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en [25a, derde lid, van de Wet op de jeugdzorg](../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en [15a, vijfde lid, van de Wet publieke gezondheid](../../../../../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md);
+Gelet op de artikelen 5a, vijfde lid, van de Beginselenwet justitiële jeugdinrichtingen, 7b, vijfde lid, van de Beginselenwet verpleging ter beschikking gestelden, 5b, vijfde lid, van de Penitentiaire beginselenwet, 9a, vijfde lid, van de Wet Centraal Orgaan opvang asielzoekers, artikel 16 van het Wetboek van Strafrecht, 16, negende lid, van de Leerplichtwet 1969, 1.3.9, vijfde lid, van de Wet educatie en beroepsonderwijs, 5, vijfde lid, van de Wet op de expertisecentra, 1.21, vijfde lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, 4b, vijfde lid, van de Wet op het primair onderwijs, 3a, vijfde lid, van de Wet op het voortgezet onderwijs, 1.51a, vijfde lid en 2.9a, vijfde lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen, 3a, vijfde lid, van de Kwaliteitswet zorginstellingen, 10b, tweede lid en 21f, vierde lid, van de Wet maatschappelijke ondersteuning, 40a van de Wet op de beroepen in de individuele gezondheidszorg, 13b, derde lid en 25a, derde lid, van de Wet op de jeugdzorg en 15a, vijfde lid, van de Wet publieke gezondheid;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 20 juni 2013, No. W13.13.0150/III);
 
@@ -21,11 +21,11 @@ a. *meldcode:* meldcode huiselijk geweld en kindermishandeling;
 
 b. *melding:* melding van huiselijk geweld of kindermishandeling of een vermoeden daarvan;  
 
-c. *verwijsindex risicojongeren:* verwijsindex risico-jongeren als bedoeld in [artikel 2d, eerste lid, van de Wet op de jeugdzorg](../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+c. *verwijsindex risicojongeren:* verwijsindex risico-jongeren als bedoeld in artikel 2d, eerste lid, van de Wet op de jeugdzorg;  
 
 d. *cliënt:* vermoedelijk slachtoffer, pleger of getuige van huiselijk geweld of kindermishandeling waarmee de professional beroepsmatig in contact staat;  
 
-e. *betrokkene:* betrokkene als bedoeld in [artikel 1 van de Wet bescherming persoonsgegevens](../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
+e. *betrokkene:* betrokkene als bedoeld in artikel 1 van de Wet bescherming persoonsgegevens;  
 
 f. *kindcheck:* gestandaardiseerde controle of een cliënt verantwoordelijk is voor de verzorging en opvoeding van een of meer minderjarigen, met het oog op de veiligheid van hen.   
 
@@ -39,7 +39,7 @@ b. een toebedeling van verantwoordelijkheden aan de diverse groepen medewerkers 
 
 c. specifieke aandacht, indien van toepassing, voor bijzondere vormen van geweld, die speciale kennis en vaardigheden van personeel vereisen;  
 
-d. indien sprake is van een op grond van [artikel 2b van de Wet op de jeugdzorg](../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) meldingsbevoegde instantie of functionaris, specifieke aandacht voor de mogelijkheid van het gebruik van de verwijsindex risicojongeren;  
+d. indien sprake is van een op grond van artikel 2b van de Wet op de jeugdzorg meldingsbevoegde instantie of functionaris, specifieke aandacht voor de mogelijkheid van het gebruik van de verwijsindex risicojongeren;  
 
 e. voor zover van toepassing instructies voor het uitvoeren van een kindcheck bij cliënten;  
 

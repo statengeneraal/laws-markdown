@@ -3,7 +3,7 @@
 ##Regeling houdende nadere regels met betrekking tot de aanspraak op zorg ingevolge het Besluit zorgaanspraken AWBZ en wijziging van andere regelingen in verband met invoering van dat besluit alsmede wijziging van de Regeling subsidies AWBZ en Ziekenfondswet 
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport, mede namens de Minister van Sociale Zaken en Werkgelegenheid;  
-Gelet op [artikel 2, derde lid, van de Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md), [artikel 1p van de Ziekenfondswet](../../../../../wet/ziekenfondswet/BWBR0002460/README.md), de [artikelen 2, vierde lid](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [13, eerste lid](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [17](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [18 van het Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [artikel 16 van het Verstrekkingenbesluit ziekenfondsverzekering](../../../../../AMvB/verstrekkingenbesluit/ziekenfondsverzekering/BWBR0002520/README.md);
+Gelet op artikel 2, derde lid, van de Wet voorzieningen gehandicapten, artikel 1p van de Ziekenfondswet, de artikelen 2, vierde lid, 13, eerste lid, 17 en 18 van het Besluit zorgaanspraken AWBZ en artikel 16 van het Verstrekkingenbesluit ziekenfondsverzekering;
 Besluit:     
 ### Hoofdstuk I 
 
@@ -13,7 +13,7 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. het Besluit: het [Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md);  
+a. het Besluit: het Besluit zorgaanspraken AWBZ;  
 
 b. intramurale zorg: zorg waarbij sprake is van opneming of verblijf in een instelling gedurende tenminste één nacht;  
 
@@ -31,7 +31,7 @@ f. zorgzwaartepakket: naar aard, inhoud en omvang bij een cliëntprofiel passend
 
 ### Artikel  1a  
 
-1. De verzekerde die is aangewezen op verblijf als bedoeld in [artikel 9, eerste en tweede lid, van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) of op voortgezet verblijf als bedoeld in [artikel 13, tweede lid, van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) heeft aanspraak op zorg die is opgenomen in het zorgzwaartepakket, behorend bij het cliëntprofiel waarin hij het best past.  
+1. De verzekerde die is aangewezen op verblijf als bedoeld in artikel 9, eerste en tweede lid, van het Besluit of op voortgezet verblijf als bedoeld in artikel 13, tweede lid, van het Besluit heeft aanspraak op zorg die is opgenomen in het zorgzwaartepakket, behorend bij het cliëntprofiel waarin hij het best past.  
 2.  De verzekerde heeft aanspraak op meer zorg dan waarop hij op grond van het eerste lid aanspraak heeft, voor zover naar het oordeel van de zorgverzekeraar meer zorg nodig is om te voorzien in zijn behoefte aan zorg en: 
 
 a. de verzekerde die is aangewezen op zorgzwaartepakket VG-5, VG-7, VG-8, LG-5, LG-7, ZG-3 auditief, ZG-5 visueel, LVG-4, LVG-5 of SGLVG een behoefte aan zorg heeft die minimaal 25% hoger is dan de in dat zorgzwaartepakket opgenomen zorg, of  
@@ -40,7 +40,7 @@ b. de behoefte aan zorg tevens bestaat uit gespecialiseerde epilepsiezorg, chron
 
 ### Artikel  2  
 
-1.  Indien het verblijf van de verzekerde in een instelling wordt beëindigd in verband met verblijf als bedoeld in [artikel 2.10 van het Besluit zorgverzekering](../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), bestaat nog gedurende een periode van ten hoogste acht dagen aanspraak op tandheelkundige zorg.   
+1.  Indien het verblijf van de verzekerde in een instelling wordt beëindigd in verband met verblijf als bedoeld in artikel 2.10 van het Besluit zorgverzekering, bestaat nog gedurende een periode van ten hoogste acht dagen aanspraak op tandheelkundige zorg.   
 2.  Tot negen weken na beëindiging van het verblijf in een instelling bestaat aanspraak op de levering en het aanbrengen van een nieuwe of overgezette tandheelkundige prothese, zijnde een plaat-, overkappings-, opbouw- of frameprothese, alsmede van kronen of bruggen, indien deze tandheelkundige hulp voor het beëindigen van het verblijf was aangevangen. De zorgverzekeraar kan, gehoord de adviserend tandarts, een langere termijn van ten hoogste tweeënvijftig weken vaststellen.  
 
 ###Artikel 3 
@@ -52,20 +52,20 @@ b. de behoefte aan zorg tevens bestaat uit gespecialiseerde epilepsiezorg, chron
 
 ### Artikel  4  
 
-1.   Bij doventolkzorg als bedoeld in [artikel 12 van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), bestaat aanspraak op maximaal 30 uren zorg door een doventolk, dan wel indien de verzekerde doofblind is, aanspraak op maximaal 168 uren per kalenderjaar.   
+1.   Bij doventolkzorg als bedoeld in artikel 12 van het Besluit, bestaat aanspraak op maximaal 30 uren zorg door een doventolk, dan wel indien de verzekerde doofblind is, aanspraak op maximaal 168 uren per kalenderjaar.   
 2.   In afwijking van het eerste lid bestaat aanspraak op meer uren, indien het niet verlenen van meer uren voor de verzekerde zal leiden tot een onbillijkheid van overwegende aard.  
 3.  Aanspraak op zorg door een doventolk bestaat slechts indien de zorg minimaal 30 minuten duurt.
 
 ### Artikel  5  
 
-1.  Het onderzoek, bedoeld in [artikel 17, eerste lid, van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), omvat onderzoek naar het voorkomen van Adrenogenitaal syndroom, Biotinidase deficiëntie, Congenitale hypothyreoïdie, Galactosemie, Cystic Fibrosis, Glutaar acidurie type I, G-CoA-lyase deficiëntie, Holocarboxylase synthase deficiëntie, Homocystinurie, Isovaleriaan acidemie, Long-chain hydroxyacyl-CoA dehydrogenase deficiëntie, Maple syrup urine disease, Medium-chain acylCoA dehydrogenase deficiëntie, 3-methylcrotonyl-CoAcarboxylase deficiëntie, Phenylketonurie, Sikkelcelziekte, Thalassemie, Tyrosinemie type I en Very long-chain acylCoA dehydrogenase deficiëntie en wordt uitgevoerd door een laboratorium dat daartoe door het Rijksinstituut voor volksgezondheid en milieu is aangewezen.   
+1.  Het onderzoek, bedoeld in artikel 17, eerste lid, van het Besluit, omvat onderzoek naar het voorkomen van Adrenogenitaal syndroom, Biotinidase deficiëntie, Congenitale hypothyreoïdie, Galactosemie, Cystic Fibrosis, Glutaar acidurie type I, G-CoA-lyase deficiëntie, Holocarboxylase synthase deficiëntie, Homocystinurie, Isovaleriaan acidemie, Long-chain hydroxyacyl-CoA dehydrogenase deficiëntie, Maple syrup urine disease, Medium-chain acylCoA dehydrogenase deficiëntie, 3-methylcrotonyl-CoAcarboxylase deficiëntie, Phenylketonurie, Sikkelcelziekte, Thalassemie, Tyrosinemie type I en Very long-chain acylCoA dehydrogenase deficiëntie en wordt uitgevoerd door een laboratorium dat daartoe door het Rijksinstituut voor volksgezondheid en milieu is aangewezen.   
 2.  Aanspraak op het onderzoek, bedoeld in het eerste lid, bestaat voor de zuigeling die de leeftijd van twee maanden nog niet heeft bereikt, en in zeer bijzondere gevallen voor oudere zuigelingen.   
 3.  Het onderzoek, bedoeld in het eerste lid, vindt in de regel plaats op de leeftijd van vier tot en met zeven dagen van betrokkene.   
 4.  Het laboratoriumonderzoek, bedoeld in het eerste lid, wordt uitgevoerd volgens de onderzoekmethoden, vastgesteld door het Rijksinstituut voor volksgezondheid en milieu, dat tevens voor dit laboratoriumonderzoek wordt aangewezen als referentie-instituut.   
 
 ### Artikel  6  
 
-1. Het vaccinatieprogramma van het [Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) omvat toediening van de hierna aangegeven vaccins, afgeleverd door of vanwege het Rijksinstituut voor Volksgezondheid en Milieu, aan de daartoe opgeroepen verzekerden:
+1. Het vaccinatieprogramma van het Besluit omvat toediening van de hierna aangegeven vaccins, afgeleverd door of vanwege het Rijksinstituut voor Volksgezondheid en Milieu, aan de daartoe opgeroepen verzekerden:
 
 a.in de leeftijd tot 1 maand het hepatitis B-vaccin indien de moeder van de verzekerde HbsAg-positief is;
 
@@ -90,15 +90,15 @@ h. geboren in het negende kalenderjaar, voorafgaande aan het lopende kalenderjaa
 
 ### Artikel  7  
 
-1. De verzekerde heeft slechts aanspraak op de zorg, bedoeld in de [artikelen 4](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [5](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [6](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [8](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9a](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [13, eerste en tweede lid, van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), indien binnen twee weken na de aanvang van de zorg door of namens hem aan het uitvoeringsorgaan is gemeld met ingang van welke datum de zorg is aangevangen, welke zorg wordt geleverd en wie die zorg levert.   
-2.  De verzekerde heeft slechts aanspraak op de zorg, bedoeld in [artikel 12 van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), indien hij aan de zorgverzekeraar een verklaring van de huisarts of behandelend keel-, neus en oorarts heeft overgelegd waaruit blijkt dat hij op die zorg is aangewezen.  
+1. De verzekerde heeft slechts aanspraak op de zorg, bedoeld in de artikelen 4, 5, 6, 8, 9, 9a en 13, eerste en tweede lid, van het Besluit, indien binnen twee weken na de aanvang van de zorg door of namens hem aan het uitvoeringsorgaan is gemeld met ingang van welke datum de zorg is aangevangen, welke zorg wordt geleverd en wie die zorg levert.   
+2.  De verzekerde heeft slechts aanspraak op de zorg, bedoeld in artikel 12 van het Besluit, indien hij aan de zorgverzekeraar een verklaring van de huisarts of behandelend keel-, neus en oorarts heeft overgelegd waaruit blijkt dat hij op die zorg is aangewezen.  
 3.  Het vierde lid is niet van toepassing indien de verzekerde: 
 
 a. dovenonderwijs volgt of heeft gevolgd,  
 
-b. ingevolge de [Wet op de (re)integratie arbeidsgehandicapten](../../../../../wet/wet/op/de/(re)integratie/arbeidsgehandicapten/BWBR0009565/README.md) voor zorg door een doventolk in de werk- en onderwijssituatie vergoeding ontvangt, of  
+b. ingevolge de Wet op de (re)integratie arbeidsgehandicapten voor zorg door een doventolk in de werk- en onderwijssituatie vergoeding ontvangt, of  
 
-c. op grond van [artikel 1p van de Ziekenfondswet](../../../../../wet/ziekenfondswet/BWBR0002460/README.md) zoals die bepaling op 31 december 2005 luidde, zorg door een doventolk heeft ontvangen.   
+c. op grond van artikel 1p van de Ziekenfondswet zoals die bepaling op 31 december 2005 luidde, zorg door een doventolk heeft ontvangen.   
 
 ### Artikel  9  
 
@@ -123,7 +123,7 @@ b.€ 500, indien het een niet-elektrisch aangedreven rolstoel betreft.
 
 ###Artikel 15 
 
-De verzekerde die verblijft in een instelling als bedoeld in [artikel 9 van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) in verband met een psychiatrische aandoening dan wel in een instelling als bedoeld in [artikel 13 van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), behoudt aanspraak op dat verblijf gedurende vier weken nadat een indicatiebesluit als bedoeld in [artikel 9b, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) is vastgesteld waaruit blijkt dat hij geïndiceerd is voor verblijf in een instelling als bedoeld in [artikel 9 van het Besluit](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) in verband met een somatische of psychogeriatrische aandoening, mits dat voortgezette verblijf verband houdt met een tekort aan plaatsingsmogelijkheden. 
+De verzekerde die verblijft in een instelling als bedoeld in artikel 9 van het Besluit in verband met een psychiatrische aandoening dan wel in een instelling als bedoeld in artikel 13 van het Besluit, behoudt aanspraak op dat verblijf gedurende vier weken nadat een indicatiebesluit als bedoeld in artikel 9b, eerste lid, van de Algemene Wet Bijzondere Ziektekosten is vastgesteld waaruit blijkt dat hij geïndiceerd is voor verblijf in een instelling als bedoeld in artikel 9 van het Besluit in verband met een somatische of psychogeriatrische aandoening, mits dat voortgezette verblijf verband houdt met een tekort aan plaatsingsmogelijkheden. 
 
 ### Artikel 16  
 

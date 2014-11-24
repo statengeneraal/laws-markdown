@@ -367,88 +367,18 @@ b. een aanspraak op een vorm van zorg als bedoeld in artikel 5, tweede lid, onde
 
 ### Hoofdstuk  8a  
 
-####Burgerservicenummer
+####De kwaliteit van de zorgaanbieder
 
-### §  1  
+### Artikel  23a  
 
-####De autorisatielijst
-
-### Artikel  24  
-
-Bij regeling van Onze Minister wordt bepaald welke gegevens en bescheiden worden verstrekt bij de aanvraag om te worden opgenomen in de autorisatielijst. 
-
-### Artikel  24a  
-
-1.  Onze Minister stelt, aan de hand van bij of krachtens de wet gestelde vereisten voor de hoedanigheid van de zorgaanbieder, vast of de aanvraag, bedoeld in artikel 24, is gedaan door een zorgaanbieder.   
-2.  De aanvraag wordt in ieder geval afgewezen indien deze niet is gedaan door een zorgaanbieder.  
-
-### Artikel  24b  
-
-1.  In de autorisatielijst wordt per inschrijving opgenomen: 
-
-a. indien de geautoriseerde een natuurlijke persoon is: 
-
-1°. geslachtsnaam;  
-
-2°. voornamen;  
-
-3°. geboortedatum;  
-
-4°. geboorteplaats;  
-
-5°. titel in de zin van de Wet op de beroepen in de individuele gezondheidszorg;    
-
-b. indien de geautoriseerde een rechtspersoon is: de naam.     
-2.  In de autorisatielijst wordt voorts per inschrijving opgenomen: 
-
-a. aard van de gegevens en bescheiden aan de hand waarvan is vastgesteld dat de geautoriseerde een zorgaanbieder is;  
-
-b. datum van opname in de autorisatielijst;  
-
-c. adres van vestiging;  
-
-d. gegevens met betrekking tot verstrekte en ingetrokken toegangsmiddelen.     
-3.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld over de opname en verwerking van gegevens in de autorisatielijst.  
-
-### Artikel  24c  
-
-De geautoriseerde stelt Onze Minister onmiddellijk op de hoogte van een wijziging van de in de autorisatielijst opgenomen gegevens en van omstandigheden die van belang kunnen zijn voor het schorsen of doorhalen van de opname. 
-
-### Artikel  24d  
-
-1.  Verwijdering van de autorisatielijst vindt slechts plaats: 
-
-a. op verzoek van de geautoriseerde, of  
-
-b. indien de geautoriseerde geen zorgaanbieder meer is.     
-2.  Zolang de inschrijving van een zorgaanbieder in het register, bedoeld in artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg, is geschorst, is zijn opname in de autorisatielijst van jeugdzorgaanbieders geschorst.  
-
-### Artikel  24e  
-
-1.  Onze Minister deelt aan een ieder die daarom verzoekt mede of: 
-
-a. een zorgaanbieder is opgenomen op de autorisatielijst;  
-
-b. een aan een geautoriseerde verstrekt toegangsmiddel geldig is.     
-2.  Indien het verzoek wordt gedaan door de voorzieningen als bedoeld in artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer, wordt de mededeling, bedoeld in het eerste lid, onmiddellijk gedaan.  
-
-### §  2  
-
-####SBV-Z en toegangsmiddelen
-
-### Artikel  24f  
-
-Zorgaanbieders kunnen uitsluitend gebruik maken van de voorzieningen, bedoeld in artikel 3, eerste lid, onder c en d, van de Wet algemene bepalingen burgerservicenummer uitsluitend door tussenkomst van de SBV-Z. 
-
-### Artikel  24g  
-
-Onze Minister kan op aanvraag middelen verschaffen waarmee de geautoriseerde toegang kan verkrijgen tot de SBV-Z. De artikelen 18 tot en met 25 en 33 van het Besluit gebruik burgerservicenummer in de zorg zijn van overeenkomstige toepassing op de aanvraag, het overleggen van gegevens en bescheiden, de verstrekking, de vergoeding, het gebruik, de intrekking, geldigheidsduur en eigendom van toegangsmiddelen, met dien verstande dat daarbij onder «geregistreerde» verstaan wordt: geautoriseerde. 
+1.  Indien toepassing is gegeven aan artikel 68a, eerste lid, worden de taken waarmee de zorgaanbieder bij of krachtens de wet is belast, verricht door of onder verantwoordelijkheid van een geregistreerde jeugdprofessional. De zorgaanbieder houdt bij de toedeling van taken rekening met de specifieke kennis en vaardigheden op basis waarvan de geregistreerde jeugdprofessional is ingeschreven in het kwaliteitsregister jeugd.   
+2.  In afwijking van het eerste lid kan de zorgaanbieder anderen dan geregistreerde jeugdprofessionals met de uitvoering van taken belasten indien hij aannemelijk kan maken dat de kwaliteit van de zorgverlening daardoor niet nadelig wordt beïnvloed. De zorgaanbieder belast anderen met die taken indien dit noodzakelijk is voor de kwaliteit van de zorgverlening.   
+3.  De zorgaanbieder draagt er zorg voor dat geregistreerde jeugdprofessionals hun taken kunnen verrichten met inachtneming van de professionele standaarden waaraan zij door de inschrijving in het kwaliteitsregister jeugd zijn gebonden.   
+4.  Dit artikel is niet van toepassing op zorgaanbieders als bedoeld in artikel 18, tweede lid, van de wet.  
 
 ### Hoofdstuk  8b  
 
 ####Burgerservicenummer
-
-Treedt in werking per 15-11-2014 
 
 ### §  1  
 
