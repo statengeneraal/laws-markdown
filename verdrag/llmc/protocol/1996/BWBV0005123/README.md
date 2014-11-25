@@ -4,13 +4,13 @@
 
 ####Protocol of 1996 to amend the Convention on Limitation of Liability for Maritime Claims, 1976
 
-The Parties to the present Protocol, Considering that it is desirable to amend the [Convention on Limitation of Liability for Maritime Claims](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md), done at London on 19 November 1976, to provide for enhanced compensation and to establish a simplified procedure for updating the limitation amounts,  Have agreed as follows:  
+The Parties to the present Protocol, Considering that it is desirable to amend the Convention on Limitation of Liability for Maritime Claims, done at London on 19 November 1976, to provide for enhanced compensation and to establish a simplified procedure for updating the limitation amounts,  Have agreed as follows:  
 
 ### Article  1  
 
 For the purposes of this Protocol: 
 
-1.  “Convention” means the [Convention on Limitation of Liability for Maritime Claims, 1976](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md).  
+1.  “Convention” means the Convention on Limitation of Liability for Maritime Claims, 1976.  
 
 2.  ‘Organization’ means the International Maritime Organization.  
 
@@ -44,17 +44,17 @@ Wijzigt het Verdrag inzake beperking van aansprakelijkheid voor maritieme vorder
 
 ####Amendment of limits
 
-1.   Upon the request of at least one half, but in no case less than six, of the States Parties to this Protocol, any proposal to amend the limits specified in [article 6, paragraph 1](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md), [article 7, paragraph 1](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) and [article 8, paragraph 2 of the Convention](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) as amended by this Protocol shall be circulated by the Secretary-General to all Members of the Organization and to all Contracting States.   
+1.   Upon the request of at least one half, but in no case less than six, of the States Parties to this Protocol, any proposal to amend the limits specified in article 6, paragraph 1, article 7, paragraph 1 and article 8, paragraph 2 of the Convention as amended by this Protocol shall be circulated by the Secretary-General to all Members of the Organization and to all Contracting States.   
 2.   Any amendment proposed and circulated as above shall be submitted to the Legal Committee of the Organization (the Legal Committee) for consideration at a date at least six months after the date of its circulation.   
-3.   All Contracting States to the [Convention](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) as amended by this Protocol, whether or not Members of the Organization, shall be entitled to participate in the proceedings of the Legal Committee for the consideration and adoption of amendments.   
-4.   Amendments shall be adopted by a two-thirds majority of the Contracting States to the [Convention](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) as amended by this Protocol present and voting in the Legal Committee expanded as provided for in paragraph 3, on condition that at least one half of the Contracting States to the Convention as amended by this Protocol shall be present at the time of voting.   
+3.   All Contracting States to the Convention as amended by this Protocol, whether or not Members of the Organization, shall be entitled to participate in the proceedings of the Legal Committee for the consideration and adoption of amendments.   
+4.   Amendments shall be adopted by a two-thirds majority of the Contracting States to the Convention as amended by this Protocol present and voting in the Legal Committee expanded as provided for in paragraph 3, on condition that at least one half of the Contracting States to the Convention as amended by this Protocol shall be present at the time of voting.   
 5.   When acting on a proposal to amend the limits, the Legal Committee shall take into account the experience of incidents and, in particular, the amount of damage resulting therefrom, changes in the monetary values and the effect of the proposed amendment on the cost of insurance.   
 6. 
 a)No amendment of the limits under this article may be considered less than five years from the date on which this Protocol was opened for signature nor less than five years from the date of entry into force of a previous amendment under this article.
 
-b) No limit may be increased so as to exceed an amount which corresponds to the limit laid down in the [Convention](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) as amended by this Protocol increased by six per cent per year calculated on a compound basis from the date on which this Protocol was opened for signature. 
+b) No limit may be increased so as to exceed an amount which corresponds to the limit laid down in the Convention as amended by this Protocol increased by six per cent per year calculated on a compound basis from the date on which this Protocol was opened for signature. 
 
-c) No limit may be increased so as to exceed an amount which corresponds to the limit laid down in the [Convention](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) as amended by this Protocol multiplied by three.    
+c) No limit may be increased so as to exceed an amount which corresponds to the limit laid down in the Convention as amended by this Protocol multiplied by three.    
 7.   Any amendment adopted in accordance with paragraph 4 shall be notified by the Organization to all Contracting States. The amendment shall be deemed to have been accepted at the end of a period of eighteen months after the date of notification, unless within that period not less than one-fourth of the States that were Contracting States at the time of the adoption of the amendment have communicated to the Secretary-General that they do not accept the amendment, in which case the amendment is rejected and shall have no effect.   
 8.   An amendment deemed to have been accepted in accordance with paragraph 7 shall enter into force eighteen months after its acceptance.   
 9.   All Contracting States shall be bound by the amendment, unless they denounce this Protocol in accordance with paragraphs 1 and 2 of article 12 at least six months before the amendment enters into force. Such denunciation shall take effect when the amendment enters into force.   
@@ -62,10 +62,10 @@ c) No limit may be increased so as to exceed an amount which corresponds to the 
 
 ### Article  9  
 
-1.   The [Convention](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) and this Protocol shall, as between the Parties to this Protocol, be read and interpreted together as one single instrument.   
-2.   A State which is Party to this Protocol but not a Party to the [Convention](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) shall be bound by the provisions of the Convention as amended by this Protocol in relation to other States Parties hereto, but shall not be bound by the provisions of the Convention in relation to States Parties only to the Convention.   
-3.   The [Convention](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) as amended by this Protocol shall apply only to claims arising out of occurrences which take place after the entry into force for each State of this Protocol.    
-4.   Nothing in this Protocol shall affect the obligations of a State which is a Party both to the [Convention](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) and to this Protocol with respect to a State which is a Party to the Convention but not a Party to this Protocol.  
+1.   The Convention and this Protocol shall, as between the Parties to this Protocol, be read and interpreted together as one single instrument.   
+2.   A State which is Party to this Protocol but not a Party to the Convention shall be bound by the provisions of the Convention as amended by this Protocol in relation to other States Parties hereto, but shall not be bound by the provisions of the Convention in relation to States Parties only to the Convention.   
+3.   The Convention as amended by this Protocol shall apply only to claims arising out of occurrences which take place after the entry into force for each State of this Protocol.    
+4.   Nothing in this Protocol shall affect the obligations of a State which is a Party both to the Convention and to this Protocol with respect to a State which is a Party to the Convention but not a Party to this Protocol.  
 
 ### FINAL CLAUSES  
 
@@ -82,7 +82,7 @@ b) signature subject to ratification, acceptance or approval followed by ratific
 
 c) accession.     
 3.   Ratification, acceptance, approval or accession shall be effected by the deposit of an instrument to that effect with the Secretary-General.   
-4.   Any instrument of ratification, acceptance, approval or accession deposited after the entry into force of an amendment to the [Convention](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) as amended by this Protocol shall be deemed to apply to the Convention so amended, as modified by such amendment.  
+4.   Any instrument of ratification, acceptance, approval or accession deposited after the entry into force of an amendment to the Convention as amended by this Protocol shall be deemed to apply to the Convention so amended, as modified by such amendment.  
 
 ### Article  11  
 
@@ -98,7 +98,7 @@ c) accession.
 1.   This Protocol may be denounced by any State Party at any time after the date on which it enters into force for that State Party.   
 2.   Denunciation shall be effected by the deposit of an instrument of denunciation with the Secretary-General.   
 3.   A denunciation shall take effect twelve months, or such longer period as may be specified in the instrument of denunciation, after its deposit with the Secretary-General.   
-4.   As between the States Parties to this Protocol, denunciation by any of them of the [Convention](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) in accordance with [article 19 thereof](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) shall not be construed in any way as a denunciation of the Convention as amended by this Protocol.  
+4.   As between the States Parties to this Protocol, denunciation by any of them of the Convention in accordance with article 19 thereof shall not be construed in any way as a denunciation of the Convention as amended by this Protocol.  
 
 ### Article  13  
 
@@ -118,7 +118,7 @@ a) inform all States which have signed or acceded to this Protocol of:
 
 (i) each new signature or deposit of an instrument together with the date thereof;  
 
-(ii) each declaration and communication under [article 8, paragraph 2 of the Convention](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) as amended by this Protocol, and article 8, paragraph 4 of the Convention; 
+(ii) each declaration and communication under article 8, paragraph 2 of the Convention as amended by this Protocol, and article 8, paragraph 4 of the Convention; 
 
 (iii) the date of entry into force of this Protocol;  
 
@@ -131,7 +131,7 @@ a) inform all States which have signed or acceded to this Protocol of:
 (vii) the deposit of any instrument of denunciation of this Protocol together with the date of the deposit and the date on which it takes effect;  
 
 b) transmit certified true copies of this Protocol to all Signatory States and to all States which accede to this Protocol.    
-3.   As soon as this Protocol enters into force, the text shall be transmitted by the Secretary-General to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).  
+3.   As soon as this Protocol enters into force, the text shall be transmitted by the Secretary-General to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.  
 
 ### Article  15  
 
@@ -143,13 +143,13 @@ DONE AT London this second day of May one thousand nine hundred and ninety-six. 
 
 ####Protocol van 1996 tot wijziging van het Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen, 1976
 
-De Partijen bij dit Protocol, De wenselijkheid erkennende van wijziging van het [Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md), gedaan te Londen op 19 november 1976, teneinde te komen tot een hogere vergoeding en een vereenvoudigde procedure voor aanpassing van de beperkingsbedragen,  Zijn het volgende overeengekomen:  
+De Partijen bij dit Protocol, De wenselijkheid erkennende van wijziging van het Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen, gedaan te Londen op 19 november 1976, teneinde te komen tot een hogere vergoeding en een vereenvoudigde procedure voor aanpassing van de beperkingsbedragen,  Zijn het volgende overeengekomen:  
 
 ### Artikel  1  
 
 Voor de toepassing van dit Protocol betekent: 
 
-1. „Verdrag” het [Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen, 1976](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md).  
+1. „Verdrag” het Verdrag inzake beperking van aansprakelijkheid voor maritieme vorderingen, 1976.  
 
 2. „Organisatie” de Internationale Maritieme Organisatie.  
 
@@ -183,18 +183,18 @@ Wijzigt het Verdrag inzake beperking van aansprakelijkheid voor maritieme vorder
 
 ####Wijziging van de grenzen
 
-1.  Op verzoek van tenminste de helft, doch in geen geval minder dan zes, van de Staten die Partij zijn bij dit Protocol, wordt elk voorstel tot wijziging van de grenzen bedoeld in [artikel 6, eerste lid](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md), [artikel 7, eerste lid](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md), en [artikel 8, tweede lid, van het Verdrag](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md), zoals gewijzigd door dit Protocol, door de Secretaris-Generaal toegezonden aan alle Leden van de Organisatie en aan alle Verdragsluitende Staten.   
+1.  Op verzoek van tenminste de helft, doch in geen geval minder dan zes, van de Staten die Partij zijn bij dit Protocol, wordt elk voorstel tot wijziging van de grenzen bedoeld in artikel 6, eerste lid, artikel 7, eerste lid, en artikel 8, tweede lid, van het Verdrag, zoals gewijzigd door dit Protocol, door de Secretaris-Generaal toegezonden aan alle Leden van de Organisatie en aan alle Verdragsluitende Staten.   
 2.  Elke wijziging die op de hierboven beschreven wijze wordt voorgesteld en toegezonden, wordt tenminste zes maanden na de datum van toezending ter overweging voorgelegd aan de Juridische Commissie van de Organisatie (de Juridische Commissie).   
-3.  Alle Verdragsluitende Staten die Partij zijn bij het [Verdrag](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) zoals gewijzigd door dit Protocol, ongeacht of deze Staten Lid zijn van de Organisatie, zijn gerechtigd om deel te nemen aan de besprekingen van de Juridische Commissie ter overweging en aanneming van wijzigingen.   
-4.  Wijzigingen worden aangenomen met een meerderheid van twee derde van de Verdragsluitende Staten die Partij zijn bij het [Verdrag](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) zoals gewijzigd door dit Protocol, en die in de in overeenstemming met het derde lid uitgebreide Juridische Commissie aanwezig zijn en hun stem uitbrengen, mits tenminste de helft van de Verdragsluitende Staten die Partij zijn bij het Verdrag zoals gewijzigd door dit Protocol, op het tijdstip van stemmen aanwezig is.   
+3.  Alle Verdragsluitende Staten die Partij zijn bij het Verdrag zoals gewijzigd door dit Protocol, ongeacht of deze Staten Lid zijn van de Organisatie, zijn gerechtigd om deel te nemen aan de besprekingen van de Juridische Commissie ter overweging en aanneming van wijzigingen.   
+4.  Wijzigingen worden aangenomen met een meerderheid van twee derde van de Verdragsluitende Staten die Partij zijn bij het Verdrag zoals gewijzigd door dit Protocol, en die in de in overeenstemming met het derde lid uitgebreide Juridische Commissie aanwezig zijn en hun stem uitbrengen, mits tenminste de helft van de Verdragsluitende Staten die Partij zijn bij het Verdrag zoals gewijzigd door dit Protocol, op het tijdstip van stemmen aanwezig is.   
 5.  Wanneer de Juridische Commissie zich uitspreekt over een voorstel tot wijziging van de grenzen, houdt zij rekening met de ervaringen met betrekking tot gebeurtenissen en in het bijzonder met het bedrag van de hieruit voortvloeiende schade, met valutaschommelingen en met de gevolgen die de voorgestelde wijziging heeft voor de kosten van verzekering.   
 6.  
 
 a.Geen enkele wijziging van de grenzen overeenkomstig dit artikel mag worden overwogen binnen een periode van vijf jaar nadat dit Protocol voor ondertekening is opengesteld of binnen een periode van vijf jaar vanaf de datum van inwerkingtreding van een eerdere wijziging overeenkomstig dit artikel.
 
-b. Geen enkele grens mag zodanig worden verhoogd dat een bedrag wordt overschreden dat gelijk is aan de grens zoals deze is vastgelegd in het [Verdrag](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) zoals gewijzigd door dit Protocol, vermeerderd met zes procent aan samengestelde interest per jaar, vanaf de datum waarop dit Protocol voor ondertekening is opengesteld.  
+b. Geen enkele grens mag zodanig worden verhoogd dat een bedrag wordt overschreden dat gelijk is aan de grens zoals deze is vastgelegd in het Verdrag zoals gewijzigd door dit Protocol, vermeerderd met zes procent aan samengestelde interest per jaar, vanaf de datum waarop dit Protocol voor ondertekening is opengesteld.  
 
-c. Geen enkele grens mag zodanig worden verhoogd dat een bedrag wordt overschreden dat gelijk is aan het drievoudige van de grens zoals deze is vastgelegd in het [Verdrag](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) zoals gewijzigd door dit Protocol.     
+c. Geen enkele grens mag zodanig worden verhoogd dat een bedrag wordt overschreden dat gelijk is aan het drievoudige van de grens zoals deze is vastgelegd in het Verdrag zoals gewijzigd door dit Protocol.     
 7.  Iedere wijziging die is aangenomen overeenkomstig het vierde lid wordt door de Organisatie bekendgemaakt aan alle Verdragsluitende Staten. De wijziging wordt geacht te zijn aanvaard na het verstrijken van een periode van achttien maanden, te rekenen vanaf de datum van kennisgeving, tenzij tenminste een vierde van de Staten die op het tijdstip van de aanneming van de wijziging Verdragsluitende Staten waren, gedurende deze periode aan de Secretaris-Generaal hebben laten weten deze wijziging niet te aanvaarden, in welk geval de wijziging wordt verworpen en geen geldigheid bezit.   
 8.  Een wijziging die in overeenstemming met het zevende lid wordt geacht te zijn aanvaard, treedt achttien maanden na aanvaarding ervan in werking.   
 9.  Alle Verdragsluitende Staten zijn door de wijziging gebonden, tenzij zij dit Protocol in overeenstemming met artikel 12, eerste en tweede lid, tenminste zes maanden voor de inwerkingtreding van deze wijziging opzeggen. Deze opzegging wordt van kracht op het tijdstip waarop de wijziging in werking treedt.   
@@ -202,10 +202,10 @@ c. Geen enkele grens mag zodanig worden verhoogd dat een bedrag wordt overschred
 
 ### Artikel  9  
 
-1.  Door de Partijen bij dit Protocol worden het [Verdrag](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) en dit Protocol tezamen gelezen en uitgelegd als een enkel instrument.   
-2.  Een Staat die Partij is bij dit Protocol maar die geen Partij is bij het [Verdrag](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md), is ten opzichte van de andere Staten die Partij zijn bij het Protocol gebonden door het bepaalde in het Verdrag zoals gewijzigd door dit Protocol, doch deze Staat is ten opzichte van de Staten die alleen Partij zijn bij het Verdrag niet gebonden door het bepaalde in het Verdrag.   
-3.  Het [Verdrag](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) zoals gewijzigd door dit Protocol is slechts van toepassing op vorderingen die voortvloeien uit gebeurtenissen die zich voordoen nadat dit Protocol ten aanzien van iedere Staat in werking is getreden.   
-4.  Geen enkele bepaling van dit Protocol doet afbreuk aan de verplichtingen die een Staat die zowel Partij is bij het [Verdrag](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) als bij dit Protocol heeft jegens een Staat die Partij is bij het Verdrag maar die geen Partij is bij dit Protocol.  
+1.  Door de Partijen bij dit Protocol worden het Verdrag en dit Protocol tezamen gelezen en uitgelegd als een enkel instrument.   
+2.  Een Staat die Partij is bij dit Protocol maar die geen Partij is bij het Verdrag, is ten opzichte van de andere Staten die Partij zijn bij het Protocol gebonden door het bepaalde in het Verdrag zoals gewijzigd door dit Protocol, doch deze Staat is ten opzichte van de Staten die alleen Partij zijn bij het Verdrag niet gebonden door het bepaalde in het Verdrag.   
+3.  Het Verdrag zoals gewijzigd door dit Protocol is slechts van toepassing op vorderingen die voortvloeien uit gebeurtenissen die zich voordoen nadat dit Protocol ten aanzien van iedere Staat in werking is getreden.   
+4.  Geen enkele bepaling van dit Protocol doet afbreuk aan de verplichtingen die een Staat die zowel Partij is bij het Verdrag als bij dit Protocol heeft jegens een Staat die Partij is bij het Verdrag maar die geen Partij is bij dit Protocol.  
 
 ### SLOTBEPALINGEN  
 
@@ -222,7 +222,7 @@ b. ondertekening onder voorbehoud van bekrachtiging, aanvaarding of goedkeuring,
 
 c. toetreding.     
 3.  Bekrachtiging, aanvaarding, goedkeuring of toetreding geschiedt door de nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal.    
-4.  Iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding die wordt nedergelegd na de inwerkingtreding van een wijziging van het [Verdrag](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) zoals gewijzigd door dit Protocol, wordt geacht van toepassing te zijn op het aldus gewijzigde Verdrag, zoals gewijzigd door deze wijziging.  
+4.  Iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding die wordt nedergelegd na de inwerkingtreding van een wijziging van het Verdrag zoals gewijzigd door dit Protocol, wordt geacht van toepassing te zijn op het aldus gewijzigde Verdrag, zoals gewijzigd door deze wijziging.  
 
 ### Artikel  11  
 
@@ -238,7 +238,7 @@ c. toetreding.
 1.  Dit Protocol kan te allen tijde worden opgezegd door een Staat die Partij is, vanaf de datum waarop het in werking treedt ten aanzien van die Staat die Partij is.   
 2.  Opzegging geschiedt door de nederlegging van een daartoe strekkende akte bij de Secretaris-Generaal.   
 3.  Een opzegging wordt van kracht twaalf maanden na de nederlegging van de akte van opzegging bij de Secretaris-Generaal, of zoveel later als in de akte van opzegging is vermeld.   
-4.  In geen geval wordt opzegging van het [Verdrag](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) door één van de Staten die Partij zijn bij dit Protocol, in overeenstemming met [artikel 19 van het Verdrag](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md), uitgelegd als een opzegging van het Verdrag zoals gewijzigd door dit Protocol.  
+4.  In geen geval wordt opzegging van het Verdrag door één van de Staten die Partij zijn bij dit Protocol, in overeenstemming met artikel 19 van het Verdrag, uitgelegd als een opzegging van het Verdrag zoals gewijzigd door dit Protocol.  
 
 ### Artikel  13  
 
@@ -258,7 +258,7 @@ a. stelt alle Staten die dit Protocol hebben ondertekend of daartoe zijn toegetr
 
 i. elke nieuwe ondertekening of nederlegging van een akte, alsmede de datum daarvan;  
 
-ii. elke verklaring en mededeling overeenkomstig [artikel 8, tweede lid, van het Verdrag](../../../../../verdrag/convention/on/limitation/of/liability/for/maritime/claims/1976/BWBV0003239/README.md) zoals gewijzigd door dit Protocol, en overeenkomstig artikel 8, vierde lid, van het Verdrag;  
+ii. elke verklaring en mededeling overeenkomstig artikel 8, tweede lid, van het Verdrag zoals gewijzigd door dit Protocol, en overeenkomstig artikel 8, vierde lid, van het Verdrag;  
 
 iii. de datum van inwerkingtreding van dit Protocol;  
 
@@ -271,7 +271,7 @@ vi. elke wijziging die wordt geacht te zijn aanvaard overeenkomstig artikel 8, z
 vii. de nederlegging van elke akte van opzegging van dit Protocol, alsmede de datum van de nederlegging en de datum waarop de opzegging van kracht wordt;   
 
 b. doet voor eensluidend gewaarmerkte afschriften van dit Protocol toekomen aan alle Ondertekenende Staten en aan alle Staten die tot dit Protocol toetreden.    
-3.  Zodra dit Protocol in werking is getreden, wordt de tekst door de Secretaris-Generaal toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publicatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).  
+3.  Zodra dit Protocol in werking is getreden, wordt de tekst door de Secretaris-Generaal toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publicatie overeenkomstig artikel 102 van het Handvest der Verenigde Naties.  
 
 ### Artikel  15  
 

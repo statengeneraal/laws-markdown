@@ -118,7 +118,7 @@ a. een door autoriteiten van de uitvaardigende lidstaat ingesteld strafrechtelij
 b. de tenuitvoerlegging van een vrijheidsstraf van vier maanden, of van langere duur, door de opgeëiste persoon op het grondgebied van de uitvaardigende lidstaat te ondergaan wegens een feit als onder 1° of 2° bedoeld.     
 2.  De in het eerste lid, onderdeel a, onder 1°, bedoelde lijst kan, wanneer de Raad van de Europese Unie besluit tot uitbreiding of wijziging van de daarop vermelde strafbare feiten, bij algemene maatregel van bestuur worden herzien. De voordracht voor deze algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.   
 3.  Voor de toepassing van het eerste lid, onderdeel a, onder 2°, wordt onder een naar Nederlands recht strafbaar feit mede verstaan een feit waardoor inbreuk is gemaakt op de rechtsorde van de verzoekende staat, terwijl krachtens de Nederlandse wet eenzelfde inbreuk op de Nederlandse rechtsorde strafbaar is.   
-4.  [Artikel 51a van de Uitleveringswet](../../../wet/uitleveringswet/BWBR0002559/README.md) is van overeenkomstige toepassing op overlevering tussen de lidstaten van de Europese Unie.  
+4.  Artikel 51a van de Uitleveringswet is van overeenkomstige toepassing op overlevering tussen de lidstaten van de Europese Unie.  
 
 ### Artikel  8  
 
@@ -130,7 +130,7 @@ Met vrijheidsstraffen van langere duur dan twaalf maanden worden voor de toepass
 
 a. tegen hem een strafvervolging in Nederland gaande is;  
 
-b. hij in Nederland is vervolgd maar hernieuwde vervolging is uitgesloten op grond van [artikel 255, eerste of tweede lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of [artikel 255a, eerste of tweede lid, van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), dan wel in Nederland het recht tot strafvordering is vervallen omdat hij aan voorwaarden heeft voldaan die door de officier van justitie voor aanvang van de terechtzitting ter voorkoming van de strafvervolging zijn gesteld;  
+b. hij in Nederland is vervolgd maar hernieuwde vervolging is uitgesloten op grond van artikel 255, eerste of tweede lid, of artikel 255a, eerste of tweede lid, van het Wetboek van Strafvordering, dan wel in Nederland het recht tot strafvordering is vervallen omdat hij aan voorwaarden heeft voldaan die door de officier van justitie voor aanvang van de terechtzitting ter voorkoming van de strafvervolging zijn gesteld;  
 
 c. hij naar het recht van een andere lidstaat niet meer kan worden vervolgd, ten gevolge van een in die lidstaat ter zake van hetzelfde feit genomen onherroepelijke beslissing;  
 
@@ -148,7 +148,7 @@ e. hij bij rechterlijk gewijsde is veroordeeld, in gevallen waarin:
 
 f. naar Nederlands recht rechtsmacht kon worden uitgeoefend, maar wegens verjaring geen vervolging, of, zo de overlevering is gevraagd ten behoeve van de tenuitvoerlegging van een straf of maatregel, geen bestraffing meer kan plaatshebben.     
 2.  Onderdeel a van het eerste lid lijdt uitzondering in gevallen waarin Onze Minister na advies van het openbaar ministerie en voorafgaand aan de beslissing tot overlevering opdracht heeft gegeven de vervolging te staken.   
-3.  Onderdeel b van het eerste lid lijdt uitzondering in gevallen waarin de vervolging in Nederland is gestaakt, hetzij omdat de Nederlandse strafwet op grond van een van de [artikelen 2 tot en met 8 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) niet van toepassing bleek te zijn, hetzij omdat aan berechting in het buitenland de voorkeur werd gegeven.  
+3.  Onderdeel b van het eerste lid lijdt uitzondering in gevallen waarin de vervolging in Nederland is gestaakt, hetzij omdat de Nederlandse strafwet op grond van een van de artikelen 2 tot en met 8d van het Wetboek van Strafrecht niet van toepassing bleek te zijn, hetzij omdat aan berechting in het buitenland de voorkeur werd gegeven.  
 
 ### Artikel  10  
 
@@ -232,7 +232,7 @@ Op basis van een signalering als bedoeld in artikel 4, eerste en tweede lid, kan
 
 ### Artikel  16  
 
-Een vreemdeling die op grond van [artikel 54, vierde lid, van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is aangehouden, kan op bevel van de officier of hulpofficier van justitie in het arrondissement waar hij werd aangehouden worden opgehouden, indien gegronde redenen bestaan voor de verwachting dat te zijnen aanzien onverwijld een signalering als bedoeld in artikel 4, eerste en tweede lid, zal worden gedaan dan wel een Europees aanhoudingsbevel zal worden ontvangen. [Artikel 61, eerste en derde lid, van dat wetboek](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing. 
+Een vreemdeling die op grond van artikel 54, vierde lid, van het Wetboek van Strafvordering is aangehouden, kan op bevel van de officier of hulpofficier van justitie in het arrondissement waar hij werd aangehouden worden opgehouden, indien gegronde redenen bestaan voor de verwachting dat te zijnen aanzien onverwijld een signalering als bedoeld in artikel 4, eerste en tweede lid, zal worden gedaan dan wel een Europees aanhoudingsbevel zal worden ontvangen. Artikel 61, eerste en derde lid, van dat wetboek is van overeenkomstige toepassing. 
 
 ### Artikel  17  
 
@@ -314,7 +314,7 @@ b. zodra de bewaring twintig dagen heeft geduurd en het Europees aanhoudingsbeve
 
 ### Artikel  26  
 
-1.  De rechtbank onderzoekt de identiteit van de opgeëiste persoon op de wijze, bedoeld in [artikel 27a, eerste lid, eerste volzin, van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), alsmede de ontvankelijkheid van het Europees aanhoudingsbevel en de mogelijkheid van overlevering. De rechtbank is tevens bevoegd de identiteit van de opgeëiste persoon vast te stellen op de wijze, bedoeld in [artikel 27a, tweede lid, van dat wetboek](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), indien over zijn identiteit twijfel bestaat. [Artikel 29a, tweede lid, van dat wetboek](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+1.  De rechtbank onderzoekt de identiteit van de opgeëiste persoon op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, van het Wetboek van Strafvordering, alsmede de ontvankelijkheid van het Europees aanhoudingsbevel en de mogelijkheid van overlevering. De rechtbank is tevens bevoegd de identiteit van de opgeëiste persoon vast te stellen op de wijze, bedoeld in artikel 27a, tweede lid, van dat wetboek, indien over zijn identiteit twijfel bestaat. Artikel 29a, tweede lid, van dat wetboek is van overeenkomstige toepassing.   
 2.  De officier van justitie geeft ter zitting van de rechtbank zijn opvatting over de verzochte overlevering en legt een schriftelijke samenvatting, waarin, in voorkomend geval, de beslissing tot staking van de vervolging is vermeld, aan de rechtbank over. De opgeëiste persoon en diens raadsman worden eveneens in de gelegenheid gesteld tot het maken van ter zake dienende opmerkingen omtrent het Europees aanhoudingsbevel en de in verband daarmede te nemen beslissingen.   
 3.  In geval van samenloop van Europese aanhoudingsbevelen vermeldt de officier van justitie eveneens aan welk van de Europese aanhoudingsbevelen – voor zover de overlevering op basis daarvan kan worden toegestaan – voorrang zal worden gegeven, daarbij rekening houdend met het belang van een goede rechtsbedeling en voorts in het bijzonder met: 
 
@@ -349,17 +349,17 @@ f. de mogelijkheid dat de opgeëiste persoon, nadat hij naar het grondgebied van
 ### Artikel  29  
 
 1.  De uitspraak van de rechtbank is dadelijk uitvoerbaar, tenzij er ten aanzien van de opgeëiste persoon een concurrerend uitleveringsverzoek of overleveringsverzoek van het Internationaal Strafhof of van een ander internationaal tribunaal is ontvangen, dat in behandeling is genomen.   
-2.  Tegen de uitspraak van de rechtbank staat geen rechtsmiddel open, anders dan beroep in cassatie in het belang der wet, bedoeld in [artikel 456 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+2.  Tegen de uitspraak van de rechtbank staat geen rechtsmiddel open, anders dan beroep in cassatie in het belang der wet, bedoeld in artikel 456 van het Wetboek van Strafvordering.  
 
 ### Artikel  30  
 
-1.  De [artikelen 37 tot en met 39](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [45 tot en met 49](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [50, eerste lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [260, eerste lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [268](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [269, vijfde lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [271](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [272](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [273, derde lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [274 tot en met 277](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [279](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [281](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [286](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [288, vierde lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [289, eerste en derde lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [290 tot en met 301](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [318 tot en met 322](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [324 tot en met 327](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [328 tot en met 331](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [345, eerste lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [346](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [357](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [362](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [363](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [365, eerste tot en met vijfde lid van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
+1.  De artikelen 37 tot en met 39, 45 tot en met 49, 50, eerste lid, 260, eerste lid, 268, 269, vijfde lid, 271, 272, 273, derde lid, 274 tot en met 277, 279, 281, 286, 288, vierde lid, 289, eerste en derde lid, 290 tot en met 301, 318 tot en met 322, 324 tot en met 327, 328 tot en met 331, 345, eerste lid, 346, 357, 362, 363 en 365, eerste tot en met vijfde lid van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
 2.  De in het eerste lid genoemde artikelen vinden geen toepassing voor zover deze betrekking hebben op een getuige wiens identiteit niet of slechts ten dele blijkt.  
 
 ### Artikel  31  
 
 1.  De uitspraak van de rechtbank wordt aan de opgeëiste persoon die bij de voorlezing daarvan niet tegenwoordig is geweest, betekend. Daarbij wordt hem meegedeeld dat hij tegen de uitspraak geen rechtsmiddel kan instellen.   
-2.  Indien ten aanzien van de opgeëiste persoon een concurrerend uitleveringsverzoek of overleveringsverzoek van het Internationaal Strafhof of een ander internationaal tribunaal in behandeling is genomen, wordt de opgeëiste persoon eveneens meegedeeld dat Onze Minister, met inachtneming van [artikel 35 van de Uitleveringswet](../../../wet/uitleveringswet/BWBR0002559/README.md) respectievelijk [artikel 31 van de Uitvoeringswet Internationaal Strafhof](../../../rijkswet/uitvoeringswet/internationaal/strafhof/BWBR0013796/README.md) of andere toepasselijke wetgeving, zal beslissen of aan de uitspraak van de rechtbank gevolg wordt gegeven, dan wel of betrokkene wordt uitgeleverd respectievelijk wordt overgeleverd aan het Internationaal Strafhof of aan een ander internationaal tribunaal.   
+2.  Indien ten aanzien van de opgeëiste persoon een concurrerend uitleveringsverzoek of overleveringsverzoek van het Internationaal Strafhof of een ander internationaal tribunaal in behandeling is genomen, wordt de opgeëiste persoon eveneens meegedeeld dat Onze Minister, met inachtneming van artikel 35 van de Uitleveringswet respectievelijk artikel 31 van de Uitvoeringswet Internationaal Strafhof of andere toepasselijke wetgeving, zal beslissen of aan de uitspraak van de rechtbank gevolg wordt gegeven, dan wel of betrokkene wordt uitgeleverd respectievelijk wordt overgeleverd aan het Internationaal Strafhof of aan een ander internationaal tribunaal.   
 3.  De griffier van de rechtbank zendt uiterlijk drie dagen na de uitspraak het Europees aanhoudingsbevel met de daarbij behorende stukken terug aan de officier van justitie.   
 4.  In de gevallen bedoeld in het tweede lid zendt de griffier van de rechtbank tevens een afschrift van het Europees aanhoudingsbevel met de daarbij behorende stukken aan Onze Minister.  
 
@@ -421,7 +421,7 @@ Bij de feitelijke overlevering deelt de officier van justitie aan de uitvaardige
 
 1.  De opgeëiste persoon die overeenkomstig artikel 4, eerste of tweede lid, is gesignaleerd ter fine van aanhouding met het oog op zijn overlevering of ten aanzien van wie een Europees aanhoudingsbevel is ontvangen, kan, uiterlijk op de dag voorafgaande aan die welke overeenkomstig artikel 24 is bepaald voor zijn verhoor door de rechtbank, verklaren dat hij instemt met zijn onmiddellijke overlevering.   
 2.  Een verklaring overeenkomstig het eerste lid kan op het moment van inverzekeringstelling worden afgelegd voor elke officier van justitie. Nadien kan de verklaring uitsluitend worden afgelegd ten overstaan van de officier van justitie bij het arrondissementsparket Amsterdam of de rechter-commissaris. De afgelegde verklaring kan niet worden herroepen.   
-3.  De officier van justitie, bedoeld in het tweede lid, tweede volzin, of de rechter-commissaris is bevoegd de identiteit van de opgeëiste persoon vast te stellen op de wijze, bedoeld in [artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md). [Artikel 29a, tweede lid, van dat wetboek](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.  
+3.  De officier van justitie, bedoeld in het tweede lid, tweede volzin, of de rechter-commissaris is bevoegd de identiteit van de opgeëiste persoon vast te stellen op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering. Artikel 29a, tweede lid, van dat wetboek is van overeenkomstige toepassing.  
 4.  De opgeëiste persoon kan zich bij het afleggen van de verklaring doen bijstaan door een raadsman. Hierop wordt, zo hij zonder raadsman verschijnt, zijn aandacht gevestigd door de justitiële autoriteit, bevoegd tot het in ontvangst nemen van de verklaring.   
 5.  Voordat hij de verklaring aflegt, wordt de opgeëiste persoon op de mogelijke gevolgen daarvan, in het bijzonder het bepaalde in artikel 43, derde lid, gewezen. Van de verklaring wordt proces-verbaal opgemaakt.   
 6.  De rechter-commissaris ten overstaan van wie de verklaring is afgelegd, zendt het proces-verbaal daarvan onverwijld aan de officier van justitie.  
@@ -490,7 +490,7 @@ d. het vonnis niet in persoon aan de verdachte is betekend, maar:
 
 ### Artikel  45b  
 
-In de gevallen als bedoeld in artikel 45a, eerste lid, onderdeel d, verstrekt de uitvaardigende officier van justitie op verzoek van de persoon tegen wie het Europees aanhoudingsbevel is uitgevaardigd en die nog niet officieel van de tegen hem ingestelde strafprocedure in kennis is gesteld, onverwijld en door tussenkomst van de uitvoerende justitiële autoriteit, een afschrift van het vonnis, dat ten grondslag ligt aan het Europees aanhoudingsbevel. [Artikel 408, tweede lid, van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is in dit geval niet van toepassing. 
+In de gevallen als bedoeld in artikel 45a, eerste lid, onderdeel d, verstrekt de uitvaardigende officier van justitie op verzoek van de persoon tegen wie het Europees aanhoudingsbevel is uitgevaardigd en die nog niet officieel van de tegen hem ingestelde strafprocedure in kennis is gesteld, onverwijld en door tussenkomst van de uitvoerende justitiële autoriteit, een afschrift van het vonnis, dat ten grondslag ligt aan het Europees aanhoudingsbevel. Artikel 408, tweede lid, van het Wetboek van Strafvordering is in dit geval niet van toepassing. 
 
 ### Artikel  46  
 
@@ -553,7 +553,7 @@ d.een beschrijving van de omstandigheden waaronder het strafbare feit is begaan,
 ### Artikel  53  
 
 1.  Aan een verzoek van de uitvaardigende justitiële autoriteit om een opgeëiste persoon die op basis van een door hem afgegeven Europees aanhoudingsbevel is aangehouden voorafgaand aan diens overlevering te horen, geeft de officier van justitie zo veel mogelijk gevolg.   
-2.  Op het verhoor zijn de [artikelen 552n](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [552o van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en artikel 4, eerste tot en met derde lid, van de EU-rechtshulpovereenkomst 2000 van toepassing.  
+2.  Op het verhoor zijn de artikelen 552n en 552o van het Wetboek van Strafvordering en artikel 4, eerste tot en met derde lid, van de EU-rechtshulpovereenkomst 2000 van toepassing.  
 
 ###Artikel 54 
 
@@ -608,30 +608,30 @@ Krachtens deze wet gegeven bevelen tot inverzekeringstelling of bewaring, dan we
 ### Artikel  60  
 
 1.  De bevelen tot vrijheidsbeneming, gegeven krachtens deze wet, zijn dadelijk uitvoerbaar.   
-2.  Bevoegd tot het ten uitvoer leggen van Europese aanhoudingsbevelen, Nederlandse bevelen tot aanhouding, voorlopige aanhouding of gevangenneming zijn de in [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren.  
-3. Op de tenuitvoerlegging van een Europees aanhoudingsbevel, de in het eerste lid bedoelde bevelen tot vrijheidsbeneming en de last daartoe zijn de [artikelen 564 tot en met 568 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van toepassing. 
+2.  Bevoegd tot het ten uitvoer leggen van Europese aanhoudingsbevelen, Nederlandse bevelen tot aanhouding, voorlopige aanhouding of gevangenneming zijn de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren.  
+3. Op de tenuitvoerlegging van een Europees aanhoudingsbevel, de in het eerste lid bedoelde bevelen tot vrijheidsbeneming en de last daartoe zijn de artikelen 564 tot en met 568 van het Wetboek van Strafvordering van toepassing. 
 
 ###Artikel 61 
 
-Personen die krachtens deze wet in verzekering of in bewaring zijn gesteld, of wier gevangenneming of gevangenhouding is bevolen, worden behandeld als verdachten die krachtens het [Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aan een overeenkomstige maatregel zijn onderworpen.
+Personen die krachtens deze wet in verzekering of in bewaring zijn gesteld, of wier gevangenneming of gevangenhouding is bevolen, worden behandeld als verdachten die krachtens het Wetboek van Strafvordering aan een overeenkomstige maatregel zijn onderworpen.
 
 ### Artikel  62  
 
-1.  Het bij en krachtens [artikel 40 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bepaalde is van overeenkomstige toepassing ten aanzien van een krachtens deze wet in verzekering gestelde opgeëiste persoon.   
+1.  Het bij en krachtens artikel 40 van het Wetboek van Strafvordering bepaalde is van overeenkomstige toepassing ten aanzien van een krachtens deze wet in verzekering gestelde opgeëiste persoon.   
 2.  Indien een persoon overeenkomstig deze wet zijn vrijheid wordt ontnomen – anders dan uit kracht van een Europees aanhoudingsbevel of een Nederlands bevel tot aanhouding of voorlopige aanhouding, dan wel tot inverzekeringstelling of tot verlenging van de termijn daarvan – geeft de voorzitter van de rechtbank in het arrondissement waarin hij zich bevindt een last tot toevoeging aan het bestuur van de raad voor rechtsbijstand. De officier van justitie geeft de voorzitter onverwijld schriftelijk kennis, dat toevoeging moet plaatshebben.  
 
 ###Artikel 63 
 
-Op de bevelen tot bewaring en gevangenhouding, krachtens deze wet gegeven, is [artikel 66a van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.
+Op de bevelen tot bewaring en gevangenhouding, krachtens deze wet gegeven, is artikel 66a van het Wetboek van Strafvordering van overeenkomstige toepassing.
 
 ### Artikel  64  
 
 1.  In gevallen waarin krachtens deze wet een beslissing omtrent de vrijheidsbeneming kan of moet worden genomen, kan worden bevolen dat die vrijheidsbeneming voorwaardelijk wordt opgeschort of geschorst tot het moment van de uitspraak van de rechtbank waarbij de overlevering wordt toegestaan. De te stellen voorwaarden mogen alleen strekken ter voorkoming van vlucht.   
-2.  Op bevelen krachtens het eerste lid gegeven door de rechtbank, dan wel door de rechter-commissaris, zijn de [artikelen 80, met uitzondering van het tweede lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [81 tot en met 88 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.  
+2.  Op bevelen krachtens het eerste lid gegeven door de rechtbank, dan wel door de rechter-commissaris, zijn de artikelen 80, met uitzondering van het tweede lid, en 81 tot en met 88 van het Wetboek van Strafvordering van overeenkomstige toepassing.  
 
 ###Artikel 65 
 
-Op bevelen tot beëindiging van vrijheidsbeneming, krachtens deze wet gegeven, en op de tenuitvoerlegging van zodanige bevelen zijn de [artikelen 73](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [79](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [569](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [570 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.
+Op bevelen tot beëindiging van vrijheidsbeneming, krachtens deze wet gegeven, en op de tenuitvoerlegging van zodanige bevelen zijn de artikelen 73, 79, 569 en 570 van het Wetboek van Strafvordering van overeenkomstige toepassing.
 
 ### Artikel  66  
 
@@ -639,16 +639,16 @@ De termijnen, genoemd in de artikelen 19, onder b, 22, en 37, eerste en tweede l
 
 ###Artikel 66a 
 
-Waar in deze wet de bevoegdheid wordt gegeven tot het horen van personen, is [artikel 131a van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.
+Waar in deze wet de bevoegdheid wordt gegeven tot het horen van personen, is artikel 131a van het Wetboek van Strafvordering van overeenkomstige toepassing.
 
 ### Artikel  67  
 
-1.  In gevallen waarin de overlevering is geweigerd, kan de rechtbank, op verzoek van de opgeëiste persoon, hem een vergoeding ten laste van de Staat toekennen voor de schade die hij heeft geleden ten gevolge van vrijheidsbeneming, bevolen krachtens deze wet. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De [artikelen 89, derde, vierde en zesde lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [90](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [91](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [93 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.   
-2.  In gevallen als bedoeld in het eerste lid vinden de [artikelen 591](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [591a van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) overeenkomstige toepassing op vergoeding van kosten en schaden voor de opgeëiste persoon of diens erfgenamen. In de plaats van het in die artikelen bedoelde gerecht treedt de rechtbank.  
+1.  In gevallen waarin de overlevering is geweigerd, kan de rechtbank, op verzoek van de opgeëiste persoon, hem een vergoeding ten laste van de Staat toekennen voor de schade die hij heeft geleden ten gevolge van vrijheidsbeneming, bevolen krachtens deze wet. Onder schade is begrepen het nadeel dat niet in vermogensschade bestaat. De artikelen 89, derde, vierde en zesde lid, en 90, 91 en 93 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.   
+2.  In gevallen als bedoeld in het eerste lid vinden de artikelen 591 en 591a van het Wetboek van Strafvordering overeenkomstige toepassing op vergoeding van kosten en schaden voor de opgeëiste persoon of diens erfgenamen. In de plaats van het in die artikelen bedoelde gerecht treedt de rechtbank.  
 
 ###Artikel 68 
 
-Op betekeningen, kennisgevingen en oproepingen, gedaan krachtens deze wet, zijn de [artikelen 585 tot en met 590 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.
+Op betekeningen, kennisgevingen en oproepingen, gedaan krachtens deze wet, zijn de artikelen 585 tot en met 590 van het Wetboek van Strafvordering van overeenkomstige toepassing.
 
 ### Artikel  69  
 
@@ -686,7 +686,7 @@ Onze Minister zendt binnen drie jaren na inwerkingtreding van deze wet aan de St
 
 ### Artikel  74  
 
-1.  Deze wet treedt in de relatie met de lidstaten van de Europese Unie in de plaats van de [Uitleveringswet](../../../wet/uitleveringswet/BWBR0002559/README.md), met uitzondering van de [artikelen 50a](../../../wet/uitleveringswet/BWBR0002559/README.md) en [51 van die wet](../../../wet/uitleveringswet/BWBR0002559/README.md), en van de in de relatie tussen Nederland en de lidstaten van de Europese Unie geldende verdragen inzake de uitlevering, te weten: 
+1.  Deze wet treedt in de relatie met de lidstaten van de Europese Unie in de plaats van de Uitleveringswet, met uitzondering van de artikelen 50a en 51 van die wet, en van de in de relatie tussen Nederland en de lidstaten van de Europese Unie geldende verdragen inzake de uitlevering, te weten: 
 
 a. het op 13 december 1957 te Parijs tot stand gekomen Europees Verdrag betreffende uitlevering (Trb. 1965, 9), het op 15 oktober 1975 te Straatsburg tot stand gekomen Aanvullend Protocol bij dit Verdrag (Trb. 1979, 119), het op 17 maart 1978 te Straatsburg tot stand gekomen Tweede Aanvullend Protocol bij dit Verdrag (Trb. 1979, 120) en, voor zover het op uitlevering betrekking heeft, het op 27 januari 1977 te Straatsburg tot stand gekomen Europees Verdrag tot bestrijding van terrorisme (Trb. 1985, 66);  
 
@@ -703,8 +703,8 @@ f. de op 10 maart 1995 te Brussel tot stand gekomen Overeenkomst opgesteld op gr
 g. de op 27 september 1996 te Dublin tot stand gekomen Overeenkomst opgesteld op grond van artikel K.3 van het Verdrag betreffende de Europese Unie betreffende uitlevering tussen de lidstaten van de Europese Unie (Trb. 1996, 304).     
 2.  Het eerste lid blijft buiten toepassing in relatie tot een andere lidstaat van de Europese Unie voorzover en voorzolang die lidstaat niet de maatregelen heeft getroffen die noodzakelijk zijn om aan het op 13 juni 2003 te Brussel totstandgekomen kaderbesluit van de Raad betreffende het Europees aanhoudingsbevel en de procedures van overlevering tussen de lidstaten van de Europese Unie (PbEG L 190) te voldoen.   
 3.  Voor zover de Raad van de Europese Unie een besluit neemt dat afwijkt van het eerste of tweede lid, kan daaraan bij algemene maatregel van bestuur uitvoering worden gegeven.   
-4.  De [Uitleveringswet](../../../wet/uitleveringswet/BWBR0002559/README.md) blijft van toepassing op de behandeling van een verzoek tot uitlevering en op de in verband daarmede te nemen beslissingen, in gevallen waarin de stukken betreffende dat verzoek vóór het tijdstip van het in werking treden van deze wet zijn ontvangen door Onze Minister.   
-5.  Een opgeëiste persoon die op het tijdstip van het in werking treden van deze wet is gedetineerd ingevolge een bevel gegeven krachtens [artikel 14](../../../wet/uitleveringswet/BWBR0002559/README.md), [13a](../../../wet/uitleveringswet/BWBR0002559/README.md) of [15 van de Uitleveringswet](../../../wet/uitleveringswet/BWBR0002559/README.md), wordt, zo het Europees aanhoudingsbevel nog niet is ontvangen, beschouwd en behandeld als een persoon die krachtens artikel 16, 17 of 18 van deze wet in bewaring wordt gehouden of in verzekering is gesteld.  
+4.  De Uitleveringswet blijft van toepassing op de behandeling van een verzoek tot uitlevering en op de in verband daarmede te nemen beslissingen, in gevallen waarin de stukken betreffende dat verzoek vóór het tijdstip van het in werking treden van deze wet zijn ontvangen door Onze Minister.   
+5.  Een opgeëiste persoon die op het tijdstip van het in werking treden van deze wet is gedetineerd ingevolge een bevel gegeven krachtens artikel 14, 13a of 15 van de Uitleveringswet, wordt, zo het Europees aanhoudingsbevel nog niet is ontvangen, beschouwd en behandeld als een persoon die krachtens artikel 16, 17 of 18 van deze wet in bewaring wordt gehouden of in verzekering is gesteld.  
 
 ###Artikel 75 
 

@@ -500,6 +500,18 @@ b. overige activiteiten op het gebied van parentale internationale kinderontvoer
 3.  Onze Minister kan een subsidieplafond vaststellen voor activiteiten als bedoeld in het eerste lid, aanhef en onder b. Hij bepaalt daarbij hoe het beschikbare bedrag wordt verdeeld.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het bepaalde in het eerste lid.  
 
+### Hoofdstuk  4G  
+
+####Ondertoezichtstelling en (voorlopige) voogdij minderjarige vreemdelingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  48v  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onze Minister kan aan een rechtspersoon als bedoeld in artikel 256, en aan een rechtspersoon als bedoeld in artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, subsidie verstrekken ten behoeve van de kosten van de uitoefening van de in die bepalingen en in artikel 241, zevende lid, van Boek 1 van het Burgerlijk Wetboek bedoelde taken, bijzondere door Onze Minister aan te geven kosten daaronder begrepen.   
+2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent het *verlenen van deze subsidie.*   
+
 ### HOOFDSTUK  5  
 
 ####OVERIGE SUBSIDIES 

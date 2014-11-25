@@ -1790,19 +1790,18 @@ e. voor zover van toepassing alle andere informatie die de aanbestedende dienst 
 1.  De Autoriteit Consument en Markt legt de aanbestedende dienst die of het speciale-sectorbedrijf dat partij is bij een overeenkomst waarbij toepassing is gegeven aan artikel 3.5, eerste lid, een bestuurlijke boete op.   
 2.  Het eerste lid is van overeenkomstige toepassing indien de overeenkomst in rechte is vernietigd doch de werking geheel of gedeeltelijk aan die vernietiging is ontzegd.   
 3.  De in het eerste lid bedoelde boete is afschrikkend, evenredig en doeltreffend, beschouwd in samenhang met de in artikel 3.6 bedoelde verkorting van de looptijd.   
-4.  De bestuurlijke boete bedraagt ten hoogste vijftien procent van de geraamde waarde van de desbetreffende opdracht. Bij het bepalen van de hoogte van de boete neemt de Autoriteit Consument en Markt de relevante omstandigheden van het geval, waaronder de ernst van de overtreding, in acht.   
-5.  De te betalen geldsom van de opgelegde bestuurlijke boete komt toe aan de Staat.  
+4.  De bestuurlijke boete bedraagt ten hoogste vijftien procent van de geraamde waarde van de desbetreffende opdracht. Bij het bepalen van de hoogte van de boete neemt de Autoriteit Consument en Markt de relevante omstandigheden van het geval, waaronder de ernst van de overtreding, in acht.  
 
 ### Artikel  3.9  
 
-1.  De Autoriteit Consument en Markt neemt de beschikking, bedoeld in artikel 3.8, eerste lid, niet dan nadat de uitspraak, bedoeld in artikel 3.7, eerste lid, kracht van gewijsde heeft gekregen.   
-2.  De werking van een beschikking waarmee een bestuurlijke boete is opgelegd, wordt opgeschort totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist.  
+De Autoriteit Consument en Markt neemt de beschikking, bedoeld in artikel 3.8, eerste lid, niet dan nadat de uitspraak, bedoeld in artikel 3.7, eerste lid, kracht van gewijsde heeft gekregen. 
 
 ### Artikel  3.10  
 
-1.  De Autoriteit Consument en Markt kan onder haar ressorterende ambtenaren aanwijzen als toezichthouders als bedoeld in artikel 5:48 van de Algemene wet bestuursrecht.   
-2.  Alvorens een boete op te leggen kan de Autoriteit Consument en Markt de overeenkomst onderzoeken teneinde de voor het vaststellen van de boete in aanmerking komende financiële gegevens te bepalen.   
-3.  De aanbestedende dienst of het speciale-sectorbedrijf is verplicht mee te werken aan de onderzoeken, bedoeld in het tweede lid.  
+1.  De Autoriteit Consument en Markt kan onder haar ressorterende ambtenaren aanwijzen als toezichthouders ten behoeve van het opmaken van een rapport als bedoeld in artikel 5:48, eerste lid, van de Algemene wet bestuursrecht.  
+2.  Alvorens een boete op te leggen kunnen de door de Autoriteit Consument en Markt daartoe aangewezen ambtenaren de overeenkomst en de boekhouding onderzoeken teneinde de voor het vaststellen van de boete in aanmerking komende financiële gegevens te bepalen. Zij kunnen zich laten bijstaan door een onafhankelijk financieel deskundige.   
+3.  De aanbestedende dienst of het speciale-sectorbedrijf is verplicht mee te werken aan de onderzoeken, bedoeld in het tweede lid.   
+4.  Bij overtreding van het derde lid is artikel 12m, derde lid, van de Instellingswet Autoriteit Consument en Markt van overeenkomstige toepassing. 
 
 ### Artikel  3.11  
 

@@ -717,6 +717,23 @@ De in de artikelen 68, 68a en 71 bedoelde strafbare feiten zijn overtredingen.
 
 Voor zover deze wet niet anders bepaalt, wordt hetgeen tot haar uitvoering nodig is bij of krachtens algemene maatregel van bestuur geregeld.  
 
+### Artikel  78a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Tot de intrekking van deze wet maar uiterlijk tot 1 januari 2018 kan de zorgautoriteit: 
+
+a. een bijdrage in de kapitaallasten verstrekken aan bij ministeriële regeling aan te wijzen rechtspersonen die voor 1 januari 2012 zorg of diensten, niet zijnde zorg of diensten in het kader van de geestelijke gezondheidszorg, leverden die op grond van deze wet verzekerd waren en ten aanzien waarvan de zorgautoriteit voor laatstgenoemde datum heeft vastgesteld dat zij dan wel hun rechtsopvolgers in aanmerking komen voor een vergoeding van kapitaallasten als bedoeld in haar Beleidsregel CA-300-473 (Stcrt. 11 juli 2011, nr. 12384) inzake kapitaallasten,  
+
+b. een bijdrage voor vaste activa verstrekken aan bij ministeriële regeling aan te wijzen rechtspersonen die voor 1 januari 2012 zorg of diensten, niet zijnde zorg of diensten in het kader van de geestelijke gezondheidszorg, leverden die op grond van deze wet verzekerd waren en waaraan de zorgautoriteit voor laatstgenoemde datum op grond van de Beleidsregel CA-300-493 (Stcrt. 16 augustus 2011, nr. 14267) een vergoeding heeft toegekend, dan wel aan hun rechtsopvolgers.     
+2.  Tot de intrekking van deze wet maar uiterlijk tot 1 januari 2018 kan de zorgautoriteit: 
+
+a. een bijdrage in de kapitaallasten verstrekken aan bij ministeriële regeling aan te wijzen rechtspersonen die voor 1 januari 2008 zorg of diensten in het kader van de geestelijke gezondheidszorg leverden die op grond van deze wet verzekerd waren en waaraan de zorgautoriteit voor laatstgenoemde datum op grond van de Beleidsregel CA-300-473 (Stcrt. 11 juli 2011, nr. 12384) inzake kapitaallasten een budget kapitaallasten heeft toegekend, dan wel aan hun rechtsopvolgers,  
+
+b. een bijdrage voor vaste activa verstrekken aan bij ministeriële regeling aan te wijzen rechtspersonen die voor 1 januari 2008 zorg of diensten in het kader van de geestelijke gezondheidszorg leverden die op grond van deze wet verzekerd waren en ten aanzien waarvan de zorgautoriteit voor laatstgenoemde datum heeft vastgesteld dat zij dan wel hun rechtsopvolgers in aanmerking komen voor een vergoeding als bedoeld in haar Beleidsregel CA-300-493 (Stcrt. 16 augustus 2011, nr. 14267) inzake compensatie vaste activa AWBZ en GGZ in verband met invoering normatieve huisvestingscomponent.     
+3.  De bijdragen, bedoeld in het eerste en tweede lid, kunnen slechts worden verstrekt aan rechtspersonen die onmiddellijk voorafgaande aan 1 januari 2015 verblijf met daarmee gepaard gaande zorg als bedoeld in deze wet verleenden en de desbetreffende zorg vanaf die datum in opdracht van een of meer colleges van burgemeester en wethouders als maatwerkvoorziening als bedoeld in de Wet maatschappelijke ondersteuning 2015 of als jeugdhulp als bedoeld in de Jeugdwet verlenen.   
+4.  Bij ministeriële regeling worden regels gesteld omtrent de hoogte en de berekening van de bijdragen en worden nadere voorschriften gesteld waaronder de bijdragen worden verstrekt.   
+5.  In aanvulling op artikel 90, tweede lid, van de Wet financiering sociale verzekering komen de bijdragen, bedoeld in dit het eerste en tweede lid, ten laste van het Algemeen Fonds Bijzondere Ziektekosten.  
+
 ###Artikel 78b 
 
 Onze Minister zendt voor 1 februari 2008 en vervolgens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van de artikelen 15 tot en met 16c.

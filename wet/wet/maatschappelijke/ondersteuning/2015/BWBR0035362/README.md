@@ -1326,6 +1326,15 @@ b. door derden wordt geleverd aan een belanghebbende, aan wie op grond van artik
 1.  Nadat het indicatieorgaan, bedoeld in artikel 9b, eerste lid, van de Algemene Wet Bijzondere Ziektekosten, en de zorgverzekeraar, bedoeld in artikel 1, onderscheidenlijk de rechtspersoon, bedoeld in artikel 40 van die wet, de in artikel 8.2 genoemde gegevens hebben verstrekt aan het college van de gemeente waarvan betrokkene ingezetene is, voert het college, met overeenkomstige toepassing van artikel 2.3.2, tweede tot en met achtste lid, zonder melding als bedoeld in artikel 2.3.2, eerste lid, het in dat artikel bedoelde onderzoek uit op een zodanig tijdstip dat betrokkene tijdig voor het tijdstip waarop hij niet langer op grond van artikel 8.3, eerste of derde lid, of artikel 8.4, eerste lid, aanspraak zal hebben op de in die gegevens omschreven zorg onderscheidenlijk de in die gegevens omschreven subsidie, een aanvraag kan doen voor een maatwerkvoorziening als bedoeld in artikel 2.3.5. eerste lid.   
 2.  Nadat de zorgverzekeraar, bedoeld in artikel 1, onderscheidenlijk de rechtspersoon, bedoeld in artikel 40 van de Algemene Wet Bijzondere Ziektekosten, de in artikel 8.2, tweede lid, bedoelde gegevens heeft verstrekt aan het college van de gemeente waarvan betrokkene ingezetene is, voert het college, met overeenkomstige toepassing van artikel 2.3.2, tweede tot en met achtste lid, zonder melding als bedoeld in artikel 2.3.2, eerste lid, het in dat artikel bedoelde onderzoek uit op een zodanig tijdstip dat betrokkene tijdig voor het tijdstip waarop hij niet langer op grond van artikel 8.3, vierde lid, aanspraak zal hebben op de in die gegevens omschreven zorg, een aanvraag kan doen voor een maatwerkvoorziening als bedoeld in artikel 2.3.5. eerste lid.  
 
+### Artikel  8.6a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+Artikel 2.3.5, zesde lid, geldt in 2015 niet voor daar bedoelde cliënten: 
+
+a. die thuis wonen en een maatwerkvoorziening inhoudende een hulpmiddel of een woningaanpassing hebben aangevraagd;  
+
+b. die zonder behandeling in een instelling verblijven en een maatwerkvoorziening inhoudende een hulpmiddel ter verbetering van hun mobiliteit hebben aangevraagd.   
+
 ### Artikel  8.7  
 
 1.  De gemeenteraad stelt het beleidsplan, bedoeld in artikel 2.1.2, en de verordening, bedoeld in de artikelen 2.1.3, 2.1.4, 2.1.5, 2.1.6 en 2.6.6, vast voor 1 november van het kalenderjaar waarin enig artikel van deze wet in werking is getreden.   

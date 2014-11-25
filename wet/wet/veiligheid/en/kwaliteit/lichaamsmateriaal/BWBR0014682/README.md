@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a.Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
-b.lichaamsmateriaal: weefsel, cellen, bestanddelen van een embryo, foetaal weefsel in de zin van de [Wet foetaal weefsel](../../../../../../../wet/wet/foetaal/weefsel/BWBR0012983/README.md), alsmede uit weefsel of cellen of uit bestanddelen van een embryo dan wel uit foetaal weefsel in kweek gebrachte cellen, bestemd voor toepassing op de mens;
+b.lichaamsmateriaal: weefsel, cellen, bestanddelen van een embryo, foetaal weefsel in de zin van de Wet foetaal weefsel, alsmede uit weefsel of cellen of uit bestanddelen van een embryo dan wel uit foetaal weefsel in kweek gebrachte cellen, bestemd voor toepassing op de mens;
 
 c.weefsel: alle delen van het menselijk lichaam die uit cellen bestaan;
 
@@ -40,7 +40,7 @@ k.weefselinstelling: een weefselbank, een ziekenhuisafdeling of een andere insta
 
 l.orgaanbank: een weefselinstelling die erkend is voor het in ontvangst nemen van lichaamsmateriaal na het verkrijgen daarvan;
 
-m.orgaancentrum: een instelling als bedoeld in [artikel 24 van de Wet op de orgaandonatie](../../../../../../../wet/wet/op/de/orgaandonatie/BWBR0008066/README.md);
+m.orgaancentrum: een instelling als bedoeld in artikel 24 van de Wet op de orgaandonatie;
 
 n. EU-richtlijn weefsels en cellen: de door de Onze Minister aan te wijzen richtlijn; 
 
@@ -52,22 +52,22 @@ q. donor: elke menselijke bron, dood of levend, van lichaamsmateriaal of een per
 
 r. ontvanger: een persoon bij wie een orgaan geïmplanteerd wordt;  
 
-s. verkrijgingsorganisatie: een gezondheidszorginstelling, team of eenheid van een ziekenhuis of een persoon of een andere instantie die organen verkrijgt of de verkrijging daarvan coördineert en een toelating heeft op grond van [artikel 5, eerste lid, van de Wet toelating zorginstellingen](../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);  
+s. verkrijgingsorganisatie: een gezondheidszorginstelling, team of eenheid van een ziekenhuis of een persoon of een andere instantie die organen verkrijgt of de verkrijging daarvan coördineert en een toelating heeft op grond van artikel 5, eerste lid, van de Wet toelating zorginstellingen;  
 
 t. transplantatie: een proces dat tot doel heeft bepaalde functies van het menselijke lichaam te herstellen door een orgaan over te brengen van een donor naar een ontvanger;  
 
-u. transplantatiecentrum: een gezondheidszorginstelling, team of eenheid van een ziekenhuis of andere instantie die menselijke organen transplanteert en daartoe op grond van de [Wet op bijzondere medische verrichtingen](../../../../../../../wet/wet/op/bijzondere/medische/verrichtingen/BWBR0008974/README.md) een vergunning heeft;  
+u. transplantatiecentrum: een gezondheidszorginstelling, team of eenheid van een ziekenhuis of andere instantie die menselijke organen transplanteert en daartoe op grond van de Wet op bijzondere medische verrichtingen een vergunning heeft;  
 
 v. verwijdering: de eindbestemming van een orgaan wanneer dat niet voor transplantatie wordt gebruikt.  
 2. Een wijziging van de richtlijnen bedoeld in het eerste lid, onderdelen n en o gaat voor de toepassing van het bepaalde bij of krachtens de Wet veiligheid en kwaliteit lichaamsmateriaal gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.
 
 ### Artikel  2  
 
-Deze wet is niet van toepassing op lichaamsmateriaal dat in een en dezelfde operatie wordt weggenomen en teruggeplaatst bij dezelfde persoon, bloed, afgenomen in het kader van de [Wet inzake bloedvoorziening](../../../../../../../wet/wet/inzake/bloedvoorziening/BWBR0009079/README.md), en op lichaamsmateriaal voor zover daarop de [Wet op de Geneesmiddelenvoorziening](../../../../../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md) of de [Wet op de medische hulpmiddelen](../../../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md) van toepassing is. 
+Deze wet is niet van toepassing op lichaamsmateriaal dat in een en dezelfde operatie wordt weggenomen en teruggeplaatst bij dezelfde persoon, bloed, afgenomen in het kader van de Wet inzake bloedvoorziening, en op lichaamsmateriaal voor zover daarop de Wet op de Geneesmiddelenvoorziening of de Wet op de medische hulpmiddelen van toepassing is. 
 
 ### Artikel  3  
 
-Het is verboden weefsels, cellen, bestanddelen van een embryo, foetale weefsels in de zin van de [Wet foetaal weefsel](../../../../../../../wet/wet/foetaal/weefsel/BWBR0012983/README.md), alsmede uit weefsel of cellen of uit bestanddelen van een embryo dan wel uit foetaal weefsel in kweek gebrachte cellen, die bij het verkrijgen uitsluitend bestemd waren voor een ander doel dan toepassing op de mens, alsnog voor die toepassing te gebruiken. 
+Het is verboden weefsels, cellen, bestanddelen van een embryo, foetale weefsels in de zin van de Wet foetaal weefsel, alsmede uit weefsel of cellen of uit bestanddelen van een embryo dan wel uit foetaal weefsel in kweek gebrachte cellen, die bij het verkrijgen uitsluitend bestemd waren voor een ander doel dan toepassing op de mens, alsnog voor die toepassing te gebruiken. 
 
 ### Artikel  3a  
 
@@ -82,18 +82,18 @@ De verkrijging van organen vindt zonder winstoogmerk plaats.
 1.  De instelling waar lichaamsmateriaal ter beschikking komt of de natuurlijke persoon die in de uitoefening van een geneeskundig beroep de beschikking krijgt over lichaamsmateriaal, biedt dat lichaamsmateriaal aan een orgaanbank aan.   
 2.  Het eerste lid geldt niet met betrekking tot: 
 
-a. lichaamsmateriaal waarvoor overeenkomstig de [Wet op de orgaandonatie](../../../../../../../wet/wet/op/de/orgaandonatie/BWBR0008066/README.md) een toewijzing heeft plaatsgevonden en dat naar zijn aard niet geschikt is om te worden aangeboden aan een orgaanbank;  
+a. lichaamsmateriaal waarvoor overeenkomstig de Wet op de orgaandonatie een toewijzing heeft plaatsgevonden en dat naar zijn aard niet geschikt is om te worden aangeboden aan een orgaanbank;  
 
 b. lichaamsmateriaal dat wordt weggenomen en teruggeplaatst bij dezelfde persoon in het kader van één geneeskundige behandeling;  
 
 c. uit weefsel of cellen of uit bestanddelen van een embryo dan wel uit foetaal weefsel in kweek gebrachte cellen; 
 
-d. geslachtscellen ten behoeve van in-vitrofertilisatie of inseminatie, behoudens in geval van kunstmatige donorbevruchting als bedoeld in [artikel 1, onder c, van de Wet donorgegevens kunstmatige bevruchting](../../../../../../../wet/wet/donorgegevens/kunstmatige/bevruchting/BWBR0013642/README.md).    
+d. geslachtscellen ten behoeve van in-vitrofertilisatie of inseminatie, behoudens in geval van kunstmatige donorbevruchting als bedoeld in artikel 1, onder c, van de Wet donorgegevens kunstmatige bevruchting.    
 3.  Bij de aanbieding wordt in voorkomende gevallen melding gemaakt van andere doeleinden waarvoor tevens toestemming tot het gebruiken van het lichaamsmateriaal is verleend, dan toepassing op de mens.  
 
 ### Artikel  5  
 
-Een orgaanbank bewaart lichaamsmateriaal waarvan op grond van [artikel 18, tweede lid, van de Wet op de orgaandonatie](../../../../../../../wet/wet/op/de/orgaandonatie/BWBR0008066/README.md) is bepaald dat het voor implantatie beschikbaar moet blijven, ten minste totdat het orgaancentrum met toepassing van die wet heeft aangewezen wie voor implantatie van dat lichaamsmateriaal in aanmerking komt, of totdat het orgaancentrum heeft bepaald dat het niet langer beschikbaar moet blijven. 
+Een orgaanbank bewaart lichaamsmateriaal waarvan op grond van artikel 18, tweede lid, van de Wet op de orgaandonatie is bepaald dat het voor implantatie beschikbaar moet blijven, ten minste totdat het orgaancentrum met toepassing van die wet heeft aangewezen wie voor implantatie van dat lichaamsmateriaal in aanmerking komt, of totdat het orgaancentrum heeft bepaald dat het niet langer beschikbaar moet blijven. 
 
 ### Artikel  7  
 
@@ -103,8 +103,8 @@ Een orgaanbank bewaart lichaamsmateriaal waarvan op grond van [artikel 18, tweed
 
 a. bloed;  
 
-b. lichaamsmateriaal dat geen andere bewerking heeft ondergaan dan gericht op de bewaring ervan waarvoor overeenkomstig de [Wet op de orgaandonatie](../../../../../../../wet/wet/op/de/orgaandonatie/BWBR0008066/README.md) een toewijzing heeft plaatsgevonden.     
-4.  Een ieder die lichaamsmateriaal op Nederlands grondgebied brengt met het oog op implantatie in de zin van de [Wet op de orgaandonatie](../../../../../../../wet/wet/op/de/orgaandonatie/BWBR0008066/README.md), doet daarvan melding aan het orgaancentrum.  
+b. lichaamsmateriaal dat geen andere bewerking heeft ondergaan dan gericht op de bewaring ervan waarvoor overeenkomstig de Wet op de orgaandonatie een toewijzing heeft plaatsgevonden.     
+4.  Een ieder die lichaamsmateriaal op Nederlands grondgebied brengt met het oog op implantatie in de zin van de Wet op de orgaandonatie, doet daarvan melding aan het orgaancentrum.  
 
 ### Artikel  8  
 
@@ -142,9 +142,9 @@ Onze Minister stelt een geactualiseerd register op van verkrijgingsorganisaties 
 
 1. Het is verboden zonder erkenning van Onze Minister lichaamsmateriaal in ontvangst te nemen na het verkrijgen, of het te bewerken, te preserveren, te bewaren of te distribueren. 
 2. Een erkenning kan worden verleend voor een of meer van de in het eerste lid genoemde handelingen en voor een of meer soorten van lichaamsmateriaal. 
-3. Een erkenning kan uitsluitend worden verleend aan een rechtspersoon die geen orgaancentrum is en, indien het een orgaanbank betreft, waarvan het doel blijkens de statuten niet is het doen van uitkeringen aan oprichters of aan hen die deel uitmaken van haar organen noch ook aan anderen. Een erkenning voor het in ontvangst nemen van lichaamsmateriaal met het oog op implantatie in de zin van de [Wet op de orgaandonatie](../../../../../../../wet/wet/op/de/orgaandonatie/BWBR0008066/README.md) wordt geweigerd indien een doelmatige voorziening in de behoefte aan lichaamsmateriaal niet is gebaat bij verlening van de erkenning dan wel een doelmatige samenwerking met andere orgaanbanken en met orgaancentra niet is verzekerd. 
+3. Een erkenning kan uitsluitend worden verleend aan een rechtspersoon die geen orgaancentrum is en, indien het een orgaanbank betreft, waarvan het doel blijkens de statuten niet is het doen van uitkeringen aan oprichters of aan hen die deel uitmaken van haar organen noch ook aan anderen. Een erkenning voor het in ontvangst nemen van lichaamsmateriaal met het oog op implantatie in de zin van de Wet op de orgaandonatie wordt geweigerd indien een doelmatige voorziening in de behoefte aan lichaamsmateriaal niet is gebaat bij verlening van de erkenning dan wel een doelmatige samenwerking met andere orgaanbanken en met orgaancentra niet is verzekerd. 
 4. Ter uitvoering van de op grond van de EU-richtlijn weefsels en cellen vastgestelde voorschriften inzake erkenning, aanwijzing, machtiging of vergunning van weefselinstellingen worden bij regeling van Onze Minister voorschriften vastgesteld waaraan een instelling moet voldoen om voor erkenning in aanmerking te komen. 
-5. Het eerste lid geldt niet met betrekking tot lichaamsmateriaal waarvoor overeenkomstig de [Wet op de orgaandonatie](../../../../../../../wet/wet/op/de/orgaandonatie/BWBR0008066/README.md) een toewijzing heeft plaatsgevonden en dat naar zijn aard niet geschikt is om te worden aangeboden aan een orgaanbank.
+5. Het eerste lid geldt niet met betrekking tot lichaamsmateriaal waarvoor overeenkomstig de Wet op de orgaandonatie een toewijzing heeft plaatsgevonden en dat naar zijn aard niet geschikt is om te worden aangeboden aan een orgaanbank.
 
 ### Artikel  10  
 
@@ -182,7 +182,7 @@ Onze Minister is bevoegd een bestuurlijke boete van ten hoogste € 900 000,�
 ### Artikel  21  
 
 1.  Ongeoorloofde toegang tot gegevens of systemen waarmee de identificatie van donoren of ontvangers mogelijk wordt, is verboden.   
-2.  Behoudens het bepaalde in de [artikelen 8](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md) en [21 van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), is elk gebruik van systemen of gegevens waarmee identificatie van donoren of ontvangers mogelijk wordt met als doel donoren of ontvangers te traceren voor andere doeleinden dan hun geneeskundige behandeling verboden.  
+2.  Behoudens het bepaalde in de artikelen 8 en 21 van de Wet bescherming persoonsgegevens, is elk gebruik van systemen of gegevens waarmee identificatie van donoren of ontvangers mogelijk wordt met als doel donoren of ontvangers te traceren voor andere doeleinden dan hun geneeskundige behandeling verboden.  
 
 ### Hoofdstuk  V  
 
@@ -199,7 +199,7 @@ b. voldoet aan de kwaliteits- en veiligheidseisen die gelijkwaardig zijn aan de 
 
 ### Artikel  23  
 
-Een vergunning, verleend aan een orgaanbank op grond van [artikel 28 van de Wet op de orgaandonatie](../../../../../../../wet/wet/op/de/orgaandonatie/BWBR0008066/README.md), wordt gelijkgesteld met een erkenning op grond van deze wet. 
+Een vergunning, verleend aan een orgaanbank op grond van artikel 28 van de Wet op de orgaandonatie, wordt gelijkgesteld met een erkenning op grond van deze wet. 
 
 ### Artikel  24  
 
