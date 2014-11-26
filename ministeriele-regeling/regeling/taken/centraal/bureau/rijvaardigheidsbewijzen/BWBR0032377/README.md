@@ -3,14 +3,14 @@
 ##Regeling van de Minister van Infrastructuur en Milieu, van 6 december 2012, nr. IENM/BSK-2012/243381, houdende vaststelling taken van het Centraal Bureau Rijvaardigheidsbewijzen (Regeling taken Centraal Bureau Rijvaardigheidsbewijzen)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op [artikel 4aa, derde lid, onderdeel b, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), de [artikelen 27, eerste lid](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), en [28, eerste lid, van het Besluit personenvervoer 2000](../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), [artikel 2.8, vierde lid, van de Wet wegvervoer goederen](../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en [artikel 11, eerste lid, onder c, van het Besluit inzamelen afvalstoffen](../../../../../../../AMvB/besluit/inzamelen/afvalstoffen/BWBR0016530/README.md);
+Gelet op artikel 4aa, derde lid, onderdeel b, van de Wegenverkeerswet 1994, de artikelen 27, eerste lid, en 28, eerste lid, van het Besluit personenvervoer 2000, artikel 2.8, vierde lid, van de Wet wegvervoer goederen en artikel 11, eerste lid, onder c, van het Besluit inzamelen afvalstoffen;
 BESLUIT:    
 
 ### Artikel  1  
 
 ####Taken Centraal Bureau Rijvaardigheidsbewijzen
 
-Onverminderd [artikel 4aa, eerste lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is het CBR belast met de volgende taken: 
+Onverminderd artikel 4aa, eerste lid, van de Wegenverkeerswet 1994 is het CBR belast met de volgende taken: 
 
 a. het ontwikkelen, afnemen en actueel houden van examens strekkende tot de beoordeling van de vakbekwaamheid voor de volgende beroepen in de sector transport en logistiek: 
 
@@ -79,7 +79,7 @@ d. het informeren van rijscholen over relevante ontwikkelingen voor hun taakuitv
 ####Voorwaarden
 
 1.  Het CBR brengt voor de activiteiten, bedoeld in artikel 1, tarieven in rekening. De hoogte van een tarief wordt zodanig bepaald dat het tarief ten minste de met de betrokken activiteit gemoeide kosten dekt.   
-2.  De activiteiten, bedoeld in artikel 1, gaan niet ten koste van de in [artikel 4aa, eerste en derde lid, onder a, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) bedoelde taken en leiden niet tot een verstoring van de marktverhoudingen.  
+2.  De activiteiten, bedoeld in artikel 1, gaan niet ten koste van de in artikel 4aa, eerste en derde lid, onder a, van de Wegenverkeerswet 1994 bedoelde taken en leiden niet tot een verstoring van de marktverhoudingen.  
 
 ### Artikel  3  
 
@@ -100,7 +100,7 @@ Wijzigt deze regeling.
 ####Inwerkingtreding
 
 1.  Deze regeling, met uitzondering van artikel 4, treedt in werking met ingang van 1 januari 2013.   
-2.  Artikel 4 treedt in werking met ingang van 1 juli 2014.  
+2.  Artikel 4 treedt in werking met ingang van 1 januari 2016.  
 
 ### Artikel  6  
 

@@ -15,7 +15,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de tot haar uitvoering gegeven voorschriften wordt verstaan onder:  
 
-1. pleegkind: een door aspirant-adoptiefouders opgenomen buitenlands kind als bedoeld in [artikel 1 van de Wet opneming buitenlandse kinderen ter adoptie](../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md) (*Stb.* 1988, 566), dan wel een minderjarige die bij anderen dan zijn ouders, voogd of bloed- en aanverwanten tot en met de derde graad wordt verzorgd en opgevoed, met dien verstande, dat daaronder niet is begrepen:  
+1. pleegkind: een door aspirant-adoptiefouders opgenomen buitenlands kind als bedoeld in artikel 1 van de Wet opneming buitenlandse kinderen ter adoptie (*Stb.* 1988, 566), dan wel een minderjarige die bij anderen dan zijn ouders, voogd of bloed- en aanverwanten tot en met de derde graad wordt verzorgd en opgevoed, met dien verstande, dat daaronder niet is begrepen:  
 
 a. een minderjarige, op wiens verzorging en opvoeding krachtens de bepalingen van een andere wet toezicht wordt uitgeoefend door anderen dan zijn ouders of voogd;  
 
@@ -56,7 +56,7 @@ Elke kennisgeving krachtens het voorgaande artikel gedaan, wordt door burgemeest
 ### Artikel  8  
 
 1.  Met het toezicht op de naleving van de bij of krachtens deze wet gegeven voorschriften zijn belast de ambtenaren van de raad voor de kinderbescherming.    
-2.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:17](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:18](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+2.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de artikelen 5:17, 5:18 en 5:19 van de Algemene wet bestuursrecht.    
 3.  De toezichthouder is bevoegd van degenen die de verzorging en opvoeding van een pleegkind op zich hebben genomen of het hoofd van de inrichting waar het pleegkind verblijft, te vorderen het pleegkind te tonen.   
 
 ### Artikel  9  
@@ -103,7 +103,7 @@ Degenen die de verzorging en opvoeding van een pleegkind op zich hebben genomen 
 
 ### Artikel  17  
 
-De in het vorige artikel bedoelde beslissing wordt niet gegeven, dan nadat ook de minderjarige van twaalf jaren of ouder gehoord of behoorlijk opgeroepen is, tenzij dit in verband met de lichamelijke of geestelijke toestand van het kind niet mogelijk is. De rechter bepaalt de wijze waarop de minderjarige wordt opgeroepen, alsmede de wijze waarop en de plaats waar het verhoor kan geschieden. [Artikel 802 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing. 
+De in het vorige artikel bedoelde beslissing wordt niet gegeven, dan nadat ook de minderjarige van twaalf jaren of ouder gehoord of behoorlijk opgeroepen is, tenzij dit in verband met de lichamelijke of geestelijke toestand van het kind niet mogelijk is. De rechter bepaalt de wijze waarop de minderjarige wordt opgeroepen, alsmede de wijze waarop en de plaats waar het verhoor kan geschieden. Artikel 802 van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing. 
 
 ### Artikel  18  
 
@@ -127,9 +127,9 @@ De in deze wet strafbaar gestelde feiten worden beschouwd als overtredingen.
 
 ### Artikel  22  
 
-1.  Met de opsporing van de bij artikel 20 strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de ambtenaren van de raad voor de kinderbescherming. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.    
+1.  Met de opsporing van de bij artikel 20 strafbaar gestelde feiten zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de ambtenaren van de raad voor de kinderbescherming. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.    
 2.  De artikelen 8, derde lid en 9 zijn van toepassing.    
-3.  De [artikelen 5:15](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+3.  De artikelen 5:15, 5:16 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 
 ####Overgangs- en slotbepalingen
 

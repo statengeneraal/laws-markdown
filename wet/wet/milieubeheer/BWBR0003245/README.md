@@ -837,7 +837,7 @@ g. artikel 2.4 van de Wet algemene bepalingen omgevingsrecht, voor zover die bev
 
 2°. activiteiten die op grond van artikel 2.1, eerste lid, onder i, van die wet, bij algemene maatregel van bestuur zijn aangewezen, voor zover die activiteiten plaatsvinden binnen een inrichting en voor zover dat bij die maatregel is bepaald; 
 
-3°. gevallen waarin van het bestemmingsplan wordt afgeweken met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, of artikel 2.12, tweede lid, van die wet;   
+3°. gevallen waarin van het bestemmingsplan wordt afgeweken met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van die wet of, voor zover daartoe aangewezen bij algemene maatregel van bestuur, met toepassing van artikel 2.12, eerste lid, onder a, onder 2°, van die wet;   
 
 h. artikel 2.3 van de Crisis- en herstelwet.  
 3.  Bij de uitoefening van een bevoegdheid of toepassing van een wettelijk voorschrift als bedoeld in het eerste lid, aanhef en onder c of d, gedurende de periode waar een programma als bedoeld in artikel 5.12, eerste lid, of 5.13, eerste lid, betrekking op heeft, vindt met betrekking tot de effecten van de desbetreffende ontwikkeling of het desbetreffende besluit op de luchtkwaliteit geen afzonderlijke beoordeling van de luchtkwaliteit plaats voor een in bijlage 2 opgenomen grenswaarde voor die periode, noch voor enig jaar daarna.  
@@ -1273,7 +1273,7 @@ j. alsmede de gegevens die zijn aangewezen in bijlage IV van de EEG-richtlijn mi
 
 a. een besluit is vereist waarvoor op grond van artikel 19f, eerste lid, van de Natuurbeschermingswet 1998 een passende beoordeling moet worden gemaakt,  
 
-b. een besluit is vereist dat mede uitvoering geeft aan artikel 2.1, eerste lid, onder c, juncto artikel 2.12, eerste lid, onder a, onder 3°, of het tweede lid, van de Wet algemene bepalingen omgevingsrecht, of  
+b. een besluit is vereist dat mede uitvoering geeft aan artikel 2.1, eerste lid, onder c. juncto artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht, voor zover het betreft een geval dat behoort tot een krachtens artikel 7.2, derde of vierde lid, aangewezen categorie besluiten, of  
 
 c. een plan is vereist als bedoeld in artikel 14.4b.   
 

@@ -154,6 +154,29 @@ b.  aannemelijk heeft gemaakt dat hij redelijkerwijs niet de mogelijkheid heeft 
 1.   In geval van een verzoek om toestemming voor opzegging van de arbeidsverhouding van een werknemer die optreedt of minder dan twee jaar geleden is opgetreden als vertegenwoordiger bij de uitvoering van pré-akkoorden als bedoeld in artikel 13 van de Europese Richtlijn EU 94/45, kan toestemming voor opzegging van de arbeidsverhouding slechts worden verleend indien de werkgever aannemelijk heeft gemaakt dat het voorgenomen ontslag geen verband houdt met de activiteiten van de werknemer bij de uitvoering van de pré-akkoorden.    
 2.   Het eerste lid is van overeenkomstige toepassing op een werknemer die activiteiten verricht of minder dan twee jaar geleden heeft verricht ten behoeve van de oprichting van een ondernemingsraad of een personeelsvertegenwoordiging.   
 
+### §  6a  
+
+####Ontslag van een payrollwerknemer
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  6a:1  
+Treedt in werking per 01-01-2015 
+
+1.  Indien als gevolg van het beëindigen van een overeenkomst tussen een payrollwerkgever en een opdrachtgever door de payrollwerkgever toestemming voor opzegging van de arbeidsverhouding met een payrollwerknemer wordt gevraagd, wordt aan de hand van de omstandigheden bij de opdrachtgever bepaald of aan de voorwaarden voor het verlenen van toestemming is voldaan.   
+2.  Indien de regels voor het bepalen van de volgorde van opzegging bij het vervallen van arbeidsplaatsen bij de opdrachtgever afwijken van artikel 4:2, wordt bij de toepassing van het eerste lid uitgegaan van die regels.   
+3.  Als het eerste lid van toepassing is, is in afwijking van de artikelen 4.1, derde lid, en artikel 4.2, derde lid, Bijlage B niet van toepassing.  
+
+### Artikel  6a.2  
+Treedt in werking per 01-01-2015 
+
+Indien het Uitvoeringsinstituut werknemersverzekeringen toestemming voor opzegging van de arbeidsverhouding met een payrollwerknemer verleent wegens redenen van bedrijfseconomische aard bij de opdrachtgever, verbindt hij hieraan de voorwaarde dat de opdrachtgever niet binnen 26 weken na de bekendmaking van die toestemming een werknemer in dienst zal nemen voor het verrichten van werkzaamheden van dezelfde aard, dan nadat hij de payrollwerknemer in de gelegenheid heeft gesteld zijn vroegere werkzaamheden op de bij de opdrachtgever gebruikelijke voorwaarden te hervatten, al dan niet door tussenkomst van de payrollwerkgever. 
+
+### Artikel  6a.3  
+Treedt in werking per 01-01-2015 
+
+De artikelen 4.1, derde lid, 4.2, 4.5, 6a.1 en 6a.2 zijn niet van toepassing indien de overeenkomst tussen de payrollwerkgever en de opdrachtgever op initiatief van de payrollwerkgever wordt beëindigd, omdat de opdrachtgever de financiële verplichtingen die voortvloeien uit de overeenkomst gedurende een periode van ten minste drie maanden in het geheel niet is nagekomen en de payrollwerkgever in voldoende mate heeft getracht nakoming van de overeenkomst af te dwingen. 
+
 ### §  7  
 
 ####Overige bepalingen

@@ -3,30 +3,30 @@
 ##Regeling vaststelling modellen en aanvraagformulieren jacht-, valkeniers- en kooikersakten
 
 De Staatssecretaris van Landbouw, Natuurbeheer en Visserij,  
-Gelet op [artikel 38, tweede lid, Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);
+Gelet op artikel 38, tweede lid, Flora- en faunawet;
 
-Gelet op [artikel 1, eerste en tweede lid, Jachtregeling](../../../../../../../../../../ministeriele-regeling/jachtregeling/BWBR0013181/README.md);
+Gelet op artikel 1, eerste en tweede lid, Jachtregeling;
 Besluit:     
 
 ### Artikel  1  
 
-1.  Het model van een jachtakte als bedoeld in [artikel 38, eerste lid, onderdeel a](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), of [artikel 45, eerste lid, Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) wordt gevormd door de als bijlage 1 bij deze regeling gevoegde akte, voorzien van een door de korpschef gestempelde zegel, die jaarlijks door de Minster van Economische Zaken wordt vastgesteld.   
-2.  Het model van een valkeniersakte als bedoeld in [artikel 38, eerste lid, onderdeel b](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), of [artikel 45, eerste lid, Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) wordt vastgesteld volgens het model als opgenomen in bijlage 2 bij deze regeling.   
-3.  Het model van een kooikersakte als bedoeld in [artikel 38, eerste lid, onderdeel c, Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) wordt vastgesteld volgens het model als opgenomen in bijlage 3 bij deze regeling.   
+1.  Het model van een jachtakte als bedoeld in artikel 38, eerste lid, onderdeel a, of artikel 45, eerste lid, Flora- en faunawet wordt gevormd door de als bijlage 1 bij deze regeling gevoegde akte, voorzien van een door de korpschef gestempelde zegel, die jaarlijks door de Minster van Economische Zaken wordt vastgesteld.   
+2.  Het model van een valkeniersakte als bedoeld in artikel 38, eerste lid, onderdeel b, of artikel 45, eerste lid, Flora- en faunawet wordt vastgesteld volgens het model als opgenomen in bijlage 2 bij deze regeling.   
+3.  Het model van een kooikersakte als bedoeld in artikel 38, eerste lid, onderdeel c, Flora- en faunawet wordt vastgesteld volgens het model als opgenomen in bijlage 3 bij deze regeling.   
 
 ### Artikel  2  
 
-1.  De door de korpschef aan te brengen en te stempelen zegel op een jachtakte als bedoeld in [artikel 38, eerste lid, onderdeel a, van de Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), geldig van 1 april 2014 tot en met 31 maart 2015, wordt vastgesteld volgens het model als opgenomen in bijlage 4 bij deze regeling en is gedrukt op een gele achtergrond (kleuraanduiding Pantone 110).   
-2.  De door de korpschef aan te brengen en te stempelen zegel op een jachtakte als bedoeld in [artikel 45, eerste lid, van de Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), geldig van 1 april 2014 tot en met 31 maart 2015, wordt vastgesteld volgens het model als opgenomen in bijlage 5 bij deze regeling en is gedrukt op een blauwe achtergrond (kleuraanduiding Pantone 2728).   
-3.  De door de korpschef aan te brengen en te stempelen zegel op een duplicaat jachtakte als bedoeld in [artikel 38, eerste lid, onderdeel a](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), of [artikel 45, eerste lid, van de Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), geldig van 1 april 2014 tot en met 31 maart 2015, wordt vastgesteld volgens het model als opgenomen in bijlage 6 bij deze regeling en is gedrukt op een lichtgroene achtergrond (kleuraanduiding Pantone 376).  
+1.  De door de korpschef aan te brengen en te stempelen zegel op een jachtakte als bedoeld in artikel 38, eerste lid, onderdeel a, van de Flora- en faunawet, geldig van 1 april 2014 tot en met 31 maart 2015, wordt vastgesteld volgens het model als opgenomen in bijlage 4 bij deze regeling en is gedrukt op een gele achtergrond (kleuraanduiding Pantone 110).   
+2.  De door de korpschef aan te brengen en te stempelen zegel op een jachtakte als bedoeld in artikel 45, eerste lid, van de Flora- en faunawet, geldig van 1 april 2014 tot en met 31 maart 2015, wordt vastgesteld volgens het model als opgenomen in bijlage 5 bij deze regeling en is gedrukt op een blauwe achtergrond (kleuraanduiding Pantone 2728).   
+3.  De door de korpschef aan te brengen en te stempelen zegel op een duplicaat jachtakte als bedoeld in artikel 38, eerste lid, onderdeel a, of artikel 45, eerste lid, van de Flora- en faunawet, geldig van 1 april 2014 tot en met 31 maart 2015, wordt vastgesteld volgens het model als opgenomen in bijlage 6 bij deze regeling en is gedrukt op een lichtgroene achtergrond (kleuraanduiding Pantone 376).  
 
 ### Artikel  3  
 
-1.  Het aanvraagformulier voor een jachtakte als bedoeld in [artikel 38, eerste lid, onderdeel a](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), of [artikel 43, eerste lid, Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) wordt vastgesteld volgens het model als opgenomen in bijlage 7 bij deze regeling.   
-2.  Het aanvraagformulier voor een valkeniersakte als bedoeld in [artikel 38, eerste lid, onderdeel b, Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) wordt vastgesteld volgens het model als opgenomen in bijlage 8 bij deze regeling.   
-3.  Het aanvraagformulier voor een valkeniersakte als bedoeld in [artikel 45, eerste lid, Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) wordt vastgesteld volgens het model als opgenomen in bijlage 9 bij deze regeling.   
-4.  Het aanvraagformulier voor een kooikersakte als bedoeld in [artikel 38, eerste lid, onderdeel c, Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) wordt vastgesteld volgens het model als opgenomen in bijlage 10 bij deze regeling.    
-5.   Het aanvraagformulier voor een duplicaat van een valkeniersakte als bedoeld in [artikel 38, eerste lid, onderdeel b, Flora- en faunawet](../../../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en voor een duplicaat van een kooikersakte als bedoeld in artikel 38, eerste lid, onderdeel c, Flora- en faunawet wordt vastgesteld volgens het model opgenomen in bijlage 11 bij deze regeling. 
+1.  Het aanvraagformulier voor een jachtakte als bedoeld in artikel 38, eerste lid, onderdeel a, of artikel 43, eerste lid, Flora- en faunawet wordt vastgesteld volgens het model als opgenomen in bijlage 7 bij deze regeling.   
+2.  Het aanvraagformulier voor een valkeniersakte als bedoeld in artikel 38, eerste lid, onderdeel b, Flora- en faunawet wordt vastgesteld volgens het model als opgenomen in bijlage 8 bij deze regeling.   
+3.  Het aanvraagformulier voor een valkeniersakte als bedoeld in artikel 45, eerste lid, Flora- en faunawet wordt vastgesteld volgens het model als opgenomen in bijlage 9 bij deze regeling.   
+4.  Het aanvraagformulier voor een kooikersakte als bedoeld in artikel 38, eerste lid, onderdeel c, Flora- en faunawet wordt vastgesteld volgens het model als opgenomen in bijlage 10 bij deze regeling.    
+5.   Het aanvraagformulier voor een duplicaat van een valkeniersakte als bedoeld in artikel 38, eerste lid, onderdeel b, Flora- en faunawet en voor een duplicaat van een kooikersakte als bedoeld in artikel 38, eerste lid, onderdeel c, Flora- en faunawet wordt vastgesteld volgens het model opgenomen in bijlage 11 bij deze regeling. 
 
 ### Artikel  4  
 

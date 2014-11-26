@@ -1853,6 +1853,20 @@ b.  *jeugdige:* persoon die de leeftijd van achttien jaar nog niet heeft bereikt
 4.  De rechten en verplichtingen die op het tijdstip van de inwerkingtreding van deze wet gelden met betrekking tot geestelijke gezondheidszorg, al dan niet met verblijf, waarvoor een verwijzing als bedoeld in artikel 14, derde lid, van de Zorgverzekeringswet of artikel 9b, vijfde lid van de Zorgverzekeringswet is verstrekt voor de inwerkingtreding van deze wet, blijven gelden gedurende de periode waarvoor de verwijzing geldt, doch ten hoogste tot een jaar na de inwerkingtreding van deze wet, met dien verstande dat het college van de gemeente waarbinnen de jeugdige zijn woonplaats heeft, in de plaats treedt van de zorgverzekeraar van de jeugdige, bedoeld in artikel 1, eerste lid, onder b, van de Zorgverzekeringswet.   
 5.  Het college is er verantwoordelijk voor dat de jeugdige in situaties als bedoeld in het derde en vierde lid, de jeugdhulp die reeds is ingezet voor inwerkingtreding van deze wet, na inwerkingtreding van deze wet kan voortzetten bij dezelfde aanbieder, indien dit redelijkerwijs mogelijk is.  
 
+### Artikel  10.2a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In dit artikel wordt verstaan onder: 
+
+–  *jeugdige:* een buiten Nederland woonachtige persoon die de leeftijd van achttien jaar nog niet heeft bereikt en die hetzij op de dag voorafgaande aan de inwerkingtreding van deze wet op grond van artikel 5, eerste lid, onder b, dan wel vierde lid, van de Algemene Wet Bijzondere Ziektekosten verzekerd is en op die dag aanspraak heeft op een vergoeding ter zake van de kosten van zorg waarop op die dag aanspraak bestond op grond van artikel 6 van de Algemene Wet Bijzondere Ziektekosten, hetzij bij het Zorginstituut staat geregistreerd als een in het buitenland wonend persoon die met toepassing van een Verordening van de Raad van de Europese Gemeenschappen dan wel toepassing van zodanige verordening krachtens de overeenkomst betreffende de Europese Economische Ruimte of een verdrag inzake sociale zekerheid in geval van behoefte aan zorg recht heeft op zorg of vergoeding van de kosten daarvan, zoals voorzien in de wetgeving over de verzekering voor zorg van hun woonland;  
+
+–  *zorg:* zorg als bedoeld in de artikelen 10.1 en 10.2 waarvan de aanspraak op grond van de Algemene Wet Bijzondere Ziektekosten of de Zorgverzekeringswet ten gevolge van de inwerkingtreding van artikel 11.7 wet komt te vervallen en die na inwerkingtreding van artikel 11.7 van deze wet als jeugdhulp kan worden aangemerkt;  
+
+–  *Zorginstituut:* Zorginstituut Nederland, bedoeld in artikel 58 van de Zorgverzekeringswet.     
+2.  Personen en instellingen die ter zake van de zorg een vordering hebben op een jeugdige die aanspraak heeft op gehele of gedeeltelijke vergoeding van de kosten van die zorg, dan wel de betreffende jeugdige, zenden de nota ter vergoeding aan het Zorginstituut.   
+3.  Het Zorginstituut kan een rechtspersoon mandaat en volmacht verlenen om namens hem besluiten te nemen of werkzaamheden te verrichten die verband houden met het verlenen van vergoedingen als bedoeld in het tweede lid.   
+4.  De vergoedingen, bedoeld in het tweede lid, komen ten laste van het Zorgverzekeringsfonds en het Algemene Fonds Bijzondere Ziektekosten.  
+
 ### Artikel  10.3  
 Treedt in werking op een nader te bepalen tijdstip 
 
@@ -1900,11 +1914,62 @@ e. gegevens betreffende de leveringsvorm van de jeugdhulp.
 6.  De gegevens, bedoeld in het tweede lid tot en met vierde lid, worden uiterlijk 31 januari van het eerste kalenderjaar na het kalenderjaar waarop de artikelen 10.1, 10.2 en 10.3 in werking treden door het college vernietigd, tenzij de gegevens noodzakelijk zijn voor de uitvoering van een aansluitende voorziening op het gebied van jeugdhulp of de uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering als bedoeld in het eerste lid, onderdeel c dan wel ter voldoening aan een wettelijk voorschrift bewaard dienen te blijven.   
 7.  Bij ministeriële regeling worden nadere regels gesteld omtrent de inhoud van de gegevens, bedoeld in het tweede en derde lid, de categorieën van jeugdhulpaanbieders en overige door Onze Ministers aangewezen personen en organisaties, bedoeld in het tweede lid, die de gegevens verstrekken, de wijze en het tijdstip van het verstrekken van de gegevens, bedoeld in het tweede en derde lid, en het bericht als bedoeld in het vierde lid. Daarbij kan bepaald worden dat de gegevens of het bericht verstrekt worden aan en verwerkt worden door Onze Ministers of een door hen aan te wijzen tijdelijke voorziening.  
 
+### Artikel  10.4a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een aanvraag als bedoeld in artikel 7, eerste lid, van de Wet op de jeugdzorg, die is ingediend voor de inwerkingtreding van artikel 11.7 van deze wet, wordt in de stand van behandeling waarin deze zich bevindt door de stichting, bedoeld in artikel 1 van de Wet op de jeugdzorg, zoals deze luidde op de dag voorafgaand aan de inwerkingtreding van artikel 11.7 van deze wet, uiterlijk op de dag voor de inwerkingtreding van artikel 11.7 van deze wet overgedragen aan het college van de gemeente waarbinnen de jeugdige zijn woonplaats heeft, teneinde het college in de gelegenheid te stellen op grond van deze wet over de aanvraag een beslissing te nemen.   
+2.  Een aanvraag van een jeugdige, die tevens verzekerde is in de zin van de Algemene Wet Bijzondere Ziektekosten voor zorg waarvan de aanspraak op grond van de Algemene Wet Bijzondere Ziektekosten ten gevolge van de inwerkingtreding van artikel 11.7 van deze wet komt te vervallen en die na inwerkingtreding van artikel 11.7 van deze wet als jeugdhulp kan worden aangemerkt waarvoor het college is gehouden een voorziening op grond van deze wet te treffen, die is ingediend voor de inwerkingtreding van artikel 11.7 van deze wet, wordt binnen twee weken na de inwerkingtreding van artikel 11.7 van deze wet in de stand waarin het zich bevindt, door het daartoe bevoegde indicatieorgaan, de stichting, bedoeld in artikel 9b, eerste en vierde lid, van de Algemene Wet Bijzondere Ziektekosten, zoals deze luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, dan wel door de door Onze Minister van Volksgezondheid, Welzijn en Sport aangewezen persoon als bedoeld in artikel 53 van de Algemene Wet Bijzondere Ziektekosten, overgedragen aan het college van de gemeente waarbinnen de jeugdige zijn woonplaats heeft, teneinde het college in de gelegenheid te stellen op grond van deze wet over de aanvraag een beslissing te nemen.   
+3.  Een aanvraag van een jeugdige, die tevens verzekerde is in de zin van Zorgverzekeringswet voor zorg waarvan de aanspraak op grond van de Zorgverzekeringswet ten gevolge van de inwerkingtreding van deze wet komt te vervallen en die na inwerkingtreding van artikel 11.7 van deze wet als jeugdhulp kan worden aangemerkt waarvoor het college is gehouden een voorziening op grond van deze wet te treffen, die is ingediend voor de inwerkingtreding van artikel 11.7 van deze wet, wordt binnen twee weken na de inwerkingtreding van artikel 11.7 van deze wet in de stand waarin het zich bevindt, door de stichting, bedoeld in artikel 1 van de Wet op de jeugdzorg, zoals deze luidde op de dag voorafgaand aan de inwerkingtreding van deze wet, overgedragen aan het college van de gemeente waarbinnen de jeugdige zijn woonplaats heeft, teneinde het college in de gelegenheid te stellen op grond van deze wet over de aanvraag een beslissing te nemen.   
+4.  Het in het tweede lid bedoelde bevoegde indicatieorgaan of stichting dan wel de door Onze Minister van Volksgezondheid, Welzijn en Sport aangewezen persoon, alsmede de in het derde lid bedoelde stichting, zenden binnen twee weken na de dag waarop artikel 11.7 van deze wet in werking treedt aan het college de persoonsgegevens van de verzekerde, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die noodzakelijk zijn voor de uitvoering van de taak, bedoeld in het tweede en derde lid.   
+5.  Het college is bevoegd tot het verwerken van de persoonsgegevens die overeenkomstig het vierde lid aan hem zijn verstrekt, voor zover dat noodzakelijk is om op de aanvraag te beslissen.  
+
 ### Artikel  10.5  
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een verzoek om een machtiging of een voorlopige machtiging als bedoeld in de artikelen 29b respectievelijk 29c van de Wet op de jeugdzorg ingediend voor het tijdstip van inwerkingtreding van deze wet, gelden met ingang van dat tijdstip als een verzoek om een machtiging als bedoeld in de artikelen 6.1.2 respectievelijk 6.1.3 van deze wet.   
 2.  Een machtiging en een voorlopige machtiging als bedoeld in de artikelen 29b respectievelijk 29c van de Wet op de jeugdzorg verleend voor het tijdstip van inwerkingtreding van deze wet, gelden met ingang van dat tijdstip als een machtiging als bedoeld in de artikelen 6.1.2 respectievelijk 6.1.3 van deze wet.  
+
+### Artikel  10.6  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In dit artikel en in de artikelen 10.7 en 10.11 wordt verstaan onder bureau jeugdzorg: stichting die een bureau jeugdzorg onder de Wet op de jeugdzorg in stand hield, zoals die wet luidde tot de inwerkingtreding van artikel 11.7, eerste lid.   
+2.  Voogdij en voorlopige voogdij, uitgeoefend door een bureau jeugdzorg of gemandateerd aan een instelling met een landelijk bereik die op het tijdstip van inwerkingtreding van artikel 11.7, eerste lid, is gecertificeerd, berust met ingang van dat tijdstip bij die gecertificeerde instelling.   
+3.  Het tweede lid is van overeenkomstige toepassing met betrekking tot ondertoezichtstelling, voorlopige ondertoezichtstelling en jeugdreclassering.  
+
+### Artikel  10.7  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Voogdij of voorlopige voogdij, uitgeoefend door een bureau jeugdzorg of gemandateerd aan een instelling met een landelijk bereik die op het tijdstip van inwerkingtreding van artikel 11.7, eerste lid, niet is gecertificeerd, blijft met ingang van dat tijdstip, doch voor ten hoogste een jaar nadien, uitgeoefend worden door dat bureau jeugdzorg of door die gemandateerde instelling met een landelijk bereik.   
+2.  Ondertoezichtstelling en voorlopige ondertoezichtstelling, opgedragen aan een bureau jeugdzorg of gemandateerd aan een instelling met een landelijk bereik die op het tijdstip van inwerkingtreding van artikel 11.7, eerste lid, niet is gecertificeerd, blijft met ingang van dat tijdstip en totdat de kinderrechter een verlenging van de ondertoezichtstelling of een ondertoezichtstelling heeft uitgesproken, uitgevoerd worden door dat bureau jeugdzorg of door die gemandateerde instelling met een landelijk bereik.   
+3.  Jeugdreclassering, uitgeoefend door een bureau jeugdzorg of gemandateerd aan een instelling met een landelijk bereik die op het tijdstip van inwerkingtreding van artikel 11.7, eerste lid, niet is gecertificeerd, blijft met ingang van dat tijdstip, doch voor ten hoogste een jaar nadien, uitgeoefend worden door dat bureau jeugdzorg of door die gemandateerde instelling met een landelijk bereik.  
+
+### Artikel  10.8  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Voogdij, voorlopige voogdij of tijdelijke voogdij, uitgeoefend door de rechtspersoon, bedoeld in artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, die op het tijdstip van inwerkingtreding van artikel 11.7, eerste lid, als een gecertificeerde instelling wordt aangemerkt, berust met ingang van dat tijdstip bij die gecertificeerde instelling.   
+2.  Het eerste lid is van overeenkomstige toepassing met betrekking tot de taken van de rechtspersoon, bedoeld in artikel 256, eerste lid, van Boek 1 van het Burgerlijk Wetboek. 
+
+### Artikel  10.9  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Voogdij, voorlopige voogdij of tijdelijke voogdij uitgeoefend door de rechtspersoon, bedoeld in artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, die op het tijdstip van inwerkingtreding van artikel 11.7, eerste lid, niet als een gecertificeerde instelling wordt aangemerkt, blijft met ingang van dat tijdstip, doch voor ten hoogste een jaar nadien opgedragen aan de rechtspersoon.   
+2.  Het eerste lid is van overeenkomstige toepassing met betrekking tot de taken van de in artikel 256, eerste lid, van Boek 1 van het Burgerlijk Wetboek bedoelde rechtspersoon. 
+
+### Artikel  10.10  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In afwijking van artikel 3.2, tweede lid, kan een gemandateerde instelling met een landelijk bereik ook jeugdhulp aanbieden voor ten hoogste een jaar na inwerkingtreding van artikel 11.7, eerste lid. 
+
+### Artikel  10.11  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In het kalenderjaar waarin artikel 11.7, eerste lid, in werking treedt, besteden de colleges van de bij regeling van Onze Ministers aangewezen gemeenten bij het in die regeling aangewezen bureau jeugdzorg of zijn rechtsopvolger minimaal tachtig procent van het budget dat door de provincie in 2014 is verstrekt aan dat bureau jeugdzorg met het oog op de uitvoering van zijn wettelijke taken. 
+
+### Artikel  10.12  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Het bestuursorgaan dat op grond van artikel 8.2.3, eerste lid, van deze wet met de vaststelling en inning van ouderbijdragen is belast, stelt een persoon aan die op het tijdstip van inwerkingtreding van artikel 11.7 van deze wet als ambtenaar in de zin van artikel 1 van de Ambtenarenwet bij het Landelijk Bureau Inning Onderhoudsbijdragen, bedoeld in artikel 73 van de Wet op de jeugdzorg, in dienst is en die is belast met het vaststellen en innen van ouderbijdragen en in verband met die inwerkingtreding naar het bestuursorgaan, bedoeld in artikel 8.2.3, overgaat.   
+2.  Op een persoon als bedoeld in het eerste lid, zijn de rechtspositieregels die gelden voor de ambtenaren die zijn aangesteld bij ministeries, van overeenkomstige toepassing. De in die regels neergelegde bevoegdheden, met uitzondering van de aan Ons dan wel de aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties toegekende bevoegdheden tot het stellen van regels worden uitgeoefend door het bestuursorgaan dat op grond van artikel 8.2.3, eerste lid, van deze wet met de vaststelling en inning van ouderbijdragen is belast. Voor zover in die regels is bepaald dat bevoegdheden worden uitgeoefend met medebetrokkenheid van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, worden deze bevoegdheden uitgeoefend met medebetrokkenheid van Onze Minister van Volksgezondheid, Welzijn en Sport.  
 
 ### Hoofdstuk  11  
 
@@ -1974,6 +2039,13 @@ Onze Ministers zenden binnen drie jaar na de inwerkingtreding van de wet aan de 
 Treedt in werking op een nader te bepalen tijdstip 
 
 Voor de plaatsing van deze wet in het Staatsblad stelt Onze Minister van Volksgezondheid, Welzijn en Sport, in overeenstemming met Onze Minister van Veiligheid en Justitie, de nummering van de hoofdstukken, paragrafen en artikelen van deze wet opnieuw vast en brengt hij de in deze wet voorkomende aanhalingen van de hoofdstukken, paragrafen en artikelen met de nieuwe nummering in overeenstemming. 
+
+### Artikel  12.3a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Archiefbescheiden en de daarmee samenhangende verplichtingen, bedoeld in de Archiefwet 1995, met betrekking tot zorg waarvoor een aanvraag als bedoeld in artikel 10.4a, tweede lid, is ingediend bij een indicatieorgaan als bedoeld in artikel 9a van de Algemene Wet Bijzondere Ziektekosten en waarover op de datum van inwerkingtreding van artikel 11.7 nog geen besluit is genomen, worden door dat indicatieorgaan overgedragen aan het college van de gemeente waar de jeugdige zijn woonplaats heeft en dat gehouden is een voorziening op grond van deze wet te treffen.   
+2.  Voor zover de archiefbescheiden, bedoeld in het eerste lid, zorg betreffen waarvoor op de datum van inwerkingtreding van artikel 11.7 een indicatiebesluit is afgegeven, is het indicatieorgaan, bedoeld in artikel 9a van de Algemene Wet Bijzondere Ziektekosten, zorgdrager als bedoeld in artikel 1 van de Archiefwet 1995 voor zover de archiefbescheiden niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats.   
+3.  Het indicatieorgaan, bedoeld in het tweede lid, draagt na ontvangst van een daartoe strekkende kennisgeving door het college van de gemeente waar de jeugdige zijn woonplaats heeft, de archiefbescheiden binnen vier weken over aan het college, voor rekening en risico van dat college, indien het zorg betreft waarvoor dat college is gehouden een voorziening op grond van deze wet te treffen en deze bescheiden daartoe noodzakelijk zijn, teneinde dit college in de gelegenheid te stellen deze te kopiëren. Het college geeft de archiefbescheiden binnen vier weken na ontvangst terug.  
 
 ### Artikel  12.4  
 
