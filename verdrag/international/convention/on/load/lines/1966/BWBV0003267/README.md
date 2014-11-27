@@ -400,7 +400,7 @@ b. The present Convention shall cease to extend to any territory mentioned in su
 ####Registration
 
 1.  The present Convention shall be deposited with the Organization and the Secretary-General of the Organization shall transmit certified true copies thereof to all Signatory Governments and to all Governments which accede to the present Convention.   
-2.  As soon as the present Convention comes into force it shall be registered by the Organization in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).  
+2.  As soon as the present Convention comes into force it shall be registered by the Organization in accordance with Article 102 of the Charter of the United Nations.  
 
 ### Article  34  
 
@@ -547,7 +547,7 @@ Organizations, including classification societies, referred to in article 13 of 
 (15).   *Well. *A well is any area on the deck exposed to the weather, where water may be entrapped. Wells are considered to be deck areas bounded on two or more sides by deck structures.  
 (16). 2008 IS Code means the International Code on Intact Stability, 2008, consisting of an introduction, part A (the provisions of which shall be treated as mandatory) and part B (the provisions of which shall be treated as recommendatory), as adopted by resolution MSC.267(85), provided that:
 
-.1 amendments to the introduction and part A of the Code are adopted, brought into force and take effect in accordance with the provisions of [article VI of the 1988 Load Lines Protocol concerning the amendment procedure applicable to Annex B to the Protocol](../../../../../../../../verdrag/load/lines/protocol/1988/BWBV0004095/README.md); and  
+.1 amendments to the introduction and part A of the Code are adopted, brought into force and take effect in accordance with the provisions of article VI of the 1988 Load Lines Protocol concerning the amendment procedure applicable to Annex B to the Protocol; and  
 
 .2 amendments to part B of the Code are adopted by the Maritime Safety Committee in accordance with its Rules of Procedure.  
 
@@ -629,7 +629,7 @@ The International Load Line Certificate shall not be delivered to the ship until
 
 (1).  The master of every new ship shall be supplied with information to arrange for the loading and ballasting of his ship in such a way as to avoid the creation of any unacceptable stresses in the ship’s structure, provided that this requirement need not apply to any particular length, design or class of ship where the Administration considers it to be unnecessary.   
 (2).  Information shall be provided to the master in a form that is approved by the Administration or a recognised organization. Stability information, and loading information also related to ship strength when required under paragraph (1), shall be carried on board at all times together with evidence that the information has been approved by the Administration.   
-(3).  A ship which is not required under the [International Convention for Safety of Life at Sea](../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md) in force to undergo an inclining test upon its completion shall: 
+(3).  A ship which is not required under the International Convention for Safety of Life at Sea in force to undergo an inclining test upon its completion shall: 
 
 (a) be so inclined and the actual displacement and position of the centre of gravity shall be determined for the lightship condition;  
 
@@ -856,7 +856,7 @@ Table 16.2
 
 (g) Table 22.1 provides the acceptable arrangements of scuppers, inlets and discharges.  ![10000052918](http://wetten.overheid.nl/Illustration/10000052918)
 
-(2).  Scuppers led through the shell from enclosed superstructures used for the carriage of cargo shall be permitted only where the edge of the freeboard deck is not immersed when the ship heels 5° either way. In other cases the drainage shall be led inboard in accordance with the requirements of the [International Convention for the Safety of Life at Sea](../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md) in force.   
+(2).  Scuppers led through the shell from enclosed superstructures used for the carriage of cargo shall be permitted only where the edge of the freeboard deck is not immersed when the ship heels 5° either way. In other cases the drainage shall be led inboard in accordance with the requirements of the International Convention for the Safety of Life at Sea in force.   
 (3).  In manned machinery spaces, main and auxiliary sea inlets and discharges in connection with the operation of machinery may be controlled locally. The controls shall be readily accessible and shall be provided with indicators showing whether the valves are open or closed.   
 (4).  Scuppers and discharge pipes originating at any level and penetrating the shell either more than 450 mm below the freeboard deck or less than 600 mm above the Summer Load Line shall be provided with a non-return valve at the shell. This valve, unless required by paragraph (1), may be omitted if the piping is of substantial thickness (see paragraph (7) below).   
 (5).  Scuppers leading from superstructures or deckhouses not fitted with doors complying with the requirements of regulation 12 shall be led overboard.   
@@ -1031,7 +1031,7 @@ The area of freeing ports at intermediate breadths shall be obtained by linear i
 | > (A<sub>r</sub> + H<sub>4</sub>)<sup>**</sup>   | (a)  (e)  (f)(i)  (f)(ii)  |
 |  *2.2 Access to after end*   In the case of a flush deck ship, between crew accommodation and the after end of ship.  | As required in 1.2.4 for other types of ships  |
 
-<sup>*</sup>Oil tankers, chemical tankers and gas carreirs as defined in [regulations II-1/2.12](../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), [VII/8.2](../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md) and [VII/11.2](../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), respectively, of the International Convention for the Safety of Life at Sea, 1974, as amended.  <sup>**</sup>A<sub>r</sub>: the minimum summer freeboard calculated as type ‘A’ ship regardless of the type freeboard actually assigned. H<sub>4</sub>: the standard height of superstructure as defined in regulation 33.  <sup>***</sup>Arrangements (a)-(f) are described in paragraph (2) below. Locations (i)-(v) are described in paragraph (3) below.Table 25-1-1  
+<sup>*</sup>Oil tankers, chemical tankers and gas carreirs as defined in regulations II-1/2.12, VII/8.2 and VII/11.2, respectively, of the International Convention for the Safety of Life at Sea, 1974, as amended.  <sup>**</sup>A<sub>r</sub>: the minimum summer freeboard calculated as type ‘A’ ship regardless of the type freeboard actually assigned. H<sub>4</sub>: the standard height of superstructure as defined in regulation 33.  <sup>***</sup>Arrangements (a)-(f) are described in paragraph (2) below. Locations (i)-(v) are described in paragraph (3) below.Table 25-1-1  
 (2).  Acceptable arrangements referred to in table 25-1.1 are defined as follows: 
 
 (a) A well lighted and ventilated under-deck passageway (with a clear opening of at least 0.8 m wide and 2 m high), as close as practicable to the freeboard deck, connecting and providing access to the locations in question.  
@@ -1142,7 +1142,7 @@ The area of freeing ports at intermediate breadths shall be obtained by linear i
 ###Freeboard increase over tabular freeboard for type “B” ships, for ships with hatch covers complying with the provisions of regulation 15 (other than paragraph (6))
 
 | Length of ship (m)  | Freeboard increase (mm)  | Length of ship (m)  | Freeboard increase (mm)  | Length of ship (m)  | Freeboard increase (mm)  |
-|---|---|---|---|---|---|
+|:---|:---|:---|:---|:---|:---|
 | 108 and below  |  50  | 139  | 175  | 170  | 290  |
 | 109  |  52  | 140  | 181  | 171  | 292  |
 | 110  |  55  | 141  | 186  | 172  | 294  |
@@ -1212,14 +1212,34 @@ Freeboards at intermediate lengths of ship shall be obtained by linear interpola
 
 (iii) if the ship is intended to operate at its Summer Load Waterline with empty compartments, such compartments shall be considered empty, provided the height of the centre of gravity so calculated is not less than as calculated under subparagraph (ii);  
 
-(iv) 50% of the individual total capacity of all tanks and spaces fitted to contain consumable liquids and stores is allowed for. It shall be assumed that for each type of liquid at least one transverse pair or a single centreline tank has maximum free surface, and the tank or combination of tanks to be taken into account shall be those where the effect of free surfaces is the greatest; in each tank the centre of gravity of the contents shall be taken at the centre of volume of the tank. The remaining tanks shall be assumed either completely empty or completely filled, and the distribution of consumable liquids between these tanks shall be effected so as to obtain the greatest possible height above the keel for the centre of gravity;  
+(iv) 50 per cent of the ship's total capacity of tanks and spaces fitted to contain each type of consumables and stores is allowed for. It shall be assumed that for each type of liquid at least one transverse pair or a single centreline tank has maximum free surface, and the tank or combination of tanks to be taken into account shall be those where the effect of free surfaces is the greatest; in each tank the centre of gravity of the contents shall be taken at the centre of volume of the tank. The remaining tanks shall be assumed either completely empty or completely filled, and the distribution of consumable liquids between these tanks shall be effected so as to obtain the greatest possible height above the keel for the centre of gravity;  
 
-(v) at an angle of heel of not more than 5° in each compartment containing liquids, as prescribed in subparagraph (ii), except that in the case of compartments containing consumable fluids, as prescribed in subparagraph (iv), the maximum free surface effect shall be taken into account. Alternatively, the actual free surface effects may be used, provided the methods of calculation are acceptable to the Administration;  
+(v) Ballast water tanks shall normally be considered to be empty and no free surface correction shall be made for them; 
 
-(vi) weights shall be calculated on the basis of the following values for specific gravities:  
+(vi) Alternative treatment for free surface may be considered when developing the final condition for application of damage specified in regulation 27(12): 
+
+aa) Method 1 (appropriate to virtual corrections). The virtual centre of gravity for the initial condition is determined as follows: 
+
+i. the loading condition shall be developed in accordance with paragraphs (i) to (iv);  
+
+ii. the correction for the free surfaces is added to the vertical centre of gravity;  
+
+iii. one virtual initial condition with all compartments empty is generated on summer load line draught with level trim, using the vertical centre of gravity from the above loading condition; and  
+
+iv. the damage cases will be checked for compliance with the damage stability criteria using the above initial condition;    
+
+bb)  Method 2 (appropriate to the use of actual free surface moments according to the assumed tank fillings for damage case). The virtual centre of gravity for the initial condition is determined as follows: 
+
+i. the loading condition shall be developed in accordance with paragraphs (i) to (iv);  
+
+ii. one virtual initial condition for each damage case with liquid-filled compartments may be generated on summer load line draught with level trim, using the initial virtual condition with filled compartments generated on summer load line draught with level trim. Using the vertical centre of gravity and free surface correction from the above loading condition separate calculations for each damage case are performed, only the liquid-filled compartments to be damaged are left empty before damage; and  
+
+iii. the damage cases will be checked for compliance with the damage stability criteria using above initial conditions (one initial condition for each damage case).      
+
+(vii) weights shall be calculated on the basis of the following values for specific gravities:  
 
 | --- | --- |
-|---|---|
+|:---|:---|
 | salt water  | 1.025  |
 | fresh water  | 1.000  |
 | oil fuel  | 0.950  |
@@ -1255,7 +1275,9 @@ Freeboards at intermediate lengths of ship shall be obtained by linear interpola
 
 (e) When any part of the deck outside the compartment assumed flooded in a particular case of damage is immersed, or in any case where the margin of stability in the flooded condition may be considered doubtful, the residual stability is to be investigated. It may be regarded as sufficient if the righting lever curve has a minimum range of 20° beyond the position of equilibrium with a maximum righting lever of at least 0.1 m within this range. The area under the righting lever curve within this range shall be not less than 0.0175 m.rad. The Administration shall give consideration to the potential hazard presented by protected or unprotected openings which may become temporarily immersed within the range of residual stability.  
 
-(f) The Administration is satisfied that the stability is sufficient during intermediate stages of flooding.    
+(f) The Administration is satisfied that the stability is sufficient during intermediate stages of flooding.  
+
+(g) Compliance with the residual stability criteria specified in paragraphs (a), (c), (d) and (e) above is not required to be demonstrated in service loading conditions using a stability instrument, stability software or other approved method.   
 ###Ships without means of propulsion
 
 (14).  A lighter, barge or other ship without independent means of propulsion shall be assigned a freeboard in accordance with the provisions of these regulations. Barges which meet the requirements of paragraphs (2) and (3) may be assigned type “A” freeboards: 
@@ -2434,7 +2456,7 @@ b. Dit Verdrag houdt op van toepassing te zijn op het in de kennisgeving genoemd
 ####Registratie
 
 1.  Dit Verdrag wordt nedergelegd bij de Organisatie en de Secretaris-Generaal van de Organisatie doet hiervan voor eensluidend gewaarmerkte afschriften toekomen aan alle ondertekenende Regeringen en alle Regeringen die tot dit Verdrag toetreden.   
-2.  Zodra dit Verdrag in werking treedt, wordt het door de Organisatie overeenkomstig [artikel 102 van het Handvest van de Verenigde Naties](../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md) geregistreerd.  
+2.  Zodra dit Verdrag in werking treedt, wordt het door de Organisatie overeenkomstig artikel 102 van het Handvest van de Verenigde Naties geregistreerd.  
 
 ### Artikel  34  
 
@@ -2590,7 +2612,7 @@ i. Verhoogd halfdek. Een verhoogd halfdek is een bovenbouw die zich vanaf de ach
 15. *Kuil*. Een kuil is een aan weer en wind blootgesteld gedeelte aan dek, waar water kan achterblijven. Kuilen worden beschouwd als dekgedeelten die aan twee of meer zijden zijn begrensd door dekconstructies. 
 16. IS-Code 2008, de Internationale Code betreffende de stabiliteit in onbeschadigde toestand, 2008, bestaande uit een inleiding, deel A (waarvan de bepalingen dienen te worden aangemerkt als dwingend) en deel B (waarvan de bepalingen het karakter hebben van aanbevelingen), zoals aangenomen bij resolutie MSC.267(85), met dien verstande dat: 
 
-.1. wijzigingen van de inleiding en deel A van de Code worden aangenomen, in werking treden en van kracht worden in overeenstemming met de bepalingen van [artikel VI van het Uitwateringsprotocol inzake de wijzigingsprocedure die van toepassing is op Bijlage B bij het Protocol](../../../../../../../../verdrag/load/lines/protocol/1988/BWBV0004095/README.md); en  
+.1. wijzigingen van de inleiding en deel A van de Code worden aangenomen, in werking treden en van kracht worden in overeenstemming met de bepalingen van artikel VI van het Uitwateringsprotocol inzake de wijzigingsprocedure die van toepassing is op Bijlage B bij het Protocol; en  
 
 .2. wijzigingen van deel B van de Code worden aangenomen door de Maritieme Veiligheidscommissie in overeenstemming met haar reglement van orde.  
 
@@ -2681,7 +2703,7 @@ Het Internationale Certificaat van Uitwatering wordt niet ten behoeve van het sc
 
 2. De informatie moet aan de kapitein worden verstrekt in een vorm die is goedgekeurd door de Administratie of een erkende organisatie. Informatie omtrent de stabiliteit en informatie omtrent de lading - wanneer krachtens lid 1 vereist eveneens in samenhang met de sterkte van het schip - moet te allen tijde aan boord aanwezig zijn, tezamen met bewijsstukken waaruit blijkt dat de informatie door de Administratie is goedgekeurd.  
 
-3. Een schip dat volgens het van kracht zijnde [Verdrag voor de beveiliging van mensenlevens op zee](../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md) na voltooiing geen hellingproef behoeft te ondergaan, moet: 
+3. Een schip dat volgens het van kracht zijnde Verdrag voor de beveiliging van mensenlevens op zee na voltooiing geen hellingproef behoeft te ondergaan, moet: 
 
 a. aan een hellingproef worden onderworpen en de feitelijke waterverplaatsing en plaats van het zwaartepunt moeten worden bepaald voor de situatie bij leeg schip;  
 
@@ -2946,7 +2968,7 @@ f. De vereisten voor terugslagkleppen zijn uitsluitend van toepassing op die afv
 g. In tabel 22.1 worden de aanvaardbare voorzieningen voor spuipijpen en inlaat- en afvoerpijpen gegeven.  ![10000052958](http://wetten.overheid.nl/Illustration/10000052958)
 De vertaling van de teksten in tabel 22.1 luidt als volgt: afvoerpijpen uit ingesloten ruimten onder het vrijboordek of op het vrijboorddek afvoerpijpen uit andere ruimten algemene eis Vs. 22.1 indien binnenboordeinde < 0,01L boven ZW afvoerpijpen door machineruimte alternatieven (Vs 22.10 indien binnenboordeinde 0,01L boven ZW 0,02L boven ZW buitenboordeinde > 450 mm onder VB-dek of < 600 mm boven ZW Vs22.4 anders Vs. 22(5) bovenbouw- of dekhuisdek VB-dek binnenboordeinde pijpen buitenboordeinde pijpen pijpen uitkomend op open dek terugslagklep zonder afsluitmiddel terugslagklep met ter plaatse bediend afsluitmiddel ter plaatse bediende klep bediening op afstand normale dikte aanzienlijke dikte 
 
-2. Spuipijpen die vanuit ingesloten bovenbouwen die voor het vervoer van lading worden gebruikt door de huid worden geleid, zijn uitsluitend toegestaan wanneer de rand van het vrijboorddek niet wordt ondergedompeld wanneer het schip, naar de ene of de andere zijde, 5° slagzij maakt. In andere gevallen moeten de afvoerpijpen binnenboord worden geleid in overeenstemming met de vereisten van het van kracht zijnde [Internationaal Verdrag voor de beveiliging van mensenlevens op zee](../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md).  
+2. Spuipijpen die vanuit ingesloten bovenbouwen die voor het vervoer van lading worden gebruikt door de huid worden geleid, zijn uitsluitend toegestaan wanneer de rand van het vrijboorddek niet wordt ondergedompeld wanneer het schip, naar de ene of de andere zijde, 5° slagzij maakt. In andere gevallen moeten de afvoerpijpen binnenboord worden geleid in overeenstemming met de vereisten van het van kracht zijnde Internationaal Verdrag voor de beveiliging van mensenlevens op zee.  
 
 3. In bemande machineruimten mogen inlaatkasten voor hoofd- en hulpwerktuigen en afvoerpijpen in verband staande met het in bedrijf houden van machines ter plaatse worden bediend. De bedieningsapparatuur moet gemakkelijk toegankelijk zijn en voorzien zijn van indicatoren die aangeven of de kleppen open dan wel gesloten zijn.  
 
@@ -3159,7 +3181,7 @@ d. wanneer zulks voor de normale exploitatie van het schip noodzakelijk is, zijn
 1. Er moet voor een veilige doorgang van de bemanning worden gezorgd door ten minste een van de in onderstaande tabel 25-1.1 voorgeschreven middelen.  ![10000052959](http://wetten.overheid.nl/Illustration/10000052959)
 Tabel 25-1.1  
 
-*Olietankschepen, chemicaliëntankschepen en gastankschepen als omschreven in respectievelijk [voorschriften II-1/2.12](../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), [VII/8.2](../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md) en [VII/11.2 van het Verdrag voor de beveiliging van mensenlevens op zee, 1974](../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), zoals gewijzigd
+*Olietankschepen, chemicaliëntankschepen en gastankschepen als omschreven in respectievelijk voorschriften II-1/2.12, VII/8.2 en VII/11.2 van het Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd
 
 **A<sub>f</sub>: het minimumzomervrijboord voor schepen van het type ‘A” ongeacht het werkelijk vastgestelde vrijboord H<sub>s</sub>: de standaardhoogte van een bovenbouw als omschreven in voorschrift 33
 
@@ -3360,19 +3382,39 @@ ii. in alle ladingafdelingen, behalve die bedoeld in iii, maar met inbegrip van 
 
 iii. indien het schip is bestemd om bij de lastlijn bij zomeruitwatering te worden geëxploiteerd met lege afdelingen, worden deze afdelingen als leeg beschouwd, mits de hoogte van het aldus berekende zwaartepunt niet minder is dan die zoals berekend volgens ii;  
 
-iv. er wordt 50% aangenomen van de afzonderlijke totale capaciteit van alle voor brandstoffen en voorraden bestemde tanks en ruimten. Aangenomen wordt dat voor elke soort vloeistof ten minste één paar dwarstanks of een enkele midscheeps geplaatste tank een maximaal vrij vloeistofoppervlak heeft en dat de tank of combinatie van tanks die wordt/worden aangenomen diegenen is/zijn waar de invloed van het vrije vloeistofoppervlak het grootst is; in elke tank wordt het midden van het volume van de tank als het zwaartepunt van de inhoud genomen. De overblijvende tanks worden geacht hetzij geheel leeg hetzij geheel gevuld te zijn en de verdeling van verbruiksvloeistoffen tussen deze tanks geschiedt zodanig dat het zwaartepunt zo hoog mogelijk boven de kiel ligt;  
+iv. er wordt 50% aangenomen van de totale capaciteit van tanks en ruimten van het schip bestemd voor elke soort brandstoffen en voorraden. Aangenomen wordt dat voor elke soort vloeistof ten minste één paar dwarstanks of een enkele midscheeps geplaatste tank een maximaal vrij vloeistofoppervlak heeft en dat de tank of combinatie van tanks die wordt/worden aangenomen diegenen is/zijn waar de invloed van het vrije vloeistofoppervlak het grootst is; in elke tank wordt het midden van het volume van de tank als het zwaartepunt van de inhoud genomen. De overblijvende tanks worden geacht hetzij geheel leeg hetzij geheel gevuld te zijn en de verdeling van verbruiksvloeistoffen tussen deze tanks geschiedt zodanig dat het zwaartepunt zo hoog mogelijk boven de kiel ligt;  
 
-v. bij een slagzij van niet meer dan 5° in elke afdeling die vloeistoffen bevat, zoals voorgeschreven in ii, met dien verstande dat in het geval van afdelingen die verbruiksvloeistoffen bevatten, zoals voorgeschreven in iv, rekening moet worden gehouden met de invloed van het maximale vrije vloeistofoppervlak. Het is ook mogelijk het werkelijk optredende effect van het vrije vloeistofoppervlak te hanteren, mits de berekeningsmethoden voor de Administratie aanvaardbaar zijn;   
+v. Ballastwatertanks worden gewoonlijk geacht leeg te zijn en worden niet gecorrigeerd voor vrij vloeistofoppervlak; 
 
-vi. gewichten worden berekend op basis van de volgende waarden voor het soortelijk gewicht: 
+vi. Alternatieve berekenwijzen van de vrije vloeistofeffecten mogen gebruikt worden voor het bepalen van de stabiliteit in lekke toestand als beschreven in artikel 27(12): 
+
+(aa) Methode 1 (van toepassing op denkbeeldige correcties). Het gecorrigeerde zwaartepunt voor de aanvankelijke beladingstoestand wordt als volgt vastgesteld: 
+
+i. de beladingstoestand wordt bepaald in overeenstemming met de paragrafen (i) tot en met (iv);  
+
+ii. de correctie voor vrije vloeistofoppervlakken wordt opgeteld bij de hoogteligging van het zwaartepunt;  
+
+iii. een denkbeeldige aanvankelijke beladingstoestand waarbij alle ruimten leeg zijn wordt gegenereerd op basis van de diepgang op de gelijklastige zomerlastlijn, gebruikmakend van de hoogteligging van het zwaartepunt uit de bovenstaande beladingstoestand; en  
+
+iv. de lekgevallen worden getoetst aan de lekstabiliteitcriteria gebruikmakend van de bovenstaande aanvankelijke beladingtoestand.    
+
+(bb) Methode 2 (van toepassing op het gebruik van het werkelijke vrije vloeistofoppervlak volgens de aangenomen inhoud van de tank voor het schadegeval). Het gecorrigeerde zwaartepunt voor de aanvankelijke beladingstoestand wordt als volgt bepaald: 
+
+i. de beladingstoestand wordt bepaald in overeenstemming met de paragrafen (i) tot en met (iv);  
+
+ii. per schadegeval kan een denkbeeldige aanvankelijke toestand worden gegenereerd waarbij alle ruimten gevuld zijn met vloeistof tot de gelijklastige diepgang op de zomerlastlijn, gebruikmakend van de aanvankelijke denkbeeldige toestand met gevulde ruimten gegenereerd tot de diepgang op de zomerlastlijn met niveautrim. Gebruikmakend van de hoogteligging van het zwaartepunt en de correctie voor vrije vloeistofoppervlakken uit de bovenstaande beladingstoestand wordt voor elk schadegeval een afzonderlijke berekening gemaakt, met dien verstande dat alleen de met vloeistof gevulde ruimten die beschadigd worden leeg gelaten worden voor de schade; en  
+
+iii. de lekgevallen worden getoetst aan de lekstabiliteitcriteria gebruikmakend van de bovenstaande aanvankelijke beladingtoestand (één aanvankelijke beladingstoestand per schadegeval).     
+
+vii. gewichten worden berekend op basis van de volgende waarden voor het soortelijk gewicht:  
 
 | --- | --- |
-|---|---|
-|Zout water  |1,025 |
-|Zoet water  |1,000 |
-|Stookolie | 0,950 |
-|Dieselolie | 0,900 |
-|Smeerolie | 0,900 |
+|:---|:---|
+| Zout water   | 1,025  |
+| Zoet water   | 1,000  |
+| Stookolie  |  0,950  |
+| Dieselolie  |  0,900  |
+| Smeerolie  |  0,900  |
 
 ###*Aangenomen schade*
 
@@ -3403,7 +3445,9 @@ d. De metacentrische hoogte in volgelopen toestand positief is.
 
 e. Wanneer enig deel van het dek buiten de als volgelopen beschouwde afdeling in een bepaald geval van schade ondergedompeld is, of in een geval waarin de marge van de stabiliteit in volgelopen toestand als twijfelachtig kan worden beschouwd, moet de stabiliteit in de eindtoestand worden onderzocht. Deze kan als voldoende worden beschouwd indien de kromme van armen van statische stabiliteit een minimumbereik heeft van 20° voorbij de evenwichtstoestand met een maximale arm van stabiliteit van ten minste 0,1 m binnen dit bereik. De oppervlakte onder de kromme van armen van statische stabiliteit binnen dit bereik mag niet minder zijn dan 0,0175 m.rad. De Administratie moet aandacht schenken aan het potentiële gevaar van beschermde of onbeschermde openingen die tijdelijk onder water kunnen komen binnen de marge van de resterende stabiliteit in de eindtoestand.  
 
-f. De Administratie ervan overtuigd is dat de stabiliteit tijdens de tussenliggende stadia van vollopen voldoende is.    
+f. De Administratie ervan overtuigd is dat de stabiliteit tijdens de tussenliggende stadia van vollopen voldoende is.  
+
+g. Naleving van de criteria voor de resterende stabiliteit in de eindtoestand omschreven in de bovenstaande paragrafen (a), (c), (d) en (e) behoeft niet te worden aangetoond in operationele beladingtoestanden die met behulp van een stabiliteitsinstrument, stabiliteitssoftware of een andere goedgekeurde methode worden berekend.   
 ###*Schepen zonder voortstuwingsmiddelen*
 
 14. Voor een lichter, sleepschip of ander schip zonder eigen voortstuwingsmiddelen wordt een vrijboord vastgesteld overeenkomstig de bepalingen van deze voorschriften. Voor sleepschepen die voldoen aan het vereiste van de leden 2 en 3 kunnen vrijboorden van het type A worden vastgesteld. 
