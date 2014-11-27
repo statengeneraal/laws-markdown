@@ -43,7 +43,7 @@ b. toezichtsgebied: gebied als bedoeld in bijlage 2.
 a. de eieren rechtstreeks worden vervoerd naar een inrichting als bedoeld in artikel 26, tweede lid, van Richtlijn 2005/94/EG, en  
 
 b. het vervoer geschiedt overeenkomstig een goedgekeurd hygiëneprotocol.     
-3.  In afwijking van het eerste lid, is het vervoer van eieren voorts toegestaan, indien het betreft het vervoer van consumptie-eieren van een inrichting als bedoeld in het vijfde lid al dan niet via distributiecentra naar verkooppunten en vanaf verkooppunten.  
+3.  In afwijking van het eerste lid, is het vervoer van eieren voorts toegestaan, indien het betreft het vervoer van consumptie-eieren van een inrichting als bedoeld in het tweede lid al dan niet via distributiecentra naar verkooppunten en vanaf verkooppunten.  
 
 ### Artikel  5  
 

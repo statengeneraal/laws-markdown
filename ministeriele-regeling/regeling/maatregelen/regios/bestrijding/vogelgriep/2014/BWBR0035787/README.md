@@ -77,16 +77,12 @@ b. de dieren vergezeld gaan van het bewijsstuk bedoeld in artikel 2.4, eerste li
 ####Vervoer eieren
 
 1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van eieren, afkomstig van een bedrijf met commercieel gehouden gevogelte, binnen een regio, de invoer in een regio en de uitvoer uit een regio is verboden.   
-2.  In afwijking van het eerste lid is het vervoer van eieren, anders dan eieren bestemd voor een pakstation, binnen een regio, de invoer in een regio en de uitvoer uit een regio toegestaan, indien: 
+2.  In afwijking van het eerste lid is het vervoer van eieren, binnen een regio toegestaan, indien: 
 
-a. de eieren rechtstreeks naar de plaats van bestemming worden vervoerd, niet zijnde een bedrijf met commercieel gehouden pluimvee;  
+a. de eieren rechtstreeks naar de plaats van bestemming worden vervoerd, niet zijnde een bedrijf met commercieel gehouden gevogelte;  
 
 b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.     
-3.  In afwijking van het eerste lid is het vervoer van eieren, bestemd voor een pakstation, binnen een regio toegestaan, indien: 
-
-a. de eieren rechtstreeks naar de plaats van bestemming worden vervoerd;  
-
-b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.    
+3.  Voor de toepassing van het bepaalde in het tweede lid, onder a, wordt een broederij niet beschouwd als een bedrijf met commercieel gehouden gevogelte.  
 
 ### Artikel  5  
 
@@ -136,9 +132,10 @@ b. er per door de vervoerder af te leggen route bij maximaal één bedrijf met c
 
 ### Artikel  10  
 
-####Vervoer naar het buitenland
+####Vervoer naar en uit het buitenland
 
-Indien ingevolge de artikelen 3 tot en met 9 het vervoer van dieren of producten binnen een regio is toegestaan, is het tevens toegestaan deze dieren of producten te vervoeren naar een buiten Nederland gelegen locatie. 
+1.  Indien ingevolge de artikelen 3 tot en met 9 het vervoer van dieren of producten binnen een regio is toegestaan, is het tevens toegestaan deze dieren of producten te vervoeren naar een buiten Nederland gelegen locatie.   
+2.  Het vervoer van dieren of producten vanuit het buitenland een regio in is toegestaan indien bij dat vervoer wordt voldaan aan de artikelen 3 tot en met 9 en 12.  
 
 ### Artikel  11  
 
@@ -150,8 +147,8 @@ Voor zover ingevolge de artikelen 3 tot en met 9 het vervoer van dieren of produ
 
 ####Verplaatsen vervoermiddelen
 
-1.  Het in gebruik hebben van vervoermiddelen voor het vervoer van dieren of producten waarvan het vervoer overeenkomstig de artikelen 3, tweede tot en met vijfde lid, 4, derde lid, 5, tweede lid, 6, tweede lid, 7, tweede lid, 8, tweede lid en 9, derde lid, is toegestaan, is verboden.   
-2.  In afwijking van het eerste lid is het in gebruik hebben van vervoermiddelen binnen een regio toegestaan indien de vervoermiddelen overeenkomstig het derde lid voorzien zijn van een gebiedssticker als bedoeld in bijlage 5.   
+1.  Het in gebruik hebben van vervoermiddelen voor het vervoer van dieren of producten waarvan het vervoer overeenkomstig de artikelen 3, tweede tot en met vijfde lid, 4, tweede lid, 5, tweede lid, 6, tweede lid, 7, tweede lid, 8, tweede lid en 9, derde lid, is toegestaan, is verboden.   
+2.  In afwijking van het eerste lid is het in gebruik hebben van vervoermiddelen binnen een regio toegestaan indien de vervoermiddelen overeenkomstig het derde lid voorzien zijn van een door de Dienst Wegverkeer, bedoeld in artikel 4a van de Wegenverkeerswet 1994, te verstrekken sticker als bedoeld in bijlage 5.   
 3.  Voor het vervoer binnen regio’s worden de volgende gebiedsstickers gebruikt: 
 
 a. voor de regio A (west-Nederland), bedoeld in bijlage 1 de sticker opgenomen in bijlage 5 met de letter A;  
@@ -220,7 +217,12 @@ d. datum en tijdstip van aankomst en vertrek van de bezoeker.
 ####Verbod jagen en doden van wild
 
 1.  In afwijking van artikel 31 Flora- en faunawet is het verboden te jagen.   
-2.  Het is verboden in het wild levende dieren te vangen of te doden. Daartoe zijn alle bestaande aanwijzingen, toestemmingen, vrijstellingen en ontheffingen op grond van de artikelen 65, 67, 68, 72 en 75 van de Flora- en Faunawet opgeschort.  
+2.  Het is verboden in het wild levende dieren te vangen of te doden. Daartoe zijn alle bestaande aanwijzingen, toestemmingen, vrijstellingen en ontheffingen op grond van de artikelen 65, 67, 68, 72 en 75 van de Flora- en Faunawet opgeschort.   
+3.  De verboden, bedoeld in het eerste en tweede lid zijn niet van toepassing indien: 
+
+a. het jagen, doden of vangen geschiedt ter bescherming van de veiligheid van het luchtverkeer,  
+
+b. ter bestrijding van muskusratten.   
 
 ### Artikel  17  
 
@@ -354,7 +356,7 @@ Regio midden-Nederland bestaande uit de volgende deelregio’s: Deelregio 7B
 
 2. De N302 volgen in oostelijke richting tot aan A28.  
 
-3. De A28 volgen in noordoostelijke richting tot aan de N796/ Eperweg.  
+3. De A28 volgen in noordoostelijke richting tot aan de N794/Eperweg.  
 
 4. De Eperweg/N796 volgen in noordoostelijke richting tot aan de Keuterstraat.  
 

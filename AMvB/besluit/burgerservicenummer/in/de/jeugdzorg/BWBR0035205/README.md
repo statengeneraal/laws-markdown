@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, van 19 maart 2014, kenmerk 349799-118666-WJZ;
 
-Gelet op [artikel 2z van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en [artikel 17 van de Wet algemene bepalingen burgerservicenummer](../../../../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md);
+Gelet op artikel 2z van de Wet op de jeugdzorg en artikel 17 van de Wet algemene bepalingen burgerservicenummer;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 9 april 2014, nummer W13.14.0068/III);
 

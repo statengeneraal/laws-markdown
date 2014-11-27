@@ -5,7 +5,7 @@
 Het bestuur van het Fonds voor Cultuurparticipatie,  
 Gelet op de overeengekomen samenwerking met het bestuur van het Prins Bernhard Cultuurfonds;
 
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](../../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md),
+Gelet op artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid,
 Besluit:     
 ### Paragraaf  1  
 
@@ -44,16 +44,17 @@ Tweejarige stimuleringssubsidies kunnen worden verstrekt voor het ontwikkelen en
 
 ####Beschikbare subsidiebedragen
 
-1.  Voor de uitvoering is in totaal € 1.200.000 beschikbaar voor het verstrekken van subsidies vanuit het Fonds voor Cultuurparticipatie.   
-2.  Per aanvraagronde is maximaal € 600.000 of maximaal 50% van het totaal beschikbare bedrag beschikbaar vanuit het Fonds voor Cultuurparticipatie. Een eventueel overschot uit de eerste ronde wordt besteed aan de verhoging van het plafond van de tweede ronde.   
-3.  De in het eerste en tweede lid genoemde bedragen gelden als subsidieplafond. Het bestuur kan eerder vastgestelde subsidieplafonds verlagen.   
-4.  Besluiten als bedoeld in het tweede en derde lid worden bekendgemaakt via de website van het Fonds voor Cultuurparticipatie.  
+1.  Voor de uitvoering is in totaal € 1.800.000 beschikbaar voor het verstrekken van subsidies vanuit het Fonds voor Cultuurparticipatie.   
+2.  Voor de eerste aanvraagronde is maximaal € 600.000 of maximaal 50% van het totaal beschikbare bedrag beschikbaar vanuit het Fonds voor Cultuurparticipatie. Een eventueel overschot uit de eerste ronde wordt besteed aan de verhoging van het plafond van de tweede ronde.  
+3. Voor de tweede aanvraagronde is maximaal € 1.200.000 of maximaal 66,6% van het totaal beschikbare bedrag beschikbaar vanuit het Fonds voor Cultuurparticipatie; 
+4.  De in het eerste en tweede lid genoemde bedragen gelden als subsidieplafond. Het bestuur kan eerder vastgestelde subsidieplafonds verlagen.   
+5.  Besluiten als bedoeld in het tweede en derde lid worden bekendgemaakt via de website van het Fonds voor Cultuurparticipatie.  
 
 ### Artikel  1.5  
 
 ####Weigeringsgronden
 
-1.  Het bestuur weigert, onverminderd het bepaalde in [artikel 4:35 van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), subsidie 
+1.  Het bestuur weigert, onverminderd het bepaalde in artikel 4:35 van de Algemene wet bestuursrecht, subsidie 
 
 a. als de aanvrager reeds een instellingssubsidie van de Minister van Onderwijs, Cultuur en Wetenschap ontvangt;  
 
@@ -65,8 +66,7 @@ d. als de aanvrager in de voorgaande twee jaar niet heeft voldaan aan een of mee
 
 e. als de aanvraag niet aan het bepaalde in deze regeling voldoet  
 
-f. als de aanvraag redelijkerwijs gefinancierd kan worden uit het reguliere taakstellingbudget van de aanvrager of als de aanvraag activiteiten betreft die tot de reguliere taakstelling van de aanvrager horen.     
-2.  Subsidie wordt in ieder geval geweigerd indien aan de aanvrager subsidie is of zal worden verleend op grond van de [Regeling op het specifiek cultuurbeleid](../../../../../../../../../../../ministeriele-regeling/regeling/op/het/specifiek/cultuurbeleid/BWBR0027597/README.md).  
+f. als de aanvraag redelijkerwijs gefinancierd kan worden uit het reguliere taakstellingbudget van de aanvrager of als de aanvraag activiteiten betreft die tot de reguliere taakstelling van de aanvrager horen.    
 
 ### Artikel  1.6  
 
@@ -79,8 +79,9 @@ Een instelling kan nooit over enige periode tegelijkertijd meerdere subsidies vo
 ####Vereisten ten aanzien van de aanvrager
 
 1.  Een aanvraag voor een subsidie kan uitsluitend worden gedaan door een instelling met rechtspersoonlijkheid zonder winstoogmerk en met een culturele doelstelling die aantoonbaar ervaring heeft met het ontwikkelen en uitvoeren van activiteiten op het gebied van cultuureducatie die specifiek gericht zijn op het VMBO.   
-2.  Een aanvragende instelling dient te kunnen aantonen dat deze in de periode van drie schooljaren voorafgaand aan het indienen van de aanvraag, in ten minste twee schooljaren cultuureducatieve activiteiten heeft ontwikkeld voor of uitgevoerd in een school voor VMBO.   
+2.  Een aanvragende instelling dient middels jaarverslagen danwel projectverslagen te kunnen aantonen dat deze in de periode van drie schooljaren voorafgaand aan het indienen van de aanvraag, in ten minste twee schooljaren cultuureducatieve activiteiten heeft ontwikkeld die specifiek gericht zijn op het VMBO en zijn uitgevoerd met een school voor VMBO.   
 3.  De aanvrager dient te voldoen aan de voor de betreffende instelling gebruikelijke normen met betrekking tot good governance op het terrein van goed bestuur, adequaat toezicht en transparante verantwoording.  
+4. Indien aan het bepaalde in artikel 1.7, lid 1 tot en met 3 niet wordt voldaan, wordt subsidie geweigerd en zal de aanvraag niet inhoudelijk worden beoordeeld.
 
 ### Artikel  1.8  
 
@@ -90,15 +91,24 @@ Een instelling kan nooit over enige periode tegelijkertijd meerdere subsidies vo
 
 − met een looptijd van twee schooljaren, startend in het eerstvolgende schooljaar na indiening van de aanvraag, en  
 
-− dat is gericht op (het opzetten van) een doorgaande leerlijn of op duurzame en intensieve samenwerking tussen school en zijn culturele omgeving, en  
-
-− dat is gericht op SMART-geformuleerde doelen, en  
+–dat is gericht op een doorgaande leerlijn, waarbij een intensieve samenwerking tussen culturele instelling en één of meerdere scholen de basis vormt en 
 
 − dat wordt opgezet en uitgevoerd in samenwerking met ten minste één school voor VMBO, en  
 
 − dat wordt gemonitord en geëvalueerd.     
 2.  Gehonoreerden uit de eerste ronde kunnen een aanvraag indienen voor de tweede ronde indien het plan een andere aanpak betreft dan het eerste plan danwel een vervolgplan is waarbij de uitkomsten van het eerder uitgevoerde plan, het beginpunt zijn voor het vervolgplan.   
 3.  Indien aan het voorgaande niet wordt voldaan wordt subsidie geweigerd zonder een verdere inhoudelijke beoordeling van de aanvraag.  
+4. Een aanvrager zendt bij de aanvraag ten minste één samenwerkingsovereenkomst mee waaruit de samenwerking met een school blijkt. In de samenwerkingsovereenkomst dient in ieder geval het volgende te worden vastgelegd:
+
+– het doel van de samenwerking;  
+
+– afspraken over taken en verantwoordelijkheden van de betrokken personen tijdens de ontwikkeling en uitvoering van de activiteiten;  
+
+– de wijze van ondersteuning door de directie en het bestuur;  
+
+– op welke wijze en momenten afstemming plaatsvindt, en  
+
+– afspraken over de inzet van uren en financiële middelen.  
 
 ### Paragraaf  2  
 
@@ -110,23 +120,23 @@ Een instelling kan nooit over enige periode tegelijkertijd meerdere subsidies vo
 
 1.  Een aanvraag voor subsidie wordt in beginsel digitaal ingediend via de website van het Fonds voor Cultuurparticipatie met behulp van een hiervoor opgesteld formulier voor de betreffende periode.   
 2.  Een aanvraag wordt alleen in behandeling genomen als het volledig ingevulde aanvraagformulier tijdig is ontvangen door het Fonds voor Cultuurparticipatie en vergezeld gaat van de gevraagde bijlagen zoals op het formulier gemeld.   
-3.  Een aanvrager zendt bij de aanvraag in ieder geval complete jaarverslagen, danwel projectverslagen in waaruit de omvang en reikwijdte van eerdere projecten blijkt alsmede een overzicht van de scholen en klassen waar eerdere projecten plaatsvonden.  
+3.  Een aanvrager zendt bij de aanvraag in ieder geval complete jaarverslagen, danwel projectverslagen in waaruit de omvang en reikwijdte van eerdere projecten blijkt alsmede een overzicht van de scholen en klassen waar eerdere projecten plaatsvonden. De informatie dient te voldoen aan de voorwaarden zoals die zijn opgenomen in het aanvraagformulier.  
 
 ### Artikel  2.2  
 
 ####Termijnen indiening aanvraag
 
 1.  Aanvragen voor de periode augustus 2013–juli 2015 dienen uiterlijk 15 april 2013 om 17:00 uur te zijn ontvangen.   
-2.  Aanvragen voor de periode augustus 2015–juli 2017 dienen uiterlijk 2 maart 2015 om 17:00 uur te zijn ontvangen.   
+2.  Aanvragen voor de periode augustus 2015–juli 2017 dienen uiterlijk 3 februari 2015 om 13.00 uur te zijn ontvangen.   
 3.  Indien het bestuur besluit om een derde ronde te organiseren binnen de looptijd van de tweede ronde wordt het moment van indiening via de website van het Fonds voor Cultuurparticipatie bekend gemaakt.  
 
 ### Artikel  2.3  
 
 ####Hoogte subsidie
 
-1.  De subsidie bedraagt ten minste € 25.000 per jaar en maximaal € 62.500 per jaar.   
-2.  De subsidie van het Fonds voor Cultuurparticipatie bedraagt niet meer dan 30% van de variabele projectkosten.   
-3.  Het Prins Bernhard Cultuurfonds is voornemens het door het Fonds voor Cultuurparticipatie gesubsidieerde bedrag te matchen.  
+1.  De subsidie bedraagt ten minste € 25.000 per jaar en maximaal € 50.000 per jaar.   
+2.  De subsidie van het Fonds voor Cultuurparticipatie bedraagt niet meer dan 40% van de variabele projectkosten.  
+3. Het Prins Bernhard Cultuurfonds is voornemens het door het Fonds voor Cultuurparticipatie gesubsidieerde bedrag voor 50% te matchen. 
 
 ### Artikel  2.4  
 
@@ -230,7 +240,7 @@ Subsidie wordt verleend onder voorbehoud van verstrekking van de middelen door d
 
 ####Algemeen Reglement
 
-Op deze deelregeling is tevens van toepassing het [Algemeen Reglement van het Fonds voor Cultuurparticipatie](../../../../../../../../../../../zbo/algemeen/reglement/van/het/fonds/voor/cultuurparticipatie/BWBR0030858/README.md). 
+Op deze deelregeling is tevens van toepassing het Algemeen Reglement van het Fonds voor Cultuurparticipatie. 
 
 ### Artikel  5.4  
 

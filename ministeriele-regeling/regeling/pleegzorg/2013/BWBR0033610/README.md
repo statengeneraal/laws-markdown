@@ -3,20 +3,20 @@
 ##Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 21 juni 2013, 124014-105221A-WJZ, houdende regels ten aanzien van het pleegcontract en informatieverplichtingen (Regeling pleegzorg 2013)
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport;  
-Gelet op de [artikelen 28b, derde lid](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), en [28d, tweede lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+Gelet op de artikelen 28b, derde lid, en 28d, tweede lid, van de Wet op de jeugdzorg;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-*pleegkind:* jeugdige die aanspraak heeft op pleegzorg op grond van de [wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), welke aanspraak bij een pleegzorgaanbieder tot gelding wordt gebracht;  
+*pleegkind:* jeugdige die aanspraak heeft op pleegzorg op grond van de wet, welke aanspraak bij een pleegzorgaanbieder tot gelding wordt gebracht;  
 
 *pleegoudervoogd:* pleegouder die over een pleegkind voor wie hij een pleegcontract heeft afgesloten en over wie hij tevens de voogdij uitoefent;  
 
 *pleegzorgaanbieder:* zorgaanbieder die pleegzorg biedt;  
 
-*wet:* [Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+*wet:* Wet op de jeugdzorg.   
 
 ### Artikel  2  
 
@@ -43,7 +43,7 @@ In afwijking van artikel 2, eerste en tweede lid, kunnen pleegcontracten met een
 
 ### Artikel  5  
 
-De [Regeling pleegzorg](../../../../../ministeriele-regeling/regeling/pleegzorg/BWBR0017813/README.md) wordt ingetrokken. 
+De Regeling pleegzorg wordt ingetrokken. 
 
 ### Artikel  6  
 
@@ -116,9 +116,9 @@ d. zich onder alle omstandigheden onthoudt van seksueel of erotisch getint conta
 
 12. Het pleegcontract regelt dat de pleegzorgaanbieder de pleegouder op de hoogte stelt van alles wat voor een verantwoorde opvoeding en verzorging van het pleegkind van belang is en dat de pleegzorgaanbieder en de pleegouder elkaar op de hoogte houden van voorvallen of ontwikkelingen die van invloed zijn op of te maken hebben met de opvoeding en verzorging van het pleegkind.  
 
-13. Het pleegcontract regelt hoe de pleegouder in contact kan komen met een vertrouwenspersoon als bedoeld in [hoofdstuk X van de wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
+13. Het pleegcontract regelt hoe de pleegouder in contact kan komen met een vertrouwenspersoon als bedoeld in hoofdstuk X van de wet.  
 
-14. Het pleegcontract bevat de bepaling dat de pleegzorgaanbieder zich verbindt klachten van de pleegouder over gedragingen van hemzelf of van voor hem werkzame personen te behandelen overeenkomstig de klachtenregeling, bedoeld in [hoofdstuk XII van de wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
+14. Het pleegcontract bevat de bepaling dat de pleegzorgaanbieder zich verbindt klachten van de pleegouder over gedragingen van hemzelf of van voor hem werkzame personen te behandelen overeenkomstig de klachtenregeling, bedoeld in hoofdstuk XII van de wet.  
 
 15. Het pleegcontract bevat een regeling van de informatie die de pleegouder moet verschaffen in verband met de vaststelling van de pleegvergoeding.  
 
@@ -126,11 +126,11 @@ d. zich onder alle omstandigheden onthoudt van seksueel of erotisch getint conta
 
 17. Het pleegcontract bevat een pleegouderverklaring, welke verklaring luidt: Met de ondertekening van dit pleegcontract verklaart de pleegouder in het verleden niets te hebben gedaan dat het pleegouderschap in de weg kan staan. Tevens verklaart de pleegouder melding te doen bij de pleegzorgaanbieder indien hij nu of in de toekomst iets doet dat het pleegouderschap in de weg kan staan.  
 
-18. Indien sprake is van een plaatsing bij een pleegouder als bedoeld in [artikel 28a, vierde lid, van de wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), bevat het pleegcontract in ieder geval de volgende bepalingen: 
+18. Indien sprake is van een plaatsing bij een pleegouder als bedoeld in artikel 28a, vierde lid, van de wet, bevat het pleegcontract in ieder geval de volgende bepalingen: 
 
-– de pleegouder dient mee te werken aan de onderzoeken, bedoeld in [artikel 28a, vierde lid, van de wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);  
+– de pleegouder dient mee te werken aan de onderzoeken, bedoeld in artikel 28a, vierde lid, van de wet;  
 
-– onverminderd punt 3 eindigt het pleegcontract als na verloop van de in [artikel 28a, vierde lid, van de wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), genoemde termijn niet is voldaan aan de voorwaarden van artikel 28a, eerste lid, onderdeel c, en derde lid, dan wel indien gedurende die termijn blijkt dat niet aan vorenbedoelde voorwaarden zal worden voldaan.     
+– onverminderd punt 3 eindigt het pleegcontract als na verloop van de in artikel 28a, vierde lid, van de wet, genoemde termijn niet is voldaan aan de voorwaarden van artikel 28a, eerste lid, onderdeel c, en derde lid, dan wel indien gedurende die termijn blijkt dat niet aan vorenbedoelde voorwaarden zal worden voldaan.     
 
 ### Bijlage  2  
 
@@ -148,9 +148,9 @@ d. zich onder alle omstandigheden onthoudt van seksueel of erotisch getint conta
 
 6. Het pleegcontract regelt dat de pleegzorgaanbieder de pleegouder op de hoogte stelt van alles wat voor een verantwoorde opvoeding en verzorging van het pleegkind van belang is.  
 
-7. Het pleegcontract bevat een bepaling omtrent de wijze waarop de pleegoudervoogd in contact kan komen met een vertrouwenspersoon als bedoeld in [hoofdstuk X van de wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
+7. Het pleegcontract bevat een bepaling omtrent de wijze waarop de pleegoudervoogd in contact kan komen met een vertrouwenspersoon als bedoeld in hoofdstuk X van de wet.  
 
-8. Het pleegcontract bevat de bepaling dat de pleegzorgaanbieder zich verbindt klachten van de pleegoudervoogd over gedragingen van hemzelf of van voor hem werkzame personen te behandelen overeenkomstig de klachtenregeling, bedoeld in [hoofdstuk XII van de wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
+8. Het pleegcontract bevat de bepaling dat de pleegzorgaanbieder zich verbindt klachten van de pleegoudervoogd over gedragingen van hemzelf of van voor hem werkzame personen te behandelen overeenkomstig de klachtenregeling, bedoeld in hoofdstuk XII van de wet.  
 
 9. Het pleegcontract bevat een regeling van de informatie die de pleegoudervoogd moet verschaffen in verband met de vaststelling van de pleegvergoeding. De pleegoudervoogd stelt de zorgaanbieder in staat om te controleren of het pleegkind daadwerkelijk bij de pleegouder verblijft. Daarbij informeert de pleegoudervoogd de zorgaanbieder onverwijld wanneer hij ophoudt het pleegkind in zijn gezin op te voeden en te verzorgen dan wel wanneer de voogdij is geëindigd.  
 

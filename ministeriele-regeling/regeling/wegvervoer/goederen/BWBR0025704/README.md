@@ -3,7 +3,7 @@
 ##Regeling tot uitvoering van de Wet wegvervoer goederen (Regeling wegvervoer goederen)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 1.1](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [2.1, derde lid, onder a en b](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [2.2](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [2.3, vierde en zevende lid](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [2.6](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [2.8, vierde lid](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [2.11, derde en vierde lid](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [2.13, tweede lid, onderdeel b, en derde lid](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), [4.1, tweede lid](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), en [4.3, tweede lid, van de Wet wegvervoer goederen](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md);
+Gelet op de artikelen 1.1, 2.1, derde lid, onder a en b, 2.2, 2.3, vierde en zevende lid, 2.6, 2.8, vierde lid, 2.11, derde en vierde lid, 2.13, tweede lid, onderdeel b, en derde lid, 4.1, tweede lid, en 4.3, tweede lid, van de Wet wegvervoer goederen;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -28,15 +28,15 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  3  
 
-Als vervoer, bedoeld in [artikel 4 van het besluit](../../../../../AMvB/besluit/wegvervoer/goederen/BWBR0033600/README.md) wordt aangewezen:  
+Als vervoer, bedoeld in artikel 4 van het besluit wordt aangewezen:  
 
 a. vervoer bij de verwijdering van huishoudelijke afvalstoffen die vrijkomen uit percelen waar zodanige stoffen geregeld in particuliere huishoudens ontstaan;  
 
 b. vervoer bij de verwijdering van afvalstoffen die vrijkomen bij de uitvoering van reinigingswerken welke door, of in opdracht van, gemeentelijke diensten worden verricht;  
 
-c. vervoer van beer, kolkafval, spoel- en sproeiwater voor het reinigen van de openbare weg, en zand en chemicaliën voor de bestrijding van gladheid van wegen en destructiemateriaal als bedoeld in [artikel 2 van de Destructiewet](../../../../../wet/destructiewet/BWBR0002244/README.md), voor zover dit vervoer geschiedt met in het bijzonder voor deze doelen ingerichte of uitgeruste vrachtauto's;  
+c. vervoer van beer, kolkafval, spoel- en sproeiwater voor het reinigen van de openbare weg, en zand en chemicaliën voor de bestrijding van gladheid van wegen en destructiemateriaal als bedoeld in artikel 2 van de Destructiewet, voor zover dit vervoer geschiedt met in het bijzonder voor deze doelen ingerichte of uitgeruste vrachtauto's;  
 
-d. vervoer van landbouwproducten of goederen, te gebruiken bij het verrichten van landbouwwerkzaamheden, met een landbouwtrekker als bedoeld in [afdeling 5.8 van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), alsmede de daardoor voortbewogen aanhangwagens, mits het betreft eigen vervoer verricht door een landbouwer ten dienste van zijn landbouwbedrijf, dan wel vervoer dat plaatsvindt rechtstreeks ten behoeve van een landbouwbedrijf en onmiddellijk vooraf gaat aan of volgt op, alsmede in direct verband staat met de uitvoering van landbouwwerkzaamheden;  
+d. vervoer van landbouwproducten of goederen, te gebruiken bij het verrichten van landbouwwerkzaamheden, met een landbouwtrekker als bedoeld in afdeling 5.8 van de Regeling voertuigen, alsmede de daardoor voortbewogen aanhangwagens, mits het betreft eigen vervoer verricht door een landbouwer ten dienste van zijn landbouwbedrijf, dan wel vervoer dat plaatsvindt rechtstreeks ten behoeve van een landbouwbedrijf en onmiddellijk vooraf gaat aan of volgt op, alsmede in direct verband staat met de uitvoering van landbouwwerkzaamheden;  
 
 e. vervoer van kranten, tijdschriften, reclamedrukwerken, verricht in een distributie- of verspreidbedrijf, mits dit bedrijf de beschikking heeft over niet meer dan één vrachtauto of over twee vrachtauto's, mits één daarvan een aanhangwagen is, en waarbij geldt dat het ledig gewicht, vermeerderd met het laadvermogen, van de vrachtauto, dan wel van de beide vrachtauto's gezamenlijk, niet meer bedraagt dan 3500 kg;  
 
@@ -58,10 +58,10 @@ Aan de eis van vakbekwaamheid wordt voldaan door degene die een getuigschrift ov
 2.  Ten aanzien van een beginnende vervoerondernemer wordt als kapitaal en reserves aangemerkt het beschikbare risicodragend vermogen, bestaande uit het eigen vermogen.   
 3.   Ingeval van verlenging van de vergunning wordt als kapitaal en reserves aangemerkt het beschikbare risicodragend vermogen, bestaande uit het eigen vermogen, vermeerderd met een ten opzichte van alle andere schulden achtergestelde lening.   
 4.  De vervoerder toont tegenover de NIWO zijn financiële draagkracht aan door het overleggen van een balans en een toelichting daarop, voorzien van een verklaring, inhoudende dat de waardering van het beschikbare risicodragend vermogen is geschied volgens normen die in het maatschappelijk verkeer als aanvaardbaar worden beschouwd, en dat dit vermogen voldoet aan de in het eerste lid gestelde eisen.   
-5.   Indien de vervoerder een rechtspersoon is, die op grond van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) verplicht is om een jaarrekening op te maken, kan hij volstaan met het overleggen van zijn jaarrekening over het voorafgaande kalenderjaar, voorzien van een verklaring waaruit blijkt dat het beschikbare risicodragend vermogen voldoet aan de in het eerste lid gestelde eisen.   
+5.   Indien de vervoerder een rechtspersoon is, die op grond van titel 9 van Boek 2 van het Burgerlijk Wetboek verplicht is om een jaarrekening op te maken, kan hij volstaan met het overleggen van zijn jaarrekening over het voorafgaande kalenderjaar, voorzien van een verklaring waaruit blijkt dat het beschikbare risicodragend vermogen voldoet aan de in het eerste lid gestelde eisen.   
 6.  De verklaringen, bedoeld in het vierde en vijfde lid, zijn afgegeven door: 
 
-a. een registeraccountant of een Accountant-administratieconsulent als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+a. een registeraccountant of een Accountant-administratieconsulent als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek;  
 
 b. een belastingdeskundige die is aangesloten bij Nederlandse Orde van Administratie- en Belastingdeskundigen;  
 
@@ -114,12 +114,12 @@ Degene, die krachtens een CEMT-vergunning dan wel krachtens een ritmachtiging gr
 
 ### Artikel  12  
 
-Het model voor een verklaring als bedoeld in [artikel 2.11, tweede lid, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) wordt vastgesteld overeenkomstig de bij deze regeling behorende bijlage, die ter inzage ligt ten kantore van het ministerie van Verkeer en Waterstaat, Koningskade 4 te 's-Gravenhage. 
+Het model voor een verklaring als bedoeld in artikel 2.11, tweede lid, van de wet wordt vastgesteld overeenkomstig de bij deze regeling behorende bijlage, die ter inzage ligt ten kantore van het ministerie van Verkeer en Waterstaat, Koningskade 4 te 's-Gravenhage. 
 
 ### Artikel  13  
 
-1.  Van [artikel 2.11, eerste lid, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), wordt ontheffing verleend indien vervoer wordt verricht met een of meer vrachtauto’s met een laadvermogen van niet meer dan 500 kg.   
-2.  Van [artikel 2.11, eerste lid, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), wordt ontheffing verleend indien gebruik wordt gemaakt van: 
+1.  Van artikel 2.11, eerste lid, van de wet, wordt ontheffing verleend indien vervoer wordt verricht met een of meer vrachtauto’s met een laadvermogen van niet meer dan 500 kg.   
+2.  Van artikel 2.11, eerste lid, van de wet, wordt ontheffing verleend indien gebruik wordt gemaakt van: 
 
 a. een werknemer die voor beperkte tijd bij wijze van hulpbetoon zonder winstoogmerk aan een vergunninghouder ter beschikking is gesteld door een andere vergunninghouder bij wie die werknemer in dienstbetrekking is en die ten bewijze daarvan een verklaring van dienstbetrekking kan tonen; of  
 
@@ -128,7 +128,7 @@ b. een werknemer die door een instelling aan een vergunninghouder ter beschikkin
 ### Artikel  14  
 
 1.  Een instelling die een werknemer aan een vergunninghouder ter beschikking wil stellen, verkrijgt daartoe op aanvraag een aanwijzing van de Minister van Verkeer en Waterstaat.   
-2.  Een aanwijzing, die op het tijdstip van inwerkingtreding van de [wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) reeds was verleend, wordt aangemerkt als aanwijzing als bedoeld in het eerste lid.  
+2.  Een aanwijzing, die op het tijdstip van inwerkingtreding van de wet reeds was verleend, wordt aangemerkt als aanwijzing als bedoeld in het eerste lid.  
 
 ### Hoofdstuk  6  
 
@@ -204,14 +204,14 @@ De NIWO is mede belast met de afgifte van uitnodigingen als bedoeld in artikel 
 1.  Overtreding van de artikelen 8, eerste en derde tot en met vijfde lid en 10 vormt een strafbaar feit.   
 2.  Als bepalingen, bedoeld in artikel 2.6, eerste lid, van de wet, worden aangewezen: 
 
-a. [artikel 9, eerste, tweede, vierde, vijfde, zevende, achtste en negende lid](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [72, eerste en tweede lid](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), en [107, eerste lid, en tweede lid, onderdeel b, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+a. artikel 9, eerste, tweede, vierde, vijfde, zevende, achtste en negende lid, 72, eerste en tweede lid, en 107, eerste lid, en tweede lid, onderdeel b, van de Wegenverkeerswet 1994;  
 
-b. [artikel 5.1.1, eerste lid, onderdeel c](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), juncto [artikel 5.3.15, tweede tot en met vierde lid, van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
+b. artikel 5.1.1, eerste lid, onderdeel c, juncto artikel 5.3.15, tweede tot en met vierde lid, van de Regeling voertuigen;  
 
-c. [artikel 5.1.1, eerste lid, onderdeel c](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), juncto [hoofdstuk 5, afdeling 3, van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), voor zover overtreding van [artikel 5.1.1, eerste lid, onderdeel c](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), leidt tot een bevel ingevolge [artikel 160, zevende lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) om het voertuig te herstellen alvorens het weer aan het verkeer mag deelnemen;  
+c. artikel 5.1.1, eerste lid, onderdeel c, juncto hoofdstuk 5, afdeling 3, van de Regeling voertuigen, voor zover overtreding van artikel 5.1.1, eerste lid, onderdeel c, leidt tot een bevel ingevolge artikel 160, zevende lid, van de Wegenverkeerswet 1994 om het voertuig te herstellen alvorens het weer aan het verkeer mag deelnemen;  
 
-d. [artikel 5.1.2](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) juncto de [artikelen 5.18.17a tot en met 5.18.17g](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) of juncto [artikel 5.18.25 van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).     
-3.  Als bepalingen, bedoeld in [artikel 2.6, tweede lid, van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), worden aangewezen [artikel 5.1.2](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) in verbinding met de [artikelen 5.18.17a tot en met 5.18.17g](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) of in verbinding met [artikel 5.18.25 van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).  
+d. artikel 5.1.2 juncto de artikelen 5.18.17a tot en met 5.18.17g of juncto artikel 5.18.25 van de Regeling voertuigen.     
+3.  Als bepalingen, bedoeld in artikel 2.6, tweede lid, van de wet, worden aangewezen artikel 5.1.2 in verbinding met de artikelen 5.18.17a tot en met 5.18.17g of in verbinding met artikel 5.18.25 van de Regeling voertuigen.  
 
 ### Hoofdstuk  10  
 
@@ -227,7 +227,7 @@ Wijzigt de Regeling getuigschrift vakbekwaamheid.
 
 ### Artikel  20  
 
-Deze regeling treedt in werking met ingang van het tijdstip waarop de [wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), met uitzondering van [artikel 8.4, onderdelen A tot en met D van de wet](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), in werking treedt. 
+Deze regeling treedt in werking met ingang van het tijdstip waarop de wet, met uitzondering van artikel 8.4, onderdelen A tot en met D van de wet, in werking treedt. 
 
 ### Artikel  21  
 

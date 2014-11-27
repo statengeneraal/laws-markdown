@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat ingevolge [artikel 133 van de Grondwet](../../../wet/grondwet/BWBR0001840/README.md) regels moeten worden gesteld volgens welke de opheffing en instelling geschiedt van waterschappen en volgens welke de taken en inrichting van waterschappen en de samenstelling van hun besturen worden geregeld; 
+Alzo Wij in overweging genomen hebben, dat ingevolge artikel 133 van de Grondwet regels moeten worden gesteld volgens welke de opheffing en instelling geschiedt van waterschappen en volgens welke de taken en inrichting van waterschappen en de samenstelling van hun besturen worden geregeld; 
 
 dat voorts ingevolge diezelfde grondwetsbepaling de verordenende en andere bevoegdheden van de besturen van waterschappen, de openbaarheid van hun vergaderingen, alsmede het toezicht op deze besturen moet worden geregeld; 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
@@ -22,8 +22,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ### Artikel  1  
 
 1.  Waterschappen zijn openbare lichamen welke de waterstaatkundige verzorging van een bepaald gebied ten doel hebben.   
-2. De taken die tot dat doel aan waterschappen zijn of worden opgedragen betreffen de zorg voor het watersysteem en de zorg voor het zuiveren van afvalwater op de voet van [artikel 3.4 van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md). Daarnaast kan de zorg voor een of meer andere waterstaatsaangelegenheden zijn of worden opgedragen.  
-3.  De zorg voor het watersysteem, bedoeld in het tweede lid, omvat mede het voorkomen van schade aan waterstaatswerken veroorzaakt door muskus- en beverratten, bedoeld in [artikel 3.2A van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md). 
+2. De taken die tot dat doel aan waterschappen zijn of worden opgedragen betreffen de zorg voor het watersysteem en de zorg voor het zuiveren van afvalwater op de voet van artikel 3.4 van de Waterwet. Daarnaast kan de zorg voor een of meer andere waterstaatsaangelegenheden zijn of worden opgedragen.  
+3.  De zorg voor het watersysteem, bedoeld in het tweede lid, omvat mede het voorkomen van schade aan waterstaatswerken veroorzaakt door muskus- en beverratten, bedoeld in artikel 3.2A van de Waterwet. 
 
 ### Artikel  2  
 
@@ -41,7 +41,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  4  
 
-1.  Op de voorbereiding van een besluit als bedoeld in artikel 2, eerste lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing, met dien verstande dat daaraan toepassing wordt gegeven door gedeputeerde staten. Gedeputeerde staten stellen het ontwerp van het besluit op na overleg met het dagelijks bestuur van het waterschap of de waterschappen die het betreft.   
+1.  Op de voorbereiding van een besluit als bedoeld in artikel 2, eerste lid, is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing, met dien verstande dat daaraan toepassing wordt gegeven door gedeputeerde staten. Gedeputeerde staten stellen het ontwerp van het besluit op na overleg met het dagelijks bestuur van het waterschap of de waterschappen die het betreft.   
 2.   Gedeputeerde staten voegen bij hun voorstel aan provinciale staten tot vaststelling van het besluit zowel het ontwerp-besluit als de naar voren gebrachte zienswijzen, of een samenvatting daarvan, vergezeld van hun standpunt inzake die zienswijzen.    
 3.   Gedeputeerde staten zenden het door provinciale staten vastgestelde besluit, met de in het tweede lid bedoelde stukken, binnen vier weken aan Onze Minister van Infrastructuur en Milieu.   
 
@@ -68,19 +68,19 @@ Het opheffen of instellen van een waterschap dan wel het vaststellen van een reg
 
 ### Artikel  7  
 
-1.  Indien de besturen van twee of meer provincies niet of niet binnen redelijke termijn tot overeenstemming komen over de opheffing of instelling van een waterschap voor de waterstaatkundige verzorging van een in hun provincies gelegen gebied, dan wel over de vaststelling of wijziging van een reglement voor een dergelijk waterschap, omdat zij van mening verschillen over hetzij de noodzaak hetzij de inhoud van het te nemen besluit, kan daarin bij algemene maatregel van bestuur worden voorzien. [Artikel 27d van de Wet op de Raad van State](../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is van overeenkomstige toepassing.    
+1.  Indien de besturen van twee of meer provincies niet of niet binnen redelijke termijn tot overeenstemming komen over de opheffing of instelling van een waterschap voor de waterstaatkundige verzorging van een in hun provincies gelegen gebied, dan wel over de vaststelling of wijziging van een reglement voor een dergelijk waterschap, omdat zij van mening verschillen over hetzij de noodzaak hetzij de inhoud van het te nemen besluit, kan daarin bij algemene maatregel van bestuur worden voorzien. Artikel 27d van de Wet op de Raad van State is van overeenkomstige toepassing.    
 2.   Alvorens een voordracht tot die algemene maatregel van bestuur te doen, geeft Onze Minister van Infrastructuur en Milieu overeenkomstige toepassing aan artikel 4, eerste en tweede lid, en hoort hij gedeputeerde staten van de desbetreffende provincies.    
-3.   [Artikel 4 van de Waterstaatswet 1900](../../../wet/waterstaatswet/1900/BWBR0001867/README.md) (*Stb.* 176) is op het in het eerste lid bedoelde geval niet van toepassing.   
+3.   Artikel 4 van de Waterstaatswet 1900 (*Stb.* 176) is op het in het eerste lid bedoelde geval niet van toepassing.   
 
 ### Artikel  8  
 
-1.  Indien het belang van een goede organisatie van de waterstaatkundige verzorging van een gebied, dat in een of meer provincies is gelegen, het opheffen of het instellen van een waterschap dan wel de vaststelling of wijziging van het reglement voor een waterschap vordert en provinciale staten van de provincie of provincies daarvoor niet de nodige besluiten nemen, kunnen zij bij koninklijk besluit, de Raad van State gehoord, worden uitgenodigd om daartoe over te gaan binnen een in dat besluit te stellen termijn. [Artikel 27d van de Wet op de Raad van State](../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is van overeenkomstige toepassing.    
+1.  Indien het belang van een goede organisatie van de waterstaatkundige verzorging van een gebied, dat in een of meer provincies is gelegen, het opheffen of het instellen van een waterschap dan wel de vaststelling of wijziging van het reglement voor een waterschap vordert en provinciale staten van de provincie of provincies daarvoor niet de nodige besluiten nemen, kunnen zij bij koninklijk besluit, de Raad van State gehoord, worden uitgenodigd om daartoe over te gaan binnen een in dat besluit te stellen termijn. Artikel 27d van de Wet op de Raad van State is van overeenkomstige toepassing.    
 2.   Indien Onze Minister van Infrastructuur en Milieu het voornemen heeft een besluit als bedoeld in het eerste lid te bevorderen, geeft hij hiervan kennis aan gedeputeerde staten der provincie of provincies wier gebied het betreft, onder mededeling van de overwegingen waarop het voornemen berust.    
 3.   Binnen twaalf weken nadat de in het tweede lid bedoelde kennisgeving is geschied, vindt overleg plaats tussen Onze Minister van Infrastructuur en Milieu en het college of de colleges van gedeputeerde staten van de desbetreffende provincie of provincies.   
 
 ### Artikel  9  
 
-1.  Indien aan een uitnodiging als bedoeld in artikel 8, eerste lid, niet binnen de gestelde termijn gevolg is gegeven, kan, behoudens verlenging van die termijn, bij algemene maatregel van bestuur overeenkomstig de strekking van de uitnodiging een waterschap worden opgeheven of ingesteld alsmede het reglement voor een waterschap worden vastgesteld of gewijzigd. [Artikel 27d van de Wet op de Raad van State](../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is van overeenkomstige toepassing.    
+1.  Indien aan een uitnodiging als bedoeld in artikel 8, eerste lid, niet binnen de gestelde termijn gevolg is gegeven, kan, behoudens verlenging van die termijn, bij algemene maatregel van bestuur overeenkomstig de strekking van de uitnodiging een waterschap worden opgeheven of ingesteld alsmede het reglement voor een waterschap worden vastgesteld of gewijzigd. Artikel 27d van de Wet op de Raad van State is van overeenkomstige toepassing.    
 2.   Alvorens een voordracht tot die algemene maatregel van bestuur te doen, geeft Onze Minister van Infrastructuur en Milieu overeenkomstige toepassing aan artikel 4, eerste tot en met vierde lid, en hoort hij gedeputeerde staten van de desbetreffende provincie of provincies.    
 3.   De algemene maatregel van bestuur treedt niet eerder in werking dan acht weken na de datum waarop deze in het *Staatsblad* is geplaatst. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide Kamers der Staten-Generaal.   
 
@@ -127,8 +127,8 @@ d.degenen die krachtens eigendom, bezit, beperkt recht of persoonlijk recht gebo
 ### Artikel 14 
 
 1. De vertegenwoordigers van de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel b, worden benoemd door de daartoe bij reglement aangewezen organisatie of organisaties. Indien meer dan één organisatie wordt aangewezen wordt bij reglement bepaald op welke wijze de aangewezen organisaties tot een benoeming komen. 
-2. De vertegenwoordigers van de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel c, worden benoemd door een krachtens [artikel 67 van de Wet op de bedrijfsorganisatie](../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) ingesteld bedrijfslichaam voor de bosbouw, het bosbeheer en de houtteelt. 
-3.  De vertegenwoordigers van de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel d, worden benoemd door de Kamer van Koophandel op voordracht van de regionale raad van de regio van de Kamer van Koophandel, bedoeld in [artikel 18, eerste lid, van de Wet op de Kamer van Koophandel](../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md), die gelegen is in het gebied van het desbetreffende waterschap. Indien binnen het gebied van een waterschap meer dan één regio gelegen is, wordt bij reglement bepaald op welke wijze de betrokken regionale raden tot een voordracht komen. [Artikel 7, derde en vierde lid, van de Wet op de Kamer van Koophandel](../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md), zijn van toepassing op voordracht en benoeming krachtens dit lid met dien verstande dat voor «Onze Minister» telkens wordt gelezen: de Kamer van Koophandel.  
+2. De vertegenwoordigers van de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel c, worden benoemd door een krachtens artikel 67 van de Wet op de bedrijfsorganisatie ingesteld bedrijfslichaam voor de bosbouw, het bosbeheer en de houtteelt. 
+3.  De vertegenwoordigers van de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel d, worden benoemd door de Kamer van Koophandel op voordracht van de regionale raad van de regio van de Kamer van Koophandel, bedoeld in artikel 18, eerste lid, van de Wet op de Kamer van Koophandel, die gelegen is in het gebied van het desbetreffende waterschap. Indien binnen het gebied van een waterschap meer dan één regio gelegen is, wordt bij reglement bepaald op welke wijze de betrokken regionale raden tot een voordracht komen. Artikel 7, derde en vierde lid, van de Wet op de Kamer van Koophandel, zijn van toepassing op voordracht en benoeming krachtens dit lid met dien verstande dat voor «Onze Minister» telkens wordt gelezen: de Kamer van Koophandel.  
 4. De organisaties, bedoeld in de voorgaande leden, voorzien tijdig in een regeling omtrent de selectie en de benoeming van de vertegenwoordiger of vertegenwoordigers van de desbetreffende categorie van belanghebbenden en zenden de regeling ter kennisneming aan het waterschapsbestuur. Het waterschapsbestuur maakt de regelingen bekend.
 
 ### §  2  
@@ -155,7 +155,7 @@ De organisatie geeft de benoemde schriftelijk kennis van zijn benoeming. De orga
 1.  De benoemde deelt uiterlijk op de tiende dag na de dagtekening van de kennisgeving, bedoeld in artikel 17, het algemeen bestuur schriftelijk mede dat hij de benoeming aanvaardt. Bij een benoeming die plaatsvindt na de eerste samenkomst van het nieuwe algemeen bestuur, deelt de benoemde uiterlijk op de achtentwintigste dag na de dagtekening van de kennisgeving, schriftelijk aan het algemeen bestuur mede dat hij de benoeming aanvaardt.   
 2.  Tegelijk met de mededeling dat hij de benoeming aanvaart, overlegt de benoemde, een door hem ondertekend overzicht met de door hem beklede openbare betrekkingen.    
 3.  Tenzij de benoemde op het tijdstip van benoeming reeds lid was van het algemeen bestuur, legt hij tevens een gewaarmerkt afschrift over uit de basisregistratie personen, waaruit zijn woonplaats en datum en plaats van de geboorte blijken.    
-4.  Indien de benoemde geen onderdaan is van een lidstaat van de Europese Unie, legt hij een gewaarmerkt afschrift van gegevens uit de basisregistratie personen over, waaruit blijkt of hij voldoet aan de vereisten, bedoeld in [artikel B 3, tweede lid, aanhef en onderdeel a, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md).   
+4.  Indien de benoemde geen onderdaan is van een lidstaat van de Europese Unie, legt hij een gewaarmerkt afschrift van gegevens uit de basisregistratie personen over, waaruit blijkt of hij voldoet aan de vereisten, bedoeld in artikel B 3, tweede lid, aanhef en onderdeel a, van de Kieswet.   
 5.  Indien de benoemde de benoeming niet aanvaardt, doet hij daarvan binnen de in het eerste lid genoemde termijn bij brief mededeling aan de voorzitter van het algemeen bestuur. Deze geeft hiervan kennis aan de organisatie.    
 6.  Is binnen de desbetreffende vereiste termijn, bedoeld in het eerste lid, de mededeling niet gedaan, dan wordt hij geacht de benoeming niet te aanvaarden.    
 7.  Zolang nog niet tot toelating van de benoemde is besloten, kan hij bij brief aan het algemeen bestuur mededelen dat hij op de aanneming van de benoeming terugkomt. Deze mededeling geldt als niet-aanvaarding.    
@@ -220,14 +220,14 @@ Vervallen per 01-07-2014
 ### Artikel 28 
 
 1. Bij het besluit tot instelling van een waterschap wordt het waterschap aangewezen dat met de voorbereiding van die instelling belast is. 
-2. De in [artikel E 6a, eerste en derde lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) bedoelde bevoegdheid, onderscheidenlijk de in [artikel V 4, eerste lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) en artikel 19, eerste lid, bedoelde bevoegdheden berusten bij het dagelijks bestuur, onderscheidenlijk het algemeen bestuur van het ingevolge het eerste lid aangewezen waterschap. 
+2. De in artikel E 6a, eerste en derde lid, van de Kieswet bedoelde bevoegdheid, onderscheidenlijk de in artikel V 4, eerste lid, van de Kieswet en artikel 19, eerste lid, bedoelde bevoegdheden berusten bij het dagelijks bestuur, onderscheidenlijk het algemeen bestuur van het ingevolge het eerste lid aangewezen waterschap. 
 3. Voorzover ingevolge enig wettelijk voorschrift medewerking moet worden verleend door het algemeen bestuur, door het dagelijks bestuur of door de voorzitter van het waterschap, geschiedt dit door het algemeen bestuur, door het dagelijks bestuur of door de voorzitter van het ingevolge het eerste lid aangewezen waterschap.
 
 ### Artikel  29  
 
 1.  Bij een besluit tot instelling van een waterschap als bedoeld in artikel 2, eerste lid, wordt bepaald dat een algemeen bestuur wordt aangesteld voor het in te stellen waterschap. Op de samenstelling van dit algemeen bestuur zijn de artikelen 12, 13 en 14 van toepassing, met dien verstande dat in artikel 13, eerste lid, voor «bij reglement» wordt gelezen: bij het besluit tot instelling van het waterschap.   
-2.  De verdeling van het aantal zetels van het algemeen bestuur, bedoeld in het eerste lid, bestemd voor vertegenwoordigers van de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel a, vindt plaats naar rato van het aantal kiesgerechtigde ingezetenen bij de laatstgehouden verkiezingen in elk op te heffen waterschap. De zetels worden toegewezen op grond van de uitslag en lijstcombinaties van deze verkiezingen. De [artikelen P 2 tot en met P 19a van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) zijn hierop van toepassing.   
-3.  Het in het eerste lid bedoelde algemeen bestuur treedt af bij het eindigen van de zittingsperiode, bedoeld in [artikel C 4 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) dan wel bij het opheffen van het desbetreffende waterschap, indien dit eerder plaatsvindt.   
+2.  De verdeling van het aantal zetels van het algemeen bestuur, bedoeld in het eerste lid, bestemd voor vertegenwoordigers van de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel a, vindt plaats naar rato van het aantal kiesgerechtigde ingezetenen bij de laatstgehouden verkiezingen in elk op te heffen waterschap. De zetels worden toegewezen op grond van de uitslag en lijstcombinaties van deze verkiezingen. De artikelen P 2 tot en met P 19a van de Kieswet zijn hierop van toepassing.   
+3.  Het in het eerste lid bedoelde algemeen bestuur treedt af bij het eindigen van de zittingsperiode, bedoeld in artikel C 4 van de Kieswet dan wel bij het opheffen van het desbetreffende waterschap, indien dit eerder plaatsvindt.   
 4.  De commissaris van de Koning benoemt uiterlijk één maand voor de beoogde datum van instelling van het waterschap een waarnemend voorzitter. Deze voorzitter treedt af op het tijdstip dat een voorzitter wordt benoemd bij koninklijk besluit, bedoeld in artikel 46, eerste lid. 
 
 ### §  5  
@@ -236,7 +236,7 @@ Vervallen per 01-07-2014
 
 ### Artikel  31  
 
-1.  Voor het lidmaatschap van het algemeen bestuur is vereist dat men ingezetene is, de leeftijd van achttien jaren heeft bereikt en niet krachtens [artikel B 5, eerste lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) van het kiesrecht is uitgesloten. Het vereiste van ingezetenschap geldt niet voor de vertegenwoordigers van de categorie belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel c.   
+1.  Voor het lidmaatschap van het algemeen bestuur is vereist dat men ingezetene is, de leeftijd van achttien jaren heeft bereikt en niet krachtens artikel B 5, eerste lid, van de Kieswet van het kiesrecht is uitgesloten. Het vereiste van ingezetenschap geldt niet voor de vertegenwoordigers van de categorie belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel c.   
 2. Een lid van het algemeen bestuur is niet tevens:
 
 a.minister;
@@ -249,7 +249,7 @@ d.lid van de Algemene Rekenkamer;
 
 e.Nationale ombudsman;
 
-f.substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);
+f.substituut-ombudsman als bedoeld in artikel 9, eerste lid, van de Wet Nationale ombudsman;
 
 g.commissaris van de Koning;
 
@@ -272,11 +272,11 @@ o.ambtenaar, door of vanwege het waterschapsbestuur aangesteld of daaraan onderg
 p.ambtenaar, door of vanwege de provincie aangesteld, tot wiens taak behoort het verrichten van werkzaamheden in het kader van het toezicht op het waterschap;
 
 q. lid van het algemeen bestuur of van het dagelijks bestuur van een ander waterschap.   
-3.  Zodra een lid dat vertegenwoordiger is van een van de categorieën van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdelen b, c en d, niet blijkt te voldoen aan een van de in het eerste lid bedoelde vereisten of een in het tweede lid bedoelde betrekking blijkt te vervullen, houdt deze op lid te zijn. In dat geval is [artikel X 4a van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) van overeenkomstige toepassing.  
+3.  Zodra een lid dat vertegenwoordiger is van een van de categorieën van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdelen b, c en d, niet blijkt te voldoen aan een van de in het eerste lid bedoelde vereisten of een in het tweede lid bedoelde betrekking blijkt te vervullen, houdt deze op lid te zijn. In dat geval is artikel X 4a van de Kieswet van overeenkomstige toepassing.  
 
 ### Artikel  31a  
 
-Leden van het dagelijks bestuur die na de stemming, bedoeld in [artikel J 6a van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), niet zijn toegelaten tot lid van het algemeen bestuur zijn geen lid van dat algemeen bestuur. 
+Leden van het dagelijks bestuur die na de stemming, bedoeld in artikel J 6a van de Kieswet, niet zijn toegelaten tot lid van het algemeen bestuur zijn geen lid van dat algemeen bestuur. 
 
 ### Artikel  31b  
 
@@ -323,11 +323,11 @@ d.rechtstreeks of middellijk een overeenkomst aangaan betreffende:
 7°.het onderhands huren of pachten van het waterschap. 
 2. Van het eerste lid, aanhef en onderdeel d, kunnen gedeputeerde staten ontheffing verlenen. 
 3. Het algemeen bestuur stelt voor zijn leden, voor de leden van het dagelijks bestuur en voor de voorzitter een gedragscode vast. 
-4.  Ten aanzien van een lid dat vertegenwoordiger is van de categorieën van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdelen b, c en d, dat handelt in strijd met het bepaalde in het eerste lid, zijn de [artikelen X 7a, eerste tot en met vijfde lid](../../../wet/kieswet/BWBR0004627/README.md), en [X 9 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), van overeenkomstige toepassing.  
+4.  Ten aanzien van een lid dat vertegenwoordiger is van de categorieën van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdelen b, c en d, dat handelt in strijd met het bepaalde in het eerste lid, zijn de artikelen X 7a, eerste tot en met vijfde lid, en X 9 van de Kieswet, van overeenkomstige toepassing.  
 
 ### Artikel  34  
 
-1. Alvorens hun functie te kunnen uitoefenen leggen de leden van het algemeen bestuur in de vergadering, in handen van de voorzitter, de volgende eed (verklaring en belofte) af:  "Ik zweer (verklaar) dat ik, om tot lid van het algemeen bestuur te worden gekozen of benoemd, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, aan iemand enige gift of gunst heb gedaan of beloofd.  Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk van iemand enig geschenk of enige belofte heb aangenomen of zal aannemen.  Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten zal nakomen en dat ik mijn plichten als lid van het algemeen bestuur naar eer en geweten zal vervullen.  Zo waarlijk helpe mij God almachtig (Dat verklaar en beloof ik)".   
+1. Alvorens hun functie te kunnen uitoefenen leggen de leden van het algemeen bestuur in de vergadering, in handen van de voorzitter, de volgende eed (verklaring en belofte) af:  "Ik zweer (verklaar) dat ik, om tot lid van het algemeen bestuur te worden gekozen of benoemd, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, aan iemand enige gift of gunst heb gedaan of beloofd.  Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk van iemand enig geschenk of enige belofte heb aangenomen of zal aannemen.  Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als lid van het algemeen bestuur naar eer en geweten zal vervullen.  Zo waarlijk helpe mij God almachtig (Dat verklaar en beloof ik)".   
 2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt:  «Ik swar (ferklearje) dat ik, om ta lid fan it algemien bestjoer beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw.  Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil.  Ik swar (ûnthjit) dat ik trou wêze sil oan 'e Grûnwet, dat ik de wetten neikomme sil en dat ik myn plichten as lid fan it algemien bestjoer yn alle oprjochtens ferfolje sil.  Sa wier helpe my God Almachtich!»  («Dat ferklearje en ûnthjit ik!»).
 
 ### Artikel  35  
@@ -351,8 +351,8 @@ d. de benoeming en het ontslag van leden van het dagelijks bestuur met uitzonder
 
 ### Artikel  37  
 
-1.  Het algemeen bestuur kan op grond van een belang, genoemd in [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), geheimhouding opleggen omtrent het in een besloten vergadering behandelde en omtrent de inhoud van stukken die aan de vergadering worden overgelegd. Geheimhouding omtrent het in een besloten vergadering behandelde wordt tijdens die vergadering opgelegd. De geheimhouding wordt zowel door hen die bij de behandeling tegenwoordig waren, als door hen die op andere wijze van het behandelde of van de stukken kennis nemen, in acht genomen totdat het algemeen bestuur haar opheft.    
-2.   Op grond van een belang, genoemd in [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), kan de geheimhouding eveneens worden opgelegd door het dagelijks bestuur, de voorzitter en een commissie van het waterschap, ieder ten aanzien van stukken die zij aan het algemeen bestuur of aan de leden van dit bestuur overleggen. Daarvan wordt op de stukken melding gemaakt.    
+1.  Het algemeen bestuur kan op grond van een belang, genoemd in artikel 10 van de Wet openbaarheid van bestuur, geheimhouding opleggen omtrent het in een besloten vergadering behandelde en omtrent de inhoud van stukken die aan de vergadering worden overgelegd. Geheimhouding omtrent het in een besloten vergadering behandelde wordt tijdens die vergadering opgelegd. De geheimhouding wordt zowel door hen die bij de behandeling tegenwoordig waren, als door hen die op andere wijze van het behandelde of van de stukken kennis nemen, in acht genomen totdat het algemeen bestuur haar opheft.    
+2.   Op grond van een belang, genoemd in artikel 10 van de Wet openbaarheid van bestuur, kan de geheimhouding eveneens worden opgelegd door het dagelijks bestuur, de voorzitter en een commissie van het waterschap, ieder ten aanzien van stukken die zij aan het algemeen bestuur of aan de leden van dit bestuur overleggen. Daarvan wordt op de stukken melding gemaakt.    
 3.   De krachtens het tweede lid aan het algemeen bestuur opgelegde verplichting tot geheimhouding vervalt, indien de oplegging niet door het algemeen bestuur in zijn eerstvolgende vergadering die blijkens de presentielijst door meer dan de helft van het aantal zitting hebbende leden is bezocht, wordt bekrachtigd.    
 4.   De krachtens het tweede lid aan de leden van het algemeen bestuur opgelegde verplichting tot geheimhouding wordt door hen in acht genomen totdat het orgaan dat de verplichting heeft opgelegd, dan wel, indien het stuk waaromtrent geheimhouding is opgelegd aan het algemeen bestuur is voorgelegd, totdat het algemeen bestuur haar opheft. Het algemeen bestuur kan deze beslissing alleen nemen in een vergadering die blijkens de presentielijst door meer dan de helft van het aantal zitting hebbende leden is bezocht.   
 
@@ -407,12 +407,12 @@ Zij die behoren tot het algemeen bestuur van het waterschap en anderen die deeln
 1.  De leden van het dagelijks bestuur, met uitzondering van de voorzitter, worden door het algemeen bestuur benoemd.    
 2.   De benoeming vindt plaats uit de leden van het algemeen bestuur.    
 3.   Gedeputeerde staten kunnen, indien het reglement dat bepaalt, ontheffing verlenen van het bepaalde in het tweede lid. Geen ontheffing wordt verleend indien het de ombudsman of een lid van de ombudscommissie betreft als bedoeld in artikel 51b, eerste lid.   
-4.  De leden van het dagelijks bestuur treden in ieder geval na de stemming, bedoeld in [artikel J 6a van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), af: 
+4.  De leden van het dagelijks bestuur treden in ieder geval na de stemming, bedoeld in artikel J 6a van de Kieswet, af: 
 
 a. op het moment dat ten minste de helft van het door het algemeen bestuur te benoemen aantal leden van het dagelijks bestuur is benoemd en deze benoemingen zijn aanvaard; en  
 
 b. binnen drie maanden na het begin van de zittingsduur van het algemeen bestuur.     
-5.  Het algemeen bestuur kan een of meer leden van het dagelijks bestuur, met uitzondering van de voorzitter, ontslag verlenen, indien deze het vertrouwen van het algemeen bestuur niet meer bezitten. Op het ontslagbesluit is [artikel 4:8 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing.  
+5.  Het algemeen bestuur kan een of meer leden van het dagelijks bestuur, met uitzondering van de voorzitter, ontslag verlenen, indien deze het vertrouwen van het algemeen bestuur niet meer bezitten. Op het ontslagbesluit is artikel 4:8 van de Algemene wet bestuursrecht niet van toepassing.  
 6.  Indien het aantal leden van het dagelijks bestuur dat in functie is, minder bedraagt dan de helft van het door het algemeen bestuur vastgestelde aantal leden, treedt de voorzitter in de plaats van het dagelijks bestuur totdat dit aantal de hierbedoelde helft heeft bereikt.  
 
 ### §  2  
@@ -426,8 +426,8 @@ b. binnen drie maanden na het begin van de zittingsduur van het algemeen bestuur
 
 ### Artikel  43  
 
-1.  Het dagelijks bestuur kan op grond van een belang, genoemd in [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), geheimhouding opleggen omtrent het in een besloten vergadering behandelde en omtrent de inhoud van de stukken die aan de vergadering worden overgelegd. Geheimhouding omtrent het in een besloten vergadering behandelde wordt tijdens die vergadering opgelegd. De geheimhouding wordt zowel door hen die bij de behandeling aanwezig waren als door hen die op andere wijze van het behandelde of van de stukken kennis nemen, in acht genomen totdat het dagelijks bestuur haar opheft.    
-2.   Op grond van een belang genoemd in [artikel 10 van de Wet openbaarheid van bestuur](../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), kan de geheimhouding eveneens worden opgelegd door de voorzitter of een commissie van het waterschap, ieder ten aanzien van de stukken die zij aan het dagelijks bestuur of de leden van dit bestuur overleggen. Daarvan wordt op de stukken melding gemaakt.    
+1.  Het dagelijks bestuur kan op grond van een belang, genoemd in artikel 10 van de Wet openbaarheid van bestuur, geheimhouding opleggen omtrent het in een besloten vergadering behandelde en omtrent de inhoud van de stukken die aan de vergadering worden overgelegd. Geheimhouding omtrent het in een besloten vergadering behandelde wordt tijdens die vergadering opgelegd. De geheimhouding wordt zowel door hen die bij de behandeling aanwezig waren als door hen die op andere wijze van het behandelde of van de stukken kennis nemen, in acht genomen totdat het dagelijks bestuur haar opheft.    
+2.   Op grond van een belang genoemd in artikel 10 van de Wet openbaarheid van bestuur, kan de geheimhouding eveneens worden opgelegd door de voorzitter of een commissie van het waterschap, ieder ten aanzien van de stukken die zij aan het dagelijks bestuur of de leden van dit bestuur overleggen. Daarvan wordt op de stukken melding gemaakt.    
 3.   Indien het dagelijks bestuur zich ter zake van het behandelde waarvoor een verplichting tot geheimhouding geldt tot het algemeen bestuur heeft gericht, wordt de geheimhouding in acht genomen totdat het algemeen bestuur haar opheft.   
 
 ### Artikel  44  
@@ -436,7 +436,7 @@ b. binnen drie maanden na het begin van de zittingsduur van het algemeen bestuur
 2. Buiten hetgeen hen bij of krachtens de wet is toegekend, genieten de leden van het dagelijks bestuur als zodanig geen inkomsten, in welke vorm ook, ten laste van het waterschap. 
 3. De leden van het dagelijks bestuur genieten geen vergoedingen, in welke vorm ook, voor werkzaamheden, verricht in nevenfuncties die zij vervullen uit hoofde van het lidmaatschap van het dagelijks bestuur ongeacht of die vergoedingen ten laste van het waterschap komen of niet. Indien deze vergoedingen worden uitgekeerd, worden zij gestort in de waterschapskas. 
 4.  Tot vergoedingen als bedoeld in het derde lid, behoren inkomsten, onder welke benaming ook, uit nevenfuncties die het lid van het dagelijks bestuur neerlegt bij beëindiging van het ambt.   
-5.  Andere inkomsten dan die bedoeld in het derde lid worden met de bezoldiging verrekend overeenkomstig [artikel 3 van de Wet schadeloosstelling leden Tweede Kamer](../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md).   
+5.  Andere inkomsten dan die bedoeld in het derde lid worden met de bezoldiging verrekend overeenkomstig artikel 3 van de Wet schadeloosstelling leden Tweede Kamer.   
 6.  Indien het lid van het dagelijks bestuur zijn ambt in deeltijd vervult, vindt geen verrekening plaats van de inkomsten, bedoeld in het vijfde lid.   
 7.  Op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties worden bij algemene maatregel van bestuur regels gesteld over de wijze waarop het lid van het dagelijks bestuur gegevens over de inkomsten, bedoeld in het zesde lid, verstrekt, en de gevolgen van het niet verstrekken van deze gegevens. 
 
@@ -446,7 +446,7 @@ b. binnen drie maanden na het begin van de zittingsduur van het algemeen bestuur
 2. Een lid van het dagelijks bestuur meldt zijn voornemen tot aanvaarding van een nevenfunctie aan het algemeen bestuur. 
 3.  Een lid van het dagelijks bestuur maakt zijn nevenfuncties openbaar. Openbaarmaking geschiedt door terinzagelegging op de secretarie van het waterschap.   
 4.  Een lid van het dagelijks bestuur dat zijn ambt niet in deeltijd vervult, maakt tevens de inkomsten uit nevenfuncties openbaar. Openbaarmaking geschiedt door terinzagelegging op de secretarie van het waterschap uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten.   
-5.  Onder inkomsten wordt verstaan: loon in de zin van [artikel 9 van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), verminderd met de eindheffingsbestanddelen bedoeld in [artikel 31 van die wet](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). 
+5.  Onder inkomsten wordt verstaan: loon in de zin van artikel 9 van de Wet op de loonbelasting 1964, verminderd met de eindheffingsbestanddelen bedoeld in artikel 31 van die wet. 
 
 ### Artikel  45  
 
@@ -478,7 +478,7 @@ d.lid van de Algemene Rekenkamer;
 
 e.Nationale ombudsman;
 
-f.substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);
+f.substituut-ombudsman als bedoeld in artikel 9, eerste lid, van de Wet Nationale ombudsman;
 
 g.commissaris van de Koning;
 
@@ -508,10 +508,10 @@ q.ambtenaar, door of vanwege de provincie aangesteld, tot wiens taak behoort het
 
 1.  De voorzitter vervult geen nevenfuncties waarvan de uitoefening ongewenst is met het oog op de goede vervulling van zijn ambt of op handhaving van zijn onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.    
 2. De voorzitter meldt zijn voornemen tot aanvaarding van een nevenfunctie, anders dan uit hoofde van zijn voorzitterschap, aan het algemeen bestuur. 
-3.  De voorzitter maakt nevenfuncties, anders dan uit hoofde van zijn ambt, en de inkomsten uit die functies openbaar. Openbaarmaking geschiedt door terinzagelegging op de secretarie van het waterschap uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten. Onder inkomsten als bedoeld in de eerste volzin wordt verstaan: loon in de zin van [artikel 9 van de Wet op de loonbelasting 1964](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), verminderd met de eindheffingsbestanddelen bedoeld in [artikel 31 van die wet](../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md).   
+3.  De voorzitter maakt nevenfuncties, anders dan uit hoofde van zijn ambt, en de inkomsten uit die functies openbaar. Openbaarmaking geschiedt door terinzagelegging op de secretarie van het waterschap uiterlijk op 1 april na het kalenderjaar waarin de inkomsten zijn genoten. Onder inkomsten als bedoeld in de eerste volzin wordt verstaan: loon in de zin van artikel 9 van de Wet op de loonbelasting 1964, verminderd met de eindheffingsbestanddelen bedoeld in artikel 31 van die wet.   
 4.  De voorzitter geniet geen vergoedingen, onder welke benaming ook, voor werkzaamheden, verricht in nevenfuncties die hij vervult uit hoofde van zijn ambt, ongeacht of die vergoedingen ten laste van het waterschap komen. Indien deze vergoedingen worden uitgekeerd, worden zij gestort in de kas van het waterschap.   
 5.  Tot vergoedingen als bedoeld in het vierde lid, behoren inkomsten, onder welke benaming ook, uit nevenfuncties die de voorzitter neerlegt bij beëindiging van het ambt.   
-6.  Andere inkomsten dan die bedoeld in het vierde lid worden met de bezoldiging verrekend overeenkomstig [artikel 3 van de Wet schadeloosstelling leden Tweede Kamer](../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md).   
+6.  Andere inkomsten dan die bedoeld in het vierde lid worden met de bezoldiging verrekend overeenkomstig artikel 3 van de Wet schadeloosstelling leden Tweede Kamer.   
 7.  Op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties worden bij algemene maatregel van bestuur regels gesteld over de wijze waarop de voorzitter gegevens over de inkomsten, bedoeld in het zesde lid, verstrekt. 
 
 ### Artikel  49  
@@ -528,7 +528,7 @@ c. andere aangelegenheden, zijn rechtspositie betreffende, die regeling behoeven
 
 ### Artikel  50  
 
-1. Alvorens zijn ambt te aanvaarden legt de voorzitter in handen van de commissaris van de Koning dan wel, indien het een interprovinciaal waterschap betreft, van Onze daartoe in het reglement aangewezen commissaris van de Koning, de volgende eed (verklaring en belofte) af:  "Ik zweer (verklaar) dat ik, om tot voorzitter benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, aan iemand enige gift of gunst heb gedaan of beloofd.  Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk van iemand enig geschenk of enige belofte heb aangenomen of zal aannemen.  Ik zweer (beloof) dat ik getrouw zal zijn aan de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten zal nakomen en dat ik mijn plichten als voorzitter naar eer en geweten zal vervullen.  Zo waarlijk helpe mij God almachtig!  (Dat verklaar en beloof ik!)".   
+1. Alvorens zijn ambt te aanvaarden legt de voorzitter in handen van de commissaris van de Koning dan wel, indien het een interprovinciaal waterschap betreft, van Onze daartoe in het reglement aangewezen commissaris van de Koning, de volgende eed (verklaring en belofte) af:  "Ik zweer (verklaar) dat ik, om tot voorzitter benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, aan iemand enige gift of gunst heb gedaan of beloofd.  Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk van iemand enig geschenk of enige belofte heb aangenomen of zal aannemen.  Ik zweer (beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als voorzitter naar eer en geweten zal vervullen.  Zo waarlijk helpe mij God almachtig!  (Dat verklaar en beloof ik!)".   
 2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt:  «Ik swar (ferklearje) dat ik, om ta foarsitter beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw.  Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil.  Ik swar (ûnthjit) dat ik trou wêze sil oan 'e Grûnwet, dat ik de wetten neikomme sil en dat ik myn plichten as foarsitter yn alle oprjochtens ferfolje sil.  Sa wier helpe my God Almachtich!»  («Dat ferklearje en ûnthjit ik!»).
 
 ### Artikel  51  
@@ -551,7 +551,7 @@ Het ambt van voorzitter ontheft van alle bij of krachtens de wet opgelegde verpl
 
 ### Artikel 51b 
 
-1. Met inachtneming van het bepaalde in dit hoofdstuk kan het algemeen bestuur de behandeling van verzoekschriften als bedoeld in [artikel 9:18, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) opdragen aan een ombudsman of ombudscommissie voor het waterschap, dan wel een gezamenlijke ombudsman of ombudscommissie. 
+1. Met inachtneming van het bepaalde in dit hoofdstuk kan het algemeen bestuur de behandeling van verzoekschriften als bedoeld in artikel 9:18, eerste lid, van de Algemene wet bestuursrecht opdragen aan een ombudsman of ombudscommissie voor het waterschap, dan wel een gezamenlijke ombudsman of ombudscommissie. 
 2. Een ombudsman of ombudscommissie als bedoeld in het eerste lid kan slechts per 1 januari van enig jaar worden ingesteld. Indien het algemeen bestuur hiertoe besluit, zendt het het besluit tot instelling aan de Nationale ombudsman voor 1 juli van het jaar voorafgaand aan het jaar waarin de instelling ingaat. 
 3. De instelling van een ombudsman of ombudscommissie als bedoeld in het eerste lid kan slechts per 1 januari van enig jaar worden beëindigd. Indien het algemeen bestuur hiertoe besluit, zendt het het besluit tot beëindiging van de instelling aan de Nationale ombudsman voor 1 juli van het jaar voorafgaand aan het jaar waarin de instelling eindigt.
 
@@ -584,28 +584,28 @@ b.bij een nog niet onherroepelijk geworden rechterlijke uitspraak wegens misdrij
 
 c.onder curatele is gesteld, in staat van faillissement is verklaard, ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is verklaard, hij surseance van betaling heeft verkregen of wegens schulden is gegijzeld ingevolge een nog niet onherroepelijk geworden rechterlijke uitspraak.
 
-###Artikel 51d 
+### Artikel 51d 
 
-1. De ombudsman vervult geen betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede vervulling van zijn ambt of op de handhaving van zijn onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin.
+1. De ombudsman vervult geen betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede vervulling van zijn ambt of op de handhaving van zijn onpartijdigheid en onafhankelijkheid of van het vertrouwen daarin. 
 2. Artikel 32 is van overeenkomstige toepassing op de ombudsman.
 
 ### Artikel 51e 
 
-1. Alvorens zijn functie te kunnen uitoefenen, legt de ombudsman in de vergadering van het algemeen bestuur, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot ombudsman benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (verklaar en beloof) dat ik getrouw zal zijn aan de [Grondwet](../../../wet/grondwet/BWBR0001840/README.md), dat ik de wetten zal nakomen en dat ik mijn plichten als ombudsman naar eer en geweten zal vervullen. Zo waarlijk helpe mij God almachtig!» («Dat verklaar en beloof ik!») 
+1. Alvorens zijn functie te kunnen uitoefenen, legt de ombudsman in de vergadering van het algemeen bestuur, in handen van de voorzitter, de volgende eed (verklaring en belofte) af: «Ik zweer (verklaar) dat ik, om tot ombudsman benoemd te worden, rechtstreeks noch middellijk, onder welke naam of welk voorwendsel ook, enige gift of gunst heb gegeven of beloofd. Ik zweer (verklaar en beloof) dat ik, om iets in dit ambt te doen of te laten, rechtstreeks noch middellijk enig geschenk of enige belofte heb aangenomen of zal aannemen. Ik zweer (verklaar en beloof) dat ik getrouw zal zijn aan de Grondwet, dat ik de wetten zal nakomen en dat ik mijn plichten als ombudsman naar eer en geweten zal vervullen. Zo waarlijk helpe mij God almachtig!» («Dat verklaar en beloof ik!») 
 2. Wanneer de eed (verklaring en belofte), bedoeld in het eerste lid, in de Friese taal wordt afgelegd, luidt de tekst van de eed (verklaring en belofte) als volgt:  «Ik swar (ferklearje) dat ik, om ta ombudsman beneamd te wurden, streekrjocht noch midlik, ûnder wat namme of wat ferlechje ek, hokker jefte of geunst dan ek jûn of ûnthjitten haw.  Ik swar (ferklearje en ûnthjit) dat ik, om eat yn dit amt te dwaan of te litten, streekrjocht noch midlik hokker geskink of hokker ûnthjit dan ek oannommen haw of oannimme sil.  Ik swar (ûnthjit) dat ik trou wêze sil oan 'e Grûnwet, dat ik de wetten neikomme sil en dat ik myn plichten as ombudsman yn alle oprjochtens ferfolje sil.  Sa wier helpe my God Almachtich!»  («Dat ferklearje en ûnthjit ik!»).
 
-###Artikel 51f 
+### Artikel 51f 
 
-1. Op voordracht van de ombudsman benoemt het dagelijks bestuur het personeel van de ombudsman dat nodig is voor een goede uitoefening van zijn werkzaamheden.
-2. De ombudsman ontvangt ter zake van de uitoefening van zijn werkzaamheden geen instructies, noch in het algemeen, noch voor een enkel geval.
-3. Het personeel van de ombudsman verricht geen werkzaamheden voor een bestuursorgaan naar wiens gedraging de ombudsman een onderzoek kan instellen.
+1. Op voordracht van de ombudsman benoemt het dagelijks bestuur het personeel van de ombudsman dat nodig is voor een goede uitoefening van zijn werkzaamheden. 
+2. De ombudsman ontvangt ter zake van de uitoefening van zijn werkzaamheden geen instructies, noch in het algemeen, noch voor een enkel geval. 
+3. Het personeel van de ombudsman verricht geen werkzaamheden voor een bestuursorgaan naar wiens gedraging de ombudsman een onderzoek kan instellen. 
 4. Het personeel van de ombudsman is ter zake van de werkzaamheden die het voor de ombudsman verricht, uitsluitend aan hem verantwoording schuldig.
 
-###Artikel 51g 
+### Artikel 51g 
 
 De ombudsman zendt jaarlijks een verslag van zijn werkzaamheden aan het algemeen bestuur.
 
-###Artikel 51h 
+### Artikel 51h 
 
 De ombudsman ontvangt een bij verordening van het algemeen bestuur vastgestelde vergoeding voor zijn werkzaamheden en een tegemoetkoming in de kosten.
 
@@ -619,9 +619,9 @@ De ombudsman ontvangt een bij verordening van het algemeen bestuur vastgestelde 
 2. Het algemeen bestuur benoemt de leden van de ombudscommissie voor de duur van zes jaar. 
 3. Het algemeen bestuur benoemt uit de leden de voorzitter en de plaatsvervangend voorzitter van de ombudscommissie.
 
-###Artikel 51j 
+### Artikel 51j 
 
-1. De ombudscommissie zendt jaarlijks een verslag van zijn werkzaamheden aan het algemeen bestuur.
+1. De ombudscommissie zendt jaarlijks een verslag van zijn werkzaamheden aan het algemeen bestuur. 
 2. Op de ombudscommissie en op ieder lid afzonderlijk zijn de artikelen 51c, derde en vierde lid, 51d, 51e, 51f en 51h van overeenkomstige toepassing.
 
 ###§ 4 
@@ -634,9 +634,9 @@ De ombudsman ontvangt een bij verordening van het algemeen bestuur vastgestelde 
 2.  De ombudsman of de ombudscommissie zendt jaarlijks een verslag van zijn werkzaamheden aan de vertegenwoordigende organen van de deelnemende rechtspersonen.   
 3.  Op de ombudsman en op ieder afzonderlijk lid van de ombudscommissie zijn de artikelen 51c tot en met 51f, 51h en 51i van overeenkomstige toepassing.  
 
-###Artikel 51l 
+### Artikel 51l 
 
-Indien het algemeen bestuur een ombudsman of een ombudscommissie instelt met toepassing van de [Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md), zijn de in die wet ten aanzien van gemeenschappelijke organen opgenomen bepalingen slechts van toepassing voor zover de aard van de aan de ombudsman of de ombudscommissie opgedragen taken zich daartegen niet verzet.
+Indien het algemeen bestuur een ombudsman of een ombudscommissie instelt met toepassing van de Wet gemeenschappelijke regelingen, zijn de in die wet ten aanzien van gemeenschappelijke organen opgenomen bepalingen slechts van toepassing voor zover de aard van de aan de ombudsman of de ombudscommissie opgedragen taken zich daartegen niet verzet.
 
 ### Hoofdstuk  VII  
 
@@ -724,13 +724,13 @@ Onze Minister wie het aangaat en provinciale staten onderscheidenlijk gedeputeer
 
 ### Artikel  68  
 
-In geschillen als bedoeld in [artikel 438 van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) over het dwangbevel bezitten leggers, waarin onderhoudsplichtigen zijn aangewezen, behoudens tegenbewijs, kracht van bewijs. 
+In geschillen als bedoeld in artikel 438 van het Wetboek van Burgerlijke Rechtsvordering over het dwangbevel bezitten leggers, waarin onderhoudsplichtigen zijn aangewezen, behoudens tegenbewijs, kracht van bewijs. 
 
 ### Artikel  70  
 
 1.  In het in artikel 60, tweede lid, omschreven geval vindt de oplegging van een last onder bestuursdwang plaats door gedeputeerde staten namens het waterschapsbestuur en ten laste van het waterschap.    
 2.   Het waterschap heeft voor het bedrag van de te zijnen laste gebrachte kosten verhaal op de overtreder.    
-3.   De [artikelen 4:116](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [4:118 tot en met 4:124](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:10 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en artikel 68 zijn alsdan van toepassing.   
+3.   De artikelen 4:116, 4:118 tot en met 4:124 en 5:10 van de Algemene wet bestuursrecht en artikel 68 zijn alsdan van toepassing.   
 
 ### §  5  
 
@@ -742,7 +742,7 @@ In geschillen als bedoeld in [artikel 438 van het Wetboek van Burgerlijke Rechts
 2.  De uitgifte van het waterschapsblad geschiedt elektronisch op een algemeen toegankelijke wijze. Na de uitgifte blijft het waterschapsblad elektronisch op een algemeen toegankelijke wijze beschikbaar. Indien elektronische uitgifte geheel of gedeeltelijk onmogelijk is, voorziet het waterschapsbestuur in een vervangende uitgave. Bij of krachtens algemene maatregel van bestuur worden omtrent het bepaalde in de eerste en tweede volzin nadere regels gesteld.   
 3.  In afwijking van het eerste lid kan een besluit als bedoeld in dat lid bepalen dat een bij het besluit behorende bijlage wordt bekendgemaakt door terinzagelegging.   
 4.  Voor het inzien van een overeenkomstig het eerste lid bekendgemaakt besluit worden geen kosten in rekening gebracht.  
-5.   Bij de bekendmaking van een besluit dat aan goedkeuring is onderworpen, wordt tevens de dagtekening vermeld van het besluit waarbij de goedkeuring is verleend of wordt mededeling gedaan van de omstandigheid dat ingevolge [artikel 10:31, vierde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een besluit tot goedkeuring wordt geacht te zijn genomen.   
+5.   Bij de bekendmaking van een besluit dat aan goedkeuring is onderworpen, wordt tevens de dagtekening vermeld van het besluit waarbij de goedkeuring is verleend of wordt mededeling gedaan van de omstandigheid dat ingevolge artikel 10:31, vierde lid, van de Algemene wet bestuursrecht een besluit tot goedkeuring wordt geacht te zijn genomen.   
 
 ### Artikel  73a  
 
@@ -783,7 +783,7 @@ De in artikel 56 omschreven bevoegdheid tot regeling en bestuur berust bij het a
 ### Artikel  79  
 
 1. Het algemeen bestuur stelt een verordening vast waarin regels worden gesteld met betrekking tot de wijze waarop ingezetenen en belanghebbenden bij de voorbereiding van het beleid van dat bestuur worden betrokken.
-2. De in het eerste lid bedoelde inspraak wordt verleend door toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voorzover in de verordening niet anders is bepaald. 
+2. De in het eerste lid bedoelde inspraak wordt verleend door toepassing van afdeling 3.4 van de Algemene wet bestuursrecht, voorzover in de verordening niet anders is bepaald. 
 
 ###Artikel 80 
 
@@ -792,7 +792,7 @@ De in artikel 56 omschreven bevoegdheid tot regeling en bestuur berust bij het a
 
 ### Artikel  81  
 
-1.  Op overtreding van een keur kan als straf worden gesteld hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie als bedoeld in [artikel 23 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), al dan niet met openbaarmaking van de rechterlijke uitspraak.    
+1.  Op overtreding van een keur kan als straf worden gesteld hechtenis van ten hoogste drie maanden of geldboete van de tweede categorie als bedoeld in artikel 23 van het Wetboek van Strafrecht, al dan niet met openbaarmaking van de rechterlijke uitspraak.    
 2.   De in het eerste lid bedoelde strafbare feiten zijn overtredingen.    
 3.   Indien tijdens het plegen van de overtreding nog geen jaar is verlopen, sedert een vroegere veroordeling van de schuldige wegens gelijke overtreding onherroepelijk is geworden, kan hechtenis tot het dubbele van het gestelde maximum worden opgelegd. Onder vroegere veroordeling wordt mede verstaan een vroegere veroordeling door een strafrechter in een andere lidstaat van de Europese Unie wegens soortgelijke feiten.  
 
@@ -817,7 +817,7 @@ e. het vaststellen van verordeningen, behoudens het bepaalde in het derde lid;
 
 f. het vaststellen van peilbesluiten;  
 
-g. het vaststellen van plannen krachtens bijzondere wetten, met uitzondering van projectplannen als bedoeld in [hoofdstuk 5 van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md).     
+g. het vaststellen van plannen krachtens bijzondere wetten, met uitzondering van projectplannen als bedoeld in hoofdstuk 5 van de Waterwet.     
 3.   De bevoegdheid tot het maken van keuren kan het algemeen bestuur slechts overdragen voorzover het betreft de vaststelling van nadere regels met betrekking tot bepaalde door het algemeen bestuur in zijn verordeningen aangewezen onderwerpen.    
 4.   De voorschriften met betrekking tot de bevoegdheid van het algemeen bestuur, de uitoefening daarvan en het toezicht daarop zijn ten aanzien van de met toepassing van het eerste lid overgedragen bevoegdheden van overeenkomstige toepassing, met uitzondering van die betreffende vergaderingen.   
 
@@ -839,13 +839,13 @@ Vervallen per 01-09-2002
 
 ### Artikel  85  
 
-1.  Met de opsporing van de overtreding van bij keuren strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de bij besluit van het dagelijks bestuur aangewezen ambtenaren van het waterschap. Indien bij provinciale verordening het toezicht op de naleving van het bij of krachtens die verordening bepaalde is opgedragen aan het dagelijks bestuur, zijn met de opsporing van de overtreding daarvan, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de bij besluit van dat bestuur aangewezen ambtenaren.    
-2.  De in het eerste lid bedoelde ambtenaren van het waterschap zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) tot en met [182](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
+1.  Met de opsporing van de overtreding van bij keuren strafbaar gestelde feiten zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de bij besluit van het dagelijks bestuur aangewezen ambtenaren van het waterschap. Indien bij provinciale verordening het toezicht op de naleving van het bij of krachtens die verordening bepaalde is opgedragen aan het dagelijks bestuur, zijn met de opsporing van de overtreding daarvan, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de bij besluit van dat bestuur aangewezen ambtenaren.    
+2.  De in het eerste lid bedoelde ambtenaren van het waterschap zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
 
 ### Artikel  86  
 
 1.  Het dagelijks bestuur neemt, ook alvorens is besloten tot het voeren van een rechtsgeding, alle conservatoire maatregelen en doet wat nodig is ter voorkoming van verjaring of verlies van recht of bezit.    
-2.   Het dagelijks bestuur is bevoegd, tenzij het algemeen bestuur daaromtrent in voorkomende gevallen een beslissing heeft genomen, tot het procederen in kort geding en tot voeging in strafzaken als bedoeld in [artikel 51a van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).    
+2.   Het dagelijks bestuur is bevoegd, tenzij het algemeen bestuur daaromtrent in voorkomende gevallen een beslissing heeft genomen, tot het procederen in kort geding en tot voeging in strafzaken als bedoeld in artikel 51a van het Wetboek van Strafvordering.    
 3.   Het dagelijks bestuur is bevoegd, indien ingevolge wettelijk voorschrift aan het waterschap of aan het waterschapsbestuur hetzij een recht van beroep hetzij een recht bezwaar te maken toekomt, om spoedshalve beroep in te stellen of bezwaar te maken alsmede, voor zover de voorschriften dat toelaten, om schorsing van het aangevochten besluit of om een voorlopige voorziening ter zake te verzoeken.    
 4.   Tenzij bij reglement anders is bepaald, wordt het ingestelde beroep of het gemaakte bezwaar ingetrokken, indien het algemeen bestuur de beslissing van het dagelijks bestuur tot het instellen van beroep of het maken van bezwaar niet hetzij in zijn eerstvolgende vergadering, hetzij binnen drie maanden bekrachtigt.   
 
@@ -995,7 +995,7 @@ c.regels inzake de algemene doelstellingen en de te hanteren richtlijnen en limi
 ### Artikel  109  
 
 1. Het algemeen bestuur stelt bij verordening regels vast voor de controle op het financiële beheer en op de inrichting van de financiële organisatie. Deze verordening waarborgt dat de rechtmatigheid van het financiële beheer en van de inrichting van de financiële organisatie wordt getoetst. 
-2. Het algemeen bestuur wijst één of meer accountants aan als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), belast met de controle van de in artikel 103 bedoelde jaarrekening en het daarbij verstrekken van een accountantsverklaring en het uitbrengen van een verslag van bevindingen. 
+2. Het algemeen bestuur wijst één of meer accountants aan als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, belast met de controle van de in artikel 103 bedoelde jaarrekening en het daarbij verstrekken van een accountantsverklaring en het uitbrengen van een verslag van bevindingen. 
 3. De accountantsverklaring geeft op grond van de uitgevoerde controle aan of:
 
 a.de jaarrekening een getrouw beeld geeft van zowel de baten en lasten als de grootte en samenstelling van het vermogen;
@@ -1088,7 +1088,7 @@ b.krachtens eigendom, bezit of beperkt recht het genot hebben van ongebouwde onr
 c.krachtens eigendom, bezit of beperkt recht het genot hebben van natuurterreinen;
 
 d.krachtens eigendom, bezit of beperkt recht het genot hebben van gebouwde onroerende zaken. 
-2.  Uit de opbrengsten van de watersysteemheffing worden tevens de op grond van [artikel 7.24 van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md) verschuldigde bijdragen bekostigd. 
+2.  Uit de opbrengsten van de watersysteemheffing worden tevens de op grond van artikel 7.24 van de Waterwet verschuldigde bijdragen bekostigd. 
 
 ### Artikel  118  
 
@@ -1103,7 +1103,7 @@ c.een samenstel van twee of meer van de in onderdeel a bedoelde gebouwde eigendo
 d.het binnen het gebied van een gemeente gelegen deel van een in onderdeel a bedoeld eigendom, van een in onderdeel b bedoeld gedeelte of van een in onderdeel c bedoeld samenstel;
 
 e.het binnen het gebied van het waterschap gelegen deel van een in onderdeel a bedoeld eigendom, van een in onderdeel b bedoeld gedeelte, van een in onderdeel c bedoeld samenstel of van een in onderdeel d bedoeld deel. 
-2. Voor de toepassing van het eerste lid maken de ongebouwde eigendommen voorzover die een samenstel vormen met een gebouwd eigendom als bedoeld in het eerste lid, onderdeel a tot en met e, deel uit van de gebouwde onroerende zaak, met uitzondering van de ongebouwde eigendommen, voorzover de waarde daarvan bij de waardebepaling op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) op basis van het bepaalde krachtens [18, derde lid, van die wet](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) buiten aanmerking wordt gelaten. 
+2. Voor de toepassing van het eerste lid maken de ongebouwde eigendommen voorzover die een samenstel vormen met een gebouwd eigendom als bedoeld in het eerste lid, onderdeel a tot en met e, deel uit van de gebouwde onroerende zaak, met uitzondering van de ongebouwde eigendommen, voorzover de waarde daarvan bij de waardebepaling op de voet van hoofdstuk IV van de Wet waardering onroerende zaken op basis van het bepaalde krachtens 18, derde lid, van die wet buiten aanmerking wordt gelaten. 
 3. Als één ongebouwde onroerende zaak als bedoeld in artikel 117, onderdeel b, wordt aangemerkt een kadastraal perceel of gedeelte daarvan, met dien verstande dat buiten aanmerking wordt gelaten:
 
 a.hetgeen ingevolge het eerste en tweede lid wordt aangemerkt als een gebouwde onroerende zaak;
@@ -1155,9 +1155,9 @@ b.ter zake van ongebouwde onroerende zaken als bedoeld in artikel 117, onderdeel
 
 c.ter zake van ongebouwde onroerende zaken als bedoeld in artikel 117, onderdeel c: de oppervlakte, waarbij het tarief wordt gesteld op een gelijk bedrag per hectare;
 
-d.ter zake van gebouwde onroerende zaken als bedoeld in artikel 117, onderdeel d: de waarde die voor de onroerende zaak wordt bepaald op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) voor het kalenderjaar, waarbij het tarief wordt gesteld op een vast percentage van de waarde. 
-2. In afwijking in zoverre van het eerste lid, onderdeel d, wordt bij de bepaling van de heffingsmaatstaf voor de heffing ter zake van gebouwde onroerende zaken de waarde van onroerende zaken of onderdelen daarvan als bedoeld in [artikel 220d, eerste lid, onderdelen c, h en j, van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md) en van waterbeheersingswerken die worden beheerd door organen, instellingen of diensten van publiekrechtelijke rechtspersonen, met uitzondering van de delen die dienen als woning, buiten aanmerking gelaten, voor zover dit niet reeds is geschied bij de bepaling van de in het eerste lid, onderdeel d, bedoelde waarde. 
-3. Bij de toepassing van het tweede lid is het bepaalde bij of krachtens de [artikelen 17](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), [18](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) en [20, tweede lid, van de Wet waardering onroerende zaken](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) van overeenkomstige toepassing.
+d.ter zake van gebouwde onroerende zaken als bedoeld in artikel 117, onderdeel d: de waarde die voor de onroerende zaak wordt bepaald op de voet van hoofdstuk IV van de Wet waardering onroerende zaken voor het kalenderjaar, waarbij het tarief wordt gesteld op een vast percentage van de waarde. 
+2. In afwijking in zoverre van het eerste lid, onderdeel d, wordt bij de bepaling van de heffingsmaatstaf voor de heffing ter zake van gebouwde onroerende zaken de waarde van onroerende zaken of onderdelen daarvan als bedoeld in artikel 220d, eerste lid, onderdelen c, h en j, van de Gemeentewet en van waterbeheersingswerken die worden beheerd door organen, instellingen of diensten van publiekrechtelijke rechtspersonen, met uitzondering van de delen die dienen als woning, buiten aanmerking gelaten, voor zover dit niet reeds is geschied bij de bepaling van de in het eerste lid, onderdeel d, bedoelde waarde. 
+3. Bij de toepassing van het tweede lid is het bepaalde bij of krachtens de artikelen 17, 18 en 20, tweede lid, van de Wet waardering onroerende zaken van overeenkomstige toepassing.
 
 ### Artikel  122  
 
@@ -1165,7 +1165,7 @@ d.ter zake van gebouwde onroerende zaken als bedoeld in artikel 117, onderdeel d
 2. In afwijking van artikel 121, eerste lid, onderdelen b, c, en d kan het algemeen bestuur in de in artikel 120, eerste lid, genoemde verordening de heffing maximaal 100% hoger vaststellen voor onroerende zaken gelegen in bemalen gebieden. 
 3.  In afwijking van artikel 121, eerste lid, onderdelen b, c, en d kan het algemeen bestuur in de in artikel 120, eerste lid, genoemde verordening de heffing: 
 
-a. maximaal 100% hoger vaststellen voor onroerende zaken die in hoofdzaak bestaan uit glasopstanden als bedoeld in [artikel 220d, eerste lid, onderdeel b, van de Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md);  
+a. maximaal 100% hoger vaststellen voor onroerende zaken die in hoofdzaak bestaan uit glasopstanden als bedoeld in artikel 220d, eerste lid, onderdeel b, van de Gemeentewet;  
 
 b. maximaal 100% hoger vaststellen voor verharde openbare wegen, indien het algemeen bestuur voor 1 juli 2012 geen tariefdifferentiatie toepaste;  
 
@@ -1212,11 +1212,11 @@ c.afvoeren: het brengen van stoffen op een riolering of op een zuiveringtechnisc
 
 d.stoffen: afvalstoffen, verontreinigende of schadelijke stoffen;
 
-e.afvalwater: afvalwater als bedoeld in [artikel 3.4 van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md);
+e.afvalwater: afvalwater als bedoeld in artikel 3.4 van de Waterwet;
 
-f.drinkwater: drinkwater als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../wet/drinkwaterwet/BWBR0026338/README.md);
+f.drinkwater: drinkwater als bedoeld in artikel 1, eerste lid, van de Drinkwaterwet;
 
-g.drinkwaterbedrijf: drinkwaterbedrijf als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../wet/drinkwaterwet/BWBR0026338/README.md);
+g.drinkwaterbedrijf: drinkwaterbedrijf als bedoeld in artikel 1, eerste lid, van de Drinkwaterwet;
 
 h.woonruimte: een ruimte als bedoeld in artikel 116, onder b;
 
@@ -1224,7 +1224,7 @@ i.bedrijfsruimte: een naar zijn aard en inrichting als afzonderlijk geheel te be
 
 j.  ingenomen water: geleverd drink- en industriewater en warm tapwater, onttrokken grond- en oppervlaktewater en opgevangen hemelwater; 
 
-k. warm tapwater: warm tapwater als bedoeld in [artikel 1, eerste lid, van de Drinkwaterwet](../../../wet/drinkwaterwet/BWBR0026338/README.md). 
+k. warm tapwater: warm tapwater als bedoeld in artikel 1, eerste lid, van de Drinkwaterwet. 
 
 ### Artikel 122d 
 
@@ -1349,11 +1349,11 @@ Nadere regels met betrekking tot de zuiveringsheffing kunnen worden gesteld bij 
 
 a. waterschapsbelastingen: de belastingen die het waterschap heft, bedoeld in artikel 113;   
 
-b. Algemene wet: [Algemene wet inzake rijksbelastingen](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md);   
+b. Algemene wet: Algemene wet inzake rijksbelastingen;   
 
 c. heffing op andere wijze : heffing op andere wijze dan bij wege van aanslag of bij wege van voldoening op aangifte.     
-2.   Onverminderd het overigens in dit hoofdstuk bepaalde geschieden de heffing en de invordering van waterschapsbelastingen met toepassing van de Algemene wet, de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) als waren die belastingen rijksbelastingen.    
-3.   Onverminderd het overigens in dit hoofdstuk bepaalde, gelden de bevoegdheden en verplichtingen van de hierna vermelde, in de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) genoemde functionarissen, met betrekking tot de waterschapsbelastingen voor de daarachter genoemde colleges of functionarissen:  
+2.   Onverminderd het overigens in dit hoofdstuk bepaalde geschieden de heffing en de invordering van waterschapsbelastingen met toepassing van de Algemene wet, de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen als waren die belastingen rijksbelastingen.    
+3.   Onverminderd het overigens in dit hoofdstuk bepaalde, gelden de bevoegdheden en verplichtingen van de hierna vermelde, in de Algemene wet, de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen genoemde functionarissen, met betrekking tot de waterschapsbelastingen voor de daarachter genoemde colleges of functionarissen:  
 
 a. Onze Minister van Financiën, het bestuur van ’s Rijksbelastingen en de directeur: het dagelijks bestuur;   
 
@@ -1363,15 +1363,15 @@ c. de ontvanger of een inzake rijksbelastingen bevoegde ontvanger: de ambtenaar 
 
 d. de ambtenaren van de rijksbelastingdienst: de ambtenaren van het waterschap, belast met de heffing of de invordering van waterschapsbelastingen;   
 
-e. belastingdeurwaarder: de daartoe door het dagelijks bestuur aangewezen ambtenaar van het waterschap, dan wel een als belastingdeurwaarder van het waterschap aangewezen gerechtsdeurwaarder, bedoeld in de [Gerechtsdeurwaarderswet](../../../wet/gerechtsdeurwaarderswet/BWBR0012197/README.md);  
+e. belastingdeurwaarder: de daartoe door het dagelijks bestuur aangewezen ambtenaar van het waterschap, dan wel een als belastingdeurwaarder van het waterschap aangewezen gerechtsdeurwaarder, bedoeld in de Gerechtsdeurwaarderswet;  
 
 f.de Tweede Kamer der Staten-Generaal of de Tweede Kamer: het algemeen bestuur.    
-4.   Onverminderd het overigens in dit hoofdstuk bepaalde wordt met betrekking tot waterschapsbelastingen in de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en in de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor algemene maatregel van bestuur en voor ministeriële regeling gelezen: besluit van het dagelijks bestuur.   
-5. Met betrekking tot waterschapsbelastingen wordt in [artikel 24 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) voor «de Staat» gelezen: het waterschap.
+4.   Onverminderd het overigens in dit hoofdstuk bepaalde wordt met betrekking tot waterschapsbelastingen in de Algemene wet en in de Invorderingswet 1990 voor algemene maatregel van bestuur en voor ministeriële regeling gelezen: besluit van het dagelijks bestuur.   
+5. Met betrekking tot waterschapsbelastingen wordt in artikel 24 van de Invorderingswet 1990 voor «de Staat» gelezen: het waterschap.
 
 ### Artikel  124  
 
-1.  Het dagelijks bestuur kan bepalen dat voor de toezending of uitreiking van aanslagbiljetten ingevolge [artikel 8, eerste lid, van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md), voor de in artikel 123, derde lid, onderdeel c, bedoelde ambtenaar van het waterschap, een andere ambtenaar van het waterschap in de plaats treedt.    
+1.  Het dagelijks bestuur kan bepalen dat voor de toezending of uitreiking van aanslagbiljetten ingevolge artikel 8, eerste lid, van de Invorderingswet 1990, voor de in artikel 123, derde lid, onderdeel c, bedoelde ambtenaar van het waterschap, een andere ambtenaar van het waterschap in de plaats treedt.    
 2.  De dagelijkse besturen van twee of meer waterschappen kunnen met betrekking tot een of meer waterschapsbelastingen bepalen dat het dagelijks bestuur van één van die waterschappen voor de uitvoering van enige wettelijke bepaling betreffende de heffing of invordering van waterschapsbelastingen in de plaats treedt van het andere dagelijks bestuur onderscheidenlijk van die andere dagelijkse besturen.    
 3.  De dagelijkse besturen van twee of meer waterschappen kunnen met betrekking tot een of meer waterschapsbelastingen bepalen dat daartoe aangewezen ambtenaren van één van die waterschappen worden aangewezen als:  
 
@@ -1401,7 +1401,7 @@ Waterschapsbelastingen kunnen worden geheven bij wege van aanslag, bij wege van 
 ###Artikel 125a 
 
 1. Indien de waterschapsbelastingen op andere wijze worden geheven, bepaalt de belastingverordening op welke wijze deze worden geheven en de wijze waarop de belastingschuld aan de belastingplichtige wordt bekendgemaakt. De belastingverordening kan daarnaast bepalen dat het dagelijks bestuur omtrent de uitvoering van een en ander nadere regels geeft.
-2. De op andere wijze geheven belastingen worden voor de toepassing van de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) aangemerkt als bij wege van aanslag geheven belastingen, met dien verstande dat wordt verstaan onder:
+2. De op andere wijze geheven belastingen worden voor de toepassing van de Algemene wet en de Invorderingswet 1990 aangemerkt als bij wege van aanslag geheven belastingen, met dien verstande dat wordt verstaan onder:
 
 a.de aanslag, de voorlopige aanslag, de navorderingsaanslag: het gevorderde, onderscheidenlijk het voorlopig gevorderde, het nagevorderde bedrag;
 
@@ -1411,42 +1411,42 @@ c.de dagtekening van het aanslagbiljet: de dagtekening van de schriftelijke kenn
 
 ### Artikel  126  
 
-Bij de heffing van waterschapsbelastingen blijven van de [Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) buiten toepassing de [artikelen 2, vierde lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [3](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [37 tot en met 39](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47a](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [48](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [52](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [53](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [54](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [55](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [62](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [71](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [76](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [80, tweede, derde en vierde lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [82](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [84](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [86](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [87](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [90 tot en met 95](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md). Bij de heffing van waterschapsbelastingen die op andere wijze worden geheven, blijven bovendien de [artikelen 5](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [6 tot en met 9](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [11, tweede lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [12 van die wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) buiten toepassing. 
+Bij de heffing van waterschapsbelastingen blijven van de Algemene wet buiten toepassing de artikelen 2, vierde lid, 3, 37 tot en met 39, 47a, 48, 52, 53, 54, 55, 62, 71, 76, 80, tweede, derde en vierde lid, 82, 84, 86, 87 en 90 tot en met 95. Bij de heffing van waterschapsbelastingen die op andere wijze worden geheven, blijven bovendien de artikelen 5, 6 tot en met 9, 11, tweede lid, en 12 van die wet buiten toepassing. 
 
 ###Artikel 126a 
 
 1. Met betrekking tot waterschapsbelastingen kunnen bij algemene maatregel van bestuur: 
 
-a.regels worden gesteld waarbij de [artikelen 48](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [52](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [53, eerste en vierde lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [54](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) of [55 van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), alsmede de [artikelen 59](../../../wet/invorderingswet/1990/BWBR0004770/README.md) of [62 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) geheel of gedeeltelijk van toepassing worden verklaard, dan wel 
+a.regels worden gesteld waarbij de artikelen 48, 52, 53, eerste en vierde lid, 54 of 55 van de Algemene wet, alsmede de artikelen 59 of 62 van de Invorderingswet 1990 geheel of gedeeltelijk van toepassing worden verklaard, dan wel 
 
 b.regels worden gesteld die overeenkomen met die in de in onderdeel *a* genoemde artikelen. 
 2.  De in het eerste lid bedoelde regels bevatten in elk geval een omschrijving van degene op wie de verplichting rust, alsmede van de belasting ten behoeve waarvan de verplichting geldt. Voorts vermelden deze regels naar gelang de aard van de verplichting een omschrijving van de aard van de te verstrekken gegevens en inlichtingen, van de aard van de gegevens welke uit de administratie dienen te blijken of van het doel waarvoor het voor raadpleging beschikbaar stellen van gegevensdragers kan geschieden. 
 
 ### Artikel  127  
 
-1.  Het uitnodigen tot het doen van aangifte, bedoeld in [artikel 6 van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), geschiedt door het uitreiken van een aangiftebiljet.    
-2.   Het doen van aangifte, bedoeld in [artikel 8 van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), geschiedt door het inleveren of toezenden van het uitgereikte aangiftebiljet met de daarbij gevraagde bescheiden.    
+1.  Het uitnodigen tot het doen van aangifte, bedoeld in artikel 6 van de Algemene wet, geschiedt door het uitreiken van een aangiftebiljet.    
+2.   Het doen van aangifte, bedoeld in artikel 8 van de Algemene wet, geschiedt door het inleveren of toezenden van het uitgereikte aangiftebiljet met de daarbij gevraagde bescheiden.    
 3.   In afwijking in zoverre van de vorige leden kan de in artikel 123, derde lid, onderdeel b, bedoelde ambtenaar van het waterschap vorderen dat een verplichting tot het doen van aangifte of tot het indienen van een verzoek om uitreiking van een aangiftebiljet wordt nagekomen door het mondeling doen van aangifte. Daarbij:  
 
 a. worden de door de in artikel 123, derde lid, onderdeel b, bedoelde ambtenaar van het waterschap gevraagde bescheiden overgelegd;   
 
 b. kan de in artikel 123, derde lid, onderdeel b, bedoelde ambtenaar van het waterschap vorderen dat een van de mondelinge aangifte opgemaakt relaas door de aangever wordt ondertekend, bij gebreke waarvan de aangifte geacht wordt niet te zijn gedaan.      
-4.  Indien het derde lid toepassing vindt, kan de in artikel 123, derde lid, onderdeel b, bedoelde ambtenaar van het waterschap voor de termijnen, genoemd in [artikel 9, eerste en derde lid, eerste volzin](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [artikel 10, tweede lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [artikel 19, eerste, derde en vierde lid, van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) of voor de kortere termijn, bedoeld in artikel 128, eerste of tweede lid, kortere termijnen in de plaats stellen en is [artikel 12 van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) niet van toepassing.   
+4.  Indien het derde lid toepassing vindt, kan de in artikel 123, derde lid, onderdeel b, bedoelde ambtenaar van het waterschap voor de termijnen, genoemd in artikel 9, eerste en derde lid, eerste volzin, artikel 10, tweede lid, en artikel 19, eerste, derde en vierde lid, van de Algemene wet of voor de kortere termijn, bedoeld in artikel 128, eerste of tweede lid, kortere termijnen in de plaats stellen en is artikel 12 van de Algemene wet niet van toepassing.   
 5.   Bij de belastingverordening kan van het eerste en tweede lid worden afgeweken.   
 
 ###Artikel 128 
 
-1. Met betrekking tot de bij wege van aanslag geheven waterschapsbelastingen kan in de belastingverordening voor de in [artikel 9, eerste en derde lid, van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) genoemde termijn van ten minste een maand een kortere termijn in de plaats worden gesteld.
-2. Met betrekking tot de bij wege van voldoening op aangifte geheven waterschapsbelastingen kan in de belastingverordening voor de termijn van een maand, genoemd in [artikel 10, tweede lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [artikel 19, eerste, derde en vierde lid, van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), een kortere termijn in de plaats worden gesteld.
+1. Met betrekking tot de bij wege van aanslag geheven waterschapsbelastingen kan in de belastingverordening voor de in artikel 9, eerste en derde lid, van de Algemene wet genoemde termijn van ten minste een maand een kortere termijn in de plaats worden gesteld.
+2. Met betrekking tot de bij wege van voldoening op aangifte geheven waterschapsbelastingen kan in de belastingverordening voor de termijn van een maand, genoemd in artikel 10, tweede lid, en artikel 19, eerste, derde en vierde lid, van de Algemene wet, een kortere termijn in de plaats worden gesteld.
 
 ### Artikel  128a  
 
-1.  Een besluit als bedoeld in [artikel 7.2, derde lid, aanhef en onder a, van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md) wordt genomen door de in artikel 123, derde lid, onderdeel b, bedoelde ambtenaar van het waterschap.   
-2.  Een ambtenaar als bedoeld in artikel 123, derde lid, onderdeel d, is voor zover dit voor de heffing van de in [artikel 7.2 van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md) bedoelde waterschapsbelasting redelijkerwijs nodig is, bevoegd: 
+1.  Een besluit als bedoeld in artikel 7.2, derde lid, aanhef en onder a, van de Waterwet wordt genomen door de in artikel 123, derde lid, onderdeel b, bedoelde ambtenaar van het waterschap.   
+2.  Een ambtenaar als bedoeld in artikel 123, derde lid, onderdeel d, is voor zover dit voor de heffing van de in artikel 7.2 van de Waterwet bedoelde waterschapsbelasting redelijkerwijs nodig is, bevoegd: 
 
 a. elke plaats met medeneming van de benodigde apparatuur, zo nodig met behulp van de sterke arm, met uitzondering van een woning zonder toestemming van de bewoner te betreden;  
 
-b. monsters te nemen van het afvalwater dat wordt geloosd in de zin van [artikel 7.1 van de Waterwet](../../../wet/waterwet/BWBR0025458/README.md).    
+b. monsters te nemen van het afvalwater dat wordt geloosd in de zin van artikel 7.1 van de Waterwet.    
 
 ### Artikel  129  
 
@@ -1455,7 +1455,7 @@ b. monsters te nemen van het afvalwater dat wordt geloosd in de zin van [artikel
 
 ### Artikel  131  
 
-Indien bezwaar wordt gemaakt zowel tegen een belastingaanslag in de heffing ter zake van een gebouwde of ongebouwde onroerende zaak als tegen een op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) gegeven beschikking welke ten grondslag heeft gelegen aan die belastingaanslag, vangt, ingeval feiten en omstandigheden in het geding zijn die van belang zijn zowel voor de heffing ter zake van een gebouwde of ongebouwde onroerende zaak als voor de vaststelling van de waarde op de voet van genoemd [hoofdstuk IV](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md), de termijn waarbinnen de in artikel 123, derde lid, onderdeel b, bedoelde ambtenaar van het waterschap uitspraak doet op het eerstbedoelde bezwaar aan, in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), op het tijdstip waarop de op de voet van genoemd [hoofdstuk IV](../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) gegeven beschikking onherroepelijk is komen vast te staan. 
+Indien bezwaar wordt gemaakt zowel tegen een belastingaanslag in de heffing ter zake van een gebouwde of ongebouwde onroerende zaak als tegen een op de voet van hoofdstuk IV van de Wet waardering onroerende zaken gegeven beschikking welke ten grondslag heeft gelegen aan die belastingaanslag, vangt, ingeval feiten en omstandigheden in het geding zijn die van belang zijn zowel voor de heffing ter zake van een gebouwde of ongebouwde onroerende zaak als voor de vaststelling van de waarde op de voet van genoemd hoofdstuk IV, de termijn waarbinnen de in artikel 123, derde lid, onderdeel b, bedoelde ambtenaar van het waterschap uitspraak doet op het eerstbedoelde bezwaar aan, in afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht, op het tijdstip waarop de op de voet van genoemd hoofdstuk IV gegeven beschikking onherroepelijk is komen vast te staan. 
 
 ### Artikel  132  
 
@@ -1477,39 +1477,39 @@ Op overtreding van een in de belastingverordening voorkomende bepaling betreffen
 
 ### Artikel  138  
 
-1.  Bij de invordering van waterschapsbelastingen blijven van de [Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) buiten toepassing de [artikelen 5](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [20](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [21](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [59](../../../wet/invorderingswet/1990/BWBR0004770/README.md), [62](../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [69](../../../wet/invorderingswet/1990/BWBR0004770/README.md). Bij de invordering van waterschapsbelastingen die niet bij wege van aanslag of bij wege van voldoening op aangifte worden geheven, blijft bovendien [artikel 8, eerste lid, van die wet](../../../wet/invorderingswet/1990/BWBR0004770/README.md), buiten toepassing.   
+1.  Bij de invordering van waterschapsbelastingen blijven van de Invorderingswet 1990 buiten toepassing de artikelen 5, 20, 21, 59, 62 en 69. Bij de invordering van waterschapsbelastingen die niet bij wege van aanslag of bij wege van voldoening op aangifte worden geheven, blijft bovendien artikel 8, eerste lid, van die wet, buiten toepassing.   
 2.   Met betrekking tot waterschapsbelastingen die niet bij wege van aanslag of bij wege van voldoening op aangifte worden geheven, kan in de belastingverordening worden bepaald dat een andere ambtenaar van het waterschap dan de met de invordering van waterschapsbelastingen belaste ambtenaar van het waterschap mede wordt belast met de invordering van die belastingen.    
-3.   Voor waterschapsbelastingen ter zake van onroerende zaken, voor zover deze worden geheven van de eigenaar of van de genothebbende krachtens een beperkt recht, heeft het waterschap een voorrecht op de onroerende zaken waarop de aanslag in een zodanige belasting betrekking heeft, en op de beperkte rechten waaraan die zaken zijn onderworpen. Het voorrecht gaat boven hypotheek en boven alle andere voorrechten, met uitzondering van het voorrecht van [artikel 288 onder a](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), alsmede dat van [artikel 284 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), voor zover de daar bedoelde kosten na de vaststelling van de aanslag zijn gemaakt.   
+3.   Voor waterschapsbelastingen ter zake van onroerende zaken, voor zover deze worden geheven van de eigenaar of van de genothebbende krachtens een beperkt recht, heeft het waterschap een voorrecht op de onroerende zaken waarop de aanslag in een zodanige belasting betrekking heeft, en op de beperkte rechten waaraan die zaken zijn onderworpen. Het voorrecht gaat boven hypotheek en boven alle andere voorrechten, met uitzondering van het voorrecht van artikel 288 onder a, alsmede dat van artikel 284 van Boek 3 van het Burgerlijk Wetboek, voor zover de daar bedoelde kosten na de vaststelling van de aanslag zijn gemaakt.   
 
 ### Artikel  139  
 
-1.  De belastingverordening kan van [artikel 9 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) afwijkende voorschriften inhouden.   
+1.  De belastingverordening kan van artikel 9 van de Invorderingswet 1990 afwijkende voorschriften inhouden.   
 2.  De belastingverordening kan bepalen dat het verschuldigde bedrag moet worden betaald gelijktijdig met en op dezelfde wijze als de voldoening van een andere vordering aan de schuldeiser van die andere vordering.  
 
 ### Artikel 140 
 
-Met betrekking tot het doen van een vordering als bedoeld in [artikel 19, vierde lid, van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) zijn de krachtens het tiende lid van dat artikel door Onze minister van Financiën gestelde regels van overeenkomstige toepassing.
+Met betrekking tot het doen van een vordering als bedoeld in artikel 19, vierde lid, van de Invorderingswet 1990 zijn de krachtens het tiende lid van dat artikel door Onze minister van Financiën gestelde regels van overeenkomstige toepassing.
 
 ###Artikel 141 
 
-De verrekening van aan de belastingschuldige uit te betalen en van hem te innen bedragen ter zake van waterschapsbelastingen op de voet van [artikel 24 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) is ook mogelijk ingeval de in [artikel 9 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) gestelde termijn, dan wel de krachtens artikel 139, eerste lid, gestelde termijn nog niet is verstreken.
+De verrekening van aan de belastingschuldige uit te betalen en van hem te innen bedragen ter zake van waterschapsbelastingen op de voet van artikel 24 van de Invorderingswet 1990 is ook mogelijk ingeval de in artikel 9 van de Invorderingswet 1990 gestelde termijn, dan wel de krachtens artikel 139, eerste lid, gestelde termijn nog niet is verstreken.
 
 ### Artikel  142  
 
 1.  Indien ter zake van hetzelfde voorwerp van de belasting of hetzelfde belastbare feit twee of meer personen belastingplichtig zijn, kan de belastingaanslag ten name van een van hen worden gesteld.   
 2.  Indien de belastingplicht, bedoeld in het eerste lid, voortvloeit uit het genot van een onroerende zaak krachtens eigendom, bezit of beperkt recht en de aanslag ten name van één van de belastingplichtigen is gesteld, kan de met de invordering van waterschapsbelastingen belaste ambtenaar van het waterschap de belastingaanslag op de gehele onroerende zaak verhalen ten name van degene te wiens name de aanslag is gesteld, zonder rekening te houden met de rechten van de overige belastingplichtigen.   
 3.  De belastingschuldige die de belastingaanslag heeft voldaan kan hetgeen hij meer heeft voldaan dan overeenkomt met zijn belastingplicht verhalen op de overige belastingplichtigen naar evenredigheid van ieders belastingplicht.    
-4.  Tegen een met toepassing van het eerste lid vastgestelde belastingaanslag kan mede beroep bij de rechtbank worden ingesteld door de belastingplichtige wiens naam niet op het aanslagbiljet staat vermeld. [Artikel 26a, derde lid, van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing.   
+4.  Tegen een met toepassing van het eerste lid vastgestelde belastingaanslag kan mede beroep bij de rechtbank worden ingesteld door de belastingplichtige wiens naam niet op het aanslagbiljet staat vermeld. Artikel 26a, derde lid, van de Algemene wet is van overeenkomstige toepassing.   
 5.  Van het derde lid kan bij overeenkomst worden afgeweken.  
 
 ###Artikel 143 
 
-Voor de toepassing van [artikel 66 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) met betrekking tot waterschapsbelastingen blijven de [artikelen 76](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md),[ 80, tweede, derde en vierde lid](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [82](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [84](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [86](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [87 van de Algemene wet](../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) buiten toepassing. 
+Voor de toepassing van artikel 66 van de Invorderingswet 1990 met betrekking tot waterschapsbelastingen blijven de artikelen 76, 80, tweede, derde en vierde lid, 82, 84, 86 en 87 van de Algemene wet buiten toepassing. 
 
 ### Artikel  144  
 
-1.  De in [artikel 26 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) bedoelde kwijtschelding wordt met betrekking tot waterschapsbelastingen verleend door de in artikel 123, derde lid, onderdeel c, bedoelde ambtenaar van het waterschap.    
-2.  Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn de krachtens [artikel 26 van de Invorderingswet 1990](../../../wet/invorderingswet/1990/BWBR0004770/README.md) door Onze Minister van Financiën bij ministeriële regeling gestelde regels van toepassing.    
+1.  De in artikel 26 van de Invorderingswet 1990 bedoelde kwijtschelding wordt met betrekking tot waterschapsbelastingen verleend door de in artikel 123, derde lid, onderdeel c, bedoelde ambtenaar van het waterschap.    
+2.  Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn de krachtens artikel 26 van de Invorderingswet 1990 door Onze Minister van Financiën bij ministeriële regeling gestelde regels van toepassing.    
 3.  Het algemeen bestuur kan bepalen dat, in afwijking van de in het tweede lid bedoelde regels, in het geheel geen dan wel gedeeltelijk kwijtschelding wordt verleend.   
 4.  Met inachtneming van door Onze Minister van Infrastructuur en Milieu, in overeenstemming met Onze Minister van Financiën, te stellen regels kan het algemeen bestuur met betrekking tot de wijze waarop de kosten van bestaan en de wijze waarop het vermogen in aanmerking worden genomen afwijkende regels stellen die er toe leiden dat in ruimere mate kwijtschelding wordt verleend.   
 5.   Het dagelijks bestuur kan de belasting geheel of gedeeltelijk oninbaar verklaren. Het daartoe strekkende besluit ontheft de ambtenaar van het waterschap, belast met de invordering van waterschapsbelastingen van de verplichting verdere pogingen tot invordering te doen.   
@@ -1520,7 +1520,7 @@ Indien inzake een waterschapsbelasting exploot moet worden gedaan, een akte van 
 
 ### Artikel  146  
 
-De eigenaar of degene, die krachtens een ander beperkt recht het genot heeft van in het gebied van een waterschap gelegen onroerende zaak en die binnen Nederland geen bekende woon- of verblijfplaats heeft, is verplicht aan het dagelijks bestuur van dat waterschap een adres binnen Nederland op te geven, waar de voor hem bestemde stukken betreffende waterschapsbelastingen of betreffende de in [artikel 5:25 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde kosten van bestuursdwang worden bezorgd of betekend. Indien hij hiermede in gebreke blijft, geschiedt de betekening van een dwangbevel aan de persoon of in het parket van de ambtenaar van het openbaar ministerie bij de rechtbank binnen welker rechtsgebied de onroerende zaak geheel of gedeeltelijk ligt. De deurwaarder of de belastingdeurwaarder zendt, zo mogelijk, een tweede afschrift onverwijld per aangetekende brief aan de woonplaats of het werkelijk verblijf van de betrokkene.  
+De eigenaar of degene, die krachtens een ander beperkt recht het genot heeft van in het gebied van een waterschap gelegen onroerende zaak en die binnen Nederland geen bekende woon- of verblijfplaats heeft, is verplicht aan het dagelijks bestuur van dat waterschap een adres binnen Nederland op te geven, waar de voor hem bestemde stukken betreffende waterschapsbelastingen of betreffende de in artikel 5:25 van de Algemene wet bestuursrecht bedoelde kosten van bestuursdwang worden bezorgd of betekend. Indien hij hiermede in gebreke blijft, geschiedt de betekening van een dwangbevel aan de persoon of in het parket van de ambtenaar van het openbaar ministerie bij de rechtbank binnen welker rechtsgebied de onroerende zaak geheel of gedeeltelijk ligt. De deurwaarder of de belastingdeurwaarder zendt, zo mogelijk, een tweede afschrift onverwijld per aangetekende brief aan de woonplaats of het werkelijk verblijf van de betrokkene.  
 
 ### Artikel  147  
 
@@ -1547,7 +1547,7 @@ Vervallen per 25-11-2009
 ### Artikel  156  
 
 1.  Een besluit dan wel een niet-schriftelijke beslissing gericht op enig rechtsgevolg van het waterschapsbestuur kan door gedeputeerde staten worden vernietigd.    
-2.  Ten aanzien van vernietiging van een niet-schriftelijke beslissing gericht op enig rechtsgevolg zijn de [afdelingen 10.2.2](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [10.2.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.   
+2.  Ten aanzien van vernietiging van een niet-schriftelijke beslissing gericht op enig rechtsgevolg zijn de afdelingen 10.2.2 en 10.2.3 van de Algemene wet bestuursrecht van overeenkomstige toepassing.   
 
 ### Artikel  158  
 
@@ -1560,7 +1560,7 @@ Indien een bekend gemaakt besluit is vernietigd of indien het niet is vernietigd
 
 ### Artikel  162  
 
-In afwijking van [artikel 8.4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kan een belanghebbende beroep instellen tegen een besluit van gedeputeerde staten als bedoeld in artikel 156, eerste lid.
+In afwijking van artikel 8.4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht, kan een belanghebbende beroep instellen tegen een besluit van gedeputeerde staten als bedoeld in artikel 156, eerste lid.
 
 ### Artikel  163  
 
@@ -1573,7 +1573,7 @@ Het waterschapsbestuur neemt opnieuw een besluit omtrent het onderwerp van het v
 ### Artikel  164  
 
 1.  Een besluit tot het instellen en reglementeren van een waterschap, waarvan het gebied in twee of meer provincies is gelegen, bevat een regeling omtrent de uitoefening van het toezicht ingevolge deze Titel hetzij van enige andere vorm van toezicht. Wordt bij dat besluit aan de colleges van gedeputeerde staten de gemeenschappelijke uitoefening van het toezicht opgedragen, dan worden daarbij tevens regels gesteld omtrent de gemeenschappelijke voorbereiding van de ter uitoefening van dat toezicht te nemen besluiten.    
-2.   Indien de colleges van gedeputeerde staten niet tot overeenstemming kunnen komen over het te nemen besluit binnen de voor de uitoefening van het toezicht geldende termijn, dan wel, indien geen termijn geldt, binnen redelijke termijn, delen zij dit schriftelijk mede aan Onze Minister van Infrastructuur en Milieu. In dat geval wordt op de voordracht van deze minister, gedaan na overleg met die colleges, het besluit genomen bij koninklijk besluit, de Raad van State gehoord. [Artikel 27d van de Wet op de Raad van State](../../../wet/wet/op/de/raad/van/state/BWBR0002367/README.md) is van overeenkomstige toepassing.   
+2.   Indien de colleges van gedeputeerde staten niet tot overeenstemming kunnen komen over het te nemen besluit binnen de voor de uitoefening van het toezicht geldende termijn, dan wel, indien geen termijn geldt, binnen redelijke termijn, delen zij dit schriftelijk mede aan Onze Minister van Infrastructuur en Milieu. In dat geval wordt op de voordracht van deze minister, gedaan na overleg met die colleges, het besluit genomen bij koninklijk besluit, de Raad van State gehoord. Artikel 27d van de Wet op de Raad van State is van overeenkomstige toepassing.   
 
 ### Titel  VI  
 
@@ -1581,7 +1581,7 @@ Het waterschapsbestuur neemt opnieuw een besluit omtrent het onderwerp van het v
 
 ### Artikel  172  
 
-Op termijnen gesteld in een verordening van het waterschap zijn de [artikelen 1 tot en met 4 van de Algemene Termijnenwet](../../../wet/algemene/termijnenwet/BWBR0002448/README.md) (*Stb.* 1964, 314) van overeenkomstige toepassing, tenzij in het reglement anders is bepaald.  
+Op termijnen gesteld in een verordening van het waterschap zijn de artikelen 1 tot en met 4 van de Algemene Termijnenwet (*Stb.* 1964, 314) van overeenkomstige toepassing, tenzij in het reglement anders is bepaald.  
 
 ### Artikel  173  
 

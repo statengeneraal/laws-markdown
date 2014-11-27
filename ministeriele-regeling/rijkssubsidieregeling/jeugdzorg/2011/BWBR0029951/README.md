@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 29 april 2011, nr. J/GJ-3060539, houdende regels met betrekking tot het verlenen van subsidies op het terrein van de jeugdzorg met betrekking tot de uitvoering van een experiment of van de steunfunctie en ten behoeve van het stimuleren van nieuw beleid (Rijkssubsidieregeling jeugdzorg 2011)
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport, en de Staatssecretaris van Veiligheid en Justitie,  
-Gelet op [artikel 39, tweede lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+Gelet op artikel 39, tweede lid, van de Wet op de jeugdzorg;
 Besluiten:     
 ### Hoofdstuk  1  
 
@@ -15,11 +15,11 @@ In deze regeling wordt verstaan onder:
 
 *Ministers:* Minister van Volksgezondheid, Welzijn en Sport en de Minister van Veiligheid en Justitie;  
 
-*subsidie:* subsidie als bedoeld in [artikel 38, eerste lid, van de wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) aan een privaatrechtelijke instelling;  
+*subsidie:* subsidie als bedoeld in artikel 38, eerste lid, van de wet aan een privaatrechtelijke instelling;  
 
-*uitkering:* subsidie als bedoeld in [artikel 38, eerste lid, van de wet](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) aan een provincie;  
+*uitkering:* subsidie als bedoeld in artikel 38, eerste lid, van de wet aan een provincie;  
 
-*wet:* [Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+*wet:* Wet op de jeugdzorg.   
 
 ### Hoofdstuk  2  
 
@@ -36,9 +36,9 @@ Een subsidie wordt slechts verstrekt ten behoeve van de uitvoering van de steunf
 
 ### Artikel  4  
 
-De [artikelen 1](../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md) en [4 tot en met 70 van de Kaderregeling VWS-subsidies](../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md) zijn van toepassing op het verstrekken van subsidies, met dien verstande dat: 
+De artikelen 1 en 4 tot en met 70 van de Kaderregeling VWS-subsidies zijn van toepassing op het verstrekken van subsidies, met dien verstande dat: 
 
-a. de Ministers in de plaats treden van de minister, bedoeld in [artikel 1, onderdeel a, van de Kaderregeling VWS-subsidies](../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md) en  
+a. de Ministers in de plaats treden van de minister, bedoeld in artikel 1, onderdeel a, van de Kaderregeling VWS-subsidies en  
 
 b. aanvragen, voortgangsverslagen, meldingen, verzoeken, jaarrekeningen en andere stukken die op grond van de Kaderregeling VWS-subsidies vereist zijn voor het verstrekken van subsidies, worden ingediend bij de Minister van Volksgezondheid, Welzijn en Sport.   
 
@@ -124,8 +124,8 @@ Gedeputeerde staten doen zo spoedig mogelijk schriftelijke mededeling aan de Min
 
 ### Artikel  16  
 
-1.  Gedeputeerde staten vragen de vaststelling van de uitkering aan door verantwoordingsinformatie aan de Ministers te verstrekken op de wijze bedoeld in [artikel 27 van het Besluit financiële verhouding 2001](../../../../../AMvB/besluit/financiële/verhouding/2001/BWBR0012216/README.md).   
-2.  [Artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten](../../../../../AMvB/besluit/begroting/en/verantwoording/provincies/en/gemeenten/BWBR0014606/README.md) is van overeenkomstige toepassing.  
+1.  Gedeputeerde staten vragen de vaststelling van de uitkering aan door verantwoordingsinformatie aan de Ministers te verstrekken op de wijze bedoeld in artikel 27 van het Besluit financiële verhouding 2001.   
+2.  Artikel 58a van het Besluit begroting en verantwoording provincies en gemeenten is van overeenkomstige toepassing.  
 
 ### Paragraaf  5  
 
@@ -145,10 +145,10 @@ De Ministers kunnen een of meer bepalingen van deze regeling buiten toepassing l
 
 ### Artikel  19  
 
-1.  De [Rijkssubsidieregeling jeugdzorg](../../../../../ministeriele-regeling/rijkssubsidieregeling/jeugdzorg/BWBR0017816/README.md) wordt ingetrokken.   
-2.  De [Rijkssubsidieregeling jeugdzorg](../../../../../ministeriele-regeling/rijkssubsidieregeling/jeugdzorg/BWBR0017816/README.md) blijft van toepassing op: 
+1.  De Rijkssubsidieregeling jeugdzorg wordt ingetrokken.   
+2.  De Rijkssubsidieregeling jeugdzorg blijft van toepassing op: 
 
-a. aanvragen van projectsubsidies op grond van de [Rijkssubsidieregeling jeugdzorg](../../../../../ministeriele-regeling/rijkssubsidieregeling/jeugdzorg/BWBR0017816/README.md) die vóór 1 juli 2011 zijn ontvangen ten behoeve van activiteiten die vóór 1 oktober 2011 aanvangen;  
+a. aanvragen van projectsubsidies op grond van de Rijkssubsidieregeling jeugdzorg die vóór 1 juli 2011 zijn ontvangen ten behoeve van activiteiten die vóór 1 oktober 2011 aanvangen;  
 
 b. subsidies en uitkeringen die voor de inwerkingtreding van deze regeling zijn verstrekt.    
 

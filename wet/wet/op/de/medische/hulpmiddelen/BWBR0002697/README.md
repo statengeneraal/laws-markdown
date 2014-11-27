@@ -126,6 +126,12 @@ Tegen een beschikking inzake goedkeuring kan een belanghebbende beroep instellen
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van de wet waarbij dit artikel in deze wet is ingevoegd, en vervolgens telkens na vier jaar aan de Staten-Generaal een verslag over de doeltreffendheid en doelmatigheid van het functioneren van de krachtens artikel 10 aangewezen instellingen.
 
+### Artikel  10g  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De kosten die samenhangen met de bij of krachtens deze wet door Onze Minister of door het op grond van artikel 8, tweede lid, aangewezen andere orgaan van de centrale overheid, dan wel ingevolge de krachtens artikel 3, eerste lid, vastgestelde regels, verrichte werkzaamheden en afgegeven documenten, kunnen ten laste worden gebracht van degene ten behoeve van wie deze werkzaamheden worden verricht of de documenten worden afgegeven.   
+2.  De bedragen ter vergoeding van de kosten worden bij ministeriële regeling vastgesteld.  
+
 ###Artikel 11 
 
 1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren van het Staatstoezicht op de volksgezondheid, alsmede andere ambtenaren met betrekking tot medische hulpmiddelen van een bij dat besluit aangewezen soort. 

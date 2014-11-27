@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om, mede in verband met [artikel 1 van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md), ter bevordering van de deelneming op gelijke voet aan het maatschappelijk leven bescherming te bieden tegen discriminatie op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat, dat het daarom wenselijk is behoudens wettelijke uitzonderingen onderscheid op deze gronden te verbieden en dat het in verband met de handhaving van dit verbod wenselijk is een Commissie gelijke behandeling in te stellen; 
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om, mede in verband met artikel 1 van de Grondwet, ter bevordering van de deelneming op gelijke voet aan het maatschappelijk leven bescherming te bieden tegen discriminatie op grond van godsdienst, levensovertuiging, politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat, dat het daarom wenselijk is behoudens wettelijke uitzonderingen onderscheid op deze gronden te verbieden en dat het in verband met de handhaving van dit verbod wenselijk is een Commissie gelijke behandeling in te stellen; 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:      
 ### Hoofdstuk  1  
 
@@ -71,9 +71,9 @@ b. het geestelijk ambt.
 
 Deze wet laat onverlet:  
 
-a. de [Wet gelijke behandeling van mannen en vrouwen](../../../../../../wet/wet/gelijke/behandeling/van/mannen/en/vrouwen/BWBR0003299/README.md);   
+a. de Wet gelijke behandeling van mannen en vrouwen;   
 
-b. de [artikelen 646](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [647](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [667](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [670 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
+b. de artikelen 646, 647, 667 en 670 van Boek 7 van het Burgerlijk Wetboek.   
 
 ###§ 3 
 
@@ -102,9 +102,11 @@ h.arbeidsomstandigheden.
 
 a. de vrijheid van een instelling op godsdienstige of levensbeschouwelijke grondslag om eisen te stellen, die gelet op het doel van de instelling, nodig zijn voor de vervulling van een functie, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;   
 
-b. de vrijheid van een instelling op politieke grondslag om eisen te stellen, die gelet op het doel van de instelling, nodig zijn voor de vervulling van een functie, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat en   
+b. de vrijheid van een instelling op politieke grondslag om eisen te stellen, die gelet op het doel van de instelling, nodig zijn voor de vervulling van een functie, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat;  
 
-c. de vrijheid van een instelling van bijzonder onderwijs om eisen te stellen over de vervulling van een functie, die, gelet op het doel van de instelling, nodig zijn voor de verwezenlijking van haar grondslag, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat.      
+c. de vrijheid van een instelling van bijzonder onderwijs om eisen te stellen over de vervulling van een functie, die, gelet op het doel van de instelling, nodig zijn voor de verwezenlijking van haar grondslag, waarbij deze eisen niet mogen leiden tot onderscheid op grond van het enkele feit van politieke gezindheid, ras, geslacht, nationaliteit, hetero- of homoseksuele gerichtheid of burgerlijke staat en  
+
+d. de vrijheid van gemeenten om onderscheid te maken op grond van godsdienst of levensovertuiging ten aanzien van een ambtenaar of buitengewoon ambtenaar van de burgerlijke stand die in de uitoefening van zijn ambt onderscheid maakt, tenzij het door hem gemaakte onderscheid is gebaseerd op een algemeen verbindend voorschrift.    
 3.  Het eerste lid is niet van toepassing indien: 
 
 a. de werkverhouding een privékarakter heeft,  
@@ -114,7 +116,7 @@ b. het verschil in behandeling berust op een kenmerk dat verband houdt met godsd
 c. dat kenmerk vanwege de aard van de betrokken specifieke beroepsactiviteit of de context waarin deze wordt uitgeoefend, een wezenlijk en bepalend beroepsvereiste vormt, mits het doel legitiem is en het vereiste evenredig is aan dat doel.     
 4.   Het eerste lid is niet van toepassing op eisen met betrekking tot de politieke gezindheid die in redelijkheid kunnen worden gesteld in verband met de vervulling van functies in bestuursorganen en adviesorganen.    
 5.   Het eerste lid is niet van toepassing op eisen met betrekking tot de politieke gezindheid die in redelijkheid kunnen worden gesteld in verband met de vervulling van vertrouwensfuncties.    
-6.  Het eerste lid, onderdeel e, is niet van toepassing op onderscheid op grond van burgerlijke staat met betrekking tot nabestaandenpensioen-voorzieningen en met betrekking tot aanspraken op pensioen die vóór de datum van inwerkingtreding van [artikel I, onderdeel B, van de wet van 21 december 2000, houdende wijziging van de Pensioen- en spaarfondsenwet en enige andere wetten in verband met het recht van keuze voor ouderdomspensioen in plaats van nabestaandenpensioen en gelijke behandeling van mannen en vrouwen](../../../../../../wet/wijzigingswet/pensioen-/en/spaarfondsenwet/(recht/van/keuze/voor/etc/BWBR0012090/README.md) (Stb. 625), zijn opgebouwd.  
+6.  Het eerste lid, onderdeel e, is niet van toepassing op onderscheid op grond van burgerlijke staat met betrekking tot nabestaandenpensioen-voorzieningen en met betrekking tot aanspraken op pensioen die vóór de datum van inwerkingtreding van artikel I, onderdeel B, van de wet van 21 december 2000, houdende wijziging van de Pensioen- en spaarfondsenwet en enige andere wetten in verband met het recht van keuze voor ouderdomspensioen in plaats van nabestaandenpensioen en gelijke behandeling van mannen en vrouwen (Stb. 625), zijn opgebouwd.  
 
 ### Artikel  6  
 
@@ -165,7 +167,7 @@ c. het verschil in behandeling door een legitiem doel wordt gerechtvaardigd en d
 ### Artikel  8  
 
 1.  Beëindiging van de arbeidsverhouding door de werkgever in strijd met artikel 5, wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op artikel 5 of terzake bijstand heeft verleend, is vernietigbaar.   
-2.  Onverminderd [hoofdstuk 8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste lid. Het beroep op de vernietigingsgrond geschiedt door kennisgeving aan de werkgever. [Artikel 55 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing.    
+2.  Onverminderd hoofdstuk 8 van de Algemene wet bestuursrecht, vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste lid. Het beroep op de vernietigingsgrond geschiedt door kennisgeving aan de werkgever. Artikel 55 van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.    
 3.  Een rechtsvordering in verband met de vernietiging verjaart door verloop van zes maanden na de dag waarop de arbeidsverhouding is geëindigd.   
 4. De beëindiging, bedoeld in het eerste lid, maakt de werkgever niet schadeplichtig.
 
@@ -181,7 +183,7 @@ Bedingen in strijd met deze wet zijn nietig.
 ### Artikel  10  
 
 1.  Indien degene die meent dat in zijn nadeel een onderscheid is of wordt gemaakt als bedoeld in deze wet, in rechte feiten aanvoert die dat onderscheid kunnen doen vermoeden, dient de wederpartij te bewijzen dat niet in strijd met deze wet is gehandeld.   
-2.  Het eerste lid is van overeenkomstige toepassing op vorderingen als bedoeld in [artikel 305a van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en op beroepen ingesteld in bestuursrechtelijke procedures door belanghebbenden in de zin van [artikel 1:2, derde lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+2.  Het eerste lid is van overeenkomstige toepassing op vorderingen als bedoeld in artikel 305a van Boek 3 van het Burgerlijk Wetboek en op beroepen ingesteld in bestuursrechtelijke procedures door belanghebbenden in de zin van artikel 1:2, derde lid, van de Algemene wet bestuursrecht.  
 
 ### Hoofdstuk  2  
 

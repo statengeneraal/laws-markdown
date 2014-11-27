@@ -79,7 +79,7 @@ c. voldaan wordt aan de voorwaarden, bedoeld in artikel 25 van Richtlijn 2005/94
 a. de eieren rechtstreeks worden vervoerd naar een inrichting als bedoeld in artikel 26, tweede lid, van Richtlijn 2005/94/EG, en  
 
 b. het vervoer geschiedt overeenkomstig een goedgekeurd hygiëneprotocol.     
-7.  In afwijking van het eerste lid, is het vervoer van eieren voorts toegestaan, indien het betreft het vervoer van consumptie-eieren van een inrichting als bedoeld in het vijfde lid al dan niet via distributiecentra naar verkooppunten en vanaf verkooppunten.   
+7.  In afwijking van het eerste lid, is het vervoer van eieren voorts toegestaan, indien het betreft het vervoer van consumptie-eieren van een inrichting als bedoeld in het zesde lid al dan niet via distributiecentra naar verkooppunten en vanaf verkooppunten.   
 8.  Het aanvoeren van gevogelte op een bedrijf en het afvoeren van gevogelte van een bedrijf is verboden.   
 9.  In afwijking van het achtste lid is de aanvoer en afvoer van gevogelte toegestaan, indien het vervoer van gevogelte op grond van het tweede tot en met vierde lid is toegestaan.  
 

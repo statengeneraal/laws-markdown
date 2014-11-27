@@ -3,18 +3,18 @@
 ##Regeling van de Minister voor Jeugd en Gezin en de Minister van Justitie van 19 december 2007, nr. DJB/JZ-2818138, houdende het aanwijzen van de categorie van gedragswetenschappers als bedoeld in hoofdstuk IVA van de Wet op de jeugdzorg (Regeling aanwijzing gedragswetenschappers gesloten jeugdzorg)
 
 De Minister voor Jeugd en Gezin en de Minister van Justitie,  
-Gelet op de [artikelen 29b, vijfde lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), [29c, vierde lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), [29s, eerste lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), [29t](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en [29v, vierde lid, van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+Gelet op de artikelen 29b, vijfde lid, 29c, vierde lid, 29s, eerste lid, 29t en 29v, vierde lid, van de Wet op de jeugdzorg;
 Besluiten:    
 
 ### Artikel  1  
 
-De in de [artikelen 29b, vijfde lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), [29c, vierde lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), [29s, eerste lid](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), en [29t van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) bedoelde categorieën van gedragswetenschappers zijn: 
+De in de artikelen 29b, vijfde lid, 29c, vierde lid, 29s, eerste lid, en 29t van de Wet op de jeugdzorg bedoelde categorieën van gedragswetenschappers zijn: 
 
-– de leden van het Nederlands Instituut voor Psychologen, die als klinisch psycholoog zijn ingeschreven in het register, bedoeld in [artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md), of het register Kinder- en Jeugdpsychologen en beschikken over de Basisaantekening Psychodiagnostiek van dit instituut;  
+– de leden van het Nederlands Instituut voor Psychologen, die als klinisch psycholoog zijn ingeschreven in het register, bedoeld in artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg, of het register Kinder- en Jeugdpsychologen en beschikken over de Basisaantekening Psychodiagnostiek van dit instituut;  
 
 – de leden van de Nederlandse Vereniging van Pedagogen en Onderwijskundigen, die zijn geregistreerd als Orthopedagoog-Generalist;  
 
-– degenen die als gezondheidszorgpsycholoog of psychotherapeut ingeschreven zijn in het register, bedoeld in [artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg](../../../../../../../wet/wet/op/de/beroepen/in/de/individuele/gezondheidszorg/BWBR0006251/README.md).   
+– degenen die als gezondheidszorgpsycholoog of psychotherapeut ingeschreven zijn in het register, bedoeld in artikel 3 van de Wet op de beroepen in de individuele gezondheidszorg.   
 
 ### Artikel  2  
 

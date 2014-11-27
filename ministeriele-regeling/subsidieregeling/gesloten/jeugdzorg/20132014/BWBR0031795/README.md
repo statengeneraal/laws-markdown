@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 10 juli 2012, houdende regels voor het tijdelijk subsidiëren van gesloten jeugdzorg en zorgtrajecten (Subsidieregeling gesloten jeugdzorg 2013/2014)
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel VII, zevende lid, van de Wet tot wijziging van de Wet op de jeugdzorg met betrekking tot jeugdzorg waarop aanspraak bestaat ingevolge de wet in gesloten setting (gesloten jeugdzorg)](../../../../../../wet/wijzigingswet/wet/op/de/jeugdzorg/enz./(gesloten/jeugdzorg)/BWBR0023166/README.md) en [artikel 39, tweede lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+Gelet op artikel VII, zevende lid, van de Wet tot wijziging van de Wet op de jeugdzorg met betrekking tot jeugdzorg waarop aanspraak bestaat ingevolge de wet in gesloten setting (gesloten jeugdzorg) en artikel 39, tweede lid, van de Wet op de jeugdzorg;
 Besluit:    
 
 ### Artikel  1  
@@ -14,7 +14,7 @@ In dit besluit wordt verstaan onder:
 
 –  *capaciteit:* vermogen tot het verlenen van gesloten jeugdzorg in een accommodatie, uitgedrukt in aantal voltijdsplaatsen op jaarbasis.  
 
-–  *gesloten jeugdzorg:* verblijf van een jeugdige in een accommodatie als bedoeld in [artikel 29k Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) en de gedurende dat verblijf aan die jeugdige verleende jeugdzorg;  
+–  *gesloten jeugdzorg:* verblijf van een jeugdige in een accommodatie als bedoeld in artikel 29k Wet op de jeugdzorg en de gedurende dat verblijf aan die jeugdige verleende jeugdzorg;  
 
 –  *minister:* de Minister van Volksgezondheid, Welzijn en Sport.  
 
@@ -22,13 +22,13 @@ In dit besluit wordt verstaan onder:
 
 ### Artikel  2  
 
-1.  De [artikelen 1](../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md) en [5 tot en met 70 van de Kaderregeling VWS-subsidies](../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md) zijn van toepassing op het verstrekken van subsidies op grond van deze regeling.   
+1.  De artikelen 1 en 5 tot en met 70 van de Kaderregeling VWS-subsidies zijn van toepassing op het verstrekken van subsidies op grond van deze regeling.   
 2.  Een subsidie op grond van deze regeling wordt slechts verstrekt voor zover de minister van oordeel is dat de verstrekking past in zijn beleid.  
 
 ### Artikel  3  
 
-1.  De minister kan ten behoeve van de jaren vanaf 2013 aan een aanbieder van gesloten jeugdzorg jaarlijks een instellingssubsidie als bedoeld in [artikel 8, onderdeel f, van de Kaderregeling VWS-subsidies](../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md) verstrekken ten behoeve van gesloten jeugdzorg en trajecten jeugdzorg.   
-2.  De instellingssubsidie wordt slechts verstrekt ten behoeve van jeugdigen ten aanzien van wie een machtiging als bedoeld in [artikel 29b, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) of een voorlopige machtiging als bedoeld in [artikel 29c, eerste lid, van de Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) 
+1.  De minister kan ten behoeve van de jaren vanaf 2013 aan een aanbieder van gesloten jeugdzorg jaarlijks een instellingssubsidie als bedoeld in artikel 8, onderdeel f, van de Kaderregeling VWS-subsidies verstrekken ten behoeve van gesloten jeugdzorg en trajecten jeugdzorg.   
+2.  De instellingssubsidie wordt slechts verstrekt ten behoeve van jeugdigen ten aanzien van wie een machtiging als bedoeld in artikel 29b, eerste lid, van de Wet op de jeugdzorg of een voorlopige machtiging als bedoeld in artikel 29c, eerste lid, van de Wet op de jeugdzorg 
 
 a. ten uitvoer wordt gelegd of  
 
@@ -64,7 +64,7 @@ De minister kan bij de verlening van de instellingssubsidie de verplichting ople
 ### Artikel  7  
 
 1.  De zorgaanbieder vergewist zich ervan dat de wijze waarop zorgverleners die zorg verlenen aan zijn cliënten, in het verleden hebben gefunctioneerd, niet in de weg staat aan het inzetten van de zorgverleners bij het verlenen van zorg.   
-2.  De zorgaanbieder is in het bezit van een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) voor de personen die voor hem opvoed- en opgroeiondersteuning verlenen en voor andere personen die in opdracht van hem beroepsmatig in contact kunnen komen met jeugdigen of ouders aan wie de aanbieder opvoed- en opgroeiondersteuning verleent, welke niet eerder dan drie maanden voor het tijdstip waarop betrokkene voor de zorgaanbieder ging werken, is afgegeven.  
+2.  De zorgaanbieder is in het bezit van een verklaring omtrent het gedrag als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens voor de personen die voor hem opvoed- en opgroeiondersteuning verlenen en voor andere personen die in opdracht van hem beroepsmatig in contact kunnen komen met jeugdigen of ouders aan wie de aanbieder opvoed- en opgroeiondersteuning verleent, welke niet eerder dan drie maanden voor het tijdstip waarop betrokkene voor de zorgaanbieder ging werken, is afgegeven.  
 
 ### Artikel  8  
 
@@ -81,7 +81,7 @@ b. het gerealiseerde gebruik van de capaciteitsplaatsen van de accommodatie waar
 c. het gerealiseerde aanbod van trajecten jeugdzorg waarvoor de instellingssubsidie is verleend;  
 
 d. het gerealiseerde gebruik van het aanbod van trajecten jeugdzorg waarvoor de instellingssubsidie is verleend.     
-2.  De opgave, bedoeld in het eerste lid, is voorzien van een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), overeenkomstig een door de minister vastgesteld modelassurancerapport.  
+2.  De opgave, bedoeld in het eerste lid, is voorzien van een assurancerapport van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, overeenkomstig een door de minister vastgesteld modelassurancerapport.  
 
 ### Artikel  10  
 
@@ -102,7 +102,7 @@ d. het gerealiseerde gebruik van het aanbod van trajecten jeugdzorg lager is dan
 
 ### Artikel  12  
 
-De egalisatiereserve die de ontvanger van de instellingssubsidie op grond van de [Tijdelijke subsidieregeling gesloten jeugdzorg 2009–2012](../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/gesloten/jeugdzorg/2009–2011/BWBR0025018/README.md) heeft opgebouwd, wordt toegevoegd aan de egalisatiereserve op grond van deze regeling. 
+De egalisatiereserve die de ontvanger van de instellingssubsidie op grond van de Tijdelijke subsidieregeling gesloten jeugdzorg 2009–2012 heeft opgebouwd, wordt toegevoegd aan de egalisatiereserve op grond van deze regeling. 
 
 ### Artikel  13  
 

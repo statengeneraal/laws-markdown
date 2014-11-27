@@ -4,12 +4,12 @@
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, mede namens de Staatssecretaris van Veiligheid en Justitie van 2 november 2012, kenmerk DWJZ-3137011;
 
-Gelet op [artikel 104, tweede lid, van de Wet op de jeugdzorg](../../../../../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+Gelet op artikel 104, tweede lid, van de Wet op de jeugdzorg;
 Hebben goedgevonden en verstaan:    
 
 ### Enig artikel  
 
-Het tijdstip bedoeld in [artikel 104, tweede lid, van de Wet op de jeugdzorg](../../../../../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) wordt vastgesteld op 1 januari 2013. 
+Het tijdstip bedoeld in artikel 104, tweede lid, van de Wet op de jeugdzorg wordt vastgesteld op 1 januari 2013. 
 Onze Minister van Volksgezondheid, Welzijn en Sport en Onze Minister van Veiligheid en Justitie zijn belast met de uitvoering van dit besluit, dat met de daarbij behorende nota van toelichting in de Staatscourant zal worden geplaatst.   
 
 Den Haag 

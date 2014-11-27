@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van Onze Minister voor Wonen en Rijksdienst van 14 november 2013, nr. 2013-0000690213, Directie Constitutionele Zaken en Wetgeving;
 
-Gelet op [artikel 1.11, vijfde lid, van de Wet maatregelen woningmarkt 2014 II](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md) en [artikel 89, eerste lid, van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md);
+Gelet op artikel 1.11, vijfde lid, van de Wet maatregelen woningmarkt 2014 II en artikel 89, eerste lid, van de Grondwet;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 9 december 2013, nr. W04.13.0408/I);
 
@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit en de daarop berustende bepalingen wordt onder wet verstaan: [Wet maatregelen woningmarkt 2014 II](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md). 
+In dit besluit en de daarop berustende bepalingen wordt onder wet verstaan: Wet maatregelen woningmarkt 2014 II. 
 
 ### Hoofdstuk  2  
 
@@ -26,7 +26,7 @@ In dit besluit en de daarop berustende bepalingen wordt onder wet verstaan: [Wet
 
 ### Artikel  2  
 
-1.  Onder grootschalige verbouw van huurwoningen als bedoeld in [artikel 1.11, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md) worden de volgende werkzaamheden of combinaties van werkzaamheden verstaan voor zover de investeringskosten voor die werkzaamheden of die combinaties per huurwoning meer bedragen dan € 37.500: 
+1.  Onder grootschalige verbouw van huurwoningen als bedoeld in artikel 1.11, eerste lid, onderdeel b, van de wet worden de volgende werkzaamheden of combinaties van werkzaamheden verstaan voor zover de investeringskosten voor die werkzaamheden of die combinaties per huurwoning meer bedragen dan € 37.500: 
 
 a. het herstel van funderingen;  
 
@@ -41,11 +41,11 @@ e. het aanbrengen van liftconstructies;
 f. een combinatie van de werkzaamheden, genoemd in de onderdelen a tot en met e, al dan niet in combinatie met de werkzaamheden, genoemd in artikel 3, eerste lid, onderdelen a tot en met o, of  
 
 g. werkzaamheden die noodzakelijkerwijs voortvloeien uit of samenhangen met de werkzaamheden of de combinatie van werkzaamheden, genoemd in de onderdelen a tot en met f.     
-2.  Onder grootschalige verbouw van huurwoningen als bedoeld in [artikel 1.11, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md) wordt tevens verstaan een combinatie van de werkzaamheden, genoemd in artikel 3, eerste lid, onderdelen a tot en met o, voor zover de investeringskosten van die combinatie per huurwoning meer bedragen dan € 45.000.  
+2.  Onder grootschalige verbouw van huurwoningen als bedoeld in artikel 1.11, eerste lid, onderdeel b, van de wet wordt tevens verstaan een combinatie van de werkzaamheden, genoemd in artikel 3, eerste lid, onderdelen a tot en met o, voor zover de investeringskosten van die combinatie per huurwoning meer bedragen dan € 45.000.  
 
 ### Artikel  3  
 
-1.  Onder kleinschalige verbouw van huurwoningen als bedoeld in [artikel 1.11, eerste lid, onderdeel e, van de wet](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md) worden de volgende werkzaamheden of combinaties van werkzaamheden verstaan voor zover de investeringskosten voor die werkzaamheden of die combinaties per huurwoning meer bedragen dan € 25.000, doch minder bedragen dan of gelijk zijn aan € 45.000: 
+1.  Onder kleinschalige verbouw van huurwoningen als bedoeld in artikel 1.11, eerste lid, onderdeel e, van de wet worden de volgende werkzaamheden of combinaties van werkzaamheden verstaan voor zover de investeringskosten voor die werkzaamheden of die combinaties per huurwoning meer bedragen dan € 25.000, doch minder bedragen dan of gelijk zijn aan € 45.000: 
 
 a. het opheffen van optrekkend of doorslaand vocht en van overmatig condensvocht inclusief zwambestrijding;  
 
@@ -76,7 +76,7 @@ m. het herstel van historische gevels;
 n. een combinatie van de werkzaamheden, genoemd in de onderdelen a tot en met m, of  
 
 o. werkzaamheden die noodzakelijkerwijs voortvloeien uit of samenhangen met de werkzaamheden of de combinatie van werkzaamheden, genoemd in de onderdelen a tot en met n.     
-2.  Onder kleinschalige verbouw van huurwoningen als bedoeld in [artikel 1.11, eerste lid, onderdeel e, van de wet](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md) wordt tevens verstaan de werkzaamheden of een combinatie van de werkzaamheden, genoemd in artikel 2, eerste lid, onderdelen a tot en met g, al dan niet in combinatie met de werkzaamheden, genoemd in het eerste lid, onderdelen a tot en met o, voor zover de investeringskosten voor die werkzaamheden of die combinaties per huurwoning minder bedragen dan of gelijk zijn aan € 37.500.  
+2.  Onder kleinschalige verbouw van huurwoningen als bedoeld in artikel 1.11, eerste lid, onderdeel e, van de wet wordt tevens verstaan de werkzaamheden of een combinatie van de werkzaamheden, genoemd in artikel 2, eerste lid, onderdelen a tot en met g, al dan niet in combinatie met de werkzaamheden, genoemd in het eerste lid, onderdelen a tot en met o, voor zover de investeringskosten voor die werkzaamheden of die combinaties per huurwoning minder bedragen dan of gelijk zijn aan € 37.500.  
 
 ### Hoofdstuk  3  
 
@@ -84,7 +84,7 @@ o. werkzaamheden die noodzakelijkerwijs voortvloeien uit of samenhangen met de w
 
 ### Artikel  4  
 
-De bedragen, genoemd in de [artikelen 1, eerste lid, onderdeel a](../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), en [10, tweede lid, eerste volzin, onderdelen a en b, van de Uitvoeringswet huurprijzen woonruimte](../../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), worden bij ministeriële regeling met ingang van 1 januari van elk jaar, voor het eerst op 1 januari 2014, gewijzigd met het percentage waarmee per 1 januari van het peiljaar het bedrag, genoemd in [artikel 18, eerste lid, onderdeel d, van de Wet op de huurtoeslag](../../../../../../wet/huursubsidiewet/BWBR0008659/README.md), is gewijzigd. 
+De bedragen, genoemd in de artikelen 1, eerste lid, onderdeel a, en 10, tweede lid, eerste volzin, onderdelen a en b, van de Uitvoeringswet huurprijzen woonruimte, worden bij ministeriële regeling met ingang van 1 januari van elk jaar, voor het eerst op 1 januari 2014, gewijzigd met het percentage waarmee per 1 januari van het peiljaar het bedrag, genoemd in artikel 18, eerste lid, onderdeel d, van de Wet op de huurtoeslag, is gewijzigd. 
 
 ### Hoofdstuk  4  
 

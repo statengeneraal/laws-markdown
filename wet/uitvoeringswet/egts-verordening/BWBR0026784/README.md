@@ -28,7 +28,7 @@ c.EGTS: Europese groepering voor territoriale samenwerking als bedoeld in artike
 
 ### Artikel  2  
 
-1.  Onze Minister besluit omtrent de instemming met de deelneming, bedoeld in artikel 4, derde lid, van de verordening. [Afdeling 10.2.1 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is niet van toepassing.   
+1.  Onze Minister besluit omtrent de instemming met de deelneming, bedoeld in artikel 4, derde lid, van de verordening. Afdeling 10.2.1 van de Algemene wet bestuursrecht is niet van toepassing.   
 2.  Onze Minister besluit omtrent de goedkeuring van de wijziging van de overeenkomst en de wezenlijke wijziging van de statuten, bedoeld in artikel 4, zesde lid, van de verordening.   
 3.  Een besluit als bedoeld in het eerste lid, 
 
@@ -43,8 +43,8 @@ b. wordt, in geval een publiekrechtelijke instelling als bedoeld in artikel 3, e
 
 ### Artikel  3  
 
-1.  Van een besluit tot de deelneming door de Staat aan een EGTS, wordt door Onze betrokken Minister aan de beide Kamers der Staten-Generaal mededeling gedaan. [Artikel 34, eerste tot en met derde lid, van de Comptabiliteitswet 2001](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) is van overeenkomstige toepassing. Indien een van beide Kamers binnen 30 dagen na de schriftelijke mededeling of binnen 14 dagen na het verstrekken van nadere inlichtingen, als haar oordeel uitspreekt dat het voorgenomen lidmaatschap van de EGTS niet wenselijk is, wordt afgezien van het lidmaatschap van de Staat.   
-2.  Op een besluit van gedeputeerde staten of het college van burgemeester en wethouders tot deelname van de provincie of de gemeente aan een EGTS is [artikel 158, tweede lid, van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md), onderscheidenlijk [artikel 160, tweede lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) van overeenkomstige toepassing.  
+1.  Van een besluit tot de deelneming door de Staat aan een EGTS, wordt door Onze betrokken Minister aan de beide Kamers der Staten-Generaal mededeling gedaan. Artikel 34, eerste tot en met derde lid, van de Comptabiliteitswet 2001 is van overeenkomstige toepassing. Indien een van beide Kamers binnen 30 dagen na de schriftelijke mededeling of binnen 14 dagen na het verstrekken van nadere inlichtingen, als haar oordeel uitspreekt dat het voorgenomen lidmaatschap van de EGTS niet wenselijk is, wordt afgezien van het lidmaatschap van de Staat.   
+2.  Op een besluit van gedeputeerde staten of het college van burgemeester en wethouders tot deelname van de provincie of de gemeente aan een EGTS is artikel 158, tweede lid, van de Provinciewet, onderscheidenlijk artikel 160, tweede lid, van de Gemeentewet van overeenkomstige toepassing.  
 
 ### Artikel  4  
 
@@ -78,10 +78,10 @@ c. de overeenkomst en de statuten inhoudelijk afwijken van het ontwerp dat is ge
 
 1.  Een orgaan van een EGTS is: 
 
-a. een bestuursorgaan als bedoeld in [artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+a. een bestuursorgaan als bedoeld in artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht;  
 
-b. een overheidsorgaan als bedoeld in [artikel 1, onderdeel b, van de Archiefwet 1995](../../../../wet/archiefwet/1995/BWBR0007376/README.md).     
-2.  Een EGTS is een openbare dienst in de zin van [artikel 1, tweede lid, van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md).  
+b. een overheidsorgaan als bedoeld in artikel 1, onderdeel b, van de Archiefwet 1995.     
+2.  Een EGTS is een openbare dienst in de zin van artikel 1, tweede lid, van de Ambtenarenwet.  
 
 ### Artikel  9  
 
@@ -110,8 +110,8 @@ b. de wijze van ontbinding, de vereffening bij ontbinding en de benoeming van ee
 
 ### Artikel  13  
 
-1.  De jaarrekening van de EGTS, waarin rekening en verantwoording wordt afgelegd van het financieel beheer en van de geleverde prestaties over het verstreken boekjaar, wordt ingericht zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
-2.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de EGTS aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De aangewezen accountant biedt Onze Minister desgevraagd inzicht in de controlewerkzaamheden.   
+1.  De jaarrekening van de EGTS, waarin rekening en verantwoording wordt afgelegd van het financieel beheer en van de geleverde prestaties over het verstreken boekjaar, wordt ingericht zoveel mogelijk met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk Wetboek.   
+2.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de EGTS aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. De aangewezen accountant biedt Onze Minister desgevraagd inzicht in de controlewerkzaamheden.   
 3.  De verklaring, bedoeld in het tweede lid, heeft mede betrekking op de rechtmatige inning en besteding van de middelen door een EGTS.   
 4.  De accountant voegt bij de verklaring, bedoeld in het tweede lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie van een EGTS voldoen aan eisen van doelmatigheid.  
 
@@ -136,7 +136,7 @@ a. in het geval, bedoeld in het eerste lid, onderdeel a, door de vereffenaar, in
 b. in het geval, bedoeld in het eerste lid, onderdeel b, door de griffier van het betrokken gerecht, en  
 
 c. in het geval, bedoeld in het eerste lid, onderdeel c, door de faillissementscurator.     
-4.  [Artikel 19, vierde tot en met zevende lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is van overeenkomstige toepassing in geval van de ontbinding van een EGTS.  
+4.  Artikel 19, vierde tot en met zevende lid, van Boek 2 van het Burgerlijk Wetboek is van overeenkomstige toepassing in geval van de ontbinding van een EGTS.  
 
 ### Hoofdstuk  4  
 

@@ -46,9 +46,9 @@ The States Parties to this Convention,Having recognized the desirability of dete
 
 The rules of this Convention shall not apply to:
 
-(a)claims for salvage, including, if applicable, any claim for special compensation under [article 14 of the International Convention on Salvage 1989](../../../../../../../../../../../verdrag/international/convention/on/salvage/1989/BWBV0002920/README.md), as amended, or contribution in general average;
+(a)claims for salvage, including, if applicable, any claim for special compensation under article 14 of the International Convention on Salvage 1989, as amended, or contribution in general average;
 
-(b)claims for oil pollution damage within the meaning of the [International Convention on Civil Liability for Oil Pollution Damage](../../../../../../../../../../../verdrag/international/convention/on/civil/liability/for/oil/pollution/damage/1992/etc/BWBV0004147/README.md), dated 29 November 1969 or of any amendment or Protocol thereto which is in force;
+(b)claims for oil pollution damage within the meaning of the International Convention on Civil Liability for Oil Pollution Damage, dated 29 November 1969 or of any amendment or Protocol thereto which is in force;
 
 (c)claims subject to any international convention or national legislation governing or prohibiting limitation of liability for nuclear damage;
 
@@ -104,7 +104,7 @@ for each ton in excess of 70,000 tons, 200 Units of Account.
 2. Where the amount calculated in accordance with paragraph 1 (a) is insufficient to pay the claims mentioned therein in full, the amount calculated in accordance with paragraph 1 (b) shall be available for payment of the unpaid balance of claims under paragraph 1 (a) and such unpaid balance shall rank rateably with claims mentioned under paragraph 1 (b).
 3. However, without prejudice to the right of claims for loss of life or personal injury according to paragraph 2, a State Party may provide in its national law that claims in respect of damage to harbour works, basins and waterways and aids to navigation shall have such priority over other claims under paragraph 1 (b) as is provided by that law.
 4. The limits of liability for any salvor not operating from any ship or for any salvor operating solely on the ship to, or in respect of which he is rendering salvage services, shall be calculated according to a tonnage of 1,500 tons.
-5. For the purpose of this Convention the ship's tonnage shall be the gross tonnage calculated in accordance with the tonnage measurement rules contained in [Annex 1 of the International Convention on Tonnage Measurement of Ships, 1969](../../../../../../../../../../../verdrag/internationaal/verdrag/betreffende/de/meting/van/schepen/1969/BWBV0003245/README.md).
+5. For the purpose of this Convention the ship's tonnage shall be the gross tonnage calculated in accordance with the tonnage measurement rules contained in Annex 1 of the International Convention on Tonnage Measurement of Ships, 1969.
 
 ### Article  7  
 
@@ -325,7 +325,7 @@ b) to exclude claims for damage within the meaning of the International Conventi
 (iv)any amendment adopted in conformity with Articles 20 or 21;
 
 (v)any communication called for by any Article of this Convention.
-3. Upon entry into force of this Convention, a certified true copy thereof shall be transmitted by the Secretary-General to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).
+3. Upon entry into force of this Convention, a certified true copy thereof shall be transmitted by the Secretary-General to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.
 
 ### Article  23  
 
@@ -379,9 +379,9 @@ f.vorderingen van een andere persoon dan de aansprakelijke persoon met betrekkin
 
 De regels van dit Verdrag zijn niet van toepassing op:
 
-a. vorderingen uit hoofde van hulpverlening, met inbegrip van, indien van toepassing, iedere vordering ter zake van bijzondere vergoeding zoals bedoeld in [artikel 14 van het Internationale Verdrag inzake hulpverlening, 1989](../../../../../../../../../../../verdrag/international/convention/on/salvage/1989/BWBV0002920/README.md), zoals gewijzigd, of wegens bijdrage in averij-grosse;  
+a. vorderingen uit hoofde van hulpverlening, met inbegrip van, indien van toepassing, iedere vordering ter zake van bijzondere vergoeding zoals bedoeld in artikel 14 van het Internationale Verdrag inzake hulpverlening, 1989, zoals gewijzigd, of wegens bijdrage in averij-grosse;  
 
-b.vorderingen ter zake van schade door verontreiniging door olie in de zin van het [Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie](../../../../../../../../../../../verdrag/international/convention/on/civil/liability/for/oil/pollution/damage/1992/etc/BWBV0004147/README.md) van 29 november 1969 of van enige wijziging van dat Verdrag of van een bij dat Verdrag behorend Protocol, welke van kracht is;
+b.vorderingen ter zake van schade door verontreiniging door olie in de zin van het Internationaal Verdrag inzake de wettelijke aansprakelijkheid voor schade door verontreiniging door olie van 29 november 1969 of van enige wijziging van dat Verdrag of van een bij dat Verdrag behorend Protocol, welke van kracht is;
 
 c.vorderingen, onderworpen aan een internationaal verdrag of nationale wetgeving, waardoor beperking van aansprakelijkheid voor kernschade geregeld of verboden wordt:
 
@@ -425,7 +425,7 @@ ii. voor een schip met een groter tonnage, het volgende bedrag geteld bij dat ge
 2. Wanneer het bedrag, berekend overeenkomstig het eerste lid, letter a, onvoldoende is voor de volledige betaling der daarin genoemde vorderingen, is het bedrag berekend overeenkomstig het eerste lid, letter b, beschikbaar voor betaling van het onbetaalde saldo van de in het eerste lid, letter a, genoemde vorderingen en dit onbetaalde saldo deelt naar evenredigheid mee met de in het eerste lid, letter b, genoemde vorderingen.
 3. Echter, onverminderd het recht van vorderingen ter zake van dood of letsel volgens het tweede lid, kan een Staat, die Partij is bij dit Verdrag, in zijn nationale wet bepalen dat vorderingen met betrekking tot beschadiging van kunstwerken van havens, van dokken, waterwegen en hulpmiddelen bij de navigatie, de voorrang hebben boven andere in het eerste lid, letter b, bedoelde vorderingen, die bij die wet is bepaald.
 4. De aansprakelijkheidsgrenzen voor een redder die geen werkzaamheden verricht vanaf een schip of voor een redder die uitsluitend werkzaamheden verricht aan boord van het schip, waaraan of met betrekking waartoe hij hulp verleent, worden berekend volgens een tonnage van 1500 ton.
-5. Voor de toepassing van dit Verdrag wordt onder tonnage van het schip verstaan de bruto-tonnage berekend overeenkomstig de voorschriften voor meting, vervat in [Bijlage I van het Internationaal Verdrag betreffende de meting van schepen, 1969](../../../../../../../../../../../verdrag/internationaal/verdrag/betreffende/de/meting/van/schepen/1969/BWBV0003245/README.md).
+5. Voor de toepassing van dit Verdrag wordt onder tonnage van het schip verstaan de bruto-tonnage berekend overeenkomstig de voorschriften voor meting, vervat in Bijlage I van het Internationaal Verdrag betreffende de meting van schepen, 1969.
 
 ### Artikel  7  
 
@@ -634,7 +634,7 @@ b.stelt alle Staten die dit Verdrag hebben ondertekend of daartoe zijn toegetred
 (iv)elke in overeenstemming met de artikelen 20 of 21 aangenomen wijziging;
 
 (v)elke mededeling, die krachtens enig artikel van dit Verdrag ereist is.
-3. Zodra dit Verdrag in werking is getreden wordt een voor eensluidend gewaarmerkt afschrift ervan door de Secretaris-Generaal toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).
+3. Zodra dit Verdrag in werking is getreden wordt een voor eensluidend gewaarmerkt afschrift ervan door de Secretaris-Generaal toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie overeenkomstig artikel 102 van het Handvest der Verenigde Naties.
 
 ### Artikel  23  
 

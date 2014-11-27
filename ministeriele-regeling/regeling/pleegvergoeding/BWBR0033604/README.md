@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie van 21 juni 2013, 124014-105221B-WJZ houdende regels ten aanzien van de pleegvergoeding (Regeling pleegvergoeding)
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie;  
-Gelet op [artikel 28c, eerste en tweede lid, van de Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+Gelet op artikel 28c, eerste en tweede lid, van de Wet op de jeugdzorg;
 Besluiten:    
 
 ### Artikel  1  
@@ -14,17 +14,17 @@ In deze regeling wordt verstaan onder:
 
 *pleegzorgaanbieder:* zorgaanbieder die pleegzorg biedt;  
 
-*wet:* [Wet op de jeugdzorg](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).   
+*wet:* Wet op de jeugdzorg.   
 
 ### Artikel  2  
 
-Het in [artikel 28c, eerste lid, van de wet](../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) bedoelde basisbedrag van de subsidie voor de verzorging en opvoeding van een pleegkind is het bedrag dat is opgenomen in de bijlage bij deze regeling. 
+Het in artikel 28c, eerste lid, van de wet bedoelde basisbedrag van de subsidie voor de verzorging en opvoeding van een pleegkind is het bedrag dat is opgenomen in de bijlage bij deze regeling. 
 
 ### Artikel  3  
 
 Het basisbedrag, bedoeld in artikel 2, wordt steeds vermeerderd met een door de pleegzorgaanbieder vast te stellen toeslag van ten hoogste het in de bijlage bij deze regeling opgenomen bedrag voor door de pleegouder ten behoeve van het pleegkind noodzakelijk gemaakte kosten, waarvan de pleegouder aantoont dat deze niet kunnen worden voldaan uit het basisbedrag en waarvoor geen uitkering op grond van een andere regeling kan worden verstrekt, indien: 
 
-a. het pleegkind aanspraak heeft op verblijf bij een pleegouder op grond van [artikel 14 van het Uitvoeringsbesluit Wet op de jeugdzorg](../../../../AMvB/uitvoeringsbesluit/wet/op/de/jeugdzorg/BWBR0017751/README.md) en de pleegouder in verband hiermee extra kosten moet maken;  
+a. het pleegkind aanspraak heeft op verblijf bij een pleegouder op grond van artikel 14 van het Uitvoeringsbesluit Wet op de jeugdzorg en de pleegouder in verband hiermee extra kosten moet maken;  
 
 b. de pleegouder aan drie of meer pleegkinderen verzorging en opvoeding biedt, vanaf het derde en volgende pleegkind;  
 
@@ -32,7 +32,7 @@ c. de pleegouder verzorging en opvoeding aan een pleegkind met een verstandelijk
 
 ### Artikel  3a  
 
-Aan de pleegouder die tevens belast is met voogdij als bedoeld in [boek 1 Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), wordt een door de pleegzorgaanbieder vast te stellen toeslag verleend ten behoeve van voor het pleegkind noodzakelijk te maken bijzondere kosten, waarvan de pleegouder aantoont dat deze niet kunnen worden voldaan uit het basisbedrag, bedoeld in artikel 2, dan wel uit de toeslagen, bedoeld in artikel 3, en waarvoor geen uitkering op grond van een andere regeling kan worden verstrekt. 
+Aan de pleegouder die tevens belast is met voogdij als bedoeld in boek 1 Burgerlijk Wetboek, wordt een door de pleegzorgaanbieder vast te stellen toeslag verleend ten behoeve van voor het pleegkind noodzakelijk te maken bijzondere kosten, waarvan de pleegouder aantoont dat deze niet kunnen worden voldaan uit het basisbedrag, bedoeld in artikel 2, dan wel uit de toeslagen, bedoeld in artikel 3, en waarvoor geen uitkering op grond van een andere regeling kan worden verstrekt. 
 
 ### Artikel  4  
 

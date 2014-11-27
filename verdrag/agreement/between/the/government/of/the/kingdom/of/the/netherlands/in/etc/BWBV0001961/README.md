@@ -2,9 +2,9 @@
 
 ##Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van de Verenigde Staten van Amerika inzake de uitwisseling van gegevens met betrekking tot belastingen
 
-####Agreement between the Government of the Kingdom of the Netherlands in respect of the Netherlands Antilles and the Government of the United States of America for the exchange of information with respect to taxes
+####Agreement between the Government of the Kingdom of the Netherlands in respect of Curaçao, Sint Maarten and the Caribbean part of the Netherlands and the Government of the United States of America for the exchange of information with respect to taxes
 
-The Government of the Kingdom of the Netherlands in respect of the Netherlands Antilles and the Government of the United States of America; Considering that it is more important than ever not to allow the institutions in either jurisdiction to be used to further illicit financial activity of any kind and recognizing the critical importance of sharing information with one another to prevent abuse of their respective fiscal laws; and Therefore, desiring to cooperate to prevent financial crimes and combat terrorism, including through sharing of information, and to conclude an Agreement for the exchange of information with respect to taxes (hereinafter referred to as the ``Agreement"); Have agreed as follows:    
+The Government of the Kingdom of the Netherlands in respect of Curaçao, Sint Maarten and the Caribbean part of the Netherlands and the Government of the United States of America; Considering that it is more important than ever not to allow the institutions in either jurisdiction to be used to further illicit financial activity of any kind and recognizing the critical importance of sharing information with one another to prevent abuse of their respective fiscal laws; and Therefore, desiring to cooperate to prevent financial crimes and combat terrorism, including through sharing of information, and to conclude an Agreement for the exchange of information with respect to taxes (hereinafter referred to as the ``Agreement"); Have agreed as follows:    
 
 ### Article  1  
 
@@ -12,7 +12,7 @@ The Government of the Kingdom of the Netherlands in respect of the Netherlands A
 
 1.   The Contracting States shall assist each other to assure the accurate assessment and collection of taxes, to prevent fiscal fraud and evasion, and to develop improved information sources for tax matters. The Contracting States shall provide assistance through exchange of information authorized pursuant to Article 4 and such related measures as may be agreed upon by the competent authorities pursuant to Article 5.   
 2.   Information shall be exchanged to fulfill the purpose of this Agreement without regard to whether the person to whom the information relates is, or whether the information is held by, a resident or national of a Contracting State, provided that the information is present within the territory, or in the possession or control of a person subject to the jurisdiction, of the requested State.   
-3.   As regards the Kingdom of the Netherlands, this Agreement shall apply only to the Netherlands Antilles.  
+3.   As regards the Kingdom of the Netherlands, this Agreement shall apply only to Curaçao, Sint Maarten and the Caribbean part of the Netherlands.  
 
 ### Article  2  
 
@@ -22,7 +22,7 @@ The Government of the Kingdom of the Netherlands in respect of the Netherlands A
 
 a) in the case of the United States of America, all federal taxes;  
 
-b) in the case of the Netherlands Antilles, the following taxes: the income tax (inkomstenbelasting), the wages tax (loonbelasting), the profit tax (winstbelasting) and the surtaxes on the income and profit taxes (hereinafter referred to as ``Netherlands Antilles taxes").     
+b) in the case of Curaçao, Sint Maarten and the Caribbean part of the Netherlands, the following taxes: the income tax (inkomstenbelasting), the wages tax (loonbelasting), the profit tax (winstbelasting) and the surtaxes on the income and profit taxes (hereinafter referred to as ``Netherlands Antilles taxes").     
 2.   This Agreement shall apply also to any identical or substantially similar taxes imposed after the date of signature of the Agreement in addition to or in place of the existing taxes. The competent authority of each Contracting State shall notify the other of changes in laws which may affect the obligations of that State pursuant to this Agreement.   
 3.   This Agreement shall not apply to the extent that an action or proceeding concerning taxes covered by this Agreement is barred by the applicant State's statute of limitations.   
 4.   This Agreement shall not apply to taxes imposed by states, municipalities or other political subdivisions, or possessions of a Contracting State.  
@@ -37,15 +37,21 @@ a) The term ``competent authority" means:
 
 (i) in the case of the United States of America, the Secretary of the Treasury or his delegate; and   
 
-(ii) in the case of the Netherlands Antilles, the Minister of Finance or his authorized representative;   
+(ii) in the case of “Curaçao, Sint Maarten and the Caribbean part of the Netherlands”, as the context requires, either: 
 
-b) The term ``Contracting State" means the United States or the Kingdom of the Netherlands in respect of the Netherlands Antilles as the context requires; 
+a.the Minister of Finance of Curaçao or his/her authorized representative; or
+
+b.the Minister of Finance of Sint Maarten or his/her authorized representative; or
+
+c.the Minister of Finance of the Netherlands or his/her authorized representative;  
+
+b) The term ``Contracting State" means the United States or the Kingdom of the Netherlands in respect of Curaçao, Sint Maarten and the Caribbean part of the Netherlands as the context requires; 
 
 c) The term ``national" means: 
 
 (i) in the case of the United States, any United States citizen and any legal person, partnership, corporation, trust, estate, association, or other entity deriving its status as such from the laws in force in the United States; and  
 
-(ii) in the case of the Netherlands Antilles, an individual who has Dutch nationality and who would be eligible to vote in the Netherlands Antilles if he were of age and present in the Netherlands Antilles, provided however, if an individual is not present in the Netherlands Antilles, he must have either been born in the Netherlands Antilles or have been resident thereof for at least five years;  
+(ii) in the case of Curaçao, Sint Maarten or the Caribbean part of the Netherlands, an individual who has Dutch nationality and who would be eligible to vote in Curaçao, Sint Maarten or the Caribbean part of the Netherlands if he were of age and present in Curaçao, Sint Maarten or the Caribbean part of the Netherlands, provided however, if an individual is not present in Curaçao, Sint Maarten or the Caribbean part of the Netherlands, he must have either been born in Curaçao, Sint Maarten or the Caribbean part of the Netherlands or have been resident thereof for at least five years;  
 
 d) The term ``person" includes an individual and a partnership, corporation, trust, estate, association or other legal entity; 
 
@@ -115,7 +121,7 @@ c) to supply information which would disclose any trade, business, industrial, c
 
 d) to supply information, the disclosure of which would be contrary to public policy;  
 
-e) to supply information requested by the applicant State to administer or enforce a provision of the tax law of the applicant State, or any requirement connected therewith, which discriminates against a national of the requested State. A provision of tax law, or connected requirement, will be considered to be discriminatory against a national of the requested State if it is more burdensome with respect to a national of the requested State than with respect to a national of the applicant State in the same circumstances. For purposes of the preceding sentence, a national of the applicant State who is subject to tax on worldwide income is not in the same circumstances as a national of the requested State who is not subject to tax on worldwide income. The provisions of this subparagraph shall not be construed so as to prevent the exchange of information with respect to the taxes imposed by the United States on branch profits or on the premium income of nonresident insurers or foreign insurance companies or on any similar such taxes imposed by the Netherlands Antilles in the future;  
+e) to supply information requested by the applicant State to administer or enforce a provision of the tax law of the applicant State, or any requirement connected therewith, which discriminates against a national of the requested State. A provision of tax law, or connected requirement, will be considered to be discriminatory against a national of the requested State if it is more burdensome with respect to a national of the requested State than with respect to a national of the applicant State in the same circumstances. For purposes of the preceding sentence, a national of the applicant State who is subject to tax on worldwide income is not in the same circumstances as a national of the requested State who is not subject to tax on worldwide income. The provisions of this subparagraph shall not be construed so as to prevent the exchange of information with respect to the taxes imposed by the United States on branch profits or on the premium income of nonresident insurers or foreign insurance companies or on any similar such taxes imposed by Curaçao, Sint Maarten and the Caribbean part of the Netherlands in the future;  
 
 f) notwithstanding subparagraphs a) through e) of this paragraph, the requested State shall have the authority to obtain and provide, through its competent authority, information held by financial institutions, nominees, or persons acting in agency or fiduciary capacity (not including information that would reveal confidential communications between a client and an attorney, solicitor or other legal representative where the client seeks legal advice), or information respecting ownership interests in a person.     
 5.   Except as provided in paragraph 4, the provisions of the preceding paragraphs shall be construed so as to impose on a Contracting State the obligation to use all legal means and its best efforts to execute a request. A Contracting State may, in its discretion, take measures to obtain and transmit to the other State information which, pursuant to paragraph 4, it has no obligation to transmit.   
@@ -154,11 +160,11 @@ This Agreement shall enter into force upon an exchange of notes between the Cont
 
 This Agreement shall remain in force until terminated by one of the Contracting States. Either Contracting State may terminate the Agreement at any time after the Agreement enters into force provided that at least three months prior notice of termination has been given through diplomatic channels.  
 
-DONE at Washington in duplicate, this 17th day of April, 2002.  *For the Government of the Kingdom of the Netherlands in respect of the Netherlands Antilles:*  (sd.) M. A. POURIER  *For the Government of the United States of America:*  (sd.) P. O'NEILL  
+DONE at Washington in duplicate, this 17th day of April, 2002.  *For the Government of the Kingdom of the Netherlands in respect of Curaçao, Sint Maarten and the Caribbean part of the Netherlands:*  (sd.) M. A. POURIER  *For the Government of the United States of America:*  (sd.) P. O'NEILL  
 
-####Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van de Verenigde Staten van Amerika inzake de uitwisseling van gegevens met betrekking tot belastingen
+####Verdrag tussen de Regering van het Koninkrijk der Nederlanden, ten behoeve van Curaçao, Sint Maarten en het Caribische deel van het Koninkrijk der Nederlanden, en de Regering van de Verenigde Staten van Amerika inzake de uitwisseling van gegevens met betrekking tot belastingen
 
-De Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse Antillen, en de Regering van de Verenigde Staten van Amerika; Overwegend dat het belangrijker is dan ooit niet toe te staan dat de instanties van beide rechtsstelsels worden gebruikt ter bevordering van illegale financiële activiteiten van welke aard dan ook en erkennend het cruciale belang van het met elkaar delen van gegevens teneinde misbruik van hun respectieve belastingwetgeving te voorkomen; en Verlangend, derhalve, samen te werken ter voorkoming van financiële delicten en bij de bestrijding van terrorisme, met name door middel van het delen van gegevens, en een Verdrag te sluiten voor de uitwisseling van gegevens met betrekking tot belastingen (hierna te noemen het „Verdrag"); Zijn het volgende overeengekomen:     
+De Regering van het Koninkrijk der Nederlanden, ten behoeve van Curaçao, Sint Maarten en het Caribische deel van het Koninkrijk der Nederlanden, en de Regering van de Verenigde Staten van Amerika; Overwegend dat het belangrijker is dan ooit niet toe te staan dat de instanties van beide rechtsstelsels worden gebruikt ter bevordering van illegale financiële activiteiten van welke aard dan ook en erkennend het cruciale belang van het met elkaar delen van gegevens teneinde misbruik van hun respectieve belastingwetgeving te voorkomen; en Verlangend, derhalve, samen te werken ter voorkoming van financiële delicten en bij de bestrijding van terrorisme, met name door middel van het delen van gegevens, en een Verdrag te sluiten voor de uitwisseling van gegevens met betrekking tot belastingen (hierna te noemen het „Verdrag"); Zijn het volgende overeengekomen:     
 
 ### Artikel  1  
 
@@ -166,7 +172,7 @@ De Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse A
 
 1.   De Verdragsluitende Staten zijn elkaar behulpzaam teneinde de juiste vaststelling en inning van belastingen te waarborgen, belastingfraude en het ontgaan van belasting te voorkomen, en betere informatiebronnen voor belastingaangelegenheden te ontwikkelen. De Verdragsluitende Staten verlenen elkaar bijstand door middel van de in artikel 4 voorziene uitwisseling van gegevens en de daarmee samenhangende maatregelen die de bevoegde autoriteiten ingevolge artikel 5 overeen kunnen komen.   
 2.   Gegevens worden ten behoeve van de uitvoering van dit Verdrag uitgewisseld ongeacht of de persoon op wie de gegevens betrekking heeft, of die de gegevens bezit, een inwoner of onderdaan van een Verdragsluitende Staat is, mits de gegevens zich binnen het grondgebied van de aangezochte Staat bevinden, of zich in het bezit of onder de macht bevinden van een persoon op wie zijn rechtsmacht van toepassing is.   
-3.   Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag alleen van toepassing op de Nederlandse Antillen.  
+3.   Wat het Koninkrijk der Nederlanden betreft, is dit Verdrag alleen van toepassing op Curaçao, Sint Maarten en het Caribische deel van het Koninkrijk der Nederlanden.  
 
 ### Artikel  2  
 
@@ -176,7 +182,7 @@ De Regering van het Koninkrijk der Nederlanden, ten behoeve van de Nederlandse A
 
 a. wat de Verenigde Staten van Amerika betreft, alle federale belastingen;  
 
-b. wat de Nederlandse Antillen betreft, de volgende belastingen: de inkomstenbelasting, de loonbelasting, de winstbelasting en de extra belasting op de inkomsten- en winstbelasting (hierna te noemen de „belasting van de Nederlandse Antillen").     
+b. wat Curaçao, Sint Maarten en het Caribische deel van het Koninkrijk der Nederlanden betreft, de volgende belastingen: de inkomstenbelasting, de loonbelasting, de winstbelasting en de extra belasting op de inkomsten- en winstbelasting (hierna te noemen de „belasting van Curaçao, Sint Maarten en het Caribische deel van het Koninkrijk der Nederlanden").     
 2.   Dit Verdrag is ook van toepassing op alle gelijke of in wezen gelijksoortige belastingen die na de datum van ondertekening van het Verdrag naast of in de plaats van de bestaande belastingen worden geheven. De bevoegde autoriteit van elke Verdragsluitende Staat geeft de ander kennis van wetswijzigingen die mogelijk gevolgen hebben voor de verplichtingen van die Staat uit hoofde van dit Verdrag.   
 3.   Dit Verdrag is niet van toepassing op maatregelen of procedures betreffende belastingen die in dit Verdrag worden geregeld voor zover deze worden verhinderd door de verjaringswetgeving van de verzoekende Staat.   
 4.   Dit Verdrag is niet van toepassing op belastingen die worden geheven door staten, gemeenten of andere lagere overheden of op bezittingen van een Verdragsluitende Staat.   
@@ -191,15 +197,21 @@ a. „bevoegde autoriteit”:
 
 i. wat betreft de Verenigde Staten van Amerika, de*Secretary of the Treasury of diens gevolmachtigde; en*   
 
-ii. wat betreft de Nederlandse Antillen, de Minister van Financiën of zijn bevoegde vertegenwoordiger;   
+ii. wat betreft „Curaçao, Sint Maarten en het Caribische deel van Nederland”, afhankelijk van de context, hetzij: 
 
-b. ”Verdragsluitende Staat”, de Verenigde Staten van Amerika of het Koninkrijk der Nederlanden ten aanzien van de Nederlandse Antillen, afhankelijk van de context; 
+a.de Minister van Financiën van Curaçao of zijn/haar bevoegde vertegenwoordiger; of
+
+b.de Minister van Financiën van Sint Maarten of zijn/haar bevoegde vertegenwoordiger; of
+
+c.de Minister van Financiën van Nederland of zijn/haar bevoegde vertegenwoordiger;  
+
+b. ”Verdragsluitende Staat”, de Verenigde Staten van Amerika of het Koninkrijk der Nederlanden ten aanzien van Curaçao, Sint Maarten en het Caribische deel van het Koninkrijk der Nederlanden, afhankelijk van de context; 
 
 c. ”onderdaan”, 
 
 i. wat de Verenigde Staten betreft, elke Amerikaanse burger en elke rechtspersoon, vennootschap, *corporation, trust, estate*, vereniging of andere entiteit die haar status als zodanig ontleent aan in de Verenigde Staten van kracht zijnde wetgeving; en  
 
-ii. wat de Nederlandse Antillen betreft, een natuurlijke persoon die de Nederlandse nationaliteit bezit en op de Nederlandse Antillen kiesgerechtigd is indien hij daarvoor de leeftijd heeft en op de Nederlandse Antillen aanwezig is, evenwel met dien verstande dat indien een natuurlijke persoon niet op de Nederlandse Antillen aanwezig is, hij op de Nederlandse Antillen moet zijn geboren dan wel ten minste vijf jaren ingezetene van de Nederlandse Antillen moet zijn geweest;  
+ii. wat Curaçao, Sint Maarten of het Caribische deel van het Koninkrijk der Nederlanden betreft, een natuurlijke persoon die de Nederlandse nationaliteit bezit en op Curaçao, Sint Maarten of het Caribische deel van het Koninkrijk der Nederlanden kiesgerechtigd is indien hij daarvoor de leeftijd heeft en op Curaçao, Sint Maarten of het Caribische deel van het Koninkrijk der Nederlanden aanwezig is, evenwel met dien verstande dat indien een natuurlijke persoon niet op Curaçao, Sint Maarten of het Caribische deel van het Koninkrijk der Nederlanden aanwezig is, hij op Curaçao, Sint Maarten of het Caribische deel van het Koninkrijk der Nederlanden moet zijn geboren dan wel ten minste vijf jaren ingezetene van Curaçao, Sint Maarten of het Caribische deel van het Koninkrijk der Nederlanden moet zijn geweest;  
 
 d. „persoon” omvat mede een natuurlijke persoon en een vennootschap,*corporation, trust, estate, vereniging of andere rechtspersoon;*  
 
@@ -269,7 +281,7 @@ c. gegevens te verstrekken waardoor een handelsgeheim, bedrijfsgeheim, industrie
 
 d. gegevens te verstrekken wanneer de onthulling daarvan strijdig zou zijn met het openbare beleid;  
 
-e. door de verzoekende Staat verlangde gegevens te verstrekken voor de uitvoering of handhaving van een bepaling van de belastingwet van de verzoekende Staat die, of een daarmee verband houdend vereiste dat discriminatie inhoudt van een onderdaan van de aangezochte Staat. Een bepaling van de belastingwet of een daarmee verband houdend vereiste, wordt geacht discriminerend te zijn tegenover een onderdaan van de aangezochte Staat indien deze of dit onder dezelfde omstandigheden belastender is ten aanzien van een onderdaan van de aangezochte Staat dan voor een onderdaan van de verzoekende Staat. Voor de toepassing van de voorgaande volzin bevindt een onderdaan van de verzoekende Staat die belastingplichtig is in verband met wereldwijd vergaard inkomen zich niet in dezelfde omstandigheden als een onderdaan van de aangezochte Staat die niet belastingplichtig is in verband met wereldwijd vergaard inkomen. De bepalingen van dit onderdeel mogen niet zodanig worden uitgelegd dat hierdoor de uitwisseling van gegevens wordt voorkomen met betrekking tot de door de Verenigde Staten geheven belasting op winsten uit vaste inrichtingen of op het premie-inkomen van verzekeraars die niet in de Verenigde Staten gevestigd zijn of buitenlandse verzekeringsmaatschappijen, of op enige soortgelijke belastingen die in de toekomst door de Nederlandse Antillen worden geheven;  
+e. door de verzoekende Staat verlangde gegevens te verstrekken voor de uitvoering of handhaving van een bepaling van de belastingwet van de verzoekende Staat die, of een daarmee verband houdend vereiste dat discriminatie inhoudt van een onderdaan van de aangezochte Staat. Een bepaling van de belastingwet of een daarmee verband houdend vereiste, wordt geacht discriminerend te zijn tegenover een onderdaan van de aangezochte Staat indien deze of dit onder dezelfde omstandigheden belastender is ten aanzien van een onderdaan van de aangezochte Staat dan voor een onderdaan van de verzoekende Staat. Voor de toepassing van de voorgaande volzin bevindt een onderdaan van de verzoekende Staat die belastingplichtig is in verband met wereldwijd vergaard inkomen zich niet in dezelfde omstandigheden als een onderdaan van de aangezochte Staat die niet belastingplichtig is in verband met wereldwijd vergaard inkomen. De bepalingen van dit onderdeel mogen niet zodanig worden uitgelegd dat hierdoor de uitwisseling van gegevens wordt voorkomen met betrekking tot de door de Verenigde Staten geheven belasting op winsten uit vaste inrichtingen of op het premie-inkomen van verzekeraars die niet in de Verenigde Staten gevestigd zijn of buitenlandse verzekeringsmaatschappijen, of op enige soortgelijke belastingen die in de toekomst door Curaçao, Sint Maarten en het Caribische deel van het Koninkrijk der Nederlanden worden geheven;  
 
 f. niettegenstaande de onderdelen a) tot en met e) van dit lid is de aangezochte Staat gerechtigd via zijn bevoegde autoriteit gegevens te verkrijgen en te verstrekken die berusten bij financiële instellingen, gevolmachtigden of personen die als vertegenwoordiger optreden of fiduciaire handelingen verrichten (niet omvattende gegevens waardoor vertrouwelijke communicatie zou worden onthuld tussen een cliënt en een advocaat of een andere juridische vertegenwoordiger wanneer de cliënt om juridisch advies vraagt), of gegevens met betrekking tot het eigen vermogen van een persoon.     
 5.   Behoudens het bepaalde in het vierde lid worden de bepalingen van de voorgaande leden zodanig uitgelegd dat op een Verdragsluitende Staat de verplichting rust een verzoek naar beste kunnen uit te voeren en hierbij alle wettige middelen te gebruiken. Een Verdragsluitende Staat kan, naar eigen goeddunken, maatregelen nemen ter verkrijging van en verzending naar de andere Staat van gegevens die hij ingevolge het vierde lid niet verplicht is te verzenden.   
@@ -308,5 +320,5 @@ Dit Verdrag treedt in werking na een notawisseling tussen de Verdragsluitende St
 
 Dit Verdrag blijft van kracht totdat het door een van de Verdragsluitende Staten wordt beëindigd. Elk van de Verdragsluitende Staten kan dit Verdrag op elk tijdstip nadat het in werking is getreden beëindigen mits ten minste drie maanden van tevoren langs diplomatieke weg een kennisgeving van beëindiging is gedaan. 
 
-GEDAAN te Washington, in tweevoud, 17 april 2002.  *Voor de Regering van het Koninkrijk der Nederlanden, ten aanzien van de Nederlandse Antillen:*  (w.g) M. A. POURIER  *Voor de Regering van de Verenigde Staten van Amerika:*  (w.g.) P. O'NEILL  
+GEDAAN te Washington, in tweevoud, 17 april 2002.  *Voor de Regering van het Koninkrijk der Nederlanden, ten aanzien van Curaçao, Sint Maarten en het Caribische deel van het Koninkrijk der Nederlanden:*  (w.g) M. A. POURIER  *Voor de Regering van de Verenigde Staten van Amerika:*  (w.g.) P. O'NEILL  
 

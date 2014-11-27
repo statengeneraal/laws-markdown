@@ -209,6 +209,10 @@ Na toepassing van het bepaalde in de artikelen 12 tot en met 15c, verlaagt de mi
 
 De waarde van alle toeslagrechten, bedoeld in artikel 40, tweede lid, van verordening 73/2009 wordt per 15 mei 2014 verlaagd met 11%. 
 
+### Artikel  15f  
+
+De minister verlaagt alle rechtstreekse betalingen met betrekking tot het kalenderjaar 2014, bedoeld in artikel 40, derde lid, van verordening 73/2009, met 1,5%. 
+
 ### Paragraaf  2  
 
 ####Nationale reserve

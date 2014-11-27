@@ -3,16 +3,16 @@
 ##Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 27 januari 2005, nr. DJB/JZ-2547051, houdende vaststelling van formulieren inzake melding aanvang en beëindiging jeugdzorg
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Minister van Justitie,
-Gelet op [artikel 12 van de Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+Gelet op artikel 12 van de Wet op de jeugdzorg;
 Besluiten:
 
 ###Artikel 1 
 
-Het formulier, bedoeld in [artikel 12 van de Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), waarbij mededeling wordt gedaan van de aanvang van jeugdzorg waarvoor een ouderbijdrage is verschuldigd aan het landelijk bureau inning onderhoudsbijdragen, wordt vastgesteld conform het model opgenomen in de bijlage 1.
+Het formulier, bedoeld in artikel 12 van de Wet op de jeugdzorg, waarbij mededeling wordt gedaan van de aanvang van jeugdzorg waarvoor een ouderbijdrage is verschuldigd aan het landelijk bureau inning onderhoudsbijdragen, wordt vastgesteld conform het model opgenomen in de bijlage 1.
 
 ###Artikel 2 
 
-Het formulier, bedoeld in [artikel 12 van de Wet op de jeugdzorg](../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), waarbij mededeling wordt gedaan van de beëindiging van jeugdzorg waarvoor een ouderbijdrage is verschuldigd aan het landelijk bureau inning onderhoudsbijdragen wordt vastgesteld conform het model opgenomen in de bijlage 2.
+Het formulier, bedoeld in artikel 12 van de Wet op de jeugdzorg, waarbij mededeling wordt gedaan van de beëindiging van jeugdzorg waarvoor een ouderbijdrage is verschuldigd aan het landelijk bureau inning onderhoudsbijdragen wordt vastgesteld conform het model opgenomen in de bijlage 2.
 
 ###Artikel 3 
 

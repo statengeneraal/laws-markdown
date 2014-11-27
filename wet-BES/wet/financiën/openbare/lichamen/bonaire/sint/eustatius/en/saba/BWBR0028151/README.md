@@ -55,7 +55,7 @@ c. een lid namens Nederland.
 6.  Een lid kan worden geschorst of ontslagen wegens ongeschiktheid voor de vervulde functie, dan wel wegens andere zwaarwegende in zijn persoon gelegen redenen, dan wel wegens het aanvaarden van een ambt, betrekking of functie als bedoeld in artikel 3, eerste en tweede lid.   
 7.  Schorsing en ontslag geschieden bij koninklijk besluit op voordracht van Onze Minister.   
 8.  Voorafgaande aan een ontslag of een schorsing wordt het College gehoord, tenzij de omstandigheden met betrekking tot het ontslag of de schorsing dat horen belemmeren.   
-9.  Onze Minister stelt de vaste vergoeding van de leden van het College vast. Hierbij wordt de toepasselijke salarisschaal van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren](../../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) en de toepasselijke deeltijdfactor aangegeven. De leden hebben voorts overeenkomstig het [Reisbesluit binnenland](../../../../../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) recht op vergoeding van reis- en verblijfskosten. Daarnaast hebben de leden op declaratiebasis recht op vergoeding van kosten van internationale telefoongesprekken die zij maken in het kader van de werkzaamheden voor het College.  
+9.  Onze Minister stelt de vaste vergoeding van de leden van het College vast. Hierbij wordt de toepasselijke salarisschaal van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren en de toepasselijke deeltijdfactor aangegeven. De leden hebben voorts overeenkomstig het Reisbesluit binnenland en het Reisbesluit buitenland recht op vergoeding van reis- en verblijfskosten. Daarnaast hebben de leden op declaratiebasis recht op vergoeding van kosten van internationale telefoongesprekken die zij maken in het kader van de werkzaamheden voor het College.  
 
 ### Artikel  3  
 
@@ -75,12 +75,12 @@ f. lid van de Raad van State;
 
 g. lid van de Algemene Rekenkamer;  
 
-h. Nationale ombudsman of substituut-ombudsman als bedoeld in [artikel 9, eerste lid, van de Wet Nationale ombudsman](../../../../../../../../../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md);  
+h. Nationale ombudsman of substituut-ombudsman als bedoeld in artikel 9, eerste lid, van de Wet Nationale ombudsman;  
 
 i. ambtenaar bij een ministerie, alsmede de daaronder ressorterende instellingen, diensten en bedrijven.     
 2.  Een lid vervult ook overigens geen andere betrekking of nevenfunctie die overigens ongewenst is met het oog op een goede vervulling van zijn functie of de handhaving van zijn onafhankelijkheid of van het vertrouwen daarin.   
 3.  Een lid meldt het voornemen tot het aanvaarden van een andere betrekking of nevenfunctie aan Onze Minister.   
-4.  Het College maakt de nevenfuncties van een lid openbaar. Openbaarmaking geschiedt bij zijn benoeming en voorts door jaarlijkse publicatie van een opgave van deze nevenfuncties in de Staatscourant en in de afkondigingbladen van de openbare lichamen, bedoeld in [artikel 142, tweede lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md).  
+4.  Het College maakt de nevenfuncties van een lid openbaar. Openbaarmaking geschiedt bij zijn benoeming en voorts door jaarlijkse publicatie van een opgave van deze nevenfuncties in de Staatscourant en in de afkondigingbladen van de openbare lichamen, bedoeld in artikel 142, tweede lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba.  
 
 ### Artikel  4  
 
@@ -102,7 +102,7 @@ c. het in opdracht van Onze Minister uitvoeren van taken in het kader van de uit
 3.  De voorzitter heeft de dagelijkse leiding en ziet toe op een doelmatige en voortvarende uitvoering van de taken van het College.   
 4.  Indien bij het nemen van besluiten door het College de stemmen staken, heeft de voorzitter de doorslaggevende stem.   
 5.  Voor het bestuursreglement alsmede elke wijziging daarvan is de goedkeuring van Onze Minister vereist. De goedkeuring kan slechts worden onthouden wegens strijd met het recht of op de grond dat het bestuursreglement een goede taakuitoefening kan belemmeren.   
-6.  Het bestuursreglement wordt na de goedkeuring bekendgemaakt in de Staatscourant en in de afkondigingsbladen, bedoeld in [artikel 142, tweede lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md).  
+6.  Het bestuursreglement wordt na de goedkeuring bekendgemaakt in de Staatscourant en in de afkondigingsbladen, bedoeld in artikel 142, tweede lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba.  
 
 ### Artikel  6  
 
@@ -325,7 +325,7 @@ Behoudens later in rechte gebleken onregelmatigheden ontlast de vaststelling van
 ### Artikel  31  
 
 1.  Het bestuurscollege zendt de vastgestelde jaarrekening en het jaarverslag, vergezeld van de overige in artikel 28 bedoelde stukken binnen twee weken na vaststelling, maar in ieder geval vóór 15 juli van het jaar, volgend op het begrotingsjaar, aan Onze Minister, door tussenkomst van het College financieel toezicht. Het bestuurscollege voegt daarbij, indien van toepassing, het besluit van de eilandsraad over een voorstel voor een indemniteitsbesluit met de reactie, bedoeld in artikel 29, derde lid.   
-2.  Het College financieel toezicht kan een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) onderzoek laten doen naar de rechtmatigheid en doelmatigheid van het gevoerde bestuur.   
+2.  Het College financieel toezicht kan een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek onderzoek laten doen naar de rechtmatigheid en doelmatigheid van het gevoerde bestuur.   
 3.  Indien uit de jaarrekening blijkt dat sprake is van een tekort op de gewone dienst of op de kapitaaldienst of van een overschrijding van de rentelastnorm, geeft het College financieel toezicht aan het bestuurscollege een advies voor wijziging van de begroting voor het lopende jaar en voor de begroting voor het komende jaar. Het bestuurscollege betrekt dit advies bij de eerstvolgende uitvoeringsrapportage, bedoeld in artikel 22.  
 
 ### Artikel  32  
@@ -405,7 +405,7 @@ c. dat het College financieel toezicht dagelijks afschriften ontvangt van de mut
 
 1.  De eilandsraad stelt bij eilandsverordening regels vast voor de controle op het financiële beheer en op de inrichting van de financiële organisatie. Deze eilandsverordening waarborgt dat de rechtmatigheid van het financiële beheer en van de inrichting van de financiële organisatie wordt getoetst.   
 2.  De eilandsverordening wordt na vaststelling gezonden aan het College financieel toezicht.   
-3.  De eilandsraad wijst een of meer accountants aan als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), belast met de controle van de in artikel 28 bedoelde jaarrekening en het daarbij verstrekken van een accountantsverklaring en het uitbrengen van een verslag van bevindingen.   
+3.  De eilandsraad wijst een of meer accountants aan als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, belast met de controle van de in artikel 28 bedoelde jaarrekening en het daarbij verstrekken van een accountantsverklaring en het uitbrengen van een verslag van bevindingen.   
 4.  De accountantsverklaring geeft op grond van de uitgevoerde controle aan of: 
 
 a. de jaarrekening een getrouw beeld geeft van zowel de baten en lasten als de grootte en samenstelling van het vermogen;  
@@ -423,12 +423,12 @@ b. onrechtmatigheden in de jaarrekening.
 8.  Accountants als bedoeld in het derde lid kunnen in dienst van het openbaar lichaam worden aangesteld en worden in dat geval door de eilandsraad benoemd, geschorst en ontslagen.   
 9.  Indien de eilandsraad op grond van het derde lid accountants heeft aangewezen die in dienst van het openbaar lichaam zijn aangesteld, is: 
 
-a. het bepaalde bij en krachtens de [artikelen 25](../../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [25a](../../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en [27 van de Wet toezicht accountantsorganisaties](../../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) van overeenkomstige toepassing op deze accountants;  
+a. het bepaalde bij en krachtens de artikelen 25, 25a en 27 van de Wet toezicht accountantsorganisaties van overeenkomstige toepassing op deze accountants;  
 
-b. het bepaalde bij en krachtens de [artikelen 14](../../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [18](../../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [19](../../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), [20](../../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en [21 van de Wet toezicht accountantsorganisaties](../../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) van overeenkomstige toepassing op het openbaar lichaam, en  
+b. het bepaalde bij en krachtens de artikelen 14, 18, 19, 20 en 21 van de Wet toezicht accountantsorganisaties van overeenkomstige toepassing op het openbaar lichaam, en  
 
-c. het bepaalde bij en krachtens de [artikelen 15](../../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) en [16 van de Wet toezicht accountantsorganisaties](../../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) van overeenkomstige toepassing op de personen die de dagelijkse leiding hebben over het onderdeel van het openbaar lichaam waarbij de in de aanhef bedoelde accountants werkzaam zijn.     
-10.  Indien een openbaar lichaam wordt aangewezen als organisatie van openbaar belang als bedoeld in [artikel 1, eerste lid, onderdeel h, van de Wet toezicht accountantsorganisaties](../../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md), zijn de [artikelen 22 tot en met 24 van die wet](../../../../../../../../../../../wet/wet/toezicht/accountantsorganisaties/BWBR0019468/README.md) van overeenkomstige toepassing op dit openbaar lichaam.   
+c. het bepaalde bij en krachtens de artikelen 15 en 16 van de Wet toezicht accountantsorganisaties van overeenkomstige toepassing op de personen die de dagelijkse leiding hebben over het onderdeel van het openbaar lichaam waarbij de in de aanhef bedoelde accountants werkzaam zijn.     
+10.  Indien een openbaar lichaam wordt aangewezen als organisatie van openbaar belang als bedoeld in artikel 1, eerste lid, onderdeel h, van de Wet toezicht accountantsorganisaties, zijn de artikelen 22 tot en met 24 van die wet van overeenkomstige toepassing op dit openbaar lichaam.   
 11.  De gezamenlijke rekenkamer is belast met het toezicht op de naleving van het negende lid.  
 
 ### Artikel  39  
@@ -468,11 +468,11 @@ Een belastingverordening vermeldt, in de daartoe leidende gevallen, de belasting
 
 a. onder de naam grondbelasting, een eilandbelasting van degenen die bij het begin van het kalenderjaar het genot hebben krachtens eigendom, bezit of beperkt recht van: 
 
-1°. onroerende zaken die als eigen woning worden aangemerkt als bedoeld in [artikel 4 van de Wet inkomstenbelasting BES](../../../../../../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) en die een in de aanhef bedoelde rechthebbende als hoofdverblijf ter beschikking staan;  
+1°. onroerende zaken die als eigen woning worden aangemerkt als bedoeld in artikel 4 van de Wet inkomstenbelasting BES en die een in de aanhef bedoelde rechthebbende als hoofdverblijf ter beschikking staan;  
 
-2°. onroerende zaken die tot het vermogen van een onderneming behoren waarmee die onderneming opbrengst als bedoeld in [artikel 6 van de Wet inkomstenbelasting BES](../../../../../../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) verkrijgt;    
+2°. onroerende zaken die tot het vermogen van een onderneming behoren waarmee die onderneming opbrengst als bedoeld in artikel 6 van de Wet inkomstenbelasting BES verkrijgt;    
 
-b. opcenten op de hoofdsom van de vastgoedbelasting, bedoeld in [artikel 4.1 van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).     
+b. opcenten op de hoofdsom van de vastgoedbelasting, bedoeld in artikel 4.1 van de Belastingwet BES.     
 2.  Voor de toepassing van het eerste lid, aanhef en onder a, wordt als genothebbende krachtens eigendom, bezit of beperkt recht aangemerkt degene die bij het begin van het kalenderjaar als zodanig in de kadastrale registratie is vermeld, tenzij blijkt dat op dat tijdstip een ander genothebbende krachtens eigendom, bezit of beperkt recht is.  
 
 ### Artikel  44  
@@ -622,11 +622,11 @@ b. een belasting ter zake van een vanwege het openbaar lichaam verleende vergunn
 
 ### Artikel  57  
 
-Onder de naam afvalstoffenheffing kan ter bestrijding van de kosten die voor het openbaar lichaam verbonden zijn aan het beheer van afvalstoffen een belasting worden geheven van degenen die, al dan niet krachtens een zakelijk of persoonlijk recht, feitelijk gebruik maken van een perceel ten aanzien waarvan krachtens [artikel 4.7, derde lid, onderdeel a, van de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES](../../../../../../../../../../../wet-BES/wet/volkshuisvesting/ruimtelijke/ordening/en/milieubeheer/bes/BWBR0031218/README.md) een verplichting geldt tot het inzamelen van afvalstoffen. 
+Onder de naam afvalstoffenheffing kan ter bestrijding van de kosten die voor het openbaar lichaam verbonden zijn aan het beheer van afvalstoffen een belasting worden geheven van degenen die, al dan niet krachtens een zakelijk of persoonlijk recht, feitelijk gebruik maken van een perceel ten aanzien waarvan krachtens artikel 4.7, derde lid, onderdeel a, van de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES een verplichting geldt tot het inzamelen van afvalstoffen. 
 
 ### Artikel  57a  
 
-Onder de naam rioolheffing kan ter bestrijding van de kosten die voor het openbaar lichaam verbonden zijn aan het beheer van afvalwater een belasting worden geheven van degenen die, al dan niet krachtens een zakelijk of persoonlijk recht, feitelijk gebruik maken van een perceel ten aanzien waarvan krachtens [artikel 4.25 van de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES](../../../../../../../../../../../wet-BES/wet/volkshuisvesting/ruimtelijke/ordening/en/milieubeheer/bes/BWBR0031218/README.md) een verplichting geldt tot het inzamelen van huishoudelijk afvalwater. 
+Onder de naam rioolheffing kan ter bestrijding van de kosten die voor het openbaar lichaam verbonden zijn aan het beheer van afvalwater een belasting worden geheven van degenen die, al dan niet krachtens een zakelijk of persoonlijk recht, feitelijk gebruik maken van een perceel ten aanzien waarvan krachtens artikel 4.25 van de Wet volkshuisvesting, ruimtelijke ordening en milieubeheer BES een verplichting geldt tot het inzamelen van huishoudelijk afvalwater. 
 
 ### Artikel  58  
 
@@ -648,7 +648,7 @@ Onder de naam havenbelasting kan een belasting worden geheven ter zake van degen
 
 a. het liggen of meren van vaartuigen in havens of aan kaden en terreinen, welke bij het openbaar lichaam in eigendom of in beheer en onderhoud zijn;  
 
-b. het ankeren in de territoriale wateren, bedoeld in de [Rijkswet uitbreiding territoriale zee van het Koninkrijk](../../../../../../../../../../../rijkswet/rijkswet/uitbreiding/territoriale/zee/van/het/koninkrijk/BWBR0003749/README.md) voor zover deze wateren grenzen aan het openbaar lichaam.   
+b. het ankeren in de territoriale wateren, bedoeld in de Rijkswet uitbreiding territoriale zee van het Koninkrijk voor zover deze wateren grenzen aan het openbaar lichaam.   
 
 ### Artikel  62  
 
@@ -682,8 +682,8 @@ In deze paragraaf wordt verstaan onder heffing op andere wijze: heffing op ander
 
 ### Artikel  67  
 
-1.  Onverminderd het overigens in deze paragraaf bepaalde geschieden de heffing en de invordering van eilandbelastingen, andere dan die bedoeld in artikel 43, eerste lid, onderdeel b, met toepassing van de [hoofdstukken I](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [VIII van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) als waren die belastingen BES belastingen.   
-2.  Onverminderd het overigens in deze paragraaf bepaalde gelden de bevoegdheden en de verplichtingen van de hierna vermelde, in de [Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) genoemde functionarissen, met betrekking tot de eilandbelastingen voor de daarachter genoemde colleges of functionarissen: 
+1.  Onverminderd het overigens in deze paragraaf bepaalde geschieden de heffing en de invordering van eilandbelastingen, andere dan die bedoeld in artikel 43, eerste lid, onderdeel b, met toepassing van de hoofdstukken I en VIII van de Belastingwet BES als waren die belastingen BES belastingen.   
+2.  Onverminderd het overigens in deze paragraaf bepaalde gelden de bevoegdheden en de verplichtingen van de hierna vermelde, in de Belastingwet BES genoemde functionarissen, met betrekking tot de eilandbelastingen voor de daarachter genoemde colleges of functionarissen: 
 
 a. Onze Minister van Financiën en de directeur: het bestuurscollege;  
 
@@ -694,12 +694,12 @@ c. de ontvanger of een inzake BES belastingen bevoegde ontvanger: de eilandambte
 d. de ambtenaren van de rijksbelastingdienst: de eilandambtenaren belast met de heffing of de invordering van eilandbelastingen;  
 
 e. de belastingdeurwaarder: de daartoe aangewezen eilandambtenaar.     
-3.  Onverminderd het overigens in deze paragraaf bepaalde wordt met betrekking tot eilandbelastingen in de [Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) voor «algemene maatregel van bestuur» en voor «ministeriële regeling» gelezen: besluit van het bestuurscollege.   
-4.  Onverminderd het overigens in deze paragraaf bepaalde wordt met betrekking tot eilandbelastingen in de [Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) onder «belastingwet» mede verstaan: een belastingverordening, bedoeld in artikel 40, en de daarop berustende bepalingen, alsmede andere algemeen verbindende voorschriften of besluiten van algemene strekking met betrekking tot de in paragraaf 1 bedoelde eilandbelastingen. 
+3.  Onverminderd het overigens in deze paragraaf bepaalde wordt met betrekking tot eilandbelastingen in de Belastingwet BES voor «algemene maatregel van bestuur» en voor «ministeriële regeling» gelezen: besluit van het bestuurscollege.   
+4.  Onverminderd het overigens in deze paragraaf bepaalde wordt met betrekking tot eilandbelastingen in de Belastingwet BES onder «belastingwet» mede verstaan: een belastingverordening, bedoeld in artikel 40, en de daarop berustende bepalingen, alsmede andere algemeen verbindende voorschriften of besluiten van algemene strekking met betrekking tot de in paragraaf 1 bedoelde eilandbelastingen. 
 
 ### Artikel  68  
 
-1.  Het bestuurscollege kan bepalen dat voor de toezending of uitreiking van aanslagbiljetten ingevolge [artikel 8.2, eerste lid, van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) voor de in artikel 67, tweede lid, onderdeel c, bedoelde ambtenaar een andere eilandambtenaar in de plaats treedt.   
+1.  Het bestuurscollege kan bepalen dat voor de toezending of uitreiking van aanslagbiljetten ingevolge artikel 8.2, eerste lid, van de Belastingwet BES voor de in artikel 67, tweede lid, onderdeel c, bedoelde ambtenaar een andere eilandambtenaar in de plaats treedt.   
 2.  De colleges van twee of meer openbare lichamen kunnen met betrekking tot een of meer eilandbelastingen bepalen dat ambtenaren van een van die openbare lichamen worden aangewezen als: 
 
 a. de in artikel 67, tweede lid, onderdeel b, bedoelde ambtenaar van die openbare lichamen voor de uitvoering van enige wettelijke bepaling betreffende de heffing van eilandbelastingen;  
@@ -719,7 +719,7 @@ b. de in artikel 67, tweede lid, onderdeel c, bedoelde ambtenaar van het openbaa
 c. de in artikel 67, tweede lid, onderdeel d, bedoelde ambtenaren van het openbaar lichaam dat de desbetreffende taken heeft overgedragen, voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van eilandbelastingen;  
 
 d. de in artikel 67, tweede lid, onderdeel e, bedoelde ambtenaar van het openbaar lichaam dat de desbetreffende taken heeft overgedragen, voor de uitvoering van enige wettelijke bepaling betreffende de invordering van eilandbelastingen.     
-5.  Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het openbaar lichaam dat is ingesteld op grond van de [Wet gemeenschappelijke regelingen](../../../../../../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) waarvan een ambtenaar op grond van het vierde lid, onderdeel b, wordt aangewezen.  
+5.  Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het openbaar lichaam dat is ingesteld op grond van de Wet gemeenschappelijke regelingen waarvan een ambtenaar op grond van het vierde lid, onderdeel b, wordt aangewezen.  
 
 ### Artikel  69  
 
@@ -728,7 +728,7 @@ Eilandbelastingen kunnen worden geheven bij wege van aanslag, bij wege van voldo
 ### Artikel  70  
 
 1.  Indien de eilandbelastingen op andere wijze worden geheven, bepaalt de belastingverordening op welke wijze deze worden geheven en de wijze waarop de belastingschuld aan de belastingplichtige wordt bekendgemaakt. De belastingverordening kan bepalen dat het bestuurscollege omtrent de uitvoering van een en ander nadere regels geeft.   
-2.  De op andere wijze geheven belastingen worden voor de toepassing van de [Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) aangemerkt als bij wege van aanslag geheven belastingen, met dien verstande dat wordt verstaan onder: 
+2.  De op andere wijze geheven belastingen worden voor de toepassing van de Belastingwet BES aangemerkt als bij wege van aanslag geheven belastingen, met dien verstande dat wordt verstaan onder: 
 
 a.  *de aanslag, de voorlopige aanslag en de navorderingsaanslag:* het gevorderde, het voorlopig gevorderde, onderscheidenlijk het nagevorderde bedrag;  
 
@@ -740,9 +740,9 @@ c.  *de dagtekening van het aanslagbiljet:* de dagtekening van de schriftelijke 
 
 1.  De belasting, bedoeld in artikel 56, eerste lid, onder a, wordt geheven bij wege van voldoening op aangifte dan wel op andere wijze.   
 2.  Als voldoening op aangifte wordt uitsluitend aangemerkt het bij de aanvang van het parkeren in werking stellen van een parkeermeter of een parkeerautomaat op de daartoe bestemde wijze en met inachtneming van de door het bestuurscollege gestelde voorschriften.   
-3.  In afwijking van [artikel 8.92, eerste lid, van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) kan geen bezwaarschrift worden ingediend inzake het bedrag dat overeenkomstig het tweede lid, onderdeel a, op aangifte is voldaan.   
+3.  In afwijking van artikel 8.92, eerste lid, van de Belastingwet BES kan geen bezwaarschrift worden ingediend inzake het bedrag dat overeenkomstig het tweede lid, onderdeel a, op aangifte is voldaan.   
 4.  Ingeval een naheffingsaanslag wordt opgelegd, wordt deze berekend over een parkeerduur van een uur, tenzij aannemelijk is dat het voertuig langer dan een uur zonder betaling geparkeerd heeft gestaan.   
-5.  De [artikelen 8.22, tweede en derde lid](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.23](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [8.26 van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) blijven buiten toepassing.   
+5.  De artikelen 8.22, tweede en derde lid, 8.23 en 8.26 van de Belastingwet BES blijven buiten toepassing.   
 6.  Ter zake van het opleggen van een naheffingsaanslag worden kosten in rekening gebracht. Deze kosten maken onderdeel uit van de naheffingsaanslag en worden afzonderlijk op het aanslagbiljet vermeld. Ten aanzien van hetzelfde voertuig worden per aaneengesloten periode de kosten niet vaker dan eenmaal per kalenderdag in rekening gebracht.   
 7.  Bij algemene maatregel van bestuur kunnen regels gesteld worden met betrekking tot de wijze van berekening en de maximale hoogte van de in het zesde lid bedoelde kosten. In de belastingverordening wordt het bedrag van de in rekening te brengen kosten bepaald.   
 8.  Indien het niet mogelijk is het aanslagbiljet terstond aan de belastingschuldige uit te reiken, kan worden volstaan met het aanbrengen van het aanslagbiljet op of aan het voertuig. Alsdan vermeldt het aanslagbiljet niet de naam van de belastingschuldige maar het kenteken van het voertuig. Bij gebreke van een kenteken vermeldt het aanslagbiljet een of meer gegevens die kenmerkend zijn voor het geparkeerde voertuig.   
@@ -771,24 +771,24 @@ c. in nader door Onze Minister te bepalen gevallen op de daarbij aangegeven wijz
 
 ### Artikel  73  
 
-1.  Bij de heffing en invordering van eilandbelastingen blijven de [artikelen 8.1](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.4, eerste en tweede lid](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.5, tweede lid](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.11, eerste, vierde en vijfde lid](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.43](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.55](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.77, tweede lid](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.79, tweede en derde lid](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.80, tweede tot en met vierde lid](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.81](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.83, tweede tot en met vijfde lid](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.86](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.87](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.91](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [8.120 tot en met 8.129 van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) buiten toepassing. Bij de heffing van eilandbelastingen die op andere wijze worden geheven, blijven bovendien de [artikelen 8.2, eerste lid](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.3](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.7, eerste lid](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), en [8.9 van die wet](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) buiten toepassing.   
-2.  Bij algemene maatregel van bestuur kunnen de kosten van vervolging worden bepaald als bedoeld in [artikel 8.39, tweede lid, van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).  
+1.  Bij de heffing en invordering van eilandbelastingen blijven de artikelen 8.1, 8.4, eerste en tweede lid, 8.5, tweede lid, 8.11, eerste, vierde en vijfde lid, 8.43, 8.55, 8.77, tweede lid, 8.79, tweede en derde lid, 8.80, tweede tot en met vierde lid, 8.81, 8.83, tweede tot en met vijfde lid, 8.86, 8.87, 8.91 en 8.120 tot en met 8.129 van de Belastingwet BES buiten toepassing. Bij de heffing van eilandbelastingen die op andere wijze worden geheven, blijven bovendien de artikelen 8.2, eerste lid, 8.3, 8.7, eerste lid, en 8.9 van die wet buiten toepassing.   
+2.  Bij algemene maatregel van bestuur kunnen de kosten van vervolging worden bepaald als bedoeld in artikel 8.39, tweede lid, van de Belastingwet BES.  
 
 ### Artikel  74  
 
 1.  Met betrekking tot de bij wege van aanslag en bij wege van voldoening op aangifte geheven eilandbelastingen moet het aangiftebiljet binnen een bij de belastingverordening gestelde termijn worden ingeleverd bij de eilandambtenaar, bedoeld in artikel 67, tweede lid, onderdeel b. De belastingverordening kan bepalen dat de in de vorige volzin bedoelde eilandambtenaar voor de termijn, genoemd in de belastingverordening, een kortere termijn in de plaats kan stellen.   
-2.  Als de belastingverordening geen regeling bevat omtrent het inleveren van het aangiftebiljet is [artikel 8.4](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) of [artikel 8.5 van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) onverkort van toepassing.   
-3.  Onverminderd [artikel 8.3, vijfde lid, van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), kan in afwijking van artikel 8.3, eerste en vierde lid, van de Belastingwet BES de in artikel 67, tweede lid, onderdeel b, bedoelde eilandambtenaar vorderen dat een verplichting tot het doen van aangifte of tot het indienen van een verzoek om uitreiking van een aangiftebiljet wordt nagekomen door het mondeling doen van aangifte. Daarbij: 
+2.  Als de belastingverordening geen regeling bevat omtrent het inleveren van het aangiftebiljet is artikel 8.4 of artikel 8.5 van de Belastingwet BES onverkort van toepassing.   
+3.  Onverminderd artikel 8.3, vijfde lid, van de Belastingwet BES, kan in afwijking van artikel 8.3, eerste en vierde lid, van de Belastingwet BES de in artikel 67, tweede lid, onderdeel b, bedoelde eilandambtenaar vorderen dat een verplichting tot het doen van aangifte of tot het indienen van een verzoek om uitreiking van een aangiftebiljet wordt nagekomen door het mondeling doen van aangifte. Daarbij: 
 
 a. worden de door de in artikel 67, tweede lid, onderdeel b, bedoelde eilandambtenaar gevraagde bescheiden overgelegd;  
 
 b. kan de in artikel 67, tweede lid, onderdeel b, bedoelde eilandambtenaar vorderen dat een van de mondelinge aangifte opgemaakt relaas door de aangever wordt ondertekend, bij gebreke waarvan de aangifte geacht wordt niet te zijn gedaan.     
-4.  Indien het derde lid toepassing vindt, kan de in artikel 67, tweede lid, onderdeel b, bedoelde eilandambtenaar voor de termijnen, bedoeld in het eerste lid, eerste volzin, en tweede lid, kortere termijnen in de plaats stellen en is [artikel 8.9 van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) niet van toepassing.  
+4.  Indien het derde lid toepassing vindt, kan de in artikel 67, tweede lid, onderdeel b, bedoelde eilandambtenaar voor de termijnen, bedoeld in het eerste lid, eerste volzin, en tweede lid, kortere termijnen in de plaats stellen en is artikel 8.9 van de Belastingwet BES niet van toepassing.  
 
 ### Artikel  75  
 
 1.  Met betrekking tot de bij wege van voldoening op aangifte geheven eilandbelastingen bepaalt de belastingverordening binnen welke termijn de verschuldigde belasting moet worden betaald.   
-2.  Voor zover de belastingverordening geen termijn noemt als bedoeld in het eerste lid is [artikel 8.11 van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) onverkort van toepassing.   
+2.  Voor zover de belastingverordening geen termijn noemt als bedoeld in het eerste lid is artikel 8.11 van de Belastingwet BES onverkort van toepassing.   
 3.  Bij toepassing van artikel 74, derde lid, kan de in artikel 67, tweede lid, onderdeel b, bedoelde eilandambtenaar voor de termijnen, bedoeld in het eerste en tweede lid, een kortere termijn in de plaats stellen.  
 
 ### Artikel  76  
@@ -814,33 +814,33 @@ Naast een in de belastingverordening voorziene vermindering, ontheffing of terug
 
 1.  Met betrekking tot eilandbelastingen kunnen bij algemene maatregel van bestuur: 
 
-a. regels worden gesteld waarbij de [artikelen 8.83, tweede tot en met vijfde lid](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.86](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.87](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), en [8.91 van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) geheel of gedeeltelijk van toepassing worden verklaard, dan wel  
+a. regels worden gesteld waarbij de artikelen 8.83, tweede tot en met vijfde lid, 8.86, 8.87, en 8.91 van de Belastingwet BES geheel of gedeeltelijk van toepassing worden verklaard, dan wel  
 
 b. regels worden gesteld die overeenkomen met die in de in onderdeel a genoemde artikelen.     
 2.  De in het eerste lid bedoelde regels bevatten in elk geval een omschrijving van degene op wie de verplichting rust, alsmede van de eilandbelasting ten behoeve waarvan de verplichting geldt. Voorts vermelden deze regels naar gelang de aard van de verplichting een omschrijving van de aard van de te verstrekken gegevens en inlichtingen, van de aard van de gegevens welke uit de administratie dienen te blijken of van het doel waarvoor het voor raadpleging beschikbaar stellen van gegevensdragers kan geschieden.  
 
 ### Artikel  81  
 
-1.  De belastingverordening bepaalt binnen welke termijnen een belastingaanslag invorderbaar is. Voor zover de belastingverordening geen termijnen noemt als bedoeld in de vorige volzin is [artikel 8.43 van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) van toepassing.   
+1.  De belastingverordening bepaalt binnen welke termijnen een belastingaanslag invorderbaar is. Voor zover de belastingverordening geen termijnen noemt als bedoeld in de vorige volzin is artikel 8.43 van de Belastingwet BES van toepassing.   
 2.  Bij toepassing van artikel 74, derde lid, kan de in artikel 67, tweede lid, onderdeel b, bedoelde eilandambtenaar voor de termijnen, bedoeld in het eerste en tweede lid, een kortere termijn in de plaats stellen.  
 3.  De belastingverordening kan bepalen dat het verschuldigde bedrag moet worden betaald gelijktijdig met en op dezelfde wijze als de voldoening van een andere vordering aan de schuldeiser van die andere vordering.   
 4.  Het eerste tot en met derde lid vinden overeenkomstige toepassing ingeval de belasting op andere wijze wordt geheven.  
 
 ### Artikel  82  
 
-De verrekening van aan de belastingschuldige uit te betalen en van hem te innen bedragen ter zake van eilandbelastingen op de voet van [artikel 8.59 van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) is ook mogelijk indien de in [artikel 8.43 van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) gestelde termijn, dan wel de krachtens artikel 81, eerste lid, gestelde termijn nog niet is verstreken. 
+De verrekening van aan de belastingschuldige uit te betalen en van hem te innen bedragen ter zake van eilandbelastingen op de voet van artikel 8.59 van de Belastingwet BES is ook mogelijk indien de in artikel 8.43 van de Belastingwet BES gestelde termijn, dan wel de krachtens artikel 81, eerste lid, gestelde termijn nog niet is verstreken. 
 
 ### Artikel  83  
 
 1.  Indien ter zake van hetzelfde voorwerp van de belasting of hetzelfde belastbare feit twee of meer personen belastingplichtig zijn, kan de belastingaanslag ten name van een van hen worden gesteld.   
 2.  Indien de belastingplicht, bedoeld in het eerste lid, voortvloeit uit het genot van een onroerende zaak krachtens eigendom, bezit of beperkt recht en de aanslag ten name van één van de belastingplichtigen is gesteld, kan de met de invordering van eilandbelastingen belaste eilandambtenaar de belastingaanslag op de gehele onroerende zaak verhalen ten name van degene te wiens name de aanslag is gesteld, zonder rekening te houden met de rechten van de overige belastingplichtigen.   
 3.  De belastingschuldige die de belastingaanslag heeft voldaan kan hetgeen hij meer heeft voldaan dan overeenkomt met zijn belastingplicht verhalen op de overige belastingplichtigen naar evenredigheid van ieders belastingplicht.   
-4.  Tegen een met toepassing van het eerste lid vastgestelde belastingaanslag kan mede bezwaar en beroep als bedoeld in [titel 8 van hoofdstuk VIII van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) worden ingesteld door de belastingplichtige wiens naam niet op het aanslagbiljet staat vermeld.   
+4.  Tegen een met toepassing van het eerste lid vastgestelde belastingaanslag kan mede bezwaar en beroep als bedoeld in titel 8 van hoofdstuk VIII van de Belastingwet BES worden ingesteld door de belastingplichtige wiens naam niet op het aanslagbiljet staat vermeld.   
 5.  Van het derde lid kan bij overeenkomst worden afgeweken.  
 
 ### Artikel  84  
 
-1.  De in [artikel 8.58 van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) bedoelde kwijtschelding wordt met betrekking tot eilandbelastingen verleend door de in artikel 67, tweede lid, onderdeel c, bedoelde eilandambtenaar.   
+1.  De in artikel 8.58 van de Belastingwet BES bedoelde kwijtschelding wordt met betrekking tot eilandbelastingen verleend door de in artikel 67, tweede lid, onderdeel c, bedoelde eilandambtenaar.   
 2.  De eilandsraad kan bepalen dat in het geheel geen dan wel gedeeltelijke kwijtschelding wordt verleend.   
 3.  Het bestuurscollege kan de belasting geheel of gedeeltelijk oninbaar verklaren. Het daartoe strekkende besluit ontheft de eilandambtenaar belast met de invordering van eilandbelastingen van de verplichting verder pogingen tot invordering te doen.  
 
@@ -873,10 +873,10 @@ Bij of krachtens algemene maatregel van bestuur kunnen inzake alle eilandbelasti
 ### Artikel  88  
 
 1.  Er is een BES-fonds.   
-2.  Het fonds is een begrotingsfonds als bedoeld in [artikel 9, eerste lid, van de Comptabiliteitswet 2001](../../../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
+2.  Het fonds is een begrotingsfonds als bedoeld in artikel 9, eerste lid, van de Comptabiliteitswet 2001.   
 3.  Bij de begrotingswet van het het fonds wordt ten aanzien van ieder uitkeringsjaar een bedrag aan middelen van het Rijk ten behoeve van het fonds afgezonderd, dat als ontvangst in de begroting wordt opgenomen.   
 4.  De begroting van het fonds vermeldt het bedrag voor het totaal aan uitkeringen als bedoeld in het zesde en het achtste lid aan de openbare lichamen gezamenlijk.   
-5.  In afwijking van [artikel 2, derde lid, van de Comptabiliteitswet 2001](../../../../../../../../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md) bevat de begroting van het fonds de ramingen van de uitgaven en de ontvangsten.   
+5.  In afwijking van artikel 2, derde lid, van de Comptabiliteitswet 2001 bevat de begroting van het fonds de ramingen van de uitgaven en de ontvangsten.   
 6.  Een openbaar lichaam heeft over het uitkeringsjaar recht op een vrije uitkering ten laste van het BES-fonds in de vorm van een vast bedrag.  
 7. De vrije uitkering komt ten goede aan de algemene middelen van het openbaar lichaam. 
 8.  Uit het BES-fonds kunnen uitkeringen aan een of meer openbare lichamen worden verstrekt op een andere wijze dan door middel van een vrije uitkering als bedoeld in het zesde lid.   
@@ -923,7 +923,7 @@ d. in incidentele gevallen, mits de uitkering voor ten hoogste vier jaren wordt 
 
 ### Artikel  93  
 
-[Artikel 214 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md) is niet van toepassing op de regeling van de informatievoorziening ten aanzien van een bijzondere uitkering als bedoeld in artikel 92, derde en vijfde lid. 
+Artikel 214 van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba is niet van toepassing op de regeling van de informatievoorziening ten aanzien van een bijzondere uitkering als bedoeld in artikel 92, derde en vijfde lid. 
 
 ### Artikel  94  
 
@@ -969,11 +969,11 @@ Wijzigt de Gemeentewet.
 
 1.  De regels voor de inrichting van de begroting, de begrotingswijzigingen, de jaarrekening en het jaarverslag, gesteld in en krachtens artikel 13, worden voor het eerst toegepast voor het begrotingsjaar 2012.   
 2.  Op de inrichting van de begroting, de begrotingswijzigingen, de jaarrekening en het jaarverslag voor de begrotingsjaren tot en met 2011 blijven de regels van toepassing zoals die golden op de dag voor de inwerkingtreding van hoofdstuk III van deze wet.   
-3.  Op besluiten die op grond van het [Besluit tijdelijk financieel toezicht BES](../../../../../../../../../../../rijksKB/besluit/tijdelijk/financieel/toezicht/bes/BWBR0022921/README.md) ter beoordeling zijn voorgelegd aan het College financieel toezicht, maar waarover het College bij de inwerkingtreding van hoofdstuk III van deze wet nog geen beslissing heeft meegedeeld, zijn de regels van deze wet van toepassing. Voor zover daarbij termijnen gelden waarbinnen een beslissing moet zijn genomen of meegedeeld beginnen die termijnen te lopen op de datum van inwerkingtreding van deze wet.  
+3.  Op besluiten die op grond van het Besluit tijdelijk financieel toezicht BES ter beoordeling zijn voorgelegd aan het College financieel toezicht, maar waarover het College bij de inwerkingtreding van hoofdstuk III van deze wet nog geen beslissing heeft meegedeeld, zijn de regels van deze wet van toepassing. Voor zover daarbij termijnen gelden waarbinnen een beslissing moet zijn genomen of meegedeeld beginnen die termijnen te lopen op de datum van inwerkingtreding van deze wet.  
 
 ### Artikel  100  
 
-Na de inwerkingtreding van hoofdstuk III van deze wet berust de [Regeling rekening-courant en leningenbeheer](../../../../../../../../../../../ministeriele-regeling/regeling/rekening-courant-/en/leningenbeheer/derden/BWBR0021734/README.md) mede op artikel 37, vijfde lid, van deze wet. 
+Na de inwerkingtreding van hoofdstuk III van deze wet berust de Regeling rekening-courant en leningenbeheer mede op artikel 37, vijfde lid, van deze wet. 
 
 ### Artikel  101  
 
@@ -983,7 +983,7 @@ Het door het bestuurscollege van een eilandgebied voor het tijdstip van transiti
 
 In de artikelen 101b tot en met 101g wordt verstaan onder 
 
-a.  *tijdstip van transitie:* het tijdstip waarop [artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen](../../../../../../../../../../../rijkswet/rijkswet/wijziging/statuut/in/verband/met/de/opheffing/van/de/nederlandse/etc/BWBR0028249/README.md) in werking treedt;  
+a.  *tijdstip van transitie:* het tijdstip waarop artikel I, tweede lid, van de Rijkswet wijziging Statuut in verband met de opheffing van de Nederlandse Antillen in werking treedt;  
 
 b.  *tijdstip van inwerkingtreding:* het tijdstip waarop hoofdstuk IV van deze wet in werking treedt;  
 
@@ -1059,8 +1059,8 @@ De bepalingen van de verordeningen, bedoeld in artikel 101b, blijven van toepass
 
 ### Artikel  101f  
 
-1.  In afwijking in zoverre van hetgeen daarover wordt bepaald in de verordeningen, genoemd in artikel 101b, treedt de Raad van Beroep voor belastingzaken, bedoeld in [Hoofdstuk VIII van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), op het tijdstip van transitie in de plaats van de Raad van Beroep voor Belastingzaken, bedoeld in de Landsverordening op het beroep in belastingzaken 1940.   
-2.  Indien het tijdstip van transitie is gelegen voor het tijdstip van inwerkingtreding van [titel 8 van hoofdstuk VIII van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) wordt gedurende de overgangsperiode in het eerste lid voor «bedoeld in [Hoofdstuk VIII van de Belastingwet BES](../../../../../../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md)» gelezen: bedoeld in [paragraaf 2b van de Wet geldstelsel BES](../../../../../../../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md).  
+1.  In afwijking in zoverre van hetgeen daarover wordt bepaald in de verordeningen, genoemd in artikel 101b, treedt de Raad van Beroep voor belastingzaken, bedoeld in Hoofdstuk VIII van de Belastingwet BES, op het tijdstip van transitie in de plaats van de Raad van Beroep voor Belastingzaken, bedoeld in de Landsverordening op het beroep in belastingzaken 1940.   
+2.  Indien het tijdstip van transitie is gelegen voor het tijdstip van inwerkingtreding van titel 8 van hoofdstuk VIII van de Belastingwet BES wordt gedurende de overgangsperiode in het eerste lid voor «bedoeld in Hoofdstuk VIII van de Belastingwet BES» gelezen: bedoeld in paragraaf 2b van de Wet geldstelsel BES.  
 
 ### Artikel  101g  
 
@@ -1072,7 +1072,7 @@ Onze Minister zendt binnen zes jaar na het tijdstip van transitie aan de beide k
 
 ### Artikel  103  
 
-Indien het [Besluit tijdelijk financieel toezicht BES](../../../../../../../../../../../rijksKB/besluit/tijdelijk/financieel/toezicht/bes/BWBR0022921/README.md) is vervallen blijft het van toepassing voor de begrotingsjaren waarvoor het heeft gegolden. 
+Indien het Besluit tijdelijk financieel toezicht BES is vervallen blijft het van toepassing voor de begrotingsjaren waarvoor het heeft gegolden. 
 
 ### Artikel  104  
 

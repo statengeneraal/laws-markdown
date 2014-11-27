@@ -3,12 +3,12 @@
 ##Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie van 25 juni 2013, 124739-105365-J, houdende de aanwijzing van een vervoerder in de gesloten jeugdzorg als bedoeld in de Wet op de jeugdzorg (Besluit aanwijzing vervoerder in de gesloten jeugdzorg)
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Veiligheid en Justitie;  
-Gelet op [artikel 29ta, derde lid, van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+Gelet op artikel 29ta, derde lid, van de Wet op de jeugdzorg;
 Besluiten:    
 
 ### Artikel  1  
 
-De Dienst Vervoer en Ondersteuning, onderdeel van de Dienst Justitiële Inrichtingen van het Ministerie van Veiligheid en Justitie, wordt aangewezen als vervoerder als bedoeld in [artikel 29ta, eerste lid, van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md). 
+De Dienst Vervoer en Ondersteuning, onderdeel van de Dienst Justitiële Inrichtingen van het Ministerie van Veiligheid en Justitie, wordt aangewezen als vervoerder als bedoeld in artikel 29ta, eerste lid, van de Wet op de jeugdzorg. 
 
 ### Artikel  2  
 

@@ -203,7 +203,12 @@ d. datum en tijdstip van aankomst en vertrek van de bezoeker.
 ####Verbod jagen en doden van wild
 
 1.  In afwijking van artikel 31 Flora- en faunawet is het verboden te jagen.   
-2.  Het is verboden in het wild levende dieren te vangen of te doden. Daartoe zijn alle bestaande aanwijzingen, toestemmingen, vrijstellingen en ontheffingen op grond van de artikelen 65, 67, 68, 72 en 75 van de Flora- en Faunawet opgeschort.  
+2.  Het is verboden in het wild levende dieren te vangen of te doden. Daartoe zijn alle bestaande aanwijzingen, toestemmingen, vrijstellingen en ontheffingen op grond van de artikelen 65, 67, 68, 72 en 75 van de Flora- en Faunawet opgeschort.   
+3.  De verboden, bedoeld in het eerste en tweede lid zijn niet van toepassing indien: 
+
+a. het jagen, doden of vangen geschiedt ter bescherming van de veiligheid van het luchtverkeer,  
+
+b. ter bestrijding van muskusratten.   
 
 ### Artikel  17  
 

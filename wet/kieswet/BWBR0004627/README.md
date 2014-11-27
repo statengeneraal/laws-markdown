@@ -2964,35 +2964,6 @@ Tegen een beschikking op grond van de artikelen G 2, G 4 of I 4 die wordt genome
 
 Voor zover de periode van vijf jaren, genoemd in artikel Ya 14, tweede lid, onderdeel b, is gelegen vóór inwerkingtreding van de Wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 2010, 347), wordt onder Nederland tevens verstaan de voormalige eilandgebieden Bonaire, Sint Eustatius en Saba, met dien verstande dat in bedoeld artikel voor «Wet toelating en uitzetting BES» wordt gelezen: Landsverordening toelating en uitzetting. 
 
-### Artikel  Ya 48  
-
-1.  In het ingevolge artikel G 3, eerste lid, in samenhang met artikel Ya 13 door het centraal stembureau voor de leden van de eilandsraad bij te houden register van aanduidingen schrijft het centraal stembureau ambtshalve als aanduiding in, de aanduiding van de politieke groepering die een vereniging is met volledige rechtsbevoegdheid en wier aanduiding was geplaatst boven een kandidatenlijst waaraan bij de laatstgehouden verkiezing van de leden van de eilandsraad van de voormalige eilandgebieden Bonaire, Sint Eustatius of Saba een of meer zetels zijn toegekend.   
-2.  Indien de aanduiding van een politieke groepering als bedoeld in het eerste lid, geheel of in hoofdzaak overeenstemt met een op de voet van artikel G 1 geregistreerde aanduiding van een andere politieke groepering en daardoor verwarring te duchten is, neemt het centraal stembureau voor de verkiezing van de leden van de eilandsraad een beschikking als bedoeld in artikel G 4, tweede lid, dat de doorwerking van de op grond van artikel G 1 geregistreerde aanduiding niet plaatsvindt.  
-
-### Artikel  Ya 49  
-
-1.  Indien binnen een termijn van twee maanden na inwerkingtreding van de wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 347) de kandidaatstelling plaatsvindt voor de verkiezing van de leden van de eilandsraad, geldt voor die verkiezing het volgende.   
-2.  De kennisgeving die heeft plaatsgevonden op grond van artikel G 1, achtste lid, voor de verkiezing van de leden van provinciale staten, geldt tevens voor de verkiezing van de leden van de eilandsraad.   
-3.  In afwijking van de artikelen G 3, G 4 en G 5 gelden voor de verkiezing van de leden van de eilandsraad de volgende tijdstippen: 
-
-a. in afwijking van artikel G 3, eerste en zesde lid, in samenhang met artikel Ya 13, kunnen verzoeken tot registratie of tot wijziging van de registratie van aanduidingen van politieke groeperingen worden ingediend tot uiterlijk de vijftiende dag voor de dag van de kandidaatstelling;  
-
-b. de beslissing van het centraal stembureau op een verzoek, bedoeld in onderdeel a, wordt genomen binnen drie dagen en terstond aan de gemachtigde bekendgemaakt, alsmede terstond ter openbare kennis gebracht op de in het openbaar lichaam gebruikelijke wijze;  
-
-c. een beschikking als bedoeld in artikel Ya 48, tweede lid, in samenhang met artikel G 4, tweede lid, wordt genomen uiterlijk op de twaalfde dag voor de dag van de kandidaatstelling;  
-
-d. in afwijking van artikel G 5, eerste lid, onder b en c, in samenhang met artikel Ya 46, wordt een beroepschrift tegen: 
-
-1°. een beschikking als bedoeld in onderdeel b ingediend uiterlijk op de derde dag na de dagtekening van de openbare kennisgeving, bedoeld in artikel G 3, vijfde lid, dan wel na de dag waarop de beschikking wordt geacht te zijn geweigerd;  
-
-2°. een beschikking als bedoeld in onderdeel c ingediend uiterlijk op de derde dag na de dag waarop die beschikking is bekendgemaakt, dan wel na de dag waarop de beschikking geacht wordt te zijn geweigerd;    
-
-e. het Gemeenschappelijk Hof doet uitspraak uiterlijk op de zevende dag nadat het beroepschrift is ontvangen en indien de uitspraak strekt tot gegrondverklaring van het beroep, bepaalt hij dat zijn uitspraak in de plaats treedt van de vernietigde beschikking. De president van het Gemeenschappelijk Hof stelt partijen en het centraal stembureau onverwijld in kennis van de uitspraak.    
-
-### Artikel  Ya 50  
-
-Bij de kandidaatstelling voor de eerste verkiezing van de leden van de eilandsraad na inwerkingtreding van de wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 347), wordt voor de toepassing van de artikelen H 4, achtste lid, H 14, tweede lid, en I 14, eerste en tweede lid, voor «de laatstgehouden verkiezing van de leden van de gemeenteraad», dan wel voor «de laatstgehouden verkiezing van de leden van het desbetreffende vertegenwoordigend(e) orgaan» gelezen: de laatstgehouden verkiezing van de leden van de eilandsraad van de voormalige eilandgebieden Bonaire, Sint Eustatius of Saba. 
-
 ### Artikel  Ya 51  
 
 1.  Artikel Ya 47 en dit artikel vervallen vijf jaar na inwerkingtreding van de wet van 17 mei 2010 tot wijziging van de Kieswet in verband met de nieuwe staatsrechtelijke positie van Bonaire, Sint Eustatius en Saba als openbaar lichaam binnen Nederland (Stb. 347).   

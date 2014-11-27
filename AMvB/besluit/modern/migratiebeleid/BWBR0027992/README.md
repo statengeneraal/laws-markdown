@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 15 april 2010, nr. 5649364/10/6;
 
-Gelet op de [artikelen 2a, tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [2b, derde lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [2h](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [3, tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [8, onder f](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [12, tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [14, derde en vierde lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [16, tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [16a, tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [17, tweede lid, onder g](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [18, tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [21, tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [22, derde lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [23](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [24, eerste lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [28, tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [48, vierde lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [52, eerste lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [54, eerste en tweede lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [56](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [66](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [68, derde lid](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), en [107, zevende lid, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), [artikel 3, eerste lid, onder c, van de Wet arbeid vreemdelingen](../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md), [18, eerste lid, van de Wet Politiegegevens](../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), [8, eerste lid, van de Wet justitiële en strafvorderlijke gegevens](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [2.2, eerste lid, onder c, van de Wet Studiefinanciering 2000](../../../../../wet/wet/studiefinanciering/2000/BWBR0011453/README.md), [2.2, eerste lid, onder c, van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten](../../../../../wet/wet/tegemoetkoming/onderwijsbijdrage/en/schoolkosten/BWBR0012438/README.md), [3, derde lid, van de Wet inburgering](../../../../../wet/wet/inburgering/BWBR0020611/README.md), en [3 van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md);
+Gelet op de artikelen 2a, tweede lid, 2b, derde lid, 2h, 3, tweede lid, 8, onder f, 12, tweede lid, 14, derde en vierde lid, 16, tweede lid, 16a, tweede lid, 17, tweede lid, onder g, 18, tweede lid, 21, tweede lid, 22, derde lid, 23, 24, eerste lid, 28, tweede lid, 48, vierde lid, 52, eerste lid, 54, eerste en tweede lid, 56, 66, 68, derde lid, en 107, zevende lid, van de Vreemdelingenwet 2000, artikel 3, eerste lid, onder c, van de Wet arbeid vreemdelingen, 18, eerste lid, van de Wet Politiegegevens, 8, eerste lid, van de Wet justitiële en strafvorderlijke gegevens, 2.2, eerste lid, onder c, van de Wet Studiefinanciering 2000, 2.2, eerste lid, onder c, van de Wet tegemoetkoming onderwijsbijdrage en schoolkosten, 3, derde lid, van de Wet inburgering, en 3 van de Wet op de jeugdzorg;
 
 De Raad van State gehoord (advies van 18 juni 2010, no. W03.10.0135/II);
 
@@ -47,9 +47,9 @@ Wijzigt het Besluit uitvoering Wet arbeid vreemdelingen.
 
 ### Artikel  IX  
 
-1.  Op het tijdstip waarop de [Wet modern migratiebeleid](../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md) in werking treedt, is referent van de houder van een verblijfsvergunning als bedoeld in [artikel 14 van de Wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) onder een beperking verband houdend met: 
+1.  Op het tijdstip waarop de Wet modern migratiebeleid in werking treedt, is referent van de houder van een verblijfsvergunning als bedoeld in artikel 14 van de Wet onder een beperking verband houdend met: 
 
-a. gezinshereniging of gezinsvorming, verblijf ter adoptie of als pleegkind, het afwachten van onderzoek naar de geschiktheid van de aspirant-adoptiefouders, bedoeld in [artikel 11 van de Wet opneming buitenlandse kinderen ter adoptie](../../../../../wet/wet/opneming/buitenlandse/pleegkinderen/BWBR0004447/README.md), of familiebezoek: de hoofdpersoon bij wie de vreemdeling als familie- of gezinslid verblijft;  
+a. gezinshereniging of gezinsvorming, verblijf ter adoptie of als pleegkind, het afwachten van onderzoek naar de geschiktheid van de aspirant-adoptiefouders, bedoeld in artikel 11 van de Wet opneming buitenlandse kinderen ter adoptie, of familiebezoek: de hoofdpersoon bij wie de vreemdeling als familie- of gezinslid verblijft;  
 
 b. het verrichten van arbeid in loondienst, het verrichten van arbeid als geestelijk voorganger of godsdienstleraar, verblijf als kennismigrant, stagiaire of practicant: de werkgever van de vreemdeling;  
 
@@ -64,7 +64,7 @@ f. verblijf in het kader van uitwisseling: de persoon of organisatie die ten beh
 
 ### Artikel  X  
 
-1.  Een op het tijdstip van inwerkingtreding van de [Wet Modern migratiebeleid](../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md) geldige verblijfsvergunning, verleend onder een beperking als genoemd in kolom A, wordt vanaf dat tijdstip aangemerkt als een verblijfsvergunning, verleend onder een beperking als genoemd in kolom B:  
+1.  Een op het tijdstip van inwerkingtreding van de Wet Modern migratiebeleid geldige verblijfsvergunning, verleend onder een beperking als genoemd in kolom A, wordt vanaf dat tijdstip aangemerkt als een verblijfsvergunning, verleend onder een beperking als genoemd in kolom B:  
 
 | A  | B  |
 |:---|:---|
@@ -88,25 +88,25 @@ f. verblijf in het kader van uitwisseling: de persoon of organisatie die ten beh
 
 | A  | B  | C  |
 |:---|:---|:---|
-| [artikel 3.39](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)  | Lerend werken  | verblijf als stagaire;  verblijf als practicant  |
-| [artikel 3.43, eerste lid, onder c](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)  | Uitwisseling  | verblijf als au pair;  verblijf in het kader van uitwisseling  |
-| [artikel 3.50, eerste lid, onder a](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  [artikel 3.51, eerste lid, onder a, onder 1°, en onder c](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  [artikel 3.86, dertiende lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  [artikel 3.90, eerste lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)  | Familie- of gezinslid  | verblijf in het kader van gezinshereniging of gezinsvorming;  verblijf ter adoptie;  verblijf als pleegkind;  verblijf in afwachting van onderzoek naar de geschiktheid van de aspirant-adoptiefouders, bedoeld in artikel 11 van de Wet opneming buitenlandse kinderen ter adoptie  |
-| [artikel 3.51, eerste lid, onder a, onder 3°](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md)  | Tijdelijke humanitaire gronden  | verblijf als alleenstaande minderjarige vreemdeling;  verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken  |
+| artikel 3.39  | Lerend werken  | verblijf als stagaire;  verblijf als practicant  |
+| artikel 3.43, eerste lid, onder c  | Uitwisseling  | verblijf als au pair;  verblijf in het kader van uitwisseling  |
+| artikel 3.50, eerste lid, onder a;  artikel 3.51, eerste lid, onder a, onder 1°, en onder c;  artikel 3.86, dertiende lid;  artikel 3.90, eerste lid  | Familie- of gezinslid  | verblijf in het kader van gezinshereniging of gezinsvorming;  verblijf ter adoptie;  verblijf als pleegkind;  verblijf in afwachting van onderzoek naar de geschiktheid van de aspirant-adoptiefouders, bedoeld in artikel 11 van de Wet opneming buitenlandse kinderen ter adoptie  |
+| artikel 3.51, eerste lid, onder a, onder 3°  | Tijdelijke humanitaire gronden  | verblijf als alleenstaande minderjarige vreemdeling;  verblijf als vreemdeling die buiten zijn schuld niet uit Nederland kan vertrekken  |
 
-3.  Onze Minister kan nadere regels stellen omtrent de verblijfsvergunningen, verleend onder een andere beperking als bedoeld in [artikel 3.4, derde lid](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md).  
+3.  Onze Minister kan nadere regels stellen omtrent de verblijfsvergunningen, verleend onder een andere beperking als bedoeld in artikel 3.4, derde lid.  
 
 ### Artikel  XI  
 
-De verblijfsvergunning voor bepaalde tijd, bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), wordt niet ingetrokken met toepassing van [artikel 18, eerste lid, onder h, van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), indien zij is verleend voor de inwerkingtreding van de [Wet modern migratiebeleid](../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md). 
+De verblijfsvergunning voor bepaalde tijd, bedoeld in artikel 14 van de Vreemdelingenwet 2000, wordt niet ingetrokken met toepassing van artikel 18, eerste lid, onder h, van die wet, indien zij is verleend voor de inwerkingtreding van de Wet modern migratiebeleid. 
 
 ### Artikel  XII  
 
-Het in [artikel XII, tweede lid, van de Wet modern migratiebeleid](../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md) bedoelde tijdstip is 1 juli 2010. 
+Het in artikel XII, tweede lid, van de Wet modern migratiebeleid bedoelde tijdstip is 1 juli 2010. 
 
 ### Artikel  XIII  
 
 1.  De onderdelen MMM en WWW, subonderdeel 3, van artikel I van dit besluit blijven buiten toepassing ten aanzien van de vreemdeling wiens verblijf op grond van het recht zoals dat gold voor de inwerkingtreding van dit besluit niet kon worden beëindigd, tenzij die vreemdeling wegens een na inwerkingtreding van die onderdelen van dit besluit gepleegd misdrijf waartegen een gevangenisstraf van twee jaar of meer is bedreigd bij onherroepelijk geworden rechterlijk vonnis is veroordeeld, dan wel hem terzake van een zodanig misdrijf bij onherroepelijke beschikking een taakstraf is opgelegd.   
-2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de invoering van de [Wet modern migratiebeleid](../../../../../wet/wet/modern/migratiebeleid/BWBR0027930/README.md) en dit besluit.  
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld met betrekking tot de invoering van de Wet modern migratiebeleid en dit besluit.  
 
 ### Artikel  XIV  
 

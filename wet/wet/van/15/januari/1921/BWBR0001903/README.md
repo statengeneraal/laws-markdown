@@ -269,6 +269,29 @@ c. bij de Hoge Raad uit vijf leden of, overeenkomstig artikel 75, derde lid, van
 4.  Het strafrechtsketennummer en de andere gegevens die noodzakelijk zijn voor de vaststelling van de identiteit van verdachten en veroordeelden en die bij algemene maatregel van bestuur zijn aangewezen, worden in de strafrechtsketendatabank verwerkt. Onze Minister van Veiligheid en Justitie is verantwoordelijke voor deze databank.   
 5.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor het verwerken van de gegevens, bedoeld in het vierde lid.  
 
+### Artikel  27c  
+Treedt in werking per 01-01-2015 
+
+1.  Aan de verdachte wordt bij zijn staandehouding of aanhouding medegedeeld ter zake van welk strafbaar feit hij als verdachte is aangemerkt. Buiten gevallen van staandehouding of aanhouding wordt de verdachte deze mededeling uiterlijk voorafgaand aan het eerste verhoor gedaan.   
+2.  Aan de verdachte die niet is aangehouden, wordt voorafgaand aan zijn eerste verhoor, onverminderd artikel 29, tweede lid, mededeling gedaan van het recht op rechtsbijstand, bedoeld in artikel 28, eerste lid, en, indien van toepassing, het recht op vertolking en vertaling, bedoeld in artikel 27, vierde lid.   
+3.  Aan de aangehouden verdachte wordt onverwijld na zijn aanhouding en in ieder geval voorafgaand aan zijn eerste verhoor schriftelijk mededeling gedaan van: 
+
+a. het recht om de in het eerste lid bedoelde informatie te ontvangen;  
+
+b. de in het tweede lid bedoelde rechten;  
+
+c. het bepaalde in artikel 29, tweede lid;  
+
+d. het recht op kennisneming van de processtukken op de wijze bepaald in de artikelen 30 tot en met 34;  
+
+e. de termijn waarbinnen de verdachte, voor zover hij niet in vrijheid is gesteld, krachtens dit wetboek voor de rechter-commissaris wordt geleid;  
+
+f. de mogelijkheden om krachtens dit wetboek om opheffing of schorsing van de voorlopige hechtenis te verzoeken;  
+
+g. de bij algemene maatregel van bestuur aangewezen rechten.     
+4.  Aan een verdachte die de Nederlandse taal niet of onvoldoende beheerst, wordt de mededeling van rechten in een voor hem begrijpelijke taal gedaan.   
+5.  In het proces-verbaal wordt melding gemaakt van de mededeling van rechten. 
+
 ### Artikel  28  
 
 1.  De verdachte is bevoegd zich, overeenkomstig de bepalingen van de Derde Titel van dit Boek, door een of meer gekozen of toegevoegde raadslieden te doen bijstaan.    
