@@ -2922,12 +2922,6 @@ b. het zich laten fotograferen en het laten afnemen van vingerafdrukken.
 2.  Voor de berekening van de in het eerste lid bedoelde termijn van 90 dagen wordt eerder verblijf in Nederland binnen een tijdvak van 180 dagen, onmiddellijk voorafgaande aan de binnenkomst, mede in aanmerking genomen.   
 3.  Indien de vreemdeling jonger is dan twaalf jaar, doet degene bij wie de vreemdeling woont of verblijft de melding.  
 
-### Artikel  4.48  
-
-1.  De vreemdeling die rechtmatig verblijft als bedoeld in artikel 8, onder i, van de Wet en die naar Nederland is gekomen voor een verblijf van ten hoogste 90 dagen, meldt zich binnen drie dagen na binnenkomst in Nederland in persoon aan bij de korpschef.   
-2.  Een verplichting tot aanmelding krachtens het voorgaande lid rust ten aanzien van de vreemdeling beneden de leeftijd van twaalf jaar op degene bij wie de vreemdeling woont of verblijft.   
-3.  Het eerste lid is niet van toepassing op de vreemdeling die zijn intrek neemt in een hotel of in een inrichting, waarvan de eigenaar, houder of beheerder bij of krachtens gemeentelijke verordening verplicht is aan de daartoe aangewezen autoriteit kennis te geven van het verschaffen van nachtverblijf aan personen.  
-
 ### Artikel  4.49  
 
 1. De vreemdeling die houder is van een visum of een document voor grensoverschrijding waarin door de daartoe bevoegde autoriteit een aantekening is gesteld omtrent aanmelding bij een vreemdelingendienst in Nederland, meldt zich binnen drie dagen na binnenkomst in Nederland in persoon aan bij de korpschef.  

@@ -62,7 +62,7 @@ c. zij zich wederzijds verplicht hebben tot een bijdrage aan de huishouding krac
 
 d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huishouding die naar aard en strekking overeenkomt met de gezamenlijke huishouding, bedoeld in het vierde lid.      
 6.  Bij algemene maatregel van bestuur wordt vastgesteld welke registraties, en gedurende welk tijdvak, in aanmerking worden genomen voor de toepassing van het vijfde lid, onderdeel d.    
-7.  Bij algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van hetgeen wordt verstaan onder het blijk geven zorg te dragen voor een ander, zoals bedoeld in het vierde lid.    
+7.  Bij algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van hetgeen wordt verstaan onder het hoofdverblijf in dezelfde woning hebben als bedoeld in het vierde en vijfde lid, aanhef, en het blijk geven zorg te dragen voor een ander als bedoeld in het vierde lid.   
 8.  Onder bloedverwant in de eerste graad als bedoeld in het derde lid, onderdeel a, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de ongehuwde meerderjarige.   
 9.  Onder voormalig pleegkind als bedoeld in het achtste lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
 
@@ -310,13 +310,7 @@ b. voor elke jaarpremie op grond van de Wet financiering sociale verzekeringen, 
 ### Artikel  17  
 
 1.  Het ouderdomspensioen wordt door de Sociale verzekeringsbank ingetrokken of herzien, wanneer degene, aan wie het is toegekend, ingevolge het bij of krachtens deze wet bepaalde daarvoor niet of niet meer in aanmerking komt, onderscheidenlijk voor een hoger of lager ouderdomspensioen in aanmerking komt.    
-2. In afwijking van het eerste lid vindt geen herziening van het ouderdomspensioen plaats indien:
-
-a.sprake is van zorg voor een pensioengerechtigde die hulpbehoevend is als bedoeld in artikel 1, onderdeel j, van de Algemene nabestaandenwet;
-
-b.door deze zorg een gezamenlijke huishouding ontstaat van twee pensioengerechtigden, en
-
-c.de pensioengerechtigde en de hulpbehoevende pensioengerechtigde ieder beschikken over een woning en daarvoor de financiële lasten dragen. 
+2. Vervallen. 
 3.   De herziening van het ouderdomspensioen, welke voortvloeit uit een wijziging der omstandigheden en welke een verhoging van dit ouderdomspensioen tot gevolg heeft, gaat in op de eerste dag der maand, waarin de wijziging dier omstandigheden heeft plaatsgevonden. Het bepaalde in artikel 16, tweede lid, is van overeenkomstige toepassing.    
 4.  De Sociale verzekeringsbank kent, indien de pensioengerechtigde of zijn wettelijke vertegenwoordiger niet op grond van artikel 50 desgevraagd aantoont, dat hij een pensioengerechtigde is als bedoeld in artikel 9, eerste lid, onderdeel a of c, of dat zijn feitelijke woonsituatie in overeenstemming is met het door hem dan wel zijn wettelijke vertegenwoordiger verstrekte adres, een ouderdomspensioen toe gelijk aan dat van een pensioengerechtigde als bedoeld in artikel 9, eerste lid, onderdeel b, dan wel herziet het ouderdomspensioen tot het bedrag van dat ouderdomspensioen.  
 5.   De intrekking van het ouderdomspensioen of de herziening daarvan, welke voortvloeit uit een wijziging der omstandigheden en welke een verlaging van dit ouderdomspensioen tot gevolg heeft, gaat, behoudens in de bij ministeriële regeling aan te wijzen gevallen, in op de eerste dag der maand, volgende op die, waarin de dag is gelegen met ingang waarvan degene, aan wie ouderdomspensioen is toegekend, daarvoor niet meer in aanmerking komt, onderscheidenlijk voor een lager ouderdomspensioen in aanmerking komt. Indien het ouderdomspensioen ten onrechte of tot een te hoog bedrag is toegekend, wordt het ingetrokken onderscheidenlijk herzien met ingang van de dag, waarop het is ingegaan.   
@@ -447,10 +441,10 @@ Voor zover bij of krachtens deze wet niet anders is bepaald, wordt een voorschot
 
 ### Artikel  22  
 
-1.  De Sociale verzekeringsbank verleent op aanvraag aan personen die de pensioengerechtigde leeftijd bereiken in de jaren 2013, 2014 of 2015 een voorschot op het ouderdomspensioen in de vorm van een renteloze lening.   
+1.  De Sociale verzekeringsbank verleent op aanvraag aan personen die vanaf 1 januari 2013 tot en met een bij koninklijk besluit te bepalen tijdstip de leeftijd van 65 jaar bereiken een voorschot op het ouderdomspensioen in de vorm van een renteloze lening.   
 2.  De voorschotverlening gaat in op de dag waarop de persoon, bedoeld in het eerste lid, de leeftijd van 65 jaar bereikt.   
-3.  Het bedrag van het voorschot over een maand, respectievelijk van de voorschotten over twee en drie maanden wordt verrekend met het ouderdomspensioen over respectievelijk de eerste zes volledige kalendermaanden, de eerste twaalf volledige kalendermaanden en de eerste achttien volledige kalendermaanden na het bereiken van de pensioengerechtigde leeftijd.   
-4.  Dit artikel vervalt met ingang van 1 juli 2017.  
+3.  Het bedrag van het voorschot over een maand, respectievelijk van het voorschot over twee maanden wordt verrekend met het ouderdomspensioen over de eerste zes volledige kalendermaanden, respectievelijk de eerste twaalf volledige kalendermaanden na het bereiken van de pensioengerechtigde leeftijd.   
+4.  Dit artikel vervalt op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  23  
 
@@ -751,15 +745,6 @@ a.op 31 december 1999 recht heeft op een ouderdomspensioen en op die dag niet in
 
 b.op 19 december 2005 dit recht op een ouderdomspensioen uitsluitend nog heeft op grond van artikel 2 van de wet van 9 december 2004, houdende goedkeuring van het voornemen tot opzegging van het op 28 juni 1962 te Genève tot stand gekomen Verdrag betreffende de gelijkheid van behandeling van eigen onderdanen en vreemdelingen met betrekking tot de sociale zekerheid (Verdrag nr. 118 aangenomen door de Internationale Arbeidsconferentie in haar zesenveertigste zitting; Trb. 1962, 122 en Trb. 1964, 23) (Stb. 2004, 715).
 
-###Artikel 63 
-
-1. De besluiten tot herziening van het ouderdomspensioen, genomen met toepassing van artikel 17 zoals dat artikel luidde op de dag voorafgaand aan de datum van inwerkingtreding van de wet van 2 november 2006 tot wijziging van de Algemene Ouderdomswet in verband met samenwonen ten behoeve van zorg voor een hulpbehoevende (Stb. 558), worden op aanvraag door de Sociale verzekeringsbank met toepassing van artikel 17, tweede lid, gewijzigd met ingang van 4 april 2006 of indien de herziening op een later tijdstip heeft plaatsgevonden met ingang van dat tijdstip indien:
-
-a.de herziening voortvloeit uit de omstandigheid van het voeren van een gezamenlijke huishouding in verband met zorg door een pensioengerechtigde voor een hulpbehoevende pensioengerechtigde als bedoeld in artikel 1, onderdeel j, van de Algemene nabestaandenwet;
-
-b.de pensioengerechtigden ieder beschikken over een eigen woning.
-2. De aanvraag, bedoeld in het eerste lid, wordt ingediend binnen zes maanden na de datum van inwerkingtreding van de in het eerste lid genoemde wet.
-
 ### Artikel  63a  
 
 Artikel 1, achtste en negende lid, is niet van toepassing, indien voor de inwerkingtreding van deze artikelleden, op grond van artikel 8 recht bestaat op toeslag, omdat de ongehuwde pensioengerechtigde wegens een gezamenlijke huishouding met een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind is aangemerkt als gehuwd, voor zolang dit recht op toeslag bestaat, tenzij toepassing van de genoemde artikelleden leidt tot een hoger ouderdomspensioen. 
@@ -772,6 +757,10 @@ Ten aanzien van de persoon wiens vrijheid op de dag voorafgaande aan de inwerkin
 
 1.  Pensioengerechtigden die voor 1 januari 2015 zijn gehuwd en die in november of december 2014 de leeftijd van 65 jaar bereiken en van wie de echtgenoot jonger is dan de pensioengerechtigde leeftijd hebben, in afwijking van artikel 8, eerste lid, overeenkomstig de bepalingen van deze wet recht op een toeslag, tenzij, met inachtneming van artikel 11, het inkomen uit arbeid of overig inkomen van die echtgenoot meer bedraagt dan de volledige bruto-toeslag.   
 2.  Artikel 8, tweede en derde lid, is van overeenkomstige toepassing.  
+
+### Artikel  64c  
+
+Artikel 17, tweede lid, zoals dat luidde op de dag voorafgaand aan de dag van inwerkingtreding van artikel I, onderdeel B, van de Wet van 9 juli 2014 tot wijziging van de Algemene Ouderdomswet in verband met beëindiging van de voorschotregeling en vaststelling van een grondslag voor het stellen van regels ten aanzien van hetgeen wordt verstaan onder het hebben van het hoofdverblijf in dezelfde woning (Stb. 2014, 307) blijft van toepassing op pensioengerechtigden ten aanzien waarvan dat artikellid is toegepast tot het tijdstip waarop niet meer wordt voldaan aan de in dat artikellid gestelde voorwaarden. 
 
 ### Hoofdstuk  IX  
 

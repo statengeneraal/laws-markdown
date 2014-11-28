@@ -50,7 +50,7 @@ c. op luchtvaartterreinen opengesteld voor verkeer van en naar landen buiten de 
 ### Artikel  3  
 
 1.  Het is verboden zonder daartoe strekkende vergunning van de burgemeester het horecabedrijf of slijtersbedrijf uit te oefenen.  
-2.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag van een vergunning als bedoeld in het eerste lid. 
+2.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op de aanvraag van een vergunning als bedoeld in het eerste lid. 
 
 ### Artikel  4  
 
@@ -65,11 +65,11 @@ b. in de inrichting te houden bijeenkomsten van persoonlijke aard, zoals bruilof
 c. in de inrichting te houden bijeenkomsten die gericht zijn op personen die niet of niet rechtstreeks bij de activiteiten van de betreffende rechtspersoon betrokken zijn.     
 4.  De burgemeester kan met het oog op bijzondere gelegenheden van zeer tijdelijke aard voor een aaneengesloten periode van ten hoogste twaalf dagen ontheffing verlenen van de bij of krachtens dit artikel gestelde regels.   
 5.  De ontheffing, of een afschrift daarvan, is in de inrichting aanwezig.  
-6.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een aanvraag om een ontheffing als bedoeld in het vierde lid. 
+6.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een aanvraag om een ontheffing als bedoeld in het vierde lid. 
 
 ### Artikel  6  
 
-Op de voorbereiding van een beslissing tot verlening van een vergunning op grond van artikel 3 voor het horecabedrijf aan een paracommerciële rechtspersoon is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. 
+Op de voorbereiding van een beslissing tot verlening van een vergunning op grond van artikel 3 voor het horecabedrijf aan een paracommerciële rechtspersoon is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. 
 
 ### Artikel  7  
 
@@ -136,14 +136,14 @@ Een krachtens artikel 3 verleende vergunning geldt ten aanzien van het verstrekk
 2.  Het is verboden een horecalokaliteit of een terras tevens in gebruik te hebben voor het uitoefenen van de kleinhandel of zelfbedieningsgroothandel of het uitoefenen van een van de in het derde lid genoemde activiteiten, dan wel toe te laten dat daarin zodanige handel wordt of zodanige activiteiten worden uitgeoefend, tenzij het betreft de verkoop van etenswaren die voor consumptie gereed zijn.   
 3.  De in het tweede lid bedoelde activiteiten zijn: 
 
-a. het bedrijfsmatig aan particulieren verkopen van goederen in het kader van een openbare verkoping, als bedoeld in [artikel 1 van de Wet ambtelijk toezicht bij openbare verkopingen](../../../../../wet/wet/ambtelijk/toezicht/bij/openbare/verkopingen/BWBR0002798/README.md);  
+a. het bedrijfsmatig aan particulieren verkopen van goederen in het kader van een openbare verkoping, als bedoeld in artikel 1 van de Wet ambtelijk toezicht bij openbare verkopingen;  
 
 b. het bedrijfsmatig aanbieden van diensten, uitgezonderd diensten van recreatieve en culturele aard;  
 
 c. het bedrijfsmatig verhuren van goederen;  
 
 d. het in het openbaar bedrijfsmatig opkopen van goederen.     
-4.  Onder diensten van recreatieve aard als bedoeld in het derde lid, onder b, wordt niet verstaan het aanbieden van kansspelen, met uitzondering van het aanwezig hebben van speelautomaten als bedoeld in [Titel Va van de Wet op de kansspelen](../../../../../wet/wet/op/de/kansspelen/BWBR0002469/README.md). 
+4.  Onder diensten van recreatieve aard als bedoeld in het derde lid, onder b, wordt niet verstaan het aanbieden van kansspelen, met uitzondering van het aanwezig hebben van speelautomaten als bedoeld in Titel Va van de Wet op de kansspelen. 
 
 ### Artikel  15  
 
@@ -193,7 +193,7 @@ c. een inrichting waarin het slijtersbedrijf wordt uitgeoefend.
 2.  Het is verboden in een slijtlokaliteit de aanwezigheid toe te laten van een bezoeker van wie niet is vastgesteld dat deze de leeftijd van 18 jaar heeft bereikt, anders dan onder toezicht van een persoon van 21 jaar of ouder.   
 3.  De vaststelling, bedoeld in het eerste en tweede lid: 
 
-a. geschiedt aan de hand van een document als bedoeld in [artikel 1, eerste lid, van de Wet op de identificatieplicht](../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), dan wel op een bij of krachtens algemene maatregel van bestuur aangewezen andere wijze;  
+a. geschiedt aan de hand van een document als bedoeld in artikel 1, eerste lid, van de Wet op de identificatieplicht, dan wel op een bij of krachtens algemene maatregel van bestuur aangewezen andere wijze;  
 
 b. blijft achterwege, indien het een persoon betreft die onmiskenbaar de vereiste leeftijd heeft bereikt.     
 4.  Bij de voor het publiek bestemde toegang tot een horecalokaliteit, een slijtlokaliteit, een ruimte als bedoeld in artikel 18, tweede lid, of een vervoermiddel waarin bedrijfsmatig of anders dan om niet alcoholhoudende drank wordt verstrekt, dient duidelijk zichtbaar en goed leesbaar te worden aangegeven welke leeftijdsgrens of leeftijdsgrenzen gelden. Bij regeling van Onze Minister kunnen daaromtrent nadere regels worden gesteld of modellen worden vastgesteld.   
@@ -210,9 +210,9 @@ Het is verboden bedrijfsmatig of anders dan om niet alcoholhoudende drank te ver
 
 a. op plaatsen waar brandstof voor middelen van vervoer aan particulieren wordt verstrekt en in winkels die aan een benzinestation zijn verbonden;  
 
-b. in winkels die verbonden zijn aan een inrichting waarin het horecabedrijf wordt uitgeoefend gelegen langs een krachtens de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) als autoweg aangeduide weg;  
+b. in winkels die verbonden zijn aan een inrichting waarin het horecabedrijf wordt uitgeoefend gelegen langs een krachtens de Wegenverkeerswet 1994 als autoweg aangeduide weg;  
 
-c.in ruimten gelegen langs een krachtens de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) als autosnelweg aangeduide weg, tenzij het betreft het verstrekken van alcoholhoudende drank voor gebruik ter plaatse in een horecalokaliteit of op een in de onmiddellijke nabijheid van een horecalokaliteit gelegen terras, en in die inrichting hoofdzakelijk warme maaltijden voor directe consumptie ter plaatse worden verstrekt.   
+c.in ruimten gelegen langs een krachtens de Wegenverkeerswet 1994 als autosnelweg aangeduide weg, tenzij het betreft het verstrekken van alcoholhoudende drank voor gebruik ter plaatse in een horecalokaliteit of op een in de onmiddellijke nabijheid van een horecalokaliteit gelegen terras, en in die inrichting hoofdzakelijk warme maaltijden voor directe consumptie ter plaatse worden verstrekt.   
 2.  Bij algemene maatregel van bestuur kan het bedrijfsmatig of anders dan om niet verstrekken van alcoholhoudende drank worden verboden: 
 
 a. in stadions of bij die maatregel aangewezen delen daarvan, in gebruik bij organisaties van betaald voetbal, gedurende de tijd dat zij in verband met wedstrijden van betaald voetbal voor het publiek geopend zijn;  
@@ -319,8 +319,8 @@ c. artikel 7, tweede lid, artikel 31, vierde lid, en artikel 32, tweede lid, zic
 
 d. redelijkerwijs moet worden aangenomen dat een of meer van de bij of krachtens de artikelen 2 en 13 tot en met 24 gestelde verboden zal worden overtreden of dat in strijd zal worden gehandeld met aan de vergunning verbonden beperkingen of voorschriften.     
 2.  Een vergunning ten aanzien van een inrichting, waarvan de vergunning op grond van artikel 31, eerste lid, onder c, is ingetrokken, kan gedurende een bij die intrekking vastgestelde termijn van ten hoogste vijf jaar worden geweigerd.   
-3.  Een vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
-4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.  
+3.  Een vergunning kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+4.  Voordat toepassing wordt gegeven aan het derde lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.  
 
 ### Artikel  28  
 
@@ -361,8 +361,8 @@ b. de aantekening door te laten halen dat een leidinggevende geen bemoeienis hee
 
 a. indien de persoon bedoeld in het eerste lid, niet voldoet aan de bij of krachtens artikel 8 gestelde eisen;  
 
-b. in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).     
-6.  Alvorens te beslissen op een aanvraag tot wijziging van het aanhangsel kan het Bureau bevordering integriteitsbeoordelingen, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), door het openbaar bestuur om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.  
+b. in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.     
+6.  Alvorens te beslissen op een aanvraag tot wijziging van het aanhangsel kan het Bureau bevordering integriteitsbeoordelingen, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen, door het openbaar bestuur om een advies als bedoeld in artikel 9 van die wet worden gevraagd.  
 
 ### Artikel  31  
 
@@ -378,7 +378,7 @@ d. de vergunninghouder in de in de artikelen 30 en 30a, eerste lid, bedoelde gev
 2.  Een vergunning kan door de burgemeester worden ingetrokken indien de vergunninghouder de bij of krachtens deze wet gestelde regels, dan wel de aan een vergunning of ontheffing verbonden voorschriften en beperkingen, niet nakomt.   
 3.  Een vergunning kan voorts door de burgemeester worden ingetrokken, indien: 
 
-a. er sprake is van het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). Voordat daaraan toepassing wordt gegeven, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van voornoemde wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd;  
+a. er sprake is van het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur. Voordat daaraan toepassing wordt gegeven, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van voornoemde wet, om een advies als bedoeld in artikel 9 van die wet worden gevraagd;  
 
 b. een vergunninghouder in een periode van twee jaar ten minste drie maal op grond van artikel 30a, eerste lid, om bijschrijving van een persoon op het aanhangsel bij de vergunning heeft verzocht en de burgemeester die wijziging van het aanhangsel ten minste driemaal heeft geweigerd op grond van artikel 30a, vijfde lid.     
 4.  Indien een vergunning is ingetrokken omdat is gehandeld in strijd met de voorschriften en beperkingen verbonden aan de vergunning, bedoeld in artikel 4 of 25a, wordt de bevoegdheid om aan de betrokken rechtspersoon een nieuwe vergunning te verlenen opgeschort tot een jaar nadat het besluit tot intrekking onherroepelijk is geworden.  
@@ -417,7 +417,7 @@ b. niet in enig opzicht van slecht levensgedrag is.   De naam van deze persoon s
 3.  Ten aanzien van een ontheffing is artikel 31, eerste lid, onder a en c, van overeenkomstige toepassing.   
 4.  De ontheffing, of een afschrift daarvan, is ter plaatse aanwezig.   
 5.  Een burgemeester kan naar aanleiding van een aanvraag voor ontheffingen als bedoeld in dit artikel, voor jaarlijks terugkerende identieke bijzondere gelegenheden van zeer tijdelijke aard, besluiten één ontheffing te verlenen, mits de verstrekking van zwak-alcoholhoudende drank telkenmale geschiedt onder onmiddellijke leiding van dezelfde persoon.   
-6.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag om een ontheffing als bedoeld in dit artikel. 
+6.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op de aanvraag om een ontheffing als bedoeld in dit artikel. 
 
 ### §  6  
 
@@ -466,13 +466,13 @@ Van een besluit als bedoeld in artikel 41, eerste lid, onder a wordt mededeling 
 
 ###Artikel 43a 
 
-1.  De gemeenteraad stelt uiterlijk zes maanden na inwerkingtreding van dit artikel voor de eerste maal een preventie- en handhavingsplan alcohol vast. Vervolgens wordt dit plan elke vier jaar gelijktijdig met de vaststelling van de lokale nota gezondheidsbeleid, bedoeld in [artikel 13, tweede lid, van de Wet Publieke Gezondheid](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md), vastgesteld. Het plan kan tussentijds worden gewijzigd.   
+1.  De gemeenteraad stelt uiterlijk zes maanden na inwerkingtreding van dit artikel voor de eerste maal een preventie- en handhavingsplan alcohol vast. Vervolgens wordt dit plan elke vier jaar gelijktijdig met de vaststelling van de lokale nota gezondheidsbeleid, bedoeld in artikel 13, tweede lid, van de Wet Publieke Gezondheid, vastgesteld. Het plan kan tussentijds worden gewijzigd.   
 2.  Het plan bevat de hoofdzaken van het beleid betreffende de preventie van alcoholgebruik, met name onder jongeren, en de handhaving van de wet.   
 3.  In het plan wordt in ieder geval aangegeven: 
 
 a. wat de doelstellingen zijn van het preventie- en handhavingsbeleid alcohol;  
 
-b. welke acties worden ondernomen om alcoholgebruik, met name onder jongeren, te voorkomen, al dan niet in samenhang met andere preventieprogramma’s als bedoeld in [artikel 2, tweede lid, onderdeel d, van de Wet Publieke Gezondheid](../../../../../wet/wet/publieke/gezondheid/BWBR0024705/README.md);  
+b. welke acties worden ondernomen om alcoholgebruik, met name onder jongeren, te voorkomen, al dan niet in samenhang met andere preventieprogramma’s als bedoeld in artikel 2, tweede lid, onderdeel d, van de Wet Publieke Gezondheid;  
 
 c. de wijze waarop het handhavingsbeleid wordt uitgevoerd en welke handhavingsacties in de door het plan bestreken periode worden ondernomen;  
 
@@ -480,7 +480,7 @@ d. welke resultaten in de door het plan bestreken periode minimaal behaald diene
 
 ### Artikel  44  
 
-Onze Minister en de burgemeester zijn bevoegd tot toepassing van bestuursdwang ter handhaving van de bij [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) gestelde verplichting. 
+Onze Minister en de burgemeester zijn bevoegd tot toepassing van bestuursdwang ter handhaving van de bij artikel 5:20, eerste lid, van de Algemene wet bestuursrecht gestelde verplichting. 
 
 ###§ 8 
 

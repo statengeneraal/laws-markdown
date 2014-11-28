@@ -685,16 +685,16 @@ Treedt in werking per 01-01-2015
 
 1.  Het AMHK doet aan de ingevolge artikel 4.3.1 met het toezicht belaste ambtenaren onverwijld melding van: 
 
-a. iedere calamiteit die bij de verlening van jeugdhulp of bij de uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering heeft plaatsgevonden, en  
+a. iedere calamiteit die bij de uitvoering van de taken, bedoeld in artikel 4.1.1, tweede en derde lid, heeft plaatsgevonden, en  
 
-b. geweld bij de verlening van jeugdhulp of de uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering.     
+b. geweld bij de uitvoering van de taken, bedoeld in artikel 4.1.1, tweede en derde lid.     
 2.  Het AMHK verstrekt bij en naar aanleiding van een melding als bedoeld in het eerste lid aan de ingevolge artikel 4.3.1 met toezicht belaste ambtenaren de gegevens, daaronder begrepen persoonsgegevens, gegevens betreffende de gezondheid en andere bijzondere persoonsgegevens, die voor het onderzoeken van de melding noodzakelijk zijn.  
 
 ### Artikel  4.2.6  
 Treedt in werking per 01-01-2015 
 
 1.  Het AMHK stelt een vertrouwenspersoon in de gelegenheid zijn taak uit te oefenen.   
-2.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de taken en bevoegdheden van vertrouwenspersonen.   
+2.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de taken en bevoegdheden van vertrouwenspersonen en de verplichtingen van het AMHK.   
 3.  De rechtspersoon bij wie een vertrouwenspersoon werkzaam is, is in het bezit van een verklaring omtrent het gedrag als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens van die vertrouwenspersoon.   
 4.  Een verklaring als bedoeld in het derde lid is niet eerder afgegeven dan drie maanden voor het tijdstip waarop die vertrouwenspersoon voor de betreffende rechtspersoon ging werken.   
 5.  Indien de rechtspersoon of een ingevolge artikel 4.3.1 met het toezicht belaste ambtenaar redelijkerwijs mag vermoeden dat een vertrouwenspersoon niet langer voldoet aan de eisen voor het afgeven van een verklaring als bedoeld in het derde lid, verlangt deze dat die vertrouwenspersoon zo spoedig mogelijk opnieuw een verklaring als bedoeld in het derde lid overlegt, die niet ouder is dan drie maanden.  
@@ -705,7 +705,7 @@ Treedt in werking per 01-01-2015
 1.  Het AMHK treft een regeling voor de behandeling van klachten over gedragingen van het AMHK of van voor hem werkzame personen jegens andere personen in het kader van de uitvoering van de taken van het AMHK. Het AMHK brengt de regeling op passende wijze onder de aandacht van de jeugdigen, ouders en pleegouders.   
 2.  De in het eerste lid bedoelde regeling: 
 
-a. voorziet erin dat de klachten worden behandeld door een klachtencommissie die bestaat uit ten minste drie leden, waaronder een voorzitter die niet werkzaam is voor of bij de jeugdhulpaanbieder of de gecertificeerde instelling;  
+a. voorziet erin dat de klachten worden behandeld door een klachtencommissie die bestaat uit ten minste drie leden, waaronder een voorzitter die niet werkzaam is voor of bij het AMHK;  
 
 b. waarborgt dat aan de behandeling van een klacht niet wordt deelgenomen door een persoon op wiens gedraging de klacht rechtstreeks betrekking heeft;  
 
@@ -814,8 +814,7 @@ Treedt in werking per 01-01-2015
 3.  De aanwijzing bevat de termijn waarbinnen het AMHK eraan moeten voldoen.   
 4.  Indien het nemen van maatregelen in verband met gevaar voor de veiligheid of de gezondheid redelijkerwijs geen uitstel kan lijden, kan de ingevolge artikel 4.3.1 met het toezicht belaste ambtenaar een schriftelijk bevel geven. Het bevel heeft een geldigheidsduur van zeven dagen, welke door Onze Minister of Onze Minister van Veiligheid en Justitie kan worden verlengd.   
 5.  Het AMHK is verplicht binnen de daarbij gestelde termijn aan de aanwijzing onderscheidenlijk onmiddellijk aan het bevel te voldoen.   
-6.  Mandaat tot het verlengen van de geldigheidsduur van een bevel wordt niet verleend aan een ingevolge artikel 4.3.1 met het toezicht belaste ambtenaar.   
-7.  Indien een organisatie van beoefenaren van een beroep in het jeugddomein een systeem van tuchtrecht heeft georganiseerd, zijn de ingevolge artikel 4.3.1 met het toezicht belaste ambtenaren bevoegd in het kader van dat systeem een tuchtklacht tegen de desbetreffende medewerker van het AMHK in te dienen. Bij algemene maatregel van bestuur worden daarover nadere regels gesteld.  
+6.  Mandaat tot het verlengen van de geldigheidsduur van een bevel wordt niet verleend aan een ingevolge artikel 4.3.1 met het toezicht belaste ambtenaar.  
 
 ### Artikel  4.3.3  
 Treedt in werking per 01-01-2015 
@@ -1219,7 +1218,7 @@ Wijzigt de Wet marktordening gezondheidszorg.
 ### Artikel  7.29  
 Treedt in werking per 01-01-2015 
 
-Wijzigt de Wet werk en bijstand. 
+Wijzigt de Participatiewet. 
 
 ### Artikel  7.30  
 Treedt in werking per 01-01-2015 
@@ -1230,11 +1229,6 @@ Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 Treedt in werking per 01-01-2015 
 
 Wijzigt de Woningwet. 
-
-### Artikel  7.32  
-Treedt in werking per 01-01-2015 
-
-Wijzigt de Ziektewet. 
 
 ### Artikel  7.33  
 Treedt in werking per 01-01-2015 
@@ -1327,7 +1321,7 @@ b. door derden wordt geleverd aan een belanghebbende, aan wie op grond van artik
 2.  Nadat de zorgverzekeraar, bedoeld in artikel 1, onderscheidenlijk de rechtspersoon, bedoeld in artikel 40 van de Algemene Wet Bijzondere Ziektekosten, de in artikel 8.2, tweede lid, bedoelde gegevens heeft verstrekt aan het college van de gemeente waarvan betrokkene ingezetene is, voert het college, met overeenkomstige toepassing van artikel 2.3.2, tweede tot en met achtste lid, zonder melding als bedoeld in artikel 2.3.2, eerste lid, het in dat artikel bedoelde onderzoek uit op een zodanig tijdstip dat betrokkene tijdig voor het tijdstip waarop hij niet langer op grond van artikel 8.3, vierde lid, aanspraak zal hebben op de in die gegevens omschreven zorg, een aanvraag kan doen voor een maatwerkvoorziening als bedoeld in artikel 2.3.5. eerste lid.  
 
 ### Artikel  8.6a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Artikel 2.3.5, zesde lid, geldt in 2015 niet voor daar bedoelde cliënten: 
 

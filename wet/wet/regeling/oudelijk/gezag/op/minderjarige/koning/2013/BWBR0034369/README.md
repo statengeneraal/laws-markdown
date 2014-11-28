@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat ter voldoening aan het bepaalde in [artikel 34 Grondwet](../../../../../../../../../../wet/grondwet/BWBR0001840/README.md), de wet het ouderlijk gezag over de minderjarige Koning en het toezicht daarop regelt, alsmede dat het, gelet op het belang van alle uit Ons huwelijk met Hare Majesteit Koningin Máxima geboren minderjarige kinderen bij continuïteit in de opvoeding, wenselijk is dat de wet eveneens het gezag en de voogdij over de andere uit Ons huwelijk geboren minderjarige kinderen regelt;
+Alzo Wij in overweging genomen hebben, dat ter voldoening aan het bepaalde in artikel 34 Grondwet, de wet het ouderlijk gezag over de minderjarige Koning en het toezicht daarop regelt, alsmede dat het, gelet op het belang van alle uit Ons huwelijk met Hare Majesteit Koningin Máxima geboren minderjarige kinderen bij continuïteit in de opvoeding, wenselijk is dat de wet eveneens het gezag en de voogdij over de andere uit Ons huwelijk geboren minderjarige kinderen regelt;
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
@@ -19,7 +19,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 ### Artikel  2  
 
 1.  De bepalingen van het burgerlijk recht zijn op het ouderlijk gezag van toepassing, voor zover niet uit deze wet het tegendeel volgt.   
-2.  Niet van toepassing zijn de [artikelen 235](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [241 tot en met 242](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [253ha](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [253l](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [253s](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [253t](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [254](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [255](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [266](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [269](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [272](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [342, tweede lid](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [344](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [349](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [370 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).  
+2.  Niet van toepassing zijn de artikelen 235, 241 tot en met 242, 253ha, 253l, 253s, 253t, 254, 255, 266, 269, 272, 342, tweede lid, 344, 349 en 370 van Boek 1 van het Burgerlijk Wetboek.  
 
 ### Artikel  3  
 
@@ -44,7 +44,7 @@ Alvorens het lidmaatschap te aanvaarden legt elk lid van het College in handen v
 
 ### Artikel  7  
 
-1.  De in de [artikelen 345](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [346](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [348](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [350 tot en met 357 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) omschreven taken en bevoegdheden van de rechter worden uitgevoerd en uitgeoefend door het College.   
+1.  De in de artikelen 345, 346, 348 en 350 tot en met 357 van Boek 1 van het Burgerlijk Wetboek omschreven taken en bevoegdheden van de rechter worden uitgevoerd en uitgeoefend door het College.   
 2.  Het College wordt gehoord bij de keuze van de opvoeders en leraren van de minderjarigen.   
 3.  Buitenlands verblijf van de minderjarigen met een te verwachten duur van langer dan twee maanden is onderworpen aan de voorafgaande goedkeuring van het College.   
 4.  Bij verhindering of ontstentenis van Onze voornoemde echtgenote vervult het College haar taak totdat de verhindering of de ontstentenis is geëindigd, dan wel totdat bij wet in de voogdij over de uit Ons huwelijk geboren minderjarige kinderen is voorzien.  
@@ -70,7 +70,7 @@ Wijzigt deze wet.
 
 ### Artikel  12  
 
-De [Wet van 10 juni 1981](../../../../../../../../../../wet/wet/voogdij/minderjarige/koning/BWBR0003413/README.md) (Stb. 381), houdenwde benoeming van een voogd en een regeling van de voogdij over de minderjarige Koning wordt ingetrokken. 
+De Wet van 10 juni 1981 (Stb. 381), houdenwde benoeming van een voogd en een regeling van de voogdij over de minderjarige Koning wordt ingetrokken. 
 
 ### Artikel  13  
 

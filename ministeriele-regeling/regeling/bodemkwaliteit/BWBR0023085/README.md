@@ -5,7 +5,7 @@
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Verkeer en Waterstaat,  
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op [artikel 11.2, zesde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en de [artikelen 1](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [9, tweede lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [11, vierde lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [17, eerste en tweede lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [26, eerste en tweede lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [28, eerste, tweede en vierde lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [30, eerste lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [31, tweede lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [32, vierde lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [34, eerste en vierde lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [37, tweede lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [38, eerste, derde, vierde en vijfde lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [39](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [40, eerste lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [41](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [42, vijfde en zesde lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [46, tweede lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [47](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [55, tweede en derde lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [57, eerste lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [58, eerste lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [59, eerste lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [60, eerste lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [63, eerste, tweede en derde lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), en [64, eerste en tweede lid van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);
+Gelet op artikel 11.2, zesde lid, van de Wet milieubeheer en de artikelen 1, 9, tweede lid, 11, vierde lid, 17, eerste en tweede lid, 26, eerste en tweede lid, 28, eerste, tweede en vierde lid, 30, eerste lid, 31, tweede lid, 32, vierde lid, 34, eerste en vierde lid, 37, tweede lid, 38, eerste, derde, vierde en vijfde lid, 39, 40, eerste lid, 41, 42, vijfde en zesde lid, 46, tweede lid, 47, 55, tweede en derde lid, 57, eerste lid, 58, eerste lid, 59, eerste lid, 60, eerste lid, 63, eerste, tweede en derde lid, en 64, eerste en tweede lid van het Besluit bodemkwaliteit;
 Besluiten:     
 ### Hoofdstuk  1  
 
@@ -15,11 +15,11 @@ Besluiten:
 
 ####Definitiebepalingen
 
-In deze regeling wordt verstaan onder: Aantoonbaarheidsgrens: laagste gehalte van een parameter waarbij de aanwezigheid daarvan aantoonbaar is volgens AP 04, bedoeld in bijlage C voor bouwstoffen en volgens bijlage L voor bodem, grond en baggerspecie; ASTM-norm: normdocument uitgegeven door de American Society for Testing and Materials, waarvan de uitgave is weergegeven in bijlage D ; Bepalingsgrens: laagste kwantificeerbare gehalte van een parameter, dat voor bouwstoffen overeenkomt met driemaal de aantoonbaarheidsgrens en voor bodem, grond en baggerspecie is opgenomen in bijlage L ; Besluit: [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md); Bodem+: onderdeel van Rijkswaterstaat; Bodemkwaliteitszone: aaneengesloten deel of meerdere niet aaneengesloten delen van een beheersgebied met een gelijke ontstaans- en gebruiksgeschiedenis, als gevolg waarvan sprake is van een vergelijkbare actuele kwaliteit van de bodem; BRL: beoordelingsrichtlijn, zijnde een door het college van deskundigen bindend verklaard document dat wordt gehanteerd als grondslag voor de afgifte en instandhouding van certificaten; CAS-nr: uniek identificatienummer dat is toegekend aan alle chemische stoffen die zijn geregistreerd door de Chemical Abstracts Service, die onderdeel is van de American Chemical Society. College van deskundigen: door de Raad voor Accreditatie geaccepteerd college dat een of meer BRL’en onder beheer heeft en waarin de bij certificatie belanghebbende partijen zijn vertegenwoordigd; CROW: kenniscentrum voor infrastructuur, verkeer, vervoer en openbare ruimte te Ede; CROW publicatie: publicatie van het CROW, waarvan de uitgave is opgenomen in bijlage D; Deelpartij: partij die is afgezonderd van een gekeurde partij; Gestandaardiseerde gehalten: volgens onderdeel III in bijlage G naar standaardbodem gecorrigeerde gehalten in de bodem of oever van een oppervlaktewaterlichaam, grond of baggerspecie;  HG3: het rekenkundig gemiddelde van de drie hoogste grondwaterstanden per hydrologisch jaar; Hydrologisch jaar: hydrologisch jaar als gedefinieerd in [artikel 1, eerste lid, van het Stortbesluit bodembescherming](../../../../AMvB/stortbesluit/bodembescherming/BWBR0005858/README.md);K-waarde: waarde die een maat vormt voor de keuringsfrequentie bij erkende kwaliteitsverklaringen en een criterium geeft voor het afgeven van een fabrikant-eigenverklaring; Kengetal: statistische maat voor de verdeling van de gemeten gehalten binnen een bodemkwaliteitszone; Lutum: gewichtspercentage minerale bestanddelen met een diameter kleiner dan 2 µm, betrokken op het totale drooggewicht van grond of baggerspecie; MsPAF: Meer stoffen-Potentieel Aangetaste Fractie van lagere organismen, zijnde een aanduiding voor ecologische risico’s als gevolg van bodemverontreiniging; Nationale BRL: door de Harmonisatie Commissie Bouw aanvaarde BRL voor het afgeven van kwaliteitsverklaringen; NEN: Nederlandse Norm, uitgegeven door het Nederlands Normalisatie-instituut, waarvan de uitgave is opgenomen in bijlage D; NEN-EN: Europese Norm, uitgegeven door het Nederlands Normalisatie-instituut, waarvan de uitgave is opgenomen in bijlage D; NEN-ISO: Internationale Norm, uitgegeven door het Nederlands Normalisatie-instituut, waarvan de uitgave is opgenomen in bijlage D; NPR: Nederlandse Praktijkrichtlijn van het Nederlands Normalisatie-instituut, waarvan de uitgave is opgenomen in bijlage D; NVN: Nederlandse Voornorm, vooruitlopend op een NEN-norm, waarvan de uitgave is opgenomen in bijlage D; P95: 95-percentielwaarde, zijnde een kengetal van de kwaliteit van de bodem binnen een bodemkwaliteitszone, welke per stof wordt uitgedrukt in een gehalte (mg/kg droge stof), betreffende de waarde waarvoor geldt dat ten minste 95% van de meetwaarden voor de stof binnen de bodemkwaliteitszone een waarde heeft die kleiner dan of gelijk is aan deze waarde, berekend met de ‘Empirical distribution function with interpolation (MS Excel) method’]; Sanering van de bodem: beperken en zoveel mogelijk ongedaan maken van verontreiniging en de directe gevolgen daarvan of van dreigende verontreiniging van de bodem, alsmede de nazorg daarvan; Standaardbodem: bodem met 25% lutum en 10% organische stof;  zoet oppervlaktewaterlichaam: oppervlaktewaterlichaam, niet zijnde een zout oppervlaktewaterlichaam; zout oppervlaktewaterlichaam: Zeeuwse Delta, Waddenzee of Noordzee, inclusief de havens die hiermee in open verbinding staan en die geen open verbinding hebben met hun achterland.
+In deze regeling wordt verstaan onder: Aantoonbaarheidsgrens: laagste gehalte van een parameter waarbij de aanwezigheid daarvan aantoonbaar is volgens AP 04, bedoeld in bijlage C voor bouwstoffen en volgens bijlage L voor bodem, grond en baggerspecie; ASTM-norm: normdocument uitgegeven door de American Society for Testing and Materials, waarvan de uitgave is weergegeven in bijlage D ; Bepalingsgrens: laagste kwantificeerbare gehalte van een parameter, dat voor bouwstoffen overeenkomt met driemaal de aantoonbaarheidsgrens en voor bodem, grond en baggerspecie is opgenomen in bijlage L ; Besluit: Besluit bodemkwaliteit; Bodem+: onderdeel van Rijkswaterstaat; Bodemkwaliteitszone: aaneengesloten deel of meerdere niet aaneengesloten delen van een beheersgebied met een gelijke ontstaans- en gebruiksgeschiedenis, als gevolg waarvan sprake is van een vergelijkbare actuele kwaliteit van de bodem; BRL: beoordelingsrichtlijn, zijnde een door het college van deskundigen bindend verklaard document dat wordt gehanteerd als grondslag voor de afgifte en instandhouding van certificaten; CAS-nr: uniek identificatienummer dat is toegekend aan alle chemische stoffen die zijn geregistreerd door de Chemical Abstracts Service, die onderdeel is van de American Chemical Society. College van deskundigen: door de Raad voor Accreditatie geaccepteerd college dat een of meer BRL’en onder beheer heeft en waarin de bij certificatie belanghebbende partijen zijn vertegenwoordigd; CROW: kenniscentrum voor infrastructuur, verkeer, vervoer en openbare ruimte te Ede; CROW publicatie: publicatie van het CROW, waarvan de uitgave is opgenomen in bijlage D; Deelpartij: partij die is afgezonderd van een gekeurde partij; Gestandaardiseerde gehalten: volgens onderdeel III in bijlage G naar standaardbodem gecorrigeerde gehalten in de bodem of oever van een oppervlaktewaterlichaam, grond of baggerspecie;  HG3: het rekenkundig gemiddelde van de drie hoogste grondwaterstanden per hydrologisch jaar; Hydrologisch jaar: hydrologisch jaar als gedefinieerd in artikel 1, eerste lid, van het Stortbesluit bodembescherming;K-waarde: waarde die een maat vormt voor de keuringsfrequentie bij erkende kwaliteitsverklaringen en een criterium geeft voor het afgeven van een fabrikant-eigenverklaring; Kengetal: statistische maat voor de verdeling van de gemeten gehalten binnen een bodemkwaliteitszone; Lutum: gewichtspercentage minerale bestanddelen met een diameter kleiner dan 2 µm, betrokken op het totale drooggewicht van grond of baggerspecie; MsPAF: Meer stoffen-Potentieel Aangetaste Fractie van lagere organismen, zijnde een aanduiding voor ecologische risico’s als gevolg van bodemverontreiniging; Nationale BRL: door de Harmonisatie Commissie Bouw aanvaarde BRL voor het afgeven van kwaliteitsverklaringen; NEN: Nederlandse Norm, uitgegeven door het Nederlands Normalisatie-instituut, waarvan de uitgave is opgenomen in bijlage D; NEN-EN: Europese Norm, uitgegeven door het Nederlands Normalisatie-instituut, waarvan de uitgave is opgenomen in bijlage D; NEN-ISO: Internationale Norm, uitgegeven door het Nederlands Normalisatie-instituut, waarvan de uitgave is opgenomen in bijlage D; NPR: Nederlandse Praktijkrichtlijn van het Nederlands Normalisatie-instituut, waarvan de uitgave is opgenomen in bijlage D; NVN: Nederlandse Voornorm, vooruitlopend op een NEN-norm, waarvan de uitgave is opgenomen in bijlage D; P95: 95-percentielwaarde, zijnde een kengetal van de kwaliteit van de bodem binnen een bodemkwaliteitszone, welke per stof wordt uitgedrukt in een gehalte (mg/kg droge stof), betreffende de waarde waarvoor geldt dat ten minste 95% van de meetwaarden voor de stof binnen de bodemkwaliteitszone een waarde heeft die kleiner dan of gelijk is aan deze waarde, berekend met de ‘Empirical distribution function with interpolation (MS Excel) method’]; Sanering van de bodem: beperken en zoveel mogelijk ongedaan maken van verontreiniging en de directe gevolgen daarvan of van dreigende verontreiniging van de bodem, alsmede de nazorg daarvan; Standaardbodem: bodem met 25% lutum en 10% organische stof;  zoet oppervlaktewaterlichaam: oppervlaktewaterlichaam, niet zijnde een zout oppervlaktewaterlichaam; zout oppervlaktewaterlichaam: Zeeuwse Delta, Waddenzee of Noordzee, inclusief de havens die hiermee in open verbinding staan en die geen open verbinding hebben met hun achterland.
 
 ### Artikel  1.2  
 
-Deze regeling berust mede op [artikel 11A.2, zesde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md)en [artikel 11, derde lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md). 
+Deze regeling berust mede op artikel 11A.2, zesde lid, van de Wet milieubeheeren artikel 11, derde lid, van het besluit. 
 
 ### Hoofdstuk  2  
 
@@ -29,25 +29,25 @@ Deze regeling berust mede op [artikel 11A.2, zesde lid, van de Wet milieubeheer]
 
 ####Aanwijzing van werkzaamheden
 
-1.  Als werkzaamheden als bedoeld in het [besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) worden aangewezen de werkzaamheden die behoren tot de volgende categorieën: 
+1.  Als werkzaamheden als bedoeld in het besluit worden aangewezen de werkzaamheden die behoren tot de volgende categorieën: 
 
 a. aanleg van bodembeschermende voorzieningen;  
 
 b. afgeven van kwaliteitsverklaringen op grond van een nationale BRL;  
 
-c. analyse van bouwstoffen, grond of baggerspecie ter voldoening aan een verplichting die geldt bij of krachtens het [besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+c. analyse van bouwstoffen, grond of baggerspecie ter voldoening aan een verplichting die geldt bij of krachtens het besluit;  
 
-d. analyse voor milieuhygiënisch bodemonderzoek bij een verkennend onderzoek, een orienterend onderzoek, een nader onderzoek of een saneringsonderzoek als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) of een vergelijkbaar onderzoek van de bodem, dan wel bij een onderzoek in het kader van een ingreep in de bodem of oever van een oppervlaktewaterlichaam;  
+d. analyse voor milieuhygiënisch bodemonderzoek bij een verkennend onderzoek, een orienterend onderzoek, een nader onderzoek of een saneringsonderzoek als bedoeld in artikel 1 van de Wet bodembescherming of een vergelijkbaar onderzoek van de bodem, dan wel bij een onderzoek in het kader van een ingreep in de bodem of oever van een oppervlaktewaterlichaam;  
 
-e. bewerking van verontreinigde grond of baggerspecie, zijnde de procesmatige ex situ reiniging en bewerking daarvan, met uitzondering van het ontwateren van baggerspecie waarvoor op grond van de [Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) geen vergunning is vereist;  
+e. bewerking van verontreinigde grond of baggerspecie, zijnde de procesmatige ex situ reiniging en bewerking daarvan, met uitzondering van het ontwateren van baggerspecie waarvoor op grond van de Wet milieubeheer geen vergunning is vereist;  
 
 f. certificering van personen voor werkzaamheden die in de uitoefening van een bedrijf worden uitgevoerd;  
 
 g. periodieke inspectie van bodembeschermende voorzieningen;  
 
-h. milieukundige begeleiding die bestaat uit verificatie en processturing bij een sanering van bodem of uit processturing bij een ingreep in de bodem of oever van een oppervlaktewaterlichaam als bedoeld in [artikel 1.1. van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md), waarbij meer dan 1000 m<sup>3</sup> van die bodem of oever van een oppervlaktewaterlichaam de interventiewaarden, bedoeld in tabel 2 van bijlage B, overschrijdt;  
+h. milieukundige begeleiding die bestaat uit verificatie en processturing bij een sanering van bodem of uit processturing bij een ingreep in de bodem of oever van een oppervlaktewaterlichaam als bedoeld in artikel 1.1. van de Waterwet, waarbij meer dan 1000 m<sup>3</sup> van die bodem of oever van een oppervlaktewaterlichaam de interventiewaarden, bedoeld in tabel 2 van bijlage B, overschrijdt;  
 
-i. monsterneming bij partijkeuringen ter voldoening aan een verplichting die geldt bij of krachtens het [besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+i. monsterneming bij partijkeuringen ter voldoening aan een verplichting die geldt bij of krachtens het besluit;  
 
 j. produceren van bouwstoffen, grond of baggerspecie die is bestemd voor toepassing in Nederland en waarvoor een kwaliteitsverklaring is afgegeven die erkend is volgens de eisen van de desbetreffende bij categorie 10 in bijlage C aangewezen nationale BRL en de eisen in het document HCB/2009-200 van de Harmonisatie Commissie Bouw, dat is opgenomen in bijlage D;  
 
@@ -76,14 +76,14 @@ u. ontwerpen, installeren, beheren en onderhouden van het ondergrondse deel van 
 v. ontwerpen, installeren en beheren van het bovengrondse deel van bodemenergiesystemen.    
 2.  De handelingen, bedoeld in het eerste lid, onder a, d, g, h, k, l, m, n en u, zijn alleen aangemerkt als werkzaamheid voor zover ze worden uitgevoerd: 
 
-a. ter verkrijging van een beschikking die op grond van een bij of krachtens een in [artikel 21, tweede lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) genoemd wettelijk voorschrift wordt gegeven;  
+a. ter verkrijging van een beschikking die op grond van een bij of krachtens een in artikel 21, tweede lid, van het besluit genoemd wettelijk voorschrift wordt gegeven;  
 
-b. ter voldoening aan een bij of krachtens [artikel 22, tweede lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) geldende verplichting, [artikel 13 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) of [artikel 6.8 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md); 
+b. ter voldoening aan een bij of krachtens artikel 22, tweede lid, van het besluit geldende verplichting, artikel 13 van de Wet bodembescherming of artikel 6.8 van de Waterwet; 
 
-c. ter voorbereiding van het opstellen van een beheerplan als bedoeld in [artikel 4.6 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) of een projectplan als bedoeld in [artikel 5.4 van die wet](../../../../wet/waterwet/BWBR0025458/README.md), of ter uitvoering van bedoeld beheerplan of projectplan, of 
+c. ter voorbereiding van het opstellen van een beheerplan als bedoeld in artikel 4.6 van de Waterwet of een projectplan als bedoeld in artikel 5.4 van die wet, of ter uitvoering van bedoeld beheerplan of projectplan, of 
 
-d. ter voldoening aan een wettelijk voorschrift voorzover bij of krachtens dat voorschrift is bepaald dat de werkzaamheid wordt uitgevoerd door een persoon of instelling die op grond van het [besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) daartoe is erkend.     
-3.  De handeling, bedoeld in het eerste lid, onder k, wordt niet aangemerkt als werkzaamheid, indien [artikel 27](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) of [30 van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md) of [artikel 5.15](../../../../wet/waterwet/BWBR0025458/README.md) of [6.9 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) daarop van toepassing is en onverwijld maatregelen moeten worden genomen om de verontreiniging of de aantasting van de bodem en de directe gevolgen daarvan te beperken en zoveel mogelijk ongedaan te maken.   
+d. ter voldoening aan een wettelijk voorschrift voorzover bij of krachtens dat voorschrift is bepaald dat de werkzaamheid wordt uitgevoerd door een persoon of instelling die op grond van het besluit daartoe is erkend.     
+3.  De handeling, bedoeld in het eerste lid, onder k, wordt niet aangemerkt als werkzaamheid, indien artikel 27 of 30 van de Wet bodembescherming of artikel 5.15 of 6.9 van de Waterwet daarop van toepassing is en onverwijld maatregelen moeten worden genomen om de verontreiniging of de aantasting van de bodem en de directe gevolgen daarvan te beperken en zoveel mogelijk ongedaan te maken.   
 4.  De werkzaamheden, bedoeld in het eerste lid, zijn beschreven in de normdocumenten, aangewezen in artikel 2.7.  
 
 ### Artikel  2.2  
@@ -103,27 +103,27 @@ d. ter voldoening aan een wettelijk voorschrift voorzover bij of krachtens dat v
 
 ####Persoonsregistratie
 
-Als handelingen als bedoeld in [artikel 9, tweede lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) worden aangewezen de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onder h, i en l, voorzover deze handelingen in het tweede lid van laatstgenoemd artikel zijn aangemerkt als werkzaamheid. 
+Als handelingen als bedoeld in artikel 9, tweede lid, van het besluit worden aangewezen de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onder h, i en l, voorzover deze handelingen in het tweede lid van laatstgenoemd artikel zijn aangemerkt als werkzaamheid. 
 
 ### Artikel  2.4  
 
 ####Website voor erkende personen en instellingen
 
-Als website, bedoeld in [artikel 9 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) wordt aangewezen: http://www.bodemplus.nl. 
+Als website, bedoeld in artikel 9 van het besluit wordt aangewezen: http://www.bodemplus.nl. 
 
 ### Artikel  2.5  
 
 ####Onafhankelijkheidseisen
 
-1.  Als handeling als bedoeld in [artikel 17, eerste lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) worden aangewezen de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onder c, d, i, l en, voor zover het de verificatie betreft, h.   
-2.  Als handeling als bedoeld in [artikel 17, tweede lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) worden aangewezen de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onder b, g, f, n en t.   
+1.  Als handeling als bedoeld in artikel 17, eerste lid, van het besluit worden aangewezen de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onder c, d, i, l en, voor zover het de verificatie betreft, h.   
+2.  Als handeling als bedoeld in artikel 17, tweede lid, van het besluit worden aangewezen de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onder b, g, f, n en t.   
 3.  Ten aanzien van het eerste en tweede lid is artikel 2.1, tweede lid, van overeenkomstige toepassing.  
 
 ### Artikel  2.6  
 
 ####Formulieren voor aanvragen, verzoeken en meldingen
 
-Het formulier, bedoeld in de [artikelen 10](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [12, tweede lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [19](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en [20 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) is verkrijgbaar bij Bodem+. 
+Het formulier, bedoeld in de artikelen 10, 12, tweede lid, 19 en 20 van het besluit is verkrijgbaar bij Bodem+. 
 
 ### Artikel  2.7  
 
@@ -467,9 +467,9 @@ f. de grootte van de partij in tonnen;
 
 a. een daarbij behorende partijkeuring aanwezig is;  
 
-b. de partij wordt hergebruikt als bedoeld in [artikel 29, eerste lid, onder c van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).  
+b. de partij wordt hergebruikt als bedoeld in artikel 29, eerste lid, onder c van het besluit.  
 
-c. de partij wordt toegepast door de natuurlijke personen, bedoeld in [artikel 29, eerste lid, onder e van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md)     
+c. de partij wordt toegepast door de natuurlijke personen, bedoeld in artikel 29, eerste lid, onder e van het besluit     
 3.  De eigenaar van de partij maakt in zijn administratie inzichtelijk waar de partij vandaan komt, of deze is gesplitst en wat de bestemming is.  
 
 ### Artikel  3.7.3  
@@ -496,13 +496,13 @@ c. de partij wordt toegepast door de natuurlijke personen, bedoeld in [artikel 2
 
 ####Meldingen
 
-De melding, bedoeld in [artikel 32, eerste en tweede lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md)wordt gedaan door middel van het daartoe bestemde formulier dat verkrijgbaar is bij Bodem+. 
+De melding, bedoeld in artikel 32, eerste en tweede lid, van het besluitwordt gedaan door middel van het daartoe bestemde formulier dat verkrijgbaar is bij Bodem+. 
 
 ### Artikel  3.8.2  
 
 ####Onderzoek in het kader van de handhaving
 
-1.  Een onderzoek in het kader van de handhaving van de eisen in [artikel 28, eerste lid, onder b, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), wordt verricht overeenkomstig artikel 3.4.1.   
+1.  Een onderzoek in het kader van de handhaving van de eisen in artikel 28, eerste lid, onder b, van het besluit, wordt verricht overeenkomstig artikel 3.4.1.   
 2.  Bij een onderzoek als bedoeld in het eerste lid, wordt beoordeeld: 
 
 a. de partij als geheel, zoals aangegeven op de milieuhygiënische verklaring of de afleverbon;  
@@ -512,7 +512,7 @@ b. de partij zoals ter plaatse aanwezig bij de producent;
 c. de partij zoals toegepast in het werk, of  
 
 d. een onderdeel van de partij, waarbij dit onderdeel ten minste 10.000 ton bedraagt.     
-3.  Er is sprake van een overtreding van [artikel 28, eerste lid, onder b, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), indien het in het eerste lid bedoelde onderzoek uitwijst dat de maximale waarden, bedoeld in artikel 3.3.3, eerste lid, met ten minste een factor 1,4 worden overschreden, ongeacht de variatie in het onderzoeksresultaat ten gevolge van de mate van heterogeniteit van de partij.  
+3.  Er is sprake van een overtreding van artikel 28, eerste lid, onder b, van het besluit, indien het in het eerste lid bedoelde onderzoek uitwijst dat de maximale waarden, bedoeld in artikel 3.3.3, eerste lid, met ten minste een factor 1,4 worden overschreden, ongeacht de variatie in het onderzoeksresultaat ten gevolge van de mate van heterogeniteit van de partij.  
 
 ### Artikel  3.8.3  
 
@@ -608,7 +608,7 @@ c. de grondwaterstand, bedoeld onder a, te vermeerderen met het verschil tussen 
 
 1.  Alvorens de IBC-bouwstof wordt toegepast, wordt een nulonderzoek uitgevoerd op de bodem, inclusief het grondwater, volgens het daarvoor geldende protocol, bedoeld in bijlage D.   
 2.  Het nulonderzoek bestaat uit veldwerk en analyse voor milieuhygiënisch bodemonderzoek van de daaruit verkregen monsters.   
-3.  Indien getoetst wordt aan de [Circulaire bodemsanering 2009](../../../../circulaire/circulaire/bodemsanering/2009/BWBR0025649/README.md) zoals gewijzigd op 3 april 2012, worden de regels in bijlage G, onder III en IV, toegepast. 
+3.  Indien getoetst wordt aan de Circulaire bodemsanering 2009 zoals gewijzigd op 3 april 2012, worden de regels in bijlage G, onder III en IV, toegepast. 
 
 ### Artikel  3.9.6  
 
@@ -681,12 +681,12 @@ Indien controlewerkzaamheden aantonen dat een toepassing van een IBC-bouwstof ni
 
 ####Aanvraag ontheffing bij gelijkwaardigheid
 
-1.  Het formulier, bedoeld in [artikel 31, derde lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), is verkrijgbaar bij Bodem+.   
+1.  Het formulier, bedoeld in artikel 31, derde lid, van het besluit, is verkrijgbaar bij Bodem+.   
 2.  Bij de aanvraag wordt een beschrijving gevoegd van de techniek en aangetoond dat wordt voldaan aan gelijkwaardigheid met de voorgeschreven technieken, waarbij artikel 3.9.2, tweede en negende lid, onverkort van toepassing zijn.  
 
 ### Artikel  3.10.2  
 
-De verklaring behorende bij de ontheffing, bedoeld in [artikel 31, eerste lid van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), waaruit blijkt dat ten minste dezelfde mate van bescherming van de bodem wordt geboden als is beoogd met de betrokken eis, stellen Onze Ministers vrij beschikbaar via de website van Bodem+. 
+De verklaring behorende bij de ontheffing, bedoeld in artikel 31, eerste lid van het besluit, waaruit blijkt dat ten minste dezelfde mate van bescherming van de bodem wordt geboden als is beoogd met de betrokken eis, stellen Onze Ministers vrij beschikbaar via de website van Bodem+. 
 
 ### Artikel  3.10.3  
 
@@ -700,8 +700,8 @@ De ontheffing kan worden verleend onder de voorwaarde dat deze alleen geldt onde
 
 ### Artikel  3.11.1  
 
-1.  Als de herkomstgebieden, bedoeld in [artikel 33c, eerste lid, aanhef en onder a, van het Besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), worden aangewezen de gebieden, bedoeld in bijlage P, onder a en b.   
-2.  Als de toepassingsgebieden, bedoeld in [artikel 33c, eerste lid, aanhef en onder b, van het Besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), worden aangewezen de op de kaarten 1 tot en met 7 in bijlage Q als mijnsteengebieden aangeduide gebieden.  
+1.  Als de herkomstgebieden, bedoeld in artikel 33c, eerste lid, aanhef en onder a, van het Besluit, worden aangewezen de gebieden, bedoeld in bijlage P, onder a en b.   
+2.  Als de toepassingsgebieden, bedoeld in artikel 33c, eerste lid, aanhef en onder b, van het Besluit, worden aangewezen de op de kaarten 1 tot en met 7 in bijlage Q als mijnsteengebieden aangeduide gebieden.  
 
 ### Artikel  3.11.2  
 
@@ -743,7 +743,7 @@ b. de maximale waarden voor de kwaliteitsklasse wonen of industrie, bedoeld in t
 
 c.de emissietoetswaarden, bedoeld in de tabellen 1 en 2 in bijlage B; 
 
-d. de lokale maximale waarden, bedoeld in [artikel 44, eerste lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).    
+d. de lokale maximale waarden, bedoeld in artikel 44, eerste lid, van het besluit.    
 2.  De gemeten gehalten worden voor lutum en organisch stof gecorrigeerd, volgens de rekenregels in bijlage G, onder III, om te bepalen of de kwaliteit van de grond of baggerspecie, die wordt toegepast in een oppervlaktewaterlichaam, een van de volgende waarden overschrijdt: 
 
 a. de achtergrondwaarden, bedoeld in de tabellen 1 en 2 in bijlage B;  
@@ -752,10 +752,10 @@ b. de maximale waarden voor kwaliteitsklasse A, bedoeld in tabel 2 van bijlage B
 
 c. de maximale waarden voor kwaliteitsklasse B, zijnde de interventiewaarden voor de bodem of oever van oppervlaktewaterlichamen, bedoeld in tabel 2 van bijlage B,  
 
-d. de lokale maximale waarden, bedoeld in [artikel 45, eerste lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md); 
+d. de lokale maximale waarden, bedoeld in artikel 45, eerste lid, van het besluit; 
 
 e.de emissietoetswaarden, bedoeld in de tabellen 1 en 2 in bijlage B.    
-3.  In afwijking van het tweede lid, worden de gemeten gehalten voor lutum en organisch stof gecorrigeerd volgens de rekenregels in onderdeel III van bijlage G, om te bepalen of de kwaliteit van de baggerspecie, die wordt toepast als bedoeld in [artikel 35 onder f, g en i van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), een van de volgende waarden overschrijdt: 
+3.  In afwijking van het tweede lid, worden de gemeten gehalten voor lutum en organisch stof gecorrigeerd volgens de rekenregels in onderdeel III van bijlage G, om te bepalen of de kwaliteit van de baggerspecie, die wordt toepast als bedoeld in artikel 35 onder f, g en i van het besluit, een van de volgende waarden overschrijdt: 
 
 a. de maximale waarden voor het verspreiden van baggerspecie over het aangrenzende perceel, bedoeld in tabel 1 van bijlage B;  
 
@@ -794,7 +794,7 @@ e. bij meting van ten minste 37 stoffen waarvoor een waarde is opgenomen in de t
 
 ####Kengetal in bodemkwaliteitszone
 
-1.  In afwijking van artikel 4.2.2, eerste lid, kan de gemeenteraad of Onze Minister van Verkeer en Waterstaat of het algemeen bestuur van het waterschapop grond van respectievelijk de [artikelen 44, eerste lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) en [45, eerste lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), een bodembeheergebied indelen in bodemkwaliteitszones en daarvoor per stof een kengetal vaststellen om te bepalen of de kwaliteit van de grond of baggerspecie de lokale maximale waarden, bedoeld in de [artikelen 44, eerste lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), en [45, eerste lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), overschrijdt.   
+1.  In afwijking van artikel 4.2.2, eerste lid, kan de gemeenteraad of Onze Minister van Verkeer en Waterstaat of het algemeen bestuur van het waterschapop grond van respectievelijk de artikelen 44, eerste lid en 45, eerste lid, van het besluit, een bodembeheergebied indelen in bodemkwaliteitszones en daarvoor per stof een kengetal vaststellen om te bepalen of de kwaliteit van de grond of baggerspecie de lokale maximale waarden, bedoeld in de artikelen 44, eerste lid, en 45, eerste lid, overschrijdt.   
 2.  Het kengetal, bedoeld in het vorige lid, is voor alle onderzochte stoffen gelijk aan of hoger dan het rekenkundig gemiddelde gehalte van de stof in de bodemkwaliteitszone.   
 3.  De kwaliteit van grond of baggerspecie overschrijdt de lokale maximale waarden, bedoeld in artikel 4.2.1, eerste lid, onder d, indien voor een of meer van de gemeten stoffen het kengetal in de bodemkwaliteitszone waarvan de grond of baggerspecie afkomstig is, hoger is dan de lokale maximale waarden.   
 4.  De kwaliteit van grond of baggerspecie overschrijdt de lokale maximale waarden, bedoeld in artikel 4.2.1, tweede lid onder d, indien voor een of meer van de gemeten stoffen het kengetal in de bodemkwaliteitszone waarvan de grond of baggerspecie afkomstig is, hoger is dan de lokale maximale waarden.  
@@ -834,7 +834,7 @@ a. in dezelfde bodemkwaliteitsklasse zijn ingedeeld, en
 b. zijn gekeurd en samengevoegd overeenkomstig BRL 9335 of BRL 7500, door een persoon of instelling die daartoe beschikt over een erkenning.     
 2.  Bij het samenvoegen van partijen grond of baggerspecie vervallen de milieuhygiënische verklaringen voor de oorspronkelijke partijen en verstrekt de persoon of instelling die de partijen heeft samengevoegd daarvoor een milieuhygiënische verklaring.  
 3. Voor het samenvoegen van partijen grond of baggerspecie die kleiner zijn dan 100 ton, is het toegestaan om in afwijking van het eerste lid, onder a, partijen grond of baggerspecie van verschillende of onbekende bodemkwaliteitsklassen samen te voegen overeenkomstig BRL 9335 of BRL 7500.
-4. Het eerste lid, onderdeel b, is niet van toepassing op het samenvoegen van partijen grond of baggerspecie als bedoeld in [artikel 39 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) die voorzien zijn van een erkende kwaliteitsverklaring als bedoeld in artikel 4.3.6, overeenkomstig BRL 9313 of BRL 9321.
+4. Het eerste lid, onderdeel b, is niet van toepassing op het samenvoegen van partijen grond of baggerspecie als bedoeld in artikel 39 van het besluit die voorzien zijn van een erkende kwaliteitsverklaring als bedoeld in artikel 4.3.6, overeenkomstig BRL 9313 of BRL 9321.
 
 ### Artikel  4.3.3  
 
@@ -847,7 +847,7 @@ a. de grootte van de partij maximaal 10.000 ton bedraagt;
 b. monsters worden genomen die uit ten minste 100 aselect of systematisch als punten van een regelmatig raster over de hele partij genomen grepen bestaan;  
 
 c. De grepen worden evenredig verdeeld over ten minste twee te analyseren mengmonsters.    
-2.  Bij toepassingen als bedoeld in [artikel 63 van het Besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md): 
+2.  Bij toepassingen als bedoeld in artikel 63 van het Besluit: 
 
 a. wordt de emissie bepaald door middel van de kolomproef volgens NEN 7373 of NEN 7383 aan de hand van ten minste één mengmonster, zoals bedoeld in het eerste lid, onder c;  
 
@@ -899,7 +899,7 @@ b. de toetsing of sprake is van schone bodem op grootschalige locaties;
 
 c. de partijkeuring van niet-schone grond uit een diffuus belast gebied met een heterogene verdeling van de verontreinigende stof.     
 3.  Bodemonderzoeken zijn toegestaan als milieuhygiënische verklaring voor de kwaliteit van baggerspecie en de bodem onder oppervlaktewater, mits deze voldoen aan het toepassinggebied, bedoeld in NEN 5720.  
-4.  Bodemonderzoek is niet noodzakelijk voor het verspreiden van baggerspecie als bedoeld in [artikel 35, onder f en i, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), indien deze niet afkomstig is van oppervlaktewateren in de gebieden: 
+4.  Bodemonderzoek is niet noodzakelijk voor het verspreiden van baggerspecie als bedoeld in artikel 35, onder f en i, van het besluit, indien deze niet afkomstig is van oppervlaktewateren in de gebieden: 
 
 a. die zijn bebouwd, daaronder begrepen kassen- en industriegebieden;  
 
@@ -911,16 +911,16 @@ d. grenzend aan wegen met een verkeersintensiteit van meer dan 500 voertuigen pe
 
 e. met een oeverbeschoeiing die bestaat uit met gecreosoteerde olie behandeld hout;  
 
-f. waarvan redelijkerwijs vermoed kan worden dat deze niet voldoen aan de maximale waarden voor het verspreiden van baggerspecie als bedoeld in [artikel 35, onder f en i, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), of  
+f. waarvan redelijkerwijs vermoed kan worden dat deze niet voldoen aan de maximale waarden voor het verspreiden van baggerspecie als bedoeld in artikel 35, onder f en i, van het besluit, of  
 
-g. die niet zijn aangegeven in een beheerplan als bedoeld in [artikel 4.6 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md).     
+g. die niet zijn aangegeven in een beheerplan als bedoeld in artikel 4.6 van de Waterwet.     
 5.   Bij bodemonderzoeken als bedoeld in het eerste en derde lid kan onderzoek naar de kwaliteit van het grondwater en de kwaliteit van de grond van de ontvangende bodem, die zich bevindt op 0,5 meter en dieper onder het maaiveld, achterwege blijven. 
 
 ### Artikel  4.3.5  
 
 ####Bodemkwaliteitskaart
 
-1.  Een kaart als bedoeld in [artikel 47, onder a](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), [48, onder a](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), en [57, tweede lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), wordt opgesteld volgens de richtlijnen in bijlage D, onderdeel II, van deze regeling en voldoet aan de eisen in bijlage M van deze regeling.   
+1.  Een kaart als bedoeld in artikel 47, onder a, 48, onder a, en 57, tweede lid, van het besluit, wordt opgesteld volgens de richtlijnen in bijlage D, onderdeel II, van deze regeling en voldoet aan de eisen in bijlage M van deze regeling.   
 2.  Het bevoegd gezag zendt de geografische bronbestanden van een kaart als bedoeld in het eerste lid, uiterlijk twee maanden na vaststelling aan Bodem<sup>+</sup>.   
 3.  Op grond van een bodemkwaliteitskaart kan een milieuhygienische verklaring worden afgegeven van: 
 
@@ -931,9 +931,9 @@ b. de grond of baggerspecie.
 
 a. de toepassingslocatie en de plaats van herkomst van de grond of baggerspecie gelegen zijn binnen het gebied waarop de bodemkwaliteitskaart betrekking heeft, of  
 
-b. de grond of baggerspecie afkomstig is van een bodembeheergebied, dat op grond van [artikel 47 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) als basis kan dienen voor milieuhygiënische verklaringen, en daarbinnen wordt toegepast, en  
+b. de grond of baggerspecie afkomstig is van een bodembeheergebied, dat op grond van artikel 47 van het besluit als basis kan dienen voor milieuhygiënische verklaringen, en daarbinnen wordt toegepast, en  
 
-c. voor alle gemeten stoffen de P95 van de bodemkwaliteitszone van de plaats van herkomst van de grond of baggerspecie op de toepassingslocatie niet leidt tot een overschrijding van de waarden, bedoeld in [artikel 44, tweede lid, onder c](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), hetgeen wordt berekend met behulp van de risicomodule, bedoeld in artikel 4.8.1,    
+c. voor alle gemeten stoffen de P95 van de bodemkwaliteitszone van de plaats van herkomst van de grond of baggerspecie op de toepassingslocatie niet leidt tot een overschrijding van de waarden, bedoeld in artikel 44, tweede lid, onder c, hetgeen wordt berekend met behulp van de risicomodule, bedoeld in artikel 4.8.1,    
 
 ### Artikel  4.3.6  
 
@@ -990,7 +990,7 @@ a. voor welke stoffen de kans op overschrijding van de achtergrondwaarden hoger 
 
 b. welke stoffen van natuurlijke oorsprong of vanwege het gebruik de achtergrondwaarden overschrijden, en kunnen voorkomen in het gebied waar de grond of baggerspecie van afkomstig is;  
 
-c. de emissie van de stoffen waarvan de kans op overschrijding van de maximale emissiewaarden hoger is dan 5% voor toepassingen als bedoeld in [artikel 63 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), tenzij wordt voldaan aan artikel 4.12.1, tweede of derde lid.     
+c. de emissie van de stoffen waarvan de kans op overschrijding van de maximale emissiewaarden hoger is dan 5% voor toepassingen als bedoeld in artikel 63 van het besluit, tenzij wordt voldaan aan artikel 4.12.1, tweede of derde lid.     
 2.  Het eerste lid, onder a, is niet van toepassing op baggerspecie van oppervlaktewaterlichamen die in beheer zijn bij het Rijk, indien de baggerspecie daarin wordt toegepast.  
 
 ### Paragraaf  4.6  
@@ -1001,7 +1001,7 @@ c. de emissie van de stoffen waarvan de kans op overschrijding van de maximale e
 
 ####Meldingsformulier
 
-Het model-meldingsformulier, bedoeld in [artikel 42, zesde lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), is verkrijgbaar bij Bodem+. 
+Het model-meldingsformulier, bedoeld in artikel 42, zesde lid, van het besluit, is verkrijgbaar bij Bodem+. 
 
 ### Afdeling  2  
 
@@ -1051,7 +1051,7 @@ ii. niet nagenoeg geheel verhard.
 
 ####Methode voor bepalen gevolgen lokale maximale waarden
 
-1.  Het bevoegd gezag bepaalt de gevolgen, bedoeld in de [artikelen 47, onder d](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), en [48, onder c, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), met de risicomodule ‘gevolgen lokale maximale waarden’ van de Risicotoolbox Bodembeheer, aangeboden als webapplicatie op www.risicotoolboxbodem.nl, indien: 
+1.  Het bevoegd gezag bepaalt de gevolgen, bedoeld in de artikelen 47, onder d, en 48, onder c, van het besluit, met de risicomodule ‘gevolgen lokale maximale waarden’ van de Risicotoolbox Bodembeheer, aangeboden als webapplicatie op www.risicotoolboxbodem.nl, indien: 
 
 a. de lokale maximale waarden hoger zijn dan: 
 
@@ -1066,7 +1066,7 @@ a. de lokale maximale waarden hoger zijn dan:
 5°. de achtergrondwaarden, indien de kwaliteit van de bodem of oever van een oppervlaktewaterlichaam in het bodembeheergebied de achtergrondwaarden niet overschrijdt       
 2.  De gevolgen, bedoeld in het eerste lid, worden afgeleid van ten minste de volgende gegevens: 
 
-a. de lokale maximale waarden, bedoeld in [artikel 44, eerste lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+a. de lokale maximale waarden, bedoeld in artikel 44, eerste lid, van het besluit;  
 
 b. de fractie organisch stof en lutum van de bodem in het bodembeheergebied;  
 
@@ -1087,7 +1087,7 @@ e. Risicotoolbox waterbodems 2.0.
 
 a. de bodem in het bodembeheergebied is blijvend geschikt voor alle actuele of toekomstige bodemfuncties of het actuele of toekomstige gebruik van een oppervlaktewaterlichaam in het betreffende gebied,  
 
-b. bij de actuele of toekomstige bodemfuncties of het actuele of voorgenomen gebruik van een oppervlaktewaterlichaam in het bodembeheergebied, kan sprake zijn van overschrijding van de waarden, bedoeld in [artikel 44, tweede lid, sub c, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), of  
+b. bij de actuele of toekomstige bodemfuncties of het actuele of voorgenomen gebruik van een oppervlaktewaterlichaam in het bodembeheergebied, kan sprake zijn van overschrijding van de waarden, bedoeld in artikel 44, tweede lid, sub c, van het besluit, of  
 
 c. er is noch sprake van uitkomst a, noch van uitkomst b.     
 6.  De risicomodule genereert een rapportage van de gegevens, bedoeld in het tweede lid, en de gevolgen, bedoeld in het vijfde lid.  
@@ -1096,13 +1096,13 @@ c. er is noch sprake van uitkomst a, noch van uitkomst b.
 
 ####Kaart van de actuele kwaliteit van de bodem
 
-De kaarten van de actuele kwaliteit van de bodem, bedoeld in [artikel 47, onder a, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), worden opgesteld volgens de richtlijnen, bedoeld in bijlage D, onder II, en voldoen aan de daaraan gestelde eisen in bijlage M. 
+De kaarten van de actuele kwaliteit van de bodem, bedoeld in artikel 47, onder a, van het besluit, worden opgesteld volgens de richtlijnen, bedoeld in bijlage D, onder II, en voldoen aan de daaraan gestelde eisen in bijlage M. 
 
 ### Artikel  4.8.3  
 
 ####Stoffen waarvoor geen lokale maximale waarden worden vastgesteld
 
-Het bevoegd gezag stelt voor toepassingen als bedoeld in [artikel 35, onder g, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), voorzover het toepassingen betreft in de Waddenzee, de Zeeuwse Delta of de Noordzee voor tributyltin geen lokale maximale waarde vast boven de maximale waarde voor tributyltin voor verspreiden van baggerspecie in een zout oppervlaktewaterlichaam, zoals opgenomen in tabel 2 van bijlage B. 
+Het bevoegd gezag stelt voor toepassingen als bedoeld in artikel 35, onder g, van het besluit, voorzover het toepassingen betreft in de Waddenzee, de Zeeuwse Delta of de Noordzee voor tributyltin geen lokale maximale waarde vast boven de maximale waarde voor tributyltin voor verspreiden van baggerspecie in een zout oppervlaktewaterlichaam, zoals opgenomen in tabel 2 van bijlage B. 
 
 ### Afdeling  3  
 
@@ -1124,7 +1124,7 @@ De maximale waarden voor de bodemfunctieklassen wonen en industrie zijn opgenome
 
 1.  Bodembeheergebieden met de bodemfuncties, genoemd in artikel 4.7.1, onder a, b, en f, worden ingedeeld in de bodemfunctieklasse wonen.   
 2.  Bodembeheergebieden met de bodemfuncties, genoemd in artikel 4.7.1., onder g, worden ingedeeld in de bodemfunctieklasse industrie.   
-3.  De eisen, bedoeld in [artikel 55, derde lid, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), zijn opgenomen in bijlage J.  
+3.  De eisen, bedoeld in artikel 55, derde lid, van het besluit, zijn opgenomen in bijlage J.  
 
 ### Paragraaf  4.10  
 
@@ -1195,7 +1195,7 @@ d. het tijdelijk opslaan van baggerspecie op percelen gelegen naast de watergang
 
 ####Maximale emissiewaarden
 
-1. Bij toepassingen als bedoeld in [artikel 63 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), overschrijdt de emissie van de grond of baggerspecie niet:
+1. Bij toepassingen als bedoeld in artikel 63 van het besluit, overschrijdt de emissie van de grond of baggerspecie niet:
 
 a. de maximale emissiewaarden, bedoeld in tabel 1 van bijlage B, indien het toepassingen op of in de bodem betreft;  
 
@@ -1216,14 +1216,38 @@ b. de toepassing zich onder het waterniveau bevindt en is gelegen binnen het beh
 
 ####Onderzoek in het kader van de handhaving
 
-1. Een onderzoek in het kader van de handhaving van [artikel 37, eerste lid van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) wordt verricht overeenkomstig artikel 4.3.3.
-2. Er is sprake van een overtreding van [artikel 37, eerste lid van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), indien het in het eerste lid bedoelde onderzoek uitwijst dat de maximale waarden, bedoeld in artikel 4.2.2, met ten minste een factor 1,4 worden overschreden, ongeacht de variatie in het onderzoeksresultaat ten gevolge van de mate van heterogeniteit van de partij. 
+1. Een onderzoek in het kader van de handhaving van artikel 37, eerste lid van het besluit wordt verricht overeenkomstig artikel 4.3.3.
+2. Er is sprake van een overtreding van artikel 37, eerste lid van het besluit, indien het in het eerste lid bedoelde onderzoek uitwijst dat de maximale waarden, bedoeld in artikel 4.2.2, met ten minste een factor 1,4 worden overschreden, ongeacht de variatie in het onderzoeksresultaat ten gevolge van de mate van heterogeniteit van de partij. 
 
 ### Artikel  4.13.2  
 
 ####Handhaving fabrikant-eigenverklaring
 
 Bij het uitoefenen van toezicht op de naleving van de vereisten voor het afgeven van een fabrikant-eigen verklaringen voor grond of baggerspecie is artikel 3.8.3 van overeenkomstige toepassing. 
+
+### Paragraaf  4.14  
+
+####Toepassen van tarragrond
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  4.14.1  
+
+####Toepassen van tarragrond
+
+Treedt in werking per 01-01-2015 
+
+Bij toepassing van tarragrond gelden de achtergrondwaarden alsmede de maximale waarden voor de kwaliteitsklasse wonen en industrie niet voor de stoffen cresolen (som), fenol, tolueen en minerale olie, indien de aanwezigheid van die stoffen in de tarragrond een gevolg is van natuurlijke processen. 
+
+### Artikel  4.14.2  
+
+####Toepassen van tarragrond van aardappelen die zijn behandeld met chloorprofam
+
+Treedt in werking per 01-01-2015 
+
+1.  Bij toepassing van tarragrond van aardappelen gelden de achtergrondwaarden en de maximale waarden voor de kwaliteitsklassen wonen en industrie niet voor de stof monochlooranilinen (som), opgenomen in tabel 1 van bijlage B.   
+2.  Tarragrond van aardappelen die zijn behandeld met chloorprofam wordt uitsluitend toegepast op de bodem, uitgezonderd de bodem of oever van een oppervlaktewaterlichaam, boven het maaiveld, voor zover niet gelegen in een Natura 2000-gebied of in de ecologische hoofdstructuur, bedoeld in artikel 2.10.1 van het Besluit algemene regels ruimtelijke ordening.   
+3.  De toegepaste tarragrond is schoon en onverdacht en bevat geen toevoegingen, met uitzondering van chloorprofam overeenkomstig de ingevolge de Wet gewasbeschermingsmiddelen en biociden toegestane dosering.  
 
 ### Hoofdstuk  5  
 
@@ -1239,51 +1263,51 @@ Bij het uitoefenen van toezicht op de naleving van de vereisten voor het afgeven
 
 De volgende regelingen worden ingetrokken: 
 
-a. [Uitvoeringsregeling Bouwstoffenbesluit](../../../../ministeriele-regeling/uitvoeringsregeling/bouwstoffenbesluit/BWBR0009345/README.md);  
+a. Uitvoeringsregeling Bouwstoffenbesluit;  
 
-b. [Wijzigingsbesluit Uitvoeringsregeling Bouwstoffenbesluit](../../../../ministeriele-regeling/wijzigingsbesluit/uitvoeringsregeling/bouwstoffenbesluit/BWBR0017327/README.md);  
+b. Wijzigingsbesluit Uitvoeringsregeling Bouwstoffenbesluit;  
 
-c. [Regeling aanwijzing grote oppervlaktewateren Bouwstoffenbesluit](../../../../ministeriele-regeling/regeling/aanwijzing/grote/oppervlaktewateren/bouwstoffenbesluit/BWBR0019394/README.md);  
+c. Regeling aanwijzing grote oppervlaktewateren Bouwstoffenbesluit;  
 
-d. [Vrijstellingsregeling grondverzet](../../../../ministeriele-regeling/vrijstellingsregeling/grondverzet/BWBR0010715/README.md);  
+d. Vrijstellingsregeling grondverzet;  
 
 e. Aanwijzingsbesluit merktekens Bouwstoffenbesluit;  
 
-f. [Besluit vaststelling model meldingsformulier voor het gebruik van bouwstoffen op of in de bodem](../../../../ministeriele-regeling/besluit/vaststelling/model/meldingsformulier/voor/het/gebruik/van/etc/BWBR0010125/README.md);  
+f. Besluit vaststelling model meldingsformulier voor het gebruik van bouwstoffen op of in de bodem;  
 
-g. [Regeling meldingen Bouwstoffenbesluit oppervlaktewater](../../../../ministeriele-regeling/regeling/meldingen/bouwstoffen-besluit/oppervlaktewater/BWBR0009947/README.md);  
+g. Regeling meldingen Bouwstoffenbesluit oppervlaktewater;  
 
-h. [Regeling uitvoeringskwaliteit bodembeheer](../../../../ministeriele-regeling/regeling/uitvoeringskwaliteit/bodembeheer/BWBR0020345/README.md);  
+h. Regeling uitvoeringskwaliteit bodembeheer;  
 
-i. [Regeling klassenindeling onderhoudsspecie](../../../../ministeriele-regeling/regeling/vaststelling/klasse-indeling/onderhoudsspecie/BWBR0009204/README.md).  
+i. Regeling klassenindeling onderhoudsspecie.  
 
 ### Artikel  5.1.2  
 
-####Aanpassing [Uitvoeringsregeling Bouwstoffenbesluit](../../../../ministeriele-regeling/uitvoeringsregeling/bouwstoffenbesluit/BWBR0009345/README.md)
+####Aanpassing Uitvoeringsregeling Bouwstoffenbesluit
 
 Wijzigt de Uitvoeringsregeling Bouwstoffenbesluit.
 
 ### Artikel  5.1.3  
 
-####Aanpassing [Regeling melden bedrijfsafvalstofen en gevaarlijke afvalstoffen](../../../../ministeriele-regeling/regeling/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017313/README.md)
+####Aanpassing Regeling melden bedrijfsafvalstofen en gevaarlijke afvalstoffen
 
 Wijzigt de Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen.
 
 ### Artikel  5.1.4  
 
-####Aanpassing [Regeling stortplaatsen voor baggerspecie op land](../../../../ministeriele-regeling/regeling/stortplaatsen/voor/baggerspecie/op/land/BWBR0012665/README.md)
+####Aanpassing Regeling stortplaatsen voor baggerspecie op land
 
 Wijzigt de Regeling stortplaatsen voor baggerspecie op land.
 
 ### Artikel  5.1.5  
 
-####Aanpassing [Regeling beoordeling reinigbaarheid grond](../../../../ministeriele-regeling/regeling/beoordeling/reinigbaarheid/grond/2006/BWBR0020104/README.md)
+####Aanpassing Regeling beoordeling reinigbaarheid grond
 
 Wijzigt de Regeling beoordeling reinigbaarheid grond 2006.
 
 ### Artikel  5.1.6  
 
-####Aanpassing [Aanwijzingsregeling willekeurige afschrijvingen](../../../../ministeriele-regeling/aanwijzingsregeling/willekeurige/afschrijving/en/investeringsaftrek/etc/BWBR0020881/README.md)
+####Aanpassing Aanwijzingsregeling willekeurige afschrijvingen
 
 Wijzigt de Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek milieu-investeringen 2007.
 
@@ -1306,28 +1330,28 @@ Wijzigt de Aanwijzingsregeling willekeurige afschrijving en investeringsaftrek m
 
 ####Vrijstellingen van erkenningsverplichting
 
-1.  Tot en met 31 december 2006 geldt een vrijstelling van de verboden van [artikel 15 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onder a en g.   
-2.  Tot en met 30 juni 2007 geldt een vrijstelling van de verboden van [artikel 15 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de werkzaamheden, bedoeld in artikel 2.1., eerste lid, onder d, e, h, k en l.   
-3.  Tot en met 30 juni 2007 geldt een vrijstelling van de verboden van [artikel 15 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder i, indien de persoon of instelling, die deze werkzaamheid verricht, beschikt over een geldige aanwijzing als monsternemer op grond van het [Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](../../../../AMvB/bouwstoffenbesluit/bodem-/en/oppervlaktewaterenbescherming/BWBR0007667/README.md), die vóór 1 oktober 2006 is verleend.   
-4.  Tot en met 30 juni 2009 geldt een vrijstelling van de verboden van [artikel 15, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder b, indien de instelling, die deze werkzaamheid verricht, beschikt over een geldige aanwijzing als certificeringsinstelling voor het afgeven van kwaliteitsverklaringen op grond van het [Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](../../../../AMvB/bouwstoffenbesluit/bodem-/en/oppervlaktewaterenbescherming/BWBR0007667/README.md).   
-5.  Tot en met 31 december 2007 geldt een vrijstelling van de verboden van [artikel 15 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder c, indien de persoon of instelling, die deze werkzaamheid verricht, beschikt over een geldige aanwijzing als laboratorium op grond van het [Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](../../../../AMvB/bouwstoffenbesluit/bodem-/en/oppervlaktewaterenbescherming/BWBR0007667/README.md), die vóór 1 oktober 2006 is verleend.   
-6.  [Artikel 12 van het Besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) is niet van toepassing op de aanwijzingen, bedoeld in het derde, vierde en vijfde lid en de erkenning, bedoeld in het elfde lid.   
-7.  Tot en met 31 december 2007 geldt een vrijstelling van de verboden van [artikel 15 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onder m en n.   
-8.  Tot en met 31 december 2007 geldt een vrijstelling van de verboden van [artikel 15 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder d, voor zover dat bestaat uit laboratoriumanalyses voor grondwateronderzoek.   
-9.  Tot en met 30 juni 2008 geldt een vrijstelling van de verboden van [artikel 15 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder h, voor zover dat bestaat uit milieukundige begeleiding van nazorg.   
-10.  Tot en met 31 december 2008 geldt een vrijstelling van de verboden van [artikel 15 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder e, voor zover dat bestaat uit het ontwateren van baggerspecie.   
-11.  Tot en met 30 september 2009 geldt een vrijstelling van de verboden van [artikel 15, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder j, indien de persoon of instelling, die deze werkzaamheid verricht, beschikt over een geldige erkenning voor een kwaliteitsverklaring op grond van het [Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](../../../../AMvB/bouwstoffenbesluit/bodem-/en/oppervlaktewaterenbescherming/BWBR0007667/README.md).   
-12.  Tot en met 31 december 2010 geldt een vrijstelling van de verboden van [artikel 15 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onder l, voor zover dat bestaat uit mechanisch boren als bedoeld in BRL 2100.   
-13.  Tot zes maanden na afloop van de in het eerste en tweede lid en zevende tot en met tiende lid, genoemde data geldt een vrijstelling van de verboden van [artikel 15 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de in die leden genoemde werkzaamheden, die zijn aangevangen op een tijdstip dat is gelegen vóór de in die leden genoemde data.  
-14. Tot 1 januari 2015 geldt een vrijstelling van de verboden van [artikel 15 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onder o tot en met q.
-15. Tot en met 30 juni 2011 geldt een vrijstelling van de verboden van [artikel 15 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder e, voor zover dat bestaat uit het droog zeven van asbesthoudende grond. 
-16.  Tot 1 oktober 2014 geldt een vrijstelling van de verboden van [artikel 15 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) voor de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onderdelen u en v. 
+1.  Tot en met 31 december 2006 geldt een vrijstelling van de verboden van artikel 15 van het besluit voor de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onder a en g.   
+2.  Tot en met 30 juni 2007 geldt een vrijstelling van de verboden van artikel 15 van het besluit voor de werkzaamheden, bedoeld in artikel 2.1., eerste lid, onder d, e, h, k en l.   
+3.  Tot en met 30 juni 2007 geldt een vrijstelling van de verboden van artikel 15 van het besluit voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder i, indien de persoon of instelling, die deze werkzaamheid verricht, beschikt over een geldige aanwijzing als monsternemer op grond van het Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming, die vóór 1 oktober 2006 is verleend.   
+4.  Tot en met 30 juni 2009 geldt een vrijstelling van de verboden van artikel 15, van het besluit voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder b, indien de instelling, die deze werkzaamheid verricht, beschikt over een geldige aanwijzing als certificeringsinstelling voor het afgeven van kwaliteitsverklaringen op grond van het Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming.   
+5.  Tot en met 31 december 2007 geldt een vrijstelling van de verboden van artikel 15 van het besluit voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder c, indien de persoon of instelling, die deze werkzaamheid verricht, beschikt over een geldige aanwijzing als laboratorium op grond van het Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming, die vóór 1 oktober 2006 is verleend.   
+6.  Artikel 12 van het Besluit is niet van toepassing op de aanwijzingen, bedoeld in het derde, vierde en vijfde lid en de erkenning, bedoeld in het elfde lid.   
+7.  Tot en met 31 december 2007 geldt een vrijstelling van de verboden van artikel 15 van het besluit voor de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onder m en n.   
+8.  Tot en met 31 december 2007 geldt een vrijstelling van de verboden van artikel 15 van het besluit voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder d, voor zover dat bestaat uit laboratoriumanalyses voor grondwateronderzoek.   
+9.  Tot en met 30 juni 2008 geldt een vrijstelling van de verboden van artikel 15 van het besluit voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder h, voor zover dat bestaat uit milieukundige begeleiding van nazorg.   
+10.  Tot en met 31 december 2008 geldt een vrijstelling van de verboden van artikel 15 van het besluit voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder e, voor zover dat bestaat uit het ontwateren van baggerspecie.   
+11.  Tot en met 30 september 2009 geldt een vrijstelling van de verboden van artikel 15, van het besluit voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder j, indien de persoon of instelling, die deze werkzaamheid verricht, beschikt over een geldige erkenning voor een kwaliteitsverklaring op grond van het Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming.   
+12.  Tot en met 31 december 2010 geldt een vrijstelling van de verboden van artikel 15 van het besluit voor de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onder l, voor zover dat bestaat uit mechanisch boren als bedoeld in BRL 2100.   
+13.  Tot zes maanden na afloop van de in het eerste en tweede lid en zevende tot en met tiende lid, genoemde data geldt een vrijstelling van de verboden van artikel 15 van het besluit voor de in die leden genoemde werkzaamheden, die zijn aangevangen op een tijdstip dat is gelegen vóór de in die leden genoemde data.  
+14. Tot 1 januari 2015 geldt een vrijstelling van de verboden van artikel 15 van het besluit voor de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onder o tot en met q.
+15. Tot en met 30 juni 2011 geldt een vrijstelling van de verboden van artikel 15 van het besluit voor de werkzaamheid, bedoeld in artikel 2.1, eerste lid, onder e, voor zover dat bestaat uit het droog zeven van asbesthoudende grond. 
+16.  Tot 1 oktober 2014 geldt een vrijstelling van de verboden van artikel 15 van het besluit voor de werkzaamheden, bedoeld in artikel 2.1, eerste lid, onderdelen u en v. 
 
 ### Artikel  5.1.10  
 
 ####Toetsingsregel bouwstoffen
 
-1.  In afwijking van artikel 3.3.3, eerste lid, geldt voor het hergebruik van bouwstoffen die voor de inwerkingtreding van het [besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) reeds waren toegepast voor maximaal twee parameters een verhoogde maximale samenstellings- of emissiewaarde, mits de bouwstoffen zonder bewerking worden hergebruikt.   
+1.  In afwijking van artikel 3.3.3, eerste lid, geldt voor het hergebruik van bouwstoffen die voor de inwerkingtreding van het besluit reeds waren toegepast voor maximaal twee parameters een verhoogde maximale samenstellings- of emissiewaarde, mits de bouwstoffen zonder bewerking worden hergebruikt.   
 2.  Een verhoging als bedoeld in het eerste lid bedraagt ten hoogste tweemaal de gestelde maximale waarde, zoals opgenomen in bijlage A.   
 3.  Het eerste en tweede lid zijn niet van toepassing op de maximale samenstellingswaarde voor PAK’s (som) in asfaltproducten en voor asbest.  
 
@@ -1341,14 +1365,14 @@ a. de hoofdstukken 1 en 2: 1 januari 2008;
 
 b. de hoofdstukken 3 en 5: 1 juli 2008 met dien verstande dat de,artikelen 5.1.2, 5.1.5, onderdelen A2, A3, en F tot en met K, 5.1.9 en 5.1.11 op 1 januari 2008 in werking treden  
 
-c. hoofdstuk 4 voor toepassingen van grond of baggerspecie in oppervlaktewater als bedoeld in [artikel 35 sub a, c tot en met e, g en h van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md):1 januari 2008 en voor overige toepassingen van grond of baggerspecie: 1 juli 2008;     
+c. hoofdstuk 4 voor toepassingen van grond of baggerspecie in oppervlaktewater als bedoeld in artikel 35 sub a, c tot en met e, g en h van het Besluit bodemkwaliteit:1 januari 2008 en voor overige toepassingen van grond of baggerspecie: 1 juli 2008;     
 2.  In afwijking van het eerste lid onderdeel a, treedt artikel 2.1, eerste lid, in werking met ingang van: 
 
 a. 31 december 2010 voor de werkzaamheden, bedoeld in artikel 2.1, onder o tot en met r;  
 
 b. 1 juli 2008 voor de werkzaamheid, bedoeld in artikel 2.1, sub b, voor zover die bestaat uit milieukundige begeleiding van nazorg bij een sanering van de bodem onder oppervlaktewater.  
 
-c. 31 december 2008 voor de werkzaamheid, bedoeld in artikel 2.1, sub e, voor zover die bestaat uit het ontwateren van baggerspecie en de werkzaamheid, bedoeld in artikel 2.1, sub j, indien de persoon of instelling, die deze werkzaamheid verricht, beschikt over een geldige erkenning voor een kwaliteitsverklaring op grond van het [Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming](../../../../AMvB/bouwstoffenbesluit/bodem-/en/oppervlaktewaterenbescherming/BWBR0007667/README.md), die vóór de inwerkingtreding van deze regeling is verleend.    
+c. 31 december 2008 voor de werkzaamheid, bedoeld in artikel 2.1, sub e, voor zover die bestaat uit het ontwateren van baggerspecie en de werkzaamheid, bedoeld in artikel 2.1, sub j, indien de persoon of instelling, die deze werkzaamheid verricht, beschikt over een geldige erkenning voor een kwaliteitsverklaring op grond van het Bouwstoffenbesluit bodem- en oppervlaktewaterenbescherming, die vóór de inwerkingtreding van deze regeling is verleend.    
 
 ### Artikel  5.1.12  
 
@@ -1433,7 +1457,474 @@ Tabel 1. Maximale emissiewaarden anorganische parameters
 
 *3 onder asfaltproducten wordt verstaan: asfalt, asfaltbeton, asfaltgranulaat en ci-vieltechnisch functionele mengsels met asfaltgranulaat;  
 
-*4 onder granulaten wordt verstaan: menggranulaat, hydraulisch menggranulaat, betongranulaat, metselwerkgranulaat brekerzeefzand en recyclingbrekerzand.   <sup>6</sup> Gewogen norm (concentratie serpentijn asbest + 10 x concentratie amfibool asbest). Deze eis bedraagt 0 mg/kg d.s. indien niet is voldaan aan [artikel 2, onder b, van het Productenbesluit Asbest](../../../../AMvB/productenbesluit/asbest/BWBR0017778/README.md).  <sup>7</sup> de definitie van de somparameters wordt gegeven in bijlage N.  <sup>*1</sup> onder bitumenproducten wordt verstaan: bitumen dakbedekkings- en afdichtingsmaterialen, vormgegeven bouwstoffen met een bitumen coating, en secundair bitumengranulaat dat zodanig is toegepast dat in de eindtoepassing een functionele constructie van samenhangend bitumengranulaat ontstaat.  <sup>*2</sup> onder asfaltproducten wordt verstaan: asfalt, asfaltbeton, asfaltgranulaat en civieltechnisch functionele mengsels met asfaltgranulaat.  <sup>*3</sup> onder granulaten wordt verstaan: menggranulaat, hydraulisch menggranulaat, betongranulaat, metselwerkgranulaat brekerzeefzand en recyclingbrekerzand. 
+*4 onder granulaten wordt verstaan: menggranulaat, hydraulisch menggranulaat, betongranulaat, metselwerkgranulaat brekerzeefzand en recyclingbrekerzand.   <sup>6</sup> Gewogen norm (concentratie serpentijn asbest + 10 x concentratie amfibool asbest). Deze eis bedraagt 0 mg/kg d.s. indien niet is voldaan aan artikel 2, onder b, van het Productenbesluit Asbest.  <sup>7</sup> de definitie van de somparameters wordt gegeven in bijlage N.  <sup>*1</sup> onder bitumenproducten wordt verstaan: bitumen dakbedekkings- en afdichtingsmaterialen, vormgegeven bouwstoffen met een bitumen coating, en secundair bitumengranulaat dat zodanig is toegepast dat in de eindtoepassing een functionele constructie van samenhangend bitumengranulaat ontstaat.  <sup>*2</sup> onder asfaltproducten wordt verstaan: asfalt, asfaltbeton, asfaltgranulaat en civieltechnisch functionele mengsels met asfaltgranulaat.  <sup>*3</sup> onder granulaten wordt verstaan: menggranulaat, hydraulisch menggranulaat, betongranulaat, metselwerkgranulaat brekerzeefzand en recyclingbrekerzand. 
+
+### Bijlage B 
+
+####, behorende bij hoofdstuk 4  van de Regeling bodemkwaliteit Achtergrondwaarden en maximale waarden voor grond en baggerspecie
+
+Tabel 1. Normwaarden voor toepassen van grond of baggerspecie op of in de bodem, voor de bodem waarop grond of bagger wordt toegepast en voor verspreiden van baggerspecie over het aangrenzende perceel (voor standaardbodem, in mg kg/ds). 
+
+|--- | Achtergrondwaarden  | Maximale waarden voor verspreiden van baggerspecie over aangrenzend perceel<sup>2</sup>   | Maximale waarden bodemfunctieklasse wonen  | Maximale waarden bodemfunctieklasse industrie  | Maximale waarden grootschalige toepassingen op of in de bodem  |--- | Maximale waarden kwaliteitsklasse wonen  | Maximale waarden kwaliteitsklasse industrie  | Maximale emissiewaarden  | Emissietoetswaarden  | Stof (1)  | mg/kg ds  | mg/kg ds  | mg/kg ds  | mg/kg ds  | mg/kg  L/S 10  | mg/kg ds  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *1. Metalen*   |
+| antimoon (Sb)  | 4,0*  |X | 15  | 22  | 0,070  | 9  |
+| arseen (As)  | 20  | X  | 27  | 76  | 0,61  | 42  |
+| barium (Ba)  | --- | X | --- | --- | --- | --- |
+| cadmium (Cd)  | 0,60  | X en 7,5  | 1,2  | 4,3  | 0,051  | 4,3  |
+| chroom (Cr)  | 55  | X  | 62  | 180  | 0,17  | 180  |
+| kobalt (Co)  | 15  | X | 35  | 190  | 0,24  | 130  |
+| koper (Cu)  | 40  | X  | 54  | 190  | 1,0  | 113  |
+| kwik (Hg)  | 0,15  | X  | 0,83  | 4,8  | 0,49  | 4,8  |
+| lood (Pb)  | 50  | X  | 210  | 530  | 15  | 308  |
+| molybdeen (Mo)  | 1,5*  | X | 88  | 190  | 0,48  | 105  |
+| nikkel (Ni)  | 35  | X  | 39  | 100  | 0,21  | 100  |
+| tin (Sn)  | 6,5  |X | 180  | 900  | 0,093  | 450  |
+| vanadium (V)  | 80  |X | 97  | 250  | 1,9  | 146  |
+| zink (Zn)  | 140  | X  | 200  | 720  | 2,1  | 430  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  *2. Overige anorganische stoffen*   |
+| chloride<sup>3</sup>   | --- | --- | --- | --- | –  | --- |
+| cyanide (vrij)<sup>4</sup>   | 3,0  | --- | 3,0  | 20  | nvt  | nvt  |
+| cyanide (complex)<sup>5</sup>   | 5,5  | --- | 5,5  | 50  | nvt  | nvt  |
+| thiocyanaten  | 6,0  | --- | 6,0  | 20  | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  *3. Aromatische stoffen*   |
+| benzeen  | 0,20*  | --- | 0,20  | 1  | nvt  | nvt  |
+| ethylbenzeen  | 0,20*  | --- | 0,20  | 1,25  | nvt  | nvt  |
+| tolueen  | 0,20*  | --- | 0,20  | 1,25  | nvt  | nvt  |
+| xylenen (som)  | 0,45*  | --- | 0,45  | 1,25  | nvt  | nvt  |
+| styreen (vinylbenzeen)  | 0,25*  | --- | 0,25  | 86  | nvt  | nvt  |
+| fenol  | 0,25  | --- | 0,25  | 1,25  | nvt  | nvt  |
+| cresolen (som)  | 0,30*  | --- | 0,30  | 5  | nvt  | nvt  |
+| dodecylbenzeen  | 0,35*  | --- | 0,35  | 0,35  | nvt  | nvt  |
+| aromatische oplosmiddelen (som)<sup>6</sup>   | 2,5*  | --- | 2,5  | 2,5  | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  *4. Polycyclische aromatische koolwaterstoffen (PAK’s)*   |
+| naftaleen  | --- | X  | --- | --- | nvt  | nvt  |
+| fenantreen  | --- | X  | --- | --- | nvt  | nvt  |
+| antraceen  | --- | X  | --- | --- | nvt  | nvt  |
+| fluorantheen  | --- | X  | --- | --- | nvt  | nvt  |
+| chryseen  | --- | X  | --- | --- | nvt  | nvt  |
+| benzo(a)antraceen  | --- | X  | --- | --- | nvt  | nvt  |
+| benzo(a)pyreen  | --- | X  | --- | --- | nvt  | nvt  |
+| benzo(k)fluorantheen  | --- | X  | --- | --- | nvt  | nvt  |
+| indeno(1,2,3cd)pyreen  | --- | X  | --- | --- | nvt  | nvt  |
+| benzo(ghi)peryleen  | --- | X  | --- | --- | nvt  | nvt  |
+| PAK’s totaal (som 10)  | 1,5  | --- | 6,8  | 40  | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  *5. Gechloreerde koolwaterstoffen*   |
+|  *a. (vluchtige) chloorkoolwaterstoffen*   |
+| monochlooretheen (vinylchloride)<sup>7</sup>   | 0,10*  | --- | 0,10  | 0,1  | nvt  | nvt  |
+| dichloormethaan  | 0,10  | --- | 0,10  | 3,9  | nvt  | nvt  |
+| 1,1-dichloorethaan  | 0,20*  | --- | 0,20  | 0,20  | nvt  | nvt  |
+| 1,2-dichloorethaan  | 0,20*  | --- | 0,20  | 4  | nvt  | nvt  |
+| 1,1-dichlooretheen<sup>7</sup>   | 0,30*  | --- | 0,30  | 0,30  | nvt  | nvt  |
+| 1,2-dichlooretheen (som)  | 0,30*  | --- | 0,30  | 0,30  | nvt  | nvt  |
+| dichloorpropanen (som)  | 0,80*  | --- | 0,80  | 0,80  | nvt  | nvt  |
+| trichloormethaan (chloroform)  | 0,25*  | --- | 0,25  | 3  | nvt  | nvt  |
+| 1,1,1-trichloorethaan  | 0,25*  | --- | 0,25  | 0,25  | nvt  | nvt  |
+| 1,1,2-trichloorethaan  | 0,30*  | --- | 0,30  | 0,30  | nvt  | nvt  |
+| trichlooretheen (Tri)  | 0,25*  | --- | 0,25  | 2,5  | nvt  | nvt  |
+| tetrachloormethaan (Tetra)  | 0,30*  | --- | 0,30  | 0,7  | nvt  | nvt  |
+| tetrachlooretheen (Per)  | 0,15  | --- | 0,15  | 4  | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  *b. chloorbenzenen*   |
+| monochloorbenzeen  | 0,20*  | --- | 0,20  | 5  | nvt  | nvt  |
+| dichloorbenzenen (som)  | 2,0*  | --- | 2,0  | 5  | nvt  | nvt  |
+| trichloorbenzenen (som)  | 0,015*  | --- | 0,015  | 5  | nvt  | nvt  |
+| tetrachloorbenzenen (som)  | 0,0090*  | --- | 0,0090  | 2,2  | nvt  | nvt  |
+| pentachloorbenzeen  | 0,0025  |X | 0,0025  | 5  | nvt  | nvt  |
+| hexachloorbenzeen  | 0,0085  | X  | 0,027  | 1,4  | nvt  | nvt  |
+| chloorbenzenen (som)  | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+|  *c. chloorfenolen*   |
+| monochloorfenolen (som)  | 0,045  | --- | 0,045  | 5,4  | nvt  | nvt  |
+| dichloorfenolen (som)  | 0,20*  | --- | 0,20  | 6  | nvt  | nvt  |
+| trichloorfenolen (som)  | 0,0030*  | --- | 0,0030  | 6  | nvt  | nvt  |
+| tetrachloorfenolen (som)  | 0,015*  | --- | 1  | 6  | nvt  | nvt  |
+| pentachloorfenol  | 0,0030*  | X  | 1,4  | 5  | nvt  | nvt  |
+| chloorfenolen (som)  | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- |
+|  *d. polychloorbifenylen (PCB’s)*   |
+| PCB 28  | --- | X  | --- | --- | nvt  | nvt  |
+| PCB 52  | --- | X  | --- | --- | nvt  | nvt  |
+| PCB 101  | --- | X  | --- | --- | nvt  | nvt  |
+| PCB 118  | --- | X  | --- | --- | nvt  | nvt  |
+| PCB 138  | --- | X  | --- | --- | nvt  | nvt  |
+| PCB 153  | --- | X  | --- | --- | nvt  | nvt  |
+| PCB 180  | --- | X  | --- | --- | nvt  | nvt  |
+| PCB’s (som 7)  | 0,020  | --- | 0,040  | 0,5  | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  *e. overige gechloreerde koolwaterstoffen*   |
+| monochlooranilinen (som)  | 0,20*  | --- | 0,20  | 0,20  | nvt  | nvt  |
+| pentachlooraniline  | 0,15*  | --- | 0,15  | 0,15  | nvt  | nvt  |
+| dioxine (som TEQ)  | 0,000055*  | --- | 0,000055  | 0,000055  | nvt  | nvt  |
+| chloornaftaleen (som)  | 0,070*  | --- | 0,070  | 10  | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  *6. Bestrijdingsmiddelen*   |
+|  *a. organochloorbestrijdingsmiddelen*   |
+| chloordaan (som)  | 0,0020  | X  | 0,0020  | 0,1  | nvt  | nvt  |
+| DDT (som)  | 0,20  | X  | 0,20  | 1  | nvt  | nvt  |
+| DDE (som)  | 0,10  | X  | 0,13  | 1,3  | nvt  | nvt  |
+| DDD (som)  | 0,020  | X  | 0,84  | 34  | nvt  | nvt  |
+| DDT/DDE/DDD (som)  | --- | --- | --- | --- | nvt  | nvt  |
+| aldrin  | --- | X  | --- | --- | nvt  | nvt  |
+| dieldrin  | --- | X  | --- | --- | nvt  | nvt  |
+| endrin  | --- | X  | --- | --- | nvt  | nvt  |
+| isodrin  | --- | X  | --- | --- | nvt  | nvt  |
+| telodrin  | --- | X  | --- | --- | nvt  | nvt  |
+| drins (som)  | 0,015  | --- | 0,04  | 0,14  | nvt  | nvt  |
+| endosulfansulfaat  | --- | X  | --- | --- | nvt  | nvt  |
+| α-endosulfan  | 0,00090  | X  | 0,00090  | 0,1  | nvt  | nvt  |
+| α-HCH  | 0,0010  | X  | 0,0010  | 0,5  | nvt  | nvt  |
+| β-HCH  | 0,0020  | X  | 0,0020  | 0,5  | nvt  | nvt  |
+| γ-HCH (lindaan)  | 0,0030  | X  | 0,04  | 0,5  | nvt  | nvt  |
+| δ-HCH  | --- | X  | --- | --- | nvt  | nvt  |
+| HCH-verbindingen (som)  | --- | --- | --- | --- | nvt  | nvt  |
+| heptachloor  | 0,00070  | X  | 0,00070  | 0,1  | nvt  | nvt  |
+| heptachloorepoxide (som)  | 0,0020  | X  | 0,0020  | 0,1  | nvt  | nvt  |
+| hexachloorbutadieen  | 0,003*  | X  | --- | --- | nvt  | nvt  |
+| organochloorhoudende bestrijdingsmiddelen (som landbodem)  | 0,40  | --- | --- | --- | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  *b. organofosforpesticiden*   |
+| azinfos-methyl  | 0,0075*  | --- | 0,0075  | 0,0075  | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  *c. organotin bestrijdingsmiddelen*   |
+| organotin verbindingen (som)<sup>8</sup>   | 0,15  | --- | 0,5  | 2,5<sup>9</sup>   | nvt  | nvt  |
+| tributyltin (TBT)<sup>8</sup>   | 0,065  | --- | 0,065  | 0,065  | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  *d. chloorfenoxy-azijnzuur herbiciden*   |
+| MCPA  | 0,55*  | --- | 0,55  | 0,55  | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  *e. overige bestrijdingsmiddelen*   |
+| atrazine  | 0,035*  | --- | 0,035  | 0,5  | nvt  | nvt  |
+| carbaryl  | 0,15*  | --- | 0,15  | 0,45  | nvt  | nvt  |
+| carbofuran<sup>7</sup>   | 0,017*  | --- | 0,017  | 0,017  | nvt  | nvt  |
+| 4-chloormethylfenolen (som)  | 0,60*  | --- | 0,60  | 0,60  | nvt  | nvt  |
+| organostikstof- en organofosforbestrijdingsmiddelen (som)  | 0,090*  | --- | 0,090  | 0,5  | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  *7. Overige stoffen*   |
+| asbest<sup>10</sup>   | –  | –  | 100  | 100  | nvt  | nvt  |
+| cyclohexanon  | 2,0*  | --- | 2,0  | 150  | nvt  | nvt  |
+| dimethyl ftalaat<sup>11</sup>   | 0,045*  | --- | 9,2  | 60  | nvt  | nvt  |
+| diethyl ftalaat<sup>11</sup>   | 0,045*  | --- | 5,3  | 53  | nvt  | nvt  |
+| di-isobutylftalaat<sup>11</sup>   | 0,045*  | --- | 1,3  | 17  | nvt  | nvt  |
+| dibutyl ftalaat<sup>11</sup>   | 0,070*  | --- | 5,0  | 36  | nvt  | nvt  |
+| butyl benzylftalaat<sup>11</sup>   | 0,070*  | --- | 2,6  | 48  | nvt  | nvt  |
+| dihexyl ftalaat<sup>11</sup>   | 0,070*  | --- | 18  | 60  | nvt  | nvt  |
+| di(2-ethylhexyl)ftalaat<sup>11</sup>   | 0,045*  | --- | 8,3  | 60  | nvt  | nvt  |
+| minerale olie<sup>12, 13</sup>   | 190  | 3000  | 190  | 500  | nvt  | nvt  |
+| pyridine  | 0,15*  | --- | 0,15  | 1  | nvt  | nvt  |
+| tetrahydrofuran  | 0,45  | --- | 0,45  | 2  | nvt  | nvt  |
+| tetrahydrothiofeen  | 1,5*  | --- | 1,5  | 8,8  | nvt  | nvt  |
+| tribroommethaan (bromoform)  | 0,20*  | --- | 0,20  | 0,20  | nvt  | nvt  |
+| ethyleenglycol  | 5,0  | --- | 5,0  | 5,0  | nvt  | nvt  |
+| diethyleenglycol  | 8,0  | --- | 8,0  | 8,0  | nvt  | nvt  |
+| acrylonitril  | 0,1*  | --- | 0,1  | 0,1  | nvt  | nvt  |
+| formaldehyde  | 0,1*  | --- | 0,1  | 0,1  | nvt  | nvt  |
+| isopropanol (2-propanol)  | 0,75  | --- | 0,75  | 0,75  | nvt  | nvt  |
+| methanol  | 3,0  | --- | 3,0  | 3,0  | nvt  | nvt  |
+| butanol (1-butanol)  | 2,0*  | --- | 2,0  | 2,0  | nvt  | nvt  |
+| butylacetaat  | 2,0*  | --- | 2,0  | 2,0  | nvt  | nvt  |
+| ethylacetaat  | 2,0*  | --- | 2,0  | 2,0  | nvt  | nvt  |
+| methyl-tert-butyl ether (MTBE)  | 0,20*  | --- | 0,20  | 0,20  | nvt  | nvt  |
+| methylethylketon  | 2,0*  | --- | 2,0  | 2,0  | nvt  | nvt  |
+
+Opmerkingen: 
+
+1) Voor het vaststellen van een overschrijding van de waarden en het omgaan met rapportagegrenzen en aantoonbaarheidsgrenzen is bijlage G, onder IV, van toepassing.  
+
+2) Wanneer in de kolom ‘Maximale waarden kwaliteitsklasse wonen’ of in de kolom ‘Maximale waarden kwaliteitsklasse industrie’ geen waarde is vermeld, wordt de grond, baggerspecie, bodem of bodem of oever van een oppervlaktewaterlichaam ingedeeld in de bodemfunctieklasse industrie. Wanneer in de kolom ‘Maximale waarden kwaliteitsklasse industrie’ geen waarde is vermeld, dient bij de invulling van de zorgplicht rekening te worden gehouden met mogelijke overschrijdingen van de indicatieve interventiewaarden, bedoeld in de Circulaire bodemsanering 2009 zoals gewijzigd op 3 april 2012.  
+
+3)Voor dioxine wordt de som TEQ berekend als de som van de producten van de concentraties van dioxines, dibenzofuranen en dioxine-achtige PCB’s en de TEF overeenkomstig de volgende formule: 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| Som TEQ  | =  | --- |
+
+Waarin:  
+
+| --- | --- | --- |
+|:---|:---|:---|
+| TEQ  | =  | toxische equivalent (‘WHO-TEQ’)  |
+| C  | =  | concentratie van dioxines, dibenzofuranen en dioxine-achtige PCB’s  |
+| TEF  | =  | ToxiciteitsEquivalentieFactor  |
+
+De TEQ waarde drukt de toxiciteit van de aanwezige dioxines, dibenzofuranen en dioxine-achtige PCB’s uit in toxiciteit van referentiestof TCDD. De in te vullen TEF kan worden afgeleid van de volgende tabel:  
+
+| Stof  | TEF  |
+|:---|:---|
+| Gechlorineerde dibenzo-p-dioxines  | --- |
+| 2,3,7,8-TCDD  | 1  |
+| 1,2,3,7,8-PeCDD  | 1  |
+| 1,2,3,6,7,8-HxCDD  | 0,1  |
+| 1,2,3,7,8,9-HxCDD  | 0,1  |
+| 1,2,3,4,7,8-HxCDD  | 0,1  |
+| 1,2,3,4,6,7,8-HpCDD  | 0,01  |
+| 1,2,3,4,6,7,8,9-OCDD  | 0,0003  |
+| Gechlorineerde dibenzofuranen  | --- |
+| 2,3,7,8-TCDF  | 0,1  |
+| 1,2,3,7,8-PeCDF  | 0,03  |
+| 2,3,4,7,8-PeCDF  | 0,3  |
+| 1,2,3,6,7,8-HxCDF  | 0,1  |
+| 1,2,3,7,8,9-HxCDF  | 0,1  |
+| 1,2,3,4,7,8-HxCDF  | 0,1  |
+| 2,3,4,6,7,8-HxCDF  | 0,1  |
+| 1,2,3,4,6,7,8-HpCDF  | 0,01  |
+| 1,2,3,4,7,8,9-HpCDF  | 0,01  |
+| 1,2,3,4,6,7,8,9-OCDF  | 0,0003  |
+| PCBs  | --- |
+| PCB77  | 0,0001  |
+| PCB81  | 0,0003  |
+| PCB105  | 0,00003  |
+| PCB114  | 0,00003  |
+| PCB118  | 0,00003  |
+| PCB123  | 0,00003  |
+| PCB126  | 0,1  |
+| PCB156  | 0,00003  |
+| PCB157  | 0,00003  |
+| PCB167  | 0,00003  |
+| PCB169  | 0,03  |
+| PCB189  | 0,00003  |
+
+Indien PCB118 alleen als onderdeel van de som PCB’s wordt gemeten, wordt de som dioxines niet bepaald.
+
+4) Voor het omgaan met stoffen die niet genormeerd zijn, wordt verwezen naar paragraaf 2 van bijlage 6 ‘Richtlijn voor het omgaan met niet-genormeerde stoffen’ van de Circulaire bodemsanering 2009 zoals gewijzigd op 3 april 2012. Deze informatieve richtlijn betreft een nadere invulling van de zorgplicht voor stoffen waarvoor geen achtergrondwaarde of interventiewaarde is vastgesteld. Verklaring symbolen in tabel 1:  <sup>1</sup> Voor de definitie van somparameters wordt verwezen naar bijlage N van deze regeling. De definitie van sommige somparameters is verschillend voor de landbodem en de waterbodem. Achter de somparameter wordt vermeld welke van de twee definities gehanteerd moet worden.  <sup>2</sup> De msPAF wordt berekend voor de met x aangeduide stoffen. Indien geen waarde wordt ingevuld (bijvoorbeeld omdat de stof niet gemeten wordt) wordt gerekend met 0,7 * bepalingsgrens (intralaboratorium reproduceerbaarheid). De baggerspe-cie voldoet aan de maximale waarden voor verspreiden van baggerspecie op het aangrenzende perceel indien: 
+
+*. de gehalten van de gemeten stoffen lager zijn dan de Interventiewaarde bodem, niet zijnde de bodem of oever van een oppervlaktewaterlichaam, en  
+
+*. voor organische stoffen: msPAF < 20%, en  
+
+*. voor metalen: msPAF < 50%, waarbij voor cadmium een maximum gehalte geldt.   Voor gemeten stoffen die geen deel uitmaken van de msPAF-berekening geldt de achtergrondwaarde (m.u.v. somparameters waarbij de individuele parameters onderdeel uitmaken van de msPAF-berekening). Minerale olie maakt geen deel uit van de msPAF-berekening. In plaats van de Achtergrondwaarde geldt voor deze stof de waarde, die vermeld is in de kolom ‘Maximale waarden voor verspreiden van baggerspecie over aangrenzend perceel’. Voor toetsing aan de Achtergrondwaarden worden de toetsingsregels van de Achtergrondwaarden toegepast. Uit artikel 36 van het Besluit vloeit voort dat naast de msPAF toetsing ook een toets moet plaatsvinden aan de Interventiewaarden bodem. Voor metalen waarvoor geen Interventiewaarden bodem zijn vastgesteld, dienen de Maximale waarden bodemfunctieklasse industrie te worden gehanteerd. <sup>3</sup> Voor het toepassen van zeezand geldt de norm 200 mg/kg ds. Bij het toepassen van zeezand op plaatsen waar een direct contact is of mogelijk is met brak water of zeewater met van nature een chloride-gehalte van meer dan 5000 mg/l, geldt voor chloride geen maximale waarde.  <sup>4</sup> Bij gehalten die de Achtergrondwaarde overschrijden moet rekening worden gehouden met de mogelijkheid van uitdamping. Wanneer uitdamping naar binnenlucht zou kunnen optreden, moet bij overschrijding van de Achtergrondwaarde worden gemeten in de bodemlucht en moet worden getoetst aan de TCL (Toxicologisch Toelaatbare Concentratie in Lucht).  <sup>5</sup> Het gehalte cyanide-complex is gelijk aan het gehalte cyanide-totaal minus het gehalte cyanide-vrij, bepaald conform NEN-EN-ISO 14403-1:2012, NEN-EN-ISO 14403-2:2012 en NEN-ISO 17380:2006. Indien geen cyanide-vrij wordt verwacht, mag het gehalte cyanide-complex gelijk worden gesteld aan het gehalte cyanide-totaal (en hoeft dus alleen het gehalte cyanide-totaal te worden gemeten).  <sup>6</sup> De Achtergrondwaarde van deze somparameter gaat uit van de aanwezigheid van meerdere van de 16 componenten, die tot deze somparameter worden gerekend (zie bijlage N). De hoogte van de Achtergrondwaarde is gebaseerd op de som van de bepalingsgrenzen vermenigvuldigd met 0,7. Sommige componenten zijn tevens individueel genormeerd. Binnen de somparameter mag de Achtergrondwaarde van de individueel genormeerde componenten niet worden overschreden. Hetzelfde geldt voor de Maximale waarde wonen en de Maximale waarde industrie. Voor de componenten, die niet individueel zijn genormeerd, geldt per component een maximum gehalte van 0,45 mg/kg ds, zowel voor de Achtergrondwaarde als de Maximale waarden wonen en industrie.  <sup>7</sup>De maximale waarden bodemfunctieklasse wonen en industrie van deze stoffen zijn gelijk aan de interventiewaarden bodemsanering en zijn gelijk of kleiner dan de bepalingsgrens (intralaboratorium reproduceerbaarheid). Indien de stof wordt aangetoond moeten de risico’s nader worden onderzocht. Bij het aantreffen van vinylchloride of 1,1-dichlooretheen moet tevens het grondwater worden onderzocht.  <sup>8</sup> De eenheid voor organotinverbindingen is mg Sn/kg ds, met uitzondering van de normwaarden met voetnoot 9.  <sup>9</sup> De eenheid van de Maximale Waarde Industrie voor organotinverbindingen (som) is organotin in mg/kg ds.  <sup>10</sup> Gewogen norm (concentratie serpentijn asbest + 10 x concentratie amfibool asbest). Deze eis bedraagt 0 mg/kg d.s. indien niet is voldaan aan artikel 2, onder b, van het Productenbesluit Asbest.  <sup>11</sup> Het is onzeker of de Achtergrondwaarden en Maximale waarden wonen voor de ftalaten meetbaar zijn. Toekomstige ervaringen moeten uitwijzen of sprake is van een knelpunt.  <sup>12</sup> Minerale olie heeft betrekking op de som van de (al dan niet) vertakte alkanen. Indien er enigerlei vorm van verontreiniging met minerale olie wordt aangetoond in grond/baggerspecie, dan dient naast het gehalte aan minerale olie ook het gehalte aan aromatische en/of polycyclische aromatische koolwaterstoffen bepaald te worden.  <sup>13</sup> Voor het toepassen van baggerspecie in grootschalige toepassingen geldt voor minerale olie een maximale waarde van 2.000 mg/kg ds. * Achtergrondwaarde is gebaseerd op de bepalingsgrens (intralaboratorium reproduceerbaarheid), omdat onvoldoende data beschikbaar zijn om een betrouwbare P95 af te leiden.  Tabel 2. Normwaarden voor toepassen van grond en baggerspecie in oppervlaktewater en voor de bodem of oever van een oppervlaktewaterlichaam waarop grond of baggerspecie wordt toegepast (waarden voor een standaardbodem, in mg/kg ds) 
+
+|--- | Achtergrondwaarden  | Maximale waarden verspreiden baggerspecie in een zoet oppervlaktewaterlichaam<sup>2</sup>   | Interventiewaarden bodem of oever van een oppervlaktewaterlichaam  | Maximale waarden bodemfunctieklasse industrie<sup>3</sup>   | Maximale waarden verspreiden baggerspecie in een zout oppervlaktewaterlichaam<sup>4</sup>   | Maximale waarden grootschalige toepassingen op of in de bodem of oever van een oppervlaktewaterlichaam  | Maximale waarden kwaliteitsklasse A   | Maximale waarden kwaliteitsklasse B  | Maximale emissiewaarden  | Emissietoetswaarden  | Stof<sup>1</sup>   | mg/kg ds  | mg/kg ds  | mg/kg ds  | mg/kg ds  | mg/kg ds  | mg/kg L/S 10  | mg/kg ds  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *1. Metalen*   |
+| antimoon (Sb)  | 4,0*  | --- | 15  | 22  | --- | 0,070  | 9  |
+| arseen (As)  | 20  | 29  | 85  | 76  | 29<sup>@</sup>   | 0,61  | 42  |
+| Barium (Ba)<sup>17</sup>  | --- | --- | --- | --- | --- | --- | --- |
+| cadmium (Cd)  | 0,60  | 4  | 14  | 4,3  | 4  | 0,051  | 4,3  |
+| chroom (Cr)  | 55  | 120  | 380  | 180  | 120<sup>@</sup>   | 0,17  | 180  |
+| kobalt (Co)  | 15  | 25  | 240  | 190  | --- | 0,24  | 130  |
+| koper (Cu)  | 40  | 96  | 190  | 190  | 60<sup>@</sup>   | 1,0  | 113  |
+| kwik (Hg)  | 0,15  | 1,2  | 10  | 4,8  | 1,2  | 0,49  | 4,8  |
+| lood (Pb)  | 50  | 138  | 580  | 530  | 110  | 15  | 308  |
+| molybdeen (Mo)  | 1,5*  | 5  | 200  | 190  | --- | 0,48  | 105  |
+| nikkel (Ni)  | 35  | 50  | 210  | 100  | 45  | 0,21  | 100  |
+| tin (Sn)  | 6,5  | --- | --- | 900  | --- | 0,093  | 450  |
+| vanadium (V)  | 80  | --- | --- | 250  | --- | 1,9  | 146  |
+| zink (Zn)  | 140  | 563  | 2000  | 720  | 365<sup>@</sup>   | 2,1  | 430  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  *2. Overige anorganische stoffen*   |
+| chloride<sup>5</sup>   | --- | --- | --- | --- | --- | –  | --- |
+| cyanide (vrij)<sup>6</sup>   | 3,0  | --- | 20  | 20  | --- | nvt  | nvt  |
+| cyanide-complex  | 5,5  | --- | 50  | 50  | --- | nvt  | nvt  |
+| thiocyanaten  | 6,0  | --- | 20  | 20  | --- | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  *3. Aromatische stoffen*   |
+| benzeen  | 0,20*  | --- | 1  | 1  | --- | nvt  | nvt  |
+| ethylbenzeen  | 0,20*  | --- | 50  | 1,25  | --- | nvt  | nvt  |
+| tolueen  | 0,20*  | --- | 130  | 1,25  | --- | nvt  | nvt  |
+| xylenen (som)  | 0,45*  | --- | 25  | 1,25  | --- | nvt  | nvt  |
+| styreen (vinylbenzeen)  | 0,25*  | --- | 100  | 86  | --- | nvt  | nvt  |
+| fenol  | 0,25  | --- | 40  | 1,25  | --- | nvt  | nvt  |
+| cresolen (som)  | 0,30*  | --- | 5  | 5  | --- | nvt  | nvt  |
+| dodecylbenzeen  | 0,35*  | --- | --- | 0,35  | --- | nvt  | nvt  |
+| aromatische oplosmiddelen (som)<sup>7</sup>   | 2,5*  | --- | --- | 2,5  | --- | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  *4. Polycyclische aromatische koolwaterstoffen (PAK’s)*   |
+| naftaleen  | --- | --- | --- | --- | --- | --- | --- |
+| fenantreen  | --- | --- | --- | --- | --- | --- | --- |
+| antraceen  | --- | --- | --- | --- | --- | --- | --- |
+| fluorantheen  | --- | --- | --- | --- | --- | --- | --- |
+| chryseen  | --- | --- | --- | --- | --- | --- | --- |
+| benzo(a)antraceen  | --- | --- | --- | --- | --- | --- | --- |
+| benzo(a)pyreen  | --- | --- | --- | --- | --- | --- | --- |
+| benzo(k)fluorantheen  | --- | --- | --- | --- | --- | --- | --- |
+| indeno(1,2,3cd)pyreen  | --- | --- | --- | --- | --- | --- | --- |
+| benzo(ghi)peryleen  | --- | --- | --- | --- | --- | --- | --- |
+| PAK’s totaal (som 10)  | 1,5  | 9  | 40  | 40  | 8  | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  *5. Gechloreerde koolwaterstoffen*   |
+|  *a. (vluchtige) chloorkoolwaterstoffen*   |
+| monochlooretheen (vinylchloride)<sup>8</sup>   | 0,10*  | --- | 0,1  | 0,1  | --- | nvt  | nvt  |
+| dichloormethaan  | 0,10  | --- | 10  | 3,9  | --- | nvt  | nvt  |
+| 1,1-dichloorethaan  | 0,20*  | --- | 15  | 0,20  | --- | nvt  | nvt  |
+| 1,2-dichloorethaan  | 0,20*  | --- | 4  | 4  | --- | nvt  | nvt  |
+| 1,1-dichlooretheen<sup>8</sup>   | 0,30*  | --- | 0,3 (9)  | 0,30  | --- | nvt  | nvt  |
+| 1,2-dichlooretheen (som)  | 0,30*  | --- | 1  | 0,30  | --- | nvt  | nvt  |
+| dichloorpropanen (som)  | 0,80*  | --- | 2  | 0,80  | --- | nvt  | nvt  |
+| trichloormethaan (chloroform)  | 0,25*  | --- | 10  | 3  | --- | nvt  | nvt  |
+| 1,1,1-trichloorethaan  | 0,25*  | --- | 15  | 0,25  | --- | nvt  | nvt  |
+| 1,1,2-trichloorethaan  | 0,30*  | --- | 10  | 0,30  | --- | nvt  | nvt  |
+| trichlooretheen (Tri)  | 0,25*  | --- | 60  | 2,5  | --- | nvt  | nvt  |
+| tetrachloormethaan (Tetra)  | 0,30*  | --- | 1  | 0,7  | --- | nvt  | nvt  |
+| tetrachlooretheen (Per)  | 0,15  | --- | 4  | 4  | --- | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  *b. chloorbenzenen*   |
+| monochloorbenzeen  | 0,20*  | --- | --- | 5  | --- | nvt  | nvt  |
+| dichloorbenzenen (som)  | 2,0*  | --- | --- | 5  | --- | nvt  | nvt  |
+| trichloorbenzenen (som)  | 0,015*  | --- | --- | 5  | --- | nvt  | nvt  |
+| tetrachloorbenzenen (som)  | 0,0090*  | --- | --- | 2,2  | --- | nvt  | nvt  |
+| pentachloorbenzeen  | 0,0025  | 0,007  | --- | 5  | --- | nvt  | nvt  |
+| hexachloorbenzeen  | 0,0085  | 0,044  | --- | 1,4  | 0,02  | nvt  | nvt  |
+| chloorbenzenen (som)<sup>10</sup>   | 2,0*   | --- | 30  | --- | --- | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  *c. chloorfenolen*   |
+| monochloorfenolen (som)  | 0,045  | --- | --- | 5,4  | --- | nvt  | nvt  |
+| dichloorfenolen (som)  | 0,20*  | --- | --- | 6  | --- | nvt  | nvt  |
+| trichloorfenolen (som)  | 0,0030*  | --- | --- | 6  | --- | nvt  | nvt  |
+| tetrachloorfenolen (som)  | 0,015*  | --- | --- | 6  | --- | nvt  | nvt  |
+| pentachloorfenol  | 0,0030*  | 0,016  | 5  | 5  | --- | nvt  | nvt  |
+| chloorfenolen (som)<sup>10</sup>   | 0,20*   | --- | 10  | --- | --- | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  *d. polychloorbifenylen (PCB’s)*   |
+| PCB 28  | 0,0015   | 0,014  | --- | --- | --- | nvt  | nvt  |
+| PCB 52  | 0,0020   | 0,015  | --- | --- | --- | nvt  | nvt  |
+| PCB 101  | 0,0015   | 0,023  | --- | --- | --- | nvt  | nvt  |
+| PCB 118  | 0,0045   | 0,016  | --- | --- | --- | nvt  | nvt  |
+| PCB 138  | 0,0040   | 0,027  | --- | --- | --- | nvt  | nvt  |
+| PCB 153  | 0,0035   | 0,033  | --- | --- | --- | nvt  | nvt  |
+| PCB 180  | 0,0025   | 0,018  | --- | --- | --- | nvt  | nvt  |
+| PCB’s (som 7)  | 0,020  | 0,139  | 1  | 0,5  | 0,1<sup>@</sup>   | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  *e. overige gechloreerde koolwaterstoffen*   |
+| monochlooranilinen (som)  | 0,20*  | --- | 50  | 0,20  | --- | nvt  | nvt  |
+| pentachlooraniline  | 0,15*  | --- | --- | 0,15  | --- | nvt  | nvt  |
+| dioxine (som TEQ)  | 0,000055*  | --- | --- | 0,000055  | --- | nvt  | nvt  |
+| chloornaftaleen (som)  | 0,070*  | --- | 10  | 10  | --- | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  *6. Bestrijdingsmiddelen*   |
+|  *a. organochloorbestrijdingsmiddelen*   |
+| chloordaan (som)  | 0,0020  | --- | 4  | 0,1  | --- | nvt  | nvt  |
+| DDT (som)  | --- | --- | --- | 1  | --- | nvt  | nvt  |
+| DDE (som)  | --- | --- | --- | 1,3  | --- | nvt  | nvt  |
+| DDD (som)  | --- | --- | --- | 34  | --- | nvt  | nvt  |
+| DDT/DDE/DDD (som)  | 0,30   | 0,30<sup>$</sup>   | 4  | --- | 0,02  | nvt  | nvt  |
+| aldrin  | 0,00080  | 0,0013  | --- | --- | --- | nvt  | nvt  |
+| dieldrin  | 0,0080   | 0,0080<sup>$</sup>   | --- | --- | --- | nvt  | nvt  |
+| endrin  | 0,0035   | 0,0035<sup>$</sup>   | --- | --- | --- | nvt  | nvt  |
+| isodrin  | 0,0010*   | --- | --- | --- | --- | nvt  | nvt  |
+| telodrin  | 0,00050  | --- | --- | --- | --- | nvt  | nvt  |
+| drins (som)  | 0,015  | 0,015<sup>$</sup>   | 4  | 0,14  | --- | nvt  | nvt  |
+| endosulfansulfaat  | --- | --- | --- | --- | --- | nvt  | nvt  |
+| α-endosulfan  | 0,00090  | 0,0021  | 4  | 0,1  | --- | nvt  | nvt  |
+| α-HCH  | 0,0010  | 0,0012  | --- | 0,5  | --- | nvt  | nvt  |
+| β-HCH  | 0,0020  | 0,0065  | --- | 0,5  | --- | nvt  | nvt  |
+| γ-HCH (lindaan)  | 0,0030  | 0,003<sup>$</sup>   | --- | 0,5  | --- | nvt  | nvt  |
+| δ-HCH  | --- | --- | --- | --- | --- | nvt  | nvt  |
+| HCH-verbindingen (som)  | 0,010   | 0,010<sup>$</sup>   | 2  | --- | --- | nvt  | nvt  |
+| heptachloor  | 0,00070  | 0,004  | 4  | 0,1  | --- | nvt  | nvt  |
+| heptachloorepoxide (som)  | 0,0020  | 0,004  | 4  | 0,1  | --- | nvt  | nvt  |
+| hexachloorbutadieen  | 0,003*  | 0,0075   | --- | --- | --- | nvt  | nvt  |
+| organochloorhoudende bestrijdingsmiddelen (som waterbodem)  | 0,40  | --- | --- | --- | --- | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  *b. organofosforpesticiden*   |
+| azinfos-methyl  | 0,0075*  | --- | --- | 0,0075  | --- | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  *c. organotin bestrijdingsmiddelen*   |
+| organotin verbindingen (som)<sup>11</sup>   | 0,15  | --- | 2,5<sup>12</sup>   | 2,5<sup>12</sup>   | --- | nvt  | nvt  |
+| tributyltin (TBT)<sup>11</sup>   | 0,065  | 0,25  | --- | 0,065  | 0,25<sup>13</sup>   0,115<sup>14</sup>   | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  *d. chloorfenoxy-azijnzuur herbiciden*   |
+| MCPA  | 0,55*  | --- | 4  | 0,55  | --- | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  *e. overige bestrijdingsmiddelen*   |
+| atrazine  | 0,035*  | --- | 6  | 0,5  | --- | nvt  | nvt  |
+| carbaryl  | 0,15*  | --- | 5  | 0,45  | --- | nvt  | nvt  |
+| carbofuran  | 0,017*  | --- | 2  | 0,017  | --- | nvt  | nvt  |
+| 4-chloormethylfenolen (som)  | 0,60*  | --- | --- | 0,60  | --- | nvt  | nvt  |
+| organostikstof- en organofosforbestrijdingsmiddelen (som)  | 0,090*  | --- | --- | 0,5  | --- | nvt  | nvt  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  *7. Overige stoffen*   |
+| asbest<sup>15</sup>   | –  | 100  | 100  | 100  | 100  | nvt  | nvt  |
+| cyclohexanon  | 2,0*  | --- | 45  | 150  | --- | nvt  | nvt  |
+| dimethyl ftalaat  | --- | --- | --- | 60  | --- | nvt  | nvt  |
+| diethyl ftalaat  | --- | --- | --- | 53  | --- | nvt  | nvt  |
+| di-isobutylftalaat  | --- | --- | --- | 17  | --- | nvt  | nvt  |
+| dibutyl ftalaat  | --- | --- | --- | 36  | --- | nvt  | nvt  |
+| butyl benzylftalaat  | --- | --- | --- | 48  | --- | nvt  | nvt  |
+| dihexyl ftalaat  | --- | --- | --- | 60  | --- | nvt  | nvt  |
+| di(2-ethylhexyl)ftalaat  | --- | --- | --- | 60  | --- | nvt  | nvt  |
+| ftalaten (som)  | 0,25*   | --- | 60  | --- | --- | nvt  | nvt  |
+| minerale olie<sup>16</sup>   | 190  | 1250  | 5000  | 500  | 1250<sup>@</sup>   | nvt  | nvt  |
+| pyridine  | 0,15*  | --- | 0,5  | 1  | --- | nvt  | nvt  |
+| tetrahydrofuran  | 0,45  | --- | 2  | 2  | --- | nvt  | nvt  |
+| tetrahydrothiofeen  | 1,5*  | --- | 90  | 8,8  | --- | nvt  | nvt  |
+| tribroommethaan (bromoform)  | 0,20*  | --- | 75  | 0,20  | --- | nvt  | nvt  |
+| ethyleenglycol  | 5,0  | --- | --- | 5,0  | --- | nvt  | nvt  |
+| diethyleenglycol  | 8,0  | --- | --- | 8,0  | --- | nvt  | nvt  |
+| acrylonitril  | 0,1*  | --- | --- | 0,1  | --- | nvt  | nvt  |
+| formaldehyde  | 0,1*  | --- | --- | 0,1  | --- | nvt  | nvt  |
+| isopropanol (2-propanol)  | 0,75  | --- | --- | 0,75  | --- | nvt  | nvt  |
+| methanol  | 3,0  | --- | --- | 3,0  | --- | nvt  | nvt  |
+| butanol (1-butanol)  | 2,0*  | --- | --- | 2,0  | --- | nvt  | nvt  |
+| butylacetaat  | 2,0*  | --- | --- | 2,0  | --- | nvt  | nvt  |
+| ethylacetaat  | 2,0*  | --- | --- | 2,0  | --- | nvt  | nvt  |
+| methyl-tert-butyl ether (MTBE)  | 0,20*  | --- | --- | 0,20  | --- | nvt  | nvt  |
+| methylethylketon  | 2,0*  | --- | --- | 2,0  | --- | nvt  | nvt  |
+
+Opmerkingen: 
+
+1) Voor het vaststellen van een overschrijding van de waarden en het omgaan met rapportagegrenzen en aantoonbaarheidsgrenzen is bijlage G, onder IV, van toepassing.  
+
+2) Wanneer in de kolom ‘Maximale waarden kwaliteitsklasse A’ of in de kolom ‘Maximale waarden kwaliteitsklasse B’ geen waarde is vermeld, wordt de grond, baggerspecie, bodem of bodem of oever van een oppervlaktewaterlichaam ingedeeld in de kwaliteitsklasse B. Wanneer in de kolom ‘Maximale waarden kwaliteitsklasse B’ geen waarde is vermeld, dient bij de invulling van de zorgplicht rekening te worden gehouden met mogelijke overschrijdingen van de indicatieve interventiewaarden, zoals opgenomen in het normenzoeksysteem www.helpdeskwater.nl/normen_zoeksysteem.  
+
+3)Voor dioxine wordt de som TEQ berekend als de som van de producten van de concentraties van dioxines, dibenzofuranen en dioxine-achtige PCB’s en de TEF overeenkomstig de volgende formule: 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| Som TEQ  | =  | --- |
+
+Waarin:  
+
+| --- | --- | --- |
+|:---|:---|:---|
+| TEQ  | =  | toxische equivalent (‘WHO-TEQ’)  |
+| C  | =  | concentratie van dioxines, dibenzofuranen en dioxine-achtige PCB’s  |
+| TEF  | =  | ToxiciteitsEquivalentieFactor  |
+
+De TEQ waarde drukt de toxiciteit van de aanwezige dioxines, dibenzofuranen en dioxine-achtige PCB’s uit in toxiciteit van referentiestof TCDD. De in te vullen TEF kan worden afgeleid van de volgende tabel:  
+
+| Stof  | TEF  |
+|:---|:---|
+| Gechlorineerde dibenzo-p-dioxines  | --- |
+| 2,3,7,8-TCDD  | 1  |
+| 1,2,3,7,8-PeCDD  | 1  |
+| 1,2,3,6,7,8-HxCDD  | 0,1  |
+| 1,2,3,7,8,9-HxCDD  | 0,1  |
+| 1,2,3,4,7,8-HxCDD  | 0,1  |
+| 1,2,3,4,6,7,8-HpCDD  | 0,01  |
+| 1,2,3,4,6,7,8,9-OCDD  | 0,0003  |
+| Gechlorineerde dibenzofuranen  | --- |
+| 2,3,7,8-TCDF  | 0,1  |
+| 1,2,3,7,8-PeCDF  | 0,03  |
+| 2,3,4,7,8-PeCDF  | 0,3  |
+| 1,2,3,6,7,8-HxCDF  | 0,1  |
+| 1,2,3,7,8,9-HxCDF  | 0,1  |
+| 1,2,3,4,7,8-HxCDF  | 0,1  |
+| 2,3,4,6,7,8-HxCDF  | 0,1  |
+| 1,2,3,4,6,7,8-HpCDF  | 0,01  |
+| 1,2,3,4,7,8,9-HpCDF  | 0,01  |
+| 1,2,3,4,6,7,8,9-OCDF  | 0,0003  |
+| PCBs  | --- |
+| PCB77  | 0,0001  |
+| PCB81  | 0,0003  |
+| PCB105  | 0,00003  |
+| PCB114  | 0,00003  |
+| PCB118  | 0,00003  |
+| PCB123  | 0,00003  |
+| PCB126  | 0,1  |
+| PCB156  | 0,00003  |
+| PCB157  | 0,00003  |
+| PCB167  | 0,00003  |
+| PCB169  | 0,03  |
+| PCB189  | 0,00003  |
+
+Indien PCB118 alleen als onderdeel van de som PCB’s wordt gemeten, wordt de som dioxines niet bepaald.
+
+4) Voor het omgaan met stoffen die niet genormeerd zijn en voor stoffen waar een achtergrondwaarde of interventiewaarde ontbreekt, wordt voor een nadere invulling van de zorgplicht verwezen naar de meest recente risiconormen voor water, bodem of sediment. Zie www.helpdeskwater.nl/normenzoeksysteem of www.rivm.nl/RVS/Normen. Verklaring symbolen in tabel 2:  <sup>1</sup> Voor de definitie van somparameters wordt verwezen naar bijlage N van deze regeling. De definitie van sommige somparameters is verschillend voor de landbodem en de waterbodem. Achter de somparameter wordt vermeld welke van de twee definities gehanteerd moet worden.  <sup>2</sup> De Maximale waarden verspreiden baggerspecie in een zoet oppervlaktewaterlichaam zijn gebaseerd op een bepaald Herverontreinigingsniveau (HVN). Voor de stoffen waarvoor geen HVN is afgeleid gelden de Achtergrondwaarden en de toetsingsregels voor de Achtergrondwaarden.  <sup>3</sup> in een oppervlaktewaterlichaam wordt geen grond toegepast die niet afkomstig is van de bodem of oever van een oppervlaktewaterlichaam en die de Maximale waarden voor de functieklasse industrie overschrijdt.  <sup>4</sup> Bij de toetsing aan de maximale waarden voor verspreiden in zout oppervlaktewaterlichaam wordt geen bodemtype correctie toegepast.  <sup>5</sup> Voor het toepassen van zeezand geldt de norm 200 mg/kg ds. Bij het toepassen van zeezand op plaatsen waar een direct contact is of mogelijk is met brak water of zeewater met van nature een chloride-gehalte van meer dan 5000 mg/l, geldt voor chloride geen maximale waarde.  <sup>6</sup> Bij gehalten die de Achtergrondwaarde overschrijden moet rekening worden gehouden met de mogelijkheid van uitdamping. Wanneer uitdamping naar binnenlucht zou kunnen optreden, moet bij overschrijding van de Achtergrondwaarde worden gemeten in de bodemlucht en moet worden getoetst aan de TCL (Toxicologisch Toelaatbare Concentratie in Lucht).  <sup>7</sup> De Achtergrondwaarde van deze somparameter gaat uit van de aanwezigheid van meerdere van de 16 componenten, die tot deze somparameter worden gerekend (zie bijlage N). De hoogte van de Achtergrondwaarde is gebaseerd op de som van de bepalingsgrenzen vermenigvuldigd met 0,7. Sommige componenten zijn tevens individueel genormeerd. Binnen de somparameter mag de Achtergrondwaarde van de individueel genormeerde componenten niet worden overschreden. Hetzelfde geldt voor de Maximale waarde wonen en de Maximale waarde industrie. Voor de componenten, die niet individueel zijn genormeerd, geldt per component een maximum gehalte van 0,45 mg/kg ds, zowel voor de Achtergrondwaarde als de Maximale waarden wonen en industrie.  <sup>8</sup> De interventiewaarden voor bodem of oever van een oppervlaktewaterlichaam van deze stoffen zijn gelijk of kleiner dan de bepalingsgrens (intralaboratorium reproduceerbaarheid). Indien de stof wordt aangetoond moeten de risico’s nader worden onderzocht. Bij het aantreffen van vinylchloride of 1,1-dichlooretheen moet tevens het grondwater worden onderzocht.  <sup>9</sup> De Interventiewaarde waterbodem is gelijk (gesteld) aan de bepalingsgrens (intralaboratorium reproduceerbaarheid).  <sup>10</sup> De Achtergrondwaarde van deze somparameter gaat uit van de aanwezigheid van meerdere componenten, die tot deze somparameter worden gerekend (zie bijlage N). De hoogte van de Achtergrondwaarde is gebaseerd op de som van de Achtergrondwaarden van de afzonderlijke isomeergroepen vermenigvuldigd met 0,7. Binnen de somparameter mag de Achtergrondwaarde van de afzonderlijke isomeergroepen niet worden overschreden.   <sup>11</sup> De eenheid voor organotinverbindingen is mg Sn/kg ds, met uitzondering van de normwaarden met voetnoot 12.  <sup>12</sup> De eenheid voor de Maximale waarde bodemfunctieklasse industrie, Interventiewaarde waterbodem en Maximale waarde kwaliteitsklasse B voor organotinverbindingen (som) is organotin in mg/kg ds.  <sup>13</sup> Normwaarde Tributyltin van 0,25 mg Sn/kg ds geldt verspreiden van baggerspecie in de Waddenzee en de Zeeuwse Delta.  <sup>14</sup> Normwaarde Tributyltin van 0,115 mg Sn/kg ds geldt voor verspreiden van baggerspecie in de Noordzee langs de Noordzeekust.  <sup>15</sup> Gewogen norm (concentratie serpentijn asbest + 10 x concentratie amfibool asbest). Deze eis bedraagt 0 mg/kg d.s. indien niet is voldaan aan artikel 2, onder b, van het Productenbesluit Asbest.  <sup>16</sup> Minerale olie heeft betrekking op de som van de (al dan niet) vertakte alkanen. Indien er enigerlei vorm van verontreiniging met minerale olie wordt aangetoond in grond/baggerspecie, dan dient naast het gehalte aan minerale olie ook het gehalte aan aromatische en/of polycyclische aromatische koolwaterstoffen bepaald te worden. <sup>17</sup> De normen voor barium zijn ingetrokken. Gebleken is dat de interventiewaarde voor barium lager was dan het gehalte dat van nature in de bodem voorkomt. Indien er sprake is van verhoogde bariumgehalten ten opzichte van de natuurlijke achtergrond als gevolg van een antropogene bron, kan dit gehalte door het bevoegd gezag worden beoordeeld op basis van de voormalige interventiewaarde voor barium van 625 mg/kg d.s. Deze voormalige interventiewaarde is op dezelfde manier onderbouwd als de interventiewaarden voor de meeste andere metalen.* Achtergrondwaarde is gebaseerd op de (intralaboratorium reproduceerbaarheid) bepalingsgrens, omdat onvoldoende metingen boven de bepalingsgrens beschikbaar zijn om een betrouwbare P95 af te leiden.  <sup>@</sup> Betreft normwaarde voor een niet prioritaire stof op grond van de KRW.  <sup>$</sup> Herverontreinigingsniveau (HVN) is lager dan Achtergrondwaarde, daarom is de Maximale waarde voor verspreiden in een oppervlaktewaterlichaam dat zoet water bevat/Maximale waarde kwaliteitsklasse A gelijk getrokken aan de Achtergrondwaarde. 
 
 ### Bijlage C 
 
@@ -1708,6 +2199,197 @@ In onderstaande lijst zijn combinaties van toepassingen en bouwstoffen opgenomen
 | --- | --- | – zeer open cementbeton  |
 | Waterbouw  | toplaag  | – open colloïdaal beton  |
 
+### Bijlage G 
+
+####, behorende bij artikel 4.2.1  en 4.2.2 
+
+###I 
+
+Vervallen.
+
+###II 
+
+Vervallen.
+
+### III  
+
+####Formules bodemtypecorrectie bodem, bodem of oever van een oppervlaktewaterlichaam, bij toepassing en verspreiden van grond of baggerspecie volgens de toetsingskaders in paragraaf 2 en 3 van afdeling 2 van hoofdstuk 4 van het Besluit bodemkwaliteit, behorende bij de artikelen 3.9.5 , 4. 2.1  en 4.2.2 
+
+Interventiewaarden en normwaarden in de tabellen 1 en 2 van bijlage B en lokale maximale waarden zijn bodemtype-afhankelijk en gebaseerd op een standaardbodem met een lutum percentage van 25 % en een organische stof percentage van 10 %. Alleen de maximale waarden voor verspreiden in zoute oppervlaktewaterlichamen in tabel 2 van bijlage B en de emissiewaarden in de tabellen 1 en 2 van bijlage B zijn niet-bodemtype-afhankelijk. Bij de beoordeling van de kwaliteit van de bodem, bodem of oever van een oppervlaktewaterlichaam of toe te passen grond of baggerspecie op of in de bodem of in een oppervlaktewaterlichaam worden de gemeten gehalten middels een bodemtypecorrectie omgerekend naar standaardbodem. Bij de beoordeling aan de maximale waarde verspreiden in zoute oppervlaktewaterlichamen wordt geen bodemtypecorrectie toegepast. Toetsing vindt dan plaats met de werkelijk gemeten gehalten. De omrekening naar standaardbodem vindt plaats op basis van individuele meetwaarden, alvorens andere berekeningen (bepalen gemiddelden of P95) worden uitgevoerd. Bij het standaardiseren wordt gebruik gemaakt van de gemeten percentages organische stof en lutum. De gestandaardiseerde waarden worden, met inachtneming van de toetsingsregels, getoetst aan de normwaarden voor toepassen van grond of baggerspecie in oppervlaktewater, zoals die zijn opgenomen in de tabellen 1 en 2 van bijlage. Hierbij is het percentage aan organisch stof bepaald volgens NEN 5754. Hierbij is het percentage lutum het gewichtspercentage minerale bestanddelen met een diameter kleiner dan 2 µm betrokken op het drooggewicht. De omrekening van gemeten gehalten in bodem, bodem of oever van een oppervlaktewaterlichaam waterbodem, grond of baggerspecie naar een standaardbodem verloopt via de onderstaande formule: ![251295](http://wetten.overheid.nl/Illustration/251295)
+Hierin is: G <sub>standaard </sub> Gestandaardiseerd gehalte G <sub>gemeten </sub> Gemeten gehalte A,B,C Stofafhankelijke constanten voor metalen (zie tabel 3) % lutum Percentage lutum: het gewichtspercentage minerale bestanddelen met een diameter kleiner dan 2 µm betrokken op het totale drooggewicht van de bodem, oever grond of baggerspecie. Voor thermisch gereinigde grond en baggerspecie geldt de volgende uitzondering: indien het lutumpercentage lager is dan 10%, wordt bij de omrekening van de gemeten gehalten aan barium met een lutumpercentage van 10% gerekend. % organische stof Gemeten percentage organisch stof betrokken op het drooggewicht. Het percentage organisch stof kan voor zoute baggerspecie ook berekend worden uit het percentage organisch koolstof x 1,724. Voor het percentage organisch stof is een minimum en maximumwaarde gedefinieerd. Voor het percentage lutum is een minimumwaarde gedefinieerd. (zie tabel 4).  Tabel 3 Stofafhankelijke constanten voor metalen en organische verbindingen 
+
+| Stof  | A  | B  | C  |
+|:---|:---|:---|:---|
+| Antimoon<sup>1</sup>   | 1  | 0  | 0  |
+| Arseen  | 15  | 0,4  | 0,4  |
+| Barium  | 30  | 5  | 0  |
+| Berylium  | 8  | 0,9  | 0  |
+| Cadmium  | 0,4  | 0,007  | 0,021  |
+| Chroom  | 50  | 2  | 0  |
+| Kobalt  | 2  | 0,28  | 0  |
+| Koper  | 15  | 0,6  | 0,6  |
+| Kwik  | 0,2  | 0,0034  | 0,0017  |
+| Lood  | 50  | 1  | 1  |
+| Molybdeen<sup>1</sup>   | 1  | 0  | 0  |
+| Nikkel  | 10  | 1  | 0  |
+| Thallium<sup>1</sup>   | 1  | 0  | 0  |
+| Tin  | 4  | 0,6  | 0  |
+| Vanadium  | 12  | 1,2  | 0  |
+| Zink  | 50  | 3  | 1,5  |
+| Organische verbindingen  | 0  | 0  | 1  |
+| Overige verbindingen   | 1  | 0  | 0  |
+
+<sup>1</sup> Voor antimoon, molybdeen en thallium wordt geen bodemtypecorrectie gehanteerd. Tabel 4 minimum en maximum waarde 
+
+| minimum en maximum waarde  |--- | stofgroep  | Min   | Max  | Min   | Max  |
+|:---|:---|:---|:---|:---|:---|:---|
+| Anorganische parameters   | 2  | –  | 2  | –  |
+| Organische parameters  | 2  | 30  | –  | –  |
+| PAK's  | 10  | 30  | –  | –  |
+
+De berekening van de meersoorten Potentieel Aangetast Fractie (msPAF) als aparte normwaarde bij het beoordelen van de kwaliteit van baggerspecie die conform artikel 35, onderdeel f, van het Besluit bodemkwaliteit wordt verspreid op het aangrenzend perceel heeft een aparte vorm van standaardisatie. De minimum en maximumwaarden zoals opgenomen in tabel 4 worden niet gehanteerd bij het berekenen van de msPAF, met uitzondering van de minimumwaarde voor de organische parameters genoemd in deze tabel. 
+
+### IV  
+
+####Regels voor het vaststellen van een overschrijding van de waarden, bedoeld in artikel 3.3.3 , 3.5.3 , 3.6.2 , 3.9.5 , 3.9.8 , 4.2.2  en 4.10.2 
+
+De normwaarden voor grond, grondwater baggerspecie, bodem of bodem of oever van een oppervlaktewaterlichaam opgenomen in de tabellen 1 en 3 van bijlage B van de Circulaire bodemsanering 2009 zoals gewijzigd op 3 april 2012 en voor bouwstoffen in bijlage A van deze circulaire kunnen lager zijn dan met de huidige technieken betrouwbaar (routinematig) kan worden gemeten.
+###A: grond, grondwater baggerspecie, bodem of bodem of oever van een oppervlaktewaterlichaam
+
+De door het laboratorium aangeleverde gehalten zijn gemeten conform de afgestemde meetmethoden in AS3000 dan wel AP04. Bij een resultaat < dan de rapportagegrenzen, genoemd in tabel 1 van deze bijlage, mag de beoordelaar ervan uit gaan dat de kwaliteit van de grond, grondwater, baggerspecie, bodem, bodem of oever van een oppervlaktewaterlichaam voldoet aan de van toepassing zijnde normwaarden. Indien de op het analysecertificaat weergegeven < rapportagegrens hoger ligt dan de in tabel 1 vermelde rapportagegrenzen dan dient de desbetreffende < rapportagegrens te worden vermenigvuldigd met 0,7. De zo verkregen waarde wordt getoetst aan de van toepassing zijnde waarden. Indien het laboratorium een gemeten gehalte rapporteert (zonder < teken), wordt dit gehalte aan de van toepassing zijnde waarde getoetst, ook als dit gehalte lager is dan de vereiste rapportagegrens. Indien geen rapportagegrens is opgenomen in tabel 1 dient het gemeten gehalte (met < teken) vermenigvuldigd te worden met 0,7. Bij het berekenen van een somwaarde, het rekenkundig gemiddelde en een percentielwaarde worden voor de individuele componenten de gemeten gehalten < rapportagegrens vermenigvuldigd met 0,7. Indien er voor een of meer individuele componenten een of meer gemeten gehalten (zonder < teken) zijn of geen rapportagegrens in tabel 1 is opgenomen, dan dient de berekende waarde te worden getoetst aan de van toepassing zijnde normwaarde. Deze regel geldt ook als gemeten gehalten lager zijn dan de vereiste rapportagegrens. Indien alle individuele waarden als onderdeel van deze berekende waarde < minimale rapportagegrens uit tabel 1 zijn, mag de beoordelaar ervan uit gaan dat de kwaliteit voldoet aan de van toepassing zijnde normwaarden. Deze regel geldt niet voor de berekening van de msPAF metalen en msPAF organische stoffen. Voor grondwater heeft de onderzoeker de vrijheid onderbouwd te concluderen dat het betreffende monster niet in die mate is verontreinigd als het toetsingsresultaat aangeeft. Dit geldt bijvoorbeeld als bij een meting van PAK’s in het grondwater alleen voor naftaleen in een licht verhoogde concentratie is aangetoond en de overige PAK’s een waarde < rapportagegrens hebben. Voor die overige PAK’s worden dan relatief hoge gehalten berekend (door de vermenigvuldiging met 0,7), waarvan kan worden onderbouwd dat die gehalten niet in het grondwater aanwezig zullen zijn gezien de immobiliteit van de betreffende stoffen.
+###B: Bouwstoffen
+
+Voor toetsen aan de emissie en samenstellingwaarden gelden dezelfde regels als onder A. Voor de rapportage-eisen wordt verwezen naar de hiervoor geldende AP04 documenten. Bij enkele type bouwstoffen kan het voorkomen dat door bepaalde toevoegingen in de bouwstof, bij de analyse van die bouwstoffen de rapportage-eisen voor de samenstellingswaarden niet gehaald kunnen worden. Deze verstoring van het analyseresultaat wordt ook wel aangeduid als een matrixstoring. Door het laboratorium wordt aangegeven wat de oorzaak is van de matrixstoring en of deze matrixstoring middels een extra of andere voorbewerking of middels andere meetmethode kan worden voorkomen. Is dit niet het geval en de matrixstoring leidt tot een overschrijding van de maximale samenstellingswaarden van bijlage A van de regeling, heeft de onderzoeker de vrijheid om onderbouwd aan te tonen dat de bouwstof bij toepassing ter invulling van de zorgplicht niet tot nadelige gevolgen voor het milieu leidt.  Tabel 1 ten minste te behalen rapportagegrenzen behorende bij bijlage GIV 
+
+|--- | bodem en bodem of oever van een oppervlaktewaterlichaam, grond en baggerspecie  |--- | grondwater  | Stof  | eenheid   | rapportagegrens  |--- | eenheid   | rapportagegrens  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *1. Metalen *   |  *mg/kg ds( tenzij anders aangegeven)*   | --- | --- |  *µg/l( tenzij anders aangegeven)*   | --- |
+| antimoon  | --- | 1,5  | --- | --- | 3  |
+| Arseen  | --- | 4  | --- | --- | 5  |
+| barium  | --- | 20  | --- | --- | 20  |
+| beryllium  | --- | 1  | --- | --- | 1  |
+| cadmium  | --- | 0,2  | --- | --- | 0,2  |
+| chroom  | --- | 10  | --- | --- | 1  |
+| kobalt   | --- | 3  | --- | --- | 2  |
+| koper  | --- | 5  | --- | --- | 2  |
+| kwik  | --- | 0,05  | --- | --- | 0,05  |
+| lood  | --- | 10  | --- | --- | 2  |
+| molybdeen  | --- | 1,5  | --- | --- | 2  |
+| nikkel  | --- | 4  | --- | --- | 3  |
+| seleen  | --- | 1,5  | --- | --- | --- |
+| tellurium  | --- | 2  | --- | --- | 15  |
+| thallium  | --- | 1  | --- | --- | 5  |
+| tin  | --- | 1,5  | --- | --- | 2,5  |
+| vanadium   | --- | 10  | --- | --- | 2  |
+| zilver  | --- | 1  | --- | --- | 5  |
+| zink  | --- | 20  | --- | --- | 10  |
+|  *2. Overige anorganische stoffen*   | --- | --- | --- | --- | --- |
+| chloride   | --- | 150  | --- | mg/l  | 50  |
+| CN vrij  | --- | 2  | --- | --- | 3  |
+| CN totaal  | --- | 3  | --- | --- | 5  |
+| nitraat   | --- | --- | --- | mg N/l  | 3  |
+| ortho-fosfaat   | --- | --- | --- | mg P/l  | 1  |
+| sulfaat  | --- | --- | --- | mg/l  | 30  |
+|  *3. Aromatische stoffen*   | --- | --- | --- | --- | --- |
+| benzeen  | --- | 0,05  | --- | --- | 0,2  |
+| ethylbenzeen  | --- | 0,05  | --- | --- | 0,2  |
+| tolueen  | --- | 0,05  | --- | --- | 0,2  |
+| o-xyleen  | --- | 0,05  | --- | --- | 0,1  |
+| m-xyleen  | --- | som 0,1  | --- | --- | som 0,2  |
+| p-xyleen  | --- | --- | --- |
+| styreen  | --- | 0,05  | --- | --- | 0,2  |
+| 1,2,3-trimethylbenzeen  | --- | 0,1  | --- | --- | --- |
+| 1,2,4-trimethylbenzeen  | --- | 0,1  | --- | --- | --- |
+| 1,3,5-trimethylbenzeen  | --- | 0,1  | --- | --- | --- |
+| 2-ethyltolueen  | --- | 0,1  | --- | --- | --- |
+| 3-ethyltolueen  | --- | 0,1  | --- | --- | --- |
+| 4-ethyltolueen  | --- | 0,1  | --- | --- | --- |
+| isopropylbenzeen  | --- | 0,1  | --- | --- | --- |
+| propylbenzeen  | --- | 0,1  | --- | --- | --- |
+|  *4. Polycyclische aromatische koolwaterstoffen( PAK's)*   | --- | --- | --- | --- | --- |
+| naftaleen  | --- | 0,05  | --- | --- | 0,02  |
+| fenantreen  | --- | 0,05  | --- | --- | 0,01  |
+| antraceen   | --- | 0,05  | --- | --- | 0,01  |
+| fluoranteen  | --- | 0,05  | --- | --- | 0,01  |
+| chryseen  | --- | 0,05  | --- | --- | 0,01  |
+| benz(a)antraceen  | --- | 0,05  | --- | --- | 0,01  |
+| benz(a)pyreen  | --- | 0,05  | --- | --- | 0,01  |
+| benz(k)fluoranteen  | --- | 0,05  | --- | --- | 0,01  |
+| indeno(123cd)pyreen  | --- | 0,05  | --- | --- | 0,01  |
+| benz(ghi)peryleen  | --- | 0,05  | --- | --- | 0,01  |
+|  *5. Gechloreerde koolwaterstoffen a.(vluchtige) chloorkoolwaterstoffen*   | --- | --- | --- | --- | --- |
+| monochlooretheen( vinylchloride )  | --- | 0,05  | --- | --- | 0,2  |
+| dichloormethaan  | --- | 0,05  | --- | --- | 0,2  |
+| 1,1-dichloorethaan  | --- | 0,1  | --- | --- | 0,2  |
+| 1,2-dichloorethaan  | --- | 0,1  | --- | --- | 0,2  |
+| 1,1-dichlooretheen  | --- | 0,1  | --- | --- | 0,1  |
+| cis 1,2-dichlooretheen  | --- | 0,1  | --- | --- | 0,1  |
+| trans 1,2-dichlooretheen  | --- | 0,1  | --- | --- | 0,1  |
+| 1,1-dichloorpropaan  | --- | 0,05  | --- | --- | 0,2  |
+| 1,2-dichloorpropaan  | --- | 0,05  | --- | --- | 0,2  |
+| 1,3-dichloorpropaan  | --- | 0,05  | --- | --- | 0,2  |
+| trichloormethaan( chloroform)  | --- | 0,05  | --- | --- | 0,2  |
+| 1,1,1-trichloorethaan  | --- | 0,05  | --- | --- | 0,1  |
+| 1,1,2-trichloorethaan  | --- | 0,05  | --- | --- | 0,1  |
+| trichlooretheen(Tri)  | --- | 0,05  | --- | --- | 0,2  |
+| tetrachloormethaan(Tetra)  | --- | 0,05  | --- | --- | 0,1  |
+| tetrachlooretheen (Per)  | --- | 0,05  | --- | --- | 0,1  |
+|  *b. chloorbenzenen*   | --- | --- | --- | --- | --- |
+| monochloorbenzeen  | --- | 0,04  | --- | --- | 0,2  |
+| 1,2-dichloorbenzeen  | --- | 0,1  | --- | --- | 0,2  |
+| 1,3-dichloorbenzeen  | --- | 0,1  | --- | --- | 0,2  |
+| 1,4-dichloorbenzeen  | --- | 0,1  | --- | --- | 0,2  |
+| 1,2,3-trichloorbenzeen  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| 1,2,4-trichloorbenzeen  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| 1,3,5-trichloorbenzeen  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| 1,2,3,4-tetrachloorbenzeen  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| 1,2,3,5-tetrachloorbenzeen  | µg/kg ds   | som 2  | --- | --- | som 0,02  |
+| 1,2,4,5-tetrachloorbenzeen  | µg/kg ds   | --- |
+| pentachloorbenzeen  | µg/kg ds   | 1  | --- | ng/l  | 5  |
+| hexachloorbenzeen  | µg/kg ds   | 1  | --- | ng/l  | 5  |
+|  *c. chloorfenolen*   | --- | --- | --- | --- | --- |
+| pentachloorfenol  | µg/kg ds   | 3  | --- | --- | --- |
+|  *d. polychloorbifenylen (PCB's)*   | --- | --- | --- | --- | --- |
+| PCB 28  | µg/kg ds   | 1  | --- | ng/l  | 6  |
+| PCB 52  | µg/kg ds   | 1  | --- | ng/l  | 6  |
+| PCB101  | µg/kg ds   | 1  | --- | ng/l  | 6  |
+| PCB 118  | µg/kg ds   | 1  | --- | ng/l  | 6  |
+| PCB138  | µg/kg ds   | 1  | --- | ng/l  | 6  |
+| PCB153  | µg/kg ds   | 1  | --- | ng/l  | 6  |
+| PCB 180  | µg/kg ds   | 1  | --- | ng/l  | 6  |
+|  *6. Bestrijdingsmiddelen a. oranochloorbestrijdingsmiddelen*   | --- | --- | --- | --- | --- |
+| cis-chloordaan  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| trans-chloordaan  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| opDDT  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| ppDDT  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| opDDE  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| ppDDE  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| opDDD  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| ppDDD  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| aldrin  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| dieldrin  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| endrin  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| isodrin  | µg/kg ds   | 1  | --- | --- | --- |
+| telodrin  | µg/kg ds   | 1  | --- | --- | --- |
+| endosulfansulfaat  | µg/kg ds   | 2  | --- | --- | --- |
+| α-endosulfan  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| α-HCH  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| β-HCH  | µg/kg ds   | 1  | --- | ng/l  | 8  |
+| γ-HCH  | µg/kg ds   | 1  | --- | ng/l  | 9  |
+| δ-HCH  | µg/kg ds   | 1  | --- | ng/l  | 8  |
+| heptachloor  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| cis-heptachloorepoxide  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| trans-heptachloorepoxide  | µg/kg ds   | 1  | --- | --- | 0,01  |
+| hexachloorbutadieen  | µg/kg ds   | 1  | --- | --- | --- |
+|  *c. organotin bestrijdingsmiddelen*   | --- | --- | --- | --- | --- |
+| tributyltin  | µg Sn/kg ds   | 4  | --- | --- | --- |
+| trifenyltin  | µg Sn/kg ds   | 4  | --- | --- | --- |
+|  *7. Overige stoffen*   | --- | --- | --- | --- | --- |
+| ETBE  | --- | 0,3  | --- | --- | 1  |
+| min olie  | --- | 35  | --- | --- | 50  |
+| MTBE  | --- | 0,1  | --- | --- | 1  |
+| tribroommethaan  | --- | 0,1  | --- | --- | 0,2  |
+
 ### Bijlage H 
 
 ####, behorende bij paragraaf 3.5  en 3.6  van de Regeling bodemkwaliteit
@@ -1767,7 +2449,7 @@ In de onderstaande tabel zijn voor de verschillende klassen de voorwaarden gegev
 
 ####Richtlijn opstellen kaarten bodemfunctieklassen
 
-Ten behoeve van het generieke toetsingskader legt de gemeente de bodemfunctieklassen vast op een kaart ([Besluit bodemkwaliteit, artikel 55, derde lid](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md)). Deze kaart geeft de ligging aan van: 
+Ten behoeve van het generieke toetsingskader legt de gemeente de bodemfunctieklassen vast op een kaart (Besluit bodemkwaliteit, artikel 55, derde lid). Deze kaart geeft de ligging aan van: 
 
 – Gebieden met de bodemfunctieklassen wonen;  
 
@@ -1803,7 +2485,7 @@ Uitgangspunt voor het opstellen van de kaart met bodemfunctieklassen zijn de bod
 
 #### *Opstellen kaart bodemfunctieklassen zonder bodemkwaliteitskaart* 
 
-Indien er geen bodemkwaliteitskaart is, worden de bodemfunctieklassen direct afgeleid van het actuele bodemgebruik, de bodemfuncties zoals die zijn vastgesteld in het bestemmingsplan, een ontwerp-bestemmingsplan of een voorbereidingsbesluit op grond van de [Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md). Bij de indeling in bodemfunctieklassen geldt als uitgangspunt dat de bodemfunctieklasse die wordt toegekend aan een gebied overeen komt met de gevoeligste bodemfunctie(klasse) binnen het betreffende gebied. 
+Indien er geen bodemkwaliteitskaart is, worden de bodemfunctieklassen direct afgeleid van het actuele bodemgebruik, de bodemfuncties zoals die zijn vastgesteld in het bestemmingsplan, een ontwerp-bestemmingsplan of een voorbereidingsbesluit op grond van de Wet ruimtelijke ordening. Bij de indeling in bodemfunctieklassen geldt als uitgangspunt dat de bodemfunctieklasse die wordt toegekend aan een gebied overeen komt met de gevoeligste bodemfunctie(klasse) binnen het betreffende gebied. 
 
 ### Bijlage K 
 
@@ -2044,7 +2726,7 @@ Componenten: Oplosmiddelen methanol, 2-propanol, acrylonitril, methylethylketon,
 1. Locaties waarvan bekend is of verwacht wordt dat ze verontreinigd zijn als gevolg van een puntbron, zijn geen onderdeel van de kaart van de actuele kwaliteit van de bodem. Deze locaties worden van de kaart uitgesloten, door in de bodemkwaliteitskaart een kaartlaag op te nemen waarin alle locaties die verdacht worden van bodemverontreiniging en alle bekende verontreinigde locaties worden weergegeven. 2. In de kaart van de actuele bodemkwaliteit wordt ten minste de bodemkwaliteit van de toplaag van 0 tot 0,5 meter beneden maaiveld of oppervlaktewaterniveau vastgelegd. 3. In de kaart van de actuele bodemkwaliteit worden ten minste de stoffen opgenomen als bedoeld in artikel 4.5.1, eerste lid, van de Regeling bodemkwaliteit. 4. In afwijking van het derde, is voor kaarten van de actuele kwaliteit van de bodem voor rijkswateren artikel 4.5.1, tweede lid van de regeling van toepassing. Voorzover een stoffenpakket voor de rijkswateren is vastgesteld, worden ten minste de stoffen van het stoffenpakket voor de rijkswateren opgenomen in kaarten van de actuele bodemkwaliteit van de rijkwateren. 5. De kaart van de actuele bodemkwaliteit wordt voorzien van een toelichting, waarin wordt omschreven hoe de kaart tot stand is gekomen, en de inhoudelijke en beleidsmatige keuzes die daarbij zijn gemaakt. 
 ###2. Aanvullende randvoorwaarden voor kaarten van de actuele kwaliteit van de bodem onder oppervlaktewater
 
-1. Een kaart van de actuele kwaliteit van de bodem of oever van een oppervlaktewaterlichaam kan worden opgesteld voor gebieden waarvan het aannemelijk is, dat de ruimtelijke indeling in bodemkwaliteitszones niet verandert binnen de geldigheidsduur van een bodemkwaliteitskaart. In gevallen dat dit niet aannemelijk is, kan de kaart van de actuele kwaliteit van de bodem of oever van een oppervlaktewaterlichaam niet dienen als basis van milieuhygiënische verklaringen voor de bodem of vrijkomende baggerspecie in het beheersgebied. 2. Bodemverwachtingenkaarten kunnen worden gebruikt om te voldoen aan de in [artikel 47, onder a, van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) genoemde eisen ter onderbouwing van de lokale maximale waarden. 3. Bodemverwachtingenkaarten kunnen niet gebruikt worden als basis voor een milieuhygiënische verklaring van de toe te passen baggerspecie of van de bodem waarop de grond of baggerspecie wordt toegepast. 
+1. Een kaart van de actuele kwaliteit van de bodem of oever van een oppervlaktewaterlichaam kan worden opgesteld voor gebieden waarvan het aannemelijk is, dat de ruimtelijke indeling in bodemkwaliteitszones niet verandert binnen de geldigheidsduur van een bodemkwaliteitskaart. In gevallen dat dit niet aannemelijk is, kan de kaart van de actuele kwaliteit van de bodem of oever van een oppervlaktewaterlichaam niet dienen als basis van milieuhygiënische verklaringen voor de bodem of vrijkomende baggerspecie in het beheersgebied. 2. Bodemverwachtingenkaarten kunnen worden gebruikt om te voldoen aan de in artikel 47, onder a, van het besluit genoemde eisen ter onderbouwing van de lokale maximale waarden. 3. Bodemverwachtingenkaarten kunnen niet gebruikt worden als basis voor een milieuhygiënische verklaring van de toe te passen baggerspecie of van de bodem waarop de grond of baggerspecie wordt toegepast. 
 ###3. Indelen beheersgebied in deelgebieden
 
 1. Het beheersgebied wordt ingedeeld in deelgebieden die uniform zijn ten aanzien van de volgende kenmerken: 
@@ -2074,7 +2756,7 @@ f. afspoeling vanaf aangrenzende percelen (bijvoorbeeld belendende boomgaardperc
 g. invloed van de nabije omgeving: depositie vanuit de lucht (verkeer).   3. Indien in een gebied andere kenmerken dan genoemd in het eerste lid van invloed kunnen zijn op de actuele bodemkwaliteit, worden deze kenmerken ook betrokken bij de indeling van het beheersgebied in deelgebieden als bedoeld in het eerste lid. 4. In afwijking van onderdeel 1, onder 1 is het voor de stof PCB’s (som 7) toegestaan het beheersgebied in te delen in deelgebieden die uniform zijn ten aanzien van het organisch stofgehalte.
 ###4. Voorbewerken gegevens actuele bodemkwaliteit per deelgebied
 
-1. Bodemkwaliteitsgegevens van locaties waarvan bekend is of verwacht wordt dat ze verontreinigd zijn door een puntbron, worden niet meegenomen bij het in beeld brengen van de actuele bodemkwaliteit. 2. Uitbijters worden buiten beschouwing gelaten bij het bepalen van de actuele bodemkwaliteit. Van een uitbijter is sprake als de hoge of lage meetwaarde kan worden toegeschreven aan een fout in het onderzoek of een administratieve fout. 3. De meetwaarden onder de bepalingsgrens worden opgenomen als de waarde van de bepalingsgrens vermenigvuldigd met een factor 0,7. 4. De monsterdiepte moet liggen binnen het dieptetraject waarvoor de bodemkwaliteitskaart wordt opgesteld. 5. Indien de bodemkwaliteitskaart wordt vastgesteld bij een besluit als bedoeld in [artikel 45 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), kan het bevoegd gezag gemotiveerd een kleinere dikte van de toplaag vastleggen. 6. Indien naast de toplaag, ook een bodemkwaliteitskaart wordt opgesteld voor diepere bodemlagen, wordt voor de toplaag en de diepere laag/lagen ieder een aparte kaart opgesteld. De differentiatie in bodemlagen onder de toplaag moet plaatsvinden op basis van de lokale bodemopbouw. 7. Gegevens zijn voldoende recent indien de gegevens niet ouder zijn dan 5 jaar. Indien de gegevens ouder zijn dan 5 jaar wordt getoetst (bijvoorbeeld via de vergelijking met recentere gegevens) of de gegevens nog actueel zijn. 8. De ruimtelijke coördinaten van de monsterpunten waarvan de bodemkwaliteitsgegevens afkomstig zijn, zijn bekend. 9. Alle bewerkingen aan het bestand met gegevens over de actuele bodemkwaliteit dienen te worden gedocumenteerd, zodat te allen tijde de totstandkoming van de bodemkwaliteitskaart is te reproduceren. 
+1. Bodemkwaliteitsgegevens van locaties waarvan bekend is of verwacht wordt dat ze verontreinigd zijn door een puntbron, worden niet meegenomen bij het in beeld brengen van de actuele bodemkwaliteit. 2. Uitbijters worden buiten beschouwing gelaten bij het bepalen van de actuele bodemkwaliteit. Van een uitbijter is sprake als de hoge of lage meetwaarde kan worden toegeschreven aan een fout in het onderzoek of een administratieve fout. 3. De meetwaarden onder de bepalingsgrens worden opgenomen als de waarde van de bepalingsgrens vermenigvuldigd met een factor 0,7. 4. De monsterdiepte moet liggen binnen het dieptetraject waarvoor de bodemkwaliteitskaart wordt opgesteld. 5. Indien de bodemkwaliteitskaart wordt vastgesteld bij een besluit als bedoeld in artikel 45 van het besluit, kan het bevoegd gezag gemotiveerd een kleinere dikte van de toplaag vastleggen. 6. Indien naast de toplaag, ook een bodemkwaliteitskaart wordt opgesteld voor diepere bodemlagen, wordt voor de toplaag en de diepere laag/lagen ieder een aparte kaart opgesteld. De differentiatie in bodemlagen onder de toplaag moet plaatsvinden op basis van de lokale bodemopbouw. 7. Gegevens zijn voldoende recent indien de gegevens niet ouder zijn dan 5 jaar. Indien de gegevens ouder zijn dan 5 jaar wordt getoetst (bijvoorbeeld via de vergelijking met recentere gegevens) of de gegevens nog actueel zijn. 8. De ruimtelijke coördinaten van de monsterpunten waarvan de bodemkwaliteitsgegevens afkomstig zijn, zijn bekend. 9. Alle bewerkingen aan het bestand met gegevens over de actuele bodemkwaliteit dienen te worden gedocumenteerd, zodat te allen tijde de totstandkoming van de bodemkwaliteitskaart is te reproduceren. 
 ###5. Vaststellen bodemkwaliteitzones
 
 1. Voor de bodem en de bodem of oever van een oppervlaktewaterlichaam kan een deelgebied als bodemkwaliteitszone worden vastgesteld indien per onderscheiden bodemlaag voldaan wordt aan de volgende eisen: 
@@ -2104,9 +2786,9 @@ c. de monsters worden ten minste onderzocht op de stoffen als bedoeld in artikel
 
 d. in afwijking van de eis onder c, is voor aanvullend onderzoek van de bodem van rijkswateren artikel 4.5.1, tweede lid, van de regeling van toepassing. Zodra een stoffenpakket voor de rijkswateren is vastgesteld, worden tenminste de stoffen van het stoffenpakket voor de rijkswateren opgenomen in het aanvullend onderzoek voor kaarten van de actuele kwaliteit van de bodem van rijkswateren.  
 
-e. het veldwerk wordt uitgevoerd door een persoon of instelling die op grond van het [besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) daartoe is erkend, en  
+e. het veldwerk wordt uitgevoerd door een persoon of instelling die op grond van het besluit daartoe is erkend, en  
 
-f. de analyses worden uitgevoerd door een persoon of instelling die op grond van het [besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md) daartoe is erkend.   
+f. de analyses worden uitgevoerd door een persoon of instelling die op grond van het besluit daartoe is erkend.   
 ###7. Beschrijven actuele bodemkwaliteit
 
 1. Voor alle onderscheiden bodemkwaliteitszones wordt per bodemlaag de actuele kwaliteit van de bodem op basis van gemeten gehalten beschreven aan de hand van: 
@@ -2138,7 +2820,7 @@ c. de kolom(men) met de namen van de zones van de ontgravingskaart of toepassing
 
 d. de kolom(men) met de kwaliteit van de zones van de ontgravingskaart of toepassingskaart;  
 
-e. een verwijzing naar een URL of de naam van een document van het besluit als bedoeld in [artikel 47 van het besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md).    
+e. een verwijzing naar een URL of de naam van een document van het besluit als bedoeld in artikel 47 van het besluit.    
 
 ### Bijlage N 
 

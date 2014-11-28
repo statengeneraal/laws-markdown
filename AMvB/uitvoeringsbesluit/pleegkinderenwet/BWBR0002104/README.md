@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Ministers van Justitie van 25 October 1952, 7e Afdeling A, No. 2214 en van Binnenlandse Zaken van 31 October 1952, Afdeling Binnenlands Bestuur, Bureau Bestuurszaken, no. 3135;
 
-Gelet op de artikelen 1, lid 1, onder *c*, 4 en 5 van de [Pleegkinderenwet](../../../../wet/pleegkinderenwet/BWBR0002084/README.md) (*Stb.* 1951, 595), alsmede op artikel 461*e* van het Burgerlijk Wetboek;
+Gelet op de artikelen 1, lid 1, onder *c*, 4 en 5 van de Pleegkinderenwet (*Stb.* 1951, 595), alsmede op artikel 461*e* van het Burgerlijk Wetboek;
 
 De Raad van State gehoord (advies van 25 November 1952, no. 28);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ###Artikel 1 
 
-Van het toezicht ingevolge de bepalingen van de [Pleegkinderenwet](../../../../wet/pleegkinderenwet/BWBR0002084/README.md) zijn vrijgesteld: 
+Van het toezicht ingevolge de bepalingen van de Pleegkinderenwet zijn vrijgesteld: 
 
 a.de kampen en internaten voor Sociale Jeugdzorg, welke beheerd worden door of onder toezicht staan van Onze Minister van Onderwijs, Kunsten en Wetenschappen;
 
@@ -27,7 +27,7 @@ d.de internaten voor maatschappelijk onaangepaste minderjarigen, welke beheerd w
 
 e.de internaten voor de opleiding tot een geestelijk of godsdienstig-menslievend ambt;
 
-f.de internaten, verbonden aan scholen, als bedoeld bij [artikel 2](../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) onder 1e, 2e en 3e van de Leerplichtwet.
+f.de internaten, verbonden aan scholen, als bedoeld bij artikel 2 onder 1e, 2e en 3e van de Leerplichtwet.
 
 ###Artikel 2 
 
@@ -73,11 +73,11 @@ De kosten van een door de raad voor de kinderbescherming gelast geneeskundig ond
 
 ###Artikel 12 
 
-De schriftelijke kennisgevingen, bedoeld in [artikel 5 van de Pleegkinderenwet](../../../../wet/pleegkinderenwet/BWBR0002084/README.md) geschieden door middel van formulieren, waarvan het model door Onze Minister van Justitie wordt vastgesteld.
+De schriftelijke kennisgevingen, bedoeld in artikel 5 van de Pleegkinderenwet geschieden door middel van formulieren, waarvan het model door Onze Minister van Justitie wordt vastgesteld.
 
 ### Artikel  13  
 
-Zodra aan een gemeentebestuur blijkt van het verblijf in de gemeente van een pleegkind, ten aanzien van hetwelk niet is voldaan aan [artikel 5 van de Pleegkinderenwet](../../../../wet/pleegkinderenwet/BWBR0002084/README.md), geeft het gemeentebestuur daarvan kennis aan de raad voor de kinderbescherming. 
+Zodra aan een gemeentebestuur blijkt van het verblijf in de gemeente van een pleegkind, ten aanzien van hetwelk niet is voldaan aan artikel 5 van de Pleegkinderenwet, geeft het gemeentebestuur daarvan kennis aan de raad voor de kinderbescherming. 
 
 ###Artikel 14 
 
@@ -85,7 +85,7 @@ Wanneer een gemeentebestuur bij het in werking treden van dit besluit beschikt o
 
 ###Artikel 15 
 
-Dit besluit treedt in werking tegelijk met de [Pleegkinderenwet](../../../../wet/pleegkinderenwet/BWBR0002084/README.md).
+Dit besluit treedt in werking tegelijk met de Pleegkinderenwet.
 
 Onze Ministers van Justitie en van Binnenlandse Zaken zijn, ieder voor zoveel hem betreft, belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.   
 

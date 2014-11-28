@@ -2259,6 +2259,7 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  253z  
 Treedt in werking op een nader te bepalen tijdstip 
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/105. 
 1.  De kinderrechter kan een maatregel van opgroeiondersteuning opleggen.   
 2.  De kinderrechter kan dit doen indien een minderjarige zodanig opgroeit dat hij in zijn ontwikkeling wordt bedreigd, en de zorg die in verband met het wegnemen van de bedreiging noodzakelijk is voor de minderjarige of voor zijn ouders of de ouder die het gezag uitoefenen, door dezen niet of onvoldoende wordt geaccepteerd.   
 3.  Artikel 255, tweede, vijfde en zesde lid, zijn van overeenkomstige toepassing.   
@@ -2268,23 +2269,26 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  253za  
 Treedt in werking op een nader te bepalen tijdstip 
 
-De duur van de maatregel van opgroeiondersteuning is, behoudens verlenging als bedoeld in artikel 253zb, ten hoogste een jaar. 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/105.De duur van de maatregel van opgroeiondersteuning is, behoudens verlenging als bedoeld in artikel 253zb, ten hoogste een jaar. 
 
 ### Artikel  253zb  
 Treedt in werking op een nader te bepalen tijdstip 
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/105. 
 1.  De kinderrechter kan, mits aan de grond, bedoeld in artikel 253z, eerste lid, is voldaan, de duur van de maatregel van opgroeiondersteuning eenmaal verlengen met ten hoogste een jaar.   
 2.  De kinderrechter kan de duur van de maatregel van opgroeiondersteuning verlengen op verzoek van de stichting die de maatregel uitvoert. Indien deze stichting niet tot een verzoek overgaat, zijn de raad voor de kinderbescherming, een ouder, degene die niet de ouder is en de minderjarige als behorende tot zijn gezin verzorgt en opvoedt en het openbaar ministerie bevoegd tot het doen van het verzoek.  
 
 ### Artikel  253zc  
 Treedt in werking op een nader te bepalen tijdstip 
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/105. 
 1.  De kinderrechter kan de stichting, bedoeld in artikel 253z, vijfde lid, vervangen door een zodanige stichting in een andere provincie.   
 2.  Hij kan dit doen op verzoek van de stichting die de maatregel uitvoert, de raad voor de kinderbescherming, een met gezag belaste ouder of de minderjarige van twaalf jaar of ouder.  
 
 ### Artikel  253zd  
 Treedt in werking op een nader te bepalen tijdstip 
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/105. 
 1.  De kinderrechter kan de maatregel van opgroeiondersteuning opheffen indien de grond, bedoeld in artikel 253z, eerste lid, niet langer is vervuld.   
 2.  Hij kan dit doen op verzoek van de stichting die de maatregel uitvoert. Indien deze stichting niet tot een verzoek overgaat, zijn de raad voor de kinderbescherming, een met gezag belaste ouder of de minderjarige van twaalf jaar of ouder bevoegd tot het doen van het verzoek.  
 
