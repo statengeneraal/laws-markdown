@@ -5,7 +5,7 @@
 De Minister van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming van de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op [artikel 2.2.3, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
+Gelet op artikel 2.2.3, eerste lid, van de Wet educatie en beroepsonderwijs;
 Besluit:     
 ### 1  
 
@@ -17,35 +17,35 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *minister:* de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van de landbouw en de natuurlijke omgeving, de Minister van Economische Zaken;  
+a.  *minister:* de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van de landbouw en de natuurlijke omgeving, de Staatssecretaris van Economische Zaken;  
 
-b.  *WEB:* [Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b.  *WEB:* Wet educatie en beroepsonderwijs;  
 
-c.  *WVO:* [Wet op het voortgezet onderwijs](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+c.  *WVO:* Wet op het voortgezet onderwijs;  
 
-d.  *beroepsonderwijs:* het middelbaar beroepsonderwijs en educatie, bedoeld in [artikel 1.2.1 van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+d.  *beroepsonderwijs:* het middelbaar beroepsonderwijs en educatie, bedoeld in artikel 1.2.1 van de WEB;  
 
-e.  *voortgezet onderwijs:* het onderwijs, bedoeld in [artikel 2 van de WVO](../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+e.  *voortgezet onderwijs:* het onderwijs, bedoeld in artikel 2 van de WVO;  
 
-f.  *AOC:* agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+f.  *AOC:* agrarisch opleidingscentrum als bedoeld in artikel 1.3.3 van de WEB;  
 
 g.  *vbo-groen:* voorbereidend beroepsonderwijs in de sector landbouw verzorgd in een AOC;  
 
-h.  *docent:* docent als bedoeld in het eerste en tweede lid van [artikel 4.2.1 van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor zover deze een onderwijsgevende taak uitvoert;  
+h.  *docent:* docent als bedoeld in het eerste en tweede lid van artikel 4.2.1 van de WEB, voor zover deze een onderwijsgevende taak uitvoert;  
 
-i.  *instructeur:* personeelscategorie met onderwijsondersteunende werkzaamheden gericht op het primair proces conform [artikel 4.2.2 van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+i.  *instructeur:* personeelscategorie met onderwijsondersteunende werkzaamheden gericht op het primair proces conform artikel 4.2.2 van de WEB;  
 
-j.  *deelnemer:* een in [artikel 8.1.1, eerste lid, eerste volzin, van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) bedoelde deelnemer;  
+j.  *deelnemer:* een in artikel 8.1.1, eerste lid, eerste volzin, van de WEB bedoelde deelnemer;  
 
-k.  *voltijddeelnemer:* deelnemer die een beroepsopleiding volgt als bedoeld in het [derde lid van artikel 7.2.7 van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+k. *voltijddeelnemer:* deelnemer die een beroepsopleiding volgt, bedoeld in artikel 7.2.7, derde lid, van de WEB, zoals deze luidde op 31 juli 2014;  
 
-l.  *deeltijddeelnemer:* deelnemer die een beroepsopleiding volgt als bedoeld in het [vijfde lid van artikel 7.2.7 van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+l. *deeltijddeelnemer:* deelnemer die een beroepsopleiding volgt, bedoeld in artikel 7.2.7, vijfde lid, van de WEB, zoals deze luidde op 31 juli 2014;  
 
 m.  *leerling:* een leerling die voor het volgen van vbo-groen is ingeschreven aan een AOC;  
 
-n.  *instelling:* een regionaal opleidingencentrum als bedoeld in [artikel 1.3.1 van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), een regionaal opleidingencentrum in een samenwerkingsverband als bedoeld in [artikel 1.3.2 van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), een vakinstelling als bedoeld in [artikel 1.3.2a van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+n.  *instelling:* een regionaal opleidingencentrum als bedoeld in artikel 1.3.1 van de WEB, een vakinstelling als bedoeld in artikel 1.3.2a van de WEB of een agrarisch opleidingscentrum als bedoeld in artikel 1.3.3 van de WEB;  
 
-o.  *bevoegd gezag:* bevoegd gezag van een instelling, bedoeld in [artikel 1.1.1, onder w, van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+o.  *bevoegd gezag:* bevoegd gezag van een instelling, bedoeld in artikel 1.1.1, onder w, van de WEB;  
 
 p.  *Randstadregio’s:* verzameling van gemeenten als opgenomen in bijlage 1 bij deze regeling;  
 
@@ -53,7 +53,7 @@ q.  *BRP:* basisregistratie personen;
 
 r.  *Convenant Leerkracht van Nederland:* tripartiete afspraken tussen de minister en de sociale partners voor de sector Beroepsonderwijs en Volwasseneneducatie vastgelegd op 10 december 2008 (Stcrt. 2009, 42);  
 
-s.  *personeelsgegevens:* gegevens als bedoeld in bijlage B van het Convenant Leerkracht van Nederland en [bijlage 1, onder 3, van het Uitvoeringsbesluit WEB](../../../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md), conform het op 27 augustus 2009 herziene Protocol Personeelsinformatie MBO en herziene PVE;  
+s.  *personeelsgegevens:* gegevens als bedoeld in bijlage B van het Convenant Leerkracht van Nederland en bijlage 1, onder 3, van het Uitvoeringsbesluit WEB, conform het op 27 augustus 2009 herziene Protocol Personeelsinformatie MBO en herziene PVE;  
 
 t.  *bezoldigingsschaal:* de salarisschaal volgens welke een docent of instructeur wordt bezoldigd;  
 
@@ -67,7 +67,7 @@ u.  *salarismix:* verdeling van docenten in voltijdequivalenten over de bezoldig
 
 ####Doelomschrijving
 
-1.  De minister verstrekt in 2009, 2010, 2011, 2012, 2013 en 2014 aanvullende bekostiging aan het bevoegd gezag van een instelling: 
+1.  De minister verstrekt 2009 tot en met 2015 aanvullende bekostiging aan het bevoegd gezag van een instelling: 
 
 a. ter versterking van de salarismix binnen de Randstadregio’s door het aandeel docenten in voltijdequivalenten in bezoldigingsschaal LC en/of LD en/of LE te verhogen;  
 
@@ -103,6 +103,13 @@ b. de instelling de verplichte personeelsgegevens, bedoeld in artikel 1 onder s,
 1.  Voor de instellingen die voldoen aan het vereiste in artikel 3 is in het kalenderjaar 2014 een totaalbedrag van € 43,2 miljoen voor aanvullende bekostiging beschikbaar.   
 2.  In afwijking van het eerste lid, is voor de vbo-groen afdelingen in AOC’s in het kalenderjaar 2014 een bedrag van € 2,0 miljoen voor aanvullende bekostiging beschikbaar.   
 3.  De verstrekking van de aanvullende bekostiging, als bedoeld in het eerste en tweede lid van dit artikel vindt plaats per kalenderjaar.  
+
+### Artikel  4a  
+
+####Bedragen 2015
+
+1.  Voor de instellingen die voldoen aan het vereiste in artikel 3 is in het kalenderjaar 2015 een totaalbedrag van € 43.320.000,– voor aanvullende bekostiging beschikbaar.   
+2.  In afwijking van het eerste lid, is voor de vbo-groen afdelingen in AOC’s in het kalenderjaar 2015 een bedrag van € 2.000.000,– voor aanvullende bekostiging beschikbaar.  
 
 ### Artikel  5  
 
@@ -142,8 +149,8 @@ De betaling van de aanvullende bekostiging vindt plaats volgens het gebruikelijk
 
 ####Begrotingsvoorwaarde
 
-3). Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
-4). In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting van het Ministerie van Onderwijs, Cultuur en Wetenschap ter beschikking staat, een en ander naar rato zoals vermeld in artikel 5. 
+3). Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.
+4). In geval van het niet vervullen van de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht, worden de verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting van het Ministerie van Onderwijs, Cultuur en Wetenschap ter beschikking staat, een en ander naar rato zoals vermeld in artikel 5. 
 
 ### 3  
 
@@ -154,7 +161,7 @@ De betaling van de aanvullende bekostiging vindt plaats volgens het gebruikelijk
 ####Verantwoording
 
 1.  De aanvullende bekostiging wordt verstrekt ter dekking van de uitgaven die verbonden zijn aan de in artikel 2, eerste lid, omschreven doelen. Terugvordering van de eventueel niet-bestede middelen of overschotten vindt niet plaats, met uitzondering van de middelen, die zijn verstrekt in het kalenderjaar 2013 of volgende jaren. Ten aanzien van deze beschikbaar gestelde middelen geldt dat deze aan de hand van de resultaten over het betreffende kalenderjaar, met als peildatum 1 oktober, definitief worden vastgesteld.    
-2.  De verantwoording van de aanvullende bekostiging geschiedt in de jaarverslaggeving, bedoeld in de [Regeling jaarverslaggeving onderwijs](../../../../../../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md). De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de aanvullende bekostiging.  
+2.  De verantwoording van de aanvullende bekostiging geschiedt in de jaarverslaggeving, bedoeld in de Regeling jaarverslaggeving onderwijs. De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de aanvullende bekostiging.  
 
 ### Artikel  8  
 
@@ -178,7 +185,7 @@ Er zal onderzoek worden gedaan naar het bereikte effect dan wel het bereikte res
 ####Inwerkingtreding
 
 1.  Deze regeling treedt in werking met ingang van de dag na de datum van uitgifte van de Staatscourant waarin zij wordt geplaatst en werkt terug tot en met 1 januari 2009.   
-2.  Deze regeling vervalt met ingang van 1 januari 2015, met dien verstande dat de regeling van toepassing blijft voor lopende bezwaren en beroepen.  
+2.  Deze regeling vervalt met ingang van 1 januari 2016, met dien verstande dat de regeling van toepassing blijft voor lopende bezwaren en beroepen.  
 
 ### Artikel  11  
 

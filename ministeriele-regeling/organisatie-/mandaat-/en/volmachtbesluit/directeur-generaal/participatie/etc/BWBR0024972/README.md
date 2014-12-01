@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 28 november 2008, nr. DGASV/2008/34292, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Participatie en Inkomenswaarborg ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directeur-generaal Participatie en Inkomenswaarborg 2009)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 8, derde lid, aanhef en onderdeel a](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md);
+Gelet op de artikelen 8, derde lid, aanhef en onderdeel a, en 23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009;
 Besluit:     
 ### §  1  
 
@@ -75,11 +75,11 @@ j. het, na overeenstemming daarover met de directeur-generaal, aanwijzen van een
 
 k. het zorgdragen voor de vastlegging van de organisatie van de eigen directie en de daarbinnen geldende mandaten, volmachten en machtigingen in een Organisatie-, mandaat- en volmachtbesluit voor de eigen directie;  
 
-l. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor zover deze betrekking hebben op gedragingen van de onder hen ressorterende functionarissen;  
+l. de behandeling van klachten als bedoeld in artikel 9:1 van de Algemene wet bestuursrecht voor zover deze betrekking hebben op gedragingen van de onder hen ressorterende functionarissen;  
 
 m. het dynamisch archiefbeheer van zijn directie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie, vernietiging en overdracht aan de directie Bedrijfsvoering, alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de directie;  
 
-n. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](../../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/rijksoverheid/2006/BWBR0019767/README.md) en de [Regeling materieelbeheer museale voorwerpen](../../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md).     
+n. het materieel beheer overeenkomstig de Regeling materieelbeheer rijksoverheid 2006 en de Regeling materieelbeheer museale voorwerpen.     
 2.  Het eerste lid, met uitzondering van de onderdelen h tot en met k, is van overeenkomstige toepassing op het bureauhoofd.   
 3.  Het eerste lid is van overeenkomstige toepassing op het hoofd van de afdeling Bedrijfsvoering, secretariaat en begroting-P&I. 
 
@@ -135,7 +135,7 @@ l. het namens de minister optreden als opdrachtgever voor de RCN.
 
 De directie Integratie en Samenleving is verantwoordelijk voor: 
 
-a. het ontwikkelen en uitvoeren van beleid gericht op het inburgeren van nieuwkomers mede op grond van de [Wet Inburgering](../../../../../../../../../wet/wet/inburgering/BWBR0020611/README.md) en de [Wet Inburgering Buitenland](../../../../../../../../../wet/wet/inburgering/in/het/buitenland/BWBR0023204/README.md);  
+a. het ontwikkelen en uitvoeren van beleid gericht op het inburgeren van nieuwkomers mede op grond van de Wet Inburgering en de Wet Inburgering Buitenland;  
 
 b. het versterken van het bereik van regulier beleid voor migranten, daar waar een generieke aanpak onvoldoende effectief is;  
 
@@ -175,7 +175,7 @@ f. het financieel beheer.
 
 a. de in artikel 3, eerste lid, onderdeel e, genoemde personeelsaangelegenheden;  
 
-b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.     
+b. de behandeling van klachten als bedoeld in artikel 9:1 van de Algemene wet bestuursrecht, voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.     
 3.  De in het eerste lid genoemde bevoegdheid omvat de bevoegdheid tot het verlenen en vaststellen van subsidies en rijksvergoedingen, het aangaan van verbetertrajecten en het korten op bevoorschotting, voor zover het de uitvoering betreft van regelingen op zijn werkterrein.   
 4.  De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.  
 5.  De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst: 
@@ -204,6 +204,10 @@ a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en
 
 b. het afsluiten van koop-, huur- en leaseovereenkomsten met een waarde van ten hoogste € 15.000,– per overeenkomst.     
 4.  De directeuren en het bureauhoofd blijven te allen tijde bevoegd de bevoegdheden, genoemd in het tweede en derde lid, voor zover zij verband houden met de eigen directie dan wel bureau, zelf uit te oefenen.  
+
+### Artikel  9b  
+
+In aanvulling op artikel 9, derde lid, wordt aan de directeur van de directie Inkomensverzekeringen en -voorzieningen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan de Sociale Verzekeringsbank en het Uitvoeringsinstituut Werknemersverzekeringen, voor zover het wetten en regelingen betreft op het werkterrein van de directie Re-integratie en Participatie en de directie Integratie en Samenleving. 
 
 ### §  5  
 

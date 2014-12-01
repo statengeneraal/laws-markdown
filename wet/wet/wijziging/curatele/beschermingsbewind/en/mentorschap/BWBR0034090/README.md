@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is de regelingen van de curatele, het beschermingsbewind en het mentorschap in overeenstemming te brengen met een aantal in de praktijk gebleken ontwikkelingen en dat daartoe [Boek 1 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), alsmede enige andere bepalingen, worden gewijzigd;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is de regelingen van de curatele, het beschermingsbewind en het mentorschap in overeenstemming te brengen met een aantal in de praktijk gebleken ontwikkelingen en dat daartoe Boek 1 van het Burgerlijk Wetboek, alsmede enige andere bepalingen, worden gewijzigd;
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
@@ -47,7 +47,7 @@ De curator van een persoon die voor het tijdstip van inwerkingtreding van deze w
 
 ### Artikel  V  
 
-Curatoren als bedoeld in [artikel 383, zevende lid](../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), bewindvoerders als bedoeld in [artikel 435, zevende lid](../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en mentoren als bedoeld in [artikel 452, zevende lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), die voor het tijdstip van inwerkingtreding van artikel I, onderdelen E, P en AA, zijn benoemd, hebben tot twee jaar na dat tijdstip de gelegenheid om aan de in genoemde bepaling bedoelde kwaliteitseisen te voldoen. 
+Curatoren als bedoeld in artikel 383, zevende lid, bewindvoerders als bedoeld in artikel 435, zevende lid, en mentoren als bedoeld in artikel 452, zevende lid, van Boek 1 van het Burgerlijk Wetboek, die voor het tijdstip van inwerkingtreding van artikel I, onderdelen E, P en AA, zijn benoemd, hebben tot twee jaar na dat tijdstip de gelegenheid om aan de in genoemde bepaling bedoelde kwaliteitseisen te voldoen. 
 
 ### Artikel  VI  
 

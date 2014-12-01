@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordrachten van Onze Minister van Onderwijs, Cultuur en Wetenschappen van 8 maart 1999, nr. 1998/8716 (3704) en van 31 maart 1999, nr. 1999/14257 (3693), directie Wetgeving en Juridische Zaken, de eerste voordracht gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij;
 
-Gelet op de [artikelen 2.2.1, eerste lid en vijfde lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.2.4, vierde lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.2.12, tweede lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.3.1, eerste en derde lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.3.6, tweede en derde lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.4.1, eerste en tweede lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.4.2, vierde lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.5.3, negende lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.5.5, tweede en derde lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.5.10, eerste lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [2.6a van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), alsmede [artikel 19, vijfde lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+Gelet op de artikelen 2.2.1, eerste lid en vijfde lid, 2.2.4, vierde lid, 2.2.12, tweede lid, 2.3.1, eerste en derde lid, 2.3.6, tweede en derde lid, 2.4.1, eerste en tweede lid, 2.4.2, vierde lid, 2.5.3, negende lid, 2.5.5, tweede en derde lid, 2.5.10, eerste lid, en 2.6a van de Wet educatie en beroepsonderwijs, alsmede artikel 19, vijfde lid, van de Wet op het voortgezet onderwijs;
 
 De Raad van State gehoord (adviezen van 29 april 1999, nr. W05.99.0160/II en van 6 mei 1999, nr. W05.99/0111/III);
 
@@ -26,11 +26,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: de [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a. wet: de Wet educatie en beroepsonderwijs;  
 
-b. deelnemer: een in [artikel 8.1.1, eerste lid, eerste volzin, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) bedoelde deelnemer;  
+b. deelnemer: een in artikel 8.1.1, eerste lid, eerste volzin, van de wet bedoelde deelnemer;  
 
-c. basisregister onderwijs: basisregister onderwijs als bedoeld in [artikel 24b van de Wet op het onderwijstoezicht](../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md).  
+c. basisregister onderwijs: basisregister onderwijs als bedoeld in artikel 24b van de Wet op het onderwijstoezicht.  
 
 ### Hoofdstuk  2  
 
@@ -44,171 +44,219 @@ c. basisregister onderwijs: basisregister onderwijs als bedoeld in [artikel 24b 
 
 ####Reikwijdte hoofdstuk 2
 
-1.  De paragrafen 1, 2, 4, 5, 6 en 6a zijn van toepassing op instellingen als bedoeld in [artikel 1.1.1, onderdeel b, onder 1° tot en met 3°, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+1.  De paragrafen 1, 2, 4, 5, 6 en 6a zijn van toepassing op instellingen als bedoeld in artikel 1.1.1, onderdeel b, onder 1° tot en met 3°, van de wet.   
 2.   Paragraaf 1, paragraaf 2 en paragraaf 4 zijn van overeenkomstige toepassing en de paragrafen 5, 6 en 6a zijn van toepassing ten aanzien van het beroepsonderwijs binnen agrarische opleidingscentra waarvoor de rijksbijdrage wordt vastgesteld door Onze Minister van Economische Zaken.   
 3.   Paragraaf 3 onderscheidenlijk de paragrafen 4 en 5 heeft betrekking onderscheidenlijk hebben mede betrekking op het voorbereidend beroepsonderwijs dat wordt verzorgd aan agrarische opleidingscentra.   
-4.  De paragrafen 5, 6 en 6a hebben mede betrekking op de in [artikel 12.3.8 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) genoemde instituten, alsmede op de in [artikel 12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) genoemde hogescholen.  
+4.  De paragrafen 5, 6 en 6a hebben mede betrekking op de in artikel 12.3.8 van de wet genoemde instituten, alsmede op de in artikel 12.3.9 van de wet genoemde hogescholen.  
 
 ### Artikel  2.1.2  
 
-####Begripsbepalingen hoofdstuk 2
+####Begripsbepalingen hoofdstuk 2 
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a.  opleiding: een beroepsopleiding die op grond van [artikel 2.1.1 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voor bekostiging in aanmerking komt; 
+a.  opleiding: een beroepsopleiding die op grond van artikel 2.1.1 van de wet voor bekostiging in aanmerking komt; 
 
-b. voltijds deelnemer: een deelnemer die blijkens een overeenkomst als bedoeld in [artikel 8.1.3 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) een voltijdse opleiding volgt als bedoeld in [artikel 1.1.1, onderdeel i1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b.  bol-deelnemer: een deelnemer die is ingeschreven voor een beroepsopleiding in de beroepsopleidende leerweg;  
 
-c. deeltijds deelnemer: een deelnemer aan een opleiding, niet zijnde een voltijds deelnemer;  
+c.  bbl-deelnemer: een deelnemer die is ingeschreven voor een beroepsopleiding in de beroepsbegeleidende leerweg;  
 
-d.  diploma beroepsonderwijs: een door een examencommissie uitgereikt bewijsstuk dat met goed gevolg is afgelegd het examen van een onder a bedoelde opleiding, alsmede van een opleiding die niet langer wordt bekostigd op grond van [artikel 2.1.1 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); 
+d.  diploma van een beroepsopleiding: een door een examencommissie uitgereikt bewijsstuk dat met goed gevolg is afgelegd het examen van een onder a bedoelde opleiding, alsmede van een opleiding die niet langer wordt bekostigd op grond van artikel 2.1.1 van de wet; 
 
-e. agrarisch opleidingscentrum: een agrarisch opleidingscentrum als bedoeld in [artikel 1.1.1, onderdeel b, onder 3° van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+e. agrarisch opleidingscentrum: een agrarisch opleidingscentrum als bedoeld in artikel 1.1.1, onderdeel b, onder 3° van de wet;  
 
 f. voorbereidend beroepsonderwijs: voorbereidend beroepsonderwijs dat wordt verzorgd aan een agrarisch opleidingscentrum;  
 
-g. leerling: een leerling die voor het volgen van voorbereidend beroepsonderwijs is ingeschreven aan een agrarisch opleidingscentrum.    
+g. leerling: een leerling die voor het volgen van voorbereidend beroepsonderwijs is ingeschreven aan een agrarisch opleidingscentrum;  
+
+h. entreeopleiding: opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdeel a, van de wet;  
+
+i.  basisberoepsopleiding: opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdeel b, van de wet;  
+
+j.  vakopleiding: opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdeel c, van de wet;  
+
+k. middenkaderopleiding: opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdeel d, van de wet;  
+
+l. specialistenopleiding: opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdeel e, van de wet;  
+
+m. regionaal opleidingencentrum: regionaal opleidingencentrum als bedoeld in artikel 1.3.1 van de wet;  
+
+n. vakinstelling: vakinstelling als bedoeld in artikel 1.3.2a van de wet.  
 
 ### Artikel  2.1.3  
 
 ####Vaststelling omvang landelijk beschikbare budgetten beroepsonderwijs
 
-Binnen het raam van de door de begrotingswetgever voor het desbetreffende kalenderjaar beschikbaar gestelde middelen, stelt Onze Minister jaarlijks de omvang vast van de landelijk beschikbare budgetten voor de exploitatiekosten en voor de huisvestingskosten voor zowel het beroepsonderwijs als het voorbereidend beroepsonderwijs. 
+1. Binnen het raam van de door de begrotingswetgever voor het desbetreffende kalenderjaar beschikbaar gestelde middelen, stelt Onze Minister jaarlijks de omvang vast van het landelijk beschikbare budget voor de exploitatiekosten en de huisvestingskosten voor zowel het beroepsonderwijs als het voorbereidend beroepsonderwijs.  
+2.  Het landelijk beschikbare budget voor de exploitatiekosten en de huisvestingskosten voor het beroepsonderwijs wordt verdeeld in landelijk beschikbare budgetten voor: 
+
+a. de entreeopleiding, en  
+
+b. de basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding.   
 
 ### Paragraaf  2  
 
-####Exploitatiekosten
+####Exploitatiekosten en huisvestingskosten
 
 ### Artikel  2.2.1  
 
-####Verdeling landelijk beschikbaar budget voor exploitatiekosten beroepsonderwijs
+####Berekening rijksbijdrage voor exploitatiekosten en huisvestingskosten beroepsonderwijs
 
-1.  Onze Minister stelt jaarlijks de omvang vast van het landelijk beschikbare budget ten behoeve van voorbereidende en ondersteunende activiteiten als bedoeld in [artikel 7.2.2, vierde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en van het landelijke beschikbare budget ten behoeve van de toepassing van artikel 2.2.4, tweede lid, dat in mindering wordt gebracht op het landelijk beschikbare budget voor de exploitatiekosten voor het beroepsonderwijs.   
-2.  Het na toepassing van het eerste lid resterende deel van het landelijk beschikbare budget voor de exploitatiekosten voor het beroepsonderwijs voor een kalenderjaar wordt verdeeld als volgt: 
+1.  Onze Minister berekent de rijksbijdrage voor een instelling voor de exploitatiekosten en de huisvestingskosten voor het beroepsonderwijs voor een kalenderjaar door bij elkaar op te tellen: 
 
-a. 80% wordt toegerekend aan het landelijk deel ten behoeve van de maatstaf ingeschreven deelnemers, en  
+a. het rijksbijdragedeel voor de entreeopleiding, en  
 
-b. 20% wordt toegerekend aan het landelijk deel ten behoeve van de maatstaf diploma's beroepsonderwijs.    
+b. het rijksbijdragedeel voor de basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding,   zoals deze delen voor het desbetreffende jaar voor de instelling worden berekend op grond van de artikelen 2.2.2 en 2.2.3. De uitkomst van de berekening wordt rekenkundig afgerond op hele euro’s.   
+2.  De op grond van het eerste lid berekende rijksbijdrage wordt vermeerderd met het rijksbijdragedeel voor gehandicapte deelnemers, zoals dat wordt berekend op grond van artikel 2.6a.1.   
+3.  De op grond van het eerste en tweede lid berekende rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.  
 
 ### Artikel  2.2.2  
 
-####Berekening rijksbijdrage voor exploitatiekosten beroepsonderwijs
+####Berekening rijksbijdragedeel entreeopleiding
 
-1.  Onze Minister berekent de rijksbijdrage voor een instelling voor de exploitatiekosten voor het beroepsonderwijs voor een kalenderjaar door bij elkaar op te tellen: 
+1.  Onze Minister berekent het rijksbijdragedeel voor de entreeopleiding volgens de formule:  
 
-a. het rijksbijdragedeel op grond van de maatstaf ingeschreven deelnemers,  
+| --- | --- | --- |
+|:---|:---|:---|
+| IDW  | --- | --- |
+| –––––  | x  | LB  |
+| LDW  | --- | --- |
 
-b. het rijksbijdragedeel op grond van de maatstaf diploma’s beroepsonderwijs vermeerderd met het rijksbijdragedeel op grond van de diploma’s, bedoeld in artikel 2.2.4, tweede lid, en  
+waarbij wordt verstaan onder: 
 
-c. het rijksbijdragedeel ten behoeve van voorbereidende en ondersteunende activiteiten,   zoals deze delen voor het desbetreffende jaar voor de instelling worden berekend op grond van artikel 2.2.3, artikel 2.2.4 respectievelijk artikel 2.2.5. De uitkomst van elke berekening wordt rekenkundig afgerond op hele euro’s.  
-2.  De op grond van het eerste lid berekende rijksbijdrage wordt vermeerderd met het rijksbijdragedeel voor gehandicapte deelnemers, zoals dat wordt berekend op grond van artikel 2.6a.1.  
-3.  De op grond van het eerste en tweede lid berekende rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.  
+*IDW:* de op grond van het tweede lid berekende deelnemerswaarde voor de entreeopleiding van de instelling, afgerond op twee decimalen;  
+
+*LDW:* de landelijke deelnemerswaarde voor de entreeopleiding, zijnde de som van de deelnemerswaarden voor de entreeopleiding van de instellingen;  
+
+*LB:* het landelijk beschikbare budget voor de entreeopleiding.     
+2.  IDW wordt berekend volgens de formule:∑ [(Dbbl x 0,5 x PF x Vf) + (Dbol x PF x Vf)] x Cfwaarbij wordt verstaan onder: 
+
+*Dbbl:* elke deelnemer die op 1 oktober van het tweede kalenderjaar voorafgaand aan het bekostigingsjaar aan de desbetreffende instelling is ingeschreven voor de entreeopleiding in de beroepsbegeleidende leerweg, voor zover deze deelnemer uiterlijk op 31 december van datzelfde kalenderjaar een overeenkomst als bedoeld in artikel 7.2.8, tweede lid, van de wet heeft gesloten en daadwerkelijk die opleiding volgt;  
+
+*Dbol:* elke deelnemer die op 1 oktober van het tweede kalenderjaar voorafgaand aan het bekostigingsjaar aan de desbetreffende instelling is ingeschreven voor de entreeopleiding in de beroepsopleidende leerweg en daadwerkelijk die opleiding volgt;  
+
+*PF:* de op grond van het vijfde lid voor de opleiding waarin de deelnemer is ingeschreven geldende prijsfactor;  
+
+*Vf:* de op grond van het derde lid aan de desbetreffende deelnemer toegekende factor voor het verblijfsjaar in de entreeopleiding;  
+
+*Cf:* de op grond van het vierde lid berekende correctiefactor tweede teldatum voor de entreeopleiding.     
+3.  Vf bedraagt: 
+
+*  1ste verblijfsjaar = 1,2  
+
+*  2de verblijfsjaar = 0,6  
+
+*  3de en volgende verblijfsjaren = 0   Elke inschrijving van een deelnemer in de entreeopleiding op 1 oktober van een kalenderjaar telt als een verblijfsjaar van die deelnemer. Indien een deelnemer in twee aaneengesloten voorafgaande kalenderjaren niet op 1 oktober is ingeschreven, wordt het verblijfsjaar na die kalenderjaren als eerste verblijfsjaar geteld.   
+4.  Cf wordt als volgt berekend: 
+
+| --- | --- |
+|:---|:---|
+| [Dbbl1 x 0,5 + Dbol1]+ [Dbbl2 x 0,5 + Dbol2]  | --- |
+| 2 x[Dbbl1 x 0,5 + Dbol1]  | --- |
+
+In deze formule wordt verstaan onder: 
+
+*Dbbl1:* het aantal bbl-deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het bekostigingsjaar aan de desbetreffende instelling is ingeschreven voor de entreeopleiding en daadwerkelijk die opleiding volgt;  
+
+*Dbol1:* het aantal bol-deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het bekostigingsjaar aan de desbetreffende instelling staat ingeschreven voor een entreeopleiding en daadwerkelijk die opleiding volgt;  
+
+*Dbbl2:* het aantal bbl-deelnemers dat op 1 februari van het kalenderjaar voorafgaand aan het bekostigingsjaar aan de desbetreffende instelling is ingeschreven voor de entreeopleiding en daadwerkelijk die opleiding volgt;  
+
+*Dbol2:* het aantal bol-deelnemers dat op 1 februari van het kalenderjaar voorafgaand aan het bekostigingsjaar aan de desbetreffende instelling staat ingeschreven voor een entreeopleiding en daadwerkelijk die opleiding volgt.     
+5.  PF wordt bij ministeriële regeling vastgesteld voor elke opleiding.   
+6.  Voor de berekening, bedoeld in dit artikel, tellen de deelnemers die op de genoemde tijdstippen voor de assistentopleiding, bedoeld in artikel 7.2.2, eerste lid, onderdeel a, van de wet zoals dat onderdeel luidde op 31 juli 2014, zijn ingeschreven als ingeschreven deelnemers voor de entreeopleiding.  
 
 ### Artikel  2.2.3  
 
-####Berekening rijksbijdragedeel volgens maatstaf ingeschreven deelnemers beroepsonderwijs
+####Berekening rijksbijdragedeel basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding
 
-1. Onze Minister berekent het rijksbijdragedeel op grond van de maatstaf ingeschreven deelnemers volgens de formule: 
+1.  Onze Minister berekent het rijksbijdragedeel voor de basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding volgens de formule:  
 
-| --- |
-|:---|
-|i = n |
-|(Σ {[(DDi1 x DFi1) + (DDi2 x DFi2) + VDi] x Pi}) x C |
-|i = 1 |
-|———————————————————————— x LMID |
-|LDw |
+| --- | --- | --- |
+|:---|:---|:---|
+| IDW + IDiW  | --- | --- |
+| –––––––––––––  | x  | LB  |
+| LDW + LDiW  | --- | --- |
 
-In deze formule wordt de teller van de breuk afgerond op twee decimalen en wordt verstaan onder: i: opleiding verzorgd aan de desbetreffende instelling, n: het aantal opleidingen verzorgd aan de desbetreffende instelling, DDi1: het aantal deeltijds deelnemers aan de beroepsopleidende leerweg dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling is ingeschreven voor een opleiding als bedoeld in het tweede lid, onder b, en daadwerkelijk die opleiding volgt, vermeerderd met het aantal deelnemers aan de beroepsbegeleidende leerweg dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling voor de desbetreffende opleiding is ingeschreven en daadwerkelijk die opleiding volgt, voor zover de laatstgenoemde deelnemers:
+waarbij wordt verstaan onder: 
 
-a.uiterlijk op 31 december van datzelfde kalenderjaar een overeenkomst als bedoeld in [artikel 7.2.8, tweede lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) hebben gesloten, en
+*IDW:* de op grond van het tweede lid berekende deelnemerswaarde voor de basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding van de instelling, afgerond op twee decimalen;  
 
-b.indien zij een opleiding volgen als bedoeld in het tweede lid, onder b, uiterlijk op 1 juni van het daaropvolgende kalenderjaar, dan wel in geval zij een andere opleiding volgen uiterlijk op dezelfde datum als genoemd onder a, daadwerkelijk de opleiding in de praktijk van het beroep, bedoeld in [artikel 7.2.8, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), volgen op de grondslag van een overeenkomst als bedoeld onder a,DDi2: het aantal deeltijds deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling voor de desbetreffende opleiding is ingeschreven en daadwerkelijk die opleiding volgt en niet voldoet aan de definitie van DDi1. DFi1: de op grond van het tweede lid aan de desbetreffende opleiding toegekende deeltijdfactor, DFi2: de op grond van het derde lid aan de desbetreffende opleiding toegekende deeltijdfactor, VDi: het aantal voltijds deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling voor de desbetreffende opleiding is ingeschreven en daadwerkelijk die opleiding volgt, Pi: de op grond van het vierde lid aan de desbetreffende opleiding toegekende prijsfactor, LDw: de landelijke deelnemerswaarde, zijnde de som van de deelnemerswaarden van de instellingen, waarbij onder deelnemerswaarde wordt verstaan: de teller van de in de formule gebruikte breuk, en LMID: het landelijk deel ten behoeve van de maatstaf ingeschreven deelnemers, zoals dat voor het desbetreffende jaar is vastgesteld op grond van artikel 2.2.1, tweede lid, onder a,C: de correctiefactor, bedoeld in het zesde lid.  
-2.  De deeltijdfactor, bedoeld in het eerste lid, onder DFi1, bedraagt: 
+*IDiW:* de op grond van het zesde lid berekende diplomawaarde, afgerond op twee decimalen;  
 
-a. voor opleidingen die worden bekostigd door Onze Minister van Economische Zaken: 0,5;  
+*LDW:* de landelijke deelnemerswaarde voor de basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding, zijnde de som van de deelnemerswaarden voor de basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding van alle instellingen;  
 
-b. voor opleidingen die worden bekostigd door Onze Minister van Onderwijs, Cultuur en Wetenschap, voor zover voor die opleidingen kwalificaties als bedoeld in [artikel 7.2.4, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zijn vastgesteld in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport: 0,8 en  
+*LDiW:* de landelijke diplomawaarde, zijnde de som van de diplomawaarden van alle instellingen;  
 
-c. voor de overige opleidingen: 0,4.    
-3.  De deeltijdfactor, bedoeld in het eerste lid onder DFi2, bedraagt: 
+*LB:* het landelijk beschikbare budget voor de basisberoepsopleiding, vakopleiding, middenkaderopleiding en specialistenopleiding.     
+2.  IDW wordt berekend volgens de formule: ∑ [(Dbbl x 0,4 x PF x Vf) + (Dbol x PF x Vf)] x 0,8 x Cfwaarbij wordt verstaan onder: 
 
-a. voor de opleidingen die worden bekostigd door Onze Minister van Economische Zaken: 0,4,  
+*Dbbl:* elke deelnemer die op 1 oktober van het tweede kalenderjaar voorafgaand aan het bekostigingsjaar aan de desbetreffende instelling is ingeschreven voor de basisberoepsopleiding, vakopleiding, middenkaderopleiding of specialistenopleiding in de beroepsbegeleidende leerweg, daadwerkelijk die opleiding volgt en voor zover deze deelnemer uiterlijk op 31 december van datzelfde kalenderjaar een overeenkomst als bedoeld in artikel 7.2.8, tweede lid, van de wet heeft gesloten en daadwerkelijk op die datum die opleiding in de praktijk van het beroep volgt dan wel indien een deelnemer een opleiding volgt waarvoor kwalificaties als bedoeld in artikel 7.2.4, eerste lid, van de wet zijn vastgesteld in overeenstemming met Onze Minister van Volksgezondheid, Welzijn en Sport, uiterlijk op 1 juni van het kalenderjaar daarop volgend de opleiding in de praktijk van het beroep volgt;  
 
-b. voor de opleidingen die worden bekostigd door Onze Minister van Onderwijs, Cultuur en Wetenschap: 0,3.     
-4.  Bij ministeriële regeling worden de prijsfactoren vastgesteld voor opleidingen waarvoor kwalificaties als bedoeld in [artikel 7.2.4, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zijn vastgesteld.   
-5. Deelnemers aan de beroepsbegeleidende leerweg worden in de berekening, bedoeld in het eerste lid, niet geteld onder DDi2, voor zover zij in die berekening voor de desbetreffende instelling voor een van de drie voorafgaande kalenderjaren al onder DDi2 werden geteld.
-6. De correctiefactor wordt berekend volgens de formule:
+*Dbol:* elke deelnemer die op 1 oktober van het tweede kalenderjaar voorafgaand aan het bekostigingsjaar aan de desbetreffende instelling is ingeschreven voor de basisberoepsopleiding, vakopleiding, middenkaderopleiding of specialistenopleiding in de beroepsopleidende leerweg en daadwerkelijk die opleiding volgt;  
 
-| --- |
-|:---|
-|[(DDi1.1 x DFi1.2) + VDi] + [(DDi1.2 x DFi1.2) + VDi2] |
-|——————————————————————— |
-|2 x [(DDi1.1 x DFi1.2) + VDi] |
+*Vf:* de op grond van het derde lid aan de desbetreffende deelnemer toegekende factor voor het verblijfsjaar in de basisberoepsopleiding, vakopleiding, middenkaderopleiding of specialistenopleiding;  
 
-In deze formule wordt verstaan onder:
+*PF:* de op grond van het vijfde lid voor de opleiding waarin de deelnemer is ingeschreven geldende prijsfactor;  
 
-DDi1.1: het aantal deeltijds deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling is ingeschreven en daadwerkelijk de desbetreffende opleidingen volgt, 
+*Cf:* de op grond van het vijfde lid berekende correctiefactor tweede teldatum voor de basisberoepsopleiding, vakopleiding, middenkaderopleiding of specialistenopleiding.     
+3.  Vf bedraagt: 
 
-VDi: het aantal voltijds deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling is ingeschreven en daadwerkelijk de desbetreffende opleidingen volgt, 
+*  1ste verblijfsjaar = 1,2  
 
-DDi1.2: het aantal deeltijds deelnemers dat op 1 februari van het kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling is ingeschreven en daadwerkelijk de desbetreffende opleidingen volgt,
+*  2de verblijfsjaar = 1  
 
-VDi2: het aantal voltijds deelnemers dat op 1 februari van het kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling is ingeschreven en daadwerkelijk de desbetreffende opleidingen volgt,
+*  3de verblijfsjaar = 1  
 
-DFi1.2: de op grond van het zevende lid toegekende deeltijdfactor. 
-7.  De deeltijdfactor, bedoeld in het zesde lid, onder DFi1.2, bedraagt voor: 
+*  4de verblijfsjaar = 1  
 
-a. een instelling die opleidingen verzorgt die worden bekostigd door Onze minister van Economische Zaken, Landbouw en Innovatie: 0,5;  
+*  5de verblijfsjaar = 0,5  
 
-b. een instelling die opleidingen verzorgt die worden bekostigd door Onze Minister van Onderwijs, Cultuur en Wetenschap: 0,35.   
+*  6de verblijfsjaar = 0,5  
+
+*  7de en volgende verblijfsjaren = 0   Elke inschrijving van een deelnemer in de basisberoepsopleiding, vakopleiding, middenkaderopleiding of specialistenopleiding op 1 oktober van een kalenderjaar telt als een verblijfsjaar van die deelnemer. Indien een deelnemer drie aaneengesloten voorafgaande kalenderjaren niet op 1 oktober is ingeschreven, wordt het verblijfsjaar na die kalenderjaren als eerste verblijfsjaar geteld.   
+4.  PF wordt bij ministeriële regeling vastgesteld voor elke opleiding.   
+5.  Cf wordt als volgt berekend:  
+
+| --- | --- |
+|:---|:---|
+| [Dbbl1 x 0,4 + Dbol1]+ [Dbbl2 x 0,4 + Dbol2]  | --- |
+| 2 x[Dbbl1 x 0,4 + Dbol1]  | --- |
+
+In deze formule wordt verstaan onder: 
+
+*Dbbl1:* het aantal bbl-deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het bekostigingsjaar aan de desbetreffende instelling is ingeschreven voor de basisberoepsopleiding, vakopleiding, middenkaderopleiding of specialistenopleiding en daadwerkelijk die opleiding volgt;  
+
+*Dbol1:* het aantal bol-deelnemers dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het bekostigingsjaar aan de desbetreffende instelling staat ingeschreven voor de basisberoepsopleiding, vakopleiding, middenkaderopleiding of specialistenopleiding en daadwerkelijk die opleiding volgt;  
+
+*Dbbl2:* het aantal bbl-deelnemers dat op 1 februari van het kalenderjaar voorafgaand aan het bekostigingsjaar aan de desbetreffende instelling is ingeschreven voor de basisberoepsopleiding, vakopleiding, middenkaderopleiding of specialistenopleiding en daadwerkelijk die opleiding volgt;  
+
+*Dbol2:* het aantal bol-deelnemers dat op 1 februari van het kalenderjaar voorafgaand aan het bekostigingsjaar aan de desbetreffende instelling staat ingeschreven voor de basisberoepsopleiding, vakopleiding, middenkaderopleiding of specialistenopleiding en daadwerkelijk die opleiding volgt.     
+6.  IDiW wordt berekend volgens de formule:IDiW = ∑ {[(D x DiW – DiE) + DS] x 0,2}waarbij wordt verstaan onder: 
+
+*D:* elke deelnemer die in het tweede kalenderjaar voorafgaand aan het bekostigingsjaar aan de desbetreffende instelling een diploma van een basisberoepsopleiding, vakopleiding of middenkaderopleiding heeft behaald;  
+
+*DiW:* de diplomawaarde; DiW bedraagt voor: een basisberoepsopleiding: 1 een vakopleiding: 3 een middenkaderopleiding: 5;  
+
+*DiE:* DiW van het hoogste door D eerder behaalde diploma van een basisberoepsopleiding, een vakopleiding of een middenkaderopleiding.  
+
+*DS:* de diplomawaarde voor een specialistenopleiding bedraagt 2 voor elke deelnemer die een diploma van een specialistenopleiding heeft behaald in het tweede kalenderjaar voorafgaand aan het bekostigingsjaar, en niet eerder een diploma van een specialistenopleiding heeft behaald.   Onder deelnemer wordt mede begrepen de examendeelnemer, bedoeld in artikel 2.2.2, tweede lid, onderdeel b, van de wet. Indien het eerder behaalde diploma, bedoeld in DiE van een hoger niveau is dan het diploma bedoeld in D, dan wordt het diploma bedoeld in D buiten beschouwing gelaten. Indien in het tweede kalenderjaar voorafgaand aan het bekostigingsjaar meerdere diploma’s op dezelfde datum zijn afgegeven, telt steeds het laagste diploma als het eerder behaalde diploma. Indien een diploma is behaald door een deelnemer die drie aaneengesloten voorgaande kalenderjaren niet op 1 oktober was ingeschreven, blijven diploma’s behaald voor deze onderbreking buiten beschouwing. 
 
 ### Artikel  2.2.4  
 
-####Berekening rijksbijdragedeel volgens maatstaf diploma's beroepsonderwijs
+####Aangepaste berekening bij fusie en splitsing van instellingen
 
-1. Onze Minister berekent het rijksbijdragedeel op grond van de maatstaf diploma's beroepsonderwijs volgens de formule:  DI.1 + 2DI.2 + 4DI.3  ----------------------------------- x LMD LD.1 + 2LD.2 + 4LD.3  In deze formule wordt verstaan onder: DI.1: het aantal diploma's beroepsonderwijs dat aan die instelling is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder a, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), DI.2: het aantal diploma's beroepsonderwijs dat aan die instelling is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), DI.3: het aantal diploma's beroepsonderwijs dat aan die instelling is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder c tot en met e, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), LD.1: het aantal diploma's beroepsonderwijs dat landelijk is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder a, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), LD.2: het aantal diploma's beroepsonderwijs dat landelijk is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), LD.3: het aantal diploma's beroepsonderwijs dat landelijk is behaald in het tweede kalenderjaar voorafgaand aan het desbetreffende jaar bij opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder c tot en met e, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en LMD: het landelijk deel ten behoeve van de maatstaf diploma's beroepsonderwijs, zoals dat voor het desbetreffende jaar is vastgesteld op grond van artikel 2.2.1, tweede lid, onder b. 
-2. Bij ministeriële regeling kan worden bepaald dat voor diploma’s van in die ministeriële regeling aangewezen opleidingen, in de kalenderjaren 2010 en 2011 verkregen door examendeelnemers, bedoeld in [artikel 2.2.2, tweede lid, onderdeel b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), in afwijking van het eerste lid een vast bedrag per diploma wordt toegekend.
+1.  In geval van fusie van instellingen betrekt Onze Minister bij de toepassing van paragraaf 2 de gegevens van de instellingen die in de gefuseerde instelling zijn opgegaan en berekent de bijdrage voor de gefuseerde instelling op basis van die gegevens.   
+2.  In geval van splitsing van instellingen betrekt Onze Minister bij de toepassing van paragraaf 2 de afspraken omtrent de toerekening van de gegevens aan elk van de instellingen die daarover door de betrokken bevoegde gezagsorganen zijn gemaakt, blijkend uit een door die bevoegde gezagsorganen aan Onze Minister overgelegde en ondertekende verklaring dienaangaande. 
 
 ### Artikel  2.2.5  
 
-####Berekening rijksbijdragedeel voor voorbereidende en ondersteunende activiteiten
-
-Onze Minister berekent het rijksbijdragedeel voor voorbereidende en ondersteunende activiteiten als bedoeld in [artikel 7.2.2, vierde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voor een kalenderjaar door het landelijk beschikbare budget ten behoeve van voorbereidende en ondersteunende activiteiten, zoals dat voor dat kalenderjaar is vastgesteld op grond van artikel 2.2.1, eerste lid, over de instellingen te verdelen naar rato van het aantal deelnemers per instelling, voor zover deze deelnemers voldoen aan de volgende voorwaarden: 
-
-a. zij waren op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar ingeschreven aan de desbetreffende instelling voor een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onder a of b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en waren tevens  
-
-b. niet in het bezit van: 
-
-1°. een diploma lager beroepsonderwijs of voorbereidend beroepsonderwijs, tenzij dat diploma is verkregen op grond van een eindexamen waarbij een of meer vakken op A-niveau of vier of meer vakken op B-niveau zijn geëxamineerd,  
-
-2°. een diploma middelbaar algemeen voortgezet onderwijs,  
-
-3°. een bewijs dat de eerste drie leerjaren van een school voor hoger algemeen voortgezet onderwijs of van een school voor voorbereidend wetenschappelijk onderwijs met gunstig gevolg zijn doorlopen, of  
-
-4°. een diploma beroepsonderwijs van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onder b tot en met e, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).     
-
-### Artikel  2.2.6  
-
-####Aangepaste berekening bij fusie van instellingen en splitsing van werkzaamheden
-
-In geval van fusie van instellingen of indien vanwege afspraken tussen instellingen over de verzorging van beroepsopleidingen, bepaalde gegevens als bedoeld in de artikelen 2.2.3, eerste lid, 2.2.4 of 2.2.5, anders moeten worden toegerekend, geeft Onze Minister op overeenkomstige wijze toepassing aan die bepalingen. Afspraken als bedoeld in de eerste volzin blijken uit een door het bevoegd gezag, in voorkomend geval tezamen met andere betrokken bevoegde gezagsorganen, aan Onze Minister overgelegde en ondertekende verklaring dienaangaande. 
-
-###Artikel 2.2.7 
-
 ####Indienen gegevens; vaststelling bekostigingsgegevens bij te late indiening
 
-1. De gegevens, bedoeld in [artikel 2.5.5a, tweede lid, onderdelen a, b, c, d, h, i, l, m en n, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en de verklaring, bedoeld in [artikel 2.2.4, vijfde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) worden uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar ingediend bij Onze Minister. Indien Onze Minister van een instelling de gegevens, bedoeld in de eerste volzin, niet uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar, voorzien van een goedkeurende accountantsverklaring, heeft ontvangen en hierdoor niet tijdig over de gegevens kan beschikken, kan Onze Minister de hoogte van de rijksbijdrage voor deze instelling voor het desbetreffende kalenderjaar vaststellen conform de voorschriften in het tweede tot en met zesde lid.
-2. Bij de toepassing van artikel 2.2.2 wordt voor een instelling als bedoeld in het eerste lid, bij de berekening van de rijksbijdrage voor exploitatiekosten voor het beroepsonderwijs:
-
-a. in afwijking van artikel 2.2.3, eerste lid, de uitkomst van het gedeelte van de formule boven de streep vastgesteld op 90% van de uitkomst van dat deel van de formule van het voorgaande kalenderjaar;
-
-b. in afwijking van artikel 2.2.4, eerste lid, de uitkomst van het gedeelte van de formule boven de streep vastgesteld op 90% van de uitkomst van dat deel van de formule van het voorgaande kalenderjaar;
-
-c. in afwijking van artikel 2.2.5 het aantal deelnemers vastgesteld op 90% van het aantal deelnemers dat is gehanteerd bij de berekening van de rijksbijdrage van het voorgaande kalenderjaar.
-3. Indien toepassing wordt gegeven aan het eerste lid, wordt in artikel 2.2.4, eerste lid, in de begripsbepalingen LD1, LD2 en LD3 tevens gelezen: alsmede de op grond van artikel 2.2.7, tweede lid, onderdeel b, vastgestelde aantallen diploma's.
-4. De instellingen, bedoeld in het eerste lid, dienen uiterlijk 1 november van het jaar voorafgaand aan het bekostigingsjaar de gegevens, bedoeld in [artikel 2.5.5a, tweede lid, onderdelen a, b, c, d, h, i, l, m en n, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voorzien van een goedkeurende accountantsverklaring, in bij Onze Minister.
-5. Indien uit de gegevens, bedoeld in het vierde lid, blijkt dat toepassing van artikel 2.2.3, artikel 2.2.4, eerste lid, respectievelijk artikel 2.2.5 leidt tot een lagere waarde dan vastgesteld op grond van het tweede lid, onderdelen a, b respectievelijk c, wordt de vergoeding van de instelling berekend op grond van die lagere waarde.
-6. Indien uit de gegevens, bedoeld in het vierde lid, blijkt dat toepassing van artikel 2.2.3, artikel 2.2.4, eerste lid, respectievelijk artikel 2.2.5, leidt tot een gelijke of hogere waarde dan vastgesteld op grond van het tweede lid, onderdelen a, b respectievelijk c, wordt de vergoeding van de instelling berekend op grond van het tweede lid.
+1.  De gegevens, bedoeld in artikel 2.5.5a, tweede lid, onderdelen a, b, c, d, h, i, l, m en n, van de wet en de verklaring, bedoeld in artikel 2.2.4, vijfde lid, van de wet worden uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar ingediend bij Onze Minister. Indien Onze Minister van een instelling de gegevens, bedoeld in de eerste volzin, niet uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar, voorzien van een goedkeurende accountantsverklaring, heeft ontvangen en hierdoor niet tijdig over de gegevens kan beschikken, kan Onze Minister de hoogte van de rijksbijdrage voor deze instelling voor het desbetreffende kalenderjaar vaststellen conform de voorschriften in het tweede tot en met vierde lid.   
+2.  Bij de toepassing van artikel 2.2.1 wordt voor een instelling als bedoeld in het eerste lid, bij de berekening van de rijksbijdrage voor exploitatiekosten en huisvestingskosten voor het beroepsonderwijs in afwijking van artikel 2.2.2 en artikel 2.2.3, de uitkomst van het gedeelte van de formule boven de streep zoals vermeld in het eerste lid van die artikelen, vastgesteld op de uitkomst van dat deel van de formule van het voorgaande kalenderjaar.   
+3.  De instellingen, bedoeld in het eerste lid, dienen uiterlijk 1 november van het jaar voorafgaand aan het bekostigingsjaar de gegevens, bedoeld in artikel 2.5.5a, tweede lid, onderdelen a, b, c, d, h, i, l, m en n, van de wet, voorzien van een goedkeurende accountantsverklaring, in bij Onze Minister.   
+4.  Indien toepassing van artikel 2.2.2 en artikel 2.2.3 met gebruikmaking van de gegevens, bedoeld in het derde lid, leidt tot een lagere rijksbijdrage dan vastgesteld op grond van het tweede lid, wordt die lagere rijksbijdrage vastgesteld. Gebruikmaking van de gegevens, bedoeld in het derde lid, leidt in geen geval tot een hogere rijksbijdrage dan vastgesteld op grond van het tweede lid.  
 
 ### Paragraaf  3  
 
@@ -227,51 +275,28 @@ c. in afwijking van artikel 2.2.5 het aantal deelnemers vastgesteld op 90% van h
 
 ### Artikel  2.4.1  
 
-####Berekening rijksbijdrage huisvestingskosten voor instellingen
+####Berekening rijksbijdrage huisvestingskosten scholengemeenschap of AOC
 
-1.  Onze Minister verdeelt het op grond van artikel 2.1.3 voor een kalenderjaar vastgestelde landelijk beschikbare budget voor de huisvestingskosten voor het beroepsonderwijs over de instellingen naar rato van de voor dat kalenderjaar op grond van artikel 2.2.2, eerste lid, berekende rijksbijdrage voor exploitatiekosten per instelling. De uitkomst van de berekening wordt rekenkundig afgerond op hele euro’s   
-2.  De rijksbijdrage voor de huisvestingskosten van een school voor voortgezet onderwijs als bedoeld in [artikel 2.6, lid 1a, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) wordt berekend door het aantal leerlingen dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende kalenderjaar aan de school was ingeschreven te vermenigvuldigen met een jaarlijks bij ministeriële regeling te bepalen bedrag.   
-3.  Het tweede lid is van overeenkomstige toepassing op het voorbereidend beroepsonderwijs.   
-4.  De op grond van het eerste lid berekende rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.   
-5.   Artikel 2.2.6 is van overeenkomstige toepassing.  
+1.  De rijksbijdrage voor de huisvestingskosten van een school voor voortgezet onderwijs als bedoeld in artikel 2.6, lid 1a, van de wet wordt berekend door het aantal leerlingen dat op 1 oktober van het tweede kalenderjaar voorafgaand aan het desbetreffende kalenderjaar aan de school was ingeschreven te vermenigvuldigen met een jaarlijks bij ministeriële regeling te bepalen bedrag.   
+2.  Het eerste lid is van overeenkomstige toepassing op het voorbereidend beroepsonderwijs.   
+3.  Artikel 2.2.4 is van overeenkomstige toepassing.  
 
 ### Paragraaf  5  
 
 ####Toevoeging rijksbijdrage in verband met kosten van werkloosheidsuitkeringen en suppleties inzake arbeidsongeschiktheid 
 
-### Artikel  2.5.1  
-
-####Begripsbepalingen paragraaf 5
-
-In deze paragraaf wordt verstaan onder:
-
-a.instelling: een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), een instituut als bedoeld in [artikel 12.3.8 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of de hogeschool Haarlem, bedoeld in [artikel 12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), dan wel diens rechtsopvolger;
-
-b.uitkering: een werkloosheidsuitkering als bedoeld in de [Hoofdstukken I](../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) en [II van het Besluit Werkloosheid onderwijs- en onderzoekpersoneel](../../../../AMvB/besluit/werkloosheid/onderwijs-/en/onderzoekpersoneel/BWBR0006445/README.md) of suppletie inzake arbeidsongeschiktheid als bedoeld in Hoofdstuk 3 van het [Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair en voortgezet onderwijs](../../../../AMvB/besluit/ziekte/en/arbeidsongeschiktheid/voor/onderwijspersoneel/primair/etc/BWBR0007800/README.md), voortvloeiend uit een dienstbetrekking aan een instelling;
-
-c.overeenkomst educatie: een overeenkomst als bedoeld in [artikel 2.3.4, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
-
-d. rijksbijdrage voortgezet algemeen volwassenenonderwijs: de rijksbijdrage, bedoeld in [artikel 2.2a.1 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). 
-
-### Artikel  2.5.2  
-
-####Toevoeging aan de rijksbijdrage
-
-1. Het bevoegd gezag van een instelling heeft, naast de aanspraak op een aandeel van de rijksbijdrage voor de exploitatiekosten voor het beroepsonderwijs, bedoeld in artikel 2.2.2, eerste lid, in geval van een agrarisch opleidingscentrum vermeerderd met de rijksbijdrage zoals vastgesteld op grond van artikel 2.3.2, per kalenderjaar aanspraak op een vergoeding voor uitkeringen. 
-2. De vergoeding, bedoeld in het eerste lid, is het bedrag berekend volgens de volgende formule: (PI + EduI) / (PL + EduL) x W In deze formule wordt verstaan onder: PI: de rijksbijdrage voor de exploitatiekosten, zoals omschreven in het eerste lid, van de desbetreffende instelling voor het kalenderjaar voorafgaande aan het desbetreffende kalenderjaar;  EduI: de hoogte van het bedrag dat blijkens de jaarrekening van de instelling is gemoeid met de overeenkomst of overeenkomsten uitkering educatie van de desbetreffende instelling in het kalenderjaar voorafgaand aan het desbetreffende kalenderjaar, indien van toepassing vermeerderd met de rijksbijdrage voortgezet algemeen volwassenenonderwijs van de instelling in eerstgenoemd kalenderjaar; PL: de rijksbijdrage voor de exploitatiekosten, zoals omschreven in het eerste lid, van de instellingen voor het kalenderjaar voorafgaande aan het desbetreffende kalenderjaar;  EduL: de hoogte van het bedrag dat blijkens de jaarrekeningen van de instellingen is gemoeid met de overeenkomsten uitkering educatie van de instellingen in het kalenderjaar voorafgaand aan het desbetreffende kalenderjaar, indien van toepassing vermeerderd met de rijksbijdragen voortgezet algemeen volwassenenonderwijs van de instellingen in eerstgenoemd kalenderjaar; W: het totaal van de wachtgeldbudgetten voor de instellingen zoals opgenomen in de begrotingen van de uitgaven van het Ministerie van Onderwijs, Cultuur en Wetenschap en het Ministerie van Economische Zaken van het desbetreffende kalenderjaar. 
-3. De uitkomst van de berekening, bedoeld in het tweede lid, wordt rekenkundig afgerond op twee decimalen. 
-4. Onze Minister kan voorzover het betreft educatie, in afwachting van de indiening van de jaarrekeningen door de instellingen, een voorlopig bedrag toevoegen aan de rijksbijdrage.
+Vervallen per 01-08-2014 
 
 ###Paragraaf 6 
 
 ####Vermindering rijksbijdrage beroepsonderwijs in verband met normatieve inhouding cursusgelden
 
-### Artikel 2.6.1 
+### Artikel  2.6.1  
 
 ####Vermindering rijksbijdrage
 
-1. Onze Minister brengt op de rijksbijdrage voor een instelling voor een kalenderjaar een bedrag in mindering volgens de formule: (DDi3 x DC1) + (DDi4 x DC2), waarin is: DDi3: het aantal deeltijds deelnemers als bedoeld in artikel 2.2.3, eerste lid, onder DDi1 en DDi2, voor opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder a en b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); DC1: het cursusgeld per 1 januari van het desbetreffende kalenderjaar, bedoeld in artikel 15 van het Uitvoeringsbesluit Les- en cursusgeldwet, voor opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder a en b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); DDi4: het aantal deeltijds deelnemers als bedoeld in artikel 2.2.3, eerste lid, onder DDi1 en DDi2, voor opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder c tot en met e, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); DC2: het cursusgeld per 1 januari van het desbetreffende kalenderjaar, bedoeld in [artikel 15 van het Uitvoeringsbesluit Les- en cursusgeldwet](../../../../AMvB/uitvoeringsbesluit/les-/en/cursusgeldwet/2000/BWBR0011400/README.md), voor opleidingen als bedoeld in [artikel 7.2.2, eerste lid, onder c tot en met e, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). 
-2. Bij de berekening van het in het eerste lid bedoelde bedrag telt het aantal deeltijds deelnemers DDi3 en DDi4, dat op 1 augustus van het tweede kalenderjaar voorafgaand aan het desbetreffende jaar aan de desbetreffende instelling voor de desbetreffende opleiding is ingeschreven en op die datum de leeftijd van 18 jaar nog niet heeft bereikt, niet mee.
+1.  Onze Minister brengt op de rijksbijdrage voor een instelling voor een kalenderjaar een bedrag in mindering volgens de formule: (Dbbl3 x DC1) + (Dbbl4 x DC2), waarin is: Dbbl3: Dbbl, bedoeld in de artikelen 2.2.2, tweede lid, en 2.2.3, tweede lid, voor de entreeopleiding en de basisberoepsopleiding; DC1: het cursusgeld per 1 januari van het desbetreffende kalenderjaar, bedoeld in artikel 15 van het Uitvoeringsbesluit Les- en cursusgeldwet, voor de entreeopleiding en de basisberoepsopleiding; Dbbl4: Dbbl, bedoeld in artikel 2.2.3, tweede lid, voor de vakopleiding, de middenkaderopleiding en de specialistenopleiding; DC2: het cursusgeld per 1 januari van het desbetreffende kalenderjaar, bedoeld in artikel 15 van het Uitvoeringsbesluit Les- en cursusgeldwet, voor de vakopleiding, de middenkaderopleiding en de specialistenopleiding.   
+2.  Bij de berekening van het in het eerste lid bedoelde bedrag telt het aantal bbl-deelnemers Dbbl3 en Dbbl4 dat op 1 augustus van het tweede kalenderjaar voorafgaand aan het bekostigingsjaar de leeftijd van 18 nog niet heeft bereikt, niet mee. 
 
 ### Paragraaf  6a  
 
@@ -282,88 +307,13 @@ d. rijksbijdrage voortgezet algemeen volwassenenonderwijs: de rijksbijdrage, bed
 ####Vaststelling en verdeling rijksbijdragedeel
 
 1.  Onze Minister stelt jaarlijks het landelijk beschikbare budget vast ten behoeve van de kosten voor gehandicapte deelnemers.   
-2.  Onze Minister verdeelt het voor een kalenderjaar vastgestelde budget ten behoeve van de gehandicapte deelnemers over de instellingen naar rato van het totaal van de voor dat kalenderjaar op grond van de artikelen 2.2.3 en 2.2.4 berekende rijksbijdrage voor die instelling.  
+2.  Onze Minister verdeelt het voor een kalenderjaar vastgestelde budget ten behoeve van de gehandicapte deelnemers over de instellingen naar rato van het totaal van de voor dat kalenderjaar op grond van de artikelen 2.2.2 en 2.2.3 berekende rijksbijdragedelen voor die instelling. De uitkomst van de berekening wordt rekenkundig afgerond op hele euro’s.  
 
 ### Paragraaf  7  
 
 ####Leerlinggebonden financiering
 
-### Artikel  2.7.1  
-
-####Reikwijdte
-
-Het [Besluit leerlinggebonden financiering](../../../../AMvB/besluit/leerlinggebonden/financiering/BWBR0014753/README.md), met uitzondering van de [artikelen 2](../../../../AMvB/besluit/leerlinggebonden/financiering/BWBR0014753/README.md) en [3](../../../../AMvB/besluit/leerlinggebonden/financiering/BWBR0014753/README.md), is van toepassing met dien verstande dat wordt verstaan onder: 
-
-a. leerling: deelnemer als bedoeld in [artikel 2.2.5, eerste lid, onder b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
-
-b. een school: een instelling als bedoeld in [artikel 1.1.1, onder b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en een hogeschool als bedoeld in [artikel 12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
-
-c. een leerling die toelaatbaar is tot het speciaal onderwijs of het voortgezet speciaal onderwijs: een deelnemer die recht heeft op leerlinggebonden financiering met ambulante begeleiding vanuit het onderwijs van het cluster waarvoor hij geïndiceerd is;  
-
-d. kinderpsychiatrische voorziening of Jeugdbescherming: psychiatrische voorziening of GGZ.   
-
-### Artikel  2.7.2  
-
-####Bedragen leerlinggebonden financiering
-
-1.  Voor elke deelnemer met een leerlinggebonden budget dat beschikbaar is op grond van [artikel 2.2.6, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) ontvangt een instelling waar de deelnemer is ingeschreven een bedrag volgens tabel A en ontvangt een school voor speciaal onderwijs of voortgezet speciaal onderwijs een bedrag volgens tabel B:  Tabel A Bedrag instellingen per studiejaar 
-
-| Toelaatbaar verklaard tot onderwijs van  | Voltijds deelnemer  Assistent- en basisberoepsopleiding  | Deeltijds deelnemer  Assistent- en basisberoepsopleiding  | Voltijds deelnemer  Vakopleiding, middenkader- en specialistenopleiding  | Deeltijds deelnemer  Vakopleiding, middenkader- en specialistenopleiding  |
-|:---|:---|:---|:---|:---|
-| Cluster 2  | --- | --- | --- | --- |
-| Dove deelnemers  | € 2.410,–  | € 1.607,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 2  |
-| Slechthorende deelnemers  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 2  |
-| Meervoudig gehandicapte deelnemers  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 2  |
-| Deelnemers met ernstige spraakmoeilijkheden  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 3  |
-| Lichamelijk gehandicapte deelnemers  | € 1.578–  | € 1.052,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 3  |
-| Langdurig zieke deelnemers met een lichamelijke handicap  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 3  |
-| Zeer moeilijk lerende deelnemers  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 3  |
-| Meervoudig gehandicapte deelnemers  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
-| Cluster 4  |
-| Gedragsproblematiek  | € 1.550,–  | € 1.033,–  | € 3.128,–  | € 2.085,–  |
-
-Tabel B Bedrag scholen voor speciaal onderwijs of voortgezet speciaal onderwijs per studiejaar 
-
-| Toelaatbaar verklaard tot onderwijs van  | Voltijds deelnemer  personele vergoeding  | Voltijds deelnemer  materiële vergoeding  | Totaal  aan vergoeding  |
-|:---|:---|:---|:---|
-| Cluster 2 Dove deelnemers  | € 5.159,87  | € 559,–  | € 5.718,87  |
-| Cluster 2 Slechthorende deelnemers  | € 3.337,35  | € 216,–  | € 3.553,35  |
-| Cluster 2 Meervoudig gehandicapte deelnemers  | € 3.337,35  | € 274,–  | € 3.611,35  |
-| Cluster 2 Deelnemers met ernstige spraakmoeilijkheden  | € 3.337,35  | € 274,–  | € 3.611,35  |
-| Cluster 3 Lichamelijk gehandicapte deelnemers  | € 4.517,25  | € 405,–  | € 4.922,25  |
-| Cluster 3 Langdurig zieke deelnemers met een lichamelijke handicap  | € 2.921,51  | € 236–  | € 3.157,51  |
-| Cluster 3 Zeer moeilijk lerende deelnemers  | € 2.921,51  | € 128,–  | € 3.049,51  |
-| Cluster 3 Meervoudig gehandicapte deelnemers  | € 2.921,51  | € 236,–  | € 3.157,51  |
-| Cluster 4 Gedragsproblematiek  | € 2.921,51  | € 236,–  | € 3.157,51  |
-
-| Toelaatbaar verklaard tot onderwijs van  | Deeltijds deelnemer  personele vergoeding  | Deeltijds deelnemer  materiële vergoeding  | Totaal  aan vergoeding  |
-|:---|:---|:---|:---|
-| Cluster 2 Dove deelnemers  | € 3.439,92  | € 373,–  | € 3.812,92  |
-| Cluster 2 Slechthorende deelnemers  | € 2.224,90  | € 144,–  | € 2.368,90  |
-| Cluster 2 Meervoudig gehandicapte deelnemers  | € 2.224,90  | € 183,–  | € 2.407,90  |
-| Cluster 2 Deelnemers met ernstige spraakmoeilijkheden  | € 2.224,90  | € 183,–  | € 2.407,90  |
-| Cluster 3 Lichamelijk gehandicapte deelnemers  | € 3.011,50  | € 270,–  | € 3.281,50  |
-| Cluster 3 Langdurig zieke deelnemers met een lichamelijke handicap  | € 1.947,67  | € 157,–  | € 2.104,67  |
-| Cluster 3 Zeer moeilijk lerende deelnemers  | € 1.947,67  | €  85,–  | € 2.032,67  |
-| Cluster 3 Meervoudig gehandicapte deelnemers  | € 1.947,67  | € 157,–  | € 2.104,67  |
-| Cluster 4 Gedragsproblematiek  | € 1.947,67  | € 157,–  | € 2.104,67  |
-
-2.  Indien een deelnemer zich inschrijft na 1 augustus van een studiejaar wordt de hoogte van het leerlinggebonden budget vastgesteld door het bedrag dat voor hem geldt op grond van de tabellen, opgenomen in het eerste lid, te delen door 12 en vervolgens te vermenigvuldigen met het aantal maanden dat het studiejaar rest.   
-3.  De bedragen, bedoeld in het eerste lid, kunnen bij ministeriële regeling worden aangepast aan de prijsontwikkeling, overeenkomstig de prijsmutatie van de netto materiële consumptie, zoals opgenomen in de Macro Economische Verkenning, die naar verwachting zal optreden tussen het prijsniveau in het jaar voorafgaande aan het jaar waarin het bedrag wordt aangepast, en het jaar waarin het bedrag wordt aangepast.  
-
-### Artikel  2.7.3  
-
-####Vergoeding regionaal expertisecentrum
-
-1.  Een regionaal expertisecentrum ontvangt € 173 voor elke deelnemer die in de periode van 12 maanden direct voorafgaand aan 1 oktober van het voorafgaande studiejaar een bevestigende beoordeling van de commissie als bedoeld in[ artikel 2.2.6, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) heeft ontvangen.   
-2.  [Artikel 56a, tweede en derde lid, van het Besluit bekostiging WEC](../../../../AMvB/bekostigingsbesluit/wec/BWBR0004259/README.md) is van toepassing.  
+Vervallen per 01-08-2014 
 
 ### Hoofdstuk  2A  
 
@@ -377,7 +327,7 @@ Tabel B Bedrag scholen voor speciaal onderwijs of voortgezet speciaal onderwijs 
 
 ####Reikwijdte hoofdstuk 2a
 
-Dit hoofdstuk is van toepassing op instellingen als bedoeld in [artikel 1.1.1, onderdeel b, onder 1°, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
+Dit hoofdstuk is van toepassing op instellingen als bedoeld in artikel 1.1.1, onderdeel b, onder 1°, van de wet.  
 
 ### Artikel  2a.1.2  
 
@@ -385,11 +335,11 @@ Dit hoofdstuk is van toepassing op instellingen als bedoeld in [artikel 1.1.1, o
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a. opleiding vavo: een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1., eerste lid, onderdeel a, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), die op grond van [artikel 2.1.2, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voor bekostiging in aanmerking komt;  
+a. opleiding vavo: een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1., eerste lid, onderdeel a, van de wet, die op grond van artikel 2.1.2, eerste lid, van de wet voor bekostiging in aanmerking komt;  
 
-b. deelnemer vavo: een deelnemer die bij een instelling als bedoeld in [artikel 1.1.1, onderdeel b, onder 1°, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) is ingeschreven voor een of meer opleidingen vavo;  
+b. deelnemer vavo: een deelnemer die bij een instelling als bedoeld in artikel 1.1.1, onderdeel b, onder 1°, van de wet is ingeschreven voor een of meer opleidingen vavo;  
 
-c. diploma vavo: diploma als bedoeld in [artikel 7.4.6](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) juncto [artikel 7.4.11, vijfde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+c. diploma vavo: diploma als bedoeld in artikel 7.4.6 juncto artikel 7.4.11, vijfde lid, van de wet.   
 
 ### Artikel  2a.1.3  
 
@@ -442,9 +392,9 @@ Waarbij wordt verstaan onder:
 
 ####Indienen gegevens; vaststelling bekostigingsgegevens bij te late indiening
 
-1.  De gegevens, bedoeld in [artikel 2.3.6a, tweede lid, onderdelen a, b, c, e, f, g, h en j, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en de verklaring, bedoeld in [artikel 2.2a.4, vijfde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), worden uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar ingediend bij Onze Minister. Indien Onze Minister van een instelling de gegevens, bedoeld in de eerste volzin, niet uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar, voorzien van een goedkeurende accountantsverklaring, heeft ontvangen en hierdoor niet tijdig over de gegevens kan beschikken, kan Onze Minister de hoogte van de rijksbijdrage voor deze instelling voor het desbetreffende kalenderjaar vaststellen conform de voorschriften in het tweede tot en met vierde lid.   
+1.  De gegevens, bedoeld in artikel 2.3.6a, tweede lid, onderdelen a, b, c, e, f, g, h en j, van de wet, en de verklaring, bedoeld in artikel 2.2a.4, vijfde lid, van de wet, worden uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar ingediend bij Onze Minister. Indien Onze Minister van een instelling de gegevens, bedoeld in de eerste volzin, niet uiterlijk 1 juli van het jaar voorafgaand aan het bekostigingsjaar, voorzien van een goedkeurende accountantsverklaring, heeft ontvangen en hierdoor niet tijdig over de gegevens kan beschikken, kan Onze Minister de hoogte van de rijksbijdrage voor deze instelling voor het desbetreffende kalenderjaar vaststellen conform de voorschriften in het tweede tot en met vierde lid.   
 2.  Bij de toepassing van artikel 2a.2.1 wordt voor een instelling als bedoeld in het eerste lid, bij de berekening van de rijksbijdrage, in afwijking van artikel 2a.2.1, eerste lid, de uitkomst van het gedeelte van de formule boven de streep, zoals vermeld in het eerste lid van die artikelen, vastgesteld op de uitkomst van dat deel van de formule van het voorgaande kalenderjaar.   
-3.  De instellingen, bedoeld in het eerste lid, dienen uiterlijk 1 november van het jaar voorafgaand aan het bekostigingsjaar de gegevens, bedoeld in [artikel 2.3.6a, tweede lid, onderdelen a, b, c, e, f, g, h en j van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), voorzien van een goedkeurende accountantsverklaring, in bij Onze Minister.   
+3.  De instellingen, bedoeld in het eerste lid, dienen uiterlijk 1 november van het jaar voorafgaand aan het bekostigingsjaar de gegevens, bedoeld in artikel 2.3.6a, tweede lid, onderdelen a, b, c, e, f, g, h en j van de wet, voorzien van een goedkeurende accountantsverklaring, in bij Onze Minister.   
 4.  Indien toepassing van artikel 2a.2.1, met gebruikmaking van de gegevens, bedoeld in het derde lid, leidt tot een lagere rijksbijdrage dan vastgesteld op grond van het tweede lid, wordt die lagere rijksbijdrage vastgesteld. Gebruikmaking van de gegevens, bedoeld in het derde lid, leidt in geen geval tot een hogere rijksbijdrage dan vastgesteld op grond van het tweede lid.  
 
 ### Paragraaf  3  
@@ -462,31 +412,23 @@ Waarbij wordt verstaan onder:
 
 ####Kosten van werkloosheidsuitkeringen en suppleties inzake arbeidsongeschiktheid beroepsonderwijs en voortgezet algemeen volwassenenonderwijs
 
-Treedt in werking per 01-08-2014 
-
 ### Paragraaf  1  
 
 ####Algemene bepalingen en berekeningswijze
-
-Treedt in werking per 01-08-2014 
 
 ### Artikel  2b.1.1  
 
 ####Begripsbepalingen
 
-Treedt in werking per 01-08-2014 
-
 In deze paragraaf wordt verstaan onder: 
 
-a.  *instelling:* een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), een instituut als bedoeld in [artikel 12.3.8 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of de hogeschool Haarlem, bedoeld in [artikel 12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), dan wel diens rechtsopvolger;  
+a.  *instelling:* een instelling als bedoeld in artikel 1.1.1, onderdeel b, van de wet, een instituut als bedoeld in artikel 12.3.8 van de wet of de hogeschool Haarlem, bedoeld in artikel 12.3.9 van de wet, dan wel diens rechtsopvolger;  
 
-b.  *uitkeringskosten:* kosten van werkloosheidsuitkeringen alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de [Ziektewet](../../../../wet/ziektewet/BWBR0001888/README.md), voortvloeiend uit een dienstbetrekking aan een instelling.   
+b.  *uitkeringskosten:* kosten van werkloosheidsuitkeringen alsmede uitkeringen wegens ziekte en arbeidsongeschiktheid van gewezen personeel anders dan op grond van de Ziektewet, voortvloeiend uit een dienstbetrekking aan een instelling.   
 
 ### Artikel  2b.1.2  
 
 ####Vaststelling en verdeling rijksbijdragedeel
-
-Treedt in werking per 01-08-2014 
 
 1.  Onze Minister stelt jaarlijks het landelijk beschikbare budget vast ten behoeve van uitkeringskosten voor het beroepsonderwijs en het voortgezet algemeen volwassenenonderwijs.   
 2.  Onze Minister verdeelt het voor een kalenderjaar vastgestelde budget ten behoeve van uitkeringskosten over de instellingen naar rato van de som van de voor een instelling: 
@@ -508,15 +450,15 @@ b. op grond van artikel 2a.2.1, eerste lid, berekende rijksbijdrage vavo.
 
 ####Contactuur
 
-1.  Een contactuur als bedoeld in [artikel 2.3.4, derde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) omvat een klokuur waarin educatie wordt gegeven aan een groep studenten, onder verantwoordelijkheid en met actieve betrokkenheid van onderwijspersoneel als bedoeld in de [artikelen 4.2.1](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [4.2.2 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+1.  Een contactuur als bedoeld in artikel 2.3.4, derde lid, van de wet omvat een klokuur waarin educatie wordt gegeven aan een groep studenten, onder verantwoordelijkheid en met actieve betrokkenheid van onderwijspersoneel als bedoeld in de artikelen 4.2.1 en 4.2.2 van de wet.   
 2.  De groep, bedoeld in het eerste lid, omvat maximaal 
 
-a. 12 deelnemers indien het een opleiding betreft als bedoeld in [artikel 7.3.1, eerste lid, onder b, voor zover gericht op alfabetisering, of e, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a. 12 deelnemers indien het een opleiding betreft als bedoeld in artikel 7.3.1, eerste lid, onder b, voor zover gericht op alfabetisering, of e, van de wet;  
 
-b. 16 deelnemers indien het een opleiding betreft als bedoeld in [artikel 7.3.1, eerste lid, onder b, voor zover gericht op het ingangsniveau van het beroepsonderwijs, of d, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b. 16 deelnemers indien het een opleiding betreft als bedoeld in artikel 7.3.1, eerste lid, onder b, voor zover gericht op het ingangsniveau van het beroepsonderwijs, of d, van de wet;  
 
-c. 20 deelnemers indien het een opleiding betreft als bedoeld in [artikel 7.3.1, eerste lid, onder c, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).     
-3.  In de overeenkomst uitkering educatie, bedoeld in [artikel 2.3.4, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) kan gemotiveerd worden afgeweken van de in het tweede lid genoemde aantallen deelnemers.   
+c. 20 deelnemers indien het een opleiding betreft als bedoeld in artikel 7.3.1, eerste lid, onder c, van de wet.     
+3.  In de overeenkomst uitkering educatie, bedoeld in artikel 2.3.4, eerste lid, van de wet kan gemotiveerd worden afgeweken van de in het tweede lid genoemde aantallen deelnemers.   
 4.  Bij ministeriële regeling kunnen nadere voorschriften worden vastgesteld voor de in het eerste lid bedoelde contacturen.  
 
 ### Hoofdstuk  4  
@@ -531,7 +473,7 @@ c. 20 deelnemers indien het een opleiding betreft als bedoeld in [artikel 7.3.1,
 
 ####Reikwijdte hoofdstuk 4
 
-1.  De paragrafen 1 tot en met 3 zijn van toepassing op de kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), met uitzondering van het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van landbouw, natuurlijke omgeving en voedsel voor zover niet anders is bepaald.   
+1.  De paragrafen 1 tot en met 3 zijn van toepassing op de kenniscentra beroepsonderwijs bedrijfsleven, bedoeld in artikel 1.1.1, onderdeel b1, van de wet, met uitzondering van het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van landbouw, natuurlijke omgeving en voedsel voor zover niet anders is bepaald.   
 2.   Paragraaf 4 is van toepassing op het kenniscentrum beroepsonderwijs bedrijfsleven op het gebied van landbouw, natuurlijke omgeving en voedsel.  
 
 ### Artikel  4.1.2  
@@ -540,13 +482,13 @@ c. 20 deelnemers indien het een opleiding betreft als bedoeld in [artikel 7.3.1,
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a. kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+a. kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.1.1, onderdeel b1, van de wet;  
 
-b. leerbedrijf: een bedrijf dat of organisatie die bevoegd is de beroepspraktijkvorming te verzorgen, op basis van een gunstige beoordeling op grond van door het kenniscentrum vastgestelde criteria als bedoeld in [artikel 7.2.10 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b. leerbedrijf: een bedrijf dat of organisatie die bevoegd is de beroepspraktijkvorming te verzorgen, op basis van een gunstige beoordeling op grond van door het kenniscentrum vastgestelde criteria als bedoeld in artikel 7.2.10 van de wet;  
 
-c. beroepsopleiding: een beroepsopleiding van een instelling als bedoeld in [artikel 1.1.1, onderdeel b1° of b2°, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c. beroepsopleiding: een beroepsopleiding van een instelling als bedoeld in artikel 1.1.1, onderdeel b1° of b2°, van de wet;  
 
-d. landelijke kwalificatiestructuur: de kwalificatiestructuur, bedoeld in [artikel 7.2.4 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
+d. landelijke kwalificatiestructuur: de kwalificatiestructuur, bedoeld in artikel 7.2.4 van de wet.  
 
 ### Artikel  4.1.4  
 
@@ -564,9 +506,9 @@ Binnen het raam van de door de begrotingswetgever voor het desbetreffende kalend
 
 Het landelijk beschikbare budget voor de exploitatiekosten en de huisvestingskosten van de kenniscentra wordt verdeeld in: 
 
-a. een gedeelte van 20% voor de de taken rond de kwalificatiestructuur bedoeld in [artikel 1.5.2, eerste en tweede lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en  
+a. een gedeelte van 20% voor de de taken rond de kwalificatiestructuur bedoeld in artikel 1.5.2, eerste en tweede lid, van de wet en  
 
-b. een gedeelte van 80% voor de taken rond de leerbedrijven en de beroepspraktijkvorming bedoeld in [artikel 1.5.2, derde en vierde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).   
+b. een gedeelte van 80% voor de taken rond de leerbedrijven en de beroepspraktijkvorming bedoeld in artikel 1.5.2, derde en vierde lid, van de wet.   
 
 ### Artikel  4.2.2  
 
@@ -602,16 +544,16 @@ a. tellen alleen deelnemers mee die meetellen voor de berekening van de rijksbij
 b. tellen deelnemers aan de beroepsopleidende leerweg van een beroepsopleiding mee met een factor 0,4 en deelnemers aan de beroepsbegeleidende leerweg van een beroepsopleiding met een factor 1,  
 
 c. tellen deelnemers die zijn ingeschreven voor een kwalificatiedossier dat op voorstel van 2 of meer kenniscentra is vastgesteld, bij alle betrokken kenniscentra mee volgens de uitkomst van de breuk ![250916](http://wetten.overheid.nl/Illustration/250916)
-met dien verstande dat deelnemers aan een assistentopleiding die is gericht op entree op de arbeidsmarkt in de berekening buiten beschouwing worden gelaten;  
+met dien verstande dat deelnemers aan een assistentopleiding dan wel een entreeopleiding die is gericht op entree op de arbeidsmarkt in de berekening buiten beschouwing worden gelaten;  
 
-d. tellen deelnemers die zijn ingeschreven voor een opleidingsdomein als bedoeld in [artikel 1.1.1, onderdeel t2, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) mee bij de kenniscentra waarvan een of meer kwalificaties zijn opgenomen in het desbetreffende opleidingsdomein, naar rato van de verdeling van de deelnemers die zijn ingeschreven voor een kwalificatie of een kwalificatiedossier binnen dat opleidingsdomein over de desbetreffende kenniscentra.    
+d. tellen deelnemers die zijn ingeschreven voor een opleidingsdomein als bedoeld in artikel 1.1.1, onderdeel t2, van de wet mee bij de kenniscentra waarvan een of meer kwalificaties zijn opgenomen in het desbetreffende opleidingsdomein, naar rato van de verdeling van de deelnemers die zijn ingeschreven voor een kwalificatie of een kwalificatiedossier binnen dat opleidingsdomein over de desbetreffende kenniscentra.    
 
 ### Artikel  4.2.5  
 
 ####Opgave aantal leerbedrijven
 
 1.  Elk kenniscentrum verstrekt jaarlijks voor 1 juli aan Onze Minister een opgave van het aantal door dat kenniscentrum erkende leerbedrijven op peildatum 1 oktober van het voorafgaande jaar.   
-2.  De in het eerste lid bedoelde opgave gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door het bevoegd gezag aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).  
+2.  De in het eerste lid bedoelde opgave gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door het bevoegd gezag aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.  
 
 ### Artikel  4.2.6  
 
@@ -634,7 +576,7 @@ Vervallen per 01-01-2013
 
 ####Vaststelling rijksbijdrage kenniscentrum op het gebied van landbouw, natuurlijke omgeving en voedsel
 
-1.  Binnen het raam van de door de begrotingswetgever voor het desbetreffende begrotingsjaar beschikbaar gestelde middelen, stelt Onze Minister jaarlijks de omvang van de rijksbijdrage vast voor de exploitatiekosten en de huisvestingskosten van het kenniscentrum op het gebied van landbouw, natuurlijke omgeving en voedsel, met inachtneming van het uitgangspunt dat 20% van de bijdrage noodzakelijk is voor de taken rond de kwalificatiestructuur bedoeld in [artikel 1.5.2, eerste en tweede lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en 80% voor de taken rond de leerbedrijven en de beroepspraktijkvorming bedoeld in artikel 1.5.2, derde en vierde lid, van de wet.   
+1.  Binnen het raam van de door de begrotingswetgever voor het desbetreffende begrotingsjaar beschikbaar gestelde middelen, stelt Onze Minister jaarlijks de omvang van de rijksbijdrage vast voor de exploitatiekosten en de huisvestingskosten van het kenniscentrum op het gebied van landbouw, natuurlijke omgeving en voedsel, met inachtneming van het uitgangspunt dat 20% van de bijdrage noodzakelijk is voor de taken rond de kwalificatiestructuur bedoeld in artikel 1.5.2, eerste en tweede lid, van de wet en 80% voor de taken rond de leerbedrijven en de beroepspraktijkvorming bedoeld in artikel 1.5.2, derde en vierde lid, van de wet.   
 2.  De op grond van het eerste lid vastgestelde rijksbijdrage kan worden aangepast in verband met uit de rijksbegroting voortvloeiende maatregelen.  
 
 ### Paragraaf  5  
@@ -661,8 +603,8 @@ Vervallen per 01-08-2011
 
 ####Reikwijdte hoofdstuk 4b
 
-1.  Paragraaf 2 is van toepassing op personeel en gewezen personeel van een instelling als bedoeld in [artikel 1.1.1, onderdeel b, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en personeel en gewezen personeel dat betrokken is onderscheidenlijk was bij een beroepsopleiding aan een instituut als bedoeld in [artikel 12.3.8](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een hogeschool als bedoeld in [artikel 12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). 
-2. Paragraaf 3 is van toepassing op de gegevens van deelnemers die zijn ingeschreven of ingeschreven zijn geweest voor een beroepsopleiding aan een instelling als bedoeld in artikel 1.1.1, onderdeel b, een instituut als bedoeld in [artikel 12.3.8](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een hogeschool als bedoeld in [artikel 12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).
+1.  Paragraaf 2 is van toepassing op personeel en gewezen personeel van een instelling als bedoeld in artikel 1.1.1, onderdeel b, van de wet en personeel en gewezen personeel dat betrokken is onderscheidenlijk was bij een beroepsopleiding aan een instituut als bedoeld in artikel 12.3.8 of een hogeschool als bedoeld in artikel 12.3.9 van de wet. 
+2. Paragraaf 3 is van toepassing op de gegevens van deelnemers die zijn ingeschreven of ingeschreven zijn geweest voor een beroepsopleiding aan een instelling als bedoeld in artikel 1.1.1, onderdeel b, een instituut als bedoeld in artikel 12.3.8 of een hogeschool als bedoeld in artikel 12.3.9 van de wet.
 
 ###Paragraaf 2 
 
@@ -690,7 +632,7 @@ b.het geslacht, de geboortedatum en de postcode van de woonplaats;
 
 c. de datum van inschrijving of van de wijziging of beëindiging daarvan; 
 
-d. de leerweg, alsmede de code, bedoeld in [artikel 6.4.1, tweede lid, onder a, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) van het opleidingsdomein, het kwalificatiedossier of de kwalificatie waarvoor de deelnemer is ingeschreven en bij inschrijving voor een opleidingsdomein het niveau, bedoeld in [artikel 7.2.2, derde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) van de beroepsopleiding; 
+d. de leerweg, alsmede de code, bedoeld in artikel 6.4.1, tweede lid, onder a, van de wet van het opleidingsdomein, het kwalificatiedossier of de kwalificatie waarvoor de deelnemer is ingeschreven en bij inschrijving voor een opleidingsdomein het niveau, bedoeld in artikel 7.2.2, derde lid, van de wet van de beroepsopleiding; 
 
 e.indien van toepassing, het al dan niet zijn van risicodeelnemer;
 
@@ -707,7 +649,7 @@ j.indien van toepassing het volgen van de opleiding in voltijd of deeltijd en he
 k.het al dan niet voor bekostiging in aanmerking komen van de deelnemer of het diploma; en
 
 l.indien van toepassing, het gebruiken van het persoonsgebonden nummer ten behoeve van de uitvoering van de subsidieregelingen van het Europees Sociaal Fonds in het verkeer met de instelling. 
-2.  De gegevens, bedoeld in het eerste lid, onderdelen d tot en met f, worden gespecificeerd overeenkomstig het bepaalde krachtens [artikel 2.5.5a, derde lid, eerste volzin, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). 
+2.  De gegevens, bedoeld in het eerste lid, onderdelen d tot en met f, worden gespecificeerd overeenkomstig het bepaalde krachtens artikel 2.5.5a, derde lid, eerste volzin, van de wet. 
 
 ### Artikel 4b.3.3 
 
@@ -716,9 +658,9 @@ l.indien van toepassing, het gebruiken van het persoonsgebonden nummer ten behoe
 1. De gegevens, bedoeld in artikel 4b.3.1, worden uitsluitend gebruikt door de daartoe door Onze Minister aangewezen ambtenaren dan wel, voor zover het betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, door de daartoe door Onze Minister aangewezen ambtenaren van het Ministerie van Economische Zaken. 
 2. Onze Minister kan uitsluitend gebruiken:
 
-a.de gegevens van een deelnemer of voormalige deelnemer van wie het bevoegd gezag op grond van [2.5.5a, vierde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) het persoonsgebonden nummer aan Onze Minister heeft verstrekt ten behoeve van de vaststelling van de bekostiging van de instelling;
+a.de gegevens van een deelnemer of voormalige deelnemer van wie het bevoegd gezag op grond van 2.5.5a, vierde lid, van de wet het persoonsgebonden nummer aan Onze Minister heeft verstrekt ten behoeve van de vaststelling van de bekostiging van de instelling;
 
-b.de gegevens van een deelnemer of voormalige deelnemer, voorzover Onze Minister dit noodzakelijk acht ten behoeve van een onderzoek als bedoeld in [2.5.5b, derde lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); en
+b.de gegevens van een deelnemer of voormalige deelnemer, voorzover Onze Minister dit noodzakelijk acht ten behoeve van een onderzoek als bedoeld in 2.5.5b, derde lid, van de wet; en
 
 c.de gegevens van een deelnemer of voormalige deelnemer, voorzover Onze Minister het noodzakelijk acht deze gegevens ten behoeve van de vaststelling van de bekostiging van de instelling te gebruiken in het verkeer met die instelling. 
 3.  Onder gebruik ten behoeve van de vaststelling van de bekostiging van de instelling van de gegevens, bedoeld in artikel 4b.3.1, wordt mede verstaan het daartoe noodzakelijke gebruik voor de motivering van beschikkingen en de behandeling van bezwaar- en beroepschriften. 
@@ -737,11 +679,11 @@ c.de gegevens van een deelnemer of voormalige deelnemer, voorzover Onze Minister
 
 De bepalingen van dit hoofdstuk hebben betrekking op: 
 
-a. instellingen als bedoeld in [artikel 1.1.1, onderdeel b, onder 1° tot en met 3°, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+a. instellingen als bedoeld in artikel 1.1.1, onderdeel b, onder 1° tot en met 3°, van de wet,  
 
-b. kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en  
+b. kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.1.1, onderdeel b1, van de wet, en  
 
-c. instellingen als bedoeld in [artikel 2.3.4 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
+c. instellingen als bedoeld in artikel 2.3.4 van de wet.  
 
 ### Artikel  5.1.2  
 
@@ -749,7 +691,7 @@ c. instellingen als bedoeld in [artikel 2.3.4 van de wet](../../../../wet/wet/ed
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a. kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), 
+a. kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.1.1, onderdeel b1, van de wet, 
 
 b. gegevenswoordenboek: de opsomming van een door het bevoegd gezag van een instelling of het bestuur van een kenniscentrum te verzamelen gegevens, bedoeld in artikel 5.2.1. 
 
@@ -761,8 +703,8 @@ b. gegevenswoordenboek: de opsomming van een door het bevoegd gezag van een inst
 
 ####Ordening gegevens
 
-1.  De informatieverzameling, bedoeld in de [artikelen 2.2.4](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.3.6](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.5.3](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [2.5.5 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), waarover het bevoegd gezag van een instelling dient te beschikken, bevat de gegevens volgens de beschrijving in het gegevenswoordenboek dat is opgenomen in bijlage 1 bij dit besluit.   
-2.  De informatieverzameling, bedoeld in [artikel 2.5.10](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) juncto [artikel 2.5.5 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), waarover het bestuur van een kenniscentrum dient te beschikken, bevat de gegevens volgens de beschrijving in het gegevenswoordenboek dat is opgenomen in bijlage 3 bij dit besluit.   
+1.  De informatieverzameling, bedoeld in de artikelen 2.2.4, 2.3.6, 2.5.3 en 2.5.5 van de wet, waarover het bevoegd gezag van een instelling dient te beschikken, bevat de gegevens volgens de beschrijving in het gegevenswoordenboek dat is opgenomen in bijlage 1 bij dit besluit.   
+2.  De informatieverzameling, bedoeld in artikel 2.5.10 juncto artikel 2.5.5 van de wet, waarover het bestuur van een kenniscentrum dient te beschikken, bevat de gegevens volgens de beschrijving in het gegevenswoordenboek dat is opgenomen in bijlage 3 bij dit besluit.   
 3.  De gegevens, bedoeld in het eerste en tweede lid, die betrekking hebben op de bekostiging, zijn in het desbetreffende gegevenswoordenboek als zodanig aangeduid.  
 
 ### Artikel  5.2.2  
@@ -808,15 +750,15 @@ Bij ministeriële regeling kan in bijzondere gevallen een aanvullende vragenlijs
 
 De bepalingen van dit hoofdstuk hebben betrekking op: 
 
-1. instellingen als bedoeld in de [artikelen 1.1.1, onderdeel b](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [12.3.8](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [12.3.9 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en 
+1. instellingen als bedoeld in de artikelen 1.1.1, onderdeel b, 12.3.8 en 12.3.9 van de wet, en 
 
-2. kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
+2. kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.1.1, onderdeel b1, van de wet.  
 
 ### Artikel  5a.1a  
 
 ####Begripsbepaling
 
-In dit hoofdstuk wordt verstaan onder kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). 
+In dit hoofdstuk wordt verstaan onder kenniscentrum: een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.1.1, onderdeel b1, van de wet. 
 
 ### Artikel  5a.2  
 
@@ -828,7 +770,7 @@ Het personeel en het gewezen personeel van instellingen en kenniscentra zijn in 
 
 ####Voorziening bij ontbreken rechtsopvolger
 
-Indien een instelling of een kenniscentrum de taken beëindigt en een rechtsopvolger ontbreekt, waaronder tevens is begrepen het geval van een onherroepelijk vonnis tot faillietverklaring van de desbetreffende instelling of het desbetreffende kenniscentrum, voorzien de bevoegde gezagsorganen van de overige instellingen onderscheidenlijk de besturen van de overige kenniscentra er gezamenlijk in dat aan de verplichtingen jegens het personeel en het gewezen personeel die uit de wet- en regelgeving voortvloeien, wordt voldaan. De toepassing van de eerste volzin geschiedt met inachtneming van het bepaalde over vermindering van de rijksbijdrage in verband met de kosten van uitkeringen voor gewezen personeel van een instelling die of een kenniscentrum dat de taken beëindigt in de ministeriële regeling op grond van [artikel 12.3.48 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) onderscheidenlijk artikel 4.5.2. 
+Indien een instelling of een kenniscentrum de taken beëindigt en een rechtsopvolger ontbreekt, waaronder tevens is begrepen het geval van een onherroepelijk vonnis tot faillietverklaring van de desbetreffende instelling of het desbetreffende kenniscentrum, voorzien de bevoegde gezagsorganen van de overige instellingen onderscheidenlijk de besturen van de overige kenniscentra er gezamenlijk in dat aan de verplichtingen jegens het personeel en het gewezen personeel die uit de wet- en regelgeving voortvloeien, wordt voldaan. De toepassing van de eerste volzin geschiedt met inachtneming van het bepaalde over vermindering van de rijksbijdrage in verband met de kosten van uitkeringen voor gewezen personeel van een instelling die of een kenniscentrum dat de taken beëindigt in de ministeriële regeling op grond van artikel 12.3.48 van de wet onderscheidenlijk artikel 4.5.2. 
 
 ### Hoofdstuk  6  
 
@@ -838,68 +780,31 @@ Indien een instelling of een kenniscentrum de taken beëindigt en een rechtsopvo
 
 ####Beroepsonderwijs
 
-### Artikel  6.1.1  
-
-####Overgangsbepaling bestaande opleidingen; opleidingen in afbouw
-
-1.  Vervallen.   
-2.  Bij ministeriële regeling kan worden voorgeschreven, welke gegevens Onze Minister in afwijking van artikel 2.2.5 hanteert voor de bekostiging voor zover nog niet kan worden beschikt over de in dat artikel, onder b, voorgeschreven gegevens. De vervangende gegevens komen zoveel mogelijk overeen met de voorgeschreven gegevens.   
-3.  Bij ministeriële regeling wordt vastgesteld: 
-
-a. vervallen;  
-
-b. in afwijking van artikel 2.2.3, eerste lid, onder Pi respectievelijk DFi: welke prijsfactor respectievelijk welke deeltijdfactor: 
-
-1°. vervallen;  
-
-2°. vervallen;  
-
-3°. vervallen;  
-
-4°. vervallen;  
-
-5°. vervallen;  
-
-6°. tot uiterlijk 1 januari 2002 voor deeltijdse deelnemers aan 4-jarige opleidingen middelbaar beroepsonderwijs,   wordt toegekend aan opleidingen waarvan de opleidingen zoals vermeld in het overzicht, bedoeld in [artikel 12.3.17, eerste lid, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), een voortzetting vormen.  
-
-c. in afwijking van artikel 2.2.3, eerste lid, onder Pi respectievelijk DFi: welke prijsfactor respectievelijk welke deeltijdfactor: 
-
-1°. vervallen;  
-
-2°. vervallen;  
-
-3°. vervallen;  
-
-4°. vervallen;  
-
-5°. vervallen;  
-
-6°. tot uiterlijk 1 januari 2002 voor deeltijdse deelnemers aan 4-jarige opleidingen middelbaar beroepsonderwijs,   wordt toegekend aan bekostigde opleidingen die niet vallen onder a of b en die in het tweede kalenderjaar voorafgaand aan de eerste toepassing van artikel 2.2.3 werden verzorgd aan de instellingen, en  
-
-d. welk niveau wordt toegekend aan een opleiding als bedoeld onder b of c met het oog op de toepassing van artikel 2.2.4, en voor zover van toepassing, welk niveau wordt toegekend aan een opleiding als bedoeld onder b of c, met het oog op de toepassing van artikel 2.2.5.     
-4.  Onder diploma's beroepsonderwijs als bedoeld in artikel 2.1.2, onder d, worden mede begrepen, bij ministeriële regeling aangewezen diploma's en certificaten van opleidingen als bedoeld in [artikel 12.3.2 van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md).  
-
 ### Artikel  6.1.3  
 
 ####Overgangsbepaling huisvestingskosten in verband met decentralisatie huisvesting
 
-1.  Indien de op grond van artikel 2.4.1, eerste lid, voor een instelling, niet zijnde een agrarisch opleidingscentrum, vastgestelde rijksbijdrage ten behoeve van de huisvestingskosten voor een kalenderjaar van de desbetreffende instelling, vermeerderd met het gedeelte van de rijksbijdrage, berekend op grond van artikel 2.4.1, tweede lid, minder bedraagt dan het op grond van artikel 3, alsmede in voorkomende gevallen op grond van artikel 8 van de Regeling bekostiging huisvesting bve-sector 1999 voor het desbetreffende kalenderjaar vastgestelde bedrag voor de desbetreffende instelling, ontvangt de instelling voor het desbetreffende kalenderjaar een aanvulling tot dat bedrag.   
-2.  Indien de op grond van artikel 2.4.1, eerste lid, voor een agrarisch opleidingscentrum vastgestelde rijksbijdrage ten behoeve van de huisvestingskosten voor een kalenderjaar van de desbetreffende instelling, vermeerderd met het gedeelte van de rijksbijdrage, berekend op grond van artikel 2.4.1, derde lid, minder bedraagt dan het op grond van artikel 4, alsmede in voorkomende gevallen op grond van artikel 7 van de Regeling bekostiging huisvesting bve-sector voor het desbetreffende kalenderjaar vastgestelde bedrag voor de desbetreffende instelling, ontvangt de instelling voor het desbetreffende kalenderjaar een aanvulling tot dat bedrag.  
+Indien 12% van de rijksbijdrage voor exploitatiekosten en huisvestingskosten beroepsonderwijs voor een kalenderjaar voor een instelling, vermeerderd met het gedeelte van de rijksbijdrage, berekend op grond van artikel 2.4.1, minder bedraagt dan het op grond van artikel 3 of artikel 4, alsmede in voorkomende gevallen op grond van artikel 7 of artikel 8, van de Regeling bekostiging huisvesting bve-sector 1999 zoals deze luidde op 31 december 1999, voor het desbetreffende kalenderjaar vastgestelde bedrag voor de desbetreffende instelling, ontvangt de instelling voor het desbetreffende kalenderjaar een aanvulling tot dat bedrag. 
 
-###Artikel 6.1.4 
+### Artikel  6.1.4  
 
-####Overgangsbepaling 2008–2010 wijziging berekening rijksbijdrage in verband met evaluatie mbo-bekostiging
+####Overgangsbepaling 2015–2018 wijziging berekening rijksbijdrage in verband met aanpassingen mbo-bekostiging
 
-1. Indien het verschil van de berekening, bedoeld in artikel 2.2.2, eerste lid, met toepassing van artikel 2.2.3 zoals dat met ingang van 1 oktober 2006 is komen te luiden, en de overeenkomstige berekening met toepassing van artikel 2.2.3 zoals dat luidde op 30 september 2006, voor het kalenderjaar 2008 negatief is en meer bedraagt dan twee procent van de laatstgenoemde berekening, wordt dit meerdere in aanvulling gebracht op de rijksbijdrage, bedoeld in artikel 2.2.2, eerste lid, voor dat kalenderjaar.
-2. Het totaal van de aanvullingen op grond van het eerste lid wordt in mindering gebracht op de rijksbijdrage, bedoeld in artikel 2.2.2, eerste lid, voor het kalenderjaar 2008, voor de instellingen waarvoor het verschil van de berekening, bedoeld in artikel 2.2.2, eerste lid, met toepassing van artikel 2.2.3 zoals dat met ingang van 1 oktober 2006 is komen te luiden, en de overeenkomstige berekening met toepassing van artikel 2.2.3 zoals dat luidde op 30 september 2006, voor dat kalenderjaar positief is, naar rato van die toename van de rijksbijdrage voor de desbetreffende instelling.
-3. Indien een instelling voor het kalenderjaar 2008 een aanvulling ontvangt op grond van het eerste lid, ontvangt die instelling voor de kalenderjaren 2009 en 2010 aanvullingen ten bedrage van tweederde respectievelijk eenderde van die eerste aanvulling.
-4. Indien aan een instelling voor het kalenderjaar 2008 een bedrag in mindering wordt gebracht op grond van het tweede lid, wordt aan die instelling voor de kalenderjaren 2009 en 2010 tweederde respectievelijk eenderde van die eerste vermindering in mindering gebracht.
+1.  Voor de berekening van de overgangsbekostiging beroepsonderwijs van een instelling wordt de rijksbijdrage voor een instelling voor het kalenderjaar 2015, berekend op grond van artikel 2.2.1, eerste en tweede lid, zoals dat artikel met ingang van 1 augustus 2014 luidt, vergeleken met de rijksbijdrage voor beroepsonderwijs zoals die voor het kalenderjaar 2015 zou zijn vastgesteld volgens de berekeningswijze op grond van de artikelen 2.2.2, eerste lid en tweede lid, en 2.4.1, eerste lid, zoals deze luidden op 31 juli 2014.   
+2.  Bij de uitvoering van de vergelijking bedoeld in het eerste lid wordt bij de berekening van de rijksbijdrage voor 2015 volgens de berekeningswijze op grond van de in het eerste lid genoemde artikelen zoals die luidden op 31 juli 2014, uitgegaan van het landelijk beschikbare budget, bedoeld in artikel 2.1.3, eerste lid, voor 2015, verminderd met het voor alle instellingen vastgestelde budget, bedoeld in artikel 12.4.1, tweede lid, van de wet. De aldus berekende rijksbijdrage van een instelling wordt verhoogd met het bedrag dat voor die instelling op grond van artikel 12.4.1, tweede lid, van de wet is berekend. Dit bedrag wordt rekenkundig afgerond op hele euro’s.   
+3.  Indien uit de vergelijking bedoeld in het eerste lid blijkt dat de in dat lid eerstgenoemde rijksbijdrage voor een instelling hoger is dan de laatstgenoemde rijksbijdrage, wordt eerstgenoemde rijksbijdrage voor 2015 verminderd met 80% van het verschil tussen beide berekende rijksbijdragen. De uitkomst van de berekening wordt rekenkundig afgerond op hele euro’s.   
+4.  Indien uit de vergelijking bedoeld in het eerste lid blijkt dat de in dat lid eerstgenoemde rijksbijdrage voor een instelling lager is dan de laatstgenoemde rijksbijdrage, wordt eerstgenoemde rijksbijdrage voor 2015 aangevuld met 80% van het verschil tussen beide berekende rijksbijdragen. De uitkomst van de berekening wordt rekenkundig afgerond op hele euro’s.   
+5.  Indien aan een instelling voor het kalenderjaar 2015 een bedrag in mindering wordt gebracht op grond van het derde lid, wordt aan die instelling voor de kalenderjaren 2016, 2017 en 2018 60%, 40% respectievelijk 20% van het verschil bedoeld in het derde lid in mindering gebracht. De uitkomst van de berekening wordt rekenkundig afgerond op hele euro’s.   
+6.  Indien een instelling voor het kalenderjaar 2015 een aanvulling ontvangt op grond van het vierde lid, ontvangt die instelling voor de kalenderjaren 2016, 2017 en 2018 aanvullingen van 60%, 40% respectievelijk 20% van het verschil bedoeld in het vierde lid. De uitkomst van de berekening wordt rekenkundig afgerond op hele euro’s.   
+7.  Indien uit de vergelijking bedoeld in het eerste lid blijkt dat de eerstgenoemde rijksbijdrage voor een instelling meer dan 4% lager is dan de laatstgenoemde rijksbijdrage, kan Onze Minister ter voorkoming van een zodanig financieel nadeel voor die instelling dat de continuïteit van de instelling in gevaar komt, aanvullende bekostiging verstrekken aan die instelling naast de aanvulling bedoeld in het zesde lid. 
 
-### Artikel 6.1.5 
+### Artikel  6.1.5  
 
-####Tijdelijke voorziening instroomgegevens deelnemers 1 februari 2008
+####Overgangsbepaling vaststelling bekostigingsgegevens bij te late indiening
 
-Voor de toepassing van artikel 4b.2.3, eerste lid, in het studiejaar 2007–2008 wordt in onderdeel a voor «1 maart de voorlopige gegevens omtrent de inschrijvingen op 1 oktober van het desbetreffende studiejaar» gelezen: 8 maart de voorlopige gegevens omtrent de inschrijvingen op 1 oktober van het desbetreffende studiejaar, en op 8 maart de voorlopige gegevens omtrent de inschrijvingen op 1 februari van het desbetreffende studiejaar.
+1.  Indien een instelling de gegevens en de verklaring, bedoeld in artikel 2.2.5, eerste lid, ten behoeve van de bekostiging voor het kalenderjaar 2015 niet tijdig indient, kan Onze Minister, in afwijking van artikel 2.2.5, de rijksbijdrage voor het kalenderjaar 2015 en, in afwijking van artikel 6.1.4, de overgangsbekostiging voor de kalenderjaren 2015 tot en met 2018 voor deze instelling voorlopig vaststellen met gebruik van de gegevens van het kalenderjaar 2012, respectievelijk het studiejaar 2012–2013.   
+2.  De instellingen, bedoeld in het eerste lid, dienen uiterlijk 1 november 2014 de gegevens bedoeld in artikel 2.5.5a, tweede lid, onderdelen a, b, c, d, h, i, l, m en n, van de wet, voorzien van een goedkeurende accountantsverklaring, in bij Onze Minister.   
+3.  Indien toepassing van de artikelen 2.2.2, 2.2.3 en 6.1.4 met gebruikmaking van de gegevens, bedoeld in het tweede lid, leidt tot een lagere rijksbijdrage of overgangsbekostiging dan vastgesteld op grond van het eerste lid, wordt die lagere rijksbijdrage of overgangsbekostiging vastgesteld. Gebruikmaking van de gegevens, bedoeld in het tweede lid, leidt in geen geval tot een hogere rijksbijdrage of overgangsbekostiging dan vastgesteld op grond van het eerste lid. 
 
 ### Paragraaf  2  
 
@@ -911,12 +816,12 @@ Voor de toepassing van artikel 4b.2.3, eerste lid, in het studiejaar 2007–2008
 
 1.  Onverminderd het tweede lid wordt de rijksbijdrage, bedoeld in artikel 2a.2.1, eerste lid, voor het bekostigingsjaar 2015 vastgesteld als volgt: 
 
-a. voor elke instelling wordt een bedrag vastgesteld dat overeenkomt met het bedrag dat de instelling in 2014 heeft ontvangen op grond van de [Regeling overgangsbekostiging vavo 2013 en 2014](../../../../ministeriele-regeling/regeling/overgangsbekostiging/vavo/2013/en/2014/BWBR0032257/README.md), vermenigvuldigd met twee derde; en  
+a. voor elke instelling wordt een bedrag vastgesteld dat overeenkomt met het bedrag dat de instelling in 2014 heeft ontvangen op grond van de Regeling overgangsbekostiging vavo 2013 en 2014, vermenigvuldigd met twee derde; en  
 
 b. voor elke instelling wordt een bedrag vastgesteld door het deel van het landelijk beschikbaar budget, bedoeld in artikel 2a.1.3, voor het jaar 2015 dat overblijft na aftrek van de op grond van onderdeel a berekende bedragen, te verdelen volgens de berekening, bedoeld in artikel 2a.2.1, eerste lid; en  
 
 c. de uitkomsten van de berekeningen op grond van de onderdelen a en b worden rekenkundig afgerond op hele euro’s.     
-2.  Indien Onze Minister de gegevens, bedoeld in [artikel 2.3.6a, tweede lid, onderdelen a, b, c, e, f, g, h en j, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voor het bekostigingsjaar 2015 niet uiterlijk 1 juli 2014 heeft ontvangen, voorzien van een goedkeurende accountantsverklaring, wordt het in het eerste lid, onderdeel b, bedoelde bedrag voor de desbetreffende instelling berekend door het bedrag dat de instelling in 2014 heeft ontvangen op grond van de Regeling overgangsbekostiging vavo 2013 en 2014 te vermenigvuldigen met een derde. Het aldus berekende bedrag wordt in mindering gebracht op het in het eerste lid, onderdeel b, bedoelde deel van het landelijk budget voordat dit overeenkomstig dat onderdeel wordt verdeeld. Artikel 2a.2.3, derde en vierde lid, is van overeenkomstige toepassing.   
+2.  Indien Onze Minister de gegevens, bedoeld in artikel 2.3.6a, tweede lid, onderdelen a, b, c, e, f, g, h en j, van de wet voor het bekostigingsjaar 2015 niet uiterlijk 1 juli 2014 heeft ontvangen, voorzien van een goedkeurende accountantsverklaring, wordt het in het eerste lid, onderdeel b, bedoelde bedrag voor de desbetreffende instelling berekend door het bedrag dat de instelling in 2014 heeft ontvangen op grond van de Regeling overgangsbekostiging vavo 2013 en 2014 te vermenigvuldigen met een derde. Het aldus berekende bedrag wordt in mindering gebracht op het in het eerste lid, onderdeel b, bedoelde deel van het landelijk budget voordat dit overeenkomstig dat onderdeel wordt verdeeld. Artikel 2a.2.3, derde en vierde lid, is van overeenkomstige toepassing.   
 3.  Het rijksbijdragedeel ten behoeve van de kosten van gehandicapte deelnemers voor het bekostigingsjaar 2015 wordt vastgesteld door het budget, bedoeld in artikel 2a.3.1, eerste lid, voor het bekostigingsjaar 2015 over de instellingen te verdelen naar rato van de voor dat jaar op grond van het eerste en tweede lid berekende rijksbijdragen.  
 
 ### Artikel  6.2.2  
@@ -925,33 +830,27 @@ c. de uitkomsten van de berekeningen op grond van de onderdelen a en b worden re
 
 1.  Onverminderd het tweede lid wordt de rijksbijdrage, bedoeld in artikel 2a.2.1, eerste lid, voor het bekostigingsjaar 2016 vastgesteld als volgt: 
 
-a. voor elke instelling wordt een bedrag vastgesteld dat overeenkomt met het bedrag dat de instelling in 2014 heeft ontvangen op grond van de [Regeling overgangsbekostiging vavo 2013 en 2014](../../../../ministeriele-regeling/regeling/overgangsbekostiging/vavo/2013/en/2014/BWBR0032257/README.md), vermenigvuldigd met een derde; en  
+a. voor elke instelling wordt een bedrag vastgesteld dat overeenkomt met het bedrag dat de instelling in 2014 heeft ontvangen op grond van de Regeling overgangsbekostiging vavo 2013 en 2014, vermenigvuldigd met een derde; en  
 
 b. voor elke instelling wordt een bedrag vastgesteld door het deel van het landelijk beschikbaar budget, bedoeld in artikel 2a.1.3, voor het jaar 2016 dat overblijft na aftrek van de op grond van onderdeel a berekende bedragen, te verdelen volgens de berekening, bedoeld in artikel 2a.2.1, eerste lid; en  
 
 c. de uitkomsten van de berekeningen op grond van de onderdelen a en b worden rekenkundig afgerond op hele euro’s.     
-2.  Indien Onze Minister de gegevens, bedoeld in [artikel 2.3.6a, tweede lid, onderdelen a, b, c, e, f, g, h en j, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) voor het bekostigingsjaar 2016 niet uiterlijk 1 juli 2015 heeft ontvangen, voorzien van een goedkeurende accountantsverklaring, wordt artikel 2a.2.3, tweede lid, toegepast op de berekening van het in het in eerste lid, onderdeel b, bedoelde bedrag. Het aldus berekende bedrag wordt in mindering gebracht op het in het eerste lid, onderdeel b, bedoelde deel van het landelijk budget voordat dit overeenkomstig dat onderdeel wordt verdeeld. Artikel 2a.2.3, derde en vierde lid, is van overeenkomstige toepassing.   
+2.  Indien Onze Minister de gegevens, bedoeld in artikel 2.3.6a, tweede lid, onderdelen a, b, c, e, f, g, h en j, van de wet voor het bekostigingsjaar 2016 niet uiterlijk 1 juli 2015 heeft ontvangen, voorzien van een goedkeurende accountantsverklaring, wordt artikel 2a.2.3, tweede lid, toegepast op de berekening van het in het in eerste lid, onderdeel b, bedoelde bedrag. Het aldus berekende bedrag wordt in mindering gebracht op het in het eerste lid, onderdeel b, bedoelde deel van het landelijk budget voordat dit overeenkomstig dat onderdeel wordt verdeeld. Artikel 2a.2.3, derde en vierde lid, is van overeenkomstige toepassing.   
 3.  Het rijksbijdragedeel ten behoeve van de kosten van gehandicapte deelnemers voor het bekostigingsjaar 2016, wordt vastgesteld door het budget, bedoeld in artikel 2a.3.1, eerste lid, voor het bekostigingsjaar 2016 over de instellingen te verdelen naar rato van de voor dat jaar op grond van het eerste en tweede lid berekende rijksbijdragen.  
 
 ### Paragraaf  2a  
 
 ####Kosten van werkloosheidsuitkeringen en suppleties inzake arbeidsongeschiktheid beroepsonderwijs en voortgezet algemeen volwassenenonderwijs
 
-Treedt in werking per 01-08-2014 
-
 ### Artikel  6.2a.1  
 
 ####Begripsbepaling
-
-Treedt in werking per 01-08-2014 
 
 Op deze paragraaf is artikel 2b.1.1 van toepassing. 
 
 ### Artikel  6.2a.2  
 
 ####Overgangsbepaling vaststelling en verdeling rijksbijdragedeel 2015–2016
-
-Treedt in werking per 01-08-2014 
 
 1.  Onze Minister verdeelt het voor het kalenderjaar 2015 respectievelijk 2016 vastgestelde budget ten behoeve van uitkeringskosten over de instellingen naar rato van de som van de voor een instelling: 
 
@@ -963,8 +862,6 @@ b. op grond van artikel 6.2.1, eerste lid, respectievelijk artikel 6.2.2, eerste
 ### Artikel  6.2a.3  
 
 ####Overgangsbepaling vaststelling en verdeling rijksbijdragedeel 2017–2018
-
-Treedt in werking per 01-08-2014 
 
 1.  Onze Minister verdeelt het voor het kalenderjaar 2017 respectievelijk 2018 vastgestelde budget ten behoeve van uitkeringskosten over de instellingen naar rato van de som van de voor een instelling: 
 
@@ -1046,7 +943,7 @@ A. H. Korthals
 
 ####Informatieverzameling instellingen bij hoofdstuk 5  Informatie van het Uitvoeringsbesluit WEB
 
-Deze bijlage bevat een programma van eisen of gegevenswoordenboek, waarin de personeelsgegevens worden gespecificeerd die het bevoegd gezag verplicht is aan de overheid te leveren, krachtens [artikel 2.3.6, tweede lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [artikel 2.5.5, tweede lid, van de WEB](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en artikelen 5.2.1 en 5.2.2 van het Uitvoeringsbesluit WEB. 
+Deze bijlage bevat een programma van eisen of gegevenswoordenboek, waarin de personeelsgegevens worden gespecificeerd die het bevoegd gezag verplicht is aan de overheid te leveren, krachtens artikel 2.3.6, tweede lid, en artikel 2.5.5, tweede lid, van de WEB en artikelen 5.2.1 en 5.2.2 van het Uitvoeringsbesluit WEB. 
 
 ### 1  
 
@@ -1088,7 +985,7 @@ In dit programma van eisen staat per gegeven de technische uitwerking, zoals die
 | --- | --- | --- | O Onbekend  |
 | 6  | geboortedatum  | getal van 8 cijfers JJJJMMDD (N8)  | De datum waarop het personeelslid is geboren  |
 | --- | --- | --- | --- |
-| 7  | BSN  | nummer van maximaal 9 cijfers (N9)  | Burgerservicenummer. Het volgens de [Wet algemene bepalingen burgerservicenummer](../../../../wet/wet/algemene/bepalingen/burgerservicenummer/BWBR0022428/README.md) aan een natuurlijke persoon toegekend uniek persoonsnummer.  |
+| 7  | BSN  | nummer van maximaal 9 cijfers (N9)  | Burgerservicenummer. Het volgens de Wet algemene bepalingen burgerservicenummer aan een natuurlijke persoon toegekend uniek persoonsnummer.  |
 
 ### 2.2  
 
@@ -1426,7 +1323,7 @@ In dit gegevenswoordenboek staat per gegeven de technische uitwerking, zoals die
 
 ####Wijze van beschikbaarstelling gegevens door instellingen bij hoofdstuk 5  Informatie van het Uitvoeringsbesluit WEB
 
-De gegevens bedoeld in [artikel 2.3.6, tweede lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [artikel 2.5.5, tweede lid, van de WEB](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zijn op diverse momenten nodig, sommige enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens op welke wijze (tijdstip en vorm) beschikbaar moeten worden gesteld. De overheid maakt bij de gegevensverzameling zoveel mogelijk gebruik van het principe van éénmaal bevragen, meer keren gebruiken. Een groot deel van de gegevens (zoals organisatiegegevens) is reeds geregistreerd in systemen. Deze gegevens hoeven alleen aangepast te worden wanneer zich mutaties voordoen. Daarvoor kan men terecht op de site van DUO, www.ocwduo.nl. Afhankelijk of instellingen zelf gegevensleverancier zijn, worden personeelsgegevens onttrokken aan de schooladministratie of aan registraties bij salarisverwerkers of administratiekantoren. In deze bijlage wordt ingegaan op de termijn voor aanlevering van de personeelsgegevens en de wijze van aanlevering. 
+De gegevens bedoeld in artikel 2.3.6, tweede lid, en artikel 2.5.5, tweede lid, van de WEB zijn op diverse momenten nodig, sommige enkele malen per jaar, andere vaker. De benodigde gegevens moeten door het bevoegd gezag worden geleverd. Voor steeds meer gegevens geldt een verplichte elektronische aanlevering in een bestandsformaat met een vooraf vastgestelde opbouw. Als gevolg hiervan is het van groot belang dat voor alle betrokken partijen bekend is welke gegevens op welke wijze (tijdstip en vorm) beschikbaar moeten worden gesteld. De overheid maakt bij de gegevensverzameling zoveel mogelijk gebruik van het principe van éénmaal bevragen, meer keren gebruiken. Een groot deel van de gegevens (zoals organisatiegegevens) is reeds geregistreerd in systemen. Deze gegevens hoeven alleen aangepast te worden wanneer zich mutaties voordoen. Daarvoor kan men terecht op de site van DUO, www.ocwduo.nl. Afhankelijk of instellingen zelf gegevensleverancier zijn, worden personeelsgegevens onttrokken aan de schooladministratie of aan registraties bij salarisverwerkers of administratiekantoren. In deze bijlage wordt ingegaan op de termijn voor aanlevering van de personeelsgegevens en de wijze van aanlevering. 
 
 ### 1  
 
@@ -1478,7 +1375,7 @@ De aanlevering van de gegevens in de genoemde onderdelen geschiedt elektronisch.
 
 ####Instellingen
 
-– kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.1.1, onderdeel b1, van de wet](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). 
+– kenniscentra beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.1.1, onderdeel b1, van de wet. 
 
 ####Termijnen
 

@@ -1455,9 +1455,9 @@ Overeenkomstig artikel 29.1 wordt aan elke nationale centrale bank een weging to
 
 ### Artikel  49  
 
-####Inwisseling van bankbiljetten in valuta’s van de Unie
+####Inwisseling van bankbiljetten in valuta’s van de lidstaten
 
-Na de onherroepelijke vaststelling van de wisselkoersen overeenkomstig artikel 139, lid 3, van het Verdrag betreffende de werking van de Europese Unie, treft de Raad van bestuur de noodzakelijke maatregelen om te verzekeren dat bankbiljetten luidende in valuta’s met onherroepelijk vastgestelde wisselkoersen door de nationale centrale banken worden ingewisseld tegen hun respectieve pariwaarden. 
+Na de onherroepelijke vaststelling van de wisselkoersen overeenkomstig artikel 140, lid 3, van het Verdrag betreffende de werking van de Europese Unie, treft de Raad van bestuur de noodzakelijke maatregelen om te verzekeren dat bankbiljetten luidende in valuta’s met onherroepelijk vastgestelde wisselkoersen door de nationale centrale banken worden ingewisseld tegen hun respectieve pariwaarden. 
 
 ### Artikel  50  
 
@@ -2006,7 +2006,7 @@ De voor de toepassing van dit protocol benodigde statistische gegevens worden do
 
 ####betreffende de convergentiecriteria
 
-De Hoge Verdragsluitende Partijen, Geleid door de wens nadere regels vast te stellen voor de convergentiecriteria die de Unie moet hanteren wanneer zij besluit de derogaties in te trekken van de lidstaten die vallen onder een derogatie, bedoeld in artikel 140, lid 1, van het Verdrag betreffende de werking van de Europese Unie,    Hebben overeenstemming bereikt omtrent de volgende bepalingen, welke aan het Verdrag betreffende de Europese Unie en aan het Verdrag betreffende de werking van de Europese Unie worden gehecht:     
+De Hoge Verdragsluitende Partijen, Geleid door de wens nadere regels vast te stellen voor de convergentiecriteria die de Unie moet hanteren wanneer zij besluit de derogaties in te trekken van de lidstaten die vallen onder een derogatie, bedoeld in artikel 140 van het Verdrag betreffende de werking van de Europese Unie,    Hebben overeenstemming bereikt omtrent de volgende bepalingen, welke aan het Verdrag betreffende de Europese Unie en aan het Verdrag betreffende de werking van de Europese Unie worden gehecht:     
 
 ### Artikel  1  
 
@@ -2014,7 +2014,7 @@ Het in artikel 140, lid 1, eerste streepje, van het Verdrag betreffende de werki
 
 ### Artikel  2  
 
-Het in artikel 140, lid 1, tweede streepje, van dat Verdrag bedoelde criterium inzake de begrotingssituatie van de overheid, houdt in dat ten aanzien van de lidstaat op het tijdstip van het onderzoek geen Raadsbesluit krachtens artikel 104, lid 6, van het Verdrag is genomen, waarin wordt vastgesteld dat er in de betrokken lidstaat een buitensporig tekort bestaat. 
+Het in artikel 140, lid 1, tweede streepje, van dat Verdrag bedoelde criterium inzake de begrotingssituatie van de overheid, houdt in dat ten aanzien van de lidstaat op het tijdstip van het onderzoek geen Raadsbesluit krachtens artikel 126, lid 6, van het Verdrag is genomen, waarin wordt vastgesteld dat er in de betrokken lidstaat een buitensporig tekort bestaat. 
 
 ### Artikel  3  
 
@@ -2030,7 +2030,7 @@ De voor de toepassing van dit protocol benodigde statistische gegevens worden do
 
 ### Artikel  6  
 
-De Raad stelt op voorstel van de Commissie en na raadpleging van het Europees Parlement of de ECB al naar het geval, en het Comité bedoeld in artikel 134 van dat Verdrag, met eenparigheid van stemmen de passende bepalingen vast betreffende de nadere regels voor de in artikel 140 van dat Verdrag bedoelde convergentiecriteria, die dan in de plaats van dit protocol komen. 
+De Raad stelt op voorstel van de Commissie en na raadpleging van het Europees Parlement of de ECB, en het Comité bedoeld in artikel 134 van dat Verdrag, met eenparigheid van stemmen de passende bepalingen vast betreffende de nadere regels voor de in artikel 140 van dat Verdrag bedoelde convergentiecriteria, die dan in de plaats van dit protocol komen. 
 
 ### Protocol  
 

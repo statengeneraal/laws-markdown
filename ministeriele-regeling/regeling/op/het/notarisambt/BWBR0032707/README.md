@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Veiligheid en Justitie van 11 december 2012, nr. 32952, houdende regels over het notarisambt (Regeling op het notarisambt)
 
 De Minister van Veiligheid en Justitie,  
-Gelet op de [artikelen 8, vierde lid](../../../../../../wet/notariswet/BWBR0010388/README.md), [24, vijfde lid](../../../../../../wet/notariswet/BWBR0010388/README.md), [25, zevende lid](../../../../../../wet/notariswet/BWBR0010388/README.md), [25a van de Wet op het notarisambt](../../../../../../wet/notariswet/BWBR0010388/README.md), [artikel 26 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), de [artikelen 4, zevende lid](../../../../../../AMvB/besluit/op/het/notarisambt/BWBR0032084/README.md) en [12, zesde lid, van het Besluit op het notarisambt](../../../../../../AMvB/besluit/op/het/notarisambt/BWBR0032084/README.md) en [artikel 2 van het Besluit vergoedingen adviescolleges en commissies](../../../../../../AMvB/besluit/vergoedingen/adviescolleges/en/commissies/BWBR0025279/README.md);
+Gelet op de artikelen 8, vierde lid, 24, vijfde lid, 25, zevende lid, 25a van de Wet op het notarisambt, artikel 26 van de Kaderwet zelfstandige bestuursorganen, de artikelen 4, zevende lid en 12, zesde lid, van het Besluit op het notarisambt en artikel 2 van het Besluit vergoedingen adviescolleges en commissies;
 Besluit:    
 
 ### Artikel  1  
@@ -20,16 +20,16 @@ b.  *klein kantoor:* een notarisorganisatie waar gedurende de laatste twee boekj
 
 3. het aantal werknemers, dat bij het notariskantoor in dienst is, dan wel op grond van een overeenkomst werkzaamheden verricht, bedraagt maximaal 20 fulltime-equivalents (fte’s).    
 
-c.  *melding:* een melding als bedoeld in [artikel 25a van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md);   
+c.  *melding:* een melding als bedoeld in artikel 25a van de wet;   
 
-####Inhoud verslag en verklaring of mededeling en overige gegevens ten behoeve van Bureau Financieel Toezicht ([artikel 24, vierde en vijfde lid, van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md))
+####Inhoud verslag en verklaring of mededeling en overige gegevens ten behoeve van Bureau Financieel Toezicht (artikel 24, vierde en vijfde lid, van de wet)
 
 ### Artikel  2  
 
-1.  Het in [artikel 24, vierde lid, van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md) genoemde verslag ten aanzien van de kantoorwerkzaamheden omvat de jaarrekening met de balans, de staat van baten en lasten (winst- en verliesrekening) en de toelichting daarop.   
-2.  De opstelling van de privé-vermogenspositie en de opstelling van het (belastbaar) inkomen van de notaris maken onderdeel uit van het in [artikel 24, vierde lid, van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md) genoemde verslag. Indien van toepassing maken tevens de jaarrekening(en) van praktijkvennootschappen en/of buitenmaatschappelijke balansen en de praktijkresultaten, dan wel de geconsolideerde jaarrekening(en) hiervan onderdeel uit. Deze laatste(n) dienen minimaal voorzien te zijn van een samenstellingsverklaring van een accountant.   
+1.  Het in artikel 24, vierde lid, van de wet genoemde verslag ten aanzien van de kantoorwerkzaamheden omvat de jaarrekening met de balans, de staat van baten en lasten (winst- en verliesrekening) en de toelichting daarop.   
+2.  De opstelling van de privé-vermogenspositie en de opstelling van het (belastbaar) inkomen van de notaris maken onderdeel uit van het in artikel 24, vierde lid, van de wet genoemde verslag. Indien van toepassing maken tevens de jaarrekening(en) van praktijkvennootschappen en/of buitenmaatschappelijke balansen en de praktijkresultaten, dan wel de geconsolideerde jaarrekening(en) hiervan onderdeel uit. Deze laatste(n) dienen minimaal voorzien te zijn van een samenstellingsverklaring van een accountant.   
 3.  De notaris dient er voor te zorgen dat de in het eerste lid genoemde jaarrekening is voorzien van een controleverklaring van een accountant. Indien sprake is van een klein kantoor kan worden volstaan met een beoordelingsverklaring van een accountant.   
-4.  De notaris dient er zorg voor te dragen dat het verslag als bedoeld in [artikel 24, vierde lid](../../../../../../wet/notariswet/BWBR0010388/README.md), vergezeld gaat van een rapport van feitelijke bevindingen van een accountant betreffende: 
+4.  De notaris dient er zorg voor te dragen dat het verslag als bedoeld in artikel 24, vierde lid, vergezeld gaat van een rapport van feitelijke bevindingen van een accountant betreffende: 
 
 a. bevindingen in het kader van de Financiële verordening van de KNB;  
 
@@ -39,13 +39,13 @@ c. bevindingen ten aanzien van de antwoorden van de notaris op relevante toezich
 
 d. bevindingen ten aanzien van de in artikel 8 bedoelde melding aan het Bureau.    
 
-####Hoogte van de verschuldigde vergoeding voor indiening van een verzoek bij de Commissie toegang notariaat ([artikel 8, vierde lid van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md))
+####Hoogte van de verschuldigde vergoeding voor indiening van een verzoek bij de Commissie toegang notariaat (artikel 8, vierde lid van de wet)
 
 ### Artikel  3  
 
-De verschuldigde vergoeding voor het indienen van een verzoek op grond van [artikel 8, eerste lid, van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md) bedraagt € 1.600,–. 
+De verschuldigde vergoeding voor het indienen van een verzoek op grond van artikel 8, eerste lid, van de wet bedraagt € 1.600,–. 
 
-####Wijze van berekening en uitkering van de rente van de op de bijzondere rekening gestorte gelden ([artikel 25, zevende lid van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md))
+####Wijze van berekening en uitkering van de rente van de op de bijzondere rekening gestorte gelden (artikel 25, zevende lid van de wet)
 
 ### Artikel  4  
 
@@ -67,9 +67,9 @@ In afwijking van de artikelen 4 en 5 behoeft geen rente te worden vergoed in de 
 
 a. bij kortlopende transacties in geval van rente op tegoeden die maximaal vijf werkdagen onder het beheer van de notaris hebben gestaan;  
 
-b. over de overdrachtsbelasting gedurende de termijn als bedoeld in de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
+b. over de overdrachtsbelasting gedurende de termijn als bedoeld in de Algemene wet inzake rijksbelastingen.   
 
-####Melding aan het Bureau in geval van mogelijk aanmerkelijke nadelige gevolgen voor de financiële positie van een notaris ([artikel 25a van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md))
+####Melding aan het Bureau in geval van mogelijk aanmerkelijke nadelige gevolgen voor de financiële positie van een notaris (artikel 25a van de wet)
 
 ### Artikel  8  
 
@@ -105,32 +105,41 @@ b. een aangifte van een strafbaar feit tegen een notaris die verband houdt met z
 
 c. aanwijzingen of vermoedens van fraude of malversaties met betrokkenheid van een (of meer) personen werkzaam binnen de organisatievorm.  
 
-d. een mededeling van een melding van een verstrekking aan de autoriteiten op grond van [artikel 25, achtste of negende lid, van de wet](../../../../../../wet/notariswet/BWBR0010388/README.md).     
+d. een mededeling van een melding van een verstrekking aan de autoriteiten op grond van artikel 25, achtste of negende lid, van de wet.     
 
 ### Artikel  10  
 
 1.  Naast de in artikel 9 omschreven gebeurtenissen kan de notaris andere gebeurtenissen die aanmerkelijke nadelige gevolgen voor de (financiële) positie van een notaris kunnen hebben, aan het Bureau melden.   
 2.  Een toegevoegd notaris of kandidaat-notaris kan gebeurtenissen, bedoeld in artikel 9 en 10 eerste lid, melden aan het Bureau.  
 
+####Wijze van indiening gegevens en doen van meldingen aan het Bureau (artikel 24, vierde en vijfde lid van de wet)
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  10a  
+Treedt in werking per 01-01-2015 
+
+De gegevens bedoeld in artikel 24, vierde lid, van de wet en de overige gegevens bedoeld in artikel 24, vijfde lid, van de wet, dienen digitaal te worden ingediend via een daartoe door het Bureau beschikbaar gestelde elektronische toepassing. 
+
 ####Indiening ontwerp-begroting Bureau
 
 ### Artikel  11  
 
-Het Bureau zendt onze minister jaarlijks voor 1 oktober een ontwerp-begroting, bedoeld in de [artikel 26 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), voor het daarop volgende jaar. 
+Het Bureau zendt onze minister jaarlijks voor 1 oktober een ontwerp-begroting, bedoeld in de artikel 26 van de Kaderwet zelfstandige bestuursorganen, voor het daarop volgende jaar. 
 
 ####Vergoeding reis- en verblijfkosten leden en plaatsvervangend leden Kamers
 
 ### Artikel  12  
 
-De leden en plaatsvervangend leden van de kamers voor het notariaat hebben per vergadering recht op vergoeding van reis- en verblijfkosten overeenkomstig [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md). 
+De leden en plaatsvervangend leden van de kamers voor het notariaat hebben per vergadering recht op vergoeding van reis- en verblijfkosten overeenkomstig Reisbesluit binnenland. 
 
 ####Vergoeding kosten leden en plaatsvervangend leden van de Commissie toegang notariaat
 
 ### Artikel  13  
 
-1.  Aan de leden en plaatsvervangend leden van de Commissie wordt per vergadering een vergoeding toegekend van 3% van het maximum van salarisschaal 18 van [Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).   
+1.  Aan de leden en plaatsvervangend leden van de Commissie wordt per vergadering een vergoeding toegekend van 3% van het maximum van salarisschaal 18 van Bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
 2.  Aan de voorzitter van de Commissie wordt per vergadering een vergoeding toegekend van 130% van het bedrag, bedoeld in het vorige lid.   
-3.  De voorzitter en overige leden van de Commissie ontvangen per vergadering een vergoeding voor reis- of verblijfkosten op grond van het [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md).  
+3.  De voorzitter en overige leden van de Commissie ontvangen per vergadering een vergoeding voor reis- of verblijfkosten op grond van het Reisbesluit binnenland.  
 
 ####Overige bepalingen
 

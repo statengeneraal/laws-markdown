@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Onderwijs, Cultuur en Wetenschappen, T. Netelenbos, van 1 juli 1997, nr. 97010805/3709, directie Wetgeving en Juridische Zaken, gedaan mede namens Onze Minister van Landbouw, Natuurbeheer en Visserij; 
 
-Gelet op de [artikelen 103](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103*a* van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md); 
+Gelet op de artikelen 103 en 103*a* van de Wet op het voortgezet onderwijs; 
 
 De Raad van State gehoord (advies van 17 september 1997, nr. WO5.97.0394); 
 
@@ -22,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 Dit besluit verstaat onder:  
 
-a. de wet: de [Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);   
+a. de wet: de Wet op het voortgezet onderwijs;   
 
 b.  Onze Minister: Onze Minister van Onderwijs, Cultuur en Wetenschap en, voor wat betreft het onderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, Onze Minister van Economische Zaken;  
 
@@ -42,11 +42,19 @@ e. gegevenswoordenboek: de opsomming van door een school te verzamelen gegevens,
 
 ####De gegevensverzameling 
 
+### Artikel  1a  
+
+####Gebruik burgerservicenummer personeel door bevoegd gezag
+
+Treedt in werking per 01-01-2015 
+
+Bij de gegevensverstrekking op grond van artikel 103a1 van de wet maakt het bevoegd gezag gebruik van het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer, van een lid van het personeel of gewezen personeel van de school. 
+
 ### Artikel  2  
 
 ####Ordening van de gegevens 
 
-1.  De informatieverzameling, bedoeld in de [artikelen 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1 van de wet](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), waarover het bevoegd gezag dient te beschikken, bevat de gegevens volgens de beschrijving in het gegevenswoordenboek dat is opgenomen in bijlage 1 bij dit besluit.    
+1.  De informatieverzameling, bedoeld in de artikelen 103a en 103a1 van de wet, waarover het bevoegd gezag dient te beschikken, bevat de gegevens volgens de beschrijving in het gegevenswoordenboek dat is opgenomen in bijlage 1 bij dit besluit.    
 2.  De gegevens, bedoeld in het eerste lid, die betrekking hebben op bekostiging zijn in het gegevenswoordenboek als zodanig aangeduid.   
 
 ### Artikel  3  
@@ -69,7 +77,7 @@ Bij ministeriële regeling kan in spoedeisende gevallen een aanvullende vragenli
 
 ####Gewijzigde grondslag
 
-Dit besluit berust op [artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). 
+Dit besluit berust op artikel 103a en 103a1 van de Wet op het voortgezet onderwijs. 
 
 ### Artikel  5  
 
@@ -106,7 +114,7 @@ W. Sorgdrager
 
 #### Ordening van de gegevens
 
-In deze bijlage worden gegevens gespecificeerd die bevoegde gezagsorganen, krachtens [artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [artikel 103a1 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), verplicht zijn om aan de minister te leveren. 
+In deze bijlage worden gegevens gespecificeerd die bevoegde gezagsorganen, krachtens artikel 103a en artikel 103a1 van de Wet op het voortgezet onderwijs, verplicht zijn om aan de minister te leveren. 
 
 #### *Toelichting* 
 
@@ -124,11 +132,11 @@ Voor het bekostigen van scholen, voor toezicht en voor het maken en evalueren va
 
 – verlofgegevens  
 
-– [WIA](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md)    
+– WIA    
 
 * gegevens van regelingen waarvoor een aanvraag moet worden ingediend 
 
-– geïndiceerde leerlingen voor scholen die vallen onder de [WPO](../../../../../wet/wbo/BWBR0003420/README.md) en [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  
+– geïndiceerde leerlingen voor scholen die vallen onder de WPO en WVO  
 
 – regionaal zorgbudget samenwerkingsverbanden VO  
 
@@ -148,76 +156,76 @@ Gegevens over het bevoegd gezag, de instellingen en de samenwerkingsverbanden wo
 
 1.1.1 Bevoegd gezag: vestigingsadres 
 
-| nr  | veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 1  | Organisatienummer bevoegd gezag  | 5 cijfers (N5)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister gehanteerde nummer van het bevoegd gezag, volgens de Basisregistratie Instellingen (BRIN)  |
-| 2  | Adres  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
-| 3  | Postcode  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De postcode behorende bij het adres  |
-| 4  | Plaats  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Naam van de woonplaats, behorende bij het vestigingsadres  |
-| 5  | Ingangsdatum  | JJJJMMDD (N8)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Datum waarop de mutatie ingaat of zal ingaan  |
+| 1  | Organisatienummer bevoegd gezag  | 5 cijfers (N5)  | Artikel 103a1  | Het door de minister gehanteerde nummer van het bevoegd gezag, volgens de Basisregistratie Instellingen (BRIN)  |
+| 2  | Adres  | --- | Artikel 103a1  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
+| 3  | Postcode  | --- | Artikel 103a1  | De postcode behorende bij het adres  |
+| 4  | Plaats  | --- | Artikel 103a1  | Naam van de woonplaats, behorende bij het vestigingsadres  |
+| 5  | Ingangsdatum  | JJJJMMDD (N8)  | Artikel 103a1  | Datum waarop de mutatie ingaat of zal ingaan  |
 
 1.1.2 Bevoegd gezag: correspondentieadres 
 
-| nr  | veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 1  | Organisatienummer bevoegd gezag  | 5 cijfers (N5)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
-| 2  | Adres  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
-| 3  | Postcode  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De postcode behorende bij het adres  |
-| 4  | Plaats  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Naam van de woonplaats, behorende bij het correspondentieadres  |
-| 5  | Ingangsdatum  | JJJJMMDD (N8)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Datum waarop de mutatie ingaat of zal ingaan  |
+| 1  | Organisatienummer bevoegd gezag  | 5 cijfers (N5)  | Artikel 103a1  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
+| 2  | Adres  | --- | Artikel 103a1  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
+| 3  | Postcode  | --- | Artikel 103a1  | De postcode behorende bij het adres  |
+| 4  | Plaats  | --- | Artikel 103a1  | Naam van de woonplaats, behorende bij het correspondentieadres  |
+| 5  | Ingangsdatum  | JJJJMMDD (N8)  | Artikel 103a1  | Datum waarop de mutatie ingaat of zal ingaan  |
 
 1.1.3 Bevoegd gezag: overige communicatiegegevens (niet verplicht) 
 
-| nr  | veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 1  | Organisatienummer bevoegd gezag  | 5 cijfers (N5)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
-| 2  | Telefoonnummer  | (N10)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het telefoonnummer waaronder het bevoegd gezag bereikbaar is  |
-| 3  | Fax  | (N10)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het faxnummer waaronder het bevoegd gezag bereikbaar is  |
-| 4  | e-mail adres  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het adres waaronder het bevoegd gezag via het internet per elektronische post bereikbaar is  |
-| 5  | Internetadres  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | URL waar het bevoegd gezag op internet te vinden is  |
-| 6  | Ingangsdatum  | JJJJMMDD (N8)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Datum waarop de mutatie ingaat of zal ingaan  |
+| 1  | Organisatienummer bevoegd gezag  | 5 cijfers (N5)  | Artikel 103a1  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
+| 2  | Telefoonnummer  | (N10)  | Artikel 103a1  | Het telefoonnummer waaronder het bevoegd gezag bereikbaar is  |
+| 3  | Fax  | (N10)  | Artikel 103a1  | Het faxnummer waaronder het bevoegd gezag bereikbaar is  |
+| 4  | e-mail adres  | --- | Artikel 103a1  | Het adres waaronder het bevoegd gezag via het internet per elektronische post bereikbaar is  |
+| 5  | Internetadres  | --- | Artikel 103a1  | URL waar het bevoegd gezag op internet te vinden is  |
+| 6  | Ingangsdatum  | JJJJMMDD (N8)  | Artikel 103a1  | Datum waarop de mutatie ingaat of zal ingaan  |
 
 1.1.4 School: correspondentieadres 
 
-| nr  | veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 1  | Organisatienummer school  | 2 cijfers, 2 letters (A4)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister toegekende nummer van de school  |
-| 2  | Adres  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
-| 3  | Postcode  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De postcode behorende bij het adres  |
-| 4  | Plaats  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Naam van de woonplaats, behorende bij de straat en postcode  |
-| 5  | Ingangsdatum  | JJJJMMDD (N8)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Datum waarop de mutatie ingaat of zal ingaan  |
+| 1  | Organisatienummer school  | 2 cijfers, 2 letters (A4)  | Artikel 103a1  | Het door de minister toegekende nummer van de school  |
+| 2  | Adres  | --- | Artikel 103a1  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
+| 3  | Postcode  | --- | Artikel 103a1  | De postcode behorende bij het adres  |
+| 4  | Plaats  | --- | Artikel 103a1  | Naam van de woonplaats, behorende bij de straat en postcode  |
+| 5  | Ingangsdatum  | JJJJMMDD (N8)  | Artikel 103a1  | Datum waarop de mutatie ingaat of zal ingaan  |
 
 1.1.5 School: overige communicatiegegevens (niet verplicht) 
 
-| nr  | veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 1  | Organisatienummer school  | 2 cijfers, 2 letters (A4)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister toegekende nummer van de school  |
-| 2  | Telefoonnummer  | (N10)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het telefoonnummer waaronder de school bereikbaar is  |
-| 3  | Fax  | (N10)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het faxnummer waaronder de school bereikbaar is  |
-| 4  | e-mail adres  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het adres waaronder de school via het internet per elektronische post bereikbaar is  |
-| 5  | Internetadres  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | URL waar de school op internet te vinden is  |
-| 6  | Ingangsdatum  | JJJJMMDD (N8)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Datum waarop de mutatie ingaat of zal ingaan  |
+| 1  | Organisatienummer school  | 2 cijfers, 2 letters (A4)  | Artikel 103a1  | Het door de minister toegekende nummer van de school  |
+| 2  | Telefoonnummer  | (N10)  | Artikel 103a1  | Het telefoonnummer waaronder de school bereikbaar is  |
+| 3  | Fax  | (N10)  | Artikel 103a1  | Het faxnummer waaronder de school bereikbaar is  |
+| 4  | e-mail adres  | --- | Artikel 103a1  | Het adres waaronder de school via het internet per elektronische post bereikbaar is  |
+| 5  | Internetadres  | --- | Artikel 103a1  | URL waar de school op internet te vinden is  |
+| 6  | Ingangsdatum  | JJJJMMDD (N8)  | Artikel 103a1  | Datum waarop de mutatie ingaat of zal ingaan  |
 
 1.1.6 Vestiging: correspondentieadres 
 
-| nr  | veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 1  | Organisatienummer vestiging  | 2 cijfers, 2 letters, 2 cijfers (A6)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister toegekende nummer van de vestiging  |
-| 2  | Adres  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
-| 3  | Postcode  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De postcode behorende bij het adres  |
-| 4  | Plaats  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Naam van de woonplaats, behorende bij de straat en postcode  |
-| 5  | Ingangsdatum  | JJJJMMDD (N8)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Datum waarop de mutatie ingaat of zal ingaan  |
+| 1  | Organisatienummer vestiging  | 2 cijfers, 2 letters, 2 cijfers (A6)  | Artikel 103a1  | Het door de minister toegekende nummer van de vestiging  |
+| 2  | Adres  | --- | Artikel 103a1  | De straatnaam, gevolgd door huisnummer en eventueel huisnummertoevoeging  |
+| 3  | Postcode  | --- | Artikel 103a1  | De postcode behorende bij het adres  |
+| 4  | Plaats  | --- | Artikel 103a1  | Naam van de woonplaats, behorende bij de straat en postcode  |
+| 5  | Ingangsdatum  | JJJJMMDD (N8)  | Artikel 103a1  | Datum waarop de mutatie ingaat of zal ingaan  |
 
 1.1.7 Vestiging: overige communicatiegegevens (niet verplicht) 
 
-| nr  | veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 1  | Organisatienummer vestiging  | 2 cijfers, 2 letters, 2 cijfers (A6)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister gehanteerde nummer van de vestiging  |
-| 2  | Telefoonnummer  | (N10)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het telefoonnummer waaronder de school bereikbaar is  |
-| 3  | Fax  | (N10)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het faxnummer waaronder de school bereikbaar is  |
-| 4  | e-mail adres  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het adres waaronder de school via het internet per elektronische post bereikbaar is  |
-| 5  | Internetadres  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | URL waar de school op internet te vinden is  |
-| 6  | Ingangsdatum  | JJJJMMDD (N8)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Datum waarop de mutatie ingaat of zal ingaan  |
+| 1  | Organisatienummer vestiging  | 2 cijfers, 2 letters, 2 cijfers (A6)  | Artikel 103a1  | Het door de minister gehanteerde nummer van de vestiging  |
+| 2  | Telefoonnummer  | (N10)  | Artikel 103a1  | Het telefoonnummer waaronder de school bereikbaar is  |
+| 3  | Fax  | (N10)  | Artikel 103a1  | Het faxnummer waaronder de school bereikbaar is  |
+| 4  | e-mail adres  | --- | Artikel 103a1  | Het adres waaronder de school via het internet per elektronische post bereikbaar is  |
+| 5  | Internetadres  | --- | Artikel 103a1  | URL waar de school op internet te vinden is  |
+| 6  | Ingangsdatum  | JJJJMMDD (N8)  | Artikel 103a1  | Datum waarop de mutatie ingaat of zal ingaan  |
 
 ### 2  
 
@@ -233,7 +241,7 @@ Gegevens over personeel worden door DUO verzameld op het niveau van arbeidsrelat
 
 * de perioden van verlof  
 
-* de implementatie van de [wet Werk en inkomen naar arbeidsvermogen](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) (WIA)   Onderscheid wordt gemaakt tussen: 
+* de implementatie van de wet Werk en inkomen naar arbeidsvermogen (WIA)   Onderscheid wordt gemaakt tussen: 
 
 * gegevens te leveren op het niveau van de arbeidsrelaties van een individuele persoon  
 
@@ -255,55 +263,55 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 
 2.1.1 Onderdeel Persoon 
 
-| nr  | veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 1  | personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met 'code salarisadministratie') binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
-| 2  | code salarisadministratie  | 1 cijfer (N1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. De codes zijn:  |
+| 1  | personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | Artikel 103a en 103a1  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met 'code salarisadministratie') binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
+| 2  | code salarisadministratie  | 1 cijfer (N1)  | Artikel 103a en 103a1  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. De codes zijn:  |
 | --- | --- | --- | --- | 1 ADP  |
 | --- | --- | --- | --- | 2 Caso  |
 | --- | --- | --- | --- | 3 Centric  |
 | --- | --- | --- | --- | 4 Merces  |
 | --- | --- | --- | --- | 5 Raet  |
 | --- | --- | --- | --- | 6 Overig  |
-| 3  | peilmaand  | JJJJMM (N6)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
-| 4  | extractiedatum  | JJJJMMDD (N8)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
-| 5  | geslacht  | 1 letter (A1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De sekse van het personeelslid, zoals vastgelegd bij de burgerlijke stand: een aanduiding die aangeeft dat de ingeschrevene een man of een vrouw is, of dat het geslacht (nog) onbekend is. De codes zijn:  |
+| 3  | peilmaand  | JJJJMM (N6)  | Artikel 103a en 103a1  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
+| 4  | extractiedatum  | JJJJMMDD (N8)  | Artikel 103a en 103a1  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
+| 5  | geslacht  | 1 letter (A1)  | Artikel 103a en 103a1  | De sekse van het personeelslid, zoals vastgelegd bij de burgerlijke stand: een aanduiding die aangeeft dat de ingeschrevene een man of een vrouw is, of dat het geslacht (nog) onbekend is. De codes zijn:  |
 | --- | --- | --- | --- | M Man  |
 | --- | --- | --- | --- | V Vrouw  |
 | --- | --- | --- | --- | O Onbekend  |
-| 6  | geboortedatum  | JJJJMMDD (N8)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De datum waarop het personeelslid is geboren  |
-| 93  | Bevoegdheid  | Code (N2)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Code voor behaalde of verkregen bevoegdheid van een persoon voor het geven van les in een bepaald vak, incl. opleiding(en) en het jaartal van het behalen van de bevoegdheid.  |
-| 94  | Leseenheden per graadsector en per vak  | 1 cijfer, 1 letter, 3 cijfers, 2 cijfers, 2 cijfers (N1, A1 + N3, N2 +N2)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het aantal leseenheden per graadsector per vak dat in een nader te bepalen week door een persoon gegeven is. Opbouw van het formaat is: graadsector (N1), vakcode (A1 + N3), leseenheden en lesduur (N2 + N2).  |
+| 6  | geboortedatum  | JJJJMMDD (N8)  | Artikel 103a en 103a1  | De datum waarop het personeelslid is geboren  |
+| 93  | Bevoegdheid  | Code (N2)  | Artikel 103a en 103a1  | Code voor behaalde of verkregen bevoegdheid van een persoon voor het geven van les in een bepaald vak, incl. opleiding(en) en het jaartal van het behalen van de bevoegdheid.  |
+| 94  | Leseenheden per graadsector en per vak  | 1 cijfer, 1 letter, 3 cijfers, 2 cijfers, 2 cijfers (N1, A1 + N3, N2 +N2)  | Artikel 103a en 103a1  | Het aantal leseenheden per graadsector per vak dat in een nader te bepalen week door een persoon gegeven is. Opbouw van het formaat is: graadsector (N1), vakcode (A1 + N3), leseenheden en lesduur (N2 + N2).  |
 
 2.1.2 Onderdeel Arbeidsrelatie 
 
-| nr  | veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 7  | personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
-| 8  | code salarisadministratie  | 1 cijfer (N1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. De codes zijn:  |
+| 7  | personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | Artikel 103a en 103a1  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
+| 8  | code salarisadministratie  | 1 cijfer (N1)  | Artikel 103a en 103a1  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. De codes zijn:  |
 | --- | --- | --- | --- | 1 ADP  |
 | --- | --- | --- | --- | 2 Caso  |
 | --- | --- | --- | --- | 3 Centric  |
 | --- | --- | --- | --- | 4 Merces  |
 | --- | --- | --- | --- | 5 Raet  |
 | --- | --- | --- | --- | 6 Overig  |
-| 9  | peilmaand  | JJJJMM (N6)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
-| 10  | extractiedatum  | JJJJMMDD (N8)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
-| 11  | bovenschoolse functie  | J/N (A1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De aanduiding per arbeidsrelatie of de functie wordt vervuld ten behoeve van meerdere BRIN nummers  |
-| 12  | organisatienummer bevoegd gezag  | 5 cijfers (N5)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
-| 13  | organisatienummer school  | 2 cijfers, 2 letters (A4)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister toegekende nummer van de school, voor koppeling naar de school van de arbeidsrelatie  |
-| 14  | volgnummer  | (N10)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Volgnummer dat samen met het personeelsnummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
-| 15  | begindatum arbeidsrelatie  | JJJJMMDD (N8)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De begindatum van de arbeidsrelatie  |
-| 16  | Mutatiedatum arbeidsrelatie  | JJJJMMDD (N8)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Datum waarop de verandering is opgetreden in een bestaande arbeidsrelatie. Moet worden gebruikt in het jaarbestand als de verandering niet leidt tot een beëindiging van deze arbeidsrelatie en het begin van een nieuwe.  |
-| 17  | aard arbeidsrelatie  | 1 cijfer (N1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De aanduiding of de aanstelling of benoeming tijdelijk is of van onbepaalde duur. Waarden:  |
+| 9  | peilmaand  | JJJJMM (N6)  | Artikel 103a en 103a1  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
+| 10  | extractiedatum  | JJJJMMDD (N8)  | Artikel 103a en 103a1  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
+| 11  | bovenschoolse functie  | J/N (A1)  | Artikel 103a en 103a1  | De aanduiding per arbeidsrelatie of de functie wordt vervuld ten behoeve van meerdere BRIN nummers  |
+| 12  | organisatienummer bevoegd gezag  | 5 cijfers (N5)  | Artikel 103a en 103a1  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
+| 13  | organisatienummer school  | 2 cijfers, 2 letters (A4)  | Artikel 103a en 103a1  | Het door de minister toegekende nummer van de school, voor koppeling naar de school van de arbeidsrelatie  |
+| 14  | volgnummer  | (N10)  | Artikel 103a en 103a1  | Volgnummer dat samen met het personeelsnummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
+| 15  | begindatum arbeidsrelatie  | JJJJMMDD (N8)  | Artikel 103a en 103a1  | De begindatum van de arbeidsrelatie  |
+| 16  | Mutatiedatum arbeidsrelatie  | JJJJMMDD (N8)  | Artikel 103a en 103a1  | Datum waarop de verandering is opgetreden in een bestaande arbeidsrelatie. Moet worden gebruikt in het jaarbestand als de verandering niet leidt tot een beëindiging van deze arbeidsrelatie en het begin van een nieuwe.  |
+| 17  | aard arbeidsrelatie  | 1 cijfer (N1)  | Artikel 103a en 103a1  | De aanduiding of de aanstelling of benoeming tijdelijk is of van onbepaalde duur. Waarden:  |
 | --- | --- | --- | --- | 1 vast  |
 | --- | --- | --- | --- | 2 tijdelijk  |
 | --- | --- | --- | --- | 3 vervanging  |
 | --- | --- | --- | --- | 4 tewerkstelling zonder aanstelling  |
-| 18  | einddatum arbeidsrelatie  | JJJJMMDD (N8)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De einddatum van de arbeidsrelatie  |
-| 19  | betrekkingsomvang  | getal met 4 decimalen (N8,4)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De omvang van de arbeidsrelatie uitgedrukt in voltijds equivalenten (fte), met een nauwkeurigheid van vier decimalen, waarbij één fte gelijk is aan een normbetrekking  |
-| 20  | BAPO-omvang  | getal met 4 decimalen (N8,4)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het deel van de betrekkingsomvang van de arbeidsrelatie dat bestemd is voor de Bevordering Arbeidsparticipatie Ouderen, uitgedrukt in voltijdsequivalenten (fte) met een nauwkeurigheid van vier decimalen  |
-| 21  | functieschaal  | code van maximaal 4 posities (A4)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Aanduiding van de schaal genoemd in een van de categorieën waarvoor de betrokkene feitelijk is benoemd. De waarden zijn vermeld in bijlage 1 bij het Kaderbesluit rechtspositie VO zoals deze luidde op 30-06-2007 aangevuld met waarden uit de meest recente CAO VO.  |
+| 18  | einddatum arbeidsrelatie  | JJJJMMDD (N8)  | Artikel 103a en 103a1  | De einddatum van de arbeidsrelatie  |
+| 19  | betrekkingsomvang  | getal met 4 decimalen (N8,4)  | Artikel 103a en 103a1  | De omvang van de arbeidsrelatie uitgedrukt in voltijds equivalenten (fte), met een nauwkeurigheid van vier decimalen, waarbij één fte gelijk is aan een normbetrekking  |
+| 20  | BAPO-omvang  | getal met 4 decimalen (N8,4)  | Artikel 103a en 103a1  | Het deel van de betrekkingsomvang van de arbeidsrelatie dat bestemd is voor de Bevordering Arbeidsparticipatie Ouderen, uitgedrukt in voltijdsequivalenten (fte) met een nauwkeurigheid van vier decimalen  |
+| 21  | functieschaal  | code van maximaal 4 posities (A4)  | Artikel 103a en 103a1  | Aanduiding van de schaal genoemd in een van de categorieën waarvoor de betrokkene feitelijk is benoemd. De waarden zijn vermeld in bijlage 1 bij het Kaderbesluit rechtspositie VO zoals deze luidde op 30-06-2007 aangevuld met waarden uit de meest recente CAO VO.  |
 | --- | --- | --- | --- | Waarden kunnen in ieder geval variëren als volgt:  |
 | --- | --- | --- | --- | 01 t/m 18,  |
 | --- | --- | --- | --- | LA, LB, LC, LE  |
@@ -311,8 +319,8 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 | --- | --- | --- | --- | DA, DB, DC, DD  |
 | --- | --- | --- | --- | LIOA, LIOB  |
 | --- | --- | --- | --- | ID1, ID2, ID3  |
-| 22  | brutosalaris bij normbetrekking  | bedrag in € met 2 decimalen (N12,2)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het persoonlijke salarisbedrag dat geldt bij een betrekkingsomvang van 1 fte (de omvang van een normbetrekking) zoals vermeld in de CAO VO en berekend op basis van de feitelijke betrekkingsomvang en de aanstellingsperiode in de peilmaand  |
-| 23  | salarisschaal  | code van 2 posities (A4)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De *persoonlijke* salarisschaal (functie- of garantieschaal). Is in combinatie met het salarisnummer de grondslag voor de vaststelling van het brutosalaris bij normbetrekking.  |
+| 22  | brutosalaris bij normbetrekking  | bedrag in € met 2 decimalen (N12,2)  | Artikel 103a en 103a1  | Het persoonlijke salarisbedrag dat geldt bij een betrekkingsomvang van 1 fte (de omvang van een normbetrekking) zoals vermeld in de CAO VO en berekend op basis van de feitelijke betrekkingsomvang en de aanstellingsperiode in de peilmaand  |
+| 23  | salarisschaal  | code van 2 posities (A4)  | Artikel 103a en 103a1  | De *persoonlijke* salarisschaal (functie- of garantieschaal). Is in combinatie met het salarisnummer de grondslag voor de vaststelling van het brutosalaris bij normbetrekking.  |
 | --- | --- | --- | --- | De waarden zijn vermeld in bijlage 1 bij het Kaderbesluit rechtspositie VO zoals deze luidde op 30-06-2007 aangevuld met waarden uit de meest recente CAO VO.  |
 | --- | --- | --- | --- | Waarden kunnen in ieder geval variëren als volgt:  |
 | --- | --- | --- | --- | 01 t/m 18,  |
@@ -321,57 +329,57 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 | --- | --- | --- | --- | DA, DB, DC, DD  |
 | --- | --- | --- | --- | LIOA, LIOB  |
 | --- | --- | --- | --- | ID1, ID2, ID3  |
-| 24  | salarisnummer  | nummer van 2 posities (N2)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het salarisnummer behorende bij de persoonlijke salarisschaal, zoals vermeld in het kaderbesluit rechtspositie VO. Is in combinatie met de salarisschaal de grondslag voor de berekening van het brutoloon. Waarden: 01 t/m 20  |
-| 25  | eindenummer  | nummer van 2 posities (N2)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het nummer van de salarisschaal dat *maximaal* bereikt kan worden bij de betrokken school  |
-| 26  | functiecategorie  | code (N2)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De toedeling van de functie in een van de in paragraaf 2.3 onderscheiden categorieën  |
-| 90  | vervanger  | J/N (A1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De aanduiding per arbeidsrelatie of de functie wordt vervuld ter vervanging van een ander personeelslid bij ziekte of ander verzuim  |
-| 92  | gesubsidieerde baan  | J/N (A1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De aanduiding per arbeidsrelatie of voor de vervulling van de functie een loonkostensubsidie wordt ontvangen of dat de functie is gecreëerd in het kader van een regeling om langdurig werklozen of andere kansarmen op de arbeidsmarkt aan betaalde arbeid te helpen  |
-| 28  | financieringsbron  | 1 cijfer (N1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De aanduiding ten laste van welke financieringsbron de kosten van de arbeidsrelatie worden gebracht. Codes zijn:  |
+| 24  | salarisnummer  | nummer van 2 posities (N2)  | Artikel 103a en 103a1  | Het salarisnummer behorende bij de persoonlijke salarisschaal, zoals vermeld in het kaderbesluit rechtspositie VO. Is in combinatie met de salarisschaal de grondslag voor de berekening van het brutoloon. Waarden: 01 t/m 20  |
+| 25  | eindenummer  | nummer van 2 posities (N2)  | Artikel 103a en 103a1  | Het nummer van de salarisschaal dat *maximaal* bereikt kan worden bij de betrokken school  |
+| 26  | functiecategorie  | code (N2)  | Artikel 103a en 103a1  | De toedeling van de functie in een van de in paragraaf 2.3 onderscheiden categorieën  |
+| 90  | vervanger  | J/N (A1)  | Artikel 103a en 103a1  | De aanduiding per arbeidsrelatie of de functie wordt vervuld ter vervanging van een ander personeelslid bij ziekte of ander verzuim  |
+| 92  | gesubsidieerde baan  | J/N (A1)  | Artikel 103a en 103a1  | De aanduiding per arbeidsrelatie of voor de vervulling van de functie een loonkostensubsidie wordt ontvangen of dat de functie is gecreëerd in het kader van een regeling om langdurig werklozen of andere kansarmen op de arbeidsmarkt aan betaalde arbeid te helpen  |
+| 28  | financieringsbron  | 1 cijfer (N1)  | Artikel 103a en 103a1  | De aanduiding ten laste van welke financieringsbron de kosten van de arbeidsrelatie worden gebracht. Codes zijn:  |
 | --- | --- | --- | --- | 1 regulier budget  |
 | --- | --- | --- | --- | 2 door Risicofonds  |
 | --- | --- | --- | --- | 3 overige middelen  |
 
 2.1.3 Onderdeel Loon, toelagen en kortingen 
 
-| nr  | Veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | Veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 29  | personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
-| 30  | code salarisadministratie  | 1 cijfer (N1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. De codes zijn:  |
+| 29  | personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | Artikel 103a en 103a1  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
+| 30  | code salarisadministratie  | 1 cijfer (N1)  | Artikel 103a en 103a1  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. De codes zijn:  |
 | --- | --- | --- | --- | 1 ADP  |
 | --- | --- | --- | --- | 2 Caso  |
 | --- | --- | --- | --- | 3 Centric  |
 | --- | --- | --- | --- | 4 Merces  |
 | --- | --- | --- | --- | 5 Raet  |
 | --- | --- | --- | --- | 6 Overig  |
-| 31  | organisatienummer bevoegd gezag  | 5 cijfers (N5)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
-| 32  | organisatienummer school  | 2 cijfers, 2 letters (A4)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister toegekende nummer van de school, voor koppeling naar de school van de arbeidsrelatie  |
-| 33  | volgnummer  | (N10)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Volgnummer dat samen met het personeelsnummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
-| 34  | peilmaand  | JJJJMM (N6)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
-| 35  | extractiedatum  | JJJJMMDD (N8)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
-| 36  | loon, toelage of korting  | bedrag in € met 2 decimalen (N12,2)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het bedrag dat als salaris of als toelage bij het salaris is uitgekeerd of als korting op het salaris in mindering is gebracht  |
-| 37  | soort loon, toelage of korting  | getal van 4 cijfers (N5)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De indicatie van het soort loon, toelage of korting zoals in paragraaf 2.3 is gespecificeerd  |
-| 38  | maand waarop betrekking  | JJJJMM (N6)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Jaar en de maand waarop het loon, de toelage of korting betrekking heeft (BRP: boekperiode)  |
+| 31  | organisatienummer bevoegd gezag  | 5 cijfers (N5)  | Artikel 103a en 103a1  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
+| 32  | organisatienummer school  | 2 cijfers, 2 letters (A4)  | Artikel 103a en 103a1  | Het door de minister toegekende nummer van de school, voor koppeling naar de school van de arbeidsrelatie  |
+| 33  | volgnummer  | (N10)  | Artikel 103a en 103a1  | Volgnummer dat samen met het personeelsnummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
+| 34  | peilmaand  | JJJJMM (N6)  | Artikel 103a en 103a1  | Jaar plus de maand in dat jaar waarop de gegevenslevering betrekking heeft  |
+| 35  | extractiedatum  | JJJJMMDD (N8)  | Artikel 103a en 103a1  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
+| 36  | loon, toelage of korting  | bedrag in € met 2 decimalen (N12,2)  | Artikel 103a en 103a1  | Het bedrag dat als salaris of als toelage bij het salaris is uitgekeerd of als korting op het salaris in mindering is gebracht  |
+| 37  | soort loon, toelage of korting  | getal van 4 cijfers (N5)  | Artikel 103a en 103a1  | De indicatie van het soort loon, toelage of korting zoals in paragraaf 2.3 is gespecificeerd  |
+| 38  | maand waarop betrekking  | JJJJMM (N6)  | Artikel 103a en 103a1  | Jaar en de maand waarop het loon, de toelage of korting betrekking heeft (BRP: boekperiode)  |
 
 2.1.4 Onderdeel Verlofgegevens (waaronder ziekteverlof) 
 
-| nr  | Veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | Veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 39  | personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
-| 40  | code salarisadministratie  | 1 cijfer (N1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. De codes zijn:  |
+| 39  | personeelsnummer  | nummer van maximaal 20 cijfers (N20)  | Artikel 103a en 103a1  | Uniek nummer van een persoon binnen een salarisadministratie. Het personeelsnummer dient om een persoon uniek te identificeren (samen met «code salarisadministratie») binnen de totale set van personele gegevens die door dezelfde gegevensleverancier wordt aangeleverd. Bovendien dient het personeelsnummer over de leveringen heen steeds dezelfde persoon te identificeren.  |
+| 40  | code salarisadministratie  | 1 cijfer (N1)  | Artikel 103a en 103a1  | Een code die aanduidt in welke salarisadministratie het personeelsnummer is opgenomen en waaruit de gegevens afkomstig zijn. De codes zijn:  |
 | --- | --- | --- | --- | 1 ADP  |
 | --- | --- | --- | --- | 2 Caso  |
 | --- | --- | --- | --- | 3 Centric  |
 | --- | --- | --- | --- | 4 Merces  |
 | --- | --- | --- | --- | 5 Raet  |
 | --- | --- | --- | --- | 6 Overig  |
-| 41  | organisatienummer bevoegd gezag  | 5 cijfers (N5)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
-| 42  | organisatienummer school  | 2 cijfers, 2 letters (A4)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister toegekende nummer van de school, voor koppeling naar de school van de arbeidsrelatie  |
-| 43  | volgnummer  | (N10)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Volgnummer dat samen met het personeelsnummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
-| 44  | extractiedatum  | JJJJMMDD (N8)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
-| 45  | begindatum verlof  | JJJJMMDD (N8)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De begindatum van de verlofperiode  |
-| 46  | einddatum verlof  | JJJJMMDD (N8)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De einddatum van de verlofperiode  |
-| 47  | omvang verlof  | getal met 2 decimalen (N6,2)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De omvang van het verlof gedurende de verlofperiode, uitgedrukt in voltijds equivalenten (fte) met een nauwkeurigheid van 2 decimalen  |
-| 48  | soort verlof  | getal van 2 cijfers (N2)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De aanduiding van de reden of doel van het verzuim of verlof. Waarden:  |
+| 41  | organisatienummer bevoegd gezag  | 5 cijfers (N5)  | Artikel 103a en 103a1  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
+| 42  | organisatienummer school  | 2 cijfers, 2 letters (A4)  | Artikel 103a en 103a1  | Het door de minister toegekende nummer van de school, voor koppeling naar de school van de arbeidsrelatie  |
+| 43  | volgnummer  | (N10)  | Artikel 103a en 103a1  | Volgnummer dat samen met het personeelsnummer, de code salarisadministratie en school de arbeidsrelatie uniek identificeert  |
+| 44  | extractiedatum  | JJJJMMDD (N8)  | Artikel 103a en 103a1  | Datum waarop de gegevens uit een database van de leverancier zijn gehaald  |
+| 45  | begindatum verlof  | JJJJMMDD (N8)  | Artikel 103a en 103a1  | De begindatum van de verlofperiode  |
+| 46  | einddatum verlof  | JJJJMMDD (N8)  | Artikel 103a en 103a1  | De einddatum van de verlofperiode  |
+| 47  | omvang verlof  | getal met 2 decimalen (N6,2)  | Artikel 103a en 103a1  | De omvang van het verlof gedurende de verlofperiode, uitgedrukt in voltijds equivalenten (fte) met een nauwkeurigheid van 2 decimalen  |
+| 48  | soort verlof  | getal van 2 cijfers (N2)  | Artikel 103a en 103a1  | De aanduiding van de reden of doel van het verzuim of verlof. Waarden:  |
 | --- | --- | --- | --- | 01 vakantie- en snipperdagen  |
 | --- | --- | --- | --- | 02 onbetaald ouderschapsverlof  |
 | --- | --- | --- | --- | 03 betaald ouderschapsverlof  |
@@ -380,15 +388,15 @@ Elk bevoegd gezag dient gegevens te leveren over het (gedeeltelijk) arbeidsonges
 
 2.1.5 Onderdeel WIA 
 
-| nr  | veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 61  | organisatienummer bevoegd gezag  | bevoegd gezagnummer (N5)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
-| 62  | peiljaar  | Jaar (N4)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Kalenderjaar waarop de gegevens over de [WIA](../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) betrekking hebben  |
-| 63  | aantal personen 1 tot 35% arbeidsongeschikt  | getal van 5 posities (N5)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het aantal personen dat in de loop van een kalenderjaar minder dan 35% arbeidsongeschikt is verklaard  |
-| 64  | behoud 35min  | getal van 5 posities (N5)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het aantal personen dat in de loop van een kalenderjaar minder dan 35% arbeidsongeschikt is verklaard en dat bij het bevoegd gezag in dienst is gebleven in de oude functie of in een andere functie  |
-| 65  | uitplaatsing 35min  | getal van 5 posities (N5)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het aantal personen dat in de loop van een kalenderjaar minder dan 35% arbeidsongeschikt is verklaard en dat bij een andere werkgever in dienst is getreden  |
-| 66  | instroom WGA  | getal van 5 posities (N5)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het aantal personen aan wie in de loop van een kalenderjaar voor het eerst een uitkering op grond van de WGA is toegekend  |
-| 67  | behoud WGA  | getal van 5 posities (N5)  | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het aantal personen aan wie in de loop van een kalenderjaar voor het eerst een uitkering op grond van de WGA is toegekend en dat bij het bevoegd gezag in dienst is gebleven in de oude functie of in een andere functie  |
+| 61  | organisatienummer bevoegd gezag  | bevoegd gezagnummer (N5)  | Artikel 103a1  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
+| 62  | peiljaar  | Jaar (N4)  | Artikel 103a1  | Kalenderjaar waarop de gegevens over de WIA betrekking hebben  |
+| 63  | aantal personen 1 tot 35% arbeidsongeschikt  | getal van 5 posities (N5)  | Artikel 103a1  | Het aantal personen dat in de loop van een kalenderjaar minder dan 35% arbeidsongeschikt is verklaard  |
+| 64  | behoud 35min  | getal van 5 posities (N5)  | Artikel 103a1  | Het aantal personen dat in de loop van een kalenderjaar minder dan 35% arbeidsongeschikt is verklaard en dat bij het bevoegd gezag in dienst is gebleven in de oude functie of in een andere functie  |
+| 65  | uitplaatsing 35min  | getal van 5 posities (N5)  | Artikel 103a1  | Het aantal personen dat in de loop van een kalenderjaar minder dan 35% arbeidsongeschikt is verklaard en dat bij een andere werkgever in dienst is getreden  |
+| 66  | instroom WGA  | getal van 5 posities (N5)  | Artikel 103a1  | Het aantal personen aan wie in de loop van een kalenderjaar voor het eerst een uitkering op grond van de WGA is toegekend  |
+| 67  | behoud WGA  | getal van 5 posities (N5)  | Artikel 103a1  | Het aantal personen aan wie in de loop van een kalenderjaar voor het eerst een uitkering op grond van de WGA is toegekend en dat bij het bevoegd gezag in dienst is gebleven in de oude functie of in een andere functie  |
 
 ### 2.2  
 
@@ -410,13 +418,13 @@ Over de sectoren heen dienen begrippen zoveel mogelijk op dezelfde wijze geïnte
 
 * *begin- en einddatum* Als begindatum wordt geleverd de eerste kalenderdag waarop de situatie van de regel van toepassing is. Als einddatum wordt geleverd de laatste kalenderdag waarop de situatie van de regel van toepassing is.  
 
-* *bevoegdheid* Bevoegdheid wordt bepaald op basis van de criteria zoals genoemd in de wet ([WPO](../../../../../wet/wbo/BWBR0003420/README.md), [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [WEB](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [Wet BIO](../../../../../wet/wet/op/de/beroepen/in/het/onderwijs/BWBR0016944/README.md)). In relatie tot de bevoegdheid tot lesgeven worden in elk ieder geval de volgende categorieën onderwijsgevend personeel onderscheiden: 
+* *bevoegdheid* Bevoegdheid wordt bepaald op basis van de criteria zoals genoemd in de wet (WPO, WVO, WEB, Wet BIO). In relatie tot de bevoegdheid tot lesgeven worden in elk ieder geval de volgende categorieën onderwijsgevend personeel onderscheiden: 
 
 1. volledig bevoegd  
 
 2. benoembaar  
 
-3. onbevoegd of benoembaar onder [artikel 33 derde lid van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)<sup> 2 Of het corresponderende artikel 4.2.1, vijfde lid van de WEB. </sup>.   In het streven de administratieve lasten voor de bevoegde gezagsorganen zoveel mogelijk te beperken, benut OCW bij de Integrale Personeelstelling Onderwijs (kortweg IPTO) mogelijkheden om gegevens direct uit bestaande (basis)registraties te halen. Zodoende wordt bijvoorbeeld het Centraal Register Inschrijvingen Hoger onderwijs (CRIHO) benut voor de bepaling van bevoegdheden.  
+3. onbevoegd of benoembaar onder artikel 33 derde lid van de WVO<sup> 2 Of het corresponderende artikel 4.2.1, vijfde lid van de WEB. </sup>.   In het streven de administratieve lasten voor de bevoegde gezagsorganen zoveel mogelijk te beperken, benut OCW bij de Integrale Personeelstelling Onderwijs (kortweg IPTO) mogelijkheden om gegevens direct uit bestaande (basis)registraties te halen. Zodoende wordt bijvoorbeeld het Centraal Register Inschrijvingen Hoger onderwijs (CRIHO) benut voor de bepaling van bevoegdheden.  
 
 * *leseenheden per graadsector en per vak*  In het streven de administratieve lasten voor de bevoegde gezagsorganen te beperken wordt informatie over gegeven vakken zoveel mogelijk verzameld uit elektronische roosterpakketten.  
 
@@ -549,65 +557,65 @@ In het overzicht dat bij dit onderdeel staat vermeld, wordt een groot aantal zak
 
 Onderdeel Geïndiceerde leerlingen WPO en WVO 
 
-| nr  | veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 1  | Organisatienummer school  | 2 cijfers, 2 letters (A4)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister toegekende nummer van de school  |
-| 20  | Vestigingsnummer  | 2 cijfers, 2 letters (A6)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister toegekende nummer van de vestiging  |
-| 2  | Naam contactpersoon  | naam (A40)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Naam van de contactpersoon op de school  |
-| 3  | Telefoonnummer  | telefoonnummer (N10)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Telefoonnummer van de contactpersoon  |
-| 21  | E-mail adres  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het adres waaronder de school via het internet per elektronische post bereikbaar is  |
-| 4  | Datum inschrijving  | JJJJMMDD (N8)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Datum sinds wanneer de leerling het onderwijs aan de school volgt.  |
-| 5  | Schoolsoort  | Schoolsoort  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Schoolsoort waar de leerling onderwijs volgt  |
-| 6  | Schoolsoort VO  | schoolsoort VO  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Schoolsoort binnen VO waar de leerling onderwijs volgt  |
-| 7  | Groep  | groep (N1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Groep in het basisonderwijs waar de leerling onderwijs volgt  |
-| 8  | Leerjaar  | leerjaar (N1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Leerjaar in het voortgezet onderwijs waar de leerling onderwijs volgt  |
-| 9  | CvI-nummer  | nummer (A11)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Nummer van de leerling toegekend door de Commissie van Indicatiestelling  |
-| 10  | Datum indicatiestelling  | JJJJMMDD (N8)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Datum van indicatiestelling  |
-| 11  | Herindicatie  | J/N (A1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Aanduiding of er sprake is van herindicatie  |
-| 12  | Vorig CvI-nummer  | Nummer (A11)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Vorig nummer van de leerling toegekend door de Commissie van Indicatiestelling  |
-| 13  | Type indicatiestelling  | J/N (A1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Groep waartoe de leerling volgens de Commissie van Indicatiestelling toe behoort  |
-| 14  | Down  | J/N (A1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Sprake van Syndroom van Down (bij ZMLK-leerlingen)  |
-| 15  | Organisatienummer school voor ambulante begeleiding  | brinnummer (A4)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister toegekende nummer van de school  |
-| 16  | Verandering van school  | J/N (A1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Aanduiding of leerling van school is veranderd sinds de huidige, nog geldende indicatiestelling  |
-| 17  | Organisatienummer vorige school  | brinnummer (A4)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister toegekende nummer van de school  |
-| 18  | Datum eerste schooldag  | J/N (A1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Aanduiding of de datum van inschrijving gelijk is aan de eerste schooldag in de regio  |
-| 19  | Organisatienummer bevoegd gezag  | bevoegd gezagnummer (N5)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
+| 1  | Organisatienummer school  | 2 cijfers, 2 letters (A4)  | Artikel 103a en 103a1  | Het door de minister toegekende nummer van de school  |
+| 20  | Vestigingsnummer  | 2 cijfers, 2 letters (A6)  | Artikel 103a en 103a1  | Het door de minister toegekende nummer van de vestiging  |
+| 2  | Naam contactpersoon  | naam (A40)  | Artikel 103a en 103a1  | Naam van de contactpersoon op de school  |
+| 3  | Telefoonnummer  | telefoonnummer (N10)  | Artikel 103a en 103a1  | Telefoonnummer van de contactpersoon  |
+| 21  | E-mail adres  | --- | Artikel 103a1  | Het adres waaronder de school via het internet per elektronische post bereikbaar is  |
+| 4  | Datum inschrijving  | JJJJMMDD (N8)  | Artikel 103a en 103a1  | Datum sinds wanneer de leerling het onderwijs aan de school volgt.  |
+| 5  | Schoolsoort  | Schoolsoort  | Artikel 103a en 103a1  | Schoolsoort waar de leerling onderwijs volgt  |
+| 6  | Schoolsoort VO  | schoolsoort VO  | Artikel 103a en 103a1  | Schoolsoort binnen VO waar de leerling onderwijs volgt  |
+| 7  | Groep  | groep (N1)  | Artikel 103a en 103a1  | Groep in het basisonderwijs waar de leerling onderwijs volgt  |
+| 8  | Leerjaar  | leerjaar (N1)  | Artikel 103a en 103a1  | Leerjaar in het voortgezet onderwijs waar de leerling onderwijs volgt  |
+| 9  | CvI-nummer  | nummer (A11)  | Artikel 103a en 103a1  | Nummer van de leerling toegekend door de Commissie van Indicatiestelling  |
+| 10  | Datum indicatiestelling  | JJJJMMDD (N8)  | Artikel 103a en 103a1  | Datum van indicatiestelling  |
+| 11  | Herindicatie  | J/N (A1)  | Artikel 103a en 103a1  | Aanduiding of er sprake is van herindicatie  |
+| 12  | Vorig CvI-nummer  | Nummer (A11)  | Artikel 103a en 103a1  | Vorig nummer van de leerling toegekend door de Commissie van Indicatiestelling  |
+| 13  | Type indicatiestelling  | J/N (A1)  | Artikel 103a en 103a1  | Groep waartoe de leerling volgens de Commissie van Indicatiestelling toe behoort  |
+| 14  | Down  | J/N (A1)  | Artikel 103a en 103a1  | Sprake van Syndroom van Down (bij ZMLK-leerlingen)  |
+| 15  | Organisatienummer school voor ambulante begeleiding  | brinnummer (A4)  | Artikel 103a en 103a1  | Het door de minister toegekende nummer van de school  |
+| 16  | Verandering van school  | J/N (A1)  | Artikel 103a en 103a1  | Aanduiding of leerling van school is veranderd sinds de huidige, nog geldende indicatiestelling  |
+| 17  | Organisatienummer vorige school  | brinnummer (A4)  | Artikel 103a en 103a1  | Het door de minister toegekende nummer van de school  |
+| 18  | Datum eerste schooldag  | J/N (A1)  | Artikel 103a en 103a1  | Aanduiding of de datum van inschrijving gelijk is aan de eerste schooldag in de regio  |
+| 19  | Organisatienummer bevoegd gezag  | bevoegd gezagnummer (N5)  | Artikel 103a en 103a1  | Het door de minister gehanteerde nummer van het bevoegd gezag  |
 
 Onderdeel Visueel gehandicapte leerlingen VO 
 
-| nr  | veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 1  | Organisatienummer school  | 2 cijfers, 2 letters (A4)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister toegekende nummer van de school  |
-| 2  | Schoolsoort  | schoolsoort  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Schoolsoort binnen het VO of praktijkonderwijs waar de leerling onderwijs volgt  |
-| 3  | Naam contactpersoon  | naam (A40)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Naam van de contactpersoon op de school  |
-| 4  | Telefoonnummer  | telefoonnummer (N10)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Telefoonnummer van de contactpersoon  |
-| 7  | E-mail adres  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het adres waaronder de school via het internet per elektronische post bereikbaar is  |
-| 6  | Aantal leerlingen  | aantal (N2)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het aantal visueel gehandicapte leerlingen dat onderwijs volgt  |
+| 1  | Organisatienummer school  | 2 cijfers, 2 letters (A4)  | Artikel 103a en 103a1  | Het door de minister toegekende nummer van de school  |
+| 2  | Schoolsoort  | schoolsoort  | Artikel 103a en 103a1  | Schoolsoort binnen het VO of praktijkonderwijs waar de leerling onderwijs volgt  |
+| 3  | Naam contactpersoon  | naam (A40)  | Artikel 103a en 103a1  | Naam van de contactpersoon op de school  |
+| 4  | Telefoonnummer  | telefoonnummer (N10)  | Artikel 103a en 103a1  | Telefoonnummer van de contactpersoon  |
+| 7  | E-mail adres  | --- | Artikel 103a1  | Het adres waaronder de school via het internet per elektronische post bereikbaar is  |
+| 6  | Aantal leerlingen  | aantal (N2)  | Artikel 103a en 103a1  | Het aantal visueel gehandicapte leerlingen dat onderwijs volgt  |
 
 Onderdeel Eerste opvang vreemdelingen in het VO 
 
-| nr  | veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 1  | Organisatienummer school  | 2 cijfers, 2 letters (A4)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister toegekende nummer van de school  |
-| 3  | Naam contactpersoon  | Naam (A60)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Naam van de contactpersoon op de school  |
-| 4  | Telefoonnummer  | telefoonnummer (N10)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Telefoonnummer van de contactpersoon  |
-| 8  | E-mail adres  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het adres waaronder de school via het internet per elektronische post bereikbaar is  |
-| 5  | Peildatum  | JJJJMMDD (N8)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Schoolsoort binnen het VO of praktijkonderwijs waar de leerling onderwijs volgt  |
-| 6  | Aantal vreemdelingen  | aantal (N3)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het aantal leerlingen eerste opvang vremdelingen dat onderwijs volgt  |
-| 7  | Extra aanvullende bekostiging (art. 13)  | J/N (A1)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Extra aanvullende bekostiging op grond van artikel 13 van de regeling  |
+| 1  | Organisatienummer school  | 2 cijfers, 2 letters (A4)  | Artikel 103a en 103a1  | Het door de minister toegekende nummer van de school  |
+| 3  | Naam contactpersoon  | Naam (A60)  | Artikel 103a en 103a1  | Naam van de contactpersoon op de school  |
+| 4  | Telefoonnummer  | telefoonnummer (N10)  | Artikel 103a en 103a1  | Telefoonnummer van de contactpersoon  |
+| 8  | E-mail adres  | --- | Artikel 103a1  | Het adres waaronder de school via het internet per elektronische post bereikbaar is  |
+| 5  | Peildatum  | JJJJMMDD (N8)  | Artikel 103a en 103a1  | Schoolsoort binnen het VO of praktijkonderwijs waar de leerling onderwijs volgt  |
+| 6  | Aantal vreemdelingen  | aantal (N3)  | Artikel 103a en 103a1  | Het aantal leerlingen eerste opvang vremdelingen dat onderwijs volgt  |
+| 7  | Extra aanvullende bekostiging (art. 13)  | J/N (A1)  | Artikel 103a en 103a1  | Extra aanvullende bekostiging op grond van artikel 13 van de regeling  |
 
 Onderdeel Regionaal zorgbudget samenwerkingsverbanden vo 
 
-| nr  | veld  | formaat  | grondslag in [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | definitie/toelichting  |
+| nr  | veld  | formaat  | grondslag in WVO  | definitie/toelichting  |
 |:---|:---|:---|:---|:---|
-| 1  | Organisatienummer samenwerkingsverband  | (A4)  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het door de minister toegekende nummer van het samenwerkingsverband  |
-| 2  | Naam coördinator  | --- | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Naam van de coördinator van het samenwerkingsverband  |
-| 3  | Telefoonnummer coördinator  | --- | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Telefoonnummer van de coördinator van het samenwerkingsverband  |
-| 9  | E-mail adres  | --- | [Artikel 103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Het adres waaronder de school via het internet per elektronische post bereikbaar is  |
-| 4  | Organisatienummer participanten  | 2 cijfers, 2 letters  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | De door de minister toegekende nummers van de scholen die partciperen in het samenwerkingsverband  |
-| 5  | Ongewijzigde samenstelling  | J/N  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Aanduiding dat de samenstelling van het samenwerkingsverband in het voorafgaande schooljaar niet is gewijzigd  |
-| 6  | Toevoeging scholen  | J/N  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Aanduiding dat in het voorafgaande schooljaar participanten aan het samenwerkingsverband zijn toegevoegd  |
-| 7  | Kassierschool  | J/N  | [Artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [103a1](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  | Aanduiding dat de school binnen de samenwerkingsverband ald kassiersschool wordt aangemerkt  |
+| 1  | Organisatienummer samenwerkingsverband  | (A4)  | Artikel 103a en 103a1  | Het door de minister toegekende nummer van het samenwerkingsverband  |
+| 2  | Naam coördinator  | --- | Artikel 103a en 103a1  | Naam van de coördinator van het samenwerkingsverband  |
+| 3  | Telefoonnummer coördinator  | --- | Artikel 103a en 103a1  | Telefoonnummer van de coördinator van het samenwerkingsverband  |
+| 9  | E-mail adres  | --- | Artikel 103a1  | Het adres waaronder de school via het internet per elektronische post bereikbaar is  |
+| 4  | Organisatienummer participanten  | 2 cijfers, 2 letters  | Artikel 103a en 103a1  | De door de minister toegekende nummers van de scholen die partciperen in het samenwerkingsverband  |
+| 5  | Ongewijzigde samenstelling  | J/N  | Artikel 103a en 103a1  | Aanduiding dat de samenstelling van het samenwerkingsverband in het voorafgaande schooljaar niet is gewijzigd  |
+| 6  | Toevoeging scholen  | J/N  | Artikel 103a en 103a1  | Aanduiding dat in het voorafgaande schooljaar participanten aan het samenwerkingsverband zijn toegevoegd  |
+| 7  | Kassierschool  | J/N  | Artikel 103a en 103a1  | Aanduiding dat de school binnen de samenwerkingsverband ald kassiersschool wordt aangemerkt  |
 
 ### Bijlage 2 
 
@@ -615,7 +623,7 @@ Onderdeel Regionaal zorgbudget samenwerkingsverbanden vo
 
 #### Wijze van beschikbaarstelling 
 
-In deze bijlage worden voorschriften gegeven omtrent de wijze van beschikbaarstelling van de gegevens die bevoegde gezagsorganen, krachtens [artikel 103a](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en artikel [103a1 van de WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), verplicht zijn om aan de overheid te leveren. 
+In deze bijlage worden voorschriften gegeven omtrent de wijze van beschikbaarstelling van de gegevens die bevoegde gezagsorganen, krachtens artikel 103a en artikel 103a1 van de WVO, verplicht zijn om aan de overheid te leveren. 
 
 #### *Toelichting* 
 
@@ -627,7 +635,7 @@ Voor het bekostigen van scholen, voor toezicht en voor het maken en evalueren va
 
 *  *Vragenlijsten*  
 
-– geïndiceerde leerlingen voor scholen die vallen onder de [WPO](../../../../../wet/wbo/BWBR0003420/README.md) en [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md)  
+– geïndiceerde leerlingen voor scholen die vallen onder de WPO en WVO  
 
 – regionaal zorgbudget samenwerkingsverbanden VO  
 
@@ -689,7 +697,7 @@ De aanlevering van de gegevens in de genoemde onderdelen geschiedt elektronisch.
 
 ####Periodieke bijstellingen 
 
-De bevoegde gezagsorganen dragen zorg voor de aanlevering van de genoemde personeelgegevens. In het kader van eenmalig bevragen en meervoudig gebruik van gegevens zal de minister zoveel mogelijk gebruik maken van reeds bestaande databestanden. Zodoende worden schoolbesturen administratief ontlast. Daarnaast hebben de besturen de mogelijkheid om gegevensleveringen via salarisadministrateurs en/of administratiekantoren plaats te laten vinden. Geautomatiseerde elektronische aanlevering van gegevens via salarisadministrateurs en/of administratiekantoren is gebruikelijk en scheelt aanzienlijk in de administratieve lasten voor schoolbesturen. Wet- en regelgeving is echter geen statisch geheel. Ook de informatiebehoeften en informatieverzameling zijn niet statisch. Om die reden kunnen wijzigingen voor gaan komen in de gegevensvraag of de wijze van aanlevering. Een toename van administratieve lasten zal worden meegenomen in de overweging om gegevensleveringen aan te passen. Het Besluit informatievoorziening [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) zal daarom periodiek, in het overleg met de sector, worden geëvalueerd en geactualiseerd. 
+De bevoegde gezagsorganen dragen zorg voor de aanlevering van de genoemde personeelgegevens. In het kader van eenmalig bevragen en meervoudig gebruik van gegevens zal de minister zoveel mogelijk gebruik maken van reeds bestaande databestanden. Zodoende worden schoolbesturen administratief ontlast. Daarnaast hebben de besturen de mogelijkheid om gegevensleveringen via salarisadministrateurs en/of administratiekantoren plaats te laten vinden. Geautomatiseerde elektronische aanlevering van gegevens via salarisadministrateurs en/of administratiekantoren is gebruikelijk en scheelt aanzienlijk in de administratieve lasten voor schoolbesturen. Wet- en regelgeving is echter geen statisch geheel. Ook de informatiebehoeften en informatieverzameling zijn niet statisch. Om die reden kunnen wijzigingen voor gaan komen in de gegevensvraag of de wijze van aanlevering. Een toename van administratieve lasten zal worden meegenomen in de overweging om gegevensleveringen aan te passen. Het Besluit informatievoorziening WVO zal daarom periodiek, in het overleg met de sector, worden geëvalueerd en geactualiseerd. 
 
 ### 3  
 
@@ -697,7 +705,7 @@ De bevoegde gezagsorganen dragen zorg voor de aanlevering van de genoemde person
 
 Deze bijlage bevat modellen van de formulieren van regelingen waarvoor een aanvraag moet worden ingediend, te weten: 
 
-#### Aanvraag geïndiceerde leerlingen voor scholen die vallen onder de [WPO](../../../../../wet/wbo/BWBR0003420/README.md) en [WVO](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) 
+#### Aanvraag geïndiceerde leerlingen voor scholen die vallen onder de WPO en WVO 
 
 ![248295](http://wetten.overheid.nl/Illustration/248295)
 ![248296](http://wetten.overheid.nl/Illustration/248296)

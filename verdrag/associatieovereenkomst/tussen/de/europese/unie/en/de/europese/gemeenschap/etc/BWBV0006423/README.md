@@ -1729,7 +1729,7 @@ Indien de bevoegde autoriteiten bij het beheer van de preferentiële uitvoerrege
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Deze overeenkomst belet niet de handhaving of oprichting van douane-unies, andere vrijhandelsruimtes of regelingen betreffende grensverkeer, tenzij hierdoor de in deze overeenkomst neergelegde handelsregelingen worden ondermijnd.   
-2.  De partijen voeren overleg in het Associatiecomité in zijn samenstelling voor handelsvraagstukken, zoals bedoeld in artikel 438, lid 4, van deze overeenkomst, over overeenkomsten waarbij douane-unies of andere vrijhandelsruimtes worden opgericht dan wel regelingen betreffende grensverkeer worden ingevoerd, alsmede desgevraagd over andere belangrijke aangelegenheden met betrekking tot hun respectieve handelsbeleid jegens derde landen. Dergelijk overleg zal in het bijzonder plaatsvinden ingeval een derde land tot de EU toetreedt, opdat wordt gewaarborgd dat rekening wordt gehouden met de wederzijdse belangen van de Unie en de Republiek Moldavië zoals weergegeven in deze overeenkomst.  
+2.  De partijen voeren overleg in het Associatiecomité in zijn samenstelling voor handelsvraagstukken, zoals bedoeld in artikel 438, lid 4, van deze overeenkomst, over overeenkomsten waarbij douane-unies of andere vrijhandelsruimtes worden opgericht dan wel regelingen betreffende grensverkeer worden ingevoerd, alsmede desgevraagd over andere belangrijke aangelegenheden met betrekking tot hun respectieve handelsbeleid jegens derde landen. Dergelijk overleg zal in het bijzonder plaatsvinden ingeval een derde land tot de EU toetreedt, opdat wordt gewaarborgd dat rekening wordt gehouden met de wederzijdse belangen van de Unie en de Republiek Moldavië zoals weergegeven in deze overeenkomst.  
 
 ### HOOFDSTUK  2  
 
@@ -1760,7 +1760,7 @@ Treedt in werking op een nader te bepalen tijdstip
 Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De partij die een vrijwaringsonderzoek opent, stelt de andere partij, indien deze laatste daarbij een aanmerkelijk economisch belang heeft, van die opening in kennis.   
-2.  Onverminderd artikel 158 van deze overeenkomst geeft de partij die een vrijwaringsonderzoek opent en voornemens is vrijwaringsmaatregelen te treffen, op verzoek van de andere partij onmiddellijk ad hoc schriftelijk kennis van alle relevante informatie die tot de opening van het vrijwaringsonderzoek en de instelling van vrijwaringsmaatregelen heeft geleid, alsmede voor zover relevant informatie over de opening van het vrijwaringsonderzoek en over de voorlopige en de definitieve bevindingen van dat onderzoek, en biedt zij de andere partij de mogelijkheid tot het voeren van overleg.   
+2.  Onverminderd artikel 158 van deze overeenkomst geeft de partij die een vrijwaringsonderzoek opent en voornemens is vrijwaringsmaatregelen te treffen, op verzoek van de andere partij onmiddellijk ad hoc schriftelijk kennis van alle relevante informatie die tot de opening van het vrijwaringsonderzoek en de instelling van vrijwaringsmaatregelen heeft geleid, alsmede voor zover relevant informatie over de opening van het vrijwaringsonderzoek en over de voorlopige en de definitieve bevindingen van dat onderzoek, en biedt zij de andere partij de mogelijkheid tot het voeren van overleg.   
 3.  Voor de toepassing van dit artikel wordt een partij geacht aanmerkelijk economisch belang te hebben wanneer zij, uitgedrukt in absoluut volume of waarde, in de drie voorgaande jaren tot de vijf grootste leveranciers van het ingevoerde product behoorde.  
 
 ### Artikel  160  
@@ -1923,7 +1923,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 a. versterken van de samenwerking op regelgevingsgebied door de uitwisseling van gegevens en ervaringen alsmede door wetenschappelijke en technische samenwerking, teneinde de kwaliteit van hun technische voorschriften, normen, markttoezicht, conformiteitsbeoordeling en accreditatie te verbeteren en beter gebruik te maken van de beschikbare middelen op regelgevingsgebied;  
 
-b. bevorderen en aanmoedigen van samenwerking tussen hun respectieve openbare of particuliere organisaties voor metrologie, normalisatie, markttoezicht, conformiteitsbeoordeling en accreditatie;  
+b. bevorderen en aanmoedigen van samenwerking tussen hun respectieve openbare of particuliere organisaties voor metrologie, normalisatie, markttoezicht, conformiteitsbeoordeling en accreditatie;  
 
 c. bevorderen van de ontwikkeling van de kwaliteitsinfrastructuur voor normalisatie, metrologie, accreditatie, conformiteitsbeoordeling en van het systeem voor markttoezicht in de Republiek Moldavië;  
 
@@ -1939,7 +1939,7 @@ f. hun standpunten afstemmen in internationale organisaties voor handel en regel
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De Republiek Moldavië neemt de maatregelen die nodig zijn om geleidelijk te komen tot conformiteit met de technische voorschriften, normen, metrologie, accreditatie, conformiteitsbeoordeling, bijbehorende systemen en het systeem voor markttoezicht van de Unie, en verbindt zich tot naleving van de beginselen en de praktijken die in het toepasselijke acquis van de Unie zijn neergelegd.   
+1.  De Republiek Moldavië neemt de maatregelen die nodig zijn om geleidelijk te komen tot conformiteit met de technische voorschriften, normen, metrologie, accreditatie, conformiteitsbeoordeling, bijbehorende systemen en het systeem voor markttoezicht van de Unie, en verbindt zich tot naleving van de beginselen en de praktijken die in het toepasselijke acquis van de Unie zijn neergelegd.   
 2.  Met het oog op het bereiken van de doelstellingen van lid 1: 
 
 a. neemt de Republiek Moldavië geleidelijk het toepasselijke acquis van de Unie op in haar wetgeving overeenkomstig de bepalingen van bijlage XVI bij deze overeenkomst; en  

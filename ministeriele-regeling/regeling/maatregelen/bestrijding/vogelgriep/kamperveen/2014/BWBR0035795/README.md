@@ -167,9 +167,13 @@ Voor zover ingevolge de artikelen 3 tot en met 11 het vervoer van dieren of prod
 
 a. artsen, ambulancemedewerkers, brandweerlieden, psychosociale hulpverleners en soortgelijke noodhulpverleners, politiemedewerkers en toezichthouders, in de uitoefening van hun functie, en hun vervoermiddelen,  
 
-b. monteurs, loonwerkers, dierenartsen en bedrijfsverzorgers, indien er een acuut gevaar voor de gezondheid van vee of gevogelte aanwezig is en de werkzaamheden van deze personen noodzakelijk zijn om deze situatie op te heffen, en hun vervoermiddelen, en  
+b. monteurs, loonwerkers, dierenartsen en bedrijfsverzorgers, indien er een acuut gevaar voor de gezondheid van vee of gevogelte aanwezig is en de werkzaamheden van deze personen noodzakelijk zijn om deze situatie op te heffen, en hun vervoermiddelen  
 
-c. in noodsituaties: brandstofleveranciers of stikstof (N<sub>2</sub>) leveranciers, en hun vervoermiddelen,   mits zij reinigings- en ontsmettingsmaatregelen hebben genomen in overeenstemming met een goedgekeurd hygiëneprotocol en zij hun bezoek registreren. In een acute noodsituatie geldt geen registratieplicht voor de in onderdeel a genoemde personen.   
+c. dierenartsen, indien hun bezoek plaatsvindt in het kader van een aan hen ingevolge wet- of regelgeving opgedragen verplichting of taak,  
+
+d. medewerkers van vangploegen, en 
+
+e. in noodsituaties: brandstofleveranciers of stikstof (N<sub>2</sub>) leveranciers, en hun vervoermiddelen,   mits zij reinigings- en ontsmettingsmaatregelen hebben genomen in overeenstemming met een goedgekeurd hygiëneprotocol en zij hun bezoek registreren. In een acute noodsituatie geldt geen registratieplicht voor de in onderdeel a genoemde personen.   
 3.  Het in het eerste lid bedoelde verbod is niet van toepassing op personeel, mits het: 
 
 a. reinigings- en ontsmettingsmaatregelen heeft genomen in overeenstemming met een goedgekeurd hygiëneprotocol, en  
@@ -218,11 +222,7 @@ b. ter bestrijding van muskusratten.
 2.  Iedere houder van gevogelte neemt passende maatregelen om zo veel mogelijk te voorkomen dat het door hem gehouden gevogelte in contact komt met gevogelte van andere houders of met in het wild levende dieren, zoals in het wild levende vogels of hun uitwerpselen.   
 3.  Voor een bedrijf met commercieel gehouden pluimvee is een passende maatregel als bedoeld in het tweede lid ten minste het binnen een gebouw brengen en daar houden van het pluimvee.   
 4.  Voor een houder van niet-commercieel gehouden gevogelte behorende tot de hoenderachtigen (Galliformes), roofvogels (Accipitriformes/Falconiformes) en duiven (Columbidae) is een passende maatregel als bedoeld in het tweede lid ten minste het binnen een volière of gebouw brengen en daar houden van het gevogelte.   
-5.  Het derde lid is niet van toepassing op: 
-
-a. gevogelte, behorende tot de eendvogels (Anseriformes), de familie van struisvogels (Struthionidae), van emoes (Dromaiidae) en van nandoes (Rheidae);  
-
-b. gevogelte dat wordt gehouden door een handelaar in vogels of in een dierentuin.    
+5.  Het derde lid is niet van toepassing op gevogelte, behorende tot de eendvogels (Anseriformes) de familie van struisvogels (Struthionidae), van emoes (Dromaiidae) en van nandoes (Rheidae).  
 
 ### Artikel  19  
 

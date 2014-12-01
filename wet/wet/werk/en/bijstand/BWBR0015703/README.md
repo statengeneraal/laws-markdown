@@ -496,7 +496,7 @@ e. kosten van medische handelingen en verrichtingen die gerekend kunnen worden t
 
 1. Geen recht op bijstand bestaat voorzover een beroep kan worden gedaan op een voorliggende voorziening die, gezien haar aard en doel, wordt geacht voor de belanghebbende toereikend en passend te zijn. Het recht op bijstand strekt zich evenmin uit tot kosten die in de voorliggende voorziening als niet noodzakelijk worden aangemerkt.  
 2.  Onder een beroep kunnen doen op een voorliggende voorziening, bedoeld in het eerste lid, wordt niet verstaan de mogelijkheid tot het doen van een verzoek om een voorschot als bedoeld in artikel 22 van de Algemene Ouderdomswet.   
-3.  Dit lid, het tweede lid alsmede de aanduiding «1.» voor het eerste lid vervallen met ingang van 1 juli 2017. 
+3.  Dit lid, het tweede lid alsmede de aanduiding «1.» voor het eerste lid vervallen op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  16  
 
@@ -795,7 +795,7 @@ c. ten laste van de belanghebbende komende verplichte bijdragen ingevolge een pe
 
 d. andere ten laste van de belanghebbende komende verplichte inhoudingen.     
 4.  Onder het redelijkerwijs kunnen beschikken over vermogens- en inkomensbestanddelen, bedoeld in het eerste lid, wordt niet verstaan de mogelijkheid om een voorschot te vragen op het ouderdomspensioen op grond van artikel 22, eerste lid, van de Algemene Ouderdomswet.   
-5.  Dit lid en het vierde lid vervallen, onder vernummering van het zesde en zevende lid tot vierde en vijfde lid, met ingang van 1 juli 2017.  
+5.  Dit lid en het vierde lid vervallen, onder vernummering van het zesde en zevende lid tot vierde en vijfde lid, op een bij koninklijk besluit te bepalen tijdstip.  
 6.  Bij ministeriële regeling worden regels gesteld met betrekking tot het in aanmerking nemen van de aanspraak op vakantietoeslag over een inkomen.   
 7.  Het tweede lid, onderdelen c, j, k, n en r, zijn niet van toepassing op de persoon die jonger is dan 27 jaar. 
 

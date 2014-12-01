@@ -47,7 +47,7 @@ e. bij ernstige tekortkomingen in de uitvoering van een onderzoek, de stuurgroep
 
 a. een voorzitter, tevens lid,  
 
-b. zes leden met een staat van dienst in wetenschappelijk onderzoek.     
+b. vier leden met een staat van dienst in wetenschappelijk onderzoek.     
 2.  De leden worden benoemd en ontslagen door de Minister van Onderwijs, Cultuur en Wetenschap in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie en Minister van Financiën.  
 
 ### Artikel  4  
@@ -63,19 +63,15 @@ b. zes leden met een staat van dienst in wetenschappelijk onderzoek.
 
 1.  Tot leden van de commissie worden benoemd: 
 
-a. de heer A. H. Borghans, tevens voorzitter,  
+a. de heer H. D. Webbink, tevens voorzitter,  
 
-b. de heer H. D. Webbink,  
+b. mevrouw I. F. de Wolf,  
 
-c. mevrouw I. F. de Wolf,  
+c. de heer B. van der Klaauw,  
 
-d. de heer M. W. van der Steeg,  
+d. de heer G.J.M.G. van der Heijden,  
 
-e. de heer B. van der Klaauw,  
-
-f. de heer G.J.M.G. van der Heijden,  
-
-g. de heer J.W. Luyten.     
+e. de heer J.W. Luyten.     
 2.  De benoeming geschiedt voor de duur van de commissie.   
 3.  Indien een tussentijdse vacature ontstaat, vindt een benoeming voor die vacature plaats voor de resterende duur van de zittingsperiode.  
 
@@ -117,20 +113,16 @@ De commissie verstrekt aan elk van de ministers desgevraagd alle gewenste inlich
 
 1.  De voorzitter en de andere leden van de commissie ontvangen een vaste vergoeding per jaar. 
 
-a. De toepasselijke salarisschaal voor de voorzitter is schaal 16, nr. 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De arbeidsduurfactor voor de voorzitter is 176 werkuren per jaar. Voor 2009 geldt dit aantal werkuren voor de periode april tot en met december. Voor de overige jaren voor de periode januari tot en met december. Vanaf 2010 geldt een extra werkduur van 48 werkuren, oftewel 176 uren in totaal;  
+a. De toepasselijke salarisschaal voor het in artikel 5.1 onder a genoemde lid is schaal 15, nr. 10, van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. De arbeidsduurfactor voor dit lid is 128 werkuren per jaar;  
 
-b. De toepasselijke salarisschaal voor het in artikel 5.1 onder b genoemde lid is schaal 15, nr. 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De arbeidsduurfactor voor dit lid is 128 werkuren per jaar. Voor 2009 geldt dit aantal werkuren voor de periode april tot en met december. Voor de overige jaren voor de periode januari tot en met december. Vanaf 2010 geldt een extra werkduur van 48 werkuren, oftewel 176 uren in totaal;  
+b. De toepasselijke salarisschaal voor het in artikel 5.1 onder b genoemde lid is schaal 14, nr. 10, van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. De arbeidsduurfactor voor dit lid is 96 werkuren per jaar;  
 
-c. De toepasselijke salarisschaal voor het in artikel 5.1 onder c genoemde lid is schaal 14, nr. 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De arbeidsduurfactor voor dit lid is 96 werkuren per jaar. Voor 2009 geldt dit aantal werkuren voor de periode april tot en met december. Voor de overige jaren voor de periode januari tot en met december. Vanaf 2010 geldt een extra werkduur van 48 werkuren, oftewel 144 uren in totaal;  
+c. De toepasselijke salarisschaal voor het in artikel 5.1 onder c genoemde lid is schaal 16, nr. 10, van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. De arbeidsduurfactor voor dit lid is 144 werkuren per jaar;  
 
-d. De toepasselijke salarisschaal voor het in artikel 5.1 onder d genoemde lid is schaal 12, nr. 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De arbeidsduurfactor voor dit lid is 96 werkuren per jaar. Voor 2009 geldt dit aantal werkuren voor de periode april tot en met december. Voor de overige jaren voor de periode januari tot en met december. Vanaf 2010 geldt een extra werkduur van 48 werkuren, oftewel 144 uren in totaal;  
+d. De toepasselijke salarisschaal voor het in artikel 5.1 onder d genoemde lid is schaal 15, nr. 10, van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. De arbeidsduurfactor voor dit lid is 144 werkuren per jaar;  
 
-e. De toepasselijke salarisschaal voor het in artikel 5.1 onder e genoemde lid is schaal 16, nr. 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De arbeidsduurfactor voor dit lid is 144 werkuren per jaar;  
-
-f. De toepasselijke salarisschaal voor het in artikel 5.1 onder f genoemde lid is schaal 15, nr. 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De arbeidsduurfactor voor dit lid is 144 werkuren per jaar;  
-
-g. De toepasselijke salarisschaal voor het in artikel 5.1 onder g genoemde lid is schaal 13, nr. 10, van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). De arbeidsduurfactor voor dit lid is 144 werkuren per jaar;     
-2.  De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het [Reisbesluit binnenland](../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en het [Reisbesluit buitenland](../../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md).  
+e. De toepasselijke salarisschaal voor het in artikel 5.1 onder e genoemde lid is schaal 13, nr. 10, van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. De arbeidsduurfactor voor dit lid is 144 werkuren per jaar;     
+2.  De voorzitter en de andere leden van de commissie ontvangen een vergoeding van reis- en verblijfkosten op de voet van het Reisbesluit binnenland en het Reisbesluit buitenland.  
 
 ### Artikel  12  
 

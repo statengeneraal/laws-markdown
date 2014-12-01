@@ -128,7 +128,7 @@ d. de in bijlage 1 bij deze wet opgenomen rechtspersonen of instellingen;
 e. de in bijlage 2 bij deze wet opgenomen verenigingen van onderwijsinstellingen die voor hun leden optreden als werkgeversvertegenwoordiger bij collectieve arbeidsovereenkomsten of als vertegenwoordiger in overleg met de centrale overheid.     
 2.  Op de voordracht van Onze minister in overeenstemming met Onze minister(s) wie het mede aangaat, kan bij algemene maatregel van bestuur de bijlage bij het eerste lid, onderdeel d, in de volgende gevallen worden gewijzigd: 
 
-a. rechtspersonen of instellingen kunnen aan de bijlage worden toegevoegd indien de bekostiging van deze rechtspersonen of instellingen middellijk of rechtstreeks geheel of in aanzienlijke mate uit publieke middelen plaatsvindt of heeft plaatsgevonden of indien deze rechtspersonen of instellingen een wettelijke taak vervullen;  
+a. rechtspersonen of instellingen kunnen aan de bijlage worden toegevoegd indien de bekostiging van deze rechtspersonen of instellingen middellijk of rechtstreeks geheel of in aanzienlijke mate uit publieke middelen plaatsvindt of heeft plaatsgevonden of indien deze rechtspersonen of instellingen een wettelijke taak vervullen of anderszins een publiek belang dienen;  
 
 b. rechtspersonen of instellingen kunnen aan de bijlage worden toegevoegd indien sprake is van gelieerde rechtspersonen;  
 
@@ -171,14 +171,13 @@ c. wegens wijziging van in de bijlage gebruikte aanduidingen of in geval van red
 
 1.  Voor zover partijen een hogere bezoldiging overeenkomen dan bij of krachtens deze wet is toegestaan, bedraagt de bezoldiging van rechtswege het bedrag dat ten hoogste is toegestaan. Betalingen die dat bedrag overschrijden, zijn onverschuldigd betaald.   
 2.  Voor zover partijen een hogere uitkering wegens beëindiging van het dienstverband overeenkomen dan bij of krachtens deze wet is toegestaan, bedraagt de uitkering van rechtswege het bedrag dat ten hoogste is toegestaan. Betalingen die dat bedrag overschrijden, zijn onverschuldigd betaald, tenzij de betaling voortvloeit uit een rechterlijke uitspraak.   
-3.  Een beding in strijd met artikel 2.10, derde lid, of artikel 3.7, derde lid, is nietig. Bezoldigingen die zijn betaald over een periode dat de topfunctionaris zijn opgedragen taken niet meer vervult, zijn onverschuldigd betaald.   
-4.  Voor zover partijen een winstdeling, bonus of andere vorm van variabele beloning overeenkomen, is deze overeenkomst nietig, tenzij die overeenkomst betrekking heeft op uitzonderingen krachtens de algemene maatregel van bestuur, bedoeld in artikel 2.11 of artikel 3.8. De betaling van een winstdeling, bonus of andere vorm van variabele beloning is nietig, tenzij die betaling betrekking heeft op bij of krachtens algemene maatregel van bestuur bepaalde uitzonderingen.   
-5.  Ieder beding tussen partijen houdende kwijtschelding van een onverschuldigde betaling of een schenking die met de onverschuldigde betaling wordt verrekend, is nietig.  
+3.  Voor zover partijen een winstdeling, bonus of andere vorm van variabele beloning overeenkomen, is deze overeenkomst nietig, tenzij die overeenkomst betrekking heeft op uitzonderingen krachtens de algemene maatregel van bestuur, bedoeld in artikel 2.11 of artikel 3.8. De betaling van een winstdeling, bonus of andere vorm van variabele beloning is nietig, tenzij die betaling betrekking heeft op bij of krachtens algemene maatregel van bestuur bepaalde uitzonderingen.   
+4.  Ieder beding tussen partijen houdende kwijtschelding van een onverschuldigde betaling of een schenking die met de onverschuldigde betaling wordt verrekend, is nietig.  
 
 ### Artikel  1.7  
 
-1.  Voor zover zulks niet reeds bij of krachtens wettelijk voorschrift is bepaald, wordt het financieel verslaggevingsdocument onderworpen aan het oordeel van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
-2.  In het financieel verslaggevingsdocument worden onverschuldigde betalingen als bedoeld in artikel 1.6 opgenomen als vorderingen op de betrokken topfunctionaris en altijd afzonderlijk vermeld in de toelichting.  
+1.  Voor zover zulks niet reeds uit een ander wettelijk voorschrift voortvloeit, worden de op grond van deze wet in het financieel verslaggevingsdocument op te nemen gegevens onderworpen aan het oordeel van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
+2.  In het financieel verslaggevingsdocument worden onverschuldigde betalingen als bedoeld in artikel 1.6 opgenomen als vorderingen op de betrokken topfunctionaris of de betrokken gewezen topfunctionaris, en, in de gevallen, bedoeld in de artikelen 2.1, vierde lid, en 3.1, vijfde lid, tevens de natuurlijke persoon of rechtspersoon die de topfunctionaris ter beschikking stelt en altijd afzonderlijk vermeld in de toelichting.  
 
 ### Artikel  1.8  
 
@@ -186,7 +185,19 @@ Ten aanzien van personen over wie Onze Minister zulks besluit, wordt tot de bezo
 
 ### Artikel  1.9  
 
-Onze Minister kan bij ministeriële regeling nadere regels stellen over hetgeen tot de bezoldiging wordt gerekend en over de toerekening van onderdelen van de bezoldiging aan enig kalenderjaar. 
+Onze Minister kan bij ministeriële regeling nadere regels stellen over: 
+
+a. hetgeen tot de bezoldiging wordt gerekend;  
+
+b. de toerekening van onderdelen van de bezoldiging aan enig kalenderjaar;  
+
+c. hetgeen tot de uitkeringen wegens beëindiging van het dienstverband wordt gerekend;  
+
+d. de controle van het financieel verslaggevingsdocument door de accountant op de naleving van deze wet en de daarop berustende bepalingen.  
+
+### Artikel  1.10  
+
+Onze Minister kan, in overeenstemming met Onze Minister wie het aangaat, beleidsregels vaststellen met betrekking tot de uitoefening van een op grond van deze wet of de daarop berustende bepalingen aan Onze Minister wie het aangaat toekomende bevoegdheid. 
 
 ### §  2  
 
@@ -267,7 +278,7 @@ d. maatschappelijke opvattingen over de hoogte.
 
 1.  Partijen komen geen uitkeringen overeen wegens beëindiging van het dienstverband, die gezamenlijk meer bedragen dan de som van de beloning en de voorzieningen ten behoeve van beloningen betaalbaar op termijn over de twaalf maanden voorafgaand aan de beëindiging van het dienstverband, tot ten hoogste € 75 000. In geval van een dienstverband met een kleinere omvang dan het bij de verantwoordelijke gebruikelijk voltijdse dienstverband bedragen de uitkeringen ten hoogste € 75 000, vermenigvuldigd met het aantal uren waarop het dienstverband betrekking heeft en gedeeld door het aantal uren van een voltijds dienstverband.   
 2.  Bij algemene maatregel van bestuur op voordracht van Onze Minister kan het bedrag, genoemd in het eerste lid, worden gewijzigd, indien de loonontwikkeling hiertoe aanleiding geeft.   
-3.  Partijen komen niet overeen het dienstverband op een later tijdstip te beëindigen dan het tijdstip waarop de topfunctionaris de uitoefening van zijn taken beëindigt.  
+3.  Voor de toepassing van deze wet wordt bezoldiging over een periode waarin de topfunctionaris vooruitlopend op de beëindiging van het dienstverband geen taken meer vervult, aangemerkt als uitkering wegens beëindiging van het dienstverband en wordt de datum waarop de topfunctionaris de uitoefening van zijn taken beëindigt aangemerkt als datum waarop het dienstverband beëindigt.  
 
 ### Artikel  2.11  
 
@@ -324,7 +335,7 @@ d. maatschappelijke opvattingen over de hoogte.
 
 1.  Partijen komen geen uitkeringen overeen wegens beëindiging van het dienstverband, die gezamenlijk meer bedragen dan de som van de beloning en de voorzieningen ten behoeve van beloningen betaalbaar op termijn over de twaalf maanden voorafgaand aan de beëindiging van het dienstverband, tot ten hoogste € 75 000. In geval van een dienstverband met een kleinere omvang dan het bij de verantwoordelijke gebruikelijk voltijdse dienstverband bedragen de uitkeringen ten hoogste € 75 000, vermenigvuldigd met het aantal uren waarop het dienstverband betrekking heeft en gedeeld door het aantal uren van een voltijds dienstverband.   
 2.  Bij algemene maatregel van bestuur op voordracht van Onze Minister kan het bedrag, genoemd in het eerste lid, worden gewijzigd, indien de loonontwikkeling hiertoe aanleiding geeft.   
-3.  Partijen komen niet overeen het dienstverband op een later tijdstip te beëindigen dan het tijdstip waarop de topfunctionaris de uitoefening van zijn taken beëindigt.  
+3.  Voor de toepassing van deze wet wordt bezoldiging over een periode waarin de topfunctionaris vooruitlopend op de beëindiging van het dienstverband geen taken meer vervult, aangemerkt als uitkering wegens beëindiging van het dienstverband en wordt de datum waarop de topfunctionaris de uitoefening van zijn taken beëindigt aangemerkt als datum waarop het dienstverband beëindigt.  
 
 ### Artikel  3.8  
 
@@ -364,7 +375,7 @@ d. de duur en omvang van de functievervulling in het boekjaar.
 
 ### Artikel  4.2  
 
-1.  De verantwoordelijke vermeldt in het financieel verslaggevingsdocument van eenieder van wie de bezoldiging van zijn functie of functies de maximale bezoldiging, bedoeld in artikel 2.3, eerste lid, te boven is gegaan, de volgende gegevens: 
+1.  De verantwoordelijke vermeldt in het financieel verslaggevingsdocument van eenieder in dienstbetrekking van wie de bezoldiging niet reeds op grond van artikel 4.1 in het financieel verslaggevingdocument is opgenomen en van wie de bezoldiging van zijn functie of functies de maximale bezoldiging, bedoeld in artikel 2.3, eerste lid, te boven is gegaan, de volgende gegevens: 
 
 a. de beloning;  
 
@@ -375,21 +386,15 @@ c. de voorzieningen ten behoeve van beloningen betaalbaar op termijn;
 d. de functie of functies;  
 
 e. de duur en omvang van het dienstverband in het boekjaar.     
-2.  Het eerste lid is van overeenkomstige toepassing: 
-
-a. in geval van een dienstverband van een kleinere omvang dan het bij de verantwoordelijke gebruikelijk voltijdse dienstverband, en de bezoldiging meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, vermenigvuldigd met het aantal uren waarop het dienstverband betrekking heeft en gedeeld door het aantal uren van een voltijds dienstverband;  
-
-b. in geval van een dienstverband met een kortere duur dan het kalenderjaar, en de bezoldiging meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, vermenigvuldigd met het aantal dagen waarop het dienstverband betrekking heeft en gedeeld door 365;  
-
-c. in geval de functie in een periode van achttien maanden voor meer dan zes maanden wordt vervuld anders dan op grond van een dienstbetrekking en de bezoldiging per kalenderjaar meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, zonodig aangepast overeenkomstig de onderdelen a en b, waarbij in het financieel verslaggevingsdocument in afwijking van het eerste lid, onderdelen a, b en c, de bezoldiging wordt vermeld.     
-3.  De verantwoordelijke vermeldt in het financieel verslaggevingsdocument de in het boekjaar verrichte uitkeringen wegens beëindiging van het dienstverband, alsmede de functie of functies die tijdens het dienstverband zijn bekleed en het jaar waarin het dienstverband is geëindigd van eenieder 
+2.  Het eerste lid is van overeenkomstige toepassing in geval van een dienstbetrekking van een kleinere omvang dan het bij de verantwoordelijke gebruikelijke voltijds dienstverband, en waarbij de bezoldiging meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, vermenigvuldigd met het aantal uren waarop de dienstbetrekking betrekking heeft en gedeeld door het aantal uren van een voltijds dienstverband.   
+3.  De verantwoordelijke vermeldt in het financieel verslaggevingsdocument de in het boekjaar verrichte uitkeringen wegens beëindiging van het dienstverband, alsmede de functie of functies die tijdens het dienstverband zijn bekleed en het jaar waarin het dienstverband is geëindigd van eenieder in dienstbetrekking van wie de bezoldiging niet reeds op grond van artikel 4.1 in het financieel verslaggevingdocument is opgenomen en 
 
 a. wiens gegevens in enig voorafgaand jaar op grond van het eerste lid of op grond van artikel 6, eerste lid, van de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens, zoals dat artikel luidde voorafgaand aan de inwerkingtreding van dit artikel, in het financieel verslaggevingsdocument zijn opgenomen of hadden moeten worden opgenomen, of  
 
-b. van wie het totaal van de uitkeringen wegens beëindiging van het dienstverband meer bedraagt of zal bedragen dan de maximale bezoldiging, bedoeld in artikel 2.3, dat gold in het jaar waarin het dienstverband is geëindigd, indien van toepassing herrekend overeenkomstig het tweede lid, onderdeel a. Het tweede lid, onderdeel c, is van overeenkomstige toepassing.     
+b. van wie het totaal van de uitkeringen wegens beëindiging van het dienstverband meer bedraagt of zal bedragen dan de maximale bezoldiging, bedoeld in artikel 2.3, dat gold in het jaar waarin het dienstverband is geëindigd, indien van toepassing herrekend overeenkomstig het tweede lid.     
 4.  Indien het boekjaar niet overeenkomt met een kalenderjaar, betreft de vermelding, bedoeld in het eerste lid, de bezoldiging, de functie of functies die betrekking hebben op het kalenderjaar direct voorafgaande aan het boekjaar.   
 5.  In de gevallen, bedoeld in het eerste of het derde lid, onderdeel b, motiveert de verantwoordelijke in het financieel verslaggevingsdocument de overschrijding van de maximale bezoldiging, bedoeld in artikel 2.3.   
-6.  De verantwoordelijke vermeldt in het financieel verslaggevingsdocument tevens van hen van wie de bezoldiging, de functie of functies en de duur van het dienstverband vermeld wordt, deze gegevens over het kalenderjaar voorafgaand aan het jaar waarop de verplichting in het eerste en derde lid betrekking heeft.   
+6.  De verantwoordelijke vermeldt in het financieel verslaggevingsdocument tevens van hen van wie de bezoldiging, de functie of functies en de duur van het dienstverband vermeld wordt, deze gegevens over het kalenderjaar voorafgaand aan het jaar waarop de verplichting in het eerste en tweede lid betrekking heeft.   
 7.  De verantwoordelijke zendt langs elektronische weg uiterlijk op 1 juli van het jaar volgend op het boekjaar, de gegevens bedoeld in het eerste, derde, vijfde en zesde lid aan Onze Minister, tenzij Onze Minister wie het aangaat de mogelijkheid tot elektronische verstrekking heeft opengesteld.  
 
 ### §  5  
@@ -403,11 +408,11 @@ b. van wie het totaal van de uitkeringen wegens beëindiging van het dienstverba
 
 ### Artikel  5.2  
 
-1.  De accountant, bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, meldt een onverschuldigde betaling aan Onze Minister, of aan Onze Minister wie het aangaat indien deze de mogelijkheid tot elektronische verstrekking heeft opengesteld, indien een vordering op een topfunctionaris of gewezen topfunctionaris uit onverschuldigde betaling: 
+1.  De accountant, bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek, meldt een onverschuldigde betaling aan Onze Minister, of aan Onze Minister wie het aangaat indien deze de mogelijkheid tot elektronische verstrekking heeft opengesteld, indien een vordering op een topfunctionaris of gewezen topfunctionaris en, in de gevallen, bedoeld in de artikelen 2.1, vierde lid, en 3.1, vijfde lid, de natuurlijke persoon of rechtspersoon die de topfunctionaris ter beschikking stelt uit onverschuldigde betaling: 
 
 a. niet in het financieel verslaggevingsdocument is opgenomen, of  
 
-b. op het tijdstip waarop de accountant zijn oordeel geeft over het financieel verslaggevingsdocument door de betrokken topfunctionaris nog niet is terugbetaald.     
+b. op het tijdstip waarop de accountant zijn oordeel geeft over het financieel verslaggevingsdocument door de betrokken topfunctionaris, gewezen topfunctionaris, of, in de gevallen, bedoeld in de artikelen 2.1, vierde lid, en 3.1, vijfde lid, de natuurlijke persoon of rechtspersoon die de topfunctionaris ter beschikking stelt nog niet is terugbetaald.     
 2.  Indien het financieel verslaggevingsdocument niet de juiste in de artikelen 4.1 en 4.2 voorgeschreven gegevens of de in artikel 4.2, vijfde lid, bedoelde motivering bevat, meldt de accountant de ontbrekende gegevens of het ontbreken van de motivering aan Onze Minister, of aan Onze Minister wie het aangaat indien deze de mogelijkheid tot elektronische verstrekking heeft opengesteld.  
 
 ### Artikel  5.3  
@@ -422,8 +427,8 @@ De Belastingdienst, pensioenfondsen, alsmede verzekeraars aan wie ten behoeve va
 
 ### Artikel  5.5  
 
-1.  Indien de opgelegde last niet wordt uitgevoerd, eist Onze Minister wie het aangaat, onder intrekking van de last onder dwangsom, de in de last vermelde onverschuldigde betalingen op van de topfunctionaris. Met de bekendmaking van het besluit tot opeisen vervalt de vordering uit onverschuldigde betaling. De opgeëiste bedragen komen toe aan de Staat.   
-2.  In de gevallen, bedoeld in de artikelen 2.1, vierde lid, en 3.1, vijfde lid, kan de onverschuldigde betaling worden opgeëist van de topfunctionaris en de natuurlijke of rechtspersoon die de topfunctionaris ter beschikking heeft gesteld gezamenlijk.   
+1.  Indien de opgelegde last niet wordt uitgevoerd, eist Onze Minister wie het aangaat, onder intrekking van de last onder dwangsom, de in de last vermelde onverschuldigde betalingen op van de topfunctionaris of de gewezen topfunctionaris. Met de bekendmaking van het besluit tot opeisen vervalt de vordering uit onverschuldigde betaling. De opgeëiste bedragen komen toe aan de Staat.   
+2.  In de gevallen, bedoeld in de artikelen 2.1, vierde lid, en 3.1, vijfde lid, kan de onverschuldigde betaling worden opgeëist van de topfunctionaris of de gewezen topfunctionaris en de natuurlijke of rechtspersoon die de topfunctionaris of de gewezen topfunctionaris ter beschikking heeft gesteld gezamenlijk.   
 3.  De opgeëiste bedragen worden binnen drie weken voldaan. Onze Minister wie het aangaat kan de opgeëiste bedragen bij dwangbevel invorderen. De artikelen 5:38 en 5:39 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 4.  Onze Minister wie het aangaat eist geen onverschuldigde betaling op als de vordering uit onverschuldigde betaling is verjaard. De last, bedoeld in artikel 5.4, stuit de verjaring. Onze Minister wie het aangaat kan de verjaring van de vordering uit onverschuldigde betaling stuiten door hiervan mededeling te doen aan partijen.  
 
@@ -477,13 +482,13 @@ Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet, en ver
 2.  Indien door wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, deze wet van toepassing wordt op de tussen partijen overeengekomen bezoldiging, is in afwijking van artikel 2.1 onderscheidenlijk artikel 3.1, een voorafgaand aan de inwerkingtreding van die wijziging tussen partijen overeengekomen bezoldiging die meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, onderscheidenlijk het bedrag, bedoeld in artikel 3.3, toegestaan voor ten hoogste vier jaar na inwerkingtreding van de wijziging van de bijlage. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van die wijziging tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
 3.  Een bezoldiging voor de leden van de hoogste toezichthoudende organen van een rechtspersoon of instelling die afwijkt van artikel 2.2, onderscheidenlijk artikel 3.2, is, indien de bezoldiging is overeengekomen voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlagen bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, toegestaan voor ten hoogste vier jaar na de inwerkingtreding van deze wet of de inwerkingtreding van de wijziging van de bijlage. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van deze wet, onderscheidenlijk de wijziging van de bijlage, tussen partijen zijn overeengekomen. Het tweede lid is van overeenkomstige toepassing. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
 4.  Indien toepassing wordt gegeven aan artikel 2.6, eerste lid, artikel 2.7, tweede lid, artikel 2.8, artikel 3.4, tweede lid, of artikel 3.5, is een tussen partijen overeengekomen bezoldiging die meer bedraagt dan het van toepassing zijnde bedrag, toegestaan, indien de overeenkomst is gesloten voorafgaand aan de inwerkingtreding van de ministeriële regeling, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, voor ten hoogste vier jaar na inwerkingtreding van de ministeriële regeling dan wel de wijziging van de bijlage. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van de ministeriële regeling, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de betreffende bijlage, tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
-5.  Indien een in een klasse als bedoeld in artikel 2.7, eerste lid, of 3.4, eerste lid, ingedeelde rechtspersoon of instelling op enig moment op grond van ongewijzigde criteria is ingedeeld in een klasse waarvoor een lager bedrag is vastgesteld, gaat die indeling in met ingang van 1 januari van het daarop volgende kalenderjaar, tenzij een tussen partijen overeengekomen bezoldiging meer bedraagt dan het voor de toepasselijke klasse geldende bedrag en deze bezoldiging is overeengekomen voorafgaand aan de inwerkingtreding van deze wet dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling. In dat geval is de overeengekomen bezoldiging toegestaan, voor ten hoogste vier jaar na inwerkingtreding van deze wet dan wel de wijziging van de bijlage. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de betreffende bijlage, tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
-6.  Een beding in afwijking van artikel 2.10, eerste of derde lid, onderscheidenlijk artikel 3.7, eerste of derde lid, is, indien het beding is overeengekomen voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, dan wel voorafgaand aan de aanvraag van de subsidiebeschikking waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, toegestaan voor ten hoogste vier jaar na inwerkingtreding van deze wet dan wel de wijziging van de bijlage dan wel de bekendmaking van de subsidiebeschikking.   
-7.  In afwijking van artikel 2.11 of artikel 3.8 is een winstdeling of bonusbetaling die tussen partijen is overeengekomen voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, toegestaan voor ten hoogste vier jaar na inwerkingtreding van deze wet.   
+5.  Indien een in een klasse als bedoeld in artikel 2.7, eerste lid, of 3.4, eerste lid, ingedeelde rechtspersoon of instelling op enig moment op grond van ongewijzigde criteria is ingedeeld in een klasse waarvoor een lager bedrag is vastgesteld, gaat die indeling in met ingang van 1 januari van het daarop volgende kalenderjaar. Een voorafgaande aan de wijziging van de indeling tussen partijen overeengekomen bezoldiging die meer bedraagt dan het voor de toepasselijke klasse geldende bedrag is toegestaan voor ten hoogste vier jaar na de wijziging van de indeling. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de wijziging van de indeling tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
+6.  Een beding in afwijking van artikel 2.10, eerste lid, onderscheidenlijk artikel 3.7, eerste lid, is, indien het beding is overeengekomen voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, dan wel voorafgaand aan de aanvraag van de subsidiebeschikking waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, toegestaan voor ten hoogste vier jaar na inwerkingtreding van deze wet dan wel de wijziging van de bijlage dan wel de bekendmaking van de subsidiebeschikking.   
+7.  In afwijking van artikel 2.11 of artikel 3.8 is een winstdeling, bonusbetaling of andere variabele beloning die tussen partijen is overeengekomen voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, toegestaan voor ten hoogste vier jaar na inwerkingtreding van deze wet of de wijziging van de bijlage.   
 8.  Indien door de verlening van een subsidie, bedoeld in artikel 1.3, eerste lid, onderdeel c, deze wet van toepassing wordt op een rechtspersoon, is in afwijking van artikel 2.1 onderscheidenlijk artikel 3.1, een voorafgaand aan de aanvraag van die beschikking tussen partijen overeengekomen bezoldiging die meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, toegestaan voor ten hoogste vier jaar na de bekendmaking van de subsidiebeschikking. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de aanvraag van die beschikking tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.  
 9.  Indien een in het eerste tot en met het vijfde lid bedoelde periode van vier jaar is verstreken, wordt de overeengekomen bezoldiging in een periode van drie jaar teruggebracht tot het voor de rechtspersoon of instelling geldende maximum. In het eerste jaar bedraagt de verlaging een vierde deel van het verschil tussen de bezoldiging die op grond van het eerste tot en met het vierde lid werd genoten en het geldende maximum. In het tweede jaar bedraagt de verlaging een derde deel van het verschil tussen de bezoldiging uit het eerste jaar en het geldende maximum. In het derde jaar bedraagt de verlaging een tweede deel van het verschil tussen de bezoldiging uit het tweede jaar en het geldende maximum. Een eventuele overeengekomen verhoging als bedoeld in het eerste tot en met vierde lid, blijft buiten toepassing.   
 10.  Indien een dienstverband waarop dit artikel van toepassing is, wordt verlengd, blijft dit artikel na de verlenging buiten verdere toepassing.   
-11.  Voor de toepassing van dit artikel blijft buiten beschouwing iedere wijziging in de bezoldiging, de uitkeringen wegens beëindiging van het dienstverband of de duur van het dienstverband die wordt overeengekomen tussen 6 december 2011 en 1 januari 2013.  
+11.  Voor de toepassing van dit artikel blijft buiten beschouwing iedere wijziging in de bezoldiging, of de duur van het dienstverband die wordt overeengekomen tussen 6 december 2011 en 1 januari 2013.  
 
 ### Artikel  7.4  
 

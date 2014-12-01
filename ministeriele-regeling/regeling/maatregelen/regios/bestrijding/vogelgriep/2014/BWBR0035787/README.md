@@ -51,7 +51,9 @@ a. de dieren rechtstreeks naar een slachthuis worden vervoerd;
 
 b. het vervoer geschiedt overeenkomstig een goedgekeurd hygiëneprotocol;  
 
-c. een verklaring, die minder dan 24 uur oud is, van een dierenarts aanwezig is dat de dieren op basis van een klinische inspectie geen ziekteverschijnselen vertonen.     
+c. een verklaring, die minder dan 24 uur oud is, van een dierenarts aanwezig is dat de dieren op basis van een klinische inspectie geen ziekteverschijnselen vertonen;  
+
+d. voor zover het vervoer in regio A als bedoeld in bijlage 1 naar een slachterij als bedoeld in het vierde lid, onderdeel a, betreft, het vervoer alleen op dinsdag plaatsvindt.    
 3.  In afwijking van het eerste lid is het vervoer binnen een regio van eenden, afkomstig van een bedrijf binnen een regio, ten behoeve van de slacht binnen een regio toegestaan, indien: 
 
 a. de dieren rechtstreeks naar een slachthuis worden vervoerd;  
@@ -59,18 +61,27 @@ a. de dieren rechtstreeks naar een slachthuis worden vervoerd;
 b. het vervoer geschiedt overeenkomstig een goedgekeurd hygiëneprotocol;  
 
 c. een verklaring die minder dan 24 uur oud is, aanwezig is dat er uit onderzoek van ten minste 20 monsters per stal met gebruikmaking van een PCR-test door het laboratorium, bedoeld in artikel 19, tweede lid, van de Regeling erkenning en aanwijzing veterinaire laboratoria geen virus in de dieren is aangetoond.     
-4.  In afwijking van het eerste lid is het vervoer binnen een regio van eendagskuikens afkomstig van een bedrijf binnen een regio, toegestaan, indien: 
+4.  In aanvulling op het bepaalde in het tweede lid is het vervoer van gevogelte, niet zijnde eenden, afkomstig van een bedrijf in regio C als bedoeld in bijlage 3 ten behoeve van de slacht, binnen een regio, de invoer in een regio en de uitvoer uit een regio toegestaan, indien: 
 
-a. de dieren worden vervoerd naar een locatie buiten Nederland;  
+a. de dieren worden vervoerd naar: 
+
+i. Pluimveeslachterij C. van Miert BV, te Breukelen, met gebruikmaking van de route, bedoeld in bijlage 6, deel 1;  
+
+ii. Pluimveeslachterij Clazing BV, te Zevenhuizen, met gebruikmaking van de route, bedoeld in bijlage 6, deel 2;    
+
+b. het vervoer plaatsvindt op de dag dat de dieren worden geslacht, niet zijnde dinsdag;  
+
+c. het vervoer door de exploitant van het slachthuis ten minste een dag voorafgaand aan de dag van de geplande slacht aan de minister is gemeld, onder vermelding van het bedrijf van herkomst, het kenteken van het vervoermiddel waarmee de dieren worden vervoerd en het registratienummer van de sticker, bedoeld in artikel 12, tweede lid, van het betreffende vervoermiddel;  
+
+d. de lege vervoermiddelen met gebruikmaking van de route, bedoeld in onderdeel a terug naar regio C als bedoeld in bijlage 3, worden verplaatst.     
+5.  In afwijking van het eerste lid is het vervoer binnen een regio, de invoer in een regio en de uitvoer uit een regio van eendagskuikens toegestaan, indien: 
+
+a. de dieren rechtstreeks worden vervoerd naar een locatie, niet zijnde een bedrijf met commercieel gehouden gevogelte binnen Nederland;  
 
 b. voor zover het vervoer op Nederlands grondgebied betreft, de dieren rechtstreeks worden vervoerd zonder halt te houden;  
 
-c. voorafgaand aan het vervoer de geplande route aan de minister is gemeld.     
-5.  In afwijking van het eerste lid is het vervoer binnen een regio, de invoer in een regio en de uitvoer uit een regio van eendagskuikens, afkomstig van Schiphol naar een buiten Nederland gelegen locatie dan wel vanaf een buiten Nederland gelegen locatie naar Schiphol toegestaan, indien: 
-
-a. voor zover het vervoer op Nederlands grondgebied betreft, de dieren rechtstreeks worden vervoerd zonder halt te houden;  
-
-b. de dieren vergezeld gaan van het bewijsstuk bedoeld in artikel 2.4, eerste lid, onderdeel a, vierde gedachtestreepje, van de Regeling handel levende dieren en levend producten.6. In afwijking van het eerste lid is het vervoer binnen een regio van niet-commercieel gehouden pluimvee en van ander gevogelte dan pluimvee toegestaan.    
+c. de dieren vergezeld gaan van een bewijsstuk als bedoeld in artikel 2.4, eerste lid, onderdeel a, vierde gedachtestreepje, van de Regeling handel levende dieren en levende producten.     
+6.  In afwijking van het eerste lid is het vervoer binnen een regio van niet-commercieel gehouden pluimvee en van ander gevogelte dan pluimvee toegestaan. 
 
 ### Artikel  4  
 
@@ -134,8 +145,7 @@ b. er per door de vervoerder af te leggen route bij maximaal één bedrijf met c
 
 ####Vervoer naar en uit het buitenland
 
-1.  Indien ingevolge de artikelen 3 tot en met 9 het vervoer van dieren of producten binnen een regio is toegestaan, is het tevens toegestaan deze dieren of producten te vervoeren naar een buiten Nederland gelegen locatie.   
-2.  Het vervoer van dieren of producten vanuit het buitenland een regio in is toegestaan indien bij dat vervoer wordt voldaan aan de artikelen 3 tot en met 9 en 12.  
+Het vervoer van dieren of producten vanuit het buitenland een regio in, dan wel vanuit een regio het buitenland in, is toegestaan indien, voor zover bij het vervoer op Nederlands grondgebied plaatsvindt, voldaan wordt aan de artikelen 3 tot en met 9 en 12. 
 
 ### Artikel  11  
 
@@ -148,7 +158,7 @@ Voor zover ingevolge de artikelen 3 tot en met 9 het vervoer van dieren of produ
 ####Verplaatsen vervoermiddelen
 
 1.  Het in gebruik hebben van vervoermiddelen voor het vervoer van dieren of producten waarvan het vervoer overeenkomstig de artikelen 3, tweede tot en met vijfde lid, 4, tweede lid, 5, tweede lid, 6, tweede lid, 7, tweede lid, 8, tweede lid en 9, derde lid, is toegestaan, is verboden.   
-2.  In afwijking van het eerste lid is het in gebruik hebben van vervoermiddelen binnen een regio toegestaan indien de vervoermiddelen overeenkomstig het derde lid voorzien zijn van een door de Dienst Wegverkeer, bedoeld in artikel 4a van de Wegenverkeerswet 1994, te verstrekken sticker als bedoeld in bijlage 5.   
+2.  In afwijking van het eerste lid is het in gebruik hebben van vervoermiddelen binnen een regio toegestaan indien de vervoermiddelen overeenkomstig het derde lid voorzien zijn van een door de Dienst Wegverkeer, bedoeld in artikel 4a van de Wegenverkeerswet 1994, te verstrekken gebiedssticker als bedoeld in bijlage 5.   
 3.  Voor het vervoer binnen regio’s worden de volgende gebiedsstickers gebruikt: 
 
 a. voor de regio A (west-Nederland), bedoeld in bijlage 1 de sticker opgenomen in bijlage 5 met de letter A;  
@@ -158,7 +168,11 @@ b. voor de regio B (midden-Nederland), bedoeld in bijlage 2, de sticker opgenome
 c. voor de regio C (zuid-Nederland), bedoeld in bijlage 3, de sticker opgenomen in bijlage 5 met de letter C;  
 
 d. voor de regio D (noord-Nederland), bedoeld in bijlage 4, de sticker opgenomen in bijlage 5 met de letter D.     
-4.  in afwijking van het tweede en derde lid is het toegestaan dat een vervoermiddel dat gebruikt wordt voor het vervoer, bedoeld in artikel 3, vijfde lid, voorzien is van een gebiedssticker behorend bij een ander gebied dan het gebied waar het vervoermiddel zich bevindt, indien voldaan wordt aan de voorwaarden, bedoeld in artikel 3, vijfde lid, onderdelen a en b.   
+4.  In afwijking van het tweede en derde lid is het toegestaan dat een vervoermiddel dat gebruikt wordt voor het vervoer, bedoeld in artikel 3, vierde of vijfde lid, voorzien is van een gebiedssticker behorend bij een ander gebied dan het gebied waar het vervoermiddel zich bevindt, indien: 
+
+a. voldaan wordt aan de van toepassing zijnde voorwaarden, bedoeld in artikel 3, vierde lid, onderdelen a tot en met c of artikel 3, vijfde lid, onderdelen a tot en met c, en  
+
+b. het vervoermiddel voorzien is van een gebiedssticker, behorend bij het gebied waarbinnen het vervoer op Nederlands grondgebied is aangevangen.     
 5.  Het is uitsluitend toegestaan een vervoermiddel te voorzien van een gebiedssticker, behorend bij een andere regio indien: 
 
 a. het vervoermiddel voorafgaand aan het omstickeren ten minste 24 uur stil heeft gestaan;  
@@ -181,9 +195,13 @@ c. het stilstaan of geparkeerd zijn op of nabij locaties waar dieren of producte
 
 a. artsen, ambulancemedewerkers, brandweerlieden, psychosociale hulpverleners en soortgelijke noodhulpverleners, politiemedewerkers en toezichthouders, in de uitoefening van hun functie, en hun vervoermiddelen,  
 
-b. monteurs, loonwerkers, dierenartsen en bedrijfsverzorgers, indien er een acuut gevaar voor de gezondheid van vee of gevogelte aanwezig is en de werkzaamheden van deze personen noodzakelijk zijn om deze situatie op te heffen, en hun vervoermiddelen, en  
+b. monteurs, loonwerkers, dierenartsen en bedrijfsverzorgers, indien er een acuut gevaar voor de gezondheid van vee of gevogelte aanwezig is en de werkzaamheden van deze personen noodzakelijk zijn om deze situatie op te heffen, en hun vervoermiddelen  
 
-c. in noodsituaties: brandstofleveranciers of stikstof (N<sub>2</sub>) leveranciers, en hun vervoermiddelen,   mits zij reinigings- en ontsmettingsmaatregelen hebben genomen in overeenstemming met een goedgekeurd hygiëneprotocol en zij hun bezoek registreren. In een acute noodsituatie geldt geen registratieplicht voor de in onderdeel a genoemde personen.   
+c. dierenartsen, indien hun bezoek plaatsvindt in het kader van een aan hen ingevolge wet- of regelgeving opgedragen verplichting of taak,  
+
+d. medewerkers van vangploegen, en 
+
+e. in noodsituaties: brandstofleveranciers of stikstof (N<sub>2</sub>) leveranciers, en hun vervoermiddelen,   mits zij reinigings- en ontsmettingsmaatregelen hebben genomen in overeenstemming met een goedgekeurd hygiëneprotocol en zij hun bezoek registreren. In een acute noodsituatie geldt geen registratieplicht voor de in onderdeel a genoemde personen.   
 3.  Het in het eerste lid bedoelde verbod is niet van toepassing op personeel, mits het: 
 
 a. reinigings- en ontsmettingsmaatregelen heeft genomen in overeenstemming met een goedgekeurd hygiëneprotocol, en  
@@ -231,11 +249,7 @@ b. ter bestrijding van muskusratten.
 1.  Iedere houder van commercieel gehouden gevogelte brengt ten minste afscheidingen aan tussen het gevogelte en de op het bedrijf aanwezige zoogdieren.   
 2.  Iedere houder van commercieel gehouden gevogelte neemt passende maatregelen om zo veel mogelijk te voorkomen dat het door hem gehouden gevogelte in contact komt met gevogelte van andere houders of met in het wild levende dieren, zoals in het wild levende vogels of hun uitwerpselen.   
 3.  Voor een bedrijf met commercieel gehouden gevogelte is een passende maatregel als bedoeld in het tweede lid ten minste het binnen een gebouw brengen en daar houden van het gevogelte.   
-4.  Het derde lid is niet van toepassing op: 
-
-a. gevogelte, behorende tot de eendvogels (Anseriformes), de familie van struisvogels (Struthionidae), van emoes (Dromaiidae) en van nandoes (Rheidae);  
-
-b. gevogelte dat wordt gehouden door een handelaar in vogels of in een dierentuin.    
+4.  Het derde lid is niet van toepassing op gevogelte, behorende tot de eendvogels (Anseriformes) de familie van struisvogels (Struthionidae), van emoes (Dromaiidae) en van nandoes (Rheidae).  
 
 ### Artikel  18  
 
@@ -557,3 +571,40 @@ Gebiedssticker A   ![254371](http://wetten.overheid.nl/Illustration/254371)
 Gebiedssticker B   ![254372](http://wetten.overheid.nl/Illustration/254372)
 Gebiedssticker C   ![254373](http://wetten.overheid.nl/Illustration/254373)
 Gebiedssticker D  
+
+###Bijlage 6 
+
+####, behorend bij artikel 3, vierde lid 
+
+### Deel  1  
+
+####Pluimveeslachterij C. van Miert BV
+
+1. Vanaf de brug over rivier de Maas met de A2, de A2 volgen in noordelijke richting tot aan de afslag (5) Breukelen.  
+
+2. Via afslag (5) Breukelen de N431 volgen in noordelijke richting tot aan Amerlandseweg.  
+
+3. De Amerlandseweg volgen in oostelijke richting volgen tot aan Stationsweg.  
+
+4. De Stationsweg volgen in westelijke richting tot aan Broekdijk West.  
+
+5. De Broekdijk west volgen in zuidelijke richting tot aan Keulsche vaart.  
+
+6. De Keulsche vaart volgen tot lokatie nr 3621MX16.   
+
+### Deel  2  
+
+####Pluimveeslachterij Clazing BV
+
+1. Vanaf de brug over rivier de Maas met de A2 in noordelijke richting via knooppunt Geldermalsen A15 volgen in westelijke richting via knooppunt Ridderkerk tot aan A16.  
+
+2. De A16 volgend in noordwestelijke richting tot aan A20.  
+
+3. De A20 volgend in Oostelijke richting tot aan afrit 17/Zevenhuizen ZH.  
+
+4. Vanaf afrit 17/Zevenhuizen ZH Eerste tochtweg volgen in noordelijke richting tot aan Zuidelijke Dwarsweg.  
+
+5. De Zuidelijke Dwarsweg volgen in oostelijke richting tot aan Bierhoogtweg.  
+
+6. De Bierhoogtweg volgen tot aan lokatie 2761JH17.   
+

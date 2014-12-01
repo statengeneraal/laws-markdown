@@ -44,9 +44,9 @@ c. dient de minister desgevraagd van advies inzake arbeidspolitieke aangelegenhe
 
 ### Artikel  7  
 
-1.  De schadeloosstelling, bedoeld in [artikel 15 van de wet](../../../../wet-BES/arbeidsgeschillenwet/1946/bes/BWBR0028178/README.md), bedraagt voor de bemiddelaar of de bijzondere bemiddelaar: USD 102,– per uur.   
+1.  De schadeloosstelling, bedoeld in artikel 15 van de wet, bedraagt voor de bemiddelaar of de bijzondere bemiddelaar: USD 102,– per uur.   
 2.  Indien de bemiddelaar of bijzondere bemiddelaar voor zijn optreden genoodzaakt is te reizen naar een ander eiland dan het eiland waar hij woont, worden de reiskosten vergoed. Tevens wordt in verband met de aan de reis bestede uren per enkele reis een vergoeding toegekend over één uur.   
-3.  Tevens worden, indien noodzakelijk, de verblijfkosten die verband houden met de in het tweede lid bedoelde reizen vergoed overeenkomstig [artikel 2 van de Reis- verblijf- en verhuiskostenregeling ambtenaren BES](../../../../ministeriele-regeling-BES/reis-/verblijf-/en/verhuiskostenregeling/ambtenaren/bes/BWBR0029422/README.md).   
+3.  Tevens worden, indien noodzakelijk, de verblijfkosten die verband houden met de in het tweede lid bedoelde reizen vergoed overeenkomstig artikel 2 van de Reis- verblijf- en verhuiskostenregeling ambtenaren BES.   
 4.  Indien uit de door het Centraal Bureau voor de Statistiek vastgestelde consumentenprijsindexcijfers voor de openbare lichamen Bonaire, Sint Eustatius en Saba blijkt, dat het gemiddelde prijsindexcijfer voor het derde kwartaal van het lopende jaar, vergeleken met het prijsindexcijfer voor het derde kwartaal van het voorafgaande jaar is gestegen of gedaald, stelt Onze Minister het bedrag vast, dat met ingang van 1 januari van het komende jaar in de plaats treedt van het in het eerste lid bedoelde bedrag. Onze Minister bepaalt welke consumentenprijsindexcijfers voor de toepassing van de eerste zin worden gebruikt. 
 
 ### Artikel  8  
@@ -60,7 +60,7 @@ c. dient de minister desgevraagd van advies inzake arbeidspolitieke aangelegenhe
 
 ### Artikel  9  
 
-1.  Binnen achtenveertig uren, de op een zaterdag, zondag of wettelijk erkende feestdag vallende uren niet meegerekend, na ontvangst van een verzoek als bedoeld in [artikel 14A, eerste lid, van de wet](../../../../wet-BES/arbeidsgeschillenwet/1946/bes/BWBR0028178/README.md) doet de bemiddelaar de betrokken werkgever en de vakvereniging van werknemers, die het verzoek heeft gedaan, schriftelijk mededeling van de ontvangst van het verzoek, alsmede van de mogelijkheid voor vakverenigingen van werknemers om binnen veertien dagen na dagtekening van de mededeling de wens tot deelname aan een onder werknemers van het betrokken bedrijf te houden referendum aan de bemiddelaar kenbaar te maken.   
+1.  Binnen achtenveertig uren, de op een zaterdag, zondag of wettelijk erkende feestdag vallende uren niet meegerekend, na ontvangst van een verzoek als bedoeld in artikel 14A, eerste lid, van de wet doet de bemiddelaar de betrokken werkgever en de vakvereniging van werknemers, die het verzoek heeft gedaan, schriftelijk mededeling van de ontvangst van het verzoek, alsmede van de mogelijkheid voor vakverenigingen van werknemers om binnen veertien dagen na dagtekening van de mededeling de wens tot deelname aan een onder werknemers van het betrokken bedrijf te houden referendum aan de bemiddelaar kenbaar te maken.   
 2.  De bemiddelaar doet de inhoud van de in het eerste lid bedoelde mededeling binnen tweeënzeventig uur bekend maken in alle plaatselijke dagbladen. Hij zendt binnen die termijn een schriftelijke kennisgeving van de inhoud van de mededeling aan de werknemers van het betrokken bedrijf.   
 3.  De werkgever is verplicht de in het eerste lid bedoelde mededeling dan wel een afschrift daarvan onverwijld zodanig te doen ophangen op een voor de werknemer gemakkelijk toegankelijke plaats, zo mogelijk in het arbeidslokaal, dat zij duidelijk leesbaar is.  
 
@@ -205,7 +205,7 @@ De bemiddelaar kan zich bij zijn in deze regeling vermelde werkzaamheden doen bi
 
 ### Artikel  24a  
 
-Als bedrijven, bedoeld in het eerste lid van [artikel 3b van de wet](../../../../wet-BES/arbeidsgeschillenwet/1946/bes/BWBR0028178/README.md), worden aangewezen: 
+Als bedrijven, bedoeld in het eerste lid van artikel 3b van de wet, worden aangewezen: 
 
 a. de op Bonaire, Sint Eustatius en Saba gevestigde mijnbouw-, gas-, elektriciteit-, water-, energieproductie- en telecommunicatiebedrijven;  
 

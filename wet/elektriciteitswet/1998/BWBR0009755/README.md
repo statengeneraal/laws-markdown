@@ -1003,7 +1003,7 @@ d. een gebouw ingrijpend wordt gerenoveerd.
 10.  Indien een meetinrichting als bedoeld in artikel 95la, eerste lid, door de netbeheerder ter beschikking wordt gesteld, kan een afnemer als bedoeld in artikel 95a, eerste lid, deze meetinrichting weigeren. In dat geval wordt door de netbeheerder een niet op afstand uitleesbare meetinrichting ter beschikking gesteld.  
 
 ### Artikel  26ae  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Een netbeheerder heeft in het kader van het beheer van de netten in het voor hem krachtens artikel 36 of 37 vastgestelde gebied tot taak ervoor zorg te dragen dat in een bij algemene maatregel van bestuur te bepalen periode, een bij algemene maatregel van bestuur te bepalen percentage afnemers als bedoeld in artikel 95a, eerste lid, de beschikking krijgt over een geïnstalleerde meetinrichting die ten minste voldoet aan de krachtens artikel 95la, eerste lid, gestelde eisen, tenzij die afnemer blijkens de voorwaarden, bedoeld in artikel 31, eerste lid, onderdelen a of b, beschikt over een onbemeten aansluiting.   
 2.  In aanvulling op het eerste lid heeft een netbeheerder tot taak ervoor zorg te dragen dat een afnemer als bedoeld in artikel 95a, eerste lid, binnen een redelijke termijn een meetinrichting ter beschikking wordt gesteld die ten minste voldoet aan de krachtens artikel 95la gestelde eisen, wanneer: 
@@ -1023,7 +1023,7 @@ c. een gebouw ingrijpend wordt gerenoveerd.
 10.  Het is anderen dan de netbeheerder niet toegestaan bij afnemers als bedoeld in artikel 95a, eerste lid, geïnstalleerde, op afstand uitleesbare meetinrichtingen te vervangen die geïnstalleerd zijn tussen 31 december 2005 en het tijdstip waarop de in het eerste lid bedoelde periode aanvangt.   
 11.  Indien een meetinrichting als bedoeld in artikel 95la, eerste lid, door de netbeheerder ter beschikking wordt gesteld, kan een afnemer als bedoeld in artikel 95a, eerste lid, deze meetinrichting weigeren. In dat geval wordt door de netbeheerder een niet op afstand uitleesbare meetinrichting ter beschikking gesteld.   
 12.  In aanvulling op artikel 30a kan het tarief voor de meting van elektriciteit mede betrekking hebben op de mate waarin een netbeheerder voortgang boekt bij de uitvoering van de verplichting, bedoeld in het eerste lid, en alsdan verschillen per netbeheerder.   
-13.  Een netbeheerder zendt jaarlijks vóór 1 juni een rapportage aan Onze Minister en de raad van bestuur van de mededingingsautoriteit waarin hij aangeeft welke voortgang is geboekt met de uitvoering van de taak, bedoeld in het eerste lid.  
+13.  Een netbeheerder zendt jaarlijks vóór 1 juni een rapportage aan Onze Minister en de Autoriteit Consument en Markt waarin hij aangeeft welke voortgang is geboekt met de uitvoering van de taak, bedoeld in het eerste lid.  
 
 ### Artikel  26af  
 

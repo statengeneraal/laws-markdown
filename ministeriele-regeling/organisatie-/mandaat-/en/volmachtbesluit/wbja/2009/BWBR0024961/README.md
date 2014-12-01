@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 8 december 2008, nr. WBJA/JA/08/35291, houdende de inrichting van de directie Wetgeving, Bestuurlijke en Juridische Aangelegenheden alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Wetgeving, Bestuurlijke en Juridische Aangelegenheden (Organisatie-, mandaat- en volmachtbesluit WBJA 2009)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 3, onderdeel k](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md), en [11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009](../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md);
+Gelet op de artikelen 3, onderdeel k, en 11 van het Organisatie-, mandaat- en volmachtbesluit secretaris-generaal SZW 2009;
 Besluit:     
 ### §  1  
 
@@ -19,7 +19,7 @@ b.  *afdeling JA-BBS:* de afdeling Juridische Aangelegenheden – Bijstand, Bedr
 
 c.  *afdeling JA-SVA:* de afdeling Juridische Aangelegenheden – Sociale Verzekeringen en Arbeid;  
 
-d.  *afdeling JA-Wav:* de afdeling Juridische Aangelegenheden – [Wet arbeid vreemdelingen](../../../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md);  
+d.  *afdeling JA-Wav:* de afdeling Juridische Aangelegenheden – Wet arbeid vreemdelingen;  
 
 e.  *teamleider BO:* de functionaris die rechtstreeks ressorteert onder het hoofd van het Bureau Ondersteuning;  
 
@@ -102,7 +102,7 @@ b. het behandelen van nationale juridische aspecten van departements- en rijksbr
 c. het adviseren over en behandelen van nationale juridische vraagstukken en procedures, waaronder bezwaar- en beroepsprocedures, met uitzondering van bezwaar- en beroepschriften van (ex-)medewerkers van het ministerie inzake aangelegenheden verband houdende met de dienstbetrekking.     
 2.  Het hoofd van de afdeling JA-BBS is verantwoordelijk voor de volgende algemene taken: 
 
-a. het adviseren over en behandelen van nationale juridische vraagstukken en procedures met betrekking tot de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) en de [Regeling openbaarheid van bestuur Sociale Zaken en Werkgelegenheid](../../../../../../../../ministeriele-regeling/regeling/openbaarheid/van/bestuur/sociale/zaken/en/werkgelegenheid/BWBR0010238/README.md);  
+a. het adviseren over en behandelen van nationale juridische vraagstukken en procedures met betrekking tot de Wet openbaarheid van bestuur en de Regeling openbaarheid van bestuur Sociale Zaken en Werkgelegenheid;  
 
 b. het adviseren en coördineren van aangelegenheden betreffende klachten tegen het ministerie ingediend bij de Nationale ombudsman, met uitzondering van klachten ingediend door (ex-)medewerkers van het ministerie verband houdende met de dienstbetrekking;  
 
@@ -123,7 +123,7 @@ c. het adviseren over en behandelen van nationale juridische vraagstukken en pro
 
 ### Artikel  7  
 
-Het hoofd van de afdeling JA-Wav is verantwoordelijk voor de volgende taken ten aanzien van de [Wet arbeid vreemdelingen](../../../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md): 
+Het hoofd van de afdeling JA-Wav is verantwoordelijk voor de volgende taken ten aanzien van de Wet arbeid vreemdelingen: 
 
 a. het bevorderen van de kwaliteit van het juridisch handelen van het ministerie;  
 
@@ -137,7 +137,7 @@ Het hoofd van het Bureau Ondersteuning is verantwoordelijk voor de volgende take
 
 a. het verlenen van ondersteuning bij de afhandeling van bezwaar- en beroepsprocedures, met uitzondering van bezwaar- en beroepsprocedures die worden behandeld door de Inspectie Werk en Inkomen;  
 
-b. het verlenen van ondersteuning bij de behandeling van verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md);  
+b. het verlenen van ondersteuning bij de behandeling van verzoeken op grond van de Wet openbaarheid van bestuur;  
 
 c. het verlenen van ondersteuning bij gerechtelijke en internationaal-rechtelijke procedures waarbij het ministerie betrokken is;  
 
@@ -169,7 +169,7 @@ b. het ter ondertekening voorleggen aan een bewindspersoon, de secretaris-genera
 
 c. het machtigen van personen om een bewindspersoon in gerechtelijke procedures te vertegenwoordigen;  
 
-d. de afhandeling en ondertekening van stukken inzake bezwaarprocedures en gerechtelijke procedures, met uitzondering van de beslissing op een bezwaar- en beroepschrift.   
+d. de afhandeling en ondertekening van stukken inzake bezwaarprocedures en gerechtelijke procedures, met inbegrip van het nemen van de beslissing op een bezwaarschrift.   
 
 ### Artikel  12  
 
@@ -177,7 +177,7 @@ Aan het hoofd van de afdeling JA-BBS wordt mandaat en machtiging verleend tot he
 
 a. het machtigen van personen om een bewindspersoon in procedures bij de Nationale ombudsman te vertegenwoordigen;  
 
-b. de voorbereiding en de bekendmaking van een besluit op een verzoek op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) waaronder de ondertekening van ontvangstbevestigingen van verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), de ondertekening van brieven waarbij aan derden verzocht wordt te reageren op een verzoek op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), de ondertekening van brieven waarbij de beslistermijn op een verzoek op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) ex [artikel 6 van die wet](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) wordt verlengd en de ondertekening van brieven ter bekendmaking van een besluit op een verzoek op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) aan derden.   
+b. de voorbereiding en de bekendmaking van een besluit op een verzoek op grond van de Wet openbaarheid van bestuur waaronder de ondertekening van ontvangstbevestigingen van verzoeken op grond van de Wet openbaarheid van bestuur, de ondertekening van brieven waarbij aan derden verzocht wordt te reageren op een verzoek op grond van de Wet openbaarheid van bestuur, de ondertekening van brieven waarbij de beslistermijn op een verzoek op grond van de Wet openbaarheid van bestuur ex artikel 6 van die wet wordt verlengd en de ondertekening van brieven ter bekendmaking van een besluit op een verzoek op grond van de Wet openbaarheid van bestuur aan derden.   
 
 ### Artikel  13  
 
@@ -192,7 +192,7 @@ c. het ter ondertekening voorleggen aan een bewindspersoon, de secretaris-genera
 ### Artikel  14  
 
 1.  Aan het hoofd van het Bureau Ondersteuning, alsmede aan de teamleiders BO wordt mandaat en machtiging verleend met betrekking tot het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de afhandeling van administratieve stukken inzake procedures van bezwaar en beroep alsmede daarmee verwante procedures, waaronder niet begrepen het machtigen van personen om een bewindspersoon in gerechtelijke procedures en in procedures bij de Nationale ombudsman te vertegenwoordigen.   
-2.  Aan het hoofd van het Bureau Ondersteuning, alsmede aan de teamleiders BO wordt mandaat en machtiging verleend met betrekking tot de voorbereiding en de bekendmaking van een besluit op een verzoek op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) waaronder de ondertekening van ontvangstbevestigingen van verzoeken op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), de ondertekening van brieven waarbij aan derden verzocht wordt te reageren op een verzoek op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), de ondertekening van brieven waarbij de beslistermijn op een verzoek op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) ex [artikel 6 van die wet](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) wordt verlengd en de ondertekening van brieven ter bekendmaking van een besluit op een verzoek op grond van de [Wet openbaarheid van bestuur](../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) aan derden.   
+2.  Aan het hoofd van het Bureau Ondersteuning, alsmede aan de teamleiders BO wordt mandaat en machtiging verleend met betrekking tot de voorbereiding en de bekendmaking van een besluit op een verzoek op grond van de Wet openbaarheid van bestuur waaronder de ondertekening van ontvangstbevestigingen van verzoeken op grond van de Wet openbaarheid van bestuur, de ondertekening van brieven waarbij aan derden verzocht wordt te reageren op een verzoek op grond van de Wet openbaarheid van bestuur, de ondertekening van brieven waarbij de beslistermijn op een verzoek op grond van de Wet openbaarheid van bestuur ex artikel 6 van die wet wordt verlengd en de ondertekening van brieven ter bekendmaking van een besluit op een verzoek op grond van de Wet openbaarheid van bestuur aan derden.   
 3.  Het hoofd van het Bureau Ondersteuning is gevolmachtigd tot: 
 
 a. het aangaan van overeenkomsten met betrekking tot de levering van goederen en diensten op basis van een door de directie Bedrijfsvoering afgesloten raamovereenkomst alsmede het afsluiten van koop-, huur- en lease-overeenkomsten met een waarde van ten hoogste € 20.000,– per overeenkomst;  

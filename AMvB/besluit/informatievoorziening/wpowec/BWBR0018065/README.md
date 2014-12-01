@@ -6,27 +6,27 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze minister van Onderwijs, Cultuur en Wetenschap, van 18 november 2004, nr. WJZ/2004/54540 (2565), directie Wetgeving en Juridische Zaken;
 
-Gelet op de [artikelen 171, eerste en derde lid](../../../../../wet/wbo/BWBR0003420/README.md), [172, tweede lid](../../../../../wet/wbo/BWBR0003420/README.md), en [173, tweede lid, van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md) en de [artikelen 157, eerste en derde lid](../../../../../wet/isovso/BWBR0003549/README.md), [158, tweede lid](../../../../../wet/isovso/BWBR0003549/README.md), en [159, tweede lid, van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md);
+Gelet op de artikelen 171, eerste en derde lid, 172, tweede lid, en 173, tweede lid, van de Wet op het primair onderwijs en de artikelen 157, eerste en derde lid, 158, tweede lid, en 159, tweede lid, van de Wet op de expertisecentra;
 
 De Raad van State gehoord (advies van 4 februari 2005, nr. W05.04.0561/III);
 
 Gezien het nader rapport van Onze minister van Onderwijs, Cultuur en Wetenschap, van 24 februari 2005, nr. 2005/5407 (2565), directie Wetgeving en Juridische Zaken;
-Hebben goedgevonden en verstaan:
+Hebben goedgevonden en verstaan:  
 
-###Artikel 1 
+### Artikel  1  
 
 ####Begripsbepalingen
 
-In dit besluit en de daarop berustende bepalingen wordt verstaan onder:Onze minister: Onze minister van Onderwijs, Cultuur en Wetenschap;school: een school als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md) dan wel [artikel 1 van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md);bevoegd gezag: een bevoegd gezag als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md) dan wel [artikel 1 van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md);regionaal expertisecentrum: een regionaal expertisecentrum als bedoeld in [artikel 28b van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md);centrale dienst: een centrale dienst als bedoeld in de [artikelen 68 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md) en [69 van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md).
+In dit besluit en de daarop berustende bepalingen wordt verstaan onder: Onze minister: Onze minister van Onderwijs, Cultuur en Wetenschap; school: een school als bedoeld in artikel 1 van de Wet op het primair onderwijs dan wel artikel 1 van de Wet op de expertisecentra; bevoegd gezag: een bevoegd gezag als bedoeld in artikel 1 van de Wet op het primair onderwijs dan wel artikel 1 van de Wet op de expertisecentra;  samenwerkingsverband: een samenwerkingsverband als bedoeld in artikel 1 van de Wet op het primair onderwijs en artikel 1 van de Wet op het voortgezet onderwijs; centrale dienst: een centrale dienst als bedoeld in de artikelen 68 van de Wet op het primair onderwijs en 69 van de Wet op de expertisecentra. 
 
 ### Artikel  2  
 
 ####Nadere invulling van de onderdelen van het jaarverslag
 
-1.  Het jaarverslag, bedoeld in [artikel 171 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md) dan wel [artikel 157 van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md), wordt ingericht overeenkomstig bij ministeriële regeling vast te stellen regels.   
-2.  In het bestuursverslag, bedoeld in [artikel 171, eerste lid onder a, van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md) dan wel [artikel 157, eerste lid onder a, van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md), geeft het bevoegd gezag informatie over de school of scholen, en geeft het regionaal expertisecentrum of de centrale dienst informatie over de rechtspersoon. Onder informatie over de school of scholen respectievelijk de rechtspersoon wordt in ieder geval begrepen informatie over: 
+1.  Het jaarverslag, bedoeld in artikel 171 van de Wet op het primair onderwijs dan wel artikel 157 van de Wet op de expertisecentra, wordt ingericht overeenkomstig bij ministeriële regeling vast te stellen regels.   
+2.  In het bestuursverslag, bedoeld in artikel 171, eerste lid onder a, van de Wet op het primair onderwijs dan wel artikel 157, eerste lid onder a, van de Wet op de expertisecentra, geeft het bevoegd gezag informatie over de school of scholen, en geeft het samenwerkingsverband of de centrale dienst informatie over de rechtspersoon. Onder informatie over de school of scholen respectievelijk de rechtspersoon wordt in ieder geval begrepen informatie over: 
 
-a. de kernactiviteiten die onder verantwoordelijkheid van het bevoegd gezag, het regionaal expertisecentrum of de centrale dienst hebben plaatsgevonden, en de daarbij behorende kerngegevens die, voor zover van toepassing, in ieder geval betrekking hebben op ontwikkelingen ten aanzien van leerlingen, personeel, aangesloten dan wel betrokken bevoegde gezagsorganen en op financiën, voor zover niet opgenomen in de jaarrekening;  
+a. de kernactiviteiten die onder verantwoordelijkheid van het bevoegd gezag, het samenwerkingsverband of de centrale dienst hebben plaatsgevonden, en de daarbij behorende kerngegevens die, voor zover van toepassing, in ieder geval betrekking hebben op ontwikkelingen ten aanzien van leerlingen, personeel, aangesloten dan wel betrokken bevoegde gezagsorganen en op financiën, voor zover niet opgenomen in de jaarrekening;  
 
 b. de juridische structuur;  
 
@@ -35,15 +35,23 @@ c. de organisatiestructuur;
 d. belangrijke onderdelen van het gevoerde beleid, en  
 
 e. de financiën, bestaande uit tenminste een analyse van de financiële situatie, onderbouwd met financiële kengetallen waaronder begrepen gegevens over de solvabiliteits- en liquiditeitspositie per balansdatum, de rentabiliteit en de streefwaarden.     
-3.  Het bevoegd gezag, het regionaal expertisecentrum of de centrale dienst verzendt voor 1 juli van het jaar volgend op het kalenderjaar waarop het jaarverslag betrekking heeft, aan Onze minister de desbetreffende jaarrekening, bedoeld in [artikel 171, eerste lid onder b, van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md) dan wel [artikel 157, eerste lid onder b, van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md), alsmede de gegevens bedoeld in het tweede lid, onder e. Het cijfermatige deel uit de jaarrekening wordt gelijktijdig ook elektronisch verzonden.   
+3.  Het bevoegd gezag, het samenwerkingsverband of de centrale dienst verzendt voor 1 juli van het jaar volgend op het kalenderjaar waarop het jaarverslag betrekking heeft, aan Onze minister de desbetreffende jaarrekening, bedoeld in artikel 171, eerste lid onder b, van de Wet op het primair onderwijs dan wel artikel 157, eerste lid onder b, van de Wet op de expertisecentra, alsmede de gegevens bedoeld in het tweede lid, onder e. Het cijfermatige deel uit de jaarrekening wordt gelijktijdig ook elektronisch verzonden.   
 4.  Bij ministeriële regeling kan Onze minister voor de jaarrekening, bedoeld in het derde lid, alsmede voor de grondslagen daarvan een model vaststellen.   
-5.  Het bevoegd gezag vermeldt in de schoolgids, bedoeld in [artikel 13 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md), dan wel [artikel 22 van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md), wanneer het jaarverslag wordt vastgesteld of goedgekeurd en hoe derden het kunnen verkrijgen.  
+5.  Het bevoegd gezag vermeldt in de schoolgids, bedoeld in artikel 13 van de Wet op het primair onderwijs, dan wel artikel 22 van de Wet op de expertisecentra, wanneer het jaarverslag wordt vastgesteld of goedgekeurd en hoe derden het kunnen verkrijgen.  
+
+### Artikel  2a  
+
+####Gebruik burgerservicenummer personeel door bevoegd gezag
+
+Treedt in werking per 01-01-2015 
+
+Bij de gegevensverstrekking op grond van artikel 173 van de Wet op het primair onderwijs en artikel 159 van de Wet op de expertisecentra maakt het bevoegd gezag gebruik van het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer, van een lid van het personeel of gewezen personeel van de school. 
 
 ###Artikel 3 
 
 ####Beschrijving van de gegevens
 
-De gegevens, bedoeld in de [artikelen 172](../../../../../wet/wbo/BWBR0003420/README.md) en [173 van de Wet op het primair onderwijs](../../../../../wet/wbo/BWBR0003420/README.md) dan wel de [artikelen 158](../../../../../wet/isovso/BWBR0003549/README.md) en [159 van de Wet op de expertisecentra](../../../../../wet/isovso/BWBR0003549/README.md) waarover een bevoegd gezag of een centrale dienst beschikt, worden gedefinieerd en geordend volgens de voorschriften vermeld in de bijlage bij dit besluit.
+De gegevens, bedoeld in de artikelen 172 en 173 van de Wet op het primair onderwijs dan wel de artikelen 158 en 159 van de Wet op de expertisecentra waarover een bevoegd gezag of een centrale dienst beschikt, worden gedefinieerd en geordend volgens de voorschriften vermeld in de bijlage bij dit besluit.
 
 ###Artikel 4 
 
@@ -77,109 +85,109 @@ de *zeventiende* maart 2005
 De Minister van Justitie ,
 J. P. H.Donner
 
-###Bijlage 
+### Bijlage 
 
 ####als bedoeld in artikel 3  van het Besluit informatievoorziening WPO/WEC
 
-Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag, centrale dienst of regionaal expertise centrum (REC) dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van OCW. Dit laat onverlet dat daarnaast in geval van aanvullende bekostiging de daarvoor benodigde gegevens opgevraagd kunnen worden.Per rubriek (A1, A2, enz.) is aangegeven op welk niveau de gevraagde informatie geleverd moet worden.
+Deze bijlage bevat een uitputtend overzicht van de gegevens waarover het bevoegd gezag, centrale dienst of samenwerkingsverband dient te beschikken om te kunnen voldoen aan de structurele gegevensvraag van OCW. Dit laat onverlet dat daarnaast in geval van aanvullende bekostiging de daarvoor benodigde gegevens opgevraagd kunnen worden. Per rubriek (A1, A2, enz.) is aangegeven op welk niveau de gevraagde informatie geleverd moet worden. 
 
 ####A. Instellingsgegevens
 
 ####A1. Bevoegd gezag en centrale dienst
 
-Voor de bekostiging:Datum oprichting en opheffingEen administratienummerNaam en adresgegevensCommunicatiegegevens, zoals telefoonnummer en e-mailadresGegevens ten behoeve van betalingen, zoals bank- en girogegevensGegevens van de regionale expertisecentra waarbij men is aangesloten (zoals administratienummer, naam en adresgegevens, datum begin en einde aansluiting)
+Voor de bekostiging: Datum oprichting en opheffing Een administratienummer Naam en adresgegevens Communicatiegegevens, zoals telefoonnummer en e-mailadres Gegevens ten behoeve van betalingen, zoals bank- en girogegevens Gegevens van de samenwerkingsverbanden waarbij men is aangesloten (zoals administratienummer, naam en adresgegevens, datum begin en einde aansluiting) 
 
 ####A2. School, instelling, vestiging
 
-Voor de bekostiging:Gegevens over de datum oprichting en opheffingDatum ingang en einde bekostigingSchoolsoort en code gedoceerd onderwijsEen administratienummerNaam en adresgegevensCommunicatiegegevens, zoals telefoonnummer en e-mailadresVoor beleid:Richting school/instelling
+Voor de bekostiging: Gegevens over de datum oprichting en opheffing Datum ingang en einde bekostiging Schoolsoort en code gedoceerd onderwijs Een administratienummer Naam en adresgegevens Communicatiegegevens, zoals telefoonnummer en e-mailadres Voor beleid: Richting school/instelling 
 
 ####A3. Samenwerkingsverbanden
 
-Voor de bekostiging:AdministratienummerDatum begin en eindeNaamAdministratienummers scholen in samenwerkingsverband
+Voor de bekostiging: Administratienummer Datum begin en einde Naam Administratienummers scholen in samenwerkingsverband 
 
 ####B. Financiële gegevens
 
 ####B1. Bevoegd gezag en centrale dienst
 
-Voor de bekostiging:De (geconsolideerde) balans met de volgende gegevens over activa:
+Voor de bekostiging: De (geconsolideerde) balans met de volgende gegevens over activa: 
 
-–immateriële vaste activa
+– immateriële vaste activa  
 
-–materiële vaste activa
+– materiële vaste activa  
 
-–financiële vaste activa
+– financiële vaste activa  
 
-–voorraden
+– voorraden  
 
-–vorderingen
+– vorderingen  
 
-–effecten
+– effecten  
 
-–liquide middelenen passiva
+– liquide middelen   en passiva 
 
-–eigen vermogen
+– eigen vermogen  
 
-–aandeel van derden
+– aandeel van derden  
 
-–egalisatierekening investeringssubsidies
+– egalisatierekening investeringssubsidies  
 
-–voorzieningen
+– voorzieningen  
 
-–langlopende schulden
+– langlopende schulden  
 
-–kortlopende schuldenDe (geconsolideerde) exploitatierekeningwaaronder de volgende baten:
+– kortlopende schulden   De (geconsolideerde) exploitatierekening waaronder de volgende baten: 
 
-–rijksbijdragen OCW
+– rijksbijdragen OCW  
 
-–overige overheidsbijdragen
+– overige overheidsbijdragen  
 
-–financiële baten
+– financiële baten  
 
-–buitengewone baten
+– buitengewone baten  
 
-–overige batenen waaronder de volgende lasten
+– overige baten   en waaronder de volgende lasten 
 
-–personele lasten
+– personele lasten  
 
-–afschrijvingen
+– afschrijvingen  
 
-–huisvestingslasten
+– huisvestingslasten  
 
-–financiële lasten
+– financiële lasten  
 
-–buitengewone lasten
+– buitengewone lasten  
 
-–overige lastenen het aandeel van derdenHet (geconsolideerde) kasstroomoverzichtmet de kasstroom uit:
+– overige lasten   en het aandeel van derden Het (geconsolideerde) kasstroomoverzicht met de kasstroom uit: 
 
-–operationele activiteiten
+– operationele activiteiten  
 
-–investeringsactiviteiten
+– investeringsactiviteiten  
 
-–financieringsactiviteitenen de mutatie en eindstand liquide middelen
+– financieringsactiviteiten   en de mutatie en eindstand liquide middelen 
 
 ####B2. School en instelling
 
-Voor beleid:
+Voor beleid: 
 
-–de totale lasten: gewone bedrijfsvoering en financiële lastenmet een specificatie voor:
+– de totale lasten: gewone bedrijfsvoering en financiële lasten   met een specificatie voor: 
 
-–schoonmaken: salariskosten schoonmaakpersoneel, contractkosten inhuur, materiaal
+– schoonmaken: salariskosten schoonmaakpersoneel, contractkosten inhuur, materiaal  
 
-–administratie: salariskosten administratief personeel, contractkosten inhuur, administratie en beheerlasten
+– administratie: salariskosten administratief personeel, contractkosten inhuur, administratie en beheerlasten  
 
-–meubilair: afschrijvings- en exploitatiekosten
+– meubilair: afschrijvings- en exploitatiekosten  
 
-–leermiddelen: afschrijvings- en exploitatiekosten
+– leermiddelen: afschrijvings- en exploitatiekosten  
 
-–huisvesting: afschrijvingskosten/ dotatie onderhoudsvoorziening en exploitatiekosten
+– huisvesting: afschrijvingskosten/ dotatie onderhoudsvoorziening en exploitatiekosten  
 
-–de totale baten: totale baten gewone bedrijfsvoering en financiële batenmet een specificatie voor:
+– de totale baten: totale baten gewone bedrijfsvoering en financiële baten   met een specificatie voor: 
 
-–ouderbijdragen
+– ouderbijdragen  
 
-–sponsoring
+– sponsoring   
 
 ####C. Personeelsgegevens
 
-Voor beleid: Persoonsgegevens Geboortedatum Geslachtsaanduiding PersoneelsnummerArbeidsrelatiegegevens Administratienummer werkgever Datum begin en einde arbeidsverhouding Soort arbeidsverhouding (waaronder vast of tijdelijk) Zij-instroomFunctie, betrekking en salarisgegevens Administratienummer instelling/school (waar te werk gesteld) Betrekkinggegevens, waaronder betrekkingsomvang en de Bevordering Arbeidsparticipatie Ouderen (bapo) in fulltime equivalenten (fte) Functie (code en omschrijving) Functiecategorie Salarisschaal Salarisnummer Bruto salaris Toelagen Ziekte en verlofgegevens
+Voor beleid:  Persoonsgegevens  Geboortedatum  Geslachtsaanduiding  PersoneelsnummerArbeidsrelatiegegevens  Administratienummer werkgever  Datum begin en einde arbeidsverhouding  Soort arbeidsverhouding (waaronder vast of tijdelijk)  Zij-instroomFunctie, betrekking en salarisgegevens  Administratienummer instelling/school (waar te werk gesteld)  Betrekkinggegevens, waaronder betrekkingsomvang en de  Bevordering Arbeidsparticipatie Ouderen (bapo) in fulltime equivalenten (fte)  Functie (code en omschrijving)  Functiecategorie  Salarisschaal  Salarisnummer  Bruto salaris  Toelagen  Ziekte en verlofgegevens 
 

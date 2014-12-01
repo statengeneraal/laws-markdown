@@ -3,7 +3,7 @@
 ##Aanwijzing als werkgever en uitzondering verzekeringsplicht werknemersverzekeringen
 
 De staatssecretaris van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 11, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) (Stb. 1977, 492), [artikel 12, tweede lid, van de Ziektewet](../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) (Stb. 1967, 473), de [artikelen 12, tweede lid](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md), en [111 van de Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) (Stb. 1986, 566) en de [artikelen 2](../../../../../../../../../AMvB/besluit/aanwijzing/gevallen/waarin/arbeidsverhouding/als/dienstbetrekking/etc/BWBR0004090/README.md), [3, tweede lid](../../../../../../../../../AMvB/besluit/aanwijzing/gevallen/waarin/arbeidsverhouding/als/dienstbetrekking/etc/BWBR0004090/README.md), [5, tweede lid, onderdeel b](../../../../../../../../../AMvB/besluit/aanwijzing/gevallen/waarin/arbeidsverhouding/als/dienstbetrekking/etc/BWBR0004090/README.md) en [9, van het koninklijk besluit van 24 december 1986](../../../../../../../../../AMvB/besluit/aanwijzing/gevallen/waarin/arbeidsverhouding/als/dienstbetrekking/etc/BWBR0004090/README.md) (Stb. 1986, 655);
+Gelet op artikel 11, tweede lid, van de Wet op de arbeidsongeschiktheidsverzekering (Stb. 1977, 492), artikel 12, tweede lid, van de Ziektewet (Stb. 1967, 473), de artikelen 12, tweede lid, en 111 van de Werkloosheidswet (Stb. 1986, 566) en de artikelen 2, 3, tweede lid, 5, tweede lid, onderdeel b en 9, van het koninklijk besluit van 24 december 1986 (Stb. 1986, 655);
 
 Gehoord de Sociale Verzekeringsraad;
 
@@ -49,12 +49,12 @@ b. melkvervoer verricht op grond van een vervoersovereenkomst en die daarvoor ee
 a. doorgaans op minder dan drie dagen per week werkzaam is voor een natuurlijk persoon ten behoeve van diens persoonlijke aangelegenheden, tenzij loon wordt verstrekt door degene, door wiens tussenkomst de arbeid wordt verricht;  
 
 b. bij wijze van arbeidstherapie werkzaam is.     
-2.  Artikel 3, eerste lid, van het koninklijk besluit van 24 december 1986, Stb. 1986, 655 vindt, voor zover de [Werkloosheidswet](../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) betreft, geen toepassing ten aanzien van de persoon die: 
+2.  Artikel 3, eerste lid, van het koninklijk besluit van 24 december 1986, Stb. 1986, 655 vindt, voor zover de Werkloosheidswet betreft, geen toepassing ten aanzien van de persoon die: 
 
 a. door tussenkomst of mede door tussenkomst van een supranationale, internationale of buitenlandse organisatie of instelling als stagiaire werkzaam is, indien hij buiten Nederland woont;  
 
 b. door tussenkomst van een openbare of van een van overheidswege gesubsidieerde onderwijsinstelling als stagiaire werkzaam is.     
-3.   Voor de toepassing van de artikelen 3 en 5 van het besluit van 24 december 1986 (Stb. 655) wordt, voorzover het [de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) en de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) betreft, niet als dienstbetrekking beschouwd de arbeidsverhouding van de persoon die werkzaam is om vakbekwaamheid te verwerven, onder wie mede wordt begrepen de persoon, die als leerling van een instelling van onderwijs praktisch werkzaam is, alsmede de persoon die aan een bedrijfsschool opleiding ontvangt.  
+3.   Voor de toepassing van de artikelen 3 en 5 van het besluit van 24 december 1986 (Stb. 655) wordt, voorzover het de Wet op de arbeidsongeschiktheidsverzekering en de Wet werk en inkomen naar arbeidsvermogen betreft, niet als dienstbetrekking beschouwd de arbeidsverhouding van de persoon die werkzaam is om vakbekwaamheid te verwerven, onder wie mede wordt begrepen de persoon, die als leerling van een instelling van onderwijs praktisch werkzaam is, alsmede de persoon die aan een bedrijfsschool opleiding ontvangt.  
 
 ### Artikel 5  
 
@@ -62,11 +62,11 @@ Voor de toepassing van de artikelen 1, 2 en 3 van het besluit van 24 december 19
 
 ### Artikel  5a  
 
-Voor de toepassing van [artikel 5a, eerste lid, van het koninklijk besluit van 24 december 1986](../../../../../../../../../AMvB/besluit/aanwijzing/gevallen/waarin/arbeidsverhouding/als/dienstbetrekking/etc/BWBR0004090/README.md) (Stb. 655) wordt de arbeidsverhouding van degene die als sekswerker persoonlijk arbeid verricht niet als dienstbetrekking beschouwd indien aan de voorwaarden, bedoeld in [artikel 2.2 van de Uitvoeringsregeling loonbelasting 2011](../../../../../../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2011/BWBR0028236/README.md), wordt voldaan. 
+Voor de toepassing van artikel 5a, eerste lid, van het koninklijk besluit van 24 december 1986 (Stb. 655) wordt de arbeidsverhouding van degene die als sekswerker persoonlijk arbeid verricht niet als dienstbetrekking beschouwd indien aan de voorwaarden, bedoeld in artikel 2.2 van de Uitvoeringsregeling loonbelasting 2011, wordt voldaan. 
 
 ### Artikel  5b  
 
-Deze regeling berust mede op [artikel 5a van het koninklijk besluit van 24 december 1986](../../../../../../../../../AMvB/besluit/aanwijzing/gevallen/waarin/arbeidsverhouding/als/dienstbetrekking/etc/BWBR0004090/README.md) (Stb. 655). 
+Deze regeling berust mede op artikel 5a van het koninklijk besluit van 24 december 1986 (Stb. 655). 
 
 ### Artikel  6  
 

@@ -4,7 +4,7 @@
 
 ####Protocol of 1978 relating to the International Convention for the Prevention of Pollution from Ships, 1973
 
-The Parties to the present Protocol, Recognizing the significant contribution which can be made by the [International Convention for the Prevention of Pollution from Ships, 1973](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), to the protection of the marine environment from pollution from ships, Recognizing also the need to improve further the prevention and control of marine pollution from ships, particularly oil tankers, Recognizing further the need for implementing the Regulations for the Prevention of Pollution by Oil contained in [Annex I of that Convention](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) as early and as widely as possible, Acknowledging however the need to defer the application of [Annex II of that Convention](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) until certain technical problems have been satisfactorily resolved, Considering that these objectives may best be achieved by the conclusion of a Protocol relating to the International Convention for the Prevention of Pollution from Ships, 1973,  Have agreed as follows:  
+The Parties to the present Protocol, Recognizing the significant contribution which can be made by the International Convention for the Prevention of Pollution from Ships, 1973, to the protection of the marine environment from pollution from ships, Recognizing also the need to improve further the prevention and control of marine pollution from ships, particularly oil tankers, Recognizing further the need for implementing the Regulations for the Prevention of Pollution by Oil contained in Annex I of that Convention as early and as widely as possible, Acknowledging however the need to defer the application of Annex II of that Convention until certain technical problems have been satisfactorily resolved, Considering that these objectives may best be achieved by the conclusion of a Protocol relating to the International Convention for the Prevention of Pollution from Ships, 1973,  Have agreed as follows:  
 
 ### Article  I  
 
@@ -14,16 +14,16 @@ The Parties to the present Protocol, Recognizing the significant contribution wh
 
 (a) the present Protocol and the Annex hereto which shall constitute an integral part of the present Protocol; and  
 
-(b) the [International Convention for the Prevention of Pollution from Ships, 1973](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) (hereinafter referred to as “the Convention”), subject to the modifications and additions set out in the present Protocol.     
-2.  The provisions of the [Convention](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) and the present Protocol shall be read and interpreted together as one single instrument.   
+(b) the International Convention for the Prevention of Pollution from Ships, 1973 (hereinafter referred to as “the Convention”), subject to the modifications and additions set out in the present Protocol.     
+2.  The provisions of the Convention and the present Protocol shall be read and interpreted together as one single instrument.   
 3.  Every reference to the present Protocol constitutes at the same time a reference to the Annex hereto.  
 
 ### Article  II  
 
-####Implementation of [Annex II of the Convention](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md)
+####Implementation of Annex II of the Convention
 
-1.  Notwithstanding the provisions of [Article 14(1) of the Convention](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), the Parties to the present Protocol agree that they shall not be bound by the provisions of [Annex II of the Convention](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) for a period of three years from the date of entry into force of the present Protocol or for such longer period as may be decided by a two-thirds majority of the Parties to the present Protocol in the Marine Environment Protection Committee (hereinafter referred to as “the Committee”) of the Inter-Governmental Maritime Consultative Organization (hereinafter referred to as “the Organization”).   
-2.  During the period specified in paragraph 1 of this Article, the Parties to the present Protocol shall not be under any obligations nor entitled to claim any privileges under the [Convention](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) in respect of matters relating to [Annex II of the Convention](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) and all reference to Parties in the Convention shall not include the Parties to the present Protocol in so far as matters relating to that Annex are concerned.  
+1.  Notwithstanding the provisions of Article 14(1) of the Convention, the Parties to the present Protocol agree that they shall not be bound by the provisions of Annex II of the Convention for a period of three years from the date of entry into force of the present Protocol or for such longer period as may be decided by a two-thirds majority of the Parties to the present Protocol in the Marine Environment Protection Committee (hereinafter referred to as “the Committee”) of the Inter-Governmental Maritime Consultative Organization (hereinafter referred to as “the Organization”).   
+2.  During the period specified in paragraph 1 of this Article, the Parties to the present Protocol shall not be under any obligations nor entitled to claim any privileges under the Convention in respect of matters relating to Annex II of the Convention and all reference to Parties in the Convention shall not include the Parties to the present Protocol in so far as matters relating to that Annex are concerned.  
 
 ### Article  III  
 
@@ -50,13 +50,13 @@ Wijzigt het Internationaal Verdrag ter voorkoming van verontreiniging door schep
 
 1.  The present Protocol shall enter into force twelve months after the date on which not less than fifteen States, the combined merchant fleets of which constitute not less than fifty per cent of the gross tonnage of the world's merchant shipping, have become Parties to it in accordance with Article IV of the present Protocol.   
 2.  Any instrument of ratification, acceptance, approval or accession deposited after the date on which the present Protocol enters into force shall take effect three months after the date of deposit.   
-3.  After the date on which an amendment to the present Protocol is deemed to have been accepted in accordance with [Article 16 of the Convention](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), any instrument of ratification, acceptance, approval or accession deposited shall apply to the present Protocol as amended.  
+3.  After the date on which an amendment to the present Protocol is deemed to have been accepted in accordance with Article 16 of the Convention, any instrument of ratification, acceptance, approval or accession deposited shall apply to the present Protocol as amended.  
 
 ### Article  VI  
 
 ####Amendments
 
-The procedures set out in [Article 16 of the Convention](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) in respect of amendments to the Articles, an Annex and an Appendix to an Annex of the Convention shall apply respectively to amendments to the Articles, the Annex and an Appendix to the Annex of the present Protocol. 
+The procedures set out in Article 16 of the Convention in respect of amendments to the Articles, an Annex and an Appendix to an Annex of the Convention shall apply respectively to amendments to the Articles, the Annex and an Appendix to the Annex of the present Protocol. 
 
 ### Article  VII  
 
@@ -84,7 +84,7 @@ The procedures set out in [Article 16 of the Convention](../../../../../verdrag/
 (iv) any decision made in accordance with Article 11(1) of the present Protocol;    
 
 (b) transmit certified true copies of the present Protocol to all States which have signed the present Protocol or acceded thereto.     
-3.  As soon as the present Protocol enters into force, a certified true copy thereof shall be transmitted by the Depositary to the Secretariat of the United Nations for registration and publication in accordance with [Article 102 of the Charter of the United Nations](../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).  
+3.  As soon as the present Protocol enters into force, a certified true copy thereof shall be transmitted by the Depositary to the Secretariat of the United Nations for registration and publication in accordance with Article 102 of the Charter of the United Nations.  
 
 ### Article  IX  
 
@@ -102,7 +102,7 @@ Wijzigt het Internationaal Verdrag ter voorkoming van verontreiniging door schep
 
 ####Protocol van 1978 bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973
 
-De partijen bij dit Protocol, Erkennend dat het [Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), aanzienlijk kan bijdragen tot de bescherming van het mariene milieu tegen verontreiniging door schepen, Tevens erkennend de noodzaak om het voorkomen en het bestrijden van verontreiniging van de zee door schepen, in het bijzonder door olietankschepen, verder te verbeteren, Voorts erkennend de noodzaak om zo spoedig mogelijk en op een zo ruim mogelijke schaal uitvoering te geven aan de in [Bijlage I bij bedoeld Verdrag](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) vervatte voorschriften ter voorkoming van verontreiniging door olie, Evenwel inziend de noodzaak om de toepassing van [Bijlage II bij bedoeld Verdrag](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) uit te stellen totdat bepaalde technische problemen op bevredigende wijze zijn opgelost, Overwegend dat dit doel het best kan worden bereikt door het sluiten van een Protocol bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973,  Zijn overeengekomen als volgt:  
+De partijen bij dit Protocol, Erkennend dat het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, aanzienlijk kan bijdragen tot de bescherming van het mariene milieu tegen verontreiniging door schepen, Tevens erkennend de noodzaak om het voorkomen en het bestrijden van verontreiniging van de zee door schepen, in het bijzonder door olietankschepen, verder te verbeteren, Voorts erkennend de noodzaak om zo spoedig mogelijk en op een zo ruim mogelijke schaal uitvoering te geven aan de in Bijlage I bij bedoeld Verdrag vervatte voorschriften ter voorkoming van verontreiniging door olie, Evenwel inziend de noodzaak om de toepassing van Bijlage II bij bedoeld Verdrag uit te stellen totdat bepaalde technische problemen op bevredigende wijze zijn opgelost, Overwegend dat dit doel het best kan worden bereikt door het sluiten van een Protocol bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973,  Zijn overeengekomen als volgt:  
 
 ### Artikel  I  
 
@@ -112,16 +112,16 @@ De partijen bij dit Protocol, Erkennend dat het [Internationaal Verdrag ter voor
 
 (a) dit Protocol en de Bijlage daarbij, die een integrerend deel van dit Protocol vormt; en  
 
-(b) het [Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) (hierna te noemen „het Verdrag”), behoudens de wijzigingen en aanvullingen vermeld in dit Protocol.     
-2.  De bepalingen van het [Verdrag](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) en dit Protocol worden te zamen beschouwd en uitgelegd als een en dezelfde akte.   
+(b) het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973 (hierna te noemen „het Verdrag”), behoudens de wijzigingen en aanvullingen vermeld in dit Protocol.     
+2.  De bepalingen van het Verdrag en dit Protocol worden te zamen beschouwd en uitgelegd als een en dezelfde akte.   
 3.  Iedere verwijzing naar dit Protocol vormt tevens een verwijzing naar de Bijlage daarbij.  
 
 ### Artikel  II  
 
-####Uitvoering van [Bijlage II bij het Verdrag](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md)
+####Uitvoering van Bijlage II bij het Verdrag
 
-1.  Niettegenstaande het bepaalde in [artikel 14, eerste lid, van het Verdrag](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) komen de Partijen bij dit Protocol overeen dat zij door de bepalingen van [Bijlage II bij het Verdrag](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) niet zijn gebonden gedurende een tijdvak van drie jaar te rekenen van de datum van inwerkingtreding van dit Protocol of gedurende een langer tijdvak waartoe mocht worden besloten door een twee derde meerderheid van de Partijen bij dit Protocol in de Commissie voor de bescherming van het mariene milieu (hierna te noemen „de Commissie”) van de Intergouvernementele Maritieme Consultatieve Organisatie (hierna te noemen „de Organisatie”).   
-2.  Gedurende het tijdvak bepaald in het eerste lid van dit artikel zijn de Partijen bij dit Protocol noch gebonden door verplichtingen, noch gerechtigd aanspraak te maken op voorrechten krachtens het [Verdrag](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) ten aanzien van kwesties verband houdend met [Bijlage II bij het Verdrag](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) en heeft iedere in het Verdrag voorkomende verwijzing naar de Partijen niet betrekking op de Partijen bij dit Protocol voor zover het kwesties betreft die verband houden met bedoelde Bijlage.  
+1.  Niettegenstaande het bepaalde in artikel 14, eerste lid, van het Verdrag komen de Partijen bij dit Protocol overeen dat zij door de bepalingen van Bijlage II bij het Verdrag niet zijn gebonden gedurende een tijdvak van drie jaar te rekenen van de datum van inwerkingtreding van dit Protocol of gedurende een langer tijdvak waartoe mocht worden besloten door een twee derde meerderheid van de Partijen bij dit Protocol in de Commissie voor de bescherming van het mariene milieu (hierna te noemen „de Commissie”) van de Intergouvernementele Maritieme Consultatieve Organisatie (hierna te noemen „de Organisatie”).   
+2.  Gedurende het tijdvak bepaald in het eerste lid van dit artikel zijn de Partijen bij dit Protocol noch gebonden door verplichtingen, noch gerechtigd aanspraak te maken op voorrechten krachtens het Verdrag ten aanzien van kwesties verband houdend met Bijlage II bij het Verdrag en heeft iedere in het Verdrag voorkomende verwijzing naar de Partijen niet betrekking op de Partijen bij dit Protocol voor zover het kwesties betreft die verband houden met bedoelde Bijlage.  
 
 ### Artikel  III  
 
@@ -148,13 +148,13 @@ Wijzigt het Internationaal Verdrag ter voorkoming van verontreiniging door schep
 
 1.  Dit Protocol treedt in werking twaalf maanden na de datum waarop niet minder dan vijftien Staten waarvan de koopvaardijvloten te zamen ten minste vijftig procent vormen van de bruto tonnage van de wereldkoopvaardijvloot, Partij bij dit Protocol zijn geworden overeenkomstig artikel IV van dit Protocol.   
 2.  Iedere akte van bekrachtiging, aanvaarding, goedkeuring of toetreding nedergelegd na de datum waarop dit Protocol in werking treedt, wordt van kracht drie maanden na de datum van nederlegging.   
-3.  Na de datum waarop een wijziging op dit Protocol wordt geacht te zijn aanvaard overeenkomstig [artikel 16 van het Verdrag](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md), heeft iedere nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding betrekking op dit Protocol zoals gewijzigd.  
+3.  Na de datum waarop een wijziging op dit Protocol wordt geacht te zijn aanvaard overeenkomstig artikel 16 van het Verdrag, heeft iedere nedergelegde akte van bekrachtiging, aanvaarding, goedkeuring of toetreding betrekking op dit Protocol zoals gewijzigd.  
 
 ### Artikel  VI  
 
 ####Wijzigingen
 
-De procedures bepaald in [artikel 16 van het Verdrag](../../../../../verdrag/international/convention/for/the/prevention/of/pollution/from/ships/1973/BWBV0003241/README.md) ten aanzien van wijzigingen van de artikelen van het Verdrag, van een Bijlage en van een Aanhangsel van een Bijlage bij het Verdrag gelden respectievelijk voor de wijzigingen van de artikelen van dit Protocol, van de Bijlage en van een Aanhangsel van de Bijlage bij dit Protocol. 
+De procedures bepaald in artikel 16 van het Verdrag ten aanzien van wijzigingen van de artikelen van het Verdrag, van een Bijlage en van een Aanhangsel van een Bijlage bij het Verdrag gelden respectievelijk voor de wijzigingen van de artikelen van dit Protocol, van de Bijlage en van een Aanhangsel van de Bijlage bij dit Protocol. 
 
 ### Artikel  VII  
 
@@ -182,7 +182,7 @@ De procedures bepaald in [artikel 16 van het Verdrag](../../../../../verdrag/int
 (iv) ieder besluit genomen overeenkomstig artikel II, eerste lid, van dit Protocol;    
 
 (b) zendt voor eensluidend gewaarmerkte afschriften van dit Protocol aan alle Staten die het Protocol hebben ondertekend of daartoe zijn toegetreden.     
-3.  Zodra dit Protocol in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift door de depositaris toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie, overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).  
+3.  Zodra dit Protocol in werking treedt, wordt een voor eensluidend gewaarmerkt afschrift door de depositaris toegezonden aan het Secretariaat van de Verenigde Naties ter registratie en publikatie, overeenkomstig artikel 102 van het Handvest der Verenigde Naties.  
 
 ### Artikel  IX  
 

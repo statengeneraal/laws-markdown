@@ -33,7 +33,7 @@ g.  *zelfstandige:* persoon die voor de voorziening in het bestaan is aangewezen
 
 2˚. met ingang van 1 augustus 2004 rechtmatig een bedrijf of beroep in Nederland heeft uitgeoefend.       
 2.  Onder zelfstandige als bedoeld in het eerste lid, onderdeel g, wordt mede verstaan een gewezen zelfstandige als bedoeld in artikel 2, derde en vierde lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
-3.  Op deze regeling zijn van overeenkomstige toepassing artikel 1, eerste tot en met zesde lid, en het achtste en negende lid, van de AOW en het Besluit aanwijzing registraties gezamenlijke huishouding 1998.  
+3.  Op deze regeling zijn van overeenkomstige toepassing artikel 1 van de AOW en het Besluit aanwijzing registraties gezamenlijke huishouding 1998.  
 
 ### Artikel  2  
 
