@@ -468,7 +468,7 @@ De uitkeringsgerechtigde, diens wettelijke vertegenwoordiger en de persoon aan w
 ### Artikel  41  
 
 1.  Alle ambtenaren, tot afgifte van uittreksels uit registers van de burgerlijke stand bevoegd, zijn verplicht aan de Raad of de Sociale verzekeringsbank de door deze gevraagde uittreksels uit de registers kosteloos toe te zenden.    
-2.   De gemeentebesturen zijn verplicht aan de Raad of de Sociale verzekeringsbank de door deze gevraagde inlichtingen uit de basisregistratie personen persoonsgegevens kosteloos toe te zenden.   
+2.   De gemeentebesturen zijn verplicht aan de Raad of de Sociale verzekeringsbank de door deze gevraagde inlichtingen uit de basisregistratie personen kosteloos toe te zenden.   
 
 ### Hoofdstuk  VII  
 

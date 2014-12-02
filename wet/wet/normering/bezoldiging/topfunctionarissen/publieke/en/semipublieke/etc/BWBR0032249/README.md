@@ -76,7 +76,9 @@ m. *gelieerde rechtspersoon:* andere dan krachtens publiekrecht ingestelde recht
 
 2°. waarin een orgaan of functionaris van een in de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, opgenomen rechtspersoon namens de rechtspersoon een of meer leden in het bestuur benoemt of op andere wijze invloed heeft op het beheer of beleid;    
 
-n. *Onze minister wie het aangaat:*
+n. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties; 
+
+o. *Onze minister wie het aangaat:*
 
 1°. ten aanzien van de rechtspersonen, bedoeld in artikel 1.2, eerste lid: Onze minister, dan wel, ten aanzien van de zelfstandige bestuursorganen zonder rechtspersoonlijkheid, de openbare lichamen, bedoeld in artikel 1.2, eerste lid, onderdelen e en f, onderscheidenlijk de rechtspersonen, bedoeld in artikel 1.2, eerste lid, onderdeel h, Onze minister op wiens beleidsterrein het zelfstandig bestuursorgaan, het openbaar lichaam, het andere lichaam of de rechtspersoon werkzaam is, of, ten aanzien van een openbaar lichaam ingesteld op grond van de Wet gemeenschappelijke regelingen: Onze minister;  
 
@@ -88,9 +90,7 @@ n. *Onze minister wie het aangaat:*
 
 5°. ten aanzien van de rechtspersonen en instellingen, bedoeld in de artikelen 1.3, eerste lid, onderdeel d, 1.4, eerste lid en artikel 1.5, eerste lid: Onze minister die belast is met de leiding van het in de bijlage aangegeven ministerie;  
 
-6°. ten aanzien van de rechtspersonen, bedoeld in artikel 1.3, eerste lid, onderdeel e: Onze minister van Onderwijs, Cultuur en Wetenschap;   
-
-n. *Onze Minister:* Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
+6°. ten aanzien van de rechtspersonen, bedoeld in artikel 1.3, eerste lid, onderdeel e: Onze minister van Onderwijs, Cultuur en Wetenschap.     
 
 ### Artikel  1.2  
 

@@ -166,7 +166,7 @@ c. het verschil in behandeling door een legitiem doel wordt gerechtvaardigd en d
 
 ### Artikel  8  
 
-1.  Beëindiging van de arbeidsverhouding door de werkgever in strijd met artikel 5, wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op artikel 5 of terzake bijstand heeft verleend, is vernietigbaar.   
+1.  Beëindiging van de arbeidsverhouding door de werkgever in strijd met artikel 5 of wegens de omstandigheid dat de werknemer in of buiten rechte een beroep heeft gedaan op artikel 5 of terzake bijstand heeft verleend, is vernietigbaar.   
 2.  Onverminderd hoofdstuk 8 van de Algemene wet bestuursrecht, vervalt twee maanden na de beëindiging van de arbeidsverhouding de bevoegdheid van de werknemer een beroep te doen op de vernietigingsgrond, bedoeld in het eerste lid. Het beroep op de vernietigingsgrond geschiedt door kennisgeving aan de werkgever. Artikel 55 van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.    
 3.  Een rechtsvordering in verband met de vernietiging verjaart door verloop van zes maanden na de dag waarop de arbeidsverhouding is geëindigd.   
 4. De beëindiging, bedoeld in het eerste lid, maakt de werkgever niet schadeplichtig.

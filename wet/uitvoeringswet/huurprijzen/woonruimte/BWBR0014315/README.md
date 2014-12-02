@@ -238,7 +238,7 @@ Voor het door de huurcommissie uitbrengen van een advies als bedoeld in artikel 
 
 a. hoger is dan € 34.085 doch lager is dan of gelijk is aan € 43.602, of  
 
-b. hoger is dan € 43.602,   en of die woonruimte een zelfstandige woning vormt. Het huurverhogingspercentage, bedoeld in de eerste volzin, aanhef, is ten aanzien van de onderdelen a en b niet hoger dan het basishuurverhogingspercentage plus 0,5 procentpunt onderscheidenlijk het basishuurverhogingspercentage plus 2,5 procentpunt. De bedragen, genoemd in artikel 1, eerste lid, onderdeel a, en de eerste volzin, worden met ingang van 1 januari van elk jaar, voor het eerst op 1 januari 2014, gewijzigd overeenkomstig de wijziging per 1 januari van het peiljaar van het bedrag, genoemd in artikel 18, eerste lid, onderdeel d, van de Wet op de huurtoeslag.  
+b. hoger is dan € 43.602,   en of die woonruimte een zelfstandige woning vormt. Het huurverhogingspercentage, bedoeld in de eerste volzin, aanhef, is ten aanzien van de onderdelen a en b niet hoger dan het basishuurverhogingspercentage plus 0,5 procentpunt onderscheidenlijk het basishuurverhogingspercentage plus 2,5 procentpunt. Bij ministeriële regeling worden de bedragen, genoemd in artikel 1, eerste lid, onderdeel a, en de eerste volzin, met ingang van 1 januari van elk jaar, voor het eerst op 1 januari 2014, gewijzigd met het percentage waarmee per 1 januari van het peiljaar het bedrag, genoemd in artikel 18, eerste lid, onderdeel d, van de Wet op de huurtoeslag is gewijzigd.  
 
 ### §  2  
 
@@ -369,7 +369,7 @@ b. die verhuurder de beslissing tot afwijking van dat advies niet heeft onderbou
 
 ####Bescherming van persoonsgegevens
 
-### Artikel  19a*  
+### Artikel  19b  
 
 1.  De verhuurder gebruikt de gegevens, die overeenkomstig artikel 7:252a, vierde lid, van het Burgerlijk Wetboek worden verstrekt, uitsluitend voor het doen van een voorstel tot verhoging van de huurprijs als bedoeld in het eerste lid van dat artikel.   
 2.  De betrokken gegevens, bedoeld in het eerste lid, worden bewaard totdat op het betrokken voorstel, bedoeld in artikel 7:252a, eerste lid, van het Burgerlijk Wetboek, onherroepelijk is beslist of de voorgestelde verhoging van de huurprijs geacht wordt te zijn overeengekomen.   

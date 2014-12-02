@@ -6,7 +6,7 @@ Wij Juliana, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw en Visserij van 19 augustus 1975, No. J 1815, Directie Juridische en Bedrijfsorganisatorische Zaken;
 
-Gelet op [artikel 53, tweede lid, van de Visserijwet 1963](../../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md);
+Gelet op artikel 53, tweede lid, van de Visserijwet 1963;
 
 De Raad van State gehoord (advies van 3 september 1975, no. 19);
 

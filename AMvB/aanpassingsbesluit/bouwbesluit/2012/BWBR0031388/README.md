@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 19 januari, nr. 2012-0000022317, CZW;
 
-Gelet op [artikel 16, eerste en tweede lid, van de Arbeidsomstandighedenwet](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [artikel 2.1, eerste lid, onder d, en derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), [artikel 2.4, eerste lid, van de Crisis- en Herstelwet](../../../../../wet/crisis-/en/herstelwet/BWBR0027431/README.md), [artikel 10 van de Drank- en Horecawet](../../../../../wet/drank-/en/horecawet/BWBR0002458/README.md), [artikel 28, eerste lid, van de Drinkwaterwet](../../../../../wet/drinkwaterwet/BWBR0026338/README.md), [artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), de [artikelen 108](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), [110](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), [114a](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), [130](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) en [174 van de Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md), de [artikelen 8.1a](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [10.12, eerste en tweede lid, van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), de [artikelen 8.40](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [8.42 van de Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en de [artikelen 8, achtste lid](../../../../../wet/woningwet/BWBR0005181/README.md), [120](../../../../../wet/woningwet/BWBR0005181/README.md) en [120a van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md);
+Gelet op artikel 16, eerste en tweede lid, van de Arbeidsomstandighedenwet, artikel 2.1, eerste lid, onder d, en derde lid, van de Wet algemene bepalingen omgevingsrecht, artikel 2.4, eerste lid, van de Crisis- en Herstelwet, artikel 10 van de Drank- en Horecawet, artikel 28, eerste lid, van de Drinkwaterwet, artikel 10, eerste lid, van de Uitvoeringswet huurprijzen woonruimte, de artikelen 108, 110, 114a, 130 en 174 van de Wet geluidhinder, de artikelen 8.1a en 10.12, eerste en tweede lid, van de Wet luchtvaart, de artikelen 8.40 en 8.42 van de Wet milieubeheer en de artikelen 8, achtste lid, 120 en 120a van de Woningwet;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 25 januari 2012, nr. W04.12.0020/I);
 
@@ -131,8 +131,8 @@ Materieel uitgewerkt per 01-04-2014
 ### Artikel  1  
 Materieel uitgewerkt per 01-04-2014 
 
-1.  Dit besluit treedt, met uitzondering van hoofdstuk 1, artikel 1, en hoofdstuk 3, de artikelen 2, 3, 9 en 10, in werking op het tijdstip bedoeld in [artikel 9.4, eerste lid, van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md).   
-2.  Hoofdstuk 1, artikel 1, treedt in werking op het tijdstip dat [artikel 5.2 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) in werking treedt.   
+1.  Dit besluit treedt, met uitzondering van hoofdstuk 1, artikel 1, en hoofdstuk 3, de artikelen 2, 3, 9 en 10, in werking op het tijdstip bedoeld in artikel 9.4, eerste lid, van het Bouwbesluit 2012.   
+2.  Hoofdstuk 1, artikel 1, treedt in werking op het tijdstip dat artikel 5.2 van het Bouwbesluit 2012 in werking treedt.   
 3.  Hoofdstuk 3, de artikelen 2, 3, 9 en 10, treedt in werking vier weken na de datum van uitgifte van het staatsblad waarin dit besluit wordt geplaatst.  
 
 ### Artikel  2  

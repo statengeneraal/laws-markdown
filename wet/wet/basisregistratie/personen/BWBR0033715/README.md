@@ -215,7 +215,7 @@ De inschrijving in de basisregistratie geschiedt op grond van de geboorteakte, d
 
 ### Artikel  2.3  
 
-Op grond van de geboorteakte, opgemaakt door een ambtenaar van de burgerlijke stand in Nederland, waarop als geboorteplaats een plaats in Nederland is vermeld, geschiedt de inschrijving van het kind dat niet reeds is ingeschreven en waarvan de moeder op de geboortedatum van het kind als ingezetene is ingeschreven. De inschrijving geschiedt door het college van burgemeester en wethouders van de gemeente waar de moeder als ingezetene is ingeschreven. 
+Op grond van de geboorteakte, opgemaakt door een ambtenaar van de burgerlijke stand in Nederland, waarop als geboorteplaats een plaats in Nederland is vermeld, geschiedt de inschrijving van het kind dat niet reeds is ingeschreven en waarvan de moeder uit wie het kind is geboren op de geboortedatum van het kind als ingezetene is ingeschreven. De inschrijving geschiedt door het college van burgemeester en wethouders van de gemeente waar die moeder als ingezetene is ingeschreven. 
 
 ### Artikel  2.4  
 
@@ -355,7 +355,7 @@ Bij de inschrijving van een vreemdeling op grond van artikel 2.4, worden gegeven
 
 ### Artikel  2.18  
 
-Bij de inschrijving op grond van artikel 2.3 worden de gegevens omtrent het adres ontleend aan de persoonslijst van de moeder. Als datum van inschrijving wordt de geboortedatum opgenomen. 
+Bij de inschrijving op grond van artikel 2.3 worden de gegevens omtrent het adres ontleend aan de persoonslijst van de moeder uit wie het kind is geboren. Als datum van inschrijving wordt de geboortedatum opgenomen. 
 
 ### Artikel  2.19  
 
@@ -480,7 +480,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met
 
 1.  Degene die naar redelijke verwachting gedurende een half jaar ten minste twee derde van de tijd in Nederland verblijf zal houden, meldt zich uiterlijk op de vijfde dag na de aanvang van zijn verblijf in persoon bij het college van burgemeester en wethouders van de gemeente waar hij zijn woonadres heeft om daarbij schriftelijk aangifte van verblijf en adres te doen. Indien hij geen woonadres heeft, kiest hij een briefadres en meldt hij zich binnen de gestelde termijn bij het college van burgemeester en wethouders van de gemeente waar hij zijn briefadres heeft om de bedoelde aangifte te doen.   
 2.  Hij doet in de aangifte mededeling van de gegevens over zijn toekomstig verblijf in Nederland, over zijn adres in de gemeente en over het vorige verblijf buiten Nederland.   
-3.  Hij geeft bij de aangifte de inlichtingen en overlegt de geschriften ter zake van feiten betreffende zijn burgerlijke staat, zijn nationaliteit en zijn eerder verblijf in Nederland, die noodzakelijk zijn voor de bijhouding met betrekking tot hem van de basisregistratie. Op verzoek van het college van burgemeester en wethouders legt hij van een geschrift een door een beëdigde vertaler vervaardigde Nederlandse vertaling over. Indien hij zich in Nederland vestigt, komende vanuit Aruba, Curaçao, Sint Maarten of een van de openbare lichamen, overlegt hij een hem betreffend verhuisbericht, verstrekt door de verantwoordelijke voor de verwerking van gegevens in de basisadministratie in Aruba, Curaçao, Sint Maarten of een van de openbare lichamen, waar hij laatstelijk als ingezetene was ingeschreven.   
+3.  Hij geeft bij de aangifte de inlichtingen en legt de geschriften over ter zake van feiten betreffende zijn burgerlijke staat, zijn nationaliteit en zijn eerder verblijf in Nederland, die noodzakelijk zijn voor de bijhouding met betrekking tot hem van de basisregistratie. Op verzoek van het college van burgemeester en wethouders legt hij van een geschrift een door een beëdigde vertaler vervaardigde Nederlandse vertaling over. Indien hij zich in Nederland vestigt, komende vanuit Aruba, Curaçao, Sint Maarten of een van de openbare lichamen, legt hij een hem betreffend verhuisbericht over, verstrekt door de verantwoordelijke voor de verwerking van gegevens in de basisadministratie in Aruba, Curaçao, Sint Maarten of een van de openbare lichamen, waar hij laatstelijk als ingezetene was ingeschreven.   
 4.  Degene die naar redelijke verwachting gedurende een half jaar ten minste twee derde van de tijd in Nederland verblijf zal houden, doet aangifte van verblijf en adres overeenkomstig het eerste tot en met het derde lid, op het moment dat hij ophoudt te behoren tot een categorie als bedoeld in artikel 2.6.   
 5.  In een geval als bedoeld in het vierde lid vangt de in het eerste lid bedoelde termijn van vijf dagen aan met ingang van de dag na die waarop een in dat lid bedoelde situatie is ingetreden.   
 6.  Aangifte van verblijf en adres blijft achterwege indien: 
@@ -538,23 +538,23 @@ b. niet voor alle ingezetenen met hetzelfde woonadres de verplichting, bedoeld i
 
 ### Artikel  2.44  
 
-De ingezetene brengt alle feiten betreffende zijn burgerlijke staat en nationaliteit die zich buiten Nederland hebben voorgedaan, zo spoedig mogelijk ter kennis aan het college van burgemeester en wethouders. Hij verstrekt aan het college, desgevraagd in persoon, de inlichtingen en overlegt de geschriften die noodzakelijk zijn voor de bijhouding met betrekking tot hem van de basisregistratie. Op verzoek van het college legt hij van een geschrift een door een beëdigde vertaler vervaardigde Nederlandse vertaling over. 
+De ingezetene brengt alle feiten betreffende zijn burgerlijke staat en nationaliteit die zich buiten Nederland hebben voorgedaan, zo spoedig mogelijk ter kennis aan het college van burgemeester en wethouders. Hij verstrekt aan het college, desgevraagd in persoon, de inlichtingen en legt de geschriften over die noodzakelijk zijn voor de bijhouding met betrekking tot hem van de basisregistratie. Op verzoek van het college legt hij van een geschrift een door een beëdigde vertaler vervaardigde Nederlandse vertaling over. 
 
 ### Artikel  2.45  
 
 1.  Degene die aangifte heeft gedaan als bedoeld in de artikelen 2.38 tot en met 2.40 en artikel 2.43, geeft op verzoek van het college van burgemeester en wethouders de inlichtingen ter zake van zijn aangifte die van belang zijn voor de bijhouding met betrekking tot hem van de basisregistratie. Deze verplichting is van overeenkomstige toepassing ten aanzien van het overleggen van geschriften. De betrokkene verschijnt hierbij desgevraagd in persoon.   
 2.  In de aangifte van een briefadres worden de redenen voor de aangifte van een briefadres medegedeeld. Bij de aangifte wordt een schriftelijke verklaring van instemming gevoegd van de briefadresgever.   
 3.  De briefadresgever draagt zorg dat voor de houder van het briefadres bestemde geschriften of inlichtingen daarover, aan hem worden doorgegeven of medegedeeld.   
-4.  De briefadresgever verstrekt op verzoek van het college van burgemeester en wethouders, desgevraagd in persoon, ter zake van dat briefadres de inlichtingen en overlegt de geschriften die noodzakelijk zijn voor de bijhouding van de basisregistratie.   
+4.  De briefadresgever verstrekt op verzoek van het college van burgemeester en wethouders, desgevraagd in persoon, ter zake van dat briefadres de inlichtingen en legt de geschriften over die noodzakelijk zijn voor de bijhouding van de basisregistratie.   
 5.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld omtrent de toepassing van het eerste tot en met vierde lid.  
 
 ### Artikel  2.46  
 
-De ingezetene verstrekt op verzoek van het college van burgemeester en wethouders over feiten betreffende zijn burgerlijke staat en nationaliteit, desgevraagd in persoon, de inlichtingen en overlegt de geschriften die noodzakelijk zijn voor de bijhouding van de basisregistratie. Op verzoek van het college van burgemeester en wethouders legt hij van een geschrift een door een beëdigde vertaler vervaardigde Nederlandse vertaling over. 
+De ingezetene verstrekt op verzoek van het college van burgemeester en wethouders over feiten betreffende zijn burgerlijke staat en nationaliteit, desgevraagd in persoon, de inlichtingen en legt de geschriften over die noodzakelijk zijn voor de bijhouding van de basisregistratie. Op verzoek van het college van burgemeester en wethouders legt hij van een geschrift een door een beëdigde vertaler vervaardigde Nederlandse vertaling over. 
 
 ### Artikel  2.47  
 
-Degene ten aanzien van wie het college van burgemeester en wethouders het redelijke vermoeden heeft dat hij in gebreke is met het doen van een aangifte als bedoeld in de artikelen 2.38 tot en met 2.43, verstrekt op verzoek van het college van burgemeester en wethouders, desgevraagd in persoon, binnen een door het college in het verzoek te noemen termijn, ter zake de inlichtingen en overlegt de geschriften die noodzakelijk zijn voor de bijhouding met betrekking tot hem van de basisregistratie. 
+Degene ten aanzien van wie het college van burgemeester en wethouders het redelijke vermoeden heeft dat hij in gebreke is met het doen van een aangifte als bedoeld in de artikelen 2.38 tot en met 2.43, verstrekt op verzoek van het college van burgemeester en wethouders, desgevraagd in persoon, binnen een door het college in het verzoek te noemen termijn, ter zake de inlichtingen en legt de geschriften over die noodzakelijk zijn voor de bijhouding met betrekking tot hem van de basisregistratie. 
 
 ### Artikel  2.48  
 
@@ -592,12 +592,12 @@ Het hoofd van een instelling of bedrijf waar personen verblijf plegen te houden,
 
 ### Artikel  2.51  
 
-De echtgenoot, de geregistreerde partner en andere nabestaanden tot en met de tweede graad van een ingezetene die in het buitenland is overleden, verstrekken op verzoek van het college van burgemeester en wethouders van de gemeente waar betrokkene is ingeschreven, aan het college, voor zover mogelijk, de inlichtingen over dat overlijden en overleggen de geschriften die noodzakelijk zijn voor de bijhouding van de basisregistratie. 
+De echtgenoot, de geregistreerde partner en andere nabestaanden tot en met de tweede graad van een ingezetene die in het buitenland is overleden, verstrekken op verzoek van het college van burgemeester en wethouders van de gemeente waar betrokkene is ingeschreven, aan het college, voor zover mogelijk, de inlichtingen over dat overlijden en leggen de geschriften over die noodzakelijk zijn voor de bijhouding van de basisregistratie. 
 
 ### Artikel  2.52  
 
-1.  Degene die ter uitvoering van ingevolge deze paragraaf op hem rustende verplichtingen in persoon bij het college van burgemeester en wethouders verschijnt, overlegt desgevraagd met het oog op de vaststelling van zijn identiteit een op hem betrekking hebbend document als bedoeld in artikel 1 van de Wet op de identificatieplicht.   
-2.  De in artikel 2.48 bedoelde ouders, voogden, verzorgers en curatoren van minderjarigen of onder curatele gestelden, laten desgevraagd de minderjarige of de onder curatele gestelde met het oog op de vaststelling van de identiteit verschijnen bij het college van burgemeester en wethouders en overleggen desgevraagd een op hem betrekking hebbend document als bedoeld in het eerste lid.  
+1.  Degene die ter uitvoering van ingevolge deze paragraaf op hem rustende verplichtingen in persoon bij het college van burgemeester en wethouders verschijnt, legt desgevraagd met het oog op de vaststelling van zijn identiteit een op hem betrekking hebbend document als bedoeld in artikel 1 van de Wet op de identificatieplicht over.   
+2.  De in artikel 2.48 bedoelde ouders, voogden, verzorgers en curatoren van minderjarigen of onder curatele gestelden, laten desgevraagd de minderjarige of de onder curatele gestelde met het oog op de vaststelling van de identiteit verschijnen bij het college van burgemeester en wethouders en leggen desgevraagd een op hem betrekking hebbend document als bedoeld in het eerste lid over.  
 
 ### §  6  
 
@@ -734,7 +734,7 @@ Bij algemene maatregel van bestuur kunnen bestuursorganen worden aangewezen die 
 ### Artikel  2.67  
 
 1.  Eenieder kan Onze Minister verzoeken hem in te schrijven in de basisregistratie.   
-2.  Bij zijn verzoek overlegt de betrokkene ten minste de bij of krachtens algemene maatregel van bestuur aangewezen bescheiden ten behoeve van een juiste inschrijving.   
+2.  Bij zijn verzoek legt de betrokkene ten minste de bij of krachtens algemene maatregel van bestuur aangewezen bescheiden ten behoeve van een juiste inschrijving over.   
 3.  Onze Minister gaat niet over tot inschrijving dan nadat de betrokkene ten behoeve van de vaststelling van zijn identiteit in persoon bij de inschrijfvoorziening is verschenen. Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke gevallen van de verschijning in persoon kan worden afgezien.   
 4.  Onze Minister gaat niet over tot inschrijving dan nadat de identiteit van de betrokkene deugdelijk is vastgesteld.   
 5.  Onze Minister gaat niet over tot inschrijving als de betrokkene op grond van de eerste afdeling van dit hoofdstuk voor inschrijving in aanmerking komt.  
@@ -923,7 +923,7 @@ c. de verstrekking in overeenstemming is met het tweede lid.
 
 ### Artikel  3.7  
 
-1.  Deze paragraaf is van toepassing op de verstrekking van gegevens uit de basisregistratie door het college van burgemeester van wethouders, anders dan de verstrekking, bedoeld in paragraaf 2.   
+1.  Deze paragraaf is van toepassing op de verstrekking van gegevens uit de basisregistratie door het college van burgemeester en wethouders, anders dan de verstrekking, bedoeld in paragraaf 2.   
 2.  Krachtens deze paragraaf worden uitsluitend gegevens verstrekt over ingeschrevenen ten aanzien van wie het college op grond van artikel 1.4 verantwoordelijk is voor de bijhouding van de persoonslijst.  
 
 ### Artikel  3.8  
@@ -1104,7 +1104,7 @@ Onze Minister, of het in artikel 4.5, tweede lid, bedoelde college van burgemees
 
 ### Artikel  4.7  
 
-1.  Er is een centraal archief van overledenen, bestaande uit de persoonskaarten, bedoeld in het Besluit bevolkingsboekhouding.   
+1.  Er is een centraal archief van overledenen, bestaande uit de persoonskaarten, bedoeld in artikel 69, tweede lid, van het Besluit bevolkingsboekhouding.   
 2.  Onze Minister is verantwoordelijk voor de verwerking van persoonsgegevens in het centraal archief van overledenen, bedoeld in het eerste lid. Hij treft een regeling ter bescherming van de persoonlijke levenssfeer.  
 
 ### Artikel  4.8  

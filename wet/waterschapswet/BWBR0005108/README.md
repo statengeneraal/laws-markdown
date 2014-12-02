@@ -1589,7 +1589,7 @@ Artikel 44, vierde tot en met zevende lid, artikel 44a, vierde en vijfde lid, on
 
 ### Artikel  174  
 
-Het op 1 januari 2013 zittende algemeen bestuur blijft aan tot 27 maart 2015. 
+Het op 1 januari 2013 zittende algemeen bestuur blijft aan tot 26 maart 2015. 
 
 ### Artikel  180  
 

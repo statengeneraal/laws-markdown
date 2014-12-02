@@ -1114,7 +1114,11 @@ b. compost naar een particulier in leveringen tot een maximum van 3000 kilogram 
 
 ### Artikel  70  
 
-Als eindproduct als bedoeld in artikel 1, eerste lid, onderdeel dd, onder 1°, van de wet, voldoet as waarin maximaal 10% organische stof aanwezig is. 
+Als eindproduct als bedoeld in artikel 1, eerste lid, onderdeel dd, onder 1°, van de wet, voldoet: 
+
+1. as waarin maximaal 10% organische stof aanwezig is;  
+
+2. mestkorrels.  
 
 ### Artikel  71  
 

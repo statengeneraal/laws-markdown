@@ -5,7 +5,7 @@
 De Minister van Onderwijs, Cultuur en Wetenschap, alsmede de Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 Gehoord de Minister van Binnenlandse Zaken en Koninkrijksrelaties en mede namens de Minister van Economische Zaken;
 
-Gelet op de [artikelen 2.6, eerste lid](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [4.1, derde lid](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [4.2, zevende lid](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [5.1, eerste lid](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), en [5.2, eerste en tweede lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md); de [artikelen 5:14](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [10:3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md); [artikel 3, tweede lid, onder g, van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md); de [artikelen 2](../../../../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md) en [4 van de Experimentenwet onderwijs](../../../../../../wet/experimentenwet/onderwijs/BWBR0002718/README.md) en [artikel 6.4, tweede lid, van het Uitvoeringsbesluit WHW 2008](../../../../../../AMvB/uitvoeringsbesluit/whw/BWBR0006152/README.md);
+Gelet op de artikelen 2.6, eerste lid, 4.1, derde lid, 4.2, zevende lid, 5.1, eerste lid, en 5.2, eerste en tweede lid, van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector; de artikelen 5:14 en 10:3 van de Algemene wet bestuursrecht; artikel 3, tweede lid, onder g, van de Wet op het onderwijstoezicht; de artikelen 2 en 4 van de Experimentenwet onderwijs en artikel 6.4, tweede lid, van het Uitvoeringsbesluit WHW 2008;
 Besluit:     
 ### Paragraaf  1  
 
@@ -17,23 +17,23 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*besluit:* [Uitvoeringsbesluit WNT](../../../../../../AMvB/uitvoeringsbesluit/wnt/BWBR0032421/README.md); 
+*besluit:* Uitvoeringsbesluit WNT; 
 
-*bezoldiging:* de bezoldiging in de zin van [artikel 1.1, onderdeel e, van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md);  
+*bezoldiging:* de bezoldiging in de zin van artikel 1.1, onderdeel e, van de wet;  
 
-*topfunctionarissen in het beroepsonderwijs en educatie:* de topfunctionarissen van de instellingen onder de nummers 13 tot en met 16, genoemd in [bijlage 1 van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’ en de nummers 1 en 2 onder het opschrift ‘Ministerie van Economische Zaken’;  
+*topfunctionarissen in het beroepsonderwijs en educatie:* de topfunctionarissen van de instellingen onder de nummers 13 tot en met 16, genoemd in bijlage 1 van de wet onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’ en de nummers 1 en 2 onder het opschrift ‘Ministerie van Economische Zaken’;  
 
-*topfunctionarissen in het onderwijs:* de topfunctionarissen van de instellingen onder de nummers 1 tot en met 9 en 13 tot en met 17, genoemd in [bijlage 1 van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’ respectievelijk de nummers 1 tot en met 3 onder het opschrift ‘Ministerie van Economische Zaken’;  
+*topfunctionarissen in het onderwijs:* de topfunctionarissen van de instellingen onder de nummers 1 tot en met 9 en 13 tot en met 17, genoemd in bijlage 1 van de wet onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’ respectievelijk de nummers 1 tot en met 3 onder het opschrift ‘Ministerie van Economische Zaken’;  
 
-*topfunctionarissen in het primair onderwijs:* de topfunctionarissen van de instellingen onder de nummers 1, 2 en 4 tot en met 6, genoemd in [bijlage 1 van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’;  
+*topfunctionarissen in het primair onderwijs:* de topfunctionarissen van de instellingen onder de nummers 1, 2 en 4 tot en met 6, genoemd in bijlage 1 van de wet onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’;  
 
-*topfunctionarissen in het voortgezet onderwijs:* de topfunctionarissen van de instellingen onder de nummers 7 en 9, genoemd in [bijlage 1 van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’;  
+*topfunctionarissen in het voortgezet onderwijs:* de topfunctionarissen van de instellingen onder de nummers 7 en 9, genoemd in bijlage 1 van de wet onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’;  
 
-*topfunctionarissen van de cultuurfondsen:* de topfunctionarissen van een rechtspersoon, bedoeld in [artikel 1.3, eerste lid, onder a, van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), voor zover het betreft een fonds als bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wet op het specifiek cultuurbeleid](../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md); 
+*topfunctionarissen van de cultuurfondsen:* de topfunctionarissen van een rechtspersoon, bedoeld in artikel 1.3, eerste lid, onder a, van de wet, voor zover het betreft een fonds als bedoeld in artikel 1, eerste lid, onderdeel c, van de Wet op het specifiek cultuurbeleid; 
 
-*topfunctionarissen van hogescholen:* de topfunctionarissen van de instellingen onder nummer 17, genoemd in [bijlage 1 van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’, en nummer 3 onder het opschrift ‘Ministerie van Economische Zaken’ met uitzondering van de instellingen, genoemd in de onderdelen a, b, h en i van de [bijlage behorende bij artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+*topfunctionarissen van hogescholen:* de topfunctionarissen van de instellingen onder nummer 17, genoemd in bijlage 1 van de wet onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’, en nummer 3 onder het opschrift ‘Ministerie van Economische Zaken’ met uitzondering van de instellingen, genoemd in de onderdelen a, b, h en i van de bijlage behorende bij artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
-*wet:* [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md).   
+*wet:* Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.   
 
 ### Paragraaf  2  
 
@@ -49,7 +49,7 @@ Deze paragraaf is van toepassing op de topfunctionarissen in het onderwijs.
 
 ####Verlaagde bezoldigingsmaxima topfunctionarissen in het onderwijs
 
-In afwijking van [artikel 2.3, eerste lid, van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan: 
+In afwijking van artikel 2.3, eerste lid, van de wet komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan: 
 
 a. € 165.901 voor de topfunctionarissen in het primair onderwijs;  
 
@@ -63,13 +63,13 @@ d. € 199.905 voor de topfunctionarissen van de hogescholen.
 
 ####Elektronische verzending bezoldigingsgegevens
 
-De gegevens, bedoeld in [artikel 4.1](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) en [4.2 van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), worden aangeleverd door middel van het daartoe voorgeschreven e-formulier, tenzij zij reeds zijn aangeleverd door middel van de Elektronisch Financiële Jaarrekening. 
+De gegevens, bedoeld in artikel 4.1 en 4.2 van de wet, worden aangeleverd door middel van het daartoe voorgeschreven e-formulier, tenzij zij reeds zijn aangeleverd door middel van de Elektronisch Financiële Jaarrekening. 
 
 ### Artikel  5  
 
 ####Elektronische melding accountant
 
-De melding, bedoeld in [artikel 5.2, eerste en tweede lid, van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), wordt gedaan door middel van het daartoe voorgeschreven e-formulier. 
+De melding, bedoeld in artikel 5.2, eerste en tweede lid, van de wet, wordt gedaan door middel van het daartoe voorgeschreven e-formulier. 
 
 ###Paragraaf  2a 
 
@@ -85,7 +85,7 @@ Deze paragraaf is van toepassing op de topfunctionarissen van de cultuurfondsen.
 
 ####Verlaagde bezoldigingsmaxima topfunctionarissen van de cultuurfondsen
 
-In afwijking van [artikel 2.3, eerste lid, van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) komen partijen voor de topfunctionarissen van de cultuurfondsen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan: 
+In afwijking van artikel 2.3, eerste lid, van de wet komen partijen voor de topfunctionarissen van de cultuurfondsen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan: 
 
 a. € 123.024 voor zover het betreft 
 
@@ -111,27 +111,27 @@ b. € 147.629 voor zover het betreft
 
 ####Toezicht en handhaving door de Inspectie van het onderwijs
 
-1.  De inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs die zijn belast met de uitoefening van de taken, bedoeld in [artikel 3, tweede lid, van de Wet op het onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md), zijn belast met het toezicht op de naleving van de [wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), het [besluit](../../../../../../AMvB/uitvoeringsbesluit/wnt/BWBR0032421/README.md) en deze regeling, ten aanzien van de rechtspersonen, genoemd onder de nummers 1 tot en met 9 en 14, 15, en 17 in [bijlage 1 van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’ en de nummers 1 tot en met 3 onder het opschrift ‘Ministerie van Economische Zaken, Landbouw en Innovatie’.   
-2.  De inspecteur-generaal van het onderwijs is gemandateerd om ten aanzien van de rechtspersonen waarop hij toezicht houdt, de bevoegdheden aan te wenden, bedoeld in de [artikelen 5.4, eerste lid](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [5.5, eerste tot en met vierde lid](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), en [5.6, eerste en derde lid, van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md).  
+1.  De inspecteur-generaal van het onderwijs en de ambtenaren van de Inspectie van het onderwijs die zijn belast met de uitoefening van de taken, bedoeld in artikel 3, tweede lid, van de Wet op het onderwijstoezicht, zijn belast met het toezicht op de naleving van de wet, het besluit en deze regeling, ten aanzien van de rechtspersonen, genoemd onder de nummers 1 tot en met 9 en 14, 15, en 17 in bijlage 1 van de wet onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’ en de nummers 1 tot en met 3 onder het opschrift ‘Ministerie van Economische Zaken, Landbouw en Innovatie’.   
+2.  De inspecteur-generaal van het onderwijs is gemandateerd om ten aanzien van de rechtspersonen waarop hij toezicht houdt, de bevoegdheden aan te wenden, bedoeld in de artikelen 5.4, eerste lid, 5.5, eerste tot en met vierde lid, en 5.6, eerste en derde lid, van de wet.  
 
 ### Artikel  7  
 
 ####Toezicht en handhaving door het Commissariaat voor de Media
 
-1.  De leden van het Commissariaat voor de Media en de bij besluit van het Commissariaat aangewezen medewerkers van het Commissariaat, bedoeld in [artikel 7.11, tweede lid, van de Mediawet 2008](../../../../../../wet/mediawet/2008/BWBR0025028/README.md) zijn belast met het toezicht op de naleving van de [wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), het [besluit](../../../../../../AMvB/uitvoeringsbesluit/wnt/BWBR0032421/README.md) en deze regeling ten aanzien van de rechtspersonen, genoemd onder de nummers 18 en 19 in [bijlage 1 van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’.   
-2.  De leden van het Commissariaat voor de Media zijn gemandateerd om ten aanzien van de rechtspersonen waarop het op grond van het eerste lid toezicht houdt, de bevoegdheden aan te wenden, bedoeld in de [artikelen 5.4, eerste lid](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [5.5, eerste tot en met vierde lid](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), en [5.6, eerste en derde lid, van de wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md).  
+1.  De leden van het Commissariaat voor de Media en de bij besluit van het Commissariaat aangewezen medewerkers van het Commissariaat, bedoeld in artikel 7.11, tweede lid, van de Mediawet 2008 zijn belast met het toezicht op de naleving van de wet, het besluit en deze regeling ten aanzien van de rechtspersonen, genoemd onder de nummers 18 en 19 in bijlage 1 van de wet onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’.   
+2.  De leden van het Commissariaat voor de Media zijn gemandateerd om ten aanzien van de rechtspersonen waarop het op grond van het eerste lid toezicht houdt, de bevoegdheden aan te wenden, bedoeld in de artikelen 5.4, eerste lid, 5.5, eerste tot en met vierde lid, en 5.6, eerste en derde lid, van de wet.  
 
 ### Artikel  7a  
 
 ####Begripsbepaling toezicht overige OCW-sectoren
 
-In de artikelen 7b tot en met 7k wordt onder instellingen verstaan: rechtspersonen op wie de [wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) van toepassing is en die niet vallen onder het toezicht van de Inspectie van het onderwijs, bedoeld in artikel 6, eerste lid, en het Commissariaat voor de Media, bedoeld in artikel 7, eerste lid, en voor zover de Minister van Onderwijs, Cultuur en Wetenschap de minister is wie het aangaat. 
+In de artikelen 7b tot en met 7k wordt onder instellingen verstaan: rechtspersonen op wie de wet van toepassing is en die niet vallen onder het toezicht van de Inspectie van het onderwijs, bedoeld in artikel 6, eerste lid, en het Commissariaat voor de Media, bedoeld in artikel 7, eerste lid, en voor zover de Minister van Onderwijs, Cultuur en Wetenschap de minister is wie het aangaat. 
 
 ### Artikel  7b  
 
 ####Sector primair onderwijs voor zover geen onderwijsinstelling
 
-Voor instellingen in de sector primair onderwijs, alsmede de sector jeugd, onderwijs en zorg, worden de volgende personen belast met het toezicht op de naleving van de [wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), het [besluit](../../../../../../AMvB/uitvoeringsbesluit/wnt/BWBR0032421/README.md) en de regeling: 
+Voor instellingen in de sector primair onderwijs, alsmede de sector jeugd, onderwijs en zorg, worden de volgende personen belast met het toezicht op de naleving van de wet, het besluit en de regeling: 
 
 a. de directeur en plaatsvervangend directeur van de directie primair onderwijs;  
 
@@ -141,7 +141,7 @@ b. de ambtenaren, werkzaam bij de afdeling financiën en verantwoording van de d
 
 ####Sector voortgezet onderwijs voor zover geen onderwijsinstelling
 
-Voor instellingen in de sector voortgezet onderwijs worden de volgende personen belast met het toezicht op de naleving van de [wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), het [besluit](../../../../../../AMvB/uitvoeringsbesluit/wnt/BWBR0032421/README.md) en de regeling: 
+Voor instellingen in de sector voortgezet onderwijs worden de volgende personen belast met het toezicht op de naleving van de wet, het besluit en de regeling: 
 
 a. de directeur en plaatsvervangend directeur van de directie voortgezet onderwijs;  
 
@@ -151,7 +151,7 @@ b. de ambtenaren, werkzaam bij de afdeling financiën van de directie voortgezet
 
 ####Sector middelbaar beroepsonderwijs voor zover geen onderwijsinstelling
 
-Voor instellingen in de sector middelbaar beroepsonderwijs worden de volgende personen belast met het toezicht op de naleving van de [wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), het [besluit](../../../../../../AMvB/uitvoeringsbesluit/wnt/BWBR0032421/README.md) en de regeling: 
+Voor instellingen in de sector middelbaar beroepsonderwijs worden de volgende personen belast met het toezicht op de naleving van de wet, het besluit en de regeling: 
 
 a. de directeur en plaatsvervangend directeur van de directie middelbaar beroepsonderwijs;  
 
@@ -161,7 +161,7 @@ b. de ambtenaren, werkzaam bij de afdeling financiën van de directie middelbaar
 
 ####Sector hoger onderwijs en studiefinanciering voor zover geen onderwijsinstelling
 
-Voor instellingen in de sector hoger onderwijs en studiefinanciering worden de volgende personen belast met het toezicht op de naleving van de [wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), het [besluit](../../../../../../AMvB/uitvoeringsbesluit/wnt/BWBR0032421/README.md) en de regeling: 
+Voor instellingen in de sector hoger onderwijs en studiefinanciering worden de volgende personen belast met het toezicht op de naleving van de wet, het besluit en de regeling: 
 
 a. de directeur en plaatsvervangend directeur van de directie hoger onderwijs en studiefinanciering;  
 
@@ -171,7 +171,7 @@ b. de ambtenaren, werkzaam bij de afdeling control, begroting en verantwoording 
 
 ####Sector onderzoek en wetenschapsbeleid
 
-Voor instellingen in de sector onderzoek en wetenschapsbeleid worden de volgende personen belast met het toezicht op de naleving van de [wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), het [besluit](../../../../../../AMvB/uitvoeringsbesluit/wnt/BWBR0032421/README.md) en de regeling: 
+Voor instellingen in de sector onderzoek en wetenschapsbeleid worden de volgende personen belast met het toezicht op de naleving van de wet, het besluit en de regeling: 
 
 a. de directeur en plaatsvervangend directeur van de directie onderzoek en wetenschapsbeleid;  
 
@@ -181,7 +181,7 @@ b. de ambtenaren, werkzaam bij de afdeling algemeen beleid en begroting van de d
 
 ####Sector monumenten en archeologie
 
-Voor instellingen in de sector monumenten en archeologie worden de volgende personen belast met het toezicht op de naleving van de [wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), het [besluit](../../../../../../AMvB/uitvoeringsbesluit/wnt/BWBR0032421/README.md) en de regeling: 
+Voor instellingen in de sector monumenten en archeologie worden de volgende personen belast met het toezicht op de naleving van de wet, het besluit en de regeling: 
 
 a. de directeur en plaatsvervangend directeur van de rijksdienst voor het cultureel erfgoed;  
 
@@ -191,7 +191,7 @@ b. de ambtenaren, werkzaam bij de afdeling control van de rijksdienst voor het c
 
 ####Sector erfgoed en kunsten
 
-Voor instellingen in de sector erfgoed en kunsten worden de volgende personen belast met het toezicht op de naleving van de [wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), het [besluit](../../../../../../AMvB/uitvoeringsbesluit/wnt/BWBR0032421/README.md) en de regeling: 
+Voor instellingen in de sector erfgoed en kunsten worden de volgende personen belast met het toezicht op de naleving van de wet, het besluit en de regeling: 
 
 a. de directeur en plaatsvervangend directeur van de directie erfgoed en kunsten;  
 
@@ -201,7 +201,7 @@ b. de ambtenaren, werkzaam bij de afdeling financiën en control van de directie
 
 ####Sector media en creatieve industrie voor zover geen toezicht van het CvdM
 
-Voor instellingen in de sector media en creatieve industrie worden de volgende personen belast met het toezicht op de naleving van de [wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), het [besluit](../../../../../../AMvB/uitvoeringsbesluit/wnt/BWBR0032421/README.md) en de regeling: 
+Voor instellingen in de sector media en creatieve industrie worden de volgende personen belast met het toezicht op de naleving van de wet, het besluit en de regeling: 
 
 a. de directeur en plaatsvervangend directeur van de directie media en creatieve industrie;  
 
@@ -211,7 +211,7 @@ b. de ambtenaren, werkzaam bij de afdeling financiën en control van de directie
 
 ####Sector emancipatie
 
-Voor instellingen in de sector emancipatie worden de volgende personen belast met het toezicht op de naleving van de [wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), het [besluit](../../../../../../AMvB/uitvoeringsbesluit/wnt/BWBR0032421/README.md) en de regeling: 
+Voor instellingen in de sector emancipatie worden de volgende personen belast met het toezicht op de naleving van de wet, het besluit en de regeling: 
 
 a. de directeur en plaatsvervangend directeur van de directie emancipatie;  
 
@@ -221,17 +221,26 @@ b. de ambtenaren belast met subsidiecoördinatie, werkzaam bij de afdeling bedri
 
 ####Sector internationaal beleid
 
-Voor de instellingen in de sector internationaal beleid worden de volgende personen belast met het toezicht op de naleving van de [wet](../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), het [besluit](../../../../../../AMvB/uitvoeringsbesluit/wnt/BWBR0032421/README.md) en de regeling: 
+Voor de instellingen in de sector internationaal beleid worden de volgende personen belast met het toezicht op de naleving van de wet, het besluit en de regeling: 
 
 a. de directeur en plaatsvervangend directeur van de directie internationaal beleid;  
 
 b. de controller van de directie internationaal beleid.   
 
+### Artikel  7k.1  
+
+####Cultuurfondsen
+
+Treedt in werking per 01-01-2015 
+
+1.  Voor instellingen die worden gesubsidieerd door een fonds als bedoeld in artikel 5b worden, voor zover de wet op die instelling van toepassing is, de leden van het bestuur van het betreffende fonds belast met het toezicht op de naleving van de wet, het besluit en de regeling.   
+2.  Indien meer dan één van de in het eerste lid bedoelde fondsen subsidie verstrekken aan een instelling als bedoeld in het eerste lid, is het fonds dat de hoogste subsidie verstrekt aan de instelling belast met het toezicht op de naleving van de wet, het besluit en de regeling.  
+
 ### Artikel  7l  
 
 ####Beperking toezichtsbevoegdheden
 
-De toezichthouders die in deze paragraaf zijn aangewezen beschikken niet over de bevoegdheden, bedoeld in de [artikelen 5:18](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+De toezichthouders die in deze paragraaf zijn aangewezen beschikken niet over de bevoegdheden, bedoeld in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht. 
 
 ### Paragraaf  4  
 
@@ -241,7 +250,7 @@ De toezichthouders die in deze paragraaf zijn aangewezen beschikken niet over de
 
 ####Intrekking uitgewerkte beschikking
 
-De [Beschikking overgangsmaatregelen N.L.O.’s 1985](../../../../../../ministeriele-regeling/beschikking/overgangsmaatregelen/n.l.o.'s/1985/BWBR0003825/README.md) wordt ingetrokken. 
+De Beschikking overgangsmaatregelen N.L.O.’s 1985 wordt ingetrokken. 
 
 ### Artikel  9  
 

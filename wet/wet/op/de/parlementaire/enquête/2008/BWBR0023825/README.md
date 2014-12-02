@@ -317,7 +317,7 @@ b. de openbaarmaking van het document de veiligheid van de staat zou kunnen scha
 
 c. het document bedrijfs- en fabricagegegevens bevat, die door natuurlijke personen of rechtspersonen vertrouwelijk aan de overheid zijn meegedeeld;  
 
-d. het document persoonsgegevens bevat als bedoeld in Hoofdstuk 2 van de Wet bescherming persoonsgegevens, tenzij de openbaarmaking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt of de persoon op wie de gegevens betrekking hebben heeft ingestemd met de openbaarmaking;  
+d. het document persoonsgegevens bevat als bedoeld in paragraaf 2 van Hoofdstuk 2 van de Wet bescherming persoonsgegevens, tenzij de openbaarmaking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt of de persoon op wie de gegevens betrekking hebben heeft ingestemd met de openbaarmaking;  
 
 e. het document een verslag van een voorgesprek of een besloten verhoor betreft.     
 3.  De commissie kan eveneens beperkingen aan de openbaarheid stellen voor zover het belang van openbaarheid van het document niet opweegt tegen de volgende belangen: 

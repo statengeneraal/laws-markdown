@@ -5,7 +5,7 @@
 De Minister van Volksgezondheid, Welzijn en Sport,  
 Gehoord de Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 
-Gelet op [artikel 2.7 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md);
+Gelet op artikel 2.7 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector;
 Besluit:    
 
 ### Artikel  1  
@@ -16,11 +16,11 @@ In deze regeling wordt verstaan onder:
 
 *bijlage:* de bijlage bij deze regeling;  
 
-*rechtspersonen of instellingen in de zorg- en welzijnssector:* de rechtspersonen of instellingen, bedoeld in [bijlage 1 van de wet](../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) onder het opschrift ‘Ministerie van Volksgezondheid, Welzijn en Sport’, onder de nummers 1 tot en met 5, 9 en 11;  
+*rechtspersonen of instellingen in de zorg- en welzijnssector:* de rechtspersonen of instellingen, bedoeld in bijlage 1 van de wet onder het opschrift ‘Ministerie van Volksgezondheid, Welzijn en Sport’, onder de nummers 1 tot en met 5, 9 en 11;  
 
 *topfunctionaris in de zorg- en welzijnssector:* de topfunctionaris van een rechtspersoon of instelling in de zorg- en welzijnssector;  
 
-*wet:* [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md)   
+*wet:* Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector   
 
 ### Artikel  2  
 
@@ -48,11 +48,32 @@ De bezoldiging, exclusief de door de werkgever verschuldigde verplichte sociale 
 | I  | € 218.194  |
 | J  | € 229.043  |
 
+### Artikel  3a  
+
+####Bezoldigingsmaxima 2015
+
+Treedt in werking per 01-01-2015 
+
+De bezoldiging, exclusief de door de werkgever verschuldigde verplichte sociale premies, voor een topfunctionaris in de zorg- en welzijnssector bedraagt voor het jaar 2015 voor de klasse waarin de betreffende rechtspersoon of instelling in de zorg- en welzijnssector is ingedeeld, niet meer dan het in onderstaande tabel opgenomen bedrag.  
+
+| Klasse  | Bezoldigingsmaximum  |
+|:---|:---|
+| A  |  € 85.590  |
+| B  |  € 98.248  |
+| C  |  € 112.835  |
+| D  |  € 129.591  |
+| E  |  € 148.879  |
+| F  |  € 170.578  |
+| G  |  € 188.660  |
+| H  |  € 203.728  |
+| I  |  € 218.194  |
+| J  |  € 228.719  |
+
 ### Artikel  4  
 
 ####Indeling in een andere klasse
 
-Een rechtspersoon of instelling in de zorg- en welzijnssector dient een aanvraag als bedoeld in [artikel 2.7, derde lid, van de wet](../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) om in een andere klasse te worden ingedeeld schriftelijk in bij de Minister van Volksgezondheid, Welzijn en Sport en voorziet deze van: 
+Een rechtspersoon of instelling in de zorg- en welzijnssector dient een aanvraag als bedoeld in artikel 2.7, derde lid, van de wet om in een andere klasse te worden ingedeeld schriftelijk in bij de Minister van Volksgezondheid, Welzijn en Sport en voorziet deze van: 
 
 a. een deugdelijke motivering voor de aanvraag;  
 
@@ -232,7 +253,7 @@ In de economische theorie worden een vijftal markten onderscheiden, die gehantee
 
 * de aard en mate van concurrentie (bijvoorbeeld in beeld te brengen door een concurrentiescan);  
 
-* de hoeveelheid en de diversiteit van systemen waarin of waarmee de inkoop plaats vindt (denk bijvoorbeeld aan een combinatie van [Wet maatschappelijke ondersteuning](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) met aanbestedingen, [AWBZ](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en [Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md));  
+* de hoeveelheid en de diversiteit van systemen waarin of waarmee de inkoop plaats vindt (denk bijvoorbeeld aan een combinatie van Wet maatschappelijke ondersteuning met aanbestedingen, AWBZ en Zorgverzekeringswet);  
 
 * het aantal partijen waarbij ingekocht moet worden en de inkoopmacht daarvan (denk aan het aantal zorgverzekeraars, provincies of gemeenten);  
 

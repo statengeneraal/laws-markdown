@@ -28,25 +28,23 @@ e. bevoegd gezag: het bestuursorgaan, bedoeld in artikel 1.1, eerste lid, van de
 
 f. bestemmingsplan: een bestemmingsplan als bedoeld in artikel 3.1 van de Wet ruimtelijke ordening, alsmede een inpassingsplan als bedoeld in artikel 3.26 of 3.28 van die wet of een beheersverordening als bedoeld in artikel 3.38 van die wet;  
 
-g. rooilijn: de lijn die, behoudens toegelaten afwijkingen, bij het bouwen van een bouwwerk aan de wegzijde of aan de van de weg afgekeerde zijde niet mag worden overschreden;  
+g. norm: een document, uitgegeven door een deskundig, onafhankelijk instituut, waarin wordt omschreven aan welke eisen een bouwmateriaal, bouwdeel of bouwconstructie moet voldoen dan wel waarin een omschrijving wordt gegeven van een keurings-, meet- of berekeningsmethode;   
 
-h. norm: een document, uitgegeven door een deskundig, onafhankelijk instituut, waarin wordt omschreven aan welke eisen een bouwmateriaal, bouwdeel of bouwconstructie moet voldoen dan wel waarin een omschrijving wordt gegeven van een keurings-, meet- of berekeningsmethode;   
+h. kwaliteitsverklaring: een schriftelijk bewijs, voorzien van een merkteken, aangewezen door Onze Minister, afgegeven door een deskundig, onafhankelijk instituut, aangewezen door Onze Minister, op grond waarvan een bouwmateriaal, bouwdeel of samenstel van bouwmaterialen of bouwdelen dan wel een bouwwijze, indien dat bouwmateriaal, bouwdeel of samenstel van bouwmaterialen of bouwdelen dan wel die bouwwijze bij het bouwen van een bouwwerk wordt toegepast, wordt geacht te voldoen aan krachtens deze wet aan dat bouwmateriaal, bouwdeel of samenstel van bouwmaterialen of bouwdelen dan wel die bouwwijze gestelde eisen;   
 
-i. kwaliteitsverklaring: een schriftelijk bewijs, voorzien van een merkteken, aangewezen door Onze Minister, afgegeven door een deskundig, onafhankelijk instituut, aangewezen door Onze Minister, op grond waarvan een bouwmateriaal, bouwdeel of samenstel van bouwmaterialen of bouwdelen dan wel een bouwwijze, indien dat bouwmateriaal, bouwdeel of samenstel van bouwmaterialen of bouwdelen dan wel die bouwwijze bij het bouwen van een bouwwerk wordt toegepast, wordt geacht te voldoen aan krachtens deze wet aan dat bouwmateriaal, bouwdeel of samenstel van bouwmaterialen of bouwdelen dan wel die bouwwijze gestelde eisen;   
+i. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie;   
 
-j. Onze Minister: Onze Minister voor Wonen, Wijken en Integratie;   
+j. inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar;  
 
-k. inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar;  
+k. toegelaten instelling: instelling als bedoeld in artikel 70;  
 
-l. toegelaten instelling: instelling als bedoeld in artikel 70;  
+l. fonds: Centraal Fonds voor de Volkshuisvesting, bedoeld in artikel 71;   
 
-m. fonds: Centraal Fonds voor de Volkshuisvesting, bedoeld in artikel 71;   
+m. welstandscommissie: door de gemeenteraad benoemde onafhankelijke commissie die aan burgemeester en wethouders advies uitbrengt ten aanzien van de vraag of het uiterlijk of de plaatsing van een bouwwerk, waarvoor een aanvraag om een omgevingsvergunning voor het bouwen van dat bouwwerk is ingediend, in strijd is met redelijke eisen van welstand;  
 
-n. welstandscommissie: door de gemeenteraad benoemde onafhankelijke commissie die aan burgemeester en wethouders advies uitbrengt ten aanzien van de vraag of het uiterlijk of de plaatsing van een bouwwerk, waarvoor een aanvraag om een omgevingsvergunning voor het bouwen van dat bouwwerk is ingediend, in strijd is met redelijke eisen van welstand;  
+n. stadsbouwmeester: door de gemeenteraad benoemde onafhankelijke deskundige die aan burgemeester en wethouders advies uitbrengt ten aanzien van de vraag of het uiterlijk of de plaatsing van een bouwwerk, waarvoor een aanvraag om een omgevingsvergunning voor het bouwen van dat bouwwerk is ingediend, in strijd is met redelijke eisen van welstand;  
 
-o. stadsbouwmeester: door de gemeenteraad benoemde onafhankelijke deskundige die aan burgemeester en wethouders advies uitbrengt ten aanzien van de vraag of het uiterlijk of de plaatsing van een bouwwerk, waarvoor een aanvraag om een omgevingsvergunning voor het bouwen van dat bouwwerk is ingediend, in strijd is met redelijke eisen van welstand;  
-
-p. stedelijke vernieuwing: op stedelijk gebied gerichte inspanningen die strekken tot verbetering van de leefbaarheid en veiligheid, bevordering van een duurzame ontwikkeling en verbetering van de woon- en milieukwaliteit, versterking van het economisch draagvlak, versterking van culturele kwaliteiten, bevordering van de sociale samenhang, verbetering van de bereikbaarheid, verhoging van de kwaliteit van de openbare ruimte of anderszins tot structurele kwaliteitsverhoging van dat stedelijk gebied.    
+o. stedelijke vernieuwing: op stedelijk gebied gerichte inspanningen die strekken tot verbetering van de leefbaarheid en veiligheid, bevordering van een duurzame ontwikkeling en verbetering van de woon- en milieukwaliteit, versterking van het economisch draagvlak, versterking van culturele kwaliteiten, bevordering van de sociale samenhang, verbetering van de bereikbaarheid, verhoging van de kwaliteit van de openbare ruimte of anderszins tot structurele kwaliteitsverhoging van dat stedelijk gebied.    
 2.   Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder woning mede verstaan een afzonderlijk gedeelte van een gebouw, welk gedeelte tot bewoning is bestemd.    
 3.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder bouwwerk mede verstaan de daarvan deel uitmakende installaties. 
 
@@ -152,12 +150,12 @@ c. niet binnen de termijn waarmee de beslissing op het verzoek is verdaagd, een 
 
 ###Artikel 7b 
 
-1. Tenzij een omgevingsvergunning voor het bouwen van een bouwwerk het uitdrukkelijk toestaat, is het verboden een bouwwerk te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in artikel 8, tweede en vijfde lid, met dien verstande dat voorschriften van stedenbouwkundige aard als bedoeld in dat vijfde lid niet van toepassing zijn op het bouwen waarvoor op grond van artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht geen omgevingsvergunning is vereist. 
+1.  Tenzij een omgevingsvergunning voor het bouwen van een bouwwerk het uitdrukkelijk toestaat, is het verboden een bouwwerk te bouwen, voor zover daarbij niet wordt voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in artikel 8, tweede lid.  
 2. Het verbod, bedoeld in het eerste lid, heeft mede betrekking op het niet voldoen aan de voorschriften met betrekking tot het bouwen, van een bouwwerk, bedoeld in:
 
-a.artikel 8, zevende lid, voor zover deze voorschriften in de bouwverordening zijn opgenomen;
+a.artikel 8, zesde lid, voor zover deze voorschriften in de bouwverordening zijn opgenomen;
 
-b.artikel 8, achtste lid, indien en voor zover deze voorschriften op grond van het negende lid van dat artikel rechtstreeks gelden. 
+b.artikel 8, zevende lid, indien en voor zover deze voorschriften op grond van het achtste lid van dat artikel rechtstreeks gelden. 
 3. Tenzij een omgevingsvergunning voor het bouwen van een bouwwerk het uitdrukkelijk toestaat, is het verboden een bouwwerk dan wel deel daarvan in stand te laten voor zover bij het bouwen daarvan niet is voldaan aan de op dat bouwen van toepassing zijnde voorschriften, bedoeld in het eerste of tweede lid.
 
 ### Artikel  8  
@@ -182,31 +180,15 @@ a. het verrichten van onderzoek naar aard en mate van verontreiniging van de bod
 b. aard en omvang van het onderzoek, en  
 
 c. inrichting van het op te stellen onderzoeksrapport.     
-5.  De bouwverordening kan voorschriften bevatten van stedenbouwkundige aard. Tot die voorschriften kunnen behoren voorschriften met betrekking tot: 
-
-a. de wegen waaraan een bouwwerk mag worden gebouwd;  
-
-b. de rooilijnen, en  
-
-c. de plaatsing van bouwwerken ten opzichte van elkaar, mede uit het oogpunt van bereikbaarheid van die bouwwerken.     
-6.  De bouwverordening bevat tevens voorschriften omtrent de samenstelling, inrichting en werkwijze van de welstandscommissie. Zij kan bepalen dat er in plaats van een welstandscommissie een stadsbouwmeester wordt aangesteld, in welk geval de bouwverordening voorschriften bevat over de rol en de functie van de stadsbouwmeester. Voorts kan de bouwverordening nadere voorschriften bevatten omtrent de verslagen, bedoeld in artikel 12b, derde lid.   
-7.  Bij algemene maatregel van bestuur kan worden bepaald dat in de bouwverordening voorschriften worden gegeven omtrent andere onderwerpen dan die, genoemd in het tweede, vijfde en zesde lid.   
-8.   Bij algemene maatregel van bestuur kunnen ter bevordering van eenheid in de bouwverordeningen regelen worden gegeven omtrent de inhoud van de voorschriften, bedoeld in het tweede tot en met vierde, zesde en zevende lid.    
-9.   De gemeenteraad brengt binnen een jaar na het in werking treden van de krachtens het achtste lid en de krachtens artikel 120 gegeven voorschriften de bouwverordening met die voorschriften in overeenstemming. Zolang de bouwverordening niet met die voorschriften in overeenstemming is gebracht, gelden die voorschriften rechtstreeks.   
-
-### Artikel  9  
-
-1.  Voor zover de voorschriften van de bouwverordening niet overeenstemmen met de voorschriften van het desbetreffende bestemmingsplan blijven eerstbedoelde voorschriften buiten toepassing.    
-2.   De voorschriften van de bouwverordening blijven van toepassing indien het desbetreffende bestemmingsplan geen voorschriften bevat, die hetzelfde onderwerp regelen, tenzij het desbetreffende bestemmingsplan anders bepaalt.   
-
-### Artikel  10  
-
-De in de bouwverordening vervatte voorschriften omtrent de rooilijnen en de plaatsing van bouwwerken ten opzichte van elkaar zijn niet van toepassing op het gedeeltelijk vernieuwen of veranderen van een bouwwerk, voor zover het te vernieuwen of veranderen gedeelte van dat bouwwerk overeenkomstig het destijds geldende recht in afwijking van die voorschriften tot stand is gekomen.  
+5.  De bouwverordening bevat tevens voorschriften omtrent de samenstelling, inrichting en werkwijze van de welstandscommissie. Zij kan bepalen dat er in plaats van een welstandscommissie een stadsbouwmeester wordt aangesteld, in welk geval de bouwverordening voorschriften bevat over de rol en de functie van de stadsbouwmeester. Voorts kan de bouwverordening nadere voorschriften bevatten omtrent de verslagen, bedoeld in artikel 12b, derde lid.   
+6.  Bij algemene maatregel van bestuur kan worden bepaald dat in de bouwverordening voorschriften worden gegeven omtrent andere onderwerpen dan die, genoemd in het tweede en vijfde lid.   
+7.   Bij algemene maatregel van bestuur kunnen ter bevordering van eenheid in de bouwverordeningen regelen worden gegeven omtrent de inhoud van de voorschriften, bedoeld in het tweede tot en met zesde lid.    
+8.   De gemeenteraad brengt binnen een jaar na het in werking treden van de krachtens het zevende lid en de krachtens artikel 120 gegeven voorschriften de bouwverordening met die voorschriften in overeenstemming. Zolang de bouwverordening niet met die voorschriften in overeenstemming is gebracht, gelden die voorschriften rechtstreeks.   
 
 ### Artikel  11  
 
-1.  Bij een in de bouwverordening gegeven voorschrift kan worden bepaald, dat daarvan kan worden afgeweken bij een vergunning voor een bouw- of sloopactiviteit als bedoeld in artikel 2.1, eerste lid, onder a, respectievelijk 2.2, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht.   
-2.  Van een voorschrift dat overeenkomstig artikel 8, negende lid, in de bouwverordening is opgenomen kan slechts worden afgeweken voor zover dat is toegestaan op grond van een algemene maatregel van bestuur krachtens artikel 8, achtste lid. 
+1.  Bij een in de bouwverordening gegeven voorschrift kan worden bepaald, dat daarvan kan worden afgeweken bij een omgevingsvergunning voor het bouwen van een bouwwerk.   
+2.  Van een voorschrift dat overeenkomstig artikel 8, achtste lid, in de bouwverordening is opgenomen kan slechts worden afgeweken voor zover dat is toegestaan op grond van een algemene maatregel van bestuur krachtens artikel 8, zevende lid. 
 
 ### Afdeling  3  
 
@@ -220,7 +202,7 @@ a. een bestaand bouwwerk, met uitzondering van een bouwwerk, niet zijnde een sei
 
 b. een te bouwen bouwwerk voor het bouwen waarvan op grond van artikel 2.1, derde lid, van de Wet algemene bepalingen omgevingsrecht geen omgevingsvergunning is vereist,   mag niet in ernstige mate in strijd zijn met redelijke eisen van welstand, beoordeeld naar de criteria, bedoeld in artikel 12a, eerste lid, onderdeel b. 
 2. De gemeenteraad kan besluiten dat, in afwijking van het eerste lid en artikel 2.10, eerste lid, onder d, van de Wet algemene bepalingen omgevingsrecht, voor een daarbij aan te wijzen gebied of voor een of meer daarbij aan te wijzen categorieën van bestaande en te bouwen bouwwerken geen redelijke eisen van welstand van toepassing zijn.  
-3.  Voor zover de toepassing van de criteria, bedoeld in artikel 12a, eerste lid, onderdeel a, leidt tot strijd met het bestemmingsplan of met in de bouwverordening opgenomen voorschriften van stedenbouwkundige aard, blijven die criteria buiten toepassing.   
+3.  Voor zover de toepassing van de criteria, bedoeld in artikel 12a, eerste lid, onderdeel a, leidt tot strijd met het bestemmingsplan, blijven die criteria buiten toepassing.   
 4.  De gemeenteraad betrekt de ingezetenen van de gemeente en belanghebbenden bij de voorbereiding van besluiten krachtens het tweede lid op de wijze voorzien in de krachtens artikel 150 van de Gemeentewet vastgestelde verordening.  
 
 ### Artikel  12a  
@@ -735,7 +717,7 @@ Indien de bekendmaking van beschikkingen op grond van deze wet niet kan geschied
 ### Artikel  120  
 
 1. Bij of krachtens algemene maatregel van bestuur kunnen voorschriften worden gegeven met het oog op de nakoming van voor Nederland verbindende internationale verplichtingen die betrekking hebben op of samenhangen met onderwerpen waarin bij of krachtens deze wet is voorzien.   
-2. Gedragingen in strijd met voorschriften als bedoeld in het eerste lid, niet zijnde voorschriften als bedoeld in artikel 8, negende lid, zijn verboden.
+2. Gedragingen in strijd met voorschriften als bedoeld in het eerste lid, niet zijnde voorschriften als bedoeld in artikel 8, achtste lid, zijn verboden.
 
 ### Artikel  120a  
 
@@ -800,6 +782,13 @@ De intrekking van de Woningwet van 12 juli 1962 heeft geen gevolgen voor de geld
 ### Artikel  132  
 
 Overtredingen van bij of krachtens de Woningwet van 12 juli 1962 gegeven voorschriften worden afgedaan overeenkomstig genoemde wet.  
+
+### Artikel  133  
+
+1.  Voor gebieden waar op het tijdstip van inwerkingtreding van de Reparatiewet BZK 2014 een bestemmingsplan als bedoeld in de Wet ruimtelijke ordening van toepassing is, blijven de artikelen 1, eerste lid, onderdeel g, 7b, eerste lid, 8, vijfde en zevende lid, 9, 10 en 12, derde lid, zoals die laatstelijk luidden voor het tijdstip van inwerkingtreding van de Reparatiewet BZK 2014, van toepassing tot het tijdstip van wijziging van het bestemmingsplan voor het gebied, doch uiterlijk tot 1 juli 2018.   
+2.  Voor gebieden waar op het tijdstip van inwerkingtreding van de Reparatiewet BZK 2014 geen bestemmingsplan als bedoeld in de Wet ruimtelijke ordening van toepassing is, blijven de artikelen 1, eerste lid, onderdeel g, 7b, eerste lid, 8, vijfde en zevende lid, 10 en 12, derde lid, zoals die laatstelijk luidden voor het tijdstip van inwerkingtreding van de Reparatiewet BZK 2014, van toepassing tot het tijdstip van het van toepassing worden van een bestemmingsplan voor dat gebied, doch uiterlijk tot 1 juli 2018.   
+3.  Op een aanvraag om een omgevingsvergunning voor het bouwen van een bouwwerk, als bedoeld in artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht, ingediend voor het tijdstip van inwerkingtreding van de Reparatiewet BZK 2014, alsmede op enig bezwaar of beroep, ingesteld tegen een besluit over een dergelijke aanvraag, blijven de artikelen 1, eerste lid, onderdeel g, 7b, eerste lid, 8, vijfde en zevende lid, 9, 10 en 12, derde lid, zoals deze luidden op het tijdstip waarop de aanvraag werd ingediend, van toepassing.   
+4.  Op een aanvraag om een omgevingsvergunning voor het bouwen van een bouwwerk, als bedoeld in artikel 2.1, eerste lid, onder a, van de Wet algemene bepalingen omgevingsrecht, ingediend op of na het tijdstip van inwerkingtreding van de Reparatiewet BZK 2014 tot 1 juli 2018, waarbij het bouwen plaatsvindt in een gebied waar op het tijdstip van indienen van de aanvraag geen bestemmingsplan als bedoeld in de Wet ruimtelijke ordening van toepassing is, alsmede op enig bezwaar of beroep, ingesteld tegen een besluit over een dergelijke aanvraag, blijven de artikelen 1, eerste lid, onderdeel g, 7b, eerste lid, 8, vijfde en zevende lid, 10 en 12, derde lid, zoals deze laatstelijk luidden voor het tijdstip van inwerkingtreding van de Reparatiewet BZK 2014, van toepassing.  
 
 ### Artikel  134  
 

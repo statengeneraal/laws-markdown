@@ -370,7 +370,8 @@ b. het paspoortnummer.
 ### Artikel  3.10  
 
 1.  De vreemdeling die door een geestelijke of lichamelijke belemmering blijvend niet in staat is het basisexamen inburgering, bedoeld in artikel 3.98a van het Besluit af te leggen, overlegt een verklaring van het model dat als bijlage 19 bij deze regeling is gevoegd, dat is ingevuld en ondertekend door een door het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging aangewezen arts of deskundige.   
-2.  De kosten van een consult bij een door het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging aangewezen arts of deskundige zoals bedoeld in het eerste lid, komen voor rekening van de vreemdeling.  
+2.  De kosten van een consult bij een door het hoofd van de Nederlandse diplomatieke of consulaire vertegenwoordiging aangewezen arts of deskundige zoals bedoeld in het eerste lid, komen voor rekening van de vreemdeling.   
+3.  De in het eerste lid bedoelde verklaring wordt aan de aangewezen arts aangeboden met de in bijlage 19 opgenomen begeleidende brief en het in bijlage 19 opgenomen ingevulde registratieformulier. 
 
 ### Artikel  3.11  
 
@@ -379,7 +380,7 @@ b. het paspoortnummer.
 
 ### Artikel  3.12  
 
-De kosten, bedoeld in artikel 3.98b, tweede lid, van het Besluit worden voldaan door storting of overschrijving van het verschuldigde bedrag in Euro op een door de Minister van Buitenlandse Zaken aan te wijzen bankrekening. 
+De kosten, bedoeld in artikel 3.98b, tweede lid, van het Besluit worden voldaan door storting of overschrijving van het verschuldigde bedrag in Euro op een door de Minister van Sociale Zaken en Werkgelegenheid aan te wijzen bankrekening. 
 
 ### Artikel  3.13  
 
@@ -2344,70 +2345,11 @@ Puntenstelsel:
 
 ### Bijlage  19  
 
-####, behorend bij artikel 3.10, eerste lid , Voorschrift Vreemdelingen 2000
+####, behorende bij artikel 3.10, eerste en derde lid 
 
-####Registratieformulier, tevens toestemmingsverklaring
+####STANDAARD VRAGENFORMULIER (t.b.v. opstellen medisch advies) AAN ARTS
 
-ten behoeve van arts /deskundige in het kader van een verzoek tot medische ontheffing basisexamen inburgering buitenland. In te vullen door verzoeker van ontheffing op basis van medische indicatie. Gelieve onderstaand uw persoonlijke gegevens in te vullen en te retourneren met 2 gelijkende pasfoto’s.  
-
-| --- | --- |
-|:---|:---|
-| (geslachts)na(a)men:  |  ................ M/V  |
-| voorna(a)m(en):  |  ................  |
-| geboortedatum:  | ................  |
-| adres:  |  ................  |
-| woonplaats:  | ................  |
-| land:  | ................  |
-| telefoon:  |  ................  |
-| beroep:  |  ................  |
-| nationaliteit:  | ................  |
-
-Met de ondertekening van dit formulier verklaar ik mijn toestemming en medewerking te verlenen aan een medische consultatie door een door de ambassade/het consulaat-generaal aangewezen arts over mijn lichamelijke gesteldheid, en dat hierover – door tussenkomst van de ambassade/het consulaat-generaal – een medisch rapport ten behoeve van de Immigratie- en Naturalisatiedienst (IND) in Nederland zal worden uitgebracht. Handtekening: ................ Plaats en datum: ................ __________________________________________________________________________________________ In te vullen door de post: Datum registratie in het IEBS: ................ Referentienummer:................ Plaats, datum, stempel post Standaardbrief voor de arts, betreffende zijn/haar rol in het kader van de ontheffing basisexamen inburgering buitenland. Plaatsnaam, datum Geachte heer/mevrouw, U heeft aan de Nederlandse ambassade / het consulaat-generaal aangegeven personen medisch te willen keuren die aanspraak willen maken op ontheffing van het basisexamen inburgering. Dit document is bedoeld om u nadere informatie te verschaffen over het examen en de ontheffingsprocedure. Tevens verzoek ik u in te stemmen met de standaard werkwijze en een ondertekende kopie van dit document te retourneren. 
-### *Wat is het basisexamen inburgering en waaruit bestaat dit?* 
-
-Het behalen van het basisexamen inburgering is één van de voorwaarden voor toelating tot Nederland. Dit toelatingsvereiste houdt in dat de vreemdeling, vóór zijn/haar komst naar Nederland, moet beschikken over kennis op basisniveau van de Nederlandse taal en de Nederlandse samenleving. De basiskennis die de vreemdeling reeds voor de komst naar Nederland in het buitenland moet hebben verworven, wordt in het buitenland beoordeeld aan de hand van een basisexamen inburgering. De resultaten van dat basisexamen worden betrokken bij de aanvraag die de vreemdeling met het oog op verblijf in Nederland doet. Het basisexamen wordt telefonisch afgenomen en bevat een onderdeel gesproken Nederlandse taal, een onderdeel geletterdheid en begrijpend lezen en een onderdeel kennis van de Nederlandse samenleving. Bij het telefonische examen wordt ook gebruik gemaakt van een fotoboek. De ingesproken antwoorden worden beoordeeld door een spraakherkenningscomputer. Betrokkene hoeft voor het afleggen van het examen niet te kunnen schrijven. Het daadwerkelijk afleggen van het basisexamen inburgering duurt ongeveer 55 minuten. 
-### *Wie is ontheven van de verplichting de toets af te leggen?* 
-
-Personen die als gevolg van een lichamelijke of geestelijke belemmering* blijvend niet in staat zijn het basisexamen inburgering te doen*, kunnen ontheffing krijgen van de volledige toets. 
-### *Ontheffing* 
-
-Het kan voorkomen dat wegens de aanwezigheid van een ernstige lichamelijke of geestelijke handicap een persoon permanent niet in staat is om het basisexamen inburgering buitenland af te leggen. Voor wat betreft lichamelijke handicap gaat het met name om blindheid, doofheid alsmede om doofstomheid. Onder blind of doof valt mede slechtziendheid en hardhorendheid, indien betrokkene niet door eigen hulpmiddelen (bijvoorbeeld een bril of hoorapparaat) alsnog voldoende gezichts- of hoorvermogen krijgt om de toets af te leggen. Voor wat betreft geestelijke handicap betreft het een gebrek aan cognitieve vaardigheden. Tevens kan onder meer gedacht worden aan een ernstig spraakgebrek, dat de menselijke communicatie verhindert en het afleggen van het examen met behulp van de spraakherkenningscomputer blijvend onmogelijk maakt. Vanzelfsprekend is in de praktijk sprake van meer lichamelijke belemmeringen dan hierboven genoemd. In de bijlage treft u een lijst aan met aandoeningen die bovengenoemde handicaps kunnen betreffen. 
-### *De gevraagde verklaring* 
-
-In beginsel is een verklaring van u (dus beantwoording van de op het formulier aangegeven vragen), als arts, over de medische toestand van betrokkene voldoende. Dit geldt echter niet in een geval waarin sprake is van een psychische stoornis, zoals bijvoorbeeld duurzame ernstige depressies en/of duurzame ernstige trauma’s. Beoordeling daarvan dient te geschieden door een deskundige op het gebied van psychische ziektebeelden. In die gevallen dient de verklaring afkomstig te zijn van uzelf eventueel in samenwerking met een psychiater of een psycholoog. Echter, u vult zelf het ambassadeformulier in. 
-### *Wat is de rol van de arts?* 
-
-Deze ambassade/dit consulaat-generaal zal personen die menen in aanmerking te komen voor ontheffing van het basisexamen inburgering naar u doorverwijzen voor een medische keuring. Deze personen geven vooraf toestemming voor het beschikbaar stellen van uw verklaring aan deze ambassade/dit consulaat-generaal. Het is de bedoeling dat u daarbij de vragen in bijgevoegde vragenformulier beantwoordt. U dient deze zelf in te vullen. Wilt U het formulier s.v.p. volledig invullen? Onvolledig ingevulde formulieren kunnen betrokkene in bewijsproblemen brengen. Wilt u het formulier na invullen zelf stempelen, paraferen en terugsturen naar de ambassade, vergezeld van het door de cliënt overgelegde originele registratiebewijs? Tevens dient aan de cliënt door u of door de ambassade/het consulaat-generaal (dit hangt af van de afspraak die hierover door u met de ambassade/het consulaat-generaal is gemaakt) een kopie van deze verklaring te worden gegeven. Over uw antwoorden op de vragen zal de Nederlandse ambassade/het consulaat-generaal in beginsel geen nader contact met u opnemen. Zij accepteert uw formulier en zal deze niet inhoudelijk beoordelen. Beoordeling wordt gedaan door de Immigratie- en Naturalisatiedienst (IND) van het Ministerie van Veiligheid en Justitie in Nederland. Uiteindelijk beslist u dus niet over de ontheffing, dit doet de IND. Een duidelijke beantwoording van de vragen is dan ook erg belangrijk. Uw contactpersoon op de Nederlandse ambassade/het consulaat-generaal is de consul/het hoofd van de Consulaire Afdeling; de heer/mevrouw ................, ................. ................, functie ................ In geval van problemen of vragen kunt u te allen tijde met hem/haar contact opnemen. De ambassadeur, voor deze ................ (handtekening) ................ (naam en functie) Verzoeke u akkoord te gaan met bovenstaande procedure en ter bevestiging onderstaand uw handtekening te plaatsen en een exemplaar te retourneren aan de Nederlandse ambassade/het Nederlandse consulaat-generaal.. In de bijlage treft u in chronologische volgorde de te volgen stappen.  
-
-| --- | --- |
-|:---|:---|
-| ................ ................  | ................  |
-| (plaats) (datum)  | ( handtekening)  |
-
-####Bijlage: Stappen
-
-1. Alvorens u bijgevoegde brief ondertekent dient door de ambassade/het consulaat met U besproken te worden a) op welke wijze het consult wordt betaald (door de kandidaat zelf bij u of ter ambassade/consulaat die het dan weer aan U overmaakt), b) welke procedure (m.n. omtrent betaling) gevolgd dient te worden indien u nadere informatie van een specialist wenst en c) een afspraak te worden gemaakt over wie (u of ambassade/consulaat-generaal) een kopie verleent aan de kandidaat van uw rapport.  
-
-2. U ontvangt van de ambassade/het consulaat-generaal een formulier met gegevens en pasfoto van de kandidaat. Dit houdt in dat binnenkort contact met u zal worden opgenomen om een afspraak te maken.  
-
-3. Door de kandidaat of de ambassade/het consulaat zelf wordt met u contact opgenomen om een afspraak te maken.  
-
-4. Kandidaat meldt zich op afgesproken tijdstip bij u en overhandigt een door de ambassade/het consulaat afgegeven registratiebewijs met pasfoto van de kandidaat. Het is van belang dat u controleert of de persoon overeenkomt met de pasfoto op het formulier dat reeds in uw bezit was en op het registratiebewijs van de kandidaat. Kandidaat kan eventueel een verklaring bij zich dragen van zijn eigen arts, echter dit is niet noodzakelijk, dit is enkel ter eventuele verduidelijking van zijn medische achtergrond.  
-
-5. U wordt verzocht de vragen op het formulier te beantwoorden. Indien u hiervoor meer tijd of advies van specialisten nodig hebt dient u dit te melden aan de kandidaat en hierover contact op te nemen met de ambassade/het consulaat. Dit houdt namelijk in dat de kandidaat extra kosten zal moeten betalen voor dit medische advies.  
-
-6. Met het evt. ingewonnen specialistische advies vult u het formulier in. U verschaft de kandidaat een kopie van uw advies (dit kan evt. ook door de ambassade/het consulaat worden gedaan; dit dient met de ambassade/het consulaat te worden afgestemd).  
-
-7. U verzendt het formulier vergezeld van het door de cliënt aan u overhandigde originele registratiebewijs aan de ambassade/het consulaat.   Alvorens het hele proces van start gaat is het van belang dat de hele procedure voor u helder is en dat goede afspraken worden gemaakt met de ambassade/het consulaat omtrent de te volgen procedure, betaling, vertrouwelijkheid, kopieverlening van uw verklaring aan cliënt, alsmede het zelf archiveren van stukken van cliënten. STANDAARD VRAGENFORMULIER (t.b.v. opstellen medisch advies) AAN ARTS  *Betreft:*   
-
-| --- | --- |
-|:---|:---|
-| Geslachtsnaam kandidaat:   | ...........  |
-| Voorna(a)m(en) kandidaat:   | ...........  |
-| Geboortedatum kandidaat:   | ...........  |
-| Nationaliteit kandidaat:   | ...........  |
-
-Betrokkene heeft een verzoek ingediend tot ontheffing van het basisexamen inburgering om medische redenen. Hierbij doe ik u een kopie toestemmingsverklaring toekomen van ....... *(datum)*  Graag ontvang ik van u de antwoorden op de volgende vragen: 
+*Betreft:*  Geslachtsnaam kandidaat: ........... Voorna(a)m(en) kandidaat: ........... Geboortedatum kandidaat: ........... Nationaliteit kandidaat: ........... Betrokkene heeft een verzoek ingediend tot ontheffing van het basisexamen inburgering om medische redenen. Hierbij doe ik u een kopie toestemmingsverklaring toekomen van ................. *(datum)*  Graag ontvang ik van u de antwoorden op de volgende vragen: 
 
 1a. Heeft betrokkene een of meerdere medische klachten?  
 
@@ -2419,9 +2361,9 @@ Betrokkene heeft een verzoek ingediend tot ontheffing van het basisexamen inburg
 
 3b. Wordt betrokkene voor deze klachten behandeld?  
 
-3a.  Waaruit bestaat de behandeling en sinds wanneer wordt betrokkene hiervoor behandeld?  
+3c. Waaruit bestaat de behandeling en sinds wanneer wordt betrokkene hiervoor behandeld?  
 
-3d.  Door wie wordt betrokkene behandeld? (Functie, naam, adres)  
+3d. Door wie wordt betrokkene behandeld? (Functie, naam, adres)  
 
 4. Is de verwachting dat deze klachten (ondanks medische behandeling) langer dan drie jaar aanhouden?  
 
@@ -2435,19 +2377,97 @@ Betrokkene heeft een verzoek ingediend tot ontheffing van het basisexamen inburg
 
 7a. Hebben de klachten invloed op de spraak?  
 
-7b.  Zo ja, wilt u zo nauwkeurig mogelijk beschrijven waaruit deze spraakproblemen bestaan?  
+7b. Zo ja, wilt u zo nauwkeurig mogelijk beschrijven waaruit deze spraakproblemen bestaan?  
 
-7c.  Kunt u aangeven of de spraak van betrokkene eerder te typeren valt als (vrijwel) nihil, zeer beperkt, beperkt, enigszins beperkt of (vrijwel) onbeperkt?  
+7c. Kunt u aangeven of de spraak van betrokkene eerder te typeren valt als (vrijwel) nihil, zeer beperkt, beperkt, enigszins beperkt of (vrijwel) onbeperkt?  
 
 8a. Is er sprake van een verstandelijke beperking of geestelijke stoornis?  
 
-8b.  Kunt u aangeven of de verstandelijke beperking of geestelijke stoornis van betrokkene maakt dat zijn of haar cognitieve vaardigheden eerder te typeren valt als (vrijwel) nihil, zeer beperkt, beperkt, enigszins beperkt of (vrijwel) onbeperkt?  
+8b. Kunt u aangeven of de verstandelijke beperking of geestelijke stoornis van betrokkene maakt dat zijn of haar cognitieve vaardigheden eerder te typeren valt als (vrijwel) nihil, zeer beperkt, beperkt, enigszins beperkt of (vrijwel) onbeperkt?  
 
 8c. Welke deskundige op het gebied van psychische ziektebeelden is door u geraadpleegd? Graag naam, datum en specialisme aangeven.  
 
 9. Indien sprake is van medische klachten anders dan genoemd in vraag 5 t/m 8, kunt u aangeven op welke wijze betrokkene door de medische klachten wordt belemmerd in het dagelijks leven?  
 
-10. Eventuele opmerkingen/aanvullingen:   Naam arts: Dr ......... Adres: ......... Plaatsnaam, datum: ......... Handtekening: ......... (eventueel voorzien van stempel van arts) 
+10. Eventuele opmerkingen/aanvullingen:   Naam arts: Dr................................ Adres: ... ................................. Plaatsnaam, datum: .................................... Handtekening: .................................... (eventueel voorzien van stempel van arts) Standaardbrief voor de arts betreffende zijn/haar rol in het kader van de ontheffing basisexamen inburgering buitenland. Plaatsnaam, datum Geachte heer/mevrouw, U heeft aan de Nederlandse ambassade / het consulaat-generaal aangegeven personen medisch te willen keuren die aanspraak willen maken op ontheffing van het basisexamen inburgering. Dit document is bedoeld om u nadere informatie te verschaffen over het examen en de ontheffingsprocedure. Tevens verzoek ik u in te stemmen met de standaard werkwijze en een ondertekende kopie van dit document te retourneren. 
+### *Wat is het basisexamen inburgering en waaruit bestaat dit?* 
+
+Het behalen van het basisexamen inburgering is één van de voorwaarden voor toelating tot Nederland. Dit toelatingsvereiste houdt in dat de vreemdeling, vóór zijn/haar komst naar Nederland, moet beschikken over kennis op basisniveau van de Nederlandse taal en de Nederlandse samenleving. De basiskennis die de vreemdeling reeds voor de komst naar Nederland in het buitenland moet hebben verworven, wordt in het buitenland beoordeeld aan de hand van een basisexamen inburgering. De resultaten van dat basisexamen worden betrokken bij de aanvraag die de vreemdeling met het oog op verblijf in Nederland doet. Het basisexamen bestaat wordt middels een computer met headset afgenomen en bestaat uit drie delen: spreekvaardigheid, leesvaardigheid en kennis van de Nederlandse samenleving. In deel 1 en 2 wordt de kennis van de Nederlandse taal getoetst. In deel 3 wordt de kennis van de Nederlandse samenleving getoetst. Ingesproken antwoorden worden beoordeeld door menselijke beoordelaars, aangeklikte antwoorden worden beoordeeld door de computer. Betrokkene hoeft voor het afleggen van het examen niet te kunnen schrijven. Het daadwerkelijk afleggen van het basisexamen inburgering duurt maximaal 90 minuten. 
+### *Wie is ontheven van de verplichting de toets af te leggen?* 
+
+Personen die als gevolg van een lichamelijke of geestelijke belemmering* blijvend niet in staat zijn het basisexamen inburgering te doen*, kunnen ontheffing krijgen van de volledige toets. 
+### *Ontheffing* 
+
+Het kan voorkomen dat wegens de aanwezigheid van een ernstige lichamelijke of geestelijke handicap een persoon permanent niet in staat is om het basisexamen inburgering buitenland af te leggen. Voor wat betreft lichamelijke handicap gaat het met name om blindheid, doofheid alsmede om doofstomheid. Onder blind of doof valt mede slechtziendheid en hardhorendheid, indien betrokkene niet door eigen hulpmiddelen (bijvoorbeeld een bril of hoorapparaat) alsnog voldoende gezichts- of hoorvermogen krijgt om de toets af te leggen. Voor wat betreft geestelijke handicap betreft het een gebrek aan cognitieve vaardigheden. Tevens kan onder meer gedacht worden aan een ernstig spraakgebrek, dat de menselijke communicatie verhindert en het afleggen van het examen met behulp van de spraakherkenningscomputer blijvend onmogelijk maakt. Vanzelfsprekend is in de praktijk sprake van meer lichamelijke belemmeringen dan hierboven genoemd. In de bijlage treft u een lijst aan met aandoeningen die bovengenoemde handicaps kunnen betreffen. 
+### *De gevraagde verklaring* 
+
+In beginsel is een verklaring van u (dus beantwoording van de op het formulier aangegeven vragen), als arts, over de medische toestand van betrokkene voldoende. Dit geldt echter niet in een geval waarin sprake is van een psychische stoornis, zoals bijvoorbeeld duurzame ernstige depressies en/of duurzame ernstige trauma’s. Beoordeling daarvan dient te geschieden door een deskundige op het gebied van psychische ziektebeelden. In die gevallen dient de verklaring afkomstig te zijn van uzelf eventueel in samenwerking met een psychiater of een psycholoog. Echter, u vult zelf het ambassadeformulier in. 
+### *Wat is de rol van de arts?* 
+
+Deze ambassade/dit consulaat-generaal zal personen die menen in aanmerking te komen voor ontheffing van het basisexamen inburgering naar u doorverwijzen voor een medische keuring. Deze personen geven vooraf toestemming voor het beschikbaar stellen van uw verklaring aan deze ambassade/dit consulaat-generaal. Het is de bedoeling dat u daarbij de vragen in bijgevoegde vragenformulier beantwoordt. U dient deze zelf in te vullen. Wilt U het formulier s.v.p. volledig invullen? Onvolledig ingevulde formulieren kunnen betrokkene in bewijsproblemen brengen. Wilt u het formulier na invullen zelf stempelen, paraferen en terugsturen naar de ambassade, vergezeld van het door de cliënt overgelegde originele registratiebewijs? Tevens dient aan de cliënt door u of door de ambassade/het consulaat-generaal (dit hangt af van de afspraak die hierover door u met de ambassade/het consulaat-generaal is gemaakt) een kopie van deze verklaring te worden gegeven. Over uw antwoorden op de vragen zal de Nederlandse ambassade/het consulaat-generaal in beginsel geen nader contact met u opnemen. Zij accepteert uw formulier en zal deze niet inhoudelijk beoordelen. Beoordeling wordt gedaan door de Immigratie- en Naturalisatiedienst (IND) van het Ministerie van Veiligheid en Justitie in Nederland. Uiteindelijk beslist u dus niet over de ontheffing, dit doet de IND. Een duidelijke beantwoording van de vragen is dan ook erg belangrijk. Uw contactpersoon op de Nederlandse ambassade/het consulaat-generaal is de consul/het hoofd van de Consulaire Afdeling; de heer/mevrouw ............,......... .., functie .................... In geval van problemen of vragen kunt u te allen tijde met hem/haar contact opnemen. De ambassadeur, voor deze  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| ..........  | (handtekening)  |
+| ..........  | (naam en functie)  |
+
+Verzoeke u akkoord te gaan met bovenstaande procedure en ter bevestiging onderstaand uw handtekening te plaatsen en een exemplaar te retourneren aan de Nederlandse ambassade/het Nederlandse consulaat-generaal. In de bijlage treft u in chronologische volgorde de te volgen stappen.  
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| ........................  | ...........................  |
+| (plaats) (datum)  | ( handtekening)  |
+
+Bijlagen: 2 
+
+### Bijlage:  
+
+####STAPPEN
+
+1. Alvorens u bijgevoegde brief ondertekent dient door de ambassade/het consulaat met U besproken te worden a) op welke wijze het consult wordt betaald (door de kandidaat zelf bij u of ter ambassade/consulaat die het dan weer aan U overmaakt), b) welke procedure (m.n. omtrent betaling) gevolgd dient te worden indien u nadere informatie van een specialist wenst en c) een afspraak te worden gemaakt over wie (u of ambassade/consulaat-generaal) een kopie verleent aan de kandidaat van uw rapport.  
+
+2. U ontvangt van de ambassade/het consulaat-generaal een formulier met gegevens en pasfoto van de kandidaat. Dit houdt in dat binnenkort contact met u zal worden opgenomen om een afspraak te maken.  
+
+3. Door de kandidaat of de ambassade/het consulaat zelf wordt met u contact opgenomen om een afspraak te maken.  
+
+4. Kandidaat meldt zich op afgesproken tijdstip bij u en overhandigt een door de ambassade/het consulaat afgegeven registratiebewijs met pasfoto van de kandidaat. Het is van belang dat u controleert of de persoon overeenkomt met de pasfoto op het formulier dat reeds in uw bezit was en op het registratiebewijs van de kandidaat. Kandidaat kan eventueel een verklaring bij zich dragen van zijn eigen arts, echter dit is niet noodzakelijk, dit is enkel ter eventuele verduidelijking van zijn medische achtergrond.  
+
+5. U wordt verzocht de vragen op het formulier te beantwoorden. Indien u hiervoor meer tijd of advies van specialisten nodig hebt dient u dit te melden aan de kandidaat en hierover contact op te nemen met de ambassade/het consulaat. Dit houdt namelijk in dat de kandidaat extra kosten zal moeten betalen voor dit medische advies.  
+
+6. Met het evt. ingewonnen specialistische advies vult u het formulier in. U verschaft de kandidaat een kopie van uw advies (dit kan evt. ook door de ambassade/het consulaat worden gedaan; dit dient met de ambassade/het consulaat te worden afgestemd).  
+
+7. U verzendt het formulier vergezeld van het door de cliënt aan u overhandigde originele registratiebewijs aan de ambassade/het consulaat.   Alvorens het hele proces van start gaat is het van belang dat de hele procedure voor u helder is en dat goede afspraken worden gemaakt met de ambassade/het consulaat omtrent de te volgen procedure, betaling, vertrouwelijkheid, kopieverlening van uw verklaring aan cliënt, alsmede het zelf archiveren van stukken van cliënten. 
+
+####REGISTRATIEFORMULIER, TEVENS TOESTEMMINGSVERKLARING
+
+ten behoeve van arts /deskundige in het kader van een verzoek tot medische ontheffing basisexamen inburgering buitenland. In te vullen door verzoeker van ontheffing op basis van medische indicatie. Gelieve onderstaand uw persoonlijke gegevens in te vullen en te retourneren met 2 gelijkende pasfoto’s. ![254389](http://wetten.overheid.nl/Illustration/254389)
+
+| --- | --- |
+|:---|:---|
+| --- | --- |
+| (geslachts)na(a)men  | : ..............................................................M/V  |
+| voorna(a)m(en)  | : ..................................................................  |
+| geboortedatum  | : ..................................................................  |
+| adres  | : ..................................................................  |
+| woonplaats  | : ..................................................................  |
+| land  | : ..................................................................  |
+| telefoon  | : ..................................................................  |
+| beroep  | : ..................................................................  |
+| nationaliteit  | : ..................................................................  |
+
+Met de ondertekening van dit formulier verklaar ik mijn toestemming en medewerking te verlenen aan een medische consultatie door een door de ambassade/het consulaat-generaal aangewezen arts over mijn lichamelijke gesteldheid, en dat hierover – door tussenkomst van de ambassade/het consulaat-generaal – een medisch rapport ten behoeve van de Immigratie- en Naturalisatiedienst (IND) in Nederland zal worden uitgebracht.  
+
+|--- |--- | Handtekening  | : ..................................................................  |
+|:---|:---|:---|:---|
+| Plaats en datum  | : ..................................................................  |
+| --- | --- |
+| In te vullen door de post:  | --- |
+| Datum registratie in het IEBS  | : ..................................................................  |
+| Referentienummer  | : ..................................................................  |
+| --- | --- |
+| Plaats, datum, stempel post  | --- |
 
 ### Bijlage 20 
 

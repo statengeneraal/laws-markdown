@@ -30,7 +30,7 @@ b. een centrale opzet van de stemopneming op gemeentelijk niveau op één of mee
 1.  De experimenten vinden voor zover mogelijk plaats overeenkomstig hetgeen bij en krachtens de Kieswet is bepaald.   
 2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de experimenten en de daarbij te gebruiken voorzieningen. Deze regels kunnen op het naastlagere niveau afwijken van het bepaalde bij en krachtens de volgende onderdelen van de Kieswet: 
 
-a. de artikelen E 4 tot en met E 10 en E 11, derde en vierde lid, zodat bij een experiment gemeentelijke stembureaus kunnen worden ingesteld en de taken van hoofdstembureaus kunnen worden toebedeeld aan de gemeentelijke stembureaus en het centrale stembureau;  
+a. de artikelen E 4 tot en met E 10 en E 11, derde, vierde en vijfde lid, zodat bij een experiment gemeentelijke stembureaus kunnen worden ingesteld en de taken van hoofdstembureaus kunnen worden toebedeeld aan de gemeentelijke stembureaus en het centrale stembureau;  
 
 b. de artikelen J 20, M 2, M 6 tot en met M 12 en M 14 tot en met M 17, met betrekking tot het verzenden en retourneren van bescheiden, de wijze waarop de stem wordt uitgebracht, de werkwijze en samenstelling van het briefstembureau, de inrichting van het briefstembureaulokaal, en de gang van zaken bij de ontvangst en het openen van retourenveloppen;  
 

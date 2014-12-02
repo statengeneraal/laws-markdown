@@ -4210,7 +4210,7 @@ g. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing 
 
 a. artikel 15, eerste lid, voor zover het betreft een weigering van de vergunning  
 
-b. artikel 15, zesde lid, voor zover het betreft een afwijzing van het verzoek tot verlenging  
+b. artikel 15, negende lid, voor zover het betreft een afwijzing van het verzoek tot verlenging  
 
 c. artikel 16, tiende lid, eerste volzin, en elfde lid, eerste volzin    Mijnbouwwet: de artikelen 141a, derde lid, 141b, derde lid, en 141c, tweede en derde lid  Natuurbeschermingswet 1998: de artikelen 17, 19kg en 23  Onteigeningswet   Ontgrondingenwet: mededeling als bedoeld in artikel 10, tweede en derde lid Politiewet 2012: de artikelen 18, 20, 34, 35, 37, eerste lid, 39, derde en vijfde lid, en 52  Provinciewet:  
 

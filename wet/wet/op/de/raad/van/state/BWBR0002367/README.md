@@ -81,7 +81,7 @@ d. betrekkingen waarvan de uitoefening ongewenst is met het oog op een goede ver
 2.  Behoudens indien de onverenigbaarheid ook uit een ander wettelijk voorschrift voortvloeit, kan ten aanzien van een lid op diens verzoek van het eerste lid, onderdeel a, bij koninklijk besluit, de Raad van State gehoord, voor een bepaalde tijd ontheffing worden verleend.   
 3.  Gedurende de ontheffing, bedoeld in het tweede lid, is het lid ontheven van de waarneming van zijn ambt.   
 4.  De bezoldiging wordt gedurende de periode van de ontheffing van de waarneming van zijn ambt ingehouden.  
-5.  De betrekkingen die de vice-president en de leden buiten hun ambt vervullen worden door de vice-president openbaar gemaakt. De artikelen 44, derde tot en met zesde en achtste lid, en 44a van de Wet rechtspositie rechterlijke ambtenaren zijn van overeenkomstige toepassing.  
+5.  De betrekkingen die de vice-president en de leden buiten hun ambt vervullen worden door de vice-president openbaar gemaakt. De artikelen 44, vijfde tot en met achtste en tiende lid, en 44a, eerste tot en met achtste en tiende lid, van de Wet rechtspositie rechterlijke ambtenaren zijn van overeenkomstige toepassing.  
 
 ### Artikel  6  
 
@@ -105,7 +105,7 @@ De Raad is belast met de taken, bij de artikelen 35 en 38 van de Grondwet aan he
 1.  Er kunnen staatsraden worden benoemd.   
 2.  Zij worden gekozen uit hen, die bekwaamheid of deskundigheid hebben bewezen op het gebied van wetgeving, bestuur of rechtspraak dan wel in aangelegenheden die daaraan raken.   
 3.  De staatsraden worden bij koninklijk besluit op voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties in overeenstemming met Onze Minister van Justitie voor het leven benoemd. Voor zover zij niet met rechtspraak worden belast, kunnen zij voor een bepaalde tijd van ten minste drie jaren worden benoemd. Vacatures worden in de Staatscourant gepubliceerd onder opgave van het profiel van de gezochte kandidaat of kandidaten. De Tweede Kamer der Staten-Generaal voert ten minste eenmaal per jaar overleg met de vice-president over de vacatures. Voor de benoeming doet de Raad een aanbeveling. De aanbeveling wordt gedaan gehoord de afdeling of afdelingen van de Raad waarvan de te benoemen staatsraad deel zal uitmaken.   
-4.  De artikelen 2, derde tot en met vijfde lid, 3, 4, 5, eerste lid, aanhef en onder d, en tweede lid, en 6 zijn op hen van overeenkomstige toepassing.  
+4.  De artikelen 2, derde tot en met vijfde lid, 3, 4, 5, eerste lid, aanhef en onder d, en vijfde lid, en 6 zijn op hen van overeenkomstige toepassing.  
 
 ### Artikel  9  
 
@@ -115,7 +115,7 @@ De staatsraden hebben bij de vervulling van hun taak de bevoegdheden van een lid
 
 1.  Er kunnen staatsraden in buitengewone dienst worden benoemd.   
 2.  Een staatsraad in buitengewone dienst neemt slechts deel aan de werkzaamheden van de Raad of van een van zijn afdelingen, voorzover hij daartoe door de vice-president is opgeroepen.   
-3.  De artikelen 2, derde tot en met vijfde lid, 3, 4, 5, eerste lid, aanhef en onder d, en tweede lid, 6, 8, tweede en derde lid, en 9 zijn van overeenkomstige toepassing.  
+3.  De artikelen 2, derde tot en met vijfde lid, 3, 4, 5, eerste lid, aanhef en onder d, en vijfde lid, 6, 8, tweede en derde lid, en 9 zijn van overeenkomstige toepassing.  
 
 ### Afdeling  3  
 

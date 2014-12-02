@@ -5692,7 +5692,19 @@ De minister verdeelt het subsidieplafond evenredig over de ingediende aanvragen.
 ####Afwijzingsgronden
 
 1.  De afwijzingsgronden, genoemd in artikel 23, onderdeel a, b, c, d, e, f, g, h en j, van het besluit zijn niet van toepassing.   
-2.  De minister beslist afwijzend op een aanvraag om subsidie indien de subsidieaanvrager op 1 maart van het jaar waarin de subsidie wordt aangevraagd niet is toegetreden tot een convenant waarin de subsidieaanvrager in het kader van met de minister, de Minister van Financiën en de Minister van Infrastructuur en Milieu gemaakte afspraken verplichtingen op zich heeft genomen ter verbetering van de energie-efficiëntie.  
+2.  De minister beslist afwijzend op een aanvraag om subsidie indien: 
+
+a. de subsidieaanvrager geen deelnemer is van een convenant, waarin de subsidieaanvrager in het kader van met de minister, de Minister van Financiën en de minister van Infrastructuur en Milieu gemaakte afspraken verplichtingen op zich heeft genomen ter verbetering van de energie-efficiëntie,  
+
+b. de subsidieaanvrager de minister binnen de openstellingstermijn van het jaar van de aanvraag niet heeft gerapporteerd over de voortgang van de uitvoering van haar door de minister van een positief advies voorzien energie-efficiëntieplan en  
+
+c. de subsidieaanvrager: 
+
+1°. de in het energie-efficiëntieplan vastgelegde maatregel ter verbetering van de energie-efficiëntie voor het jaar voorafgaand aan het jaar van de aanvraag niet heeft gerealiseerd in het voorafgaande jaar,  
+
+2°. geen andere maatregel heeft getroffen tot verbetering van de energie-efficiëntie in het jaar voorafgaand aan het jaar van de aanvraag of  
+
+3°. geen argument heeft aangeleverd dat door de minister als valide wordt aangemerkt voor het niet realiseren van de in het energie efficiency plan vastgelegde maatregel tot verbetering van de energie-efficiëntie.      
 
 ### Artikel  4.4.9  
 

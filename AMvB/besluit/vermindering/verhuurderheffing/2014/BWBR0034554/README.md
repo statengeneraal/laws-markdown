@@ -82,9 +82,7 @@ o. werkzaamheden die noodzakelijkerwijs voortvloeien uit of samenhangen met de w
 
 ####Wijziging van de inkomensgrenzen
 
-### Artikel  4  
-
-De bedragen, genoemd in de artikelen 1, eerste lid, onderdeel a, en 10, tweede lid, eerste volzin, onderdelen a en b, van de Uitvoeringswet huurprijzen woonruimte, worden bij ministeriële regeling met ingang van 1 januari van elk jaar, voor het eerst op 1 januari 2014, gewijzigd met het percentage waarmee per 1 januari van het peiljaar het bedrag, genoemd in artikel 18, eerste lid, onderdeel d, van de Wet op de huurtoeslag, is gewijzigd. 
+Vervallen per 29-11-2014 
 
 ### Hoofdstuk  4  
 

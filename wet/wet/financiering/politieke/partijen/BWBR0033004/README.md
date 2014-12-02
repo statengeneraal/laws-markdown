@@ -113,15 +113,15 @@ i. activiteiten in het kader van verkiezingscampagnes.
 
 1.  De subsidie bedraagt ten hoogste de som van de volgende bedragen: 
 
-a. een basisbedrag van € 178 384, per kamerzetel van de politieke partij een bedrag van € 51 740 en per lid van de politieke partij een bedrag dat gelijk is aan € 1 953 202 gedeeld door het totale aantal leden van de politieke partijen die op de peildatum subsidie ontvangen;  
+a. een basisbedrag van € 176.371,15, per kamerzetel van de politieke partij een bedrag van € 51.155,98 en per lid van de politieke partij een bedrag dat gelijk is aan € 1.931.169,33 gedeeld door het totale aantal leden van de politieke partijen die op de peildatum subsidie ontvangen;  
 
-b. indien de politieke partij op de peildatum een politiek-wetenschappelijk instituut heeft aangewezen als neveninstelling als bedoeld in artikel 2, een basisbedrag van € 125 287 en een bedrag van € 12 877 per kamerzetel van de politieke partij;  
+b. indien de politieke partij op de peildatum een politiek-wetenschappelijk instituut heeft aangewezen als neveninstelling als bedoeld in artikel 2, een basisbedrag van € 123.873,60 en een bedrag van € 12.732,11 per kamerzetel van de politieke partij;  
 
 c. indien de politieke partij op de peildatum een politieke jongerenorganisatie heeft aangewezen als neveninstelling als bedoeld in artikel 3, een bedrag per kamerzetel van de politieke partij en een bedrag per lid van de politieke jongerenorganisatie, berekend overeenkomstig het tweede lid;  
 
-d. indien de politieke partij op de peildatum een instelling voor buitenlandse activiteiten heeft aangewezen als neveninstelling als bedoeld in artikel 4, een basisbedrag en een bedrag per kamerzetel van de politieke partij, berekend overeenkomstig het derde lid.     
-2.  Het bedrag per kamerzetel, bedoeld in het eerste lid, onder c, wordt berekend door € 502 223 te delen door het totale aantal kamerzetels van de politieke partijen die op de peildatum een politieke jongerenorganisatie hebben aangewezen. Het bedrag per lid van de politieke jongerenorganisatie wordt berekend door € 502 223 te delen door het totale aantal leden van alle aangewezen politieke jongerenorganisaties.   
-3.  Het basisbedrag, bedoeld in het eerste lid, onder d, wordt berekend door € 615 000 te delen door het totale aantal politieke partijen dat op de peildatum een instelling voor buitenlandse activiteiten heeft aangewezen. Het bedrag per kamerzetel, bedoeld in het eerste lid, onder d, wordt berekend door € 885 000 te delen door het totale aantal kamerzetels van de politieke partijen die op de peildatum een instelling voor buitenlandse activiteiten hebben aangewezen.   
+d. indien de politieke partij op de peildatum een instelling voor buitenlandse activiteiten heeft aangewezen als neveninstelling als bedoeld in artikel 4, een basisbedrag en een bedrag per kamerzetel van de politieke partij, berekend overeenkomstig het derde lid.    
+2.  Het bedrag per kamerzetel, bedoeld in het eerste lid, onder c, wordt berekend door € 496.558,20 te delen door het totale aantal kamerzetels van de politieke partijen die op de peildatum een politieke jongerenorganisatie hebben aangewezen. Het bedrag per lid van de politieke jongerenorganisatie wordt berekend door € 496.558,20 te delen door het totale aantal leden van alle aangewezen politieke jongerenorganisaties.  
+3.  Het basisbedrag, bedoeld in het eerste lid, onder d, wordt berekend door € 616.196 te delen door het totale aantal politieke partijen dat op de peildatum een instelling voor buitenlandse activiteiten heeft aangewezen. Het bedrag per kamerzetel, bedoeld in het eerste lid, onder d, wordt berekend door € 886.721 te delen door het totale aantal kamerzetels van de politieke partijen die op de peildatum een instelling voor buitenlandse activiteiten hebben aangewezen.   
 4.  Voor de toepassing van het eerste, tweede en derde lid wordt voor de vaststelling van het aantal kamerzetels van een politieke partij, het aantal leden van een politieke partij en het aantal leden van een politieke jongerenorganisatie uitgegaan van de peildatum.   
 5.  De bedragen, genoemd in het eerste, tweede en derde lid, worden jaarlijks met ingang van 1 januari bij ministeriële regeling gewijzigd, overeenkomstig de voor de rijksbegroting gehanteerde loon- en prijsbijstelling en afgerond op het naastbij gelegen gehele getal.  
 
@@ -346,7 +346,7 @@ b. de schulden van € 25 000 of meer, met daarbij de gegevens die op grond va
 
 ### Artikel  34  
 
-1.  Een vereniging, die op grond van artikel G 1, G 2, G 3 of Q 6 van de Kieswet, of een vereniging of stichting, die op grond van artikel G 2a van de Kieswet, met haar geregistreerde aanduiding boven de kandidatenlijst heeft deelgenomen aan de laatstgehouden verkiezing van de Tweede Kamer der Staten-Generaal, de Eerste Kamer der Staten-Generaal, provinciale staten, de gemeenteraad, een deelraad als bedoeld in artikel 87, tweede lid, van de Gemeentewet, of het algemeen bestuur van een waterschap, waarbij aan die lijst ten minste een zetel in het orgaan waarvoor de verkiezingen plaatsvonden is toegewezen, en die geen afdeling is van een politieke partij, stelt een giftenreglement op, waarin zij bepaalt hoe zij omgaat met bijdragen en de openbaarmaking daarvan. Het giftenreglement is openbaar.   
+1.  Een vereniging, die op grond van artikel G 1, G 2, G 3 of Q 6 van de Kieswet, of een vereniging of stichting, die op grond van artikel G 2a van de Kieswet, met haar geregistreerde aanduiding boven de kandidatenlijst heeft deelgenomen aan de laatstgehouden verkiezing van de Tweede Kamer der Staten-Generaal, de Eerste Kamer der Staten-Generaal, provinciale staten, de gemeenteraad, of het algemeen bestuur van een waterschap, waarbij aan die lijst ten minste een zetel in het orgaan waarvoor de verkiezingen plaatsvonden is toegewezen, en die geen afdeling is van een politieke partij, stelt een giftenreglement op, waarin zij bepaalt hoe zij omgaat met bijdragen en de openbaarmaking daarvan. Het giftenreglement is openbaar.   
 2.  Het giftenreglement van een politieke partij is van overeenkomstige toepassing op haar afdelingen.  
 
 ### §  4a  
@@ -434,7 +434,7 @@ De Wet subsidiëring politieke partijen wordt ingetrokken.
 
 ### Artikel  43  
 
-De bedragen, genoemd in artikel 8, eerste lid, onderdelen a, b en c, en tweede lid, worden ten behoeve van de kalenderjaren 2011 tot en met 2015, na toepassing van artikel 8, vierde lid, nader gewijzigd door het resultaat van de berekening: 
+De bedragen, genoemd in artikel 8, eerste lid, onderdelen a, b en c, en tweede lid, worden ten behoeve van de kalenderjaren 2011 tot en met 2015, na toepassing van artikel 8, vijfde lid, nader gewijzigd door het resultaat van de berekening: 
 
 a. per 1 januari 2011 te verlagen met 1,39%;  
 

@@ -187,7 +187,9 @@ Treedt in werking per 01-01-2015
 Treedt in werking per 01-01-2015 
 
 1.  Een huisvestingsvergunning wordt verleend indien de aanvrager behoort tot een krachtens artikel 10, eerste lid, aangewezen categorie woningzoekenden en hij voldoet aan het bepaalde in artikel 10, tweede lid.   
-2.  Indien de woonruimte is aangewezen op grond van artikel 11, 12, eerste lid, of 14, eerste of tweede lid, kan de huisvestingsvergunning worden geweigerd indien een of meer andere woningzoekenden aan wie op grond van die artikelen voorrang kan worden gegeven in aanmerking wensen te komen voor die woonruimte.  
+2.  Indien de woonruimte is aangewezen op grond van artikel 11, 12, eerste lid, of 14, eerste of tweede lid, kan de huisvestingsvergunning worden geweigerd indien een of meer andere woningzoekenden aan wie op grond van die artikelen voorrang kan worden gegeven in aanmerking wensen te komen voor die woonruimte.   
+3.  De vergunning kan, in afwijking van het eerste lid, worden geweigerd in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+4.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
 
 ### Artikel  16  
 Treedt in werking per 01-01-2015 
@@ -201,6 +203,7 @@ b. woningzoekenden die verblijven in een voorziening voor tijdelijke opvang van 
 ### Artikel  16a  
 Treedt in werking per 01-01-2015 
 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/458 per 29-11-2014. 
 1.  De vergunning kan, in afwijking van artikel 16, eerste lid, worden geweigerd in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
 2.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.  
 
@@ -219,14 +222,16 @@ c. ingeval de woonruimte te koop wordt aangeboden, de koopprijs niet hoger is da
 ### Artikel  18  
 Treedt in werking per 01-01-2015 
 
-Burgemeester en wethouders kunnen een huisvestingsvergunning intrekken indien: 
+1. Burgemeester en wethouders kunnen een huisvestingsvergunning intrekken indien: 
 
-a. de vergunninghouder de in die vergunning vermelde woonruimte niet binnen de door burgemeester en wethouders bij de verlening gestelde termijn in gebruik heeft genomen, of  
+a. de houder van de vergunning de in die vergunning vermelde woonruimte niet binnen de door burgemeester en wethouders bij de verlening gestelde termijn in gebruik heeft genomen, of  
 
-b. die vergunning is verleend op grond van door de vergunninghouder verstrekte gegevens waarvan deze wist of redelijkerwijs moest vermoeden dat zij onjuist of onvolledig waren.   
+b. die vergunning is verleend op grond van door de houder van de vergunning verstrekte gegevens waarvan deze wist of redelijkerwijs moest vermoeden dat zij onjuist of onvolledig waren.    
+2.  Burgemeester en wethouders kunnen een huisvestingsvergunning voorts intrekken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet integriteitsbeoordelingen door het openbaar bestuur.   
+3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
 
 ### Artikel  19  
-Treedt in werking per 01-01-2015 
+Treedt in werking op een nader te bepalen tijdstip 
 
 1. Burgemeester en wethouders kunnen van de bevoegdheden krachtens de artikelen 15 tot en met 17 mandaat verlenen aan eigenaren of beheerders van woonruimte voor zover het die woonruimte betreft.  
 2.  Burgemeester en wethouders kunnen een huisvestingsvergunning voorts intrekken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet integriteitsbeoordelingen door het openbaar bestuur.   
@@ -258,18 +263,20 @@ Treedt in werking per 01-01-2015
 ### Artikel  21  
 Treedt in werking per 01-01-2015 
 
-Het is verboden om een woonruimte, behorend tot een met het oog op het behoud of de samenstelling van de woonruimtevoorraad door de gemeenteraad in de huisvestingsverordening aangewezen categorie gebouwen, zonder vergunning van burgemeester en wethouders: 
+Het is verboden om een woonruimte, behorend tot een met het oog op het behoud of de samenstelling van de woonruimtevoorraad door de gemeenteraad in de huisvestingsverordening aangewezen categorie gebouwen en die gelegen is in een in de huisvestingsverordening aangewezen wijk, zonder vergunning van burgemeester en wethouders: 
 
 a. anders dan ten behoeve van de bewoning of het gebruik als kantoor of praktijkruimte door de eigenaar aan de bestemming tot bewoning te onttrekken;  
 
 b. anders dan ten behoeve van de bewoning of het gebruik als kantoor of praktijkruimte door de eigenaar met andere woonruimte samen te voegen;  
 
-c. van zelfstandige in onzelfstandige woonruimte om te zetten.   
+c. van zelfstandige in onzelfstandige woonruimte om te zetten;  
+
+d. te verbouwen tot twee of meer woonruimten.  
 
 ### Artikel  22  
-Treedt in werking per 01-01-2015 
+Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Het is verboden om een recht op een gebouw dat behoort tot een door de gemeenteraad in de huisvestingsverordening daartoe aangewezen categorie gebouwen en die gelegen is in een in de huisvestingsverordening aangewezen wijk zonder vergunning van burgemeester en wethouders te splitsen in appartementsrechten als bedoeld in artikel 106, eerste en vierde lid, van Boek 5 van het Burgerlijk Wetboek indien een of meer appartementsrechten de bevoegdheid omvatten tot het gebruik van een of meer gedeelten van het gebouw als woonruimte.   
+1.  Het is verboden om een recht op een gebouw dat behoort tot een door de gemeenteraad in de huisvestingsverordening daartoe aangewezen categorie gebouwen zonder vergunning van burgemeester en wethouders te splitsen in appartementsrechten als bedoeld in artikel 106, eerste en vierde lid, van Boek 5 van het Burgerlijk Wetboek indien een of meer appartementsrechten de bevoegdheid omvatten tot het gebruik van een of meer gedeelten van het gebouw als woonruimte.   
 2.  Op het verlenen van deelnemings- of lidmaatschapsrechten of het aangaan van een verbintenis daartoe door een rechtspersoon is het eerste lid van overeenkomstige toepassing.  
 
 ### Artikel  23  
@@ -297,20 +304,24 @@ Treedt in werking per 01-01-2015
 ### Artikel  25  
 Treedt in werking per 01-01-2015 
 
-1.  Burgemeester en wethouders beslissen op de aanvraag om een vergunning als bedoeld in artikel 21 of 22 binnen acht weken na de datum van ontvangst van de aanvraag.   
+1.  De vergunning, bedoeld in artikel 21 of 22, kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
+2.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.  
+3.  Burgemeester en wethouders beslissen op de aanvraag om een vergunning als bedoeld in artikel 21 of 22 binnen acht weken na de datum van ontvangst van de aanvraag.   
 2.  Burgemeester en wethouders kunnen de termijn, bedoeld in het eerste lid, eenmaal verlengen met ten hoogste zes weken. Zij maken hun besluit daartoe bekend binnen de termijn, bedoeld in het eerste lid.   
 3.  Afdeling 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing.  
 
 ### Artikel  26  
 Treedt in werking per 01-01-2015 
 
-Burgemeester en wethouders kunnen een vergunning als bedoeld in artikel 21 of 22 intrekken indien: 
+1. Burgemeester en wethouders kunnen een vergunning als bedoeld in artikel 21 of 22 intrekken indien: 
 
 a. de houder van die vergunning niet binnen een jaar nadat die vergunning onherroepelijk is geworden is overgegaan tot onttrekking, samenvoeging of omzetting, onderscheidenlijk tot inschrijving in de openbare registers van de akte van splitsing in appartementsrechten, bedoeld in artikel 109 van Boek 5 van het Burgerlijk Wetboek, of tot het verlenen van deelnemings- of lidmaatschapsrechten;  
 
 b. die vergunning is verleend op grond van door de houder van die vergunning verstrekte gegevens waarvan deze wist of redelijkerwijs moest vermoeden dat zij onjuist of onvolledig waren, of  
 
-c. de voorwaarden of voorschriften, bedoeld in artikel 24, niet worden nageleefd.   
+c. de voorwaarden of voorschriften, bedoeld in artikel 24, niet worden nageleefd.    
+2.  De vergunning, bedoeld in artikel 21 of 22, kan voorts worden ingetrokken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet integriteitsbeoordelingen door het openbaar bestuur.   
+3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
 
 ### §  4  
 
@@ -319,7 +330,7 @@ c. de voorwaarden of voorschriften, bedoeld in artikel 24, niet worden nageleefd
 Treedt in werking per 01-01-2015 
 
 ### Artikel  27  
-Treedt in werking per 01-01-2015 
+Treedt in werking op een nader te bepalen tijdstip 
 
 1. Inschrijving in de openbare registers van een akte als bedoeld in artikel 109 van Boek 5 van het Burgerlijk Wetboek vindt alleen plaats indien onder de akte een notariële verklaring is opgenomen dat ten tijde van het verlijden van de akte een vergunning als bedoeld in artikel 22 niet was vereist dan wel onherroepelijk is geworden.  
 2.  De vergunning, bedoeld in artikel 22 of 23, kan voorts worden ingetrokken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet integriteitsbeoordelingen door het openbaar bestuur.   
@@ -418,7 +429,7 @@ Treedt in werking per 01-01-2015
 
 a. het bedrag dat is vastgesteld voor de eerste categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, voor overtreding van het verbod, bedoeld in artikel 8, eerste lid, en  
 
-b. het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, voor overtreding van de verboden, bedoeld in de artikelen 8, tweede lid, 21 of 22, of voor het handelen in strijd met de voorwaarden of voorschriften, bedoeld in artikel 24.     
+b. het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, voor overtreding van de verboden, bedoeld in de artikelen 8, tweede lid, 21 of 22, of voor het handelen in strijd met de voorwaarden of voorschriften, bedoeld in artikel 26.     
 3.  De gemeenteraad stelt in de huisvestingsverordening het bedrag vast van de bestuurlijke boete die voor de verschillende overtredingen kan worden opgelegd.  
 
 ### §  3  
@@ -441,7 +452,7 @@ Wijzigt het Burgerlijk Wetboek Boek 7.
 ### Artikel  40  
 Treedt in werking per 01-01-2015 
 
-Wijzigt de Evaluatie- en uitbreidingswet Bibob. 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/458 per 29-11-2014.Wijzigt de Evaluatie- en uitbreidingswet Bibob. 
 
 ### Artikel  41  
 Treedt in werking per 01-01-2015 

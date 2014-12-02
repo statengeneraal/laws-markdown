@@ -3,7 +3,7 @@
 ##Regeling van de Minister voor Wonen en Rijksdienst van 22 november 2013, nr. 2013 – 0000717365, houdende vaststelling van de indeling van de toegelaten instellingen volkshuisvesting in klassen met daarbij toepasselijke bezoldigingsmaxima ten aanzien van hun topfunctionarissen (Regeling bezoldigingsmaxima topfunctionarissen toegelaten instellingen volkshuisvesting 2014)
 
 De Minister voor Wonen en Rijksdienst,  
-Gelet op de [artikelen 2.7](../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) en [2.9 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md);
+Gelet op de artikelen 2.7 en 2.9 van de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector;
 Besluit:    
 
 ### Artikel  1  
@@ -12,9 +12,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *toegelaten instelling:* krachtens [artikel 70, eerste lid, van de Woningwet](../../../../../../../../wet/woningwet/BWBR0005181/README.md) toegelaten rechtspersoon;  
+a.  *toegelaten instelling:* krachtens artikel 70, eerste lid, van de Woningwet toegelaten rechtspersoon;  
 
-b.  *wet:* [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md).   
+b.  *wet:* Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector.   
 
 ### Artikel  2  
 
@@ -39,13 +39,13 @@ De bezoldiging van een topfunctionaris van een toegelaten instelling bedraagt pe
 | G  | € 167.000  |
 | H  | € 185.200  |
 | I  | € 203.400  |
-| J  | bezoldigingsmaximum volgens [artikel 2.3 van de wet](../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md)  |
+| J  | bezoldigingsmaximum volgens artikel 2.3 van de wet  |
 
 ### Artikel  4  
 
 ####Indeling in een andere klasse
 
-1.  Een aanvraag als bedoeld in [artikel 2.7, derde lid, van de wet](../../../../../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) van een toegelaten instelling om met ingang van een kalenderjaar te worden ingedeeld in een andere klasse dan die waarin zij volgens de bij deze regeling behorende tabel is ingedeeld, wordt ingediend voor 1 maart van het kalenderjaar.   
+1.  Een aanvraag als bedoeld in artikel 2.7, derde lid, van de wet van een toegelaten instelling om met ingang van een kalenderjaar te worden ingedeeld in een andere klasse dan die waarin zij volgens de bij deze regeling behorende tabel is ingedeeld, wordt ingediend voor 1 maart van het kalenderjaar.   
 2.  Een aanvraag als bedoeld in het eerste lid bevat een deugdelijke motivering voor de aanvraag.   
 3.  Bij een aanvraag als bedoeld in het eerste lid wordt een verklaring van het toezichthoudende orgaan van de toegelaten instelling gevoegd waaruit zijn instemming met de aanvraag blijkt.  
 
@@ -53,7 +53,7 @@ De bezoldiging van een topfunctionaris van een toegelaten instelling bedraagt pe
 
 ####Intrekking
 
-De [Regeling bezoldigingsmaxima topfunctionarissen toegelaten instellingen volkshuisvesting](../../../../../../../../ministeriele-regeling/regeling/bezoldigingsmaxima/topfunctionarissen/toegelaten/instellingen/etc/BWBR0032315/README.md) wordt ingetrokken. 
+De Regeling bezoldigingsmaxima topfunctionarissen toegelaten instellingen volkshuisvesting wordt ingetrokken. 
 
 ### Artikel  6  
 
@@ -90,7 +90,7 @@ Indeling van toegelaten instellingen in bezoldigingsklassen
 |  *25.001–50.000*   | H  | H  | H  | H  | H  | H  | I  | I  | I  |
 |  *>50.001*   | I  | I  | I  | I  | I  | J  | J  | J  | J  |
 
-Deze tabel deelt de toegelaten instellingen in in bezoldigingsklassen.  *Verticaal* in de tabel is uitgezet het aantal verhuureenheden (VHE) dat de toegelaten instelling op de peildatum in eigendom of beheer heeft volgens de gegevens, bedoeld in [bijlage II bij het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md).  *Horizontaal* in de tabel is uitgezet het aantal inwoners van de grootste gemeente waarin een toegelaten instelling op de peildatum minimaal 20% van haar verhuureenheden in eigendom of beheer heeft. Indien een toegelaten instelling op de peildatum niet minimaal 20% van haar verhuureenheden in één gemeente in eigendom of beheer heeft, betreft dit het aantal inwoners van de gemeente waar de toegelaten instelling op de peildatum het grootste deel van haar verhuureenheden in eigendom of beheer heeft. In deze tabel worden voor de bepaling van het aantal verhuureenheden van een toegelaten instelling, volgens de gegevens, bedoeld in [bijlage II bij het Besluit beheer sociale-huursector](../../../../../../../../AMvB/besluit/beheer/sociale-huursector/BWBR0005686/README.md), de onderstaande woongelegenheden en overige verhuureenheden als volgt meegewogen:  *Woongelegenheden*  
+Deze tabel deelt de toegelaten instellingen in in bezoldigingsklassen.  *Verticaal* in de tabel is uitgezet het aantal verhuureenheden (VHE) dat de toegelaten instelling op de peildatum in eigendom of beheer heeft volgens de gegevens, bedoeld in bijlage II bij het Besluit beheer sociale-huursector.  *Horizontaal* in de tabel is uitgezet het aantal inwoners van de grootste gemeente waarin een toegelaten instelling op de peildatum minimaal 20% van haar verhuureenheden in eigendom of beheer heeft. Indien een toegelaten instelling op de peildatum niet minimaal 20% van haar verhuureenheden in één gemeente in eigendom of beheer heeft, betreft dit het aantal inwoners van de gemeente waar de toegelaten instelling op de peildatum het grootste deel van haar verhuureenheden in eigendom of beheer heeft. In deze tabel worden voor de bepaling van het aantal verhuureenheden van een toegelaten instelling, volgens de gegevens, bedoeld in bijlage II bij het Besluit beheer sociale-huursector, de onderstaande woongelegenheden en overige verhuureenheden als volgt meegewogen:  *Woongelegenheden*  
 
 – Huurwoning: weging 1 VHE  
 

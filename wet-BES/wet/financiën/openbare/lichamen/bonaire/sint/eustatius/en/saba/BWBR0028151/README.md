@@ -912,7 +912,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen inzake alle eilandbelasti
 
 a. in afwachting van de totstandkoming van een wettelijk voorschrift gedurende ten hoogste een jaar of totdat een binnen dat jaar bij de Staten-Generaal ingediend wetsvoorstel is verworpen of tot wet is verheven en in werking is getreden;  
 
-b. indien de uitkering rechtstreeks op grond van een door de Raad van de Europese Unie, het Europees Parlement en de Raad gezamenlijk of de Commissie van de Europese Gemeenschappen vastgesteld programma wordt verstrekt;  
+b. indien de uitkering rechtstreeks op grond van een door de Raad van de Europese Unie, het Europees Parlement en de Raad gezamenlijk of de Europese Commissie vastgesteld programma wordt verstrekt;  
 
 c. indien de begroting de ontvanger van de uitkering en het bedrag waarop de uitkering ten hoogste kan worden vastgesteld, vermeldt, of  
 

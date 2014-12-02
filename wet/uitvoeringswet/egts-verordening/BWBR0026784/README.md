@@ -169,7 +169,7 @@ Wijzigt de Wet openbaarmaking uit publieke middelen gefinancierde topinkomens.
 
 ### Artikel  20  
 
-De ledenvergadering van de EGTS met een statutaire zetel in Nederland kan subsidies verstrekken ter uitvoering van de in de overeenkomst, bedoeld in artikel 8, tweede lid, van de verordening gespecificeerde taken in het kader van Europese territoriale samenwerking die worden medegefinancierd door de Europese Gemeenschap of door organen van één of meer lidstaten. Onze Minister wie het aangaat kan nadere regels stellen over de uitoefening van deze bevoegdheid. 
+De ledenvergadering van de EGTS met een statutaire zetel in Nederland kan subsidies verstrekken ter uitvoering van de in de overeenkomst, bedoeld in artikel 8, tweede lid, van de verordening gespecificeerde taken in het kader van Europese territoriale samenwerking die worden medegefinancierd door de Europese Unie of door organen van één of meer lidstaten. Onze Minister wie het aangaat kan nadere regels stellen over de uitoefening van deze bevoegdheid. 
 
 ### Artikel  21  
 
