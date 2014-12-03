@@ -53,7 +53,11 @@ b. het vervoer geschiedt overeenkomstig een goedgekeurd hygiëneprotocol;
 
 c. een verklaring, die minder dan 24 uur oud is, van een dierenarts aanwezig is dat de dieren op basis van een klinische inspectie geen ziekteverschijnselen vertonen;  
 
-d. voor zover het vervoer in regio A als bedoeld in bijlage 1 naar een slachterij als bedoeld in het vierde lid, onderdeel a, betreft, het vervoer alleen op dinsdag plaatsvindt.    
+d. voor zover het vervoer in regio A als bedoeld in bijlage 1 naar een slachterij als bedoeld in: 
+
+i. het vierde lid, onderdeel a, sub i en sub ii, betreft, het vervoer alleen op zaterdag plaatsvindt;  
+
+ii. het vierde lid, onderdeel a, sub iii, betreft, het vervoer alleen op donderdag, vrijdag of zaterdag plaatsvindt.      
 3.  In afwijking van het eerste lid is het vervoer binnen een regio van eenden, afkomstig van een bedrijf binnen een regio, ten behoeve van de slacht binnen een regio toegestaan, indien: 
 
 a. de dieren rechtstreeks naar een slachthuis worden vervoerd;  
@@ -65,11 +69,13 @@ c. een verklaring die minder dan 24 uur oud is, aanwezig is dat er uit onderzoek
 
 a. de dieren worden vervoerd naar: 
 
-i. Pluimveeslachterij C. van Miert BV, te Breukelen, met gebruikmaking van de route, bedoeld in bijlage 6, deel 1;  
+i. Pluimveeslachterij C. van Miert BV, te Breukelen, met gebruikmaking van de route, bedoeld in bijlage 6, deel 1, en het vervoer plaatsvindt op de dag dat de dieren worden geslacht, niet zijnde zaterdag;  
 
-ii. Pluimveeslachterij Clazing BV, te Zevenhuizen, met gebruikmaking van de route, bedoeld in bijlage 6, deel 2;    
+ii. Pluimveeslachterij Clazing BV, te Zevenhuizen, met gebruikmaking van de route, bedoeld in bijlage 6, deel 2, en het vervoer plaatsvindt op de dag dat de dieren worden geslacht, niet zijnde zaterdag;  
 
-b. het vervoer plaatsvindt op de dag dat de dieren worden geslacht, niet zijnde dinsdag;  
+iii. Pluimveeslachterij Plukon Blokker BV, te Blokker, met gebruikmaking van de route, bedoeld in bijlage 6, deel 3, en het vervoer plaatsvindt op de dag dat de dieren worden geslacht, niet zijnde donderdag, vrijdag of zaterdag;    
+
+b. vervallen;  
 
 c. het vervoer door de exploitant van het slachthuis ten minste een dag voorafgaand aan de dag van de geplande slacht aan de minister is gemeld, onder vermelding van het bedrijf van herkomst, het kenteken van het vervoermiddel waarmee de dieren worden vervoerd en het registratienummer van de sticker, bedoeld in artikel 12, tweede lid, van het betreffende vervoermiddel;  
 
@@ -578,7 +584,7 @@ Gebiedssticker D
 
 ### Deel  1  
 
-####Pluimveeslachterij C. van Miert BV
+####Pluimveeslachterij C. van Miert BV te Breukelen
 
 1. Vanaf de brug over rivier de Maas met de A2, de A2 volgen in noordelijke richting tot aan de afslag (5) Breukelen.  
 
@@ -590,11 +596,13 @@ Gebiedssticker D
 
 5. De Broekdijk west volgen in zuidelijke richting tot aan Keulsche vaart.  
 
-6. De Keulsche vaart volgen tot lokatie nr 3621MX16.   
+6. De Keulsche vaart volgen tot lokatie nr 3621MX16.  
 
-### Deel  2  
+7. De terugweg via dezelfde wegen.   
 
-####Pluimveeslachterij Clazing BV
+### Deel  II  
+
+####Pluimveeslachterij Clazing BV te Zevenhuizen
 
 1. Vanaf de brug over rivier de Maas met de A2 in noordelijke richting via knooppunt Geldermalsen A15 volgen in westelijke richting via knooppunt Ridderkerk tot aan A16.  
 
@@ -602,9 +610,35 @@ Gebiedssticker D
 
 3. De A20 volgend in Oostelijke richting tot aan afrit 17/Zevenhuizen ZH.  
 
-4. Vanaf afrit 17/Zevenhuizen ZH Eerste tochtweg volgen in noordelijke richting tot aan Zuidelijke Dwarsweg.  
+4. Vanaf afrit 17/Zevenhuizen ZH Eerste Tochtweg volgen in noordelijke richting tot aan Zuidelijke Dwarsweg.  
 
 5. De Zuidelijke Dwarsweg volgen in oostelijke richting tot aan Bierhoogtweg.  
 
-6. De Bierhoogtweg volgen tot aan lokatie 2761JH17.   
+6. De Bierhoogtweg volgen tot aan lokatie nr 2761JH17.  
+
+7. De terugweg via dezelfde wegen.   
+
+### Deel  III  
+
+####Pluimveeslachterij Plukon Blokker BV te Blokker.
+
+1. Vanaf de brug over rivier de Maas met de A2, de A2 volgen in noordelijke richting tot aan knooppunt Holendrecht/ A9.  
+
+2. De A9 volgen in westelijke richting tot aan knooppunt Diemen/A1.  
+
+3. De A1 volgen in noordwestelijke richting tot aan knooppunt Watergraafsmeer/A10.  
+
+4. De A10 volgen in noord/oostelijke richting tot knooppunt Coenplein/A8.  
+
+5. De A8 volgen in noordelijke richting tot aan knooppunt Zaandam/A7.  
+
+6. De A7 volgen in noordelijke richting tot aan afrit 9 N302/Westfrisiaweg.  
+
+7. De N302/Westfrisiaweg volgen in oostelijke richting tot aan de Rijweg.  
+
+8. De Rijweg volgen in zuidelijke richting overgaand in de Noorderdracht overgaand in de Boekert overgaand in de Zuiderdracht tot aan de Gildeweg.  
+
+9. De Gildeweg volgen in west/noordelijke richting tot aan lokatie nr 1695GD7.  
+
+10. De terugweg via dezelfde wegen.   
 

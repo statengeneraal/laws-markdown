@@ -16,7 +16,7 @@ a. de Voorzitter, wordt daarmee de Voorzitter van de Kamer bedoeld;
 
 b. de ministers, worden daaronder mede de staatssecretarissen begrepen;  
 
-c. stukken, worden daarmee bedoeld bescheiden in de zin van de [Archiefwet 1995](../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md)  
+c. stukken, worden daarmee bedoeld bescheiden in de zin van de Archiefwet 1995  
 
 d. drukken, wordt daaronder mede begrepen plaatsing op het internet.   
 
@@ -353,7 +353,7 @@ d. gericht zijn op het geregeld van gedachten wisselen over het algemeen beleid 
 
 ####Colleges van advies
 
-1.  De leden kunnen voorstellen om advies te vragen aan externe adviescolleges als bedoeld in [artikel 17 van de Kaderwet adviescolleges](../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md). Een zodanig voorstel wordt aan een commissie van de Kamer gericht.   
+1.  De leden kunnen voorstellen om advies te vragen aan externe adviescolleges als bedoeld in artikel 17 van de Kaderwet adviescolleges. Een zodanig voorstel wordt aan een commissie van de Kamer gericht.   
 2.  De commissie zendt het voorstel met haar advies aan het Presidium. Het Presidium legt het voorstel voorzien van het advies van de commissie en zijn eigen advies voor aan de Kamer.   
 3.  De Kamer besluit over het voorstel.  
 
@@ -409,6 +409,7 @@ Bij afzonderlijke regeling, vast te stellen door de Kamer, worden voorschriften 
 1.  Besluiten worden alleen door de leden van de commissie genomen, met dien verstande dat bij ontstentenis of afwezigheid van een lid zijn plaatsvervanger zijn bevoegdheden uitoefent.   
 2.   Besluiten in een gezamenlijke vergadering van twee of meer commissies worden door elk van de commissies afzonderlijk genomen. Indien de besluiten niet gelijkluidend zijn beslist zo nodig de Kamer.   
 3.   De commissie voor de Verzoekschriften en de Burgerinitiatieven kan geen besluit nemen, indien niet meer dan de helft van haar leden of hun plaatsvervangers aanwezig zijn.  
+4.  Indien een voorstel eenvoudig en spoedeisend van aard is, kunnen de leden van de commissie langs schriftelijke weg over dat voorstel besluiten. De voorzitter van de commissie beslist of een voorstel eenvoudig en spoedeisend van aard is. Het besluit, bedoeld in de eerste volzin, wordt genomen als ware de Kamer in voltallige samenstelling bijeen en zou zij stemmen als bedoeld in artikel 69, derde lid.
 
 ### Artikel  37  
 
@@ -805,9 +806,9 @@ Indien bij de tweede of derde stemming niet is uitgemaakt tussen wie moet worden
 
 ### Artikel  84  
 
-####Niet in de [Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) vermelde keuzen
+####Niet in de Grondwet vermelde keuzen
 
-Betreft het benoemingen, voordrachten of keuzen, die niet in de [Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) zijn vermeld, dan kan de Kamer in een bijzonder geval daarvoor andere regels doen gelden. 
+Betreft het benoemingen, voordrachten of keuzen, die niet in de Grondwet zijn vermeld, dan kan de Kamer in een bijzonder geval daarvoor andere regels doen gelden. 
 
 ### Artikel  85  
 
@@ -1041,7 +1042,7 @@ Indien de Kamer, nadat de Gevolmachtigde Minister onderscheidenlijk de bijzonder
 
 1.  Een of meer leden kunnen als initiatiefnemers een voorstel van wet of van Rijkswet bij de Kamer aanhangig maken door dit schriftelijk en ondertekend aan de Voorzitter te zenden.   
 2.   Een door leden aanhangig gemaakt voorstel van Rijkswet wordt door de Voorzitter dadelijk na ontvangst aan de vertegenwoordigende lichamen van Aruba, Curaçao en Sint Maarten gezonden.   
-3.   Het eerste en tweede lid zijn van overeenkomstige toepassing op de inzending en doorzending van de voorstellen van de Gevolmachtigde Minister van Aruba, Curaçao of Sint Maarten, bedoeld in [artikel 15, derde lid, van het Statuut voor het Koninkrijk der Nederlanden](../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md). 
+3.   Het eerste en tweede lid zijn van overeenkomstige toepassing op de inzending en doorzending van de voorstellen van de Gevolmachtigde Minister van Aruba, Curaçao of Sint Maarten, bedoeld in artikel 15, derde lid, van het Statuut voor het Koninkrijk der Nederlanden. 
 
 ### Artikel  115  
 
@@ -1068,7 +1069,7 @@ De Voorzitter zendt een aangenomen voorstel van wet of van Rijkswet, door een of
 
 ####Verdediging in de Eerste Kamer
 
-Tenzij de Kamer anders besluit, wordt de verdediging, bedoeld in [artikel 85 van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md), opgedragen aan de initiatiefnemers. 
+Tenzij de Kamer anders besluit, wordt de verdediging, bedoeld in artikel 85 van de Grondwet, opgedragen aan de initiatiefnemers. 
 
 ### §  4  
 
@@ -1402,11 +1403,11 @@ In het geval een lid de vertrouwelijkheid ten aanzien van de inhoud van een vert
 
 ####Registers
 
-1.  Ter griffie wordt een register bijgehouden waarin de leden hun nevenactiviteiten en de (te verwachten) inkomsten uit hun nevenactiviteiten vermelden, uiterlijk één week na aanvaarding daarvan. Onder inkomsten wordt verstaan: loon in de zin van [artikel 9 van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), verminderd met de eindheffingsbestanddelen, bedoeld in [artikel 31 van die wet](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) of winst uit onderneming in de zin van [afdeling 3.2 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). Op uiterlijk 1 april na ieder kalenderjaar waarin de inkomsten zijn genoten vermelden de leden opnieuw hun inkomsten over dat kalenderjaar.  
-2.  Ter griffie wordt een register bijgehouden waarin de leden hun buitenlandse reizen op uitnodiging van derden vermelden, uiterlijk één week na terugkeer in Nederland.  
-3. Ter griffie wordt een register bijgehouden waarin de leden de door hen ontvangen geschenken met een hogere waarde dan 50 euro vermelden, uiterlijk één week na ontvangst van het geschenk. 
-4.  De drie registers liggen voor een ieder ter inzage.   
-5.  De Griffier is belast met de publicatie, twee maal per jaar, van de opgaven in het register voor de nevenfuncties.  
+1.  Ter griffie wordt een register bijgehouden waarin de leden hun nevenactiviteiten en de (te verwachten) inkomsten uit hun nevenactiviteiten vermelden, uiterlijk één week na aanvaarding daarvan, alsmede belangen die redelijkerwijs als relevant kunnen worden beschouwd. Onder inkomsten wordt verstaan: loon in de zin van artikel 9 van de Wet op de loonbelasting 1964, verminderd met de eindheffingsbestanddelen, bedoeld in artikel 31 van die wet of winst uit onderneming in de zin van afdeling 3.2 van de Wet op de inkomstenbelasting 2001. Op uiterlijk 1 april na ieder kalenderjaar waarin de inkomsten zijn genoten vermelden de leden opnieuw hun inkomsten over dat kalenderjaar. 
+2.  Ter griffie wordt een register bijgehouden waarin de leden hun buitenlandse reizen waarvan vervoers- en verblijfskosten geheel of gedeeltelijk door derden worden betaald vermelden, uiterlijk één week na terugkeer in Nederland.  
+3. Ter griffie wordt een register bijgehouden waarin de leden de door hen ontvangen geschenken en voordelen met een hogere waarde dan 50 euro vermelden, uiterlijk één week na ontvangst van het geschenk of het voordeel. 
+4.   De drie registers liggen voor een ieder ter inzage.   
+5.  De Griffier is belast met de publicatie, twee maal per jaar, van de opgaven in het register voor de nevenfuncties en belangen.  
 
 ### Hoofdstuk  XIII  
 
@@ -1449,7 +1450,7 @@ In het geval een lid de vertrouwelijkheid ten aanzien van de inhoud van een vert
 
 ####Afwijking van het Reglement
 
-De Kamer kan te allen tijde besluiten van de bepalingen van dit Reglement af te wijken, indien geen der leden zich daartegen verzet en indien de afwijking niet in strijd is met het [Statuut voor het Koninkrijk der Nederlanden](../../../../../../../rijkswet/statuut/voor/het/koninkrijk/der/nederlanden/BWBR0002154/README.md), de [Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md) of een andere wet. 
+De Kamer kan te allen tijde besluiten van de bepalingen van dit Reglement af te wijken, indien geen der leden zich daartegen verzet en indien de afwijking niet in strijd is met het Statuut voor het Koninkrijk der Nederlanden, de Grondwet of een andere wet. 
 
 ### Artikel  155  
 

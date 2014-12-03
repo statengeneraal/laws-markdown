@@ -17,15 +17,15 @@ a. Onze Minister: Onze Minister van Financiën;
 
 b. ondernemer:  
 
-1°. een natuurlijk persoon die belastbare winst uit onderneming in de zin van de [Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) geniet;   
+1°. een natuurlijk persoon die belastbare winst uit onderneming in de zin van de Wet inkomstenbelasting 2001 geniet;   
 
-2°. een belastingplichtige in de zin van de [Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);     
+2°. een belastingplichtige in de zin van de Wet op de vennootschapsbelasting 1969;     
 
 c. verstrekking van financiële middelen: de terbeschikkingstelling van financiële middelen, anders dan als betaling voor zaken of diensten of ter voldoening aan een verplichting tot schadevergoeding.    
 
 ### Artikel  2  
 
-In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister subsidies in de vorm van garanties verlenen in verband met aan ondernemers te verstrekken financiële middelen door financiële ondernemingen met zetel in Nederland die een vergunning hebben voor het uitoefenen van het bedrijf van bank ingevolge de [Wet op het financieel toezicht](../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en die voldoen aan nader door Onze Minister te stellen regels. 
+In overeenstemming met Onze Minister van Economische Zaken kan Onze Minister subsidies in de vorm van garanties verlenen in verband met aan ondernemers te verstrekken financiële middelen door financiële ondernemingen met zetel in Nederland die een vergunning hebben voor het uitoefenen van het bedrijf van bank ingevolge de Wet op het financieel toezicht en die voldoen aan nader door Onze Minister te stellen regels. 
 
 ### Artikel  3  
 

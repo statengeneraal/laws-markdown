@@ -231,11 +231,9 @@ b. die vergunning is verleend op grond van door de houder van de vergunning vers
 3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
 
 ### Artikel  19  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
-1. Burgemeester en wethouders kunnen van de bevoegdheden krachtens de artikelen 15 tot en met 17 mandaat verlenen aan eigenaren of beheerders van woonruimte voor zover het die woonruimte betreft.  
-2.  Burgemeester en wethouders kunnen een huisvestingsvergunning voorts intrekken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet integriteitsbeoordelingen door het openbaar bestuur.   
-3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
+Burgemeester en wethouders kunnen van de bevoegdheden krachtens de artikelen 15 tot en met 17 mandaat verlenen aan eigenaren of beheerders van woonruimte voor zover het die woonruimte betreft. 
 
 ### Hoofdstuk  3  
 
@@ -330,11 +328,9 @@ c. de voorwaarden of voorschriften, bedoeld in artikel 24, niet worden nageleefd
 Treedt in werking per 01-01-2015 
 
 ### Artikel  27  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
-1. Inschrijving in de openbare registers van een akte als bedoeld in artikel 109 van Boek 5 van het Burgerlijk Wetboek vindt alleen plaats indien onder de akte een notariële verklaring is opgenomen dat ten tijde van het verlijden van de akte een vergunning als bedoeld in artikel 22 niet was vereist dan wel onherroepelijk is geworden.  
-2.  De vergunning, bedoeld in artikel 22 of 23, kan voorts worden ingetrokken in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet integriteitsbeoordelingen door het openbaar bestuur.   
-3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
+Inschrijving in de openbare registers van een akte als bedoeld in artikel 109 van Boek 5 van het Burgerlijk Wetboek vindt alleen plaats indien onder de akte een notariële verklaring is opgenomen dat ten tijde van het verlijden van de akte een vergunning als bedoeld in artikel 22 niet was vereist dan wel onherroepelijk is geworden. 
 
 ### Hoofdstuk  5  
 

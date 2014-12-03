@@ -128,7 +128,7 @@ Hebben goedgevonden en verstaan:
 2.  Het schoolexamen vwo, havo en vmbo kan mede een maatschappelijke stage omvatten.  
 3.  Het schoolexamen vwo en havo omvat mede een profielwerkstuk. Het profielwerkstuk is een werkstuk, een presentatie daaronder begrepen, waarin op geïntegreerde wijze kennis, inzicht en vaardigheden aan de orde komen die van betekenis zijn in het desbetreffende profiel.    
 4.  Het profielwerkstuk heeft betrekking op één of meer vakken van het eindexamen. Ten minste één van deze vakken heeft een omvang van 400 uur of meer voor vwo en 320 uur of meer voor havo.   
-5.  Het schoolexamen vmbo voor zover het betreft de theoretische leerweg, genoemd in artikel 10 van de wet, en de gemengde leerweg, genoemd in artikel 10d van de wet, omvat mede een sectorwerkstuk. De tweede volzin van het tweede lid is van overeenkomstige toepassing. Het sectorwerkstuk heeft betrekking op een thema uit de sector waarin de leerling het onderwijs volgt.  
+5.  Het schoolexamen vmbo voor zover het betreft de theoretische leerweg, genoemd in artikel 10 van de wet, en de gemengde leerweg, genoemd in artikel 10d van de wet, omvat mede een sectorwerkstuk. De tweede volzin van het derde lid is van overeenkomstige toepassing. Het sectorwerkstuk heeft betrekking op een thema uit de sector waarin de leerling het onderwijs volgt.  
 
 ### Artikel  5  
 

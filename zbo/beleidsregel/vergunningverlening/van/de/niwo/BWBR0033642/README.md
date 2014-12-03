@@ -2,7 +2,7 @@
 
 ##Beleidsregel van de Stichting Nationale en Internationale Wegvervoer Organisatie (NIWO) inzake toepassing van de Wet wegvervoer goederen en verordening 1071/2009/EG ten aanzien van vergunningverlening (Beleidsregel vergunningverlening van de NIWO)
 
-De NIWO bepaalt, gelet op verordening 1071/2009/EG, [artikel 2.8 Wet wegvervoer goederen (WWG)](../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md), de [Regeling wegvervoer goederen](../../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md) en [artikel 4:81 Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) het navolgende:
+De NIWO bepaalt, gelet op verordening 1071/2009/EG, artikel 2.8 Wet wegvervoer goederen (WWG), de Regeling wegvervoer goederen en artikel 4:81 Algemene wet bestuursrecht het navolgende:
 
 ### Hoofdstuk  1  
 
@@ -12,7 +12,7 @@ De NIWO bepaalt, gelet op verordening 1071/2009/EG, [artikel 2.8 Wet wegvervoer 
 
 ####Eisen aanvraag
 
-Bij een aanvraag voor verlening of verlenging van een communautaire vergunning stelt de NIWO ingevolge artikel 3 van verordening 1071/2009/EG juncto [artikel 2.8 WWG](../../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) vast of door de aanvrager wordt voldaan aan de eisen van: 
+Bij een aanvraag voor verlening of verlenging van een communautaire vergunning stelt de NIWO ingevolge artikel 3 van verordening 1071/2009/EG juncto artikel 2.8 WWG vast of door de aanvrager wordt voldaan aan de eisen van: 
 
 a. werkelijke en duurzame vestiging;  
 
@@ -204,7 +204,7 @@ b. die onderneming in die periode de beschikking heeft gehad over een communauta
 
 ### Artikel  15  
 
-1.  In afwijking van [artikel 6:16 Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), schorst het bezwaar de werking van het besluit waartegen het is gericht gedurende de bezwaartermijn als bedoeld in [artikel 6:7 Awb](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  In afwijking van artikel 6:16 Awb, schorst het bezwaar de werking van het besluit waartegen het is gericht gedurende de bezwaartermijn als bedoeld in artikel 6:7 Awb.   
 2.  Ingeval het bezwaar ontvankelijk is, wordt schorsende werking verleend gedurende de bezwaarprocedure.   
 3.  In afwijking van lid 2 wordt de werking van het besluit waartegen een bezwaar is ingediend niet geschorst indien er feiten en omstandigheden zijn die erop wijzen of redelijkerwijze doen vermoeden dat de verleende communautaire vergunning mede zal worden gebruikt om uit gepleegde strafbare feiten verkregen of te verkrijgen, op geld waardeerbare voordelen te benutten, of strafbare feiten te plegen.  
 

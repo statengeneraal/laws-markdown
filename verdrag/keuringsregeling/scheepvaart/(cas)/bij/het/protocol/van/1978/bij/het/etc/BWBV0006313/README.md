@@ -16,7 +16,9 @@
 
 1.4The CAS does not specify structural standards in excess of the provisions of other International Maritime Organization conventions, codes and recommendations.
 
-1.5The CAS has been developed on the basis of the requirements of resolution A.744(18), as amended, which were known<sup>*Assembly resolution A.744(18) as amended by resolution 2 of the 1997 SOLAS Conference, by resolution MSC.49(66) and by resolution MSC.105(73).</sup> at the time of the adoption of the CAS. It is the intention to update the CAS as and when the need arises following amendments to resolution A.744(18), as amended.
+1.5The CAS has been developed on the basis of the requirements of resolution A.744(18), as amended, which were known at the time of the adoption of the CAS. It is the intention to update the CAS as and when the need arises following amendments to resolution A.744(18), as amended.
+
+1.6 The Assembly, at its twenty-seventh session, adopted the *International Code on the enhanced programme of inspections during surveys of bulk carriers and oil tankers, 2011 (2011 ESP Code)* (resolution A.1049(27)) and the Maritime Safety Committee, at its ninetieth session, adopted, by resolution MSC.325 (90), amendments to SOLAS regulation XI-1/2, replacing “resolution A.744(18)” with “the 2011 ESP Code” and thereby making the Code mandatory. Therefore, the references to “resolution A.744(18)” in the CAS are replaced by references to “the 2011 ESP Code (resolution A.1049(27))”. 
 ###2 
 
 ####PURPOSE
@@ -32,7 +34,7 @@ For the purpose of the CAS, unless expressly provided otherwise:
 
 3.2“Regulation” means the regulations contained in Annex I of MARPOL 73/78. 
 
-3.3“Recognised Organization (RO)” means an organization recognized by the Administration to perform the surveys in accordance with the provisions of regulation 6.3 of Annex I of MARPOL 73/78<sup>*Under Regulation XI/1 of SOLAS 74, as amended, resolutions A.739(18) and A.789(19) are applicable to Recognized Organizations.</sup>.
+3.3“Recognised Organization (RO)” means an organization recognized by the Administration to perform the surveys in accordance with the provisions of regulation 6.3 of Annex I of MARPOL 73/78.
 
 3.4“Administration” means the Government of the State as defined in Article 2(5) of MARPOL 73/78. 
 
@@ -46,7 +48,7 @@ For the purpose of the CAS, unless expressly provided otherwise:
 
 3.9“GOOD condition” means a coating condition with only minor spot rusting.
 
-3.10“Thickness Measurement (TM) Firm” means a qualified company certified by a RO in accordance with the principles stipulated in annex 7 to Annex B to resolution A.744(18), as amended.
+3.10“Thickness Measurement (TM) Firm” means a qualified company certified by a RO in accordance with the principles stipulated in annex 7 to Annex B to the 2011 ESP Code.
 
 3.11“Critical Structural Areas” are locations which have been identified from calculations to require monitoring or from the service history of the subject ship or from similar or sister ships to be sensitive to cracking, buckling or corrosion which would impair the structural integrity of the ship.
 
@@ -142,7 +144,7 @@ The CAS shall apply to surveys of the hull structure in way of cargo tanks, pump
 
 .2main structural plans of cargo and ballast tanks (scantling drawings), including information regarding use of high tensile steels (HTS);  
 
-.3Condition Evaluation Report, according to Annex 9 of Annex B of resolution A.744(18), as amended, and, where relevant, any previous CAS Final Reports;  
+.3Condition Evaluation Report, according to Annex 9 of Annex B of the 2011 ESP Code, and, where relevant, any previous CAS Final Reports;  
 
 .4thickness measurement reports;   
 
@@ -192,7 +194,7 @@ The CAS shall apply to surveys of the hull structure in way of cargo tanks, pump
 
 .8identification of tanks and areas for the close-up survey;  
 
-.9identification of tanks for tank testing, as per Annex 3 of Annex B of resolution A.744(18), as amended;  
+.9identification of tanks for tank testing, as per Annex 3 of Annex B of the 2011 ESP Code;  
 
 .10identification of areas and sections for thickness measurement;   
 
@@ -267,7 +269,7 @@ Notes: 1 Complete transverse web frame ring including adjacent structural member
 
 ####Extent of thickness measurements
 
-7.3.1The thickness measurements shall be recorded using the tables contained in Appendix 2 of Annex 10 of Annex B of resolution A.744(18), as amended. It is recommended that these records be kept in an electronic medium.
+7.3.1The thickness measurements shall be recorded using the tables contained in Appendix 2 of Annex 10 of Annex B of the 2011 ESP Code. It is recommended that these records be kept in an electronic medium.
 
 7.3.2The thickness measurements shall be carried out either prior to or, to the maximum extent possible, concurrently with the close-up survey.
 
@@ -285,20 +287,20 @@ Notes: 1 Complete transverse web frame ring including adjacent structural member
 
 Note: In conjunction with thickness measurement procedures, in case of concern regarding residual throat thickness of the fillet weld between the deck plate and deck longitudinals or possible detachment of a deck longitudinal member, the attending surveyor may refer to the Guidelines on the assessment of residual fillet weld between deck plating and longitudinals adopted by resolution MEPC.147(54).
 
-7.3.4Where substantial corrosion is found, the extent of the thickness measurements shall be increased in accordance with Annex 4 of Annex B of resolution A.744(18), as amended.
+7.3.4Where substantial corrosion is found, the extent of the thickness measurements shall be increased in accordance with Annex 4 of Annex B of the 2011 ESP Code.
 
 7.3.5In addition, the thickness measurements may be extended as considered necessary by the attending surveyors.
 
 7.3.6For areas in tanks where coatings are found to be in GOOD condition, the extent of thickness measurements, according to paragraph 7.3.3, may be specially considered by the RO. However, sufficient thickness measurements shall be taken, in all cases, to confirm the actual average condition and the maximum observed diminution of the structure.
 
-7.3.7 The thickness measurement to be taken shall be sufficient to enable the reserve strength calculations in accordance with Annex 12 of Annex B of resolution A.744(18), as amended.
+7.3.7 The thickness measurement to be taken shall be sufficient to enable the reserve strength calculations in accordance with Annex 12 of Annex B of the 2011 ESP Code.
 
 7.3.8Transverse sections shall be chosen where the maximum diminutions are expected to occur or are revealed from deck plating thickness measurements. At least one transverse section shall include a ballast tank within 0.5L amidships.
 ###8 
 
 ####ACCEPTANCE CRITERIA
 
-The acceptance criteria for the CAS shall be those set out in resolution A.744(18), as amended. 
+The acceptance criteria for the CAS shall be those set out in the 2011 ESP Code. 
 ###9 
 
 ####CAS SURVEY REPORTS
@@ -513,12 +515,12 @@ The acceptance criteria for the CAS shall be those set out in resolution A.744(1
 
 ###Statement of Compliance
 
-Issued under the provisions of the Condition Assessment Scheme (CAS) adopted by the Organization by resolution MEPC (46) under the authority of the Government of: ...................................................................... *(full designation of the country)*   *Particulars of ship*  Name of ship .............................................. Distinctive number or letters .............................................. Port of registry .............................................. Gross tonnage .............................................. Deadweight of ship (metric tons) .............................................. IMO number .............................................. Category of tanker .............................................. THIS IS TO CERTIFY: 1 That the ship has been surveyed in accordance with the requirements of CAS (resolution MEPC (46); 2 That the survey showed that the structural condition of the ship is in all respects satisfactory and the ship complied with the requirements of the CAS. Date of completion of the CAS survey: dd/mm/yyyy.This Statement of Compliance is valid until .............................................. Issued at .............................................. (Place of issue)  ........................................................................   *(Date of issue) (Signature of duly authorized official issuing the Statement)*   *(Seal or stamp of the authority, as appropriate).*  
+Issued under the provisions of the Condition Assessment Scheme (CAS) adopted by the Organization by resolution MEPC (46) under the authority of the Government of: ...................................................................... *(full designation of the country)*   *Particulars of ship*  Name of ship .............................................. Distinctive number or letters .............................................. Port of registry .............................................. Gross tonnage .............................................. Deadweight of ship (tonnes) .............................................. IMO number .............................................. Category of tanker .............................................. THIS IS TO CERTIFY: 1 That the ship has been surveyed in accordance with the requirements of CAS (resolution MEPC (46); 2 That the survey showed that the structural condition of the ship is in all respects satisfactory and the ship complied with the requirements of the CAS. Date of completion of the CAS survey: dd/mm/yyyy.This Statement of Compliance is valid until .............................................. Issued at .............................................. (Place of issue)  ........................................................................   *(Date of issue) (Signature of duly authorized official issuing the Statement)*   *(Seal or stamp of the authority, as appropriate).*  
 ###Form of Interim Statement of Compliance 
 
 ###Interim Statement of Compliance 
 
-Issued under the provisions of the Condition Assessment Scheme (resolution MEPC.94(46), as amended) by: “ ....................................................................................................  *(full name of the Recognized Organization)*  Particular of ship .................................................................................................... Name of ship .................................................................................................... Distinctive number or letters .................................................................................................... Port of registry .................................................................................................... Gross tonnage .................................................................................................... Deadweight of ship (metric tons) .................................................................................................... IMO number .................................................................................................... Category of tanker .................................................................................................... THIS IS TO CERTIFY: 
+Issued under the provisions of the Condition Assessment Scheme (resolution MEPC.94(46), as amended) by: “ ....................................................................................................  *(full name of the Recognized Organization)*  Particular of ship .................................................................................................... Name of ship .................................................................................................... Distinctive number or letters .................................................................................................... Port of registry .................................................................................................... Gross tonnage .................................................................................................... Deadweight of ship (tonnes) .................................................................................................... IMO number .................................................................................................... Category of tanker .................................................................................................... THIS IS TO CERTIFY: 
 
 1.  That the ship has been surveyed in accordance with the requirements of the Condition Assessment Scheme (CAS) (resolution MEPC.94(46), as amended);  
 
@@ -577,7 +579,7 @@ Ship's name: IMO number:  Flag State: Port of registry: Gross tonnage: Deadweigh
 | --- |
 | --- |
 
-*Inspections by the Company*  Using a format similar to that of the table below (which is given as an example), the Companyshould provide details of the results of their inspections, for the last 3 years – in accordance with the requirements of resolution A.744(18), as amended, and of the CAS – on all CARGO and BALLAST tanks and VOID spaces within the cargo area.   
+*Inspections by the Company*  Using a format similar to that of the table below (which is given as an example), the Company should provide details of the results of their inspections, for the last 3 years – in accordance with the requirements of the 2011 ESP Code, and of the CAS – on all CARGO and BALLAST tanks and VOID spaces within the cargo area.   
 
 | Spaces(include frame numbers and p or s)  | Corrosion protection(1)  | Coating Extent(2)  | Coating Condition(3)  | Structural deterioration(4)  | Tank History(5)   |
 |:---|:---|:---|:---|:---|:---|
@@ -747,7 +749,7 @@ Notes: <sup>1</sup> Complete transverse web frame ring including adjacent struct
 
 ####Identifications of tanks for tank testing
 
-*The CAS requirements*  Paragraph 6.2.2.9 of the CAS states that the tank testing shall be as per annex 3 of Annex B of resolution A.744(18) as amended.  *The Plan*  This section of the Plan shall identify and list the tanks that shall undergo tank testing for this ship.
+*The CAS requirements*  Paragraph 6.2.2.9 of the CAS states that the tank testing shall be as per annex 3 of Annex B of the 2011 ESP Code.  *The Plan*  This section of the Plan shall identify and list the tanks that shall undergo tank testing for this ship.
 ###9 
 
 ####Identification of areas and sections for thickness measurements
@@ -902,7 +904,7 @@ The Mandatory Requirement for the Safe Conduct of CAS Surveys, which is containe
 
 ####– CAS Schedule
 
-The CAS Schedule shall be attached to the Plan<sup>*The CAS Schedule is contained in annex 3 to MEPC/Circ.390. The solwe purpose of the CAS Schedule is to aid Companies and Recognized Organizations in the preparation of CAS Survey and scholl be read and used for this purpose only.</sup>
+The CAS Schedule shall be attached to the Plan
 ###Appendix 5  
 
 ####– Other documentation
@@ -930,7 +932,7 @@ This part of the Plan shall identify and list any other documentation that forms
 
 2.4.Details of the means of access are provided in the Survey Planning Questionnaire. 
 
-2.5.Tanks and spaces shall be safe for access<sup>*Reference is made to chapter 10 of the International Safety Guide for Oil Tankers and Terminals (ISGOTT) - Entry into and working in enclosed spaces.</sup> . Tanks and spaces shall be gas free and shall be ventilated. Prior to entering a tank, void or enclosed space, it shall be verified that the atmosphere in the tank is free from hazardous gas and contains sufficient oxygen. 
+2.5.Tanks and spaces shall be safe for access . Tanks and spaces shall be gas free and shall be ventilated. Prior to entering a tank, void or enclosed space, it shall be verified that the atmosphere in the tank is free from hazardous gas and contains sufficient oxygen. 
 
 2.6.Tanks and spaces shall be sufficiently clean and free from water, scale, dirt, oil residues, corrosion scale, sediments etc., to reveal significant corrosion, deformation, fractures, damages or other structural deterioration as well as the condition of the coating. 
 
@@ -1050,6 +1052,8 @@ This part of the Plan shall identify and list any other documentation that forms
 1.4In de keuringsregeling scheepvaart zijn geen constructienormen vervat die uitgaan boven de bepalingen van andere IMO-verdragen, -codes en -aanbevelingen.
 
 1.5 De keuringsregeling scheepvaart is ontwikkeld op basis van de vereisten van resolutie A.744(18), zoals gewijzigd, die bekend<sup>1)Resolutie A.744(18) van de Vergadering zoals gewijzigd bij resolutie 2 van de SOLAS-Conferentie van 1997, bij resolutie MSC.49(66) en bij resolutie MSC.105(73).</sup> waren ten tijde van de aanneming van de keuringsregeling scheepvaart. Beoogd wordt de keuringsregeling scheepvaart te actualiseren zodra dit nodig blijkt na wijzigingen van resolutie A.744(18), zoals gewijzigd.
+
+1.6 De Vergadering heeft, tijdens haar zevenentwintigste zitting, de *Internationale Code voor het uitgebreide inspectieprogramma tijdens inspecties van bulkcarriers en olietankschepen, 2011 (ESP-Code 2011)* (resolutie A.1049(27)) aangenomen en de Maritieme Veiligheidscommissie heeft, tijdens haar negentigste zitting, bij resolutie MSC.325(90) wijzigingen van SOLAS-voorschrift XI-1/2, aangenomen waarbij „resolutie A.744(18)” werd vervangen door „de ESP-Code 2011”), waarmee deze Code verplicht werd gesteld. Verwijzingen naar „resolutie A.744(18)” in de CAS worden derhalve vervangen door verwijzingen naar „de ESP-Code 2011 (resolutie A.1049(27))”. 
 ###2 
 
 ####DOEL
@@ -1065,7 +1069,7 @@ Voor de toepassing van de keuringsregeling scheepvaart wordt, tenzij uitdrukkeli
 
 3.2„Voorschrift”, de voorschriften vervat in Bijlage I bij MARPOL 73/78.
 
-3.3„erkende organisatie”, een door de Administratie erkende organisatie voor het uitvoeren van de inspecties in overeenstemming met de bepalingen van Voorschrift 6, derde lid, van Bijlage I bij MARPOL 73/78.<sup>1)Uit hoofde van voorschrift XI/1 van SOLAS 1974, zoals gewijzigd, zijn resoluties A.739(18) en A.789(19) van toepassing op erkende organisaties.</sup>
+3.3„erkende organisatie”, een door de Administratie erkende organisatie voor het uitvoeren van de inspecties in overeenstemming met de bepalingen van Voorschrift 6, derde lid, van Bijlage I bij MARPOL 73/78.
 
 3.4„Administratie”, de Regering van de Staat zoals omschreven in artikel 2, vijfde lid, van MARPOL 73/78. 
 
@@ -1079,7 +1083,7 @@ Voor de toepassing van de keuringsregeling scheepvaart wordt, tenzij uitdrukkeli
 
 3.9„goede toestand”, de coating vertoont slechts beperkte puntroestvorming. 
 
-3.10„firma voor diktemetingen”, een gekwalificeerde onderneming die in overeenstemming met de grondbeginselen vervat in Bijlage 7 bij Bijlage B bij resolutie A.744(18) is erkend door een erkende organisatie. 
+3.10„firma voor diktemetingen”, een gekwalificeerde onderneming die in overeenstemming met de grondbeginselen vervat in Bijlage 7 bij Bijlage B bij de ESP-Code 2011 is erkend door een erkende organisatie. 
 
 3.11„kritische plekken in de constructie”, plekken die door middel van berekeningen zijn aangemerkt voor controle of waarvan uit de onderhoudsgeschiedenis van het desbetreffende schip of van soortgelijke of zusterschepen is gebleken dat zij gevoelig zijn voor scheuren, vervorming of corrosie, waardoor de structurele veiligheid van het schip in gevaar komt.
 
@@ -1131,7 +1135,7 @@ De keuringsregeling scheepvaart is van toepassing op inspecties van de rompconst
 
 5.3.6.Navolgende CAS-inspecties ten behoeve van verlenging van de verklaring van naleving, worden verricht met tussenpozen van ten hoogste 5 jaar en 6 maanden.  
 
-5.3.7.In afwijking van het bovenstaande, kan de reder, met instemming van de Administratie, besluiten de CAS-inspectie op een eerder tijdstip te verrichten dan de bovenbedoelde datum voor devereiste inspectie, mits aan alle voorwaarden van de keuringsregeling scheepvaart wordt voldaan. 
+5.3.7.In afwijking van het bovenstaande, kan de reder, met instemming van de Administratie, besluiten de CAS-inspectie op een eerder tijdstip te verrichten dan de bovenbedoelde datum voor de vereiste inspectie, mits aan alle voorwaarden van de keuringsregeling scheepvaart wordt voldaan. 
 ###6 
 
 ####VEREISTEN VOOR DE PLANNING VAN INSPECTIES
@@ -1175,7 +1179,7 @@ De keuringsregeling scheepvaart is van toepassing op inspecties van de rompconst
 
 .2overzichten van de hoofdconstructies van lading- en ballasttanks (bouwtekeningen met afmetingen van verbanddelen), met inbegrip van informatie betreffende het gebruik van hoogwaardig staal;  
 
-.3het rapport inzake de toestand van het schip, overeenkomstig Bijlage 9 van Bijlage B bij resolutie A.744(18), zoals gewijzigd, en, indien van toepassing, eerdere definitieve CAS-rapporten;  
+.3het rapport inzake de toestand van het schip, overeenkomstig Bijlage 9 van Bijlage B bij de ESP-Code 2011, en, indien van toepassing, eerdere definitieve CAS-rapporten;  
 
 .4rapporten inzake diktemetingen;  
 
@@ -1225,7 +1229,7 @@ De keuringsregeling scheepvaart is van toepassing op inspecties van de rompconst
 
 .8aanduiding van tanks en zones voor gedetailleerde inspectie;  
 
-.9aanduiding van tanks voor tests overeenkomstig Bijlage 3 bij Bijlage B van resolutie A.744(18), zoals gewijzigd;  
+.9aanduiding van tanks voor tests overeenkomstig Bijlage 3 bij Bijlage B van de ESP-Code 2011;  
 
 .10aanduiding van zones en secties voor diktemetingen;  
 
@@ -1299,7 +1303,7 @@ Opmerkingen: 1 Gehele dwars- of webspanten met inbegrip van aangrenzende structu
 
 ####Omvang van de diktemetingen
 
-7.3.1De diktemetingen worden geregistreerd met behulp van de tabellen vervat in Aanhangsel 2 van Bijlage 10 van Bijlage B van resolutie A.744(18), zoals gewijzigd. Aanbevolen wordt deze rapporten te bewaren in een elektronisch medium. 
+7.3.1De diktemetingen worden geregistreerd met behulp van de tabellen vervat in Aanhangsel 2 van Bijlage 10 van Bijlage B van de ESP-Code 2011. Aanbevolen wordt deze rapporten te bewaren in een elektronisch medium. 
 
 7.3.2De diktemetingen worden voorafgaand aan of zoveel mogelijk tegelijkertijd met de gedetailleerde inspectie uitgevoerd.
 
@@ -1317,20 +1321,20 @@ Opmerkingen: 1 Gehele dwars- of webspanten met inbegrip van aangrenzende structu
 
 Opmerking: Indien er, in het kader van de procedures voor diktemetingen, zorg bestaat over de volle restdikte van de hoeklas tussen de dekplaat en de langsliggers of het mogelijk loslaten van een langsligger van het dek, kan de aanwezige inspecteur verwijzen naar de *Guidelines on the assessment of residual fillet weld between deck plating and longitudinals*, aangenomen bij resolutie MEPC.147 (54).
 
-7.3.4 Waar aanzienlijke corrosie wordt aangetroffen, neemt de omvang van de diktemetingen toe in overeenstemming met Bijlage 4 van Bijlage B van resolutie A.744(18), zoals gewijzigd.
+7.3.4 Waar aanzienlijke corrosie wordt aangetroffen, neemt de omvang van de diktemetingen toe in overeenstemming met Bijlage 4 van Bijlage B van de ESP-Code 2011.
 
 7.3.5Daarnaast kunnen de diktemetingen worden uitgebreid indien de aanwezige inspecteurs dit nodig achten. 
 
 7.3.6Voor zones in tanks waar de coating in goede staat blijkt, kan de erkende organisatie de omvang van de gedetailleerde inspecties overeenkomstig 7.3.3 nader overwegen. In alle gevallen dienen echter voldoende diktemetingen plaats te vinden teneinde de feitelijke gemiddelde toestand en de ernstigste aangetroffen verzwakking van de constructie vast te stellen. 
 
-7.3.7De uit te voeren diktemetingen dienen te volstaan voor de reserve sterkteberekeningen in overeenstemming met Bijlage 12 van Bijlage B van resolutie A.744(18), zoals gewijzigd. 
+7.3.7De uit te voeren diktemetingen dienen te volstaan voor de reserve sterkteberekeningen in overeenstemming met Bijlage 12 van Bijlage B van de ESP-Code 2011. 
 
 7.3.8Die overdwarse componenten dienen te worden gekozen waar de grootste verzwakkingen worden verwacht of naar voren komen uit de diktemetingen van de dekbeplating. Ten minste een overdwarse component dient een ballasttank te bevatten binnen midscheeps 0,5L.
 ###8 
 
 ####CRITERIA VOOR GOEDKEURING
 
-De goedkeuringscriteria voor de keuringsregeling scheepvaart zijn die vervat in resolutie A.744(18), zoals gewijzigd.
+De goedkeuringscriteria voor de keuringsregeling scheepvaart zijn die vervat in de ESP-Code 2011.
 ###9 
 
 ####CAS-INSPECTIERAPPORTEN
@@ -1545,12 +1549,12 @@ De goedkeuringscriteria voor de keuringsregeling scheepvaart zijn die vervat in 
 
 ###Verklaring van naleving
 
-Afgegeven uit hoofde van de bepalingen van de keuringsregeling scheepvaart (CAS), aangenomen door de Organisatie bij resolutie MEPC .... (46), zoals gewijzigd.., onder de bevoegdheid van de Regering van:................................................*(volledige officiële aanduiding van het land)*  *Gegevens van het schip*   Naam van het schip   Onderscheidingsnummer of -letters   Haven van registratie   Bruto-tonnage   Draagvermogen van het schip (in metrieke tonnen)   IMO-nummer   Categorie van tankschip   HIERBIJ WORDT VERKLAARD:   1 dat het schip is geïnspecteerd in overeenstemming met de vereisten van de keuringsregeling scheepvaart (resolutie MEPC ... (46), zoals gewijzigd..;   2 dat bij de inspectie is gebleken dat de toestand van de constructie van het schip in alle opzichten voldoende is en dat het schip voldoet aan de vereisten van de keuringsregeling scheepvaart.  Datum van afronding van de CAS-inspectie: dd/mm/jjjj. Deze verklaring van naleving is geldig tot   Afgegeven te   *(Plaats van afgifte) * .................................   *(Datum van afgifte) (handtekening van bevoegde ambtenaar die de verklaring afgeeft)*   *(zegel of stempel van de instantie, naar gelang wat van toepassing is) * 
+Afgegeven uit hoofde van de bepalingen van de keuringsregeling scheepvaart (CAS), aangenomen door de Organisatie bij resolutie MEPC .... (46), zoals gewijzigd.., onder de bevoegdheid van de Regering van:................................................*(volledige officiële aanduiding van het land)*  *Gegevens van het schip*   Naam van het schip   Onderscheidingsnummer of -letters   Haven van registratie   Bruto-tonnage   Draagvermogen van het schip (in tonnen)   IMO-nummer   Categorie van tankschip   HIERBIJ WORDT VERKLAARD:   1 dat het schip is geïnspecteerd in overeenstemming met de vereisten van de keuringsregeling scheepvaart (resolutie MEPC ... (46), zoals gewijzigd..;   2 dat bij de inspectie is gebleken dat de toestand van de constructie van het schip in alle opzichten voldoende is en dat het schip voldoet aan de vereisten van de keuringsregeling scheepvaart.  Datum van afronding van de CAS-inspectie: dd/mm/jjjj. Deze verklaring van naleving is geldig tot   Afgegeven te   *(Plaats van afgifte) * .................................   *(Datum van afgifte) (handtekening van bevoegde ambtenaar die de verklaring afgeeft)*   *(zegel of stempel van de instantie, naar gelang wat van toepassing is) * 
 ###Model van de voorlopige verklaring van naleving
 
 ###Voorlopige verklaring van naleving
 
-Afgegeven uit hoofde van de bepalingen van de keuringregeling scheepvaart (resolutie MEPC.94(46), zoals gewijzigd) door: .......................................................................................................................................  *(volledige naam van de erkende organisatie)*   *Gegevens van het schip*  Naam van het schip ................................................... Onderscheidingsnummer of -letters ..................................................... Thuishaven .................................................................  Brutotonnage ................................................................. Draagvermogen van het schip (in metrieke tonnen) ............................................................  IMO-nummer .......................................................... Categorie van tankschip ........................................................................................... HIERBIJ WORDT VERKLAARD: 
+Afgegeven uit hoofde van de bepalingen van de keuringregeling scheepvaart (resolutie MEPC.94(46), zoals gewijzigd) door: .......................................................................................................................................  *(volledige naam van de erkende organisatie)*   *Gegevens van het schip*  Naam van het schip ................................................... Onderscheidingsnummer of -letters ..................................................... Thuishaven .................................................................  Brutotonnage ................................................................. Draagvermogen van het schip (in tonnen) ............................................................  IMO-nummer .......................................................... Categorie van tankschip ........................................................................................... HIERBIJ WORDT VERKLAARD: 
 
 1. dat het schip is geïnspecteerd in overeenstemming met de vereisten van de keuringsregeling scheepvaart (CAS) (resolutie MEPC.94(46), zoals gewijzigd);   
 
@@ -1612,7 +1616,7 @@ Naam van het schip: IMO-nummer Vlaggestaat Thuishaven Bruto-tonnage Draagvermoge
 | --- |
 | --- |
 
-*Inspecties door de reder*  Aan de hand van een tabel zoals die hieronder (deze geldt als voorbeeld) dient de reder gegevens te verschaffen over de bevindingen bij zijn inspecties gedurende de afgelopen drie jaar – in overeenstemming met de vereisten van resolutie A.744(18), zoals gewijzigd, en die van de keuringsregeling scheepvaart – inzake alle LADING- en BALLASTtanks en LEGE ruimtes binnen het laadgedeelte.   
+*Inspecties door de reder*  Aan de hand van een tabel zoals die hieronder (deze geldt als voorbeeld) dient de reder gegevens te verschaffen over de bevindingen bij zijn inspecties gedurende de afgelopen drie jaar – in overeenstemming met de vereisten van de ESP-Code 2011, en die van de keuringsregeling scheepvaart – inzake alle LADING- en BALLASTtanks en LEGE ruimtes binnen het laadgedeelte.   
 
 | Ruimten(vermeld ook de spantnummers en aanduiding bakboord of stuurboord)  | Corrosie- bescherming(1)  | Omvang Coating(2)  | Toestand Coating (3)  | Verslechtering van constructie(4)  | Historisch overzicht van schades, reparaties, lekkages, etc.(5)   |
 |:---|:---|:---|:---|:---|:---|
@@ -1745,7 +1749,7 @@ Noten: 1 Gehele dwars- of webspanten met inbegrip van aangrenzende structurele c
 
 .3worden de centrale ladingtanks aangeduid waarin ten minste 30% van de dek- en bodemdwarsverbanddelen, met inbegrip van aangrenzende structurele componenten, in elke centrale ladingtank een gedetailleerde inspectie zullen ondergaan, en wordt voor elke tank het aantal desbetreffende dek- en bodemdwarsverbanddelen, met inbegrip van aangrenzende structurele componenten, aangegeven.  
 
-8.*Aanduiding van tanks voor tests*  *CAS-vereisten*  In lid 6.2.2.9 van de keuringsregeling scheepvaart staat vermeld dat tests van de tanks worden uitgevoerd overeenkomstig bijlage 3 bij Bijlage B van resolutie A.744 (18) zoals gewijzigd.  *Het plan*  Dit onderdeel van het plan duidt met betrekking tot dit schip de tanks aan die tests zullen ondergaan. 
+8.*Aanduiding van tanks voor tests*  *CAS-vereisten*  In lid 6.2.2.9 van de keuringsregeling scheepvaart staat vermeld dat tests van de tanks worden uitgevoerd overeenkomstig bijlage 3 bij Bijlage B van de ESP-Code 2011.  *Het plan*  Dit onderdeel van het plan duidt met betrekking tot dit schip de tanks aan die tests zullen ondergaan. 
 
 9.*Aanduiding van zones en secties voor diktemetingen*  *CAS-vereisten*  Lid 7.3.3 (en tabel 7.3.3) van de keuringsregeling scheepvaart duidt de minimumvereisten voor diktemetingen voor CAS-inspecties aan. Deze zijn als volgt:  
 
@@ -1947,7 +1951,7 @@ b. □ Vermeld in de volgende tabel(len)
 
 – andere gelijkwaardige middelen.   
 
-4.3.Tijdens de CAS-inspectie dienen de volgende middelen aanwezig te zijn: explosiemeter, zuurstofmeter, persluchtapparatuur, reddingslijnen, veiligheidsharnassen met touw en haak, en fluitjes, met inbegrip van instructies en aanwijzigen omtrent het gebruik ervan. Een veiligheidschecklist dient te worden verschaft.
+4.3.Tijdens de CAS-inspectie dienen de volgende middelen aanwezig te zijn: explosiemeter, zuurstofmeter, persluchtapparatuur, reddingslijnen, veiligheidsharnassen met touw en haak, en fluitjes, met inbegrip van instructies en aanwijzingen omtrent het gebruik ervan. Een veiligheidschecklist dient te worden verschaft.
 
 4.4.Er dient toereikende en veilige verlichting aanwezig te zijn zodat de CAS-inspectie op veilige en efficiënte wijze kan worden uitgevoerd.
 

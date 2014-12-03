@@ -95,7 +95,7 @@ De Bank is bevoegd de Europese Centrale Bank bij te staan bij het verzamelen van
 ### Artikel  8  
 
 1.  De Bank is bevoegd tot het verrichten van transacties in de financiële markten, daaronder het ontvangen van gelden in rekening-courant van rekeninghouders, het in bewaring nemen van effecten en andere voorwerpen van waarde en het verrichten van krediettransacties voorzover deze gedekt zijn door toereikend onderpand.    
-2.  Rechtshandelingen in verband met transacties, als bedoeld in het eerste lid, zijn niet vernietigbaar op grond van [artikel 45 van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) of de [artikelen 42](../../../../wet/faillissementswet/BWBR0001860/README.md) en [47 van de Faillissementswet](../../../../wet/faillissementswet/BWBR0001860/README.md).  
+2.  Rechtshandelingen in verband met transacties, als bedoeld in het eerste lid, zijn niet vernietigbaar op grond van artikel 45 van Boek 3 van het Burgerlijk Wetboek of de artikelen 42 en 47 van de Faillissementswet.  
 3.  Op verzoek van Onze Minister verricht de Bank de in het eerste lid bedoelde werkzaamheden ten behoeve van de Staat en ten behoeve van instellingen die bij wet of bij koninklijk besluit in het leven zijn geroepen.    
 4.  Op verzoek van Onze Minister en in afwijking van het eerste lid verstrekt de Bank aan de Staat, telkens wanneer Onze Minister dit nodig acht voor de ordelijke afwikkeling van betalingen ten laste van de Staat, kredieten in rekening-courant, zonder onderpand en tegen een, tussen Onze Minister en de Bank overeen te komen rentevergoeding. De Staat is verplicht deze kredieten af te lossen op de dag waarop zij zijn verstrekt.   
 
@@ -133,7 +133,7 @@ a. artikel 9a, eerste tot en met derde lid;
 
 b. artikel 6, eerste lid, van de verordening valsemunterij, voor zover dat artikel betrekking heeft op eurobankbiljetten;  
 
-c. [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+c. artikel 5:20 van de Algemene wet bestuursrecht.     
 2.  De Bank is tevens bevoegd tot oplegging van een bestuurlijke boete ter zake van overtreding van de in het eerste lid genoemde artikelen.   
 3.  Bij algemene maatregel van bestuur wordt bij de daarin omschreven overtredingen het bedrag van de op te leggen bestuurlijke boete bepaald, met diende verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 50.000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.   
 4.  Indien tegen een besluit tot oplegging van een bestuurlijke boete bezwaar of beroep wordt aangetekend, schorst dit de verplichting tot betaling van de boete totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist. De schorsing van de verplichting tot betaling schorst niet de berekening van de wettelijke rente.  
@@ -144,11 +144,11 @@ c. [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet
 
 ### Artikel  10  
 
-[Artikel 153 van boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is niet van toepassing op de Bank.  
+Artikel 153 van boek 2 van het Burgerlijk Wetboek is niet van toepassing op de Bank.  
 
 ### Artikel  11  
 
-Bepalingen van [boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) die bij toepassing op de Bank strijdigheid opleveren met het Verdrag of de Statuten van het Europees Stelsel van Centrale Banken zijn niet van toepassing op de Bank. Met het oog op de uitvoering van artikel 131 van het Verdrag worden deze bepalingen bij algemene maatregel van bestuur aangewezen.  
+Bepalingen van boek 2 van het Burgerlijk Wetboek die bij toepassing op de Bank strijdigheid opleveren met het Verdrag of de Statuten van het Europees Stelsel van Centrale Banken zijn niet van toepassing op de Bank. Met het oog op de uitvoering van artikel 131 van het Verdrag worden deze bepalingen bij algemene maatregel van bestuur aangewezen.  
 
 ### Artikel  12  
 
@@ -164,7 +164,7 @@ Bepalingen van [boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/we
 
 1.  Bij of krachtens de statuten kan worden bepaald dat taken van de directie die voortvloeien uit artikel 4, eerste lid, worden toebedeeld aan één of meer directeuren en dat zij hieromtrent rechtsgeldig namens de Bank kunnen besluiten. Bepaling krachtens de statuten als bedoeld in de eerste volzin geschiedt schriftelijk.   
 2.  De directeur of directeuren aan wie de taken, bedoeld in het eerste lid, zijn toebedeeld, kunnen door de directie worden gemachtigd tot uitoefening van de bevoegdheden die nodig zijn voor het vervullen van deze taken, tenzij de regeling waarop de bevoegdheid steunt zich daartegen verzet.   
-3.  Onverminderd het bepaalde in de [artikelen 4:81](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [10:6 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) omvat de machtiging, bedoeld in het tweede lid, tevens de bevoegdheid om beleid te bepalen ten aanzien van de taken, bedoeld in het tweede lid, tenzij dit in een mandaatbesluit is uitgesloten.  
+3.  Onverminderd het bepaalde in de artikelen 4:81 en 10:6 van de Algemene wet bestuursrecht omvat de machtiging, bedoeld in het tweede lid, tevens de bevoegdheid om beleid te bepalen ten aanzien van de taken, bedoeld in het tweede lid, tenzij dit in een mandaatbesluit is uitgesloten.  
 
 ### Artikel  13  
 
@@ -201,9 +201,9 @@ c. ten minste negen en ten hoogste elf leden die steeds voor vier jaar worden be
 
 ### Artikel  17  
 
-1.  De artikelen 2:363, zesde lid, 2:380, 2:383, tweede lid, tweede zin, met uitzondering van de openstaande bedragen, alsmede de [afdelingen 3](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [4 van titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) zijn niet van toepassing op de Bank. De Bank mag, mede ter bepaling van het resultaat, de waardering van de beleggingen, effecten en valuta doen berusten op grondslagen die afwijken van het bepaalde in artikel 2:384, eerste lid, tweede zin, of tweede lid, tweede zin, van het Burgerlijk Wetboek, voorzover dit in overeenstemming is met hetgeen in [afdeling 14 van titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) daaromtrent is bepaald.    
-2.  Van de bepalingen van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) wijkt de Bank bovendien af, voorzover die afwijking naar het oordeel van de raad van commissarissen noodzakelijk is voor de verwezenlijking van de in artikel 2 bedoelde doelstellingen.    
-3.  Van de bepalingen van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) wijkt de Bank bovendien af voor zover die afwijking noodzakelijk is om uitvoering te kunnen geven aan instructies, als bedoeld in artikel 3, derde lid. De Bank stelt de raad van commissarissen onverwijld van de afwijking in kennis.   
+1.  De artikelen 2:363, zesde lid, 2:380, 2:383, tweede lid, tweede zin, met uitzondering van de openstaande bedragen, alsmede de afdelingen 3 en 4 van titel 9 van Boek 2 van het Burgerlijk Wetboek zijn niet van toepassing op de Bank. De Bank mag, mede ter bepaling van het resultaat, de waardering van de beleggingen, effecten en valuta doen berusten op grondslagen die afwijken van het bepaalde in artikel 2:384, eerste lid, tweede zin, of tweede lid, tweede zin, van het Burgerlijk Wetboek, voorzover dit in overeenstemming is met hetgeen in afdeling 14 van titel 9 van Boek 2 van het Burgerlijk Wetboek daaromtrent is bepaald.    
+2.  Van de bepalingen van titel 9 van Boek 2 van het Burgerlijk Wetboek wijkt de Bank bovendien af, voorzover die afwijking naar het oordeel van de raad van commissarissen noodzakelijk is voor de verwezenlijking van de in artikel 2 bedoelde doelstellingen.    
+3.  Van de bepalingen van titel 9 van Boek 2 van het Burgerlijk Wetboek wijkt de Bank bovendien af voor zover die afwijking noodzakelijk is om uitvoering te kunnen geven aan instructies, als bedoeld in artikel 3, derde lid. De Bank stelt de raad van commissarissen onverwijld van de afwijking in kennis.   
 
 ### Hoofdstuk  IV  
 
@@ -253,7 +253,7 @@ Wijzigt deze wet.
 ### Artikel  27  
 
 1.   Vervallen.    
-2.  De [artikelen 229i-k van het Wetboek van Koophandel](../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md)zijn niet van toepassing op bankbiljetten.    
+2.  De artikelen 229i-k van het Wetboek van Koophandelzijn niet van toepassing op bankbiljetten.    
 3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de verwisseling, intrekking en aftekening van bankbiljetten door de Bank, en de door de Bank aan het publiek te verstrekken informatie hieromtrent.    
 4.  Dit artikel of een onderdeel ervan vervalt op een bij koninklijk besluit te bepalen tijdstip.   
 

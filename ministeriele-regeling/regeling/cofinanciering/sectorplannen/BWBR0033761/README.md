@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 12 augustus 2013, 2013-0000110985, tot cofinanciering van sectorplannen (Regeling cofinanciering sectorplannen)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 2](../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md), [3](../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md) en [5 van de Kaderwet SZW-subsidies](../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md);
+Gelet op de artikelen 2, 3 en 5 van de Kaderwet SZW-subsidies;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -25,11 +25,11 @@ In deze regeling wordt verstaan onder:
 
 –  *arbeidsorganisatie:* iedere eenheid, ongeacht haar rechtsvorm, die economische activiteiten uitoefent;  
 
-–  *BBL:* beroepsbegeleidende leerweg als bedoeld in [artikel 7.2.2, tweede lid, onder b, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); 
+–  *BBL:* beroepsbegeleidende leerweg als bedoeld in artikel 7.2.2, tweede lid, onder b, van de Wet educatie en beroepsonderwijs; 
 
 –  *branche:* een tak van een handel of nijverheid binnen een sector;  
 
-–  *CAO:* een collectieve arbeidsovereenkomst als bedoeld in [artikel 1, eerste lid, van de Wet op de collectieve arbeidsovereenkomst](../../../../../wet/wet/op/de/collectieve/arbeidsovereenkomst/BWBR0001937/README.md);  
+–  *CAO:* een collectieve arbeidsovereenkomst als bedoeld in artikel 1, eerste lid, van de Wet op de collectieve arbeidsovereenkomst;  
 
 –  *centrale werkgeversorganisatie:* een organisatie van werkgevers die is opgenomen in bijlage 2 bij deze regeling;  
 
@@ -37,7 +37,7 @@ In deze regeling wordt verstaan onder:
 
 –  *hoofdaanvrager:* de rechtspersoon die namens een samenwerkingsverband een sectorplan indient en de subsidie aanvraagt op grond van deze regeling;  
 
-–  *kenniscentrum beroepsonderwijs bedrijfsleven:* een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in [artikel 1.5.1 van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+–  *kenniscentrum beroepsonderwijs bedrijfsleven:* een kenniscentrum beroepsonderwijs bedrijfsleven als bedoeld in artikel 1.5.1 van de Wet educatie en beroepsonderwijs;  
 
 –  *kwetsbare werknemer:* een persoon die ouder is dan 55 jaar, of in de voorafgaande zes maanden geen reguliere betaalde betrekking heeft gevonden, of niet in het bezit is van een startkwalificatie;  
 
@@ -55,7 +55,7 @@ In deze regeling wordt verstaan onder:
 
 –  *onderneming:* iedere eenheid, ongeacht haar rechtsvorm, die commerciële economische activiteiten uitoefent;  
 
-–  *oudere werknemer:* een werknemer, ouder dan 55 jaar, doch jonger dan de pensioensgerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
+–  *oudere werknemer:* een werknemer, ouder dan 55 jaar, doch jonger dan de pensioensgerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet;  
 
 – *potentiële werknemer:* een langdurig werkloze jongere, die bij een arbeidsorganisatie werkervaring opdoet gedurende een periode van maximaal zes maanden, anders dan op grond van een arbeidsovereenkomst, uitzendovereenkomst, aanstelling in openbare dienst of als zelfstandige en aan wie een arbeidsovereenkomst of aanstelling in openbare dienst in het vooruitzicht is gesteld; 
 
@@ -73,17 +73,17 @@ In deze regeling wordt verstaan onder:
 
 –  *sectorplan:* een door een hoofdaanvrager namens een samenwerkingsverband ingediend plan met maatregelen voor knelpunten die blijkens een sectoranalyse in de betreffende sector aanwezig zijn;  
 
-–  *startkwalificatie:* een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid onder b tot en met e, van de Wet educatie en beroepsonderwijs](../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een diploma hoger algemeen voortgezet onderwijs als bedoeld in [artikel 7](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) onderscheidenlijk [artikel 8 van de Wet op het voortgezet onderwijs](../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+–  *startkwalificatie:* een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid onder b tot en met e, van de Wet educatie en beroepsonderwijs of een diploma hoger algemeen voortgezet onderwijs als bedoeld in artikel 7 onderscheidenlijk artikel 8 van de Wet op het voortgezet onderwijs;  
 
 –  *subsidiabele activiteiten:* alle maatregelen in het sectorplan die voor cofinanciering in aanmerking komen;  
 
-–  *werknemer:* persoon die op het moment waarop een aanvang wordt gemaakt met de inzet van een maatregel ten diens behoeven jonger is dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), en die op grond van een arbeidsovereenkomst, dan wel een aanstelling in openbare dienst, arbeid verricht als werknemer, uitzendkracht of die arbeid verricht als zelfstandige zonder personeel;  
+–  *werknemer:* persoon die op het moment waarop een aanvang wordt gemaakt met de inzet van een maatregel ten diens behoeven jonger is dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, en die op grond van een arbeidsovereenkomst, dan wel een aanstelling in openbare dienst, arbeid verricht als werknemer, uitzendkracht of die arbeid verricht als zelfstandige zonder personeel;  
 
 –  *werkgeversorganisatie:* een vereniging met volledige rechtsbevoegdheid van werkgevers die partij is bij een op het moment van aanvraag geldende collectieve arbeidsovereenkomst, of een collectieve arbeidsvoorwaardenregeling voor personen werkzaam in openbare dienst, dan wel bij afwezigheid daarvan bij de laatst geldende collectieve arbeidsovereenkomst of collectieve arbeidsvoorwaardenregeling, dan wel een vereniging met volledige rechtsbevoegdheid van werkgevers die is aangesloten bij een centrale werkgeversorganisatie; 
 
 –  *werknemersorganisatie:* vereniging met volledige rechtsbevoegdheid van werknemers, niet zijnde zelfstandigen zonder personeel, die partij is bij een op het moment van aanvraag geldende collectieve arbeidsovereenkomst of een collectieve arbeidsvoorwaardenregeling voor personen werkzaam in openbare dienst, dan wel bij afwezigheid daarvan bij de laatst geldende collectieve arbeidsovereenkomst of collectieve arbeidsvoorwaardenregeling; 
 
-–  *wettelijk minimumloon:* de aanspraak, bedoeld in [artikel 7, eerste lid, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), of het percentage hiervan, bedoeld in [artikel 2 van het Besluit minimumjeugdloonregeling](../../../../../AMvB/besluit/minimumjeugdloonregeling/BWBR0003599/README.md).   
+–  *wettelijk minimumloon:* de aanspraak, bedoeld in artikel 7, eerste lid, van de Wet minimumloon en minimumvakantiebijslag, of het percentage hiervan, bedoeld in artikel 2 van het Besluit minimumjeugdloonregeling.   
 
 ### Artikel  1.2  
 
@@ -91,15 +91,15 @@ In deze regeling wordt verstaan onder:
 
 1.  De sectorplannen worden gefinancierd uit de eigen middelen van de in het sectorplan betrokken werknemersorganisaties en werkgeversorganisaties en de arbeidsorganisaties en werknemers waarop het sectorplan betrekking heeft.   
 2.  Onder eigen middelen van arbeidsorganisaties wordt niet verstaan middelen die voor dezelfde activiteiten als subsidie of uit private fondsen zijn verstrekt, met uitzondering van de middelen die uit een O&O-fonds zijn verstrekt.   
-3.  Het tweede lid is niet van toepassing op in Nederland gevestigde rechtspersonen die een of meer subsidies ontvangen als bedoeld in [artikel 4.21, eerste lid, van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), die tezamen meer bedragen dan 50% van de jaarlijkse inkomsten van de rechtspersoon, met uitzondering van naamloze en besloten vennootschappen die een op winst gerichte onderneming drijven.   
+3.  Het tweede lid is niet van toepassing op in Nederland gevestigde rechtspersonen die een of meer subsidies ontvangen als bedoeld in artikel 4.21, eerste lid, van de Algemene wet bestuursrecht, die tezamen meer bedragen dan 50% van de jaarlijkse inkomsten van de rechtspersoon, met uitzondering van naamloze en besloten vennootschappen die een op winst gerichte onderneming drijven.   
 4.  De minister stelt middelen beschikbaar voor de cofinanciering van maatregelen in sectorplannen teneinde subsidie te verlenen in de jaren 2013 tot en met 2015.   
 5.  Maatregelen in sectorplannen komen voor een maximale termijn van twee aaneengesloten jaren voor cofinanciering in aanmerking. De aanvang van deze termijn kan niet eerder liggen dan na publicatie van deze regeling in de Staatscourant.  
 
 ### Artikel  1.3  
 
-####Toepasselijkheid [Algemene regeling SZW-subsidies](../../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md)
+####Toepasselijkheid Algemene regeling SZW-subsidies
 
-Op deze regeling is de [Algemene regeling SZW-subsidies](../../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md) van toepassing voor zover daarvan in deze regeling niet wordt afgeweken. 
+Op deze regeling is de Algemene regeling SZW-subsidies van toepassing voor zover daarvan in deze regeling niet wordt afgeweken. 
 
 ### Artikel  1.4  
 
@@ -113,7 +113,7 @@ Op deze regeling is de [Algemene regeling SZW-subsidies](../../../../../minister
 ####Verdeling
 
 1.  Voor het bepalen van het bereiken van het subsidieplafond binnen een aanvraagtijdvak, worden de subsidieaanvragen op volgorde van binnenkomst behandeld, waarbij alleen een volledige subsidieaanvraag in behandeling wordt genomen. Van een volledige subsidieaanvraag is sprake wanneer wordt voldaan aan artikel 2.3.   
-2.  Wanneer de hoofdaanvrager op grond van [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) in de gelegenheid is gesteld zijn aanvraag tot cofinanciering aan te vullen, geldt als datum van binnenkomst de datum van ontvangst van de volledige aanvraag tot cofinanciering.  
+2.  Wanneer de hoofdaanvrager op grond van artikel 4:5 van de Algemene wet bestuursrecht in de gelegenheid is gesteld zijn aanvraag tot cofinanciering aan te vullen, geldt als datum van binnenkomst de datum van ontvangst van de volledige aanvraag tot cofinanciering.  
 
 ### Artikel  1.6  
 
@@ -347,7 +347,7 @@ d. begeleiding en advisering van opleidingstrajecten.
 
 ####Intrekking en terugvordering
 
-1.  Onverminderd het bepaalde in [artikel 4:48 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt de beschikking tot subsidieverlening geheel ingetrokken indien: 
+1.  Onverminderd het bepaalde in artikel 4:48 van de Algemene wet bestuursrecht wordt de beschikking tot subsidieverlening geheel ingetrokken indien: 
 
 a. de subsidie niet is besteed aan de in de beschikking tot subsidieverlening toegekende subsidiabele kosten;  
 
@@ -374,7 +374,7 @@ c. binnen 6 maanden na het verlenen van de subsidiebeschikking, geen aanvang is 
 
 1.  Voor zover de uitvoering van het sectorplan een periode beslaat die langer is dan twaalf maanden, overlegt de hoofdaanvrager, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, twaalf maanden na aanvang van de uitvoering van het sectorplan een tussentijds voortgangsverslag met de tot dan toe behaalde resultaten en gemaakte kosten waarbij ten minste wordt aangegeven de aantallen, de aard en de kosten van de maatregelen en de prestaties.   
 2.  De hoofdaanvrager verstrekt bij het tussentijds voortgangsverslag, onder gebruikmaking van het daartoe door de minister elektronisch beschikbaar gestelde formulier, aan de minister het burgerservicenummer van de deelnemers per maatregel in het sectorplan waarvoor cofinanciering is verstrekt.   
-3.  Indien de hoofdaanvrager voorschotten ontvangt als bedoeld in artikel 5.3 kan de minister in de beschikking tot subsidieverlening de verplichting opleggen dat het tussentijdse voortgangsverslag is voorzien van een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), volgens een door de minister voor te schrijven model.  
+3.  Indien de hoofdaanvrager voorschotten ontvangt als bedoeld in artikel 5.3 kan de minister in de beschikking tot subsidieverlening de verplichting opleggen dat het tussentijdse voortgangsverslag is voorzien van een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van boek 2 van het Burgerlijk Wetboek, volgens een door de minister voor te schrijven model.  
 
 ### Artikel  5.5  
 
@@ -389,7 +389,7 @@ c. binnen 6 maanden na het verlenen van de subsidiebeschikking, geen aanvang is 
 ####Overhead
 
 1.  Kosten voor overhead en aan overhead gerelateerde exploitatiekosten van de hoofdaanvrager komen voor 50% cofinanciering in aanmerking.   
-2.  Onder kosten voor overhead en aan overhead gerelateerde exploitatiekosten worden verstaan alle niet directe kosten waaronder inbegrepen de kosten van administratie en beheer en de kosten van de accountantsverklaring, bedoeld in artikel 5.4, derde lid, en de [Algemene regeling SZW-subsidies](../../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md).   
+2.  Onder kosten voor overhead en aan overhead gerelateerde exploitatiekosten worden verstaan alle niet directe kosten waaronder inbegrepen de kosten van administratie en beheer en de kosten van de accountantsverklaring, bedoeld in artikel 5.4, derde lid, en de Algemene regeling SZW-subsidies.   
 3.  De kosten voor overhead worden niet in de begroting bij de aanvraag tot cofinanciering opgenomen doch door de minister vastgesteld op een percentage van het in de subsidievaststelling bepaalde bedrag aan subsidiabele kosten exclusief de overheadkosten.   
 4.  Het percentage, bedoeld in het derde lid, bedraagt de som van: 
 

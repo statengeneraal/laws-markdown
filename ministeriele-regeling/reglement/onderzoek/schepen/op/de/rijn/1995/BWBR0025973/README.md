@@ -233,7 +233,7 @@ In dit reglement wordt verstaan onder:
 – de scheepsromp met inbegrip van de roerinstallatie en het manoeuvreersysteem alsmede de uitrusting met ankers en kettingen beantwoordt aan de voorschriften van een erkend classificatiebureau en is gebouwd en getest onder toezicht daarvan;  
 
 – de drijfinrichting alsmede de voor het gebruik aan boord noodzakelijke hulpmotoren en inrichtingen op het gebied van machinebouw en elektriciteit zijn aangelegd en getest volgens de voorschriften van dit classificatiebureau, de inbouw daarvan onder toezicht van het classificatiebureau is uitgevoerd en de installatie als geheel na de inbouw door het bureau met succes is beproefd;     
-### *Navigatieapparatuur* 
+### *Informatie en navigatieapparatuur* 
 
 88a.  *Inland AIS-apparaat:* een apparaat dat op een schip is ingebouwd en dat in de zin van de standaard ‘Volgen en opsporen van schepen in de binnenvaart’ (Besluit 2006-I-21) wordt gebruikt;  
 
@@ -265,7 +265,7 @@ b. schepen die beschikken over een certificaat van goedkeuring als bedoeld in he
 c. passagiersschepen;  
 
 d. drijvende werktuigen.  
-3. Dit reglement is niet van toepassing op veerponten als bedoeld in het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md).  
+3. Dit reglement is niet van toepassing op veerponten als bedoeld in het Rijnvaartpolitiereglement.  
 
 ### Artikel  1.03  
 
@@ -356,7 +356,7 @@ d. vaartuigen waarbij niet aan alle voorwaarden voor de afgifte van een certific
 
 e. vaartuigen die zodanige schade hebben geleden dat de staat waarin zij verkeren niet meer overeenstemt met het in het certificaat van onderzoek gestelde;  
 
-f. drijvende inrichtingen en drijvende voorwerpen, in het geval dat de voor de toepassing van [artikel 1.21, eerste lid, van het Rijnvaart-politiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) bevoegde autoriteit de vergunning voor een bijzonder transport afhankelijk stelt van het hebben van een voorlopig certificaat van onderzoek;  
+f. drijvende inrichtingen en drijvende voorwerpen, in het geval dat de voor de toepassing van artikel 1.21, eerste lid, van het Rijnvaart-politiereglement bevoegde autoriteit de vergunning voor een bijzonder transport afhankelijk stelt van het hebben van een voorlopig certificaat van onderzoek;  
 
 g. vaartuigen waarvoor een Commissie van Deskundigen gelijkwaardige voorzieningen als bedoeld in artikel 2.19, tweede lid, toestaat, voor die gevallen waarvoor de Centrale Commissie voor de Rijnvaart nog geen aanbeveling heeft gedaan.  
 2. Het voorlopige certificaat van onderzoek wordt volgens het model van bijlage D afgegeven, wanneer de deugdelijkheid van het vaartuig, de drijvende inrichting of het drijvende voorwerp voor de vaart voldoende gewaarborgd wordt geacht.Het moet de voorwaarden bevatten die door de Commissie van Deskundigen nodig worden geacht en is geldig: 
@@ -383,7 +383,7 @@ b. 10 jaren voor alle andere vaartuigen.   In met redenen omklede gevallen kan d
 ####Aantekeningen in en wijzigingen van het certificaat van onderzoek
 
 1. Elke verandering van naam, overgang van de eigendom, iedere hermeting van een vaartuig alsmede elke wijziging van de teboekstelling of van de thuishaven moet door de eigenaar of zijn vertegenwoordiger ter kennis worden gebracht van een Commissie van Deskundigen. Hij moet daarbij tevens het certificaat van onderzoek aan deze Commissie ter wijziging voorleggen. 
-2. Alle aantekeningen in of wijzigingen van het certificaat van onderzoek, voorzien in dit reglement, in het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) en in andere, in gemeen overleg door de Oeverstaten en België vastgestelde bepalingen, kunnen door iedere Commissie van Deskundigen worden aangebracht. 
+2. Alle aantekeningen in of wijzigingen van het certificaat van onderzoek, voorzien in dit reglement, in het Rijnvaartpolitiereglement en in andere, in gemeen overleg door de Oeverstaten en België vastgestelde bepalingen, kunnen door iedere Commissie van Deskundigen worden aangebracht. 
 3. Wanneer een Commissie van Deskundigen in het certificaat een wijziging aanbrengt of daarin een aantekening stelt, moet zij daarvan kennis geven aan de Commissie die het betrokken certificaat heeft afgegeven. 
 
 ### Artikel  2.08  
@@ -426,7 +426,7 @@ De eigenaar van een vaartuig of zijn vertegenwoordiger kan op elk moment om een 
 
 ####Inhouding en teruggave van het certificaat van onderzoek
 
-1. Wanneer een Commissie van Deskundigen tijdens een onderzoek bemerkt dat een vaartuig of de uitrusting daarvan ernstige gebreken vertoont, en dat daardoor de veiligheid van de zich aan boord bevindende personen of de scheepvaart in gevaar wordt gebracht, dient het certificaat te worden ingehouden en dient de Commissie die het heeft afgegeven hiervan onverwijld in kennis te worden gesteld. Bij duwbakken en schepen bestemd voor bouwwerkzaamheden dient ook de in het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) voorgeschreven metalen plaat te worden ingehouden. Wanneer de Commissie van Deskundigen heeft geconstateerd dat de gebreken zijn verholpen wordt het certificaat aan de eigenaar of zijn vertegenwoordiger teruggegeven. Dit constateren en de teruggave van het certificaat kunnen op verzoek van de eigenaar of zijn vertegenwoordiger door tussenkomst van een andere Commissie geschieden. Wanneer de Commissie van Deskundigen die het certificaat heeft ingehouden vermoedt dat de gebreken niet binnen afzienbare tijd worden verholpen, wordt het certificaat gezonden aan de Commissie van Deskundigen die het heeft afgegeven of, in geval van verlenging, die het het laatst heeft verlengd.
+1. Wanneer een Commissie van Deskundigen tijdens een onderzoek bemerkt dat een vaartuig of de uitrusting daarvan ernstige gebreken vertoont, en dat daardoor de veiligheid van de zich aan boord bevindende personen of de scheepvaart in gevaar wordt gebracht, dient het certificaat te worden ingehouden en dient de Commissie die het heeft afgegeven hiervan onverwijld in kennis te worden gesteld. Bij duwbakken en schepen bestemd voor bouwwerkzaamheden dient ook de in het Rijnvaartpolitiereglement voorgeschreven metalen plaat te worden ingehouden. Wanneer de Commissie van Deskundigen heeft geconstateerd dat de gebreken zijn verholpen wordt het certificaat aan de eigenaar of zijn vertegenwoordiger teruggegeven. Dit constateren en de teruggave van het certificaat kunnen op verzoek van de eigenaar of zijn vertegenwoordiger door tussenkomst van een andere Commissie geschieden. Wanneer de Commissie van Deskundigen die het certificaat heeft ingehouden vermoedt dat de gebreken niet binnen afzienbare tijd worden verholpen, wordt het certificaat gezonden aan de Commissie van Deskundigen die het heeft afgegeven of, in geval van verlenging, die het het laatst heeft verlengd.
 2. Wanneer een vaartuig definitief is opgelegd of gesloopt, moet de eigenaar het certificaat terugzenden aan de Commissie van Deskundigen die het heeft afgegeven. 
 
 ### Artikel  2.14  
@@ -466,7 +466,7 @@ De Commissie van Deskundigen kan personen, die kunnen aantonen daar om gegronde 
 3. Aan een vaartuig kan slechts één Europees scheepsnummer worden afgegeven. Het Europees scheepsnummer wordt slechts eenmalig toegekend en verandert tijdens de gehele levensduur van het vaartuig niet.
 4. De eigenaar van het vaartuig of zijn vertegenwoordiger moet de toekenning van het Europees scheepsnummer bij de bevoegde autoriteit aanvragen. Hij moet tevens het Europees scheepsnummer, dat in het certificaat van onderzoek is ingevuld, daarop doen aanbrengen.
 5. De Rijnoeverstaten en België brengen de autoriteiten die bevoegd zijn tot het afgeven van een Europees scheepsnummer ter kennis van het secretariaat van de Centrale Commissie. het secretariaat van de Centrale Commissie voor Rijnvaart houdt een register bij van deze autoriteiten. 
-6.  Elke in het vijfde lid bedoelde autoriteit treft de noodzakelijke maatregelen, om alle tot het afgeven van de Europese scheepsnummers bevoegde autoriteiten, die in het register overeenkomstig het vijfde lid worden ingevuld, over ieder door haar toegekende Europees scheepsnummer evenals over de gegevens ter identificatie van het vaartuig overeenkomstig Bijlage P te informeren. Deze gegevens kunnen aan de bevoegde autoriteiten van de Rijnoeverstaten en van België, aan de lidstaten van de Europese Unie en, voor zover een gelijkwaardige gegevensbescherming is gewaarborgd, aan de bevoegde autoriteiten van derde landen op grond van bestuursrechtelijke overeenkomsten ter uitvoering van bestuursrechtelijke maatregelen op het gebied van veiligheid en het goede verloop van de scheepvaart evenals ter toepassing van de artikelen 2.02 tot en met 2.15 en 2.18, derde lid, ter beschikking worden gesteld.  
+6.  Elk toegekend Europees scheepsnummer, de in bijlage P genoemde gegevens voor scheepsidentificatie en elke wijziging daarvan, worden door de in het vijfde lid bedoelde bevoegde autoriteiten onverwijld ingevoerd in het elektronische register (scheepsrompdatabank) overeenkomstig Richtlijn 2006/87/EG, bijlage II, artikel 2.18, zesde lid, eerste alinea. Deze gegevens mogen door de bevoegde autoriteiten van de Rijnoeverstaten en België alsmede van de andere lidstaten van de Europese Unie uitsluitend worden gebruikt voor de uitvoering van administratieve maatregelen om de veiligheid en de vlotte scheepvaart in stand te houden en voor de tenuitvoerlegging van de artikelen 2.02 tot en met 2.15 en van artikel 2.18, derde lid. Bij de verwerking van persoonsgegevens in het kader van dit Reglement worden de dienovereenkomstige bepalingen betreffende de bescherming van gegevens van de Rijnoeverstaten en België in acht genomen. De Rijnoeverstaten en België nemen de nodige maatregelen om de vertrouwelijkheid en betrouwbaarheid van de hen toegezonden informatie te waarborgen en gebruiken deze informatie uitsluitend overeenkomstig dit artikel. De bevoegde autoriteit van een Rijnoeverstaat of België mag persoonsgegevens overdragen aan een derde land of internationale organisatie, mits een gelijkwaardig niveau van gegevensbescherming wordt gewaarborgd. De bevoegde autoriteit van de Rijnoeverstaat of België overtuigt zich ervan dat de overdracht noodzakelijk is voor de toepassing van de eerste alinea. De bevoegde autoriteit ziet erop toe dat het derde land of de internationale organisatie de gegevens niet doorgeeft aan een ander derde land of een andere internationale organisatie tenzij zij daar uitdrukkelijk schriftelijke toestemming toe heeft verleend en de door de bevoegde autoriteit van de Rijnoeverstaat of België bepaalde voorwaarden zijn vervuld.  
 
 ### Artikel  2.19  
 
@@ -794,7 +794,7 @@ e. het uitvallen van de voorgeschreven buffersystemen.
 2. Een groen lampje in de stuurstelling moet aangeven dat de stuurautomaat voor gebruik gereed is.Uitval, ontoelaatbare afwijkingen van de spanning van de voeding en ontoelaatbare daling van de rotatiefrequentie van de gyroscoop moeten worden gecontroleerd.
 3. Wanneer er naast de stuurautomaat nog andere besturingssystemen aanwezig zijn, moet bij de stuurstelling duidelijk te zien zijn welk systeem is ingeschakeld. De omschakeling van het ene systeem naar het andere moet onmiddellijk kunnen geschieden. Storingen van stuurautomaten mogen het betrouwbaar functioneren van de stuurinrichting niet kunnen beïnvloeden.
 4. De voeding van de elektrische energie van de stuurautomaat moet onafhankelijk zijn van andere verbruikers.
-5. De in stuurautomaten gebruikte gyroscopen, sensoren of bochtaanwijzers moeten voldoen aan de minimumeisen van de ‘Voorschriften omtrent de minimumeisen en keuringsvoorwaarden voor bochtaanwijzers in de Rijnvaart’, die zijn opgenomen in [bijlage 1.7 van de regeling](../../../../../../../../../ministeriele-regeling/binnenvaartregeling/BWBR0025958/README.md). 
+5. De in stuurautomaten gebruikte gyroscopen, sensoren of bochtaanwijzers moeten voldoen aan de minimumeisen van de ‘Voorschriften omtrent de minimumeisen en keuringsvoorwaarden voor bochtaanwijzers in de Rijnvaart’, die zijn opgenomen in bijlage 1.7 van de regeling. 
 
 ### Artikel  6.09  
 
@@ -892,11 +892,11 @@ e. controle van de optische en akoestische controle-instrumenten.
 1.  Navigatielichten, evenals de lantaarnhuizen en toebehoren, dragen het keurmerk, dat in de Richtlijn nr. 96/98/EG van de Raad van de Europese Unie van 20 december 1996, inzake uitrusting van zeeschepen, gewijzigd door Richtlijn 2008/67/EG van de Commissie van de Europese Unie van 30 juni 2008, is voorgeschreven of voldoen aan de eisen van Richtlijn nr. 2006/87/EG van het Europees Parlement en van de Raad van 12 december 2006, tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van Richtlijn nr. 82/714/EEG van de Raad. 
 2. Voor zover de controle van de navigatielichten niet rechtstreeks vanuit het stuurhuis mogelijk is, moeten ter controle van deze lichten in het stuurhuis stroomaanwijslampen of gelijkwaardige inrichtingen, zoals controlelampjes, zijn aangebracht.
 3. Bij éénmansstuurstellingen voor het varen op radar moeten ter controle van de navigatielichten en de lichtseinen controlelampen in de stuurstelling zijn ingebouwd. De schakelaars van de navigatielichten moeten in of vlakbij de daarbij behorende controlelampen zijn aangebracht en daar duidelijk bij behoren. De groepering en de kleur van de controlelampen van de navigatielichten en de lichtseinen moeten overeenkomen met de werkelijke opstelling en de kleur van de ingeschakelde navigatielichten en de lichtseinen. Het niet-functioneren van een navigatielicht of lichtsein moet het uitgaan van de overeenkomstige controlelamp tot gevolg hebben dan wel op andere wijze door de betreffende controlelamp worden aangegeven.
-4. Bij éénmansstuurstellingen voor het varen op radar dient de bediening van de geluidsseinen met de voet te kunnen geschieden. Dit geldt niet voor het in het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) bedoelde ‘blijf weg’-sein. 
+4. Bij éénmansstuurstellingen voor het varen op radar dient de bediening van de geluidsseinen met de voet te kunnen geschieden. Dit geldt niet voor het in het Rijnvaartpolitiereglement bedoelde ‘blijf weg’-sein. 
 
 ### Artikel  7.06  
 
-####Radarinstallatie en bochtaanwijzer
+####Informatie- en navigatieapparatuur
 
 1.  De radarinstallatie en de bochtaanwijzer komen overeen met de in bijlage M, deel I en deel II vermelde vereisten. Het voldoen aan de vereisten wordt met een door de bevoegde autoriteit afgegeven typegoedkeuring vastgesteld. Typegoedkeuringen die werden afgegeven op grond van de vereisten van Richtlijn nr. 2006/87/EG van het Europees Parlement en van de Raad van de Europese Unie van 12 december 2006, tot vaststelling van de technische voorschriften voor binnenschepen en tot intrekking van Richtlijn nr. 82/714/EEG van de Raad, zijn als gelijkwaardig erkend. Inland ECDIS apparaten, die in de navigatiemodus kunnen worden gebruikt, worden beschouwd als radarapparatuur. Zij moeten tevens voldoen aan de eisen van Inland ECDIS in de op de dag van afgifte van de typegoedkeuring geldige editie. Aan de in bijlage M, deel III, vermelde voorschriften omtrent de inbouw en de controle van het functioneren van radarinstallaties en bochtaanwijzers in de Rijnvaart moet worden voldaan. De bochtaanwijzer moet vóór de roerganger in diens gezichtsveld zijn geplaatst. De lijsten van de overeenkomstig bijlage M of op grond van als gelijkwaardig erkende typegoedkeuringen toegelaten radarapparatuur en bochtaanwijzers worden door de Centrale Commissie gepubliceerd. 
 2. Bij éénmansstuurstellingen voor het varen op radar: 
@@ -1634,7 +1634,7 @@ c. bij ankers met een massa van meer dan 2000 kg: R = 0,25 · P' [kN]. In deze f
 
 ####Overige uitrusting
 
-1. De volgende in het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) bedoelde uitrustingsstukken moeten ten minste aanwezig zijn:
+1. De volgende in het Rijnvaartpolitiereglement bedoelde uitrustingsstukken moeten ten minste aanwezig zijn:
 
 a. marifooninstallatie;  
 
@@ -2848,7 +2848,7 @@ De berekening moet worden uitgevoerd zowel voor een concentratie van personen aa
 |:---|:---|
 | P =  | 1,1· F<sub>max</sub>· 0,075 in het geval van schepen voor dagtochten  1,5· F<sub>max</sub>· 0,075 in het geval van hotelschepen  In deze formules betekent:  F<sub>max</sub> = het ten hoogste aan boord toegelaten aantal passagiers;  y = B/2 in [m]  |
 
-5. Het moment tengevolge van wind (M<sub>w</sub>) moet als volgt worden berekend: M<sub>w</sub> = p<sub>w</sub>·A<sub>w</sub>· (I<sub>w</sub> + T/2) [kNm] In deze formule betekent: p<sub>w</sub> = specifieke winddruk van 0,25 kN/m<sup>2</sup>; A<sub>w</sub> = zijdelings oppervlak van het schip boven het vlak van de inzinking, en voor Nederlandse vaartuigen het vlak van de grootste inzinking, in [m<sup>2</sup>] die overeenkomt met de betreffende beladingstoestand; l<sub>w</sub> = afstand van het zwaartepunt van het zijdelingse vlak A<sub>w</sub> tot het vlak van de inzinking in m die overeenkomt met de betreffende beladingstoestand in [m]. 
+5. Het moment tengevolge van wind (M<sub>w</sub>) moet als volgt worden berekend: M<sub>w</sub> = p<sub>w</sub>·A<sub>w</sub>· (I<sub>w</sub> + T/2) [kNm] In deze formule betekent: p<sub>w</sub> = specifieke winddruk van 0,25 kN/m<sup>2</sup>; A<sub>w</sub> = zijdelings oppervlak van het schip boven het vlak van de grootste inzinking in [m<sup>2</sup>], die overeenkomt met de betreffende beladingstoestand; l<sub>w</sub> = afstand van het zwaartepunt van het zijdelingse vlak A<sub>w</sub> tot het vlak van de inzinking in m die overeenkomt met de betreffende beladingstoestand in [m]. Bij de berekening van het zijdelingse vlak moeten de voorziene overdekkingen van het dek door dekzeilen of dergelijke mobiele inrichtingen in aanmerking worden genomen.
 6. Het moment tengevolge van de centrifugale kracht (M<sub>dr</sub>), veroorzaakt door het draaien van het schip, moet als volgt worden berekend: M<sub>dr</sub> = c<sub>dr</sub>· C<sub>B</sub>· v<sup>2</sup>· D/L<sub>WL</sub>·(KG – T/2) [kNm] In deze formule betekent: c<sub>dr</sub> = coëfficiënt van 0,45; C<sub>B</sub> = de blokcoëfficiënt (indien niet bekend moet hiervoor 1,0 worden aangenomen); v = grootste snelheid van het schip in m/s; KG = afstand van het zwaartepunt tot de bovenkant van de kiel in m. In geval het passagierschip is uitgerust met een aandrijfsysteem overeenkomstig artikel 6.06 moet M<sub>dr</sub> worden afgeleid uit beproevingen op ware grootte dan wel met modellen, hetzij op basis van daarmee overeenkomende berekeningen. 
 7. De aanvrager moet met een berekening, die berust op de procedure van het wegvallen van het drijfvermogen, aantonen dat de lekstabiliteit van het schip voldoende is. Alle berekeningen moeten zodanig worden uitgevoerd dat daarbij aan trim en inzinking geen vaste waarden zijn toegekend.
 8. Het drijfvermogen in lekke toestand moet voor de in het tweede lid bedoelde standaard beladingcondities worden aangetoond. Hierbij moet voor drie tussenstadia van het volstromen (25%, 50% en 75% van de eindtoestand van het volgestroomd zijn) en voor de eindtoestand van het volgelopen zijn aan het rekenkundig bewijs van voldoende stabiliteit zijn voldaan.
@@ -3589,7 +3589,7 @@ b. Assisterende en slepende schepen moeten zijn uitgerust met een vanuit het stu
 
 c. Als sleepinrichting moeten sleeplieren of een sleephaak aanwezig zijn. De sleepinrichtingen moeten vóór de schroeven zijn aangebracht. Dit geldt niet voor sleepboten die met het aandrijforgaan worden gestuurd, zoals een roerpropeller of cycloïdaalschroef;  
 
-d. In afwijking van c is bij schepen die uitsluitend worden gebruikt voor het slepen van motorschepen in de zin van het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) ook een sleepinrichting zoals bolders of gelijkwaardige inrichtingen voldoende. Het onder b gestelde is van overeenkomstige toepassing;  
+d. In afwijking van c is bij schepen die uitsluitend worden gebruikt voor het slepen van motorschepen in de zin van het Rijnvaartpolitiereglement ook een sleepinrichting zoals bolders of gelijkwaardige inrichtingen voldoende. Het onder b gestelde is van overeenkomstige toepassing;  
 
 e. Wanneer de sleeptrossen op een achterschip zouden kunnen blijven haken dienen daar sleepbogen met draadvangers te zijn aangebracht.  
 2. Schepen met een lengte L van meer dan 86 m mogen niet worden toegelaten om afvarend te slepen. 
@@ -4016,7 +4016,7 @@ f. van hoofdstuk 14:
 
 ####Algemene bepalingen
 
-1. Indien volgens het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) voor schepen die containers vervoeren stabiliteitsbescheiden zijn vereist, is dit hoofdstuk van toepassing. De stabiliteitsbescheiden moeten door een Commissie van Deskundigen worden geverifieerd en van haar waarmerk worden voorzien.
+1. Indien volgens het Rijnvaartpolitiereglement voor schepen die containers vervoeren stabiliteitsbescheiden zijn vereist, is dit hoofdstuk van toepassing. De stabiliteitsbescheiden moeten door een Commissie van Deskundigen worden geverifieerd en van haar waarmerk worden voorzien.
 2. De stabiliteitsbescheiden moeten de schipper begrijpelijke informatie bieden over de stabiliteit van het schip in elke voorkomende beladingstoestand. De stabiliteitsbescheiden moeten ten minste bevatten: 
 
 a. gegevens betreffende de toelaatbare stabiliteitscoëfficiënten, de toegestane  ![244604](http://wetten.overheid.nl/Illustration/244604)
@@ -4462,7 +4462,7 @@ c) De brandstoftoevoer en de koeling van de hoofdmotoren dienen automatisch te g
 
 d) De bediening van de stuurinrichting moet zelfs bij de grootste toegelaten inzinking door één persoon zonder bijzondere krachtsinspanning kunnen worden verricht.  
 
-e) De bij het [Rijnvaartpolitiereglement](../../../../../../../../../KB/rijnvaartpolitiereglement/1995/BWBR0006923/README.md) voorgeschreven optische tekens en geluidsseinen van varende schepen dienen vanaf de stuurstelling te kunnen worden gegeven.  
+e) De bij het Rijnvaartpolitiereglement voorgeschreven optische tekens en geluidsseinen van varende schepen dienen vanaf de stuurstelling te kunnen worden gegeven.  
 
 f) Indien geen rechtstreeks contact mogelijk is tussen de stuurstelling en het voorschip, het achterschip, de verblijven en de machinekamer, dient een spreekverbinding te zijn aangebracht. Voor contact met de machinekamer mogen in plaats van een spreekverbinding optische en akoestische signalen worden gebruikt.  
 
@@ -4601,7 +4601,7 @@ Hoofdstuk 7
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
 |:---|:---|:---|
 | 7.02, lid 3, tweede alinea  | Vrij uitzicht in de zichtas van de roerganger  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
-| 7.02, lid 5  | Gekleurde vensters  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
+| 7.02, lid 5  | Minimale lichtdoorlatendheid  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  N.V.O. voor vaartuigen met getinte ruiten die aan de volgende eisen voldoen:  – De ruiten zijn groen getint en hebben een minimale lichtdoorlatendheid van 60%.  – Het plafond van het stuurhuis is zodanig uitgevoerd dat reflecties op de ruiten worden voorkomen.  – Lichtbronnen in het stuurhuis moeten traploos regelbaar zijn of moeten kunnen worden uitgeschakeld.  – Alle redelijke maatregelen ter vermijding van andere reflecties zijn getroffen.  |
 | 7.03, lid 7  | Buiten werking stellen van alarmen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek voor zover geen éénmansstuurstelling voor het varen op radar aanwezig is  |
 | 7.03, lid 8  | Automatisch omschakelen op een andere stroombron  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 7.04, lid 1  | Bediening aandrijfwerktuigen en stuurinrichtingen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  |
@@ -4635,7 +4635,7 @@ Hoofdstuk 8
 | 8.05, lid 2  | Zelfsluitende afsluitinrichting voor het ontnemen van water  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  |
 | 8.05, lid 3  | Geen brandstoftanks vóór het aanvaringsschot  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 8.05, lid 4  | Geen brandstoftanks en hun appendages boven machine-installaties of uitlaatgassenleidingen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010. Tot aan dat tijdstip moet door opvangcontainers of druipblikken verzekerd zijn dat uitlopende brandstof zonder gevaar kan worden afgevoerd  |
-| 8.05, lid 6, derde tot en met vijfde zin  | Inrichting en afmetingen van ontluchtings- en verbindingsleidingen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
+| 8.05, lid 6, derde tot en met vijfde zin  | Inrichting en afmetingen van ontluchtings- en verbindingsleidingen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  |
 | 8.05, lid 7  | Bediening vanaf het dek van snelsluitkleppen van de tank, ook wanneer de betrokken ruimten gesloten zijn  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 | 8.05, lid 9, eerste zin  | Peilinrichtingen moeten tot aan de hoogste vulstand afleesbaar zijn  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 8.05, lid 13  | Controle van de vulstand niet alleen voor de aandrijvingsmotoren maar ook voor de andere motoren die voor de vaart nodig zijn  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
@@ -4644,7 +4644,7 @@ Hoofdstuk 8
 | 8.08, lid 8  | Een afsluiter (zonder terugslagklep) als aansluiting van ballasttanks aan het lenssysteem geldt niet voor laadruimen die zijn ingericht voor het opnemen van ballast  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 8.08, lid 9  | Peilmogelijkheden voor vullingen van ruimen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 8.09, lid 2  | Inrichtingen voor het verzamelen van bilgewater en afgewerkte olie  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
-| 8.10, lid 3  | Geluidsgrens van 65 dB(A) voor stilliggende schepen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
+| 8.10, lid 3  | Geluidsgrens 65 dB(A) voor stilliggende schepen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  |
 
 Hoofdstuk 8a 
 
@@ -4694,7 +4694,7 @@ Hoofdstuk 10
 | 10.03, lid 4  | Hoeveelheid CO<sub>2</sub> en inhoud van de ruimten  | Bij vervanging, uiterlijk 1.1.2010  |
 | 10.03a  | Vast ingebouwde brandblusinstallaties in verblijven, stuurhuizen en passagiersruimten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 | 10.03b  | Vast ingebouwde brandblusinstallaties in machinekamers, ketelruimen en pompkamers  | *  |
-| 10.04  | Toepassing Europese norm op bijboten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
+| 10.04  | Toepassing Europese norm op bijboten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  |
 | 10.05, lid 2  | Opblaasbare zwemvesten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010.  Zwemvesten die op 30.9.2003 aan boord zijn mogen tot aan de verlenging van het certificaat van onderzoek na 1.1.2010 verder worden gebruikt  |
 
 * 1. Vóór 1 oktober 1980 vast ingebouwde CO<sub>2</sub>-brandblusinstallaties blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 toegelaten, wanneer zij voldoen aan artikel 7.03, vijfde lid, in de versie van protocol 1975-I-23. 2. Vóór 1 april 1992 vast ingebouwde brandblusinstallaties die met het blusmiddel Halon 1301 (CBrF3) werken blijven tot aan de verlenging van het certificaat van onderzoek na 1.1.2005, echter uiterlijk tot 1.1.2010, toegelaten, wanneer zij voldoen aan artikel 7.03, vijfde lid, in de versie van protocol 1985-II-26. 3. Tussen 1 april 1992 en 1 januari 1995 vast ingebouwde CO<sub>2</sub>-brandblusinstallaties blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 toegelaten, wanneer zij voldoen aan artikel 7.03, vijfde lid, van het op 31 december 1994 van kracht zijnde Reglement onderzoek schepen op de Rijn. 4. Tussen 1 april 1992 en 1 januari 1995 verstrekte aanbevelingen van de Centrale Commissie voor de Rijnvaart voor de toepassing van artikel 7.03, vijfde lid, van het op 31 december 1994 van kracht zijnde Reglement onderzoek schepen op de Rijn blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 geldig. 5. Artikel 10.03b, tweede lid onder a, geldt uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 alleen dan, wanneer deze installaties worden ingebouwd in schepen waarvan de kiel is gelegd ná 1 oktober 1992.  Hoofdstuk 11 
@@ -4713,7 +4713,7 @@ Hoofdstuk 10
 | 11.07, lid 2 en lid 3  | --- | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  |
 | 11.10  | Luiken  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 11.11  | Lieren  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
-| 11.12, lid 2,4, 5 en 9  | Fabriekslabel, beveiliging, bescheiden aan boord  | N.V.O., uiterlijk bij de eerste verlenging van het certificaat van onderzoek na 1.1.2015  |
+| 11.12, lid 2, 4, 5 en 9  | Fabriekslabel, beveiliging, bescheiden aan boord  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  |
 | 11.13  | Opslag van brandbare vloeistoffen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  |
 
 ** Dit artikel geldt voor schepen waarvan de kiel is gelegd ná 31.12.1994 en voor in bedrijf zijnde schepen met in acht name van het volgende: Bij vernieuwingswerkzaamheden, het gehele laadruim omvattend, is artikel 11.04 van toepassing. Bij een verbouwing, die de totale lengte van de gangboorden omvat en waardoor de vrije breedte van het gangboord wordt gewijzigd: a. is artikel 11.04 van toepassing, indien de vóór de verbouwing beschikbare vrije breedte van het gangboord tot een hoogte van 0,90 m, of de vrije breedte daarboven, moet worden verminderd; b. mag de vóór de verbouwing beschikbare vrije breedte van het gangboord tot een hoogte van 0,90 m, of de vrije breedte daarboven, niet worden verminderd, indien deze afmetingen kleiner zijn dan die bedoeld in artikel 11.04.  Hoofdstuk 12 
@@ -4777,8 +4777,7 @@ Hoofdstuk 15
 | 15.06, lid 4, onder d  | Deuren die zijn bestemd voor gebruik door personen met beperkte mobiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.06, lid 5  | Eisen aan verbindingsgangen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.06, lid 6, onder b  | Vluchtwegen naar verzamelruimten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
-| 15.06, lid 6, onder c  | Vluchtwegen niet door machinekamers  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  |
-| --- | Vluchtwegen niet door keukens  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
+| 15.06, lid 6, onder c  | Vluchtwegen niet door keukens  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  |
 | 15.06, lid 6, onder d  | Geen gangen met klimtreden, ladders e.d. in vluchtwegen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.06, lid 7  | Geschikt veiligheidsgeleidesysteem  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 | 15.06, lid 8  | Eisen aan verzamelruimten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
@@ -4795,10 +4794,12 @@ Hoofdstuk 15
 | 15.06, lid 17, 2e zin  | Eisen aan toiletten voor personen met beperkte mobiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.06, lid 18  | Ventilatiesysteem voor hutten zonder vensters die geopend kunnen worden  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
 | 15.06, lid 19  | Eisen van art. 15.06 aan ruimten waarin bemanning of boordpersoneel is ondergebracht  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  |
-| 15.07  | Eisen aan het voortstuwingssysteem  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
+| 15.07  | Eisen aan het voortstuwingssysteem  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  |
 | 15.08, lid 2  | Eisen aan luidsprekerinstallaties in het passagiersgedeelte  | Voor passagiersschepen met L<sub>WL</sub> van minder dan 40 m of voor ten hoogste 75 personen geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
-| 15.08, lid 3  | Eisen aan de alarminstallatie  | Voor schepen voor dagtochten geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
-| 15.08, lid 3, onder c  | Alarminstallatie voor het waarschuwen van de bemanning en het boordpersoneel door de scheepsleiding  | Voor hotelschepen geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  |
+| 15.08, lid 3,   onder a | Eisen aan de alarminstallatie waarmee passagiers, bemanningsleden en leden van het boorpersoneel de leiding van het schip kunnen alarmeren  | Voor schepen voor dagtochten geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  |
+| onder b  | Een alarminstallatie waarmee de scheepsleiding de passagiers kan waarschuwen  | Voor schepen voor dagtochten geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
+| onder c  | Alarminstallatie voor het waarschuwen van de bemanning en het boordpersoneel door de scheepsleiding  | Voor hotelschepen geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  |
+| --- | --- | Voor passagiersschepen geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 15.08, lid 4  | Bilge-alarm voor iedere waterdichte afdeling  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 15.08, lid 5  | Twee gemotoriseerde lenspompen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  |
 | 15.08, lid 6  | Vast geïnstalleerd lenssysteem  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
@@ -4899,7 +4900,7 @@ Hoofdstuk 21
 |:---|:---|:---|
 | 3.03, lid 1  | Plaats van het aanvaringsschot  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
 | 3.04, lid 2  | Begrenzingsvlakken van bunkers met ruimten bestemd voor passagiers en verblijven  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  |
-| 3.04, lid 7  | Ten hoogste toegestane niveau van de geluidsdruk  | Bij verlenging van het certificaat van onderzoek na 1.1.2015  |
+| 3.04, lid 7  | Ten hoogste toegestane niveau van geluidsdruk  | Bij verlenging van het certificaat van onderzoek na 1.1.2020  |
 
 Hoofdstuk 4 
 
@@ -4911,7 +4912,7 @@ Hoofdstuk 7
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
 |:---|:---|:---|
-| 7.01, lid 2  | Niveau van de geluidsdruk voortgebracht door het schip  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
+| 7.01, lid 2  | Niveau van geluidsdruk voortgebracht door het schip  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  |
 | 7.05, lid 2  | Controle van de navigatielichten  | Bij verlenging van het certificaat van onderzoek  |
 
 Hoofdstuk 8 
@@ -4919,13 +4920,13 @@ Hoofdstuk 8
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
 |:---|:---|:---|
 | 8.08, lid 3 en lid 4  | Minimale capaciteit en diameter van de lensleidingen  | Bij verlenging van het certificaat van onderzoek na 1.1.2015  |
-| 8.10, lid 2  | Door een varend schip voortgebracht geluid  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
+| 8.10, lid 2  | Door een varend schip voortgebracht geluid  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  |
 
 Hoofdstuk 9 
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
 |:---|:---|:---|
-| 9.01  | Eisen aan elektrische installaties  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
+| 9.01  | Eisen aan elektrische installaties  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  |
 | 9.03  | Bescherming tegen aanraken, binnendringen van vreemde voorwerpen en water  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 | 9.06  | Ten hoogste toegelaten spanningen  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
 | 9.10  | Generatoren en motoren  | V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  |
@@ -4939,7 +4940,7 @@ Hoofdstuk 12
 
 | Artikel  | Inhoud  | Termijn en voorwaarden  |
 |:---|:---|:---|
-| 12.02, lid 5  | Geluidshinder en trillingen in verblijven  | Bij verlenging van het certificaat van onderzoek na 1.1.2015  |
+| 12.02, lid 5  | Geluidshinder en trillingen in verblijven  | Bij verlenging van het certificaat van onderzoek na 1.1.2020  |
 
 Hoofdstuk 15 
 
@@ -5049,7 +5050,7 @@ Hoofdstuk 10
 | 10.03, lid 4  | Hoeveelheid CO<sub>2</sub> en inhoud van de ruimten  | Bij vervanging, uiterlijk 1.1.2007  | 1.4.2002  |
 | 10.03a  | Vast ingebouwde brandblusinstallaties in verblijven, stuurhuizen en passagiersruimten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  | 1.4.2002  |
 | 10.03b  | Vast ingebouwde brandblusinstallaties in machinekamers, ketelruimen en pompkamers  | **, uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035  | 1.4.2002  |
-| 10.04  | Toepassing Europese norm op bijboten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  | 1.10.2003  |
+| 10.04  | Toepassing Europese norm op bijboten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  | 1.10.2003  |
 | 10.05, lid 2  | Opblaasbare zwemvesten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010. Zwemvesten die op 30.9.2003 aan boord zijn mogen tot aan de verlenging van het certificaat van onderzoek na 1.1.2010 verder worden gebruikt  | 1.10.2003  |
 
 ** 1. Tussen 1 januari 1995 en 31 maart 2003 vast ingebouwde CO<sub>2</sub>-brandblusinstallaties blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 toegelaten, wanneer zij voldoen aan artikel 10.03, vijfde lid, van het op 31 maart 2002 van kracht zijnde Reglement onderzoek schepen op de Rijn. 2. Tussen 1 januari 1995 en 31 maart 2002 verstrekte aanbevelingen van de Centrale Commissie voor de Rijnvaart voor de toepassing van artikel 10.03, vijfde lid, van het op 31 maart 2002 van kracht zijnde Reglement onderzoek schepen op de Rijn blijven uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 geldig. 3. Artikel 10.03b, tweede lid, onder a, geldt uiterlijk tot aan de verlenging van het certificaat van onderzoek na 1.1.2035 alleen dan, wanneer deze installaties worden ingebouwd in schepen waarvan de kiel is gelegd ná 1 oktober 1992.  Hoofdstuk 11 
@@ -5060,7 +5061,7 @@ Hoofdstuk 10
 | --- |Hoogte van de dennebomen |N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035 |1.12.2011 |
 | --- |Hoogte van de dennenbomen |N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2035 |1.12.2011 |
 |11.04, lid 2 |Relingen van gangboorden |Voor schepen met L < 55 m en verblijven uitsluitend op het achterschip geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020 |1.12.2011 |
-|11.12, lid 2, 4, 5 en 9 |Fabriekslabel, beveiliging, bescheiden aan boord |N.V.O., uiterlijk bij de eerste verlenging van het certificaat van onderzoek na 1.1.2015 |1.12.2012 |
+| 11.12, lid 2, 4, 5 en 9  | Fabriekslabel, beveiliging, bescheiden aan boord  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  | 1.12.2011  |
 | 11.13  | Opslag van brandbare vloeistoffen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.10.2002  |
 
 Hoofdstuk 12 
@@ -5110,8 +5111,7 @@ Hoofdstuk 15
 | 15.06, lid 4, onder d  | Deuren die zijn bestemd voor gebruik door personen met beperkte mobiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.06, lid 5  | Eisen aan verbindingsgangen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.06, lid 6, onder b  | Vluchtwegen naar verzamelruimten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
-| 15.06, lid 6, onder c  | Vluchtwegen niet door machinekamers  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2007  | 1.1.2006  |
-| --- | Vluchtwegen niet door keukens  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  | --- |
+| 15.06, lid 6, onder c  | Vluchtwegen niet door keukens  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  | 1.1.2006  |
 | 15.06, lid 6, onder d  | Geen gangen met klimtreden, ladders e.d. in vluchtwegen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.06, lid 7  | Geschikt veiligheidsgeleidesysteem  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  | 1.1.2006  |
 | 15.06, lid 8  | Eisen aan verzamelruimten  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
@@ -5127,10 +5127,12 @@ Hoofdstuk 15
 | 15.06, lid 16  | Drinkwaterinstallaties overeenkomstig art. 12.05  | N.V.O., uiterlijk 31.12.2006  | 1.1.2006  |
 | 15.06, lid 17, 2<sup>e</sup> zin  | Eisen aan toiletten voor personen met beperkte mobiliteit  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
 | 15.06, lid 18  | Ventilatiesysteem voor hutten zonder vensters die geopend kunnen worden  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2045  | 1.1.2006  |
-| 15.07  | Eisen aan het voortstuwingssysteem  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  | 1.1.2006  |
+| 15.07  | Eisen aan het voortstuwingssysteem  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  | 1.1.2006  |
 | 15.08, lid 2  | Eisen aan luidsprekerinstallaties in het passagiersgedeelte  | Voor passagiersschepen met L<sub>WL</sub> van minder dan 40 m of voor ten hoogste 75 personen geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  | 1.1.2006  |
-| 15.08, lid 3  | Eisen aan de alarminstallatie  | Voor schepen voor dagtochten geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  | 1.1.2006  |
-| 15.08, lid 3, onder c  | Alarminstallatie voor het waarschuwen van de bemanning en het boordpersoneel door de scheepsleiding  | Voor hotelschepen geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.1.2006  |
+| 15.08, lid 3, onder a  | Eisen aan de alarminstallatie waarmee passagiers, bemanningsleden en leden van het boorpersoneel de leiding van het schip kunnen alarmeren  | Voor schepen voor dagtochten geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2020  | 1.1.2006  |
+| onder b  | Een alarminstallatie waarmee de scheepsleiding de passagiers kan waarschuwen  | Voor schepen voor dagtochten geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  | 1.1.2006  |
+| onder c  | Alarminstallatie voor het waarschuwen van de bemanning en het boordpersoneel door de scheepsleiding  | Voor hotelschepen geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek  | 1.1.2006  |
+| --- | --- | Voor passagiersschepen geldt het voorschrift bij N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  | --- |
 | 15.08, lid 4  | Bilge alarm voor iedere waterdichte afdeling  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  | 1.1.2006  |
 | 15.08, lid 5  | Twee gemotoriseerde lenspompen  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2010  | 1.1.2006  |
 | 15.08, lid 6  | Vast geïnstalleerd lenssysteem  | N.V.O., uiterlijk bij verlenging van het certificaat van onderzoek na 1.1.2015  | 1.1.2006  |
@@ -5592,9 +5594,9 @@ ROSR Stempel Certificaat van Onderzoek nr. .......... van de Commissie van Desku
 
 Voor het vaststellen van de bemanning moeten zeeschepen: 
 
-1. hetzij Deel II van het [Reglement betreffende het Scheepvaartpersoneel op de Rijn](../../../../../../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) (‘RSP’) toepassen  
+1. hetzij Deel II van het Reglement betreffende het Scheepvaartpersoneel op de Rijn (‘RSP’) toepassen  
 
-2. hetzij de bemanningsregeling toepassen overeenkomstig de bepalingen van Resolutie A.481 (XII) van de Internationale Maritieme Organisatie (IMO) en van het internationale verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst 1978, onder de voorwaarde dat het aantal bemanningsleden ten minste overeenkomt met de minimumbemanning, voorgeschreven in Deel II van het RSP volgens exploitatiewijze B, waarbij met name rekening dient te worden gehouden met de [artikelen 3.14](../../../../../../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md) en [3.18](../../../../../../../../../ministeriele-regeling/reglement/betreffende/het/scheepvaartpersoneel/op/de/rijn/(rsp)/BWBR0030215/README.md).   In dit geval moeten de betreffende bescheiden, waaruit de bekwaamheid van de bemanningsleden en hun aantal blijken, aan boord aanwezig zijn. Bovendien moet zich een persoon aan boord bevinden die houder is van het Grote Patent bedoeld in het RSP, dat geldig is voor het te bevaren riviergedeelte. Na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren moet deze houder van dit patent vervangen worden door een andere houder van dit patent. In het logboek moeten de volgende aantekeningen worden gemaakt: 
+2. hetzij de bemanningsregeling toepassen overeenkomstig de bepalingen van Resolutie A.481 (XII) van de Internationale Maritieme Organisatie (IMO) en van het internationale verdrag betreffende de normen voor zeevarenden inzake opleiding, diplomering en wachtdienst 1978, onder de voorwaarde dat het aantal bemanningsleden ten minste overeenkomt met de minimumbemanning, voorgeschreven in Deel II van het RSP volgens exploitatiewijze B, waarbij met name rekening dient te worden gehouden met de artikelen 3.14 en 3.18.   In dit geval moeten de betreffende bescheiden, waaruit de bekwaamheid van de bemanningsleden en hun aantal blijken, aan boord aanwezig zijn. Bovendien moet zich een persoon aan boord bevinden die houder is van het Grote Patent bedoeld in het RSP, dat geldig is voor het te bevaren riviergedeelte. Na een vaartijd van ten hoogste 14 uren per tijdvak van 24 uren moet deze houder van dit patent vervangen worden door een andere houder van dit patent. In het logboek moeten de volgende aantekeningen worden gemaakt: 
 
 – de namen van de houders van het Grote Patent die zich aan boord bevinden en het begin en einde van hun diensttijd;  
 
@@ -5746,6 +5748,828 @@ Schets 7 Gehoorbescherming verplicht Kleur: blauw/wit  ![244682](http://wetten.o
 ![244683](http://wetten.overheid.nl/Illustration/244683)
 Schets 10Zwemvest gebruiken Kleuren: Blauw / Wit![249367](http://wetten.overheid.nl/Illustration/249367)
 De gebruikte pictogrammen mogen enigszins variëren of meer gedetailleerd zijn dan de illustraties in deze bijlage, mits de betekenis ervan niet wordt veranderd en verschillen en aanpassingen de betekenis niet onbegrijpelijk maken. 
+
+### Bijlage  J  
+
+####Uitstoot van schadelijke gassen en luchtverontreinigende deeltjes door dieselmotoren
+
+– Aanvullende voorschriften en modellen van certificaten – 
+
+####Inhoud
+
+*Deel I*  Aanvullende voorschriften 
+
+1. Merktekens van de motoren  
+
+2. Algemene voorschriften voor de bouw en het onderhoud van de motor  
+
+3. Keuringen  
+
+4. Beoordeling van de conformiteit van de productie  
+
+5. Motorfamilies en motortypen    *Deel II*  Inlichtingenformulier (model) Bijlage 1 – Essentiële eigenschappen van de/het (basis-)motor/motortype (model) Bijlage 2 – Essentiële eigenschappen van de motorfamilie/van de motorgroep (model) Bijlage 3 – Essentiële eigenschappen van de motoren in de motorfamilie/de motorgroep (model)  *Deel III*  Certificaat van goedkeuring (model) Bijlage 1 – Testresultaten (model)  *Deel IV*  Schema voor de nummering van de typegoedkeuringen (artikel 8a.04, lid 2)  *Deel V*  Lijst van afgegeven typegoedkeuringen voor motortypen, motorfamilies en motorgroepen (artikel 8a.04, lid 4, onder a)  *Deel VI*  Lijst van gebouwde motoren (model) (artikel 8a.04, lid 4, onder b)  *Deel VII*  Gegevensformulier van type goedgekeurde motoren (model)  *Deel VIII*  Proces-verbaal van de motor kenmerken (model) (artikel 8a.11) 
+
+####Bijlage J, Deel I
+
+#### *Reglement Onderzoek Schepen op de Rijn* 
+
+### Deel  I  
+
+Aanvullende voorschriften 
+### *1. Merktekens van de motoren* 
+
+1.1 Op de als technische eenheid goedgekeurde motor moeten de volgende gegevens (merktekens) vermeld staan: 
+
+1.1.1 Handelsmerk of handelsnaam van de fabrikant van de motor,  
+
+1.1.2 Motortype, (eventueel) motorfamilie of motorgroep alsmede het individuele identificatienummer (serienummer),  
+
+1.1.3 Nummer van de typegoedkeuring overeenkomstig deel IV van deze bijlage,  
+
+1.1.4 Bouwjaar van de motor.    
+
+1.2 De merktekens, bedoeld in onderdeel 1.1, moeten tijdens de gehele nuttige levensduur van de motor houdbaar, duidelijk leesbaar en onuitwisbaar zijn. Indien etiketten of plaatjes worden gebruikt, moeten deze zodanig worden bevestigd dat ook de bevestiging duurzaam is voor de levensduur van de motor en de etiketten/plaatjes niet kunnen worden verwijderd zonder deze te vernietigen of onleesbaar te maken.  
+
+1.3 De merktekens moeten worden aangebracht op een motoronderdeel dat noodzakelijk is voor het normale bedrijf van de motor en normaliter niet behoeft te worden vervangen gedurende de levensduur van de motor. 
+
+1.3.1 De merktekens moeten zich op een zodanige plaats bevinden dat zij goed zichtbaar zijn nadat de motor volledig is uitgerust met alle hulpvoorzieningen die nodig zijn voor het bedrijf van de motor.  
+
+1.3.2 Zo nodig moet de motor bovendien voorzien zijn van een afneembaar plaatje van duurzaam materiaal met alle in onderdeel 1.1 genoemde gegevens, dat zo is aangebracht dat de gegevens, bedoeld in onderdeel 1.1, na de inbouw van de motor in een vaartuig goed zichtbaar en gemakkelijk bereikbaar zijn.    
+
+1.4 Aan de hand van de merktekens, bedoeld in onderdeel 1.1, moet ondubbelzinnig vastgesteld kunnen worden uit welke serie de motor afkomstig is.  
+
+1.5 Alle onderdelen van een motor die van invloed kunnen zijn op de uitstoot van schadelijke gassen of luchtverontreinigende deeltjes moeten ondubbelzinnig gekenmerkt en geïdentificeerd zijn.  
+
+1.6 Bij het verlaten van de produktieketen moeten de motoren voorzien zijn van de merktekens, bedoeld in onderdeel 1.1 en onderdeel 1.5.  
+
+1.7 De precieze plaats van de merktekens, bedoeld in onderdeel 1.1, moet in alinea 1 van het certificaat van typegoedkeuring vermeld worden.   
+### *2. Algemene eisen aan de bouw en het onderhoud van de motoren* 
+
+2.1 Alle onderdelen van de motor die van invloed kunnen zijn op de uitstoot van schadelijke gassen of luchtverontreinigende deeltjes moeten zodanig ontworpen, gebouwd en gemonteerd zijn dat de motor bij normaal gebruik voldoet aan hoofdstuk 8a.  
+
+2.2 De fabrikant moet zodanige technische voorzieningen treffen dat de bedoelde uitstoot gedurende de normale levensduur van de motor en bij normaal gebruik aan de eisen van hoofdstuk 8a voldoet. Aan naleving vandeze eisen is voldaan, wanneer artikel 8a.02, tweede lid, en onderdeel 4.3.2.1 van deze bijlage worden nagekomen.  
+
+2.3 Bij gebruik van een katalysator voor de reiniging van de uitlaatgassen en/of van een deeltjesfilter moet de fabrikant aan de hand van tests met betrekking tot de levensduur en dienovereenkomstige gegevens aantonen dat te verwachten is dat deze inrichtingen voor nabehandeling tijdens de gehele levensduur van de motor naar behoren zullen functioneren. De fabrikant is verplicht bij de registratie van de gegevens te werk te gaan overeenkomstig onderdeel 4.2.3. Systematische vervanging van de inrichting na een bepaalde gebruiksduur van de motor is toegestaan. Afstelling, reparatie, demontage, reiniging of vervanging van motoronderdelen of systemen welke op gezette tijden plaatsvindt om storingen van de motor verband houdende met de inrichting voor nabehandeling van het uitlaatgas verband te voorkomen, mag alleen in zoverre worden verricht wanneer dit technisch noodzakelijk is om ervoor te zorgen dat het systeem voor het beperken van de uitstoot goed functioneert. Derhalve moet een onderhoudsschema in het gebruikershandboek worden opgenomen en goedgekeurd. Het betrokken gedeelte van handboek over het onderhoud en de vervanging van de inrichting(en) voor de nabehandeling moeten worden opgenomen in het informatiepakket.  
+
+2.4 De motoren moeten zo ontworpen zijn dat de verschillende onderdelen, de afstelbare eigenschappen en de motorkenmerken die het emissiegedrag beïnvloeden gemakkelijk gecontroleerd kunnen worden. De fabrikant moet een inlichtingenformulier ter controle van de componenten betrekking hebbend op de uitlaatgassen en de motorkenmerken overeenkomstig artikel 8a.01, zeventiende lid, toevoegen aan de handleiding.   
+### *3. Keuringen* 
+
+3.1 Uitstoot van schadelijke stoffen 
+
+3.1.1 De methode voor het meten van de uitstoot van schadelijke gassen en luchtverontreinigende deeltjes aan een ter keuring voorgedragen motor is in dienstinstructie nr. 16 vastgelegd. Andere dan in deze dienstinstructie voorgeschreven meetmethoden kunnen door de bevoegde autoriteit worden aanvaard, onder voorwaarde dat bewezen is dat deze methoden gelijkwaardig zijn. Indien een motortype, een motorfamilie of een motorgroep volgens een andere dan in deze bepalingen goedgekeurde norm of testcyclus gekeurd moet worden, moet de fabrikant aan de bevoegde autoriteit aantonen dat de gewogen gemiddelde uitstoot van uitlaatgassen en deeltjes door de motor in overeenstemming is met de dienovereenkomstige grenswaarden van de tabel in artikel 8a.02, tweede lid.  
+
+3.1.2 De uitstoot van motoren met regelbare eigenschappen mag de grenswaarden voor het gehele fysisch mogelijk regelbare bereik van deze eigenschappen niet overschrijden. Een motoreigenschap geldt als regelbaar wanneer het op een normale manier toegankelijk respectievelijk niet permanent verzegeld is. De bevoegde autoriteit kan verlangen dat de regelbare eigenschappen ter certificering op bepaalde waarden binnen het instelbare bereik worden afgesteld, om de naleving van de bepalingen te waarborgen.  
+
+3.1.3 Wanneer een volgens onderdeel 5 in verbinding met deel II van deze bijlage gedefinieerde motorfamilie of motorgroep meer dan één vermogensbereik heeft, moeten de emissiewaarden van de basismotor (typegoedkeuring) en van alle motoren die deel uitmaken van dezelfde motorfamilie of motorgroep (conformiteit van de produktie) aan de strengste voorschriften voor het hoogste vermogensbereik voldoen. Het staat de aanvrager vrij de definitie van motorfamilies en motorgroepen te beperken tot één enkel vermogensbereik en dienovereenkomstig goedkeuring aan te vragen.    
+
+3.2 Typekeuringen 
+
+3.2.1 Bij de typegoedkeuring van motorfamilies of motorgroepen is slechts een keuring vereist voor de basismotor(en) van deze motorfamilie of motorgroep.  
+
+3.2.2 Indien uit de resultaten van de typekeuring van een motor blijkt dat de uitstoot van uitlaatgassen en deeltjes niet valt binnen de grenswaarden van de tabel in artikel 8a.02, tweede lid, kan een voorziening ter beperking van de uitstoot worden ingebouwd. Wordt een dergelijke voorziening ingebouwd, dan geldt zij als essentieel onderdeel van de motor en moet zij op het inlichtingenformulier van de motor vermeld worden. Voor afgifte van een certificaat van typegoedkeuring moet opnieuw een typekeuring plaatsvinden. De voorziening ter vermindering van de uitstoot moet samen met alle andere door de autoriteit vereiste gegevens op het inlichtingenformulier worden vermeld. In het informatiedossier van de motor moeten bovendien instructies voor de inbouwcontrole en tussentijdse controle van de voorziening vermeld staan om een correcte werking daarvan te waarborgen.  
+
+3.2.3 Wanneer gebruik wordt gemaakt van toegevoegde stoffen zoals amoniak, ureum, stoom, water of brandstofadditieven om ervoor te zorgen dat de uitstoot van uitlaatgassen en deeltjes door de motor in overeenstemming is met de grenswaarden van de tabel in artikel 8a.02, tweede lid, moeten maatregelen worden getroffen om het verbruik van deze stoffen te controleren. Het informatiedossier moet voldoende inlichtingen bevatten om zonder problemen aan te kunnen tonen dat het verbruik van deze toegevoegde stoffen de naleving van de grenswaarden in de tabel van artikel 8a.02, tweede lid, verzekert.    
+
+3.3 Controle van de inbouw en tussentijdse controle 
+
+3.3.1 De inbouw van de motor in een vaartuig mag slechts geschieden in overeenstemming met de voorwaarden die binnen het toepassingsgebied van de typegoedkeuring zijn vastgesteld. Bovendien geldt dat de inlaat onderdruk en de uitlaattegendruk niet de in deel II, bijlage 1 respectievelijk bijlage 3, nr. 1.17 en nr. 1.18, aangegeven waarde voor de goedgekeurde motor mag overschrijden.  
+
+3.3.2 Bij motoren van een en dezelfde motorfamilie mogen de instellingen die de uitstoot van uitlaatgassen en deeltjes zouden kunnen beïnvloeden of die buiten de voorziene afstelmarge liggen bij de inbouw aan boord niet worden veranderd of aangepast. Wijzigingen van de instellingen, bedoeld in onderdeel 3.1.2, gelden als instellingen binnen de toegestane afstelmarge.  
+
+3.3.3 Bij motoren van een en dezelfde motorgroep mogen instellingen die volgens de typekeuring zijn toegestaan bij de inbouw aan boord of tijdens het gebruik aan boord veranderd of aangepast worden.  
+
+3.3.4 Wanneer na de typegoedkeuring instellingen worden veranderd of de motor wordt aangepast, moet dit nauwgezet in het proces-verbaal van de motorkenmerken worden vermeld.  
+
+3.3.5 Bij motoren waarbij de instellingen volgens de oorspronkelijke specificaties van de fabrikant zonder wijzigingen behouden blijven, is een geldig certificaat van typegoedkeuring normaal gesproken voldoende om aan te tonen dat de uitstoot van uitlaatgassen en deeltjes door de motor voldoet aan de grenswaarden van de tabel in artikel 8a.02, tweede lid.  
+
+3.3.6 Wanneer uit de controle van de inbouw of uit de tussentijdse controle blijkt dat de aan boord ingebouwde motoren ten aanzien van hunkenmerken, onderdelen en afstelbare eigenschappen binnen de marge aangegeven in het informatiepakket liggen, kan ervan worden uitgegaan dat de uitstoot van uitlaatgassen en deeltjes van de motoren voldoet aan de grenswaarden van de tabel in artikel 8a.02, tweede lid.  
+
+3.3.7 De bevoegde autoriteit kan naar eigen goeddunken voor een motor waarvoor een certificaat van typegoedkeuring is afgegeven, de controle van de inbouw of de tussentijdse controle in overeenstemming met deze bepalingen beperken. Voor ten minste één cilinder en/of voor één motor van een motorfamilie of motorgroep moet de gehele controle plaatsvinden en de controle mag slechts dan beperkt worden, wanneer te verwachten valt dat alle andere cilinders en/of motoren bij gebruik dezelfde waarden als de onderzochte cilinder en/of motor zullen hebben.     
+### *4. Beoordeling van de conformiteit van de produktie* 
+
+4.1 Wat betreft de verificatie van het bestaan van toereikende regelingen en procedures ter garantie van een effectieve controle van de conformiteit van de produktie voordat een typegoedkeuring wordt verleend, gaat de bevoegde autoriteit ervan uit dat de fabrikant bij een registratie overeenkomstig de geharmoniseerde norm EN 29002 (waaronder ook de produktie van de desbetreffende motoren valt) of een equivalente accrediteringsnorm aan de naleving van de voorschriften voldoet. De fabrikant moet gedetailleerde informatie over registratie overleggen en de bevoegde autoriteit op de hoogte stellen van veranderingen aangaande de geldigheid of het toepassingsgebied. Om na te gaan of steeds aan artikel 8a.02, tweede lid, wordt voldaan, moet de produktie op passende wijze worden gecontroleerd.  
+
+4.2 De houder van de typegoedkeuring moet: 
+
+4.2.1 ervoor zorgen dat er procedures bestaan voor een effectieve controle op de kwaliteit van het produkt;  
+
+4.2.2 toegang hebben tot de controleapparatuur die nodig is voor de controle van de conformiteit met ieder goedgekeurd type;  
+
+4.2.3 ervoor zorgen dat de gegevens van de testresultaten vastgelegd worden en de testnotities en de bijbehorende documenten beschikbaar blijven voor een periode die wordt vastgesteld in overleg met de bevoegde autoriteit;  
+
+4.2.4 de resultaten van elk soort test analyseren om de stabiliteit van de motoreigenschappen te kunnen aantonen en garanderen, rekening houdend met mogelijke schommelingen in de industriële serieproduktie;  
+
+4.2.5 ervoor zorgen dat na iedere steekproef van motoren of testonderdelen, die bij een bepaalde test lijken niet conform te zijn, steeds een nieuwe steekproef en test worden uitgevoerd; alle maatregelen moeten worden genomen die noodzakelijk zijn om de conformiteit van de betrokken produktie te herstellen.    
+
+4.3 De bevoegde autoriteit die de goedkeuring heeft verleend, kan te allen tijde de methoden ter controle van de conformiteit in de verschillende produktie afdelingen controleren. 
+
+4.3.1 Bij iedere inspectie moeten de testdocumentatie en produktieoverzichten aan de bezoekende inspecteur worden overgelegd.  
+
+4.3.2 Wanneer het kwaliteitsniveau ontoereikend blijkt te zijn of wanneer het noodzakelijk is de overeenkomstig onderdeel 3.2 in te dienen gegevens te controleren, moet de volgende procedure worden gevolgd: 
+
+4.3.2.1 Er wordt een motor uit de serie genomen en aan de in onderdeel 3.1 beschreven test onderworpen. De vastgestelde waarden voor de uitstoot van uitlaatgassen en deeltjes mogen niet hoger zijn dan de in de tabel van artikel 8a.02, tweede lid, genoemde waarden.  
+
+4.3.2.2 Indien de motor uit de serie niet aan de eisen van onderdeel 4.3.2.1 voldoet, kan de fabrikant verlangen dat steekproefsgewijs metingen worden uitgevoerd op enkele motoren met dezelfde specificaties uit de serie, waaronder de oorspronkelijke motor. De fabrikant stelt de omvang ‘n’ van de steekproef in overleg met de bevoegde autoriteit vast. Deze motoren (zonder de oorspronkelijke motor) worden onderworpen aan een test. Het rekenkundige gemiddelde (x) van de met de steekproef verkregen resultaten moet vervolgens voor elke afzonderlijke schadelijke stof worden berekend. De produktie van de serie wordt geacht volgens de voorschriften te zijn, indien aan de volgende voorwaarde wordt voldaan:  ![244684](http://wetten.overheid.nl/Illustration/244684)
+waarin: k = een statistische factor die afhangt van ‘n’ en in de volgende tabel staat aangegeven:  
+
+| n  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| k  | 0,973  | 0,613  | 0,489  | 0,421  | 0,376  | 0,342  | 0,317  | 0,296  | 0,279  |
+| n  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
+| k  | 0,265  | 0,253  | 0,242  | 0,233  | 0,224  | 0,216  | 0,210  | 0,203  | 0,198  |
+
+![244685](http://wetten.overheid.nl/Illustration/244685)
+S:   ![244686](http://wetten.overheid.nl/Illustration/244686)
+, waarbij x een willekeurige met de steekproef n bereikt eindresultaat is en L: de in artikel 8a.02, tweede lid, vastgelegde grenswaarde voor elke onderzochte schadelijke stof.    
+
+4.3.3 De bevoegde autoriteit moet motoren keuren die volgens de opgave van de fabrikant gedeeltelijk of volledig zijn ingelopen.  
+
+4.3.4 De normale frequentie van de inspecties die in opdracht van de bevoegde autoriteit mogen worden uitgevoerd bedraagt één maal per jaar. Indien niet aan de voorschriften van onderdeel 4.3.2 wordt voldaan, zorgt de bevoegde autoriteit ervoor dat alle noodzakelijke maatregelen worden genomen om de conformiteit van de produktie zo snel mogelijk te herstellen.     
+### *5. Motorfamilies en motorgroepen* 
+
+5.1 Procedure voor het bepalen van een motorfamilie 
+
+5.1.1 De motorfamilie kan worden gedefinieerd aan de hand van de kenmerken van de basisconstructie die gemeenschappelijk zijn voor de motoren binnen die familie. In sommige gevallen is er interactie tussen de kenmerken mogelijk. Er moet rekening worden gehouden met deze effecten om ervoor te zorgen dat alleen motoren met vergelijkbare eigenschappen van de uitlaatemissie bij eenzelfde motorfamilie worden ingedeeld.  
+
+5.1.2 Wanneer motoren geacht worden te behoren tot dezelfde motorfamilie moet de volgende lijst van essentiële kenmerken gemeenschappelijk zijn: 
+
+5.1.2.1 Verbrandingscyclus: 
+
+– tweetakt,  
+
+– viertakt.    
+
+5.1.2.2 Koelmedium: 
+
+– lucht,  
+
+– water,  
+
+– olie.    
+
+5.1.2.3 Afzonderlijke zuigerverplaatsing: 
+
+– motoren die binnen een totale variatie van 15% blijven,  
+
+– aantal cilinders bij motoren met een inrichting voor nabehandeling van het uitlaatgas.    
+
+5.1.2.4 Methode van luchtaanzuiging: 
+
+– natuurlijke aanzuiging,  
+
+– drukvulling.    
+
+5.1.2.5 Type/ontwerp van de verbrandingskamer: 
+
+– voorkamer,  
+
+– wervelkamer,  
+
+– directe injectie.    
+
+5.1.2.6 Klep- en poortconfiguratie, grootte en aantal: 
+
+– cilinderkop,  
+
+– cilinderwand.    
+
+5.1.2.7 Brandstofsysteem: 
+
+– pomp – leiding – verstuiver,  
+
+– in de leiding geplaatste pomp,  
+
+– verdelerpomp,  
+
+– enkelvoudige injectie,  
+
+– pomp – verstuiver-systeem,  
+
+– common rail.    
+
+5.1.2.8 Overige kenmerken: 
+
+– uitlaatgas recirculatie,  
+
+– waterinspuiting/emulsie,  
+
+– luchtinspuiting,  
+
+– koelsysteem voor de inlaatlucht.    
+
+5.1.2.9 Nabehandeling van de uitlaatgassen: 
+
+– oxydatie katalysator,  
+
+– reductiekatalysator,  
+
+– thermische reactor,  
+
+– deeltjesfilter.      
+
+5.1.3 Indien de motoren binnen de familie andere wisselende kenmerken hebben die van invloed zouden kunnen zijn op de uitstoot van uitlaatgas en deeltjes, moeten deze kenmerken eveneens worden bepaald en moet daarmee bij de keuze van de basismotor rekening worden gehouden.    
+
+5.2 Procedure bij de keuze van een motorgroep 
+
+5.2.1 De motorgroep kan worden gedefinieerd aan de hand van basiskenmerken van de constructie die gemeenschappelijk zijn voor alle motoren van deze groep. In sommige gevallen is er interactie tussen de kenmerken mogelijk. Er moet rekening worden gehouden met deze effecten om ervoor te zorgen dat alleen motoren met vergelijkbare eigenschappen van de uitlaatemissie tot eenzelfde motorgroep worden ingedeeld.  
+
+5.2.2 Een motorgroep wordt, in aanvulling op de kenmerken voor motorfamilies vermeld in onderdeel 5.1.2, gedefinieerd aan de hand van de volgende basiskenmerken: 
+
+5.2.2.1 boring en zuigerinhoud;  
+
+5.2.2.2 methodes en karakteristiek van de constructie van de druk- en uitlaatsystemen: 
+
+– constante druk,  
+
+– pulserend systeem;    
+
+5.2.2.3 kenmerken van de constructie van de verbrandingsruimte, die de uitstoot van uitlaatgas en deeltjes beïnvloeden;  
+
+5.2.2.4 kenmerken van de constructie van het brandstof injectiesysteem, van de zuigers en de injectienok, die de basis karakteristieken kunnen bepalen die de uitstoot van uitlaatgas en deeltjes beïnvloeden; en  
+
+5.2.2.5 maximaal nominaal vermogen per cilinder bij een maximaal nominaal toerental; het maximale bereik voor een lager vermogen binnen de motorgroep moet door de fabrikant worden vastgelegd en door de bevoegde autoriteit worden goedgekeurd.    
+
+5.2.3 Motoren kunnen slechts tot eenzelfde motorgroep behoren, wanneer de in onderdeel 5.2.2 genoemde eigenschappen voor alle relevante motoren overeenstemmen. De bevoegde autoriteit kan echter aanvaarden dat bepaalde motoren tot eenzelfde motorgroep behoren, wanneer slechts één kenmerk niet voor alle motoren van de bedoelde motorgroep geldt. Hiervoor moet de motorfabrikant in het informatiedossier aantonen dat de uitstoot van uitlaatgassen en deeltjes van alle motoren binnen de motorgroep ondanks het afwijken van een van de kenmerken overigens voldoen aan de grenswaarden van de tabel van artikel 8a.02, tweede lid.  
+
+5.2.4 De bevoegde autoriteit kan de hierna volgende instellingen en wijzigingen aan motoren van een motorgroep toelaten: 
+
+5.2.4.1 instellingen in verband met een aanpassing aan de omstandigheden aan boord van een schip: 
+
+– injectietijdstip ter compensatie van verschillende brandstofeigenschappen,  
+
+– injectietijdstip ter optimalisering van de maximale cilinderdruk,  
+
+– respectievelijke brandstoftoevoer voor de afzonderlijke cilinders;    
+
+5.2.4.2 wijzigingen van de motorinstelling voor een optimaal gebruik: 
+
+– turbolader,  
+
+– onderdelen van injectiepompen: plunjer specificaties, specificaties van de ontlastingsklep,  
+
+– injectie-inspuit,  
+
+– nokprofielen: in- en uitlaatklep, injectienok,  
+
+– verbrandingsruimte;    
+
+5.2.4.3 veranderingen die verder gaan dan de bovengenoemde instellingen en aanpassingen moeten worden gemotiveerd.    
+
+5.2.5 Ter goedkeuring van de in onderdeel 5.2.4 genoemde instellingen en wijzigingen moeten aan de bevoegde autoriteit alle door haar noodzakelijk geachte gegevens worden verstrekt. De bevoegde autoriteit kan ook een herhaling van enkele of alle onderdelen van de typekeuring, van de controle van de inbouw of van de tussentijdse controle van de motor verlangen.    
+
+5.3 Keuze van de basismotor 
+
+5.3.1 De bevoegde autoriteit moet de keuze van de basismotor van een motorfamilie of motorgroep goedkeuren voordat de keuringen plaatsvinden. Een primair criterium voor de keuze van de basismotor is de hoogste brandstoftoevoer per slag. Bovendien moet de methode voorzien in de keuze van een motor die kenmerken en eigenschappen heeft die op grond van ervaring de hoogste uitstoot van uitlaatgas (uitgedrukt in g/kWh) produceert. Hiervoor is gedetailleerde kennis over de motoren van de desbetreffende motorfamilie of motorgroep nodig. Onder bepaalde omstandigheden kan de bevoegde autoriteit tot de conclusie komen dat de ongunstigste emissie van de motorfamilie of motorgroep het best kan worden bepaald door een tweede motor te keuren. De bevoegde autoriteit kan vervolgens een tweede motor voor de keuring selecteren aan de hand van kenmerken die erop wijzen dat deze motor de hoogste emissieniveaus heeft van alle motoren binnen die motorfamilie of motorgroep.  
+
+5.3.2 Indien de motoren binnen de motorfamilie of motorgroep andere wisselende kenmerken hebben die van invloed zouden kunnen zijn op de uitstoot van uitlaatgas, moeten deze kenmerken eveneens worden bepaald en moet daarmee bij de keuze van de basismotor rekening worden gehouden.     
+
+####Bijlage J, Deel II (Model)
+
+#### *Reglement Onderzoek Schepen op de Rijn* 
+
+### Deel  II  
+
+*INLICHTINGENFORMULIER N°<sup> 3  Nummer van het inlichtingenformulier in te vullen door de bevoegde autoriteit. </sup> .....*   *betreffende de typegoedkeuring inzake maatregelen ter vermindering van de uitstoot van schadelijke gassen en luchtverontreinigende deeltjes van dieselmotoren die bestemd zijn voor inbouw in vaartuigen behorend tot de Rijnvaart*  Basismotor/motortype<sup> 4 Doorhalen wat niet van toepassing is. </sup>: ..... 
+
+### 0  
+
+#### *Algemene gegevens* 
+
+0.1 Merk (firmanaam van de fabrikant): .....  
+
+0.2 Aanduiding van de fabrikant van de (het) motortype (n), van de basismotor en (indien van toepassing) van de motoren van de motorfamilie/motorgroep:<sup> 5 Doorhalen wat niet van toepassing is. </sup> .....  
+
+0.3 Fabriekscode van het type zoals aangegeven op de motor: .....  
+
+0.4 Gebruik dat van de motor zal worden gemaakt<sup> 6 Bijv. aandrijving van het schip – curve van de schroef, hoofdaandrijving van het schip – toeren/min.  </sup>: .....  
+
+0.5 Naam en adres van de fabrikant: Naam en adres van de eventuele gemachtigde vertegenwoordiger van de fabrikant: .....  
+
+0.6 Plaats, code en wijze van aanbrengen van het motor identificatienummer: .....  
+
+0.7 Plaats en wijze van aanbrengen van het nummer van de typegoedkeuring: .....  
+
+0.8 Adres(sen) van de motorbouw fabriek(en): .....   
+
+#### *Bijlagen* 
+
+1. Essentiële eigenschappen van de basismotor/het motortype  
+
+2. Essentiële eigenschappen van de motorfamilie/motorgroep  
+
+3. Essentiële eigenschappen van de motoren binnen de motorfamilie/motorgroep  
+
+4. Eigenschappen van de met de motor verband houdende onderdelen van het vaartuig (indien van toepassing)  
+
+5. Handleiding van de fabrikant voor de uitvoering van de controle van de in te stellen onderdelen en kenmerken van de motor  
+
+6. Foto’s van de basismotor  
+
+7. Lijst van eventuele verdere bijlagen:   
+*Datum, handtekening van de fabrikant*  
+
+####Bijlage J, Deel II, aanhangsel 1 (Model)
+
+#### *Essentiële eigenschappen van de basismotor/het motortype * 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| --- | --- | --- |
+| 1.  | BESCHRIJVING VAN DE MOTOR  | --- |
+| 1.1  | Fabrikant:  | --- |
+| 1.2  | Motor codenummer van de fabrikant:  | --- |
+| 1.3  | Cyclus: viertakt/tweetakt<sup>1</sup>:  | --- |
+| 1.4  | Boring:  | mm  |
+| 1.5  | Slag:  | mm  |
+| 1.6  | Aantal en opstelling van de cilinders:  | --- |
+| 1.7  | Motorinhoud:  | cm<sup>3</sup>   |
+| 1.8  | Nominaal vermogen kw bij nominaal toerental:  | tr/min  |
+| 1.9  | Toerental min<sup>–1</sup> bij het maximumkoppel:  | Nm  |
+| 1.10  | Volumetrische compressieverhouding<sup>1</sup>:  | --- |
+| 1.11  | Beschrijving van het verbrandingssysteem:  | --- |
+| 1.12  | Tekening(en) van de verbrandingskamer en de zuigerkop:  | --- |
+| 1.13  | Minimumoppervlakte van de dwarsdoorsnede van de in- en uitlaatpoorten:  | mm<sup>2</sup>   |
+| --- |
+| 1.14  |  *Koelsysteem*   | --- |
+| 1.14.1  | Vloeistofkoeling  | --- |
+| 1.14.1.1  | Aard van de vloeistof:  | --- |
+| 1.14.1.2  | Circulatiepompen: ja/neen<sup>1</sup>  | --- |
+| 1.14.1.3  | Eigenschappen of merk(en) en type(n) (indien van toepassing):  | --- |
+| 1.14.1.4  | Overbrengingsverhouding(en) van de aandrijving (indien van toepassing):  | --- |
+| 1.14.2  | Luchtkoeling  | --- |
+| 1.14.2.1  | Ventilator: ja/neen<sup>1</sup>   | --- |
+| 1.14.2.2  | Eigenschappen of merk(en) en type(n) (indien van toepassing):  | --- |
+| 1.14.2.3  | Overbrengingsverhouding(en) van de aandrijving(indien van toepassing):  | --- |
+| --- |
+| 1.15  |  *Door de fabrikant toegestane temperaturen*   | --- |
+| 1.15.1  | Vloeistofkoeling: maximumtemperatuur bij de uitlaat:  | K  |
+| 1.15.2  | Luchtkoeling: referentiepunt:  | --- |
+| --- | Maximumtemperatuur bij het referentiepunt:  | K  |
+| 1.15.3  | Maximum inlaattemperatuur bij de uitlaat van de tussenkoeler (indien van toepassing):  | K  |
+| 1.15.4  | Maximum uitlaatgastemperatuur bij de aansluiting van de uitlaatpijp(en) en de buitenste flens (flenzen) van het (de) uitlaatspruitstuk(ken):  | K  |
+| 1.15.5  | Smeerolietemperatuur: min.:  | K  |
+| --- | max.:  | K  |
+| 1.16  | Drukvulling: ja/neen<sup>1</sup>   | --- |
+| 1.16.1  | Merk:  | --- |
+| 1.16.2  | Type:  | --- |
+| 1.16.3  | Beschrijving van het systeem (b.v. maximum vuldruk, uitlaatgas omloopsysteem (wastegate), indien van toepassing):  | --- |
+| 1.16.4  | Tussenkoeler: ja/neen<sup>1</sup>   | --- |
+| 1.17  | Inlaatsysteem: maximaal toelaatbare inlaat onderdruk bij het nominaal toerental van de motor en vollast:  | kPa  |
+| 1.18  | Uitlaatsysteem: maximaal toelaatbare uitlaattegendruk bij het nominaal toerental van de motor en vollast:  | kPa  |
+| 2.  | BIJKOMENDE INRICHTINGEN TER VERMINDERING VAN SCHADELIJKE STOFFEN  | --- |
+| --- | (indien aanwezig en voorzover deze niet onder een ander punt vallen)  | --- |
+| --- | – Beschrijving en/of schema(’s):  | --- |
+| 3.  | BRANDSTOFTOEVOER  | --- |
+| 3.1  |  *Brandstofpomp*   | --- |
+| --- | Druk<sup>1</sup> of karakteristiek diagram:  | kPa  |
+| 3.2  |  *Inspuitsysteem*   | --- |
+| 3.2.1  | Pomp  | --- |
+| 3.2.1.1  | Merk(en):  | --- |
+| 3.2.1.2  | Type(n):  | --- |
+| 3.2.1.3  | Opbrengst: ..... en ..... mm<sup>3</sup> <sup>1</sup> per slag of cyclus bij volledig inspuiting en een pomptoerental van:  | min<sup>–1</sup>   |
+| --- | (nominaal) en ..... min<sup>–1</sup> (maximumkoppel) of karakteristiek schema  | --- |
+| --- | Vermelden van de gebruikte methode: op een motor/op de pomp proefbank<sup>1</sup>  | --- |
+| 3.2.1.4  | Inspuit tijdstip  | --- |
+| 3.2.1.4.1  | Stel curve van de inspuit instelling<sup>2</sup>:  | --- |
+| 3.2.1.4.2  | Instelling van het tijdstip van inspuiting<sup>2</sup>:  | --- |
+| 3.2.2  | Inspuitleidingen  | --- |
+| 3.2.2.1  | Lengte:  | mm  |
+| 3.2.2.2  | Binnendiameter:  | mm  |
+| 3.2.3  | Verstuiver(s)  | --- |
+| 3.2.3.1  | Merk(en):  | --- |
+| 3.2.3.2  | Type(n):  | --- |
+| 3.2.3.3  | Openingsdruk<sup>2</sup> of karakteristiek schema:  | kPa  |
+| 3.2.4  | Regelaar  | --- |
+| 3.2.4.1  | Merk(en):  | --- |
+| 3.2.4.2  | Type(n):  | --- |
+| 3.2.4.3  | Uitschakelings toerental bij vollast<sup>2</sup>:  | min<sup>–1</sup>   |
+| 3.2.4.4  | Maximumtoerental in onbelaste toestand<sup>2</sup>:  | min<sup>–1</sup>   |
+| 3.2.4.5  | Stationair toerental<sup>2</sup>:  | min<sup>–1</sup>   |
+| --- |
+| 3.3  |  *Koudestartsysteem*   | --- |
+| 3.3.1  | Merk(en):  | --- |
+| 3.3.2  | Type(n):  | --- |
+| 3.3.3  | Beschrijving:  | --- |
+| 4.  | KLEPAFSTELLING  | --- |
+| 4.1  | Maximale lichthoogte, openings- en sluitingshoeken ten opzichte van de dode punten of equivalente gegevens:  | --- |
+| 4.2  | Referentie en/of afstelbereik<sup>2</sup>   | --- |
+
+<sup>1</sup> Doorhalen wat niet van toepassing is.<sup>2</sup> De tolerantie aangeven. 
+
+####Bijlage J, Deel II, aanhangsel 2 (Model)
+
+#### *Reglement Onderzoek Schepen op de Rijn* 
+
+#### *Essentiële eigenschappen van de motorfamilie/motorgroep<sup> 7  In te vullen in samenhang met de specificaties van bijlage J, deel I, onderdeel 5 van het Reglement Onderzoek Schepen op de Rijn.  </sup> * 
+
+1. GEMEENSCHAPPELIJKE KENMERKEN<sup> 8 In te vullen in samenhang met de specificaties van bijlage J, deel I, onderdeel 5 van het Reglement Onderzoek Schepen op de Rijn. </sup>: 
+
+1.1 Verbrandingscyclus: .....  
+
+1.2 Koelmedium: .....  
+
+1.3 Lucht aanzuiging: .....  
+
+1.4 Type/ontwerp van de verbrandingskamer: .....  
+
+1.5 Klep- en poortconfiguratie, grootte en aantal:  
+
+1.6 Brandstofsysteem: .....  
+
+1.7 Motorregelsysteem: Bewijs van identiteit overeenkomstig de tekening (en) nummer(s): 
+
+– koelsysteem onder druk: .....  
+
+– uitlaatgascirculatie<sup> 9 Indien niet van toepassing ‘n.v.t.’ invullen. </sup>: .....  
+
+– waterinjectie/emulsie<sup> 10 Indien niet van toepassing ‘n.v.t.’ invullen. </sup>: .....  
+
+– luchtinjectie<sup> 11 Indien niet van toepassing ‘n.v.t.’ invullen. </sup>: ......    
+
+1.8 Uitlaatgas nabehandeling<sup> 12 Indien niet van toepassing ‘n.v.t.’ invullen. </sup>: Bewijs van gelijke (of laagste voor de basismotor) verhouding: capaciteit van het systeem/toegevoegde hoeveelheid brandstof per slag overeenkomstig het (de) schema(’s), nummer: .....    
+
+2. SAMENSTELLING VAN DE MOTORFAMILIE/MOTORGROEP<sup> 13 In te vullen in samenhang met de specificaties van bijlage J, deel I, onderdeel 5 van het Reglement Onderzoek Schepen op de Rijn. </sup>  
+
+2.1 Aanduiding van de motorfamilie/motorgroep<sup> 14 In te vullen in samenhang met de specificaties van bijlage J, deel I, onderdeel 5 van het Reglement Onderzoek Schepen op de Rijn. </sup>: .....  
+
+2.2 Specificaties van de motoren binnen deze familie/groep<sup> 15 In te vullen in samenhang met de specificaties van bijlage J, deel I, onderdeel 5 van het Reglement Onderzoek Schepen op de Rijn. </sup>: .....  
+
+|--- | basismotor<sup>1</sup>   |
+|:---|:---|
+| Motor aanduiding  | --- |
+| Aantal cilinders  | --- |
+| Nominaal toerental (min<sup>–1</sup>)  | --- |
+| Brandstofdebiet per slag (mm<sup>3</sup>)  | --- |
+| Nominaal nettovermogen (kW)  | --- |
+| Toerental bij maximumkoppel (min<sup>–1</sup>)  | --- |
+| Brandstofdebiet per slag (mm<sup>3</sup>)  | --- |
+| Maximumkoppel (Nm)  | --- |
+| Laagste stationaire toerental (min<sup>–1</sup>)  | --- |
+| Zuigerverplaatsing (in % van de basismotor)  | 100  |
+
+<sup>1</sup> Voor nadere bijzonderheden zie aanhangsel 1.     
+
+####Bijlage J, Deel II, aanhangsel 3 (Model)
+
+#### *Reglement Onderzoek Schepen op de Rijn* 
+
+#### *Essentiële eigenschappen van de motoren binnen de motorfamilie/motorgroep<sup> 16  Voor elke motor van de motorfamilie/motorgroep afzonderlijk in te dienen.  Opsommingen in tabelvorm zijn toegelaten.  </sup> * 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| 1.  | BESCHRIJVING VAN DE MOTOR  | --- |
+| 1.1  | Fabrikant:  | --- |
+| 1.2  | Motor codenummer van de fabrikant:  | --- |
+| 1.3  | Cyclus: viertakt/tweetakt<sup>1</sup>:  | --- |
+| 1.4  | Boring:  | mm  |
+| 1.5  | Slag:  | mm  |
+| 1.6  | Aantal en opstelling van de cilinders:  | --- |
+| 1.7  | Motorinhoud:  | cm<sup>3</sup>   |
+| 1.8  | Nominaal vermogen: kw bij nominaal toerental  | min<sup>–1</sup>   |
+| 1.9  | Toerental · min<sup>–1</sup> bij maximumkoppel:  | --- |
+| --- | --- | Nm  |
+| 1.10  | Volumetrische compressieverhouding<sup>2</sup>:  | --- |
+| 1.11  | Beschrijving van het verbrandingssysteem:  | --- |
+| 1.12  | Tekening(en) van de verbrandingskamer en de zuigerkop:  | --- |
+| 1.13  | Minimumoppervlakte van de dwarsdoorsnede van de in- en uitlaatpoorten:  | --- |
+| 1.14  |  *Koelsysteem*   | --- |
+| 1.14.1  | Vloeistofkoeling  | --- |
+| 1.14.1.1  | Aard van de vloeistof:  | --- |
+| 1.14.1.2  | Circulatiepomp(en): ja/neen<sup>1</sup>   | --- |
+| 1.14.1.3  | Eigenschappen of merk(en) en type(n) (indien van toepassing):  | --- |
+| 1.14.1.4  | Overbrengingsverhouding(en) van de aandrijving (indien van toepassing):  | --- |
+| 1.14.2  | Luchtkoeling  | --- |
+| 1.14.2.1  | Ventilator: ja/neen<sup>1</sup>   | --- |
+| 1.14.2.2  | Eigenschappen of merk(en) en type(n) (indien van toepassing):  | --- |
+| 1.14.2.3  | Overbrengingsverhouding(en) van de aandrijving (indien van toepassing):  | --- |
+| 1.15  |  *Door de fabrikant toegestane temperatuur*   | --- |
+| 1.15.1  | Vloeistofkoeling: maximum temperatuur bij de uitlaat:  | K  |
+| 1.15.2  | Luchtkoeling: referentiepunt:  | --- |
+| --- | Maximumtemperatuur bij het referentiepunt:  | K  |
+| 1.15.3  | Maximum inlaatluchttemperatuur bij de uitlaat van de inlaat tussenkoeler (indien van toepassing):  | K  |
+| 1.15.4  | Maximum uitlaatgastemperatuur bij de aansluiting van de uitlaatpijp(en) aan de buitenste flens (flenzen) van het uitlaatspruitstuk :  | K  |
+| 1.15.5  | Smeerolietemperatuur:  | --- |
+| --- | minimum:  | K  |
+| --- | maximum:  | K  |
+| 1.16  | Drukvulling: ja/neen<sup>1</sup>  | --- |
+| 1.16.1  | Merk:  | --- |
+| 1.16.2  | Type:  | --- |
+| 1.16.3  | Beschrijving van het systeem (b.v. maximum vuldruk, uitlaatgas omloopsysteem (wastegate), indien van toepassing):  | --- |
+| 1.16.4  | Tussenkoeler: ja/neen<sup>1</sup>  | --- |
+| 1.17  | Inlaatsysteem: maximaal toelaatbare inlaat onderdruk bij nominaal toerental van de motor en vollast:  | kPa  |
+| 1.18  | Uitlaatsysteem: maximaal toelaatbare uitlaattegendruk bij nominaal toerental van de motor en vollast:  | kPa  |
+| 2.  | BIJKOMENDE INRICHTINGEN TER VERMINDERING VAN SCHADELIJKE STOFFEN  | --- |
+| --- | (indien aanwezig en voorzover niet onder een ander punt vallend)  | --- |
+| --- | – Beschrijving en/of schema(’s):  | --- |
+| 3.  | BRANDSTOFTOEVOER  | --- |
+| 3.1  |  *Brandstofpomp*   | --- |
+| --- | Druk<sup>1</sup> of schema:  | kPa  |
+| 3.2  |  *Inspuitsysteem*   | --- |
+| 3.2.1  | Pomp  | --- |
+| 3.2.1.1  | Merk(en):  | --- |
+| 3.2.1.2  | Type(n):  | --- |
+| 3.2.1.3  | Hoeveelheid inspuiting: .... en ... mm<sup>33</sup> per slag of cyclus bij .... min<sup>–1</sup> van de pomp (nominaal toerental) respectievelijk .. min<sup>–1</sup> (maximum koppel) of karakteristiek schema  | --- |
+| --- | Vermelden van de gebruikte methode: op de motor/op een pomp proefbank<sup>1</sup>  | --- |
+| 3.2.1.4  | Inspuit tijdstip  | --- |
+| 3.2.1.4.1  | Stel curve van de inspuit instelling<sup>3</sup>:  | --- |
+| 3.2.1.4.2  | Instelling van het tijdstip van inspuiting<sup>3</sup>:  | --- |
+| 3.2.2  | Inspuitleidingen  | --- |
+| 3.2.2.1  | Lengte:  | mm  |
+| 3.2.2.2  | Binnendiameter:  | mm  |
+| 3.2.3  | Verstuiver(s)  | --- |
+| 3.2.3.1  | Merk(en):  | --- |
+| 3.2.3.2  | Type(n):  | --- |
+| 3.2.3.3  | Openingsdruk<sup>3</sup> of karakteristiek schema:  | kPa  |
+| 3.2.4  | Regelaar  | --- |
+| 3.2.4.1  | Merk(en):  | --- |
+| 3.2.4.2  | Type(n):  | --- |
+| 3.2.4.3  | Uitschakelingstoerental bij vollast<sup>3</sup>:  | min<sup>–1</sup>   |
+| 3.2.4.4  | Maximumtoerental in onbelaste toestand<sup>3</sup>:  | min<sup>–1</sup>   |
+| 3.2.4.5  | Stationair toerental<sup>3</sup>:  | min<sup>–1</sup>   |
+| 3.3  |  *Koude start systeem*   | --- |
+| 3.3.1  | Merk(en):  | --- |
+| 3.3.2  | Type(n):  | --- |
+| 3.3.3  | Beschrijving:  | --- |
+| 4.  | KLEPAFSTELLING  | --- |
+| 4.1  | Maximale lichthoogte, openings- en sluitingshoeken ten opzichte van de dode punten of equivalente gegevens:  | --- |
+| 4.2  | Referentie en/of afstelbereik<sup>1</sup>:  | --- |
+
+<sup>1</sup> Doorhalen wat niet van toepassing is.<sup>2</sup> De tolerantie aangeven.<sup>1</sup> De tolerantie aangeven.
+
+####Bijlage J, Deel III (Model)
+
+#### *Reglement Onderzoek Schepen op de Rijn* 
+
+### Deel  III  
+
+#### *Certificaat van typegoedkeuring* 
+
+| --- | --- |
+|:---|:---|
+| Stempel van de bevoegde autoriteit  |
+| --- |
+|  *Type goedkeuringsnummer*  .....  |  *Uitbreidingsnummer* .....  |
+| Mededeling betreffende:  |
+| – verlenen/uitbreiding/weigering/intrekking<sup>1</sup> van de typegoedkeuring voor een type motor, een motorfamilie of motorgroep met betrekking tot de uitstoot van schadelijke stoffen overeenkomstig het Reglement Onderzoek Schepen op de Rijn  |
+| Reden voor uitbreiding (indien van toepassing): .....  |
+
+<sup>1</sup> Doorhalen wat niet van toepassing is.
+### *ONDERDEEL I* 
+
+| --- | --- |
+|:---|:---|
+| 0.  | Algemeen  |
+| 1.  | Eventuele beperking van het gebruik:  |
+| 0.1  | Fabrieksmerk (firmanaam van de fabrikant): .....  |
+| 0.2  | Aanduiding door de fabrikant van het (de) motortype(n), de basismotor en (indien van toepassing) van het motortype binnen de motorfamilie/motorgroep<sup>1</sup>: .....  |
+| 0.3  | Code van het type door de fabrikant overeenkomstig de aanduiding op de motor(en): .....  |
+| Plaats: .....  |
+| Wijze van aanbrengen: .....  |
+| 0.4  | Gebruik dat van de motor zal worden gemaakt<sup>2</sup>: .....  |
+| 0.5  | Naam en adres van de fabrikant: .....  |
+| Naam en adres van de vertegenwoordiger van de fabrikant indien van toepassing: .....  |
+| 0.6  | Plaats, code en wijze van aanbrengen van het identificatienummer van de motor: .....  |
+| 0.7  | Plaats en wijze van aanbrengen van het nummer van de typegoedkeuring: .....  |
+| 0.8  | Adres(sen) van de assemblage fabriek(en): .....  |
+
+<sup>1</sup> Doorhalen wat niet van toepassing is.<sup>2</sup> B.v.: schroefdiagram, van de aandrijving van het schip, aandrijving van het schip, constant toerental. 
+### *ONDERDEEL II* 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| 1.  | Eventuele beperking van het gebruik:  | --- |
+| 1.1  | Speciale voorwaarden voor de inbouw van de motor(en) in het vaartuig:  | --- |
+| 1.1.1  | Toelaatbare maximum inlaat onderdruk:  | kPa  |
+| 1.1.2  | Toelaatbare maximum uitlaat tegendruk:  | kPa  |
+| 2.  | Technische dienst die verantwoordelijk is voor de uitvoering van de tests<sup>1</sup>:  | --- |
+| 3.  | Datum van het testrapport<sup>2</sup>:  | --- |
+| 4.  | Nummer van het testrapport:  | --- |
+| 5.  | Ondergetekende verklaart hierbij dat de beschrijving van de fabrikant in het bijgevoegde inlichtingenformulier van de hierboven bedoelde motor(en) juist is en dat de bijgevoegde testresultaten op het motortype of de basismotor van toepassing zijn. Het testexemplaar/de testexemplaren is (zijn) met toestemming van de bevoegde autoriteit door de fabrikant geselecteerd en beschikbaar gesteld als proefmodel van de (basis-) motor.  | --- |
+| De typegoedkeuring is verleend/uitgebreid/geweigerd/ingetrokken<sup>3</sup>   | --- |
+| Plaats:  | --- |
+| Datum:  | --- |
+| Handtekening:  | --- |
+| --- | --- | --- |
+| Bijlagen:  | --- |
+| --- | Informatiedossier  | --- |
+| --- | Testresultaten (zie aanhangsel 1)  | --- |
+
+<sup>1</sup> ‘N.v.t.’ invullen wanneer de tests worden uitgevoerd door de bevoegde autoriteit zelf.<sup>2</sup> Eventueel met inbegrip van een correlatiestudie met betrekking tot de gebruikte bemonsteringssystemen die afwijken van de referentiesystemen zoals aangegeven in het Reglement Onderzoek Schepen op de Rijn, bijlage J, onderdeel 3.1.1.<sup>3</sup> Doorhalen wat niet van toepassing is.
+
+####Bijlage J, Deel III, aanhangsel 1 (Model)
+
+#### *Reglement Onderzoek Schepen op de Rijn* 
+
+#### *Testresultaten * 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| 0.  | Algemeen  | --- |
+| 0.1  | Fabrieksmerk (firmanaam van de fabrikant):  | --- |
+| 0.2  | Aanduiding door de fabrikant van het (de) motortype(n), de basismotor en eventueel van de motorfamilie/motorgroep<sup>1</sup>:  | --- |
+| 1.  |  *Gegevens betreffende de uitvoering van de test(s)<sup>2</sup>*   | --- |
+| 1.1  | Testcyclus  | --- |
+| --- | Aanduiding van de testcyclus<sup>3</sup>:  | --- |
+| 1.2  | Motorprestaties  | --- |
+| 1.2.1  | Toerentallen van de motor  | --- |
+| --- | Stationair toerental:  | min<sup>–1</sup>   |
+| --- | Nominaal toerental:  | min<sup>–1</sup>   |
+| 1.2.2  | Nominaal vermogen:  | kW  |
+| 1.3  | Emissiewaarden  | --- |
+
+<sup>1</sup> Doorhalen wat niet van toepassing is.<sup>2</sup> Bij meer dan een testcyclus voor ieder afzonderlijk aangegeven.<sup>3</sup> De gebruikte testcyclus aanduiden overeenkomstig dienstinstructie nr. 16 bij het Reglement Onderzoek Schepen op de Rijn, Deel II, onderdeel 3.6. 
+
+|--- | Emissieresultaten tijdens de test:  | Toegestane waarden  |--- |
+|:---|:---|:---|:---|
+| --- | CO: g/kWh  | CO: g/kWh  | --- |
+| --- | HC: g/kWh  | HC: g/kWh  | --- |
+| --- | NO<sub>x</sub>: g/kWh  | NO<sub>x</sub>: g/kWh  | --- |
+| --- | Deeltjes: g/kWh  | Deeltjes: g/kWh  | --- |
+| 1.4  | Bevoegde autoriteit of technische dienst  | --- |
+| Plaats, datum  | Handtekening:  | --- |
+
+####Bijlage J, Deel IV (Model)
+
+#### *Reglement Onderzoek Schepen op de Rijn* 
+
+### Deel  IV  
+
+#### *Nummeringssysteem voor de typegoedkeuringen* 
+
+### *1. Systematiek* 
+
+Het nummer bestaat uit vijf door een ‘ * ’gescheiden onderdelen. Onderdeel 1: De hoofdletter ‘R’, gevolgd door het kenmerkend nummer van de Lidstaat die de goedkeuring heeft verleend: 1 voor Duitsland 2 voor Frankrijk 4 voor Nederland 6 voor België 14 voor Zwitserland Onderdeel 2: Aanduiding van het niveau waaraan wordt voldaan. Men kan ervan uitgaan dat de eisen wat de uitstoot van schadelijke gassen en luchtverontreinigende deeltjes betreft, in de toekomst strenger zullen zijn. De verschillende niveaus van de eisen worden door romeinse cijfers aangegeven. De basisnorm wordt aangeduid door het cijfer I. Onderdeel 3: Aanduiding van de testcycli. Aangezien de motoren de typegoedkeuring voor verschillend gebruik op grond van de daarvoor bedoelde testcycli kunnen krijgen, is het gewenst deze cycli aan te geven. Onderdeel 4: Een uit vier cijfers bestaand volgnummer (met aan het begin eventueel nullen) om het nummer van de basisgoedkeuring aan te geven. De serie begint met 0001. Onderdeel 5: Een uit twee cijfers bestaand volgnummer (met eventueel een nul aan het begin) om de uitbreiding aan te geven. De serie begint met 01 voor elk nummer van de basisgoedkeuring. 
+### *2. Voorbeelden* 
+
+a. Een derde goedkeuring verleend door Nederland overeenkomstig fase I, bij toepassing van de motor voor scheepsvoortstuwing – schroefdiagram (vooralsnog zonder uitbreiding) zal het volgende nummer krijgen: R 4*I*E3*0003*00  
+
+b. Een tweede uitbreiding van de vierde goedkeuring verleend door Duitsland overeenkomstig de fase II, voor scheepsvoortstuwing – constant toerental en voortstuwingsdiagram – schroefdiagram: R 1*II*E2E3*0004*02’.   
+
+####Bijlage J, Deel V (Model)
+
+####Reglement Onderzoek Schepen op de Rijn
+
+### Deel  V  
+
+#### *Lijst van afgegeven typegoedkeuringen voor motortypen, motorfamilies/motorgroepen* 
+
+Stempel van de bevoegde autoriteit Lijst nummer: Voor de periode van: ..... tot .....  
+
+| 1  | 2  | 3  | 4  | 5  | 6  | 7  |
+|:---|:---|:---|:---|:---|:---|:---|
+| Fabrieksmerk <sup>1</sup>   | Aanduiding door de fabrikant<sup>1</sup>   | Typegoedkeuringsnummer  | Datum van typegoedkeuring  | Uitbreiding, weigering of intrekking <sup>2</sup>  | Reden van uitbreiding, weigering of intrekking  | Datum van uitbreiding, weigering of intrekking<sup>2</sup>   |
+| --- |
+| --- |
+| --- |
+| --- |
+
+<sup>1</sup> Overeenkomstig het certificaat van typegoedkeuring.<sup>2</sup> Aanvullen.
+
+####Bijlage J, Deel VI (Model)
+
+#### *Reglement Onderzoek Schepen op de Rijn* 
+
+### Deel  VI  
+
+#### *Lijst van vervaardigde motoren* 
+
+Stempel van de bevoegde autoriteit Lijst nummer: ..... Voor de periode van: ..... tot ..... Wat betreft motortypen, motorfamilies, motorgroepen en typegoedkeuringsnummers van in de bovengenoemde periode overeenkomstig het Reglement Onderzoek Schepen op de Rijn vervaardigde motoren worden de hierna volgende gegevens verstrekt: Fabrieksmerk (firmanaam van de fabrikant): ..... Aanduiding door de fabrikant van het (de) motortype(n)<sup> 17 Doorhalen wat niet van toepassing is. </sup>, de basismotor en eventueel motoren van de motorfamilie/motorgroep: Nummer van de typegoedkeuring: ..... Datum van afgifte: ..... Eerste datum van afgifte (ingeval van addenda): ..... Aanduiding van de motorfamilie/motorgroep<sup> 18 Weglaten indien niet van toepassing; het voorbeeld betreft een motorfamilie met ‘n’ verschillende motortypen waarvan een reeks exemplaren werd vervaardigd met de volgende identificatienummers: van .... 001 t/m .... m van het type 1, van .... 001 t/m .... p van het type 2, van .... 001 t/m .... q van het type n. </sup>: .....  
+
+| Motor van motorfamilie/motorgroep:  | 1:  | 2: .....  | n: .....  |
+|:---|:---|:---|:---|
+| Motor identificatienummer:  | ... 001  | ... 001  | ... 001  |
+| --- | ... 002  | ... 002  | ... 002  |
+| --- | .  | .  | .  |
+| --- | .  | .  | .  |
+| --- | .  | .  | .  |
+| --- | ... m  | ... p  | ... q  |
+
+####Bijlage J, Deel VII (Model)
+
+####Reglement Onderzoek Schepen op de Rijn
+
+### Deel  VII  
+
+#### *Gegevensformulier voor motoren met een typegoedkeuring* 
+
+Stempel van de bevoegde autoriteit  
+
+| Motorbeschrijving  | Emissie (g/kWh)  |
+|:---|:---|
+| Volgnummer  | Datum typegoedkeuring  | Nummer typegoedkeuring  | Fabrieksmerk  | motortype/motorfamilie/motorgroep  | Koelmiddel¹    | Aantal cilinders  | Zuiger inhoud (cm<sup>3</sup>)  | Nominaal vermogen (kW)  | Nominaal toerental (min<sup>–1</sup>)  | Verbranding²    | Nabehandeling³    | Test-cyclus  | CO  | HC  | NO<sub>x</sub>   | PT  |
+| --- |
+| --- |
+| --- |
+| --- |
+
+<sup>1</sup> Vloeistof of lucht.<sup>2</sup> Gebruikte afkortingen: DI = directe inspuiting, PC = voor-/wervelkamer, NA = natuurlijke aanzuiging, TC = drukvulling, TCA = drukvulling met tussenkoeling (Voorbeelden: DI NA, DI TC, DI TCA, PC NA, PC TC, PC TCA). .<sup>3</sup> Gebruikte afkortingen: DI = directe inspuiting, PC = voor-/wervelkamer, NA = natuurlijke aanzuiging, TC = drukvulling, TCA = drukvulling met tussenkoeling (Voorbeelden: DI NA, DI TC, DI TCA, PC NA, PC TC, PC TCA).  *Reglement onderzoek schepen op de Rijn*  
+
+####Bijlage J, Deel VIII (Model)
+
+### Deel  VIII  
+
+#### *Proces-verbaal van de motorkenmerken * 
+
+| --- | --- |
+|:---|:---|
+|  *0.*   |  *Algemene gegevens*   |
+| 0.1  | Gegevens van de motor  |
+| 0.1.1  | Fabrieksmerk: .....  |
+| 0.1.2  | Aanduiding van de fabrikant: .....  |
+| --- | .....  |
+| 0.1.3  | Nummer van typegoedkeuring: .....  |
+| 0.1.4  | Motoridentificatienummer: .....  |
+| --- | --- |
+| 0.2  | Documentatie  |
+| --- | --- |
+| --- | De motorkenmerken moeten getest worden en de testresultaten moeten worden vastgelegd.  |
+| --- | De documentatie moet op afzonderlijke, apart genummerde bladen geschieden. De tester moet deze ondertekenen en bij dit proces-verbaal voegen.  |
+| --- | --- |
+| 0.3  | Test  |
+| --- | --- |
+| --- | De test wordt uitgevoerd volgens de aanwijzingen<sup>1</sup> van de fabrikant met betrekking tot de controle van de componenten van de in te stellen onderdelen en van de motorkenmerken. De tester kan in bijzondere gevallen en gemotiveerd naar eigen inzicht ervan afzien tests van bepaalde motorkenmerken uit te voeren.  |
+| 0.4  | Dit proces-verbaal van de motorkenmerken bestaat uit een totaal van .....<sup>2</sup> blz., aantekeningen inbegrepen.  |
+
+<sup>1</sup> Zie het Reglement Onderzoek Schepen op de Rijn, Bijlage J, Deel I, onderdeel 2.4, artikel 8a.11, derde lid.<sup>2</sup> In te vullen door de tester. 
+
+|  *1.*   |  *Motorkenmerken*   |
+|:---|:---|
+| --- | Dit document bevestigt dat de kenmerken van de geteste motor niet ontoelaatbaar van de voorgeschreven kenmerken afwijken.  |
+| 1.1  | Inbouwkeuring  |
+| --- | Naam en adres van de keuringsinstantie:  |
+| --- | .....  |
+| --- | .....  |
+| --- | Naam van de tester: .....  |
+| --- | Plaats en datum: .....  |
+| --- | Handtekening: .....  |
+| --- | --- |
+| --- | Test erkend door bevoegde autoriteit:  |
+| --- | .....  |
+| --- | .....  |
+| --- | Plaats en datum: .....  |
+| --- | Handtekening: .....  |
+| --- | --- |
+| --- | Stempel van de bevoegde autoriteit  |
+
+| 1.2  | O Tussentijdse keuring  | O Bijzondere keuring<sup>1</sup>   |
+|:---|:---|:---|
+| --- | Naam en adres van de keuringsinstantie: .....  |
+| --- | .....  |
+| --- | .....  |
+| --- | Naam van de tester: .....  |
+| --- | Plaats en datum: .....  |
+| --- | Handtekening: .....  |
+| --- | --- |
+| --- | Test erkend door bevoegde autoriteit  |
+| --- | .....  |
+| --- | .....  |
+| --- | .....  |
+| --- | Plaats en datum: .....  |
+| --- | Handtekening: .....  |
+| --- | Stempel van de bevoegde autoriteit  |
+
+<sup>1</sup> Aankruisen wat van toepassing is.
+
+#### *Bijlage bij het proces-verbaal van de motorkenmerken* 
+
+![244687](http://wetten.overheid.nl/Illustration/244687)
+
+De motor en de onderdelen daarvan betrekking hebbend op de uitlaatgassen zijn aan de hand van het type plaatje geïdentificeerd. De keuring is geschied aan de hand van het ‘Inlichtingenformulier van de fabrikant ter controle van de componenten betrekking hebbend op de uitlaatgassen en de motorkenmerken’. 
+### *A. Test van de onderdelen* 
+
+Overige onderdelen betrekking hebbend op de uitlaatgassen, die in het ‘Inlichtingenformulier van de fabrikant ter controle van de componenten betrekking hebbend op de uitlaatgassen en de motorkenmerken’ zijn opgesomd, moeten worden ingevuld.  
+
+| Onderdeel  | Toegekend onderdeelnummer  | Overeenkomst<sup>1</sup>   |
+|:---|:---|:---|
+| Nokkenas/zuigers  | --- | O Ja  | O Nee  O vervallen  |
+| Inspuitventiel  | --- | O Ja  | O Nee  O vervallen  |
+| Gegevensformulier/Nr. van software  | --- | O Ja  | O Nee  O vervallen  |
+| Inspuitpomp  | --- | O Ja  | O Nee  O vervallen  |
+| Cilinderkop  | --- | O Ja  | O Nee  O vervallen  |
+| Uitlaatgas turbolader  | --- | O Ja  | O Nee  O vervallen  |
+| Koelsysteem inlaatlucht  | --- | O Ja  | O Nee  O vervallen  |
+| --- | --- | O Ja  | O Nee  O vervallen  |
+| --- | --- | O Ja  | O Nee  O vervallen  |
+| --- | --- | O Ja  | O Nee  O vervallen  |
+
+<sup>1</sup> Aankruisen wat van toepassing is.
+### *B. Test van de instelbare eigenschappen en motorkenmerken* 
+
+| Kenmerken  | Verkregen waarde  | Overeenkomst<sup>1</sup>   |
+|:---|:---|:---|
+| Inspuit tijdstip, inspuit duur  | --- | O Ja  | O Nee  |
+
+<sup>1</sup> Aankruisen wat van toepassing is.
+### *C. Test van het inlaatsysteem en van de uitlaatgasinstallatie* 
+
+| --- | --- |
+|:---|:---|
+| O  | Het voldoen aan de toegestane waarden is door een meting getest  Inlaat onderdruk: ..... kPa bij nominaal toerental en vollast  Uitlaat tegendruk: ..... kPa bij nominaal toerental en vollast  |
+| O  | Een visuele controle van het inlaatsysteem en van de uitlaatgasinstallatie is uitgevoerd. Er zijn geen bijzonderheden vastgesteld, die zouden kunnen wijzen op een niet voldoen aan de toegestane waarden.  |
+
+### *D. Opmerkingen: .....* 
+
+(De volgende afwijkende instellingen, modificaties of wijzigingen aan de ingebouwde dieselmotor zijn geconstateerd.) ..... ..... ..... Naam van de tester: ..... Plaats en datum: ..... Handtekening: ..... 
 
 ### Bijlage  K  
 
@@ -6370,7 +7194,7 @@ Is geen bedrijf vermeld, dan betekent dat geen enkel bedrijf in dat land werd er
 
 ### *A. Vereisten voor Inland AIS-apparatuur* 
 
-De AIS-apparatuur moet voldoen aan de in besluit 2007-I-15 vermelde eisen van de teststandaard, editie 2.0. De conformiteit wordt aangetoond met een typegoedkeuringsonderzoek van een bevoegde autoriteit. 
+De Inland AIS-apparatuur moet voldoen aan de in Besluit 2007-I-15 vermelde eisen van de teststandaard, editie 2.0. De conformiteit wordt aangetoond met een typegoedkeuringsonderzoek van een bevoegde autoriteit. 
 ### *B. Controle van de inbouw en van het functioneren van Inland AIS-apparatuur aan boord* 
 
 Bij de inbouw van Inland AIS-apparatuur aan boord moet aan de volgende voorwaarden worden voldaan: 
@@ -6379,62 +7203,55 @@ Bij de inbouw van Inland AIS-apparatuur aan boord moet aan de volgende voorwaard
 
 2. Het Inland AIS-apparaat moet in het stuurhuis of op een andere goed toegankelijke plaats zijn geïnstalleerd.  
 
-3.De functionaliteit van een interne of externe MKD (minimum keyboard and display) moet voor de schipper bereikbaar zijn. Alarmfuncties en statusinformatie van het Inland AISapparaat moeten zich in het directe gezichtsveld van de roerganger bevinden. Het is echter mogelijk dat direct zicht op andere apparaten die bij het varen gebruikt worden, een hogere prioriteit heeft. Alle waarschuwingslampjes moeten na de inbouw zichtbaar blijven.
+3. De functionaliteit van een interne of externe MKD (minimum keyboard and display) moet voor de roerganger bereikbaar zijn. Alarmfuncties en statusinformatie van het Inland AIS-apparaat moeten zich in het directe gezichtsveld van de roerganger bevinden. Het is echter mogelijk dat direct zicht op andere apparaten die bij het varen gebruikt worden, een hogere prioriteit heeft. Alle waarschuwingslampjes moeten na de inbouw zichtbaar blijven.  
 
-4. Het moet zichtbaar zijn of het apparaat in bedrijf is.Het apparaat moet permanent door elektrische energie worden gevoed door middel van een stroomkring die tegen uitvallen beschermd is en voorzien van een eigen beveiliging, en het moet rechtstreeks aan de stroombron zijn aangesloten.  
+4. Het moet zichtbaar zijn of het apparaat in bedrijf is. Het apparaat moet permanent van stroom worden voorzien door middel van een elektrische stroomkring die tegen uitvallen beschermd is en voorzien is van een eigen beveiliging door zekeringen, en het moet rechtstreeks aan de stroombron zijn aangesloten.  
 
-5. De antennen van de Inland AIS apparatuur moeten zo zijn geïnstalleerd en aan de apparatuur zijn aangesloten dat deze onder alle normale bedrijfsomstandigheden veilig functioneren.Een ander apparaat mag slechts worden aangesloten indien de interfaces van beide apparaten compatibel zijn.  
+5. De antennen van de Inland AIS-apparatuur moeten zo zijn geïnstalleerd en aan de apparatuur zijn aangesloten dat deze onder alle normale bedrijfsomstandigheden veilig functioneren. Een ander apparaat mag slechts worden aangesloten indien de interfaces van beide apparaten compatibel zijn.  
 
-6.Uitsluitend typegoedgekeurde externe sensoren mogen met het Inland AIS-apparaat worden verbonden. De externe sensoren die met het Inland AIS-apparaat zijn verbonden, moeten een typegoedkeuring hebben conform de volgende overeenkomstige maritieme standaarden. 
+6. Uitsluitend typegoedgekeurde externe sensoren mogen met het Inland AIS-apparaat worden verbonden. De externe sensoren die met het Inland AIS-apparaat zijn verbonden, moeten een typegoedkeuring hebben conform de volgende overeenkomstige maritieme standaarden.  
 
-|Sensor |Sensor Minimum Performance Standard (IMO) |ISO/IEC Standard |
+| Sensor  | Minimum Performance Standard (IMO)  | ISO/IEC Standard  |
 |:---|:---|:---|
-|GPS |MSC.112(73) |IEC 61108-1 : 2003 |
-|DGPS/DGLONASS |MSC.114(73) |IEC 61108-4 : 2004 |
-|Galileo |MSC.233(82) |IEC 61108-3 : 2010 |
-|Heading/GPS Compass |MSC.116(73) |ISO 22090-3 : 2004 Part 3 : GNSS principles |
+| GPS  | MSC.112(73)  | IEC 61108-1: 2003  |
+| DGPS/DGLONASS  | MSC.114(73)  | IEC 61108-4: 2004  |
+| Galileo  | MSC.233(82)  | IEC 61108-3: 2010  |
+| Heading/GPS Compass  | MSC.116(73)  | ISO 22090-3: 2004  Part 3: GNSS principles  |
 
 7. Vóór de eerste inbedrijfstelling na de inbouw, bij vernieuwing of verlenging van het certificaat van onderzoek (met uitzondering van artikel 2.09, tweede lid, van het Reglement Onderzoek schepen op de Rijn), alsmede na elke verbouwing van het schip die de operationele toestand van deze installaties zou kunnen beïnvloeden, moet door de bevoegde autoriteit of door een erkend bedrijf een controle op de inbouw en het functioneren worden uitgevoerd.  
 
-8. Het gespecialiseerde bedrijf dat de inbouw en de goede werking van de installatie heeft gecontroleerd, geeft over de bijzondere kenmerken en de juiste functionering van het Inland AIS-apparaat, een verklaring overeenkomstig bijlage N, deel II af.  
+8. Het gespecialiseerde bedrijf dat de inbouw en de goede werking van de installatie heeft gecontroleerd, geeft over de bijzondere kenmerken en de juiste functionering van het Inland AIS-apparaat, een verklaring overeenkomstig bijlage N, deel II, af.  
 
 9. De verklaring moet blijvend aan boord worden bewaard.  
 
-10. Een gebruiksaanwijzing om aan boord te worden bewaard moet zijn afgegeven. Dit moet in de verklaring met betrekking tot de installatie worden aangetekend.   
-### *C. Informatie van de Centrale Commissie voor de Rijnvaart* 
+10. Een gebruiksaanwijzing om aan boord te worden bewaard moet zijn afgegeven. Dit moet in de verklaring met betrekking tot de installatie worden vermeld.   
+### *C. Informatie van de Centrale Commissie voor de Rijnvaart*
 
-De Rijnoeverstaten en België brengen onverwijld de volgende gegevens in kennis van de Centrale Commissie voor de Rijnvaart: 
+De Rijnoeverstaten en België brengen onverwijld de volgende gegevens ter kennis van de Centrale Commissie voor de Rijnvaart: 
 
-a. iedere benoeming van een bevoegde autoriteit,  
+a) iedere benoeming van een bevoegde autoriteit,  
 
-b. elke afgifte of intrekking van een typegoedkeuring voor Inland AIS-apparatuur,  
+b) elke afgifte of intrekking van een typegoedkeuring voor Inland AIS-apparatuur,  
 
-c. iedere erkenning van een bedrijf dat zich in de inbouw van Inland AIS-apparatuur heeft gespecialiseerd, of iedere intrekking van een dergelijke erkenning.   
+c) iedere erkenning van een bedrijf dat zich in de inbouw van Inland AIS-apparatuur heeft gespecialiseerd, of iedere intrekking van een dergelijke erkenning.   
 
 ####Bijlage N, deel II (Model)
 
-#### *Verklaring over de inbouw en het functioneren van Inland AIS-apparatuur* 
+#### Verklaring over de inbouw en het functioneren van Inland AIS-apparatuur
 
-Soort/naam v.h. schip; Uniek Europees scheepsidentificatienummer of officieel scheepsnummer; Eigenaar van het schip Naam: Adres Tel. Inland AIS-apparaat  
+Soort/naam v.h. schip; Uniek Europees scheepsidentificatienummer of officieel scheepsnummer:*Eigenaar van het schip* Naam: Adres: Tel.: *Inland AIS -apparaat*  
 
-| Type  | Fabrikant  | Goedkeuringsnummer  | Serienummer  |
-|:---|:---|:---|:---|
 | --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| Type  | Fabrikant  | Goedkeuringsnummer  | Serienummer  |
 
-Hiermee wordt veklaard dat het Inland AIS-apparaat van dit schip aan de voorschriften van de bijlage N, Deel I, van het Reglement Onderzoek schepen op de Rijn – Voorwaarden voor Inland AISapparatuur en voorschriften omtrent de inbouw en de controle van het functioneren van Inland AIS-apparatuur – voldoet en dat een gebruiksaanwijzing om aan boord te worden bewaard is afgegeven. Erkend deskundig bedrijf Naam: Adres Tel.  
-
-| --- | --- | --- |
-|:---|:---|:---|
-| Stempel  | Plaats  | Datum  |
-| Handtekening:  | --- | --- |
-
-Bevoegde autoriteit voor de erkenning van het gespecialiseerde bedrijf Naam: Adres Tel. 
+Hiermee wordt verklaard dat het Inland AIS-apparaat van dit schip aan de voorschriften van de bijlage N, Deel I, van het Reglement Onderzoek schepen op de Rijn – Vereisten voor Inland AIS-apparatuur en voorschriften omtrent de inbouw en de controle van het functioneren van Inland AIS-apparatuur aan boord – voldoet en dat een gebruiksaanwijzing om aan boord te worden bewaard is afgegeven.*Erkend deskundig bedrijf* Naam: Adres: Tel.: Stempel Plaats Datum Handtekening*Bevoegde autoriteit voor de erkenning van het gespecialiseerde bedrijf* Naam: Adres Tel.: 
 
 ####Bijlage N, Deel III (Model)
 
 ### 1  
 
-####Lijst van de het volgens het Reglement Onderzoek schepen op de Rijn voor het toelaten van Inland AIS-apparatuur bevoegde autoriteiten
+####Lijst van het volgens het Reglement Onderzoek schepen op de Rijn voor het toelaten van Inland AIS-apparatuur bevoegde autoriteiten
 
 | Land  | Naam  | Adres  | Telefoon  | E-mail  |
 |:---|:---|:---|:---|:---|
@@ -6450,13 +7267,13 @@ Is geen autoriteit vermeld, dan betekent dat de betrokken staat geen bevoegde au
 
 ####Lijst van de volgens het Reglement onderzoek schepen op de Rijn toegelaten Inland AIS-apparatuur
 
-Lijst van de vanaf 1 april 2008 tot en met 18 oktober 2012 op grond van typegoedkeuringen overeenkomstig de teststandaard, editie 1.0 en 1.01, toegelaten Inland AIS-apparatuur. Een Inland AIS-apparaat, waarvan de typegoedkeuring op editie 1.0 en 1.01 van de teststandaard is gebaseerd, mag uiterlijk tot en met 30.11.2015 worden ingebouwd en na deze datum nog worden gebruikt. 
+Lijst van de vanaf 1 april 2008 tot en met 18 oktober 2012 op grond van typegoedkeuringen overeenkomstig de teststandaard, editie 1.0 en 1.01, toegelaten Inland AIS-apparatuur. Een Inland AIS-apparaat, waarvan de typegoedkeuring op editie 1.0 en 1.01 van de teststandaard is gebaseerd, mag uiterlijk tot en met 30.11.2015 worden ingebouwd en na deze datum nog worden gebruikt.  
 
 | Volgnr.  | Type  | Fabrikant  | Houder van de typegoedkeuring  | Datum van de goedkeuring  | Bevoegde autoriteit  | Goedkeuringsnummer  |
 |:---|:---|:---|:---|:---|:---|:---|
 | --- | --- | --- | --- | --- | --- | --- |
 
-Lijst van de vanaf 19 oktober 2012 op grond van typegoedkeuringen overeenkomstig de teststandaard, editie 2.0, toegelaten Inland AIS-apparatuur.
+Lijst van de vanaf 19 oktober 2012 op grond van typegoedkeuringen overeenkomstig de teststandaard, editie 2.0, toegelaten Inland AIS-apparatuur.  
 
 | Volgnr.  | Type  | Fabrikant  | Houder van de typegoedkeuring  | Datum van de goedkeuring  | Bevoegde autoriteit  | Goedkeuringsnummer  |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -6466,13 +7283,13 @@ Lijst van de vanaf 19 oktober 2012 op grond van typegoedkeuringen overeenkomsti
 
 ####Lijst van de volgens het Reglement Onderzoek schepen op de Rijn op grond van gelijkwaardige typegoedkeuringen toegelaten Inland AIS-apparatuur
 
-Lijst van de vanaf 1 april 2008 tot en met 18 oktober 2012 op grond van type-goedkeuringen overeenkomstig de teststandaard, editie 1.0 en 1.01, toegelaten Inland AIS-apparatuur.Een Inland AIS-apparaat, waarvan de typegoedkeuring op editie 1.0 en 1.01 van de teststandaard is gebaseerd, mag uiterlijk tot en met 30.11.2015 worden ingebouwd en na deze datum nog worden gebruikt. 
+Lijst van de vanaf 1 april 2008 tot en met 18 oktober 2012 op grond van typegoedkeuringen overeenkomstig de teststandaard, editie 1.0 en 1.01, toegelaten Inland AIS-apparatuur. Een Inland AIS-apparaat, waarvan de typegoedkeuring op editie 1.0 en 1.01 van de teststandaard is gebaseerd, mag uiterlijk tot en met 30.11.2015 worden ingebouwd en na deze datum nog worden gebruikt.  
 
 | Volgnr.  | Type  | Fabrikant  | Houder van de typegoedkeuring  | Datum van de goedkeuring  | Bevoegde autoriteit  | Goedkeuringsnummer  |
 |:---|:---|:---|:---|:---|:---|:---|
 | --- | --- | --- | --- | --- | --- | --- |
 
-Lijst van de vanaf 19 oktober 2012 op grond van typegoedkeuringen overeenkomstig de teststandaard editie 2.0, toegelaten Inland AIS-apparatuur
+Lijst van de vanaf 19 oktober 2012 op grond van typegoedkeuringen overeenkomstig de teststandaard, editie 2.0, toegelaten Inland AIS-apparatuur.  
 
 | Volgnr.  | Type  | Fabrikant  | Houder van de typegoedkeuring  | Datum van de goedkeuring  | Bevoegde autoriteit  | Goedkeuringsnummer  |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -6581,6 +7398,533 @@ B. Indien beschikbaar:
 ### Bijlage  Q  
 
 (Zonder inhoud)
+
+### Bijlage  R  Boordzuiveringsinstallaties 
+
+###– Aanvullende voorschriften en modellen van certificaten –
+
+####Inhoud
+
+*Deel I*  Aanvullende voorschriften 
+
+1. Merktekens van de boordzuiveringsinstallaties  
+
+2. Keuringen  
+
+3. Beoordeling van de conformiteit van de productie    *Deel II*  Inlichtingenformulier (model) Aanhangsel 1 – Essentiële eigenschappen van een boordzuiveringsinstallatietype (model)  *Deel III*  Certificaat van goedkeuring (model) Aanhangsel 1 – Testresultaten voor de typegoedkeuring (model)  *Deel IV*  Schema voor de nummering van de typegoedkeuringen  *Deel V*  Lijst van afgegeven typegoedkeuringen voor boordzuiveringsinstallaties  *Deel VI*  Lijst van gefabriceerde boordzuiveringsinstallaties (model)  *Deel VII*  Gegevensformulier van boordzuiveringsinstallaties met typegoedkeuring (model)  *Deel VIII*  Proces-verbaal van de kenmerken van de boordzuiveringsinstallaties voor de inbouw, tussentijdse en bijzondere keuring (model) Aanhangsel 1 – Bijlage bij het proces-verbaal van de kenmerken van de boordzuiveringsinstallaties
+
+### Bijlage  R  
+
+####, Deel I
+
+### Deel  I  
+
+####Aanvullende voorschriften
+
+### 1  
+
+####Merktekens van de boordzuiveringsinstallaties
+
+1.1 Op de typegeteste boordzuiveringsinstallatie moeten de volgende gegevens (merktekens) vermeld staan: 
+
+1.1.1 Handelsmerk of handelsnaam van de fabrikant,  
+
+1.1.2 Het boordzuiveringsinstallatietype, alsmede het serienummer van de boordzuiveringsinstallatie,  
+
+1.1.3 Nummer van de typegoedkeuring overeenkomstig deel IV van deze bijlage,  
+
+1.1.4 Bouwjaar van de boordzuiveringsinstallatie.    
+
+1.2 De merktekens, bedoeld in onderdeel 1.1, moeten tijdens de gehele nuttige levensduur van de boordzuiveringsinstallatie houdbaar, duidelijk leesbaar en onuitwisbaar zijn. Indien etiketten of plaatjes worden gebruikt, moeten deze zodanig worden bevestigd dat ook de bevestiging duurzaam is voor de levensduur van de boordzuiveringsinstallatie en de etiketten/plaatjes niet kunnen worden verwijderd zonder deze te vernietigen of onleesbaar te maken.  
+
+1.3 De merktekens moeten worden aangebracht op een onderdeel van de boordzuiveringsinstallatie dat noodzakelijk is voor het normale bedrijf van de boordzuiveringsinstallatie en normaliter niet behoeft te worden vervangen gedurende de levensduur van de boordzuiveringsinstallatie. 
+
+1.3.1 De merktekens moeten zich op een zodanige plaats bevinden dat zij goed zichtbaar zijn, nadat de boordzuiveringsinstallatie volledig is uitgerust met alle hulpvoorzieningen die nodig zijn voor het bedrijf van de installatie.  
+
+1.3.2 Zo nodig moet de boordzuiveringsinstallatie bovendien voorzien zijn van een afneembaar plaatje van duurzaam materiaal met alle in onderdeel 1.1 genoemde gegevens, dat zo is aangebracht dat de gegevens, bedoeld in onderdeel 1.1, na de inbouw van de boordzuiveringsinstallatie in een vaartuig goed zichtbaar en gemakkelijk bereikbaar zijn.    
+
+1.4 Alle onderdelen van de boordzuiveringsinstallatie die van invloed kunnen zijn op de afvalwaterreiniging, moeten ondubbelzinnig gekenmerkt en geïdentificeerd zijn.  
+
+1.5 De precieze plaats van de merktekens zoals bedoeld in onderdeel 1.1, moet in alinea 1 van het certificaat van typegoedkeuring worden vermeld.   
+
+### 2  
+
+####Keuringen
+
+De procedure voor de keuring van de voor de keuring ter beschikking gestelde boordzuiveringsinstallatie is in bijlage S vastgelegd. 
+
+### 3  
+
+####Beoordeling van de conformiteit van de productie
+
+3.1 Voor de verificatie van het bestaan van toereikende regelingen en procedures ter garantie van een effectieve controle van de conformiteit van de productie voordat een typegoedkeuring wordt verleend, gaat de bevoegde autoriteit ervan uit dat de fabrikant bij een registratie overeenkomstig de geharmoniseerde norm EN ISO 9001 : 2008 (waaronder ook de productie van de desbetreffende boordzuiveringsinstallaties valt) of een equivalente accrediteringsnorm aan de voorschriften voldoet. De fabrikant moet gedetailleerde informatie over de registratie overleggen en de bevoegde autoriteit op de hoogte stellen van alle wijzigingen met betrekking tot de geldigheid of het toepassingsgebied. Om na te gaan of steeds aan artikel 14a.02, tweede tot en met vijfde lid, wordt voldaan, moet de productie op passende wijze worden gecontroleerd.  
+
+3.2 De houder van de typegoedkeuring moet: 
+
+3.2.1 ervoor zorgen dat er procedures bestaan voor een effectieve controle van de kwaliteit van het product;  
+
+3.2.2 toegang hebben tot de controleapparatuur die nodig is voor de controle van de conformiteit met ieder typegoedgekeurd type;  
+
+3.2.3 ervoor zorgen dat de testresultaten vastgelegd worden en de testnotities en de bijbehorende documenten beschikbaar blijven voor een periode die wordt vastgesteld in overleg met de bevoegde autoriteit;  
+
+3.2.4 de resultaten van elk soort test precies analyseren om de bestendigheid van de eigenschappen van de boordzuiveringsinstallatie, rekening houdend met de gebruikelijke afwijkingen bij een industriële serieproductie, te kunnen aantonen en garanderen;  
+
+3.2.5 ervoor zorgen dat bij alle steekproeven van boordzuiveringsinstallaties of testonderdelen die bij een bepaalde test niet conform lijken te zijn, steeds een nieuwe steekproef en test worden uitgevoerd. Daarbij moeten alle maatregelen worden getroffen die noodzakelijk zijn om de conformiteit van de betrokken productie te herstellen.    
+
+3.3 De bevoegde autoriteit die de typegoedkeuring heeft verleend, kan te allen tijde de methoden ter controle van de conformiteit in de verschillende productieafdelingen controleren. 
+
+3.3.1 Bij iedere inspectie moeten de testdocumentatie en productieoverzichten aan de bezoekende inspecteur worden overgelegd.  
+
+3.3.2 Wanneer het kwaliteitsniveau ontoereikend blijkt te zijn, moet de volgende procedure worden gevolgd: 
+
+3.3.2.1 Er wordt een boordzuiveringsinstallatie uit de serie genomen en door middel van steekproefmetingen in de normale belastingsfase van bijlage S na één dag bedrijf getest. De vastgestelde waarden voor het gereinigde afvalwater mogen hierbij, overeenkomstig de testprocedures als bedoeld in bijlage S, niet hoger zijn dan de in artikel 14a.02, tweede lid, tabel 2, genoemde waarden.  
+
+3.3.2.2 Indien de boordzuiveringsinstallatie uit de serie niet aan de eisen van onderdeel 3.3.2.1 voldoet, kan de fabrikant verlangen dat steekproefsgewijs metingen worden uitgevoerd op enkele andere boordzuiveringsinstallaties met dezelfde specificaties uit de serie, waaronder de oorspronkelijke boordzuiveringsinstallatie. De fabrikant stelt de omvang ‘n’ van het monster van de boordzuiveringsinstallaties in overleg met de bevoegde autoriteit vast. Deze boordzuiveringsinstallaties (zonder de oorspronkelijke boordzuiveringsinstallatie., worden onderworpen aan een test door middel van een analyse van lozingen van vloeibaar afval. Het rekenkundig gemiddelde ( *x*) van de met een steekproef van de boordzuiveringsinstallatie verkregen resultaten moet vervolgens worden berekend. De productie van de serie wordt geacht volgens de voorschriften te zijn, indien aan de volgende voorwaarde wordt voldaan:  ![249520](http://wetten.overheid.nl/Illustration/249520)
+waarin k: een statistische factor is die van ‘n’ afhangt en in de volgende tabel staat aangegeven:  
+
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| n  | 2  | 3  | 4  | 5  | 6  | 7  | 8  | 9  | 10  |
+| k  | 0,973  | 0,613  | 0,489  | 0,421  | 0,376  | 0,342  | 0,317  | 0,296  | 0,279  |
+| n  | 11  | 12  | 13  | 14  | 15  | 16  | 17  | 18  | 19  |
+| k  | 0,265  | 0,253  | 0,242  | 0,233  | 0,224  | 0,216  | 0,210  | 0,203  | 0,198  |
+
+![249521](http://wetten.overheid.nl/Illustration/249521)
+![249522](http://wetten.overheid.nl/Illustration/249522)
+waarbij x<sub>i</sub> een willekeurig met boordzuiveringsinstallatie i van de steekproef n bereikt eindresultaat is, en L: de in artikel 14a.02, tweede lid, tabel 2, vastgestelde grenswaarde voor elke onderzochte schadelijke stof.    
+
+3.3.3 Indien de waarden van artikel 14.02, tweede lid, tabel 2, niet worden nagekomen, moet een nieuwe keuring als bedoeld in onderdeel 3.3.2.1. en eventueel 3.3.2.2. met een volledige test als bedoeld in bijlage S plaatsvinden, waarbij de vastgestelde waarden voor de mengmonsters en voor de steekproeven niet hoger mogen zijn dan de in artikel 14a.02, tweede lid, tabel 1, genoemde grenswaarden.  
+
+3.3.4 De bevoegde autoriteit moet boordzuiveringsinstallaties keuren die volgens de opgave van de fabrikant gedeeltelijk of volledig functioneren.  
+
+3.3.5 De normale frequentie van de inspecties die in opdracht van de bevoegde autoriteit mogen worden uitgevoerd bedraagt één maal per jaar. Indien niet aan de vereisten van onderdeel 3.3.3 wordt voldaan, zorgt de bevoegde autoriteit ervoor dat alle noodzakelijke maatregelen worden genomen om de conformiteit van de productie zo snel mogelijk te herstellen.     
+
+### Bijlage  R  
+
+####, Deel II (Model)
+
+### Deel  II  
+
+####Inlichtingenformulier Nr<sup> 1  Het nummer van het inlichtingenformulier wordt door de bevoegde autoriteit toegekend.  </sup>.. betreffende de typegoedkeuring van boordzuiveringsinstallaties die bestemd zijn voor inbouw in vaartuigen behorend tot de Rijnvaart
+
+Boordzuiveringsinstallatietype: ..... 
+
+0. Algemene gegevens 
+
+0.1 Merk (firmanaam van de fabrikant): .....  
+
+0.2 Aanduiding door de fabrikant van het boordzuiveringsinstallatietype: ....  
+
+0.3 Fabriekscode van het type zoals aangegeven op de boordzuiveringsinstallatie: .....  
+
+0.4 Naam en adres van de fabrikant: ..... Naam en adres van de eventuele gemachtigde vertegenwoordiger van de fabrikant: .....  
+
+0.5 Plaats, code en wijze van aanbrengen van het serienummer van de boordzuiveringsinstallatie: .....  
+
+0.6 Plaats en wijze van aanbrengen van het nummer van de typegoedkeuring: .....  
+
+0.7 Adres(sen) van de productieplaats(en): .....     
+
+### Bijlagen  
+
+1. Essentiële eigenschappen van het boordzuiveringsinstallatietype  
+
+2. Toegepaste bouw- en dimensioneringscriteria, dimensioneringsvoorschriften en regelgeving  
+
+3. Schema van de boordzuiveringsinstallatie met stuklijst  
+
+4. Schema van de testopstelling met stuklijst  
+
+5. Tekeningen van de elektrische schakelingen (R+I-schema.  
+
+6. Documentatie waaruit blijkt dat voldaan wordt aan alle verplichte voorschriften met betrekking tot de mechanische, elektrische en technische veiligheid van afvalwater verwerkende installaties alsmede aan alle voorschriften die de veiligheid van het schip betreffen  
+
+7. (Voor zover van toepassing) eigenschappen van de met de boordzuiveringsinstallatie verband houdende onderdelen van het vaartuig  
+
+8. Inlichtingenformulier van de fabrikant ter controle van de componenten betrekking hebbend op de afvalwaterreiniging en kenmerken van de boordzuiveringsinstallatie overeenkomstig artikel 14a.01, tiende lid  
+
+9. Foto’s van de boordzuiveringsinstallatie  
+
+10. Functioneringsprincipes<sup> 2 Bedrijfsmodi Voor de keuring worden de volgende bedrijfsmodi gedefinieerd:   a. Stand-by-modus: Er is sprake van een stand-by-modus als de boordzuiveringsinstallatie zelf functioneert, maar meer dan 1 dag niet meer van afvalwater voorzien is. Een stand-by-modus van een boordzuiveringsinstallatie kan zich bijvoorbeeld voordoen als het passagiersschip gedurende langere tijd niet geëxploiteerd wordt en op zijn ligplaats stilligt.   b. Noodbedrijfsmodus: Er is sprake van een noodbedrijfsmodus als verschillende aggregaten van de boordzuiveringsinstallatie zijn uitgevallen, zodat het afvalwater niet meer zoals voorzien kan worden gereinigd.   c. Uitschakeling, stillegging en opnieuw opstarten: Er is sprake van uitschakelen, stillegging of opnieuw opstarten als een boordzuiveringsinstallatie gedurende langere tijd (als het schip in de winter stilligt) buiten werking wordt gesteld en wordt uitgeschakeld door de stroomverzorging te onderbreken, resp. de boordzuiveringsinstallatie aan het begin van het seizoen weer in gebruik genomen wordt.   </sup>  
+
+10.1. Instructies voor een handmatige bediening van de boordzuiveringsinstallatie  
+
+10.2. Informatie over de omgang met overtollig slib (verwijderingsintervallen)  
+
+10.3. Informatie over onderhoud en reparatie  
+
+10.4. Informatie over de vereiste handelingen bij een stand-by-modus van de boordzuiveringsinstallatie  
+
+10.5. Informatie over de vereiste handelingen bij een noodbedrijfsmodus van de boordzuiveringsinstallatie  
+
+10.6. Informatie over de vereiste handelingen voor uitschakeling, stillegging en opnieuw opstarten van de boordzuiveringsinstallatie  
+
+10.7. Informatie over de vereiste handelingen voor de voorbehandeling van keukenafvalwater    
+
+11. Overige installaties (vermeld hier eventueel bijkomende installaties)   Datum, handtekening van de fabrikant van de boordzuiveringsinstallatie ..... 
+
+### Bijlage  R  
+
+####, Deel II, Aanhangsel 1 (Model)
+
+####Essentiële eigenschappen van het boordzuiveringsinstallatietype
+
+### 1  
+
+####Beschrijving van de boordzuiveringsinstallatie
+
+1.1 Fabrikant: .....  
+
+1.2 Serienummer van de installatie: .....  
+
+1.3 Procedé: Biologisch/mechanisch-chemisch)<sup> 1 Doorhalen wat niet van toepassing is. </sup>   
+
+1.4 Voorgeschakelde verzameltank ja.... m<sup>3</sup>/nee<sup> 1 Doorhalen wat niet van toepassing is. </sup>    
+
+### 2  
+
+####Criteria voor het concept en de dimensionering (met inbegrip van specifieke inbouwinstructies of beperkingen in het gebruik)
+
+2.1 .....  
+
+2.2 ....   
+
+### 3  
+
+####Dimensionering van de boordzuiveringsinstallatie
+
+3.1 Dagelijkse maximale afvalwatervolumestroom Qd (m<sup>3</sup>/d): .....  
+
+3.2 Dagelijkse afvalbelasting in de vorm van een BZB<sub>5</sub>-massa (kg/d): .....   
+
+### Bijlage  R  
+
+####, Deel III (Model)
+
+### Deel  III  
+
+####Certificaat van typegoedkeuring
+
+Stempel van de bevoegde autoriteit Typegoedkeuringsnummer: ..... Uitbreidingsnummer: ..... Mededeling betreffende 
+
+– toekenning/uitbreiding/weigering/intrekking<sup> 1 Doorhalen wat niet van toepassing is. </sup>van de typegoedkeuring voor een boordzuiveringsinstallatietype overeenkomstig het Reglement Onderzoek Schepen op de Rijn   Reden voor de uitbreiding (indien van toepassing): ..... 
+
+### Onderdeel  I  
+
+0. Algemeen 
+
+0.1 Fabrieksmerk (firmanaam van de fabrikant): .....  
+
+0.2 Aanduiding door de fabrikant van het boordzuiveringsinstallatietype: .....  
+
+0.3 Fabriekscode van het type zoals aangegeven op de boordzuiveringsinstallatie: .... Plaats: ... Wijze van aanbrengen: ....  
+
+0.4 Naam en adres van de fabrikant: ..... Naam en adres van de vertegenwoordiger van de fabrikant, indien van toepassing: .. .....  
+
+0.5 Plaats, code en wijze van aanbrengen van het serienummer van de boordzuiveringsinstallatie .....  
+
+0.6 Plaats en wijze van aanbrengen van het nummer van de typegoedkeuring: .....  
+
+0.7 Adres(sen) van de productieplaats(en): .....     
+
+### Onderdeel  II  
+
+1. Eventuele beperking van het gebruik: ..... 
+
+1.1 Speciale voorwaarden voor de inbouw van de boordzuiveringsinstallatie in het vaartuig: .... 
+
+1.1.1 .....  
+
+1.1.2 .....      
+
+2. Technische dienst die verantwoordelijk is voor de uitvoering van de tests<sup> 2 ‘N.v.t.’ invullen wanneer de tests door de bevoegde autoriteit zelf worden uitgevoerd. </sup>: .....  
+
+3. Datum van het testrapport: ....  
+
+4. Nummer van het testrapport: .....  
+
+5. Ondergetekende verklaart hierbij dat de beschrijving van de fabrikant in het bijgevoegde inlichtingenformulier van de hierboven bedoelde boordzuiveringsinstallatie juist is en dat de bijgevoegde testresultaten overeenkomstig bijlage S van het Reglement Onderzoek schepen op de Rijn zijn uitgevoerd en op dit boordzuiveringsinstallatietype van toepassing zijn. Het testexemplaar/de testexemplaren (is) zijn met toestemming van de bevoegde autoriteit door de fabrikant geselecteerd en beschikbaar gesteld als proefmodel van de boordzuiveringsinstallatie<sup> 1 Doorhalen wat niet van toepassing is. </sup>    De typegoedkeuring is verleend/uitgebreid/geweigerd/ingetrokken<sup> 1 Doorhalen wat niet van toepassing is. </sup>: Plaats: ..... Datum: .... Handtekening: ..... Bijlagen: Informatiedossier Testresultaten (zie aanhangsel 1) 
+
+### Bijlage  R  
+
+####, Deel III, Aanhangsel 1 (Model)
+
+####Testresultaten voor de typegoedkeuring
+
+### 0  
+
+####Algemeen
+
+0.1 Fabrieksmerk (firmanaam van de fabrikant): ....  
+
+0.2 Aanduiding door de fabrikant van het boordzuiveringsinstallatietype: .....   
+
+### 1  
+
+####Gegevens betreffende de uitvoering van de test(s)<sup> 1  Bij meer dan één testcyclus voor iedere cyclus afzonderlijk aangeven.  </sup> 
+
+1.1 Toevoerwaarden 
+
+1.1.1 Dagelijkse volumestroom afvalwater Qd (m<sup>3</sup>/d): .....  
+
+1.1.2 Dagelijkse hoeveelheid verontreinigde massa uitgedrukt als BZB<sub>5</sub>-massa (kg/d): .....    
+
+1.2. Reinigingsprestatie 
+
+1.2.1. Evaluatie van de afvoerwaarden   Evaluatie van de afvoerwaarden *BZB<sub>5</sub> * (mg/l) 
+
+| Plaats  | Monstertype  | Aantal monsters dat aan de afvoergrenswaarden voldoet  | Min  | Max  | Gemiddelde waarde  | Waarde  | Modus  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Toevoer  | 24u-mengmonsters  | ---  | --- | --- | --- | --- |
+| Afvoer  | 24u-mengmonsters  | --- | --- | --- | --- | --- |
+| Toevoer  | Steekproeven  | ---  | --- | --- | --- | --- |
+| Afvoer  | Steekproeven  | --- | --- | --- | --- | --- |
+
+Evaluatie van de afvoerwaarden *CZB* (mg/l) 
+
+| Plaats  | Monstertype  | Aantal monsters dat aan de afvoergrenswaarden voldoet  | Min  | Max  | Gemiddelde waarde  | Waarde  | Modus  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Toevoer  | 24u-mengmonsters  | ---  | --- | --- | --- | --- |
+| Afvoer  | 24u-mengmonsters  | --- | --- | --- | --- | --- |
+| Toevoer  | Steekproeven  | ---  | --- | --- | --- | --- |
+| Afvoer  | Steekproeven  | --- | --- | --- | --- | --- |
+
+Evaluatie van de afvoerwaarden *TOC* (mg/l) 
+
+| Plaats  | Monstertype  | Aantal monsters dat aan de afvoergrenswaarden voldoet  | Min  | Max  | Gemiddelde waarde  | Waarde  | Modus  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Toevoer  | 24u-mengmonsters  | ---  | --- | --- | --- | --- |
+| Afvoer  | 24u-mengmonsters  | --- | --- | --- | --- | --- |
+| Toevoer  | Steekproeven  | ---  | --- | --- | --- | --- |
+| Afvoer  | Steekproeven  | --- | --- | --- | --- | --- |
+
+Evaluatie van de afvoerwaarden *AFS* (mg/l) 
+
+| Plaats  | Monstertype  | Aantal monsters dat aan de afvoergrenswaarden voldoet  | Min  | Max  | Gemiddelde waarde  | Waarde  | Modus  |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| Toevoer  | 24u-mengmonsters  | ---  | --- | --- | --- | --- |
+| Afvoer  | 24u-mengmonsters  | --- | --- | --- | --- | --- |
+| Toevoer  | Steekproeven  | ---  | --- | --- | --- | --- |
+| Afvoer  | Steekproeven  | --- | --- | --- | --- | --- |
+
+1.2.2 Reinigingsprestatie (Eliminatieprestatie)  
+
+| Kenmerk  | Monstertype  | Min  | Max  | Gemiddelde waarde  |
+|:---|:---|:---|:---|:---|
+| BZB<sub>5</sub>   | 24u-mengmonsters  | --- | --- | --- |
+| BZB<sub>5</sub>   | Steekproeven  | --- | --- | --- |
+| CZB  | 24u-mengmonsters  | --- | --- | --- |
+| CZB  | Steekproeven  | --- | --- | --- |
+| TOC  | 24u-mengmonsters  | --- | --- | --- |
+| TOC  | Steekproeven  | --- | --- | --- |
+| AFS  | 24u-mengmonsters  | --- | --- | --- |
+| AFS  | Steekproeven  | --- | --- | --- |
+
+1.3 Overige gemeten kenmerken 
+
+1.3.1 Aanvullende kenmerken voor de toevoer en afvoer:  
+
+| Kenmerken  | Toevoer  | Afvoer  |
+|:---|:---|:---|
+| pH-waarde  | --- | --- |
+| Geleidingsvermogen  | --- | --- |
+| Temperatuur van de vloeibare fasen  | --- | --- |
+
+1.3.2 De volgende bedrijfskenmerken moeten – voor zover aanwezig – tijdens het nemen van de steekproeven worden gemeten:  
+
+| Concentratie van de opgeloste zuurstof in de bioreactor  |--- |
+|:---|:---|
+| Gehalte droge stoffen in de bioreactor  | --- |
+| Temperatuur in de bioreactor  | --- |
+| Omgevingstemperatuur  | --- |
+
+1.3.3 Overige bedrijfskenmerken overeenkomstig het desbetreffende inlichtingenformulier van de fabrikant. ..... .....    
+
+1.4 Bevoegde autoriteit of technische dienst   Plaats, datum: ..... Handtekening: ..... 
+
+### Bijlage  R  
+
+####, Deel IV (Model)
+
+### DEEL  IV  
+
+####Nummeringssysteem voor de typegoedkeuringen
+
+### 1  
+
+####Systematiek
+
+Het nummer bestaat uit vier, door het teken ‘*’ gescheiden onderdelen. Onderdeel 1: De hoofdletter ‘R’, gevolgd door het kenmerkend nummer van de staat die de goedkeuring heeft verleend:  
+
+| --- | --- |
+|:---|:---|
+| 1 = Duitsland  | 18 = Denemarken  |
+| 2 = Frankrijk  | 19 = Roemenië  |
+| 3 = Italië  | 20 = Polen  |
+| 4 = Nederland  | 21 = Portugal  |
+| 5 = Zweden  | 23 = Griekenland  |
+| 6 = België  | 24 = Ierland  |
+| 7 = Hongarije  | 26 = Slovenië  |
+| 8 = Tsjechische Republiek  | 27 = Slowakije  |
+| 9 = Spanje  | 29 = Estland  |
+| 11 = Verenigd Koninkrijk  | 32 = Letland  |
+| 12 = Oostenrijk  | 34 = Bulgarije  |
+| 13 = Luxemburg  | 36 = Litouwen  |
+| 14 = Zwitserland  | 49 = Cyprus  |
+| 17 = Finland  | 50 = Malta  |
+
+Onderdeel 2: aanduiding van het niveau waaraan wordt voldaan. Men kan ervan uitgaan dat de eisen wat het reinigingsvermogen betreft, in de toekomst strenger zullen zijn. De verschillende niveaus van de eisen worden door Romeinse cijfers aangegeven. De basisnorm wordt aangeduid door het cijfer I. Onderdeel 3: een uit vier cijfers bestaand volgnummer (met aan het begin eventueel nullen) om het nummer van de basisgoedkeuring aan te geven. De reeks begint met 0001. Onderdeel 4: Een uit twee cijfers bestaand volgnummer (met eventueel een nul aan het begin) om de uitbreiding aan te geven. De reeks begint met 01 voor elk nummer van de basisgoedkeuring. 
+
+### 2  
+
+####Voorbeelden
+
+a. Een derde goedkeuring verleend door Nederland overeenkomstig fase I (vooralsnog zonder uitbreiding) zal het volgende nummer krijgen: R 4*I*0003*00  
+
+b. Een tweede uitbreiding van een vierde goedkeuring verleend door Duitsland overeenkomstig de fase II: R 1*II* 0004*02   
+
+### Bijlage  R  
+
+####, Bijlage R, Deel V (Model)
+
+### DEEL  V  
+
+####Lijst van afgegeven typegoedkeuringen voor boordzuiveringsinstallaties
+
+Stempel van de bevoegde autoriteit Lijstnummer: ..... Voor de periode van: ..... tot .....  
+
+| 1  | 2  | 3  | 4  | 5  | 6  | 7  | Fabrieksmerk<sup>1</sup>   | Aanduiding door de fabrikant<sup>1</sup>   | Typegoedkeuringsnummer  | Datum van de typegoedkeuring  | Uitbreiding, weigering of intrekking<sup></sup>   | Reden van de uitbreiding, weigering of intrekking  | Datum van de uitbreiding, weigering of intrekking<sup>2</sup>   |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| --- | --- | --- | --- | --- | --- | --- |
+
+<sup>1</sup> Overeenkomstig het certificaat van typegoedkeuring.<sup>2</sup> Invullen wat van toepassing is.
+
+### Bijlage  R  
+
+####, Deel VI (Model)
+
+### DEEL  VI  
+
+####Lijst van vervaardigde boordzuiveringsinstallaties
+
+Stempel van de bevoegde autoriteit Lijstnummer: ..... Voor de periode van: ..... tot: ..... Wat betreft boordzuiveringsinstallatietypes en typegoedkeuringsnummers van de in de bovengenoemde periode overeenkomstig het Reglement Onderzoek Schepen op de Rijn vervaardigde boordzuiveringsinstallaties, worden de volgende gegevens verstrekt: Fabrieksmerk (firmanaam van de fabrikant): .... Aanduiding door de fabrikant van het boordzuiveringsinstallatietype: ..... Nummer van de typegoedkeuring: ..... Datum van afgifte ..... Eerste datum van afgifte (in geval van addenda.: .....  
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| --- | --- | --- | --- |
+| Serienummer van  | --- | --- | --- |
+| de boordzuiveringsinstallatie:  | ... 001  | ... 001  | ... 001  |
+| --- | ... 002  | ... 002  | ... 002  |
+| --- | .  | .  | .  |
+| --- | .  | .  | .  |
+| --- | .  | .  | .  |
+| --- | ..... m  | ..... p  | ..... q  |
+
+### Bijlage  R  
+
+####, Deel VII (Model)
+
+### DEEL  VII  
+
+####Gegevensformulier voor boordzuiveringsinstallaties met een typegoedkeuring
+
+Stempel van de bevoegde autoriteit  
+
+|--- | Kencijfers van de boord-zuiveringsinstallatie  | Reinigingsprestatie  | Volgnummer  | Datum van de typegoedkeuring  | Nummer van de typegoedkeuring  | Fabrieksmerk  | Boordzuiverings installatietype  | Dagelijkse afvalwatervolumestroom Qd (m<sup>3</sup>/d)  | Dagelijkse hoeveelheid verontreinigd afval als BZB<sub>5</sub>- massa (kg/d)  |--- |--- | BZB<sub>5</sub>   | CZB  | TOC  | 24-u-mengmonster  | Steekproef  | 24-u-mengmonster  | Steekproef  | 24-u-mengmonster  | Steekproef  |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+
+### Bijlage  R  
+
+####, Deel VIII (Model)
+
+### Deel  VIII  
+
+####Proces-verbaal van kenmerken van boordzuiveringsinstallaties voor de bijzondere keuring
+
+### 1.  
+
+####Algemene gegevens
+
+1.1 Gegevens van de boordzuiveringsinstallatie 
+
+1.1.1 Fabrieksmerk: ....  
+
+1.1.2 Aanduiding van de fabrikant: .....  
+
+1.1.3 Nummer van de typegoedkeuring: .....  
+
+1.1.4 Serienummer van de boordzuiveringsinstallatie: .....    
+
+1.2 Documentatie De boordzuiveringsinstallatie moet getest worden. De testresultaten moeten worden vastgelegd. De documentatie moet op afzonderlijke, apart genummerde bladen geschieden. De tester moet deze ondertekenen en bij dit proces-verbaal voegen.  
+
+1.3 Test De test wordt uitgevoerd volgens het inlichtingenformulier van de fabrikant ter controle van de componenten betrekking hebbend op de afvalwaterreiniging en kenmerken van de boordzuiveringsinstallatie overeenkomstig artikel 14a.11, tiende lid. De tester kan in bijzondere gevallen en gemotiveerd naar eigen inzicht ervan afzien tests van bepaalde onderdelen of kenmerken van de installatie uit te voeren. Voor de keuring moet ten minste één steekproef worden genomen. De resultaten van de steekproefmeting moeten met de controlewaarden van artikel 14a.02, tweede lid, tabel 2, worden vergeleken.  
+
+1.4 Dit proces-verbaal van de test bestaat, inclusief de aantekeningen, totaal uit.....<sup> 1 Door keurder in te vullen aantal. </sup>bladzijden.   
+
+### 2  
+
+####Kenmerken
+
+Dit document bevestigt dat de kenmerken van de geteste boordzuiveringsinstallatie niet ontoelaatbaar van de voorgeschreven kenmerken afwijken en de controlewaarden voor het gebruik niet hoger zijn dan de in artikel 14a.02, tweede lid, tabel 2, voorgeschreven waarden. Naam en adres van de keuringsinstantie: ..... Naam van de tester: ..... Plaats en datum: ..... Handtekening: ..... Test erkend door bevoegde autoriteit: .... Plaats en datum ..... Handtekening: ..... Stempel van de bevoegde autoriteit Naam en adres van de keuringsinstantie: ..... Naam van de tester: .... Plaats en datum: ..... Handtekening: ..... Test erkend door bevoegde autoriteit ..... Plaats en datum: ..... Handtekening: ..... Stempel van de bevoegde autoriteit Naam en adres van de keuringsinstantie: ..... Naam van de tester: ..... Plaats en datum: ..... Handtekening: ..... Test erkend door bevoegde autoriteit: ..... Plaats en datum: ..... Handtekening: ..... Stempel van de bevoegde autoriteit 
+
+### Bijlage  R  
+
+####, Deel VIII, Aanhangsel 1 (Model)
+
+####Bijlage bij het proces-verbaal van kenmerken van boordzuiveringsinstallaties
+
+| --- | --- |
+|:---|:---|
+| Naam van het schip: .....  | Uniek Europees Scheepsidentificatienummer: .....  |
+| --- | --- |
+| Fabrikant: .....  | Boordzuiveringsinstallatietype:.....  |
+| (Fabrieksmerk/Handelsmerk/Handelsnaam van de fabrikant)  | (Aanduiding van de fabrikant)  |
+| --- | --- |
+| Typegoedkeuring nr.:.....  | Bouwjaar van de boordzuiveringsinstallatie .....  |
+| --- | --- |
+| – Serienummer van de boordzuiveringsinstallatie: .......  | Inbouwplaats:.......  |
+| (Serienummer)  | --- |
+
+De boordzuiveringsinstallatie en de onderdelen daarvan betrekking hebbend op de afvalwaterreiniging zijn aan de hand van het typeplaatje geïdentificeerd. De keuring heeft plaatsgevonden aan de hand van het inlichtingenformulier van de fabrikant ter controle van de componenten betrekking hebbend op de afvalwaterreiniging en kenmerken van de boordzuiveringsinstallatie. 
+
+### A  
+
+####Test van de onderdelen
+
+Overige onderdelen betrekking hebbend op de reiniging van afvalwater, die in het inlichtingenformulier van de fabrikant ter controle van de componenten betrekking hebbend op de afvalwaterreiniging en kenmerken van de boordzuiveringsinstallatie, respectievelijk in Deel II, aanhangsel 4 zijn opgesomd, moeten worden ingevuld.  
+
+| Onderdeel  | Vastgesteld onderdeelnummer  | Conformiteit<sup>1</sup>   |
+|:---|:---|:---|
+| --- | --- | Ja  | Nee  | vervalt  |
+| --- | --- | Ja  | Nee  | vervalt  |
+| --- | --- | Ja  | Nee  | vervalt  |
+| --- | --- | Ja  | Nee  | vervalt  |
+| --- | --- | Ja  | Nee  | vervalt  |
+| --- | --- | Ja  | Nee  | vervalt  |
+| --- | --- | Ja  | Nee  | vervalt  |
+| --- | --- | Ja  | Nee  | vervalt  |
+| --- | --- | Ja  | Nee  | vervalt  |
+
+<sup>1</sup> Aankruisen wat van toepassing is.
+
+### B.  
+
+####Resultaten van de steekproefmeting
+
+| Kenmerk  | Gemeten waarde  | Conformiteit<sup>1</sup>   |
+|:---|:---|:---|
+| BZB<sub>5</sub>   | --- | Ja  | Nee  |
+| CZB  | --- | Ja  | Nee  |
+| TOC<sup>2</sup>   | --- | Ja  | Nee  |
+
+<sup>1</sup> Aankruisen wat van toepassing is.<sup>2</sup> TOC wordt vanaf de grenswaarde van fase 2 van tabel 2 in artikel 14a.02, tweede lid, getest.
+
+### C  
+
+####Opmerkingen
+
+(De volgende afwijkende instellingen, modificaties of wijzigingen aan de ingebouwde boordzuiveringsinstallatie zijn geconstateerd.) ..... ..... ..... Naam van de tester: ..... Plaats en datum: ..... Handtekening: ..... 
 
 ### Bijlage  S  
 

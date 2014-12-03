@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is om de [Wet identificatie bij dienstverlening BES](../../../../../../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md), de [Wet melding ongebruikelijke transacties BES](../../../../../../../../../../../../wet-BES/wet/melding/ongebruikelijke/transacties/bes/BWBR0028598/README.md) en de [Wet grensoverschrijdende geldtransporten BES](../../../../../../../../../../../../wet-BES/wet/grensoverschrijdende/geldtransporten/bes/BWBR0028165/README.md) samen te voegen tot één wet, gericht op het voorkomen van het misbruik van het financiële stelsel voor het witwassen van geld en het financieren van terrorisme;
+Alzo Wij in overweging genomen hebben, dat het wenselijk is om de Wet identificatie bij dienstverlening BES, de Wet melding ongebruikelijke transacties BES en de Wet grensoverschrijdende geldtransporten BES samen te voegen tot één wet, gericht op het voorkomen van het misbruik van het financiële stelsel voor het witwassen van geld en het financieren van terrorisme;
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  1  
 
@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 a.  *buitenland:* ander land van het Koninkrijk of andere staat, alsmede het Europese deel van Nederland;  
 
-b.  *cliënt:* degene met wie een zakelijke relatie wordt aangegaan of die een transactie laat uitvoeren, daaronder begrepen in geval van het sluiten, het verlenen van bemiddeling bij het sluiten, of het doen van een uitkering uit hoofde van een levensverzekering als bedoeld in de [Wet financiële markten BES](../../../../../../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), degene die de premie betaalt alsmede degene aan wie de uitkering wordt gedaan;  
+b.  *cliënt:* degene met wie een zakelijke relatie wordt aangegaan of die een transactie laat uitvoeren, daaronder begrepen in geval van het sluiten, het verlenen van bemiddeling bij het sluiten, of het doen van een uitkering uit hoofde van een levensverzekering als bedoeld in de Wet financiële markten BES, degene die de premie betaalt alsmede degene aan wie de uitkering wordt gedaan;  
 
 c.  *correspondentbankrelatie:* vaste relatie tussen kredietinstellingen in verschillende landen of staten voor de afwikkeling van transacties of de uitvoering van opdrachten;  
 
@@ -28,7 +28,7 @@ e.  * dienstverlener:* een ieder die beroeps- of bedrijfsmatig een dienst verlee
 
 f.  * identificeren:* opgave van de identiteit laten doen;  
 
-g.  *financieren van terrorisme:* de gedraging strafbaar gesteld in [artikel 435e van het Wetboek van Strafrecht BES](../../../../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md);  
+g.  *financieren van terrorisme:* de gedraging strafbaar gesteld in artikel 435e van het Wetboek van Strafrecht BES;  
 
 h.  * geld:* binnenlandse en buitenlandse bankbiljetten, munten en muntbiljetten, alsmede aan toonder gestelde verhandelbare waardepapieren;  
 
@@ -136,7 +136,7 @@ b. voorzover die toezichthoudende instantie op een andere wijze dan in deze wet 
 
 c. na overleg met Onze Minister van Veiligheid en Justitie, indien het in de aanhef bedoelde verzoek betrekking heeft op een onderzoek naar strafbare feiten.    
 5.  Indien de toezichtautoriteit bij de uitoefening van haar taak feiten ontdekt die kunnen duiden op witwassen of financieren van terrorisme, licht zij, in afwijking van het eerste lid en eventuele andere toepasselijke wettelijke geheimhoudingsbepalingen, het meldpunt in.   
-6.  Onze Minister kan ontheffing verlenen van het in het eerste lid vervatte verbod aan de personen die ingevolge de [Douane- en Accijnswet BES of artikel 5.4, tweede lid](../../../../../../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), zijn belast met het toezicht op de naleving van hoofdstuk 4.   
+6.  Onze Minister kan ontheffing verlenen van het in het eerste lid vervatte verbod aan de personen die ingevolge de Douane- en Accijnswet BES of artikel 5.4, tweede lid, zijn belast met het toezicht op de naleving van hoofdstuk 4.   
 7.  Onze Minister van Veiligheid en Justitie kan ontheffing verlenen van het in het eerste lid vervatte verbod aan de ambtenaren bevoegd inzake paspoortcontrole.  
 
 ### Artikel  1.6  
@@ -242,7 +242,7 @@ b. de dienstverlener waarbij de cliënt wordt geïntroduceerd beschikt over de i
 
 a. levensverzekeringen waarvan het bedrag van de jaarlijks te betalen premie USD 1 400 of minder bedraagt of waarvan het bedrag van de eenmalige premie USD 2 800 of minder bedraagt;  
 
-b. producten met betrekking tot een pensioen als bedoeld in [artikel 1 van de Pensioenwet BES](../../../../../../../../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md).     
+b. producten met betrekking tot een pensioen als bedoeld in artikel 1 van de Pensioenwet BES.     
 2.  Een dienstverlener verzamelt voldoende gegevens om te kunnen vaststellen of het eerste lid op een product van toepassing is.   
 3.  Bij algemene maatregel van bestuur kunnen producten of transacties worden aangewezen waarop het eerste lid van overeenkomstige toepassing is.  
 
@@ -375,7 +375,7 @@ Het meldpunt heeft met het oog op het voorkomen en opsporen van witwassen en fin
 
 a. het verzamelen, registreren, bewerken en analyseren van de gegevens die het verkrijgt, teneinde te bezien of deze gegevens van belang kunnen zijn voor het voorkomen en opsporen van misdrijven;  
 
-b. het verstrekken van persoonsgegevens en andere gegevens in overeenstemming met deze wet en het bij of krachtens de [Wet politiegegevens](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) bepaalde;  
+b. het verstrekken van persoonsgegevens en andere gegevens in overeenstemming met deze wet en het bij of krachtens de Wet politiegegevens bepaalde;  
 
 c. de dienstverlener die overeenkomstig artikel 3.5 een melding heeft gedaan, te berichten over de afdoening van de melding;  
 
@@ -403,7 +403,7 @@ i. het jaarlijks uitbrengen van een verslag met betrekking tot de taakuitoefenin
 
 1.  Bij het meldpunt kunnen persoonsgegevens worden verwerkt ten behoeve van de taak, bedoeld in artikel 3.2.   
 2.  Bij algemene maatregel van bestuur worden regels gesteld over de categorieën van personen waarover het meldpunt gegevens verwerkt, de gegevensverstrekking, de bewaring en vernietiging van gegevens en de protocolplicht.   
-3.  Op de verwerking van persoonsgegevens door het meldpunt zijn de [artikelen 1](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), [2](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), [3, eerste en tweede lid](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), [4](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), [5](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), [6](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), [7](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), [15](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), [17](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), [22](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) en [23](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md),[ 25 tot en met 30](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), [33](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), [36d, eerste lid](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), [36e, tweede lid](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), en [36f van de Wet politiegegevens](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) van overeenkomstige toepassing, met dien verstande dat voor het meldpunt als verantwoordelijke in de zin van [artikel 1, onderdeel f, van die wet](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) wordt aangemerkt Onze Minister van Veiligheid en Justitie.   
+3.  Op de verwerking van persoonsgegevens door het meldpunt zijn de artikelen 1, 2, 3, eerste en tweede lid, 4, 5, 6, 7, 15, 17, 22 en 23, 25 tot en met 30, 33, 36d, eerste lid, 36e, tweede lid, en 36f van de Wet politiegegevens van overeenkomstige toepassing, met dien verstande dat voor het meldpunt als verantwoordelijke in de zin van artikel 1, onderdeel f, van die wet wordt aangemerkt Onze Minister van Veiligheid en Justitie.   
 4.  Bij regeling van Onze Minister van Veiligheid en Justitie kunnen nadere regels worden gesteld met betrekking tot de indiening en behandeling van verzoeken tot het verstrekken van gegevens. Daarbij kan worden bepaald dat het verzoek wordt behandeld door tussenkomst van een bij die regeling aan te wijzen persoon.  
 
 ### §  2  
@@ -451,7 +451,7 @@ Het meldpunt bepaalt de wijze waarop een melding moet worden gedaan, of gegevens
 ### Artikel  3.8  
 
 1.  Gegevens of inlichtingen die in overeenstemming met de artikelen 3.5 of 3.6 zijn verstrekt, kunnen niet dienen als grondslag voor of ten behoeve van een opsporingsonderzoek of een vervolging wegens verdenking van, of als bewijs ter zake van een tenlastelegging wegens witwassen of financieren van terrorisme door de dienstverlener die deze gegevens of inlichtingen heeft verstrekt.   
-2.  Gegevens of inlichtingen die zijn verstrekt in de redelijke veronderstelling dat uitvoering wordt gegeven aan de artikelen 3.5 of 3.6 kunnen niet dienen als grondslag voor of ten behoeve van een opsporingsonderzoek of een vervolging wegens verdenking van, of als bewijs ter zake van een tenlastelegging wegens, overtreding van [artikel 285 van het Wetboek van Strafrecht BES](../../../../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) door de dienstverlener die deze gegevens of inlichtingen heeft verstrekt.   
+2.  Gegevens of inlichtingen die zijn verstrekt in de redelijke veronderstelling dat uitvoering wordt gegeven aan de artikelen 3.5 of 3.6 kunnen niet dienen als grondslag voor of ten behoeve van een opsporingsonderzoek of een vervolging wegens verdenking van, of als bewijs ter zake van een tenlastelegging wegens, overtreding van artikel 285 van het Wetboek van Strafrecht BES door de dienstverlener die deze gegevens of inlichtingen heeft verstrekt.   
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing ten aanzien van personen die bestuurder zijn van of werkzaam zijn voor een dienstverlener die gegevens of inlichtingen heeft verstrekt als omschreven in het eerste of tweede lid en die daaraan hebben meegewerkt.  
 
 ### Artikel  3.9  
@@ -494,7 +494,7 @@ Een dienstverlener draagt er zorg voor dat zijn werknemers, voor zover relevant 
 
 ### Artikel  3.13  
 
-1.  Indien een dienstverlener, zijnde een financiële onderneming, constateert dat de identiteit van een relatie overeenkomt met een natuurlijke persoon, rechtspersoon of entiteit als bedoeld in de [Sanctiewet 1977](../../../../../../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md) en de op grond van die wet vastgestelde regelingen en besluiten met betrekking tot het financieel verkeer, meldt de dienstverlener dit onverwijld aan de Nederlandsche Bank. Bij de melding legt de dienstverlener tevens de gegevens over van de identiteit van die relatie.   
+1.  Indien een dienstverlener, zijnde een financiële onderneming, constateert dat de identiteit van een relatie overeenkomt met een natuurlijke persoon, rechtspersoon of entiteit als bedoeld in de Sanctiewet 1977 en de op grond van die wet vastgestelde regelingen en besluiten met betrekking tot het financieel verkeer, meldt de dienstverlener dit onverwijld aan de Nederlandsche Bank. Bij de melding legt de dienstverlener tevens de gegevens over van de identiteit van die relatie.   
 2.  De Nederlandsche Bank bepaalt de wijze waarop een melding als bedoeld in het eerste lid moet worden gedaan.   
 3.  De dienstverlener bewaart de in het eerste lid bedoelde meldingen alsmede de gegevens van rekeningen van, en transacties met de bij de meldingen betrokken relaties tot vijf jaar nadat de regeling, waarin de desbetreffende natuurlijke persoon, rechtspersoon of entiteit is genoemd, niet meer van kracht is of buiten werking is gesteld.   
 4.  Een dienstverlener als bedoeld in het eerste lid stelt desgevraagd gegevens ter beschikking aan de Nederlandsche Bank met betrekking tot de uitvoering van dit artikel.   
@@ -512,9 +512,9 @@ In dit hoofdstuk en de daarop berustende bepalingen wordt, voor zover niet ander
 
 *aanmelder:* degene die de aanmelding doet of heeft gedaan;  
 
-*douaneambtenaar:* ambtenaar als bedoeld in [artikel 1:1, onderdeel f, van de Douane- en Accijnswet BES](../../../../../../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md);  
+*douaneambtenaar:* ambtenaar als bedoeld in artikel 1:1, onderdeel f, van de Douane- en Accijnswet BES;  
 
-*inspecteur van douane:* inspecteur als bedoeld in [artikel 1:1, onderdeel h, van de Douane- en Accijnswet BES](../../../../../../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).   
+*inspecteur van douane:* inspecteur als bedoeld in artikel 1:1, onderdeel h, van de Douane- en Accijnswet BES.   
 
 ### Artikel  4.2  
 
@@ -583,7 +583,7 @@ In dit hoofdstuk wordt verstaan onder:
 
 ### Artikel  5.2  
 
-Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. [Artikel 53, tweede en derde lid, van het Wetboek van Strafrecht BES](../../../../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) is van overeenkomstige toepassing. 
+Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. Artikel 53, tweede en derde lid, van het Wetboek van Strafrecht BES is van overeenkomstige toepassing. 
 
 ### Artikel  5.3  
 
@@ -597,7 +597,7 @@ Overtredingen kunnen worden begaan door natuurlijke personen en rechtspersonen. 
 ### Artikel  5.4  
 
 1.  Met het toezicht op de naleving van het bij of krachtens de hoofdstukken 1 tot en met 3 bepaalde zijn belast de daartoe bij besluit van de toezichtautoriteit aangewezen personen.   
-2.  Bij besluit van Onze Minister kunnen personen worden aangewezen die, naast de daartoe bij of krachtens de [Douane- en Accijnswet BES](../../../../../../../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) aangewezen personen, zijn belast met het toezicht op de naleving van het bij of krachtens hoofdstuk 4 bepaalde.   
+2.  Bij besluit van Onze Minister kunnen personen worden aangewezen die, naast de daartoe bij of krachtens de Douane- en Accijnswet BES aangewezen personen, zijn belast met het toezicht op de naleving van het bij of krachtens hoofdstuk 4 bepaalde.   
 3.  Van een besluit als bedoeld in het eerste of tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.   
 4.  Bij regeling van Onze Minister kunnen regels worden gesteld met betrekking tot de wijze van taakuitoefening door toezichthouders.  
 
@@ -649,7 +649,7 @@ De toezichtautoriteit kan het toezicht voor zover betrekking hebbend op de diens
 1.  Het bedrag van de bestuurlijke boete wordt bepaald bij algemene maatregel van bestuur. Het bedrag van de bestuurlijke boete voor een afzonderlijke overtreding bedraagt ten hoogste USD 250 000, tenzij ten tijde van het plegen van de overtreding nog geen vijf jaren zijn verstreken sinds het opleggen aan de overtreder van een bestuurlijke boete ter zake van eenzelfde overtreding, in welk geval het bedrag van de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste USD 500 000 bedraagt.   
 2.  De maatregel, bedoeld in het eerste lid, bepaalt voor elke daarin omschreven overtreding het bedrag van de deswege op te leggen bestuurlijke boete. De overtredingen kunnen worden gerangschikt in categorieën naar zwaarte van de overtreding met de daarbij behorende basisbedragen, minimumbedragen en maximumbedragen.   
 3.  In afwijking van het eerste lid kan de toezichtautoriteit, indien het voordeel dat de overtreder door de overtreding heeft verkregen, groter is dan de helft van het bedrag dat op grond van de in het eerste lid bedoelde algemene maatregel van bestuur ten hoogste voor die overtreding kan worden opgelegd, het bedrag van de bestuurlijke boete vaststellen op ten hoogste twee keer het bedrag van het door de overtreder verkregen voordeel.   
-4.  [Artikel 1, tweede lid, van het Wetboek van Strafrecht BES](../../../../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) is van overeenkomstige toepassing.  
+4.  Artikel 1, tweede lid, van het Wetboek van Strafrecht BES is van overeenkomstige toepassing.  
 
 ### Artikel  5.13  
 
@@ -681,7 +681,7 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 
 ### Artikel  6.2  
 
-1.  Met de opsporing van de in artikel 6.1 strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../../../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) bedoelde ambtenaren, belast de daartoe bij besluit van Onze Minister van Veiligheid en Justitie in overeenstemming met Onze Minister aangewezen ambtenaren.   
+1.  Met de opsporing van de in artikel 6.1 strafbaar gestelde feiten zijn, naast de in artikel 184 van het Wetboek van Strafvordering BES bedoelde ambtenaren, belast de daartoe bij besluit van Onze Minister van Veiligheid en Justitie in overeenstemming met Onze Minister aangewezen ambtenaren.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Hoofdstuk  7  
@@ -694,29 +694,29 @@ Voor zover een bestuurlijke sanctie verplicht tot betaling van een geldsom, komt
 
 ### Artikel  7.1  
 
-Een ontheffing, verleend op grond van [artikel 2, vijfde lid, van de Wet identificatie bij dienstverlening BES](../../../../../../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md), berust vanaf het tijdstip van inwerkingtreding van deze wet op artikel 2.2, vijfde lid. 
+Een ontheffing, verleend op grond van artikel 2, vijfde lid, van de Wet identificatie bij dienstverlening BES, berust vanaf het tijdstip van inwerkingtreding van deze wet op artikel 2.2, vijfde lid. 
 
 ### Artikel  7.2  
 
-1.  Onverminderd artikel 2.3, eerste lid, onderdeel e, is artikel 2.2, eerste lid, niet van toepassing ten aanzien van cliënten die reeds op grond van de [Wet identificatie bij dienstverlening BES](../../../../../../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md) zijn geïdentificeerd of ten aanzien van wie geen verplichting tot identificatie op grond van die wet was vereist.   
-2.  Gegevens van de in het eerste lid bedoelde personen die reeds op grond van de [Wet identificatie bij dienstverlening BES](../../../../../../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md) zijn vastgelegd, worden geacht te zijn vastgelegd ingevolge deze wet.  
+1.  Onverminderd artikel 2.3, eerste lid, onderdeel e, is artikel 2.2, eerste lid, niet van toepassing ten aanzien van cliënten die reeds op grond van de Wet identificatie bij dienstverlening BES zijn geïdentificeerd of ten aanzien van wie geen verplichting tot identificatie op grond van die wet was vereist.   
+2.  Gegevens van de in het eerste lid bedoelde personen die reeds op grond van de Wet identificatie bij dienstverlening BES zijn vastgelegd, worden geacht te zijn vastgelegd ingevolge deze wet.  
 
 ### Artikel  7.3  
 
-Een bestuurlijke boete, opgelegd ter zake van overtreding van een voorschrift, gesteld bij of krachtens de [Wet identificatie bij dienstverlening BES](../../../../../../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md) of de [Wet melding ongebruikelijke transacties BES](../../../../../../../../../../../../wet-BES/wet/melding/ongebruikelijke/transacties/bes/BWBR0028598/README.md), wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een op grond van artikel 5.11 opgelegde bestuurlijke boete. 
+Een bestuurlijke boete, opgelegd ter zake van overtreding van een voorschrift, gesteld bij of krachtens de Wet identificatie bij dienstverlening BES of de Wet melding ongebruikelijke transacties BES, wordt vanaf het tijdstip van inwerkingtreding van deze wet gelijkgesteld met een op grond van artikel 5.11 opgelegde bestuurlijke boete. 
 
 ### Artikel  7.4  
 
-1.  De toezichtautoriteit kan na inwerkingtreding van deze wet tot drie jaren na de dag waarop de overtreding is begaan een bestuurlijke boete opleggen ter zake van overtreding van een voorschrift gesteld bij of krachtens de [Wet identificatie bij dienstverlening BES](../../../../../../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md)of de [Wet melding ongebruikelijke transacties BES](../../../../../../../../../../../../wet-BES/wet/melding/ongebruikelijke/transacties/bes/BWBR0028598/README.md).   
+1.  De toezichtautoriteit kan na inwerkingtreding van deze wet tot drie jaren na de dag waarop de overtreding is begaan een bestuurlijke boete opleggen ter zake van overtreding van een voorschrift gesteld bij of krachtens de Wet identificatie bij dienstverlening BESof de Wet melding ongebruikelijke transacties BES.   
 2.  Op een bestuurlijke boete als bedoeld in het eerste lid blijft het recht van toepassing dat gold voor het tijdstip van inwerkingtreding van deze wet.  
 
 ### Artikel  7.5  
 
-Op bezwaar of beroep, ingesteld vóór het tijdstip van inwerkingtreding van deze wet tegen een besluit op grond van de [Wet identificatie bij dienstverlening BES](../../../../../../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md) of de [Wet melding ongebruikelijke transacties BES](../../../../../../../../../../../../wet-BES/wet/melding/ongebruikelijke/transacties/bes/BWBR0028598/README.md), blijft het recht van toepassing dat gold voor het tijdstip van inwerkingtreding van deze wet. 
+Op bezwaar of beroep, ingesteld vóór het tijdstip van inwerkingtreding van deze wet tegen een besluit op grond van de Wet identificatie bij dienstverlening BES of de Wet melding ongebruikelijke transacties BES, blijft het recht van toepassing dat gold voor het tijdstip van inwerkingtreding van deze wet. 
 
 ### Artikel  7.6  
 
-Een op grond van [artikel 23 van de Wet melding ongebruikelijke transacties BES ](../../../../../../../../../../../../wet-BES/wet/melding/ongebruikelijke/transacties/bes/BWBR0028598/README.md)gegeven aanwijzing wordt vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een aanwijzing als bedoeld in artikel 5.9. 
+Een op grond van artikel 23 van de Wet melding ongebruikelijke transacties BES gegeven aanwijzing wordt vanaf het tijdstip van inwerkingtreding van deze wet aangemerkt als een aanwijzing als bedoeld in artikel 5.9. 
 
 ### §  2  
 
@@ -724,7 +724,7 @@ Een op grond van [artikel 23 van de Wet melding ongebruikelijke transacties BES 
 
 ### Artikel  7.7  
 
-De [Wet identificatie bij dienstverlening BES](../../../../../../../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md), de[ Wet melding ongebruikelijke transacties BES](../../../../../../../../../../../../wet-BES/wet/melding/ongebruikelijke/transacties/bes/BWBR0028598/README.md) en de [Wet grensoverschrijdende geldtransporten BES](../../../../../../../../../../../../wet-BES/wet/grensoverschrijdende/geldtransporten/bes/BWBR0028165/README.md) worden ingetrokken. 
+De Wet identificatie bij dienstverlening BES, de Wet melding ongebruikelijke transacties BES en de Wet grensoverschrijdende geldtransporten BES worden ingetrokken. 
 
 ### Artikel  7.8  
 

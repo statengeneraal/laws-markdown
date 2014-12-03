@@ -12,9 +12,9 @@ De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  Besluit
 
 a.  het uitwisselen van informatie over nationale en internationale ontwikkelingen op het terrein van bouwvoorschriften;  
 
-b.  het doen van aanbevelingen met betrekking tot de nadere invulling van de (bouwparagraaf van de) [Woningwet](../../../../../../AMvB/bouwbesluit/2003/BWBR0012727/README.md), het [Bouwbesluit 2012](../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en aanverwante regelgeving;  
+b.  het doen van aanbevelingen met betrekking tot de nadere invulling van de (bouwparagraaf van de) Woningwet, het Bouwbesluit 2012 en aanverwante regelgeving;  
 
-c.  het doen van aanbevelingen met betrekking tot de resultaten van onderzoekingen die zijn uitgevoerd in het kader van de aan het parlement toegezegde evaluatie van de bij of krachtens de [Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md) gegeven voorschriften, en de voorgenomen herziening van de bouwparagraaf van de [Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md); en  
+c.  het doen van aanbevelingen met betrekking tot de resultaten van onderzoekingen die zijn uitgevoerd in het kader van de aan het parlement toegezegde evaluatie van de bij of krachtens de Woningwet gegeven voorschriften, en de voorgenomen herziening van de bouwparagraaf van de Woningwet; en  
 
 d.  het doen van aanbevelingen met betrekking tot de resultaten van overige onderzoekingen die zijn uitgevoerd op het terrein van de kwaliteit van gebouwen.     
 2.  Het overlegplatform komt drie- of viermaal per jaar bijeen; de vergaderfrequentie wordt afgestemd op de momenten om tot aanpassing van regelgeving te komen. Een overleg mondt uit in een advies aan de verantwoordelijke bewindspersoon van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer, over vraagstukken op het terrein van de bouwregelgeving en overige kwaliteitsaspecten van gebouwen in het algemeen en alle wijzigingen van de regelgeving op dit terrein in het bijzonder.   

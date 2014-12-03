@@ -270,6 +270,10 @@ Typen van bochtaanwijzers die voor de Rijnvaart zijn goedgekeurd met inachtnemin
 2.  De erkenning kan aan een door de bevoegde autoriteit te bepalen termijn worden verbonden en kan door deze worden ingetrokken indien de keuringsvoorwaarden bedoeld in bijlage M, delen I en II, van het RosR 1995 niet langer vervuld zijn.   
 3.  De bevoegde autoriteit deelt per omgaande aan de Centrale Commissie voor de Rijnvaart mee welke bedrijven zijn erkend.  
 
+### Artikel  1.17a  
+
+Het Inland ECDIS-apparaat in de informatiemodus, het daarmee vergelijkbare visualiseringssysteem en de elektronische binnenvaartkaarten moeten aan de in bijlage 1.10 opgenomen minimumeisen voldoen. 
+
 ### Artikel  1.18  
 
 1. De bevoegde autoriteit in de zin van de in de artikelen 1.6, 1.9 en 1.14 bedoelde reglementen is de minister.   
@@ -1220,7 +1224,7 @@ d. de leden van de bemanning bij het begin van de dagelijkse veerdienst van het 
 
 ### Artikel  5.14  
 
-1.  Bij uitvoering van exploitatiewijze A1 of A2 met een tachograaf zijn bijlage 1.4 bij deze regeling en de bijlage H bij het RosR 1995 van overeenkomstige toepassing.   
+1.  Bij uitvoering van exploitatiewijze A1 of A2 met een tachograaf is bijlage H bij het RosR 1995 van overeenkomstige toepassing.   
 2.  Indien gebruik wordt gemaakt van een tachograaf bewaart de gezagvoerder de registraties van de tachograaf gedurende ten minste zes maanden na de laatste aantekening daarop in chronologische volgorde aan boord.  
 
 ### §  5  
@@ -1324,7 +1328,7 @@ c. zijn bestemd of gebruikt voor de sportvisserij en varen op, dan wel op weg zi
 
 a. de minimumbemanning bestaat uit een schipper en een stuurman;  
 
-b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, derde lid, van het Binnenvaartpolitiereglement;  
+b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, vierde lid, van het Binnenvaartpolitiereglement;  
 
 c. het schip is bij het begin van de vaart vaarklaar en tijdens de vaart worden geen werkzaamheden verricht die betrekking hebben op het laad- of losklaar maken van het schip; en  
 
@@ -1333,7 +1337,7 @@ d. het schip voldoet blijkens een verklaring van de minister aan de eisen van de
 
 a. de minimumbemanning bestaat uit een schipper en een matroos;  
 
-b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, derde lid, van het Binnenvaartpolitiereglement;  
+b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, vierde lid, van het Binnenvaartpolitiereglement;  
 
 c. het schip is bij het begin van de vaart vaarklaar en tijdens de vaart worden geen werkzaamheden verricht die betrekking hebben op het laad- of losklaar maken van het schip; en  
 
@@ -1351,7 +1355,7 @@ b. het schip onderbreekt de vaart gedurende de periode tussen 22.00 uur en 06.00
 
 c. het schip is bij het begin van de vaart vaarklaar en tijdens de vaart worden geen werkzaamheden verricht die betrekking hebben op het laad- of losklaar maken van het schip;  
 
-d. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, derde lid, van het Binnenvaartpolitiereglement;  
+d. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, vierde lid, van het Binnenvaartpolitiereglement;  
 
 e. het schip is uitgerust met een eenmansstuurstelling voor het varen op radar en voldoet aan de daarop betrekking hebbende artikelen in hoofdstuk 7 van het RosR 1995 dan wel bijlage II, artikel 7.13, van richtlijn 2006/87/EG; en  
 
@@ -1365,7 +1369,7 @@ b. de voorschriften, bedoeld in het vierde lid onder e en f.
 
 a. de minimumbemanning bestaat uit een schipper en een stuurman;  
 
-b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, derde lid, van het Binnenvaartpolitiereglement;  
+b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, vierde lid, van het Binnenvaartpolitiereglement;  
 
 c. het schip is bij het begin van de vaart vaarklaar en tijdens de vaart worden geen werkzaamheden verricht die betrekking hebben op het laad- of losklaar maken van het schip; en  
 
@@ -1374,7 +1378,7 @@ d. het schip voldoet blijkens een verklaring van de minister aan de eisen van de
 
 a. de minimumbemanning bestaat uit een schipper en een matroos;  
 
-b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, derde lid, van het Binnenvaartpolitiereglement;  
+b. het schip is voorzien van de optische hulpmiddelen om te kunnen voldoen aan artikel 1.09, vierde lid, van het Binnenvaartpolitiereglement;  
 
 c. het schip is bij het begin van de vaart vaarklaar en tijdens de vaart worden geen werkzaamheden verricht die betrekking hebben op het laad- of losklaar maken van het schip; en  
 
@@ -1731,6 +1735,10 @@ De in bijlage 7.1 genoemde buitenlandse bewijzen van vaarbekwaamheid worden erke
 
 De in bijlage 7.2 genoemde bewijzen van vaarbekwaamheid onderscheidenlijk getuigschriften worden erkend voor gehele respectievelijk gedeeltelijke vrijstelling van het onderzoek naar de kennis en bekwaamheid om een schip te voeren, bedoeld in artikel 20, eerste lid, onderdeel b, van het besluit. 
 
+### Artikel  7.12a  
+
+De geneeskundige verklaringen van artsen behorend tot of aangesteld door de in bijlage1 bij dienstinstructie nr. 2 van de Centrale Commissie voor de Rijnscheepvaart vermelde instanties worden erkend als bedoeld in artikel 32, derde lid, van de wet. 
+
 ### §  3  
 
 ####Radarpatenten
@@ -2063,6 +2071,52 @@ Reglement onderzoek schepen op de Rijn 1995
 ####als bedoeld in artikel 1.9 
 
 Reglement betreffende het scheepvaartpersoneel op de Rijn (Rsp)
+
+### Bijlage  1.10  
+
+####Minimumeisen aan Inland ECDIS-apparatuur in de informatiemodus en daarmee vergelijkbare visualiseringssystemen bij het gebruik van Inland AIS-gegevens aan boord van schepen
+
+### 1  
+
+####Minimumeisen aan en aanbevelingen voor de elektronische binnenvaartkaarten
+
+Minimumeisen: 
+
+– de elektronische binnenvaartkaarten geven op nauwkeurige wijze de contouren van de rivier en van de vaargeul weer en zijn op de officiële elektronische binnenvaartkaarten gebaseerd;  
+
+– de elektronische binnenvaartkaarten zijn opgeslagen in het visualiseringssysteem aan boord van het schip.   Aanbeveling: de meest recente officiële elektronische navigatiekaarten gebruiken.
+
+### 2  
+
+####Minimumeisen aan en aanbevelingen voor het apparaat voor het visualiseren van elektronische binnenvaartkaarten
+
+Minimumeisen: 
+
+– het apparaat voor het visualiseren van elektronische kaarten is door middel van een betrouwbare kabelverbinding aan het Inland AIS-apparaat aangesloten;  
+
+– tijdens de vaart van het schip is het apparaat uitsluitend voor het visualiseren van elektronische binnenvaartkaarten bestemd;  
+
+– de gevisualiseerde informatie is vanuit de stuurstand goed zichtbaar.   Aanbevelingen: 
+
+– het visualiseringssysteem van elektronische kaarten voldoet aan de eisen betreffende de geldende standaard voor Inland ECDIS in de informatiemodus;  
+
+– een aanvullend afzonderlijk visualiseringssysteem van elektronische kaarten voor de informatiemodus gebruiken, indien het schip met een Inland ECDIS-apparaat in de navigatiemodus is uitgerust.  
+
+### 3  
+
+####Minimumeisen aan en aanbevelingen voor de software waarmee elektronische binnenvaartkaarten gevisualiseerd kunnen worden
+
+Minimumeisen: 
+
+– de software geeft de correcte en actuele positie van het eigen schip op de elektronische binnenvaartkaart weer;  
+
+– de software geeft op de elektronische binnenvaartkaart de correcte en actuele positie van de andere schepen weer;  
+
+– de software biedt de mogelijkheid de gedetailleerde lijst met AIS-informatie, als bedoeld in artikel 4.07, vierde lid, van het Rijnvaartpolitiereglement, van een gekozen schip weer te geven.   Aanbevelingen: 
+
+– de software voor het visualiseren van elektronische binnenvaartkaarten voldoet aan de eisen betreffende de navigatiemodus van de geldende Inland ECDIS-Standaard;  
+
+– de software voor het visualiseren van een elektronische binnenvaartkaart oriënteert deze zodanig dat het schip de as van de vaarweg volgt.  
 
 ### Bijlage  2.1  
 

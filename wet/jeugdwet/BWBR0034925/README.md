@@ -1739,6 +1739,39 @@ Treedt in werking per 01-01-2015
 
 Jeugdhulpaanbieders als bedoeld in artikel 1.1, onderdeel 1°, en gecertificeerde instellingen behorende tot een bij algemene maatregel van bestuur aangewezen categorie, verstrekken aan Onze Ministers of aan een bij of krachtens die maatregel aangewezen bestuursorgaan de bij of krachtens die maatregel omschreven gegevens betreffende de exploitatie. 
 
+### §  8.4  
+
+#### Verwerking van persoonsgegevens 
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  8.4.1  
+Treedt in werking per 01-01-2015 
+
+1.  Het bestuursorgaan dat met de vaststelling en de inning van de ouderbijdrage, bedoeld in artikel 8.2.3, is belast is bevoegd tot het verwerken van persoonsgegevens van de jeugdige en zijn ouders, waaronder persoonsgegevens betreffende de gezondheid die noodzakelijk zijn voor de vaststelling en de inning van een bijdrage, voor zover deze op rechtmatige wijze zijn verkregen en noodzakelijk zijn voor de uitvoering van zijn taak ingevolge deze wet.   
+2.  Het bestuursorgaan is de verantwoordelijke voor de verwerking, bedoeld in het eerste lid.   
+
+### Artikel  8.4.2  
+Treedt in werking per 01-01-2015 
+
+1.  De Sociale verzekeringsbank is bevoegd tot het verwerken van persoonsgegevens van de jeugdige en zijn ouders, waaronder persoonsgegevens betreffende de gezondheid die noodzakelijk zijn voor het verrichten van betalingen en het budgetbeheer, bedoeld in artikel 8.1.8, voor zover deze op rechtmatige wijze zijn verkregen en noodzakelijk zijn voor de uitvoering van zijn taak ingevolge deze wet.   
+2.  De Sociale verzekeringsbank is de verantwoordelijke voor de verwerking, bedoeld in het eerste lid.  
+
+### Artikel  8.4.3  
+Treedt in werking per 01-01-2015 
+
+1.  Op het bestuursorgaan dat met de vaststelling en de inning van de ouderbijdrage, bedoeld in artikel 8.2.3, is belast en op de Sociale verzekeringsbank, zijn de artikelen 7.2.1 tot en met 7.2.5 van toepassing.   
+2.  De in het eerste lid bedoelde instanties kunnen van de artikelen 7.2.2 tot en met 7.2.4 afwijken voor zolang dit noodzakelijk is met betrekking tot spoedeisende gevallen. In zodanig geval is artikel 7.2.5 niet van toepassing.  
+
+### Artikel  8.4.4  
+Treedt in werking per 01-01-2015 
+
+Op het bestuursorgaan dat met de vaststelling en de inning van de ouderbijdrage, bedoeld in artikel 8.2.3, is belast en op de Sociale verzekeringsbank: 
+
+a. zijn de artikelen 5.3.2 tot en met 5.3.5 van de Wet maatschappelijke ondersteuning 2015 van overeenkomstige toepassing;  
+
+b. is artikel 7.3.12 van toepassing.   
+
 ### Hoofdstuk  9  
 
 ####Toezicht en handhaving
@@ -2065,7 +2098,7 @@ c. de te hanteren tarieven.
 ### Artikel  12.5  
 Treedt in werking per 01-01-2015 
 
-Het college publiceert voor het eerst voor 1 juli van het tweede kalenderjaar na het kalenderjaar waarin artikel 2.10 in werking is getreden, de uitkomsten van het in artikel 2.10 van deze wet juncto artikel 9, eerste lid, onder a, van de Wet maatschappelijke ondersteuning bedoelde onderzoek en verstrekt gelijktijdig de in artikel 7.4.2 juncto 7.4.1, eerste lid, bedoelde gegevens aan Onze Ministers. 
+Het college publiceert voor het eerst voor 1 juli van het tweede kalenderjaar na het kalenderjaar waarin artikel 2.10 in werking is getreden, de uitkomsten van het in artikel 2.10 van deze wet juncto artikel 2.5.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015 bedoelde onderzoek en verstrekt gelijktijdig de in artikel 7.4.2 juncto 7.4.1, eerste lid, bedoelde gegevens aan Onze Ministers. 
 
 ### Artikel  12.6  
 Treedt in werking per 01-01-2015 

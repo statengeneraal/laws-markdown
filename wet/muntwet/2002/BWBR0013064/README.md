@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het, in verband met de invoering van de chartale euro met ingang van 1 januari 2002 en ter uitvoering van [artikel 106 van de Grondwet](../../../../wet/grondwet/BWBR0001840/README.md), wenselijk is de Muntwet 1987 te vervangen door een nieuwe wettelijke regeling van het Nederlandse muntstelsel;
+Alzo Wij in overweging genomen hebben, dat het, in verband met de invoering van de chartale euro met ingang van 1 januari 2002 en ter uitvoering van artikel 106 van de Grondwet, wenselijk is de Muntwet 1987 te vervangen door een nieuwe wettelijke regeling van het Nederlandse muntstelsel;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
@@ -96,7 +96,7 @@ a. artikel 6, eerste lid, van de verordening valsemunterij, voor zover dat artik
 
 b. de artikelen 3, eerste en tweede lid, en 4, eerste lid, van de verordening echtheids- en geschiktheidscontrole euromunten;  
 
-c. [artikel 5:20 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).     
+c. artikel 5:20 van de Algemene wet bestuursrecht.     
 2.  De Nederlandsche Bank N.V. is tevens bevoegd tot oplegging van een bestuurlijke boete ter zake van overtreding van de in het eerste lid genoemde artikelen.   
 3.  Bij algemene maatregel van bestuur wordt bij de daarin omschreven overtredingen het bedrag van de op te leggen bestuurlijke boete bepaald, met diende verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 50.000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.   
 4.  Indien tegen een besluit tot oplegging van een bestuurlijke boete bezwaar of beroep wordt aangetekend, schorst dit de verplichting tot betaling van de boete totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist. De schorsing van de verplichting tot betaling schorst niet de berekening van de wettelijke rente.  

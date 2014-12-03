@@ -3,14 +3,14 @@
 ##Besluit van de Kamer van Koophandel inhoudende de verlening van mandaat, volmacht en machtiging aan diverse functionarissen van de Kamer van Koophandel (Besluit mandaat, volmacht en machtiging diverse functionarissen Kamer van Koophandel 2014)
 
 De Kamer van Koophandel,  
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op afdeling 10.1.1 van de Algemene wet bestuursrecht;
 Besluit:    
 
 ### Artikel  1  
 
 ####Inleiding
 
-Dit besluit komt in de plaats van het [Besluit mandaat, volmacht en machtiging diverse functionarissen Kamer van Koophandel 2014](../../../../../../../../../../../../zbo/besluit/mandaat/volmacht/en/machtiging/diverse/functionarissen/kamer/van/etc/BWBR0034722/README.md) van 20 januari 2014, Stcrt. 31 januari 2014, nr. 2453. 
+Dit besluit komt in de plaats van het Besluit mandaat, volmacht en machtiging diverse functionarissen Kamer van Koophandel 2014 van 20 januari 2014, Stcrt. 31 januari 2014, nr. 2453. 
 
 ### Artikel  2  
 
@@ -18,7 +18,7 @@ Dit besluit komt in de plaats van het [Besluit mandaat, volmacht en machtiging d
 
 In dit besluit wordt verstaan onder: 
 
-a.  *Kamer:* de Kamer van Koophandel, bedoeld in [artikel 2 van de Wet op de Kamer van Koophandel](../../../../../../../../../../../../wet/wet/op/de/kamer/van/koophandel/BWBR0034331/README.md);  
+a.  *Kamer:* de Kamer van Koophandel, bedoeld in artikel 2 van de Wet op de Kamer van Koophandel;  
 
 b.  *voorzitter:* voorzitter van de Kamer van Koophandel;  
 
@@ -52,7 +52,9 @@ f. Facilitaire zaken;
 
 g. Informatiebeleid en Architectuur;  
 
-h. Externe relaties met betrekking tot financiële en vastgoed portefeuille.     
+h. Externe relaties met betrekking tot financiële en vastgoed portefeuille;  
+
+i. ICT.    
 2.  In afwijking van het eerste lid wordt aan de CFO volmacht en machtiging verleend tot het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van overige handelingen, die verband houden met de in het eerste lid bedoelde aangelegenheden, met dien verstande dat het aangaan van financiële verplichtingen het bedrag van € 100.000,00 per verplichting niet te boven gaat.  
 
 ### Artikel  4  
@@ -96,7 +98,7 @@ c. het aanvragen van subsidies en bijdragen bij andere overheden en instanties e
 d. de behandeling van verzoeken, waaronder het nemen van een beslissing, tot kostenvergoeding bij bezwaarschriften, de behandeling van ingebrekestellingen (met dwangsom) en de behandeling van civielrechtelijke aansprakelijkstellingen verband houdende met het beheer van het handelsregister en het ontbinden van rechtspersonen door de Kamer.     
 2.  Aan beleidsadviseurs KCC niveau 2 wordt, ieder voor zich, mandaat en machtiging verleend tot: 
 
-a. het beslissen op een aanvraag tot afscherming van een adres als bedoeld in [artikel 51 Handelsregisterbesluit](../../../../../../../../../../../../AMvB/handelsregisterbesluit/2008/BWBR0024067/README.md);  
+a. het beslissen op een aanvraag tot afscherming van een adres als bedoeld in artikel 51 Handelsregisterbesluit;  
 
 b. het nemen van besluiten en het verrichten van feitelijke handelingen verband houdende met het ontbinden van rechtspersonen door de Kamer;  
 
@@ -122,7 +124,7 @@ l. afgeven inlichtingenbladen INF 4;
 
 m. behandelen van aanvragen voor bindende oorsprong inlichtingen voor preferentiële en niet-preferentiële oorsprong;  
 
-n. het doen van aangifte bij de politie inzake valsheid in geschrifte, opgave van onware gegevens en schending van de verplichting gegevens te verstrekken ingevolge [artikel 225 van het Wetboek van Strafrecht](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).     
+n. het doen van aangifte bij de politie inzake valsheid in geschrifte, opgave van onware gegevens en schending van de verplichting gegevens te verstrekken ingevolge artikel 225 van het Wetboek van Strafrecht.     
 3.  Aan beleidsadviseurs KCC niveau 1 wordt, ieder voor zich, mandaat en machtiging verleend voor de in het tweede lid, onder a tot en met d bedoelde aangelegenheden.   
 4.  Aan de teamleider Exportdocumenten en medewerkers Exportdocumenten niveau 2 wordt, ieder voor zich, mandaat en machtiging verleend tot: 
 
@@ -156,7 +158,7 @@ a. het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van
 b. het nemen van besluiten en het verrichten van feitelijke handelingen verband houdende met het beheer van het handelsregister, het ontbinden van rechtspersonen door de Kamer, de afgifte van exportdocumenten en het in depot nemen van algemene voorwaarden, met dien verstande dat het behandelen van beroepschriften is uitgezonderd.     
 2.  Aan teamleiders Backoffice en medewerkers Handelsregister niveau 2 en 3 wordt, ieder voor zich, mandaat en machtiging verleend tot: 
 
-a. het beslissen op een aanvraag tot afscherming van een adres als bedoeld in [artikel 51 Handelsregisterbesluit](../../../../../../../../../../../../AMvB/handelsregisterbesluit/2008/BWBR0024067/README.md);  
+a. het beslissen op een aanvraag tot afscherming van een adres als bedoeld in artikel 51 Handelsregisterbesluit;  
 
 b. het nemen van besluiten en het verrichten van feitelijke handelingen verband houdende met het ontbinden van rechtspersonen door de Kamer;  
 
@@ -197,11 +199,11 @@ Aan de manager Centrale Klantafhandeling wordt volmacht en machtiging verleend t
 
 a. het verrichten van privaatrechtelijke rechtshandelingen en het verrichten van overige handelingen ten aanzien van aangelegenheden, die behoren tot het werkterrein van zijn afdeling en voor zover deze passen binnen de normale uitoefening van zijn functie, met dien verstande dat het aangaan van financiële verplichtingen het bedrag van € 25.000,– per verplichting niet te boven gaat;  
 
-b. het behandelen van verzoeken en het nemen van besluiten in het kader van de [Wet bescherming persoonsgegevens](../../../../../../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
+b. het behandelen van verzoeken en het nemen van besluiten in het kader van de Wet bescherming persoonsgegevens;  
 
-c. het behandelen en afdoen van klachten in de zin van [Hoofdstuk 9 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+c. het behandelen en afdoen van klachten in de zin van Hoofdstuk 9 van de Algemene wet bestuursrecht;  
 
-d. het beslissen op verzoeken om informatie op grond van de [Wet openbaarheid van bestuur](../../../../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md);  
+d. het beslissen op verzoeken om informatie op grond van de Wet openbaarheid van bestuur;  
 
 e. het behandelen van bezwaar- en beroepschriften, waaronder het beslissen op bezwaar en het voeren van verweer in gevallen waarin beroep is ingesteld, met uitzondering van bezwaar- en beroepschriften verband houdende met personele aangelegenheden, het beheer van het handelsregister en/of het ontbinden van rechtspersonen door de Kamer;  
 
@@ -338,7 +340,7 @@ Het krachtens mandaat, volmacht en/of machtiging ondertekenen van stukken geschi
 
 ####Intrekking mandaatbesluit
 
-Het [Besluit mandaat, volmacht en machtiging diverse functionarissen Kamer van Koophandel 2014](../../../../../../../../../../../../zbo/besluit/mandaat/volmacht/en/machtiging/diverse/functionarissen/kamer/van/etc/BWBR0034722/README.md) (Stcrt. 31 januari 2014, nr. 2453) wordt hierbij ingetrokken. 
+Het Besluit mandaat, volmacht en machtiging diverse functionarissen Kamer van Koophandel 2014 (Stcrt. 31 januari 2014, nr. 2453) wordt hierbij ingetrokken. 
 
 ### Artikel  20  
 

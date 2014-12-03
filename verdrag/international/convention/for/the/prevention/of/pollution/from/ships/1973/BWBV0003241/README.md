@@ -264,7 +264,7 @@ The Parties to the Convention shall promote, in consultation with the Organizati
 ####Deposit and Registration
 
 (1). The present Convention shall be deposited with the Secretary-General of the Organization who shall transmit certified true copies thereof to all States which have signed the present Convention or acceded to it.
-(2). As soon as the present Convention enters into force, the next shall be transmitted by the Secretary-General of the Organization to the Secretary-General of the United Nations for registration and publication, in accordance with [Article 102 of the Charter of the United Nations](../../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).
+(2). As soon as the present Convention enters into force, the next shall be transmitted by the Secretary-General of the Organization to the Secretary-General of the United Nations for registration and publication, in accordance with Article 102 of the Charter of the United Nations.
 
 ### Article  20  
 
@@ -983,6 +983,186 @@ The International Oil Pollution Prevention Certificate shall be drawn up in the 
 
 4. In ships delivered after 31 December 1979, as defined in regulation 1.28.2, tanks for oil residues shall be designed and constructed so as to facilitate their cleaning and the discharge of residues to reception facilities. Ships delivered on or before 31 December 1979, as defined in regulation 1.28.1, shall comply with this requirement as far as is reasonable and practicable.  
 
+### Regulation  12A  
+
+####Oil fuel tank protection
+
+1.  This regulation shall apply to all ships with an aggregate oil fuel capacity of 600 m<sup>3</sup> and above which are delivered on or after 1 August 2010, as defined in regulation 1.28.9 of this Annex.   
+2.  The application of this regulation in determining the location of tanks used to carry oil fuel does not govern over the provisions of regulation 19 of this Annex.   
+3.  For the purpose of this regulation, the following definitions shall apply: 
+
+.1. “Oil fuel” means any oil used as fuel oil in connection with the propulsion and auxiliary machinery of the ship in which such oil is carried.  
+
+.2. “Load line draught (d<sub>s</sub>)” is the vertical distance, in metres, from the moulded baseline at mid-length to the waterline corresponding to the summer freeboard draught to be assigned to the ship.  
+
+.3. “Light ship draught” is the moulded draught amidships corresponding to the lightweight.  
+
+.4. “Partial load line draught (d<sub>p</sub>)” is the light ship draught plus 60% of the difference between the light ship draught and the load line draught (d<sub>s</sub>). The partial load line draught (d<sub>p</sub>) shall be measured in metres.  
+
+.5. “Waterline d<sub>B</sub>” is the vertical distance, in metres, from the moulded baseline at mid-length to the waterline corresponding to 30% of the depth D<sub>s</sub>.  
+
+.6. “Breadth B<sub>S</sub>” is the greatest moulded breadth of the ship, in metres, at or below the deepest load line line draught d<sub>S</sub>.  
+
+.7. “Breadth B<sub>B</sub>” is the greatest moulded breadth of the ship, in metres, at or below the waterline d<sub>B</sub>.  
+
+.8. “Depth D<sub>s</sub>” is the moulded depth, in metres, measured at mid-length to the upper deck at side. For the purpose of the application, “upper deck” means the highest deck to which the watertight transverse bulkheads except aft peak bulkheads extend.  
+
+.9. “Length L” means 96% of the total length on a waterline at 85% of the least moulded depth measured from the top of the keel, or the length from the foreside of the stem to the axis of the rudder stock on that waterline, if that be greater. In ships designed with a rake of keel the waterline on which this length is measured shall be parallel to the designed waterline. The length L shall be measured in metres.  
+
+.10. “Breadth B” means the maximum breadth of the ship, in metres, measured amidships to the moulded line of the frame in a ship with a metal shell and to the outer surface of the hull in a ship with a shell of any other material.  
+
+.11. “Oil fuel tank” means a tank in which oil fuel is carried, but excludes those tanks which would not contain oil fuel in normal operation, such as overflow tanks.  
+
+.12. “Small oil fuel tank” is an oil fuel tank with a maximum individual capacity not greater than 30 m<sup>3</sup>.  
+
+.13. “C” is the ship’s total volume of oil fuel, including that of the small oil fuel tanks, in m<sup>3</sup>, at 98% tank filling.  
+
+.14. “Oil fuel capacity” means the volume of a tank in m<sup>3</sup>, at 98% filling.     
+4.  the provisions of this regulation shall apply to all oil fuel tanks except small oil fuel tanks, as defined in 3.12, provided that the aggregate capacity of such excluded tanks is not greater than 600 m<sup>3</sup>.   
+5.  Individual oil fuel tanks shall not have a capacity of over 2,500 m<sup>3</sup>.   
+6.  For ships, other than self-elevating drilling units, having an aggregate oil fuel capacity of 600 m<sup>3</sup> and above, oil fuel tanks shall be located above the moulded line of the bottom shell plating nowhere less than the distance has specified below: 
+
+h = B/20 m or,
+
+h = 2.0 m, whichever is the lesser. The minimum value of h = 0.76 m In the turn of the bilge area and at location without a clearly defined turn of the bilge, the oil fuel tank boundary line shall run parallel to the line of the midship flat bottom as shown in Figure 1.  ![10000053679](http://wetten.overheid.nl/Illustration/10000053679)
+
+7.  For ships having an aggregate oil fuel capacity of 600 m<sup>3</sup> or more but less than 5,000 m<sup>3</sup>, oil fuel tanks shall be located inboard of the moulded line of the side shell plating, nowhere less than the distance w which, as shown in Figure 2, is measured at any cross-section at right angles to the side shell, as specified below: w = 0.4 + 2.4 C/20,000 m The minimum value of w = 1.0 m, however for individual tanks with an oil fuel capacity of less than 500 m<sup>3</sup> the minimum value is 0.76 m.   
+8.  For ships having an aggregate oil fuel capacity of 5,000 m<sup>3</sup> and over, oil fuel tanks shall be located inboard of the moulded line of the side shell plating, nowhere less than the distance w which, as shown in Figure 2, is measured at any cross-section at right angles to the side shell, as specified below: w = 0.5 + C/20,000 m or w = 2.0 m, whichever is the lesser. The minimum value of w = 1.0 m  ![10000053680](http://wetten.overheid.nl/Illustration/10000053680)
+
+9.  Lines of oil fuel piping located at a distance from the ship’s bottom of less than *h*, as defined in paragraph 6, or from the ship’s side less than *w*, as defined in paragraphs 7 and 8 shall be fitted with valves or similar closing devices within or immediately adjacent to the oil fuel tank. These valves shall be capable of being brought into operation from a readily accessible enclosed space the location of which is accessible from the navigation bridge or propulsion machinery control position without traversing exposed freeboard or superstructure decks. The valves shall close in case of remote control system failure (fail in a closed position) and shall be kept closed at sea at any time when the tank contains oil fuel except that they may be opened during oil fuel transfer operations.   
+10.  Suction wells in oil fuel tanks may protrude into the double bottom below the boundary line defined by the distance h provided that such wells are as small as practicable and the distance between the well bottom and the bottom shell plating is not less than 0.5 h.   
+11.  Alternatively to paragraphs 6 and either 7 or 8, ships shall comply with the accidental oil fuel outflow performance standard specified below: 
+
+.1. The level of protection against oil fuel pollution in the event of collision or grounding shall be assessed on the basis of the mean oil outflow parameter as follows:  
+
+| --- | --- |
+|:---|:---|
+| O<sub>M</sub> < 0.0157-1.14E-6.C  | for 600 m<sup>3</sup> ≤ C < 5,000 m<sup>3</sup>   |
+| O<sub>M</sub> < 0.010  | for C ≥ 5,000 m<sup>3</sup>   |
+
+Where: O<sub>M</sub> = mean oil outflow parameter; C = total oil fuel volume.  
+
+.2. The following general assumption shall apply when calculating the mean oil outflow parameter: 
+
+.1. the ship shall be assumed loaded to the partial load line draught (d<sub>p</sub>) without trim or heel;  
+
+.2. all oil fuel tanks shall be assumed loaded to 98% of their volumetric capacity;  
+
+.3. the nominal density of the oil fuel (ρ<sub>n</sub>) shall generally be taken as 1,000 kg/m<sup>3</sup>. If the density of the oil fuel is specifically restricted to a lesser value, the lesser value may be applied; and  
+
+.4. for the purpose of these outflow calculations, the permeability of each oil fuel tank shall be taken as 0.99, unless proven otherwise.    
+
+.3. The following assumptions shall be used when combining the oil outflow parameters: 
+
+.1. The mean oil outflow shall be calculated independently for side damage and for bottom damage and then combined into a non-dimensional oil outflow parameter O<sub>M</sub>, as follows: O<sub>M</sub> = (0.4 O<sub>MS</sub> + 0.6 O<sub>MB</sub>) / C Where: O<sub>MS</sub> = mean outflow for side damage, in m<sup>3</sup>  O<sub>MB</sub> = mean outflow for bottom damage, in m<sup>3</sup>  C = total oil fuel volume.  
+
+.2. For bottom damage, independent calculations for mean outflow shall be done for 0 m and 2.5 m tide conditions, and then combined as follows: O<sub>MB</sub> = 0.7 O<sub>MB(0)</sub> + 0.3 O<sub>MB(2.5)</sub>  where: O<sub>MB(0)</sub> = mean outflow for 0 m tide condition, and O<sub>MB(2.5)</sub> = mean outflow for minus 2.5 m tide condition, in m<sup>3</sup>.    
+
+.4. The mean outflow for side damage O<sub>MS</sub> shall be calculated as follows:  ![10000053681](http://wetten.overheid.nl/Illustration/10000053681)
+where: i = represents each oil fuel tank under consideration; n = total number of oil fuel tanks; P<sub>s(i)</sub> = the probability of penetrating oil fuel tank i from side damage, calculated in accordance with paragraph 11.6 of this regulation; O<sub>s(i)</sub> = the outflow, in m<sup>3</sup>, from side damage to oil fuel tank i, which is assumed equal to the total volume in oil fuel tank i at 98% filling.  
+
+.5. The mean outflow for bottom damage shall be calculated for each tidal condition as follows: 
+
+.1.  ![10000053682](http://wetten.overheid.nl/Illustration/10000053682)
+where: i = represents each oil fuel tank under consideration; n = total number of oil fuel tanks; P<sub>B(i)</sub> = the probability of penetrating oil fuel tank i from bottom damage, calculated in accordance with paragraph 11.7 of this regulation; O<sub>B(i)</sub> = the outflow from oil fuel tank, in m<sup>3</sup>, calculated in accordance with paragraph 11.5.3 of this regulation; and C<sub>DB(i)</sub> = factor to account for oil capture as defined in paragraph 11.5.4.  
+
+.2.  ![10000053683](http://wetten.overheid.nl/Illustration/10000053683)
+where: i, n P<sub>B(i)</sub> and C<sub>DB(i)</sub> = as defined in subparagraph .1 above O<sub>B(i)</sub> = the outflow oil fuel tank i, in m<sup>3</sup>, after tidal change.  
+
+.3. The oil outflow O<sub>B(i)</sub> for each oil fuel tank shall be calculated based on pressure balance principles, in accordance with the following assumptions: 
+
+.1. The ship shall be assumed stranded with zero trim and heel, with the stranded draught prior to tidal change equal to the partial load line draught d<sub>p</sub>.  
+
+.2. The oil fuel level after damage shall be calculated as follows:  ![10000053684](http://wetten.overheid.nl/Illustration/10000053684)
+where: h<sub>F</sub> = the height of the oil fuel surface above Z<sub>l</sub>, in m; t<sub>C</sub> = the tidal change, in m. Reductions in tide shall be expressed as negative values; Z<sub>l</sub> = the height of the lowest point in the oil fuel tank above the baseline, in m;  *ρ* <sub>s</sub> = density of seawater, to be taken as 1,025 kg/m<sup>3</sup>; and,  *ρ* <sub>n</sub> = nominal density of the oil fuel, as defined in 11.2.3.  
+
+.3. The oil outflow O<sub>B(i)</sub> for any tank bounding the bottom shell plating shall be taken not less than the following formula, but no more than the tank capacity: O<sub>B(i)</sub> = H<sub>w</sub> A where: H<sub>W</sub> = 1.0 m, when Y<sub>B</sub> = 0 H<sub>W</sub> = B<sub>B</sub>/50 but not greater than 0.4 m, when Y<sub>B</sub> is greater than B<sub>B</sub>/5 or 11.5 m, whichever is less H<sub>W</sub> is to be measured upwards from the midship flat bottom line. In the turn of the bilge area and at locations without a clearly defined turn of the bilge, H<sub>W</sub> is to be measured from a line parallel to the midship flat bottom, as shown for distance “h” in Figure 1. For Y<sub>B</sub> values outboard B<sub>B</sub>/5 or 11.5 m, whichever is less, H<sub>W</sub> is to be linearly interpolated. Y<sub>B</sub> = the minimum value of Y<sub>B</sub> over the length of the oil fuel tank, where at any given location, Y<sub>B</sub> is the transverse distance between the side shell at waterline d<sub>B</sub> and the tank at or below waterline d<sub>B</sub>. A = the maximum horizontal projected area of the oil fuel tank up to the level of H<sub>W</sub> from the bottom of the tank.  ![10000053685](http://wetten.overheid.nl/Illustration/10000053685)
+
+.4. In the case of bottom damage, a portion from the outflow from an oil fuel tank may be captured by non-oil compartments. This effect is approximated by application of the factor C<sub>DB(i)</sub> for each tank, which shall be taken as follows: C<sub>DB(i)</sub> = 0.6 for oil fuel tanks bounded from below by non-oil compartments; C<sub>DB(i)</sub> = 1 otherwise.    
+
+.6. The probability P<sub>S</sub> of breaching a compartment from side damage shall be calculated as follows: 
+
+.1. P<sub>S</sub> = P<sub>SL</sub> . P<sub>SV</sub> . P<sub>ST</sub>  where: P<sub>SL</sub> = (1 – P<sub>Sf</sub> – P<sub>Sa</sub>) = probability the damage will extend into the longitudinal zone bounded by X<sub>a</sub> and X<sub>f</sub>; P<sub>SV</sub> = (1 – P<sub>Sa</sub> – P<sub>Sl</sub>) = probability the damage will extend into the vertical zone bounded by Z<sub>l</sub> and Z<sub>u</sub>; P<sub>ST</sub> = (1 – P<sub>Sy</sub>) = probability the damage will extend transversely beyond the boundary defined by y;  
+
+.2. P<sub>Sa</sub>, P<sub>Sf</sub>, P<sub>Su</sub> and P<sub>Sl</sub> shall be determined by linear interpolation from the table of probabilities for side damage provided in 11.6.3, and P<sub>Sy</sub> shall be calculated from the formulas provided in 11.6.3, where: P<sub>Sa</sub> = the probability the damage will lie entirely aft of location X<sub>a</sub>/L; P<sub>Sf</sub> = the probability the damage will lie entirely forward of location X<sub>f</sub>/L; P<sub>Sl</sub> = probability the damage will lie entirely below the tank; P<sub>Su</sub> = probability the damage will lie entirely above the tank; and P<sub>Sy</sub> = probability the damage will lie entirely outboard the tank. Compartment boundaries X<sub>a</sub>, X<sub>f</sub>, Z<sub>l</sub>, Z<sub>u</sub> and y shall be developed as follows: X<sub>a</sub> = the longitudinal distance from aft terminal of L to the aft most point on the compartment being considered, in m; X<sub>f</sub> = the longitudinal distance from aft terminal of L to the foremost point on the compartment being considered, in m; Z<sub>l</sub> = the vertical distance from the moulded baseline to the lowest point on the compartment being considered, in m. Where Z<sub>l</sub> is greater than D<sub>S</sub>, Z<sub>l</sub> shall be taken as D<sub>S</sub>; Z<sub>u</sub> = the vertical distance from the moulded baseline to the highest point on the compartment being considered, in m. Where Z<sub>u</sub> is greater than D<sub>S</sub>, Z<sub>u</sub> shall be taken as D<sub>S</sub>; and, y = the minimum horizontal distance measured at right angles to the centreline between the compartment under consideration and the side shell, in m<sup> 1) For symmetrical tank arrangements, damages are considered for one side of the ship only, in which case all “y” dimensions are to be measured from that side. For asymmetrical arrangements reference is made to the Explanatory Notes on matters related to the accidental oil outflow performance, adopted by the Organization by resolution MEPC.122(52). </sup> . In way of the turn of the bilge, y need not to be considered below a distance h above baseline, where h is lesser of B/10, 3 m or the top of the tank.  
+
+.3. Table of Probabilities for side damage  
+
+| X<sub>a</sub>/L  | P<sub>Sa</sub>   | X<sub>f</sub>/L  | P<sub>Sf</sub>   | Z<sub>l</sub>/D<sub>S</sub>   | P<sub>Sl</sub>   | Z<sub>u</sub>/D<sub>S</sub>   | P<sub>Su</sub>   |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| 0,00  | 0,000  | 0,00  | 0,967  | 0,00  | 0,000  | 0,00  | 0,968  |
+| 0,05  | 0,023  | 0,05  | 0,917  | 0,05  | 0,000  | 0,05  | 0,952  |
+| 0,10  | 0,068  | 0,10  | 0,867  | 0,10  | 0,001  | 0,10  | 0,931  |
+| 0,15  | 0,117  | 0,15  | 0,817  | 0,15  | 0,003  | 0,15  | 0,905  |
+| 0,20  | 0,167  | 0,20  | 0,767  | 0,20  | 0,007  | 0,20  | 0,873  |
+| 0,25  | 0,217  | 0,25  | 0,717  | 0,25  | 0,013  | 0,25  | 0,836  |
+| 0,30  | 0,267  | 0,30  | 0,667  | 0,30  | 0,021  | 0,30  | 0,789  |
+| 0,35  | 0,317  | 0,35  | 0,617  | 0,35  | 0,034  | 0,35  | 0,733  |
+| 0,40  | 0,367  | 0,40  | 0,567  | 0,40  | 0,055  | 0,40  | 0,670  |
+| 0,45  | 0,417  | 0,45  | 0,517  | 0,45  | 0,085  | 0,45  | 0,599  |
+| 0,50  | 0,467  | 0,50  | 0,467  | 0,50  | 0,123  | 0,50  | 0,525  |
+| 0,55  | 0,517  | 0,55  | 0,417  | 0,55  | 0,172  | 0,55  | 0,452  |
+| 0,60  | 0,567  | 0,60  | 0,367  | 0,60  | 0,226  | 0,60  | 0,383  |
+| 0,65  | 0,617  | 0,65  | 0,317  | 0,65  | 0,285  | 0,65  | 0,317  |
+| 0,70  | 0,667  | 0,70  | 0,267  | 0,70  | 0,347  | 0,70  | 0,255  |
+| 0,75  | 0,717  | 0,75  | 0,217  | 0,75  | 0,413  | 0,75  | 0,197  |
+| 0,80  | 0,767  | 0,80  | 0,167  | 0,80  | 0,482  | 0,80  | 0,143  |
+| 0,85  | 0,817  | 0,85  | 0,117  | 0,85  | 0,553  | 0,85  | 0,092  |
+| 0,90  | 0,867  | 0,90  | 0,068  | 0,90  | 0,626  | 0,90  | 0,046  |
+| 0,95  | 0,917  | 0,95  | 0,023  | 0,95  | 0,700  | 0,95  | 0,013  |
+| 1,00  | 0,967  | 1,00  | 0,000  | 1,00  | 0,775  | 1,00  | 0,000  |
+
+P<sub>Sy</sub> shall be calculated as follows:  
+
+| --- | --- |
+|:---|:---|
+| P<sub>Sy</sub> = (24.96 – 199.6 y/B<sub>S</sub>)(y/B<sub>S</sub>)  | for y/B<sub>S</sub> ≤ 0.05  |
+| P<sub>Sy </sub>= 0.749 + {5 – 44.4 (y/B<sub>S</sub> – 0.05)} {(y/B<sub>S</sub>) – 0.05}  | for 0.05 < y/B<sub>S</sub> < 0.1  |
+| P<sub>Sy</sub> = 0.888 + 0.56 (y/B<sub>S</sub> – 0.1)  | for y/B<sub>S</sub> ≥ 0.1  |
+| P<sub>Sy</sub> is not to be taken greater than 1.  |
+
+.7. The probability P<sub>B</sub> of breaching a compartment from bottom damage shall be calculated as follows: 
+
+.1. P<sub>B</sub> = P<sub>BL</sub> . P<sub>BT</sub> . P<sub>BV</sub>  where: P<sub>BL</sub> = (1 – P<sub>Bf</sub> – P<sub>Ba</sub>) = probability the damage will extend into the longitudinal zone bounded by X<sub>a</sub> and X<sub>f</sub>; P<sub>BT</sub> = (1 – P<sub>Bp</sub> – P<sub>Bs</sub>) = probability the damage will extend into transverse zone bounded by Y<sub>p</sub> and Y<sub>s</sub>; and P<sub>BV</sub> = (1 – P<sub>Bz</sub>) = probability the damage will extend vertically above the boundary defined by z;  
+
+.2. P<sub>Ba</sub>, P<sub>Bf</sub>, P<sub>Bp</sub> and P<sub>Bs</sub> shall be determined by linear interpolation from the table of probabilities for bottom damage provided in 11.7.3, and P<sub>Bz</sub> shall be calculated from the formulas provided in 11.7.3, where: P<sub>Ba</sub> = the probability the damage will lie entirely aft of location X<sub>a</sub>/L; P<sub>Bf</sub> = the probability the damage will lie entirely forward of location X<sub>f</sub>/L; P<sub>Bp</sub> = probability the damage will lie entirely to port of the tank; P<sub>Bs</sub> = probability the damage will lie entirely to starboard the tank; and P<sub>Bz</sub> = probability the damage will lie entirely below the tank. Compartment boundaries X<sub>a</sub>, X<sub>f</sub>, Y<sub>p</sub>, Y<sub>s</sub> and z shall be developed as follows: X<sub>a</sub> and X<sub>f</sub> as defined in 11.6.2; Y<sub>p</sub> = the transverse distance from the port-most point on the compartment located at or below the waterline d<sub>B</sub>, to a vertical plane located B<sub>B</sub>/2 to starboard of the ship’s centreline; Y<sub>s</sub> = the transverse distance from the starboard-most point on the compartment located at or below the waterline d<sub>B</sub>, to a vertical plane located B<sub>B</sub>/2 to starboard of the ship’s centreline; and z = the minimum value of z over the length of the compartment, where, at any given longitudinal location, z is the vertical distance from the lower point of the bottom shell at that longitudinal location to the lower point of the compartment at that longitudinal location.  
+
+.3. Table of probabilities for bottom damage  
+
+| X<sub>a</sub>/L  | P<sub>Ba</sub>   | X<sub>p</sub>/L  | P<sub>Bf</sub>   | Y<sub>p</sub>/B<sub>B</sub>   | P<sub>Bp</sub>   | Y<sub>s</sub>/B<sub>B</sub>   | P<sub>Bs</sub>   |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| 0,00  | 0,000  | 0,00  | 0,969  | 0,00  | 0,844  | 0,00  | 0,000  |
+| 0,05  | 0,002  | 0,05  | 0,953  | 0,05  | 0,794  | 0,05  | 0,009  |
+| 0,10  | 0,008  | 0,10  | 0,936  | 0,10  | 0,744  | 0,10  | 0,032  |
+| 0,15  | 0,017  | 0,15  | 0,916  | 0,15  | 0,694  | 0,15  | 0,063  |
+| 0,20  | 0,029  | 0,20  | 0,894  | 0,20  | 0,644  | 0,20  | 0,097  |
+| 0,25  | 0,042  | 0,25  | 0,870  | 0,25  | 0,594  | 0,25  | 0,133  |
+| 0,30  | 0,058  | 0,30  | 0,842  | 0,30  | 0,544  | 0,30  | 0,171  |
+| 0,35  | 0,076  | 0,35  | 0,810  | 0,35  | 0,494  | 0,35  | 0,211  |
+| 0,40  | 0,096  | 0,40  | 0,775  | 0,40  | 0,444  | 0,40  | 0,253  |
+| 0,45  | 0,119  | 0,45  | 0,734  | 0,45  | 0,394  | 0,45  | 0,297  |
+| 0,50  | 0,143  | 0,50  | 0,687  | 0,50  | 0,344  | 0,50  | 0,344  |
+| 0,55  | 0,171  | 0,55  | 0,630  | 0,55  | 0,297  | 0,55  | 0,394  |
+| 0,60  | 0,203  | 0,60  | 0,563  | 0,60  | 0,253  | 0,60  | 0,444  |
+| 0,65  | 0,242  | 0,65  | 0,489  | 0,65  | 0,211  | 0,65  | 0,494  |
+| 0,70  | 0,289  | 0,70  | 0,413  | 0,70  | 0,171  | 0,70  | 0,544  |
+| 0,80  | 0,409  | 0,80  | 0,252  | 0,80  | 0,097  | 0,80  | 0,644  |
+| 0,85  | 0,482  | 0,85  | 0,170  | 0,85  | 0,063  | 0,85  | 0,694  |
+| 0,90  | 0,565  | 0,90  | 0,089  | 0,90  | 0,032  | 0,90  | 0,744  |
+| 0,95  | 0,658  | 0,95  | 0,026  | 0,95  | 0,009  | 0,95  | 0,794  |
+| 1,00  | 0,761  | 1,00  | 0,000  | 1,00  | 0,000  | 1,00  | 0,844  |
+
+P<sub>Bz</sub> shall be calculated as follows:  
+
+| --- | --- |
+|:---|:---|
+| P<sub>Bz </sub>= (14.5 – 67 z/D<sub>s</sub>) (z/D<sub>s</sub>)  | for z/D<sub>S</sub> ≤ 0.1  |
+| P<sub>Bz</sub> = 0.78 + 1.1 {(z/D<sub>S</sub> – 0.1)}  | for z/D<sub>S</sub> > 0.1  |
+| P<sub>Bz</sub> is not to be taken greater than 1.  | --- |
+
+.8. For the purpose of maintenance and inspection, any oil fuel tanks that do not border the outer shell plating shall be located no closer to the bottom shell plating than the minimum value of *h* in paragraph 6 and no closer to the side shell plating than the applicable minimum value of *w* in paragraph 7 or 8.     
+12.  In approving the design and construction of ships to be built in accordance with this regulation, Administrations shall have due regard to the general safety aspects, including the need for maintenance and inspection of wing and double bottom tanks or spaces.  
+
 ### Regulation  13  
 
 ####Standard discharge connection
@@ -1366,6 +1546,287 @@ where:
 3.  In case of pump rooms whose bottom plate is located above the base line by at least the minimum height required in paragraph 2 above (e.g. gondola stern designs), there will be no need for a double bottom construction in way of the pump-room.   
 4.  Ballast pumps shall be provided with suitable arrangements to ensure efficient suction from double bottom tanks.   
 5.  Notwithstanding the provisions of paragraphs 2 and 3 above, where the flooding of the pump-room would not render the ballast or cargo pumping system inoperative, a double bottom need not be fitted. 
+
+### Regulation  23  
+
+####Accidental oil outflow performance
+
+1.  This regulation shall apply to oil tankers delivered on or after 1 January 2010, as defined in regulation 1.28.8.   
+42.  For the purpose of this regulation, the following definitions shall apply: 
+
+.1 “Load line draught (d<sub>S</sub>)” is the vertical distance, in metres, from the moulded baseline at mid-length to the waterline corresponding to the summer freeboard to be assigned to the ship. Calculations pertaining to this regulation should be based on draught d<sub>S</sub>, notwithstanding assigned draughts that may exceed d<sub>S</sub>, such as the tropical loadline.  
+
+.2 “Waterline (d<sub>B</sub>)” is the vertical distance, in metres, from the moulded baseline at mid-length to the waterline corresponding to 30% of the depth D<sub>S</sub>.  
+
+.3 “Breadth (B<sub>S</sub>)” is the greatest moulded breadth of the ship, in metres, at or below the deepest load line d<sub>S</sub>.  
+
+.4 “Breadth (B<sub>B</sub>)” is the greatest moulded breadth of the ship, in metres, at or below the waterline d<sub>B</sub>.  
+
+.5 “Depth (D<sub>S</sub>)” is the moulded depth, in metres, measured at mid-length to the upper deck at side.  
+
+.6 “Length (L)” and “deadweight (DW)” are as defined in regulations 1.19 and 1.23, respectively.     
+3.  To provide adequate protection against oil pollution in the event of collision or stranding the following shall be complied with: 
+
+.1 for oil tankers of 5,000 tonnes deadweight (DWT) and above, the mean oil outflow parameter shall be as follows:   
+
+| --- | --- | --- |
+|:---|:---|:---|
+| --- | O<sub>M</sub> ≤ 0.015  | for C ≤ 200,000 m<sup>3</sup>  |
+| --- | O<sub>M</sub> ≤ 0.012 + (0.003/200,000) (400,000-C)  | for 200,000 m<sup>3</sup> < C < 400,000 m<sup>3</sup>  |
+| --- | O<sub>M</sub> ≤ 0.012  | for C ≥ 400,000 m<sup>3</sup>  |
+
+for combination carriers between 5,000 tonnes deadweight (DWT) and 200,000 m3 capacity, the mean oil outflow parameter may be applied, provided calculations are submitted to the satisfaction of the Administration, demonstrating that after accounting for its increased structural strength, the combination carrier has at least equivalent oil out flow performance to a standard double hull tanker of the same size having a O<sub>M</sub> < = 0.015.   
+
+| --- | --- | --- |
+|:---|:---|:---|
+| --- | O<sub>M</sub> ≤ 0.021  | for C ≤ 100,000 m<sup>3</sup>  |
+| --- | O<sub>M</sub> ≤ 0.015 + (0.006/100,000) (200,000-C)  | for 100,000 m<sup>3</sup> < C ≤ 200,000 m<sup>3</sup>  |
+
+where:O<sub>M</sub> = mean oil outflow parameter.C = total volume of cargo oil, in m3, at 98% tank filling  
+
+.2 for oil tankers of less than 5,000 tonnes deadweight (DWT): The length of each cargo tank shall not exceed 10 m or one of the following values, whichever is the greater:
+
+.1 where no longitudinal bulkhead is provided inside the cargo tanks: ![10000053352](http://wetten.overheid.nl/Illustration/10000053352)
+
+.2 where a centreline longitudinal bulkhead is provided inside the cargo tanks:  ![10000053353](http://wetten.overheid.nl/Illustration/10000053353)
+
+.3 where two or more longitudinal bulkheads are provided inside the cargo tanks: 
+
+.1 for wing cargo tanks: 0.2L  
+
+.2 for centre cargo tanks: 
+
+.1 if ![10000053355](http://wetten.overheid.nl/Illustration/10000053355)
+
+.2 if ![10000053356](http://wetten.overheid.nl/Illustration/10000053356)
+
+- where no centreline longitudinal bulkhead is provided: ![10000053357](http://wetten.overheid.nl/Illustration/10000053357)
+
+- where a centreline longitudinal bulkhead is provided: ![10000053358](http://wetten.overheid.nl/Illustration/10000053358)
+
+.4 *b<sub>i</sub> * is the minimum distance from the ship’s side to the outer longitudinal bulkhead of the tank in question measured inboard at right angles to the centreline at the level corresponding to the assigned summer freeboard.     
+4.  The following general assumptions shall apply when calculating the mean oil outflow parameter: 
+
+.1 The cargo block length extends between the forward and aft extremities of all tanks arranged for the carriage of cargo oil, including slop tanks.  
+
+.2 Where this regulation refers to cargo tanks, it shall be understood to include all cargo tanks, slop tanks and fuel tanks located within the cargo block length.  
+
+.3 The ship shall be assumed loaded to the load line draught dS without trim or heel.  
+
+.4 All cargo oil tanks shall be assumed loaded to 98% of their volumetric capacity. The nominal density of the cargo oil (ρn) shall be calculated as follows:  
+
+ρn = 1000 (DWT)/C (kg/m<sup>3</sup>)  
+
+.5 For the purposes of these outflow calculations, the permeability of each space within the cargo block, including cargo tanks, ballast tanks and other non-oil spaces shall be taken as 0.99, unless proven otherwise.  
+
+.6 Suction wells may be neglected in the determination of tank location provided that such wells are as small as practicable and the distance between the well bottom and bottom shell plating is not less than 0.5h, where h is the height as defined in regulation 19.3.2.      
+5.  The following assumptions shall be used when combining the oil outflow parameters: 
+
+.1 The mean oil outflow shall be calculated independently for side damage and for bottom damage and then combined into the non-dimensional oil outflow parameter O<sub>M</sub>, as follows:  
+
+O<sub>M</sub> = (0.4 O<sub>MS</sub> + 0.6 O<sub>MB</sub> ) / C  
+
+where: 
+
+O<sub>MS</sub> = mean outflow for side damage, in m<sup>3</sup>; and 
+
+O<sub>MB</sub> = mean outflow for bottom damage, in m<sup>3</sup>.  
+
+.2 For bottom damage, independent calculations for mean outflow shall be done for 0 m and minus 2.5 m tide conditions, and then combined as follows:  
+
+O<sub>MB</sub> = 0.7 O<sub>MB(0)</sub> + 0.3 O<sub>MB(2.5)</sub>   
+
+where: 
+
+O<sub>MB(0)</sub> = mean outflow for 0 m tide condition; and 
+
+O<sub>MB(2.5)</sub> = mean outflow for minus 2.5 m tide condition, in m<sup>3</sup>.     
+6.  The mean outflow for side damage OMS shall be calculated as follows: ![10000053359](http://wetten.overheid.nl/Illustration/10000053359)
+where:  
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| --- | i  | =  | represents each cargo tank under consideration;   |
+| --- | n  | =  | total number of cargo tanks;   |
+| --- | P<sub>S(i)</sub>   | =  | the probability of penetrating cargo tank i from side damage, calculated in accordance with paragraph 8.1 of this regulation;  |
+| --- | O<sub>S(i)</sub>   | =  | the outflow, in m<sup>3</sup>, from side damage to cargo tank i, which is assumed equal to the total volume in cargo tank i at 98% filling, unless it is proven through the application of the Guidelines referred to in regulation 19.5 that any significant cargo volume will be retained; and  |
+| --- | C<sub>3</sub>   | =  | 0.77 for ships having two longitudinal bulkheads inside the cargo tanks, provided these bulkheads are continuous over the cargo block and P<sub>s(i)</sub> is developed in accordance with this regulation. C<sub>3</sub> equals 1.0 for all other ships or when P<sub>s(i)</sub> is developed in accordance with paragraph 10 of this regulation.  |
+
+7.  The mean outflow for bottom damage shall be calculated for each tidal condition as follows: 
+
+.1 ![10000053360](http://wetten.overheid.nl/Illustration/10000053360)
+where:  
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| --- | i  | =  | represents each cargo tank under consideration;   |
+| --- | n  | =  | the total number of cargo tanks;   |
+| --- | P<sub>B(i)</sub>   | =  | the probability of penetrating cargo tank i from bottom damage, calculated in accordance with, paragraph 9.1 of this regulation;  |
+| --- | O<sub>B(i)</sub>   | =  | the outflow from cargo tank i, in m3, calculated in accordance with paragraph 7.3 of this regulation; and   |
+| --- | C<sub>DB(i)</sub>   | =  | factor to account for oil capture as defined in paragraph 7.4 of this regulation  |
+
+.2 ![10000053361](http://wetten.overheid.nl/Illustration/10000053361)
+where:
+
+i,n, P<sub>B(i)</sub> and C<sub>DB(i)</sub> = as defined in subparagraph .1 above;
+
+O<sub>B(i)</sub> = the outflow from cargo tank i, in m<sup>3</sup>, after tidal change 
+
+.3 The oil outflow O<sub>B(i)</sub> for each cargo oil tank shall be calculated based on pressure balance principles, in accordance with the following assumptions: 
+
+.1 The ship shall be assumed stranded with zero trim and heel, with the stranded draught prior to tidal change equal to the load line draught d<sub>s</sub>.  
+
+.2 The cargo level after damage shall be calculated as follows: h<sub>c</sub> = {(d<sub>s</sub> + t<sub>c</sub>- Z<sub>l</sub>) (ρ<sub>s</sub>) - (1000 p) / g }/ρ<sub>n</sub>  where:  
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| --- | h<sub>c</sub>   | =  | the height of the cargo oil above Z<sub>l</sub>, in metres;   |
+| --- | t<sub>c</sub>   | =  | the tidal change, in m. Reductions in tide shall be expressed as negative values;  |
+| --- | Z<sub>l</sub>   | =  | the height of the lowest point in the cargo tank above baseline, in m;   |
+| --- | ρ <sub>s</sub>   | =  | density of seawater, to be taken as 1,025 kg/m<sup>3</sup>;   |
+| --- | p  | =  | if an inert gas system is fitted, the normal overpressure, in kPa, to be taken as not less than 5 kPa; if an inert gas system is not fitted, the overpressure may be taken as 0;  |
+| --- | g  | =  | the acceleration of gravity, to be taken as 9.81 m/s<sup>2</sup>; and   |
+| --- | ρ <sub>n</sub>   | =  | nominal density of cargo oil, calculated in accordance with paragraph 4.4 of this regulation.  |
+
+.3 For cargo tanks bounded by the bottom shell, unless proven otherwise, oil outflow O<sub>B(i)</sub> shall be taken not less than 1% of the total volume of cargo oil loaded in cargo tank i, to account for initial exchange losses and dynamic effects due to current and waves.  
+
+.4 In the case of bottom damage, a portion from the outflow from a cargo tank may be captured by non-oil compartments. This effect is approximated by application of the factor C<sub>DB(i)</sub> for each tank, which shall be taken as follows: C<sub>DB(i)</sub> = 0.6 for cargo tanks bounded from below by non-oil compartments; C<sub>DB(i)</sub> = 1.0 for cargo tanks bounded by the bottom shell.    
+8.  The probability PS of breaching a compartment from side damage shall be calculated as follows:<sub>S</sub> of breaching a compartment from side damage shall be calculated as follows: 
+
+.1 P<sub>S</sub> = P<sub>SL</sub> P<sub>SV</sub>P<sub>ST</sub> where:  
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| --- | P<sub>SL</sub> =1 - P<sub>Sf</sub> - P<sub>Sa</sub>   | =  | probability the damage will extend into the longitudinal zone bounded by X<sub>a</sub> and X<sub>f</sub>;   |
+| --- | P<sub>SV</sub> = 1 - P<sub>Su</sub> - P<sub>S1</sub>   | =  | probability the damage will extend into the vertical zone bounded by Z<sub>l</sub> and Z<sub>u</sub>; and  |
+| --- | P<sub>ST</sub> = 1 - P<sub>Sy</sub>   | =  | probability the damage will extend transversely beyond the boundary defined by y.  |
+
+.2 P<sub>Sa</sub>, P<sub>Sf</sub>, P<sub>Sl</sub>, P<sub>Su</sub> and P<sub>Sy</sub> shall be determined by linear interpolation from the table of probabilities for side damage provided in paragraph 8.3 of this regulation, where:   
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| --- | P<sub>Sa</sub>   | =  | the probability the damage will lie entirely aft of location X<sub>a</sub>/L;   |
+| --- | P<sub>Sf</sub>   | =  | the probability the damage will lie entirely forward of location X<sub>f</sub>/L;  |
+| --- | P<sub>Sl</sub>   | =  | the probability the damage will lie entirely below the tank;   |
+| --- | P<sub>Su</sub>   | =  | the probability the damage will lie entirely above the tank; and  |
+| --- | P<sub>Sy</sub>   | =  | the probability the damage will lie entirely outboard of the tank.  |
+
+Compartment boundaries X<sub>a</sub>, X<sub>f</sub>, Z<sub>l</sub>, Z<sub>u</sub> and y shall be developed as follows:  
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| --- | X<sub>a</sub>   | =  | the longitudinal distance from the aft terminal of L to the aftmost point on the compartment being considered, in metres;  |
+| --- | X<sub>f</sub>   | =  | the longitudinal distance from the aft terminal of L to the foremost point on the compartment being considered, in metres;   |
+| --- | Z<sub>l</sub>   | =  | the vertical distance from the moulded baseline to the lowest point on the compartment being considered, in metres;   |
+| --- | Z<sub>u</sub>   | =  | the vertical distance from the moulded baseline to the highest point on the compartment being considered, in metres. Z<sub>u</sub> is not to be taken greater than D<sub>s</sub>; and   |
+| --- | y  | =  | the minimum horizontal distance measured at right angles to the centreline between the compartment under consideration and the side shell in metres;  |
+
+.3 Table of probabilities for side damage   
+
+|  X<sub>a</sub>/L  | P<sub>Sa</sub>   |--- | X<sub>f</sub>/L  | P<sub>Sf</sub>   |--- | Z<sub>l</sub>/D<sub>S</sub>   | P<sub>Sl</sub>   |--- | Z<sub>u</sub>/S<sub>S</sub>   | P<sub>Su</sub>   |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  0.00  | 0.000  | --- | 0.00  | 0.967  | --- | 0.00  | 0.000  | --- | 0.00  | 0.968  |
+|  0.05  | 0.023  | --- | 0.05  | 0.917  | --- | 0.05  | 0.000  | --- | 0.05  | 0.952  |
+|  0.10  | 0.068  | --- | 0.10  | 0.867  | --- | 0.10  | 0.001  | --- | 0.10  | 0.931  |
+|  0.15  | 0.117  | --- | 0.15  | 0.817  | --- | 0.15  | 0.003  | --- | 0.15  | 0.905  |
+|  0.20  | 0.167  | --- | 0.20  | 0.767  | --- | 0.20  | 0.007  | --- | 0.20  | 0.873  |
+|  0.25  | 0.217  | --- | 0.25  | 0.717  | --- | 0.25  | 0.013  | --- | 0.25  | 0.836  |
+|  0.30  | 0.267  | --- | 0.30  | 0.667  | --- | 0.30  | 0.021  | --- | 0.30  | 0.789  |
+|  0.35  | 0.317  | --- | 0.35  | 0.617  | --- | 0.35  | 0.034  | --- | 0.35  | 0.733  |
+|  0.40  | 0.367  | --- | 0.40  | 0.567  | --- | 0.40  | 0.055  | --- | 0.40  | 0.670  |
+|  0.45  | 0.417  | --- | 0.45  | 0.517  | --- | 0.45  | 0.085  | --- | 0.45  | 0.599  |
+|  0.50  | 0.467  | --- | 0.50  | 0.467  | --- | 0.50  | 0.123  | --- | 0.50  | 0.525  |
+|  0.55  | 0.517  | --- | 0.55  | 0.417  | --- | 0.55  | 0.172  | --- | 0.55  | 0.452  |
+|  0.60  | 0.567  | --- | 0.60  | 0.367  | --- | 0.60  | 0.226  | --- | 0.60  | 0.383  |
+|  0.65  | 0.617  | --- | 0.65  | 0.317  | --- | 0.65  | 0.285  | --- | 0.65  | 0.317  |
+|  0.70  | 0.667  | --- | 0.70  | 0.267  | --- | 0.70  | 0.347  | --- | 0.70  | 0.255  |
+|  0.75  | 0.717  | --- | 0.75  | 0.217  | --- | 0.75  | 0.413  | --- | 0.75  | 0.197  |
+|  0.80  | 0.767  | --- | 0.80  | 0.167  | --- | 0.80  | 0.482  | --- | 0.80  | 0.143  |
+|  0.85  | 0.817  | --- | 0.85  | 0.117  | --- | 0.85  | 0.553  | --- | 0.85  | 0.092  |
+|  0.90  | 0.867  | --- | 0.90  | 0.068  | --- | 0.90  | 0.626  | --- | 0.90  | 0.046  |
+|  0.95  | 0.917  | --- | 0.95  | 0.023  | --- | 0.95  | 0.700  | --- | 0.95  | 0.013  |
+|  1.00  | 0.967  | --- | 1.00  | 0.000  | --- | 1.00  | 0.775  | --- | 1.00  | 0.000  |
+
+P<sub>Sy</sub> shall be calculated as follows:  
+
+P<sub>Sy</sub> = (24.96 -199.6 y/B<sub>S</sub>) (y/B<sub>S</sub>) for y/B<sub>S</sub> ≤ 0.05   
+
+P<sub>Sy</sub> = 0.749 + {5 -44.4 (y/B<sub>S</sub> - 0.05)} (y/B<sub>S</sub> - 0.05) for 0.05 < y/B<sub>S</sub> < 0.1   
+
+P<sub>Sy</sub> = 0.888 + 0.56 (y/B<sub>S</sub> - 0.1) for y/B<sub>S</sub> ≤ 0.1   P<sub>Sy</sub> shall not be taken greater than 1.   
+9.  The probability PB of breaching a compartment from bottom damage shall be calculated as follows: 
+
+.1 P<sub>B</sub> = P<sub>BL</sub> P<sub>BT</sub>P<sub>BV</sub>  where:  
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| --- | P<sub>BL</sub> = 1 - P<sub>Bf</sub> - P<sub>Ba</sub>   | =  | probability the damage will extend into the longitudinal zone bounded by X<sub>a</sub> and X<sub>f</sub>;   |
+| --- | P<sub>BT</sub> = 1 - P<sub>Bp</sub> - P<sub>Bs</sub>   | =  | probability the damage will extend into the transverse zone bounded by Y<sub>p</sub> and Y<sub>s</sub>; and  |
+| --- | P<sub>BV</sub> = 1 - P<sub>Bz</sub>   | =  | probability the damage will extend vertically above the boundary defined by z.  |
+
+.2 P<sub>Ba</sub>, P<sub>Bf</sub>, P<sub>Bp</sub>, P<sub>Bs</sub>, and P<sub>Bz</sub> shall be determined by linear interpolation from the table of probabilities for bottom damage provided in paragraph 9.3 of this regulation, where:   
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| --- | P<sub>Ba</sub>   | =  | the probability the damage will lie entirely aft of location X<sub>a</sub>/L;   |
+| --- | P<sub>Bf</sub>   | =  | the probability the damage will lie entirely forward of location X<sub>f</sub>/L;  |
+| --- | P<sub>Bp</sub>   | =  | the probability the damage will lie entirely to port of the tank;   |
+| --- | P<sub>Bs</sub>   | =  | the probability the damage will lie entirely to starboard of the tank; and  |
+| --- | P<sub>Bz</sub>   | =  | the probability the damage will lie entirely below the tank.  |
+
+Compartment boundaries X<sub>a</sub>, X<sub>f</sub>, Y<sub>p</sub>, Y<sub>s</sub>, and z shall be developed as follows:   
+
+| --- | --- | --- | --- |
+|:---|:---|:---|:---|
+| --- | X<sub>a</sub> and X<sub>f</sub> are as defined in paragraph 8.2 of this regulation;  |
+| --- | Y<sub>p</sub>   | =  | the transverse distance from the port-most point on the compartment located at or below the waterline d<sub>B</sub>, to a vertical plane located B<sub>B</sub> /2 to starboard of the ship’s centreline, in metres;  |
+| --- | Ys  | =  | the transverse distance from the starboard-most point on the compartment located at or below the waterline d<sub>B</sub>, to a vertical plane located B<sub>B</sub> /2 to starboard of the ship’s centreline, in metres; and  |
+| --- | z  | =  | the minimum value of z over the length of the compartment, where, at any given longitudinal location, z is the vertical distance from the lowerpoint of the bottom shell at that longitudinal  |
+| --- | --- | --- | location to the lower point of the compartment at that longitudinal location, in metres.  |
+
+.3 Table of probabilities for bottom damage  
+
+|  X<sub>a</sub>/L  | P<sub>Ba</sub>   |--- | X<sub>f</sub>/L  | P<sub>Bf</sub>   |--- | Y<sub>p</sub>/B<sub>B</sub>   | P<sub>Bp</sub>   |--- | Y<sub>s</sub>/B <sub>B</sub>   | P<sub>Bs</sub>   |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  0.00  | 0.000  | --- | 0.00  | 0.969  | --- | 0.00  | 0.844  | --- | 0.00  | 0.000  |
+|  0.05  | 0.002  | --- | 0.05  | 0.953  | --- | 0.05  | 0.794  | --- | 0.05  | 0.009  |
+|  0.10  | 0.008  | --- | 0.10  | 0.936  | --- | 0.10  | 0.744  | --- | 0.10  | 0.032  |
+|  0.15  | 0.017  | --- | 0.15  | 0.916  | --- | 0.15  | 0.694  | --- | 0.15  | 0.063  |
+|  0.20  | 0.029  | --- | 0.20  | 0.894  | --- | 0.20  | 0.644  | --- | 0.20  | 0.097  |
+|  0.25  | 0.042  | --- | 0.25  | 0.870  | --- | 0.25  | 0.594  | --- | 0.25  | 0.133  |
+|  0.30  | 0.058  | --- | 0.30  | 0.842  | --- | 0.30  | 0.544  | --- | 0.30  | 0.171  |
+|  0.35  | 0.076  | --- | 0.35  | 0.810  | --- | 0.35  | 0.494  | --- | 0.35  | 0.211  |
+|  0.40  | 0.096  | --- | 0.40  | 0.775  | --- | 0.40  | 0.444  | --- | 0.40  | 0.253  |
+|  0.45  | 0.119  | --- | 0.45  | 0.734  | --- | 0.45  | 0.394  | --- | 0.45  | 0.297  |
+|  0.50  | 0.143  | --- | 0.50  | 0.687  | --- | 0.50  | 0.344  | --- | 0.50  | 0.344  |
+|  0.55  | 0.171  | --- | 0.55  | 0.630  | --- | 0.55  | 0.297  | --- | 0.55  | 0.394  |
+|  0.60  | 0.203  | --- | 0.60  | 0.563  | --- | 0.60  | 0.253  | --- | 0.60  | 0.444  |
+|  0.65  | 0.242  | --- | 0.65  | 0.489  | --- | 0.65  | 0.211  | --- | 0.65  | 0.494  |
+|  0.70  | 0.289  | --- | 0.70  | 0.413  | --- | 0.70  | 0.171  | --- | 0.70  | 0.544  |
+|  0.75  | 0.344  | --- | 0.75  | 0.333  | --- | 0.75  | 0.133  | --- | 0.75  | 0.594  |
+|  0.80  | 0.409  | --- | 0.80  | 0.252  | --- | 0.80  | 0.097  | --- | 0.80  | 0.644  |
+|  0.85  | 0.482  | --- | 0.85  | 0.170  | --- | 0.85  | 0.063  | --- | 0.85  | 0.694  |
+|  0.90  | 0.565  | --- | 0.90  | 0.089  | --- | 0.90  | 0.032  | --- | 0.90  | 0.744  |
+|  0.95  | 0.658  | --- | 0.95  | 0.026  | --- | 0.95  | 0.009  | --- | 0.95  | 0.794  |
+|  1.00  | 0.761  | --- | 1.00  | 0.000  | --- | 1.00  | 0.000  | --- | 1.00  | 0.844  |
+
+P<sub>Bz</sub> shall be calculated as follows:  
+
+P<sub>Bz</sub> = (14.5 - 67 z/D<sub>S</sub>) (z/D<sub>S</sub>) for z/D<sub>S</sub> ≤ 0.1,  
+
+P<sub>Bz</sub> = 0.78 + 1.1 (z/D<sub>S</sub> - 0.1) for z/D<sub>S</sub> > 0.1.  P<sub>Bz</sub> shall not be taken greater than 1.   
+10.  This regulation uses a simplified probabilistic approach where a summation is carried out over the contributions to the mean outflow from each cargo tank. For certain designs such as those characterized by the occurrence of steps/recesses in bulkheads/decks and for sloping bulkheads and/or a pronounced hull curvature, more rigorous calculations may be appropriate. In such cases one of the following calculation procedures may be applied: 
+
+.1 The probabilities referred to in 8 and 9 above may be calculated with more precision through application of hypothetical sub-compartments.  
+
+.2 The probabilities referred to in 8 and 9 above may be calculated through direct application of the probability density functions contained in the Guidelines referred to in regulation 19.5.   
+
+.3 The oil outflow performance may be evaluated in accordance with the method described in the Guidelines referred to in regulation 19.5.     
+11.  The following provisions regarding piping arrangements shall apply: 
+
+.1 Lines of piping that run through cargo tanks in a position less than 0.30B<sub>s</sub> from the ship’s side or less than 0.30D<sub>s</sub> from the ship’s bottom shall be fitted with valves or similar closing devices at the point at which they open into any cargo tank. These valves shall be kept closed at sea at any time when the tanks contain cargo oil, except that they may be opened only for cargo transfer needed for essential cargo operations.  
+
+.2 Credit for reducing oil outflow through the use of an emergency rapid cargo transfer system or other system arranged to mitigate oil outflow in the event of an accident may be taken into account only after the effectiveness and safety aspects of the system are approved by the Organization. Submittal for approval shall be made in accordance with the provisions of the Guidelines referred to in regulation 19.5.   
 
 ### Regulation  24  
 
@@ -1884,7 +2345,7 @@ Subject to the provisions of paragraphs 4 and 5 of regulation 3 of this Annex, o
 ####Scope of application
 
 1.  The regulations contained in this chapter apply to oil tankers of 150 gross tonnage and above engaged in the transfer of oil cargo between oil tankers at sea (STS operations) and their STS operations conducted on or after 1 April 2012. However, STS operations conducted before that date but after the approval of the Administration of STS operations Plan required under regulation 41.1 shall be in accordance with the STS operations Plan as far as possible.   
-2.  The regulations contained in this chapter shall not apply to oil transfer operations associated with fixed or floating platforms including drilling rigs; floating production, storage and offloading facilities (FPSOs) used for the offshore production and storage of oil; and floating storage units (FSUs) used for the offshore storage of produced oil<sup> 1) Revised Annex I of MARPOL, chapter 7 (resolution MEPC.117(52)) and UNCLOS article 56 are applicable and address these operations. </sup> .   
+2.  The regulations contained in this chapter shall not apply to oil transfer operations associated with fixed or floating platforms including drilling rigs; floating production, storage and offloading facilities (FPSOs) used for the offshore production and storage of oil; and floating storage units (FSUs) used for the offshore storage of produced oil .   
 3.  The regulations contained in this chapter shall not apply to bunkering operations.   
 4.  The regulations contained in this chapter shall not apply to STS operations necessary for the purpose of securing the safety of a ship or saving life at sea, or for combating specific pollution incidents in order to minimize the damage from pollution.   
 5.  The regulations contained in this chapter shall not apply to STS operations where either of the ships involved is a warship, naval auxiliary or other ship owned or operated by a State and used, for the time being, only on government non-commercial service. However, each State shall ensure, by the adoption of appropriate measures not impairing operations or operational capabilities of such ships that the STS operations are conducted in a manner consistent, so far as is reasonable and practicable, with this chapter.  
@@ -1894,17 +2355,17 @@ Subject to the provisions of paragraphs 4 and 5 of regulation 3 of this Annex, o
 ####General Rules on safety and environmental protection
 
 1.  Any oil tanker involved in STS operations shall carry on board a Plan prescribing how to conduct STS operations (STS operations Plan) not later than the date of the first annual, intermediate or renewal survey of the ship to be carried out on or after 1 January 2011. Each oil tanker’s STS operations Plan shall be approved by the Administration. The STS operations Plan shall be written in the working language of the ship.   
-2.  The STS operations Plan shall be developed taking into account the information contained in the best practice guidelines for STS operations identified by the Organization<sup> 2) IMO’s “Manual on Oil Pollution, Section I, Prevention” as amended, and the ICS and OCIMF “Ship-to-ship Transfer Guide, Petroleum”, fourth edition, 2005. </sup> . The STS operations Plan may be incorporated into an existing Safety Management System required by chapter IX of the International Convention for the Safety of Life at Sea, 1974, as amended, if that requirement is applicable to the oil tanker in question.   
+2.  The STS operations Plan shall be developed taking into account the information contained in the best practice guidelines for STS operations identified by the Organization . The STS operations Plan may be incorporated into an existing Safety Management System required by chapter IX of the International Convention for the Safety of Life at Sea, 1974, as amended, if that requirement is applicable to the oil tanker in question.   
 3.  Any oil tanker subject to this chapter and engaged in STS operations shall comply with its STS operations Plan.   
-4.  The person in overall advisory control of STS operations shall be qualified to perform all relevant duties, taking into account the qualifications contained in the best practice guidelines for STS operations identified by the Organization<sup> 3) IMO’s “Manual on Oil Pollution, Section I, Prevention” as amended, and the ICS and OCIMF “Ship-to-ship Transfer Guide, Petroleum”, fourth edition, 2005. </sup> .   
-5.  Records<sup> 4) Revised Annex I of MARPOL chapters 3 and 4 (resolution MEPC.117(52)); requirements for recording bunkering and oil cargo transfer operations in the Oil Record Book, and any records required by the STS operations Plan. </sup> of STS operations shall be retained on board for three years and be readily available for inspection by a Party to the present Convention.  
+4.  The person in overall advisory control of STS operations shall be qualified to perform all relevant duties, taking into account the qualifications contained in the best practice guidelines for STS operations identified by the Organization .   
+5.  Records of STS operations shall be retained on board for three years and be readily available for inspection by a Party to the present Convention.  
 
 ### Regulation  42  
 
 ####Notification
 
 1.  Each oil tanker subject to this chapter that plans STS operations within the territorial sea, or the exclusive economic zone of a Party to the present Convention shall notify that Party not less than 48 hours in advance of the scheduled STS operations. Where, in an exceptional case, all of the information specified in paragraph 2 is not available not less than 48 hours in advance, the oil tanker discharging the oil cargo shall notify the Party to the present Convention, not less than 48 hours in advance that an STS operation will occur and the information specified in paragraph 2 shall be provided to the Party at the earliest opportunity.   
-2.  The notification specified in paragraph 1 of this regulation<sup> 5) The national operational contact point as listed in document MSC-MEPC.6/Circ.4 of 31 December 2007 or its subsequent amendments. </sup> shall include at least the following: 
+2.  The notification specified in paragraph 1 of this regulation shall include at least the following: 
 
 .1. name, flag, call sign, IMO Number and estimated time of arrival of the oil tankers involved in the STS operations;  
 
@@ -1980,14 +2441,38 @@ Solvent Petroleum Heartcut distillate oil
 ![10000053376](http://wetten.overheid.nl/Illustration/10000053376)
 ![10000053377](http://wetten.overheid.nl/Illustration/10000053377)
 ![10000053686](http://wetten.overheid.nl/Illustration/10000053686)
-![10000053378](http://wetten.overheid.nl/Illustration/10000053378)
+![10000056753](http://wetten.overheid.nl/Illustration/10000056753)
+
+3.2Means for the disposal of residues in addition to the provisions of sludge tanks:
+
+3.2.1Incinerator for oil residues (sludge) .......... □
+
+3.2.2Auxiliary boiler suitable for burning oil residues □
+
+3.2.3Tank for mixing oil residues with fuel oil, capacity ..... m<sup>3</sup> □ 
+
+3.2.4Other acceptable means: ........................ □
+
+3.3The ship is provided with holding tank(s) for the retention on board of oily bilge water as follows:![10000056754](http://wetten.overheid.nl/Illustration/10000056754)
 ![10000053379](http://wetten.overheid.nl/Illustration/10000053379)
 ![10000053380](http://wetten.overheid.nl/Illustration/10000053380)
 ![10000053381](http://wetten.overheid.nl/Illustration/10000053381)
 ![10000053382](http://wetten.overheid.nl/Illustration/10000053382)
 ![10000053383](http://wetten.overheid.nl/Illustration/10000053383)
 ![10000053687](http://wetten.overheid.nl/Illustration/10000053687)
-![10000053384](http://wetten.overheid.nl/Illustration/10000053384)
+![10000056755](http://wetten.overheid.nl/Illustration/10000056755)
+
+3.2Means for the disposal of residues in addition to the provisions of sludge tanks:
+
+3.2.1Incinerator for oil residues (sludge) .............. □
+
+3.2.2Auxiliary boiler suitable for burning oil residues □
+
+3.2.3Tank for mixing oil residues with fuel oil, capacity .......... m<sup>3</sup> □
+
+3.2.4Other acceptable means: ..................... □
+
+3.3The ship is provided with holding tank(s) for the retention on board of oily bilge water as follows:![10000056756](http://wetten.overheid.nl/Illustration/10000056756)
 ![10000053385](http://wetten.overheid.nl/Illustration/10000053385)
 ![10000053386](http://wetten.overheid.nl/Illustration/10000053386)
 ![10000053387](http://wetten.overheid.nl/Illustration/10000053387)
@@ -2047,7 +2532,7 @@ The following pages of this section show a comprehensive list of items of machin
 
 (C) *Collection, transfer and disposal of oil residues (sludge)*  
 
-11. Collection of oil residues (sludge). Quantities of oil residues (sludge) retained on board. The quantity should be recorded weekly<sup> 1) Only those tanks listed in item 3.1 of Forms A and B of the Supplement to the IOPP Certificate used for oil residues (sludge). </sup> : (this means that the quantity must be recorded once a week even if the voyage lasts more than one week): 
+11. Collection of oil residues (sludge). Quantities of oil residues (sludge) retained on board. The quantity should be recorded weekly : (this means that the quantity must be recorded once a week even if the voyage lasts more than one week): 
 
 .1. identity of tank(s)  
 
@@ -2059,7 +2544,7 @@ The following pages of this section show a comprehensive list of items of machin
 
 12. Methods of transfer or disposal of oil residues (sludge). State quantity of oil residues transferred or disposed of, the tank(s) emptied and the quantity of contents retained in m<sup>3</sup>: 
 
-.1. to reception facilities (identify port)<sup> 2) The ship’s master should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part I, may aid the master of the ship in proving that the ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book Part I. </sup> ;  
+.1. to reception facilities (identify port) ;  
 
 .2. to another (other) tank(s) (indicate tank(s) and the total content of tank(s));  
 
@@ -2069,7 +2554,7 @@ The following pages of this section show a comprehensive list of items of machin
 
 (D) *Non-automatic starting of discharge overboard, transfer or disposal otherwise of bilge water which has accumulated in machinery spaces*
 
-13. Quantity discharged, transferred or disposed of, in m<sup>3</sup>.<sup> 3) In case of discharge or disposal of bilge water from holding tank(s), state identity and capacity of holding tank(s) and quantity retained in holding tank. </sup>   
+13. Quantity discharged, transferred or disposed of, in m<sup>3</sup>.   
 
 14. Time of discharge, transfer or disposal (start and stop).  
 
@@ -2077,7 +2562,7 @@ The following pages of this section show a comprehensive list of items of machin
 
 .1. through 15 ppm equipment (state position at start and end);  
 
-.2. to reception facilities (identify port)<sup> 2) The ship’s master should obtain from the operator of the reception facilities, which includes barges and tank trucks, a receipt or certificate detailing the quantity of tank washings, dirty ballast, residues or oily mixtures transferred, together with the time and date of the transfer. This receipt or certificate, if attached to the Oil Record Book Part I, may aid the master of the ship in proving that the ship was not involved in an alleged pollution incident. The receipt or certificate should be kept together with the Oil Record Book Part I. </sup>;  
+.2. to reception facilities (identify port);  
 
 .3. to slop tank or holding tank or other tank(s) (indicate tank(s); state quantity retained in tank(s), in m<sup>3</sup>).     
 
@@ -2091,7 +2576,7 @@ The following pages of this section show a comprehensive list of items of machin
 
 (F) *Condition of the oil filtering equipment*
 
-19. Time of system failure<sup> 4) The condition of the oil filtering equipment covers also the alarm and automatic stopping devices, if applicable. </sup> .  
+19. Time of system failure .  
 
 20. Time when system has been made operational.  
 
@@ -3555,19 +4040,19 @@ Category Y, Solidifying or High-Viscosity Substance k = 1.0   The table below is
 
 ####REGULATIONS FOR THE PREVENTION OF POLLUTION BY HARMFUL SUBSTANCES CARRIED BY SEA IN PACKAGED FORM
 
-###Regulation 1 
+### Regulation  1  
 
 ####Application
 
-1. Unless expressly provided otherwise, the regulations of this Annex apply to all ships carrying harmful substances in packaged form.
+1.  Unless expressly provided otherwise, the regulations of this Annex apply to all ships carrying harmful substances in packaged form. 
 
-.1.For the purpose of this Annex, “harmful substances” are those substances which are identified as marine pollutants in the International Maritime Dangerous Goods Code (IMDG Code)<sup>1)Refer to the IMDG Code adopted by the Organization by resolution MSC.122(75), as amended by the Maritime Safety Committee.</sup>or which meet the criteria in the Appendix of this Annex.
+.1. For the purpose of this Annex, “harmful substances” are those substances which are identified as marine pollutants in the International Maritime Dangerous Goods Code (IMDG Code)<sup> 1) Refer to the IMDG Code adopted by the Organization by resolution MSC.122(75), as amended by the Maritime Safety Committee. </sup> or which meet the criteria in the Appendix of this Annex.  
 
-.2.For the purposes of this Annex, “packaged form” is defined as the forms of containment specified for harmful substances in the IMDG Code. 
-2. The carriage of harmful substances is prohibited, except in accordance with the provisions of this Annex.
-3. To supplement the provisions of this Annex, the Government of each Party to the Convention shall issue, or cause to be issued, detailed requirements on packing, marking, labelling, documentation, stowage, quantity limitations and exceptions for preventing or minimizing pollution of the marine environment by harmful substances.<sup>1)Refer to the IMDG Code adopted by the Organization by resolution MSC.122(75), as amended by the Maritime Safety Committee.</sup> 
-4. For the purposes of this Annex, empty packagings which have been used previously for the carriage of harmful substances shall themselves be treated as harmful substances unless adequate precautions have been taken to ensure that they contain no residue that is harmful to the marine environment.
-5. The requirements of this Annex do not apply to ship's stores and equipment.
+.2. For the purposes of this Annex, “packaged form” is defined as the forms of containment specified for harmful substances in the IMDG Code.     
+2.  The carriage of harmful substances is prohibited, except in accordance with the provisions of this Annex.   
+3.  To supplement the provisions of this Annex, the Government of each Party to the Convention shal issue, or cause to be issued, detailed requirements on packing, marking, labelling, documentation, stowage, quantity limitations and exceptions for preventing or minimizing pollution of the marine environment by harmful substances.<sup> 1) Refer to the IMDG Code adopted by the Organization by resolution MSC.122(75), as amended by the Maritime Safety Committee. </sup>    
+4.  For the purposes of this Annex, empty packagings which have been used previously for the carriage of harmful substances shall themselves be treated as harmful substances unless adequate precautions have been taken to ensure that they contain no residue that is harmful to the marine environment.   
+5.  The requirements of this Annex do not apply to ship’s stores and equipment.  
 
 ###Regulation 2 
 
@@ -3584,10 +4069,13 @@ Packages shall be adequate to minimize the hazard to the marine environment, hav
 
 ### Regulation  4  
 
-####<sup> 2)  Reference to “documents” in this regulation does not preclude the use of electronic data processing (EDP) and electronic data interchange (EDI) transmission techniques as an aid to paper documentation.  </sup>Documentation
+####<sup> 3)  Reference to “documents” in this regulation does not preclude the use of electronic data processing (EDP) and electronic data interchange (EDI) transmission techniques as an aid to paper documentation.  </sup>Documentation
 
-1. Transport information relating to the carriage of harmful substances shall be in accordance with the relevant provisions of the IMDG Code and shall be made available to the person or organization designated by the port State authority.
-2. Each ship carrying harmful substances shall have a special list, manifest or stowage plan setting forth, in accordance with the relevant provisions of the IMDG Code, the harmful substances on board and the location thereof. A copy of one of these documents shall be made available before departure to the person or organization designated by the port State authority. 
+1.  In all documents relating to the carriage of harmful substances by sea where such substances are named, the correct technical name of each such substance shall be used (trade names alone shall not be used) and the substance further identified by the addition of the words “marine pollutant”.   
+2.  The shipping documents supplied by the shipper shall include, or be accompanied by, a signed certificate or declaration that the shipment offered for carriage is properly packaged and marked, labelled or placarded as appropriate and in proper condition for carriage to minimize the hazard to the marine environment.   
+3.  Each ship carrying harmful substances shall have a special list or manifest setting forth the harmful substances on board and the location thereof. A detailed stowage plan which sets out the location of the harmful substances on board may be used in place of such special list or manifest. Copies of such documents shall also be retained on shore by the owner of the ship or his representative until the harmful substances are unloaded. A copy of one of these documents shall be made available before departure to the person or organization designated by the port State authority.   
+4.  At any stopover, where any loading or unloading operations, even partial, are carried out, a revision of the documents listing the harmful substances taken on board, indicating their location on board or showing a detailed stowage plan, shall be made available before departure to the person or organization designated by the port State authority.   
+5.  When the ship carries a special list or manifest or a detailed stowage pla, required for the carriage of dangerous goods by the International Convention for the Safety of Life at Sea, 1974, as amended, the documents required by this regulation ma be combined wit those for dangerous goods. Where documents are combined, a clear distinction shall be made between dangerous goods and harmful substances covered by this Annex.  
 
 ###Regulation 5 
 
@@ -3608,20 +4096,20 @@ Certain harmful substances may, for sound scientific and technical reasons, need
 1. Jettisoning of harmful substances carried in packaged form shall be prohibited, except where necessary for the purpose of securing the safety of the ship or saving life at sea.
 2. Subject to the provisions of the present Convention, appropriate measures based on the physical, chemical and biological properties of harmful substances shall be taken to regulate the washing of leakages overboard, provided that compliance with such measures would not impair the safety of the ship and persons on board.
 
-###Regulation 8 
+### Regulation  8  
 
-####Port State control on operational requirements<sup>3) Refer to the Procedures for port State control adopted by the Organization by resolution A.787(19) and amended by resolution A.882(21). </sup>
+####Port State control on operational requirements<sup> 4)  Refer to the Procedures for port State control adopted by the Organization by resolution A.787(19) and amended by A.882(21).  </sup> 
 
-1. A ship when in a port or an offshore terminal of another Party is subject to inspection by officers duly authorized by such Party concerning operational requirements under this Annex.
-2. Where there are clear grounds for believing that the master or crew are not familiar with essential shipboard procedures relating to the prevention of pollution by harmful substances, the Party shall take such steps, including carrying out detailed inspection and, if required, will ensure that the ship shall not sail until the situation has been brought to order in accordance with the requirements of this Annex.
-3. Procedures relating to the port State control prescribed in article 5 of the present Convention shall apply to this regulation.
-4. Nothing in this regulation shall be construed to limit the rights and obligations of a Party carrying out control over operational requirements specifically provided for in the present Convention.
+1.  A ship when in a port or an offshore terminal of another Party is subject to inspection by officers duly authorized by such Party concerning operational requirements under this Annex, where there are clear grounds for believing that the master or crew are not familiar with essential shipboard procedures relating to the prevention of pollution by harmful substances.   
+2.  In the circumstances given in paragraph 1 of this regulation, the Party shall take such steps as will ensure that the ship shall not sail until the situation has been brought to order in accordance with the requirements of this Annex.   
+3.  Procedures relating to the port State control prescribed in article 5 of the present Convention shall apply to this regulation.   
+4.  Nothing in this regulation shall be construed to limit the rights and obligations of a Party carrying out control over operational requirements specifically provided for in the present Convention.  
 
 ####Appendix to Annex III
 
 *Criteria for the identification of harmful substances in packaged form* 
 
-For the purposes of this Annex, substances identified by any one of the following criteria are harmful substances<sup>1)The criteria are based on those developed by the United Nations Globally Harmonized System of Classification and Labelling of Chemicals (GHS), as amended.For definitions of acronyms or terms used in this appendix, refer to the relevant paragraphs of the IMDG Code.</sup>:
+For the purposes of this Annex, substances identified by any one of the following criteria are harmful substances:
 
 a)Acute (short-term) aquatic hazard
 
@@ -3737,29 +4225,29 @@ thence to a point on the coast of Australia
 
 in latitude 24°42’ S, longitude 153°15’ E  
 
-5bis.  *Special area* means a sea area where for recognized technical reasons in relation to its oceanographical and ecological condition and to the particular character of its traffic the adoption of special mandatory methods for the prevention of sea pollution by sewage is required. The special areas are: 
+6.  *Special area* means a sea area where for recognized technical reasons in relation to its oceanographical and ecological condition and to the particular character of its traffic the adoption of special mandatory methods for the prevention of sea pollution by sewage is required. The special areas are: 
 
 .1 the Baltic Sea area as defined in regulation 1.11.2 of Annex I; and  
 
-.2 any other sea area designated by the Organization in accordance with criteria and procedures for designation of special areas with respect to prevention of pollution by sewage from ships.<sup> 1) Refer to Assembly resolution A.927(22), Guidelines for the designation of special areas under MARPOL 73/78 and guidelines for the identification and designation of particularly sensitive sea areas. </sup>    
+.2 any other sea area designated by the Organization in accordance with criteria and procedures for designation of special areas with respect to prevention of pollution by sewage from ships.    
 
-6.“International voyage” means a voyage from a country to which the present Convention applies to a port outside such country, or conversely.
+7.“International voyage” means a voyage from a country to which the present Convention applies to a port outside such country, or conversely.
 
-7.“Person” means member of the crew and passengers. 
+8.“Person” means member of the crew and passengers. 
 
-7bis. A *passenger* means every person other than: 
+9. A *passenger* means every person other than: 
 
 .1 the master and the members of the crew or other persons employed or engaged in any capacity on board a ship on the business of that ship; and  
 
 .2 a child under one year of age.    
 
-7ter. A *passenger ship* means a ship which carries more than twelve passengers. For the application of regulation 11.3, a *new passenger ship* is a passenger ship: 
+10. A *passenger ship* means a ship which carries more than twelve passengers. For the application of regulation 11.3, a *new passenger ship* is a passenger ship: 
 
 .1 for which the building contract is placed, or in the absence of a building contract, the keel of which is laid, or which is in a similar stage of construction, on or after 1 January 2016; or  
 
 .2 the delivery of which is two years or more after 1 January 2016.   An *existing passenger ship* is a passenger ship which is not a new passenger ship. 
 
-8.“Anniversary date” means the day and the month of each year which will correspond to the date of expiry of the International Sewage Pollution Prevention Certificate. 
+11.“Anniversary date” means the day and the month of each year which will correspond to the date of expiry of the International Sewage Pollution Prevention Certificate. 
 
 ### Regulation  2  
 
@@ -3897,7 +4385,7 @@ The International Sewage Pollution Prevention Certificate shall be drawn up in t
 
 2. By derogation from paragraph 1, every passenger ship which, in accordance with regulation 2, is required to comply with the provisions of this Annex, and for which regulation 11.3 applies while in a special area, shall be equipped with one of the following sewage systems: 
 
-.1 a sewage treatment plant which shall be of a type approved by the Administration, taking into account the standards and test methods developed by the Organization,<sup> 2) Refer to the [draft 2012] Guidelines on Implementation of Effluent Standards and Performance Tests for Sewage Treatment Plants adopted by the Marine Environment Protection Committee of the Organization by [resolution MEPC....]. </sup> or  
+.1 a sewage treatment plant which shall be of a type approved by the Administration, taking into account the standards and test methods developed by the Organization, or  
 
 .2 a holding tank of the capacity to the satisfaction of the Administration for the retention of all sewage, having regard to the operation of the ship, the number of persons on board and other relevant factors. The holding tank shall be constructed to the satisfaction of the Administration and shall have a means to indicate visually the amount of its contents.   
 
@@ -3929,7 +4417,7 @@ For ships having a moulded depth of 5 metres and less, the inner diameter of the
 
 1. Subject to the provisions of regulation 3 of this Annex, the discharge of sewage into the sea is prohibited, except when: 
 
-.1 the ship is discharging comminuted and disinfected sewage using a system approved by the Administration in accordance with regulation 9.1.2 of this Annex at a distance of more than 3 nautical miles from the nearest land, or sewage which is not comminuted or disinfected at a distance of more than 12 nautical miles from the nearest land, provided that, in any case, the sewage that has been stored in holding tanks, or sewage originating from spaces containing living animals, shall not be discharged instantaneously but at a moderate rate when the ship is *en route* and proceeding at not less than 4 knots; the rate of discharge shall be approved by the Administration based upon standards developed by the Organization<sup> 3) Refer to the Recommendation on standards for the rate of discharge of untreated sewage from ships adopted by the Marine Environmental Protection Committee of the Organization by resolution MEPC.157(55). </sup>; or  
+.1 the ship is discharging comminuted and disinfected sewage using a system approved by the Administration in accordance with regulation 9.1.2 of this Annex at a distance of more than 3 nautical miles from the nearest land, or sewage which is not comminuted or disinfected at a distance of more than 12 nautical miles from the nearest land, provided that, in any case, the sewage that has been stored in holding tanks, or sewage originating from spaces containing living animals, shall not be discharged instantaneously but at a moderate rate when the ship is *en route* and proceeding at not less than 4 knots; the rate of discharge shall be approved by the Administration based upon standards developed by the Organization; or  
 
 .2the ship has in operation an approved sewage treatment plant which has been certified by the Administration to meet the operational requirements referred to in regulation 9.1.1 of this Annex, and the effluent shall not produce visible floating solids nor cause discoloration of the surrounding water.    
 
@@ -3938,9 +4426,9 @@ For ships having a moulded depth of 5 metres and less, the inner diameter of the
 
 3. Subject to the provisions of regulation 3 of this Annex, the discharge of sewage from a passenger ship within a special area shall be prohibited: 
 
-a)for new passenger ships on, or after 1 January 2016, subject to regulation 12bis, subparagraph 2; and  
+.1for new passenger ships on, or after 1 January 2016, subject to regulation 13, subparagraph 2; and  
 
-b)for existing passenger ships on, or after 1 January 2018, subject to regulation 12bis, subparagraph 2,   except when the following conditions are satisfied: the ship has in operation an approved sewage treatment plant which has been certified by the Administration to meet the operational requirements referred to in regulation 9.2.1 of this Annex, and the effluent shall not produce visible floating solids nor cause discoloration of the surrounding water.   
+.2for existing passenger ships on, or after 1 January 2018, subject to regulation 13, subparagraph 2,   except when the following conditions are satisfied: the ship has in operation an approved sewage treatment plant which has been certified by the Administration to meet the operational requirements referred to in regulation 9.2.1 of this Annex, and the effluent shall not produce visible floating solids nor cause discoloration of the surrounding water.   
 ###C General requirements
 
 4. When the sewage is mixed with wastes or waste water covered by other Annexes of MARPOL, the requirements of those Annexes shall be complied with in addition to the requirements of this Annex.   
@@ -3965,7 +4453,7 @@ b)for existing passenger ships on, or after 1 January 2018, subject to regulatio
 
 2.The Government of each Party shall notify the Organization for transmission to the Contracting Governments concerned of all cases where the facilities provided under this regulation are alleged to be inadequate. 
 
-### 12bis  
+### Regulation 13  
 
 ####Reception facilities for passenger ships in Special Areas
 
@@ -3983,7 +4471,7 @@ b)for existing passenger ships on, or after 1 January 2018, subject to regulatio
 
 ####PORT STATE CONTROL
 
-### Regulation  13  
+### Regulation  14  
 
 ####Port State control on operational requirements
 
@@ -4002,7 +4490,7 @@ Issued under the provisions of the International Convention for the Prevention o
 
 1. That the ship is equipped with a sewage treatment plant/comminuter/holding tank<sup>*)Delete as appropriate.</sup> and a discharge pipeline in compliance with regulations 9 and 10 of Annex IV of the Convention as follows:
 
-*1.1 Description of the sewage treatment plant: Type of sewage treatment plant ....Name of manufacturer ...The sewage treatment plant is certified by the Administration to meet the effluent standards as provided for in resolution MEPC.2(VI).The sewage treatment plant is certified by the Administration to meet the effluent standards as provided for in resolution MEPC.159(55).The sewage treatment plant is certified by the Administration to meet the effluent standards as provided for in [resolution MEPC....].<sup> 2) The number of the MEPC resolution will be inserted when the standards have been adopted by the MEPC at a future session. </sup> 
+*1.1 Description of the sewage treatment plant: Type of sewage treatment plant ....Name of manufacturer ...The sewage treatment plant is certified by the Administration to meet the effluent standards as provided for in resolution MEPC.2(VI).The sewage treatment plant is certified by the Administration to meet the effluent standards as provided for in resolution MEPC.159(55).The sewage treatment plant is certified by the Administration to meet the effluent standards as provided for in the guidelines developed by the Organisation. 
 
 *1.2 Description of comminuter: Type of comminuter ...............................................Name of manufacturer ............................................Standard of sewage after disinfection ......................
 
@@ -4158,7 +4646,11 @@ Unless expressly provided otherwise, the provisions of this Annex shall apply to
 ####Reception facilities
 
 1.  Each Party undertakes to ensure the provision of adequate facilities at ports and terminals for the reception of garbage without causing undue delay to ships, and according to the needs of the ships using them.   
-2.  Each Party shall notify the Organization for transmission to the Contracting Parties concerned of all cases where the facilities provided under this regulation are alleged to be inadequate.  
+2.  Reception facilities within special areas 
+
+.1 Each Party, the coastline of which borders a special area, undertakes to ensure that as soon as possible, in all ports and terminals within the special area, adequate reception facilities are provided, taking into account the needs of ships operating in these areas.  
+
+.2 Each Party concerned shall notify the Organization of the measures taken pursuant to subparagraph 3.1 of this regulation. Upon receipt of sufficient notifications the Organization shall establish a date from which the requirements of regulation 6 of this Annex in respect of the area in question are to take effect. The Organization shall notify all Parties of the date so established no less than twelve months in advance of that date. Until the date so established, ships that are navigating in a special area shall comply with the requirements of regulation 4 of this Annex as regards discharges outside special areas.    
 2bis. Small Island Developing States may satisfy the requirements in paragraphs 1 and 2.1 of this regulation through regional arrangements when, because of those States’ unique circumstances, such arrangements are the only practical means to satisfy these requirements. Parties participating in a regional arrangement shall develop a Regional Reception Facilities Plan, taking into account the guidelines developed by the Organization. The Government of each Party participating in the Arrangement shall consult with the Organization for circulation to the Parties of the present Convention: 
 
 .1. how the Regional Reception Facilities Plan takes into account the Guidelines;  
@@ -4166,15 +4658,11 @@ Unless expressly provided otherwise, the provisions of this Annex shall apply to
 .2. particulars of the identified Regional Ships Waste Reception Centres; and  
 
 .3. particulars of those ports with only limited facilities.   
-3.  Reception facilities within special areas 
-
-.1 Each Party, the coastline of which borders a special area, undertakes to ensure that as soon as possible, in all ports and terminals within the special area, adequate reception facilities are provided, taking into account the needs of ships operating in these areas.  
-
-.2 Each Party concerned shall notify the Organization of the measures taken pursuant to subparagraph 3.1 of this regulation. Upon receipt of sufficient notifications the Organization shall establish a date from which the requirements of regulation 6 of this Annex in respect of the area in question are to take effect. The Organization shall notify all Parties of the date so established no less than twelve months in advance of that date. Until the date so established, ships that are navigating in a special area shall comply with the requirements of regulation 4 of this Annex as regards discharges outside special areas.   
+3.  Each Party shall notify the Organization for transmission to the Contracting Parties concerned of all cases where the facilities provided under this regulation are alleged to be inadequate. 
 
 ### Regulation  9  
 
-####Port State control on operational requirements<sup> 1)  Refer to the Procedures for port State control adopted by the Organization by resolution A.787(19) and amended by A.882(21); see IMO sales publication IA650E.  </sup> 
+####Port State control on operational requirements 
 
 1.  A ship when in a port or an offshore terminal of another Party is subject to inspection by officers duly authorized by such Party concerning operational requirements under this Annex, where there are clear grounds for believing that the master or crew are not familiar with essential shipboard procedures relating to the prevention of pollution by garbage.   
 2.  In the circumstances given in paragraph 1 of this regulation, the Party shall take such steps as will ensure that the ship shall not sail until the situation has been brought to order in accordance with the requirements of this Annex.   
@@ -4183,7 +4671,7 @@ Unless expressly provided otherwise, the provisions of this Annex shall apply to
 
 ### Regulation  10  
 
-####Placards, garbage management plans<sup> 2)  Refer to the Guidelines for the development of garbage management plans adopted by the Marine Environment Protection Committee of the Organization by resolution MEPC.71(38); see MEPC/Circ.317 and IMO sales publication IA656E.  </sup> and garbage record-keeping
+####Placards, garbage management plans and garbage record-keeping
 
 1.  
 
@@ -4216,7 +4704,7 @@ Name of ship: ... Distinctive number or letters: ... IMO No.: ... Period: ... Fr
 
 I*Introduction*In accordance with regulation 10 of Annex V of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 (MARPOL), a record is to be kept of each discharge operation or completed incineration. This includes discharges into the sea, to reception facilities, or to other ships, as well as the accidental loss of garbage.
 
-2*Garbage and garbage management* *Garbage* means all kinds of food wastes, domestic wastes and operational wastes, all plastics, cargo residues, cooking oil, fishing gear, and animal carcasses generated during the normal operation of the ship and liable to be disposed of continuously or periodically except those substances which are defined or listed in other Annexes to the present Convention. Garbage does not include fresh fish and parts thereof generated as a result of fishing activities undertaken during the voyage, or as a result of aquaculture activities which involve the transport of fish including shellfish for placement in the aquaculture facility and the transport of harvested fish including shellfish from such facilities to shore for processing. The Guidelines for the Implementation of Annex V of MARPOL<sup> 1) Refer to the Guidelines for the Implementation of Annex V of MARPOL 73/78, as amended by resolutions. </sup> should also be referred to for relevant information.
+2*Garbage and garbage management* *Garbage* means all kinds of food wastes, domestic wastes and operational wastes, all plastics, cargo residues, cooking oil, fishing gear, and animal carcasses generated during the normal operation of the ship and liable to be disposed of continuously or periodically except those substances which are defined or listed in other Annexes to the present Convention. Garbage does not include fresh fish and parts thereof generated as a result of fishing activities undertaken during the voyage, or as a result of aquaculture activities which involve the transport of fish including shellfish for placement in the aquaculture facility and the transport of harvested fish including shellfish from such facilities to shore for processing. The Guidelines for the Implementation of Annex V of MARPOL should also be referred to for relevant information.
 
 3*Description of the garbage*Garbage is to be grouped into categories for the purposes of the Garbage Record Book (or ship’s official log-book) as follows: 
 
@@ -4236,13 +4724,13 @@ G Cargo residues
 
 H Animal Carcass(es)  
 
-I Fishing Gear<sup> 2) Refer to Guidelines to be developed by the Organization. </sup>   
+I Fishing Gear   
 
 4*Entries in the Garbage Record Book*
 
 4.1 Entries in the Garbage Record Book shall be made on each of the following occasions: 
 
-4.1.1 When garbage is discharged to a reception facility<sup> 3) Ship’s masters should obtain from the operator of the reception facilities, which includes barges and trucks, a receipt or certificate specifying the estimated amount of garbage transferred. The receipts or certificates must be kept together with the Garbage Record Book. </sup> ashore or to other ships: 
+4.1.1 When garbage is discharged to a reception facility ashore or to other ships: 
 
 .1 Date and time of discharge  
 
@@ -4361,7 +4849,7 @@ For the purpose of this Annex:
 
 9. *Fuel oil* means any fuel delivered to and intended for combustion purposes for propulsion or operation on board a ship, including distillate and residual fuels.  
 
-10. *Gross tonnage* means the gross tonnage calculated in accordance with the tonnage measurement regulations contained in [Annex I to the International Convention on Tonnage Measurements of Ships, 1969](../../../../../../../../../../../../verdrag/internationaal/verdrag/betreffende/de/meting/van/schepen/1969/BWBV0003245/README.md) or any successor Convention.  
+10. *Gross tonnage* means the gross tonnage calculated in accordance with the tonnage measurement regulations contained in Annex I to the International Convention on Tonnage Measurements of Ships, 1969 or any successor Convention.  
 
 11. *Installations* in relation to regulation 12 of this Annex means the installation of systems, equipment including portable fire-extinguishing units, insulation, or other material on a ship, but excludes the repair or recharge of previously installed systems, equipment, insulation, or other material, or the recharge of portable fire-extinguishing units.  
 
@@ -4373,7 +4861,7 @@ For the purpose of this Annex:
 
 15. *NO<sub>x</sub> Technical Code* means the Technical Code on Control of Emission of Nitrogen Oxides from Marine Diesel Engines adopted by resolution 2 of the 1997 MARPOL Conference, as amended by the Organization, provided that such amendments are adopted and brought into force in accordance with the provisions of article 16 of the present Convention.  
 
-16. *Ozone depleting substances* means controlled substances defined in [paragraph (4) of article 1 of the Montreal Protocol on Substances that Deplete the Ozone Layer, 1987](../../../../../../../../../../../../verdrag/montreal/protocol/BWBV0002086/README.md), listed in [Annexes A](../../../../../../../../../../../../verdrag/montreal/protocol/BWBV0002086/README.md), [B](../../../../../../../../../../../../verdrag/montreal/protocol/BWBV0002086/README.md), [C](../../../../../../../../../../../../verdrag/montreal/protocol/BWBV0002086/README.md) or [E to the said Protocol](../../../../../../../../../../../../verdrag/montreal/protocol/BWBV0002086/README.md) in force at the time of application or interpretation of this Annex. Ozone depleting substances that may be found on board ship include, but are not limited to: 
+16. *Ozone depleting substances* means controlled substances defined in paragraph (4) of article 1 of the Montreal Protocol on Substances that Deplete the Ozone Layer, 1987, listed in Annexes A, B, C or E to the said Protocol in force at the time of application or interpretation of this Annex. Ozone depleting substances that may be found on board ship include, but are not limited to: 
 
 Halon 1211 Bromochlorodifluoromethane
 
@@ -4423,7 +4911,7 @@ CFC-115 Chloropentafluoroethane
 
 .5. which substantially alters the energy efficiency of the ship and includes any modifications that could cause the ship to exceed the applicable required EEDI as set out in regulation 21.  
 
-25.“Bulk carrier” means a ship which is intended primarily to carry dry cargo in bulk, including such types as ore carriers as defined in [SOLAS chapter XII, regulation 1](../../../../../../../../../../../../verdrag/international/convention/for/the/safety/of/life/at/sea/1974/BWBV0003264/README.md), but excluding combination carriers.
+25.“Bulk carrier” means a ship which is intended primarily to carry dry cargo in bulk, including such types as ore carriers as defined in SOLAS chapter XII, regulation 1, but excluding combination carriers.
 
 26. “Gas carrier” means a cargo ship constructed or adapted and used for the carriage in bulk of any liquefied gas.
 
@@ -5082,7 +5570,7 @@ International Air Pollution Prevention Certificate
 
 ###INTERNATIONAL AIR POLLUTION PREVENTION CERTIFICATE
 
-Issued under the provisions of the [Protocol of 1997](../../../../../../../../../../../../verdrag/marpol/protocol/97/BWBV0003459/README.md), as amended by resolution MEPC.xx(58) in 2008, to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 related thereto (hereinafter referred to as “the Convention”) under the authority of the Government of:  
+Issued under the provisions of the Protocol of 1997, as amended by resolution MEPC.xx(58) in 2008, to amend the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 related thereto (hereinafter referred to as “the Convention”) under the authority of the Government of:  
 
 | --- | --- |
 |:---|:---|
@@ -6376,7 +6864,7 @@ De Partijen bij het Verdrag bevorderen, in overleg met de Organisatie en andere 
 ####Nederlegging en registratie
 
 (1).  Dit Verdrag wordt nedergelegd bij de Secretaris-Generaal van de Organisatie, die voor eensluidend gewaarmerkte afschriften daarvan toezendt aan alle Staten welke dit Verdrag hebben ondertekend of daartoe zijn toegetreden.   
-(2).  Zodra dit Verdrag in werking treedt, wordt de tekst door de Secretaris-Generaal van de Organisatie toegezonden aan de Secretaris-Generaal van de Verenigde Naties ter registratie en publikatie, overeenkomstig [artikel 102 van het Handvest der Verenigde Naties](../../../../../../../../../../../../verdrag/charter/of/the/united/nations/BWBV0004143/README.md).  
+(2).  Zodra dit Verdrag in werking treedt, wordt de tekst door de Secretaris-Generaal van de Organisatie toegezonden aan de Secretaris-Generaal van de Verenigde Naties ter registratie en publikatie, overeenkomstig artikel 102 van het Handvest der Verenigde Naties.  
 
 ### Artikel  20  
 
@@ -7095,6 +7583,186 @@ Het Internationaal certificaat voor voorkoming van verontreiniging door olie wor
 
 4. Voor schepen opgeleverd na 31 december 1979, als omschreven in voorschrift 1.28.2, dienen tanks voor olierestanten zodanig te zijn ontworpen en gebouwd dat de reiniging ervan en de afgifte van restanten bij ontvangstinrichtingen worden vergemakkelijkt. Schepen die op of voor 31 december 1979 worden opgeleverd, als omschreven in voorschrift 1.28.1, voldoen voor zover redelijk en uitvoerbaar aan dit vereiste.  
 
+### Voorschrift  12A  
+
+####Bescherming van brandstofolietanks
+
+1.  Dit voorschrift is van toepassing op alle schepen met een totale brandstofoliecapaciteit van 600 m<sup>3</sup> en meer waarvan de oplevering plaatsvindt op of na 1 augustus 2010, zoals omschreven in voorschrift 1.28.9 van deze Bijlage.   
+2.  De toepassing van dit voorschrift bij het bepalen van de locatie van tanks die gebruikt worden voor het vervoer van brandstofolie heeft geen voorrang boven de toepassing van voorschrift 19 van deze Bijlage.   
+3.  Voor de toepassing van dit Voorschift zijn de volgende begripsomschrijvingen van toepassing: 
+
+.1. „brandstofolie”, elke olie gebruikt als brandstof voor de voortstuwings- en hulpmachines van het schip dat dergelijke olie aan boord heeft.  
+
+.2. „diepgang op de lastlijn (d<sub>S</sub>)”: de verticale afstand, in meters, van de basislijn van de mal midscheeps gemeten naar de waterlijn overeenkomstig het aan het schip toegekende zomervrijboord.  
+
+.3. „diepgang bij leeg schip” is de midscheepse diepgang naar de mal gemeten overeenkomstig het leeg gewicht.  
+
+.4. „Diepgang op de partiële lastlijn (d<sub>P</sub>)” is de diepgang bij leeg schip plus 60% van het verschil tussen de diepgang bij leeg schip en de diepgang op de lastlijn (d<sub>s</sub>). De diepgang op de partiële lastlijn (d<sub>P</sub>) wordt gemeten in meters.  
+
+.5. „Waterlijn d<sub>B</sub>”: de verticale afstand, in meters, van de basislijn van de mal midscheeps gemeten naar de waterlijn overeenkomstig 30% van holte D<sub>S</sub>.  
+
+.6. „Breedte B<sub>S</sub>”: de grootste breedte naar de mal van het schip, in meters, op of onder de diepste lastlijn d<sub>s</sub>.  
+
+.7. „Breedte B<sub>B</sub>”: de grootste breedte naar de mal van het schip, in meters, op of onder de waterlijn d<sub>B</sub>.  
+
+.8. „Holte D<sub>S</sub>”: de holte naar de mal, in meters, midscheeps gemeten op het bovendek in de zijde. Voor de toepassing van dit onderdeel wordt onder „bovendek” verstaan het bovenste dek tot hetwelk de waterdichte dwarsschotten, uitgezonderd de achterpiekschotten, zijn opgetrokken.  
+
+.9. „Lengte L”: 96% van de totale lengte op een waterlijn op 85% van de kleinste holte naar de mal gemeten vanaf de bovenzijde van de kiel, of de lengte van de voorzijde van de voorsteven tot de hartlijn van de roerkoning op die waterlijn, indien deze laatste lengte groter is.  Bij schepen die met stuurlast zijn ontworpen, dient de waterlijn waarop deze lengte gemeten wordt evenwijdig aan de constructiewaterlijn te worden genomen. De lengte L wordt gemeten in meters.  
+
+.10. „Breedte B”: de grootste breedte van het schip in meters, midscheeps gemeten op de buitenkant van de spanten bij een schip met een metalen huid en op de buitenkant van de romp bij een schip met een huid van ander materiaal.  
+
+.11. „Brandstofolietank”: een tank waarin olie wordt vervoerd, uitgezonderd tanks die bij normale bedrijfsvoering geen brandstofolie zouden bevatten, zoals overlooptanks.  
+
+.12. „Kleine brandstofolietank”: een brandstofolietank met een maximale individuele capaciteit van ten hoogste 30 m<sup>3</sup>.  
+
+.13. „C”: het totale volume aan brandstofolie van het schip, met inbegrip van het volume van kleine brandstofolietanks, in m<sup>3</sup> bij een tankvulling van 98%.  
+
+.14. „Brandstofoliecapaciteit”: het volume van een tank in m<sup>3</sup>, bij een tankvulling van 98%.     
+4.  De bepalingen van dit voorschrift zijn van toepassing op alle brandstofolietanks uitgezonderd kleine brandstofolietanks, zoals omschreven in 3.12, mits de totale capaciteit van deze niet meegerekende tanks ten hoogste 600 m<sup>3</sup> bedraagt.   
+5.  De capaciteit van individuele brandstofolietanks mag ten hoogste 2.500 m<sup>3</sup> bedragen.   
+6.  Bij schepen, anders dan hefbooreilanden, met een totale brandstofoliecapaciteit van 600 m<sup>3</sup> of meer dienen de brandstofolietanks zodanig geplaatst te zijn dat de tanks zich bevinden boven de doorgestrookte lijn van de vlakbeplating, nergens minder dan afstand h, zoals hieronder vermeld: h = B/20 m of, h = 2,0 m, naargelang welk getal het kleinst is. De minimumwaarde van h = 0,76 m. In het gebied van de ronding van de kim en op plaatsen zonder duidelijk afgebakende ronding van de kim dient de grenslijn van de brandstofolietank parallel te lopen aan de lijn van het midscheepse vlak, zoals weergegeven in figuur 1.  ![10000053688](http://wetten.overheid.nl/Illustration/10000053688)
+
+7.  Bij schepen met een totale brandstofoliecapaciteit van 600 m<sup>3</sup> of meer maar minder dan 5.000 m<sup>3</sup>, dienen de brandstofolietanks zodanig te zijn geplaatst dat zij zich bevinden binnen de doorgestrookte lijn van de zijbeplating van het schip, nergens op een kleinere afstand dan de afstand w die, zoals weergegeven in figuur 2, wordt gemeten op iedere dwarsdoorsnede die een rechte hoek maakt met de zijbeplating van het schip, zoals hieronder omschreven: w = 0,4 + 2,4 C/20.000 m De minimumwaarde van w = 1,0 m; voor individuele tanks met een brandstofoliecapaciteit van minder dan 500 m<sup>3</sup> bedraagt de minimumwaarde echter 0,76 m.   
+8.  Bij schepen met een totale brandstofoliecapaciteit van 5.000 m<sup>3</sup> of meer dienen de brandstofolietanks zodanig te zijn geplaatst dat zij zich bevinden binnen de doorgestrookte lijn van de zijbeplating van het schip, nergens op een kleinere afstand dan de afstand w die, zoals weergegeven in figuur 2, wordt gemeten op iedere dwarsdoorsnede die een rechte hoek maakt met de zijbeplating van het schip, zoals hieronder omschreven: w = 0,5 + C/20.000 m of w = 2,0 m, naargelang welk getal het kleinst is. De minimumwaarde van w = 1,0 m.  ![10000053689](http://wetten.overheid.nl/Illustration/10000053689)
+
+9.  Brandstofolieleidingen die zich op een geringere hoogte dan *h*, zoals omschreven in lid 6, van het scheepsvlak bevinden of op een kleinere afstand dan *w*, zoals omschreven in lid 7 en 8, van de zijde van het schip, dienen te zijn voorzien van afsluiters of soortgelijke afsluitmiddelen in of vlak naast de brandstofolietank. Deze afsluiters moeten vanuit een gemakkelijk toegankelijke gesloten ruimte kunnen worden bediend; deze ruimte moet vanaf de navigatiebrug of vanaf de plaats van waar de bediening van de voortstuwingsmachines plaatsvindt, kunnen worden bereikt zonder blootgestelde vrijboord- of opbouwdekken te betreden. Wanneer het systeem voor afstandsbediening defect raakt (defect in gesloten stand) dienen de afsluiters gesloten te worden en op zee gesloten te blijven op elk moment waarop de tank brandstofolie bevat; zij mogen evenwel worden geopend tijdens het verpompen van brandstofolie.   
+10.  Zuigputten in brandstofolietanks kunnen uitsteken in de dubbele bodem onder de grenslijn die wordt bepaald door de afstand h, op voorwaarde dat die putten zo klein zijn als praktisch mogelijk is en de afstand tussen de bodem van de put en de vlakbeplating niet minder bedraagt dan 0,5 h.   
+11.  In plaats van aan het bepaalde in lid 6 en lid 7 of 8, kunnen schepen ook voldoen aan de onderstaande norm inzake de onbedoelde uitstroming van olie: 
+
+.1. Het niveau van bescherming tegen verontreiniging door olie in geval van een aanvaring of stranding wordt als volgt beoordeeld op basis van de gemiddelde olie-uitstroomparameter:  
+
+| --- | --- |
+|:---|:---|
+|  O<sub>M</sub> < 0,0157-1,14E-6 AC  | voor 600 m<sup>3</sup> ≤ C < 5.000 m<sup>3</sup>   |
+|  O<sub>M</sub> ≤ 0,010  | voor C ≥ 5.000 m<sup>3</sup>   |
+
+waarbij: O<sub>M</sub> = gemiddelde-olieuitstroomparameter C = totale brandstofolievolume  
+
+.2. De volgende algemene aanname is van toepassing bij de berekening van de gemiddelde olie-uitstroomparameter: 
+
+.1. Het schip wordt geacht te zijn geladen tot op de diepgang op de partiële lastlijn (d<sub>P</sub>) zonder trim of slagzij;  
+
+.2. alle brandstofolietanks worden geacht geladen te zijn tot 98% van hun volume;  
+
+.3. de nominale dichtheid van de brandstofolie (ρ<sub>n</sub>) wordt over het algemeen gesteld op 1,000 kg/m<sup>3</sup>. Indien de dichtheid van de brandstofolie specifiek tot een lagere waarde beperkt wordt, mag deze lagere waarde worden toegepast; en  
+
+.4. ten behoeve van deze uitstromingsberekeningen, wordt de permeabiliteit van elke brandstofolietank op 0,99 gesteld, tenzij anderszins vastgesteld.    
+
+.3. Het combineren van de olie-uitstroomparameters geschiedt op basis van de volgende aannames: 
+
+.1. De gemiddelde olie-uitstroom wordt afzonderlijk berekend voor zijschade en voor bodemschade en vervolgens op de volgende wijze gecombineerd in een niet-dimensionale olie-uitstroomparameter O<sub>M</sub>: OM = (0,4 O<sub>MS</sub> + 0,6 O<sub>MB</sub>)/C waarbij: O<sub>MS</sub> = gemiddelde uitstroom bij zijschade, in m<sup>3</sup>; O<sub>MB</sub> = gemiddelde uitstroom bij bodemschade, in m<sup>3</sup>; C = totaal brandstofolievolume.  
+
+.2. Bij bodemschade wordt de gemiddelde uitstroomwaarde afzonderlijk berekend voor een getij van 0,0 m en -2,5 m en vervolgens op de volgende wijze gecombineerd: waarbij: O<sub>MB</sub> = 0,7 O<sub>MB(0)</sub> + 0,3 O<sub>MB(2,5)</sub>  O<sub>MB(0)</sub> = gemiddelde uitstroom bij een getij van 0,0 m; en O<sub>MB(2.5)</sub> = gemiddelde uitstroom bij een getij van -2,5 m in m<sup>3</sup>.    
+
+.4. De gemiddelde uitstroom bij zijschade O<sub>MS</sub> wordt als volgt berekend:  ![10000053690](http://wetten.overheid.nl/Illustration/10000053690)
+waarbij: i = elke desbetreffende brandstofolietank; n = het totale aantal brandstofolietanks; P<sub>s(i)</sub> = de kans op doorboring van brandstofolietank i als gevolg van zijschade, berekend in overeenstemming met lid 11.6 van dit voorschrift; O<sub>s(i)</sub> = de uitstroom, in m<sup>3</sup>, bij zijschade aan brandstofolietank i, die wordt verondersteld gelijk te zijn aan het totale volume in brandstofolietank i bij een tankvulling van 98%.  
+
+.5. De gemiddelde uitstroom bij bodemschade wordt voor elk getij op de volgende wijze berekend: 
+
+.1.  ![10000053691](http://wetten.overheid.nl/Illustration/10000053691)
+waarbij: i = elke desbetreffende brandstofolietank; n = het totale aantal brandstofolietanks; P<sub>B(i)</sub> = de kans op doorboring van brandstofolietank i als gevolg van bodemschade, berekend in overeenstemming met lid 11.7 van dit voorschrift; O<sub>B(i)</sub> = de uitstroom uit brandstofolietank i, in m<sup>3</sup>, berekend in overeenstemming met lid 11.5.3 van dit voorschrift; en  C<sub>DB(i)</sub> = factor om rekening te houden met olie-opvang als omschreven in lid 11.5.4.  
+
+.2.  ![10000053692](http://wetten.overheid.nl/Illustration/10000053692)
+waarbij: i, n P<sub>B(i)</sub> and C<sub>DB(i)</sub> = zoals hierboven onder .1 omschreven O<sub>B(i)</sub> = de uitstroom uit brandstofolietank i, in m<sup>3</sup>, na getijdeverandering.  
+
+.3. De olie-uitstroom O<sub>B(i)</sub> voor elke brandstofolietank wordt berekend op basis van drukbalansprincipes, in overeenstemming met de volgende aannames: 
+
+.1. Het schip wordt verondersteld te zijn gestrand met een trim en helling van nihil, waarbij de diepgang bij stranding voorafgaande aan de getijdeverandering gelijk is aan de diepgang op de partiële lastlijn dP.  
+
+.2. Het brandstofolieniveau na schade wordt als volgt berekend:  ![10000053693](http://wetten.overheid.nl/Illustration/10000053693)
+waarbij: h<sub>F</sub> = de hoogte van de brandstofolie boven Z<sub>l</sub>, in meters; t<sub>C</sub> = de getijdeverandering, in meters. Afnames van het getijde worden uitgedrukt als negatieve waarden; Z<sub>l</sub> = de hoogte van het laagste punt in de brandstofolietank boven de lijn van onderzijde spanten, in meters;  *ρ* <sub>s</sub> = dichtheid van zeewater, gesteld op 1.025 kg/m<sup>3</sup>; en  *ρ* <sub>n</sub> = nominale dichtheid van de brandstofolie, zoals omschreven in 11.2.3.  
+
+.3. Bij tanks die door de vlakbeplating worden begrensd wordt de olie-uitstroom O<sub>B(i)</sub> gesteld op niet minder dan de volgende formule, evenwel niet meer dan de tankcapaciteit: O<sub>B(i)</sub> = H<sub>W</sub> . A waarbij: H<sub>W</sub> = 1,0 m, wanneer YB = 0 H<sub>W</sub> = B<sub>B</sub>/50 maar niet groter dan 0,4 m, wanneer Y<sub>B</sub> groter is dan B<sub>B</sub>/5 of 11,5 m, naargelang welk getal het kleinst is H<sub>W</sub> wordt in opwaartse richting gemeten vanaf de lijn van het midscheepse vlak. In het gebied van de ronding van de kim en op plaatsen zonder duidelijk afgebakende ronding van de kim, dient H<sub>W</sub> te worden gemeten vanaf een lijn die parallel loopt aan de lijn van het midscheepse vlak, zoals voor afstand „h” is weergegeven in figuur 1. Voor Y<sub>B</sub>-waarden buitenboord B<sub>B</sub>/5 of 11,5 m, naargelang welk getal het kleinst is, dient H<sub>W</sub> lineair te worden geïnterpoleerd. Y<sub>B</sub> = de minimumwaarde van Y<sub>B</sub> over de lengte van de brandstofolietank, wanneer op elke plaats YB de afstand overdwars tussen de zijbeplating bij waterlijn d<sub>B</sub> en de tank op of onder waterlijn d<sub>B</sub> is. A = de maximale horizontale projectie van de oppervlakte van de brandstofolietank tot niveau HW vanaf de bodem van de tank.  ![10000053694](http://wetten.overheid.nl/Illustration/10000053694)
+
+.4. In het geval van bodemschade kan een deel van de uitstroom uit een brandstofolietank worden opgevangen in afdelingen anders dan olie-afdelingen. Dit effect wordt benaderd door toepassing van de factor C<sub>DB(i)</sub> op elke tank, waarbij uitgegaan wordt van het volgende: 
+
+C<sub>DB(i)</sub> = 0,6 voor brandstofolietanks die aan de onderzijde begrensd worden door afdelingen anders dan olie-afdelingen;
+
+C<sub>DB(i)</sub> = 1 in andere gevallen.      
+
+.6. De kans PS dat een afdeling wordt doorboord als gevolg van zijschade wordt als volgt berekend: 
+
+.1. P<sub>S </sub>= P<sub>SL</sub> . P<sub>SV</sub> . P<sub>ST</sub>  waarbij: P<sub>SL</sub> = (1 – P<sub>Sf </sub>– P<sub>Sa</sub>) = de kans dat de schade zich uitstrekt tot in de lengtezone die wordt begrensd door X<sub>a</sub> en X<sub>f</sub>; P<sub>SV</sub> = (1 – P<sub>Su</sub> – P<sub>Sl</sub>) = de kans dat de schade zich uitstrekt tot in de verticale zone die wordt begrensd door Z<sub>l</sub> en Z<sub>u</sub>; P<sub>ST</sub> = (1 – P<sub>Sy</sub>) = de kans dat de schade zich overdwars uitbreidt tot na de door y gedefinieerde grens.  
+
+.2. P<sub>Sa</sub>, P<sub>Sf</sub>, P<sub>Su</sub> en P<sub>Sl</sub> worden bepaald door lineaire interpolatie op basis van de kansentabel voor zijschade zoals vermeld in lid 11.6.3, en P<sub>Sy</sub> wordt berekend met behulp van de formules zoals vermeld in lid 11.6.3, waarbij: P<sub>Sa</sub> = de kans dat de schade volledig achter de locatie X<sub>a</sub>/L gelegen is; P<sub>Sf</sub> = de kans dat de schade volledig voor de locatie X<sub>f</sub>/L gelegen is; P<sub>Sl</sub> = de kans dat de schade volledig onder de tank gelegen is. P<sub>Su</sub> = de kans dat de schade volledig boven de tank gelegen is; en P<sub>Sy</sub> = de kans dat de schade volledig buiten de tank gelegen is. Afdelingsbegrenzingen X<sub>a</sub>, Xf, Z<sub>l</sub>, Z<sub>u</sub> en y worden als volgt uitgewerkt: X<sub>a</sub> = de afstand over de lengte tussen het achterste einde van L tot aan het achterste punt van de afdeling in kwestie, in meters; X<sub>f</sub> = de afstand over de lengte tussen het achterste einde van L tot aan het voorste punt van de afdeling in kwestie, in meters; Z<sub>l</sub> = de verticale afstand van de basislijn van de mal naar het laagste punt van de afdeling in kwestie, in meters; Wanneer Z<sub>l</sub> groter is dan D<sub>S</sub>, wordt Z<sub>l</sub> gesteld op D<sub>S</sub>; Z<sub>u</sub> = de verticale afstand van de basislijn van de mal naar het hoogste punt van de afdeling in kwestie, in meters; Wanneer Z<sub>u</sub> groter is dan D<sub>S</sub>, wordt Z<sub>u</sub> gesteld op D<sub>S</sub>; en y = de minimale horizontale afstand gemeten loodrecht op hart schip tussen de desbetreffende afdeling en de zijbeplating in meters<sup> 1) Bij symmetrische tankopstellingen wordt de schade voor slechts een zijde van het schip berekend, in welk geval alle „y”-dimensies vanaf die zijde dienen te worden gemeten. Voor asymmetrische tankopstellingen wordt verwezen naar de Toelichting inzake aangelegenheden die verband houden met de onbedoelde uitstroom van olie, aangenomen door de Organisatie bij resolutie MEPC.122(52). </sup> . Ter plekke van de ronding van de kim hoeft geen rekening te worden gehouden met y onder een afstand h boven de basislijn, wanneer h minder is dan B/10, 3 meter of de bovenzijde van de tank.  
+
+.3. Kansentabel voor zijschade  
+
+| X<sub>a</sub>/L  | P<sub>Sa</sub>   | X<sub>f</sub>/L  | P<sub>Sf</sub>   | Z<sub>l</sub>/D<sub>S</sub>   | P<sub>Sl</sub>   | Z<sub>u</sub>/D<sub>S</sub>   | P<sub>Su</sub>   |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| 0,00  | 0,000  | 0,00  | 0,967  | 0,00  | 0,000  | 0,00  | 0,968  |
+| 0,05  | 0,023  | 0,05  | 0,917  | 0,05  | 0,000  | 0,05  | 0,952  |
+| 0,10  | 0,068  | 0,10  | 0,867  | 0,10  | 0,001  | 0,10  | 0,931  |
+| 0,15  | 0,117  | 0,15  | 0,817  | 0,15  | 0,003  | 0,15  | 0,905  |
+| 0,20  | 0,167  | 0,20  | 0,767  | 0,20  | 0,007  | 0,20  | 0,873  |
+| 0,25  | 0,217  | 0,25  | 0,717  | 0,25  | 0,013  | 0,25  | 0,836  |
+| 0,30  | 0,267  | 0,30  | 0,667  | 0,30  | 0,021  | 0,30  | 0,789  |
+| 0,35  | 0,317  | 0,35  | 0,617  | 0,35  | 0,034  | 0,35  | 0,733  |
+| 0,40  | 0,367  | 0,40  | 0,567  | 0,40  | 0,055  | 0,40  | 0,670  |
+| 0,45  | 0,417  | 0,45  | 0,517  | 0,45  | 0,085  | 0,45  | 0,599  |
+| 0,50  | 0,467  | 0,50  | 0,467  | 0,50  | 0,123  | 0,50  | 0,525  |
+| 0,55  | 0,517  | 0,55  | 0,417  | 0,55  | 0,172  | 0,55  | 0,452  |
+| 0,60  | 0,567  | 0,60  | 0,367  | 0,60  | 0,226  | 0,60  | 0,383  |
+| 0,65  | 0,617  | 0,65  | 0,317  | 0,65  | 0,285  | 0,65  | 0,317  |
+| 0,70  | 0,667  | 0,70  | 0,267  | 0,70  | 0,347  | 0,70  | 0,255  |
+| 0,75  | 0,717  | 0,75  | 0,217  | 0,75  | 0,413  | 0,75  | 0,197  |
+| 0,80  | 0,767  | 0,80  | 0,167  | 0,80  | 0,482  | 0,80  | 0,143  |
+| 0,85  | 0,817  | 0,85  | 0,117  | 0,85  | 0,553  | 0,85  | 0,092  |
+| 0,90  | 0,867  | 0,90  | 0,068  | 0,90  | 0,626  | 0,90  | 0,046  |
+| 0,95  | 0,917  | 0,95  | 0,023  | 0,95  | 0,700  | 0,95  | 0,013  |
+| 1,00  | 0,967  | 1,00  | 0,000  | 1,00  | 0,775  | 1,00  | 0,000  |
+
+P<sub>Sy</sub> wordt als volgt berekend:  
+
+| --- | --- |
+|:---|:---|
+| P<sub>Sy</sub> = (24,96 – 199,6 y/B<sub>S</sub>) (y/B<sub>S</sub>)  | voor y/B<sub>S</sub> ≤ 0,05  |
+| P<sub>Sy</sub> = 0,749 + {5 – 44,4 (y/B<sub>S</sub> – 0,05)} {(y/B<sub>S</sub>) – 0,05}  | voor 0,05 < y/B<sub>S</sub> < 0,1  |
+| P<sub>Sy</sub> = 0,888 + 0,56 ( y/B<sub>S</sub> -0,1)  | voor y/B<sub>S</sub> ≥ 0,1  |
+| P<sub>Sy</sub> mag niet groter zijn dan 1.  |
+
+.7. De kans P<sub>B</sub> dat een afdeling wordt doorboord als gevolg van bodemschade wordt als volgt berekend: 
+
+.1. P<sub>B</sub> = P<sub>BL</sub> . P<sub>BT</sub>. P<sub>BV</sub>  waarbij: P<sub>BL</sub> = P<sub>BL</sub> = (1 – P<sub>Bf</sub> – P<sub>Ba</sub>) = de kans dat de schade zich uitstrekt tot in de lengtezone die wordt begrensd door X<sub>a</sub> en X<sub>f</sub>; P<sub>BT</sub> = (1 – P<sub>Bp</sub> – P<sub>Bs</sub>) = de kans dat de schade zich uitstrekt tot in de dwarszone die wordt begrensd door Y<sub>p</sub> en Y<sub>s</sub>; en P<sub>BV</sub> = (1 – P<sub>Bz</sub>) = de kans dat de schade zich in verticale richting uitstrekt tot boven de door z gedefinieerde grens.  
+
+.2. P<sub>Ba</sub>, P<sub>Bf</sub>, P<sub>Bp</sub> en P<sub>Bs</sub> worden bepaald door lineaire interpolatie op basis van de kansentabel voor bodemschade zoals vermeld in lid 11.7.3, en P<sub>Bz</sub> wordt berekend met behulp van de formules zoals vermeld in lid 11.7.3, waarbij: P<sub>Ba</sub> = de kans dat de schade volledig achter plaats X<sub>a</sub>/L gelegen is; P<sub>Bf</sub> = de kans dat de schade volledig voor plaats X<sub>f</sub>/L gelegen is; P<sub>Bp</sub> = de kans dat de schade volledig aan bakboordzijde van de tank gelegen is; P<sub>Bs</sub> = de kans dat de schade volledig aan stuurboordzijde van de tank gelegen is; en P<sub>Bz</sub> = de kans dat de schade volledig onder de tank gelegen is. Afdelingsbegrenzingen X<sub>a</sub>, X<sub>f</sub>, Y<sub>p</sub>, Y<sub>s</sub> en z worden als volgt uitgewerkt: X<sub>a</sub> en X<sub>f</sub> zoals omschreven in 11.6.2; Y<sub>p</sub> = de afstand overdwars van het punt aan de uiterste bakboordzijde van de afdeling gelegen op of onder de waterlijn d<sub>B</sub>, tot een verticaal vlak gelegen op B<sub>B</sub> /2 aan stuurboordzijde van hart schip; Y<sub>s</sub> = de afstand overdwars van het punt aan de uiterste stuurboordzijde van de afdeling gelegen op of onder de waterlijn d<sub>B</sub>, tot een verticaal vlak gelegen op B<sub>B</sub> /2 aan stuurboordzijde van hart schip; en z = de minimumwaarde van z over de lengte van de afdeling, waarbij z, op willekeurig welke plaats over de lengte, de verticale afstand is vanaf het laagste punt van de vlakbeplating op die lengtepositie tot het laagste punt van de afdeling op die lengtepositie.  
+
+.3. Kansentabel voor bodemschade  
+
+| X<sub>a</sub>/L  | P<sub>Ba</sub>   | X<sub>p</sub>/L  | P<sub>Bf</sub>   | Y<sub>p</sub>/B<sub>B</sub>   | P<sub>Bp</sub>   | Y<sub>s</sub>/B<sub>B</sub>   | P<sub>Bs</sub>   |
+|:---|:---|:---|:---|:---|:---|:---|:---|
+| 0,00  | 0,000  | 0,00  | 0,969  | 0,00  | 0,844  | 0,00  | 0,000  |
+| 0,05  | 0,002  | 0,05  | 0,953  | 0,05  | 0,794  | 0,05  | 0,009  |
+| 0,10  | 0,008  | 0,10  | 0,936  | 0,10  | 0,744  | 0,10  | 0,032  |
+| 0,15  | 0,017  | 0,15  | 0,916  | 0,15  | 0,694  | 0,15  | 0,063  |
+| 0,20  | 0,029  | 0,20  | 0,894  | 0,20  | 0,644  | 0,20  | 0,097  |
+| 0,25  | 0,042  | 0,25  | 0,870  | 0,25  | 0,594  | 0,25  | 0,133  |
+| 0,30  | 0,058  | 0,30  | 0,842  | 0,30  | 0,544  | 0,30  | 0,171  |
+| 0,35  | 0,076  | 0,35  | 0,810  | 0,35  | 0,494  | 0,35  | 0,211  |
+| 0,40  | 0,096  | 0,40  | 0,775  | 0,40  | 0,444  | 0,40  | 0,253  |
+| 0,45  | 0,119  | 0,45  | 0,734  | 0,45  | 0,394  | 0,45  | 0,297  |
+| 0,50  | 0,143  | 0,50  | 0,687  | 0,50  | 0,344  | 0,50  | 0,344  |
+| 0,55  | 0,171  | 0,55  | 0,630  | 0,55  | 0,297  | 0,55  | 0,394  |
+| 0,60  | 0,203  | 0,60  | 0,563  | 0,60  | 0,253  | 0,60  | 0,444  |
+| 0,65  | 0,242  | 0,65  | 0,489  | 0,65  | 0,211  | 0,65  | 0,494  |
+| 0,70  | 0,289  | 0,70  | 0,413  | 0,70  | 0,171  | 0,70  | 0,544  |
+| 0,80  | 0,409  | 0,80  | 0,252  | 0,80  | 0,097  | 0,80  | 0,644  |
+| 0,85  | 0,482  | 0,85  | 0,170  | 0,85  | 0,063  | 0,85  | 0,694  |
+| 0,90  | 0,565  | 0,90  | 0,089  | 0,90  | 0,032  | 0,90  | 0,744  |
+| 0,95  | 0,658  | 0,95  | 0,026  | 0,95  | 0,009  | 0,95  | 0,794  |
+| 1,00  | 0,761  | 1,00  | 0,000  | 1,00  | 0,000  | 1,00  | 0,844  |
+
+P<sub>Bz</sub> wordt als volgt berekend:  
+
+| --- | --- |
+|:---|:---|
+| P<sub>Bz</sub> = (14,5 – 67 z/D<sub>S</sub>) (z/D<sub>S</sub>)  | voor z/D<sub>S</sub> ≤ 0,1  |
+| P<sub>Bz</sub> = 0,78 + 1,1 {(z/D<sub>S</sub> -0,1)}  | voor z/D<sub>S</sub> > 0,1  |
+| P<sub>Bz</sub> mag niet groter zijn dan 1.  | --- |
+
+.8. Ten behoeve van onderhoud en inspectie dienen brandstofolietanks die niet grenzen aan de buitenhuid, te worden geplaatst op een afstand tot de vlakbeplating die niet minder mag bedragen dan de minimumwaarde *h* in lid 6 en een afstand tot de zijbeplating die niet minder mag bedragen dan de van toepassing zijnde minimumwaarde *w* in lid 7 of 8.     
+12.  Bij het goedkeuren van het ontwerp en de bouw van schepen die moeten worden gebouwd in overeenstemming met de bepalingen van dit voorschrift, houden Administraties naar behoren rekening met de algemene veiligheidsaspecten, met inbegrip van de noodzaak van onderhoud en inspecties van zij- en dubbele-bodemtanks of -ruimten.  
+
 ### Voorschrift  13  
 
 ####Standaardaansluiting voor afgifte
@@ -7512,6 +8180,295 @@ w = 2,0 m, naar gelang welk getal het kleinst is.De minimum waarde van w = 1,0 m
 4. Er dienen ballastpompen te worden aangebracht met deugdelijke voorzieningen teneinde de dubbele-bodemtanks doeltreffend te kunnen leegzuigen.  
 
 5. Wanneer door het vollopen van de pompkamer het ballast- of ladingpompsysteem niet buiten werking zou raken behoeft, niettegenstaande het bepaalde in de leden 2 en 3 van dit voorschrift, geen dubbele bodem te worden aangebracht.  
+
+### Voorschrift  23  
+
+####Door ongevallen veroorzaakte uitstroming van olie
+
+1. Dit voorschrift is van toepassing op olietankschepen opgeleverd op of na 1 januari 2010, als omschreven in voorschrift 1.28.8.  
+
+2. Voor de toepassing van dit voorschift zijn de volgende begripsomschrijvingen van toepassing: 
+
+.1 „diepgang op de lastlijn (d<sub>S</sub>)”: de verticale afstand, in meters, van de basislijn van de mal midscheeps gemeten naar de waterlijn overeenkomstig het aan het schip toegekende zomervrijboord. Op dit voorschrift betrekking hebbende berekeningen dienen uit te gaan van diepgang d<sub>S</sub>, niettegenstaande toegekende diepgangen die d<sub>S</sub> kunnen overschrijden, zoals de tropenlastlijn.  
+
+.2 „waterlijn (d<sub>B</sub>)”: de verticale afstand, in meters, van de basislijn van de mal midscheeps gemeten naar de waterlijn overeenkomstig 30% van hoogte D<sub>S</sub>.  
+
+.3 „breedte (B<sub>S</sub>)”: de grootste breedte naar de mal van het schip, in meters, op of onder de diepste lastlijn d<sub>S</sub>.  
+
+.4 „breedte (B<sub>B</sub>)”: de grootste breedte naar de mal van het schip, in meters, op of onder de waterlijn d<sub>B</sub>.  
+
+.5 „holte (D<sub>S</sub>)”: de holte naar de mal, in meters, gemeten op de halve lengte van het bovendek in de zijde.  
+
+.6 „lengte (L)” en „draagvermogen (DW)” als omschreven in respectievelijk voorschrift 1.19 en 1.23.   
+
+3. Teneinde afdoende bescherming te bieden tegen olievervuiling in het geval van aanvaring of stranding, dient aan het volgende te worden voldaan: 
+
+.1 voor olietankschepen met een draagvermogen van 5000 ton (DWT) of meer, dient de gemiddelde olie-uitstroomparameter als volgt te zijn:   
+
+| --- | --- |
+|:---|:---|
+| O<sub>M</sub> ≤ 0.015  | voor C ≤ 200.000 m<sup>3</sup>  |
+| O<sub>M</sub> ≤ 0,012 + (0,003/200.000) (400.000-C)  | voor 200.000 m<sup>3</sup> < C < 400.000 m<sup>3</sup>  |
+| O<sub>M</sub> ≤ 0,012  | voor C = 400.000 m<sup>3</sup>  |
+
+voor combinatietankschepen tussen een draagvermogen tussen 5000 ton (DWT) en een capaciteit van 200.000 m<sup>3</sup> kan de gemiddelde olie-uitstroomparameter worden toegepast, mits ten genoegen van de Administratie berekeningen worden overgelegd waarmee wordt aangetoond dat, rekening houdend met de grotere sterkte van de constructie, het combinatietankschip een olie-uitstroomparameter heeft die ten minste gelijk is aan die van een standaard dubbelwandig tankschip van dezelfde omvang met een O<sub>M</sub> < = 0,015.  
+
+| --- | --- |
+|:---|:---|
+| O<sub>M</sub> ≤ 0.021  | voor C ≤ 100,000 m<sup>3</sup>  |
+| O<sub>M</sub> ≤ 0.015 + (0.006/100,000) (200,000-C)  | voor 100,000 m<sup>3</sup> < C ≤ 200,000 m<sup>3</sup>  |
+
+waarbij:O<sub>M</sub> = gemiddelde olie-uitstroomparameter. C = totaal volume aan ladingolie, in m<sup>3</sup>, bij een voor 98% gevulde tank  
+
+.2 voor olietankschepen met een draagvermogen van minder dan 5000 ton (DWT): De lengte van elke ladingtank mag niet groter zijn dan 10 m of een van de volgende waarden, naar gelang welk getal het grootst is:
+
+.1 wanneer geen langsschot is aangebracht binnen de ladingtanks: ![10000053448](http://wetten.overheid.nl/Illustration/10000053448)
+
+.2 wanneer er een langsschot op hart schip is aangebracht binnen de ladingtanks: ![10000053449](http://wetten.overheid.nl/Illustration/10000053449)
+
+.3 wanneer er twee of meer langsschotten zijn aangebracht binnen de ladingtanks: 
+
+.1 voor zijtanks voor lading: 0,2 L  
+
+.2 voor middentanks voor lading: 
+
+.1 indien ![10000053450](http://wetten.overheid.nl/Illustration/10000053450)
+
+.2 indien ![10000053451](http://wetten.overheid.nl/Illustration/10000053451)
+
+- wanneer er geen langsschot op hart schip is aangebracht: ![10000053452](http://wetten.overheid.nl/Illustration/10000053452)
+
+- wanneer er een langsschot op hart schip is aangebracht: ![10000053453](http://wetten.overheid.nl/Illustration/10000053453)
+
+.4 *b* <sub>i</sub> is de minimum afstand van de scheepshuid tot het buitenste langsschot van de desbetreffende tank, binnenboord gemeten loodrecht op het vlak van kiel en stevens, ter hoogte van de lastlijn behorende bij het toegekende zomervrijboord.  
+
+4. De volgende algemene aannames zijn van toepassing bij de berekening van de gemiddelde olie-uitstroomparameter: 
+
+.1 De lengte van het ladinggedeelte wordt gevormd door de lengte tussen de voorste en achterste begrenzingsschotten van alle tanks die zijn ingericht voor het vervoer van ladingolie, met inbegrip van sloptanks.  
+
+.2 Wanneer in dit voorschrift naar ladingtanks wordt verwezen, worden hieronder tevens verstaan alle ladingtanks, sloptanks en brandstoftanks die zich binnen de lengte van het ladinggedeelte bevinden.  
+
+.3 Het schip wordt geacht te zijn geladen tot op de diepgang op de lastlijn d<sub>S</sub> zonder trim of slagzij.  
+
+.4 Alle ladingolietanks worden geacht geladen te zijn tot 98% van hun volume. De nominale dichtheid van de ladingolie (ρn) wordt als volgt berekend:  
+
+ρn = 1000 (DWT)/C (kg/m<sup>3</sup>)  
+
+.5 Ten behoeve van deze uitstroomberekeningen wordt de permeabiliteit van elke ruimte binnen het ladinggedeelte, met inbegrip van ladingtanks, ballasttanks en andere ruimtes die geen olieruimtes zijn, op 0,99 gesteld, tenzij anders is vastgesteld.  
+
+.6 Zuigputten kunnen buiten beschouwing gelaten worden bij het vaststellen van de tanklocatie mits dergelijke putten zo klein als praktisch mogelijk zijn en de afstand tussen de bodem van de put en de vlakbeplating van het schip niet minder is dan 0,5 h, waarbij h de hoogte is als omschreven in voorschrift 19.3.2.  
+
+5. Het combineren van de olie-uitstroomparameters geschiedt op basis van de volgende aannames: 
+
+.1 De gemiddelde olie-uitstroom wordt afzonderlijk berekend voor zijschade en bodemschade en vervolgens op de volgende wijze gecombineerd in de niet-dimensionale olie-uitstroomparameter O<sub>M</sub>:   
+
+O<sub>M</sub> = (0.4 O<sub>MS</sub> + 0.6 O<sub>MB</sub> ) / C  
+
+waarbij:  
+
+O<sub>MS</sub> = gemiddelde uitstroom bij zijschade, in m<sup>3</sup>; en 
+
+O<sub>MB</sub> = gemiddelde uitstroom bij bodemschade, in m<sup>3</sup>.  
+
+.2 Bij bodemschade wordt de gemiddelde uitstroomwaarde afzonderlijk berekend voor een getij van 0,0 m en minus 2,5 m en vervolgens op de volgende wijze gecombineerd:  
+
+O<sub>MB</sub> = 0.7 O<sub>MB(0)</sub> + 0.3 O<sub>MB(2.5)</sub>   
+
+waarbij: 
+
+O<sub>MB(0)</sub> = gemiddelde uitstroom bij een getij van 0,0 m; en  
+
+O<sub>MB(2.5)</sub> = gemiddelde uitstroom bij een getij van -2,5 m<sup>3</sup>.  
+
+6. De gemiddelde uitstroom bij zijschade OMS wordt als volgt berekend:<sub>MS</sub> wordt als volgt berekend: ![10000053454](http://wetten.overheid.nl/Illustration/10000053454)
+waarbij: 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| i  | =  | elke desbetreffende ladingtank;   |
+| n  | =  | het totale aantal ladingtanks;   |
+| P<sub>S(i)</sub>   | =  | de kans op doorboring van ladingtank i als gevolg van zijschade, berekend in overeenstemming met lid 8.1 van dit voorschrift;   |
+| O<sub>S(i)</sub>   | =  | de uitstroom, in m<sup>3</sup>, bij zijschade aan ladingtank i, die wordt verondersteld gelijk te zijn aan het totale volume in ladingtank i bij een tankvulling van 98%, tenzij door toepassing van de in voorschrift 19.5 genoemde Richtlijnen wordt aangetoond dat er een aanzienlijk ladingvolume achterblijft; en   |
+| C<sub>3</sub>   | =  | 0,77 bij schepen met twee langsschotten aan de binnenzijde van de ladingtanks, mits deze langsschotten zich uitstrekken over de lengte van het ladinggedeelte en P<sub>s(i)</sub> is uitgewerkt in overeenstemming met dit voorschrift. C3 is gelijk aan 1,0 voor alle overige schepen of indien P<sub>s(i)</sub> is uitgewerkt in overeenstemming met lid 10 van dit voorschrift.  |
+
+7. De gemiddelde uitstroom bij bodemschade wordt voor elk getij op de volgende wijze berekend:  ![10000053455](http://wetten.overheid.nl/Illustration/10000053455)
+
+.1  waarbij: 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| i  | =  | elke desbetreffende ladingtank;   |
+| n  | =  | het totale aantal ladingtanks;   |
+| P<sub>B(i)</sub>   | =  | de kans op doorboring van ladingtank i als gevolg van bodemschade, berekend in overeenstemming met lid 9.1 van dit voorschrift;   |
+| O<sub>B(i)</sub>   | =  | de uitstroom uit ladingtank i, in m<sup>3</sup>, berekend in overeenstemming met lid 7.3 van dit voorschrift; en   |
+| C<sub>DB(i)</sub>   | =  | factor om rekening te houden met olie-opvang als omschreven in lid 7.4 van dit voorschrift  |
+
+.2  ![10000053456](http://wetten.overheid.nl/Illustration/10000053456)
+waarbij:
+
+i,n, P<sub>B(i)</sub> en C<sub>DB(i)</sub> = als omschreven in bovenstaand onderdeel .1;
+
+O<sub>B(i)</sub> = de uitstroom uit ladingtank i, in m<sup>3</sup>, na getijdeverandering 
+
+.3 De olie-uitstroom O<sub>B(i)</sub> voor elke ladingolietank wordt berekend op basis van drukbalansprincipes, in overeenstemming met de volgende aannames: 
+
+.1 Het schip wordt verondersteld te zijn gestrand met een trim en helling van nihil, waarbij de diepgang bij stranding voorafgaande aan de getijdeverandering gelijk is aan de diepgang op de lastlijn d<sub>s</sub>.  
+
+.2 Het ladingniveau na schade wordt als volgt berekend: h<sub>c</sub> = {(d<sub>s</sub> + t<sub>c</sub>- Z<sub>l</sub>) (ρ<sub>s</sub>) - (1000 p) / g }/ρ<sub>n</sub> waarbij:  
+
+| --- | --- | --- |
+|:---|:---|:---|
+| h<sub>c</sub>   | =  | de hoogte van de ladingolie boven Z<sub>l</sub>, in meters;   |
+| t<sub>c</sub>   | =  | de getijdeverandering, in m. Afnames van het getijde worden uitgedrukt als negatieve waarden;   |
+| Z<sub>l</sub>   | =  | de hoogte van het laagste punt in de ladingtank boven de lijn van onderzijde spanten, in m;   |
+| ρ <sub>s</sub>   | =  | dichtheid van zeewater, gesteld op 1,025 kg/m<sup>3</sup>;   |
+| p  | =  | indien een inert-gasinstallatie is geïnstalleerd, moet uitgegaan worden van een normale overdruk, in kPa, van niet minder dan 5 kPa; indien er geen inert-gasinstallatie is, kan de overdruk op 0 worden gesteld;  |
+| g  | =  | de versnelling van de zwaartekracht, gesteld op 9,81 m/s<sup>2</sup>; en   |
+| ρ <sub>n</sub>   | =  | nominale dichtheid van ladingolie, berekend in overeenstemming met lid 4.4 van dit voorschrift.  |
+
+.3 Bij ladingtanks die door de vlakbeplating worden begrensd wordt de olie-uitstroom O<sub>B(i)</sub>, tenzij anderszins vastgesteld, 48gesteld op niet minder dan 1% van het totale volume aan ladingolie in ladingtank i, teneinde rekening te houden met initiële uitwisselingsverliezen en dynamische effecten als gevolg van stroming en golfslag.  
+
+.4 In het geval van bodemschade, kan een deel van de uitstroom uit een ladingtank worden opgevangen in afdelingen anders dan olie-afdelingen. Dit effect wordt benaderd door toepassing van de factor C<sub>DB(i)</sub> op elke tank, waarbij uitgegaan wordt van het volgende: C<sub>DB(i)</sub> = 0,6 voor ladingtanks die aan de onderzijde begrensd worden door afdelingen anders dan olie-afdelingen;C<sub>DB(i)</sub> = 1,0 voor ladingtanks die begrensd worden door de vlakbeplating.
+
+8. De kans P<sub>S</sub> dat een afdeling wordt doorboord als gevolg van zijschade wordt als volgt berekend:<sub>S</sub> dat een afdeling wordt doorboord als gevolg van zijschade wordt als volgt berekend: 
+
+.1 P<sub>S</sub> = P<sub>SL</sub> P<sub>SV</sub>P<sub>ST</sub>  waarbij:   
+
+| --- | --- | --- |
+|:---|:---|:---|
+| P<sub>SL</sub> =1 - P<sub>Sf</sub> - P<sub>Sa</sub>   | =  | de kans dat de schade zich uitstrekt tot in de lengtezone die wordt begrensd door X<sub>a</sub> en X<sub>f</sub>;   |
+| P<sub>SV</sub> = 1 - P<sub>Su</sub> - P<sub>S1</sub>   | =  | de kans dat de schade zich uitstrekt tot in de verticale zone die wordt begrensd door Z<sub>l</sub> en Z<sub>u</sub>; en   |
+| P<sub>ST</sub> = 1 - P<sub>Sy</sub>   | =  | de kans dat de schade zich overdwars uitbreidt tot na de door y gedefinieerde grens.  |
+
+.2 P<sub>Sa</sub>, P<sub>Sf</sub>, P<sub>Sl</sub>, P<sub>Su</sub> en P<sub>Sy</sub>worden bepaald door lineaire interpolatie op basis van de kansentabel voor zijschade zoals vermeld in lid 8.3 van dit voorschrift, waarin:  
+
+| --- | --- | --- |
+|:---|:---|:---|
+| P<sub>Sa</sub>   | =  | de kans dat de schade volledig achter plaats X<sub>a</sub>/L gelegen is;  |
+| P<sub>Sf</sub>   | =  | de kans dat de schade volledig voor plaats X<sub>f</sub>/L gelegen is;   |
+| P<sub>Sl</sub>   | =  | de kans dat de schade volledig onder de tank gelegen is;  |
+| P<sub>Su</sub>   | =  | de kans dat de schade volledig boven de tank gelegen is; en   |
+| P<sub>Sy</sub>   | =  | de kans dat de schade volledig buiten de tank gelegen is.  |
+
+Afdelingsbegrenzingen X<sub>a</sub>, X<sub>f</sub>, Z<sub>l</sub>, Z<sub>u</sub> en y worden als volgt uitgewerkt:  
+
+| --- | --- | --- |
+|:---|:---|:---|
+| X<sub>a</sub>   | =  | de afstand over de lengte tussen het achterste einde van L tot aan het achterste punt van de afdeling in kwestie, in meters;  |
+| X<sub>f</sub>   | =  | de afstand over de lengte tussen het achterste einde van L tot aan het voorste punt van de afdeling in kwestie, in meters;   |
+| Z<sub>l</sub>   | =  | de verticale afstand van de basislijn van de mal naar het laagste punt van de afdeling in kwestie, in meters;   |
+| Z<sub>u</sub>   | =  | de verticale afstand van de basislijn van de mal naar het hoogste punt van de afdeling in kwestie, in meters; Z<sub>u</sub> mag niet groter zijn dan D<sub>s</sub>; en   |
+| y  | =  | de minimale horizontale afstand gemeten loodrecht op hart schip tussen de desbetreffende afdeling en de scheepshuid in meters;  |
+
+.3Kansentabel voor zijschade   
+
+|  X<sub>a</sub>/L  | P<sub>Sa</sub>   |--- | X<sub>f</sub>/L  | P<sub>Sf</sub>   |--- | Z<sub>l</sub>/D<sub>S</sub>   | P<sub>Sl</sub>   |--- | Z<sub>u</sub>/S<sub>S</sub>   | P<sub>Su</sub>   |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  0.00  | 0.000  | --- | 0.00  | 0.967  | --- | 0.00  | 0.000  | --- | 0.00  | 0.968  |
+|  0.05  | 0.023  | --- | 0.05  | 0.917  | --- | 0.05  | 0.000  | --- | 0.05  | 0.952  |
+|  0.10  | 0.068  | --- | 0.10  | 0.867  | --- | 0.10  | 0.001  | --- | 0.10  | 0.931  |
+|  0.15  | 0.117  | --- | 0.15  | 0.817  | --- | 0.15  | 0.003  | --- | 0.15  | 0.905  |
+|  0.20  | 0.167  | --- | 0.20  | 0.767  | --- | 0.20  | 0.007  | --- | 0.20  | 0.873  |
+|  0.25  | 0.217  | --- | 0.25  | 0.717  | --- | 0.25  | 0.013  | --- | 0.25  | 0.836  |
+|  0.30  | 0.267  | --- | 0.30  | 0.667  | --- | 0.30  | 0.021  | --- | 0.30  | 0.789  |
+|  0.35  | 0.317  | --- | 0.35  | 0.617  | --- | 0.35  | 0.034  | --- | 0.35  | 0.733  |
+|  0.40  | 0.367  | --- | 0.40  | 0.567  | --- | 0.40  | 0.055  | --- | 0.40  | 0.670  |
+|  0.45  | 0.417  | --- | 0.45  | 0.517  | --- | 0.45  | 0.085  | --- | 0.45  | 0.599  |
+|  0.50  | 0.467  | --- | 0.50  | 0.467  | --- | 0.50  | 0.123  | --- | 0.50  | 0.525  |
+|  0.55  | 0.517  | --- | 0.55  | 0.417  | --- | 0.55  | 0.172  | --- | 0.55  | 0.452  |
+|  0.60  | 0.567  | --- | 0.60  | 0.367  | --- | 0.60  | 0.226  | --- | 0.60  | 0.383  |
+|  0.65  | 0.617  | --- | 0.65  | 0.317  | --- | 0.65  | 0.285  | --- | 0.65  | 0.317  |
+|  0.70  | 0.667  | --- | 0.70  | 0.267  | --- | 0.70  | 0.347  | --- | 0.70  | 0.255  |
+|  0.75  | 0.717  | --- | 0.75  | 0.217  | --- | 0.75  | 0.413  | --- | 0.75  | 0.197  |
+|  0.80  | 0.767  | --- | 0.80  | 0.167  | --- | 0.80  | 0.482  | --- | 0.80  | 0.143  |
+|  0.85  | 0.817  | --- | 0.85  | 0.117  | --- | 0.85  | 0.553  | --- | 0.85  | 0.092  |
+|  0.90  | 0.867  | --- | 0.90  | 0.068  | --- | 0.90  | 0.626  | --- | 0.90  | 0.046  |
+|  0.95  | 0.917  | --- | 0.95  | 0.023  | --- | 0.95  | 0.700  | --- | 0.95  | 0.013  |
+|  1.00  | 0.967  | --- | 1.00  | 0.000  | --- | 1.00  | 0.775  | --- | 1.00  | 0.000  |
+
+P<sub>Sy</sub> wordt als volgt berekend:   
+
+P<sub>Sy</sub> = (24.96 -199.6 y/B<sub>S</sub>) (y/B<sub>S</sub>) voor y/B<sub>S</sub> ≤ 0.05   
+
+P<sub>Sy</sub> = 0.749 + {5 -44.4 (y/B<sub>S</sub> - 0.05)} (y/B<sub>S</sub> - 0.05) voor 0.05 < y/B<sub>S</sub> < 0.1   
+
+P<sub>Sy</sub> = 0.888 + 0.56 (y/B<sub>S</sub> - 0.1) voor y/B<sub>S</sub> ≤ 0.1   P<sub>Sy</sub> mag niet groter zijn dan 1. 
+
+9. De kans PB dat een afdeling wordt doorboord als gevolg van bodemschade wordt als volgt berekend: 
+
+.1 P<sub>B</sub> = P<sub>BL</sub> P<sub>BT</sub>P<sub>BV</sub> waarbij: 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| P<sub>BL</sub> = 1 - P<sub>Bf</sub> - P<sub>Ba</sub>   | =  | de kans dat de schade zich uitstrekt tot in de lengtezone die wordt begrensd door X<sub>a</sub> en X<sub>f</sub>;   |
+| P<sub>BT</sub> = 1 - P<sub>Bp</sub> - P<sub>Bs</sub>   | =  | de kans dat de schade zich uitstrekt tot in de lengtezone die wordt begrensd door X<sub>p</sub> en X<sub>s</sub>;   |
+| P<sub>BV</sub> = 1 - P<sub>Bz</sub>   | =  | de kans dat de schade zich in verticale richting uitstrekt tot boven de door z gedefinieerde grens.  |
+
+.2 P<sub>Ba</sub>, P<sub>Bf</sub>, P<sub>Bp</sub>, P<sub>Bs</sub>, en P<sub>Bz</sub> worden bepaald door lineaire interpolatie op basis van de kansentabel voor zijschade zoals vermeld in lid 9.3 van dit voorschrift, waarbij   
+
+| --- | --- | --- |
+|:---|:---|:---|
+| P<sub>Ba</sub>   | =  | de kans dat de schade volledig achter de locatie X<sub>a</sub>/L gelegen is;   |
+| P<sub>Bf</sub>   | =  | de kans dat de schade volledig voor de loactie X<sub>f</sub>/L gelegen is;  |
+| P<sub>Bp</sub>   | =  | de kans dat de schade volledig aan bakboordzijde van de tank gelegen is;  |
+| P<sub>Bs</sub>   | =  | de kans dat de schade volledig aan stuurboordzijde van de tank gelegen is; en  |
+| P<sub>Bz</sub>   | =  | de kans dat de schade volledig onder de tank gelegen is.  |
+
+Afdelingsbegrenzingen X<sub>a</sub>, X<sub>f</sub>, Y<sub>p</sub>, Y<sub>s</sub> en z worden als volgt uitgewerkt: 
+
+X<sub>a</sub> en X<sub>f</sub> zijn als omschreven in lid 8.2 van dit voorschrift; 
+
+| --- | --- | --- |
+|:---|:---|:---|
+| Y<sub>p</sub>   | =  | de afstand overdwars van het punt aan de uiterste bakboordzijde van de afdeling gelegen op of onder de waterlijn d<sub>B</sub>, tot een verticaal vlak gelegen op B<sub>B</sub> /2 aan stuurboordzijde van hart schip, in meters;   |
+| Y<sub>s</sub>   | =  | de afstand overdwars van het punt aan de uiterste stuurboordzijde van de afdeling gelegen op of onder de waterlijn d<sub>B</sub>, tot een verticaal vlak gelegen op B<sub>B</sub> /2 aan stuurboordzijde van hart schip, in meters; en  |
+| z  | =  | de minimumwaarde van z over de lengte van de afdeling, waarbij z, op willekeurig welke plaats over de lengte, de verticale afstand is vanaf het laagste punt van de vlakbeplating op die lengtepositie tot het laagste punt van de afdeling op die lengtepositie, in meters.  |
+
+.3Kansentabel voor bodemschade  
+
+|  X<sub>a</sub>/L  | P<sub>Ba</sub>   |--- | X<sub>f</sub>/L  | P<sub>Bf</sub>   |--- | Y<sub>p</sub>/B<sub>B</sub>   | P<sub>Bp</sub>   |--- | Y<sub>s</sub>/B <sub>B</sub>   | P<sub>Bs</sub>   |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  0.00  | 0.000  | --- | 0.00  | 0.969  | --- | 0.00  | 0.844  | --- | 0.00  | 0.000  |
+|  0.05  | 0.002  | --- | 0.05  | 0.953  | --- | 0.05  | 0.794  | --- | 0.05  | 0.009  |
+|  0.10  | 0.008  | --- | 0.10  | 0.936  | --- | 0.10  | 0.744  | --- | 0.10  | 0.032  |
+|  0.15  | 0.017  | --- | 0.15  | 0.916  | --- | 0.15  | 0.694  | --- | 0.15  | 0.063  |
+|  0.20  | 0.029  | --- | 0.20  | 0.894  | --- | 0.20  | 0.644  | --- | 0.20  | 0.097  |
+|  0.25  | 0.042  | --- | 0.25  | 0.870  | --- | 0.25  | 0.594  | --- | 0.25  | 0.133  |
+|  0.30  | 0.058  | --- | 0.30  | 0.842  | --- | 0.30  | 0.544  | --- | 0.30  | 0.171  |
+|  0.35  | 0.076  | --- | 0.35  | 0.810  | --- | 0.35  | 0.494  | --- | 0.35  | 0.211  |
+|  0.40  | 0.096  | --- | 0.40  | 0.775  | --- | 0.40  | 0.444  | --- | 0.40  | 0.253  |
+|  0.45  | 0.119  | --- | 0.45  | 0.734  | --- | 0.45  | 0.394  | --- | 0.45  | 0.297  |
+|  0.50  | 0.143  | --- | 0.50  | 0.687  | --- | 0.50  | 0.344  | --- | 0.50  | 0.344  |
+|  0.55  | 0.171  | --- | 0.55  | 0.630  | --- | 0.55  | 0.297  | --- | 0.55  | 0.394  |
+|  0.60  | 0.203  | --- | 0.60  | 0.563  | --- | 0.60  | 0.253  | --- | 0.60  | 0.444  |
+|  0.65  | 0.242  | --- | 0.65  | 0.489  | --- | 0.65  | 0.211  | --- | 0.65  | 0.494  |
+|  0.70  | 0.289  | --- | 0.70  | 0.413  | --- | 0.70  | 0.171  | --- | 0.70  | 0.544  |
+|  0.75  | 0.344  | --- | 0.75  | 0.333  | --- | 0.75  | 0.133  | --- | 0.75  | 0.594  |
+|  0.80  | 0.409  | --- | 0.80  | 0.252  | --- | 0.80  | 0.097  | --- | 0.80  | 0.644  |
+|  0.85  | 0.482  | --- | 0.85  | 0.170  | --- | 0.85  | 0.063  | --- | 0.85  | 0.694  |
+|  0.90  | 0.565  | --- | 0.90  | 0.089  | --- | 0.90  | 0.032  | --- | 0.90  | 0.744  |
+|  0.95  | 0.658  | --- | 0.95  | 0.026  | --- | 0.95  | 0.009  | --- | 0.95  | 0.794  |
+|  1.00  | 0.761  | --- | 1.00  | 0.000  | --- | 1.00  | 0.000  | --- | 1.00  | 0.844  |
+
+P<sub>Bz</sub> wordt als volgt berekend: 
+
+P<sub>Bz</sub> = (14.5 - 67 z/D<sub>S</sub>) (z/D<sub>S</sub>) voor z/D<sub>S</sub> ≤ 0.1,  
+
+P<sub>Bz</sub> = 0.78 + 1.1 (z/D<sub>S</sub> - 0.1) voor z/D<sub>S</sub> > 0.1.  P<sub>Bz</sub> mag niet groter zijn dan 1. 
+
+10. Bij dit voorschrift wordt gebruik gemaakt van een vereenvoudigde kansmethode waarin een somberekening wordt uitgevoerd op alle bijdragen aan de gemiddelde uitstroom van elke ladingtank. Voor bepaalde ontwerpen, zoals die welke worden gekenmerkt door trapsgewijs verspringende schotten/nissen in dekken en hellende schotten en/of geprononceerde rondingen van de romp, kunnen wellicht grondiger berekeningen nodig zijn. In dergelijke gevallen kan een van de volgende berekeningsmethoden worden toegepast: 
+
+.1 De in de bovenstaande leden 8 en 9 bedoelde kansen kunnen nauwkeuriger worden berekend door toepassing van hypothetische sub-afdelingen.  
+
+.2 De in de bovenstaande leden 8 en 9 bedoelde kansen kunnen berekend worden door rechtstreekse toepassing van de kansdichtheidsfuncties vervat in de in voorschrift 19.5 bedoelde Richtlijnen.  
+
+.3 De olie-uitstroom kan worden beoordeeld overeenkomstig de methode omschreven in de in voorschrift 19.5 bedoelde Richtlijnen.  
+
+11. De volgende bepalingen ten aanzien van pijpleidingvoorzieningen zijn van toepassing: 
+
+.1 Pijpleidingen die door ladingtanks lopen, en die zich op een kleinere afstand dan 0,30B<sub>s</sub> van de scheepshuid of op een geringere hoogte dan 0.30D<sub>s</sub> van het scheepsvlak bevinden, dienen op de plaats waar de leiding in de tank uitmondt te zijn voorzien van afsluiters of soortgelijke afsluitmiddelen. Deze afsluiters dienen op zee te allen tijde gesloten te blijven wanneer de tanks olie bevatten, met dien verstande dat zij uitsluitend mogen worden geopend voor het overpompen van lading, wanneer dat nodig is voor essentiële ladinghandelingen.  
+
+.2 Vermindering van de olie-uitstroom door gebruik van een noodsysteem voor het snel overpompen van lading of een ander systeem om de olie-uitstroom bij ongevallen te verminderen mag alleen in de berekening worden meegenomen indien de doeltreffendheid en de veiligheidsaspecten van het systeem door de Organisatie zijn goedgekeurd. Voorlegging ter goedkeuring dient te geschieden in overeenstemming met de bepalingen van de in voorschrift 19.5 bedoelde Richtlijnen.   
 
 ### Voorschrift  24  
 
@@ -8064,7 +9021,7 @@ Onverminderd de bepalingen van de leden 4 en 5 van voorschrift 3 van deze Bijlag
 ####Werkingssfeer
 
 1. De voorschriften vervat in dit hoofdstuk zijn van toepassing op olietankschepen met een brutotonnage van 150 ton of meer die betrokken zijn bij het overpompen van ladingolie tussen olietankschepen op zee (ship-to-ship (STS)-operaties) en hun STS-operaties uitgevoerd op of na 1 april 2012. STS-operaties die echter voor deze datum, maar na goedkeuring door de Administratie van het plan voor STS-operaties, vereist krachtens voorschrift 41.1, worden uitgevoerd, dienen voor zover mogelijk overeen te stemmen met het plan voor STS-operaties. 
-2. De voorschriften vervat in dit hoofdstuk zijn niet van toepassing op het overpompen van olie in het geval van vaste of drijvende platforms, met inbegrip van boorinstallaties, drijvende productie-, opslag- en overslageenheden (FPSO's) die buitengaats worden gebruikt voor de productie en opslag van olie, en drijvende opslageenheden (FSU's) die worden gebruikt voor de opslag buitengaats van geproduceerde olie<sup>1)De herziene Bijlage I bij MARPOL, hoofdstuk 7 (resolutie MEPC.117(52) en UNCLOS artikel 56 zijn van toepassing en hebben betrekking op deze operaties.</sup>. 
+2. De voorschriften vervat in dit hoofdstuk zijn niet van toepassing op het overpompen van olie in het geval van vaste of drijvende platforms, met inbegrip van boorinstallaties, drijvende productie-, opslag- en overslageenheden (FPSO's) die buitengaats worden gebruikt voor de productie en opslag van olie, en drijvende opslageenheden (FSU's) die worden gebruikt voor de opslag buitengaats van geproduceerde olie. 
 3. De voorschriften vervat in dit hoofdstuk zijn niet van toepassing op bunkeroperaties. 
 4. De voorschriften vervat in dit hoofdstuk zijn niet van toepassing op STS-operaties die nodig zijn om de veiligheid van een schip te waarborgen of levens te redden op zee, of om bepaalde verontreinigingsvoorvallen te bestrijden teneinde de schade door verontreiniging tot een minimum te beperken. 
 5. De voorschriften vervat in dit hoofdstuk zijn niet van toepassing op STS-operaties indien een van de betrokken schepen een oorlogsschip, hulpschip of ander schip is dat eigendom is van of wordt geëxploiteerd door een staat, en, op dat ogenblik alleen voor niet-commerciële overheidsdiensten wordt gebruikt. Iedere staat dient door het aannemen van passende maatregelen die niet ten koste gaan van de exploitatie of operationele mogelijkheden van dergelijke schepen, evenwel te waarborgen dat de STS-operaties worden uitgevoerd op een wijze die, voor zover redelijk en praktisch uitvoerbaar, verenigbaar is met dit hoofdstuk.
@@ -8074,17 +9031,17 @@ Onverminderd de bepalingen van de leden 4 en 5 van voorschrift 3 van deze Bijlag
 ####Algemene regels inzake veiligheid en milieubescherming
 
 1. Ieder olietankschip dat STS-operaties uitvoert dient uiterlijk op de datum van het eerste jaarlijks of tussentijds onderzoek of het hernieuwd onderzoek van het schip op of na 1 januari 2011 een plan aan boord te hebben waarin vermeld staat hoe de STS-operaties dienen te worden uitgevoerd (plan voor STS-operaties). Het plan voor STS-operaties van ieder olietankschip dient door de Administratie te worden goedgekeurd. Het plan voor STS-operaties dient te zijn geschreven in de werktaal aan boord van het schip. 
-2. Het plan voor STS-operaties wordt opgesteld rekening houdend met de gegevens uit de richtlijnen voor beste praktijken voor STS-operaties die door de Organisatie zijn vastgesteld<sup>2)„Manual on Oil Pollution, Section I, Prevention”, zoals gewijzigd, van de IMO en „Ship-to-ship Transfer Guide, Petroleum”, vierde editie, 2005, van de ICS/OCIMF.</sup>. Het plan voor STS-operaties kan worden opgenomen in een bestaand Veiligheidsmanagementsysteem, vereist krachtens hoofdstuk IX van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd, indien dit vereiste van toepassing is op het desbetreffende olietankschip. 
+2. Het plan voor STS-operaties wordt opgesteld rekening houdend met de gegevens uit de richtlijnen voor beste praktijken voor STS-operaties die door de Organisatie zijn vastgesteld. Het plan voor STS-operaties kan worden opgenomen in een bestaand Veiligheidsmanagementsysteem, vereist krachtens hoofdstuk IX van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals gewijzigd, indien dit vereiste van toepassing is op het desbetreffende olietankschip. 
 3. Ieder olietankschip waarop dit hoofdstuk van toepassing is dat STS-operaties uitvoert, dient aan het plan voor STS-operaties te voldoen. 
-4. De persoon belast met advisering en algeheel toezicht bij STS-operaties is bevoegd tot het uitvoeren van alle relevante taken, overeenkomstig de bevoegdheden vervat in de richtlijnen voor beste praktijken voor STS-operaties die door de Organisatie zijn vastgesteld<sup>2)„Manual on Oil Pollution, Section I, Prevention”, zoals gewijzigd, van de IMO en „Ship-to-ship Transfer Guide, Petroleum”, vierde editie, 2005, van de ICS/OCIMF.</sup>. 
-5. Verslagen<sup>3)Herziene Bijlage I bij MARPOL, hoofdstukken 3 en 4 (resolutie MEPC.117(52)); vereisten voor het in het Oliejournaal vastleggen van bunkeroperaties en het overpompen van ladingolie en overige krachtens het plan voor STS-operaties vereiste verslagen.</sup>van STS-operaties dienen gedurende drie jaar aan boord te worden bewaard en onmiddellijk beschikbaar te zijn voor inspectie door een partij bij dit Verdrag.
+4. De persoon belast met advisering en algeheel toezicht bij STS-operaties is bevoegd tot het uitvoeren van alle relevante taken, overeenkomstig de bevoegdheden vervat in de richtlijnen voor beste praktijken voor STS-operaties die door de Organisatie zijn vastgesteld. 
+5. Verslagenvan STS-operaties dienen gedurende drie jaar aan boord te worden bewaard en onmiddellijk beschikbaar te zijn voor inspectie door een partij bij dit Verdrag.
 
 ###Voorschrift 42 
 
 ####Kennisgeving
 
 1. Ieder olietankschip waarop dit hoofdstuk van toepassing is waarmee beoogd wordt STS-operaties uit te voeren in de territoriale zee of de exclusieve economische zone van een partij bij dit Verdrag, dient die partij niet minder dan 48 uur van tevoren in kennis te stellen van de geplande STS-operaties. Wanneer, in uitzonderlijke gevallen, alle in het tweede lid genoemde informatie niet ten minste 48 uur van tevoren beschikbaar is, dient het olietankschip dat de ladingolie lost de partij bij dit Verdrag niet minder dan 48 uur van te voren ervan in kennis stellen dat er een STS-operatie zal plaatsvinden en dat de in het tweede lid genoemde informatie zo spoedig mogelijk aan de partij zal worden verstrekt. 
-2. De in het eerste lid van dit voorschrift genoemde kennisgeving<sup>4)Het nationale operationele aanspreekpunt zoals vermeld in document MSC-MEPC.6/Circ.4 van 31 december 2007 of daaropvolgende wijzigingen ervan.</sup>bevat ten minste de volgende gegevens:
+2. De in het eerste lid van dit voorschrift genoemde kennisgevingbevat ten minste de volgende gegevens:
 
 .1.naam, vlag, roepnaam, IMO-nummer en verwachte tijd van aankomst van de olietankschepen die bij de STS-operaties betrokken zijn;
 
@@ -8159,9 +9116,15 @@ OplosmiddelPetroleumDestillaatolie met beperkt kooktraject
 ![10000053471](http://wetten.overheid.nl/Illustration/10000053471)
 ![10000053472](http://wetten.overheid.nl/Illustration/10000053472)
 ![10000053473](http://wetten.overheid.nl/Illustration/10000053473)
-![10000053695](http://wetten.overheid.nl/Illustration/10000053695)
 
-###3. Middelen voor het aan boord houden en verwijderen van olierestanten (oliedrab) (voorschrift 12) en verzameltank(s) voor oliehoudend lenswater<sup>1) Verzameltank(s) voor oliehoudend lenswater wordt/worden niet door het Verdrag vereist; indien een of meer van dergelijke tanks zijn voorzien, dienen zij te worden vermeld in tabel 3.3. </sup>
+2A.1Het schip dient te zijn gebouwd overeenkomstig de vereisten van voorschrift 12A en voldoet aan de vereisten van:
+
+lid 6 en 7 of 8 (dubbele rompconstructie) □
+
+lid 11 (onbedoelde uitstroming van brandstofolie). □
+
+2A.2Het schip behoeft niet te voldoen aan de vereisten van voorschrift 12A. □
+###3. Middelen voor het aan boord houden en verwijderen van olierestanten (oliedrab) (voorschrift 12) en verzameltank(s) voor oliehoudend lenswater
 
 3.1.Het schip is als volgt uitgerust met tanks voor olierestanten (oliedrab) voor het aan boord houden van olierestanten (oliedrab):
 
@@ -8173,7 +9136,7 @@ OplosmiddelPetroleumDestillaatolie met beperkt kooktraject
 
 3.2.Middelen voor het verwijderen van olierestanten (oliedrab) uit de tanks voor olierestanten (oliedrab):
 
-3.2.1.Verbrandingsoven voor olierestanten (oliedrab), maximumcapaciteit kW of kcal/h (doorhalen wat niet van toepassing is) ….. □
+3.2.1.Verbrandingsoven voor olieresiduen (oliedrab)… □
 
 3.2.2.Hulpketel geschikt voor het verbranden van olierestanten (oliedrab)…. □
 
@@ -8196,9 +9159,15 @@ OplosmiddelPetroleumDestillaatolie met beperkt kooktraject
 ![10000053477](http://wetten.overheid.nl/Illustration/10000053477)
 ![10000053478](http://wetten.overheid.nl/Illustration/10000053478)
 ![10000053479](http://wetten.overheid.nl/Illustration/10000053479)
-![10000053696](http://wetten.overheid.nl/Illustration/10000053696)
 
-###3. Middelen voor het aan boord houden en verwijderen van olierestanten (oliedrab) (voorschrift 12) en verzameltank(s) voor oliehoudend lenswater<sup>1) Verzameltank(s) voor oliehoudend lenswater wordt/worden niet door het Verdrag vereist; indien een of meer van dergelijke tanks zijn voorzien, dienen zij te worden vermeld in tabel 3.3. </sup>
+2A.1Het schip dient te zijn gebouwd overeenkomstig de vereisten van voorschrift 12A en voldoet aan de vereisten van:
+
+lid 6 en 7 of 8 (dubbele rompconstructie) □
+
+lid 11 (onbedoelde uitstroming van brandstofolie). □
+
+2A.2Het schip behoeft niet te voldoen aan de vereisten van voorschrift 12A. □
+###3. Middelen voor het aan boord houden en verwijderen van olierestanten (oliedrab) (voorschrift 12) en verzameltank(s) voor oliehoudend lenswater
 
 3.1.Het schip is als volgt uitgerust met tanks voor olierestanten (oliedrab) voor het aan boord houden van olierestanten (oliedrab):
 
@@ -8210,7 +9179,7 @@ OplosmiddelPetroleumDestillaatolie met beperkt kooktraject
 
 3.2.Middelen voor het verwijderen van olierestanten (oliedrab) uit de tanks voor olierestanten (oliedrab):
 
-3.2.1.Verbrandingsoven voor olierestanten (oliedrab), maximumcapaciteit kW of kcal/h (doorhalen wat niet van toepassing is) ….. □
+3.2.1.Verbrandingsoven voor olieresiduen (oliedrab)… □
 
 3.2.2.Hulpketel geschikt voor het verbranden van olierestanten (oliedrab)…. □
 
@@ -8389,7 +9358,7 @@ Het schip is uitgerust met ... aangewezen sloptank(s) meteen totale capaciteit v
 10.1Door de Administratie zijn voor bepaalde vereisten van Bijlage I gelijkwaardige voorzieningen goedgekeurd ten aanzien van de items onder de paragraaf/paragraten van dit rapport □HIERBIJ WORDT VERKLAARD dat dit rapport in alle opzichten correct is. Afgegeven te ........................................(Plaats van afgifte van het rapport)
 
 | --- | --- |
-|---|---|
+|:---|:---|
 |............... |.............................................................................. |
 |(Datum van afgifte) |(handtekening van bevoegde ambtenaar die het rapport afgeeft) |
 
@@ -8446,7 +9415,7 @@ Op de volgende pagina’s van dit hoofdstuk wordt een uitgebreide lijst weergege
 
 (C) *Opslaan, overpompen en verwijderen van olierestanten (oliedrab)*  
 
-11.Opslag van olierestanten (oliedrab).Hoeveelheid aan boord opgeslagen olierestanten (oliedrab). De hoeveelheid dient wekelijks te worden geregistreerd<sup>1)Uitsluitend de tanks vermeld onder punt 3.1 van formulier A en B van het Supplement bij het IOPP-certificaat die voor olierestanten (oliedrab) worden gebruikt.</sup>: (dit houdt in dat de hoeveelheid eenmaal per week dient te worden geregistreerd, zelfs wanneer de reis langer dan een week duurt):
+11.Opslag van olierestanten (oliedrab).Hoeveelheid aan boord opgeslagen olierestanten (oliedrab). De hoeveelheid dient wekelijks te worden geregistreerd: (dit houdt in dat de hoeveelheid eenmaal per week dient te worden geregistreerd, zelfs wanneer de reis langer dan een week duurt):
 
 |.1. |aanduiding van de tank(s) |--- |
 |:---|:---|:---|
@@ -8457,7 +9426,7 @@ Op de volgende pagina’s van dit hoofdstuk wordt een uitgebreide lijst weergege
 
 12.Methoden voor het overpompen of verwijderen van olierestanten (oliedrab).Geef aan welke hoeveelheid aan olierestanten is overgepompt of verwijderd, welke tank(s) geleegd is/zijn en welke hoeveelheid is opgeslagen, in m<sup>3</sup>:
 
-.1.afgegeven bij ontvangstinrichtingen (vermeld naam haven)<sup>2)De kapitein van het schip dient van de beheerder van de ontvangstinrichtingen, waaronder lichters en tankvoertuigen, een ontvangstbewijs of verklaring te verkrijgen waarin de hoeveelheid overgebracht(e) tankwaswater, vuil ballastwater, restanten of oliehoudende mengsels wordt vermeld, alsmede het tijdstip en de datum van de overbrenging. Dit ontvangstbewijs of deze verklaring kan, mits aan het Oliejournaal Deel I gehecht, de kapitein van het schip helpen aan te tonen dat dit schip niet bij een vermeend verontreinigingsvoorval betrokken was. Het ontvangstbewijs of de verklaring dient bij het Oliejournaal Deel I te worden bewaard.</sup>;
+.1.afgegeven bij ontvangstinrichtingen (vermeld naam haven);
 
 .2.overgebracht naar een of meerdere andere tanks (geef aan om welke tanks het gaat en wat de totale inhoud van de tank(s) is);
 
@@ -8467,7 +9436,7 @@ Op de volgende pagina’s van dit hoofdstuk wordt een uitgebreide lijst weergege
 
 (D) *Niet-automatisch starten van lozing overboord, overpompen of andere methode van verwijdering van lenswater dat zich in machineruimten heeft verzameld*  
 
-13.Geloosde, overgepompte of anderszins verwijderde hoeveelheid in m<sup>3</sup>.<sup>3)In geval van lozing of verwijdering van lenswater uit (een) verzameltank(s) dient te worden vermeld om welke tank(s) het gaat, welke capaciteit deze heeft/hebben en welke hoeveelheid in de verzameltank(s) is opgeslagen.</sup>
+13.Geloosde, overgepompte of anderszins verwijderde hoeveelheid in m<sup>3</sup>.
 
 14.Tijdstip van lozen, overpompen of verwijderen (begin en einde). 
 
@@ -8475,7 +9444,7 @@ Op de volgende pagina’s van dit hoofdstuk wordt een uitgebreide lijst weergege
 
 .1.via 15 ppm-apparatuur (vermeld de positie bij begin en einde); 
 
-.2.afgegeven bij ontvangstinrichtingen (vermeld naam haven)<sup>3)In geval van lozing of verwijdering van lenswater uit (een) verzameltank(s) dient te worden vermeld om welke tank(s) het gaat, welke capaciteit deze heeft/hebben en welke hoeveelheid in de verzameltank(s) is opgeslagen.</sup>;
+.2.afgegeven bij ontvangstinrichtingen (vermeld naam haven);
 
 .3.naar een sloptank, verzameltank of andere tank(s) (geef aan om welke tank(s) het gaat en vermeld de totale in de tank(s) opgeslagen hoeveelheid, in m<sup>3</sup>). 
 
@@ -8489,7 +9458,7 @@ Op de volgende pagina’s van dit hoofdstuk wordt een uitgebreide lijst weergege
 
 (F) *Toestand van de oliefiltreerinstallatie*  
 
-19.Tijdstip van de systeemstoring<sup>4)De toestand van de oliefiltreerinstallatie betreft ook de voorzieningen betreffende de alarmering en automatische uitschakeling, indien van toepassing.</sup>.
+19.Tijdstip van de systeemstoring.
 
 20.Tijdstip waarop de installatie weer operationeel was.
 
@@ -9943,11 +10912,11 @@ Categorie Y, stollende of hoogvisceuze stof k = 1,0  De onderstaande tabel is be
 
 1.  Tenzij uitdrukkelijk anders is bepaald, zijn de voorschriften van deze Bijlage van toepassing op alle schepen die schadelijke stoffen vervoeren in verpakte vorm. 
 
-.1 Voor de toepassing van deze Bijlage wordt onder „schadelijke stoffen” verstaan de stoffen die als mariene-milieuverontreinigende stoffen zijn aangemerkt in de Internationale Maritieme Code voor Gevaarlijke Stoffen (IMDG-Code)<sup> 1) Verwezen wordt naar de door de Organisatie bij resolutie MSC.122(75) aangenomen IMDG-Code, zoals gewijzigd door de Maritieme Veiligheidscommissie. </sup> of die voldoen aan de criteria van het Aanhangsel bij deze Bijlage.  
+.1 Voor de toepassing van deze Bijlage wordt onder „schadelijke stoffen” verstaan de stoffen die als mariene-milieuverontreinigende stoffen zijn aangemerkt in de Internationale Maritieme Code voor Gevaarlijke Stoffen (IMDG-Code) of die voldoen aan de criteria van het Aanhangsel bij deze Bijlage.  
 
 .2 Voor de toepassing van deze Bijlage wordt onder „verpakte vorm” verstaan de in de IMDG-Code voorgeschreven vormen van omhulling voor schadelijke stoffen.     
 2.  Het vervoer van schadelijke stoffen is verboden, tenzij dit geschiedt in overeenstemming met de bepalingen van deze Bijlage.   
-3.  De regering van elke partij bij het Verdrag zal ter aanvulling van de bepalingen van deze Bijlage gedetailleerde voorschriften uitvaardigen, of doen uitvaardigen, met betrekking tot de wijze van verpakking, het merken en etiketteren, de begeleidende papieren, de stuwage, de beperkingen van hoeveelheden, en uitzonderingen, zulks teneinde verontreiniging van het mariene milieu door schadelijke stoffen te voorkomen of te beperken.<sup> 1) Verwezen wordt naar de door de Organisatie bij resolutie MSC.122(75) aangenomen IMDG-Code, zoals gewijzigd door de Maritieme Veiligheidscommissie. </sup>    
+3.  De regering van elke partij bij het Verdrag zal ter aanvulling van de bepalingen van deze Bijlage gedetailleerde voorschriften uitvaardigen, of doen uitvaardigen, met betrekking tot de wijze van verpakking, het merken en etiketteren, de begeleidende papieren, de stuwage, de beperkingen van hoeveelheden, en uitzonderingen, zulks teneinde verontreiniging van het mariene milieu door schadelijke stoffen te voorkomen of te beperken.    
 4.  Voor de toepassing van deze Bijlage worden lege verpakkingen die eerder zijn gebruikt voor het vervoer van schadelijke stoffen, zelf als schadelijke stoffen behandeld, tenzij toereikende voorzorgen zijn getroffen teneinde te verzekeren dat zij geen restant bevatten dat schadelijk is voor het mariene milieu.   
 5.  De vereisten van deze Bijlage gelden niet voor voorraden en uitrusting aan boord van schepen.  
 
@@ -9966,7 +10935,7 @@ Verpakkingen dienen, met het oog op hun specifieke inhoud, toereikend te zijn om
 
 ### Voorschrift  4  
 
-####<sup> 2)  De verwijzing naar ,,begeleidende papieren” in dit voorschrift staan het gebruik van technieken voor de elektronische verwerking van gegevens (EDP) en de elektronische onderlinge uitwisseling van gegevens (EDI) als hulpmiddel bij papieren documenten niet in de weg.  </sup>Begeleidende papieren
+####Begeleidende papieren
 
 1.  Transportinformatie over het vervoer van schadelijke stoffen dient te voldoen aan de relevante bepalingen van de IMDG-Code en dient ter beschikking te worden gesteld van de door de autoriteit van de havenstaat aangewezen persoon of organisatie.   
 2.  Op elk schip dat schadelijke stoffen vervoert dient een bijzondere lijst, een manifest of een gedetailleerd stuwplan aanwezig te zijn waarin in overeenstemming met de relevante bepalingen van de IMDG-Code de schadelijke stoffen aan boord en de locatie ervan zijn vermeld. Voor vertrek dient een afschrift van een van deze documenten aan de door de autoriteit van de havenstaat aangewezen persoon of organisatie ter beschikking te worden gesteld. 
@@ -9992,7 +10961,7 @@ Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde
 
 ### Voorschrift  8  
 
-####Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord<sup> 3)  Verwezen wordt naar de Procedures voor controle door de havenstaat, aangenomen door de Organisatie bij resolutie A.787(19) en gewijzigd bij resolutie A.882(21).  </sup> 
+####Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord 
 
 1.  Een schip dat zich in een haven of een laad- of losplaats buitengaats van een andere partij bevindt wordt geïnspecteerd door ambtenaren die door die partij naar behoren zijn gemachtigd om te controleren of voldaan wordt aan de in deze Bijlage bedoelde vereisten met betrekking tot de bedrijfsvoering aan boord.   
 2.  Wanneer er duidelijke gronden zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord moeten worden toegepast om verontreiniging door schadelijke stoffen te voorkomen, neemt de partij maatregelen, waaronder het verrichten van een gedetailleerde inspectie en ziet er indien nodig op toe dat het schip niet uitvaart, voordat de situatie in overeenstemming is gebracht met de vereisten van deze Bijlage.   
@@ -10003,7 +10972,7 @@ Om gegronde wetenschappelijke en technische redenen kan het vervoer van bepaalde
 
 ####Criteria voor de identificatie van schadelijke stoffen in verpakte vorm
 
-Voor de toepassing van deze Bijlage worden als schadelijke stoffen aangemerkt:<sup> 1) Deze criteria zijn gebaseerd op de criteria ontwikkeld door het United Nations Globally Harmonized System of Classification and Labelling of Chemicals (GHS), zoals gewijzigd. Voor omschrijvingen van de in dit aanhangsel gebruikte acroniemen of begripsomschrijvingen wordt verwezen naar de desbetreffende delen van de IMDG-Code. </sup>  
+Voor de toepassing van deze Bijlage worden als schadelijke stoffen aangemerkt:  
 
 a. Acuut gevaar voor de flora en fauna in het water (korte termijn)  
 
@@ -10116,29 +11085,29 @@ vandaar naar een punt op de kust van Australië
 
 op 24°42’ zuiderbreedte en 153°15’ oosterlengte.  
 
-5bis. „bijzonder gebied”, een zeegebied waarbinnen, om algemeen aanvaarde technische redenen met betrekking tot de oceanografische en ecologische toestand en het speciale karakter van het scheepvaartverkeer binnen dat gebied, aanneming van bijzondere verplichte methoden ter voorkoming van verontreiniging van de zee door sanitair afval nodig is; Deze bijzondere gebieden zijn: 
+6. „bijzonder gebied”, een zeegebied waarbinnen, om algemeen aanvaarde technische redenen met betrekking tot de oceanografische en ecologische toestand en het speciale karakter van het scheepvaartverkeer binnen dat gebied, aanneming van bijzondere verplichte methoden ter voorkoming van verontreiniging van de zee door sanitair afval nodig is; Deze bijzondere gebieden zijn: 
 
 .1 het Oostzeegebied zoals omschreven in voorschrift 1.11.2 van Bijlage I; en  
 
 .2 elk ander zeegebied dat door de Organisatie is aangewezen overeenkomstig de criteria en procedures voor de aanwijzing van bijzondere gebieden met betrekking tot het voorkomen van verontreiniging door sanitair afval van schepen.<sup> 1) Zie resolutie A.927(22) van de Algemene Vergadering voor de aanwijzing van bijzondere gebieden ingevolge MARPOL 73/78 en richtlijnen voor de erkenning en aanwijzing van bijzonder kwetsbare zeegebieden. </sup>    
 
-6.„internationale reis”, een reis vanuit een land waarop dit Verdrag van toepassing is naar een haven buiten dat land of vice versa.
+7.„internationale reis”, een reis vanuit een land waarop dit Verdrag van toepassing is naar een haven buiten dat land of vice versa.
 
-7.„persoon”, een lid van de bemanning of een passagier. 
+8.„persoon”, een lid van de bemanning of een passagier. 
 
-7bis. „een passagier”, iedere persoon anders dan: 
+9. „een passagier”, iedere persoon anders dan: 
 
 .1. de kapitein en de leden van de bemanning of andere personen die, in welke hoedanigheid dan ook, in dienst of te werk zijn gesteld ten behoeve van dat schip; en  
 
 .2. een kind jonger dan één jaar.    
 
-7ter. „een passagiersschip”, een schip dat meer dan twaalf passagiers vervoert. Voor de toepassing van voorschrift 11.3 wordt onder een *„nieuw passagiersschip”* verstaan een passagiersschip: 
+10. „een passagiersschip”, een schip dat meer dan twaalf passagiers vervoert. Voor de toepassing van voorschrift 11.3 wordt onder een *„nieuw passagiersschip”* verstaan een passagiersschip: 
 
 1. waarvoor het bouwcontract wordt afgesloten of waarvan, bij het ontbreken van een bouwcontract, de kiel wordt gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt op of na 1 januari 2016; of  
 
 .2. waarvan de oplevering plaatsvindt twee jaar of meer na 1 januari 2016.   Een *„bestaand passagiersschip”* is een passagiersschip dat geen nieuw passagiersschip is. 
 
-8.„verjaardatum”, de dag en maand van elk jaar die overeenkomen met de datum waarop het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval verloopt. 
+11.„verjaardatum”, de dag en maand van elk jaar die overeenkomen met de datum waarop het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair Afval verloopt. 
 
 ### Voorschrift  2  
 
@@ -10276,7 +11245,7 @@ Het Internationaal Certificaat van Voorkoming van Verontreiniging door Sanitair 
 
 2. In afwijking van het eerste lid dient ieder passagiersschip dat, in overeenstemming met voorschrift 2 dient te voldoen aan de bepalingen van deze Bijlage, en waarop voorschrift 11.3 van toepassing is wanneer het zich in een bijzonder gebied bevindt, te zijn uitgerust met een van de volgende systemen voor sanitair afval: 
 
-.1 een installatie voor het behandelen van sanitair afval van een door de Administratie goedgekeurd type, rekening houdend met de door de Organisatie ontwikkelde normen en testmethodes<sup> 2) Zie de [concept 2012] Richtlijnen voor de implementatie van effluentnormen en prestatieproeven voor installaties voor het behandelen van sanitair afval aangenomen door de Commissie voor de Bescherming van het Mariene Milieu bij [resolutie MEPC....]. </sup>, of  
+.1 een installatie voor het behandelen van sanitair afval van een door de Administratie goedgekeurd type, rekening houdend met de door de Organisatie ontwikkelde normen en testmethodes, of  
 
 .2 een verzameltank met naar tevredenheid van de Administratie voldoende capaciteit voor het opslaan van alle sanitair afval, rekening houdend met de exploitatie van het schip, het aantal opvarenden en andere relevante factoren. De constructie van de verzameltank dient naar tevredenheid van de Administratie te zijn en een voorziening hebben om zichtbaar het niveau van de inhoud aan te geven.    
 
@@ -10308,7 +11277,7 @@ Voor schepen met een holte naar de mal van 5 meter of minder, mag de inwendige d
 
 1.  Onverminderd de bepalingen van voorschrift 3 van deze Bijlage is het lozen in zee van sanitair afval verboden, behalve wanneer: 
 
-.1. de lozing van het schip versneden en ontsmet sanitair afval betreft op een afstand van meer dan 3 zeemijlen van het dichtstbijzijnde land, waarbij een door de Administratie in overeenstemming met voorschrift 9.1.2 van deze Bijlage goedgekeurd systeem wordt gebruikt, ofwel sanitair afval betreft dat niet is versneden of ontsmet op een afstand van meer dan 12 zeemijlen van het dichtstbijzijnde land, mits in elk geval het in verzameltanks opgeslagen sanitaire afval of sanitair afval afkomstig van ruimten waar zich levende dieren bevinden niet ineens wordt geloosd, doch in een matig tempo, terwijl het schip onderweg is met een snelheid van niet minder dan 4 knopen; het tempo van de lozing dient te worden goedgekeurd door de Administratie op grond van door de Organisatie<sup> 3) Zie de aanbeveling inzake normen voor het tempo van lozing van onbehandeld sanitair afval van schepen aangenomen door de Commissie voor de Bescherming van het Mariene Milieu van de Organisatie bij resolutie MEPC.157(55). </sup> ontwikkelde normen; of  
+.1. de lozing van het schip versneden en ontsmet sanitair afval betreft op een afstand van meer dan 3 zeemijlen van het dichtstbijzijnde land, waarbij een door de Administratie in overeenstemming met voorschrift 9.1.2 van deze Bijlage goedgekeurd systeem wordt gebruikt, ofwel sanitair afval betreft dat niet is versneden of ontsmet op een afstand van meer dan 12 zeemijlen van het dichtstbijzijnde land, mits in elk geval het in verzameltanks opgeslagen sanitaire afval of sanitair afval afkomstig van ruimten waar zich levende dieren bevinden niet ineens wordt geloosd, doch in een matig tempo, terwijl het schip onderweg is met een snelheid van niet minder dan 4 knopen; het tempo van de lozing dient te worden goedgekeurd door de Administratie op grond van door de Organisatie ontwikkelde normen; of  
 
 .2. het schip een installatie voor het behandelen van sanitair afval in gebruik heeft, die door de Administratie is gecertificeerd teneinde te voldoen aan de operationele vereisten bedoeld in voorschrift 9.1.1 van deze Bijlage, en het geloosde effluent geen zichtbare drijvende vaste deeltjes veroorzaakt noch verkleuring van het omringende water.     
 2.  Het bepaalde in paragraaf 1 is niet van toepassing op schepen die zich bevinden in de wateren onder de rechtsmacht van een Staat en bezoekende schepen uit andere Staten terwijl zij zich in deze wateren bevinden en bezig zijn met het lozen van sanitair afval in overeenstemming met de eventueel minder strikte eisen die door die Staat kunnen worden gesteld.  
@@ -10316,9 +11285,9 @@ Voor schepen met een holte naar de mal van 5 meter of minder, mag de inwendige d
 
 3.  Onverminderd de bepalingen van voorschrift 3 van deze Bijlage is het lozen van sanitair afval van een passagiersschip in een bijzonder gebied verboden: 
 
-a. voor nieuwe passagiersschepen op of na 1 januari 2016, onverminderd voorschrift 12bis, subparagraaf 2; en  
+.1 voor nieuwe passagiersschepen op of na 1 januari 2016, onverminderd voorschrift 13, subparagraaf 2; en  
 
-b. voor bestaande passagiersschepen op of na 1 januari 2018, onverminderd voorschrift 12bis, subparagraaf 2, behalve wanneer aan de volgende voorwaarden wordt voldaan: het schip een installatie voor het behandelen van sanitair afval in gebruik heeft die door de Administratie is gecertificeerd teneinde te voldoen aan de operationele vereisten bedoeld in voorschrift 9.2.1 van deze Bijlage, en het geloosde effluent veroorzaakt geen zichtbare drijvende vaste deeltjes noch verkleuring van het omringende water    
+.2 voor bestaande passagiersschepen op of na 1 januari 2018, onverminderd voorschrift 13, subparagraaf 2, behalve wanneer aan de volgende voorwaarden wordt voldaan: het schip een installatie voor het behandelen van sanitair afval in gebruik heeft die door de Administratie is gecertificeerd teneinde te voldoen aan de operationele vereisten bedoeld in voorschrift 9.2.1 van deze Bijlage, en het geloosde effluent veroorzaakt geen zichtbare drijvende vaste deeltjes noch verkleuring van het omringende water    
 ### C Algemene vereisten
 
 4.  Indien het sanitair afval wordt vermengd met afval of afvalwater waarop andere Bijlagen van MARPOL van toepassing zijn, dient behalve aan de vereisten van deze Bijlage tevens aan de vereisten van die Bijlagen te worden voldaan.  
@@ -10343,7 +11312,7 @@ b. voor bestaande passagiersschepen op of na 1 januari 2018, onverminderd voors
 
 2.De Regering van elke Partij stelt de Organisatie in kennis, opdat deze de andere betrokken Verdragsluitende Regeringen op de hoogte kan stellen, van alle gevallen waarin gesteld wordt dat de uit hoofde van dit voorschrift ter beschikking gestelde voorzieningen onvoldoende zijn. 
 
-### Voorschrift 12bis  
+### Voorschrift 13  
 
 ####Ontvangstinrichtingen voor passagiersschepen in bijzondere gebieden 
 
@@ -10360,7 +11329,7 @@ b. voor bestaande passagiersschepen op of na 1 januari 2018, onverminderd voors
 
 ####DOOR DE HAVENSTAAT UIT TE OEFENEN CONTROLE
 
-### Voorschrift  13  
+### Voorschrift  14  
 
 ####Door de havenstaat uit te oefenen controle op de vereisten met betrekking tot de bedrijfsvoering aan boord 
 
@@ -10377,7 +11346,7 @@ b. voor bestaande passagiersschepen op of na 1 januari 2018, onverminderd voors
 
 Afgegeven krachtens de bepalingen van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978 daarbij en gewijzigd bij resolutie MEPC (..), (hierna te noemen het „Verdrag”) namens de Regering van: ................................................................................................ (volledige naam van het land)  door .........................................................................................(volledige naam van de bevoegde persoon of organisatie gemachtigd overeenkomstig de bepalingen van het Verdrag)   *Gegevens van het schip*<sup>1)De gegevens van het schip kunnen ook horizontaal worden vermeld in vakjes.</sup> Type schip voor de toepassing van voorschrift 11.3:<sup> 4) Doorhalen wat niet van toepassing is. </sup>  Nieuw/bestaand passagiersschip Schip anders dan een passagiersschipNaam van het ship ..................................................................................... Onderscheidingsnummer of -letters ............................................................. Haven van registratie .................................................................................. Bruto tonnage ........................................................................................... Aantal personen dat het schip mag vervoeren ............................................... IMO-nummer<sup>2)Zie het stelsel voor scheepsidentieficatienummers van de IMO door de Organisatie aangenomen bij resolutie A.600(15).</sup> Nieuw/bestaand schip<sup>*)Doorhalen wat niet van toepassing is.</sup> ......................................................................... Datum waarop de kiel werd gelegd of de bouw van het schip zich in een soortgelijk stadium bevond, of, indien van toepassing, de aanvangsdatum van werkzaamheden ten behoeve van een verandering of wijziging van ingrijpende aard: ..................................................................... HIERBIJ WORDT VERKLAARD: 
 
-1.dat het schip uitgerust is met de volgende installatie voor het behandelen/versnijden van sanitair afval/ een verzameltank<sup>*)Doorhalen wat niet van toepassing is.</sup> alsmede een scheepsleiding voor afgifte in overeenstemming met de voorschriften 9 en 10 van Bijlage IV van het Verdrag: *1.1 Beschrijving van de installatie voor het behandelen van sanitair afval: Type installatie voor het behandelen van sanitair afval: ........ Naam van fabrikant: ........ De installatie voor het behandelen van sanitair afval is door de Administratie gecertificeerd en voldoet aan de effluentnormen voorzien in resolutie MEPC.2 (VI). De installatie voor het behandelen van sanitair afval is door de Administratie gecertificeerd en voldoet aan de effluentnormen voorzien in resolutie MEPC.159 (55). De installatie voor het behandelen van sanitair afval is door de Administratie gecertificeerd en voldoet aan de effluentnormen voorzien in [resolutie MEPC…]<sup> 5) Het nummer van de MEPC-resolutie wordt toegevoegd wanneer de normen door de MEPC tijdens een toekomstige zitting worden aangenomen. </sup>. *1.2 Beschrijving van versnijdingssysteem Type installatie: ...........................................................Naam van fabrikant: .....................................................Zuiveringsgraad van sanitair afval na ontsmetting ............. *1.3 Beschijving van de opslagtank: Totale capaciteit van opslagtank: ............................ m<sup>3</sup> Locatie: ..................................................................... 1.4 Een pijpleiding voor afgifte van sanitair afval aan een ontvangstinrichting uitgerust met een standaardwalaansluiting. 
+1.dat het schip uitgerust is met de volgende installatie voor het behandelen/versnijden van sanitair afval/ een verzameltank<sup>*)Doorhalen wat niet van toepassing is.</sup> alsmede een scheepsleiding voor afgifte in overeenstemming met de voorschriften 9 en 10 van Bijlage IV van het Verdrag: *1.1 Beschrijving van de installatie voor het behandelen van sanitair afval: Type installatie voor het behandelen van sanitair afval: ........ Naam van fabrikant: ........ De installatie voor het behandelen van sanitair afval is door de Administratie gecertificeerd en voldoet aan de effluentnormen voorzien in resolutie MEPC.2 (VI). De installatie voor het behandelen van sanitair afval is door de Administratie gecertificeerd en voldoet aan de effluentnormen voorzien in resolutie MEPC.159 (55). De installatie voor het behandelen van sanitair afval is door de Administratie gecertificeerd en voldoet aan de effluentnormen voorzien in door de organisatie ontwikkelde richtlijnen. *1.2 Beschrijving van versnijdingssysteem Type installatie: ...........................................................Naam van fabrikant: .....................................................Zuiveringsgraad van sanitair afval na ontsmetting ............. *1.3 Beschijving van de opslagtank: Totale capaciteit van opslagtank: ............................ m<sup>3</sup> Locatie: ..................................................................... 1.4 Een pijpleiding voor afgifte van sanitair afval aan een ontvangstinrichting uitgerust met een standaardwalaansluiting. 
 
 2.dat het schip is onderzocht in overeenstemming met voorschrift 4 van Bijlage IV bij het Verdrag. 
 
@@ -10527,23 +11496,23 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 ####Ontvangstinstallaties
 
 1.  Elke partij verbindt zich ertoe te waarborgen dat havens en laad- en losplaatsen zijn voorzien van toereikende installaties voor het in ontvangst nemen van vuilnis, zonder onnodig oponthoud van schepen te veroorzaken, volgens de behoeften van de schepen die er gebruik van maken.   
-2.  Elke partij stelt de Organisatie in kennis van alle gevallen waarin de installaties die ingevolge de bepalingen van dit voorschrift zijn aangebracht, als ontoereikend worden aangemerkt, waarna de Organisatie de betrokken Verdragsluitende Partijen op de hoogte stelt.  
+2.  Ontvangstinstallaties binnen bijzondere gebieden 
+
+.1. Elke partij wier kustlijn grenst aan een bijzonder gebied verbindt zich ertoe te waarborgen dat zo spoedig mogelijk alle havens en laad- en losplaatsen binnen het bijzondere gebied worden voorzien van toereikende ontvangstinstallaties, rekening houdend met de behoeften van schepen die in deze gebieden geëxploiteerd worden.  
+
+.2. Elke betrokken partij stelt de Organisatie in kennis van de maatregelen die zijn getroffen ingevolge subparagraaf 3.1 van dit voorschrift. Na ontvangst van voldoende kennisgevingen stelt de Organisatie een datum vast waarop de vereisten van voorschrift 6 van deze Bijlage ten aanzien van het betrokken gebied van kracht dienen te worden. De Organisatie stelt alle partijen ten minste twaalf maanden van tevoren in kennis van de vastgestelde datum. Tot de aldus vastgestelde datum dienen schepen die in een bijzonder gebied varen te voldoen aan de vereisten van voorschrift 4 van deze Bijlage wat betreft lozingen buiten bijzondere gebieden.   
 2bis. Kleine eilandstaten in ontwikkeling kunnen met behulp van regionale regelingen voldoen aan de vereisten van de leden 1 en 2.1 van dit voorschrift, indien dergelijke regelingen de enige praktische manier zijn om aan deze vereisten te voldoen vanwege de unieke omstandigheden van die staten. Partijen die deelnemen aan een regionale regeling moeten een regionaal plan voor ontvangstfaciliteiten opstellen waarbij rekening wordt gehouden met de door de Organisatie opgestelde richtlijnen.De Regering van elke Partij die deelneemt aan de regeling overlegt met de Organisatie, ten behoeve van het rondsturen aan de Partijen bij dit Verdrag, over:
 
 .1 de wijze waarop in het regionale plan voor ontvangstfaciliteiten rekening wordt gehouden met de richtlijnen;  
 
 .2 bijzonderheden van de aangewezen regionale ontvangstfaciliteiten voor afval van schepen; en  
 
-.3 bijzonderheden van havens met beperkte voorzieningen.   
-3.  Ontvangstinstallaties binnen bijzondere gebieden 
-
-.1. Elke partij wier kustlijn grenst aan een bijzonder gebied verbindt zich ertoe te waarborgen dat zo spoedig mogelijk alle havens en laad- en losplaatsen binnen het bijzondere gebied worden voorzien van toereikende ontvangstinstallaties, rekening houdend met de behoeften van schepen die in deze gebieden geëxploiteerd worden.  
-
-.2. Elke betrokken partij stelt de Organisatie in kennis van de maatregelen die zijn getroffen ingevolge subparagraaf 3.1 van dit voorschrift. Na ontvangst van voldoende kennisgevingen stelt de Organisatie een datum vast waarop de vereisten van voorschrift 6 van deze Bijlage ten aanzien van het betrokken gebied van kracht dienen te worden. De Organisatie stelt alle partijen ten minste twaalf maanden van tevoren in kennis van de vastgestelde datum. Tot de aldus vastgestelde datum dienen schepen die in een bijzonder gebied varen te voldoen aan de vereisten van voorschrift 4 van deze Bijlage wat betreft lozingen buiten bijzondere gebieden.    
+.3 bijzonderheden van havens met beperkte voorzieningen.    
+3.  Elke partij stelt de Organisatie in kennis van alle gevallen waarin de installaties die ingevolge de bepalingen van dit voorschrift zijn aangebracht, als ontoereikend worden aangemerkt, waarna de Organisatie de betrokken Verdragsluitende Partijen op de hoogte stelt. 
 
 ### Voorschrift  9  
 
-####Havenstaatcontrole op operationele vereisten<sup> 1)  Zie de Procedures voor havenstaatcontrole, aangenomen door de Organisatie bij resolutie A.787(19) als gewijzigd bij resolutie A.882(21); zie IMO sales publication IA650E.  </sup> 
+####Havenstaatcontrole op operationele vereisten 
 
 1.  Een schip dat zich bevindt in een haven of een laad- of losplaats buitengaats van een andere partij wordt onderworpen aan inspectie door ambtenaren die door bedoelde partij naar behoren zijn gemachtigd om te controleren of voldaan is aan de in deze Bijlage bedoelde operationele vereisten, wanneer er gegronde redenen zijn om aan te nemen dat de kapitein of de leden van de bemanning niet op de hoogte zijn van de essentiële procedures die aan boord dienen te worden toegepast om verontreiniging door vuilnis te voorkomen.   
 2.  In de omstandigheden bedoeld in de eerste paragraaf van dit voorschrift, neemt de partij de noodzakelijke maatregelen om te waarborgen dat het schip niet uitvaart totdat de situatie in overeenstemming is gebracht met de vereisten van deze Bijlage.   
@@ -10552,7 +11521,7 @@ Tenzij uitdrukkelijk anders bepaald, zijn de bepalingen van deze Bijlage van toe
 
 ### Voorschrift  10  
 
-####Plakkaten, vuilnisbeheerplannen<sup> 2)  Zie de Richtsnoeren voor de ontwikkeling van vuilnisbeheerplannen aangenomen door de Commissie voor de bescherming van het mariene milieu van de Organisatie bij resolutie MEPC.71(38); zie MEPC/Circ.317 en IMO sales publication IA656E.  </sup> en het bijhouden van het vuilnisjournaal
+####Plakkaten, vuilnisbeheerplannen en het bijhouden van het vuilnisjournaal
 
 1.  
 
@@ -10587,7 +11556,7 @@ Naam van het schip: ........ Onderscheidingsnummer of -letters: ........ IMO-nr.
 In overeenstemming met voorschrift 10 van Bijlage V van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, als gewijzigd bij het Protocol van 1978 daarbij (MARPOL) dient een journaal te worden bijgehouden van elke lozing of voltooide verbranding. Dit omvat mede lozingen op zee, afvoer naar ontvangstinstallaties of naar andere schepen, alsmede het onbedoelde verlies van vuilnis.
 ###2. Vuilnis en vuilnisbeheer
 
-Vuilnis omvat alle soorten voedselresten, huishoudelijk afval en afval uit de bedrijfsvoering, alle plastic, ladingrestanten, bak- en braadolie, vistuig en dierlijke kadavers, ontstaan tijdens de normale bedrijfsvoering van het schip en die vermoedelijk voortdurend of regelmatig worden verwijderd van het schip, met uitzondering van de stoffen omschreven of opgesomd in andere Bijlagen bij dit Verdrag. Onder vuilnis wordt niet verstaan verse vis en gedeelten daarvan, die zijn onstaan als gevolg van visactiviteiten tijdens de reis of die het resultaat zijn van werkzaamheden op het gebied van aquacultuur die met zich meebrengen dat vis, met inbegrip van schaaldieren, vervoerd dient te worden om in de faciliteit voor aquacultuur geplaatst te worden en dat geoogste vis, met inbegrip van schaaldieren, van deze faciliteiten naar wal vervoerd dient te worden ter verwerking.Voor relevante informatie dient tevens te worden verwezen naar de Richtsnoeren voor de toepassing van Bijlage V van MARPOL.<sup> 3) Zie de Richtsnoeren voor de implementatie van Bijlage V van MARPOL 73/78, zoals gewijzigd bij resoluties. </sup> 
+Vuilnis omvat alle soorten voedselresten, huishoudelijk afval en afval uit de bedrijfsvoering, alle plastic, ladingrestanten, bak- en braadolie, vistuig en dierlijke kadavers, ontstaan tijdens de normale bedrijfsvoering van het schip en die vermoedelijk voortdurend of regelmatig worden verwijderd van het schip, met uitzondering van de stoffen omschreven of opgesomd in andere Bijlagen bij dit Verdrag. Onder vuilnis wordt niet verstaan verse vis en gedeelten daarvan, die zijn onstaan als gevolg van visactiviteiten tijdens de reis of die het resultaat zijn van werkzaamheden op het gebied van aquacultuur die met zich meebrengen dat vis, met inbegrip van schaaldieren, vervoerd dient te worden om in de faciliteit voor aquacultuur geplaatst te worden en dat geoogste vis, met inbegrip van schaaldieren, van deze faciliteiten naar wal vervoerd dient te worden ter verwerking.Voor relevante informatie dient tevens te worden verwezen naar de Richtsnoeren voor de toepassing van Bijlage V van MARPOL. 
 ###3. Beschrijving van het vuilnis
 
 Vuilnis wordt als volgt in categorieën gegroepeerd ten behoeve van het vuilnisjournaal (of het scheepsjournaal): 
@@ -10608,12 +11577,12 @@ G. Ladingrestanten
 
 H. Dierlijke kadavers  
 
-I. Vistuig<sup> 4) Zie de door de Organisatie te ontwikkelen richtsnoeren. </sup>   
+I. Vistuig   
 ###4. Aantekeningen in het vuilnisjournaal
 
 4.1. Elk van de volgende gebeurtenissen dient te worden aangetekend in het vuilnisjournaal: 
 
-4.1.1. Wanneer vuilnis wordt afgevoerd naar een ontvangstinstallatie<sup> 5) De kapitein van het schip dient van de exploitant van de ontvangstinstallatie, waaronder lichters en tankvoertuigen, een ontvangstbewijs of verklaring te verkrijgen waarin de geschatte hoeveelheid overgebracht vuilnis wordt vermeld. Het ontvangstbewijs of de verklaring dient bij het vuilnisjournaal te worden bewaard. </sup> aan wal of naar andere schepen: 
+4.1.1. Wanneer vuilnis wordt afgevoerd naar een ontvangstinstallatie aan wal of naar andere schepen: 
 
 .1. De datum en het tijdstip van afvoer  
 
@@ -10714,7 +11683,7 @@ De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdr
 
 Voor de toepassing van deze Bijlage: 
 
-1. wordt onder *Bijlage* verstaan Bijlage VI bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973 (MARPOL), zoals gewijzigd bij het [Protocol daarbij van 1978](../../../../../../../../../../../../verdrag/marpol/protocol/78/BWBV0003287/README.md), en zoals gewijzigd bij het [Protocol van 1997](../../../../../../../../../../../../verdrag/marpol/protocol/97/BWBV0003459/README.md), zoals gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen en van kracht worden overeenkomstig het bepaalde in artikel 16 van dit Verdrag.  
+1. wordt onder *Bijlage* verstaan Bijlage VI bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973 (MARPOL), zoals gewijzigd bij het Protocol daarbij van 1978, en zoals gewijzigd bij het Protocol van 1997, zoals gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen en van kracht worden overeenkomstig het bepaalde in artikel 16 van dit Verdrag.  
 
 2. wordt onder* een soortgelijk bouwstadium *verstaan het stadium waarin: 
 
@@ -10736,7 +11705,7 @@ Voor de toepassing van deze Bijlage:
 
 9. wordt onder *brandstofolie* verstaan brandstof geleverd aan en gebruikt voor verbrandingsdoeleinden voor de voorstuwing of bedrijfsdoeleinden aan boord van een schip, met inbegrip van destillaten en residuale brandstof.  
 
-10. wordt onder *brutotonnage* verstaan de brutotonnage berekend in overeenstemming met de voorschriften inzake tonnagemetingen vervat in [Bijlage 1 bij het Internationaal Verdrag van 1969 betreffende de meting van schepen](../../../../../../../../../../../../verdrag/internationaal/verdrag/betreffende/de/meting/van/schepen/1969/BWBV0003245/README.md), of elk opvolgend verdrag.  
+10. wordt onder *brutotonnage* verstaan de brutotonnage berekend in overeenstemming met de voorschriften inzake tonnagemetingen vervat in Bijlage 1 bij het Internationaal Verdrag van 1969 betreffende de meting van schepen, of elk opvolgend verdrag.  
 
 11. wordt onder *installaties* met betrekking tot voorschrift 12 van deze Bijlage verstaan de installatie van systemen, uitrusting, met inbegrip van draagbare brandblusvoorzieningen, isolatie of ander materiaal op een schip, echter met uitzondering van het herstel of opnieuw vullen van eerder geïnstalleerde systemen, uitrusting, isolatie of ander materiaal of het opnieuw vullen van draagbare brandblusvoorzieningen.  
 
@@ -10748,7 +11717,7 @@ Voor de toepassing van deze Bijlage:
 
 15. wordt onder de *NO<sub>x</sub> Technische Code* verstaan de Technische code inzake de beheersing van de emissie van stikstofoxiden door scheepsdieselmotoren, aangenomen bij resolutie 2 van de MARPOLconferentie van 1997, zoals gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen en van kracht worden in overeenstemming met het bepaalde in artikel 16 van dit Verdrag.  
 
-16. worden onder *ozonafbrekende stoffen* verstaan de gereguleerde stoffen omschreven in [artikel 1, vierde lid, van het Protocol van Montreal betreffende stoffen die de ozonlaag afbreken](../../../../../../../../../../../../verdrag/montreal/protocol/BWBV0002086/README.md), 1987, genoemd in Bijlage A, B, C of E bij genoemd Protocol zoals van kracht ten tijde van de toepassing of uitlegging van deze Bijlage. Ozonafbrekende stoffen die aan boord van schepen kunnen worden aangetroffen omvatten, maar zijn niet beperkt tot: 
+16. worden onder *ozonafbrekende stoffen* verstaan de gereguleerde stoffen omschreven in artikel 1, vierde lid, van het Protocol van Montreal betreffende stoffen die de ozonlaag afbreken, 1987, genoemd in Bijlage A, B, C of E bij genoemd Protocol zoals van kracht ten tijde van de toepassing of uitlegging van deze Bijlage. Ozonafbrekende stoffen die aan boord van schepen kunnen worden aangetroffen omvatten, maar zijn niet beperkt tot: 
 
 halon 1211 broomchloordifluormethaan
 
@@ -11457,7 +12426,7 @@ CFK-115 chloorpentafluorethaan
 
 ###INTERNATIONAAL CERTIFICAAT BETREFFENDE VOORKOMING VAN LUCHTVERONTREINIGING
 
-Afgegeven krachtens de bepalingen van het [Protocol van 1997](../../../../../../../../../../../../verdrag/marpol/protocol/97/BWBV0003459/README.md), zoals in 2008 gewijzigd bij resolutie MEPC.xx(58), tot wijziging van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978 daarbij (hierna te noemen „het Verdrag”) namens de Regering van:  
+Afgegeven krachtens de bepalingen van het Protocol van 1997, zoals in 2008 gewijzigd bij resolutie MEPC.xx(58), tot wijziging van het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978 daarbij (hierna te noemen „het Verdrag”) namens de Regering van:  
 
 | --- | --- |
 |:---|:---|

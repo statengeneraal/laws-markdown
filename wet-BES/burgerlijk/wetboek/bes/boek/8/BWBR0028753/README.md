@@ -20,7 +20,7 @@
 2.  Bij algemene maatregel van bestuur kunnen zaken, die geen schepen zijn voor de toepassing van bepalingen van dit wetboek als schip worden aangewezen, dan wel bepalingen van dit wetboek niet van toepassing worden verklaard op zaken, die schepen zijn.   
 3.  Voortbewegingswerktuigen en andere machinerieën worden bestanddeel van het schip op het ogenblik dat, na hun inbouw, hun bevestiging daaraan zodanig is als deze ook na voltooiing van het schip zal zijn.   
 4.  Onder scheepstoebehoren worden verstaan de zaken, die, geen bestanddeel van het schip zijnde, bestemd zijn om het schip duurzaam te dienen en door hun vorm als zodanig zijn te herkennen, alsmede die navigatie- en communicatiemiddelen, die zodanig met het schip zijn verbonden, dat zij daarvan kunnen worden afgescheiden, zonder dat beschadiging van betekenis aan hen of aan het schip wordt toegebracht.   
-5.  Behoudens afwijkende bedingen wordt het scheepstoebehoren tot het schip gerekend. Een afwijkend beding kan worden ingeschreven in de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md).   
+5.  Behoudens afwijkende bedingen wordt het scheepstoebehoren tot het schip gerekend. Een afwijkend beding kan worden ingeschreven in de openbare registers, bedoeld in titel 1, afdeling 2, van Boek 3.   
 6.  Voor de toepassing van het derde, het vierde en het vijfde lid wordt onder schip mede verstaan een schip in aanbouw.  
 
 ### Artikel  2  
@@ -204,7 +204,7 @@ Indien een overeenkomst van gecombineerd goederenvervoer is gesloten en bovendie
 
 ### Artikel  49  
 
-Een CT-document aan order wordt geleverd op de wijze als aangegeven in [titel 4, afdeling 2, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md). 
+Een CT-document aan order wordt geleverd op de wijze als aangegeven in titel 4, afdeling 2, van Boek 3. 
 
 ### Artikel  50  
 
@@ -305,7 +305,7 @@ Het totaal van de bedragen, verhaalbaar op de expediteur, al dan niet gezamenlij
 
 ### Artikel  160  
 
-1.  Indien een zeeschip blijkens de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) aan twee of meer personen gezamenlijk toebehoort, bestaat tussen hen een rederij. Wanneer de eigenaren van het schip onder een gemeenschappelijke naam optreden bestaat slechts een rederij, indien zulks uitdrukkelijk bij akte is overeengekomen en deze akte in die registers is ingeschreven.   
+1.  Indien een zeeschip blijkens de openbare registers, bedoeld in titel 1, afdeling 2, van Boek 3 aan twee of meer personen gezamenlijk toebehoort, bestaat tussen hen een rederij. Wanneer de eigenaren van het schip onder een gemeenschappelijke naam optreden bestaat slechts een rederij, indien zulks uitdrukkelijk bij akte is overeengekomen en deze akte in die registers is ingeschreven.   
 2.  De rederij is geen rechtspersoon.  
 
 ### Artikel  161  
@@ -446,7 +446,7 @@ Nietig is ieder beding, waarbij wordt afgeweken van de artikelen 161 tot en met 
 
 In deze afdeling wordt verstaan onder: 
 
-a.  *de openbare registers:* de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md);  
+a.  *de openbare registers:* de openbare registers, bedoeld in titel 1, afdeling 2, van Boek 3;  
 
 b.  *het register:* het register bedoeld in artikel 193.   
 
@@ -502,7 +502,7 @@ De enige zakelijke rechten, waarvan een in het register teboekstaand zeeschip he
 ### Artikel  199  
 
 1.  Een in het register teboekstaand zeeschip is een registergoed.   
-2.  Bij toepassing van [artikel 301 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) ter zake van akten die op de voet van [artikel 89, eerste en vierde lid, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) zijn bestemd voor de levering van zodanig zeeschip, kan de in het eerstgenoemd artikel bedoelde uitspraak van de rechter van de openbare lichamen Bonaire, Sint Eustatius en Saba niet worden ingeschreven, zolang zij niet in kracht van gewijsde is gegaan.  
+2.  Bij toepassing van artikel 301 van Boek 3 ter zake van akten die op de voet van artikel 89, eerste en vierde lid, van Boek 3 zijn bestemd voor de levering van zodanig zeeschip, kan de in het eerstgenoemd artikel bedoelde uitspraak van de rechter van de openbare lichamen Bonaire, Sint Eustatius en Saba niet worden ingeschreven, zolang zij niet in kracht van gewijsde is gegaan.  
 
 ### Artikel  201  
 
@@ -510,11 +510,11 @@ Eigendom, hypotheek en vruchtgebruik op een teboekstaand zeeschip worden door ee
 
 ### Artikel  202  
 
-Onverminderd [artikel 260, eerste lid, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) wordt in de notariële akte waarbij hypotheek wordt verleend op een teboekstaand zeeschip of op een recht waaraan een zodanig schip is onderworpen, duidelijk het aan de hypotheek onderworpen schip vermeld. 
+Onverminderd artikel 260, eerste lid, van Boek 3 wordt in de notariële akte waarbij hypotheek wordt verleend op een teboekstaand zeeschip of op een recht waaraan een zodanig schip is onderworpen, duidelijk het aan de hypotheek onderworpen schip vermeld. 
 
 ### Artikel  203  
 
-Behoudens afwijkende, uit de openbare registers blijkende, bedingen omvat de hypotheek de zaken die uit hoofde van hun bestemming blijvend met het schip zijn verbonden en die toebehoren aan de reder van het schip. [Artikel 266 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) is niet van toepassing. 
+Behoudens afwijkende, uit de openbare registers blijkende, bedingen omvat de hypotheek de zaken die uit hoofde van hun bestemming blijvend met het schip zijn verbonden en die toebehoren aan de reder van het schip. Artikel 266 van Boek 3 is niet van toepassing. 
 
 ### Artikel  204  
 
@@ -549,7 +549,7 @@ In geval van vruchtgebruik op een teboekstaand zeeschip zijn de bepalingen van a
 
 ### Artikel  210a  
 
-[Artikel 292 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) en [artikel 56, tweede lid, eerste zin, derde lid en vierde lid, van de Faillissementswet BES](../../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md), zijn op zeeschepen niet van toepassing. 
+Artikel 292 van Boek 3 en artikel 56, tweede lid, eerste zin, derde lid en vierde lid, van de Faillissementswet BES, zijn op zeeschepen niet van toepassing. 
 
 ### Artikel  211  
 
@@ -579,12 +579,12 @@ De voorrechten, bedoeld in artikel 211, strekken zich uit tot:
 
 a. alle zaken die uit hoofde van hun bestemming blijvend met het schip zijn verbonden en die toebehoren aan de reder van het schip;  
 
-b. de schadevergoedingen, verschuldigd voor het verlies van het schip of voor niet herstelde beschadiging daarvan, daarbij inbegrepen dat deel van een beloning voor hulpverlening, van een beloning voor vlotbrengen of van een vergoeding in avarijgrosse, dat tegenover een zodanig verlies of beschadiging staat; dit geldt eveneens wanneer deze schadevergoedingen of vorderingen tot beloning zijn overgedragen of met pandrecht zijn bezwaard; deze schadevergoedingen omvatten echter niet vergoedingen die zijn verschuldigd krachtens een overeenkomst van verzekering van het schip, die dekking geeft tegen het risico van verlies of avarij; [artikel 283 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) is niet van toepassing.   
+b. de schadevergoedingen, verschuldigd voor het verlies van het schip of voor niet herstelde beschadiging daarvan, daarbij inbegrepen dat deel van een beloning voor hulpverlening, van een beloning voor vlotbrengen of van een vergoeding in avarijgrosse, dat tegenover een zodanig verlies of beschadiging staat; dit geldt eveneens wanneer deze schadevergoedingen of vorderingen tot beloning zijn overgedragen of met pandrecht zijn bezwaard; deze schadevergoedingen omvatten echter niet vergoedingen die zijn verschuldigd krachtens een overeenkomst van verzekering van het schip, die dekking geeft tegen het risico van verlies of avarij; artikel 283 van Boek 3 is niet van toepassing.   
 
 ### Artikel  215  
 
 1.  De schuldeiser, die een voorrecht heeft op grond van artikel 211, vervolgt zijn recht op het schip, in wiens handen dit zich ook bevinde.   
-2.  Voorrechten als bedoeld in artikel 211 kunnen worden ingeschreven in de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md). [Artikel 24, eerste lid, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) is niet van toepassing.  
+2.  Voorrechten als bedoeld in artikel 211 kunnen worden ingeschreven in de openbare registers, bedoeld in titel 1, afdeling 2, van Boek 3. Artikel 24, eerste lid, van Boek 3 is niet van toepassing.  
 
 ### Artikel  216  
 
@@ -601,11 +601,11 @@ b. de vorderingen, die uit hoofde van titel 6, afdeling 1, op de reder rusten;
 c. de vorderingen, bedoeld in artikel 752, voor zover zij op de reder rusten.     
 2.  De in het eerste lid bedoelde vorderingen staan in rang gelijk en worden pondspondsgewijs betaald.   
 3.  De artikelen 212, 214, onderdeel a, en 216 zijn op de in het eerste lid bedoelde vorderingen van toepassing. Op de vorderingen genoemd in het eerste lid, onder a, voorzover betrekking hebbende op een scheepsreparatie, alsmede op de vorderingen genoemd in het eerste lid, onder b, is ook artikel 215 van toepassing.   
-4.  [Artikel 283 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) is niet van toepassing.  
+4.  Artikel 283 van Boek 3 is niet van toepassing.  
 
 ### Artikel  218  
 
-Na de vorderingen, bedoeld in artikel 217, zijn de vorderingen, bedoeld in de [artikelen 284](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) en [285 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), voor zover zij dit niet zijn op grond van enig ander artikel van deze titel, op een zeeschip bij voorrang verhaalbaar. 
+Na de vorderingen, bedoeld in artikel 217, zijn de vorderingen, bedoeld in de artikelen 284 en 285 van Boek 3, voor zover zij dit niet zijn op grond van enig ander artikel van deze titel, op een zeeschip bij voorrang verhaalbaar. 
 
 ### Artikel  219  
 
@@ -639,12 +639,12 @@ Wanneer een vordering uit hoofde van artikel 222 bevoorrecht is, zijn de renten 
 
 1.  De vorderingen ter zake van hulpverlening of bijdrage in avarij-grosse, die bevoorrecht zijn op grond van artikel 211 of artikel 222, eerste lid, nemen onderling rang naar de omgekeerde volgorde van de tijdstippen, waarop zij ontstonden.   
 2.  De bevoorrechte vorderingen, bedoeld in artikel 222, tweede lid, staan in rang gelijk.   
-3.  De in [artikel 284 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) bedoelde vordering neemt rang na de in het eerste en het tweede lid bedoelde vorderingen, ongeacht wanneer die vorderingen zijn ontstaan.   
+3.  De in artikel 284 van Boek 3 bedoelde vordering neemt rang na de in het eerste en het tweede lid bedoelde vorderingen, ongeacht wanneer die vorderingen zijn ontstaan.   
 4.  In rang gelijkstaande vorderingen worden ponds-pondsgewijs betaald.  
 
 ### Artikel  225  
 
-De voorrechten bedoeld in artikel 222, strekken zich uit tot de schadevergoedingen, verschuldigd voor verlies of niet herstelde beschadiging, daarbij inbegrepen dat deel van een beloning voor hulpverlening, van een beloning voor vlotbrengen of van een vergoeding in avarij-grosse, dat tegenover een zodanig verlies of beschadiging staat. Dit geldt eveneens wanneer deze schadevergoedingen of vorderingen tot beloning zijn overgedragen of met pandrecht zijn bezwaard. Deze schadevergoedingen omvatten echter niet vergoedingen die zijn verschuldigd krachtens een overeenkomst van verzekering die dekking geeft tegen het risico van verlies of avarij. [Artikel 283 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) is niet van toepassing. 
+De voorrechten bedoeld in artikel 222, strekken zich uit tot de schadevergoedingen, verschuldigd voor verlies of niet herstelde beschadiging, daarbij inbegrepen dat deel van een beloning voor hulpverlening, van een beloning voor vlotbrengen of van een vergoeding in avarij-grosse, dat tegenover een zodanig verlies of beschadiging staat. Dit geldt eveneens wanneer deze schadevergoedingen of vorderingen tot beloning zijn overgedragen of met pandrecht zijn bezwaard. Deze schadevergoedingen omvatten echter niet vergoedingen die zijn verschuldigd krachtens een overeenkomst van verzekering die dekking geeft tegen het risico van verlies of avarij. Artikel 283 van Boek 3 is niet van toepassing. 
 
 ### Artikel  226  
 
@@ -653,11 +653,11 @@ De in artikel 222 bedoelde vorderingen doen een voorrecht op de daar vermelde za
 ### Artikel  227  
 
 1.  Met de aflevering van de zaken aan de daartoe gerechtigde gaan, behalve in het geval van artikel 559, de in artikel 222 bedoelde voorrechten teniet. Zij gaan mede teniet met de vordering en door, in geval van executoriale verkoop, niet tijdig verzet te doen tegen de verdeling van de koopprijs alsmede door gerechtelijke rangregeling.   
-2.  Zij blijven in stand, zolang de zaken op grond van de artikelen 490 of 574 zijn opgeslagen of daarop op grond van [artikel 626](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) of [artikel 636 van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) beslag is gelegd.  
+2.  Zij blijven in stand, zolang de zaken op grond van de artikelen 490 of 574 zijn opgeslagen of daarop op grond van artikel 626 of artikel 636 van het Wetboek van Burgerlijke Rechtsvordering BES beslag is gelegd.  
 
 ### Artikel  228  
 
-De verkoper van brandstof voor de machines, van ketelwater, levensmiddelen of scheepsbenodigdheden kan het hem in [titel 1, afdeling 8, van Boek 7](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/7/BWBR0028751/README.md) toegekende recht slechts gedurende 48 uur na het einde van de levering uitoefenen, doch zulks ook indien deze zaken zich bevinden in handen van de reder, een rompbevrachter of een tijdbevrachter van het schip. 
+De verkoper van brandstof voor de machines, van ketelwater, levensmiddelen of scheepsbenodigdheden kan het hem in titel 1, afdeling 8, van Boek 7 toegekende recht slechts gedurende 48 uur na het einde van de levering uitoefenen, doch zulks ook indien deze zaken zich bevinden in handen van de reder, een rompbevrachter of een tijdbevrachter van het schip. 
 
 ### Afdeling  5  
 
@@ -670,12 +670,12 @@ De verkoper van brandstof voor de machines, van ketelwater, levensmiddelen of sc
 a. de openbare macht of  
 
 b. niet-commerciële overheidsdienst.     
-2.  De beschikking waarbij de in het eerste lid bedoelde bestemming is vastgesteld, kan worden ingeschreven in de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md). [Artikel 24, eerste lid, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) is niet van toepassing.   
+2.  De beschikking waarbij de in het eerste lid bedoelde bestemming is vastgesteld, kan worden ingeschreven in de openbare registers, bedoeld in titel 1, afdeling 2, van Boek 3. Artikel 24, eerste lid, van Boek 3 is niet van toepassing.   
 3.  De inschrijving machtigt de bewaarder tot doorhaling van de teboekstelling van het schip in het in artikel 193 bedoelde register.  
 
 ### Artikel  231  
 
-Behoeven de in de afdelingen 2 tot en met 5 geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling, dan geschiedt dit bij of krachtens algemene maatregel van bestuur, onverminderd de bevoegdheid tot regeling krachtens de wet betreffende de openbare registers, bedoeld in [artikel 16 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md). 
+Behoeven de in de afdelingen 2 tot en met 5 geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling, dan geschiedt dit bij of krachtens algemene maatregel van bestuur, onverminderd de bevoegdheid tot regeling krachtens de wet betreffende de openbare registers, bedoeld in artikel 16 van Boek 3. 
 
 ### Titel  4  
 
@@ -1000,7 +1000,7 @@ Het cognossement wordt, tenzij het op naam is gesteld, afgegeven in één of mee
 
 ### Artikel  416  
 
-Een cognossement aan order wordt geleverd op de wijze als aangegeven in [titel 4, afdeling 2, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md). 
+Een cognossement aan order wordt geleverd op de wijze als aangegeven in titel 4, afdeling 2, van Boek 3. 
 
 ### Artikel  417  
 
@@ -1077,7 +1077,7 @@ Behalve in geval van bevrachting is de vervoerder verplicht de zaken aan boord v
 ### Artikel  442  
 
 1.  Indien bij toepassing van artikel 461 verscheidene personen als vervoerder onder het cognossement moeten worden aangemerkt, zijn dezen jegens de in artikel 441, eerste lid, bedoelde cognossementhouder hoofdelijk verbonden.   
-2.  In het in het eerste lid bedoeld geval is ieder der vervoerders gerechtigd de uit het cognossement blijkende rechten jegens de cognossementhouder uit te oefenen en is deze jegens iedere vervoerder gekweten tot op het opeisbare bedrag dat hij op grond van het cognossement aan één hunner heeft voldaan.[Titel 7 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) is niet van toepassing.  
+2.  In het in het eerste lid bedoeld geval is ieder der vervoerders gerechtigd de uit het cognossement blijkende rechten jegens de cognossementhouder uit te oefenen en is deze jegens iedere vervoerder gekweten tot op het opeisbare bedrag dat hij op grond van het cognossement aan één hunner heeft voldaan.Titel 7 van Boek 3 is niet van toepassing.  
 
 ### Artikel  460  
 
@@ -1144,7 +1144,7 @@ b. doordat de vervrachter in de nakoming van zijn verplichtingen te kort schiet,
 
 ### Artikel  488  
 
-Onverminderd het omtrent avarij-grosse bepaalde en onverminderd [titel 4, afdeling 1, van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) zijn de afzender, de ontvanger en, indien een cognossement is afgegeven, de in artikel 441 bedoelde houder daarvan, hoofdelijk verbonden de vervoerder de schade te vergoeden, geleden doordat deze zich als zaakwaarnemer inliet met de behartiging van de belangen van een rechthebbende op ten vervoer ontvangen zaken dan wel doordat de kapitein zijn in artikel 261 genoemde verplichtingen is nagekomen. 
+Onverminderd het omtrent avarij-grosse bepaalde en onverminderd titel 4, afdeling 1, van Boek 6 zijn de afzender, de ontvanger en, indien een cognossement is afgegeven, de in artikel 441 bedoelde houder daarvan, hoofdelijk verbonden de vervoerder de schade te vergoeden, geleden doordat deze zich als zaakwaarnemer inliet met de behartiging van de belangen van een rechthebbende op ten vervoer ontvangen zaken dan wel doordat de kapitein zijn in artikel 261 genoemde verplichtingen is nagekomen. 
 
 ### Artikel  489  
 
@@ -1249,7 +1249,7 @@ De vervoerder is ter zake van door de reiziger aan boord gebrachte zaken die hij
 
 ### Artikel  509  
 
-Onverminderd artikel 508 en onverminderd [artikel 179 van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) is de reiziger verplicht de vervoerder de schade te vergoeden die hij of zijn bagage deze berokkende, behalve voor zover deze schade is veroorzaakt door een omstandigheid die een zorgvuldig reiziger niet heeft kunnen vermijden en voor zover zulk een reiziger de gevolgen daarvan niet heeft kunnen verhinderen. De reiziger kan niet om zich van zijn aansprakelijkheid te ontheffen beroep doen op de hoedanigheid of een gebrek van zijn bagage. 
+Onverminderd artikel 508 en onverminderd artikel 179 van Boek 6 is de reiziger verplicht de vervoerder de schade te vergoeden die hij of zijn bagage deze berokkende, behalve voor zover deze schade is veroorzaakt door een omstandigheid die een zorgvuldig reiziger niet heeft kunnen vermijden en voor zover zulk een reiziger de gevolgen daarvan niet heeft kunnen verhinderen. De reiziger kan niet om zich van zijn aansprakelijkheid te ontheffen beroep doen op de hoedanigheid of een gebrek van zijn bagage. 
 
 ### Artikel  510  
 
@@ -1335,7 +1335,7 @@ Nietig is ieder vóór het aan de reiziger overkomen voorval of vóór het verli
 ### Artikel  521  
 
 1.  In geval van verlies of beschadiging van bagage wordt de vordering tot schadevergoeding gewaardeerd naar de omstandigheden.   
-2.  In geval van aan de reiziger overkomen letsel en van de dood van de reiziger zijn de [artikelen 107](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) en [108 van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) niet van toepassing op de vorderingen die de vervoerder als wederpartij van een andere vervoerder tegen deze laatste instelt.  
+2.  In geval van aan de reiziger overkomen letsel en van de dood van de reiziger zijn de artikelen 107 en 108 van Boek 6 niet van toepassing op de vorderingen die de vervoerder als wederpartij van een andere vervoerder tegen deze laatste instelt.  
 
 ### Artikel  522  
 
@@ -1371,7 +1371,7 @@ Wanneer de reiziger na verlaten van het schip niet tijdig terugkeert kan de verv
 
 1.  Wordt ter zake van het vervoer een passagebiljet, een ontvangstbewijs voor bagage of enig soortgelijk document afgegeven, dan is de vervoerder verplicht daarin op duidelijke wijze zijn naam en woonplaats te vermelden.   
 2.  Nietig is ieder beding, waarbij van het eerste lid wordt afgeweken.   
-3.  [Artikel 36, tweede lid, van Boek 2](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md) is niet van toepassing.  
+3.  Artikel 36, tweede lid, van Boek 2 is niet van toepassing.  
 
 ### Afdeling  4  
 
@@ -1665,7 +1665,7 @@ De vergoedingen in avarij-grosse en de dragende waarden der in de avarij-grosse 
 
 ### Artikel  750  
 
-1.  De reder van een schip en de hulpverlener kunnen door het stellen van een of meer fondsen als bedoeld in [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) hun aansprakelijkheid beperken voor de in artikel 752 genoemde vorderingen.   
+1.  De reder van een schip en de hulpverlener kunnen door het stellen van een of meer fondsen als bedoeld in artikel 642c van het Wetboek van Burgerlijke Rechtsvordering BES hun aansprakelijkheid beperken voor de in artikel 752 genoemde vorderingen.   
 2.  Onder reder worden in deze titel mede verstaan de bevrachter, de huurder of andere gebruiker van een schip, met inbegrip van degene in wiens handen de exploitatie van een schip is gelegd.   
 3.  Onder hulpverlener wordt in deze titel een ieder verstaan die werkzaamheden verricht in onmiddellijk verband met hulpverlening, waaronder in deze titel mede worden verstaan de in artikel 752, eerste lid, onderdelen d, e en f, genoemde werkzaamheden of maatregelen.   
 4.  Onder schip wordt in deze titel zeeschip verstaan. Een schip in aanbouw wordt voor de toepassing van deze titel mede als schip aangemerkt van het ogenblik af, dat de stapelloop aanvangt. Een luchtkussenvoertuig wordt voor de toepassing van deze titel niet als schip aangemerkt. Een platform dat is gebouwd ter exploratie of exploitatie van de natuurlijke rijkdommen van de zeebodem of van de ondergrond daarvan en dat kan drijven, wordt voor de toepassing van deze titel niet als schip aangemerkt gedurende de tijd dat het op de zeebodem rust.   
@@ -1771,7 +1771,7 @@ b. die met toestemming van de vervoerder een voertuig of levende dieren vergezel
 
 ### Artikel  757  
 
-Aan de bedragen vermeld in de artikelen 755 en 756 wordt toegevoegd de wettelijke rente berekend van de aanvang van de dag volgende op de dag van het voorval, dat aanleiding gaf tot de vordering, tot de aanvang van de dag volgende op de dag waarop hij, die een verzoek tot beperking van zijn aansprakelijkheid indiende, voldeed aan een hem krachtens [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) opgelegd bevel. 
+Aan de bedragen vermeld in de artikelen 755 en 756 wordt toegevoegd de wettelijke rente berekend van de aanvang van de dag volgende op de dag van het voorval, dat aanleiding gaf tot de vordering, tot de aanvang van de dag volgende op de dag waarop hij, die een verzoek tot beperking van zijn aansprakelijkheid indiende, voldeed aan een hem krachtens artikel 642c van het Wetboek van Burgerlijke Rechtsvordering BES opgelegd bevel. 
 
 ### Artikel  758  
 
@@ -1786,7 +1786,7 @@ c. de hulpverlener of hulpverleners aan een schip die niet van een zeeschip uit 
 
 ### Artikel  759  
 
-De rekeneenheid, bedoeld in de artikelen 755 en 756, is het bijzondere trekkingsrecht, zoals dat is omschreven door het Internationale Monetaire Fonds. De bedragen bedoeld in de artikelen 755 en 756 worden omgerekend in US dollar naar de koers van de dag waarop de schuldenaar voldoet aan een ingevolge [artikel 642c van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) gegeven bevel tot storting of andere zekerheidstelling. De waarde van de US dollar, uitgedrukt in bijzondere trekkingsrechten, wordt berekend volgens de waarderingsmethode die door het Internationale Monetaire Fonds op de dag van omrekening wordt toegepast voor zijn eigen verrichtingen en transacties. 
+De rekeneenheid, bedoeld in de artikelen 755 en 756, is het bijzondere trekkingsrecht, zoals dat is omschreven door het Internationale Monetaire Fonds. De bedragen bedoeld in de artikelen 755 en 756 worden omgerekend in US dollar naar de koers van de dag waarop de schuldenaar voldoet aan een ingevolge artikel 642c van het Wetboek van Burgerlijke Rechtsvordering BES gegeven bevel tot storting of andere zekerheidstelling. De waarde van de US dollar, uitgedrukt in bijzondere trekkingsrechten, wordt berekend volgens de waarderingsmethode die door het Internationale Monetaire Fonds op de dag van omrekening wordt toegepast voor zijn eigen verrichtingen en transacties. 
 
 ### V  
 
@@ -1812,7 +1812,7 @@ c.  *het register:* het register, bedoeld in artikel 1302;
 
 d.  *verdragsregister:* een in het buitenland gehouden register als bedoeld in artikel 1, eerste lid, onder ii, van het Verdrag van Genève;  
 
-e.  *de openbare registers:* de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md).   
+e.  *de openbare registers:* de openbare registers, bedoeld in titel 1, afdeling 2, van Boek 3.   
 
 ### Artikel  1301  
 
@@ -1826,7 +1826,7 @@ Er wordt een afzonderlijk openbaar register gehouden voor de teboekstelling van 
 
 1.  Teboekstelling is slechts mogelijk indien: 
 
-a. het luchtvaartuig een Nederlands luchtvaartuig is in de zin van de [Wet luchtvaart](../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en  
+a. het luchtvaartuig een Nederlands luchtvaartuig is in de zin van de Wet luchtvaart, en  
 
 b. het luchtvaartuig ten minste een bij algemene maatregel van bestuur vastgesteld gewicht heeft. Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de mogelijkheid van teboekstelling.     
 2.  Teboekstelling is niet mogelijk van een luchtvaartuig dat reeds teboekstaat in het register, in een verdragsregister of in enig soortgelijk register buiten de openbare lichamen Bonaire, Sint Eustatius en Saba.   
@@ -1861,7 +1861,7 @@ De enige zakelijke rechten waarvan een in het register teboekstaand luchtvaartui
 ### Artikel  1306  
 
 1.  Een in het register teboekstaand luchtvaartuig is een registergoed.   
-2.  Bij de toepassing van [artikel 301 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) ter zake van akten die op de voet van [artikel 89, eerste en vierde lid, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) zijn bestemd voor de levering van zodanig luchtvaartuig, kan de in het eerstgenoemde artikel bedoelde uitspraak van de rechter van de openbare lichamen Bonaire, Sint Eustatius en Saba niet worden ingeschreven, zolang zij niet in kracht van gewijsde is gegaan.  
+2.  Bij de toepassing van artikel 301 van Boek 3 ter zake van akten die op de voet van artikel 89, eerste en vierde lid, van Boek 3 zijn bestemd voor de levering van zodanig luchtvaartuig, kan de in het eerstgenoemde artikel bedoelde uitspraak van de rechter van de openbare lichamen Bonaire, Sint Eustatius en Saba niet worden ingeschreven, zolang zij niet in kracht van gewijsde is gegaan.  
 
 ### Artikel  1307  
 
@@ -1875,11 +1875,11 @@ Op een teboekstaand luchtvaartuig kan een zakelijk recht worden gevestigd, besta
 
 1.  Op een teboekstaand luchtvaartuig kan een zakelijk recht worden gevestigd, bestaande in het recht van de houder tot gebruik van het luchtvaartuig uit een huurovereenkomst die voor ten minste zes maanden is gesloten. In de notariële akte bestemd voor de vestiging van dit recht, wordt duidelijk het aan dit recht onderworpen luchtvaartuig vermeld.   
 2.  De huurovereenkomst geldt als titel voor de vestiging. Indien de huurovereenkomst in een notariële akte is neergelegd, die aan de eisen voor een akte van levering voldoet, geldt deze akte als akte van levering.   
-3.  Op een huurovereenkomst ter zake van een teboekstaand luchtvaartuig is [artikel 1593 van Boek 7A](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/7a/BWBR0028752/README.md) niet van toepassing.  
+3.  Op een huurovereenkomst ter zake van een teboekstaand luchtvaartuig is artikel 1593 van Boek 7A niet van toepassing.  
 
 ### Artikel  1310  
 
-Onverminderd [artikel 260, eerste lid, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) wordt in de notariële akte waarbij hypotheek wordt verleend op een teboekstaand luchtvaartuig, duidelijk het aan de hypotheek onderworpen luchtvaartuig vermeld. 
+Onverminderd artikel 260, eerste lid, van Boek 3 wordt in de notariële akte waarbij hypotheek wordt verleend op een teboekstaand luchtvaartuig, duidelijk het aan de hypotheek onderworpen luchtvaartuig vermeld. 
 
 ### Artikel  1311  
 
@@ -1887,15 +1887,15 @@ De door hypotheek gedekte vordering neemt rang na de vorderingen, bedoeld in de 
 
 ### Artikel  1312  
 
-Indien de vordering rente draagt, strekt de hypotheek mede tot zekerheid voor de renten der hoofdsom, vervallen gedurende de laatste drie jaren voorafgaand aan het begin van de uitwinning en gedurende de loop hiervan. [Artikel 263 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) is niet van toepassing. 
+Indien de vordering rente draagt, strekt de hypotheek mede tot zekerheid voor de renten der hoofdsom, vervallen gedurende de laatste drie jaren voorafgaand aan het begin van de uitwinning en gedurende de loop hiervan. Artikel 263 van Boek 3 is niet van toepassing. 
 
 ### Artikel  1313  
 
-Op hypotheek op een aandeel in een teboekstaand luchtvaartuig is [artikel 177 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) niet van toepassing; de hypotheek blijft na vervreemding of toedeling van het luchtvaartuig in stand. 
+Op hypotheek op een aandeel in een teboekstaand luchtvaartuig is artikel 177 van Boek 3 niet van toepassing; de hypotheek blijft na vervreemding of toedeling van het luchtvaartuig in stand. 
 
 ### Artikel  1314  
 
-Op een hypotheek op een teboekstaand luchtvaartuig zijn de [artikelen 234](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), [261](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), [264](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), 265, [266](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) en [268 tot en met 273 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) en de [artikelen 544 tot en met 548 van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) niet van toepassing. 
+Op een hypotheek op een teboekstaand luchtvaartuig zijn de artikelen 234, 261, 264, 265, 266 en 268 tot en met 273 van Boek 3 en de artikelen 544 tot en met 548 van het Wetboek van Burgerlijke Rechtsvordering BES niet van toepassing. 
 
 ### Afdeling  2  
 
@@ -1907,7 +1907,7 @@ In geval van uitwinning van een luchtvaartuig dat teboekstaat in het register of
 
 ### Artikel  1316  
 
-[Artikel 292 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) en [artikel 56, tweede lid, eerste zin, derde lid, en vierde lid, van de Faillissementswet BES](../../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md), zijn niet van toepassing op luchtvaartuigen die teboekstaan in het register of in een verdragsregister. 
+Artikel 292 van Boek 3 en artikel 56, tweede lid, eerste zin, derde lid, en vierde lid, van de Faillissementswet BES, zijn niet van toepassing op luchtvaartuigen die teboekstaan in het register of in een verdragsregister. 
 
 ### Artikel  1317  
 
@@ -1917,7 +1917,7 @@ a. de vorderingen tot betaling van hulploon voor aan het luchtvaartuig verleende
 
 b. de vorderingen tot betaling van buitengewone kosten, noodzakelijk voor het behoud van het luchtvaartuig.     
 2.  Het eerste lid geldt slechts indien de hulp of de handeling tot behoud in de openbare lichamen Bonaire, Sint Eustatius of Saba is beëindigd of in een Verdragsstaat welks wetgeving aan de vorderingen, ontstaan vanwege deze handelingen, een voorrecht met zaaksgevolg toekent.   
-3.  [Artikel 284 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) is niet van toepassing.  
+3.  Artikel 284 van Boek 3 is niet van toepassing.  
 
 ### Artikel  1318  
 
@@ -1932,7 +1932,7 @@ De schuldeiser die een voorrecht heeft op grond van artikel 1317, vervolgt zijn 
 1.  De krachtens deze afdeling op een luchtvaartuig verleende voorrechten gaan teniet door verloop van drie maanden, tenzij binnen die termijn het voorrecht is ingeschreven in de openbare registers of het verdragsregister waarin het luchtvaartuig teboekstaat, en bovendien het bedrag der vordering in der minne is vastgesteld dan wel langs gerechtelijke weg erkenning van het voorrecht en deszelfs omvang is gevorderd.   
 2.  In geval van executoriale verkoop gaan de voorrechten mede teniet op het tijdstip waarop het proces-verbaal van verdeling wordt gesloten.   
 3.  De in het eerste lid genoemde termijn begint met de aanvang van de dag volgende op die,waarop de hulpverlening of de handeling tot behoud waardoor de vordering is ontstaan, is beëindigd.   
-4.  Voorrechten als bedoeld in artikel 1317 kunnen worden ingeschreven in de openbare registers. [Artikel 24, eerste lid, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) is niet van toepassing.  
+4.  Voorrechten als bedoeld in artikel 1317 kunnen worden ingeschreven in de openbare registers. Artikel 24, eerste lid, van Boek 3 is niet van toepassing.  
 
 ### Afdeling  3  
 
@@ -1940,7 +1940,7 @@ De schuldeiser die een voorrecht heeft op grond van artikel 1317, vervolgt zijn 
 
 ### Artikel  1321  
 
-Behoeven de in deze titel geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling, dan geschiedt dit bij of krachtens algemene maatregel van bestuur, onverminderd de bevoegdheid tot regeling krachtens de wet betreffende de openbare registers, bedoeld in [artikel 16 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md). 
+Behoeven de in deze titel geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling, dan geschiedt dit bij of krachtens algemene maatregel van bestuur, onverminderd de bevoegdheid tot regeling krachtens de wet betreffende de openbare registers, bedoeld in artikel 16 van Boek 3. 
 
 ### VII  
 
@@ -2203,14 +2203,14 @@ Het recht homologatie dan wel herziening van een berekening en omslag van een av
 
 ####Algemene slotbepaling
 
-1. De [Algemene termijnenwet](../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de termijnen gesteld in titel 5, afdeling 2 en titel 5, afdeling 4.  
+1. De Algemene termijnenwet is niet van toepassing op de termijnen gesteld in titel 5, afdeling 2 en titel 5, afdeling 4.  
 
 2. In de in het eerste lid genoemde afdelingen worden onder dag verstaan alle kalenderdagen met uitzondering van de zondag en de algemeen erkende feestdagen.  
 
-3. Onder algemeen erkende feestdagen worden in dit wetboek verstaan de in [artikel 3 van de Algemene termijnenwet](../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) als zodanig genoemde en de bij of krachtens dat artikel daarmee gelijkgestelde dagen.  
+3. Onder algemeen erkende feestdagen worden in dit wetboek verstaan de in artikel 3 van de Algemene termijnenwet als zodanig genoemde en de bij of krachtens dat artikel daarmee gelijkgestelde dagen.  
 
 4. Deze wet wordt aangehaald als Burgerlijk Wetboek BES.    
 
 ####Slotbepaling
 
-Indien één of meer van de [Boeken 1](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md), [3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), [5](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/5/BWBR0028748/README.md), [6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md), [7](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/7/BWBR0028751/README.md) en 8 van het nieuwe Burgerlijk Wetboek in werking treden, voordat de overige wetgeving is aangepast, wordt de overige wetgeving, in afwachting van haar aanpassing, toegepast zoveel mogelijk met inachtneming van de in werking getreden boeken. In afwachting van de bedoelde aanpassing, werkt de verlaging van de meerderjarigheidsgrens niet ten nadele van personen die de leeftijd van eenentwintig jaren nog niet hebben bereikt.  
+Indien één of meer van de Boeken 1, 3, 5, 6, 7 en 8 van het nieuwe Burgerlijk Wetboek in werking treden, voordat de overige wetgeving is aangepast, wordt de overige wetgeving, in afwachting van haar aanpassing, toegepast zoveel mogelijk met inachtneming van de in werking getreden boeken. In afwachting van de bedoelde aanpassing, werkt de verlaging van de meerderjarigheidsgrens niet ten nadele van personen die de leeftijd van eenentwintig jaren nog niet hebben bereikt.  

@@ -1,0 +1,356 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Regeling van de Staatssecretaris van Economische Zaken van 30 november 2014, nr. WJZ/14194836, houdende specifieke maatregelen in het beschermings- en het toezichtsgebied, in verband met de bestrijding van hoogpathogene aviaire influenza in Zoeterwoude (Regeling maatregelen bestrijding vogelgriep Zoeterwoude 2014)
+
+De Staatssecretaris van Economische Zaken,  
+Gelet op artikel 9 van Richtlijn 89/662/EEG van de Raad van de Europese Gemeenschappen van 11 december 1989 inzake veterinaire controles in het intracommunautaire handelsverkeer in het vooruitzicht van de totstandkoming van de interne markt (PbEG 1989, L395); artikel 10, eerste lid, van Richtlijn nr. 90/425/EEG van de Raad van 26 juni 1990 inzake veterinaire en zoötechnische controles in het intracommunautaire handelsverkeer in bepaalde levende dieren en produkten in het vooruitzicht van de totstandbrenging van de interne markt (PbEG 1990, L 224); artikelen 1, tweede lid, 10, tweede lid, en 32, eerste lid, van Richtlijn 2005/94/EG van de Raad van 20 december 2005 betreffende communautaire maatregelen ter bestrijding van aviaire influenza en tot intrekking van Richtlijn 92/40/EEG (PbEU 2006, L 10), en de artikelen 17, 18, 30, eerste en derde lid, 31 en 32 van de Gezondheids- en welzijnswet voor dieren;
+Besluit:    
+
+### Artikel  1  
+
+####Begripsbepalingen
+
+In deze regeling wordt verstaan onder: 
+
+a.  *bedrijf:* landbouwbedrijf of ander bedrijf, met inbegrip van een circus of dierenwinkel, waar vee of gevogelte in gevangenschap wordt gehouden, met uitzondering van slachthuizen, vervoermiddelen, quarantainestations, grensinspectieposten, of laboratoria die met officiële toestemming aviaire influenzavirussen bewaren;  
+
+b.  *beschermingsgebied:* door de minister aangewezen gebied met een straal van ten minste 3 km rondom een besmet bedrijf;  
+
+c.  *BT-gebied:* het gebied dat bestaat uit de op grond van artikel 2 aangewezen beschermings- en toezichtsgebieden;  
+
+d.  *commercieel gehouden gevogelte:* gevogelte bestemd voor de productie van vlees, eieren of andere producten, voor het uitzetten in het wild, of het fokken van gevogelte voor deze doeleinden, met de bedoeling geld te verdienen;  
+
+e.  *gevogelte:* pluimvee, alsmede andere vogels in gevangenschap gehouden of gefokt;  
+
+f.  *goedgekeurd hygiëneprotocol:* set praktische hygiëneregels ter bevordering van de bioveiligheid in een specifieke situatie, zoveel mogelijk in overeenstemming met de beginselen en procedures voor reiniging en ontsmetting, bedoeld in bijlage VI bij richtlijn 2005/94/EG, en goedgekeurd door de minister van Economische Zaken;  
+
+g.  *mest:* uitwerpselen en urine van dieren, met uitzondering van gekweekte vissen, met of zonder strooisel;  
+
+h.  *regio:* door de minister in de Regeling maatregelen regio's bestrijding vogelgriep 2014 aangewezen regio;  
+
+i.  *toezichtsgebied:* door de minister aangewezen gebied rondom het beschermingsgebied, met een straal van ten minste 10 km rondom een besmet bedrijf;  
+
+j.  *vogelverblijfplaats:* kooi, volière, terrein, of gebouw met uitzondering van de menselijke woonruimte, waar gevogelte aanwezig is of pleegt te worden gehouden, en aanverwante ruimtes waar materiaal ten behoeve van het gevogelte is opgeslagen of pleegt te worden opgeslagen;  
+
+k.  *vervoermiddel:* voertuig en materieel, waaronder mede begrepen een combinatie van een voertuig met één of meer door dat voertuig voortbewogen aanhangwagens, opleggers of containers.   
+
+### Artikel  2  
+
+####Aanwijzing beschermings- en toezichtsgebied
+
+1.  De minister wijst aan als: 
+
+a. beschermingsgebied: gebied als bedoeld in bijlage 1;  
+
+b. toezichtsgebied: gebied als bedoeld in bijlage 2.     
+2.  In het in het eerste lid bedoelde beschermingsgebied en het toezichtsgebied zijn de artikelen 3 tot en met 17 van toepassing.   
+3.  Voor zover de in de artikelen 3 tot en met 11 gegeven vervoersverboden betrekking hebben op vervoer dat mede plaats vindt in de regio waarin het BT-gebied is gelegen, zijn deze artikelen ook van toepassing in deze regio.   
+4.  Voor zover deze regeling verdergaande voorschriften bevat dan die van de Regeling maatregelen regio's bestrijding vogelgriep 2014 gaan de voorschriften van deze regeling boven die voorschriften.  
+
+### Artikel  3  
+
+####Vervoer gevogelte
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van gevogelte binnen de regio waarin het BT-gebied is gelegen is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van gevogelte binnen het BT-gebied toegestaan indien het vervoer over de autosnelweg of per spoor betreft zonder dat daarbij in het gebied wordt gestopt.   
+3.  In afwijking van het eerste lid is het vervoer van gevogelte binnen de regio waarin het BT-gebied is gelegen ten behoeve van de slacht toegestaan, indien: 
+
+a. de dieren rechtstreeks naar een door de minister aangewezen slachthuis worden vervoerd;  
+
+b. het vervoer geschiedt overeenkomstig een goedgekeurd hygiëneprotocol;  
+
+c. een verklaring die minder dan 24 uur oud is, aanwezig is dat er uit onderzoek van ten minste 20 monsters per stal met gebruikmaking van een PCR-test door het laboratorium, bedoeld in artikel 19, tweede lid, van de Regeling erkenning en aanwijzing veterinaire laboratoria geen virus in de dieren is aangetoond;  
+
+d. voldaan wordt aan de voorwaarden, bedoeld in artikel 23, eerste lid, van Richtlijn 2005/94/EG.    
+
+### Artikel  4  
+
+####Vervoer eieren
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van eieren, binnen de regio waarin het BT-gebied is gelegen is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van eieren binnen de regio waarin het BT-gebied is gelegen, toegestaan indien het vervoer over de autosnelweg of per spoor betreft zonder dat daarbij in het gebied wordt gestopt.   
+3.  In afwijking van het eerste lid is het vervoer van eieren binnen de regio waarin het BT-gebied is gelegen, toegestaan indien: 
+
+a. de eieren vanaf een bedrijf rechtstreeks worden vervoerd naar een inrichting als bedoeld in artikel 26, tweede lid, van Richtlijn 2005/94/EG,  
+
+b. het vervoer geschiedt overeenkomstig een goedgekeurd hygiëneprotocol, en  
+
+c. voldaan wordt aan de voorwaarden, bedoeld in artikel 26, tweede lid, van Richtlijn 2005/94/EG.     
+4.  In afwijking van het eerste lid, is het vervoer van eieren voorts toegestaan, indien het betreft het vervoer van consumptie-eieren van een inrichting als bedoeld in het tweede lid al dan niet via distributiecentra naar verkooppunten en vanaf verkooppunten.  
+
+### Artikel  5  
+
+####Vervoer vlees van gevogelte
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van vlees van gevogelte, afkomstig van een slachthuis, uitsnijderij of koel- en vrieshuis, in het beschermingsgebied is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van vlees van gevogelte toegestaan, indien: 
+
+a. het vlees afkomstig is van gevogelte van buiten het beschermingsgebied en bij opslag en vervoer gescheiden is gehouden van vlees van gevogelte van binnen het beschermingsgebied, of;  
+
+b. het vlees ten minste 21 dagen voor de datum waarop het BT-gebied is ingesteld in het beschermingsgebied is geproduceerd en sinds die datum niet is vervoerd en opgeslagen met vlees dat na die datum is geproduceerd.    
+
+### Artikel  6  
+
+####Vervoer andere dieren
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van commercieel gehouden dieren, anders dan gevogelte, vanaf een bedrijf met commercieel gehouden gevogelte, binnen de regio waarin het BT-gebied is gelegen, is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van commercieel gehouden dieren, anders dan gevogelte, binnen de regio waarin het BT-gebied is gelegen toegestaan, indien de dieren rechtstreeks worden vervoerd naar de plaats van bestemming, niet zijnde een bedrijf met commercieel gehouden gevogelte.   
+3.  Het aanvoeren van gedomesticeerde zoogdieren op een bedrijf met commercieel gehouden gevogelte en het afvoeren van gedomesticeerde zoogdieren van een bedrijf met commercieel gehouden gevogelte is verboden.   
+4.  In afwijking van het derde lid, is de aanvoer en afvoer van gedomesticeerde zoogdieren toegestaan, indien: 
+
+a. voor zover van toepassing, het vervoer van deze dieren op grond van het eerste en tweede lid is toegestaan, en  
+
+b. indien het gezelschapsdieren betreft, de dieren alleen toegang hebben tot voor mensen bestemde leefruimten, waar zij: 
+
+i. niet in contact komen met gevogelte;  
+
+ii. geen toegang hebben tot plaatsen waar gevogelte wordt gehouden.      
+
+### Artikel  7  
+
+####Vervoer sperma
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel over de openbare weg, van sperma ten behoeve van de bevruchting van gevogelte, binnen de regio waarin het BT-gebied is gelegen is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van sperma binnen de regio waarin het BT-gebied is gelegen, toegestaan indien dit, bij aanvoer op een bedrijf met commercieel gehouden gevogelte, aan de openbare weg wordt afgeleverd.  
+
+### Artikel  8  
+
+####Vervoer diervoeders
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel over de openbare weg, van diervoeders voor gevogelte en andere commercieel gehouden dieren naar bedrijven met commercieel gehouden gevogelte, binnen de regio waarin het BT-gebied is gelegen, is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van diervoeders toegestaan, indien: 
+
+a. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol;  
+
+b. er per door de vervoerder af te leggen route bij maximaal één bedrijf met commercieel gehouden pluimvee wordt afgeleverd, welk bedrijf als laatste wordt bezocht.     
+3.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van diervoeders voor gevogelte en andere commercieel gehouden dieren afkomstig van bedrijven met commercieel gehouden gevogelte, binnen de regio waarin het BT-gebied is gelegen, is verboden.  
+
+### Artikel  9  
+
+####Vervoer melk
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van rauwe melk en melkproducten, afkomstig van een bedrijf met commercieel gehouden gevogelte, binnen de regio waarin het BT-gebied is gelegen, is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van rauwe melk en melkproducten toegestaan indien: 
+
+a. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol;  
+
+b. er per door de vervoerder af te leggen route bij maximaal één bedrijf met commercieel gehouden pluimvee rauwe melk of melkproducten worden opgehaald, welk bedrijf als laatste wordt bezocht.    
+
+### Artikel  10  
+
+####Vervoer mest
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van mest van gevogelte binnen de regio waarin het BT-gebied is gelegen, is verboden.   
+2.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van mest van commercieel gehouden dieren, anders dan gevogelte, afkomstig van een bedrijf met commercieel gehouden gevogelte, binnen de regio waarin het BT-gebied is gelegen, is verboden.   
+3.  In afwijking van het tweede lid is het vervoer binnen de regio waarin het BT-gebied is gelegen van mest van commercieel gehouden dieren, anders dan gevogelte, afkomstig van een bedrijf, binnen de regio waarin het BT-gebied is gelegen toegestaan indien het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.   
+4.  Het eerste tot en met derde lid zijn van overeenkomstige toepassing op het aanwenden van mest.  
+
+### Artikel  11  
+
+####Vervoer karkassen
+
+1.  Het vervoer van karkassen van gevogelte over de openbare weg, met inbegrip van verplaatsing zonder vervoermiddel, binnen de regio waarin het BT-gebied is gelegen is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van karkassen van gevogelte toegestaan, indien dit vervoer rechtstreeks plaatsvindt ter verwijdering van de karkassen.  
+
+### Artikel  12  
+
+####Aanvoer en afvoer
+
+Voor zover ingevolge de artikelen 3 tot en met 11 het vervoer van dieren of producten is verboden, is ook het aanvoeren en afvoeren van deze dieren of producten verboden. 
+
+### Artikel  13  
+
+####Bezoekverbod
+
+1.  Het is bezoekers verboden vogelverblijfplaatsen, alsmede niet deugdelijk fysiek van die verblijfplaatsen afgescheiden woonruimte of andere bedrijfsgedeelten te betreden. HetDe eerste volzin betreft eveneens de vervoermiddelen van een bezoeker.   
+2.  Het in het eerste lid bedoelde bezoekverbod is niet van toepassing op de volgende personen: 
+
+a. artsen, ambulancemedewerkers, brandweerlieden, psychosociale hulpverleners en soortgelijke noodhulpverleners, politiemedewerkers en toezichthouders, in de uitoefening van hun functie, en hun vervoermiddelen,  
+
+b. monteurs, loonwerkers, dierenartsen en bedrijfsverzorgers, indien er een acuut gevaar voor de gezondheid van vee of gevogelte aanwezig is en de werkzaamheden van deze personen noodzakelijk zijn om deze situatie op te heffen, en hun vervoermiddelen;  
+
+c. dierenartsen, indien hun bezoek plaatsvindt in het kader van een aan hen ingevolge wet- of regelgeving opgedragen verplichting of taak;  
+
+d. medewerkers van vangploegen, en  
+
+e. in noodsituaties: brandstofleveranciers of stikstof (N<sub>2</sub>) leveranciers, en hun vervoermiddelen,   mits zij reinigings- en ontsmettingsmaatregelen hebben genomen in overeenstemming met een goedgekeurd hygiëneprotocol en zij hun bezoek registreren. In een acute noodsituatie geldt geen registratieplicht voor de in onderdeel a genoemde personen.   
+3.  Het in het eerste lid bedoelde verbod is niet van toepassing op personeel, mits het: 
+
+a. reinigings- en ontsmettingsmaatregelen heeft genomen in overeenstemming met een goedgekeurd hygiëneprotocol, en  
+
+b. de voorafgaande 72 uren geen ander bedrijf heeft bezocht.    
+
+### Artikel  14  
+
+####Bezoekersregeling en registratieplicht
+
+1.  Het is een houder van gevogelte verboden om bezoekers toe te laten tot zijn vogelverblijfplaatsen alsmede tot een niet deugdelijk fysiek van die verblijfplaatsen afgescheiden woonruimte of andere bedrijfsgedeelten, met uitzondering van de bezoekers, bedoeld in artikel 5, tweede en derde lid, in de daar bedoelde situaties.   
+2.  Een bedrijf met commercieel gehouden gevogelte houdt een register bij van alle bezoeken aan vogelverblijfplaatsen, niet deugdelijk fysiek van de vogelverblijfplaatsen afgescheiden woonruimte of andere bedrijfsgedeelten, waarin ten minste zijn opgenomen: 
+
+a. naam, adres en woonplaats van de bezoeker,  
+
+b. voor zover de bezoeker een vervoermiddel heeft gebruikt: aard en kenteken van het vervoermiddel,  
+
+c. reden van het bezoek, en  
+
+d. datum en tijdstip van aankomst en vertrek van de bezoeker.    
+
+### Artikel  15  
+
+####Verbod wedstrijden en tentoonstellingen met vogels
+
+1.  Alle jaarbeurzen, markten, wedvluchten, culturele evenementen, tentoonstellingen, keuringen of andere tijdelijke verzamelingen zijn verboden, voor zover daar gevogelte en andere in gevangenschap gehouden vogels op een plaats worden verzameld.   
+2.  Vrijstellingen op grond van artikel 2.5, tweede en derde lid, van de Regeling tijdelijke maatregelen dierziekten zijn opgeschort.  
+
+### Artikel  16  
+
+####Verbod jagen en doden van wild
+
+1.  In afwijking van artikel 31 Flora- en faunawet is het verboden te jagen.   
+2.  Het is verboden in het wild levende dieren te vangen of te doden. Daartoe zijn alle bestaande aanwijzingen, toestemmingen, vrijstellingen en ontheffingen op grond van de artikelen 65, 67, 68, 72 en 75 van de Flora- en Faunawet opgeschort.   
+3.  De verboden, bedoeld in het eerste en tweede lid zijn niet van toepassing indien: 
+
+a. het jagen, doden of vangen geschiedt ter bescherming van de veiligheid van het luchtverkeer,  
+
+b. ter bestrijding van muskusratten.    
+
+### Artikel  17  
+
+####Afscherm- en ophokplicht gevogelte
+
+1.  Ieder bedrijf brengt ten minste afscheidingen aan tussen het gevogelte en de op het bedrijf aanwezige zoogdieren.   
+2.  Iedere houder van gevogelte neemt passende maatregelen om zo veel mogelijk te voorkomen dat het door hem gehouden gevogelte in contact komt met gevogelte van andere houders of met in het wild levende dieren, zoals in het wild levende vogels of hun uitwerpselen.   
+3.  Voor een bedrijf met commercieel gehouden pluimvee is een passende maatregel als bedoeld in het tweede lid ten minste het binnen een gebouw brengen en daar houden van het pluimvee.   
+4.  Voor een houder van niet-commercieel gehouden gevogelte behorende tot de hoenderachtigen (Galliformes), roofvogels (Accipitriformes/Falconiformes) en duiven (Columbidae) is een passende maatregel als bedoeld in het tweede lid ten minste het binnen een volière of gebouw brengen en daar houden van het gevogelte.   
+5.  Het derde lid is niet van toepassing op gevogelte, behordende tot de eendvogels (Anseriformes) de familie van struisvogels (Struthionidae), van emoes (Dromaiidae) en van nandoes (Rheidae).  
+
+### Artikel  18  
+
+####Citeertitel
+
+Deze regeling wordt aangehaald als Regeling maatregelen bestrijding vogelgriep Zoeterwoude 2014. 
+
+### Artikel  19  
+
+####Inwerkingtreding
+
+Deze regeling wordt bekendgemaakt op www.rijksoverheid.nl, en treedt onmiddellijk na haar bekendmaking op het internet in werking. 
+Deze regeling wordt tevens met de toelichting in de Staatscourant geplaatst.   
+
+’s-Gravenhage 
+30 november 2014   
+
+De 
+Staatssecretaris van Economische Zaken, namens deze, 
+J.P. Hoogeveen  
+de Directeur-Generaal van Agro   
+
+### Bijlage  1  
+
+####Beschermingsgebied
+
+1. Vanaf de kruising A4/N11, de A4 volgen in noordelijke richting tot aan kruising A4/N446.  
+
+2. De N446 (Doespolderweg, Ofwegen, Kerkweg, Kruisweg) volgen in zuidoostelijke richting tot aan de Woudwetering (Water).  
+
+3. De Woudwetering volgen in zuidelijke richting tot aan de Oude Rijn (Water).  
+
+4. De Oude Rijn volgen in oostelijke richting tot aan de N209/Gemeneweg.  
+
+5. De N209/Gemeneweg volgen in zuidelijke richting tot aan de Hoogeveenseweg.  
+
+6. De Hoogeveenseweg volgen in oostelijke richting tot aan de Heereweg.  
+
+7. De Heereweg volgen in oostelijke richting overgaand in Dorpsstraat tot aan de Slootweg.  
+
+8. De Slootweg volgen in noordoostelijke richting tot aan de Aziëweg.  
+
+9. De Aziëweg volgen in zuidelijke richting tot aan de Europaweg.  
+
+10. De Europaweg volgen in zuidwestelijke richting tot aan de N206.  
+
+11. De N206 volgen in noordwestelijke richting tot aan de A4.  
+
+12. De A4 volgen in noordoostelijke richting tot aan kruising A4/N11.   
+
+### Bijlage  2  
+
+####Toezichtsgebied
+
+1. Vanaf kruising A44/Lisserdijk, de Lissedijk volgen in oostelijke richting overgaand in Huigsloterdijk overgaand in Leimuiderdijk tot aan de N207 Provincialeweg.  
+
+2. De N207 Provincialeweg volgen in zuidelijke richting tot aan deN446.  
+
+3. De N446 volgen in oostelijke richting tot aan de Aardamseweg.  
+
+4. De Aardamseweg volgen in oostelijke richting tot aan de Oostkanaalweg.  
+
+5. De Oostkanaalweg volgen in zuidelijke richting tot aan de Nieuwkoopseweg.  
+
+6. De Nieuwkoopseweg volgen in oostelijke richting tot aan de Treinweg.  
+
+7. De Treinweg volgen in zuidelijke richting tot aan de Oude Rijn (Water).  
+
+8. De Oude Rijn volgen in oostelijke richting tot aan de Goudse Rijpad.  
+
+9. De Goudse Rijpad volgen in zuidelijke richting tot aan de Rijerskoop.  
+
+10. De Rijerskoop volgen in westelijke richting tot aan de Zuidwijk.  
+
+11. De Zuidwijk volgen in zuidelijke richting overgaand in Randenburgseweg tot aan de N207.  
+
+12. De N207 volgen in zuidelijke richting tot aan de Brugweg.  
+
+13. De Brugweg volgen in wesstelijke richting tot aan de Kanaaldijk.  
+
+14. De Kanaaldijk volgen in zuidelijke richting tot aan de Dreef.  
+
+15. De Dreef volgen in westelijke richting tot aan de Beijerincklaan.  
+
+16. De Beijerincklaan volgen in zuidwestelijke richting tot aan de A12.  
+
+17. De A12 volgen in westelijke richting tot aan de Rotte (Water).  
+
+18. De Rotte volgen in zuidelijke richting tot aan de Lange Vaart.  
+
+19. De Lange Vaart volgen in westelijke richting overgaand in Groendelseweg tot aan de Munnikenweg.  
+
+20. De Munnikenweg volgen in westelijke richting tot aan de Berkelseweg.  
+
+21. De Berkelseweg volgen in noordwestelijke richting tot aan de Katwijkerlaan.  
+
+22. De Katwijkerlaan volgen in zuidwestelijke richting tot aan de Nieuwkoopseweg.  
+
+23. De Nieuwkoopseweg volgen in noordwestelijke richting tot aan de `s Gravenweg.  
+
+24. De `s Gravenweg volgen in westelijke richting tot aan de spoorlijn Rotterdam / Leiderdorp.  
+
+25. De spoorlijn Rotterdam Leiderdorp volgen in noordelijke richting tot aan de A12.  
+
+26. De A12 volgen in westelijke richting tot aan A4/ knooppunt PrinsClausplein.  
+
+27. De A4 volgen in noordelijke richting tot aan de N14.  
+
+28. De N14 volgen in westelijke richting overgaand in N14/ Rijksstraatweg volgen noordelijke richting tot aan de Rust en Vreugdelaan.  
+
+29. De Rust en Vreugdelaan volgen in westelijke richting overgaand in Lijsterlaan tot aan de Jagerslaan.  
+
+30. De Jagerslaan zuide volgen in noordelijke richting overgaand in Jagerslaan noord tot aan de Katwijkerweg.  
+
+31. De Katwijkerweg volgen in west- noordelijke richting overgaand in de Wassenaarseweg tot aan de N206/ Provincialeweg.  
+
+32. De N206/ Provincialeweg volgen in noordelijke richting tot aan de Sandtlaan.  
+
+33. De Sandtlaan volgen in oostelijke richting overgaand in de Oegstgeesterweg tot aan de Brouwerstraat.  
+
+34. De Brouwerstraat volgen in noordelijke richting overgaand in Noordwijkerweg tot aan de Voorhoutenweg.  
+
+35. De Voorhoutenweg volgen in noordoostelijke richting tot aan de Vinkenweg.  
+
+36. De Vinkenweg volgen in oostelijke richting tot aan de Elsgeesterweg.  
+
+37. De Elsgeesterweg volgen in noordoostelijke richting overgaand in Eerste Elsgeesterweg tot aan de N444/ Leidsevaart.  
+
+38. De N444/ Leidsevaart volgen in zuidelijke richting tot aan de A44.  
+
+39. De A44 volgen in oostelijke richting tot aan de kruising A44/Lisserdijk.   
