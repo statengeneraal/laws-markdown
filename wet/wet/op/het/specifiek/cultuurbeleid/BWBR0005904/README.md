@@ -50,10 +50,10 @@ Onze Minister is belast met het scheppen van voorwaarden voor het in stand houde
 
 ### Artikel  2c  
 
-1.  Onder de Raad ressorteren twee commissies ter voorbereiding van de adviezen die Onze Minister vraagt ingevolge de [Monumentenwet 1988](../../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) onderscheidenlijk de [Wet tot behoud van cultuurbezit](../../../../../../../wet/wet/tot/behoud/van/cultuurbezit/BWBR0003659/README.md).   
-2. De commissies, bedoeld in het eerste lid, kunnen in afwijking van [artikel 16 van de Kaderwet adviescolleges](../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) geheel of gedeeltelijk bestaan uit andere personen dan leden van de Raad.  
-3.  Ter voorbereiding van andere adviezen dan bedoeld in het eerste lid, kan de Raad tijdelijke commissies instellen die in afwijking van [artikel 16 van de Kaderwet adviescolleges](../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) geheel of gedeeltelijk kunnen bestaan uit andere personen dan leden van de Raad.   
-4.  Op de in het tweede en derde lid bedoelde commissieleden zijn de [artikelen 11 tot en met 14 van de Kaderwet adviescolleges](../../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) van overeenkomstige toepassing, met dien verstande dat deze leden door Onze Minister worden benoemd, geschorst en ontslagen.  
+1.  Onder de Raad ressorteren twee commissies ter voorbereiding van de adviezen die Onze Minister vraagt ingevolge de Monumentenwet 1988 onderscheidenlijk de Wet tot behoud van cultuurbezit.   
+2. De commissies, bedoeld in het eerste lid, kunnen in afwijking van artikel 16 van de Kaderwet adviescolleges geheel of gedeeltelijk bestaan uit andere personen dan leden van de Raad.  
+3.  Ter voorbereiding van andere adviezen dan bedoeld in het eerste lid, kan de Raad tijdelijke commissies instellen die in afwijking van artikel 16 van de Kaderwet adviescolleges geheel of gedeeltelijk kunnen bestaan uit andere personen dan leden van de Raad.   
+4.  Op de in het tweede en derde lid bedoelde commissieleden zijn de artikelen 11 tot en met 14 van de Kaderwet adviescolleges van overeenkomstige toepassing, met dien verstande dat deze leden door Onze Minister worden benoemd, geschorst en ontslagen.  
 
 ### Hoofdstuk  II  
 
@@ -143,7 +143,7 @@ h. de betaling en terugvordering van de subsidie, alsmede het verlenen van voors
 ### Artikel  8a  
 
 1.  Met het toezicht op de naleving van de bij of krachtens deze wet aan de subsidie-ontvanger opgelegde verplichtingen zijn belast de bij besluit van Onze Minister aangewezen personen.    
-2.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).    
+2.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.    
 3.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.    
 4.  Aan door Onze Minister verstrekte subsidies is de verplichting verbonden dat de subsidie-ontvanger aan een toezichthouder alle medewerking verleent die deze redelijkerwijs kan vorderen bij de uitoefening van zijn bevoegdheden.   
 
@@ -158,11 +158,11 @@ h. de betaling en terugvordering van de subsidie, alsmede het verlenen van voors
 
 ### Artikel  9a  
 
-De [Kaderwet zelfstandige bestuursorganen](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing op een fonds, met uitzondering van [artikel 22 van die wet](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), voor zover het besluiten betreft die het bestuur van een fonds neemt ter uitvoering van de in artikel 9, eerste lid, bedoelde taak. 
+De Kaderwet zelfstandige bestuursorganen is van toepassing op een fonds, met uitzondering van artikel 22 van die wet, voor zover het besluiten betreft die het bestuur van een fonds neemt ter uitvoering van de in artikel 9, eerste lid, bedoelde taak. 
 
 ### Artikel  10  
 
-1.  Een besluit tot wijziging van de statuten treedt slechts in werking nadat Onze Minister daarmee heeft ingestemd. De [artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.    
+1.  Een besluit tot wijziging van de statuten treedt slechts in werking nadat Onze Minister daarmee heeft ingestemd. De artikelen 10:28 tot en met 10:31 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.    
 2.   De leden van het bestuur van een fonds worden door Onze Minister benoemd, geschorst en ontslagen. In de statuten kan worden bepaald dat leden na voordracht van één of meer in de statuten genoemde organisaties kunnen worden benoemd.   
 3.   Een fonds kan worden ontbonden door een besluit van het bestuur, welk besluit de goedkeuring van Onze Minister behoeft, alsmede door een besluit van Onze Minister gehoord het bestuur. In beide gevallen geeft het bestuur aan het liquidatiesaldo een bestemming die zoveel mogelijk in overeenstemming is met het doel van het fonds. Een besluit tot bestemming van het liquidatiesaldo treedt slechts in werking na goedkeuring door Onze Minister.   
 4.  Het bestuur van een fonds stelt één of meer reglementen vast waarin in ieder geval worden vastgelegd de werkwijze, de procedures en de criteria die het bestuur bij het verstrekken van subsidies hanteert, alsmede de verplichtingen die aan de subsidie-ontvanger worden opgelegd. In deze reglementen kunnen voorts regels worden gesteld met betrekking tot de vaststelling van een subsidieplafond en de wijze van verdeling daarvan, de betaling en terugvordering van de subsidie alsmede de verlening van voorschotten op de subsidie. Onze Minister kan met betrekking tot genoemde onderwerpen het bestuur van een fonds voorschrijven ter zake een reglement te wijzigen. Een besluit tot vaststelling van een reglement of een wijziging daarvan treedt slechts in werking na goedkeuring door Onze Minister. Goedkeuring kan worden onthouden wegens strijd met het recht of het algemeen belang. Het niet tijdig bekendmaken van een besluit omtrent goedkeuring of een besluit tot verdaging van de beslissing omtrent goedkeuring heeft niet tot gevolg dat een besluit tot goedkeuring geacht wordt te zijn genomen.    

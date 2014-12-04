@@ -5,50 +5,48 @@
 De Minister van Economische Zaken,  
 Handelende na overleg met de Minister van Onderwijs, Cultuur en Wetenschap;
 
-Gelet op [artikel 3 van het Besluit certificaten groen beroepsonderwijs](../../../../../../AMvB/besluit/certificaten/groen/beroepsonderwijs/BWBR0032228/README.md), [artikel 7, eerste lid, van het Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md) en [artikel 17, eerste lid, van het Besluit gewasbeschermingsmiddelen en biociden](../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md);
+Gelet op artikel 3 van het Besluit certificaten groen beroepsonderwijs, artikel 7, eerste lid, van het Honden- en kattenbesluit 1999 en artikel 17, eerste lid, van het Besluit gewasbeschermingsmiddelen en biociden;
 Besluit:    
 
 ### Artikel  1  
 
 Er is een certificaat verbonden aan de volgende onderdelen van een kwalificatie of kwalificaties: 
 
-a. wettelijke beroepsvereisten gewasbescherming, onderdeel van de kwalificatie Vakbekwaam medewerker teelt, bedoeld in [Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md);  
+a. wettelijke beroepsvereisten gewasbescherming, onderdeel van de kwalificatie Vakbekwaam medewerker teelt, bedoeld in Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012;  
 
-b. gewasbescherming B, onderdeel van de kwalificatie Manager teelt en gewasbescherming, bedoeld in [Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md);  
+b. gewasbescherming B, onderdeel van de kwalificatie Manager teelt en gewasbescherming, bedoeld in Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012;  
 
-c. gewasbescherming C, onderdeel van de kwalificatie Manager teelt en gewasbescherming, bedoeld in [Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md);  
+c. gewasbescherming C, onderdeel van de kwalificatie Manager teelt en gewasbescherming, bedoeld in Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012;  
 
-d. wettelijke beroepsvereisten gezelschapsdieren HKB, onderdeel van de kwalificaties Ondernemers gezelschapsdieren of Vakbekwaam verkoper gezelschapsdieren, bedoeld in [Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md);  
+d. wettelijke beroepsvereisten gezelschapsdieren HKB, onderdeel van de kwalificaties Ondernemers gezelschapsdieren of Vakbekwaam verkoper gezelschapsdieren, bedoeld in Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012;  
 
-e. wettelijke beroepsvereisten recreatiedieren HKB, onderdeel van de kwalificaties Recreatiedieren 3 (dierverzorger recreatiedieren) en Ondernemer/manager recreatiedieren, bedoeld in [Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md);  
+e. wettelijke beroepsvereisten recreatiedieren HKB, onderdeel van de kwalificaties Recreatiedieren 3 (dierverzorger recreatiedieren) en Ondernemer/manager recreatiedieren, bedoeld in Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012;  
 
-f. wettelijke beroepsvereisten gezelschapsdieren [Besluit houders van dieren](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), Crebocode 97790 en 97791, bedoeld in [bijlage 2 van de Regeling vaststelling kwalificatiedossier en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md);  
+f. de onderdelen CE Herpeten, CE Honden en katten, CE Overige zoogdieren, CE Vissen en CE Vogels van de wettelijke beroepsvereisten gezelschapsdieren Besluit houden van dieren, Crebocode 97790 en 97791, bedoeld in bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012;  
 
-g. wettelijke beroepsvereisten recreatiedieren [Besluit houders van dieren](../../../../../../AMvB/besluit/houders/van/dieren/BWBR0035217/README.md), Crebocode 97720 en 97730, bedoeld in [bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md); 
+g. wettelijke beroepsvereisten dierenartsassistent paraveterinair, Crebocode 97590, bedoeld in bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012; 
 
-h. welzijn van vleeskuikens, onderdeel van de kwalificatie Dierenhouder hokdieren, bedoeld in [Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012](../../../../../../ministeriele-regeling/regeling/vaststelling/kwalificatiedossiers/en/opleidingsdomeinen/2012/BWBR0031310/README.md).  
+h. welzijn van vleeskuikens, onderdeel van de kwalificatie Dierenhouder hokdieren, bedoeld in Bijlage 2 van de Regeling vaststelling kwalificatiedossiers en opleidingsdomeinen 2012.  
 
 ### Artikel  2  
 
-1.  Het model voor de certificaten als bedoeld in [artikel 7.2.3 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), wordt vastgesteld en ingevuld volgens bijlage 1 bij deze regeling.   
+1.  Het model voor de certificaten als bedoeld in artikel 7.2.3 van de Wet educatie en beroepsonderwijs, wordt vastgesteld en ingevuld volgens bijlage 1 bij deze regeling.   
 2.  Het certificaat wordt opgemaakt op een beveiligde papiersoort met de volgende kenmerken: 
 
 a. een uniek watermerk;  
 
-b. een blinddruk;  
+b. UV-vezels;  
 
-c. UV-vezels;  
+c. een vloeiend kleurverloop;  
 
-d. een vloeiend kleurverloop;  
+d. een microtekst; en  
 
-e. een microtekst; en  
-
-f. een beschermlaag die verkleurt bij mechanische of chemische aantasting.     
+e. een beschermlaag die verkleurt bij mechanische of chemische aantasting.     
 3.  Met het papier dat voldoet aan de veiligheidseisen in het tweede lid, als bedoeld in deze regeling wordt gelijkgesteld papier dat ten minste een gelijkwaardig beschermingsniveau biedt.  
 
 ### Artikel  3  
 
-De resultatenlijst behorend bij een certificaat als bedoeld in artikel 1, onderdelen g en h, vermelden de diergroep, bedoeld in [artikel 8.6 van de Regeling houders van dieren](../../../../../../ministeriele-regeling/regeling/houders/van/dieren/BWBR0035248/README.md), waarvoor het onderwijs is genoten. 
+De resultatenlijst behorend bij een certificaat als bedoeld in artikel 1, onderdelen g en h, vermelden de diergroep, bedoeld in artikel 8.6 van de Regeling houders van dieren, waarvoor het onderwijs is genoten. 
 
 ### Artikel  4  
 
@@ -80,7 +78,7 @@ De te hanteren benaming voor een certificeerbare eenheid is de benaming zoals ve
 
 ####Kwalificatie
 
-De te hanteren benaming voor een kwalificatie is de benaming zoals vermeld in het Centraal register beroepsonderwijs. Als Crebocode dient te worden vermeld de in Crebo opgenomen code van de betreffende kwalificatie. Voor iedere certificeerbare eenheid van een kwalificatie die een examenkandidaat behaalt, wordt een apart certificaat uitgegeven, tenzij de certificeerbare eenheid onderdeel is van een afgeronde opleiding. In dat laatste geval worden de behaalde certificeerbare eenheden op het diploma en/of resultatenlijst vermeld conform de [Regeling modeldiploma mbo](../../../../../../ministeriele-regeling/regeling/modeldiploma/mbo/BWBR0031616/README.md). 
+De te hanteren benaming voor een kwalificatie is de benaming zoals vermeld in het Centraal register beroepsonderwijs. Als Crebocode dient te worden vermeld de in Crebo opgenomen code van de betreffende kwalificatie. Voor iedere certificeerbare eenheid van een kwalificatie die een examenkandidaat behaalt, wordt een apart certificaat uitgegeven, tenzij de certificeerbare eenheid onderdeel is van een afgeronde opleiding. In dat laatste geval worden de behaalde certificeerbare eenheden op het diploma en/of resultatenlijst vermeld conform de Regeling modeldiploma mbo. 
 
 ####Kwalificatiedossier
 
@@ -104,7 +102,7 @@ Achter het woord ‘aan’ wordt steeds de naam van de instelling vermeld. De na
 
 ####Wettelijke beroepsvereisten
 
-Indien op grond van een andere (wettelijke) regeling dan de [WEB](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) een tekstpassage over wettelijke beroepsvereisten vermeld dient te worden op het certificaat, dan is de instelling verplicht om de desbetreffende informatie op het certificaat te vermelden. 
+Indien op grond van een andere (wettelijke) regeling dan de WEB een tekstpassage over wettelijke beroepsvereisten vermeld dient te worden op het certificaat, dan is de instelling verplicht om de desbetreffende informatie op het certificaat te vermelden. 
 
 ####Ondertekening
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 27 januari 1987, Stafafdeling Wetgeving Publiekrecht, nr. 030/687;
 
-Gelet op [artikel 162, vierde en zevende lid, van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md);
+Gelet op artikel 162, vierde en zevende lid, van het Wetboek van Strafvordering;
 
 De Raad van State gehoord (advies van 6 maart 1987, nr. W03.87.0049);
 
@@ -15,25 +15,21 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Op de volgende rechtspersonen of organen van rechtspersonen rusten mede de in [artikel 162, eerste en tweede lid, van het Wetboek van Strafvordering](../../../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) ten aanzien van openbare colleges en ambtenaren omschreven verplichtingen:  
+Op de volgende rechtspersonen of organen van rechtspersonen rusten mede de in artikel 162, eerste en tweede lid, van het Wetboek van Strafvordering ten aanzien van openbare colleges en ambtenaren omschreven verplichtingen: 
 
-1°. het Algemeen Burgerlijk Pensioenfonds en het Spoorwegpensioenfonds;  
+1°. de Stichting Pensioenfonds ABP en het Spoorwegenpensioenfonds;  
 
-2°. de Sociaal-Economische Raad en de hoofdproduct-, product- de hoofdbedrijf- en de bedrijfschappen, bedoeld in de [Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K22);  
+2°. de Sociaal-Economische Raad;  
 
-3°. het College van toezicht sociale verzekeringen, de Sociale Verzekeringsbank, het Landelijk instituut sociale verzekeringen en de uitvoeringsinstellingen, bedoeld in de Organisatiewet sociale verzekeringen 1997;  
+3°. de indicatieorganen, bedoeld in artikel 9a, eerste lid, van de Algemene Wet Bijzondere Ziektekosten;  
 
-4°. de Nederlandse Zorgautoriteit;  
+4°. de zorgverzekeraars, bedoeld in artikel 1, onderdeel b, van de Zorgverzekeringswet;  
 
-5°. Vervallen.  
+5°. de rechtspersonen, bedoeld in artikel 40 van de Algemene Wet Bijzondere Ziektekosten;  
 
-6°. instellingen, in het belang van de volkshuisvesting werkzaam, als toegelaten op grond van [artikel 59 van de Woningwet](../../../../../../../../../wet/woningwet/BWBR0005181/README.md) (*Stb.* 1962, 287);  
+6°. de keuringsinstellingen, bedoeld in artikel 87 van de Zaaizaad- en plantgoedwet;  
 
-7°. de privaatrechtelijke rechtspersonen, bedoeld in [artikel 8 van de Landbouwkwaliteitswet](../../../../../../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) (*Stb.* 1971, 371);  
-
-8°. de keuringsinstellingen, bedoeld in [artikel 87 van de Zaaizaad- en plantgoedwet](../../../../../../../../../wet/zaaizaad-/en/plantgoedwet/BWBR0002541/README.md) (*Stb.* 1966, 455);  
-
-9°. de Stichting Gezondheidszorg voor Dieren en de als organen van deze stichting aangewezen gezondheidsdiensten (Bekendmaking van het landbouwschap Mb.BO. 1972, nr. 8).   
+7°. de privaatrechtelijke rechtspersonen, bedoeld in artikel 8 van de Landbouwkwaliteitswet.  
 
 ### Artikel  2  
 

@@ -6,26 +6,26 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Allen, die deze zullen zien of horen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat de procedure betreffende de onmiddellijke tenuitvoerlegging van een in een vreemde staat opgelegde vrijheidsbenemende sanctie, bedoeld in [artikel 43 van de Wet overdracht tenuitvoerlegging strafvonnissen](../../../../../../../../../wet/wet/overdracht/tenuitvoerlegging/strafvonnissen/BWBR0004028/README.md), nadere uitwerking behoeft;
+Alzo Wij in overweging genomen hebben, dat de procedure betreffende de onmiddellijke tenuitvoerlegging van een in een vreemde staat opgelegde vrijheidsbenemende sanctie, bedoeld in artikel 43 van de Wet overdracht tenuitvoerlegging strafvonnissen, nadere uitwerking behoeft;
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet overdracht tenuitvoerlegging strafvonnissen. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de rechterlijke organisatie. 
 
 ### Artikel  III  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Deze wet is van toepassing op verzoeken tot tenuitvoerlegging die zijn ingediend na het tijdstip van inwerkingtreding van de wet. 
 
 ### Artikel  IV  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 

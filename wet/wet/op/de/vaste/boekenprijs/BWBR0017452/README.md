@@ -48,7 +48,7 @@ g. importeur: degene die boeken of muziekuitgaven die in andere landen dan Neder
 
 h. verkoper: degene die door de uitgever of de importeur in het handelsverkeer gebrachte boeken of muziekuitgaven verkoopt aan eindafnemers;  
 
-i. openbare bibliotheek: een bibliotheek als bedoeld in [artikel 1, eerste lid, onderdeel d, van de Wet op het specifiek cultuurbeleid](../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);  
+i. openbare bibliotheek: een bibliotheek als bedoeld in artikel 1, eerste lid, onderdeel d, van de Wet op het specifiek cultuurbeleid;  
 
 j. eindafnemer: degene aan wie de verkoper boeken of muziekuitgaven verkoopt voor eigen gebruik;  
 
@@ -98,7 +98,7 @@ b. verkoop aan eindafnemers in geval van faillissement of opheffing van de activ
 
 c. verkoop aan eindafnemers in geval van opruiming van winkelvoorraad van boeken en muziekuitgaven die langer dan twee jaar geleden zijn uitgegeven en de laatste twaalf maanden niet meer door de verkoper zijn ingekocht, mits daarvan vooraf mededeling is gedaan aan het Commissariaat;  
 
-d. verkoop door een uitgever van één exemplaar van een boek aan het Depot van de Koninklijke Bibliotheek, genoemd in [artikel 1.16 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md);  
+d. verkoop door een uitgever van één exemplaar van een boek aan het Depot van de Koninklijke Bibliotheek, genoemd in artikel 1.16 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
 e. verkoop van één exemplaar van een boek of muziekuitgave aan een eindafnemer die krachtens arbeidsovereenkomst naar burgerlijk recht werkzaam is bij de verkoper, en de verkoper: 
 
@@ -189,14 +189,14 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omt
 
 ### Artikel  15  
 
-1.  Het Commissariaat voor de Media, genoemd in [artikel 7.1 van de Mediawet 2008](../../../../../../../wet/mediawet/2008/BWBR0025028/README.md) is belast met de bestuursrechtelijke handhaving van het bepaalde bij of krachtens deze wet.   
+1.  Het Commissariaat voor de Media, genoemd in artikel 7.1 van de Mediawet 2008 is belast met de bestuursrechtelijke handhaving van het bepaalde bij of krachtens deze wet.   
 2.  Met toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de leden van het Commissariaat en de bij besluit van het Commissariaat aangewezen medewerkers van het Commissariaat.   
 3.  Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan in de Staatscourant.  
 
 ###Artikel 16 
 
-1. De in artikel 15, tweede lid, bedoelde toezichthouders zijn bevoegd om bedrijfsruimten en voorwerpen te verzegelen gedurende de tijd gelegen tussen 18.00 en 8.00 uur, voor zover dat voor de uitoefening van de in [artikel 5:17 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde bevoegdheden redelijkerwijs noodzakelijk is.
-2. De in artikel 15, tweede lid, bedoelde toezichthouders oefenen de hun in het eerste lid en [artikel 5:17 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) toegekende bevoegdheid zo nodig uit met behulp van de sterke arm.
+1. De in artikel 15, tweede lid, bedoelde toezichthouders zijn bevoegd om bedrijfsruimten en voorwerpen te verzegelen gedurende de tijd gelegen tussen 18.00 en 8.00 uur, voor zover dat voor de uitoefening van de in artikel 5:17 van de Algemene wet bestuursrecht bedoelde bevoegdheden redelijkerwijs noodzakelijk is.
+2. De in artikel 15, tweede lid, bedoelde toezichthouders oefenen de hun in het eerste lid en artikel 5:17 van de Algemene wet bestuursrecht toegekende bevoegdheid zo nodig uit met behulp van de sterke arm.
 3. Iedere uitgever, importeur, en verkoper draagt er zorg voor dat de in artikel 15, tweede lid, bedoelde toezichthouders desgevraagd inzage verkrijgen in – en kopieën kunnen maken van – de zakelijke gegevens en bescheiden van bedrijven of instellingen, voor zover dat voor de vervulling van de toezichthoudende taak redelijkerwijs nodig is.
 
 ### Artikel  17  
@@ -218,8 +218,8 @@ De in artikel 17, onderdeel a, bedoelde bestuurlijke boete bedraagt ten hoogste 
 
 ### Artikel  22  
 
-1.  Het Commissariaat kan degene, die jegens de in artikel 15, tweede lid, bedoelde toezichthouders in strijd handelt met [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), een bestuurlijke boete opleggen van ten hoogste € 4 500.   
-2.  Ingeval de in het eerste lid, bedoelde overtreding een weigering inhoudt medewerking te verlenen aan de toepassing van [artikel 5:17, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), kan het Commissariaat een last onder dwangsom opleggen om inzage te verlenen in de in die last aangegeven zakelijke gegevens en bescheiden.  
+1.  Het Commissariaat kan degene, die jegens de in artikel 15, tweede lid, bedoelde toezichthouders in strijd handelt met artikel 5:20, eerste lid, van de Algemene wet bestuursrecht, een bestuurlijke boete opleggen van ten hoogste € 4 500.   
+2.  Ingeval de in het eerste lid, bedoelde overtreding een weigering inhoudt medewerking te verlenen aan de toepassing van artikel 5:17, eerste lid, van de Algemene wet bestuursrecht, kan het Commissariaat een last onder dwangsom opleggen om inzage te verlenen in de in die last aangegeven zakelijke gegevens en bescheiden.  
 
 ###Artikel 27 
 
@@ -227,7 +227,7 @@ Het Commissariaat draagt de opbrengsten van opgelegde boetes en verbeurde dwangs
 
 ### Artikel  27a  
 
-Op de bevoegdheid een last onder dwangsom op te leggen als bedoeld in artikel 17, onderdeel b, zijn de [artikelen 5:45](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:48 tot en met 5:53 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing. 
+Op de bevoegdheid een last onder dwangsom op te leggen als bedoeld in artikel 17, onderdeel b, zijn de artikelen 5:45 en 5:48 tot en met 5:53 van de Algemene wet bestuursrecht van overeenkomstige toepassing. 
 
 ###Hoofdstuk 6 
 
@@ -258,7 +258,7 @@ Deze wet wordt aangehaald als: Wet op de vaste boekenprijs.
 
 ###Artikel 32 
 
-Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij terugwerkende kracht kan worden verleend tot en met een daarbij te bepalen tijdstip. In dat besluit wordt zonodig toepassing gegeven aan [artikel 16 van de Tijdelijke referendumwet](../../../../../../../wet/tijdelijke/referendumwet/BWBR0012701/README.md).
+Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, waarbij terugwerkende kracht kan worden verleend tot en met een daarbij te bepalen tijdstip. In dat besluit wordt zonodig toepassing gegeven aan artikel 16 van de Tijdelijke referendumwet.
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.
 

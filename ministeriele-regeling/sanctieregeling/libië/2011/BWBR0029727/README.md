@@ -28,13 +28,13 @@ Besluit:
 ### Artikel  3  
 
 1.  Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, direct of indirect te verkopen, te leveren, over te dragen aan, dan wel door of uit te voeren naar entiteiten of personen in Libië of voor gebruik in of ten behoeve van Libië, ongeacht het land van oorsprong.   
-2.  Het verbod, bedoeld in het eerste lid, geldt niet voor: 
+2.  Het verbod, bedoeld in het eerste lid, geldt niet voor de levering, de verkoop, de overdracht of de door- of uitvoer van: 
 
-a. niet-dodelijke militaire uitrusting die uitsluitend bestemd is voor humanitaire of beschermde doeleinden, dan wel voor de bijstand aan de Libische regering bij beveiliging of ontwapening;  
+a. wapens en verwante materialen waarvoor voorafgaand goedkeuring is verleend door het Comité, bedoeld in punt 24 van Resolutie 1970 (2011) van de Veiligheidsraad van de Verenigde Naties;  
 
-b. wapens en verwante materialen die uitsluitend bedoeld zijn voor bijstand aan de Libische autoriteiten bij beveiliging of ontwapening onder de voorwaarde dat het Comité, bedoeld in het tweede lid, vooraf op de hoogte is gesteld en niet binnen vijf dagen na die kennisgeving negatief heeft besloten;  
+b. niet-dodelijke militaire uitrusting die uitsluitend bestemd is voor humanitaire of beschermende doeleinden, dan wel voor de bijstand aan de Libische regering bij beveiliging of ontwapening;  
 
-c. handvuurwapens, lichte wapens en verwante materialen die tijdelijk naar Libië worden uitgevoerd uitsluitend voor gebruik door personeel van de Verenigde Naties, vertegenwoordigers van de media en humanitaire medewerkers en ontwikkelingswerkers en hun personeel onder de voorwaarde dat het Comité, bedoeld in het tweede lid, vooraf op de hoogte is gesteld en niet binnen vijf dagen na die kennisgeving negatief heeft besloten.    
+c. handvuurwapens, lichte wapens en verwante materialen die tijdelijk naar Libië worden uitgevoerd uitsluitend voor gebruik door personeel van de Verenigde Naties, vertegenwoordigers van de media en humanitaire medewerkers en ontwikkelingswerkers en hun personeel onder de voorwaarde dat het Comité, bedoeld onder a, vooraf op de hoogte is gesteld en niet binnen vijf dagen na die kennisgeving negatief heeft besloten.    
 
 ### Artikel  4  
 

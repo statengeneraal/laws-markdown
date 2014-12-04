@@ -8,7 +8,7 @@ Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij 
 
 Gelet op artikel 16, eerste lid, onderdeel c, van richtlijn nr. 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora- en fauna (PbEG L 206);
 
-Gelet op de [artikelen 75, eerste lid en vierde lid, onderdelen a, b en c](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en [81, eerste lid, van de Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);
+Gelet op de artikelen 75, eerste lid en vierde lid, onderdelen a, b en c en 81, eerste lid, van de Flora- en faunawet;
 
 De Raad van State gehoord (advies van 26 mei 2000, nr. W11.00.0064/V);
 
@@ -22,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md);  
+a. wet: Flora- en faunawet;  
 
 b. gesloten pootring: individueel gemerkte, naadloze, ononderbroken ring of manchet, zonder enige naad of las, waarmee op geen enkele wijze is geknoeid en waarvan het formaat zodanig is dat hij, nadat hij in de eerste levensdagen van de vogel is aangebracht, niet kan worden verwijderd wanneer de poot van de vogel zijn definitieve omvang heeft bereikt;  
 
@@ -38,13 +38,13 @@ g. verordening (EU) nr. 737/2010: verordening (EU) nr. 737/2010 van de Commissie
 
 ### Artikel  1a  
 
-Dit besluit berust op de [artikelen 75, eerste en vierde lid en vijfde lid, onderdelen a, b en c](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [76, eerste lid](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [77](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en [81, eerste lid, van de Flora- en faunawet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md). 
+Dit besluit berust op de artikelen 75, eerste en vierde lid en vijfde lid, onderdelen a, b en c, 76, eerste lid, 77, en 81, eerste lid, van de Flora- en faunawet. 
 
 ### Artikel  2  
 
-1. Als beschermde inheemse dier- en plantensoorten als bedoeld in [artikel 75, vijfde lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) zijn aangewezen de dier- en plantensoorten, genoemd in bijlage 1 bij dit besluit.
-2. Als aantal en soort als bedoeld in [artikel 75, vijfde lid, onderdeel b, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) zijn aangewezen 10.000 wilde eenden (*Anas platyrhynchos*) per jaar.
-3. Als andere belangen als bedoeld in [artikel 75, vijfde lid, onderdeel c, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) zijn aangewezen:
+1. Als beschermde inheemse dier- en plantensoorten als bedoeld in artikel 75, vijfde lid, van de wet zijn aangewezen de dier- en plantensoorten, genoemd in bijlage 1 bij dit besluit.
+2. Als aantal en soort als bedoeld in artikel 75, vijfde lid, onderdeel b, van de wet zijn aangewezen 10.000 wilde eenden (*Anas platyrhynchos*) per jaar.
+3. Als andere belangen als bedoeld in artikel 75, vijfde lid, onderdeel c, van de wet zijn aangewezen:
 
 a.de bepalingen inzake de gemeenschappelijke markt en een vrij verkeer van goederen van het Verdrag tot oprichting van de Europese Gemeenschap;
 
@@ -72,8 +72,8 @@ In totaal kunnen ten hoogste 200 ontheffingen worden verleend voor het onder zic
 
 ###Artikel  2b 
 
-1. Met betrekking tot de plantensoorten, genoemd in bijlage IV van de Habitatrichtlijn, en de plantensoorten, genoemd in bijlage 1 bij dit besluit, kan van [artikel 8 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) slechts vrijstelling of ontheffing worden verleend ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen a, b, c, d, e of f. 
-2. In afwijking van het bepaalde in het eerste lid kan met betrekking tot de in het eerste lid bedoelde soorten tevens vrijstelling of ontheffing worden verleend van [artikel 8 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen h, i en j, mits ten aanzien van de in het eerste lid bedoelde soorten:
+1. Met betrekking tot de plantensoorten, genoemd in bijlage IV van de Habitatrichtlijn, en de plantensoorten, genoemd in bijlage 1 bij dit besluit, kan van artikel 8 van de wet slechts vrijstelling of ontheffing worden verleend ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen a, b, c, d, e of f. 
+2. In afwijking van het bepaalde in het eerste lid kan met betrekking tot de in het eerste lid bedoelde soorten tevens vrijstelling of ontheffing worden verleend van artikel 8 van de wet ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen h, i en j, mits ten aanzien van de in het eerste lid bedoelde soorten:
 
 a.geen benutting of economisch gewin plaatsvindt en
 
@@ -84,10 +84,10 @@ b.zorgvuldig wordt gehandeld, hetgeen in elk geval inhoudt dat van de werkzaamhe
 
 1. Met betrekking tot de diersoorten, genoemd in bijlage IV van de Habitatrichtlijn, en de diersoorten, genoemd in bijlage 1 bij dit besluit, kan:
 
-a.van de [artikelen 9 tot en met 12 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) slechts vrijstelling of ontheffing worden verleend ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen a, b, c, d, e of f;
+a.van de artikelen 9 tot en met 12 van de wet slechts vrijstelling of ontheffing worden verleend ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen a, b, c, d, e of f;
 
-b.van de [artikelen 15](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [50](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [53, eerste lid, onderdelen a en b](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en [artikel 72, vijfde lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) geen vrijstelling of ontheffing worden verleend ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen g, h, i en j. 
-2. In afwijking van het bepaalde in het eerste lid, onderdeel a, kan met betrekking tot de in het eerste lid bedoelde soorten tevens vrijstelling of ontheffing worden verleend van de [artikelen 9](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [11](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en [12 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen h, i en j, mits ten aanzien van de in het eerste lid bedoelde soorten:
+b.van de artikelen 15, 50, 53, eerste lid, onderdelen a en b, en artikel 72, vijfde lid, van de wet geen vrijstelling of ontheffing worden verleend ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen g, h, i en j. 
+2. In afwijking van het bepaalde in het eerste lid, onderdeel a, kan met betrekking tot de in het eerste lid bedoelde soorten tevens vrijstelling of ontheffing worden verleend van de artikelen 9, 11 en 12 van de wet ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen h, i en j, mits ten aanzien van de in het eerste lid bedoelde soorten:
 
 a.geen benutting of economisch gewin plaatsvindt en
 
@@ -107,14 +107,14 @@ bvoorafgaand en tijdens de werkzaamheden of het gebruik in redelijkheid alles za
 
 ###Artikel  2d 
 
-1. Met betrekking tot de vogelsoorten, bedoeld in [artikel 4, eerste lid, onderdeel b, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), kan:
+1. Met betrekking tot de vogelsoorten, bedoeld in artikel 4, eerste lid, onderdeel b, van de wet, kan:
 
-a.van de [artikelen 9 tot en met 12 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) slechts vrijstelling of ontheffing worden verleend ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen a, b, c, of d;
+a.van de artikelen 9 tot en met 12 van de wet slechts vrijstelling of ontheffing worden verleend ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen a, b, c, of d;
 
-b.van de [artikelen 15](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [50](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [53, eerste lid, onderdelen a en b](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en [artikel 72, vijfde lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) geen vrijstelling of ontheffing worden verleend ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen e, f, g, h, i en j. 
-2.  In afwijking van het bepaalde in het eerste lid, onderdeel a, kan met betrekking tot de in het eerste lid bedoelde soorten tevens vrijstelling of ontheffing worden verleend van [artikel 10 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen e, f, g, h, i en j, voorzover de handeling, genoemd in [artikel 10 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), geen wezenlijke invloed heeft.
-3. In afwijking van het bepaalde in het eerste lid, onderdeel a, kan tevens vrijstelling of ontheffing worden verleend van [artikel 9 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) ten behoeve van het belang, genoemd in artikel 2, derde lid, onderdeel g, met betrekking tot de vogelsoorten, genoemd in bijlage II van de Vogelrichtlijn, met dien verstande dat geen vrijstelling of ontheffing kan worden verleend voor de periode van 15 maart tot 15 juli. 
-4.  In afwijking van het bepaalde in het eerste lid, onderdeel a, kan met betrekking tot de in het eerste lid bedoelde soorten tevens vrijstelling of ontheffing worden verleend van de [artikelen 9](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), [11](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en [12 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen h, i en j, mits ten aanzien van de in het eerste lid bedoelde soorten:
+b.van de artikelen 15, 50, 53, eerste lid, onderdelen a en b, en artikel 72, vijfde lid, van de wet geen vrijstelling of ontheffing worden verleend ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen e, f, g, h, i en j. 
+2.  In afwijking van het bepaalde in het eerste lid, onderdeel a, kan met betrekking tot de in het eerste lid bedoelde soorten tevens vrijstelling of ontheffing worden verleend van artikel 10 van de wet ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen e, f, g, h, i en j, voorzover de handeling, genoemd in artikel 10 van de wet, geen wezenlijke invloed heeft.
+3. In afwijking van het bepaalde in het eerste lid, onderdeel a, kan tevens vrijstelling of ontheffing worden verleend van artikel 9 van de wet ten behoeve van het belang, genoemd in artikel 2, derde lid, onderdeel g, met betrekking tot de vogelsoorten, genoemd in bijlage II van de Vogelrichtlijn, met dien verstande dat geen vrijstelling of ontheffing kan worden verleend voor de periode van 15 maart tot 15 juli. 
+4.  In afwijking van het bepaalde in het eerste lid, onderdeel a, kan met betrekking tot de in het eerste lid bedoelde soorten tevens vrijstelling of ontheffing worden verleend van de artikelen 9, 11 en 12 van de wet ten behoeve van de belangen, genoemd in artikel 2, derde lid, onderdelen h, i en j, mits ten aanzien van de in het eerste lid bedoelde soorten:
 
 a.geen benutting of economisch gewin plaatsvindt en
 
@@ -130,7 +130,7 @@ b.voorafgaand en tijdens de werkzaamheden of het gebruik in redelijkheid alles i
 2°.nesten, holen of andere voortplantings- of vaste rust- of verblijfplaatsen van de in het eerste lid bedoelde dieren worden beschadigd, vernield, uitgehaald, weggenomen of verstoord;
 
 3°.eieren van de in het eerste lid bedoelde dieren worden beschadigd of vernield. 
-6. Het bepaalde in dit artikel is niet van toepassing op gefokte vogels, behorende tot een soort als bedoeld in [artikel 4, eerste lid, onderdeel b, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md).
+6. Het bepaalde in dit artikel is niet van toepassing op gefokte vogels, behorende tot een soort als bedoeld in artikel 4, eerste lid, onderdeel b, van de wet.
 
 ### Artikel  3  
 
@@ -146,12 +146,12 @@ Met uitzondering van de artikelen 11, 14 en 14a en de hoofdstukken 3 tot en met 
 
 ### Artikel  4  
 
-1.  De verboden, bedoeld in de [artikelen 9 tot en met 11](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en [13, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van gefokte dieren behorende tot een bij ministeriële regeling aangewezen beschermde inheemse diersoort, alsmede voor producten van die dieren, voorzover de houder kan aantonen dat de dieren zijn gefokt, of, indien het producten betreft, dat de betrokken producten van gefokte dieren afkomstig zijn.   
-2.  De verboden, bedoeld in de [artikelen 9 tot en met 11](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en [13, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van edelherten, damherten en wilde zwijnen die met het oog op de productie van van die dieren afkomstige producten worden gehouden op terreinen kleiner dan 40 hectare, alsmede voor producten van die dieren, voorzover de houder kan aantonen dat de betrokken producten van die dieren afkomstig zijn.  
+1.  De verboden, bedoeld in de artikelen 9 tot en met 11 en 13, eerste lid, van de wet, gelden niet ten aanzien van gefokte dieren behorende tot een bij ministeriële regeling aangewezen beschermde inheemse diersoort, alsmede voor producten van die dieren, voorzover de houder kan aantonen dat de dieren zijn gefokt, of, indien het producten betreft, dat de betrokken producten van gefokte dieren afkomstig zijn.   
+2.  De verboden, bedoeld in de artikelen 9 tot en met 11 en 13, eerste lid, van de wet, gelden niet ten aanzien van edelherten, damherten en wilde zwijnen die met het oog op de productie van van die dieren afkomstige producten worden gehouden op terreinen kleiner dan 40 hectare, alsmede voor producten van die dieren, voorzover de houder kan aantonen dat de betrokken producten van die dieren afkomstig zijn.  
 
 ### Artikel  5  
 
-1.  De verboden, bedoeld in de [artikelen 9 tot en met 12](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en [13, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van gefokte vogels behorende tot een beschermde inheemse diersoort, alsmede voor eieren, nesten of producten van die vogels, indien de houder kan aantonen dat de vogels zijn gefokt, of, indien het eieren, nesten of producten van die vogels betreft, dat de betrokken producten van gefokte vogels afkomstig zijn en voorzover: 
+1.  De verboden, bedoeld in de artikelen 9 tot en met 12 en 13, eerste lid, van de wet, gelden niet ten aanzien van gefokte vogels behorende tot een beschermde inheemse diersoort, alsmede voor eieren, nesten of producten van die vogels, indien de houder kan aantonen dat de vogels zijn gefokt, of, indien het eieren, nesten of producten van die vogels betreft, dat de betrokken producten van gefokte vogels afkomstig zijn en voorzover: 
 
 a. deze vogels zijn voorzien van een pootring als bedoeld in artikel 6;  
 
@@ -175,7 +175,7 @@ Door Onze Minister wordt een administratie bijgehouden waaruit blijkt aan wie, w
 
 ### Artikel  8a  
 
-1.  Het verbod, bedoeld in [artikel 14, derde lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) geldt niet ten aanzien van het houden van dieren van de soorten: 
+1.  Het verbod, bedoeld in artikel 14, derde lid, van de wet geldt niet ten aanzien van het houden van dieren van de soorten: 
 
 | --- | --- | --- |
 |:---|:---|:---|
@@ -201,13 +201,13 @@ d. de houder zijn naam, adres en woonplaats, burgerservicenummer en het unieke n
 
 ### Artikel  9  
 
-1.  De verboden, bedoeld in de [artikelen 8](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en [13, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van planten of producten van planten, behorende tot een beschermde inheemse of uitheemse plantensoort, voorzover de houder kan aantonen dat de planten zijn gekweekt of, indien het producten betreft, dat de betrokken producten van gekweekte planten afkomstig zijn.   
-2.  De verboden, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van planten behorende tot de soort maretak (Viscum album), de soort wilde kievitsbloem (Fritillaria meleagris) of de soort zomerklokje (Leucojum aestivum), voorzover de houder kan aantonen dat de betrokken planten of producten op geoorloofde wijze elders dan in Nederland zijn verkregen.   
-3. De verboden, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van producten van planten, behorende tot een beschermde inheemse plantensoort, voorzover de houder kan aantonen dat de betrokken producten van planten op geoorloofde wijze elders dan in Nederland zijn verkregen.
+1.  De verboden, bedoeld in de artikelen 8 en 13, eerste lid, van de wet, gelden niet ten aanzien van planten of producten van planten, behorende tot een beschermde inheemse of uitheemse plantensoort, voorzover de houder kan aantonen dat de planten zijn gekweekt of, indien het producten betreft, dat de betrokken producten van gekweekte planten afkomstig zijn.   
+2.  De verboden, bedoeld in artikel 13, eerste lid, van de wet, gelden niet ten aanzien van planten behorende tot de soort maretak (Viscum album), de soort wilde kievitsbloem (Fritillaria meleagris) of de soort zomerklokje (Leucojum aestivum), voorzover de houder kan aantonen dat de betrokken planten of producten op geoorloofde wijze elders dan in Nederland zijn verkregen.   
+3. De verboden, bedoeld in artikel 13, eerste lid, van de wet, gelden niet ten aanzien van producten van planten, behorende tot een beschermde inheemse plantensoort, voorzover de houder kan aantonen dat de betrokken producten van planten op geoorloofde wijze elders dan in Nederland zijn verkregen.
 
 ###Artikel 9a 
 
-De verboden op het onder zich hebben en vervoeren, bedoeld in [artikel 14, derde lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), van in dat artikel bedoelde planten of dieren gelden niet ten aanzien van de grote waternavel (Hydrocotyle ranunculoides) voorzover die handelingen ten doel hebben planten behorende tot die soort te verdelgen.
+De verboden op het onder zich hebben en vervoeren, bedoeld in artikel 14, derde lid, van de wet, van in dat artikel bedoelde planten of dieren gelden niet ten aanzien van de grote waternavel (Hydrocotyle ranunculoides) voorzover die handelingen ten doel hebben planten behorende tot die soort te verdelgen.
 
 ### §  3  
 
@@ -215,11 +215,11 @@ De verboden op het onder zich hebben en vervoeren, bedoeld in [artikel 14, derde
 
 ### Artikel  10  
 
-De verboden, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van producten van wild: 
+De verboden, bedoeld in artikel 13, eerste lid, van de wet, gelden niet ten aanzien van producten van wild: 
 
 a. gedurende het tijdvak van de opening tot en met de tiende dag na de sluiting van de jacht op dat wild, dan wel;  
 
-b. gedurende het tijdvak vanaf de elfde dag na de sluiting tot de opening van de jacht op dat wild,   indien de houder van de betrokken producten kan aantonen dat deze zijn verworven overeenkomstig het bepaalde bij of krachtens [hoofdstuk V, titel II, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), dan wel op geoorloofde wijze elders dan in Nederland zijn verkregen. 
+b. gedurende het tijdvak vanaf de elfde dag na de sluiting tot de opening van de jacht op dat wild,   indien de houder van de betrokken producten kan aantonen dat deze zijn verworven overeenkomstig het bepaalde bij of krachtens hoofdstuk V, titel II, van de wet, dan wel op geoorloofde wijze elders dan in Nederland zijn verkregen. 
 
 ### §  4  
 
@@ -227,8 +227,8 @@ b. gedurende het tijdvak vanaf de elfde dag na de sluiting tot de opening van de
 
 ### Artikel  11  
 
-1.  De verboden op het onder zich hebben en vervoeren van producten van dieren, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van producten van dieren, behorende tot een beschermde inheemse diersoort, voorzover deze producten afkomstig zijn van bij ministeriële regeling aanwezen dieren, indien de houder van de betrokken producten kan aantonen dat deze zijn verworven overeenkomstig het bepaalde bij of krachtens hoofdstuk V, titel III, afdeling 1, paragraaf 3, van de wet.   
-2.  De verboden, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van producten van dieren, behorende tot een beschermde inheemse diersoort, voorzover deze producten afkomstig zijn van bij ministeriële regeling aangewezen dieren, indien de houder van de betrokken producten kan aantonen dat deze zijn verworven overeenkomstig het bepaalde bij of krachtens hoofdstuk V, titel III, afdeling 1, paragraaf 3, van de wet, dan wel op geoorloofde wijze elders dan in Nederland zijn verkregen.  
+1.  De verboden op het onder zich hebben en vervoeren van producten van dieren, bedoeld in artikel 13, eerste lid, van de wet, gelden niet ten aanzien van producten van dieren, behorende tot een beschermde inheemse diersoort, voorzover deze producten afkomstig zijn van bij ministeriële regeling aanwezen dieren, indien de houder van de betrokken producten kan aantonen dat deze zijn verworven overeenkomstig het bepaalde bij of krachtens hoofdstuk V, titel III, afdeling 1, paragraaf 3, van de wet.   
+2.  De verboden, bedoeld in artikel 13, eerste lid, van de wet, gelden niet ten aanzien van producten van dieren, behorende tot een beschermde inheemse diersoort, voorzover deze producten afkomstig zijn van bij ministeriële regeling aangewezen dieren, indien de houder van de betrokken producten kan aantonen dat deze zijn verworven overeenkomstig het bepaalde bij of krachtens hoofdstuk V, titel III, afdeling 1, paragraaf 3, van de wet, dan wel op geoorloofde wijze elders dan in Nederland zijn verkregen.  
 
 ### §  5  
 
@@ -240,23 +240,23 @@ b. gedurende het tijdvak vanaf de elfde dag na de sluiting tot de opening van de
 
 ### Artikel  13  
 
-1.  De verboden op het vangen en bemachtigen van dieren behorende tot een beschermde inheemse diersoort, bedoeld in [artikel 9 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), en van de verboden op het vervoeren en onder zich hebben van dieren, behorende tot een beschermde inheemse diersoort, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van beschermde inheemse kikkers, padden en salamanders indien de betrokken handelingen plaatsvinden ter veiligstelling van deze dieren tegen het verkeer.   
+1.  De verboden op het vangen en bemachtigen van dieren behorende tot een beschermde inheemse diersoort, bedoeld in artikel 9 van de wet, en van de verboden op het vervoeren en onder zich hebben van dieren, behorende tot een beschermde inheemse diersoort, bedoeld in artikel 13, eerste lid, van de wet, gelden niet ten aanzien van beschermde inheemse kikkers, padden en salamanders indien de betrokken handelingen plaatsvinden ter veiligstelling van deze dieren tegen het verkeer.   
 2.  De in het eerste lid genoemde vrijstelling geldt slechts voor het vervoer van de dieren over een afstand van ten hoogste 50 meter vanaf de vangplaats en voorzover de dieren na het vervoeren onmiddellijk weer in vrijheid worden gesteld.  
 
 ### Artikel  14  
 
-1.  De verboden op het vervoeren en onder zich hebben, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van zieke of gewonde dieren behorende tot een beschermde inheemse diersoort ten behoeve van opvang en verzorging.   
+1.  De verboden op het vervoeren en onder zich hebben, bedoeld in artikel 13, eerste lid, van de wet, gelden niet ten aanzien van zieke of gewonde dieren behorende tot een beschermde inheemse diersoort ten behoeve van opvang en verzorging.   
 2.  De in het eerste lid genoemde vrijstelling geldt slechts voorzover de dieren binnen twaalf uur worden overgedragen aan personen of instanties die gerechtigd zijn de dieren onder zich te hebben.   
 3. Met betrekking tot reeën, edelherten, damherten en wilde zwijnen geldt de vrijstelling, bedoeld in het eerste lid, uitsluitend indien vóór het vervoer melding is gemaakt bij de meldkamer van de politie van het aantal, de vindplaats en de soort zieke of gewonde dieren en voorzover dat vervoer geschiedt door een door de politie aangewezen vervoerder.
 
 ###Artikel  14a 
 
-1. De verboden op het vervoeren en onder zich hebben, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van keutels, braakballen, losse veren, haarballen, sterrenschot en afgeworpen geweien afkomstig van dieren, behorende tot een beschermde inheemse diersoort.
-2. Voorzover de in het eerste lid bedoelde producten van dieren afkomstig zijn van of producten bevatten van vogelsoorten als bedoeld in [artikel 4, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) of van diersoorten, genoemd in bijlage IV van de Habitatrichtlijn of in bijlage 1 bij dit besluit, geldt de vrijstelling, bedoeld in het eerste lid, slechts als het vervoer of het onder zich hebben geschiedt met het oog op gebruik van deze producten bij onderzoek en onderwijs.
+1. De verboden op het vervoeren en onder zich hebben, bedoeld in artikel 13, eerste lid, van de wet, gelden niet ten aanzien van keutels, braakballen, losse veren, haarballen, sterrenschot en afgeworpen geweien afkomstig van dieren, behorende tot een beschermde inheemse diersoort.
+2. Voorzover de in het eerste lid bedoelde producten van dieren afkomstig zijn van of producten bevatten van vogelsoorten als bedoeld in artikel 4, eerste lid, van de wet of van diersoorten, genoemd in bijlage IV van de Habitatrichtlijn of in bijlage 1 bij dit besluit, geldt de vrijstelling, bedoeld in het eerste lid, slechts als het vervoer of het onder zich hebben geschiedt met het oog op gebruik van deze producten bij onderzoek en onderwijs.
 
 ### Artikel  16  
 
-1. De verboden op het onder zich hebben en vervoeren, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van de groene kikker (*Rana esculenta*), de bruine kikker (*Rana temporaria*) en de gewone pad (*Bufo bufo*), alsmede ten aanzien van eieren van deze soorten, voorzover het vervoer of het onder zich hebben geschiedt met het oog op gebruik van deze dieren of eieren van deze dieren bij onderzoek en onderwijs.
+1. De verboden op het onder zich hebben en vervoeren, bedoeld in artikel 13, eerste lid, van de wet, gelden niet ten aanzien van de groene kikker (*Rana esculenta*), de bruine kikker (*Rana temporaria*) en de gewone pad (*Bufo bufo*), alsmede ten aanzien van eieren van deze soorten, voorzover het vervoer of het onder zich hebben geschiedt met het oog op gebruik van deze dieren of eieren van deze dieren bij onderzoek en onderwijs.
 2. De vrijstelling in het eerste lid geldt niet ten aanzien van groene kikkers, bruine kikkers en gewone padden waarvan de metamorfose is voltooid. 
 
 ###Hoofdstuk 3: 
@@ -265,11 +265,11 @@ b. gedurende het tijdvak vanaf de elfde dag na de sluiting tot de opening van de
 
 ### Artikel 16a 
 
-De verboden, bedoeld in de [artikelen 10 tot en met 12 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van weidevogels, behorende tot vogels als bedoeld in [artikel 4, eerste lid, onderdeel b, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), ten behoeve van activiteiten bestemd en geschikt voor de bescherming van weidevogels, hun eieren en hun niet-vliegvlugge jongen tegen landbouwwerkzaamheden en vee.
+De verboden, bedoeld in de artikelen 10 tot en met 12 van de wet, gelden niet ten aanzien van weidevogels, behorende tot vogels als bedoeld in artikel 4, eerste lid, onderdeel b, van de wet, ten behoeve van activiteiten bestemd en geschikt voor de bescherming van weidevogels, hun eieren en hun niet-vliegvlugge jongen tegen landbouwwerkzaamheden en vee.
 
 ### Artikel 16b 
 
-1. De verboden, bedoeld in de [artikelen 8 tot en met 12 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet bij:
+1. De verboden, bedoeld in de artikelen 8 tot en met 12 van de wet, gelden niet bij:
 
 a.de uitvoering van werkzaamheden in het kader van bestendig beheer of onderhoud van vaarwegen, watergangen, waterkeringen, oevers, vliegvelden, wegen, spoorwegen en bermen en in het kader van natuurbeheer;
 
@@ -283,9 +283,9 @@ d.de uitvoering van werkzaamheden in het kader van ruimtelijke ontwikkeling en i
 a.bij ministeriële regeling aangewezen beschermde inheemse dier- en plantensoorten;
 
 b.overige beschermde inheemse dier- en plantensoorten, mits de werkzaamheden en het gebruik aantoonbaar plaatsvinden overeenkomstig een door Onze Minister goedgekeurde gedragscode. 
-3. In afwijking van het tweede lid, onderdeel b, gelden de vrijstellingen, bedoeld in het eerste lid, onderdelen b en c, voor wat betreft [artikel 10 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) niet ten aanzien van de soorten, genoemd in bijlage IV van de Habitatrichtlijn en in bijlage 1 bij dit besluit. 
+3. In afwijking van het tweede lid, onderdeel b, gelden de vrijstellingen, bedoeld in het eerste lid, onderdelen b en c, voor wat betreft artikel 10 van de wet niet ten aanzien van de soorten, genoemd in bijlage IV van de Habitatrichtlijn en in bijlage 1 bij dit besluit. 
 4. In afwijking van het tweede lid, onderdeel b, geldt de vrijstelling, bedoeld in het eerste lid, onderdeel d, niet ten aanzien van de soorten, genoemd in bijlage IV van de Habitatrichtlijn en in bijlage 1 bij dit besluit. 
-5. Bij de in het tweede lid bedoelde ministeriële regeling worden niet aangewezen vogelsoorten als bedoeld in [artikel 4, eerste lid, onderdeel b, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en soorten, die genoemd worden in bijlage IV van de Habitatrichtlijn en in bijlage 1 bij dit besluit.
+5. Bij de in het tweede lid bedoelde ministeriële regeling worden niet aangewezen vogelsoorten als bedoeld in artikel 4, eerste lid, onderdeel b, van de wet en soorten, die genoemd worden in bijlage IV van de Habitatrichtlijn en in bijlage 1 bij dit besluit.
 
 ### Artikel  16c 
 
@@ -312,16 +312,16 @@ Bij ministeriële regeling kunnen nadere regels worden gesteld ten aanzien van d
 
 ### Artikel 16e 
 
-1. De verboden, bedoeld in de [artikelen 9 tot en met 11 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van de huisspitsmuis (Crocidura russula) voorzover dit dier zich in of op gebouwen of daarbij behorende erven of roerende zaken bevindt. 
-2. De verboden, bedoeld in [artikel 9 tot en met 11 van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van de mol (Talpa europea) de bosmuis (Apodemus sylvaticus) en de veldmuis (Microtus arvalis).
+1. De verboden, bedoeld in de artikelen 9 tot en met 11 van de wet, gelden niet ten aanzien van de huisspitsmuis (Crocidura russula) voorzover dit dier zich in of op gebouwen of daarbij behorende erven of roerende zaken bevindt. 
+2. De verboden, bedoeld in artikel 9 tot en met 11 van de wet, gelden niet ten aanzien van de mol (Talpa europea) de bosmuis (Apodemus sylvaticus) en de veldmuis (Microtus arvalis).
 
 ### Artikel 16f 
 
-Het verbod, bedoeld in [artikel 15, tweede lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), geldt niet ten aanzien van het binnen de bebouwde kom vangen van verwilderde katten (*Felis catus*) en verwilderde duiven (*Columba livia* forma *domestica*) met vangkooien.
+Het verbod, bedoeld in artikel 15, tweede lid, van de wet, geldt niet ten aanzien van het binnen de bebouwde kom vangen van verwilderde katten (*Felis catus*) en verwilderde duiven (*Columba livia* forma *domestica*) met vangkooien.
 
 ### Artikel 16g 
 
-De verboden op het onder zich hebben en vervoeren, bedoeld in [artikel 13, eerste lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), gelden niet ten aanzien van de afvoer van planten en producten van planten, behorende tot een beschermde inheemse plantensoort, in verband met werkzaamheden als bedoeld in artikel 16b, eerste lid, die verricht worden in overeenstemming met artikel 16b en de nadere regels die op grond van artikel 16d zijn gesteld.
+De verboden op het onder zich hebben en vervoeren, bedoeld in artikel 13, eerste lid, van de wet, gelden niet ten aanzien van de afvoer van planten en producten van planten, behorende tot een beschermde inheemse plantensoort, in verband met werkzaamheden als bedoeld in artikel 16b, eerste lid, die verricht worden in overeenstemming met artikel 16b en de nadere regels die op grond van artikel 16d zijn gesteld.
 
 ###Hoofdstuk 4: 
 
@@ -329,7 +329,7 @@ De verboden op het onder zich hebben en vervoeren, bedoeld in [artikel 13, eerst
 
 ### Artikel 16h 
 
-1. Het verbod, bedoeld in [artikel 14, eerste lid van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), geldt niet ten aanzien van dieren of eieren van dieren, behorende tot bij ministeriële regeling aangewezen diersoorten, ten behoeve van de bestrijding van ziekten, plagen of onkruiden. 
+1. Het verbod, bedoeld in artikel 14, eerste lid van de wet, geldt niet ten aanzien van dieren of eieren van dieren, behorende tot bij ministeriële regeling aangewezen diersoorten, ten behoeve van de bestrijding van ziekten, plagen of onkruiden. 
 2. De vrijstelling als bedoeld in het eerste lid kan bij ministeriële regeling naar gelang een soort of groep van soorten worden beperkt tot delen van Nederland of tot bepaalde categorieën gebieden.
 
 ### Hoofdstuk  5:  
@@ -352,7 +352,7 @@ Bij ministeriële regeling kunnen regels worden gesteld over het voeren van een 
 
 ### Artikel  18a  
 
-Onze Minister besluit binnen een termijn van zestien weken na ontvangst van een verzoek om ontheffing, bedoeld in [artikel 75, derde lid, van de wet](../../../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md). 
+Onze Minister besluit binnen een termijn van zestien weken na ontvangst van een verzoek om ontheffing, bedoeld in artikel 75, derde lid, van de wet. 
 
 ###Hoofdstuk 6: 
 
@@ -360,7 +360,7 @@ Onze Minister besluit binnen een termijn van zestien weken na ontvangst van een 
 
 ### Artikel  19  
 
-1.   Artikel 6, eerste lid, geldt niet voor het onder zich hebben van gefokte vogels behorende tot soorten genoemd in [artikel 2 van de Jachtwet](../../../../../../../../wet/jachtwet/BWBR0002155/README.md), voorzover deze op het tijdstip van inwerkingtreding van dit besluit werden gehouden.   
+1.   Artikel 6, eerste lid, geldt niet voor het onder zich hebben van gefokte vogels behorende tot soorten genoemd in artikel 2 van de Jachtwet, voorzover deze op het tijdstip van inwerkingtreding van dit besluit werden gehouden.   
 2.   Artikel 6, eerste lid, geldt niet voor het onder zich hebben van gefokte vogels behorende tot de soorten bedoeld in artikel 1, onder 2, van de Vogelwet 1936, voorzover deze op het tijdstip van inwerkingtreding van dit besluit werden gehouden overeenkomstig artikel 35 van de Vogelwet 1936 of de artikelen 6, eerste lid, onderdeel b, 7, eerste lid, onderdeel a, 23 of 25 van het Vogelbesluit 1994.  
 
 ### Artikel  20  

@@ -4819,7 +4819,7 @@ Master’s signature: ... Date: ...
 
 ####Application
 
-The provisions of this Annex shall apply to all ships, except where expressly provided otherwise in regulations 3, 5, 6, 13, 15, 16, 18, 19, 20, 21, 22 and 23 of this Annex. 
+The provisions of this Annex shall apply to all ships, except where expressly provided otherwise in regulations 3, 5, 6, 13, 15, 16, 18, 19, 20, 21 en 22 of this Annex. 
 
 ### Regulation  2  
 
@@ -5003,14 +5003,14 @@ CFC-115 Chloropentafluoroethane
 2.  In the case of ships of less than 400 gross tonnage, the Administration may establish appropriate measures in order to ensure that the applicable provisions of chapter 3 are complied with.   
 3.  Surveys of ships as regards the enforcement of the provisions of this Annex shall be carried out by officers of the Administration. 
 
-.1. The Administration may, however, entrust the surveys either to surveyors nominated for the purpose or to organizations recognized by it. Such organizations shall comply with the guidelines adopted by the Organization;<sup> 1) Refer to the Guidelines for the authorization of organizations acting on behalf of the Administration, adopted by the Organization by resolution A.739(18), as may be amended by the Organization, and the Specifications on the survey and certification functions of recognized organizations acting on behalf of the Administration, adopted by the Organization by resolution A.789(19), as may be amended by the Organization. </sup>   
+.1. The Administration may, however, entrust the surveys either to surveyors nominated for the purpose or to organizations recognized by it. Such organizations shall comply with the guidelines adopted by the Organization;  
 
 .2. The survey of marine diesel engines and equipment for compliance with regulation 13 of this Annex shall be conducted in accordance with the revised NO<sub>x</sub> Technical Code 2008;  
 
 .3. When a nominated surveyor or recognized organization determines that the condition of the equipment does not correspond substantially with the particulars of the certificate, they shall ensure that corrective action is taken and shall in due course notify the Administration. If such corrective action is not taken, the certificate shall be withdrawn by the Administration. If the ship is in a port of another Party, the appropriate authorities of the port State shall also be notified immediately. When an officer of the Administration, a nominated surveyor or recognized organization has notified the appropriate authorities of the port State, the Government of the port State concerned shall give such officer, surveyor or organization any necessary assistance to carry out their obligations under this regulation; and  
 
 .4. In every case, the Administration concerned shall fully guarantee the completeness and efficiency of the survey and shall undertake to ensure the necessary arrangements to satisfy this obligation.    
-4. Ships to which chapter 4 applies shall also be subject to the surveys specified below, taking into account Guidelines adopted by the Organization<sup> 3) Refer to Guidelines on Survey and Certification of the Energy Efficiency Design Index. </sup>: 
+4. Ships to which chapter 4 applies shall also be subject to the surveys specified below, taking into account Guidelines adopted by the Organization: 
 
 .1. An initial survey before a new ship is put in service and before the International Energy Efficiency Certificate is issued. The survey shall verify that the ship’s attained EEDI is in accordance with the requirements in chapter 4, and that the SEEMP required by regulation 22 is on board;  
 
@@ -5038,7 +5038,7 @@ International Air Pollution Prevention Certificate
 ###International Energy Efficiency Certificate
 
 4. An International Energy Efficiency Certificate for the ship shall be issued after a survey in accordance with the provisions of regulation 5.4 to any ship of 400 gross tonnage and above before that ship may engage in voyages to ports or offshore terminals under the jurisdiction of other Parties.
-5. The certificate shall be issued or endorsed either by the Administration or any organization duly authorized by it<sup> 4) Refer to the Guidelines for the authorization of organizations acting on behalf of the Administration, adopted by the Organization by resolution A.739(18), as may be amended by the Organization, and the Specifications on the survey and certification functions of recognized organizations acting on behalf of the Administration, adopted by the Organization by resolution A.789(19), as may be amended by the Organization. </sup>. In every case, the Administration assumes full responsibility for the certificate.
+5. The certificate shall be issued or endorsed either by the Administration or any organization duly authorized by it. In every case, the Administration assumes full responsibility for the certificate.
 
 ### Regulation  7  
 
@@ -5144,7 +5144,7 @@ International Air Pollution Prevention Certificate
 
 .2 in the case of ships constructed before 1 January 2020, which have a contractual delivery date of the equipment to the ship on or after 1 January 2020 or, in the absence of a contractual delivery date, the actual delivery of the equipment to the ship on or after 1 January 2020.     
 4.  The substances referred to in this regulation, and equipment containing such substances, shall be delivered to appropriate reception facilities when removed from ships.   
-5.  Each ship subject to regulation 6.1 shall maintain a list of equipment containing ozone depleting substances.<sup> 2) See Appendix I, Supplement to International Air Pollution Prevention Certificate (IAPP Certificate), section 2.1. </sup>    
+5.  Each ship subject to regulation 6.1 shall maintain a list of equipment containing ozone depleting substances.    
 6.  Each ship subject to regulation 6.1 which has rechargeable systems that contain ozone depleting substances shall maintain an Ozone Depleting Substances Record Book. This Record Book may form part of an existing log-book or electronic recording system as approved by the Administration.   
 7.  Entries in the Ozone Depleting Substances Record Book shall be recorded in terms of mass (kg) of substance and shall be completed without delay on each occasion, in respect of the following: 
 
@@ -5261,7 +5261,7 @@ International Air Pollution Prevention Certificate
 
 .1. by the designer of the base marine diesel engine to which the Approved Method applies that the calculated effect of the Approved Method will not decrease engine rating by more than 1.0%, increase fuel consumption by more than 2.0% as measured according to the appropriate test cycle set forth in the revised NO<sub>x</sub> Technical Code 2008, or adversely affect engine durability or reliability; and  
 
-.2. that the cost of the Approved Method is not excessive, which is determined by a comparison of the amount of NO<sub>x</sub> reduced by the Approved Method to achieve the standard set forth in subparagraph 7.4 of this paragraph and the cost of purchasing and installing such Approved Method.<sup> 3) The cost of an Approved Method shall not exceed 375 Special Drawing Rights/metric ton NO<sub>x</sub> calculated in accordance with the Cost-Effectiveness formula below: Ce= Cost of Approved Method <sup>.</sup> 10<sup>6</sup>/P(kW)<sup>.</sup>0.768<sup>.</sup> 6000(hours/year)<sup>.</sup> 5 (years)<sup>.</sup>?NOx(g/kWh)</sup>     
+.2. that the cost of the Approved Method is not excessive, which is determined by a comparison of the amount of NO<sub>x</sub> reduced by the Approved Method to achieve the standard set forth in subparagraph 7.4 of this paragraph and the cost of purchasing and installing such Approved Method.    
 ###Certification
 
 8.  The revised NO<sub>x</sub> Technical Code 2008 shall be applied in the certification, testing, and measurement procedures for the standards set forth in this regulation.   
@@ -5283,7 +5283,7 @@ International Air Pollution Prevention Certificate
 .2. 3.50% m/m on and after 1 January 2012; and  
 
 .3. 0.50% m/m on and after 1 January 2020.     
-2.  The worldwide average sulphur content of residual fuel oil supplied for use on board ships shall be monitored taking into account guidelines developed by the Organization.<sup> 4) MEPC.82(43), “Guidelines for Monitoring the World-wide Average Sulphur Content of Residual Fuel Oils Supplied for Use On Board Ships”. </sup>   
+2.  The worldwide average sulphur content of residual fuel oil supplied for use on board ships shall be monitored taking into account guidelines developed by the Organization.   
 ###Requirements within Emission Control Areas
 
 3.  For the purpose of this regulation, emission control areas shall include: 
@@ -5306,7 +5306,7 @@ International Air Pollution Prevention Certificate
 .4.Prior to 1 January 2020, the sulphur content of fuel oil referred to in paragraph 4 of this regulation shall not apply to ships operating in the North American area or the United States Caribbean Sea area defined in paragraph 3, built on or before 1 August 2011 that are powered by propulsion boilers that were not originally designed for continued operation on marine distillate fuel or natural gas.   
 5.  The sulphur content of fuel oil referred to in paragraph 1 and paragraph 4 of this regulation shall be documented by its supplier as required by regulation 18 of this Annex.   
 6.  Those ships using separate fuel oils to comply with paragraph 4 of this regulation and entering or leaving an Emission Control Area set forth in paragraph 3 of this regulation shall carry a written procedure showing how the fuel oil change-over is to be done, allowing sufficient time for the fuel oil service system to be fully flushed of all fuel oils exceeding the applicable sulphur content specified in paragraph 4 of this regulation prior to entry into an Emission Control Area. The volume of low sulphur fuel oils in each tank as well as the date, time, and position of the ship when any fuel-oil-change-over operation is completed prior to the entry into an Emission Control Area or commenced after exit from such an area, shall be recorded in such log-book as prescribed by the Administration.   
-7.  During the first twelve months immediately following entry into force of an amendment designating a specific emission control area under paragraph 3 of this regulation, ships operating in that emission control area are exempt from the requirements in paragraphs 4 and 6 of this regulation and from the requirements of paragraph 5 of this regulation insofar as they relate to paragraph 4 of this regulation<sup> 1) The 12 month exemption provided by paragraph 7 will apply for the North American emission control area until 1 August 2012. The 12 month exemption provided by paragraph 7 will apply for the United States Caribbean Sea emission control area until 1 January 2014. </sup>.  
+7.  During the first twelve months immediately following entry into force of an amendment designating a specific emission control area under paragraph 3 of this regulation, ships operating in that emission control area are exempt from the requirements in paragraphs 4 and 6 of this regulation and from the requirements of paragraph 5 of this regulation insofar as they relate to paragraph 4 of this regulation.  
 ###Review Provision
 
 8.  A review of the standard set forth in subparagraph 1.3 of this regulation shall be completed by 2018 to determine the availability of fuel oil to comply with the fuel oil standard set forth in that paragraph and shall take into account the following elements: 
@@ -5327,7 +5327,7 @@ International Air Pollution Prevention Certificate
 2.  A Party regulating tankers for VOC emissions shall submit a notification to the Organization. This notification shall include information on the size of tankers to be controlled, the cargoes requiring vapour emission control systems, and the effective date of such control. The notification shall be submitted at least six months before the effective date.   
 3.  A Party which designates ports or terminals at which VOCs emissions from tankers are to be regulated shall ensure that vapour emission control systems, approved by that Party taking into account the safety standards for such systems developed by the Organization<sup> 5) MSC/Circ.585, Standards for vapour emission control systems. </sup> , are provided in any designated port and terminal and are operated safely and in a manner so as to avoid undue delay to a ship.   
 4.  The Organization shall circulate a list of the ports and terminals designated by Parties to other Parties and Member States of the Organization for their information.   
-5.  A tanker to which paragraph 1 of this regulation applies shall be provided with a vapour emission collection system approved by the Administration taking into account the safety standards for such systems developed by the Organization<sup> 5) MSC/Circ.585, Standards for vapour emission control systems. </sup>, and shall use this system during the loading of relevant cargoes. A port or terminal which has installed vapour emission control systems in accordance with this regulation may accept tankers which are not fitted with vapour collection systems for a period of three years after the effective date identified in paragraph 2 of this regulation.   
+5.  A tanker to which paragraph 1 of this regulation applies shall be provided with a vapour emission collection system approved by the Administration taking into account the safety standards for such systems developed by the Organization, and shall use this system during the loading of relevant cargoes. A port or terminal which has installed vapour emission control systems in accordance with this regulation may accept tankers which are not fitted with vapour collection systems for a period of three years after the effective date identified in paragraph 2 of this regulation.   
 6.  A tanker carrying crude oil shall have on board and implement a VOC Management Plan approved by the Administration. Such a plan shall be prepared taking into account the guidelines developed by the Organization. The plan shall be specific to each ship and shall at least: 
 
 .1. provide written procedures for minimizing VOC emissions during the loading, sea passage and discharge of cargo;  
@@ -5337,7 +5337,7 @@ International Air Pollution Prevention Certificate
 .3. identify a person responsible for implementing the plan; and  
 
 .4. for ships on international voyages, be written in the working language of the master and officers and, if the working language of the master and officers is not English, French, or Spanish, include a translation into one of these languages.     
-7.  This regulation shall also apply to gas carriers only if the type of loading and containment systems allow safe retention of non-methane VOCs on board or their safe return ashore.<sup> 6) MSC.30(61), “International Code for the Construction and Equipment of Ships Carrying Liquefied Gases in Bulk”, chapter 5. </sup>   
+7.  This regulation shall also apply to gas carriers only if the type of loading and containment systems allow safe retention of non-methane VOCs on board or their safe return ashore.  
 
 ### Regulation  16  
 
@@ -5357,14 +5357,14 @@ International Air Pollution Prevention Certificate
 .5. sewage sludge and sludge oil either of which are not generated on board the ship; and  
 
 .6. exhaust gas cleaning system residues.     
-3.  Shipboard incineration of polyvinyl chlorides (PVCs) shall be prohibited, except in shipboard incinerator for which an IMO Type Approval Certificates<sup> 7) Type Approval Certificates issued in accordance with resolution MEPC.59(33) or MEPC.76(40). </sup> has been issued.   
+3.  Shipboard incineration of polyvinyl chlorides (PVCs) shall be prohibited, except in shipboard incinerator for which an IMO Type Approval Certificates has been issued.   
 4.  Shipboard incineration of sewage sludge and sludge oil generated during normal operation of a ship may also take place in the main or auxiliary power plant or boilers, but in those cases, shall not take place inside ports, harbours and estuaries.   
 5.  Nothing in this regulation neither: 
 
 .1. affects the prohibition in, or other requirements of, the Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter, 1972, as amended, and the 1996 Protocol thereto, nor  
 
 .2. precludes the development, installation and operation of alternative design shipboard thermal waste treatment devices that meet or exceed the requirements of this regulation.     
-6.1.  Except as provided in subparagraph 6.2 of this paragraph, each incinerator on a ship constructed on or after 1 January 2000 or incinerator which is installed on board a ship on or after 1 January 2000 shall meet the requirements contained in appendix IV to this Annex. Each incinerator subject to this subparagraph shall be approved by the Administration taking into account the standard specification for shipboard incinerators developed by the Organization<sup> 8) Refer to resolution MEPC.76(40), Standard specification for shipboard incinerators. </sup> ; or   
+6.1.  Except as provided in subparagraph 6.2 of this paragraph, each incinerator on a ship constructed on or after 1 January 2000 or incinerator which is installed on board a ship on or after 1 January 2000 shall meet the requirements contained in appendix IV to this Annex. Each incinerator subject to this subparagraph shall be approved by the Administration taking into account the standard specification for shipboard incinerators developed by the Organization; or   
 6.2.  The Administration may allow exclusion from the application of subparagraph 6.1 of this paragraph to any incinerator which is installed on board a ship before 19 May 2005, provided that the ship is solely engaged in voyages within waters subject to the sovereignty or jurisdiction of the State the flag of which the ship is entitled to fly.   
 7.  Incinerators installed in accordance with the requirements of paragraph 6.1 of this regulation shall be provided with a manufacturer’s operating manual which is to be retained with the unit and which shall specify how to operate the incinerator within the limits described in paragraph 2 of appendix IV of this Annex.   
 8.  Personnel responsible for the operation of an incinerator installed in accordance with the requirements of paragraph 6.1 of this regulation shall be trained to implement the guidance provided in the manufacturer’s operating manual as required by paragraph 7 of this regulation.   
@@ -5411,7 +5411,7 @@ International Air Pollution Prevention Certificate
 
 3.  Fuel oil for combustion purposes delivered to and used on board ships to which this Annex applies shall meet the following requirements: 
 
-.1. except as provided in subparagraph 3.2: 
+.1. except as provided in subparagraph 3.2 of this regulation: 
 
 .1.1. the fuel oil shall be blends of hydrocarbons derived from petroleum refining. This shall not preclude the incorporation of small amounts of additives intended to improve some aspects of performance;  
 
@@ -5433,17 +5433,17 @@ International Air Pollution Prevention Certificate
 
 .2.3. contain inorganic acid; or  
 
-.2.4.1. jeopardize the safety of ships or adversely affect the performance of the machinery, or  
+.2.3.1. jeopardize the safety of ships or adversely affect the performance of the machinery, or  
 
-.2.4.2. be harmful to personnel, or  
+.2.3.2. be harmful to personnel, or  
 
-.2.4.3. contribute overall to additional air pollution.       
+.2.3.3. contribute overall to additional air pollution.       
 4.  This regulation does not apply to coal in its solid form or nuclear fuels. Paragraphs 5, 6, 7.1, 7.2, 8.1, 8.2, 9.2, 9.3, and 9.4 of this regulation do not apply to gas fuels such as Liquified Natural Gas, Compressed Natural Gas or Liquified Petroleum Gas. The sulphur content of gas fuels delivered to a ship specifically for combustion purposes on board that ship shall be documented by the supplier.   
 5.  For each ship subject to regulations 5 and 6 of this Annex, details of fuel oil for combustion purposes delivered to and used on board shall be recorded by means of a bunker delivery note which shall contain at least the information specified in appendix V to this Annex.   
 6.  The bunker delivery note shall be kept on board the ship in such a place as to be readily available for inspection at all reasonable times. It shall be retained for a period of three years after the fuel oil has been delivered onboard.   
 7.1.  The competent authority of a Party may inspect the bunker delivery notes on board any ship to which this Annex applies while the ship is in its port or offshore terminal, may make a copy of each delivery note, and may require the master or person in charge of the ship to certify that each copy is a true copy of such bunker delivery note. The competent authority may also verify the contents of each note through consultations with the port where the note was issued.   
 7.2.  The inspection of the bunker delivery notes and the taking of certified copies by the competent authority under this paragraph shall be performed as expeditiously as possible without causing the ship to be unduly delayed.   
-8.1.  The bunker delivery note shall be accompanied by a representative sample of the fuel oil delivered taking into account guidelines developed by the Organization.<sup> 9) Refer to MEPC.96(47), “Guidelines for the Sampling of Fuel Oil for Determination of Compliance with Annex VI of MARPOL 73/78”. </sup> The sample is to be sealed and signed by the supplier’s representative and the master or officer in charge of the bunker operation on completion of bunkering operations and retained under the ship’s control until the fuel oil is substantially consumed, but in any case for a period of not less than 12 months from the time of delivery.   
+8.1.  The bunker delivery note shall be accompanied by a representative sample of the fuel oil delivered taking into account guidelines developed by the Organization. The sample is to be sealed and signed by the supplier’s representative and the master or officer in charge of the bunker operation on completion of bunkering operations and retained under the ship’s control until the fuel oil is substantially consumed, but in any case for a period of not less than 12 months from the time of delivery.   
 8.2.  If an Administration requires the representative sample to be analysed, it shall be done in accordance with the verification procedure set forth in appendix VI to determine whether the fuel oil meets the requirements of this Annex.   
 9.  Parties undertake to ensure that appropriate authorities designated by them: 
 
@@ -5500,8 +5500,8 @@ International Air Pollution Prevention Certificate
 
 .2. each new ship which has undergone a major conversion; and  
 
-.3. each new or existing ship which has undergone a major conversion, that is so extensive that the ship is regarded by the Administration as a newly constructed ship   which falls into one or more of the categories in regulations 2.25 to 2.35. The attained EEDI shall be specific to each ship and shall indicate the estimated performance of the ship in terms of energy efficiency, and be accompanied by the EEDI technical file that contains the information necessary for the calculation of the attained EEDI and that shows the process of calculation. The attained EEDI shall be verified, based on the EEDI technical file, either by the Administration or by any organization<sup> 5) Refer to the Guidelines for the authorization of organizations acting on behalf of the Administration, adopted by the Organization by resolution A.739(18), as may be amended by the Organization, and the Specifications on the survey and certification functions of recognized organizations acting on behalf of the Administration, adopted by the Organization by resolution A.789(19), as may be amended by the Organization. </sup> duly authorized by it.  
-2.  The attained EEDI shall be calculated taking into account guidelines<sup> 6) Guidelines on the method of calculation of the Energy Efficiency Design Index for new ships. </sup> developed by the Organization.  
+.3. each new or existing ship which has undergone a major conversion, that is so extensive that the ship is regarded by the Administration as a newly constructed ship   which falls into one or more of the categories in regulations 2.25 to 2.35. The attained EEDI shall be specific to each ship and shall indicate the estimated performance of the ship in terms of energy efficiency, and be accompanied by the EEDI technical file that contains the information necessary for the calculation of the attained EEDI and that shows the process of calculation. The attained EEDI shall be verified, based on the EEDI technical file, either by the Administration or by any organization duly authorized by it.  
+2.  The attained EEDI shall be calculated taking into account guidelines developed by the Organization.  
 
 ### Regulation  21  
 
@@ -6478,12 +6478,12 @@ INTERNATIONAL ENERGY EFFICIENCY CERTIFICATE Issued under the provisions of the P
 | by  | ......  |
 | --- | (Full designation of the competent person or organization authorized under the provisions of the Convention)  |
 
-|  *Particulars of ship<sup> 7)  Alternatively, the particulars of the ship may be placed horizontally in boxes.  </sup> *   | Name of ship  | ......  |
+|  *Particulars of ship *   | Name of ship  | ......  |
 |:---|:---|:---|
 | Distinctive number or letters  | ......  |
 | Port of registry  | ......  |
 | Gross tonnage  | ......  |
-| IMO Number<sup> 8)  In accordance with IMO ship identification number scheme, adopted by the Organization by resolution A.600(15).  </sup>   | ......  |
+| IMO Number   | ......  |
 
 THIS IS TO CERTIFY: 
 
@@ -11675,7 +11675,7 @@ Handtekening van de kapitein: ........ Datum: ........
 
 ####Toepassing
 
-De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdrukkelijk anders is bepaald in de voorschriften 3, 5, 6, 13, 15, 16, 18, 19, 20, 21, 22 en 23 van deze Bijlage. 
+De bepalingen van deze Bijlage zijn van toepassing op alle schepen, tenzij uitdrukkelijk anders is bepaald in de voorschriften 3, 5, 6, 13, 15, 16, 18, 19, 20, 21 en 22 van deze Bijlage. 
 
 ### Voorschrift  2  
 
@@ -11859,14 +11859,14 @@ CFK-115 chloorpentafluorethaan
 2.   In het geval van schepen met een brutotonnage van minder dan 400, kan de Administratie passende maatregelen vaststellen teneinde te waarborgen dat aan de van toepassing zijnde bepalingen van Hoofdstuk 3 wordt voldaan.  
 3.  Onderzoeken van schepen aangaande de handhaving van de bepalingen van deze Bijlage worden uitgevoerd door ambtenaren van de Administratie. 
 
-.1. De Administratie kan de onderzoeken evenwel toevertrouwen hetzij aan daartoe benoemde inspecteurs, hetzij aan door haar erkende organisaties. Deze organisaties dienen te voldoen aan de door de Organisatie aangenomen richtlijnen<sup> 1) Zie de Richtlijnen voor de bevoegdverklaring van organisaties die optreden namens de Administratie, aangenomen door de Organisatie bij resolutie A.739.(18), eventueel als gewijzigd door de Organisatie en de specificaties inzake de onderzoeks- en de certificeringsfuncties van erkende organisaties die optreden namens de Administratie, aangenomen door de Organisatie bij resolutie A.789(19), eventueel als gewijzigd door de Organisatie. </sup> .  
+.1. De Administratie kan de onderzoeken evenwel toevertrouwen hetzij aan daartoe benoemde inspecteurs, hetzij aan door haar erkende organisaties. Deze organisaties dienen te voldoen aan de door de Organisatie aangenomen richtlijnen.  
 
 .2. Het onderzoek van de scheepsdieselmotoren en uitrusting ten behoeve van naleving van voorschrift 13 van deze Bijlage wordt uitgevoerd in overeenstemming met de herziene NO<sub>x</sub> Technische Code 2008;  
 
 .3. Wanneer een aangewezen inspecteur of een erkende organisatie vaststelt dat de toestand van de uitrusting in belangrijke mate afwijkt van de gegevens vermeld op het certificaat, dient deze te verzekeren dat hierin verbetering wordt gebracht en te zijner tijd de Administratie in te lichten. Indien dergelijke verbeteringen niet worden aangebracht, wordt het certificaat door de Administratie ingetrokken. Indien het schip in een haven van een andere Partij ligt, dienen ook de bevoegde autoriteiten van de havenstaat onverwijld te worden ingelicht. Wanneer een ambtenaar van de Administratie, een aangewezen inspecteur of een erkende organisatie de bevoegde autoriteiten van de havenstaat heeft ingelicht, dient de Regering van die havenstaat deze ambtenaar, inspecteur of organisatie alle nodige hulp te verlenen om hun verplichtingen ingevolge dit voorschrift te vervullen; en  
 
 .4. In alle gevallen staat de betrokken Administratie volledig garant voor de volledigheid en doeltreffendheid van het onderzoek en dient zij te waarborgen dat de nodige maatregelen worden getroffen om aan deze verplichting te voldoen.    
-4.  Schepen waarop Hoofdstuk 4 van toepassing is worden tevens onderworpen aan de onderstaande onderzoeken, rekening houdend met de door de Organisatie aangenomen richtsnoeren<sup> 1) Zie de Richtsnoeren voor onderzoek en certificering van de ontwerpindex voor energie-efficiëntie. </sup>: 
+4.  Schepen waarop Hoofdstuk 4 van toepassing is worden tevens onderworpen aan de onderstaande onderzoeken, rekening houdend met de door de Organisatie aangenomen richtsnoeren: 
 
 .1. Een eerste onderzoek voordat een nieuw schip in dienst wordt gesteld en voordat het Internationaal certificaat betreffende energie-efficiëntie wordt afgegeven. Bij dit onderzoek wordt geverifieerd of de bereikte EEDI van het schip in overeenstemming is met de vereisten van Hoofdstuk 4 en dat het ingevolge voorschrift 22 vereiste SEEMP aan boord is;  
 
@@ -11894,7 +11894,7 @@ CFK-115 chloorpentafluorethaan
 ###Internationaal certificaat betreffende energie-efficiëntie
 
 4.   Een Internationaal certificaat betreffende energie-efficiëntie voor het schip wordt na een onderzoek in overeenstemming met de bepalingen van voorschrift 5.4 afgegeven aan elk schip met een brutotonnage van 400 of meer voordat dit schip reizen mag maken naar havens of laad- of losplaatsen buitengaats onder de rechtsmacht van andere partijen.   
-5.  Het certificaat wordt afgegeven of goedgekeurd hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde organisatie.<sup> 2) Zie de Richtsnoeren voor de bevoegdverklaring van organisaties die optreden namens de Administratie, aangenomen door de Organisatie bij resolutie A.739.(18), eventueel als gewijzigd door de Organisatie en de specificaties inzake de onderzoeks- en de certificeringsfuncties van erkende organisaties die optreden namens de Administratie, aangenomen door de Organisatie bij resolutie A.789(19), eventueel als gewijzigd door de Organisatie. </sup> In alle gevallen neemt de Administratie de volle verantwoordelijkheid voor het certificaat op zich. 
+5.  Het certificaat wordt afgegeven of goedgekeurd hetzij door de Administratie, hetzij door een daartoe door haar naar behoren gemachtigde organisatie. In alle gevallen neemt de Administratie de volle verantwoordelijkheid voor het certificaat op zich. 
 
 ### Voorschrift  7  
 
@@ -12000,7 +12000,7 @@ CFK-115 chloorpentafluorethaan
 
 .2. in het geval van schepen gebouwd vóór 1 januari 2020 met een contractueel overeengekomen datum voor de levering van uitrusting voor het schip op of na 1 januari 2020 of, bij het ontbreken van een contractueel overeengekomen leveringsdatum, de feitelijke levering van de uitrusting voor het schip op of na 1 januari 2020.     
 4.  De stoffen bedoeld in dit voorschrift en uitrusting die deze stoffen bevat, dienen te worden ingeleverd bij de desbetreffende ontvangstvoorzieningen wanneer zij worden verwijderd van schepen.   
-5.  Elk schip waarop voorschrift 6.1 van toepassing is houdt een lijst bij van uitrusting die ozonafbrekende stoffen bevat.<sup> 2) Zie Aanhangsel I, Aanvulling op het Internationaal certificaat betreffende voorkoming van luchtverontreiniging (IAPP-certificaat), punt 2.1 </sup>    
+5.  Elk schip waarop voorschrift 6.1 van toepassing is houdt een lijst bij van uitrusting die ozonafbrekende stoffen bevat.   
 6.  Elk schip waarop voorschrift 6.1 van toepassing is dat navulbare systemen met ozonafbrekende stoffen bevat houdt een journaal bij van ozonafbrekende stoffen. Dit journaal kan deel uitmaken van een bestaand logboek of van een door de Administratie goedgekeurd elektronisch registratiesysteem.   
 7.  Vermeldingen in het journaal van ozonafbrekende stoffen gaan vergezeld van het gewicht (in kg) van de stof en worden bij elke gelegenheid onverwijld geactualiseerd in het geval van: 
 
@@ -12117,7 +12117,7 @@ CFK-115 chloorpentafluorethaan
 
 .1. door de ontwerper van de oorspronkelijke scheepsdieselmotor waarop de goedgekeurde methode van toepassing is dat de goedgekeurde methode er volgens berekeningen niet toe zal leiden dat het toerental van de motor met meer dan 1% afneemt, het brandstofgebruik met meer dan 2% toeneemt als gemeten bij de desbetreffende testcyclus vervat in de herziene NO<sub>x</sub> Technische Code 2008 of dat de duurzaamheid of betrouwbaarheid van de motor nadelig wordt beïnvloed; en  
 
-.2. dat de kosten van de goedgekeurde methode niet buitensporig zijn, hetgeen wordt bepaald door een vergelijking met de hoeveelheid NO<sub>x</sub>-emissie die verminderd wordt door de goedgekeurde methode om te voldoen aan de norm vervat in lid 7.4 van dit lid en de kosten van de aanschaf en het installeren van deze goedgkeurde methode.<sup> 3) De kosten van een goedgekeurde methode mogen niet meer bedragen dan 375 Bijzondere Trekkingsrechten / metrieke ton No<sub>x</sub> hetgeen berekend wordt volgens de volgende rendement formule: [ Afbeelding niet beschikbaar ]  </sup>     
+.2. dat de kosten van de goedgekeurde methode niet buitensporig zijn, hetgeen wordt bepaald door een vergelijking met de hoeveelheid NO<sub>x</sub>-emissie die verminderd wordt door de goedgekeurde methode om te voldoen aan de norm vervat in lid 7.4 van dit lid en de kosten van de aanschaf en het installeren van deze goedgkeurde methode.     
 ###Certificatie
 
 8.  De herziene NO<sub>x</sub> Technische Code 2008 wordt ten behoeve van de normen vervat in dit voorschrift toegepast bij de certificerings-, test- en meetprocedures.   
@@ -12139,7 +12139,7 @@ CFK-115 chloorpentafluorethaan
 .2. 3,5% m/m op of na 1 januari 2012; en  
 
 .3. 0,5% m/m op of na 1 januari 2020.     
-2.  Het mondiale gemiddelde zwavelgehalte van brandstofolieresiduen geleverd voor gebruik aan boord van schepen dient te worden bewaakt, rekening houdend met door de Organisatie te ontwikkelen richtlijnen.<sup> 4) MEPC.82(43) „Richtsnoeren voor monitoring van het mondiale gemiddelde zwavelgehalte van residuale brandstofolie geleverd voor gebruik aan boord van schepen”. </sup>   
+2.  Het mondiale gemiddelde zwavelgehalte van brandstofolieresiduen geleverd voor gebruik aan boord van schepen dient te worden bewaakt, rekening houdend met door de Organisatie te ontwikkelen richtlijnen.  
 ###Vereisten binnen de gebieden voor emissiebeheersing
 
 3.  Voor de toepassing van dit voorschrift omvatten de gebieden voor emissiebeheersing: 
@@ -12183,7 +12183,7 @@ CFK-115 chloorpentafluorethaan
 2.  Een partij die de emissie van VOS door tankschepen reguleert dient een kennisgeving in bij de Organisatie. Deze kennisgeving bevat informatie inzake de afmetingen van de te reguleren tankschepen, inzake vrachten waarvoor dampemissiebeheersingssystemen vereist zijn, en de datum waarop dit vereiste in werking treedt. De kennisgeving wordt ten minste zes maanden voor de datum van inwerkingtreding ingediend.   
 3.  Een partij die havens of laad- en losplaatsen aanwijst waarin VOS-emissies van tankschepen dienen te worden gereguleerd waarborgt dat door die Partij goedgekeurde dampemissiebeheersingssystemen, overeenkomstig de door de Organisatie opgestelde veiligheidsnormen<sup> 5) MSC/Circ.585, normen voor dampemissiebeheersingssystemen. </sup> , beschikbaar worden gesteld in de aangewezen havens en laad- en losplaatsen, en veilig worden gebruikt en op een wijze waardoor onnodig oponthoud van schepen wordt voorkomen.   
 4.  De Organisatie doet ter kennisgeving een lijst van door Partijen aangewezen havens en laad- en losplaatsen toekomen aan andere Partijen en lidstaten van de Organisatie.   
-5.  Een tankschip waarop het eerste lid van dit voorschrift van toepassing is wordt aangesloten op een door de Administratie overeenkomstig de door de Organisatie opgestelde veiligheidsnormen<sup> 5) MSC/Circ.585, normen voor dampemissiebeheersingssystemen. </sup> voor dergelijke systemen goedgekeurd dampemissiebeheersingsysteem en gebruikt dit systeem tijdens het laden van daarvoor in aanmerking komende ladingen. Een haven of laad- of losplaatsen waar dampemissiebeheersingssystemen zijn geïnstalleerd in overeenstemming met dit voorschrift kunnen gedurende een tijdvak van drie jaar na de in het tweede lid van dit voorschrift genoemde datum van inwerkingtreding bestaande tankschepen toelaten die niet zijn voorzien van dampopvangsystemen.   
+5.  Een tankschip waarop het eerste lid van dit voorschrift van toepassing is wordt aangesloten op een door de Administratie overeenkomstig de door de Organisatie opgestelde veiligheidsnormen voor dergelijke systemen goedgekeurd dampemissiebeheersingsysteem en gebruikt dit systeem tijdens het laden van daarvoor in aanmerking komende ladingen. Een haven of laad- of losplaatsen waar dampemissiebeheersingssystemen zijn geïnstalleerd in overeenstemming met dit voorschrift kunnen gedurende een tijdvak van drie jaar na de in het tweede lid van dit voorschrift genoemde datum van inwerkingtreding bestaande tankschepen toelaten die niet zijn voorzien van dampopvangsystemen.   
 6.  Aan boord van tankschepen die ruwe olie vervoeren dient een door de Administratie goedgekeurd VOS-managementplan aanwezig te zijn en geïmplementeerd te worden. Deze plannen worden opgesteld aan de hand van de door de Organisatie opgestelde richtlijnen. Het plan dient toegesneden te zijn op het schip en ten minste: 
 
 .1. schriftelijke procedures te bevatten voor het minimaliseren van VOS-emissies tijdens het laden en lossen van de vracht en tijdens de zeereis;  
@@ -12193,7 +12193,7 @@ CFK-115 chloorpentafluorethaan
 .3. te vermelden wie verantwoordelijk is voor de implementatie van het plan; en  
 
 .4. voor schepen op internationale reizen opgesteld te zijn in de werktaal van de kapitein en officieren en indien deze niet het Engels, Frans of Spaans is, een vertaling te omvatten in een van deze talen.     
-7.  Dit voorschrift is alleen mede van toepassing op gasschepen wanneer het type laad-, en opslagsystemen voor de veilige opslag aan boord of het veilig terugbrengen aan land van VOS (met uitzondering van methaan) mogelijk maakt<sup> 6) MSC.30(61), Internationale Code voor de bouw en uitrusting van schepen die vloeibaar gas in bulk vervoeren, hoofdstuk 5. </sup> .<sup></sup>   
+7.  Dit voorschrift is alleen mede van toepassing op gasschepen wanneer het type laad-, en opslagsystemen voor de veilige opslag aan boord of het veilig terugbrengen aan land van VOS (met uitzondering van methaan) mogelijk maakt.   
 
 ### Voorschrift  16  
 
@@ -12213,14 +12213,14 @@ CFK-115 chloorpentafluorethaan
 .5. zuiveringsslib en oliehoudend slik die niet aan boord van het schip zijn ontstaan; en  
 
 .6. residuen van uitlaatgasreinigingssystemen.     
-3.  Verbranding aan boord van polyvinylchloriden (PVC’s) is verboden behalve in verbrandingsinstallaties aan boord waarvoor typegoedkeuringscertificaten<sup> 7) Typegoedkeuringscertificaten afgegeven in overeenstemming met resolutie MEPC.59(33) of MEPC.76(40). </sup> van de IMO zijn afgegeven.   
+3.  Verbranding aan boord van polyvinylchloriden (PVC’s) is verboden behalve in verbrandingsinstallaties aan boord waarvoor typegoedkeuringscertificaten van de IMO zijn afgegeven.   
 4.  Verbranding aan boord van zuiveringsslib en oliehoudend slik ontstaan tijdens de normale bedrijfsvoering van een schip kan ook plaatsvinden in de hoofd- of hulpmotoren of ketels, maar is in die gevallen niet toegestaan binnen havens, havenbekkens en estuaria.   
 5.  Niets in dit voorschrift: 
 
 .1. doet afbreuk aan het verbod in of andere vereisten van het Verdrag inzake de voorkoming van verontreiniging van de zee ten gevolge van het storten van afval en andere stoffen, 1972, zoals gewijzigd, en het Protocol van 1996 daarbij, noch  
 
 .2. vormt het een beletsel voor het ontwikkelen, installeren en gebruiken van alternatieve thermische afvalbehandelingsvoorzieningen aan boord die voldoen aan de vereisten van dit voorschrift of aan strengere vereisten.     
-6.1.  Behalve zoals voorzien in lid 6.2 van dit voorschrift dienen alle verbrandingsinstallaties aan boord van schepen gebouwd op of na 1 januari 2000 en alle verbrandingsinstallaties op of na 1 januari 2000 geïnstalleerd aan boord van schepen te voldoen aan de vereisten vervat in aanhangsel IV bij deze Bijlage. Iedere verbrandingsinstallatie waarop dit lid van toepassing is dient te worden goedgekeurd door de Administratie, rekening houdend met de door de Organisatie ontwikkelde standaardspecificaties voor verbrandingsinstallaties aan boord<sup> 8) Zie resolutie MEPC.76(40), standaardspecificaties voor verbrandingsinstallaties aan boord. </sup> ; of   
+6.1.  Behalve zoals voorzien in lid 6.2 van dit voorschrift dienen alle verbrandingsinstallaties aan boord van schepen gebouwd op of na 1 januari 2000 en alle verbrandingsinstallaties op of na 1 januari 2000 geïnstalleerd aan boord van schepen te voldoen aan de vereisten vervat in aanhangsel IV bij deze Bijlage. Iedere verbrandingsinstallatie waarop dit lid van toepassing is dient te worden goedgekeurd door de Administratie, rekening houdend met de door de Organisatie ontwikkelde standaardspecificaties voor verbrandingsinstallaties aan boord; of   
 6.2.  De Administratie kan uitsluiting van de toepassing van lid 6.1 toestaan op elke verbrandingsinstallatie die vóór 19 mei 2005 is geïnstalleerd aan boord van een schip, mits het schip uitsluitend reizen maakt binnen de wateren die vallen onder de soevereiniteit of rechtsmacht van de Staat wiens vlag het schip gerechtigd is te voeren.   
 7.  Verbrandingsinstallaties die zijn geïnstalleerd in overeenstemming met de vereisten van lid 6.1 van dit voorschrift dienen te worden geleverd met een bedieningshandleiding van de producent die bij de eenheid bewaard dient te worden. Daarin dient vermeld te zijn hoe de verbrandingsinstallatie binnen de grenzen omschreven in het tweede lid van aanhangsel IV bij deze Bijlage bediend dient te worden.   
 8.  De verantwoordelijken voor de bediening van een in overeenstemming met de vereisten van lid 6.1 van dit voorschrift geïnstalleerde verbrandingsinstallatie dienen te worden getraind in de uitvoering van de instructies uit de bedieningshandleiding van de producent zoals vereist volgens het zevende lid van dit voorschrift.   
@@ -12267,7 +12267,7 @@ CFK-115 chloorpentafluorethaan
 
 3.  Brandstofolie voor verbrandingsdoeleinden geleverd aan en gebruikt aan boord van schepen waarop deze Bijlage van toepassing is, dient te voldoen aan de volgende vereisten: 
 
-.1. behalve zoals voorzien in lid 3.2: 
+.1. behalve zoals voorzien in paragraaf 3.2 van dit voorschrift: 
 
 .1.1. dient de brandstofolie een mengsel te zijn van koolwaterstoffen afkomstig uit de raffinage van aardolie. Dit vormt geen beletsel voor de toevoeging van kleine hoeveelheden additieven ter verbetering van bepaalde aspecten van de prestaties;  
 
@@ -12289,17 +12289,17 @@ CFK-115 chloorpentafluorethaan
 
 .2.3. geen anorganische zuren bevatten; of  
 
-.2.4.1. de veiligheid van schepen niet in gevaar brengen en de prestaties van de machines niet nadelig beïnvloeden, of  
+.2.3.1. de veiligheid van schepen niet in gevaar brengen en de prestaties van de machines niet nadelig beïnvloeden, of  
 
-.2.4.2. niet schadelijk zijn voor personeel, of  
+.2.3.2. niet schadelijk zijn voor personeel, of  
 
-.2.4.3. niet in het algemeen bijdragen aan extra luchtverontreiniging.       
+.2.3.3. niet in het algemeen bijdragen aan extra luchtverontreiniging.       
 4.  Dit voorschrift is niet van toepassing op steenkool in vaste vorm of op nucleaire brandstoffen. De leden 5, 6, 7.1, 7.2, 8.1, 8.2, 9.2, 9.3 en 9.4 van dit voorschrift zijn niet van toepassing op gasvormige brandstoffen als LPG, gecomprimeerd aardgas of vloeibaar gemaakt petroleumgas. Het zwavelgehalte van gasvormige brandstoffen die specifiek voor verbrandingsdoeleinden aan boord van dat schip worden geleverd dient te worden aangetoond door de leverancier.   
 5.  Voor ieder schip dat is onderworpen aan de voorschriften 5 en 6 van deze Bijlage dienen gegevens over voor verbrandingsdoeleinden geleverde en aan boord gebruikte brandstofolie te worden geregistreerd door middel van een bunkerafleveringsbon die ten minste de informatie vermeld in aanhangsel V bij deze Bijlage bevat.   
 6.  De bunkerafleveringsbon dient aan boord te worden gehouden op een plaats die op elk redelijk tijdstip gemakkelijk toegankelijk is voor inspectie. De bon dient te worden bewaard gedurende een tijdvak van drie jaar nadat de brandstofolie aan boord is afgeleverd.   
 7.1.  De bevoegde autoriteit van een Partij kan de bunkerafleveringsbonnen aan boord van elk schip waarop deze Bijlage van toepassing is inspecteren, terwijl het schip in haar haven of laad- of losplaats buitengaats ligt, een afschrift van elke bunkerafleveringsbon maken en verlangen dat de kapitein of de persoon die verantwoordelijk is voor het schip elk afschrift van een dergelijke bunkerafleveringsbon voor eensluidend waarmerkt. De bevoegde autoriteit kan ook de inhoud van iedere bon verifiëren door overleg met de haven waar de bon werd afgegeven.   
 7.2.  De controle van de bunkerafleveringsbonnen en het maken van gewaarmerkte afschriften door de bevoegde autoriteit in overeenstemming met dit lid dienen zo spoedig mogelijk te geschieden zonder onnodig oponthoud voor het schip te veroorzaken.   
-8.1.  De bunkerafleveringsbon gaat vergezeld van een representatief monster van de geleverde brandstofolie rekening houdend met de door de Organisatie opgestelde richtlijnen.<sup> 9) Zie MEPC.96(47), „Richtlijnen voor het testen van brandstofolie om te bepalen of aan Bijlage VI van MARPOL 73/78 wordt voldaan”. </sup> Het monster dient te worden verzegeld en te worden getekend door de vertegenwoordiger van de leverancier en de kapitein of de officier die verantwoordelijk is voor het bunkeren bij de voltooiing van het bunkeren en aan boord van het schip te worden gehouden, totdat de brandstofolie grotendeels is verbruikt, maar in ieder geval gedurende een tijdvak van ten minste twaalf maanden vanaf het tijdstip van levering.   
+8.1.  De bunkerafleveringsbon gaat vergezeld van een representatief monster van de geleverde brandstofolie rekening houdend met de door de Organisatie opgestelde richtlijnen. Het monster dient te worden verzegeld en te worden getekend door de vertegenwoordiger van de leverancier en de kapitein of de officier die verantwoordelijk is voor het bunkeren bij de voltooiing van het bunkeren en aan boord van het schip te worden gehouden, totdat de brandstofolie grotendeels is verbruikt, maar in ieder geval gedurende een tijdvak van ten minste twaalf maanden vanaf het tijdstip van levering.   
 8.2.  Indien een Administratie verlangt dat het representatieve monster wordt geanalyseerd, gebeurt dit in overeenstemming met de verificatieprocedure vervat in aanhangsel VI om te bepalen of de brandstofolie voldoet aan de vereisten van deze Bijlage.   
 9.  Partijen verbinden zich ertoe te waarborgen dat de door hen aangewezen bevoegde autoriteiten: 
 
@@ -12356,8 +12356,8 @@ CFK-115 chloorpentafluorethaan
 
 .2. elk nieuw schip dat een belangrijke wijziging heeft ondergaan; en  
 
-.3. elk nieuw of bestaand schip dat een belangrijke wijziging heeft ondergaan die zo omvangrijk is dat het schip door de Administratie wordt beschouwd als een nieuw gebouwd schip dat onder een of meer van de categorieën van de voorschriften 2.25 tot en met 2.35 valt. De bereikte EEDI dient voor elk afzonderlijk schip te worden berekend en dient te vermelden wat de geschatte prestatie van het schip is in termen van energie-efficiëntie, en dient vergezeld te gaan van het technisch dossier bij de EEDI waarin de informatie staat die nodig is voor het berekenen van de bereikte EEDI alsmede de uitgevoerde berekening zelf. De bereikte EEDI dient te worden geverifieerd, aan de hand van het technisch dossier bij de EEDI, hetzij door de Administratie of hetzij door een door haar naar behoren gemachtigde organisatie<sup> 3) Zie de Richtsnoeren voor de bevoegdverklaring van organisaties die optreden namens de Administratie, aangenomen door de Organisatie bij resolutie A.739.(18), eventueel als gewijzigd door de Organisatie en de specificaties inzake de onderzoeks- en de certificeringsfuncties van erkende organisaties die optreden namens de Administratie, aangenomen door de Organisatie bij resolutie A.789(19), eventueel als gewijzigd door de Organisatie. </sup>.     
-2.  De bereikte EEDI wordt berekend met inachtneming van de door de Organisatie ontwikkelde richtsnoeren<sup> 4) Richtsnoeren inzake de wijze van berekening van de Ontwerpindex voor energie-efficiëntie voor nieuwe schepen. </sup>.  
+.3. elk nieuw of bestaand schip dat een belangrijke wijziging heeft ondergaan die zo omvangrijk is dat het schip door de Administratie wordt beschouwd als een nieuw gebouwd schip dat onder een of meer van de categorieën van de voorschriften 2.25 tot en met 2.35 valt. De bereikte EEDI dient voor elk afzonderlijk schip te worden berekend en dient te vermelden wat de geschatte prestatie van het schip is in termen van energie-efficiëntie, en dient vergezeld te gaan van het technisch dossier bij de EEDI waarin de informatie staat die nodig is voor het berekenen van de bereikte EEDI alsmede de uitgevoerde berekening zelf. De bereikte EEDI dient te worden geverifieerd, aan de hand van het technisch dossier bij de EEDI, hetzij door de Administratie of hetzij door een door haar naar behoren gemachtigde organisatie.     
+2.  De bereikte EEDI wordt berekend met inachtneming van de door de Organisatie ontwikkelde richtsnoeren.  
 
 ### Voorschrift  21  
 
@@ -13335,7 +13335,7 @@ De volgende procedure wordt gebruikt om vast te stellen of de aan boord van sche
 | door ........  |
 | (volledige officiële aanduiding van de bevoegde persoon of organisatie gemachtigd overeenkomstig de bepalingen van het Verdrag)  |
 | --- |
-| Gegevens van het schip<sup>1)</sup>   |
+| Gegevens van het schip  |
 | --- |
 | Naam van het schip ........  |
 | --- |
@@ -13345,7 +13345,7 @@ De volgende procedure wordt gebruikt om vast te stellen of de aan boord van sche
 | --- |
 | Brutotonnage ........  |
 | --- |
-| IMO-nummer<sup>2)</sup> ........  |
+| IMO-nummer ........  |
 | --- |
 | HIERBIJ WORDT VERKLAARD:  |
 | --- | --- |
@@ -13365,7 +13365,6 @@ De volgende procedure wordt gebruikt om vast te stellen of de aan boord van sche
 | (zegel of stempel van de autoriteit, naargelang wat van toepassing is)  |
 | --- |
 
-<sup>1)</sup> De gegevens van het schip kunnen ook horizontaal worden vermeld in de vakjes.<sup>2)</sup> Overeenkomstig het stelsel voor scheepsidentificatienummers van de IMO door de Organisatie aangenomen bij resolutie A.600(15).
 ### Aanhangsel bij het Internationaal certificaat betreffende energie-efficiëntie (IEE-certificaat)
 
 *JOURNAAL VAN BOUW MET BETREKKING TOT ENERGIE-EFFICIËNTIE*   

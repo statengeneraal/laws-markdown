@@ -947,7 +947,7 @@ b.het restant van het voor het kalenderjaar beschikbare netto persoonsgebonden b
 
 2°. voor zover deze betalingen betrekking hebben op kosten die niet hoger zijn dan: 
 
-– hetzij € 63 per uur of € 8 per dagdeel, hetzij een door de Nederlandse Zorgautoriteit op grond van de Wet marktordening gezondheidszorg voor de desbetreffende zorg vastgesteld hoger tarief;  
+– hetzij € 63 per uur of € 58 per dagdeel, hetzij een door de Nederlandse Zorgautoriteit op grond van de Wet marktordening gezondheidszorg voor de desbetreffende zorg vastgesteld hoger tarief;  
 
 – voor zover het bemiddelingskosten betreft, € 250 per jaar indien het verleende bruto persoonsgebonden budget op jaarbasis € 25.000 of minder bedraagt en € 500 per jaar indien het verleende bruto persoonsgebonden budget op jaarbasis meer dan € 25.000 bedraagt, en;   
 
@@ -971,7 +971,22 @@ b.het restant van het voor het kalenderjaar beschikbare netto persoonsgebonden b
 
 ### Artikel  2.6.15  
 
-De Sociale verzekeringsbank heeft tot taak voorbereidingen te treffen voor de goede uitvoering van de wettelijke voorschriften waarvan is voorzien dat deze op 1 januari 2015 van toepassing zijn op het met medewerking van de Sociale verzekeringsbank verstrekken van persoonsgebonden budgetten voor het verkrijgen van langdurige zorg. 
+1. De Sociale verzekeringsbank heeft tot taak voorbereidingen te treffen voor de goede uitvoering van de wettelijke voorschriften waarvan is voorzien dat deze op 1 januari 2015 van toepassing zijn op het met medewerking van de Sociale verzekeringsbank verstrekken van persoonsgebonden budgetten voor het verkrijgen van langdurige zorg.  
+2.  Voor de goede uitvoering van de wettelijke voorschriften waarvan is voorzien dat deze op 1 januari 2015 van toepassing zijn op het persoonsgebonden budget, kunnen het zorgkantoor en de Sociale verzekeringsbank een schriftelijke overeenkomst van de verzekerde met de zorgverlener of zorgverlenende instantie goedkeuren.   
+3.  Door het zorgkantoor kan de goedkeuring slechts worden gegeven, indien: 
+
+a. de overeenkomst ten minste de volgende elementen bevat: 
+
+1°. de wijze waarop de zorgverlener voorziet in de behoefte aan zorg van de verzekerde;  
+
+2°. het beding dat declaraties voor verleende zorg niet worden betaald indien zij niet binnen zes weken na de maand waarin de zorg is verleend bij de verzekerde zijn ingediend,  
+
+3°. de verplichting dat een declaratie van een zorgverlener een overzicht bevat van de dagen waarop is gewerkt, het uurtarief, het aantal te betalen uren, het burgerservicenummer en de naam van de zorgverlener, en door de zorgverlener wordt ondertekend,  
+
+4°. de verplichting dat een declaratie van een zorgverlenende instantie het nummer bevat waarmee die instantie staat ingeschreven bij de Kamer van Koophandel, een overzicht van de dagen waarop is gewerkt, het tarief, het aantal te betalen uren, dagdelen of etmalen, en de naam en het adres van de zorgverlenende instantie, en dat het namens de zorgverlenende instantie wordt ondertekend, en    
+
+b. uit de omschrijving van de wijze waarop de zorgverlener voorziet in de behoefte aan zorg van de verzekerde, blijkt dat de overeenkomst strekt tot de inkoop van persoonlijke verzorging, verpleging, begeleiding, huishoudelijke hulp en vervoer naar een plaats waar de verzekerde gedurende een dagdeel begeleiding of behandeling ontvangt, of tot inkoop van kortdurend verblijf bij een instelling.     
+4.  Door de Sociale verzekeringsbank kan de goedkeuring, bedoeld in het tweede lid, slechts worden onthouden wegens strijd met het recht of het belang van een goede uitvoering van het persoonsgebonden budget door de Sociale verzekeringsbank. 
 
 ### Paragraaf  2.7  
 
