@@ -3,12 +3,17 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 19 februari 2009, nr. IVV/FB/2009/3720, houdende de machtiging van de secretaris van de toetsingscommissie, bedoeld in artikel 73 van de Wet werk en bijstand
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 9, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](../../../../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md);
+Gelet op artikel 9, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009;
 Besluit:    
 
 ### Artikel  1  
 
-De secretaris van de toetsingscommissie, bedoeld in [artikel 73 van de Wet werk en bijstand](../../../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), is gemachtigd tot het stellen van een termijn als bedoeld in [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor de aanvulling van een verzoek als bedoeld in [artikel 74, eerste lid, van de Wet werk en bijstand](../../../../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md). 
+De secretaris van de toetsingscommissie, bedoeld in artikel 73 van de Wet werk en bijstand, is gemachtigd tot het stellen van een termijn als bedoeld in artikel 4:5 van de Algemene wet bestuursrecht, voor de aanvulling van een verzoek als bedoeld in artikel 74, eerste lid, van de Wet werk en bijstand. 
+
+### Artikel  1a  
+Treedt in werking per 01-01-2015 
+
+Deze regeling wordt aangehaald als: Regeling machtiging secretaris toetsingscommissie aanvullende uitkeringen Participatiewet. 
 
 ### Artikel  2  
 

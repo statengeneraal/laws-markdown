@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 8 december 2008, nr. SV/2008/AB&C/35256, houdende de inrichting van de directie Inkomensverzekeringen en -voorzieningen, alsmede doorverlening van vertegenwoordigingsbevoegdheden van de directeur Inkomensverzekeringen en -voorzieningen (Organisatie-, mandaat- en volmachtbesluit Inkomensverzekeringen en -voorzieningen 2009)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 3, eerste lid, onderdeel k](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directeur-generaal/participatie/etc/BWBR0024972/README.md), en [artikel 10 van het Organisatie-, mandaat- en volmachtbesluit directoraat-generaal Participatie en Inkomenswaarborg 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/directeur-generaal/participatie/etc/BWBR0024972/README.md);
+Gelet op de artikelen 3, eerste lid, onderdeel k, en artikel 10 van het Organisatie-, mandaat- en volmachtbesluit directoraat-generaal Participatie en Inkomenswaarborg 2009;
 Besluit:     
 ### §  1  
 
@@ -35,9 +35,9 @@ Het hoofd van de afdeling Leren, zorgen en werken is verantwoordelijk voor:
 
 a. het beleid ten aanzien van de inkomensregelingen ten behoeve van (ouders van) kinderen;  
 
-b. het beleid met betrekking tot rechten en plichten van de [Wajong](../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);  
+b. het beleid met betrekking tot rechten en plichten van de Wajong;  
 
-c. het beleid met betrekking tot rechten en plichten van de [Wet Werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en de [Wet investeren in jongeren](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) gericht op jongeren en ouders van kinderen;  
+c. het beleid met betrekking tot rechten en plichten van de Wet Werk en bijstand en de Wet investeren in jongeren gericht op jongeren en ouders van kinderen;  
 
 d. het beleid ten aanzien van de nabestaandenwetgeving.   
 

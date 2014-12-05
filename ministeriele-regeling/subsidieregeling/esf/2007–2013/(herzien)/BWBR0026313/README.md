@@ -5,7 +5,7 @@
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
 Overwegende dat het noodzakelijk is dat met betrekking tot de besteding van de gelden die voor de periode van 1 januari 2007 tot en met 31 december 2013 uit het Europees Sociaal Fonds aan Nederland worden toegewezen ter verwezenlijking van de doelstelling Regionaal concurrentievermogen en werkgelegenheid, bedoeld in artikel 3, tweede lid, onderdeel b, van verordening (EG) nr. 1083/2006 van de Raad van de Europese Unie van 11 juli 2006 houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds en tot intrekking van Verordening (EG) nr. 1260/1999 (PbEU 2006, L 210), nadere regels worden gesteld in het verlengde van en met inachtneming van die verordening, alsmede verordening (EG) nr. 1081/2006 van het Europees Parlement en de Raad van de Europese Unie van 5 juli 2006 betreffende het Europees Sociaal Fonds en tot intrekking van Verordening (EG) nr. 1784/1999 (PbEU 2006, L 210), en Verordening (EG) nr. 1828/2006 van de Commissie van 8 december 2006 tot vaststelling van uitvoeringbepalingen van Verordening (EG) nr. 1083/2006 van de Raad houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds, en van verordening (EG) nr. 1080/2006 van het Europees Parlement en de Raad betreffende het Europees Fonds voor Regionale ontwikkeling (pbEU 2006, L 371);
 
-Gelet op de [artikelen 3, eerste en vierde lid](../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md), [5](../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md) en [8, eerste lid, van de Kaderwet SZW-subsidies](../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md);
+Gelet op de artikelen 3, eerste en vierde lid, 5 en 8, eerste lid, van de Kaderwet SZW-subsidies;
 Besluit:    
 
 ### Artikel  1  
@@ -16,7 +16,7 @@ In deze regeling wordt verstaan onder:
 
 **Adviseur in de zin van Actie E:* een natuurlijk persoon, niet zijnde een werknemer van de subsidieaanvrager, die in het kader van de uitoefening van zijn beroep of bedrijf als adviseur werkzaam is op het gebied van sociale innovatie in arbeidsorganisaties door middel van gedragsbeïnvloeding of cultuurverandering;
 
-*  *arbeidsbelemmerde:* een persoon die jegens het college van burgemeester en wethouders van zijn woonplaats uitsluitend aanspraak heeft op een uitkering op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) (WWB), naar het oordeel van dat college, gebaseerd op een door een arts of arbeidsdeskundige afgegeven verklaring een structurele functionele beperking heeft en jegens het UWV geen aanspraak heeft op een uitkering, danwel een persoon die naar het oordeel van dat college behoort tot de doelgroep als bedoeld in [artikel 1 sub e van de Tijdelijke wet pilot loondispensatie](../../../../../../wet/tijdelijke/wet/pilot/loondispensatie/BWBR0027707/README.md);  
+*  *arbeidsbelemmerde:* een persoon die jegens het college van burgemeester en wethouders van zijn woonplaats uitsluitend aanspraak heeft op een uitkering op grond van de Wet werk en bijstand (WWB), naar het oordeel van dat college, gebaseerd op een door een arts of arbeidsdeskundige afgegeven verklaring een structurele functionele beperking heeft en jegens het UWV geen aanspraak heeft op een uitkering, danwel een persoon die naar het oordeel van dat college behoort tot de doelgroep als bedoeld in artikel 1 sub e van de Tijdelijke wet pilot loondispensatie;  
 
 *  *begunstigde:* de subsidieaanvrager aan wie krachtens deze regeling subsidie is verleend;  
 
@@ -28,25 +28,25 @@ In deze regeling wordt verstaan onder:
 
 * *coördinerende gemeente Actie Jeugd 1 in 2013–2015:* een coördinerende gemeente voor de aanvraag Actie Jeugd 1 in 2013–2015, is één van de volgende gemeenten: Alkmaar, Almere, Amersfoort, Amsterdam, Apeldoorn, Arnhem, Breda, Den Bosch, Den Haag, Doetinchem, Dordrecht, Ede, Eindhoven, Emmen, Enschede, Goes, Gorinchem, Gouda, Groningen, Haarlem, Heerlen, Helmond, Hilversum, Leeuwarden, Leiden, Nijmegen, Rotterdam, Roermond, Tiel, Tilburg, Utrecht, Venlo, Zaanstad, Zoetermeer, Zwolle;
 
-*  *CREBO:* het Centraal register beroepsopleidingen, bedoeld in [artikel 6.4.1 van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+*  *CREBO:* het Centraal register beroepsopleidingen, bedoeld in artikel 6.4.1 van de Wet educatie en beroepsonderwijs;  
 
 * *eindejaarsuitkering/13e maand: * vast bedrag of vastgesteld percentage van het salaris, dat werknemers als extra loon ontvangen, voor zover dit is geregeld in de geldende CAO of arbeidsovereenkomst; 
 
-*  *gedeeltelijk-arbeidsgeschikte:* een persoon met een uitkering op grond van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) of de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), naar een mate van arbeidsongeschiktheid van minder dan 80%;  
+*  *gedeeltelijk-arbeidsgeschikte:* een persoon met een uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en inkomen naar arbeidsvermogen of de Wet arbeidsongeschiktheidsverzekering zelfstandigen, naar een mate van arbeidsongeschiktheid van minder dan 80%;  
 
-*  *gedetineerde:* een persoon ten aanzien van wie de tenuitvoerlegging van een vrijheidstraf of vrijheidsbenemende maatregel in een justitiële inrichting plaatsvindt of ten aanzien van wie een bevel tot verpleging van overheidswege is gegeven als bedoeld in [artikel 37b](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [38c van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);  
+*  *gedetineerde:* een persoon ten aanzien van wie de tenuitvoerlegging van een vrijheidstraf of vrijheidsbenemende maatregel in een justitiële inrichting plaatsvindt of ten aanzien van wie een bevel tot verpleging van overheidswege is gegeven als bedoeld in artikel 37b of 38c van het Wetboek van Strafrecht;  
 
 *  *Implementatieverordening:* Verordening (EG) nr. 1828/2006 van de Commissie van 8 december 2006 tot vaststelling van uitvoeringbepalingen van Verordening (EG) nr. 1083/2006 van de Raad houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds, en van verordening (EG) nr. 1080/2006 van het Europees Parlement en de Raad betreffende het Europees Fonds voor Regionale ontwikkeling (pbEU 2006, L 371);  
 
-*  *Instelling:* een opleidingscentrum als bedoeld in [artikel 1.1.1., onderdeel b, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), dan wel een instituut als bedoeld in [artikel 12.3.8 van die wet](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+*  *Instelling:* een opleidingscentrum als bedoeld in artikel 1.1.1., onderdeel b, van de Wet educatie en beroepsonderwijs, dan wel een instituut als bedoeld in artikel 12.3.8 van die wet;  
 
-*  *IOAW:* [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md);  
+*  *IOAW:* Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;  
 
-*  *IOAZ:* [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
+*  *IOAZ:* Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
 
 *  *jongere:* een persoon van 15 jaar of ouder doch jonger dan 28 jaar;  
 
-* *jonggehandicapte:* de persoon die recht heeft op arbeidsondersteuning of een arbeidsongeschiktheidsuitkering op grond van de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md); 
+* *jonggehandicapte:* de persoon die recht heeft op arbeidsondersteuning of een arbeidsongeschiktheidsuitkering op grond van de Wet werk en arbeidsondersteuning jonggehandicapten; 
 
 *  *laaggekwalificeerd:* een opleiding hebbend tot en met MBO-4 niveau;  
 
@@ -54,13 +54,13 @@ In deze regeling wordt verstaan onder:
 
 *  *minister:* de minister van Sociale Zaken en Werkgelegenheid;  
 
-*  *niet-uitkeringsontvanger:* een werkloze persoon van 16 jaar en ouder, doch jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), die geen uitkering of inkomensvoorziening ontvangt op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [IOAW](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [IOAZ](../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Toeslagenwet](../../../../../../wet/toeslagenwet/BWBR0004043/README.md), de [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](../../../../../../wet/tijdelijke/wet/beperking/inkomensgevolgen/arbeidsongeschiktheidscriteria/BWBR0007891/README.md), of de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), dan wel op grond van een regeling die met deze wetten naar aard en strekking overeenstemt;  
+*  *niet-uitkeringsontvanger:* een werkloze persoon van 16 jaar en ouder, doch jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, die geen uitkering of inkomensvoorziening ontvangt op grond van de Wet werk en bijstand, de IOAW, de IOAZ, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Toeslagenwet, de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria, of de Algemene nabestaandenwet, dan wel op grond van een regeling die met deze wetten naar aard en strekking overeenstemt;  
 
-*  *oudere:* een persoon van 45 jaar of ouder, doch jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md);  
+*  *oudere:* een persoon van 45 jaar of ouder, doch jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet;  
 
 *  *Operationeel Programma:* het Operationeel Programma ESF Doelstelling 2, 2007–2013;  
 
-*  *praktijkonderwijs:* het onderwijs, bedoeld in [artikel 10f, eerste lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+*  *praktijkonderwijs:* het onderwijs, bedoeld in artikel 10f, eerste lid, van de Wet op het voortgezet onderwijs;  
 
 * *procedure Erkenning van Verworven Competenties (EVC-procedure):* geheel van processtappen en gehanteerde instrumenten waarmee de verworven competenties van deelnemers worden beoordeeld, door een erkende aanbieder, ten opzichte van een specifieke landelijke standaard; 
 
@@ -72,30 +72,30 @@ In deze regeling wordt verstaan onder:
 
 *  *sociale innovatiepotentie:* het potentiële voordeel op het gebied van sociale innovatie dat als gevolg van een project op dat terrein te behalen is;  
 
-*  *startkwalificatie:* een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onder b, van de Wet educatie en beroepsonderwijs](../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in [artikel 7](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), onderscheidenlijk [8 van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+*  *startkwalificatie:* een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onder b, van de Wet educatie en beroepsonderwijs of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in artikel 7, onderscheidenlijk 8 van de Wet op het voortgezet onderwijs;  
 
 *  *subsidieaanvrager:* de aanvrager van een subsidie op grond van deze regeling;  
 
-*  *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+*  *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
 *  *VNG:* Vereniging Nederlandse Gemeenten;  
 
 *  *Verordening:* verordening (EG) nr. 1083/2006 van de Raad van de Europese Unie van 11 juli 2006 houdende algemene bepalingen inzake het Europees Fonds voor Regionale Ontwikkeling, het Europees Sociaal Fonds en het Cohesiefonds en tot intrekking van Verordening (EG) nr. 1260/1999 (PbEU 2006, L 210);  
 
-*  *voortgezet speciaal onderwijs:* het onderwijs dat wordt gegeven op een school of instelling waaraan voortgezet speciaal onderwijs als bedoeld in de [Wet op de expertisecentra](../../../../../../wet/isovso/BWBR0003549/README.md) wordt verzorgd;  
+*  *voortgezet speciaal onderwijs:* het onderwijs dat wordt gegeven op een school of instelling waaraan voortgezet speciaal onderwijs als bedoeld in de Wet op de expertisecentra wordt verzorgd;  
 
-*  *werkende:* een persoon, jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), die op grond van een arbeidsovereenkomst, dan wel een aanstelling in openbare dienst, arbeid verricht als werknemer, uitzendkracht of die arbeid verricht als zelfstandige zonder personeel;  
+*  *werkende:* een persoon, jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, die op grond van een arbeidsovereenkomst, dan wel een aanstelling in openbare dienst, arbeid verricht als werknemer, uitzendkracht of die arbeid verricht als zelfstandige zonder personeel;  
 
-*  *WWB-uitkering:* uitkering op grond van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+*  *WWB-uitkering:* uitkering op grond van de Wet werk en bijstand;  
 
-*  *55-plusser:* een persoon van 55 jaar of ouder, doch jonger dan de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).   
+*  *55-plusser:* een persoon van 55 jaar of ouder, doch jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet.   
 
 ### Artikel  2  
 
 ####Inleidende bepaling
 
 1.  De minister verstrekt, overeenkomstig deze regeling, subsidie aan de nader krachtens dit besluit aangewezen natuurlijke- en rechtspersonen die een bijdrage leveren aan de uitvoering van het programma Europees Sociaal Fonds Doelstelling 2, zoals uitgewerkt in het Operationeel Programma en neemt daarbij de Verordening en de Implementatieverordening in acht.   
-2.  De [Algemene Regeling SZW-subsidies](../../../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md) is niet van toepassing op de subsidieverlening krachtens deze regeling.   
+2.  De Algemene Regeling SZW-subsidies is niet van toepassing op de subsidieverlening krachtens deze regeling.   
 3.  Indien de Europese Commissie op het tijdstip van subsidieverlening nog niet heeft ingestemd met het Operationele Programma, wordt de subsidie, bedoeld in het eerste lid, verleend onder de voorwaarde dat de Europese Commissie instemt met dat Operationele Programma.   
 4.  In geval van het niet vervullen van de voorwaarde, bedoeld in het derde lid, kan de minister de subsidie aanpassen aan het gewijzigde Operationele Programma, dat wel de instemming van de Europese Commissie heeft verkregen.  
 
@@ -254,9 +254,9 @@ b. kosten van het project die qua prijsniveau niet in een redelijke verhouding s
 
 c. kosten van inkomensvervangende betalingen of uitkeringen aan deelnemers, niet zijnde loonbetalingen;  
 
-d. loonkosten verbonden aan werkervaringsplaatsen en dienstbetrekkingen welke zijn aangegaan of bekostigd in het kader van de [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), uitgezonderd hetgeen is bepaald in artikel 13, eerste lid, onderdeel c;  
+d. loonkosten verbonden aan werkervaringsplaatsen en dienstbetrekkingen welke zijn aangegaan of bekostigd in het kader van de Wet werk en bijstand, uitgezonderd hetgeen is bepaald in artikel 13, eerste lid, onderdeel c;  
 
-e. loonkosten van een persoon die in het kader van de [Wet sociale werkvoorziening](../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) een dienstverband met de gemeente dan wel met een reguliere werkgever heeft;  
+e. loonkosten van een persoon die in het kader van de Wet sociale werkvoorziening een dienstverband met de gemeente dan wel met een reguliere werkgever heeft;  
 
 f. verletkosten.   
 
@@ -315,7 +315,7 @@ f. verletkosten.
 
 ####Intrekking en terugvordering
 
-1.  Onverminderd het bepaalde in [afdeling 4.2.6. van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan een beschikking tot subsidieverlening door de minister geheel of gedeeltelijk worden ingetrokken, en kunnen op basis daarvan uitbetaalde bedragen worden teruggevorderd: 
+1.  Onverminderd het bepaalde in afdeling 4.2.6. van de Algemene wet bestuursrecht kan een beschikking tot subsidieverlening door de minister geheel of gedeeltelijk worden ingetrokken, en kunnen op basis daarvan uitbetaalde bedragen worden teruggevorderd: 
 
 a. indien het project wordt uitgevoerd in afwijking van het projectplan, voor zover de subsidieverlening daarop was gebaseerd;  
 
@@ -333,7 +333,7 @@ d. op een daartoe strekkend verzoek van de begunstigde.
 
 ####Intrekking regeling
 
-De [Subsidieregeling ESF 2007–2013](../../../../../../ministeriele-regeling/subsidieregeling/esf/2007–2013/BWBR0020791/README.md) wordt ingetrokken. 
+De Subsidieregeling ESF 2007–2013 wordt ingetrokken. 
 
 ### Artikel  22  
 
@@ -345,8 +345,8 @@ Deze regeling wordt aangehaald als: Subsidieregeling ESF 2007–2013 (herzien). 
 
 ####Overgangsbepalingen
 
-1.  Beschikkingen afgegeven onder de [Subsidieregeling ESF 2007–2013](../../../../../../ministeriele-regeling/subsidieregeling/esf/2007–2013/BWBR0020791/README.md) blijven van kracht en worden aangemerkt als beschikkingen die zijn afgegeven onder de Subsidieregeling 2007–2013 (herzien).   
-2.  Met betrekking tot beschikkingen afgegeven in het kader van Actie D in het jaar 2007 en in het eerste aanvraagtijdvak 2008, in ieder geval voor 2 maart 2009, blijft [artikel 3.8, tweede lid](../../../../../../ministeriele-regeling/subsidieregeling/esf/2007–2013/BWBR0020791/README.md), en [artikel 10.1, tweede lid, van de Subsidieregeling ESF 2007–2013](../../../../../../ministeriele-regeling/subsidieregeling/esf/2007–2013/BWBR0020791/README.md) van kracht.  
+1.  Beschikkingen afgegeven onder de Subsidieregeling ESF 2007–2013 blijven van kracht en worden aangemerkt als beschikkingen die zijn afgegeven onder de Subsidieregeling 2007–2013 (herzien).   
+2.  Met betrekking tot beschikkingen afgegeven in het kader van Actie D in het jaar 2007 en in het eerste aanvraagtijdvak 2008, in ieder geval voor 2 maart 2009, blijft artikel 3.8, tweede lid, en artikel 10.1, tweede lid, van de Subsidieregeling ESF 2007–2013 van kracht.  
 
 ### Artikel  24  
 
@@ -731,7 +731,7 @@ Een project in het kader van Actie D heeft tot doel de inzetbaarheid op de arbei
 
 ####Doelgroep
 
-Een project in het kader van Actie D richt zich op laaggekwalificeerde werkenden en kan mede betrekking hebben op laaggekwalificeerde personen die op grond van een uitzendovereenkomst, als bedoeld in [artikel 690 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), werkzaam zijn in de bedrijfstak of de onderneming waar het Opleidings- en Ontwikkelingsfonds opereert. 
+Een project in het kader van Actie D richt zich op laaggekwalificeerde werkenden en kan mede betrekking hebben op laaggekwalificeerde personen die op grond van een uitzendovereenkomst, als bedoeld in artikel 690 van Boek 7 van het Burgerlijk Wetboek, werkzaam zijn in de bedrijfstak of de onderneming waar het Opleidings- en Ontwikkelingsfonds opereert. 
 
 ### Artikel  D6  
 
@@ -1169,13 +1169,13 @@ i. werkgevers en werknemers beheerd samenwerkingsverband per bedrijfstak of onde
 
 ii. zelfstandigen zonder personeel beheerd samenwerkingsverband per bedrijfstak;    
 
-b. het onder a bedoelde samenwerkingsverband een stichting als bedoeld in [artikel 285, eerste lid, van Boek 2 van Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is;  
+b. het onder a bedoelde samenwerkingsverband een stichting als bedoeld in artikel 285, eerste lid, van Boek 2 van Burgerlijk Wetboek is;  
 
 c. het bestuur van deze stichting bevoegd is te besluiten tot het aangaan van overeenkomsten tot verkrijging, vervreemding en bezwaring van registergoederen, en tot het aangaan van overeenkomsten waarbij de stichting zich als borg of hoofdelijk medeschuldenaar verbindt, zich voor een derde sterk maakt of zich tot zekerheidstelling voor een schuld van een ander verbindt;  
 
 d. het doel van het Opleidings- en Ontwikkelingsfonds helder is afgebakend;  
 
-e. de meest recente jaarrekening wordt overgelegd, voorzien van een van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) afkomstige verklaring omtrent de getrouwheid onderscheidenlijk een mededeling, inhoudende dat van onjuistheden niet is gebleken; en  
+e. de meest recente jaarrekening wordt overgelegd, voorzien van een van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek afkomstige verklaring omtrent de getrouwheid onderscheidenlijk een mededeling, inhoudende dat van onjuistheden niet is gebleken; en  
 
 f. aannemelijk is dat het Opleidings- en Ontwikkelingsfonds niet in betalingsonmacht verkeert of dreigt te verkeren.    
 
@@ -1183,11 +1183,11 @@ f. aannemelijk is dat het Opleidings- en Ontwikkelingsfonds niet in betalingsonm
 
 3. Bij het verzoek, bedoeld in het eerste lid, wordt overgelegd: 
 
-a. een afschrift van de notariële akte van oprichting, bedoeld in [artikel 286, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md);  
+a. een afschrift van de notariële akte van oprichting, bedoeld in artikel 286, eerste lid, van Boek 2 van het Burgerlijk Wetboek;  
 
 b. de jaarrekening, bedoeld in het eerste lid, onderdeel e, juncto het tweede lid.    
 
-4. Indien na de akte van oprichting de statuten zijn gewijzigd, wordt tevens overgelegd een afschrift van de ten kantore van het in [artikel 293 van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bedoelde register neergelegde gewijzigde statuten.  
+4. Indien na de akte van oprichting de statuten zijn gewijzigd, wordt tevens overgelegd een afschrift van de ten kantore van het in artikel 293 van Boek 2 van het Burgerlijk Wetboek bedoelde register neergelegde gewijzigde statuten.  
 
 5. De minister beslist uiterlijk vier weken na ontvangst van het verzoek, bedoeld in het eerste lid.  
 
@@ -1209,7 +1209,7 @@ De minister trekt de beschikking tot erkenning als subsidieaanvrager schriftelij
 
 ####Erkenning als subsidieaanvrager op andere grondslag
 
-Een erkenning als subsidieaanvrager die is verleend op grond van de [Subsidieregeling ESF 2007–2013](../../../../../../ministeriele-regeling/subsidieregeling/esf/2007–2013/BWBR0020791/README.md) wordt aangemerkt als een erkenning op grond van artikel 1 van deze Bijlage. 
+Een erkenning als subsidieaanvrager die is verleend op grond van de Subsidieregeling ESF 2007–2013 wordt aangemerkt als een erkenning op grond van artikel 1 van deze Bijlage. 
 
 ### Bijlage  3  
 

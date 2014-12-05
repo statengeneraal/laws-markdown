@@ -52,7 +52,7 @@ m. Herziene Rijnvaartakte: de op 17 oktober 1868 te Mannheim tot stand gekomen H
 
 n. Nederlandse zeeschepen: zeeschepen die onder de Nederlandse vlag varen, met uitzondering van zeeschepen die het recht daartoe ontlenen aan de regels die in Aruba, Curaçao of Sint Maarten terzake gelden;   
 
-o. verwerken van persoonsgegevens, onderscheidenlijk verantwoordelijke: hetgeen daaronder wordt verstaan in de [Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md);  
+o. verwerken van persoonsgegevens, onderscheidenlijk verantwoordelijke: hetgeen daaronder wordt verstaan in de Wet bescherming persoonsgegevens;  
 
 p.River Information Services: de geharmoniseerde informatiediensten ter ondersteuning van het verkeers- en vervoersmanagement voor de binnenvaart, met inbegrip van de technisch haalbare koppelingen met andere vervoerswijzen dan wel met commerciële activiteiten, niet zijnde interne commerciële activiteiten tussen betrokken bedrijven;
 
@@ -275,7 +275,7 @@ Het bepaalde in deze paragraaf is van overeenkomstige toepassing ten aanzien van
 ### Artikel  15a  
 
 1.  Het loodsgeld strekt tot vergoeding van de kosten met betrekking tot het loodsen.    
-2.   Het loodsgeld is verschuldigd aan de door de algemene raad van de Nederlandse loodsencorporatie aan te wijzen organisatie. Deze aanwijzing wordt bekend gemaakt in de *Staatscourant*. Aan die aanwijzing worden met inachtneming van [artikel 26 Loodsenwet](../../../wet/loodsenwet/BWBR0004365/README.md) voorschriften verbonden omtrent de aanwending van het loodsgeld door de aangewezen organisatie en kunnen, eveneens met inachtneming van genoemd artikel, voorschriften worden verbonden omtrent:  
+2.   Het loodsgeld is verschuldigd aan de door de algemene raad van de Nederlandse loodsencorporatie aan te wijzen organisatie. Deze aanwijzing wordt bekend gemaakt in de *Staatscourant*. Aan die aanwijzing worden met inachtneming van artikel 26 Loodsenwet voorschriften verbonden omtrent de aanwending van het loodsgeld door de aangewezen organisatie en kunnen, eveneens met inachtneming van genoemd artikel, voorschriften worden verbonden omtrent:  
 
 a. de inning van het loodsgeld;   
 
@@ -289,7 +289,7 @@ d. de verplichting van de kapitein tot het verschaffen van de in verband met de 
 
 1.  De inning van het loodsgeld en de loodsvergoedingen, die ingevolge het Scheldereglement geheven worden en aan het Rijk toekomen, geschiedt volgens de bij of krachtens het Scheldereglement geldende bepalingen door een door de algemene raad van de Nederlandse loodsencorporatie aan te wijzen organisatie. Deze aanwijzing wordt bekendgemaakt in de Staatscourant.   
 2. De krachtens het eerste lid aangewezen organisatie is rechthebbende op de ingevolge het Scheldereglement geheven loodsgelden en loodsvergoedingen. 
-3. Aan de aanwijzing, bedoeld in het eerste lid, worden met inachtneming van [artikel 26 Loodsenwet](../../../wet/loodsenwet/BWBR0004365/README.md) voorschriften verbonden omtrent de aanwending door de organisatie van de aan deze toekomende gelden en kunnen, eveneens met inachtneming van genoemd artikel, voorschriften worden verbonden omtrent: 
+3. Aan de aanwijzing, bedoeld in het eerste lid, worden met inachtneming van artikel 26 Loodsenwet voorschriften verbonden omtrent de aanwending door de organisatie van de aan deze toekomende gelden en kunnen, eveneens met inachtneming van genoemd artikel, voorschriften worden verbonden omtrent: 
 
 a.de inning van het loodsgeld en de loodsvergoedingen;
 
@@ -297,16 +297,16 @@ b.de gevolgen van het in gebreke blijven van de organisatie ten aanzien van de i
 
 ###Artikel 15ba 
 
-1. Een aanwijzing, bedoeld in de artikelen 15a, tweede lid, en 15b, eerste lid, behoeft de goedkeuring van de Autoriteit Consument en Markt. Onverminderd [artikel 10:27 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de goedkeuring kan slechts worden onthouden indien het belang van behoorlijk markttoezicht zich daartegen verzet. 
+1. Een aanwijzing, bedoeld in de artikelen 15a, tweede lid, en 15b, eerste lid, behoeft de goedkeuring van de Autoriteit Consument en Markt. Onverminderd artikel 10:27 van de Algemene wet bestuursrecht kan de goedkeuring kan slechts worden onthouden indien het belang van behoorlijk markttoezicht zich daartegen verzet. 
 2. Een krachtens de artikelen 15a, tweede lid, onderscheidenlijk 15b, eerste lid, aangewezen organisatie voert in de boekhouding een administratief onderscheid in voor iedere dienst of taak die bij of krachtens de wet bij uitsluiting aan registerloodsen, de organen van de Nederlandse en regionale loodsencorporaties, de aangewezen organisaties of samenwerkingsverbanden van registerloodsen is opgedragen. 
 3. Bij regeling van de Autoriteit Consument en Markt kunnen nadere regels worden gesteld met betrekking tot de boekhouding, bedoeld in het tweede lid. 
-4. De algemene raad en de ledenvergadering van de Nederlandse loodsencorporatie zijn bevoegd van de krachtens de artikelen 15a, tweede lid, onderscheidenlijk 15b, eerste lid, aangewezen organisaties, alsmede van de ter uitvoering van [artikel 15, eerste lid, onder b, van de Loodsenwet](../../../wet/loodsenwet/BWBR0004365/README.md) opgerichte samenwerkingsverbanden van registerloodsen, alle inlichtingen en gegevens te verlangen die deze organen voor de uitoefening van de hen bij en krachtens de [Loodsenwet](../../../wet/loodsenwet/BWBR0004365/README.md) opgedragen taken redelijkerwijs nodig achten. De organisaties en samenwerkingsverbanden verlenen binnen de gestelde termijn alle gevraagde medewerking.
+4. De algemene raad en de ledenvergadering van de Nederlandse loodsencorporatie zijn bevoegd van de krachtens de artikelen 15a, tweede lid, onderscheidenlijk 15b, eerste lid, aangewezen organisaties, alsmede van de ter uitvoering van artikel 15, eerste lid, onder b, van de Loodsenwet opgerichte samenwerkingsverbanden van registerloodsen, alle inlichtingen en gegevens te verlangen die deze organen voor de uitoefening van de hen bij en krachtens de Loodsenwet opgedragen taken redelijkerwijs nodig achten. De organisaties en samenwerkingsverbanden verlenen binnen de gestelde termijn alle gevraagde medewerking.
 
 ### Artikel  15c  
 
 1.  De kapitein, eigenaar of rompbevrachter van een zeeschip dat gevoerd wordt door een verkeersdeelnemer op wie een verplichting rust als bedoeld in artikel 4, derde lid, gericht op het deelnemen aan verkeersbegeleiding, is gehouden het verkeersbegeleidingstarief te betalen en de in verband met de bepaling van het tarief benodigde informatie te verstrekken.    
 2.   In bij algemene maatregel van bestuur aan te wijzen gevallen en op een in die maatregel aan te geven wijze kan Onze Minister aan een kapitein, eigenaar of rompbevrachter een gehele of gedeeltelijke ontheffing verlenen van de verplichting tot het betalen van het in het eerste lid bedoelde tarief. Aan een besluit tot ontheffing kunnen voorschriften en beperkingen worden verbonden.    
-3.  [Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de ontheffing van de verplichting tot het betalen van het in het eerste lid bedoelde tarief. 
+3.  Paragraaf 4.1.3.3. van de Algemene wet bestuursrecht is van toepassing op de ontheffing van de verplichting tot het betalen van het in het eerste lid bedoelde tarief. 
 
 ### Artikel  15d  
 
@@ -430,7 +430,7 @@ b. een schip met een lengte van minder dan 5 meter dat uitsluitend door middel v
 
 ### Artikel  28a  
 
-1.  Indien degene die op een scheepvaartweg een varend schip voert of stuurt, dan wel als loods aan boord van een zodanig schip de kapitein of verkeersdeelnemer adviseert over de te voeren navigatie, verdacht wordt van handelen in strijd met artikel 27, eerste, tweede of vierde lid, kan een opsporingsambtenaar als bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) hem bevelen zijn medewerking te verlenen aan een onderzoek als bedoeld in artikel 27, tweede lid, onderdeel *a* .   
+1.  Indien degene die op een scheepvaartweg een varend schip voert of stuurt, dan wel als loods aan boord van een zodanig schip de kapitein of verkeersdeelnemer adviseert over de te voeren navigatie, verdacht wordt van handelen in strijd met artikel 27, eerste, tweede of vierde lid, kan een opsporingsambtenaar als bedoeld in artikel 141 van het Wetboek van Strafvordering hem bevelen zijn medewerking te verlenen aan een onderzoek als bedoeld in artikel 27, tweede lid, onderdeel *a* .   
 2.  De verdachte aan wie het in het eerste lid bedoelde bevel is gegeven, is verplicht ademlucht te blazen in een voor het onderzoek bestemd apparaat en gevolg te geven aan alle door de opsporingsambtenaar ten dienste van het onderzoek gegeven aanwijzingen.   
 3.  Het eerste en tweede lid zijn van overeenkomstige toepassing op degene die aanstalten maakt een schip dat op een scheepvaartweg voor vertrek gereed ligt, te gaan voeren of sturen, dan wel als loods aan boord van een zodanig schip de kapitein of de verkeersdeelnemer over de te voeren navigatie te gaan adviseren, indien de opsporingsambtenaar redelijkerwijs kan aannemen dat dit voeren, sturen of adviseren zal leiden tot handelen in strijd met artikel 27, eerste of tweede lid.   
 4.  De in het tweede lid genoemde verplichtingen gelden niet voor de verdachte van wie aannemelijk is, dat het verlenen van medewerking aan een onderzoek van uitgeademde lucht voor hem om bijzondere geneeskundige redenen onwenselijk is.   
@@ -461,7 +461,7 @@ b. een schip met een lengte van minder dan 5 meter dat uitsluitend door middel v
 
 ### Artikel  31  
 
-1.  Handelen in strijd met artikel 26 wordt, voorzoveel daartegen niet bij het [Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is voorzien, gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.    
+1.  Handelen in strijd met artikel 26 wordt, voorzoveel daartegen niet bij het Wetboek van Strafrecht is voorzien, gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van de derde categorie.    
 2.  Handelen in strijd met de artikelen 27, eerste tot en met vierde lid, 28*a*, tweede, zevende, negende en tiende lid, en artikel 29, derde en vierde lid, wordt gestraft met gevangenisstraf van ten hoogste drie maanden of geldboete van de derde categorie.   
 3.  Handelen in strijd met artikel 28 wordt gestraft met gevangenisstraf van ten hoogste twee maanden of geldboete van de tweede categorie.   
 4.   Overtreding van de regels, gesteld krachtens artikel 4 en van de voorschriften verbonden aan een besluit, genomen krachtens artikel 7, eerste lid of met overeenkomstige toepassing daarvan krachtens artikel 8, wordt gestraft met:  
@@ -503,13 +503,13 @@ b. hechtenis van ten hoogste twee maanden of een geldboete van de tweede categor
 
 ### Artikel  32  
 
-1.  Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten en van de in de Herziene Rijnvaartakte strafbaar gestelde feiten, voor zover deze laatste de overtreding betreffen van bepalingen die krachtens deze wet zijn vastgesteld, zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de daartoe door het bevoegd gezag, in overeenstemming met Onze Minister van Veiligheid en Justitie, aangewezen buitengewone opsporingsambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.    
+1.  Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten en van de in de Herziene Rijnvaartakte strafbaar gestelde feiten, voor zover deze laatste de overtreding betreffen van bepalingen die krachtens deze wet zijn vastgesteld, zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de daartoe door het bevoegd gezag, in overeenstemming met Onze Minister van Veiligheid en Justitie, aangewezen buitengewone opsporingsambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.    
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.    
-3.  De [artikelen 5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:15 tot en met 5:17](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+3.  De artikelen 5:13, 5:15 tot en met 5:17 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 
 ### Artikel  33  
 
-Een opsporingsambtenaar als bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) kan, indien hij op grond van feiten of omstandigheden redelijkerwijze kan vermoeden dat een schip betrokken is geweest bij een aanvaring waarbij een persoon is gedood, letsel heeft bekomen of in zijn gezondheid is benadeeld dan wel aan enige zaak die niet toebehoort aan een persoon die zich op het schip bevindt, schade is toegebracht, in het belang van de opsporing van de verkeersdeelnemer of de andere personen die deel uitmaken van de bemanning vorderen dat zij de inlichtingen en gegevens verstrekken die nodig zijn voor de vaststelling van hun identiteit en van die van het schip.  
+Een opsporingsambtenaar als bedoeld in artikel 141 van het Wetboek van Strafvordering kan, indien hij op grond van feiten of omstandigheden redelijkerwijze kan vermoeden dat een schip betrokken is geweest bij een aanvaring waarbij een persoon is gedood, letsel heeft bekomen of in zijn gezondheid is benadeeld dan wel aan enige zaak die niet toebehoort aan een persoon die zich op het schip bevindt, schade is toegebracht, in het belang van de opsporing van de verkeersdeelnemer of de andere personen die deel uitmaken van de bemanning vorderen dat zij de inlichtingen en gegevens verstrekken die nodig zijn voor de vaststelling van hun identiteit en van die van het schip.  
 
 ### Artikel  34  
 
@@ -517,7 +517,7 @@ Een opsporingsambtenaar als bedoeld in [artikel 141 van het Wetboek van Strafvor
 2.  Bij besluit van Onze Minister kunnen andere dan de in het eerste lid bedoelde ambtenaren worden aangewezen voor het toezicht op de naleving van het bepaalde bij of krachtens deze wet. Ambtenaren van provincies, gemeenten of waterschappen worden aangewezen op voordracht van, en in overeenstemming met de desbetreffende besturen.   
 3.  In de in het tweede lid bedoelde besluit kunnen eisen worden gesteld met betrekking tot de kennis en kunde van de toezichthouders en de wijze waarop zij hun taak vervullen.   
 4.  Het besluit bedoeld in het tweede lid wordt in de Staatscourant geplaatst.  
-5.  De toezichthouders beschikken niet over de bevoegdheden, genoemd in de [artikelen 5:18](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:19 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+5.  De toezichthouders beschikken niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.   
 
 ### Artikel  35  
 
@@ -556,8 +556,8 @@ a. indien hij binnen tien dagen na de dag van invordering geen toepassing geeft 
 b. indien ernstig rekening moet worden gehouden met de mogelijkheid dat aan de houder in geval van veroordeling door de rechter geen onvoorwaardelijke ontzegging van de bevoegdheid tot het voeren van een schip zal worden opgelegd, dan wel geen onvoorwaardelijke ontzegging van langere duur dan de tijd gedurende welke het vaarbewijs is ingevorderd of ingehouden geweest, of  
 
 c. indien het onderzoek van de zaak op de terechtzitting niet binnen 26 weken na de dag van invordering is aangevangen.     
-4.  Tegen toepassing van het eerste of tweede lid kan de belanghebbende bij klaagschrift opkomen. Zolang in de zaak nog geen vervolging is ingesteld, wordt het klaagschrift ingediend ter griffie van de rechtbank in het arrondissement waar het in het eerste lid bedoelde feit werd begaan, en anders ter griffie van het gerecht in feitelijke aanleg waarvoor de vervolging plaatsvindt of het laatst plaatsvond. [Artikel 552a, vierde en zesde lid, van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing. De raadkamer van het gerecht geeft zo spoedig mogelijk, na de belanghebbende, desverlangd bijgestaan door diens raadsman, te hebben gehoord, althans opgeroepen, zijn met redenen omklede beslissing, die onverwijld aan de belanghebbende wordt betekend. Tegen de beslissing kan door het openbaar ministerie binnen veertien dagen daarna en door de belanghebbende binnen veertien dagen na de betekening beroep in cassatie worden ingesteld. De Hoge Raad beslist zo spoedig mogelijk.   
-5.  Indien de zaak eindigt zonder oplegging van straf of maatregel of met zodanige oplegging, maar op grond van een feit waarvoor de toepassing van het eerste of tweede lid niet is toegelaten, kan de rechter op verzoek van de gewezen verdachte hem een vergoeding ten laste van de Staat toekennen voor de schade die hij ten gevolge van die toepassing heeft geleden, waaronder begrepen nadeel dat niet in vermogensschade bestaat. De artikelen [89, derde tot en met zesde lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [90](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [91](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [93 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) zijn van overeenkomstige toepassing.  
+4.  Tegen toepassing van het eerste of tweede lid kan de belanghebbende bij klaagschrift opkomen. Zolang in de zaak nog geen vervolging is ingesteld, wordt het klaagschrift ingediend ter griffie van de rechtbank in het arrondissement waar het in het eerste lid bedoelde feit werd begaan, en anders ter griffie van het gerecht in feitelijke aanleg waarvoor de vervolging plaatsvindt of het laatst plaatsvond. Artikel 552a, vierde en zesde lid, van het Wetboek van Strafvordering is van overeenkomstige toepassing. De raadkamer van het gerecht geeft zo spoedig mogelijk, na de belanghebbende, desverlangd bijgestaan door diens raadsman, te hebben gehoord, althans opgeroepen, zijn met redenen omklede beslissing, die onverwijld aan de belanghebbende wordt betekend. Tegen de beslissing kan door het openbaar ministerie binnen veertien dagen daarna en door de belanghebbende binnen veertien dagen na de betekening beroep in cassatie worden ingesteld. De Hoge Raad beslist zo spoedig mogelijk.   
+5.  Indien de zaak eindigt zonder oplegging van straf of maatregel of met zodanige oplegging, maar op grond van een feit waarvoor de toepassing van het eerste of tweede lid niet is toegelaten, kan de rechter op verzoek van de gewezen verdachte hem een vergoeding ten laste van de Staat toekennen voor de schade die hij ten gevolge van die toepassing heeft geleden, waaronder begrepen nadeel dat niet in vermogensschade bestaat. De artikelen 89, derde tot en met zesde lid, 90, 91 en 93 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing.  
 
 ### Artikel  35b  
 
@@ -568,14 +568,14 @@ a. een snelle motorboot in strijd met voorschriften gesteld krachtens artikel 4,
 b. een schip waarvoor een bij ministeriële regeling aan te wijzen vaarbewijs is vereist, herhaaldelijk in strijd met artikel 27.     
 2.  Indien tijdens het plegen van een van de feiten, bedoeld in het eerste lid, nog geen vijf jaren zijn verlopen na het einde van de tijdsduur waarvoor bij een vroegere onherroepelijke veroordeling wegens een van die feiten de betrokkene de bevoegdheid tot het voeren van schepen, voor zover daartoe een vaarbewijs is vereist, is ontzegd, kan hem die bevoegdheid voor ten hoogste tien jaren worden ontzegd.   
 3.  Bij het opleggen van de straf, bedoeld in het eerste en tweede lid, wordt de tijd gedurende welke het vaarbewijs van de veroordeelde ingevolge artikel 35a vóór het tijdstip waarop die straf ingaat, ingevorderd of ingehouden is geweest, op de duur van die straf in mindering gebracht.   
-4.  De tenuitvoerlegging van de veroordeling vindt niet plaats dan nadat aan de veroordeelde in persoon een schrijven is uitgereikt, volgens de [artikelen 587](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [588 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), waarin het tijdstip van ingang en de duur van de ontzegging, de verplichting tot inlevering van het vaarbewijs uiterlijk op dat tijdstip, alsmede het gevolg van niet tijdige inlevering worden medegedeeld.   
+4.  De tenuitvoerlegging van de veroordeling vindt niet plaats dan nadat aan de veroordeelde in persoon een schrijven is uitgereikt, volgens de artikelen 587 en 588 van het Wetboek van Strafvordering, waarin het tijdstip van ingang en de duur van de ontzegging, de verplichting tot inlevering van het vaarbewijs uiterlijk op dat tijdstip, alsmede het gevolg van niet tijdige inlevering worden medegedeeld.   
 5.  De houder levert het vaarbewijs, tenzij het is ingevorderd en niet teruggegeven, in op het parket van het openbaar ministerie vanwaar hij het schrijven, bedoeld in het vierde lid, heeft ontvangen, uiterlijk op het tijdstip van ingang van de ontzegging.   
 6.  Teruggave van het vaarbewijs vindt plaats zodra de termijn van de ontzegging is verstreken.   
 7.  De termijn van ontzegging van de bevoegdheid tot het voeren van schepen wordt van rechtswege verlengd met het aantal dagen dat is verstreken tussen het tijdstip waarop het vaarbewijs ingevolge het vijfde lid had moeten worden ingeleverd en het tijdstip waarop nadien die inlevering heeft plaatsgevonden.  
 
 ### Artikel  35c  
 
-De opsporingsambtenaar die bij de uitoefening van de hem bij of krachtens wet verleende bevoegdheden de beschikking krijgt over een vaarwijs waarvan ingevolge dit hoofdstuk de overgifte is gevorderd, waarvan een verplichting tot inlevering bestaat of dat ingevolge de [Binnenvaartwet](../../../wet/binnenvaartwet/BWBR0023009/README.md) zijn geldigheid heeft verloren, is bevoegd dat vaarbewijs in te nemen en het door te geleiden naar het betrokken parket van het openbaar ministerie, naar degene bij wie de houder dat vaarbewijs had dienen in te leveren onderscheidenlijk naar de instantie die het heeft afgegeven. 
+De opsporingsambtenaar die bij de uitoefening van de hem bij of krachtens wet verleende bevoegdheden de beschikking krijgt over een vaarwijs waarvan ingevolge dit hoofdstuk de overgifte is gevorderd, waarvan een verplichting tot inlevering bestaat of dat ingevolge de Binnenvaartwet zijn geldigheid heeft verloren, is bevoegd dat vaarbewijs in te nemen en het door te geleiden naar het betrokken parket van het openbaar ministerie, naar degene bij wie de houder dat vaarbewijs had dienen in te leveren onderscheidenlijk naar de instantie die het heeft afgegeven. 
 
 ###Hoofdstuk 8 
 
@@ -590,7 +590,7 @@ De opsporingsambtenaar die bij de uitoefening van de hem bij of krachtens wet ve
 
 ###Artikel 37 
 
-1. Onverminderd de [artikelen 7, eerste lid](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de artikelen 37a, eerste lid, en 38 gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de artikelen 37a, eerste lid, en 38 gezamenlijk of afzonderlijk in werking worden gesteld.
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepaling.
 3. Wordt het voorstel van wet door de Staten-Generaal verworpen, dan wordt bij koninklijk besluit, op voordracht van Onze Minister-President, de bepaling die ingevolge het eerste lid in werking is gesteld, onverwijld buiten werking gesteld.
 4. Bij koninklijk besluit, op voordracht van Onze Minister-President, wordt de bepaling die ingevolge het eerste lid in werking is gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.

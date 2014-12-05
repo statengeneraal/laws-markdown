@@ -41,13 +41,13 @@ e. foltering: marteling van een persoon met het oogmerk om van hem of van een de
 f. gedwongen zwangerschap: de onrechtmatige gevangenschap van een vrouw die onder dwang zwanger is gemaakt, met de opzet de etnische samenstelling van een bevolking te beïnvloeden of andere ernstige schendingen van internationaal recht te plegen;  
 
 g. apartheid: onmenselijke handelingen van een vergelijkbare aard als de in artikel 4, eerste lid, bedoelde handelingen, gepleegd in het kader van een geïnstitutionaliseerd regime van systematische onderdrukking en overheersing door een groep van een bepaald ras van een of meer groepen van een ander ras en begaan met de opzet dat regime in stand te houden.     
-2.  De uitdrukking ambtenaar heeft in deze wet dezelfde betekenis als in het [Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), met dien verstande dat voor de toepassing van de Nederlandse strafwet onder ambtenaar mede wordt begrepen degene die ten dienste van een vreemde staat een openbaar ambt bekleedt.   
-3.  De uitdrukkingen samenspanning en zwaar lichamelijk letsel hebben in deze wet dezelfde betekenis als in het [Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md).   
-4.  Met een in deze wet omschreven misdrijf wordt gelijkgesteld een van de misdrijven omschreven in de [artikelen 131 tot en met 134](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [140](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [189](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [416 tot en met 417bis](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [420bis tot en met 420quater van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), indien het strafbare feit waarvan in die artikelen gesproken wordt, betrekking heeft op een misdrijf omschreven in de artikelen 3 tot en met 8a van deze wet. 
+2.  De uitdrukking ambtenaar heeft in deze wet dezelfde betekenis als in het Wetboek van Strafrecht, met dien verstande dat voor de toepassing van de Nederlandse strafwet onder ambtenaar mede wordt begrepen degene die ten dienste van een vreemde staat een openbaar ambt bekleedt.   
+3.  De uitdrukkingen samenspanning en zwaar lichamelijk letsel hebben in deze wet dezelfde betekenis als in het Wetboek van Strafrecht.   
+4.  Met een in deze wet omschreven misdrijf wordt gelijkgesteld een van de misdrijven omschreven in de artikelen 131 tot en met 134, 140, 189, 416 tot en met 417bis en 420bis tot en met 420quater van het Wetboek van Strafrecht, indien het strafbare feit waarvan in die artikelen gesproken wordt, betrekking heeft op een misdrijf omschreven in de artikelen 3 tot en met 8a van deze wet. 
 
 ### Artikel  2  
 
-1.  Onverminderd het te dien aanzien in het [Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en het [Wetboek van Militair Strafrecht](../../../../../rijkswet/wetboek/van/militair/strafrecht/BWBR0001869/README.md) bepaalde is de Nederlandse strafwet toepasselijk: 
+1.  Onverminderd het te dien aanzien in het Wetboek van Strafrecht en het Wetboek van Militair Strafrecht bepaalde is de Nederlandse strafwet toepasselijk: 
 
 a. op ieder die zich buiten Nederland schuldig maakt aan een van de in deze wet omschreven misdrijven, wanneer de verdachte zich in Nederland of in de openbare lichamen Bonaire, Sint Eustatius en Saba bevindt;  
 
@@ -315,9 +315,9 @@ d.indien een feit als bedoeld in het eerste lid inhoudt een stad of plaats plund
 1. Foltering door een ambtenaar of anderszins ten dienste van de overheid werkzame persoon in de uitoefening van zijn functie wordt gestraft met levenslange gevangenisstraf of tijdelijke van ten hoogste twintig jaren of geldboete van de vijfde categorie.
 2. Met gelijke straffen wordt gestraft:
 
-a.de ambtenaar of anderszins ten dienste van de overheid werkzame persoon die in de uitoefening van zijn functie door een der in [artikel 47, eerste lid, onder 2°, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) vermelde middelen tot de foltering uitlokt of die opzettelijk toelaat dat een ander die foltering pleegt;
+a.de ambtenaar of anderszins ten dienste van de overheid werkzame persoon die in de uitoefening van zijn functie door een der in artikel 47, eerste lid, onder 2°, van het Wetboek van Strafrecht vermelde middelen tot de foltering uitlokt of die opzettelijk toelaat dat een ander die foltering pleegt;
 
-b.hij die foltering pleegt, indien een ambtenaar of een anderszins ten dienste van de overheid werkzame persoon in de uitoefening van zijn functie zulks door een der in [artikel 47, eerste lid, onder 2°, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) vermelde middelen heeft uitgelokt of zulks opzettelijk heeft toegelaten.
+b.hij die foltering pleegt, indien een ambtenaar of een anderszins ten dienste van de overheid werkzame persoon in de uitoefening van zijn functie zulks door een der in artikel 47, eerste lid, onder 2°, van het Wetboek van Strafrecht vermelde middelen heeft uitgelokt of zulks opzettelijk heeft toegelaten.
 
 ### Artikel  8a  
 
@@ -362,19 +362,19 @@ De in deze wet strafbaar gestelde feiten zijn misdrijven.
 
 ###Artikel 12 
 
-De misdrijven, omschreven in deze wet, worden voor de toepassing van de [Uitleveringswet](../../../../../wet/uitleveringswet/BWBR0002559/README.md) of de [Wet overlevering inzake oorlogsmisdrijven](../../../../../wet/wet/overlevering/inzake/oorlogsmisdrijven/BWBR0002134/README.md) niet beschouwd als strafbare feiten van politieke aard.
+De misdrijven, omschreven in deze wet, worden voor de toepassing van de Uitleveringswet of de Wet overlevering inzake oorlogsmisdrijven niet beschouwd als strafbare feiten van politieke aard.
 
 ### Artikel  13  
 
-Ten aanzien van de in deze wet omschreven misdrijven – met uitzondering van de feiten, bedoeld in artikel 7, eerste lid, en, voor zover met die feiten verband houdend, de feiten, bedoeld in artikel 9 – verjaart het recht tot strafvordering niet. De [artikelen 76](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [77d, derde lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zijn op die misdrijven niet van toepassing. 
+Ten aanzien van de in deze wet omschreven misdrijven – met uitzondering van de feiten, bedoeld in artikel 7, eerste lid, en, voor zover met die feiten verband houdend, de feiten, bedoeld in artikel 9 – verjaart het recht tot strafvordering niet. De artikelen 76 en 77d, derde lid, van het Wetboek van Strafrecht zijn op die misdrijven niet van toepassing. 
 
 ###Artikel 14 
 
-Bij veroordeling tot een gevangenisstraf van ten minste een jaar wegens een der in deze wet omschreven misdrijven kan ontzetting van het in [artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) vermelde recht worden uitgesproken.
+Bij veroordeling tot een gevangenisstraf van ten minste een jaar wegens een der in deze wet omschreven misdrijven kan ontzetting van het in artikel 28, eerste lid, onder 3°, van het Wetboek van Strafrecht vermelde recht worden uitgesproken.
 
 ### Artikel  15  
 
-Van de misdrijven omschreven in deze wet neemt de rechtbank Den Haag kennis, behoudens de bevoegdheid van de rechter, aangewezen bij de [Wet militaire strafrechtspraak](../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md). 
+Van de misdrijven omschreven in deze wet neemt de rechtbank Den Haag kennis, behoudens de bevoegdheid van de rechter, aangewezen bij de Wet militaire strafrechtspraak. 
 
 ###Artikel 16 
 
@@ -410,11 +410,11 @@ In artikel 13 wordt in plaats van de tweede volzin gelezen: Artikel 78 van het W
 
 ### Artikel  16f  
 
-Voor de toepassing van artikel 14 wordt in plaats van «het in [artikel 28 vermelde recht, eerste lid, onder 3°, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) vermelde recht» gelezen: het recht, bedoeld in artikel 32, van het Wetboek van Strafrecht BES. 
+Voor de toepassing van artikel 14 wordt in plaats van «het in artikel 28 vermelde recht, eerste lid, onder 3°, van het Wetboek van Strafrecht vermelde recht» gelezen: het recht, bedoeld in artikel 32, van het Wetboek van Strafrecht BES. 
 
 ### Artikel  16g  
 
-In afwijking van artikel 15 neemt het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba kennis van de misdrijven omschreven in deze wet, voor zover het feit is begaan binnen het rechtsgebied van Bonaire, Sint Eustatius en Saba, en behoudens de bevoegdheid van de rechter, aangewezen bij de [Wet militaire strafrechtspraak](../../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md). De behandeling vindt plaats door een meervoudige kamer, bestaande uit een lid van het Gemeenschappelijk Hof en twee rechters in de rechtbank Den Haag. 
+In afwijking van artikel 15 neemt het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba kennis van de misdrijven omschreven in deze wet, voor zover het feit is begaan binnen het rechtsgebied van Bonaire, Sint Eustatius en Saba, en behoudens de bevoegdheid van de rechter, aangewezen bij de Wet militaire strafrechtspraak. De behandeling vindt plaats door een meervoudige kamer, bestaande uit een lid van het Gemeenschappelijk Hof en twee rechters in de rechtbank Den Haag. 
 
 ### §  5  
 
@@ -438,22 +438,22 @@ Wijzigt de Wet overlevering inzake oorlogsmisdrijven.
 
 ### Artikel  19  
 
-De [Uitvoeringswet genocideverdrag](../../../../../wet/uitvoeringswet/genocideverdrag/BWBR0002453/README.md) wordt ingetrokken. 
+De Uitvoeringswet genocideverdrag wordt ingetrokken. 
 
 ###Artikel 20 
 
-De [Uitvoeringswet folteringverdrag](../../../../../wet/uitvoeringswet/folteringverdrag/BWBR0004409/README.md) wordt ingetrokken.
+De Uitvoeringswet folteringverdrag wordt ingetrokken.
 
 ### Artikel  21  
 
 1.  Wanneer op het tijdstip van inwerkingtreding van deze wet ter zake van genocide, foltering of een misdrijf dat overeenkomt met een misdrijf als omschreven in de artikelen 5, 6 of 7 van deze wet, overeenkomstig het oude recht reeds vervolging is ingesteld bij een andere rechter dan bedoeld in artikel 15 van deze wet, wordt de zaak bij dezelfde rechter voortgezet.   
-2.   Artikel 13 is mede van toepassing op feiten, strafbaar gesteld in de [Uitvoeringswet folteringverdrag](../../../../../wet/uitvoeringswet/folteringverdrag/BWBR0004409/README.md) en gepleegd voor het tijdstip van inwerkingtreding van deze wet, tenzij het feit op dat tijdstip reeds is verjaard.   
-3.  Artikel 16g is mede van toepassing op feiten, ter uitvoering van het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing ( *Trb.* 1985, 69) strafbaar gesteld op grond van de Nederlands-Antilliaanse strafwet en gepleegd voor het tijdstip van transitie bedoeld in [artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../wet-BES/invoeringswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028063/README.md), tenzij het feit op dat tijdstip reeds is verjaard.  
+2.   Artikel 13 is mede van toepassing op feiten, strafbaar gesteld in de Uitvoeringswet folteringverdrag en gepleegd voor het tijdstip van inwerkingtreding van deze wet, tenzij het feit op dat tijdstip reeds is verjaard.   
+3.  Artikel 16g is mede van toepassing op feiten, ter uitvoering van het Verdrag tegen foltering en andere wrede, onmenselijke of onterende behandeling of bestraffing ( *Trb.* 1985, 69) strafbaar gesteld op grond van de Nederlands-Antilliaanse strafwet en gepleegd voor het tijdstip van transitie bedoeld in artikel 1, onder a, van de Invoeringswet openbare lichamen Bonaire, Sint Eustatius en Saba, tenzij het feit op dat tijdstip reeds is verjaard.  
 4.  Artikel 2 is van toepassing op het misdrijf genocide dat is begaan op of na 24 oktober 1970. 
 
 ### Artikel  21a  
 
-In geval van strafvervolging voor een van de in deze wet, de [Uitvoeringswet folteringverdrag](../../../../../wet/uitvoeringswet/folteringverdrag/BWBR0004409/README.md), de [Uitvoeringswet genocideverdrag](../../../../../wet/uitvoeringswet/genocideverdrag/BWBR0002453/README.md), dan wel de [Wet oorlogsstrafrecht](../../../../../wet/wet/oorlogsstrafrecht/BWBR0002099/README.md) omschreven misdrijven begaan voor 1 april 1995, zijn de bepalingen van het [Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) betreffende het slachtoffer en de benadeelde partij van toepassing. 
+In geval van strafvervolging voor een van de in deze wet, de Uitvoeringswet folteringverdrag, de Uitvoeringswet genocideverdrag, dan wel de Wet oorlogsstrafrecht omschreven misdrijven begaan voor 1 april 1995, zijn de bepalingen van het Wetboek van Strafvordering betreffende het slachtoffer en de benadeelde partij van toepassing. 
 
 ###Artikel 22 
 

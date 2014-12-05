@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 17 april 2008, nr. DL/B/2008/8368, houdende regels voor het verstrekken van loonkostensubsidie voor ondersteunend personeel op basis scholen (Regeling loonkostensubsidie ondersteunend personeel basisscholen)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op [artikel 4 van de Wet overige OCW-subsidies](../../../../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md);
+Gelet op artikel 4 van de Wet overige OCW-subsidies;
 Besluit:     
 ### Paragraaf  1  
 
@@ -17,9 +17,9 @@ In deze regeling wordt verstaan onder:
 
 a. Minister: Minister van Onderwijs, Cultuur en Wetenschap;  
 
-b. basisschool: basisschool als bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md);  
+b. basisschool: basisschool als bedoeld in artikel 1 van de Wet op het primair onderwijs;  
 
-c. bevoegd gezag: bevoegd gezag, bedoeld in [artikel 1 van de Wet op het primair onderwijs](../../../../../../../wet/wbo/BWBR0003420/README.md);  
+c. bevoegd gezag: bevoegd gezag, bedoeld in artikel 1 van de Wet op het primair onderwijs;  
 
 d. ondersteunende werkzaamheden: werkzaamheden, niet zijnde onderwijsondersteunende werkzaamheden, op een basisschool of, indien de school bestaat uit een hoofd- en een of meerdere nevenvestigingen, de hoofdvestiging;  
 
@@ -27,11 +27,11 @@ e. ondersteunend personeel: personeel, benoemd of aangesteld voor het verrichten
 
 f. betrokkene: een lid van het door het bevoegd gezag benoemde of aangestelde ondersteunend personeel;  
 
-g. reguliere dienstbetrekking: dienstbetrekking waarvoor geen voorziening als bedoeld in [artikel 7, eerste lid, onder a, van de Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) is verstrekt;  
+g. reguliere dienstbetrekking: dienstbetrekking waarvoor geen voorziening als bedoeld in artikel 7, eerste lid, onder a, van de Wet werk en bijstand is verstrekt;  
 
-h. gesubsidieerde dienstbetrekking: dienstbetrekking waarvoor een voorziening als bedoeld in [artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand](../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) is verstrekt;  
+h. gesubsidieerde dienstbetrekking: dienstbetrekking waarvoor een voorziening als bedoeld in artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand is verstrekt;  
 
-i. normbetrekking: normbetrekking, bedoeld in [artikel 1, onderdeel e, van het Kaderbesluit rechtspositie PO](../../../../../../../KB/kaderbesluit/rechtspositie/po/BWBR0020315/README.md);  
+i. normbetrekking: normbetrekking, bedoeld in artikel 1, onderdeel e, van het Kaderbesluit rechtspositie PO;  
 
 j. krachtwijken: wijken als bedoeld in de definitieve selectie van wijken, bedoeld in de brief van de Minister voor Wonen, Wijken en Integratie van 31 mei 2007 (Kamerstukken II 2006/07, 30995, nr. 5);  
 
@@ -96,7 +96,7 @@ Op een aanvraag wordt uiterlijk in november 2008 beslist.
 
 ####Criteria verdeling bij subsidieverlening
 
-De Minister verdeelt het beschikbare bedrag, bedoeld in artikel 4, op basis van de volgorde van ontvangst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene Wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, met betrekking tot de verdeling, als datum van ontvangst geldt. 
+De Minister verdeelt het beschikbare bedrag, bedoeld in artikel 4, op basis van de volgorde van ontvangst van de aanvragen, met dien verstande dat wanneer de aanvrager krachtens artikel 4:5 van de Algemene Wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvraag is aangevuld, met betrekking tot de verdeling, als datum van ontvangst geldt. 
 
 ### Artikel  10  
 
@@ -108,7 +108,7 @@ De subsidie wordt verleend voor de schooljaren 2008–2009 tot en met 2014–201
 
 ####Niet vervullen begrotingsvoorwaarde
 
-In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen. 
+In geval van het niet vervullen van de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht, worden de verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen. 
 
 ### Paragraaf  4  
 

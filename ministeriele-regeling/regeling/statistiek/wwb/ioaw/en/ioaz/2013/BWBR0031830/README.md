@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 17 juli 2012, IVV/OOG/2012/11022, houdende regels inzake de verstrekking van statistische gegevens met betrekking tot de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen (Regeling statistiek WWB, IOAW en IOAZ 2013)
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 77 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), [artikel 78, derde lid, van de Wet werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [artikel 55, tweede lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), [artikel 55, tweede lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en [artikel 5, derde lid, van de Wet participatiebudget](../../../../../../../../../wet/wet/participatiebudget/BWBR0025039/README.md);
+Gelet op artikel 77 van de Wet structuur uitvoeringsorganisatie werk en inkomen, artikel 78, derde lid, van de Wet werk en bijstand, artikel 55, tweede lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, artikel 55, tweede lid, van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen en artikel 5, derde lid, van de Wet participatiebudget;
 Besluit:    
 
 ### Artikel  1  
@@ -14,19 +14,19 @@ In deze regeling wordt verstaan onder:
 
 a.  *minister:* Minister van Sociale Zaken en Werkgelegenheid;  
 
-b.  *WWB:* [Wet werk en bijstand](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+b.  *WWB:* Wet werk en bijstand;  
 
-c.  *IOAW:* [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md);  
+c.  *IOAW:* Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;  
 
-d.  *IOAZ:* [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
+d.  *IOAZ:* Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
 
-e.  *WWIK:* [Wet werk en inkomsten kunstenaars](../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md), zoals deze luidde op 31 december 2011;  
+e.  *WWIK:* Wet werk en inkomsten kunstenaars, zoals deze luidde op 31 december 2011;  
 
-f.  *WIJ:* [Wet investeren in jongeren](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md), zoals deze luidde op de dag voor inwerkingtreding van [artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden](../../../../../../../../../wet/wijzigingswet/wet/werk/en/bijstand/enz./(bevordering/deelname/aan/etc/BWBR0030997/README.md) (Stb. 650);  
+f.  *WIJ:* Wet investeren in jongeren, zoals deze luidde op de dag voor inwerkingtreding van artikel II van de Wet van 22 december 2011 tot wijziging van de Wet werk en bijstand en samenvoeging van die wet met de Wet investeren in jongeren gericht op bevordering van deelname aan de arbeidsmarkt en vergroting van de eigen verantwoordelijkheid van uitkeringsgerechtigden (Stb. 650);  
 
-g.  *uitkering:* bijstand, waaronder bijstand als bedoeld in het [Besluit bijstandsverlening zelfstandigen 2004](../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md), of langdurigheidstoeslag op grond van de [WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of de uitkering op grond van de [IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) of [IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md);  
+g.  *uitkering:* bijstand, waaronder bijstand als bedoeld in het Besluit bijstandsverlening zelfstandigen 2004, of langdurigheidstoeslag op grond van de WWB of de uitkering op grond van de IOAW of IOAZ;  
 
-h.  *BBZ:* uitkering aan zelfstandigen op grond van het [Besluit bijstandsverlening zelfstandigen 2004](../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md)  
+h.  *BBZ:* uitkering aan zelfstandigen op grond van het Besluit bijstandsverlening zelfstandigen 2004  
 
 i.  *SVB:* de Sociale verzekeringsbank.   
 
@@ -40,13 +40,13 @@ De minister ontvangt van het college uiterlijk vier weken na afloop van iedere k
 
 ####Statistiek re-integratievoorzieningen gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van de eerste helft van een kalenderjaar en na afloop van de tweede helft van een kalenderjaar overeenkomstig het in bijlage 2 bij deze regeling opgenomen model, gegevens over voorzieningen gericht op arbeidsinschakeling als bedoeld in [artikel 7, eerste lid, onderdeel a, van de WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), [artikel 34, eerste lid, onderdeel a van de IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) en [artikel 34, eerste lid, onderdeel a, van de IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) en over de personen die van die voorziening feitelijk gebruik hebben gemaakt. 
+De minister ontvangt van het college uiterlijk vier weken na afloop van de eerste helft van een kalenderjaar en na afloop van de tweede helft van een kalenderjaar overeenkomstig het in bijlage 2 bij deze regeling opgenomen model, gegevens over voorzieningen gericht op arbeidsinschakeling als bedoeld in artikel 7, eerste lid, onderdeel a, van de WWB, artikel 34, eerste lid, onderdeel a van de IOAZ en artikel 34, eerste lid, onderdeel a, van de IOAW en over de personen die van die voorziening feitelijk gebruik hebben gemaakt. 
 
 ### Artikel  4  
 
 ####Statistiek vorderingen, boeten en sancties gemeenten
 
-De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in bijlage 3 bij deze regeling opgenomen model, gegevens over vorderingen in verband met opgelegde betalings- of aflossingsverplichtingen, over ontvangsten op die vorderingen en gegevens over opgelegde bestuurlijke boeten, sancties en aansprakelijkheidstellingen en gegevens over de personen ten aanzien van wie in het kader van de uitvoering van de [WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), de [IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md), de [IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md), de [WIJ](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) en de [WWIK](../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md) dergelijke verplichtingen, vorderingen, boetes en sancties zijn opgelegd. 
+De minister ontvangt van het college uiterlijk vier weken na afloop van iedere kalendermaand, overeenkomstig het in bijlage 3 bij deze regeling opgenomen model, gegevens over vorderingen in verband met opgelegde betalings- of aflossingsverplichtingen, over ontvangsten op die vorderingen en gegevens over opgelegde bestuurlijke boeten, sancties en aansprakelijkheidstellingen en gegevens over de personen ten aanzien van wie in het kader van de uitvoering van de WWB, de IOAW, de IOAZ, de WIJ en de WWIK dergelijke verplichtingen, vorderingen, boetes en sancties zijn opgelegd. 
 
 ### Artikel  5  
 
@@ -62,15 +62,15 @@ De minister ontvangt van het college uiterlijk vier weken na afloop van iedere k
 
 ####Statistieken door SVB
 
-1.  Ten aanzien van de uitvoering van de taak, bedoeld in [artikel 47a, eerste lid, van de WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) ontvangt de minister van de SVB uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in bijlage 1 en 3 bij deze regeling opgenomen model, gegevens als bedoeld in de artikelen 2 en 4.   
+1.  Ten aanzien van de uitvoering van de taak, bedoeld in artikel 47a, eerste lid, van de WWB ontvangt de minister van de SVB uiterlijk vier weken na afloop van iedere kalendermaand overeenkomstig het in bijlage 1 en 3 bij deze regeling opgenomen model, gegevens als bedoeld in de artikelen 2 en 4.   
 2.  De SVB verstrekt de gegevens, bedoeld in het eerste lid, zonder tussenkomst van het Centraal Bureau voor de Statistiek, maar op de door de directeur-generaal van de statistiek te bepalen wijze, bedoeld in artikel 5, eerste lid, of indien een bewerker is aangewezen als bedoeld in artikel 5 op een door de minister te bepalen wijze.  
 
 ### Artikel  7  
 
 ####Intrekking regeling
 
-1.  De [Regeling statistiek WWB, IOAW en IOAZ](../../../../../../../../../ministeriele-regeling/regeling/statistiek/wwb/ioaw/en/ioaz/BWBR0017194/README.md)wordt ingetrokken.   
-2.  De [Regeling statistiek WWB, IOAW en IOAZ](../../../../../../../../../ministeriele-regeling/regeling/statistiek/wwb/ioaw/en/ioaz/BWBR0017194/README.md) blijft van toepassing op de afwikkeling van de inlichtingen verkregen en nog te verkrijgen op grond van die regeling.  
+1.  De Regeling statistiek WWB, IOAW en IOAZwordt ingetrokken.   
+2.  De Regeling statistiek WWB, IOAW en IOAZ blijft van toepassing op de afwikkeling van de inlichtingen verkregen en nog te verkrijgen op grond van die regeling.  
 
 ### Artikel  8  
 
@@ -112,11 +112,11 @@ GEGEVENS UITKERING
 | --- | --- | --- |
 |:---|:---|:---|
 | 7  | REGISTRATIENUMMER UITKERING  | [abcdefghijklmno]  |
-| 8  | STATISTIEKCODE  [WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) algemene bijstand (inclusief bijstand aan personen met AOW)  [IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md)  [IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md)  WWB, periodiek bijzondere bijstand  WWB, eenmalig bijzondere bijstand (inclusief langdurigheidstoeslag)  [BBZ](../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md)  | 01  02  03  11  12  14  |
+| 8  | STATISTIEKCODE  WWB algemene bijstand (inclusief bijstand aan personen met AOW)  IOAW  IOAZ  WWB, periodiek bijzondere bijstand  WWB, eenmalig bijzondere bijstand (inclusief langdurigheidstoeslag)  BBZ  | 01  02  03  11  12  14  |
 
 | --- | --- | --- |
 |:---|:---|:---|
-| 9  | NADERE CLASSIFICATIE [BBZ](../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md)  zelfstandige, beginnend  zelfstandige, oudere  zelfstandige, beëindigende  zelfstandige, overig  niet van toepassing  | 1  2  3  5  9  |
+| 9  | NADERE CLASSIFICATIE BBZ  zelfstandige, beginnend  zelfstandige, oudere  zelfstandige, beëindigende  zelfstandige, overig  niet van toepassing  | 1  2  3  5  9  |
 | 10  | NORM / GRONDSLAG {‘leefvorm’}   alleenstaande{‘alleenstaande’}   alleenstaande{‘alleenstaande’} ouder  gehuwden en samenwonenden {‘gehuwden’}   anders  | 1  2  3  4  |
 | 11  | BEDRAG BASISNORM / GRONDSLAG (incl. vt){‘landelijkenorm’}   | [1234]  |
 | 12  | BEDRAG AFWIJKING BASISNORM  DOOR GEMEENTELIJK BELEID (incl. vt)  niet van toepassing  | [a1234]  99999  |
@@ -139,9 +139,9 @@ GEGEVENS PERSONEN (invullen voor alle personen met deze uitkering)
 | 23  | HUISVESTING  Huurder  Eigenaar  Inwonend  in inrichting  adresloos  geen vaste woon- of verblijfplaats en niet adresloos  | 1  2  3  4  5  6  |
 | 24  | AANVANGSDATUM UITKERING PERSOON  | [jjjjmmdd]  |
 | 25  | EINDDATUM UITKERING PERSOON  niet beëindigd  | [jjjjmmdd]  00000000  |
-| 26  | ONTHEFFING ARBEIDSVERPLICHTING VAN TOEPASSING  nee  ja, [artikel 9, WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md)  ja, [artikel 9a, WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md)  niet van toepassing  | 2  3  4  9  |
+| 26  | ONTHEFFING ARBEIDSVERPLICHTING VAN TOEPASSING  nee  ja, artikel 9, WWB  ja, artikel 9a, WWB  niet van toepassing  | 2  3  4  9  |
 | 27  | EINDDATUM ONTHEFFING  niet beëindigd  niet van toepassing  | [jjjjmmdd]  00000000  99999999  |
-| 28  | REDEN BEËINDIGING ONTHEFFING OF OPSCHORTING ([art. 9a WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md))  beëindiging wegens niet nakomen verplichtingen plan van aanpak  beëindiging wegens bereiken maximale termijn ontheffing  opschorting wegens bereiken 5-jarige leeftijd jongste kind  opschorting op verzoek van de ouder  overige reden beëindiging  niet van toepassing  | 1  2  3  4  5  9  |
+| 28  | REDEN BEËINDIGING ONTHEFFING OF OPSCHORTING (art. 9a WWB)  beëindiging wegens niet nakomen verplichtingen plan van aanpak  beëindiging wegens bereiken maximale termijn ontheffing  opschorting wegens bereiken 5-jarige leeftijd jongste kind  opschorting op verzoek van de ouder  overige reden beëindiging  niet van toepassing  | 1  2  3  4  5  9  |
 | 29  | OPGELEGDE PLICHT TOT TEGENPRESTATIE  ja  nee  niet van toepassing  | 1  2  9  |
 | 30  | REDEN VERMINDERING N.A.V. AFSTEMMING  op het vlak van plicht tot arbeidsinschakeling  op het vlak van de inlichtingenplicht  agressie  niet nakomen tegenprestatie  niet nakomen verplichtingen plan van aanpak  niet (voldoende) zoeken naar werk in zoekperiode van 4 weken  | 01  02  03  05  06  |
 | --- | niet (voldoende) zoeken naar scholing in zoekperiode van 4 weken  oorzaak bij partner  | --- |
@@ -149,7 +149,7 @@ GEGEVENS PERSONEN (invullen voor alle personen met deze uitkering)
 | 31  | SOORT INKOMSTEN  (deeltijd) arbeid{‘arbeid’} in dienstbetrekking ‘dienstbetrekking’ {‘ziekte’}   Vermogensopbrengsten  Kinderalimentatie  Partneralimentatie  Heffingskortingen  andere inkomsten{‘alimentatie’}   | 11  18  23  24  31  98  |
 | 32  | BEDRAG INKOMSTEN PERSOON, incl. vt  | [a1234]  |
 | 33  | VRIJLATING INKOMSTEN (per inkomstensoort)  ja  nee  | 1  2  |
-| 34  | REDEN BEËINDIGING UITKERING PERSOON  gaan volgen van onderwijs met studiefinanciering  aangaan relatie  bereiken AOW-gerechtigde leeftijd  overlijden  detentie  kunnen volgen van onderwijs maar dit niet doen  overschrijden maximale verblijfsduur buitenland  uit wiens houding en gedragingen duidelijk blijkt dat hij verplichtingen ex. [artikel 9](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) en [artikel 55](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) niet wil nakomen  | 01  02  03  04  05  06  07  08  |
+| 34  | REDEN BEËINDIGING UITKERING PERSOON  gaan volgen van onderwijs met studiefinanciering  aangaan relatie  bereiken AOW-gerechtigde leeftijd  overlijden  detentie  kunnen volgen van onderwijs maar dit niet doen  overschrijden maximale verblijfsduur buitenland  uit wiens houding en gedragingen duidelijk blijkt dat hij verplichtingen ex. artikel 9 en artikel 55 niet wil nakomen  | 01  02  03  04  05  06  07  08  |
 | --- |  *verkregen inkomsten uit:*   arbeid{‘arbeid’} in dienstbetrekking {‘dienstbetrekking’} /uitkering ziekte {‘ziekte’}   zelfstandig beroep of bedrijf  uitkering werkloosheid {‘werkloosheid’}  uitkering arbeid{‘arbeid’}songeschiktheid  alimentatie{‘alimentatie’}   vermogensopbrengsten  ander inkomen  | 11  13  14  15  17  18  19  |
 | --- |  *administratieve redenen*   geen inlichtingen  verhuizing naar andere gemeente  verhuizing naar buitenland  | 31  32  33  34  |
 | --- | niet verschenen op herhaalde oproep inlichtingenplicht  niet verschenen op herhaalde oproep re-integratiegesprek  | 35  |
@@ -251,7 +251,7 @@ GEGEVENS VORDERING
 |:---|:---|:---|
 | 8  | REGISTRATIENUMMER VORDERING  | [123456789012345]  |
 | 9  | DATUM BESLUIT/BESCHIKKING  | [jjjjmmdd]  |
-| 10  | AARD UITKERING  [WWB](../../../../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) algemeen  WWB bijzonder  [WIJ](../../../../../../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md)  [IOAW](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md)  [IOAZ](../../../../../../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md)  [WWIK](../../../../../../../../../wet/wet/werk/en/inkomen/kunstenaars/BWBR0017837/README.md)  [ABW](../../../../../../../../../wet/algemene/bijstandswet/BWBR0007333/README.md)/RWW  [BBZ](../../../../../../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) algemeen  BBZ bijzonder  | 01  02  03  11  12  13  14  15  16  |
+| 10  | AARD UITKERING  WWB algemeen  WWB bijzonder  WIJ  IOAW  IOAZ  WWIK  ABW/RWW  BBZ algemeen  BBZ bijzonder  | 01  02  03  11  12  13  14  15  16  |
 | 11  | ONTSTAANSGROND VORDERING   *Vorderingen beschikt vanaf 01-01-2013*   fraude: verzwijgen witte inkomsten  fraude: verzwijgen zwarte inkomsten  fraude: verzwijgen vermogen en of inkomsten uit vermogen  fraude: onjuiste opgave woonadres  fraude: onjuiste opgave samenstelling huishouden  andere fraude  onverschuldigde betaling  boete wegens fraude  boete niet wegens fraude  lening  krediethypotheek  verhaal op onderhoudsplichtige voor kind  verhaal op onderhoudsplichtige voor ex-partner  rente en incassokosten  overig  | 51  52  53  54  55  56  57  58  59  60  61  62  63  64  65  |
 | --- |  *Vorderingen beschikt vóór 01-01-2013*   onverschuldigd betaald verwijtbaar (oud: 01, 02, 13, 16)  onverschuldigd betaald niet verwijtbaar (oud: 11,12,14, 15),  lening (oud: 31, 32, 33, 35)  | 81  82  83  34  21  84  85  |
 | --- | krediethypotheek (oud: 34)  alimentatie/onderhoudsbijdrage kind, (ex)partner (oud: 21)  rente en incassokosten (oud: 43, 44)  overig (oud: 22, 49)  | --- |

@@ -3,17 +3,17 @@
 ##Verordening van het Productschap Zuivel van 29 oktober 2008, houdende vaststelling van de administratieve heffingen (Zuivelverordening 2009 administratieve heffingen)
 
 Het bestuur van het Productschap Zuivel;  
-Gelet op [artikel 126 van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [artikel 7 van het Instellingsbesluit Productschap Zuivel](../../../../../../AMvB/instellingsbesluit/productschap/zuivel/BWBR0015162/README.md);
+Gelet op artikel 126 van de Wet op de bedrijfsorganisatie en artikel 7 van het Instellingsbesluit Productschap Zuivel;
 
 Besluit:    
 
 ### Artikel  1  
 
-In deze verordening wordt gebezigd de terminologie van de [Zuivelverordening 2003, Administratieve bepalingen](../../../../../../pbo/zuivelverordening/2003/administratieve/bepalingen/BWBR0014245/README.md) en wordt voorts dan wel in afwijking daarvan verstaan onder:geitenmelk : in Nederland gewonnen melk van geiten;melk : in Nederland gewonnen melk van runderen;melkgeitenhouder : de ondernemer die bedrijfsmatig melkgeiten houdt;melkveehouder : de ondernemer die bedrijfsmatig melkkoeien houdt;ontvanger van (geiten)melk : de natuurlijke of rechtspersoon die bedrijfsmatig (geiten)melk ontvangt van één of meer melkveehouders of melkgeitenhouders.
+In deze verordening wordt gebezigd de terminologie van de Zuivelverordening 2003, Administratieve bepalingen en wordt voorts dan wel in afwijking daarvan verstaan onder:geitenmelk : in Nederland gewonnen melk van geiten;melk : in Nederland gewonnen melk van runderen;melkgeitenhouder : de ondernemer die bedrijfsmatig melkgeiten houdt;melkveehouder : de ondernemer die bedrijfsmatig melkkoeien houdt;ontvanger van (geiten)melk : de natuurlijke of rechtspersoon die bedrijfsmatig (geiten)melk ontvangt van één of meer melkveehouders of melkgeitenhouders.
 
 ### Artikel  2  
 
-1.  Ontvangers van melk zijn ten behoeve van de huishoudelijke uitgaven van het productschap aan het productschap over de door hen ontvangen hoeveelheden melk een heffing verschuldigd van € 0,04 per 100 kg melk. Met ingang van 1 januari 2014 bedraagt de heffing € 0,02 per 100 kg melk.   
+1.  Ontvangers van melk zijn ten behoeve van de huishoudelijke uitgaven van het productschap aan het productschap over de door hen ontvangen hoeveelheden melk een heffing verschuldigd van € 0,04 per 100 kg melk. Met ingang van 1 januari 2014 bedraagt de heffing € 0,02 per 100 kg melk en met ingang 1 juli 2014 € 0,00 per 100 kg melk.   
 2.  In afwijking van het bepaalde in lid 1 zijn ontvangers van melk de daar vermelde heffing niet verschuldigd over de hoeveelheden door hen ontvangen melk, waarvan zij ten genoegen van het productschap aantonen, dat daarover die heffing reeds aan het productschap is betaald.   
 3.  In afwijking van het bepaalde in lid 1 bedraagt de daar vermelde heffing voor de periode 1 januari 2009 tot en met 31 december 2009 € 0,03 per 100 kg melk.  
 

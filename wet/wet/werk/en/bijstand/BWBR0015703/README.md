@@ -623,7 +623,7 @@ d. gehuwden waarvan een echtgenoot de pensioengerechtigde leeftijd heeft bereikt
 
 Treedt in werking per 01-01-2015 
 
-1.  Indien de belanghebbende met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft, is de norm per kalendermaand voor de belanghebbende: ![253949](http://wetten.overheid.nl/Illustration/253949)
+1.  Indien de belanghebbende met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft, is de norm per kalendermaand voor de belanghebbende: ![254404](http://wetten.overheid.nl/Illustration/254404)
 Hierbij staat: 
 
 * A voor het totaal aantal meerderjarige personen dat in dezelfde woning zijn hoofdverblijf heeft; en  

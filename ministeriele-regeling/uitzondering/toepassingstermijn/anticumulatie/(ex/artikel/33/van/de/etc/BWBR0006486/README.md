@@ -3,7 +3,7 @@
 ##Uitzondering toepassingstermijn anticumulatie (ex artikel 33 van de Algemene Arbeidsongeschiktheidswet)
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
-Gelet op artikel 33, vijfde lid, van de Algemene Arbeidsongeschiktheidswet en [artikel 44, vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md);
+Gelet op artikel 33, vijfde lid, van de Algemene Arbeidsongeschiktheidswet en artikel 44, vijfde lid, van de Wet op de arbeidsongeschiktheidsverzekering;
 
 Gehoord de Sociale Verzekeringsraad;
 Besluit:    
@@ -12,9 +12,9 @@ Besluit:
 
 Ten aanzien van de persoon, die recht heeft op een arbeidsongeschiktheidsuitkering en: 
 
-a. inkomen geniet wegens het verrichten van werkzaamheden als lid van de Eerste Kamer der Staten-Generaal, van een vertegenwoordigend orgaan van een publiekrechtelijk lichaam dat bij rechtstreekse verkiezingen wordt samengesteld of van een algemeen bestuur van een waterschap zijn [artikel 44, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), [artikel 58, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../../../../../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md) en [artikel 3:48, eerste lid, van de Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../../../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) voor onbeperkte duur van toepassing en is [artikel 52, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) niet van toepassing;  
+a. inkomen geniet wegens het verrichten van werkzaamheden als lid van de Eerste Kamer der Staten-Generaal, van een vertegenwoordigend orgaan van een publiekrechtelijk lichaam dat bij rechtstreekse verkiezingen wordt samengesteld of van een algemeen bestuur van een waterschap zijn artikel 44, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering, artikel 58, eerste lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en artikel 3:48, eerste lid, van de Wet werk en arbeidsondersteuning jonggehandicapten voor onbeperkte duur van toepassing en is artikel 52, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen niet van toepassing;  
 
-b. inkomen geniet, dat bestaat uit loon op grond van een arbeidsovereenkomst als bedoeld in de [hoofdstukken 2](../../../../../../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md) en [3 van de Wet sociale werkvoorziening](../../../../../../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md), is [artikel 52, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), niet van toepassing.   
+b. inkomen geniet, dat bestaat uit loon op grond van een arbeidsovereenkomst als bedoeld in de hoofdstukken 2 en 3 van de Wet sociale werkvoorziening, is artikel 52, tweede lid, van de Wet werk en inkomen naar arbeidsvermogen, niet van toepassing.   
 
 ### Artikel  2  
 

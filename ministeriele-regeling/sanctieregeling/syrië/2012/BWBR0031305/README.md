@@ -9,7 +9,7 @@ Gelet op Verordening (EU) nr. 36/2012 van de Raad van de Europese Unie van 18 j
 
 Gelet op Besluit 2011/782/GBVB van de Raad van de Europese Unie van 1 december 2011 betreffende beperkende maatregelen tegen Syrië en houdende intrekking van Besluit 2011/273/GBVB (Pb L 319);
 
-Gelet op [artikel 2, tweede lid](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), en [artikel 3 van de Sanctiewet 1977](../../../../../wet/sanctiewet/1977/BWBR0003296/README.md);
+Gelet op artikel 2, tweede lid, en artikel 3 van de Sanctiewet 1977;
 Besluit:    
 
 ### Artikel  1  
@@ -23,12 +23,12 @@ De bevoegde autoriteit in de artikelen 2bis, tweede lid en derde lid, 3, derde t
 
 ### Artikel  3  
 
-1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de [Uitvoeringsregeling strategische goederen 2012](../../../../../ministeriele-regeling/uitvoeringsregeling/strategische/goederen/2012/BWBR0030610/README.md), dan wel onderdelen daarvan, direct of indirect te kopen, in te voeren of te vervoeren in geval de goederen afkomstig zijn uit Syrië of van oorsprong uit Syrië.
+1. Het is verboden om militaire goederen, alsmede militaire technologie, aangewezen in de Uitvoeringsregeling strategische goederen 2012, dan wel onderdelen daarvan, direct of indirect te kopen, in te voeren of te vervoeren in geval de goederen afkomstig zijn uit Syrië of van oorsprong uit Syrië.
 2. Het eerste lid is niet van toepassing in geval de invoer of vervoer van chemische wapens of gerelateerd materiaal plaatsvindt overeenkomstig punt 10 van Resolutie 2118 (2013) van de Veiligheidsraad van de Verenigde Naties en de desbetreffende besluiten van de Uitvoerende Raad van de OPCW, conform de doelstelling van het Verdrag inzake chemische wapens.
 
 ### Artikel  4  
 
-De [Sanctieregeling Syrië 2011](../../../../../ministeriele-regeling/sanctieregeling/syrië/2011/BWBR0030056/README.md) wordt ingetrokken. 
+De Sanctieregeling Syrië 2011 wordt ingetrokken. 
 
 ### Artikel  5  
 

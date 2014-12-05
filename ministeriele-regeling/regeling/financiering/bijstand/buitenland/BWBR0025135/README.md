@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 23 december 2008, nr. W&B/BP&C/08/36054, houdende regels voor de financiering van de verlening van bijstand in het buitenland (Regeling financiering bijstand buitenland)
 
 De Staatssecretaris van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 121a van de Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md);
+Gelet op artikel 121a van de Wet financiering sociale verzekeringen;
 Besluit:    
 
 ### Artikel  1  
@@ -14,15 +14,15 @@ In deze regeling wordt verstaan onder:
 
 a.  *de minister:* de Minister van Sociale Zaken en Werkgelegenheid;  
 
-b.  *WWB:* [Wet werk en bijstand](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+b.  *WWB:* Wet werk en bijstand;  
 
-c.  *SVB:* de Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+c.  *SVB:* de Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
 d.  *valutadag:* de op de rekening-courantafschriften aangegeven dag van betaling;  
 
-e.  *bijstandskosten:* de kosten van bijstand die verleend wordt op grond van [artikel 78h van de WWB](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md);  
+e.  *bijstandskosten:* de kosten van bijstand die verleend wordt op grond van artikel 78h van de WWB;  
 
-f.  *uitvoeringskosten:* de kosten verbonden aan de uitvoering van de verlening van bijstand op grond van [artikel 78h van de WWB](../../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md).   
+f.  *uitvoeringskosten:* de kosten verbonden aan de uitvoering van de verlening van bijstand op grond van artikel 78h van de WWB.   
 
 ### Artikel  2  
 
@@ -34,7 +34,7 @@ Voor 1 oktober van elk jaar verstrekt de SVB aan de minister in het jaarplan met
 
 ####Betaling voorschot
 
-1.  De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onderdeel a, van de Regeling Wfsv](../../../../../../ministeriele-regeling/regeling/wfsv/BWBR0019150/README.md), een periodiek voorschot op het bedrag, bedoeld in artikel 2, van: 
+1.  De minister stort op de rekening-courant, bedoeld in artikel 5.16, onderdeel a, van de Regeling Wfsv, een periodiek voorschot op het bedrag, bedoeld in artikel 2, van: 
 
 a. geraamde bijstandskosten met als valutadag de tweeëntwintigste dag van elke maand, en  
 
@@ -45,8 +45,8 @@ b. 1/12<sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum 
 
 ####Afrekening
 
-1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 3, eerste lid, uitgesplitst naar bijstandskosten en uitvoeringskosten met betrekking tot deze regeling opgenomen.   
-2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
+1.  In de jaarrekening, bedoeld in artikel 49 van de Wet SUWI, worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 3, eerste lid, uitgesplitst naar bijstandskosten en uitvoeringskosten met betrekking tot deze regeling opgenomen.   
+2.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
 
 ### Artikel  7  
 

@@ -37,7 +37,7 @@ Het is een ieder verboden wapens, uitrusting of verspreidingsmiddelen te ontwikk
 
 ### Artikel  5  
 
-De in de artikelen 2 en 3 bedoelde agentia, de in artikel 4 bedoelde voorwerpen, alsmede de in [artikel 7, onder e, van de Wet op de economische delicten](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) bedoelde voorwerpen worden steeds verbeurd of aan het verkeer onttrokken verklaard. Voor het overige zijn de [artikelen 33-35](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [36a-36c van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of de artikelen 35 tot en met 36, 37, 38a tot en met 38c van het Wetboek van Strafrecht BES van toepassing.  
+De in de artikelen 2 en 3 bedoelde agentia, de in artikel 4 bedoelde voorwerpen, alsmede de in artikel 7, onder e, van de Wet op de economische delicten bedoelde voorwerpen worden steeds verbeurd of aan het verkeer onttrokken verklaard. Voor het overige zijn de artikelen 33-35 en 36a-36c van het Wetboek van Strafrecht of de artikelen 35 tot en met 36, 37, 38a tot en met 38c van het Wetboek van Strafrecht BES van toepassing.  
 
 ### Artikel  7  
 
@@ -53,7 +53,7 @@ b. hij die een voorschrift overtreedt, gesteld bij of krachtens de artikelen 2, 
 
 c. hij die een voorschrift overtreedt, gesteld bij of krachtens de artikelen 2, eerste en derde lid, 3 en 4, als schuldig aan een misdrijf wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie, indien het feit opzettelijk is begaan met een terroristisch oogmerk als bedoeld in artikel 84b van het Wetboek van Strafrecht BES, dan wel met het oogmerk om een terroristisch misdrijf als bedoeld in artikel 84a van dat wetboek voor te bereiden of gemakkelijk te maken;  
 
-d. in afwijking van artikel 5 in plaats van de in [artikel 7, onder e, van de Wet op de economische delicten](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) bedoelde voorwerpen worden bedoeld de voorwerpen die behoren tot de onderneming van degene die overeenkomstig deze wet is veroordeeld en voor zover deze voorwerpen soortgelijk zijn aan en met betrekking tot het delict verband houden met die, genoemd in artikel 35 van het Wetboek van Strafrecht BES.  
+d. in afwijking van artikel 5 in plaats van de in artikel 7, onder e, van de Wet op de economische delicten bedoelde voorwerpen worden bedoeld de voorwerpen die behoren tot de onderneming van degene die overeenkomstig deze wet is veroordeeld en voor zover deze voorwerpen soortgelijk zijn aan en met betrekking tot het delict verband houden met die, genoemd in artikel 35 van het Wetboek van Strafrecht BES.  
 
 e. in afwijking van artikel 1, tweede lid: 
 

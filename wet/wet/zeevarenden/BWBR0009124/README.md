@@ -40,7 +40,7 @@ j. opvarende: een ieder die zich gedurende de vaart aan boord van het schip bevi
 
 k. bemanning: de kapitein, de scheepsofficieren, de scheepsgezellen, en de overige zeevarenden die in de monsterrol worden genoemd; 
 
-l. scheepsbeheerder: de eigenaar of de rompbevrachter van een schip, of een vennootschap als bedoeld in [artikel 311, derde lid, van het Wetboek van Koophandel](../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) aan wie de eigenaar de verantwoordelijkheid voor de exploitatie van het schip heeft overgedragen, of indien het een vissersvaartuig betreft, de natuurlijke persoon of rechtspersoon aan wie de eigenaar de verantwoordelijkheid voor de exploitatie van het vissersvaartuig heeft overgedragen; 
+l. scheepsbeheerder: de eigenaar of de rompbevrachter van een schip, of een vennootschap als bedoeld in artikel 311, derde lid, van het Wetboek van Koophandel aan wie de eigenaar de verantwoordelijkheid voor de exploitatie van het schip heeft overgedragen, of indien het een vissersvaartuig betreft, de natuurlijke persoon of rechtspersoon aan wie de eigenaar de verantwoordelijkheid voor de exploitatie van het vissersvaartuig heeft overgedragen; 
 
 m. de ambtenaren van de Inspectie Leefomgeving en Transport: de door Onze Minister aangewezen ambtenaren van de Inspectie Leefomgeving en Transport; 
 
@@ -58,9 +58,9 @@ s. geneeskundige verklaring van geschiktheid voor de zeevaart: een verklaring al
 
 t. tuchtcollege: het tuchtcollege voor de scheepvaart als bedoeld in artikel 55a, tweede lid; 
 
-u. verwerking van persoonsgegevens: hetgeen daaronder wordt verstaan in de [Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md); 
+u. verwerking van persoonsgegevens: hetgeen daaronder wordt verstaan in de Wet bescherming persoonsgegevens; 
 
-v. verantwoordelijke: hetgeen daaronder wordt verstaan in de [Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md); 
+v. verantwoordelijke: hetgeen daaronder wordt verstaan in de Wet bescherming persoonsgegevens; 
 
 w.bekwaamheidsbewijs: elk geldig document, niet zijnde een vaarbevoegdheidsbewijs, afgegeven aan een zeevarende, waarin wordt verklaard dat door deze wordt voldaan aan een of meer beroepsvereisten.
 
@@ -94,7 +94,7 @@ ak.  *GT:* de maateenheid brutotonnage waarin de totale inhoud van een schip, va
 
 al.  *schipper:* de kapitein van een vissersvaartuig;  
 
-am.  *Caribisch-Nederlands schip:* een schip dat op grond van de [Vaartuigenwet 1930 BES](../../../../wet-BES/vaartuigenwet/1930/bes/BWBR0028292/README.md) is geregistreerd in de openbare lichamen Bonaire, Sint Eustatius of Saba.   
+am.  *Caribisch-Nederlands schip:* een schip dat op grond van de Vaartuigenwet 1930 BES is geregistreerd in de openbare lichamen Bonaire, Sint Eustatius of Saba.   
 2.  Bij regeling van Onze Minister kunnen, na overleg met de betrokken organisaties van scheepsbeheerders en zeevarenden, categorieën van personen worden aangewezen die in afwijking van het eerste lid, onderdeel z, niet worden aangemerkt als zeevarenden. 
 
 ### Artikel  2  
@@ -304,7 +304,7 @@ a. voor de verkrijging van de vaarbevoegdheden, genoemd in artikel 18, tweede li
 4°. de wijze waarop wordt beoordeeld of wordt voldaan aan de onder ten 1° en ten 2° bedoelde eisen;     
 
 b. de geldigheidsduur van het vaarbevoegdheidsbewijs, alsmede de wijze van eerste afgifte, vervanging of vernieuwing van het vaarbevoegdheidsbewijs geregeld.      
-2.  Aan de voor de afgifte van een vaarbevoegdheidsbewijs benodigde beroepsvereisten kan worden voldaan door het met goed gevolg hebben afgelegd van het afsluitend examen van een aan een op grond van de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) bekostigde hogeschool of rechtspersoon hoger onderwijs verbonden opleiding voor een nautisch beroep dan wel het met goed gevolg hebben afgelegd van het examen van een nautische beroepsopleiding waarvoor op grond van de [Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) een kwalificatiedossier is, of eindtermen zijn vastgesteld.  
+2.  Aan de voor de afgifte van een vaarbevoegdheidsbewijs benodigde beroepsvereisten kan worden voldaan door het met goed gevolg hebben afgelegd van het afsluitend examen van een aan een op grond van de Wet op het hoger onderwijs en wetenschappelijk onderzoek bekostigde hogeschool of rechtspersoon hoger onderwijs verbonden opleiding voor een nautisch beroep dan wel het met goed gevolg hebben afgelegd van het examen van een nautische beroepsopleiding waarvoor op grond van de Wet educatie en beroepsonderwijs een kwalificatiedossier is, of eindtermen zijn vastgesteld.  
 
 ### Artikel  19a  
 
@@ -349,7 +349,7 @@ Bij ministeriële regeling kan worden bepaald voor welke functies of werkzaamhed
 
 1.  Bij algemene maatregel van bestuur worden de criteria vastgesteld met inachtneming waarvan Onze Minister vaarbevoegdheidsbewijzen of bekwaamheidsbewijzen erkent die zijn afgegeven door een bevoegde autoriteit van een staat, niet zijnde een lid-staat van de Europese Unie, een andere staat die partij is bij de overeenkomst betreffende de Europese Economische Ruimte of Zwitserland.    
 2.  Aan de houder van een geldig vaarbevoegdheidsbewijs of bekwaamheidsbewijs dat ingevolge het eerste lid is erkend, wordt, indien hij ook overigens voldoet aan de eisen gesteld ingevolge artikel 19, eerste lid, aanhef en onderdeel a, ten 2° en ten 3°, en hij dienst gaat doen op een Nederlands schip, een vaarbevoegdheidsbewijs afgegeven, waarop een officiële verklaring is opgenomen dat dit vaarbevoegdheidsbewijs is afgegeven op grond van een erkend vaarbevoegdheidsbewijs.    
-3.  Een erkenning van beroepskwalificaties als bedoeld in [artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) voor een beroep waarvoor de vaarbevoegdheden genoemd in artikel 18, tweede lid, onderdelen i en j, geldig zijn, wordt met een erkend vaarbevoegdheidsbewijs of bekwaamheidsbewijs als bedoeld in het tweede lid gelijkgesteld.    
+3.  Een erkenning van beroepskwalificaties als bedoeld in artikel 5 van de Algemene wet erkenning EG-beroepskwalificaties voor een beroep waarvoor de vaarbevoegdheden genoemd in artikel 18, tweede lid, onderdelen i en j, geldig zijn, wordt met een erkend vaarbevoegdheidsbewijs of bekwaamheidsbewijs als bedoeld in het tweede lid gelijkgesteld.    
 4.  Bij ministeriële regeling worden regels gesteld met betrekking tot de afgifte van het vaarbevoegdheidsbewijs.   
 5.  Bij ministeriële regeling wordt bepaald welke bescheiden worden overgelegd bij de aanvraag voor een vaarbevoegdheidsbewijs als bedoeld in het tweede lid.    
 6.  Het tweede lid is niet van toepassing op gezellen. 
@@ -627,7 +627,7 @@ De scheepsbeheerder draagt zorg voor behoorlijke en veilige huisvesting en recre
 ### Artikel  48a  
 
 1.  De scheepsbeheerder voorziet de zeevarenden aan boord van een schip kosteloos van voeding en drinkwater van voldoende hoeveelheid, kwaliteit, voedingswaarde en variëteit en rekening houdend met godsdienstige voorschriften en culturele gebruiken, in overeenstemming met de daaraan bij ministeriële regeling gestelde eisen.   
-2.  De maximale hoeveelheid sterke drank als bedoeld in [artikel 1, eerste lid, van de Drank- en Horecawet](../../../../wet/drank-/en/horecawet/BWBR0002458/README.md) die voor verbruik door de zeevarenden aan boord beschikbaar is, wordt vastgesteld bij ministeriële regeling.   
+2.  De maximale hoeveelheid sterke drank als bedoeld in artikel 1, eerste lid, van de Drank- en Horecawet die voor verbruik door de zeevarenden aan boord beschikbaar is, wordt vastgesteld bij ministeriële regeling.   
 3.  De voorraden voedsel en drinkwater en de ruimten en apparatuur voor de opslag, bewerking en bereiding van voedsel en drinkwater, worden regelmatig door of namens de kapitein geïnspecteerd overeenkomstig bij ministeriële regeling gestelde regels.   
 4.  Degene die aan boord tot taak heeft de voeding voor de zeevarenden te beheren en te bereiden, voldoet aan de bij of krachtens algemene maatregel van bestuur gestelde eisen.   
 5.  Het eerste tot en met derde lid zijn niet van toepassing op vissersvaartuigen.  
@@ -647,7 +647,7 @@ De scheepsbeheerder draagt zorg voor behoorlijke en veilige huisvesting en recre
 
 1.  Onze Minister geeft voor een schip van 500 GT of meer dat internationale reizen maakt, op aanvraag een certificaat maritieme arbeid en een verklaring naleving maritieme arbeid af, indien de door de scheepsbeheerder opgestelde verklaring naleving maritieme arbeid deel II voldoet aan het bepaalde krachtens artikel 48b en na onderzoek blijkt dat voor het desbetreffende schip wordt voldaan aan de eisen, bedoeld in Aanhangsel A5-1 van het Maritiem Arbeidsverdrag met betrekking tot: 
 
-a. minimumleeftijd gesteld bij of krachtens de[ Arbeidstijdenwet;](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md)  
+a. minimumleeftijd gesteld bij of krachtens de Arbeidstijdenwet;  
 
 b. geneeskundige verklaringen gesteld bij of krachtens hoofdstuk 4, paragraaf 2;  
 
@@ -655,19 +655,19 @@ c. de kwalificaties van zeevarenden gesteld bij of krachtens hoofdstuk 2, paragr
 
 d. arbeidsovereenkomsten gesteld bij artikel 69d, eerste lid;  
 
-e. arbeidsbemiddeling en het ter beschikking stellen van arbeidskrachten gesteld bij of krachtens de [hoofdstukken 2](../../../../wet/wet/allocatie/arbeidskrachten/door/intermediairs/BWBR0009616/README.md) en [3 van de Wet allocatie arbeidskrachten door intermediairs](../../../../wet/wet/allocatie/arbeidskrachten/door/intermediairs/BWBR0009616/README.md);  
+e. arbeidsbemiddeling en het ter beschikking stellen van arbeidskrachten gesteld bij of krachtens de hoofdstukken 2 en 3 van de Wet allocatie arbeidskrachten door intermediairs;  
 
-f. arbeids- en rusttijden gesteld bij [paragraaf 5.2](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en krachtens [artikel 5:12, tweede lid van de Arbeidstijdenwet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md);  
+f. arbeids- en rusttijden gesteld bij paragraaf 5.2 en krachtens artikel 5:12, tweede lid van de Arbeidstijdenwet;  
 
 g. bemanningssamenstelling gesteld bij of krachtens hoofdstuk 2, paragrafen 1 en 2;  
 
-h. huisvesting en voorzieningen voor zeevarenden aan boord van een schip gesteld krachtens artikel 48 van deze wet dan wel [artikel 407 van het Wetboek van Koophandel](../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) in samenhang met [artikel XII van de wet van 6 juli 2011, houdende implementatie van het op 23 februari 2006 te Genève tot stand gekomen Maritiem Arbeidsverdrag (Trb. 2007, 93)](../../../../wet/wet/implementatie/maritiem/arbeidsverdrag/BWBR0030386/README.md) (Stb. 2011, 394);  
+h. huisvesting en voorzieningen voor zeevarenden aan boord van een schip gesteld krachtens artikel 48 van deze wet dan wel artikel 407 van het Wetboek van Koophandel in samenhang met artikel XII van de wet van 6 juli 2011, houdende implementatie van het op 23 februari 2006 te Genève tot stand gekomen Maritiem Arbeidsverdrag (Trb. 2007, 93) (Stb. 2011, 394);  
 
 i. voeding en drinkwater, gesteld krachtens artikel 48a;  
 
-j. gezondheid, veiligheid en ongevallenpreventie gesteld bij of krachtens de [artikelen 3, vierde lid](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [5](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [6](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [8](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), [12](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [16 van de Arbeidsomstandighedenwet](../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md), de [artikelen 3](../../../../rijkswet/schepenwet/BWBR0001876/README.md), [3a](../../../../rijkswet/schepenwet/BWBR0001876/README.md), [4](../../../../rijkswet/schepenwet/BWBR0001876/README.md) en [9 van de Schepenwet](../../../../rijkswet/schepenwet/BWBR0001876/README.md) en krachtens artikel 64;  
+j. gezondheid, veiligheid en ongevallenpreventie gesteld bij of krachtens de artikelen 3, vierde lid, 5, 6, 8, 12 en 16 van de Arbeidsomstandighedenwet, de artikelen 3, 3a, 4 en 9 van de Schepenwet en krachtens artikel 64;  
 
-k. medische zorg aan boord gesteld bij of krachtens de [artikelen 4, eerste lid, onderdeel b en tweede lid](../../../../rijkswet/schepenwet/BWBR0001876/README.md), en [9, eerste lid, van de Schepenwet](../../../../rijkswet/schepenwet/BWBR0001876/README.md);  
+k. medische zorg aan boord gesteld bij of krachtens de artikelen 4, eerste lid, onderdeel b en tweede lid, en 9, eerste lid, van de Schepenwet;  
 
 l. klachtenprocedures aan boord gesteld bij of krachtens artikel 69a; en  
 
@@ -751,7 +751,7 @@ d. geen certificaat maritieme arbeid is afgegeven of het certificaat maritieme a
 e. er sprake is van een ernstige of herhaalde schending van het Maritiem Arbeidsverdrag; of  
 
 f. er ernstig gevaar bestaat voor de veiligheid, gezondheid of beveiliging van de zeevarenden.    
-2.  De ambtenaar van de Inspectie Leefomgeving en Transport is eveneens bevoegd een schip aan te houden, indien de toezichthouder dan wel de inspecteur, bedoeld in [artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) de toegang tot het schip wordt geweigerd of indien geen medewerking aan diens onderzoek wordt gegeven.    
+2.  De ambtenaar van de Inspectie Leefomgeving en Transport is eveneens bevoegd een schip aan te houden, indien de toezichthouder dan wel de inspecteur, bedoeld in artikel 1:3, eerste lid, onderdeel c, van de Algemene douanewet de toegang tot het schip wordt geweigerd of indien geen medewerking aan diens onderzoek wordt gegeven.    
 3.  De aanhouding wordt opgeheven, zodra de reden voor de aanhouding is komen te vervallen.   
 
 ### Artikel  53  
@@ -768,7 +768,7 @@ Onze Minister kan de aan de toezichthouder toekomende bevoegdheden beperken.
 
 Met het opsporen van feiten, die bij of krachtens deze wet strafbaar zijn gesteld, zijn belast:  
 
-a. de bij of krachtens [artikel 141 Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen personen;   
+a. de bij of krachtens artikel 141 Wetboek van Strafvordering aangewezen personen;   
 
 b. de ambtenaren van de Inspectie Leefomgeving en Transport.    
 
@@ -795,9 +795,9 @@ b. de ambtenaren van de Inspectie Leefomgeving en Transport.
 1.  Het tuchtcollege bestaat uit een voorzitter, twee plaatsvervangende voorzitters, twaalf leden en twintig plaatsvervangende leden. Zij worden door Onze Minister benoemd voor een periode van vier jaren en zijn terstond herbenoembaar.   
 2.  De voorzitter en de twee plaatsvervangende voorzitters zijn personen 
 
-a.aan wie op grond van het afsluitend examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit, waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betrekking heeft, de graad van Bachelor op het gebied van het recht en tevens de graad van Master op het gebied van het recht is verleend, of
+a.aan wie op grond van het afsluitend examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit, waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, de graad van Bachelor op het gebied van het recht en tevens de graad van Master op het gebied van het recht is verleend, of
 
-b.die op grond van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit, waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betrekking heeft, het recht hebben verkregen om de titel meester te voeren.   
+b.die op grond van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit, waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het recht hebben verkregen om de titel meester te voeren.   
 3.  Acht leden en acht plaatsvervangende leden hebben gedurende de aan hun benoeming voorafgaande periode van tien jaren ten minste vijf jaren als kapitein of als scheepsofficier aan boord van een ander schip dan een vissersvaartuig gevaren.   
 4.  Vier leden en vier plaatsvervangende leden hebben gedurende de aan hun benoeming voorafgaande periode van tien jaren ten minste vijf jaren als schipper of als scheepsofficier aan boord van een vissersvaartuig gevaren.   
 5.  Voorts worden als plaatsvervangend lid benoemd: 
@@ -818,12 +818,12 @@ d.twee hydrografen.
 
 ### Artikel  55d  
 
-1.  Het voor de leden van de rechterlijke macht bepaalde in de [artikelen 46c, tweede lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46d, tweede lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46f](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46g, eerste en tweede lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46i, eerste lid, aanhef en onderdelen a en b, en tweede lid](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46l, eerste lid, aanhef en onderdeel a](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46m](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md), [46o](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) en [46p, eerste tot en met vijfde lid, van de Wet rechtspositie rechterlijke ambtenaren](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md) is van overeenkomstige toepassing ten aanzien van de voorzitter, de plaatsvervangende voorzitters, de leden en de plaatsvervangende leden van het tuchtcollege.   
-2.  De [artikelen 13a](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [13b, uitgezonderd het eerste lid, onderdelen b en c, en vierde lid](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), en [13c tot en met 13g van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) zijn van overeenkomstige toepassing ten aanzien van gedragingen van de voorzitter, de plaatsvervangende voorzitters, de leden en de plaatsvervangende leden van het tuchtcollege, met dien verstande dat: 
+1.  Het voor de leden van de rechterlijke macht bepaalde in de artikelen 46c, tweede lid, 46d, tweede lid, 46f, 46g, eerste en tweede lid, 46i, eerste lid, aanhef en onderdelen a en b, en tweede lid, 46l, eerste lid, aanhef en onderdeel a, 46m, 46o en 46p, eerste tot en met vijfde lid, van de Wet rechtspositie rechterlijke ambtenaren is van overeenkomstige toepassing ten aanzien van de voorzitter, de plaatsvervangende voorzitters, de leden en de plaatsvervangende leden van het tuchtcollege.   
+2.  De artikelen 13a, 13b, uitgezonderd het eerste lid, onderdelen b en c, en vierde lid, en 13c tot en met 13g van de Wet op de rechterlijke organisatie zijn van overeenkomstige toepassing ten aanzien van gedragingen van de voorzitter, de plaatsvervangende voorzitters, de leden en de plaatsvervangende leden van het tuchtcollege, met dien verstande dat: 
 
 a. voor de overeenkomstige toepassing van die artikelen onder «het betrokken gerechtsbestuur» wordt verstaan: de voorzitter van het tuchtcollege; en  
 
-b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in [artikel 13a](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.   
+b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in artikel 13a, te voldoen, indien de verzoeker redelijkerwijs onvoldoende belang heeft bij een onderzoek als bedoeld in datzelfde artikel.   
 
 ###Artikel 55e 
 
@@ -833,9 +833,9 @@ De voorzitter, de plaatsvervangende voorzitters, de leden en de plaatsvervangend
 
 1.  Het tuchtcollege heeft een secretaris en een plaatsvervangend secretaris 
 
-a.aan wie op grond van het afsluitend examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit, waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betrekking heeft, de graad van Bachelor op het gebied van het recht en tevens de graad van Master op het gebied van het recht is verleend, of
+a.aan wie op grond van het afsluitend examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit, waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, de graad van Bachelor op het gebied van het recht en tevens de graad van Master op het gebied van het recht is verleend, of
 
-b.die op grond van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit, waarop de [Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) betrekking heeft, het recht heeft verkregen om de titel meester te voeren.   
+b.die op grond van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit, waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het recht heeft verkregen om de titel meester te voeren.   
 2.  De secretaris en de plaatsvervangend secretaris worden door Onze Minister benoemd, geschorst en ontslagen.  
 
 ###Artikel 55g 
@@ -914,7 +914,7 @@ b.de vier leden, bedoeld in artikel 55b, vierde lid, indien het verzoek of de kl
 
 1.  De voorzitter bepaalt het tijdstip voor de mondelinge behandeling van de zaak ter zitting. De secretaris roept degene die het verzoek of de klacht heeft ingediend en de betrokken kapitein of scheepsofficier ten minste vier weken van tevoren bij zowel aangetekende brief als niet-aangetekende brief op voor de zitting. De betrokken kapitein of scheepsofficier is verplicht aan de oproeping gevolg te geven.   
 2.  Indien de betrokken kapitein of scheepsofficier op de oproeping niet ter zitting verschijnt, kan het tuchtcollege de zaak ter zitting bij verstek behandelen of de officier van justitie verzoeken de betrokkene te dagvaarden. Hij is verplicht na dagvaarding te verschijnen.   
-3.  Indien de betrokken kapitein of scheepsofficier op de dagvaarding niet ter zitting verschijnt, kan het tuchtcollege de officier van justitie verzoeken de betrokkene te dagvaarden, met bevel tot medebrenging. [Artikel 556 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+3.  Indien de betrokken kapitein of scheepsofficier op de dagvaarding niet ter zitting verschijnt, kan het tuchtcollege de officier van justitie verzoeken de betrokkene te dagvaarden, met bevel tot medebrenging. Artikel 556 van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 4.  Het tuchtcollege is bevoegd tot verlening van verstek indien de betrokken kapitein of scheepsofficier geen gevolg heeft gegeven aan de in het eerste lid bedoelde oproep.  
 5.  Degene die het verzoek of de klacht heeft ingediend kan zich ter zitting door een daartoe gemachtigde doen vertegenwoordigen of zich door een raadsman doen bijstaan.   
 6.  De betrokken kapitein of scheepsofficier kan zich door een raadsman doen bijstaan.   
@@ -928,11 +928,11 @@ b.de vier leden, bedoeld in artikel 55b, vierde lid, indien het verzoek of de kl
 1.  Het tuchtcollege kan getuigen en deskundigen voor de zitting oproepen en horen. De leden en de buitengewone leden van de Onderzoeksraad voor veiligheid, de algemeen secretaris en de medewerkers van het bureau van de raad, alsmede de door Onze Minister wie het aangaat op verzoek van de raad aangewezen deskundigen kunnen door het tuchtcollege niet als getuige of deskundige worden opgeroepen.   
 2.  De secretaris roept getuigen en deskundigen bij aangetekende brief voor de zitting op. Ieder die als getuige of deskundige door het tuchtcollege is opgeroepen, is verplicht aan die oproeping gevolg te geven.   
 3.  Indien een getuige of deskundige op de oproeping niet ter zitting verschijnt, doet de officier van justitie hem op verzoek van het tuchtcollege dagvaarden. Hij is verplicht na dagvaarding te verschijnen.   
-4.  Indien een getuige of deskundige op de dagvaarding niet ter zitting verschijnt, doet de officier van justitie hem op verzoek van het tuchtcollege andermaal dagvaarden, met bevel tot medebrenging. [Artikel 556 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+4.  Indien een getuige of deskundige op de dagvaarding niet ter zitting verschijnt, doet de officier van justitie hem op verzoek van het tuchtcollege andermaal dagvaarden, met bevel tot medebrenging. Artikel 556 van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 5.  De voorzitter beëdigt getuigen om de gehele waarheid en niets dan de waarheid te zeggen. Getuigen zijn verplicht op de gestelde vragen te antwoorden.   
 6.  De voorzitter beëdigt deskundigen om hun taak naar geweten te vervullen. Deskundigen zijn verplicht de door het tuchtcollege gevorderde diensten te bewijzen.   
-7.  Ten aanzien van de getuigen en deskundigen zijn de [artikelen 217 tot en met 219 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
-8.  De getuigen en deskundigen ontvangen desgevraagd op vertoon van hun oproep of dagvaarding een door de voorzitter vast te stellen schadeloosstelling overeenkomstig het bepaalde bij of krachtens de [Wet tarieven in strafzaken](../../../../wet/wet/tarieven/in/strafzaken/BWBR0002406/README.md).  
+7.  Ten aanzien van de getuigen en deskundigen zijn de artikelen 217 tot en met 219 van het Wetboek van Strafvordering van overeenkomstige toepassing.   
+8.  De getuigen en deskundigen ontvangen desgevraagd op vertoon van hun oproep of dagvaarding een door de voorzitter vast te stellen schadeloosstelling overeenkomstig het bepaalde bij of krachtens de Wet tarieven in strafzaken.  
 
 ### Artikel  55p  
 
@@ -946,7 +946,7 @@ c.geldboete van ten hoogste € 4 500;
 
 d.schorsing van de vaarbevoegdheid voor een periode van ten hoogste twee jaren.   
 2.  Bij het opleggen van een of meer van de in het eerste lid genoemde tuchtmaatregelen kan het tuchtcollege tevens bepalen dat zijn beslissing, al dan niet met vermelding van de gronden waarop zij berust, in een of meer in de beslissing aangewezen tijdschriften of nieuwsbladen openbaar zal worden gemaakt.   
-3.  Bij het opleggen van een geldboete bepaalt het tuchtcollege de termijn of de termijnen, waarbinnen de geldboete moet worden voldaan. De te betalen geldsommen komen toe aan de Staat. Betaling van de geldsom geschiedt aan Onze Minister. Voor de toepassing van [titel 4.4 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt de uitspraak van het tuchtcollege aangemerkt als een beschikking als bedoeld in [artikel 4:86 van die wet](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3.  Bij het opleggen van een geldboete bepaalt het tuchtcollege de termijn of de termijnen, waarbinnen de geldboete moet worden voldaan. De te betalen geldsommen komen toe aan de Staat. Betaling van de geldsom geschiedt aan Onze Minister. Voor de toepassing van titel 4.4 van de Algemene wet bestuursrecht wordt de uitspraak van het tuchtcollege aangemerkt als een beschikking als bedoeld in artikel 4:86 van die wet.   
 4.  Bij het opleggen van de tuchtmaatregelen, genoemd in het eerste lid, onder c en d, kan het tuchtcollege bepalen dat deze geheel of ten dele niet zullen worden ten uitvoer gelegd, tenzij het tuchtcollege bij een latere beslissing anders mocht bepalen op grond van het feit dat de betrokken kapitein of scheepsofficier zich voor het einde van een bij die oplegging te bepalen proeftijd van ten hoogste twee jaren heeft gedragen in strijd met de zorg die hij als een goed zeeman in acht behoort te nemen ten opzichte van de opvarenden, het schip, de lading, het milieu of het scheepvaartverkeer.   
 5.  De tuchtmaatregelen, genoemd in het eerste lid onder c en d, en de bijkomende maatregel van openbaarmaking, genoemd in het tweede lid, kunnen eerst worden ten uitvoer gelegd nadat de beslissing van het tuchtcollege onherroepelijk is geworden.  
 
@@ -1032,7 +1032,6 @@ Het is verboden met een schip naar zee te gaan of te doen gaan indien en zolang 
 Het is verboden na te laten de monsterrol op te maken, opnieuw op te maken of bij te stellen. 
 
 ### Artikel  59a  
-Treedt in werking per 20-08-2014 
 
 Het is verboden met een schip als bedoeld in artikel 48c, eerste lid, een internationale reis te maken indien het schip niet is voorzien van een geldig certificaat maritieme arbeid, een verklaring naleving maritieme arbeid en een exemplaar van het Maritiem Arbeidsverdrag. 
 
@@ -1190,8 +1189,8 @@ Bij of krachtens algemene maatregel van bestuur worden de beroepsvereisten vastg
 
 ### Artikel  69d  
 
-1.  De scheepsbeheerder draagt er zorg voor dat de zee-arbeidsovereenkomsten, bedoeld in de [artikelen 694, eerste lid](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [736, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) van de zeevarenden aan boord van zijn schip voldoen aan het bepaalde in de [artikelen 697](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en [699 van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en, voor wat betreft de onderdelen 6, 7, 8, 12 en 13, in overeenstemming zijn met de toepasselijke bepalingen in [Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md).   
-2.  De scheepsbeheerder zorgt voor de nakoming van de uit de [artikelen 706 tot en met 709](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), [717 tot en met 720](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), en [734 tot en met 734l van Boek 7 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) voortkomende verplichtingen. Indien de scheepsbeheerder niet de werkgever is van de desbetreffende zeevarende, geeft de scheepsbeheerder slechts toepassing aan de eerste volzin indien de werkgever bij de nakoming van deze verplichtingen in gebreke blijft en de zeevarende aan de scheepsbeheerder een verzoek tot nakoming doet.   
+1.  De scheepsbeheerder draagt er zorg voor dat de zee-arbeidsovereenkomsten, bedoeld in de artikelen 694, eerste lid en 736, eerste lid, van Boek 7 van het Burgerlijk Wetboek van de zeevarenden aan boord van zijn schip voldoen aan het bepaalde in de artikelen 697 en 699 van Boek 7 van het Burgerlijk Wetboek en, voor wat betreft de onderdelen 6, 7, 8, 12 en 13, in overeenstemming zijn met de toepasselijke bepalingen in Boek 7 van het Burgerlijk Wetboek.   
+2.  De scheepsbeheerder zorgt voor de nakoming van de uit de artikelen 706 tot en met 709, 717 tot en met 720, en 734 tot en met 734l van Boek 7 van het Burgerlijk Wetboek voortkomende verplichtingen. Indien de scheepsbeheerder niet de werkgever is van de desbetreffende zeevarende, geeft de scheepsbeheerder slechts toepassing aan de eerste volzin indien de werkgever bij de nakoming van deze verplichtingen in gebreke blijft en de zeevarende aan de scheepsbeheerder een verzoek tot nakoming doet.   
 3.  De scheepsbeheerder handelt overeenkomstig de voor het desbetreffende schip op grond van artikel 48c, eerste lid, afgegeven verklaring naleving maritieme arbeid.  
 
 ### Artikel  69e  

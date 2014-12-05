@@ -3,11 +3,11 @@
 ##Besluit van het bestuur van het Productschap Tuinbouw van 20 februari 2007, houdende de vaststelling van uitlekgewichten voor verduurzaamde champignons en zuurkool (Verordening PT Uitlekgewichten verduurzaamde champignons en zuurkool 2007)
 
 Het Bestuur van het Productschap Tuinbouw,  
-gelet op de [artikelen 93](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [106 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+gelet op de artikelen 93, 95, 102, 104 en 106 van de Wet op de bedrijfsorganisatie;
 
-gelet op [artikel 14, lid 3 van het Warenwetbesluit Etikettering van Levensmiddelen](../../../../../../../../../../AMvB/warenwetbesluit/etikettering/van/levensmiddelen/BWBR0005310/README.md) en
+gelet op artikel 14, lid 3 van het Warenwetbesluit Etikettering van Levensmiddelen en
 
-gelet op de [artikelen 3](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md), [12](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [13 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md);
+gelet op de artikelen 3, 12 en 13 van het Instellingsbesluit Productschap Tuinbouw;
 
 gehoord de Commissie voor groenten en fruit, d.d. 15 februari 2007;
 Besluit     
@@ -17,7 +17,7 @@ Besluit
 
 ### Artikel  1  
 
-1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de [artikelen 1](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md) en [2 van het Instellingsbesluit Productschap Tuinbouw](../../../../../../../../../../AMvB/instellingsbesluit/productschap/tuinbouw/BWBR0016235/README.md).   
+1.  In deze verordening en de daarop berustende bepalingen worden overgenomen de begripsbepalingen van de artikelen 1 en 2 van het Instellingsbesluit Productschap Tuinbouw.   
 2.  In deze verordening en de daarop berustende bepalingen wordt verstaan onder:  
 
 | --- | --- | --- |
@@ -60,7 +60,7 @@ Overtredingen van het bij of krachtens deze verordening bepaalde zijn strafbare 
 
 ### Artikel  5  
 
-De [Verordening PT Verduurzaamde champignons 2000](../../../../../../../../../../pbo/verordening/pt/verduurzaamde/champignons/2000/BWBR0011341/README.md) wordt ingetrokken. 
+De Verordening PT Verduurzaamde champignons 2000 wordt ingetrokken. 
 
 ### Artikel  6  
 

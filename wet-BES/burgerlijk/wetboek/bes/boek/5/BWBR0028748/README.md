@@ -185,7 +185,7 @@ De grens van een langs een water liggend erf verplaatst zich met de oeverlijn, b
 1.  Een vordering tot vastlegging van de grens wordt slechts toegewezen, indien allen die ten tijde van de inschrijving van de instelling der vordering als rechthebbende of beslaglegger op een der erven stonden ingeschreven, tijdig in het geding zijn geroepen.   
 2.  De rechter bepaalt de grens overeenkomstig de oeverlijn op het tijdstip van de inschrijving van de vordering. Alvorens de eis toe te wijzen, kan hij de maatregelen bevelen en de bewijsopdrachten doen, die hij in het belang van niet-verschenen belanghebbenden nuttig oordeelt.   
 3.  De kosten van de vordering komen ten laste van de eiser.   
-4.  In afwijking van [artikel 84 van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) begint de termijn van verzet tegen het vonnis te lopen vanaf de betekening daarvan aan de ingeschrevene, ook als de betekening niet aan hem in persoon geschiedt, tenzij de rechter hiertoe nadere maatregelen heeft bevolen en aan dat bevel niet is voldaan.   
+4.  In afwijking van artikel 84 van het Wetboek van Burgerlijke Rechtsvordering BES begint de termijn van verzet tegen het vonnis te lopen vanaf de betekening daarvan aan de ingeschrevene, ook als de betekening niet aan hem in persoon geschiedt, tenzij de rechter hiertoe nadere maatregelen heeft bevolen en aan dat bevel niet is voldaan.   
 5.  De vastlegging treedt in op het tijdstip dat het vonnis waarbij de vordering is toegewezen, in de openbare registers wordt ingeschreven. Deze inschrijving geschiedt niet voordat het vonnis in kracht van gewijsde is gegaan.  
 
 ### Artikel  33  
@@ -209,7 +209,7 @@ Dient een muur, hek, heg, rooi of greppel, dan wel een sloot, gracht of dergelij
 
 ### Artikel  37  
 
-De eigenaar van een erf mag niet in een mate of op een wijze die volgens [artikel 162 van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) onrechtmatig is, aan eigenaars van andere erven hinder toebrengen zoals door het verspreiden van rumoer, trillingen, stank, rook of gassen, door het onthouden van licht of lucht of door het ontnemen van steun. 
+De eigenaar van een erf mag niet in een mate of op een wijze die volgens artikel 162 van Boek 6 onrechtmatig is, aan eigenaars van andere erven hinder toebrengen zoals door het verspreiden van rumoer, trillingen, stank, rook of gassen, door het onthouden van licht of lucht of door het ontnemen van steun. 
 
 ### Artikel  38  
 
@@ -217,7 +217,7 @@ Lagere erven moeten het water ontvangen dat van hoger gelegen erven van nature a
 
 ### Artikel  39  
 
-De eigenaar van een erf mag niet in een mate of op een wijze die volgens [artikel 162 van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) onrechtmatig is, aan eigenaars van andere erven hinder toebrengen door wijziging te brengen in de loop, hoeveelheid of hoedanigheid van over zijn erf stromend water of van het grondwater. 
+De eigenaar van een erf mag niet in een mate of op een wijze die volgens artikel 162 van Boek 6 onrechtmatig is, aan eigenaars van andere erven hinder toebrengen door wijziging te brengen in de loop, hoeveelheid of hoedanigheid van over zijn erf stromend water of van het grondwater. 
 
 ### Artikel  41  
 
@@ -369,7 +369,7 @@ Iedere mede-eigenaar mag op de mandelige scheidsmuur tot op de helft der dikte e
 
 ### Artikel  69  
 
-De artikelen 64, 65, 66, tweede lid, 67 en 68 vinden geen toepassing voor zover een overeenkomstig [artikel 168 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) getroffen regeling anders bepaalt. 
+De artikelen 64, 65, 66, tweede lid, 67 en 68 vinden geen toepassing voor zover een overeenkomstig artikel 168 van Boek 3 getroffen regeling anders bepaalt. 
 
 ### Titel  6  
 
@@ -617,7 +617,7 @@ Een eigenaar, erfpachter of opstaller is ook bevoegd in verband met een door hem
 ### Artikel  109  
 
 1.  De splitsing geschiedt door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers.   
-2.  Aan de minuut van de akte van splitsing wordt een tekening gehecht, aangevende de begrenzing van de onderscheidene gedeelten van het gebouw en de grond die bestemd zijn als afzonderlijk geheel te worden gebruikt, en waarvan volgens de akte het uitsluitend gebruik in een appartementsrecht zal zijn begrepen. De tekening dient te voldoen aan de eisen, voor de inschrijving daarvan te stellen krachtens de wet, bedoeld in [artikel 16, tweede lid, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md).   
+2.  Aan de minuut van de akte van splitsing wordt een tekening gehecht, aangevende de begrenzing van de onderscheidene gedeelten van het gebouw en de grond die bestemd zijn als afzonderlijk geheel te worden gebruikt, en waarvan volgens de akte het uitsluitend gebruik in een appartementsrecht zal zijn begrepen. De tekening dient te voldoen aan de eisen, voor de inschrijving daarvan te stellen krachtens de wet, bedoeld in artikel 16, tweede lid, van Boek 3.   
 3.  Waar in deze titel wordt gesproken van akte van splitsing, is hieronder de tekening begrepen, tenzij uit de bepaling het tegendeel blijkt.  
 
 ### Artikel  110  
@@ -688,7 +688,7 @@ d. de wijze van bijeenroeping van de vergadering van eigenaars en de bepaling va
 1.  Wanneer een recht van erfpacht of opstal in de splitsing betrokken is, gelden ter aanvulling van de artikelen 87, tweede en derde lid, en 88 de volgende leden.   
 2.  Opzegging van het recht wegens verzuim in de betaling van de canon of het solarium kan slechts geschieden, wanneer de gehele canon of het gehele solarium over twee achtereenvolgende jaren onbetaald is gebleven.   
 3.  Rust op een of meer appartementsrechten een beperkt recht of een beslag, dan zijn artikel 87, tweede lid, tweede zin, en artikel 88, tweede lid, mede van overeenkomstige toepassing met betrekking tot dit beperkte recht of dit beslag.   
-4.  Is het voor een appartementsrecht verschuldigde deel van de canon of solarium over twee achtereenvolgende jaren onbetaald gebleven, dan kan het appartementsrecht door de rechter op vordering van de grondeigenaar aan deze worden toegewezen. Het verzoekschrift en het geschrift, bedoeld in [artikel 110 van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md), moeten op straffe van niet-ontvankelijkheid binnen acht dagen worden betekend aan hen die als beperkt gerechtigde of beslaglegger op het appartementsrecht in de openbare registers staan ingeschreven. Oproepingen en andere exploten worden mede aan deze personen uitgebracht.   
+4.  Is het voor een appartementsrecht verschuldigde deel van de canon of solarium over twee achtereenvolgende jaren onbetaald gebleven, dan kan het appartementsrecht door de rechter op vordering van de grondeigenaar aan deze worden toegewezen. Het verzoekschrift en het geschrift, bedoeld in artikel 110 van het Wetboek van Burgerlijke Rechtsvordering BES, moeten op straffe van niet-ontvankelijkheid binnen acht dagen worden betekend aan hen die als beperkt gerechtigde of beslaglegger op het appartementsrecht in de openbare registers staan ingeschreven. Oproepingen en andere exploten worden mede aan deze personen uitgebracht.   
 5.  Door inschrijving in de openbare registers van het vonnis waarbij de toewijzing is uitgesproken, gaat het appartementsrecht op de grondeigenaar over en gaan de daarop rustende beperkte rechten en beslagen teniet. Deze inschrijving geschiedt niet voordat het vonnis in kracht van gewijsde is gegaan. Na deze inschrijving is de grondeigenaar verplicht de waarde die het appartementsrecht heeft op het tijdstip van de inschrijving, aan de gewezen appartementseigenaar te vergoeden, na aftrek van hetgeen hij uit hoofde van de erfpacht van de gewezen appartementseigenaar te vorderen heeft, de kosten daaronder begrepen.   
 6.  In de akte van vestiging kan worden aangegeven op welke wijze de waarde, bedoeld in het vijfde lid, zal worden bepaald.   
 7.  Ieder beding dat ten nadele van een appartementseigenaar van dit artikel afwijkt, is nietig.  
@@ -749,7 +749,7 @@ De artikelen 118, 118a en 119 zijn niet van toepassing op deeltijdappartementsre
 
 1.  In geval van vruchtgebruik van een appartementsrecht treedt de vruchtgebruiker in de plaats van de appartementseigenaar ten aanzien van de aansprakelijkheid voor de gezamenlijke schulden en de aan de gezamenlijke appartementseigenaars en de vereniging van eigenaars verschuldigde bijdragen. De vruchtgebruiker is echter bevoegd de door hem betaalde bedragen, voor zover zij niet betrekking hebben op de gewone lasten en herstellingen, bij het einde van het vruchtgebruik van de appartementseigenaar terug te vorderen.   
 2.  Wanneer de appartementseigenaar schulden of bijdragen als bedoeld in het eerste lid, heeft voldaan, kan hij van de vruchtgebruiker vorderen dat deze hem de betaalde bedragen, vermeerderd met de rente vanaf de dag der betaling, teruggeeft voor zover zij op gewone lasten en herstellingen betrekking hebben. Van de andere door de appartementseigenaar betaalde bedragen is de vruchtgebruiker slechts de rente van de dag der betaling tot het einde van het vruchtgebruik verschuldigd.   
-3.  Tenzij bij de instelling van het vruchtgebruik anders wordt bepaald, wordt in afwijking van [artikel 219 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) het aan een appartementsrecht verbonden stemrecht in de vergadering van eigenaars uitgeoefend door de vruchtgebruiker.   
+3.  Tenzij bij de instelling van het vruchtgebruik anders wordt bepaald, wordt in afwijking van artikel 219 van Boek 3 het aan een appartementsrecht verbonden stemrecht in de vergadering van eigenaars uitgeoefend door de vruchtgebruiker.   
 4.  Artikel 122 is van overeenkomstige toepassing bij de vestiging, bij de overdracht en bij het einde van het vruchtgebruik van een appartementsrecht.  
 
 ### Afdeling  2  
@@ -759,7 +759,7 @@ De artikelen 118, 118a en 119 zijn niet van toepassing op deeltijdappartementsre
 ### Artikel  124  
 
 1.  De vereniging van eigenaars is een rechtspersoon.   
-2.  Op de rechtsbetrekkingen tussen de vereniging en haar leden, alsmede op die tussen de leden onderling is [artikel 2 van Boek 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) van overeenkomstige toepassing.  
+2.  Op de rechtsbetrekkingen tussen de vereniging en haar leden, alsmede op die tussen de leden onderling is artikel 2 van Boek 6 van overeenkomstige toepassing.  
 
 ### Artikel  125  
 
@@ -850,7 +850,7 @@ Geschillen over herstel of de wijze van herstel beslist de rechter in eerste aan
 ### Artikel  139  
 
 1.  De akte van splitsing kan worden gewijzigd met medewerking van alle apparte-mentseigenaars.   
-2.  De wijziging kan ook met medewerking van het bestuur geschieden, indien het tot de wijziging strekkende besluit is genomen in de vergadering van eigenaars met een meerderheid van ten minste vier vijfden van het aantal stemmen dat aan de appartementseigenaars toekomt of met een zodanige grotere meerderheid als in de akte van splitsing is bepaald; [artikel 86, eerste lid, tweede lid, eerste volzin, en derde lid, van Boek 2](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md) is van overeenkomstige toepassing.   
+2.  De wijziging kan ook met medewerking van het bestuur geschieden, indien het tot de wijziging strekkende besluit is genomen in de vergadering van eigenaars met een meerderheid van ten minste vier vijfden van het aantal stemmen dat aan de appartementseigenaars toekomt of met een zodanige grotere meerderheid als in de akte van splitsing is bepaald; artikel 86, eerste lid, tweede lid, eerste volzin, en derde lid, van Boek 2 is van overeenkomstige toepassing.   
 3.  Wijziging van de akte van splitsing behoeft de toestemming van hen die een beperkt recht op een appartementsrecht hebben, van hen die daarop beslag hebben gelegd alsmede, indien een recht van erfpacht of opstal in de splitsing is betrokken, van de grondeigenaar. Ook is toestemming nodig van de gerechtigden tot een erfdienstbaarheid, indien hun recht door de wijziging wordt verkort.   
 4.  Indien de wijziging uitsluitend betrekking heeft op het reglement, is de toestemming van de beslagleggers niet nodig.   
 5.  De wijziging geschiedt door een daartoe bestemde notariële akte, gevolgd door inschrijving van die akte in de openbare registers. Indien de wijziging betrekking heeft op de begrenzing van gedeelten van het gebouw of de grond die bestemd zijn als afzonderlijk geheel te worden gebruikt, is artikel 109, tweede lid, van overeenkomstige toepassing.  
@@ -913,7 +913,7 @@ h. alle appartementseigenaars zich bij een overeenkomst tot de wijziging of ophe
 ### Artikel  145  
 
 1.  De appartementseigenaars zijn verplicht aan een bevel als bedoeld in artikel 144, uitvoering te geven, zodra de beschikking in kracht van gewijsde is gegaan. De in de artikelen 139, eerste en derde lid, en 143, tweede lid, bedoelde toestemming is in dit geval niet vereist.   
-2.  Indien de rechter in eerste aanleg met toepassing van [artikel 300 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) een vertegenwoordiger heeft aangewezen, stelt hij op verzoek van de meest gerede partij of ambtshalve diens salaris vast; het salaris komt ten laste van de vertegenwoordigde.  
+2.  Indien de rechter in eerste aanleg met toepassing van artikel 300 van Boek 3 een vertegenwoordiger heeft aangewezen, stelt hij op verzoek van de meest gerede partij of ambtshalve diens salaris vast; het salaris komt ten laste van de vertegenwoordigde.  
 
 ### Artikel  146  
 

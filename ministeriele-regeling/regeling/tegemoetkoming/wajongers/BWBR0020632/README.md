@@ -3,14 +3,14 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 4 december 2006, Directie Sociale Verzekeringen, nr. SV/WV06/97881, betreffende een tegemoetkoming voor personen die een uitkering ontvangen op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten (Regeling tegemoetkoming Wajongers 2007)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op [artikel 9a van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md);
+Gelet op artikel 9a van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;
 Besluit:    
 
 ### Artikel  1  
 
 ####Begripsomschrijving
 
-Voor de toepassing van deze regeling wordt verstaan onder Wet Wajong: [Wet werk en arbeidsondersteuning jonggehandicapten](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md). 
+Voor de toepassing van deze regeling wordt verstaan onder Wet Wajong: Wet werk en arbeidsondersteuning jonggehandicapten. 
 
 ### Artikel  2  
 
@@ -18,9 +18,9 @@ Voor de toepassing van deze regeling wordt verstaan onder Wet Wajong: [Wet werk 
 
 1.  De jonggehandicapte, bedoeld in: 
 
-a. [artikel 2:15 van de Wet Wajong](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), voor zover deze een inkomensvoorziening ontvangt; of  
+a. artikel 2:15 van de Wet Wajong, voor zover deze een inkomensvoorziening ontvangt; of  
 
-b. [artikel 3:3 van de Wet Wajong](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md),   die op 1 januari van een kalenderjaar de leeftijd van 18, 19, 20, 21 of 22 jaar heeft bereikt, heeft met ingang van 1 januari van dat jaar gedurende dat jaar recht op een maandelijkse tegemoetkoming   
+b. artikel 3:3 van de Wet Wajong,   die op 1 januari van een kalenderjaar de leeftijd van 18, 19, 20, 21 of 22 jaar heeft bereikt, heeft met ingang van 1 januari van dat jaar gedurende dat jaar recht op een maandelijkse tegemoetkoming   
 2.  De tegemoetkoming bedraagt: 
 
 a. voor een 18-jarige: € 13,80  
@@ -32,9 +32,9 @@ c. voor een 20-jarige: € 7,92
 d. voor een 21-jarige: € 3,91  
 
 e. voor een 22-jarige: € 1,61     
-3.  In afwijking van het eerste lid heeft de jonggehandicapte, bedoeld in [artikel 2:15](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) of [3:3 van de Wet Wajong](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md), aan wie in de loop van een kalenderjaar een inkomensvoorziening of uitkering op grond van de [Wet Wajong](../../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) wordt toegekend, met ingang van de dag van toekenning recht op een bij zijn leeftijd op de dag van toekenning behorende tegemoetkoming, bedoeld in het tweede lid.   
+3.  In afwijking van het eerste lid heeft de jonggehandicapte, bedoeld in artikel 2:15 of 3:3 van de Wet Wajong, aan wie in de loop van een kalenderjaar een inkomensvoorziening of uitkering op grond van de Wet Wajong wordt toegekend, met ingang van de dag van toekenning recht op een bij zijn leeftijd op de dag van toekenning behorende tegemoetkoming, bedoeld in het tweede lid.   
 4.  De betaling van de tegemoetkoming geschiedt tezamen met de betaling van de inkomensvoorziening of arbeidsongeschiktheidsuitkering.   
-5.  Met ingang van de dag, waarop het bedrag van het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md) wijzigt, worden de bedragen van de tegemoetkoming herzien met het percentage van deze wijziging.  
+5.  Met ingang van de dag, waarop het bedrag van het minimumloon, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag wijzigt, worden de bedragen van de tegemoetkoming herzien met het percentage van deze wijziging.  
 
 ### Artikel  3  
 

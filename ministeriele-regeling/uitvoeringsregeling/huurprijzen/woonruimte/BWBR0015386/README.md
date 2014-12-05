@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 15 juli 2003, nr. MJZ2003071600, Centrale Directie Juridische Zaken Afdeling Wetgeving, houdende aanpassing en samenvoeging van ministeriële regelingen als gevolg van de invoering van de Uitvoeringswet huurprijzen woonruimte (Uitvoeringsregeling huurprijzen woonruimte)
 
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
-Gelet op de [artikelen 10, tweede lid](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), [27, tweede lid](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), [42, derde lid](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), en [47, eerste en tweede lid, onder c, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) en [artikel 12, eerste lid, van het Besluit huurprijzen woonruimte](../../../../../AMvB/besluit/huurprijzen/woonruimte/BWBR0003237/README.md);
+Gelet op de artikelen 10, tweede lid, 27, tweede lid, 42, derde lid, en 47, eerste en tweede lid, onder c, van de Uitvoeringswet huurprijzen woonruimte en artikel 12, eerste lid, van het Besluit huurprijzen woonruimte;
 Besluit:     
 ### §  1  
 
@@ -13,17 +13,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *bestuur:* bestuur van de huurcommissie als bedoeld in [artikel 3a, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+a.  *bestuur:* bestuur van de huurcommissie als bedoeld in artikel 3a, tweede lid, van de Uitvoeringswet huurprijzen woonruimte;  
 
 b.  *minister:* Minister voor Wonen en Rijksdienst;  
 
-c.  *openbaar register:* openbaar register als bedoeld in [artikel 3i van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+c.  *openbaar register:* openbaar register als bedoeld in artikel 3i van de Uitvoeringswet huurprijzen woonruimte;  
 
-d.  *toetsingsinkomen:* toetsingsinkomen als bedoeld in [artikel 8 van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md), waarvan bij het geven van de beschikking is uitgegaan;  
+d.  *toetsingsinkomen:* toetsingsinkomen als bedoeld in artikel 8 van de Algemene wet inkomensafhankelijke regelingen, waarvan bij het geven van de beschikking is uitgegaan;  
 
-e.  *voorzitter, plaatsvervangend voorzitter, zittingsvoorzitters en zittingsleden:* voorzitter, plaatsvervangend voorzitter, zittingsvoorzitters en zittingsleden als bedoeld in [artikel 3a, tweede lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md);  
+e.  *voorzitter, plaatsvervangend voorzitter, zittingsvoorzitters en zittingsleden:* voorzitter, plaatsvervangend voorzitter, zittingsvoorzitters en zittingsleden als bedoeld in artikel 3a, tweede lid, van de Uitvoeringswet huurprijzen woonruimte;  
 
-f.  *vrijstelling:* vrijstelling van de aan de Staat verschuldigde vergoeding als bedoeld in de [artikelen 7, achtste lid](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), en [7a, derde lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md).   
+f.  *vrijstelling:* vrijstelling van de aan de Staat verschuldigde vergoeding als bedoeld in de artikelen 7, achtste lid, en 7a, derde lid, van de Uitvoeringswet huurprijzen woonruimte.   
 
 ### §  2  
 
@@ -31,19 +31,19 @@ f.  *vrijstelling:* vrijstelling van de aan de Staat verschuldigde vergoeding al
 
 ### Artikel  2  
 
-De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in [artikel 1, tweede lid, van het Besluit huurprijzen woonruimte](../../../../../AMvB/besluit/huurprijzen/woonruimte/BWBR0003237/README.md) zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in bijlage I. 
+De maximale huurprijsgrenzen voor woonruimten welke een zelfstandige woning vormen als bedoeld in artikel 1, tweede lid, van het Besluit huurprijzen woonruimte zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in bijlage I. 
 
 ### Artikel  3  
 
-De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in [artikel 1, derde lid, van het Besluit huurprijzen woonruimte](../../../../../AMvB/besluit/huurprijzen/woonruimte/BWBR0003237/README.md) zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in bijlage II. 
+De maximale huurprijsgrenzen voor woonruimten welke niet een zelfstandige woning vormen als bedoeld in artikel 1, derde lid, van het Besluit huurprijzen woonruimte zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in bijlage II. 
 
 ### Artikel  4  
 
-De maximale huurprijsgrenzen voor woonwagens als bedoeld in [artikel 7:235 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in bijlage III. 
+De maximale huurprijsgrenzen voor woonwagens als bedoeld in artikel 7:235 van het Burgerlijk Wetboek zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in bijlage III. 
 
 ### Artikel  5  
 
-De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in bijlage IV. 
+De maximale huurprijsgrenzen voor standplaatsen als bedoeld in artikel 7:236 van het Burgerlijk Wetboek zijn voor het tijdvak 1 juli 2014 tot en met 30 juni 2015 de bedragen, genoemd in bijlage IV. 
 
 ### §  3  
 
@@ -52,7 +52,7 @@ De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 va
 ### Artikel  6  
 
 1.  De huurcommissie beoordeelt de redelijkheid van de huurprijs van woonruimte dan wel een daarin voorgestelde wijziging met inachtneming van de in de bijlagen V en VI van deze regeling vervatte schema’s.   
-2.  Het eerste lid is niet van toepassing op woonruimte die bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in [artikel 1, onder d, van de Monumentenwet 1988](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) en op woonruimte die behoort tot een beschermd stads- en dorpsgezicht als bedoeld in [artikel 1, onder g, van die wet](../../../../../wet/monumentenwet/1988/BWBR0004471/README.md), in dit geval voor zover vanwege het behoren tot een beschermd stads- en dorpsgezicht door de verhuurder noodzakelijkerwijs aan deze woonruimte gelden zijn besteed.  
+2.  Het eerste lid is niet van toepassing op woonruimte die bestaat uit of deel uitmaakt van een beschermd monument als bedoeld in artikel 1, onder d, van de Monumentenwet 1988 en op woonruimte die behoort tot een beschermd stads- en dorpsgezicht als bedoeld in artikel 1, onder g, van die wet, in dit geval voor zover vanwege het behoren tot een beschermd stads- en dorpsgezicht door de verhuurder noodzakelijkerwijs aan deze woonruimte gelden zijn besteed.  
 
 ### §  4  
 
@@ -60,53 +60,53 @@ De maximale huurprijsgrenzen voor standplaatsen als bedoeld in [artikel 7:236 va
 
 ### Artikel  7  
 
-1.  De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters genieten een bezoldiging overeenkomstig een van de salarisschalen van [bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).   
+1.  De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters genieten een bezoldiging overeenkomstig een van de salarisschalen van bijlage B van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
 2.  Het salaris wordt naar rato van de arbeidsduur bepaald.   
-3.  De salarisschaal welke voor de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters geldt, wordt door de minister bepaald met inachtneming van de aard en het niveau van zijn functie aan de hand van het door of in overeenstemming met de minister van Binnenlandse Zaken en Koninkrijksrelaties vastgestelde normeringsstelsel, bedoeld in [artikel 5, derde lid, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md).   
-4.  De [artikelen 6, eerste en tweede lid](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), [7, eerste tot en met zesde lid](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), en [8, eerste tot en met derde lid, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) zijn van overeenkomstige toepassing, met dien verstande dat onder ‘bevoegd gezag’ wordt verstaan: 
+3.  De salarisschaal welke voor de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters geldt, wordt door de minister bepaald met inachtneming van de aard en het niveau van zijn functie aan de hand van het door of in overeenstemming met de minister van Binnenlandse Zaken en Koninkrijksrelaties vastgestelde normeringsstelsel, bedoeld in artikel 5, derde lid, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984.   
+4.  De artikelen 6, eerste en tweede lid, 7, eerste tot en met zesde lid, en 8, eerste tot en met derde lid, van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 zijn van overeenkomstige toepassing, met dien verstande dat onder ‘bevoegd gezag’ wordt verstaan: 
 
 a. de minister, voor zover het de voorzitter of de plaatsvervangend voorzitter betreft, en  
 
 b. de voorzitter, voor zover het de zittingsvoorzitters betreft.     
-5.  [Artikel 102 van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) is van overeenkomstige toepassing in geval van overlijden van de voorzitter, de plaatsvervangend voorzitter of een zittingsvoorzitter.   
-6.  Indien het overlijden van de voorzitter, de plaatsvervangend voorzitter of een zittingsvoorzitter het gevolg is van een dienstongeval of beroepsziekte, is [artikel 102b van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) van overeenkomstige toepassing.  
+5.  Artikel 102 van het Algemeen Rijksambtenarenreglement is van overeenkomstige toepassing in geval van overlijden van de voorzitter, de plaatsvervangend voorzitter of een zittingsvoorzitter.   
+6.  Indien het overlijden van de voorzitter, de plaatsvervangend voorzitter of een zittingsvoorzitter het gevolg is van een dienstongeval of beroepsziekte, is artikel 102b van het Algemeen Rijksambtenarenreglement van overeenkomstige toepassing.  
 
 ### Artikel  7a  
 
-De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters hebben recht op een vakantie-uitkering overeenkomstig [hoofdstuk IV van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). 
+De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters hebben recht op een vakantie-uitkering overeenkomstig hoofdstuk IV van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. 
 
 ### Artikel  7b  
 
-De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters hebben recht op een eindejaarsuitkering overeenkomstig [artikel 20a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). 
+De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters hebben recht op een eindejaarsuitkering overeenkomstig artikel 20a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. 
 
 ### Artikel  7c  
 
-Indien de plaatsvervangend voorzitter de functie van voorzitter waarneemt, kan hem een waarnemingstoelage worden toegekend overeenkomstig [artikel 14 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md). 
+Indien de plaatsvervangend voorzitter de functie van voorzitter waarneemt, kan hem een waarnemingstoelage worden toegekend overeenkomstig artikel 14 van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984. 
 
 ### Artikel  7d  
 
-Op het ambtsjubileum van de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters is [artikel 79, eerste lid, van het Algemeen Rijksambtenarenregelement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) van overeenkomstige toepassing 
+Op het ambtsjubileum van de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters is artikel 79, eerste lid, van het Algemeen Rijksambtenarenregelement van overeenkomstige toepassing 
 
 ### Artikel  7e  
 
-1.  Op eenmalige of periodieke toeslagen van de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters is [artikel 22a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) van overeenkomstige toepassing.   
-2.  De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters hebben de mogelijkheid om gebruik te maken van het Individuele keuzen in het ArbeidsvoorwaardenPakket (IKAP). De [IKAP-regeling Rijkspersoneel](../../../../../ministeriele-regeling/ikap-regeling/rijkspersoneel/BWBR0015799/README.md) is van overeenkomstige toepassing.  
+1.  Op eenmalige of periodieke toeslagen van de voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters is artikel 22a van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984 van overeenkomstige toepassing.   
+2.  De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters hebben de mogelijkheid om gebruik te maken van het Individuele keuzen in het ArbeidsvoorwaardenPakket (IKAP). De IKAP-regeling Rijkspersoneel is van overeenkomstige toepassing.  
 
 ### Artikel  7f  
 
-1.  De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters genieten een vergoeding voor reis- en verblijfkosten ter zake van dienstreizen overeenkomstig het [Reisbesluit binnenland](../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md), het [Reisbesluit buitenland](../../../../../AMvB/reisbesluit/buitenland/BWBR0006842/README.md) en de [Reisregeling binnenland](../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md).   
-2.  De voorzitter en de plaatsvervangend voorzitter hebben recht op een vergoeding van verplaatsingskosten overeenkomstig [hoofdstuk IV van het Verplaatsingskostenbesluit 1989](../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md).   
-3.  De voorzitter heeft recht op een vergoeding van representatiekosten overeenkomstig [artikel 68a, derde lid, onderdeel b, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md). De plaatsvervangend voorzitter en de zittingsvoorzitters hebben recht op een vergoeding van representatiekosten overeenkomstig artikel 68a, derde lid, onderdeel c, van het Algemeen Rijksambtenarenreglement.  
+1.  De voorzitter, de plaatsvervangend voorzitter en de zittingsvoorzitters genieten een vergoeding voor reis- en verblijfkosten ter zake van dienstreizen overeenkomstig het Reisbesluit binnenland, het Reisbesluit buitenland en de Reisregeling binnenland.   
+2.  De voorzitter en de plaatsvervangend voorzitter hebben recht op een vergoeding van verplaatsingskosten overeenkomstig hoofdstuk IV van het Verplaatsingskostenbesluit 1989.   
+3.  De voorzitter heeft recht op een vergoeding van representatiekosten overeenkomstig artikel 68a, derde lid, onderdeel b, van het Algemeen Rijksambtenarenreglement. De plaatsvervangend voorzitter en de zittingsvoorzitters hebben recht op een vergoeding van representatiekosten overeenkomstig artikel 68a, derde lid, onderdeel c, van het Algemeen Rijksambtenarenreglement.  
 
 ### Artikel  8  
 
-1.  De zittingsleden genieten een vergoeding ten bedrage van € 200 per zitting van de zittingscommissie, bedoeld in [artikel 21 van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), en per vergadering van de huurcommissie. Het bedrag van de vergoeding wordt jaarlijks per 1 april gewijzigd met het onmiddellijk daaraan voorafgaande in januari in de Staatscourant bekendgemaakte percentage, waarmee de consumentenprijzen (alle huishoudens) ten opzichte van het aan die bekendmaking voorafgaande jaar zijn gewijzigd.   
-2.  De zittingsleden genieten een vergoeding voor reis- en verblijfkosten ter zake van dienstreizen ten behoeve van de huurcommissie gedaan, overeenkomstig het [Reisbesluit binnenland](../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en de [Reisregeling binnenland](../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md).  
+1.  De zittingsleden genieten een vergoeding ten bedrage van € 200 per zitting van de zittingscommissie, bedoeld in artikel 21 van de Uitvoeringswet huurprijzen woonruimte, en per vergadering van de huurcommissie. Het bedrag van de vergoeding wordt jaarlijks per 1 april gewijzigd met het onmiddellijk daaraan voorafgaande in januari in de Staatscourant bekendgemaakte percentage, waarmee de consumentenprijzen (alle huishoudens) ten opzichte van het aan die bekendmaking voorafgaande jaar zijn gewijzigd.   
+2.  De zittingsleden genieten een vergoeding voor reis- en verblijfkosten ter zake van dienstreizen ten behoeve van de huurcommissie gedaan, overeenkomstig het Reisbesluit binnenland en de Reisregeling binnenland.  
 
 ### Artikel  8a  
 
-1.  De leden van de Raad van Advies, bedoeld in [artikel 3g van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), genieten een vergoeding voor het bijwonen van vergaderingen en het geven van adviezen uit hoofde van hun functie als bedoeld in dat artikel ten bedrage van € 400 per maand. Het lid van de Raad dat tevens telkenmale die vergaderingen voorzit, geniet een vergoeding van € 520 per maand. De bedragen van de vergoeding worden jaarlijks per 1 april gewijzigd met het onmiddellijk daaraan voorafgaande in januari in de Staatscourant bekendgemaakte percentage, waarmee de consumentenprijzen (alle huishoudens) ten opzichte van het aan die bekendmaking voorafgaande jaar zijn gewijzigd.   
-2.  De leden van de Raad van Advies, bedoeld in [artikel 3g van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), genieten een vergoeding voor reis- en verblijfkosten ter zake van reizen ten behoeve van de huurcommissie gedaan, overeenkomstig het [Reisbesluit binnenland](../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md) en de [Reisregeling binnenland](../../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md).  
+1.  De leden van de Raad van Advies, bedoeld in artikel 3g van de Uitvoeringswet huurprijzen woonruimte, genieten een vergoeding voor het bijwonen van vergaderingen en het geven van adviezen uit hoofde van hun functie als bedoeld in dat artikel ten bedrage van € 400 per maand. Het lid van de Raad dat tevens telkenmale die vergaderingen voorzit, geniet een vergoeding van € 520 per maand. De bedragen van de vergoeding worden jaarlijks per 1 april gewijzigd met het onmiddellijk daaraan voorafgaande in januari in de Staatscourant bekendgemaakte percentage, waarmee de consumentenprijzen (alle huishoudens) ten opzichte van het aan die bekendmaking voorafgaande jaar zijn gewijzigd.   
+2.  De leden van de Raad van Advies, bedoeld in artikel 3g van de Uitvoeringswet huurprijzen woonruimte, genieten een vergoeding voor reis- en verblijfkosten ter zake van reizen ten behoeve van de huurcommissie gedaan, overeenkomstig het Reisbesluit binnenland en de Reisregeling binnenland.  
 
 ### §  5  
 
@@ -123,17 +123,17 @@ Op het ambtsjubileum van de voorzitter, de plaatsvervangend voorzitter en de zit
 
 ### Artikel  10  
 
-De groep, bedoeld in [artikel 7:252a, zesde lid, onderdeel a, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), bestaat uit huishoudens waarbij: 
+De groep, bedoeld in artikel 7:252a, zesde lid, onderdeel a, van het Burgerlijk Wetboek, bestaat uit huishoudens waarbij: 
 
-a. in geval van een eenpersoonshuishouden aan de huurder van dat huishouden een indicatiebesluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) is verstrekt voor persoonlijke verzorging als bedoeld in [artikel 4 van het Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), verpleging als bedoeld in [artikel 5 van het Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) of individuele begeleiding als bedoeld in [artikel 6 van het Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), welk indicatiebesluit een geldigheidsduur heeft van ten minste een jaar en in welk indicatiebesluit ten minste tien uur zorg per week wordt toegekend;  
+a. in geval van een eenpersoonshuishouden aan de huurder van dat huishouden een indicatiebesluit als bedoeld in artikel 1, onderdeel d, van het Zorgindicatiebesluit is verstrekt voor persoonlijke verzorging als bedoeld in artikel 4 van het Besluit zorgaanspraken AWBZ, verpleging als bedoeld in artikel 5 van het Besluit zorgaanspraken AWBZ of individuele begeleiding als bedoeld in artikel 6 van het Besluit zorgaanspraken AWBZ, welk indicatiebesluit een geldigheidsduur heeft van ten minste een jaar en in welk indicatiebesluit ten minste tien uur zorg per week wordt toegekend;  
 
-b. in geval van een meerpersoonshuishouden aan de huurder of een ander lid van dat huishouden een indicatiebesluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) is verstrekt voor persoonlijke verzorging als bedoeld in [artikel 4 van het Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), verpleging als bedoeld in [artikel 5 van het Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) of individuele begeleiding als bedoeld in [artikel 6 van het Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), welk indicatiebesluit een geldigheidsduur heeft van ten minste 371 dagen of indien aan die huurder of dat lid meerdere van de hiervoor genoemde indicatiebesluiten zijn verstrekt, waarvan de geldigheidsduur in het totaal ten minste 371 dagen bedraagt, ende begindatum van elk indicatiebesluit niet meer dan 42 dagen na de einddatum van het daaraan voorafgaande indicatiebesluit heeft gelegen;  
+b. in geval van een meerpersoonshuishouden aan de huurder of een ander lid van dat huishouden een indicatiebesluit als bedoeld in artikel 1, onderdeel d, van het Zorgindicatiebesluit is verstrekt voor persoonlijke verzorging als bedoeld in artikel 4 van het Besluit zorgaanspraken AWBZ, verpleging als bedoeld in artikel 5 van het Besluit zorgaanspraken AWBZ of individuele begeleiding als bedoeld in artikel 6 van het Besluit zorgaanspraken AWBZ, welk indicatiebesluit een geldigheidsduur heeft van ten minste 371 dagen of indien aan die huurder of dat lid meerdere van de hiervoor genoemde indicatiebesluiten zijn verstrekt, waarvan de geldigheidsduur in het totaal ten minste 371 dagen bedraagt, ende begindatum van elk indicatiebesluit niet meer dan 42 dagen na de einddatum van het daaraan voorafgaande indicatiebesluit heeft gelegen;  
 
-c. aan de huurder of aan een ander lid van dat huishouden een indicatiebesluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) is verstrekt voor verblijf als bedoeld in [artikel 9 van het Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md);  
+c. aan de huurder of aan een ander lid van dat huishouden een indicatiebesluit als bedoeld in artikel 1, onderdeel d, van het Zorgindicatiebesluit is verstrekt voor verblijf als bedoeld in artikel 9 van het Besluit zorgaanspraken AWBZ;  
 
-d. aan de huurder of aan een ander lid van dat huishouden een indicatiebesluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) is verstrekt voor ADL-assistentie als bedoeld in [artikel 34 van het Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md);  
+d. aan de huurder of aan een ander lid van dat huishouden een indicatiebesluit als bedoeld in artikel 1, onderdeel d, van het Zorgindicatiebesluit is verstrekt voor ADL-assistentie als bedoeld in artikel 34 van het Besluit zorgaanspraken AWBZ;  
 
-e. aan de huurder of aan een ander lid van dat huishouden voor 1 mei 2013 een beschikking is verstrekt ten behoeve van voorzieningen aan de betreffende woonruimte op grond van [artikel 1, eerste lid, onderdeel c, van de Wet voorzieningen gehandicapten](../../../../../wet/wet/voorzieningen/gehandicapten/BWBR0006169/README.md) of [artikel 1, eerste lid, onderdeel g, onder 6, van de Wet maatschappelijke ondersteuning](../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md), of  
+e. aan de huurder of aan een ander lid van dat huishouden voor 1 mei 2013 een beschikking is verstrekt ten behoeve van voorzieningen aan de betreffende woonruimte op grond van artikel 1, eerste lid, onderdeel c, van de Wet voorzieningen gehandicapten of artikel 1, eerste lid, onderdeel g, onder 6, van de Wet maatschappelijke ondersteuning, of  
 
 f. de huurder of een ander lid van dat huishouden met een verklaring van de huisarts kan aantonen dat hij blind is.   
 
@@ -143,12 +143,12 @@ f. de huurder of een ander lid van dat huishouden met een verklaring van de huis
 
 ### Artikel  11  
 
-1.  Een verzoek om vrijstelling wordt uiterlijk binnen vier weken na de datum van verzending van het bericht, bedoeld in [artikel 7, vierde of zevende lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) of uiterlijk binnen vier weken na de datum waarop een verzoek als bedoeld in [artikel 8, eerste lid, van de Wet op het overleg huurders verhuurder](../../../../../wet/wet/op/het/overleg/huurders/verhuurder/BWBR0009810/README.md) bij de huurcommissie is ingediend, op een daartoe door het bestuur beschikbaar gesteld formulier ingediend bij de voorzitter.   
+1.  Een verzoek om vrijstelling wordt uiterlijk binnen vier weken na de datum van verzending van het bericht, bedoeld in artikel 7, vierde of zevende lid, van de Uitvoeringswet huurprijzen woonruimte of uiterlijk binnen vier weken na de datum waarop een verzoek als bedoeld in artikel 8, eerste lid, van de Wet op het overleg huurders verhuurder bij de huurcommissie is ingediend, op een daartoe door het bestuur beschikbaar gesteld formulier ingediend bij de voorzitter.   
 2.  Een verzoek om vrijstelling gaat vergezeld van: 
 
-a.de ten gunste van de verzoeker krachtens [artikel 14, eerste lid, van de Algemene wet inkomensafhankelijke regelingen](../../../../../wet/algemene/wet/inkomensafhankelijke/regelingen/BWBR0018472/README.md) laatstelijk doch niet eerder dan achttien maanden voor de indiening van het verzoek om vrijstelling gegeven beschikking tot toekenning van een huurtoeslag als bedoeld in [artikel 1, onderdeel e, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md) waaruit blijkt dat het toetsingsinkomen niet hoger is dan het bedrag dat voor de verzoeker ten tijde van het geven van die beschikking als het minimum-inkomensijkpunt, bedoeld in [artikel 17 van die wet](../../../../../wet/huursubsidiewet/BWBR0008659/README.md), gold, of
+a.de ten gunste van de verzoeker krachtens artikel 14, eerste lid, van de Algemene wet inkomensafhankelijke regelingen laatstelijk doch niet eerder dan achttien maanden voor de indiening van het verzoek om vrijstelling gegeven beschikking tot toekenning van een huurtoeslag als bedoeld in artikel 1, onderdeel e, van de Wet op de huurtoeslag waaruit blijkt dat het toetsingsinkomen niet hoger is dan het bedrag dat voor de verzoeker ten tijde van het geven van die beschikking als het minimum-inkomensijkpunt, bedoeld in artikel 17 van die wet, gold, of
 
-b.een ten gunste van de verzoeker niet eerder dan zes maanden voor de indiening van het verzoek om vrijstelling krachtens de [Wet werk en bijstand](../../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) gegeven beschikking tot vaststelling van algemene bijstand.  
+b.een ten gunste van de verzoeker niet eerder dan zes maanden voor de indiening van het verzoek om vrijstelling krachtens de Wet werk en bijstand gegeven beschikking tot vaststelling van algemene bijstand.  
 
 ### Artikel  12  
 
@@ -156,7 +156,7 @@ Vrijstelling kan slechts worden verleend, indien voldaan is aan het bepaalde in 
 
 ### Artikel  12a  
 
-De gegevens, bedoeld in [artikel 7, eerste lid](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), en [8 van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), worden uiterlijk binnen vier weken na de kennisgeving van ontvangst van het verzoek bij de voorzitter ingediend. De gegevens bevatten een afschrift van de huurovereenkomst. 
+De gegevens, bedoeld in artikel 7, eerste lid, en 8 van de Uitvoeringswet huurprijzen woonruimte, worden uiterlijk binnen vier weken na de kennisgeving van ontvangst van het verzoek bij de voorzitter ingediend. De gegevens bevatten een afschrift van de huurovereenkomst. 
 
 ### §  8  
 
@@ -164,9 +164,9 @@ De gegevens, bedoeld in [artikel 7, eerste lid](../../../../../wet/uitvoeringswe
 
 ### Artikel  13  
 
-Bij een voorstel als bedoeld in [artikel 7:252b, eerste lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) verstrekt de huurder: 
+Bij een voorstel als bedoeld in artikel 7:252b, eerste lid, van het Burgerlijk Wetboek verstrekt de huurder: 
 
-a. een door de inspecteur, bedoeld in [artikel 7:252a, tweede lid, onderdeel c, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), afgegeven verklaring omtrent het inkomensgegeven, bedoeld in [artikel 21, onder e, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), van alle bewoners van de woning, en  
+a. een door de inspecteur, bedoeld in artikel 7:252a, tweede lid, onderdeel c, van het Burgerlijk Wetboek, afgegeven verklaring omtrent het inkomensgegeven, bedoeld in artikel 21, onder e, van de Algemene wet inzake rijksbelastingen, van alle bewoners van de woning, en  
 
 b. een afschrift uit de basisregistratie personen waaruit blijkt hoeveel personen staan ingeschreven op het adres van de woning.   
 
@@ -176,11 +176,11 @@ b. een afschrift uit de basisregistratie personen waaruit blijkt hoeveel persone
 
 ### Artikel  14  
 
-Het formulier, bedoeld in [artikel 7:260, derde lid, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), is het formulier als opgenomen in bijlage VII. 
+Het formulier, bedoeld in artikel 7:260, derde lid, van het Burgerlijk Wetboek, is het formulier als opgenomen in bijlage VII. 
 
 ### Artikel  14a  
 
-Het bedrag, bedoeld in [artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), is het bedrag, genoemd in bijlage VIII. 
+Het bedrag, bedoeld in artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte, is het bedrag, genoemd in bijlage VIII. 
 
 ### §  9  
 
@@ -188,7 +188,7 @@ Het bedrag, bedoeld in [artikel 18, vierde lid, van de Uitvoeringswet huurprijze
 
 ### Artikel  15  
 
-1.  De [Regeling vaststelling maximale huurprijsgrenzen woonruimten 2002](../../../../../ministeriele-regeling/vaststelling/maximale/huurprijsgrenzen/woonruimten/2002/BWBR0013654/README.md) wordt ingetrokken.   
+1.  De Regeling vaststelling maximale huurprijsgrenzen woonruimten 2002 wordt ingetrokken.   
 2.  De Regeling van de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 26 april 2003, nr. MJZ2003033492, houdende wijziging van de Regeling vaststelling maximale huurprijsgrenzen woonruimten 2002 (vaststelling maximale huurprijsgrenzen onzelfstandige woonruimten 2003) (Stcrt. 90) wordt ingetrokken.  
 
 ### Artikel  16  
@@ -549,7 +549,7 @@ Maximale huurprijsgrenzen voor standplaatsen per 1 juli 2014
 | 52  | 250,58  | 105  | 517,66  | 158  | 778,51  | 211  | 1.078,31  | --- | --- |
 | 53  | 255,38  | 106  | 522,98  | 159  | 783,70  | 212  | 1.083,60  | --- | --- |
 
-<sup>1</sup>De maximale huurprijsgrens behorende bij meer dan 250 punten is het bedrag dat wordt verkregen door € 5,28 (dat bedrag komt overeen met het verschil tussen de bedragen, genoemd bij 250 en 249 punten) te vermenigvuldigen met het aantal punten van de woonruimte, verminderd met 250, en bij de verkregen uitkomst € 1.284,58 (dat bedrag komt overeen met het bedrag genoemd bij 250 punten) op te tellen. <sup>1</sup> De maximale huurprijsgrenzen, bedoeld in [artikel 12, eerste lid, van het Besluit huurprijzen woonruimte](../../../../../AMvB/besluit/huurprijzen/woonruimte/BWBR0003237/README.md), zoals deze gelden op de dag dat dit schema in werking treedt.  <sup>2</sup> Bij woonruimte welke een zelfstandige woning vormt, met een puntentotaal van meer dan 250 en een geldende huurprijs hoger dan de maximale huurprijsgrens bij een puntentotaal van 250, kan een huurprijsverlaging plaatsvinden, indien het huurpeil van vergelijkbare woonruimte daartoe aanleiding geeft. De huurprijs van deze woonruimte kan niet worden verlaagd tot minder dan de maximale huurprijsgrens behorende bij woonruimte met een puntentotaal van 250, behoudens toepassing van [artikel 6, eerste lid, van het Besluit huurprijzen woonruimte](../../../../../AMvB/besluit/huurprijzen/woonruimte/BWBR0003237/README.md). 
+<sup>1</sup>De maximale huurprijsgrens behorende bij meer dan 250 punten is het bedrag dat wordt verkregen door € 5,28 (dat bedrag komt overeen met het verschil tussen de bedragen, genoemd bij 250 en 249 punten) te vermenigvuldigen met het aantal punten van de woonruimte, verminderd met 250, en bij de verkregen uitkomst € 1.284,58 (dat bedrag komt overeen met het bedrag genoemd bij 250 punten) op te tellen. <sup>1</sup> De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt.  <sup>2</sup> Bij woonruimte welke een zelfstandige woning vormt, met een puntentotaal van meer dan 250 en een geldende huurprijs hoger dan de maximale huurprijsgrens bij een puntentotaal van 250, kan een huurprijsverlaging plaatsvinden, indien het huurpeil van vergelijkbare woonruimte daartoe aanleiding geeft. De huurprijs van deze woonruimte kan niet worden verlaagd tot minder dan de maximale huurprijsgrens behorende bij woonruimte met een puntentotaal van 250, behoudens toepassing van artikel 6, eerste lid, van het Besluit huurprijzen woonruimte. 
 
 ### Bijlage V  
 
@@ -558,9 +558,9 @@ Schema van redelijke huuraanpassingen per 1 juli 2014 voor woonruimte bij overg
 | Geldende huurprijs (in bedragen per maand)  | Huuraanpassing  |
 |:---|:---|
 | I hoger dan de maximale huurprijsgrens<sup>1</sup>   | huurverlaging<sup>2</sup> tot de maximale huurprijsgrens<sup>1</sup>   |
-| II niet hoger dan de maximale huurprijsgrens<sup>1</sup>   | IIa huurverhoging van:  indien het huishoudinkomen, bedoeld in [artikel 7:252a, tweede lid, onderdeel b, van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md), over het peiljaar, bedoeld in onderdeel d van dat artikellid, van de op het tijdstip van de in het voorstel tot verhoging van de huurprijs genoemde ingangsdatum in de woonruimte, die een zelfstandige woning vormt, wonende huurder en overige bewoners  a.lager is dan of gelijk is aan het in [artikel 10, tweede lid, eerste volzin, onderdeel a, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) eerstgenoemde bedrag: maximaal het inflatiepercentage plus 1,5 procentpunt;  b. hoger is dan het in [artikel 10, tweede lid, eerste volzin, onderdeel a, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) eerstgenoemde bedrag, doch lager is dan of gelijk is aan het in onderdeel b van die volzin genoemde bedrag: maximaal het inflatiepercentage plus 2 procentpunt, en  c. hoger is dan het in [artikel 10, tweede lid, eerste volzin, onderdeel b, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md) genoemde bedrag: maximaal het inflatiepercentage plus 4 procentpunt,  voor zover de maximale huurprijsgrens<sup>1</sup> niet wordt overschreden.  IIb huurverhoging ten aanzien van overige woonruimte van maximaal het inflatiepercentage plus 1,5 procentpunt, voor zover de maximale huurprijsgrens<sup>1</sup> niet wordt overschreden.  |
+| II niet hoger dan de maximale huurprijsgrens<sup>1</sup>   | IIa huurverhoging van:  indien het huishoudinkomen, bedoeld in artikel 7:252a, tweede lid, onderdeel b, van het Burgerlijk Wetboek, over het peiljaar, bedoeld in onderdeel d van dat artikellid, van de op het tijdstip van de in het voorstel tot verhoging van de huurprijs genoemde ingangsdatum in de woonruimte, die een zelfstandige woning vormt, wonende huurder en overige bewoners  a.lager is dan of gelijk is aan het in artikel 10, tweede lid, eerste volzin, onderdeel a, van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag: maximaal het inflatiepercentage plus 1,5 procentpunt;  b. hoger is dan het in artikel 10, tweede lid, eerste volzin, onderdeel a, van de Uitvoeringswet huurprijzen woonruimte eerstgenoemde bedrag, doch lager is dan of gelijk is aan het in onderdeel b van die volzin genoemde bedrag: maximaal het inflatiepercentage plus 2 procentpunt, en  c. hoger is dan het in artikel 10, tweede lid, eerste volzin, onderdeel b, van de Uitvoeringswet huurprijzen woonruimte genoemde bedrag: maximaal het inflatiepercentage plus 4 procentpunt,  voor zover de maximale huurprijsgrens<sup>1</sup> niet wordt overschreden.  IIb huurverhoging ten aanzien van overige woonruimte van maximaal het inflatiepercentage plus 1,5 procentpunt, voor zover de maximale huurprijsgrens<sup>1</sup> niet wordt overschreden.  |
 
-¹ De maximale huurprijsgrenzen, bedoeld in [artikel 12, eerste lid, van het Besluit huurprijzen woonruimte](../../../../../AMvB/besluit/huurprijzen/woonruimte/BWBR0003237/README.md), zoals deze gelden op de dag dat dit schema in werking treedt.² Bij woonruimte welke een zelfstandige woning vormt, met een puntentotaal van meer dan 250 en een geldende huurprijs hoger dan de maximale huurprijsgrens bij een puntentotaal van 250, kan een huurprijsverlaging plaatsvinden, indien het huurpeil van vergelijkbare woonruimte daartoe aanleiding geeft. De huurprijs van deze woonruimte kan niet worden verlaagd tot minder dan de maximale huurprijsgrens behorende bij woonruimte met een puntentotaal van 250, behoudens toepassing van [artikel 6, eerste lid, van het Besluit huurprijzen woonruimte](../../../../../AMvB/besluit/huurprijzen/woonruimte/BWBR0003237/README.md).
+¹ De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt.² Bij woonruimte welke een zelfstandige woning vormt, met een puntentotaal van meer dan 250 en een geldende huurprijs hoger dan de maximale huurprijsgrens bij een puntentotaal van 250, kan een huurprijsverlaging plaatsvinden, indien het huurpeil van vergelijkbare woonruimte daartoe aanleiding geeft. De huurprijs van deze woonruimte kan niet worden verlaagd tot minder dan de maximale huurprijsgrens behorende bij woonruimte met een puntentotaal van 250, behoudens toepassing van artikel 6, eerste lid, van het Besluit huurprijzen woonruimte.
 
 ### Bijlage VI  
 
@@ -572,11 +572,11 @@ Schema van redelijke huuraanpassingen per 1 juli 2014 voor woonruimte bij overg
 | --- | --- | --- | --- |
 | II  | niet hoger dan de maximale huurprijsgrens ¹, bij overgang van de overeengekomen reguliere huurprijs *<sup>4</sup>* of huurvastprijs ³ naar een (nieuwe) huurvastprijs ³  | II  | ieder percentage, voorzover de maximale huurprijsgrens ¹ niet wordt overschreden  |
 | --- | --- | --- | --- |
-| III  | niet hoger dan de maximale huurprijsgrens ¹, bij overgang van de huurvastprijs ³ naar een nieuwe reguliere huurprijs <sup>4</sup>, voorzover bij de aanvang van de oude huurvastprijs ³ wèl een alternatieve reguliere huurprijs <sup>4</sup> bekend was  | III  | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs ³ in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in [artikel 27, derde lid, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md), en de alternatieve reguliere huurprijs <sup>4</sup>, voorzover de maximale huurprijsgrens ¹ niet wordt overschreden <sup>5</sup>  |
+| III  | niet hoger dan de maximale huurprijsgrens ¹, bij overgang van de huurvastprijs ³ naar een nieuwe reguliere huurprijs <sup>4</sup>, voorzover bij de aanvang van de oude huurvastprijs ³ wèl een alternatieve reguliere huurprijs <sup>4</sup> bekend was  | III  | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs ³ in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in artikel 27, derde lid, van de Wet op de huurtoeslag, en de alternatieve reguliere huurprijs <sup>4</sup>, voorzover de maximale huurprijsgrens ¹ niet wordt overschreden <sup>5</sup>  |
 | --- | --- | --- | --- |
-| IV  | niet hoger dan de maximale huurprijsgrens ¹, bij overgang van de huurvastprijs ³ naar een nieuwe reguliere huurprijs <sup>4</sup>, voorzover bij de aanvang van de huurvastprijs ³ géén alternatieve reguliere huurprijs <sup>4</sup> bekend was  | IV  | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs ³ in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in [artikel 27, derde lid, van de Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md), gedeeld door 2, voor zover de maximale huurprijsgrens ¹ niet wordt overschreden <sup>5</sup>  |
+| IV  | niet hoger dan de maximale huurprijsgrens ¹, bij overgang van de huurvastprijs ³ naar een nieuwe reguliere huurprijs <sup>4</sup>, voorzover bij de aanvang van de huurvastprijs ³ géén alternatieve reguliere huurprijs <sup>4</sup> bekend was  | IV  | huurverhoging van maximaal de uitkomst van de gecumuleerde vermenigvuldiging van alle in de periode dat de huurvastprijs ³ in rekening is gebracht, per 1 juli verwachte huurprijsontwikkelingen als bedoeld in artikel 27, derde lid, van de Wet op de huurtoeslag, gedeeld door 2, voor zover de maximale huurprijsgrens ¹ niet wordt overschreden <sup>5</sup>  |
 
-¹ De maximale huurprijsgrenzen, bedoeld in [artikel 12, eerste lid, van het Besluit huurprijzen woonruimte](../../../../../AMvB/besluit/huurprijzen/woonruimte/BWBR0003237/README.md), zoals deze gelden op de dag dat dit schema in werking treedt.² Bij woonruimte welke een zelfstandige woning vormt, met een puntentotaal van meer dan 250 en een geldende huurprijs hoger dan de maximale huurprijsgrens bij een puntentotaal van 250, kan een huurprijsverlaging plaatsvinden, indien het huurpeil van vergelijkbare woonruimte daartoe aanleiding geeft. De huurprijs van deze woonruimte kan niet worden verlaagd tot minder dan de maximale huurprijsgrens behorende bij woonruimte met een puntentotaal van 250, behoudens toepassing van [artikel 6, eerste lid, van het Besluit huurprijzen woonruimte](../../../../../AMvB/besluit/huurprijzen/woonruimte/BWBR0003237/README.md).³ Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. <sup>4 </sup> Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd.<sup>5</sup> Indien de huurvastperiode eindigde op 30 juni van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging tevens de huurprijsontwikkeling te worden betrokken die wordt verwacht voor het tijdvak van 1 juli tot en met 30 juni daaropvolgend. Indien de huurvastperiode is begonnen op 1 juli van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging niet de huurprijsontwikkeling te worden betrokken die werd verwacht voor het tijdvak van die 1 juli-datum tot en met de 30 juni-datum daaropvolgend.
+¹ De maximale huurprijsgrenzen, bedoeld in artikel 12, eerste lid, van het Besluit huurprijzen woonruimte, zoals deze gelden op de dag dat dit schema in werking treedt.² Bij woonruimte welke een zelfstandige woning vormt, met een puntentotaal van meer dan 250 en een geldende huurprijs hoger dan de maximale huurprijsgrens bij een puntentotaal van 250, kan een huurprijsverlaging plaatsvinden, indien het huurpeil van vergelijkbare woonruimte daartoe aanleiding geeft. De huurprijs van deze woonruimte kan niet worden verlaagd tot minder dan de maximale huurprijsgrens behorende bij woonruimte met een puntentotaal van 250, behoudens toepassing van artikel 6, eerste lid, van het Besluit huurprijzen woonruimte.³ Onder huurvastprijs wordt verstaan de voor de gehele huurvastperiode geldende (bevroren) huurprijs. <sup>4 </sup> Onder reguliere huurprijs wordt verstaan de huurprijs die jaarlijks kan worden verhoogd.<sup>5</sup> Indien de huurvastperiode eindigde op 30 juni van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging tevens de huurprijsontwikkeling te worden betrokken die wordt verwacht voor het tijdvak van 1 juli tot en met 30 juni daaropvolgend. Indien de huurvastperiode is begonnen op 1 juli van enig jaar dient, in afwijking van het schema, in de gecumuleerde vermenigvuldiging niet de huurprijsontwikkeling te worden betrokken die werd verwacht voor het tijdvak van die 1 juli-datum tot en met de 30 juni-datum daaropvolgend.
 
 ### Bijlage VII  
 
@@ -589,7 +589,7 @@ Schema van redelijke huuraanpassingen per 1 juli 2014 voor woonruimte bij overg
 
 ### Bijlage VIII  
 
-Het bedrag van de servicekosten, bedoeld in [artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte](../../../../../wet/uitvoeringswet/huurprijzen/woonruimte/BWBR0014315/README.md), is:  Bij zelfstandige woonruimte 
+Het bedrag van de servicekosten, bedoeld in artikel 18, vierde lid, van de Uitvoeringswet huurprijzen woonruimte, is:  Bij zelfstandige woonruimte 
 
 |--- |  *Normbedrag per jaar*   |
 |:---|:---|

@@ -61,7 +61,7 @@ a. in instellingen:
 
 1. voor medisch-specialistische zorg;  
 
-2. die een of meer vormen van persoonlijke verzorging of behandeling van een psychiatrische aandoening bieden, niet in combinatie met verblijf, binnen een op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) bekostigd gebouw;    
+2. die een of meer vormen van persoonlijke verzorging of behandeling van een psychiatrische aandoening bieden, niet in combinatie met verblijf, binnen een op grond van de Algemene Wet Bijzondere Ziektekosten bekostigd gebouw;    
 
 b. in een gebouw, een gedeelte van een gebouw of een samenhangend geheel van gebouwen of gedeelten daarvan met een gebruiksfunctie voor het bieden van recreatief verblijf of tijdelijk onderdak aan mensen, met uitzondering van zomerhuisjes, huisjes op volkstuincomplexen en gebouwen waar uitsluitend wordt overnacht door personen die ter plaatse werkzaam zijn;  
 
@@ -296,7 +296,7 @@ d. alle plaatsen met uitzondering van woningen zonder de uitdrukkelijke toestemm
 
 e. woningen of tot woning bestemde gedeelten van vaartuigen zonder de uitdrukkelijke toestemming van de bewoner binnen te treden.     
 5.  Zo nodig, wordt de toegang tot een plaats als bedoeld in het vierde lid, onderdeel d, verschaft met behulp van de sterke arm.   
-6.  Op het binnentreden van woningen of van tot woning bestemde gedeelten van vaartuigen als bedoeld in het vierde lid, onderdeel e, is [Titel 4 van het Derde Boek van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [156, tweede lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [157, tweede en derde lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [158, eerste lid, laatste zinsnede](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en [160, eerste lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.   
+6.  Op het binnentreden van woningen of van tot woning bestemde gedeelten van vaartuigen als bedoeld in het vierde lid, onderdeel e, is Titel 4 van het Derde Boek van het Wetboek van Strafvordering BES van overeenkomstige toepassing, met uitzondering van de artikelen 155, vierde lid, 156, tweede lid, 157, tweede en derde lid, 158, eerste lid, laatste zinsnede, en 160, eerste lid, en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.   
 7.  Een ieder is verplicht aan de krachtens het eerste of tweede lid aangewezen personen alle medewerking te verlenen die op grond van het derde lid wordt gevorderd.   
 8.  Zij die uit hoofde van ambt, beroep of wettelijk voorschrift verplicht zijn tot geheimhouding, kunnen het verlenen van medewerking weigeren, voor zover dit uit hun geheimhoudingsplicht voortvloeit.  
 
@@ -333,13 +333,13 @@ Het bestuurscollege is bevoegd tot het doen wegnemen, ontruimen, beletten, in de
 ### Artikel  29  
 
 1.  Het bestuurscollege kan van de overtreder bij dwangbevel de verschuldigde kosten, verhoogd met de op de invordering vallende kosten, invorderen.   
-2.  Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploit betekend en levert een executoriale titel op in de zin van het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md).   
+2.  Het dwangbevel wordt op kosten van de overtreder bij deurwaardersexploit betekend en levert een executoriale titel op in de zin van het Wetboek van Burgerlijke Rechtsvordering BES.   
 3.  Gedurende zes weken na de dag van betekening staat verzet tegen het dwangbevel open door dagvaarding van het eilandgebied.   
 4.  Het verzet schorst de tenuitvoerlegging. Op verzoek van het eilandgebied kan het gerecht in eerste aanleg de schorsing van de tenuitvoerlegging opheffen.  
 
 ### Artikel  30  
 
-De kosten verbonden aan de toepassing van bestuursdwang zijn bevoorrecht op de zaak ten aanzien waarvan zij zijn besteed en worden na de kosten, bedoeld in [Boek 3, artikel 284, van het Burgerlijk Wetboek BES](../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), uit de opbrengst van de zaak betaald. 
+De kosten verbonden aan de toepassing van bestuursdwang zijn bevoorrecht op de zaak ten aanzien waarvan zij zijn besteed en worden na de kosten, bedoeld in Boek 3, artikel 284, van het Burgerlijk Wetboek BES, uit de opbrengst van de zaak betaald. 
 
 ### Artikel  31  
 
@@ -397,7 +397,7 @@ Tot de bevoegdheid tot toepassing van bestuursdwang behoort het verzegelen van g
 
 ### Artikel  39  
 
-1.  Met de opsporing van de bij artikel 40 strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), de krachtens artikel 24, eerste en tweede lid, aangewezen personen belast.   
+1.  Met de opsporing van de bij artikel 40 strafbaar gestelde feiten zijn, naast de in artikel 184 van het Wetboek van Strafvordering BES, de krachtens artikel 24, eerste en tweede lid, aangewezen personen belast.   
 2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de vereisten waaraan de ingevolge het eerste lid aangewezen personen dienen te voldoen.  
 
 ### Hoofdstuk  5  

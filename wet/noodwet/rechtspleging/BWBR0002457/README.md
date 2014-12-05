@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 2 tot en met 14 in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 2 tot en met 14 in werking worden gesteld.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.   
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, worden bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
@@ -32,7 +32,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 3.   Vervallen.   
 4.   Een notaris mag zijn ambtsbediening mede uitoefenen in het arrondissement, waartoe zijn standplaats komt te behoren.    
 5.   Een deurwaarder wordt geacht mede te zijn aangesteld bij het gerecht tot welker rechtsgebied zijn standplaats komt te behoren en dat van gelijke rang is als dat waarbij hij is aangesteld.    
-6.   De wijziging van het rechtsgebied van een gerecht is niet van invloed op krachtens de [Politiewet 2012](../../../../wet/politiewet/2012/BWBR0031788/README.md) vastgestelde grenzen van de gebieden waarin de regionale eenheden van de politie de politietaak uitvoeren.   
+6.   De wijziging van het rechtsgebied van een gerecht is niet van invloed op krachtens de Politiewet 2012 vastgestelde grenzen van de gebieden waarin de regionale eenheden van de politie de politietaak uitvoeren.   
 
 ### Artikel  4  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -47,7 +47,7 @@ b. de bij een gerechtshof werkzame rechterlijke ambtenaren met rechtspraak belas
 Treedt in werking op een nader te bepalen tijdstip 
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. 
-1.  Ieder die voor het leven is benoemd in een gerecht, genoemd in [artikel 2 van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), alsmede iedere kantonrechter-plaatsvervanger, die voldoet aan de vereisten voor benoeming tot kantonrechter, kan, voorzover niet reeds krachtens het vorige artikel daartoe bevoegd, tijdelijk optreden als raadsheer-plaatsvervanger, rechter-plaatsvervanger en kantonrechter-plaatsvervanger bij onderscheidenlijk een gerechtshof, of rechtbank, waarvoor de in artikel 4 omschreven voorziening is getroffen.    
+1.  Ieder die voor het leven is benoemd in een gerecht, genoemd in artikel 2 van de Wet op de rechterlijke organisatie, alsmede iedere kantonrechter-plaatsvervanger, die voldoet aan de vereisten voor benoeming tot kantonrechter, kan, voorzover niet reeds krachtens het vorige artikel daartoe bevoegd, tijdelijk optreden als raadsheer-plaatsvervanger, rechter-plaatsvervanger en kantonrechter-plaatsvervanger bij onderscheidenlijk een gerechtshof, of rechtbank, waarvoor de in artikel 4 omschreven voorziening is getroffen.    
 2.   De personen, in het vorige lid bedoeld, die tijdelijk verblijven in het rechtsgebied van een gerecht, waarvoor de in artikel 4 omschreven voorziening is getroffen, stellen zich, voorzover dit verenigbaar is met andere hun bij of krachtens de wet opgelegde plichten, terstond nadat die voorziening is getroffen of hun verblijf sedertdien aanvangt, voor de duur van hun verblijf ter beschikking van de president van het betrokken gerechtshof of de betrokken rechtbank. Deze verplichting geldt niet voor raadsheren-plaatsvervangers, rechters-plaatsvervangers en kantonrechters-plaatsvervangers; zij doen, tenzij zij wegens hun bij of krachtens de wet opgelegde plichten niet voor rechtspraak beschikbaar zijn, mededeling van hun verblijf aan bedoelde president.   
 
 ### Artikel  6  
@@ -62,8 +62,8 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 Treedt in werking op een nader te bepalen tijdstip 
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. 
-1.  De president van een gerechtshof, waarvoor de in artikel 4 omschreven voorziening is getroffen, kan in afwijking van de aanwijzing als bedoeld in [artikel 14, derde lid, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) gerechtsambtenaren werkzaamheden van de griffier opdragen.   
-2.  De president van een rechtbank, waarvoor de in artikel 4 omschreven voorziening is getroffen, kan in afwijking van de aanwijzing als bedoeld in [artikel 14, derde lid, van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) gerechtsambtenaren werkzaamheden van de griffier opdragen.  
+1.  De president van een gerechtshof, waarvoor de in artikel 4 omschreven voorziening is getroffen, kan in afwijking van de aanwijzing als bedoeld in artikel 14, derde lid, van de Wet op de rechterlijke organisatie gerechtsambtenaren werkzaamheden van de griffier opdragen.   
+2.  De president van een rechtbank, waarvoor de in artikel 4 omschreven voorziening is getroffen, kan in afwijking van de aanwijzing als bedoeld in artikel 14, derde lid, van de Wet op de rechterlijke organisatie gerechtsambtenaren werkzaamheden van de griffier opdragen.  
 
 ### Artikel  8  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -84,8 +84,8 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 Treedt in werking op een nader te bepalen tijdstip 
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. 
-1.  De president van een gerechtshof, waarvoor de voorziening, omschreven in artikel 4, onder a, is getroffen, wordt bij belet of ontstentenis van degenen, die hem vervangen ingevolge [artikel 9 van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), vervangen door de overige raadsheren, raadsheren-plaatsvervangers, tevens rechter, raadsheren-plaatsvervangers, tevens kantonrechter, of de overige raadsheren-plaatsvervangers in deze volgorde. Binnen de genoemde groepen gaat de oudst benoemde voor; daarbij wordt de voorziening krachtens artikel 4, onder a, als een benoeming aangemerkt. Bij gelijktijdige benoeming gaat de oudste in leeftijd voor.    
-2.   De president van een rechtbank, waarvoor de voorziening, omschreven in artikel 4, onder b, is getroffen, wordt bij belet of ontstentenis van degenen, die hem vervangen ingevolge [artikel 9 van de Wet op de rechterlijke organisatie](../../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), vervangen door de overige rechters, de rechters-plaatsvervangers, tevens kantonrechters, of de overige rechters-plaatsvervangers in deze volgorde. De tweede en derde volzin van het vorige lid zijn van overeenkomstige toepassing.    
+1.  De president van een gerechtshof, waarvoor de voorziening, omschreven in artikel 4, onder a, is getroffen, wordt bij belet of ontstentenis van degenen, die hem vervangen ingevolge artikel 9 van de Wet op de rechterlijke organisatie, vervangen door de overige raadsheren, raadsheren-plaatsvervangers, tevens rechter, raadsheren-plaatsvervangers, tevens kantonrechter, of de overige raadsheren-plaatsvervangers in deze volgorde. Binnen de genoemde groepen gaat de oudst benoemde voor; daarbij wordt de voorziening krachtens artikel 4, onder a, als een benoeming aangemerkt. Bij gelijktijdige benoeming gaat de oudste in leeftijd voor.    
+2.   De president van een rechtbank, waarvoor de voorziening, omschreven in artikel 4, onder b, is getroffen, wordt bij belet of ontstentenis van degenen, die hem vervangen ingevolge artikel 9 van de Wet op de rechterlijke organisatie, vervangen door de overige rechters, de rechters-plaatsvervangers, tevens kantonrechters, of de overige rechters-plaatsvervangers in deze volgorde. De tweede en derde volzin van het vorige lid zijn van overeenkomstige toepassing.    
 3.   Voor de vervanging van de president van een gerechtshof of een rechtbank, bedoeld in dit artikel, komen degenen, die krachtens artikel 5 tijdelijk kunnen optreden, niet in aanmerking.   
 
 ### Artikel  11  
@@ -93,9 +93,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.In het rechtsgebied van een gerecht, waarvoor een in artikel 4 omschreven voorziening is getroffen:  
 
-a. zijn de termijnen, genoemd in de [artikelen 58](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [64 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), tijdelijk verdubbeld;   
+a. zijn de termijnen, genoemd in de artikelen 58 en 64 van het Wetboek van Strafvordering, tijdelijk verdubbeld;   
 
-b. kan tijdelijk bij dagvaarding betreffende een strafbaar feit worden volstaan met een korte aanduiding van het feit, dat te laste wordt gelegd, met vermelding omstreeks welke tijd en waar ter plaatse het begaan zou zijn, en kunnen tijdelijk de termijnen, genoemd in de [artikelen 265](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [398](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), onder 1°, en [413 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), ook zonder toestemming van de verdachte worden verkort, een en ander voorzover de verdachte daardoor naar het oordeel van de rechter niet in zijn verdediging wordt geschaad;   
+b. kan tijdelijk bij dagvaarding betreffende een strafbaar feit worden volstaan met een korte aanduiding van het feit, dat te laste wordt gelegd, met vermelding omstreeks welke tijd en waar ter plaatse het begaan zou zijn, en kunnen tijdelijk de termijnen, genoemd in de artikelen 265, 398, onder 1°, en 413 van het Wetboek van Strafvordering, ook zonder toestemming van de verdachte worden verkort, een en ander voorzover de verdachte daardoor naar het oordeel van de rechter niet in zijn verdediging wordt geschaad;   
 
 c. is tijdelijk bij door de rechter te verrichten buitengerechtelijke handelingen in burgerlijke zaken procureurstelling niet vereist.    
 
@@ -112,7 +112,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 ### Artikel  14  
 Treedt in werking op een nader te bepalen tijdstip 
 
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.Onze Minister van Veiligheid en Justitie kan bepalen, dat de beslissingen in strafzaken van bepaalde gerechtshoven, of rechtbanken, niettegenstaande [artikelen 557-560 van het Wetboek van Strafvordering](../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), ten uitvoer kunnen worden gelegd. Zodra de uitvoering van een beslissing een aanvang heeft genomen, vervallen de gewone rechtsmiddelen.  
+Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden.Onze Minister van Veiligheid en Justitie kan bepalen, dat de beslissingen in strafzaken van bepaalde gerechtshoven, of rechtbanken, niettegenstaande artikelen 557-560 van het Wetboek van Strafvordering, ten uitvoer kunnen worden gelegd. Zodra de uitvoering van een beslissing een aanvang heeft genomen, vervallen de gewone rechtsmiddelen.  
 
 ### Artikel  15  
 
@@ -127,10 +127,10 @@ Krachtens deze wet door Onze Minister van Veiligheid en Justitie te nemen beslui
 Treedt in werking op een nader te bepalen tijdstip 
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. 
-1.  In geval op grond van [artikel 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), bepalingen uit de [Oorlogswet voor Nederland](../../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) in werking zijn gesteld, kan Onze Minister van Veiligheid en Justitie verklaren dat in door hem aan te wijzen gedeelten van Nederland de burgerlijke rechter geacht wordt niet in staat te zijn van strafbare feiten kennis te nemen.   
+1.  In geval op grond van artikel 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden, bepalingen uit de Oorlogswet voor Nederland in werking zijn gesteld, kan Onze Minister van Veiligheid en Justitie verklaren dat in door hem aan te wijzen gedeelten van Nederland de burgerlijke rechter geacht wordt niet in staat te zijn van strafbare feiten kennis te nemen.   
 2.   Onze Minister van Veiligheid en Justitie kan de in het eerste lid bedoelde verklaring te allen tijde intrekken.    
 3.   Op de in het eerste lid bedoelde verklaring en de in het tweede lid bedoelde intrekking zijn de artikelen 15 en 16 van overeenkomstige toepassing.    
-4.   Gedurende de tijd dat de in het eerste lid bedoelde verklaring van kracht is, nemen mobiele rechtbanken ingesteld krachtens de [Wet militaire strafrechtspraak](../../../../rijkswet/wet/militaire/strafrechtspraak/BWBR0004789/README.md), onverminderd hun rechtsmacht op grond van die wet, kennis van de strafbare feiten door wie ook begaan in het gebied waarop de in het eerste lid bedoelde verklaring betrekking heeft.   
+4.   Gedurende de tijd dat de in het eerste lid bedoelde verklaring van kracht is, nemen mobiele rechtbanken ingesteld krachtens de Wet militaire strafrechtspraak, onverminderd hun rechtsmacht op grond van die wet, kennis van de strafbare feiten door wie ook begaan in het gebied waarop de in het eerste lid bedoelde verklaring betrekking heeft.   
 
 ### Artikel  18  
 
@@ -147,7 +147,7 @@ Deze wet kan worden aangehaald als: Noodwet rechtspleging.
 ### Artikel  21  
 
 1.  Met uitzondering van de artikelen 2-14 treedt deze wet in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin zij is geplaatst.    
-2.   Artikel 14 wordt niet door Ons in werking gesteld, zolang de [Oorlogswet voor Nederland](../../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) niet in werking is getreden. In afwijking van het vorige lid treedt artikel 19 eerst in werking op het tijdstip, waarop de [Oorlogswet voor Nederland](../../../../wet/oorlogswet/voor/nederland/BWBR0007983/README.md) in werking treedt, indien dit een later tijdstip is dan de dag na de datum van afkondiging van de Noodwet rechtspleging.   
+2.   Artikel 14 wordt niet door Ons in werking gesteld, zolang de Oorlogswet voor Nederland niet in werking is getreden. In afwijking van het vorige lid treedt artikel 19 eerst in werking op het tijdstip, waarop de Oorlogswet voor Nederland in werking treedt, indien dit een later tijdstip is dan de dag na de datum van afkondiging van de Noodwet rechtspleging.   
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 
