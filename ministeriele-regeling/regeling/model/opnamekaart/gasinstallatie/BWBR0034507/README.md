@@ -3,12 +3,12 @@
 ##Regeling model opnamekaart gasinstallatie
 
 De directie van de Dienst Wegverkeer,  
-Gelet op [artikel 24, zevende lid van de Regeling houdende eisen met betrekking tot een erkenning voor het uitvoeren van een wijziging in de constructie van een voertuig](../../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md) (Regeling aanpassing voertuigen)
+Gelet op artikel 24, zevende lid van de Regeling houdende eisen met betrekking tot een erkenning voor het uitvoeren van een wijziging in de constructie van een voertuig (Regeling aanpassing voertuigen)
 Besluit:    
 
 ### Artikel  1  
 
-Het model opnamekaart gasinstallatie als bedoeld in [artikel 24, zevende lid, van de Regeling aanpassing voertuigen](../../../../../../ministeriele-regeling/regeling/aanpassing/voertuigen/BWBR0025732/README.md) wordt vastgesteld overeenkomstig bijlage 1. 
+Het model opnamekaart gasinstallatie als bedoeld in artikel 24, zevende lid, van de Regeling aanpassing voertuigen wordt vastgesteld overeenkomstig bijlage 1. 
 
 ### Artikel  2  
 

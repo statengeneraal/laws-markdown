@@ -8,7 +8,7 @@ Besluit:
 
 ### Artikel  1  
 
-Als ambtenaren belast met het toezicht op de naleving als bedoeld in artikel 54a, eerste lid, van de Visserijwet worden aangewezen: de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit, van de rijksbelastingdienst, bevoegd inzake douane en van het Ministerie van Economische Zaken, werkzaam als Medewerker wadden of als Medewerker afhandeling en ontwikkeling met als specialisatie vakdeskundige visserij. 
+Als ambtenaren belast met het toezicht op de naleving als bedoeld in artikel 54a, eerste lid, van de Visserijwet worden aangewezen: de ambtenaren van de Nederlandse Voedsel- en Warenautoriteit, van de rijksbelastingdienst, bevoegd inzake douane, van het Ministerie van Economische Zaken, werkzaam als Medewerker wadden of als Medewerker afhandeling en ontwikkeling met als specialisatie vakdeskundige visserij, van de Omgevingsdienst Flevoland & Gooi en Vechtstreek, werkzaam als Medewerker handhaving en van de Fryske Utfieringstsjinst Miljeu en Omjouwing, werkzaam als Toezichthouder of Senior Toezichthouder. 
 
 ### Artikel  2  
 

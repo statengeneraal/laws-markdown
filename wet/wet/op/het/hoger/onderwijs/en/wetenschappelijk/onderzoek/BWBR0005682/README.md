@@ -317,6 +317,14 @@ c.de artikelen 12.2 en 12.18.
 
 De Koninklijke Nederlandse Akademie van Wetenschappen en de Koninklijke Bibliotheek bezitten rechtspersoonlijkheid.  
 
+### Artikel  1.16a  
+
+####Kaderwet zelfstandige bestuursorganen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De Kaderwet zelfstandige bestuursorganen is van toepassing op de Koninklijke Bibliotheek, met uitzondering van artikel 15 van die wet. 
+
 ### Artikel  1.17  
 
 ####Bekostiging 

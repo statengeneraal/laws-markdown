@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Welzijn, Volksgezondheid en Cultuur van 8 februari 1985, DG VGZ/VVP, no. 143898;
 
-Gelet op de [artikelen 3](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md), tweede lid, 9, [12](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md), [14](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) en [15 van de Wet op de dierproeven](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) (*Stb.* 1977, 67);
+Gelet op de artikelen 3, tweede lid, 9, 12, 14 en 15 van de Wet op de dierproeven (*Stb.* 1977, 67);
 
 Gezien het advies van de Commissie van advies voor de dierproeven van 4 augustus 1982;
 
@@ -19,9 +19,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
 
-a. "wet": [Wet op de dierproeven](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md);  
+a. "wet": Wet op de dierproeven;  
 
-b. "vergunninghouder": houder van een vergunning tot het verrichten van dierproeven als bedoeld in [artikel 2 van de wet](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md), alsmede, voor de toepassing van de artikelen 8 en 10, eerste en zesde lid, van dit besluit, de houder van een vergunning tot het fokken of afleveren van dieren als bedoeld in artikel 11*a* van de wet.   
+b. "vergunninghouder": houder van een vergunning tot het verrichten van dierproeven als bedoeld in artikel 2 van de wet, alsmede, voor de toepassing van de artikelen 8 en 10, eerste en zesde lid, van dit besluit, de houder van een vergunning tot het fokken of afleveren van dieren als bedoeld in artikel 11*a* van de wet.   
 
 ### Artikel  2  
 
@@ -77,7 +77,7 @@ Als handelingen waarbij in alle gevallen verdoving moet plaatsvinden, worden aan
 
 ### Artikel  5  
 
-Aan de in [artikel 14 van de wet](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) bedoelde verplichting kan slechts worden voldaan door het houden van toezicht op het welzijn van de proefdieren op te dragen aan een persoon die in een lidstaat van de Europese Unie of van de Europese Economische Ruimte met goed gevolg het doctoraal examen heeft afgelegd in één van de volgende studierichtingen:  
+Aan de in artikel 14 van de wet bedoelde verplichting kan slechts worden voldaan door het houden van toezicht op het welzijn van de proefdieren op te dragen aan een persoon die in een lidstaat van de Europese Unie of van de Europese Economische Ruimte met goed gevolg het doctoraal examen heeft afgelegd in één van de volgende studierichtingen:  
 
 1. diergeneeskunde;  
 
@@ -107,7 +107,7 @@ De vergunninghouder draagt zorg dat ieder voor wiens handelen of nalaten hij als
 
 ### Artikel  9  
 
-De in artikel 5 bedoelde opdracht omvat de verplichting van degene die met het toezicht is belast ten minste eenmaal per jaar aan de opdrachtgever schriftelijk verslag uit te brengen van zijn in artikel 6 bedoelde werkzaamheden. De opdrachtgever zendt aan de op grond van [artikel 20 van de wet](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) aangewezen hoofdinspecteur een afschrift van dit verslag toe. 
+De in artikel 5 bedoelde opdracht omvat de verplichting van degene die met het toezicht is belast ten minste eenmaal per jaar aan de opdrachtgever schriftelijk verslag uit te brengen van zijn in artikel 6 bedoelde werkzaamheden. De opdrachtgever zendt aan de op grond van artikel 20 van de wet aangewezen hoofdinspecteur een afschrift van dit verslag toe. 
 
 ### Artikel  10  
 
@@ -151,7 +151,7 @@ Bij het indienen van een aanvrage om een vergunning, bedoeld in artikel 2 van de
 
 ### Artikel  11a  
 
-Om in aanmerking te komen voor een vergunning tot het fokken of afleveren van proefdieren als bedoeld in [artikel 11*a* van de wet](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md), dient de aanvrager aannemelijk te maken dat hij wat betreft de organisatie kan voldoen aan de artikelen 4, 7, 8, 9 en 10, alsmede, wat betreft het personeel, aan de artikelen 3, 5 en 6. 
+Om in aanmerking te komen voor een vergunning tot het fokken of afleveren van proefdieren als bedoeld in artikel 11*a* van de wet, dient de aanvrager aannemelijk te maken dat hij wat betreft de organisatie kan voldoen aan de artikelen 4, 7, 8, 9 en 10, alsmede, wat betreft het personeel, aan de artikelen 3, 5 en 6. 
 
 ### Artikel  12  
 

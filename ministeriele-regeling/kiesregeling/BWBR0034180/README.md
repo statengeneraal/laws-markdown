@@ -195,9 +195,18 @@ R.H.A. Plasterk
 
 ### Model  J 7  
 
-####Stempas
+1.De stempas voor de verkiezing van de leden van de provinciale staten op 18 maart 2015 luidt als volgt:![254405](http://wetten.overheid.nl/Illustration/254405)
+![254406](http://wetten.overheid.nl/Illustration/254406)
 
-![254260](http://wetten.overheid.nl/Illustration/254260)
+2.De stempas voor de verkiezing van de leden van het algemeen bestuur op 18 maart 2015 waarmee in elk willekeurig stemlokaal in de gemeente kan worden gestemd, luidt als volgt: ![254407](http://wetten.overheid.nl/Illustration/254407)
+![254408](http://wetten.overheid.nl/Illustration/254408)
+
+3.De stempas voor de verkiezing van het algemeen bestuur op 18 maart 2015 waarmee niet in elk willekeurig stemlokaal in de gemeente kan worden gestemd, luidt als volgt:<sup>1De rand van de voorzijde van de stempas heeft zwarte blokjes teneinde bij het sorteren van de stempassen snel te kunnen herkennen bij welk waterschap de stempas hoort.</sup> ![254409](http://wetten.overheid.nl/Illustration/254409)
+![254410](http://wetten.overheid.nl/Illustration/254410)
+
+4.De stempas voor de verkiezing van de leden van de eilandsraden op 18 maart 2015 luidt als volgt: ![254411](http://wetten.overheid.nl/Illustration/254411)
+![254412](http://wetten.overheid.nl/Illustration/254412)
+De stempas voor de verkiezing van de leden van de provinciale staten op 18 maart 2015 luidt als volgt:
 
 ### Model  J 7-1  
 
@@ -217,16 +226,16 @@ R.H.A. Plasterk
 
 ### Model  J 20  
 
-####Stembiljet
-
-(voorzijde)<sup> 1 Op de achterzijde dient zoveel malen de handtekening van de voorzitter van het hoofdstembureau te worden gedrukt dat zij, hoe het stembiljet ook wordt gevouwen, geheel of ten dele zichtbaar blijft (bij de verkiezing van de Eerste Kamer betreft het de handtekening van de voorzitter van de staten). Op de achterzijde worden voorts gedrukt de naam van het vertegenwoordigend orgaan waarvoor de verkiezing geldt, alsmede een aanduiding van de kieskring. </sup>  STEMBILJET voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal/Eerste Kamer der Staten-Generaal/provinciale staten van ...../de raad van de gemeente ...../de eilandsraad van het openbaar lichaam ...../het Europees Parlement op ..... [in kieskring ..... (..... )]<sup> 2 Alleen op te nemen, indien het een verkiezing betreft van de leden van de Tweede Kamer of van provinciale staten van een provincie die uit meer dan één kieskring bestaat. Achter ‘kieskring’ het nummer en tussen haakjes de naam van de gemeente waar het hoofdstembureau is gevestigd vermelden. </sup>  KANDIDATENLIJSTEN<sup> 3 Boven elke lijst dient het nummer en, in voorkomend geval, onder het nummer de aanduiding van de politieke groepering te worden vermeld. In geval van een lijstencombinatie dient (dienen) onder het nummer en de aanduiding tussen haakjes het (de) nummer(s) van de lijst(en) te worden vermeld waarmee de lijstencombinatie is aangegaan, voorafgegaan door de woorden ‘gecombineerd met’. De kandidaten worden vermeld op dezelfde wijze en in dezelfde volgorde als zij op de kandidatenlijst voorkomen, met weglating van het adres en de geboortedatum. De kandidaten worden per lijst doorlopend genummerd. </sup>   ![252493](http://wetten.overheid.nl/Illustration/252493)
-enz.<sup> 4 De lijsten dienen om en om in te springen. Tussen de lijsten dient ruimte te worden gelaten. Indien op een lijst meer dan vijftig namen zijn geplaatst, mogen de namen van de kandidaten op de eenenvijftigste en volgende plaats worden vermeld aan de voet van de volgende kolom. In dat geval dienen boven die kolom het nummer van de lijst en de eventuele aanduiding van de politieke groepering te worden geplaatst. Bovendien wordt in dat geval boven de naam van de eerste kandidaat van die kolom het woord ’vervolg’ geplaatst. De lijsten dienen in één rij te worden geplaatst of in meer rijen onder elkaar. In laatstbedoeld geval dienen de rijen zo te worden geplaatst dat tussen de langste lijst van een rij en de lijstnummers van de volgende rij ruimte wordt gelaten. </sup>  U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat van uw keuze. Het stembiljet wordt zo dicht gevouwen dat de kandidatenlijst niet zichtbaar is. 
+(voorzijde)<sup>2Op de achterzijde van het stembiljet worden gedrukt:–de handtekening, bedoeld in artikel J 20, eerste lid, dan wel artikel T 2, eerste lid, van de Kieswet, zoveel malen dat zij, hoe het stembiljet ook wordt gevouwen, geheel of ten dele zichtbaar blijft.–de naam van het vertegenwoordigend orgaan waarvoor de verkiezing geldt, alsmede een aanduiding van de kieskring. De naam en aanduiding worden aan de bovenzijde gedrukt, zoveel malen dat zij goed zichtbaar is als het stembiljet is dichtgevouwen.</sup><sup>, </sup> <sup>3 Indien in een gemeente twee of meer stemmingen gelijktijdig plaatsvinden, worden op de voor- en achterzijde van het stembiljet over de gehele breedte een voor de stemming onderscheidend kenmerk in de vorm van één of meer kleurenbalken gedrukt, zodanig dat het goed zichtbaar is als het stembiljet is open- of dichtgevouwen.</sup>STEMBILJET voor de verkiezing van de leden van de Tweede Kamer der Staten-Generaal/Eerste Kamer der Staten-Generaal/provinciale staten van ...../ het algemeen bestuur van het waterschap…./ de raad van de gemeente ...../ de eilandsraad van het openbaar lichaam ...../ het Europees Parlement op ..... [in kieskring ..... (..... )]<sup>4Alleen op te nemen, indien het een verkiezing betreft van de leden van de Tweede Kamer of van provinciale staten van een provincie die uit meer dan één kieskring bestaat. Achter ‘kieskring’ het nummer en tussen haakjes de naam van de gemeente waar het hoofdstembureau is gevestigd.</sup>KANDIDATENLIJSTEN<sup>5Boven elke lijst dient het nummer en, in voorkomend geval, onder het nummer de aanduiding van de politieke groepering te worden vermeld. In geval van een lijstencombinatie dient (dienen) onder het nummer en de aanduiding het (de) nummer(s) van de lijst(en) te worden vermeld waarmee de lijstencombinatie is aangegaan, voorafgegaan door de woorden ‘gecombineerd met’. De kandidaten worden vermeld op dezelfde wijze en in dezelfde volgorde als zij op de kandidatenlijst voorkomen, met weglating van het adres en de geboortedatum. De kandidaten worden per lijst doorlopend genummerd.</sup> ![254413](http://wetten.overheid.nl/Illustration/254413)
+enz.<sup>6De lijsten dienen om en om in te springen. Tussen de lijsten dient ruimte te worden gelaten. Indien op een lijst meer dan vijftig namen zijn geplaatst, mogen de namen van de kandidaten op de eenenvijftigste en volgende plaats worden vermeld aan de voet van de volgende kolom. In dat geval dienen boven die kolom het nummer van de lijst en de eventuele aanduiding van de politieke groepering te worden geplaatst. Bovendien wordt in dat geval boven de naam van de eerste kandidaat van die kolom het woord ’vervolg’ geplaatst. De lijsten dienen in één rij te worden geplaatst of in meer rijen onder elkaar. In laatstbedoeld geval dienen de rijen zo te worden geplaatst dat tussen de langste lijst van een rij en de lijstnummers van de volgende rij ruimte wordt gelaten.</sup>U stemt door het rood maken van één wit stipje, geplaatst vóór de kandidaat van uw keuze. Het stembiljet wordt zo dicht gevouwen dat de kandidatenlijst niet zichtbaar is. 
 
 ###Model  K 4  
 
-####Kiezerspas
+1.De kiezerspas voor de verkiezing van de leden van de provinciale staten op 18 maart 2015 luidt als volgt: ![254414](http://wetten.overheid.nl/Illustration/254414)
+![254415](http://wetten.overheid.nl/Illustration/254415)
 
-![252620](http://wetten.overheid.nl/Illustration/252620)
+2.De kiezerspas voor de verkiezing van de leden van het algemeen bestuur op 18 maart 2015 luidt als volgt: ![254416](http://wetten.overheid.nl/Illustration/254416)
+![254417](http://wetten.overheid.nl/Illustration/254417)
 
 ### Model  K 6  
 
@@ -244,9 +253,14 @@ enz.<sup> 4 De lijsten dienen om en om in te springen. Tussen de lijsten dient r
 
 ### Model  L 11  
 
-####Volmachtbewijs
+1.Het schriftelijk volmachtbewijs voor de verkiezing van de leden van provinciale staten op 18 maart 2015 luidt als volgt: ![254418](http://wetten.overheid.nl/Illustration/254418)
+![254419](http://wetten.overheid.nl/Illustration/254419)
 
-![254265](http://wetten.overheid.nl/Illustration/254265)
+2.Het schriftelijk volmachtbewijs voor de verkiezing van de leden van het algemeen bestuur op 18 maart 2015 luidt als volgt: ![254420](http://wetten.overheid.nl/Illustration/254420)
+![254421](http://wetten.overheid.nl/Illustration/254421)
+
+3.Het schriftelijk volmachtbewijs voor de verkiezing van de leden van de eilandsraad op 18 maart 2015 luidt als volgt: ![254422](http://wetten.overheid.nl/Illustration/254422)
+![254423](http://wetten.overheid.nl/Illustration/254423)
 
 ### Model  M 3  
 

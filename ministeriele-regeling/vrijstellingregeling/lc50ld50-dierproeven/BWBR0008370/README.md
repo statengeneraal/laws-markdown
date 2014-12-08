@@ -3,12 +3,12 @@
 ##Vrijstellingregeling LC50/LD50-dierproeven
 
 De Staatssecretaris van Volksgezondeheid, Welzijn en Sport;  
-Gelet op [artikel 10, derde lid, van de Wet op de dierproeven](../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md);
+Gelet op artikel 10, derde lid, van de Wet op de dierproeven;
 Besluit:     
 
 ### Artikel  1  
 
-Vrijstelling van het in [artikel 10, tweede lid, van de Wet op de dierproeven](../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) gestelde verbod tot het verrichten van dierproeven door middel van LC50/LD50-testmethoden wordt verleend ten aanzien van: 
+Vrijstelling van het in artikel 10, tweede lid, van de Wet op de dierproeven gestelde verbod tot het verrichten van dierproeven door middel van LC50/LD50-testmethoden wordt verleend ten aanzien van: 
 
 het bepalen van de acute dermale toxiciteit;  
 
@@ -20,7 +20,7 @@ het bepalen van de acute toxiciteit op vogels.
 
 ### Artikel  2  
 
-Deze regeling treedt in werking op het tijdstip waarop de [wet van 12 september 1996 tot wijzing van de Wet op de dierproeven](../../../../wet/wijzigingswet/wet/op/de/dierproeven/BWBR0008234/README.md) (Stb. 1996, 500) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop de wet van 12 september 1996 tot wijzing van de Wet op de dierproeven (Stb. 1996, 500) in werking treedt. 
 
 ### Artikel  3  
 

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 22 december 2011, nr. 2011-2000589667, tot vaststelling van nadere voorschriften voor bouwwerken (Regeling Bouwbesluit 2012)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties  
-Gelet op de [artikelen 1.5](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [1.9, vierde lid](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [1.10](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [1.11, tweede lid](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [2.108, tweede lid](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [5.9, derde lid](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.23, tweede lid](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md),[ 6.29, tweede lid](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), en [8.9 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), op richtlijn nr. 89/106/EEG van de Raad van de Europese Gemeenschappen van 21 december 1988 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen der Lid-Staten inzake voor de bouw bestemde producten (PbEG L 40), zoals gewijzigd bij richtlijn nr. 93/68/EEG van de Raad van 22 juli 1993 (PbEG L 220) en verordening (EU) nr. 305/2011 van het Europees Parlement en de Raad van de Europese Unie van 9 maart 2011 tot vaststelling van geharmoniseerde voorwaarden voor het verhandelen van bouwproducten en tot intrekking van Richtlijn 89/106/EEG van de Raad (PbEU L 88);
+Gelet op de artikelen 1.5, 1.9, vierde lid, 1.10, 1.11, tweede lid, 2.108, tweede lid, 5.9, derde lid, 6.23, tweede lid, 6.29, tweede lid, en 8.9 van het Bouwbesluit 2012, op richtlijn nr. 89/106/EEG van de Raad van de Europese Gemeenschappen van 21 december 1988 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen der Lid-Staten inzake voor de bouw bestemde producten (PbEG L 40), zoals gewijzigd bij richtlijn nr. 93/68/EEG van de Raad van 22 juli 1993 (PbEG L 220) en verordening (EU) nr. 305/2011 van het Europees Parlement en de Raad van de Europese Unie van 9 maart 2011 tot vaststelling van geharmoniseerde voorwaarden voor het verhandelen van bouwproducten en tot intrekking van Richtlijn 89/106/EEG van de Raad (PbEU L 88);
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -23,7 +23,7 @@ In deze regeling wordt verstaan onder:
 
 *bedreigd subbrandcompartiment:* subbrandcompartiment waarin een brand begint;  
 
-*besluit:* [Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+*besluit:* Bouwbesluit 2012;  
 
 *ISSO:* publicatie van het Kennisinstituut voor de Installatiesector; 
 
@@ -37,9 +37,9 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  1.2  
 
-1.  Waar bij het besluit of deze regeling is verwezen naar een NEN, NEN-EN, NVN, of V, is in bijlage I en voor zover het een in de [afdelingen 2.1](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en [2.2](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) van het besluit aangewezen NEN-EN betreft in bijlage II bij deze regeling bepaald welke uitgave daarvan van toepassing is.   
+1.  Waar bij het besluit of deze regeling is verwezen naar een NEN, NEN-EN, NVN, of V, is in bijlage I en voor zover het een in de afdelingen 2.1 en 2.2 van het besluit aangewezen NEN-EN betreft in bijlage II bij deze regeling bepaald welke uitgave daarvan van toepassing is.   
 2.  Van de in het eerste lid bedoelde normen met een verwijzing naar een andere norm of een onderdeel van een andere norm zijn de verwijzingen van toepassing voor zover deze betrekking hebben op normen die in bijlage I respectievelijk bijlage II bij deze regeling zijn opgenomen.   
-3.  In afwijking van het tweede lid zijn van de in de [afdelingen 6.2](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en [6.3](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) van het besluit aangewezen normen, met uitzondering van NEN 1010, alle verwijzingen van toepassing.  
+3.  In afwijking van het tweede lid zijn van de in de afdelingen 6.2 en 6.3 van het besluit aangewezen normen, met uitzondering van NEN 1010, alle verwijzingen van toepassing.  
 
 ### Paragraaf  1.3  
 
@@ -74,15 +74,15 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  1.7  
 
-Een instelling die overeenkomstig artikel 16 van de richtlijn bouwproducten door de lidstaat van oorsprong is erkend met het oog op het afgeven van kwaliteitsverklaringen voor andere lidstaten, wordt gelijkgesteld met een door de minister aangewezen onafhankelijk deskundig instituut als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md). 
+Een instelling die overeenkomstig artikel 16 van de richtlijn bouwproducten door de lidstaat van oorsprong is erkend met het oog op het afgeven van kwaliteitsverklaringen voor andere lidstaten, wordt gelijkgesteld met een door de minister aangewezen onafhankelijk deskundig instituut als bedoeld in artikel 1, eerste lid, onderdeel i, van de Woningwet. 
 
 ### Artikel  1.8  
 
-De voorwaarden waaronder kwaliteitsverklaringen als bedoeld in [artikel 1.11 van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) worden afgegeven, worden vastgelegd in een overeenkomst tussen de bij het in dat artikel bedoelde stelsel betrokken partijen. De minister maakt deze overeenkomst in de Staatscourant bekend. 
+De voorwaarden waaronder kwaliteitsverklaringen als bedoeld in artikel 1.11 van het besluit worden afgegeven, worden vastgelegd in een overeenkomst tussen de bij het in dat artikel bedoelde stelsel betrokken partijen. De minister maakt deze overeenkomst in de Staatscourant bekend. 
 
 ### Artikel  1.9  
 
-De minister wijst een instelling aan die het in [artikel 1.11](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) van het besluit bedoelde stelsel coördineert en zorgdraagt voor de bekendmaking van de in dat artikel bedoelde kwaliteitsverklaringen. 
+De minister wijst een instelling aan die het in artikel 1.11 van het besluit bedoelde stelsel coördineert en zorgdraagt voor de bekendmaking van de in dat artikel bedoelde kwaliteitsverklaringen. 
 
 ### Paragraaf  1.5  
 
@@ -90,17 +90,17 @@ De minister wijst een instelling aan die het in [artikel 1.11](../../../../../AM
 
 ### Artikel  1.10  
 
-1.  Een brandmeldinstallatie als bedoeld in [artikel 6.20 van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en een ontruimingsinstallatie als bedoeld in [artikel 6.23, eerste lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) beschikt voor ingebruikname over een inspectiecertificaat als bedoeld in artikel 6.20, zesde lid, van het besluit respectievelijk artikel 6.23, vierde lid, van het besluit.   
-2.  Een inspectiecertificaat als bedoeld in het eerste lid heeft een geldigheidsduur van drie jaar. Indien op grond van [artikel 6.20, eerste lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) doormelding verplicht is, is de geldigheidsduur een jaar.  
+1.  Een brandmeldinstallatie als bedoeld in artikel 6.20 van het besluit en een ontruimingsinstallatie als bedoeld in artikel 6.23, eerste lid, van het besluit beschikt voor ingebruikname over een inspectiecertificaat als bedoeld in artikel 6.20, zesde lid, van het besluit respectievelijk artikel 6.23, vierde lid, van het besluit.   
+2.  Een inspectiecertificaat als bedoeld in het eerste lid heeft een geldigheidsduur van drie jaar. Indien op grond van artikel 6.20, eerste lid, van het besluit doormelding verplicht is, is de geldigheidsduur een jaar.  
 
 ### Artikel  1.11  
 
-1.  Een automatische brandblusinstallatie als bedoeld in [artikel 6.32, eerste lid](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), van het besluit en een rookbeheersingsinstallatie als bedoeld in artikel 6.32, tweede lid, van het besluit beschikt voor ingebruikname over een inspectiecertificaat als bedoeld in artikel 6.32, eerste respectievelijk tweede lid, van het besluit.   
+1.  Een automatische brandblusinstallatie als bedoeld in artikel 6.32, eerste lid, van het besluit en een rookbeheersingsinstallatie als bedoeld in artikel 6.32, tweede lid, van het besluit beschikt voor ingebruikname over een inspectiecertificaat als bedoeld in artikel 6.32, eerste respectievelijk tweede lid, van het besluit.   
 2.  Een inspectiecertificaat als bedoeld in het eerste lid heeft een geldigheidsduur van een jaar.  
 
 ### Artikel  1.12  
 
-Bij toepassing van de CCV-inspectieschema’s, genoemd in de [artikelen 6.20, zesde lid](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [6.23, vierde lid](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), en [6.32 van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) wordt uitgegaan van de desbetreffende onderdelen van het CCV-inspectieschema Brandbeveiliging van 1 september 2012, inclusief wijzigingsblad W1: 2012. 
+Bij toepassing van de CCV-inspectieschema’s, genoemd in de artikelen 6.20, zesde lid, 6.23, vierde lid, en 6.32 van het besluit wordt uitgegaan van de desbetreffende onderdelen van het CCV-inspectieschema Brandbeveiliging van 1 september 2012, inclusief wijzigingsblad W1: 2012. 
 
 ### Paragraaf  1.6  
 
@@ -108,7 +108,7 @@ Bij toepassing van de CCV-inspectieschema’s, genoemd in de [artikelen 6.20, ze
 
 ### Artikel  1.13  
 
-Indien een te bouwen gebouw gebouwgebonden veiligheidsvoorzieningen als bedoeld in [artikel 6.53, eerste lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) nodig heeft om onderhoud veilig te kunnen uitvoeren, wordt om die voorzieningen te beoordelen gebruikgemaakt van de Checklist Veilig onderhoud op en aan gebouwen 2012. 
+Indien een te bouwen gebouw gebouwgebonden veiligheidsvoorzieningen als bedoeld in artikel 6.53, eerste lid, van het besluit nodig heeft om onderhoud veilig te kunnen uitvoeren, wordt om die voorzieningen te beoordelen gebruikgemaakt van de Checklist Veilig onderhoud op en aan gebouwen 2012. 
 
 ### Hoofdstuk  2  
 
@@ -120,7 +120,7 @@ Indien een te bouwen gebouw gebouwgebonden veiligheidsvoorzieningen als bedoeld 
 
 ### Artikel  2.1  
 
-1.  Op een gedeelte van een vluchtroute, gelegen buiten het subbrandcompartiment waarin de vluchtroute begint, kan worden afgeweken van [artikel 2.108, eerste lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) indien de personen die zijn aangewezen op dat gedeelte en eventueel daarop volgende gedeelten van de vluchtroute het aansluitende terrein kunnen bereiken binnen: 
+1.  Op een gedeelte van een vluchtroute, gelegen buiten het subbrandcompartiment waarin de vluchtroute begint, kan worden afgeweken van artikel 2.108, eerste lid, van het besluit indien de personen die zijn aangewezen op dat gedeelte en eventueel daarop volgende gedeelten van de vluchtroute het aansluitende terrein kunnen bereiken binnen: 
 
 a. 30 minuten indien het betreffende gedeelte van de vluchtroute een veiligheidsvluchtroute is;  
 
@@ -161,11 +161,11 @@ i. de opvangcapaciteit van een trap is 0,9 persoon per trede per meter breedte v
 
 j. de opvangcapaciteit van een vloer of hellingbaan is ten hoogste 4 personen per m<sup>2</sup> vrije vloeroppervlakte, en  
 
-k. het gestelde in [artikel 2.108, eerste lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), waarbij voor ‘personen’ wordt gelezen: personen per minuut.  
+k. het gestelde in artikel 2.108, eerste lid, van het besluit, waarbij voor ‘personen’ wordt gelezen: personen per minuut.  
 
-l. het gestelde in [artikel 6.25, derde lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), waarbij voor ‘37 personen’ wordt gelezen: 37 personen per minuut;  
+l. het gestelde in artikel 6.25, derde lid, van het besluit, waarbij voor ‘37 personen’ wordt gelezen: 37 personen per minuut;  
 
-m. in afwijking van onderdeel l geldt het gestelde in [artikel 6.25, derde lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) onverkort als in de ruimte voor de deur tijdens een tijdstap meer dan 37 personen aanwezig zijn.    
+m. in afwijking van onderdeel l geldt het gestelde in artikel 6.25, derde lid, van het besluit onverkort als in de ruimte voor de deur tijdens een tijdstap meer dan 37 personen aanwezig zijn.    
 5.  Bij toepassing van het tweede en derde lid gelden in aanvulling op het vierde lid de volgende uitgangspunten: 
 
 a. brand ontstaat niet op twee of meer plaatsen tegelijk;  
@@ -181,11 +181,11 @@ c. de opvang- en doorstroomcapaciteit van vluchtroutes die door het bedreigde su
 
 ### Artikel  2.2  
 
-Een in een logiesgebouw gelegen logiesfunctie, niet zijnde een logiesfunctie met 24-uurs bewaking, heeft een ontruimingsalarminstallatie als bedoeld in [artikel 6.23 van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), waarvan het ontruimingssignaal direct en in het gehele gebouw in werking wordt gesteld bij het activeren van de automatische melder of handbrandmelder. 
+Een in een logiesgebouw gelegen logiesfunctie, niet zijnde een logiesfunctie met 24-uurs bewaking, heeft een ontruimingsalarminstallatie als bedoeld in artikel 6.23 van het besluit, waarvan het ontruimingssignaal direct en in het gehele gebouw in werking wordt gesteld bij het activeren van de automatische melder of handbrandmelder. 
 
 ### Artikel  2.3  
 
-In afwijking van [artikel 6.26, tweede lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) geldt voor een woongebouw zoals bedoeld in [artikel 2.104, vierde lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) dat een niet-gemeenschappelijke doorgang een zelfsluitende deur heeft. 
+In afwijking van artikel 6.26, tweede lid, van het besluit geldt voor een woongebouw zoals bedoeld in artikel 2.104, vierde lid, van het besluit dat een niet-gemeenschappelijke doorgang een zelfsluitende deur heeft. 
 
 ### Paragraaf  2.3  
 
@@ -196,11 +196,11 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  2.4  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Een geheel of gedeeltelijk in een veiligheidszone bij een weg of spoorweg te bouwen bouwwerk dat tevens een beperkt kwetsbaar object als bedoeld in het [Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) is, voldoet aan het bepaalde in de artikelen 2.5 tot en met 2.10.   
-2.  Een geheel of gedeeltelijk in een plasbrandaandachtsgebied te bouwen bouwwerk dat tevens een kwetsbaar of beperkt kwetsbaar object als bedoeld in het [Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) is, voldoet aan het bepaalde in de artikelen 2.5 tot en met 2.9.   
-3.  Het eerste lid is van overeenkomstige toepassing op een boven de volle breedte van een weg of spoorweg die slechts voor een deel van die breedte een veiligheidszone betreft, te bouwen bouwwerk dat tevens een beperkt kwetsbaar object als bedoeld in het [Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) is.   
-4.  Het tweede lid is van overeenkomstige toepassing op een geheel of gedeeltelijk in een veiligheidszone bij een binnenwater te bouwen bouwwerk dat tevens een kwetsbaar of beperkt kwetsbaar object als bedoeld in het [Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) is.   
-5.  Het eerste tot en met vierde lid zijn niet van toepassing op bouwwerken voor zover die bouwwerken objecten met een hoge infrastructurele waarde als bedoeld in het [Besluit externe veiligheid inrichtingen](../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) zijn.  
+1.  Een geheel of gedeeltelijk in een veiligheidszone bij een weg of spoorweg te bouwen bouwwerk dat tevens een beperkt kwetsbaar object als bedoeld in het Besluit externe veiligheid inrichtingen is, voldoet aan het bepaalde in de artikelen 2.5 tot en met 2.10.   
+2.  Een geheel of gedeeltelijk in een plasbrandaandachtsgebied te bouwen bouwwerk dat tevens een kwetsbaar of beperkt kwetsbaar object als bedoeld in het Besluit externe veiligheid inrichtingen is, voldoet aan het bepaalde in de artikelen 2.5 tot en met 2.9.   
+3.  Het eerste lid is van overeenkomstige toepassing op een boven de volle breedte van een weg of spoorweg die slechts voor een deel van die breedte een veiligheidszone betreft, te bouwen bouwwerk dat tevens een beperkt kwetsbaar object als bedoeld in het Besluit externe veiligheid inrichtingen is.   
+4.  Het tweede lid is van overeenkomstige toepassing op een geheel of gedeeltelijk in een veiligheidszone bij een binnenwater te bouwen bouwwerk dat tevens een kwetsbaar of beperkt kwetsbaar object als bedoeld in het Besluit externe veiligheid inrichtingen is.   
+5.  Het eerste tot en met vierde lid zijn niet van toepassing op bouwwerken voor zover die bouwwerken objecten met een hoge infrastructurele waarde als bedoeld in het Besluit externe veiligheid inrichtingen zijn.  
 
 ### Artikel  2.5  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -230,8 +230,8 @@ Treedt in werking op een nader te bepalen tijdstip
 ### Artikel  2.9  
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  Voor een te bouwen bouwwerk dat gelegen is in een veiligheidszone of plasbrandaandachtsgebied zijn de voorschriften van [afdeling 2.2 van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) van overeenkomstige toepassing waarbij wordt uitgegaan van de buitenruimte als een subbrandcompartiment of brandcompartiment en een buitenbrandkromme volgens NEN-EN 13501-2.   
-2.  Na het ontstaan van brand in een veiligheidzone of plasbrandaandachtsgebied bezwijkt een boven die veiligheidszone of dat plasbrandaandachtsgebied te bouwen bouwconstructie niet binnen 90 minuten, bepaald volgens [artikel 2.11 van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en uitgaande van ontwerpbrandscenario’s zoals bedoeld in paragraaf 2.2 van NEN-EN 1991-1-2.  
+1.  Voor een te bouwen bouwwerk dat gelegen is in een veiligheidszone of plasbrandaandachtsgebied zijn de voorschriften van afdeling 2.2 van het besluit van overeenkomstige toepassing waarbij wordt uitgegaan van de buitenruimte als een subbrandcompartiment of brandcompartiment en een buitenbrandkromme volgens NEN-EN 13501-2.   
+2.  Na het ontstaan van brand in een veiligheidzone of plasbrandaandachtsgebied bezwijkt een boven die veiligheidszone of dat plasbrandaandachtsgebied te bouwen bouwconstructie niet binnen 90 minuten, bepaald volgens artikel 2.11 van het besluit en uitgaande van ontwerpbrandscenario’s zoals bedoeld in paragraaf 2.2 van NEN-EN 1991-1-2.  
 
 ### Artikel  2.10  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -244,15 +244,29 @@ Een in een veiligheidzone te bouwen bouwwerk met een mechanisch ventilatiesystee
 
 ### Artikel  3.1  
 
-Waar in [artikel 5.9 van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) wordt verwezen naar de Bepalingsmethode Milieuprestatie Gebouwen en GWW-werken is bedoeld de Berekeningswijze voor het bepalen van de milieuprestatie van gebouwen en GWW-werken gedurende hun gehele levensduur, gebaseerd op de levenscyclusanalysemethode (LCA-CML2) van 1 november 2011. 
+Waar in artikel 5.9 van het besluit wordt verwezen naar de Bepalingsmethode Milieuprestatie Gebouwen en GWW-werken is bedoeld de Berekeningswijze voor het bepalen van de milieuprestatie van gebouwen en GWW-werken gedurende hun gehele levensduur, gebaseerd op de levenscyclusanalysemethode (LCA-CML2) van 1 november 2011. 
 
 ### Artikel  3.2  
 
-Van een ingrijpende renovatie als bedoeld in [artikel 5.6, derde lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) is sprake wanneer meer dan 25% van de oppervlakte van de gebouwschil, bepaald volgens ISSO 75.1, uitgave oktober 2011, wordt vernieuwd, veranderd of vergroot en deze vernieuwing, verandering of vergroting de integrale gebouwschil betreft. 
+Van een ingrijpende renovatie als bedoeld in artikel 5.6, derde lid, van het besluit is sprake wanneer meer dan 25% van de oppervlakte van de gebouwschil, bepaald volgens ISSO 75.1, uitgave oktober 2011, wordt vernieuwd, veranderd of vergroot en deze vernieuwing, verandering of vergroting de integrale gebouwschil betreft. 
 
 ### Artikel  3.3  
 
 Het in artikel 6.55 van het besluit bedoelde systeemrendement wordt bepaald op basis van de als bijlage III bij deze regeling opgenomen rekenmethodiek. 
+
+### Artikel  3.4  
+Treedt in werking per 01-01-2015 
+
+De gemiddelde warmtedoorgangscoëfficiënt als bedoeld in artikel 5.3, zesde lid, van het besluit wordt berekend door: ![254402](http://wetten.overheid.nl/Illustration/254402)
+waarin: 
+
+x = het aantal ramen, deuren en kozijnen van een bouwwerk  
+
+Un  = de warmtedoorgangscoëfficiënt van een raam, deur of kozijn bepaald volgens NEN 1068  
+
+An  = het geprojecteerde oppervlak van een raam, deur of kozijn bepaald volgens NEN 1068  
+
+At  = het totale geprojecteerde oppervlak van alle ramen, deuren en kozijnen van een bouwwerk   
 
 ### Hoofdstuk  4  
 
@@ -260,9 +274,9 @@ Het in artikel 6.55 van het besluit bedoelde systeemrendement wordt bepaald op b
 
 ### Artikel  4.1  
 
-1.  Onverminderd [artikel 1.29, tweede lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) worden de categorieën bouw- en sloopafval als bedoeld in [artikel 8.9 van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) ten minste gescheiden in de volgende fracties: 
+1.  Onverminderd artikel 1.29, tweede lid, van het besluit worden de categorieën bouw- en sloopafval als bedoeld in artikel 8.9 van het besluit ten minste gescheiden in de volgende fracties: 
 
-a. als gevaarlijk aangeduide afvalstoffen als bedoeld in hoofdstuk 17 van de afvalstoffenlijst bedoeld in de [Regeling Europese afvalstoffenlijst](../../../../../ministeriele-regeling/regeling/europese/afvalstoffenlijst/BWBR0013546/README.md), voor zover deze stoffen niet in de onderdelen b tot en met j van dit lid zijn opgenomen;  
+a. als gevaarlijk aangeduide afvalstoffen als bedoeld in hoofdstuk 17 van de afvalstoffenlijst bedoeld in de Regeling Europese afvalstoffenlijst, voor zover deze stoffen niet in de onderdelen b tot en met j van dit lid zijn opgenomen;  
 
 b. teerhoudende dakbedekking, al dan niet met dakbeschot;  
 
@@ -360,7 +374,7 @@ a. De volgende onderdelen blijven buiten toepassing:
 
 – 56.6.9 veiligheidsvoorzieningen, anders dan een brandweerlift;  
 
-– 56.7.3: verwijzing naar [Bouwbesluit 2003](../../../../../ministeriele-regeling/regeling/bouwbesluit/2003/BWBR0014319/README.md);  
+– 56.7.3: verwijzing naar Bouwbesluit 2003;  
 
 – deel 6: inspectie;  
 
@@ -426,7 +440,7 @@ b. In onderdeel 714.11 is de bepaling dat rubriek 714 niet geldt voor openbare v
 
 ####NEN 1087
 
-Waar in [artikel 3.50, tweede lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) wordt verwezen naar NEN 1087 is bedoeld de onderdelen 5.1 en 5.3 van die norm. 
+Waar in artikel 3.50, tweede lid, van het besluit wordt verwezen naar NEN 1087 is bedoeld de onderdelen 5.1 en 5.3 van die norm. 
 
 ### Artikel  5.3  
 
@@ -438,25 +452,25 @@ Bij de toepassing van NEN 2057 geldt het volgende: In vergelijking (1) in hoofds
 
 ####NEN 2535 en NEN 2575
 
-Bij de toepassing van NEN 2535 en NEN 2575 is het in die normen bedoelde akkoord van de bevoegde autoriteit verkregen met een vergunning voor het bouwen of voor brandveilig gebruik of een melding als bedoeld in [artikel 1.18, eerste lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md). 
+Bij de toepassing van NEN 2535 en NEN 2575 is het in die normen bedoelde akkoord van de bevoegde autoriteit verkregen met een vergunning voor het bouwen of voor brandveilig gebruik of een melding als bedoeld in artikel 1.18, eerste lid, van het besluit. 
 
 ### Artikel  5.4  
 
 ####NEN 2654 -1
 
-Waar in [artikel 6.20, zevende en achtste lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) wordt verwezen naar NEN 2654-1 zijn bedoeld de onderdeel 5.3, met uitzondering van onderdeel 5.3.6, en de onderdelen 5.4, 5.6 en 5.7 van die norm. 
+Waar in artikel 6.20, zevende en achtste lid, van het besluit wordt verwezen naar NEN 2654-1 zijn bedoeld de onderdeel 5.3, met uitzondering van onderdeel 5.3.6, en de onderdelen 5.4, 5.6 en 5.7 van die norm. 
 
 ### Artikel  5.5  
 
 ####NEN 2654-2
 
-Waar in [artikel 6.23, derde en vijfde lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) wordt verwezen naar NEN 2654-2 is bedoeld onderdeel 5.3, met uitzondering van onderdeel 5.3.5, en de onderdelen 5.4, 5.5.3 en 5.6 van die norm. 
+Waar in artikel 6.23, derde en vijfde lid, van het besluit wordt verwezen naar NEN 2654-2 is bedoeld onderdeel 5.3, met uitzondering van onderdeel 5.3.5, en de onderdelen 5.4, 5.5.3 en 5.6 van die norm. 
 
 ### Artikel  5.6  
 
 ####NEN 2757
 
-Waar in de [artikelen 3.50](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md), [3.53](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en [3.54 van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) wordt verwezen naar NEN 2757 is bedoeld: 
+Waar in de artikelen 3.50, 3.53 en 3.54 van het besluit wordt verwezen naar NEN 2757 is bedoeld: 
 
 a. NEN 2757-1 voor verbrandingsinstallaties met een belasting kleiner dan of gelijk aan 130 kW op bovenwaarde, en  
 
@@ -504,13 +518,13 @@ Bij de toepassing van NEN 2057 geldt het volgende: Onderdeel 6.1 wordt gelezen a
 
 ####NEN 2535 en NEN 2575
 
-Bij de toepassing van NEN 2535 en NEN 2575 is het in die normen bedoelde akkoord van de bevoegde autoriteit verkregen met een vergunning voor het bouwen of voor brandveilig gebruik of een melding als bedoeld in [artikel 1.18, eerste lid, van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md). 
+Bij de toepassing van NEN 2535 en NEN 2575 is het in die normen bedoelde akkoord van de bevoegde autoriteit verkregen met een vergunning voor het bouwen of voor brandveilig gebruik of een melding als bedoeld in artikel 1.18, eerste lid, van het besluit. 
 
 ### Artikel  5.10  
 
 ####NEN 8062
 
-1.  Waar in [artikel 2.64 van het besluit](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) is voorgeschreven dat de brandveiligheid van een afvoervoorziening voor rookgas wordt bepaald volgens NEN 8062 geldt bij de toepassing van onderdeel 4 van die norm dat materiaal waaruit een voorziening voor de afvoer van rookgas is samengesteld onbrandbaar is, bepaald volgens NEN 6064, voor zover in dat materiaal een temperatuur kan optreden van meer dan 363 K. In afwijking van ‘onbrandbaar’ volgens NEN 6064 mogen ook materialen die voldoen aan de brandklasse A1 volgens NEN-EN 13501-1 zijn toegepast.   
+1.  Waar in artikel 2.64 van het besluit is voorgeschreven dat de brandveiligheid van een afvoervoorziening voor rookgas wordt bepaald volgens NEN 8062 geldt bij de toepassing van onderdeel 4 van die norm dat materiaal waaruit een voorziening voor de afvoer van rookgas is samengesteld onbrandbaar is, bepaald volgens NEN 6064, voor zover in dat materiaal een temperatuur kan optreden van meer dan 363 K. In afwijking van ‘onbrandbaar’ volgens NEN 6064 mogen ook materialen die voldoen aan de brandklasse A1 volgens NEN-EN 13501-1 zijn toegepast.   
 2.  Bij de toepassing van onderdeel 5 van NEN 8062 geldt dat luchtdichtheid van een voorziening voor de afvoer van rookgas kleiner is dan 25 m<sup>3</sup>/m<sup>2</sup>/h.   
 3.  Indien bij het bouwen de voorziening is gerealiseerd met toepassing van NEN 6062 en de bestaande voorziening aan dat normblad voldoet, is voldaan aan het eerste en het tweede lid.  
 
@@ -524,7 +538,7 @@ De Regeling Bouwbesluit 2003 wordt ingetrokken.
 
 ### Artikel  6.2  
 
-Deze regeling treedt in werking op het tijdstip bedoeld in [artikel 9.4, eerste lid, van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md). 
+Deze regeling treedt in werking op het tijdstip bedoeld in artikel 9.4, eerste lid, van het Bouwbesluit 2012. 
 
 ### Artikel  6.3  
 

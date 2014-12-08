@@ -21,19 +21,21 @@ c. gemandateerde: degene aan wie mandaat is verleend;
 
 d. mandaatgever: degene die mandaat verleent;
 
-e.machtiging: de bevoegdheid om in naam van de Minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn. 
+e.machtiging: de bevoegdheid om in naam van de Minister handelingen te verrichten die noch een besluit, noch een privaatrechtelijke rechtshandeling zijn;
+
+f. collegiaal managementteam: groep leidinggevenden van een directie of eenheid.  
 
 ###Artikel 1a 
 
 ####Personeelsaangelegenheden
 
-Deze regeling is niet van toepassing op mandaat met betrekking tot personeelsaangelegenheden.
+Deze regeling is niet van toepassing op personeelsaangelegenheden.
 
 ###Artikel 1b 
 
 #### Machtiging
 
-Hetgeen in deze regeling is bepaald met betrekking tot mandaat is, behoudens artikel 1a, van overeenkomstige toepassing op machtiging.
+Hetgeen in deze regeling is bepaald met betrekking tot mandaat is van overeenkomstige toepassing op machtiging.
 
 ### Hoofdstuk 2  
 
@@ -69,7 +71,8 @@ Een krachtens mandaat genomen besluit vermeldt namens welk bewindspersoon het be
 
 ####Vervanging
 
-Bij afwezigheid of verhindering van een gemandateerde wordt, voor de duur van de afwezigheid of verhindering, diens bevoegdheid uitgeoefend door de plaatsvervanger, behoudens de bevoegdheid tot het verlenen, wijzigen of intrekken van een ondermandaat. 
+1. Bij afwezigheid of verhindering van een gemandateerde wordt, voor de duur van de afwezigheid of verhindering, diens bevoegdheid uitgeoefend door de plaatsvervanger, behoudens de bevoegdheid tot het verlenen, wijzigen of intrekken van een ondermandaat.  
+2.  Indien een gemandateerde geen plaatsvervanger heeft is, voor de duur van de afwezigheid of verhindering, ieder ander lid van diens collegiaal managementteam dan wel ieder hoofd van een direct onder de betrokken gemandateerde ressorterende organisatie-eenheid bevoegd tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid. 
 
 ### Hoofdstuk 3  
 
@@ -89,27 +92,26 @@ Behoudens artikel 12, heeft de plaatsvervangend Secretaris-Generaal mandaat ten 
 
 ### Artikel  10  
 
-Behoudens de artikelen 12 tot en met 15 hebben de volgende functionarissen mandaat ten aanzien van stukken die tot hun werkterrein behoren: 
+1. Behoudens de artikelen 12 tot en met 15 hebben de volgende functionarissen mandaat ten aanzien van stukken die tot hun werkterrein behoren: 
 
-a. de Directeuren-Generaal en de Directeuren van een beleidsdirectie, stafeenheid of een facilitaire eenheid van het kernministerie;  
+a. De Directeuren-Generaal en de directeuren van een directie of eenheid van het kernministerie;  
 
 b. de Directeur-Generaal van het Rijksinstituut voor Volksgezondheid en Milieu;  
 
-c. de Directeur van het Nederlands Vaccin Instituut;  
+c. de Inspecteur-Generaal voor de Gezondheidszorg;  
 
-d. de Inspecteur-Generaal voor de Gezondheidszorg;  
+d. de Hoofdinspecteur Jeugdzorg;  
 
-e. de Hoofdinspecteur Jeugdzorg;  
+e. de inspecteur-generaal, de Hoofdinspecteur van de divisie Veterinair en import, de Hoofdinspecteur van de divisie Landbouw en natuur, de Hoofdinspecteur van de divisie Consument en veiligheid, de Directeur van de Inlichtingen- en Opsporingsdienst, de Directeur Staf, de Directeur Klantencontact en dienstverlening en de Directeur Bureau Risicobeoordeling en Onderzoeksprogrammering van de Nederlandse Voedsel- en Warenautoriteit;  
 
-f. de inspecteur-generaal, de Hoofdinspecteur van de divisie Veterinair en import, de Hoofdinspecteur van de divisie Landbouw en natuur, de Hoofdinspecteur van de divisie Consument en veiligheid, de Directeur van de Inlichtingen- en Opsporingsdienst, de Directeur Staf, de Directeur Klantencontact en dienstverlening en de Directeur Bureau Risicobeoordeling en Onderzoeksprogrammering van de Nederlandse Voedsel- en Warenautoriteit;  
+f. de Directeur van het agentschap Centraal Informatiepunt Beroepen Gezondheidszorg;  
 
-g. de Directeur van het agentschap Centraal Informatiepunt Beroepen Gezondheidszorg;  
+g. de Directeur van het agentschap College ter Beoordeling van Geneesmiddelen;  
 
-h. de Directeur van het agentschap College ter beoordeling van Geneesmiddelen;  
+h. de Directeur van het Sociaal en Cultureel Planbureau;  
 
-i. de Directeur van het Sociaal en Cultureel Planbureau;  
-
-j. de hoofden van de direct onder de functionarissen, genoemd onder a tot en met i, ressorterende organisatie-eenheden.   
+i. de hoofden van de direct onder de functionarissen, genoemd onder a tot en met h, ressorterende organisatie-eenheden.    
+2.  Indien een directie of eenheid niet is verdeeld in organisatie-eenheden, heeft ieder ander lid van het collegiaal managementteam mandaat ten aanzien van stukken die tot het werkterrein van zijn directie of eenheid behoren. 
 
 ### Hoofdstuk 4  
 
@@ -137,23 +139,21 @@ a.  stukken, inhoudende vaststelling van algemeen verbindende voorschriften;
 
 b.  stukken, inhoudende een aankondiging van uitbreiding van de rijksbemoeienis op het terrein van volksgezondheid, welzijn of sport of een aankondiging van wijzigingen van het beleid; 
 
-c.  besluiten, waaruit belangrijke politieke of bestuurlijke gevolgen kunnen voortvloeien; 
+c.  besluiten op een beroepschrift; 
 
-d.  besluiten op een beroepschrift; 
+d.  besluiten, inhoudende de vernietiging van of de onthouding van de goedkeuring aan een besluit van een ander bestuursorgaan; 
 
-e.  besluiten, inhoudende de vernietiging van of de onthouding van de goedkeuring aan een besluit van een ander bestuursorgaan; 
-
-f.  stukken, inhoudende aanwijzingen aan een ander bestuursorgaan op grond van een wettelijk voorschrift.   
+e.  stukken, inhoudende aanwijzingen aan een ander bestuursorgaan op grond van een wettelijk voorschrift.   
 
 ### Artikel 12  
 
 ####Secretaris-Generaal
 
-In afwijking van de artikelen 9 en 10 heeft de Secretaris-Generaal het mandaat met betrekking tot de stukken bestemd voor de Nationale Ombudsman. 
+In afwijking van de artikelen 9 en 10 heeft de Secretaris-Generaal het mandaat met betrekking tot de stukken bestemd voor de Nationale ombudsman. 
 
 ### Artikel  13  
 
-In afwijking van artikel 10 hebben de Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de functionarissen genoemd in artikel 10 onder b tot en met g, ieder mandaat ten aanzien van beleidsregels, alsmede ten aanzien van circulaires die tot hun werkterrein behoren en die worden gebruikt voor: 
+In afwijking van artikel 10 hebben de Secretaris-Generaal, de Directeuren-Generaal van het kernministerie en de functionarissen genoemd in artikel 10, eerste lid, onder b tot en met f, ieder mandaat ten aanzien van beleidsregels, alsmede ten aanzien van circulaires die tot hun werkterrein behoren en die worden gebruikt voor: 
 
 a. bekendmaking van beleidsmaatregelen en daarmee samenhangende voorschriften;  
 
@@ -167,20 +167,20 @@ c. het vragen om inlichtingen.
 
 a. de Secretaris-Generaal;  
 
-b. de Directeur Wetgeving en Juridische Zaken, met uitzondering van het werkterrein van de Directie Bedrijfsvoering;  
+b. de Directeur Wetgeving en Juridische Zaken, voor zover behorend tot het werkterrein van het kernministerie;  
 
-c. ten aanzien van hun eigen werkterrein, de functionarissen genoemd in artikel 10, eerste lid, onder b tot en met g.     
+c. ten aanzien van hun eigen werkterrein, de functionarissen genoemd in artikel 10, eerste lid, onder b tot en met f.     
 2.  In afwijking van artikel 10 hebben de Secretaris-Generaal en de Directeur Wetgeving en Juridische Zaken mandaat tot het nemen van beslissingen op bezwaar.   
 3. In afwijking van het tweede lid blijft aan de Minister voorbehouden de bevoegdheid tot het nemen van een besluit inzake een bezwaar tegen een besluit dat door de Minister dan wel door de Secretaris-Generaal namens de Minister is genomen.
-4. Op machtigingen, verleend ten behoeve van het vertegenwoordigen van de Minister in procedures bij de bestuursrechter, zijn de artikelen 16, vijfde lid, voor zover het de goedkeuring van de Secretaris-Generaal betreft, en 17 niet van toepassing.
+4. Op machtigingen, verleend ten behoeve van het vertegenwoordigen van de Minister in procedures bij de bestuursrechter, zijn de artikelen 16, vijfde lid, voor zover het de goedkeuring van de Secretaris-Generaal betreft, en 17 niet van toepassing. 
+5.  Alle functionarissen ondergeschikt aan de Directeur Wetgeving en Juridische Zaken hebben mandaat met betrekking tot het nemen van beslissingen en het verrichten van handelingen betreffende de voorbereiding van een beslissing op bezwaar. 
 
 ### Artikel 15  
 
-####[Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md)
+####Wet openbaarheid van bestuur
 
-1.  In afwijking van artikel 10 heeft de Directeur Communicatie mandaat met betrekking tot stukken in het kader van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md), niet inhoudende geheel of gedeeltelijk afwijzende besluiten.   
-2.  In afwijking van de artikelen 9 en 10 heeft de Secretaris-Generaal mandaat met betrekking tot de stukken behelzende geheel of gedeeltelijk afwijzende besluiten in het kader van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).   
-3.  Onverminderd artikel 7 wordt voor de duur van de afwezigheid of verhindering van de Secretaris-Generaal en de plaatsvervangend Secretaris-Generaal het mandaat uitgeoefend door de Directeur Wetgeving en Juridische Zaken met betrekking tot stukken, behelzende geheel of gedeeltelijk afwijzende besluiten in het kader van de [Wet openbaarheid van bestuur](../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md).  
+1.  In afwijking van de artikelen 9 en 10 hebben de Secretaris-Generaal, de plaatsvervangend Secretaris-Generaal, de Directeur Wetgeving en Juridische Zaken en de Directeur Communicatie ieder mandaat tot het nemen van besluiten in het kader van de Wet openbaarheid van bestuur.   
+2.  Alle functionarissen ondergeschikt aan de Directeur Wetgeving en Juridische Zaken hebben mandaat met betrekking tot het nemen van beslissingen en verrichten van handelingen betreffende de voorbereiding van een besluit in het kader van de Wet openbaarheid van bestuur.  
 
 ### Hoofdstuk 5  
 
@@ -190,9 +190,9 @@ c. ten aanzien van hun eigen werkterrein, de functionarissen genoemd in artikel 
 
 ####Ondermandaat
 
-1.   De directeuren van beleidsdirecties en stafeenheden zijn bevoegd ondermandaat of ondertekeningsmandaat te verlenen aan de directeur van een facilitaire eenheid. In een dergelijk geval kan de betrokken directeur van de facilitaire eenheid op zijn beurt die bevoegdheid verlenen aan een ondergeschikte.   
-2.  De directeuren van facilitaire eenheden kunnen aan andere ondergeschikten dan hoofden van direct onder hen ressorterende organisatie-eenheden ondermandaat verlenen. Deze bevoegdheid komt in bijzondere gevallen ook toe aan de andere functionarissen, genoemd in artikel 10, onder a tot en met i.   
-3.  De functionarissen, bedoeld in artikel 14, eerste en tweede lid, zijn bevoegd om hoofden van direct onder hen ressorterende organisatie-eenheden ondermandaat dan wel machtiging te verlenen tot het geheel of gedeeltelijk uitoefenen van de daar genoemde bevoegdheden.   
+1.  De directeur van een directie of eenheid is bevoegd ondermandaat of ondertekeningsmandaat te verlenen aan de Directeur Organisatie, Bedrijfsvoering en Personeel met betrekking tot stukken ter zake van onderwerpen die tot het werkterrein van de Directie Organisatie, Bedrijfsvoering en Personeel behoren.   
+2.  De Directeur Organisatie, Bedrijfsvoering en Personeel kan aan andere ondergeschikten dan hoofden van direct onder hem ressorterende organisatie-eenheden ondermandaat verlenen. Deze bevoegdheid komt in bijzondere gevallen ook toe aan de andere functionarissen, genoemd in artikel 10, eerste lid, onder a tot en met h, en als bedoeld in artikel 10, tweede lid.   
+3.  De functionarissen, bedoeld in artikel 14, eerste en tweede lid, zijn bevoegd om hoofden van direct onder hen ressorterende organisatie-eenheden, dan wel indien geen sprake is van een verdeling in organisatie-eenheden, de andere leden van het betrokken collegiale managementteam, ondermandaat dan wel machtiging te verlenen tot het geheel of gedeeltelijk uitoefenen van de daar genoemde bevoegdheden.   
 4.  Ondermandaat kan hetzij algemeen hetzij voor een bepaald geval verleend worden.   
 5.   Elk ondermandaat wordt schriftelijk verleend en behoeft goedkeuring van de Secretaris-Generaal.   
 6.   Op ondermandaat zijn de bepalingen van deze regeling van overeenkomstige toepassing.   
@@ -226,7 +226,7 @@ c. ten aanzien van hun eigen werkterrein, de functionarissen genoemd in artikel 
 ####Overgangsbepaling
 
 1.  Mandaten verleend vóór het tijdstip van het inwerkingtreden van deze regeling vervallen met ingang van het inwerkingtreden van deze regeling.   
-2.  In afwijking van het eerste lid blijven mandaten die verleend zijn aan functionarissen die niet behoren tot een beleidsdirectie, stafeenheid of een facilitaire eenheid, gehandhaafd voor zover niet in strijd met dit besluit.   
+2.  In afwijking van het eerste lid blijven mandaten die verleend zijn aan functionarissen die niet behoren tot een directie of eenheid, gehandhaafd voor zover niet in strijd met dit besluit.   
 3.  Een kopie van een mandaat als bedoeld in het tweede lid wordt binnen één maand, nadat deze regeling in werking is getreden, toegezonden aan de Secretaris-Generaal.   
 
 ### Artikel 19  

@@ -3,12 +3,12 @@
 ##Aanwijzing cursus welzijn van proefdieren
 
 De staatssecretaris van Welzijn, Volksgezondheid en Cultuur,  
-Gelet op [artikel 5, van het Dierproevenbesluit](../../../../../../../AMvB/dierproevenbesluit/BWBR0003802/README.md) (Stb. 1985, 336);
+Gelet op artikel 5, van het Dierproevenbesluit (Stb. 1985, 336);
 Besluit:    
 
 ### Artikel  1  
 
-Als cursus welzijn van proefdieren als bedoeld in [artikel 5 van het Dierproevenbesluit](../../../../../../../AMvB/dierproevenbesluit/BWBR0003802/README.md) (Stb. 1985, 336) wordt aangewezen de cursus proefdierkunde voor de artikel 14-deskundige, georganiseerd door de vakgroep Proefdierkunde van de Rijksuniversiteit te Utrecht. 
+Als cursus welzijn van proefdieren als bedoeld in artikel 5 van het Dierproevenbesluit (Stb. 1985, 336) wordt aangewezen de cursus proefdierkunde voor de artikel 14-deskundige, georganiseerd door de vakgroep Proefdierkunde van de Rijksuniversiteit te Utrecht. 
 
 ### Artikel  2  
 

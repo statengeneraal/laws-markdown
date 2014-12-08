@@ -708,14 +708,14 @@ In addition to the requirements contained elsewhere in the present regulations, 
 .3. the delivery of which is on or after 1 July 2012.    
 2.  All dedicated seawater ballast tanks arranged in ships and double-side skin spaces arranged in bulk carriers of 150 m in length and upwards shall be coated during construction in accordance with the Performance standard for protective coatings for dedicated seawater ballast tanks in all types of ships and double-side skin spaces of bulk carriers, adopted by the Maritime Safety Committee by resolution MSC.215(82), as may be amended by the Organization, provided that such amendments are adopted, brought into force and take effect in accordance with the provisions of article VIII of the present Convention concerning the amendment procedures applicable to the Annex other than chapter I.   
 3.  All dedicated seawater ballast tanks arranged in oil tankers and bulk carriers constructed on or after 1 July 1998, for which paragraph 2 is not applicable, shall comply with the requirements of regulation II-1/3-2 adopted by resolution MSC.47(66).   
-4.  Maintenance of the protective coating system shall be included in the overall ship’s maintenance scheme. The effectiveness of the protective coating system shall be verified during the life of a ship by the Administration or an organization recognized by the Administration, based on the guidelines developed by the Organization.<sup> 1) Refer to the guidelines to be developed by the Organization. </sup>  
+4.  Maintenance of the protective coating system shall be included in the overall ship’s maintenance scheme. The effectiveness of the protective coating system shall be verified during the life of a ship by the Administration or an organization recognized by the Administration, based on the guidelines developed by the Organization.  
 
 ### Regulation  3–3  
 
 ####Safe access to tanker bows
 
 1.  For the purpose of this regulation and regulation 3-4, tankers include oil tankers as defined in regulation 2, chemical tankers as defined in regulation VII/8.2 and gas carriers as defined in regulation VII/11.2.   
-2.  Every tanker shall be provided with the means to enable the crew to gain safe access to the bow even in severe weather conditions. Such means of access shall be approved by the Administration based on the guidelines developed by the Organization.<sup> 2) Refer to the Guidelines for safe access to tanker bows, adopted by the Maritime Safety Committee by resolution MSC.62(67). </sup>   
+2.  Every tanker shall be provided with the means to enable the crew to gain safe access to the bow even in severe weather conditions. Such means of access shall be approved by the Administration based on the guidelines developed by the Organization.   
 
 ### Regulation  3–4  
 
@@ -729,9 +729,9 @@ In addition to the requirements contained elsewhere in the present regulations, 
 
 .1 the arrangements shall, at all times, be capable of rapid deployment in the absence of main power on the ship to be towed and easy connection to the towing ship. At least one of the emergency towing arrangements shall be pre-rigged ready for rapid deployment; and  
 
-.2 emergency towing arrangements at both ends shall be of adequate strength taking into account the size and deadweight of the ship, and the expected forces during bad weather conditions. The design and construction and prototype testing of emergency towing arrangements shall be approved by the Administration, based on the Guidelines developed by the Organization<sup> 1) Refer to the Guidelines on emergency towing arrangements for tankers, adopted by the Maritime Safety Committee by resolution MSC.35(63), as amended. </sup> .    
+.2 emergency towing arrangements at both ends shall be of adequate strength taking into account the size and deadweight of the ship, and the expected forces during bad weather conditions. The design and construction and prototype testing of emergency towing arrangements shall be approved by the Administration, based on the Guidelines developed by the Organization .    
 
-1.3 For tankers constructed before 1 July 2002, the design and construction of emergency towing arrangements shall be approved by the Administration, based on the Guidelines developed by the Organization<sup> 1) Refer to the Guidelines on emergency towing arrangements for tankers, adopted by the Maritime Safety Committee by resolution MSC.35(63), as amended. </sup>.     
+1.3 For tankers constructed before 1 July 2002, the design and construction of emergency towing arrangements shall be approved by the Administration, based on the Guidelines developed by the Organization.     
 2.  Emergency towing procedures on ships 
 
 2.1 This paragraph applies to: 
@@ -744,7 +744,7 @@ In addition to the requirements contained elsewhere in the present regulations, 
 
 2.2 Ships shall be provided with a ship-specific emergency towing procedure. Such a procedure shall be carried aboard the ship for use in emergency situations and shall be based on existing arrangements and equipment available on board the ship.  
 
-2.3 The procedure<sup> 2) Refer to the Guidelines for owners/operators on preparing emergency towing procedures (MSC.1/Circ.1255). </sup> shall include: 
+2.3 The procedure shall include: 
 
 .1 drawings of fore and aft deck showing possible emergency towing arrangements;  
 
@@ -779,7 +779,7 @@ In addition to the requirements contained elsewhere in the present regulations, 
 2.3. The construction and materials of all means of access and their attachment to the ship’s structure shall be to the satisfaction of the Administration. The means of access shall be subject to survey prior to, or in conjunction with, its use in carrying out surveys in accordance with regulation I/10.     
 3.  Safe access to cargo holds, cargo tanks, ballast tanks and other spaces 
 
-3.1. Safe access<sup> 4) Refer to the Recommendations for entering enclosed spaces aboard ships, adopted by the Organization by resolution A.864(20). </sup> to cargo holds, cofferdams, ballast tanks, cargo tanks and other spaces in the cargo area shall be direct from the open deck and such as to ensure their complete inspection. Safe access to double bottom spaces or to forward ballast tanks may be from a pump-room, deep cofferdam, pipe tunnel, cargo hold, double hull space or similar compartment not intended for the carriage of oil or hazardous cargoes.  
+3.1. Safe access to cargo holds, cofferdams, ballast tanks, cargo tanks and other spaces in the cargo area shall be direct from the open deck and such as to ensure their complete inspection. Safe access to double bottom spaces or to forward ballast tanks may be from a pump-room, deep cofferdam, pipe tunnel, cargo hold, double hull space or similar compartment not intended for the carriage of oil or hazardous cargoes.  
 
 3.2. Tanks, and subdivisions of tanks, having a length of 35 m or more, shall be fitted with at least two access hatchways and ladders, as far apart as practicable. Tanks less than 35 m in length shall be served by at least one access hatchway and ladder. When a tank is subdivided by one or more swash bulkheads or similar obstructions which do not allow ready means of access to the other parts of the tank, at least two hatchways and ladders shall be fitted.  
 
@@ -817,7 +817,7 @@ In addition to the requirements contained elsewhere in the present regulations, 
 
 ####Construction drawings maintained on board and ashore
 
-1.  A set of as-built construction drawings<sup> 5) Refer to MSC/Circ.1135 on As-built construction drawings to be maintained on board the ship and ashore. </sup> and other plans showing any subsequent structural alterations shall be kept on board a ship constructed on or after 1 January 2007.   
+1.  A set of as-built construction drawings and other plans showing any subsequent structural alterations shall be kept on board a ship constructed on or after 1 January 2007.   
 2.  An additional set of such drawings shall be kept ashore by the Company, as defined in regulation IX/1.2.  
 
 ### Regulation  3-8  
@@ -826,16 +826,16 @@ In addition to the requirements contained elsewhere in the present regulations, 
 
 1.  This regulation applies to ships constructed on or after 1 January 2007, but does not apply to emergency towing arrangements provided in accordance with regulation 3-4.   
 2.  Ships shall be provided with arrangements, equipment and fittings of sufficient safe working load to enable the safe conduct of all towing and mooring operations associated with the normal operation of the ship.   
-3.  Arrangements, equipment and fittings provided in accordance with paragraph 2 shall meet the appropriate requirements of the Administration or an organization recognized by the Administration under regulation I/6.<sup> 6) Refer to MSC/Circ.1175 on Guidance on shipboard towing and mooring equipment. </sup>    
+3.  Arrangements, equipment and fittings provided in accordance with paragraph 2 shall meet the appropriate requirements of the Administration or an organization recognized by the Administration under regulation I/6.    
 4.  Each fitting or item of equipment provided under this regulation shall be clearly marked with any restrictions associated with its safe operation, taking into account the strength of its attachment to the ship’s structure.  
 
 ### Regulation  3-9  
 
 ####Means of embarkation on and disembarkation from ships
 
-1.  Ships constructed on or after 1 January 2010 shall be provided with means of embarkation on and disembarkation from ships for use in port and in port related operations, such as gangways and accommodation ladders, in accordance with paragraph 2, unless the Administration deems that compliance with a particular provision is unreasonable orimpractical<sup> 3) Circumstances where compliance may be deemed unreasonable or impractical may include where the ship:   .1 has small freeboards and is provided with boarding ramps; or   .2 is engaged in voyages between designated ports where appropriate shore accommodation/embarkation ladders (platforms) are provided.   </sup> .   
-2.  The means of embarkation and disembarkation required in paragraph 1 shall be constructed and installed based on the guidelines developed by the Organization<sup> 4) Refer to the Guidelines for construction, installation, maintenance and inspection/survey of accommodation ladders and gangways, to be developed by the Organization. </sup> .   
-3.  For all ships the means of embarkation and disembarkation shall be inspected and maintained<sup> 4) Refer to the Guidelines for construction, installation, maintenance and inspection/survey of accommodation ladders and gangways, to be developed by the Organization. </sup> in suitable condition for their intended purpose, taking into account any restrictions related to safe loading. All wires used to support the means of embarkation and disembarkation shall be maintained as specified in regulation III/20.4.  
+1.  Ships constructed on or after 1 January 2010 shall be provided with means of embarkation on and disembarkation from ships for use in port and in port related operations, such as gangways and accommodation ladders, in accordance with paragraph 2, unless the Administration deems that compliance with a particular provision is unreasonable orimpractical .   
+2.  The means of embarkation and disembarkation required in paragraph 1 shall be constructed and installed based on the guidelines developed by the Organization .   
+3.  For all ships the means of embarkation and disembarkation shall be inspected and maintained in suitable condition for their intended purpose, taking into account any restrictions related to safe loading. All wires used to support the means of embarkation and disembarkation shall be maintained as specified in regulation III/20.4.  
 
 ### Regulation  3-10  
 
@@ -860,13 +860,13 @@ In addition to the requirements contained elsewhere in the present regulations, 
 
 2.5. *Specified design life *is the nominal period that the ship is assumed to be exposed to operating and/or environmental conditions and/or the corrosive environment and is used for selecting appropriate ship design parameters.   However, the ship's actual service life may be longer or shorter depending on the actual operating conditions and maintenance of the ship throughout its life cycle.   
 3.  The requirements of paragraphs 2 to 2.5 shall be achieved through satisfying applicable structural requirements of an organization which is recognized by the Administration in accordance with the provisions of regulation XI-1/1, or national standards of the Administration, conforming to the functional requirements of the Goal-based Ship Construction Standards for Bulk Carriers and Oil Tankers.   
-4.  A Ship Construction File with specific information on how the functional requirements of the Goal-based Ship Construction Standards for Bulk Carriers and Oil Tankers have been applied in the ship design and construction shall be provided upon delivery of a new ship, and kept on board the ship and/or ashore<sup> 1) Refer to the Guidelines for the information to be included in a Ship Construction File (MSC.1/Circ.1343). </sup>and updated as appropriate throughout the ship's service. The contents of the Ship Construction File shall, at least, conform to the guidelines developed by the Organization.<sup> 1) Refer to the Guidelines for the information to be included in a Ship Construction File (MSC.1/Circ.1343). </sup>  
+4.  A Ship Construction File with specific information on how the functional requirements of the Goal-based Ship Construction Standards for Bulk Carriers and Oil Tankers have been applied in the ship design and construction shall be provided upon delivery of a new ship, and kept on board the ship and/or ashoreand updated as appropriate throughout the ship's service. The contents of the Ship Construction File shall, at least, conform to the guidelines developed by the Organization.  
 
 ### Regulation  3-11  
 
 ####Corrosion protection of cargo oil tanks of crude oil tankers
 
-1.  Paragraph 3 shall apply to crude oil tankers<sup> 1) Refer to items 1.11.1 or 1.11.4 of the Supplement to the International Oil Pollution Prevention Certificate (Form B). </sup>, as defined in regulation 1 of Annex I to the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, of 5,000 tonnes deadweight and above: 
+1.  Paragraph 3 shall apply to crude oil tankers, as defined in regulation 1 of Annex I to the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, of 5,000 tonnes deadweight and above: 
 
 .1. for which the building contract is placed on or after 1 January 2013; or  
 
@@ -880,7 +880,7 @@ In addition to the requirements contained elsewhere in the present regulations, 
 
 .2. protected by alternative means of corrosion protection or utilization of corrosion resistance material to maintain required structural integrity for 25 years in accordance with the Performance standard for alternative means of corrosion protection for cargo oil tanks of crude oil tankers, adopted by the Maritime Safety Committee by resolution MSC.289(87), as may be amended by the Organization, provided that such amendments are adopted, brought into force and take effect in accordance with the provisions of article VIII of the present Convention concerning the amendment procedures applicable to the Annex other than chapter I.     
 4.  The Administration may exempt a crude oil tanker from the requirements of paragraph 3 to allow the use of novel prototype alternatives to the coating system specified in paragraph 3.1, for testing, provided they are subject to suitable controls, regular assessment and acknowledgement of the need for immediate remedial action if the system fails or is shown to be failing. Such exemption shall be recorded on an exemption certificate.   
-5.  The Administration may exempt a crude oil tanker from the requirements of paragraph 3 if the ship is built to be engaged solely in the carriage of cargoes and cargo handling operations not causing corrosion<sup> 2) Refer to the guidelines to be developed by the Organization. </sup>. Such exemption and conditions for which it is granted shall be recorded on an exemption certificate.  
+5.  The Administration may exempt a crude oil tanker from the requirements of paragraph 3 if the ship is built to be engaged solely in the carriage of cargoes and cargo handling operations not causing corrosion. Such exemption and conditions for which it is granted shall be recorded on an exemption certificate.  
 
 ###Regulation  3-12  
 
@@ -897,7 +897,7 @@ In addition to the requirements contained elsewhere in the present regulations, 
 
 .1 contracted for construction before 1 July 2014 and the keels of which are laid or which are at a similar stage of construction on or after 1 January 2009 but before 1 January 2015; or  
 
-.2 in the absence of a building contract, the keels of which are laid or which are at a similar stage of construction on or after 1 January 2009 but before 1 January 2015,    measures<sup> 1) Refer to the *Code on Noise levels on board ships*, adopted by the Organization by resolution A.468(XII). </sup> shall be taken to reduce machinery noise in machinery spaces to acceptable levels as determined by the Administration. If this noise cannot be sufficiently reduced the source of excessive noise shall be suitably insulated or isolated or a refuge from noise shall be provided if the space is required to be manned. Ear protectors shall be provided for personnel required to enter such spaces, if necessary.   
+.2 in the absence of a building contract, the keels of which are laid or which are at a similar stage of construction on or after 1 January 2009 but before 1 January 2015,    measures shall be taken to reduce machinery noise in machinery spaces to acceptable levels as determined by the Administration. If this noise cannot be sufficiently reduced the source of excessive noise shall be suitably insulated or isolated or a refuge from noise shall be provided if the space is required to be manned. Ear protectors shall be provided for personnel required to enter such spaces, if necessary.   
 3.  Ships shall be constructed to reduce onboard noise and to protect personnel from the noise in accordance with the *Code on noise levels on board ships*, adopted by the Maritime Safety Committee by resolution MSC.337(91), as may be amended by the Organization, provided that such amendments are adopted, brought into force and take effect in accordance with the provisions of Article VIII of the present Convention concerning the amendment procedures applicable to the annex other than chapter I. For the purpose of this regulation, although the Code on noise levels on board ships is treated as a mandatory instrument, recommendatory parts as specified in chapter I of the Code shall be treated as non-mandatory, provided that amendments to such recommendatory parts are adopted by the Maritime Safety Committee in accordance with its Rules of Procedure.   
 4.  Notwithstanding the requirements of paragraph 1, this regulation does not apply to types of ships listed in paragraph 1.3.4 of the Code on noise levels on board ships. 
 
@@ -909,7 +909,7 @@ In addition to the requirements contained elsewhere in the present regulations, 
 
 ####General
 
-1.  The damage stability requirements in parts B-1 through B-4 shall apply to cargo ships of 80 m in length (*L*) and upwards and to all passenger ships regardless of length but shall exclude those cargo ships which are shown to comply with subdivision and damage stability regulations in other instruments<sup> 1) Cargo ships shown to comply with the following regulations may be excluded from the application of part B-1:   .1. Annex I to MARPOL 73/78, except OBO ships with type B freeboards are not excluded;   .2. International Bulk Chemical Code;   .3. International Gas Carrier Code;   .4. Guidelines for the design and construction of offshore supply vessels (resolution A.469(XII));   .5. Code of Safety for Special Purpose Ships (resolution A.534(13), as amended);   .6. Damage stability requirements of regulation 27 of the 1966 Load Lines Convention as applied in compliance with resolutions A.320(IX) and A.514(13), provided that in the case of cargo ships to which regulation 27(9) applies, main transverse watertight bulkheads, to be considered effective, are spaced according to paragraph (12)(f) of resolution A.320(IX), except ships intended for the carriage of deck cargo; and   .7. Damage stability requirements of regulation 27 of the 1988 Load Lines Protocol, except ships intended for the carriage of deck cargo.   </sup> developed by the Organization.   
+1.  The damage stability requirements in parts B-1 through B-4 shall apply to cargo ships of 80 m in length (*L*) and upwards and to all passenger ships regardless of length but shall exclude those cargo ships which are shown to comply with subdivision and damage stability regulations in other instruments developed by the Organization.   
 2.  The Administration may, for a particular ship or group of ships, accept alternative methodologies if it is satisfied that at least the same degree of safety as represented by these regulations is achieved. Any Administration which allows such alternative methodologies shall communicate to the Organization particulars thereof.   
 3.  Ships shall be as efficiently subdivided as is possible having regard to the nature of the service for which they are intended. The degree of subdivision shall vary with the subdivision length (*L<sub>s</sub> *) of the ship and with the service, in such manner that the highest degree of subdivision corresponds with the ships of greatest subdivision length (*L<sub>s</sub> *), primarily engaged in the carriage of passengers.   
 4.  Where it is proposed to fit decks, inner skins or longitudinal bulkheads of sufficient tightness to seriously restrict the flow of water, the Administration shall be satisfied that proper consideration is given to beneficial or adverse effects of such structures in the calculations.  
@@ -920,7 +920,7 @@ In addition to the requirements contained elsewhere in the present regulations, 
 
 ### Regulation  5  
 
-####Intact stability<sup> 2)  Refer to the Code on Intact Stability for All Types of Ships covered by IMO Instruments, adopted by the Organization by resolution A.749(18).  </sup> 
+####Intact stability 
 
 1.  Every passenger ship regardless of size and every cargo ship having a length (*L*) of 24 m and upwards, shall be inclined upon its completion and the elements of its stability determined. In addition to any other applicable requirements of the present regulations, ships having a length of 24 m and upwards constructed on or after 1 July 2010 shall as a minimum comply with the requirements of part A of the 2008 IS Code.   
 2.  The Administration may allow the inclining test of an individual cargo ship to be dispensed with provided basic stability data are available from the inclining test of a sister ship and it is shown to the satisfaction of the Administration that reliable stability information for the exempted ship can be obtained from such basic data, as required by regulation 5-1. A weight survey shall be carried out upon completion and the ship shall be inclined whenever in comparison with the data derived from the sister ship, a deviation from the lightship displacement exceeding 1% for ships of 160 m or more in length and 2% for ships of 50 m or less in length and as determined by linear interpolation for intermediate lengths or a deviation from the lightship longitudinal centre of gravity exceeding 0.5% of *L<sub>s</sub> * is found.   
@@ -931,7 +931,7 @@ In addition to the requirements contained elsewhere in the present regulations, 
 
 ###Regulation  5-1 
 
-####Stability information to be supplied to the master<sup> 3)  Refer also to the Guidelines for the preparation of intact stability information (MSC/Circ.456);  Guidance on the intact stability of existing tankers during transfer operations (MSC/Circ.706); and the Revised guidance to the master for avoiding dangerous situations in following and quartering seas (MSC.1/Circ.1228).  </sup> 
+####Stability information to be supplied to the master 
 
 1.  The master shall be supplied with such information satisfactory to the Administration as is necessary to enable him by rapid and simple processes to obtain accurate guidance as to the stability of the ship under varying conditions of service. A copy of the stability information shall be furnished to the Administration.   
 2.  The information should include: 
@@ -947,7 +947,7 @@ In addition to the requirements contained elsewhere in the present regulations, 
 
 ### Regulation  6  
 
-####Required subdivision index R<sup> 4)  The Maritime Safety Committee, in adopting the regulations contained in parts B to B-4, invited Administrations to note that the regulations should be applied in conjunction with the explanatory notes developed by the Organization in order to ensure their uniform application.  </sup> 
+####Required subdivision index R 
 
 1.  The subdivision of a ship is considered sufficient if the attained subdivision index *A*, determined in accordance with regulation 7, is not less than the required subdivision index *R* calculated in accordance with this regulation and if, in addition, the partial indices *A* <sub>s</sub>, *A* <sub>p</sub> and *A* <sub>l</sub> are not less than 0.9*R* for passenger ships and 0.5*R* for cargo ships.   
 2.  For all ships to which the damage stability requirements of this chapter apply, the degree of subdivision to be provided shall be determined by the required subdivision index *R*, as follows: 
@@ -1043,7 +1043,7 @@ where:  *Displacement* is the intact displacement at the subdivision draught;  *
 .4. persons not in the life-saving appliances which are swung out shall not provide either additional heeling or righting moment; and  
 
 .5. life-saving appliances on the side of the ship opposite to the side to which the ship has heeled shall be assumed to be in a stowed position.       
-5.  Unsymmetrical flooding is to be kept to a minimum consistent with the efficient arrangements. Where it is necessary to correct large angles of heel, the means adopted shall, where practicable, be self-acting, but in any case where controls to equalization devices are provided they shall be operable from above the bulkhead deck. These fittings together with their controls shall be acceptable to the Administration.<sup> 5) Reference is made to the Recommendation on a standard method for establishing compliance with the requirements for cross-flooding arrangements in passengers ships, adopted by the Organization by resolution A.266(VIII), as may be amended. </sup> Suitable information concerning the use of equalization devices shall be supplied to the master of the ship.   
+5.  Unsymmetrical flooding is to be kept to a minimum consistent with the efficient arrangements. Where it is necessary to correct large angles of heel, the means adopted shall, where practicable, be self-acting, but in any case where controls to equalization devices are provided they shall be operable from above the bulkhead deck. These fittings together with their controls shall be acceptable to the Administration. Suitable information concerning the use of equalization devices shall be supplied to the master of the ship.   
 5.1.  Tanks and compartments taking part in such equalization shall be fitted with air pipes or equivalent means of sufficient cross-section to ensure that the flow of water into the equalization compartments is not delayed.   
 5.2.  In all cases, *s*<sub>i</sub> is to be taken as zero in those cases where the final waterline, taking into account sinkage, heel and trim, immerses: 
 
@@ -1112,12 +1112,12 @@ where:  *v<sub>m</sub>* = the *v*-value calculated in accordance with paragraph 
 ####System capabilities and operational information after a flooding casualty on passenger ships
 
 1.  Application Passenger ships having length, as defined in regulation II-1/2.5, of 120 m or more or having three or more main vertical zones shall comply with the provisions of this regulation.   
-2.  Availability of essential systems in case of flooding damage<sup> 1) Refer to the Interim Explanatory Notes for the assessment of passenger ship systems’ capabilities after a fire or flooding casualty (MSC.1/Circ.1369). </sup>  A passenger ship constructed on or after 1 July 2010 shall be designed so that the systems specified in regulation II-2/21.4 remain operational when the ship is subject to flooding of any single watertight compartment.   
+2.  Availability of essential systems in case of flooding damage  A passenger ship constructed on or after 1 July 2010 shall be designed so that the systems specified in regulation II-2/21.4 remain operational when the ship is subject to flooding of any single watertight compartment.   
 3.  Operational information after a flooding casualty For the purpose of providing operational information to the Master for safe return to port after a flooding casualty, passenger ships constructed on or after 1 January 2014 shall have: 
 
 .1 onboard stability computer; or  
 
-.2 shore-based support,   based on guidelines developed by the Organization<sup> 2) Refer to the Guidelines on operational information for Masters of passenger ships for safe return to port by own power or under tow (MSC.1/Circ.1400). </sup>.  
+.2 shore-based support,   based on guidelines developed by the Organization.  
 
 ### PART  B-2  
 
@@ -1231,7 +1231,7 @@ where:  *v<sub>m</sub>* = the *v*-value calculated in accordance with paragraph 
 .3. an independent electrical system and motor for each door with each power source consisting of a motor capable of opening and closing the door. The power source shall be capable of being automatically supplied by the transitional source of emergency electrical power as required by regulation 42.4.2 – in the event of failure of either the main or emergency source of electrical power and with sufficient capacity to operate the door at least three times, i.e. closed-open-closed, against an adverse list of 15°. For the systems specified in paragraphs 7.3.1, 7.3.2 and 7.3.3, provision should be made as follows: Power systems for power-operated watertight sliding doors shall be separate from any other power system. A single failure in the electric or hydraulic power-operated systems excluding the hydraulic actuator shall not prevent the hand operation of any door.     
 7.4.  Control handles shall be provided at each side of the bulkhead at a minimum height of 1.6 m above the floor and shall be so arranged as to enable persons passing through the doorway to hold both handles in the open position without being able to set the power closing mechanism in operation accidentally. The direction of movement of the handles in opening and closing the door shall be in the direction of door movement and shall be clearly indicated.   
 7.5.  As far as practicable, electrical equipment and components for watertight doors shall be situated above the bulkhead deck and outside hazardous areas and spaces.   
-7.6.  The enclosures of electrical components necessarily situated below the bulkhead deck shall provide suitable protection against the ingress of water.<sup> 7) Refer to the following publication IEC 529(1976):   .1. electrical motors, associated circuits and control components; protected to IPX 7 standard;   .2. door position indicators and associated circuit components; protected to IPX 8 standard; and   .3. door movement warning signals; protected to IPX 6 standard.   Other arrangements for the enclosures of electrical components may be fitted provided the Administration is satisfied that an equivalent protection is achieved. The water pressure IPX 8 shall be based on the pressure that may occur at the location of the component during flooding for a period of 36 h. </sup>    
+7.6.  The enclosures of electrical components necessarily situated below the bulkhead deck shall provide suitable protection against the ingress of water.    
 7.7.  Electric power, control, indication and alarm circuits shall be protected against fault in such a way that a failure in one door circuit will not cause a failure in any other door circuit. Short circuits or other faults in the alarm or indicator circuits of a door shall not result in a loss of power operation of that door. Arrangements shall be such that leakage of water into the electrical equipment located below the bulkhead deck will not cause the door to open.   
 7.8.  A single electrical failure in the power operating or control system of a power-operated sliding watertight door shall not result in a closed door opening. Availability of the power supply should be continuously monitored at a point in the electrical circuit as near as practicable to each of the motors required by paragraph 7.3. Loss of any such power supply should activate an audible and visual alarm at the central operating console at the navigation bridge.   
 8.1.  The central operating console at the navigation bridge shall have a “master mode” switch with two modes of control: a “local control” mode which shall allow any door to be locally opened and locally closed after use without automatic closure, and a “doors closed” mode which shall automatically close any door that is open. The “doors closed” mode shall automatically close any door that is open. The “doors closed” mode shall permit doors to be opened locally and shall automatically re-close the doors upon release of the local control mechanism. The “master mode” switch shall normally be in the “local control” mode. The “doors closed” mode shall only be used in an emergency or for testing purposes. Special consideration shall be given to the reliability of the “master mode” switch.   
@@ -1251,7 +1251,7 @@ where:  *v<sub>m</sub>* = the *v*-value calculated in accordance with paragraph 
 1.  The number of openings in watertight subdivisions is to be kept to a minimum compatible with the design and proper working of the ship. Where penetrations of watertight bulkheads and internal decks are necessary for access, piping, ventilation, electrical cables, etc., arrangements are to be made to maintain the watertight integrity. The Administration may permit relaxation in the watertightness of openings above the freeboard deck, provided that it is demonstrated that any progressive flooding can be easily controlled and that the safety of the ship is not impaired.   
 2.  Doors provided to ensure the watertight integrity of internal openings which are used while at sea are to be sliding watertight doors capable of being remotely closed from the bridge and are also to be operable locally from each side of the bulkhead. Indicators are to be provided at the control position showing whether the doors are open or closed, and an audible alarm is to be provided at the door closure. The power, control and indicators are to be operable in the event of main power failure. Particular attention is to be paid to minimizing the effect of control system failure. Each power-operated sliding watertight door shall be provided with an individual hand-operated mechanism. It shall be possible to open and close the door by hand at the door itself from both sides.   
 3.  Access doors and access hatch covers normally closed at sea, intended to ensure the watertight integrity of internal openings, shall be provided with means of indication locally and on the bridge showing whether these doors or hatch covers are open or closed. A notice is to be affixed to each such door or hatch cover to the effect that it is not to be left open.   
-4.  Watertight doors or ramps of satisfactory construction may be fitted to internally subdivide large cargo spaces, provided that the Administration is satisfied that such doors or ramps are essential. These doors or ramps may be hinged, rolling or sliding doors or ramps, but shall not be remotely controlled.<sup> 8) Refer to Interpretations of regulations of part B-1 of SOLAS chapter II-1 (MSC/Circ.651). </sup> Should any of the doors or ramps be accessible during the voyage, they shall be fitted with a device which prevents unauthorized opening.   
+4.  Watertight doors or ramps of satisfactory construction may be fitted to internally subdivide large cargo spaces, provided that the Administration is satisfied that such doors or ramps are essential. These doors or ramps may be hinged, rolling or sliding doors or ramps, but shall not be remotely controlled. Should any of the doors or ramps be accessible during the voyage, they shall be fitted with a device which prevents unauthorized opening.   
 5.  Other closing appliances which are kept permanently closed at sea to ensure the watertight integrity of internal openings shall be provided with a notice which is to be affixed to each such closing appliance to the effect that it is to be kept closed. Manholes fitted with closely bolted covers need not be so marked. 
 
 ### Regulation  14  
@@ -1320,10 +1320,10 @@ where:  *v<sub>m</sub>* = the *v*-value calculated in accordance with paragraph 
 
 ####Internal watertight integrity of passenger ships above the bulkhead deck
 
-1.  The Administration may require that all reasonable and practicable measures shall be taken to limit the entry and spread of water above the bulkhead deck. Such measures may include partial bulkheads or webs. When partial watertight bulkheads and webs are fitted on the bulkhead deck, above or in the immediate vicinity of watertight bulkheads, they shall have watertight shell and bulkhead deck connections so as to restrict the flow of water along the deck when the ship is in a heeled damaged condition. Where the partial watertight bulkhead does not line up with the bulkhead below, the bulkhead deck between shall be made effectively watertight. Where openings, pipes, scuppers, electric cables etc. are carried through the partial watertight bulkheads or decks within the immersed part of the bulkhead deck, arrangements shall be made to ensure the watertight integrity of the structure above the bulkhead deck.<sup> 9) Refer to the Guidance notes on the integrity of flooding boundaries above the bulkhead deck of passenger ships for proper application of regulations II-1/8 and 20, paragraph 1, of SOLAS 1974, as amended (MSC/Circ.541, as may be amended). </sup>    
+1.  The Administration may require that all reasonable and practicable measures shall be taken to limit the entry and spread of water above the bulkhead deck. Such measures may include partial bulkheads or webs. When partial watertight bulkheads and webs are fitted on the bulkhead deck, above or in the immediate vicinity of watertight bulkheads, they shall have watertight shell and bulkhead deck connections so as to restrict the flow of water along the deck when the ship is in a heeled damaged condition. Where the partial watertight bulkhead does not line up with the bulkhead below, the bulkhead deck between shall be made effectively watertight. Where openings, pipes, scuppers, electric cables etc. are carried through the partial watertight bulkheads or decks within the immersed part of the bulkhead deck, arrangements shall be made to ensure the watertight integrity of the structure above the bulkhead deck.    
 2.  All openings in the exposed weather deck shall have coamings of ample height and strength and shall be provided with efficient means for expeditiously closing them weathertight. Freeing ports, open rails and scuppers shall be fitted as necessary for rapidly clearing the weather deck of water under all weather conditions.   
 3.  The open end of air pipes terminating within a superstructure shall be at least 1 m above the waterline when the ship heels to an angle of 15º, or the maximum angle of heel during intermediate stages of flooding, as determined by direct calculation, whichever is the greater. Alternatively, air pipes from tanks other than oil tanks may discharge through the side of the superstructure. The provisions of this paragraph are without prejudice to the provisions of the International Convention on Load Lines in force.   
-4.  Sidescuttles, gangway, cargo and fuelling ports and other means for closing openings in the shell plating above the bulkhead deck shall be of efficient design and construction and of sufficient strength having regard to the spaces in which they are fitted and their positions relative to the deepest subdivision draught.<sup> 10) Refer to the Recommendation on strength and security and locking arrangements of shell doors on ro-ro passenger ships, adopted by the Organization by resolution A.793(19). </sup>    
+4.  Sidescuttles, gangway, cargo and fuelling ports and other means for closing openings in the shell plating above the bulkhead deck shall be of efficient design and construction and of sufficient strength having regard to the spaces in which they are fitted and their positions relative to the deepest subdivision draught.    
 5.  Efficient inside deadlights, so arranged that they can be easily and effectively closed and secured watertight, shall be provided for all sidescuttles to spaces below the first deck above the bulkhead deck. 
 
 ### Regulation  17–1  
@@ -1360,11 +1360,11 @@ where:  *v<sub>m</sub>* = the *v*-value calculated in accordance with paragraph 
 
 ####Damage control information
 
-1.  There shall be permanently exhibited, or readily available on the navigation bridge, for the guidance of the officer in charge of the ship, plans showing clearly for each deck and hold the boundaries of the watertight compartments, the openings therein with the means of closure and position of any controls thereof, and the arrangements for the correction of any list due to flooding. In addition, booklets containing the aforementioned information shall be made available to the officers of the ship.<sup> 11) Refer to the Guidelines for damage control plans (MSC/Circ.919). </sup>    
+1.  There shall be permanently exhibited, or readily available on the navigation bridge, for the guidance of the officer in charge of the ship, plans showing clearly for each deck and hold the boundaries of the watertight compartments, the openings therein with the means of closure and position of any controls thereof, and the arrangements for the correction of any list due to flooding. In addition, booklets containing the aforementioned information shall be made available to the officers of the ship.    
 2.  Watertight doors in passenger ships permitted to remain open during navigation shall be clearly indicated in the ship’s stability information.   
 3.  General precautions to be included shall consist of a listing of equipment, conditions, and operational procedures, considered by the Administration to be necessary to maintain watertight integrity under normal ship operations.   
 4.  Specific precautions to be included shall consist of a listing of elements (i.e. closures, security of cargo, sounding of alarms, etc.) considered by the Administration to be vital to the survival of the ship, passengers and crew.   
-5.  In case of ships to which damage stability requirements of part B-1 apply, damage stability information shall provide the master a simple and easily understandable way of assessing the ship’s survivability in all damage cases involving a compartment or group of compartments.<sup> 12) Refer to the guidelines to be developed by the Organization. </sup>   
+5.  In case of ships to which damage stability requirements of part B-1 apply, damage stability information shall provide the master a simple and easily understandable way of assessing the ship’s survivability in all damage cases involving a compartment or group of compartments.   
 
 ### Regulation  20  
 
@@ -1419,9 +1419,9 @@ where:  *v<sub>m</sub>* = the *v*-value calculated in accordance with paragraph 
 
 ### Regulation   22-1  
 
-####<sup> 13)  Refer to the guidelines to be developed by the Organization.  </sup>Flooding detection systems for passenger ships carrying 36 or more persons constructed on or after 1 July 2010
+####Flooding detection systems for passenger ships carrying 36 or more persons constructed on or after 1 July 2010
 
-A flooding detection system for watertight spaces below the bulkhead deck shall be provided based on the guidelines developed by the Organization.<sup> 13) Refer to the guidelines to be developed by the Organization. </sup>  
+A flooding detection system for watertight spaces below the bulkhead deck shall be provided based on the guidelines developed by the Organization.  
 
 ### Regulation  23  
 
@@ -1451,7 +1451,7 @@ A flooding detection system for watertight spaces below the bulkhead deck shall 
 ####Water level detectors on single hold cargo ships other than bulk carriers
 
 1.  Single hold cargo ships other than bulk carriers constructed before 1 January 2007 shall comply with the requirements of this regulation not later than 31 December 2009.   
-2.  Ships having a length (*L*) of less than 80 m, or 100 m if constructed before 1 July 1998, and a single cargo hold below the freeboard deck or cargo holds below the freeboard deck which are not separated by at least one bulkhead made watertight up to that deck, shall be fitted in such space or spaces with water level detectors<sup> 14) Refer to the Performance standards for water level detectors on bulk carriers and single hold cargo ships other than bulk carriers, adopted by the Maritime Safety Committee by resolution MSC.188(79). </sup> .   
+2.  Ships having a length (*L*) of less than 80 m, or 100 m if constructed before 1 July 1998, and a single cargo hold below the freeboard deck or cargo holds below the freeboard deck which are not separated by at least one bulkhead made watertight up to that deck, shall be fitted in such space or spaces with water level detectors .   
 3.  The water level detectors required by paragraph 2 shall: 
 
 .1. give an audible and visual alarm at the navigation bridge when the water level above the inner bottom in the cargo hold reaches a height of not less than 0.3 m, and another when such level reaches not more than 15% of the mean depth of the cargo hold; and  
@@ -2134,7 +2134,7 @@ Emergency sources of electrical power, fire pumps, bilge pumps except those spec
 .3. appropriate to the space concerned; and  
 
 .4. appropriately certified for safe usage in the dusts, vapours or gases likely to be encountered.    
-11. In tankers, electrical equipment, cables and wiring shall not be installed in hazardous locations unless it conforms with standards not inferior to those acceptable to the Organization<sup> 1) Refer to the standards published by the International Electrotechnical Commission, IEC 60092-502:1999 “Electrical installations in ships – Tankers”. </sup> . However, for locations not covered by such standards, electrical equipment, cables and wiring which do not conform to the standards may be installed in hazardous locations based on a risk assessment to the satisfaction of the Administration, to ensure that an equivalent level of safety is assured.
+11. In tankers, electrical equipment, cables and wiring shall not be installed in hazardous locations unless it conforms with standards not inferior to those acceptable to the Organization . However, for locations not covered by such standards, electrical equipment, cables and wiring which do not conform to the standards may be installed in hazardous locations based on a risk assessment to the satisfaction of the Administration, to ensure that an equivalent level of safety is assured.
 12. In a passenger ship, distribution systems shall be so arranged that fire in any main vertical zone as is defined in Regulation II-2/3.9 will not interfere with services essential for safety in any other such zone. This requirement will be met if main and emergency feeders passing through any such zone are separated both vertically and horizontally as widely as is practicable.
 
 ### PART  E  
@@ -2264,7 +2264,7 @@ Passenger ships shall be specially considered by the Administration as to whethe
 2.1. Machinery and electrical installation design and arrangements may deviate from the requirements set out in parts C, D and E, provided that the alternative design and arrangements meet the intent of the requirements concerned and provide an equivalent level of safety to this chapter.  
 
 2.2. When alternative design or arrangements deviate from the prescriptive requirements of parts C, D and E, an engineering analysis, evaluation and approval of the design and arrangements shall be carried out in accordance with this regulation.    
-3.  Engineering analysis The engineering analysis shall be prepared and submitted to the Administration, based on the guidelines developed by the Organization<sup> 1) Refer to the Guidelines on alternative design and arrangements for SOLAS chapters II-1 and III (MSC.1/Circ.1212). </sup> and shall include, as a minimum, the following elements: 
+3.  Engineering analysis The engineering analysis shall be prepared and submitted to the Administration, based on the guidelines developed by the Organization and shall include, as a minimum, the following elements: 
 
 .1. determination of the ship type, machinery, electrical installations and space(s) concerned;  
 
@@ -2285,7 +2285,7 @@ Passenger ships shall be specially considered by the Administration as to whethe
 .7. risk assessment based on identification of the potential faults and hazards associated with the proposal.     
 4.  Evaluation of the alternative design and arrangements 
 
-4.1. The engineering analysis required in paragraph 3 shall be evaluated and approved by the Administration, taking into account the guidelines developed by the Organization.<sup> 1) Refer to the Guidelines on alternative design and arrangements for SOLAS chapters II-1 and III (MSC.1/Circ.1212). </sup>   
+4.1. The engineering analysis required in paragraph 3 shall be evaluated and approved by the Administration, taking into account the guidelines developed by the Organization.   
 
 4.2. A copy of the documentation, as approved by the Administration, indicating that the alternative design and arrangements comply with this regulation, shall be carried on board the ship.     
 5.  Exchange of information The Administration shall communicate to the Organization pertinent information concerning alternative design and arrangements approved by them for circulation to all Contracting Governments.   
@@ -2301,7 +2301,7 @@ Passenger ships shall be specially considered by the Administration as to whethe
 
 ### Regulation  1  
 
-####Application<sup>* The application date of 1 July 2012 was introduced by resolution MSC.308(88). However, this resolution amended, under chapter II-2, regulations II-2/3.23 (definition of “Fire Test Procedures Code”) and II-2/7.4.1 (new subparagraph .3) only, and all other regulations with the original application date of 1 July 2002 were not amended. </sup>
+####Application
 
 ###1 Application
 
@@ -2338,7 +2338,7 @@ Passenger ships shall be specially considered by the Administration as to whethe
 
 2.3 Ships constructed on or after 1 July 2002 and before 1 July 2010 shall comply with paragraphs 7.1.1, 7.4.4.2, 7.4.4.3 and 7.5.2.1.2 of regulation 9, as adopted by resolution MSC.99(73). 
 
-2.4The following ships, with cargo spaces intended for the carriage of packaged dangerous goods, shall comply with regulation 19.3, except when carrying dangerous goods specified as classes 6.2 and 7 and dangerous goods in limited quantities<sup>*Refer to chapter 3.4 of the IMDG Code.</sup> and excepted quantities<sup>**Refer to chapter 3.5 of the IMDG Code.</sup> in accordance with tables 19.1 and 19.3, not later than the date of the first renewal survey on or after the 1 January 2011:
+2.4The following ships, with cargo spaces intended for the carriage of packaged dangerous goods, shall comply with regulation 19.3, except when carrying dangerous goods specified as classes 6.2 and 7 and dangerous goods in limited quantities and excepted quantities in accordance with tables 19.1 and 19.3, not later than the date of the first renewal survey on or after the 1 January 2011:
 
 .1cargo ships of 500 gross tonnage and upwards and passenger ships constructed on or after 1 September 1984 but before 1 January 2011; and 
 
@@ -3696,7 +3696,7 @@ Notes: To be applied to tables 9.7 and 9.8 as appropriate.
 
 .2conventional ceiling sprinkler heads arranged such that the window is protected by an average application rate of at least 5 l/min per square metre and the additional window area is included in the calculation of the area of coverage; or  
 
-.3water-mist nozzles that have been tested and approved in accordance with the guidelines approved by the Organization<sup>1)Refer to the Revised Guidelines for approval of sprinkler systems equivalent to that referred to in SOLAS regulation II-2/12 (resolution A.800(19)).</sup>.Windows located in the ship's side below the lifeboat embarkation area shall have fire integrity at least equal to “A-0” class.  
+.3water-mist nozzles that have been tested and approved in accordance with the guidelines approved by the Organization.Windows located in the ship's side below the lifeboat embarkation area shall have fire integrity at least equal to “A-0” class.  
 
 4.2 Doors in fire-resisting divisions in cargo ships 
 
@@ -3749,7 +3749,7 @@ Notes: To be applied to tables 9.7 and 9.8 as appropriate.
 
 .1 fire dampers, including their relevant means of operation; and  
 
-.2 on ships constructed on or after 1 July 2010, the ducts shall be made of heat resisting non-combustible material, which may be faced internally and externally with membranes having low flame-spread characteristics and, in each case, a calorific value<sup>**Refer to the recommendations published by the International Organization for Standardization, in particular publication ISO 1716:2002, *Determination of calorific potential.*</sup> not exceeding 45 MJ/m<sup>2</sup> of their surface area for the thickness used;
+.2 on ships constructed on or after 1 July 2010, the ducts shall be made of heat resisting non-combustible material, which may be faced internally and externally with membranes having low flame-spread characteristics and, in each case, a calorific value not exceeding 45 MJ/m<sup>2</sup> of their surface area for the thickness used;
 
 .3 duct penetrations through “A” class divisions. However, the test is not required where steel sleeves are directly joined to ventilation ducts by means of riveted or screwed flanges or by welding.  
 
@@ -3809,7 +3809,7 @@ Notes: To be applied to tables 9.7 and 9.8 as appropriate.
 
 .3.1 subject to paragraph 7.4.4.3.2 the duct is constructed of any material which has low flame spread characteristics;  
 
-3.2 on ships constructed on or after 1 July 2010, the ducts shall be made of heat resisting non-combustible material, which may be faced internally and externally with membranes having low flame-spread characteristics and, in each case, a calorific value<sup>*Refer to the recommendations published by the International Organization for Standardization, in particular publication ISO 1716:2002, *Determination of calorific potential.*</sup> not exceeding 45 MJ/m<sup>2</sup> of their surface area for the thickness used;
+3.2 on ships constructed on or after 1 July 2010, the ducts shall be made of heat resisting non-combustible material, which may be faced internally and externally with membranes having low flame-spread characteristics and, in each case, a calorific value not exceeding 45 MJ/m<sup>2</sup> of their surface area for the thickness used;
 
 .3.3 the duct is used only at the terminal end of the ventilation system; and  
 
@@ -4381,7 +4381,7 @@ The purpose of this regulation is to provide means of escape so that persons onb
 
 3.2.5.2 In passenger ships carrying more than 36 passengers, the requirements of the paragraph 3.2.5.1 shall also apply to the crew accommodation areas.
 
-3.2.5.3. In lieu of the escape route lighting system required by paragraph 3.2.5.1, alternative evacuation guidance systems may be accepted if approved by the Administration based on the guidelines developed by the Organization<sup> 2) Refer to the Functional requirements and performance standards for the assessment of evacuation guidance systems (MSC/Circ.1167) and the Interim guidelines for the testing, approval and maintenance of evacuation guidance systems used as an alternative to low-location lighting systems (MSC/Circ.1168). </sup> . 
+3.2.5.3. In lieu of the escape route lighting system required by paragraph 3.2.5.1, alternative evacuation guidance systems may be accepted if approved by the Administration based on the guidelines developed by the Organization . 
 
 3.2.6 Normally locked doors that form part of an escape route
 
@@ -4884,7 +4884,7 @@ Where the ship has helicopter refuelling and hangar facilities, the following re
 
 ### Regulation  19  
 
-####Carriage of dangerous goods<sup>* Refer to the Interim guidelines for open-top containerships (MSC/Circ.608/Rev.1). </sup>
+####Carriage of dangerous goods
 
 ###1 Purpose
 
@@ -4897,7 +4897,7 @@ The purpose of this regulation is to provide additional safety measures in order
 .3 appropriate personnel protective equipment shall be provided for the hazards associated with the carriage of dangerous goods.  
 ### 2. General requirements 
 
-2.1 In addition to complying with the requirements of regulations in parts B, C, D, E and Regulations 18 and 20<sup>**Refer to part 7 of the International Maritime Dangerous Goods Code.</sup> , as appropriate, ship types and cargo spaces, referred to in paragraph 2.2, intended for the carriage of dangerous goods shall comply with the requirements of this Regulation, as appropriate, except when carrying dangerous goods in limited quantities<sup>***Refer to chapter 3.4 of the International Maritime Dangerous Goods Code.</sup> and excepted quantities<sup>*Refer to chapter 3.5 of the IMDG Code.</sup> unless such requirements have already been met by compliance with the requirements elsewhere in this chapter. The types of ships and modes of carriage of dangerous goods are referred to in paragraph 2.2 and in table 19.1. Cargo ships of less than 500 gross tonnage shall comply with this regulation, but Administrations may reduce the requirements and such reduced requirements shall be recorded in the document of compliance referred to in paragraph 4. 2.2 The following ship types and cargo spaces shall govern the application of tables 19.1 and 19.2: 
+2.1 In addition to complying with the requirements of regulations in parts B, C, D, E and Regulations 18 and 20 , as appropriate, ship types and cargo spaces, referred to in paragraph 2.2, intended for the carriage of dangerous goods shall comply with the requirements of this Regulation, as appropriate, except when carrying dangerous goods in limited quantities and excepted quantities unless such requirements have already been met by compliance with the requirements elsewhere in this chapter. The types of ships and modes of carriage of dangerous goods are referred to in paragraph 2.2 and in table 19.1. Cargo ships of less than 500 gross tonnage shall comply with this regulation, but Administrations may reduce the requirements and such reduced requirements shall be recorded in the document of compliance referred to in paragraph 4. 2.2 The following ship types and cargo spaces shall govern the application of tables 19.1 and 19.2: 
 
 .1 ships and cargo spaces not specifically designed for the carriage of freight containers, but intended for the carriage of dangerous goods in packaged form including goods in freight containers and portable tanks;  
 
@@ -4910,8 +4910,8 @@ The purpose of this regulation is to provide additional safety measures in order
 .5 ships and cargo spaces intended for carriage of dangerous goods other than liquids and gases in bulk in shipborne barges.  
 ###3 Special requirements
 
-Unless otherwise specified, the following requirements shall govern the application of tables 19.1, 19.2 and 19.3 to both “on-deck” and “under-deck” stowage of dangerous goods where the numbers of the following paragraphs are indicated in the first column of the tables. 3.1 Water supplies 3.1.1 Arrangements shall be made to ensure immediate availability of a supply of water from the fire main at the required pressure either by permanent pressurization or by suitably placed remote arrangements for the fire pumps. 3.1.2 The quantity of water delivered shall be capable of supplying four nozzles of a size and at pressures as specified in regulation 10.2, capable of being trained on any part of the cargo space when empty. This amount of water may be applied by equivalent means to the satisfaction of the Administration. 3.1.3 Means shall be provided for effectively cooling the designated underdeck cargo space by at least 5 l/min per square metre of the horizontal area of cargo spaces, either by a fixed arrangement of spraying nozzles or flooding the cargo space with water. Hoses may be used for this purpose in small cargo spaces and in small areas of larger cargo spaces at the discretion of the Administration. However, the drainage and pumping arrangements shall be such as to prevent the build-up of free surfaces. The drainage system shall be sized to remove no less than 125% of the combined capacity of both the water spraying system pumps and the required number of fire hose nozzles. The drainage system valves shall be operable from outside the protected space at a position in the vicinity of the extinguishing system controls. Bilge wells shall be of sufficient holding capacity and shall be arranged at the side shell of the ship at a distance from each other of not more than 40 m in each watertight compartment. If this is not possible, the adverse effect upon stability of the added weight and free surface of water shall be taken into account to the extent deemed necessary by the Administration in its approval of the stability information. 3.1.4 Provision to flood a designated under-deck cargo space with suitable specified media may be substituted for the requirements in paragraph 3.1.3. 3.1.5 The total required capacity of the water supply shall satisfy paragraphs 3.1.2 and 3.1.3, if applicable, simultaneously calculated for the largest designated cargo space. The capacity requirements of paragraph 3.1.2 shall be met by the total capacity of the main fire pump(s) not including the capacity of the emergency fire pump, if fitted. If a drencher system is used to satisfy paragraph 3.1.3, the drencher pump shall also be taken into account in this total capacity calculation. 3.2 Sources of ignition Electrical equipment and wiring shall not be fitted in enclosed cargo spaces or vehicle spaces unless it is essential for operational purposes in the opinion of the Administration. However, if electrical equipment is fitted in such spaces, it shall be of a certified safe type<sup>*Refer to the recommendations of the International Electrotechnical Commission, in particular, publication IEC 60092 on Electrical installations in ships.</sup> for use in the dangerous environments to which it may be exposed unless it is possible to completely isolate the electrical system (e.g. by removal of links in the system, other than fuses). Cable penetrations of the decks and bulkheads shall be sealed against the passage of gas or vapour. Through runs of cables and cables within the cargo spaces shall be protected against damage from impact. Any other equipment which may constitute a source of ignition of flammable vapour shall not be permitted. 3.3 Detection system Ro-ro spaces shall be fitted with a fixed fire detection and fire alarm system complying with the requirements of the Fire Safety Systems Code. All other types of cargo spaces shall be fitted with either a fixed fire detection and fire alarm system or a sample extraction smoke detection system complying with the requirements of the Fire Safety Systems Code. If a sample extraction smoke detection system is fitted, particular attention shall be made to paragraph 2.1.3 in chapter 10 of the Fire Safety Systems Code in order to prevent the leakage of toxic fumes into occupied areas. 3.4 Ventilation arrangement 3.4.1 Adequate power ventilation shall be provided in enclosed cargo spaces. The arrangement shall be such as to provide for at least six air changes per hour in the cargo space based on an empty cargo space and for removal of vapours from the upper or lower parts of the cargo space, as appropriate. 3.4.2 The fans shall be such as to avoid the possibility of ignition of flammable gas air mixtures. Suitable wire mesh guards shall be fitted over inlet and outlet ventilation openings. 3.4.3 Natural ventilation shall be provided in enclosed cargo spaces intended for the carriage of solid dangerous goods in bulk, where there is no provision for mechanical ventilation. 3.5 Bilge pumping 3.5.1 Where it is intended to carry flammable or toxic liquids in enclosed cargo spaces, the bilge pumping system shall be designed to protect against inadvertent pumping of such liquids through machinery space piping or pumps. Where large quantities of such liquids are carried, consideration shall be given to the provision of additional means of draining those cargo spaces.  3.5.2 If the bilge drainage system is additional to the system served by pumps in the machinery space, the capacity of the system shall be not less than 10 m<sup>3</sup>/h per cargo space served. If the additional system is common, the capacity need not exceed 25 m<sup>3</sup>/h. The additional bilge system need not be arranged with redundancy. 3.5.3 Whenever flammable or toxic liquids are carried, the bilge line into the machinery space shall be isolated either by fitting a blank flange or by a closed lockable valve. 3.5.4 Enclosed spaces outside machinery spaces containing bilge pumps serving cargo spaces intended for carriage of flammable or toxic liquids should be fitted with separate mechanical ventilation giving at least 6 air changes per hour. If the space has access from another enclosed space, the door shall be self-closing. 3.5.5 If bilge drainage of cargo spaces is arranged by gravity drainage, the drainage shall be either led directly overboard or to a closed drain tank located outside the machinery spaces. The tank shall be provided with a vent pipe to a safe location on the open deck. Drainage from a cargo space into bilge wells in a lower space is only permitted if that space satisfies the same requirements as the cargo space above. 3.6 Personnel protection 3.6.1 Four sets of full protective clothing resistant to chemical attack shall be provided in addition to the fire-fighter's outfits required by regulation 10.10 and shall be selected taking into account the hazards associated with the chemicals being transported and the standards developed by the Organization according to the class and physical state<sup>*For solid bulk cargoes, the protective clothing should satisfy the equipment provisions specified in the respective schedules of the IMSBC Code for the individual substances. For packaged goods, the protective clothing should satisfy the equipment provisions specified in emergency procedures (EmS) of the Supplement to the IMDG Code for the individual substances.</sup>. The protective clothing shall cover all skin, so that no part of the body is unprotected.  3.6.2 At least two self-contained breathing apparatuses additional to those required by Regulation 10 shall be provided. Two spare charges suitable for use with the breathing apparatus shall be provided for each required apparatus. Passenger ships carrying not more than 36 passengers and cargo ships that are equipped with suitably located means for fully recharging the air cylinders free from contamination, need carry only one spare charge for each required apparatus.  3.7 Portable fire extinguishersPortable fire extinguishers with a total capacity of at least 12 kg of dry powder or equivalent shall be provided for the cargo spaces. These extinguishers shall be in addition to any portable fire extinguishers required elsewhere in this chapter. 3.8 Insulation of machinery space boundaries Bulkheads forming boundaries between cargo spaces and machinery spaces of category A shall be insulated to “A-60” class standard, unless the dangerous goods are stowed at least 3 m horizontally away from such bulkheads. Other boundaries between such spaces shall be insulated to “A-60” class standard. 3.9 Water spray system Each open ro-ro space having a deck above it and each space deemed to be a closed ro-ro space not capable of being sealed, shall be fitted with an approved fixed pressure water-spraying system for manual operation which shall protect all parts of any deck and vehicle platform in the space, except that the Administration may permit the use of any other fixed fire-extinguishing system that has been shown by full-scale test to be no less effective. However, the drainage and pumping arrangements shall be such as to prevent the build-up of free surfaces. The drainage system shall be sized to remove no less than 125% of the combined capacity of both the water spraying system pumps and the required number of fire hose nozzles. The drainage system valves shall be operable from outside the protected space at a position in the vicinity of the extinguishing system controls. Bilge wells shall be of sufficient holding capacity and shall be arranged at the side shell of the ship at a distance from each other of not more than 40 m in each watertight compartment. If this is not possible the adverse effect upon stability of the added weight and free surface of water shall be taken into account to the extent deemed necessary by the Administration in its approval of the stability information.<sup>*Refer to the Recommendation on fixed fire-extinguishing systems for special cargo spaces adopted by the Organization by resolution A.123(V).</sup> 3.10 Separation of ro-ro spaces 3.10.1 In ships having ro-ro spaces, a separation shall be provided between a closed ro-ro space and an adjacent open ro-ro space. The separation shall be such as to minimize the passage of dangerous vapours and liquids between such spaces. Alternatively, such separation need not be provided if the ro-ro space is considered to be a closed cargo space over its entire length and shall fully comply with the relevant special requirements of this Regulation. 3.10.2 In ships having ro-ro spaces, a separation shall be provided between a closed ro-ro space and the adjacent weather deck. The separation shall be such as to minimize the passage of dangerous vapours and liquids between such spaces. Alternatively, a separation need not be provided if the arrangements of the closed ro-ro spaces are in accordance with those required for the dangerous goods carried on adjacent weather deck. 
-###4 Document of compliance<sup>** Refer to the Documents of compliance with the special requirements for ships carrying dangerous goods under the provisions of regulation II-2/54 of SOLAS 74, as amended (MSC/Circ.642). </sup>
+Unless otherwise specified, the following requirements shall govern the application of tables 19.1, 19.2 and 19.3 to both “on-deck” and “under-deck” stowage of dangerous goods where the numbers of the following paragraphs are indicated in the first column of the tables. 3.1 Water supplies 3.1.1 Arrangements shall be made to ensure immediate availability of a supply of water from the fire main at the required pressure either by permanent pressurization or by suitably placed remote arrangements for the fire pumps. 3.1.2 The quantity of water delivered shall be capable of supplying four nozzles of a size and at pressures as specified in regulation 10.2, capable of being trained on any part of the cargo space when empty. This amount of water may be applied by equivalent means to the satisfaction of the Administration. 3.1.3 Means shall be provided for effectively cooling the designated underdeck cargo space by at least 5 l/min per square metre of the horizontal area of cargo spaces, either by a fixed arrangement of spraying nozzles or flooding the cargo space with water. Hoses may be used for this purpose in small cargo spaces and in small areas of larger cargo spaces at the discretion of the Administration. However, the drainage and pumping arrangements shall be such as to prevent the build-up of free surfaces. The drainage system shall be sized to remove no less than 125% of the combined capacity of both the water spraying system pumps and the required number of fire hose nozzles. The drainage system valves shall be operable from outside the protected space at a position in the vicinity of the extinguishing system controls. Bilge wells shall be of sufficient holding capacity and shall be arranged at the side shell of the ship at a distance from each other of not more than 40 m in each watertight compartment. If this is not possible, the adverse effect upon stability of the added weight and free surface of water shall be taken into account to the extent deemed necessary by the Administration in its approval of the stability information. 3.1.4 Provision to flood a designated under-deck cargo space with suitable specified media may be substituted for the requirements in paragraph 3.1.3. 3.1.5 The total required capacity of the water supply shall satisfy paragraphs 3.1.2 and 3.1.3, if applicable, simultaneously calculated for the largest designated cargo space. The capacity requirements of paragraph 3.1.2 shall be met by the total capacity of the main fire pump(s) not including the capacity of the emergency fire pump, if fitted. If a drencher system is used to satisfy paragraph 3.1.3, the drencher pump shall also be taken into account in this total capacity calculation. 3.2 Sources of ignition Electrical equipment and wiring shall not be fitted in enclosed cargo spaces or vehicle spaces unless it is essential for operational purposes in the opinion of the Administration. However, if electrical equipment is fitted in such spaces, it shall be of a certified safe type for use in the dangerous environments to which it may be exposed unless it is possible to completely isolate the electrical system (e.g. by removal of links in the system, other than fuses). Cable penetrations of the decks and bulkheads shall be sealed against the passage of gas or vapour. Through runs of cables and cables within the cargo spaces shall be protected against damage from impact. Any other equipment which may constitute a source of ignition of flammable vapour shall not be permitted. 3.3 Detection system Ro-ro spaces shall be fitted with a fixed fire detection and fire alarm system complying with the requirements of the Fire Safety Systems Code. All other types of cargo spaces shall be fitted with either a fixed fire detection and fire alarm system or a sample extraction smoke detection system complying with the requirements of the Fire Safety Systems Code. If a sample extraction smoke detection system is fitted, particular attention shall be made to paragraph 2.1.3 in chapter 10 of the Fire Safety Systems Code in order to prevent the leakage of toxic fumes into occupied areas. 3.4 Ventilation arrangement 3.4.1 Adequate power ventilation shall be provided in enclosed cargo spaces. The arrangement shall be such as to provide for at least six air changes per hour in the cargo space based on an empty cargo space and for removal of vapours from the upper or lower parts of the cargo space, as appropriate. 3.4.2 The fans shall be such as to avoid the possibility of ignition of flammable gas air mixtures. Suitable wire mesh guards shall be fitted over inlet and outlet ventilation openings. 3.4.3 Natural ventilation shall be provided in enclosed cargo spaces intended for the carriage of solid dangerous goods in bulk, where there is no provision for mechanical ventilation. 3.5 Bilge pumping 3.5.1 Where it is intended to carry flammable or toxic liquids in enclosed cargo spaces, the bilge pumping system shall be designed to protect against inadvertent pumping of such liquids through machinery space piping or pumps. Where large quantities of such liquids are carried, consideration shall be given to the provision of additional means of draining those cargo spaces.  3.5.2 If the bilge drainage system is additional to the system served by pumps in the machinery space, the capacity of the system shall be not less than 10 m<sup>3</sup>/h per cargo space served. If the additional system is common, the capacity need not exceed 25 m<sup>3</sup>/h. The additional bilge system need not be arranged with redundancy. 3.5.3 Whenever flammable or toxic liquids are carried, the bilge line into the machinery space shall be isolated either by fitting a blank flange or by a closed lockable valve. 3.5.4 Enclosed spaces outside machinery spaces containing bilge pumps serving cargo spaces intended for carriage of flammable or toxic liquids should be fitted with separate mechanical ventilation giving at least 6 air changes per hour. If the space has access from another enclosed space, the door shall be self-closing. 3.5.5 If bilge drainage of cargo spaces is arranged by gravity drainage, the drainage shall be either led directly overboard or to a closed drain tank located outside the machinery spaces. The tank shall be provided with a vent pipe to a safe location on the open deck. Drainage from a cargo space into bilge wells in a lower space is only permitted if that space satisfies the same requirements as the cargo space above. 3.6 Personnel protection 3.6.1 Four sets of full protective clothing resistant to chemical attack shall be provided in addition to the fire-fighter's outfits required by regulation 10.10 and shall be selected taking into account the hazards associated with the chemicals being transported and the standards developed by the Organization according to the class and physical state. The protective clothing shall cover all skin, so that no part of the body is unprotected.  3.6.2 At least two self-contained breathing apparatuses additional to those required by Regulation 10 shall be provided. Two spare charges suitable for use with the breathing apparatus shall be provided for each required apparatus. Passenger ships carrying not more than 36 passengers and cargo ships that are equipped with suitably located means for fully recharging the air cylinders free from contamination, need carry only one spare charge for each required apparatus.  3.7 Portable fire extinguishersPortable fire extinguishers with a total capacity of at least 12 kg of dry powder or equivalent shall be provided for the cargo spaces. These extinguishers shall be in addition to any portable fire extinguishers required elsewhere in this chapter. 3.8 Insulation of machinery space boundaries Bulkheads forming boundaries between cargo spaces and machinery spaces of category A shall be insulated to “A-60” class standard, unless the dangerous goods are stowed at least 3 m horizontally away from such bulkheads. Other boundaries between such spaces shall be insulated to “A-60” class standard. 3.9 Water spray system Each open ro-ro space having a deck above it and each space deemed to be a closed ro-ro space not capable of being sealed, shall be fitted with an approved fixed pressure water-spraying system for manual operation which shall protect all parts of any deck and vehicle platform in the space, except that the Administration may permit the use of any other fixed fire-extinguishing system that has been shown by full-scale test to be no less effective. However, the drainage and pumping arrangements shall be such as to prevent the build-up of free surfaces. The drainage system shall be sized to remove no less than 125% of the combined capacity of both the water spraying system pumps and the required number of fire hose nozzles. The drainage system valves shall be operable from outside the protected space at a position in the vicinity of the extinguishing system controls. Bilge wells shall be of sufficient holding capacity and shall be arranged at the side shell of the ship at a distance from each other of not more than 40 m in each watertight compartment. If this is not possible the adverse effect upon stability of the added weight and free surface of water shall be taken into account to the extent deemed necessary by the Administration in its approval of the stability information. 3.10 Separation of ro-ro spaces 3.10.1 In ships having ro-ro spaces, a separation shall be provided between a closed ro-ro space and an adjacent open ro-ro space. The separation shall be such as to minimize the passage of dangerous vapours and liquids between such spaces. Alternatively, such separation need not be provided if the ro-ro space is considered to be a closed cargo space over its entire length and shall fully comply with the relevant special requirements of this Regulation. 3.10.2 In ships having ro-ro spaces, a separation shall be provided between a closed ro-ro space and the adjacent weather deck. The separation shall be such as to minimize the passage of dangerous vapours and liquids between such spaces. Alternatively, a separation need not be provided if the arrangements of the closed ro-ro spaces are in accordance with those required for the dangerous goods carried on adjacent weather deck. 
+###4 Document of compliance
 
 The Administration shall provide the ship with an appropriate document as evidence of compliance of construction and equipment with the requirements of this regulation. Certification for dangerous goods, except solid dangerous goods in bulk, is not required for those cargoes specified as class 6.2 and 7 and dangerous goods in limited quantities and excepted quantities.   *Table 19.1 – Application of the requirements to different modes of carriage of dangerous goods in ships and cargo spaces*  Where X appears in table 19.1 it means this requirement is applicable to all classes of dangerous goods as given in the appropriate line of table 19.3, except as indicated by the notes.  
 
@@ -5100,7 +5100,7 @@ Notwithstanding the provisions of regulation 9.2.2, in passenger ships carrying 
 .1. loss of space of origin up to the nearest “A” class boundaries, which may be a part of the space of origin, if the space of origin is protected by a fixed fire extinguishing system; or  
 
 .2. loss of the space of origin and adjacent spaces up to the nearest “A” class boundaries, which are not part of the space of origin.     
-4.  Safe return to port<sup> 3) Refer to the Performance standards for the systems and services to remain operational on passenger ships for safe return to port and orderly evacuation and abandonment after a casualty (MSC.1/Circ.1214). </sup>  When fire damage does not exceed the casualty threshold indicated in paragraph 3, the ship shall be capable of returning to port while providing a safe area as defined in regulation 3. To be deemed capable of returning to port, the following systems shall remain operational in the remaining part of the ship not affected by fire: 
+4.  Safe return to port  When fire damage does not exceed the casualty threshold indicated in paragraph 3, the ship shall be capable of returning to port while providing a safe area as defined in regulation 3. To be deemed capable of returning to port, the following systems shall remain operational in the remaining part of the ship not affected by fire: 
 
 .1. propulsion;  
 
@@ -5135,7 +5135,7 @@ Notwithstanding the provisions of regulation 9.2.2, in passenger ships carrying 
 
 .1. the safe area(s) shall generally be internal space(s); however, the use of an external space as a safe area may be allowed by the Administration taking into account any restriction due to the area of operation and relevant expected environmental conditions;  
 
-.2. the safe area(s) shall provide all occupants with the following basic services<sup> 3) Refer to the Performance standards for the systems and services to remain operational on passenger ships for safe return to port and orderly evacuation and abandonment after a casualty (MSC.1/Circ.1214). </sup> to ensure that the health of passengers and crew is maintained: 
+.2. the safe area(s) shall provide all occupants with the following basic services to ensure that the health of passengers and crew is maintained: 
 
 .1. sanitation;  
 
@@ -5157,7 +5157,7 @@ Notwithstanding the provisions of regulation 9.2.2, in passenger ships carrying 
 
 .4. means of access to life-saving appliances shall be provided from each area identified or used as a safe area, taking into account that a main vertical zone may not be available for internal transit.    
 
-5.2.  *Alternate space for medical care*  Alternate space for medical care shall conform to a standard acceptable to the Administration.<sup> 4) Refer to the Guidance on the establishment of medical and sanitation related programmes for passenger ships (MSC/Circ.1129). </sup>     
+5.2.  *Alternate space for medical care*  Alternate space for medical care shall conform to a standard acceptable to the Administration.     
 
 ### Regulation  22  
 
@@ -5165,7 +5165,7 @@ Notwithstanding the provisions of regulation 9.2.2, in passenger ships carrying 
 
 1.  Application Passenger ships constructed on or after 1 July 2010 having length, as defined in regulation II-1/2.2, of 120 m or more or having three or more main vertical zones shall comply with the provisions of this regulation.   
 2.  Purpose The purpose of this regulation is to provide design criteria for systems required to remain operational for supporting the orderly evacuation and abandonment of a ship, if the casualty threshold, as defined in regulation 21.3, is exceeded.   
-3.  Systems<sup> 3) Refer to the Performance standards for the systems and services to remain operational on passenger ships for safe return to port and orderly evacuation and abandonment after a casualty (MSC.1/Circ.1214). </sup>  
+3.  Systems  
 
 3.1. In case any one main vertical zone is unserviceable due to fire, the following systems shall be so arranged and segregated as to remain operational: 
 
@@ -5192,7 +5192,7 @@ Notwithstanding the provisions of regulation 9.2.2, in passenger ships carrying 
 1.  Application Passenger ships constructed on or after 1 July 2010 shall have on board a safety centre complying with the requirements of this regulation.   
 2.  Purpose The purpose of this regulation is to provide a space to assist with the management of emergency situations.   
 3.  Location and arrangement The safety centre shall either be a part of the navigation bridge or be located in a separate space adjacent to and having direct access to the navigation bridge, so that the management of emergencies can be performed without distracting watch officers from their navigational duties.   
-4.  Layout and ergonomic design The layout and ergonomic design of the safety centre shall take into account the guidelines developed by the Organization<sup> 5) Refer to guidelines to be developed by the Organization. </sup> , as appropriate.   
+4.  Layout and ergonomic design The layout and ergonomic design of the safety centre shall take into account the guidelines developed by the Organization , as appropriate.   
 5.  Communications Means of communication between the safety centre, the central control station, the navigation bridge, the engine control room, the storage room(s) for fire extinguishing system(s) and fire equipment lockers shall be provided.   
 6.  Control and monitoring of safety systems Notwithstanding the requirements set out elsewhere in the Convention, the full functionality (operation, control, monitoring or any combination thereof, as required) of the safety systems listed below shall be available from the safety centre: 
 
@@ -5260,7 +5260,7 @@ Notwithstanding the provisions of regulation 9.2.2, in passenger ships carrying 
 .1ensure that, subject to the provisions of paragraph 4.2, the requirements which are applicable under chapter III of the International Convention for the Safety of Life at Sea, 1974, in force prior to 1 July 1998 to new or existing ships as prescribed by that chapter are complied with; and  
 
 .2ensure that when life-saving appliances or arrangements on such ships are replaced or such ships undergo repairs, alterations or modifications of a major character which involve replacement of, or any addition to, their existing life-saving appliances or arrangements, such life-saving appliances or arrangements, in so far as is reasonable and practicable, comply with the requirements of this chapter. However, if a survival craft other than an inflatable liferaft is replaced without replacing its launching appliance, or vice versa, the survival craft or launching appliance may be of the same type as that replaced.    
-5. Notwithstanding paragraph 4.2, for all ships, not later than the first scheduled dry-docking after 1 July 2014, but not later than 1 July 2019, lifeboat on-load release mechanisms not complying with paragraphs 4.4.7.6.4 to 4.4.7.6.6 of the Code shall be replaced with equipment that complies with the Code.<sup> 1) Refer to the Guidelines for evaluation and replacement of lifeboat release and retrieval systems (MSC.1/Circ.1392). </sup> 
+5. Notwithstanding paragraph 4.2, for all ships, not later than the first scheduled dry-docking after 1 July 2014, but not later than 1 July 2019, lifeboat on-load release mechanisms not complying with paragraphs 4.4.7.6.4 to 4.4.7.6.6 of the Code shall be replaced with equipment that complies with the Code. 
 
 ### Regulation  2  
 
@@ -5345,7 +5345,7 @@ For the purpose of this chapter, unless expressly provided otherwise:
 .2have successfully undergone, to the satisfaction of the Administration, tests which are substantially equivalent to those specified in those recommendations.     
 3.  Before giving approval to novel life-saving appliances or arrangements, the Administration shall ensure that such: 
 
-.1. appliances provide safety standards at least equivalent to the requirements of this chapter and the Code and have been evaluated and tested based on the guidelines developed by the Organization<sup> 5) Refer to guidelines to be developed by the Organization. </sup> ; or  
+.1. appliances provide safety standards at least equivalent to the requirements of this chapter and the Code and have been evaluated and tested based on the guidelines developed by the Organization ; or  
 
 .2. arrangements have successfully undergone an engineering analysis, evaluation and approval in accordance with regulation 38.     
 4.   Procedures adopted by the Administration for approval shall also include the conditions whereby approval would continue or would be withdrawn.   
@@ -5379,7 +5379,7 @@ The Administration shall require life-saving appliances to be subjected to such 
 
 2.1.2. Two-way VHF radiotelephone apparatus provided on board ships prior to 1 February 1992 and not complying fully with the performance standards adopted by the Organization may be accepted by the Administration until 1 February 1999 provided the Administration is satisfied that they are compatible with approved two-way VHF radiotelephone apparatus. 
 
-2.2 Search and rescue locating devices At least one search and rescue locating device shall be carried on each side of every passenger ship and of every cargo ship of 500 gross tonnage and upwards. At least one search and rescue locating device shall be carried on every cargo ship of 300 gross tonnage and upwards but less than 500 gross tonnage. Such search and rescue locating devices shall conform to the applicable performance standards not inferior to those adopted by the Organization<sup> 7) Refer to the Recommendation on performance standards for survival craft radar transponders for use in search and rescue operations, adopted by the Organization by resolution MSC.247(83) (A.802(19), as amended) and the Recommendation on performance standards for survival craft AIS Search and Rescue transmitter (AIS SART), adopted by the Organization by resolution MSC.246(83). </sup> . The search and rescue locating devices<sup> 8) One of these search and rescue locating devices may be the search and rescue locating device required by regulation IV/7.1.3. </sup> shall be stowed in such location that they can be rapidly placed in any survival craft other than the liferaft or liferafts required by regulation 31.1.4. Alternatively one search and rescue locating device shall be stowed in each survival craft other than those required by regulation 31.1.4. On ships carrying at least two search and rescue locating devices and equipped with free-fall lifeboats one of the search and rescue locating devices shall be stowed in a free-fall lifeboat and the other located in the immediate vicinity of the navigation bridge so that it can be utilized on board and ready for transfer to any of the other survival craft.  
+2.2 Search and rescue locating devices At least one search and rescue locating device shall be carried on each side of every passenger ship and of every cargo ship of 500 gross tonnage and upwards. At least one search and rescue locating device shall be carried on every cargo ship of 300 gross tonnage and upwards but less than 500 gross tonnage. Such search and rescue locating devices shall conform to the applicable performance standards not inferior to those adopted by the Organization . The search and rescue locating devices shall be stowed in such location that they can be rapidly placed in any survival craft other than the liferaft or liferafts required by regulation 31.1.4. Alternatively one search and rescue locating device shall be stowed in each survival craft other than those required by regulation 31.1.4. On ships carrying at least two search and rescue locating devices and equipped with free-fall lifeboats one of the search and rescue locating devices shall be stowed in a free-fall lifeboat and the other located in the immediate vicinity of the navigation bridge so that it can be utilized on board and ready for transfer to any of the other survival craft.  
 3.  Distress flaresNot less than 12 rocket parachute flares, complying with the requirements of section 3.1 of the Code, shall be carried and be stowed on or near the navigation bridge. 
 4.  On-board communications and alarm systems
 
@@ -5589,7 +5589,7 @@ Rescue boats shall be stowed:
 
 ####Recovery of persons from the water
 
-1.  All ships shall have ship-specific plans and procedures for recovery of persons from the water, taking into account the guidelines developed by the Organization.<sup> 2) Refer to the Guidelines for the development of plans and procedures for recovery of persons from the water (MSC.1/Circ.1412). </sup> The plans and procedures shall identify the equipment intended to be used for recovery purposes and measures to be taken to minimize the risk to shipboard personnel involved in recovery operations. Ships constructed before 1 July 2014 shall comply with this requirement by the first periodical or renewal safety equipment survey of the ship to be carried out after 1 July 2014, whichever comes first.   
+1.  All ships shall have ship-specific plans and procedures for recovery of persons from the water, taking into account the guidelines developed by the Organization. The plans and procedures shall identify the equipment intended to be used for recovery purposes and measures to be taken to minimize the risk to shipboard personnel involved in recovery operations. Ships constructed before 1 July 2014 shall comply with this requirement by the first periodical or renewal safety equipment survey of the ship to be carried out after 1 July 2014, whichever comes first.   
 2.  Ro-ro passenger ships which comply with regulation 26.4 shall be deemed to comply with this regulation. 
 
 ### Regulation  18  
@@ -5642,7 +5642,7 @@ A line-throwing appliance complying with the requirements of section 7.1 of the 
 
 3.3.3.Except as provided in paragraphs 3.3.4 and 3.3.5, each lifeboat shall be launched, and manoeuvred in the water by its assigned operating crew, at least once every three months during an abandon ship drill.
 
-3.3.4.In the case of a lifeboat arranged for free-fall launching, at least once every three months during an abandon ship drill the crew shall board the lifeboat, properly secure themselves in their seats and commence launch procedures up to but not including the actual release of the lifeboat (i.e., the release hook shall not be released). The lifeboat shall then either be free-fall launched with only the required operating crew on board, or lowered into the water by means of the secondary means of launching with or without the operating crew on board. In both cases the lifeboat shall thereafter be manoeuvred in the water by the operating crew. At intervals of not more than six months, the lifeboat shall either be launched by free-fall with only the operating crew on board, or simulated launching shall be carried out in accordance with the guidelines developed by the Organization<sup> 2) Refer to Measures to prevent accidents with lifeboats (MSC.1/Circ.1206). </sup> .
+3.3.4.In the case of a lifeboat arranged for free-fall launching, at least once every three months during an abandon ship drill the crew shall board the lifeboat, properly secure themselves in their seats and commence launch procedures up to but not including the actual release of the lifeboat (i.e., the release hook shall not be released). The lifeboat shall then either be free-fall launched with only the required operating crew on board, or lowered into the water by means of the secondary means of launching with or without the operating crew on board. In both cases the lifeboat shall thereafter be manoeuvred in the water by the operating crew. At intervals of not more than six months, the lifeboat shall either be launched by free-fall with only the operating crew on board, or simulated launching shall be carried out in accordance with the guidelines developed by the Organization .
 
 3.3.5.The Administration may allow ships operating on short international voyages not to launch the lifeboats on one side if their berthing arrangements in port and their trading patterns do not permit launching of lifeboats on that side. However, all such lifeboats shall be lowered at least once every 3 months and launched at least annually. 
 
@@ -5698,12 +5698,12 @@ A line-throwing appliance complying with the requirements of section 7.1 of the 
 2. Operational readiness Before the ship leaves port and at all times during the voyage, all life-saving appliances shall be in working order and ready for immediate use.
 3.  Maintenance 
 
-3.1. Maintenance, testing and inspections of life–saving appliances shall be carried out based on the guidelines developed by the Organization<sup> 1) Refer to the Guidelines for periodic servicing and maintenance of lifeboats, launching appliances and on-load release gear (MSC/Circ.1093). </sup> and in a manner having due regard to ensuring reliability of such appliances.  
+3.1. Maintenance, testing and inspections of life–saving appliances shall be carried out based on the guidelines developed by the Organization and in a manner having due regard to ensuring reliability of such appliances.  
 
 3.2. Instructions for on-board maintenance of life-saving appliances complying with regulation 36 shall be provided and maintenance shall be carried out accordingly.  
 
 3.3. The Administration may accept, in compliance with the requirements of paragraph 3.2, a shipboard planned maintenance programme, which includes the requirements of regulation 36. 
-4.  Maintenance of falls Falls used in launching shall be inspected periodically<sup> 2) Refer to Measures to prevent accidents with lifeboats (MSC.1/Circ.1206). </sup> with special regard for areas passing through sheaves, and renewed when necessary due to deterioration of the falls or at intervals of not more than 5 years, whichever is the earlier.
+4.  Maintenance of falls Falls used in launching shall be inspected periodically with special regard for areas passing through sheaves, and renewed when necessary due to deterioration of the falls or at intervals of not more than 5 years, whichever is the earlier.
 5. Spares and repair equipmentSpares and repair equipment shall be provided for life-saving appliances and their components which are subject to excessive wear or consumption and need to be replaced regularly.
 6. Weekly inspectionThe following tests and inspections shall be carried out weekly and a report of the inspection shall be entered in the log-book: 
 
@@ -5759,9 +5759,9 @@ A line-throwing appliance complying with the requirements of section 7.1 of the 
 
 .2. subject to a thorough examination and operational test during the annual surveys required by regulations I/7 and I/8 by properly trained personnel familiar with the system; and  
 
-.3. operationally tested under a load of 1.1 times the total mass of the boat when loaded with its full complement of persons and equipment whenever the release gear is overhauled. Such over-hauling and test shall be carried out at least once every five years.<sup> 2) Refer to the Recommendation on testing of life-saving appliances, adopted by the Organization by resolution A.689(17). For life-saving appliances installed on board on or after 1 July 1999, refer to the Revised Recommendations on testing of life-saving appliances, adopted by the Organization by resolution MSC.81(70). </sup>   
+.3. operationally tested under a load of 1.1 times the total mass of the boat when loaded with its full complement of persons and equipment whenever the release gear is overhauled. Such over-hauling and test shall be carried out at least once every five years.   
 
-.4.notwithstanding subparagraph .3 above, the operational testing of free-fall lifeboat release systems shall be performed either by free-fall launch with only the operating crew on board or by a simulated launching carried out based on guidelines developed by the Organization<sup>3)Refer to Measures to prevent accidents with lifeboats (MSC.1/Circ.1206/Rev.1).</sup>. 
+.4.notwithstanding subparagraph .3 above, the operational testing of free-fall lifeboat release systems shall be performed either by free-fall launch with only the operating crew on board or by a simulated launching carried out based on guidelines developed by the Organization. 
 
 11.3Davit-launched liferaft automatic release hooks shall be: 
 
@@ -5769,7 +5769,7 @@ A line-throwing appliance complying with the requirements of section 7.1 of the 
 
 .2. subject to a thorough examination and operational test during the annual surveys required by regulations I/7 and I/8 by properly trained personnel familiar with the system; and  
 
-.3. operationally tested under a load of 1.1 times the total mass of the liferaft when loaded with its full complement of persons and equipment whenever the automatic release hook is overhauled. Such over-hauling and test shall be carried out at least once every five years.<sup> 3) Refer to the Recommendation on testing of life-saving appliances, as adopted by the Organization by resolution A.689(17). For life-saving appliances installed on board on or after 1 July 1999, refer to the Revised Recommendations on testing of life-saving appliances, as adopted by the Maritime Safety Committee of the Organization by resolution MSC.81(70). </sup>    
+.3. operationally tested under a load of 1.1 times the total mass of the liferaft when loaded with its full complement of persons and equipment whenever the automatic release hook is overhauled. Such over-hauling and test shall be carried out at least once every five years.    
 
 ###SECTION  II 
 
@@ -6059,7 +6059,7 @@ Every passenger ship shall, in addition to complying with the requirements of re
 
 3.1. This paragraph applies to all cargo ships. However, with respect to cargo ships constructed before 1 July 2006, paragraphs 3.2 to 3.5 shall be complied with not later than the first safety equipment survey on or after 1 July 2006.  
 
-3.2. An immersion suit of an appropriate size, complying with the requirements of section 2.3 of the Code shall be provided for every person on board the ship. However, for ships other than bulk carriers, as defined in regulation IX/1, these immersion suits need not be required if the ship is constantly engaged on voyages in warm climates<sup> 3) Refer to the Guidelines for assessment of thermal protection (MSC/Circ.1046). </sup> where, in the opinion of the Administration, immersion suits are unnecessary.  
+3.2. An immersion suit of an appropriate size, complying with the requirements of section 2.3 of the Code shall be provided for every person on board the ship. However, for ships other than bulk carriers, as defined in regulation IX/1, these immersion suits need not be required if the ship is constantly engaged on voyages in warm climates where, in the opinion of the Administration, immersion suits are unnecessary.  
 
 3.3. If a ship has any watch or work stations which are located remotely from the place or places where immersion suits are normally stowed, including remotely located survival craft carried in accordance with regulation 31.1.4 additional immersion suits of an appropriate size shall be provided at these locations for the number of persons normally on watch or working at those locations at any time.  
 
@@ -6226,7 +6226,7 @@ Instructions for on-board maintenance of life-saving appliances shall be easily 
 .7. risk assessment based on identification of the potential faults and hazards associated with the proposal.     
 4.  Evaluation of the alternative design and arrangements 
 
-4.1. The engineering analysis required in paragraph 3 shall be evaluated and approved by the Administration, taking into account the guidelines developed by the Organization.<sup> 6) Refer to the Guidelines on alternative design and arrangements for SOLAS chapters II-1 and III (MSC.1/Circ.1212). </sup>   
+4.1. The engineering analysis required in paragraph 3 shall be evaluated and approved by the Administration, taking into account the guidelines developed by the Organization.   
 
 4.2. A copy of the documentation, as approved by the Administration, indicating that the alternative design and arrangements comply with this regulation, shall be carried on board the ship.     
 5.  Exchange of information The Administration shall communicate to the Organization pertinent information concerning alternative design and arrangements approved by them for circulation to all Contracting Governments.   
@@ -6814,17 +6814,17 @@ Contracting Governments undertake to arrange that life-saving signals are used b
 
 ####Ship reporting systems
 
-1 . Ship reporting systems contribute to safety of life at sea, safety and efficiency of navigation and/or protection of the marine environment. A ship reporting system, when adopted and implemented in accordance with the guidelines and criteria developed by the Organization pursuant to this regulation, shall be used by all ships, or certain categories of ships or ships carrying certain cargoes in accordance with the provisions of each system so adopted.
-2 . The Organization is recognized as the only international body for developing guidelines, criteria and regulations on an international level for ship reporting systems. Contracting Government shall refer proposals for the adoption of ship reporting systems to the Organization. The Organization will collate and disseminate to Contracting Governments all relevant information with regard to any adopted ship reporting system.
-3 . The initiation of action for establishing a ship reporting system is the responsibility of the Government or Governments concerned. In developing such systems provision of the guidelines and criteria developed by the Organization shall be taken into account.
-4 . Ship reporting systems not submitted to the Organization for adoption do not necessarily need to comply with this regulation. However, Governments implementing such systems are encouraged to follow, wherever possible, the guidelines and criteria developed by the Organization. Contracting Governments may submit such systems to the Organization for recognition.
-5 . Where two or more Governments have a common interest in a particular area, they should formulate proposals for a co-ordinated ship reporting system on the basis of agreement between them. Before proceeding with a proposal for adoption of a ship reporting system, the Organization shall disseminate details of the proposal to those Governments which have a common interest in the area covered by the proposed system. Where a co-ordinated ship reporting system is adopted and established, it shall have uniform procedures and operations.
-6 . After adoption of a ship reporting system in accordance with this regulation, the Government or Governments concerned shall take all measures necessary for the promulgation of any information needed for the efficient and effective use of the system. Any adopted ship reporting system shall have the capability of interaction and the ability to assist ships with information when necessary. Such systems shall be operated in accordance with the guidelines and criteria developed by the Organization pursuant to this regulation.
-7 . The master of a ship shall comply with the requirements of adopted ship reporting systems and report to the appropriate authority all information required in accordance with the provisions of each such system.
-8 . All adopted ship reporting systems and actions taken to enforce compliance with those systems shall be consistent with international law, including the relevant provisions of the United Nations Convention on the Law of the Sea.
-9 . Nothing in this regulation or its associated guidelines and criteria shall prejudice the rights and duties of Governments under international law or the legal regimes of straits used for international navigation and archipelagic sea lanes.
-10 . The participation of ships in accordance with the provisions of adopted ship reporting systems shall be free of charge to the ships concerned.
-11 . The Organization shall ensure that adopted ship reporting systems are reviewed under the guidelines and criteria developed by the Organization. 
+1. Ship reporting systems contribute to safety of life at sea, safety and efficiency of navigation and/or protection of the marine environment. A ship reporting system, when adopted and implemented in accordance with the guidelines and criteria developed by the Organization pursuant to this regulation, shall be used by all ships, or certain categories of ships or ships carrying certain cargoes in accordance with the provisions of each system so adopted.
+2. The Organization is recognized as the only international body for developing guidelines, criteria and regulations on an international level for ship reporting systems. Contracting Government shall refer proposals for the adoption of ship reporting systems to the Organization. The Organization will collate and disseminate to Contracting Governments all relevant information with regard to any adopted ship reporting system.
+3. The initiation of action for establishing a ship reporting system is the responsibility of the Government or Governments concerned. In developing such systems provision of the guidelines and criteria developed by the Organization shall be taken into account.
+4. Ship reporting systems not submitted to the Organization for adoption do not necessarily need to comply with this regulation. However, Governments implementing such systems are encouraged to follow, wherever possible, the guidelines and criteria developed by the Organization. Contracting Governments may submit such systems to the Organization for recognition.
+5. Where two or more Governments have a common interest in a particular area, they should formulate proposals for a co-ordinated ship reporting system on the basis of agreement between them. Before proceeding with a proposal for adoption of a ship reporting system, the Organization shall disseminate details of the proposal to those Governments which have a common interest in the area covered by the proposed system. Where a co-ordinated ship reporting system is adopted and established, it shall have uniform procedures and operations.
+6. After adoption of a ship reporting system in accordance with this regulation, the Government or Governments concerned shall take all measures necessary for the promulgation of any information needed for the efficient and effective use of the system. Any adopted ship reporting system shall have the capability of interaction and the ability to assist ships with information when necessary. Such systems shall be operated in accordance with the guidelines and criteria developed by the Organization pursuant to this regulation.
+7. The master of a ship shall comply with the requirements of adopted ship reporting systems and report to the appropriate authority all information required in accordance with the provisions of each such system.
+8. All adopted ship reporting systems and actions taken to enforce compliance with those systems shall be consistent with international law, including the relevant provisions of the United Nations Convention on the Law of the Sea.
+9. Nothing in this regulation or its associated guidelines and criteria shall prejudice the rights and duties of Governments under international law or the legal regimes of straits used for international navigation and archipelagic sea lanes.
+10. The participation of ships in accordance with the provisions of adopted ship reporting systems shall be free of charge to the ships concerned.
+11. The Organization shall ensure that adopted ship reporting systems are reviewed under the guidelines and criteria developed by the Organization. 
 
 ### Regulation  12  
 
@@ -6851,7 +6851,7 @@ Contracting Governments undertake to arrange that life-saving signals are used b
 1. Contracting Governments undertake, each for its national ships, to maintain, or, if it is necessary, to adopt, measures for the purpose of ensuring that, from the point of view of safety of life at sea, all ships shall be sufficiently and efficiently manned.
 2. For every ship to which chapter I applies, the Administration shall: 
 
-.1 establish appropriate minimum safe manning following a transparent procedure, taking into account the relevant guidance adopted by the Organization<sup> 4) Refer to the Principles of minimum safe manning, adopted by the Organization by resolution A.1047(27). </sup>; and  
+.1 establish appropriate minimum safe manning following a transparent procedure, taking into account the relevant guidance adopted by the Organization; and  
 
 .2 issue an appropriate minimum safe manning document or equivalent as evidence of the minimum safe manning considered necessary to comply with the provisions of paragraph 1.  
 3. On all ships, to ensure effective crew performance in safety matters, a working language shall be established and recorded in the ship's log-book. The company, as defined in regulation IX/1, or the master, as appropriate, shall determine the appropriate working language. Each seafarer shall be required to understand and, where appropriate, give orders and instructions and to report back in that language. If the working language is not an official language of the State whose flag the ship is entitled to fly, all plans and lists required to be posted shall include a translation into the working language.
@@ -6953,13 +6953,13 @@ All decisions which are made for the purpose of applying the requirements of Reg
 
 .1 cargo ships of 150 gross tonnage and upwards and passenger ships irrespective of size constructed on or after 1 July 2011;  
 
-.2 passenger ships irrespective of size constructed before 1 July 2011, not later than the first survey<sup> 1) Refer to the Unified interpretation of the term “first survey” referred to in SOLAS regulations (MSC.1/Circ.1290). </sup> after 1 July 2012;  
+.2 passenger ships irrespective of size constructed before 1 July 2011, not later than the first survey after 1 July 2012;  
 
-.3 cargo ships of 3,000 gross tonnage and upwards constructed before 1 July 2011, not later than the first survey<sup> 1) Refer to the Unified interpretation of the term “first survey” referred to in SOLAS regulations (MSC.1/Circ.1290). </sup> after 1 July 2012;  
+.3 cargo ships of 3,000 gross tonnage and upwards constructed before 1 July 2011, not later than the first survey after 1 July 2012;  
 
-.4 cargo ships of 500 gross tonnage and upwards but less than 3,000 gross tonnage constructed before 1 July 2011, not later than the first survey<sup> 1) Refer to the Unified interpretation of the term “first survey” referred to in SOLAS regulations (MSC.1/Circ.1290). </sup> after 1 July 2013; and  
+.4 cargo ships of 500 gross tonnage and upwards but less than 3,000 gross tonnage constructed before 1 July 2011, not later than the first survey after 1 July 2013; and  
 
-.5 cargo ships of 150 gross tonnage and upwards but less than 500 gross tonnage constructed before 1 July 2011, not later than the first survey<sup> 1) Refer to the Unified interpretation of the term “first survey” referred to in SOLAS regulations (MSC.1/Circ.1290). </sup> after 1 July 2014. The bridge navigational watch alarm system shall be in operation whenever the ship is underway at sea;    
+.5 cargo ships of 150 gross tonnage and upwards but less than 500 gross tonnage constructed before 1 July 2011, not later than the first survey after 1 July 2014. The bridge navigational watch alarm system shall be in operation whenever the ship is underway at sea;    
 
 .4 a bridge navigational watch alarm system (BNWAS) installed prior to 1 July 2011 may subsequently be exempted from full compliance with the standards adopted by the Organization, at the discretion of the Administration. 
 
@@ -6987,7 +6987,7 @@ All decisions which are made for the purpose of applying the requirements of Reg
 
 .2.3 in the case of ships, other than passenger ships and tankers, of 50,000 gross tonnage and upwards, not later than 1 July 2004;  
 
-.2.4 in the case of ships, other than passenger ships and tankers, of 300 gross tonnage and upwards but less than 50,000 gross tonnage, not later than the first safety equipment survey<sup>1) The first safety equipment survey means the first annual survey the first periodical survey or the first renewal survey for safety equipment, whichever is due first after 1 July 2004 and, in addition, in the case of ships under construction, the initial survey. </sup>   
+.2.4 in the case of ships, other than passenger ships and tankers, of 300 gross tonnage and upwards but less than 50,000 gross tonnage, not later than the first safety equipment survey   
 
 .3 ships not engaged on international voyages constructed before 1 July 2002, not later than 1 July 2008;  
 
@@ -7049,15 +7049,15 @@ All decisions which are made for the purpose of applying the requirements of Reg
 
 .4 cargo ships, other than tankers, of 3,000 gross tonnage and upwards but less than 10,000 gross tonnage constructed on or after 1 July 2014;  
 
-.5 passenger ships of 500 gross tonnage and upwards constructed before 1 July 2012, not later than the first survey<sup></sup> <sup> 2) Refer to the Unified interpretation of the term .first survey. referred to in SOLAS regulations (MSC.1/Circ.1290). </sup> on or after 1 July 2014;  
+.5 passenger ships of 500 gross tonnage and upwards constructed before 1 July 2012, not later than the first survey<sup></sup> on or after 1 July 2014;  
 
-.6 tankers of 3,000 gross tonnage and upwards constructed before 1 July 2012, not later than the first survey<sup> 2) Refer to the Unified interpretation of the term .first survey. referred to in SOLAS regulations (MSC.1/Circ.1290). </sup> on or after 1 July 2015;  
+.6 tankers of 3,000 gross tonnage and upwards constructed before 1 July 2012, not later than the first survey on or after 1 July 2015;  
 
-.7 cargo ships, other than tankers, of 50,000 gross tonnage and upwards constructed before 1 July 2013, not later than the first survey<sup> 2) Refer to the Unified interpretation of the term .first survey. referred to in SOLAS regulations (MSC.1/Circ.1290). </sup> on or after 1 July 2016;  
+.7 cargo ships, other than tankers, of 50,000 gross tonnage and upwards constructed before 1 July 2013, not later than the first survey on or after 1 July 2016;  
 
-.8 cargo ships, other than tankers, of 20,000 gross tonnage and upwards but less than 50,000 gross tonnage constructed before 1 July 2013, not later than the first survey<sup> 2) Refer to the Unified interpretation of the term .first survey. referred to in SOLAS regulations (MSC.1/Circ.1290). </sup> on or after 1 July 2017; and  
+.8 cargo ships, other than tankers, of 20,000 gross tonnage and upwards but less than 50,000 gross tonnage constructed before 1 July 2013, not later than the first survey on or after 1 July 2017; and  
 
-.9 cargo ships, other than tankers, of 10,000 gross tonnage and upwards but less than 20,000 gross tonnage constructed before 1 July 2013, not later than the first survey<sup> 2) Refer to the Unified interpretation of the term .first survey. referred to in SOLAS regulations (MSC.1/Circ.1290). </sup> on or after 1 July 2018.    
+.9 cargo ships, other than tankers, of 10,000 gross tonnage and upwards but less than 20,000 gross tonnage constructed before 1 July 2013, not later than the first survey on or after 1 July 2018.    
 
 2.11 Administrations may exempt ships from the application of the requirements of paragraph 2.10 when such ships will be taken permanently out of service within two years after the implementation date specified in subparagraphs .5 to .9 of paragraph 2.10.  
 3. When “other means” are permitted under this regulation, such means must be approved by Administration in accordance with regulation 18.
@@ -7069,12 +7069,12 @@ All decisions which are made for the purpose of applying the requirements of Reg
 
 ####Long-range identification and tracking of ships
 
-1.  Nothing in this regulation or the provisions of performance standards and functional requirements<sup> 2) Refer to the Performance standards and functional requirements for the long-range identification and tracking of ships, adopted by the Maritime Safety Committee of the Organization by resolution MSC.210(81). </sup> adopted by the Organization in relation to the long-range identification and tracking of ships shall prejudice the rights, jurisdiction or obligations of States under international law, in particular, the legal regimes of the high seas, the exclusive economic zone, the contiguous zone, the territorial seas or the straits used for international navigation and archipelagic sea lanes.   
+1.  Nothing in this regulation or the provisions of performance standards and functional requirements adopted by the Organization in relation to the long-range identification and tracking of ships shall prejudice the rights, jurisdiction or obligations of States under international law, in particular, the legal regimes of the high seas, the exclusive economic zone, the contiguous zone, the territorial seas or the straits used for international navigation and archipelagic sea lanes.   
 2.1.  Subject to the provisions of paragraphs 4.1 and 4.2, this regulation shall apply to the following types of ships engaged on international voyages: 
 
 .1. passenger ships, including high-speed passenger craft;  
 
-.2. cargo ships, including high-speed craft, of 300 gross tonnage<sup> 3) The gross tonnage to be used for determining whether a cargo ship or high-speed craft is required to comply with the provisions of this regulation shall be that determined under the provisions of the International Convention on Tonnage Measurement of Ships, 1969 irrespective of the date on which the ship or high-speed craft has been or is being constructed. </sup> and upwards; and  
+.2. cargo ships, including high-speed craft, of 300 gross tonnage and upwards; and  
 
 .3. mobile offshore drilling units.     
 2.2.  The term “ship”, when used in paragraphs 3 to 11.2, includes the passenger and cargo ships, the high-speed craft and the mobile offshore drilling units which are subject to the provisions of this regulation.   
@@ -7098,7 +7098,7 @@ All decisions which are made for the purpose of applying the requirements of Reg
 .2. the position of the ship (latitude and longitude); and  
 
 .3. the date and time of the position provided.     
-6.  Systems and equipment used to meet the requirements of this regulation shall conform to performance standards and functional requirements<sup> 4) Refer to the Performance standards and functional requirements for the long-range identification and tracking of ships, adopted by the Maritime Safety Committee of the Organization by resolution MSC.210(81). </sup> not inferior to those adopted by the Organization. Any shipboard equipment shall be of a type approved by the Administration.   
+6.  Systems and equipment used to meet the requirements of this regulation shall conform to performance standards and functional requirements not inferior to those adopted by the Organization. Any shipboard equipment shall be of a type approved by the Administration.   
 7.  Systems and equipment used to meet the requirements of this regulation shall be capable of being switched off on board or be capable of ceasing the distribution of long-range identification and tracking information: 
 
 .1. where international agreements, rules or standards provide for the protection of navigational information; or  
@@ -7113,7 +7113,7 @@ All decisions which are made for the purpose of applying the requirements of Reg
 .3. a Contracting Government shall be entitled to receive such information about ships entitled to fly the flag of other Contracting Governments, not intending to enter a port facility or a place under the jurisdiction of that Contracting Government, navigating within a distance not exceeding 1,000 nautical miles of its coast provided such ships are not located within the waters landward of the baselines, established in accordance with international law, of another Contracting Government; and  
 
 .4. a Contracting Government shall not be entitled to receive, pursuant to subparagraph .3, such information about a ship located within the territorial sea of the Contracting Government whose flag the ship is entitled to fly.     
-8.2.  Contracting Governments shall specify and communicate to the Organization relevant details, taking into account the performance standards and functional requirements adopted by the Organization<sup> 5) Refer to the Performance standards and functional requirements for the long-range identification and tracking of ships, adopted by the Maritime Safety Committee of the Organization by resolution MSC.210(81). </sup> , to enable long-range identification and tracking information to be made available pursuant to the provisions of paragraph 8.1. The Contracting Government concerned may, at any time thereafter, amend or withdraw such communication. The Organization shall inform all Contracting Governments upon receipt of such communication together with the particulars thereof.   
+8.2.  Contracting Governments shall specify and communicate to the Organization relevant details, taking into account the performance standards and functional requirements adopted by the Organization , to enable long-range identification and tracking information to be made available pursuant to the provisions of paragraph 8.1. The Contracting Government concerned may, at any time thereafter, amend or withdraw such communication. The Organization shall inform all Contracting Governments upon receipt of such communication together with the particulars thereof.   
 9.1.  Notwithstanding the provisions of paragraph 8.1.3, the Administration shall be entitled, in order to meet security or other concerns, at any time, to decide that long-range identification and tracking information about ships entitled to fly its flag shall not be provided pursuant to the provisions of paragraph 8.1.3 to Contracting Governments. The Administration concerned may, at any time thereafter, amend, suspend or annul such decisions.   
 9.2.  The Administration concerned shall communicate, pursuant to paragraph 9.1, such decisions to the Organization. The Organization shall inform all Contracting Governments upon receipt of such communication together with the particulars thereof.   
 9.3.  The rights, duties and obligations, under international law, of the ships whose Administration invoked the provisions of paragraph 9.1 shall not be prejudiced as a result of such decisions.   
@@ -7145,7 +7145,7 @@ All decisions which are made for the purpose of applying the requirements of Reg
 .3 passenger ships other than ro-ro passenger ships constructed before 1 July 2002 not later than 1 January 2004; and  
 
 .4 ships, other than passenger ships, of 3,000 gross tonnage and upwards constructed on or after 1 July 2002.    
-2. To assist in casualty investigations, cargo ships, when engaged on international voyages, shall be fitted with a VDR which may be a simplified voyage data recorder (S-VDR)<sup> 2) Refer to resolution MSC.163(78) – Performance standards for shipborne simplified voyage data recorders (s-VDRs). </sup> as follows: 
+2. To assist in casualty investigations, cargo ships, when engaged on international voyages, shall be fitted with a VDR which may be a simplified voyage data recorder (S-VDR) as follows: 
 
 .1. in the case of cargo ships of 20,000 gross tonnage and upwards constructed before 1 July 2002, at the first scheduled dry-docking after 1 July 2006 but not later than 1 July 2009;  
 
@@ -7210,13 +7210,13 @@ All decisions which are made for the purpose of applying the requirements of Reg
 
 1.1. Ships engaged on voyages in the course of which pilots may be employed shall be provided with pilot transfer arrangements.  
 
-1.2. Equipment and arrangements for pilot transfer which are installed<sup> 1) Refer to the Unified interpretation of SOLAS regulation V/23 (MSC.1/Circ.1375). </sup>on or after 1 July 2012 shall comply with the requirements of this regulation, and due regard shall be paid to the standards adopted by the Organization<sup> 2) Refer to the Assembly resolution on Pilot transfer arrangements, to be adopted by the Organization. </sup>.  
+1.2. Equipment and arrangements for pilot transfer which are installedon or after 1 July 2012 shall comply with the requirements of this regulation, and due regard shall be paid to the standards adopted by the Organization.  
 
 1.3. Except as provided otherwise, equipment and arrangements for pilot transfer which are provided on ships before 1 July 2012 shall at least comply with the requirements of regulation 17<sup> 3) Refer to resolution MSC.99(73), renumbering previous regulation 17 as regulation 23, which entered into force on 1 July 2002. </sup>or 23, as applicable, of the International Convention for the Safety of Life at Sea, 1974, in force prior to that date, and due regard shall be paid to the standards adopted by the Organization prior to that date.  
 
 1.4. Equipment and arrangements installed on or after 1 July 2012, which are a replacement of equipment and arrangements provided on ships before 1 July 2012, shall, in so far as is reasonable and practicable, comply with the requirements of this regulation.  
 
-1.5. With respect to ships constructed before 1 January 1994, paragraph 5 shall apply not later than the first survey<sup> 4) Refer to the Unified interpretation of the term “first survey” referred to in SOLAS regulations (MSC.1/Circ.1290). </sup>on or after 1 July 2012.  
+1.5. With respect to ships constructed before 1 January 1994, paragraph 5 shall apply not later than the first surveyon or after 1 July 2012.  
 
 1.6. Paragraph 6 applies to all ships.    
 
@@ -7226,7 +7226,7 @@ All decisions which are made for the purpose of applying the requirements of Reg
 
 2.2. The rigging of the pilot transfer arrangements and the embarkation of a pilot shall be supervised by a responsible officer having means of communication with the navigation bridge and who shall also arrange for the escort of the pilot by a safe route to and from the navigation bridge. Personnel engaged in rigging and operating any mechanical equipment shall be instructed in the safe procedures to be adopted and the equipment shall be tested prior to use.  
 
-2.3. A pilot ladder shall be certified by the manufacturer as complying with this regulation or with an international standard acceptable to the Organization<sup> 5) Refer to the recommendations by the International Organization for Standardization, in particular publication ISO 799:2004, Ships and marine technology – Pilot ladders. </sup>. Ladders shall be inspected in accordance with regulations I/6, 7 and 8.  
+2.3. A pilot ladder shall be certified by the manufacturer as complying with this regulation or with an international standard acceptable to the Organization. Ladders shall be inspected in accordance with regulations I/6, 7 and 8.  
 
 2.4. All pilot ladders used for pilot transfer shall be clearly identified with tags or other permanent marking so as to enable identification of each appliance for the purposes of survey, inspection and record keeping. A record shall be kept on the ship as to the date the identified ladder is placed into service and any repairs effected.  
 
@@ -7236,7 +7236,7 @@ All decisions which are made for the purpose of applying the requirements of Reg
 
 3.1. Arrangements shall be provided to enable the pilot to embark and disembark safely on either side of the ship.  
 
-3.2. In all ships, where the distance from sea level to the point of access to, or egress from, the ship exceeds 9 m, and when it is intended to embark and disembark pilots by means of the accommodation ladder<sup> 6) Refer to regulation II-1/3-9 on Means of embarkation on and disembarkation from ships, adopted by resolution MSC.256(84), together with the associated Guidelines (MSC.1/Circ.1331). </sup>, or other equally safe and convenient means in conjunction with a pilot ladder, the ship shall carry such equipment on each side, unless the equipment is capable of being transferred for use on either side.  
+3.2. In all ships, where the distance from sea level to the point of access to, or egress from, the ship exceeds 9 m, and when it is intended to embark and disembark pilots by means of the accommodation ladder, or other equally safe and convenient means in conjunction with a pilot ladder, the ship shall carry such equipment on each side, unless the equipment is capable of being transferred for use on either side.  
 
 3.3. Safe and convenient access to, and egress from, the ship shall be provided by either: 
 
@@ -7587,7 +7587,7 @@ Appropriate precautions shall be taken in the use of pesticides in ships, in par
 
 ####Material safety data sheets
 
-Ships carrying oil or oil fuel, as defined in regulation 1 of Annex 1 of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, shall be provided with material safety data sheets, based on the recommendations developed by the Organization<sup> 3) Refer to the Recommendations for material safety data sheets (MSDS) for MARPOL Annex I oil cargo and oil fuel, adopted by the Organization by resolution MSC.286(86), as may be amended. </sup> , prior to the loading of such oil as cargo in bulk or bunkering of oil fuel.
+Ships carrying oil or oil fuel, as defined in regulation 1 of Annex 1 of the International Convention for the Prevention of Pollution from Ships, 1973, as modified by the Protocol of 1978 relating thereto, shall be provided with material safety data sheets, based on the recommendations developed by the Organization, prior to the loading of such oil as cargo in bulk or bunkering of oil fuel.
 
 ###Regulation 5-2 
 
@@ -7596,7 +7596,7 @@ Ships carrying oil or oil fuel, as defined in regulation 1 of Annex 1 of the Int
 1.  The physical blending of bulk liquid cargoes during sea voyages is prohibited. Physical blending refers to the process whereby the ship’s cargo pumps and pipelines are used to internally circulate two or more different cargoes with the intent to achieve a cargo with a new product designation. This prohibition does not preclude the master from undertaking cargo transfers for the safety of the ship or protection of the marine environment.   
 2.  The prohibition in paragraph 1 does not apply to the blending of products for use in the search and exploitation of seabed mineral resources on board ships used to facilitate such operations.   
 3.  Any production process on board a ship during sea voyages is prohibited. Production processes refer to any deliberate operation whereby a chemical reaction between a ship’s cargo and any other substance or cargo takes place.   
-4.  The prohibition in paragraph 3 does not apply to the production processes of cargoes for use in the search and exploitation of seabed mineral resources on board ships used to facilitate such operations.<sup> 5) Refer to the Guidelines for the transport and handling of limited amounts of hazardous and noxious liquid substances in bulk in offshore support vessels (resolution A.673(16), as amended). </sup>  
+4.  The prohibition in paragraph 3 does not apply to the production processes of cargoes for use in the search and exploitation of seabed mineral resources on board ships used to facilitate such operations.  
 
 ###PART B 
 
@@ -8110,7 +8110,7 @@ Bulk carriers as defined in regulation IX/1.6 and oil tankers as defined in regu
 
 1.  This regulation applies to Companies and registered owners of ships to which chapter I applies.   
 2.  For the purpose of this regulation, registered owner shall be as specified by the Administration and Company as defined in regulation IX/l.   
-3.  Every Company and registered owner shall be provided with an identification number which conforms to the IMO Unique Company and Registered Owner Identification Number Scheme adopted by the Organization<sup> 13) Refer to resolution MSC.160(78) entitled “Adoption of the IMO Unique Company and Registered Owner Identification Number Scheme”. </sup> .   
+3.  Every Company and registered owner shall be provided with an identification number which conforms to the IMO Unique Company and Registered Owner Identification Number Scheme adopted by the Organization .   
 4.  The Company identification number shall be inserted on the certificates and certified copies thereof issued under regulation IX/4 and section A/19.2 or A/19.4 of the ISPS Code.   
 5.  This regulation shall take effect when the certificates referred to in paragraph 4 are issued or renewed on or after 1 January 2009.  
 
@@ -8525,7 +8525,7 @@ The Company shall ensure that the master has available on board, at all times, i
 
 For the purpose of this chapter: 
 
-1. *Bulk carrier* means a ship which is intended primarily to carry dry cargo in bulk, including such types as ore carriers and combination carriers<sup> 3) Reference is made to:   .1. For ships constructed before 1 July 2006, resolution 6, Interpretation of the definition of “bulk carrier”, as given in chapter IX of SOLAS 1974, as amended in 1994, adopted by the 1997 SOLAS Conference.   .2. The Interpretation of the provisions of SOLAS chapter XII on Additional safety measures for bulk carriers, adopted by the Maritime Safety Committee of the Organization by resolution MSC.79(70).   .3. The application provisions of Annex 1 to the Interpretation of the provisions of SOLAS chapter XII on Additional safety measures for bulk carriers, adopted by the Maritime Safety Committee of the Organization by resolution MSC.89(71).   </sup> .  
+1. *Bulk carrier* means a ship which is intended primarily to carry dry cargo in bulk, including such types as ore carriers and combination carriers .  
 
 2. *Bulk carrier of single-side skin construction* means a bulk carrier as defined in paragraph 1, in which: 
 
@@ -8587,7 +8587,7 @@ Bulk carriers constructed before 1 July 1999 to which regulations 4 or 6 apply s
 
 ####Structural strength of bulk carriers
 
-1.  Bulk carriers of 150 m in length and upwards of single-side skin construction, designed to carry solid bulk cargoes having a density of 1,000 kg/m<sup>3</sup> and above, constructed on or after 1 July 1999, shall have sufficient strength to withstand flooding of any one cargo hold to the water level outside the ship in that flooded condition in all loading and ballast conditions, taking also into account dynamic effects resulting from the presence of water in the hold, and taking into account the recommendations adopted by the Organization.<sup> 4) Refer to resolution 3, Recommendation on compliance with SOLAS regulation XII/5, adopted by the1997 SOLAS Conference. </sup>    
+1.  Bulk carriers of 150 m in length and upwards of single-side skin construction, designed to carry solid bulk cargoes having a density of 1,000 kg/m<sup>3</sup> and above, constructed on or after 1 July 1999, shall have sufficient strength to withstand flooding of any one cargo hold to the water level outside the ship in that flooded condition in all loading and ballast conditions, taking also into account dynamic effects resulting from the presence of water in the hold, and taking into account the recommendations adopted by the Organization.    
 2.  Bulk carriers of 150 m in length and upwards of double-side skin construction, in which any part of longitudinal bulkhead is located within B/5 or 11.5 m, whichever is less, inboard from the ship’s side at right angle to the centreline at the assigned summer load line, designed to carry bulk cargoes having a density of 1,000 kg/m<sup>3</sup> and above, constructed on or after 1 July 2006, shall comply with the structural strength provisions of paragraph 1.  
 
 ### Regulation  6  
@@ -8665,16 +8665,16 @@ For bulk carriers constructed before 1 July 1999 being within the application li
 ####Solid bulk cargo density declaration
 
 1.  Prior to loading bulk cargo on bulk carriers of 150 m in lengthand upwards, the shipper shall declare the density of the cargo, in addition to providing the cargo information required by regulation VI/2.   
-2.  For bulk carriers to which regulation 6 applies, unless such bulk carriers comply with all relevant requirements of this chapter applicable to the carriage of solid bulk cargoes having a density of 1,780 kg/m<sup>3</sup> and above, any cargo declared to have a density within the range 1,250 kg/m<sup>3</sup> to 1,780 kg/m<sup>3</sup> shall have its density verified by an accredited testing organization.<sup> 6) In verifying the density of solid bulk cargoes, reference should be made to the Uniform method of measurement of the density of bulk cargoes (MSC/Circ.908). </sup>  
+2.  For bulk carriers to which regulation 6 applies, unless such bulk carriers comply with all relevant requirements of this chapter applicable to the carriage of solid bulk cargoes having a density of 1,780 kg/m<sup>3</sup> and above, any cargo declared to have a density within the range 1,250 kg/m<sup>3</sup> to 1,780 kg/m<sup>3</sup> shall have its density verified by an accredited testing organization.  
 
 ### Regulation  11  
 
 ####Loading instrument
 
 (Unless provided otherwise, this regulation applies to bulk carriers regardless of their date of construction)  
-1.  Bulk carriers of 150 m in length and upwards shall be fitted with a loading instrument capable of providing information on hull girder shear forces and bending moments, taking into account the recommendation adopted by the Organization.<sup> 7) Refer to the Recommendation on loading instruments, adopted by resolution 5 of the 1997 SOLAS Conference. </sup>    
+1.  Bulk carriers of 150 m in length and upwards shall be fitted with a loading instrument capable of providing information on hull girder shear forces and bending moments, taking into account the recommendation adopted by the Organization.    
 2.  Bulk carriers of 150 m in length and upwards constructed before 1 July 1999 shall comply with the requirements of paragraph 1 not later than the date of the first intermediate or periodical survey of the ship to be carried out after 1 July 1999.   
-3.  Bulk carriers of less than 150 m in length constructed on or after 1 July 2006 shall be fitted with a loading instrument capable of providing information on the ship’s stability in the intact condition. The computer software shall be approved for stability calculations by the Administration and shall be provided with standard conditions for testing purposes relating to the approved stability information.<sup> 8) Refer to the relevant parts of the appendix to the Guidelines for the on-board use and application of computers (MSC/Circ.891). </sup>   
+3.  Bulk carriers of less than 150 m in length constructed on or after 1 July 2006 shall be fitted with a loading instrument capable of providing information on the ship’s stability in the intact condition. The computer software shall be approved for stability calculations by the Administration and shall be provided with standard conditions for testing purposes relating to the approved stability information.   
 
 ### Regulation  12  
 
@@ -8693,7 +8693,7 @@ For bulk carriers constructed before 1 July 1999 being within the application li
 
 ### Regulation  13  
 
-####Availability of pumping systems<sup> 9)  Refer to the Interpretation of SOLAS regulation XII/13 (MSC/Circ.1069).  </sup> 
+####Availability of pumping systems 
 
 (This regulation applies to bulk carriers regardless of their date of construction)  
 1.  On bulk carriers, the means for draining and pumping ballasttanks forward of the collision bulkhead and bilges of dry spaces any part of which extends forward of the foremost cargo hold shall be capable of being brought into operation from a readily accessible enclosed space, the location of which is accessible from the navigation bridge or propulsion machinery control position without traversing exposed freeboard or superstructure decks. Where pipes serving such tanks or bilges pierce the collision bulkhead, valve operation by means of remotely operated actuators may be accepted, as an alternative to the valve control specified in regulation II-1/12, provided that the location of such valve controls complies with this regulation.   
@@ -10599,14 +10599,14 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 3. Alle specifieke zeewaterballasttanks, aangebracht op olietankschepen en bulkcarriers die zijn gebouwd op of na 1 juli 1998, waarvoor het tweede lid niet van toepassing is, moeten voldoen aan de eisen van voorschrift II-1/3-2, aangenomen bij resolutie MSC.47(66).  
 
-4. Het onderhoud van het beschermende coatingsysteem moet worden opgenomen in het algemene onderhoudsschema van het schip. De doeltreffendheid van het beschermende coatingsysteem wordt gedurende de levensduur van een schip door de Administratie of door een door de Administratie erkende organisatie gecontroleerd, op basis van de doorde Organisatie ontwikkelde richtsnoeren.<sup> 1) Zie de door de Organisatie op te stellen richtsnoeren. </sup>   
+4. Het onderhoud van het beschermende coatingsysteem moet worden opgenomen in het algemene onderhoudsschema van het schip. De doeltreffendheid van het beschermende coatingsysteem wordt gedurende de levensduur van een schip door de Administratie of door een door de Administratie erkende organisatie gecontroleerd, op basis van de doorde Organisatie ontwikkelde richtsnoeren.   
 
 ### Voorschrift  3-3  
 
 ####Veilige toegang tot de boeg van tankschepen
 
 1.  Voor de toepassing van dit voorschrift en voorschrift 3-4 worden onder tankschepen verstaan olietankschepen als omschreven in voorschrift 2, chemicaliëntankschepen als omschreven in voorschrift VII/8.2 en gastankschepen als omschreven in voorschrift VII/11.2.   
-2.  Ieder tankschip moet zijn uitgerust met middelen waarmee de bemanning ook onder zware weersomstandigheden veilig toegang kan verkrijgen tot de boeg. Deze toegangsmiddelen moeten door de Administratie overeenkomstig de door de Organisatie opgestelde richtsnoeren worden goedgekeurd.<sup> 2) Zie de Richtsnoeren voor veilige toegang tot de boeg van tankschepen, aangenomen door de Maritieme Veiligheidscommissie bij resolutie MSC.62(67). </sup>   
+2.  Ieder tankschip moet zijn uitgerust met middelen waarmee de bemanning ook onder zware weersomstandigheden veilig toegang kan verkrijgen tot de boeg. Deze toegangsmiddelen moeten door de Administratie overeenkomstig de door de Organisatie opgestelde richtsnoeren worden goedgekeurd.   
 
 ### Voorschrift  3-4  
 
@@ -10620,7 +10620,7 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 .1 moeten de voorzieningen te allen tijde snel kunnen worden ingezet bij gebreke van de hoofdkrachtbron op het te slepen schip en eenvoudig aan het slepende schip kunnen worden bevestigd. Ten minste een van de noodsleepvoorzieningen moet voorgeïnstalleerd zijn voor snelle inzet; en  
 
-.2 moeten de noodsleepvoorzieningen op het voorschip en op het achterschip voldoende sterk zijn voor de omvang en het draagvermogen van het schip en de verwachte krachten bij slechte weersomstandigheden. Het ontwerp en de constructie alsmede de beproeving van het prototype van de noodsleepvoorziening moeten door de Administratie overeenkomstig de door de Organisatie opgestelde richtlijnen<sup> 1) Zie de Richtsnoeren inzake noodsleepvoorzieningen voor tankschepen, aangenomen door de Maritieme Veiligheidscommissie bij resolutie MSC.35(63), als gewijzigd. </sup> worden goedgekeurd.    
+.2 moeten de noodsleepvoorzieningen op het voorschip en op het achterschip voldoende sterk zijn voor de omvang en het draagvermogen van het schip en de verwachte krachten bij slechte weersomstandigheden. Het ontwerp en de constructie alsmede de beproeving van het prototype van de noodsleepvoorziening moeten door de Administratie overeenkomstig de door de Organisatie opgestelde richtlijnen worden goedgekeurd.    
 
 1.3 Ten aanzien van tankschepen gebouwd vóór 1 juli 2002 moeten het ontwerp en de constructie alsmede de beproeving van het prototype van de noodsleepvoorziening door de Administratie overeenkomstig de door de Organisatie opgestelde richtlijnen<sup> 2) [Red: De Chinese, de Franse, de Russische en de Spaanse tekst zijn niet afgedrukt. Het voor eensluidend gewaarmerkt afschrift is nog niet ontvangen. In de tekst kunnen derhalve onjuistheden voorkomen, die in een volgend Tractatenblad zullen worden gecorrigeerd.] </sup> worden goedgekeurd.     
 2.  Noodsleepprocedures aan boord van schepen 
@@ -10635,7 +10635,7 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 2.2 Schepen moeten voorzien zijn van een op hun toegesneden noodsleepprocedure. Deze procedure moet aan boord van het schip zijn voor toepassing in noodsituaties en gebaseerd zijn op bestaande regelingen en de aan boord beschikbare uitrusting.  
 
-2.3 De procedure<sup> 3) Zie de Richtsnoeren voor reders/exploitanten voor het opstellen van noodsleepprocedures (MSC.1/Circ.1255). </sup> omvat: 
+2.3 De procedure omvat: 
 
 .1 tekeningen van het voor- en achterdek met mogelijke noodsleepvoorzieningen;  
 
@@ -10670,7 +10670,7 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 2.3 De constructie en materialen van alle toegangsmiddelen en de bevestiging ervan aan de scheepsconstructie moeten naar de tevredenheid van de Administratie zijn. De toegangsmiddelen worden voorafgaand aan, of in combinatie met, het gebruik ervan geïnspecteerd bij de inspecties die in overeenstemming met voorschrift I/10 worden uitgevoerd.     
 3.  Veilige toegang tot laadruimen, ladingtanks, ballasttanks en andere ruimten 
 
-3.1 Veilige toegang<sup> 4) Zie de Aanbevelingen voor het binnengaan van gesloten ruimten aan boord van schepen, aangenomen door de Organisatie bij resolutie A.864(20). </sup> tot laadruimen, kofferdammen, ballasttanks, ladingtanks en andere ruimten in het ladinggedeelte moet rechtstreeks vanaf het dek worden verkregen, zodat volledige inspectie ervan mogelijk is. Veilige toegang tot ruimten in een dubbele bodem of tot voorwaartse ballasttanks kan worden verkregen via een pompkamer, een diepe kofferdam, een leidingtunnel, een laadruim, een dubbele-rompruimte of soortgelijke afdeling die niet bestemd is voor het vervoer van olie of gevaarlijke ladingen.  
+3.1 Veilige toegang tot laadruimen, kofferdammen, ballasttanks, ladingtanks en andere ruimten in het ladinggedeelte moet rechtstreeks vanaf het dek worden verkregen, zodat volledige inspectie ervan mogelijk is. Veilige toegang tot ruimten in een dubbele bodem of tot voorwaartse ballasttanks kan worden verkregen via een pompkamer, een diepe kofferdam, een leidingtunnel, een laadruim, een dubbele-rompruimte of soortgelijke afdeling die niet bestemd is voor het vervoer van olie of gevaarlijke ladingen.  
 
 3.2 Tanks en onderverdelingen van tanks met een lengte van 35 m of meer moeten zijn voorzien van ten minste twee toegangsluiken en ladders, die zo ver als praktisch mogelijk uit elkaar moeten worden geplaatst. Tanks met een lengte van minder dan 35 m moeten zijn voorzien van ten minste een toegangsluik en ladder. Wanneer een tank is onderverdeeld door middel van een of meerdere slingerschotten of soortgelijke obstakels waardoor geen eenvoudige toegang mogelijk is tot de andere delen van de tank, moeten ten minste twee luiken en ladders worden geplaatst.  
 
@@ -10708,7 +10708,7 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 ####Aan boord en aan wal te bewaren bouwtekeningen
 
-1.  Aan boord van schepen gebouwd op of na 1 januari 2007 moet een set bouwtekeningen<sup> 5) Zie MSC/Circ.1135 betreffende bouwtekeningen met fabriekswaarden die aan boord van het schip en aan wal moeten worden bewaard. </sup> met de fabriekswaarden en andere overzichten met latere bouwwijzigingen worden bewaard.   
+1.  Aan boord van schepen gebouwd op of na 1 januari 2007 moet een set bouwtekeningen met de fabriekswaarden en andere overzichten met latere bouwwijzigingen worden bewaard.   
 2.  Een aanvullende set van deze tekeningen moet door de maatschappij, als omschreven in voorschrift IX/1.2, aan wal worden bewaard.  
 
 ### Voorschrift  3-8  
@@ -10717,16 +10717,16 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 1.  Dit voorschrift is van toepassing op schepen gebouwd op of na 1 januari 2007, maar niet op noodsleepvoorzieningen die in overeenstemming met voorschrift 3-4 zijn aangebracht.   
 2.  Schepen moeten zijn uitgerust met voorzieningen, uitrusting en installaties met een voldoende veilige bedrijfsbelasting voor de veilige uitvoering van alle sleep- en afmeeractiviteiten die onder de normale bedrijfsomstandigheden van het schip plaatsvinden.   
-3.  De in overeenstemming met paragraaf 2 aangebrachte voorzieningen, uitrusting en installaties moeten voldoen aan de desbetreffende vereisten van de Administratie of van een door de Administratieingevolge voorschrift I/6 erkende organisatie.<sup> 6) Zie MSC/Circ.1175 betreffende Leidraden inzake sleep- en afmeervoorzieningen aan boord van schepen. </sup>    
+3.  De in overeenstemming met paragraaf 2 aangebrachte voorzieningen, uitrusting en installaties moeten voldoen aan de desbetreffende vereisten van de Administratie of van een door de Administratieingevolge voorschrift I/6 erkende organisatie.    
 4.  Op alle installaties of onderdelen van de uitrusting die ingevolge dit voorschrift worden aangebracht, moeten duidelijke markeringen worden aangebracht ten aanzien van de beperkingen voor de veilige bediening ervan, met inachtneming van de stevigheid van de bevestiging ervan aan de scheepsstructuur.  
 
 ### Voorschrift  3-9  
 
 ####Middelen voor inscheping en ontscheping
 
-1.  Schepen gebouwd op of na 1 januari 2010 moeten voorzien zijn van middelen voor inscheping en ontscheping in havens en voor daarmee samenhangende operaties, zoals loopbruggen en accommodatieladders in overeenstemming met paragraaf 2, tenzij de Administratie naleving van een bepaling onredelijk of onhaalbaar acht<sup> 4) Omstandigheden waarin naleving onredelijk of onhaalbaar kan worden geacht kunnen bestaan indien het schip:   .1 een klein vrijboord heeft en voorzien is van inklimsteunen; of   .2 wordt ingezet bij reizen tussen aangewezen havens waar aan de wal passende voorzieningen of inschepingsladders (platforms) beschikbaar zijn.   </sup> .   
-2.  De volgens paragraaf 1 vereiste middelen voor inscheping en ontscheping worden gebouwd en geïnstalleerd conform de door de Organisatie opgestelde richtsnoeren<sup> 5) Zie de door de Organisatie op te stellen Richtsnoeren voor de constructie, installatie, het onderhoud en de inspectie/onderzoek van accommodatieladders en loopbruggen. </sup> .   
-3.  Van alle schepen worden de middelen voor inscheping en ontscheping geïnspecteerd en in de juiste toestand gehouden<sup> 4) Omstandigheden waarin naleving onredelijk of onhaalbaar kan worden geacht kunnen bestaan indien het schip:   .1 een klein vrijboord heeft en voorzien is van inklimsteunen; of   .2 wordt ingezet bij reizen tussen aangewezen havens waar aan de wal passende voorzieningen of inschepingsladders (platforms) beschikbaar zijn.   </sup> voor hun beoogde doel, rekening houdend met eventuele beperkingen die verband houden met veilig laden. Alle kabels ter ondersteuning van de middelen voor inscheping en ontscheping worden onderhouden als omschreven in voorschrift III/20.4.  
+1.  Schepen gebouwd op of na 1 januari 2010 moeten voorzien zijn van middelen voor inscheping en ontscheping in havens en voor daarmee samenhangende operaties, zoals loopbruggen en accommodatieladders in overeenstemming met paragraaf 2, tenzij de Administratie naleving van een bepaling onredelijk of onhaalbaar acht .   
+2.  De volgens paragraaf 1 vereiste middelen voor inscheping en ontscheping worden gebouwd en geïnstalleerd conform de door de Organisatie opgestelde richtsnoeren .   
+3.  Van alle schepen worden de middelen voor inscheping en ontscheping geïnspecteerd en in de juiste toestand gehouden voor hun beoogde doel, rekening houdend met eventuele beperkingen die verband houden met veilig laden. Alle kabels ter ondersteuning van de middelen voor inscheping en ontscheping worden onderhouden als omschreven in voorschrift III/20.4.  
 
 ### Voorschrift  3-10  
 
@@ -10751,13 +10751,13 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 2.5.Onder *omschreven levensduur *wordt verstaan de nominale tijd die het schip geacht wordt bloot te staan aan bedrijfs-, en/of milieuomstandigheden en/of het corrosieve milieu en wordt gebruikt voor het selecteren van geschikte parameters voor het ontwerp van het schip. De werkelijke levensduur van het schip kan echter langer of korter zijn, afhankelijk van de feitelijke bedrijfsomstandigheden en het onderhoud van het schip gedurende zijn levenscyclus.  
 3.  De vereisten van de paragrafen 2 tot en met 2.5 worden verwezenlijkt door te voldoen aan de toepasselijke eisen voor de bouw van een overeenkomstig de bepalingen van voorschrift XI-1/1 erkende organisatie of aan de nationale normen van de Administratie die beantwoorden aan de functionele vereisten van de Doelgerichte normen voor de bouw van bulkcarriers en olietankschepen.   
-4.  Bij de oplevering van een nieuw schip wordt een Scheepsbouwdossier met specifieke informatie over de manier waarop de functionele vereisten van de Doelgerichte normen voor de bouw van bulkcarriers en olietankschepen zijn toegepast bij het ontwerp en de bouw van het schip overhandigd en aan boord van het schip en/of aan de wal bewaard.<sup> 1)  Zie de Richtlijnen voor de in het Scheepsbouwdossier op te nemen informatie (MSC.1/Circ.1343). </sup> Het wordt indien nodig geactualiseerd gedurende de levensduur van het schip. De inhoud van het Scheepsbouwdossier voldoet ten minste aan de door de Organisatie opgestelde richtlijnen.<sup> 1)  Zie de Richtlijnen voor de in het Scheepsbouwdossier op te nemen informatie (MSC.1/Circ.1343). </sup>  
+4.  Bij de oplevering van een nieuw schip wordt een Scheepsbouwdossier met specifieke informatie over de manier waarop de functionele vereisten van de Doelgerichte normen voor de bouw van bulkcarriers en olietankschepen zijn toegepast bij het ontwerp en de bouw van het schip overhandigd en aan boord van het schip en/of aan de wal bewaard. Het wordt indien nodig geactualiseerd gedurende de levensduur van het schip. De inhoud van het Scheepsbouwdossier voldoet ten minste aan de door de Organisatie opgestelde richtlijnen.  
 
 ### Voorschrift  3-11  
 
 ####Corrosiebescherming van ladingolietanks in ruwe-olietankschepen
 
-1.  Paragraaf 3 is van toepassing op ruwe-olietankschepen<sup> 1) Zie onderdelen 1.11.1 of 1.11.4 van het Supplement bij het Internationaal Certificaat van voorkoming van verontreiniging door olie (formulier B). </sup>, zoals omschreven in voorschrift 1 van Bijlage I bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het daarbij behorende Protocol van 1978, met een draagvermogen van 5000 ton en meer; 
+1.  Paragraaf 3 is van toepassing op ruwe-olietankschepen, zoals omschreven in voorschrift 1 van Bijlage I bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het daarbij behorende Protocol van 1978, met een draagvermogen van 5000 ton en meer; 
 
 .1 waarvoor het bouwcontract is afgesloten op of na 1 januari 2013; of  
 
@@ -10771,7 +10771,7 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 .2 worden beschermd door alternatieve middelen van corrosiebescherming of het gebruik van corrosiebestendig materiaal teneinde de vereiste dichtheid van de bouw gedurende 25 jaar te behouden in overeenstemming met de Prestatienorm voor alternatieve middelen van corrosiebescherming van ladingolietanks van ruwe-olietankschepen, aangenomen door de Maritieme Veiligheidscommissie bij resolutie MSC.289(87), eventueel als gewijzigd door de Organisatie, mits deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden in overeenstemming met de bepalingen van artikel VIII van dit Verdrag inzake wijzigingsprocedures die van toepassing zijn op de Bijlage niet zijnde Hoofdstuk I daarvan.     
 4.  De Administratie kan een ruwe-olietankschip vrijstellen van de vereisten van paragraaf 3 om het gebruik van een nieuw prototype toe te staan van alternatieven voor het in paragraaf 3.1 genoemde coatingsysteem, ten behoeve van het testen daarvan, op voorwaarde dat deze prototypen op passende wijze worden gecontroleerd en regelmatig beoordeeld en dat onderkend wordt dat er onmiddellijk herstelmaatregelen moeten worden genomen indien het systeem faalt of aangetoond wordt dat het systeem faalt. Een dergelijke vrijstelling wordt vermeld op een certificaat van vrijstelling.   
-5.  De Administratie kan een ruwe-olietankschip vrijstellen van de vereisten van paragraaf 3 indien het schip gebouwd is om uitsluitend te worden ingezet voor het vervoeren en behandelen van lading die geen corrosie veroorzaakt<sup> 2) Zie de door de Organisatie op te stellen richtlijnen. </sup>. Een dergelijke vrijstelling en de voorwaarden waaronder deze wordt verleend, worden vermeld op een certificaat van vrijstelling. 
+5.  De Administratie kan een ruwe-olietankschip vrijstellen van de vereisten van paragraaf 3 indien het schip gebouwd is om uitsluitend te worden ingezet voor het vervoeren en behandelen van lading die geen corrosie veroorzaakt. Een dergelijke vrijstelling en de voorwaarden waaronder deze wordt verleend, worden vermeld op een certificaat van vrijstelling. 
 
 ### Voorschrift   3-12  
 
@@ -10788,7 +10788,7 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 .1 waarvoor een bouwcontract is gesloten vóór 1 juli 2014 en waarvan de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt op of na 1 januari 2009 maar vóór 1 januari 2015; of  
 
-.2 waarvan, bij ontbreken van een bouwcontract, de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt op of na 1 januari 2009 maar vóór 1 januari 2015,   moeten maatregelen<sup> 1) Verwezen wordt naar de *Code betreffende geluidshinder aan boord van schepen*, aangenomen door de Organisatie bij resolutie A.468(XII). </sup> worden getroffen om machinelawaai in ruimten voor machines te beperken tot een aanvaardbaar, door de Administratie vastgesteld niveau. Indien dit lawaai niet voldoende kan worden beperkt, moeten de bronnen van het overmatige lawaai behoorlijk worden geïsoleerd of afgezonderd óf moet er een aparte geluiddichte cabine worden aangebracht, indien de ruimte bemand moet zijn. Voor personeel dat verplicht is deze ruimten te betreden, moeten indien nodig oorbeschermers aanwezig zijn.   
+.2 waarvan, bij ontbreken van een bouwcontract, de kiel is gelegd of waarvan de bouw zich in een soortgelijk stadium bevindt op of na 1 januari 2009 maar vóór 1 januari 2015,   moeten maatregelen worden getroffen om machinelawaai in ruimten voor machines te beperken tot een aanvaardbaar, door de Administratie vastgesteld niveau. Indien dit lawaai niet voldoende kan worden beperkt, moeten de bronnen van het overmatige lawaai behoorlijk worden geïsoleerd of afgezonderd óf moet er een aparte geluiddichte cabine worden aangebracht, indien de ruimte bemand moet zijn. Voor personeel dat verplicht is deze ruimten te betreden, moeten indien nodig oorbeschermers aanwezig zijn.   
 3.  Teneinde de geluidshinder aan boord te beperken en het personeel tegen geluidshinder te beschermen worden schepen gebouwd in overeenstemming met de *Code betreffende geluidshinder aan boord van schepen*, aangenomen door de Maritieme Veiligheidscommissie bij resolutie MSC.337(91), eventueel als gewijzigd door de Organisatie, mits deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden in overeenstemming met de bepalingen van artikel VIII van dit Verdrag inzake wijzigingsprocedures die van toepassing zijn op de Bijlage niet zijnde Hoofdstuk I. Voor de toepassing van dit voorschrift, hoewel de Code betreffende geluidshinder aan boord van schepen wordt behandeld als bindend instrument, worden de delen met aanbevelingen omschreven in hoofdstuk I van de Code als niet bindend aangemerkt, mits wijzigingen van deze aanbevelingen worden aangenomen door de Maritieme Veiligheidscommissie in overeenstemming met haar reglement van orde.   
 4.  Onverminderd de vereisten van het eerste lid, is dit voorschrift niet van toepassing op de scheepstypen vermeld in paragraaf 1.3.4 van de Code betreffende geluidshinder aan boord van schepen.  
 
@@ -10800,7 +10800,7 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 ####Algemeen
 
-1.  De eisen betreffende de lekstabiliteit in de delen B-1 tot en met B-4 zijn van toepassing op vrachtschepen met een lengte (*L*) van 80 m of meer en op alle passagiersschepen ongeacht hun lengte, maar niet op vrachtschepen waarvan is aangetoond dat zij voldoen aan voorschriften betreffende waterdichte indeling en stabiliteit in andere instrumenten<sup> 1) Vrachtschepen waarvan is aangetoond dat zij aan de volgende voorschriften voldoen, mogen van de toepassing van deel B-1 worden uitgesloten:   .1 Bijlage I bij MARPOL 73/78, met dien verstande dat OBO-schepen met type B vrijboorden niet zijn uitgesloten;   .2 Internationale Code voor chemicaliën in bulk;   .3 Internationale Code voor gastankschepen;   .4 Richtsnoeren voor het ontwerp en de bouw van offshore bevoorradingsschepen (resolutie A.469(XII));   .5 Veiligheidscode voor schepen voor bijzondere doeleinden (resolutie A.534(13), als gewijzigd);   .6 Eisen betreffende de lekstabiliteit van voorschrift 27 van het Verdrag betreffende de uitwatering van schepen, 1966, als toegepast overeenkomstig resoluties A.320(IX) en A.514(13), met dien verstande dat in het geval van vrachtschepen waarop voorschrift 27(9) van toepassing is, waterdichte hoofddwarsschotten, willen deze als doeltreffend worden beschouwd, tussenruimten moeten hebben overeenkomstig paragraaf (12)(f) van resolutie A.320(IX), behoudens bij schepen bestemd voor het vervoer van deklading; en   .7 Eisen betreffende de lekstabiliteit van voorschrift 27 van het Protocol van 1988 betreffende de uitwatering van schepen, behoudens bij schepen bestemd voor het vervoer van deklading.   </sup> ontwikkeld door de Organisatie.   
+1.  De eisen betreffende de lekstabiliteit in de delen B-1 tot en met B-4 zijn van toepassing op vrachtschepen met een lengte (*L*) van 80 m of meer en op alle passagiersschepen ongeacht hun lengte, maar niet op vrachtschepen waarvan is aangetoond dat zij voldoen aan voorschriften betreffende waterdichte indeling en stabiliteit in andere instrumenten ontwikkeld door de Organisatie.   
 2.  De Administratie kan, indien zij ervan overtuigd is dat ten minste dezelfde mate van veiligheid als met de toepassing van deze voorschriften wordt bereikt, voor een bepaald schip of een bepaalde groep schepen alternatieve methoden toestaan. Elke Administratie die dergelijke alternatieve methoden toestaat, doet de Organisatie de bijzonderheden daarvan toekomen.   
 3.  Schepen moeten zo doeltreffend mogelijk worden ingedeeld, gelet op de aard van de dienst waarvoor ze zijn bestemd.De mate van waterdichte indeling varieert met de indelingslengte (*L<sub>s</sub>*) van het schip en de soort dienst, zodanig dat de grootste mate van waterdichte indeling overeenkomt met de grootste indelingslengte (*L<sub>s</sub>*) van het schip, dat hoofdzakelijk wordt ingezet voor het vervoer van personen.   
 4.  Wanneer wordt voorgesteld dekken, inwendige huiden of langsschotten van voldoende stijfheid aan te brengen om de waterstroom duidelijk te beperken, dient ten genoegen van de Administratie te worden aangetoond dat voldoende aandacht wordt geschonken aan de gunstige of nadelige gevolgen daarvan voor de berekeningen.  
@@ -10811,7 +10811,7 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 ### Voorschrift  5  
 
-####Stabiliteit in onbeschadigde toestand<sup> 2)  Zie de Code betreffende de stabiliteit in onbeschadigde toestand voor alle typen schepen waarop IMO-instrumenten van toepassing zijn, aangenomen door de Organisatie bij resolutie A.749(18).  </sup> 
+####Stabiliteit in onbeschadigde toestand
 
 1.  Elk passagiersschip ongeacht de omvang ervan en elk vrachtschip met een lengte (*L*) van 24 m of meer, moet na voltooiing een hellingproef ondergaan en de stabiliteitskenmerken ervan moeten worden bepaald. In aanvulling op eventuele andere van toepassing zijnde vereisten van de bestaande voorschriften dienen schepen met een lengte van 24 m en meer en gebouwd op of na 1 juli 2010 ten minste te voldoen aan de vereisten van deel A van de IS-Code 2008.   
 2.  De Administratie kan ontheffing van de hellingproef toestaan voor een individueel vrachtschip, mits fundamentele stabiliteitsgegevens beschikbaar zijn van de hellingproef van een zusterschip en ten genoegen van de Administratie wordt aangetoond dat aan deze fundamentele gegevens betrouwbare informatie omtrent de stabiliteit van het vrijgestelde schip kan worden ontleend, als vereist door voorschrift 5-1. Bij de voltooiing wordt een onderzoek naar het gewicht uitgevoerd wanneer, in vergelijking met de van het zusterschip afgeleide gegevens, een afwijking van de waterverplaatsing bij leeg schip wordt aangetroffen van meer dan 1% voor schepen met een lengte van 160 m of meer en 2% voor schepen met een lengte van 50 m of minder en als vastgesteld via lineaire interpolatie voor de tussenliggende lengtes of een afwijking van het zwaartepunt over de lengte bij leegschip van meer dan 0,5% van *L<sub>s</sub>*.   
@@ -10822,7 +10822,7 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 ### Voorschrift  5-1  
 
-####Aan de kapitein te verstrekken stabiliteitsgegevens<sup> 3)  Zie ook de Richtsnoeren voor de opstelling van informatie met betrekking tot de stabiliteit in onbeschadigde toestand (MSC/Circ.456); Richtsnoeren met betrekking tot de stabiliteit in onbeschadigde toestand van bestaande tankschepen gedurende verplaatsingen (MSC/Circ.706); en de Herziene richtsnoeren voor de kapitein ter voorkoming van gevaarlijke situaties bij meelopende en achterlijke zee (MSC.1/Circ.1228).  </sup> 
+####Aan de kapitein te verstrekken stabiliteitsgegevens 
 
 1.  Aan de kapitein moeten voor de Administratie aanvaardbare gegevens worden verstrekt noodzakelijk om hem in staat te stellen met snelle en eenvoudige handelingen accurate aanwijzingen te verkrijgen ten aanzien van de stabiliteit van het schip onder uiteenlopende dienstomstandigheden. Een afschrift van de stabiliteitsgegevens moet aan de Administratie worden verstrekt.   
 2.  De gegevens moeten het volgende omvatten: 
@@ -10838,7 +10838,7 @@ In aanvulling op de elders in de huidige voorschriften vervatte vereisten moeten
 
 ### Voorschrift  6  
 
-####Vereiste indelingsindex R<sup> 4)  De Maritieme Veiligheidscommissie heeft, bij de aanneming van de in de delen B tot en met B-4 vervatte voorschriften, de Administraties verzocht er nota van te nemen dat de voorschriften moeten worden toegepast in samenhang met de door de Organisatie opgestelde toelichtende opmerkingen, teneinde de eenvormige toepassing ervan te verzekeren.  </sup> 
+####Vereiste indelingsindex R 
 
 1.  De indeling van een schip wordt als voldoende beschouwd indien de bereikte indelingsindex *A*, vastgesteld in overeenstemming met voorschrift 7, niet geringer is dan de vereiste indelingsindex *R,* berekend in overeenstemming met dit voorschrift en indien bovendien de partiële indexen *A<sub>s</sub> *, *A<sub>p</sub> * en *A<sub>1</sub> * voor passagiersschepen niet kleiner zijn dan 0,9*R* en voor vrachtschepen niet geringer dan 0,5*R*.   
 2.  Voor alle schepen waarop de lekstabiliteitsvereisten van dit Hoofdstuk van toepassing zijn, moet de te realiseren indelingsgraad door middel van de vereiste indelingsindex *R* als volgt worden bepaald: 
@@ -10969,7 +10969,7 @@ waarbij:
 .4 personen die zich niet in de naar buiten gedraaide reddingsmiddelen bevinden, brengen geen verschuiving van het hellende moment of het herstellende moment teweeg; en  
 
 .5 reddingsmiddelen aan de andere zijde van het schip dan die waarnaar het schip slagzij heeft gemaakt, worden geacht te zijn weggeborgen.         
-5.  Onsymmetrisch vollopen moet worden beperkt tot een met een doelmatige indeling verenigbaar minimum. Indien het noodzakelijk is grote hellingshoeken te corrigeren, moeten de middelen daartoe, indien zulks uitvoerbaar is, automatisch werken, doch wanneer bedieningsmiddelen voor overvloei-inrichtingen aanwezig zijn, moeten deze in ieder geval van boven het schottendek bediend kunnen worden. Deze installaties en hun bedieningsmiddelen moeten voor de Administratie aanvaardbaar zijn.<sup> 5) Verwezen wordt naar de Aanbeveling inzake een standaardmethode ter vaststelling dat wordt voldaan aan de voorschriften omtrent voorzieningen betreffende overvloei-inrichtingen op passagiersschepen, door de Organisatie aangenomen bij resolutie A.266(VIII), zoals mogelijk wordt gewijzigd. </sup> Aan de kapitein van het schip moet deugdelijke informatie worden verstrekt met betrekking tot het gebruik van de overvloei-inrichtingen. 
+5.  Onsymmetrisch vollopen moet worden beperkt tot een met een doelmatige indeling verenigbaar minimum. Indien het noodzakelijk is grote hellingshoeken te corrigeren, moeten de middelen daartoe, indien zulks uitvoerbaar is, automatisch werken, doch wanneer bedieningsmiddelen voor overvloei-inrichtingen aanwezig zijn, moeten deze in ieder geval van boven het schottendek bediend kunnen worden. Deze installaties en hun bedieningsmiddelen moeten voor de Administratie aanvaardbaar zijn. Aan de kapitein van het schip moet deugdelijke informatie worden verstrekt met betrekking tot het gebruik van de overvloei-inrichtingen. 
 
 5.1 Tanks en afdelingen die bij dit overvloeien worden gebruikt moeten zijn uitgerust met luchtpijpen of gelijkwaardige middelen van voldoende diameter om ervoor te zorgen dat het instromen van water in de overvloeiafdelingen niet wordt vertraagd.  
 
@@ -11047,17 +11047,17 @@ waarbij:  *v<sub>m</sub> * = de in overeenstemming met paragraaf 6.1 berekende *
 
 .5 wanneer meer dan 36, maar minder dan 400 personen worden vervoerd, de waarden van de lengte van de beschadiging en de penetratie naar binnen toe, die bij de berekening van de aangenomen schadeomvang worden gebruikt, moeten worden verkregen door middel van lineaire interpolatie tussen de waarden van de lengte van de beschadiging en de penetratie die van toepassing zijn op schepen die 36 of 400 personen vervoeren als vermeld in de subparagrafen .4 en .2.    
 
-### Voorschrift  8-1 
+### Voorschrift 8-1 
 
 ####Systeemcapaciteiten en operationele informatie na een volloopincident op passagiersschepen
 
 1. ToepassingPassagiersschepen met een lengte, als omschreven in voorschrift II-1/2.5, van 120 m of meer of met drie of meer verticale hoofdsecties, dienen aan de bepalingen van dit voorschrift te voldoen.
-2. Beschikbaarheid van essentiële systemen in geval van volloopschade<sup> 1) Verwezen wordt naar de Tussentijdse toelichting voor de beoordeling van de systeemcapaciteiten van passagiersschepen na brand of een volloopincident (MSC.1/Circ.1369). </sup>Een passagiersschip gebouwd op of na 1 juli 2010 dient zodanig te zijn ontworpen dat de in voorschrift II-2/21.4 omschreven systemen operationeel blijven wanneer een van de waterdichte afdelingen van het schip vol loopt.
+2. Beschikbaarheid van essentiële systemen in geval van volloopschadeEen passagiersschip gebouwd op of na 1 juli 2010 dient zodanig te zijn ontworpen dat de in voorschrift II-2/21.4 omschreven systemen operationeel blijven wanneer een van de waterdichte afdelingen van het schip vol loopt.
 3. Operationele informatie na een volloopincident Ten behoeve van het verschaffen van operationele informatie aan de kapitein voor de veilige terugkeer naar een haven na een volloopincident, dienen schepen gebouwd op of na 1 januari 2014 te beschikken over:
 
 .1 een stabiliteitscomputer aan boord; of  
 
-.2 ondersteuning vanaf de wal, gebaseerd op door de Organisatie opgestelde richtlijnen<sup> 2) Verwezen wordt naar de Richtlijnen inzake operationele informatie voor kapiteins van passagiersschepen voor veilige terugkeer naar de haven op eigen kracht of gesleept (MSC.1/Circ.1400). </sup>.
+.2 ondersteuning vanaf de wal, gebaseerd op door de Organisatie opgestelde richtlijnen.
 
 ### DEEL  B-2  
 
@@ -11170,7 +11170,7 @@ waarbij:  *v<sub>m</sub> * = de in overeenstemming met paragraaf 6.1 berekende *
 .3 een onafhankelijk elektrisch systeem en een motor voor elke deur, waarvan de krachtbron bestaat uit een motor die de deur kan openen en sluiten. De krachtbron moet automatisch kunnen worden gevoed door de tijdelijke elektrische noodkrachtbron, voorgeschreven in paragraaf 4.2 van voorschrift 42, in geval van storing van de elektrische hoofdkrachtbron of de elektrische noodkrachtbron, met voldoende capaciteit om de deur driemaal te bewegen: sluiten – openen, sluiten tegen een helling van 15°. Voor de in de paragrafen 7.3.1, 7.3.2. en 7.3.3 omschreven systemen moeten de volgende voorzieningen worden getroffen: krachtinstallaties voor werktuiglijk bediende waterdichte schuifdeuren moeten gescheiden zijn van iedere andere krachtinstallatie. Een storing in de elektrisch of hydraulisch aangedreven werktuiglijke bedieningssystemen, met uitzondering van het hydraulische activeringssysteem, mag de handbediening nooit verhinderen.     
 7.4.  Aan beide zijden van het schot moeten op ten minste 1,6 m boven het vloeroppervlak bedieningshandgrepen zodanig zijn aangebracht, dat personen die door de deuropening gaan deze beide handgrepen in de openingsstand kunnen houden, zonder dat het werktuiglijk aangedreven sluitingsmechanisme daarbij in werking kan worden gesteld. De bewegingsrichting van de handgrepen voor het openen en sluiten van de deur moet overeenkomen met de bewegingsrichting van de deur en duidelijk zijn aangegeven.   
 7.5.  De elektrische uitrusting en de onderdelen voor waterdichte deuren moeten, voor zover praktisch uitvoerbaar, boven het schottendek en buiten gevaarlijke zones en ruimten gelegen zijn.   
-7.6.  De behuizingen van elektrische onderdelen die noodzakelijkerwijs onder het schottendek zijn gelegen, moeten afdoende bescherming bieden tegen binnendringend water.<sup> 7) Zie de volgende publicatie – 529(1976) – van de Internationale Elektrotechnische Commissie:   .1 elektrische motoren, bijbehorende circuits en bedieningsonderdelen; beschermd volgens norm IPX 7;   .2 standaanwijzers van deuren en bijbehorende onderdelen van circuits; beschermd volgens norm IPX 8; en   .3 waarschuwingssignalen voor de beweging van deuren; beschermd volgens norm IPX 6.   Andere uitvoeringen voor de behuizingen van elektrische onderdelen mogen worden toegepast, mits ten genoegen van de Administratie wordt aangetoond dat een gelijkwaardige bescherming wordt bereikt. De waterdruk voor norm IPX 8 moet worden gebaseerd op de druk die in volgelopen toestand gedurende 36 uur kan voorkomen op de plaats van het onderdeel. </sup>    
+7.6.  De behuizingen van elektrische onderdelen die noodzakelijkerwijs onder het schottendek zijn gelegen, moeten afdoende bescherming bieden tegen binnendringend water.    
 7.7.  De circuits voor de elektrische aandrijving, bediening, standaanwijzing en alarmering moeten zodanig tegen defecten zijn beschermd, dat een storing in een circuit van een deur niet leidt tot een storing in dat van een andere deur. Kortsluiting of andere defecten in de circuits voor alarmering of standaanwijzing van een deur mogen de werktuiglijke bediening van die deur niet nadelig beïnvloeden. De voorzieningen moeten zodanig zijn, dat lekkage van water in de onder het schottendek gelegen elektrische installatie er niet toe leidt dat de deur geopend wordt.   
 7.8.  Een elektrische storing in het bedienings- of controlesysteem van een werktuiglijk bediende waterdichte schuifdeur mag er niet toe leiden dat een gesloten deur wordt geopend. De beschikbaarheid van de krachtvoorziening moet constant worden gecontroleerd op een punt in het elektrische circuit zo dicht mogelijk bij de in paragraaf 7.3 voorgeschreven motoren. Bij het uitvallen van een dergelijke krachtvoorziening moet op het centrale bedieningspaneel op de brug een hoorbaar en zichtbaar alarm worden geactiveerd.   
 8.1.  Het centrale bedieningspaneel op de brug moet zijn uitgerust met een „master mode”-schakelaar met twee standen: een „bediening ter plaatse” stand, waarin elke deur na gebruik ter plaatse kan worden geopend en gesloten, zonder automatische sluiting, en een „deuren sluiten” stand, waarmee elke geopende deur automatisch wordt gesloten. Met de „deuren sluiten” stand wordt elke geopende deur automatisch gesloten. In de stand „deuren sluiten” moeten de deuren ter plaatse kunnen worden geopend en moeten zij automatisch sluiten zodra de bedieningsinrichting ter plaatse wordt losgelaten. De „master mode”-schakelaar dient in principe in de stand „bediening ter plaatse” te staan. De stand „deuren sluiten” mag slechts worden toegepast in geval van nood of voor beproevingsdoeleinden. Bijzondere aandacht dient te worden besteed aan de betrouwbaarheid van de „master mode”-schakelaar.   
@@ -11190,7 +11190,7 @@ waarbij:  *v<sub>m</sub> * = de in overeenstemming met paragraaf 6.1 berekende *
 1.  Het aantal openingen in de waterdichte indelingen moet beperkt zijn tot het minimum dat verenigbaar is met de inrichting en het goed functioneren van het schip. Wanneer doorboringen van waterdichte schoten en binnendekken nodig zijn voor toegang, pijpleidingen, ventilatie, elektrische kabels, enz., moeten voorzieningen worden getroffen om de waterdichtheid te behouden. De Administratie kan een geringere mate van waterdichtheid van openingen boven het vrijboorddek toestaan, indien wordt aangetoond dat elke vorm van geleidelijk vollopen gemakkelijk kan worden beheerst en de veiligheid van het schip niet in gevaar komt.   
 2.  Deuren aangebracht om de waterdichtheid van inwendige openingen die op zee worden gebruikt te verzekeren moeten waterdichte schuifdeuren zijn, die vanaf de brug op afstand moeten kunnen worden gesloten en tevens ter plaatse vanaf elke zijde van het schot moeten kunnen worden bediend. Op de bedieningspositie moeten standaanwijzers zijn aangebracht die aanduiden of de deuren geopend of gesloten zijn, en bij het sluiten van de deuren moet een hoorbaar alarm afgaan. De aandrijving, bediening en aanwijzers moeten kunnen worden bediend ingeval de hoofdkrachtbron uitvalt. Bijzondere aandacht moet worden besteed aan het tot een minimum beperken van de gevolgen van de uitval van het bedieningssysteem. Elke werktuiglijk bediende waterdichte schuifdeur moet zijn voorzien van een afzonderlijke handmatige bedieningsinrichting. De deur moet ter plaatse aan beide zijden van het schot met handkracht kunnen worden geopend en gesloten.   
 3.  Toegangsdeuren en toegangsluiken die op zee in principe gesloten blijven, om de waterdichtheid van inwendige openingen te verzekeren, moeten zijn voorzien van middelen die ter plaatse en op de brug aanduiden of deze deuren of luiken open of gesloten zijn. Op alle deuren en luiken moet een mededeling worden aangebracht dat deze niet geopend mogen blijven.   
-4.  Indien de Administratie van oordeel is dat waterdichte deuren of opritten noodzakelijk zijn, mogen dergelijke deuren of opritten, van deugdelijke constructie, worden aangebracht om grote laadruimen intern van elkaar te scheiden. Dit mogen scharnierende, rollende of schuivende deuren of opritten zijn, maar ze mogen niet op afstand worden bediend.<sup> 8) Zie de Interpretaties van voorschriften van deel B-1 van SOLAS Hoofdstuk II-1 (MSC/Circ.651). </sup> Indien een of meer van deze deuren of opritten gedurende de reis toegankelijk zijn, moeten zij zijn voorzien van een middel dat onbevoegd openen voorkomt.   
+4.  Indien de Administratie van oordeel is dat waterdichte deuren of opritten noodzakelijk zijn, mogen dergelijke deuren of opritten, van deugdelijke constructie, worden aangebracht om grote laadruimen intern van elkaar te scheiden. Dit mogen scharnierende, rollende of schuivende deuren of opritten zijn, maar ze mogen niet op afstand worden bediend. Indien een of meer van deze deuren of opritten gedurende de reis toegankelijk zijn, moeten zij zijn voorzien van een middel dat onbevoegd openen voorkomt.   
 5.  Andere afsluitmiddelen die op zee permanent gesloten blijven om de waterdichtheid van inwendige openingen te verzekeren, moeten elk zijn voorzien van een mededeling dat deze gesloten moeten blijven. Op mangaten bevestigd met bouten op kleine steek kan dit achterwege blijven.  
 
 ### Voorschrift  14  
@@ -11259,10 +11259,10 @@ waarbij:  *v<sub>m</sub> * = de in overeenstemming met paragraaf 6.1 berekende *
 
 ####Inwendige waterdichtheid van passagiersschepen boven het schottendek
 
-1.  De Administratie kan eisen dat alle redelijke en praktische maatregelen worden getroffen die het binnendringen en het verspreiden van water boven het schottendek zoveel mogelijk beperken. Zulke maatregelen kunnen gedeeltelijke schotten of raamspanten omvatten. Indien gedeeltelijk waterdichte schotten of raamspanten op het schottendek zijn aangebracht direct boven of in de onmiddellijke nabijheid van waterdichte schotten moeten zij waterdicht op de scheepshuid en op het schottendek aansluiten om het verspreiden van lekwater langs het dek bij slagzij van het schip te beperken. Waar het gedeeltelijk waterdichte schot niet onmiddellijk boven het schot daaronder is opgetrokken, moet het tussengelegen schottendek afdoende waterdicht zijn uitgevoerd. Wanneer openingen, leidingen, spuigaten, elektrische kabels, enzovoort door de gedeeltelijk waterdichte schotten of dekken binnen het ondergelopen deel van het schottendek worden gevoerd, moeten voorzieningen worden getroffen om de waterdichtheid van de structuur boven het schottendek teverzekeren.<sup> 9) Zie de Richtsnoeren inzake de waterdichtheid van begrenzende schotten boven het schottendek op passagiersschepen voor de juiste toepassing van voorschrift 8 en voorschrift 20, paragraaf 1, van Hoofdstuk II-1 van SOLAS 1974, als gewijzigd (MSC/Circ.541, als kan worden gewijzigd). </sup>    
+1.  De Administratie kan eisen dat alle redelijke en praktische maatregelen worden getroffen die het binnendringen en het verspreiden van water boven het schottendek zoveel mogelijk beperken. Zulke maatregelen kunnen gedeeltelijke schotten of raamspanten omvatten. Indien gedeeltelijk waterdichte schotten of raamspanten op het schottendek zijn aangebracht direct boven of in de onmiddellijke nabijheid van waterdichte schotten moeten zij waterdicht op de scheepshuid en op het schottendek aansluiten om het verspreiden van lekwater langs het dek bij slagzij van het schip te beperken. Waar het gedeeltelijk waterdichte schot niet onmiddellijk boven het schot daaronder is opgetrokken, moet het tussengelegen schottendek afdoende waterdicht zijn uitgevoerd. Wanneer openingen, leidingen, spuigaten, elektrische kabels, enzovoort door de gedeeltelijk waterdichte schotten of dekken binnen het ondergelopen deel van het schottendek worden gevoerd, moeten voorzieningen worden getroffen om de waterdichtheid van de structuur boven het schottendek teverzekeren.    
 2.  Alle openingen in blootgestelde delen van dit open dek moeten van hoofden zijn voorzien van voldoende hoogte en sterkte en van doelmatige middelen om deze snel tegen weer en wind af te sluiten. Waterloospoorten, open railings en spuipijpen moeten zijn aangebracht voor zover noodzakelijk om overgekomen water onder alle weersomstandigheden snel van het open dek af te voeren.   
 3.  De open uiteinden van luchtpijpen die eindigen in een bovenbouw moeten zich ten minste 1 m boven de waterlijn bevinden wanneer het schip onder een hoek van 15° slagzij maakt, of de maximum hellingshoek gedurende tussenliggende stadia van vollopen, zoals vastgesteld door middel van directe berekening, naar gelang welke het grootst is. Luchtpijpen uit tanks anders dan olietanks mogen ook eindigen in de zijkant van de bovenbouw. De bepalingen van deze paragraaf laten de bepalingen van het van kracht zijnde Internationaal Verdrag betreffende de uitwatering van schepen onverlet.   
-4.  Patrijspoorten, toegangs-, laad- en brandstofpoorten en andere afsluitmiddelen voor openingen in de huidbeplating boven het schottendek, moeten deugdelijk ontworpen, geconstrueerd en voldoende sterk zijn, rekening houdend met de ruimten waarin zij zijn aangebracht en met hun plaats ten opzichte van de diepste indelingsdiepgang.<sup> 10) Zie de Aanbeveling betreffende de sterkte en beveiligings- en afsluitvoorzieningen van in de huid aangebrachte deuren op ro-ro passagiersschepen, door de Organisatie aangenomen bij resolutie A.793(19). </sup>    
+4.  Patrijspoorten, toegangs-, laad- en brandstofpoorten en andere afsluitmiddelen voor openingen in de huidbeplating boven het schottendek, moeten deugdelijk ontworpen, geconstrueerd en voldoende sterk zijn, rekening houdend met de ruimten waarin zij zijn aangebracht en met hun plaats ten opzichte van de diepste indelingsdiepgang.    
 5.  Alle patrijspoorten in ruimten onder het eerste dek boven het schottendek moeten aan de binnenzijde van sterke blinden zijn voorzien, waarmee zij gemakkelijk en doeltreffend waterdicht gesloten kunnen worden.  
 
 ### Voorschrift  17-1  
@@ -11299,11 +11299,11 @@ waarbij:  *v<sub>m</sub> * = de in overeenstemming met paragraaf 6.1 berekende *
 
 ####Informatie omtrent schadebeheersing
 
-1.  Tekeningen waarop voor elk dek en ruim de begrenzende schotten van de waterdichte afdelingen, de openingen daarin met de sluitingsmiddelen en bedieningsplaatsen, alsmede de inrichtingen voor de correctie van slagzij als gevolg van vollopen duidelijk worden aangegeven, moeten permanent zijn opgehangen of op de brug gemakkelijk toegankelijk zijn ten behoeve van de officier van de wacht. Bovendien moeten instructieboekjes met deze gegevens ter beschikking van de officieren van het schip worden gesteld.<sup> 11) Zie de richtlijnen voor schadebeheersingsplannen (MSC/Circ.919). </sup>    
+1.  Tekeningen waarop voor elk dek en ruim de begrenzende schotten van de waterdichte afdelingen, de openingen daarin met de sluitingsmiddelen en bedieningsplaatsen, alsmede de inrichtingen voor de correctie van slagzij als gevolg van vollopen duidelijk worden aangegeven, moeten permanent zijn opgehangen of op de brug gemakkelijk toegankelijk zijn ten behoeve van de officier van de wacht. Bovendien moeten instructieboekjes met deze gegevens ter beschikking van de officieren van het schip worden gesteld.    
 2.  Waterdichte deuren op passagiersschepen die tijdens de vaart geopend mogen blijven, moeten duidelijk in de stabiliteitsgegevens van het schip worden vermeld.   
 3.  Als algemene voorzorgsmaatregel dient er een overzicht aanwezig te zijn van voorzieningen, omstandigheden en handelwijzen die door de Administratie noodzakelijk worden geacht voor het handhaven van de waterdichtheid bij normale uitvoering van de dienst aan boord.   
 4.  Als bijzondere voorzorgsmaatregel dient er een overzicht aanwezig te zijn van factoren (zoals het sluiten, veiligheid van de lading, klinken van waarschuwingssignalen, enz.) die door de Administratie van wezenlijk belang worden geacht voor het behoud van het schip, de passagiers en de bemanning.   
-5.  Bij schepen waarop de lekstabiliteitsvereisten van deel B-1 van toepassing zijn, moet de kapitein met de lekstabiliteitsgegevens de overlevingskansen van het schip eenvoudig en gemakkelijk kunnen beoordelen bij alle schadescenario’s waarbij een afdeling of groep van afdelingen betrokken is.<sup> 12) Zie de door de Organisatie op te stellen richtlijnen. </sup>   
+5.  Bij schepen waarop de lekstabiliteitsvereisten van deel B-1 van toepassing zijn, moet de kapitein met de lekstabiliteitsgegevens de overlevingskansen van het schip eenvoudig en gemakkelijk kunnen beoordelen bij alle schadescenario’s waarbij een afdeling of groep van afdelingen betrokken is.   
 
 ### Voorschrift  20  
 
@@ -11358,7 +11358,7 @@ waarbij:  *v<sub>m</sub> * = de in overeenstemming met paragraaf 6.1 berekende *
 
 ### Voorschrift  22-1  
 
-####<sup> 13)  Zie de door de Organisatie op te stellen richtsnoeren.  </sup> Detectiesystemen tegen vollopen voor passagiersschepen, gebouwd op of na 1 juli 2010 die 36 personen of meer vervoeren
+####Detectiesystemen tegen vollopen voor passagiersschepen, gebouwd op of na 1 juli 2010 die 36 personen of meer vervoeren
 
 In waterdichte ruimten onder het schottendek moet een detectiesysteem tegen vollopen worden aangebracht op basis van de door de Organisatie opgestelderichtsnoeren.<sup> 13) Zie de door de Organisatie op te stellen richtsnoeren. </sup>  
 
@@ -11390,7 +11390,7 @@ In waterdichte ruimten onder het schottendek moet een detectiesysteem tegen voll
 ####Waterniveaudetectoren op schepen met een enkel laadruim, anders dan bulkcarriers
 
 1.  Schepen met een enkel laadruim, anders dan bulkcarriers, gebouwd vóór 1 januari 2007, moeten uiterlijk op 31 december 2009 voldoen aan de vereisten van dit voorschrift.   
-2.  Schepen met een lengte (*L*) van minder dan 80 m, of 100 m indien gebouwd vóór 1 juli 1998, en met een enkel laadruim onder het vrijboorddek of laadruimen onder het vrijboorddek die niet door ten minste één tot aan dat dek waterdicht opgetrokken schot worden gescheiden, moeten in een dergelijke ruimte of in dergelijke ruimten met waterniveaudetectoren worden uitgerust.<sup> 14) Zie de Prestatienormen voor waterniveaudetectoren op bulkcarriers en schepen met een enkel laadruim, anders dan bulkcarriers, aangenomen door de Maritieme Veiligheidscomissie bij resolutie MSC.188(79). </sup>    
+2.  Schepen met een lengte (*L*) van minder dan 80 m, of 100 m indien gebouwd vóór 1 juli 1998, en met een enkel laadruim onder het vrijboorddek of laadruimen onder het vrijboorddek die niet door ten minste één tot aan dat dek waterdicht opgetrokken schot worden gescheiden, moeten in een dergelijke ruimte of in dergelijke ruimten met waterniveaudetectoren worden uitgerust.    
 3.  De in paragraaf 2 vereiste waterniveaudetectoren moeten: 
 
 .1 op de brug een hoorbaar en zichtbaar waarschuwingssignaal geven, het ene wanneer het waterniveau boven de binnenbodem in een laadruim een hoogte van ten minste 0,3 m bereikt en het andere wanneer dat niveau ten hoogste 15% van de gemiddelde diepte van het laadruim bereikt; en  
@@ -12081,7 +12081,7 @@ Tenzij uitdrukkelijk anders bepaald, is Deel D van toepassing op passagierschepe
 .3 geschikt is voor de betrokken ruimte; en  
 
 .4 geschikt is verklaard voor veilig gebruik in de stoffen, dampen of gassen zoals die waarschijnlijk zullen voorkomen.  
-11. Op tankschepen mogen elektrische apparatuur, kabels en bedrading niet worden aangebracht op gevaarlijke plaatsen, tenzij deze voldoen aan normen die niet minder strikt zijn dan die welke voor de Organisatie aanvaardbaar zijn.<sup> 1) Zie de door de Internationale Elektrotechnische Commissie gepubliceerde normen, IEC 60092-502:1999 „Elektrische installaties op schepen – Tankschepen”. </sup> Echter, op plaatsen waarvoor die normen niet gelden, mogen elektrische apparatuur, kabels en bedrading die niet voldoen aan de normen op gevaarlijke plaatsen worden aangebracht na een risicobeoordeling ten genoegen van de Administratie, teneinde te garanderen dat een gelijkwaardig niveau van veiligheid wordt gewaarborgd.
+11. Op tankschepen mogen elektrische apparatuur, kabels en bedrading niet worden aangebracht op gevaarlijke plaatsen, tenzij deze voldoen aan normen die niet minder strikt zijn dan die welke voor de Organisatie aanvaardbaar zijn. Echter, op plaatsen waarvoor die normen niet gelden, mogen elektrische apparatuur, kabels en bedrading die niet voldoen aan de normen op gevaarlijke plaatsen worden aangebracht na een risicobeoordeling ten genoegen van de Administratie, teneinde te garanderen dat een gelijkwaardig niveau van veiligheid wordt gewaarborgd.
 12. Op een passagiersschip dienen de stroomverdelingssystemen zodanig te zijn aangebracht dat brand in een van de verticale hoofdsecties, zoals omschreven in Voorschrift II-2/3.9, niet de diensten die essentieel zijn voor de veiligheid in een andere zodanige sectie zal ontregelen. Aan deze eis zal zijn voldaan indien de hoofd- en noodvoedingleidingen die door een zodanige sectie lopen zowel verticaal, als horizontaal, zo ver mogelijk uit elkaar lopen.
 
 ### DEEL  E  
@@ -12211,7 +12211,7 @@ De Administratie dient bijzondere aandacht te schenken aan passagiersschepen, wa
 2.1 Ontwerp en voorzieningen van machine- en elektrische installaties mogen van de in de delen C, D en E vervatte vereisten afwijken, mits de vervangende ontwerpen en voorzieningen beantwoorden aan het doel van de desbetreffende vereisten en een gelijkwaardig niveau van veiligheid aan dit Hoofdstuk bieden.  
 
 2.2 Wanneer vervangende ontwerpen of voorzieningen afwijken van de dwingende vereisten van de delen C, D en E, moeten de constructieanalyse, de evaluatie en de goedkeuring van het vervangende ontwerp en de vervangende voorzieningen worden uitgevoerd in overeenstemming met dit voorschrift.     
-3.  Constructieanalyse De constructieanalyse opgesteld op basis van de door de Organisatie opgestelde richtsnoeren<sup> 1) Zie de richtsnoeren inzake vervangende ontwerpen en voorzieningen voor SOLAS-Hoofdstukken II-1 en III (MSC.1/Circ.1212). </sup> , moet worden voorbereid en aan de Administratie worden voorgelegd en ten minste de volgende onderdelen omvatten: 
+3.  Constructieanalyse De constructieanalyse opgesteld op basis van de door de Organisatie opgestelde richtsnoeren , moet worden voorbereid en aan de Administratie worden voorgelegd en ten minste de volgende onderdelen omvatten: 
 
 .1 vermelding van het type schip, machine-installaties, elektrische installaties en ruimte(n) in kwestie;  
 
@@ -12232,7 +12232,7 @@ De Administratie dient bijzondere aandacht te schenken aan passagiersschepen, wa
 .7 risicobeoordeling aan de hand van identificatie van de potentiële tekortkomingen en gevaren die met het voorstel samenhangen.     
 4.  Beoordeling van het vervangende ontwerp en de vervangende voorzieningen 
 
-4.1 De in paragraaf 3 vereiste constructieanalyse wordt door de Administratie beoordeeld en goedgekeurd, met inachtneming van dedoor de Organisatie opgestelde richtsnoeren<sup> 1) Zie de richtsnoeren inzake vervangende ontwerpen en voorzieningen voor SOLAS-Hoofdstukken II-1 en III (MSC.1/Circ.1212). </sup> .  
+4.1 De in paragraaf 3 vereiste constructieanalyse wordt door de Administratie beoordeeld en goedgekeurd, met inachtneming van dedoor de Organisatie opgestelde richtsnoeren .  
 
 4.2 Aan boord van het schip moet een afschrift aanwezig zijn van de documenten, zoals goedgekeurd door de Administratie, waarin wordt vermeld dat het vervangende ontwerp en de vervangende voorzieningen aan dit voorschrift voldoen.     
 5.  Uitwisseling van informatie De Administratie doet de Organisatie relevante informatie toekomen over het door haar goedgekeurde vervangende ontwerp en vervangende voorzieningen, ter verzending aan alle Verdragsluitende Regeringen.   
@@ -12248,7 +12248,7 @@ De Administratie dient bijzondere aandacht te schenken aan passagiersschepen, wa
 
 ### Voorschrift  1  
 
-####Toepassing<sup>* Bij resolutie MSC.308(88) is 1 juli 2012 ingevoerd als datum van inwerkingtreding. Bij deze resolutie zijn ingevolge hoofdstuk II-2, uitsluitend de voorschriften II-2/3.23 (omschrijving van de „Code inzake beproevingsprocedures voor brandwerendheid”) en II-2/7.4.1 (nieuwe subparagraaf .3) gewijzigd; alle overige voorschriften met 1 juli 2002 als oorspronkelijke invoeringsdatum blijven ongewijzigd. </sup>
+####Toepassing
 
 1. Toepassing 
 
@@ -12288,7 +12288,7 @@ De Administratie dient bijzondere aandacht te schenken aan passagiersschepen, wa
 
 2.3Schepen gebouwd op of na 1 juli 2002 en voor 1 juli 2010 moeten voldoen aan de paragrafen 7.1.1, 7.4.4.2, 7.4.4.3 en 7.5.2.1.2 van voorschrift 9, zoals aangenomen bij resolutie MSC.99(73). 
 
-2.4De volgende schepen met laadruimten bestemd voor het vervoer van verpakte gevaarlijke stoffen moeten uiterlijk op de datum van het eerste hernieuwde onderzoek op of na 1 januari 2011 voldoen aan voorschrift 19.3, behalve wanneer zij gevaarlijke stoffen vervoeren van klasse 6.2 en 7 en gevaarlijke stoffen in beperkte hoeveelheden<sup> 1) Zie Hoofdstuk 3.4 van de IMDG-Code. </sup> en vrijgestelde hoeveelheden<sup> 2) Zie Hoofdstuk 3.5 van de IMDG-Code. </sup> in overeenstemming met de tabellen 19.1 en 19.3: 
+2.4De volgende schepen met laadruimten bestemd voor het vervoer van verpakte gevaarlijke stoffen moeten uiterlijk op de datum van het eerste hernieuwde onderzoek op of na 1 januari 2011 voldoen aan voorschrift 19.3, behalve wanneer zij gevaarlijke stoffen vervoeren van klasse 6.2 en 7 en gevaarlijke stoffen in beperkte hoeveelheden en vrijgestelde hoeveelheden in overeenstemming met de tabellen 19.1 en 19.3: 
 
 .1 vrachtschepen met een brutotonnage van 500 ton of meer en passagiersschepen gebouwd op of na 1 september 1984 maar voor 1 januari 2011; en  
 
@@ -12952,7 +12952,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, zijn 
 
 3.2.1.2 Op vrachtschepen mogen onbrandbare schotten, plafonds en beschietingen in ruimten voor accommodatie en dienstruimten worden bekleed met brandbare materialen, bekleding, lijstwerk, decoratieve versieringen en fineerlagen, mits deze ruimten worden begrensd door onbrandbare schotten, plafonds en beschietingen in overeenstemming met de bepalingen van de paragrafen 3.2.2 tot en met 3.2.4 en voorschrift 6. 
 
-3.2.2 Maximum calorische waarde van brandbare materialen Brandbare materialen die worden gebruikt bij de in paragraaf 3.2.1 bedoelde oppervlakken en beschietingen, mogen een calorische waardeZie de door de Internationale Organisatie voor Normalisatie gepubliceerde aanbevelingen, in het bijzonder de publicatie ISO 1716: 1973 – Bepaling van het calorisch potentieel. hebben van ten hoogste 45 MJ/m<sup>2</sup>, betrokken op de oppervlakte waarop de materialen met een bepaalde dikte zijn aangebracht. De vereisten van deze paragraaf zijn niet van toepassing op de oppervlakken van meubilair dat aan beschietingen of schotten is bevestigd.
+3.2.2 Maximum calorische waarde van brandbare materialen Brandbare materialen die worden gebruikt bij de in paragraaf 3.2.1 bedoelde oppervlakken en beschietingen, mogen een calorische waarde hebben van ten hoogste 45 MJ/m<sup>2</sup>, betrokken op de oppervlakte waarop de materialen met een bepaalde dikte zijn aangebracht. De vereisten van deze paragraaf zijn niet van toepassing op de oppervlakken van meubilair dat aan beschietingen of schotten is bevestigd.
 
 3.2.3 Totale inhoud van brandbare materialen Wanneer in overeenstemming met 3.2.1 brandbare materialen worden gebruikt, moeten deze voldoen aan de volgende vereisten: 
 
@@ -13882,7 +13882,7 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 
 .2traditionele plafondsprinklerkoppen zijn, die zodanig zijn aangebracht dat het raam wordt beveiligd door een gemiddeld debiet van ten minste 5 l/m<sup>2</sup> en het aanvullende raamvlak wordt betrokken bij de berekening van het bestreken gebied; of  
 
-.3waternevelspuitkoppen die zijn getest en goedgekeurd in overeenstemming met de door de Organisatie goedgekeurde richtsnoeren<sup>1)Zie de Herziene Richtsnoeren voor de goedkeuring van sprinklersystemen die gelijkwaardig zijn aan die bedoeld in SOLAS-voorschrift II-2/12 (resolutie A.800(19)).</sup>.Ramen gelegen in de zijde van het schip onder de inschepingsplaats voor reddingboten moeten een brandwerend vermogen hebben dat ten minste gelijk is aan klasse „A-O”.
+.3waternevelspuitkoppen die zijn getest en goedgekeurd in overeenstemming met de door de Organisatie goedgekeurde richtsnoeren.Ramen gelegen in de zijde van het schip onder de inschepingsplaats voor reddingboten moeten een brandwerend vermogen hebben dat ten minste gelijk is aan klasse „A-O”.
 
 4.2 Deuren in brandwerende schotten op vrachtschepen
 
@@ -13998,7 +13998,7 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 
 .3.1 overeenkomstig paragraaf 7.4.4.3.2 het kanaal moet zijn vervaardigd van elk materiaal met een laag vlamverspreidend vermogen;  
 
-.3.2 op schepen gebouwd op of na 1 juli 2010 dienen de kanalen te zijn vervaardigd van hittebestendig onbrandbaar materiaal dat aan de binnen- en buitenzijde voorzien kan zijn van membranen met een laag vlamverspreidend vermogen en waarvan het oppervlak bij de gebruikte dikte in alle gevallen een calorische waarde<sup>1)Zie de door de Internationale Organisatie voor Normalisatie gepubliceerde aanbevelingen, in het bijzonder de publicatie ISO 1716: 2002 – *Bepaling van het calorisch potentieel.*</sup> mag hebben van ten hoogste 45 MJ/m<sup>2</sup>;
+.3.2 op schepen gebouwd op of na 1 juli 2010 dienen de kanalen te zijn vervaardigd van hittebestendig onbrandbaar materiaal dat aan de binnen- en buitenzijde voorzien kan zijn van membranen met een laag vlamverspreidend vermogen en waarvan het oppervlak bij de gebruikte dikte in alle gevallen een calorische waarde mag hebben van ten hoogste 45 MJ/m<sup>2</sup>;
 
 .3.3 het kanaal mag alleen worden gebruikt aan het einde van het ventilatiesysteem; en  
 
@@ -14326,7 +14326,7 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 
 6.4 Frituurtoestellen Frituurtoestellen in ingesloten ruimten of op open dekken moeten zijn voorzien van: 
 
-.1 een automatische of met de hand bediende brandblusinstallatie die conform een door de Organisatie aanvaardbare internationale norm is beproefd;<sup>* Zie de door de Internationale Organisatie voor Normalisatie gepubliceerde aanbevelingen, in het bijzonder de publicatie ISO 15371: 2000 – Brandblusinstallaties voor de beveiliging van frituurtoestellen in kombuizen. </sup>   
+.1 een automatische of met de hand bediende brandblusinstallatie die conform een door de Organisatie aanvaardbare internationale norm is beproefd;   
 
 .2 een primaire en reservethermostaat met een alarm om de bedienaar te waarschuwen in geval van storing van een van de thermostaten;  
 
@@ -14554,7 +14554,7 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 
 3.2.5.2 Aan boord van passagiersschepen die meer dan 36 passagiers vervoeren, zijn de vereisten van voorschrift 3.2.5.1 ook van toepassing op de ruimten voor accommodatie voor de bemanning.
 
-3.2.5.3 In plaats van het in paragraaf 3.2.5.1 vereiste systeem voor de verlichting van ontsnappingsroutes, kunnen vervangende bewegwijzeringssystemen voor vluchtwegen worden aanvaard, mits deze door de Administratie zijn goedgekeurd aan de hand van de door de Organisatie opgestelderichtsnoeren<sup> 2) Zie de Functievereisten en prestatienormen voor de beoordeling van bewegwijzeringssystemen voor vluchtroutes (MSC/Circ.1167) en de Interimrichtsnoeren voor beproeving, goedkeuring en onderhoud van bewegwijzeringssystemen voor vluchtwegen als alternatief voor laag aangebrachte noodverlichtingssystemen (MSC/Circ.1168). </sup> . 
+3.2.5.3 In plaats van het in paragraaf 3.2.5.1 vereiste systeem voor de verlichting van ontsnappingsroutes, kunnen vervangende bewegwijzeringssystemen voor vluchtwegen worden aanvaard, mits deze door de Administratie zijn goedgekeurd aan de hand van de door de Organisatie opgestelde richtsnoeren. 
 
 3.2.6 Normaliter gesloten deuren die onderdeel uitmaken van een ontsnappingsroute
 
@@ -15060,7 +15060,7 @@ Noten: Van toepassing op de tabellen 9.7 tot en met 9.8, waar deze staan aangege
 
 2 Algemene vereisten
 
-2.1 Bepaalde soorten schepen en laadruimten, bedoeld in paragraaf 2.2 die zijn bestemd voor vervoer van gevaarlijke stoffen, moeten niet alleen voldoen aan de vereisen van de voorschriften in de delen B, C, D, E en aan de voorschriften 18 en 20 die worden gesteld ten aanzien van schepen die gevaarlijke stoffen vervoeren, al naar gelang, maar ook aan de desbetreffende eisen die worden gesteld in dit voorschrift, behalve wanneer zij gevaarlijke stoffen in kleine hoeveelheden vervoeren en vrijgestelde hoeveelheden<sup>*Zie Hoofdstuk 3.5 van de IMDG-Code.</sup>, tenzij aan deze eisen reeds is voldaan door inachtneming van het bepaalde elders in dit hoofdstuk. De soorten schepen en de wijzen van vervoer van gevaarlijke stoffen staan vermeld in paragraaf 2.2 en in tabel 19.1 Vrachtschepen met een brutotonnage van minder dan 500 ton moeten aan dit voorschrift voldoen, doch de Administratie kan afwijkingen van deze eisen toestaan; afwijkingen van de eisen moeten worden vermeld in de in paragraaf 4 bedoelde verklaring.
+2.1 Bepaalde soorten schepen en laadruimten, bedoeld in paragraaf 2.2 die zijn bestemd voor vervoer van gevaarlijke stoffen, moeten niet alleen voldoen aan de vereisen van de voorschriften in de delen B, C, D, E en aan de voorschriften 18 en 20 die worden gesteld ten aanzien van schepen die gevaarlijke stoffen vervoeren, al naar gelang, maar ook aan de desbetreffende eisen die worden gesteld in dit voorschrift, behalve wanneer zij gevaarlijke stoffen in kleine hoeveelheden vervoeren en vrijgestelde hoeveelheden, tenzij aan deze eisen reeds is voldaan door inachtneming van het bepaalde elders in dit hoofdstuk. De soorten schepen en de wijzen van vervoer van gevaarlijke stoffen staan vermeld in paragraaf 2.2 en in tabel 19.1 Vrachtschepen met een brutotonnage van minder dan 500 ton moeten aan dit voorschrift voldoen, doch de Administratie kan afwijkingen van deze eisen toestaan; afwijkingen van de eisen moeten worden vermeld in de in paragraaf 4 bedoelde verklaring.
 
 2.2 De volgende soorten schepen en laadruimten vallen binnen het toepassingsgebied van de tabellen 19.1 en 19.2: 
 
@@ -15285,17 +15285,17 @@ De Administratie kan een groter aantal luchtwisselingen eisen wanneer de voertui
 
 .1 op passagiersschepen: 
 
-.1.1 in de ruimten boven het schottendek moeten spuipijpen worden aangebracht teneinde zeker te stellen dat dit water snel rechtstreeks overboord wordt afgevoerd, daarbij de door de Organisatie opgestelde richtsnoeren in acht nemend<sup> 6) Zie de door de Organisatie op te stellen Richtsnoeren voor afvoersystemen in gesloten voertuig- en ro-ro ruimten en ruimten van bijzondere aard. </sup> ; 
+.1.1 in de ruimten boven het schottendek moeten spuipijpen worden aangebracht teneinde zeker te stellen dat dit water snel rechtstreeks overboord wordt afgevoerd, daarbij de door de Organisatie opgestelde richtsnoeren in acht nemend ; 
 
 1.2.1 op ro-ro-passagiersschepen moeten de lozingskleppen van de spuipijpen, voorzien van directe sluitvoorzieningen die bedienbaar zijn vanaf een positie boven het schottendek in overeenstemming met de vereisten van het van kracht zijnde Internationaal Verdrag betreffende de uitwatering van schepen, geopend blijven zolang het schip zich op zee bevindt;  
 
 .1.2.2 elke bediening van de in paragraaf 6.1.4.1.2.1 bedoelde kleppen moet worden vermeld in het logboek;    
 
-.1.3 de Administratie kan verlangen dat in de ruimten onder het schottendek in aanvulling op de vereisten van voorschrift II-1/35-1 pomp- en afvoervoorzieningen worden aangebracht. In een dergelijk geval moet het afvoersysteem een zodanige capaciteit hebben dat hiermee ten minste 125% van de gezamenlijke capaciteit van zowel de pompen van de watersproei-installatie als van het vereiste aantal brandslangstraalpijpen kan worden afgevoerd, daarbij de door de Organisatie opgestelde richtsnoeren<sup> 5) Zie de door de Organisatie op te stellen Richtsnoeren voor de constructie, installatie, het onderhoud en de inspectie/onderzoek van accommodatieladders en loopbruggen. </sup> in acht nemend. De afsluitkleppen van het afvoersysteem moeten van buiten de beveiligde ruimte kunnen worden bediend op een plaats in de nabijheid van de bedieningsmiddelen van de brandblusinstallatie. Lensputten moeten voldoende inhoudscapaciteit hebben en moeten bij de huid van het schip worden aangebracht op een onderlinge afstand van ten hoogste 40 m in elke waterdichte afdeling;    
+.1.3 de Administratie kan verlangen dat in de ruimten onder het schottendek in aanvulling op de vereisten van voorschrift II-1/35-1 pomp- en afvoervoorzieningen worden aangebracht. In een dergelijk geval moet het afvoersysteem een zodanige capaciteit hebben dat hiermee ten minste 125% van de gezamenlijke capaciteit van zowel de pompen van de watersproei-installatie als van het vereiste aantal brandslangstraalpijpen kan worden afgevoerd, daarbij de door de Organisatie opgestelde richtsnoeren in acht nemend. De afsluitkleppen van het afvoersysteem moeten van buiten de beveiligde ruimte kunnen worden bediend op een plaats in de nabijheid van de bedieningsmiddelen van de brandblusinstallatie. Lensputten moeten voldoende inhoudscapaciteit hebben en moeten bij de huid van het schip worden aangebracht op een onderlinge afstand van ten hoogste 40 m in elke waterdichte afdeling;    
 
-.2 op vrachtschepen moeten de spui- en lensinrichtingen zodanig zijn dat het ontstaan van vrije vloeistofoppervlakken wordt voorkomen. In een dergelijk geval moet het afvoersysteem een zodanige capaciteit hebben dat hiermee ten minste 125% van de gezamenlijke capaciteit van zowel de pompen van de watersproei-installatie als van het vereiste aantal brandslangstraalpijpen kan worden afgevoerd, daarbij de door de Organisatie opgestelde richtsnoeren in aanmerking nemend<sup> 5) Zie de door de Organisatie op te stellen Richtsnoeren voor de constructie, installatie, het onderhoud en de inspectie/onderzoek van accommodatieladders en loopbruggen. </sup> . De afsluitkleppen van het afvoersysteem moeten van buiten de beveiligde ruimte kunnen worden bediend op een plaats in de nabijheid van de bedieningsmiddelen van de brandblusinstallatie. Lensputten moeten voldoende inhoudscapaciteit hebben en moeten bij de huid van het schip worden aangebracht op een onderlinge afstand van ten hoogste 40 m in elke waterdichte afdeling. Is dit niet mogelijk, dan moet de Administratie, voor zover zij zulks noodzakelijk acht, bij haar goedkeuring van de stabiliteitsgegevens rekening houden met de nadelige invloed van het toegevoegde gewicht en het vrije vloeistofoppervlak op de stabiliteit<sup> 7) Zie de Aanbeveling inzake vaste brandblusinstallaties voor ruimten van bijzondere aard, aangenomen door de Organisatie bij resolutie A.123(V). </sup> . Deze informatie wordt opgenomen in de stabiliteitsgegevens die conform voorschrift II-1/5-1 aan de kapitein worden verstrekt.    
+.2 op vrachtschepen moeten de spui- en lensinrichtingen zodanig zijn dat het ontstaan van vrije vloeistofoppervlakken wordt voorkomen. In een dergelijk geval moet het afvoersysteem een zodanige capaciteit hebben dat hiermee ten minste 125% van de gezamenlijke capaciteit van zowel de pompen van de watersproei-installatie als van het vereiste aantal brandslangstraalpijpen kan worden afgevoerd, daarbij de door de Organisatie opgestelde richtsnoeren in aanmerking nemend . De afsluitkleppen van het afvoersysteem moeten van buiten de beveiligde ruimte kunnen worden bediend op een plaats in de nabijheid van de bedieningsmiddelen van de brandblusinstallatie. Lensputten moeten voldoende inhoudscapaciteit hebben en moeten bij de huid van het schip worden aangebracht op een onderlinge afstand van ten hoogste 40 m in elke waterdichte afdeling. Is dit niet mogelijk, dan moet de Administratie, voor zover zij zulks noodzakelijk acht, bij haar goedkeuring van de stabiliteitsgegevens rekening houden met de nadelige invloed van het toegevoegde gewicht en het vrije vloeistofoppervlak op de stabiliteit . Deze informatie wordt opgenomen in de stabiliteitsgegevens die conform voorschrift II-1/5-1 aan de kapitein worden verstrekt.    
 
-6.1.5 Op alle schepen moeten in ruimten voor gesloten voertuigen en ro-ro ruimten alsmede in ruimten van bijzondere aard, waar vaste sproei-installaties voor water onder druk zijn aangebracht, middelen beschikbaar zijn waarmee voorkomen wordt dat lensputten verstopt of geblokkeerd raken, daarbij de door de Organisatie opgestelde richtsnoeren in aanmerking nemend<sup> 5) Zie de door de Organisatie op te stellen Richtsnoeren voor de constructie, installatie, het onderhoud en de inspectie/onderzoek van accommodatieladders en loopbruggen. </sup>. Schepen gebouwd vóór 1 januari 2010 moeten bij het eerste onderzoek na 1 januari 2010 aan de vereisten van deze paragraaf voldoen. 
+6.1.5 Op alle schepen moeten in ruimten voor gesloten voertuigen en ro-ro ruimten alsmede in ruimten van bijzondere aard, waar vaste sproei-installaties voor water onder druk zijn aangebracht, middelen beschikbaar zijn waarmee voorkomen wordt dat lensputten verstopt of geblokkeerd raken, daarbij de door de Organisatie opgestelde richtsnoeren in aanmerking nemend. Schepen gebouwd vóór 1 januari 2010 moeten bij het eerste onderzoek na 1 januari 2010 aan de vereisten van deze paragraaf voldoen. 
 
 6.2 Draagbare brandblustoestellen
 
@@ -15318,7 +15318,7 @@ De Administratie kan een groter aantal luchtwisselingen eisen wanneer de voertui
 .1 verlies van de ontstaansruimte tot aan de dichtstbijzijnde scheidingswanden van klasse „A”, die onderdeel kunnen uitmaken van de ontstaansruimte, indien deze wordt beveiligd door middel van een vaste brandblusinstallatie; of  
 
 .2 verlies van de ontstaansruimte en belendende ruimten tot aan de dichtstbijzijnde scheidingswanden van klasse „A”, die geen onderdeel van de ontstaansruimte vormen.     
-4.  Veilige terugkeer naar de haven<sup> 3) Zie de Prestatienormen voor de systemen en diensten die op passagiersschepen bedrijfszeker moeten blijven voor de veilige terugkeer naar de haven en het ordentelijk evacueren en verlaten na een ongeval (MSC.1/Circ.1214). </sup>  Wanneer de brandschade de in paragraaf 3 genoemde ongevallendrempel niet overschrijdt, is het schip in staat naar de haven terug te keren en kan tevens voor een veilige zone als omschreven in voorschrift 3 worden gezorgd. Teneinde in staat geacht te worden naar de haven terug te keren, moeten de volgende systemen in het resterende deel van het schip dat niet is getroffen door de brand, operationeel blijven: 
+4.  Veilige terugkeer naar de haven Wanneer de brandschade de in paragraaf 3 genoemde ongevallendrempel niet overschrijdt, is het schip in staat naar de haven terug te keren en kan tevens voor een veilige zone als omschreven in voorschrift 3 worden gezorgd. Teneinde in staat geacht te worden naar de haven terug te keren, moeten de volgende systemen in het resterende deel van het schip dat niet is getroffen door de brand, operationeel blijven: 
 
 .1 voortstuwing;  
 
@@ -15375,7 +15375,7 @@ De Administratie kan een groter aantal luchtwisselingen eisen wanneer de voertui
 
 .4 vanuit elke zone die als veilige zone wordt bestemd of gebruikt, moeten reddingsmiddelen toegankelijk zijn, er daarbij rekening houdend dat een verticale hoofdsectie voor interne verplaatsingen mogelijk niet beschikbaar is.    
 
-5.2 Alternatieve ruimte voor medische zorg Een alternatieve ruimte voor medische zorg moet voldoen aan een voor de Administratie aanvaardbare norm.<sup> 5) Zie de Regels voor de instelling van medische en gezondheidsprogramma’s op passagiersschepen (MSC/Circ.1129). </sup>     
+5.2 Alternatieve ruimte voor medische zorg Een alternatieve ruimte voor medische zorg moet voldoen aan een voor de Administratie aanvaardbare norm.     
 
 ### Voorschrift  22  
 
@@ -15383,7 +15383,7 @@ De Administratie kan een groter aantal luchtwisselingen eisen wanneer de voertui
 
 1.  Toepassing Passagiersschepen gebouwd op of na 1 juli 2010 met een lengte, als omschreven in voorschrift 2.2 van Hoofdstuk II-1, van 120 m of meer, met drie of meer verticale hoofdsecties, moeten aan de bepalingen van dit voorschrift voldoen.   
 2.  Doel Het doel van dit voorschrift is het verschaffen van criteria voor het ontwerp van systemen die operationeel moeten blijven ter ondersteuning van het ordentelijk evacueren en verlaten van een schip, indien de in paragraaf 21.3 omschreven ongevallendrempel wordt overschreden.   
-3.  Systemen<sup> 6) Zie de Prestatienormen voor de systemen en diensten die op passagiersschepen operationeel moeten blijven voor de veilige terugkeer naar de haven en het ordentelijk evacueren en verlaten na een ongeval (MSC.1/Circ.1214). </sup>  
+3.  Systemen  
 
 3.1 Indien een verticale hoofdsectie als gevolg van brand onbereikbaar is, moeten de volgende systemen zodanig zijn aangebracht en gescheiden dat deze operationeel blijven: 
 
@@ -15410,7 +15410,7 @@ De Administratie kan een groter aantal luchtwisselingen eisen wanneer de voertui
 1.  Toepassing Passagiersschepen gebouwd op of na 1 juli 2010 moeten een beveiligingscentrum aan boord hebben dat aan de vereisten van dit voorschrift voldoet.   
 2.  Doel Het doel van dit voorschrift is een ruimte te bieden van waaruit assistentie bij het beheer van noodsituaties kan worden verleend.   
 3.  Plaats en inrichting Het beveiligingscentrum moet hetzij onderdeel van de brug vormen, hetzij gelegen zijn in een aparte ruimte die grenst aan en rechtstreeks toegang biedt tot de brug, zodanig dat het beheer van noodsituaties kan plaatsvinden zonder dat de officieren van de wacht van hun navigatietaken worden afgeleid.   
-4.  Inrichting en ergonomisch ontwerp Bij de inrichting en het ergonomisch ontwerp van het beveiligingscentrum moet naar behoren rekening worden gehouden met de door de Organisatie ontwikkelde richtsnoeren<sup> 7) Zie de door de Organisatie op te stellen richtsnoeren. </sup> .   
+4.  Inrichting en ergonomisch ontwerp Bij de inrichting en het ergonomisch ontwerp van het beveiligingscentrum moet naar behoren rekening worden gehouden met de door de Organisatie ontwikkelde richtsnoeren .   
 5.  Communicatie Er moeten middelen aanwezig zijn voor communicatie tussen het beveiligingscentrum, het centrale controlestation, de brug, de machinebedieningskamer, de opslagruimte(n) voor brandblusapparaten en de kastjes met brandweeruitrusting.   
 6.  Toezicht op en monitoring van beveiligingssystemen Onverminderd de elders in het Verdrag vermelde vereisten, moeten alle functionaliteiten (bediening, controle, monitoring of alle benodigde combinaties hiervan) van de onderstaande beveiligingssystemen vanuit het beveiligingscentrum beschikbaar zijn: 
 
@@ -15482,7 +15482,7 @@ De Administratie kan een groter aantal luchtwisselingen eisen wanneer de voertui
 
 .2 er voor zorg dragen dat wanneer reddingsmiddelen of -voorzieningen op dergelijke schepen worden vervangen, of wanneer dergelijke schepen reparaties, veranderingen of wijzigingen van ingrijpende aard ondergaan die vervanging van, of een aanvulling op hun bestaande reddingsmiddelen of -voorzieningen met zich meebrengen, deze reddingsmiddelen of -voorzieningen, voor zover dat redelijk en uitvoerbaar is, voldoen aan de vereisten van dit hoofdstuk. Wanneer echter een reddingsboot of -vlot anders dan een opblaasbaar reddingsvlot wordt vervangen zonder het bijbehorende tewaterlatingsmiddel te vervangen, of omgekeerd, dan kan de reddingsboot, het reddingsvlot of het tewaterlatingsmiddel van hetzelfde type zijn als dat wat wordt vervangen.  
 
-5Niettegenstaande paragraaf 4.2 worden bij alle schepen uiterlijk op de datum van de eerstvolgende geplande droogzetting na 1 juli 2014, maar in geen geval later dan 1 juli 2019, ontkoppelingsmechanismen voor het in belaste toestand te water laten van reddingsboten die niet voldoen aan de paragrafen 4.4.7.6.4 tot en met 4.4.7.6.6 van de Code<sup> 1) Zie de Richtlijnen voor de beoordeling en vervanging van systemen voor het ontkoppelen en terugzetten van reddingsboten (MSC.1/Circ.1392). </sup> vervangen door uitrusting die aan de Code voldoet. 
+5Niettegenstaande paragraaf 4.2 worden bij alle schepen uiterlijk op de datum van de eerstvolgende geplande droogzetting na 1 juli 2014, maar in geen geval later dan 1 juli 2019, ontkoppelingsmechanismen voor het in belaste toestand te water laten van reddingsboten die niet voldoen aan de paragrafen 4.4.7.6.4 tot en met 4.4.7.6.6 van de Code vervangen door uitrusting die aan de Code voldoet. 
 
 ### Voorschrift  2  
 
@@ -15570,7 +15570,7 @@ Voor de toepassing van dit hoofdstuk, tenzij uitdrukkelijk anders bepaald, wordt
 
 3 Alvorens reddingsmiddelen en -voorzieningen van een nieuw ontwerp goed te keuren, moet de Administratie erop toezien dat deze: 
 
-.1 middelen voldoen aan veiligheidsnormen die ten minste gelijkwaardig zijn aan de vereisten van dit Hoofdstuk en de Code en beoordeeld en beproefd zijn aan de hand van de door de Organisatie opgestelde richtsnoeren<sup> 8) Zie de door de Organisatie op te stellen richtsnoeren. </sup> ; of  
+.1 middelen voldoen aan veiligheidsnormen die ten minste gelijkwaardig zijn aan de vereisten van dit Hoofdstuk en de Code en beoordeeld en beproefd zijn aan de hand van de door de Organisatie opgestelde richtsnoeren; of  
 
 .2 voorzieningen met succes een constructieanalyse, evaluatie en een keuring hebben ondergaan in overeenstemming met voorschrift 38.  
 
@@ -15608,7 +15608,7 @@ De Administratie moet voorschrijven dat reddingsmiddelen onderworpen worden aan 
 
 2.1.2Tweeweg-VHF-radiotelefonietoestellen die aan boord van schepen zijn aangebracht vóór 1 februari 1992 en niet geheel voldoen aan de door de Organisatie aangenomen uitvoeringsnormen, kunnen door de Administratie worden aanvaard tot 1 februari 1999, mits de Administratie ervan overtuigd is dat zij compatibel zijn met goedgekeurde tweeweg-VHF-radiotelefonietoestellen.
 
-2.2 Opsporings- en reddingsmiddelen Aan elke zijde van ieder passagiersschip en van ieder vrachtschip met een bruto-inhoud van 500 ton of meer moet ten minste één uitrusting voor opsporing en redding zijn geplaatst. Op ieder vrachtschip met een bruto-inhoud van 300 ton of meer, maar minder dan 500 ton, moet ten minste één uitrusting voor opsporing en redding zijn geplaatst. Deze uitrustingen voor opsporing en redding moeten voldoen aan de van toepassing zijnde uitvoeringsnormen die niet lager zijn dan die welke door de Organisatie zijn aangenomen<sup> 8) Zie de Aanbeveling inzake prestatienormen voor radartransponders voor reddingsboten en -vlotten voor gebruik bij opsporings- en reddingsoperaties, aangenomen door de Organisatie bij resolutie MSC.247(83) (A.802(19)), als gewijzigd) en de Aanbeveling inzake prestatienormen voor AIS-zenders voor reddingsboten en -vlotten voor opsporing en redding (AIS SART), aangenomen door de Organisatie bij resolutie MSC.246.(83). </sup> . De uitrustingen voor opsporing en redding<sup> 9) Een van deze uitrustingen voor redding en opsporing mag de door voorschrift IV/7.1.3 vereiste uitrusting voor redding en opsporing zijn. </sup> moeten op een zodanige plaats zijn opgeborgen dat ze snel in een reddingsboot of -vlot, anders dan het reddingsvlot of de reddingsvlotten vereist door voorschrift 31.1.4 kunnen worden gezet. Een andere mogelijkheid is dat één uitrusting voor opsporing en redding wordt geplaatst in elke reddingsboot of -vlot, anders dan die vereist door voorschrift 31.1.4. Op schepen met aan boord ten minste twee uitrustingen voor opsporing en redding en uitgerust met reddingsboten die door middel van vrije val te water worden gelaten, moet een van de uitrustingen voor opsporing en redding worden opgeborgen in een reddingsboot die door middel van vrije val te water wordt gelaten en de andere in de directe nabijheid van de brug, zodanig dat deze aan boord kan worden gebruikt en klaar kan zijn om naar een van de andere reddingsboten en -vlotten te worden overgebracht. 
+2.2 Opsporings- en reddingsmiddelen Aan elke zijde van ieder passagiersschip en van ieder vrachtschip met een bruto-inhoud van 500 ton of meer moet ten minste één uitrusting voor opsporing en redding zijn geplaatst. Op ieder vrachtschip met een bruto-inhoud van 300 ton of meer, maar minder dan 500 ton, moet ten minste één uitrusting voor opsporing en redding zijn geplaatst. Deze uitrustingen voor opsporing en redding moeten voldoen aan de van toepassing zijnde uitvoeringsnormen die niet lager zijn dan die welke door de Organisatie zijn aangenomen. De uitrustingen voor opsporing en redding moeten op een zodanige plaats zijn opgeborgen dat ze snel in een reddingsboot of -vlot, anders dan het reddingsvlot of de reddingsvlotten vereist door voorschrift 31.1.4 kunnen worden gezet. Een andere mogelijkheid is dat één uitrusting voor opsporing en redding wordt geplaatst in elke reddingsboot of -vlot, anders dan die vereist door voorschrift 31.1.4. Op schepen met aan boord ten minste twee uitrustingen voor opsporing en redding en uitgerust met reddingsboten die door middel van vrije val te water worden gelaten, moet een van de uitrustingen voor opsporing en redding worden opgeborgen in een reddingsboot die door middel van vrije val te water wordt gelaten en de andere in de directe nabijheid van de brug, zodanig dat deze aan boord kan worden gebruikt en klaar kan zijn om naar een van de andere reddingsboten en -vlotten te worden overgebracht. 
 
 3NoodsignalenOp of in de nabijheid van de brug moeten ten minste twaalf valschermsignalen, die voldoen aan de vereisten van sectie 3.1 van de Code, zijn geplaatst.
 
@@ -15864,7 +15864,7 @@ Hulpverleningsboten moeten worden geplaatst:
 
 ####Personen redden uit het water
 
-1.  Alle schepen moeten specifiek op het schip toegesneden plannen en procedures hebben voor het redden van personen uit het water, rekening houdend met de door de Organisatie opgestelde richtlijnen.<sup> 2) Verwezen wordt naar de Richtlijnen voor het opstellen van plannen en procedures voor het redden van personen uit het water (MSC.1/Circ.1412). </sup> In de plannen en procedures wordt de uitrusting aangeduid bedoeld om te worden gebruikt voor reddingsdoeleinden alsmede de maatregelen ter beperking van de risico’s voor scheepspersoneel dat betrokken is bij reddingsoperaties. Schepen gebouwd vóór 1 juli 2014 moeten vóór het eerste periodieke onderzoek of de eerste herkeuring van veiligheidsuitrusting van het schip, al naargelang welke na 1 juli 2014 het eerst moet plaatsvinden, aan dit vereiste voldoen.   
+1.  Alle schepen moeten specifiek op het schip toegesneden plannen en procedures hebben voor het redden van personen uit het water, rekening houdend met de door de Organisatie opgestelde richtlijnen. In de plannen en procedures wordt de uitrusting aangeduid bedoeld om te worden gebruikt voor reddingsdoeleinden alsmede de maatregelen ter beperking van de risico’s voor scheepspersoneel dat betrokken is bij reddingsoperaties. Schepen gebouwd vóór 1 juli 2014 moeten vóór het eerste periodieke onderzoek of de eerste herkeuring van veiligheidsuitrusting van het schip, al naargelang welke na 1 juli 2014 het eerst moet plaatsvinden, aan dit vereiste voldoen.   
 2.  Ro-ro passagiersschepen die voldoen aan voorschrift 26.4 worden geacht aan dit voorschrift te voldoen.  
 
 ### Voorschrift  18  
@@ -15919,7 +15919,7 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 3.3.3 Behalve in situaties omschreven in de paragrafen 3.3.4 en 3.3.5, moet iedere reddingsboot ten minste eenmaal in de drie maanden tijdens een verlaatrol door de voor de bediening aangewezen bemanning aan boord te water worden gelaten en moet er mee worden gemanoeuvreerd. 
 
-3.3.4In het geval van een reddingsboot die bedoeld is voor tewaterlating door middel van vrije val, gaat de bemanning, tenminste eenmaal per kwartaal tijdens een ontruimingsoefening aan boord van de reddingsboot, bevestigt zich naar behoren op de zitplaats en vangt aan met de procedure voor tewaterlating tot aan, niet tot en met, de feitelijke loskoppeling van de reddingsboot (de ontkoppelingshaak mag niet worden losgemaakt). De reddingsboot wordt vervolgens hetzij door middel van vrije val te water gelaten met uitsluitend de voor de bediening benodigde bemanning aan boord, of door middel van een secundaire voorziening voor tewaterlating in het water geplaatst met of zonder de bemanning voor de bediening aan boord. In beide gevallen moet vervolgens met de reddingsboot door de bemanning voor de bediening in het water worden gemanoeuvreerd. Met tussenpozen van ten hoogste zes maanden moet de reddingsboot hetzij door middel van vrije val te water worden gelaten met uitsluitend de bemanning voor de bediening aan boord, of moet een gesimuleerde tewaterlating plaatsvinden in overeenstemming met de door de Organisatie opgestelde richtsnoeren<sup> 2) Zie de Maatregelen ter voorkoming van ongevallen met reddingsboten (MSC.1/Circ.1206). </sup> .
+3.3.4In het geval van een reddingsboot die bedoeld is voor tewaterlating door middel van vrije val, gaat de bemanning, tenminste eenmaal per kwartaal tijdens een ontruimingsoefening aan boord van de reddingsboot, bevestigt zich naar behoren op de zitplaats en vangt aan met de procedure voor tewaterlating tot aan, niet tot en met, de feitelijke loskoppeling van de reddingsboot (de ontkoppelingshaak mag niet worden losgemaakt). De reddingsboot wordt vervolgens hetzij door middel van vrije val te water gelaten met uitsluitend de voor de bediening benodigde bemanning aan boord, of door middel van een secundaire voorziening voor tewaterlating in het water geplaatst met of zonder de bemanning voor de bediening aan boord. In beide gevallen moet vervolgens met de reddingsboot door de bemanning voor de bediening in het water worden gemanoeuvreerd. Met tussenpozen van ten hoogste zes maanden moet de reddingsboot hetzij door middel van vrije val te water worden gelaten met uitsluitend de bemanning voor de bediening aan boord, of moet een gesimuleerde tewaterlating plaatsvinden in overeenstemming met de door de Organisatie opgestelde richtsnoeren.
 
 3.3.5Voor schepen die korte internationale reizen maken kan de Administratie toestaan om de reddingsboten aan één zijde niet te water te laten wanneer de ligplaatsvoorzieningen in de haven en het vaarpatroon het te water laten aan die zijde niet mogelijk maken. Al deze reddingsboten moeten echter ten minste eenmaal per drie maanden afgevierd en jaarlijks te water gelaten worden.
 
@@ -15979,7 +15979,7 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 3 Onderhoud 
 
-3.1 Onderhoud, beproevingen en inspecties van reddingsmiddelen moeten worden uitgevoerd op basis van de door de Organisatie<sup> 1) Zie de Richtsnoeren voor periodieke herkeuring en onderhoud van reddingsboten, tewaterlatingsmiddelen en belaste ontkoppelingssystemen (MSC/Circ.1093). </sup> opgestelde richtsnoeren en op een wijze waarbij gedegen rekening wordt gehouden met het waarborgen van de bedrijfszekerheid van deze middelen.  
+3.1 Onderhoud, beproevingen en inspecties van reddingsmiddelen moeten worden uitgevoerd op basis van de door de Organisatie opgestelde richtsnoeren en op een wijze waarbij gedegen rekening wordt gehouden met het waarborgen van de bedrijfszekerheid van deze middelen.  
 
 3.2 Er moeten instructies zijn zoals omschreven in voorschrift 36 ten aanzien van het onderhoud van de reddingsmiddelen aan boord en het onderhoud moet dienovereenkomstig worden uitgevoerd.  
 
@@ -16049,9 +16049,9 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 .2 moeten worden onderworpen aan een grondige inspectie en operationele beproeving tijdens de jaarlijkse onderzoeken vereist door de voorschriften I/7 en I/8 door daartoe opgeleid personeel dat vertrouwd is met het systeem; en  
 
-.3 moeten operationeel worden beproefd met een belasting van 1,1 maal het totale gewicht van de boot met aan boord de volledige bezetting aan personen en uitrusting wanneer het ontkoppelingssysteem wordt gereviseerd. Deze revisie en beproeving moeten ten minste eenmaal per vijf jaar plaatsvinden.<sup> 2) Zie de Aanbeveling met betrekking tot de beproeving van reddingsmiddelen, aangenomen door de Organisatie bij resolutie A.689(17). Voor reddingsmiddelen die aan boord zijn geïnstalleerd op of na 1 juli 1999, zie de Herziene Aanbeveling met betrekking tot de beproeving van reddingsmiddelen, aangenomen door de Organisatie bij resolutie MSC.81(70). </sup>   
+.3 moeten operationeel worden beproefd met een belasting van 1,1 maal het totale gewicht van de boot met aan boord de volledige bezetting aan personen en uitrusting wanneer het ontkoppelingssysteem wordt gereviseerd. Deze revisie en beproeving moeten ten minste eenmaal per vijf jaar plaatsvinden.   
 
-.4 onverminderd subparagraaf .3 hierboven, geschiedt de operationele beproeving van ontkoppelingssystemen voor tewaterlating van reddingsboten door middel van hetzij vrije val met uitsluitend de aangewezen bemanning aan boord, dan wel een gesimuleerde tewaterlating in overeenstemming met de door de Organisatie opgestelde richtlijnen<sup> 3) Verwezen wordt naar de Maatregelen ter voorkoming van ongevallen met reddingsboten (MSC.1/Circ.1206/rev. 1). </sup>.   
+.4 onverminderd subparagraaf .3 hierboven, geschiedt de operationele beproeving van ontkoppelingssystemen voor tewaterlating van reddingsboten door middel van hetzij vrije val met uitsluitend de aangewezen bemanning aan boord, dan wel een gesimuleerde tewaterlating in overeenstemming met de door de Organisatie opgestelde richtlijnen.   
 
 11.3 Automatische ontkoppelingshaken van strijkbare reddingsvlotten moeten: 
 
@@ -16059,7 +16059,7 @@ Een lijnwerptoestel dat voldoet aan de vereisten van deel 7.1 van de Code moet a
 
 .2 worden onderworpen aan een grondige inspectie en operationele beproeving tijdens de jaarlijkse onderzoeken vereist door de voorschriften I/7 en I/8 door daartoe opgeleid personeel dat vertrouwd is met het systeem; en  
 
-.3 operationeel worden beproefd met een belasting van 1,1 maal het totale gewicht van het reddingsvlot met aan boord de volledige bezetting aan personen en uitrusting wanneer de automatische ontkoppelingshaak wordt gereviseerd. Deze revisie en beproeving moeten ten minste eenmaal per vijf jaar plaatsvinden.<sup> 3) Zie de Aanbeveling met betrekking tot de beproeving van reddingsmiddelen, aangenomen door de Organisatie bij resolutie A.689(17). Voor reddingsmiddelen die aan boord zijn geïnstalleerd op of na 1 juli 1999, zie de Herziene Aanbevelingen met betrekking tot de beproeving van reddingsmiddelen, aangenomen door de Maritieme Veiligheidscommissie van de Organisatie bij resolutie MSC.81(70). </sup>      
+.3 operationeel worden beproefd met een belasting van 1,1 maal het totale gewicht van het reddingsvlot met aan boord de volledige bezetting aan personen en uitrusting wanneer de automatische ontkoppelingshaak wordt gereviseerd. Deze revisie en beproeving moeten ten minste eenmaal per vijf jaar plaatsvinden.      
 
 ### AFDELING  II  
 
@@ -16374,7 +16374,7 @@ Ieder passagiersschip moet niet alleen voldoen aan de vereisten in voorschrift 1
 
 3.1 Deze paragraaf is van toepassing op alle vrachtschepen. Vrachtschepen gebouwd vóór 1 juli 2006 moeten echter uiterlijk bij de eerste inspectie van de veiligheidsuitrusting op of na 1 juli 2006 aan de paragrafen 3.2 tot en met 3.5 voldoen.  
 
-3.2 Voor iedere opvarende moet een overlevingspak aanwezig zijn dat voldoet aan de vereisten van sectie 2.3 van de Code. Voor schepen anders dan bulkcarriers, als omschreven in voorschrift IX/1, zijn deze overlevingspakken niet vereist indien het schip voortdurend reizen maakt in gebieden met een warm klimaat<sup> 3) Zie de Richtsnoeren voor beoordeling van thermische bescherming (MSC/Circ.1046). </sup> waar overlevingspakken, naar het oordeel van de Administratie, niet nodig zijn.  
+3.2 Voor iedere opvarende moet een overlevingspak aanwezig zijn dat voldoet aan de vereisten van sectie 2.3 van de Code. Voor schepen anders dan bulkcarriers, als omschreven in voorschrift IX/1, zijn deze overlevingspakken niet vereist indien het schip voortdurend reizen maakt in gebieden met een warm klimaat waar overlevingspakken, naar het oordeel van de Administratie, niet nodig zijn.  
 
 3.3 Indien een schip wacht- of werkplekken heeft die ver verwijderd zijn van de plaats of plaatsen waar overlevingspakken doorgaans worden bewaard, met inbegrip van overeenkomstig voorschrift 31.1.4 aan boord aanwezige ver verwijderde reddingsboten en -vlotten moeten op deze plaatsen extra overlevingspakken aanwezig zijn voor het aantal personen dat op die plaats normaal gesproken wachtdienst doet of werkzaam is.  
 
@@ -16532,7 +16532,7 @@ Instructies voor het onderhoud van reddingsmiddelen aan boord moeten gemakkelijk
 2.1 Reddingsmiddelen en -voorzieningen mogen van de in deel B vervatte vereisten afwijken, mits de vervangende ontwerpen en voorzieningen beantwoorden aan het doel van deze vereisten en een gelijkwaardig niveau van veiligheid aan dit Hoofdstuk bieden.  
 
 2.2 Wanneer vervangende ontwerpen of voorzieningen afwijken van de dwingende vereisten van deel B, moeten de constructieanalyse, evaluatie en keuring van het ontwerp en de voorzieningen worden uitgevoerd in overeenstemming met dit voorschrift.     
-3.  Constructieanalyse De constructieanalyse moet, op basis van de door de Organisatieopgestelde richtsnoeren<sup> 9) Zie de richtsnoeren inzake vervangende ontwerpen en voorzieningen voor SOLAS-Hoofdstukken II-1 en III (MSC.1/Circ.1212). </sup> worden voorbereid en aan de Administratie worden voorgelegd en moet ten minste de volgende onderdelen omvatten: 
+3.  Constructieanalyse De constructieanalyse moet, op basis van de door de Organisatieopgestelde richtsnoeren worden voorbereid en aan de Administratie worden voorgelegd en moet ten minste de volgende onderdelen omvatten: 
 
 .1 vermelding van het type schip en de betrokken reddingsmiddelen en -voorzieningen;  
 
@@ -16553,7 +16553,7 @@ Instructies voor het onderhoud van reddingsmiddelen aan boord moeten gemakkelijk
 .7 risicobeoordeling op basis van de identificatie van potentiële tekortkomingen en gevaren die met het voorstel samenhangen.     
 4.  Beoordeling van het vervangende ontwerp en de vervangende voorzieningen 
 
-4.1 De in paragraaf 3 vereiste constructieanalyse wordt door de Administratie beoordeeld en goedgekeurd, met inachtneming van dedoor de Organisatie opgestelde richtsnoeren.<sup> 10) Zie de richtsnoeren inzake vervangende ontwerpen en voorzieningen voor SOLAS-Hoofdstukken II-1 en III (MSC.1/Circ.1212). </sup>   
+4.1 De in paragraaf 3 vereiste constructieanalyse wordt door de Administratie beoordeeld en goedgekeurd, met inachtneming van dedoor de Organisatie opgestelde richtsnoeren.   
 
 4.2 Aan boord van het schip moet een afschrift aanwezig zijn van de documenten, zoals goedgekeurd door de Administratie, waarin wordt vermeld dat het vervangende ontwerp en de vervangende voorzieningen aan dit voorschrift voldoen.     
 5.  Uitwisseling van informatie De Administratie doet de Organisatie relevante informatie toekomen over het door haar goedgekeurde vervangende ontwerp en de vervangende voorzieningen voor toezending aan alle Verdragsluitende Regeringen.   
@@ -17203,7 +17203,7 @@ De Verdragsluitende Regeringen verplichten zich ertoe er zorg voor te dragen dat
 1. De Verdragsluitende Regeringen verbinden zich ertoe, ieder voor haar nationale schepen, maatregelen in stand te houden of deze zonodig te nemen om te verzekeren dat, uit oogpunt van veiligheid van mensenlevens op zee, alle schepen voldoende bemand zijn met voor zijn taak berekend personeel. 
 2.  Voor elk schip waarop hoofdstuk I van toepassing is, zal de Administratie 
 
-.1 volgens een transparante procedure de passende minimaal voor de veiligheid benodigde bemanningssterkte vaststellen, rekening houdend met de desbetreffende door de Organisatie aangenomen richtsnoeren<sup> 4) Verwezen wordt naar de Beginselen van minimaal voor de veiligheid benodigde bemanning, door de Organisatie aangenomen bij resolutie A.1047(27). </sup>; en  
+.1 volgens een transparante procedure de passende minimaal voor de veiligheid benodigde bemanningssterkte vaststellen, rekening houdend met de desbetreffende door de Organisatie aangenomen richtsnoeren; en  
 
 .2 een relevante verklaring inzake de minimumbemanning voor de veiligheid of een gelijkwaardig document afgeven, waaruit blijkt welke benodigde bemanning minimaal noodzakelijk wordt geacht om te voldoen aan de bepalingen van paragraaf 1.   
 3. Op alle schepen moet ter waarborging van het doeltreffende optreden van de bemanning op het gebied van de veiligheid, een werktaal worden vastgesteld en vermeld in het logboek van het schip. De maatschappij, als omschreven in voorschrift IX/1, of de kapitein, naar gelang van toepassing, stelt de werktaal vast. Elke zeevarende wordt geacht deze taal te begrijpen en, in voorkomend geval, in deze taal orders en instructies te geven en verslag uit te brengen. Indien de werktaal niet een officiële taal is van het land waarvan het schip bevoegd is de vlag te voeren, moeten alle plattegronden en lijsten die moeten worden opgehangen, zijn voorzien van een vertaling in de werktaal.
@@ -17309,13 +17309,13 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 .1. vrachtschepen met een brutotonnage van 150 ton of meer en passagiersschepen, ongeacht hun omvang, gebouwd op of na 1 juli 2011;  
 
-.2. passagiersschepen, ongeacht hun omvang, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup>na 1 juli 2012;  
+.2. passagiersschepen, ongeacht hun omvang, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoekna 1 juli 2012;  
 
-.3. vrachtschepen met een brutotonnage van 3000 ton of meer, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> na 1 juli 2012;  
+.3. vrachtschepen met een brutotonnage van 3000 ton of meer, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek na 1 juli 2012;  
 
-.4. vrachtschepen met een brutotonnage van 500 ton of meer maar minder dan 3000 ton, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> na 1 juli 2013; en  
+.4. vrachtschepen met een brutotonnage van 500 ton of meer maar minder dan 3000 ton, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek na 1 juli 2013; en  
 
-.5. vrachtschepen met een brutotonnage van 150 ton of meer maar minder dan 500 ton, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> na 1 juli 2014.   Het brugwachtalarmsysteem moet te allen tijde in bedrijf zijn als het schip op zee vaart. 
+.5. vrachtschepen met een brutotonnage van 150 ton of meer maar minder dan 500 ton, gebouwd voor 1 juli 2011, uiterlijk op de datum van het eerste onderzoek na 1 juli 2014.   Het brugwachtalarmsysteem moet te allen tijde in bedrijf zijn als het schip op zee vaart. 
 
 .4. een brugwachtalarmsysteem (BNWAS) dat voor 1 juli 2011 is geïnstalleerd kan daarna worden uitgezonderd van volledige overeenstemming met de standaarden die door de Organisatie zijn aangenomen, zulks ter beoordeling door de Administratie. 
 
@@ -17405,15 +17405,15 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 .4. vrachtschepen, anders dan tankschepen, met een brutotonnage van 3000 ton of meer maar minder dan 10.000 ton, gebouwd op of na 1 juli 2014;  
 
-.5. passagiersschepen met een brutotonnage van 500 ton of meer, gebouwd voor 1 juli 2012, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2014;  
+.5. passagiersschepen met een brutotonnage van 500 ton of meer, gebouwd voor 1 juli 2012, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2014;  
 
-.6. tankschepen met een brutotonnage van 3000 ton of meer, gebouwd voor 1 juli 2012, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2015;  
+.6. tankschepen met een brutotonnage van 3000 ton of meer, gebouwd voor 1 juli 2012, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2015;  
 
-.7. vrachtschepen, anders dan tankschepen, met een brutotonnage van 50.000 ton of meer, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2016;  
+.7. vrachtschepen, anders dan tankschepen, met een brutotonnage van 50.000 ton of meer, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2016;  
 
-.8. vrachtschepen, anders dan tankschepen, met een brutotonnage van 20.000 ton of meer, maar minder dan 50.000 ton, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2017; en  
+.8. vrachtschepen, anders dan tankschepen, met een brutotonnage van 20.000 ton of meer, maar minder dan 50.000 ton, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2017; en  
 
-.9. vrachtschepen, anders dan tankschepen, met een brutotonnage van 10.000 ton of meer, maar minder dan 20.000 ton, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek<sup> 1) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in de SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2018.    
+.9. vrachtschepen, anders dan tankschepen, met een brutotonnage van 10.000 ton of meer, maar minder dan 20.000 ton, gebouwd voor 1 juli 2013, uiterlijk op de datum van het eerste onderzoek op of na 1 juli 2018.    
 
 2.11. Administraties kunnen schepen van de toepassing van de in paragraaf 2.10 vervatte eisen vrijstellen, wanneer deze schepen binnen twee jaar na de in de subparagrafen .5 tot en met .9 van paragraaf 2.10 bedoelde uitvoeringsdatum voorgoed uit de vaart zullen worden genomen. 
 
@@ -17429,12 +17429,12 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 ####Langeafstandsidentificatie en -tracking van schepen
 
-1.  Niets in dit voorschrift of de bepalingen van prestatienormen en functionele vereisten<sup> 2) Zie de Prestatienormen en functionele vereisten voor de langeafstandsidentificatie en -tracking van schepen, aangenomen door de Maritieme Veiligheidscommissie van de Organisatie bij resolutie MSC.210(81). </sup> aangenomen door de Organisatie met betrekking tot de langeafstandsidentificatie en -tracking van schepen doet afbreuk aan de rechten, rechtsbevoegdheid of verplichtingen van Staten ingevolge het internationaal recht, met name de rechtsregimes op volle zee, in de exclusieve economische zone, de aangrenzende zone, de territoriale zeeën of de straten die voor de internationale vaart worden gebruikt alsmede zeeroutes bij eilanden.   
+1.  Niets in dit voorschrift of de bepalingen van prestatienormen en functionele vereisten aangenomen door de Organisatie met betrekking tot de langeafstandsidentificatie en -tracking van schepen doet afbreuk aan de rechten, rechtsbevoegdheid of verplichtingen van Staten ingevolge het internationaal recht, met name de rechtsregimes op volle zee, in de exclusieve economische zone, de aangrenzende zone, de territoriale zeeën of de straten die voor de internationale vaart worden gebruikt alsmede zeeroutes bij eilanden.   
 2.1.  Onverminderd de bepalingen van de paragrafen 4.1 en 4.2 is dit voorschrift van toepassing op de volgende typen schepen die internationale reizen maken: 
 
 .1 passagiersschepen met inbegrip van hogesnelheidsvaartuigen voor personenvervoer  
 
-.2 vrachtschepen, met inbegrip van hogesnelheidsvaartuigen met een brutotonnage<sup> 3) Het brutotonnage dat moet worden gehanteerd voor de vaststelling of een vrachtschip of hogesnelheidsvaartuig aan de bepalingen van dit voorschrift moet voldoen, is het brutotonnage als vastgesteld ingevolge de bepalingen het Internationaal Verdrag betreffende de meting van schepen, 1969, ongeacht de datum waarop het schip of het hogesnelheidsvaartuig is of wordt gebouwd. </sup> van 300 of meer; en  
+.2 vrachtschepen, met inbegrip van hogesnelheidsvaartuigen met een brutotonnage van 300 of meer; en  
 
 .3 mobiele buitengaatse booreenheden.     
 2.2.  De term „schip” in de voorschriften 3 tot en met 11.2 omvat de passagiersschepen, vrachtschepen, hogesnelheidsvaartuigen en mobiele buitengaatse booreenheden waarop de bepalingen van dit voorschrift van toepassing zijn.   
@@ -17458,7 +17458,7 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 .2 de positie van het schip (breedte- en lengtegraad); en  
 
 .3 de datum en het tijdstip van deze positie.     
-6.  Systemen en apparatuur gebruikt om te voldoen aan de vereisten van dit voorschrift moeten aan prestatienormen en functionele vereisten<sup> 4) Zie de Prestatienormen en functionele vereisten voor de langeafstandsidentificatie en -tracking van schepen, aangenomen door de Maritieme Veiligheidscommissie van de Organisatie bij resolutie MSC.210(81). </sup> voldoen die ten minste gelijkwaardig zijn aan die welke door de Organisatie zijn aangenomen. Alle apparatuur aan boord moet van een door de Administratie goedgekeurd type zijn.   
+6.  Systemen en apparatuur gebruikt om te voldoen aan de vereisten van dit voorschrift moeten aan prestatienormen en functionele vereisten voldoen die ten minste gelijkwaardig zijn aan die welke door de Organisatie zijn aangenomen. Alle apparatuur aan boord moet van een door de Administratie goedgekeurd type zijn.   
 7.  De systemen en apparatuur die worden gebruikt om aan de vereisten van dit voorschrift te voldoen, moeten aan boord kunnen worden uitgeschakeld of de verspreiding van langeafstandsidentificatie- en -trackinggegevens kunnen staken: 
 
 .1 wanneer internationale overeenkomsten, regels of normen voorzien in de beveiliging van navigatiegegevens; of  
@@ -17473,7 +17473,7 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 .3 een Verdragsluitende Regering is bevoegd dergelijke gegevens te ontvangen over schepen die bevoegd zijn de vlag van een andere Verdragsluitende Regering te voeren, die niet voornemens zijn een havenfaciliteit of een plaats onder de rechtsmacht van die Verdragsluitende Regering binnen te gaan en binnen een afstand van ten hoogste 1000 zeemijlen uit haar kust varen, mits dergelijke schepen zich niet bevinden binnen de wateren landinwaarts van de in overeenstemming met het internationaal recht vastgestelde basislijnen van een andere Verdragsluitende Regering; en  
 
 .4 een Verdragsluitende Regering is, ingevolge subparagraaf .3, niet bevoegd dergelijke gegevens te ontvangen over een schip dat zich bevindt binnen de territoriale zee van de Verdragsluitende Regering waarvan het bevoegd is de vlag te voeren.     
-8.2.  Teneinde de langeafstandsidentificatie- en -trackinggegevens ingevolge de bepalingen van paragraaf 8.1 beschikbaar te maken, moeten de Verdragsluitende Regeringen de relevante gegevens vermelden en aan de Organisatie mededelen, met inachtneming van de door de Organisatie aangenomen prestatienormen en functionele vereisten<sup> 5) Zie de Prestatienormen en functionele vereisten voor de langeafstandsidentificatie en -tracking van schepen, aangenomen door de Maritieme Veiligheidscommissie van de Organisatie bij resolutie MSC.210(81). </sup> . De betrokken Verdragsluitende Regering kan deze mededeling op elk tijdstip daarna wijzigen of intrekken. Zodra de Organisatie deze mededeling heeft ontvangen, brengt zij alle Verdragsluitende Regeringen hiervan op de hoogte, met de bijzonderheden ervan.   
+8.2.  Teneinde de langeafstandsidentificatie- en -trackinggegevens ingevolge de bepalingen van paragraaf 8.1 beschikbaar te maken, moeten de Verdragsluitende Regeringen de relevante gegevens vermelden en aan de Organisatie mededelen, met inachtneming van de door de Organisatie aangenomen prestatienormen en functionele vereisten . De betrokken Verdragsluitende Regering kan deze mededeling op elk tijdstip daarna wijzigen of intrekken. Zodra de Organisatie deze mededeling heeft ontvangen, brengt zij alle Verdragsluitende Regeringen hiervan op de hoogte, met de bijzonderheden ervan.   
 9.1.  Onverminderd de bepalingen van paragraaf 8.1.3 is de Administratie bevoegd, uit oogpunt van veiligheid of om andere redenen, te allen tijde te besluiten dat aan de Verdragsluitende Regeringen geen langeafstandsidentificatie- en -trackinggegevens worden verstrekt ingevolge de bepalingen van paragraaf 8.1.3. over schepen die bevoegd zijn haar vlag te voeren. De betrokken Administratie kan deze besluiten vervolgens op enig later tijdstip wijzigen, opschorten of intrekken.   
 9.2.  De betreffende Administratie deelt dergelijke besluiten, ingevolge voorschrift 9.1, mede aan de Organisatie. Zodra de Organisatie deze mededeling heeft ontvangen, brengt zij alle Verdragsluitende Regeringen hiervan op de hoogte, met de bijzonderheden ervan.   
 9.3.  Aan de rechten, plichten en verplichtingen ingevolge het internationaal recht, van de schepen waarvan de Administratie de bepalingen van voorschrift 9.1 heeft ingeroepen, mag naar aanleiding van deze besluiten geen afbreuk worden gedaan.   
@@ -17506,7 +17506,7 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 .4 schepen, anders dan passagiersschepen, met een brutotonnage van 3000 ton of meer gebouwd op of na 1 juli 2002. 
 
-2 Ten behoeve van bijstand bij ongevallenonderzoek moeten vrachtschepen, wanneer deze internationale reizen maken, als volgt zijn uitgerust met een reisgegevensrecorder (VDR), die een vereenvoudigde reisgegevensrecorder (S-VDR)<sup> 2) Zie resolutie MSC.163(78) – Prestatienormen voor vereenvoudigde reisgegevensrecorders (S-VDR’s) aan boord van schepen. </sup> mag zijn: 
+2 Ten behoeve van bijstand bij ongevallenonderzoek moeten vrachtschepen, wanneer deze internationale reizen maken, als volgt zijn uitgerust met een reisgegevensrecorder (VDR), die een vereenvoudigde reisgegevensrecorder (S-VDR) mag zijn: 
 
 .1 bij vrachtschepen met een brutotonnage van 20.000 of meer, gebouwd vóór 1 juli 2002, bij de eerstvolgende geplande droogzetting in een dok na 1 juli 2006, maar uiterlijk op 1 juli 2009;  
 
@@ -17575,13 +17575,13 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 1.1 Op schepen die reizen maken waarbij gebruik kan worden gemaakt van loodsen, moeten voorzieningen voor het overnemen van de loods zijn aangebracht.  
 
-1.2 Uitrusting en voorzieningen voor het overnemen van de loods die worden aangebracht<sup> 1) Zie de Eenduidige Interpretatie van SOLAS-voorschrift V/23 (MSC.1/Circ.1375). </sup> op of na 1 juli 2012 moeten voldoen aan de vereisten van dit voorschrift, en er moet naar behoren rekening worden gehouden met de door de Organisatie<sup> 2) Zie de resolutie van de Algemene Vergadering over voorzieningen voor het overnemen van de loods, aan te nemen door de Organisatie. </sup> aangenomen normen.  
+1.2 Uitrusting en voorzieningen voor het overnemen van de loods die worden aangebracht op of na 1 juli 2012 moeten voldoen aan de vereisten van dit voorschrift, en er moet naar behoren rekening worden gehouden met de door de Organisatie aangenomen normen.  
 
-1.3 Behoudens waar anders wordt bepaald moeten uitrusting en voorzieningen voor het overnemen van de loods die op schepen worden aangebracht vóór 1 juli 2012 ten minste voldoen aan de vereisten van voorschrift 17<sup> 3) Zie resolutie MSC.99(73) waarin het voorgaande voorschrift 17 werd omgenummerd tot voorschrift 23, dat op 1 juli 2002 in werking trad. </sup> of 23, al naargelang van toepassing, van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals van kracht tot die datum, en er moet naar behoren rekening worden gehouden met de voorafgaand aan die datum door de Organisatie aangenomen normen.  
+1.3 Behoudens waar anders wordt bepaald moeten uitrusting en voorzieningen voor het overnemen van de loods die op schepen worden aangebracht vóór 1 juli 2012 ten minste voldoen aan de vereisten van voorschrift 17 of 23, al naargelang van toepassing, van het Internationaal Verdrag voor de beveiliging van mensenlevens op zee, 1974, zoals van kracht tot die datum, en er moet naar behoren rekening worden gehouden met de voorafgaand aan die datum door de Organisatie aangenomen normen.  
 
 1.4 Uitrusting en voorzieningen die op of na 1 juli 2012 worden aangebracht en een vervanging zijn van uitrusting en voorzieningen die vóór 1 juli 2012 op schepen zijn aangebracht, moeten, voor zover redelijk en uitvoerbaar, voldoen aan de vereisten van dit voorschrift.  
 
-1.5 Paragraaf 5 is uiterlijk bij het eerste onderzoek<sup> 4) Zie de Eenduidige Interpretatie van de term „eerste onderzoek” waarnaar verwezen wordt in SOLAS-voorschriften (MSC.1/Circ.1290). </sup> op of na 1 juli 2012 van toepassing op schepen gebouwd vóór 1 januari 1994.  
+1.5 Paragraaf 5 is uiterlijk bij het eerste onderzoek op of na 1 juli 2012 van toepassing op schepen gebouwd vóór 1 januari 1994.  
 
 1.6 Paragraaf 6 is op alle schepen van toepassing.  
 
@@ -17591,7 +17591,7 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 2.2 Het optuigen van de voorzieningen voor het overnemen van de loods en het aan boord gaan van de loods moeten geschieden onder toezicht van een verantwoordelijk officier die beschikt over middelen voor communicatie met de navigatiebrug, en die ook regelingen treft voor de begeleiding van de loods langs een veilige route naar en van de navigatiebrug. Personeel dat zich bezighoudt met het optuigen en de bediening van mechanische uitrusting moet worden geïnstrueerd in de te hanteren veilige procedures, en de uitrusting moet voor gebruik worden getest.  
 
-2.3 Een loodsladder moet door de producent worden gecertificeerd als zijnde in overeenstemming met dit voorschrift of met een internationale norm die voor de Organisatie<sup> 5) Zie de aanbevelingen van de Internationale Organisatie voor Normalisatie, in het bijzonder de publicatie ISO 799: 2004 – *Schepen en mariene technologie - loodsladders.*  </sup> aanvaardbaar is. Ladders moeten worden geïnspecteerd in overeenstemming met de voorschriften I/6, 7 en 8.  
+2.3 Een loodsladder moet door de producent worden gecertificeerd als zijnde in overeenstemming met dit voorschrift of met een internationale norm die voor de Organisatie aanvaardbaar is. Ladders moeten worden geïnspecteerd in overeenstemming met de voorschriften I/6, 7 en 8.  
 
 2.4 Alle loodsladders die worden gebruikt voor het overnemen van loodsen moeten duidelijk worden gemarkeerd met labels of een andere permanente markering zodat elke loodsladder herkenbaar is ten behoeve van onderzoek, inspectie en registratie. Op het schip moet een journaal aanwezig zijn waarin melding wordt gemaakt van de datum waarop de desbetreffende ladder in gebruik is genomen alsmede eventuele uitgevoerde reparaties.  
 
@@ -17601,7 +17601,7 @@ Bij alle besluiten die worden genomen voor de toepassing van de vereisten van de
 
 3.1 Er moeten voorzieningen zijn opdat de loods op veilige wijze aan en van boord kan gaan aan beide zijden van het schip.  
 
-3.2 Op alle schepen waar de afstand van het wateroppervlak tot de plaats voor het aan of van boord gaan meer dan 9 m bedraagt, en waar loodsen worden geacht aan en van boord te gaan met behulp van de valreep<sup> 6) Zie voorschrift II-1/3-9 inzake Middelen voor inscheping en ontscheping, aangenomen bij resolutie MSC.256(84), samen met de bijbehorende Richtlijnen (MSC.1/Circ.1331). </sup> of andere, even veilige en gemakkelijke middelen in combinatie met een loodsladder, moet het schip aan beide zijden van die uitrusting zijn voorzien, tenzij de uitrusting verplaatsbaar is voor gebruik aan beide zijden.  
+3.2 Op alle schepen waar de afstand van het wateroppervlak tot de plaats voor het aan of van boord gaan meer dan 9 m bedraagt, en waar loodsen worden geacht aan en van boord te gaan met behulp van de valreep of andere, even veilige en gemakkelijke middelen in combinatie met een loodsladder, moet het schip aan beide zijden van die uitrusting zijn voorzien, tenzij de uitrusting verplaatsbaar is voor gebruik aan beide zijden.  
 
 3.3 Voor het veilig en gemakkelijk aan en van boord gaan moet het schip zijn uitgerust met: 
 
@@ -17959,13 +17959,13 @@ Bij het gebruik van pesticiden op schepen, met name voor berokingsdoeleinden, mo
 4.  Er moeten passende voorzorgsmaatregelen worden genomen tijdens het laden en vervoeren van vrachteenheden en laadeenheden aan boord van ro-roschepen, in het bijzonder wat betreft de zeevastinrichtingen aan boord van die schepen en binnen de vrachteenheden en laadeenheden, en wat betreft de sterkte van de bevestigingspunten en sjorrings.   
 5.  Vrachtcontainers worden niet zwaarder geladen dan het maximum bruto gewicht aangegeven op het veiligheidskeurmerk uit hoofde van de Internationale Overeenkomst voor veilige containers (CSC) als gewijzigd.  
 6. Alle lading, anders dan vaste en vloeibare bulklading, laadeenheden en ladingvervoerseenheden moeten gedurende de gehele reis worden geladen, gestuwd en zeevast gezet in overeenstemming met de door de Administratie goedgekeurde Cargo Securing Manual. In schepen met ro-ro-ruimten, als omschreven in voorschrift II-2/3.41, moet het vastzetten van de lading, laadeenheden en ladingvervoerseenheden, in overeenstemming met de Cargo Securing Manual, zijn voltooid voordat het schip de aanlegplaats verlaat. De instructies in de Cargo Securing Manual moeten ten minste gelijkwaardig zijn aan de door de Organisatie geformuleerde richtlijnen.
-6. Alle ladingen, anders dan vaste en vloeibare bulklading moeten gedurende de gehele reis worden geladen, gestuwd en zeevast gezet in overeenstemming met de door de Administratie goedgekeurde Cargo Securing Manual<sup>1) Handboek vastzetten van lading </sup>. In schepen met ro-ro laadruimten, als omschreven in voorschrift II-2/3.14, moet het zeevast zetten van dergelijke ladingen, in overeenstemming met de Cargo Securing Manual, zijn voltooid voordat het schip de aanlegplaats verlaat. De Cargo Securing Manual moet zijn opgesteld volgens een standaard die ten minste gelijkwaardig is aan de door de Organisatie geformuleerde richtlijnen
+6. Alle ladingen, anders dan vaste en vloeibare bulklading moeten gedurende de gehele reis worden geladen, gestuwd en zeevast gezet in overeenstemming met de door de Administratie goedgekeurde Cargo Securing Manual. In schepen met ro-ro laadruimten, als omschreven in voorschrift II-2/3.14, moet het zeevast zetten van dergelijke ladingen, in overeenstemming met de Cargo Securing Manual, zijn voltooid voordat het schip de aanlegplaats verlaat. De Cargo Securing Manual moet zijn opgesteld volgens een standaard die ten minste gelijkwaardig is aan de door de Organisatie geformuleerde richtlijnen
 
 ### Voorschrift  5-1  
 
 ####Materiaalveiligheidsinstructies
 
-Schepen die olie of brandstofolie vervoeren als omschreven in voorschrift 1 van Bijlage 1 bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978 daarbij, moeten voordat dergelijke olie als bulklading aan boord wordt genomen of voordat brandstofolie gebunkerd wordt, worden voorzien van materiaalveiligheidsinstructies op basis van de door de Organisatie ontwikkelde aanbevelingen<sup> 2) Zie de Aanbevelingen inzake materiaalveiligheidsinstructies (MSDS) voor MARPOL Bijlage I ladingolie en brandstofolie, aangenomen door de Organisatie bij resolutie MSC.286(86), zoals deze kan worden gewijzigd. </sup>.  
+Schepen die olie of brandstofolie vervoeren als omschreven in voorschrift 1 van Bijlage 1 bij het Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd bij het Protocol van 1978 daarbij, moeten voordat dergelijke olie als bulklading aan boord wordt genomen of voordat brandstofolie gebunkerd wordt, worden voorzien van materiaalveiligheidsinstructies op basis van de door de Organisatie ontwikkelde aanbevelingen.  
 
 ### Voorschrift   5-2  
 
@@ -17974,7 +17974,7 @@ Schepen die olie of brandstofolie vervoeren als omschreven in voorschrift 1 van 
 1.  Fysiek mengen van vloeibare bulklading gedurende zeereizen is verboden. Onder fysiek mengen wordt verstaan het proces waarbij de pompen en leidingen van de ladingtanks van het schip worden gebruikt om twee of meer verschillende ladingen aan boord rond te pompen met het oogmerk een lading met een nieuwe productaanduiding te produceren. Dit verbod belet de kapitein niet ladingen te verplaatsen omwille van de veiligheid van het schip of de bescherming van het mariene milieu.   
 2.  Het verbod in paragraaf 1 is niet van toepassing op het mengen van producten voor gebruik bij het zoeken naar en exploiteren van minerale rijkdommen in de zeebodem aan boord van schepen die gebruikt worden ter vergemakkelijking van dergelijke werkzaamheden.   
 3.  Alle productieprocessen aan boord van schepen zijn verboden gedurende zeereizen. Onder productieprocessen wordt verstaan elke doelbewuste operatie waarbij een chemische reactie tussen de lading van het schip en een andere stof of lading plaatsvindt.   
-4.  Het verbod in paragraaf 3 is niet van toepassing op de productieprocessen van ladingen voor gebruik tijdens het zoeken naar en exploiteren van minerale rijkdommen in de zeebodem aan boord van schepen die gebruikt worden ter vergemakkelijking van dergelijke werkzaamheden.<sup> 5) Verwezen wordt naar de Richtlijnen voor het vervoer en de hantering van beperkte hoeveelheden gevaarlijke en schadelijke vloeistoffen in bulk op offshore support-schepen (resolutie A.673(16), zoals gewijzigd). </sup>   
+4.  Het verbod in paragraaf 3 is niet van toepassing op de productieprocessen van ladingen voor gebruik tijdens het zoeken naar en exploiteren van minerale rijkdommen in de zeebodem aan boord van schepen die gebruikt worden ter vergemakkelijking van dergelijke werkzaamheden.   
 
 ### DEEL  B  
 
@@ -18505,7 +18505,7 @@ Bulkcarriers zoals omschreven in voorschrift IX/1.6 en olietankschepen zoals oms
 
 1.  Dit voorschrift is van toepassing op maatschappijen en geregistreerde eigenaren van schepen waarop Hoofdstuk I van toepassing is.   
 2.  Voor de toepassing van dit voorschrift is een geregistreerde eigenaar een eigenaar als aangegeven door de Administratie en de maatschappij als omschreven in voorschrift IX/1.   
-3.  Elke maatschappij en geregistreerde eigenaar ontvangt een identificatienummer dat voldoet aan de door de Organisatie aangenomen IMO-Regeling Uniek Identificatienummer Maatschappij en geregistreerde eigenaar<sup> 19) Zie resolutie MSC.160(78) getiteld „Aanneming van de IMO-Regeling Uniek Identificatienummer Maatschappij en geregistreerde eigenaar”. </sup> .   
+3.  Elke maatschappij en geregistreerde eigenaar ontvangt een identificatienummer dat voldoet aan de door de Organisatie aangenomen IMO-Regeling Uniek Identificatienummer Maatschappij en geregistreerde eigenaar .   
 4.  Het identificatienummer van de maatschappij moet worden vermeld op de certificaten en op de gewaarmerkte afschriften daarvan, afgegeven ingevolge voorschrift IX/4 en afdeling A/19.2 of A/19.4 van de ISPS-Code.   
 5.  Dit voorschrift wordt van kracht wanneer de in paragraaf 4 bedoelde certificaten worden afgegeven of vernieuwd op of na 1 januari 2009.  
 
@@ -18920,7 +18920,7 @@ en actualiseren deze informatie, zodra zich daarin wijzigingen voordoen. De Orga
 
 Voor de toepassing van dit Hoofdstuk wordt verstaan onder: 
 
-1.  *Bulkcarrier*, een schip dat hoofdzakelijk bedoeld is voor het vervoer van droge lading in bulk, met inbegrip vantypen schepen als ertsschepen en combination carriers<sup> 3) Verwezen wordt naar:   .1 Voor schepen gebouwd vóór 1 juli 2006, resolutie 6, Interpretatie van de begripsomschrijving van „bulkcarrier” als gegeven in Hoofdstuk IX van SOLAS 1974, als gewijzigd in 1994, aangenomen door de SOLAS-Conferentie van 1997.   .2 De interpretatie van de bepalingen van SOLAS-Hoofdstuk XII inzake Aanvullende veiligheidsmaatregelen voor bulkcarriers, aangenomen door de Maritieme Veiligheidscommissie van de Organisatie bij resolutie MSC.79(70).   .3 De uitvoeringsbepalingen van Bijlage 1 bij de Interpretatie van de bepalingen van SOLAS-Hoofdstuk XII inzake Aanvullende veiligheidsmaatregelen voor bulkcarriers, aangenomen door de Maritieme Veiligheidscommissie van de Organisatie bij resolutie MSC.89(71).   </sup>   
+1.  *Bulkcarrier*, een schip dat hoofdzakelijk bedoeld is voor het vervoer van droge lading in bulk, met inbegrip vantypen schepen als ertsschepen en combination carriers   
 
 2.  *Bulkcarrier met een enkelzijdige huidconstructie*, een bulkcarrier als omschreven in paragraaf 1: 
 
@@ -18982,7 +18982,7 @@ Bulkcarriers gebouwd vóór 1 juli 1999 waarop voorschrift 4 of 6 van toepassing
 
 ####Constructiesterkte van bulkcarriers
 
-1.  Bulkcarriers met een lengte van 150 m en meer, met een enkelzijdige huidconstructie, ontworpen voor het vervoer van vaste bulkladingen met een dichtheid van 1000 kg/m<sup>3</sup> en meer, gebouwd op of na 1 juli 1999, moeten voldoende sterk zijn om vollopen van willekeurig welk laadruim tot het waterniveau buitenboord het schip in die volgelopen toestand in elke laad- en ballasttoestand te weerstaan, mede met inachtneming van dynamische effecten door de aanwezigheid van water in het ruim, en met inachtneming van de door de Organisatie aangenomenaanbevelingen.<sup> 4) Zie resolutie 3, Aanbeveling inzake naleving van SOLAS-voorschrift XII/5, aangenomen door de SOLAS-Conferentie in 1997. </sup>    
+1.  Bulkcarriers met een lengte van 150 m en meer, met een enkelzijdige huidconstructie, ontworpen voor het vervoer van vaste bulkladingen met een dichtheid van 1000 kg/m<sup>3</sup> en meer, gebouwd op of na 1 juli 1999, moeten voldoende sterk zijn om vollopen van willekeurig welk laadruim tot het waterniveau buitenboord het schip in die volgelopen toestand in elke laad- en ballasttoestand te weerstaan, mede met inachtneming van dynamische effecten door de aanwezigheid van water in het ruim, en met inachtneming van de door de Organisatie aangenomenaanbevelingen.    
 2.  Bulkcarriers met een lengte van 150 m en meer met een dubbelzijdige huidconstructie, waarbij enig deel van het langsschot is gelegen binnen B/5 of 11,5 m, naargelang welke afstand geringer is, gemeten van de huid naar binnen toe loodrecht op hart schip op de toegewezen zomerlastlijn, ontworpen voor het vervoer van bulkladingen met een dichtheid van 1000 kg/m<sup>3</sup> en meer, gebouwd op of na 1 juli 2006, moeten voldoen aan de in paragraaf 1 vervatte bepalingen inzake constructiesterkte. 
 
 ### Voorschrift  6  
@@ -19062,16 +19062,16 @@ Voor bulkcarriers gebouwd vóór 1 juli 1999 die binnen de toepassingsgrenzen va
 ####Verklaring omtrent de dichtheid van vaste bulklading
 
 1.  Voordat bulklading in bulkcarriers met een lengte van 150 m en meer wordt geladen, moet de expediteur, naast het verstrekken van de krachtens voorschrift VI/2 vereiste ladinggegevens opgave doen van de dichtheid van de lading.   
-2.  Ten aanzien van bulkcarriers waarop voorschrift 6 van toepassing is, moet van alle lading waarvan wordt aangegeven dat deze een dichtheid tussen 1250 kg/m<sup>3</sup> en 1780 kg/m<sup>3</sup> heeft, de dichtheid door een geaccrediteerde beproevingsinstantie worden geverifieerd<sup> 6) Bij het verifiëren van de dichtheid van vaste bulkladingen moet worden verwezen naar de Uniforme methode voor de meting van de dichtheid van bulkladingen (MSC/Circ.908). </sup> , tenzij deze bulkcarriers voldoen aan alle relevante vereisten van dit Hoofdstuk die van toepassing zijn op het vervoer van vaste bulkladingen met een dichtheid van 1780 kg/m<sup>3</sup> en meer.  
+2.  Ten aanzien van bulkcarriers waarop voorschrift 6 van toepassing is, moet van alle lading waarvan wordt aangegeven dat deze een dichtheid tussen 1250 kg/m<sup>3</sup> en 1780 kg/m<sup>3</sup> heeft, de dichtheid door een geaccrediteerde beproevingsinstantie worden geverifieerd, tenzij deze bulkcarriers voldoen aan alle relevante vereisten van dit Hoofdstuk die van toepassing zijn op het vervoer van vaste bulkladingen met een dichtheid van 1780 kg/m<sup>3</sup> en meer.  
 
 ### Voorschrift  11  
 
 ####Laadinstrument
 
 (Tenzij anderszins bepaald, is dit voorschrift van toepassing op bulkcarriers, ongeacht de datum van bouw)  
-1.  Bulkcarriers met een lengte van 150 m en meer moeten worden uitgerust met een laadinstrument dat gegevens kan verstrekken inzake de dwarskrachten en buigmomenten op de rompbalken, met inachtneming vande door de Organisatie aangenomen aanbeveling.<sup> 7) Zie de Aanbeveling inzake laadinstrumenten, aangenomen bij resolutie 5 van de SOLAS-Conferentie in 1997. </sup>    
+1.  Bulkcarriers met een lengte van 150 m en meer moeten worden uitgerust met een laadinstrument dat gegevens kan verstrekken inzake de dwarskrachten en buigmomenten op de rompbalken, met inachtneming vande door de Organisatie aangenomen aanbeveling.    
 2.  Bulkcarriers met een lengte van 150 m en meer, gebouwd vóór 1 juli 1999 moeten uiterlijk op de datum van de eerste tussentijdse of periodieke inspectie van het schip na 1 juli 1999 voldoen aan de vereisten van paragraaf 1.   
-3.  Bulkcarriers met een lengte van minder dan 150 m, gebouwd op of na 1 juli 2006 moeten zijn uitgerust met een laadinstrument dat gegevens kan verstrekken inzake de stabiliteit van het schip in onbeschadigde toestand. De computersoftware moet door de Administratie zijn goedgekeurd voor de berekening van stabiliteitsgegevens en moet zijn voorzien van standaardvoorwaarden voor testdoeleinden ten aanzien vande goedgekeurde stabiliteitsgegevens.<sup> 8) Zie de relevante delen van het aanhangsel bij de Richtsnoeren voor het gebruik en de toepassing van computers aan boord (MSC/Circ.891). </sup>   
+3.  Bulkcarriers met een lengte van minder dan 150 m, gebouwd op of na 1 juli 2006 moeten zijn uitgerust met een laadinstrument dat gegevens kan verstrekken inzake de stabiliteit van het schip in onbeschadigde toestand. De computersoftware moet door de Administratie zijn goedgekeurd voor de berekening van stabiliteitsgegevens en moet zijn voorzien van standaardvoorwaarden voor testdoeleinden ten aanzien vande goedgekeurde stabiliteitsgegevens.   
 
 ### Voorschrift  12  
 
@@ -19090,7 +19090,7 @@ Voor bulkcarriers gebouwd vóór 1 juli 1999 die binnen de toepassingsgrenzen va
 
 ### Voorschrift  13  
 
-####Beschikbaarheid van pompsystemen<sup> 9)  Zie de interpretatie van SOLAS-voorschrift XII/13 (MSC/Circ.1069).  </sup> 
+####Beschikbaarheid van pompsystemen 
 
 (Dit voorschrift is van toepassing op bulkcarriers, ongeacht de datum van bouw)  
 1.  Op bulkcarriers moeten de voorzieningen voor het leeg- en volpompen van ballasttanks gelegen voor het aanvaringsschot en de droge ruimten waarvan delen zich uitstrekken tot vóór het voorste laadruim, vanaf een gemakkelijk toegankelijke gesloten ruimte kunnen worden bediend; deze ruimte moet vanaf de navigatiebrug of vanaf de plaats van waar de besturing van de voortstuwingsmachines plaatsvindt, kunnen worden bereikt zonder blootgestelde vrijboord- of opbouwdekken te betreden. Wanneer leidingen naar dergelijke tanks of ruimten door het aanvaringsschot zijn gevoerd, kan klepbediening, in afwijking van de in voorschrift II-1/12 bedoelde klepbediening, door activering op afstand worden toegestaan, mits de plaatsing van deze klepbediening met dit voorschrift in overeenstemming is.   
@@ -19102,7 +19102,7 @@ Voor bulkcarriers gebouwd vóór 1 juli 1999 die binnen de toepassingsgrenzen va
 
 Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie die ladingen vervoeren met een dichtheid van 1780 kg/m<sup>3</sup> en meer mogen, indien zij niet voldoen aan de vereisten voor het weerstaan van vollopen van een van de ladingruimen als vermeld in voorschrift 5.1 en de Normen en criteria voor de zijconstructie van bulkcarriers met een enkelzijdige huidconstructie, aangenomen door de Organisatie bij resolutie MSC.168(79), als door de Organisatie kan worden gewijzigd, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde in artikel VIII van dit Verdrag betreffende de procedures voor wijziging die van toepassing zijn op de Bijlage, met uitzondering van Hoofdstuk I, wanneer deze schepen 10 jaar of ouder zijn, niet varen met ruimen die zijn geladen tot minder dan 10% van het maximum toegestane ladinggewicht bij volle belading. De toepasselijke volle belading voor dit voorschrift is een lading gelijk aan of groter dan 90% van het draagvermogen van het schip bij het relevante toegewezen vrijboord. 
 
-### Bijlage  
+### Aanhangsel  
 
 ####Model van een veiligheidscertificaat voor passagiersschepen
 

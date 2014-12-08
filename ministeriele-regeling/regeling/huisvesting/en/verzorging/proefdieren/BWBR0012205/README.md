@@ -3,7 +3,7 @@
 ##Regeling huisvesting en verzorging proefdieren
 
 De Minister van Volksgezondheid, Welzijn en Sport;  
-Gelet op [artikel 4, tweede lid, van het Dierproevenbesluit](../../../../../../../AMvB/dierproevenbesluit/BWBR0003802/README.md),
+Gelet op artikel 4, tweede lid, van het Dierproevenbesluit,
 Besluit:      
 ###§  1  
 

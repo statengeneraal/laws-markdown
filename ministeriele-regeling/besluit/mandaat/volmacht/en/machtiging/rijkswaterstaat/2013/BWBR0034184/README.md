@@ -3,7 +3,7 @@
 ##Besluit van de directeur-generaal van Rijkswaterstaat van 11 maart 2013, met kenmerk RWS/SDG-2013/12895, houdende verlening van mandaat, volmacht en machtiging (Besluit mandaat, volmacht en machtiging Rijkswaterstaat 2013)
 
 De directeur-generaal Rijkswaterstaat,  
-Gelet op [artikel 23, tweede en derde lid, van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012](../../../../../../../../../ministeriele-regeling/organisatie-/en/mandaatbesluit/infrastructuur/en/milieu/2012/BWBR0030951/README.md), respectievelijk [artikel 3 van het Instellingsbesluit directoraat-generaal Rijkswaterstaat](../../../../../../../../../ministeriele-regeling/instellingsbesluit/directoraat-generaal/rijkswaterstaat/BWBR0026953/README.md) en [artikel 3, eerste en tweede lid, van het Besluit mandaat en machtiging directeur-generaal Rijkswaterstaat inzake erkenningen bodemkwaliteit](../../../../../../../../../ministeriele-regeling/besluit/mandaat/en/machtiging/directeur-generaal/rijkswaterstaat/inzake/etc/BWBR0032328/README.md);
+Gelet op artikel 23, tweede en derde lid, van het Organisatie- en mandaatbesluit Infrastructuur en Milieu 2012, respectievelijk artikel 3 van het Instellingsbesluit directoraat-generaal Rijkswaterstaat en artikel 3, eerste en tweede lid, van het Besluit mandaat en machtiging directeur-generaal Rijkswaterstaat inzake erkenningen bodemkwaliteit;
 Besluit:    
 
 ### Artikel  1  
@@ -12,9 +12,9 @@ Besluit:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.  *ARAR:* [Algemeen Rijksambtenarenreglement](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+a.  *ARAR:* Algemeen Rijksambtenarenreglement;  
 
-b.  *RWS Bestuursstaf, regionale en centrale organisatieonderdelen, programmadirecties en projectdirecties:* organisatieonderdelen van het directoraat-generaal Rijkswaterstaat als bedoeld in [artikel 2 van het Instellingsbesluit directoraat-generaal Rijkswaterstaat 2013](../../../../../../../../../ministeriele-regeling/instellingsbesluit/directoraat-generaal/rijkswaterstaat/BWBR0026953/README.md).   
+b.  *RWS Bestuursstaf, regionale en centrale organisatieonderdelen, programmadirecties en projectdirecties:* organisatieonderdelen van het directoraat-generaal Rijkswaterstaat als bedoeld in artikel 2 van het Instellingsbesluit directoraat-generaal Rijkswaterstaat 2013.   
 
 ### Artikel  2  
 
@@ -124,14 +124,16 @@ c. de directeuren en afdelingshoofden van de productspecifieke eenheden.
 | De hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie in uitvoeringsfase:  | 25.000.000  |
 |Directeur Nationale Databank Wegverkeersgegevens: |10.000.000 |
 | De directeur Algemene Corporate Taken:  | 5.000.000  |
+|Programmadirecteur Implementatie Omgevingswet: | 5.000.000  |
 |De hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie in verkenningsfase of planstudiefase: |2.000.000 |
+|Programmadirecteur Connecting Mobility: | 1.000.000  |
 | Programmadirecteur Nationale Bewegwijzeringsdienst: | 1.000.000 |
 |Programmadirecteur Impuls Dynamisch Verkeersmanagement Vaarwegen: |1.000.000 |
 | Het hoofd secretariaat Vlaams Nederlands Schelde Commissie (VNSC):  | 500.000  |
 | Het afdelingshoofd productspecifieke eenheid Departementaal Coördinatiecentrum Crisisbeheersing (DCC):  | 100.000  |
 | De directeur RWS Bestuursstaf:  | 50.000  |
-| Projectdirecteur, projectmanager en projectleider van een landelijk project:  | 50.000  |
-| Directeur en afdelingshoofd van een productspecifieke eenheid:  | 50.000  |
+| Project- of programmadirecteur, project- of programmamanager en projectleider van een landelijk project:  | 50.000  |
+| Programmadirecteur en programmamanager van een productspecifieke eenheid:  | 50.000  |
 
 2.  Het mandaat, de volmacht en de machtiging, welke door de in de artikelen 5 tot en met 7, steeds eerste lid, genoemde functionarissen kunnen worden verleend zijn voor verplichtingen welke financiële gevolgen hebben of kunnen hebben beperkt tot de volgende grensbedragen exclusief btw:  
 
@@ -143,10 +145,10 @@ c. de directeuren en afdelingshoofden van de productspecifieke eenheden.
 |Grote Projecten en Onderhoud: |5.000.000 |
 |Directeur realisatie Ruimte voor de Rivier van RWS  | --- |
 |Grote Projecten en Onderhoud: |5.000.000 |
-| Portfoliodirecteur en portfoliomanager binnen de directies Productie en Projectmanagement van RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 5.000.000  |
+| Project- of programmadirecteur – Portfoliomanagement en Project- of programmamanager – Portfoliomanagement binnen de directies Productie en Projectmanagement van RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 5.000.000  |
 | Directeur binnen een projectdirectie of een programmadirectie in uitvoeringsfase:  | 5.000.000  |
-| Projectdirecteur binnen RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud  | 2.500.000  |
-| Projectmanager binnen RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 1.000.000  |
+| Project- of programmadirecteur – Projectmanagement binnen RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 2.500.000  |
+| Project- of programmamanager binnen RWS Grote Projecten en Onderhoud en RWS Programma’s, Projecten en Onderhoud:  | 1.000.000  |
 | Plaatsvervangend directeur binnen RWS Centrale Informatievoorziening:  | 1.000.000  |
 | Programmadirecteur Industriële Automatisering binnen RWS Centrale Informatievoorziening:  | 1.000.000  |
 | Directeur binnen een projectdirectie of een programmadirectie in verkenningsfase of planstudiefase:  | 500.000  |
@@ -156,8 +158,8 @@ c. de directeuren en afdelingshoofden van de productspecifieke eenheden.
 | Realisatiemanager binnen een projectdirectie of een programmadirectie in uitvoeringsfase:  | 100.000  |
 | Districtshoofd:  | 50.000  |
 | Afdelingshoofd:  | 15.000  |
-| Projectmanager binnen een projectdirectie of een programmadirectie in verkenningsfase, planstudiefase of uitvoeringsfase:  | 15.000  |
-| De projectdirecteuren, projectmanagers en projectleiders van projecten met een waarde groter dan € 50.000.000 binnen een regionaal of een centraal organisatieonderdeel, een projectdirectie of een programmadirectie:  | 15.000  |
+| Project- of programmamanager binnen een projectdirectie of een programmadirectie in verkenningsfase, planstudiefase of uitvoeringsfase:  | 15.000  |
+| Project- of programmadirecteur, project- of programmamanager en projectleider van projecten met een waarde groter dan € 50.000.000 binnen een regionaal of een centraal organisatieonderdeel, een projectdirectie of een programmadirectie:  | 15.000  |
 | Senior adviseur van de afdeling Bestuurlijk Juridische zaken en Vastgoed/Schade binnen de RWS Corporate Dienst, voor zover het schadeafhandeling betreft:  | 15.000  |
 
 3.  De grensbedragen gelden, met inachtneming van artikel 12, niet: 
@@ -229,43 +231,43 @@ In aanvulling op artikel 3 wordt, conform deze bijlage, het uitoefenen van de be
 
 1b.  Aan de directeur-generaal zijn voorbehouden de volgende HRM-bevoegdheden: 
 
-– Verlenen van eervol ontslag aan de ambtenaar die uit een vertrouwensfunctie moet worden ontheven, als bedoeld in [artikel 125e, tweede lid, Ambtenarenwet](../../../../../../../../../wet/ambtenarenwet/BWBR0001947/README.md);  
+– Verlenen van eervol ontslag aan de ambtenaar die uit een vertrouwensfunctie moet worden ontheven, als bedoeld in artikel 125e, tweede lid, Ambtenarenwet;  
 
-– Fungeren als bevoegd gezag uit hoofde van in [artikel 1, onderdeel b van het Beoordelingsvoorschrift Burgerlijk Rijkspersoneel 1985](../../../../../../../../../ministeriele-regeling/beoordelingsvoorschrift/burgerlijk/rijkspersoneel/1985/BWBR0003782/README.md).    
+– Fungeren als bevoegd gezag uit hoofde van in artikel 1, onderdeel b van het Beoordelingsvoorschrift Burgerlijk Rijkspersoneel 1985.    
 
 2. Aan de directeur-generaal, de plaatsvervangend directeur-generaal en de chief financial officer zijn voorbehouden de volgende HRM-bevoegdheden: 
 
 – Samenstellen van en benoemen van leden in een directieteam van een organisatieonderdeel, een projectdirectie of een programmadirectie;  
 
-– Vaststellen van vaste reissommen als bedoeld in [artikel 14 van het Reisbesluit binnenland](../../../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md), voor zover het groepen personeel betreft die voorkomen bij meer organisatieonderdelen;  
+– Vaststellen van vaste reissommen als bedoeld in artikel 14 van het Reisbesluit binnenland, voor zover het groepen personeel betreft die voorkomen bij meer organisatieonderdelen;  
 
-– Toekennen van vacatiegeld of vaste beloningen in afwijking van de [Wet vergoedingen adviescolleges en commissies](../../../../../../../../../wet/wet/vergoedingen/adviescolleges/en/commissies/BWBR0024775/README.md) en het [Besluit vergoedingen adviescolleges en commissies](../../../../../../../../../AMvB/besluit/vergoedingen/adviescolleges/en/commissies/BWBR0025279/README.md);  
+– Toekennen van vacatiegeld of vaste beloningen in afwijking van de Wet vergoedingen adviescolleges en commissies en het Besluit vergoedingen adviescolleges en commissies;  
 
-– Verlenen van ontslag als gevolg van het niet kunnen terugkeren na een politieke functie, als bedoeld in [artikel 96b, eerste lid, van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+– Verlenen van ontslag als gevolg van het niet kunnen terugkeren na een politieke functie, als bedoeld in artikel 96b, eerste lid, van het ARAR;  
 
-– Verlenen van ongeschiktheidontslag anders dan op grond van ziels- of lichaamsgebreken, als bedoeld in [artikel 98, eerste lid, onderdeel g van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+– Verlenen van ongeschiktheidontslag anders dan op grond van ziels- of lichaamsgebreken, als bedoeld in artikel 98, eerste lid, onderdeel g van het ARAR;  
 
-– Verlenen van ontslag op grond van [artikel 99 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), indien de meerkosten aangaande de minimale uitkering niet meer bedragen dan drie bruto maandsalarissen;  
+– Verlenen van ontslag op grond van artikel 99 van het ARAR, indien de meerkosten aangaande de minimale uitkering niet meer bedragen dan drie bruto maandsalarissen;  
 
 – Besluiten over toekenning van immateriële schadevergoedingen.    
 
 3. Aan de directeur-generaal, de plaatsvervangend directeur-generaal en de chief financial officer, de hoofdingenieur-directeur, de algemeen directeur van de RWS Corporate Dienst en de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie zijn voorbehouden de volgende HRM-bevoegdheden, welke alleen mogen worden uitgeoefend nadat via de RWS Bestuursstaf instemming van de secretaris-generaal is verkregen: 
 
-– Verlenen van disciplinair ontslag, als bedoeld in [artikel 81, eerste lid, onderdeel L van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+– Verlenen van disciplinair ontslag, als bedoeld in artikel 81, eerste lid, onderdeel L van het ARAR;  
 
-– Verlenen van reorganisatieontslag en ontslag wegens verplaatsing van een dienstonderdeel, als bedoeld in de [artikelen 96](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [96a van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+– Verlenen van reorganisatieontslag en ontslag wegens verplaatsing van een dienstonderdeel, als bedoeld in de artikelen 96 en 96a van het ARAR;  
 
-– Verlenen van ontslag aan een herplaatsingkandidaat, als bedoeld in [artikel 49L van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+– Verlenen van ontslag aan een herplaatsingkandidaat, als bedoeld in artikel 49L van het ARAR;  
 
-– Niet verlenen van ontslag wegens het bereiken van de pensioengerechtigde leeftijd, als bedoeld in [artikel 98, eerste lid, onderdeel h van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+– Niet verlenen van ontslag wegens het bereiken van de pensioengerechtigde leeftijd, als bedoeld in artikel 98, eerste lid, onderdeel h van het ARAR;  
 
-– Verlenen van ontslag als bedoeld in [artikel 99 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), indien de meerkosten aangaande de minimale uitkering afzonderlijk, dan wel tezamen met de vergoeding voor materiële schade, meer bedragen dan drie bruto maandsalarissen;  
+– Verlenen van ontslag als bedoeld in artikel 99 van het ARAR, indien de meerkosten aangaande de minimale uitkering afzonderlijk, dan wel tezamen met de vergoeding voor materiële schade, meer bedragen dan drie bruto maandsalarissen;  
 
-– Toekennen van een vergoeding voor materiële schade als bedoeld in [artikel 69 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), indien een dergelijke vergoeding verband houdt met een ontslag als bedoeld in [artikel 99 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en indien die vergoeding afzonderlijk, dan wel tezamen met de meerkosten aangaande de ontslaguitkering, meer bedraagt dan drie bruto maandsalarissen;  
+– Toekennen van een vergoeding voor materiële schade als bedoeld in artikel 69 van het ARAR, indien een dergelijke vergoeding verband houdt met een ontslag als bedoeld in artikel 99 van het ARAR en indien die vergoeding afzonderlijk, dan wel tezamen met de meerkosten aangaande de ontslaguitkering, meer bedraagt dan drie bruto maandsalarissen;  
 
 – Bewust belonen, indien deze beloning een bruto maandsalaris te boven gaat;  
 
-– Vaststellen van plaatsen van tewerkstelling welke niet of niet doelmatig bereikbaar zijn met openbaar vervoer, als bedoeld in het [Verplaatsingskostenbesluit 1989](../../../../../../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md).    
+– Vaststellen van plaatsen van tewerkstelling welke niet of niet doelmatig bereikbaar zijn met openbaar vervoer, als bedoeld in het Verplaatsingskostenbesluit 1989.    
 
 4. De volgende HRM-bevoegdheden zijn voorbehouden aan: 
 
@@ -273,13 +275,13 @@ a. de directeur-generaal, de plaatsvervangend directeur-generaal en de chief fin
 
 b. de hoofdingenieur-directeur, de algemeen directeur van de RWS Corporate Dienst en de hoofdingenieur- directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of een programmadirectie die deze bevoegdheid alleen mogen uitoefenen nadat zij via de RWS Bestuursstaf instemming van de directeur-generaal, de plaatsvervangend directeur-generaal of de chief financial officer hebben verkregen: 
 
-o Toekennen van een vergoeding voor materiële schade als bedoeld in [artikel 69 van het ARAR](../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), indien deze vergoeding meer bedraagt dan netto € 15.000;  
+o Toekennen van een vergoeding voor materiële schade als bedoeld in artikel 69 van het ARAR, indien deze vergoeding meer bedraagt dan netto € 15.000;  
 
 o Opleggen van een disciplinaire straf anders dan die van ontslag.      
 
 5. Aan de hoofdingenieur-directeur, de algemeen directeur van de RWS Corporate Dienst en de hoofdingenieur-directeur (indien er geen hoofdingenieur-directeur is benoemd de directeur) van een projectdirectie of van een programmadirectie, blijft voorbehouden: 
 
-– het nemen van besluiten inhoudende een volledige honorering van verzoeken als bedoeld in de [Wet openbaarheid van bestuur](../../../../../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md);  
+– het nemen van besluiten inhoudende een volledige honorering van verzoeken als bedoeld in de Wet openbaarheid van bestuur;  
 
 – het benoemen van de direct onder de directeuren ressorterende leidinggevende functionarissen.    
 
@@ -305,7 +307,7 @@ o inzake het geheel of gedeeltelijk matigen of kwijtschelden van kortingen of bo
 
 – Behandelen en afwikkelen van administratieve onteigeningen;  
 
-– Behandelen van geschillen voor de bevoegde rechter voortvloeiende uit de [Nadeelcompensatieregeling verleggen kabels en leidingen in en buiten rijkswaterstaatswerken en spoorwegwerken 1999](../../../../../../../../../ministeriele-regeling/nadeelcompensatieregeling/verleggen/kabels/en/leidingen/in/en/buiten/etc/BWBR0010461/README.md) en/of voortvloeiende uit de Overeenkomst inzake verleggingen van kabels en leidingen buiten beheersgebied tussen de Minister van Verkeer en Waterstaat en Energie-Ned, VELIN en VEWIN van 10 februari 1999 (beide: Stcrt. 1999, nr. 97);  
+– Behandelen van geschillen voor de bevoegde rechter voortvloeiende uit de Nadeelcompensatieregeling verleggen kabels en leidingen in en buiten rijkswaterstaatswerken en spoorwegwerken 1999 en/of voortvloeiende uit de Overeenkomst inzake verleggingen van kabels en leidingen buiten beheersgebied tussen de Minister van Verkeer en Waterstaat en Energie-Ned, VELIN en VEWIN van 10 februari 1999 (beide: Stcrt. 1999, nr. 97);  
 
 – Behandelen van vorderingen inzake schade veroorzaakt door derden aan rijkseigendom in beheer bij Rijkswaterstaat, anders dan bij uitvoering van werkzaamheden in opdracht van Rijkswaterstaat;  
 
@@ -315,13 +317,13 @@ o inzake het geheel of gedeeltelijk matigen of kwijtschelden van kortingen of bo
 
 – Behandelen en afwikkelen van letselschadezaken als gevolg van ongevallen, dienstongevallen of beroepsziekten;  
 
-– Behandelen en afwikkelen van zaken op grond van de [Belemmeringenwet Privaatrecht](../../../../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md);  
+– Behandelen en afwikkelen van zaken op grond van de Belemmeringenwet Privaatrecht;  
 
 – Behandelen en afwikkelen van nadeelcompensatie.    
 
 7. Aan de algemeen directeur van de RWS Corporate Dienst zijn de volgende bevoegdheden voorbehouden: 
 
-– Na afstemming met de chief financial officer de comptabele bevoegdheid tot het doen van voorstellen aan de hoofddirectie Financiën, Management en Control aangaande het openen, wijzigen of opheffen van een bankrekening voor zakelijk gebruik op naam van Rijkswaterstaat, als bedoeld in [artikel 8, lid 3 van het Besluit kasbeheer 1998](../../../../../../../../../AMvB/besluit/kasbeheer/1998/BWBR0009347/README.md);  
+– Na afstemming met de chief financial officer de comptabele bevoegdheid tot het doen van voorstellen aan de hoofddirectie Financiën, Management en Control aangaande het openen, wijzigen of opheffen van een bankrekening voor zakelijk gebruik op naam van Rijkswaterstaat, als bedoeld in artikel 8, lid 3 van het Besluit kasbeheer 1998;  
 
 – Na overeenstemming met de directeur-generaal, de plaatsvervangend directeur-generaal of de chief financial officer, het treffen van schikkingen in civielrechtelijke procedures inzake vorderingen van Rijkswaterstaat op derden.    
 
@@ -337,55 +339,55 @@ o inzake het geheel of gedeeltelijk matigen of kwijtschelden van kortingen of bo
 
 a. de bescherming, het beheer en de sanering van de bodem: 
 
-– het afgeven, wijzigen en intrekken van verklaringen houdende een beoordeling van de reinigbaarheid van verontreinigde grond als bedoeld in [artikel 1, eerste lid, onder 17a, 17b, 30 en 31, van het Besluit stortplaatsen en stortverboden afvalstoffen](../../../../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md);  
+– het afgeven, wijzigen en intrekken van verklaringen houdende een beoordeling van de reinigbaarheid van verontreinigde grond als bedoeld in artikel 1, eerste lid, onder 17a, 17b, 30 en 31, van het Besluit stortplaatsen en stortverboden afvalstoffen;  
 
-– het overgaan tot kostenverhaal als bedoeld in [artikel 75 van de Wet bodembescherming](../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), met uitzondering van situaties waarin Gedeputeerde Staten en Burgemeester en Wethouders gebruik hebben gemaakt van mandaat dat hen is verleend op basis van artikel 75, zesde lid;  
+– het overgaan tot kostenverhaal als bedoeld in artikel 75 van de Wet bodembescherming, met uitzondering van situaties waarin Gedeputeerde Staten en Burgemeester en Wethouders gebruik hebben gemaakt van mandaat dat hen is verleend op basis van artikel 75, zesde lid;  
 
-– het verhaal van kosten met toepassing van [artikel 75, het eerste, tweede, derde en vijfde lid van de Wet bodembescherming](../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+– het verhaal van kosten met toepassing van artikel 75, het eerste, tweede, derde en vijfde lid van de Wet bodembescherming;  
 
-– het treffen van een schikking met betrekking tot de kosten als bedoeld in [artikel 75 van de Wet bodembescherming](../../../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md), het voeren van onderhandelingen terzake en het treffen van een schikking;  
+– het treffen van een schikking met betrekking tot de kosten als bedoeld in artikel 75 van de Wet bodembescherming, het voeren van onderhandelingen terzake en het treffen van een schikking;  
 
-– het verlenen van erkenningen als bedoeld in [artikel 9 van het Besluit bodemkwaliteit](../../../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+– het verlenen van erkenningen als bedoeld in artikel 9 van het Besluit bodemkwaliteit;  
 
-– het wijzigen van een erkenning als bedoeld in [artikel 12 van het Besluit bodemkwaliteit](../../../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+– het wijzigen van een erkenning als bedoeld in artikel 12 van het Besluit bodemkwaliteit;  
 
-– het intrekken en schorsen van een erkenning op grond van [artikel 23, eerste lid, onder a, c en d, en tweede lid, onder a, van het Besluit bodemkwaliteit](../../../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+– het intrekken en schorsen van een erkenning op grond van artikel 23, eerste lid, onder a, c en d, en tweede lid, onder a, van het Besluit bodemkwaliteit;  
 
-– het verlenen van een ontheffing als bedoeld in [artikel 31, eerste lid, van het Besluit bodemkwaliteit](../../../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+– het verlenen van een ontheffing als bedoeld in artikel 31, eerste lid, van het Besluit bodemkwaliteit;  
 
-– het vaststellen van een formulier als bedoeld in [artikel 31, derde lid, van het Besluit bodemkwaliteit](../../../../../../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md);  
+– het vaststellen van een formulier als bedoeld in artikel 31, derde lid, van het Besluit bodemkwaliteit;  
 
-– het verlenen van een erkenning op grond van [artikel 12b, eerste lid, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](../../../../../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md);  
+– het verlenen van een erkenning op grond van artikel 12b, eerste lid, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen;  
 
-– het wijzigen van een erkenning op grond van [artikel 12e van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](../../../../../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md);  
+– het wijzigen van een erkenning op grond van artikel 12e van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen;  
 
-– het intrekken van een erkenning op grond van [artikel 12k, eerste lid, aanhef en onder a, c, of d, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](../../../../../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md);  
+– het intrekken van een erkenning op grond van artikel 12k, eerste lid, aanhef en onder a, c, of d, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen;  
 
-– het schorsen van een erkenning op grond van [artikel 12k, tweede 2, aanhef en onder a, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](../../../../../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md);  
+– het schorsen van een erkenning op grond van artikel 12k, tweede 2, aanhef en onder a, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen;  
 
-– het afgeven, wijzigen en intrekken van verklaringen houdende een beoordeling van de status van als baggerspecie aangeboden materiaal als bedoeld in [artikel 29](../../../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) juncto [artikel 22 van de Wet belastingen op milieugrondslag](../../../../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md);   
+– het afgeven, wijzigen en intrekken van verklaringen houdende een beoordeling van de status van als baggerspecie aangeboden materiaal als bedoeld in artikel 29 juncto artikel 22 van de Wet belastingen op milieugrondslag;   
 
 b. het examineren en diplomeren van personen en het certificeren van bedrijven die handelingen verrichten waarbij gefluoreerde broeikasgassen dan wel gereguleerde stoffen vrij kunnen komen in het kader van: 
 
-– de [Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties](../../../../../../../../../pbo/verordening/financiering/onderzoeksprojecten/aanvoersector/2008/BWBR0027580/README.md);  
+– de Regeling gefluoreerde broeikasgassen en gereguleerde stoffen koelinstallaties;  
 
-– de [Regeling gefluoreerde broeikasgassen brandbeveiligingssystemen](../../../../../../../../../ministeriele-regeling/regeling/gefluoreerde/broeikasgassen/brandbeveiligingssystemen/BWBR0026507/README.md);  
+– de Regeling gefluoreerde broeikasgassen brandbeveiligingssystemen;  
 
-– de [Regeling gefluoreerde broeikasgassen hoogspanningsschakelaars](../../../../../../../../../ministeriele-regeling/regeling/gefluoreerde/broeikasgassen/hoogspanningsschakelaars/BWBR0026495/README.md);    
+– de Regeling gefluoreerde broeikasgassen hoogspanningsschakelaars;    
 
-c. het ontdoen van bedrijfsafvalstoffen en gevaarlijke afvalstoffen als bedoeld in [artikel 10.37 en volgende in de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md): 
+c. het ontdoen van bedrijfsafvalstoffen en gevaarlijke afvalstoffen als bedoeld in artikel 10.37 en volgende in de Wet milieubeheer: 
 
-– het verlenen van toestemming tot gebruik van een digitale gegevensdrager op grond van [artikel 12, tweede lid, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](../../../../../../../../../AMvB/besluit/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017294/README.md);  
+– het verlenen van toestemming tot gebruik van een digitale gegevensdrager op grond van artikel 12, tweede lid, van het Besluit melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen;  
 
-– het opstellen van het Reglement melden, bedoeld in [artikel 3, tweede lid, van de Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen](../../../../../../../../../ministeriele-regeling/regeling/melden/bedrijfsafvalstoffen/en/gevaarlijke/afvalstoffen/BWBR0017313/README.md);    
+– het opstellen van het Reglement melden, bedoeld in artikel 3, tweede lid, van de Regeling melden bedrijfsafvalstoffen en gevaarlijke afvalstoffen;    
 
-d. het behandelen en afwikkelen van meldingen, bedoeld in [artikel 5.12, twaalfde tot en met veertiende lid, van de Wet milieubeheer](../../../../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), met uitzondering van meldingen vanuit het directoraat-generaal Rijkswaterstaat.   
+d. het behandelen en afwikkelen van meldingen, bedoeld in artikel 5.12, twaalfde tot en met veertiende lid, van de Wet milieubeheer, met uitzondering van meldingen vanuit het directoraat-generaal Rijkswaterstaat.   
 
 10. Aan de hoofdingenieur-directeur van RWS Zee en Delta, diens directeuren en gemandateerde afdelingshoofden zijn voorbehouden: 
 
-a. het uitoefenen van de beheersbevoegdheden ten aanzien van de tot het regionale beheersgebied behorende territoriale zee en exclusieve economische zone van de BES-eilanden, als bedoeld in de [Wet maritiem beheer BES](../../../../../../../../../wet-BES/wet/maritiem/beheer/bes/BWBR0028550/README.md), en  
+a. het uitoefenen van de beheersbevoegdheden ten aanzien van de tot het regionale beheersgebied behorende territoriale zee en exclusieve economische zone van de BES-eilanden, als bedoeld in de Wet maritiem beheer BES, en  
 
-b. het nemen van besluiten en het sluiten van overeenkomsten in het kader van de uitvoering van de [Wet bescherming Antarctica](../../../../../../../../../wet/wet/bescherming/antarctica/BWBR0009449/README.md) en het verrichten van handelingen ter voorbereiding en ter uitvoering van bedoelde besluiten en overeenkomsten.     
+b. het nemen van besluiten en het sluiten van overeenkomsten in het kader van de uitvoering van de Wet bescherming Antarctica en het verrichten van handelingen ter voorbereiding en ter uitvoering van bedoelde besluiten en overeenkomsten.     
 
 De directeur-generaal Rijkswaterstaat, 
 J.H. Dronkers    

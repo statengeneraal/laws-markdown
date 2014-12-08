@@ -5,7 +5,7 @@
 De Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer,  
 Handelende in overeenstemming met de Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
 
-Gelet op de [artikelen 5.3, vierde lid](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), en [5.11, derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) en de [artikelen 4.3, derde lid](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), [4.4, eerste lid](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), [4.7](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) en [5.4, tweede lid, van het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md);
+Gelet op de artikelen 5.3, vierde lid, en 5.11, derde lid, van de Wet algemene bepalingen omgevingsrecht en de artikelen 4.3, derde lid, 4.4, eerste lid, 4.7 en 5.4, tweede lid, van het Besluit omgevingsrecht;
 
 Gelet op richtlijn nr. 2008/1/EG van het Europees Parlement en de Raad van 15 januari 2008 inzake geïntegreerde preventie en bestrijding van verontreiniging (Gecodificeerde versie) (*PbEG* L 24);
 Besluit:     
@@ -19,9 +19,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*besluit:* [Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md);  
+*besluit:* Besluit omgevingsrecht;  
 
-*bouwactiviteit:* activiteit als bedoeld in [artikel 2.1, eerste lid, onder a, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+*bouwactiviteit:* activiteit als bedoeld in artikel 2.1, eerste lid, onder a, van de wet;  
 
 *BRL:* door het Centraal College van Deskundigen van de Stichting Kwaliteitsborging Installatiesector vastgestelde Nationale Beoordelingsrichtlijn;
 
@@ -31,13 +31,13 @@ In deze regeling wordt verstaan onder:
 
 *detailtekening:* getekende uitwerking die een ondubbelzinnige aanduiding geeft van een groep van gelijksoortige constructieonderdelen in hun vorm, afmetingen, materiaalgebruik en overige gestelde eisen en waarvan de plaats eenduidig vastligt;  
 
-*EPC:* energieprestatiecoëfficiënt als bedoeld in [artikel 5.2 van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+*EPC:* energieprestatiecoëfficiënt als bedoeld in artikel 5.2 van het Bouwbesluit 2012;  
 
-*gebruiksoppervlakte:* gebruiksoppervlakte als bedoeld in [artikel 1.1, eerste lid, van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+*gebruiksoppervlakte:* gebruiksoppervlakte als bedoeld in artikel 1.1, eerste lid, van het Bouwbesluit 2012;  
 
 *groepsrisico:* cumulatieve kansen per jaar dat ten minste 10, 100 of 1000 personen overlijden als rechtstreeks gevolg van hun aanwezigheid in het invloedsgebied van een inrichting en een ongewoon voorval binnen die inrichting waarbij een gevaarlijke stof betrokken is;  
 
-*invloedsgebied:* gebied waarin volgens door Onze Minister bij ministeriële regeling op grond van [artikel 15, eerste lid, van het Besluit externe veiligheid inrichtingen](../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md) te stellen regels personen worden meegeteld voor de berekening van het groepsrisico;  
+*invloedsgebied:* gebied waarin volgens door Onze Minister bij ministeriële regeling op grond van artikel 15, eerste lid, van het Besluit externe veiligheid inrichtingen te stellen regels personen worden meegeteld voor de berekening van het groepsrisico;  
 
 *ISO:* een door de International Organization for Standardization opgestelde norm;  
 
@@ -45,7 +45,7 @@ In deze regeling wordt verstaan onder:
 
 *NEN-EN:* door de Europese Commissie voor Normalisatie geharmoniseerde norm; 
 
-*oprichten of in werking hebben van een inrichting of mijnbouwwerk:* activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, onder 1° of 3°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+*oprichten of in werking hebben van een inrichting of mijnbouwwerk:* activiteit als bedoeld in artikel 2.1, eerste lid, onder e, onder 1° of 3°, van de wet;  
 
 *plaatsgebonden risico:* risico op een plaats buiten een inrichting, uitgedrukt als de kans per jaar dat een persoon die onafgebroken en onbeschermd op die plaats zou verblijven, overlijdt als rechtstreeks gevolg van een ongewoon voorval binnen die inrichting waarbij een gevaarlijke stof betrokken is;  
 
@@ -55,18 +55,18 @@ In deze regeling wordt verstaan onder:
 
 2°. de hoogte van het terrein ter plaatse van de hoofdtoegang bij voltooiing van de bouw voor een bouwwerk waarvan de hoofdtoegang niet direct aan de weg grenst;    
 
-*veranderen van een inrichting of mijnbouwwerk of veranderen van de werking daarvan:* activiteit als bedoeld in [artikel 2.1, eerste lid, onder e, onder 2°, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+*veranderen van een inrichting of mijnbouwwerk of veranderen van de werking daarvan:* activiteit als bedoeld in artikel 2.1, eerste lid, onder e, onder 2°, van de wet;  
 
-*vergunning:* omgevingsvergunning als bedoeld in [artikel 1.1 van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
+*vergunning:* omgevingsvergunning als bedoeld in artikel 1.1 van de wet.   
 
 ### Artikel  1.2  
 
 ####Elektronisch aanvraagformulier en landelijke voorziening
 
-1.  Een aanvraag langs elektronische weg wordt gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de aanvraag beschikbaar is via de landelijke voorziening, bedoeld in [artikel 7.6 van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
+1.  Een aanvraag langs elektronische weg wordt gedaan met gebruikmaking van het elektronische formulier dat op de datum van indiening van de aanvraag beschikbaar is via de landelijke voorziening, bedoeld in artikel 7.6 van de wet.   
 2.  De minister stelt een systeembeschrijving vast voor de landelijke voorziening.   
 3.  Het bevoegd gezag is verantwoordelijk voor het beheer van de gegevens die zijn opgenomen in het deel van de landelijke voorziening dat hem ter beschikking staat. Dit beheer omvat in elk geval de verlening en beperking van toegang tot de gegevens omtrent een aanvraag en de zorg voor de archiefbescheiden.   
-4.  Ten aanzien van de verwerking van persoonsgegevens in de landelijke voorziening zijn de minister respectievelijk het bevoegd gezag, ieder voor zover die verwerking onder zijn verantwoordelijkheid plaatsvindt, verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).  
+4.  Ten aanzien van de verwerking van persoonsgegevens in de landelijke voorziening zijn de minister respectievelijk het bevoegd gezag, ieder voor zover die verwerking onder zijn verantwoordelijkheid plaatsvindt, verantwoordelijke in de zin van artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens.  
 
 ### Artikel  1.3  
 
@@ -124,9 +124,9 @@ Indien de activiteit waarvoor de vergunning wordt aangevraagd naar haar aard tij
 
 ### Artikel  2.2  
 
-####[Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md)
+####Bouwbesluit 2012
 
-In of bij de aanvraag om een vergunning voor een bouwactiviteit verstrekt de aanvrager de volgende gegevens en bescheiden ten behoeve van toetsing aan de voorschriften van het [Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md): 
+In of bij de aanvraag om een vergunning voor een bouwactiviteit verstrekt de aanvrager de volgende gegevens en bescheiden ten behoeve van toetsing aan de voorschriften van het Bouwbesluit 2012: 
 
 1. uit het oogpunt van veiligheid: 
 
@@ -206,7 +206,7 @@ e. gegevens en bescheiden over de aard en plaats van brandveiligheidinstallaties
 
 f. een tekening van de inrichting van het bij het bouwwerk behorende terrein met daarop aangegeven de voorzieningen voor de bereikbaarheid en de plaats van bluswatervoorzieningen en opstelplaatsen van brandweervoertuigen;  
 
-g. gegevens en bescheiden waaruit blijkt dat wordt voldaan aan de aanvullende regels voor tunnelveiligheid uit het [Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+g. gegevens en bescheiden waaruit blijkt dat wordt voldaan aan de aanvullende regels voor tunnelveiligheid uit het Bouwbesluit 2012;  
 
 h. indien het een woongebouw betreft: gegevens en bescheiden over zelfsluitende deuren, spreekinstallaties, signaalvoorzieningen en deuropeners ter voorkoming van veel voorkomende criminaliteit;  
 
@@ -214,13 +214,13 @@ i. gegevens en bescheiden over gebouwgebonden veiligheidsvoorzieningen ten behoe
 
 j. gegevens en bescheiden over technische bouwsystemen en het daarbij behorende systeemrendement;   
 
-6. uit het oogpunt van het voorkomen van onveilige situaties en het beperken van hinder tijdens het bouwen: een veiligheidsplan als bedoeld in [artikel 8.7 van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+6. uit het oogpunt van het voorkomen van onveilige situaties en het beperken van hinder tijdens het bouwen: een veiligheidsplan als bedoeld in artikel 8.7 van het Bouwbesluit 2012;  
 
 7. overige vereisten: 
 
 a. kwaliteitsverklaringen en CE-markeringen en gegevens en bescheiden ten behoeve van een beroep op de gelijkwaardigheid;  
 
-b. eventuele extra gegevens en bescheiden ten behoeve van het verlenen van een ontheffing van de voorschriften van het [Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) als bedoeld in [artikel 7 van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md), waaronder gegevens en bescheiden waaruit blijkt dat toestemming als bedoeld in artikel 14 van de richtlijn 2004/54/EG van het Europees Parlement en de Raad van 29 april 2004 inzake minimumveiligheidseisen voor tunnels in het transeuropese wegennet (PbEU 2004, L 167, gerectificeerd in PbEU 2004, L 201) is verkregen om van eisen van die richtlijn af te wijken.     
+b. eventuele extra gegevens en bescheiden ten behoeve van het verlenen van een ontheffing van de voorschriften van het Bouwbesluit 2012 als bedoeld in artikel 7 van de Woningwet, waaronder gegevens en bescheiden waaruit blijkt dat toestemming als bedoeld in artikel 14 van de richtlijn 2004/54/EG van het Europees Parlement en de Raad van 29 april 2004 inzake minimumveiligheidseisen voor tunnels in het transeuropese wegennet (PbEU 2004, L 167, gerectificeerd in PbEU 2004, L 201) is verkregen om van eisen van die richtlijn af te wijken.     
 
 ### Artikel  2.3  
 
@@ -242,7 +242,7 @@ f. de inrichting van parkeervoorzieningen op het eigen terrein;
 
 g. gegevens en bescheiden welke samenhangen met een uit te brengen advies van de Agrarische Adviescommissie in geval van een aanvraag voor een bouwactiviteit in een gebied met een agrarische bestemming;  
 
-h. overige gegevens en bescheiden welke samenhangen met een eventueel benodigde toetsing aan een bestemmingsplan, beheersverordening dan wel een besluit als bedoeld in [artikel 4.1, derde lid](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), of [4.3, derde lid, van de Wet ruimtelijke ordening](../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md);  
+h. overige gegevens en bescheiden welke samenhangen met een eventueel benodigde toetsing aan een bestemmingsplan, beheersverordening dan wel een besluit als bedoeld in artikel 4.1, derde lid, of 4.3, derde lid, van de Wet ruimtelijke ordening;  
 
 i. indien dat is voorgeschreven in het bestemmingsplan: een rapport waarin de archeologische waarde van het terrein dat blijkens de aanvraag zal worden verstoord in voldoende mate is vastgesteld;  
 
@@ -252,13 +252,13 @@ j. gegevens en bescheiden welke samenhangen met een eventueel benodigde toetsing
 
 ####Overige voorschriften bouwverordening
 
-In of bij de aanvraag om een vergunning voor een bouwactiviteit verstrekt de aanvrager ten behoeve van toetsing aan de overige voorschriften van de bouwverordening een onderzoeksrapport betreffende verontreiniging van de bodem, gebaseerd op onderzoek dat is uitgevoerd door een persoon of een instelling die daartoe is erkend op grond van het [Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md). 
+In of bij de aanvraag om een vergunning voor een bouwactiviteit verstrekt de aanvrager ten behoeve van toetsing aan de overige voorschriften van de bouwverordening een onderzoeksrapport betreffende verontreiniging van de bodem, gebaseerd op onderzoek dat is uitgevoerd door een persoon of een instelling die daartoe is erkend op grond van het Besluit bodemkwaliteit. 
 
 ### Artikel  2.5  
 
 ####Redelijke eisen van welstand
 
-In of bij de aanvraag om een vergunning voor een bouwactiviteit verstrekt de aanvrager de volgende gegevens en bescheiden ten behoeve van de toetsing aan de criteria uit de welstandsnota, bedoeld in [artikel 12a, eerste lid, van de Woningwet](../../../../wet/woningwet/BWBR0005181/README.md): 
+In of bij de aanvraag om een vergunning voor een bouwactiviteit verstrekt de aanvrager de volgende gegevens en bescheiden ten behoeve van de toetsing aan de criteria uit de welstandsnota, bedoeld in artikel 12a, eerste lid, van de Woningwet: 
 
 a. tekeningen van alle gevels van het bouwwerk, inclusief de gevels van belendende bebouwing, waaruit blijkt hoe het geplande bouwwerk in de directe omgeving past;  
 
@@ -272,11 +272,11 @@ d. opgave van de toe te passen bouwmaterialen en de kleur daarvan (uitwendige sc
 
 ####Overige eisen voor wegtunnels
 
-In of bij de aanvraag om een vergunning voor een bouwactiviteit voor een wegtunnel als bedoeld in de [Wet aanvullende regels veiligheid wegtunnels](../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md), verstrekt de aanvrager de volgende gegevens ten behoeve van de toetsing aan de voorschriften van die wet: 
+In of bij de aanvraag om een vergunning voor een bouwactiviteit voor een wegtunnel als bedoeld in de Wet aanvullende regels veiligheid wegtunnels, verstrekt de aanvrager de volgende gegevens ten behoeve van de toetsing aan de voorschriften van die wet: 
 
-a. een toelichting waaruit blijkt dat het ontwerp van de tunnel voldoet aan de norm van [artikel 6, eerste lid, van die wet](../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md);  
+a. een toelichting waaruit blijkt dat het ontwerp van de tunnel voldoet aan de norm van artikel 6, eerste lid, van die wet;  
 
-b. indien er een gestandaardiseerde uitrusting wordt toegepast, een toelichting waaruit blijkt dat het ontwerp aansluit bij de standaarduitrusting van de tunnel waarvoor op grond van [artikel 6b van die wet](../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md) is gekozen.   
+b. indien er een gestandaardiseerde uitrusting wordt toegepast, een toelichting waaruit blijkt dat het ontwerp aansluit bij de standaarduitrusting van de tunnel waarvoor op grond van artikel 6b van die wet is gekozen.   
 
 ### §  2.2  
 
@@ -438,7 +438,7 @@ f. invoergegevens EPC berekening (bouwfysische eigenschappen bouwwerk, installat
 
 ### Artikel  2.13  
 
-Een aanvraag voor een vergunning voor een bouwactiviteit voor een wegtunnel als bedoeld in de [Wet aanvullende regels veiligheid wegtunnels](../../../../wet/wet/aanvullende/regels/veiligheid/wegtunnels/BWBR0019516/README.md) wordt uitgevoerd overeenkomstig [bijlage 2, onderdeel B2, bij de Regeling aanvullende regels veiligheid wegtunnels](../../../../ministeriele-regeling/regeling/aanvullende/regels/veiligheid/wegtunnels/BWBR0019806/README.md). 
+Een aanvraag voor een vergunning voor een bouwactiviteit voor een wegtunnel als bedoeld in de Wet aanvullende regels veiligheid wegtunnels wordt uitgevoerd overeenkomstig bijlage 2, onderdeel B2, bij de Regeling aanvullende regels veiligheid wegtunnels. 
 
 ### Hoofdstuk  3  
 
@@ -448,7 +448,7 @@ Een aanvraag voor een vergunning voor een bouwactiviteit voor een wegtunnel als 
 
 ####Uitvoeren van werk of werkzaamheden
 
-1.  In of bij de aanvraag om een vergunning voor een aanlegactiviteit als bedoeld in [artikel 2.1, eerste lid, onder b, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) verstrekt de aanvrager bij de omschrijving van de aard, omvang en effecten van de activiteit gegevens en bescheiden over: 
+1.  In of bij de aanvraag om een vergunning voor een aanlegactiviteit als bedoeld in artikel 2.1, eerste lid, onder b, van de wet verstrekt de aanvrager bij de omschrijving van de aard, omvang en effecten van de activiteit gegevens en bescheiden over: 
 
 a. de specifieke locatie waar het werk of de werkzaamheid zal worden uitgevoerd;  
 
@@ -465,13 +465,13 @@ e. de aanwezigheid van obstakels die in de weg staan voor het uitvoeren van het 
 
 ####Gebruiken van gronden of bouwwerken in strijd met planologische voorschriften
 
-In of bij de aanvraag om een vergunning voor het gebruiken van gronden of bouwwerken, bedoeld in [artikel 2.1, eerste lid, onder c, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), verstrekt de aanvrager gegevens en bescheiden over: 
+In of bij de aanvraag om een vergunning voor het gebruiken van gronden of bouwwerken, bedoeld in artikel 2.1, eerste lid, onder c, van de wet, verstrekt de aanvrager gegevens en bescheiden over: 
 
 a. het beoogde en het huidige gebruik van de gronden en de bouwwerken waarop de aanvraag betrekking heeft;  
 
 b. de gevolgen van het beoogde gebruik voor de ruimtelijke ordening;  
 
-c. indien dat met toepassing van [artikel 41 van de Monumentenwet 1988](../../../../wet/monumentenwet/1988/BWBR0004471/README.md) is verplicht door het bevoegd gezag, een rapport waarin de archeologische waarde van het terrein dat blijkens de aanvraag zal worden verstoord in voldoende mate is vastgesteld;  
+c. indien dat met toepassing van artikel 41 van de Monumentenwet 1988 is verplicht door het bevoegd gezag, een rapport waarin de archeologische waarde van het terrein dat blijkens de aanvraag zal worden verstoord in voldoende mate is vastgesteld;  
 
 d. een situatietekening van de bestaande toestand en een situatietekening van de nieuwe toestand met daarop de afmetingen van het perceel en bebouwd oppervlak, alsmede situering van bouwwerken ten opzichte van de perceelsgrenzen en de wegzijde, de wijze waarop het terrein ontsloten wordt, de aangrenzende terreinen en de daarop voorkomende bebouwing en het beoogd gebruik van het terrein behorende bij het voorgenomen bouwwerk;  
 
@@ -481,7 +481,7 @@ e. de reden waarom en de mate waarin wordt afgeweken van het exploitatieplan.
 
 ####Brandveilig gebruiken van een bouwwerk
 
-1.  In of bij de aanvraag om een vergunning voor het brandveilig gebruiken van een bouwwerk, bedoeld in [artikel 2.1, eerste lid, onder d, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), verstrekt de aanvrager: 
+1.  In of bij de aanvraag om een vergunning voor het brandveilig gebruiken van een bouwwerk, bedoeld in artikel 2.1, eerste lid, onder d, van de wet, verstrekt de aanvrager: 
 
 a. een situatieschets met noordpijl met een schaal die niet kleiner is dan 1:1000;  
 
@@ -508,7 +508,7 @@ c. per ruimte:
 
 – gebruiksbestemming;  
 
-– bij ruimten voor meer dan 25 personen, de hoogste bezetting van die ruimte, en opstelling van inventaris en van inrichtingselementen als bedoeld in de [artikelen 7.13](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en [7.14 van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);    
+– bij ruimten voor meer dan 25 personen, de hoogste bezetting van die ruimte, en opstelling van inventaris en van inrichtingselementen als bedoeld in de artikelen 7.13 en 7.14 van het Bouwbesluit 2012;    
 
 d. met aanduidingen van de plaats van, voor zover deze aanwezig zijn: 
 
@@ -518,15 +518,15 @@ d. met aanduidingen van de plaats van, voor zover deze aanwezig zijn:
 
 – draairichting van deuren;  
 
-– zelfsluitende deuren als bedoeld in [artikel 7.3 van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+– zelfsluitende deuren als bedoeld in artikel 7.3 van het Bouwbesluit 2012;  
 
-– sluitwerk van deuren als bedoeld in [artikel 6.25, zesde lid, van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+– sluitwerk van deuren als bedoeld in artikel 6.25, zesde lid, van het Bouwbesluit 2012;  
 
 – vluchtrouteaanduidingen;  
 
 – noodverlichting;  
 
-– oriëntatieverlichting als bedoeld in [artikel 6.5 van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+– oriëntatieverlichting als bedoeld in artikel 6.5 van het Bouwbesluit 2012;  
 
 – brandmeldcentrale en brandmeldpaneel;  
 
@@ -543,7 +543,7 @@ d. met aanduidingen van de plaats van, voor zover deze aanwezig zijn:
 – brandweerlift, en    
 
 e. gegevens en bescheiden over de aard en de plaats van de brandveiligheidsinstallaties.  De aanduidingen zijn conform NEN 1414: 2007, voor zover deze norm daarin voorziet.   
-3.  Bij de toepassing van een gelijkwaardige oplossing als bedoeld in [artikel 1.3, eerste lid, van het Bouwbesluit 2012](../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) verstrekt de aanvrager tevens gegevens en bescheiden waarmee de gelijkwaardigheid voldoende aannemelijk wordt gemaakt.  
+3.  Bij de toepassing van een gelijkwaardige oplossing als bedoeld in artikel 1.3, eerste lid, van het Bouwbesluit 2012 verstrekt de aanvrager tevens gegevens en bescheiden waarmee de gelijkwaardigheid voldoende aannemelijk wordt gemaakt.  
 
 ### Hoofdstuk  4  
 
@@ -596,7 +596,7 @@ j. voor zover het betreft inrichtingen waartoe IPPC-installaties behoren: een be
 
 De aanvrager verstrekt in of bij de aanvraag gegevens over: 
 
-a. ongewone voorvallen als bedoeld in [artikel 17.1 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), die redelijkerwijs mogelijk zijn te achten;  
+a. ongewone voorvallen als bedoeld in artikel 17.1 van de Wet milieubeheer, die redelijkerwijs mogelijk zijn te achten;  
 
 b. de belasting van het milieu, die die voorvallen kunnen veroorzaken;  
 
@@ -609,7 +609,7 @@ d. de maatregelen die worden getroffen om de belasting van het milieu, die de in
 ####Bodemkwaliteit
 
 1. De aanvrager verstrekt in of bij de aanvraag de resultaten van een onderzoek naar de kwaliteit van de bodem op de plaats waar de inrichting zal zijn of is gelegen.  
-2.  De aanvrager verstrekt in of bij de aanvraag een rapport als bedoeld in [artikel 2.11, eerste lid, van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md). Het in het rapport opgenomen onderzoek voldoet aan de normbladen NEN 5725<sup> 1 Nederlandse norm voor Bodem – Landbodem – Strategie voor het uitvoeren van vooronderzoek bij verkennend en nader onderzoek. </sup> en NEN 5740<sup> 2 Nederlandse norm voor Bodem – Landbodem – Strategie voor het uitvoeren van verkennend bodemonderzoek – Onderzoek naar de milieuhygiënische kwaliteit van bodem en grond. </sup>. 
+2.  De aanvrager verstrekt in of bij de aanvraag een rapport als bedoeld in artikel 2.11, eerste lid, van het Activiteitenbesluit milieubeheer. Het in het rapport opgenomen onderzoek voldoet aan de normbladen NEN 5725<sup> 1 Nederlandse norm voor Bodem – Landbodem – Strategie voor het uitvoeren van vooronderzoek bij verkennend en nader onderzoek. </sup> en NEN 5740<sup> 2 Nederlandse norm voor Bodem – Landbodem – Strategie voor het uitvoeren van verkennend bodemonderzoek – Onderzoek naar de milieuhygiënische kwaliteit van bodem en grond. </sup>. 
 
 ### §  4.1.2  
 
@@ -625,7 +625,7 @@ Indien de aanvraag betrekking heeft op een inrichting, die behoort tot een categ
 
 ####Geluid
 
-Indien de aanvraag betrekking heeft op een inrichting die behoort tot een categorie, die is genoemd in [bijlage I, onder 11.1, 12.1, 13.1, onder a, onder 1° en 2°, 17.1, 18 of 19 van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), of die behoort tot een categorie, waarvoor gedeputeerde staten, Onze Minister, Onze Minister van Economische Zaken of Onze Minister van Verkeer en Waterstaat bevoegd zijn te beslissen op de aanvraag, verstrekt de aanvrager in of bij de aanvraag tevens gegevens over: 
+Indien de aanvraag betrekking heeft op een inrichting die behoort tot een categorie, die is genoemd in bijlage I, onder 11.1, 12.1, 13.1, onder a, onder 1° en 2°, 17.1, 18 of 19 van het besluit, of die behoort tot een categorie, waarvoor gedeputeerde staten, Onze Minister, Onze Minister van Economische Zaken of Onze Minister van Verkeer en Waterstaat bevoegd zijn te beslissen op de aanvraag, verstrekt de aanvrager in of bij de aanvraag tevens gegevens over: 
 
 a. de aard van de geluiden en hoogte van de te verwachten geluidsbelasting welke de inrichting binnen een door het bevoegd gezag aangegeven gebied buiten de inrichting kan veroorzaken;  
 
@@ -637,7 +637,7 @@ c. de methode waarmee de aard van de geluiden en hoogte van de geluidsbelasting 
 
 ####Bijzondere deskundigheden bij bepaalde inrichtingen
 
-Indien de aanvraag betrekking heeft op een inrichting die behoort tot een categorie, die is genoemd in [bijlage I, onder 21, 28.4, onder g, of 29.1, onder k, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), verstrekt de aanvrager in of bij de aanvraag tevens gegevens en bescheiden met betrekking tot: 
+Indien de aanvraag betrekking heeft op een inrichting die behoort tot een categorie, die is genoemd in bijlage I, onder 21, 28.4, onder g, of 29.1, onder k, van het besluit, verstrekt de aanvrager in of bij de aanvraag tevens gegevens en bescheiden met betrekking tot: 
 
 a. de namen van degenen die verantwoordelijk zijn voor de handelingen met de genetisch gemodificeerde organismen en voor het toezicht op en de controle van de veiligheid daarvan;  
 
@@ -651,7 +651,7 @@ d. het hoogste inperkingsniveau waaraan de ruimte bestemd voor ingeperkt gebruik
 
 ####Beheer van afvalstoffen
 
-Indien de aanvraag betrekking heeft op een inrichting, die behoort tot een categorie, die is genoemd in [bijlage I, onder 28.4 of 28.5 van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), verstrekt de aanvrager in of bij de aanvraag tevens gegevens en bescheiden met betrekking tot: 
+Indien de aanvraag betrekking heeft op een inrichting, die behoort tot een categorie, die is genoemd in bijlage I, onder 28.4 of 28.5 van het besluit, verstrekt de aanvrager in of bij de aanvraag tevens gegevens en bescheiden met betrekking tot: 
 
 a. de aard, de samenstelling, de hoeveelheid en de herkomst van de inkomende afvalstoffen;  
 
@@ -675,13 +675,13 @@ i. de naam en het adres van degene die de feitelijke leiding van de activiteiten
 
 ####Afvalstoffen op of in de bodem
 
-Indien de aanvraag betrekking heeft op een inrichting die behoort tot een categorie, die is genoemd in [bijlage I, onder 28.6, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), vermeldt de aanvrager in of bij de aanvraag tevens de aard, de samenstelling, de hoeveelheid en de herkomst van de betrokken afvalstoffen. 
+Indien de aanvraag betrekking heeft op een inrichting die behoort tot een categorie, die is genoemd in bijlage I, onder 28.6, van het besluit, vermeldt de aanvrager in of bij de aanvraag tevens de aard, de samenstelling, de hoeveelheid en de herkomst van de betrokken afvalstoffen. 
 
 ### Artikel  4.9  
 
 ####Storten van afvalstoffen
 
-1.  Indien de aanvraag betrekking heeft op een inrichting die behoort tot een categorie, die is genoemd in [bijlage I, onder 28.1, onder c, onder 28.4, onder f, of 28.4, onder g, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), in gevallen waarin sprake is van het storten van afvalstoffen, verstrekt de aanvrager in of bij de aanvraag tevens gegevens en bescheiden met betrekking tot: 
+1.  Indien de aanvraag betrekking heeft op een inrichting die behoort tot een categorie, die is genoemd in bijlage I, onder 28.1, onder c, onder 28.4, onder f, of 28.4, onder g, van het besluit, in gevallen waarin sprake is van het storten van afvalstoffen, verstrekt de aanvrager in of bij de aanvraag tevens gegevens en bescheiden met betrekking tot: 
 
 a. de kwaliteit van de bodem op de plaats waar de inrichting zal zijn of is gelegen;  
 
@@ -712,14 +712,14 @@ b. het zo nodig aanbrengen van een geohydrologisch isolatiesysteem, of het zo no
 
 ####Afvalvoorziening
 
-1.  Indien de aanvraag betrekking heeft op een afvalvoorziening, gaat de aanvraag vergezeld van een door degene die de afvalvoorziening drijft, opgesteld winningsafvalbeheersplan als bedoeld in [artikel 3 van het Besluit beheer winingsafvalstoffen](../../../../AMvB/besluit/beheer/winningsafvalstoffen/BWBR0023903/README.md).   
+1.  Indien de aanvraag betrekking heeft op een afvalvoorziening, gaat de aanvraag vergezeld van een door degene die de afvalvoorziening drijft, opgesteld winningsafvalbeheersplan als bedoeld in artikel 3 van het Besluit beheer winingsafvalstoffen.   
 2.  In of bij een aanvraag die betrekking heeft op een afvalvoorziening, toont de aanvrager aan dat: 
 
 a. de afvalvoorziening geschikt gelegen is, in het bijzonder gelet op verplichtingen ten aanzien van beschermde gebieden en geologische, hydrologische en hydrogeologische, seismische en geotechnische factoren;  
 
 b. de afvalvoorziening zo is ontworpen dat voldaan wordt aan de noodzakelijke voorwaarden om: 
 
-1°. verontreiniging van de bodem, de lucht, het grondwater of een oppervlaktewaterlichaam, rekening houdende met in het bijzonder richtlijn 2006/11/EG, het [Lozingenbesluit bodembescherming](../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md) en de kaderrichtlijn water, te voorkomen,  
+1°. verontreiniging van de bodem, de lucht, het grondwater of een oppervlaktewaterlichaam, rekening houdende met in het bijzonder richtlijn 2006/11/EG, het Lozingenbesluit bodembescherming en de kaderrichtlijn water, te voorkomen,  
 
 2°. te verzekeren dat verontreinigd water en percolaat op doelmatige wijze kunnen worden verzameld, en  
 
@@ -745,19 +745,19 @@ e. passende regelingen zijn getroffen voor:
 
 2°. de fase na de sluiting van de afvalvoorziening;    
 
-f. in het ontwerp en bij de bouw van die afvalvoorziening rekening is gehouden met de noodzakelijke voorwaarden om een zwaar ongeval als bedoeld in [artikel 1, onderdeel f, van het Besluit risico’s zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) te voorkomen en de nadelige gevolgen van een dergelijk ongeval voor de gezondheid van de mens of het milieu zoveel mogelijk te voorkomen of te beperken, met inbegrip van de grensoverschrijdende gevolgen;  
+f. in het ontwerp en bij de bouw van die afvalvoorziening rekening is gehouden met de noodzakelijke voorwaarden om een zwaar ongeval als bedoeld in artikel 1, onderdeel f, van het Besluit risico’s zware ongevallen 1999 te voorkomen en de nadelige gevolgen van een dergelijk ongeval voor de gezondheid van de mens of het milieu zoveel mogelijk te voorkomen of te beperken, met inbegrip van de grensoverschrijdende gevolgen;  
 
-g. financiële zekerheid is of wordt gesteld, voor het nakomen van de voorschriften die ingevolge het [Besluit beheer winningsafvalstoffen](../../../../AMvB/besluit/beheer/winningsafvalstoffen/BWBR0023903/README.md) aan de vergunning worden verbonden, alsmede voor het nakomen van [paragraaf 8.2 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en dat het bedrag waarvoor de zekerheid in stand wordt gehouden is berekend overeenkomstig beschikking nr. 2009/335/EG van de Commissie van de Europese Gemeenschappen van 20 april 2009 inzake technische richtsnoeren voor het stellen van de financiële zekerheid overeenkomstig Richtlijn 2006/21/EG van het Europees Parlement en de Raad betreffende het beheer van afval van winningsindustrieën (PbEU L 101).    
+g. financiële zekerheid is of wordt gesteld, voor het nakomen van de voorschriften die ingevolge het Besluit beheer winningsafvalstoffen aan de vergunning worden verbonden, alsmede voor het nakomen van paragraaf 8.2 van de Wet milieubeheer, en dat het bedrag waarvoor de zekerheid in stand wordt gehouden is berekend overeenkomstig beschikking nr. 2009/335/EG van de Commissie van de Europese Gemeenschappen van 20 april 2009 inzake technische richtsnoeren voor het stellen van de financiële zekerheid overeenkomstig Richtlijn 2006/21/EG van het Europees Parlement en de Raad betreffende het beheer van afval van winningsindustrieën (PbEU L 101).    
 
 ### Artikel  4.11  
 
 ####Verbranden van afvalstoffen
 
-Indien de aanvraag betrekking heeft op een inrichting waarop [paragraaf 5.2 van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) van toepassing is, vermeldt of verstrekt de aanvrager in of bij de aanvraag tevens:
+Indien de aanvraag betrekking heeft op een inrichting waarop paragraaf 5.2 van het Activiteitenbesluit milieubeheer van toepassing is, vermeldt of verstrekt de aanvrager in of bij de aanvraag tevens:
 
 a. de maatregelen of voorzieningen ten behoeve van terugwinning van de als gevolg van thermische behandeling van afvalstoffen opgewekte warmte;  
 
-b. de gegevens, bedoeld in artikel 4.1, eerste lid, onder a, per onderscheiden afvalsoort in de afvalstoffenlijst als bedoeld in [artikel 1, eerste lid, van de Regeling Europese afvalstoffenlijst](../../../../ministeriele-regeling/regeling/europese/afvalstoffenlijst/BWBR0013546/README.md), en voor gevaarlijke afvalstoffen voorts een specificatie van de minimale en maximale toevoer, de laagste en hoogste calorische waarde, alsmede de maximumgehalten aan PCB’s, pentachloorfenol, chloor, fluor, zwavel, zware metalen en andere verontreinigende stoffen per onderscheiden afvalsoort in de afvalstoffenlijst;  
+b. de gegevens, bedoeld in artikel 4.1, eerste lid, onder a, per onderscheiden afvalsoort in de afvalstoffenlijst als bedoeld in artikel 1, eerste lid, van de Regeling Europese afvalstoffenlijst, en voor gevaarlijke afvalstoffen voorts een specificatie van de minimale en maximale toevoer, de laagste en hoogste calorische waarde, alsmede de maximumgehalten aan PCB’s, pentachloorfenol, chloor, fluor, zwavel, zware metalen en andere verontreinigende stoffen per onderscheiden afvalsoort in de afvalstoffenlijst;  
 
 c. een nadere omschrijving van de meest ongunstige bedrijfsomstandigheden.  
 
@@ -765,12 +765,12 @@ c. een nadere omschrijving van de meest ongunstige bedrijfsomstandigheden.
 
 ####Vuurwerk
 
-1.  Indien de aanvraag betrekking heeft op een inrichting waar ten hoogste 10.000 kilogram consumentenvuurwerk als bedoeld in het [Vuurwerkbesluit](../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md) wordt opgeslagen, vermeldt de aanvrager in of bij de aanvraag tevens de maximale hoeveelheid consumentenvuurwerk in de zin van het [Vuurwerkbesluit](../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md) die in de inrichting wordt opgeslagen.   
-2.  Indien de aanvraag betrekking heeft op een inrichting die behoort tot een categorie die is genoemd in [bijlage I, onder 3.5, van het Besluit omgevingsrecht](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), verstrekt de aanvrager in of bij de aanvraag: 
+1.  Indien de aanvraag betrekking heeft op een inrichting waar ten hoogste 10.000 kilogram consumentenvuurwerk als bedoeld in het Vuurwerkbesluit wordt opgeslagen, vermeldt de aanvrager in of bij de aanvraag tevens de maximale hoeveelheid consumentenvuurwerk in de zin van het Vuurwerkbesluit die in de inrichting wordt opgeslagen.   
+2.  Indien de aanvraag betrekking heeft op een inrichting die behoort tot een categorie die is genoemd in bijlage I, onder 3.5, van het Besluit omgevingsrecht, verstrekt de aanvrager in of bij de aanvraag: 
 
-a. de maximale hoeveelheden stoffen en voorwerpen behorend tot transport-gevarenklasse 1 als bedoeld in [bijlage 1 van de Regeling vervoer over land van gevaarlijke stoffen](../../../../ministeriele-regeling/regeling/vervoer/over/land/van/gevaarlijke/stoffen/BWBR0010054/README.md), onderscheiden naar gevarensubklasse en compatibiliteitsgroep, die in de inrichting worden opgeslagen;  
+a. de maximale hoeveelheden stoffen en voorwerpen behorend tot transport-gevarenklasse 1 als bedoeld in bijlage 1 van de Regeling vervoer over land van gevaarlijke stoffen, onderscheiden naar gevarensubklasse en compatibiliteitsgroep, die in de inrichting worden opgeslagen;  
 
-b. de maximale hoeveelheid consumenten- en professioneel vuurwerk dan wel pyrotechnische artikelen voor theatergebruik in de zin van het [Vuurwerkbesluit](../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md) die in de inrichting wordt opgeslagen;  
+b. de maximale hoeveelheid consumenten- en professioneel vuurwerk dan wel pyrotechnische artikelen voor theatergebruik in de zin van het Vuurwerkbesluit die in de inrichting wordt opgeslagen;  
 
 c. de namen van degenen door wie of onder voortdurend toezicht van wie handelingen met professioneel vuurwerk of pyrotechnische artikelen voor theatergebruik worden verricht, voor zover de aanvraag betrekking heeft op het bewerken van professioneel vuurwerk onderscheidenlijk pyrotechnische artikelen voor theatergebruik;  
 
@@ -780,15 +780,15 @@ d. gegevens over de vakbekwaamheid van de in de inrichting werkzame personen, vo
 
 ####BRZO
 
-1.  Indien de aanvraag betrekking heeft op een inrichting waarop [paragraaf 3 van het Besluit risico's zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) van toepassing is, gaat zij vergezeld van die onderdelen van het veiligheidsrapport, bedoeld in [artikel 10 van dat besluit](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md), die betrekking hebben op de risico's voor personen buiten de inrichting en voor het milieu.   
-2.  In een geval als bedoeld in het eerste lid vermeldt de aanvrager in of bij de aanvraag, per stof, genoemd in [bijlage I, deel 1, bij dat besluit](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) en per categorie van stoffen en preparaten, genoemd in bijlage I, deel 2, bij dat besluit, de maximale hoeveelheid waarvoor vergunning wordt gevraagd.   
-3.  Indien de aanvraag betrekking heeft op een inrichting waarop [paragraaf 2](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) en niet tevens [paragraaf 3 van het Besluit risico's zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) van toepassing is, verstrekt de aanvrager in of bij de aanvraag, de volgende gegevens: 
+1.  Indien de aanvraag betrekking heeft op een inrichting waarop paragraaf 3 van het Besluit risico's zware ongevallen 1999 van toepassing is, gaat zij vergezeld van die onderdelen van het veiligheidsrapport, bedoeld in artikel 10 van dat besluit, die betrekking hebben op de risico's voor personen buiten de inrichting en voor het milieu.   
+2.  In een geval als bedoeld in het eerste lid vermeldt de aanvrager in of bij de aanvraag, per stof, genoemd in bijlage I, deel 1, bij dat besluit en per categorie van stoffen en preparaten, genoemd in bijlage I, deel 2, bij dat besluit, de maximale hoeveelheid waarvoor vergunning wordt gevraagd.   
+3.  Indien de aanvraag betrekking heeft op een inrichting waarop paragraaf 2 en niet tevens paragraaf 3 van het Besluit risico's zware ongevallen 1999 van toepassing is, verstrekt de aanvrager in of bij de aanvraag, de volgende gegevens: 
 
 a. de naam en de functie van de met de feitelijke leiding van de inrichting belaste persoon, indien deze een ander is dan degene die de inrichting drijft;  
 
 b. de aard van de in de inrichting aanwezige gevaarlijke stoffen;  
 
-c. per stof, genoemd in [bijlage I, deel 1, bij dat besluit](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md), en per categorie van stoffen en preparaten, genoemd in bijlage I, deel 2, bij dat besluit: 
+c. per stof, genoemd in bijlage I, deel 1, bij dat besluit, en per categorie van stoffen en preparaten, genoemd in bijlage I, deel 2, bij dat besluit: 
 
 1°. de maximale hoeveelheid waarvoor vergunning wordt gevraagd;  
 
@@ -796,7 +796,7 @@ c. per stof, genoemd in [bijlage I, deel 1, bij dat besluit](../../../../AMvB/be
 
 3°. de fysische vorm van de betrokken gevaarlijke stof of stoffen;    
 
-d. met het oog op de vaststelling van domino-effecten, voor gevaarlijke stoffen behorend tot de categorie ontplofbaar, ontvlambaar, licht ontvlambaar of zeer licht ontvlambaar, bedoeld in [bijlage I, deel 2, bij dat besluit](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md): 
+d. met het oog op de vaststelling van domino-effecten, voor gevaarlijke stoffen behorend tot de categorie ontplofbaar, ontvlambaar, licht ontvlambaar of zeer licht ontvlambaar, bedoeld in bijlage I, deel 2, bij dat besluit: 
 
 1°. een aanduiding van het grootste insluitsysteem;  
 
@@ -818,7 +818,7 @@ f. de met de onmiddellijke omgeving van de inrichting samenhangende omstandighed
 
 Indien de aanvraag betrekking heeft op een inrichting waar een stookinstallatie met een nominaal elektrisch vermogen van 300 MW of meer aanwezig is, verstrekt de aanvrager in of bij de aanvraag tevens gegevens en bescheiden met betrekking tot: 
 
-a. de aanwezigheid van een geschikt CO<sub>2</sub>-opslagcomplex als bedoeld in [artikel 1 van de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md);  
+a. de aanwezigheid van een geschikt CO<sub>2</sub>-opslagcomplex als bedoeld in artikel 1 van de Mijnbouwwet;  
 
 b. de technische en economische haalbaarheid van faciliteiten voor het transport van kooldioxide naar een CO<sub>2</sub>-opslagcomplex;  
 
@@ -856,12 +856,12 @@ k. een niet-technische samenvatting van de in dit artikel bedoelde gegevens.
 
 ####Registratie externe veiligheid
 
-1.  Indien de aanvraag betrekking heeft op het oprichten of het in werking hebben van een inrichting als bedoeld in [artikel 3, onderdelen b, e, f, g en h](../../../../AMvB/registratiebesluit/externe/veiligheid/BWBR0020724/README.md), of [artikel 4, onder b, e en f, van het Registratiebesluit externe veiligheid](../../../../AMvB/registratiebesluit/externe/veiligheid/BWBR0020724/README.md) vermeldt de aanvrager in of bij de aanvraag de volgende gegevens: 
+1.  Indien de aanvraag betrekking heeft op het oprichten of het in werking hebben van een inrichting als bedoeld in artikel 3, onderdelen b, e, f, g en h, of artikel 4, onder b, e en f, van het Registratiebesluit externe veiligheid vermeldt de aanvrager in of bij de aanvraag de volgende gegevens: 
 
 a. de ligging van zowel de 10<sup>-5</sup> per jaar contour als de 10<sup>-6</sup> per jaar contour van het plaatsgebonden risico en, indien beschikbaar, de 10<sup>-8</sup> per jaar contour van het plaatsgebonden risico, dan wel de afstanden die overeenkomen met deze waarden voor het plaatsgebonden risico indien deze afstanden door Onze Minister zijn voorgeschreven;  
 
-b. de grootte van het groepsrisico, uitgedrukt in een grafiek met op de horizontale as het aantal dodelijke slachtoffers en op de verticale as de cumulatieve kansen per jaar op ten minste dat aantal slachtoffers, dan wel voor inrichtingen waarvoor geen veiligheidsrapport verplicht is gesteld op grond van het [Besluit risico’s zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md), indien bekend de op grond van de oriënterende waarde voor het groepsrisico gemiddeld toelaatbare dichtheid van personen binnen het invloedsgebied rond de inrichting.     
-2.  Voor inrichtingen waarop het [Besluit LPG-tankstations milieubeheer](../../../../AMvB/besluit/lpg-tankstations/milieubeheer/BWBR0004327/README.md) of het [Vuurwerkbesluit](../../../../AMvB/vuurwerkbesluit/BWBR0013360/README.md) van toepassing zijn, blijft het eerste lid buiten toepassing.   
+b. de grootte van het groepsrisico, uitgedrukt in een grafiek met op de horizontale as het aantal dodelijke slachtoffers en op de verticale as de cumulatieve kansen per jaar op ten minste dat aantal slachtoffers, dan wel voor inrichtingen waarvoor geen veiligheidsrapport verplicht is gesteld op grond van het Besluit risico’s zware ongevallen 1999, indien bekend de op grond van de oriënterende waarde voor het groepsrisico gemiddeld toelaatbare dichtheid van personen binnen het invloedsgebied rond de inrichting.     
+2.  Voor inrichtingen waarop het Besluit LPG-tankstations milieubeheer of het Vuurwerkbesluit van toepassing zijn, blijft het eerste lid buiten toepassing.   
 3.  Bij de berekening van de in de onderdelen a en b van het eerste lid bedoelde gegevens wordt uitgegaan van de in de aanvraag genoemde maximale hoeveelheid gevaarlijke stof.  
 
 ### §  4.2  
@@ -883,15 +883,15 @@ b. op welke gegevens en bescheiden die eerder zijn verstrekt in het kader van de
 
 ####Veranderingen in combinatie met BRZO 1999
 
-1.  Indien de aanvraag betrekking heeft op het veranderen van een inrichting of van de werking daarvan en indien sprake is van een inrichting waarop [paragraaf 3 van het Besluit risico's zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) van toepassing is, verstrekt de aanvrager in of bij de aanvraag tevens de volgende gegevens en bescheiden: 
+1.  Indien de aanvraag betrekking heeft op het veranderen van een inrichting of van de werking daarvan en indien sprake is van een inrichting waarop paragraaf 3 van het Besluit risico's zware ongevallen 1999 van toepassing is, verstrekt de aanvrager in of bij de aanvraag tevens de volgende gegevens en bescheiden: 
 
-a. een rapport als bedoeld in artikel 4.13, eerste lid, indien het [Besluit risico's zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) voor de eerste maal van toepassing wordt ten gevolge van het veranderen van de inrichting of het veranderen van de werking ervan, of  
+a. een rapport als bedoeld in artikel 4.13, eerste lid, indien het Besluit risico's zware ongevallen 1999 voor de eerste maal van toepassing wordt ten gevolge van het veranderen van de inrichting of het veranderen van de werking ervan, of  
 
 b. een herzien rapport als bedoeld in artikel 4.13, eerste lid.     
 2.  Op een aanvraag als bedoeld in het eerste lid is artikel 4.13, tweede lid, van overeenkomstige toepassing.   
-3.  Indien de aanvraag betrekking heeft op het veranderen van een inrichting of van de werking daarvan en indien sprake is van een inrichting waarop [paragraaf 2](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) en niet tevens [paragraaf 3 van het Besluit risico's zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) van toepassing is, verstrekt de aanvrager in of bij de aanvraag tevens de volgende gegevens en bescheiden: 
+3.  Indien de aanvraag betrekking heeft op het veranderen van een inrichting of van de werking daarvan en indien sprake is van een inrichting waarop paragraaf 2 en niet tevens paragraaf 3 van het Besluit risico's zware ongevallen 1999 van toepassing is, verstrekt de aanvrager in of bij de aanvraag tevens de volgende gegevens en bescheiden: 
 
-a. de gegevens, bedoeld in artikel 4.13, derde lid, indien het [Besluit risico's zware ongevallen 1999](../../../../AMvB/besluit/risico's/zware/ongevallen/1999/BWBR0010475/README.md) voor de eerste maal van toepassing wordt ten gevolge van het veranderen van de inrichting of van de werking daarvan, of  
+a. de gegevens, bedoeld in artikel 4.13, derde lid, indien het Besluit risico's zware ongevallen 1999 voor de eerste maal van toepassing wordt ten gevolge van het veranderen van de inrichting of van de werking daarvan, of  
 
 b. herziene gegevens als bedoeld in artikel 4.13, derde lid    
 
@@ -899,14 +899,14 @@ b. herziene gegevens als bedoeld in artikel 4.13, derde lid
 
 ####Registratie externe veiligheid
 
-1.  Indien de aanvraag betrekking heeft op het veranderen van een inrichting of van de werking daarvan, vermeldt de aanvrager in of bij de aanvraag, onverminderd hetgeen is bepaald in enig ander artikel van dit hoofdstuk, de gegevens, bedoeld in artikel 4.16, indien de aanvraag ten gevolge van het veranderen van de inrichting of het veranderen van de werking ervan, voor de eerste maal betrekking heeft op een inrichting als bedoeld in [artikel 3, onderdelen b, e, f, g en h](../../../../AMvB/registratiebesluit/externe/veiligheid/BWBR0020724/README.md), of [artikel 4, onderdelen b, e en f, van het Registratiebesluit externe veiligheid](../../../../AMvB/registratiebesluit/externe/veiligheid/BWBR0020724/README.md).   
+1.  Indien de aanvraag betrekking heeft op het veranderen van een inrichting of van de werking daarvan, vermeldt de aanvrager in of bij de aanvraag, onverminderd hetgeen is bepaald in enig ander artikel van dit hoofdstuk, de gegevens, bedoeld in artikel 4.16, indien de aanvraag ten gevolge van het veranderen van de inrichting of het veranderen van de werking ervan, voor de eerste maal betrekking heeft op een inrichting als bedoeld in artikel 3, onderdelen b, e, f, g en h, of artikel 4, onderdelen b, e en f, van het Registratiebesluit externe veiligheid.   
 2.  Indien de aanvraag betrekking heeft op het veranderen van een inrichting of van de werking daarvan, vermeldt de aanvrager in of bij de aanvraag de herziene gegevens, bedoeld in artikel 4.16.  
 
 ### Artikel  4.20  
 
 ####Revisievergunning
 
-Met betrekking tot een aanvraag als bedoeld in [artikel 2.6, eerste lid, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), zijn de artikelen 4.1 tot en met 4.17 van overeenkomstige toepassing. 
+Met betrekking tot een aanvraag als bedoeld in artikel 2.6, eerste lid, van de wet, zijn de artikelen 4.1 tot en met 4.17 van overeenkomstige toepassing. 
 
 ### §  4.3  
 
@@ -916,7 +916,7 @@ Met betrekking tot een aanvraag als bedoeld in [artikel 2.6, eerste lid, van de 
 
 ####Beperkte verandering inrichting
 
-Bij een aanvraag om een vergunning als bedoeld in [artikel 3.10, derde lid, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), vermeldt de vergunninghouder: 
+Bij een aanvraag om een vergunning als bedoeld in artikel 3.10, derde lid, van de wet, vermeldt de vergunninghouder: 
 
 a. de vergunning of vergunningen krachtens welke de inrichting is opgericht dan wel in werking is;  
 
@@ -930,7 +930,7 @@ e. gegevens waaruit blijkt dat:
 
 1°. de beoogde verandering van de inrichting of van de werking daarvan niet leidt tot andere of grotere nadelige gevolgen voor het milieu dan volgens de geldende vergunning is toegestaan;  
 
-2°. geen verplichting bestaat tot het maken van een milieueffectrapport als bedoeld in [hoofdstuk 7 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+2°. geen verplichting bestaat tot het maken van een milieueffectrapport als bedoeld in hoofdstuk 7 van de Wet milieubeheer;  
 
 3°. het veranderen niet leidt tot een andere inrichting dan waarvoor eerder een vergunning is verleend.     
 
@@ -945,9 +945,9 @@ e. gegevens waaruit blijkt dat:
 1.  De artikelen 4.1 tot en met 4.20 van deze regeling zijn van overeenkomstige toepassing op de aanvraag om een vergunning met betrekking tot het oprichten of in werking hebben van een mijnbouwwerk of tot het veranderen van een mijnbouwwerk of van de werking daarvan.   
 2.  Indien bij een aanvraag om een vergunning als bedoeld in het eerste lid, een plaats, traject of gebied moet worden vermeld, wordt dit uitgedrukt in: 
 
-a. het coördinatenstelsel van de Rijksdriehoeksmeting, indien de plaats, het traject of het gebied zich aan de landzijde van de in de [bijlage bij de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md) vastgelegde lijn bevindt, en  
+a. het coördinatenstelsel van de Rijksdriehoeksmeting, indien de plaats, het traject of het gebied zich aan de landzijde van de in de bijlage bij de Mijnbouwwet vastgelegde lijn bevindt, en  
 
-b. geografische coördinaten, berekend volgens het stelsel van de Europese vereffening, indien de plaats, het traject of het gebied zich aan de zeezijde van de in de [bijlage bij de Mijnbouwwet](../../../../wet/mijnbouwwet/BWBR0014168/README.md) vastgelegde lijn bevindt.     
+b. geografische coördinaten, berekend volgens het stelsel van de Europese vereffening, indien de plaats, het traject of het gebied zich aan de zeezijde van de in de bijlage bij de Mijnbouwwet vastgelegde lijn bevindt.     
 3.  Van een gebied wordt het oppervlak vermeld, uitgedrukt in km<sup>2</sup>.   
 4.  Een plaats of een traject wordt, onder vermelding van de coördinaten daarvan, aangegeven op een kaart.   
 5.  De ligging van een gebied wordt, onder vermelding van de coördinaten van de hoekpunten daarvan, aangegeven op een kaart.   
@@ -1181,29 +1181,29 @@ d. bijzondere ruimten of bouwdelen, direct of indirect betrokken bij de activite
 
 ####Slopen in geval van een planologisch verbod
 
-In of bij de aanvraag om een vergunning voor het slopen van een bouwwerk als bedoeld in [artikel 2.1, eerste lid, onder g, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), maakt de aanvrager aannemelijk dat op de plaats van het te slopen bouwwerk een ander bouwwerk kan of zal worden gebouwd. 
+In of bij de aanvraag om een vergunning voor het slopen van een bouwwerk als bedoeld in artikel 2.1, eerste lid, onder g, van de wet, maakt de aanvrager aannemelijk dat op de plaats van het te slopen bouwwerk een ander bouwwerk kan of zal worden gebouwd. 
 
 ### Artikel  6.2  
 
 ####Slopen in een beschermd stads- of dorpsgezicht
 
-1.  In of bij de aanvraag om een vergunning voor het slopen van een bouwwerk als bedoeld in [artikel 2.1, eerste lid, onder h, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) maakt de aanvrager aannemelijk dat op de plaats van het te slopen bouwwerk een ander bouwwerk kan of zal worden gebouwd.   
-2.  Indien dat met toepassing van [artikel 41 van de Monumentenwet 1988](../../../../wet/monumentenwet/1988/BWBR0004471/README.md) is verplicht door het bevoegd gezag verstrekt de aanvrager in of bij de aanvraag, bedoeld in het eerste lid, een rapport waarin de archeologische waarde van de bodem onder het te slopen bouwwerk in voldoende mate is vastgesteld.  
+1.  In of bij de aanvraag om een vergunning voor het slopen van een bouwwerk als bedoeld in artikel 2.1, eerste lid, onder h, van de wet maakt de aanvrager aannemelijk dat op de plaats van het te slopen bouwwerk een ander bouwwerk kan of zal worden gebouwd.   
+2.  Indien dat met toepassing van artikel 41 van de Monumentenwet 1988 is verplicht door het bevoegd gezag verstrekt de aanvrager in of bij de aanvraag, bedoeld in het eerste lid, een rapport waarin de archeologische waarde van de bodem onder het te slopen bouwwerk in voldoende mate is vastgesteld.  
 
 ###Hoofdstuk 6a 
 
-####Indieningsvereisten vanwege bij algemene maatregel van bestuur als bedoeld in [artikel 2.1, eerste lid, onder i, van de wet](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) aangewezen activiteiten
+####Indieningsvereisten vanwege bij algemene maatregel van bestuur als bedoeld in artikel 2.1, eerste lid, onder i, van de wet aangewezen activiteiten
 
 ###Artikel 6.3 
 
-####Activiteiten als bedoeld in [artikel 2.2a van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md)
+####Activiteiten als bedoeld in artikel 2.2a van het besluit
 
-1.  In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in [artikel 2.2a, eerste tot en met vijfde lid, van het besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) verstrekt de aanvrager de gegevens, bedoeld in [artikel 1.10 van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) alsmede in de gevallen bedoeld in de [artikelen 1.11, vijfde lid](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [1.16](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [1.18](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [1.19 van dat besluit](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), de in de betrokken bepalingen bedoelde gegevens.   
-2.  In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in [artikel 2.2a, zesde lid, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), verstrekt de aanvrager de volgende gegevens: 
+1.  In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in artikel 2.2a, eerste tot en met vijfde lid, van het besluit verstrekt de aanvrager de gegevens, bedoeld in artikel 1.10 van het Activiteitenbesluit milieubeheer alsmede in de gevallen bedoeld in de artikelen 1.11, vijfde lid, 1.16, 1.18 en 1.19 van dat besluit, de in de betrokken bepalingen bedoelde gegevens.   
+2.  In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in artikel 2.2a, zesde lid, van het besluit, verstrekt de aanvrager de volgende gegevens: 
 
-a. ingeval sprake is van het installeren van een gesloten bodemenergiesysteem binnen een inrichting als bedoeld in [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md): de gegevens, bedoeld in [de artikel 1.10](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [1.21a van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md);  
+a. ingeval sprake is van het installeren van een gesloten bodemenergiesysteem binnen een inrichting als bedoeld in artikel 1.1, derde lid, van de Wet milieubeheer: de gegevens, bedoeld in de artikel 1.10 en 1.21a van het Activiteitenbesluit milieubeheer;  
 
-b. ingeval sprake is van het installeren van een gesloten bodemenergiesysteem buiten een inrichting als bedoeld in [artikel 1.1, derde lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md): de gegevens, bedoeld in [artikel 1.10a, derde lid, van het Besluit lozen buiten inrichtingen](../../../../AMvB/besluit/lozen/buiten/inrichtingen/BWBR0029789/README.md).   
+b. ingeval sprake is van het installeren van een gesloten bodemenergiesysteem buiten een inrichting als bedoeld in artikel 1.1, derde lid, van de Wet milieubeheer: de gegevens, bedoeld in artikel 1.10a, derde lid, van het Besluit lozen buiten inrichtingen.   
 
 ### Hoofdstuk  7  
 
@@ -1211,19 +1211,19 @@ b. ingeval sprake is van het installeren van een gesloten bodemenergiesysteem bu
 
 ### §  7.1  
 
-####Gegevens en bescheiden over activiteiten als bedoeld in [artikel 2.2, eerste lid, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md)
+####Gegevens en bescheiden over activiteiten als bedoeld in artikel 2.2, eerste lid, van de wet
 
 ### Artikel  7.1  
 
 ####Activiteit met betrekking tot een monument, slopen in een aangewezen stads- of dorpsgezicht en aanlegactiviteit
 
-Met betrekking tot de aanvraag om een vergunning voor een activiteit als bedoeld in [artikel 2.2, eerste lid, onder b, c of d, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) zijn respectievelijk hoofdstuk 5, artikel 6.2 en artikel 3.1 van overeenkomstige toepassing. 
+Met betrekking tot de aanvraag om een vergunning voor een activiteit als bedoeld in artikel 2.2, eerste lid, onder b, c of d, van de wet zijn respectievelijk hoofdstuk 5, artikel 6.2 en artikel 3.1 van overeenkomstige toepassing. 
 
 ### Artikel  7.3  
 
 ####Uitweg
 
-In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in [artikel 2.2, eerste lid, onder e, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), verstrekt de aanvrager gegevens met betrekking tot; 
+In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in artikel 2.2, eerste lid, onder e, van de wet, verstrekt de aanvrager gegevens met betrekking tot; 
 
 a. de locatie van de uitweg aan het voor-, zij- dan wel achtererf;  
 
@@ -1237,7 +1237,7 @@ d. de aanwezigheid van obstakels die in de weg staan voor het aanleggen of voor 
 
 ####Alarminstallatie
 
-In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in [artikel 2.2, eerste lid, onder f, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), verstrekt de aanvrager gegevens over: 
+In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in artikel 2.2, eerste lid, onder f, van de wet, verstrekt de aanvrager gegevens over: 
 
 a. de aard en de werking van de signalering;  
 
@@ -1247,7 +1247,7 @@ b. twee waarschuwingsadressen, inclusief telefoonnummers en namen van contactper
 
 ####Vellen van houtopstand
 
-1.  In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in [artikel 2.2, eerste lid, onder g, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), identificeert de aanvrager op de aanduiding, bedoeld in artikel 1.3, tweede lid, iedere houtopstand waarop de aanvraag betrekking heeft met een nummer.   
+1.  In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in artikel 2.2, eerste lid, onder g, van de wet, identificeert de aanvrager op de aanduiding, bedoeld in artikel 1.3, tweede lid, iedere houtopstand waarop de aanvraag betrekking heeft met een nummer.   
 2.  In of bij de aanvraag, bedoeld in het eerste lid, vermeldt de aanvrager per genummerde houtopstand: 
 
 a. de soort houtopstand;  
@@ -1262,7 +1262,7 @@ d. de mogelijkheid tot herbeplanten, alsmede het eventuele voornemen om op een d
 
 ####Handelsreclame
 
-1.  In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in [artikel 2.2, eerste lid, onder h en i, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), verstrekt de aanvrager gegevens over: 
+1.  In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in artikel 2.2, eerste lid, onder h en i, van de wet, verstrekt de aanvrager gegevens over: 
 
 a. het aantal en de afmetingen van de reclame;  
 
@@ -1277,7 +1277,7 @@ d. de tekst van de reclame.
 
 ####Opslaan roerende zaken
 
-1.  In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in [artikel 2.2, eerste lid, onder j en k, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), verstrekt de aanvrager gegevens over: 
+1.  In of bij de aanvraag om een vergunning voor een activiteit als bedoeld in artikel 2.2, eerste lid, onder j en k, van de wet, verstrekt de aanvrager gegevens over: 
 
 a. de aard van de roerende zaken;  
 
@@ -1292,7 +1292,7 @@ b. de omvang van de opslag van de roerende zaken.
 
 ####Gebieden ter bescherming van grondwater
 
-Indien de aanvraag betrekking heeft op een activiteit als bedoeld in [artikel 1.3a, eerste lid, onder a, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), verstrekt de aanvrager de volgende gegevens: 
+Indien de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 1.3a, eerste lid, onder a, van de Wet milieubeheer, verstrekt de aanvrager de volgende gegevens: 
 
 a. een beschrijving van de activiteit, daaronder begrepen gegevens omtrent constructie, afmetingen en het gebruik van installaties of andere werken alsmede de reden van de activiteit;  
 
@@ -1306,7 +1306,7 @@ d. een beschrijving van de maatregelen die worden getroffen om de nadelige gevol
 
 ####Gesloten stortplaats
 
-Indien de aanvraag betrekking heeft op een activiteit als bedoeld in [artikel 3.4 van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), verstrekt de aanvrager de volgende gegevens: 
+Indien de aanvraag betrekking heeft op een activiteit als bedoeld in artikel 3.4 van het besluit, verstrekt de aanvrager de volgende gegevens: 
 
 a. het voorgenomen gebruik van de gesloten stortplaats en van het gebied waarin de nazorgvoorzieningen zijn gelegen;  
 
@@ -1334,14 +1334,14 @@ f. de wijze van evaluatie van en rapportage over de uitvoering van de onder e be
 
 ####Gebiedsbescherming
 
-1.  In of bij de aanvraag om een vergunning als bedoeld in [hoofdstuk IX van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), vermeldt de aanvrager voor welk beschermd natuurmonument de handeling of voor welk Natura 2000-gebied het project of de handeling gevolgen heeft. Als het meerdere natuurmonumenten of gebieden betreft, worden alle vermeld. Daarbij vermeldt de aanvrager wat de precieze afstand van het project of handeling tot het natuurmonument of het gebied is en voegt op kaartbeeld de locatie van het project of handeling in relatie tot het betreffende natuurmonument of gebied bij.   
+1.  In of bij de aanvraag om een vergunning als bedoeld in hoofdstuk IX van de Natuurbeschermingswet 1998, vermeldt de aanvrager voor welk beschermd natuurmonument de handeling of voor welk Natura 2000-gebied het project of de handeling gevolgen heeft. Als het meerdere natuurmonumenten of gebieden betreft, worden alle vermeld. Daarbij vermeldt de aanvrager wat de precieze afstand van het project of handeling tot het natuurmonument of het gebied is en voegt op kaartbeeld de locatie van het project of handeling in relatie tot het betreffende natuurmonument of gebied bij.   
 2.  In of bij de aanvraag om een vergunning als bedoeld in het eerste lid vermeldt de aanvrager naast de omschrijving van de aard en de omvang van het project of handeling tevens: 
 
 a. het belang van de aanvrager bij het verlenen van de vergunning;  
 
 b. de periode(s) waarbinnen de ecologisch relevante handelingen binnen het project plaatsvinden.     
-3.  Bij een aanvraag betreffende een Natura 2000-gebied als bedoeld in het eerste lid, dient de aanvrager naast de gegevens, bedoeld in artikel 1.3 van deze regeling, een toets in indien er een mogelijke verslechtering is, maar zeker geen significante verslechtering. In deze toets worden de gevolgen gekwantificeerd en wordt onderzocht of er een reële kans bestaat dat een project of handeling een negatief gevolg heeft voor de instandhoudingsdoelstellingen, bedoeld in [artikel 10a, tweede lid, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md).   
-4.  Bij een aanvraag betreffende een Natura 2000-gebied als bedoeld in het eerste lid, dient de aanvrager naast de gegevens, bedoeld in artikel 1.3 van deze regeling, een passende beoordeling in indien er kans is op een significant gevolg, gelet op de instandhoudingsdoelstellingen, bedoeld in [artikel 10a, tweede lid, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md). De passende beoordeling bevat de volgende gegevens: 
+3.  Bij een aanvraag betreffende een Natura 2000-gebied als bedoeld in het eerste lid, dient de aanvrager naast de gegevens, bedoeld in artikel 1.3 van deze regeling, een toets in indien er een mogelijke verslechtering is, maar zeker geen significante verslechtering. In deze toets worden de gevolgen gekwantificeerd en wordt onderzocht of er een reële kans bestaat dat een project of handeling een negatief gevolg heeft voor de instandhoudingsdoelstellingen, bedoeld in artikel 10a, tweede lid, van de Natuurbeschermingswet 1998.   
+4.  Bij een aanvraag betreffende een Natura 2000-gebied als bedoeld in het eerste lid, dient de aanvrager naast de gegevens, bedoeld in artikel 1.3 van deze regeling, een passende beoordeling in indien er kans is op een significant gevolg, gelet op de instandhoudingsdoelstellingen, bedoeld in artikel 10a, tweede lid, van de Natuurbeschermingswet 1998. De passende beoordeling bevat de volgende gegevens: 
 
 a. een gebiedsbeschrijving waarbij is aangegeven voor welke instandhoudingsdoelstellingen de betreffende gebieden zijn aangewezen;  
 
@@ -1352,7 +1352,7 @@ c. een zo nauwkeurig mogelijke beschrijving van de gevolgen per individuele inst
 d. een beschrijving van de concrete maatregelen die genomen kunnen worden om de negatieve gevolgen te verzachten of te voorkomen (mitigerende maatregelen);  
 
 e. of, en zo ja in welke mate de gevolgen van het project op de instandhoudingsdoelstellingen de gevolgen van andere projecten of plannen op diezelfde instandhoudingsdoelstellingen versterken.     
-5.  Indien uit het vierde lid blijkt dat het project, ondanks mitigerende maatregelen als bedoeld in dat lid, onderdeel d, een mogelijk significante aantasting van een of meerdere instandhoudingsdoelstellingen, bedoeld in [artikel 10a, tweede lid, van de Natuurbeschermingswet 1998](../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), oplevert, worden de volgende onderdelen aan de passende beoordeling toegevoegd: 
+5.  Indien uit het vierde lid blijkt dat het project, ondanks mitigerende maatregelen als bedoeld in dat lid, onderdeel d, een mogelijk significante aantasting van een of meerdere instandhoudingsdoelstellingen, bedoeld in artikel 10a, tweede lid, van de Natuurbeschermingswet 1998, oplevert, worden de volgende onderdelen aan de passende beoordeling toegevoegd: 
 
 a. een omschrijving van alternatieve oplossingen voor hetgeen beoogd wordt met het project, waarbij voldoende aannemelijk wordt gemaakt waarom het toch beter is dat de door de aanvrager voorgestelde uitvoering wordt gekozen;  
 
@@ -1365,7 +1365,7 @@ c. een omschrijving van de compenserende maatregelen die genomen kunnen worden v
 
 ####Soortenbescherming
 
-1.  In of bij de aanvraag om een vergunning als bedoeld in [hoofdstuk V, titel III, afdeling 2a, van de Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) vermeldt de aanvrager: 
+1.  In of bij de aanvraag om een vergunning als bedoeld in hoofdstuk V, titel III, afdeling 2a, van de Flora- en faunawet vermeldt de aanvrager: 
 
 a. een beschrijving van de handelingen die uitgevoerd zullen worden;  
 
@@ -1373,7 +1373,7 @@ b. het doel en belang van de handelingen die zullen plaatsvinden;
 
 c. voor welke beschermde soorten een omgevingsvergunning wordt aangevraagd, zowel met de Nederlandse naam als de wetenschappelijke naam van de beschermde soorten;  
 
-d. voor welke verbodsbepalingen uit de [Flora- en faunawet](../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) de vergunning wordt aangevraagd.     
+d. voor welke verbodsbepalingen uit de Flora- en faunawet de vergunning wordt aangevraagd.     
 2.  In of bij de aanvraag, bedoeld in het eerste lid, dient de aanvrager een activiteitenplan in, dat bestaat uit de volgende onderdelen en gegevens: 
 
 a. een beschrijving van de aard van het gebied waarin de locatie van de handelingen is gelegen, de verspreiding van de beschermde soorten op en nabij die locatie en de functie van het gebied waarin die locatie is gelegen voor die soorten;  
@@ -1401,8 +1401,8 @@ k. een beschrijving van de eventuele maatregelen om onvermijdelijke schade aan d
 l. een ingetekende topografische kaart met de locatie van de handelingen, de verspreiding van de beschermde soorten en de locatie van de mitigerende of compenserende maatregelen.     
 3.  Indien de handeling gevolgen heeft voor vogels, geeft de aanvrager bij de vermelding van artikel 8.2, eerste lid, onderdeel b, een onderbouwing van een door de Vogelrichtlijn erkend belang.   
 4.  Indien de handeling gevolgen heeft voor soorten genoemd in bijlage IV van de Habitatrichtlijn geeft de aanvrager bij de vermelding van artikel 8.2, eerste lid, onderdeel b, een onderbouwing van een door de Habitatrichtlijn erkend belang.   
-5.  Indien de handeling gevolgen heeft voor beschermde soorten als bedoeld in [bijlage I van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) geeft de aanvrager bij de vermelding vanartikel 8.2, eerste lid, onderdeel b, een onderbouwing van eenin het [Besluit vrijstelling beschermde dier- en plantensoorten](../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md) genoemd belang.   
-6.  Indien de aanvraag gevolgen heeft voor beschermde soorten als bedoeld in [bijlage I van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md), en is aangevraagd voor de belangen, bedoeld in [artikel 2, derde lid, onderdelen h, i of j, van het Besluit vrijstelling beschermde dier- en plantensoorten](../../../../AMvB/besluit/vrijstelling/beschermde/dier-/en/plantensoorten/BWBR0011853/README.md), onderbouwt de aanvrager in of bij de aanvraag tevens: 
+5.  Indien de handeling gevolgen heeft voor beschermde soorten als bedoeld in bijlage I van het Besluit vrijstelling beschermde dier- en plantensoorten geeft de aanvrager bij de vermelding vanartikel 8.2, eerste lid, onderdeel b, een onderbouwing van eenin het Besluit vrijstelling beschermde dier- en plantensoorten genoemd belang.   
+6.  Indien de aanvraag gevolgen heeft voor beschermde soorten als bedoeld in bijlage I van het Besluit vrijstelling beschermde dier- en plantensoorten, en is aangevraagd voor de belangen, bedoeld in artikel 2, derde lid, onderdelen h, i of j, van het Besluit vrijstelling beschermde dier- en plantensoorten, onderbouwt de aanvrager in of bij de aanvraag tevens: 
 
 a. dat er geen economisch gewin plaatsvindt;  
 
@@ -1423,19 +1423,19 @@ b. dat er sprake is van zorgvuldig handelen.
 1.  Het bevoegd gezag verstrekt de gegevens, bedoeld in het tweede lid, zo spoedig mogelijk na het tijdstip waarop het de beschikking daarover heeft gekregen, aan de inspecteur ten aanzien van inrichtingen of inrichtingen behorende tot een categorie waarvan de inspecteur schriftelijk heeft aangegeven gegevens te willen ontvangen. De inspecteur geeft het tijdstip aan tot wanneer hij de gegevens wil ontvangen.   
 2.  Onder gegevens worden verstaan: 
 
-a. een afschrift van het milieueffectrapport, bedoeld in [hoofdstuk 7 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en de gegevens die daarop betrekking hebben;  
+a. een afschrift van het milieueffectrapport, bedoeld in hoofdstuk 7 van de Wet milieubeheer, en de gegevens die daarop betrekking hebben;  
 
 b. een afschrift van een vergunning en de gegevens die betrekking hebben op het verlenen, wijzigen en intrekken van een vergunning;  
 
-c. afschriften van vergunningen als bedoeld in [artikel 3.10, derde lid, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+c. afschriften van vergunningen als bedoeld in artikel 3.10, derde lid, van de wet;  
 
-d. afschriften van meldingen als bedoeld in [artikel 8.41, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), met betrekking tot het oprichten of het veranderen van een inrichting of van de werking daarvan;  
+d. afschriften van meldingen als bedoeld in artikel 8.41, eerste lid, van de Wet milieubeheer, met betrekking tot het oprichten of het veranderen van een inrichting of van de werking daarvan;  
 
-e. afschriften van besluiten met betrekking tot voorschriftenals bedoeld in [artikel 8.42 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+e. afschriften van besluiten met betrekking tot voorschriftenals bedoeld in artikel 8.42 van de Wet milieubeheer;  
 
 f. afschriften van toezichtrapporten;  
 
-g. afschriften van correspondentie met de houder van een inrichting over de naleving van het bij of krachtens de [wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) gestelde;  
+g. afschriften van correspondentie met de houder van een inrichting over de naleving van het bij of krachtens de wet gestelde;  
 
 h. afschriften van gedoogbeschikkingen en ontwerpen daarvan;  
 
@@ -1449,15 +1449,15 @@ i. afschriften van handhavingsbeschikkingen en ontwerpen daarvan.
 
 ### Artikel  9.2  
 
-Het bevoegd gezag, dan wel, in gevallen waarin een vergunning krachtens [artikel 6.2 van de Waterwet](../../../../wet/waterwet/BWBR0025458/README.md) is aangevraagd, het bestuursorgaan dat bevoegd is die vergunning te verlenen, houdt bij de bepaling van de voor de inrichting of met betrekking tot een lozing in aanmerking komende beste beschikbare technieken en monitoringeisen rekening met de relevante BBT-conclusies en Nederlandse informatiedocumenten over beste beschikbare technieken, die zijn opgenomen in de bij deze regeling behorende bijlage.
+Het bevoegd gezag, dan wel, in gevallen waarin een vergunning krachtens artikel 6.2 van de Waterwet is aangevraagd, het bestuursorgaan dat bevoegd is die vergunning te verlenen, houdt bij de bepaling van de voor de inrichting of met betrekking tot een lozing in aanmerking komende beste beschikbare technieken en monitoringeisen rekening met de relevante BBT-conclusies en Nederlandse informatiedocumenten over beste beschikbare technieken, die zijn opgenomen in de bij deze regeling behorende bijlage.
 
 ### Artikel  9.3  
 
 1.  Indien het bevoegd gezag vergunningvoorschriften vaststelt op basis van een beste beschikbare techniek die niet in een van de desbetreffende BBT-conclusies staat beschreven: 
 
-a. zorgt hij ervoor dat de techniek wordt bepaald rekening houdend met [artikel 5.4, derde lid, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), en  
+a. zorgt hij ervoor dat de techniek wordt bepaald rekening houdend met artikel 5.4, derde lid, van het besluit, en  
 
-b. is [artikel 5.5, zesde en zevende lid, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) van overeenkomstige toepassing.     
+b. is artikel 5.5, zesde en zevende lid, van het besluit van overeenkomstige toepassing.     
 2.  Indien de in het eerste lid genoemde BBT-conclusies geen met de beste beschikbare technieken geassocieerde emissieniveaus bevatten, zorgt het bevoegd gezag ervoor dat de in het eerste lid bedoelde methode een niveau van milieubescherming garandeert dat gelijkwaardig is aan dat van de beste beschikbare technieken als beschreven in de BBT-conclusies.  
 
 ### Artikel  9.4  
@@ -1489,32 +1489,32 @@ b. beoordeelt het bevoegd gezag ten minste jaarlijks de resultaten van de monito
 
 1.  In deze paragraaf wordt verstaan onder: 
 
-*bestuursorgaan:* bestuursorgaan als bedoeld in [artikel 5.3, tweede lid, van de wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+*bestuursorgaan:* bestuursorgaan als bedoeld in artikel 5.3, tweede lid, van de wet;  
 
-*bepaalde bij of krachtens de wet:* bepaalde bij of krachtens de [wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) met betrekking tot activiteiten met betrekking tot een inrichting.     
-2.  In deze paragraaf wordt, behoudens voor zover wordt gesproken van strafrechtelijke handhaving, onder ‘handhaving’ verstaan: bestuursrechtelijke handhaving van het bepaalde bij of krachtens de [wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of het bij of krachtens de betrokken wetten bepaalde.  
+*bepaalde bij of krachtens de wet:* bepaalde bij of krachtens de wet met betrekking tot activiteiten met betrekking tot een inrichting.     
+2.  In deze paragraaf wordt, behoudens voor zover wordt gesproken van strafrechtelijke handhaving, onder ‘handhaving’ verstaan: bestuursrechtelijke handhaving van het bepaalde bij of krachtens de wet of het bij of krachtens de betrokken wetten bepaalde.  
 
 ### Artikel  10.2  
 
 ####Reikwijdte
 
-Deze afdeling is van toepassing op de handhaving van het bepaalde bij of krachtens de [wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of de betrokken wetten. 
+Deze afdeling is van toepassing op de handhaving van het bepaalde bij of krachtens de wet of de betrokken wetten. 
 
 ### Artikel  10.3  
 
 ####Handhavingsbeleid
 
-1.  De analyse van de problemen, bedoeld in [artikel 7.2, tweede lid, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), geeft in ieder geval inzicht in: 
+1.  De analyse van de problemen, bedoeld in artikel 7.2, tweede lid, van het besluit, geeft in ieder geval inzicht in: 
 
-a. de gevolgen voor de fysieke leefomgeving van overtredingen van het bepaalde bij of krachtens de [wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of het bij of krachtens de betrokken wetten bepaalde;  
+a. de gevolgen voor de fysieke leefomgeving van overtredingen van het bepaalde bij of krachtens de wet of het bij of krachtens de betrokken wetten bepaalde;  
 
 b. de kansen dat overtredingen als bedoeld onder a zullen plaatsvinden.     
-2.  Tot de onderwerpen met betrekking waartoe de strategie, bedoeld in [artikel 7.2, vierde lid, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), inzicht geeft, behoren voorts: 
+2.  Tot de onderwerpen met betrekking waartoe de strategie, bedoeld in artikel 7.2, vierde lid, van het besluit, inzicht geeft, behoren voorts: 
 
-a. de wijze waarop de naleving van het bepaalde bij of krachtens de [wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of het bij of krachtens de betrokken wetten bepaalde wordt bevorderd;  
+a. de wijze waarop de naleving van het bepaalde bij of krachtens de wet of het bij of krachtens de betrokken wetten bepaalde wordt bevorderd;  
 
-b. de voorlichting aan personen die een inrichting drijven, inzake de voor hen krachtens het bepaalde bij of krachtens de [wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of de betrokken wetten geldende voorschriften.     
-3.  Tot de in [artikel 7.2, vierde lid, onder a, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) bedoelde wijze waarop het toezicht op de naleving van het bepaalde bij of krachtens de [wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of het bij of krachtens de betrokken wetten bepaalde, wordt uitgeoefend, behoort in ieder geval: 
+b. de voorlichting aan personen die een inrichting drijven, inzake de voor hen krachtens het bepaalde bij of krachtens de wet of de betrokken wetten geldende voorschriften.     
+3.  Tot de in artikel 7.2, vierde lid, onder a, van het besluit bedoelde wijze waarop het toezicht op de naleving van het bepaalde bij of krachtens de wet of het bij of krachtens de betrokken wetten bepaalde, wordt uitgeoefend, behoort in ieder geval: 
 
 a. de wijze waarop de controle ter plaatse wordt voorbereid en uitgeoefend;  
 
@@ -1522,12 +1522,12 @@ b. de frequentie waarmee routinematige controlebezoeken worden afgelegd, waarbij
 
 c. de wijze waarop zakelijke gegevens en bescheiden worden gecontroleerd;  
 
-d. de wijze waarop het toezicht wordt uitgeoefend op de naleving van het bepaalde bij of krachtens de [wet](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) of het bij of krachtens de betrokken wetten bepaalde ten aanzien van stoffen, trillingen, en warmte die of geluid dat, direct of indirect vanuit een bron in de lucht, het water of de bodem, worden onderscheidenlijk wordt gebracht;  
+d. de wijze waarop het toezicht wordt uitgeoefend op de naleving van het bepaalde bij of krachtens de wet of het bij of krachtens de betrokken wetten bepaalde ten aanzien van stoffen, trillingen, en warmte die of geluid dat, direct of indirect vanuit een bron in de lucht, het water of de bodem, worden onderscheidenlijk wordt gebracht;  
 
 e. de wijze waarop de controle en verificatie plaatsvinden van de resultaten van de controles die zijn uitgevoerd door personen die een inrichting drijven.     
-4.  Tot de afspraken, bedoeld in [artikel 7.2, vijfde lid, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), behoren in ieder geval de afspraken die zijn gemaakt over: 
+4.  Tot de afspraken, bedoeld in artikel 7.2, vijfde lid, van het besluit, behoren in ieder geval de afspraken die zijn gemaakt over: 
 
-a. de uitvoering van [artikelen 18.2a, eerste lid](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), en [18.2b, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) en [artikel 95, derde lid, van de Wet bodembescherming](../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+a. de uitvoering van artikelen 18.2a, eerste lid, en 18.2b, eerste lid, van de Wet milieubeheer en artikel 95, derde lid, van de Wet bodembescherming;  
 
 b. de handhaving van het bij of krachtens de betrokken wetten bepaalde omtrent handelingen met betrekking tot stoffen, preparaten of andere producten;  
 
@@ -1545,19 +1545,19 @@ a. stelt het bevoegd gezag een verslag op waarin de relevante bevindingen over d
 
 b. zendt het bevoegd gezag het verslag, bedoeld onder a, binnen twee maanden aan de vergunninghouder;  
 
-c. stelt het bevoegd gezag het verslag binnen vier maanden voor eenieder op verzoek beschikbaar, waarbij de [artikelen 19.3 tot en met 19.5 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van overeenkomstige toepassing zijn.  
+c. stelt het bevoegd gezag het verslag binnen vier maanden voor eenieder op verzoek beschikbaar, waarbij de artikelen 19.3 tot en met 19.5 van de Wet milieubeheer van overeenkomstige toepassing zijn.  
 
 ### Artikel  10.4  
 
 ####Uitvoeringsprogramma
 
-Het bestuursorgaan werkt het uitvoeringsprogramma, bedoeld in [artikel 7.3, eerste lid, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), uit in werkplannen voor de betrokken onderdelen van zijn organisatie. 
+Het bestuursorgaan werkt het uitvoeringsprogramma, bedoeld in artikel 7.3, eerste lid, van het besluit, uit in werkplannen voor de betrokken onderdelen van zijn organisatie. 
 
 ### Artikel  10.5  
 
 ####Uitvoeringsorganisatie
 
-Ter waarborging van een adequate en objectieve uitvoering van het handhavingsbeleid, bedoeld in [artikel 7.4, eerste lid, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md), draagt het bestuursorgaan er zorg voor dat: 
+Ter waarborging van een adequate en objectieve uitvoering van het handhavingsbeleid, bedoeld in artikel 7.4, eerste lid, van het besluit, draagt het bestuursorgaan er zorg voor dat: 
 
 a. de personen die zijn belast met werkzaamheden in het kader van de handhaving adequaat zijn opgeleid of zo nodig worden opgeleid op basis van een opleidingsplan;  
 
@@ -1571,7 +1571,7 @@ d. instrumenten en apparaten die bij de handhaving worden gebruikt in een goede 
 
 ####Monitoring
 
-Tot de in [artikel 7.6, tweede lid, van het besluit](../../../../AMvB/besluit/omgevingsrecht/BWBR0027464/README.md) bedoelde gegevens behoren in ieder geval gegevens betreffende het aantal: 
+Tot de in artikel 7.6, tweede lid, van het besluit bedoelde gegevens behoren in ieder geval gegevens betreffende het aantal: 
 
 a. uitgevoerde controles;  
 

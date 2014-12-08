@@ -22,7 +22,7 @@ The Government of the Kingdom of the Netherlands in respect of Curaçao, Sint Ma
 
 a) in the case of the United States of America, all federal taxes;  
 
-b) in the case of Curaçao, Sint Maarten and the Caribbean part of the Netherlands, the following taxes: the income tax (inkomstenbelasting), the wages tax (loonbelasting), the profit tax (winstbelasting) and the surtaxes on the income and profit taxes (hereinafter referred to as the taxes of Curaçao, Sint Maarten and the Caribbean part of the Netherlands).     
+b) in the case of Curaçao, Sint Maarten and the Caribbean part of the Netherlands, the following taxes: the income tax (inkomstenbelasting), the wages tax (loonbelasting), the profit tax (winstbelasting) and the surtaxes on the income and profit taxes (hereinafter referred to as “Curaçao, Sint Maarten and the Caribbean part of the Netherlands taxes”).     
 2.   This Agreement shall apply also to any identical or substantially similar taxes imposed after the date of signature of the Agreement in addition to or in place of the existing taxes. The competent authority of each Contracting State shall notify the other of changes in laws which may affect the obligations of that State pursuant to this Agreement.   
 3.   This Agreement shall not apply to the extent that an action or proceeding concerning taxes covered by this Agreement is barred by the applicant State's statute of limitations.   
 4.   This Agreement shall not apply to taxes imposed by states, municipalities or other political subdivisions, or possessions of a Contracting State.  

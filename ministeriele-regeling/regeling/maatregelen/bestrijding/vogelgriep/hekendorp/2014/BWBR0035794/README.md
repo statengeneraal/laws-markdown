@@ -16,23 +16,21 @@ a.  *bedrijf:* landbouwbedrijf of ander bedrijf, met inbegrip van een circus of 
 
 b.  *beschermingsgebied:* door de minister aangewezen gebied met een straal van ten minste 3 km rondom een besmet bedrijf;  
 
-c.  *BT-gebied:* het gebied dat bestaat uit de op grond van artikel 2 aangewezen beschermings- en toezichtsgebieden;  
+c.  *commercieel gehouden gevogelte:* gevogelte bestemd voor de productie van vlees, eieren of andere producten, voor het uitzetten in het wild, of het fokken van gevogelte voor deze doeleinden, met de bedoeling geld te verdienen;  
 
-d.  *commercieel gehouden gevogelte:* gevogelte bestemd voor de productie van vlees, eieren of andere producten, voor het uitzetten in het wild, of het fokken van gevogelte voor deze doeleinden, met de bedoeling geld te verdienen;  
+d.  *gevogelte:* pluimvee, alsmede andere vogels in gevangenschap gehouden of gefokt;  
 
-e.  *gevogelte:* pluimvee, alsmede andere vogels in gevangenschap gehouden of gefokt;  
+e.  *goedgekeurd hygiëneprotocol:* set praktische hygiëneregels ter bevordering van de bioveiligheid in een specifieke situatie, zoveel mogelijk in overeenstemming met de beginselen en procedures voor reiniging en ontsmetting, bedoeld in bijlage VI bij richtlijn 2005/94/EG, en goedgekeurd door de minister van Economische Zaken;  
 
-f.  *goedgekeurd hygiëneprotocol:* set praktische hygiëneregels ter bevordering van de bioveiligheid in een specifieke situatie, zoveel mogelijk in overeenstemming met de beginselen en procedures voor reiniging en ontsmetting, bedoeld in bijlage VI bij richtlijn 2005/94/EG, en goedgekeurd door de minister van Economische Zaken;  
+f.  *mest:* uitwerpselen en urine van dieren, met uitzondering van gekweekte vissen, met of zonder strooisel;  
 
-g.  *mest:* uitwerpselen en urine van dieren, met uitzondering van gekweekte vissen, met of zonder strooisel;  
+g.  *regio:* door de minister in de Regeling maatregelen regio's bestrijding vogelgriep 2014 aangewezen regio;  
 
-h.  *regio:* door de minister in de Regeling maatregelen regio's bestrijding vogelgriep 2014 aangewezen regio;  
+h.  *toezichtsgebied:* door de minister aangewezen gebied rondom het beschermingsgebied, met een straal van ten minste 10 km rondom een besmet bedrijf;  
 
-i.  *toezichtsgebied:* door de minister aangewezen gebied rondom het beschermingsgebied, met een straal van ten minste 10 km rondom een besmet bedrijf;  
+i.  *vogelverblijfplaats:* kooi, volière, terrein, of gebouw met uitzondering van de menselijke woonruimte, waar gevogelte aanwezig is of pleegt te worden gehouden, en aanverwante ruimtes waar materiaal ten behoeve van het gevogelte is opgeslagen of pleegt te worden opgeslagen;  
 
-j.  *vogelverblijfplaats:* kooi, volière, terrein, of gebouw met uitzondering van de menselijke woonruimte, waar gevogelte aanwezig is of pleegt te worden gehouden, en aanverwante ruimtes waar materiaal ten behoeve van het gevogelte is opgeslagen of pleegt te worden opgeslagen;  
-
-k.  *vervoermiddel:* voertuig en materieel, waaronder mede begrepen een combinatie van een voertuig met één of meer door dat voertuig voortbewogen aanhangwagens, opleggers of containers.   
+j.  *vervoermiddel:* voertuig en materieel, waaronder mede begrepen een combinatie van een voertuig met één of meer door dat voertuig voortbewogen aanhangwagens, opleggers of containers.   
 
 ### Artikel  2  
 
@@ -44,16 +42,16 @@ a. beschermingsgebied: gebied als bedoeld in bijlage 1;
 
 b. toezichtsgebied: gebied als bedoeld in bijlage 2.     
 2.  In het in het eerste lid bedoelde beschermingsgebied en het toezichtsgebied zijn de artikelen 3 tot en met 17 van toepassing.   
-3.  Voor zover de in de artikelen 3 tot en met 11 gegeven vervoersverboden betrekking hebben op vervoer dat mede plaats vindt in de regio waarin het BT-gebied is gelegen, zijn deze artikelen ook van toepassing in deze regio.   
+3.  Voor zover vervoer overeenkomstig de artikelen 3 tot en met 11 plaatsvindt binnen een beschermingsgebied of een toezichtsgebied en dit vervoer mede plaatsvindt buiten deze gebieden wordt ook tijdens het vervoer buiten deze gebieden voldaan aan het bepaalde in de artikelen 3 tot en met 11.   
 4.  Voor zover deze regeling verdergaande voorschriften bevat dan die van de Regeling maatregelen regio's bestrijding vogelgriep 2014 gaan de voorschriften van deze regeling boven die voorschriften.  
 
 ### Artikel  3  
 
 ####Vervoer gevogelte
 
-1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van gevogelte binnen de regio waarin het BT-gebied is gelegen is verboden.   
-2.  In afwijking van het eerste lid is het vervoer van gevogelte binnen het BT-gebied toegestaan indien het vervoer over de autosnelweg of per spoor betreft zonder dat daarbij in het gebied wordt gestopt.   
-3.  In afwijking van het eerste lid is het vervoer van gevogelte binnen de regio waarin het BT-gebied is gelegen ten behoeve van de slacht toegestaan, indien: 
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van gevogelte is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van gevogelte toegestaan indien het vervoer over de autosnelweg of per spoor betreft zonder dat daarbij in het gebied wordt gestopt.   
+3.  In afwijking van het eerste lid is het vervoer van gevogelte ten behoeve van de slacht toegestaan, indien: 
 
 a. de dieren rechtstreeks naar een door de minister aangewezen slachthuis worden vervoerd;  
 
@@ -67,16 +65,20 @@ d. voldaan wordt aan de voorwaarden, bedoeld in artikel 23, eerste lid, van Rich
 
 ####Vervoer eieren
 
-1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van eieren, binnen de regio waarin het BT-gebied is gelegen is verboden.   
-2.  In afwijking van het eerste lid is het vervoer van eieren binnen de regio waarin het BT-gebied is gelegen, toegestaan indien het vervoer over de autosnelweg of per spoor betreft zonder dat daarbij in het gebied wordt gestopt.   
-3.  In afwijking van het eerste lid is het vervoer van eieren binnen de regio waarin het BT-gebied is gelegen, toegestaan indien: 
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van eieren is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van eieren toegestaan indien het vervoer over de autosnelweg of per spoor betreft zonder dat daarbij in het gebied wordt gestopt.   
+3.  In afwijking van het eerste lid is het vervoer van eieren toegestaan indien: 
 
 a. de eieren vanaf een bedrijf rechtstreeks worden vervoerd naar een inrichting als bedoeld in artikel 26, tweede lid, van Richtlijn 2005/94/EG,  
 
 b. het vervoer geschiedt overeenkomstig een goedgekeurd hygiëneprotocol, en  
 
-d. voldaan wordt aan de voorwaarden, bedoeld in artikel 26, tweede lid, van Richtlijn 2005/94/EG.     
-4.  In afwijking van het eerste lid, is het vervoer van eieren voorts toegestaan, indien het betreft het vervoer van consumptie-eieren van een inrichting als bedoeld in het tweede lid al dan niet via distributiecentra naar verkooppunten en vanaf verkooppunten.  
+c. voldaan wordt aan de voorwaarden, bedoeld in artikel 26, tweede lid, van Richtlijn 2005/94/EG.    
+4. In afwijking van het eerste lid is het vervoer van eieren voorts toegestaan indien het betreft het vervoer van consumptie-eieren: 
+
+a. van een pakstation naar een inrichting als bedoeld in het derde lid;  
+
+b. van een inrichting als bedoeld in het derde lid al dan niet via distributiecentra naar verkooppunten en vanaf verkooppunten.   
 
 ### Artikel  5  
 
@@ -87,18 +89,19 @@ d. voldaan wordt aan de voorwaarden, bedoeld in artikel 26, tweede lid, van Rich
 
 a. het vlees afkomstig is van gevogelte van buiten het beschermingsgebied en bij opslag en vervoer gescheiden is gehouden van vlees van gevogelte van binnen het beschermingsgebied, of;  
 
-b. het vlees ten minste 21 dagen voor de datum waarop het BT-gebied is ingesteld in het beschermingsgebied is geproduceerd en sinds die datum niet is vervoerd en opgeslagen met vlees dat na die datum is geproduceerd.    
+b. het vlees ten minste 21 dagen voor de datum waarop het gebied, bedoeld in artikel 2, eerste lid, onderdeel a, is aangewezen in het beschermingsgebied is geproduceerd en sinds die datum niet is vervoerd en opgeslagen met vlees dat na die datum is geproduceerd.    
 
 ### Artikel  6  
 
 ####Vervoer andere dieren
 
-1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van commercieel gehouden dieren, anders dan gevogelte, vanaf een bedrijf met commercieel gehouden gevogelte, binnen de regio waarin het BT-gebied is gelegen, is verboden.   
-2.  In afwijking van het eerste lid is het vervoer van commercieel gehouden dieren, anders dan gevogelte, binnen de regio waarin het BT-gebied is gelegen toegestaan, indien de dieren rechtstreeks worden vervoerd naar de plaats van bestemming, niet zijnde een bedrijf met commercieel gehouden gevogelte.   
-3.  Het aanvoeren van gedomesticeerde zoogdieren op een bedrijf met commercieel gehouden gevogelte en het afvoeren van gedomesticeerde zoogdieren van een bedrijf met commercieel gehouden gevogelte is verboden.   
-4.  In afwijking van het derde lid, is de aanvoer en afvoer van gedomesticeerde zoogdieren toegestaan, indien: 
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van commercieel gehouden dieren, anders dan gevogelte, afkomstig van of naar een bedrijf met commercieel gehouden gevogelte, is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van commercieel gehouden dieren, anders dan gevogelte, afkomstig van een bedrijf met commercieel gehouden gevogelte toegestaan, indien de dieren rechtstreeks worden vervoerd naar een locatie anders dan een bedrijf met commercieel gehouden gevogelte.   
+3.  In afwijking van het eerste lid is het vervoer van commercieel gehouden dieren, anders dan gevogelte, naar een bedrijf met commercieel gehouden gevogelte toegestaan, indien de dieren afkomstig zijn van een locatie anders dan een bedrijf met commercieel gehouden gevogelte.  
+4.  Het aanvoeren van gedomesticeerde zoogdieren op een bedrijf met commercieel gehouden gevogelte en het afvoeren van gedomesticeerde zoogdieren van een bedrijf met commercieel gehouden gevogelte is verboden.   
+5.  In afwijking van het vierde lid, is de aanvoer en afvoer van gedomesticeerde zoogdieren toegestaan, indien: 
 
-a. voor zover van toepassing, het vervoer van deze dieren op grond van het eerste en tweede lid is toegestaan, en  
+a. voor zover van toepassing, het vervoer van deze dieren op grond van het eerste tot en met derde lid is toegestaan, en  
 
 b. indien het gezelschapsdieren betreft, de dieren alleen toegang hebben tot voor mensen bestemde leefruimten, waar zij: 
 
@@ -110,46 +113,45 @@ ii. geen toegang hebben tot plaatsen waar gevogelte wordt gehouden.
 
 ####Vervoer sperma
 
-1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel over de openbare weg, van sperma ten behoeve van de bevruchting van gevogelte, binnen de regio waarin het BT-gebied is gelegen is verboden.   
-2.  In afwijking van het eerste lid is het vervoer van sperma binnen de regio waarin het BT-gebied is gelegen, toegestaan indien dit, bij aanvoer op een bedrijf met commercieel gehouden gevogelte, aan de openbare weg wordt afgeleverd.  
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel over de openbare weg, van sperma ten behoeve van de bevruchting van gevogelte afkomstig van of naar een bedrijf met commercieel gehouden gevogelte, is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van sperma toegestaan indien dit aan de openbare weg wordt opgehaald of afgeleverd.  
 
 ### Artikel  8  
 
 ####Vervoer diervoeders
 
-1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel over de openbare weg, van diervoeders voor gevogelte en andere commercieel gehouden dieren naar bedrijven met commercieel gehouden gevogelte, binnen de regio waarin het BT-gebied is gelegen, is verboden.   
-2.  In afwijking van het eerste lid is het vervoer van diervoeders toegestaan, indien: 
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel over de openbare weg, van diervoeders voor gevogelte en andere commercieel gehouden dieren naar bedrijven met commercieel gehouden gevogelte, afkomstig van of naar een bedrijf met commercieel gehouden gevogelte is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van diervoeders naar een bedrijf met commercieel gehouden gevogelte binnen een regio toegestaan, indien: 
 
-a. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol;  
+a. per door de vervoerder af te leggen route maximaal één bedrijf met commercieel gehouden gevogelte wordt bezocht;  
 
-b. er per door de vervoerder af te leggen route bij maximaal één bedrijf met commercieel gehouden pluimvee wordt afgeleverd, welk bedrijf als laatste wordt bezocht.     
-3.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van diervoeders voor gevogelte en andere commercieel gehouden dieren afkomstig van bedrijven met commercieel gehouden gevogelte, binnen de regio waarin het BT-gebied is gelegen, is verboden.  
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.    
 
 ### Artikel  9  
 
 ####Vervoer melk
 
-1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van rauwe melk en melkproducten, afkomstig van een bedrijf met commercieel gehouden gevogelte, binnen de regio waarin het BT-gebied is gelegen, is verboden.   
-2.  In afwijking van het eerste lid is het vervoer van rauwe melk en melkproducten toegestaan indien: 
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van rauwe melk en melkproducten, afkomstig van een bedrijf met commercieel gehouden gevogelte, is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van rauwe melk en melkproducten toegestaan, indien: 
 
-a. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol;  
+a. per door de vervoerder af te leggen route maximaal één bedrijf met commercieel gehouden gevogelte wordt bezocht;  
 
-b. er per door de vervoerder af te leggen route bij maximaal één bedrijf met commercieel gehouden pluimvee rauwe melk of melkproducten worden opgehaald, welk bedrijf als laatste wordt bezocht.    
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.    
 
 ### Artikel  10  
 
 ####Vervoer mest
 
-1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van mest van gevogelte binnen de regio waarin het BT-gebied is gelegen, is verboden.   
-2.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van mest van commercieel gehouden dieren, anders dan gevogelte, afkomstig van een bedrijf met commercieel gehouden gevogelte, binnen de regio waarin het BT-gebied is gelegen, is verboden.   
-3.  In afwijking van het tweede lid is het vervoer binnen de regio waarin het BT-gebied is gelegen van mest van commercieel gehouden dieren, anders dan gevogelte, afkomstig van een bedrijf, binnen de regio waarin het BT-gebied is gelegen toegestaan indien het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.   
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van mest van gevogelte is verboden.   
+2.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van mest van commercieel gehouden dieren, anders dan gevogelte, afkomstig van een bedrijf met commercieel gehouden gevogelte, is verboden.   
+3.  In afwijking van het tweede lid is het vervoer van mest van commercieel gehouden dieren, anders dan gevogelte, toegestaan indien het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.   
 4.  Het eerste tot en met derde lid zijn van overeenkomstige toepassing op het aanwenden van mest.  
 
 ### Artikel  11  
 
 ####Vervoer karkassen
 
-1.  Het vervoer van karkassen van gevogelte over de openbare weg, met inbegrip van verplaatsing zonder vervoermiddel, binnen de regio waarin het BT-gebied is gelegen is verboden.   
+1.  Het vervoer van karkassen van gevogelte over de openbare weg, met inbegrip van verplaatsing zonder vervoermiddel is verboden.   
 2.  In afwijking van het eerste lid is het vervoer van karkassen van gevogelte toegestaan, indien dit vervoer rechtstreeks plaatsvindt ter verwijdering van de karkassen.  
 
 ### Artikel  12  
@@ -171,9 +173,11 @@ b. monteurs, loonwerkers, dierenartsen en bedrijfsverzorgers, indien er een acuu
 
 c. dierenartsen, indien hun bezoek plaatsvindt in het kader van een aan hen ingevolge wet- of regelgeving opgedragen verplichting of taak,  
 
-d. medewerkers van vangploegen, en 
+d. medewerkers van vangploegen, reinigingsploegen en entploegen; 
 
-e. in noodsituaties: brandstofleveranciers of stikstof (N<sub>2</sub>) leveranciers, en hun vervoermiddelen, mits zij reinigings- en ontsmettingsmaatregelen hebben genomen in overeenstemming met een goedgekeurd hygiëneprotocol en zij hun bezoek registreren. In een acute noodsituatie geldt geen registratieplicht voor de in onderdeel a genoemde personen.     
+e. controleurs van een privaat kwaliteitssysteem, voor zover zij controles uitvoeren op voorschriften van een privaat kwaliteitssysteem die betrekking hebben op hygiëne, en 
+
+f. in noodsituaties: brandstofleveranciers of stikstof (N<sub>2</sub>) leveranciers, en hun vervoermiddelen, mits zij reinigings- en ontsmettingsmaatregelen hebben genomen in overeenstemming met een goedgekeurd hygiëneprotocol en zij hun bezoek registreren. In een acute noodsituatie geldt geen registratieplicht voor de in onderdeel a genoemde personen.     
 3.  Het in het eerste lid bedoelde verbod is niet van toepassing op personeel, mits het: 
 
 a. reinigings- en ontsmettingsmaatregelen heeft genomen in overeenstemming met een goedgekeurd hygiëneprotocol, en  
@@ -208,11 +212,13 @@ d. datum en tijdstip van aankomst en vertrek van de bezoeker.
 
 1.  In afwijking van artikel 31 Flora- en faunawet is het verboden te jagen.   
 2.  Het is verboden in het wild levende dieren te vangen of te doden. Daartoe zijn alle bestaande aanwijzingen, toestemmingen, vrijstellingen en ontheffingen op grond van de artikelen 65, 67, 68, 72 en 75 van de Flora- en Faunawet opgeschort.   
-3.  De verboden, bedoeld in het eerste en tweede lid zijn niet van toepassing indien: 
+3.  De verboden, bedoeld in het eerste en tweede lid, zijn niet van toepassing indien het jagen, doden of vangen geschiedt: 
 
-a. het jagen, doden of vangen geschiedt ter bescherming van de veiligheid van het luchtverkeer,  
+a. ter bescherming van de veiligheid van het luchtverkeer;  
 
-b. ter bestrijding van muskusratten.   
+b. ter bestrijding van muskusratten;  
+
+c. ter voorkoming van schade door konijnen op industrieterreinen.   
 
 ### Artikel  17  
 

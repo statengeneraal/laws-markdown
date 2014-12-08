@@ -5,6 +5,9 @@
 De Staatssecretaris van Economische Zaken,  
 Gelet op artikel 9 van Richtlijn 89/662/EEG van de Raad van de Europese Gemeenschappen van 11 december 1989 inzake veterinaire controles in het intracommunautaire handelsverkeer in het vooruitzicht van de totstandkoming van de interne markt (PbEG 1989, L395); artikel 10, eerste lid, van Richtlijn nr. 90/425/EEG van de Raad van 26 juni 1990 inzake veterinaire en zoötechnische controles in het intracommunautaire handelsverkeer in bepaalde levende dieren en produkten in het vooruitzicht van de totstandbrenging van de interne markt (PbEG 1990, L 224); artikelen 1, tweede lid, 10, tweede lid, en 32, eerste lid, van Richtlijn 2005/94/EG van de Raad van 20 december 2005 betreffende communautaire maatregelen ter bestrijding van aviaire influenza en tot intrekking van Richtlijn 92/40/EEG (PbEU 2006, L 10), en de artikelen 17, 18, 30, eerste en derde lid, 31 en 32 van de Gezondheids- en welzijnswet voor dieren;
 Besluit:    
+### §  1  
+
+####Begripsbepalingen en toepassingsbereik
 
 ### Artikel  1  
 
@@ -36,9 +39,22 @@ j.  *vervoermiddel:* voertuig en materieel, waaronder mede begrepen een combinat
 
 ####Aanwijzing regio’s
 
-1.  De minister wijst aan als regio’s: de regio’s opgenomen in bijlagen 1 tot en met 4.   
-2.  In een regio als bedoeld in het eerste lid gelden de voorschriften opgenomen in de artikelen 3 tot en met 17.   
-3.  Indien een deel van een regio tevens is aangewezen als beschermingsgebied of toezichtsgebied, gelden de meest verstrekkende voorschriften op grond van deze regeling en op grond van de regeling waarin de voorschriften voor het beschermingsgebied of toezichtsgebied zijn opgenomen.  
+1.  De minister wijst aan als regio’s: 
+
+a. regio A: regio A (west-Nederland) als bedoeld in bijlage 1;  
+
+b. regio B: regio B (midden-Nederland) als bedoeld in bijlage 2;  
+
+c. regio C: regio C (zuid-Nederland) als bedoeld in bijlage 3;  
+
+d. regio D: regio D (noord-Nederland) als bedoeld in bijlage 4.     
+2.  In de in het eerste lid bedoelde regio A zijn de artikelen 3 tot en met 17 van toepassing.   
+3.  In de in het eerste lid bedoelde regio B, C en D zijn de artikelen 17a tot en met 17m van toepassing.   
+4.  Indien een deel van een regio tevens is aangewezen als beschermingsgebied of toezichtsgebied, gelden in dat deel van die regio de meest verstrekkende voorschriften op grond van deze regeling en op grond van de regeling waarin de voorschriften voor het beschermingsgebied of toezichtsgebied zijn opgenomen.  
+
+### §  2  
+
+####Maatregelen regio A
 
 ### Artikel  3  
 
@@ -47,46 +63,36 @@ j.  *vervoermiddel:* voertuig en materieel, waaronder mede begrepen een combinat
 1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van gevogelte, binnen een regio, de invoer in een regio en de uitvoer uit een regio is verboden.   
 2.  In afwijking van het eerste lid is het vervoer binnen een regio van gevogelte, niet zijnde eenden, afkomstig van een bedrijf binnen een regio, ten behoeve van de slacht, binnen een regio toegestaan, indien: 
 
-a. de dieren rechtstreeks naar een slachthuis worden vervoerd;  
+a.de dieren rechtstreeks worden vervoerd naar een slachthuis binnen dezelfde regio; 
 
-b. het vervoer geschiedt overeenkomstig een goedgekeurd hygiëneprotocol;  
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol;  
 
-c. een verklaring, die minder dan 24 uur oud is, van een dierenarts aanwezig is dat de dieren op basis van een klinische inspectie geen ziekteverschijnselen vertonen;  
-
-d. voor zover het vervoer in regio A als bedoeld in bijlage 1 naar een slachterij als bedoeld in: 
-
-i. het vierde lid, onderdeel a, sub i en sub ii, betreft, het vervoer alleen op zaterdag plaatsvindt;  
-
-ii. het vierde lid, onderdeel a, sub iii, betreft, het vervoer alleen op donderdag, vrijdag of zaterdag plaatsvindt.      
+c. een verklaring, die minder dan 24 uur oud is, van een dierenarts aanwezig is dat de dieren op basis van een klinische inspectie geen ziekteverschijnselen vertonen.     
 3.  In afwijking van het eerste lid is het vervoer binnen een regio van eenden, afkomstig van een bedrijf binnen een regio, ten behoeve van de slacht binnen een regio toegestaan, indien: 
 
-a. de dieren rechtstreeks naar een slachthuis worden vervoerd;  
+a.de dieren rechtstreeks worden vervoerd naar een slachthuis binnen dezelfde regio; 
 
-b. het vervoer geschiedt overeenkomstig een goedgekeurd hygiëneprotocol;  
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol;  
 
 c. een verklaring die minder dan 24 uur oud is, aanwezig is dat er uit onderzoek van ten minste 20 monsters per stal met gebruikmaking van een PCR-test door het laboratorium, bedoeld in artikel 19, tweede lid, van de Regeling erkenning en aanwijzing veterinaire laboratoria geen virus in de dieren is aangetoond.     
-4.  In aanvulling op het bepaalde in het tweede lid is het vervoer van gevogelte, niet zijnde eenden, afkomstig van een bedrijf in regio C als bedoeld in bijlage 3 ten behoeve van de slacht, binnen een regio, de invoer in een regio en de uitvoer uit een regio toegestaan, indien: 
+4.  In aanvulling op het bepaalde in het tweede lid is het vervoer van gevogelte, niet zijnde eenden, afkomstig van een bedrijf buiten regio A als bedoeld in artikel 2, eerste lid, onderdeel a, ten behoeve van de slacht, binnen een regio, de invoer in een regio en de uitvoer uit een regio toegestaan, indien: 
 
 a. de dieren worden vervoerd naar: 
 
-i. Pluimveeslachterij C. van Miert BV, te Breukelen, met gebruikmaking van de route, bedoeld in bijlage 6, deel 1, en het vervoer plaatsvindt op de dag dat de dieren worden geslacht, niet zijnde zaterdag;  
+i. Pluimveeslachterij C. van Miert BV, te Breukelen, met gebruikmaking van de route, bedoeld in bijlage 6, deel 1, en het vervoer plaatsvindt op de dag dat de dieren worden geslacht, niet zijnde een dag waarop dieren afkomstig uit regio A, bedoeld in artikel 2, eerste lid, onderdeel a, worden geslacht;  
 
-ii. Pluimveeslachterij Clazing BV, te Zevenhuizen, met gebruikmaking van de route, bedoeld in bijlage 6, deel 2, en het vervoer plaatsvindt op de dag dat de dieren worden geslacht, niet zijnde zaterdag;  
+ii. Pluimveeslachterij Clazing BV, te Zevenhuizen, met gebruikmaking van de route, bedoeld in bijlage 6, deel 2, en het vervoer plaatsvindt op de dag dat de dieren worden geslacht, niet zijnde een dag waarop dieren afkomstig uit regio A, bedoeld in artikel 2, eerste lid, onderdeel a, worden geslacht;  
 
-iii. Pluimveeslachterij Plukon Blokker BV, te Blokker, met gebruikmaking van de route, bedoeld in bijlage 6, deel 3, en het vervoer plaatsvindt op de dag dat de dieren worden geslacht, niet zijnde donderdag, vrijdag of zaterdag;    
+iii. Pluimveeslachterij Plukon Blokker BV, te Blokker, met gebruikmaking van de route, bedoeld in bijlage 6, deel 3, en het vervoer plaatsvindt op de dag dat de dieren worden geslacht, niet zijnde een dag waarop dieren afkomstig uit regio A, bedoeld in artikel 2, eerste lid, onderdeel a, worden geslacht;    
 
-b. vervallen;  
+b. het vervoer door de exploitant van het slachthuis ten minste een dag voorafgaand aan de dag van de geplande slacht aan de minister is gemeld, onder vermelding van het bedrijf van herkomst, het kenteken van het vervoermiddel waarmee de dieren worden vervoerd en het registratienummer van de sticker, bedoeld in artikel 12, tweede of vierde lid van het betreffende vervoermiddel;  
 
-c. het vervoer door de exploitant van het slachthuis ten minste een dag voorafgaand aan de dag van de geplande slacht aan de minister is gemeld, onder vermelding van het bedrijf van herkomst, het kenteken van het vervoermiddel waarmee de dieren worden vervoerd en het registratienummer van de sticker, bedoeld in artikel 12, tweede lid, van het betreffende vervoermiddel;  
-
-d. de lege vervoermiddelen met gebruikmaking van de route, bedoeld in onderdeel a terug naar regio C als bedoeld in bijlage 3, worden verplaatst.     
+c. de lege vervoermiddelen met gebruikmaking van de route, bedoeld in onderdeel a, uit regio A als bedoeld in artikel 2, eerste lid, onderdeel a, worden verplaatst.     
 5.  In afwijking van het eerste lid is het vervoer binnen een regio, de invoer in een regio en de uitvoer uit een regio van eendagskuikens toegestaan, indien: 
 
-a. de dieren rechtstreeks worden vervoerd naar een locatie, niet zijnde een bedrijf met commercieel gehouden gevogelte binnen Nederland;  
+a. de dieren rechtstreeks worden vervoerd naar een locatie anders dan een bedrijf met commercieel gehouden gevogelte in regio A, bedoeld in artikel 2, eerste lid, onderdeel a;  
 
-b. voor zover het vervoer op Nederlands grondgebied betreft, de dieren rechtstreeks worden vervoerd zonder halt te houden;  
-
-c. de dieren vergezeld gaan van een bewijsstuk als bedoeld in artikel 2.4, eerste lid, onderdeel a, vierde gedachtestreepje, van de Regeling handel levende dieren en levende producten.     
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.     
 6.  In afwijking van het eerste lid is het vervoer binnen een regio van niet-commercieel gehouden pluimvee en van ander gevogelte dan pluimvee toegestaan. 
 
 ### Artikel  4  
@@ -96,7 +102,7 @@ c. de dieren vergezeld gaan van een bewijsstuk als bedoeld in artikel 2.4, eerst
 1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van eieren, afkomstig van een bedrijf met commercieel gehouden gevogelte, binnen een regio, de invoer in een regio en de uitvoer uit een regio is verboden.   
 2.  In afwijking van het eerste lid is het vervoer van eieren, binnen een regio toegestaan, indien: 
 
-a. de eieren rechtstreeks naar de plaats van bestemming worden vervoerd, niet zijnde een bedrijf met commercieel gehouden gevogelte;  
+a. de eieren rechtstreeks worden vervoerd naar een locatie anders dan een bedrijf met commercieel gehouden gevogelte;  
 
 b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.     
 3.  Voor de toepassing van het bepaalde in het tweede lid, onder a, wordt een broederij niet beschouwd als een bedrijf met commercieel gehouden gevogelte.  
@@ -105,38 +111,38 @@ b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.
 
 ####Vervoer andere dieren
 
-1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van commercieel gehouden dieren, anders dan gevogelte, vanaf een bedrijf met commercieel gehouden gevogelte, binnen een regio, de invoer in een regio en de uitvoer uit een regio is verboden.   
-2.  In afwijking van het eerste lid is het vervoer van commercieel gehouden dieren, anders dan gevogelte, binnen een regio toegestaan, indien de dieren rechtstreeks worden vervoerd naar een locatie anders dan een bedrijf met commercieel gehouden gevogelte.  
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van commercieel gehouden dieren, anders dan gevogelte, afkomstig van of naar een bedrijf met commercieel gehouden gevogelte, binnen een regio, de invoer in een regio en de uitvoer uit een regio is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van commercieel gehouden dieren, anders dan gevogelte, afkomstig van een bedrijf met commercieel gehouden gevogelte binnen een regio toegestaan, indien de dieren rechtstreeks worden vervoerd naar een locatie anders dan een bedrijf met commercieel gehouden gevogelte.   
+3.  In afwijking van het eerste lid is het vervoer van commercieel gehouden dieren, anders dan gevogelte, naar een bedrijf met commercieel gehouden gevogelte binnen een regio toegestaan, indien de dieren afkomstig zijn van een locatie anders dan een bedrijf met commercieel gehouden gevogelte. 
 
 ### Artikel  6  
 
 ####Vervoer sperma
 
-1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van sperma ten behoeve van de bevruchting van gevogelte, binnen een regio, de invoer in een regio en de uitvoer uit een regio is verboden.   
-2.  In afwijking van het eerste lid is het vervoer van sperma binnen een regio toegestaan indien dit aan de openbare weg wordt afgeleverd.  
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van sperma ten behoeve van de bevruchting van gevogelte, afkomstig van of naar een bedrijf met commercieel gehouden gevogelte, binnen een regio, de invoer in een regio en de uitvoer uit een regio is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van sperma binnen een regio toegestaan indien dit aan de openbare weg wordt opgehaald of afgeleverd.  
 
 ### Artikel  7  
 
 ####Vervoer diervoeders
 
-1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van diervoeders voor gevogelte en andere commercieel gehouden dieren naar bedrijven met commercieel gehouden gevogelte, binnen een regio, de invoer in een regio en de uitvoer uit een regio is verboden.   
-2.  In afwijking van het eerste lid is het vervoer van diervoeders binnen een regio toegestaan, indien: 
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van diervoeders voor gevogelte en andere commercieel gehouden dieren afkomstig van of naar een bedrijf met commercieel gehouden gevogelte, binnen een regio, de invoer in een regio en de uitvoer uit een regio is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van diervoeders naar een bedrijf met commercieel gehouden gevogelte binnen een regio toegestaan, indien: 
 
-a. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol;  
+a. per door de vervoerder af te leggen route maximaal één bedrijf met commercieel gehouden gevogelte wordt bezocht;  
 
-b. er per door de vervoerder af te leggen route bij maximaal één bedrijf met commercieel gehouden pluimvee wordt afgeleverd, welk bedrijf als laatste wordt bezocht.     
-3.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van diervoeders voor gevogelte en andere commercieel gehouden dieren afkomstig van bedrijven met commercieel gehouden gevogelte, binnen een regio, de invoer in een regio en de uitvoer uit een regio is verboden.  
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.    
 
 ### Artikel  8  
 
 ####Vervoer melk
 
-1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van rauwe melk en melkproducten, afkomstig van een bedrijf met commercieel gehouden gevogelte, binnen een regio, de invoer in een regio en de uitvoer daarvan uit een regio is verboden.   
-2.  In afwijking van het eerste lid is het vervoer van rauwe melk en melkproducten binnen een regio toegestaan indien: 
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van rauwe melk en melkproducten, afkomstig van een bedrijf met commercieel gehouden gevogelte, binnen een regio, de invoer in een regio en de uitvoer uit een regio is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van rauwe melk en melkproducten binnen een regio toegestaan, indien: 
 
-a. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol;  
+a. per door de vervoerder af te leggen route maximaal één bedrijf met commercieel gehouden gevogelte wordt bezocht;  
 
-b. er per door de vervoerder af te leggen route bij maximaal één bedrijf met commercieel gehouden pluimvee rauwe melk of melkproducten worden opgehaald, welk bedrijf als laatste wordt bezocht.    
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.    
 
 ### Artikel  9  
 
@@ -144,8 +150,21 @@ b. er per door de vervoerder af te leggen route bij maximaal één bedrijf met c
 
 1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van mest van gevogelte, binnen een regio, de invoer in een regio en de uitvoer uit een regio is verboden.   
 2.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van mest van commercieel gehouden dieren, anders dan gevogelte, afkomstig van een bedrijf met commercieel gehouden gevogelte, binnen een regio, de invoer in een regio en de uitvoer uit een regio is verboden.   
-3.  In afwijking van het tweede lid is het vervoer binnen een regio van mest van commercieel gehouden dieren, anders dan gevogelte, afkomstig van een bedrijf binnen een regio toegestaan indien het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.   
-4.  Het eerste tot en met derde lid zijn van overeenkomstige toepassing op het aanwenden van mest.  
+3.  In afwijking van het tweede lid is het vervoer binnen een regio van mest van commercieel gehouden dieren, anders dan gevogelte, toegestaan indien het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.   
+4.  In afwijking van het eerste en tweede lid, is het vervoer van mest, afkomstig van een locatie buiten regio A, bedoeld in artikel 2, eerste lid, onderdeel a, ten behoeve van de verwerking daarvan, binnen een regio en de invoer in een regio toegestaan, indien: 
+
+a. de mest wordt vervoerd naar: 
+
+i. CNC, te Moerdijk, met gebruikmaking van de route, bedoeld in bijlage 7, deel 1;  
+
+ii. BMC Moerdijk, te Moerdijk, met gebruikmaking van de route, bedoeld in bijlage 7, deel 1;  
+
+iii. BMC Moerdijk, opslag Heijningen, te Heijningen, met gebruikmaking van de route, bedoeld in bijlage 7, deel 2;    
+
+b. het vervoer door de exploitant van het mestverwerkingsbedrijf ten minste een dag voorafgaand aan de dag van het vervoer aan de minister is gemeld, onder vermelding van het bedrijf van herkomst, het kenteken van het vervoermiddel waarmee de mest wordt vervoerd en het registratienummer van de sticker, bedoeld in artikel 12, tweede en vierde lid, van het betreffende vervoermiddel;  
+
+c. de lege vervoermiddelen met gebruikmaking van de route, bedoeld in onderdeel a uit regio A als bedoeld in artikel 2, eerste lid, onderdeel a, worden verplaatst.    
+5.  Het eerste tot en met derde lid zijn van overeenkomstige toepassing op het aanwenden van mest.  
 
 ### Artikel  10  
 
@@ -163,23 +182,15 @@ Voor zover ingevolge de artikelen 3 tot en met 9 het vervoer van dieren of produ
 
 ####Verplaatsen vervoermiddelen
 
-1.  Het in gebruik hebben van vervoermiddelen voor het vervoer van dieren of producten waarvan het vervoer overeenkomstig de artikelen 3, tweede tot en met vijfde lid, 4, tweede lid, 5, tweede lid, 6, tweede lid, 7, tweede lid, 8, tweede lid en 9, derde lid, is toegestaan, is verboden.   
+1.  Het in gebruik hebben van vervoermiddelen voor het vervoer van dieren of producten waarvan het vervoer overeenkomstig de artikelen 3, tweede tot en met vierde lid, 4, tweede lid, 5, tweede en derde lid, 6, tweede lid, 7, tweede lid, 8, tweede lid en 9, derde en vierde lid, is toegestaan, is verboden.   
 2.  In afwijking van het eerste lid is het in gebruik hebben van vervoermiddelen binnen een regio toegestaan indien de vervoermiddelen overeenkomstig het derde lid voorzien zijn van een door de Dienst Wegverkeer, bedoeld in artikel 4a van de Wegenverkeerswet 1994, te verstrekken gebiedssticker als bedoeld in bijlage 5.   
-3.  Voor het vervoer binnen regio’s worden de volgende gebiedsstickers gebruikt: 
+3.  Voor het vervoer binnen regio A als bedoeld in artikel 2, eerste lid, onderdeel a, wordt de gebiedssticker gebruikt die is opgenomen in bijlage 5 met de letter A.  
+4. In afwijking van het tweede en derde lid is het toegestaan dat een vervoermiddel dat gebruikt wordt voor het vervoer, bedoeld in de artikelen 3, vierde lid of 9, vierde lid, niet voorzien is van de gebiedssticker, bedoeld in het derde lid, indien: 
 
-a. voor de regio A (west-Nederland), bedoeld in bijlage 1 de sticker opgenomen in bijlage 5 met de letter A;  
+a. voldaan wordt aan de voorwaarden voor het vervoer, bedoeld in de artikelen 3, vierde lid en 9, vierde lid, en  
 
-b. voor de regio B (midden-Nederland), bedoeld in bijlage 2, de sticker opgenomen in bijlage 5 met de letter B;  
-
-c. voor de regio C (zuid-Nederland), bedoeld in bijlage 3, de sticker opgenomen in bijlage 5 met de letter C;  
-
-d. voor de regio D (noord-Nederland), bedoeld in bijlage 4, de sticker opgenomen in bijlage 5 met de letter D.     
-4.  In afwijking van het tweede en derde lid is het toegestaan dat een vervoermiddel dat gebruikt wordt voor het vervoer, bedoeld in artikel 3, vierde of vijfde lid, voorzien is van een gebiedssticker behorend bij een ander gebied dan het gebied waar het vervoermiddel zich bevindt, indien: 
-
-a. voldaan wordt aan de van toepassing zijnde voorwaarden, bedoeld in artikel 3, vierde lid, onderdelen a tot en met c of artikel 3, vijfde lid, onderdelen a tot en met c, en  
-
-b. het vervoermiddel voorzien is van een gebiedssticker, behorend bij het gebied waarbinnen het vervoer op Nederlands grondgebied is aangevangen.     
-5.  Het is uitsluitend toegestaan een vervoermiddel te voorzien van een gebiedssticker, behorend bij een andere regio indien: 
+b. het vervoermiddel is voorzien van een gebiedssticker overeenkomstig artikel 17i, tweede en derde lid.    
+5.  Het is uitsluitend toegestaan een vervoermiddel te voorzien van een gebiedssticker, anders dan de gebiedssticker, bedoeld in het derde lid indien: 
 
 a. het vervoermiddel voorafgaand aan het omstickeren ten minste 24 uur stil heeft gestaan;  
 
@@ -205,9 +216,11 @@ b. monteurs, loonwerkers, dierenartsen en bedrijfsverzorgers, indien er een acuu
 
 c. dierenartsen, indien hun bezoek plaatsvindt in het kader van een aan hen ingevolge wet- of regelgeving opgedragen verplichting of taak,  
 
-d. medewerkers van vangploegen, en 
+d. medewerkers van vangploegen, reinigingsploegen en entploegen; 
 
-e. in noodsituaties: brandstofleveranciers of stikstof (N<sub>2</sub>) leveranciers, en hun vervoermiddelen,   mits zij reinigings- en ontsmettingsmaatregelen hebben genomen in overeenstemming met een goedgekeurd hygiëneprotocol en zij hun bezoek registreren. In een acute noodsituatie geldt geen registratieplicht voor de in onderdeel a genoemde personen.   
+e. controleurs van een privaat kwaliteitssysteem, voor zover zij controles uitvoeren op voorschriften van een privaat kwaliteitssysteem die betrekking hebben op hygiëne, en 
+
+f. in noodsituaties: brandstofleveranciers of stikstof (N<sub>2</sub>) leveranciers, en hun vervoermiddelen,   mits zij reinigings- en ontsmettingsmaatregelen hebben genomen in overeenstemming met een goedgekeurd hygiëneprotocol en zij hun bezoek registreren. In een acute noodsituatie geldt geen registratieplicht voor de in onderdeel a genoemde personen.   
 3.  Het in het eerste lid bedoelde verbod is niet van toepassing op personeel, mits het: 
 
 a. reinigings- en ontsmettingsmaatregelen heeft genomen in overeenstemming met een goedgekeurd hygiëneprotocol, en  
@@ -242,11 +255,13 @@ d. datum en tijdstip van aankomst en vertrek van de bezoeker.
 
 1.  In afwijking van artikel 31 Flora- en faunawet is het verboden te jagen.   
 2.  Het is verboden in het wild levende dieren te vangen of te doden. Daartoe zijn alle bestaande aanwijzingen, toestemmingen, vrijstellingen en ontheffingen op grond van de artikelen 65, 67, 68, 72 en 75 van de Flora- en Faunawet opgeschort.   
-3.  De verboden, bedoeld in het eerste en tweede lid zijn niet van toepassing indien: 
+3.  De verboden, bedoeld in het eerste en tweede lid zijn niet van toepassing indien het jagen, doden of vangen geschiedt: 
 
-a. het jagen, doden of vangen geschiedt ter bescherming van de veiligheid van het luchtverkeer,  
+a. ter bescherming van de veiligheid van het luchtverkeer;  
 
-b. ter bestrijding van muskusratten.   
+b. ter bestrijding van muskusratten;  
+
+c. ter voorkoming van schade door konijnen op industrieterreinen.   
 
 ### Artikel  17  
 
@@ -256,6 +271,159 @@ b. ter bestrijding van muskusratten.
 2.  Iedere houder van commercieel gehouden gevogelte neemt passende maatregelen om zo veel mogelijk te voorkomen dat het door hem gehouden gevogelte in contact komt met gevogelte van andere houders of met in het wild levende dieren, zoals in het wild levende vogels of hun uitwerpselen.   
 3.  Voor een bedrijf met commercieel gehouden gevogelte is een passende maatregel als bedoeld in het tweede lid ten minste het binnen een gebouw brengen en daar houden van het gevogelte.   
 4.  Het derde lid is niet van toepassing op gevogelte, behorende tot de eendvogels (Anseriformes) de familie van struisvogels (Struthionidae), van emoes (Dromaiidae) en van nandoes (Rheidae).  
+
+### §  3  
+
+####Maatregelen regio’s B tot en met D
+
+### Artikel  17a  
+
+####Vervoer gevogelte
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van gevogelte is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van gevogelte, niet zijnde eenden, ten behoeve van de slacht toegestaan, indien: 
+
+a. de dieren rechtstreeks naar een slachthuis worden vervoerd;  
+
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol;  
+
+c. een verklaring, die minder dan 24 uur oud is, van een dierenarts aanwezig is dat de dieren op basis van een klinische inspectie geen ziekteverschijnselen vertonen.     
+3.  In afwijking van het eerste lid is het vervoer van eenden ten behoeve van de slacht toegestaan, indien: 
+
+a. de dieren rechtstreeks naar een slachthuis worden vervoerd;  
+
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol;  
+
+c. een verklaring die minder dan 24 uur oud is, aanwezig is dat er uit onderzoek van ten minste 20 monsters per stal met gebruikmaking van een PCR-test door het laboratorium, bedoeld in artikel 19, tweede lid, van de Regeling erkenning en aanwijzing veterinaire laboratoria geen virus in de dieren is aangetoond.     
+4.  In afwijking van het eerste lid is het vervoer van eendagskuikens toegestaan, indien: 
+
+a. de dieren rechtstreeks worden vervoerd naar de plaats van bestemming;  
+
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.     
+5.  In afwijking van het eerste lid is het vervoer van niet-commercieel gehouden pluimvee en van ander gevogelte dan pluimvee toegestaan.   
+6.  In afwijking van het eerste lid is het vervoer van gevogelte, anders dan het gevogelte, bedoeld in de leden twee tot en met vijf, toegestaan, indien: 
+
+a. de dieren rechtstreeks worden vervoerd naar de plaats van bestemming, welke plaats in geval de dieren afkomstig zijn van een locatie in regio D, bedoeld in artikel 2, eerste lid, onderdeel d, gelegen is in die regio;  
+
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol;  
+
+c. een verklaring, die minder dan 24 oud is, van een dierenarts aanwezig is dat geen van de op de locatie van herkomst aanwezige dieren op basis van een klinische inspectie ziekteverschijnselen vertonen.    
+
+### Artikel  17b  
+
+####Vervoer eieren
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van eieren, afkomstig van een bedrijf met commercieel gehouden gevogelte, is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van eieren toegestaan indien: 
+
+a. de eieren rechtstreeks worden vervoerd naar een locatie anders dan een bedrijf met commercieel gehouden gevogelte;  
+
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.     
+3.  Voor de toepassing van het bepaalde in het tweede lid, onder a, wordt een broederij niet beschouwd als een bedrijf met commercieel gehouden gevogelte.  
+
+### Artikel  17c  
+
+####Vervoer andere dieren
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van commercieel gehouden dieren, anders dan gevogelte, afkomstig van of naar een bedrijf met commercieel gehouden gevogelte, is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van commercieel gehouden dieren, anders dan gevogelte, afkomstig van een bedrijf met commercieel gehouden gevogelte toegestaan, indien de dieren rechtstreeks worden vervoerd naar een locatie anders dan een bedrijf met commercieel gehouden gevogelte.   
+3.  In afwijking van het eerste lid is het vervoer van commercieel gehouden dieren, anders dan gevogelte, naar een bedrijf met commercieel gehouden gevogelte toegestaan, indien de dieren afkomstig zijn van een locatie anders dan een bedrijf met commercieel gehouden gevogelte.  
+
+### Artikel  17d  
+
+####Vervoer sperma
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van sperma ten behoeve van de bevruchting van gevogelte, afkomstig van of naar een bedrijf met commercieel gehouden gevogelte, is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van sperma toegestaan indien dit aan de openbare weg wordt opgehaald of afgeleverd.  
+
+### Artikel  17e  
+
+####Vervoer diervoeders
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van diervoeders voor gevogelte en andere commercieel gehouden dieren afkomstig van of naar een bedrijf met commercieel gehouden gevogelte, is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van diervoeders naar een bedrijf met commercieel gehouden gevogelte toegestaan, indien: 
+
+a. per door de vervoerder af te leggen route maximaal één bedrijf met commercieel gehouden gevogelte wordt bezocht;  
+
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.    
+
+### Artikel  17f  
+
+####Vervoer melk
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van rauwe melk en melkproducten, afkomstig van een bedrijf met commercieel gehouden gevogelte, is verboden.   
+2.  In afwijking van het eerste lid is het vervoer van rauwe melk en melkproducten toegestaan, indien: 
+
+a. per door de vervoerder af te leggen route maximaal één bedrijf met commercieel gehouden gevogelte wordt bezocht;  
+
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.    
+
+### Artikel  17g  
+
+####Vervoer mest
+
+1.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van mest van gevogelte, is verboden.   
+2.  Het vervoer, met inbegrip van verplaatsing zonder vervoermiddel, over de openbare weg, van mest van commercieel gehouden dieren, anders dan gevogelte, afkomstig van een bedrijf met commercieel gehouden gevogelte, is verboden.   
+3.  In afwijking van het eerste lid is het vervoer van mest van gevogelte toegestaan, indien: 
+
+a. de mest rechtstreeks wordt vervoerd naar de plaats van bestemming, welke plaats in geval de mest afkomstig is van een locatie in regio D, bedoeld in artikel 2, eerste lid, onderdeel d, gelegen is in die regio;  
+
+b. het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.     
+4.  In afwijking van het tweede lid is het vervoer van mest van commercieel gehouden dieren, anders dan gevogelte toegestaan indien het vervoer plaatsvindt overeenkomstig een goedgekeurd hygiëneprotocol.   
+5.  Het eerste tot en met vierde lid zijn van overeenkomstige toepassing op het aanwenden van mest.  
+
+### Artikel  17h  
+
+####Aanvoer en afvoer
+
+Artikel 11 is van overeenkomstige toepassing. 
+
+### Artikel  17i  
+
+####Verplaatsen vervoermiddelen
+
+1.  Het in gebruik hebben van vervoermiddelen voor het vervoer van dieren of producten waarvan het vervoer overeenkomstig: 
+
+a. de artikelen 3, vierde lid of 9, vierde lid,  
+
+b. de artikelen 17a, zesde lid en 17g, derde lid, voor zover het vervoer van dieren of producten afkomstig van een locatie in regio D, bedoeld in artikel 2, eerste lid, onderdeel d, betreft,   is toegestaan, is verboden.   
+2.  In afwijking van het eerste lid is het in gebruik hebben van vervoermiddelen toegestaan indien de vervoermiddelen overeenkomstig het derde lid voorzien zijn van een door de Dienst Wegverkeer, bedoeld in artikel 4a van de Wegenverkeerswet 1994, te verstrekken gebiedssticker als bedoeld in bijlage 5.  
+3. De volgende gebiedsstickers worden gebruikt: 
+
+a. voor vervoer vanaf een locatie in regio B, bedoeld in artikel 2, eerste lid, onderdeel b, de gebiedssticker opgenomen in bijlage 5 met de letter B;  
+
+b. voor vervoer vanaf een locatie in regio C, bedoeld in artikel 2, eerste lid, onderdeel c, de gebiedssticker opgenomen in bijlage 5 met de letter C;  
+
+c. voor vervoer vanaf een locatie in regio D, bedoeld in artikel 2, eerste lid, onderdeel d, de gebiedssticker opgenomen in bijlage 5 met de letter D.    
+4.  Artikel 12, vijfde en zesde lid zijn van toepassing.  
+
+### Artikel  17j  
+
+####Bezoekverbod
+
+Artikel 13 is van toepassing. 
+
+### Artikel  17k  
+
+####Bezoekersregeling en registratieplicht
+
+Artikel 14 is van toepassing. 
+
+### Artikel  17l  
+
+####Verbod wedstrijden en tentoonstellingen met vogels
+
+Artikel 15 is van toepassing. 
+
+### Artikel  17m  
+
+####Afscherm- en ophokplicht gevogelte
+
+Artikel 17 is van toepassing. 
+
+### §  4  
+
+####Slotbepalingen
 
 ### Artikel  18  
 
@@ -641,4 +809,40 @@ Gebiedssticker D
 9. De Gildeweg volgen in west/noordelijke richting tot aan lokatie nr 1695GD7.  
 
 10. De terugweg via dezelfde wegen.   
+
+### Bijlage 7 
+
+####, behorend bij artikel 9, vierde lid 
+
+### Deel  1  
+
+####BMC Moerdijk
+
+22. Vanaf afrit 37 Waalwijk A59/Maasroute volgen in westelijke richting tot aan Knooppunt Zonzeel/ A59/A16.  
+
+23. Vanaf Knooppunt Zonzeel A59/A16 volgen in noordelijke richting tot aan Knooppunt Klaverpolder.  
+
+24. Vanaf Knooppunt Klaverpolder de A16 volgen in zuidelijke richting tot aan de afrit 26 Moerdijk.  
+
+25. Vanaf de afrit 26 de Entree volgen in noordelijke richting tot aan de Zuidelijke Randweg.  
+
+26. De Zuidelijke Randweg volgen in westelijke richting tot aan de Orionweg.  
+
+27. De Orionweg volgen in noordelijke/ westelijke richting overgaand in Middenweg tot aan lokatie 4782PM36a.   
+
+### Deel  2  
+
+####BMC Moerdijk, opslag Heijningen
+
+29. Vanaf afrit 37 Waalwijk A59/Maasroute volgen in westelijke richting tot aan Knooppunt Zonzeel/ A59/A16.  
+
+30. Vanaf Knooppunt Zonzeel A59/A16 volgen in noordelijke richting tot aan Knooppunt Klaverpolder.  
+
+31. Vanaf Knooppunt Klaverpolder de A16 volgen in zuidelijke richting tot aan Knooppunt Noordhoek.  
+
+32. Vanaf Knooppunt Noordhoek de A59 volgend in westelijke richting tot aan de afrit 24 Fijnaart.  
+
+33. Vanaf de afrit 24 Fijnaart de Oude Molensedijk volgend in in noordelijke richitng tot aan de Stadsedijk.  
+
+34. De Stadsedijk volgend in noordwestelijke richting overgaand in zuidelijke richting overgaand in de Oude Heiningseweg overgaand in de Oude Heijningsedijk tot aan lokatie 4794RG1.   
 

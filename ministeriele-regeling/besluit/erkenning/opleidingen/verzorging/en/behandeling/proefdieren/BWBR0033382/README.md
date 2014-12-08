@@ -3,26 +3,26 @@
 ##Besluit van de Staatssecretaris van Economische Zaken van 7 mei 2013, nr. WJZ/13050860, met betrekking tot de opleidingseisen voor de verzorging en behandeling van proefdieren als bedoeld in artikel 3 van het Dierproevenbesluit (Besluit erkenning opleidingen verzorging en behandeling proefdieren)
 
 De Staatssecretaris van Economische Zaken;  
-Gelet op [artikel 3 van het Dierproevenbesluit](../../../../../../../../../AMvB/dierproevenbesluit/BWBR0003802/README.md);
+Gelet op artikel 3 van het Dierproevenbesluit;
 Besluit:    
 
 ### Artikel  1  
 
 In dit besluit wordt verstaan onder: 
 
-a.  *diploma:* diploma als bedoeld in [artikel 7.4.6 van de Wet educatie beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+a.  *diploma:* diploma als bedoeld in artikel 7.4.6 van de Wet educatie beroepsonderwijs,  
 
-b.  *getuigschrift:* getuigschrift als bedoeld in [artikel 7.11 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md),  
+b.  *getuigschrift:* getuigschrift als bedoeld in artikel 7.11 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek,  
 
-c.  *graad:* graad als bedoeld in [artikel 7.10a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md),  
+c.  *graad:* graad als bedoeld in artikel 7.10a van de Wet op het hoger onderwijs en wetenschappelijk onderzoek,  
 
-c.  *kwalificatiedossier:* kwalificatiedossier in de zin van [artikel 1.1.1, onderdeel t1, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+c.  *kwalificatiedossier:* kwalificatiedossier in de zin van artikel 1.1.1, onderdeel t1, van de Wet educatie en beroepsonderwijs,  
 
 d.  *proefdieren:* dieren die voor proeven worden gebruikt.   
 
 ### Artikel  2  
 
-Als diploma, bedoeld in [artikel 3 van het Dierproevenbesluit](../../../../../../../../../AMvB/dierproevenbesluit/BWBR0003802/README.md) wordt erkend het diploma of de graad ter afsluiting van de volgende opleidingen: 
+Als diploma, bedoeld in artikel 3 van het Dierproevenbesluit wordt erkend het diploma of de graad ter afsluiting van de volgende opleidingen: 
 
 a. proefdierverzorger zoals beschreven in het kwalificatiedossier Proefdieren, Crebonummer 97770,  
 
@@ -42,7 +42,7 @@ h. Master Diergeneeskunde aan de Universiteit Utrecht.
 
 ### Artikel  3  
 
-Als eisen van bekwaamheid als bedoeld in [artikel 3 van het Dierproevenbesluit](../../../../../../../../../AMvB/dierproevenbesluit/BWBR0003802/README.md) gelden de ‘Curriculumeisen ten behoeve van een erkenning ex artikel 12 op HBO-niveau’ zoals gepubliceerd op http://www.rijksoverheid.nl/documenten-en-publicaties/besluiten/2013/05/08/curriculumeisen-tbv-een-erkenning-ex-artikel-12-op-hbo-niveau.html, dat is afgesloten met een getuigschrift. 
+Als eisen van bekwaamheid als bedoeld in artikel 3 van het Dierproevenbesluit gelden de ‘Curriculumeisen ten behoeve van een erkenning ex artikel 12 op HBO-niveau’ zoals gepubliceerd op http://www.rijksoverheid.nl/documenten-en-publicaties/besluiten/2013/05/08/curriculumeisen-tbv-een-erkenning-ex-artikel-12-op-hbo-niveau.html, dat is afgesloten met een getuigschrift. 
 
 ### Artikel  4  
 
@@ -54,9 +54,9 @@ b. het uitvoeren van andere biotechnische werkzaamheden dan bedoeld onder a, zoa
 
 ### Artikel  5  
 
-1.  De [Regeling erkenning diploma’s Dierproevenbesluit](../../../../../../../../../ministeriele-regeling/regeling/erkenning/diploma's/dierproevenbesluit/BWBR0005982/README.md) wordt ingetrokken.   
-2.  Een in [artikel 1 van de Regeling erkenning diploma’s Dierproevenbesluit](../../../../../../../../../ministeriele-regeling/regeling/erkenning/diploma's/dierproevenbesluit/BWBR0005982/README.md) genoemd diploma voor een opleiding tot proefdierverzorger, behaald vóór de datum waarop dit besluit in werking treedt, wordt gelijkgesteld met een diploma als bedoeld in artikel 2, onder a en b. De overige diploma’s genoemd in artikel 1 van de Regeling erkenning diploma’s Dierproevenbesluit, behaald vóór de datum waarop dit besluit in werking treedt, worden gelijkgesteld met de diploma’s en graden als bedoeld in artikel 2, onder c tot en met h.   
-3.  Een certificaat als bedoeld in [artikel 1a van de Regeling erkenning diploma’s Dierproevenbesluit](../../../../../../../../../ministeriele-regeling/regeling/erkenning/diploma's/dierproevenbesluit/BWBR0005982/README.md), behaald vóór de datum waarop dit besluit in werking treedt, wordt gelijkgesteld met een getuigschrift als bedoeld in artikel 3.  
+1.  De Regeling erkenning diploma’s Dierproevenbesluit wordt ingetrokken.   
+2.  Een in artikel 1 van de Regeling erkenning diploma’s Dierproevenbesluit genoemd diploma voor een opleiding tot proefdierverzorger, behaald vóór de datum waarop dit besluit in werking treedt, wordt gelijkgesteld met een diploma als bedoeld in artikel 2, onder a en b. De overige diploma’s genoemd in artikel 1 van de Regeling erkenning diploma’s Dierproevenbesluit, behaald vóór de datum waarop dit besluit in werking treedt, worden gelijkgesteld met de diploma’s en graden als bedoeld in artikel 2, onder c tot en met h.   
+3.  Een certificaat als bedoeld in artikel 1a van de Regeling erkenning diploma’s Dierproevenbesluit, behaald vóór de datum waarop dit besluit in werking treedt, wordt gelijkgesteld met een getuigschrift als bedoeld in artikel 3.  
 
 ### Artikel  6  
 

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Landbouw, Natuur en Voedselkwaliteit van 16 januari 2006, nr. TRCJZ/2006/99, houdende regels met betrekking tot de werkzaamheden van de Raad voor plantenrassen (Regeling werkzaamheden Raad voor plantenrassen)
 
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
-Gelet op de [artikelen 6, tweede, derde en vierde lid](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), [49, zevende lid](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md) en [72 van de Zaaizaad- en plantgoedwet 2005](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md) en gelet op [artikel 1, onderdeel e](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), [7, eerste en tweede lid](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), [8](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), [9, eerste en derde lid](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), [12, derde lid](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), [16, derde lid](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), [17](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), [19, tweede lid](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), [22, tweede lid](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), en [23 van het Besluit werkzaamheden Raad voor plantenrassen](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md);
+Gelet op de artikelen 6, tweede, derde en vierde lid, 49, zevende lid en 72 van de Zaaizaad- en plantgoedwet 2005 en gelet op artikel 1, onderdeel e, 7, eerste en tweede lid, 8, 9, eerste en derde lid, 12, derde lid, 16, derde lid, 17, 19, tweede lid, 22, tweede lid, en 23 van het Besluit werkzaamheden Raad voor plantenrassen;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -13,7 +13,7 @@ Besluit:
 
 1.  In deze regeling wordt verstaan onder: 
 
-a. besluit: [Besluit werkzaamheden Raad voor plantenrassen](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md);  
+a. besluit: Besluit werkzaamheden Raad voor plantenrassen;  
 
 b. richtlijn (EEG) 66/401: richtlijn nr. 66/401/EEG van de Raad van de Europese Gemeenschappen van 14 juni 1966 betreffende het in de handel brengen van zaaizaad van groenvoedergewassen (PbEG L 125);  
 
@@ -45,7 +45,7 @@ o. basispootgoed: pootgoed als bedoeld in artikel 2, aanhef, onderdeel b, van ri
 
 p. standaardzaad: zaad als bedoeld in artikel 2, eerste lid, onderdeel e, van richtlijn (EG) 2002/55;  
 
-q. identiteitsmonster: materiaal dat ten behoeve van het technisch onderzoek, bedoeld in [artikel 35 van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), ter beschikking wordt gesteld aan de Raad of aan een instelling als bedoeld in [artikel 16 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md);  
+q. identiteitsmonster: materiaal dat ten behoeve van het technisch onderzoek, bedoeld in artikel 35 van de wet, ter beschikking wordt gesteld aan de Raad of aan een instelling als bedoeld in artikel 16 van het besluit;  
 
 r. instandhoudingsras: 
 
@@ -64,11 +64,11 @@ t. genetische erosie: verlies, in de loop van de tijd, van genetische diversitei
 u. gebied van oorsprong: het gebied of de gebieden waarin het ras van oudsher geteeld is en waaraan het zich op natuurlijke wijze heeft aangepast;  
 
 v. voor teelt onder bijzondere omstandigheden ontwikkeld ras: ras dat geen intrinsieke waarde heeft voor de commerciële productie van gewassen, maar dat ontwikkeld is voor teelt onder bijzondere omstandigheden.    
-2.  Een hybride ras als bedoeld in [artikel 1, aanhef, onderdeel e, van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md) is het product van een bewuste, voor elke zaadproductie herhaalde kruising tussen twee of meer ouderlijnen die hiertoe afzonderlijk in stand gehouden worden.  
+2.  Een hybride ras als bedoeld in artikel 1, aanhef, onderdeel e, van het besluit is het product van een bewuste, voor elke zaadproductie herhaalde kruising tussen twee of meer ouderlijnen die hiertoe afzonderlijk in stand gehouden worden.  
 
 ###Artikel 1a 
 
-Deze regeling is mede gebaseerd op [artikel 14 van de Kaderwet zelfstandige bestuursorganen](../../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md).
+Deze regeling is mede gebaseerd op artikel 14 van de Kaderwet zelfstandige bestuursorganen.
 
 ### Hoofdstuk  2  
 
@@ -76,13 +76,13 @@ Deze regeling is mede gebaseerd op [artikel 14 van de Kaderwet zelfstandige best
 
 ### Artikel  2  
 
-1.  Bij inschrijving in het rassenregister kan aantekening worden gedaan van de cultuur- en gebruikswaarde-aspecten die gebleken zijn uit het onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel b, van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md) voor: 
+1.  Bij inschrijving in het rassenregister kan aantekening worden gedaan van de cultuur- en gebruikswaarde-aspecten die gebleken zijn uit het onderzoek, bedoeld in artikel 35, eerste lid, onderdeel b, van de wet voor: 
 
 a. rassen van landbouwgewassen als opgenomen in de richtlijnen, bedoeld in artikel 1, eerste lid, van richtlijn (EG) 2002/53, of  
 
-b. rassen van groentegewassen als bedoeld in [artikel 8, derde lid, van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md).     
-2.  Bij inschrijving in het rassenregister kan bij rassen van bosbouwgewassen, als opgenomen in bijlage I van richtlijn (EG) 1999/105, aantekening worden gedaan van cultuur- en gebruikswaarde-aspecten die gebleken zijn bij de inspectie, beoordeling of test, bedoeld in [artikel 10, eerste lid, van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md).   
-3.  Voor zover rassen worden toegelaten overeenkomstig de [artikelen 8](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md) en [10 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md) wordt het technisch onderzoek tot vaststelling van de cultuur- en gebruikswaarde-aspecten uitgevoerd op verzoek en op kosten van de aanvrager tot toelating.  
+b. rassen van groentegewassen als bedoeld in artikel 8, derde lid, van het besluit.     
+2.  Bij inschrijving in het rassenregister kan bij rassen van bosbouwgewassen, als opgenomen in bijlage I van richtlijn (EG) 1999/105, aantekening worden gedaan van cultuur- en gebruikswaarde-aspecten die gebleken zijn bij de inspectie, beoordeling of test, bedoeld in artikel 10, eerste lid, van het besluit.   
+3.  Voor zover rassen worden toegelaten overeenkomstig de artikelen 8 en 10 van het besluit wordt het technisch onderzoek tot vaststelling van de cultuur- en gebruikswaarde-aspecten uitgevoerd op verzoek en op kosten van de aanvrager tot toelating.  
 
 ### Hoofdstuk  3  
 
@@ -90,17 +90,17 @@ b. rassen van groentegewassen als bedoeld in [artikel 8, derde lid, van het besl
 
 ### Artikel  3  
 
-De groentegewassen, bedoeld in [artikel 8, eerste lid, van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), zijn de gewassen zoals opgenomen in artikel 2, eerste lid, onderdeel b, van richtlijn (EG) 2002/55. 
+De groentegewassen, bedoeld in artikel 8, eerste lid, van het besluit, zijn de gewassen zoals opgenomen in artikel 2, eerste lid, onderdeel b, van richtlijn (EG) 2002/55. 
 
 ### Artikel  3a  
 
-De fruitgewassen, bedoeld in [artikel 8a van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), zijn de gewassen zoals opgenomen in bijlage 1 van richtlijn (EG) 2008/90. 
+De fruitgewassen, bedoeld in artikel 8a van het besluit, zijn de gewassen zoals opgenomen in bijlage 1 van richtlijn (EG) 2008/90. 
 
 ### Artikel  3b  
 
 1.  Een ras van een fruitgewas als bedoeld in artikel 3a, wordt toegelaten indien: 
 
-a. het ras blijkens een technisch onderzoek voldoet aan het vereiste, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md) en  
+a. het ras blijkens een technisch onderzoek voldoet aan het vereiste, bedoeld in artikel 35, eerste lid, onderdeel a, van de wet en  
 
 b. materiaal van het ras beschikbaar is.     
 2.  Indien de aanvrager bij de aanvraag informatie verstrekt waaruit naar het oordeel van de Raad blijkt dat aan de voorwaarden, bedoeld in het eerste lid, is voldaan wordt geen technisch onderzoek uitgevoerd.  
@@ -112,16 +112,16 @@ b. materiaal van het ras beschikbaar is.
 
 ### Artikel  4  
 
-De landbouwgewassen, bedoeld in [artikel 9, eerste lid, van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), zijn de gewassen als opgenomen in de richtlijnen, bedoeld in artikel 1, eerste lid, van richtlijn (EG) 2002/53. 
+De landbouwgewassen, bedoeld in artikel 9, eerste lid, van het besluit, zijn de gewassen als opgenomen in de richtlijnen, bedoeld in artikel 1, eerste lid, van richtlijn (EG) 2002/53. 
 
 ### Artikel  5  
 
-1. De bosbouwgewassen, bedoeld in [artikel 10 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), zijn de gewassen als opgenomen in bijlage I van richtlijn (EG) 1999/105. 
+1. De bosbouwgewassen, bedoeld in artikel 10 van het besluit, zijn de gewassen als opgenomen in bijlage I van richtlijn (EG) 1999/105. 
 2. Als opstand van bekende origine worden uitsluitend autochtone opstanden als bedoeld in artikel 2, onderdeel d, subonderdeel i, van richtlijn (EG) 1999/105 bestaande uit ten minste dertig individuen van het desbetreffende geslacht toegelaten.
 
 ### Artikel  6  
 
-[Artikel 8, derde lid, van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md) is van toepassing op de toelating van rassen van cichorei voor de industrie. 
+Artikel 8, derde lid, van het besluit is van toepassing op de toelating van rassen van cichorei voor de industrie. 
 
 ### Artikel  7  
 
@@ -130,35 +130,35 @@ De landbouwgewassen, bedoeld in [artikel 9, eerste lid, van het besluit](../../.
 
 ### Artikel  8  
 
-1.  De toelating van een ras als bedoeld in richtlijn (EG) 2001/18 kan worden gewijzigd ingeval de voorwaarden verbonden aan de toestemming, bedoeld in [artikel 12, eerste lid, van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), om dat materiaal in de handel te brengen worden gewijzigd.   
+1.  De toelating van een ras als bedoeld in richtlijn (EG) 2001/18 kan worden gewijzigd ingeval de voorwaarden verbonden aan de toestemming, bedoeld in artikel 12, eerste lid, van het besluit, om dat materiaal in de handel te brengen worden gewijzigd.   
 2.  De toelating van een ras of een opstand wordt ingetrokken ingeval de toestemming om dat materiaal in de handel te brengen wordt ingetrokken.  
 
 ### Artikel  9  
 
-Voor rassen van groentegewassen waarvan het zaad slechts als standaardzaad kan worden gecontroleerd, kunnen door de aanvrager uitgevoerd onderzoek en bij de teelt opgedane praktische ervaringen in aanmerking worden genomen in samenhang met de resultaten van een onderzoek door een door de Raad aangewezen instelling als bedoeld in [artikel 16, derde lid, van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md). 
+Voor rassen van groentegewassen waarvan het zaad slechts als standaardzaad kan worden gecontroleerd, kunnen door de aanvrager uitgevoerd onderzoek en bij de teelt opgedane praktische ervaringen in aanmerking worden genomen in samenhang met de resultaten van een onderzoek door een door de Raad aangewezen instelling als bedoeld in artikel 16, derde lid, van het besluit. 
 
 ### Artikel  10  
 
-1.  Het onderzoek, bedoeld in [artikel 16 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), wordt bij rassen van groentegewassen uitgevoerd overeenkomstig de voorschriften, bedoeld in bijlage I of bijlage II van richtlijn (EG) 2003/91, voor wat betreft de vaststelling van de onderscheidbaarheid, bestendigheid en homogeniteit van de in die bijlagen opgenomen gewassen waarbij: 
+1.  Het onderzoek, bedoeld in artikel 16 van het besluit, wordt bij rassen van groentegewassen uitgevoerd overeenkomstig de voorschriften, bedoeld in bijlage I of bijlage II van richtlijn (EG) 2003/91, voor wat betreft de vaststelling van de onderscheidbaarheid, bestendigheid en homogeniteit van de in die bijlagen opgenomen gewassen waarbij: 
 
 – alle raskenmerken zoals opgenomen in de voorschriften, bedoeld in bijlage I, in aanmerking worden genomen, of  
 
 – de met een asterisk aangeduide raskenmerken zoals opgenomen in de voorschriften, bedoeld bijlage II, in aanmerking worden genomen.     
-2.  Het technisch onderzoek, bedoeld in [artikel 16 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), wordt bij rassen van groentegewassen die niet zijn opgenomen in de bijlagen, bedoeld in het eerste lid, voor wat betreft de vaststelling van de onderscheidbaarheid, bestendigheid en homogeniteit uitgevoerd overeenkomstig de voor de desbetreffende gewassen opgestelde protocollen, bedoeld in [artikel 18 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md).  
+2.  Het technisch onderzoek, bedoeld in artikel 16 van het besluit, wordt bij rassen van groentegewassen die niet zijn opgenomen in de bijlagen, bedoeld in het eerste lid, voor wat betreft de vaststelling van de onderscheidbaarheid, bestendigheid en homogeniteit uitgevoerd overeenkomstig de voor de desbetreffende gewassen opgestelde protocollen, bedoeld in artikel 18 van het besluit.  
 
 ### Artikel  10a  
 
-Het onderzoek, bedoeld in [artikel 16 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), wordt bij rassen van fruitgewassen uitgevoerd overeenkomstig: 
+Het onderzoek, bedoeld in artikel 16 van het besluit, wordt bij rassen van fruitgewassen uitgevoerd overeenkomstig: 
 
 a. de door het Communautair Bureau voor Plantenrassen van de Europese Unie vastgestelde protocollen voor onderscheidbaarheid, bestendigheid en homogeniteit zoals die van toepassing zijn bij aanvang van het technisch onderzoek of, indien geen protocollen zijn vastgesteld voor de desbetreffende soort  
 
 b. de testrichtsnoeren voor de uitvoering van het onderzoek naar onderscheidbaarheid, bestendigheid en homogeniteit van de Internationale Unie voor de bescherming van nieuwe plantenrassen zoals die van toepassing zijn bij aanvang van het onderzoek of, indien geen richtsnoeren zijn vastgesteld voor de desbetreffende soort,  
 
-c. de voor het desbetreffende gewas opgestelde protocollen, bedoeld in [artikel 18 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md).   
+c. de voor het desbetreffende gewas opgestelde protocollen, bedoeld in artikel 18 van het besluit.   
 
 ### Artikel  11  
 
-1.  Het technisch onderzoek, bedoeld in [artikel 16 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), wordt bij rassen van landbouwgewassen uitgevoerd overeenkomstig: 
+1.  Het technisch onderzoek, bedoeld in artikel 16 van het besluit, wordt bij rassen van landbouwgewassen uitgevoerd overeenkomstig: 
 
 a. de voorschriften, bedoeld in bijlage I of bijlage II van richtlijn (EG) 2003/90 voor wat betreft de vaststelling van de onderscheidbaarheid, bestendigheid en homogeniteit van de in die bijlagen opgenomen gewassen, waarbij: 
 
@@ -167,11 +167,11 @@ a. de voorschriften, bedoeld in bijlage I of bijlage II van richtlijn (EG) 2003/
 – de in de voorschriften, bedoeld in bijlage II, met een asterisk aangeduide raskenmerken in aanmerking worden genomen, en    
 
 b. de voorschriften opgenomen in bijlage III van richtlijn (EG) 2003/90 met betrekking tot de kenmerken aan de hand waarvan de cultuur- en gebruikswaarde wordt onderzocht.     
-2.  Het technisch onderzoek, bedoeld in [artikel 16 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), wordt bij rassen van landbouwgewassen die niet zijn opgenomen in de bijlagen, bedoeld in het eerste lid, onderdeel a, voor wat betreft de vaststelling van de onderscheidbaarheid, bestendigheid en homogeniteit uitgevoerd overeenkomstig de voor de desbetreffende gewassen opgestelde protocollen, bedoeld in [artikel 18 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md).  
+2.  Het technisch onderzoek, bedoeld in artikel 16 van het besluit, wordt bij rassen van landbouwgewassen die niet zijn opgenomen in de bijlagen, bedoeld in het eerste lid, onderdeel a, voor wat betreft de vaststelling van de onderscheidbaarheid, bestendigheid en homogeniteit uitgevoerd overeenkomstig de voor de desbetreffende gewassen opgestelde protocollen, bedoeld in artikel 18 van het besluit.  
 
 ### Artikel  12  
 
-De Raad kan de beoordeling van een aanvraag tot toelating van een ras of tot verlening van kwekersrecht baseren op een onderzoek als bedoeld in [artikel 19 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md) indien: 
+De Raad kan de beoordeling van een aanvraag tot toelating van een ras of tot verlening van kwekersrecht baseren op een onderzoek als bedoeld in artikel 19 van het besluit indien: 
 
 a. het onderzoek waarop het over te nemen rapport is gebaseerd, zal worden uitgevoerd, wordt uitgevoerd of is uitgevoerd in opdracht van een andere met rassentoelating of kwekersrechtverlening belaste autoriteit van een Unie-staat;  
 
@@ -255,7 +255,7 @@ d. het ras wordt beschermd door communautair kwekersrecht als bedoeld in verorde
 
 ### Artikel  13  
 
-1.  Het gebruik van geoogst materiaal, bedoeld in [artikel 22 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md), is toegestaan mits de teler aan de houder van het kwekersrecht vóór 15 mei van het kalenderjaar waarin de teelt waarbij gebruik gemaakt is van geoogst materiaal, wordt geoogst, ten minste gegevens verstrekt omtrent: 
+1.  Het gebruik van geoogst materiaal, bedoeld in artikel 22 van het besluit, is toegestaan mits de teler aan de houder van het kwekersrecht vóór 15 mei van het kalenderjaar waarin de teelt waarbij gebruik gemaakt is van geoogst materiaal, wordt geoogst, ten minste gegevens verstrekt omtrent: 
 
 a. de naam- en adresgegevens van het bedrijf;  
 
@@ -277,7 +277,7 @@ Voor de volgende rassen bedraagt de duur van het kwekersrecht 30 jaar:
 
 a. De rassen van het gewas aardappel, aardbei, acacia, anthurium, appel, es, esdoorn, iep, kers, kornoelje, krent, lijsterbes, linde, magnolia, peer, populier, pruim en wilg.  
 
-b. De rassen van bolgewassen als bedoeld in [bijlage II van de Landbouwkwaliteitsregeling 2007](../../../../../../../ministeriele-regeling/landbouwkwaliteitsregeling/2007/BWBR0022543/README.md), alsmede freesia en nerine.   
+b. De rassen van bolgewassen als bedoeld in bijlage II van de Landbouwkwaliteitsregeling 2007, alsmede freesia en nerine.   
 
 ### Hoofdstuk  5  
 
@@ -285,14 +285,14 @@ b. De rassen van bolgewassen als bedoeld in [bijlage II van de Landbouwkwaliteit
 
 ### Artikel  15  
 
-1.  Aanvragen als bedoeld in de [artikelen 36](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), [55, eerste lid](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), en [85 van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md) worden ingediend met behulp van een door de Raad ter beschikking gesteld, volledig ingevuld en ondertekend formulier waarbij een of meer relevante beschrijvingsbladen worden gevoegd.   
+1.  Aanvragen als bedoeld in de artikelen 36, 55, eerste lid, en 85 van de wet worden ingediend met behulp van een door de Raad ter beschikking gesteld, volledig ingevuld en ondertekend formulier waarbij een of meer relevante beschrijvingsbladen worden gevoegd.   
 2.  In de door de aanvrager verstrekte beschrijving van het ras wordt mede beschreven de wijze waarop het ras is gekweekt, dan wel is ontdekt en ontwikkeld.   
 3.  Bij de aanvraag wordt in voorkomend geval op verzoek van de Raad een representatieve kleurenfoto verstrekt.   
 4.  De door de aanvrager verstrekte beschrijving van de wijze waarop het ras is gekweekt dan wel is ontdekt en ontwikkeld, wordt beschouwd als informatie die vertrouwelijk aan de Raad wordt meegedeeld.  
 
 ### Artikel  16  
 
-1.  Een verzoek tot verlening van een licentie als bedoeld in [artikel 62 van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md) is met redenen omkleed en bevat: 
+1.  Een verzoek tot verlening van een licentie als bedoeld in artikel 62 van de wet is met redenen omkleed en bevat: 
 
 a. de voorwaarden waaronder de verzoeker de licentie wenst te verkrijgen,  
 
@@ -314,9 +314,9 @@ c. de benaming van het ras en de naam van het gewas waartoe het ras behoort.
 
 1.  Voor de behandeling van een aanvraag: 
 
-a. tot verlening van kwekersrecht als bedoeld in [artikel 55 van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), is de aanvrager aan de Raad een bedrag verschuldigd van € 426;  
+a. tot verlening van kwekersrecht als bedoeld in artikel 55 van de wet, is de aanvrager aan de Raad een bedrag verschuldigd van € 426;  
 
-b. tot toelating van een ras als bedoeld in [artikel 36](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md) of [85 van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), is de aanvrager aan de Raad een bedrag verschuldigd van € 426 voor een ras van een tuinbouwgewas en € 527 voor een ras van een landbouwgewas;  
+b. tot toelating van een ras als bedoeld in artikel 36 of 85 van de wet, is de aanvrager aan de Raad een bedrag verschuldigd van € 426 voor een ras van een tuinbouwgewas en € 527 voor een ras van een landbouwgewas;  
 
 c. tot zowel de verlening van kwekersrecht voor een ras als bedoeld onder a als de toelating van datzelfde ras als bedoeld onder b, mits de aanvragen gelijktijdig zijn ingediend, is de aanvrager aan de Raad een bedrag verschuldigd van € 426 voor een ras van een tuinbouwgewas en € 527 voor een ras van een landbouwgewas.    
 2.  Indien de aanvraag tot kwekersrechtverlening en toelating van eenzelfde ras niet gelijktijdig zijn ingediend, is de aanvrager voor de laatst ingediende aanvraag aan de Raad een bedrag verschuldigd van € 54.   
@@ -341,8 +341,8 @@ Artikel 18 is niet van toepassing op een instandhouder van een aardappelras die 
 
 ### Artikel  21  
 
-1.  Indien het onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), door een Nederlandse onderzoeksinstelling zal worden uitgevoerd, is per teeltperiode een bedrag verschuldigd, zoals opgenomen in bijlage 1 bij deze regeling voor de gewasgroep waartoe het desbetreffende ras behoort, vermeerderd met het van toepassing zijnde BTW- percentage ingeval de onderzoeksinstelling gehouden is dit te heffen.   
-2.  Indien het onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), door een buitenlandse onderzoeksinstelling zal worden uitgevoerd, is per teeltperiode een bedrag verschuldigd dat gelijk is aan de vergoeding die de desbetreffende instelling voor dat onderzoek rekent.   
+1.  Indien het onderzoek, bedoeld in artikel 35, eerste lid, onderdeel a, van de wet, door een Nederlandse onderzoeksinstelling zal worden uitgevoerd, is per teeltperiode een bedrag verschuldigd, zoals opgenomen in bijlage 1 bij deze regeling voor de gewasgroep waartoe het desbetreffende ras behoort, vermeerderd met het van toepassing zijnde BTW- percentage ingeval de onderzoeksinstelling gehouden is dit te heffen.   
+2.  Indien het onderzoek, bedoeld in artikel 35, eerste lid, onderdeel a, van de wet, door een buitenlandse onderzoeksinstelling zal worden uitgevoerd, is per teeltperiode een bedrag verschuldigd dat gelijk is aan de vergoeding die de desbetreffende instelling voor dat onderzoek rekent.   
 3.  De Raad publiceert periodiek de hoogte van de vergoedingen, bedoeld in het tweede lid.   
 4.  De vergoedingen, bedoeld in het eerste en tweede lid, verschuldigd voor de eerste teeltperiode, worden gelijktijdig met de vergoeding, bedoeld in artikel 17, voldaan. De vergoedingen verschuldigd voor tweede en volgende teeltperioden worden voldaan binnen een door de Raad gestelde termijn.   
 5.  Het eerste lid is niet van toepassing ingeval de Raad heeft toegestaan dat het desbetreffende onderzoek in opdracht van de aanvrager wordt uitgevoerd bij een door de Raad aangewezen instelling.   
@@ -350,46 +350,46 @@ Artikel 18 is niet van toepassing op een instandhouder van een aardappelras die 
 
 ### Artikel  22  
 
-1.  In afwijking van artikel 21, eerste en tweede lid, is de aanvrager een bedrag van € 240 verschuldigd ingeval de Raad voornemens is uitvoering te geven aan [artikel 19 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md).   
+1.  In afwijking van artikel 21, eerste en tweede lid, is de aanvrager een bedrag van € 240 verschuldigd ingeval de Raad voornemens is uitvoering te geven aan artikel 19 van het besluit.   
 2.  De vergoeding, bedoeld in het eerste lid, wordt gelijktijdig voldaan met de vergoeding, bedoeld in artikel 17.   
 3.  Ingeval het niet mogelijk is het voornemen, bedoeld in het eerste lid, te realiseren, is, onder verrekening van het bedrag, bedoeld in het eerste lid, artikel 21 van toepassing met dien verstande dat het bedrag verschuldigd voor de eerste teeltperiode binnen een door de Raad gestelde termijn moet worden voldaan.  
 
 ### Artikel  22a  
 
 1.  Voor een beoordeling van de aanvraag aan de hand van de criteria van artikel 12a, eerste lid, of artikel 12c, eerste lid, op basis van de bij de aanvraag ingediende documentatie is de aanvrager een bedrag verschuldigd van € 600,-.   
-2.  Indien de Raad van oordeel is dat een technisch onderzoek als bedoeld in [artikel 16 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md) noodzakelijk is, is het tarief, bedoeld in artikel 21, verschuldigd.   
+2.  Indien de Raad van oordeel is dat een technisch onderzoek als bedoeld in artikel 16 van het besluit noodzakelijk is, is het tarief, bedoeld in artikel 21, verschuldigd.   
 3.  De vergoeding, bedoeld in het eerste lid, wordt gelijktijdig voldaan met de vergoeding, bedoeld in artikel 17.  
 
 ### Artikel  23  
 
-Ingeval de Raad op verzoek van de aanvrager en op grond van na de aanvang van het onderzoek, bedoeld in [artikel 35, eerste lid, onderdelen a, b en c, van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), van de aanvrager ontvangen gegevens tot een verdergaand onderzoek besluit, kunnen in afwijking van de bedragen, bedoeld in artikel 21 eerste en tweede lid, en artikel 22, eerste lid, de werkelijke kosten van dat onderzoek in rekening worden gebracht. 
+Ingeval de Raad op verzoek van de aanvrager en op grond van na de aanvang van het onderzoek, bedoeld in artikel 35, eerste lid, onderdelen a, b en c, van de wet, van de aanvrager ontvangen gegevens tot een verdergaand onderzoek besluit, kunnen in afwijking van de bedragen, bedoeld in artikel 21 eerste en tweede lid, en artikel 22, eerste lid, de werkelijke kosten van dat onderzoek in rekening worden gebracht. 
 
 ### Artikel  24  
 
-1.  Ingeval een aanvraag wordt ingetrokken of afgewezen voordat het onderzoek bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), in een teeltperiode is aangevangen, wordt het bedrag dat voor het onderzoek gedurende de nog aan te vangen teeltperiode is betaald ingevolge artikel 21, eerste of tweede lid, gerestitueerd.   
-2.  Ingeval een aanvraag wordt ingetrokken of afgewezen voordat de Raad de resultaten van het in [artikel 19 van het besluit](../../../../../../../AMvB/besluit/werkzaamheden/raad/voor/plantenrassen/BWBR0019209/README.md) bedoelde onderzoek heeft ontvangen, wordt het in artikel 22, eerste lid, bedoelde bedrag gerestitueerd.  
+1.  Ingeval een aanvraag wordt ingetrokken of afgewezen voordat het onderzoek bedoeld in artikel 35, eerste lid, onderdeel a, van de wet, in een teeltperiode is aangevangen, wordt het bedrag dat voor het onderzoek gedurende de nog aan te vangen teeltperiode is betaald ingevolge artikel 21, eerste of tweede lid, gerestitueerd.   
+2.  Ingeval een aanvraag wordt ingetrokken of afgewezen voordat de Raad de resultaten van het in artikel 19 van het besluit bedoelde onderzoek heeft ontvangen, wordt het in artikel 22, eerste lid, bedoelde bedrag gerestitueerd.  
 
 ### Artikel  25  
 
-1.  Indien de Raad voor de beoordeling van een bezwaar tegen zijn beslissing een voortzetting van onderzoek, bedoeld in [artikel 35, eerste lid, onderdeel a, van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), nodig acht, is artikel 23 van overeenkomstige toepassing met dien verstande dat het bedrag verschuldigd voor de eerste teeltperiode binnen de door de Raad gestelde termijn moet worden voldaan.   
+1.  Indien de Raad voor de beoordeling van een bezwaar tegen zijn beslissing een voortzetting van onderzoek, bedoeld in artikel 35, eerste lid, onderdeel a, van de wet, nodig acht, is artikel 23 van overeenkomstige toepassing met dien verstande dat het bedrag verschuldigd voor de eerste teeltperiode binnen de door de Raad gestelde termijn moet worden voldaan.   
 2.  De op grond van het eerste lid verrichte betaling wordt gerestitueerd, indien het bezwaar gegrond wordt verklaard.  
 
 ### Artikel  26  
 
-1.  Voor de behandeling van een verzoek om advies als bedoeld in [artikel 58, vierde lid, van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), is een bedrag verschuldigd van € 70,–.   
+1.  Voor de behandeling van een verzoek om advies als bedoeld in artikel 58, vierde lid, van de wet, is een bedrag verschuldigd van € 70,–.   
 2.  Onverminderd het eerste lid is degene op wiens verzoek het advies, bedoeld in het eerste lid, wordt gegeven binnen een door de Raad gestelde termijn een bedrag verschuldigd dat overeenkomt met de kosten van het onderzoek dat ten behoeve van dat advies is uitgevoerd.  
 
 ### Artikel  27  
 
-Voor de behandeling van een verzoek strekkende tot aanvulling van de beschrijving als bedoeld in [artikel 31, tweede lid, onder a, van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md) is een bedrag verschuldigd van € 70,–. 
+Voor de behandeling van een verzoek strekkende tot aanvulling van de beschrijving als bedoeld in artikel 31, tweede lid, onder a, van de wet is een bedrag verschuldigd van € 70,–. 
 
 ### Artikel  28  
 
-Voor de inschrijving van een verzoek tot verlening van een licentie door de Raad als bedoeld in [artikel 62 van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md) is een bedrag verschuldigd van € 70,–. 
+Voor de inschrijving van een verzoek tot verlening van een licentie door de Raad als bedoeld in artikel 62 van de wet is een bedrag verschuldigd van € 70,–. 
 
 ### Artikel  29  
 
-Voor de inschrijving van een akte van overdracht als bedoeld in [artikel 65, vierde lid, van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md) alsmede van overgang van het recht door vererving is met betrekking tot een ras een bedrag verschuldigd van € 23. 
+Voor de inschrijving van een akte van overdracht als bedoeld in artikel 65, vierde lid, van de wet alsmede van overgang van het recht door vererving is met betrekking tot een ras een bedrag verschuldigd van € 23. 
 
 ### Artikel  30  
 
@@ -412,11 +412,11 @@ Indien op verzoek van de aanvrager, de houder van het kwekersrecht, een instandh
 ### Artikel  32  
 
 1.  Voor de verstrekking van een afschrift of uittreksel uit het register is per bladzijde een bedrag verschuldigd van € 4.   
-2.  De Raad kan afschriften of uittreksels kosteloos verstrekken aan commissies of instellingen, die betrokken zijn bij de uitvoering van de [wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), alsmede aan de met verlening van kwekersrecht of rassentoelating belaste autoriteiten in Unie-staten.  
+2.  De Raad kan afschriften of uittreksels kosteloos verstrekken aan commissies of instellingen, die betrokken zijn bij de uitvoering van de wet, alsmede aan de met verlening van kwekersrecht of rassentoelating belaste autoriteiten in Unie-staten.  
 
 ###Artikel 32a 
 
-De bedragen, genoemd in de artikelen 17, 18, 22, 26 en 27 tot en met 32, worden vermeerderd met het van toepassing zijnde BTW-percentage indien het bureau als bedoeld in [artikel 3, vierde lid, van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md) gehouden is dit te heffen.
+De bedragen, genoemd in de artikelen 17, 18, 22, 26 en 27 tot en met 32, worden vermeerderd met het van toepassing zijnde BTW-percentage indien het bureau als bedoeld in artikel 3, vierde lid, van de wet gehouden is dit te heffen.
 
 ### Artikel  33  
 
@@ -433,7 +433,7 @@ De in deze paragraaf opgenomen tarieven worden periodiek aangepast aan de ontwik
 
 a. de te betalen geldsom;  
 
-b. de door de Raad te verrichten of verrichte handelingen als bedoel in [artikel 6, tweede lid, van wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md);  
+b. de door de Raad te verrichten of verrichte handelingen als bedoel in artikel 6, tweede lid, van wet;  
 
 c. de termijn waarbinnen de betaling moet plaatsvinden.    
 
@@ -480,7 +480,7 @@ De schuldenaar is in verzuim indien hij niet binnen de voorgeschreven termijn he
 
 ### Artikel  42  
 
-1.  Het dwangbevel, bedoeld in [artikel 6, vijfde lid, van de wet](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md) vermeldt in ieder geval: 
+1.  Het dwangbevel, bedoeld in artikel 6, vijfde lid, van de wet vermeldt in ieder geval: 
 
 a. aan het hoofd het woord ‘dwangbevel’;  
 
@@ -507,7 +507,7 @@ De leden van de Raad, met uitzondering van de voorzitter en de secretaris, ontva
 
 ###Artikel 42b 
 
-De reis- en verblijfkosten van de leden van de Raad, met uitzondering van de secretaris worden per zittingsdag vergoed op basis van het [Reisbesluit binnenland](../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md).
+De reis- en verblijfkosten van de leden van de Raad, met uitzondering van de secretaris worden per zittingsdag vergoed op basis van het Reisbesluit binnenland.
 
 ### Hoofdstuk  7  
 
@@ -525,23 +525,23 @@ Een wijziging van de richtlijnen, genoemd in artikel 1, gaat voor de toepassing 
 
 De volgende regelingen worden ingetrokken: 
 
-a.[Inrichting rassenlijst voor landbouwgewassen](../../../../../../../ministeriele-regeling/inrichting/rassenlijst/voor/landbouwgewassen/BWBR0002585/README.md),
+a.Inrichting rassenlijst voor landbouwgewassen,
 
-b.[Regeling instructie Raad voor het Kwekersrecht](../../../../../../../ministeriele-regeling/regeling/instructie/raad/voor/het/kwekersrecht/BWBR0002916/README.md),
+b.Regeling instructie Raad voor het Kwekersrecht,
 
-c.[Regeling Tarieven Raad voor het Kwekersrecht](../../../../../../../ministeriele-regeling/regeling/tarieven/raad/voor/het/kwekersrecht/BWBR0002588/README.md),
+c.Regeling Tarieven Raad voor het Kwekersrecht,
 
-d.[Regeling toelating groenterassen 1973](../../../../../../../ministeriele-regeling/regeling/toelating/groenterassen/1973/BWBR0002882/README.md),
+d.Regeling toelating groenterassen 1973,
 
-e.[Vacatiegeld Raad voor het Kwekersrecht](../../../../../../../ministeriele-regeling/vacatiegeld/raad/voor/het/kwekersrecht/BWBR0003260/README.md),
+e.Vacatiegeld Raad voor het Kwekersrecht,
 
-f.[Vaststelling vergoedingen voor leden Raad voor het Kwekersrecht](../../../../../../../ministeriele-regeling/vaststelling/vergoedingen/voor/leden/raad/voor/het/kwekersrecht/BWBR0004433/README.md), en
+f.Vaststelling vergoedingen voor leden Raad voor het Kwekersrecht, en
 
-g.[Verlening kwekersrecht buiten Nederland gewonnen rassen](../../../../../../../ministeriele-regeling/verlening/kwekersrecht/buiten/nederland/gewonnen/rassen/BWBR0003155/README.md).
+g.Verlening kwekersrecht buiten Nederland gewonnen rassen.
 
 ### Artikel  44  
 
-Deze regeling treedt in werking op het bij koninklijk besluit te bepalen tijdstip van inwerkingtreding van de [Zaaizaad- en plantgoedwet 2005](../../../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md). 
+Deze regeling treedt in werking op het bij koninklijk besluit te bepalen tijdstip van inwerkingtreding van de Zaaizaad- en plantgoedwet 2005. 
 
 ### Artikel  45  
 

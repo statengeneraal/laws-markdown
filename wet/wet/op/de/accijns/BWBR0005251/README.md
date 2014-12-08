@@ -69,7 +69,7 @@ o.  *lidstaat en grondgebied van een lidstaat:* het grondgebied van iedere lidst
 
 p.  *motorrijtuig:* een voertuig dat is bestemd om anders dan langs spoorstaven te worden voortbewogen uitsluitend of mede door een mechanische kracht, op of aan het voertuig aanwezig; 
 
-q.  *ondernemer:* een ondernemer in de zin van de [Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);  
+q.  *ondernemer:* een ondernemer in de zin van de Wet op de omzetbelasting 1968;  
 
 r.  *plaats van invoer:* de plaats waar de goederen zich bevinden wanneer zij overeenkomstig artikel 79 van het Communautair douanewetboek in het vrije verkeer worden gebracht;  
 
@@ -215,7 +215,7 @@ e. een in een andere lidstaat gevestigde geadresseerde als bedoeld in artikel 69
 a. een accijnsgoed te vervaardigen buiten een accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen;  
 
 b. een accijnsgoed voorhanden te hebben dat niet overeenkomstig de bepalingen van deze wet in de heffing is betrokken.     
-2.   Het verbod als bedoeld in het eerste lid, onderdeel a, is niet van toepassing indien het vervaardigen geschiedt overeenkomstig de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
+2.   Het verbod als bedoeld in het eerste lid, onderdeel a, is niet van toepassing indien het vervaardigen geschiedt overeenkomstig de wettelijke bepalingen, bedoeld in artikel 1:1, eerste en tweede lid, van de Algemene douanewet.   
 3.   Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt ontheffing verleend van de in het eerste lid bedoelde verboden voor:  
 
 a. het vervaardigen van accijnsgoederen uit andere accijnsgoederen, waarbij het accijnsbedrag dat de eerstbedoelde accijnsgoederen vertegenwoordigen niet hoger is dan het accijnsbedrag dat de accijnsgoederen vertegenwoordigen waaruit zij zijn vervaardigd;  
@@ -448,7 +448,7 @@ e. methaan nihil.
 
 ### Artikel  27a  
 
-De [artikelen 10.1](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [10.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) zijn van overeenkomstige toepassing op de in de artikelen 27, eerste lid, 71b, tweede lid, 71c, tweede lid, 71e, tweede lid, en 71g, tweede lid, vermelde bedragen. 
+De artikelen 10.1 en 10.2 van de Wet inkomstenbelasting 2001 zijn van overeenkomstige toepassing op de in de artikelen 27, eerste lid, 71b, tweede lid, 71c, tweede lid, 71e, tweede lid, en 71g, tweede lid, vermelde bedragen. 
 
 ### Artikel  28  
 
@@ -812,7 +812,7 @@ g. bij toepassing van artikel 4: op het tijdstip van de vaststelling van de in a
 
 ### Artikel  53a  
 
-1.  In afwijking van artikel 53, eerste lid, en van [artikel 10, tweede lid](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) wordt de accijns op aangifte voldaan: 
+1.  In afwijking van artikel 53, eerste lid, en van artikel 10, tweede lid, en artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen wordt de accijns op aangifte voldaan: 
 
 a. bij toepassing van artikel 52, tweede lid, onderdelen a tot en met d, en, voor zover het een geregistreerde geadresseerde betreft, onderdeel e: uiterlijk op de dag na het in artikel 52, tweede lid, onderdelen a tot en met e, bedoelde tijdstip;  
 
@@ -826,7 +826,7 @@ d. bij toepassing van artikel 52, derde lid, onderdeel g: binnen één maand na 
 ### Artikel  54  
 
 1.  Bij intrekking van een vergunning voor een accijnsgoederenplaats worden de accijnsgoederen waarvoor die accijnsgoederenplaats als zodanig is aangewezen, die binnen die plaats voorhanden zijn op de dag met ingang waarvan de vergunning wordt ingetrokken, aangemerkt als te zijn uitgeslagen tot verbruik en wordt het tijdvak waarover de accijns verschuldigd is, aangemerkt als te zijn geëindigd op die dag.   
-2.   De inspecteur kan bepalen dat de termijn waarbinnen de accijns dient te worden voldaan over het tijdvak waartoe de in het eerste lid bedoelde dag behoort alsmede over het daaraan onmiddellijk voorafgaande tijdvak in afwijking van [artikel 19, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) minder bedraagt dan één maand.  
+2.   De inspecteur kan bepalen dat de termijn waarbinnen de accijns dient te worden voldaan over het tijdvak waartoe de in het eerste lid bedoelde dag behoort alsmede over het daaraan onmiddellijk voorafgaande tijdvak in afwijking van artikel 19, eerste lid, van de Algemene wet inzake rijksbelastingen minder bedraagt dan één maand.  
 
 ### Artikel  55  
 
@@ -879,7 +879,7 @@ d. bij toepassing van artikel 52, derde lid, onderdeel g: binnen één maand na 
 ### Artikel  61  
 
 1.  De vergunninghouder van een accijnsgoederenplaats heeft voor de accijns die is begrepen in de verkoopprijs van de door hem geleverde accijnsgoederen, zolang hij ter zake geen betaling heeft ontvangen doch niet langer dan een half jaar nadat hij die accijns verschuldigd is geworden, voorrecht op alle goederen van de koper.   
-2.   Het voorrecht als bedoeld in het eerste lid heeft gelijke rangorde als het voorrecht dat ’s Rijks schatkist heeft op de voet van [artikel 21 van de Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).  
+2.   Het voorrecht als bedoeld in het eerste lid heeft gelijke rangorde als het voorrecht dat ’s Rijks schatkist heeft op de voet van artikel 21 van de Invorderingswet 1990.  
 
 ### Afdeling  6  
 
@@ -895,7 +895,7 @@ De vervoerder van accijnsgoederen is hoofdelijk aansprakelijk voor het bedrag aa
 
 ### Artikel  62  
 
-Onverminderd artikel 51, eerste lid, onderdeel d, zijn ter zake van de uitslag tot verbruik, bedoeld in artikel 2, eerste lid, onderdeel d de wettelijke bepalingen, bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../../../wet/algemene/douanewet/BWBR0023746/README.md), met uitzondering van artikel 868 van de toepassingsverordening Communautair douanewetboek, van overeenkomstige toepassing.  
+Onverminderd artikel 51, eerste lid, onderdeel d, zijn ter zake van de uitslag tot verbruik, bedoeld in artikel 2, eerste lid, onderdeel d de wettelijke bepalingen, bedoeld in artikel 1:1, eerste en tweede lid, van de Algemene douanewet, met uitzondering van artikel 868 van de toepassingsverordening Communautair douanewetboek, van overeenkomstige toepassing.  
 
 ### Artikel  63  
 
@@ -988,7 +988,7 @@ b. aan boord van luchtvaartuigen in het verkeer van Nederland naar een andere li
 
 ### Artikel  68a  
 
-De [artikelen 21a](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en [21b van de Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) zijn van overeenkomstige toepassing. 
+De artikelen 21a en 21b van de Wet op de omzetbelasting 1968 zijn van overeenkomstige toepassing. 
 
 ### Artikel  69  
 
@@ -1009,8 +1009,8 @@ d. voor verbruik in het kader van een met derde landen of internationale instell
 
 ### Artikel  69a  
 
-1. Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt teruggaaf van accijns verleend voor minerale oliën die worden gebruikt voor de opwekking van elektriciteit in een installatie met een elektrisch vermogen van minimaal 60 kilowatt, voorzover de opgewekte elektriciteit wordt ingevoed op een Nederlands net dan wel, indien geen invoeding op een Nederlands net plaatsvindt, voorzover de opgewekte elektriciteit overeenkomstig [artikel 50, vierde lid, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) in de heffing van energiebelasting wordt betrokken. 
-2. Voor de toepassing van dit artikel wordt onder net verstaan een net als bedoeld in [artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998](../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md). 
+1. Onder bij algemene maatregel van bestuur te stellen voorwaarden en beperkingen wordt teruggaaf van accijns verleend voor minerale oliën die worden gebruikt voor de opwekking van elektriciteit in een installatie met een elektrisch vermogen van minimaal 60 kilowatt, voorzover de opgewekte elektriciteit wordt ingevoed op een Nederlands net dan wel, indien geen invoeding op een Nederlands net plaatsvindt, voorzover de opgewekte elektriciteit overeenkomstig artikel 50, vierde lid, van de Wet belastingen op milieugrondslag in de heffing van energiebelasting wordt betrokken. 
+2. Voor de toepassing van dit artikel wordt onder net verstaan een net als bedoeld in artikel 1, eerste lid, onderdeel i, van de Elektriciteitswet 1998. 
 3. Bij ministeriële regeling worden nadere regels gesteld ten behoeve van de uitvoering van dit artikel.
 
 ### Artikel  70  
@@ -1053,35 +1053,35 @@ f. zijn geleverd aan een in een andere lidstaat gevestigde persoon, niet zijnde 
 
 ### Artikel  71b  
 
-1.  Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas dat is belast naar het tarief, bedoeld in artikel 27, eerste lid, onderdeel d, indien dat petroleumgas is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van een autobus die hoofdzakelijk wordt gebruikt voor het openbaar vervoer, bedoeld in [artikel 1, onderdeel h, van de Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md). Onder een autobus wordt in dit artikel en de daarop berustende bepalingen verstaan een autobus als bedoeld in [artikel 2, onderdeel e, van de Wet op de motorrijtuigenbelasting 1994](../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md).    
+1.  Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas dat is belast naar het tarief, bedoeld in artikel 27, eerste lid, onderdeel d, indien dat petroleumgas is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van een autobus die hoofdzakelijk wordt gebruikt voor het openbaar vervoer, bedoeld in artikel 1, onderdeel h, van de Wet personenvervoer 2000. Onder een autobus wordt in dit artikel en de daarop berustende bepalingen verstaan een autobus als bedoeld in artikel 2, onderdeel e, van de Wet op de motorrijtuigenbelasting 1994.    
 2.  De teruggaaf bedraagt € 50,70 per 1000 kg.    
-3.  De teruggaaf wordt verleend aan de vervoerder, bedoeld in [artikel 1, onderdeel k, van de Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) aan wie vergunning als bedoeld in [artikel 4, eerste lid, van de Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) is verleend en op wiens naam het voor de autobus opgegeven kenteken is gesteld in het kentekenregister, bedoeld in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), op het tijdstip waarop het vloeibaar gemaakt petroleumgas is afgeleverd in de brandstoftank van de autobus.    
+3.  De teruggaaf wordt verleend aan de vervoerder, bedoeld in artikel 1, onderdeel k, van de Wet personenvervoer 2000 aan wie vergunning als bedoeld in artikel 4, eerste lid, van de Wet personenvervoer 2000 is verleend en op wiens naam het voor de autobus opgegeven kenteken is gesteld in het kentekenregister, bedoeld in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994, op het tijdstip waarop het vloeibaar gemaakt petroleumgas is afgeleverd in de brandstoftank van de autobus.    
 4.  Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf.   
 
 ### Artikel  71c  
 
 1.  Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas dat is belast naar het tarief, bedoeld in artikel 27, eerste lid, onderdeel d, indien dat petroleumgas is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt als vuilniswagen, kolkenzuiger of straatveegwagen.   
 2.  De teruggaaf bedraagt € 50,70 per 1 000 kg.   
-3.  De teruggaaf wordt verleend aan degene op wiens naam het voor de vuilniswagen, kolkenzuiger of straatveegwagen opgegeven kenteken is gesteld in het kentekenregister, bedoeld in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), op het tijdstip waarop het vloeibaar gemaakt petroleumgas is afgeleverd in de brandstoftank van de in het eerste lid bedoelde motorrijtuigen.   
+3.  De teruggaaf wordt verleend aan degene op wiens naam het voor de vuilniswagen, kolkenzuiger of straatveegwagen opgegeven kenteken is gesteld in het kentekenregister, bedoeld in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994, op het tijdstip waarop het vloeibaar gemaakt petroleumgas is afgeleverd in de brandstoftank van de in het eerste lid bedoelde motorrijtuigen.   
 4.  Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf.  
 
 ### Artikel  71d  
 
 1.  Op verzoek wordt teruggaaf van accijns verleend voor andere minerale oliën dan halfzware olie als bedoeld in GN-code 2710 19 21, indien die olie is afgeleverd in de brandstoftanks van en is gebruikt voor de voortstuwing van luchtvaartuigen, andere dan plezierluchtvaartuigen.   
-2.  De teruggaaf wordt verleend aan degene op wiens naam het luchtvaartuig is geregistreerd in het register voor burgerluchtvaartuigen, bedoeld in [artikel 3.3, eerste lid, van de Wet luchtvaart](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md). Ingeval teruggaaf wordt verzocht voor een in het buitenland geregistreerd luchtvaartuig, wordt deze verleend aan de eigenaar van dit luchtvaartuig dan wel aan degene die daartoe door deze is gemachtigd.   
+2.  De teruggaaf wordt verleend aan degene op wiens naam het luchtvaartuig is geregistreerd in het register voor burgerluchtvaartuigen, bedoeld in artikel 3.3, eerste lid, van de Wet luchtvaart. Ingeval teruggaaf wordt verzocht voor een in het buitenland geregistreerd luchtvaartuig, wordt deze verleend aan de eigenaar van dit luchtvaartuig dan wel aan degene die daartoe door deze is gemachtigd.   
 3.  Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf en kan in bij die regeling aangewezen gevallen een ander dan de in het tweede lid bedoelde persoon worden aangewezen als degene aan wie de teruggaaf wordt verleend.  
 
 ### Artikel  71e  
 
-1.  Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten als bedoeld in post a 32 van de bij de [Wet op de omzetbelasting 1968 behorende Tabel 1](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), indien geen aansluiting aanwezig is voor aardgas.   
+1.  Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten als bedoeld in post a 32 van de bij de Wet op de omzetbelasting 1968 behorende Tabel 1, indien geen aansluiting aanwezig is voor aardgas.   
 2.  De teruggaaf, bedoeld in het eerste lid, bedraagt € 140,26 per 1 000 kilogram vloeibaar gemaakt petroleumgas.   
 3.  De teruggaaf wordt verleend aan de tuinbouwer die het vloeibaar gemaakt petroleumgas gebruikt voor het in het eerste lid bedoelde gebruik.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.  
 
 ### Artikel  71g  
 
-1.  [Artikel 69 van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) is van overeenkomstige toepassing met betrekking tot vloeibaar gemaakt petroleumgas, indien geen aansluiting aanwezig is voor aardgas.   
-2.  In afwijking van [artikel 69, vijfde en zesde lid, van de Wet belastingen op milieugrondslag](../../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) bedraagt de teruggaaf € 81,94 per 1 000 kilogram vloeibaar gemaakt petroleumgas.  
+1.  Artikel 69 van de Wet belastingen op milieugrondslag is van overeenkomstige toepassing met betrekking tot vloeibaar gemaakt petroleumgas, indien geen aansluiting aanwezig is voor aardgas.   
+2.  In afwijking van artikel 69, vijfde en zesde lid, van de Wet belastingen op milieugrondslag bedraagt de teruggaaf € 81,94 per 1 000 kilogram vloeibaar gemaakt petroleumgas.  
 
 ### Artikel  71h  
 
@@ -1209,7 +1209,7 @@ b. bedrukte accijnszegels: het bedrag wordt afgeleid uit in de administratie opg
 a. *onbedrukte blanco accijnszegels:* accijnszegels die niet als bedrukte accijnszegels kunnen worden aangemerkt;  
 
 b. *bedrukte accijnszegels:* accijnszegels voor sigaretten of rooktabak die zijn voorzien van de gegevens met betrekking tot de soort tabaksproduct, de kleinhandelsprijs, de hoeveelheid en de tariefcode of accijnszegels voor sigaren die zijn voorzien van de gegevens met betrekking tot de soort tabaksproduct en de kleinhandelsprijs.     
-7.  Op de betaling als bedoeld in het vierde lid zijn de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en de [Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) van toepassing.   
+7.  Op de betaling als bedoeld in het vierde lid zijn de Algemene wet inzake rijksbelastingen en de Invorderingswet 1990 van toepassing.   
 8.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel. 
 
 ### Artikel  78  
@@ -1258,8 +1258,8 @@ In de vergunning voor een accijnsgoederenplaats voor tabaksproducten kan worden 
 ### Artikel  83  
 
 1.  Accijnsgoederenplaatsen en plaatsen ten aanzien waarvan het aldaar vervaardigen of voorhanden hebben van accijnsgoederen is onderworpen aan beperkende bepalingen zijn onderworpen aan onderzoek.   
-2.   Aan onderzoek zijn mede onderworpen vervoermiddelen. [Artikel 50 van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing.   
-3.   In afwijking van [artikel 50, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) kan de toegang tot een ingevolge het eerste en het tweede lid aan onderzoek onderworpen plaats of vervoermiddel op elk tijdstip worden gevorderd.   
+2.   Aan onderzoek zijn mede onderworpen vervoermiddelen. Artikel 50 van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing.   
+3.   In afwijking van artikel 50, tweede lid, van de Algemene wet inzake rijksbelastingen kan de toegang tot een ingevolge het eerste en het tweede lid aan onderzoek onderworpen plaats of vervoermiddel op elk tijdstip worden gevorderd.   
 4.   Ten behoeve van het onderzoek, bedoeld in het tweede lid, is, overeenkomstig bij ministeriële regeling te stellen regels, op vordering van de inspecteur of een door hem aangewezen ambtenaar:  
 
 a. de gezagvoerder van een schip gehouden het schip terstond vaart te doen minderen, te doen bijdraaien of te doen stilhouden en aanleggen;  
@@ -1286,7 +1286,7 @@ a. waarvoor het tijdstip waarop de accijns, bedoeld in artikel 27, eerste lid, 
 b. waarvoor een vrijstelling van accijns geldt.     
 3.   Onder opslagplaats wordt verstaan elk gebouw of terrein waar minerale oliën als bedoeld in het eerste lid voor commerciële doeleinden voorhanden zijn. Opslagplaatsen in gebruik bij een zelfde persoon worden te zamen als één opslagplaats beschouwd.   
 4.   De accijns, bedoeld in het eerste lid, wordt geheven van de eigenaar van de in een opslagplaats voorhanden minerale oliën en moet op aangifte worden voldaan.   
-5.   In afwijking van [artikel 10, tweede lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), wordt uiterlijk de vijfde werkdag na het ingaan van de verhoging aangifte gedaan van de hoeveelheden van de aan de accijns, bedoeld in het eerste lid, onderworpen onderscheiden minerale oliën.   
+5.   In afwijking van artikel 10, tweede lid, van de Algemene wet inzake rijksbelastingen, wordt uiterlijk de vijfde werkdag na het ingaan van de verhoging aangifte gedaan van de hoeveelheden van de aan de accijns, bedoeld in het eerste lid, onderworpen onderscheiden minerale oliën.   
 6.   Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de aangifte.   
 7.   De heffing van accijns als bedoeld in het eerste lid blijft achterwege indien de te heffen accijns niet meer bedraagt dan € 250.  
 
@@ -1345,7 +1345,7 @@ a. regels worden gesteld met betrekking tot de in de vergunning op te nemen voor
 
 b. distilleertoestellen worden aangewezen waarvoor geen vergunning is vereist.     
 8.   Artikel 83 is van overeenkomstige toepassing op plaatsen waar distilleertoestellen worden vervaardigd of voorhanden zijn.   
-9.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de vergunning als bedoeld in het eerste lid. 
+9.  Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op de vergunning als bedoeld in het eerste lid. 
 
 ### Artikel  91  
 
@@ -1457,7 +1457,7 @@ Degene die opzettelijk een accijnsgoed waarvoor vrijstelling of teruggaaf van ac
 ### Artikel  102a  
 
 1.  Degene die een in artikel 95a opgenomen verbod overtreedt, pleegt een verzuim ter zake waarvan de inspecteur hem een boete van € 4 920 kan opleggen of, indien dit bedrag hoger is, ten hoogste tweemaal het bedrag van de accijns dat geheven zou zijn indien de verpakking voorzien was geweest van het per ingangsdatum van de nieuwe accijnstarieven, bedoeld in artikel 95a, bij de uitslag tot verbruik voor het desbetreffende tabaksproduct voorgeschreven accijnszegel.   
-2.  [Artikel 67cb van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing op het bedrag van de boete, genoemd in het eerste lid.  
+2.  Artikel 67cb van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing op het bedrag van de boete, genoemd in het eerste lid.  
 
 ### Hoofdstuk  VIII  
 

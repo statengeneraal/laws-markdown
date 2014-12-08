@@ -618,7 +618,7 @@ Beleggingsondernemingen als bedoeld in artikel 10 zijn vrijgesteld van het ingev
 
 1.  Personen als bedoeld in artikel 11, eerst en tweede lid, zijn vrijgesteld van hetgeen ingevolge de afdelingen 4.2.1, 4.2.2, 4.2.3 en 4.3.7 van de wet met betrekking tot beleggingsondernemingen is bepaald, met uitzondering van het bepaalde ingevolge: 
 
-a. artikel 4:9, eerste lid, van de wet, met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
+a. artikel 4:9, eerste lid, van de wet, met betrekking tot de geschiktheid van de in dat artikel bedoelde personen;  
 
 b. artikel 4:10 van de wet, met betrekking tot de betrouwbaarheid van de in dat artikel bedoelde personen;  
 
@@ -643,7 +643,7 @@ k. artikel 4:89, eerste en vijfde lid, van de wet; en
 l. artikel 4:90, eerste lid, van de wet.     
 2.  Personen als bedoeld in artikel 11, vierde lid, zijn vrijgesteld van hetgeen ingevolge de afdelingen 4.2.1, 4.2.2, 4.2.3 en 4.3.7 van de wet met betrekking tot beleggingsondernemingen is bepaald, met uitzondering van het bepaalde ingevolge: 
 
-a. artikel 4:9, eerste lid, van de wet, met betrekking tot de deskundigheid van de in dat artikel bedoelde personen;  
+a. artikel 4:9, eerste lid, van de wet, met betrekking tot de geschiktheid van de in dat artikel bedoelde personen;  
 
 b. artikel 4:10 van de wet, met betrekking tot de betrouwbaarheid van de in dat artikel bedoelde personen;  
 
@@ -666,7 +666,7 @@ j. de artikelen 81 en 82, eerste lid, van het besluit;
 k. artikel 4:89, eerste en vijfde lid, van de wet; en  
 
 l. artikel 4:90, eerste lid, van de wet en artikel 168a van het besluit.   
-3.  De artikelen 4:9, tweede lid, 4:11, tweede lid, en 4:15, eerste lid, van de wet en de artikelen 28, 29 en 57, eerste lid, onderdeel c, van het besluit zijn van overeenkomstige toepassing, alsmede, voor zover het betreft de vakbekwaamheid, bedoeld in artikel 4:9, tweede lid, van de wet, de eindtermen genoemd in de onderdelen 2.5 tot en met 2.7 en in de onderdelen 5.6 tot en met 5.8 van bijlage B van het besluit.  
+3.  De artikelen 4:9, tweede lid, 4:11, tweede lid, en 4:15, eerste lid, van de wet en de artikelen 28, 29 en 57, eerste lid, onderdeel c, van het besluit zijn van overeenkomstige toepassing, alsmede, voor zover het betreft de vakbekwaamheid, bedoeld in artikel 4:9, tweede lid, van de wet, de eindtermen 1d, 1f, 1g, 1h, 1i, 1j, 1k, 1l, 1p, 2d, 2e, 2f, 2g, 2i, 3b, 3c en 4b van bijlage 5 van de Regeling eindtermen en toetstermen examens financiële dienstverlening Wft.  
 4.  De vrijstelling van het ingevolge afdeling 4.3.7 bepaalde geldt slechts voor zover de beleggingsonderneming: 
 
 a. met haar cliënt een overeenkomst sluit die: 

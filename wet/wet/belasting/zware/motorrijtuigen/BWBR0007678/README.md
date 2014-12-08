@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens ingevolge [artikel 91, eerste lid, van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md) de goedkeuring van de Staten-Generaal behoeft, alvorens het Koninkrijk daaraan kan worden gebonden; alsmede dat het wenselijk is, gelet op dit verdrag en gelet op de richtlijn nr. 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993 (*PbEG* L 279) betreffende de toepassing door de Lid-Staten van de belastingen op sommige voor het goederenvervoer over de weg gebruikte voertuigen en van de voor het gebruik van sommige infrastructuurvoorzieningen geheven tolgelden en gebruiksrechten, een belasting te heffen met betrekking tot zware motorrijtuigen;
+Alzo Wij in overweging genomen hebben, dat het op 9 februari 1994 te Brussel tot stand gekomen verdrag inzake de heffing van rechten voor het gebruik van bepaalde wegen door zware vrachtwagens ingevolge artikel 91, eerste lid, van de Grondwet de goedkeuring van de Staten-Generaal behoeft, alvorens het Koninkrijk daaraan kan worden gebonden; alsmede dat het wenselijk is, gelet op dit verdrag en gelet op de richtlijn nr. 93/89/EEG van de Raad van de Europese Gemeenschappen van 25 oktober 1993 (*PbEG* L 279) betreffende de toepassing door de Lid-Staten van de belastingen op sommige voor het goederenvervoer over de weg gebruikte voertuigen en van de voor het gebruik van sommige infrastructuurvoorzieningen geheven tolgelden en gebruiksrechten, een belasting te heffen met betrekking tot zware motorrijtuigen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -36,7 +36,7 @@ Het gemeenschappelijke gebruiksrecht, bedoeld in het in artikel 1 genoemde verdr
 
 In deze wet en in de daarop berustende regelingen wordt verstaan onder:  
 
-a. zwaar motorrijtuig: een motorrijtuig als bedoeld in [artikel 2, onderdeel *f*, van de Wet op de motorrijtuigenbelasting 1994](../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), uitsluitend bestemd voor het goederenvervoer over de weg, waarvan de toegestane maximum massa 12 000 kilogram of meer bedraagt dan wel waarvan de toegestane maximum massa vermeerderd met de toegestane maximum massa van het voertuig, niet zijnde een motorrijtuig, dat door dat motorrijtuig wordt voortbewogen, 12 000 kilogram of meer bedraagt;  
+a. zwaar motorrijtuig: een motorrijtuig als bedoeld in artikel 2, onderdeel *f*, van de Wet op de motorrijtuigenbelasting 1994, uitsluitend bestemd voor het goederenvervoer over de weg, waarvan de toegestane maximum massa 12 000 kilogram of meer bedraagt dan wel waarvan de toegestane maximum massa vermeerderd met de toegestane maximum massa van het voertuig, niet zijnde een motorrijtuig, dat door dat motorrijtuig wordt voortbewogen, 12 000 kilogram of meer bedraagt;  
 
 b. toegestane maximum massa: de eigen massa van het voertuig vermeerderd met de voor het voertuig toegestane maximum massa aan lading;  
 
@@ -76,7 +76,7 @@ De belasting wordt geheven van de houder van het motorrijtuig.
 
 Als houder wordt aangemerkt:  
 
-a. van een motorrijtuig waarvoor een kentekenbewijs is afgegeven op basis van de [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), degene op wiens naam het kenteken is gesteld;  
+a. van een motorrijtuig waarvoor een kentekenbewijs is afgegeven op basis van de Wegenverkeerswet 1994, degene op wiens naam het kenteken is gesteld;  
 
 b. van een motorrijtuig waarvoor geen kentekenbewijs is afgegeven, degene die het motorrijtuig feitelijk ter beschikking heeft;  
 
@@ -174,9 +174,9 @@ b. met vier assen of meer en in de categorie:
 ### Artikel  11  
 
 1.  De belasting moet op aangifte worden voldaan.   
-2.   In afwijking van [artikel 19 van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) moet de belasting worden betaald vóór de aanvang van het gebruik van de autosnelweg.   
+2.   In afwijking van artikel 19 van de Algemene wet inzake rijksbelastingen moet de belasting worden betaald vóór de aanvang van het gebruik van de autosnelweg.   
 3.   Op bij ministeriële regeling aangewezen aangiftepunten kan door invoering van tijdvak, tarief alsmede identiteit en nationaliteit van het motorrijtuig in de op deze aangiftepunten aanwezige betalingsapparatuur aangifte worden gedaan, gelijktijdig met de ingevolge het tweede lid te verrichten betaling.   
-4.   [Hoofdstuk II van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is, met uitzondering van [artikel 8, derde lid, van die wet](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), niet van toepassing op de in het derde lid bedoelde aangifte.  
+4.   Hoofdstuk II van de Algemene wet inzake rijksbelastingen is, met uitzondering van artikel 8, derde lid, van die wet, niet van toepassing op de in het derde lid bedoelde aangifte.  
 
 ### Hoofdstuk  V  
 
@@ -190,9 +190,9 @@ Vervallen per 01-10-2008
 
 ### Artikel  13  
 
-1.  Indien wordt geconstateerd dat de verschuldigde belasting niet, niet tijdig of niet geheel is betaald, vormt dit een verzuim ter zake waarvan de inspecteur, in afwijking van de [artikelen 67b](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [67c](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67f van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), een bestuurlijke boete van ten hoogste € 4 920 kan opleggen aan de houder.    
-2.  [Artikel 67cb van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing op het bedrag van de boete, genoemd in het eerste lid.  
-3.   Indien de verschuldigde belasting wordt nageheven, legt de inspecteur de boete op gelijktijdig met de vaststelling van de naheffingsaanslag. In andere gevallen vervalt, in afwijking van [artikel 5:45, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de bevoegdheid tot het opleggen van de boete door verloop van vijf jaren na het einde van het kalenderjaar waarin het in het eerste of tweede lid bedoelde constateren heeft plaatsgevonden.  
+1.  Indien wordt geconstateerd dat de verschuldigde belasting niet, niet tijdig of niet geheel is betaald, vormt dit een verzuim ter zake waarvan de inspecteur, in afwijking van de artikelen 67b, 67c en 67f van de Algemene wet inzake rijksbelastingen, een bestuurlijke boete van ten hoogste € 4 920 kan opleggen aan de houder.    
+2.  Artikel 67cb van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing op het bedrag van de boete, genoemd in het eerste lid.  
+3.   Indien de verschuldigde belasting wordt nageheven, legt de inspecteur de boete op gelijktijdig met de vaststelling van de naheffingsaanslag. In andere gevallen vervalt, in afwijking van artikel 5:45, tweede lid, van de Algemene wet bestuursrecht, de bevoegdheid tot het opleggen van de boete door verloop van vijf jaren na het einde van het kalenderjaar waarin het in het eerste of tweede lid bedoelde constateren heeft plaatsgevonden.  
 
 ### Hoofdstuk  VII  
 
@@ -244,14 +244,14 @@ a. die uitsluitend worden gebruikt door defensie;
 
 b. die uitsluitend worden gebruikt door politie en brandweer en als zodanig uiterlijk herkenbaar zijn;  
 
-c. die behoren tot een bedrijfsvoorraad, bedoeld in [artikel 2, onderdeel i, van de Wet op de motorrijtuigenbelasting 1994](../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md);  
+c. die behoren tot een bedrijfsvoorraad, bedoeld in artikel 2, onderdeel i, van de Wet op de motorrijtuigenbelasting 1994;  
 
 d. die zijn ingericht en uitsluitend worden gebruikt voor de aanleg en het onderhoud van wegen;  
 
 e. waarmee gewoonlijk slechts over een geringe afstand gebruik van de autosnelweg wordt gemaakt;  
 
 f. die uitsluitend worden gebruikt voor het vervoer van kermis- of circusbenodigdheden.    
-2.  [Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op verzoeken aan de inspecteur tot vrijstelling als bedoeld in het eerste lid, onderdeel e. 
+2.  Paragraaf 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing op verzoeken aan de inspecteur tot vrijstelling als bedoeld in het eerste lid, onderdeel e. 
 
 ### Hoofdstuk  VIII  
 
@@ -267,7 +267,7 @@ Bij algemene maatregel van bestuur kunnen met name om redenen van verkeersveilig
 
 ### Artikel  18  
 
-1.  Op eerste vordering van ambtenaren van de rijksbelastingdienst, van opsporingsambtenaren als bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), of van bij besluit van Onze Minister van Financiën in overeenstemming met Onze Minister van Infrastructuur en Milieu aangewezen ambtenaren van het Ministerie van Infrastructuur en Milieu, is de bestuurder van een motorrijtuig verplicht dat te doen stilstaan.   
+1.  Op eerste vordering van ambtenaren van de rijksbelastingdienst, van opsporingsambtenaren als bedoeld in artikel 141 van het Wetboek van Strafvordering, of van bij besluit van Onze Minister van Financiën in overeenstemming met Onze Minister van Infrastructuur en Milieu aangewezen ambtenaren van het Ministerie van Infrastructuur en Milieu, is de bestuurder van een motorrijtuig verplicht dat te doen stilstaan.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  19  

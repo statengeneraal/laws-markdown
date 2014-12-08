@@ -624,7 +624,7 @@ De inspecteur maakt van zijn bevoegdheden slechts gebruik voor zover dat redelij
 
 ### Artikel  2.51  
 
-1.  Een ieder is verplicht, indien dit voor de toepassing van de bij of krachtens wettelijke regelingen vastgestelde bepalingen ten aanzien van hem van belang kan zijn, op vordering van de inspecteur terstond een identificatiebewijs als bedoeld in [artikel 3 van de Wet identificatie bij financiële dienstverlening BES](../../../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md) ter inzage aan te bieden.   
+1.  Een ieder is verplicht, indien dit voor de toepassing van de bij of krachtens wettelijke regelingen vastgestelde bepalingen ten aanzien van hem van belang kan zijn, op vordering van de inspecteur terstond een identificatiebewijs als bedoeld in artikel 3 van de Wet identificatie bij financiële dienstverlening BES ter inzage aan te bieden.   
 2.  De inspecteur is bevoegd kopieën en uittreksels te maken van de identificatiebewijzen, bedoeld in het eerste lid.   
 3.  De inspecteur betracht de nodige zorgvuldigheid bij het omgaan met de krachtens dit artikel verkregen gegevens, kopieën en uittreksels.  
 
@@ -797,7 +797,7 @@ e. het onderzoek van het onderlichaam; onder onderzoek van het onderlichaam word
 ### Artikel  2.68  
 
 1.  Vervoermiddelen, kennelijk ingericht of toegerust om goederen aan het toezicht te onttrekken of om tot het nakomen van de op grond van artikel 2.61, derde lid genomen dwangmaatregelen te verijdelen, alsmede alle andere voorwerpen, kennelijk bestemd om goederen aan het ambtelijk toezicht te onttrekken of om een vervoermiddel tot hiervoor omschreven doeleinden in te richten of toe te rusten, worden in beslag genomen.   
-2.  Tot inbeslagneming krachtens het eerste lid zijn, behalve de inspecteur, bevoegd de bij of ingevolge [artikel 184 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) aangewezen ambtenaren of personen.   
+2.  Tot inbeslagneming krachtens het eerste lid zijn, behalve de inspecteur, bevoegd de bij of ingevolge artikel 184 van het Wetboek van Strafvordering BES aangewezen ambtenaren of personen.   
 3.  Van de inbeslagneming en van de gronden daartoe doet de inspecteur zo spoedig mogelijk schriftelijke mededeling aan degene op wie de inbeslagneming heeft plaatsgehad en, indien deze niet de eigenaar van de goederen is en de identiteit en het adres van de eigenaar vaststaat, tevens aan de eigenaar. In geval van inbeslagneming op onbekende personen geschiedt die mededeling zo spoedig mogelijk in twee plaatselijk verschijnende dagbladen.   
 4.  Krachtens het eerste lid in beslag genomen vervoermiddelen en voorwerpen vervallen zonder rechtsvervolging aan het Rijk, tenzij bij een rechterlijke onherroepelijke beslissing als bedoeld in het zesde lid, de inbeslagneming niet wordt gehandhaafd.   
 5.  De belanghebbende bij het in beslag genomen vervoermiddel of voorwerp kan binnen een maand na de mededeling omtrent de inbeslagneming bij het Gerecht in eerste aanleg daartegen hetzij in persoon, hetzij door een gemachtigde, een met redenen omkleed klaagschrift indienen.   
@@ -987,7 +987,7 @@ De personen, die schuldenaren zijn ingevolge artikel 2.69 tot en met 2.73, zijn 
 
 ### Artikel  2.82  
 
-1.  Elke bestuurder van een lichaam als bedoeld in [artikel 1.3 van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), is hoofdelijk aansprakelijk voor door dat lichaam verschuldigde invoerrechten, bestuurlijke boeten, interest en kosten.   
+1.  Elke bestuurder van een lichaam als bedoeld in artikel 1.3 van de Belastingwet BES, is hoofdelijk aansprakelijk voor door dat lichaam verschuldigde invoerrechten, bestuurlijke boeten, interest en kosten.   
 2.  Voor de toepassing van dit artikel wordt ingeval een lichaam als bedoeld in het eerste lid zelf bestuurder is, onder bestuurder mede verstaan ieder van de bestuurders van laatstbedoeld lichaam.   
 3.  Onder bestuurders van een lichaam zijn begrepen allen, die bij of na het ontstaan van de verschuldigdheid bestuurders waren, ook voor zover zij zijn af- of uitgetreden, rekening hebben gedaan of décharge hebben bekomen.  
 
@@ -1036,8 +1036,8 @@ c. een beschikking op grond van deze wet;   kan binnen twee maanden na de medede
 
 ### Artikel  2.87  
 
-1.  Tegen de uitspraak op bezwaar van de inspecteur of de ontvanger staat binnen twee maanden na de dagtekening van de uitspraak onderscheidenlijk het verstrijken van de termijn, bedoeld in artikel 2.86, vierde lid, beroep open bij de Raad van Beroep voor belastingzaken, bedoeld in [artikel 8.97 van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).   
-2.  Bij de instelling van het beroep bij de Raad van Beroep voor belastingzaken zijn de bepalingen van [hoofdstuk VIII, titel 8, afdelingen 2](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [3, van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) van overeenkomstige toepassing.   
+1.  Tegen de uitspraak op bezwaar van de inspecteur of de ontvanger staat binnen twee maanden na de dagtekening van de uitspraak onderscheidenlijk het verstrijken van de termijn, bedoeld in artikel 2.86, vierde lid, beroep open bij de Raad van Beroep voor belastingzaken, bedoeld in artikel 8.97 van de Belastingwet BES.   
+2.  Bij de instelling van het beroep bij de Raad van Beroep voor belastingzaken zijn de bepalingen van hoofdstuk VIII, titel 8, afdelingen 2 en 3, van de Belastingwet BES van overeenkomstige toepassing.   
 3.  De inspecteur of de ontvanger is belast met de uitvoering van de uitspraak van de Raad van Beroep voor belastingzaken.  
 
 ### Titel  6  
@@ -1273,7 +1273,7 @@ Indien de grondslag voor een bestuurlijke boete wordt gevormd door het bedrag aa
 
 1.  De inspecteur kan degene aan wie het verzuim of het vergrijp te wijten is ten aanzien van wie de redelijke verwachting bestaat dat hem een bestuurlijke boete kan worden opgelegd, oproepen voor een verhoor. In deze oproep deelt de inspecteur hem mee dat hij zich desgewenst kan laten bijstaan.   
 2.  Voordat het verhoor aanvangt, deelt de inspecteur degene aan wie het verzuim of het vergrijp te wijten is mede dat hij niet tot antwoorden verplicht is.   
-3.  Op verzoek van degene aan wie het verzuim of vergrijp te wijten is en die de Nederlandse taal onvoldoende begrijpt, draagt de inspecteur er zorg voor dat een tolk wordt benoemd die degene aan wie het verzuim of het vergrijp te wijten is tijdens het verhoor kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat; aan de tolk wordt ten laste van het Rijk een vergoeding toegekend ingevolge het [Besluit tarief justitiekosten strafzaken](../../../../../../AMvB-BES/besluit/tarief/justitiekosten/strafzaken/bes/BWBR0028534/README.md).  
+3.  Op verzoek van degene aan wie het verzuim of vergrijp te wijten is en die de Nederlandse taal onvoldoende begrijpt, draagt de inspecteur er zorg voor dat een tolk wordt benoemd die degene aan wie het verzuim of het vergrijp te wijten is tijdens het verhoor kan bijstaan, tenzij redelijkerwijs kan worden aangenomen dat daaraan geen behoefte bestaat; aan de tolk wordt ten laste van het Rijk een vergoeding toegekend ingevolge het Besluit tarief justitiekosten strafzaken.  
 
 ### Artikel  2.122  
 
@@ -1416,11 +1416,11 @@ Het recht tot strafvervolging op de voet van deze afdeling met betrekking tot ee
 
 ### Artikel  2.146  
 
-1.  Met het opsporen van bij dit hoofdstuk of de daarop berustende bepalingen strafbaar gestelde feiten zijn behalve de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) bedoelde personen belast, de inspecteur, de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.   
-2.  Bij het opsporen van bij dit hoofdstuk strafbaar gestelde feiten gelden de opsporingsbevoegdheden en procedures van het [Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), tenzij in deze afdeling hiervan afwijkende bepalingen zijn opgenomen.   
+1.  Met het opsporen van bij dit hoofdstuk of de daarop berustende bepalingen strafbaar gestelde feiten zijn behalve de in artikel 184 van het Wetboek van Strafvordering BES bedoelde personen belast, de inspecteur, de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane, dan wel de ambtenaren die bij regeling van Onze Minister van Financiën in overeenstemming met Onze Minister wie het mede aangaat zijn aangewezen.   
+2.  Bij het opsporen van bij dit hoofdstuk strafbaar gestelde feiten gelden de opsporingsbevoegdheden en procedures van het Wetboek van Strafvordering BES, tenzij in deze afdeling hiervan afwijkende bepalingen zijn opgenomen.   
 3.  Alle processen-verbaal betreffende bij dit hoofdstuk of de op daarop berustende bepalingen strafbaar gestelde feiten worden ingezonden bij de inspecteur. De inspecteur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning tegen de wil van de bewoner is binnengetreden, met de in beslag genomen voorwerpen onverwijld toekomen aan de officier van justitie. De overige processen-verbaal doet de inspecteur, met de in beslag genomen voorwerpen, toekomen aan de officier van justitie, indien hij een vervolging wenselijk acht.   
 4.  De officier van justitie is bevoegd, de zaak ter afdoening weer in handen van de inspecteur te stellen, welke daarmede alsdan kan handelen overeenkomstig artikel 2 147.   
-5.  [Artikel 14 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) vindt geen toepassing in zaken, waarin de inspecteur het procesverbaal niet aan de officier van justitie heeft doen toekomen.  
+5.  Artikel 14 van het Wetboek van Strafvordering BES vindt geen toepassing in zaken, waarin de inspecteur het procesverbaal niet aan de officier van justitie heeft doen toekomen.  
 
 ### Artikel  2.147  
 
@@ -1437,11 +1437,11 @@ d. voldoening aan het Rijk van een geldsom gelijk aan of lager dan het geschatte
 
 e. het alsnog voldoen aan een uit deze wet voortvloeiende verplichting.     
 3.  De inspecteur bepaalt telkens de termijn waarbinnen aan de gestelde voorwaarden moet zijn voldaan en zo nodig tevens de plaats waar zulks moet geschieden. De gestelde termijn kan voor de afloop ervan een keer worden verlengd.   
-4.  De in het tweede lid bedoelde geldsommen worden ingevorderd op de wijze voorzien in [hoofdstuk VIII, titel 5, van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md). Daartoe wordt een afschrift van de beschikking, bedoeld in het tweede lid, aan de ontvanger ter hand gesteld.  
+4.  De in het tweede lid bedoelde geldsommen worden ingevorderd op de wijze voorzien in hoofdstuk VIII, titel 5, van de Belastingwet BES. Daartoe wordt een afschrift van de beschikking, bedoeld in het tweede lid, aan de ontvanger ter hand gesteld.  
 
 ### Artikel  2.148  
 
-1.  De inspecteur en de ambtenaren belast met de opsporing van de bij dit hoofdstuk of de op daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.   
+1.  De inspecteur en de ambtenaren belast met de opsporing van de bij dit hoofdstuk of de op daarop berustende bepalingen strafbaar gestelde feiten, zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het Wetboek van Strafvordering BES voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.   
 2.  De goederen, vaartuigen, voertuigen, werktuigen, gereedschappen of andere voorwerpen, waarmede enige overtreding van deze wet is gepleegd, kunnen door de in het eerste lid bedoelde ambtenaren als stukken van overtuiging worden ingenomen en door hen in beslag worden genomen indien zij vatbaar voor verbeurdverklaring zijn.   
 3.  Bij het opsporen van bij dit hoofdstuk of de daarop berustende bepalingen strafbare gestelde feiten hebben de inspecteur en de in het eerste lid bedoelde ambtenaren toegang tot elke plaats welke zij redelijkerwijs voor de vervulling van hun taak nodig vinden. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te doen vergezellen.   
 4.  In een woning treden zij op de voet van het eerste lid zonder de uitdrukkelijke toestemming van de bewoner niet binnen dan vergezeld van een officier van justitie of hulpofficier van justitie dan wel voorzien van een algemene of bijzondere schriftelijke last van de procureur-generaal of van de officier van justitie, dan wel voorzien van een bijzondere schriftelijke last van een zijner hulpofficieren.   
@@ -1451,9 +1451,9 @@ e. het alsnog voldoen aan een uit deze wet voortvloeiende verplichting.
 
 1.  De inspecteur en de ambtenaren zijn tevens belast met de opsporing van de misdrijven omschreven: 
 
-a. in de [artikelen 183](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [183a](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [185 tot en met 188](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [artikel 190 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) welke jegens hen zijn begaan;  
+a. in de artikelen 183, 183a, 185 tot en met 188 en artikel 190 van het Wetboek van Strafrecht BES welke jegens hen zijn begaan;  
 
-b. in de [artikelen 273 tot en met 282 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) welke jegens hen zijn begaan gedurende of ter zake van de rechtmatige uitoefening van hun bediening.     
+b. in de artikelen 273 tot en met 282 van het Wetboek van Strafrecht BES welke jegens hen zijn begaan gedurende of ter zake van de rechtmatige uitoefening van hun bediening.     
 2.  De ontvanger en degenen die namens hem een taak uitoefenen zijn belast met de opsporing van de in het eerste lid omschreven misdrijven.  
 
 ### Artikel  2.150  
@@ -1471,7 +1471,7 @@ b. in de [artikelen 273 tot en met 282 van het Wetboek van Strafrecht BES](../..
 
 ### Artikel  2.152  
 
-Bij veroordeling wegens een in de artikelen 2.126 tot en met 2.129 en 2.133 omschreven feiten kunnen de in [artikel 35 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) genoemde voorwerpen en vorderingen ook worden verbeurd verklaard, indien zij niet aan de in dat artikel bedoelde personen toebehoren. 
+Bij veroordeling wegens een in de artikelen 2.126 tot en met 2.129 en 2.133 omschreven feiten kunnen de in artikel 35 van het Wetboek van Strafrecht BES genoemde voorwerpen en vorderingen ook worden verbeurd verklaard, indien zij niet aan de in dat artikel bedoelde personen toebehoren. 
 
 ### Artikel  2.153  
 
@@ -2464,7 +2464,7 @@ r. goederen bestemd om te dienen als bewijs of soortgelijke doeleinden voor het 
 
 s. brandstoffen voor de opwekking van energie voor gas-, elektriciteit- en waterleidingbedrijven;  
 
-t. gas als bedoeld in [artikel 6.11, eerste lid, onderdeel h, van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).    
+t. gas als bedoeld in artikel 6.11, eerste lid, onderdeel h, van de Belastingwet BES.    
 2.  Onder de bedrijfsmatige uitoefening van een visserijbedrijf als bedoeld in het eerste lid, onderdelen a en b, wordt mede verstaan visserijactiviteiten die erop gericht zijn om in belangrijke mate in het levensonderhoud van de visser te voorzien.   
 3.  De in het eerste lid, onderdeel b, genoemde vrijstelling wordt slechts verleend indien: 
 
@@ -3353,7 +3353,7 @@ In dit hoofdstuk en de daarop gebaseerde bepalingen wordt onder het vervaardigen
 
 ### Artikel  4.3  
 
-Op dit hoofdstuk en de daarop berustende bepalingen, behoudens die ter zake van de heffing van accijns bij invoer, zijn de bepalingen van [hoofdstuk VIII van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) van overeenkomstige toepassing. 
+Op dit hoofdstuk en de daarop berustende bepalingen, behoudens die ter zake van de heffing van accijns bij invoer, zijn de bepalingen van hoofdstuk VIII van de Belastingwet BES van overeenkomstige toepassing. 
 
 ### Artikel  4.4  
 
@@ -3594,7 +3594,7 @@ f. de vergunninghouder daarom verzoekt.
 ### Artikel  4.33  
 
 1.  Het verlenen, het aanpassen en het intrekken van een vergunning voor een accijnsgoederenplaats alsmede het afwijzen van een verzoek daartoe geschieden bij beschikking.   
-2.  In afwijking van [hoofdstuk VIII van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) geeft de inspecteur binnen acht weken na ontvangst van het verzoek een beschikking op dat verzoek, dan wel zendt hij de in het derde lid bedoelde kennisgeving.   
+2.  In afwijking van hoofdstuk VIII van de Belastingwet BES geeft de inspecteur binnen acht weken na ontvangst van het verzoek een beschikking op dat verzoek, dan wel zendt hij de in het derde lid bedoelde kennisgeving.   
 3.  Indien de inspecteur de beschikking niet binnen de in het tweede lid genoemde termijn kan geven, stelt hij belanghebbende daarvan onder opgaaf van redenen in kennis en noemt hij de termijn waarop de beschikking wel zal worden gegeven.  
 
 ### Afdeling  3  
@@ -3669,7 +3669,7 @@ De accijns wordt berekend naar het tarief dat geldt op het tijdstip van de uitsl
 ### Artikel  4.44  
 
 1.  De vergunninghouder van een accijnsgoederenplaats heeft voor de accijns die is begrepen in de verkoopprijs van de door hem geleverde accijnsgoederen, zolang hij ter zake geen betaling heeft ontvangen doch niet langer dan een half jaar nadat hij die accijns verschuldigd is geworden, voorrecht op alle goederen van de koper.   
-2.  Het voorrecht als bedoeld in het eerste lid heeft gelijke rangorde als het voorrecht dat ’s Rijks schatkist heeft op de voet van [artikel 8.55 van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).  
+2.  Het voorrecht als bedoeld in het eerste lid heeft gelijke rangorde als het voorrecht dat ’s Rijks schatkist heeft op de voet van artikel 8.55 van de Belastingwet BES.  
 
 ### Artikel  4.45  
 
@@ -3762,7 +3762,7 @@ b. degene die buiten Bonaire tabaksproducten van accijnszegels voorziet.
 3.  Het bedrag van de zekerheid wordt vastgesteld door de inspecteur. De vaststelling geschiedt tot een zodanig bedrag dat het bedrag aan accijns dat de zegels vertegenwoordigen voldoende verzekerd kan worden geacht.   
 4.  Met betrekking tot de zekerheid, bedoeld in het tweede lid, zijn de artikelen 4.40 tot en met 4.43 van overeenkomstige toepassing.   
 5.  Indien de vergunninghouder van een accijnsgoederenplaats zekerheid heeft gesteld op de voet van artikel 4.39 kan die zekerheid mede dienen als zekerheid als bedoeld in het tweede lid.   
-6.  Op de verschuldigd geworden betaling is [titel 5 van hoofdstuk VIII van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) van toepassing als ware de betaling accijns.  
+6.  Op de verschuldigd geworden betaling is titel 5 van hoofdstuk VIII van de Belastingwet BES van toepassing als ware de betaling accijns.  
 
 ### Artikel  4.55  
 
@@ -3824,7 +3824,7 @@ In de vergunning voor een accijnsgoederenplaats voor tabaksproducten kan worden 
 ### Artikel  4.61  
 
 1.  Accijnsgoederenplaatsen en plaatsen ten aanzien waarvan het aldaar vervaardigen of voorhanden hebben van accijnsgoederen is onderworpen aan beperkende bepalingen zijn onderworpen aan onderzoek.   
-2.  Aan onderzoek zijn mede onderworpen vervoermiddelen. [Artikel 8.85, eerste lid, van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) is van overeenkomstige toepassing.   
+2.  Aan onderzoek zijn mede onderworpen vervoermiddelen. Artikel 8.85, eerste lid, van de Belastingwet BES is van overeenkomstige toepassing.   
 3.  Ten behoeve van het onderzoek, bedoeld in het tweede lid, is, overeenkomstig bij regeling van Onze Minister van Financiën te stellen regels, op vordering van de inspecteur of een door hem aangewezen ambtenaar: 
 
 a. de gezagvoerder van een schip gehouden het schip terstond vaart te doen minderen, te doen bijdraaien of te doen stilhouden en aanleggen;  

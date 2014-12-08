@@ -3,14 +3,14 @@
 ##Dierproevenregeling
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 18e van de Wet op de dierproeven](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md);
+Gelet op artikel 18e van de Wet op de dierproeven;
 Besluit:     
 
 ### Artikel  1  
 
-1.  Het verslag van de dierexperimentencommissie, bedoeld in [artikel 18e van de Wet op de dierproeven](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md), vermeldt in ieder geval: 
+1.  Het verslag van de dierexperimentencommissie, bedoeld in artikel 18e van de Wet op de dierproeven, vermeldt in ieder geval: 
 
-a.  de samenstelling van de commissie, onderscheiden naar de in [artikel 18a, tweede lid, van de Wet op de dierproeven](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) genoemde deskundigheden;  
+a.  de samenstelling van de commissie, onderscheiden naar de in artikel 18a, tweede lid, van de Wet op de dierproeven genoemde deskundigheden;  
 
 b.  een overzicht van de dierproeven waarover advies werd uitgebracht, dat in ieder geval per advies omvat: 
 
@@ -27,11 +27,11 @@ d.  vermelding van procedures of kwesties die als problematisch werden ervaren.
 
 ### Artikel  1a  
 
-De gegevens, bedoeld in [artikel 10, zesde lid, van het Dierproevenbesluit](../../../AMvB/dierproevenbesluit/BWBR0003802/README.md), dienen jaarlijks voor 15 maart aan de minister te worden verstrekt. 
+De gegevens, bedoeld in artikel 10, zesde lid, van het Dierproevenbesluit, dienen jaarlijks voor 15 maart aan de minister te worden verstrekt. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking op het tijdstip waarop de wet van 12 september 1996 tot wijziging van de [Wet op de dierproeven](../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) in werking treedt.  
+Deze regeling treedt in werking op het tijdstip waarop de wet van 12 september 1996 tot wijziging van de Wet op de dierproeven in werking treedt.  
 
 ### Artikel  3  
 
