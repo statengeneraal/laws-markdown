@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 4 maart 2013, nr. WJZ/13025564, tot vaststelling van de regeling uitvoering integriteitsbeleid EZ (Regeling integriteitsbeleid EZ)
 
 De Minister van Economische Zaken,  
-Gelet op [artikelen 51](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [61](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [61a](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), [62](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [64, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [artikel 8 van het Besluit melden vermoeden van misstand bij Rijk en Politie](../../../../../AMvB/besluit/melden/vermoeden/van/misstand/bij/rijk/en/politie/BWBR0026951/README.md);
+Gelet op artikelen 51, 61, 61a, 62 en 64, eerste lid, van het Algemeen Rijksambtenarenreglement en artikel 8 van het Besluit melden vermoeden van misstand bij Rijk en Politie;
 
 Gehoord het Departementaal Georganiseerd Overleg;
 Besluit:     
@@ -17,7 +17,7 @@ Besluit:
 
 a.  *ministerie:* het Ministerie van Economische Zaken en de daaronder ressorterende diensten;  
 
-b.  *medewerker:* degene die werkzaam is bij het ministerie of onder gezag van de Autoriteit Consument en Markt;  
+b.  *medewerker:* degene die werkzaam is bij het ministerie of onder gezag van de Autoriteit Consument en Markt, van de centrale commissie dierproeven of van het nationaal comité;  
 
 c.  *hoofd van dienst:*
 
@@ -27,9 +27,9 @@ c.  *hoofd van dienst:*
 
 3°. de Autoriteit Consument en Markt;    
 
-d.  *hoofd van een organisatie-onderdeel:* een hoofd van een onderdeel van de organisatie van het Ministerie van Economische zaken zoals vastgesteld in de [bijlage behorende bij het door de Minister van Economische Zaken vastgesteld besluit houdende regels inzake mandaat, volmacht en machtiging voor het ministerie](../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/ez/2012/BWBR0032426/README.md);  
+d.  *hoofd van een organisatie-onderdeel:* een hoofd van een onderdeel van de organisatie van het Ministerie van Economische zaken zoals vastgesteld in de bijlage behorende bij het door de Minister van Economische Zaken vastgesteld besluit houdende regels inzake mandaat, volmacht en machtiging voor het ministerie;  
 
-e.  *nevenwerkzaamheden:* hetgeen daaronder wordt verstaan in de [artikelen 61](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [62 van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+e.  *nevenwerkzaamheden:* hetgeen daaronder wordt verstaan in de artikelen 61 en 62 van het Algemeen Rijksambtenarenreglement;  
 
 f.  *geschenk:* een vergoeding, beloning, gift of belofte, in welke vorm dan ook, die aan een medewerker in zijn hoedanigheid van ambtenaar wordt aangeboden of gedaan door een derde en die strekt tot zijn privé-voordeel;  
 
@@ -47,7 +47,7 @@ l.  *koersgevoelige informatie:* niet-openbare vertrouwelijke informatie die con
 
 m.  *effect:* 
 
-1°. effect in de zin van [artikel 1:1 van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), tenzij dit is uitgegeven door een beleggingsmaatschappij met veranderlijk kapitaal als bedoeld in artikel 1, tweede lid, van de Tweede Richtlijn Vennootschapsrecht van de Raad van de Europese Gemeenschappen van 13 december 1976 (77/91/EEG), en tevens wordt verhandeld op een beurs waarop van overheidswege toezicht wordt uitgeoefend binnen de Europese Economische Ruimte;  
+1°. effect in de zin van artikel 1:1 van de Wet op het financieel toezicht, tenzij dit is uitgegeven door een beleggingsmaatschappij met veranderlijk kapitaal als bedoeld in artikel 1, tweede lid, van de Tweede Richtlijn Vennootschapsrecht van de Raad van de Europese Gemeenschappen van 13 december 1976 (77/91/EEG), en tevens wordt verhandeld op een beurs waarop van overheidswege toezicht wordt uitgeoefend binnen de Europese Economische Ruimte;  
 
 2°. andere rechten, voortvloeiende uit contractsrelaties, voor zover deze rechten worden verhandeld op een beurs waarop van overheidswege toezicht wordt uitgeoefend binnen de Europese Economische Ruimte;    
 
@@ -63,7 +63,7 @@ o.  *vrijehandbeheerovereenkomst:* een schriftelijke overeenkomst, gesloten met 
 
 p.  *vertrouwenspersoon integriteit:* een medewerker die is belast met de taken, genoemd in artikel 24, eerste lid, van deze regeling;  
 
-q.  *vermoeden van een misstand:* een vermoeden van een misstand als bedoeld in [artikel 1 van het Besluit melden vermoeden van misstand bij Rijk en Politie](../../../../../AMvB/besluit/melden/vermoeden/van/misstand/bij/rijk/en/politie/BWBR0026951/README.md);  
+q.  *vermoeden van een misstand:* een vermoeden van een misstand als bedoeld in artikel 1 van het Besluit melden vermoeden van misstand bij Rijk en Politie;  
 
 r.  *registratiepunt integriteit:* het registratiepunt integriteit bedoeld in artikel 27.     
 2.  Onder het bezitten van financiële belangen wordt mede verstaan: 
@@ -86,9 +86,9 @@ Deze regeling is niet van toepassing op een medewerker die lid is van de Topmana
 
 ### Artikel  2  
 
-1.  De medewerker legt bij zijn indiensttreding bij het ministerie of zijn aanstelling in algemene rijksdienst met tewerkstelling bij het ministerie een eed of een belofte af als bedoeld in [artikel 51, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).   
+1.  De medewerker legt bij zijn indiensttreding bij het ministerie of zijn aanstelling in algemene rijksdienst met tewerkstelling bij het ministerie een eed of een belofte af als bedoeld in artikel 51, eerste lid, van het Algemeen Rijksambtenarenreglement.   
 2.  Hij legt de eed of belofte af ten overstaan van zijn hoofd van dienst, in aanwezigheid van een getuige.   
-3.  Het afleggen van de eed of belofte geschiedt door voorlezing van de tekst van het formulier als bedoeld in [artikel 51, tweede lid, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).  
+3.  Het afleggen van de eed of belofte geschiedt door voorlezing van de tekst van het formulier als bedoeld in artikel 51, tweede lid, van het Algemeen Rijksambtenarenreglement.  
 
 ### §  3  
 
@@ -97,7 +97,7 @@ Deze regeling is niet van toepassing op een medewerker die lid is van de Topmana
 ### Artikel  3  
 
 1.  De medewerker doet aan het hoofd van zijn dienst schriftelijk opgave van de nevenwerkzaamheden die hij verricht of voornemens is te gaan verrichten, die de belangen van de dienst voor zover deze in verband staan met zijn functievervulling, kunnen raken.   
-2.  Het eerste lid is niet van toepassing op activiteiten als bedoeld in [artikel 33b van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en werkzaamheden ten behoeve van politieke partijen in de vrije tijd.  
+2.  Het eerste lid is niet van toepassing op activiteiten als bedoeld in artikel 33b van het Algemeen Rijksambtenarenreglement en werkzaamheden ten behoeve van politieke partijen in de vrije tijd.  
 
 ### Artikel  4  
 
@@ -137,10 +137,16 @@ De hoofden van dienst doen jaarlijks vóór 1 februari aan het registratiepunt 
 
 ### Artikel  9  
 
-1.  De secretaris-generaal van het Ministerie van Economische Zaken wijst ten minste één compliance officer aan voor de bij de organisatie-onderdelen van het ministerie werkzame medewerkers. Voorts wijst de secretaris-generaal ten minste één compliance officer aan voor de leden van de Autoriteit Consument en Markt en de onder haar gezag werkzame medewerkers.   
+1.  De secretaris-generaal van het Ministerie van Economische Zaken wijst ten minste één compliance officer aan voor de bij de organisatie-onderdelen van het ministerie werkzame medewerkers. Voorts wijst de secretaris-generaal ten minste één compliance officer aan per organisatie voor: 
+
+a. de leden van de Autoriteit Consument en Markt en de onder haar gezag werkzame medewerkers,  
+
+b. de leden van de centrale commissie dierproeven en de onder haar gezag werkzame medewerkers,  
+
+c. de leden van het nationaal comité en de onder zijn gezag werkzame medewerkers.     
 2.  De compliance officers zijn ieder voor het eigen taakgebied belast met: 
 
-a. het ontvangen en registreren van meldingen als bedoeld in [artikel 61a, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+a. het ontvangen en registreren van meldingen als bedoeld in artikel 61a, eerste lid, van het Algemeen Rijksambtenarenreglement;  
 
 b. het gevraagd en ongevraagd adviseren over en bijstand verlenen bij de uitvoering en handhaving van deze paragraaf door een hoofd van dienst;  
 
@@ -164,11 +170,11 @@ d. welke problemen zijn gerezen bij de uitvoering van deze paragraaf.
 
 ### Artikel  11  
 
-1.  Van rechtswege zijn de volgende functionarissen voor de duur van hun functievervulling aangewezen als meldingsplichtige: 
+1.  Van rechtswege zijn voor de duur van hun functievervulling aangewezen als meldingsplichtige: 
 
 a. de secretaris-generaal, en de loco secretaris-generaal,  
 
-b. de directeuren-generaal en de directeuren van de beleidsonderdelen bedoeld in de [bijlage behorende bij het door de Minister van Economische Zaken vastgesteld besluit houdende regels inzake mandaat, volmacht en machtiging voor het ministerie](../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/ez/2012/BWBR0032426/README.md),  
+b. de directeuren-generaal en de directeuren van de beleidsonderdelen bedoeld in de bijlage behorende bij het door de Minister van Economische Zaken vastgesteld besluit houdende regels inzake mandaat, volmacht en machtiging voor het ministerie,  
 
 c. het hoofd van dienst en de hoofden van een organisatie-onderdeel van: 
 
@@ -176,7 +182,7 @@ c. het hoofd van dienst en de hoofden van een organisatie-onderdeel van:
 
 2°. de Dienst Landelijk Gebied, en  
 
-3°. het directoraat-generaal Uitvoering.    
+3°. de Rijksdienst voor Ondernemend Nederland,    
 
 d. de inspecteur-generaal van de Nederlandse Voedsel- en Warenautoriteit,  
 
@@ -192,8 +198,16 @@ i. de directeur Financieel-Economische Zaken,
 
 j. de directeur Wetgeving en Juridische Zaken,  
 
-k. de compliance officers.     
-2.  Voor de in het eerste lid bedoelde functionarissen geldt een restricted list die bestaat uit alle effecten.  
+k. de compliance officers,  
+
+l. de leden van de centrale commissie dierproeven en de onder haar gezag werkzame medewerkers,  
+
+m. de leden van het nationaal comité en de onder zijn gezag werkzame medewerkers.    
+2.  Voor degenen, bedoeld in het eerste lid, geldt een restricted list die bestaat uit: 
+
+a. alle effecten: voor degenen, bedoeld in de onderdelen a tot en met k;  
+
+b. alle effecten betreffende bedrijven en instellingen die een belang hebben bij het verrichten van dierproeven: voor degenen, bedoeld in de onderdelen l en m.    
 
 ### Artikel  12  
 
@@ -210,7 +224,7 @@ k. de compliance officers.
 
 1.  De meldingsplichtige verricht meldingen door deze schriftelijk te richten tot zijn hoofd van dienst en toe te zenden aan de betrokken compliance officer.   
 2.  De meldingsplichtige maakt voor meldingen gebruik van het in bijlage 2 bij deze regeling opgenomen formulier.  
-3. In afwijking van het eerste lid zenden de compliance officers hun meldingen aan de secretaris-generaal en richten de leden van de raad van bestuur van de Autoriteit Consument en Markt hun meldingen aan de secretaris-generaal.  
+3. In afwijking van het eerste lid zenden de compliance officers hun meldingen aan de secretaris-generaal en richten de leden van de Autoriteit Consument en Markt, de leden van de centrale commissie dierproeven en de leden van het nationaal comité hun meldingen aan de secretaris-generaal.  
 4.  Iedere melding geschiedt onverwijld nadat het feit dat of de gebeurtenis die gemeld moet worden aan de meldingsplichtige bekend is geworden.  
 
 ### Artikel  15  
@@ -222,7 +236,7 @@ k. de compliance officers.
 
 a. de feiten of omstandigheden op grond waarvan de ontheffing werd verleend zijn gewijzigd;  
 
-b. de medewerker de bij of krachtens [artikel 61a van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) gestelde regels dan wel een aan de ontheffing verbonden voorschrift niet nakomt.    
+b. de medewerker de bij of krachtens artikel 61a van het Algemeen Rijksambtenarenreglement gestelde regels dan wel een aan de ontheffing verbonden voorschrift niet nakomt.    
 
 ### §  5  
 
@@ -277,8 +291,8 @@ Indien de medewerker het geschenk dat niet mag worden aangenomen toch heeft aang
 
 ### Artikel  24  
 
-1.  De vertrouwenspersoon integriteit heeft in aanvulling op [artikel 8 van het Besluit melden vermoeden van misstand bij Rijk en Politie](../../../../../AMvB/besluit/melden/vermoeden/van/misstand/bij/rijk/en/politie/BWBR0026951/README.md) tot taak een medewerker wiens integriteit in het geding is of dreigt te geraken desgevraagd te adviseren over de wijze waarop hij hiermee kan omgaan.   
-2.  De vertrouwenspersoon integriteit stelt bij het uitoefenen van zijn taak de betrokken medewerker vooraf op de hoogte van het feit dat de vertrouwensfunctie een grens vindt in [artikel 162 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+1.  De vertrouwenspersoon integriteit heeft in aanvulling op artikel 8 van het Besluit melden vermoeden van misstand bij Rijk en Politie tot taak een medewerker wiens integriteit in het geding is of dreigt te geraken desgevraagd te adviseren over de wijze waarop hij hiermee kan omgaan.   
+2.  De vertrouwenspersoon integriteit stelt bij het uitoefenen van zijn taak de betrokken medewerker vooraf op de hoogte van het feit dat de vertrouwensfunctie een grens vindt in artikel 162 van het Wetboek van Strafvordering.  
 
 ### Artikel  25  
 
@@ -332,7 +346,8 @@ g. conclusies en aanbevelingen.
 
 ### Artikel  30  
 
-Voor de toepassing van de artikelen 2 tot en met 21 fungeert voor de hoofden van dienst de secretaris-generaal als hoofd van dienst en voor de secretaris-generaal de minister. 
+1.  Voor de toepassing van de artikelen 2 tot en met 21 fungeert voor de hoofden van dienst de secretaris-generaal als hoofd van dienst of als hoofd van een dienst-onderdeel en voor de secretaris-generaal de minister.   
+2.  In afwijking van het eerste lid, fungeert voor de leden van de centrale commissie dierproeven en de leden van het nationaal comité voor de toepassing van de artikelen 2 tot en met 21 de secretaris-generaal als hoofd van dienst en als hoofd van een dienstonderdeel.  
 
 ### Artikel  31  
 
@@ -340,7 +355,7 @@ Wijzigt deze regeling.
 
 ### Artikel  32  
 
-1. De [Regeling uitvoering integriteitsbeleid EZ](../../../../../ministeriele-regeling/regeling/uitvoering/integriteitsbeleid/ez/BWBR0009692/README.md) wordt ingetrokken. 
+1. De Regeling uitvoering integriteitsbeleid EZ wordt ingetrokken. 
 2. De circulaires van de Minister van Landbouw, Natuurbeheer en Visserij betreffende:
 
 a. geschenken, d.d. 12 oktober 1999, met kenmerk P&O 99-3600,  
@@ -396,7 +411,7 @@ Datum en handtekening:
 
 ####Toelichting op het Registratieformulier Nevenwerkzaamheden:
 
-De regeling uitvoering integriteitbeleid EZ bevat de onderstaande bepalingen ten aanzien van nevenwerkzaamheden: De medewerker doet aan het hoofd van zijn dienst schriftelijk opgave van de nevenwerkzaamheden, die hij verricht of van plan is te gaan verrichten, die de belangen van de dienst voor zover deze in verband staan met zijn functievervulling kunnen raken. Dit hoeft niet indien er sprake is van activiteiten als bedoeld in [artikel 33b van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en werkzaamheden ten behoeve van politieke partijen in de vrije tijd. Opgave van de medewerkers aan het hoofd van dienst bevat de volgende gegevens: 
+De regeling uitvoering integriteitbeleid EZ bevat de onderstaande bepalingen ten aanzien van nevenwerkzaamheden: De medewerker doet aan het hoofd van zijn dienst schriftelijk opgave van de nevenwerkzaamheden, die hij verricht of van plan is te gaan verrichten, die de belangen van de dienst voor zover deze in verband staan met zijn functievervulling kunnen raken. Dit hoeft niet indien er sprake is van activiteiten als bedoeld in artikel 33b van het Algemeen Rijksambtenarenreglement en werkzaamheden ten behoeve van politieke partijen in de vrije tijd. Opgave van de medewerkers aan het hoofd van dienst bevat de volgende gegevens: 
 
 A. Naam van de medewerker;  
 
@@ -408,7 +423,7 @@ D. Het verband tussen die werkzaamheden en zijn functievervulling;
 
 E. De naam van de natuurlijke of rechtspersoon ten behoeve van wie de nevenwerkzaamheden worden of zullen worden verricht.   Het hoofd van dienst beoordeelt of de nevenwerkzaamheden de goede vervulling van zijn functie door de medewerker of de goede functionering van de openbare dienst kunnen belemmeren. Indien de uitkomst positief is, verleent het hoofd van dienst schriftelijk toestemming voor het verrichten van de gemelde nevenwerkzaamheden. Indien toestemming in beginsel tot een negatieve uitkomst leidt, onderzoekt het hoofd van dienst de mogelijkheid tot het maken van zodanige schriftelijke afspraken met de medewerker, dat de negatieve effecten die zijn verbonden aan het verrichten van die nevenwerkzaamheden teniet worden gedaan. Indien dergelijke afspraken niet mogelijk zijn, verleent het hoofd van dienst geen toestemming voor het verrichten van de gemelde nevenwerkzaamheden. 
 
-####[Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md)
+####Wet bescherming persoonsgegevens
 
 Aan de medewerker wordt medegedeeld dat de gegevens worden verwerkt voor de beoordeling door het hoofd van dienst van de vraag of door het verrichten van de nevenwerkzaamheden de goede vervulling van de functie of het goed functioneren van de openbare dienst, voor zover deze in verband staan met de functievervulling, niet in redelijkheid zou zijn verzekerd. De gegevens worden vervolgens verstrekt aan het registratiepunt integriteit, dat ze opneemt in het register van gemelde nevenwerkzaamheden als bedoeld in art. 61, tweede lid, van het ARAR, en daaruit een vertrouwelijk en geanonimiseerd verslag verstrekt aan de secretaris-generaal. Van topmanagers worden de gegevens openbaar gemaakt. De verantwoordelijke voor deze verwerkingen is de Minister van Economische Zaken, voor deze respectievelijk het hoofd van dienst en de directeur Bedrijfsvoering, Postbus 20401, 2500 EK DEN HAAG. Meer bijzonderheden over het gebruik van de persoonsgegevens treft u aan in het WBP-meldingenregister van EZ: http://www.rijksoverheid.nl/onderwerpen/persoonsgegevens/verwerking-en-toezicht-persoonsgegevens/meldingenregister-ministerie-van-economische-zaken-landbouw-en-innovatie. 
 
@@ -475,7 +490,7 @@ Indien er een ontheffing is gegeven van de meldplicht of het verbod op het bezit
 
 Het formulier wordt gericht aan het hoofd van dienst, en gezonden aan de *compliance officer*. De *compliance officer* registreert de meldingen en adviseert het hoofd van dienst gevraagd en ongevraagd over de uitvoering en handhaving van de regeling over financiële belangen. Aan u kan worden gevraagd om nadere informatie te verstrekken, als daarvoor aanleiding bestaat op grond van de melding, of na de melding gebleken feiten en omstandigheden. U kunt de *compliance officer* raadplegen over uw financiële belangen in relatie tot integriteitsvragen. 
 
-####[Wet bescherming persoonsgegevens](../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md)
+####Wet bescherming persoonsgegevens
 
 Uw gegevens worden opgenomen in de registratie van meldingen als bedoeld in artikel 61a, tweede lid, van het ARAR door de betrokken compliance officer van het Ministerie van EZ. De gegevens worden verwerkt voor de beoordeling van de vraag of u financiële belangen heeft, effecten bezit of effectentransacties verricht waardoor de goede vervulling van uw functie of het goed functioneren van de openbare dienst, voor zover dit in verband staat met uw functievervulling, niet in redelijkheid zou zijn verzekerd. De gegevens zijn alleen toegankelijk voor diegenen die rechtstreeks betrokken zijn bij de naleving van de integriteitsregels. De verantwoordelijke voor deze verwerking is de Minister van Economische Zaken, Postbus 20401, 2500 EK DEN HAAG. Meer bijzonderheden over het gebruik van de persoonsgegevens treft u aan in het WBP-meldingenregister van EZ: http://www.rijksoverheid.nl/onderwerpen/persoonsgegevens/verwerking-en-toezicht-persoonsgegevens/meldingenregister-ministerie-van-economische-zaken-landbouw-en-innovatie. 
 

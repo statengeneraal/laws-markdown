@@ -3,7 +3,7 @@
 ##Beleidsregel keuring en ontheffingverlening LZV
 
 De directie van de Dienst Wegverkeer,  
-Gelet op artikel 4, vierde lid, van Richtlijn nr. 96/53/EG EG van de Raad van 25 juli 1996 houdende vaststelling voor bepaalde aan het verkeer binnen de Gemeenschap deelnemende wegvoertuigen, van de in het nationale en het internationale verkeer maximaal toegestane afmetingen, en van de in het internationaal verkeer maximaal toegestane gewichten (PbEU L 235) en op [artikel 149a, tweede lid, van de Wegenverkeerswet 1994](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [artikel 4:83 Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), het [Besluit Voertuigen](../../../../../../../AMvB/besluit/voertuigen/BWBR0025554/README.md) en het [Besluit ontheffingverlening exceptionele transporten](../../../../../../../AMvB/besluit/ontheffingverlening/exceptionele/transporten/BWBR0018680/README.md);
+Gelet op artikel 4, vierde lid, van Richtlijn nr. 96/53/EG EG van de Raad van 25 juli 1996 houdende vaststelling voor bepaalde aan het verkeer binnen de Gemeenschap deelnemende wegvoertuigen, van de in het nationale en het internationale verkeer maximaal toegestane afmetingen, en van de in het internationaal verkeer maximaal toegestane gewichten (PbEU L 235) en op artikel 149a, tweede lid, van de Wegenverkeerswet 1994, artikel 4:83 Algemene wet bestuursrecht, het Besluit Voertuigen en het Besluit ontheffingverlening exceptionele transporten;
 Besluit:     
 ### §  1  
 
@@ -13,11 +13,11 @@ Besluit:
 
 ####Definities
 
-Voor de toepassing van deze beleidsregel worden de begripsbepalingen van de [Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) overgenomen. Voorts wordt verstaan onder: 
+Voor de toepassing van deze beleidsregel worden de begripsbepalingen van de Regeling voertuigen overgenomen. Voorts wordt verstaan onder: 
 
 a. *aantekening op het kentekenbewijs dan wel aantekening in het kentekenregister:* bijzonderheidscode op het kentekenbewijs dan wel in het kentekenregister waaruit blijkt dat het voertuig na keuring geschikt is bevonden voor gebruik in een LZV;  
 
-b.  *autonome beslisruimte LZV:* de actuele gegevens waarbij de wegbeheerder een weg of weggedeelte als geschikt voor het berijden met een LZV opgeeft waarvoor de Dienst Wegverkeer zonder toestemming als bedoeld in [artikel 149b, tweede lid, van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [artikel 4 van het Besluit ontheffing verlening exceptionele transporten](../../../../../../../AMvB/besluit/ontheffingverlening/exceptionele/transporten/BWBR0018680/README.md) ontheffing mag verlenen voor LZV’s onder de daarbij van toepassing zijnde beperkingen en voorschriften;  
+b.  *autonome beslisruimte LZV:* de actuele gegevens waarbij de wegbeheerder een weg of weggedeelte als geschikt voor het berijden met een LZV opgeeft waarvoor de Dienst Wegverkeer zonder toestemming als bedoeld in artikel 149b, tweede lid, van de Wet en artikel 4 van het Besluit ontheffing verlening exceptionele transporten ontheffing mag verlenen voor LZV’s onder de daarbij van toepassing zijnde beperkingen en voorschriften;  
 
 c.  *digitale wegenkaart LZV:* elektronische weergave van de actuele autonome beslisruimte LZV die door de Dienst Wegverkeer ten behoeve van de ontheffinghouders ter beschikking wordt gesteld;  
 
@@ -39,7 +39,7 @@ j.  *samenstel van buitenlandse voertuigen:* samenstel van voertuigen waarbij de
 
 ####Toepassingsgebied
 
-Deze beleidsregel is van toepassing op de behandeling van aanvragen voor een keuring en ontheffing voor een LZV op basis van [artikel 149a, tweede lid, van de Wet](../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md). 
+Deze beleidsregel is van toepassing op de behandeling van aanvragen voor een keuring en ontheffing voor een LZV op basis van artikel 149a, tweede lid, van de Wet. 
 
 ### Artikel  3  
 
@@ -148,7 +148,7 @@ Indiening van aanvragen kan uitsluitend schriftelijk plaatsvinden.
 ####Intrekken van de aanvraag
 
 1.  Een ontheffingsaanvraag kan uitsluitend schriftelijk door de indiener worden ingetrokken.   
-2.  Het intrekken van een ingediende aanvraag wordt uitsluitend conform de [Regeling tarieven van de Dienst Wegverkeer](../../../../../../../zbo/regeling/tarieven/dienst/wegverkeer/2012/BWBR0030880/README.md)<sup> 1 De Dienst Wegverkeer maakt de tarieven bekend in de Staatscourant. </sup> behandeld indien de intrekking binnen 24 uur na registratie van de aanvraag is gedaan en op dat moment nog geen besluit is verzonden.  
+2.  Het intrekken van een ingediende aanvraag wordt uitsluitend conform de Regeling tarieven van de Dienst Wegverkeer<sup> 1 De Dienst Wegverkeer maakt de tarieven bekend in de Staatscourant. </sup> behandeld indien de intrekking binnen 24 uur na registratie van de aanvraag is gedaan en op dat moment nog geen besluit is verzonden.  
 
 ### Artikel  11  
 
@@ -225,13 +225,13 @@ j. markering achterste voertuig LZV.
 
 ####Overgangsregeling
 
-1.  De onder de [Beleidsregel Ervaringsfase ontheffingverlening LZV 2009](../../../../../../../zbo/beleidsregel/ervaringsfase/ontheffingverlening/lzv/2009/BWBR0026390/README.md) afgegeven aantekeningen op het kentekenbewijs alsmede de afgegeven LZV attesten behouden hun geldigheid.  
+1.  De onder de Beleidsregel Ervaringsfase ontheffingverlening LZV 2009 afgegeven aantekeningen op het kentekenbewijs alsmede de afgegeven LZV attesten behouden hun geldigheid.  
 
 ### Artikel  17  
 
 ####Intrekking
 
-De [Beleidsregel Ervaringsfase ontheffingverlening LZV 2009](../../../../../../../zbo/beleidsregel/ervaringsfase/ontheffingverlening/lzv/2009/BWBR0026390/README.md) wordt ingetrokken met ingang van 1 januari 2013. 
+De Beleidsregel Ervaringsfase ontheffingverlening LZV 2009 wordt ingetrokken met ingang van 1 januari 2013. 
 
 ### Artikel  18  
 
@@ -260,7 +260,7 @@ Daar waar in deze bijlage naar een richtlijn of verordening wordt verwezen, word
 
 Een trekkend motorrijtuig moet: 
 
-a. behoren tot categorie N2 of N3, als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) (onder ‘voertuigen van de voertuigcategorie N’) en waarvoor een kenteken zonder gebruiksbeperking is opgegeven;  
+a. behoren tot categorie N2 of N3, als bedoeld in artikel 1.1 van de Regeling voertuigen (onder ‘voertuigen van de voertuigcategorie N’) en waarvoor een kenteken zonder gebruiksbeperking is opgegeven;  
 
 b. uitgerust zijn met een EBS drukluchtremsysteem als bedoeld in ECE 13<sup> 1  VN ECE-reglement nr. 13 met uniforme eisen betreffende de goedkeuring van remsystemen van bedrijfsvoertuigen. </sup> par. 5.1.3.1.2;  
 
@@ -274,13 +274,13 @@ f. voorzien zijn van opvallende markering als bedoeld in en geïnstalleerd volge
 
 g. voorzien zijn van een afscherming als bedoeld in richtlijn 2000/40/EG <sup> 5  Richtlijn nr. 2000/40/EG van het Europees Parlement en de Raad van de Europese Unie van 26 juni 2000 inzake de onderlinge aanpassing van de wetgevingen der lidstaten betreffende de beschermingsinrichting aan de voorzijde tegen klemrijden van motorvoertuigen en houdende wijziging van richtlijn nr. 70/156/EEG van de Raad (PbEG L 203). </sup>;  
 
-h. indien het geen bedrijfsauto als bedoeld in [artikel 5.3.45, twaalfde lid, van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) is: 
+h. indien het geen bedrijfsauto als bedoeld in artikel 5.3.45, twaalfde lid, van de Regeling voertuigen is: 
 
-1. onverminderd [artikel 5.3.45, vijftiende lid, van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), aan de rechterzijde zijn voorzien van een gezichtsveld verbeterende voorziening als bedoeld in artikel 5.3.45, elfde lid, van de Regeling voertuigen;  
+1. onverminderd artikel 5.3.45, vijftiende lid, van de Regeling voertuigen, aan de rechterzijde zijn voorzien van een gezichtsveld verbeterende voorziening als bedoeld in artikel 5.3.45, elfde lid, van de Regeling voertuigen;  
 
 2. aan de voorzijde zijn voorzien van: 
 
-a. een vooruitkijkspiegel, bedoeld in [artikel 5.3.43, zevende lid, onder a, van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), of,  
+a. een vooruitkijkspiegel, bedoeld in artikel 5.3.43, zevende lid, onder a, van de Regeling voertuigen, of,  
 
 b. een andere spiegel waarmee het weggedeelte kan worden overzien dat wordt begrensd door: 
 
@@ -298,7 +298,7 @@ j. ten minste een vermogen van de motor in Kw hebben, vastgesteld volgens richtl
 
 k. niet zijn uitgerust met een tank of vloeistofcontainer voor vloeibare lading met een volume van meer dan 1000 L;  
 
-l. niet zijn ingericht voor vervoer van vee als bedoeld in [artikel 1 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) <sup> 6 Stb. 1992, 585. </sup>;  
+l. niet zijn ingericht voor vervoer van vee als bedoeld in artikel 1 van de Gezondheids- en welzijnswet voor dieren <sup> 6 Stb. 1992, 585. </sup>;  
 
 m. indien het is uitgerust met een voertuigstabiliteitsfunctie als bedoeld in artikel 12 van de verordening 661/2009 bij inwerkingtreding van dit systeem automatisch het remsysteem van de aangekoppelde aanhangwagen(s) activeren.     
 
@@ -308,7 +308,7 @@ m. indien het is uitgerust met een voertuigstabiliteitsfunctie als bedoeld in ar
 
 1. Het getrokken voertuig moet: 
 
-a. behoren tot categorie O3 of O4 als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), niet zijnde dieplader, en waarvoor een kenteken zonder gebruiksbeperking is opgegeven;  
+a. behoren tot categorie O3 of O4 als bedoeld in artikel 1.1 van de Regeling voertuigen, niet zijnde dieplader, en waarvoor een kenteken zonder gebruiksbeperking is opgegeven;  
 
 b. uitgerust zijn met een EBS drukluchtremsysteem als bedoeld in ECE Reglement 13, par. 5.1.3.1.2.;  
 
@@ -324,7 +324,7 @@ e. voorzien zijn van opvallende markering als bedoeld in en geïnstalleerd volge
 
 f. niet zijn uitgerust met een tank of vloeistofcontainer voor vloeibare lading met een volume van meer dan 1000 L;  
 
-g. niet zijn ingericht voor vervoer van vee als bedoeld in [artikel 1 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md);  
+g. niet zijn ingericht voor vervoer van vee als bedoeld in artikel 1 van de Gezondheids- en welzijnswet voor dieren;  
 
 h. zodanig zijn ingericht dat de druk per as of per asstel van dit voertuig via de datakabel van het remsysteem (CANbus) voor verdere verwerking wordt aangeboden, of een afleeseenheid hebben waarop de druk per as of asstel wordt weergegeven, met een afleesnauwkeurigheid van ten minste 0,1 ton of 100 kg.    
 
@@ -338,15 +338,15 @@ c. de koppeling voor het aankoppelen van een aanhangwagen of oplegger voldoen aa
 
 d. indien het is uitgerust met een voertuigstabiliteitsfunctie als bedoeld in artikel 12 van de verordening 661/2009, bij inwerking treden van dit systeem automatisch het remsysteem van de erachter gekoppelde aanhangwagen activeren.    
 
-3. Uitschuifbare aanhangwagens en een samenstel van aanhangwagens, die zijn gekoppeld op een manier waardoor horizontale verdraaiing ten opzichte van elkaar onmogelijk is, moeten voldoen aan de toelatingseisen uit [hoofdstuk 3 van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).   
+3. Uitschuifbare aanhangwagens en een samenstel van aanhangwagens, die zijn gekoppeld op een manier waardoor horizontale verdraaiing ten opzichte van elkaar onmogelijk is, moeten voldoen aan de toelatingseisen uit hoofdstuk 3 van de Regeling voertuigen.   
 
 ### Artikel  3  
 
 Voor een LZV geldt dat: 
 
-1. in aanvulling op het bepaalde in de [Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), de maximale toegestane som van de aslasten van een door een andere aanhangwagen voort te bewegen middenasaanhangwagen wordt vastgesteld op ten hoogste de som van de aslasten van de trekkende aanhangwagen.  
+1. in aanvulling op het bepaalde in de Regeling voertuigen, de maximale toegestane som van de aslasten van een door een andere aanhangwagen voort te bewegen middenasaanhangwagen wordt vastgesteld op ten hoogste de som van de aslasten van de trekkende aanhangwagen.  
 
-2. In aanvulling op [artikel 5.18.31, onder a, van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) mag de gezamenlijke som van de aslasten van twee door een bedrijfsauto voort te bewegen middenasaanhangwagens niet meer bedragen dan 1,5 maal de som van de aslasten van het trekkend motorvoertuig dan wel de in het kentekenregister of op het kentekenbewijs van het trekkende motorrijtuig vermelde toegestane maximum te trekken massa.   
+2. In aanvulling op artikel 5.18.31, onder a, van de Regeling voertuigen mag de gezamenlijke som van de aslasten van twee door een bedrijfsauto voort te bewegen middenasaanhangwagens niet meer bedragen dan 1,5 maal de som van de aslasten van het trekkend motorvoertuig dan wel de in het kentekenregister of op het kentekenbewijs van het trekkende motorrijtuig vermelde toegestane maximum te trekken massa.   
 
 ### Bijlage B 
 
@@ -396,7 +396,7 @@ De Directie van de Dienst Wegverkeer namens deze, Divisie Voertuigtechniek,  *Pl
 
 2. Een LZV heeft ten hoogste 2 draaipunten;  
 
-3. Een LZV heeft een totale lengte van ten hoogste 25.25 m. met inbegrip van de lading en met inachtneming van de in [artikel 5.1a.1, tweede lid, onder a, onderdeel 1° tot en met 14° van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) bepaalde meetmethode.   
+3. Een LZV heeft een totale lengte van ten hoogste 25.25 m. met inbegrip van de lading en met inachtneming van de in artikel 5.1a.1, tweede lid, onder a, onderdeel 1° tot en met 14° van de Regeling voertuigen bepaalde meetmethode.   
 
 ### Artikel  B  
 
@@ -408,7 +408,7 @@ Een ontheffing LZV mag niet worden gebruikt in combinatie met een ontheffing voo
 
 ####LZV ontheffing en vervoer ondeelbare lading
 
-Bij gebruik van een ontheffing LZV is het vervoer van ondeelbare lading op de wijze als bedoeld in de [artikelen 5.18.13](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) en [5.18.14 van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md) niet toegestaan. 
+Bij gebruik van een ontheffing LZV is het vervoer van ondeelbare lading op de wijze als bedoeld in de artikelen 5.18.13 en 5.18.14 van de Regeling voertuigen niet toegestaan. 
 
 ### Artikel  D  
 
@@ -426,7 +426,7 @@ Een LZV mag geen gevaarlijke stoffen vervoeren in hoeveelheden groter dan bedoel
 
 ####Verbod vervoer vee
 
-Een LZV mag geen vee vervoeren als bedoeld in [artikel 1 van de Gezondheids- en welzijnswet voor dieren](../../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md).  
+Een LZV mag geen vee vervoeren als bedoeld in artikel 1 van de Gezondheids- en welzijnswet voor dieren.  
 
 ### 2  
 
@@ -478,13 +478,13 @@ Voor een LZV geldt een inhaalverbod van alle motorvoertuigen die sneller mogen r
 
 ####Afmetingen en massa samenstellen van voertuigen uit LZV
 
-1. Elk uit een LZV te vormen samenstel van voertuigen moet voldoen aan de gebruikseisen van [hoofdstuk 5 afdeling 18 van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).  
+1. Elk uit een LZV te vormen samenstel van voertuigen moet voldoen aan de gebruikseisen van hoofdstuk 5 afdeling 18 van de Regeling voertuigen.  
 
 2. Elk afzonderlijk voertuig moet voldoen aan hoofdstuk 5 afdeling 3 voor bedrijfswagens respectievelijk afdeling 12 voor getrokken voertuigen.  
 
 3. Het trekkende motorvoertuig dient zodanig te zijn belast, dat tenminste 1/5 deel van de totale massa van de LZV onder de aangedreven as(sen) rust met als maximum, de maximale toegestane aslast(en), zoals vermeld op het kentekenbewijs dan wel in het kentekenregister.  
 
-4. Een samenstel van twee aanhangwagens die is gekoppeld op een manier waardoor horizontale verdraaiing ten opzichte van elkaar onmogelijk is, vormt voor het gebruik één aanhangwagen zoals bedoeld in [artikel 5.18.1 , zesde lid van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md).  
+4. Een samenstel van twee aanhangwagens die is gekoppeld op een manier waardoor horizontale verdraaiing ten opzichte van elkaar onmogelijk is, vormt voor het gebruik één aanhangwagen zoals bedoeld in artikel 5.18.1 , zesde lid van de Regeling voertuigen.  
 
 5. indien een LZV is uitgerust met een elektronische stabiliteitsfunctie als bedoeld in artikel 12 van de verordening 661/2009 moet bij inwerkingtreding van dit systeem automatisch het remsysteem van de aangekoppelde aanhangwagen(s) activeren.   
 
@@ -494,7 +494,7 @@ Voor een LZV geldt een inhaalverbod van alle motorvoertuigen die sneller mogen r
 
 Het trekkend motorrijtuig van een LZV moet zijn voorzien van: 
 
-1. zijdelingse afscherming als bedoeld in [artikel 5.3.48, vijfde lid, van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), waarbij als aanvullende eis geldt dat het oppervlak moet bestaan uit een doorlopend gesloten oppervlak;  
+1. zijdelingse afscherming als bedoeld in artikel 5.3.48, vijfde lid, van de Regeling voertuigen, waarbij als aanvullende eis geldt dat het oppervlak moet bestaan uit een doorlopend gesloten oppervlak;  
 
 2. opvallende markering als bedoeld in en geïnstalleerd volgens richtlijn 76/756/EEG en waarvan het toegepaste materiaal voldoet aan ECE-Reglement nr. 104 klasse C, waarbij als aanvullende eis geldt dat op trekkers van opleggers opvallende markering moet zijn aangebracht.   
 
@@ -504,7 +504,7 @@ Het trekkend motorrijtuig van een LZV moet zijn voorzien van:
 
 Het getrokken voertuig van een LZV moet zijn voorzien van: 
 
-1. zijdelingse afscherming als bedoeld in [artikel 5.12.48, vijfde lid, van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), met uitzondering een voertuig van de voertuigcategorie O -niet zijnde oplegger- dat van een koppelingsschotel is voorzien om een oplegger te dragen, als aanvullende eis geldt dat het oppervlak moet bestaan uit een doorlopend gesloten oppervlak, en waarbij 
+1. zijdelingse afscherming als bedoeld in artikel 5.12.48, vijfde lid, van de Regeling voertuigen, met uitzondering een voertuig van de voertuigcategorie O -niet zijnde oplegger- dat van een koppelingsschotel is voorzien om een oplegger te dragen, als aanvullende eis geldt dat het oppervlak moet bestaan uit een doorlopend gesloten oppervlak, en waarbij 
 
 1° voertuigen die uitgeschoven kunnen worden in uitgeschoven toestand tot de wettelijke maximale lengte moeten zijn voorzien van zijdelingse afscherming;  
 
@@ -562,5 +562,5 @@ In een LZV mag de som van de aslasten van een middenasaanhangwagen voortbewogen 
 
 ### Artikel  N  
 
-De totale massa van een LZV mag niet meer bedragen dan bedoeld in [artikel 5.18.17b, tweede lid, onderdeel c, van de Regeling voertuigen](../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), tenzij het trekkende motorvoertuig is voorzien van een hulpwegrij-inrichting als bedoeld in bijlage I, punt 2.14, van richtlijn nr. 97/27/EG  
+De totale massa van een LZV mag niet meer bedragen dan bedoeld in artikel 5.18.17b, tweede lid, onderdeel c, van de Regeling voertuigen, tenzij het trekkende motorvoertuig is voorzien van een hulpwegrij-inrichting als bedoeld in bijlage I, punt 2.14, van richtlijn nr. 97/27/EG  
 

@@ -12,13 +12,13 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ####Algemene bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  1  
 
 ####Begripsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -41,7 +41,7 @@ g.  *WHW:* Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ####Reikwijdte
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Deze wet heeft betrekking op lokale bibliotheken, provinciale ondersteuningsinstellingen en de Koninklijke Bibliotheek, voor haar taken op grond van deze wet. Zij zijn in het kader van deze wet openbare bibliotheekvoorzieningen. 
 
@@ -49,7 +49,7 @@ Deze wet heeft betrekking op lokale bibliotheken, provinciale ondersteuningsinst
 
 ####Toepasselijkheid op de BES
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba, met uitzondering van de artikelen 8, onderdelen a, b, c en e, 10, 11, eerste lid, 15 en 16. 
 
@@ -57,7 +57,7 @@ Deze wet is mede van toepassing in de openbare lichamen Bonaire, Sint Eustatius 
 
 ####Publieke waarden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Een openbare bibliotheekvoorziening heeft een publieke taak die zij voor het algemene publiek vervult op basis van de waarden onafhankelijkheid, betrouwbaarheid, toegankelijkheid, pluriformiteit en authenticiteit. 
 
@@ -65,7 +65,7 @@ Een openbare bibliotheekvoorziening heeft een publieke taak die zij voor het alg
 
 ####Bibliotheekfuncties
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Een voor een ieder toegankelijke openbare bibliotheekvoorziening omvat in ieder geval de volgende functies, die bijdragen aan de persoonlijke ontwikkeling en verbetering van de maatschappelijke kansen van het algemene publiek: 
 
@@ -83,7 +83,7 @@ e. laten kennis maken met kunst en cultuur.
 
 ####Netwerkverantwoordelijkheid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Onze Minister, de provinciebesturen, de gemeentebesturen en de besturen van de openbare lichamen Bonaire, Sint Eustatius en Saba zijn gezamenlijk verantwoordelijk voor een netwerk van openbare bibliotheekvoorzieningen.   
 2.  De partijen, genoemd in het eerste lid, geven zich bij de uitoefening van de verantwoordelijkheid, bedoeld in het eerste lid, rekenschap van de gemiddelde afstand tussen de lokale bibliotheekvoorziening en de inwoners van de financierende gemeente of gemeenten.   
@@ -96,13 +96,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Het bibliotheeknetwerk
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  7  
 
 ####Netwerk en deelnemers
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 De lokale bibliotheken, de provinciale ondersteuningsinstellingen en de Koninklijke Bibliotheek, voor wat betreft haar taak tot het in stand houden van de landelijke digitale bibliotheek, vormen één netwerk van openbare bibliotheekvoorzieningen als bedoeld in artikel 6. 
 
@@ -110,7 +110,7 @@ De lokale bibliotheken, de provinciale ondersteuningsinstellingen en de Koninkli
 
 ####Functioneren van het netwerk
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Een deelnemer aan het netwerk als bedoeld in artikel 7: 
 
@@ -130,7 +130,7 @@ f. ondersteunt het onderwijs.
 
 ####Taken Koninklijke Bibliotheek
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 De Koninklijke Bibliotheek verricht in aanvulling op de taken, bedoeld in artikel 1.5, tweede lid, van de WHW, de volgende taken: 
 
@@ -150,7 +150,7 @@ c. verzorgen van een bibliotheekvoorziening van noodzakelijk omgezette werken vo
 
 ####Collectieplan
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De Koninklijke Bibliotheek stelt elke vier jaar voor de deelnemers aan het netwerk, bedoeld in artikel 7, een gezamenlijk collectieplan vast.   
 2.  Het collectieplan heeft tot doel samenhang te bewerkstelligen tussen de fysieke en digitale collecties van de openbare bibliotheekvoorzieningen. Het biedt een kader voor het samenstellen en beheren van de collectie door een voorziening.   
@@ -160,7 +160,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Gegevenslevering
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Ten behoeve van de gezamenlijke catalogus voor de landelijke digitale bibliotheek verstrekken lokale bibliotheken en provinciale ondersteuningsinstellingen gegevens over de collectie en de beschikbaarheid daarvan aan de Koninklijke Bibliotheek.   
 2.  Ten behoeve van de beleidsontwikkeling verstrekken lokale bibliotheken, de provinciale ondersteuningsinstellingen en de Koninklijke Bibliotheek aan Onze Minister gegevens over de desbetreffende openbare bibliotheekvoorziening die niet tot de persoon herleidbare gegevens van gebruikers en personeel betreffen.   
@@ -171,7 +171,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Lidmaatschap
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Een ieder die als ingezetene is ingeschreven in de basisregistratie personen, bedoeld in artikel 1.2 van de Wet basisregistratie personen, of in een basisadministratie als bedoeld in artikel 2 van de Wet basisadministraties persoonsgegevens BES kan lid worden van de openbare bibliotheek.   
 2.  Het lidmaatschap bij de openbare bibliotheek kan het gebruik van een fysieke voorziening, de digitale voorziening of beide voorzieningen omvatten.   
@@ -182,7 +182,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Contributievrijstelling jeugd lokale bibliotheken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Voor het uitlenen van gedrukte werken door lokale bibliotheken aan personen beneden de leeftijd van achttien jaren wordt geen contributie of andere geldelijke bijdrage geheven, tenzij het college van burgemeester en wethouders of het bestuurscollege heeft besloten dat een geldelijke bijdrage wordt geheven. De contributie of andere geldelijke bijdrage bedraagt ten hoogste de helft van de contributie of andere geldelijke bijdrage die wordt geheven van personen die achttien jaren of ouder zijn.   
 2.  Voor het uitlenen van overige werken door lokale bibliotheken aan personen beneden de leeftijd van achttien jaren wordt ten hoogste de helft van de contributie of andere geldelijke bijdrage geheven van die geldt voor personen van boven de achttien jaren. Voor personen beneden de leeftijd van achttien jaren wordt geen tarief als bedoeld in artikel 14, contributie of geldelijke bijdrage vastgesteld voor de toegang tot door de Koninklijke Bibliotheek aangewezen digitale werken.  
@@ -191,7 +191,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Tarieven landelijke digitale bibliotheek
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 De Koninklijke Bibliotheek kan na overleg met vertegenwoordigers van de lokale bibliotheken tarieven vaststellen voor de toegang tot digitale werken of het gebruik van digitale diensten of bronnen. 
 
@@ -199,13 +199,13 @@ De Koninklijke Bibliotheek kan na overleg met vertegenwoordigers van de lokale b
 
 ####De fysieke openbare bibliotheek
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  15  
 
 ####Interbibliothecair leenverkeer
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Alle lokale bibliotheken en provinciale ondersteuningsinstellingen nemen deel aan het interbibliothecaire leenverkeer.   
 2.  Deelname aan het interbibliothecaire leenverkeer houdt in ieder geval in: 
@@ -220,7 +220,7 @@ c. distributie van fysieke werken door provinciale ondersteuningsinstellingen.
 
 ####Provinciale ondersteuningstaken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Een provinciale ondersteuningsinstelling is verantwoordelijk voor de distributie van fysieke werken door middel van het interbibliothecaire leenverkeer binnen de provincie of provincies waardoor zij wordt gesubsidieerd of in stand gehouden.   
 2.  De provinciale ondersteuningsinstellingen zijn gezamenlijk verantwoordelijk voor: 
@@ -233,13 +233,13 @@ b. ontwikkeling van innovaties ten behoeve van de lokale bibliotheken, in overee
 
 ####De landelijke digitale bibliotheek
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  17  
 
 ####Uitvoering en beheerplan
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het in stand houden van de landelijke digitale bibliotheek door de Koninklijke Bibliotheek houdt in ieder geval in: 
 
@@ -258,7 +258,7 @@ e. samenwerken met andere publieke aanbieders van digitale werken.
 
 ####Inkoop digitale werken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De Koninklijke Bibliotheek verricht namens de Staat der Nederlanden het inkopen van werken voor de landelijke digitale bibliotheek.   
 2.  Onze Minister stelt jaarlijks aan de Koninklijke Bibliotheek een bedrag ter beschikking voor het inkopen van werken.   
@@ -268,13 +268,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Financiële en administratieve bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  19  
 
 ####Bekostiging en overige voorschriften Koninklijke Bibliotheek
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De Koninklijke Bibliotheek ontvangt voor de vervulling van haar taken, bedoeld in artikel 9, een aanvulling op haar rijksbijdrage, bedoeld in artikel 2.6a van de WHW.   
 2.  Op de aanvulling is artikel 2.6a van de WHW van overeenkomstige toepassing.   
@@ -291,7 +291,7 @@ c. in de jaarverslaglegging, bedoeld in artikel 2.9 van de WHW.
 
 ####Subsidieverstrekking Koninklijke Bibliotheek
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Ten behoeve van de taken, bedoeld in artikel 9, kan de Koninklijke Bibliotheek subsidie verstrekken.   
 2.  Indien de Koninklijke Bibliotheek subsidie verstrekt stelt het algemeen bestuur een reglement vast waarin in ieder geval wordt vastgelegd de werkwijze, de procedures en de criteria die het bestuur bij het verstrekken van subsidies hanteert, alsmede de verplichtingen die aan de subsidieontvanger worden opgelegd.   
@@ -303,7 +303,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Subsidieverstrekking Minister
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Onze Minister kan ten behoeve van het netwerk van openbare bibliotheekvoorzieningen in bijzondere gevallen subsidie verstrekken.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor het verstrekken van subsidie.  
@@ -312,7 +312,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Intellectuele eigendomsrechten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Bij het uitvoeren van de taken, bedoeld in artikel 9, streeft de Koninklijke Bibliotheek er naar de eigendom of een overdraagbaar gebruiksrecht te verkrijgen van bij die uitvoering gevestigde intellectuele eigendomsrechten.   
 2.  Op verzoek van Onze Minister werkt de Koninklijke Bibliotheek mee aan het tot stand komen van een overeenkomst tot het overdragen aan de Staat der Nederlanden van de rechten, bedoeld in het eerste lid. Voor zover wettelijk mogelijk, doet zij afstand van persoonlijkheidsrechten als bedoeld in de Auteurswet die haar of haar personeel toebehoren.  
@@ -321,7 +321,7 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Toezicht ministeriële subsidies
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Met het toezicht op de naleving van de verplichtingen die van toepassing zijn op een subsidieontvanger bij verstrekking van subsidie als bedoeld in artikel 21, zijn belast de bij besluit van Onze Minister aangewezen personen.   
 2.  De toezichthouder beschikt niet over de bevoegdheden, genoemd in de artikelen 5:18 en 5:19 van de Algemene wet bestuursrecht.   
@@ -332,13 +332,13 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Wijziging andere wetten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  24  
 
 ####Wet op het hoger onderwijs en wetenschappelijk onderzoek
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek. 
 
@@ -346,7 +346,7 @@ Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek.
 
 ####Wet op het specifiek cultuurbeleid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op het specifiek cultuurbeleid. 
 
@@ -354,7 +354,7 @@ Wijzigt de Wet op het specifiek cultuurbeleid.
 
 ####Wet op de vaste boekenprijs
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de vaste boekenprijs. 
 
@@ -362,7 +362,7 @@ Wijzigt de Wet op de vaste boekenprijs.
 
 ####Auteurswet
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Auteurswet. 
 
@@ -370,7 +370,7 @@ Wijzigt de Auteurswet.
 
 ####Wet op de naburige rechten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de naburige rechten. 
 
@@ -378,13 +378,13 @@ Wijzigt de Wet op de naburige rechten.
 
 ####Slotbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  29  
 
 ####Evaluatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
@@ -392,7 +392,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
@@ -400,7 +400,7 @@ Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, da
 
 ####Citeertitel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Deze wet wordt aangehaald als: Wet stelsel openbare bibliotheekvoorzieningen. 
 

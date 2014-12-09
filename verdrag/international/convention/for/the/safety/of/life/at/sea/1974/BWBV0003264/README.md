@@ -8733,7 +8733,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | Port of registry .........  |
 | Gross tonnage .........  |
 | Sea areas in which ship is certified to operate (regulation IV/2) .........  |
-| IMO Number<sup>3)</sup> .........  |
+| IMO Number .........  |
 | Date of build:  |
 | --- | --- | Date of building contract ........  | --- |
 | --- | --- | Date on which keel was laid or ship was at similar stage of construction ........  | --- |
@@ -8753,7 +8753,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | .2.  | the watertight subdivision arrangements and details;  | --- | --- |
 | --- | --- | .3.  | the following subdivision load lines:  | --- | --- |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-| --- | Subdivision load lines assigned and marked on the ship’s side amidships (regulation II-1/18)<sup>4)</sup>  | Freeboard  | To apply when the spaces in which passengers are carried include the following alternative spaces  | --- |
+| --- | Subdivision load lines assigned and marked on the ship’s side amidships (regulation II-1/18)<sup>3)</sup>  | Freeboard  | To apply when the spaces in which passengers are carried include the following alternative spaces  | --- |
 | --- | P1  | ..........  | ..........  | --- |
 | --- | P2  | ..........  | ..........  | --- |
 | --- | P3  | ..........  | ..........  | --- |
@@ -8812,7 +8812,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | Date: ........  |
 | *(Seal or stamp of the authority, as appropriate)*  |
 
-<sup>1)</sup> Delete as appropriate.<sup>2)</sup> Alternatively, the particulars of the ship may be placed horizontally in boxes.<sup>3)</sup> In accordance with the *IMO ship identification number scheme*, adopted by the Organization by resolution A.600(15).<sup>4)</sup> For ships constructed before 1 January 2009, the applicable subdivision notation “C.1, C.2 and C.3” should be used. 
+<sup>1)</sup> Delete as appropriate.<sup>2)</sup> Alternatively, the particulars of the ship may be placed horizontally in boxes.<sup>3)</sup> For ships constructed before 1 January 2009, the applicable subdivision notation “C.1, C.2 and C.3” should be used. 
 
 | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|
@@ -8835,9 +8835,9 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | Port of registry .........  |
 | Gross tonnage .........  |
 | Deadweight of ship (metric tons)<sup>2)</sup> .........  |
-| IMO Number<sup>3)</sup> .........  |
+| IMO Number .........  |
 | --- | --- | --- | --- | --- | --- |
-| Type of ship<sup>4)</sup>  |
+| Type of ship<sup>3)</sup>  |
 | --- | Bulk carrier  |
 | --- | Oil tanker  |
 | --- | Chemical tanker  |
@@ -8860,13 +8860,13 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | --- | --- | --- |
 | 3.  | That the last two inspections of the outside of the ship’s bottom took place on .......... and ........ *(dates)*  |
 | --- | --- | --- | --- | --- | --- |
-| 4.  | That an Exemption Certificate has/has not<sup>4)</sup> been issued.  |
+| 4.  | That an Exemption Certificate has/has not<sup>3)</sup> been issued.  |
 | --- | --- | --- | --- | --- | --- |
-| 5.  | The ship was/was not<sup>4)</sup> subjected to an alternative design and arrangements in pursuance of regulation(s) II-1/55 / II-2/17<sup>4)</sup> of the Convention.  |
+| 5.  | The ship was/was not<sup>3)</sup> subjected to an alternative design and arrangements in pursuance of regulation(s) II-1/55 / II-2/17<sup>3)</sup> of the Convention.  |
 | --- | --- | --- | --- | --- | --- |
-| 6.  | A Document of approval of alternative design and arrangements for machinery and electrical installations/fire protection<sup>4)</sup> is/is not<sup>4)</sup> appended to this Certificate.  |
+| 6.  | A Document of approval of alternative design and arrangements for machinery and electrical installations/fire protection<sup>3)</sup> is/is not<sup>3)</sup> appended to this Certificate.  |
 | --- | --- | --- | --- | --- | --- |
-| *This certificate is valid until* ..........<sup>5)</sup> subject to the annual and intermediate surveys and inspections of the outside of the ship's bottom in accordance with regulation 1/10 of the Convention.  |
+| *This certificate is valid until* ..........<sup>4)</sup> subject to the annual and intermediate surveys and inspections of the outside of the ship's bottom in accordance with regulation 1/10 of the Convention.  |
 | --- |
 | Completion date of the survey on which this certificate is based:........ *(dd/mm/yyyy)*  |
 | --- |
@@ -8888,13 +8888,13 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | Place:  | .........  |
 | --- | --- | --- | Date:  | .........  |
 | --- | --- | --- | --- | (Seal or stamp of the Authority, as appropriate)  |
-| Annual/Intermediate<sup>4)</sup> survey:  | Signed:  | .........  |
+| Annual/Intermediate<sup>3)</sup> survey:  | Signed:  | .........  |
 | --- | --- | --- | --- | (Signature of authorized official)  |
 | --- | --- | --- | Place:  | .........  |
 | --- | --- | --- | Date:  | .........  |
 | --- | --- | --- | --- | (Seal or stamp of the Authority, as appropriate)  |
 | --- | --- | --- | --- | --- | --- |
-| Annual/Intermediate<sup>4)</sup> survey:  | Signed:  | .........  |
+| Annual/Intermediate<sup>3)</sup> survey:  | Signed:  | .........  |
 | --- | --- | --- | --- | (Signature of authorized official)  |
 | --- | --- | --- | Place:  | .........  |
 | --- | --- | --- | Date:  | .........  |
@@ -8908,7 +8908,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | --- | --- | --- |
 | *Annual/intermediate survey in accordance with regulation I/14(h)(iii)*  |
 | --- |
-| *THIS IS TO CERTIFY* that, at an annual/intermediate survey<sup>4)</sup> in accordance with regulation I/14(h)(iii) of the Convention, this ship was found to comply with the relevant requirements of the Convention.  |
+| *THIS IS TO CERTIFY* that, at an annual/intermediate survey<sup>3)</sup> in accordance with regulation I/14(h)(iii) of the Convention, this ship was found to comply with the relevant requirements of the Convention.  |
 | --- | --- | --- | --- | --- |
 | Signed:  | .........  | --- |
 | --- | *(Signature of authorized official)*  | --- |
@@ -8916,7 +8916,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | Date:  | .........  | --- |
 | --- | (Seal or stamp of the Authority, as appropriate)  | --- |
 | --- | --- | --- | --- | --- | --- |
-| *Endorsement for inspections of the outside of the ship’s bottom*<sup>6)</sup>   |
+| *Endorsement for inspections of the outside of the ship’s bottom*<sup>5)</sup>   |
 | --- | --- | --- |
 | THIS IS TO CERTIFY that, at an inspection required by regulation I/10 of the Convention, the ship was found to comply with the relevant requirements of the Convention.  |
 | --- | --- | --- |
@@ -8954,7 +8954,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | --- | --- | --- |
 | *Endorsement to extend the validity of the certificate until reaching the port of survey or for a period of grace where regulation I/14(e) or I/14(f) applies*  |
 | --- | --- | --- |
-| The certificate shall, in accordance with regulation I/14(e)/I/14(f)<sup>4)</sup> of the Convention, be accepted as valid until .........  |
+| The certificate shall, in accordance with regulation I/14(e)/I/14(f)<sup>3)</sup> of the Convention, be accepted as valid until .........  |
 | --- | --- | --- |
 | --- | Signed:  | .........  |
 | --- | --- | (Signature of authorized official)  |
@@ -8980,7 +8980,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | Date:  | .........  |
 | --- | --- | --- | --- | (Seal or stamp of the Authority, as appropriate)  |
 
-<sup>1)</sup> Alternatively, the particulars of the ship may be placed horizontally in boxes.<sup>2)</sup> For oil tankers, chemical tankers and gas carriers only.<sup>3)</sup> In accordance with the *IMO ship identification number scheme*, adopted by the Organization by resolution A.600(15).<sup>4)</sup> Delete as appropriate.<sup>5)</sup> Insert the date of expiry as specified by the Administration in accordance with regulation I/14(a) of the Convention. The day and the month of this date correspond to the anniversary date, as defined in regulation I/2(n) of the Convention, unless amended in accordance with regulation I/14(h).<sup>6)</sup> Provision may be made for additional inspections. 
+<sup>1)</sup> Alternatively, the particulars of the ship may be placed horizontally in boxes.<sup>2)</sup> For oil tankers, chemical tankers and gas carriers only.<sup>3)</sup> Delete as appropriate.<sup>4)</sup> Insert the date of expiry as specified by the Administration in accordance with regulation I/14(a) of the Convention. The day and the month of this date correspond to the anniversary date, as defined in regulation I/2(n) of the Convention, unless amended in accordance with regulation I/14(h).<sup>5)</sup> Provision may be made for additional inspections. 
 
 | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|
@@ -9007,8 +9007,8 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | Gross tonnage .........  |
 | Deadweight of ship (metric tons)<sup>2)</sup> .......  |
 | Length of ship (regulation III/3.12) .........  |
-| IMO Number<sup>3)</sup> .........  |
-| Type of ship<sup>4)</sup>  |
+| IMO Number .........  |
+| Type of ship<sup>3)</sup>  |
 | --- | Bulk carrier  |
 | --- | Oil tanker  |
 | --- | Chemical tanker  |
@@ -9035,15 +9035,15 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- |
 | 2.6  | in all other respects the ship complied with the relevant requirements of the Convention;  |
 | --- | --- |
-| 2.7  | the ship was/was not<sup>4)</sup> subjected to an alternative design and arrangements in pursuance of regulation(s) II-2/17 / III/38<sup>4)</sup> of the Convention;  |
+| 2.7  | the ship was/was not<sup>3)</sup> subjected to an alternative design and arrangements in pursuance of regulation(s) II-2/17 / III/38<sup>3)</sup> of the Convention;  |
 | --- | --- |
-| 2.8  | a Document of approval of alternative design and arrangements for fire protection/lifesaving appliances and arrangements<sup>4)</sup> is/is not<sup>4)</sup> appended to this Certificate.  |
+| 2.8  | a Document of approval of alternative design and arrangements for fire protection/lifesaving appliances and arrangements<sup>3)</sup> is/is not<sup>3)</sup> appended to this Certificate.  |
 | --- | --- |
-| 3.  | That the ship operates in accordance with regulation III/26.1.1.1<sup>5)</sup> within the limits of the trade area ........  |
+| 3.  | That the ship operates in accordance with regulation III/26.1.1.1<sup>4)</sup> within the limits of the trade area ........  |
 | --- |
-| 4.  | That an Exemption Certificate has/has not<sup>4)</sup> been issued.  |
+| 4.  | That an Exemption Certificate has/has not<sup>3)</sup> been issued.  |
 | --- | --- | --- | --- | --- | --- |
-| *This certificate is valid until *..........<sup>6)</sup> subject to the annual and periodical surveys in accordance with regulation I/8 of the Convention.  |
+| *This certificate is valid until *..........<sup>5)</sup> subject to the annual and periodical surveys in accordance with regulation I/8 of the Convention.  |
 | --- |
 | Completion date of the survey on which this certificate is based:........ *(dd/mm/yyyy)*  |
 | --- |
@@ -9065,13 +9065,13 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | Place:  | .........  |
 | --- | --- | --- | Date:  | .........  |
 | --- | --- | --- | --- | (Seal or stamp of the Authority, as appropriate)  |
-| Annual/Periodical<sup>4)</sup> survey:  | Signed:  | .........  |
+| Annual/Periodical<sup>3)</sup> survey:  | Signed:  | .........  |
 | --- | --- | --- | --- | (Signature of authorized official)  |
 | --- | --- | --- | Place:  | .........  |
 | --- | --- | --- | Date:  | .........  |
 | --- | --- | --- | --- | (Seal or stamp of the Authority, as appropriate)  |
 | --- | --- | --- | --- | --- | --- |
-| Annual/Periodical<sup>4)</sup> survey:  | Signed:  | .........  |
+| Annual/Periodical<sup>3)</sup> survey:  | Signed:  | .........  |
 | --- | --- | --- | --- | (Signature of authorized official)  |
 | --- | --- | --- | Place:  | .........  |
 | --- | --- | --- | Date:  | .........  |
@@ -9085,7 +9085,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | --- | --- | --- |
 | *Annual/periodical survey in accordance with regulation I/14(h)(iii)*  |
 | --- |
-| THIS IS TO CERTIFY that, at an annual/periodical<sup>4)</sup> survey in accordance with regulation I/14(h)(iii) of the Convention, this ship was found to comply with the relevant requirements of the Convention.  |
+| THIS IS TO CERTIFY that, at an annual/periodical<sup>3)</sup> survey in accordance with regulation I/14(h)(iii) of the Convention, this ship was found to comply with the relevant requirements of the Convention.  |
 | --- |
 | --- | Signed:  | .........  |
 | --- | --- | (Signature of authorized official)  |
@@ -9115,7 +9115,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | --- | --- | --- |
 | *Endorsement to extend the validity of the certificate until reaching the port of survey or for a period of grace where regulation I/14(e) or I/14(f) applies*  |
 | --- | --- | --- |
-| The certificate shall, in accordance with regulation I/14(e)/I/14(f)<sup>4</sup> of the Convention, be accepted as valid until .........  |
+| The certificate shall, in accordance with regulation I/14(e)/I/14(f)<sup>3</sup> of the Convention, be accepted as valid until .........  |
 | --- | --- | --- |
 | --- | Signed:  | .........  |
 | --- | --- | (Signature of authorized official)  |
@@ -9141,7 +9141,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | Date:  | .........  |
 | --- | --- | --- | --- | (Seal or stamp of the Authority, as appropriate)  |
 
-<sup>1)</sup> Alternatively, the particulars of the ship may be placed horizontally in boxes.<sup>2)</sup> For oil tankers, chemical tankers and gas carriers only.<sup>3)</sup> In accordance with the *IMO ship identification number scheme*, adopted by the Organization by resolution A.600(15).<sup>4)</sup> Delete as appropriate.<sup>5)</sup> Refer to the 1983 amendments to SOLAS (MSC.6(48)), applicable to ships constructed on or after 1 July 1986, but before 1 July 1998 in the case of self-righting partially enclosed lifeboat(s) on board.<sup>6)</sup> Insert the date of expiry as specified by the Administration in accordance with regulation I/14(a) of the Convention. The day and the month of this date correspond to the anniversary date as defined in regulation I/2(n) of the Convention, unless amended in accordance with regulation I/14(h). 
+<sup>1)</sup> Alternatively, the particulars of the ship may be placed horizontally in boxes.<sup>2)</sup> For oil tankers, chemical tankers and gas carriers only.<sup>3)</sup> Delete as appropriate.<sup>4)</sup> Refer to the 1983 amendments to SOLAS (MSC.6(48)), applicable to ships constructed on or after 1 July 1986, but before 1 July 1998 in the case of self-righting partially enclosed lifeboat(s) on board.<sup>5)</sup> Insert the date of expiry as specified by the Administration in accordance with regulation I/14(a) of the Convention. The day and the month of this date correspond to the anniversary date as defined in regulation I/2(n) of the Convention, unless amended in accordance with regulation I/14(h). 
 
 | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|
@@ -9167,7 +9167,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | Port of registry .........  |
 | Gross tonnage .........  |
 | Sea areas in which ship is certified to operate (regulation IV/2) .........  |
-| IMO Number<sup>2)</sup> .........  |
+| IMO Number .........  |
 | --- | --- | --- | --- | --- | --- |
 | Date on which keel was laid or ship was at a similar stage of construction or,  where applicable, date on which work for a conversion or an alteration or  modification of a major character was commenced .........  |
 | --- | --- | --- | --- | --- | --- |
@@ -9181,9 +9181,9 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | --- | --- | --- |
 | 2.2  | the functioning of the radio installations used in life-saving appliances complied with the requirements of the Convention.  |
 | --- | --- | --- | --- | --- | --- |
-| 3.  | That an Exemption Certificate has/has not<sup>3)</sup> been issued.  |
+| 3.  | That an Exemption Certificate has/has not<sup>2)</sup> been issued.  |
 | --- | --- | --- | --- | --- | --- |
-| *This certificate is valid until *..........<sup>4)</sup> subject to the periodical surveys in accordance with regulation I/9 of the Convention.  |
+| *This certificate is valid until *..........<sup>3)</sup> subject to the periodical surveys in accordance with regulation I/9 of the Convention.  |
 | --- |
 | Completion date of the survey on which this certificate is based:........ *(dd/mm/yyyy)*  |
 | --- |
@@ -9255,7 +9255,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | --- | --- | --- |
 | *Endorsement to extend the validity of the certificate until reaching the port of survey or for a period of grace where regulation I/14(e) or I/14(f) applies*  |
 | --- | --- | --- |
-| The certificate shall, in accordance with regulation I/14(e)/I/14(f)<sup>3</sup> of the Convention, be accepted as valid until.........  |
+| The certificate shall, in accordance with regulation I/14(e)/I/14(f)<sup>2</sup> of the Convention, be accepted as valid until.........  |
 | --- | --- | --- |
 | --- | Signed:  | .........  |
 | --- | --- | (Signature of authorized official)  |
@@ -9281,7 +9281,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | Date:  | .........  |
 | --- | --- | --- | --- | (Seal or stamp of the Authority, as appropriate)  |
 
-<sup>1)</sup> Alternatively, the particulars of the ship may be placed horizontally in boxes.<sup>2)</sup> In accordance with the *IMO ship identification number scheme*, adopted by the Organization by resolution A.600(15).<sup>3)</sup> Delete as appropriate.<sup>4)</sup> Insert the date of expiry as specified by the Administration in accordance with regulation I/14(a) of the Convention. The day and the month of this date correspond to the anniversary date as defined in regulation I/2(n) of the Convention, unless amended in accordance with regulation I/14(h). 
+<sup>1)</sup> Alternatively, the particulars of the ship may be placed horizontally in boxes.<sup>2)</sup> Delete as appropriate.<sup>3)</sup> Insert the date of expiry as specified by the Administration in accordance with regulation I/14(a) of the Convention. The day and the month of this date correspond to the anniversary date as defined in regulation I/2(n) of the Convention, unless amended in accordance with regulation I/14(h). 
 
 | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|
@@ -9307,9 +9307,9 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | Deadweight of ship (metric tons)<sup>2)</sup> .........  |
 | Length of ship (regulation III/3.12) .........  |
 | Sea areas in which ship is certified to operate (regulation IV/2).........  |
-| IMO Number<sup>3)</sup> .........  |
+| IMO Number .........  |
 | --- | --- | --- | --- | --- | --- |
-| Type of ship<sup>4)</sup>  |
+| Type of ship<sup>3)</sup>  |
 | --- | Bulk carrier  |
 | --- | Oil tanker  |
 | --- | Chemical tanker  |
@@ -9350,15 +9350,15 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- |
 | 2.10  | in all other respects the ship complied with the relevant requirements of the Convention;  |
 | --- | --- |
-| 2.11  | the ship was/was not<sup>4)</sup> subjected to an alternative design and arrangements in pursuance of regulation(s) II-1/55 / II-2/17 / III/38<sup>4)</sup> of the Convention;  |
+| 2.11  | the ship was/was not<sup>3)</sup> subjected to an alternative design and arrangements in pursuance of regulation(s) II-1/55 / II-2/17 / III/38<sup>3)</sup> of the Convention;  |
 | --- | --- |
-| 2.12  | a Document of approval of alternative design and arrangements for machinery and electrical installations/fire protection/life-saving appliances and arrangements<sup>4)</sup> is/is not<sup>4)</sup> appended to this Certificate.  |
+| 2.12  | a Document of approval of alternative design and arrangements for machinery and electrical installations/fire protection/life-saving appliances and arrangements<sup>3)</sup> is/is not<sup>3)</sup> appended to this Certificate.  |
 | --- |
-| 3.  | That the ship operates in accordance with regulation III/26.1.1.1<sup>5)</sup> within the limits of the trade area .........  |
+| 3.  | That the ship operates in accordance with regulation III/26.1.1.1<sup>4)</sup> within the limits of the trade area .........  |
 | --- | --- |
-| 4.  | That an Exemption Certificate has/has not<sup>4)</sup> been issued.  |
+| 4.  | That an Exemption Certificate has/has not<sup>3)</sup> been issued.  |
 | --- |
-| *This certificate is valid until* ..........<sup>6)</sup> subject to the annual, intermediate and periodical surveys and inspections of the outside of the ship's bottom in accordance with regulations I/8, I/9 and I/10 of the Convention.  |
+| *This certificate is valid until* ..........<sup>5)</sup> subject to the annual, intermediate and periodical surveys and inspections of the outside of the ship's bottom in accordance with regulations I/8, I/9 and I/10 of the Convention.  |
 | --- |
 | Completion date of the survey on which this certificate is based:........ *(dd/mm/yyyy)*  |
 | --- |
@@ -9380,13 +9380,13 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | Place:  | .........  |
 | --- | --- | --- | Date:  | .........  |
 | --- | --- | --- | --- | (Seal or stamp of the Authority, as appropriate)  |
-| Annual/Intermediate<sup>4)</sup> survey:  | Signed:  | .........  |
+| Annual/Intermediate<sup>3)</sup> survey:  | Signed:  | .........  |
 | --- | --- | --- | --- | (Signature of authorized official)  |
 | --- | --- | --- | Place:  | .........  |
 | --- | --- | --- | Date:  | .........  |
 | --- | --- | --- | --- | (Seal or stamp of the Authority, as appropriate)  |
 | --- | --- | --- | --- | --- | --- |
-| Annual/Intermediate<sup>4)</sup> survey:  | Signed:  | .........  |
+| Annual/Intermediate<sup>3)</sup> survey:  | Signed:  | .........  |
 | --- | --- | --- | --- | (Signature of authorized official)  |
 | --- | --- | --- | Place:  | .........  |
 | --- | --- | --- | Date:  | .........  |
@@ -9400,7 +9400,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | --- | --- | --- |
 | *Annual/intermediate survey in accordance with regulation I/14(h)(iii)*  |
 | --- |
-| THIS IS TO CERTIFY that, at an annual/intermediate<sup>4)</sup> survey in accordance with regulations I/10 and I/14(h)(iii) of the Convention, the ship was found to comply with the relevant requirements of the Convention.  |
+| THIS IS TO CERTIFY that, at an annual/intermediate<sup>3)</sup> survey in accordance with regulations I/10 and I/14(h)(iii) of the Convention, the ship was found to comply with the relevant requirements of the Convention.  |
 | --- |
 | --- | Signed:  | .........  |
 | --- | --- | (Signature of authorized official)  |
@@ -9408,7 +9408,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | Date:  | .........  |
 | --- | --- | --- | --- | (Seal or stamp of the Authority, as appropriate)  |
 | --- | --- | --- | --- | --- | --- |
-| *Endorsement for inspections of the outside of the ship’s bottom<sup>7)</sup> *  |
+| *Endorsement for inspections of the outside of the ship’s bottom<sup>6)</sup> *  |
 | --- | --- | --- |
 | THIS IS TO CERTIFY that, at an inspection required by regulation I/10 of the Convention, the ship was found to comply with the relevant requirements of the Convention.  |
 | --- | --- | --- |
@@ -9434,13 +9434,13 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | Date:  | .........  |
 | --- | --- | --- | --- | (Seal or stamp of the Authority, as appropriate)  |
 | --- | --- | --- | --- | --- | --- |
-| Annual/Periodical<sup>4)</sup> survey:  | Signed:  | .........  |
+| Annual/Periodical<sup>3)</sup> survey:  | Signed:  | .........  |
 | --- | --- | (Signature of authorized official)  |
 | --- | Place:  | .........  |
 | --- | --- | --- | Date:  | .........  |
 | --- | --- | --- | --- | (Seal or stamp of the Authority, as appropriate)  |
 | --- | --- | --- | --- | --- | --- |
-| Annual/Periodical<sup>4)</sup> survey:  | Signed:  | .........  |
+| Annual/Periodical<sup>3)</sup> survey:  | Signed:  | .........  |
 | --- | --- | (Signature of authorized official)  |
 | --- | Place:  | .........  |
 | --- | --- | --- | Date:  | .........  |
@@ -9454,7 +9454,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | --- | --- | --- |
 | *Annual/periodical survey in accordance with regulation I/14(h)(iii)*  |
 | --- | --- | --- |
-| THIS IS TO CERTIFY that, at an annual/periodical<sup>4)</sup> survey in accordance with regulations I/8 and I/14(h)(iii) of the Convention, the ship was found to comply with the relevant requirements of the Convention.  |
+| THIS IS TO CERTIFY that, at an annual/periodical<sup>3)</sup> survey in accordance with regulations I/8 and I/14(h)(iii) of the Convention, the ship was found to comply with the relevant requirements of the Convention.  |
 | --- | --- | --- |
 | --- | Signed:  | .........  |
 | --- | --- | (Signature of authorized official)  |
@@ -9522,7 +9522,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | --- | --- |
 | *Endorsement to extend the validity of the certificate until reaching the port of survey or for a period of grace where regulation I/14(e) or I/14(f) applies*  |
 | --- |
-| The certificate shall, in accordance with regulation I/14(e)/I/14(f)<sup>4</sup> of the Convention, be accepted as valid until ........  |
+| The certificate shall, in accordance with regulation I/14(e)/I/14(f)<sup>3</sup> of the Convention, be accepted as valid until ........  |
 | --- | --- | --- |
 | --- | Signed:  | .........  |
 | --- | --- | (Signature of authorized official)  |
@@ -9548,7 +9548,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | Date:  | .........  |
 | --- | --- | --- | --- | (Seal or stamp of the Authority, as appropriate)  |
 
-<sup>1)</sup> Alternatively, the particulars of the ship may be placed horizontally in boxes.<sup>2)</sup> For oil tankers, chemical tankers and gas carriers only.<sup>3)</sup> In accordance with the *IMO ship identification number scheme*, adopted by the Organization by resolution A.600(15).<sup>4)</sup> Delete as appropriate.<sup>5)</sup> Refer to the 1983 amendments to SOLAS (MSC.6(48)), applicable to ships constructed on or after 1 July 1986, but before 1 July 1998 in the case of self-righting partially enclosed lifeboat(s) on board.<sup>6)</sup> Insert the date of expiry as specified by the Administration in accordance with regulation I/14(a) of the Convention. The day and the month of this date correspond to the anniversary date as defined in regulation I/2(n) of the Convention, unless amended in accordance with regulation I/14(h).<sup>7)</sup> Provision may be made for additional inspections. 
+<sup>1)</sup> Alternatively, the particulars of the ship may be placed horizontally in boxes.<sup>2)</sup> For oil tankers, chemical tankers and gas carriers only.<sup>3)</sup> Delete as appropriate.<sup>4)</sup> Refer to the 1983 amendments to SOLAS (MSC.6(48)), applicable to ships constructed on or after 1 July 1986, but before 1 July 1998 in the case of self-righting partially enclosed lifeboat(s) on board.<sup>5)</sup> Insert the date of expiry as specified by the Administration in accordance with regulation I/14(a) of the Convention. The day and the month of this date correspond to the anniversary date as defined in regulation I/2(n) of the Convention, unless amended in accordance with regulation I/14(h).<sup>6)</sup> Provision may be made for additional inspections. 
 
 | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|
@@ -9571,7 +9571,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | Distinctive number or letters .........  |
 | Port of registry .........  |
 | Gross tonnage .........  |
-| IMO Number<sup>2)</sup> .........  |
+| IMO Number .........  |
 | --- | --- | --- | --- | --- | --- |
 | *THIS IS TO CERTIFY:*  |
 | --- |
@@ -9613,7 +9613,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | --- | --- | --- |
 | *Endorsement to extend the validity of the certificate until reaching the port of survey or for a period of grace where regulation I/14(e) or I/14(f) applies*  |
 | --- | --- | --- |
-| This certificate shall, in accordance with regulation I/14(e)/I/14(f)<sup>3)</sup> of the Convention, be accepted as valid until .......... subject to the .......... Certificate, to which this certificate is attached, remaining valid.  |
+| This certificate shall, in accordance with regulation I/14(e)/I/14(f)<sup>2)</sup> of the Convention, be accepted as valid until .......... subject to the .......... Certificate, to which this certificate is attached, remaining valid.  |
 | --- | --- | --- |
 | --- | Signed:  | .........  |
 | --- | --- | (Signature of authorized official)  |
@@ -9621,7 +9621,7 @@ Bulk carriers of 150 m in length and upwards of single-side skin construction, c
 | --- | --- | --- | Date:  | .........  |
 | --- | --- | --- | --- | (Seal or stamp of the Authority, as appropriate)  |
 
-<sup>1)</sup> Alternatively, the particulars of the ship may be placed horizontally in boxes.<sup>2)</sup> In accordance with the *IMO ship identification number scheme*, adopted by the Organization by resolution A.600(15).<sup>3)</sup> Delete as appropriate. 
+<sup>1)</sup> Alternatively, the particulars of the ship may be placed horizontally in boxes.<sup>2)</sup> Delete as appropriate. 
 
 ####RECOMMENDATIONS APPLICABLE TO NUCLEAR SHIPS
 
@@ -19132,7 +19132,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | Thuishaven .....  |
 | Brutotonnage .....  |
 | Zeegebieden waarbinnen het schip mag varen (voorschrift IV/2)  |
-| IMO-nummer<sup>3)</sup> .....  |
+| IMO-nummer .....  |
 | Datum van de bouw:  |
 | --- | --- | Datum van bouwcontract .....  | --- |
 | --- | --- | Datum waarop de kiel werd gelegd of de bouw van het schip zich in een soortgelijk stadium bevond .....  | --- |
@@ -19152,7 +19152,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | 2.  | de voorzieningen en detailuitwerking van de waterdichte indeling;  | --- |
 | --- | --- | 3.  | de volgende indelingslastlijnen:  | --- |
 | --- | --- | --- |
-| --- | De toegewezen en midscheeps in de scheepszijde gemarkeerde indelingslastlijnen (voorschrift II-1/18)<sup>4)</sup>  | Vrijboord  | Toe te passen wanneer de ruimten waarin passagiers worden vervoerd de volgende alternatieve ruimten omvatten  | --- |
+| --- | De toegewezen en midscheeps in de scheepszijde gemarkeerde indelingslastlijnen (voorschrift II-1/18)<sup>3)</sup>  | Vrijboord  | Toe te passen wanneer de ruimten waarin passagiers worden vervoerd de volgende alternatieve ruimten omvatten  | --- |
 | --- | P1  | .....  | .....  | --- |
 | --- | P2  | .....  | .....  | --- |
 | --- | P3  | .....  | .....  | --- |
@@ -19215,9 +19215,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 
 <sup>2)</sup> De gegevens van het schip kunnen ook horizontaal worden vermeld in de vakjes.
 
-<sup>3)</sup> Overeenkomstig *het stelsel voor scheepsidentificatienummers van de IMO*, door de Organisatie aangenomen bij resolutie A.600(15).
-
-<sup>4)</sup> Voor schepen gebouwd vóór 1 januari 2009, moet de toepasselijke indelingsnotering „C.1, C.2 en C.3” worden gebruikt. 
+<sup>3)</sup> Voor schepen gebouwd vóór 1 januari 2009, moet de toepasselijke indelingsnotering „C.1, C.2 en C.3” worden gebruikt. 
 
 | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|
@@ -19240,9 +19238,9 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | Thuishaven .....  |
 | Brutotonnage .....  |
 | Draagvermogen van het schip (metrieke ton)<sup>2)</sup> .....  |
-| IMO-nummer<sup>3)</sup> .....  |
+| IMO-nummer .....  |
 | --- | --- | --- | --- | --- | --- |
-| Type schip:<sup>4)</sup>  |
+| Type schip:<sup>3)</sup>  |
 | --- | Bulkcarrier  |
 | --- | Olietankschip  |
 | --- | Chemicaliëntankschip  |
@@ -19265,13 +19263,13 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | --- | --- | --- |
 | 3.  | Dat de laatste twee inspecties van de buitenzijde van het scheepsvlak hebben plaatsgevonden op ..... en ..... *(data)*  |
 | --- | --- | --- | --- | --- | --- |
-| 4.  | Dat een/geen<sup>4)</sup> certificaat van vrijstelling is afgegeven.  |
+| 4.  | Dat een/geen<sup>3)</sup> certificaat van vrijstelling is afgegeven.  |
 | --- | --- | --- | --- | --- | --- |
-| 5.  | Dat op het schip wel/geen<sup>4)</sup> vervangende ontwerpen en voorzieningen van toepassing zijn ingevolge voorschrift(en) II-1/55 / II-2/17<sup>4)</sup> van het Verdrag.  |
+| 5.  | Dat op het schip wel/geen<sup>3)</sup> vervangende ontwerpen en voorzieningen van toepassing zijn ingevolge voorschrift(en) II-1/55 / II-2/17<sup>3)</sup> van het Verdrag.  |
 | --- | --- | --- | --- | --- | --- |
-| 6.  | Dat aan dit certificaat een/geen<sup>4)</sup> document van goedkeuring voor vervangende ontwerpen en voorzieningen voor machines en elektrische installaties/brandbestrijdingsapparatuur<sup>4)</sup> is gehecht.  |
+| 6.  | Dat aan dit certificaat een/geen<sup>3)</sup> document van goedkeuring voor vervangende ontwerpen en voorzieningen voor machines en elektrische installaties/brandbestrijdingsapparatuur<sup>3)</sup> is gehecht.  |
 | --- | --- | --- | --- | --- | --- |
-| *Dit certificaat is geldig tot* .....<sup>5)</sup> op voorwaarde van jaarlijkse en tussentijdse onderzoeken van de buitenzijde van het scheepsvlak in overeenstemming met voorschrift 1/10 van het Verdrag.  |
+| *Dit certificaat is geldig tot* .....<sup>4)</sup> op voorwaarde van jaarlijkse en tussentijdse onderzoeken van de buitenzijde van het scheepsvlak in overeenstemming met voorschrift 1/10 van het Verdrag.  |
 | --- |
 | Datum van afronding van het onderzoek waarop dit certificaat gebaseerd is ..... *(dd/mm/jjjj)*  |
 | --- |
@@ -19292,13 +19290,13 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | Plaats:  | .....  |
 | --- | --- | --- | Datum:  | .....  |
 | --- | --- | --- | --- | (Zegel of stempel van de autoriteit, naargelang wat van toepassing is)  |
-| Jaarlijks/tussentijds<sup>4)</sup> onderzoek:  | Ondertekend:  | .....  |
+| Jaarlijks/tussentijds<sup>3)</sup> onderzoek:  | Ondertekend:  | .....  |
 | --- | --- | --- | --- | (Handtekening van bevoegde ambtenaar)  |
 | --- | --- | --- | Plaats:  | .....  |
 | --- | --- | --- | Datum:  | .....  |
 | --- | --- | --- | --- | (Zegel of stempel van de autoriteit, naargelang wat van toepassing is)  |
 | --- | --- | --- | --- | --- | --- |
-| Jaarlijks/tussentijds<sup>4)</sup> onderzoek:  | Ondertekend  | .....  |
+| Jaarlijks/tussentijds<sup>3)</sup> onderzoek:  | Ondertekend  | .....  |
 | --- | --- | --- | --- | (Handtekening van bevoegde ambtenaar)  |
 | --- | --- | --- | Plaats:  | .....  |
 | --- | --- | --- | Datum:  | .....  |
@@ -19312,7 +19310,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | --- | --- | --- |
 | *Jaarlijks/tussentijds onderzoek in overeenstemming met voorschrift I/14(h)(iii)*  |
 | --- |
-| *HIERBIJ WORDT VERKLAARD* dat bij een jaarlijks/tussentijds onderzoek<sup>4)</sup> in overeenstemming met voorschrift I/14(h)(iii) van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende vereisten van het Verdrag  |
+| *HIERBIJ WORDT VERKLAARD* dat bij een jaarlijks/tussentijds onderzoek<sup>3)</sup> in overeenstemming met voorschrift I/14(h)(iii) van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende vereisten van het Verdrag  |
 | --- | --- | --- | --- | --- |
 | Ondertekend:  | .....  | --- |
 | --- | *(Handtekening van bevoegde ambtenaar)*  | --- |
@@ -19320,7 +19318,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | Datum:  | .....  | --- |
 | --- | (Zegel of stempel van de autoriteit, naargelang wat van toepassing is)  | --- |
 | --- | --- | --- | --- | --- | --- |
-| *Aantekening van inspectie van de buitenzijde van het scheepsvlak<sup>6)</sup>*  |
+| *Aantekening van inspectie van de buitenzijde van het scheepsvlak<sup>5)</sup>*  |
 | --- | --- | --- |
 | HIERBIJ WORDT VERKLAARD dat bij een inspectie zoals vereist in voorschrift I/10 van het Verdrag werd geconstateerd dat het schip voldoet aan de desbetreffende vereisten van het Verdrag.  |
 | --- | --- | --- |
@@ -19358,7 +19356,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | --- | --- | --- |
 | *Aantekening tot verlenging van de geldigheid van het certificaat totdat de haven van onderzoek wordt aangedaan of voor uitstel indien voorschrift I/14(e) of I/14(f) van toepassing is*  |
 | --- | --- | --- |
-| Dit certificaat wordt in overeenstemming met voorschrift I/14(e)/I/14(f)<sup>4)</sup> van het Verdrag aanvaard als zijnde geldig tot.....  |
+| Dit certificaat wordt in overeenstemming met voorschrift I/14(e)/I/14(f)<sup>3)</sup> van het Verdrag aanvaard als zijnde geldig tot.....  |
 | --- | --- | --- |
 | --- | Ondertekend:  | .....  |
 | --- | --- | (Handtekening van bevoegde ambtenaar)  |
@@ -19388,13 +19386,11 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 
 <sup>2)</sup> Uitsluitend voor olietankschepen, chemicaliëntankschepen en gastankschepen.
 
-<sup>3)</sup> Overeenkomstig *het stelsel voor scheepsidentificatienummers van de IMO*, door de Organisatie aangenomen bij resolutie A.600(15).
+<sup>3)</sup> Doorhalen wat niet van toepassing is.
 
-<sup>4)</sup> Doorhalen wat niet van toepassing is.
+<sup>4)</sup> Vul de uiterste datum van geldigheid in als vermeld door de Administratie in overeenstemming met voorschrift I/14(a) van het Verdrag. De dag en maand van deze datum komen overeen met die van de verjaardatum omschreven in voorschrift I/2(n) van het Verdrag, tenzij dit wordt gewijzigd in overeenstemming met voorschrift I/14(h).
 
-<sup>5)</sup> Vul de uiterste datum van geldigheid in als vermeld door de Administratie in overeenstemming met voorschrift I/14(a) van het Verdrag. De dag en maand van deze datum komen overeen met die van de verjaardatum omschreven in voorschrift I/2(n) van het Verdrag, tenzij dit wordt gewijzigd in overeenstemming met voorschrift I/14(h).
-
-<sup>6)</sup> Bepaald kan worden dat aanvullende inspecties nodig zijn. 
+<sup>5)</sup> Bepaald kan worden dat aanvullende inspecties nodig zijn. 
 
 | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|
@@ -19421,8 +19417,8 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | Brutotonnage.....  |
 | Draagvermogen van het schip (metrieke ton)<sup>2)</sup> .....  |
 | Lengte van het schip (voorschrift III/3.12) .....  |
-| IMO-nummer<sup>3)</sup> .....  |
-| Type schip:<sup>4)</sup>  |
+| IMO-nummer .....  |
+| Type schip:<sup>3)</sup>  |
 | --- | Bulkcarrier  |
 | --- | Olietankschip  |
 | --- | Chemicaliëntankschip  |
@@ -19449,15 +19445,15 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- |
 | 2.6  | het schip in alle andere opzichten voldoet aan de desbetreffende vereisten van het Verdrag.  |
 | --- | --- |
-| 2.7  | op het schip wel/geen<sup>4)</sup> vervangende ontwerpen en voorzieningen van toepassing zijn ingevolge voorschrift(en) II-2/17 / III/38<sup>4)</sup> van het Verdrag;  |
+| 2.7  | op het schip wel/geen<sup>3)</sup> vervangende ontwerpen en voorzieningen van toepassing zijn ingevolge voorschrift(en) II-2/17 / III/38<sup>3)</sup> van het Verdrag;  |
 | --- | --- |
-| 2.8  | aan dit certificaat een/geen<sup>4)</sup> document van goedkeuring voor vervangende ontwerpen en voorzieningen voor brandbestrijdingsapparatuur/reddingsmiddelen en -voorzieningen<sup>4)</sup> is gehecht.  |
+| 2.8  | aan dit certificaat een/geen<sup>3)</sup> document van goedkeuring voor vervangende ontwerpen en voorzieningen voor brandbestrijdingsapparatuur/reddingsmiddelen en -voorzieningen<sup>3)</sup> is gehecht.  |
 | --- | --- |
-| 3.  | Dat het schip in overeenstemming met voorschrift III/26.1.1.1<sup>5)</sup> vaart binnen de grenzen van het handelsgebied .....  |
+| 3.  | Dat het schip in overeenstemming met voorschrift III/26.1.1.1<sup>4)</sup> vaart binnen de grenzen van het handelsgebied .....  |
 | --- |
-| 4.  | Dat een/geen<sup>4)</sup> certificaat van vrijstelling is afgegeven.  |
+| 4.  | Dat een/geen<sup>3)</sup> certificaat van vrijstelling is afgegeven.  |
 | --- | --- | --- | --- | --- | --- |
-| *Dit certificaat is geldig tot* .....<sup>6)</sup> op voorwaarde van jaarlijkse en periodieke onderzoeken in overeenstemming met voorschrift 1/8 van het Verdrag.  |
+| *Dit certificaat is geldig tot* .....<sup>5)</sup> op voorwaarde van jaarlijkse en periodieke onderzoeken in overeenstemming met voorschrift 1/8 van het Verdrag.  |
 | --- |
 | Datum van afronding van het onderzoek waarop dit certificaat gebaseerd is ..... *(dd/mm/jjjj)*  |
 | --- |
@@ -19478,13 +19474,13 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | Plaats:  | .....  |
 | --- | --- | --- | Datum:  | .....  |
 | --- | --- | --- | --- | (Zegel of stempel van de autoriteit, naargelang wat van toepassing is)  |
-| Jaarlijks/periodiek<sup>4)</sup> onderzoek:  | Ondertekend:  | .....  |
+| Jaarlijks/periodiek<sup>3)</sup> onderzoek:  | Ondertekend:  | .....  |
 | --- | --- | --- | --- | (Handtekening van bevoegde ambtenaar)  |
 | --- | --- | --- | Plaats:  | .....  |
 | --- | --- | --- | Datum:  | .....  |
 | --- | --- | --- | --- | (Zegel of stempel van de autoriteit, naargelang wat van toepassing is)  |
 | --- | --- | --- | --- | --- | --- |
-| Jaarlijks/periodiek<sup>4)</sup> onderzoek:  | Ondertekend:  | .....  |
+| Jaarlijks/periodiek<sup>3)</sup> onderzoek:  | Ondertekend:  | .....  |
 | --- | --- | --- | --- | (Handtekening van bevoegde ambtenaar)  |
 | --- | --- | --- | Plaats:  | .....  |
 | --- | --- | --- | Datum:  | .....  |
@@ -19498,7 +19494,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | --- | --- | --- |
 | *Jaarlijks/tussentijds onderzoek in overeenstemming met voorschrift I/14(h)(iii)*  |
 | --- |
-| HIERBIJ WORDT VERKLAARD dat bij een jaarlijks/periodiek onderzoek<sup>4)</sup> in overeenstemming met voorschrift I/14(h)(iii) van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende vereisten van het Verdrag  |
+| HIERBIJ WORDT VERKLAARD dat bij een jaarlijks/periodiek onderzoek<sup>3)</sup> in overeenstemming met voorschrift I/14(h)(iii) van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende vereisten van het Verdrag  |
 | --- |
 | --- | Ondertekend:  | .....  |
 | --- | --- | (Handtekening van bevoegde ambtenaar)  |
@@ -19528,7 +19524,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | --- | --- | --- |
 | *Aantekening tot verlenging van de geldigheid van het certificaat totdat de haven van onderzoek wordt aangedaan of voor uitstel indien voorschrift I/14(e) of I/14(f) van toepassing is*  |
 | --- | --- | --- |
-| Dit certificaat wordt in overeenstemming met voorschrift I/14(e)/I/14(f)<sup>4)</sup> van het Verdrag aanvaard als zijnde geldig tot .....  |
+| Dit certificaat wordt in overeenstemming met voorschrift I/14(e)/I/14(f)<sup>3)</sup> van het Verdrag aanvaard als zijnde geldig tot .....  |
 | --- | --- | --- |
 | --- | Ondertekend:  | .....  |
 | --- | --- | (Handtekening van bevoegde ambtenaar)  |
@@ -19558,13 +19554,11 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 
 <sup>2)</sup> Uitsluitend voor olietankschepen, chemicaliëntankschepen en gastankschepen.
 
-<sup>3)</sup> Overeenkomstig *het stelsel voor scheepsidentificatienummers van de IMO*, door de Organisatie aangenomen bij resolutie A.600(15).
+<sup>3)</sup> Doorhalen wat niet van toepassing is.
 
-<sup>4)</sup> Doorhalen wat niet van toepassing is.
+<sup>4)</sup> Verwezen wordt naar de wijzigingen van SOLAS (MSC.6(48)) van 1983, van toepassing op schepen gebouwd op of na 1 juli 1986, maar vóór 1 juli 1998 in het geval van gedeeltelijk overdekte zelfoprichtende reddingsboten aan boord.
 
-<sup>5)</sup> Verwezen wordt naar de wijzigingen van SOLAS (MSC.6(48)) van 1983, van toepassing op schepen gebouwd op of na 1 juli 1986, maar vóór 1 juli 1998 in het geval van gedeeltelijk overdekte zelfoprichtende reddingsboten aan boord.
-
-<sup>6)</sup> Vul de uiterste datum van geldigheid in als vermeld door de Administratie in overeenstemming met voorschrift I/14(a) van het Verdrag. De dag en maand van deze datum komen overeen met die van de verjaardatum omschreven in voorschrift I/2(n) van het Verdrag, tenzij dit wordt gewijzigd in overeenstemming met voorschrift I/14(h). 
+<sup>5)</sup> Vul de uiterste datum van geldigheid in als vermeld door de Administratie in overeenstemming met voorschrift I/14(a) van het Verdrag. De dag en maand van deze datum komen overeen met die van de verjaardatum omschreven in voorschrift I/2(n) van het Verdrag, tenzij dit wordt gewijzigd in overeenstemming met voorschrift I/14(h). 
 
 | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|
@@ -19590,7 +19584,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | Thuishaven .....  |
 | Brutotonnage .....  |
 | Zeegebieden waarbinnen het schip mag varen (voorschrift IV/2) .....  |
-| IMO-nummer<sup>2)</sup> .....  |
+| IMO-nummer .....  |
 | --- | --- | --- | --- | --- | --- |
 | Datum waarop de kiel werd gelegd of de bouw van het schip zich in een soortgelijk stadium bevond of indien van toepassing, aanvangsdatum van de werkzaamheden ten behoeve van een verandering of wijziging van ingrijpende aard .....  |
 | --- | --- | --- | --- | --- | --- |
@@ -19604,9 +19598,9 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | --- | --- | --- |
 | 2.2  | het functioneren van de in de reddingsmiddelen gebruikte radio-installaties voldoet aan de vereisten van het Verdrag;  |
 | --- | --- | --- | --- | --- | --- |
-|3. | Dat een/geen<sup>3)</sup> certificaat van vrijstelling is afgegeven. |
+|3. | Dat een/geen<sup>2)</sup> certificaat van vrijstelling is afgegeven. |
 | --- | --- | --- | --- | --- | --- |
-| *Dit certificaat is geldig tot* .....<sup>4)</sup> op voorwaarde van de periodieke onderzoeken in overeenstemming met voorschrift I/9 van het Verdrag.  |
+| *Dit certificaat is geldig tot* .....<sup>3)</sup> op voorwaarde van de periodieke onderzoeken in overeenstemming met voorschrift I/9 van het Verdrag.  |
 | --- |
 | Datum van afronding van het onderzoek waarop dit certificaat gebaseerd is: ..... *(dd/mm/jjjj)*  |
 | --- |
@@ -19677,7 +19671,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | --- | --- | --- |
 | *Aantekening tot verlenging van de geldigheid van het certificaat totdat de haven van onderzoek wordt aangedaan of voor uitstel indien voorschrift I/14(e) of I/14(f) van toepassing is*  |
 | --- | --- | --- |
-| Dit certificaat wordt in overeenstemming met voorschrift I/14(e)/I/14(f)<sup>3)</sup> van het Verdrag aanvaard als zijnde geldig tot .....  |
+| Dit certificaat wordt in overeenstemming met voorschrift I/14(e)/I/14(f)<sup>2)</sup> van het Verdrag aanvaard als zijnde geldig tot .....  |
 | --- | --- | --- |
 | --- | Ondertekend:  | .....  |
 | --- | --- | (Handtekening van bevoegde ambtenaar)  |
@@ -19705,11 +19699,9 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 
 <sup>1)</sup> De gegevens van het schip kunnen ook horizontaal worden vermeld in de vakjes.
 
-<sup>2)</sup> Overeenkomstig *het stelsel voor scheepsidentificatienummers van de IMO*, door de Organisatie aangenomen bij resolutie A.600(15).
+<sup>2)</sup> Doorhalen wat niet van toepassing is.
 
-<sup>3)</sup> Doorhalen wat niet van toepassing is.
-
-<sup>4)</sup> Vul de uiterste datum van geldigheid in als vermeld door de Administratie in overeenstemming met voorschrift I/14(a) van het Verdrag. De dag en maand van deze datum komen overeen met die van de verjaardatum omschreven in voorschrift I/2(n) van het Verdrag, tenzij dit wordt gewijzigd in overeenstemming met voorschrift I/14(h). 
+<sup>3)</sup> Vul de uiterste datum van geldigheid in als vermeld door de Administratie in overeenstemming met voorschrift I/14(a) van het Verdrag. De dag en maand van deze datum komen overeen met die van de verjaardatum omschreven in voorschrift I/2(n) van het Verdrag, tenzij dit wordt gewijzigd in overeenstemming met voorschrift I/14(h). 
 
 | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|
@@ -19737,9 +19729,9 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | Draagvermogen van het schip (metrieke ton)<sup>2)</sup> .....  |
 | Lengte van het schip (voorschrift III/3.12) .....  |
 | Zeegebieden waarbinnen het schip mag varen (voorschrift IV/2) .....  |
-| IMO-nummer<sup>3)</sup> .....  |
+| IMO-nummer .....  |
 | --- | --- | --- | --- | --- | --- |
-| Type schip:<sup>4)</sup>  |
+| Type schip:<sup>3)</sup>  |
 | --- | Bulkcarrier  |
 | --- | Olietankschip  |
 | --- | Chemicaliëntankschip  |
@@ -19780,15 +19772,15 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- |
 | 2.10  | het schip in alle andere opzichten voldoet aan de desbetreffende vereisten van het Verdrag.  |
 | --- | --- |
-| 2.11  | op het schip wel/geen<sup>4)</sup> vervangende ontwerpen en voorzieningen van toepassing zijn ingevolge voorschrift(en) II-1/55 / II-2/17 / III/38<sup>4)</sup> van het Verdrag;  |
+| 2.11  | op het schip wel/geen<sup>3)</sup> vervangende ontwerpen en voorzieningen van toepassing zijn ingevolge voorschrift(en) II-1/55 / II-2/17 / III/38<sup>3)</sup> van het Verdrag;  |
 | --- | --- |
-| 2.12  | aan dit certificaat een/geen<sup>4)</sup> document van goedkeuring voor vervangende ontwerpen en voorzieningen voor machines en elektrische installaties/brandbestrijdingsapparatuur/reddingsmiddelen en -voorzieningen<sup>4)</sup> is gehecht.  |
+| 2.12  | aan dit certificaat een/geen<sup>3)</sup> document van goedkeuring voor vervangende ontwerpen en voorzieningen voor machines en elektrische installaties/brandbestrijdingsapparatuur/reddingsmiddelen en -voorzieningen<sup>3)</sup> is gehecht.  |
 | --- |
-| 3.  | Dat het schip in overeenstemming met voorschrift III/26.1.1.1<sup>5)</sup> vaart binnen de grenzen van het handelsgebied .....  |
+| 3.  | Dat het schip in overeenstemming met voorschrift III/26.1.1.1<sup>4)</sup> vaart binnen de grenzen van het handelsgebied .....  |
 | --- | --- |
-| 4.  | Dat een/geen<sup>4)</sup> certificaat van vrijstelling is afgegeven.  |
+| 4.  | Dat een/geen<sup>3)</sup> certificaat van vrijstelling is afgegeven.  |
 | --- |
-| *Dit certificaat is geldig tot* .....<sup>6)</sup> op voorwaarde van jaarlijkse, tussentijdse en periodieke onderzoeken en inspecties van de buitenzijde van het scheepsvlak in overeenstemming met de voorschriften I/8, I/9 en I/10 van het Verdrag.  |
+| *Dit certificaat is geldig tot* .....<sup>5)</sup> op voorwaarde van jaarlijkse, tussentijdse en periodieke onderzoeken en inspecties van de buitenzijde van het scheepsvlak in overeenstemming met de voorschriften I/8, I/9 en I/10 van het Verdrag.  |
 | --- |
 | Datum van afronding van het onderzoek waarop dit certificaat gebaseerd is: ..... *(dd/mm/jjjj)*  |
 | --- |
@@ -19809,13 +19801,13 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | Plaats:  | .....  |
 | --- | --- | --- | Datum:  | .....  |
 | --- | --- | --- | --- | (Zegel of stempel van de autoriteit, naargelang wat van toepassing is)  |
-| Jaarlijks/tussentijds:<sup>4)</sup> onderzoek:  | Ondertekend:  | .....  |
+| Jaarlijks/tussentijds:<sup>3)</sup> onderzoek:  | Ondertekend:  | .....  |
 | --- | --- | --- | --- | (Handtekening van bevoegde ambtenaar)  |
 | --- | --- | --- | Plaats:  | .....  |
 | --- | --- | --- | Datum:  | .....  |
 | --- | --- | --- | --- | (Zegel of stempel van de autoriteit, naargelang wat van toepassing is)  |
 | --- | --- | --- | --- | --- | --- |
-| Jaarlijks/tussentijds:<sup>4)</sup> onderzoek:  | Ondertekend:  | .....  |
+| Jaarlijks/tussentijds:<sup>3)</sup> onderzoek:  | Ondertekend:  | .....  |
 | --- | --- | --- | --- | (Handtekening van bevoegde ambtenaar)  |
 | --- | --- | --- | Plaats:  | .....  |
 | --- | --- | --- | Datum:  | .....  |
@@ -19829,7 +19821,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | --- | --- | --- |
 | *Jaarlijks/tussentijds onderzoek in overeenstemming met voorschrift I/14(h)(iii)*  |
 | --- |
-| HIERBIJ WORDT VERKLAARD dat bij een jaarlijks/tussentijds onderzoek<sup>4)</sup> in overeenstemming met de voorschriften I/10 en I/14(h)(iii) van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende vereisten van het Verdrag.  |
+| HIERBIJ WORDT VERKLAARD dat bij een jaarlijks/tussentijds onderzoek<sup>3)</sup> in overeenstemming met de voorschriften I/10 en I/14(h)(iii) van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende vereisten van het Verdrag.  |
 | --- |
 | --- | Ondertekend:  | .....  |
 | --- | --- | (Handtekening van bevoegde ambtenaar)  |
@@ -19837,7 +19829,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | Datum:  | .....  |
 | --- | --- | --- | --- | (Zegel of stempel van de autoriteit, naargelang wat van toepassing is)  |
 | --- | --- | --- | --- | --- | --- |
-| *Aantekening van inspectie van de buitenzijde van het scheepsvlak<sup>7)</sup> *  |
+| *Aantekening van inspectie van de buitenzijde van het scheepsvlak<sup>6)</sup> *  |
 | --- | --- | --- |
 | HIERBIJ WORDT VERKLAARD dat bij een inspectie zoals vereist in voorschrift I/10 van het Verdrag werd geconstateerd dat het schip voldoet aan de desbetreffende vereisten van het Verdrag.  |
 | --- | --- | --- |
@@ -19863,13 +19855,13 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | Datum:  | .....  |
 | --- | --- | --- | --- | (Zegel of stempel van de autoriteit, naargelang wat van toepassing is)  |
 | --- | --- | --- | --- | --- | --- |
-| Jaarlijks/tussentijds<sup>4)</sup> onderzoek:  | Ondertekend:  | .....  |
+| Jaarlijks/tussentijds<sup>3)</sup> onderzoek:  | Ondertekend:  | .....  |
 | --- | --- | (Handtekening van bevoegde ambtenaar)  |
 | --- | Plaats:  | .....  |
 | --- | --- | --- | Datum:  | .....  |
 | --- | --- | --- | --- | (Zegel of stempel van de autoriteit, naargelang wat van toepassing is)  |
 | --- | --- | --- | --- | --- | --- |
-| Jaarlijks/tussentijds<sup>4)</sup> onderzoek:  | Ondertekend:  | .....  |
+| Jaarlijks/tussentijds<sup>3)</sup> onderzoek:  | Ondertekend:  | .....  |
 | --- | --- | (Handtekening van bevoegde ambtenaar)  |
 | --- | Plaats:  | .....  |
 | --- | --- | --- | Datum:  | .....  |
@@ -19883,7 +19875,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | --- | --- | --- |
 | *Jaarlijks/periodiek onderzoek in overeenstemming met voorschrift I/14(h)(iii)*  |
 | --- | --- | --- |
-| HIERBIJ WORDT VERKLAARD dat bij een jaarlijks/periodiek onderzoek<sup>4)</sup> in overeenstemming met de voorschriften I/8 en I/14(h)(iii) van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende vereisten van het Verdrag.  |
+| HIERBIJ WORDT VERKLAARD dat bij een jaarlijks/periodiek onderzoek<sup>3)</sup> in overeenstemming met de voorschriften I/8 en I/14(h)(iii) van het Verdrag is geconstateerd dat het schip voldoet aan de desbetreffende vereisten van het Verdrag.  |
 | --- | --- | --- |
 | --- | Ondertekend:  | .....  |
 | --- | --- | (Handtekening van bevoegde ambtenaar)  |
@@ -19951,7 +19943,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | --- | --- |
 | *Aantekening tot verlenging van de geldigheid van het certificaat totdat de haven van onderzoek wordt aangedaan of voor uitstel indien voorschrift I/14(e) of I/14(f) van toepassing is*  |
 | --- |
-| Dit certificaat wordt in overeenstemming met voorschrift I/14(e)/I/14(f)<sup>4)</sup> van het Verdrag aanvaard als zijnde geldig tot .....  |
+| Dit certificaat wordt in overeenstemming met voorschrift I/14(e)/I/14(f)<sup>3)</sup> van het Verdrag aanvaard als zijnde geldig tot .....  |
 | --- | --- | --- |
 | --- | Ondertekend:  | .....  |
 | --- | --- | (Handtekening van bevoegde ambtenaar)  |
@@ -19981,15 +19973,13 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 
 <sup>2)</sup> Uitsluitend voor olietankschepen, chemicaliëntankschepen en gastankschepen. 
 
-<sup>3)</sup> Overeenkomstig *het stelsel voor scheepsidentificatienummers van de IMO*, door de Organisatie aangenomen bij resolutie A.600(15).
+<sup>3)</sup> Doorhalen wat niet van toepassing is. 
 
-<sup>4)</sup> Doorhalen wat niet van toepassing is. 
+<sup>4)</sup> Verwezen wordt naar de wijzigingen van SOLAS (MSC.6(48)) van 1983, van toepassing op schepen gebouwd op of na 1 juli 1986, maar vóór 1 juli 1998 in het geval van gedeeltelijk overdekte zelfoprichtende reddingsboten aan boord.
 
-<sup>5)</sup> Verwezen wordt naar de wijzigingen van SOLAS (MSC.6(48)) van 1983, van toepassing op schepen gebouwd op of na 1 juli 1986, maar vóór 1 juli 1998 in het geval van gedeeltelijk overdekte zelfoprichtende reddingsboten aan boord.
+<sup>5)</sup> Vul de uiterste datum van geldigheid in als vermeld door de Administratie in overeenstemming met voorschrift I/14(a) van het Verdrag. De dag en maand van deze datum komen overeen met die van de verjaardatum omschreven in voorschrift I/2(n) van het Verdrag, tenzij dit wordt gewijzigd in overeenstemming met voorschrift I/14(h).
 
-<sup>6)</sup> Vul de uiterste datum van geldigheid in als vermeld door de Administratie in overeenstemming met voorschrift I/14(a) van het Verdrag. De dag en maand van deze datum komen overeen met die van de verjaardatum omschreven in voorschrift I/2(n) van het Verdrag, tenzij dit wordt gewijzigd in overeenstemming met voorschrift I/14(h).
-
-<sup>7)</sup> Bepaald kan worden dat aanvullende inspecties nodig zijn. 
+<sup>6)</sup> Bepaald kan worden dat aanvullende inspecties nodig zijn. 
 
 | --- | --- | --- | --- | --- | --- |
 |:---|:---|:---|:---|:---|:---|
@@ -20012,7 +20002,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | Onderscheidingsnummer of -letters .....  |
 | Thuishaven .....  |
 | Brutotonnage .....  |
-| IMO-nummer<sup>2)</sup> .....  |
+| IMO-nummer .....  |
 | --- | --- | --- | --- | --- | --- |
 | *HIERBIJ WORDT VERKLAARD:*  |
 | --- |
@@ -20054,7 +20044,7 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 | --- | --- | --- | --- | --- | --- |
 | Aantekening tot verlenging van de geldigheid van het certificaat totdat de haven van onderzoek wordt aangedaan of voor uitstel indien voorschrift I/14(e) of I/14(f) van toepassing is  |
 | --- | --- | --- |
-| Dit certificaat wordt in overeenstemming met voorschrift I/14(e)/I/14(f)<sup>3)</sup> van het Verdrag aanvaard als zijnde geldig tot ..... op voorwaarde dat het certificaat waaraan dit certificaat is gehecht geldig blijft.  |
+| Dit certificaat wordt in overeenstemming met voorschrift I/14(e)/I/14(f)<sup>2)</sup> van het Verdrag aanvaard als zijnde geldig tot ..... op voorwaarde dat het certificaat waaraan dit certificaat is gehecht geldig blijft.  |
 | --- | --- | --- |
 | --- | Ondertekend:  | .....  |
 | --- | --- | (Handtekening van bevoegde ambtenaar)  |
@@ -20064,6 +20054,4 @@ Bulkcarriers met een lengte van 150 en meer met een enkelzijdige huidconstructie
 
 <sup>1)</sup> De gegevens van het schip kunnen ook horizontaal worden vermeld in de vakjes.
 
-<sup>2)</sup> Overeenkomstig *het stelsel voor scheepsidentificatienummers van de IMO*, door de Organisatie aangenomen bij resolutie A.600(15).
-
-<sup>3)</sup> Doorhalen wat niet van toepassing is.  
+<sup>2)</sup> Doorhalen wat niet van toepassing is.  

@@ -112,6 +112,16 @@ a. tussen de gasmeter en het communicatieonderdeel binnen een meetinrichting voo
 b. tussen een meetinrichting voor gas en een meetinrichting voor elektriciteit,   geschiedt volgens internationale open standaarden voor zowel het gegevensverkeer als de fysieke aansluitingen.   
 6.  Een meetinrichting voor gas die is aangesloten op een meetinrichting voor elektriciteit kan voor de informatieverplichtingen gebruik maken van de meetinrichting voor elektriciteit.  
 
+### Artikel  5a  
+Treedt in werking per 01-01-2015 
+
+1.  Een op afstand uitleesbare meetinrichting voor warmte is geschikt om: 
+
+a. de actuele meterstand te registreren en weer te geven;  
+
+b. op afstand de gegevens, bedoeld in onderdeel a, te versturen naar de warmteleverancier of meterdienstleverancier op zodanige wijze dat de warmteleverancier of meterdienstleverancier de verstuurde gegevens kan lezen en gebruiken.     
+2.  Het registreren en versturen van gegevens geschiedt volgens internationale open standaarden voor zowel het gegevensverkeer als de fysieke aansluitingen.  
+
 ### Artikel  6  
 
 1.  Een meetinrichting is zodanig beveiligd tegen fraude met, misbruik van of inbreuk op de meetinrichting dat een passend beveiligingsniveau is gegarandeerd, rekening houdend met de internationale stand van de techniek en de kosten van de tenuitvoerlegging, mede gelet op de risico’s die de aanwezigheid van de functionaliteiten bestaande uit het op afstand onderbreken, beperken en hervatten van de levering van elektriciteit of het op afstand onderbreken en hervatten van de levering van gas met zich mee brengt.   

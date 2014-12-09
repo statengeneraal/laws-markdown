@@ -3,7 +3,7 @@
 ##Regeling tot de subsidiëring van kennismakingsstages in de zeescheepvaart en waterbouw van 2010 tot en met 2014 (Tijdelijke subsidieregeling kennismakingsstages scheepvaart)
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op de [artikelen 2, onderdeel c](../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md), [3](../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [4 van de Kaderwet subsidies Verkeer en Waterstaat](../../../../../../wet/kaderwet/subsidies/verkeer/en/waterstaat/BWBR0009196/README.md) en [10:4, tweede lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op de artikelen 2, onderdeel c, 3 en 4 van de Kaderwet subsidies Verkeer en Waterstaat en 10:4, tweede lid, van de Algemene wet bestuursrecht;
 Besluit:    
 
 ### Artikel  1  
@@ -69,6 +69,11 @@ b. reeds driemaal eerder aan de aanvrager een subsidie is verstrekt krachtens de
 ### Artikel  6  
 
 De minister kan de Directeur van het Bureau van de KVNR of de Directeur van de Stichting Scheepvaart te Amsterdam, dan wel beide, met de uitvoering van deze regeling belasten. 
+
+### Artikel  6a  
+Treedt in werking per 31-12-2014 
+
+De minister neemt de beschikking tot subsidievaststelling binnen dertien weken na ontvangst van de aanvraag. 
 
 ### Artikel  7  
 

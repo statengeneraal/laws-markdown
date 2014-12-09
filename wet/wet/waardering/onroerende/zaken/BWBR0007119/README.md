@@ -15,7 +15,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 ### Artikel  1  
 
 1. Deze wet geldt bij de bepaling, de vaststelling en de verstrekking van de waarde van in Nederland gelegen onroerende zaken ten behoeve van afnemers.  
-2.  Het college van burgemeester en wethouders is belast met de uitvoering van deze wet, tenzij de gemeenteambtenaar, bedoeld in [artikel 231, tweede lid, onderdeel b, van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md), hiermee is belast.   
+2.  Het college van burgemeester en wethouders is belast met de uitvoering van deze wet, tenzij de gemeenteambtenaar, bedoeld in artikel 231, tweede lid, onderdeel b, van de Gemeentewet, hiermee is belast.   
 
 ### Artikel  2  
 
@@ -53,7 +53,7 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 2.   De Waarderingskamer houdt toezicht op de waardebepaling en de waardevaststelling van onroerende zaken, op de uitvoering van de basisregistratie waarde onroerende zaken (basisregistratie WOZ) en op de overige in de wet geregelde onderwerpen. De colleges verschaffen de Waarderingskamer desgevraagd tijdig de voor de uitoefening van haar taak noodzakelijke gegevens.    
 3.   De Waarderingskamer dient desgevraagd of eigener beweging Onze Minister van advies over zaken die verband houden met de inhoud en de toepassing van hetgeen bij of krachtens de wet is bepaald.    
 4.   De Waarderingskamer geeft voorts uitvoering aan hetgeen haar overigens bij of krachtens de wet is opgedragen.    
-5.  De [Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), met uitzondering van [artikel 9 van die wet](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), is van toepassing op de Waarderingskamer. 
+5.  De Kaderwet zelfstandige bestuursorganen, met uitzondering van artikel 9 van die wet, is van toepassing op de Waarderingskamer. 
 
 ### Artikel  5  
 
@@ -82,9 +82,9 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld betreffend
 
 ### Artikel  9  
 
-1.  Het personeel van het secretariaat van de Waarderingskamer, de secretaris daaronder begrepen, is ambtenaar in de zin van de [Ambtenarenwet](../../../../../../wet/ambtenarenwet/BWBR0001947/README.md).    
-2.  In afwijking van [artikel 15 van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) stelt de Waarderingskamer bij reglement de regeling van de rechtstoestand van het personeel vast.   
-3.   Onverminderd hetgeen reeds bij of krachtens de [Ambtenarenwet](../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) is geregeld, geeft het reglement, bedoeld in het tweede lid, in ieder geval voorschriften betreffende de volgende onderwerpen:  
+1.  Het personeel van het secretariaat van de Waarderingskamer, de secretaris daaronder begrepen, is ambtenaar in de zin van de Ambtenarenwet.    
+2.  In afwijking van artikel 15 van de Kaderwet zelfstandige bestuursorganen stelt de Waarderingskamer bij reglement de regeling van de rechtstoestand van het personeel vast.   
+3.   Onverminderd hetgeen reeds bij of krachtens de Ambtenarenwet is geregeld, geeft het reglement, bedoeld in het tweede lid, in ieder geval voorschriften betreffende de volgende onderwerpen:  
 
 a. aanstelling;   
 
@@ -117,7 +117,7 @@ n. disciplinaire straffen;
 o. de wijze waarop met de daarvoor in aanmerking komende vakorganisaties van overheidspersoneel overleg wordt gepleegd over aangelegenheden van algemeen belang voor de rechtstoestand en de bezoldiging van het personeel van het secretariaat;   
 
 p. een geschillenregeling met betrekking tot de onder l en o genoemde onderwerpen.     
-4.   [Artikel 126 van de Ambtenarenwet](../../../../../../wet/ambtenarenwet/BWBR0001947/README.md) is van overeenkomstige toepassing.   
+4.   Artikel 126 van de Ambtenarenwet is van overeenkomstige toepassing.   
 
 ### Artikel  10  
 
@@ -154,13 +154,13 @@ f.het binnen de gemeente gelegen deel van een in onderdeel *a* of onderdeel *b* 
 
 1.  Aan een onroerende zaak wordt een waarde toegekend.    
 2.   De waarde wordt bepaald op de waarde die aan de onroerende zaak dient te worden toegekend, indien de volle en onbezwaarde eigendom daarvan zou kunnen worden overgedragen en de verkrijger de zaak in de staat waarin die zich bevindt, onmiddellijk en in volle omvang in gebruik zou kunnen nemen.    
-3.   In afwijking in zoverre van het tweede lid wordt de waarde van een onroerende zaak, voor zover die niet tot woning dient, en met uitzondering van onroerende zaken die zijn ingeschreven in een van de ingevolge de [Monumentenwet 1988](../../../../../../wet/monumentenwet/1988/BWBR0004471/README.md) vastgestelde registers van beschermde monumenten, bepaald op de vervangingswaarde indien dit leidt tot een hogere waarde dan die ingevolge het tweede lid. Bij de berekening van de vervangingswaarde wordt rekening gehouden met:  
+3.   In afwijking in zoverre van het tweede lid wordt de waarde van een onroerende zaak, voor zover die niet tot woning dient, en met uitzondering van onroerende zaken die zijn ingeschreven in een van de ingevolge de Monumentenwet 1988 vastgestelde registers van beschermde monumenten, bepaald op de vervangingswaarde indien dit leidt tot een hogere waarde dan die ingevolge het tweede lid. Bij de berekening van de vervangingswaarde wordt rekening gehouden met:  
 
 a. de aard en de bestemming van de zaak;   
 
 b. de sedert de stichting van de zaak opgetreden technische en functionele veroudering, waarbij de invloed van latere wijzigingen in aanmerking wordt genomen.     
-4. In afwijking in zoverre van het tweede lid wordt de waarde van een gebouwd eigendom in aanbouw bepaald op de vervangingswaarde, bedoeld in het derde lid. Onder een gebouwd eigendom in aanbouw wordt verstaan een onroerende zaak of gedeelte daarvan waarvoor een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is verleend en dat door bouw nog niet geschikt is voor gebruik overeenkomstig zijn beoogde bestemming. 
-5.  In afwijking in zoverre van het tweede lid wordt de waarde van een gebouwd eigendom dat tot woning dient en deel uitmaakt van een op de voet van de [Natuurschoonwet 1928](../../../../../../wet/natuurschoonwet/1928/BWBR0001939/README.md) aangewezen landgoed dat voldoet aan de in [artikel 220d, eerste lid, onderdeel d, van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) bedoelde voorwaarden bepaald met inachtneming van een vooronderstelde verplichting om het gedurende een tijdvak van 25 jaren als zodanig in stand te houden en geen opgaand hout te vellen anders dan volgens de regels van normaal bosbeheer noodzakelijk of gebruikelijk is. Gebouwde eigendommen die dienstbaar zijn aan de woning worden geacht deel uit te maken van die woning.    
+4. In afwijking in zoverre van het tweede lid wordt de waarde van een gebouwd eigendom in aanbouw bepaald op de vervangingswaarde, bedoeld in het derde lid. Onder een gebouwd eigendom in aanbouw wordt verstaan een onroerende zaak of gedeelte daarvan waarvoor een omgevingsvergunning voor een bouwactiviteit als bedoeld in artikel 2.1, eerste lid, onder a, van Wet algemene bepalingen omgevingsrecht is verleend en dat door bouw nog niet geschikt is voor gebruik overeenkomstig zijn beoogde bestemming. 
+5.  In afwijking in zoverre van het tweede lid wordt de waarde van een gebouwd eigendom dat tot woning dient en deel uitmaakt van een op de voet van de Natuurschoonwet 1928 aangewezen landgoed dat voldoet aan de in artikel 220d, eerste lid, onderdeel d, van de Gemeentewet bedoelde voorwaarden bepaald met inachtneming van een vooronderstelde verplichting om het gedurende een tijdvak van 25 jaren als zodanig in stand te houden en geen opgaand hout te vellen anders dan volgens de regels van normaal bosbeheer noodzakelijk of gebruikelijk is. Gebouwde eigendommen die dienstbaar zijn aan de woning worden geacht deel uit te maken van die woning.    
 6.   Met betrekking tot een onroerende zaak als bedoeld in artikel 16, aanhef en onderdeel f , wordt de waarde gesteld op een evenredig deel van de waarde die dient te worden toegekend aan de gehele onroerende zaak.   
 
 ### Artikel  18  
@@ -230,7 +230,7 @@ c.het ter beschikking stellen van een onroerende zaak voor volgtijdig gebruik aa
 6. Voor de toepassing van het derde lid, onderdeel *b*, kan, met inachtneming van het vierde lid, indien er met betrekking tot een zelfde onroerende zaak meer dan één gebruiker is, bekendmaking plaatsvinden aan één van hen.
 7.  Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot de in het derde lid, slotzin, bedoelde mededeling nadere regels worden gesteld. 
 8.  Indien aan een belanghebbende ingevolge het derde lid, aanhef en onderdelen *a* en *b*, twee of meer beschikkingen als bedoeld in artikel 22, eerste lid, moeten worden gezonden, kunnen deze beschikkingen worden verenigd in één geschrift. 
-9.  Indien ten aanzien van degene aan wie ingevolge het derde lid de bekendmaking van de beschikking dient te geschieden een aanslag onroerende-zaakbelastingen als bedoeld in [artikel 220 van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) wordt vastgesteld waarbij als heffingsmaatstaf geldt de bij de beschikking vastgestelde waarde van de onroerende zaak, geschiedt in afwijking van de vorige leden de bekendmaking van de beschikking in één geschrift met het aanslagbiljet onroerende-zaakbelastingen. Het niet naleven van de eerste volzin brengt geen nietigheid van de beschikking mee.
+9.  Indien ten aanzien van degene aan wie ingevolge het derde lid de bekendmaking van de beschikking dient te geschieden een aanslag onroerende-zaakbelastingen als bedoeld in artikel 220 van de Gemeentewet wordt vastgesteld waarbij als heffingsmaatstaf geldt de bij de beschikking vastgestelde waarde van de onroerende zaak, geschiedt in afwijking van de vorige leden de bekendmaking van de beschikking in één geschrift met het aanslagbiljet onroerende-zaakbelastingen. Het niet naleven van de eerste volzin brengt geen nietigheid van de beschikking mee.
 
 ###Artikel 26 
 
@@ -284,21 +284,21 @@ b. de bij die beschikking vastgestelde waarde wordt verminderd, geschiedt de bek
 
 ### Artikel  30  
 
-1.  Met betrekking tot de waardebepaling en de waardevaststelling ingevolge de hoofdstukken III en IV zijn de [artikelen 1, derde lid](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [5, eerste lid, tweede volzin](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [22j tot en met 30](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [49 tot en met 51](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [52a](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [53a](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [54](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [56 tot en met 60 van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing. Met betrekking tot natuurlijke personen die een bedrijf of zelfstandig een beroep uitoefenen, alsmede lichamen, is voorts [artikel 52, vierde en vijfde lid, en - voor zoveel het betreft het bewaren van gegevensdragers - zesde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
+1.  Met betrekking tot de waardebepaling en de waardevaststelling ingevolge de hoofdstukken III en IV zijn de artikelen 1, derde lid, 5, eerste lid, tweede volzin, 22j tot en met 30, 47, 49 tot en met 51, 52a, 53a, 54 en 56 tot en met 60 van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing. Met betrekking tot natuurlijke personen die een bedrijf of zelfstandig een beroep uitoefenen, alsmede lichamen, is voorts artikel 52, vierde en vijfde lid, en - voor zoveel het betreft het bewaren van gegevensdragers - zesde lid, van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.   
 2. Een bezwaarschrift tegen een beschikking die is bekendgemaakt en verenigd in één geschrift met een aanslag onroerende-zaakbelastingen, zoals bedoeld in artikel 24, negende lid, wordt geacht mede te zijn gericht tegen die aanslag, tenzij uit het bezwaarschrift het tegendeel blijkt.
 3. Een bezwaarschrift tegen een aanslag onroerende-zaakbelastingen die is bekendgemaakt en verenigd in één geschrift met een in artikel 22, eerste lid, bedoelde beschikking, zoals bedoeld in artikel 24, negende lid, wordt geacht mede te zijn gericht tegen die beschikking, tenzij uit het bezwaarschrift het tegendeel blijkt.
-4. Indien de in het tweede of derde lid bedoelde fictie toepassing vindt, treedt de in artikel 1, tweede lid, bedoelde gemeenteambtenaar in de plaats van de in [artikel 231, tweede lid, onderdeel b, van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) bedoelde gemeenteambtenaar wat betreft de aanslag onroerende-zaakbelastingen. In afwijking in zoverre van het eerste lid in samenhang met [artikel 25, vierde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), vervat deze gemeenteambtenaar de uitspraak op het bezwaar tegen de in het tweede of derde lid bedoelde beschikking en de uitspraak op het bezwaar tegen de in het tweede of derde lid bedoelde aanslag onroerende-zaakbelastingen in één geschrift.  
-5.   De bevoegdheden en verplichtingen die ingevolge de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) gelden met betrekking tot de inspecteur, gelden daarbij voor het college en de in artikel 1, tweede lid, bedoelde gemeenteambtenaar. De verplichtingen die krachtens [artikel 56 van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) gelden jegens iedere door Onze Minister aangewezen andere ambtenaar van de rijksbelastingdienst, gelden daarbij jegens door het college aangewezen personen. Voor zover dit redelijkerwijs van belang kan worden geacht voor de uitvoering van de wet, gelden vorenbedoelde bevoegdheden en verplichtingen ook buiten de gemeente.    
-6.  Voor de overeenkomstige toepassing van [artikel 25a van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) treedt de raad in de plaats van de Tweede Kamer der Staten-Generaal of de Tweede Kamer. Voor de overeenkomstige toepassing van [artikel 28, eerste lid, van die wet ](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) treedt het college in de plaats van Onze Minister.   
+4. Indien de in het tweede of derde lid bedoelde fictie toepassing vindt, treedt de in artikel 1, tweede lid, bedoelde gemeenteambtenaar in de plaats van de in artikel 231, tweede lid, onderdeel b, van de Gemeentewet bedoelde gemeenteambtenaar wat betreft de aanslag onroerende-zaakbelastingen. In afwijking in zoverre van het eerste lid in samenhang met artikel 25, vierde lid, van de Algemene wet inzake rijksbelastingen, vervat deze gemeenteambtenaar de uitspraak op het bezwaar tegen de in het tweede of derde lid bedoelde beschikking en de uitspraak op het bezwaar tegen de in het tweede of derde lid bedoelde aanslag onroerende-zaakbelastingen in één geschrift.  
+5.   De bevoegdheden en verplichtingen die ingevolge de Algemene wet inzake rijksbelastingen gelden met betrekking tot de inspecteur, gelden daarbij voor het college en de in artikel 1, tweede lid, bedoelde gemeenteambtenaar. De verplichtingen die krachtens artikel 56 van de Algemene wet inzake rijksbelastingen gelden jegens iedere door Onze Minister aangewezen andere ambtenaar van de rijksbelastingdienst, gelden daarbij jegens door het college aangewezen personen. Voor zover dit redelijkerwijs van belang kan worden geacht voor de uitvoering van de wet, gelden vorenbedoelde bevoegdheden en verplichtingen ook buiten de gemeente.    
+6.  Voor de overeenkomstige toepassing van artikel 25a van de Algemene wet inzake rijksbelastingen treedt de raad in de plaats van de Tweede Kamer der Staten-Generaal of de Tweede Kamer. Voor de overeenkomstige toepassing van artikel 28, eerste lid, van die wet  treedt het college in de plaats van Onze Minister.   
 7. De colleges van twee of meer gemeenten kunnen bepalen dat een daartoe aangewezen ambtenaar van één van die gemeenten voor de uitvoering van een of meer bepalingen van de wet wordt aangewezen als de in artikel 1, tweede lid, bedoelde gemeenteambtenaar van die gemeenten. 
 8.  Indien een gemeenschappelijke regeling is getroffen en bij die regeling een openbaar lichaam is ingesteld, kan bij of krachtens die regeling worden bepaald dat een daartoe aangewezen ambtenaar van dat openbare lichaam voor de uitvoering van een of meer bepalingen van de wet wordt aangewezen als de in artikel 1, tweede lid, bedoelde gemeenteambtenaar.  
-9. Op een bezwaarschrift dat niet is ingediend in de laatste zes weken van een kalenderjaar, doet de in artikel 1, tweede lid, bedoelde gemeenteambtenaar, in afwijking van [artikel 7:10, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), uitspraak in het kalenderjaar waarin het bezwaarschrift is ontvangen.
+9. Op een bezwaarschrift dat niet is ingediend in de laatste zes weken van een kalenderjaar, doet de in artikel 1, tweede lid, bedoelde gemeenteambtenaar, in afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht, uitspraak in het kalenderjaar waarin het bezwaarschrift is ontvangen.
 
 ### Artikel  31  
 
 1.  Met betrekking tot de toepassing van de hoofdstukken III en IV kunnen bij algemene maatregel van bestuur:  
 
-a. regels worden gesteld waarbij de [artikelen 48](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [52, eerste, tweede en derde lid, en - voor zoveel het betreft de inrichting en het voeren van de administratie - zesde lid](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), 53, eerste en vierde lid, en 55 van de Algemene wet inzake rijksbelastingen geheel of gedeeltelijk van toepassing worden verklaard, dan wel   
+a. regels worden gesteld waarbij de artikelen 48, 52, eerste, tweede en derde lid, en - voor zoveel het betreft de inrichting en het voeren van de administratie - zesde lid, 53, eerste en vierde lid, en 55 van de Algemene wet inzake rijksbelastingen geheel of gedeeltelijk van toepassing worden verklaard, dan wel   
 
 b. regels worden gesteld die overeenkomen met die in de in onderdeel *a*  genoemde artikelen.      
 2.   De in het eerste lid bedoelde regels bevatten in elk geval een omschrijving van degene op wie de verplichting rust, alsmede ten behoeve waarvan de verplichting geldt. Voorts vermelden deze regels naar gelang de aard van de verplichting een omschrijving van de aard van de te verstrekken gegevens en inlichtingen, van de aard van de gegevens welke uit de administratie dienen te blijken of van het doel waarvoor het voor raadpleging beschikbaar stellen van gegevensdragers kan geschieden.   
@@ -323,7 +323,7 @@ c. ingevolge het bepaalde bij of krachtens de wet verplicht zijnde tot het voere
 
 d. ingevolge het bepaalde bij of krachtens de wet verplicht zijnde tot het bewaren van boeken, bescheiden of andere gegevensdragers, deze gegevensdragers niet bewaart;   een en ander, indien daarvan het gevolg zou kunnen zijn dat de waarde van een onroerende zaak te laag zou kunnen worden vastgesteld, wordt gestraft met hechtenis van ten hoogste zes maanden of geldboete van de derde categorie.    
 2.   Degene die een der in het eerste lid omschreven feiten opzettelijk begaat, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vierde categorie.    
-3.   Degene die niet voldoet aan de hem bij de [artikelen 49](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), tweede lid, en [50, eerste lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) opgelegde verplichtingen, wordt gestraft met geldboete van de derde categorie.   
+3.   Degene die niet voldoet aan de hem bij de artikelen 49, tweede lid, en 50, eerste lid, van de Algemene wet inzake rijksbelastingen opgelegde verplichtingen, wordt gestraft met geldboete van de derde categorie.   
 
 ### Artikel  34  
 
@@ -339,7 +339,7 @@ De bij de wet strafbaar gestelde feiten waarop gevangenisstraf is gesteld, zijn 
 
 ### Artikel  37  
 
-De [artikelen 73](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [77](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [78](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [80](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), eerste lid, [81](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [83](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [85](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [88 van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn van overeenkomstige toepassing.  
+De artikelen 73, 77, 78, 80, eerste lid, 81, 83, 85 en 88 van de Algemene wet inzake rijksbelastingen zijn van overeenkomstige toepassing.  
 
 ### Hoofdstuk  VI  
 

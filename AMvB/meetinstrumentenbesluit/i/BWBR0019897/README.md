@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken van 3 maart 2006, nr. WJZ 6015750;
 
-Gelet op richtlijn nr. 2004/22/EG van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004, betreffende meetinstrumenten (PbEU L 135), richtlijn nr. 90/384/EEG van de Raad van de Europese Gemeenschappen van 20 juni 1990 betreffende de harmonisatie van de wetgevingen van de Lid-Staten inzake niet-automatische weegwerktuigen (PbEG L 189), en de [artikelen 5](../../../../wet/metrologiewet/BWBR0019517/README.md), [9](../../../../wet/metrologiewet/BWBR0019517/README.md) en [26 van de Metrologiewet](../../../../wet/metrologiewet/BWBR0019517/README.md);
+Gelet op richtlijn nr. 2004/22/EG van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004, betreffende meetinstrumenten (PbEU L 135), richtlijn nr. 90/384/EEG van de Raad van de Europese Gemeenschappen van 20 juni 1990 betreffende de harmonisatie van de wetgevingen van de Lid-Staten inzake niet-automatische weegwerktuigen (PbEG L 189), en de artikelen 5, 9 en 26 van de Metrologiewet;
 
 De Raad van State gehoord (advies van 21 april 2006, nr. W10.06.0064/II);
 
@@ -20,13 +20,13 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Metrologiewet](../../../../wet/metrologiewet/BWBR0019517/README.md);  
+a. wet: Metrologiewet;  
 
 b. richtlijn meetinstrumenten: richtlijn nr. 2004/22/EG van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004, betreffende meetinstrumenten (PbEU L 135);  
 
 c.  *richtlijn niet-automatische weegwerktuigen:* richtlijn nr. 2009/23/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 betreffende niet-automatische weegwerktuigen (PbEU L 122); 
 
-d. fabrikant: de natuurlijke persoon of de rechtspersoon die verantwoordelijk is voor de overeenstemming van het meetinstrument met de bij of krachtens de [wet](../../../../wet/metrologiewet/BWBR0019517/README.md) gestelde eisen aan het instrument voordat het in de handel wordt gebracht of in gebruik wordt genomen, waarbij hij als doel heeft dat meetinstrument onder eigen naam in de handel te brengen of voor eigen doeleinden in gebruik te nemen;  
+d. fabrikant: de natuurlijke persoon of de rechtspersoon die verantwoordelijk is voor de overeenstemming van het meetinstrument met de bij of krachtens de wet gestelde eisen aan het instrument voordat het in de handel wordt gebracht of in gebruik wordt genomen, waarbij hij als doel heeft dat meetinstrument onder eigen naam in de handel te brengen of voor eigen doeleinden in gebruik te nemen;  
 
 e. CE-markering: markering, overeenkomstig het model van punt I.B.d) van de bijlage bij besluit nr. 93/465/EEG van de Raad van de Europese Gemeenschappen van 22 juli 1993 betreffende de modules voor de verschillende fasen van de overeenstemmingsprocedures en de voorschriften inzake het aanbrengen en het gebruik van de CE-markering van overeenstemming (PbEG L 220);  
 
@@ -42,7 +42,7 @@ h. niet-automatisch weegwerktuig: werktuig voor het bepalen van de massa van een
 
 ### Artikel  2  
 
-Een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 5, eerste lid, van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md) is het bij het drijven van handel, bij levering uit hoofde van beroep of bedrijf en bij het vaststellen van belastingen of van andere heffingen: 
+Een meettaak ten behoeve van een specifieke toepassing als bedoeld in artikel 5, eerste lid, van de wet is het bij het drijven van handel, bij levering uit hoofde van beroep of bedrijf en bij het vaststellen van belastingen of van andere heffingen: 
 
 a. meten van een stromende hoeveelheid gasvormige brandstof, al dan niet onder herleiding van de onder meetomstandigheden gemeten hoeveelheid naar een hoeveelheid onder basisomstandigheden, voor huishoudelijk gebruik, handelsgebruik of licht industrieel gebruik;  
 
@@ -76,7 +76,7 @@ f. bepalen van de lengte van de randen van het kleinste omhullende rechthoekige 
 
 ### Artikel  3  
 
-Een meettaak ten behoeve van een specifieke toepassing als bedoeld in [artikel 5, eerste lid, van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md) is het 
+Een meettaak ten behoeve van een specifieke toepassing als bedoeld in artikel 5, eerste lid, van de wet is het 
 
 a. bij het drijven van handel,  
 
@@ -202,7 +202,7 @@ b. hij de oplossingen toepast die in de in artikel 7, eerste lid, bedoelde norme
 1.  De aangewezen instantie die toetsende werkzaamheden verricht in het kader van een overeenstemmingsbeoordeling als bedoeld in artikel 10 of artikel 12 draagt daarbij zorg voor de uitvoering van haar met die toetsende werkzaamheden samenhangende verplichtingen die in de beoordelingsprocedurebijlage of in de gekozen procedure van overeenstemming, bedoeld in artikel 12, zijn voorzien.   
 2.  Voor zover de beoordelingsprocedurebijlage voorziet in de verplichting tot het verstrekken van gegevens aan de lidstaat door wie de aangewezen instantie is aangewezen, dan wel aan andere lidstaten, geldt dat in Nederland de gegevens worden verstrekt aan de toezichthoudende instantie.   
 3.  Voor zover een procedure van overeenstemmingsbeoordeling als bedoeld in artikel 12 voorziet in het verstrekken van gegevens aan de Lid-Staten van de Europese Unie, geldt dat deze verstrekking geschiedt door tussenkomst van de toezichthoudende instantie.   
-4.  De in artikel 14 bedoelde keuring wordt verricht door een aangewezen instantie of door een natuurlijke persoon of rechtspersoon die beschikt over een erkenning als bedoeld in [artikel 11 van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md).  
+4.  De in artikel 14 bedoelde keuring wordt verricht door een aangewezen instantie of door een natuurlijke persoon of rechtspersoon die beschikt over een erkenning als bedoeld in artikel 11 van de wet.  
 
 ### §  3  
 
@@ -210,12 +210,12 @@ b. hij de oplossingen toepast die in de in artikel 7, eerste lid, bedoelde norme
 
 ### Artikel  16  
 
-1.  De overeenstemming van een in de handel te brengen of in gebruik te nemen meetinstrument als bedoeld in artikel 4 of artikel 6 met de bij of krachtens de [wet](../../../../wet/metrologiewet/BWBR0019517/README.md) gestelde eisen blijkt uit de CE-markering en de aanvullende metrologische markering, zoals beschreven in artikel 17, tweede lid, van de richtlijn meetinstrumenten.   
+1.  De overeenstemming van een in de handel te brengen of in gebruik te nemen meetinstrument als bedoeld in artikel 4 of artikel 6 met de bij of krachtens de wet gestelde eisen blijkt uit de CE-markering en de aanvullende metrologische markering, zoals beschreven in artikel 17, tweede lid, van de richtlijn meetinstrumenten.   
 2.  De in het eerste lid bedoelde markeringen alsmede andere opschriften worden aangebracht door de fabrikant of door een andere persoon onder verantwoordelijkheid van de fabrikant overeenkomstig de artikelen 7 en 17 van de richtlijn meetinstrumenten en de toepasselijke overeenstemmingsbeoordelingsprocedure.  
 
 ### Artikel  17  
 
-1.  De overeenstemming van een in de handel te brengen of in gebruik te nemen weegwerktuig als bedoeld in artikel 5 met de bij of krachtens de [wet](../../../../wet/metrologiewet/BWBR0019517/README.md) gestelde eisen blijkt uit de CE-markering en de aanvullende gegevens zoals omschreven in bijlage IV, punt 1, van de richtlijn niet-automatische weegwerktuigen.   
+1.  De overeenstemming van een in de handel te brengen of in gebruik te nemen weegwerktuig als bedoeld in artikel 5 met de bij of krachtens de wet gestelde eisen blijkt uit de CE-markering en de aanvullende gegevens zoals omschreven in bijlage IV, punt 1, van de richtlijn niet-automatische weegwerktuigen.   
 2.  De in het eerste lid bedoelde markering en gegevens worden duidelijk zichtbaar, gemakkelijk leesbaar en onuitwisbaar aangebracht. Op de werktuigen mogen andere markeringen worden aangebracht, mits de zichtbaarheid en leesbaarheid van de CE-markering niet worden verminderd.   
 3.  Indien artikel 5, tweede lid, van toepassing is, moet op elk van die inrichtingen die niet aan een overeenstemmingsbeoordeling als bedoeld in artikel 12 zijn onderworpen het beperkend gebruikssymbool, als omschreven in bijlage IV, punt 3, van de richtlijn niet-automatische weegwerktuigen, duidelijk zichtbaar en onuitwisbaar zijn aangebracht.  
 
@@ -232,8 +232,8 @@ b. hij de oplossingen toepast die in de in artikel 7, eerste lid, bedoelde norme
 
 ### Artikel  20  
 
-1.  De overeenstemming van een in gebruik genomen geregeld meetinstrument dat ingevolge [artikel 7 van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md) een overeenstemmingsbeoordeling heeft ondergaan, blijkt uit een merkteken waarvan het model bij ministeriële regeling wordt vastgesteld. Bij ministeriële regeling kunnen tevens regels worden gesteld omtrent de plaats en de wijze van aanbrengen van het merkteken.   
-2.  Het in het eerste lid bedoelde merkteken wordt aangebracht door een aangewezen instantie of een persoon die beschikt over een erkenning als bedoeld in [artikel 11 van de wet](../../../../wet/metrologiewet/BWBR0019517/README.md).  
+1.  De overeenstemming van een in gebruik genomen geregeld meetinstrument dat ingevolge artikel 7 van de wet een overeenstemmingsbeoordeling heeft ondergaan, blijkt uit een merkteken waarvan het model bij ministeriële regeling wordt vastgesteld. Bij ministeriële regeling kunnen tevens regels worden gesteld omtrent de plaats en de wijze van aanbrengen van het merkteken.   
+2.  Het in het eerste lid bedoelde merkteken wordt aangebracht door een aangewezen instantie of een persoon die beschikt over een erkenning als bedoeld in artikel 11 van de wet.  
 
 ### §  4  
 

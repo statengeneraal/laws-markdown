@@ -1562,7 +1562,7 @@ d. anderszins in strijd zou zijn met het algemeen belang.
 
 a. een inbreuk op de Overeenkomst, of  
 
-b. indien de leverancier overeenkomstig het binnenlandse recht van de Partij niet rechtstreeks beroep kan instellen tegen een inbreuk op de Overeenkomst, tegen niet-nakoming van de maatregelen die een Partij tot uitvoering van deze Overeenkomst heeft ingesteld, die zich voordoet in het kader van een opdracht die onder deze Overeenkomst valt waarbij de leverancier belang heeft of heeft gehad. De procedurele regels voor alle beroepsprocedures worden op schrift gesteld en openbaar gemaakt.     
+b. indien de leverancier overeenkomstig het binnenlandse recht van de Partij niet rechtstreeks beroep kan instellen tegen een inbreuk op de Overeenkomst, tegen niet-nakoming van de maatregelen die een Partij tot uitvoering van deze Overeenkomst heeft ingesteld,   die zich voordoet in het kader van een opdracht die onder deze Overeenkomst valt waarbij de leverancier belang heeft of heeft gehad. De procedurele regels voor alle beroepsprocedures worden op schrift gesteld en openbaar gemaakt.  
 2.  Indien een leverancier in het kader van een opdracht die onder deze Overeenkomst valt en waarbij hij een belang heeft of heeft gehad een klacht indient wegens inbreuk of niet-naleving als bedoeld in lid 1, moedigt de betrokken Partij haar aanbestedende dienst en de leverancier aan het geschil door overleg te beslechten. De aanbestedende dienst neemt dergelijke klachten tijdig en onbevooroordeeld in beraad op een wijze die geen afbreuk doet aan de deelname van de leverancier aan lopende of toekomstige aanbestedingen of aan diens recht door middel van de procedure voor bestuurlijke of rechterlijke toetsing te verkrijgen dat de inbreuk ongedaan wordt gemaakt.   
 3.  Iedere leverancier krijgt voldoende tijd om een beroep voor te bereiden en in te dienen; deze termijn is ten minste 10 dagen vanaf het tijdstip waarop de grond voor het beroep voor de leverancier bekend is geworden of redelijkerwijs bekend had moeten worden.   
 4.  Door elke Partij wordt ten minste één onpartijdige en van de aanbestedende diensten onafhankelijke bestuurlijke of rechterlijke autoriteit ingesteld of aangewezen om een beroep door een leverancier in het kader van een aanbesteding waarop deze Overeenkomst van toepassing is, te ontvangen en te beoordelen.   
@@ -1753,44 +1753,44 @@ GEDAAN te Marrakesh, vijftien april negentienhonderd vierennegentig, in één ex
 
 ###Aanhangsel I 
 
-Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.
+De tekst van de vertaling is niet beschikbaar.
 
 ###Bijlage 1 
 
-Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.
+De tekst van de vertaling is niet beschikbaar.
 
 ###Bijlage 2 
 
-Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.
+De tekst van de vertaling is niet beschikbaar.
 
 ###Bijlage 3 
 
-Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.
+De tekst van de vertaling is niet beschikbaar.
 
 ###Bijlage 4 
 
-Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.
+De tekst van de vertaling is niet beschikbaar.
 
 ###Bijlage 5 
 
-Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.
+De tekst van de vertaling is niet beschikbaar.
 
 ###Bijlage 6 
 
-Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.
+De tekst van de vertaling is niet beschikbaar.
 
 ###Bijlage 7 
 
-Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.
+De tekst van de vertaling is niet beschikbaar.
 
 ###Aanhangsel II 
 
-Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.
+De tekst van de vertaling is niet beschikbaar.
 
 ###Aanhangsel III 
 
-Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.
+De tekst van de vertaling is niet beschikbaar.
 
 ###Aanhangsel IV 
 
-Ligt ter inzage bij de Afdeling Verdragen van het Ministerie van Buitenlandse Zaken.
+De tekst van de vertaling is niet beschikbaar.

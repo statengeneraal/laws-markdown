@@ -3,12 +3,12 @@
 ##Besluit van de Minister van Infrastructuur en Milieu, van 24 maart 2014, nr. IENM/BSK-2014/71431 , houdende vaststelling van het Subsidieprogramma innovaties duurzame binnenvaart (Subsidieprogramma innovaties duurzame binnenvaart)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op [artikel 2, eerste lid, aanhef en onderdeel a, van de Kaderregeling subsidies duurzaamheid verkeer en waterstaat](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md);
+Gelet op artikel 2, eerste lid, aanhef en onderdeel a, van de Kaderregeling subsidies duurzaamheid verkeer en waterstaat;
 Besluit:    
 
 ### Artikel  1  
 
-Als subsidieprogramma als bedoeld in [artikel 2, eerste lid, aanhef en onderdeel a, van de Kaderregeling subsidies duurzaamheid verkeer en waterstaat](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md), wordt vastgesteld het Subsidieprogramma innovaties duurzame binnenvaart, dat is opgenomen in de bijlage bij dit besluit. 
+Als subsidieprogramma als bedoeld in artikel 2, eerste lid, aanhef en onderdeel a, van de Kaderregeling subsidies duurzaamheid verkeer en waterstaat, wordt vastgesteld het Subsidieprogramma innovaties duurzame binnenvaart, dat is opgenomen in de bijlage bij dit besluit. 
 
 ### Artikel  2  
 
@@ -34,21 +34,21 @@ M.H. Schultz van Haegen-Maas Geesteranus.
 
 In dit subsidieprogramma wordt verstaan onder: 
 
-*experimenteel ontwikkelingsproject:* experimenteel ontwikkelingsproject als bedoeld in [artikel 5, onderdeel e, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md);  
+*experimenteel ontwikkelingsproject:* experimenteel ontwikkelingsproject als bedoeld in artikel 5, onderdeel e, van de kaderregeling;  
 
-*haalbaarheidsproject gericht op experimentele ontwikkeling:* haalbaarheidsproject gericht op experimentele ontwikkeling als bedoeld in [artikel 5, onderdeel d, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md);  
+*haalbaarheidsproject gericht op experimentele ontwikkeling:* haalbaarheidsproject gericht op experimentele ontwikkeling als bedoeld in artikel 5, onderdeel d, van de kaderregeling;  
 
-*haalbaarheidsproject gericht op industrieel onderzoek:* haalbaarheidsproject gericht op industrieel onderzoek als bedoeld in [artikel 5, onderdeel b, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md);  
+*haalbaarheidsproject gericht op industrieel onderzoek:* haalbaarheidsproject gericht op industrieel onderzoek als bedoeld in artikel 5, onderdeel b, van de kaderregeling;  
 
-*industrieel onderzoeksproject:* industrieel onderzoeksproject als bedoeld in [artikel 5, onderdeel c, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md);  
+*industrieel onderzoeksproject:* industrieel onderzoeksproject als bedoeld in artikel 5, onderdeel c, van de kaderregeling;  
 
-*innovatiecluster-exploitatieproject:* innovatiecluster-exploitatieproject als bedoeld in [artikel 5, onderdeel l, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md);  
+*innovatiecluster-exploitatieproject:* innovatiecluster-exploitatieproject als bedoeld in artikel 5, onderdeel l, van de kaderregeling;  
 
-*innovatiecluster-investeringsproject:* innovatiecluster-investeringsproject als bedoeld in [artikel 5, onderdeel k, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md);  
+*innovatiecluster-investeringsproject:* innovatiecluster-investeringsproject als bedoeld in artikel 5, onderdeel k, van de kaderregeling;  
 
 *Innovatieraad Binnenvaart:* door het bedrijfsleven ingesteld college van deskundigen uit de binnenvaartsector ten behoeve van het stimuleren van de innovatie in de binnenvaart, dat tevens een adviserende rol heeft als bedoeld in paragraaf 3, eerste lid;  
 
-*kaderregeling:*[ Kaderregeling subsidies duurzaamheid verkeer en waterstaat](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md);  
+*kaderregeling:* Kaderregeling subsidies duurzaamheid verkeer en waterstaat;  
 
 *minister:* Minister van Infrastructuur en Milieu;  
 
@@ -64,7 +64,7 @@ Het verstrekken van financiële bijdragen aan de binnenvaartsector ten behoeve v
 
 ####subsidiabele projecten en verdeelsleutel
 
-1. De minister kan tot uiterlijk 1 juli 2015, overeenkomstig [artikel 33 van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md), subsidie verlenen voor projecten op basis van een door de Innovatieraad Binnenvaart opgestelde rangschikking naar: 
+1. De minister kan tot uiterlijk 1 juli 2015, overeenkomstig artikel 33 van de kaderregeling, subsidie verlenen voor projecten op basis van een door de Innovatieraad Binnenvaart opgestelde rangschikking naar: 
 
 a. de mate waarin de innovatie generiek toepasbaar is voor binnenvaartschepen van een vergelijkbaar scheepstype of vaarprofiel;  
 
@@ -82,7 +82,7 @@ c. de mate waarin de innovatie een terugverdieneffect heeft voor degene die haar
 
 Voor de subsidie is ten hoogste beschikbaar: 
 
-a. € 110.000,00 in 2014;  
+a. € 160.000,00 in 2014;  
 
 b. € 200.000,00 in 2015.   
 
@@ -94,17 +94,17 @@ De subsidie bedraagt tot ten hoogste € 125.000,00:
 
 a. 65% van de studiekosten voor haalbaarheidsprojecten gericht op industrieel onderzoek en haalbaarheidsprojecten gericht op experimentele ontwikkeling;  
 
-b. 50% van de in [artikel 12 van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) genoemde kosten voor industriële onderzoeksprojecten en experimentele ontwikkelingsprojecten;  
+b. 50% van de in artikel 12 van de kaderregeling genoemde kosten voor industriële onderzoeksprojecten en experimentele ontwikkelingsprojecten;  
 
-c. 15% van de investeringskosten bedoeld in [artikel 21 van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) voor innovatiecluster-investeringsprojecten;  
+c. 15% van de investeringskosten bedoeld in artikel 21 van de kaderregeling voor innovatiecluster-investeringsprojecten;  
 
-d. 50% van de loon en administratiekosten bedoeld in [artikel 22 van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) voor innovatiecluster-exploitatieproject.   
+d. 50% van de loon en administratiekosten bedoeld in artikel 22 van de kaderregeling voor innovatiecluster-exploitatieproject.   
 
 ### Paragraaf  6  
 
 ####Uitvoeringsinstantie
 
-Als uitvoeringsinstantie als bedoeld in [artikel 2, derde lid, onderdeel l, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) wordt aangewezen het Expertise- en Innovatiecentrum Binnenvaart van de Stichting projecten binnenvaart te Rotterdam. 
+Als uitvoeringsinstantie als bedoeld in artikel 2, derde lid, onderdeel l, van de kaderregeling wordt aangewezen het Expertise- en Innovatiecentrum Binnenvaart van de Stichting projecten binnenvaart te Rotterdam. 
 
 ### Paragraaf  7  
 
@@ -138,13 +138,13 @@ a. onverwijld een melding te doen zodra aannemelijk is dat de activiteiten waarv
 
 b. aan te tonen aan de hand van een activiteitenverslag dat de activiteiten waarvoor de subsidie is verleend, zijn verricht.    
 
-3. De vaststelling van subsidies van € 25.000,00 tot € 125.000,00 geschiedt overeenkomstig de [artikelen 45](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) en [46 van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md), met dien verstande dat geen verklaring inzake werkelijke kosten en opbrengsten als bedoeld in [artikel 45, derde lid, aanhef, van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md) is vereist.   
+3. De vaststelling van subsidies van € 25.000,00 tot € 125.000,00 geschiedt overeenkomstig de artikelen 45 en 46 van de kaderregeling, met dien verstande dat geen verklaring inzake werkelijke kosten en opbrengsten als bedoeld in artikel 45, derde lid, aanhef, van de kaderregeling is vereist.   
 
 ### Paragraaf  10  
 
 ####Voorschotten
 
-Voorschotten worden verstrekt overeenkomstig [artikel 44 van de kaderregeling](../../../../../../ministeriele-regeling/kaderregeling/subsidies/duurzaamheid/verkeer/en/waterstaat/BWBR0026095/README.md). 
+Voorschotten worden verstrekt overeenkomstig artikel 44 van de kaderregeling. 
 
 ### Appendix A 
 

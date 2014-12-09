@@ -321,7 +321,7 @@ De Koninklijke Nederlandse Akademie van Wetenschappen en de Koninklijke Biblioth
 
 ####Kaderwet zelfstandige bestuursorganen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 De Kaderwet zelfstandige bestuursorganen is van toepassing op de Koninklijke Bibliotheek, met uitzondering van artikel 15 van die wet. 
 
