@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Infrastructuur en Milieu, van 27 maart 2012, nr. IENM/BSK-2012/21857, houdende vaststelling van regels in verband met de vakbekwaamheid van bestuurders (Regeling vakbekwaamheid bestuurders 2012)
 
 De Minister van Infrastructuur en Milieu,  
-Gelet op richtlijn nr. 2003/59/EG van het Europees Parlement en de Raad van de Europese Unie van 15 juli 2003 (PbEU L 226) betreffende de vakbekwaamheid en de opleiding en nascholing van bestuurders van bepaalde voor goederen- en personenvervoer over de weg bestemde voertuigen, tot wijziging van verordening (EEG) nr. 3820/85 van de Raad en tot intrekking van richtlijn nr. 76/914/EEG van de Raad, richtlijn 2006/126/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (PbEG L 403), alsmede de [artikelen 124a, vijfde lid](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [151b, onderdeel a](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [151f, eerste en vijfde lid](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), [151h](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en [158, eerste lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) en de [artikelen 156c, tweede lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156ga, tweede, vierde en vijfde lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156h, tweede, vierde en vijfde lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156ha, tweede, vierde en vijfde lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156i, tweede, vierde en vijfde lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156k, tweede lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156ka, tweede en derde lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156l, tweede en derde lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156la, tweede en derde lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156m, tweede en derde lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156o](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156q, tweede, derde en zevende lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156s, tweede lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156t, derde lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156w, tweede lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156x, eerste en vijfde lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [156y, eerste lid, onder b, en tweede lid](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), en [156aa, derde lid, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md);
+Gelet op richtlijn nr. 2003/59/EG van het Europees Parlement en de Raad van de Europese Unie van 15 juli 2003 (PbEU L 226) betreffende de vakbekwaamheid en de opleiding en nascholing van bestuurders van bepaalde voor goederen- en personenvervoer over de weg bestemde voertuigen, tot wijziging van verordening (EEG) nr. 3820/85 van de Raad en tot intrekking van richtlijn nr. 76/914/EEG van de Raad, richtlijn 2006/126/EG van het Europees Parlement en de Raad van de Europese Unie van 20 december 2006 betreffende het rijbewijs (PbEG L 403), alsmede de artikelen 124a, vijfde lid, 151b, onderdeel a, 151f, eerste en vijfde lid, 151h en 158, eerste lid, van de Wegenverkeerswet 1994 en de artikelen 156c, tweede lid, 156ga, tweede, vierde en vijfde lid, 156h, tweede, vierde en vijfde lid, 156ha, tweede, vierde en vijfde lid, 156i, tweede, vierde en vijfde lid, 156k, tweede lid, 156ka, tweede en derde lid, 156l, tweede en derde lid, 156la, tweede en derde lid, 156m, tweede en derde lid, 156o, 156q, tweede, derde en zevende lid, 156s, tweede lid, 156t, derde lid, 156w, tweede lid, 156x, eerste en vijfde lid, 156y, eerste lid, onder b, en tweede lid, en 156aa, derde lid, van het Reglement rijbewijzen;
 Besluit:     
 ### Hoofdstuk  I  
 
@@ -17,15 +17,15 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-*deelcertificaat:* certificaat als bedoeld in [artikel 1, onderdeel y, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md);  
+*deelcertificaat:* certificaat als bedoeld in artikel 1, onderdeel y, van het Reglement rijbewijzen;  
 
-*nationaal certificaat:* certificaat als bedoeld in [artikel 151c, vierde lid, onderdeel b, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+*nationaal certificaat:* certificaat als bedoeld in artikel 151c, vierde lid, onderdeel b, van de Wegenverkeerswet 1994;  
 
-*Nederlands omwisselingscertificaat:* certificaat als bedoeld in [artikel 151g, vierde lid, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+*Nederlands omwisselingscertificaat:* certificaat als bedoeld in artikel 151g, vierde lid, van de Wegenverkeerswet 1994;  
 
 *NIWO:* Stichting Nationale en Internationale Wegvervoerorganisatie;  
 
-*wet:* [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
+*wet:* Wegenverkeerswet 1994.   
 
 ### §  2  
 
@@ -33,7 +33,7 @@ In deze regeling wordt verstaan onder:
 
 ### Artikel  2  
 
-Als richtlijn vakbekwaamheid bestuurders, bedoeld in [artikel 151b, onderdeel a, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), wordt aangewezen: richtlijn nr. 2003/59/EG van het Europees Parlement en de Raad van de Europese Unie van 15 juli 2003 betreffende de vakbekwaamheid en de opleiding en nascholing van bestuurders van bepaalde voor goederen- en personenvervoer over de weg bestemde voertuigen, tot wijziging van verordening (EEG) nr. 3820/85 van de Raad en richtlijn nr. 91/439/EEG van de Raad en tot intrekking van richtlijn nr. 76/914/EEG van de Raad (PbEU L 226). 
+Als richtlijn vakbekwaamheid bestuurders, bedoeld in artikel 151b, onderdeel a, van de wet, wordt aangewezen: richtlijn nr. 2003/59/EG van het Europees Parlement en de Raad van de Europese Unie van 15 juli 2003 betreffende de vakbekwaamheid en de opleiding en nascholing van bestuurders van bepaalde voor goederen- en personenvervoer over de weg bestemde voertuigen, tot wijziging van verordening (EEG) nr. 3820/85 van de Raad en richtlijn nr. 91/439/EEG van de Raad en tot intrekking van richtlijn nr. 76/914/EEG van de Raad (PbEU L 226). 
 
 ### Hoofdstuk  II  
 
@@ -45,7 +45,7 @@ Als richtlijn vakbekwaamheid bestuurders, bedoeld in [artikel 151b, onderdeel a,
 
 ### Artikel  3  
 
-Als de exameninstantie, bedoeld in [artikel 151f, eerste lid, van de wet](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), wordt het CBR aangewezen. 
+Als de exameninstantie, bedoeld in artikel 151f, eerste lid, van de wet, wordt het CBR aangewezen. 
 
 ### §  2  
 
@@ -116,7 +116,7 @@ c. de milieuaspecten die het gevolg zijn van het gebruik van het motorvoertuig;
 
 d. de voor de beroepsuitoefening relevante bepalingen in de vervoerswetgeving;  
 
-e. de voor de beroepsuitoefening relevante bepalingen van de [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit](../../../../../../AMvB/arbeidstijdenbesluit/BWBR0007687/README.md) vervoer;  
+e. de voor de beroepsuitoefening relevante bepalingen van de Arbeidstijdenwet en het Arbeidstijdenbesluit vervoer;  
 
 f. de wijze waarop lading veilig vervoerd moet worden;  
 
@@ -147,7 +147,7 @@ c. de milieuaspecten die het gevolg zijn van het gebruik van het motorvoertuig;
 
 d. de voor de beroepsuitoefening relevante bepalingen in de vervoerswetgeving;  
 
-e. de voor de beroepsuitoefening relevante bepalingen van de [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md);  
+e. de voor de beroepsuitoefening relevante bepalingen van de Arbeidstijdenwet en het Arbeidstijdenbesluit vervoer;  
 
 f. de wijze waarop personen en bijbehorende lading veilig vervoerd moeten worden;  
 
@@ -174,7 +174,7 @@ De aanvrager die het theorie-examen vakbekwaamheid C1 respectievelijk C met goed
 
 1.  Het praktijkexamen vakbekwaamheid voor rijbewijscategorieën C1, E bij C1, D1 en E bij D1 bestaat uit het afleggen van: 
 
-a. een rijproef van ten minste 60 minuten, die geïntegreerd wordt afgelegd met het praktijkexamen voor het rijbewijs C1, D1, E bij C1 of E bij D1, bedoeld in de [artikelen 72a](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [73a](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [75a](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) of [76a van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md);  
+a. een rijproef van ten minste 60 minuten, die geïntegreerd wordt afgelegd met het praktijkexamen voor het rijbewijs C1, D1, E bij C1 of E bij D1, bedoeld in de artikelen 72a, 73a, 75a of 76a van het Reglement rijbewijzen;  
 
 b. een praktijktoets vakbekwaamheid 1, in de vorm van een praktische test van ten minste 30 minuten gericht op onder andere beroepshouding en veiligheid, en  
 
@@ -185,7 +185,7 @@ c. een praktijktoets vakbekwaamheid 2, in de vorm van een praktische test van te
 
 1.  Het praktijkexamen vakbekwaamheid voor rijbewijscategorieën C, E bij C, D en E bij D bestaat uit het afleggen van: 
 
-a. een rijproef van ten minste 60 minuten, die geïntegreerd met het praktijkexamen voor het rijbewijs C, E bij C, D of E bij D, bedoeld in de [artikelen 73](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [74](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), [76](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) en [77 van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) wordt afgelegd;  
+a. een rijproef van ten minste 60 minuten, die geïntegreerd met het praktijkexamen voor het rijbewijs C, E bij C, D of E bij D, bedoeld in de artikelen 73, 74, 76 en 77 van het Reglement rijbewijzen wordt afgelegd;  
 
 b. een praktijktoets vakbekwaamheid 1, in de vorm van een praktische test van ten minste 30 minuten gericht op onder andere beroepshouding en veiligheid, en  
 
@@ -247,7 +247,7 @@ De aanvrager die reeds beschikt over een rijbewijs van de categorie D of E bij D
 
 ### Artikel  22  
 
-1.  De aangewezen exameninstantie wijst rij-instructeurs aan tot het afnemen van praktijktoetsen ingevolge [artikel 156n van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) door middel van het aanwijzen van een opleidingscentrum in opdracht waarvan een rij-instructeur de praktijktoetsen afneemt.   
+1.  De aangewezen exameninstantie wijst rij-instructeurs aan tot het afnemen van praktijktoetsen ingevolge artikel 156n van het Reglement rijbewijzen door middel van het aanwijzen van een opleidingscentrum in opdracht waarvan een rij-instructeur de praktijktoetsen afneemt.   
 2.  De aanwijzing bedoeld in het eerste lid heeft een geldigheidsduur van maximaal vijf jaren en kan door de aangewezen exameninstantie worden ingetrokken of geschorst, indien de praktijktoets of het opleidingscentrum niet voldoet aan de door de aangewezen exameninstantie vastgestelde eisen.   
 3.   Het opleidingscentrum is gehouden tot betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het door deze instantie ter zake van de kosten van de aanwijzing vastgestelde tarief. 
 
@@ -259,7 +259,7 @@ De aanvrager die reeds beschikt over een rijbewijs van de categorie D of E bij D
 
 Een aanvrager die in het bezit is van: 
 
-a. het getuigschrift van vakbekwaamheid, bedoeld in [artikel 5 van de Regeling wegvervoer goederen](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md),  
+a. het getuigschrift van vakbekwaamheid, bedoeld in artikel 5 van de Regeling wegvervoer goederen,  
 
 b. het getuigschrift van vakbekwaamheid voor binnenlands beroepsvervoer, afgegeven door de Stichting Examenbureau Beroepsvervoer voor 1 mei 2009,  
 
@@ -273,13 +273,13 @@ e. het diploma of het praktijkgetuigschrift voor rijbewijscategorie C afgegeven 
 
 Een aanvrager die in het bezit is van: 
 
-a. het getuigschrift, bedoeld in [artikel 27 van het Besluit personenvervoer 2000](../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md), of  
+a. het getuigschrift, bedoeld in artikel 27 van het Besluit personenvervoer 2000, of  
 
 b. het diploma B voor rijbewijscategorie D afgegeven door de Contactcommissie Chauffeurs Vakbekwaamheid voor 10 september 2008,   is vrijgesteld van de theorietoetsen vakbekwaamheid 2 en 3 voor rijbewijscategorie D1 of D. 
 
 ### Artikel  23b  
 
-Op het rijbewijs van een bestuurder als bedoeld in [artikel 156q, zesde lid, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) wordt een getuigschrift van vakbekwaamheid vermeld waarvan de einddatum gelijk is aan de geldigheidsduur van de desbetreffende rijbewijscategorie. 
+Op het rijbewijs van een bestuurder als bedoeld in artikel 156q, zesde lid, van het Reglement rijbewijzen wordt een getuigschrift van vakbekwaamheid vermeld waarvan de einddatum gelijk is aan de geldigheidsduur van de desbetreffende rijbewijscategorie. 
 
 ### Hoofdstuk  III  
 
@@ -291,7 +291,7 @@ Op het rijbewijs van een bestuurder als bedoeld in [artikel 156q, zesde lid, van
 
 ### Artikel  24  
 
-De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) tonen aan dat de bestuurder gedurende een bepaald aantal uren door de bevoegde autoriteit van de desbetreffende lidstaat gecertificeerde nascholing heeft gevolgd. 
+De bewijsstukken bedoeld in artikel 156t, derde lid, van het Reglement rijbewijzen tonen aan dat de bestuurder gedurende een bepaald aantal uren door de bevoegde autoriteit van de desbetreffende lidstaat gecertificeerde nascholing heeft gevolgd. 
 
 ### §  2  
 
@@ -299,7 +299,7 @@ De bewijsstukken bedoeld in [artikel 156t, derde lid, van het Reglement rijbewij
 
 ### Artikel  25  
 
-1.  Een erkenning als opleidingscentrum voor het geven van een in het raamwerk, bedoeld in [artikel 156s, tweede lid, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), bepaalde nascholingscursus wordt verleend door de aangewezen exameninstantie.   
+1.  Een erkenning als opleidingscentrum voor het geven van een in het raamwerk, bedoeld in artikel 156s, tweede lid, van het Reglement rijbewijzen, bepaalde nascholingscursus wordt verleend door de aangewezen exameninstantie.   
 2.  Om voor erkenning in aanmerking te komen voldoen de opleidingscentra aan de volgende eisen: 
 
 a. de aangeboden nascholingscursussen zijn door de aangewezen exameninstantie gecertificeerd overeenkomstig artikel 26;  
@@ -337,13 +337,13 @@ d. het opleidingsprogramma geeft voldoende inzicht in de toe te passen lesmethod
 
 e. het opleidingsprogramma geeft voldoende inzicht in het te gebruiken lesmateriaal alsmede van de te gebruiken voertuigen en simulatoren;  
 
-f. de nascholingsdocenten en -instructeurs voldoen aan de eisen zoals deze per nascholingscursus zijn gedefinieerd in het raamwerk van nascholingscursussen, bedoeld in [artikel 156s, tweede lid, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md);  
+f. de nascholingsdocenten en -instructeurs voldoen aan de eisen zoals deze per nascholingscursus zijn gedefinieerd in het raamwerk van nascholingscursussen, bedoeld in artikel 156s, tweede lid, van het Reglement rijbewijzen;  
 
 g. het voor de praktijklessen gebruikte wagenpark voldoet aan de eisen, gesteld in artikel 27;  
 
-h. de bij een nascholingscursus te gebruiken simulatoren voldoen aan de eisen, bedoeld in [artikel 156z van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md);  
+h. de bij een nascholingscursus te gebruiken simulatoren voldoen aan de eisen, bedoeld in artikel 156z van het Reglement rijbewijzen;  
 
-i.  de cursus wordt uitgevoerd conform de bij de aanvraag gevoegde documenten en de eisen, zoals deze zijn gedefinieerd in het raamwerk van nascholingscursussen, bedoeld in [artikel 156s, tweede lid van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).    
+i.  de cursus wordt uitgevoerd conform de bij de aanvraag gevoegde documenten en de eisen, zoals deze zijn gedefinieerd in het raamwerk van nascholingscursussen, bedoeld in artikel 156s, tweede lid van het Reglement rijbewijzen.    
 2.  Een certificering van een nascholingscursus heeft een geldigheidsduur van maximaal vijf jaren.   
 3.  Een certificering van een nascholingscursus kan door de aangewezen exameninstantie worden geschorst of ingetrokken, indien niet langer aan de eisen in het eerste lid wordt voldaan.   
 4.  Het opleidingscentrum is gehouden tot betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het door deze instantie ter zake van de kosten van de certificering van nascholingscursussen vastgestelde tarief. 
@@ -363,10 +363,10 @@ i.  de cursus wordt uitgevoerd conform de bij de aanvraag gevoegde documenten en
 
 ### Artikel  27  
 
-1.  Een motorrijtuig dat gebruikt wordt voor nascholingscursussen voor rijbewijscategorie C1 is een voertuig als bedoeld in [artikel 15, eerste lid, onder f, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).   
-2.  Een motorrijtuig dat gebruikt wordt voor nascholingscursussen voor rijbewijscategorie C is een voertuig als bedoeld in [artikel 15, eerste lid, onder g, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).   
-3.  Een motorrijtuig dat gebruikt wordt voor nascholingscursussen voor rijbewijscategorie D1 is een voertuig als bedoeld in [artikel 15, eerste lid, onder h, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).   
-4.  Een motorrijtuig dat gebruikt wordt voor nascholingscursussen voor rijbewijscategorie D is een voertuig als bedoeld in [artikel 15, eerste lid, onder i, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md).  
+1.  Een motorrijtuig dat gebruikt wordt voor nascholingscursussen voor rijbewijscategorie C1 is een voertuig als bedoeld in artikel 15, eerste lid, onder f, van het Reglement rijbewijzen.   
+2.  Een motorrijtuig dat gebruikt wordt voor nascholingscursussen voor rijbewijscategorie C is een voertuig als bedoeld in artikel 15, eerste lid, onder g, van het Reglement rijbewijzen.   
+3.  Een motorrijtuig dat gebruikt wordt voor nascholingscursussen voor rijbewijscategorie D1 is een voertuig als bedoeld in artikel 15, eerste lid, onder h, van het Reglement rijbewijzen.   
+4.  Een motorrijtuig dat gebruikt wordt voor nascholingscursussen voor rijbewijscategorie D is een voertuig als bedoeld in artikel 15, eerste lid, onder i, van het Reglement rijbewijzen.  
 
 ### Hoofdstuk  IV  
 
@@ -374,7 +374,7 @@ i.  de cursus wordt uitgevoerd conform de bij de aanvraag gevoegde documenten en
 
 ### Artikel  28  
 
-1. Met het toezicht op de naleving van [artikel 156n](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md), de [paragrafen 9](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) en [10 van hoofdstuk VIIA van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) en artikel 26 van deze regeling zijn belast de personen die door de aangewezen exameninstantie zijn belast met het toezicht op de erkenning van opleidingscentra en onder de verantwoordelijkheid van de aangewezen exameninstantie fungeren.  
+1. Met het toezicht op de naleving van artikel 156n, de paragrafen 9 en 10 van hoofdstuk VIIA van het Reglement rijbewijzen en artikel 26 van deze regeling zijn belast de personen die door de aangewezen exameninstantie zijn belast met het toezicht op de erkenning van opleidingscentra en onder de verantwoordelijkheid van de aangewezen exameninstantie fungeren.  
 2.   Het erkende opleidingscentrum is gehouden tot betaling, op de door de aangewezen exameninstantie vastgestelde wijze, van het door deze instantie ter zake van de kosten van het toezicht vastgestelde tarief. 
 
 ### Hoofdstuk  V  
@@ -385,7 +385,7 @@ i.  de cursus wordt uitgevoerd conform de bij de aanvraag gevoegde documenten en
 
 1.  Nationale certificaten worden door de NIWO op aanvraag en tegen betaling van het daarvoor vastgestelde tarief afgegeven indien: 
 
-a. de aanvrager beschikt over een tewerkstellingsvergunning als bedoeld in [artikel 2, eerste lid, van de Wet arbeid vreemdelingen](../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) en  
+a. de aanvrager beschikt over een tewerkstellingsvergunning als bedoeld in artikel 2, eerste lid, van de Wet arbeid vreemdelingen en  
 
 b. de aanvrager met bewijzen, afgegeven door de aangewezen exameninstantie, aantoont dat hij: 
 
@@ -393,15 +393,15 @@ i. de basiskwalificatie heeft behaald,
 
 ii. de nascholing heeft afgerond,  
 
-iii. op basis van [artikel 156q, eerste lid, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) is vrijgesteld van het behalen van een getuigschrift van vakbekwaamheid dan wel  
+iii. op basis van artikel 156q, eerste lid, van het Reglement rijbewijzen is vrijgesteld van het behalen van een getuigschrift van vakbekwaamheid dan wel  
 
-iv. op basis van [artikel 156v, tweede lid, van het Reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md) is vrijgesteld van het behalen van een getuigschrift van nascholing.       
+iv. op basis van artikel 156v, tweede lid, van het Reglement rijbewijzen is vrijgesteld van het behalen van een getuigschrift van nascholing.       
 2.  Het voor de aanvraag verschuldigde tarief wordt door de NIWO vastgesteld onder goedkeuring van de Minister van Infrastructuur en Milieu.   
 3.  Het nationale certificaat is slechts geldig zo lang wordt voldaan aan de voorwaarden.  
 
 ### Artikel  30  
 
-Indien de aanvrager niet beschikt over een tewerkstellingsvergunning, wordt de aanvraag niettemin toegewezen indien op grond van [artikel 3, eerste lid](../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md), of [artikel 4, eerste lid, van de Wet arbeid vreemdelingen](../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) geen tewerkstellingsvergunning is vereist. 
+Indien de aanvrager niet beschikt over een tewerkstellingsvergunning, wordt de aanvraag niettemin toegewezen indien op grond van artikel 3, eerste lid, of artikel 4, eerste lid, van de Wet arbeid vreemdelingen geen tewerkstellingsvergunning is vereist. 
 
 ### Artikel  31  
 
@@ -417,11 +417,11 @@ b. de aanvrager niet langer voldoet aan een of meer van de in artikel 29 genoemd
 
 ### Artikel  32  
 
-De [Regeling vakbekwaamheid bestuurders](../../../../../../ministeriele-regeling/regeling/vakbekwaamheid/bestuurders/BWBR0024397/README.md) wordt ingetrokken. 
+De Regeling vakbekwaamheid bestuurders wordt ingetrokken. 
 
 ### Artikel  33  
 
-Deze regeling treedt in werking op het tijdstip waarop [artikel I, onderdelen A tot en met L, van de wet van 26 januari 2012 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de implementatie van de derde rijbewijsrichtlijn](../../../../../../wet/wijzigingswet/wegenverkeerswet/1994/enz./(implementatie/derde/etc/BWBR0031264/README.md) (Stb. 2012, 39) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop artikel I, onderdelen A tot en met L, van de wet van 26 januari 2012 tot wijziging van de Wegenverkeerswet 1994 en de Wet rijonderricht motorrijtuigen 1993 in verband met de implementatie van de derde rijbewijsrichtlijn (Stb. 2012, 39) in werking treedt. 
 
 ### Artikel  34  
 
@@ -488,7 +488,7 @@ M.H. Schultz van Haegen-Maas Geesteranus
 |  *2.*   |  *De kandidaat heeft kennis van de gedragsregels die gelden bij het gebruik van de openbare weg.*   | --- | --- |
 | 2.1**  | Kan de plaats en het gebruik op de weg door alle weggebruikers in het algemeen benoemen.  | Met name heeft dit betrekking op:  – bochten  – busbaan en busstroken  – doelgroepstroken  – voet-/fiets-/bromfietspad  – fietsstroken  – in- en uitvoegstroken  – kruispunten  – (spoor)overwegen  – rechte weggedeelten  – rijstroken  – rotondes  – spitsstroken  – voorsorteervakken.  | F  |
 | 2.2**  | Kan de gedragsregels benoemen bij het inhalen en ingehaald worden.   | Hierbij moet gedacht worden aan:  – inhalen bij een voetgangersoversteekplaats (VOP)  – links inhalen / ingehaald worden  – rechts inhalen / ingehaald worden.  | F  |
-| 2.3**  | Kan de gedragsregels benoemen met betrekking tot snelheid.   | Het gaat hierbij om zaken als:  – algemene snelheidsregel ([art. 19 RVV](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md))  – maximumsnelheden binnen de bebouwde kom  – maximumsnelheden buiten de bebouwde kom  – toelatingssnelheid auto(snel)weg  – afwijkende maximumsnelheden.  | F  |
+| 2.3**  | Kan de gedragsregels benoemen met betrekking tot snelheid.   | Het gaat hierbij om zaken als:  – algemene snelheidsregel (art. 19 RVV)  – maximumsnelheden binnen de bebouwde kom  – maximumsnelheden buiten de bebouwde kom  – toelatingssnelheid auto(snel)weg  – afwijkende maximumsnelheden.  | F  |
 | 2.4**  | Kan de gedragsregels benoemen met betrekking tot het stilstaan en parkeren.  | Hierbij moet gedacht worden aan:  – verbod(en) tot stilstaan  – parkeerverboden  – parkeerschijfzone  – gehandicaptenparkeerplaats  – erven.  | F  |
 | 2.5**  | Kan de gedragsregels benoemen met betrekking tot het geven van tekens en signalen.  | Zaken die hierbij aan de orde komen zijn onder andere:  – richting aangeven  – signalen die gegeven moeten en mogen worden ter afwending van dreigend gevaar  – signalen van voorrangsvoertuigen  – verbod tot het geven van signalen  – gebruik van geel zwaai- of knipperlicht  – knipperend waarschuwingslicht/gevarendriehoek.  | F  |
 | 2.6**  | Kan de gedragsregels benoemen met betrekking tot het gebruik van lichten.   | Voornamelijk gaat het hier om:  – gebruik van lichten tijdens het rijden  – gebruik van lichten tijdens het stilstaan  – het voeren van bijzondere lichten.  | F  |
@@ -510,14 +510,14 @@ M.H. Schultz van Haegen-Maas Geesteranus
 | --- | --- | --- | --- |
 | --- | --- | De gebruikseisen:  – afmeting samenstel voertuigen  – afmeting in verband met belading  – gewichten  – stootbalken  – markering  – slepen.  | --- |
 |  *6.*   |  *De kandidaat heeft kennis van de voor het besturen van het motorvoertuig relevante bepalingen in de verkeerswetgeving.*   | --- | --- |
-| 6.1**  | Kan de relevante bepalingen van de verkeerswetgeving benoemen.  | [Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md):  – algemeen veiligheidsartikel ([art. 5](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md))  – verlaten plaats ongeval  – besturen onder invloed  – rijden met ongeldig rijbewijs  – ontzegging  – rijden met een ingevorderd rijbewijs  – rijden tijdens een schorsing  – bevel medewerking ademonderzoek  – kentekenplicht  – keuringsplicht  – vordering inzage documenten  – letsel of dood door schuld.  | F  |
+| 6.1**  | Kan de relevante bepalingen van de verkeerswetgeving benoemen.  | Wegenverkeerswet 1994:  – algemeen veiligheidsartikel (art. 5)  – verlaten plaats ongeval  – besturen onder invloed  – rijden met ongeldig rijbewijs  – ontzegging  – rijden met een ingevorderd rijbewijs  – rijden tijdens een schorsing  – bevel medewerking ademonderzoek  – kentekenplicht  – keuringsplicht  – vordering inzage documenten  – letsel of dood door schuld.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | Kentekenreglement:  – kentekenplaat  – kentekenbewijs.  | --- |
 | --- | --- | --- | --- |
-| --- | --- | [Reglement verkeersregels en verkeerstekens](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md):  – begrippen ([art. 1](../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md)).  | --- |
-| 6.2**  | Kan de wettelijke bepalingen benoemen die betrekking hebben op de rijbevoegdheid, aansprakelijkheid en verzekeringen.   | Hierbij moet gedacht worden aan zaken als:  – begrippen [reglement rijbewijzen](../../../../../../AMvB/reglement/rijbewijzen/BWBR0008074/README.md)  – bevoegdheden opsporingsambtenaar ten aanzien van document  – geldigheidsduur rijbewijs  – invordering en inhouding rijbewijs  – minimumleeftijd voor het besturen van motorrijtuigen  – rijbewijsbeperkingen  – rijbewijscategorieën  – rijbewijsplicht  – rijverbod.  | F  |
+| --- | --- | Reglement verkeersregels en verkeerstekens:  – begrippen (art. 1).  | --- |
+| 6.2**  | Kan de wettelijke bepalingen benoemen die betrekking hebben op de rijbevoegdheid, aansprakelijkheid en verzekeringen.   | Hierbij moet gedacht worden aan zaken als:  – begrippen reglement rijbewijzen  – bevoegdheden opsporingsambtenaar ten aanzien van document  – geldigheidsduur rijbewijs  – invordering en inhouding rijbewijs  – minimumleeftijd voor het besturen van motorrijtuigen  – rijbewijsbeperkingen  – rijbewijscategorieën  – rijbewijsplicht  – rijverbod.  | F  |
 | --- | --- | --- | --- |
-| --- | --- | [Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md):  – verplichte verzekering  – WA verzekering  – casco- / allriskverzekering.  | --- |
+| --- | --- | Wet aansprakelijkheidsverzekering motorrijtuigen:  – verplichte verzekering  – WA verzekering  – casco- / allriskverzekering.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Aansprakelijkheid t.o.v. zwakkere verkeersdeelnemers.  | --- |
 |  *7.*   |  *De kandidaat heeft kennis van en inzicht in de functie en werking van de motor, het brandstofsysteem en het koelsysteem.*   | --- | --- |
@@ -644,7 +644,7 @@ M.H. Schultz van Haegen-Maas Geesteranus
 | 2.  | De kandidaat heeft kennis van en inzicht in de veiligheidsaspecten bij het gebruik van het motorvoertuig.  |
 | 3.  | De kandidaat heeft kennis van en inzicht in de milieuaspecten die het gevolg zijn van het gebruik van het motorvoertuig.  |
 | 4.  | De kandidaat heeft kennis van en inzicht in de voor de beroepsuitoefening relevante bepalingen in de vervoerswetgeving.  |
-| 5.  | De kandidaat heeft kennis van en inzicht in de voor de beroepsuitoefening relevante bepalingen van de [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md).  |
+| 5.  | De kandidaat heeft kennis van en inzicht in de voor de beroepsuitoefening relevante bepalingen van de Arbeidstijdenwet en het Arbeidstijdenbesluit vervoer.  |
 | 6.  | De kandidaat heeft kennis van en inzicht in de wijze waarop lading veilig vervoerd moet worden.  |
 | 7.  | De kandidaat heeft kennis van en inzicht in de veiligheidsaspecten bij de beroepsuitoefening.  |
 | 8.  | De kandidaat heeft kennis van en inzicht in de wijze waarop de beroepschauffeur kan bijdragen aan het goede imago van de door hem vertegenwoordigde branche.  |
@@ -666,17 +666,17 @@ M.H. Schultz van Haegen-Maas Geesteranus
 |  *3.*   |  *De kandidaat heeft kennis van en inzicht in de milieuaspecten die het gevolg zijn van het gebruik van het motorvoertuig.*   | --- | --- |
 | 3.1**  | Kan uitleggen op welke wijze milieuaspecten een rol spelen bij het gebruik van een gemotoriseerd voertuig.  | Aan de orde komen hier aspecten die betrekking hebben op het milieubewuste gebruik van het motorvoertuig en het energiezuinig rijden, zoals:  – aangepast en besluitvaardig rijden  – acceleratie  – accessoires op of aan het voertuig  – afvoer van accu  – anticiperen  – bandenspanning  – controle in en buiten het voertuig  – defensief rijden  – filerijden  – gas geven, (ont)koppelen en schakelen  – gebruik van de toerenteller  – gebruik van cruisecontrol  – geluidshinder  – lading  – langdurige stops in het verkeer  – reiniging voertuig  – remmen en stoppen  – ritvoorbereiding  – soort brandstof bij voertuig met katalysator  – starten en wegrijden  – stroomverbruikers  – volgafstand.  | B  |
 |  *4.*   |  *De kandidaat heeft kennis van en inzicht in de voor de beroepsuitoefening relevante bepalingen in de vervoerswetgeving.*   | --- | --- |
-| 4.1**  | Kan de werkingssfeer van de [Wet wegvervoer goederen](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en de [Regeling wegvervoer goederen](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md) benoemen.   | Doel van de [Wet wegvervoer goederen](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en de voor de beroepsuitoefening relevante bepalingen:  Wet wegvervoer goederen:  [Hoofdstuk I](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md):  – [Art. 1.1](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md): - de definitie van beroepsvervoer  – de definitie van eigen vervoer  – de definitie van een vrachtauto  – [Art. 1.2 lid 1](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)  | F  |
+| 4.1**  | Kan de werkingssfeer van de Wet wegvervoer goederen en de Regeling wegvervoer goederen benoemen.   | Doel van de Wet wegvervoer goederen en de voor de beroepsuitoefening relevante bepalingen:  Wet wegvervoer goederen:  Hoofdstuk I:  – Art. 1.1: - de definitie van beroepsvervoer  – de definitie van eigen vervoer  – de definitie van een vrachtauto  – Art. 1.2 lid 1  | F  |
 | --- | --- | --- | --- |
-| --- | --- | [Hoofdstuk 2](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md):  – [Art. 2.1 lid 1](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) en  | --- |
+| --- | --- | Hoofdstuk 2:  – Art. 2.1 lid 1 en  | --- |
 | --- | --- | --- | --- |
-| --- | --- | De verbodsbepalingen:  – [Art. 2.3 lid 1 en lid 5](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)  – [Art. 2.5](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)  – [Art. 2.6](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)  – [Art. 2.11](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md) (en [Art. 13 Regeling](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md))  – [Art. 2.13](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md)  | --- |
+| --- | --- | De verbodsbepalingen:  – Art. 2.3 lid 1 en lid 5  – Art. 2.5  – Art. 2.6  – Art. 2.11 (en Art. 13 Regeling)  – Art. 2.13  | --- |
 | --- | --- | --- | --- |
-| --- | --- | [Hoofdstuk 5](../../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md): Toezicht, Handhaving en Opsporing  | --- |
+| --- | --- | Hoofdstuk 5: Toezicht, Handhaving en Opsporing  | --- |
 | --- | --- | --- | --- |
-| --- | --- | Van de [Regeling wegvervoer goederen](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md) de voor de beroepsuitoefening relevante bepalingen:  | --- |
+| --- | --- | Van de Regeling wegvervoer goederen de voor de beroepsuitoefening relevante bepalingen:  | --- |
 | --- | --- | --- | --- |
-| --- | --- | Regeling wegvervoer goederen:  –[ Art. 3](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)  – [Art. 10](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)  – [Art. 15 lid 4](../../../../../../ministeriele-regeling/regeling/wegvervoer/goederen/BWBR0025704/README.md)  | --- |
+| --- | --- | Regeling wegvervoer goederen:  – Art. 3  – Art. 10  – Art. 15 lid 4  | --- |
 | 4.2**  | Kan de verschillende vormen van goederenvervoer en de toepassing daarvan uitleggen.   | De vormen van vervoer:  – nationaal  – internationaal binnen de EU  – internationaal buiten de EU  – transito  – cabotagevervoer.  | B  |
 | 4.3**  | Kan de voor het goederenvervoer vereiste documenten noemen.   | De persoonlijke documenten:  – rijbewijs  – chauffeursdiploma  – paspoort/identiteitsbewijs  – registratiebladen tachograaf  – bestuurderskaart  – print-outs  – ADR-certificaat.  | F  |
 | --- | --- | --- | --- |
@@ -709,18 +709,18 @@ M.H. Schultz van Haegen-Maas Geesteranus
 | 4.10  | Kan de functie van tussenpersonen in het vervoer noemen.   | De expediteur als tussenpersoon tussen afzender en vervoerder.  | F  |
 | 4.11  | Kan noemen wanneer de speciale, de goederen begeleidende, documenten gebruikt moeten worden.   | De documenten bij speciale ladingen:  – gevarenkaart  – gezondheidsverklaring  – milieuvervuilende stoffen (afvalstoffen).  | F  |
 |  *5.*   |  *De kandidaat heeft kennis van en inzicht in de voor de beroepsuitoefening relevante bepalingen van de Arbeidstijdenwet en het Arbeidstijdenbesluit vervoer.*   | --- | --- |
-| 5.1**  | Kan de werkingssfeer en de voor de beroepsuitoefening relevante bepalingen van de   | Het doel van de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) (Arbeidstijdenwet).  | B  |
-| --- | [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) uitleggen.   | De relatie [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) / [ATB](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) (Arbeidstijdenbesluit) vervoer.  De werkingssfeer ATB vervoer.  De extra-territoriale werking ATB vervoer.  | --- |
+| 5.1**  | Kan de werkingssfeer en de voor de beroepsuitoefening relevante bepalingen van de   | Het doel van de ATW (Arbeidstijdenwet).  | B  |
+| --- | Arbeidstijdenwet en het Arbeidstijdenbesluit vervoer uitleggen.   | De relatie ATW / ATB (Arbeidstijdenbesluit) vervoer.  De werkingssfeer ATB vervoer.  De extra-territoriale werking ATB vervoer.  | --- |
 | --- | --- | --- | --- |
-| --- | --- | De definities:  – arbeid  – arbeidstijd  – werknemer  – werkgever  – vrachtauto  – bestuurder  – bijrijder  – rijtijd  – rusttijd  – week  – pauze  – nachtdienst (volgens de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md)).  | --- |
+| --- | --- | De definities:  – arbeid  – arbeidstijd  – werknemer  – werkgever  – vrachtauto  – bestuurder  – bijrijder  – rijtijd  – rusttijd  – week  – pauze  – nachtdienst (volgens de ATW).  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Het collectief overleg.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De bepalingen rusttijd, rijtijd, pauzes, nachtarbeid, arbeid op zondag.  De controlemiddelen:  – tachograaf  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De verantwoordelijkheden bij overtredingen.  Toezicht en handhaving:  – controlerende instanties  – bevoegdheden.  | --- |
-| 5.2  | Kan de voor de beroepsuitoefening belangrijke bepalingen van de [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) toepassen.   | Aan de hand van gegeven situaties de dagelijkse rijtijd, wekelijkse rijtijd, onderbrekingen, dagelijkse rusttijd en wekelijkse rusttijd bepalen.  | R  |
-| 5.3**  | Kan de werkingssfeer van de Verordeningen (EG)  nr. 561/2006 en 3821/85 (EG) uitleggen.   | De relatie met de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en [ATB vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md).  | B  |
+| 5.2  | Kan de voor de beroepsuitoefening belangrijke bepalingen van de Arbeidstijdenwet en het Arbeidstijdenbesluit vervoer toepassen.   | Aan de hand van gegeven situaties de dagelijkse rijtijd, wekelijkse rijtijd, onderbrekingen, dagelijkse rusttijd en wekelijkse rusttijd bepalen.  | R  |
+| 5.3**  | Kan de werkingssfeer van de Verordeningen (EG)  nr. 561/2006 en 3821/85 (EG) uitleggen.   | De relatie met de ATW en ATB vervoer.  | B  |
 | 5.4  | Kan benoemen wanneer de AETR van toepassing is.  | Andere landen dan de EU (Europese Unie), EER (Europese Economische Ruimte) en Zwitserland.  | F  |
 | 5.5**  | Kan uiteenzetten hoe een analoge en een digitale tachograaf gebruikt moeten worden.   | De functie van een tachograaf.  | B  |
 | --- | --- | De symbolen op het apparaat.  | --- |
@@ -768,11 +768,11 @@ M.H. Schultz van Haegen-Maas Geesteranus
 | --- | --- | De soorten verpakkingen:  – dozen, bakken, kratten  – kisten  – tanks, containers  – big bags, IBC’s  – cilinders  – jerry cans  – vaten  – gasflessen.  | --- |
 | 6.8  | Kan verschillende soorten samenladingseenheden noemen.   | De samenladingseenheden:  – pallets: soorten, standaard afmetingen, toepassingen  – rolcontainers  – wissellaadbak  – afzetbak  – zeecontainers.  | F  |
 |  *7.*   |  *De kandidaat heeft kennis van en inzicht in de veiligheidsaspecten bij de beroepsuitoefening.*   | --- | --- |
-| 7.1  | Kan de werkingssfeer van de [Arbo-wet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en het [Arbobesluit](../../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) uitleggen.  | De bevordering van gezondheid, veiligheid en welzijn.  | B  |
+| 7.1  | Kan de werkingssfeer van de Arbo-wet en het Arbobesluit uitleggen.  | De bevordering van gezondheid, veiligheid en welzijn.  | B  |
 | --- | --- | Geldt voor alle werknemers en zelfstandigen.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De gezamenlijke verantwoordelijkheid werkgevers en -nemers.  | --- |
-| 7.2  | Kan de verplichtingen van werkgever en werknemer in het kader van de [Arbo-wet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) noemen.   | De bepalingen in [art. 8](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [11](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).   | F  |
+| 7.2  | Kan de verplichtingen van werkgever en werknemer in het kader van de Arbo-wet noemen.   | De bepalingen in art. 8 en 11.   | F  |
 | 7.3  | Kan de meest voorkomende ongevallen in de vervoerssector en de oorzaak noemen.   | Statistieken van verkeersongevallen.  | F  |
 | --- | --- | Soorten arbeidsongevallen:  – werken zonder bevoegdheid  – niet borgen, veilig stellen  – veiligheden buiten werking stellen  – niet/niet juist gebruik van persoonlijke beschermingsmiddelen  – onjuiste, onvoldoende persoonlijke beschermingsmiddelen gekregen  – onjuist beladen/plaatsen  – werk op/aan bewegende machines  – overig onjuist gebruik materiaal  – ontoereikende afscherming  – defect gereedschap/materieel ter beschikking gesteld  – niet toereikende alarmsystemen  – gebrek aan orde en netheid  – te hoge/lage temperatuur  – te veel/weinig verlichting  – overige directe oorzaken (o.a. vallen).  | --- |
 | 7.4  | Kan uiteenzetten hoe arbeidsongevallen en fysieke risico’s voorkomen kunnen worden en  | Het gebruik van persoonlijke beschermingsmiddelen.  | B  |
@@ -848,7 +848,7 @@ M.H. Schultz van Haegen-Maas Geesteranus
 | 2.  | De kandidaat heeft kennis van en inzicht in de veiligheidsaspecten bij het gebruik van het motorvoertuig.  |
 | 3.  | De kandidaat heeft kennis van en inzicht in de milieuaspecten die het gevolg zijn van het gebruik van het motorvoertuig.  |
 | 4.  | De kandidaat heeft kennis van en inzicht in de voor de beroepsuitoefening relevante bepalingen in de vervoerswetgeving.  |
-| 5.  | De kandidaat heeft kennis van en inzicht in de voor de beroepsuitoefening relevante bepalingen van de [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md).  |
+| 5.  | De kandidaat heeft kennis van en inzicht in de voor de beroepsuitoefening relevante bepalingen van de Arbeidstijdenwet en het Arbeidstijdenbesluit vervoer.  |
 | 6.  | De kandidaat heeft kennis van en inzicht in de wijze waarop personen en bijbehorende lading veilig vervoerd moeten worden.  |
 | 7.  | De kandidaat heeft kennis van en inzicht in de veiligheidsaspecten bij de beroepsuitoefening.  |
 | 8.  | De kandidaat heeft kennis van en inzicht in de wijze waarop de beroepschauffeur kan bijdragen aan het goede imago van de door hem vertegenwoordigde branche.  |
@@ -870,7 +870,7 @@ M.H. Schultz van Haegen-Maas Geesteranus
 |  *3.*   |  *De kandidaat heeft kennis van en inzicht in de milieuaspecten die het gevolg zijn van het gebruik van het motorvoertuig.*   | --- | --- |
 | 3.1**  | Kan uitleggen op welke wijze milieuaspecten een rol spelen bij het gebruik van een gemotoriseerd voertuig.   | Aan de orde komen hier aspecten die betrekking hebben op het milieubewuste gebruik van het motorvoertuig en het energiezuinig rijden, zoals:  – aangepast en besluitvaardig rijden  – acceleratie  – accessoires op of aan het voertuig  – afvoer van accu  – anticiperen  – bandenspanning  – controle in en buiten het voertuig  – defensief rijden  – filerijden  – gas geven, (ont)koppelen en schakelen  – gebruik van de toerenteller  – gebruik van cruisecontrol  – geluidshinder  – bagage  – langdurige stops in het verkeer  – reiniging voertuig  – remmen en stoppen  – ritvoorbereiding  – soort brandstof bij voertuig met katalysator  – starten en wegrijden  – stroomverbruikers  – volgafstand.  | B  |
 |  *4.*   |  *De kandidaat heeft kennis van en inzicht in de voor de beroepsuitoefening relevante bepalingen in de vervoerswetgeving.*   | --- | --- |
-| 4.1**  | Kan de werkingssfeer van de [Wet personenvervoer 2000](../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) benoemen.   | Het doel van de wet en de voor de beroepsuitoefening relevante bepalingen.  | F  |
+| 4.1**  | Kan de werkingssfeer van de Wet personenvervoer 2000 benoemen.   | Het doel van de wet en de voor de beroepsuitoefening relevante bepalingen.  | F  |
 | --- | --- | --- | --- |
 | --- | --- | Het uitvoeringsbesluit en de voor de beroepsuitoefening relevante bepalingen.  | --- |
 | --- | --- | --- | --- |
@@ -904,10 +904,10 @@ M.H. Schultz van Haegen-Maas Geesteranus
 | --- | --- | --- | --- |
 | --- | --- | Het toepassingsgebied: landen behorend tot:  – Europese Unie landen (inclusief Noorwegen en Zwitserland)  – Interbus-landen  – overige landen.   | --- |
 |  *5.*   |  *De kandidaat heeft kennis van en inzicht in de voor de beroepsuitoefening relevante bepalingen van de Arbeidstijdenwet en het Arbeidstijdenbesluit vervoer*   | --- | --- |
-| 5.1**  | Kan de werkingssfeer en de voor de beroepsuitoefening relevante bepalingen   | Het doel van de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) (Arbeidstijdenwet).  | B  |
-| --- | van de [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) uitleggen.   | De relatie [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) / [ATB](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) (Arbeidstijdenbesluit) vervoer.  De werkingssfeer [ATB vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md).  De extra-territoriale werking ATB vervoer.  | --- |
+| 5.1**  | Kan de werkingssfeer en de voor de beroepsuitoefening relevante bepalingen   | Het doel van de ATW (Arbeidstijdenwet).  | B  |
+| --- | van de Arbeidstijdenwet en het Arbeidstijdenbesluit vervoer uitleggen.   | De relatie ATW / ATB (Arbeidstijdenbesluit) vervoer.  De werkingssfeer ATB vervoer.  De extra-territoriale werking ATB vervoer.  | --- |
 | --- | --- | --- | --- |
-| --- | --- | De definities:  – arbeid  – arbeidstijd  – werknemer  – werkgever  – bus  – bestuurder  – bijrijder  – rijtijd  – rusttijd  – week  – pauze  – nachtdienst (volgens de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md)).  | --- |
+| --- | --- | De definities:  – arbeid  – arbeidstijd  – werknemer  – werkgever  – bus  – bestuurder  – bijrijder  – rijtijd  – rusttijd  – week  – pauze  – nachtdienst (volgens de ATW).  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Het collectief overleg.  | --- |
 | --- | --- | --- | --- |
@@ -920,8 +920,8 @@ M.H. Schultz van Haegen-Maas Geesteranus
 | --- | --- | De verantwoordelijkheden bij overtredingen.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | Toezicht en handhaving:  – controlerende instanties  – bevoegdheden.  | --- |
-| 5.2  | Kan de voor de beroepsuitoefening belangrijke bepalingen van de [Arbeidstijdenwet](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en het [Arbeidstijdenbesluit vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) toepassen.   | Aan de hand van gegeven situaties de dagelijkse rijtijd, wekelijkse rijtijd, onderbrekingen, dagelijkse rusttijd en wekelijkse rusttijd bepalen.   | R  |
-| 5.3**  | Kan de werkingssfeer van de Verordeningen (EG)  nr. 561/2006 en 3821/85 (EG) uitleggen.   | De relatie met de [ATW](../../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) en [ATB vervoer](../../../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md).  | B  |
+| 5.2  | Kan de voor de beroepsuitoefening belangrijke bepalingen van de Arbeidstijdenwet en het Arbeidstijdenbesluit vervoer toepassen.   | Aan de hand van gegeven situaties de dagelijkse rijtijd, wekelijkse rijtijd, onderbrekingen, dagelijkse rusttijd en wekelijkse rusttijd bepalen.   | R  |
+| 5.3**  | Kan de werkingssfeer van de Verordeningen (EG)  nr. 561/2006 en 3821/85 (EG) uitleggen.   | De relatie met de ATW en ATB vervoer.  | B  |
 | 5.4  | Kan benoemen wanneer de AETR van toepassing is.  | Andere landen dan de EU (Europese Unie), EER (Europese Economische Ruimte) en Zwitserland.  | F  |
 | 5.5**  | Kan uiteenzetten hoe een analoge en een digitale tachograaf gebruikt moeten worden.   | De functie van een tachograaf.  | B  |
 | --- | --- | De symbolen op het apparaat.  | --- |
@@ -968,11 +968,11 @@ M.H. Schultz van Haegen-Maas Geesteranus
 | --- | --- | De passagiersvoorzieningen.  | --- |
 | 6.5**  | Kan de aandachtspunten bij het vervoer van specifieke personen of groepen personen uitleggen.   | Onder andere vervoer van personen met een geestelijke en/of lichamelijke beperking, vervoer van kinderen en ouderen.  | B  |
 |  *7.*   |  *De kandidaat heeft kennis van en inzicht in de veiligheidsaspecten bij de beroepsuitoefening.*   | --- | --- |
-| 7.1  | Kan de werkingssfeer van de [Arbo-wet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en het [Arbobesluit](../../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md) uitleggen.   | De bevordering van gezondheid, veiligheid en welzijn.  | B  |
+| 7.1  | Kan de werkingssfeer van de Arbo-wet en het Arbobesluit uitleggen.   | De bevordering van gezondheid, veiligheid en welzijn.  | B  |
 | --- | --- | Geldt voor alle werknemers en zelfstandigen.  | --- |
 | --- | --- | --- | --- |
 | --- | --- | De gezamenlijke verantwoordelijkheid werkgevers en -nemers.  | --- |
-| 7.2  | Kan de verplichtingen van werkgever en werknemer in het kader van de [Arbo-wet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) noemen.   | De bepalingen in [art. 8](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) en [11](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).   | F  |
+| 7.2  | Kan de verplichtingen van werkgever en werknemer in het kader van de Arbo-wet noemen.   | De bepalingen in art. 8 en 11.   | F  |
 | 7.3  | Kan de meest voorkomende ongevallen in de vervoerssector en de oorzaken noemen.   | Statistieken van verkeersongevallen.  | F  |
 | --- | --- | Soorten arbeidsongevallen:  – werken zonder bevoegdheid  – niet borgen, veilig stellen  – veiligheden buiten werking stellen  – onjuist beladen/plaatsen  – ontoereikende afscherming  – defect gereedschap/materieel ter beschikking gesteld  – niet toereikende alarmsystemen  – gebrek aan orde en netheid  – te hoge/lage temperatuur  – te veel/weinig verlichting  – overige directe oorzaken (o.a. vallen).  | --- |
 | 7.4  | Kan uiteenzetten hoe arbeidsongevallen en fysieke risico’s voorkomen kunnen worden en   | Het gebruik van persoonlijke beschermingsmiddelen.  | B  |

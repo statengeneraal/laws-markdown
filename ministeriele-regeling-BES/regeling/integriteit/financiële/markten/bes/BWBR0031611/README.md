@@ -3,24 +3,24 @@
 ##Regeling houdende bepalingen ter uitvoering van bij en krachtens de Wet ter voorkoming van witwassen en financieren van terrorisme BES gestelde regels (Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 De Minister van Financiën en de Minister van Veiligheid en Justitie,  
-Gelet op de [artikelen 2.3, eerste lid, onderdeel b](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), [2.9, eerste lid, onderdelen b en d](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), [2.10, tweede lid, onderdeel c](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), [2.12, derde lid](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), [3.3, vierde lid](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), [3.4](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), [3.11, eerste lid, onderdeel b](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), en [4.2, tweede en zevende lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md);
+Gelet op de artikelen 2.3, eerste lid, onderdeel b, 2.9, eerste lid, onderdelen b en d, 2.10, tweede lid, onderdeel c, 2.12, derde lid, 3.3, vierde lid, 3.4, 3.11, eerste lid, onderdeel b, en 4.2, tweede en zevende lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme BES;
 Besluiten:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder de wet: de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md). 
+In deze regeling wordt verstaan onder de wet: de Wet ter voorkoming van witwassen en financieren van terrorisme BES. 
 
 ### Artikel  2  
 
-Het bedrag bedoeld in [artikel 2.3, eerste lid, onderdeel b, van de wet](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) wordt voor de diensten, bedoeld in de onderdelen f en m van [bijlage A bij de wet](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), vastgesteld op USD 11.000, voor de diensten, bedoeld in onderdeel j van die bijlage, op USD 3.000, en voor de overige diensten, bedoeld in die bijlage, op nihil. 
+Het bedrag bedoeld in artikel 2.3, eerste lid, onderdeel b, van de wet wordt voor de diensten, bedoeld in de onderdelen f en m van bijlage A bij de wet, vastgesteld op USD 11.000, voor de diensten, bedoeld in onderdeel j van die bijlage, op USD 3.000, en voor de overige diensten, bedoeld in die bijlage, op nihil. 
 
 ### Artikel  3  
 
-Als land in de zin van [artikelen 2.9, eerste lid, onderdelen b en d](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), [2.10, tweede lid, onderdeel c](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), en [3.11, eerste lid, onderdeel b, van de wet](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) worden aangewezen: de landen van het Koninkrijk, de Verenigde Staten van Amerika en Canada. 
+Als land in de zin van artikelen 2.9, eerste lid, onderdelen b en d, 2.10, tweede lid, onderdeel c, en 3.11, eerste lid, onderdeel b, van de wet worden aangewezen: de landen van het Koninkrijk, de Verenigde Staten van Amerika en Canada. 
 
 ### Artikel  4  
 
-1.  Als documenten op basis waarvan kan worden voldaan aan [artikel 2.12, eerste lid, van de wet](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) voor de verificatie van de identiteit van natuurlijke personen worden aangewezen: 
+1.  Als documenten op basis waarvan kan worden voldaan aan artikel 2.12, eerste lid, van de wet voor de verificatie van de identiteit van natuurlijke personen worden aangewezen: 
 
 a. een van de volgende, in het land van uitgifte geldige documenten: 
 
@@ -33,12 +33,12 @@ a. een van de volgende, in het land van uitgifte geldige documenten:
 b. het origineel van een geldige verblijfsvergunning, vergezeld van een geldig paspoort;  
 
 c. een kopie van een geldige verblijfsvergunning, vergezeld van een kopie van een geldig paspoort en een verklaring van de bevoegde autoriteiten ter zake.     
-2.  Als documenten op basis waarvan kan worden voldaan aan [artikel 2.12, eerste lid, van de wet](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) voor de verificatie van de identiteit van een rechtspersoon opgericht naar het recht van de openbare lichamen die in de openbare lichamen zijn zetel heeft of een buitenlandse rechtspersoon die in de openbare lichamen is gevestigd worden aangewezen: 
+2.  Als documenten op basis waarvan kan worden voldaan aan artikel 2.12, eerste lid, van de wet voor de verificatie van de identiteit van een rechtspersoon opgericht naar het recht van de openbare lichamen die in de openbare lichamen zijn zetel heeft of een buitenlandse rechtspersoon die in de openbare lichamen is gevestigd worden aangewezen: 
 
 a. een gewaarmerkt uittreksel uit het register van de Kamer van Koophandel en Nijverheid;  
 
 b. een akte of verklaring, opgemaakt onderscheidenlijk afgegeven door een in de openbare lichamen gevestigde advocaat, notaris, kandidaat-notaris.     
-3.  Als documenten op basis waarvan kan worden voldaan aan [artikel 2.12, tweede lid, van de wet](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) voor de verificatie van de identiteit van een buitenlandse rechtspersoon die niet in een openbaar lichaam is gevestigd worden aangewezen: 
+3.  Als documenten op basis waarvan kan worden voldaan aan artikel 2.12, tweede lid, van de wet voor de verificatie van de identiteit van een buitenlandse rechtspersoon die niet in een openbaar lichaam is gevestigd worden aangewezen: 
 
 a. een gewaarmerkt uittreksel uit het register van instelling vergelijkbaar met de Kamer van Koophandel en Nijverheid, dat voldoet aan het vierde lid;  
 
@@ -51,20 +51,20 @@ b. van alle gemachtigden en vertegenwoordigers: de naam, de geboortedatum en het
 
 ### Artikel  5  
 
-1.  Een verzoek tot verstrekking van gegevens op grond van [artikel 2:13, tweede lid, onderdeel b of c, van het Besluit politiegegevens](../../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md) wordt gericht aan de officier van justitie die door de Minister van Veiligheid en Justitie is aangewezen als de Landelijk officier van justitie inzake de bestrijding van witwassen en terrorismebestrijding.   
+1.  Een verzoek tot verstrekking van gegevens op grond van artikel 2:13, tweede lid, onderdeel b of c, van het Besluit politiegegevens wordt gericht aan de officier van justitie die door de Minister van Veiligheid en Justitie is aangewezen als de Landelijk officier van justitie inzake de bestrijding van witwassen en terrorismebestrijding.   
 2.  De Landelijk officier van justitie inzake de bestrijding van witwassen en terrorismebestrijding bepaalt de wijze waarop een verzoek als bedoeld in het eerste lid wordt ingediend.   
 3.  De Landelijk officier van justitie inzake de bestrijding van witwassen en terrorismebestrijding geleidt een verzoek als bedoeld in het eerste lid door naar het Meldpunt tenzij naar zijn oordeel: 
 
 a. het verzoek niet voldoet aan de op grond van het tweede lid gestelde voorschriften; of  
 
-b. in geval van een verzoek op grond van [artikel 2:13, tweede lid, onderdeel c, van het Besluit politiegegevens](../../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md) niet is voldaan aan de eisen gesteld in dat onderdeel.     
-4.  Het Meldpunt verstrekt gegevens op grond van [artikel 2:13, tweede lid, onderdeel b of c, van het Besluit politiegegevens](../../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md) niet voor zover naar het oordeel van de Landelijk officier van justitie inzake de bestrijding van witwassen en terrorismebestrijding belangen inzake de opsporing zich daartegen verzetten.  
+b. in geval van een verzoek op grond van artikel 2:13, tweede lid, onderdeel c, van het Besluit politiegegevens niet is voldaan aan de eisen gesteld in dat onderdeel.     
+4.  Het Meldpunt verstrekt gegevens op grond van artikel 2:13, tweede lid, onderdeel b of c, van het Besluit politiegegevens niet voor zover naar het oordeel van de Landelijk officier van justitie inzake de bestrijding van witwassen en terrorismebestrijding belangen inzake de opsporing zich daartegen verzetten.  
 
 ### Artikel  6  
 
-De indicatoren, bedoeld in [artikel 3.4 van de wet](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), worden met betrekking tot transacties in verband met het afnemen van diensten, bedoeld in de in onderstaande tabel genoemde onderdelen van [bijlage A bij de wet](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), vastgesteld zoals opgenomen in de daarbij vermelde bijlagen bij deze regeling:  
+De indicatoren, bedoeld in artikel 3.4 van de wet, worden met betrekking tot transacties in verband met het afnemen van diensten, bedoeld in de in onderstaande tabel genoemde onderdelen van bijlage A bij de wet, vastgesteld zoals opgenomen in de daarbij vermelde bijlagen bij deze regeling:  
 
-| Onderdelen van [bijlage A bij de wet](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) waarin diensten zijn vermeld  | Bijlagen bij deze regeling waarin indicatoren zijn opgenomen  |
+| Onderdelen van bijlage A bij de wet waarin diensten zijn vermeld  | Bijlagen bij deze regeling waarin indicatoren zijn opgenomen  |
 |:---|:---|
 | a tot en met d, g, i en p tot en met w  | A , I  en J   |
 | e  | B   |
@@ -79,16 +79,16 @@ De indicatoren, bedoeld in [artikel 3.4 van de wet](../../../../../../../wet-BES
 
 1.  De indicatoren in bijlagen B en C bij deze regeling blijven buiten toepassing in gevallen waarin ter voldoening aan toezeggingen omtrent pensioen door de werkgever aan werknemers, verbonden aan zijn onderneming: 
 
-a. door de werkgever overeenkomsten van verzekering zijn gesloten met een verzekeraar die ingevolge de [Wet financiële markten BES](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) het bedrijf van levensverzekeraar mag uitoefenen;  
+a. door de werkgever overeenkomsten van verzekering zijn gesloten met een verzekeraar die ingevolge de Wet financiële markten BES het bedrijf van levensverzekeraar mag uitoefenen;  
 
 b. door de werknemers zelf overeenkomsten, bedoeld in onderdeel a, zijn gesloten, daartoe door de werkgever geheel of ten dele in staat gesteld.     
-2.  Voor de toepassing van het in het eerste lid bepaalde, worden aan de begrippen pensioen, werknemer en werkgever en onderneming dezelfde betekenis toegekend als de overeenkomstige begrippen, vermeld in [artikel 1, eerste en tweede lid, van de Pensioenwet BES](../../../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md).  
+2.  Voor de toepassing van het in het eerste lid bepaalde, worden aan de begrippen pensioen, werknemer en werkgever en onderneming dezelfde betekenis toegekend als de overeenkomstige begrippen, vermeld in artikel 1, eerste en tweede lid, van de Pensioenwet BES.  
 
 ### Artikel  8  
 
 De indicatoren, bedoeld in bijlagen B en C bij deze regeling blijven voorts buiten toepassing ten aanzien van: 
 
-a. het sluiten van overeenkomsten van verzekeringen door een pensioenfonds als bedoeld in [artikel 1, eerste lid, van de Pensioenwet BES](../../../../../../../wet-BES/pensioenwet/bes/BWBR0028712/README.md) tot het overdragen of het herverzekeren van het uit de door het pensioenfonds aangegane verplichtingen voortspruitende risico;  
+a. het sluiten van overeenkomsten van verzekeringen door een pensioenfonds als bedoeld in artikel 1, eerste lid, van de Pensioenwet BES tot het overdragen of het herverzekeren van het uit de door het pensioenfonds aangegane verplichtingen voortspruitende risico;  
 
 b. het sluiten van overeenkomsten van overlijdensrisicoverzekeringen en andere verzekeringen zonder premievrije of afkoopwaarde;  
 
@@ -96,19 +96,19 @@ c. ten aanzien van transacties waarvoor nog slechts een offerte is uitgebracht d
 
 ### Artikel  9  
 
-Het model voor het aangiftebiljet voor de aanmelding van een grensoverschrijdend geldtransport, bedoeld in [artikel 4.2, tweede lid, van de wet](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), is vastgesteld overeenkomstig de bij deze regeling behorende bijlage K. 
+Het model voor het aangiftebiljet voor de aanmelding van een grensoverschrijdend geldtransport, bedoeld in artikel 4.2, tweede lid, van de wet, is vastgesteld overeenkomstig de bij deze regeling behorende bijlage K. 
 
 ### Artikel  10  
 
-Van [artikel 4.2, eerste tot met derde lid, van de wet](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) zijn vrijgesteld beroepsvervoerders voor zover zij geld transporteren in opdracht van De Nederlandsche Bank N.V. 
+Van artikel 4.2, eerste tot met derde lid, van de wet zijn vrijgesteld beroepsvervoerders voor zover zij geld transporteren in opdracht van De Nederlandsche Bank N.V. 
 
 ### Artikel  11  
 
-Het bedrag bedoeld in [bijlage A, deel I, onderdeel m, van de wet](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) wordt bepaald op nihil. 
+Het bedrag bedoeld in bijlage A, deel I, onderdeel m, van de wet wordt bepaald op nihil. 
 
 ### Artikel  12  
 
-Deze regeling treedt in werking op het tijdstip waarop de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop de Wet ter voorkoming van witwassen en financieren van terrorisme BES in werking treedt. 
 
 ### Artikel  13  
 
@@ -125,7 +125,7 @@ I.W. Opstelten
 
 ### Bijlage  A  
 
-####Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) (dienstverleners: kredietinstellingen, geldtransactiekantoren, e.a.) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES) 
+####Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES (dienstverleners: kredietinstellingen, geldtransactiekantoren, e.a.) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES) 
 
 Voor alle indicatoren geldt: 
 
@@ -329,11 +329,11 @@ k. [vervallen].
 
 2. Voorkeur van de cliënt voor transacties onder het grensbedrag waarbij aanleiding is om te veronderstellen dat deze daarmede melding wil voorkomen.     
 
-H. Geldovermakingen: Ontvangen geldovermakingen waarbij de verzendende financiële onderneming de informatie over de betaler in de zin van [artikel 4:19 van de Wet financiële markten BES](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) niet of niet geheel heeft verstrekt, indien diezelfde financiële onderneming recentelijk dit vaker heeft verzuimd.    
+H. Geldovermakingen: Ontvangen geldovermakingen waarbij de verzendende financiële onderneming de informatie over de betaler in de zin van artikel 4:19 van de Wet financiële markten BES niet of niet geheel heeft verstrekt, indien diezelfde financiële onderneming recentelijk dit vaker heeft verzuimd.    
 
 ### Bijlage  B  
 
-####Indicatoren diensten als bedoeld in onderdeel e van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) (dienstverleners: levensverzekeraars en assurantiebemiddelaars) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+####Indicatoren diensten als bedoeld in onderdeel e van bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES (dienstverleners: levensverzekeraars en assurantiebemiddelaars) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt: 
 
@@ -383,7 +383,7 @@ k. een (reëel) verzekerd belang kan niet worden verklaard.
 
 ### Bijlage  C  
 
-####Indicatoren diensten als bedoeld in onderdeel f van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) (dienstverleners: levensverzekeraars en assurantiebemiddelaars) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+####Indicatoren diensten als bedoeld in onderdeel f van bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES (dienstverleners: levensverzekeraars en assurantiebemiddelaars) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt: 
 
@@ -413,7 +413,7 @@ Er bestaat aanleiding om te veronderstellen dat de betrokken verzekering verband
 
 ### Bijlage  D  
 
-####Indicatoren diensten als bedoeld in onderdeel h van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) (dienstverleners: ondermeer creditcard bedrijven en kredietinstellingen) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+####Indicatoren diensten als bedoeld in onderdeel h van bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES (dienstverleners: ondermeer creditcard bedrijven en kredietinstellingen) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt: 
 
@@ -443,7 +443,7 @@ B. Ontduiken grensbedrag: Voorkeur van de cliënt voor transacties onder het gre
 
 ### Bijlage  E  
 
-####Indicatoren diensten als bedoeld in onderdeel j van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) (dienstverleners: casino’s) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+####Indicatoren diensten als bedoeld in onderdeel j van bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES (dienstverleners: casino’s) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt: 
 
@@ -479,7 +479,7 @@ B. Ontduiken grensbedrag: Voorkeur van de cliënt voor transacties onder het gre
 
 ### Bijlage  F  
 
-####Indicatoren diensten als bedoeld in onderdeel k van [bijlage a bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) (dienstverleners: trustkantoren) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+####Indicatoren diensten als bedoeld in onderdeel k van bijlage a bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES (dienstverleners: trustkantoren) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt dat melding verplicht is van transacties of voorgenomen transacties; 
 
@@ -541,7 +541,7 @@ D. Ontduiken grensbedrag: Voorkeur van de cliënt voor transacties onder het gre
 
 ### Bijlage  G  
 
-####Indicatoren diensten als bedoeld in onderdeel m van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) (dienstverleners: handelaren in zaken grote waarde) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+####Indicatoren diensten als bedoeld in onderdeel m van bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES (dienstverleners: handelaren in zaken grote waarde) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt: 
 
@@ -565,7 +565,7 @@ B. Ontduiken grensbedrag: Voorkeur van de cliënt voor transacties onder het gre
 
 ### Bijlage  H  
 
-####Indicatoren diensten als bedoeld in onderdelen l, n en o van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) (dienstverleners: de vrije beroepsbeoefenaren, t.w. de onafhankelijke juridische adviseurs, advocaten, (kandidaat)notarissen, belastingadviseurs, accountants en bemiddelaars in onroerende zaken) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+####Indicatoren diensten als bedoeld in onderdelen l, n en o van bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES (dienstverleners: de vrije beroepsbeoefenaren, t.w. de onafhankelijke juridische adviseurs, advocaten, (kandidaat)notarissen, belastingadviseurs, accountants en bemiddelaars in onroerende zaken) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt: 
 
@@ -601,7 +601,7 @@ e. er is sprake van onduidelijkheid over de financiering of de financieringsover
 
 ### Bijlage  I  
 
-####Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) (dienstverleners: beleggingsinstellingen) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+####Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES (dienstverleners: beleggingsinstellingen) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt: 
 
@@ -661,7 +661,7 @@ D. Voorkeur van de investeerder voor transacties onder het grensbedrag waarbij a
 
 ### Bijlage  J  
 
-####Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van [bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) (dienstverleners: administrateurs beleggingsinstellingen) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
+####Indicatoren diensten als bedoeld in onderdelen a tot en met d, g, i en p tot en met w van bijlage A bij de Wet ter voorkoming van witwassen en financieren van terrorisme BES (dienstverleners: administrateurs beleggingsinstellingen) (bijlage als bedoeld in artikel 5  van de Regeling ter voorkoming van witwassen en financieren van terrorisme BES)
 
 Voor alle indicatoren geldt: 
 

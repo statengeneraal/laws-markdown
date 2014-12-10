@@ -3,7 +3,7 @@
 ##Besluit van de Staatssecretaris van Verkeer en Waterstaat, van 20 januari 2010, nr. CEND/HDJZ-2010/20 sector SCH, tot verlening van mandaat en machtiging aan de directeur van het Bureau van de Koninklijke Vereniging van Nederlandse Reders voor de uitvoering van de Tijdelijke subsidieregeling kennismakingsstages in de zeescheepvaart en waterbouw (Besluit mandaat en machtiging KVNR en Stichting Scheepvaart Tijdelijke subsidieregeling kennismakingsstages scheepvaart)
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op [artikel 10:4, tweede lid, van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) jo [artikel 6 van de Tijdelijke subsidieregeling kennismakingsstages scheepvaart](../../../../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/kennismakingsstages/scheepvaart/BWBR0026836/README.md);
+Gelet op artikel 10:4, tweede lid, van de Algemene wet bestuursrecht jo artikel 6 van de Tijdelijke subsidieregeling kennismakingsstages scheepvaart;
 Besluit:    
 
 ### Artikel  1  
@@ -29,7 +29,7 @@ In dit besluit wordt verstaan onder:
 
 ### Artikel  3  
 
-1.  Aan de directeur van het Bureau van de KVNR wordt mandaat verleend om in het kader van de [Tijdelijke subsidieregeling kennismakingsstages scheepvaart](../../../../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/kennismakingsstages/scheepvaart/BWBR0026836/README.md) namens de Staatssecretaris beslissingen op bezwaar te nemen, voor zover het besluit waartegen het bezwaar zich richt niet door hem in mandaat is genomen.   
+1.  Aan de directeur van het Bureau van de KVNR wordt mandaat verleend om in het kader van de Tijdelijke subsidieregeling kennismakingsstages scheepvaart namens de Staatssecretaris beslissingen op bezwaar te nemen, voor zover het besluit waartegen het bezwaar zich richt niet door hem in mandaat is genomen.   
 2.  De directeur van het Bureau van de KVNR kan van het in het eerste lid aan hem verleende mandaat ondermandaat verlenen aan een of meerdere onder hem ressorterende medewerkers of aan de directeur van de Stichting Scheepvaart, voor zover het besluit waartegen het bezwaar zich richt niet door dezelfde persoon is genomen.   
 3.  De directeur van de Stichting Scheepvaart kan, van het aan hem krachtens het tweede lid verleende ondermandaat, ondermandaat verlenen aan medewerkers van het O&O-fonds.   
 4.  Aan de directeur van het Bureau van de KVNR wordt tevens een machtiging verleend om ter voorbereiding van de in het eerste lid bedoelde besluiten alle benodigde werkzaamheden te verrichten.   
@@ -42,7 +42,7 @@ De in de artikelen 2 en 3 bedoelde mandatarissen oefenen de bij dit besluit verl
 
 ### Artikel  5  
 
-1.  Het document waarin een besluit of handeling, genomen respectievelijk verricht op grond van dit besluit, wordt vastgelegd, bevat in ieder geval een verwijzing naar de [Tijdelijke subsidieregeling kennismakingsstages scheepvaart](../../../../../../../../../../../../ministeriele-regeling/tijdelijke/subsidieregeling/kennismakingsstages/scheepvaart/BWBR0026836/README.md).   
+1.  Het document waarin een besluit of handeling, genomen respectievelijk verricht op grond van dit besluit, wordt vastgelegd, bevat in ieder geval een verwijzing naar de Tijdelijke subsidieregeling kennismakingsstages scheepvaart.   
 2.  Een document als bedoeld in het eerste lid van dit artikel vermeldt aan het slot: ‘DE STAATSSECRETARIS VAN VERKEER EN WATERSTAAT, namens deze,’ gevolgd door de functieaanduiding, de naam en de handtekening van de betrokkene.  
 
 ### Artikel  5  

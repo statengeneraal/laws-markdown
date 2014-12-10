@@ -1051,7 +1051,7 @@ This part of the Plan shall identify and list any other documentation that forms
 
 1.4In de keuringsregeling scheepvaart zijn geen constructienormen vervat die uitgaan boven de bepalingen van andere IMO-verdragen, -codes en -aanbevelingen.
 
-1.5 De keuringsregeling scheepvaart is ontwikkeld op basis van de vereisten van resolutie A.744(18), zoals gewijzigd, die bekend<sup>1)Resolutie A.744(18) van de Vergadering zoals gewijzigd bij resolutie 2 van de SOLAS-Conferentie van 1997, bij resolutie MSC.49(66) en bij resolutie MSC.105(73).</sup> waren ten tijde van de aanneming van de keuringsregeling scheepvaart. Beoogd wordt de keuringsregeling scheepvaart te actualiseren zodra dit nodig blijkt na wijzigingen van resolutie A.744(18), zoals gewijzigd.
+1.5 De keuringsregeling scheepvaart is ontwikkeld op basis van de vereisten van resolutie A.744(18), zoals gewijzigd, die bekend waren ten tijde van de aanneming van de keuringsregeling scheepvaart. Beoogd wordt de keuringsregeling scheepvaart te actualiseren zodra dit nodig blijkt na wijzigingen van resolutie A.744(18), zoals gewijzigd.
 
 1.6 De Vergadering heeft, tijdens haar zevenentwintigste zitting, de *Internationale Code voor het uitgebreide inspectieprogramma tijdens inspecties van bulkcarriers en olietankschepen, 2011 (ESP-Code 2011)* (resolutie A.1049(27)) aangenomen en de Maritieme Veiligheidscommissie heeft, tijdens haar negentigste zitting, bij resolutie MSC.325(90) wijzigingen van SOLAS-voorschrift XI-1/2, aangenomen waarbij „resolutie A.744(18)” werd vervangen door „de ESP-Code 2011”), waarmee deze Code verplicht werd gesteld. Verwijzingen naar „resolutie A.744(18)” in de CAS worden derhalve vervangen door verwijzingen naar „de ESP-Code 2011 (resolutie A.1049(27))”. 
 ###2 

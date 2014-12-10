@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 4 september 2013, nr. WJZ/ 13132689, houdende uitvoering van het Warmtebesluit en de Warmtewet (Warmteregeling)
 
 De Minister van Economische Zaken;  
-Gelet op [artikelen 3, vierde lid](../../../wet/warmtewet/BWBR0033729/README.md), en [4, derde lid, van de Warmtewet](../../../wet/warmtewet/BWBR0033729/README.md) en de artikelen 3, tweede lid, 4, vierde lid, en 10, tweede lid, van het Warmtebesluit;
+Gelet op artikelen 3, vierde lid, en 4, derde lid, van de Warmtewet en de artikelen 3, tweede lid, 4, vierde lid, en 10, tweede lid, van het Warmtebesluit;
 
 ### §  1  
 
@@ -13,13 +13,13 @@ Gelet op [artikelen 3, vierde lid](../../../wet/warmtewet/BWBR0033729/README.md)
 
 In deze regeling wordt verstaan onder: 
 
-a.  *wet:* de [Warmtewet](../../../wet/warmtewet/BWBR0033729/README.md);  
+a.  *wet:* de Warmtewet;  
 
-b.  *maximumprijs:* de prijs die de Autoriteit Consument en Markt op grond van [artikel 5, eerste lid, van de wet](../../../wet/warmtewet/BWBR0033729/README.md) vaststelt.  
+b.  *maximumprijs:* de prijs die de Autoriteit Consument en Markt op grond van artikel 5, eerste lid, van de wet vaststelt.  
 
 c.  *kwetsbare consument:* een verbruiker voor wie de beëindiging van de levering van warmte zeer ernstige gezondheidsrisico’s tot gevolg zou hebben of voor de huisgenoten van de verbruiker;  
 
-d.  *schuldhulpverlening:* de toepassing van de schuldsaneringsregeling natuurlijke personen, bedoeld in [titel III van de Faillissementswet](../../../wet/faillissementswet/BWBR0001860/README.md) of ondersteuning van natuurlijke personen door een instantie als bedoeld in [artikel 48, eerste lid, van de Wet op het consumentenkrediet](../../../wet/wet/op/het/consumentenkrediet/BWBR0004815/README.md) bij het vinden van een adequate oplossing voor schuldsituaties gericht op de aflossing van schulden.   
+d.  *schuldhulpverlening:* de toepassing van de schuldsaneringsregeling natuurlijke personen, bedoeld in titel III van de Faillissementswet of ondersteuning van natuurlijke personen door een instantie als bedoeld in artikel 48, eerste lid, van de Wet op het consumentenkrediet bij het vinden van een adequate oplossing voor schuldsituaties gericht op de aflossing van schulden.   
 
 ### §  2  
 
@@ -145,7 +145,7 @@ b. dat de vordering van de leverancier wordt betrokken bij een lopend traject va
 
 ### Artikel  8  
 
-De vergoeding die verschuldigd is op grond van [artikel 20, eerste lid, van de wet](../../../wet/warmtewet/BWBR0033729/README.md) voor het verlenen van een vergunning is € 500,– en voor het verkrijgen van toestemming is € 500,–. 
+De vergoeding die verschuldigd is op grond van artikel 20, eerste lid, van de wet voor het verlenen van een vergunning is € 500,– en voor het verkrijgen van toestemming is € 500,–. 
 
 ### Artikel  9  
 

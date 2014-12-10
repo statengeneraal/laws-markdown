@@ -5,16 +5,16 @@
 De Minister van Sociale Zaken en Werkgelegenheid,  
 Handelende in overeenstemming met de Minister van Financiën;
 
-Gelet op [artikel 63, tweede lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md);
+Gelet op artikel 63, tweede lid, van de Ziektewet;
 Besluit:    
 
 ### Artikel  1  
 
-Als overheidswerkgever als bedoeld in [artikel 63, tweede lid, van de Ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) wordt aangewezen de overheidswerkgever die op grond van [artikel 75, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) is ontheven van de verplichting tot het overleggen van een schriftelijke garantie als bedoeld in de eerste zin van dat lid. 
+Als overheidswerkgever als bedoeld in artikel 63, tweede lid, van de Ziektewet wordt aangewezen de overheidswerkgever die op grond van artikel 75, eerste lid, van de Wet op de arbeidsongeschiktheidsverzekering is ontheven van de verplichting tot het overleggen van een schriftelijke garantie als bedoeld in de eerste zin van dat lid. 
 
 ### Artikel  2  
 
-Deze regeling treedt in werking op het tijdstip waarop de [Wet eigenrisicodragen Ziektewet](../../../../../../wet/wet/eigenrisicodragen/ziektewet/BWBR0014282/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop de Wet eigenrisicodragen Ziektewet in werking treedt. 
 
 ### Artikel  3  
 

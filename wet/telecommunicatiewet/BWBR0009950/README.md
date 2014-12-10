@@ -1342,11 +1342,6 @@ c.trekt zij eerder opgelegde verplichtingen, voor zover zij betrekking hebben op
 4. Voor de toepassing van dit artikel wordt onder «eindgebruiker», bedoeld in de artikelen 6a.12 tot en met 6a.14, verstaan: een natuurlijk persoon of rechtspersoon die gebruik maakt of verzoekt om een programmadienst. 
 5. De artikelen 6a.1, zesde, zevende en achtste lid, 6a.2, derde lid, 6a.3, eerste en tweede lid, 6a.4, 6a.5, 6a.13, derde, vierde en vijfde lid, 6a.14, tweede tot en met zevende lid, 6b.1, 6b.3 en 6b.6 zijn van overeenkomstige toepassing.
 
-### Artikel  6a.21a  
-
-1.  De Autoriteit Consument en Markt kan aan een onderneming die een aanmerkelijke marktmacht heeft bij het aanbieden van programmadiensten, op grond van artikel 6a.21, derde lid, mede verplichtingen in verband met toegang opleggen als bedoeld in de artikelen 6a.6 tot en met 6a.10.   
-2.  De Autoriteit Consument en Markt legt aan een onderneming die een aanmerkelijke marktmacht heeft bij het aanbieden van programmadiensten, op grond van artikel 6a.21, derde lid, de verplichting op om op groothandelsniveau programmadiensten en bijbehorende faciliteiten aan te bieden voor de wederverkoop aan eindgebruikers tegen een door de Autoriteit Consument en Markt vastgesteld tarief, tenzij de geringe omvang van het omroepnetwerk of de geringe potentiële vraag naar wederverkoop zulks niet rechtvaardigt.  
-
 ### Artikel 6a.22 
 
 Bij algemene maatregel van bestuur kunnen andere verplichtingen dan de verplichtingen, bedoeld in de artikelen 6a.12 tot en met 6a.14, worden aangewezen die de Autoriteit Consument en Markt op grond van artikel 6a.21, derde lid, kan opleggen aan ondernemingen die een aanmerkelijke marktmacht hebben bij het aanbieden van programmadiensten.

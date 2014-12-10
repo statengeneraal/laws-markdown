@@ -3,11 +3,11 @@
 ##Deelreglement Ontwikkeling van de Stichting Nederlands Fonds voor de film
 
 De Stichting Nederlands Fonds voor de Film,  
-Gelet op het bepaalde in de [Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),
+Gelet op het bepaalde in de Algemene wet bestuursrecht,
 
-Gelet op [artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid](../../../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md),
+Gelet op artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid,
 
-Gelet op [artikel 2 van het Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md),
+Gelet op artikel 2 van het Algemeen Reglement,
 Besluit:     
 
 ####Algemeen
@@ -140,7 +140,7 @@ d) de filmplannen zijn qua filmgenre en doelgroep gevarieerd.
 
 ####– beoordeling ontwikkelingssubsidie –
 
-Voor toekenning van de aanvraag dient het oordeel over de kwaliteit van de filmproductie positief te zijn. De kwaliteit van de filmproductie wordt beoordeeld aan de hand van de beoordelingscriteria in [artikel 5 van het Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md). 
+Voor toekenning van de aanvraag dient het oordeel over de kwaliteit van de filmproductie positief te zijn. De kwaliteit van de filmproductie wordt beoordeeld aan de hand van de beoordelingscriteria in artikel 5 van het Algemeen Reglement. 
 
 ### Artikel  8  
 
@@ -289,7 +289,7 @@ Aanvragen kunnen worden gedaan voor de ontwikkeling van een scenario c.q. *story
 
 ####– beoordelingscriterium –
 
-Bij de beoordeling van een subsidieaanvraag beoordeelt het bestuur, in aanvulling op de criteria van [Artikel 5 van het Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md) of de filmproductie in de categorie filmisch experiment naar het oordeel van het bestuur bijdraagt aan de creatieve en technische innovatie van de cinematografie. Voor een toekenning dient ook de beoordeling van dit criterium positief te zijn. 
+Bij de beoordeling van een subsidieaanvraag beoordeelt het bestuur, in aanvulling op de criteria van Artikel 5 van het Algemeen Reglement of de filmproductie in de categorie filmisch experiment naar het oordeel van het bestuur bijdraagt aan de creatieve en technische innovatie van de cinematografie. Voor een toekenning dient ook de beoordeling van dit criterium positief te zijn. 
 
 ####Overgangs- en slotbepalingen
 
@@ -299,7 +299,7 @@ Bij de beoordeling van een subsidieaanvraag beoordeelt het bestuur, in aanvullin
 2.  Het bestuur kan om zwaarwegende redenen afwijken van dit reglement, voor zover dergelijke afwijkingen verenigbaar zijn met het beoordelingskader voor staatssteun aan de filmsector, zoals dat wordt gehanteerd door de Europese Commissie.   
 3.  Dit reglement is vastgesteld door het bestuur met goedkeuring van de Raad van Toezicht op 18 november 2013   
 4.  Dit Deelreglement treedt in werking met ingang van 1 januari 2014.   
-5.  Het [Deelreglement Ontwikkeling](../../../../../../../../../../../../zbo/deelreglement/ontwikkeling/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032478/README.md), geldend vanaf 1 januari 2013, is per 1 januari 2014 ingetrokken.   
-6.  Op alle aanvragen die door het Fonds voor 1 januari 2014 zijn ontvangen blijft het [Deelreglement Ontwikkeling](../../../../../../../../../../../../zbo/deelreglement/ontwikkeling/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032478/README.md) zoals dit gold tot 1 januari 2014 van toepassing.   
+5.  Het Deelreglement Ontwikkeling, geldend vanaf 1 januari 2013, is per 1 januari 2014 ingetrokken.   
+6.  Op alle aanvragen die door het Fonds voor 1 januari 2014 zijn ontvangen blijft het Deelreglement Ontwikkeling zoals dit gold tot 1 januari 2014 van toepassing.   
 7.  Dit reglement wordt aangehaald als Deelreglement Ontwikkeling van de Stichting Nederlands Fonds voor de film.   
 8.  Dit reglement wordt bekendgemaakt middels kennisgeving in de Staatscourant en op de website van het Nederlands Fonds voor de Film (www.filmfonds.nl).  

@@ -2606,11 +2606,6 @@ d. als televisieprogrammakanalen via omroepzenders worden verspreid zonder dat v
 3.  Artikel 6.13, derde lid, aanhef en onderdelen a, b, d en e, is van toepassing. Artikel 6.13, derde lid, aanhef en onderdeel f, is van toepassing met dien verstande dat het aantal televisieprogrammakanalen twee bedraagt.   
 4.  Artikel 6.13, vierde lid, aanhef en onderdelen a, b, c en d, is van toepassing. Artikel 6.13, vierde lid, aanhef en onderdeel e, is van toepassing met dien verstande dat het aantal radioprogrammakanalen twee bedraagt. 
 
-### Artikel  6.14a  
-
-1.  De aanbieder van een omroepnetwerk die analoog programma-aanbod verspreidt, stelt zijn programma-aanbod op groothandelsniveau tegen kostengeoriënteerd tarief ter beschikking voor wederverkoop.   
-2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de hoogte of de vaststelling van het tarief en over de overige voorwaarden waaronder de aanbieder van een omroepnetwerk, bedoeld in het eerste lid, zijn programma-aanbod ter beschikking stelt voor wederverkoop.  
-
 ### Artikel  6.14b  
 
 Het digitale standaardprogrammapakket dat een pakketaanbieder door middel van een satelliet verspreidt of laat verspreiden, bevat in afwijking van artikel 6.13, derde en vierde lid, niet het programma-aanbod op programmakanalen als bedoeld in de onderdelen b, c, d en e van artikel 6.13, derde lid, onderscheidenlijk de onderdelen b, c en d van artikel 6.13, vierde lid. 

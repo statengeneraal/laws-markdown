@@ -3,9 +3,9 @@
 ##Algemeen Reglement van de stichting Nederlands Fonds voor de Film 
 
 De Stichting Nederlands Fonds voor de Film,  
-Gelet op het bepaalde in de [Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) (Awb);
+Gelet op het bepaalde in de Algemene wet bestuursrecht (Awb);
 
-Gelet op [artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid](../../../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
+Gelet op artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid;
 Besluit:    
 
 ### Artikel  1  
@@ -96,7 +96,7 @@ In dit reglement wordt verstaan onder:
 
 ####Toepasselijkheid
 
-Het [Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md) is van toepassing naast en in aanvulling op de deelreglementen Ontwikkeling, Realisering, Distributie en Filmactiviteiten tenzij in de betreffende deelreglementen anders is bepaald. 
+Het Algemeen Reglement is van toepassing naast en in aanvulling op de deelreglementen Ontwikkeling, Realisering, Distributie en Filmactiviteiten tenzij in de betreffende deelreglementen anders is bepaald. 
 
 ### Artikel  3  
 
@@ -200,7 +200,7 @@ b. de versterking en professionalisering van het Nederlandse filmklimaat.
 2.  Het bestuur kan in een deelreglement nadere eisen stellen aan de aanvrager.   
 3.  Niet in aanmerking voor een subsidie komen: 
 
-– een publieke of commerciële mediabedrijf in de zin van de [Mediawet](../../../../../../../../../../../../wet/mediawet/2008/BWBR0025028/README.md);  
+– een publieke of commerciële mediabedrijf in de zin van de Mediawet;  
 
 – zij die nog een (beroeps)opleiding volgen.    
 
@@ -257,7 +257,7 @@ h. aannemelijk is dat de aanvrager aan de in dit reglement vermelde subsidieverp
 
 ####Weigeringsgronden
 
-1.  Onverminderd het bepaalde in de [Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt een aanvraag voor een subsidie afgewezen, indien naar het oordeel van het bestuur niet wordt voldaan aan het bepaalde in het [Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md), waaronder, maar niet beperkt tot, [artikel 10 van het Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md) en/of het van toepassing zijnde deelreglement van het Fonds.   
+1.  Onverminderd het bepaalde in de Algemene wet bestuursrecht, wordt een aanvraag voor een subsidie afgewezen, indien naar het oordeel van het bestuur niet wordt voldaan aan het bepaalde in het Algemeen Reglement, waaronder, maar niet beperkt tot, artikel 10 van het Algemeen Reglement en/of het van toepassing zijnde deelreglement van het Fonds.   
 2.  Het bestuur heeft de mogelijkheid een lagere subsidie te verlenen dan is aangevraagd op grond van de door het bestuur vastgestelde bedragen zoals bedoeld in artikel 8.   
 3.  Een aanvraag voor subsidie kan verder worden afgewezen indien de aanvrager of de natuurlijke persoon die de aanvrager rechtsgeldig vertegenwoordigt niet aantoonbaar heeft voldaan aan voorschriften gesteld aan eerder door het bestuur toegekende subsidies, dan wel toerekenbaar tekort is geschoten in de nakoming van één of meer verplichtingen verbonden aan een eerdere subsidieverlening of een uitvoeringsovereenkomst van het Fonds.   
 4.  Een aanvraag voor een filmactiviteit of fase van een filmproductie die tweemaal eerder door het bestuur is afgewezen, wordt niet meer in behandeling genomen.  
@@ -334,7 +334,7 @@ e. verplicht zich om ‘om niet’ toestemming te verlenen voor eenmalige of bij
 
 ####Verantwoording
 
-1.  De subsidieontvanger is verplicht onverminderd het bepaalde in [artikel 4:45 Awb](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) desgevraagd de volgende bescheiden in te dienen: 
+1.  De subsidieontvanger is verplicht onverminderd het bepaalde in artikel 4:45 Awb desgevraagd de volgende bescheiden in te dienen: 
 
 a. een verslag van de filmactiviteit of een filmprint van (het onderdeel van) de filmproductie waarvoor subsidie is verleend;  
 
@@ -342,7 +342,7 @@ b. rapportages van inkomsten uit exploitatie.
 2.  Het activiteitenverslag geeft inzicht in de aard, duur en omvang van de in het kader van de subsidiëring verrichte activiteiten, alsmede in het publieksbereik. Het activiteitenverslag vergelijkt de verrichte activiteiten met de voorgenomen activiteiten in het activiteitenplan.   
 3.  Het bestuur kan de subsidieontvanger verplichten een financieel verslag inzake werkelijke kosten en opbrengsten in te dienen.   
 4.  Het financieel verslag geeft een zodanig inzicht dat een verantwoord oordeel kan worden gevormd omtrent de aanwending en de besteding van de subsidie door de subsidieontvanger en van de ontvangen financiering van derden. Het financieel verslag sluit aan op de indeling van de begroting en het financieringsplan die voorafgaand aan de subsidieverlening of bij de ondertekening van de uitvoeringsovereenkomst zijn overgelegd en door het Fonds zijn goedgekeurd volgens het Financieel & Productioneel Protocol van het Fonds. Belangrijke verschillen tussen financieel verslag en begroting en/of financieringsplan worden toegelicht.   
-5.  Het bestuur kan de subsidieontvanger verplichten om het financieel verslag te voorzien van een verklaring van de accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). In dat geval volgt de accountant het Handboek Financiële Verantwoording van het Fonds.   
+5.  Het bestuur kan de subsidieontvanger verplichten om het financieel verslag te voorzien van een verklaring van de accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. In dat geval volgt de accountant het Handboek Financiële Verantwoording van het Fonds.   
 6.  Vertegenwoordigers van het Fonds hebben op eerste verzoek inzage in de administratie die betrekking heeft op de filmproductie of de filmactiviteit waarvoor de subsidie is verleend. De kosten voor een dergelijke controle door vertegenwoordigers van het Fonds zijn voor rekening van het Fonds tenzij er verwijtbare onregelmatigheden worden aangetroffen. In een dergelijk geval worden de kosten doorberekend aan de ontvanger van subsidie.   
 7.  Het Fonds kan ongelimiteerd steekproeven houden om te controleren of aan de aan de subsidie verbonden verplichtingen is voldaan.  
 
@@ -394,7 +394,7 @@ Ter behoud van het cultureel erfgoed is het Fonds of diens rechtsopvolger gerech
 2.  Het bestuur kan om zwaarwegende redenen afwijken van dit reglement en de hierop gebaseerde deelreglementen, voor zover dergelijke afwijkingen verenigbaar zijn met het beoordelingskader voor staatssteun aan de filmsector, zoals dat wordt gehanteerd door de Europese Commissie.   
 3.  Dit reglement is vastgesteld door het bestuur met goedkeuring van de Raad van Toezicht op 18 november 2013.   
 4.  Dit reglement treedt in werking met ingang van 1 januari 2014.   
-5.  Het [Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md), geldend vanaf 1 januari 2013, is met ingang van 1 januari 2014 ingetrokken.   
-6.  Op alle aanvragen die door het Fonds voor 1 januari 2014 zijn ontvangen blijft het [Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md) zoals dit gold tot 1 januari 2014 van toepassing.   
+5.  Het Algemeen Reglement, geldend vanaf 1 januari 2013, is met ingang van 1 januari 2014 ingetrokken.   
+6.  Op alle aanvragen die door het Fonds voor 1 januari 2014 zijn ontvangen blijft het Algemeen Reglement zoals dit gold tot 1 januari 2014 van toepassing.   
 7.  Dit reglement wordt aangehaald als Algemeen Reglement van de stichting Nederlands Fonds voor de Film.   
 8.  Dit reglement wordt bekendgemaakt door kennisgeving ervan in de Staatscourant en op de website van het Fonds (www.filmfonds.nl).  
