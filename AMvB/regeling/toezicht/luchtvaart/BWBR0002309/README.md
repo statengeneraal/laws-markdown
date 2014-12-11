@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 14 november 1958, no. Jur/15760, Rijksluchtvaartdienst; 
 
-Gelet op de [artikelen 4](../../../../../wet/luchtvaartwet/BWBR0002267/README.md), tweede lid, onder *a*, 5, tweede lid, 7, eerste lid, 8, tweede lid, onder *a*, 9, eerste lid, [62](../../../../../wet/luchtvaartwet/BWBR0002267/README.md), derde lid, [76](../../../../../wet/luchtvaartwet/BWBR0002267/README.md), eerste lid, onder *a*, *c* en *f* en tweede lid, onder *b* en *c* en [80, tweede lid, van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) (*Stb.* 1958, 47); 
+Gelet op de artikelen 4, tweede lid, onder *a*, 5, tweede lid, 7, eerste lid, 8, tweede lid, onder *a*, 9, eerste lid, 62, derde lid, 76, eerste lid, onder *a*, *c* en *f* en tweede lid, onder *b* en *c* en 80, tweede lid, van de Luchtvaartwet (*Stb.* 1958, 47); 
 
 De Raad van State gehoord (advies van 16 december 1958, no. 36); 
 
@@ -20,7 +20,7 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen 
 
-1.  De begripsbepalingen, gegeven in de [Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md), zijn ook van toepassing op deze regeling.    
+1.  De begripsbepalingen, gegeven in de Luchtvaartwet, zijn ook van toepassing op deze regeling.    
 2.   Voorts wordt in deze regeling verstaan onder:  
 
 a. baan: een al dan niet verhard gedeelte van het landingsterrein, uitsluitend bestemd voor het opstijgen en/of het landen van luchtvaartuigen;   
@@ -78,7 +78,7 @@ z. JAA: Joint Aviation Authorities;
 aa. JAR: Joint Aviation Requirements;   
 
 ab. JAR-145: regeling inzake erkenning van onderhoudsbedrijven, opgesteld door de JAA.      
-3.   Voor het bij deze regeling bepaalde zijn eveneens van toepassing de begripsbepalingen voor luchtverkeersdienstverlening, luchtverkeersdienst, verkeersleiding, verkeersleidingsdienst, luchtvaartterreinverkeer, gecontroleerd luchtvaartterrein, zichtweersomstandigheden, vlucht, vliegtijd, zonsondergang, zonsopgang, landingsterrein en taxiën als omschreven in [artikel 1 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md)-1980 (*Stb.* 786).   
+3.   Voor het bij deze regeling bepaalde zijn eveneens van toepassing de begripsbepalingen voor luchtverkeersdienstverlening, luchtverkeersdienst, verkeersleiding, verkeersleidingsdienst, luchtvaartterreinverkeer, gecontroleerd luchtvaartterrein, zichtweersomstandigheden, vlucht, vliegtijd, zonsondergang, zonsopgang, landingsterrein en taxiën als omschreven in uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L281) en het Besluit luchtverkeer 2014-1980 (*Stb.* 786).   
 
 ### Artikel  2  
 
@@ -159,22 +159,22 @@ Vervallen per 20-01-2010
 
 ### Artikel  158  
 
-####Aanvraag ontheffingen ex [artikel 14](../../../../../wet/luchtvaartwet/BWBR0002267/README.md), [31](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) en [33 van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) en toestemming luchtvaartvertoningen en luchtvaartwedstrijden 
+####Aanvraag ontheffingen ex artikel 14, 31 en 33 van de Luchtvaartwet en toestemming luchtvaartvertoningen en luchtvaartwedstrijden 
 
-1.  Voor het verkrijgen van toestemming tot het houden van een luchtvaartvertoning of luchtvaartwedstrijd, als bedoeld in [artikel 17 van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md), moet ten minste drie weken voor de dag van de vertoning of van de wedstrijd een daartoe strekkend verzoekschrift worden ingediend bij Onze Minister.  Hierbij moet zijn gevoegd:  
+1.  Voor het verkrijgen van toestemming tot het houden van een luchtvaartvertoning of luchtvaartwedstrijd, als bedoeld in artikel 17 van de Luchtvaartwet, moet ten minste drie weken voor de dag van de vertoning of van de wedstrijd een daartoe strekkend verzoekschrift worden ingediend bij Onze Minister.  Hierbij moet zijn gevoegd:  
 
 a. een omschrijving van de vertoning of van de wedstrijd met aanduiding van het (de) te gebruiken terrein(en) en van de te volgen route, alsmede met vermelding in hoeverre kunstvluchten zullen plaatshebben;   
 
-b. een verzoek om ontheffing van de verbodsbepaling van [artikel 14, lid 1, van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md), indien een terrein, niet zijnde luchtvaartterrein, zal worden gebruikt.   
+b. een verzoek om ontheffing van de verbodsbepaling van artikel 14, lid 1, van de Luchtvaartwet, indien een terrein, niet zijnde luchtvaartterrein, zal worden gebruikt.   
 
 c. een schriftelijke verklaring of verklaringen, dat tegen de te houden vertoning of wedstrijd geen bezwaar bestaat, welke in het geval van een vertoning dient(en) te worden afgegeven door de burgemeester(s) van de gemeente(n) waar deze zal worden gehouden en, in geval van een wedstrijd, door de burgemeester(s) van de gemeente(n) waar deze eindigt.      
-2.   Door Onze Minister kunnen nadere regelen worden gegeven, waaraan voldaan moet worden ter verkrijging en gebruik van een toestemming als bedoeld in [artikel 17 eerste lid van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md).   
+2.   Door Onze Minister kunnen nadere regelen worden gegeven, waaraan voldaan moet worden ter verkrijging en gebruik van een toestemming als bedoeld in artikel 17 eerste lid van de Luchtvaartwet.   
 
 ### Artikel  158a  
 
 ####Aanvraag ontheffingen 
 
-1.  Voor het aanvragen van een ontheffing van het in [artikel 14, eerste lid, van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) vervatte verbod, moet tenminste 21 dagen voor de eerste dag waarop het terrein zal worden gebruikt een daartoe strekkend verzoekschrift worden ingediend bij Onze Minister.    
+1.  Voor het aanvragen van een ontheffing van het in artikel 14, eerste lid, van de Luchtvaartwet vervatte verbod, moet tenminste 21 dagen voor de eerste dag waarop het terrein zal worden gebruikt een daartoe strekkend verzoekschrift worden ingediend bij Onze Minister.    
 2.   Bij het verzoekschrift moeten worden overlegd:  
 
 1. een verzoek tot ontheffing;   
@@ -197,10 +197,10 @@ c. een schriftelijke verklaring of verklaringen, dat tegen de te houden vertonin
 
 10. een schriftelijke verklaring van de aanvrager dat het beoogde terrein aan de gestelde criteria voor een veilig gebruik voldoet.      
 3.   Indien de ontheffing voor drie dagen of minder wordt aangevraagd, is het gestelde in het tweede lid van dit artikel van toepassing met dien verstande dat de verklaringen als bedoeld onder 8 en 9 tijdens het daadwerkelijke gebruik van het terrein ter inzage aanwezig moeten zijn.    
-4.   Voor het aanvragen van een ontheffing van het in [artikel 14, eerste lid, van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) vervatte verbod ten behoeve van het opstijgen met een vrije bemande ballon geldt in afwijking van het gestelde in het eerste lid, een termijn van 14 dagen.    
+4.   Voor het aanvragen van een ontheffing van het in artikel 14, eerste lid, van de Luchtvaartwet vervatte verbod ten behoeve van het opstijgen met een vrije bemande ballon geldt in afwijking van het gestelde in het eerste lid, een termijn van 14 dagen.    
 5.   De betaling van de krachtens artikel 159 vastgestelde vergoeding dient op de in artikel 160 aangegeven wijze te geschieden tenminste 21 dagen voor de eerste datum waarvoor de ontheffing wordt aangevraagd, met uitzondering van een aanvraag als bedoeld in het vierde lid, ten aanzien waarvan voor de betaling de termijn op 14 dagen is gesteld.    
-6.   Voor het aanvragen van een ontheffing van het in [artikel 31, eerste lid onder *a* en *b* van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) vervatte verbod, moet tenminste 21 dagen voor het begin van de periode waarvoor de aanvrage geldt een daartoe strekkend verzoekschrift worden ingediend bij Onze Minister. Het gestelde in het vijfde lid is van overeenkomstige toepassing.    
-7.   Voor het aanvragen van een ontheffing van het in [artikel 33, eerste lid onder *a, b* en c van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) vervatte verbod, moet tenminste 21 dagen voor het begin van de periode waarvoor de aanvrage geldt, een daartoe strekkend verzoekschrift worden ingediend bij Onze Minister. Het gestelde in het vijfde lid is van overeenkomstige toepassing.    
+6.   Voor het aanvragen van een ontheffing van het in artikel 31, eerste lid onder *a* en *b* van de Luchtvaartwet vervatte verbod, moet tenminste 21 dagen voor het begin van de periode waarvoor de aanvrage geldt een daartoe strekkend verzoekschrift worden ingediend bij Onze Minister. Het gestelde in het vijfde lid is van overeenkomstige toepassing.    
+7.   Voor het aanvragen van een ontheffing van het in artikel 33, eerste lid onder *a, b* en c van de Luchtvaartwet vervatte verbod, moet tenminste 21 dagen voor het begin van de periode waarvoor de aanvrage geldt, een daartoe strekkend verzoekschrift worden ingediend bij Onze Minister. Het gestelde in het vijfde lid is van overeenkomstige toepassing.    
 8.   Artikel 158, derde lid, is van overeenkomstige toepassing.   
 
 ### Hoofdstuk  X  
@@ -211,7 +211,7 @@ c. een schriftelijke verklaring of verklaringen, dat tegen de te houden vertonin
 
 ####Vaststelling 
 
-1.  Onze Minister wijst de werkzaamheden en dienstverleningen, verbonden aan de toepassing van de bepalingen van de [Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) en zijn uitvoeringsmaatregelen, aan, voor het verrichten waarvan een vergoeding van de daarmee voor de overheid verband houdende kosten verschuldigd is door belanghebbende en stelt de verschuldigde vergoeding vast.    
+1.  Onze Minister wijst de werkzaamheden en dienstverleningen, verbonden aan de toepassing van de bepalingen van de Luchtvaartwet en zijn uitvoeringsmaatregelen, aan, voor het verrichten waarvan een vergoeding van de daarmee voor de overheid verband houdende kosten verschuldigd is door belanghebbende en stelt de verschuldigde vergoeding vast.    
 2.   Voor een keuring onderscheidenlijk een herkeuring is een vergoeding verschuldigd, welke wordt berekend naar een door de arts als bedoeld in artikel 32, tweede lid, onderscheidenlijk de herkeuringscommissie als bedoeld in artikel 33 vastgesteld tarief. Dit tarief behoeft de instemming van Onze Minister. Indien uit de uitslag van de herkeuring blijkt, dat de aanvrager terecht tegen de uitslag van de keuring in beroep is gegaan, zal hem het voor de herkeuring gestorte bedrag worden terugbetaald. Voor de keuring als bedoeld in artikel 27, eerste lid is geen vergoeding verschuldigd. Voor een geldigverklaring van een reeds met gunstige uitslag ondergane militaire vliegmedische keuring of een keuring ondergaan als lid van het stuurhutpersoneel van een burgerlijk vliegtuig in een Staat, welke is aangesloten bij de Internationale Burgerluchtvaart Organisatie, is een vergoeding verschuldigd, welke wordt berekend naar een door de bovenbedoelde arts vastgesteld tarief. Dit tarief behoeft de instemming van Onze Minister.   
 
 ### Artikel  160  
@@ -229,7 +229,7 @@ c. een schriftelijke verklaring of verklaringen, dat tegen de te houden vertonin
 
 ### Artikel  166  
 
-Overtreding van artikel 96, vierde lid, is een strafbaar feit als bedoeld in [artikel 62, derde lid, van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md). 
+Overtreding van artikel 96, vierde lid, is een strafbaar feit als bedoeld in artikel 62, derde lid, van de Luchtvaartwet. 
 
 ### Artikel  167  
 
@@ -253,7 +253,7 @@ Het Koninklijk besluit van 6 december 1928, *Stb.* 454 (Regeling Toezicht Luchtv
 
 ####Inwerkingtreding 
 
-Dit besluit treedt in werking op het tijdstip, waarop de [Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) in werking treedt.  
+Dit besluit treedt in werking op het tijdstip, waarop de Luchtvaartwet in werking treedt.  
 
 Onze Minister van Verkeer en Waterstaat is belast met de uitvoering van dit besluit, hetwelk in het *Staatsblad* zal worden geplaatst en waarvan afschrift zal worden gezonden aan de Raad van State.    
 

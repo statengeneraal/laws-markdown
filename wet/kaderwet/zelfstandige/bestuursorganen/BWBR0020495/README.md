@@ -22,7 +22,7 @@ b. Onze Minister: Onze Minister wie het aangaat.
 
 ### Artikel  2  
 
-1.  Deze wet is niet van toepassing op zelfstandige bestuursorganen die uitsluitend met openbaar gezag zijn bekleed voor zover zij bevoegd zijn besluiten te nemen op grond van de [Wet openbaarheid van bestuur](../../../../../wet/wet/openbaarheid/van/bestuur/BWBR0005252/README.md) of op grond van de bevoegdheid tot het nemen van besluiten of het verrichten van handelingen ten aanzien van een ambtenaar als bedoeld in [artikel 1 van de Ambtenarenwet](../../../../../wet/ambtenarenwet/BWBR0001947/README.md) als zodanig, zijn nagelaten betrekkingen of zijn rechtverkrijgenden.   
+1.  Deze wet is niet van toepassing op zelfstandige bestuursorganen die uitsluitend met openbaar gezag zijn bekleed voor zover zij bevoegd zijn besluiten te nemen op grond van de Wet openbaarheid van bestuur of op grond van de bevoegdheid tot het nemen van besluiten of het verrichten van handelingen ten aanzien van een ambtenaar als bedoeld in artikel 1 van de Ambtenarenwet als zodanig, zijn nagelaten betrekkingen of zijn rechtverkrijgenden.   
 2.  Op zelfstandige bestuursorganen die vóór het tijdstip van inwerkingtreding van deze wet zijn ingesteld, is deze wet van toepassing indien dit in de in artikel 1, onder a, bedoelde wet, algemene maatregel van bestuur of ministeriële regeling is bepaald.  
 
 ### Artikel  3  
@@ -102,7 +102,7 @@ Dit hoofdstuk is van toepassing op zelfstandige bestuursorganen die orgaan zijn 
 1.  Aan het lidmaatschap van een zelfstandig bestuursorgaan is een bezoldiging dan wel een schadeloosstelling verbonden.   
 2.  Onze Minister stelt de bezoldiging of de schadeloosstelling vast.   
 3.  Buiten de bezoldiging of de schadeloosstelling en de vergoeding van bijzondere kosten in verband met zijn functie geniet een lid van een zelfstandig bestuursorgaan dat geen onderdeel is van de Staat, geen inkomsten ten laste van de rechtspersoon waartoe het zelfstandig bestuursorgaan behoort.   
-4.  Ten aanzien van de leden van een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de Staat, wordt met overeenkomstige toepassing van [artikel 383 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) verslag gedaan in het jaarverslag, bedoeld in artikel 18.  
+4.  Ten aanzien van de leden van een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de Staat, wordt met overeenkomstige toepassing van artikel 383 van Boek 2 van het Burgerlijk Wetboek verslag gedaan in het jaarverslag, bedoeld in artikel 18.  
 
 ### Artikel  15  
 
@@ -249,8 +249,8 @@ g. het doen van aangifte tot zijn faillissement of het aanvragen van zijn sursé
 
 ### Artikel  35  
 
-1.  De jaarrekening, waarin rekening en verantwoording wordt afgelegd van het financieel beheer en van de geleverde prestaties over het verstreken boekjaar, wordt ingericht zoveel mogelijk met overeenkomstige toepassing van [titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
-2.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door het zelfstandig bestuursorgaan aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). Bij de aanwijzing van de accountant bedingt een zelfstandig bestuursorgaan dat aan Onze Minister desgevraagd inzicht wordt geboden in de controlewerkzaamheden van de accountant.   
+1.  De jaarrekening, waarin rekening en verantwoording wordt afgelegd van het financieel beheer en van de geleverde prestaties over het verstreken boekjaar, wordt ingericht zoveel mogelijk met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk Wetboek.   
+2.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door het zelfstandig bestuursorgaan aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. Bij de aanwijzing van de accountant bedingt een zelfstandig bestuursorgaan dat aan Onze Minister desgevraagd inzicht wordt geboden in de controlewerkzaamheden van de accountant.   
 3.  De verklaring, bedoeld in het tweede lid, heeft mede betrekking op de rechtmatige inning en besteding van de middelen door een zelfstandig bestuursorgaan.   
 4.  De accountant voegt bij de verklaring, bedoeld in het tweede lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie van een zelfstandig bestuursorgaan voldoen aan eisen van doelmatigheid.  
 
@@ -260,7 +260,7 @@ g. het doen van aangifte tot zijn faillissement of het aanvragen van zijn sursé
 
 ### Artikel  36  
 
-Deze afdeling is van toepassing op zelfstandige bestuursorganen die orgaan zijn van een krachtens privaatrecht opgerichte rechtspersoon, tenzij [titel 4.2 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op dat zelfstandig bestuursorgaan van toepassing is. 
+Deze afdeling is van toepassing op zelfstandige bestuursorganen die orgaan zijn van een krachtens privaatrecht opgerichte rechtspersoon, tenzij titel 4.2 van de Algemene wet bestuursrecht op dat zelfstandig bestuursorgaan van toepassing is. 
 
 ### Artikel  37  
 

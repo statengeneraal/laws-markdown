@@ -497,7 +497,7 @@ Bij gebreke van aanbieding ter betaling van den wisselbrief binnen den termijn, 
 
 1.  De betaling van eenen wisselbrief moet gevraagd en het daarop volgende protest gedaan worden ter woonplaats van den betrokkene.    
 2.  Indien de wisselbrief getrokken is om in eene andere aangewezene woonplaats of door eenen anderen aangewezen persoon, hetzij in dezelfde, hetzij in eene andere gemeente te worden betaald, moet de betaling gevraagd en het protest opgemaakt worden ter aangewezene woonplaats of aan den aangewezen persoon.    
-3.   [Artikel 54 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing.   
+3.   Artikel 54 van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing.   
 
 ### Artikel  143b  
 
@@ -721,11 +721,11 @@ De houder, die weigert de betaling bij tusschenkomst aan te nemen, verliest zijn
 
 ###Artikel 167a 
 
-Degene die een wisselbrief, waarvan hij houder was, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) van de betrokkene betaling vragen. 
+Degene die een wisselbrief, waarvan hij houder was, vermist, kan met inachtneming van artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek van de betrokkene betaling vragen. 
 
 ###Artikel 167b 
 
-Degene die een wisselbrief waarvan hij houder was, en welke is vervallen, en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), zijn rechten alleen tegen de acceptant en tegen de trekker uitoefenen. 
+Degene die een wisselbrief waarvan hij houder was, en welke is vervallen, en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek, zijn rechten alleen tegen de acceptant en tegen de trekker uitoefenen. 
 
 ### Tiende  afdeeling  
 
@@ -748,12 +748,12 @@ Behoudens de bepaling van het volgende artikel gaat wisselschuld te niet door al
 1. Alle rechtsvorderingen, welke uit den wisselbrief tegen den acceptant voortspruiten, verjaren door een tijdsverloop van drie jaren, te rekenen van den vervaldag. 
 2. De rechtsvorderingen van den houder tegen de endossanten en tegen den trekker verjaren door een tijdsverloop van een jaar, te rekenen van de dagteekening van het tijdig opgemaakte protest of, ingeval van de clausule zonder kosten, van den vervaldag. 
 3. De rechtsvorderingen van de endossanten tegen elkander en tegen den trekker verjaren door tijdsverloop van zes maanden, te rekenen van den dag, waarop de endossant ter voldoening aan zijnen regresplicht den wisselbrief heeft betaald, of van den dag, waarop hij zelf in rechte is aangesproken. 
-4. De in het eerste lid bedoelde verjaring kan niet worden ingeroepen door den acceptant, indien of voor zoover hij fonds heeft ontvangen of zich ongerechtvaardigd zou hebben verrijkt; evenmin kan de in het tweede en derde lid bedoelde verjaring worden ingeroepen door den trekker, indien of voor zoover hij geen fonds heeft bezorgd noch door den trekker of de endossanten, die zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in [artikel 306 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). 
+4. De in het eerste lid bedoelde verjaring kan niet worden ingeroepen door den acceptant, indien of voor zoover hij fonds heeft ontvangen of zich ongerechtvaardigd zou hebben verrijkt; evenmin kan de in het tweede en derde lid bedoelde verjaring worden ingeroepen door den trekker, indien of voor zoover hij geen fonds heeft bezorgd noch door den trekker of de endossanten, die zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in artikel 306 van Boek 3 van het Burgerlijk Wetboek. 
 
 ###Artikel 170 
 
 1. De stuiting der verjaring is slechts van kracht tegen dengene, ten aanzien van wien de stuitingshandeling heeft plaats gehad. 
-2. Op de in het vorige artikel bedoelde verjaringen is [artikel 321, eerste lid, onder *a-d* van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niet van toepassing; in de gevallen bedoeld in [artikel 321, eerste lid, onder *b* en *c*, van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder. 
+2. Op de in het vorige artikel bedoelde verjaringen is artikel 321, eerste lid, onder *a-d* van Boek 3 van het Burgerlijk Wetboek niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder *b* en *c*, van Boek 3 van het Burgerlijk Wetboek heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder. 
 
 ### Twaalfde  afdeeling  
 
@@ -1107,7 +1107,7 @@ De houder kan zijn recht van regres uitoefenen op de endossanten, den trekker en
 
 1.  De betaling van eene chèque moet gevraagd en het daaropvolgend protest gedaan worden ter woonplaatse van den betrokkene.    
 2.  Indien de chèque getrokken is om in een andere aangewezen woonplaats of door een anderen aangewezen persoon, hetzij in dezelfde, hetzij in een andere gemeente te worden betaald, moet de betaling gevraagd en het protest opgemaakt worden ter aangewezene woonplaats of aan den aangewezen persoon.    
-3.   [Artikel 54 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) is van overeenkomstige toepassing.   
+3.   Artikel 54 van het Wetboek van Burgerlijke Rechtsvordering is van overeenkomstige toepassing.   
 
 ### Artikel  218b  
 
@@ -1204,11 +1204,11 @@ Behoudens de chèques aan toonder, kan elke chèque, uitgegeven in een land en b
 
 ### Artikel  227a  
 
-Degene die de cheque waarvan hij houder was, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) van de betrokkene betaling vragen.  
+Degene die de cheque waarvan hij houder was, vermist, kan met inachtneming van artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek van de betrokkene betaling vragen.  
 
 ### Artikel  227b  
 
-Degene die een cheque waarvan hij houder was, en welke is vervallen en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) zijn rechten alleen tegen de trekker uitoefenen.  
+Degene die een cheque waarvan hij houder was, en welke is vervallen en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek zijn rechten alleen tegen de trekker uitoefenen.  
 
 ### Achtste  afdeeling  
 
@@ -1230,12 +1230,12 @@ Behoudens de bepalingen van het volgende artikel gaat schuld uit eene chèque te
 
 1. De regresvorderingen van den houder tegen de endossanten, den trekker en de andere chèqueschuldenaren, verjaren door een tijdsverloop van zes maanden, te rekenen van het einde van den termijn van aanbieding. 
 2. De regresvorderingen van de verschillende chèqueschuldenaren tegen elkander, die gehouden zijn tot de betaling van eene chèque, verjaren door een tijdsverloop van zes maanden, te rekenen van den dag, waarop de chèqueschuldenaar ter voldoening aan zijnen regresplicht de chèque heeft betaald, of van den dag, waarop hij zelf in rechte is aangesproken. 
-3. De in het eerste en tweede lid bedoelde verjaring kan niet worden ingeroepen door den trekker, indien of voor zoover hij geen fonds heeft bezorgd noch door den trekker of de endossanten, die zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in [artikel 306 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). 
+3. De in het eerste en tweede lid bedoelde verjaring kan niet worden ingeroepen door den trekker, indien of voor zoover hij geen fonds heeft bezorgd noch door den trekker of de endossanten, die zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in artikel 306 van Boek 3 van het Burgerlijk Wetboek. 
 
 ###Artikel 229a 
 
 1. De stuiting der verjaring is slechts van kracht tegen dengene, ten aanzien van wien de stuitingshandeling heeft plaats gehad. 
-2. Op de in het vorige artikel bedoelde verjaringen is [artikel 321, eerste lid, onder *a-d* van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) niet van toepassing; in de gevallen bedoeld in [artikel 321, eerste lid, onder *b* en *c*, van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) heeft de onbekwame of rechthebbende, wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder. 
+2. Op de in het vorige artikel bedoelde verjaringen is artikel 321, eerste lid, onder *a-d* van Boek 3 van het Burgerlijk Wetboek niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder *b* en *c*, van Boek 3 van het Burgerlijk Wetboek heeft de onbekwame of rechthebbende, wiens rechtsvordering is verjaard, verhaal op de wettelijke vertegenwoordiger of bewindvoerder. 
 
 ### Tiende  afdeeling  
 
@@ -1295,7 +1295,7 @@ Indien de laatste dag van eenigen termijn, waaromtrent in deze Afdeeling eenige 
 ###Artikel 229k 
 
 1. Alle regtsvordering tegen de in deze Afdeeling vermelde uitgevers van papier, of tegen hen, die buiten den oorspronkelijken uitgever het papier in betaling hebben gegeven, verjaart door tijdsverloop van zes maanden, te rekenen van den dag der oorspronkelijke uitgifte. 
-2. De in het vorig lid bedoelde verjaring kan niet worden ingeroepen door den uitgever, indien of voor zoover hij geen fonds heeft bezorgd noch door den uitgever of door hen, die buiten den oorspronkelijken uitgever het papier in betaling hebben gegeven, voor zoover ze zich ongeregtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in [artikel 306 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). 
+2. De in het vorig lid bedoelde verjaring kan niet worden ingeroepen door den uitgever, indien of voor zoover hij geen fonds heeft bezorgd noch door den uitgever of door hen, die buiten den oorspronkelijken uitgever het papier in betaling hebben gegeven, voor zoover ze zich ongeregtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in artikel 306 van Boek 3 van het Burgerlijk Wetboek. 
 3. Op de in dit artikel genoemde verjaringen is het tweede lid van art. 229*a* van toepassing. 
 
 ### Achtste  titel  
@@ -1340,7 +1340,7 @@ Vervallen per 01-01-2006
 
 ### Artikel  309  
 
-1.  De betekenis van begrippen voorkomende in [Boek 8 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), met uitzondering van die voorkomende in de [artikelen 5](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [6](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [7](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) en [10](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), geldt evenzeer voor dit wetboek.   
+1.  De betekenis van begrippen voorkomende in Boek 8 van het Burgerlijk Wetboek, met uitzondering van die voorkomende in de artikelen 5, 6, 7 en 10, geldt evenzeer voor dit wetboek.   
 
 ### Eerste  titel  
 
@@ -1364,7 +1364,7 @@ a. het schip is eigendom van een of meer:
 
 4°. natuurlijke personen, vennootschappen of rechtspersonen niet bedoeld onder 1°, 2°, onderscheidenlijk 3°, die aanspraak kunnen maken op het Europese recht van vrije vestiging ingevolge een overeenkomst tussen de Europese Unie en een derde staat;    
 
-b. de eigenaar heeft in Nederland een hoofdvestiging of nevenvestiging in de zin van de [Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);  
+b. de eigenaar heeft in Nederland een hoofdvestiging of nevenvestiging in de zin van de Handelsregisterwet 2007;  
 
 c. een of meer natuurlijke personen die in Nederland kantoor houden zijn namens de eigenaar verantwoordelijk voor het schip, de kapitein en de overige leden van de bemanning, alsmede voor de daarmee verband houdende aangelegenheden en zijn dienaangaande alleen of tezamen beslissingsbevoegd en beschikken over vertegenwoordigingsbevoegdheid, en  
 
@@ -1375,7 +1375,7 @@ d. een of meer van de natuurlijke personen als bedoeld onder c of, bij verhinder
 
 ### Artikel  311a  
 
-1.  Door of namens Onze Minister van Verkeer en Waterstaat wordt ten behoeve van de teboekstelling, bedoeld in [artikel 194 van Boek 8 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), op verzoek van de reder aan deze een verklaring afgegeven, dat met betrekking tot zijn schip wordt voldaan aan de in artikel 311 genoemde vereisten. Indien met betrekking tot een schip niet langer wordt voldaan aan de in artikel 311 genoemde vereisten wordt deze verklaring door Onze Minister van Verkeer en Waterstaat ingetrokken. Van deze intrekking wordt, nadat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist, onverwijld mededeling gedaan aan de in [artikel 6 van de Kadasterwet](../../../../../wet/kadasterwet/BWBR0004541/README.md) bedoelde bewaarder van het kadaster en de openbare registers van het kantoor waar het schip te boek staat.    
+1.  Door of namens Onze Minister van Verkeer en Waterstaat wordt ten behoeve van de teboekstelling, bedoeld in artikel 194 van Boek 8 van het Burgerlijk Wetboek, op verzoek van de reder aan deze een verklaring afgegeven, dat met betrekking tot zijn schip wordt voldaan aan de in artikel 311 genoemde vereisten. Indien met betrekking tot een schip niet langer wordt voldaan aan de in artikel 311 genoemde vereisten wordt deze verklaring door Onze Minister van Verkeer en Waterstaat ingetrokken. Van deze intrekking wordt, nadat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist, onverwijld mededeling gedaan aan de in artikel 6 van de Kadasterwet bedoelde bewaarder van het kadaster en de openbare registers van het kantoor waar het schip te boek staat.    
 2.   Bij algemene maatregel van bestuur kunnen regels worden gesteld betreffende de schriftelijke bewijsstukken en andere gegevens die de reder bij de aanvraag van de verklaring, bedoeld in het eerste lid, dient te verstrekken, alsmede betreffende het toezicht op het voldoen aan de in artikel 311 genoemde vereisten.    
 3.   De kosten van aanvraag en afgifte van een verklaring als bedoeld in de eerste volzin van het eerste lid, komen ten laste van de aanvrager. Het tarief voor deze kosten wordt vastgesteld bij regeling van Onze Minister van Verkeer en Waterstaat.   
 
@@ -1401,7 +1401,7 @@ De bepalingen van de artikelen 311 en 312 zijn niet van toepassing op schepen, a
 
 ###Artikel 340 
 
-In deze titel wordt verstaan onder Nederlands schip: een schip dat Nederlands is op grond van artikel 311 van dit boek, dan wel op grond van [artikel 5 van de Wet nationaliteit zeeschepen in rompbevrachting](../../../../../wet/wet/nationaliteit/zeeschepen/in/rompbevrachting/BWBR0005681/README.md) . 
+In deze titel wordt verstaan onder Nederlands schip: een schip dat Nederlands is op grond van artikel 311 van dit boek, dan wel op grond van artikel 5 van de Wet nationaliteit zeeschepen in rompbevrachting . 
 
 ### Derde  titel  
 
@@ -1430,7 +1430,7 @@ De kapitein mag gedurende de vaart of bij dreigend gevaar het schip niet verlate
 
 ###Artikel 347 
 
-1. De kapitein moet aan boord voorzien zijn van: den zeebrief, den meetbrief en een uittreksel uit de registratie voor schepen als bedoeld in [artikel 101, eerste lid, van de Kadasterwet](../../../../../wet/kadasterwet/BWBR0004541/README.md) vermeldende tenminste de gegevens, bedoeld in [artikel 85, tweede lid, onder *a*, *c*, *d*, *e*, *f*, *g* en *j*, van die wet](../../../../../wet/kadasterwet/BWBR0004541/README.md), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, met dien verstande dat, ingeval dat uittreksel meer dan één dag vóór die van het laatste vertrek van het schip uit een Nederlandse haven is afgegeven, op dat uittreksel een verklaring van de bewaarder van het kadaster en de openbare registers moet voorkomen dat sedert de afgifte de op dat uittreksel vermelde gegevens blijkens de stukken, ingeschreven in de desbetreffende openbare registers tot op de dag vóór die van het vertrek, geen wijziging hebben ondergaan; het manifest der lading, de charter-partij en de cognossementen, dan wel afschriften van die stukken; de Nederlandsche wetten en reglementen op de reis van toepassing, en alle verdere noodige papieren. 
+1. De kapitein moet aan boord voorzien zijn van: den zeebrief, den meetbrief en een uittreksel uit de registratie voor schepen als bedoeld in artikel 101, eerste lid, van de Kadasterwet vermeldende tenminste de gegevens, bedoeld in artikel 85, tweede lid, onder *a*, *c*, *d*, *e*, *f*, *g* en *j*, van die wet, alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, met dien verstande dat, ingeval dat uittreksel meer dan één dag vóór die van het laatste vertrek van het schip uit een Nederlandse haven is afgegeven, op dat uittreksel een verklaring van de bewaarder van het kadaster en de openbare registers moet voorkomen dat sedert de afgifte de op dat uittreksel vermelde gegevens blijkens de stukken, ingeschreven in de desbetreffende openbare registers tot op de dag vóór die van het vertrek, geen wijziging hebben ondergaan; het manifest der lading, de charter-partij en de cognossementen, dan wel afschriften van die stukken; de Nederlandsche wetten en reglementen op de reis van toepassing, en alle verdere noodige papieren. 
 2. Ten aanzien van de charter-partij en de cognossementen geldt deze verplichting niet in de door Ons te omschrijven omstandigheden. 
 
 ### Artikel  348  
@@ -1518,7 +1518,7 @@ Noch de kapitein, noch een opvarende mag voor eigen rekening goederen in het sch
 ###Artikel 374 
 
 1. Artikel 347, het tweede lid van artikel 348 en artikel 349, eerste lid, zijn niet van toepassing op zeevissersschepen. 
-2. Aan boord moeten aanwezig zijn een uittreksel uit de registratie voor schepen als bedoeld in [artikel 101, eerste lid, van de Kadasterwet](../../../../../wet/kadasterwet/BWBR0004541/README.md) vermeldende tenminste de gegevens, bedoeld in [artikel 85, tweede lid, onder *a*, *c*, *d*, *e*, *f*, *g* en *j*, van die wet](../../../../../wet/kadasterwet/BWBR0004541/README.md), alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, welk uittreksel op een zodanig tijdstip moet zijn afgegeven door de bewaarder van het kadaster en de openbare registers dat de daarin vermelde gegevens overeenstemmen met die welke in de registratie voor schepen ten aanzien van het betrokken schip staan vermeld ten tijde van het uitvaren van dat schip, en de wetten en reglementen op deze schepen van toepassing. 
+2. Aan boord moeten aanwezig zijn een uittreksel uit de registratie voor schepen als bedoeld in artikel 101, eerste lid, van de Kadasterwet vermeldende tenminste de gegevens, bedoeld in artikel 85, tweede lid, onder *a*, *c*, *d*, *e*, *f*, *g* en *j*, van die wet, alsmede de gegevens omtrent niet doorgehaalde voorlopige aantekeningen, welk uittreksel op een zodanig tijdstip moet zijn afgegeven door de bewaarder van het kadaster en de openbare registers dat de daarin vermelde gegevens overeenstemmen met die welke in de registratie voor schepen ten aanzien van het betrokken schip staan vermeld ten tijde van het uitvaren van dat schip, en de wetten en reglementen op deze schepen van toepassing. 
 
 ### Artikel  388  
 
@@ -1825,5 +1825,5 @@ Vervallen per 01-01-2006
 
 ### Artikel  958  
 
-De [Algemene termijnenwet](../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de termijnen, gesteld in de hierna genoemde onderdelen van dit wetboek:  van het eerste boek:  Artikel 82 tweede lid, Titel IV derde en vierde afdeling en de Titels VI en VII;  van het tweede boek:  de Titels III, IV en Titel IX derde afdeling.  Zij is echter wel van toepassing op de termijnen, gesteld in de artikelen 419 en 451e.  
+De Algemene termijnenwet is niet van toepassing op de termijnen, gesteld in de hierna genoemde onderdelen van dit wetboek:  van het eerste boek:  Artikel 82 tweede lid, Titel IV derde en vierde afdeling en de Titels VI en VII;  van het tweede boek:  de Titels III, IV en Titel IX derde afdeling.  Zij is echter wel van toepassing op de termijnen, gesteld in de artikelen 419 en 451e.  
 

@@ -18,7 +18,7 @@ Voor de toepassing van het bij of krachtens deze wet bepaalde wordt verstaan ond
 
 a. luchtvaart: het gebruik van luchtvaartuigen;   
 
-b. luchtvaartuig: toestel, bedoeld in [artikel 1.1, eerste lid, van de Wet luchtvaart](../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+b. luchtvaartuig: toestel, bedoeld in artikel 1.1, eerste lid, van de Wet luchtvaart;  
 
 c. vliegtuigen: luchtvaartuigen zwaarder dan lucht en voorzien van een voortstuwingsinrichting;   
 
@@ -153,7 +153,7 @@ a. luchtvaartterreinen: een luchtvaartterrein dat mede wordt gebruikt voor verke
 
 b. beveiligingspersoneel:  
 
-1°. personen in dienst van een door de exploitant van een luchtvaartterrein met de uitvoering van de beveiliging belaste particuliere beveiligingsorganisatie, waaraan door Onze Minister van Justitie een vergunning is verleend als bedoeld in [artikel 3 van de Wet particuliere beveiligingsorganisaties en recherchebureaus](../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md), en  
+1°. personen in dienst van een door de exploitant van een luchtvaartterrein met de uitvoering van de beveiliging belaste particuliere beveiligingsorganisatie, waaraan door Onze Minister van Justitie een vergunning is verleend als bedoeld in artikel 3 van de Wet particuliere beveiligingsorganisaties en recherchebureaus, en  
 
 2°. de door Onze Minister van Justitie aangewezen ambtenaren van politie, ambtenaren van de Koninklijke marechaussee en de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane;     
 
@@ -167,7 +167,7 @@ e. bagage: goederen toebehorende aan passagiers,
 
 2°. die deze in verband met hun reis aan de luchtvaartmaatschappij hebben afgegeven teneinde in het ruim van het luchtvaartuig te worden vervoerd als ruimbagage;    
 
-f. vracht: goederen, niet zijnde bagage, die voor vervoer door de lucht worden aangeboden, daaronder begrepen poststukken als bedoeld in [artikel 2, onderdeel b, van de Postwet 2009](../../../wet/postwet/2009/BWBR0025572/README.md), tenzij deze goederen door de lucht worden aangevoerd en het vliegtuig niet verlaten.     
+f. vracht: goederen, niet zijnde bagage, die voor vervoer door de lucht worden aangeboden, daaronder begrepen poststukken als bedoeld in artikel 2, onderdeel b, van de Postwet 2009, tenzij deze goederen door de lucht worden aangevoerd en het vliegtuig niet verlaten.     
 2.   Met betrekking tot militaire luchtvaartterreinen waarvan delen uitsluitend ten behoeve van de burgerluchtvaart worden gebruikt, wordt in afwijking van artikel 1, eerste lid, onder d, voor de toepassing van deze afdeling als exploitant van een luchtvaartterrein aangemerkt, de bij koninklijk besluit aan te wijzen rechtspersoon aan wie het medegebruik ten behoeve van de burgerluchtvaart is verleend.    
 3.   Een koninklijk besluit als bedoeld in het tweede lid wordt genomen op voordracht van Onze Minister van Verkeer en Waterstaat in overeenstemming met Onze Ministers van Justitie en van Defensie.   
 
@@ -205,7 +205,7 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ten
 
 1. De exploitant van een luchtvaartterrein draagt ervoor zorg dat het beveiligingspersoneel, bedoeld in artikel 37a, eerste lid, onderdeel b, onder 1, en het personeel dat werkzaam is op de delen van het luchtvaartterrein, bedoeld in artikel 37b, eerste lid, onderdeel a tot en met c, met uitzondering van het beveiligingspersoneel, bedoeld in artikel 37a, eerste lid, onderdeel b, onder 2, een opleiding in het kader van de beveiliging van de burgerluchtvaart hebben gevolgd.
 2. De luchtvaartmaatschappij draagt ervoor zorg dat het personeel dat belast is met de taken, bedoeld in artikel 37g, en het personeel dat direct toegang heeft tot of belast is met de beveiliging van luchtvracht, een opleiding in het kader van de beveiliging van de burgerluchtvaart hebben gevolgd.
-3. De houder van de concessie, bedoeld in [artikel 2a van de Postwet](../../../wet/postwet/BWBR0004423/README.md), draagt ervoor zorg dat het personeel dat direct toegang heeft tot of belast is met de beveiliging van luchtpost, een opleiding in het kader van de beveiliging van de burgerluchtvaart heeft gevolgd.
+3. De houder van de concessie, bedoeld in artikel 2a van de Postwet, draagt ervoor zorg dat het personeel dat direct toegang heeft tot of belast is met de beveiliging van luchtpost, een opleiding in het kader van de beveiliging van de burgerluchtvaart heeft gevolgd.
 4. De personen, bedoeld in artikel 37p, eerste lid, dragen ervoor zorg dat het personeel dat direct toegang heeft tot of belast is met de beveiliging van luchtvracht, een opleiding in het kader van de beveiliging van de burgerluchtvaart heeft gevolgd.
 
 ### §  2  
@@ -275,7 +275,7 @@ b. de bijzondere procedures en maatregelen voor situaties als bedoeld in artikel
 c. de maatregelen en procedures in geval van dreiging van onwettige daden van geweld, bomalarm, kaping of gewapende aanvallen op het luchtvaartterrein en   
 
 d. andere bij algemene maatregel van bestuur te bepalen onderwerpen.      
-3.  Met het oog op de afstemming met het crisisplan, bedoeld in [artikel 16 van de Wet veiligheidsregio’s](../../../wet/wet/veiligheidsregio's/BWBR0027466/README.md), wordt het bestuur van de veiligheidsregio in de gelegenheid gesteld zijn zienswijze te geven over een ontwerp van een plan als bedoeld in het eerste lid of een wijziging van dat plan.   
+3.  Met het oog op de afstemming met het crisisplan, bedoeld in artikel 16 van de Wet veiligheidsregio’s, wordt het bestuur van de veiligheidsregio in de gelegenheid gesteld zijn zienswijze te geven over een ontwerp van een plan als bedoeld in het eerste lid of een wijziging van dat plan.   
 4.  De exploitant van een luchtvaartterrein informeert uit eigen beweging Onze Minister en Onze Minister van Justitie indien het plan door omstandigheden niet kan worden uitgevoerd of daarin wijzigingen worden aangebracht. Hij verstrekt desgevraagd Onze Ministers informatie over de beveiliging van het luchtvaartterrein.   
 5.  Indien een onderdeel van het plan niet wordt uitgevoerd, kan Onze Minister van Justitie de exploitant van een luchtvaartterrein een aanwijzing geven die ertoe strekt zo veel mogelijk het oorspronkelijk in het plan aangegeven niveau van beveiliging te benaderen.  
 
@@ -329,7 +329,7 @@ c. een onderzoek, indien daartoe aanleiding is, van meegevoerde goederen en aan 
 ### Artikel  37ha  
 
 1. Een lid van het beveiligingspersoneel belast met de controle, dat de beschikking krijgt over gegevens waarvan hij het vertrouwelijk karakter kent of redelijkerwijze moet vermoeden, en voor wie niet reeds uit hoofde van ambt of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan, behoudens voor zover enig wettelijk voorschrift hem tot bekendmaking verplicht of uit zijn taak de noodzaak tot bekendmaking voortvloeit.  
-2.  Een gelijke verplichting bestaat voor degene die anders dan bedoeld in het eerste lid ten behoeve van de beveiliging van de burgerluchtvaart een vertrouwensfunctie als bedoeld in [artikel 3 van de Wet veiligheidsonderzoeken](../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md) vervult. 
+2.  Een gelijke verplichting bestaat voor degene die anders dan bedoeld in het eerste lid ten behoeve van de beveiliging van de burgerluchtvaart een vertrouwensfunctie als bedoeld in artikel 3 van de Wet veiligheidsonderzoeken vervult. 
 
 ### Artikel  37hb  
 
@@ -408,7 +408,7 @@ a. een geregistreerde als bedoeld in artikel 37p, eerste lid;
 
 b. een niet-geregistreerde voor zover de vracht afkomstig is van een geregistreerde en deze is verpakt overeenkomstig de bij regeling van Onze Minister van Justitie vast te stellen voorschriften om te voorkomen dat daaraan gevaarlijke goederen worden toegevoegd;  
 
-c. een rechtspersoon waarop een verplichting tot vervoer van voorwerpen rust ingevolge de [Postwet](../../../wet/postwet/BWBR0004423/README.md), of een overeenkomstige buitenlandse postinstelling, of  
+c. een rechtspersoon waarop een verplichting tot vervoer van voorwerpen rust ingevolge de Postwet, of een overeenkomstige buitenlandse postinstelling, of  
 
 d. de bij regeling van Onze Minister van Justitie vast te stellen categorieën van natuurlijke personen of rechtspersonen, die in het buitenland zijn gevestigd en ten aanzien waarvan op grond van internationale afspraken toereikende waarborgen aanwezig zijn dat maatregelen zijn genomen ter beveiliging van de aangeboden vracht.     
 3.  Onze Minister van Justitie kan bepalen dat de uitzondering, bedoeld in het eerste lid, niet van toepassing is op de rechtspersoon, bedoeld in het tweede lid, onderdeel c, indien er een gerechtvaardigd vermoeden is dat bepaalde vracht gevaarlijke goederen bevat.  
@@ -476,7 +476,7 @@ De geregistreerde, bedoeld in artikel 37p, doet vracht afkomstig van een niet-ge
 
 ### Artikel  37s  
 
-In verband met de taakuitoefening, bedoeld in artikel 37p, eerste lid, kan de Commandant van de Koninklijke marechaussee onderzoek doen naar de betrouwbaarheid van de geregistreerde personen, bedoeld in artikel 37p. Hij kan daartoe inlichtingen en inzage van zakelijke gegevens en bescheiden vragen alsmede kopieën daarvan maken, alsmede politiegegevens raadplegen overeenkomstig het bepaalde bij of krachtens de [Wet politiegegevens](../../../wet/wet/politiegegevens/BWBR0022463/README.md). 
+In verband met de taakuitoefening, bedoeld in artikel 37p, eerste lid, kan de Commandant van de Koninklijke marechaussee onderzoek doen naar de betrouwbaarheid van de geregistreerde personen, bedoeld in artikel 37p. Hij kan daartoe inlichtingen en inzage van zakelijke gegevens en bescheiden vragen alsmede kopieën daarvan maken, alsmede politiegegevens raadplegen overeenkomstig het bepaalde bij of krachtens de Wet politiegegevens. 
 
 ### §  5  
 
@@ -495,8 +495,8 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze afdeling,
 
 1.  Een klacht tegen beveiligingspersoneel als bedoeld in artikel 37a, eerste lid, onderdeel b, onder 1°, over een gedraging bij de uitvoering van een taak ingevolge deze afdeling, kan worden ingediend bij de Commandant van de Koninklijke marechaussee.    
 2.  De klacht wordt behandeld door Onze Minister van Justitie. Deze kan hiervoor mandaat verlenen aan de Commandant van de Koninklijke marechaussee.   
-3.   [Titel 9.1 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. De regels vastgesteld krachtens [artikel 6, onder i, van de Wet particuliere beveiligingsorganisaties](../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md) blijven buiten werking.   
-4.  Voor de toepassing van de [Wet Nationale ombudsman](../../../wet/wet/nationale/ombudsman/BWBR0003372/README.md) en [titel 9.2 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt een gedraging als bedoeld in het eerste lid, aangemerkt als een gedraging van Onze Minister van Justitie.   
+3.   Titel 9.1 van de Algemene wet bestuursrecht is van overeenkomstige toepassing. De regels vastgesteld krachtens artikel 6, onder i, van de Wet particuliere beveiligingsorganisaties blijven buiten werking.   
+4.  Voor de toepassing van de Wet Nationale ombudsman en titel 9.2 van de Algemene wet bestuursrecht wordt een gedraging als bedoeld in het eerste lid, aangemerkt als een gedraging van Onze Minister van Justitie.   
 5.  Indien de klacht zich tevens richt tegen beveiligingspersoneel als bedoeld in artikel 37a, eerste lid, onderdeel b, onder 2°, en betrekking heeft op hetzelfde feitencomplex, wordt deze behandeld volgens de procedure die geldt voor dat beveiligingspersoneel.  
 
 ### Afdeling  4  
@@ -521,7 +521,7 @@ Met het toezicht op de naleving van het bepaalde bij of krachtens deze afdeling,
 
 ###Artikel 57 
 
-1. Onverminderd de [artikelen 7, eerste lid](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md), en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 58, 59, 60 en 61 gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 58, 59, 60 en 61 gezamenlijk of afzonderlijk in werking worden gesteld.
 2. Wanneer het in het eerste lid bedoelde besluit is genomen wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 3. Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.
 4. Bij koninklijk besluit, op voordracht van Onze Minister-President, worden de bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.
@@ -562,7 +562,7 @@ c.werken te doen uitvoeren op luchtvaartterreinen;
 
 d.voorzieningen te doen uitvoeren aan de zich op luchtvaartterreinen bevindende roerende en onroerende zaken, en
 
-e.luchtvaartterreinen en de daarbij behorende gebouwen en inrichtingen, met inbegrip van woongedeelten, alsmede fabrieken, werkplaatsen en aanhorigheden, welke dienstbaar zijn aan de luchtvaart, te doen betreden voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is. In afwijking van [artikel 2 van de Algemene wet op het binnentreden](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) is het militaire gezag bevoegd zonder machtiging binnen te treden. Het militaire gezag is bevoegd een machtiging als bedoeld in [artikel 3 van de Algemene wet op het binnentreden](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) te geven. [Artikel 3 van die wet](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) is van toepassing. 
+e.luchtvaartterreinen en de daarbij behorende gebouwen en inrichtingen, met inbegrip van woongedeelten, alsmede fabrieken, werkplaatsen en aanhorigheden, welke dienstbaar zijn aan de luchtvaart, te doen betreden voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is. In afwijking van artikel 2 van de Algemene wet op het binnentreden is het militaire gezag bevoegd zonder machtiging binnen te treden. Het militaire gezag is bevoegd een machtiging als bedoeld in artikel 3 van de Algemene wet op het binnentreden te geven. Artikel 3 van die wet is van toepassing. 
 2. Op de maatregelen getroffen krachtens dit artikel zijn het tweede tot en met vijfde lid van artikel 58 van overeenkomstige toepassing met dien verstande dat voor Onze Minister wordt gelezen: Onze Minister van Defensie. 
 3. Op de maatregelen getroffen krachtens dit artikel is tevens het zesde lid van artikel 58 van overeenkomstige toepassing met dien verstande dat de voordracht geschiedt door Onze Minister van Defensie. 
 
@@ -637,7 +637,7 @@ De feiten strafbaar gesteld bij de artikelen 62a, 63, 66 en 68 zijn misdrijven. 
 
 ### Artikel  71  
 
-Als personen met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn, behalve de bij [artikel 141 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangewezen personen, belast:  
+Als personen met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn, behalve de bij artikel 141 van het Wetboek van Strafvordering aangewezen personen, belast:  
 
 a. de ambtenaren van de rijksbelastingdienst, bevoegd inzake douane;   
 
@@ -684,7 +684,7 @@ c. vervallen;
 
 d. ter beveiliging van militaire belangen;   
 
-e. ter beperking van de geluidhinder door luchtvaartuigen met uitzondering van de geluidhinder ten gevolge van de uitoefening van de burgerluchtvaart boven gebieden, aangewezen overeenkomstig [artikel 1.2, tweede lid, onder d, van de Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md);   
+e. ter beperking van de geluidhinder door luchtvaartuigen met uitzondering van de geluidhinder ten gevolge van de uitoefening van de burgerluchtvaart boven gebieden, aangewezen overeenkomstig artikel 1.2, tweede lid, onder d, van de Wet milieubeheer;   
 
 f. vervallen;   
 
@@ -727,12 +727,12 @@ Bevat wijzigingen in andere regelgeving.
 ### Artikel  80a  
 
 1.   Hoofdstuk IV van deze wet, met uitzondering van de afdelingen 3A en 5, is niet van toepassing op de luchthaven Schiphol.   
-2.  Bij toepassing van deze wet op de luchthaven Schiphol moet onder «luchtvaartterrein» en «exploitant van het luchtvaartterrein» verstaan worden: luchthavengebied onderscheidenlijk exploitant van de luchthaven als bedoeld in [hoofdstuk 8 van de Wet luchtvaart](../../../wet/wet/luchtvaart/BWBR0005555/README.md).  
+2.  Bij toepassing van deze wet op de luchthaven Schiphol moet onder «luchtvaartterrein» en «exploitant van het luchtvaartterrein» verstaan worden: luchthavengebied onderscheidenlijk exploitant van de luchthaven als bedoeld in hoofdstuk 8 van de Wet luchtvaart.  
 
 ### Artikel  80b  
 
-1.  Afdeling 3A van hoofdstuk IV is van toepassing op burgerluchthavens van regionale betekenis als bedoeld in [titel 8.3 van de Wet luchtvaart](../../../wet/wet/luchtvaart/BWBR0005555/README.md), burgerluchthavens van nationale betekenis, als bedoeld in [titel 8.4 van die wet](../../../wet/wet/luchtvaart/BWBR0005555/README.md) en militaire luchthavens waarvan delen uitsluitend ten behoeve van burgerluchtvaart worden gebruikt, als bedoeld in [titel 10.3 van die wet](../../../wet/wet/luchtvaart/BWBR0005555/README.md).   
-2.  Bij toepassing van afdeling 3A van hoofdstuk IV op burgerluchthavens van regionale betekenis, burgerluchthavens van nationale betekenis en militaire luchthavens waarvan delen uitsluitend ten behoeve van burgerluchtvaart worden gebruikt, moet onder «luchtvaartterrein» en «exploitant van het luchtvaartterrein» verstaan worden: luchthaven onderscheidenlijk exploitant van de luchthaven als bedoeld in de [Wet luchtvaart](../../../wet/wet/luchtvaart/BWBR0005555/README.md).  
+1.  Afdeling 3A van hoofdstuk IV is van toepassing op burgerluchthavens van regionale betekenis als bedoeld in titel 8.3 van de Wet luchtvaart, burgerluchthavens van nationale betekenis, als bedoeld in titel 8.4 van die wet en militaire luchthavens waarvan delen uitsluitend ten behoeve van burgerluchtvaart worden gebruikt, als bedoeld in titel 10.3 van die wet.   
+2.  Bij toepassing van afdeling 3A van hoofdstuk IV op burgerluchthavens van regionale betekenis, burgerluchthavens van nationale betekenis en militaire luchthavens waarvan delen uitsluitend ten behoeve van burgerluchtvaart worden gebruikt, moet onder «luchtvaartterrein» en «exploitant van het luchtvaartterrein» verstaan worden: luchthaven onderscheidenlijk exploitant van de luchthaven als bedoeld in de Wet luchtvaart.  
 
 ### Artikel  81  
 

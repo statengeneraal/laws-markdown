@@ -3,9 +3,9 @@
 ##Reglement Stimuleringsmaatregel Filmproductie in Nederland van de Stichting Nederlands Fonds voor de Film
 
 De Stichting Nederlands Fonds voor de Film,  
-Gelet op het bepaalde in de [Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op het bepaalde in de Algemene wet bestuursrecht;
 
-Gelet op [artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid](../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md);
+Gelet op artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid;
 Besluit:    
 
 ### Artikel  1  
@@ -201,13 +201,13 @@ o.) in geval de aanvraag een internationale coproductie betreft en de aanvrager 
 
 ####– adviescommissie –
 
-Het bestuur kan zich over de toets aan de vereisten zoals genoemd in artikel 7 laten adviseren door ad hoc adviseurs. Op hen is van toepassing [artikel 7 van het huishoudelijk reglement](../../../../../../../../../../zbo/huishoudelijk/reglement/van/het/nederlands/fonds/voor/de/film/BWBR0032480/README.md) van het Fonds. Het bestuur betrekt het advies van de ad hoc adviseurs bij zijn besluit over de aanvraag. 
+Het bestuur kan zich over de toets aan de vereisten zoals genoemd in artikel 7 laten adviseren door ad hoc adviseurs. Op hen is van toepassing artikel 7 van het huishoudelijk reglement van het Fonds. Het bestuur betrekt het advies van de ad hoc adviseurs bij zijn besluit over de aanvraag. 
 
 ### Artikel  10  
 
 ####– weigeringsgronden –
 
-Onverminderd het bepaalde in de [Awb](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt een aanvraag afgewezen indien, naar het oordeel van het bestuur: 
+Onverminderd het bepaalde in de Awb wordt een aanvraag afgewezen indien, naar het oordeel van het bestuur: 
 
 a.) de aanvrager niet voldoet dan wel niet zal voldoen aan de vereisten, criteria en bepalingen genoemd in dit reglement;  
 
@@ -334,7 +334,7 @@ b. overlegt aan het Fonds een actueel en waarheidsgetrouw overzicht van alle opb
 
 c. informeert het Fonds adequaat en schriftelijk over de première, de kosten, het publieksbereik en de opbrengsten die door distributie en exploitatie van de filmproductie, waarvoor een financiële bijdrage is verleend, worden voortgebracht;  
 
-d. is verplicht onverminderd het bepaalde in [artikel 4:45 Awb](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) een DCP en 2 DVD’s van de filmproductie waarvoor een financiële bijdrage is verleend op te leveren.     
+d. is verplicht onverminderd het bepaalde in artikel 4:45 Awb een DCP en 2 DVD’s van de filmproductie waarvoor een financiële bijdrage is verleend op te leveren.     
 2.  Het bestuur verplicht de ontvanger van de financiële bijdrage een financieel verslag in te dienen inzake werkelijke kosten en opbrengsten van de filmproductie. Dit geschiedt uiterlijk binnen vier maanden na voltooiing c.q. eerste openbaarmaking van de filmproductie, tenzij in de uitvoeringsovereenkomst een andere termijn is vastgelegd.   
 3.  Het financieel verslag geeft een zodanig inzicht dat een verantwoord oordeel kan worden gevormd omtrent 
 
@@ -344,7 +344,7 @@ d. is verplicht onverminderd het bepaalde in [artikel 4:45 Awb](../../../../../.
 
 (iii) de door de ontvanger van de financiële bijdrage en, in geval het een internationale coproductie betreft, door de producenten uit de landen van herkomst ontvangen financiering van derden.     
 4.  Het financieel verslag sluit aan op de indeling van de begroting en het financieringsplan die voorafgaand aan de verlening van de financiële bijdrage of bij de ondertekening van de uitvoeringsovereenkomst zijn overgelegd en door het Fonds zijn goedgekeurd volgens het Financieel & Productioneel Protocol Stimuleringsmaatregel van het Fonds. Belangrijke verschillen tussen financieel verslag en begroting en/of financieringsplan worden toegelicht.   
-5.  De ontvanger van de financiële bijdrage is verplicht om het financieel verslag te voorzien van een verklaring van de accountant als bedoeld in [artikel 393, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), voor zover niet anders is overeengekomen in de uitvoeringsovereenkomst. De accountant volgt het Handboek Financiële Verantwoording van het Fonds.   
+5.  De ontvanger van de financiële bijdrage is verplicht om het financieel verslag te voorzien van een verklaring van de accountant als bedoeld in artikel 393, van Boek 2 van het Burgerlijk Wetboek, voor zover niet anders is overeengekomen in de uitvoeringsovereenkomst. De accountant volgt het Handboek Financiële Verantwoording van het Fonds.   
 6.  Vertegenwoordigers van het Fonds hebben op eerste verzoek inzage in de administratie die betrekking heeft op de filmproductie waarvoor de financiële bijdrage is verleend. De ontvanger van de financiële bijdrage is verplicht in zijn budget een vaste post op te nemen voor tussentijdse en tegencontroles door het Fonds, zoals vastgelegd in het Financieel & Productioneel Protocol Stimuleringsmaatregel.   
 7.  Onverminderd het in dit artikel bepaalde kan het Fonds na verlening van de financiële bijdrage op elk door het Fonds gewenst moment controleren of aan de verplichtingen verbonden aan de financiële bijdrage is voldaan. Deze controle kan zich ook richten op de in artikel 14, tweede lid sub d.) genoemde derden en, in geval de verlening van de financiële bijdrage een internationale coproductie betreft, op de daarbij betrokken coproducenten.  
 
@@ -370,7 +370,7 @@ d. is verplicht onverminderd het bepaalde in [artikel 4:45 Awb](../../../../../.
 
 ####– wijziging, intrekking en terugvordering –
 
-Het bestuur kan, zolang de financiële bijdrage niet is vastgesteld, de verlening van de financiële bijdrage intrekken of ten nadele van de ontvanger van de financiële bijdrage wijzigen, indien één van de in [artikel, 4:48, eerste lid, van de Awb](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) genoemde gevallen of omstandigheden zich voordoen, waaronder: 
+Het bestuur kan, zolang de financiële bijdrage niet is vastgesteld, de verlening van de financiële bijdrage intrekken of ten nadele van de ontvanger van de financiële bijdrage wijzigen, indien één van de in artikel, 4:48, eerste lid, van de Awb genoemde gevallen of omstandigheden zich voordoen, waaronder: 
 
 a. de omstandigheid dat de ontvanger van de financiële bijdrage niet heeft voldaan aan de verplichtingen verbonden aan de financiële bijdrage, waaronder maar niet beperkt tot, de verplichtingen zoals bedoeld in artikel 13, dan wel tekort is geschoten in de nakoming van de verplichtingen voortvloeiend uit de verlening van de financiële bijdrage;  
 

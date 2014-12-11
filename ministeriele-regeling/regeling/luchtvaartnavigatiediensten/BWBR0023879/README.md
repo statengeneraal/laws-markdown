@@ -3,20 +3,20 @@
 ##Regeling van de Minister van Verkeer en Waterstaat houdende nadere regels inzake de certificering van luchtvaartnavigatiediensten en het verlenen van erkenningen tot het verrichten van inspecties en onderzoeken hieromtrent in het kader van de uitvoering van vier EG-verordeningen betreffende een gemeenschappelijk Europees luchtruim (Regeling luchtvaartnavigatiediensten)
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op de [artikelen 3, tweede lid](../../../../AMvB/besluit/luchtvaartnavigatiediensten/BWBR0023687/README.md), en [6, tweede lid, van het Besluit luchtvaartnavigatiediensten](../../../../AMvB/besluit/luchtvaartnavigatiediensten/BWBR0023687/README.md), de [artikelen 31, eerste en vierde lid](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), en [61 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), de [artikelen 24a, tweede lid](../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), en [28 van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), de [artikelen 5.14, aanhef en onder b](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [5.23, tweede lid, van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [artikel 8 van de Wet op het Koninklijk Nederlands Meteorologisch Instituut](../../../../wet/wet/op/het/koninklijk/nederlands/meteorologisch/instituut/BWBR0012952/README.md);
+Gelet op de artikelen 3, tweede lid, en 6, tweede lid, van het Besluit luchtvaartnavigatiediensten, de artikelen 31, eerste en vierde lid, en 61 van het Luchtverkeersreglement, de artikelen 24a, tweede lid, en 28 van het Besluit bewijzen van bevoegdheid voor de luchtvaart, de artikelen 5.14, aanhef en onder b, en 5.23, tweede lid, van de Wet luchtvaart, en artikel 8 van de Wet op het Koninklijk Nederlands Meteorologisch Instituut;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: het besluit: het [Besluit luchtvaartnavigatiediensten](../../../../AMvB/besluit/luchtvaartnavigatiediensten/BWBR0023687/README.md). het handboek: verzameling van procedures die beschrijven hoe men werkt volgens de eisen, bedoeld in artikel 6 van de luchtvaartnavigatiedienstenverordening. 
+In deze regeling wordt verstaan onder: het besluit: het Besluit luchtvaartnavigatiediensten. het handboek: verzameling van procedures die beschrijven hoe men werkt volgens de eisen, bedoeld in artikel 6 van de luchtvaartnavigatiedienstenverordening. 
 
 ### Artikel  2  
 
-De in [artikel 3, tweede lid, van het besluit](../../../../AMvB/besluit/luchtvaartnavigatiediensten/BWBR0023687/README.md) bedoelde gegevens betreffen een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in artikel 6 van de luchtvaartnavigatiedienstenverordening bedoelde eisen voldoet, en waar dit in het handboek staat beschreven. 
+De in artikel 3, tweede lid, van het besluit bedoelde gegevens betreffen een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in artikel 6 van de luchtvaartnavigatiedienstenverordening bedoelde eisen voldoet, en waar dit in het handboek staat beschreven. 
 
 ### Artikel  3  
 
-De in [artikel 6, tweede lid, onderdeel a, van het besluit](../../../../AMvB/besluit/luchtvaartnavigatiediensten/BWBR0023687/README.md) bedoelde gegevens betreffen een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in Bijlage I van de luchtvaartnavigatiedienstenverordening bedoelde eisen voldoet, en waar dit in het handboek staat beschreven. 
+De in artikel 6, tweede lid, onderdeel a, van het besluit bedoelde gegevens betreffen een zelfevaluatie, waarin is opgenomen op welke wijze de aanvrager aan de in Bijlage I van de luchtvaartnavigatiedienstenverordening bedoelde eisen voldoet, en waar dit in het handboek staat beschreven. 
 
 ### Artikel  4  
 

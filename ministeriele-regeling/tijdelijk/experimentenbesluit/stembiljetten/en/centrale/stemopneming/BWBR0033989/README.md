@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 9 juli 2013;
 
-Gelet op de [artikelen 3](../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md) en [5 van de Tijdelijke experimentenwet stembiljetten en centrale stemopneming](../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md);
+Gelet op de artikelen 3 en 5 van de Tijdelijke experimentenwet stembiljetten en centrale stemopneming;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 31 juli 2013, nr. W04.13.0214/I);
 
@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder Experimentenwet: [Tijdelijke experimentenwet stembiljetten en centrale stemopneming](../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md). 
+In dit besluit wordt verstaan onder Experimentenwet: Tijdelijke experimentenwet stembiljetten en centrale stemopneming. 
 
 ### Hoofdstuk  2  
 
@@ -36,9 +36,9 @@ Dit hoofdstuk is van toepassing op een experiment met een nieuw stembiljet voor 
 
 In dit hoofdstuk wordt verstaan onder: 
 
-*kiezer:* kiezer, bedoeld in [artikel M 1 van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md);  
+*kiezer:* kiezer, bedoeld in artikel M 1 van de Kieswet;  
 
-*kandidatenlijsten:* kandidatenlijsten die onherroepelijk geldig zijn verklaard als bedoeld in [artikel I 17, eerste lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md).   
+*kandidatenlijsten:* kandidatenlijsten die onherroepelijk geldig zijn verklaard als bedoeld in artikel I 17, eerste lid, van de Kieswet.   
 
 ### Paragraaf  2.2  
 
@@ -51,13 +51,13 @@ In dit hoofdstuk wordt verstaan onder:
 
 ### Artikel  5  
 
-1.  Onverminderd [artikel M 6, eerste lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), wordt de kiezer een overzicht van de kandidatenlijsten beschikbaar gesteld.   
-2.  In afwijking van [artikel M 6, eerste lid, aanhef, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) zendt Onze Minister aan de kiezer die per e-mail zijn stembiljet wil ontvangen, zo spoedig mogelijk het stembiljet per e-mail en stelt hem het overzicht van de kandidatenlijsten beschikbaar.  
+1.  Onverminderd artikel M 6, eerste lid, van de Kieswet, wordt de kiezer een overzicht van de kandidatenlijsten beschikbaar gesteld.   
+2.  In afwijking van artikel M 6, eerste lid, aanhef, van de Kieswet zendt Onze Minister aan de kiezer die per e-mail zijn stembiljet wil ontvangen, zo spoedig mogelijk het stembiljet per e-mail en stelt hem het overzicht van de kandidatenlijsten beschikbaar.  
 
 ### Artikel  6  
 
-1.  De burgemeester van ’s-Gravenhage, de Vertegenwoordiger van Nederland in Aruba, Curaçao en Sint Maarten, het hoofd van een consulaire post of de Nederlandse leiding in het inzetgebied van de ingevolge [artikel M 13, vierde lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) aangewezen militaire missie, verstrekt op verzoek van de kiezer van wie de retourenveloppe, bedoeld in [artikel M 6, eerste lid, onderdeel b, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) in het ongerede is geraakt, een nieuwe retourenveloppe.   
-2.  In afwijking van [artikel M 7, vierde lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) kan de kiezer de retourenveloppe retourneren naar het briefstembureau, de vertegenwoordiger of de burgemeester, bedoeld in [artikel M 6a, eerste lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md).  
+1.  De burgemeester van ’s-Gravenhage, de Vertegenwoordiger van Nederland in Aruba, Curaçao en Sint Maarten, het hoofd van een consulaire post of de Nederlandse leiding in het inzetgebied van de ingevolge artikel M 13, vierde lid, van de Kieswet aangewezen militaire missie, verstrekt op verzoek van de kiezer van wie de retourenveloppe, bedoeld in artikel M 6, eerste lid, onderdeel b, van de Kieswet in het ongerede is geraakt, een nieuwe retourenveloppe.   
+2.  In afwijking van artikel M 7, vierde lid, van de Kieswet kan de kiezer de retourenveloppe retourneren naar het briefstembureau, de vertegenwoordiger of de burgemeester, bedoeld in artikel M 6a, eerste lid, van de Kieswet.  
 
 ### Paragraaf  2.3  
 
@@ -85,14 +85,14 @@ De burgemeester van ’s-Gravenhage stelt uiterlijk de achtste dag voor de stemm
 
 ### Artikel  10  
 
-1.  In afwijking van [artikel M 2, tweede lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) wordt aan de tot deelneming aan de stemming bevoegde kiezer wiens briefstembewijs in het ongerede is geraakt of die geen briefstembewijs heeft ontvangen, op zijn verzoek een nieuw briefstembewijs verstrekt.   
+1.  In afwijking van artikel M 2, tweede lid, van de Kieswet wordt aan de tot deelneming aan de stemming bevoegde kiezer wiens briefstembewijs in het ongerede is geraakt of die geen briefstembewijs heeft ontvangen, op zijn verzoek een nieuw briefstembewijs verstrekt.   
 2.  De kiezer die zijn werkelijke woonplaats heeft in Aruba, Curaçao of Sint Maarten doet het verzoek schriftelijk of mondeling aan de vertegenwoordiger van Nederland in het land waar hij op de dag van kandidaatstelling zijn werkelijke woonplaats heeft. De overige kiezers doen het verzoek schriftelijk of mondeling aan de burgemeester van ’s-Gravenhage.   
-3.  Het schriftelijk verzoek dient uiterlijk de twaalfde dag voor de stemming te zijn ontvangen. De kiezer overlegt bij zijn verzoek een kopie van een document als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), van een verklaring over het bezit van het Nederlanderschap of van de documenten als bedoeld in [artikel J 24, tweede lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md). Op dit verzoek wordt zo spoedig mogelijk beslist.   
-4.  Het mondeling verzoek dient uiterlijk de negende dag voor de stemming om twaalf uur te zijn gedaan. De kiezer identificeert zich met een document als bedoeld in artikel 1 van de Wet op de identificatieplicht, met een verklaring over het bezit van het Nederlanderschap of met de documenten als bedoeld in [artikel J 24, tweede lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md). Op dit verzoek wordt terstond beslist.  
+3.  Het schriftelijk verzoek dient uiterlijk de twaalfde dag voor de stemming te zijn ontvangen. De kiezer overlegt bij zijn verzoek een kopie van een document als bedoeld in artikel 1 van de Wet op de identificatieplicht, van een verklaring over het bezit van het Nederlanderschap of van de documenten als bedoeld in artikel J 24, tweede lid, van de Kieswet. Op dit verzoek wordt zo spoedig mogelijk beslist.   
+4.  Het mondeling verzoek dient uiterlijk de negende dag voor de stemming om twaalf uur te zijn gedaan. De kiezer identificeert zich met een document als bedoeld in artikel 1 van de Wet op de identificatieplicht, met een verklaring over het bezit van het Nederlanderschap of met de documenten als bedoeld in artikel J 24, tweede lid, van de Kieswet. Op dit verzoek wordt terstond beslist.  
 
 ### Artikel  11  
 
-Onverminderd [artikel M 10, eerste lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), controleert het briefstembureau of het briefstembewijs echt is en of het nummer van het briefstembewijs voorkomt in het uittreksel van ongeldige briefstembewijzen. 
+Onverminderd artikel M 10, eerste lid, van de Kieswet, controleert het briefstembureau of het briefstembewijs echt is en of het nummer van het briefstembewijs voorkomt in het uittreksel van ongeldige briefstembewijzen. 
 
 ### Paragraaf  2.4  
 
@@ -105,7 +105,7 @@ Onverminderd [artikel M 10, eerste lid, van de Kieswet](../../../../../../../../
 a. een stembiljet, op basis waarvan de kiezer stemt door op het stembiljet eerst de lijst te kiezen waartoe de kandidaat van zijn keuze behoort, en vervolgens het kandidaatsnummer van de kandidaat van zijn keuze te kiezen;  
 
 b. een stembiljet, op basis waarvan de kiezer stemt door op het stembiljet eerst de lijst te kiezen waartoe de kandidaat van zijn keuze behoort, en vervolgens het kandidaatsnummer van de kandidaat van zijn keuze te noteren.     
-2.  [Artikel J 20, eerste lid, tweede zin, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) is niet van toepassing.  
+2.  Artikel J 20, eerste lid, tweede zin, van de Kieswet is niet van toepassing.  
 
 ### Artikel  13  
 
@@ -123,12 +123,12 @@ b. op het stembiljet en het overzicht van de kandidatenlijsten een aanduiding st
 
 ### Artikel  14  
 
-1.  Indien Onze Minister het stembiljet, bedoeld in artikel 12, eerste lid, onder a, vaststelt, stemt de kiezer, in afwijking van [artikel M 7, eerste lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), door op het stembiljet: 
+1.  Indien Onze Minister het stembiljet, bedoeld in artikel 12, eerste lid, onder a, vaststelt, stemt de kiezer, in afwijking van artikel M 7, eerste lid, van de Kieswet, door op het stembiljet: 
 
 1°. een wit stipje, geplaatst vóór de lijst waartoe de kandidaat van zijn keuze behoort, rood, blauw, zwart of groen te maken; en vervolgens  
 
 2°. een wit stipje, geplaatst vóór het kandidaatsnummer van de kandidaat van zijn keuze, rood, blauw, zwart of groen te maken.     
-2.  Indien Onze Minister het stembiljet, bedoeld in artikel 12, eerste lid, onder b, vaststelt, stemt de kiezer, in afwijking van [artikel M 7, eerste lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), door op het stembiljet: 
+2.  Indien Onze Minister het stembiljet, bedoeld in artikel 12, eerste lid, onder b, vaststelt, stemt de kiezer, in afwijking van artikel M 7, eerste lid, van de Kieswet, door op het stembiljet: 
 
 1°. een wit stipje, geplaatst vóór de lijst waartoe de kandidaat van zijn keuze behoort, rood, blauw, zwart of groen te maken; en vervolgens  
 
@@ -136,8 +136,8 @@ b. op het stembiljet en het overzicht van de kandidatenlijsten een aanduiding st
 
 ### Artikel  15  
 
-1.  Indien Onze Minister het stembiljet, bedoeld in artikel 12, eerste lid, onder a, vaststelt, wordt in afwijking van [artikel N 16, derde en vierde lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), de geldigheid en de betekenis van een stem vastgesteld op basis van de volgende leden.   
-2.  Een stem is geldig die op een kandidaat of blanco is uitgebracht met een stembiljet dat bij of krachtens de [Experimentenwet](../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md) mag worden gebruikt en waarop geen bijvoegingen zijn geplaatst waardoor de kiezer kan worden geïdentificeerd.   
+1.  Indien Onze Minister het stembiljet, bedoeld in artikel 12, eerste lid, onder a, vaststelt, wordt in afwijking van artikel N 16, derde en vierde lid, van de Kieswet, de geldigheid en de betekenis van een stem vastgesteld op basis van de volgende leden.   
+2.  Een stem is geldig die op een kandidaat of blanco is uitgebracht met een stembiljet dat bij of krachtens de Experimentenwet mag worden gebruikt en waarop geen bijvoegingen zijn geplaatst waardoor de kiezer kan worden geïdentificeerd.   
 3.  Een stem is op een kandidaat uitgebracht indien dat op ondubbelzinnige wijze is kenbaar gemaakt door het geheel of gedeeltelijk rood, blauw, zwart of groen maken van het witte stipje, geplaatst vóór de lijst waartoe de kandidaat behoort, en vóór het kandidaatsnummer van de kandidaat.   
 4.  Onverminderd het derde lid is een stem uitgebracht op de eerste kandidaat van een lijst indien: 
 
@@ -148,8 +148,8 @@ b. op het stembiljet en het overzicht van de kandidatenlijsten een aanduiding st
 
 ### Artikel  16  
 
-1.  Indien Onze Minister het stembiljet, bedoeld in artikel 12, eerste lid, onder b, vaststelt, wordt in afwijking van [artikel N 16, derde en vierde lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), de geldigheid en de betekenis van een stem vastgesteld op basis van de volgende leden.   
-2.  Een stem is geldig die op een kandidaat of blanco is uitgebracht met een stembiljet dat bij of krachtens de [Experimentenwet](../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md) mag worden gebruikt en waarop geen bijvoegingen zijn geplaatst waardoor de kiezer kan worden geïdentificeerd.   
+1.  Indien Onze Minister het stembiljet, bedoeld in artikel 12, eerste lid, onder b, vaststelt, wordt in afwijking van artikel N 16, derde en vierde lid, van de Kieswet, de geldigheid en de betekenis van een stem vastgesteld op basis van de volgende leden.   
+2.  Een stem is geldig die op een kandidaat of blanco is uitgebracht met een stembiljet dat bij of krachtens de Experimentenwet mag worden gebruikt en waarop geen bijvoegingen zijn geplaatst waardoor de kiezer kan worden geïdentificeerd.   
 3.  Een stem is op een kandidaat uitgebracht indien dat op ondubbelzinnige wijze is kenbaar gemaakt door het geheel of gedeeltelijk rood, blauw, zwart of groen maken van het witte stipje, geplaatst vóór de lijst waartoe de kandidaat behoort, en door het kandidaatsnummer te noteren in de daarvoor bestemde ruimte op het stembiljet.   
 4.  Onverminderd het derde lid is een stem uitgebracht op de eerste kandidaat van een lijst indien: 
 
@@ -194,7 +194,7 @@ d. de conclusies omtrent de voortzetting van de experimenten, dan wel de invoeri
 
 1.  Burgemeester en wethouders van ’s-Gravenhage verstrekken zo spoedig mogelijk aan Onze Minister: 
 
-a. de gegevens uit het bestand, bedoeld in de [artikel D 3c, eerste lid](../../../../../../../../wet/kieswet/BWBR0004627/README.md), en [artikel Y 2](../../../../../../../../wet/kieswet/BWBR0004627/README.md), juncto [artikel D 3c, eerste lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), ten behoeve van de voorlichting over het experiment;  
+a. de gegevens uit het bestand, bedoeld in de artikel D 3c, eerste lid, en artikel Y 2, juncto artikel D 3c, eerste lid, van de Kieswet, ten behoeve van de voorlichting over het experiment;  
 
 b. de gegevens van de kiezers die zich bij burgemeester en wethouders van ’s-Gravenhage hebben geregistreerd, ten behoeve van de evaluatie van het experiment en, indien van toepassing, voor het elektronisch verzenden van de stembiljetten en het beschikbaar stellen van de kandidatenlijsten.     
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld over het elektronisch verzenden van het stembiljet, de registratie van logo’s, het beschikbaar stellen van een overzicht van de kandidatenlijsten, het briefstembewijs, het register ongeldige briefstembewijzen, de werkwijze van het briefstembureau en de evaluatie van het experiment.  
@@ -209,7 +209,7 @@ b. de gegevens van de kiezers die zich bij burgemeester en wethouders van ’s-G
 
 ### Artikel  19  
 
-1.  Dit hoofdstuk is van toepassing op een experiment in een gemeente die daarvoor is aangewezen krachtens [artikel 2, tweede lid, van de Experimentenwet](../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md).   
+1.  Dit hoofdstuk is van toepassing op een experiment in een gemeente die daarvoor is aangewezen krachtens artikel 2, tweede lid, van de Experimentenwet.   
 2.  Dit hoofdstuk, met uitzondering van artikel 39, is niet van toepassing op briefstembureaus.  
 
 ### Artikel  20  
@@ -217,10 +217,16 @@ b. de gegevens van de kiezers die zich bij burgemeester en wethouders van ’s-G
 1.  Burgemeester en wethouders stellen een gemeentelijk stembureau in.   
 2.  Het gemeentelijk stembureau bestaat uit een door burgemeester en wethouders vast te stellen aantal leden, van wie er één voorzitter en ten minste één plaatsvervangend voorzitter is, met dien verstande dat het aantal leden ten minste zo veel is dat voor elke locatie van de stemopneming ten minste vijf leden beschikbaar zijn, waaronder de voorzitter of een plaatsvervangend voorzitter.   
 3.  Indien bij het nemen van een beslissing door het gemeentelijk stembureau de stemmen staken, beslist de stem van de voorzitter.   
-4.  [Artikel E 4, eerste, tweede en vierde lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) is van overeenkomstige toepassing op leden en plaatsvervangende leden van het gemeentelijk stembureau.   
-5.  In afwijking van [artikel E 4, tweede lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) kan als lid van een stembureau tevens niet worden benoemd degene die als lid van het gemeentelijk stembureau voor de desbetreffende verkiezing is benoemd.   
+4.  Artikel E 4, eerste, tweede en vierde lid, van de Kieswet is van overeenkomstige toepassing op leden en plaatsvervangende leden van het gemeentelijk stembureau.   
+5.  In afwijking van artikel E 4, tweede lid, van de Kieswet kan als lid van een stembureau tevens niet worden benoemd degene die als lid van het gemeentelijk stembureau voor de desbetreffende verkiezing is benoemd.   
 6.  Het lidmaatschap van het gemeentelijk stembureau eindigt van rechtswege nadat over de toelating van de gekozenen is beslist.   
 7.  Burgemeester en wethouders wijzen voor het gemeentelijk stembureau één of meer geschikte locaties aan voor de stemopneming en voor de zitting tot vaststelling van de uitslag voor de gemeente.  
+
+### Artikel  20a  
+Treedt in werking per 01-01-2015 
+
+1.  Bij de gecombineerde stemming voor de verkiezing van de leden van provinciale staten en de leden van een algemeen bestuur, bedoeld in artikel A 1 van de Kieswet, stelt het college van burgemeester en wethouders een gemeentelijk stembureau voor de verkiezing van de leden van provinciale staten en een gemeentelijk stembureau voor de verkiezing van de leden van dat algemeen bestuur in.   
+2.  Indien een gemeente in het gebied van twee of meer waterschappen ligt, stelt het college van burgemeester en wethouders één of meer gemeentelijke stembureaus in die de stemopneming verrichten voor de verkiezing van één of meer waterschappen.  
 
 ### Paragraaf  3.2  
 
@@ -228,9 +234,9 @@ b. de gegevens van de kiezers die zich bij burgemeester en wethouders van ’s-G
 
 ### Artikel  21  
 
-1.  De [artikelen J 4a, derde lid](../../../../../../../../wet/kieswet/BWBR0004627/README.md), [J 35, eerste en tweede lid](../../../../../../../../wet/kieswet/BWBR0004627/README.md), [N 1, tweede lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) zijn van overeenkomstige toepassing op personen die geen kiezer zijn.   
-2.  De [artikelen N 6](../../../../../../../../wet/kieswet/BWBR0004627/README.md), [N 8 tot en met N 9](../../../../../../../../wet/kieswet/BWBR0004627/README.md) en [N 11 tot en met N 13 van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) zijn niet van toepassing.   
-3.  Voor de toepassing van [artikel N 10 van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) wordt voor «, in artikel N 9 vermeld,» gelezen: van het stembureau.  
+1.  De artikelen J 4a, derde lid, J 35, eerste en tweede lid, N 1, tweede lid, van de Kieswet zijn van overeenkomstige toepassing op personen die geen kiezer zijn.   
+2.  De artikelen N 6, N 8 tot en met N 9 en N 11 tot en met N 13 van de Kieswet zijn niet van toepassing.   
+3.  Voor de toepassing van artikel N 10 van de Kieswet wordt voor «, in artikel N 9 vermeld,» gelezen: van het stembureau.  
 
 ### Artikel  22  
 
@@ -250,7 +256,7 @@ c. de stembiljetten met een ongeldige stem.
 
 ### Artikel  24  
 
-1.  De pakken, bedoeld in [artikel N 2, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), en artikel 23, eerste lid, worden in de stembus gedaan.   
+1.  De pakken, bedoeld in artikel N 2, van de Kieswet, en artikel 23, eerste lid, worden in de stembus gedaan.   
 2.  De stembus wordt afgesloten en verzegeld.   
 3.  Totdat het stembureau de stembus overdraagt ten behoeve van het vervoer naar een locatie voor de stemopneming, draagt het stembureau er zorg voor dat de zegels op de stembus en de pakken niet worden verbroken.  
 
@@ -307,15 +313,15 @@ b. het aantal ongeldige stemmen.
 
 ### Artikel  33  
 
-1.  Het gemeentelijk stembureau beslist met inachtneming van [artikel N 7 van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) over de geldigheid van het stembiljet.   
+1.  Het gemeentelijk stembureau beslist met inachtneming van artikel N 7 van de Kieswet over de geldigheid van het stembiljet.   
 2.  Het gemeentelijk stembureau maakt de reden van ongeldigverklaring en van twijfel over de geldigheid, alsmede de beslissing daaromtrent onmiddellijk bekend.   
 3.  Indien een van de aanwezige personen dit verlangt, moet het biljet worden getoond. De personen kunnen mondeling bezwaren tegen de genomen beslissing inbrengen.  
 
 ### Artikel  34  
 
-1.  Indien er een verschil is tussen het aantal getelde stemmen en het aantal toegelaten kiezers, opent het gemeentelijk stembureau de verzegelde pakken, bedoeld in [artikel N 2, eerste lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) en stelt het de aantallen geldige stempassen, kiezerspassen en volmachtbewijzen voor het stembureau opnieuw vast.   
-2.  In afwijking van [artikel N 1, eerste lid, tweede zin, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), is de som van deze aantallen het aantal kiezers dat tot de stemming is toegelaten.   
-3.  [Artikel N 2 van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) is van overeenkomstige toepassing.  
+1.  Indien er een verschil is tussen het aantal getelde stemmen en het aantal toegelaten kiezers, opent het gemeentelijk stembureau de verzegelde pakken, bedoeld in artikel N 2, eerste lid, van de Kieswet en stelt het de aantallen geldige stempassen, kiezerspassen en volmachtbewijzen voor het stembureau opnieuw vast.   
+2.  In afwijking van artikel N 1, eerste lid, tweede zin, van de Kieswet, is de som van deze aantallen het aantal kiezers dat tot de stemming is toegelaten.   
+3.  Artikel N 2 van de Kieswet is van overeenkomstige toepassing.  
 
 ### Artikel  35  
 
@@ -323,7 +329,7 @@ Het gemeentelijk stembureau stelt vast het verschil tussen het aantal kiezers da
 
 ### Artikel  36  
 
-1.  Het gemeentelijk stembureau deelt de aantallen, bedoeld in de artikelen 32, 34 en 35 en in [artikel N 1, eerste lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), mede. De aanwezige personen kunnen mondeling bezwaren inbrengen.   
+1.  Het gemeentelijk stembureau deelt de aantallen, bedoeld in de artikelen 32, 34 en 35 en in artikel N 1, eerste lid, van de Kieswet, mede. De aanwezige personen kunnen mondeling bezwaren inbrengen.   
 2.  Het gemeentelijk stembureau doet vervolgens in één of meer afzonderlijke pakken: 
 
 a. de stembiljetten met een stem op een kandidaat, lijstgewijs gerangschikt;  
@@ -359,9 +365,9 @@ d. het verschil tussen het aantal kiezers dat tot de stemming is toegelaten en h
 ### Artikel  39  
 
 1.  Indien een experiment wordt gehouden in de gemeente ’s-Gravenhage zijn de volgende leden van toepassing.   
-2.  In afwijking van [artikel N 20, tweede lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), wordt het proces-verbaal van een briefstembureau terstond langs elektronische weg ter kennis van het gemeentelijk stembureau van ’s-Gravenhage gebracht.   
-3.  In afwijking van [artikel N 20, derde lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), wordt het proces-verbaal van een briefstembureau met de in [artikelen M 8](../../../../../../../../wet/kieswet/BWBR0004627/README.md), [N 2](../../../../../../../../wet/kieswet/BWBR0004627/README.md) en [N 16 van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), bedoelde verzegelde pakken zo spoedig mogelijk per diplomatieke post naar het gemeentelijk stembureau van ’s-Gravenhage overgebracht.   
-4.  In afwijking van [artikel N 21 van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), vindt door het gemeentelijk stembureau van ’s-Gravenhage de vaststelling van de aantallen stemmen, bedoeld in artikel 38, eerste lid, eerst plaats nadat hem tevens alle processen-verbaal van de briefstembureaus ter kennis zijn gebracht.   
+2.  In afwijking van artikel N 20, tweede lid, van de Kieswet, wordt het proces-verbaal van een briefstembureau terstond langs elektronische weg ter kennis van het gemeentelijk stembureau van ’s-Gravenhage gebracht.   
+3.  In afwijking van artikel N 20, derde lid, van de Kieswet, wordt het proces-verbaal van een briefstembureau met de in artikelen M 8, N 2 en N 16 van de Kieswet, bedoelde verzegelde pakken zo spoedig mogelijk per diplomatieke post naar het gemeentelijk stembureau van ’s-Gravenhage overgebracht.   
+4.  In afwijking van artikel N 21 van de Kieswet, vindt door het gemeentelijk stembureau van ’s-Gravenhage de vaststelling van de aantallen stemmen, bedoeld in artikel 38, eerste lid, eerst plaats nadat hem tevens alle processen-verbaal van de briefstembureaus ter kennis zijn gebracht.   
 5.  Het gemeentelijk stembureau maakt bij de vaststelling van de aantallen stemmen, bedoeld in artikel 38, eerste lid, apart melding van de stemmen die in de briefstembureaus zijn uitgebracht.  
 
 ### Artikel  40  
@@ -377,21 +383,21 @@ De aanwezige personen kunnen mondeling bezwaren inbrengen. De bezwaren worden in
 
 1.  Het gemeentelijk stembureau maakt het proces-verbaal onverwijld op een algemeen toegankelijke wijze elektronisch openbaar.   
 2.  Het gemeentelijk stembureau brengt onverwijld een afschrift van zijn proces-verbaal over naar het vertegenwoordigend orgaan en het hoofdstembureau.   
-3.  Het gemeentelijk stembureau draagt het proces-verbaal, bedoeld in [artikel N 10, eerste lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), of de pakken, bedoeld in [artikel N 2 van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) of de artikelen 34, derde lid, of 36, tweede lid, over aan burgemeester en wethouders.  
+3.  Het gemeentelijk stembureau draagt het proces-verbaal, bedoeld in artikel N 10, eerste lid, van de Kieswet, of de pakken, bedoeld in artikel N 2 van de Kieswet of de artikelen 34, derde lid, of 36, tweede lid, over aan burgemeester en wethouders.  
 
 ### Artikel  43  
 
-1.  Burgemeester en wethouders brengen het proces-verbaal, bedoeld in [artikel N 10, eerste lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), of de pakken, bedoeld in [artikel N 2 van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) of de artikelen 34, derde lid, of 36, tweede lid, op verzoek van het centraal stembureau of het vertegenwoordigend orgaan over naar het centraal stembureau respectievelijk het vertegenwoordigend orgaan.   
-2.  Burgemeester en wethouders bewaren de pakken, bedoeld in de [artikelen N 2 van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) of de artikelen 34, derde lid, of 36, tweede lid, en de processen-verbaal van de stembureaus die niet naar het centraal stembureau of het vertegenwoordigend orgaan zijn overgebracht, drie maanden nadat over de toelating van de gekozenen is beslist. Daarna vernietigt het deze stukken onmiddellijk, tenzij: 
+1.  Burgemeester en wethouders brengen het proces-verbaal, bedoeld in artikel N 10, eerste lid, van de Kieswet, of de pakken, bedoeld in artikel N 2 van de Kieswet of de artikelen 34, derde lid, of 36, tweede lid, op verzoek van het centraal stembureau of het vertegenwoordigend orgaan over naar het centraal stembureau respectievelijk het vertegenwoordigend orgaan.   
+2.  Burgemeester en wethouders bewaren de pakken, bedoeld in de artikelen N 2 van de Kieswet of de artikelen 34, derde lid, of 36, tweede lid, en de processen-verbaal van de stembureaus die niet naar het centraal stembureau of het vertegenwoordigend orgaan zijn overgebracht, drie maanden nadat over de toelating van de gekozenen is beslist. Daarna vernietigt het deze stukken onmiddellijk, tenzij: 
 
 a. de officier van justitie of de rechter-commissaris in het kader van een strafrechtelijk onderzoek een verzoek heeft gedaan tot overdracht van deze stukken, in welk geval de vernietiging plaatsvindt nadat dit onderzoek is afgerond;  
 
-b. strafvervolging is ingesteld wegens een strafbaar gestelde gedraging in de [Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) of de [artikelen 125 tot en met 129 van het Wetboek van Strafrecht](../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), in welk geval de vernietiging plaatsvindt nadat er een onherroepelijke rechterlijke uitspraak is.     
+b. strafvervolging is ingesteld wegens een strafbaar gestelde gedraging in de Kieswet of de artikelen 125 tot en met 129 van het Wetboek van Strafrecht, in welk geval de vernietiging plaatsvindt nadat er een onherroepelijke rechterlijke uitspraak is.     
 2.  Van de vernietiging wordt proces-verbaal opgemaakt.  
 
 ### Artikel  44  
 
-Nadat is beslist over de toelating van de gekozenen, zijn burgemeester en wethouders bevoegd de pakken, bedoeld in de [artikelen N 2 van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) of de artikelen 34, derde lid, of 36, tweede lid, die niet naar het centraal stembureau of het vertegenwoordigend orgaan zijn overgebracht, te openen en deze pakken, alsmede de processen-verbaal van de stembureaus die niet naar het centraal stembureau of het vertegenwoordigend orgaan zijn overgebracht, over te dragen aan de officier van justitie ten dienste van een onderzoek naar enig strafbaar feit. 
+Nadat is beslist over de toelating van de gekozenen, zijn burgemeester en wethouders bevoegd de pakken, bedoeld in de artikelen N 2 van de Kieswet of de artikelen 34, derde lid, of 36, tweede lid, die niet naar het centraal stembureau of het vertegenwoordigend orgaan zijn overgebracht, te openen en deze pakken, alsmede de processen-verbaal van de stembureaus die niet naar het centraal stembureau of het vertegenwoordigend orgaan zijn overgebracht, over te dragen aan de officier van justitie ten dienste van een onderzoek naar enig strafbaar feit. 
 
 ### Paragraaf  3.5  
 
@@ -433,17 +439,17 @@ Bij ministeriële regeling kunnen nadere regels gesteld worden over het vervoer 
 
 ### Artikel  47  
 
-In afwijking van de [artikelen Y 2](../../../../../../../../wet/kieswet/BWBR0004627/README.md), [Y 22 tot en met Y 23](../../../../../../../../wet/kieswet/BWBR0004627/README.md), [Y 24](../../../../../../../../wet/kieswet/BWBR0004627/README.md) en [Y 39 van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md) is dit besluit van overeenkomstige toepassing op een experiment dat wordt gehouden bij de verkiezing van de Nederlandse leden van het Europees Parlement, met dien verstande dat: 
+In afwijking van de artikelen Y 2, Y 22 tot en met Y 23, Y 24 en Y 39 van de Kieswet is dit besluit van overeenkomstige toepassing op een experiment dat wordt gehouden bij de verkiezing van de Nederlandse leden van het Europees Parlement, met dien verstande dat: 
 
 a. onverminderd artikel 8, tweede lid, is ongeldig het briefstembewijs van de kiezer die in een andere lidstaat van de Europese Unie als kiezer voor de leden van het Europees Parlement is geregistreerd;  
 
 b. in afwijking van artikel 26 de stemopneming plaatsvindt op de eerste werkdag na de sluiting van de stembussen in de lidstaat waar de kiezers het laatst hun stem uitbrengen tijdens de stemmingsperiode, bedoeld in de Akte betreffende de rechtstreekse verkiezing van de leden van het Europees Parlement (Brussel, 20 september 1976, *Trb.* 1976, 175); en  
 
-c. in afwijking van [artikel Y 2](../../../../../../../../wet/kieswet/BWBR0004627/README.md) juncto [artikel O 1, eerste lid, van de Kieswet](../../../../../../../../wet/kieswet/BWBR0004627/README.md), het hoofdstembureau op de dag na de dag van de stemopneming om tien uur een openbare zitting houdt.   
+c. in afwijking van artikel Y 2 juncto artikel O 1, eerste lid, van de Kieswet, het hoofdstembureau op de dag na de dag van de stemopneming om tien uur een openbare zitting houdt.   
 
 ### Artikel  48  
 
-Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en vervalt met ingang van de dag dat de [Tijdelijke Experimentenwet stembiljetten en centrale stemopneming](../../../../../../../../wet/tijdelijke/experimentenwet/stembiljetten/en/centrale/stemopneming/BWBR0033598/README.md) (Stb. 2013, 240) vervalt. 
+Dit besluit treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en vervalt met ingang van de dag dat de Tijdelijke Experimentenwet stembiljetten en centrale stemopneming (Stb. 2013, 240) vervalt. 
 
 ### Artikel  49  
 

@@ -6,8 +6,6 @@
 
 ####Inleiding
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De activiteiten van het Centraal Administratie Kantoor (CAK) worden met ingang van 1 januari 2013 uitgevoerd door een Zelfstandig Bestuursorgaan (ZBO). De Kaderwet zelfstandige bestuursorganen is hierop van toepassing. Voor 1 januari 2013 werden de activiteiten van het CAK uitgevoerd door een Besloten Vennootschap (B.V.). Het ministerie van Volksgezondheid, Welzijn en Sport (VWS) en de Nederlandse Zorgautoriteit (NZa) hebben in het Model Jaarverslaggeving CAK 2014 voorschriften opgenomen voor de inrichting van de verantwoordingsdocumenten 2014 van het CAK. Het model bevat modellen waarmee het CAK zijn verantwoordingsdocumenten moet inrichten. Op grond van artikel 27 en 31 van de Wet marktordening gezondheidszorg (Wmg) kan de NZa regels stellen voor het accountantsonderzoek en voor de inhoud en inrichting van het accountantsverslag. Ook heeft dit controleprotocol betrekking op de uitwerking van de Algemene Wet Bijzondere Ziektekosten (AWBZ) en de Kaderwet zelfstandige bestuursorganen, op grond waarvan VWS regels kan stellen voor het accountantsonderzoek en voor de inhoud en inrichting van het accountantsverslag. De regels voor het accountantsonderzoek en voor de inhoud en inrichting van het accountantsverslag hebben VWS en de NZa vastgelegd in dit Protocol Accountantsonderzoek 2014 CAK. Dit Protocol Accountantsonderzoek 2014 CAK geeft richtlijnen voor het door de externe accountant uit te voeren onderzoek naar de getrouwheid en rechtmatigheid van de financiële verantwoording en de rechtmatige uitvoering van de tegemoetkomingsregeling Wet tegemoetkoming chronisch zieken en gehandicapten (Wtcg), de beheerskosten van alle publiekrechtelijke taken van het CAK, de AWBZ, de compensatieregeling eigen risico (CER) als onderdeel van de Zorgverzekeringswet (Zvw) en de Wet maatschappelijke ondersteuning (Wmo). Het doel van het protocol is niet om de aanpak van het onderzoek voor te schrijven, maar om de kaders te geven waarbinnen het onderzoek moet plaatsvinden. De externe accountant geeft de uitkomst van zijn onderzoek weer in: 
 
 − een controleverklaring over de getrouwheid van de jaarrekening;  
@@ -22,8 +20,6 @@ De activiteiten van het Centraal Administratie Kantoor (CAK) worden met ingang v
 ### 2  
 
 ####Doel van het accountantsonderzoek
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Het accountantsonderzoek bij het CAK bestaat uit de volgende zes deelonderzoeken: 
 
@@ -72,15 +68,13 @@ De samenvattende rapportage bevat de uitkomsten van het onderzoek van de externe
 
 − het onderzoek naar de naleving van de voorschriften van de bestuurlijke verantwoordingen;  
 
-− het onderzoek naar de naleving van de voorschriften van het uitvoeringsverslag.   Dit deel valt aan te merken als de uitkomsten van een non-assurance opdracht.   Het verdient de voorkeur dat de externe accountant beide delen van de samenvattende rapportage separaat uitbrengt, dit om verwarring tussen het assurance en non-assurance deel te voorkomen. In hoofdstuk 6  wordt de inhoud van de samenvattende rapportage verder uitgewerkt. 
+− het onderzoek naar de naleving van de voorschriften van het uitvoeringsverslag.   Dit deel valt aan te merken als de uitkomsten van een non-assurance opdracht.   Het verdient de voorkeur dat de externe accountant beide delen van de samenvattende rapportage separaat uitbrengt, dit om verwarring tussen het assurance en non-assurance deel te voorkomen. In hoofdstuk 6 wordt de inhoud van de samenvattende rapportage verder uitgewerkt. 
 ### *Third Party Mededeling* 
 
 In de oordeelsvorming op basis van de Third Party Mededeling legt de externe accountant zijn oordeel vast of binnen het uitvoeringsproces eigen bijdragen Wmo adequate waarborgen aanwezig zijn om de volledigheid, juistheid en tijdigheid van de beheersdoelstellingen ten behoeve van de uitvoering van de eigen bijdrageregeling Wmo te kunnen waarborgen in het verslagjaar. De beheersdoelstellingen zijn door het management van het CAK vastgesteld. De Third Party Mededeling is uitsluitend bestemd voor het CAK, de gemeenten en haar externe accountants. De Third Party Mededeling maakt onderdeel uit van de oordeelsvorming van de externe accountant.    
 ### 3  
 
 ####Procedure onderzoek
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De procedure van het onderzoek in het verslagjaar kan als volgt worden weergegeven. 
 ### *Opdracht* 
@@ -127,19 +121,15 @@ Het CAK geeft de externe accountant opdracht om een onderzoek uit te voeren naar
 
 ####Inhoud van het accountantsonderzoek
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### 4.1  
 
 ####Object van het onderzoek
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Het object van onderzoek zijn de door het CAK opgestelde verantwoordingsdocumenten: 
 ### *Jaarverslag* 
 
 In het jaarverslag zijn minimaal opgenomen het uitvoeringsverslag van het Bestuur, de jaarrekening van het CAK en de overige gegevens (waaronder de getrouwheidsverklaring). De jaarrekening bestaat uit een balans, een exploitatierekening en een toelichting op de balans en de exploitatierekening. 
-### *Bestuurlijke (rechtmatigheids)verantwoordingen<sup>6 Volgens artikel 2 van de Regeling verslaglegging AWBZ is de bestuurlijke verantwoording onderdeel van het financieel verslag. In het Model Jaarverslaggeving 2014 is ervoor gekozen om de bestuurlijke verantwoording afzonderlijk te beschrijven. </sup> * 
+###* Bestuurlijke (rechtmatigheids)verantwoordingen*<sup>6  Volgens artikel 2 van de Regeling verslaglegging AWBZ is de bestuurlijke verantwoording onderdeel van het financieel verslag. In het Model Jaarverslaggeving 2014 is ervoor gekozen om de bestuurlijke verantwoording afzonderlijk te beschrijven.  </sup>
 
 Voor het jaar 2014 brengt het CAK twee afzonderlijke bestuurlijke verantwoordingen uit, één bestuurlijke verantwoording voor VWS en één bestuurlijke verantwoording voor de NZa en het Zorginstituut. In de bestuurlijke rechtmatigheidsverantwoording voor VWS legt het CAK verantwoording af over het gevoerde financieel beheer en over de borging van de rechtmatigheid van de baten en lasten voortkomend uit de geldstromen: 
 
@@ -168,13 +158,9 @@ Voor het jaar 2014 brengt het CAK twee afzonderlijke bestuurlijke verantwoording
 
 ####Toetsingscriteria voor de getrouwheid en rechtmatigheid van de financiële verantwoording
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### 4.2.1  
 
 ####Het begrippenkader
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Het onderzoek naar de getrouwheid van de jaarrekening en de rechtmatige uitvoering van de Wtcg, beheerskosten CAK, de AWBZ, de CER en de Wmo is gericht op het vaststellen of: 
 
@@ -210,14 +196,10 @@ Voor het onderzoek naar de rechtmatigheid is de invulling van het rechtmatigheid
 
 ####Wet- en regelgeving
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Specifiek moet de externe accountant aandacht besteden aan (gewijzigde) wet- en regelgeving en de implementatie hiervan binnen het CAK. Voor het verantwoordingsjaar 2014 moet onder andere aandacht besteed worden aan de inkomensafhankelijkheid in het kader van de Wtcg en de berekening van de eigen bijdrage Zorg met Verblijf in de AWBZ.    
 ### 4.2.3  
 
 ####Wet tegemoetkoming chronisch zieken en gehandicapten
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 ### *Vaststelling en betaling aanspraken tegemoetkomingen Wtcg* 
 
@@ -229,14 +211,10 @@ Ten aanzien van de rechtmatigheid van de Wtcg uitgaven wordt in opdracht van VWS
 
 ####Interest geldmiddelen Wtcg
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De externe accountant beoordeelt of er sprake is van interestopbrengsten geldmiddelen Wtcg. De externe accountant beoordeelt daarbij of deze interestopbrengsten volledig worden afgedragen aan het ministerie van VWS (zie Model Jaarverslaggeving 2014 CAK). De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording ten behoeve van VWS opgenomen informatie een juist beeld geeft van deze interest. De externe accountant neemt zijn bevindingen op in het onderdeel accountantsrapport van de samenvattende accountantsrapportage. Voor de goedkeuringstolerantie wordt uitgegaan van 1% van het totaal aan mutaties in rekening-courant met ’s Rijks schatkist.    
 ### 4.2.5  
 
 ####Beheerskosten CAK
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De externe accountant hanteert voor zijn onderzoek naar de beheerskosten CAK het normenkader zoals uiteengezet in het Model Jaarverslaggeving 2014 CAK. De beheerskosten van het CAK bestaan uit een aantal componenten<sup> 7 Hieronder vallen eveneens eventuele incidentele beheerskosten voor projecten. </sup>: 
 
@@ -265,14 +243,10 @@ Als de in de beheerskosten opgenomen beloningen per functie uitkomen boven de no
 
 ####Betaling van zorgaanspraken AWBZ
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De externe accountant hanteert voor zijn onderzoek naar de betaling van zorgaanspraken AWBZ het normenkader zoals uiteengezet in het Model Jaarverslaggeving 2014 CAK. De externe accountant controleert de volledigheid, juistheid en tijdigheid van de betalingen in opdracht van en namens de zorgverzekeraars, het Zorginstituut en de zorgkantoren en de daartegenover staande afrekeningen met het AFBZ. De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording ten behoeve van de NZa en het Zorginstituut opgenomen informatie een juist beeld geeft van het rechtmatig betalen van zorgaanspraken AWBZ. De externe accountant neemt zijn bevindingen op in het onderdeel accountantsrapport van de samenvattende accountantsrapportage. Voor de goedkeuringstolerantie gaat de externe accountant uit van de mutatiestroom. Als grens geldt hierbij 1% van de AWBZ-betalingen in het verslagjaar.    
 ### 4.2.7  
 
 ####Eigen bijdragen Zorg zonder Verblijf
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De externe accountant hanteert voor zijn onderzoek naar de eigen bijdragen Zorg zonder Verblijf het normenkader zoals uiteengezet in het Model Jaarverslaggeving 2014 CAK. De externe accountant stelt vast dat het CAK de eigen bijdragen Zorg zonder Verblijf volledig, juist en tijdig heeft vastgesteld en opgelegd. 
 ### *Volledigheid* 
@@ -291,8 +265,6 @@ De externe accountant stelt vast dat het CAK de eigen bijdragen Zorg zonder Verb
 
 ####Korting Wtcg Zorg zonder Verblijf
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De externe accountant hanteert voor zijn onderzoek naar de kortingen Wtcg Zorg zonder Verblijf het normenkader zoals uiteengezet in het Model Jaarverslaggeving 2014 CAK. De externe accountant stelt vast dat het CAK de kortingen Wtcg Zorg zonder Verblijf volledig, juist en tijdig heeft vastgesteld en opgelegd. 
 ### *Volledigheid* 
 
@@ -306,8 +278,6 @@ Hierbij gaat het om de interne doorlooptijd tot en met het versturen van de fact
 ### 4.2.9  
 
 ####Eigen bijdragen Wmo
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De externe accountant hanteert voor zijn onderzoek naar de eigen bijdragen Wmo het normenkader zoals uiteengezet in het Model Jaarverslaggeving 2014 CAK. De externe accountant stelt vast dat het CAK de eigen bijdragen Wmo volledig, juist en tijdig heeft vastgesteld en opgelegd. 
 ### *Volledigheid* 
@@ -326,8 +296,6 @@ De externe accountant stelt vast dat het CAK de eigen bijdragen Wmo volledig, ju
 
 ####Korting Wtcg Wmo
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De externe accountant hanteert voor zijn onderzoek naar de kortingen Wtcg Wmo het normenkader zoals uiteengezet in het Model Jaarverslaggeving 2014 CAK. De externe accountant stelt vast dat het CAK de kortingen Wtcg Wmo volledig, juist en tijdig heeft vastgesteld en opgelegd. 
 ### *Volledigheid* 
 
@@ -341,8 +309,6 @@ Hierbij gaat het om de interne doorlooptijd tot en met het versturen van de fact
 ### 4.2.11  
 
 ####Eigen bijdragen Zorg met Verblijf
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De externe accountant hanteert voor zijn onderzoek naar de eigen bijdragen Zorg met Verblijf het normenkader zoals uiteengezet in het Model Jaarverslaggeving 2014 CAK. De externe accountant stelt vast dat het CAK de eigen bijdragen Zorg met Verblijf volledig, juist en tijdig heeft vastgesteld en opgelegd. 
 ### *Volledigheid* 
@@ -361,8 +327,6 @@ De externe accountant stelt vast dat het CAK de eigen bijdragen Zorg met Verblij
 
 ####Compensatieregeling eigen risico
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### *Uitkering compensatieregeling eigen risico* 
 
 De externe accountant hanteert voor zijn onderzoek naar de uitkeringen compensatieregeling eigen risico het normenkader zoals uiteengezet in het Model Jaarverslaggeving 2014 CAK. Het begrip rechtmatigheid speelt pas een rol vanaf het moment van het ontvangen van de aan te leveren persoonsgegevens door de zorgverzekeraars, door het CAK zelf en door de klant. Het CAK heeft niet de taak om vast te stellen dat de persoonsgegevens volledig, juist en tijdig bij het CAK worden aangemeld. Het CAK voert de taak rechtmatig uit, als het proces vanaf het ontvangen van de persoonsgegevens tot en met de uitbetaling van het bedrag volledig, juist en tijdig worden uitgevoerd en wanneer de afrekening van de verrichte betalingen met het Zvf volledig, juist en tijdig plaatsvindt. De externe accountant maakt bij zijn rechtmatigheidsonderzoek onderscheid tussen enerzijds het proces van vaststelling van de uitkeringen en anderzijds de uitbetaling daarvan. De externe accountant richt zich op de aspecten volledigheid, juistheid en tijdigheid. De externe accountant stelt vast dat het CAK de uitkeringen CER volledig, juist en tijdig heeft vastgesteld en uitbetaald. 
@@ -380,23 +344,17 @@ Tijdigheid heeft als norm dat de verzekerden jaarlijks voor het einde van het ka
 Ten aanzien van de rechtmatigheid van de CER uitgaven wordt in opdracht van VWS door een externe accountant een steekproefonderzoek uitgevoerd. Dit steekproefonderzoek is sinds medio 2012 verankerd in wet- en regelgeving. Een externe accountant rapporteert hierover door middel van een rapport van feitelijke bevindingen aan VWS. Door de NZa wordt er een review uitgevoerd op de werkzaamheden van de externe accountant die het steekproefonderzoek heeft uitgevoerd. De NZa vormt zich een oordeel over de steekproef CER. De NZa brengt een afzonderlijk rapport uit waarin het oordeel van de NZa over de rechtmatigheid van de CER naar aanleiding van de beoordeling van de steekproef is opgenomen. Het rapport van de NZa wordt verstrekt aan VWS en aan het CAK. Het CAK is niet verplicht op grond van de wet- en regelgeving om het oordeel over de steekproef CER op te nemen in haar verantwoordingsdocumenten. In aanvulling op het bovenstaande wordt de externe accountant van het CAK geadviseerd kennis te nemen van het oordeel van de NZa over de rechtmatigheid van de CER naar aanleiding van de beoordeling van de steekproef CER, zoals opgenomen in het specifieke rapport van de NZa aan het CAK. Dit om te bepalen of er bevindingen in staan die invloed kunnen hebben op de werkzaamheden van het CAK inzake de CER. Deze bevindingen kan de externe accountant betrekken in zijn oordeelsvorming over de taken van het CAK voor wat betreft de CER.    
 ### 4.2.13  
 
-####Interest geldmiddelen AFBZ Interest geldmiddelen AFBZ is inclusief de verantwoording van interest geldmiddelen Wmo. en Zvf
-
-Treedt in werking op een nader te bepalen tijdstip 
+####Interest geldmiddelen AFBZ<sup> 9  Interest geldmiddelen AFBZ is inclusief de verantwoording van interest geldmiddelen Wmo.  </sup> en Zvf
 
 De externe accountant hanteert voor zijn onderzoek naar de interest geldmiddelen AFBZ en Zvf het normenkader zoals uiteengezet in het Model Jaarverslaggeving 2014 CAK. De externe accountant beoordeelt of interestopbrengsten AFBZ en Zvf volledig zijn afgedragen aan het AFBZ en het Zvf. De externe accountant stelt vast of geconstateerde onrechtmatigheden en onzekerheden invloed hebben op de strekking van zijn controleverklaring. Hij stelt vast of de in de bestuurlijke verantwoording ten behoeve van de NZa opgenomen informatie een juist beeld geeft van de volledigheid van de verantwoording en gedane afdracht van gelden aan het AFBZ en het Zvf. De externe accountant neemt zijn bevindingen op in het onderdeel accountantsrapport van de samenvattende accountantsrapportage. Voor de goedkeuringstolerantie gaat de externe accountant uit van de grens van 1% van het totaal van de verantwoorde interestmiddelen AFBZ en Zvf.     
 ### 4.3  
 
 ####Toetsingscriteria voor het onderzoek naar de rechtmatige uitvoering van taken
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Als het CAK alle taken in overeenstemming met de voorschriften van de geldende wet- en regelgeving uitvoert, kunnen de daaraan gekoppelde processen als rechtmatig worden aangemerkt. Er is dan sprake van een rechtmatige uitvoering van de taken in het kader van de Wtcg, de beheerskosten CAK, de AWBZ, de CER en de Wmo. De toetsingscriteria voor de taken zijn in de vorige paragraaf uitgewerkt. De externe accountant kan zijn rapportage over de rechtmatige uitvoering van de taken in het kader van de Wtcg, de beheerskosten CAK, de AWBZ, de CER en de Wmo combineren met de rapportage van zijn bevindingen over de getrouwheid en rechtmatigheid van de financiële verantwoording (zie paragraaf 4.2).    
 ### 4.4  
 
 ####Toetsingscriteria voor het onderzoek naar de doelmatigheid van het beheer en de organisatie
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Bij het begrip doelmatigheid gaat het in dit kader om de vraag of het beheer en de organisatie van het CAK voldoen aan eisen van doelmatigheid. Een organisatie is in het algemeen doelmatig als er een goed evenwicht is tussen doelstellingen, ingezette middelen en geleverde prestaties. Het is niet aan de externe accountant om dit evenwicht te bepalen. De externe accountant kan zich wel een oordeel vormen over de inrichting van de betreffende systemen, het totstandkomingsproces van de gebruikte informatie en de kwaliteit van de informatie zelf indien hiervoor duidelijke normen aanwezig zijn. Bij het onderzoek of het beheer en de organisatie van het CAK voldoen aan de eisen van doelmatigheid voert de externe accountant onderzoek uit naar: 
 
@@ -406,8 +364,6 @@ Bij het begrip doelmatigheid gaat het in dit kader om de vraag of het beheer en 
 ### 4.5  
 
 ####Toetsingscriteria voor het onderzoek naar de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Bij het onderzoek naar de rechtmatigheid van het financieel verslag voert de externe accountant onderzoek uit naar de ordelijkheid en controleerbaarheid van het gevoerde financieel beheer, zoals dit verwoord is in de bestuurlijke verantwoordingen over het jaar 2014 van het CAK. Behalve beheershandelingen omvat financieel beheer de vastlegging daarvan in de administratie. Hierbij worden de volgende definities gehanteerd: 
 ### *Financieel beheer* 
@@ -433,21 +389,15 @@ Financieel beheer is controleerbaar als de beschikbare informatie de controleren
 
 ####Toetsingscriteria voor het onderzoek naar de naleving van de voorschriften van de bestuurlijke verantwoordingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De externe accountant moet vaststellen of de bestuurlijke verantwoordingen zijn opgesteld in overeenstemming met het Model Jaarverslaggeving 2014 CAK. Zijn bevindingen legt hij vast in het onderdeel rapport van feitelijke bevindingen van de samenvattende accountantsrapportage.    
 ### 4.7  
 
 ####Toetsingscriteria voor het onderzoek naar de naleving van de voorschriften van het uitvoeringsverslag
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De externe accountant moet vaststellen of het uitvoeringsverslag is opgesteld in overeenstemming met het Model Jaarverslaggeving 2014 CAK. Zijn bevindingen legt hij vast in het onderdeel rapport van feitelijke bevindingen van de samenvattende accountantsrapportage.    
 ### 4.8  
 
 ####Materialiteit (betrouwbaarheid en nauwkeurigheid)
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Om te kunnen vaststellen of aan de financiële rechtmatigheidseisen is voldaan, moet de externe accountant van de volgende goedkeuringstoleranties uitgaan:  Tabel 1. Goedkeuringstoleranties 
 
@@ -465,20 +415,18 @@ Om te kunnen vaststellen of aan de financiële rechtmatigheidseisen is voldaan, 
 | Uitkeringen CER  | 1% van de in totaal uitgekeerde CER-gelden  |
 | Interest geldmiddelen AFBZ en Zvf  | 1% van het totaal van de verantwoorde interestmiddelen AFBZ en Zvf  |
 
-<sup>Bron: VWS en NZa</sup>Om de mate te kunnen bepalen waarin de rechtmatigheid is gewaarborgd, moet de externe accountant uitgaan van de hierna opgenomen normen. Deze normen zijn gebaseerd op de normen voor departementale auditdiensten.  Tabel 2. Uitspraak over de mate waarin rechtmatigheid is gewaarborgd<sup> 1 Voor specifieke onderdelen kan op basis van de geldende wet- en regelgeving een andere rechtmatigheid van toepassing zijn. Indien dit het geval is wordt hier in het Protocol Accountantsonderzoek 2014 CAK specifiek naar verwezen. </sup>  
+Bron: VWS en NZaOm de mate te kunnen bepalen waarin de rechtmatigheid is gewaarborgd, moet de externe accountant uitgaan van de hierna opgenomen normen. Deze normen zijn gebaseerd op de normen voor departementale auditdiensten.  Tabel 2. Uitspraak over de mate waarin rechtmatigheid is gewaarborgd<sup> 1 Voor specifieke onderdelen kan op basis van de geldende wet- en regelgeving een andere rechtmatigheid van toepassing zijn. Indien dit het geval is wordt hier in het Protocol Accountantsonderzoek 2014 CAK specifiek naar verwezen. </sup>  
 
 |--- | Rechtmatigheid is gewaarborgd  | Rechtmatigheid met beperking  | Geen oordeel over rechtmatigheid  | Rechtmatigheid niet gewaarborgd  |
 |:---|:---|:---|:---|:---|
-| Fouten in de verantwoording  | < 1%  | > 1%  | < 3%  | –  | > 3%  |
-| Onzekerheden in de verantwoording  | < 3%  | > 3%  | <10%  | > 10%  | –  |
+| Fouten in de verantwoording  | ≤ 1%  | > 1%  | ≤ 3%  | –  | > 3%  |
+| Onzekerheden in de verantwoording  | ≤ 3%  | > 3%  | ≤10%  | > 10%  | –  |
 | Soort controleverklaring  | Goedkeurend  | Met beperking  | Oordeelonthouding  | Afkeurend  |
 
-<sup>Bron: normen voor departementale auditdiensten</sup>Van een fout in de verantwoording is sprake wanneer gebleken is dat − een gedeelte van − een post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving van de Wtcg, de beheerskosten AWBZ, de AWBZ, de CER of de Wmo. Een onzekerheid in de verantwoording doet zich voor als gebleken is dat onvoldoende informatie beschikbaar is om een − gedeelte van een − post als rechtmatig of onrechtmatig aan te merken; kortom, als onzekerheid bestaat over de (on-)rechtmatigheid van de post. De rechtmatigheid van een post is gewaarborgd als met een betrouwbaarheid van 95% de bewering juist is dat de financiële verantwoording geen grotere fout bevat dan de genoemde goedkeuringstolerantie. Voor zover het de rechtmatigheid betreft, worden fouten in absolute zin opgevat. Saldering van fouten is niet toegestaan. Bij het onderzoek naar de rechtmatigheid van posten die tussen het einde van het kalenderjaar en de afsluitdatum van de financiële verantwoording zijn ontvangen, hanteert de externe accountant dezelfde goedkeuringstolerantie als bij zijn getrouwheidsonderzoek. Ditzelfde geldt voor het onderzoek naar de schattingen van de posten die na de afsluitdatum nog moeten worden ontvangen. Het CAK moet geconstateerde fouten in principe corrigeren in het financieel verslag. Onzekerheden in het verslag moet het CAK zoveel mogelijk kwantificeren. Het CAK moet fouten waarvan het niet mogelijk is om ze te corrigeren toelichten in de bestuurlijke verantwoordingen. Dit geldt ook voor geconstateerde onzekerheden over de rechtmatigheid. Het CAK geeft hierbij de verbeteracties aan die het denkt te starten of heeft gestart om de geconstateerde structurele fouten in de toekomst te voorkomen.    
+Bron: normen voor departementale auditdiensten Van een fout in de verantwoording is sprake wanneer gebleken is dat − een gedeelte van − een post niet in overeenstemming is met één of meer aspecten van de wet- en regelgeving van de Wtcg, de beheerskosten AWBZ, de AWBZ, de CER of de Wmo. Een onzekerheid in de verantwoording doet zich voor als gebleken is dat onvoldoende informatie beschikbaar is om een − gedeelte van een − post als rechtmatig of onrechtmatig aan te merken; kortom, als onzekerheid bestaat over de (on-)rechtmatigheid van de post. De rechtmatigheid van een post is gewaarborgd als met een betrouwbaarheid van 95% de bewering juist is dat de financiële verantwoording geen grotere fout bevat dan de genoemde goedkeuringstolerantie. Voor zover het de rechtmatigheid betreft, worden fouten in absolute zin opgevat. Saldering van fouten is niet toegestaan. Bij het onderzoek naar de rechtmatigheid van posten die tussen het einde van het kalenderjaar en de afsluitdatum van de financiële verantwoording zijn ontvangen, hanteert de externe accountant dezelfde goedkeuringstolerantie als bij zijn getrouwheidsonderzoek. Ditzelfde geldt voor het onderzoek naar de schattingen van de posten die na de afsluitdatum nog moeten worden ontvangen. Het CAK moet geconstateerde fouten in principe corrigeren in het financieel verslag. Onzekerheden in het verslag moet het CAK zoveel mogelijk kwantificeren. Het CAK moet fouten waarvan het niet mogelijk is om ze te corrigeren toelichten in de bestuurlijke verantwoordingen. Dit geldt ook voor geconstateerde onzekerheden over de rechtmatigheid. Het CAK geeft hierbij de verbeteracties aan die het denkt te starten of heeft gestart om de geconstateerde structurele fouten in de toekomst te voorkomen.    
 ### 4.9  
 
 ####Foutentabel
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De externe accountant neemt in het eerste (assurance) deel van de samenvattende rapportage, het accountantsrapport, een foutentabel op. Geconstateerde fouten die niet gecorrigeerd zijn, moeten – ongeacht hun omvang – in de foutentabel worden vermeld. Met het oog op een adequate onderbouwing van het rechtmatigheidsoordeel is het noodzakelijk dat de externe accountant fouten en onzekerheden zoveel mogelijk kwantificeert.  Tabel 3. Foutentabel (in € 1.000) 
 
@@ -487,25 +435,19 @@ De externe accountant neemt in het eerste (assurance) deel van de samenvattende 
 | Fouten in de verantwoording  | --- | --- | --- |
 | Onzekerheden in de verantwoording  | --- | --- | --- |
 
-<sup>Bron: VWS en NZa</sup>Bij de tabel geeft de externe accountant een toelichting waarin hij aangeeft wat de oorzaak van de fouten en onzekerheden is. Bij fouten in de verantwoording kan onderscheid worden gemaakt in incidentele en structurele fouten. Van een incidentele fout is sprake als het gaat om een toevallige fout. Kenmerkend voor incidentele fouten is dat deze fouten zich in principe niet zullen herhalen. Van een structurele fout is sprake als de oorzaak van de fout gelegen is in − onderdelen van − het uitvoeringssysteem van de wettelijke taken. Daardoor kunnen deze fouten een − zeker − herhalingskarakter vertonen. Het voorgaande is van overeenkomstige toepassing op onzekerheden in de controles. De externe accountant neemt fouten en/of onzekerheden beneden € 10.000 niet afzonderlijk op in de foutentabel, maar als één bedrag. In het accountantsdossier neemt hij deze fouten en onzekerheden wel gespecificeerd op. VWS en de NZa verwachten dat het CAK fouten en onzekerheden analyseert en corrigeert in het eerstvolgende kalenderjaar. VWS en de NZa verwachten van de externe accountant dat hij bij zijn accountantsonderzoek nagaat of het CAK geconstateerde fouten en onzekerheden heeft geanalyseerd en gecorrigeerd. De externe accountant rapporteert hierover in het onderdeel accountantsrapport van de samenvattende accountantsrapportage. Wanneer geen correctie plaatsvindt, moet het CAK dit duidelijk motiveren.     
+Bron: VWS en NZa Bij de tabel geeft de externe accountant een toelichting waarin hij aangeeft wat de oorzaak van de fouten en onzekerheden is. Bij fouten in de verantwoording kan onderscheid worden gemaakt in incidentele en structurele fouten. Van een incidentele fout is sprake als het gaat om een toevallige fout. Kenmerkend voor incidentele fouten is dat deze fouten zich in principe niet zullen herhalen. Van een structurele fout is sprake als de oorzaak van de fout gelegen is in − onderdelen van − het uitvoeringssysteem van de wettelijke taken. Daardoor kunnen deze fouten een − zeker − herhalingskarakter vertonen. Het voorgaande is van overeenkomstige toepassing op onzekerheden in de controles. De externe accountant neemt fouten en/of onzekerheden beneden € 10.000 niet afzonderlijk op in de foutentabel, maar als één bedrag. In het accountantsdossier neemt hij deze fouten en onzekerheden wel gespecificeerd op. VWS en de NZa verwachten dat het CAK fouten en onzekerheden analyseert en corrigeert in het eerstvolgende kalenderjaar. VWS en de NZa verwachten van de externe accountant dat hij bij zijn accountantsonderzoek nagaat of het CAK geconstateerde fouten en onzekerheden heeft geanalyseerd en gecorrigeerd. De externe accountant rapporteert hierover in het onderdeel accountantsrapport van de samenvattende accountantsrapportage. Wanneer geen correctie plaatsvindt, moet het CAK dit duidelijk motiveren.     
 ### 5  
 
 ####Controleverklaring
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 ### 5.1  
 
 ####Inleiding
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 In dit hoofdstuk zijn de door de Nederlandse Beroepsorganisatie van Accountants (NBA) vastgestelde voorbeeldteksten opgenomen van de goedkeurende controleverklaring bij de bestuurlijke verantwoording ten behoeve van het ministerie van Volksgezondheid, Welzijn en Sport en de goedkeurende controleverklaring bij de bestuurlijke verantwoording ten behoeve van de Nederlandse Zorgautoriteit en het Zorginstituut Nederland. De strekking van het oordeel kan behalve goedkeurend ook met beperking, met oordeelonthouding of afkeurend zijn.    
 ### 5.2  
 
 ####Goedkeurende controleverklaring ten behoeve van het ministerie van Volksgezondheid, Welzijn en Sport
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Hieronder is een voorbeeldtekst opgenomen voor een goedkeurende controleverklaring bij de bestuurlijke verantwoording 2014 ten behoeve van het ministerie van Volksgezondheid, Welzijn en Sport. 
 ### *CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT BETREFFENDE DE BESTUURLIJKE VERANTWOORDING* 
@@ -530,8 +472,6 @@ Zonder afbreuk te doen aan ons oordeel vestigen wij de aandacht op pagina ... in
 
 ####Goedkeurende controleverklaring ten behoeve van de Nederlandse Zorgautoriteit en het Zorginstituut Nederland
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Hieronder is een voorbeeldtekst opgenomen voor een goedkeurende controleverklaring bij de bestuurlijke verantwoording 2014 ten behoeve van de Nederlandse Zorgautoriteit en het Zorginstituut Nederland. 
 ### *CONTROLEVERKLARING VAN DE ONAFHANKELIJKE ACCOUNTANT BETREFFENDE DE BESTUURLIJKE VERANTWOORDING* 
 
@@ -555,19 +495,15 @@ Zonder afbreuk te doen aan ons oordeel vestigen wij de aandacht op pagina .. in 
 
 ####Samenvattende rapportage accountant
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### 6.1  
 
 ####Inleiding
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Naast de controleverklaring legt de externe accountant in een samenvattende rapportage zijn bevindingen vast van zijn onderzoek naar: 
 
 1. de getrouwheid van de jaarrekening van het CAK;  
 
-2. de rechtmatigheid van de in de bestuurlijke verantwoordingen opgenomen geldstromen voor aanspraken op tegemoetkoming Wtcg, beheerskosten CAK, interest geldmiddelen Wtcg, betaling van zorgaanspraken AWBZ, eigen bijdragen Zorg zonder Verblijf, kortingen Wtcg Zorg zonder Verblijf, eigen bijdragen Zorg met Verblijf, eigen bijdragen Wmo, kortingen Wtcg Wmo, uitkeringen CER en interest geldmiddelen AFBZ<sup> 9 Interest geldmiddelen AFBZ is inclusief de verantwoording van interest geldmiddelen Wmo. </sup> en Zvf;  
+2. de rechtmatigheid van de in de bestuurlijke verantwoordingen opgenomen geldstromen voor aanspraken op tegemoetkoming Wtcg, beheerskosten CAK, interest geldmiddelen Wtcg, betaling van zorgaanspraken AWBZ, eigen bijdragen Zorg zonder Verblijf, kortingen Wtcg Zorg zonder Verblijf, eigen bijdragen Zorg met Verblijf, eigen bijdragen Wmo, kortingen Wtcg Wmo, uitkeringen CER en interest geldmiddelen AFBZ<sup> 10 Interest geldmiddelen AFBZ is inclusief de verantwoording van interest geldmiddelen Wmo. </sup> en Zvf;  
 
 3. of het beheer en de organisatie van het CAK voldoen aan de eisen van doelmatigheid;  
 
@@ -583,8 +519,6 @@ Naast de controleverklaring legt de externe accountant in een samenvattende rapp
 ### 6.2  
 
 ####Accountantsrapport: assurance deel
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 In dit deel van de samenvattende rapportage (assurance) geeft de externe accountant zijn bevindingen en conclusies weer van de volgende twee deelonderzoeken: 
 
@@ -626,8 +560,6 @@ In dit deel van de samenvattende rapportage (assurance) geeft de externe account
 ### 6.3  
 
 ####Rapport van feitelijke bevindingen: non-assurance
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 In dit deel van de samenvattende rapportage (non-assurance) geeft de externe accountant zijn bevindingen en conclusies weer van de vier deelonderzoeken naar: 
 

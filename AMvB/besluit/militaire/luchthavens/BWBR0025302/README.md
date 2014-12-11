@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Defensie van 21 april 2008, nr. C/2008009692, Directie Juridische Zaken, gedaan in overeenstemming met Onze Minister van Volkshuisvesting Ruimtelijke Ordening en Milieubeheer;
 
-Gelet op de [artikelen 10.12, eerste en tweede lid](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [10.13, tweede en vierde lid](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [10.19](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [10.27, vijfde lid](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [10.39, vijfde lid, van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);
+Gelet op de artikelen 10.12, eerste en tweede lid, 10.13, tweede en vierde lid, 10.19, 10.27, vijfde lid, en 10.39, vijfde lid, van de Wet luchtvaart;
 
 De Raad van State gehoord (advies van 29 mei 2008, no. W07.08.0143/II);
 
@@ -20,21 +20,21 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit wordt verstaan onder: 
 
-*ander geluidsgevoelig gebouw:* gebouw met een onderwijsfunctie of gezondheidszorgfunctie als bedoeld in [artikel 1.1 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+*ander geluidsgevoelig gebouw:* gebouw met een onderwijsfunctie of gezondheidszorgfunctie als bedoeld in artikel 1.1 van het Bouwbesluit 2012;  
 
-*gebouw:* gebouw als bedoeld in [artikel 1, eerste lid, onder c, van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md);  
+*gebouw:* gebouw als bedoeld in artikel 1, eerste lid, onder c, van de Woningwet;  
 
 *geluidscontour:* de lijn die punten verbindt waar de geluidsbelasting een gelijke waarde heeft;  
 
-*geluidszone:* dat deel van het in [artikel 10.17, eerste lid, van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde beperkingengebied, dat voortvloeit uit de in [artikel 10.17, tweede lid, van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde grenswaarde voor de geluidsbelasting;  
+*geluidszone:* dat deel van het in artikel 10.17, eerste lid, van de wet bedoelde beperkingengebied, dat voortvloeit uit de in artikel 10.17, tweede lid, van de wet bedoelde grenswaarde voor de geluidsbelasting;  
 
-*grenswaarde voor de geluidsbelasting:* grenswaarde voor de geluidsbelasting als bedoeld in [artikel 10.12, tweede lid, van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+*grenswaarde voor de geluidsbelasting:* grenswaarde voor de geluidsbelasting als bedoeld in artikel 10.12, tweede lid, van de wet;  
 
 *helihaven:* luchthaven die permanent is ingericht en uitgerust voor het uitsluitend gebruik door helikopters;  
 
 *ligplaats:* plaats in het water, bestemd of aangewezen om door een woonschip bij verblijf te worden ingenomen;  
 
-*obstakelbeheergebied:* dat deel van het in [artikel 10.17, eerste lid, van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde beperkingengebied, dat voortvloeit uit de in [artikel 10.17, derde lid, onder b, van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde regels voor de maximale hoogte van objecten;  
+*obstakelbeheergebied:* dat deel van het in artikel 10.17, eerste lid, van de wet bedoelde beperkingengebied, dat voortvloeit uit de in artikel 10.17, derde lid, onder b, van de wet bedoelde regels voor de maximale hoogte van objecten;  
 
 *Onze Minister:* Onze Minister van Defensie;  
 
@@ -42,19 +42,19 @@ Hebben goedgevonden en verstaan:
 
 *standplaats:* kavel, bestemd voor het plaatsen van een woonwagen, waarop voorzieningen aanwezig zijn die op het leidingnet van de openbare nutsbedrijven, andere instellingen of van gemeenten kunnen worden aangesloten;  
 
-*tijdstip van vaststelling van de geluidszone:* tijdstip waarop door Onze Minister voor de betrokken militaire luchthaven de geluidszone op grond van [artikel 25a van de Luchtvaartwet](../../../../../wet/luchtvaartwet/BWBR0002267/README.md) is vastgesteld dan wel de geluidszone als onderdeel van het beperkingengebied op grond van [artikel 10.17 van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is vastgesteld;  
+*tijdstip van vaststelling van de geluidszone:* tijdstip waarop door Onze Minister voor de betrokken militaire luchthaven de geluidszone op grond van artikel 25a van de Luchtvaartwet is vastgesteld dan wel de geluidszone als onderdeel van het beperkingengebied op grond van artikel 10.17 van de wet is vastgesteld;  
 
-*vergunning voor het bouwen:* vergunning als bedoeld in [artikel 40, eerste lid, van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) dan wel vergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md); 
+*vergunning voor het bouwen:* vergunning als bedoeld in artikel 40, eerste lid, van de Woningwet dan wel vergunning als bedoeld in artikel 2.1, eerste lid, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht; 
 
-*VFR-vlucht:* VFR-vlucht als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);  
+*VFR-vlucht:* VFR-vlucht als bedoeld in artikel 1 van het Besluit luchtverkeer 2014;  
 
-*wet:* [Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).     
+*wet:* Wet luchtvaart.     
 2.  Voor de toepassing van het begrip «ligplaats» wordt onder woonschip verstaan een schip dat uitsluitend of in hoofdzaak wordt gebezigd of bestemd is voor bewoning.   
-3.  Een opvangcentrum als bedoeld in [artikel 1, onderdeel d, van de Wet Centraal Orgaan opvang asielzoekers](../../../../../wet/wet/centraal/orgaan/opvang/asielzoekers/BWBR0006685/README.md) is geen woning als bedoeld in dit besluit.  
+3.  Een opvangcentrum als bedoeld in artikel 1, onderdeel d, van de Wet Centraal Orgaan opvang asielzoekers is geen woning als bedoeld in dit besluit.  
 
 ### Artikel  2  
 
-1.  [Titel 10.3 van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is van toepassing op de volgende militaire luchthavens: 
+1.  Titel 10.3 van de wet is van toepassing op de volgende militaire luchthavens: 
 
 a. Deelen, Eindhoven, Gilze-Rijen, De Kooy, Leeuwarden, De Peel, Volkel en Woensdrecht;  
 
@@ -71,7 +71,7 @@ b. andere, bij ministeriële regeling aangewezen, luchthavens dan in onderdeel a
 
 ### Artikel  3  
 
-1.  De geluidsbelasting door landende en opstijgende luchtvaartuigen, bedoeld in [artikel 10.12, tweede lid, van de wet](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), wordt uitgedrukt in Kosteneenheden.   
+1.  De geluidsbelasting door landende en opstijgende luchtvaartuigen, bedoeld in artikel 10.12, tweede lid, van de wet, wordt uitgedrukt in Kosteneenheden.   
 2.  De geluidsbelasting in Kosteneenheden, bedoeld in het eerste lid, op een bepaalde plaats, veroorzaakt door de gezamenlijke op een luchthaven landende en opstijgende luchtvaartuigen met een toegelaten totaalmassa van ten minste 6000 kg dan wel minder dan 6000 kg maar meer dan 390 kg, voor zover dit vaste-vleugelvliegtuigen met straalaandrijving en helikopters betreft, dan wel deze luchtvaartuigen gebruik maken van dezelfde aan- en uitvliegroutes als de luchtvaartuigen van ten minste 6000 kg, dan wel de vliegpatronen van deze luchtvaartuigen overeenkomen met die van luchtvaartuigen van ten minste 6000 kg, wordt vastgesteld volgens de formule: geluidsbelasting = 20xlog(Σ nx10L/15)-157, waarin het teken «Σ » staat voor de optelling van de bijdragen van alle luchtvaartuigen die ter plaatse voorbij vliegen in een periode van een jaar en waarin het teken «n» staat voor een factor gelijk aan 1 gedurende de periode van 8.00 tot 18.00 uur en voor de verdere tijdsperiode volgens onderstaande tabel:  
 
 | n  | Tijdsperiode (lokale tijd)  |--- | van  | tot  |
@@ -152,9 +152,9 @@ In afwijking van artikel 5, eerste lid, is de maximaal toelaatbare geluidsbelast
 
 In afwijking van artikel 8 is 65 Kosteneenheden de maximaal toelaatbare geluidsbelasting van een woning als bedoeld in dat artikel indien: 
 
-a. de geluidwering van de uitwendige scheidingsconstructie van de geluidsgevoelige ruimten, bedoeld in de in [artikel 10.24](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) j° [8.32 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde regeling, ten minste gelijk is aan de in die regeling aangegeven waarden;  
+a. de geluidwering van de uitwendige scheidingsconstructie van de geluidsgevoelige ruimten, bedoeld in de in artikel 10.24 j° 8.32 van de Wet luchtvaart bedoelde regeling, ten minste gelijk is aan de in die regeling aangegeven waarden;  
 
-b. de woning gebouwd is krachtens een vergunning voor het bouwen waarvoor de aanvraag bij burgemeester en wethouders is ingediend na 14 februari 1983, en de geluidsbelasting in Kosteneenheden volgens de geluidscontouren niet zodanig hoger is dan de geluidsbelasting in Kosteneenheden op de datum waarop de vergunning voor het bouwen is verleend, dat krachtens de onder a bedoelde regeling een zwaardere eis aan de onder a bedoelde geluidwering zou gelden dan de eis die op de laatstbedoelde datum gold bij toepassing van artikel 8 van het Besluit geluidwering gebouwen, dan wel van [afdeling 3.1 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+b. de woning gebouwd is krachtens een vergunning voor het bouwen waarvoor de aanvraag bij burgemeester en wethouders is ingediend na 14 februari 1983, en de geluidsbelasting in Kosteneenheden volgens de geluidscontouren niet zodanig hoger is dan de geluidsbelasting in Kosteneenheden op de datum waarop de vergunning voor het bouwen is verleend, dat krachtens de onder a bedoelde regeling een zwaardere eis aan de onder a bedoelde geluidwering zou gelden dan de eis die op de laatstbedoelde datum gold bij toepassing van artikel 8 van het Besluit geluidwering gebouwen, dan wel van afdeling 3.1 van het Bouwbesluit 2012;  
 
 c. door Onze Minister een aanbod wordt gedaan voor het treffen van zodanige geluidwerende voorzieningen dat voldaan wordt aan de onder a bedoelde waarden, of  
 
@@ -172,9 +172,9 @@ d. door de eigenaar of bewoner geen toestemming wordt gegeven voor het uitvoeren
 
 In afwijking van artikel 10 is 65 Kosteneenheden de maximaal toelaatbare geluidsbelasting van een ander geluidsgevoelig gebouw als bedoeld in dat artikel indien: 
 
-a. de geluidwering van de uitwendige scheidingsconstructie van de geluidsgevoelige ruimten, bedoeld in de in [artikel 10.24](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) j° [8.32 van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) bedoelde regeling, ten minste gelijk is aan de in die regeling aangegeven waarden;  
+a. de geluidwering van de uitwendige scheidingsconstructie van de geluidsgevoelige ruimten, bedoeld in de in artikel 10.24 j° 8.32 van de Wet luchtvaart bedoelde regeling, ten minste gelijk is aan de in die regeling aangegeven waarden;  
 
-b. het andere geluidsgevoelige gebouw gebouwd is krachtens een vergunning voor het bouwen waarvoor de aanvraag bij burgemeester en wethouders is ingediend na 14 februari 1983, en de geluidsbelasting in Kosteneenheden volgens de geluidscontouren niet zodanig hoger is dan de geluidsbelasting in Kosteneenheden op de datum waarop de vergunning voor het bouwen is verleend, dat krachtens de onder a bedoelde regeling een zwaardere eis aan de onder a bedoelde geluidwering zou gelden dan de eis die op de laatstbedoelde datum gold bij toepassing van artikel 8 van het Besluit geluidwering gebouwen, dan wel van [afdeling 3.1 van het Bouwbesluit 2012](../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md);  
+b. het andere geluidsgevoelige gebouw gebouwd is krachtens een vergunning voor het bouwen waarvoor de aanvraag bij burgemeester en wethouders is ingediend na 14 februari 1983, en de geluidsbelasting in Kosteneenheden volgens de geluidscontouren niet zodanig hoger is dan de geluidsbelasting in Kosteneenheden op de datum waarop de vergunning voor het bouwen is verleend, dat krachtens de onder a bedoelde regeling een zwaardere eis aan de onder a bedoelde geluidwering zou gelden dan de eis die op de laatstbedoelde datum gold bij toepassing van artikel 8 van het Besluit geluidwering gebouwen, dan wel van afdeling 3.1 van het Bouwbesluit 2012;  
 
 c. door Onze Minister een aanbod wordt gedaan voor het treffen van zodanige geluidwerende voorzieningen dat voldaan wordt aan de onder a bedoelde waarden; of  
 
@@ -336,7 +336,7 @@ Onverminderd artikel 21 kan de recreatieve burgerluchtvaart buiten de reguliere 
 
 a. een hoofdvliegcoördinator is aanwezig;  
 
-b. binnen het plaatselijk verkeersgebied wordt uitsluitend gevlogen overeenkomstig de voor VFR-vluchten geldende bepalingen van het Luchtverkeersreglement;  
+b. binnen het plaatselijk verkeersgebied wordt uitsluitend gevlogen overeenkomstig de voor VFR-vluchten geldende bepalingen van uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L281) en het Besluit luchtverkeer 2014;  
 
 c. de terreingedeeltes en verkeerscircuits voor zweefvliegen, sleepvliegen, motorsportvliegen, modelvliegen en zeilvliegen zijn geheel van elkaar gescheiden, waarbij voor motorsportvliegen het circuit voor ultralichte vliegtuigen gescheiden is van de overige motorsportvliegtuigen;  
 
@@ -363,7 +363,7 @@ Burgerluchtvaart die een algemeen maatschappelijk belang dient, kan buiten de re
 
 a. de vlucht wordt uitgevoerd met een helikopter of met een vaste-vleugelvliegtuig met schroefaandrijving en met een massa van ten hoogste 6000 kg;  
 
-b. binnen het plaatselijk verkeersgebied wordt uitsluitend gevlogen overeenkomstig de voor VFR-vluchten geldende bepalingen van het [Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);  
+b. binnen het plaatselijk verkeersgebied wordt uitsluitend gevlogen overeenkomstig de voor VFR-vluchten geldende bepalingen van uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van uitvoeringsverordening (EU) nr. 1035/2011 en verordeningen (EG) nr. 1265/2007, (EG) 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L281) en het Besluit luchtverkeer 2014;  
 
 c. gebruik wordt gemaakt van daarvoor door de commandant van de luchthaven aangewezen routes;  
 

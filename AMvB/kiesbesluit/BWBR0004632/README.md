@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken van 29 augustus 1989, nr. CW89/1/U9, Stafafdeling Constitutionele Zaken en Wetgeving; 
 
-Gelet op de [Kieswet](../../../wet/kieswet/BWBR0004627/README.md); 
+Gelet op de Kieswet; 
 
 Gezien het advies van de Kiesraad van 5 april 1989, nr. 4129; De Raad van State gehoord (advies van 10 oktober 1989, nr. W04.89.0517); 
 
@@ -14,7 +14,7 @@ Gezien het nader rapport van de Staatssecretaris van Binnenlandse Zaken van 16 o
 Hebben goedgevonden en verstaan:      
 ### Afdeling  II  
 
-####De verkiezing van de leden van de tweede kamer der Staten-Generaal, van provinciale staten en van de gemeenteraden 
+####De verkiezing van de leden van de Tweede Kamer der Staten-Generaal, van provinciale staten en van de gemeenteraden 
 
 ### Hoofdstuk  D  
 
@@ -39,24 +39,29 @@ d.het adres;
 e.de nationaliteit. 
 2. Burgemeester en wethouders schrappen de registratie van de kiesgerechtigdheid van de in het eerste lid bedoelde personen indien aan hen omstandigheden bekend worden op grond waarvan de desbetreffende persoon niet als kiezer behoort te zijn geregistreerd. 
 
+### Artikel  D 1b  
+Treedt in werking per 01-01-2015 
+
+Op verzoek van burgemeester en wethouders verstrekt het dagelijks bestuur informatie over de grenzen van het gebied van het waterschap. 
+
 ### Artikel  D 2  
 
-1.  De formulieren voor het verzoek tot registratie van de kiesgerechtigdheid, in te dienen overeenkomstig de [artikelen D 3, tweede lid](../../../wet/kieswet/BWBR0004627/README.md) of [D 3a, tweede lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), zijn verkrijgbaar bij het orgaan waarbij het verzoek moet worden ingediend, en bij elke gemeente.    
-2.   De formulieren voor het verzoek tot registratie van de kiesgerechtigdheid, in te dienen overeenkomstig [artikel D 3a, derde lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), zijn verkrijgbaar bij het ministerie waaronder de werkzaamheden van de betrokken functionaris ressorteren.    
+1.  De formulieren voor het verzoek tot registratie van de kiesgerechtigdheid, in te dienen overeenkomstig de artikelen D 3, tweede lid of D 3a, tweede lid, van de Kieswet, zijn verkrijgbaar bij het orgaan waarbij het verzoek moet worden ingediend, en bij elke gemeente.    
+2.   De formulieren voor het verzoek tot registratie van de kiesgerechtigdheid, in te dienen overeenkomstig artikel D 3a, derde lid, van de Kieswet, zijn verkrijgbaar bij het ministerie waaronder de werkzaamheden van de betrokken functionaris ressorteren.    
 3.   De formulieren, bedoeld in het eerste en tweede lid, zijn verkrijgbaar gedurende de termijn waarbinnen het desbetreffende verzoek kan worden ingediend.   
 
 ### Artikel  D 3  
 
 1.  Het orgaan waarbij een verzoek tot registratie van de kiesgerechtigdheid is ingediend, gaat na of aan dat orgaan met betrekking tot de verzoeker gegevens bekend zijn en, zo dit het geval is, of deze overeenstemmen met de in het verzoek vermelde gegevens. Bij doorzending van het verzoek deelt het orgaan zijn bevindingen mede. Het orgaan houdt van deze verzending aantekening.    
-2.  De minister van Binnenlandse Zaken en Koninkrijksrelaties onderscheidenlijk burgemeester en wethouders van ’s-Gravenhage gaan na of er met betrekking tot de verzoeker die zich vóór 1 oktober 1994, dan wel op of na 1 oktober 1994 buiten Nederland heeft gevestigd, gegevens bekend zijn in het persoonskaartenarchief of het schakelregister, bedoeld in [artikel 4.5 van de Wet basisregistratie personen](../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), onderscheidenlijk in de basisregistratie personen, en, zo dit het geval is, of deze overeenstemmen met de in het verzoek tot registratie vermelde gegevens.   
+2.  De minister van Binnenlandse Zaken en Koninkrijksrelaties onderscheidenlijk burgemeester en wethouders van ’s-Gravenhage gaan na of er met betrekking tot de verzoeker die zich vóór 1 oktober 1994, dan wel op of na 1 oktober 1994 buiten Nederland heeft gevestigd, gegevens bekend zijn in het persoonskaartenarchief of het schakelregister, bedoeld in artikel 4.5 van de Wet basisregistratie personen, onderscheidenlijk in de basisregistratie personen, en, zo dit het geval is, of deze overeenstemmen met de in het verzoek tot registratie vermelde gegevens.   
 
 ### Artikel  D 5  
 
-Indien aan het orgaan waarbij een verzoek tot registratie van de kiesgerechtigdheid kan worden ingediend, omstandigheden bekend worden, op grond waarvan een persoon die ingevolge de [artikelen D 3, eerste lid](../../../wet/kieswet/BWBR0004627/README.md), of [D 3a, eerste lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) als kiezer is geregistreerd, niet als kiezer behoort te zijn geregistreerd, wordt daarvan terstond mededeling gedaan aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onderscheidenlijk burgemeester en wethouders van ’s-Gravenhage.  
+Indien aan het orgaan waarbij een verzoek tot registratie van de kiesgerechtigdheid kan worden ingediend, omstandigheden bekend worden, op grond waarvan een persoon die ingevolge de artikelen D 3, eerste lid, of D 3a, eerste lid, van de Kieswet als kiezer is geregistreerd, niet als kiezer behoort te zijn geregistreerd, wordt daarvan terstond mededeling gedaan aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties onderscheidenlijk burgemeester en wethouders van ’s-Gravenhage.  
 
 ### Artikel  D 6  
 
-De in [artikel D 3c, eerste en tweede lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) bedoelde bestanden bevatten met betrekking tot elke persoon die hierin is opgenomen de naam, de voorletters, het woonadres, de geboortedatum en, indien van toepassing, het correspondentie-adres, zoals verstrekt door de verzoeker, alsmede de datum van opname in het bestand en, indien van toepassing, de datum van het laatste registratieverzoek.  
+De in artikel D 3c, eerste en tweede lid, van de Kieswet bedoelde bestanden bevatten met betrekking tot elke persoon die hierin is opgenomen de naam, de voorletters, het woonadres, de geboortedatum en, indien van toepassing, het correspondentie-adres, zoals verstrekt door de verzoeker, alsmede de datum van opname in het bestand en, indien van toepassing, de datum van het laatste registratieverzoek.  
 
 ### Hoofdstuk  E  
 
@@ -79,8 +84,8 @@ Het stembureau bestaat uit ten minste drie en ten hoogste zeven leden.
 
 ### Artikel  G 1  
 
-1.  De waarborgsommen, bedoeld in het tweede lid van de [artikelen G 1](../../../wet/kieswet/BWBR0004627/README.md), [G 2](../../../wet/kieswet/BWBR0004627/README.md) en [G 3](../../../wet/kieswet/BWBR0004627/README.md), alsmede de waarborgsom, bedoeld in het derde lid van [artikel Q 6](../../../wet/kieswet/BWBR0004627/README.md) juncto het tweede lid van artikel G 1 van de Kieswet, dienen te worden overgemaakt op de daartoe bestemde rekening van onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, de gemeente waar het centraal stembureau voor de verkiezingen van de leden van provinciale staten is gevestigd, of de gemeente, bij een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van bank mag uitoefenen, onder vermelding van de woorden "waarborgsom registratie".    
-2.   De voorzitter van het centraal stembureau deelt het orgaan waaraan de waarborgsommen zijn betaald, zo spoedig mogelijk na de openbaarmaking van de kandidatenlijsten mee welke waarborgsommen ingevolge het tweede lid van [artikel G 1](../../../wet/kieswet/BWBR0004627/README.md), [G 2](../../../wet/kieswet/BWBR0004627/README.md) of [G 3](../../../wet/kieswet/BWBR0004627/README.md), dan wel ingevolge het derde lid van [artikel Q 6](../../../wet/kieswet/BWBR0004627/README.md) juncto het tweede lid van artikel G 1 van de Kieswet moeten worden terugbetaald. Dit orgaan gaat vervolgens zo spoedig mogelijk over tot terugbetaling van die waarborgsommen. Over de terug te betalen waarborgsommen wordt geen rente vergoed.   
+1.  De waarborgsommen, bedoeld in het tweede lid van de artikelen G 1, G 2 en G 3, alsmede de waarborgsom, bedoeld in het derde lid van artikel Q 6 juncto het tweede lid van artikel G 1 van de Kieswet, dienen te worden overgemaakt op de daartoe bestemde rekening van onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, de gemeente waar het centraal stembureau voor de verkiezingen van de leden van provinciale staten is gevestigd, of de gemeente, bij een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen, onder vermelding van de woorden "waarborgsom registratie".    
+2.   De voorzitter van het centraal stembureau deelt het orgaan waaraan de waarborgsommen zijn betaald, zo spoedig mogelijk na de openbaarmaking van de kandidatenlijsten mee welke waarborgsommen ingevolge het tweede lid van artikel G 1, G 2 of G 3, dan wel ingevolge het derde lid van artikel Q 6 juncto het tweede lid van artikel G 1 van de Kieswet moeten worden terugbetaald. Dit orgaan gaat vervolgens zo spoedig mogelijk over tot terugbetaling van die waarborgsommen. Over de terug te betalen waarborgsommen wordt geen rente vergoed.   
 
 ### Hoofdstuk  H  
 
@@ -88,20 +93,20 @@ Het stembureau bestaat uit ten minste drie en ten hoogste zeven leden.
 
 ### Artikel  H 1  
 
-De formulieren voor de kandidatenlijsten, bedoeld in [artikel H 1, derde lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), en voor de verklaringen, bedoeld in de [artikelen H 3, vijfde lid](../../../wet/kieswet/BWBR0004627/README.md), [H 4, zevende lid](../../../wet/kieswet/BWBR0004627/README.md), en [H9, vierde lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), zijn gedurende drie weken vóór en op de dag van de kandidaatstelling verkrijgbaar bij elke gemeente. De verklaring, bedoeld in artikel H 9, vierde lid, van de Kieswet is tevens gedurende drie weken vóór en op de dag van kandidaatstelling verkrijgbaar bij het centraal stembureau. 
+De formulieren voor de kandidatenlijsten, bedoeld in artikel H 1, derde lid, van de Kieswet, en voor de verklaringen, bedoeld in de artikelen H 3, vijfde lid, H 4, zevende lid, en H9, vierde lid, van de Kieswet, zijn gedurende drie weken vóór en op de dag van de kandidaatstelling verkrijgbaar bij elke gemeente. De verklaring, bedoeld in artikel H 9, vierde lid, van de Kieswet is tevens gedurende drie weken vóór en op de dag van kandidaatstelling verkrijgbaar bij het centraal stembureau. 
 
 ### Artikel  H 2  
 
-1.  Een kandidaat wordt op de kandidatenlijst vermeld met naam, voorletters, geboortedatum en gemeente of woonplaats als bedoeld in [artikel 1, onderdeel r, van de Wet basisregistraties adressen en gebouwen](../../../wet/wet/basisregistraties/adressen/en/gebouwen/BWBR0023466/README.md). Achter de voorletters kan tussen haakjes de roepnaam van de kandidaat worden vermeld.   
+1.  Een kandidaat wordt op de kandidatenlijst vermeld met naam, voorletters, geboortedatum en gemeente of woonplaats als bedoeld in artikel 1, onderdeel r, van de Wet basisregistraties adressen en gebouwen. Achter de voorletters kan tussen haakjes de roepnaam van de kandidaat worden vermeld.   
 2.  Nadere aanduidingen van de naam, mits op de gebruikelijke wijze afgekort, mogen aan de naam worden toegevoegd.    
-3.  Een persoon die gehuwd is of gehuwd is geweest, dan wel wiens partnerschap geregistreerd is of geregistreerd is geweest, wordt op de lijst vermeld hetzij met de eigen geslachtsnaam, hetzij, voor zover hij daartoe op grond van [artikel 9 van Boek 1 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) dan wel artikel 9 van Boek 1 van het Burgerlijk Wetboek BES bevoegd is, met de geslachtsnaam van de echtgenoot of geregistreerde partner, dan wel met de eigen geslachtsnaam door middel van een liggend streepje gevolgd door of voorafgegaan door de geslachtsnaam van de echtgenoot of geregistreerde partner.    
+3.  Een persoon die gehuwd is of gehuwd is geweest, dan wel wiens partnerschap geregistreerd is of geregistreerd is geweest, wordt op de lijst vermeld hetzij met de eigen geslachtsnaam, hetzij, voor zover hij daartoe op grond van artikel 9 van Boek 1 van het Burgerlijk Wetboek dan wel artikel 9 van Boek 1 van het Burgerlijk Wetboek BES bevoegd is, met de geslachtsnaam van de echtgenoot of geregistreerde partner, dan wel met de eigen geslachtsnaam door middel van een liggend streepje gevolgd door of voorafgegaan door de geslachtsnaam van de echtgenoot of geregistreerde partner.    
 4.  Achter de voorletters of, indien vermeld, de roepnaam, mag ter aanduiding van het geslacht van de kandidaat de toevoeging «(m)» of «(v)» worden geplaatst.    
 5.  Indien het betreft de verkiezing van de leden van provinciale staten van Fryslân of van de raden van gemeenten in de provincie Fryslân, mogen aanduidingen op de kandidatenlijst in de Friese taal worden vermeld.   
 
 ### Artikel  H 3  
 
-1.  De waarborgsommen, bedoeld in de [artikelen H 12](../../../wet/kieswet/BWBR0004627/README.md), [H 13](../../../wet/kieswet/BWBR0004627/README.md) en [H 14 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), dienen uiterlijk op de veertiende dag voor de kandidaatstelling te zijn ontvangen op de daartoe bestemde rekening van onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, de gemeente waar het centraal stembureau voor de verkiezingen van de leden van provinciale staten is gevestigd of de gemeente, bij een een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van bank mag uitoefenen, onder vermelding van de woorden "waarborgsom kandidaatstelling".    
-2.   De voorzitter van het centraal stembureau deelt het orgaan waaraan de waarborgsommen zijn betaald, zo spoedig mogelijk na de openbaarmaking van de uitslag van de verkiezing mee welke waarborgsommen ingevolge het [vierde of vijfde lid van artikel H 12](../../../wet/kieswet/BWBR0004627/README.md), [H 13](../../../wet/kieswet/BWBR0004627/README.md) of [H 14 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) moeten worden terugbetaald. Dit orgaan gaat vervolgens zo spoedig mogelijk over tot terugbetaling van die waarborgsommen. Over de terug te geven waarborgsommen wordt geen rente vergoed.   
+1.  De waarborgsommen, bedoeld in de artikelen H 12, H 13 en H 14 van de Kieswet, dienen uiterlijk op de veertiende dag voor de kandidaatstelling te zijn ontvangen op de daartoe bestemde rekening van onderscheidenlijk Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, de gemeente waar het centraal stembureau voor de verkiezingen van de leden van provinciale staten is gevestigd of de gemeente, bij een een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen, onder vermelding van de woorden "waarborgsom kandidaatstelling".    
+2.   De voorzitter van het centraal stembureau deelt het orgaan waaraan de waarborgsommen zijn betaald, zo spoedig mogelijk na de openbaarmaking van de uitslag van de verkiezing mee welke waarborgsommen ingevolge het vierde of vijfde lid van artikel H 12, H 13 of H 14 van de Kieswet moeten worden terugbetaald. Dit orgaan gaat vervolgens zo spoedig mogelijk over tot terugbetaling van die waarborgsommen. Over de terug te geven waarborgsommen wordt geen rente vergoed.   
 
 ### Hoofdstuk  I  
 
@@ -109,11 +114,11 @@ De formulieren voor de kandidatenlijsten, bedoeld in [artikel H 1, derde lid, v
 
 ### Artikel  I 1  
 
-De processen-verbaal van de in de [artikelen I 1](../../../wet/kieswet/BWBR0004627/README.md) en [I 4 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) bedoelde zittingen worden tot en met de dag waarop de kandidatenlijsten openbaar worden gemaakt, ter inzage gelegd bij het centraal stembureau.
+De processen-verbaal van de in de artikelen I 1 en I 4 van de Kieswet bedoelde zittingen worden tot en met de dag waarop de kandidatenlijsten openbaar worden gemaakt, ter inzage gelegd bij het centraal stembureau.
 
 ### Artikel  I 2  
 
-Het centraal stembureau brengt het tijdstip en de plaats van de zitting, bedoeld in de [artikelen I 1, eerste lid](../../../wet/kieswet/BWBR0004627/README.md), en [I 4 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) tijdig ter openbare kennis.
+Het centraal stembureau brengt het tijdstip en de plaats van de zitting, bedoeld in de artikelen I 1, eerste lid, en I 4 van de Kieswet tijdig ter openbare kennis.
 
 ### Hoofdstuk  J  
 
@@ -125,12 +130,12 @@ Het centraal stembureau brengt het tijdstip en de plaats van de zitting, bedoeld
 
 ### Artikel  J 1  
 
-1.  De burgemeester bezorgt de kandidatenlijsten, de adressen en de openingstijden van de stemlokalen en de adressen en de zittingstijden van de mobiele stembureaus uiterlijk op de vierde dag voor de stemming aan het adres van de kiezers. Hierbij vermeldt hij tevens welke stemlokalen voldoen aan [artikel J 4, tweede lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md).   
+1.  De burgemeester bezorgt de kandidatenlijsten, de adressen en de openingstijden van de stemlokalen en de adressen en de zittingstijden van de mobiele stembureaus uiterlijk op de vierde dag voor de stemming aan het adres van de kiezers. Hierbij vermeldt hij tevens welke stemlokalen voldoen aan artikel J 4, tweede lid, van de Kieswet.   
 2.  Op de lijsten, zoals deze ter kennis van de kiezers worden gebracht, worden vermeld de nummers van de lijsten en, in voorkomend geval, de aanduidingen van de politieke groeperingen en de nummers van de lijsten waarmee die lijsten tot een lijstencombinatie zijn verbonden en worden de kandidaten kolomsgewijs vermeld zoals ze op de kandidatenlijst voorkomen, met weglating van de geboortedatum. De lijsten worden gedrukt in de volgorde van de toegekende nummers. De kandidaten worden per lijst doorlopend genummerd.   
 
 ### Artikel  J 2  
 
-1.  Het register, bedoeld in [artikel J 7a, eerste lid, eerste volzin, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), bevat de volgende gegevens: 
+1.  Het register, bedoeld in artikel J 7a, eerste lid, eerste volzin, van de Kieswet, bevat de volgende gegevens: 
 
 a. gemeentecode en volgnummer van de stempas;  
 
@@ -144,14 +149,14 @@ d. aanduiding van een van de volgende redenen van opneming in het register:
 
 2. vervangen door volmachtbewijs;  
 
-3. vervangende stempas verstrekt krachtens [artikel J 8 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md);  
+3. vervangende stempas verstrekt krachtens artikel J 8 van de Kieswet;  
 
 4. vervangen door briefstembewijs;  
 
 5. ongeldig verklaard wegens ontbreken kiesgerechtigdheid of overlijden van de tenaamgestelde;  
 
 6. ongeldig verklaard wegens vastgestelde ontvreemding of andere reden van onrechtmatig in omloop zijn.       
-2.  Het uittreksel van ongeldige stempassen, bedoeld in [artikel J 7a, eerste lid, tweede volzin, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), bevat de gegevens, bedoeld in het eerste lid, onder a, b en d.  
+2.  Het uittreksel van ongeldige stempassen, bedoeld in artikel J 7a, eerste lid, tweede volzin, van de Kieswet, bevat de gegevens, bedoeld in het eerste lid, onder a, b en d.  
 
 ### Artikel  J 3  
 
@@ -190,39 +195,39 @@ Nadat de laatste tot de stemming toegelaten kiezer heeft gestemd, wordt de sleuf
 
 ### Artikel  J 9  
 
-Indien met toepassing van [artikel J 6 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) tegelijk met de stemming in het stemlokaal een of meer andere stemmingen plaatsvinden, gelden de artikelen J 10 tot en met J 12.  
+Indien met toepassing van artikel J 6 van de Kieswet tegelijk met de stemming in het stemlokaal een of meer andere stemmingen plaatsvinden, gelden de artikelen J 10 tot en met J 12.  
 
 ### Artikel  J 10  
 
-1.  Voor zover de stemgerechtigden voor de stemming ingevolge de [Kieswet](../../../wet/kieswet/BWBR0004627/README.md) en de andere stemming, onderscheidenlijk stemmingen, dezelfde zijn, kan de burgemeester besluiten dat tevens voor een of meer andere stemmingen gelden:  
+1.  Voor zover de stemgerechtigden voor de stemming ingevolge de Kieswet en de andere stemming, onderscheidenlijk stemmingen, dezelfde zijn, kan de burgemeester besluiten dat tevens voor een of meer andere stemmingen gelden:  
 
-a. de stempas, bedoeld in [artikel J 7 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md);   
+a. de stempas, bedoeld in artikel J 7 van de Kieswet;   
 
-b. het uittreksel, bedoeld in [artikel J 7a, eerste lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md);   
+b. het uittreksel, bedoeld in artikel J 7a, eerste lid, van de Kieswet;   
 
-c. het verzoekschrift, bedoeld in [artikel K 3 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md);   
+c. het verzoekschrift, bedoeld in artikel K 3 van de Kieswet;   
 
-d. het verzoekschrift, bedoeld in [artikel L 8 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md);   
+d. het verzoekschrift, bedoeld in artikel L 8 van de Kieswet;   
 
-e. het volmachtbewijs, bedoeld in [artikel L 14 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md);      
+e. het volmachtbewijs, bedoeld in artikel L 14 van de Kieswet;      
 2.   Indien de burgemeester een besluit als bedoeld in het eerste lid neemt, gelden de volgende bepalingen:  
 
 a. De tekst van de bescheiden, bedoeld in het eerste lid, wordt aangepast, voor zover dit met het oog op de combinatie van de stemmingen noodzakelijk is.   
 
-b. De verzegelde pakken, bedoeld in [artikel N 2 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), kunnen zo nodig voor de beoordeling van de geldigheid van de andere stemming, onderscheidenlijk stemmingen, of van de juistheid van de vaststelling van de uitslag van de andere stemming, onderscheidenlijk stemmingen, worden geopend. Na gebruik worden de pakken opnieuw verzegeld.   
+b. De verzegelde pakken, bedoeld in artikel N 2 van de Kieswet, kunnen zo nodig voor de beoordeling van de geldigheid van de andere stemming, onderscheidenlijk stemmingen, of van de juistheid van de vaststelling van de uitslag van de andere stemming, onderscheidenlijk stemmingen, worden geopend. Na gebruik worden de pakken opnieuw verzegeld.   
 
 c. De kiezers zijn bevoegd bij de handelingen, bedoeld onder b, aanwezig te zijn.     
 
 ### Artikel  J 11  
 
-De leden van het stembureau kunnen ook werkzaamheden voor de andere stemming, onderscheidenlijk stemmingen, verrichten, mits deze werkzaamheden de voortgang van de stemming ingevolge de [Kieswet](../../../wet/kieswet/BWBR0004627/README.md) niet belemmeren.  
+De leden van het stembureau kunnen ook werkzaamheden voor de andere stemming, onderscheidenlijk stemmingen, verrichten, mits deze werkzaamheden de voortgang van de stemming ingevolge de Kieswet niet belemmeren.  
 
 ### Artikel  J 12  
 
 1. In het stemlokaal worden, voor zover nodig, stembussen bijgeplaatst. 
-2. De stembiljetten voor de andere stemming, onderscheidenlijk stemmingen, hebben een zodanige kleur dat zij voldoende kunnen worden onderscheiden van de stembiljetten voor de stemming ingevolge de [Kieswet](../../../wet/kieswet/BWBR0004627/README.md).
+2. De stembiljetten voor de andere stemming, onderscheidenlijk stemmingen, hebben een zodanige kleur dat zij voldoende kunnen worden onderscheiden van de stembiljetten voor de stemming ingevolge de Kieswet.
 3. Indien in een stemlokaal stembussen zijn bijgeplaatst, worden de stembussen onmiddellijk na elkaar geopend.
-4. Na het openen van de stembus of stembussen worden de stembiljetten voor de stemming ingevolge de [Kieswet](../../../wet/kieswet/BWBR0004627/README.md) gescheiden van de stembiljetten voor de andere stemming, onderscheidenlijk stemmingen.
+4. Na het openen van de stembus of stembussen worden de stembiljetten voor de stemming ingevolge de Kieswet gescheiden van de stembiljetten voor de andere stemming, onderscheidenlijk stemmingen.
 
 ### §  3  
 
@@ -255,7 +260,7 @@ d. het uittreksel van het register ongeldige stempassen, dan wel de ingewilligde
 
 e. de ingeleverde kiezerspassen, volmachtbewijzen en briefstembewijzen;   
 
-f. de ingevolge [artikel M 11 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) terzijde gelegde retourenveloppen;   
+f. de ingevolge artikel M 11 van de Kieswet terzijde gelegde retourenveloppen;   
 
 g. de nog niet geopende retourenveloppen.     
 
@@ -283,7 +288,7 @@ De burgemeester stelt tijdig voor de aanvang van de hervatte zitting de hem inge
 
 1.  In geval van een schorsing als bedoeld in artikel J 27 opent het stembureau tijdig voor de aanvang van de hervatte stemming de verzegelde pakken en de verzegelde enveloppe en stelt het het aantal biljetten opnieuw vast. Voor deze stemming wordt een andere stembus gebezigd.    
 2.  De hervatte stemming duurt tot eenentwintig uur.   
-3.   Daarna vindt het bepaalde in [artikel J 30 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) overeenkomstige toepassing.   
+3.   Daarna vindt het bepaalde in artikel J 30 van de Kieswet overeenkomstige toepassing.   
 
 ###Artikel J 34 
 
@@ -343,11 +348,11 @@ Vervallen per 06-02-2008
 
 ### Artikel  M 1  
 
-De stukken, bedoeld in [artikel M 6, eerste lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), worden aan de kiezer gezonden per luchtpost, tenzij het adres waarheen zij gezonden moeten worden, in België is gelegen.  
+De stukken, bedoeld in artikel M 6, eerste lid, van de Kieswet, worden aan de kiezer gezonden per luchtpost, tenzij het adres waarheen zij gezonden moeten worden, in België is gelegen.  
 
 ### Artikel  M 2  
 
-Indien burgemeester en wethouders van 's-Gravenhage gebruik hebben gemaakt van hun bevoegdheid, bedoeld in [artikel M 9, tweede lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), gelden ten aanzien van de extra zittingen van de briefstembureaus voorafgaande aan de dag van de stemming de artikelen M 3 tot en met M 7. 
+Indien burgemeester en wethouders van 's-Gravenhage gebruik hebben gemaakt van hun bevoegdheid, bedoeld in artikel M 9, tweede lid, van de Kieswet, gelden ten aanzien van de extra zittingen van de briefstembureaus voorafgaande aan de dag van de stemming de artikelen M 3 tot en met M 7. 
 
 ### Artikel  M 3  
 
@@ -360,7 +365,7 @@ Ten minste twee weken vóór de eerste zitting brengen burgemeester en wethouder
 
 a. het aantal door het briefstembureau op de zitting verwerkte retourenveloppen;   
 
-b. het aantal ingevolge [artikel M 11 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) terzijde gelegde retourenveloppen.      
+b. het aantal ingevolge artikel M 11 van de Kieswet terzijde gelegde retourenveloppen.      
 3.  De aantallen, bedoeld in het tweede lid, worden door de voorzitter aan de aanwezige kiezers bekend gemaakt.    
 4.  Daarna worden in afzonderlijke, te verzegelen, pakken gedaan:  
 
@@ -368,12 +373,12 @@ a. de ingewilligde registratieverzoeken van kiezers in het buitenland, waarvan d
 
 b. de ingeleverde briefstembewijzen;   
 
-c. de ingevolge [artikel M 11 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) terzijde gelegde retourenveloppen;     
+c. de ingevolge artikel M 11 van de Kieswet terzijde gelegde retourenveloppen;     
 
 ###Artikel M 5 
 
 1. Van elke zitting wordt proces-verbaal opgemaakt. 
-2. [Artikel N 10, eerste lid, laatste volzin, tweede en derde lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) is van overeenkomstige toepassing. 
+2. Artikel N 10, eerste lid, laatste volzin, tweede en derde lid, van de Kieswet is van overeenkomstige toepassing. 
 
 ### Artikel  M 6  
 
@@ -383,7 +388,7 @@ c. de ingevolge [artikel M 11 van de Kieswet](../../../wet/kieswet/BWBR0004627/R
 
 ### Artikel  M 7  
 
-1.  De burgemeester van 's-Gravenhage stelt tijdig voor de aanvang van de stemopneming bedoeld in [artikel N 16a, eerste lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) de aan hem ingevolge artikel M 6, eerste lid, overgedragen stembussen, verzegelde enveloppen en verzoekschriften waarvan de handtekening nog niet vergeleken is, ter beschikking aan de voorzitter van het briefstembureau.    
+1.  De burgemeester van 's-Gravenhage stelt tijdig voor de aanvang van de stemopneming bedoeld in artikel N 16a, eerste lid, van de Kieswet de aan hem ingevolge artikel M 6, eerste lid, overgedragen stembussen, verzegelde enveloppen en verzoekschriften waarvan de handtekening nog niet vergeleken is, ter beschikking aan de voorzitter van het briefstembureau.    
 2.  Tijdig voor de aanvang van de stemopneming opent het stembureau de verzegelde enveloppen, waarna het vervolgens de stembussen opent.   
 
 ### Artikel  M 8  
@@ -410,12 +415,12 @@ Vervallen per 06-02-2008
 
 ###Artikel N 9 
 
-Indien met toepassing van [artikel N 16a van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) de briefstembureaus te 's-Gravenhage op de dag van stemming aanvangen met de stemopneming, gelden ten aanzien van de schorsing en hervatting hiervan de artikelen N 10 tot en met N 13. 
+Indien met toepassing van artikel N 16a van de Kieswet de briefstembureaus te 's-Gravenhage op de dag van stemming aanvangen met de stemopneming, gelden ten aanzien van de schorsing en hervatting hiervan de artikelen N 10 tot en met N 13. 
 
 ###Artikel N 10 
 
-1. Nadat de stemmen zijn opgenomen en aan [artikel N 9, tweede lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) toepassing is gegeven, schorst de voorzitter van het briefstembureau de stemopneming. Van de geschorste stemopneming wordt proces-verbaal opgemaakt. 
-2. [ Artikel N 10, eerste lid, laatste volzin, tweede en derde lid van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) is van overeenkomstige toepassing. 
+1. Nadat de stemmen zijn opgenomen en aan artikel N 9, tweede lid, van de Kieswet toepassing is gegeven, schorst de voorzitter van het briefstembureau de stemopneming. Van de geschorste stemopneming wordt proces-verbaal opgemaakt. 
+2.  Artikel N 10, eerste lid, laatste volzin, tweede en derde lid van de Kieswet is van overeenkomstige toepassing. 
 
 ### Artikel  N 11  
 
@@ -423,11 +428,11 @@ Onmiddellijk na de ondertekening van het proces-verbaal, wordt dit tezamen met d
 
 ###Artikel N 12 
 
-Zodra de handelingen, bedoeld in de [artikelen M 10](../../../wet/kieswet/BWBR0004627/README.md) en [M 11 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), ten aanzien van alle tijdig binnengekomen retourenveloppen zijn beëindigd, stelt de burgemeester de hem ingevolge artikel M 6 overhandigde verzegelde pakken en processen-verbaal van de extra zittingen en het hem ingevolge artikel N 11 overhandigde proces-verbaal van de stemopneming en de verzegelde pakken met stembiljetten ter beschikking van het stembureau. 
+Zodra de handelingen, bedoeld in de artikelen M 10 en M 11 van de Kieswet, ten aanzien van alle tijdig binnengekomen retourenveloppen zijn beëindigd, stelt de burgemeester de hem ingevolge artikel M 6 overhandigde verzegelde pakken en processen-verbaal van de extra zittingen en het hem ingevolge artikel N 11 overhandigde proces-verbaal van de stemopneming en de verzegelde pakken met stembiljetten ter beschikking van het stembureau. 
 
 ###Artikel N 13 
 
-1. Bij de hervatting van de stemopneming overeenkomstig [hoofdstuk N van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) vindt de vaststelling, bedoeld in [artikel N 15 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), mede plaats aan de hand van de processen-verbaal van de extra zittingen van de briefstembureaus en vindt de vaststelling, bedoeld in [artikel N 6 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), mede plaats aan de hand van het proces-verbaal van de stemopneming, bedoeld in [artikel N 16a, eerste lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md). 
+1. Bij de hervatting van de stemopneming overeenkomstig hoofdstuk N van de Kieswet vindt de vaststelling, bedoeld in artikel N 15 van de Kieswet, mede plaats aan de hand van de processen-verbaal van de extra zittingen van de briefstembureaus en vindt de vaststelling, bedoeld in artikel N 6 van de Kieswet, mede plaats aan de hand van het proces-verbaal van de stemopneming, bedoeld in artikel N 16a, eerste lid, van de Kieswet. 
 2. Van de hervatting van de stemopneming wordt proces-verbaal opgemaakt. 
 3. Bij ministeriële regeling wordt voor het proces-verbaal van de hervatting van de stemopneming een model vastgesteld. 
 
@@ -441,11 +446,36 @@ De artikelen N 9 tot en met N 13 zijn van overeenkomstige toepassing op briefste
 
 ### Artikel  P 1  
 
-De bekendmaking, bedoeld in [artikel P 20, tweede lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), geschiedt, indien het betreft de verkiezing van de leden van de Tweede Kamer, in de *Nederlandse Staatscourant* en, indien het betreft de verkiezing van de leden van provinciale staten of de gemeenteraad, op de in de provincie, onderscheidenlijk de gemeente, gebruikelijke wijze.  
+1.  Indien het centraal stembureau programmatuur ten behoeve van de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling gebruikt, zijn de volgende leden van toepassing.   
+2.  Het centraal stembureau stelt voor de programmatuur een specificatie op van de voor de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling geldende wet- en regelgeving. De specificatie maakt duidelijk op welke wijze in de programmatuur de wet- en regelgeving moet worden toegepast bij de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling.   
+3.  Het centraal stembureau laat de specificatie, bedoeld in het tweede lid, door een onafhankelijke instantie toetsen en maakt de specificatie en de uitkomst van de toets openbaar.   
+4.  Het centraal stembureau laat de programmatuur, bedoeld in het eerste lid, door een onafhankelijke instantie toetsen en maakt de uitkomst van de toets uiterlijk op de dag van de kandidaatstelling openbaar.   
+5.  Het centraal stembureau maakt uiterlijk op de dag van kandidaatstelling ten minste de documentatie en de broncode met betrekking tot de programmatuur die bij de daaropvolgende verkiezingen wordt gebruikt, openbaar.   
+6.  De onafhankelijke instantie, bedoeld in het vierde lid, toetst of de programmatuur: 
+
+a. voldoet aan de specificatie, bedoeld in het tweede lid;  
+
+b. voldoet aan de eisen, die bij ministeriële regeling aan de programmatuur zijn gesteld.     
+7.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de toetsing door en de deskundigheid van de onafhankelijke instantie, de openbaarmaking van de uitkomst van de toets en de eisen aan de programmatuur, met dien verstande dat deze eisen geen betrekking hebben op de wijze waarop de programmatuur de wet- en regelgeving moet toepassen bij de berekening van de uitslag van de verkiezingen of de berekening van de zetelverdeling.  
 
 ### Artikel  P 2  
 
-Indien het centraal stembureau ingevolge het bepaalde in [artikel P 21, tweede lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md) verzegelde pakken heeft geopend, worden deze pakken na gebruik wederom verzegeld.  
+1.  Het centraal stembureau maakt de aantallen stemmen, zoals deze aantallen door het centraal stembureau zijn ingevoerd in de programmatuur, gelijktijdig met het vaststellen van de uitslag openbaar.   
+2.  Bij ministeriële regeling kan een internetadres worden aangewezen waarop de openbaarmaking geschiedt.  
+
+### Artikel  P 3  
+
+De bekendmaking, bedoeld in artikel P 20, tweede lid, van de Kieswet, geschiedt, indien het betreft de verkiezing van de leden van de Tweede Kamer, in de *Nederlandse Staatscourant* en, indien het betreft de verkiezing van de leden van provinciale staten of de gemeenteraad, op de in de provincie, onderscheidenlijk de gemeente, gebruikelijke wijze.  
+
+### Artikel  P 4  
+
+Indien het centraal stembureau ingevolge het bepaalde in artikel P 21, tweede lid, van de Kieswet verzegelde pakken heeft geopend, worden deze pakken na gebruik wederom verzegeld.  
+
+### Artikel  P 5  
+Treedt in werking per 01-01-2015 
+
+1.  Voor zover, bij gecombineerde stemmingen, het centraal stembureau dan wel vertegenwoordigend orgaan van de ene verkiezing tot een nieuwe stemopneming besluit, geschiedt deze mede in aanwezigheid van het centraal stembureau respectievelijk vertegenwoordigend orgaan van de andere verkiezing.   
+2.  Het centraal stembureau dat mede aanwezig is bij de nieuwe stemopneming doet daarvan verslag aan het vertegenwoordigend orgaan waarvoor het de verkiezingsuitslag vaststelt of heeft vastgesteld.  
 
 ### Afdeling  III  
 
@@ -457,13 +487,13 @@ Indien het centraal stembureau ingevolge het bepaalde in [artikel P 21, tweede l
 
 ### Artikel  R 1  
 
-De formulieren voor de kandidatenlijsten, bedoeld in [artikel R 1, derde lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), en voor de verklaringen, bedoeld in de [artikelen R 2, eerste lid](../../../wet/kieswet/BWBR0004627/README.md), [R 7, vierde lid](../../../wet/kieswet/BWBR0004627/README.md), en [R 8, vierde lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), zijn gedurende drie weken vóór en op de dag van de kandidaatstelling verkrijgbaar bij het centraal stembureau.
+De formulieren voor de kandidatenlijsten, bedoeld in artikel R 1, derde lid, van de Kieswet, en voor de verklaringen, bedoeld in de artikelen R 2, eerste lid, R 7, vierde lid, en R 8, vierde lid, van de Kieswet, zijn gedurende drie weken vóór en op de dag van de kandidaatstelling verkrijgbaar bij het centraal stembureau.
 
 ### Artikel  R 2  
 
-1.  Een kandidaat wordt op de kandidatenlijst vermeld met naam, voorletters, geboortedatum en gemeente of woonplaats als bedoeld in [artikel 1, onderdeel r, van de Wet basisregistraties adressen en gebouwen](../../../wet/wet/basisregistraties/adressen/en/gebouwen/BWBR0023466/README.md). Achter de voorletters kan tussen haakjes de roepnaam van de kandidaat worden vermeld.   
+1.  Een kandidaat wordt op de kandidatenlijst vermeld met naam, voorletters, geboortedatum en gemeente of woonplaats als bedoeld in artikel 1, onderdeel r, van de Wet basisregistraties adressen en gebouwen. Achter de voorletters kan tussen haakjes de roepnaam van de kandidaat worden vermeld.   
 2.  Nadere aanduidingen van de naam, mits op de gebruikelijke wijze afgekort, mogen aan de naam worden toegevoegd.    
-3.  Een persoon die gehuwd is of gehuwd is geweest, dan wel wiens partnerschap geregistreerd is of geregistreerd is geweest, wordt op de lijst vermeld hetzij met de eigen geslachtsnaam, hetzij, voor zover hij daartoe op grond van [artikel 9 van Boek 1 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) dan wel artikel 9 van Boek 1 van het Burgerlijk Wetboek BES bevoegd is, met de geslachtsnaam van de echtgenoot of geregistreerde partner, dan wel met de eigen geslachtsnaam door middel van een liggend streepje gevolgd door of voorafgegaan door de geslachtsnaam van de echtgenoot of geregistreerde partner.  Achter de voorletters of, indien vermeld, de roepnaam, mag ter aanduiding van het geslacht van de kandidaat de toevoeging «(m)» of «(v)» worden geplaatst.   
+3.  Een persoon die gehuwd is of gehuwd is geweest, dan wel wiens partnerschap geregistreerd is of geregistreerd is geweest, wordt op de lijst vermeld hetzij met de eigen geslachtsnaam, hetzij, voor zover hij daartoe op grond van artikel 9 van Boek 1 van het Burgerlijk Wetboek dan wel artikel 9 van Boek 1 van het Burgerlijk Wetboek BES bevoegd is, met de geslachtsnaam van de echtgenoot of geregistreerde partner, dan wel met de eigen geslachtsnaam door middel van een liggend streepje gevolgd door of voorafgegaan door de geslachtsnaam van de echtgenoot of geregistreerde partner.  Achter de voorletters of, indien vermeld, de roepnaam, mag ter aanduiding van het geslacht van de kandidaat de toevoeging «(m)» of «(v)» worden geplaatst.   
 
 ### Afdeling  IV  
 
@@ -479,7 +509,7 @@ Ten aanzien van de verkiezing van de leden van het Europese Parlement zijn, voor
 
 ### Artikel  Y 1a  
 
-De formulieren voor het verzoek, bedoeld in [artikel Y 32, eerste lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), zijn ten minste 6 weken voor de dag en op de dag van kandidaatstelling verkrijgbaar bij elke gemeente. 
+De formulieren voor het verzoek, bedoeld in artikel Y 32, eerste lid, van de Kieswet, zijn ten minste 6 weken voor de dag en op de dag van kandidaatstelling verkrijgbaar bij elke gemeente. 
 
 ###Artikel Y 2 
 
@@ -487,16 +517,16 @@ De formulieren voor de kandidatenlijsten en de verklaringen, bedoeld in artikel 
 
 ### Artikel  Y 3  
 
-1.  De formulieren voor de schriftelijke verklaring, bedoeld in [artikel Y 13, eerste lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), zijn gedurende drie weken vóór en op de dag van de kandidaatstelling verkrijgbaar bij het centraal stembureau voor de verkiezing van de leden van het Europese Parlement.    
+1.  De formulieren voor de schriftelijke verklaring, bedoeld in artikel Y 13, eerste lid, van de Kieswet, zijn gedurende drie weken vóór en op de dag van de kandidaatstelling verkrijgbaar bij het centraal stembureau voor de verkiezing van de leden van het Europese Parlement.    
 2.   Indien de kandidaat zich buiten het Europese deel van Nederland bevindt, is de verklaring niet aan enig formulier gebonden en kan zij ook elektronisch geschieden.   
 
 ### Artikel  Y 4  
 
-Het tijdstip en de plaats van de zitting, bedoeld in [artikel I 4 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), worden tijdig door de voorzitter van het centraal stembureau voor de verkiezing van de leden van het Europese Parlement in de *Nederlandse Staatscourant* bekendgemaakt.  
+Het tijdstip en de plaats van de zitting, bedoeld in artikel I 4 van de Kieswet, worden tijdig door de voorzitter van het centraal stembureau voor de verkiezing van de leden van het Europese Parlement in de *Nederlandse Staatscourant* bekendgemaakt.  
 
 ### Artikel  Y 7  
 
-Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kunnen nadere regels worden gesteld omtrent de wijze en het tijdstip waarop de mededeling, bedoeld in [artikel Y 32, achtste lid, van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), dient te geschieden. 
+Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kunnen nadere regels worden gesteld omtrent de wijze en het tijdstip waarop de mededeling, bedoeld in artikel Y 32, achtste lid, van de Kieswet, dient te geschieden. 
 
 ### Afdeling  IVa  
 
@@ -508,7 +538,7 @@ Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kun
 
 ### Artikel  Ya 1  
 
-De waarborgsom, bedoeld in [artikel Ya 15](../../../wet/kieswet/BWBR0004627/README.md) juncto het [tweede lid van artikel G 3 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), dient te worden overgemaakt op de daartoe bestemde rekening van het openbaar lichaam, bij een financiële onderneming die ingevolge de [Wet financiële markten BES](../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) in de openbare lichamen het bedrijf van kredietinstelling mag uitoefenen, onder vermelding van de woorden «waarborgsom registratie». 
+De waarborgsom, bedoeld in artikel Ya 15 juncto het tweede lid van artikel G 3 van de Kieswet, dient te worden overgemaakt op de daartoe bestemde rekening van het openbaar lichaam, bij een financiële onderneming die ingevolge de Wet financiële markten BES in de openbare lichamen het bedrijf van kredietinstelling mag uitoefenen, onder vermelding van de woorden «waarborgsom registratie». 
 
 ### Artikel  Ya 2  
 
@@ -516,7 +546,7 @@ Indien het betreft de verkiezing van de leden van de eilandsraden, mogen aanduid
 
 ### Artikel  Ya 3  
 
-De waarborgsom, bedoeld in [artikel Ya 17](../../../wet/kieswet/BWBR0004627/README.md) juncto [artikel H 14 van de Kieswet](../../../wet/kieswet/BWBR0004627/README.md), dient uiterlijk op de veertiende dag voor de kandidaatstelling te zijn ontvangen op de daartoe bestemde rekening van het openbaar lichaam, bij een financiële onderneming die ingevolge de [Wet financiële markten BES](../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) in de openbare lichamen het bedrijf van kredietinstelling mag uitoefenen, onder vermelding van de woorden «waarborgsom kandidaatstelling». 
+De waarborgsom, bedoeld in artikel Ya 17 juncto artikel H 14 van de Kieswet, dient uiterlijk op de veertiende dag voor de kandidaatstelling te zijn ontvangen op de daartoe bestemde rekening van het openbaar lichaam, bij een financiële onderneming die ingevolge de Wet financiële markten BES in de openbare lichamen het bedrijf van kredietinstelling mag uitoefenen, onder vermelding van de woorden «waarborgsom kandidaatstelling». 
 
 ### Artikel  Ya 4  
 

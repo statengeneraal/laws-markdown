@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Justitie van 3 april 2003, nr. 5219262/03/6, gedaan mede namens de Staatssecretaris van Volksgezondheid, Welzijn en Sport;
 
-Gelet op [artikel 7, derde lid, van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md);
+Gelet op artikel 7, derde lid, van de Wet medisch-wetenschappelijk onderzoek met mensen;
 
 De Raad van State gehoord (advies van 28 mei 2003, No. W03.03.0138/I);
 
@@ -17,15 +17,15 @@ Hebben goedgevonden en verstaan:
 
 Voor de toepassing van dit besluit wordt verstaan onder: 
 
-a. wet: [Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md);  
+a. wet: Wet medisch-wetenschappelijk onderzoek met mensen;  
 
-b. verzekering: de verzekering, bedoeld in [artikel 7 van de wet](../../../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md);  
+b. verzekering: de verzekering, bedoeld in artikel 7 van de wet;  
 
-c. beëindiging van deelname aan het onderzoek: het moment waarop de proefpersoon, in de zin van [artikel 1, eerste lid, onder b, van de wet](../../../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) niet langer wordt onderworpen aan handelingen of aan de proefpersoon niet langer een bepaalde gedragswijze wordt opgelegd.   
+c. beëindiging van deelname aan het onderzoek: het moment waarop de proefpersoon, in de zin van artikel 1, eerste lid, onder b, van de wet niet langer wordt onderworpen aan handelingen of aan de proefpersoon niet langer een bepaalde gedragswijze wordt opgelegd.   
 
 ### Artikel  2  
 
-1. De verzekering wordt gesloten en in stand gehouden bij een financiële onderneming die ingevolge de [Wet op het financieel toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) in Nederland het bedrijf van verzekeraar mag uitoefenen.  
+1. De verzekering wordt gesloten en in stand gehouden bij een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van verzekeraar mag uitoefenen.  
 2.  Indien de verzekering wordt gesloten bij een verzekeraar met zetel buiten Nederland, wordt in de polis een in Nederland gevestigde schaderegelaar aangewezen die belast is met de behandeling en afwikkeling van vorderingen ingevolge deze verzekering.  
 
 ### Artikel  3  
@@ -38,7 +38,7 @@ c. beëindiging van deelname aan het onderzoek: het moment waarop de proefpersoo
 
 ### Artikel  5  
 
-1.  De verzekering dekt met inachtneming van artikel 6 de schade door dood of letsel van de proefpersoon die het gevolg is van de verwezenlijking van de aan het wetenschappelijk onderzoek verbonden risico's waarover de proefpersoon niet ingevolge [artikel 6, derde lid, onderdeel b, van de wet](../../../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) schriftelijk is ingelicht, en voorts van de aan het onderzoek verbonden risico's waarover de proefpersoon wel schriftelijk is ingelicht, doch waarvan de verwezenlijking zich in een ernstiger mate voordoet dan is voorzien, alsmede van de risico's waarover de proefpersoon schriftelijk is ingelicht, doch waarvan het bij de opstelling en de beoordeling van het desbetreffende onderzoeksprotocol in een individueel geval zo onwaarschijnlijk werd geacht dat deze risico's zich zouden verwezenlijken, dat zulks aan een positief oordeel van de commissie niet in de weg heeft gestaan. De in de vorige zin bedoelde schade is gedekt wanneer die zich openbaart gedurende de deelname van de proefpersoon aan het onderzoek of binnen vier jaar na beëindiging van diens deelname aan het onderzoek. Voor toepassing van de vorige zin geldt dat de schade zich heeft geopenbaard op het moment waarop deze bij de verzekeraar wordt gemeld.   
+1.  De verzekering dekt met inachtneming van artikel 6 de schade door dood of letsel van de proefpersoon die het gevolg is van de verwezenlijking van de aan het wetenschappelijk onderzoek verbonden risico's waarover de proefpersoon niet ingevolge artikel 6, derde lid, onderdeel b, van de wet schriftelijk is ingelicht, en voorts van de aan het onderzoek verbonden risico's waarover de proefpersoon wel schriftelijk is ingelicht, doch waarvan de verwezenlijking zich in een ernstiger mate voordoet dan is voorzien, alsmede van de risico's waarover de proefpersoon schriftelijk is ingelicht, doch waarvan het bij de opstelling en de beoordeling van het desbetreffende onderzoeksprotocol in een individueel geval zo onwaarschijnlijk werd geacht dat deze risico's zich zouden verwezenlijken, dat zulks aan een positief oordeel van de commissie niet in de weg heeft gestaan. De in de vorige zin bedoelde schade is gedekt wanneer die zich openbaart gedurende de deelname van de proefpersoon aan het onderzoek of binnen vier jaar na beëindiging van diens deelname aan het onderzoek. Voor toepassing van de vorige zin geldt dat de schade zich heeft geopenbaard op het moment waarop deze bij de verzekeraar wordt gemeld.   
 2.  De verzekering behoeft niet te dekken de schade: 
 
 a. die het gevolg is van het uitblijven van een vermindering van de gezondheidsproblemen van de proefpersoon, danwel het gevolg is van de verdere verslechtering van de gezondheidsproblemen van de proefpersoon, indien de deelname van de proefpersoon aan het wetenschappelijk onderzoek geschiedt in het kader van de behandeling van deze gezondheidsproblemen;  
@@ -55,13 +55,13 @@ d. die zich bij een nakomeling van de proefpersoon openbaart als gevolg van een 
 
 a. schade geleden door de proefpersoon doordat deze verhinderd is arbeid te verrichten, tot een bedrag van ten hoogste € 60 000,– per jaar;  
 
-b. schade door het derven van levensonderhoud geleden door de in [artikel 108, eerste lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md) genoemde personen, tot in totaal een bedrag van ten hoogste € 60 000,– per jaar;  
+b. schade door het derven van levensonderhoud geleden door de in artikel 108, eerste lid, van Boek 6 van het Burgerlijk Wetboek genoemde personen, tot in totaal een bedrag van ten hoogste € 60 000,– per jaar;  
 
 c. kosten van huishoudelijke hulp voor een bedrag van € 7,50 per uur indien het inroepen van deze hulp redelijk is;  
 
 d. het recht op een vergoeding voor nadeel dat niet in vermogensschade bestaat, indien een vergoeding hiervan niet minder dan € 1 500,– bedraagt, en voor zover het totaal van deze vergoedingen niet meer dan € 45 000,– bedraagt;  
 
-e. schade als bedoeld in [artikel 108, tweede lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), tot een bedrag van ten hoogste € 10 000,–;  
+e. schade als bedoeld in artikel 108, tweede lid, van Boek 6 van het Burgerlijk Wetboek, tot een bedrag van ten hoogste € 10 000,–;  
 
 f. redelijke kosten van medische hulp, medische voorzieningen, hulpmiddelen en aanpassingen, tot een bedrag van ten hoogste € 50 000,–;  
 
@@ -75,8 +75,8 @@ g. redelijke kosten van vervoer per taxi of per openbaar vervoer, en de redelijk
 
 ### Artikel  9  
 
-1.  Alvorens toestemming als bedoeld in [artikel 6 van de wet](../../../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) wordt gevraagd, draagt degene die het wetenschappelijk onderzoek uitvoert er zorg voor dat de persoon wiens toestemming is vereist schriftelijk wordt ingelicht over de bedragen waarvoor de verzekering is gesloten, de uitsluitingen die de verzekering bevat voor zover deze aan de proefpersoon kunnen tegengeworpen, de naam en het adres van de verzekeraar, en, in het geval bedoeld in artikel 2, tweede lid, van de schaderegelaar. Ingeval de verrichter ontheffing heeft verkregen van de verplichting een verzekering te sluiten, wordt de persoon wiens toestemming is vereist daarover door de uitvoerder schriftelijk ingelicht.   
-2.  Degene die het wetenschappelijk onderzoek uitvoert, draagt er alvorens toestemming wordt gevraagd tevens zorg voor dat de proefpersoon in de Nederlandse taal schriftelijk wordt ingelicht over de verplichtingen die hem door de verzekeringsovereenkomst worden opgelegd. Een gelijke verplichting geldt ten opzichte van de andere personen van wie op grond van [artikel 6 van de wet](../../../../../../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) toestemming is vereist.  
+1.  Alvorens toestemming als bedoeld in artikel 6 van de wet wordt gevraagd, draagt degene die het wetenschappelijk onderzoek uitvoert er zorg voor dat de persoon wiens toestemming is vereist schriftelijk wordt ingelicht over de bedragen waarvoor de verzekering is gesloten, de uitsluitingen die de verzekering bevat voor zover deze aan de proefpersoon kunnen tegengeworpen, de naam en het adres van de verzekeraar, en, in het geval bedoeld in artikel 2, tweede lid, van de schaderegelaar. Ingeval de verrichter ontheffing heeft verkregen van de verplichting een verzekering te sluiten, wordt de persoon wiens toestemming is vereist daarover door de uitvoerder schriftelijk ingelicht.   
+2.  Degene die het wetenschappelijk onderzoek uitvoert, draagt er alvorens toestemming wordt gevraagd tevens zorg voor dat de proefpersoon in de Nederlandse taal schriftelijk wordt ingelicht over de verplichtingen die hem door de verzekeringsovereenkomst worden opgelegd. Een gelijke verplichting geldt ten opzichte van de andere personen van wie op grond van artikel 6 van de wet toestemming is vereist.  
 
 ### Artikel  10  
 
@@ -84,7 +84,7 @@ Van dit besluit kan niet ten nadele van de proefpersoon worden afgeweken.
 
 ### Artikel  11  
 
-Dit besluit is niet van toepassing op onderzoek waarvoor de commissie die belast is met de beoordeling daarvan, voor de inwerkingtreding van dit besluit een positief oordeel heeft gegeven over het desbetreffende onderzoeksprotocol. Het [Tijdelijk besluit verplichte verzekering bij medisch-wetenschappelijk onderzoek met mensen](../../../../../../../../../../AMvB/tijdelijk/besluit/verplichte/verzekering/bij/medisch-wetenschappelijk/etc/BWBR0010585/README.md), zoals dat tot aan het tijdstip van inwerkingtreding van dit besluit gold, blijft nadien op zodanig onderzoek van toepassing. 
+Dit besluit is niet van toepassing op onderzoek waarvoor de commissie die belast is met de beoordeling daarvan, voor de inwerkingtreding van dit besluit een positief oordeel heeft gegeven over het desbetreffende onderzoeksprotocol. Het Tijdelijk besluit verplichte verzekering bij medisch-wetenschappelijk onderzoek met mensen, zoals dat tot aan het tijdstip van inwerkingtreding van dit besluit gold, blijft nadien op zodanig onderzoek van toepassing. 
 
 ### Artikel  12  
 

@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken, Landbouw en Innovatie van 7 december 2010, nr. WJZ/10183066, houdende regels inzake de beveiliging van nucleaire inrichtingen en splijtstoffen (Regeling beveiliging nucleaire inrichtingen en splijtstoffen)
 
 De Minister van Economische Zaken, Landbouw en Innovatie,  
-Gelet op het op 3 maart 1980 te Wenen/New York tot stand gekomen Verdrag inzake de fysieke beveiliging van kernmateriaal (*Trb. 1981, 7*), zoals gewijzigd bij *het op 8 juli 2005 te Wenen tot stand gekomen Verdrag tot wijziging van voornoemd verdrag (* *Trb. 2006, 81*), [artikel 22 van het Besluit kerninstallaties, splijtstoffen en ertsen](../../../../../../../../AMvB/besluit/kerninstallaties/splijtstoffen/en/ertsen/BWBR0002667/README.md), [artikel 1d van het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](../../../../../../../../AMvB/besluit/vervoer/splijtstoffen/ertsen/en/radioactieve/stoffen/BWBR0002668/README.md) en [artikel 1, eerste lid, van het Geheimhoudingsbesluit Kernenergiewet](../../../../../../../../AMvB/geheimhoudingsbesluit/kernenergiewet/BWBR0002768/README.md);
+Gelet op het op 3 maart 1980 te Wenen/New York tot stand gekomen Verdrag inzake de fysieke beveiliging van kernmateriaal (*Trb. 1981, 7*), zoals gewijzigd bij *het op 8 juli 2005 te Wenen tot stand gekomen Verdrag tot wijziging van voornoemd verdrag (* *Trb. 2006, 81*), artikel 22 van het Besluit kerninstallaties, splijtstoffen en ertsen, artikel 1d van het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen en artikel 1, eerste lid, van het Geheimhoudingsbesluit Kernenergiewet;
 Besluit:     
 ### §  1  
 
@@ -21,43 +21,110 @@ In deze regeling wordt verstaan onder:
 
 *categorie III-materiaal: * splijtstoffen, genoemd in de bijlage I voor zover ze voldoen aan de in die bijlage genoemde voorwaarden voor indeling in categorie III;  
 
-*inrichting:* inrichting als bedoeld in [artikel 15, onder b, van de wet](../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md);  
+*inrichting:* inrichting als bedoeld in artikel 15, onder b, van de wet;  
 
 *Minister:* Minister van Economische Zaken;  
 
 *referentiedreiging:* lange termijnanalyse van dreigingen van diefstal van categorie I, II, of III-materiaal dan wel van sabotage van dat materiaal, of van inrichtingen;  
 
-*vergunninghouder:* houder van een vergunning als bedoeld in [artikel 15, onder a of b, van de wet](../../../../../../../../wet/kernenergiewet/BWBR0002402/README.md) met uitzondering van de houder van een vergunning voor het vervoeren, het voorhanden hebben bij opslag in verband met het vervoer en het binnen of buiten Nederlands grondgebied brengen of doen brengen van splijtstoffen of ertsen;  
+*vergunninghouder 15, onder a, Kew:* houder van een vergunning als bedoeld in artikel 15, onderdeel a, van de wet met uitzondering van de houder van een vergunning voor het vervoeren, het voorhanden hebben bij opslag in verband met het vervoer en het binnen of buiten Nederlands grondgebied brengen of doen brengen van splijtstoffen en ertsen; 
+
+*vergunninghouder 15, onder b, Kew:* houder van een vergunning als bedoeld in artikel 15, onderdeel b, van de wet met uitzondering van de houder van een vergunning voor het vervoeren, het voorhanden hebben bij opslag in verband met het vervoer en het binnen of buiten Nederlands grondgebied brengen of doen brengen van splijtstoffen en ertsen;  
 
 *vervoerder:* houder van een vergunning voor het vervoeren, het voorhanden hebben bij opslag in verband met het vervoer en het binnen of buiten Nederlands grondgebied brengen of doen brengen van categorie I-, II- of III- materiaal.   
 
+### §  1a  
+
+####Beveiliging van splijtstoffen door een vergunninghouder 15, onder a, Kew
+
+### Artikel  1a  
+
+Een vergunninghouder 15, onder a, Kew treft de beveiligingsmaatregelen die redelijkerwijs noodzakelijk nodig zijn om categorie I-materiaal, categorie II-materiaal of categorie III-materiaal te beveiligen tegen diefstal en misbruik. 
+
+### Artikel  1b  
+
+1.  Een vergunninghouder 15, onder a, Kew houdt op persoonlijke of elektronische wijze toezicht op categorie I-materiaal, categorie II-materiaal of categorie III-materiaal.   
+2.  Diegene die persoonlijk toezicht houdt, is hiertoe geautoriseerd door de vergunninghouder 15, onder a, Kew.  
+
+### Artikel  1c  
+
+Wanneer categorie I-materiaal, categorie II-materiaal of categorie III-materiaal niet onder persoonlijk toezicht staan, zijn de beveiligingsmaatregelen van een vergunninghouder 15, onder a, Kew zodanig dat elektronische detectie van een poging tot diefstal of misbruik plaatsvindt en dat vanaf dat moment maatregelen werkzaam zijn die leiden tot ten minste 10 minuten vertraging in de tijd die iemand nodig heeft om wederrechtelijk beschikking te krijgen dit materiaal. 
+
+### Artikel  1d  
+
+De beveiligingsmaatregelen, bedoeld in de artikelen 1a, 1b en 1c worden afgestemd op: 
+
+a. de aard van het categorie I-, II-, of III-materiaal;  
+
+b. de manier waarop het categorie I-, II-, of III-materiaal wordt gebruikt of opgeslagen;  
+
+c. de verplaatsbaarheid van het categorie I-, II-, of III-materiaal;  
+
+d. de mogelijke gevolgen voor mensen, dieren, planten en goederen door blootstelling aan ioniserende straling of het vrijkomen van het categorie I-, II-, of III-materiaal in geval van diefstal of misbruik;  
+
+e. de maatregelen die zijn of worden getroffen om de nadelige gevolgen van ioniserende straling voor mensen, dieren, planten en goederen te voorkomen of te beperken.   
+
+### Artikel  1e  
+
+1.  Een vergunninghouder 15, onder a, Kew beschikt over een beveiligingsplan met een beschrijving van de wijze waarop het categorie I-, II-, of III-materiaal wordt beveiligd.   
+2.  Het beveiligingsplan bevat ten minste een beschrijving van: 
+
+a. de categorie-indeling van de te beveiligen splijtstoffen overeenkomstig de bijlage I;  
+
+b. de manier waarop het categorie I-, II-, of III-materiaal wordt gebruikt of opgeslagen;  
+
+c. de plaats waar het categorie I-, II-, of III-materiaal wordt gebruikt of opgeslagen;  
+
+d. de getroffen en te treffen beveiligingsmaatregelen;  
+
+e. diegenen die geautoriseerd zijn persoonlijk toezicht te houden als bedoeld in artikel 1b;  
+
+f. de taken en bevoegdheden van de medewerkers, belast met de beveiliging van het categorie I-, II-, of III-materiaal;  
+
+g. de procedures die de medewerkers, belast met de beveiliging van het categorie I-, II-, of III-stof moeten volgen, waarbij in ieder geval wordt beschreven hoe zij moeten handelen in geval van diefstal of misbruik van de categorie I-, II-, of III-stof of een poging daartoe;  
+
+h. afspraken met de politie of met een particuliere beveiligingsdienst;  
+
+i. een evaluatieprogramma om de beveiligingsmaatregelen te beoordelen.     
+3.  Een vergunninghouder handelt in overeenstemming met het beveiligingsplan.  
+
+### Artikel  1f  
+
+1.  Een vergunninghouder 15 onder a, Kew zorgt ervoor dat van het beveiligingsplan, bedoeld in artikel 1e, slechts kennis nemen de personen voor wie dit noodzakelijk is voor het goed uitvoeren van hun functie.   
+2.  Een vergunninghouder 15 onder a, Kew zorgt ervoor dat deze personen, alvorens zij kennis nemen van het beveiligingsplan, een verklaring omtrent het gedrag of een verklaring als bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet veiligheidsonderzoeken overleggen.  
+
+### Artikel  1g  
+
+1.  Een vergunninghouder 15 onder a, Kew voert jaarlijks en na elke inbreuk op de beveiliging het evaluatieprogramma, bedoeld in artikel 1e, tweede lid, onder i, uit. Daarbij worden in ieder geval de beveiligingsmaatregelen gecontroleerd en getest en wordt het beveiligingsplan in een oefening toegepast.   
+2.  Een vergunninghouder 15 onder a, Kew wijzigt het beveiligingsplan voor zover de resultaten van het evaluatieprogramma, daartoe aanleiding geven.  
+
 ### §  2  
 
-####Beveiliging van nucleaire inrichtingen en splijtstoffen
+####Beveiliging van nucleaire inrichtingen en splijtstoffen door een vergunninghouder 15, onder b, Kew
 
 ### Artikel  2  
 
-De referentiedreiging en de wijzigingen daarvan worden door de Minister vastgesteld. De vastgestelde referentiedreiging wordt aan de vergunninghouders medegedeeld. 
+De referentiedreiging en de wijzigingen daarvan worden door de Minister vastgesteld. De vastgestelde referentiedreiging wordt aan de vergunninghouders 15, onder b, Kew medegedeeld. 
 
 ### Artikel  3  
 
-1.  De vergunninghouder treft de beveiligingsmaatregelen die redelijkerwijs nodig zijn om de inrichting onderscheidenlijk het categorie I-, II-, of III-materiaal te beveiligen tegen de dreigingen zoals omschreven in de referentiedreiging. Daarbij neemt de vergunninghouder het overeenkomstig de artikelen 4 en 5 vastgestelde en goedgekeurde beveiligingspakket in acht.   
-2.  De vergunninghouder treft in ieder geval de beveiligingsmaatregelen die nodig zijn om te voorkomen dat de in de bijlage II genoemde maximale waarde voor de hoeveelheid radioactiviteit geëmitteerd naar de lucht, bepaald overeenkomstig de bijlage II, of de maximale waarden voor de effectieve dosis ontvangen door een lid van de bevolking of een werknemer als bedoeld in [artikel 1 van het Besluit stralingsbescherming](../../../../../../../../AMvB/besluit/stralingsbescherming/BWBR0012702/README.md), bepaald overeenkomstig de bijlage II, worden overschreden.   
-3.  De vergunninghouder stemt de combinatie en het niveau van de beveiligingsmaatregelen af op de: 
+1.  De vergunninghouder 15, onder b, Kew treft de beveiligingsmaatregelen die redelijkerwijs nodig zijn om de inrichting onderscheidenlijk het categorie I-, II-, of III-materiaal te beveiligen tegen de dreigingen zoals omschreven in de referentiedreiging. Daarbij neemt de vergunninghouder 15, onder b, Kew het overeenkomstig de artikelen 4 en 5 vastgestelde en goedgekeurde beveiligingspakket in acht.   
+2.  De vergunninghouder 15, onder b, Kew treft in ieder geval de beveiligingsmaatregelen die nodig zijn om te voorkomen dat de in de bijlage II genoemde maximale waarde voor de hoeveelheid radioactiviteit geëmitteerd naar de lucht, bepaald overeenkomstig de bijlage II, of de maximale waarden voor de effectieve dosis ontvangen door een lid van de bevolking of een werknemer als bedoeld in artikel 1 van het Besluit stralingsbescherming, bepaald overeenkomstig de bijlage II, worden overschreden.   
+3.  De vergunninghouder 15, onder b, Kew stemt de combinatie en het niveau van de beveiligingsmaatregelen af op de: 
 
 a. aard van het materiaal en de inrichting, en  
 
 b. omvang van de mogelijke gevolgen door blootstelling aan straling van mensen, dieren, planten en goederen in het geval van diefstal of sabotage van categorie I, II, of III-materiaal of van sabotage van inrichtingen.     
-4.  De vergunninghouder houdt bij het treffen van de beveiligingsmaatregelen rekening met de maatregelen die zijn of worden getroffen om schade te voorkomen. De maatregelen die zijn of worden getroffen om schade te voorkomen hebben voorrang op beveiligingsmaatregelen.  
+4.  De vergunninghouder 15, onder b, Kew houdt bij het treffen van de beveiligingsmaatregelen rekening met de maatregelen die zijn of worden getroffen om schade te voorkomen. De maatregelen die zijn of worden getroffen om schade te voorkomen hebben voorrang op beveiligingsmaatregelen.  
 
 ### Artikel  4  
 
-1.  De vergunninghouder beschikt over een beveiligingspakket met een beschrijving van de wijze waarop de inrichting of het categorie I-, II-, en III-materiaal wordt beveiligd.   
+1.  De vergunninghouder 15, onder b, Kew beschikt over een beveiligingspakket met een beschrijving van de wijze waarop de inrichting of het categorie I-, II-, en III-materiaal wordt beveiligd.   
 2.  Het beveiligingspakket bevat ten minste: 
 
 a. de aanwijzing van een beveiligingsdeskundige en diens plaatsvervanger, die belast zijn met de uitvoering en de naleving van de beveiligingsmaatregelen en die voldoen aan de opleidingseisen, genoemd in de bijlage III;  
 
-b. de aanwijzing van vertrouwensfuncties als bedoeld in [artikel 1 van de Wet veiligheidsonderzoeken](../../../../../../../../wet/wet/veiligheidsonderzoeken/BWBR0008277/README.md);  
+b. de aanwijzing van vertrouwensfuncties als bedoeld in artikel 1 van de Wet veiligheidsonderzoeken;  
 
 c. een plan interne beveiligingsorganisatie als bedoeld in artikel 7;  
 
@@ -65,7 +132,7 @@ d. een omschrijving van de getroffen en te treffen beveiligingsmaatregelen als b
 
 e. de aanwijzing van een alarmcentrale als bedoeld in artikel 9, tweede lid;  
 
-f. de aanwijzing van een bedrijfsbeveiligingsdienst waaraan een vergunning als bedoeld in [artikel 3 van de Wet particuliere beveiligingsorganisaties en recherchebureaus](../../../../../../../../wet/wet/particuliere/beveiligingsorganisaties/en/recherchebureaus/BWBR0008973/README.md) is verleend;  
+f. de aanwijzing van een bedrijfsbeveiligingsdienst waaraan een vergunning als bedoeld in artikel 3 van de Wet particuliere beveiligingsorganisaties en recherchebureaus is verleend;  
 
 g. een evaluatieprogramma bestaande uit testen, controles, audits en oefeningen om de doeltreffendheid van de beveiligingsmaatregelen te kunnen beoordelen.     
 3.  Tot de plannen en maatregelen, bedoeld in het tweede lid, behoort per onderdeel een tijdstip waarop zij zijn uitgevoerd.  
@@ -79,17 +146,17 @@ g. een evaluatieprogramma bestaande uit testen, controles, audits en oefeningen 
 
 ### Artikel  6  
 
-1.  De vergunninghouder wijzigt het beveiligingspakket, bedoeld in artikel 4, eerste lid, nadat de referentiedreiging is gewijzigd, of wanneer de Minister dit nodig acht en dit schriftelijk heeft kenbaar gemaakt aan de vergunninghouder, waarbij de kennisgeving is voorzien van de aard van de aan te brengen wijzigingen.   
-2.  De vergunninghouder dient binnen een jaar nadat de referentiedreiging is gewijzigd, onderscheidenlijk binnen een jaar nadat de Minister kenbaar heeft gemaakt wijziging van het beveiligingspakket nodig te achten, een aanvraag om goedkeuring van het in overeenstemming met de referentiedreiging onderscheidenlijk de kennisgeving van de Minister gewijzigde beveiligingspakket in.   
+1.  De vergunninghouder 15, onder b, Kew wijzigt het beveiligingspakket, bedoeld in artikel 4, eerste lid, nadat de referentiedreiging is gewijzigd, of wanneer de Minister dit nodig acht en dit schriftelijk heeft kenbaar gemaakt aan de vergunninghouder 15, onder b, Kew, waarbij de kennisgeving is voorzien van de aard van de aan te brengen wijzigingen.   
+2.  De vergunninghouder 15, onder b, Kew dient binnen een jaar nadat de referentiedreiging is gewijzigd, onderscheidenlijk binnen een jaar nadat de Minister kenbaar heeft gemaakt wijziging van het beveiligingspakket nodig te achten, een aanvraag om goedkeuring van het in overeenstemming met de referentiedreiging onderscheidenlijk de kennisgeving van de Minister gewijzigde beveiligingspakket in.   
 3.  De termijnen, bedoeld in het tweede lid, kunnen door de Minister worden verkort indien: 
 
 a. de wijziging van de referentiedreiging, onderscheidenlijk de door de Minister nodig geachte wijzigingen van het beveiligingspakket deze kortere termijnen rechtvaardigen, en  
 
-b. de wijzigingen binnen de door de Minister gestelde termijn door de vergunninghouder redelijkerwijs mogelijk zijn.   
+b. de wijzigingen binnen de door de Minister gestelde termijn door de vergunninghouder 15, onder b, Kew redelijkerwijs mogelijk zijn.   
 
 ### Artikel  7  
 
-1.  De vergunninghouder beschikt over een plan interne beveiligingsorganisatie dat ten minste een omschrijving van de organisatie, de verantwoordelijkheden, de taken, de bevoegdheden en de instructies van de beveiligingsdeskundige en diens plaatsvervanger, de bedrijfsbeveiligingdienst en de alarmcentrale, bevat in het bijzonder in het geval van: 
+1.  De vergunninghouder 15, onder b, Kew beschikt over een plan interne beveiligingsorganisatie dat ten minste een omschrijving van de organisatie, de verantwoordelijkheden, de taken, de bevoegdheden en de instructies van de beveiligingsdeskundige en diens plaatsvervanger, de bedrijfsbeveiligingdienst en de alarmcentrale, bevat in het bijzonder in het geval van: 
 
 a. diefstal van categorie I-, II-, of III-materiaal;  
 
@@ -102,16 +169,16 @@ d. dreiging van een poging tot diefstal of sabotage als bedoeld onder a tot en m
 
 ### Artikel  8  
 
-De vergunninghouder treft bouwkundige beveiligingsmaatregelen die ten minste vertraging bieden tegen de dreigingen uit de referentiedreiging en in ieder geval betrekking hebben op daken, plafonds, wanden, vloeren, ramen, deuren, hang-en-sluitwerk, kluizen en hekwerken. 
+De vergunninghouder 15, onder b, Kew treft bouwkundige beveiligingsmaatregelen die ten minste vertraging bieden tegen de dreigingen uit de referentiedreiging en in ieder geval betrekking hebben op daken, plafonds, wanden, vloeren, ramen, deuren, hang-en-sluitwerk, kluizen en hekwerken. 
 
 ### Artikel  9  
 
-1.  De vergunninghouder treft elektronische beveiligingsmaatregelen die ten minste de dreigingen uit de referentiedreiging kunnen signaleren.   
+1.  De vergunninghouder 15, onder b, Kew treft elektronische beveiligingsmaatregelen die ten minste de dreigingen uit de referentiedreiging kunnen signaleren.   
 2.  De elektronische signaleringen worden ontvangen door een alarmcentrale die de signalen beoordeelt en, indien nodig, assistentie vraagt aan de politie.  
 
 ### Artikel  10  
 
-De vergunninghouder treft beveiligingsmaatregelen die redelijkerwijs nodig zijn om de alarmcentrale, bedoeld in artikel 9, tweede lid, te beveiligen tegen de dreigingen zoals omschreven in de referentiedreiging. Deze beveiligingsmaatregelen hebben ten minste betrekking op: 
+De vergunninghouder 15, onder b, Kew treft beveiligingsmaatregelen die redelijkerwijs nodig zijn om de alarmcentrale, bedoeld in artikel 9, tweede lid, te beveiligen tegen de dreigingen zoals omschreven in de referentiedreiging. Deze beveiligingsmaatregelen hebben ten minste betrekking op: 
 
 a. de vakbekwaamheid en betrouwbaarheid van diegenen die de apparatuur in de alarmcentrale ontwerpen, installeren en onderhouden;  
 
@@ -121,14 +188,14 @@ c. de vakbekwaamheid en betrouwbaarheid van diegenen die toegang hebben tot, of 
 
 ### Artikel  11  
 
-1.  De vergunninghouder verdeelt bij het treffen van de beveiligingsmaatregelen het terrein waarop de inrichting en de daarbij behorende gebouwen zich bevinden, voor zover van toepassing, in een: 
+1.  De vergunninghouder 15, onder b, Kew verdeelt bij het treffen van de beveiligingsmaatregelen het terrein waarop de inrichting en de daarbij behorende gebouwen zich bevinden, voor zover van toepassing, in een: 
 
 a. observatiegebied, zijnde een gebied tussen de grens van het terrein waarop een inrichting is gevestigd en de grens van een beveiligd gebied als bedoeld in onderdeel b;  
 
 b. beveiligd gebied, zijnde een gebied gelegen binnen een observatiegebied als bedoeld in onderdeel a, waar categorie III-materiaal voorhanden kan zijn, en  
 
 c. vitaal gebied, zijnde een gebied gelegen binnen een beveiligd gebied als bedoeld in onderdeel b, waar categorie I- of II-materiaal voorhanden kan zijn, of waar installaties zijn gevestigd of waar zich materialen kunnen bevinden die in geval van sabotage direct of indirect schade tot gevolg kunnen hebben.     
-2.  De vergunninghouder treft beveiligingsmaatregelen die ten minste betrekking hebben op: 
+2.  De vergunninghouder 15, onder b, Kew treft beveiligingsmaatregelen die ten minste betrekking hebben op: 
 
 a. de afscherming en verlichting van de gebieden, bedoeld in het eerste lid, en de gebouwen in die gebieden;  
 
@@ -140,22 +207,22 @@ d. de controle op die toegang.
 
 ### Artikel  12  
 
-De vergunninghouder meldt gebeurtenissen die aan onverkorte toepassing van het beveiligingspakket in de weg staan, onmiddellijk aan de Minister. 
+De vergunninghouder 15, onder b, Kew meldt gebeurtenissen die aan onverkorte toepassing van het beveiligingspakket in de weg staan, onmiddellijk aan de Minister. 
 
 ### Artikel  13  
 
-Het [Geheimhoudingsbesluit Kernenergiewet](../../../../../../../../AMvB/geheimhoudingsbesluit/kernenergiewet/BWBR0002768/README.md) is van toepassing op de referentiedreiging en het beveiligingspakket, bedoeld in artikel 4, eerste lid. 
+Het Geheimhoudingsbesluit Kernenergiewet is van toepassing op de referentiedreiging en het beveiligingspakket, bedoeld in artikel 4, eerste lid. 
 
 ### Artikel  14  
 
-1.  De vergunninghouder voert het evaluatieprogramma, bedoeld in artikel 4, tweede lid, onder g, uit. Daarbij wordt in elk geval een audit uitgevoerd met betrekking tot het plan interne beveiligingsorganisatie, worden de bouwkundige beveiligingsmaatregelen gecontroleerd, de elektronische beveiligingsmaatregelen getest en het plan interne beveiligingsorganisatie in een oefening toegepast.   
-2.  De vergunninghouder beoordeelt het beveiligingspakket jaarlijks op doeltreffendheid. Bij die beoordeling worden de bevindingen van de in het eerste lid bedoelde evaluatie betrokken en wordt aangegeven of het plan interne beveiligingsorganisatie aansluit op een plan externe beveiligingsorganisatie. De vergunninghouder meldt binnen een maand na die beoordeling de resultaten ervan aan de Minister.   
-3.  De vergunninghouder wijzigt het beveiligingspakket voor zover de resultaten van de in het tweede lid bedoelde beoordeling daartoe aanleiding geven. Hij biedt de wijziging binnen een jaar na het ontstaan van de aanleiding tot wijziging ter goedkeuring aan de Minister aan.  
+1.  De vergunninghouder 15, onder b, Kew voert het evaluatieprogramma, bedoeld in artikel 4, tweede lid, onder g, uit. Daarbij wordt in elk geval een audit uitgevoerd met betrekking tot het plan interne beveiligingsorganisatie, worden de bouwkundige beveiligingsmaatregelen gecontroleerd, de elektronische beveiligingsmaatregelen getest en het plan interne beveiligingsorganisatie in een oefening toegepast.   
+2.  De vergunninghouder 15, onder b, Kew beoordeelt het beveiligingspakket jaarlijks op doeltreffendheid. Bij die beoordeling worden de bevindingen van de in het eerste lid bedoelde evaluatie betrokken en wordt aangegeven of het plan interne beveiligingsorganisatie aansluit op een plan externe beveiligingsorganisatie. De vergunninghouder 15, onder b, Kew meldt binnen een maand na die beoordeling de resultaten ervan aan de Minister.   
+3.  De vergunninghouder 15, onder b, Kew wijzigt het beveiligingspakket voor zover de resultaten van de in het tweede lid bedoelde beoordeling daartoe aanleiding geven. Hij biedt de wijziging binnen een jaar na het ontstaan van de aanleiding tot wijziging ter goedkeuring aan de Minister aan.  
 
 ### Artikel  15  
 
-1.  De vergunninghouder beoordeelt elke tien jaar of het beveiligingspakket, bedoeld in artikel 4, eerste lid, voldoet aan de stand van de techniek. Daartoe worden de getroffen beveiligingsmaatregelen vergeleken met de op dat moment meest doeltreffende technieken die economisch en technisch gezien redelijkerwijs haalbaar zijn voor het bereiken van een hoog niveau van beveiliging. Indien de vergunninghouder op grond van de voorschriften in de vergunning een tienjaarlijkse evaluatie voor de nucleaire veiligheid en stralingsbescherming moet uitvoeren, dan wordt de beoordeling tegelijkertijd met deze evaluatie uitgevoerd.   
-2.  De vergunninghouder past het beveiligingspakket, bedoeld in artikel 4, eerste lid, aan voor zover de resultaten van de in het eerste lid bedoelde beoordeling daartoe aanleiding geven.  
+1.  De vergunninghouder 15, onder b, Kew beoordeelt elke tien jaar of het beveiligingspakket, bedoeld in artikel 4, eerste lid, voldoet aan de stand van de techniek. Daartoe worden de getroffen beveiligingsmaatregelen vergeleken met de op dat moment meest doeltreffende technieken die economisch en technisch gezien redelijkerwijs haalbaar zijn voor het bereiken van een hoog niveau van beveiliging. Indien de vergunninghouder 15, onder b, Kew op grond van de voorschriften in de vergunning een tienjaarlijkse evaluatie voor de nucleaire veiligheid en stralingsbescherming moet uitvoeren, dan wordt de beoordeling tegelijkertijd met deze evaluatie uitgevoerd.   
+2.  De vergunninghouder 15, onder b, Kew past het beveiligingspakket, bedoeld in artikel 4, eerste lid, aan voor zover de resultaten van de in het eerste lid bedoelde beoordeling daartoe aanleiding geven.  
 
 ### §  3  
 
@@ -180,7 +247,7 @@ f. de bescherming van specifieke gegevens over de beveiligingsmaatregelen in ver
 ### Artikel  17  
 
 1.  De vervoerder beschikt over een beveiligingsplan met een beschrijving van de wijze waarop categorie I- II- of III-materiaal wordt beveiligd.   
-2.  Het beveiligingsplan, bedoeld in het eerste lid, bevat ten minste een omschrijving van de beveiligingsmaatregelen die worden getroffen door de vervoerder om te voldoen aan artikel 16 en een verwijzing naar de vergunning ingevolge het [Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen](../../../../../../../../AMvB/besluit/vervoer/splijtstoffen/ertsen/en/radioactieve/stoffen/BWBR0002668/README.md) op grond waarvan de vervoerder bevoegd is om het categorie I-, II- of III-materiaal te vervoeren, voorhanden te hebben bij opslag in verband met het vervoer, of binnen of buiten Nederlands grondgebied te brengen of te doen brengen.  
+2.  Het beveiligingsplan, bedoeld in het eerste lid, bevat ten minste een omschrijving van de beveiligingsmaatregelen die worden getroffen door de vervoerder om te voldoen aan artikel 16 en een verwijzing naar de vergunning ingevolge het Besluit vervoer splijtstoffen, ertsen en radioactieve stoffen op grond waarvan de vervoerder bevoegd is om het categorie I-, II- of III-materiaal te vervoeren, voorhanden te hebben bij opslag in verband met het vervoer, of binnen of buiten Nederlands grondgebied te brengen of te doen brengen.  
 
 ### Artikel  18  
 
@@ -289,7 +356,7 @@ Opleidingseisen beveiligingsdeskundige: Ten minste het bezit van:
 
 – een diploma op HBO niveau, of een ten minste gelijkwaardig niveau, en  
 
-– een diploma van de post HBO cursus Security Management, zoals gecertificeerd door de Stichting Post HBO Nederland, of een diploma dat ten minste gelijkwaardig is aan laatstgenoemd diploma.   Met de hierboven genoemde beroepseisen worden gelijkgesteld beroepseisen die worden gesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een beroepsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd. De Minister verklaart op verzoek van een vergunninghouder, of een diploma gelijkwaardig is. De volgende diploma’s zijn in ieder geval gelijkwaardig: 
+– een diploma van de post HBO cursus Security Management, zoals gecertificeerd door de Stichting Post HBO Nederland, of een diploma dat ten minste gelijkwaardig is aan laatstgenoemd diploma.   Met de hierboven genoemde beroepseisen worden gelijkgesteld beroepseisen die worden gesteld in een andere lidstaat van de Europese Unie dan wel een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij een daartoe strekkend of mede daartoe strekkend Verdrag dat Nederland bindt, en die een beroepsniveau waarborgen dat ten minste gelijkwaardig is aan het niveau dat met de nationale eisen wordt nagestreefd. De Minister verklaart op verzoek van een vergunninghouder 15, onder b, Kew, of een diploma gelijkwaardig is. De volgende diploma’s zijn in ieder geval gelijkwaardig: 
 
 – een Master of Science (MSc) in the Study of Security Management van de Universiteit van Leicester (Engeland);  
 

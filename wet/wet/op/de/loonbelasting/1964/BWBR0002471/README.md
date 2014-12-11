@@ -1625,6 +1625,11 @@ Treedt in werking per 01-01-2015
 
 Artikel 10, vijfde lid, zoals dat luidde op 31 december 2014, blijft van toepassing op uitkeringen en verstrekkingen uit een voordien niet tot het loon gerekende aanspraak ingevolge een pensioenregeling als bedoeld in artikel 32bc, zoals dat luidde op 31 december 2014. 
 
+### Artikel  39h  
+Treedt in werking per 01-01-2015 
+
+Met betrekking tot auto’s waarvan het kenteken vóór 1 januari 2014 op naam is gesteld, dient, waar in artikel 13bis, drieëntwintigste lid, onderdeel a, vijfentwintigste lid of achtentwintigste lid, wordt gesproken over de eerste tenaamstelling van de auto in het kentekenregister, te worden uitgegaan van de eerste tenaamstelling van het kenteken van de auto in het kentekenregister. 
+
 ### Artikel  40  
 
 1.  De bepalingen van deze wet treden in werking op een door Ons te bepalen tijdstip, dat voor de onderscheidene bepalingen verschillend kan zijn. Ingeval dit tijdstip niet voor alle bepalingen hetzelfde is, worden door Ons voor zoveel nodig, op de grondslag van de ingevolge artikel 39 zoals dat luidt bij de inwerkingtreding van deze wet vervallen of ingetrokken bepalingen, regelen gegeven.    

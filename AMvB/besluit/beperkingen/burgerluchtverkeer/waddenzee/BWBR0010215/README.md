@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 17 juli 1998, nr. DGRLD/JBZ/L 98.210489, gedaan in overeenstemming met Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer en de Staatssecretaris van Defensie;
 
-Gelet op [artikel 5.10, derde lid, van de Wet Luchtverkeer](../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);
+Gelet op artikel 5.10, derde lid, van de Wet Luchtverkeer;
 
 De Raad van State gehoord (advies van 14 september 1998, nr. W09.98.0340);
 
@@ -44,7 +44,7 @@ a. op het deel van de vlucht, noodzakelijk om op te stijgen van of te landen op 
 b. indien de omstandigheden dit in het belang van de veiligheid dringend noodzakelijk maken; of  
 
 c. in het geval van mogelijke ijsafzetting bij hefschroefvliegtuigen.     
-2.  Artikel 2 is evenmin van toepassing op vluchten waarvoor op grond van [artikel 45](../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) of [51 van het Luchtverkeersreglement](../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) een vrijstelling of ontheffing is verleend ten behoeve van: 
+2.  Artikel 2 is evenmin van toepassing op vluchten waarvoor op grond van de artikelen 3 of 19 van het Besluit luchtverkeer 2014 een vrijstelling of ontheffing is verleend ten behoeve van: 
 
 a. hulpverlening en reddingsacties;  
 

@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 november 2007, nr. DLZ-KZ-2802433, houdende subsidiëring van palliatieve terminale zorg (Regeling palliatieve terminale zorg)
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 3 van de Kaderwet VWS-subsidies](../../../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md);
+Gelet op artikel 3 van de Kaderwet VWS-subsidies;
 Besluit:     
 ### Paragraaf  1  
 
@@ -49,16 +49,16 @@ c. instellingssubsidies voor het verlenen van palliatieve terminale zorg in een 
 
 d. instellingssubsidies voor de coördinatie van een netwerk palliatieve zorg;  
 
-e. afbouwsubsidies aan instellingen waaraan op grond van de [Regeling terminale en palliatieve zorg 2007](../../../../../../ministeriele-regeling/regeling/terminale/en/palliatieve/zorg/2007/BWBR0020255/README.md) een instellingssubsidie is verstrekt.   
+e. afbouwsubsidies aan instellingen waaraan op grond van de Regeling terminale en palliatieve zorg 2007 een instellingssubsidie is verstrekt.   
 
 ### Artikel  3  
 
 1.  Een instellingssubsidie voor palliatieve terminale zorg wordt niet verstrekt: 
 
-a. aan een instelling die deel uitmaakt van een organisatorisch verband met een toelating als bedoeld in [artikel 5, eerste lid, van de Wet toelating zorginstellingen](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md);  
+a. aan een instelling die deel uitmaakt van een organisatorisch verband met een toelating als bedoeld in artikel 5, eerste lid, van de Wet toelating zorginstellingen;  
 
-b. ten behoeve van het verlenen van palliatieve terminale zorg aan personen die verblijven in een instelling die deel uitmaakt van een organisatorisch verband met een toelating als bedoeld in [artikel 5, eerste lid, van de Wet toelating zorginstellingen](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md).     
-2.  Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+b. ten behoeve van het verlenen van palliatieve terminale zorg aan personen die verblijven in een instelling die deel uitmaakt van een organisatorisch verband met een toelating als bedoeld in artikel 5, eerste lid, van de Wet toelating zorginstellingen.     
+2.  Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.   
 3.  Een instellingssubsidie wordt voor de periode van een boekjaar verstrekt. Het boekjaar is gelijk aan het kalenderjaar.  
 
 ### Artikel  4  
@@ -133,7 +133,7 @@ Vervallen per 29-07-2010
 
 ### Artikel  16  
 
-1.  De Minister kan in het kader van de behandeling van de aanvraag van een instellingssubsidie van € 125.000 of meer verzoeken om een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) inzake het aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg is verleend.   
+1.  De Minister kan in het kader van de behandeling van de aanvraag van een instellingssubsidie van € 125.000 of meer verzoeken om een assurancerapport van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek inzake het aantal personen waaraan in de referentieperiode door de instelling palliatieve terminale zorg is verleend.   
 2.  De aanvrager van een instellingssubsidie van minder dan € 125.000 werkt, onder meer door het verschaffen van de daartoe benodigde inlichtingen, gegevens en bescheiden, mee aan door of namens de minister ingestelde onderzoekingen die erop zijn gericht de minister inlichtingen te verschaffen die van belang zijn voor het nemen van een besluit met betrekking tot het verstrekken van de subsidie.  
 
 ### Artikel  17  
@@ -182,13 +182,13 @@ De Minister kan jaarlijks aan een in bijlage 1 genoemde instelling op aanvraag e
 
 ### Artikel  23  
 
-De [Kaderregeling VWS-subsidies](../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md), met uitzondering van [artikel 2, tweede lid](../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md), is van toepassing op een instellingssubsidie voor een netwerk palliatieve zorg, met dien verstande dat: 
+De Kaderregeling VWS-subsidies, met uitzondering van artikel 2, tweede lid, is van toepassing op een instellingssubsidie voor een netwerk palliatieve zorg, met dien verstande dat: 
 
-a. instellingssubsidies van minder dan € 25.000 in afwijking van [artikel 7, derde lid, van de Kaderregeling VWS-subsidies](../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md) voorafgaand aan het boekjaar worden vastgesteld, welke vaststelling wordt aangevraagd overeenkomstig [paragraaf 3 van de Kaderregeling VWS-subsidies](../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md) in plaats van de [artikelen 50 tot en met 54 van de Kaderregeling VWS-subsidies](../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md);  
+a. instellingssubsidies van minder dan € 25.000 in afwijking van artikel 7, derde lid, van de Kaderregeling VWS-subsidies voorafgaand aan het boekjaar worden vastgesteld, welke vaststelling wordt aangevraagd overeenkomstig paragraaf 3 van de Kaderregeling VWS-subsidies in plaats van de artikelen 50 tot en met 54 van de Kaderregeling VWS-subsidies;  
 
-b. instellingssubsidies van € 25.000 tot € 125.000 worden verstrekt als instellingssubsidies als bedoeld in [artikel 8, onderdeel d, van de Kaderregeling VWS-subsidies](../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md);  
+b. instellingssubsidies van € 25.000 tot € 125.000 worden verstrekt als instellingssubsidies als bedoeld in artikel 8, onderdeel d, van de Kaderregeling VWS-subsidies;  
 
-c. de ontvanger van een instellingssubsidie van € 125.000 of meer in afwijking van [artikel 34, eerste lid, van de Kaderregeling VWS-subsidies](../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md) geen egalisatiereserve vormt.   
+c. de ontvanger van een instellingssubsidie van € 125.000 of meer in afwijking van artikel 34, eerste lid, van de Kaderregeling VWS-subsidies geen egalisatiereserve vormt.   
 
 ### Artikel  28  
 

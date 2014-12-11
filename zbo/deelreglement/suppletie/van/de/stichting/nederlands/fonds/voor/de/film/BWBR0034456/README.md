@@ -3,9 +3,9 @@
 ##Deelreglement Suppletie van de Stichting Nederlands Fonds voor de Film
 
 De Stichting Nederlands Fonds voor de Film,  
-gelet op het bepaalde in de [Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),
+gelet op het bepaalde in de Algemene wet bestuursrecht,
 
-gelet op [artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid](../../../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md),
+gelet op artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid,
 Besluit:    
 
 ### Artikel  1  
@@ -219,7 +219,7 @@ f.. het Fonds op grond van het beoogde publieksbereik vanaf een *medium exploita
 
 ####Weigeringsgronden
 
-Onverminderd het bepaalde in de [Awb](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt een aanvraag afgewezen indien, naar het oordeel van het bestuur: 
+Onverminderd het bepaalde in de Awb wordt een aanvraag afgewezen indien, naar het oordeel van het bestuur: 
 
 a. een mediabedrijf, direct of indirect, een belang heeft in de aanvrager;  
 
@@ -359,14 +359,14 @@ b. overlegt een actueel en waarheidsgetrouw overzicht van alle opbrengsten, uitg
 
 c. informeert het Fonds adequaat en schriftelijk over de première, de kosten, het publieksbereik en de opbrengsten die door distributie en exploitatie van de filmproductie, waarvoor subsidie is verleend, worden voortgebracht;  
 
-d. is verplicht onverminderd het bepaalde in [artikel 4:45 Awb](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) desgevraagd een filmprint en een DVD van de filmproductie waarvoor subsidie is verleend op te leveren  
+d. is verplicht onverminderd het bepaalde in artikel 4:45 Awb desgevraagd een filmprint en een DVD van de filmproductie waarvoor subsidie is verleend op te leveren  
 
 e. is verplicht om na voltooiing van de filmproductie waarvoor de bijdrage is verleend de onder d. genoemde dragers van de voltooide filmproductie aan het Fonds in eigendom over te dragen. Aan het Fonds wordt het recht toegekend tot gehele of gedeeltelijke openbaarmaking van de filmproductie binnen het kader van de gebruikelijke activiteiten van het Fonds of diens rechtsopvolgers, tenzij in redelijkheid gesteld kan worden dat deze openbaarmaking de belangen van de aanvrager of diens rechtverkrijgenden onevenredig kan schaden;  
 
 f. verplicht zich om ‘om niet’ toestemming te verlenen voor eenmalige of bijzondere openbaarmakingen van de filmproductie die in het kader van de bevordering van het filmklimaat in Nederland en van nationaal belang zijn, en deze daartoe te verveelvoudigen, tenzij in redelijkheid gesteld kan worden dat deze openbaarmaking de belangen van de aanvrager of diens rechtverkrijgenden onevenredig kan schaden.     
 2.  Het bestuur verplicht de subsidieontvanger een financieel verslag inzake werkelijke kosten en opbrengsten in te dienen.   
 3.  Het financieel verslag geeft een zodanig inzicht dat een verantwoord oordeel kan worden gevormd omtrent de aanwending en de besteding van de subsidie door de subsidieontvanger en van de ontvangen financiering van derden. Het financieel verslag sluit aan op de indeling van de begroting en het financieringsplan die voorafgaand aan de subsidieverlening of bij de ondertekening van de uitvoeringsovereenkomst zijn overgelegd en door het Fonds zijn goedgekeurd volgens het Financieel & Productioneel Protocol van het Fonds. Belangrijke verschillen tussen financieel verslag en begroting en/of financieringsplan worden toegelicht.   
-4.  De subsidieontvanger is verplicht om het financieel verslag te voorzien van een verklaring van de accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De accountant volgt het Handboek Financiële Verantwoording van het Fonds.   
+4.  De subsidieontvanger is verplicht om het financieel verslag te voorzien van een verklaring van de accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. De accountant volgt het Handboek Financiële Verantwoording van het Fonds.   
 5.  Vertegenwoordigers van het Fonds hebben op eerste verzoek inzage in de administratie die betrekking heeft op de filmproductie of de filmactiviteit waarvoor de subsidie is verleend. De kosten voor een dergelijke controle door vertegenwoordigers van het Fonds zijn voor rekening van het Fonds tenzij er verwijtbare onregelmatigheden worden aangetroffen. In een dergelijk geval worden de kosten doorberekend aan de ontvanger van subsidie.   
 6.  Het Fonds kan ongelimiteerd steekproeven houden om te controleren of aan de aan de subsidie verbonden verplichtingen is voldaan.  
 

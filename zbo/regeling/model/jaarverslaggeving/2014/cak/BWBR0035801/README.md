@@ -1157,7 +1157,7 @@ PASSIVA
 | --- |
 |:---|
 |  *Kortlopende schulden:*   |
-| Rekening-courant AFBZ:  – Beginsaldo  – AWBZ-betalingen  – Eigen bijdragen Zorg met Verblijf  – Eigen bijdragen Zorg zonder Verblijf  – Korting Wtcg Zorg zonder Verblijf  – Korting Wtcg Wmo  – Interest geldmiddelen AFBZ  – Ontvangen voorschotten AWBZ  – Eindsaldo  Ten aanzien van de hiervoor genoemde categorieën wordt waar nodig een nadere verdeling gemaakt naar subcategorie.  |
+| Rekening-courant AFBZ:  – Beginsaldo  – AWBZ-betalingen  – Eigen bijdragen Zorg met Verblijf  – Eigen bijdragen Zorg zonder Verblijf  – Korting Zorg zonder Verblijf  – Korting Wtcg WmoWtcg  – Interest geldmiddelen AFBZ  – Ontvangen voorschotten AWBZ  – Eindsaldo  Ten aanzien van de hiervoor genoemde categorieën wordt waar nodig een nadere verdeling gemaakt naar subcategorie.  |
 | Rekening-courant Wmo:  – Beginsaldo  – Opgelegde eigen bijdrage  – Minimabeleid  – Facturatiestop  – Afboekingen en restituties  – Afboekingen Wtcg-korting  – Rente  – Afgedragen aan gemeenten  – Eindsaldo  |
 | Rekening-courant CER:  – Beginsaldo  – Uitkeringen  – Interest  – Ontvangen voorschotten  – Eindsaldo  |
 | Rekening-courant Wtcg:  – Beginsaldo  – Uitkeringen  – Interest  – Ontvangen voorschotten  – Eindsaldo  |

@@ -3,11 +3,11 @@
 ##Deelreglement Realisering van de Stichting Nederlands Fonds voor de Film
 
 De Stichting Nederlands Fonds voor de Film,  
-gelet op het bepaalde in de [Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md),
+gelet op het bepaalde in de Algemene wet bestuursrecht,
 
-gelet op [artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid](../../../../../../../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md),
+gelet op artikel 10, lid 4, van de Wet op het specifiek cultuurbeleid,
 
-gelet op [artikel 2 van het Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md),
+gelet op artikel 2 van het Algemeen Reglement,
 Besluit:     
 
 ####Algemeen
@@ -129,7 +129,7 @@ In dit reglement wordt verstaan onder:
 ####Toepasselijkheid reglementen
 
 1.  Dit deelreglement is van toepassing op subsidies die het bestuur verstrekt voor realisering en afwerking in de categorieën speelfilm, documentaire, animatie, korte film en filmisch experiment en, met inachtneming van artikel 8, op subsidies die worden verstrekt in het kader van de samenwerkingsprojecten met andere instellingen die tot realisering van deze filmproducties strekken.   
-2.  Het [Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md) is van toepassing naast en in aanvulling op dit deelreglement.  
+2.  Het Algemeen Reglement is van toepassing naast en in aanvulling op dit deelreglement.  
 
 ### Artikel  3  
 
@@ -167,7 +167,7 @@ In dit reglement wordt verstaan onder:
 
 ####Beoordeling subsidie voor realisering
 
-Voor toekenning van de aanvraag dient het oordeel over de kwaliteit van de filmproductie positief te zijn. De kwaliteit van de filmproductie wordt beoordeeld aan de hand van de beoordelingscriteria in [artikel 5 van het Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md). 
+Voor toekenning van de aanvraag dient het oordeel over de kwaliteit van de filmproductie positief te zijn. De kwaliteit van de filmproductie wordt beoordeeld aan de hand van de beoordelingscriteria in artikel 5 van het Algemeen Reglement. 
 
 ### Artikel  7  
 
@@ -213,7 +213,7 @@ c.) preproductie.
 
 1.  De ontvanger is verplicht om: 
 
-a. binnen een termijn van uiterlijk twaalf maanden na subsidieverlening de ter zake van de financiering en exploitatie van de filmproductie waarvoor subsidie is verleend definitieve schriftelijke overeenkomsten met alle bij de financiering van de filmproductie betrokken partijen te overleggen. Hieruit blijkt dat naar het oordeel van het bestuur elk van deze partijen zich onvoorwaardelijk heeft verbonden tot het hem betreffende aandeel in de financiering ten behoeve van de realisering van de filmproductie overeenkomstig de bij de subsidieaanvraag overgelegde gegevens en op voorwaarden die verenigbaar zijn met de voorwaarden die zijn verbonden aan de subsidieverlening, dit deelreglement en het [Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md);  
+a. binnen een termijn van uiterlijk twaalf maanden na subsidieverlening de ter zake van de financiering en exploitatie van de filmproductie waarvoor subsidie is verleend definitieve schriftelijke overeenkomsten met alle bij de financiering van de filmproductie betrokken partijen te overleggen. Hieruit blijkt dat naar het oordeel van het bestuur elk van deze partijen zich onvoorwaardelijk heeft verbonden tot het hem betreffende aandeel in de financiering ten behoeve van de realisering van de filmproductie overeenkomstig de bij de subsidieaanvraag overgelegde gegevens en op voorwaarden die verenigbaar zijn met de voorwaarden die zijn verbonden aan de subsidieverlening, dit deelreglement en het Algemeen Reglement;  
 
 b. ervoor te zorgen dat de opnamen, of in het geval van animatie de uitvoering van de filmproductie waarvoor subsidie is verleend, niet eerder starten dan nadat én door het Fonds is bericht dat de aanvrager heeft voldaan aan de verplichtingen, zoals bedoeld in het eerste lid onder a, én – indien van toepassing – de *completion guarantor* definitieve dekking heeft verleend voor de voortbrenging en voltooiing van de filmproductie waarvoor subsidie is verleend;  
 
@@ -346,7 +346,7 @@ Voor een aanvraag voor subsidie voor een minoritaire coproductie gelden de volge
 
 ####Beoordelingscriterium
 
-Bij de beoordeling van een subsidieaanvraag beoordeelt het bestuur, in aanvulling op de criteria van [Artikel 5 van het Algemeen Reglement](../../../../../../../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032470/README.md) of de filmproductie in de categorie filmisch experiment naar het oordeel van het bestuur bijdraagt aan de creatieve en technische innovatie van de cinematografie. Voor een toekenning dient ook de beoordeling van dit criterium positief te zijn. 
+Bij de beoordeling van een subsidieaanvraag beoordeelt het bestuur, in aanvulling op de criteria van Artikel 5 van het Algemeen Reglement of de filmproductie in de categorie filmisch experiment naar het oordeel van het bestuur bijdraagt aan de creatieve en technische innovatie van de cinematografie. Voor een toekenning dient ook de beoordeling van dit criterium positief te zijn. 
 
 ####Slot- en overgangsbepalingen
 
@@ -356,7 +356,7 @@ Bij de beoordeling van een subsidieaanvraag beoordeelt het bestuur, in aanvullin
 2.  Het bestuur kan om zwaarwegende redenen afwijken van dit reglement, voor zover dergelijke afwijkingen verenigbaar zijn met het beoordelingskader voor staatssteun aan de filmsector, zoals dat wordt gehanteerd door de Europese Commissie.   
 3.  Dit reglement is vastgesteld door het bestuur met goedkeuring van de Raad van Toezicht op 18 november 2013.   
 4.  Dit reglement treedt in werking met ingang van 1 januari 2014.   
-5.  Het [Deelreglement Realisering](../../../../../../../../../../../../zbo/deelreglement/realisering/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032472/README.md), geldend vanaf 1 januari 2013, is per 1 januari 2014 ingetrokken.   
-6.  Op alle aanvragen die door het Fonds voor 1 januari 2014 zijn ontvangen blijft het [Deelreglement Realisering](../../../../../../../../../../../../zbo/deelreglement/realisering/van/de/stichting/nederlands/fonds/voor/de/film/BWBR0032472/README.md) zoals dit gold tot 1 januari 2014 van toepassing.   
+5.  Het Deelreglement Realisering, geldend vanaf 1 januari 2013, is per 1 januari 2014 ingetrokken.   
+6.  Op alle aanvragen die door het Fonds voor 1 januari 2014 zijn ontvangen blijft het Deelreglement Realisering zoals dit gold tot 1 januari 2014 van toepassing.   
 7.  Dit reglement wordt aangehaald als Deelreglement Realisering van de Stichting Nederlands Fonds voor de Film   
 8.  Dit reglement wordt bekendgemaakt middels kennisgeving in de Staatscourant en op de website van het Nederlands Fonds voor de Film (www.filmfonds.nl).  

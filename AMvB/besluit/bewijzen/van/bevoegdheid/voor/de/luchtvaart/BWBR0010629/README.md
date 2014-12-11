@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat, in overeenstemming met Onze Minister van Defensie van 5 maart 1999, nr. DGRLD/JBZ/L 99 210113, Directoraat-Generaal Rijksluchtvaartdienst;
 
-Gelet op de [artikelen 1.2, tweede lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [2.2, derde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [2.3, tweede, vijfde en zesde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [2.4, tweede, derde en vierde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [2.7, vierde lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [2.9, eerste lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [3.30](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), [5.11](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), en [5.16, tweede lid, van de Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);
+Gelet op de artikelen 1.2, tweede lid, 2.2, derde lid, 2.3, tweede, vijfde en zesde lid, 2.4, tweede, derde en vierde lid, 2.7, vierde lid, 2.9, eerste lid, 3.30, 5.11, en 5.16, tweede lid, van de Wet luchtvaart;
 
 De Raad van State gehoord (advies van 21 mei 1999, nr. W09.99.0097/V);
 
@@ -34,7 +34,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *luchthaveninformatie:*
 
-1°. informatie overeenkomend met de betekenis van de in de [Regeling seinen](../../../../../../../../../ministeriele-regeling/regeling/seinen/luchtvaart/BWBR0016765/README.md) opgenomen grondtekens die op de luchthaven zijn uitgelegd,  
+1°. informatie overeenkomend met de betekenis van de in de Regeling seinen opgenomen grondtekens die op de luchthaven zijn uitgelegd,  
 
 2°. informatie van windrichting of sterkte, verkregen uit ter beschikking staande middelen, zoals windmeter en windzak,  
 
@@ -74,7 +74,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *vrije ballon:* luchtvaartuig, lichter dan lucht, niet voorzien van een voortstuwingsinstallatie en ingericht en bestemd om ten minste één persoon te vervoeren;  
 
-*wet:* [Wet luchtvaart](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md);  
+*wet:* Wet luchtvaart;  
 
 *zeilvliegtuig:* zweeftoestel met starre hoofdstructuur, dat kan worden gedragen en slechts gestart en geland kan worden door gebruik te maken van de benen van de bestuurder;  
 
@@ -84,7 +84,7 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ###Artikel 1a 
 
-Dit besluit berust tevens op de [artikelen 1.5](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [2.9, tweede en vierde lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).
+Dit besluit berust tevens op de artikelen 1.5 en 2.9, tweede en vierde lid, van de wet.
 
 ### Artikel  1b  
 
@@ -118,7 +118,7 @@ a. RPL, dat de bevoegdheid geeft, niet tegen vergoeding, op te treden als bestuu
 
 1°. alleen tijdens VFR-vluchten;  
 
-2°. alleen tijdens de daglichtperiode als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), en  
+2°. alleen tijdens de daglichtperiode als bedoeld in artikel 1 van het Besluit luchtverkeer 2014, en  
 
 3°. niet met passagiers, tenzij de houder ten minste tien uur ervaring heeft als gezagvoerder van een luchtvaartuig van dezelfde categorie of met dezelfde bijzondere bevoegdverklaring en de houder in de voorafgaande negentig dagen ten minste drie starts en drie landingen heeft uitgevoerd als gezagvoerder van een luchtvaartuig van dezelfde categorie en met dezelfde bijzondere bevoegdverklaring;    
 
@@ -143,9 +143,9 @@ b. vaart bij nacht is slechts toegestaan, indien de houder ten minste twee opsti
 
 ### Artikel  3  
 
-1.  Aan houders van een RPL kan, onder de krachtens [artikel 2.2 van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) genoemde bijzondere bevoegdverklaringen, al dan niet onder beperkingen naar soort vlucht of ervaring, één of meer van de volgende algemene bevoegdverklaringen worden afgegeven: 
+1.  Aan houders van een RPL kan, onder de krachtens artikel 2.2 van de wet genoemde bijzondere bevoegdverklaringen, al dan niet onder beperkingen naar soort vlucht of ervaring, één of meer van de volgende algemene bevoegdverklaringen worden afgegeven: 
 
-a. RT, dat de bevoegdheid geeft om radiocontact met de luchtverkeersdienst, als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), of met bestuurders van andere luchtvaartuigen te onderhouden;  
+a. RT, dat de bevoegdheid geeft om radiocontact met de luchtverkeersdienst, of met bestuurders van andere luchtvaartuigen te onderhouden;  
 
 b. RFI, dat de bevoegdheid geeft om vliegonderricht te geven voor de afgifte van een: 
 
@@ -157,9 +157,9 @@ c. LPE met de bevoegdheden en voorwaarden, bedoeld in verordening (EU) nr. 1178/
 2. Aan de houder van een CPL afgegeven overeenkomstig verordening (EU) nr. 1178/2011 kan onder beperkingen naar soort vlucht of ervaring de algemene bevoegdverklaring CSR worden verbonden, dat de bevoegdheid geeft om een luchtvaartuig te bedienen waarmee stoffen ter bescherming of bevordering van het milieu of de land-, tuin-, of bosbouw vanuit de lucht worden verspreid.  
 3.  De bevoegdheden die voortvloeien uit een RT zijn steeds beperkt tot het overeenkomende bewijs van bevoegdheid van de houder.   
 4.  De bevoegdheden die voortvloeien uit een algemene bevoegdverklaring, met uitzondering van de RT, zijn steeds beperkt tot die categorie luchtvaartuigen waarvoor de bevoegdverklaring is afgegeven.   
-5.  Aan de houder van een CPL(FB) kan, onder de krachtens [artikel 2.2 van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) genoemde bijzondere bevoegdverklaringen, al dan niet onder beperkingen naar soort vlucht of ervaring, een of meer van de volgende algemene bevoegdverklaringen worden afgegeven: 
+5.  Aan de houder van een CPL(FB) kan, onder de krachtens artikel 2.2 van de wet genoemde bijzondere bevoegdverklaringen, al dan niet onder beperkingen naar soort vlucht of ervaring, een of meer van de volgende algemene bevoegdverklaringen worden afgegeven: 
 
-a. RT, dat de bevoegdheid geeft om radiocontact met de luchtverkeersdienst, als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), of met bestuurders van andere luchtvaartuigen, te onderhouden;  
+a. RT, dat de bevoegdheid geeft om radiocontact met de luchtverkeersdienst, of met bestuurders van andere luchtvaartuigen, te onderhouden;  
 
 b. FI(FB) dat de bevoegdheid geeft onderricht te geven in het besturen van vrije ballonnen voor: 
 
@@ -200,7 +200,7 @@ a. voldoet aan de bij ministeriële regeling vast te stellen vereisten inzake ke
 
 b. in het bezit is van een geldige medische verklaring klasse II.     
 2.  De aanvraag tot afgifte van een bewijs van bevoegdheid of bevoegdverklaring wordt gedaan op een daartoe door Onze Minister verstrekt aanvraagformulier.   
-3.  Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.3, zesde lid, onderdeel h, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), worden vergoed.  
+3.  Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in artikel 2.3, zesde lid, onderdeel h, van de wet, worden vergoed.  
 
 ### Artikel  9  
 
@@ -216,7 +216,7 @@ De bevoegdverklaringen, genoemd in artikel 3 en 5, worden verlengd indien de hou
 
 ### Artikel  11  
 
-1.   [Artikel 2.1, eerste en tweede lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) is niet van toepassing op: 
+1.   Artikel 2.1, eerste en tweede lid, van de wet is niet van toepassing op: 
 
 a. het bedienen van een modelvliegtuig, waarvan de totale massa ten hoogste 25 kg bedraagt;  
 
@@ -256,7 +256,7 @@ a. de leeftijd van 16 jaar heeft bereikt, met dien verstande, dat de bestuurder 
 b. kan aantonen te beschikken over voldoende bekwaamheid om op een veilige manier deel te nemen aan het luchtverkeer, en  
 
 c. kan aantonen dat een verzekering is gesloten tegen de burgerrechtelijke aansprakelijkheid jegens derden als gevolg van het gebruik van het luchtvaartuig.     
-3.  De [artikelen 2.1, eerste lid](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), voor zover dit betrekking heeft op het bedienen van een grondstation of mobiel station in de luchtvaartmobiele band, waarvoor een vergunning is vereist als bedoeld in [artikel 3.13 van de Telecommunicatiewet](../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), en [artikel 2.2, tweede lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) zijn niet van toepassing op degene die een luchtvaartuig als bedoeld in het eerste lid bedient of een solovlucht als bedoeld in onderdeel k van dat lid uitvoert, en houder is van een door Onze Minister afgegeven certificaat waaruit blijkt, dat die houder bevoegd is tot het bedienen van een grondstation of mobiel station als bedoeld in [artikel 2.1, eerste lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md).  
+3.  De artikelen 2.1, eerste lid, voor zover dit betrekking heeft op het bedienen van een grondstation of mobiel station in de luchtvaartmobiele band, waarvoor een vergunning is vereist als bedoeld in artikel 3.13 van de Telecommunicatiewet, en artikel 2.2, tweede lid, van de wet zijn niet van toepassing op degene die een luchtvaartuig als bedoeld in het eerste lid bedient of een solovlucht als bedoeld in onderdeel k van dat lid uitvoert, en houder is van een door Onze Minister afgegeven certificaat waaruit blijkt, dat die houder bevoegd is tot het bedienen van een grondstation of mobiel station als bedoeld in artikel 2.1, eerste lid, van de wet.  
 
 ### Artikel  12  
 
@@ -275,7 +275,7 @@ a. de bij de aanvraag in te dienen gegevens;
 b. eisen inzake de opleiding;  
 
 c. de afgifte, geldigheidsduur, intrekking en wijziging.     
-2.  Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.9, vierde lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) worden vergoed.   
+2.  Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in artikel 2.9, vierde lid, van de wet worden vergoed.   
 3.  Onze Minister geeft nadere regels met betrekking tot de kwalificatie van STD's. Deze regels omvatten in ieder geval bepalingen betreffende: 
 
 a. de bij de aanvraag in te dienen gegevens;  
@@ -401,7 +401,7 @@ b.voldoet aan bij ministeriële regeling te stellen eisen inzake kennis, bedreve
 
 c.overeenkomstig Bijlage 1 bij het op 7 december 1944 te Chicago gesloten Verdrag inzake de Internationale Burgerluchtvaart (Trb. 1973, 109) voldoet aan de vereisten inzake het vermogen tot beheersing van de Engelse taal op de niveaus 4, 5 of 6.  
 2. Het eerste lid, onderdeel b, is van overeenkomstige toepassing op het verlenen van bewijzen van bevoegdheid voor luchthaveninformatieverstrekker en op het verlenen van bevoegdverklaringen en aantekeningen als bedoeld in artikel 18. 
-3.  Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.3, zesde lid, onderdeel h, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), worden vergoed.  
+3.  Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in artikel 2.3, zesde lid, onderdeel h, van de wet, worden vergoed.  
 
 ### Artikel  21  
 
@@ -455,7 +455,7 @@ c.de geldigheidsduur van de certificering;
 d.de technische en operationele bekwaamheden van de opleidingsinstelling;
 
 e.het vermogen van de opleidingsinstelling opleidingen te organiseren. 
-2. Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in [artikel 2.9, vierde lid, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) worden vergoed.
+2. Onze Minister stelt de tarieven vast, volgens welke de kosten, bedoeld in artikel 2.9, vierde lid, van de wet worden vergoed.
 
 ### Paragraaf  3  
 
@@ -516,7 +516,7 @@ g. de eisen waaraan een geneeskundige of een geneeskundige instantie ten behoeve
 h. de verplichtingen van de houder van de medische verklaring of van een geneeskundige of een geneeskundige instantie;  
 
 i.de erkenning van in het buitenland verrichte keuringen.   
-3.  Onze Minister stelt de tarieven vast, volgens welke de kosten, als bedoeld in [artikel 2.3, zesde lid, onderdeel h](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en [artikel 2.4, derde lid, onderdeel g, van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) worden vergoed.  
+3.  Onze Minister stelt de tarieven vast, volgens welke de kosten, als bedoeld in artikel 2.3, zesde lid, onderdeel h en artikel 2.4, derde lid, onderdeel g, van de wet worden vergoed.  
 
 ### Artikel  31  
 
@@ -562,7 +562,7 @@ Zolang in een vacature in de Adviescommissie niet is voorzien, vormen de overbli
 
 ### Artikel  36  
 
-1.  Indien een bewijs van bevoegdheid of een bevoegdverklaring is geschorst op één van de in [artikel 2.5, eerste lid, onderdeel a of b van de wet](../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) genoemde gronden, kan Onze Minister bepalen dat de houder zich opnieuw aan een door Onze Minister te bepalen examen onderwerpt. Het examen kan beperkt blijven tot één of enkele onderdelen.   
+1.  Indien een bewijs van bevoegdheid of een bevoegdverklaring is geschorst op één van de in artikel 2.5, eerste lid, onderdeel a of b van de wet genoemde gronden, kan Onze Minister bepalen dat de houder zich opnieuw aan een door Onze Minister te bepalen examen onderwerpt. Het examen kan beperkt blijven tot één of enkele onderdelen.   
 2.  Indien een bewijs van bevoegdheid of een bevoegdverklaring is geschorst op grond van artikel 2.5, eerste lid, onderdeel c, wordt de schorsing opgeheven bij opnieuw gebleken medische geschiktheid.  
 
 ### Hoofdstuk  6  

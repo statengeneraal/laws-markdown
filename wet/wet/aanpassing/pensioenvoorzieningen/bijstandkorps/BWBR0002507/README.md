@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is maatregelen te treffen ten aanzien van pensioenen toegekend krachtens de wet van 25 mei 1962, *Stb.* 196, in verband met de interimregeling voor uit hoofde van invaliditeit gepensioneerde ambtenaren en in verband met de maatregelen tot aanpassing van de overheidspensioenen aan de algemene wijzigingen van het bezoldigingspeil, alsmede nieuwe regelen vast te stellen ten aanzien van de invloed op een pensioen krachtens de wet van 25 mei 1962, *Stb.* 196, van een pensioen krachtens de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) of een pensioen dan wel uitkering krachtens de Algemene Weduwen- en Wezenwet; 
+Alzo Wij in overweging genomen hebben, dat het wenselijk is maatregelen te treffen ten aanzien van pensioenen toegekend krachtens de wet van 25 mei 1962, *Stb.* 196, in verband met de interimregeling voor uit hoofde van invaliditeit gepensioneerde ambtenaren en in verband met de maatregelen tot aanpassing van de overheidspensioenen aan de algemene wijzigingen van het bezoldigingspeil, alsmede nieuwe regelen vast te stellen ten aanzien van de invloed op een pensioen krachtens de wet van 25 mei 1962, *Stb.* 196, van een pensioen krachtens de Algemene Ouderdomswet of een pensioen dan wel uitkering krachtens de Algemene Weduwen- en Wezenwet; 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:      
 ### Eerste  Afdeling  
 
@@ -48,15 +48,15 @@ a. pensioen: een pensioen als bedoeld in artikel 1, onder a, met inbegrip van de
 
 b. ander pensioen: een pensioen, als bedoeld in artikel 16, tweede lid jo. vierde lid, van het pensioenreglement.  
 
-c. algemeen ouderdomspensioen: een bruto ouderdomspensioen als bedoeld in de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) met inbegrip van de daarbij behorende vakantie-uitkering voorzover deze niet behoren tot de overlijdensuitkering krachtens die wet;   
+c. algemeen ouderdomspensioen: een bruto ouderdomspensioen als bedoeld in de Algemene Ouderdomswet met inbegrip van de daarbij behorende vakantie-uitkering voorzover deze niet behoren tot de overlijdensuitkering krachtens die wet;   
 
 d. algemeen weduwenpensioen en algemeen wezenpensioen: een weduwenpensioen of een tijdelijke weduwenuitkering onderscheidenlijk een wezenpensioen, als bedoeld in de Algemene Weduwen- en Wezenwet zoals die wet laatstelijk luidde.   
 
-e. «algemene nabestaandenuitkering» en «algemene wezenuitkering»: uitkering op grond van de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).   
+e. «algemene nabestaandenuitkering» en «algemene wezenuitkering»: uitkering op grond van de Algemene nabestaandenwet.   
 
 ### Artikel  9a  
 
-Voor de toepassing van deze wet wordt onder het algemeen ouderdomspensioen van een rechthebbende die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), reeds heeft bereikt mede begrepen het algemeen ouderdomspensioen waarop zijn echtgenoot recht heeft, tenzij het echtpaar duurzaam gescheiden leeft. 
+Voor de toepassing van deze wet wordt onder het algemeen ouderdomspensioen van een rechthebbende die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, reeds heeft bereikt mede begrepen het algemeen ouderdomspensioen waarop zijn echtgenoot recht heeft, tenzij het echtpaar duurzaam gescheiden leeft. 
 
 ### Artikel  10  
 
@@ -66,15 +66,15 @@ a. Een pensioen wordt geacht te zijn berekend naar 8/5 maal de pensioendiensttij
 
 b. Indien in een pensioen een invaliditeitstoeslag, als bedoeld in de Tweede Afdeling is begrepen, wordt het pensioen geacht te zijn berekend naar 8/5 maal een met de som van pensioen en invaliditeitstoeslag overeenkomende pensioendiensttijd, tot een maximum van veertig jaren. De voorgaande volzin vindt overeenkomstige toepassing ten aanzien van weduwen- en wezenpensioenen, waarop krachtens artikel 6, tweede lid, of artikel 6, vierde lid, een toeslag is verleend.   
 
-c. Een vol algemeen ouderdomspensioen wordt geacht betrekking te hebben op het tijdvak, liggende tussen de tijdstippen, waarop de rechthebbende op een eigen pensioen, dan wel degene aan wiens overlijden het recht op pensioen wordt ontleend, de aanvangsleeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt en de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft of zou hebben bereikt. Buiten beschouwing wordt gelaten dat deel van vorenbedoeld tijdvak waarop betrekking heeft of geacht kan worden betrekking te hebben het bedrag van het algemeen ouderdomspensioen waarop aanspraak is verkregen door vrijwillige premiebetaling op grond van de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md).   
+c. Een vol algemeen ouderdomspensioen wordt geacht betrekking te hebben op het tijdvak, liggende tussen de tijdstippen, waarop de rechthebbende op een eigen pensioen, dan wel degene aan wiens overlijden het recht op pensioen wordt ontleend, de aanvangsleeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt en de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft of zou hebben bereikt. Buiten beschouwing wordt gelaten dat deel van vorenbedoeld tijdvak waarop betrekking heeft of geacht kan worden betrekking te hebben het bedrag van het algemeen ouderdomspensioen waarop aanspraak is verkregen door vrijwillige premiebetaling op grond van de Algemene Ouderdomswet.   
 
-d. De uitkering op grond van de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) wordt geacht betrekking te hebben op het tijdvak, liggende tussen de tijdstippen waarop degene, aan wiens overlijden het recht op pensioen wordt ontleend, de aanvangsleeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt en de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft of zou hebben bereikt. Buiten beschouwing wordt gelaten dat deel van vorenbedoeld tijdvak waarover vrijwillige premiebetaling krachtens [hoofdstuk 5 van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) heeft plaatsgevonden.  
+d. De uitkering op grond van de Algemene nabestaandenwet wordt geacht betrekking te hebben op het tijdvak, liggende tussen de tijdstippen waarop degene, aan wiens overlijden het recht op pensioen wordt ontleend, de aanvangsleeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt en de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft of zou hebben bereikt. Buiten beschouwing wordt gelaten dat deel van vorenbedoeld tijdvak waarover vrijwillige premiebetaling krachtens hoofdstuk 5 van de Algemene nabestaandenwet heeft plaatsgevonden.  
 
-e. Als diensttijd wordt uitsluitend in aanmerking genomen de diensttijd gelegen tussen de tijdstippen waarop de rechthebbende op een eigen pensioen, dan wel degene aan wiens overlijden het recht op pensioen wordt ontleend, de aanvangsleeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt en de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft of zou hebben bereikt.   
+e. Als diensttijd wordt uitsluitend in aanmerking genomen de diensttijd gelegen tussen de tijdstippen waarop de rechthebbende op een eigen pensioen, dan wel degene aan wiens overlijden het recht op pensioen wordt ontleend, de aanvangsleeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt en de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft of zou hebben bereikt.   
 
-f. Diensttijd, waarnaar een pensioen geacht wordt te zijn berekend en die niet daadwerkelijk in dienstverhouding is doorgebracht, wordt geacht aan te sluiten bij het einde van de dienstverhouding waaraan het recht op pensioen is ontleend; voor zover dientengevolge deze diensttijd zich uitstrekt na het tijdstip waarop de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), is of zou worden bereikt wordt die diensttijd, te rekenen van dat tijdstip, geacht te zijn doorgebracht, voor zoveel mogelijk gedurende tijdvakken van onderbreking van de daadwerkelijk in dienstverhouding doorgebrachte tijd en voor het overige onmiddellijk voor de aanvang van de diensttijd waarnaar het pensioen is berekend.   
+f. Diensttijd, waarnaar een pensioen geacht wordt te zijn berekend en die niet daadwerkelijk in dienstverhouding is doorgebracht, wordt geacht aan te sluiten bij het einde van de dienstverhouding waaraan het recht op pensioen is ontleend; voor zover dientengevolge deze diensttijd zich uitstrekt na het tijdstip waarop de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, is of zou worden bereikt wordt die diensttijd, te rekenen van dat tijdstip, geacht te zijn doorgebracht, voor zoveel mogelijk gedurende tijdvakken van onderbreking van de daadwerkelijk in dienstverhouding doorgebrachte tijd en voor het overige onmiddellijk voor de aanvang van de diensttijd waarnaar het pensioen is berekend.   
 
-g. De vakantie-uitkeringen, bedoeld in de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), worden geacht op overeenkomstige wijze als het ouderdomspensioen, de uitkering op grond van de Algemene nabestaandenwet in termijnen te worden uitbetaald.    
+g. De vakantie-uitkeringen, bedoeld in de Algemene Ouderdomswet en de Algemene nabestaandenwet, worden geacht op overeenkomstige wijze als het ouderdomspensioen, de uitkering op grond van de Algemene nabestaandenwet in termijnen te worden uitbetaald.    
 
 ### Tweede  hoofdstuk  
 
@@ -89,13 +89,13 @@ a. indien een gehuwde vrouw die niet duurzaam gescheiden leeft van haar echtgeno
 
 b. indien het algemeen ouderdomspensioen is toegekend aan een ongehuwde die een kind heeft jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of pleegkind tot het huishouden van een ander behoort en voor wie op grond van de Kinderbijslagwet kinderbijslag is ontvangen, wordt uitgegaan van een algemeen ouderdomspensioen van een ongehuwde pensioengerechtigde;   
 
-c. de overlijdensuitkering die op grond van de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) is uitbetaald, buiten beschouwing wordt gelaten.     
+c. de overlijdensuitkering die op grond van de Algemene Ouderdomswet is uitbetaald, buiten beschouwing wordt gelaten.     
 3.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan nadere regels stellen met betrekking tot de in de vorige leden bedoelde beperking te hanteren bedragen.  
 
 ### Artikel  12  
 
 1.  Indien het bedrag, dat tot grondslag heeft gestrekt voor de berekening van het eigen pensioen, dan wel, indien het pensioen is afgeleid van een eigen pensioen, het bedrag dat tot grondslag heeft gestrekt voor de berekening van dat eigen pensioen, vermeerderd met een percentage gelijk aan het percentage van de op dat pensioen bij of krachtens deze wet toegekende aanpassingstoeslag, lager is dan 7/66 maal het normbedrag bedoeld in het tweede lid, wordt het met toepassing van artikel 11 berekende bedrag van de beperking vermenigvuldigd met een breuk, waarvan de teller het eerstbedoelde vermeerderde bedrag is en de noemer 7/66 maal het normbedrag. De uitkomst van deze vermenigvuldiging vormt in dat geval het bedrag van de beperking van het pensioen.   
-2.  Het normbedrag is het bedrag, bedoeld in artikel J 12 van de Algemene burgerlijke pensioenwet, zoals die luidde op 31 december 1995, welk bedrag met ingang van 1 januari 1996 bij ministeriële regeling wordt aangepast overeenkomstig de aanpassing van de pensioenen voor overheidswerknemers in de zin van [artikel 2 van de Wet privatisering ABP](../../../../../../wet/wet/privatisering/abp/BWBR0007791/README.md) die werkzaam zijn geweest in de sector Rijk.  
+2.  Het normbedrag is het bedrag, bedoeld in artikel J 12 van de Algemene burgerlijke pensioenwet, zoals die luidde op 31 december 1995, welk bedrag met ingang van 1 januari 1996 bij ministeriële regeling wordt aangepast overeenkomstig de aanpassing van de pensioenen voor overheidswerknemers in de zin van artikel 2 van de Wet privatisering ABP die werkzaam zijn geweest in de sector Rijk.  
 
 ### Artikel  14  
 
@@ -116,7 +116,7 @@ c. de overlijdensuitkering die op grond van de [Algemene Ouderdomswet](../../../
 
 ### Derde  hoofdstuk  
 
-#### Samenloop van weduwe- of wezenpensioen met een uitkering op grond van de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) 
+#### Samenloop van weduwe- of wezenpensioen met een uitkering op grond van de Algemene nabestaandenwet 
 
 ### Artikel  16  
 
@@ -125,7 +125,7 @@ Het wezenpensioen, waarop twee of meer volle wezen aanspraak hebben, wordt, indi
 ### Artikel  17  
 
 1.  Bij gelijktijdige aanspraak op een weduwepensioen, onderscheidenlijk een wezenpensioen en een algemene nabestaandenuitkering, onderscheidenlijk een algemene wezenuitkering wordt, voor zover de tijdvakken, waarop het pensioen en de algemene uitkering geacht worden betrekking te hebben, samenvallen, de betaling van het weduwepensioen, onderscheidenlijk het wezenpensioen iedere maand beperkt naar reden van 2 percent van de algemene nabestaandenuitkering, onderscheidenlijk de algemene wezenuitkering per samenvallend jaar.   
-2.  Indien aanspraak bestaat op een algemene nabestaandenuitkering op grond van [artikel 14, eerste lid, onderdeel a, van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), doch geen van de in evengenoemde bepaling bedoelde kinderen recht heeft op een wezenpensioen, wordt de beperking berekend naar de algemene nabestaandenuitkering die geldt voor degenen op wie [artikel 17, tweede lid, van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) toepassing vindt.   
+2.  Indien aanspraak bestaat op een algemene nabestaandenuitkering op grond van artikel 14, eerste lid, onderdeel a, van de Algemene nabestaandenwet, doch geen van de in evengenoemde bepaling bedoelde kinderen recht heeft op een wezenpensioen, wordt de beperking berekend naar de algemene nabestaandenuitkering die geldt voor degenen op wie artikel 17, tweede lid, van de Algemene nabestaandenwet toepassing vindt.   
 3.   Het bepaalde in artikel 12 is van overeenkomstige toepassing.    
 4.  Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties kan nadere regels stellen met betrekking tot de in de vorige leden bedoelde beperking te hanteren bedragen.  
 
@@ -139,32 +139,32 @@ Op schriftelijk verzoek van de weduwe, die aantoont, dat een rente of uitkering,
 
 ### Artikel  19a  
 
-1.  Indien recht is ontstaan op weduwepensioen of een wezenpensioen na 31 december 2000 heeft de weduwe die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt, onderscheidenlijk de wees, in afwijking van de Wet brutering overhevelingstoeslag lonen, recht op een toeslag ter grootte van 1,9% van dat pensioen, met een maximum van € 791,85 per jaar.   
+1.  Indien recht is ontstaan op weduwepensioen of een wezenpensioen na 31 december 2000 heeft de weduwe die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt, onderscheidenlijk de wees, in afwijking van de Wet brutering overhevelingstoeslag lonen, recht op een toeslag ter grootte van 1,9% van dat pensioen, met een maximum van € 791,85 per jaar.   
 2.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt de toeslag krachtens dit artikel niet onder pensioen of uitkering begrepen.  
 
 ### Artikel  19b  
 
-1.  Indien ter zake van het overlijden van een gepensioneerde recht op een weduwepensioen ontstaat, heeft de weduwe, recht op een toeslag voor de tijd die bij de berekening van het pensioen in aanmerking is genomen indien en voor zolang recht bestaat op een nabestaandenuitkering krachtens de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), die wordt verminderd wegens inkomen uit arbeid of overig inkomen als bedoeld in de Algemene nabestaandenwet.   
-2.  De toeslag, bedoeld in het eerste lid, bedraagt per pensioentellend jaar 2,5% van het verschil tussen 75% van de krachtens de [artikelen 14](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) en 30 van de Algemene nabestaandenwet vastgestelde nabestaandenuitkering en het bedrag van de nabestaandenuitkering, zoals deze na toepassing van de vermindering, bedoeld in [artikel 18 van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) is vastgesteld. De toeslag bedraagt niet meer dan 75% van de krachtens de artikelen 14 en 30 van de Algemene nabestaandenwet vastgestelde nabestaandenuitkering en kan niet negatief zijn. De toeslag wordt telkens nader vastgesteld: 
+1.  Indien ter zake van het overlijden van een gepensioneerde recht op een weduwepensioen ontstaat, heeft de weduwe, recht op een toeslag voor de tijd die bij de berekening van het pensioen in aanmerking is genomen indien en voor zolang recht bestaat op een nabestaandenuitkering krachtens de Algemene nabestaandenwet, die wordt verminderd wegens inkomen uit arbeid of overig inkomen als bedoeld in de Algemene nabestaandenwet.   
+2.  De toeslag, bedoeld in het eerste lid, bedraagt per pensioentellend jaar 2,5% van het verschil tussen 75% van de krachtens de artikelen 14 en 30 van de Algemene nabestaandenwet vastgestelde nabestaandenuitkering en het bedrag van de nabestaandenuitkering, zoals deze na toepassing van de vermindering, bedoeld in artikel 18 van de Algemene nabestaandenwet is vastgesteld. De toeslag bedraagt niet meer dan 75% van de krachtens de artikelen 14 en 30 van de Algemene nabestaandenwet vastgestelde nabestaandenuitkering en kan niet negatief zijn. De toeslag wordt telkens nader vastgesteld: 
 
-a. aan de hand van de ontwikkelingen van de bedragen van de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md);  
+a. aan de hand van de ontwikkelingen van de bedragen van de Algemene nabestaandenwet;  
 
-b. bij iedere nadere vaststelling van de hiervoor bedoelde nabestaandenuitkering krachtens [artikel 18 van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).     
+b. bij iedere nadere vaststelling van de hiervoor bedoelde nabestaandenuitkering krachtens artikel 18 van de Algemene nabestaandenwet.     
 3.  Het recht op toeslag, bedoeld in het eerste lid, gaat in met ingang van de maand waarin wordt voldaan aan de voorwaarden voor dat recht.   
 4.  Het recht op de toeslag, bedoeld in het eerste lid, vervalt: 
 
-a. met ingang van de eerste dag van de maand waarin de weduwe de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt;  
+a. met ingang van de eerste dag van de maand waarin de weduwe de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereikt;  
 
-b. met ingang van de maand volgende op die waarin de weduwe hertrouwt, als partner wordt geregistreerd of aangemerkt, of als ongehuwd samenwonend als bedoeld in de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) wordt aangemerkt.     
+b. met ingang van de maand volgende op die waarin de weduwe hertrouwt, als partner wordt geregistreerd of aangemerkt, of als ongehuwd samenwonend als bedoeld in de Algemene nabestaandenwet wordt aangemerkt.     
 5.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt de toeslag krachtens dit artikel niet onder pensioen of uitkering begrepen.  
 
 ### Artikel  19c  
 
-1.  Indien ter zake van het overlijden van een gepensioneerde recht op een weduwepensioen als bedoeld in deze regeling ontstaat, heeft de weduwe die op 1 januari 1998 de leeftijd van 55 jaar heeft bereikt in afwijking van artikel 19b recht op een toeslag voor de tijd die bij de berekening van het pensioen in aanmerking is genomen. Dit recht bestaat indien en voor zolang recht bestaat op een nabestaandenuitkering krachtens de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), die krachtens [artikel 67, derde of zesde lid, van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) vanaf 1 januari 1998 wordt verminderd wegens de omstandigheid dat de weduwe vanaf een tijdstip voor 1 juli 1996 met dezelfde persoon ononderbroken ongehuwd samenwoont.   
-2.  De toeslag, bedoeld in het eerste lid, bedraagt per pensioentellend jaar 2,5% van het verschil tussen 75 % van de krachtens de [artikelen 14](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) en [30 van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) vastgestelde nabestaandenuitkering en de krachtens [artikel 67, derde of zesde lid, van de Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) verminderde nabestaandenuitkering. De toeslag bedraagt niet meer dan 75% van de krachtens de artikelen 14 en 30 van de Algemene nabestaandenwet vastgestelde nabestaandenuitkering. De toeslag wordt vanaf 1 januari 1998 vastgesteld met inachtneming van de bedragen vanaf die datum en wordt vervolgens telkens nader vastgesteld aan de hand van de ontwikkelingen van de bedragen van de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md).   
+1.  Indien ter zake van het overlijden van een gepensioneerde recht op een weduwepensioen als bedoeld in deze regeling ontstaat, heeft de weduwe die op 1 januari 1998 de leeftijd van 55 jaar heeft bereikt in afwijking van artikel 19b recht op een toeslag voor de tijd die bij de berekening van het pensioen in aanmerking is genomen. Dit recht bestaat indien en voor zolang recht bestaat op een nabestaandenuitkering krachtens de Algemene nabestaandenwet, die krachtens artikel 67, derde of zesde lid, van de Algemene nabestaandenwet vanaf 1 januari 1998 wordt verminderd wegens de omstandigheid dat de weduwe vanaf een tijdstip voor 1 juli 1996 met dezelfde persoon ononderbroken ongehuwd samenwoont.   
+2.  De toeslag, bedoeld in het eerste lid, bedraagt per pensioentellend jaar 2,5% van het verschil tussen 75 % van de krachtens de artikelen 14 en 30 van de Algemene nabestaandenwet vastgestelde nabestaandenuitkering en de krachtens artikel 67, derde of zesde lid, van de Algemene nabestaandenwet verminderde nabestaandenuitkering. De toeslag bedraagt niet meer dan 75% van de krachtens de artikelen 14 en 30 van de Algemene nabestaandenwet vastgestelde nabestaandenuitkering. De toeslag wordt vanaf 1 januari 1998 vastgesteld met inachtneming van de bedragen vanaf die datum en wordt vervolgens telkens nader vastgesteld aan de hand van de ontwikkelingen van de bedragen van de Algemene nabestaandenwet.   
 3.  Het recht op de toeslag, bedoeld in het eerste lid vervalt: 
 
-a. met ingang van de eerste dag van de maand waarin de weduwe de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), bereikt;  
+a. met ingang van de eerste dag van de maand waarin de weduwe de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereikt;  
 
 b. met ingang van de maand volgend op die waarin de weduwe trouwt of als partner wordt geregistreerd of aangemerkt;  
 
@@ -195,7 +195,7 @@ Indien een algemeen ouderdomspensioen, een algemene nabestaandenuitkering of een
 
 ### Artikel  23  
 
-De bepalingen van deze afdeling blijven buiten toepassing ten aanzien van degenen, die op grond van gemoedsbezwaren hun aanspraak op algemeen ouderdomspensioen, of een uitkering op grond van de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) niet geldig maken.  
+De bepalingen van deze afdeling blijven buiten toepassing ten aanzien van degenen, die op grond van gemoedsbezwaren hun aanspraak op algemeen ouderdomspensioen, of een uitkering op grond van de Algemene nabestaandenwet niet geldig maken.  
 
 ### Vijfde  afdeling  
 
@@ -217,11 +217,11 @@ Toeslagen op pensioenen, toegekend bij wijze van voorschot op door het voormalig
 
 ### Artikel  26a  
 
-1.  Indien terzake van het genot van een eigen pensioen, toegekend met toepassing van artikel 8, eerste lid, sub IV of V van het pensioenreglement, een weduwenpensioen of een wezenonderstand premie wordt geheven krachtens de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en de de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md), wordt aan de rechthebbende daarvoor een vergoeding verleend.   
-2.  De in het eerste lid bedoelde vergoeding wordt voor de periode 1 januari 1986 tot 1 januari 1990 vastgesteld op het bedrag van de premie die ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en de Algemene Weduwen- en Wezenwet wordt geheven over de som van het eigen pensioen, weduwenpensioen of wezenonderstand en de vergoeding.   
+1.  Indien terzake van het genot van een eigen pensioen, toegekend met toepassing van artikel 8, eerste lid, sub IV of V van het pensioenreglement, een weduwenpensioen of een wezenonderstand premie wordt geheven krachtens de Algemene Ouderdomswet en de de Algemene nabestaandenwet, wordt aan de rechthebbende daarvoor een vergoeding verleend.   
+2.  De in het eerste lid bedoelde vergoeding wordt voor de periode 1 januari 1986 tot 1 januari 1990 vastgesteld op het bedrag van de premie die ingevolge de Algemene Ouderdomswet en de Algemene Weduwen- en Wezenwet wordt geheven over de som van het eigen pensioen, weduwenpensioen of wezenonderstand en de vergoeding.   
 3.  De in het eerste lid bedoelde vergoeding bedraagt vanaf 1 januari 1990, 13,636% van het bruto pensioen. Bij elke wijziging van het inhoudingspercentage dient het vergoedingspercentage steeds te worden aangepast door middel van vermenigvuldiging met een breuk waarvan de teller het nieuwe inhoudingspercentage is en de noemer 15,55 is.    
-4.  Indien terzake van het genot van een eigen pensioen, niet toegekend met toepassing van artikel 8, eerste lid, sub IV of V van het pensioenreglement, premie wordt geheven krachtens de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en de de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) is het bepaalde in het vorige lid van overeenkomstige toepassing, met dien verstande dat de vergoeding wordt vastgesteld op 69,6% van de bedoelde premie.   
-5.  De vorige leden zijn van overeenkomstige toepassing ten aanzien van personen, aan wie vrijstelling van premie-betaling ingevolge de [Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) of ingevolge de de [Algemene nabestaandenwet](../../../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) is verleend.  
+4.  Indien terzake van het genot van een eigen pensioen, niet toegekend met toepassing van artikel 8, eerste lid, sub IV of V van het pensioenreglement, premie wordt geheven krachtens de Algemene Ouderdomswet en de de Algemene nabestaandenwet is het bepaalde in het vorige lid van overeenkomstige toepassing, met dien verstande dat de vergoeding wordt vastgesteld op 69,6% van de bedoelde premie.   
+5.  De vorige leden zijn van overeenkomstige toepassing ten aanzien van personen, aan wie vrijstelling van premie-betaling ingevolge de Algemene Ouderdomswet of ingevolge de de Algemene nabestaandenwet is verleend.  
 
 ### Artikel  27  
 
@@ -229,7 +229,7 @@ Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties is bevoegd in bijzon
 
 ### Artikel  27a  
 
-1. Indien degene die recht heeft op een pensioen, ingevolge het bepaalde bij of krachtens de [artikelen 6](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en [13 van de Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) een bijdrage verschuldigd is in de kosten van zorg, is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bevoegd het pensioen en de daarop verleende toeslagen tot ten hoogste het bedrag van die bijdrage in de plaats van aan de rechthebbende zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in [artikel 58, eerste lid, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md).  
+1. Indien degene die recht heeft op een pensioen, ingevolge het bepaalde bij of krachtens de artikelen 6 en 13 van de Algemene Wet Bijzondere Ziektekosten een bijdrage verschuldigd is in de kosten van zorg, is Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties bevoegd het pensioen en de daarop verleende toeslagen tot ten hoogste het bedrag van die bijdrage in de plaats van aan de rechthebbende zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.  
 2.   Artikel 10 van de wet van 25 mei 1962 (*Stb.* 196) is niet van toepassing op een ingevolge het vorige lid genomen beslissing.   
 
 ### Artikel  28  
