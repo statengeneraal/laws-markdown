@@ -5,12 +5,16 @@
 De Minister van Verkeer en Waterstaat,  
 Handelende in overeenstemming met de Staatssecretaris van Defensie;
 
-Gelet op [artikel 41, derde lid, van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);
+Gelet op artikel 41, derde lid, van het Luchtverkeersreglement;
 Besluit:    
 
 ### Artikel  1  
 
-Een onderschepping van een burgerluchtvaartuig door een militair luchtvaartuig of een luchtvaartuig dat wordt gebruikt voor politie- of douanediensten wordt uitgevoerd volgens het handboek voor het onderscheppen van burgerluchtvaartuigen van ICAO, doc 9433-AN/926, dat als bijlage is opgenomen bij deze regeling, tenzij anders wordt beslist op grond van de [Regeling bijstand bestrijding luchtvaartterrorisme](../../../../../ministeriele-regeling/regeling/bijstand/bestrijding/luchtvaartterrorisme/BWBR0018217/README.md). 
+Een onderschepping van een burgerluchtvaartuig door een militair luchtvaartuig of een luchtvaartuig dat wordt gebruikt voor politie- of douanediensten wordt uitgevoerd volgens het handboek voor het onderscheppen van burgerluchtvaartuigen van ICAO, doc 9433-AN/926, dat als bijlage is opgenomen bij deze regeling, tenzij anders wordt beslist op grond van de Regeling bijstand bestrijding luchtvaartterrorisme. 
+
+### Artikel  1a  
+
+Deze regeling berust op artikel 25 van het Besluit luchtverkeer 2014. 
 
 ### Artikel  2  
 

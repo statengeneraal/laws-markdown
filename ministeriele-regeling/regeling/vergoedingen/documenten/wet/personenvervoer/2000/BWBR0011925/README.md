@@ -63,7 +63,8 @@ Voor het behandelen van een aanvraag om verlening van een vergunningbewijs als b
 
 ### Artikel  7  
 
-Voor het behandelen van een aanvraag om verlening van een chauffeurskaart, een keuringskaart en een ondernemerskaart als bedoeld in artikel 1, onderdelen i, j en k van het Besluit personenvervoer 2000 alsmede voor het behandelen van een aanvraag om verlening van een vervangende kaart als bedoeld in artikel 83, vierde lid, van dat besluit, is een vergoeding verschuldigd van € 109,–. 
+1. Voor het behandelen van een aanvraag om verlening van een chauffeurskaart, een keuringskaart en een ondernemerskaart als bedoeld in artikel 1, onderdelen i, j en k van het Besluit personenvervoer 2000 alsmede voor het behandelen van een aanvraag om verlening van een vervangende kaart als bedoeld in artikel 83, vierde lid, van dat besluit, is een vergoeding verschuldigd van € 109,–. 
+2. Voor het behandelen van een aanvraag om verlening van een chauffeurskaart in combinatie met een lwt-kaart als bedoeld in de Regeling gebruik boordcomputer en boordcomputerkaarten is een vergoeding verschuldigd van € 156,–.
 
 ### Artikel  8  
 

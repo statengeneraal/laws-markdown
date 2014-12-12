@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juni 2013, nr. 2013-0000329551, houdende regels voor de subsidiëring van de Oorlogsgravenstichting (Subsidieregeling Oorlogsgravenstichting 2013)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op de [artikelen 3, eerste lid](../../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md), en [4, eerste lid, onderdeel f, van de Kaderwet overige BZK-subsidies](../../../../../wet/wet/overige/bzk-subsidies/BWBR0019756/README.md) en de [artikelen 11, tweede lid](../../../../../AMvB/kaderbesluit/bzk-subsidies/BWBR0033530/README.md), [18, eerste lid](../../../../../AMvB/kaderbesluit/bzk-subsidies/BWBR0033530/README.md), en [22, vierde lid, van het Kaderbesluit BZK-subsidies](../../../../../AMvB/kaderbesluit/bzk-subsidies/BWBR0033530/README.md);
+Gelet op de artikelen 3, eerste lid, en 4, eerste lid, onderdeel f, van de Kaderwet overige BZK-subsidies en de artikelen 11, tweede lid, 18, eerste lid, en 22, vierde lid, van het Kaderbesluit BZK-subsidies;
 Besluit:     
 ### §  1  
 
@@ -73,7 +73,7 @@ De stichting dient de aanvraag tot subsidievaststelling in uiterlijk op 1 juli 
 
 ### Artikel  7  
 
-Een subsidie die is verleend krachtens de [Regeling Subsidiëring Oorlogsgravenstichting 2011](../../../../../ministeriele-regeling/regeling/subsidiëring/oorlogsgravenstichting/2011/BWBR0027295/README.md) wordt aangemerkt als een subsidie, verleend krachtens deze regeling. 
+Een subsidie die is verleend krachtens de Regeling Subsidiëring Oorlogsgravenstichting 2011 wordt aangemerkt als een subsidie, verleend krachtens deze regeling. 
 
 ### Artikel  8  
 

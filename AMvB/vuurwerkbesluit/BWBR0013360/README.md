@@ -810,7 +810,7 @@ Het is verboden consumentenvuurwerk te verkopen of anderszins ter beschikking te
 
 ### Artikel  2.3.6  
 
-Het is verboden vuurwerk, anders dan bedrijfsmatig, tot ontbranding te brengen op een ander tijdstip dan tussen 31 december 10.00 uur en 1 januari 02.00 uur van het daarop volgende jaar. 
+Het is verboden vuurwerk, anders dan bedrijfsmatig, tot ontbranding te brengen op een ander tijdstip dan tussen 31 december 18.00 uur en 1 januari 02.00 uur van het daarop volgende jaar. 
 
 ### Artikel  2.3.7  
 

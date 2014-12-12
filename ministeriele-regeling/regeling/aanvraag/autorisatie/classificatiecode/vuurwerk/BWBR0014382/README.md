@@ -3,7 +3,7 @@
 ##Regeling aanvraag autorisatie classificatiecode vuurwerk
 
 De Minister van Verkeer en Waterstaat,  
-Gelet op [artikel 49, tweede lid van de Wet vervoer gevaarlijke stoffen](../../../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) en de [artikelen 2](../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md) en [5 van het Besluit vervoer gevaarlijke stoffen](../../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md);
+Gelet op artikel 49, tweede lid van de Wet vervoer gevaarlijke stoffen en de artikelen 2 en 5 van het Besluit vervoer gevaarlijke stoffen;
 Besluit:    
 
 ### Artikel  1  

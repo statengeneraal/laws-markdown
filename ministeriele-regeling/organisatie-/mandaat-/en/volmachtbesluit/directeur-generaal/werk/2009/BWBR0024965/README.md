@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 10 december 2008 met kenmerk DGAVIB/SB/2008/35680, houdende toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan onder de directeur-generaal Werk ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directeur-generaal Werk 2009) 
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 8, derde lid, aanhef en onderdeel a](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md), en [23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/szw/2009/BWBR0024956/README.md);
+Gelet op de artikelen 8, derde lid, aanhef en onderdeel a, en 23, eerste lid, van het Organisatie-, mandaat- en volmachtbesluit SZW 2009;
 Besluit:     
 ### §  1  
 
@@ -71,11 +71,11 @@ j. het, na toestemming van het CMD, aanwijzen van een plaatsvervangend directeur
 
 k. het zorgdragen voor de vastlegging van de organisatie van de eigen directie en de daarbinnen geldende mandaten, volmachten en machtigingen in een Organisatie-, mandaat- en volmachtbesluit voor de eigen directie;  
 
-l. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor zover deze betrekking hebben op gedragingen van de onder hen ressorterende functionarissen;  
+l. de behandeling van klachten als bedoeld in artikel 9:1 van de Algemene wet bestuursrecht voor zover deze betrekking hebben op gedragingen van de onder hen ressorterende functionarissen;  
 
 m. het dynamisch archiefbeheer van zijn directie, te weten postbehandeling, registratie, voortgang- en afdoeningsbewaking, dossierbeheer, informatievoorziening, selectie, vernietiging en overdracht aan de directie Bedrijfsvoering, alsmede het opstellen, vaststellen en onderhouden van het ordeningsplan van de directie;  
 
-n. het materieel beheer overeenkomstig de [Regeling materieelbeheer rijksoverheid 2006](../../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/rijksoverheid/2006/BWBR0019767/README.md) en de [Regeling materieelbeheer museale voorwerpen](../../../../../../../../../ministeriele-regeling/regeling/materieelbeheer/museale/voorwerpen/BWBR0020583/README.md).     
+n. het materieel beheer overeenkomstig de Regeling materieelbeheer rijksoverheid 2006 en de Regeling materieelbeheer museale voorwerpen.     
 2.  Het eerste lid, onderdelen h tot en met k, is niet van toepassing op directeuren die leiding geven aan een directie met een omvang van maximaal 12 fulltime-equivalenten.  
 
 ### Artikel  4  
@@ -160,11 +160,11 @@ a. de registratie van aangemelde collectieve arbeidsovereenkomsten;
 
 b. het afhandelen van verzoeken om bepalingen van collectieve arbeidsovereenkomsten algemeen verbindend te verklaren;  
 
-c. het afhandelen van aanvragen en verzoeken in het kader van de [Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000](../../../../../../../../../wet/wet/verplichte/deelneming/in/een/bedrijfstakpensioenfonds/2000/BWBR0012092/README.md) en de [Wet verplichte beroepspensioenregeling](../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);  
+c. het afhandelen van aanvragen en verzoeken in het kader van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000 en de Wet verplichte beroepspensioenregeling;  
 
-d. het afhandelen van aanvragen tot toepassing van de ontheffing bedoeld in [artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md);  
+d. het afhandelen van aanvragen tot toepassing van de ontheffing bedoeld in artikel 8, derde lid, van het Buitengewoon Besluit Arbeidsverhoudingen 1945;  
 
-e. het innemen van meldingen als bedoeld in de [Wet melding collectief ontslag](../../../../../../../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md), alsmede de afhandeling van verzoeken om toepassing van [artikel 6, derde lid, van die wet](../../../../../../../../../wet/wet/melding/collectief/ontslag/BWBR0003026/README.md);  
+e. het innemen van meldingen als bedoeld in de Wet melding collectief ontslag, alsmede de afhandeling van verzoeken om toepassing van artikel 6, derde lid, van die wet;  
 
 f. het verzorgen van beleidsinformatie met betrekking tot de aan de directie opgedragen taken.   
 
@@ -184,7 +184,7 @@ f. het verzorgen van beleidsinformatie met betrekking tot de aan de directie opg
 
 a. de in artikel 3, eerste lid, onderdeel e, genoemde personeelsaangelegenheden;  
 
-b. de behandeling van klachten als bedoeld in [artikel 9:1 van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.     
+b. de behandeling van klachten als bedoeld in artikel 9:1 van de Algemene wet bestuursrecht, voor zover deze klachten betrekking hebben op gedragingen van de onder elk van hen ressorterende functionarissen.     
 3.  De in het eerste lid genoemde bevoegdheid omvat de bevoegdheid tot het verlenen en vaststellen van subsidies en rijksvergoedingen, het aangaan van verbetertrajecten en het korten op bevoorschotting, voor zover het de uitvoering betreft van regelingen op zijn werkterrein.   
 4.  De in het eerste lid genoemde bevoegdheid omvat voorts de bevoegdheid tot het nemen van dwangsombesluiten die verband houden met het niet tijdig afdoen van een besluit, voor zover dit betrekking heeft op hun eigen verantwoordelijkheden.  
 5.  De in het eerste lid genoemde bevoegdheid om overeenkomsten aan te gaan is beperkt tot overeenkomsten met een waarde per overeenkomst onder de laagste drempel voor aanbesteding conform de Europese aanbestedingsrichtlijnen, met dien verstande dat de volgende overeenkomsten mogen worden aangegaan tot een waarde van € 500.000,– per overeenkomst: 
@@ -202,6 +202,10 @@ e. overeenkomsten met betrekking tot raden en commissies;
 f. overeenkomsten met betrekking tot onderzoek;  
 
 g. overeenkomsten met betrekking tot incidentele beleidsinformatie, met uitzondering van overeenkomsten met het Centraal bureau voor de statistiek.    
+
+### Artikel  10a  
+
+In afwijking van artikel 10, derde lid, wordt aan de directeur van de directie Inkomensverzekeringen en -voorzieningen mandaat verleend tot het verlenen van subsidies en rijksvergoedingen ter zake van wetten en regelingen waarvan de uitvoering is opgedragen aan de Sociale Verzekeringsbank en het Uitvoeringsinstituut Werknemersverzekeringen, voor zover het wetten en regelingen betreft op het werkterrein van de directie Kinderopvang. 
 
 ### §  5  
 

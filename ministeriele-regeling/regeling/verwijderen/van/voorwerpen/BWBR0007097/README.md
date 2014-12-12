@@ -5,7 +5,7 @@
 De Minister van Verkeer en Waterstaat,  
 Handelende in overeenstemming met de Staatssecretaris van Defensie;
 
-Gelet op [artikel 13, tweede lid onder d, van het Luchtverkeersreglement](../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);
+Gelet op artikel 13, tweede lid onder d, van het Luchtverkeersreglement;
 Besluit:    
 
 ### Artikel  1  
@@ -31,6 +31,10 @@ h. strooibiljetten worden zodanig verwijderd dat deze niet in pakken of bundels 
 i. ieder voorwerp is van een niet-elektriciteit-geleidend materiaal of geïsoleerd; 
 
 j. voorwerpen worden door een ander dan de bestuurder van het luchtvaartuig verwijderd en wel zodanig dat de voorwerpen daarbij het luchtvaartuig niet raken.  
+
+### Artikel  1a  
+
+Deze regeling berust op artikel 10, tweede lid, van het Besluit luchtverkeer 2014. 
 
 ### Artikel  2  
 

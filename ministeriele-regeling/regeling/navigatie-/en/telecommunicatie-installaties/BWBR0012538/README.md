@@ -5,14 +5,18 @@
 De Minister van Verkeer en Waterstaat,  
 Handelende in overeenstemming met de Staatssecretaris van Defensie;
 
-Gelet op de [artikelen 40](../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), [44a, eerste lid](../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), en [49, eerste lid, van het Luchtverkeersreglement](../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);
+Gelet op de artikelen 40, 44a, eerste lid, en 49, eerste lid, van het Luchtverkeersreglement;
 Besluit:      
 
 ####Begripsbepalingen
 
 ### Artikel 1  
 
-In deze regeling wordt verstaan onder:   *ADF:*   een automatische richtingzoeker aan boord van een luchtvaartuig om de richting naar een NDB te bepalen (automatic direction finder);    *Commercieel luchtvervoer:*   vluchtuitvoering met een luchtvaartuig waarbij tegen betaling passagiers, vracht of post wordt vervoerd;   *DME:*   een installatie die aan boord van een luchtvaartuig de directe afstand bepaalt tussen een luchtvaartuig en een grondbaken (distance measuring equipment);     ELT:   noodradiobaken met een zendfrequentie van 406 MHz. (emergency locator transmitter);   ELT(S):een ELT die van een luchtvaartuig verwijderbaar is, zodanig opgeborgen dat deze in geval van nood direct te gebruiken is, en handmatig geactiveerd kan worden door overlevenden (Emergency Locator Transmitter/Survival);GAT:vluchten die worden uitgevoerd overeenkomstig de ICAO-regelgeving en -procedures (General Air Traffic);General aviation:vluchtuitvoering met een luchtvaartuig, anders dan commercieel luchtvervoer of luchtwerk;GNSS:wereldwijd positie- en tijdbepalingsysteem bestaande uit één of meer satellietconstellaties, vliegtuigontvangers en controlemiddelen op systeemintegriteit, waar nodig uitgebreid om de vereiste navigatieperformance te ondersteunen voor de voorgenomen operatie (Global Navigation Satellite System); *Minister:*   Minister van Verkeer en Waterstaat;  Mode S/EHS:een Mode S/ELS SSR-transponder waarbij aanvullend vliegtuigkenmerken via een gegevensverbinding naar luchtverkeersleidingssystemen en grondsystemen worden verstuurd (Enhanced Surveillance);Mode S/ELS:een SSR-transponder waarbij aan ieder luchtvaartuig een uniek ICAO 24-bits adres wordt toegekend dat gebruikt wordt voor selectieve ondervraging waarbij onder andere de vluchtidentificatie via een gegevensverbinding naar luchtverkeersleidingssystemen en grondsystemen wordt verstuurd (Elementary Surveillance); *NDB:*   een rondomstralend radiobaken op de grond met een vaste antenne (non directional beacon);   NSA Amsterdam:bijzonder luchtverkeersgebied zoals opgenomen in [bijlage A bij de Regeling luchtverkeersdienstverlening](../../../../../../ministeriele-regeling/regeling/luchtverkeersdienstverlening/BWBR0009899/README.md), onder verwijzing naar de luchtvaartgids, volume I, hoofdstuk ENR 6 (North Sea Area Amsterdam); *radiaal:*   de richting vanuit een VOR-grondbaken ten opzichte van het magnetisch noorden ter plaatse van het grondbaken;    *RNAV:*   een navigatiesysteem in het Europese luchtruim dat luchtvaartuigen in staat stelt een route te volgen tussen twee willekeurige punten, binnen voorgeschreven nauwkeurigheidsgrenzen, zonder dat het nodig is om over specifieke navigatie-installaties op de grond te vliegen (Area Navigation);    *RVSM luchtruim:*   het luchtruim vanaf FL290 tot en met FL410 waarin een reductie van de verticale separatie van 2000 naar 1000 voet tussen vliegtuigen wordt toegepast (reduced vertical separation minimum);    *SSR-transponder:*   een radarbeantwoordingssysteem met informatie over de identiteit en eventueel de hoogte van het luchtvaartuig (secondary surveillance radar-transponder);    *VOR:*   een op de grond geplaatst zendsysteem dat het mogelijk maakt om een vanuit het vliegtuig geselecteerde radiaal te onderscheppen of te volgen door middel van fasevergelijking (very high frequency omnidirectional range);    *Verdrag inzake de internationale burgerluchtvaart:*   het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart, Stb. 1947, H 165, laatstelijk Trb. 1978,124.     
+In deze regeling wordt verstaan onder:   *ADF:*   een automatische richtingzoeker aan boord van een luchtvaartuig om de richting naar een NDB te bepalen (automatic direction finder);   *ASR:*hoogtemeter-instellingsgebied (Altimeter Setting Region); *Commercieel luchtvervoer:*   vluchtuitvoering met een luchtvaartuig waarbij tegen betaling passagiers, vracht of post wordt vervoerd;   *DME:*   een installatie die aan boord van een luchtvaartuig de directe afstand bepaalt tussen een luchtvaartuig en een grondbaken (distance measuring equipment);     ELT:   noodradiobaken met een zendfrequentie van 406 MHz. (emergency locator transmitter);   ELT(S):een ELT die van een luchtvaartuig verwijderbaar is, zodanig opgeborgen dat deze in geval van nood direct te gebruiken is, en handmatig geactiveerd kan worden door overlevenden (Emergency Locator Transmitter/Survival);ft:voet, de lengte gelijk aan 0,3048 m (feet);GAT:vluchten die worden uitgevoerd overeenkomstig de ICAO-regelgeving en -procedures (General Air Traffic);General aviation:vluchtuitvoering met een luchtvaartuig, anders dan commercieel luchtvervoer of luchtwerk;GNSS:wereldwijd positie- en tijdbepalingsysteem bestaande uit één of meer satellietconstellaties, vliegtuigontvangers en controlemiddelen op systeemintegriteit, waar nodig uitgebreid om de vereiste navigatieperformance te ondersteunen voor de voorgenomen operatie (Global Navigation Satellite System);grondkoers:projectie op het aardoppervlak van de vliegbaan van een luchtvaartuig waarvan de richting op enig punt wordt uitgedrukt in graden ten opzichte van het ware (T), het magnetische (M) of het kaartnet-noorden (G);hoogte:verticale afstand tussen een vlak, een punt of een als punt te beschouwen voorwerp en een referentievlak, referentiepunt of als referentiepunt te beschouwen voorwerp; *Minister:*   Minister van Infrastructuur en Milieu;  Mode S/EHS:een Mode S/ELS SSR-transponder waarbij aanvullend vliegtuigkenmerken via een gegevensverbinding naar luchtverkeersleidingssystemen en grondsystemen worden verstuurd (Enhanced Surveillance);Mode S/ELS:een SSR-transponder waarbij aan ieder luchtvaartuig een uniek ICAO 24-bits adres wordt toegekend dat gebruikt wordt voor selectieve ondervraging waarbij onder andere de vluchtidentificatie via een gegevensverbinding naar luchtverkeersleidingssystemen en grondsystemen wordt verstuurd (Elementary Surveillance); *NDB:*   een rondomstralend radiobaken op de grond met een vaste antenne (non directional beacon);   NSA Amsterdam:luchtverkeersgebied zoals opgenomen in bijlage A bij de Regeling luchtverkeersdienstverlening, onder verwijzing naar de luchtvaartgids, volume I, hoofdstuk ENR 6 (North Sea Area Amsterdam);overgangshoogte:hoogte boven gemiddeld zeeniveau waarop en waar beneden de vlieghoogte wordt uitgedrukt in hoogte boven gemiddeld zeeniveau;overgangsniveau:laagst beschikbare vliegniveau boven de overgangshoogte;QFE:atmosferische druk op het aardoppervlak;QNH:QFE herleid tot gemiddeld zeeniveau in de ICAO-standaardatmosfeer; *radiaal:*   de richting vanuit een VOR-grondbaken ten opzichte van het magnetisch noorden ter plaatse van het grondbaken;    *RNAV:*   een navigatiesysteem in het Europese luchtruim dat luchtvaartuigen in staat stelt een route te volgen tussen twee willekeurige punten, binnen voorgeschreven nauwkeurigheidsgrenzen, zonder dat het nodig is om over specifieke navigatie-installaties op de grond te vliegen (Area Navigation);    *RVSM luchtruim:*   het luchtruim vanaf FL290 tot en met FL410 waarin een reductie van de verticale separatie van 2000 naar 1000 voet tussen vliegtuigen wordt toegepast (reduced vertical separation minimum);    *SSR-transponder:*   een radarbeantwoordingssysteem met informatie over de identiteit en eventueel de hoogte van het luchtvaartuig (secondary surveillance radar-transponder);    *VOR:*   een op de grond geplaatst zendsysteem dat het mogelijk maakt om een vanuit het vliegtuig geselecteerde radiaal te onderscheppen of te volgen door middel van fasevergelijking (very high frequency omnidirectional range).    
+
+### Artikel  1a  
+
+Deze regeling berust op de artikelen 6, 15, 23, eerste lid, en 24 van het Besluit luchtverkeer 2014. 
 
 ####Communicatie- en navigatieapparatuur
 
@@ -47,6 +51,15 @@ e.een SSR transponder met Mode S/EHS, die voldoet aan de eisen, bedoeld in bijla
 1. Voor het uitvoeren van een VFR-vlucht in de NSA Amsterdam is een luchtvaartuig uitgerust met een VHF-zend/ontvanginstallatie met kanaalafstand van 25kHz, geschikt voor omgevingen waar offset-carrier technieken worden toegepast, waarmee een voortdurende tweezijdige radioverbinding kan worden onderhouden met de betrokken luchtverkeersdiensten op de daartoe bestemde frequenties zoals gepubliceerd in de luchtvaartgids.
 2. Het eerste lid is niet van toepassing op staatsluchtvaartuigen indien deze beschikken over een UHF-zend/ontvangstinstallatie. 
 
+### Artikel  3b  
+
+1.  De radiotelefonische berichtenwisseling tussen de Nederlandse luchtverkeersdiensten en luchtvaartuigen wordt gevoerd in de Engelse taal.   
+2.  Met betrekking tot burgerluchtvaartuigen zijn op de in het eerste lid genoemde berichtenwisseling bovendien van toepassing: 
+
+a. de normen, aanbevelingen en procedures van Bijlage 10 bij het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart, (Trb. 1973, 109). 'Aeronautical Telecommunications', deel II, hoofdstuk V 'Aeronautical Mobile Service';  
+
+b. gebruikmaking, voor zover van toepassing, van het standaardradiotelefonie 'woordgebruik' vermeld in ICAO-Document 4444 (Procedures for Air Navigation Services – Air Traffic Management), hoofdstuk 12.    
+
 ### Artikel 4  
 
 Voor het uitvoeren van een IFR-vlucht, een gecontroleerde VFR-vlucht in het vluchtinformatiegebied Amsterdam of een VFR-vlucht in de NSA Amsterdam is een luchtvaartuig uitgerust met telecommunicatie-installaties die ten minste voldoen aan de eisen, gesteld in bijlage 10 van het Verdrag inzake de internationale burgerluchtvaart.  
@@ -66,11 +79,11 @@ Voor het uitvoeren van een IFR-vlucht in het RVSM-luchtruim in het vluchtinforma
 ### Artikel 7  
 
 1.  Voor het uitvoeren van een VFR-vlucht in het vluchtinformatiegebied Amsterdam, behalve in gebieden met de classificatie G beneden 1200 voet AMSL buiten de NSA Amsterdam, is een luchtvaartuig uitgerust met een SSR-transponder met mode S/ELS, die voldoet aan de eisen bedoeld in bijlage 10, Boek IV (Surveillance Radar and Collision Avoidance Systems) van het Verdrag inzake de internationale burgerluchtvaart.  
-2.  Het eerste lid is niet van toepassing op een zweefvliegtuig, zeilvliegtuig, schermvliegtuig of ballon tenzij een zweefvliegtuig, zeilvliegtuig, schermvliegtuig of ballon zich bevindt in de door de Minister in overeenstemming met de Minister van Defensie voor transpondergebruik aangewezen bijzondere luchtverkeersgebieden als bedoeld in de [Regeling luchtverkeersdienstverlening](../../../../../../ministeriele-regeling/regeling/luchtverkeersdienstverlening/BWBR0009899/README.md).  
+2.  Het eerste lid is niet van toepassing op een zweefvliegtuig, zeilvliegtuig, schermvliegtuig of ballon tenzij een zweefvliegtuig, zeilvliegtuig, schermvliegtuig of ballon zich bevindt in de door de Minister in overeenstemming met de Minister van Defensie voor transpondergebruik aangewezen bijzondere luchtverkeersgebieden als bedoeld in de Regeling luchtverkeersdienstverlening.  
 
 ###Artikel 7a 
 
-1. Onverminderd de in het betrokken luchtruim geldende regels, is het voeren van een Mode S SSR-transponder verplicht voor alle luchtvaartuigen die gebruik maken van een Transponder Mandatory Zone als opgenomen in [bijlage G1 bij de Regeling luchtverkeersdienstverlening](../../../../../../ministeriele-regeling/regeling/luchtverkeersdienstverlening/BWBR0009899/README.md).
+1. Onverminderd de in het betrokken luchtruim geldende regels, is het voeren van een Mode S SSR-transponder verplicht voor alle luchtvaartuigen die gebruik maken van een Transponder Mandatory Zone als opgenomen in bijlage G1 bij de Regeling luchtverkeersdienstverlening.
 2. Het eerste lid is binnen onderstaande gebieden van maandag tot en met vrijdag en op nationale feestdagen tussen 09.00–17.00 uur plaatselijke tijd niet van toepassing op schermzweeftoestellen en zeilvliegtuigen:
 
 | --- | --- |
@@ -101,7 +114,7 @@ b.  behalve in geval van nood, bij verlies van tweezijdige radioverbinding of in
 
 3° bij afwezigheid van aanwijzingen van de betrokken verlener van luchtverkeersdiensten en regionale burgerluchtvaartovereenkomst mode A code 2000 ingesteld, tenzij door de betreffende verlener van luchtverkeersdiensten een andere opdracht is verstrekt.    
 
-c.  indien de verlener van luchtverkeersdiensten vraagt de mogelijkheden van de aan boord aanwezige SSR-transponder te specificeren, geeft de gezagvoerder van het luchtvaartuig dit aan door de letters te gebruiken die voor dat doel zijn omschreven bij punt 10 van het vliegplanformulier bedoeld in [artikel 3, eerste lid, van de Regeling vliegplannen](../../../../../../ministeriele-regeling/regeling/vliegplannen/BWBR0009900/README.md);  
+c.  indien de verlener van luchtverkeersdiensten vraagt de mogelijkheden van de aan boord aanwezige SSR-transponder te specificeren, geeft de gezagvoerder van het luchtvaartuig dit aan door de letters te gebruiken die voor dat doel zijn omschreven bij punt 10 van het vliegplanformulier bedoeld in artikel 3, eerste lid, van de Regeling vliegplannen;  
 
 d.  indien de verlener van luchtverkeersdiensten middels de term `confirm squawk' vraagt om de geselecteerde code te bevestigen, verifieert de gezagvoerder de code op de SSR-transponder, stelt zo nodig de toegewezen code opnieuw in, en bevestigt de verlener van luchtverkeersdiensten de geselecteerde code zoals weergegeven op de SSR-transponder;  
 
@@ -169,20 +182,78 @@ c. mode A code 7000 wordt ingesteld.
 
 ### Artikel 13  
 
-1.  De Minister kent aan elk luchtvaartuig op aanvraag een 24-bit luchtvaartuigadres toe dat geregistreerd wordt in een gegevensbestand, aangehouden door de Inspectie Verkeer en Waterstaat.   
+1.  De Minister kent aan elk luchtvaartuig op aanvraag een 24-bit luchtvaartuigadres toe dat geregistreerd wordt in een gegevensbestand, aangehouden door de Inspectie Leefomgeving en Transport.   
 2.   Het digitale signaal van de ELT bevat, behoudens in uitzonderlijke gevallen, het 24-bit luchtvaartuigadres van het bijbehorende luchtvaartuig, ten behoeve van de identificatie.   
 3.  Gebruikers van luchtvaartuigen die ELT’s vervangen, plaatsen ELT’s die zijn gecodeerd met het 24-bit luchtvaartuigadres volgens het ‘serialized user protocol’ of het ‘standard location protocol’.   
 4.  De toekenning van het 24-bit luchtvaartuigadres, bedoeld in het eerste lid, geschiedt door tussenkomst van de inspecteur-generaal van de Inspectie Verkeer en Waterstaat. Bij de aanvraag wordt het registratiekenmerk, het type en het serienummer van het luchtvaartuig vermeld.  
 5. De codering volgens het ‘serialized user protocol’ of het ‘standard location protocol’ resulteert in een 15-digit hexadecimale code. 
 6. De 15-digit hexadecimale codes, alsmede de wijzigingen daarin en de bijbehorende gegevens van het vliegtuig, de gegevens van de contactpersonen, worden door de directeur-hoofdinspecteur van het Agentschap Telecom van het Ministerie van Economische Zaken opgenomen in het gegevensbestand van de opsporings- en reddingsdienst in Nederland. Uitsluitend ELT’s die zijn geprogrammeerd op de in dit artikel bedoelde wijze worden in het gegevensbestand van de opsporings-en reddingsdienst in Nederland opgenomen, alsmede afwijkend geprogrammeerde ELT’s na verkregen toestemming van de Minister van Verkeer en Waterstaat.  
 7.  Voor luchtvaartuigen die een 24-bit luchtvaartuigadres voor andere doeleinden in gebruik hebben, wordt dit adres gebruikt voor de bij het luchtvaartuig behorende ELT’s.  
-8.  Details ten behoeve van de registratie worden middels een AIC als bedoeld in [artikel 1 van de Regeling Burgerluchtvaartinlichtingen](../../../../../../ministeriele-regeling/regeling/burgerluchtvaartinlichtingen/BWBR0010154/README.md) of middels de website van de Inspectie Verkeer en Waterstaat bekend gesteld. 
+8.  Details ten behoeve van de registratie worden middels een AIC als bedoeld in artikel 1 van de Regeling Burgerluchtvaartinlichtingen of middels de website van de Inspectie Verkeer en Waterstaat bekend gesteld. 
+
+####Gebruik hoogtemeter
+
+### Artikel  13a  
+
+1.  De overgangshoogte in het vluchtinformatiegebied Amsterdam is voor IFR-vluchten 915 m (3000 ft) en voor VFR-vluchten 1070 m (3500 ft).   
+2.  Het overgangsniveau in het vluchtinformatiegebied Amsterdam is gelegen op of boven 1220 m (4000 ft) boven gemiddeld zeeniveau.  
+
+### Artikel  13b  
+
+Het KNMI stelt elk uur het overgangsniveau, bedoeld in artikel 13a, tweede lid, vast en meldt dit zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten. 
+
+### Artikel  13c  
+
+1.  In het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimten boven het Nederlandse deel van het continentaal plat zijn de volgende ASR’s ingesteld: 
+
+a. ASR Amsterdam;  
+
+b. ASR Maastricht;  
+
+c. ASR North Sea South;  
+
+d. ASR North Sea North.     
+2.  De gebieden, bedoeld in het eerste lid worden lateraal begrensd als aangegeven in de luchtvaartgids, ENR 6-1.1.   
+3.  Het KNMI stelt ten minste elk uur de regionale QNH van de onderstaande gebieden vast en meldt deze zo snel mogelijk aan de desbetreffende verlener van luchtverkeersdiensten: 
+
+a. luchthaven Schiphol;  
+
+b. luchthaven Maastricht Aachen;  
+
+c. lichteiland Goeree;  
+
+d. platform F16-A.    
+
+### Artikel  13d  
+
+1.  Vóór het opstijgen wordt ten minste één drukhoogtemeter ingesteld op de QNH van de luchthaven.   
+2.  Tijdens de stijgvlucht wordt bij het passeren van de overgangshoogte ten minste één drukhoogtemeter ingesteld op de drukwaarde van 1013.2 hPa.  
+
+### Artikel  13e  
+
+Tijdens een vlucht op een kruishoogte op of beneden de overgangshoogte wordt ten minste één drukhoogtemeter ingesteld op de regionale QNH. 
+
+### Artikel  13f  
+
+1.  Tijdens de daalvlucht wordt bij het passeren van het overgangsniveau ten minste één drukhoogtemeter ingesteld op de QNH van de luchthaven.   
+2.  De in het eerste lid bedoelde instelling op de QNH kan reeds vóór het passeren van het overgangsniveau plaatsvinden, indien de betrokken luchtverkeersleidingsdienst – na het verstrekken van de naderingsklaring – toestaat om de vlieghoogte uit te drukken in hoogte boven gemiddeld zeeniveau, nadat de einddaling is ingezet en wordt voorzien dat boven de overgangshoogte geen horizontale vlucht meer zal plaatsvinden.  
+
+### Artikel  13g  
+
+1.  Een horizontaal deel van een VFR-vlucht boven 1070 m (3500 ft) boven de grond of het water wordt uitgevoerd op een vliegniveau als aangegeven in Appendix 3 bij verordening (EU) nr. 923/2012.   
+2.  Een horizontaal deel van een gecontroleerde vlucht binnen een luchtverkeersleidingsgebied wordt uitgevoerd op een kruishoogte zoals aangegeven in Appendix 3 bij verordening (EU) nr. 923/2012.   
+3.  Een horizontaal deel van een IFR-vlucht buiten een luchtverkeersleidingsgebied wordt uitgevoerd op een kruishoogte als aangegeven in Appendix 3 bij verordening (EU) nr. 923/2012.  
+
+### Artikel  13h  
+
+1.  In afwijking van artikel 13g gelden binnen het vluchtinformatiegebied Amsterdam en de daarbuiten gelegen luchtruimte boven het Nederlandse deel van het continentaal plat de door de minister vastgestelde en in hoofdstuk ENR 3 van de luchtvaartgids gepubliceerde kruishoogtes.   
+2.  Voor de toepassing van de in het eerste lid genoemde kruishoogtes is voor IFR-vluchten op of beneden 915 m (3000 ft) de grondkoers van het belangrijkste deel van de vlucht van toepassing.  
 
 ####Strafbepaling
 
 ### Artikel 14  
 
-Handelen in strijd met de artikelen 2 tot en met 13 van deze regeling is een strafbaar feit.  
+Handelen in strijd met de artikelen 8 tot en met 10 van deze regeling is een strafbaar feit.  
 
 ####Slotartikelen
 
@@ -198,9 +269,9 @@ Het Besluit navigatie- en communicatie-installaties voor IFR-vluchten en de Rege
 
 Deze regeling treedt in werking met ingang van de tweede dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
-### Artikel 18  
+### Artikel  18  
 
-Deze regeling wordt aangehaald als: Regeling navigatie- en telecommunicatie-installaties. 
+Deze regeling wordt aangehaald als: Regeling boorduitrusting. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 De 

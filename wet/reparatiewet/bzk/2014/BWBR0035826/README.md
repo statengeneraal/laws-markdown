@@ -136,7 +136,7 @@ Wijzigt de Wet financiering politieke partijen.
 
 ####Wet gemeenschappelijke regelingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet gemeenschappelijke regelingen. 
 

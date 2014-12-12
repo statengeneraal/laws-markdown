@@ -5,7 +5,7 @@
 De Minister van Verkeer en Waterstaat,  
 Handelend in overeenstemming met de Minister van Defensie;
 
-Gelet op [artikel 39 van het Luchtverkeersreglement](../../../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);
+Gelet op artikel 39 van het Luchtverkeersreglement;
 
 Gezien paragraaf 3.6.5.2. van Bijlage 2 (Rules of the Air) en paragraaf 5.2.2.7. van Bijlage 10 (Aeronautical Telecommunications), van het Verdrag inzake de internationale burgerluchtvaart;
 Besluit:    
@@ -14,6 +14,10 @@ Besluit:
 
 1.  Indien de radioverbinding van een luchtvaartuig met de betrokken luchtverkeersleidingsdienst uitvalt worden de voorschriften in de artikelen 2 en 3 in acht genomen.   
 2.  Indien het betrokken luchtvaartuig deel uitmaakt van het luchtvaartterreinverkeer wordt bovendien uitgekeken naar eventuele opdrachten in de vorm van visuele seinen.  
+
+### Artikel  1a  
+
+Deze regeling berust op artikel 22 van het Besluit luchtverkeer 2014. 
 
 ### Artikel  2  
 

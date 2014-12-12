@@ -3,7 +3,7 @@
 ##Regeling houdende regels inzake historische luchtvaart
 
 De Minister van Verkeer en Waterstaat,
-Gelet op [artikel 3.13, vijfde lid, van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), de [artikelen 17](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md) en [22 onderdelen a, b en c van het Besluit luchtwaardigheid](../../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md), [artikel 56 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), [artikel 116 van de Regeling Toezicht Luchtvaart](../../../../../AMvB/regeling/toezicht/luchtvaart/BWBR0002309/README.md) en [artikel 7 van het Besluit ongeregeld luchtvervoer](../../../../../AMvB/besluit/ongeregeld/luchtvervoer/BWBR0002965/README.md);
+Gelet op artikel 3.13, vijfde lid, van de Wet luchtvaart, de artikelen 17 en 22 onderdelen a, b en c van het Besluit luchtwaardigheid, artikel 56 van het Luchtverkeersreglement, artikel 116 van de Regeling Toezicht Luchtvaart en artikel 7 van het Besluit ongeregeld luchtvervoer;
 Besluit: 
 ### §  1  
 
@@ -32,7 +32,7 @@ b. het uitsluitend vervoer betreft van sponsors van een organisatie tot instandh
 
 ### Artikel  1a  
 
-Deze regeling berust op [artikel 3.13, vijfde lid, van de Wet luchtvaart](../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), de [artikelen 9](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) en [13, onderdelen a, b en c, van het Besluit luchtvaartuigen 2008](../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [artikel 56 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), [artikel 7 van het Besluit vluchtuitvoering](../../../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md) en [artikel 7 van het Besluit ongeregeld luchtvervoer](../../../../../AMvB/besluit/ongeregeld/luchtvervoer/BWBR0002965/README.md). 
+Deze regeling berust op artikel 3.13, vijfde lid, van de Wet luchtvaart, de artikelen 9 en 13, onderdelen a, b en c, van het Besluit luchtvaartuigen 2008, artikel 4 van het Besluit luchtverkeer, artikel 7 van het Besluit vluchtuitvoering en artikel 7 van het Besluit ongeregeld luchtvervoer. 
 
 ###§ 2 
 
@@ -61,23 +61,7 @@ Deze regeling berust op [artikel 3.13, vijfde lid, van de Wet luchtvaart](../../
 ### Artikel  5  
 
 1.  Tenzij ten behoeve van het starten en landen, is het verboden in de uitvoering van niet-commerciële vluchten met een historisch luchtvaartuig lager te vliegen dan 300 m (1000 voet) boven de grond. Dit verbod geldt niet voor vluchten uitgevoerd met een historisch luchtvaartuig met een maximum startmassa van ten hoogste 2000 kg.   
-2.  Tenzij ten behoeve van het starten en landen, is het verboden in de uitvoering van niet-commerciële vluchten met een historisch luchtvaartuig als bedoeld in het eerste lid waar de zichtvliegvoorschriften van toepassing zijn te vliegen boven aaneengesloten bebouwing, industriegebieden of concentraties van mensen.   
-3.  Het tweede lid geldt niet voor: 
-
-a. historische zweefvliegtuigen;  
-
-b. meermotorige historische vliegtuigen, mits deze in geval van nood het gebied boven aaneengesloten bebouwing, industriegebieden of concentraties van mensen kunnen verlaten.     
-4.  Met een historisch luchtvaartuig worden per jaar niet meer dan 200 vlieguren gemaakt, zulks exclusief het jaarlijks, vooraf in overleg met de minister vastgestelde, aantal noodzakelijk geachte uren voor opleiding, training en bekwaamheidseisen.   
-5.  In afwijking van het vierde lid is het voor straalvliegtuigen met een omloopverhouding van minder dan 2 verboden meer dan 100 vlieguren per jaar te maken.   
-6.  Het is verboden tijdens vluchtuitvoering ten behoeve van opleiding, training en bekwaamheid andere personen dan de instructeur en de voor vluchtuitvoering noodzakelijke bemanningsleden aan boord van het desbetreffende historisch luchtvaartuig te hebben.   
-7.  Het is verboden met historische straalvliegtuigen te vliegen: 
-
-a. gedurende werkdagen voor 08.00 uur en na 18.00 uur,  
-
-b. op zaterdagen voor 09.00 uur en na 16.00 uur, en  
-
-c. op zondagen.     
-8.  Onverminderd het bovenstaande mogen met een historisch luchtvaartuig slechts vluchten worden uitgevoerd met inachtneming van de gebruiksbeperkingen die in het vlieghandboek van de fabrikant zijn opgenomen en op dat luchtvaartuig betrekking hebben. 
+2.  Tenzij ten behoeve van het starten en landen, is het verboden in de uitvoering van niet-commerciële vluchten met een historisch luchtvaartuig als bedoeld in het eerste lid waar de zichtvliegvoorschriften van toepassing zijn te vliegen boven aaneengesloten bebouwing, industriegebieden of concentraties van mensen.  
 
 ###Artikel 6 
 

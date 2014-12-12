@@ -5,12 +5,16 @@
 De Minister van Verkeer en Waterstaat,  
 Handelend in overeenstemming met de Minister van Defensie;
 
-Gelet op de [artikelen 9](../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) en [36 van het Luchtverkeersreglement](../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md):
+Gelet op de artikelen 9 en 36 van het Luchtverkeersreglement:
 Besluit:    
 
 ### Artikel  1  
 
 Deze regeling is van toepassing op gecontroleerde IFR-vluchten in het vluchtinformatiegebied Amsterdam die de luchtverkeersroutes volgen. 
+
+### Artikel  1a  
+
+Deze regeling berust op artikel 21 van het Besluit luchtverkeer 2014. 
 
 ### Artikel  2  
 

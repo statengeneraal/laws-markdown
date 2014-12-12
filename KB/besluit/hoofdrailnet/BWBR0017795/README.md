@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 14 december 2004, nr. HDJZ/S&W/2004-3059, Hoofddirectie Juridische Zaken;
 
-Gelet op [artikel 69b, eerste lid, van de Wet personenvervoer 2000](../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);
+Gelet op artikel 69b, eerste lid, van de Wet personenvervoer 2000;
 Hebben goedgevonden en verstaan:
 
 ###Artikel 1 

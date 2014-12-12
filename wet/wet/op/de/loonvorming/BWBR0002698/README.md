@@ -40,7 +40,7 @@ b. personen, aan een onderwijsinrichting werkzaam, wier arbeid bestaat in het ge
 
 c. personen die een geestelijk ambt bekleden.      
 2.   Deze wet is voorts niet van toepassing op arbeidsverhoudingen, behorende tot een bij algemene maatregel van bestuur daartoe aangewezen categorie.    
-3.  In afwijking van het eerste lid is deze wet van toepassing op de dienstbetrekking, bedoeld in de [Wet sociale werkvoorziening](../../../../../../wet/wet/sociale/werkvoorziening/BWBR0008903/README.md), en de [Wet inschakeling werkzoekenden](../../../../../../wet/wet/inschakeling/werkzoekenden/BWBR0009083/README.md).   
+3.  In afwijking van het eerste lid is deze wet van toepassing op de dienstbetrekking, bedoeld in de Wet sociale werkvoorziening, en de Wet inschakeling werkzoekenden.   
 
 ### §  2  
 
@@ -58,7 +58,7 @@ c. personen die een geestelijk ambt bekleden.
 
 ### Artikel  5  
 
-1.  Onze Minister kan, op gezamenlijk verzoek van een of meer werkgevers of verenigingen met volledige rechtsbevoegdheid van werkgevers enerzijds en een of meer verenigingen met volledige rechtsbevoegdheid van werknemers anderzijds, voor een bij zijn besluit te bepalen tijdvak van ten hoogste twee jaar te hunnen aanzien regelingen vaststellen van dezelfde inhoud als een collectieve arbeidsovereenkomst. Deze regelingen kunnen echter geen bepalingen behelzen als bedoeld in [artikel 2, vijfde lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](../../../../../../wet/wet/op/het/algemeen/verbindend/en/het/onverbindend/verklaren/van/etc/BWBR0001987/README.md) (*Stb.* 1937, 801).    
+1.  Onze Minister kan, op gezamenlijk verzoek van een of meer werkgevers of verenigingen met volledige rechtsbevoegdheid van werkgevers enerzijds en een of meer verenigingen met volledige rechtsbevoegdheid van werknemers anderzijds, voor een bij zijn besluit te bepalen tijdvak van ten hoogste twee jaar te hunnen aanzien regelingen vaststellen van dezelfde inhoud als een collectieve arbeidsovereenkomst. Deze regelingen kunnen echter geen bepalingen behelzen als bedoeld in artikel 2, vijfde lid, van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten (*Stb.* 1937, 801).    
 2.   Alvorens aan het eerste lid toepassing te geven stelt Onze Minister organisaties van werkgevers en van werknemers, welke naar zijn oordeel op centraal niveau hiervoor in aanmerking komen, in de gelegenheid hem hun zienswijze ter zake kenbaar te maken.    
 3.   Onze Minister wijst een verzoek als bedoeld in het eerste lid niet af zonder de verzoekers in de gelegenheid te hebben gesteld hem hun bedenkingen daartegen kenbaar te maken.    
 4.   Regelingen, vastgesteld krachtens het eerste lid, hebben dezelfde rechtskracht als een tussen verzoekers geldende collectieve arbeidsovereenkomst.   
@@ -69,7 +69,7 @@ c. personen die een geestelijk ambt bekleden.
 2.   Toepassing van het eerste lid kan uitsluitend geschieden op verzoek van de Stichting van de Arbeid dan wel op verzoek van al dan niet in de Stichting van de Arbeid vertegenwoordigde centrale organisaties van werkgevers of van werknemers, van een werkgever, van een vereniging met volledige rechtsbevoegdheid van werkgevers of van een zodanige vereniging van werknemers.  Vaststelling kan slechts geschieden nadat niet in de Stichting van de Arbeid vertegenwoordigde organisaties van werkgevers en van werknemers, welke naar het oordeel van Onze Minister op centraal niveau hiervoor in aanmerking komen, in de gelegenheid zijn gesteld hem hun zienswijze ter zake kenbaar te maken. Vaststelling anders dan op verzoek van de Stichting van de Arbeid kan daarenboven slechts geschieden met haar instemming.  Indien een verzoek als bedoeld in de eerste volzin is gedaan door een centrale organisatie van werkgevers of van werknemers, blijft de tweede volzin ten aanzien van de verzoeker buiten toepassing.    
 3.   Van de indiening van een verzoek als bedoeld in het tweede lid doet Onze Minister mededeling in de *Staatscourant.* Daarbij bepaalt hij een termijn, binnen welke hem bedenkingen tegen de gevraagde toepassing van het eerste lid schriftelijk kunnen worden kenbaar gemaakt.    
 4.   Onze Minister wijst een verzoek als bedoeld in het tweede lid niet af zonder de verzoeker in de gelegenheid te hebben gesteld hem zijn bedenkingen daartegen kenbaar te maken.    
-5.   Regelingen, vastgesteld krachtens het eerste lid, hebben dezelfde rechtskracht als krachtens [artikel 2 van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten](../../../../../../wet/wet/op/het/algemeen/verbindend/en/het/onverbindend/verklaren/van/etc/BWBR0001987/README.md) algemeen verbindend verklaarde bepalingen van zodanige overeenkomsten.   
+5.   Regelingen, vastgesteld krachtens het eerste lid, hebben dezelfde rechtskracht als krachtens artikel 2 van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten algemeen verbindend verklaarde bepalingen van zodanige overeenkomsten.   
 
 ### §  4  
 
@@ -109,7 +109,7 @@ Onze Minister kan regelen stellen, inhoudende op welke wijze een mededeling als 
 ### Artikel  15  
 
 1.  Onze Minister wijst ambtenaren aan, belast met het inwinnen van gegevens omtrent de algemene ontwikkeling van lonen en andere op geld waardeerbare arbeidsvoorwaarden.    
-2.  De [artikelen 5:13](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:16](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:17](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+2.  De artikelen 5:13, 5:16, 5:17 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 
 ### Artikel  16  
 
@@ -126,8 +126,8 @@ Van een besluit als bedoeld in artikel 5, eerste lid, 6, eerste lid, 10, eerste 
 
 ### Artikel  20  
 
-1.  Onverminderd het in de [artikelen 131](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [241 van Boek 2 (Rechtspersonen) van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) bepaalde, worden burgerlijke rechtsvorderingen van werkgevers of werknemers welke voortvloeien uit niet-naleving van het bij of krachtens deze wet bepaalde, geacht betrekkelijk te zijn tot een arbeidsovereenkomst.    
-2.   [Artikel 5 van de Wet op de economische delicten](../../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) (*Stb.* 1950, K 258) is niet van toepassing op voorzieningen ter zake van de overtreding van voorschriften, gesteld bij of krachtens artikel 10.   
+1.  Onverminderd het in de artikelen 131 en 241 van Boek 2 (Rechtspersonen) van het Burgerlijk Wetboek bepaalde, worden burgerlijke rechtsvorderingen van werkgevers of werknemers welke voortvloeien uit niet-naleving van het bij of krachtens deze wet bepaalde, geacht betrekkelijk te zijn tot een arbeidsovereenkomst.    
+2.   Artikel 5 van de Wet op de economische delicten (*Stb.* 1950, K 258) is niet van toepassing op voorzieningen ter zake van de overtreding van voorschriften, gesteld bij of krachtens artikel 10.   
 
 ### Artikel  21  
 
@@ -151,7 +151,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  27  
 
-Regelingen, vastgesteld krachtens [artikel 12 van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md), blijven van kracht. Zodanige regeling vervalt, tenzij zulks ingevolge het daarin bepaalde op een vroeger tijdstip geschiedt of de regeling door Onze Minister voordien wordt ingetrokken, een jaar na het in werking treden van deze wet.  
+Regelingen, vastgesteld krachtens artikel 12 van het Buitengewoon Besluit Arbeidsverhoudingen 1945, blijven van kracht. Zodanige regeling vervalt, tenzij zulks ingevolge het daarin bepaalde op een vroeger tijdstip geschiedt of de regeling door Onze Minister voordien wordt ingetrokken, een jaar na het in werking treden van deze wet.  
 
 ### Artikel  28  
 

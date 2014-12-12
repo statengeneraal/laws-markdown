@@ -44,23 +44,29 @@ g.  *militair:* een militair ambtenaar in werkelijke dienst als bedoeld in artik
 
 1.  De tegemoetkoming, bedoeld in artikel 2, eerste lid, van de wet, bedraagt € 290 indien de rechthebbende in het kalenderjaar waarop de tegemoetkoming betrekking heeft, de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt of pensioengerechtigd is geworden, onderscheidenlijk € 145 indien de rechthebbende in het gehele jaar pensioengerechtigde was, de rechthebbende niet is overleden in het kalenderjaar waarop de tegemoetkoming betrekking heeft, en: 
 
-a. in dat jaar één of meer ATC’s anders dan als add-on duur of weesgeneesmiddel vergoed kreeg, of 
+a. één of meer tot een bij ministeriële regeling aangewezen chronische groep, die recht geeft op een lage tegemoetkoming, behorende 
 
-1° in het jaar voorafgaande aan dat jaar één of meer ATC’s als add-on duur of weesgeneesmiddel vergoed kreeg, of  
+1° ATC’s anders dan als add-on duur of weesgeneesmiddel in dat jaar vergoed kreeg, of  
 
-2° in het jaar voorafgaande aan dat jaar één of meer DBC’s vergoed kreeg,   die behoren tot een bij ministeriële regeling aangewezen chronische groep die recht geeft op een lage tegemoetkoming;  
+2° ATC’s als add-on duur of weesgeneesmiddel in het jaar voorafgaande aan dat jaar vergoed kreeg, of  
 
-b. in dat jaar één of meer ATC’s anders dan als add-on duur of weesgeneesmiddel vergoed kreeg, of 
+3° DBC’s in het jaar voorafgaande aan dat jaar vergoed kreeg;    
 
-1° in het jaar voorafgaande aan dat jaar één of meer ATC’s als add-on duur of weesgeneesmiddel vergoed kreeg, of  
+b. één of meer tot twee of meer bij ministeriële regeling aangewezen chronische groepen, die afzonderlijk geen recht geven op een tegemoetkoming, behorende 
 
-2° in het jaar voorafgaande aan dat jaar één of meer DBC’s vergoed kreeg,   die behoren tot twee of meer bij ministeriële regeling aangewezen chronische groepen die afzonderlijk geen recht geven op een tegemoetkoming;  
+1° ATC’s anders dan als add-on duur of weesgeneesmiddel in dat jaar vergoed kreeg, of  
 
-c. in dat jaar een ATC anders dan als add-on duur of weesgeneesmiddel vergoed kreeg, of 
+2° ATC’s als add-on duur of weesgeneesmiddel in het jaar voorafgaande aan dat jaar vergoed kreeg, of  
 
-1° in het jaar voorafgaande aan dat jaar een ATC als add-on duur of weesgeneesmiddel vergoed kreeg, of  
+3° DBC’s in het jaar voorafgaande aan dat jaar vergoed kreeg;    
 
-2° in het jaar voorafgaande aan dat jaar een DBC vergoed kreeg,   die behoort of die tezamen behoren tot een bij ministeriële regeling aangewezen chronische groep die geen recht geeft op een tegemoetkoming en daarnaast voor rekening van zijn zorgverzekeraar een bij ministeriële regeling aangewezen hulpmiddel in een bij die regeling te bepalen periode heeft verkregen of heeft laten repareren;  
+c. voor rekening van zijn zorgverzekeraar een bij ministeriële regeling aangewezen hulpmiddel in een bij die regeling te bepalen periode heeft verkregen of heeft laten repareren en een tot een bij ministeriële regeling aangewezen chronische groep, die geen recht geeft op een tegemoetkoming, behorende 
+
+1° ATC anders dan als add-on duur of weesgeneesmiddel in dat jaar vergoed kreeg, of  
+
+2° ATC als add-on duur of weesgeneesmiddel in het jaar voorafgaande aan dat jaar vergoed kreeg, of  
+
+3° DBC in het jaar voorafgaande aan dat jaar vergoed kreeg;    
 
 d. op 31 december van dat jaar heeft beschikt over een indicatie voor het gedurende dat jaar gebruiken van een rolstoel op grond van artikel 4, eerste lid, onderdeel b, van de Wet maatschappelijke ondersteuning; 
 
@@ -74,7 +80,7 @@ f. in dat jaar:
 
 3°. militair was en in dat jaar en het daaraan voorafgaande jaar van de rechtspersoon, bedoeld in artikel 90a, eerste lid, van het Algemeen militair ambtenarenreglement, ten minste een bij ministeriële regeling te bepalen bedrag, gelijk aan het gemiddelde bedrag aan kosten voor een bij die regeling te bepalen aantal behandelingen fysiotherapie of oefentherapie, vergoed heeft gekregen;   
 
-g. in het berekeningsjaar of een daaraan voorafgaand berekeningsjaar doch na 31 december 2011 van zijn zorgverzekeraar een bij ministeriële regeling aangewezen hulpmiddel bij een blijvende aandoening vergoed heeft gekregen; 
+g. in dat jaar of een daaraan voorafgaand kalenderjaar doch na 31 december 2011 van zijn zorgverzekeraar een bij ministeriële regeling aangewezen hulpmiddel bij een blijvende aandoening vergoed heeft gekregen; 
 
 h. in dat jaar al dan niet aaneengesloten 26 weken of meer op grond van een indicatiebesluit was aangewezen op één tot tien uren per week zorg als bedoeld in artikelen 4, 5 en 6 van het Besluit zorgaanspraken AWBZ, met dien verstande dat: 
 
@@ -89,11 +95,13 @@ i. in dat jaar al dan niet aaneengesloten 26 weken of meer gedurende één tot t
 j. in dat jaar al dan niet aaneengesloten 26 weken of meer op grond van een indicatiebesluit was aangewezen op één of meer etmalen per week zorg als bedoeld in de artikelen 9, eerste lid, 9a, eerste lid, of 13, eerste en tweede lid, van het Besluit zorgaanspraken AWBZ.     
 2.  De tegemoetkoming, bedoeld in artikel 2, eerste lid, van de wet bedraagt € 484 indien de rechthebbende in het kalenderjaar waarop de tegemoetkoming betrekking heeft, de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt of pensioengerechtigd is geworden, onderscheidenlijk € 339 indien de rechthebbende in het gehele jaar pensioengerechtigde was, de rechthebbende niet is overleden in het kalenderjaar waarop de tegemoetkoming betrekking heeft, en de rechthebbende in dat jaar: 
 
-a. in dat jaar één of meer ATC’s anders dan als add-on duur of weesgeneesmiddel vergoed kreeg, of 
+a. één of meer tot één of meer bij ministeriële regeling aangewezen chronische groepen die recht geven op een hoge tegemoetkoming of tot twee of meer bij ministeriële regeling aangewezen chronische groepen, die recht geven op een lage tegemoetkoming, behorende 
 
-1° in het jaar voorafgaande aan dat jaar één of meer ATC’s als add-on duur of weesgeneesmiddel vergoed kreeg, of  
+1° ATC’s anders dan als add-on duur of weesgeneesmiddel in dat jaar vergoed kreeg, of  
 
-2° in het jaar voorafgaande aan dat jaar één of meer DBC’s vergoed kreeg,   die behoren tot één of meer bij ministeriële regeling aangewezen chronische groepen die recht geven op een hoge tegemoetkoming, of tot twee of meer bij ministeriële regeling aangewezen chronische groepen die recht geven op een lage tegemoetkoming;  
+2° ATC’s als add-on duur of weesgeneesmiddel in het jaar voorafgaande aan dat jaar vergoed kreeg, of  
+
+3° DBC’s in het jaar voorafgaande aan dat jaar vergoed kreeg;    
 
 b. al dan niet aaneengesloten 26 weken of meer op grond van een indicatiebesluit was aangewezen op tien of meer uren per week zorg als bedoeld in artikelen 4, 5 en 6 van het Besluit zorgaanspraken AWBZ, met dien verstande dat: 
 
@@ -124,7 +132,7 @@ d. viel onder twee of meer van de categorieën, genoemd in het eerste lid, met u
 8°. de categorieën, genoemd in de onderdelen h en i.      
 3.  Voor de toepassing van het eerste lid, onderdelen h en j, en het tweede lid, onderdelen b en c, is voor militairen het aantal uren, dagdelen of etmalen waarvoor zorg als bedoeld in de Algemene Wet Bijzondere Ziektekosten is gebruikt, bepalend voor het toekennen van de tegemoetkoming, bedoeld in artikel 2, eerste lid, van de wet.   
 4.  Het gemiddelde, bedoeld in het eerste lid, onderdeel h, en het tweede lid, onderdeel b, wordt bepaald door op een decimaal achter de komma naar boven af te ronden.  
-5.  Een rechthebbende op wie het tweede lid, onderdeel a, onder 2°, of onderdeel d, van toepassing is, heeft slechts recht op een tegemoetkoming als bedoeld in de aanhef van dat lid.   
+5.  Een rechthebbende op wie het tweede lid, onderdeel a of onderdeel d, van toepassing is, heeft slechts recht op een tegemoetkoming als bedoeld in de aanhef van dat lid.   
 6.  Een rechthebbende op wie het eerste lid, onderdeel j, van toepassing is, heeft in afwijking van het tweede lid, slechts recht op een tegemoetkoming als bedoeld in de aanhef van het eerste lid.  
 7.  Het eerste lid, onderdelen h en j, het tweede lid, onderdelen b en d, en het zesde lid, zijn van overeenkomstige toepassing op de indicatiebesluiten afgegeven door de stichting bedoeld in artikel 9b, vierde lid, van de Algemene Wet Bijzondere Ziektekosten die met ingang van 1 januari 2010 zijn afgegeven dan wel op die datum geldig zijn.  
 8.  Voor de toepassing van dit besluit en de daarop berustende bepalingen wordt gelijkgesteld: 

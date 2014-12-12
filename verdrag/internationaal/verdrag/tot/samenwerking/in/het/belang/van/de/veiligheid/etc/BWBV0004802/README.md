@@ -30,6 +30,46 @@ De Bondsrepubliek Duitsland,Het Koninkrijk België, De Franse Republiek, Het Ver
 -een „Agentschap voor de veiligheid van de luchtvaart”, hierna genoemd „het Agentschap”, waarvan de Statuten Bijlage 1 bij dit Verdrag vormen. Het Agentschap vormt het orgaan belast met de uitvoering van de taken die in dit Verdrag zijn vastgesteld of het ter uitvoering hiervan door de Commissie worden opgedragen.   
 3.  De zetel van de Organisatie is te Brussel gevestigd.  
 
+### Artikel  2  
+
+1.  De Organisatie heeft de volgende taken:
+
+(a)de toekomstige behoeften van het luchtverkeer, alsmede de nieuwe technieken om in deze behoeften te voorzien, te analyseren;
+
+(b)gemeenschappelijke doeleinden op lange termijn op het gebied van de luchtvaart uit te werken en vast te stellen;
+
+(c)in het kader van de in bovenstaand lid (b) genoemde doeleinden op lange termijn de nationale plannen op middellange termijn te coördineren om te komen tot de opstelling van een gemeenschappelijk plan op middellange termijn dat betrekking heeft op de diensten en installaties voor het luchtverkeer;
+
+(d)het bevorderen van een gemeenschappelijk beleid op het gebied van de grond- en boordsystemen voor de luchtvaart, alsmede ter zake van de opleiding van personeel voor de diensten van de luchtvaart;
+
+(e)de maatregelen ter verhoging van de rentabiliteit en doeltreffendheid op het terrein van de luchtvaart te bestuderen en te bevorderen;
+
+(f)studies, beproevingen en proefnemingen op het gebied van de luchtvaart te bevorderen en ten uitvoer te leggen; het resultaat van de door de Verdragsluitende Partijen op het gebied van de luchtvaart uitgevoerde studies, beproevingen en proefnemingen te vergaren en bekend te maken;
+
+(g)de speurwerk- en ontwikkelingsprogramma's van de Verdragsluitende Partijen inzake nieuwe technieken op het gebied van de luchtvaart te coördineren;
+
+(h)de vraagstukken op het gebied van de luchtvaart te bestuderen die in behandeling zijn bij de Internationale Burgerluchtvaartorganisatie of andere internationale organisaties voor de burgerluchtvaart;
+
+(i)de aan de Internationale Burgerluchtvaartorganisatie voor te leggen wijzigingen in de regionale luchtvaartplannen te bestuderen;
+
+(j)elke andere gemeenschappelijke taak te vervullen waarmee zij eventueel ter uitvoering van artikel 1, lid 1 (c), wordt belast;
+
+(k)de Verdragsluitende Partijen en de belanghebbende derde Staten behulpzaam te zijn bij de oprichting en tenuitvoerlegging van een internationaal systeem voor de regeling van de luchtverkeersstromen;
+
+(l)overeenkomstig de Multilaterale Overeenkomst betreffende de „en route”-heffingen namens de Verdragsluitende Partijen en de bij deze Overeenkomst Partij zijnde derde Staten de aan de gebruikers van de diensten voor de luchtvaart opgelegde heffingen vast te stellen en te innen.Bijzondere overeenkomsten kunnen worden gesloten tussen de Organisatie en Staten die geen Partij zijn en belang hebben bij deelname aan de uitvoering van deze taken.  
+2.  De Organisatie kan verzoek van een of meer Verdragsluitende Partijen met de volgende taken worden belast:
+
+(a)deze Partijen behulpzaam zijn bij de uitvoering van specifieke luchtvaarttaken, zoals het ontwerpen en opzetten van installaties en diensten voor het luchtverkeer;
+
+(b)namens deze Partijen de installaties en diensten voor het luchtverkeer ten volle of ten dele ter beschikking stellen en exploiteren;
+
+(c)deze Partijen behulpzaam zijn bij de berekening en de inning van de door hen aan de gebruikers van de diensten voor de luchtvaart opgelegde heffingen die niet onder de Multilaterale Overeenkomst betreffende ,,en route”-heffingen vallen. De tenuitvoerlegging van deze taken wordt per geval geregeld in een bijzondere overeenkomst tussen de Organisatie en de belanghebbende Partij of Partijen. 
+3. Op verzoek van een of meer Staten, geen Lid-Staten zijnde, kan de Organisatie bovendien met de volgende taken belast worden:
+
+(a)deze Staten behulpzaam zijn bij het regelen van de luchtverkeersstromen, alsmede het ontwerpen en verschaffen van de diensten en installaties voor de luchtvaart;
+
+(b)deze Staten behulpzaam zijn bij de berekening en de inning van de door hen aan de gebruikers van de diensten voor de luchtvaart opgelegde heffingen die niet onder de Multilaterale Overeenkomst betreffende „en route”-heffingen vallen.De tenuitvoerlegging van deze taken wordt per geval geregeld in bijzondere overeenkomsten tussen de Organisatie en de belanghebbende Staten.
+
 ### Artikel  3  
 
 1. Dit Verdrag is van toepassing op de diensten voor de „en route”-luchtvaart en de daarmee verband houdende naderingsdiensten en plaatselijke diensten ten behoeve van het luchtverkeer in de vluchtinlichtingengebieden vermeld in Bijlage 2. 

@@ -3,7 +3,7 @@
 ##Wijziging Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten
 
 De Staatssecretaris van Financiën,  
-Gelet op [artikel 35, tweede lid, van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../../../wet/wet/op/de/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005802/README.md) (Stb. 1992, 683);
+Gelet op artikel 35, tweede lid, van de Wet op de verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten (Stb. 1992, 683);
 Besluit:    
 
 ### Artikel  I  
@@ -12,7 +12,7 @@ De Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enke
 
 ### Artikel  II  
 
-Tot 1 september 1995 mogen belastingzegels die voldoen aan het gestelde in de [artikelen 27](../../../../../../../../ministeriele-regeling/uitvoeringsregeling/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005812/README.md), [28](../../../../../../../../ministeriele-regeling/uitvoeringsregeling/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005812/README.md), [29](../../../../../../../../ministeriele-regeling/uitvoeringsregeling/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005812/README.md) en [30 van de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten](../../../../../../../../ministeriele-regeling/uitvoeringsregeling/verbruiksbelasting/van/alcoholvrije/dranken/BWBR0005812/README.md) zoals die luidden op de dag voorafgaande aan de datum van inwerkingtreding van deze regeling, worden vervaardigd en worden aangebracht op verpakkingen van snuiftabak en pruimtabak mits deze vóór 1 september 1995 worden uitgeslagen of ingevoerd. 
+Tot 1 september 1995 mogen belastingzegels die voldoen aan het gestelde in de artikelen 27, 28, 29 en 30 van de Uitvoeringsregeling verbruiksbelastingen van alcoholvrije dranken en van enkele andere produkten zoals die luidden op de dag voorafgaande aan de datum van inwerkingtreding van deze regeling, worden vervaardigd en worden aangebracht op verpakkingen van snuiftabak en pruimtabak mits deze vóór 1 september 1995 worden uitgeslagen of ingevoerd. 
 
 ### Artikel  III  
 

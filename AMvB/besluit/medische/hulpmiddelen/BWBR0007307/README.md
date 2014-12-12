@@ -10,15 +10,15 @@ Gelet op
 
 -. richtlijn nr. 93/42/EEG van de Raad van de Europese Gemeenschappen van 14 juni 1993 betreffende medische hulpmiddelen (*PbEG* L 169),  
 
--.  [artikel 3, eerste lid, van de Wet op de medische hulpmiddelen](../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md),  
+-.  artikel 3, eerste lid, van de Wet op de medische hulpmiddelen,  
 
--. de [artikelen 1](../../../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md), derde lid, en [26, onder f, van de Wet op de Geneesmiddelenvoorziening](../../../../../wet/wet/op/de/geneesmiddelenvoorziening/BWBR0002290/README.md),  
+-. de artikelen 1, derde lid, en 26, onder f, van de Wet op de Geneesmiddelenvoorziening,  
 
--. de [artikelen 4, eerste lid, onderdeel a](../../../../../wet/warenwet/BWBR0001969/README.md),[ 8, onderdeel c](../../../../../wet/warenwet/BWBR0001969/README.md), [13](../../../../../wet/warenwet/BWBR0001969/README.md), [14](../../../../../wet/warenwet/BWBR0001969/README.md), 14a , [16](../../../../../wet/warenwet/BWBR0001969/README.md) en 16a van de Warenwet juncto artikel II van de Wijzigingswet 1988 Warenwet,  
+-. de artikelen 4, eerste lid, onderdeel a, 8, onderdeel c, 13, 14, 14a , 16 en 16a van de Warenwet juncto artikel II van de Wijzigingswet 1988 Warenwet,  
 
--.  [artikel 21 van de IJkwet](../../../../../wet/ijkwet/BWBR0009082/README.md) en  
+-.  artikel 21 van de IJkwet en  
 
--. de [artikelen 22](../../../../../AMvB/algemeen/eeg-ijkbesluit/BWBR0003165/README.md), [23](../../../../../AMvB/algemeen/eeg-ijkbesluit/BWBR0003165/README.md) en [28 van het Algemeen EEG-IJkbesluit](../../../../../AMvB/algemeen/eeg-ijkbesluit/BWBR0003165/README.md);   
+-. de artikelen 22, 23 en 28 van het Algemeen EEG-IJkbesluit;   
 Gezien het advies van de Geneesmiddelencommissie (advies van 21 januari 1994, Geco 4802/EJ);
 
 De Raad van State gehoord (advies van 21 december 1994, No. W13.94.0604);
@@ -34,7 +34,7 @@ Hebben goedgevonden en verstaan:
 
 a. naar maat gemaakt medisch hulpmiddel: een medisch hulpmiddel dat speciaal is vervaardigd volgens voorschrift van een arts of van een andere persoon die uit hoofde van zijn beroep daartoe bevoegd is, waarin onder zijn verantwoordelijkheid de specifieke kenmerken van het ontwerp zijn aangegeven, en dat is bestemd om uitsluitend door een bepaalde patiënt te worden gebezigd;  
 
-b. medisch hulpmiddel bestemd voor klinisch onderzoek: een medisch hulpmiddel dat is bestemd om ter beschikking te worden gesteld van een medisch specialist, ten einde daarmee in een geschikt klinisch menselijk milieu als bedoeld in de krachtens artikel 13, vijfde lid, vastgestelde ministeriële regeling inzake de klinische evaluatie, uit te voeren;  
+b. medisch hulpmiddel bestemd voor klinisch onderzoek: een medisch hulpmiddel dat is bestemd om te worden gebruikt bij een klinisch onderzoek als bedoeld in onderdeel 2 van bijlage X van de richtlijn;  
 
 c. hulpstuk: een produkt dat door de fabrikant speciaal is bestemd om met een medisch hulpmiddel te worden gebruikt zodat dat middel overeenkomstig diens bestemming kan worden gebezigd of toegepast;  
 
@@ -48,31 +48,29 @@ e.  *gemachtigde: *de in een lidstaat gevestigde persoon, rechtspersoon daaronde
 
 f. in de handel brengen: het voor het eerst tegen betaling of kosteloos afleveren van een medisch hulpmiddel, dat niet voor klinisch onderzoek is bestemd, met het oog op de distributie of het gebruik ervan op de markt van een lid-staat, ongeacht of het gaat om een nieuw of een vernieuwd medisch hulpmiddel;  
 
-g.  *toepassen: *het voor het eerst toepassen van een medisch hulpmiddel;  
+g. bestemming: het gebruik waartoe het medisch hulpmiddel is bestemd volgens de aanwijzingen die de fabrikant op het etiket, in de gebruiksaanwijzing of in het reclame-materiaal verschaft;  
 
-h. bestemming: het gebruik waartoe het medisch hulpmiddel is bestemd volgens de aanwijzingen die de fabrikant op het etiket, in de gebruiksaanwijzing of in het reclame-materiaal verschaft;  
+h. aangemelde instantie: de ter uitvoering van artikel 16 van de richtlijn aangewezen instantie;  
 
-i. aangemelde instantie: de ter uitvoering van artikel 16 van de richtlijn aangewezen instantie;  
+i. lid-staat: de staat, die lid is van de Europese Unie, alsmede de staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;  
 
-j. lid-staat: de staat, die lid is van de Europese Unie, alsmede de staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;  
+j. richtlijn: richtlijn nr 93/42/EEG van de Raad van de Europese Gemeenschappen van 14 juni 1993 betreffende medische hulpmiddelen (*PbEG* L 169);  
 
-k. richtlijn: richtlijn nr 93/42/EEG van de Raad van de Europese Gemeenschappen van 14 juni 1993 betreffende medische hulpmiddelen (*PbEG* L 169);  
+k. wet: de Wet op de medische hulpmiddelen;  
 
-l. wet: de [Wet op de medische hulpmiddelen](../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md);  
+l. CE-markering: de markering overeenkomstig het model opgenomen in bijlage XII van de richtlijn;  
 
-m. CE-markering: de markering overeenkomstig het model opgenomen in bijlage XII van de richtlijn;  
+m. derivaat van menselijk bloed: een stof, als integrerend bestanddeel verwerkt in een medisch hulpmiddel, die, indien afzonderlijk gebruikt, kan worden beschouwd als een bestanddeel van een geneesmiddel of als een bloedproduct als bedoeld in artikel 1, eerste lid, onder d, van de Geneesmiddelenwet, en die de werking van het hulpmiddel op het menselijk lichaam kan ondersteunen;  
 
-n. derivaat van menselijk bloed: een stof, als integrerend bestanddeel verwerkt in een medisch hulpmiddel, die, indien afzonderlijk gebruikt, kan worden beschouwd als een bestanddeel van een geneesmiddel of als een bloedproduct als bedoeld in [artikel 1, eerste lid, onder d, van de Geneesmiddelenwet](../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), en die de werking van het hulpmiddel op het menselijk lichaam kan ondersteunen;  
+n. hulpmiddelsubcategorie: een groep hulpmiddelen die bedoeld zijn voor gebruik op dezelfde gebieden, of een gemeenschappelijke technologie bezitten;  
 
-o. hulpmiddelsubcategorie: een groep hulpmiddelen die bedoeld zijn voor gebruik op dezelfde gebieden, of een gemeenschappelijke technologie bezitten;  
+o. generieke hulpmiddelgroep: een groep hulpmiddelen die bedoeld zijn voor hetzelfde of een soortgelijk gebruik, of een gemeenschappelijke technologie bezitten, zodat zij op generieke wijze kunnen worden ingedeeld, waarbij specifieke eigenschappen buiten beschouwing blijven;  
 
-p. generieke hulpmiddelgroep: een groep hulpmiddelen die bedoeld zijn voor hetzelfde of een soortgelijk gebruik, of een gemeenschappelijke technologie bezitten, zodat zij op generieke wijze kunnen worden ingedeeld, waarbij specifieke eigenschappen buiten beschouwing blijven;  
+p. hulpmiddel voor eenmalig gebruik: een hulpmiddel dat bedoeld is om slechts eenmaal te worden gebruikt voor één patiënt;  
 
-q. hulpmiddel voor eenmalig gebruik: een hulpmiddel dat bedoeld is om slechts eenmaal te worden gebruikt voor één patiënt;  
+q. richtlijn 2003/32/EG: richtlijn 2003/32/EG van de Commissie van 23 april 2003 tot vaststelling van nadere specificaties inzake de in Richtlijn 93/42/EEG van de Raad vastgelegde eisen betreffende medische hulpmiddelen die zijn vervaardigd met gebruikmaking van weefsel van dierlijke oorsprong (PbEU L 105);  
 
-r. richtlijn 2003/32/EG: richtlijn 2003/32/EG van de Commissie van 23 april 2003 tot vaststelling van nadere specificaties inzake de in Richtlijn 93/42/EEG van de Raad vastgelegde eisen betreffende medische hulpmiddelen die zijn vervaardigd met gebruikmaking van weefsel van dierlijke oorsprong (PbEU L 105);  
-
-s. klinische gegevens: uit het gebruik van een hulpmiddel voortkomende informatie betreffende de veiligheid of de prestaties, afkomstig uit: 
+r. klinische gegevens: uit het gebruik van een hulpmiddel voortkomende informatie betreffende de veiligheid of de prestaties, afkomstig uit: 
 
 – klinisch onderzoek van het betrokken hulpmiddel, of  
 
@@ -80,7 +78,8 @@ s. klinische gegevens: uit het gebruik van een hulpmiddel voortkomende informati
 
 – gepubliceerde of ongepubliceerde verslagen over andere klinische ervaringen met het hulpmiddel in kwestie of met een soortgelijk hulpmiddel waarvan de gelijkwaardigheid met het hulpmiddel in kwestie kan worden aangetoond.       
 2.   Medische hulpmiddelen die volgens methodes van continue fabrikage of van seriefabrikage worden vervaardigd en die een aanpassing vereisen om te voldoen aan de specifieke behoeften van de arts of van een andere professionele gebruiker worden niet beschouwd als een naar maat gemaakt medisch hulpmiddel.   
-3.   Onder een fabrikant wordt niet begrepen een persoon die, niet zijnde een fabrikant van een medisch hulpmiddel in de zin van het eerste lid, onder e, 1°, medische hulpmiddelen die reeds in de handel zijn gebracht, assembleert voor een individuele patiënt, of aanpast overeenkomstig hun bestemming.  
+3.   Onder een fabrikant wordt niet begrepen een persoon die, niet zijnde een fabrikant van een medisch hulpmiddel in de zin van het eerste lid, onder d, onderdeel 1°, medische hulpmiddelen die reeds in de handel zijn gebracht, assembleert voor een individuele patiënt, of aanpast overeenkomstig hun bestemming.   
+4.  Een wijziging van bijlage I, II, III, IV, V, VI, VII, VIII, IX of X van de richtlijn, dan wel van de bijlage van richtlijn 2003/32/EG gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven. 
 
 ###Artikel 2 
 
@@ -90,11 +89,11 @@ Dit besluit is mede van toepassing op het hulpstuk en op de software die voor de
 
 1.  Dit besluit is niet van toepassing op: 
 
-a. in-vitro diagnostica waarop het [Besluit in-vitro diagnostica](../../../../../AMvB/besluit/in-vitro/diagnostica/BWBR0012610/README.md) van toepassing is.  
+a. in-vitro diagnostica waarop het Besluit in-vitro diagnostica van toepassing is.  
 
-b. actieve implantaten in de zin van het [Besluit actieve implantaten](../../../../../AMvB/besluit/actieve/implantaten/BWBR0006060/README.md);  
+b. actieve implantaten in de zin van het Besluit actieve implantaten;  
 
-c. medische hulpmiddelen bestemd voor het toedienen van een geneesmiddel als bedoeld in [artikel 1, eerste lid, onder b, van de Geneesmiddelenwet](../../../../../wet/geneesmiddelenwet/BWBR0021505/README.md), voor zover zij op zodanige wijze in de handel worden gebracht dat:  
+c. medische hulpmiddelen bestemd voor het toedienen van een geneesmiddel als bedoeld in artikel 1, eerste lid, onder b, van de Geneesmiddelenwet, voor zover zij op zodanige wijze in de handel worden gebracht dat:  
 
 1°. het medisch hulpmiddel en het geneesmiddel een ondeelbaar geheel vormen,  
 
@@ -108,7 +107,7 @@ e. transplantaten, weefsels of cellen van menselijke oorsprong, of produkten die
 
 f. transplantaten, weefsels of cellen van dierlijke oorsprong, tenzij het desbetreffende medisch hulpmiddel is vervaardigd met gebruikmaking van dierlijk weefsel dat niet-levensvatbaar is gemaakt, dan wel van niet-levensvatbare produkten die zijn afgeleid van dierlijk weefsel;  
 
-g. persoonlijke beschermingsmiddelen in de zin van het [Warenwetbesluit Persoonlijke beschermingsmiddelen](../../../../../AMvB/warenwetbesluit/persoonlijke/beschermingsmiddelen/BWBR0005570/README.md).     
+g. persoonlijke beschermingsmiddelen in de zin van het Warenwetbesluit Persoonlijke beschermingsmiddelen.     
 2.   De in bijlage I van de richtlijn opgenomen essentiële eisen, voor zover het betreft aspecten verband houdend met veiligheid en prestaties, zijn evenwel op de in onderdeel c van het eerste lid bedoelde medische hulpmiddelen van toepassing.  
 
 ### Artikel  4  
@@ -124,9 +123,9 @@ g. persoonlijke beschermingsmiddelen in de zin van het [Warenwetbesluit Persoonl
 
 1.  De in Nederland gevestigde fabrikant die onder eigen naam en in overeenstemming met de in artikel 9, vijfde lid, bedoelde conformiteitsbeoordelingsprocedure een medisch hulpmiddel aflevert, deelt alvorens de aflevering plaatsvindt, aan de daartoe door Onze Minister aangewezen overheidsinstantie mede:  
 
-a. zijn woonplaats in de zin van [artikel 10, Boek 1 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md); alsmede  
+a. zijn woonplaats in de zin van artikel 10, Boek 1 van het Burgerlijk Wetboek; alsmede  
 
-b. de categorie van het desbetreffende medisch hulpmiddel; en, zo spoedig mogelijk,  
+b. een beschrijving van het desbetreffende medisch hulpmiddel; en, zo spoedig mogelijk,  
 
 c. wijzigingen van deze gegevens, alsook de beëindiging van de activiteit.    
 2.   Het eerste lid is van overeenkomstige toepassing op de in artikel 10 bedoelde persoon en de in artikel 12 bedoelde fabrikant.   
@@ -158,8 +157,8 @@ c. wijzigingen van deze gegevens, alsook de beëindiging van de activiteit.
 
 ### Artikel  8  
 
-1.  Medische hulpmiddelen worden ingedeeld in klasse I, IIa, IIb of III volgens bijlage IX van de richtlijn.   
-2.  In afwijking van het eerste lid worden borstimplantaten en heup-, knie- en schouderprothesen ingedeeld in klasse III.   
+1.  Medische hulpmiddelen worden door de fabrikant ingedeeld in klasse I, IIa, IIb of III volgens bijlage IX van de richtlijn.   
+2.  In afwijking van het eerste lid worden borstimplantaten en heup-, knie- en schouderprothesen door de fabrikant ingedeeld in klasse III.   
 3.  Tegen een ingevolge de classificatieregels genomen beslissing van de aangemelde instantie kan de fabrikant beroep instellen bij Onze Minister.  
 
 ####Conformiteitsbeoordelingsprocedures
@@ -178,9 +177,9 @@ b. de in bijlage III van de richtlijn omschreven procedure inzake het EG-typeond
 2°. hetzij de in bijlage V van de richtlijn omschreven procedure van de EG-verklaring inzake produktie-kwaliteitsborging.       
 3.   Voor de beoordeling of een in klasse II*b* ingedeeld medisch hulpmiddel aan de in artikel 6, eerste lid, bedoelde eisen voldoet volgt de fabrikant, ten einde de CE-markering aan te brengen, één van de volgende procedures:  
 
-a. de in bijlage II van de richtlijn omschreven procedure met uitzondering van de onder punt 4 van dat onderdeel omschreven procedure, of  
+a. de in bijlage II van de richtlijn omschreven procedure inzake de EG-verklaring van overeenstemming met uitzondering van de onder punt 4 van dat onderdeel omschreven procedure, of  
 
-b. de in bijlage III van de richtlijn omschreven procedure in combinatie met  
+b. de in bijlage III van de richtlijn omschreven procedure inzake het EG-typeonderzoek in combinatie met  
 
 1°. hetzij de in bijlage IV van de richtlijn omschreven procedure inzake de EG-keuring;  
 
@@ -189,7 +188,7 @@ b. de in bijlage III van de richtlijn omschreven procedure in combinatie met
 3°. hetzij de in bijlage VI van de richtlijn omschreven procedure inzake produkt-kwaliteitsborging.       
 4.   Voor de beoordeling of een in klasse II*a* ingedeeld medisch hulpmiddel aan de in artikel 6, eerste lid, bedoelde eisen voldoet volgt de fabrikant, ten einde de CE-markering aan te brengen, één van de volgende procedures:  
 
-a. de in bijlage II van de richtlijn omschreven procedure met uitzondering van de onder punt 4 van dat onderdeel omschreven procedure, of:  
+a. de in bijlage II van de richtlijn omschreven procedure inzake de EG-verklaring van overeenstemming met uitzondering van de onder punt 4 van dat onderdeel omschreven procedure, of:  
 
 b. de in bijlage VII van de richtlijn omschreven procedure inzake de EG-verklaring van overeenstemming in combinatie met:  
 
@@ -198,12 +197,12 @@ b. de in bijlage VII van de richtlijn omschreven procedure inzake de EG-verklari
 2°. hetzij de in bijlage V van de richtlijn omschreven procedure van de EG-verklaring inzake produktie-kwaliteitsborging;  
 
 3°. hetzij de in bijlage VI van de richtlijn omschreven procedure inzake produkt-kwaliteitsborging.       
-5.   Voor de beoordeling of een in klasse I ingedeeld medisch hulpmiddel aan de in artikel 6, eerste lid, bedoelde eisen voldoet volgt de fabrikant, ten einde de CE-markering aan te brengen, de in bijlage VII van de richtlijn omschreven procedure inzake de EG-verklaring van overeenstemming. Vóór het in de handel brengen van het medisch hulpmiddel stelt hij de in dit onderdeel bedoelde verklaring van overeenstemming op.   
+5.  Voor de beoordeling of een in klasse I ingedeeld medisch hulpmiddel aan de in artikel 6, eerste lid, bedoelde eisen voldoet, stelt de fabrikant, ten einde de CE-markering aan te brengen, vóór het in de handel brengen van het medisch hulpmiddel de EG-verklaring van overeenstemming op, bedoeld in bijlage VII van de richtlijn, en neemt daarbij de in die bijlage neergelegde voorschriften in acht.   
 6.   In geval een conformiteitsbeoordelingsprocedure de tussenkomst van een aangemelde instantie vooronderstelt, wendt de fabrikant zich tot een aangemelde instantie van zijn keuze in het kader van de taken waarvoor die instantie is aangemeld.   
-7.   Tijdens de conformiteitsbeoordelingsprocedure houdt de fabrikant of de aangemelde instantie rekening met de beschikbare resultaten van beoordelings- en keuringswerkzaamheden die eventueel overeenkomstig dit besluit in een tussenstadium van de fabricage hebben plaatsgevonden. Tevens wordt rekening gehouden met de resultaten van beoordelings- en keuringswerkzaamheden die hebben plaatsgevonden overeenkomstig de bij of krachtens de [wet](../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md) gestelde voorschriften zoals die golden op 31 december 1994.   
+7.   Tijdens de conformiteitsbeoordelingsprocedure houdt de fabrikant of de aangemelde instantie rekening met de beschikbare resultaten van beoordelings- en keuringswerkzaamheden die eventueel overeenkomstig dit besluit in een tussenstadium van de fabricage hebben plaatsgevonden. Tevens wordt rekening gehouden met de resultaten van beoordelings- en keuringswerkzaamheden die hebben plaatsgevonden overeenkomstig de bij of krachtens de wet gestelde voorschriften zoals die golden op 31 december 1994.   
 8.   De fabrikant is verplicht om de aangemelde instantie iedere inlichting te verstrekken die voor de vervulling van haar taak met betrekking tot dit besluit redelijkerwijs nodig is. Voor in klasse III ingedeelde medische hulpmiddelen als bedoeld in artikel 9a, eerste lid, verstrekt de fabrikant aan de aangemelde instantie alle relevante informatie die deze nodig heeft om een beoordeling van zijn lopende strategie voor risicoanalyse en risicobeheer uit te voeren. Eventuele nieuwe informatie over het risico van overdraagbare spongiforme encefalopathieën, die door de fabrikant wordt verzameld en die voor de door hem vervaardigde hulpmiddelen relevant is, wordt ter informatie naar de aangemelde instantie gezonden. Wijzigingen met betrekking tot de procedures voor het kiezen, verzamelen, behandelen en inactiveren of elimineren die van invloed kunnen zijn op het resultaat van het risicobeheer door de fabrikant, worden vóór de tenuitvoerlegging ervan ter aanvullende goedkeuring aan de aangemelde instantie voorgelegd.   
 9.   Een krachtens bijlage II of III van de richtlijn genomen beslissing vervalt na een door de aangemelde instantie te bepalen termijn van maximaal vijf jaar. Op aanvraag van de fabrikant kan de aangemelde instantie deze periode met termijnen van telkenmale vijf jaar verlengen.   
-10.   Met de in de in het tweede lid tot en met het vijfde lid bedoelde procedures worden gelijkgesteld de door de daartoe bevoegde autoriteiten van de andere lid-staten in het kader van de richtlijn vastgestelde procedures.  
+10.   Met de in het tweede lid tot en met het vijfde lid bedoelde procedures worden gelijkgesteld de door de daartoe bevoegde autoriteiten van de andere lid-staten in het kader van de richtlijn vastgestelde procedures.  
 
 ### Artikel  9a  
 
@@ -305,21 +304,21 @@ Vervallen per 29-11-2006
 
 ### Artikel  13  
 
-1.  Voor de medische hulpmiddelen die voor klinisch onderzoek zijn bestemd, stelt de fabrikant vóór de aanvang van het onderzoek het Staatstoezicht op de Volksgezondheid daarvan in kennis door middel van de verklaring, bedoeld in punt 2.2 van bijlage VIII van de richtlijn, en volgt hij de in de bijlage VIII van de richtlijn bedoelde procedure.   
+1.  Voor de medische hulpmiddelen die voor klinisch onderzoek zijn bestemd, stelt de fabrikant vóór de aanvang van het onderzoek het Staatstoezicht op de Volksgezondheid daarvan in kennis door middel van de verklaring, bedoeld in bijlage VIII van de richtlijn, en volgt hij de in de bijlage VIII van de richtlijn bedoelde procedure.   
 2.   In afwijking van artikel 6, eerste lid, behoeft een medisch hulpmiddel, bestemd voor klinisch onderzoek op het punt waarop het onderzoek is gericht, niet te voldoen aan de in bijlage I van de richtlijn opgenomen eisen.   
-3.   De fabrikant doet het medisch hulpmiddel bestemd voor klinisch onderzoek slechts toepassen indien:  
+3.   De fabrikant levert het medische hulpmiddel bestemd voor klinisch onderzoek slechts af indien:  
 
-a. een op grond van [artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen](../../../../../wet/wet/medisch-wetenschappelijk/onderzoek/met/mensen/BWBR0009408/README.md) erkende commissie een positief advies omtrent het onderzoeksprogramma, met inbegrip van het klinisch onderzoeksplan, heeft uitgebracht;  
+a. een op grond van artikel 16 van de Wet medisch-wetenschappelijk onderzoek met mensen erkende commissie een positief advies omtrent het onderzoeksprogramma, met inbegrip van het klinisch onderzoeksplan, heeft uitgebracht;  
 
 b. hij vóór het tijdstip waarop het klinisch onderzoek aanvangt een verzekering heeft afgesloten die zijn aansprakelijkheid dekt voor door het klinisch onderzoek veroorzaakte schade.     
 4.  Het klinisch onderzoek wordt uitgevoerd volgens bijlage X van de richtlijn.   
 5.  De fabrikant brengt het Staatstoezicht op de volksgezondheid op de hoogte van de beëindiging van het klinisch onderzoek, met een opgave van redenen in geval van een vroegtijdige beëindiging.   
-6.  De fabrikant houdt de volgende gegevens ter beschikking van de in het Staatstoezicht op de volksgezondheid: 
+6.  De fabrikant houdt de volgende gegevens ter beschikking van het Staatstoezicht op de volksgezondheid: 
 
-a. de in de bijlage VIII, punt 2.2 en 3.2, van de richtlijn bedoelde gegevens;  
+a. de in de bijlage VIII, punt 3.2, van de richtlijn bedoelde gegevens;  
 
 b. het in punt 2.3.7 van bijlage X van de richtlijn bedoelde verslag inzake het klinisch onderzoek.     
-7.   Artikel 7, vierde lid, en het eerste en vierde lid, alsmede het zevende lid, onder a, van dit artikel zijn niet van toepassing indien bij het klinisch onderzoek medische hulpmiddelen worden toegepast die overeenkomstig artikel 7 zijn voorzien van de CE-markering, mits dit onderzoek dezelfde bestemming van de medische hulpmiddelen tot doel heeft als met de desbetreffende conformiteitsbeoordelingsprocedures is beoogd.  
+7.   Artikel 7, vierde lid, en het eerste en vierde lid, alsmede het zesde lid, onder a van dit artikel zijn niet van toepassing indien bij het klinisch onderzoek medische hulpmiddelen worden toegepast die overeenkomstig artikel 7 zijn voorzien van de CE-markering, mits dit onderzoek dezelfde bestemming van de medische hulpmiddelen tot doel heeft als met de desbetreffende conformiteitsbeoordelingsprocedures is beoogd.  
 
 ####Jaarbeurzen
 
@@ -333,7 +332,7 @@ De artikelen 6 en 7 zijn niet van toepassing op medische hulpmiddelen die op jaa
 
 Een medisch hulpmiddel wordt door de in artikel 4, derde lid, bedoelde persoon niet afgeleverd:  
 
-a. indien dat middel niet aan de in artikel 6, eerste en tweede lid, bedoelde eisen voldoet;  
+a. indien dat middel niet aan de in de artikelen 6, eerste en tweede lid, en 7, eerste lid, bedoelde eisen voldoet;  
 
 b. nadat de in bijlage I, punt 13.3, onder e, van de richtlijn bedoelde uiterste gebruiksdatum is verstreken.   
 
@@ -389,11 +388,11 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  25  
 
-1.  In afwijking van artikel 4, eerste lid, is het de fabrikant tot 14 juni 1998 toegestaan om medische hulpmiddelen voorhanden te hebben of af te leveren indien met betrekking tot die middelen is voldaan aan de bij of krachtens de [wet](../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md) gestelde voorschriften zoals die golden op 31 december 1994.   
-2.   In afwijking van artikel 4, tweede lid, is het de in dat lid bedoelde persoon toegestaan om een systeem of behandelingspakket voorhanden te hebben of af te leveren dat bestaat uit de in het eerste lid bedoelde medische hulpmiddelen indien met betrekking tot die middelen is voldaan aan de bij of krachtens de [wet](../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md) gestelde voorschriften zoals die golden op 31 december 1994.   
-3.  In afwijking van artikel 4, derde lid, is het de in dat lid bedoelde persoon toegestaan om de in het eerste lid bedoelde medische hulpmiddelen uiterlijk tot 30 juni 2001 voorhanden te hebben of af te leveren indien met betrekking tot die middelen is voldaan aan de bij of krachtens de [wet](../../../../../wet/wet/op/de/medische/hulpmiddelen/BWBR0002697/README.md) gestelde voorschriften zoals die golden op 31 december 1994.    
+1.  In afwijking van artikel 4, eerste lid, is het de fabrikant tot 14 juni 1998 toegestaan om medische hulpmiddelen voorhanden te hebben of af te leveren indien met betrekking tot die middelen is voldaan aan de bij of krachtens de wet gestelde voorschriften zoals die golden op 31 december 1994.   
+2.   In afwijking van artikel 4, tweede lid, is het de in dat lid bedoelde persoon toegestaan om een systeem of behandelingspakket voorhanden te hebben of af te leveren dat bestaat uit de in het eerste lid bedoelde medische hulpmiddelen indien met betrekking tot die middelen is voldaan aan de bij of krachtens de wet gestelde voorschriften zoals die golden op 31 december 1994.   
+3.  In afwijking van artikel 4, derde lid, is het de in dat lid bedoelde persoon toegestaan om de in het eerste lid bedoelde medische hulpmiddelen uiterlijk tot 30 juni 2001 voorhanden te hebben of af te leveren indien met betrekking tot die middelen is voldaan aan de bij of krachtens de wet gestelde voorschriften zoals die golden op 31 december 1994.    
 4.   In afwijking van artikel 4, vierde lid, is het toegestaan om medische hulpmiddelen toe te passen die vóór 1 januari 1995 zijn afgeleverd of die overeenkomstig het eerste, tweede, of derde lid zijn afgeleverd.   
-5.   In afwijking van artikel 4 is het voorhanden hebben, afleveren en toepassen van koortsthermometers met kwikvulling en maximuminrichting voor het meten van de lichaamstemperatuur van mensen en dieren tot en met 30 juni 2004 toegestaan indien deze zijn vervaardigd volgens een model dat overeenkomstig [artikel 3 van het Algemeen EEG-IJkbesluit](../../../../../AMvB/algemeen/eeg-ijkbesluit/BWBR0003165/README.md) vóór 1 januari 1995 is toegelaten en waarvan de geldigheidsduur van de EEG-modelgoedkeuring nog niet is verstreken.   
+5.   In afwijking van artikel 4 is het voorhanden hebben, afleveren en voor het eerst toepassen van koortsthermometers met kwikvulling en maximuminrichting voor het meten van de lichaamstemperatuur van mensen en dieren tot en met 30 juni 2004 toegestaan indien deze zijn vervaardigd volgens een model dat overeenkomstig artikel 3 van het Algemeen EEG-IJkbesluit vóór 1 januari 1995 is toegelaten en waarvan de geldigheidsduur van de EEG-modelgoedkeuring nog niet is verstreken.   
 6.   Met betrekking tot medische hulpmiddelen als bedoeld in de voorgaande leden, waarop dit besluit niet wordt toegepast en waarop ingevolge één of meer wettelijke regelingen de CE-markering wordt aangebracht, worden op de bij die medische hulpmiddelen gevoegde documenten, handleidingen of gebruiksaanwijzingen de in het *Publikatieblad van de Europese Gemeenschappen* bekendgemaakte referenties van de aan die wettelijke regelingen ten grondslag liggende richtlijnen vermeld.  
 
 ###Artikel 26 

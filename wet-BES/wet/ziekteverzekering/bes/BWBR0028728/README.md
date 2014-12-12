@@ -12,15 +12,15 @@ a.  *Onze Minister:* Onze Minister van Sociale Zaken en Werkgelegenheid;
 
 b.  *werkgever:* iedere natuurlijke of rechtspersoon, die binnen het openbare lichaam Bonaire, Sint Eustatius of Saba één of meer werknemers arbeid doet verrichten, alsmede de natuurlijke of rechtspersoon die, gevestigd binnen het openbare lichaam Bonaire, Sint Eustatius of Saba, één of meer werknemers, die eveneens gevestigd zijn binnen het openbare lichaam Bonaire, Sint Eustatius of Saba, arbeid doet verrichten in het buitenland;  
 
-c.  *werknemer:* een natuurlijke persoon, die met toepassing van [artikel 2 van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) als werknemer wordt beschouwd omdat hij tot een inhoudingsplichtige in dienstbetrekking staat met uitzondering van: 
+c.  *werknemer:* een natuurlijke persoon, die met toepassing van artikel 2 van de Wet loonbelasting BES als werknemer wordt beschouwd omdat hij tot een inhoudingsplichtige in dienstbetrekking staat met uitzondering van: 
 
-1°. een werknemer, die als regel geen twaalf achtereenvolgende dagen, niet meegerekend zondagen, en daarmee op grond van de [Arbeidswet 2000 BES](../../../../../wet-BES/arbeidswet/2000/bes/BWBR0028202/README.md) gelijkgestelde dagen, in dienst van de werkgever is,  
+1°. een werknemer, die als regel geen twaalf achtereenvolgende dagen, niet meegerekend zondagen, en daarmee op grond van de Arbeidswet 2000 BES gelijkgestelde dagen, in dienst van de werkgever is,  
 
 2°. de kapitein en schepelingen op zeeschepen van Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba,  
 
 3°. degene, die in dienst is van een publiekrechtelijk lichaam en aan de voor hem geldende rechtspositieregelingen aanspraak op een uitkering bij ziekte kan ontlenen, en  
 
-4°. de bestuurder of commissaris, bedoeld in [artikel 3, tweede lid, onderdeel a, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md);   
+4°. de bestuurder of commissaris, bedoeld in artikel 3, tweede lid, onderdeel a, van de Wet loonbelasting BES;   
 
 d.  *behandelend geneeskundige:* de geneeskundige die op aanwijzing of met goedvinden van Onze Minster de werknemer onderzoekt of behandelt;  
 
@@ -28,7 +28,7 @@ e.  *controlerend geneeskundige:* de geneeskundige die als zodanig door Onze Min
 
 f.  *arbeidsongeschiktheid:* de toestand waarin de werknemer verkeert, die als gevolg van ziekte gedurende een etmaal of langer niet in staat is om zijn normale arbeid te verrichten of deze arbeid zo lang niet mag verrichten hetzij om een medisch noodzakelijk onderzoek mogelijk te maken hetzij om te voorkomen dat zijn genezing wordt belemmerd, dan wel om besmetting van anderen te voorkomen;  
 
-g.  *loon:* het loon, bedoeld in de [artikelen 6](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [9a van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md);  
+g.  *loon:* het loon, bedoeld in de artikelen 6 en 9a van de Wet loonbelasting BES;  
 
 h.*loon per dag van de werknemer voor wie een zesdaagse werkweek geldt:*
 
@@ -54,7 +54,7 @@ j.*loon per dag van een werknemer met een werkweek van minder dan vijf dagen:*
 
 3°. bij een maandloon: de waarde in het economisch verkeer van het loon per maand gedeeld door het aantal dagen per maand dat op grond van de arbeidsovereenkomst zou zijn gewerkt;    
 
-k.  *inkomen:* de belastbare som als bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md);  
+k.  *inkomen:* de belastbare som als bedoeld in artikel 24, eerste lid, van de Wet inkomstenbelasting BES;  
 
 l.  *inspecteur:* de bij regeling van Onze Minister van Financiën als zodanig aangewezen functionaris;  
 
@@ -65,7 +65,7 @@ m.  *ontvanger:* de bij regeling van Onze Minister van Financiën als zodanig aa
 
 ### Artikel  2  
 
-1.  Indien het loon geheel of gedeeltelijk bestaat uit huisvesting, verstrekkingen in natura, onderricht of geldelijke uitkeringen waarvan de grootte niet bij voorbaat vaststaat zoals provisie, commissie, tantième, fooien of vergoedingen voor aangenomen werk, bepalen werkgever en werknemer ter vaststelling van het loon per dag de gemiddelde waarde in het economisch verkeer daarvan met overeenkomstige toepassing van [artikel 6C van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md).   
+1.  Indien het loon geheel of gedeeltelijk bestaat uit huisvesting, verstrekkingen in natura, onderricht of geldelijke uitkeringen waarvan de grootte niet bij voorbaat vaststaat zoals provisie, commissie, tantième, fooien of vergoedingen voor aangenomen werk, bepalen werkgever en werknemer ter vaststelling van het loon per dag de gemiddelde waarde in het economisch verkeer daarvan met overeenkomstige toepassing van artikel 6C van de Wet loonbelasting BES.   
 2.  Indien sprake is van een uurloon en het aantal werkuren per week niet bij voorbaat vaststaat wordt het loon per dag vastgesteld aan de hand van het gemiddelde aantal werkuren per week in de periode van dertien weken voorafgaand aan de eerste dag waarop de werknemer ziek is geworden. 
 
 ####Uitkeringen
@@ -74,13 +74,13 @@ m.  *ontvanger:* de bij regeling van Onze Minister van Financiën als zodanig aa
 
 1.  De werknemer heeft in geval van ziekte op grond van deze wet tegenover Onze Minister recht op een uitkering.   
 2.  Met ziekte worden gelijkgesteld zwangerschap en bevalling van de vrouwelijke verzekerde.   
-3.  Met ziekte wordt tevens gelijkgesteld lichamelijk letsel als gevolg van een ongeval, tenzij de werknemer op grond daarvan recht heeft op ongevallengeld op grond van de [Wet ongevallenverzekering BES](../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md).  
+3.  Met ziekte wordt tevens gelijkgesteld lichamelijk letsel als gevolg van een ongeval, tenzij de werknemer op grond daarvan recht heeft op ongevallengeld op grond van de Wet ongevallenverzekering BES.  
 
 ####Geneeskundige behandeling en verpleging
 
 ### Artikel  5  
 
-1.  De werknemer die als gevolg van ziekte arbeidsongeschikt is, heeft recht op een uitkering in geld, ziekengeld genaamd, met ingang van de derde dag na die van de ziekmelding. Niettemin wordt over de dag van de ziekmelding en de twee daarop volgende dagen ziekengeld uitgekeerd, indien naar het oordeel van de behandelende geneeskundige de ziekte opneming in een ziekeninrichting noodzakelijk maakt. Het ziekengeld wordt over de bedoelde drie dagen eveneens uitgekeerd, indien de duur van de ziekte als gevolg van dezelfde ziekteoorzaak langer dan drie dagen bedraagt, ook wanneer geen opneming in een ziekeninrichting noodzakelijk is geweest. Ter zake van eenzelfde ziekteoorzaak vervalt dit recht twee jaar nadien, indien het betreft een arbeidsovereenkomst aangegaan voor onbepaalde tijd, ongeacht het voortduren van de arbeidsovereenkomst. Voor een arbeidsovereenkomst aangegaan voor bepaalde tijd vervalt dit recht na verloop van de periode waarvoor zij is aangegaan maar uiterlijk twee jaren na de dag van de ziektemelding wegens eenzelfde ziekteoorzaak. Indien een overeenkomst voor bepaalde tijd verlengd wordt, is het bepaalde met betrekking tot arbeidsovereenkomsten aangegaan voor onbepaalde tijd van toepassing. In geval van zwangerschap wordt de vrouwelijke arbeider geacht gedurende de duur van het zwangerschaps- en bevallingsverlof, bedoeld in [artikel 1614ca van het Burgerlijk Wetboek BES](../../../../../wet-BES/burgerlijk/wetboek/bes/boek/7a/BWBR0028752/README.md), arbeidsongeschikt te zijn.   
+1.  De werknemer die als gevolg van ziekte arbeidsongeschikt is, heeft recht op een uitkering in geld, ziekengeld genaamd, met ingang van de derde dag na die van de ziekmelding. Niettemin wordt over de dag van de ziekmelding en de twee daarop volgende dagen ziekengeld uitgekeerd, indien naar het oordeel van de behandelende geneeskundige de ziekte opneming in een ziekeninrichting noodzakelijk maakt. Het ziekengeld wordt over de bedoelde drie dagen eveneens uitgekeerd, indien de duur van de ziekte als gevolg van dezelfde ziekteoorzaak langer dan drie dagen bedraagt, ook wanneer geen opneming in een ziekeninrichting noodzakelijk is geweest. Ter zake van eenzelfde ziekteoorzaak vervalt dit recht twee jaar nadien, indien het betreft een arbeidsovereenkomst aangegaan voor onbepaalde tijd, ongeacht het voortduren van de arbeidsovereenkomst. Voor een arbeidsovereenkomst aangegaan voor bepaalde tijd vervalt dit recht na verloop van de periode waarvoor zij is aangegaan maar uiterlijk twee jaren na de dag van de ziektemelding wegens eenzelfde ziekteoorzaak. Indien een overeenkomst voor bepaalde tijd verlengd wordt, is het bepaalde met betrekking tot arbeidsovereenkomsten aangegaan voor onbepaalde tijd van toepassing. In geval van zwangerschap wordt de vrouwelijke arbeider geacht gedurende de duur van het zwangerschaps- en bevallingsverlof, bedoeld in artikel 1614ca van het Burgerlijk Wetboek BES, arbeidsongeschikt te zijn.   
 2.  Het ziekengeld bedraagt per dag 80% van het loon per dag van de werknemer. Voor zover het loon per dag meer heeft bedragen dan een door Onze Minister vastgesteld bedrag blijft het bij de toepassing van de eerste zin buiten aanmerking.   
 3.  Indien het loon met terugwerkende kracht is verhoogd, wordt ter bepaling van het ziekengeld met deze verhoging rekening gehouden vanaf het tijdstip dat de verhoging van het loon door de werkgever aan de werknemer is uitbetaald.   
 4.  De werknemer heeft geen recht op ziekengeld: 
@@ -131,7 +131,7 @@ f. indien hij de aanwijzingen van de controlerende geneeskundige, ook wanneer de
 
 g. indien hij zonder de toestemming van Onze Minister het eiland verlaat waar hem de uitkering wordt verstrekt;  
 
-h. indien en voor zoveel hij, met betrekking tot de ziekte, recht heeft op uitkering op grond van de [Wet ongevallenverzekering BES](../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md).   
+h. indien en voor zoveel hij, met betrekking tot de ziekte, recht heeft op uitkering op grond van de Wet ongevallenverzekering BES.   
 
 ### Artikel  7a  
 
@@ -142,7 +142,7 @@ In de gevallen dat de beëindiging of het verlies van het recht op uitkering van
 ### Artikel  8  
 
 1.  Ter zake van de kosten verbonden aan deze wet is een premie verschuldigd, die gezamenlijk wordt geheven met de zorgverzekeringspremie.   
-2.  De premie, bedoeld in het eerste lid, wordt geheven met overeenkomstige toepassing van [hoofdstuk III van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md), met dien verstande dat in plaats van «inhoudingsplichtige» telkens gelezen wordt «werkgever».   
+2.  De premie, bedoeld in het eerste lid, wordt geheven met overeenkomstige toepassing van hoofdstuk III van de Wet loonbelasting BES, met dien verstande dat in plaats van «inhoudingsplichtige» telkens gelezen wordt «werkgever».   
 3.  De premie wordt geheven naar een percentage van het loon van de werknemer.   
 4.  Het premiepercentage, bedoeld in het derde lid, wordt met ingang van elk kalenderjaar bij ministeriële regeling in overeenstemming met Onze Minister van Financiën voor de periode van één jaar vastgesteld.   
 5.  Indien het loon met terugwerkende kracht is verhoogd, wordt voor de berekening van de premie met deze verhoging rekening gehouden vanaf het tijdstip dat de verhoging van het loon door de werkgever aan de werknemer is uitbetaald.   
@@ -153,7 +153,7 @@ In de gevallen dat de beëindiging of het verlies van het recht op uitkering van
 
 ### Artikel  8a  
 
-Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing en invordering op grond van artikel 8 en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) van overeenkomstige toepassing.
+Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing en invordering op grond van artikel 8 en de invordering daarvan hoofdstuk VIII van de Belastingwet BES van overeenkomstige toepassing.
 
 ### Artikel  8h  
 
@@ -218,7 +218,7 @@ d. alle plaatsen, met uitzondering van woningen zonder de uitdrukkelijke toestem
 
 e. woningen of tot woning bestemde gedeelten van vaartuigen zonder de uitdrukkelijke toestemming van de bewoner binnen te treden.     
 3.  Zo nodig, wordt de toegang tot een plaats als bedoeld in het tweede lid, onderdeel d, verschaft met behulp van de sterke arm.   
-4.  Op het binnentreden in woningen of in tot woning bestemde gedeelten van vaartuigen als bedoeld in het tweede lid, onderdeel e, is [Titel X van het Derde Boek van het Wetboek van Strafvordering BES](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [156, tweede lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [157, tweede en derde lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [158, eerste lid, laatste zinsnede](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en [160, eerste lid](../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.   
+4.  Op het binnentreden in woningen of in tot woning bestemde gedeelten van vaartuigen als bedoeld in het tweede lid, onderdeel e, is Titel X van het Derde Boek van het Wetboek van Strafvordering BES van overeenkomstige toepassing, met uitzondering van de artikelen 155, vierde lid, 156, tweede lid, 157, tweede en derde lid, 158, eerste lid, laatste zinsnede, en 160, eerste lid, en met dien verstande dat de machtiging wordt verleend door de procureur-generaal.   
 5.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de taakuitoefening van de op grond van het eerste lid aangewezen functionarissen.   
 6.  Een ieder is verplicht aan de op grond van het eerste lid aangewezen functionarissen alle medewerking te verlenen die in het kader van de toezichtsuitoefening op grond van het tweede en derde lid wordt gevorderd.  
 
@@ -254,7 +254,7 @@ Een administratieve boete vervalt, indien degene aan wie de administratieve boet
 
 ### Artikel  15b  
 
-1.  Met de opsporing van bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) bedoelde ambtenaren, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.   
+1.  Met de opsporing van bij deze wet strafbaar gestelde feiten zijn, naast de in artikel 184 van het Wetboek van Strafvordering bedoelde ambtenaren, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.   
 2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ten aanzien van de functievervulling van de op grond van het eerste lid aangestelde functionarissen.  
 
 ####Overgangs- en slotbepalingen

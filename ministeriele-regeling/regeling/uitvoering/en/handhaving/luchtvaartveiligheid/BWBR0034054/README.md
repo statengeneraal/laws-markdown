@@ -23,7 +23,9 @@ In deze regeling wordt verstaan onder:
 
 *verordening (EU) nr. 748/2012:* verordening (EU) nr. 748/2012 van de Commissie van 3 augustus 2012 tot vaststelling van uitvoeringsvoorschriften inzake de luchtwaardigheid en milieucertificering van luchtvaartuigen en aanverwante producten, onderdelen en uitrustingsstukken, alsmede voor de certificering van ontwerp- en productieorganisaties (PB L224);
 
-*verordening (EU) nr. 965/2012:* verordening (EU) nr. 965/2012 van de Commissie van 5 oktober 2012 tot vaststelling van technische eisen en administratieve procedures voor vluchtuitvoering, overeenkomstig Verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad.  
+*verordening (EU) nr. 965/2012:* verordening (EU) nr. 965/2012 van de Commissie van 5 oktober 2012 tot vaststelling van technische eisen en administratieve procedures voor vluchtuitvoering, overeenkomstig Verordening (EG) nr. 216/2008 van het Europees Parlement en de Raad; 
+
+*verordening (EU) nr. 923/2012:* uitvoeringsverordening (EU) nr. 923/2012 van de Commissie van 26 september 2012 tot vaststelling van gemeenschappelijke luchtverkeersregels en operationele bepalingen betreffende luchtvaartnavigatiediensten en -procedures en tot wijziging van Uitvoeringsverordening (EU) nr. 1035/2011 en Verordeningen (EG) nr. 1265/2007, (EG) nr. 1794/2006, (EG) nr. 730/2006, (EG) nr. 1033/2006 en (EU) nr. 255/2010 (PbEU 2012, L281).  
 
 ### §  2  
 
@@ -68,7 +70,9 @@ b. artikel 6, eerste en derde lid, van de basisverordening juncto artikel 2, bij
 
 c. artikel 7, eerste, tweede en zesde lid, van de basisverordening juncto artikel 3, bijlage 1, paragrafen FCL.050, FCL.065, FCL.070 en FCL.075, of bijlage IV, paragraaf MED.020, van verordening (EU) nr. 1178/2011;  
 
-d. artikel 8 quater, eerste, tweede en tiende lid, van de basisverordening juncto artikel 1, vijfde lid, of artikel 17, van verordening (EU) nr. 805/2011.     
+d. artikel 8 quater, eerste, tweede en tiende lid, van de basisverordening juncto artikel 1, vijfde lid, of artikel 17, van verordening (EU) nr. 805/2011;  
+
+e. paragraaf SERA.2005, paragraaf SERA.3115, paragraaf SERA.3120, paragraaf SERA.3130, paragraaf SERA.3135, paragraaf SERA.3205, paragraaf SERA.3210, paragraaf SERA.3215, paragraaf SERA.3220, paragraaf SERA.3230, paragraaf SERA.3301, paragraaf SERA.3401, paragraaf SERA.4005, paragraaf SERA.4010, paragraaf SERA.4015, paragraaf SERA.4020, paragraaf SERA.5005, onderdelen a tot en met d, f, h en i, paragraaf SERA.5015, paragraaf SERA.5020, paragraaf SERA.5025, onderdelen b en c, SERA.6001, paragraaf SERA.8020, paragraaf SERA.8025, paragraaf SERA.8030, paragraaf SERA.8035, paragraaf SERA.11001 en paragraaf SERA.11015 van de verordening (EU) nr. 923/2012.    
 2.  Overtreding van de voorschriften, bedoeld in het eerste lid, wordt aangemerkt als een overtreding.  
 
 ### Artikel  3.2  

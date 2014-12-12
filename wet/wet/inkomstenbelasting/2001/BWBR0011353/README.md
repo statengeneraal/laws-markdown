@@ -5417,6 +5417,14 @@ Bij toepassing van artikel 39d van de Wet op de loonbelasting 1964 zijn de artik
 
 Met betrekking tot op 31 december 2013 bestaande stamrechtspaarrekeningen en stamrechtbeleggingsrechten als bedoeld in artikel 11a van de Wet op de loonbelasting 1964, zoals dat op 31 december 2013 luidde, blijft artikel 9.2, vierde lid, zoals dat op 31 december 2013 luidde, met overeenkomstige toepassing van artikel 39f, eerste en tweede lid, van de Wet op de loonbelasting 1964, van toepassing. 
 
+### Artikel  10a.14  
+
+####Overgangsbepaling in verband met de wijziging van de Wegenverkeerswet 1994 met ingang van 1 januari 2014
+
+Treedt in werking per 01-01-2015 
+
+Met betrekking tot auto’s waarvan het kenteken vóór 1 januari 2014 op naam is gesteld, dient, waar in artikel 3.20 zestiende lid, onderdeel a, achttiende lid of eenentwintigste lid, wordt gesproken over de eerste tenaamstelling van de auto in het kentekenregister, te worden uitgegaan van de eerste tenaamstelling van het kenteken van de auto in het kentekenregister. 
+
 ### Hoofdstuk  10b  
 
 #### *Horizonbepaling* 

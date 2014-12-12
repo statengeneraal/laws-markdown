@@ -31,7 +31,7 @@ c) The Government of the Kingdom of the Netherlands shall endeavour to assist th
 
 10.The Government of the State of Kuwait may at any time request the withdrawal of the Netherlands Forces from Kuwait. The Government of the Kingdom of the Netherlands reserves the right to withdraw the Netherlands Forces at any time after notifying the Government of the State of Kuwait.
 
-11.This Agreement shall enter into force for a period of twelve months unless either Party notifies the other of its intention of terminating the Agreement before its expiration by a period of six months but not to affect paragraph 5 which shall be implemented on any matter which may occur from executing the Agreement.
+11.This Agreement shall enter into force for a period of twelve months, to be renewed automatically, unless either Party notifies the other of its intention of terminating the Agreement before its expiration by a period of six months but not to affect paragraph 5 which shall be implemented on any matter which may occur from executing the Agreement.
 
 12.Any dispute between the Parties arising out of the interpretation or implementation of this Agreement shall be settled exclusively by the Parties through consultations and negotiations.
 
@@ -71,7 +71,7 @@ c. De Regering van het Koninkrijk der Nederlanden streeft ernaar bijstand te ver
 
 10.De Regering van de Staat Koeweit kan te allen tijde verzoeken om terugtrekking van de Nederlandse strijdkrachten uit Koeweit. De Regering van het Koninkrijk der Nederlanden behoudt zich het recht voor de Nederlandse strijdkrachten te allen tijde terug te trekken na de Regering van de Staat Koeweit daarvan in kennis te hebben gesteld.
 
-11.Dit Verdrag treedt in werking voor een tijdvak van twaalf maanden, tenzij een van de Partijen de andere Partij in kennis stelt van haar voornemen het Verdrag voor het verstrijken van deze termijn te beëindigen, zulks met inachtneming van een opzegtermijn van zes maanden; de opzegging laat punt 5 evenwel onverlet, dat zal worden toegepast voor elke aangelegenheid die kan voortvloeien uit de uitvoering van dit Verdrag.
+11.De tekst van de vertaling is niet beschikbaar.
 
 12.Geschillen tussen de Partijen die voortvloeien uit de interpretatie of uitvoering van dit Verdrag worden uitsluitend door middel van overleg of onderhandelingen tussen Partijen beslecht.
 

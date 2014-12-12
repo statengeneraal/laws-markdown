@@ -3,20 +3,25 @@
 ##Regeling van de Minister van Verkeer en Waterstaat en de Minister van Defensie houdende regels omtrent de deelname van valschermen aan het luchtverkeer (Regeling valschermspringen 2010)
 
 De Minister van Verkeer en Waterstaat en de Minister dan Defensie,  
-Gelet op de [artikelen 1a, derde lid](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), [3, tweede lid](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), en [44, vierde lid, van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);
+Gelet op de artikelen 1a, derde lid, 3, tweede lid, en 44, vierde lid, van het Luchtverkeersreglement;
 Besluiten:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder:  *cluster:* groep van valschermspringgebieden als bedoeld in de bijlage bij deze regeling;  *doelgebied*: gebied waarin de valschermspringer beoogt neer te komen;  *incidenteel valschermspringgebied*: valschermspringgebied dat niet is opgenomen in de lijst van valschermspringgebieden, bedoeld in de bijlage bij deze regeling;  *klimgebied*: kolom luchtruim in de vorm van een cilinder met een straal van 9,26 km rond het middelpunt van het doelgebied en een hoogte gelijk aan de voorgenomen springhoogte in het luchtruim;  *NOTAM:* bericht als bedoeld in [artikel 1 van de Regeling Burgerluchtvaartinlichtingen](../../../../../ministeriele-regeling/regeling/burgerluchtvaartinlichtingen/BWBR0010154/README.md) (Notice to Airmen);  *valscherm*: scherm dat dient om de daalsnelheid van een persoon zodanig te beperken, dat deze veilig het aardoppervlak kan bereiken;  *valschermspringen*: uit een zich in de lucht bevindend luchtvaartuig springen met een valscherm;  *valschermspringgebied*: kolom luchtruimte in de vorm van een cilinder met een straal van 3,7 km rond het middelpunt van het doelgebied en een hoogte die ten minste gelijk is aan de voorgenomen springhoogte;  *vast valschermspringgebied*: valschermspringgebied opgenomen in de lijst van valschermspringgebieden, bedoeld in de bijlage bij deze regeling. 
+In deze regeling wordt verstaan onder:  *cluster:* groep van valschermspringgebieden als bedoeld in de bijlage bij deze regeling;  *doelgebied*: gebied waarin de valschermspringer beoogt neer te komen;  *incidenteel valschermspringgebied*: valschermspringgebied dat niet is opgenomen in de lijst van valschermspringgebieden, bedoeld in de bijlage bij deze regeling;  *klimgebied*: kolom luchtruim in de vorm van een cilinder met een straal van 9,26 km rond het middelpunt van het doelgebied en een hoogte gelijk aan de voorgenomen springhoogte in het luchtruim;  *NOTAM:* bericht als bedoeld in artikel 1 van de Regeling Burgerluchtvaartinlichtingen (Notice to Airmen);  *valscherm*: scherm dat dient om de daalsnelheid van een persoon zodanig te beperken, dat deze veilig het aardoppervlak kan bereiken;  *valschermspringen*: uit een zich in de lucht bevindend luchtvaartuig springen met een valscherm;  *valschermspringgebied*: kolom luchtruimte in de vorm van een cilinder met een straal van 3,7 km rond het middelpunt van het doelgebied en een hoogte die ten minste gelijk is aan de voorgenomen springhoogte;  *vast valschermspringgebied*: valschermspringgebied opgenomen in de lijst van valschermspringgebieden, bedoeld in de bijlage bij deze regeling. 
+
+### Artikel  1a  
+
+Deze regeling berust op de artikelen 5.10, eerste lid, van de Wet luchtvaart en 12 van het Besluit luchtverkeer 2014. 
+
+### Artikel  1b  
+
+1.  Het valscherm verleent voorrang aan vliegtuigen, helikopters, zweeftoestellen, vrije ballonen en luchtschepen.   
+2.  In alle overige gevallen dat twee luchtvaartuigen kruisen op of omstreeks hetzelfde niveau, verleent het luchtvaartuig dat het andere aan zijn rechterzijde heeft voorrang.  
 
 ### Artikel  2  
 
-Deze regeling is niet van toepassing op: 
-
-a. valschermspringen door de krijgsmacht;  
-
-b. het gebruik van een valscherm in geval van nood.   
+Deze regeling is niet van toepassing op valschermspringen door de krijgsmacht. 
 
 ### Artikel  3  
 
@@ -26,16 +31,16 @@ a. binnen een vast valschermspringgebied onder de voorwaarden, bedoeld in artike
 
 b. na toestemming van de gezagvoerder van het luchtvaartuig waaruit gesprongen wordt;  
 
-c. binnen de daglichtperiode, zoals gepubliceerd in de in [artikel 60, onder a, van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) bedoelde luchtvaartgids, en  
+c. binnen de daglichtperiode, bekendgemaakt in de luchtvaartgids, en  
 
-d. wanneer het vliegzicht en de minimumafstand tot de wolken voldoen aan de minimumwaarden voor VFR-vluchten die gelden in het betreffende deel van het luchtruim, bepaald bij of krachtens [artikel 42 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).     
+d. wanneer het vliegzicht en de minimumafstand tot de wolken voldoen aan de minimumwaarden voor VFR-vluchten die gelden in het betreffende deel van het luchtruim, bepaald krachtens artikel 17 van het Besluit luchtverkeer 2014.     
 2.  De Minister van Verkeer en Waterstaat kan ontheffing verlenen van het eerste lid, onderdeel c. Aan de ontheffing kunnen voorschriften en beperkingen worden verbonden.  
 
 ### Artikel  4  
 
 1.  Voor het gebruik van een vast valschermspringgebied of een incidenteel valschermspringgebied gelden de volgende voorwaarden voor het luchtvaartuig waaruit gesprongen wordt: 
 
-a. de vlucht wordt uitgevoerd als IFR-vlucht binnen luchtruim klasse A, tenzij een vrijstelling of ontheffing als bedoeld in [artikel 44 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) is verleend, en als gecontroleerde VFR-vlucht binnen luchtruim klasse B, C, D of E;  
+a. de vlucht wordt uitgevoerd als IFR-vlucht binnen luchtruim klasse A, tenzij de vlucht wordt uitgevoerd in een door de Minister van Infrastructuur en Milieu aangewezen gebied met beperkingen als bedoeld in artikel 5.10, eerste lid, van de Wet luchtvaart, en als gecontroleerde VFR-vlucht binnen luchtruim klasse B, C, D of E;  
 
 b. voor aanvang van de vlucht is een voorlopige klaring aangevraagd bij de betrokken luchtverkeersleidingsdienst en voor het binnenvliegen van het betrokken luchtruim is een definitieve klaring verkregen;  
 
@@ -80,24 +85,23 @@ d. het valschermspringgebied en het klimgebied liggen niet binnen de naderingslu
 
 ### Artikel  6  
 
-1.  Voor het uitvoeren van vluchten van en naar vaste valschermspringgebieden wordt vrijstelling verleend van het verbod in [artikel 44, eerste lid, onderdeel b, van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), indien: 
+1.  Als gebieden met beperkingen worden aangewezen de klimgebieden van de vaste valschermspringgebieden die zijn opgenomen in de bijlage behorende bij deze regeling. Deze gebieden gelden als gebieden met beperkingen, gedurende de in de bijlage gespecificeerde tijdstippen en voor zover die gebieden in gebruik zijn als klimgebied door een luchtvaartuig ten behoeve van valschermspringen.   
+2.  IFR-vluchten zijn binnen de gebieden, bedoeld in het eerste lid, toegestaan.   
+3.  VFR-vluchten zijn onder de volgende voorwaarden toegestaan binnen de gebieden, bedoeld in het eerste lid: 
 
-a. de betrokken luchtverkeersleidingsdienst van oordeel is dat het aanbod van het luchtverkeer in het luchtruim met klasse A dit toelaat,  
+a. de betrokken luchtverkeersleidingsdienst is van oordeel dat het aanbod van het luchtverkeer binnen het betrokken gebied het toelaat;  
 
-b. het vliegzicht minstens 8 km bedraagt en minstens 1500 meter horizontaal vrij van wolken wordt gevlogen met continu zicht op grond of water, waarbij het bepaalde bij of krachtens [artikel 42 van het Luchtverkeersreglement](../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) van overeenkomstige toepassing is, en  
+b. voor contact met de grond is een tweede radioset aanwezig;  
 
-c. voor contact met de grond een tweede radioset aanwezig is.     
-2.  Aan de vrijstelling, bedoeld in het eerste lid, zijn de volgende voorwaarden verbonden: 
+c. de vlucht wordt uitgevoerd als een gecontroleerde VFR-vlucht;  
 
-a. de vlucht wordt uitgevoerd als een gecontroleerde VFR-vlucht,  
+d. de gezagvoerder van het betrokken luchtvaartuig onderhoudt voortdurend tweezijdig radiocontact met de betrokken luchtverkeersdienst, tenzij anders aangegeven door deze dienst;  
 
-b. de gezagvoerder van het betrokken luchtvaartuig onderhoudt voortdurend tweezijdig radiocontact met de betrokken luchtverkeersdienst, tenzij anders aangegeven door deze dienst,  
+e. de SSR-transponder wordt ingesteld op de code, verkregen van de betrokken luchtverkeersleidingsdienst, en  
 
-c. de SSR-transponder wordt ingesteld op de code zoals deze is verkregen van de betrokken luchtverkeersleidingsdienst, en  
+f. indien de radioverbinding tussen het luchtvaartuig en de luchtverkeersdienst is verbroken: 
 
-d. indien de radioverbinding tussen het luchtvaartuig en de luchtverkeersdienst is verbroken: 
-
-1°. worden geen valschermsprongen uitgevoerd,  
+1°. worden geen valschermsprongen uitgevoerd;  
 
 2°. wordt de transpondercode 7600 ingesteld, en  
 
@@ -105,7 +109,7 @@ d. indien de radioverbinding tussen het luchtvaartuig en de luchtverkeersdienst 
 
 ### Artikel  7  
 
-De [Regeling valschermspringen](../../../../../ministeriele-regeling/regeling/valschermspringen/BWBR0006346/README.md) wordt ingetrokken. 
+De Regeling valschermspringen wordt ingetrokken. 
 
 ### Artikel  8  
 
@@ -126,17 +130,16 @@ E. van Middelkoop
 
 ### Bijlage  
 
-####Vaste valschermspringgebieden
+####behorende bij artikel 1  en artikel 6, eerste lid , van de Regeling valschermspringen 2010
 
 | Locatie  | Maximale springhoogte  | Coördinaten  | Toegestaan tijdstip  |
 |:---|:---|:---|:---|
-| Ameland  | FL 090  | 53°27'06"NB 005°40'38"OL  | 01 APR-31 OCT  during AD OPR HR  |
+| Ameland  | FL 090  | 53°27'06"NB 005°40'38"OL  | 01 APR-31 OCT  During AD OPR HR  |
 | Echten  | FL 130  | 52°43'56"NB 006°25'57"OL  | Daily UDP  |
 | Eelde  | FL 130  | 53°07'30"NB 006°35'00"OL  | SAT, SUN, HOL: begin UDP-1900 (1800)  During summertime FRI: 1500-1800  |
 | Hoogeveen  | FL 150  | 52°43'51"NB 006°30'58"OL  | During AD OPR HR  |
 | Leusderheide  | FL 130  | 52°06'14"NB 005°20'34"OL  | Daily 0800-1600 (0700-1500)  |
 | Rhoon  | FL 120  | 51°51'08"NB 004°26'10"OL  | Daily UDP  |
-| Regte Heide  | FL 120  | 51°30'45"NB 005°01'40"OL  | MON-FRI: 0800-1600 (0700-1500)  |
 | Spier  | FL 130  | 52°48'01"NB 006°28'19"OL  | Daily UDP  |
 | Teuge  | FL 130  | 52°14'41"NB 006°02'48"OL  | MON-FRI: 0700-1900 (0600-1800)  SAT, SUN, HOL: 0800-1900 (0700-1800)  |
 | Texel  | FL 150  | 53°06'55"NB 004°50'01"OL  | Daily UDP  |
@@ -144,18 +147,17 @@ E. van Middelkoop
 | Oostwold  | FL 150  | 53°12'36"NB 007°02'04"OL  | MON-FRI: 0900-1900 (0800-1800)  SAT, SUN, HOL: 0900 (0800)-end UDP  |
 | Winde  | FL 130  | 53°07'38"NB 006°31'51"OL  | SAT, SUN, HOL: begin UDP-1900 (1800)  |
 | Cluster Noord-Brabant  | --- | --- | --- |
-| Etten-Leur  | FL 100  | 51°37'NB 004°36'OL  | Daily UDP  |
 | Rijsbergen  | FL 100  | 51°31'NB 004°41'OL  | Daily UDP  |
-| Wernhout  | FL 100  | 51°27'NB 004°38'OL  | Daily UDP  |
+| Seppe Airport  | FL 100  | 51°33'NB 004°33'OL  | Daily UDP  |
 | Schijf  | FL 100  | 51°29'NB 004°34'OL  | Daily UDP  |
 | Oud Gastel  | FL 100  | 51°34'NB 004°32'OL  | Daily UDP  |
 | Cluster Zeeland  | --- | --- | --- |
-| ’s-Heer Arendskerke  | FL 100  | 51°29'56" NB 003°47'07" OL  | Daily UDP  |
-| Oud Sabbinge  | FL 100  | 51°31'24" NB 003°47'03" OL  | Daily UDP  |
-| Zuid v. Midden-Zeeland  | FL 100  | 51°30'26" NB 003°44'37" OL  | Daily UDP  |
+| ‘s-Heer Arendskerke  | FL 100  | 51°29'56"NB 003°47'07" OL  | Daily UDP  |
+| Oud Sabbinge  | FL 100  | 51°31'24"NB 003°47'03" OL  | Daily UDP  |
+| Zuid v. Midden-Zeeland  | FL 100  | 51°30'26"NB 003°44'37" OL  | Daily UDP  |
 | Cluster Utrecht  | --- | --- | --- |
-| Baarn  | FL 60  | 52°12'30"NB 005°19'00"OL  | MON-SAT: 0700 (0600)-end UDP  SUN + HOL: 1000-1700 (0900-1600)  |
-| Hilversum  | FL 60  | 52°11'31"NB 005°08'49"OL  | MON-SAT: 0700 (0600)-end UDP  SUN, HOL: 1000-1700 (0900-1600)  |
-| Westbroek  | FL 60  | 52°08'08"NB 005°07'51"OL  | MON-FRI: 0700-1900 (0600-1800)  SAT : 0700 (0600)-end UDP  SUN, HOL: 1100-1700 (1000-1600)  |
-| Wijk bij Duurstede  | FL 60  | 51°59'15"NB 005°18'07"OL  | SAT: 0700 (0600)-end UDP  SUN, HOL: 1000 (0900)-end UDP max 1700 (1600)  |
+| Baarn  | FL 060  | 52°12'30"NB 005°19'00"OL  | MON-SAT: 0700 (0600)-end UDP  SUN + HOL: 1000-1700 (0900-1600)  |
+| Hilversum  | FL 060  | 52°11'31"NB 005°08'49"OL  | MON-SAT: 0700 (0600)-end UDP  SUN, HOL: 1000-1700 (0900-1600)  |
+| Westbroek  | FL 060  | 52°08'08"NB 005°07'51"OL  | MON-FRI: 0700-1900 (0600-1800)  SAT : 0700 (0600)-end UDP  SUN, HOL: 1100-1700 (1000-1600)  |
+| Wijk bij Duurstede  | FL 060  | 51°59'15"NB 005°18'07"OL  | SAT: 0700 (0600)-end UDP  SUN, HOL: 1000 (0900)-end UDP max 1700 (1600)  |
 

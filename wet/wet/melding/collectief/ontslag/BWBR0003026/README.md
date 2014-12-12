@@ -18,9 +18,9 @@ In deze wet wordt verstaan onder:
 
 a.  *Onze Minister*, Onze Minister van Sociale Zaken en Werkgelegenheid;   
 
-b.  *werkgever* en *werknemer:* partijen bij een arbeidsovereenkomst als bedoeld in [artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md);   
+b.  *werkgever* en *werknemer:* partijen bij een arbeidsovereenkomst als bedoeld in artikel 610, eerste lid, van Boek 7 van het Burgerlijk Wetboek;   
 
-c. bevoegd gezag: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md) dan wel een organisatie uit het bedrijfsleven waaraan door Onze Minister op grond van [artikel 32 van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md) de bevoegdheid tot het verlenen van toestemming krachtens [artikel 6, eerste lid, van dat Besluit](../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md) is overgedragen;  
+c. bevoegd gezag: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen dan wel een organisatie uit het bedrijfsleven waaraan door Onze Minister op grond van artikel 32 van het Buitengewoon Besluit Arbeidsverhoudingen 1945 de bevoegdheid tot het verlenen van toestemming krachtens artikel 6, eerste lid, van dat Besluit is overgedragen;  
 
 d.  *werkgebied:* een door Onze Minister vastgesteld gebied.    
 
@@ -28,7 +28,7 @@ d.  *werkgebied:* een door Onze Minister vastgesteld gebied.
 
 1.  Deze wet is niet van toepassing op het beëindigen van: 
 
-a. een arbeidsverhouding als bedoeld in [artikel 2 van het Buitengewoon Besluit Arbeidsverhoudingen 1945](../../../../../../KB/buitengewoon/besluit/arbeidsverhoudingen/1945/BWBR0002014/README.md);  
+a. een arbeidsverhouding als bedoeld in artikel 2 van het Buitengewoon Besluit Arbeidsverhoudingen 1945;  
 
 b. een arbeidsovereenkomst uitsluitend om redenen die de persoon van de werknemer betreffen;  
 
@@ -66,7 +66,7 @@ e. de wijze waarop hij voornemens is de arbeidsovereenkomsten met zijn werknemer
 
 a. of voor de onderneming waarin de betrokken werknemers werkzaam zijn, een ondernemingsraad is ingesteld;   
 
-b. of het voornemen van de werkgever verband houdt met een besluit als bedoeld in [artikel 25, eerste lid, van de Wet op de ondernemingsraden](../../../../../../wet/wet/op/de/ondernemingsraden/BWBR0002747/README.md); en zo ja,   
+b. of het voornemen van de werkgever verband houdt met een besluit als bedoeld in artikel 25, eerste lid, van de Wet op de ondernemingsraden; en zo ja,   
 
 c. het tijdstip waarop de ondernemingsraad over het betrokken besluit is of zal worden geraadpleegd, dan wel daarvan in kennis gesteld en geraadpleegd over de uitvoering daarvan.      
 5.   De werkgever houdt het bevoegd gezag op de hoogte van de raadpleging van de belanghebbende verenigingen van werknemers en van de ondernemingsraad.    
@@ -78,7 +78,7 @@ Indien bij een melding aan het bevoegd gezag de ingevolge artikel 4, eerste t/m 
 
 ### Artikel  5a  
 
-1.  De arbeidsovereenkomst kan niet eerder door de werkgever worden opgezegd, op verzoek van de werkgever door de rechter worden ontbonden op grond van veranderingen in de omstandigheden als bedoeld in [artikel 685 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) of op initiatief van de werkgever door middel van een beëindigingsovereenkomst worden beëindigd, dan een maand nadat het voornemen daartoe is gemeld, tenzij uit een verklaring van de belanghebbende verenigingen van werknemers blijkt dat zij zijn geraadpleegd en dat zij zich met de beëindigingen kunnen verenigen.   
+1.  De arbeidsovereenkomst kan niet eerder door de werkgever worden opgezegd, op verzoek van de werkgever door de rechter worden ontbonden op grond van veranderingen in de omstandigheden als bedoeld in artikel 685 van Boek 7 van het Burgerlijk Wetboek of op initiatief van de werkgever door middel van een beëindigingsovereenkomst worden beëindigd, dan een maand nadat het voornemen daartoe is gemeld, tenzij uit een verklaring van de belanghebbende verenigingen van werknemers blijkt dat zij zijn geraadpleegd en dat zij zich met de beëindigingen kunnen verenigen.   
 2.  Het eerste lid is niet van toepassing indien een arbeidsovereenkomst wordt beëindigd ten gevolge van het faillissement van de werkgever of toepassing ten aanzien van hem van de schuldsaneringsregeling natuurlijke personen.  
 
 ### Artikel  6  
@@ -93,7 +93,7 @@ b. uit een schriftelijke verklaring van de werkgever blijkt dat de belanghebbend
 
 ### Artikel  6a  
 
-1.  Een verzoek van de werkgever om de arbeidsovereenkomst met een werknemer om bedrijfseconomische redenen te ontbinden op grond van veranderingen in de omstandigheden, bedoeld in [artikel 685 van Boek 7 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) kan de rechter slechts inwilligen, indien hij zich ervan heeft vergewist of het verzoek verband houdt met een voorgenomen beëindiging als bedoeld in artikel 3, eerste lid, en zo ja, of bij het verzoekschrift een schriftelijke verklaring is gevoegd van: 
+1.  Een verzoek van de werkgever om de arbeidsovereenkomst met een werknemer om bedrijfseconomische redenen te ontbinden op grond van veranderingen in de omstandigheden, bedoeld in artikel 685 van Boek 7 van het Burgerlijk Wetboek kan de rechter slechts inwilligen, indien hij zich ervan heeft vergewist of het verzoek verband houdt met een voorgenomen beëindiging als bedoeld in artikel 3, eerste lid, en zo ja, of bij het verzoekschrift een schriftelijke verklaring is gevoegd van: 
 
 a. het bevoegd gezag waaruit blijkt dat aan de verplichting tot melding is voldaan; en  
 

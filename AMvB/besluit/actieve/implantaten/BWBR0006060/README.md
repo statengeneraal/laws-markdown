@@ -56,7 +56,8 @@ n. *klinische gegevens*: uit het gebruik van een hulpmiddel voortkomende informa
 – in de wetenschappelijke literatuur beschreven klinisch onderzoek van of andere studies over een soortgelijk hulpmiddel waarvan de gelijkwaardigheid met het hulpmiddel in kwestie kan worden aangetoond, of  
 
 – gepubliceerde of ongepubliceerde verslagen over andere klinische ervaringen met het hulpmiddel in kwestie of met een soortgelijk hulpmiddel waarvan de gelijkwaardigheid met het hulpmiddel in kwestie kan worden aangetoond.        
-2.   Onder een fabrikant wordt niet begrepen een persoon die, niet zijnde een fabrikant van een actief implantaat in de zin van het eerste lid, onder *g*, 1°, actieve implantaten die reeds in de handel zijn gebracht, assembleert voor een individuele patiënt, of aanpast overeenkomstig hun bestemming.   
+2.   Onder een fabrikant wordt niet begrepen een persoon die, niet zijnde een fabrikant van een actief implantaat in de zin van het eerste lid, onder *g*, 1°, actieve implantaten die reeds in de handel zijn gebracht, assembleert voor een individuele patiënt, of aanpast overeenkomstig hun bestemming.    
+3.  Een wijziging van bijlage 2, 3, 4, 5, 6 of 7 van de richtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijziging uitvoering moet zijn gegeven. 
 
 ### Artikel  2  
 

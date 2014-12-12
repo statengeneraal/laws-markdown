@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 8 januari 2010, nr. DL/A/182197, houdende regels voor aanvullende personele bekostiging voor de versterking van de functiemix van leraren in het voortgezet onderwijs in de Randstadregio’s 2010–2012 (Regeling versterking van functiemix leraren VO in de Randstadregio’s 2010–2012)
 
 De Minister van Onderwijs, Cultuur en Wetenschap,  
-Gelet op [artikel 85a van de Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+Gelet op artikel 85a van de Wet op het voortgezet onderwijs;
 Besluit:     
 ### 1  
 
@@ -17,21 +17,21 @@ In deze regeling wordt verstaan onder:
 
 a.  *minister:* de Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van de landbouw en de natuurlijke omgeving, de Minister van Economische Zaken, Landbouw en Innovatie;  
 
-b.  *wet:* [Wet op het voortgezet onderwijs](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+b.  *wet:* Wet op het voortgezet onderwijs;  
 
-c.  *voortgezet onderwijs:* het onderwijs, bedoeld in de [wet](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+c.  *voortgezet onderwijs:* het onderwijs, bedoeld in de wet;  
 
-d.  *school:* een school of scholengemeenschap voor voortgezet onderwijs zoals bedoeld in [artikel 1 van de wet](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), die wordt bekostigd op grond van de [wet](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+d.  *school:* een school of scholengemeenschap voor voortgezet onderwijs zoals bedoeld in artikel 1 van de wet, die wordt bekostigd op grond van de wet;  
 
 e.  *bevoegd gezag:* het bevoegd gezag van een school;  
 
-f.  *vestiging:* een hoofdvestiging, nevenvestiging of tijdelijke nevenvestiging van een school, zoals bedoeld in [artikelen 16](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [65, derde lid van de wet](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en waarvoor leerlingen worden geteld ten behoeve van de bekostiging, op grond van [artikel 14a, eerste lid, van het Bekostigingsbesluit W.V.O.](../../../../../../../../../../../../AMvB/bekostigingsbesluit/wvo/BWBR0005672/README.md);  
+f.  *vestiging:* een hoofdvestiging, nevenvestiging of tijdelijke nevenvestiging van een school, zoals bedoeld in artikelen 16 en 65, derde lid van de wet en waarvoor leerlingen worden geteld ten behoeve van de bekostiging, op grond van artikel 14a, eerste lid, van het Bekostigingsbesluit W.V.O.;  
 
 g.  *Randstadregio’s:* verzameling van gemeenten op peildatum 1 oktober 2013 als opgenomen in bijlage 1 bij deze regeling;  
 
-h.  *leraren:* in [artikel 84, eerste lid, onder b, van de wet](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) genoemde personeelscategorie;  
+h.  *leraren:* in artikel 84, eerste lid, onder b, van de wet genoemde personeelscategorie;  
 
-i.  *personeelsgegevens:* personeelsgegevens zoals bedoeld in bijlage B van het Convenant Leerkracht van Nederland en [bijlage 1 van het Besluit Informatievoorziening WVO](../../../../../../../../../../../../AMvB/besluit/informatievoorziening/wvo/BWBR0008948/README.md);  
+i.  *personeelsgegevens:* personeelsgegevens zoals bedoeld in bijlage B van het Convenant Leerkracht van Nederland en bijlage 1 van het Besluit Informatievoorziening WVO;  
 
 j.  *Convenant Leerkracht van Nederland:* tripartiete afspraken tussen de minister en de sociale partners in het primair en voortgezet onderwijs, zoals vastgelegd op 1 juli 2008 (Stcrt. 2009, 42);  
 
@@ -68,14 +68,14 @@ Deze aanvullende bekostiging wordt slechts verstrekt aan bevoegde gezagsorganen 
 
 1.  Voor deze aanvullende bekostiging is in 2014 in totaal een bedrag van € 61,3 miljoen beschikbaar.   
 2.  De verstrekking van de aanvullende personele bekostiging vindt plaats per kalenderjaar.   
-3.  De aanvullende personele bekostiging wordt over de daarvoor in aanmerking komende bevoegde gezagsorganen verdeeld naar rato van het budget dat zij, met inachtneming van de artikelen [84](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [85 van de wet](../../../../../../../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), in de lumpsumbekostiging aan personele bekostiging ontvangen voor leraren op scholen of vestigingen in de Randstadregio’s. De omvang van dit budget wordt bepaald op basis van het aandeel leerlingen dat les ontvangt op vestigingen binnen de Randstadregio’s ten opzichte van het totaal aantal leerlingen op een school.   
+3.  De aanvullende personele bekostiging wordt over de daarvoor in aanmerking komende bevoegde gezagsorganen verdeeld naar rato van het budget dat zij, met inachtneming van de artikelen 84 en 85 van de wet, in de lumpsumbekostiging aan personele bekostiging ontvangen voor leraren op scholen of vestigingen in de Randstadregio’s. De omvang van dit budget wordt bepaald op basis van het aandeel leerlingen dat les ontvangt op vestigingen binnen de Randstadregio’s ten opzichte van het totaal aantal leerlingen op een school.   
 4.  De aanvullende bekostiging van een in aanmerking komende school voor het jaar 2014 wordt berekend op grond van de volgende formule: X<sub>i</sub>=A * (B<sub>i</sub> * LL<sub>ri</sub>/ LL<sub>i</sub>) / Σ(B<sub>i</sub> * LL<sub>ri</sub>/ LL<sub>i</sub>). De definitie van de verschillende componenten uit deze formule is als volgt: 
 
 a. X<sub>i</sub> = de aanvullende personele bekostiging voor een individuele school;  
 
 b. A = het in artikel 4, eerste lid genoemde totaalbudget voor de aanvullende bekostiging van deze regeling;  
 
-c. B<sub>i</sub> = reguliere personele bekostiging voor leraren van school i in het kalenderjaar 2014 als bedoeld in [artikel 8 van het Formatiebesluit W.V.O.](../../../../../../../../../../../../AMvB/formatiebesluit/wvo/BWBR0005446/README.md);  
+c. B<sub>i</sub> = reguliere personele bekostiging voor leraren van school i in het kalenderjaar 2014 als bedoeld in artikel 8 van het Formatiebesluit W.V.O.;  
 
 d. LL<sub>ri</sub> = de op de teldatum 1 oktober 2013 bekostigde leerlingen op de in de Randstadregio’s gelegen vestiging(en) van school i, uitgaande van voorlopige leerlingaantallen;  
 
@@ -98,7 +98,7 @@ De betaling van de aanvullende bekostiging vindt plaats volgens het gebruikelijk
 ####Besteding en verantwoording
 
 1.  De aanvullende bekostiging wordt verstrekt ter dekking van de uitgaven die zijn verbonden aan het in de regeling omschreven doel. Terugvordering van de eventueel niet-bestede middelen of overschotten vindt niet plaats.   
-2.  De verantwoording van de aanvullende bekostiging geschiedt in de jaarverslaggeving, bedoeld in de [Regeling jaarverslaggeving onderwijs](../../../../../../../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md). De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de aanvullende bekostiging.  
+2.  De verantwoording van de aanvullende bekostiging geschiedt in de jaarverslaggeving, bedoeld in de Regeling jaarverslaggeving onderwijs. De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de aanvullende bekostiging.  
 
 ### Artikel  7  
 

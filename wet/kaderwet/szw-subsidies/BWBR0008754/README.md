@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat de totstandkoming van de derde tranche van de [Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) het wenselijk maakt een wettelijk kader te scheppen voor de verstrekking van subsidies door de Minister van Sociale Zaken en Werkgelegenheid;
+Alzo Wij in overweging genomen hebben, dat de totstandkoming van de derde tranche van de Algemene wet bestuursrecht het wenselijk maakt een wettelijk kader te scheppen voor de verstrekking van subsidies door de Minister van Sociale Zaken en Werkgelegenheid;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
@@ -34,7 +34,7 @@ g. het inburgeringsbeleid en het integratiebeleid.
 
 ### Artikel  3  
 
-1.  Onverminderd [hoofdstuk 3 van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md) kunnen bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister terzake van de verstrekking van subsidie regels worden gesteld met betrekking tot: 
+1.  Onverminderd hoofdstuk 3 van de Financiële-verhoudingswet kunnen bij of krachtens algemene maatregel van bestuur of bij regeling van Onze Minister terzake van de verstrekking van subsidie regels worden gesteld met betrekking tot: 
 
 a. de activiteiten waarvoor subsidie kan worden verstrekt en wie daarvoor in aanmerking komt;   
 
@@ -53,16 +53,16 @@ g. intrekking en wijziging van de subsidieverlening of -vaststelling;
 h. de betaling van de subsidie en het verlenen van voorschotten;  
 
 i. andere criteria voor de verstrekking van subsidie.     
-2.  Verplichtingen als bedoeld in [artikel 4:39 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kunnen slechts bij algemene maatregel van bestuur aan de subsidie worden verbonden.   
-3.  In afwijking van [artikel 4:21, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is titel 4.2 van die wet van toepassing op subsidies die worden verstrekt op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid, die uitsluitend voorziet in verstrekking aan rechtspersonen die krachtens publiekrecht zijn ingesteld.  
-4. Onze Minister kan bij het verwerken van persoonsgegevens in het kader van subsidieverstrekking op grond van deze wet gebruik maken van het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer of, bij het ontbreken daarvan, van het sociaal-fiscaalnummer, bedoeld in [artikel 2, derde lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) met het oog op rapportage over en evaluatie van de besteding van subsidie. 
+2.  Verplichtingen als bedoeld in artikel 4:39 van de Algemene wet bestuursrecht kunnen slechts bij algemene maatregel van bestuur aan de subsidie worden verbonden.   
+3.  In afwijking van artikel 4:21, derde lid, van de Algemene wet bestuursrecht is titel 4.2 van die wet van toepassing op subsidies die worden verstrekt op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in het eerste lid, die uitsluitend voorziet in verstrekking aan rechtspersonen die krachtens publiekrecht zijn ingesteld.  
+4. Onze Minister kan bij het verwerken van persoonsgegevens in het kader van subsidieverstrekking op grond van deze wet gebruik maken van het burgerservicenummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer of, bij het ontbreken daarvan, van het sociaal-fiscaalnummer, bedoeld in artikel 2, derde lid, van de Algemene wet inzake rijksbelastingen met het oog op rapportage over en evaluatie van de besteding van subsidie. 
 5. De subsidie-ontvanger vermeldt bij het verstrekken van persoonsgegevens aan Onze Minister in verband met de besteding van subsidie het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer van de persoon op wie de persoonsgegevens betrekking hebben.
 
 ### Artikel  4  
 
 Onze Minister verstrekt slechts subsidie op grond van een algemene maatregel van bestuur of een ministeriële regeling als bedoeld in artikel 3, tenzij het een subsidie betreft: 
 
-a. als bedoeld in [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) of  
+a. als bedoeld in artikel 4:23, derde lid, van de Algemene wet bestuursrecht of  
 
 b. waarvan de voorgenomen verstrekking tevoren is meegedeeld aan de beide Kamers der Staten-Generaal.   
 
@@ -72,14 +72,14 @@ Onze Minister stelt een subsidieplafond vast voor de verschillende activiteiten 
 
 ### Artikel  6  
 
-Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). 
+Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verleend onder de voorwaarde, bedoeld in artikel 4:34 van de Algemene wet bestuursrecht. 
 
 ### Artikel  7  
 
 1.  Een aanvraag kan worden afgewezen en een beschikking tot subsidieverstrekking op grond van deze wet kan worden ingetrokken of gewijzigd voorzover subsidieverstrekking in strijd zou zijn respectievelijk in strijd is met ingevolge een verdrag voor de staat geldende verplichtingen.   
 2.  Bij de intrekking of wijziging kan worden bepaald, dat over onverschuldigd betaalde subsidiebedragen een rentevergoeding verschuldigd is.   
 3.  De intrekking of wijziging werkt terug tot en met het tijdstip waarop de subsidie is verstrekt, tenzij bij de intrekking of wijziging anders is bepaald.   
-4.  De [artikelen 4:49](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), derde lid, en [4:57, vierde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.   
+4.  De artikelen 4:49, derde lid, en 4:57, vierde lid, van de Algemene wet bestuursrecht zijn niet van toepassing op de intrekking of wijziging, bedoeld in het eerste lid.   
 
 ### Artikel  8  
 

@@ -5,7 +5,7 @@
 De Staatssecretaris van Infrastructuur en Milieu,  
 Handelende in overeenstemming met de Minister van Defensie,
 
-Gelet op [artikel 14, tweede lid, van het Luchtverkeersreglement](../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), [artikel 21 van het Besluit luchtvaartuigen 2008](../../../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md) en [artikel 2 van het Besluit van 21 mei 1981, houdende vaststelling van enige regels ter beperking van de geluidhinder door luchtvaartuigen](../../../../../../AMvB/besluit/beperking/geluidhinder/luchtvaartuigen/BWBR0003404/README.md) (Stb. 343);
+Gelet op artikel 14, tweede lid, van het Luchtverkeersreglement, artikel 21 van het Besluit luchtvaartuigen 2008 en artikel 2 van het Besluit van 21 mei 1981, houdende vaststelling van enige regels ter beperking van de geluidhinder door luchtvaartuigen (Stb. 343);
 Besluit:    
 
 ### Artikel  1  
@@ -19,6 +19,10 @@ In deze regeling wordt verstaan onder:
 *sleepkabel:* geheel van onderdelen dat de verbinding vormt tussen de sleephaak van het sleepvliegtuig en de sleephaak, de vanglijn of de voorste ring van de sleep;  
 
 *sleepvliegtuig:* vliegtuig, ingericht voor het doen opstijgen en in de lucht voortslepen van een sleep.   
+
+### Artikel  1a  
+
+Deze regeling berust mede op artikel 11, tweede lid, van het Besluit luchtverkeer 2014. 
 
 ### Artikel  2  
 
@@ -57,7 +61,7 @@ c. in gesloten verband met meer dan drie sleepvliegtuigen.
 
 ### Artikel  5  
 
-Overtreding van de artikelen 3 en 4 is een strafbaar feit in de zin van [artikel 6 van het Besluit van 21 mei 1981 houdende vaststelling van regels ter beperking van de geluidhinder door luchtvaartuigen](../../../../../../AMvB/besluit/beperking/geluidhinder/luchtvaartuigen/BWBR0003404/README.md). 
+Overtreding van de artikelen 3 en 4 is een strafbaar feit in de zin van artikel 6 van het Besluit van 21 mei 1981 houdende vaststelling van regels ter beperking van de geluidhinder door luchtvaartuigen. 
 
 ### Artikel  6  
 
@@ -65,7 +69,7 @@ Wijzigt de Regeling voorzieningen sleepvliegen.
 
 ### Artikel  7  
 
-De [Regeling slepen](../../../../../../ministeriele-regeling/regeling/slepen/BWBR0007096/README.md) en de [Regeling reclamesleepvliegen](../../../../../../ministeriele-regeling/regeling/reclamesleepvliegen/BWBR0006983/README.md) worden ingetrokken 
+De Regeling slepen en de Regeling reclamesleepvliegen worden ingetrokken 
 
 ### Artikel  8  
 

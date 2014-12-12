@@ -43,7 +43,7 @@ Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betre
 
 a. ingezetene is;  
 
-b. geen ingezetene is, maar wiens belastbare som als bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) geheel of nagenoeg geheel binnen de openbare lichamen Bonaire, Sint Eustatius of Saba aan de heffing van inkomstenbelasting of loonbelasting is onderworpen;  
+b. geen ingezetene is, maar wiens belastbare som als bedoeld in artikel 24, eerste lid, van de Wet inkomstenbelasting BES geheel of nagenoeg geheel binnen de openbare lichamen Bonaire, Sint Eustatius of Saba aan de heffing van inkomstenbelasting of loonbelasting is onderworpen;  
 
 c. geen ingezetene is en evenmin geacht kan worden blijvend buiten de openbare lichamen Bonaire, Sint Eustatius of Saba te wonen, doch terzake van buiten de openbare lichamen Bonaire, Sint Eustatius of Saba verrichte arbeid wedde of loon geniet ten laste van de openbare lichamen Bonaire, Sint Eustatius of Saba, mits hij Nederlander is.     
 2.  Niet verzekerd is de vreemdeling, die niet geacht kan worden blijvend binnen de openbare lichamen Bonaire, Sint Eustatius of Saba te wonen en die terzake van binnen de openbare lichamen Bonaire, Sint Eustatius of Saba verrichte arbeid wedde of loon geniet ten laste van een andere Mogendheid.   
@@ -82,7 +82,7 @@ Het ouderdomspensioen bedraagt USD 365 per 1 januari 2013 indien belanghebbende
 
 a. wanneer degene met wie degene aan wie het ouderdomspensioen is toegekend, gehuwd is, de leeftijd van 65 jaar heeft bereikt;  
 
-b. bij ontbinding van het huwelijk in de gevallen, genoemd in [artikel 248 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md);  
+b. bij ontbinding van het huwelijk in de gevallen, genoemd in artikel 248 van het Burgerlijk Wetboek BES;  
 
 c. bij overlijden van degene aan wie het ouderdomspensioen is toegekend of van degene met wie degene aan wie het ouderdomspensioen is toegekend, gehuwd is;  
 
@@ -91,7 +91,7 @@ d. bij intrekking van het pensioen of de toeslag;
 e. wanneer het gezamenlijk inkomen, bedoeld in het eerste lid, meer dan USD 6.704per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Bonaire USD 7399;per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Sint Eustatius USD 7944;per 1 januari 2013 indien belanghebbende woonachtig is in het openbaar lichaam Saba USD 7499;per 1 januari 2013 indien belanghebbende woonachtig is buiten het openbaar lichaam Bonaire, Sint Eustatius en Saba USD 7399
 
 per jaar bedraagt.     
-4.  Onder inkomen als bedoeld in het eerste lid en het derde lid, onderdeel e, wordt verstaan de belastbare som, bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md).   
+4.  Onder inkomen als bedoeld in het eerste lid en het derde lid, onderdeel e, wordt verstaan de belastbare som, bedoeld in artikel 24, eerste lid, van de Wet inkomstenbelasting BES.   
 5.  De toeslag eindigt met ingang van de maand, volgende op die, waarin het feit of de omstandigheid, bedoeld in het derde lid, heeft plaatsgevonden , dan wel is ontstaan, die het einde van de toeslag ten gevolge heeft.   
 6.  De artikelen 12, 13, tweede tot en met vierde lid, 14, 15, 16, 18, 19, 22a tot en met 22c, 23, 34, 37, 44, eerste lid, 47 en 52 zijn van overeenkomstige toepassing op de toeslag.  
 7. Op de toeslag wordt een korting toegepast van: 
@@ -258,9 +258,9 @@ Vervallen per 01-01-2011
 
 ### Artikel  26  
 
-1.  De premie ten behoeve van deze wet wordt geheven over het inkomen, met overeenkomstige toepassing van de [hoofdstukken V](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), [VI](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), [VII](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) en [IX van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), de [hoofdstukken III](../../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [VI van de Wet loonbelasting BES](../../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en de [hoofdstukken I](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [VII](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [VIII van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).   
-2.  Onder inkomen wordt verstaan: de belastbare som, bedoeld in [artikel 24, eerste lid, van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md).   
-3.  Indien het inkomen meer bedraagt dan het in [artikel 24A, zevende lid, van de Wet inkomstenbelasting BES](../../../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) genoemde bedrag, wordt over dat meerdere geen premie geheven. 
+1.  De premie ten behoeve van deze wet wordt geheven over het inkomen, met overeenkomstige toepassing van de hoofdstukken V, VI, VII en IX van de Wet inkomstenbelasting BES, de hoofdstukken III en VI van de Wet loonbelasting BES en de hoofdstukken I, VII en VIII van de Belastingwet BES.   
+2.  Onder inkomen wordt verstaan: de belastbare som, bedoeld in artikel 24, eerste lid, van de Wet inkomstenbelasting BES.   
+3.  Indien het inkomen meer bedraagt dan het in artikel 24A, zevende lid, van de Wet inkomstenbelasting BES genoemde bedrag, wordt over dat meerdere geen premie geheven. 
 
 ### Artikel  27  
 
@@ -282,13 +282,13 @@ Onze Minister is bevoegd, met inachtneming van het vastgestelde premiepercentage
 
 ### Artikel  29b  
 
-1.  Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven tijd is afgedragen kan de te weinig afgedragen premie door middel van een aanslag, op te leggen ten name van de werkgever, worden ingevorderd met overeenkomstige toepassing van [hoofdstuk VIII, titel 5, van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md). De werkgever is gerechtigd het nageheven bedrag te verhalen op zijn werknemer voor zover het bedrag betrekking heeft op van de werknemer ten onrechte niet ingehouden premie.   
+1.  Indien de premie geheel of gedeeltelijk niet binnen de voorgeschreven tijd is afgedragen kan de te weinig afgedragen premie door middel van een aanslag, op te leggen ten name van de werkgever, worden ingevorderd met overeenkomstige toepassing van hoofdstuk VIII, titel 5, van de Belastingwet BES. De werkgever is gerechtigd het nageheven bedrag te verhalen op zijn werknemer voor zover het bedrag betrekking heeft op van de werknemer ten onrechte niet ingehouden premie.   
 2.  Zo nodig in afwijking van het bepaalde in het eerste lid kan de in de aanslag inbegrepen premie bij wijze van boete worden verhoogd met ten hoogste honderd procent, maar tenminste met USD 14. De werkgever is niet gerechtigd deze boete op zijn werknemers te verhalen.   
 3.  Indien aan de verplichting opgelegd in artikel 29a, vijfde lid, niet wordt voldaan en ten gevolge daarvan de aanslag in zijn geheel moet worden verminderd, bedraagt de boete USD 14.  
 
 ### Artikel  30  
 
-Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van artikel 26 en de invordering daarvan [hoofdstuk VIII van de Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) van overeenkomstige toepassing. 
+Voor zover op grond van deze wet niet anders is bepaald is ten aanzien van de premieheffing op grond van artikel 26 en de invordering daarvan hoofdstuk VIII van de Belastingwet BES van overeenkomstige toepassing. 
 
 ### Hoofdstuk  V  
 
@@ -342,7 +342,7 @@ b. voor degene die in 2013 de leeftijd van 60 jaar bereikt, in die artikelen in 
 c. voor degene die in 2014 de leeftijd van 60 jaar bereikt, in die artikelen in plaats van «65 jaar» gelezen: 63 jaar;  
 
 d. voor degene die in 2015 de leeftijd van 60 jaar bereikt, in die artikelen in plaats van «65 jaar» gelezen: 64 jaar.     
-2.  De artikelen 7a, zevende lid, onderdeel a, en 8, eerste lid, zoals die luidden onmiddellijk voorafgaand aan inwerkingtreding van de [Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../wet-BES/aanpassingswet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028129/README.md), blijven van toepassing op de pensioengerechtigde die voor 1 januari 2013 de leeftijd van 60 jaar heeft bereikt.  
+2.  De artikelen 7a, zevende lid, onderdeel a, en 8, eerste lid, zoals die luidden onmiddellijk voorafgaand aan inwerkingtreding van de Aanpassingswet openbare lichamen Bonaire, Sint Eustatius en Saba, blijven van toepassing op de pensioengerechtigde die voor 1 januari 2013 de leeftijd van 60 jaar heeft bereikt.  
 
 ### Artikel  40  
 
@@ -426,7 +426,7 @@ Overtredingen van bepalingen van een op grond van deze wet vastgesteld algemene 
 
 ### Artikel  49  
 
-1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) bedoelde functionarissen, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.   
+1.  Met de opsporing van de bij deze wet strafbaar gestelde feiten zijn, naast de in artikel 184 van het Wetboek van Strafvordering BES bedoelde functionarissen, belast de door Onze Minister van Justitie, in overeenstemming met Onze Minister, aangewezen ambtenaren.   
 2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de vereisten waaraan de op grond van het eerste lid aangewezen functionarissen dienen te voldoen.  
 
 ### Artikel  50  

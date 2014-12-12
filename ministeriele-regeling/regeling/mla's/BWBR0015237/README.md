@@ -3,7 +3,7 @@
 ##Micro Light Aeroplanes (Regeling MLA's) 
 
 De Staatssecretaris van Verkeer en Waterstaat,  
-Gelet op de [artikelen 1, vijfde lid](../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md), [17](../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md), [22](../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md), [44, tweede lid](../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md), en [46 van het Besluit luchtwaardigheid](../../../../AMvB/besluit/luchtvaartuigen/BWBR0012651/README.md) en [artikel 56 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);
+Gelet op de artikelen 1, vijfde lid, 17, 22, 44, tweede lid, en 46 van het Besluit luchtwaardigheid en artikel 56 van het Luchtverkeersreglement;
 Besluit:      
 ### Hoofdstuk I 
 
@@ -19,7 +19,7 @@ b.  *luchtwerk:* een activiteit waarbij het luchtvaartuig wordt gebruikt voor sp
 
 ### Artikel  1a  
 
-Deze regeling berust op de [artikelen 2, vierde lid](../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [9](../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), en [13, aanhef en onderdelen a,b en c, van het Besluit luchtvaartuigen 2008](../../../../AMvB/besluit/luchtvaartuigen/2008/BWBR0023922/README.md), [artikel 7 van het Besluit vluchtuitvoering](../../../../AMvB/besluit/vluchtuitvoering/BWBR0020111/README.md) en [artikel 56 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md). 
+Deze regeling berust op de artikelen 2, vierde lid, 9, en 13, aanhef en onderdelen a,b en c, van het Besluit luchtvaartuigen 2008 en artikel 7 van het Besluit vluchtuitvoering. 
 
 ### Hoofdstuk II 
 
@@ -62,10 +62,10 @@ d.  de minister heeft ingestemd met eventuele wijzigingen in de geluidsproductie
 e.  het MLA, de MLH of het gemotoriseerd schermvliegtuig is onderhouden conform de aanwijzingen van de ontwerper van het MLA, de MLH of het gemotoriseerd schermvliegtuig.    
 3. De verklaring, bedoeld in het tweede lid, is mede ondertekend door de houder van: 
 
-a. een bewijs van bevoegdheid als bedoeld in [artikel 4, achtste lid](../../../../ministeriele-regeling/regeling/bijzondere/bevoegdverklaringen/aml/en/part-66-aml/BWBR0024644/README.md), of [artikel 9, derde lid, van de Regeling bijzondere bevoegdverklaringen AML en Part-66-AML](../../../../ministeriele-regeling/regeling/bijzondere/bevoegdverklaringen/aml/en/part-66-aml/BWBR0024644/README.md), of  
+a. een bewijs van bevoegdheid als bedoeld in artikel 4, achtste lid, of artikel 9, derde lid, van de Regeling bijzondere bevoegdverklaringen AML en Part-66-AML, of  
 
 b. een door de Deutsche Aero Club e.V. of de Deutsche Ultraleichtflugverbandes e.V. afgegeven Erlaubnis für Prüfer von Luftfahrtgerät, Klasse 5.  
-4. Het derde lid is niet van toepassing op schermvliegtuigen als bedoeld in [artikel 1, eerste lid, van het Besluit bewijzen van bevoegheid voor de luchtvaart](../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), in combinatie met een motor. 
+4. Het derde lid is niet van toepassing op schermvliegtuigen als bedoeld in artikel 1, eerste lid, van het Besluit bewijzen van bevoegheid voor de luchtvaart, in combinatie met een motor. 
 
 ### Artikel  5  
 
@@ -84,7 +84,7 @@ b. een door de Deutsche Aero Club e.V. of de Deutsche Ultraleichtflugverbandes e
 
 1.  Het is verboden: 
 
-a. met een MLA luchtwerk te verrichten, met uitzondering van het slepen van een zeilvliegtuig, als bedoeld in [artikel 1, eerste lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart](../../../../AMvB/besluit/bewijzen/van/bevoegdheid/voor/de/luchtvaart/BWBR0010629/README.md), met een MLA, dat is voorzien van een sleepinrichting, die is geaccepteerd door een luchtvaartautoriteit van één van de in artikel 2, tweede lid, onderdeel a, genoemde landen;  
+a. met een MLA luchtwerk te verrichten, met uitzondering van het slepen van een zeilvliegtuig, als bedoeld in artikel 1, eerste lid, van het Besluit bewijzen van bevoegdheid voor de luchtvaart, met een MLA, dat is voorzien van een sleepinrichting, die is geaccepteerd door een luchtvaartautoriteit van één van de in artikel 2, tweede lid, onderdeel a, genoemde landen;  
 
 b. een MLA te gebruiken tegen vergoeding, met baat of voor commerciële doeleinden.     
 2.  Het is verboden met een MLH luchtwerk te verrichten of te gebruiken tegen vergoeding, met baat of voor commerciële doeleinden.   
@@ -96,13 +96,13 @@ Onverminderd artikel 7 mogen met MLA’s, MLH’s en schermvliegtuigen slechts v
 
 a. met inachtneming van de blijkens het vlieghandboek van de fabrikant op het luchtvaartuig betrekking hebbende gebruiksbeperkingen;  
 
-b. gedurende de daglichtperiode als bedoeld in [artikel 1 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);  
+b. gedurende de daglichtperiode als bedoeld in artikel 1 van het Besluit luchtverkeer 2014;  
 
 c. indien met betrekking tot het MLA, de MLH of het schermvliegtuig een verzekering is gesloten tegen de burgerrechtelijke aansprakelijkheid voor dood of letsel van de inzittenden of derden of andere schade toegebracht aan de inzittenden of derden.   
 
 ### Artikel  9  
 
-1.  De gezagvoerder van een MLA, en voor zover van toepassing een MLH of een gemotoriseerd schermvliegtuig is verplicht om tijdens de vlucht naast de in [artikel 5, onderdelen a tot en met g van de Regeling vluchtuitvoering](../../../../ministeriele-regeling/regeling/vluchtuitvoering/BWBR0024167/README.md) genoemde documenten het bewijs, dat een verzekering bedoeld in artikel 8, onderdeel c, is gesloten, een afschrift van deze regeling met uitzondering van de bijlagen en de verklaring als bedoeld in artikel 2, tweede lid, onderdeel e, die door de minister is geaccepteerd, aan boord te hebben.   
+1.  De gezagvoerder van een MLA, en voor zover van toepassing een MLH of een gemotoriseerd schermvliegtuig is verplicht om tijdens de vlucht naast de in artikel 5, onderdelen a tot en met g van de Regeling vluchtuitvoering genoemde documenten het bewijs, dat een verzekering bedoeld in artikel 8, onderdeel c, is gesloten, een afschrift van deze regeling met uitzondering van de bijlagen en de verklaring als bedoeld in artikel 2, tweede lid, onderdeel e, die door de minister is geaccepteerd, aan boord te hebben.   
 2.  De gezagvoerder informeert iedere passagier voorafgaand aan de vlucht dat het MLA, de MLH of het schermvliegtuig niet is gecertificeerd volgens internationale luchtwaardigheidseisen.   
 3.  De houder van een MLA is verplicht om in het luchtvaartuig op een voor elke inzittende zichtbare plaats duidelijk leesbaar de volgende waarschuwing aan te brengen:  *Waarschuwing voor inzittenden* Deze MLA is niet gecertificeerd volgens internationale luchtwaardigheidsvoorschriften. Het veiligheidsniveau is niet vastgesteld. *Occupant Warning* This aircraft has not been certificated to international standards. The safety level has not been determinated.   
 4. De houder van een MLH is verplicht om in het luchtvaartuig op een voor elke inzittende zichtbare plaats duidelijk leesbaar de volgende waarschuwing aan te brengen:
@@ -122,7 +122,7 @@ This aircraft has not been certificated to international standards. The safety l
 
 ###Artikel 9a 
 
-Ten behoeve van het tijdelijk gebruik in het Nederlandse luchtruim van in andere lidstaten van de European Civil Aviation Conference ingeschreven MLA’s, MLH’s of schermvliegtuigen, die niet voorzien zijn van een geldig bewijs van luchtwaardigheid als bedoeld in [artikel 3.8 van de Wet luchtvaart](../../../../wet/wet/luchtvaart/BWBR0005555/README.md), gelden de volgende voorschriften en beperkingen: 
+Ten behoeve van het tijdelijk gebruik in het Nederlandse luchtruim van in andere lidstaten van de European Civil Aviation Conference ingeschreven MLA’s, MLH’s of schermvliegtuigen, die niet voorzien zijn van een geldig bewijs van luchtwaardigheid als bedoeld in artikel 3.8 van de Wet luchtvaart, gelden de volgende voorschriften en beperkingen: 
 
 a. door het bevoegde gezag van de desbetreffende lidstaat, die het bewijs van inschrijving heeft afgegeven, is tevens een bewijs afgegeven waaruit blijkt dat de uitoefening van de luchtvaart met het betrokken luchtvaartuig in die staat is toegestaan, en  
 

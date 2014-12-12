@@ -3,7 +3,7 @@
 ##Regeling tot vaststelling van nieuwe regelen inzake vliegplannen
 
 De Minister van Verkeer en Waterstaat en de Staatssecretaris van Defensie,   
-Gelet op [artikel 31, eerste en vierde lid, van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md); 
+Gelet op artikel 31, eerste en vierde lid, van het Luchtverkeersreglement; 
 Besluiten:    
 
 ### Artikel  1  
@@ -28,13 +28,11 @@ General Air Traffic (GAT) IFR-vlucht: een IFR-vlucht, die wordt uitgevoerd overe
 
 havenmeester: een persoon, in dienst van de exploitant van een luchthaven, belast met de dagelijkse uitvoering van het toezicht op de luchthaven en in het bijzonder met het toezicht op de veiligheid en de goede orde daarop;   
 
-luchtvaartgids: de luchtvaartgids, bedoeld in [artikel 61, onderdeel a, onder 1, van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);   
-
-luchtvaartgids, hoofdstuk En Route (ENR): het hoofdstuk uit de luchtvaartgids dat handelt over 'En Route';   
+luchtvaartgids, hoofdstuk En Route (ENR): het hoofdstuk uit de luchtvaartgids dat handelt over 'En Route'; 
 
 luchtverkeersmeldingspost: een verlener van luchtverkeersdiensten, belast met het ontvangen van vliegplannen vóór de vlucht en rapporten betreffende het verlenen van luchtverkeersdiensten;   
 
-North Sea Area Amsterdam (NSA Amsterdam): gebied, als aangegeven in [bijlage A van de Regeling luchtverkeersdienstverlening](../../../../ministeriele-regeling/regeling/luchtverkeersdienstverlening/BWBR0009899/README.md), onder verwijzing naar de luchtvaartgids, hoofdstuk ENR 6;
+North Sea Area Amsterdam (NSA Amsterdam): gebied, als aangegeven in bijlage A van de Regeling luchtverkeersdienstverlening, onder verwijzing naar de luchtvaartgids, hoofdstuk ENR 6;
 
 repeterend vliegplan (RPL): een vliegplan voor zich regelmatig herhalende vluchten met dezelfde hoofdkenmerken;   
 
@@ -56,19 +54,28 @@ vliegcoördinator: de functionaris die door de verantwoordelijke Commandant is b
 
 vliegplan: specifieke inlichtingen, gerelateerd aan een voorgenomen vlucht, of een deel van een voorgenomen vlucht.    
 
+### Artikel  1a  
+
+####Grondslag
+
+Deze regeling berust op artikel 16, eerste en tweede lid, van het Besluit luchtverkeer 2014. 
+
 ### Artikel  2  
 
-####Vliegplanverplichting in de NSA Amsterdam
+####Aanwijzing gebieden en routes met vliegplanverplichting
 
-1. Onverminderd [artikel 31, eerste lid, aanhef en onder a, c en d, van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) wordt een vliegplan ingediend voor elke vlucht in de NSA Amsterdam.   
-2.  Het eerste lid is niet van toepassing op vluchten met staatsluchtvaartuigen als bedoeld in [artikel 14, derde lid, van de Regeling luchtverkeersdienstverlening](../../../../ministeriele-regeling/regeling/luchtverkeersdienstverlening/BWBR0009899/README.md). 
+1.  Onverminderd het bepaalde in paragraaf SERA.4001 van verordening (EU) nr. 923/2012 wordt voor aanvang van de vlucht een vliegplan ingediend voor: 
+
+a. iedere IFR-vlucht in de FIR-Amsterdam;  
+
+b. iedere vlucht in de NSA Amsterdam, met uitzondering van vluchten met staatsluchtvaartuigen als bedoeld in artikel 14, derde lid, van de Regeling luchtverkeersdienstverlening.   
 
 ### Artikel  3  
 
 ####Vliegplangegevens en de wijze van indienen van het vliegplan
 
 1.  Voor het opgeven van de gegevens van een vliegplan wordt gebruik gemaakt van het vliegplan-formulier, en de daarbij behorende aanwijzingen, als aangegeven in de bijlage A1 en A2 onder verwijzing naar de bladzijden in de luchtvaartgids, hoofdstuk ENR 1-10. Van wijzigingen in deze bladzijden van de luchtvaartgids wordt mededeling gedaan in de Staatscourant. Bijlage A1 en A2 liggen ter inzage bij de Luchtverkeersleiding Nederland, FSC.   
-2.  Voor het opgeven van de gegevens van een vliegplan als bedoeld in [artikel 31, derde lid, van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), met het doel eventuele opsporing en redding te vergemakkelijken, volstaat een melding van de volgende gegevens:  
+2.  Voor het opgeven van de gegevens van een vliegplan voor een VFR-vlucht waarvoor geen vliegplan is vereist, met het doel eventuele opsporing en redding te vergemakkelijken, volstaat een melding van de volgende gegevens:  
 
 a.  registratie kenmerk en type luchtvaartuig;   
 
@@ -104,31 +111,21 @@ d. in luchtverkeersdienstverleningsgebieden met klasse C boven vliegniveau 195.
 
 ####Wijzigen en annuleren van het ingediende vliegplan
 
-1.  Indien het vertrek van een GAT IFR-vlucht of een gedeelte daarvan, waarvoor een vliegplan is ingediend, vijftien minuten of langer wordt vertraagd, wordt het vliegplan gewijzigd, dan wel wordt een nieuw vliegplan ingediend door middel van het vliegplanverzendsysteem bij FSC nadat het oorspronkelijke vliegplan is geannuleerd.    
-2.  Indien het vertrek van een vlucht anders dan bedoeld in het eerste lid, waarvoor een vliegplan is ingediend, dertig minuten of langer wordt vertraagd, wordt het vliegplan gewijzigd, dan wel wordt een nieuw vliegplan ingediend bij de betrokken verlener van luchtverkeersdiensten nadat het oorspronkelijke vliegplan is geannuleerd.    
-3.  Indien een GAT IFR-vlucht of een gedeelte daarvan, waarvoor een vliegplan is ingediend, geen doorgang vindt, wordt door middel van het vliegplanverzendsysteem het FSC daarover terstond ingelicht door annulering van het vliegplan.    
-4.  Indien een vlucht anders dan bedoeld in het eerste lid, waarvoor een vliegplan is ingediend geen doorgang vindt wordt de betrokken verlener van luchtverkeersdiensten daarover terstond ingelicht door annulering van het vliegplan.   
+Onverminderd het bepaalde in paragraaf SERA.4015 van de verordening (EU) 923/2012 worden wijzigingen en annuleringen van het ingediende vliegplan overeenkomstig de volgende condities meegedeeld: 
+
+a. indien het vertrek van een GAT IFR-vlucht of een gedeelte daarvan, waarvoor een vliegplan is ingediend, vijftien minuten of langer wordt vertraagd, wordt het vliegplan gewijzigd, dan wel wordt een nieuw vliegplan ingediend door middel van het vliegplanverzendsysteem bij FSC, nadat het oorspronkelijke vliegplan is geannuleerd;  
+
+b. indien het vertrek van een vlucht anders dan bedoeld in onderdeel a, waarvoor een vliegplan is ingediend, dertig minuten of langer wordt vertraagd, wordt het vliegplan gewijzigd, dan wel wordt een nieuw vliegplan ingediend bij de betrokken verlener van luchtverkeersdiensten, nadat het oorspronkelijke vliegplan is geannuleerd;  
+
+c. indien een GAT IFR-vlucht of een gedeelte daarvan, waarvoor een vliegplan is ingediend, geen doorgang vindt, wordt door middel van het vliegplanverzendsysteem het FSC daarover terstond ingelicht door annulering van het vliegplan;  
+
+d. indien een vlucht anders dan bedoeld in onderdeel a, waarvoor een vliegplan is ingediend, geen doorgang vindt wordt de betrokken verlener van luchtverkeersdiensten daarover terstond ingelicht door annulering van het vliegplan.   
 
 ### Artikel  6  
 
-####Wijze van afsluiten van het vliegplan
+####Afsluiten vliegplan en aankomstmelding
 
-1.  Zo spoedig mogelijk na afloop van een vlucht of deel van een vlucht, waarvoor een vliegplan is ingediend tot aan de luchthaven van bestemming, wordt in persoon of per radio een aankomstmelding gedaan aan de betrokken verlener van luchtverkeersdiensten op de luchthaven van aankomst.    
-2.  Een vliegplan dat slechts betrekking heeft op een deel van de vlucht, anders dan tot de luchthaven van bestemming, wordt afgesloten door een desbetreffende aankomstmelding aan de betrokken verlener van luchtverkeersdiensten.    
-3.  Indien op de luchthaven van bestemming geen verlener van luchtverkeersdiensten is gevestigd, wordt de aankomstmelding zo spoedig mogelijk na aankomst en op de snelst mogelijke wijze gedaan aan de verlener van luchtverkeersdiensten als vermeld in bijlage B.    
-4.  Indien bekend is dat de verbindingsmiddelen op de luchthaven van aankomst ontoereikend zijn en er geen vervangende handelwijze is voorgeschreven, wordt de aankomstmelding voor zover mogelijk direct vóór de landing per radio gedaan aan de betrokken verlener van luchtverkeersdiensten.    
-5.  Een aankomstmelding bevat de volgende gegevens:  
-
-a.  identificatie van het luchtvaartuig;   
-
-b.  de luchthaven van vertrek;   
-
-c.  de luchthaven van bestemming;   
-
-d.  de luchthaven van aankomst, indien is uitgeweken naar een andere luchthaven dan genoemd onder c;   
-
-e.  de tijd van aankomst.      
-6.  Het eerste lid is in het vluchtinformatiegebied Amsterdam niet van toepassing, indien de vlucht volgens vliegplan wordt beëindigd op een gecontroleerde luchthaven tijdens de periode waarin plaatselijke verlener van luchtverkeersleidingsdiensten wordt verleend.   
+Indien op de luchthaven van bestemming geen verlener van luchtverkeersdiensten is gevestigd, wordt de aankomstmelding zo spoedig mogelijk na aankomst en op de snelst mogelijke wijze gedaan aan de verlener van luchtverkeersdiensten als vermeld in bijlage B. 
 
 ####Afwijkingen voor bepaalde vluchten
 
@@ -138,7 +135,7 @@ De artikelen 3, eerste lid, en 4, eerste lid, zijn in het vluchtinformatiegebied
 
 ### Artikel  8  
 
-1.  Indien op de luchthaven van vertrek geen luchtverkeersmeldingspost aanwezig is dan wel gesloten is, wordt vóór de aanvang van de in [artikel 31, eerste lid, van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) genoemde vlucht het vliegplan bij de havenmeester of de vliegcoördinator van de luchthaven van vertrek ingediend.    
+1.  Indien op de luchthaven van vertrek geen luchtverkeersmeldingspost aanwezig is dan wel gesloten is, wordt vóór de aanvang van de in artikel 16, eerste lid, van het Besluit luchtverkeer 2014 genoemde vlucht het vliegplan bij de havenmeester of de vliegcoördinator van de luchthaven van vertrek ingediend.    
 2.  De in artikel 3, tweede lid, opgenomen vliegplangegevens worden vóór de aanvang van de in het eerste lid genoemde vlucht gemeld aan de havenmeester of de vliegcoördinator van de luchthaven van bestemming.    
 3.  De aankomstmelding wordt gedaan aan de havenmeester of de vliegcoördinator van de luchthaven van aankomst tenzij de landing plaatsvindt op een gecontroleerde militaire luchthaven tijdens de openstellingsuren van de plaatselijke verlener van luchtverkeersleidingsdiensten.    
 4.  Indien de aankomst plaats vindt op een luchthaven anders dan de luchthaven van bestemming volgens het geldende vliegplan, wordt de aankomstmelding zo spoedig mogelijk na afloop van de vlucht telefonisch gedaan aan de havenmeester, de vliegcoördinator of de luchtverkeersmeldingspost van de luchthaven van bestemming.   
@@ -222,7 +219,7 @@ Ligt ter inzage bij de Luchtverkeersleiding Nederland, FSC.
 
 ### Bijlage B  
 
-####behorende bij artikel 4, eerste en tweede lid , en artikel 6, derde lid 
+####behorende bij artikel 4, eerste en tweede lid , en artikel 6 
 
 | --- | --- |
 |:---|:---|

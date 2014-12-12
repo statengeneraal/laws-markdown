@@ -5,13 +5,45 @@
 De Minister van Verkeer en Waterstaat,  
 Handelende in overeenstemming met de Staatssecretaris van Defensie,
 
-Gelet op [artikel 61 van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);
+Gelet op artikel 61 van het Luchtverkeersreglement;
 Besluit:      
 ### Hoofdstuk 1  
 
 ### Artikel 1  
 
-In deze regeling wordt verstaan onder: a.*Aëronautica Fixed Service (AFS):* een communicatie-netwerk voor luchtverkeersdiensten;b.*Aeronautical Information Circular (AIC):* een circulaire voor de luchtvaart met inlichtingen die niet in aanmerking komen voor publikatie in een NOTAM of luchtvaartgids, maar wel in verband staan met de vliegveiligheid, vluchtuitvoering of technische, administratieve of wetgevende aangelegenheden;c.*Aëronautica Information Regulation and Control (AIRAC):* een vooraf vastgesteld tijdpad met algemene ingangsdata voor luchtvaartinlichtingen met een interval van 28 dagen;d.*Aëronautica Information Services (AIS):* een dienstverlening, uitgevoerd door luchtvaartinlichtingendiensten, met als doel het verzekeren van de verstrekking van die inlichtingen nodig voor een veilig, ordelijk en vlot verloop van het luchtverkeer;e.*AIS unit:* een vluchtvoorlichtingsdienst die is belast met het geven van luchtvaartinlichtingen voor de vlucht en het in ontvangst nemen daarvan na de vlucht;f.*amendement:* permanente veranderingen van de inlichtingen in de luchtvaartgids;g.*bijlage 4:* aeronautical charts, bijlage 4 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973, 109);h.*bijlage 15:* aeronautical information services, bijlage 15 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973, 109);i.*International NOTAM office:* de luchtvaartinlichtingendienst die door de Minister van Infrastructuur en Milieu is aangewezen voor het internationaal uitwisselen van NOTAM;j.*luchtvaartgids:*luchtvaartgids, bedoeld in [artikel 60, onderdeel a, van het Luchtverkeersreglement](../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);k.*luchtvaartinlichtingendiensten:* de onderdelen van de LVNL die zijn belast met de taak omschreven in artikel 2;l.*Notice to Airmen (NOTAM):* een bericht aan luchtvarenden gedistribueerd middels AFS met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering tijdig kennis nemen;m.*Preflight Information Bulletin (PIB):* een presentatie van actuele NOTAM-informatie van operationele aard, welke wordt beschikbaar gesteld vóór de vlucht;n.*supplement:* tijdelijke veranderingen van de inlichtingen in de luchtvaartgids, gedrukt op speciale pagina's;o.*luchtvaartkaart:* een afbeelding van een deel van de aarde, de bebouwing en verhevenheid, specifiek bestemd om aan de eisen van de luchtvaartnavigatie te voldoen.  
+In deze regeling wordt verstaan onder: 
+
+a.*Aëronautica Fixed Service (AFS):* een communicatie-netwerk voor luchtverkeersdiensten;
+
+b.*Aëronautica Information Regulation and Control (AIRAC):* een vooraf vastgesteld tijdpad met algemene ingangsdata voor luchtvaartinlichtingen met een interval van 28 dagen;
+
+c.*Aëronautica Information Services (AIS):* een dienstverlening, uitgevoerd door luchtvaartinlichtingendiensten, met als doel het verzekeren van de verstrekking van die inlichtingen nodig voor een veilig, ordelijk en vlot verloop van het luchtverkeer;
+
+d.*Aeronautical Information Circular (AIC):* een circulaire voor de luchtvaart met inlichtingen die niet in aanmerking komen voor publikatie in een NOTAM of luchtvaartgids, maar wel in verband staan met de vliegveiligheid, vluchtuitvoering of technische, administratieve of wetgevende aangelegenheden;
+
+e.*AIS unit:* een vluchtvoorlichtingsdienst die is belast met het geven van luchtvaartinlichtingen voor de vlucht en het in ontvangst nemen daarvan na de vlucht;
+
+f.*amendement:* permanente veranderingen van de inlichtingen in de luchtvaartgids;
+
+g.*bijlage 4:* aeronautical charts, bijlage 4 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973, 109);
+
+h.*bijlage 15:* aeronautical information services, bijlage 15 bij het Verdrag inzake de internationale burgerluchtvaart (ICAO) gesloten op 7 december 1944 te Chicago (Trb. 1973, 109);
+
+i.*International NOTAM office:* de luchtvaartinlichtingendienst die door de Minister van Infrastructuur en Milieu is aangewezen voor het internationaal uitwisselen van NOTAM;
+
+j.*luchtvaartinlichtingendiensten:* de onderdelen van de LVNL die zijn belast met de taak omschreven in artikel 2;
+
+k.*luchtvaartkaart:* een afbeelding van een deel van de aarde, de bebouwing en verhevenheid, specifiek bestemd om aan de eisen van de luchtvaartnavigatie te voldoen. 
+
+l.*Notice to Airmen (NOTAM):* een bericht aan luchtvarenden gedistribueerd middels AFS met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering tijdig kennis nemen;
+
+m.*Preflight Information Bulletin (PIB):* een presentatie van actuele NOTAM-informatie van operationele aard, welke wordt beschikbaar gesteld vóór de vlucht;
+
+n.*supplement:* tijdelijke veranderingen van de inlichtingen in de luchtvaartgids, gedrukt op speciale pagina's; 
+
+### Artikel  1a  
+
+Deze regeling berust op de artikelen 6 en 26, tweede lid, van het Besluit luchtverkeer 2014. 
 
 ### Artikel 2  
 
@@ -20,14 +52,14 @@ In deze regeling wordt verstaan onder: a.*Aëronautica Fixed Service (AFS):* een
 
 ### Artikel 3  
 
-1.  IS units zijn belast met het geven van luchtvaartinlichtingen voor de vlucht en het in ontvangst nemen daarvan na de vlucht.   
+1.  AIS units zijn belast met het geven van luchtvaartinlichtingen voor de vlucht en het in ontvangst nemen daarvan na de vlucht.   
 2.  Op luchtvaartterreinen waar geen AIS unit is gevestigd is de exploitant van het luchtvaartterrein verantwoordelijk voor het beschikbaar stellen van luchtvaartinlichtingen, die vrij toegankelijk zijn, voor de vlucht en het in ontvangst nemen daarvan na de vlucht.   
 3.  De exploitant van het luchtvaartterrein, die informatie over de staat en werking van luchtvaartnavigatiefaciliteiten heeft ontvangen, draagt er zorg voor dat deze informatie wordt doorgegeven aan een AIS unit.   
 4.  Een AIS unit die informatie over de staat en werking van luchtvaartnavigatiefaciliteiten heeft ontvangen, draagt zorg voor: 
 
-a.  doorgifte aan de instantie, verantwoordelijk voor de staat en werking ervan; 
+a. doorgifte aan de instantie, verantwoordelijk voor de staat en werking ervan; 
 
-b.  een zodanige verspreiding als de omstandigheden vereisen.    
+b. een zodanige verspreiding als de omstandigheden vereisen.    
 5.  De exploitant van het luchtvaartterrein is verantwoordelijk voor het bijhouden van de luchtvaartinlichtingen.   
 
 ### Hoofdstuk 2  
@@ -211,13 +243,13 @@ f. buitenlandse luchtvaartinlichtingendiensten.
 
 a.  reddings- en opsporingscentra; 
 
-b. de Onderzoeksraad voor veiligheid, bedoeld in [artikel 2 van de Rijkswet Onderzoeksraad voor veiligheid](../../../../rijkswet/rijkswet/onderzoeksraad/voor/veiligheid/BWBR0017613/README.md); 
+b. de Onderzoeksraad voor veiligheid, bedoeld in artikel 2 van de Rijkswet Onderzoeksraad voor veiligheid; 
 
 c. commissie luchtverkeersincidenten; 
 
 d. dienst Operationele samenwerking van de Landelijke eenheid; 
 
-e. de Inspectie Verkeer en Waterstaat.   
+e. de Inspectie Leefomgeving en Transport.  
 
 ### Hoofdstuk 6  
 

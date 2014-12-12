@@ -3,7 +3,7 @@
 ##Regeling houdende regels met betrekking tot de verstrekking en het gebruik van tachograafkaarten (Regeling tachograafkaarten) 
 
 De Minister van Verkeer en Waterstaat en de Minister van Sociale Zaken en Werkgelegenheid,
-Gelet op [artikel 12.38, tweede lid, van de Arbeidstijdenwet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), [artikel 2.4:1, derde lid](../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), [artikel 2.4:12](../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md) en [artikel 2.4:13, eerste lid, van het Arbeidstijdenbesluit vervoer](../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), en [artikel 4b, tweede lid, onderdeel b, van de Wegenverkeerswet 1994](../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op artikel 12.38, tweede lid, van de Arbeidstijdenwet, artikel 2.4:1, derde lid, artikel 2.4:12 en artikel 2.4:13, eerste lid, van het Arbeidstijdenbesluit vervoer, en artikel 4b, tweede lid, onderdeel b, van de Wegenverkeerswet 1994;
 Besluiten:
 ###§ 1 
 
@@ -11,7 +11,7 @@ Besluiten:
 
 ###Artikel 1 
 
-In deze regeling wordt, in afwijking van [artikel, 2.1:1, eerste lid, van het Arbeidstijdenbesluit vervoer](../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), verstaan onder:
+In deze regeling wordt, in afwijking van artikel, 2.1:1, eerste lid, van het Arbeidstijdenbesluit vervoer, verstaan onder:
 
 a.controleapparaat: een controleapparaat als bedoeld in bijlage IB van verordening (EEG) nr. 3821/85;
 
@@ -27,15 +27,15 @@ b.tachograafkaart: kaart met geheugen als bedoeld in bijlage IB, hoofdstuk I, on
 
 a.zijn gewone verblijfplaats in de zin van artikel 14, derde lid, van verordening (EEG) nr. 3821/85 in Nederland heeft;
 
-b.in het bezit is van een aan hem afgegeven, geldig rijbewijs voor het besturen van een voertuig in de zin van [artikel 2.3:1, aanhef en onder a en b, van het Arbeidstijdenbesluit vervoer](../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md);
+b.in het bezit is van een aan hem afgegeven, geldig rijbewijs voor het besturen van een voertuig in de zin van artikel 2.3:1, aanhef en onder a en b, van het Arbeidstijdenbesluit vervoer;
 
 c.nog geen houder is van een bestuurderskaart, tenzij het een aanvraag betreft overeenkomstig artikel 5, eerste lid, of het een aanvraag betreft om vernieuwing van de bestuurderskaart.
-2. Een bedrijfskaart wordt op aanvraag verleend indien de aanvrager is ingeschreven in het handelsregister, bedoeld in [artikel 2 van de Handelsregisterwet 1996](../../../../wet/handelsregisterwet/1996/BWBR0007893/README.md), tot een maximum van 62 exemplaren per aanvrager.
+2. Een bedrijfskaart wordt op aanvraag verleend indien de aanvrager is ingeschreven in het handelsregister, bedoeld in artikel 2 van de Handelsregisterwet 1996, tot een maximum van 62 exemplaren per aanvrager.
 3. Een werkplaatskaart wordt op aanvraag verleend indien de aanvrager:
 
-a.met goed gevolg een cursus heeft doorlopen als bedoeld in [artikel 12, eerste lid, van de Regeling controleapparaten 2005](../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md), waarvan het installeren, onderzoeken en repareren van digitale controleapparaten deel uit maakt;
+a.met goed gevolg een cursus heeft doorlopen als bedoeld in artikel 12, eerste lid, van de Regeling controleapparaten 2005, waarvan het installeren, onderzoeken en repareren van digitale controleapparaten deel uit maakt;
 
-b.onder gezag of in de hoedanigheid van een erkenninghouder als bedoeld in [artikel 1, onderdeel d, van de Regeling controleapparaten 2005](../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md), werkzaamheden verricht.
+b.onder gezag of in de hoedanigheid van een erkenninghouder als bedoeld in artikel 1, onderdeel d, van de Regeling controleapparaten 2005, werkzaamheden verricht.
 
 c.nog geen houder is van een werkplaatskaart, tenzij het een aanvraag betreft:
 
@@ -52,9 +52,9 @@ c.nog geen houder is van een werkplaatskaart, tenzij het een aanvraag betreft:
 
 In afwijking van artikel 2, eerste lid, onder a, kan een bestuurderskaart worden verleend aan de aanvrager die zijn gewone verblijfplaats niet binnen de grenzen van de Europese Unie heeft en die onder gezag van een in Nederland gevestigde werkgever als bestuurder van een vrachtauto of bus werkzaamheden verricht of gaat verrichten, al dan niet uitsluitend bestemd voor of afkomstig van eigen onderneming of bedrijf, indien aan zijn werkgever voor hem is afgegeven:
 
-a.een bestuurdersattest als bedoeld in de [Regeling bestuurdersattest](../../../../ministeriele-regeling/regeling/bestuurdersattest/BWBR0014749/README.md); of
+a.een bestuurdersattest als bedoeld in de Regeling bestuurdersattest; of
 
-b.een tewerkstellingsvergunning als bedoeld in [artikel 2, eerste lid, van de Wet arbeid vreemdelingen](../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md).
+b.een tewerkstellingsvergunning als bedoeld in artikel 2, eerste lid, van de Wet arbeid vreemdelingen.
 
 ### Artikel  4  
 
@@ -92,7 +92,7 @@ b.indien de aanvrager niet meer kan voldoen aan de voorwaarden genoemd in artike
 
 ###Artikel 8 
 
-1. Onverminderd [artikel 2.4:11, eerste lid, van het Arbeidstijdenbesluit vervoer](../../../../AMvB/arbeidstijdenbesluit/vervoer/BWBR0009386/README.md), verliest een bestuurderskaart of werkplaatskaart zijn geldigheid indien:
+1. Onverminderd artikel 2.4:11, eerste lid, van het Arbeidstijdenbesluit vervoer, verliest een bestuurderskaart of werkplaatskaart zijn geldigheid indien:
 
 a.de kaart als verloren of gestolen is gemeld aan de Minister van Verkeer en Waterstaat;
 
@@ -111,7 +111,7 @@ d.het bestuurdersattest dat of de tewerkstellingsvergunning die ten grondslag li
 
 1. De wijze van afgifte van een tachograafkaart wordt schriftelijk aan de aanvrager gemeld.
 2. Afgifte van een bestuurderskaart geschiedt op vertoon door de aanvrager van een op zijn naam gesteld, geldig rijbewijs als bedoeld in artikel 2, eerste lid, onder b, alsmede de aan hem gezonden schriftelijke melding, bedoeld in het eerste lid.
-3. Afgifte van een werkplaatskaart geschiedt op vertoon door de aanvrager van een op zijn naam gesteld, geldig identiteitsbewijs als bedoeld in [artikel 1 van de Wet op de identificatieplicht](../../../../wet/wet/op/de/identificatieplicht/BWBR0006297/README.md), alsmede de aan hem gezonden schriftelijke melding, bedoeld in het eerste lid.
+3. Afgifte van een werkplaatskaart geschiedt op vertoon door de aanvrager van een op zijn naam gesteld, geldig identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht, alsmede de aan hem gezonden schriftelijke melding, bedoeld in het eerste lid.
 4. Een bestuurderskaart of werkplaatskaart die is aangevraagd in verband met een defect of beschadiging of vernieuwing van de oude kaart wordt niet eerder afgegeven dan na inlevering van de te vervangen kaart op de plaats van afgifte.
 5. Bij afgifte van een bestuurderskaart aan een bestuurder die een geldig rijbewijs heeft zonder pasfoto en aan een bestuurder als bedoeld in artikel 3 toont de aanvrager naast de in het tweede lid genoemde documenten ook een geldig paspoort.
 
@@ -125,10 +125,10 @@ De bestuurder tekent, indien hij niet bij het voertuig is en hij zijn bestuurder
 
 ### Artikel  11  
 
-1.  De in het controleapparaat geregistreerde gegevens worden door de werkgever of de persoon als bedoeld in [artikel 2:7, eerste lid, van de Arbeidstijdenwet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) tenminste elke 90 dagen met behulp van de bedrijfskaart overgebracht naar de vestiging van die werkgever of die persoon.   
-2.  De gegevens op een bestuurderskaart worden door de werkgever of de persoon als bedoeld in [artikel 2:7, eerste lid, van de Arbeidstijdenwet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) tenminste elke 28 dagen overgebracht naar de vestiging van die werkgever of die persoon.   
-3.  Indien de werkgever of de persoon als bedoeld in [artikel 2:7, eerste lid, van de Arbeidstijdenwet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) vanwege verlies, diefstal, defect of beschadiging van de bedrijfskaart of vanwege een defect aan het controleapparaat niet aan zijn verplichting op grond van het eerste lid kan voldoen, is hij verplicht een erkenninghouder als bedoeld in [artikel 1, onderdeel d, van de Regeling controleapparaten 2005](../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md) schriftelijk te verzoeken de gegevens over te brengen naar een computer of ander opslagmedium.   
-4.  De werkgever en de persoon, bedoeld in [artikel 2:7, eerste lid van de Arbeidstijdenwet](../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), bewaren aan hen door de erkenninghouder als bedoeld in [artikel 1, onderdeel d, van de Regeling controleapparaten 2005](../../../../ministeriele-regeling/regeling/controleapparaten/2005/BWBR0018540/README.md) verstrekte certificaten van onmogelijkheid van gegevensoverdracht ten minste 52 weken vanaf de datum van afgifte van het certificaat.  
+1.  De in het controleapparaat geregistreerde gegevens worden door de werkgever of de persoon als bedoeld in artikel 2:7, eerste lid, van de Arbeidstijdenwet tenminste elke 90 dagen met behulp van de bedrijfskaart overgebracht naar de vestiging van die werkgever of die persoon.   
+2.  De gegevens op een bestuurderskaart worden door de werkgever of de persoon als bedoeld in artikel 2:7, eerste lid, van de Arbeidstijdenwet tenminste elke 28 dagen overgebracht naar de vestiging van die werkgever of die persoon.   
+3.  Indien de werkgever of de persoon als bedoeld in artikel 2:7, eerste lid, van de Arbeidstijdenwet vanwege verlies, diefstal, defect of beschadiging van de bedrijfskaart of vanwege een defect aan het controleapparaat niet aan zijn verplichting op grond van het eerste lid kan voldoen, is hij verplicht een erkenninghouder als bedoeld in artikel 1, onderdeel d, van de Regeling controleapparaten 2005 schriftelijk te verzoeken de gegevens over te brengen naar een computer of ander opslagmedium.   
+4.  De werkgever en de persoon, bedoeld in artikel 2:7, eerste lid van de Arbeidstijdenwet, bewaren aan hen door de erkenninghouder als bedoeld in artikel 1, onderdeel d, van de Regeling controleapparaten 2005 verstrekte certificaten van onmogelijkheid van gegevensoverdracht ten minste 52 weken vanaf de datum van afgifte van het certificaat.  
 
 ###§ 7 
 
@@ -140,12 +140,12 @@ Wijzigt de Regeling taken Dienst Wegverkeer.
 
 ###Artikel 13 
 
-De [Tijdelijke regeling verstrekking tachograafkaarten](../../../../ministeriele-regeling/tijdelijke/regeling/verstrekking/tachograafkaarten/BWBR0017656/README.md) wordt ingetrokken.
+De Tijdelijke regeling verstrekking tachograafkaarten wordt ingetrokken.
 
 ###Artikel 14 
 
-1. Tachograafkaarten verleend ingevolge de [Tijdelijke regeling verstrekking tachograafkaarten](../../../../ministeriele-regeling/tijdelijke/regeling/verstrekking/tachograafkaarten/BWBR0017656/README.md), worden gelijk gesteld met tachograafkaarten verleend op grond van deze regeling.
-2. Aanvragen van tachograafkaarten ingevolge de [Tijdelijke regeling tachograafkaarten](../../../../ministeriele-regeling/tijdelijke/regeling/verstrekking/tachograafkaarten/BWBR0017656/README.md) ingediend vóór het tijdstip van inwerkingtreding van deze regeling worden aangemerkt als aanvragen ingediend na dat tijdstip.
+1. Tachograafkaarten verleend ingevolge de Tijdelijke regeling verstrekking tachograafkaarten, worden gelijk gesteld met tachograafkaarten verleend op grond van deze regeling.
+2. Aanvragen van tachograafkaarten ingevolge de Tijdelijke regeling tachograafkaarten ingediend vóór het tijdstip van inwerkingtreding van deze regeling worden aangemerkt als aanvragen ingediend na dat tijdstip.
 
 ###Artikel 15 
 
