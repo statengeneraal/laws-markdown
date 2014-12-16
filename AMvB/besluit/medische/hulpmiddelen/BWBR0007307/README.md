@@ -340,6 +340,15 @@ b. nadat de in bijlage I, punt 13.3, onder e, van de richtlijn bedoelde uiterste
 
 De in artikel 15 bedoelde persoon draagt zorg dat de medische hulpmiddelen die hij voorhanden heeft, op deugdelijke, zindelijke, ordelijke wijze en met inachtneming van de in bijlage I, punt 13.3, onder i, van de richtlijn bedoelde voorwaarden worden bewaard. 
 
+####Permanente rimpelvullers
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  16a  
+Treedt in werking per 01-01-2015 
+
+De toepassing van een rimpelvuller die levenslang in het lichaam aanwezig blijft, is verboden voor andere dan reconstructieve doeleinden. 
+
 ####Intrekking besluiten
 
 ###Artikel 17 

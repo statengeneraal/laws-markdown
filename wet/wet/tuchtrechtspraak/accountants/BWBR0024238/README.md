@@ -221,6 +221,20 @@ Een lid dan wel plaatsvervangend lid van de accountantskamer dat accountant is, 
 3.  De voorzitter van de accountantskamer kan betrokkene verzoeken binnen een termijn van twee weken schriftelijk op de reactie van de klager te reageren. De secretaris zendt een afschrift van de reactie van betrokkene aan de klager.   
 4.  De voorzitter van de accountantskamer kan de termijn genoemd in de voorgaande leden verlengen indien het de voorzitter van de accountantskamer blijkt dat daar aanleiding toe is.  
 
+### Artikel  25a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De secretaris van de accountantskamer doet periodiek opgave van ingediende klachten, met een beschrijving van de aard en inhoud van de klacht, aan: 
+
+a. de Autoriteit Financiële Markten, voor zover het betreft klachten waarbij een vermoeden bestaat van een handelen of nalaten als bedoeld in artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties; en  
+
+b. de beroepsorganisatie, voor zover het betreft klachten waarbij een vermoeden bestaat van een handelen of nalaten als bedoeld in artikel 42, eerste lid, van de Wet op het accountantsberoep.     
+2.  Desgevraagd, of op last van de voorzitter van de accountantskamer, zendt de secretaris van de accountantskamer aan de in het eerste lid bedoelde instanties een afschrift van het klaagschrift en de reactie van betrokkene, de daarbij gevoegde stukken en eventuele aanvullingen daarop.   
+3.  Op verzoek van de klager worden de processtukken, bedoeld in het tweede lid, in geanonimiseerde vorm aan de Autoriteit Financiële Markten of de beroepsorganisatie gezonden, zodat daaruit de persoonsgegevens van de klager en derden niet kunnen worden afgeleid. Alsdan wordt met betrekking tot die klacht de opgave, bedoeld in het eerste lid, eveneens in geanonimiseerde vorm gedaan.   
+4.  De voorzitter van de accountantskamer kan op verzoek van de Autoriteit Financiële Markten of de beroepsorganisatie de behandeling van een klacht voor ten hoogste zes maanden opschorten indien deze instanties hebben aangegeven een onderzoek te verrichten of voornemens te zijn een onderzoek te verrichten naar het handelen of nalaten waarop de klacht betrekking heeft en dat onderzoek kan leiden tot het indienen van een klacht door deze instanties.   
+5.  De voorzitter van de accountantskamer kan op verzoek van de instantie die overeenkomstig het derde lid heeft aangegeven een onderzoek te verrichten of voornemens te zijn een onderzoek te verrichten, de in het derde lid genoemde termijn met ten hoogste drie maanden verlengen, indien de voorbereiding van een klacht meer tijd vergt.   
+6.  Van de opschorting van de behandeling of de verlenging van de in het derde lid genoemde termijn wordt mededeling gedaan aan de klager en betrokkene.  
+
 ### Artikel  26  
 
 1.  De betrokkene wordt binnen een termijn van ten hoogste tien weken nadat de zaak bij de accountantskamer aanhangig is gemaakt opgeroepen om op een door de voorzitter te bepalen dag en uur ter zitting te verschijnen. Indien de voorzitter van de accountantskamer gebruik maakt van de bevoegdheid in artikel 25, kan hij bepalen dat de termijn van tien weken wordt verlengd, waarbij de termijn voor verlenging niet langer kan zijn dan de tijd die is gebruikt voor de procedure in artikel 25.   
@@ -255,6 +269,13 @@ b. de mededeling dat de betrokkene bevoegd is getuigen en deskundigen ter zittin
 6.  Het proces-verbaal wordt door de voorzitter en de secretaris ondertekend.   
 7.  Aan het proces-verbaal kunnen overgelegde pleitnotities worden gehecht.   
 8.  De accountantskamer kan bepalen dat de verklaring van een partij, getuige of deskundige geheel in het proces-verbaal zal worden opgenomen. In dat geval wordt de verklaring onverwijld op schrift gesteld en aan de partij, getuige of deskundige voorgelezen. Deze mag daarin wijzigingen aanbrengen, die op schrift worden gesteld en aan de partij, getuige of deskundige worden voorgelezen. De verklaring wordt door de partij, getuige of deskundige ondertekend. Heeft ondertekening niet plaats, dan wordt de reden daarvan in het proces-verbaal vermeld.  
+
+### Artikel  29a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De voorzitter van de accountantskamer kan, indien daarvoor gewichtige redenen bestaan, ambtshalve of op verzoek van klager of betrokkene bepalen dat tijdens de klachtprocedure ingediende stukken of gegeven inlichtingen dan wel onderdelen daarvan uitsluitend ter kennisneming van de partijen staan en niet door hen aan anderen mogen worden verstrekt of anderszins openbaar worden gemaakt.   
+2.  Het eerste lid geldt niet ten aanzien van stukken of inlichtingen die partijen op grond van een wettelijk voorschrift verplicht zijn aan anderen te verstrekken of openbaar te maken, en stukken of inlichtingen die reeds openbaar zijn dan wel in de uitspraak van de accountantskamer of in hoger beroep van het College openbaar worden gemaakt.   
+3.  De voorzitter van de accountantskamer kan, ambtshalve of op verzoek van klager of betrokkene een partij veroordelen tot betaling van een geldsom, dwangsom genaamd, voor het geval dat niet aan het eerste lid wordt voldaan, onverminderd het recht op schadevergoeding indien daartoe aanleiding is. De artikelen 611b tot en met 611i van het Wetboek van Burgerlijke rechtsvordering zijn van overeenkomstige toepassing.  
 
 ### Artikel  30  
 

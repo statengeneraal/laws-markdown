@@ -38,6 +38,23 @@ De munten die door de Staat der Nederlanden worden uitgegeven zijn Nederlandse e
 1.  De denominaties van de bijzondere munten met de hoedanigheid van wettig betaalmiddel, de materialen waaruit deze munten zijn vervaardigd, de gewichten en de afmetingen, alsmede de bedragen tot welke zij de hoedanigheid van wettig betaalmiddel hebben, worden bij algemene maatregel van bestuur vastgesteld.   
 2.  De bestanddelen van de beeldenaars van de in het eerste lid genoemde munten worden bij koninklijk besluit vastgesteld. Deze munten dragen in ieder geval op de voorzijde de beeltenis en de naam van de Koning met de woorden: Koning (Koningin) der Nederlanden, en op de keerzijde de waardeaanduiding.  
 
+### Artikel  4a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Beleggingsmunten zijn: 
+
+a. een gouden munt van tweehonderdvijftig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 31,103 gram met een afwijking van ten hoogste 0,093 gram en een middellijn van 37,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;  
+
+b. een gouden munt van honderd-euro met een goudgehalte van 999,9 duizendste, een gewicht van 15,552 gram met een afwijking van ten hoogste 0,078 gram en een middellijn van 28,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;  
+
+c. een gouden munt van vijftig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 7,776 gram met een afwijking van ten hoogste 0,062 gram en een middellijn van 22,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;  
+
+d. een gouden munt van vijfentwintig-euro met een goudgehalte van 999,9 duizendste, een gewicht van 3,110 gram met een afwijking van ten hoogste 0,037 gram en een middellijn van 16,0 millimeter met een afwijking van ten hoogste 0,10 millimeter;  
+
+e. een zilveren munt van tweeëneenhalve-euro met een zilvergehalte van 999 duizendste, een gewicht van 31,103 gram met een afwijking van ten hoogste 0,25 gram en een middellijn van 37,0 millimeter met een afwijking van ten hoogste 0,10 millimeter.     
+2.  De beeldenaar van de beleggingsmunten is op de voorzijde de beeltenis en de naam van de Koning (Koningin) met de woorden «Koning (Koningin) der Nederlanden» en op de keerzijde het Gekroond rijkswapen met daaronder de tekst «Nederland», de waardeaanduiding, het gehalte edelmetaal, het jaartal van uitgifte, het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester.   
+3.  De beleggingsmunten hebben een geribbelde rand.  
+
 ### Artikel  5  
 
 1.  Munten zonder de hoedanigheid van wettig betaalmiddel zijn: 
@@ -58,6 +75,13 @@ c. de zilveren dukaat.
 1.  De munten, bedoeld in artikel 2, worden uitsluitend in opdracht van de Staat der Nederlanden vervaardigd en uitsluitend door de Staat der Nederlanden uitgegeven.   
 2.  De in het eerste lid bedoelde opdracht wordt verleend onder het beding dat de naar het oordeel van Onze minister in verband met het vervaardigen van munten noodzakelijke veiligheidsmaatregelen in acht worden genomen.   
 3.  De in het eerste lid bedoelde opdracht wordt verleend met inachtneming van artikel 128, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.  
+
+### Artikel  6a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De algemeen directeur van de Koninklijke Nederlandse Munt voert de titel Muntmeester.   
+2.  De bij de Koninklijke Nederlandse Munt in opdracht van de Staat der Nederlanden vervaardigde munten worden voorzien van het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester.   
+3.  Het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester worden bij ministeriële regeling vastgesteld.  
 
 ### Artikel  7  
 

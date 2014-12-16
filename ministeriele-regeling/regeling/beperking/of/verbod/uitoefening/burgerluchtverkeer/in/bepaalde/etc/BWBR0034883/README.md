@@ -3,7 +3,7 @@
 ##Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden en aanwijzing bijzonder luchtverkeersgebied 2014
 
 De Minister van Defensie en de Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op [artikel 5.10, eerste en tweede lid, van de Wet Luchtvaart](../../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md) en de [artikelen 1a, derde lid](../../../../../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md), [8](../../../../../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md) en [45, vierde lid, van het Luchtverkeersreglement](../../../../../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);
+Gelet op artikel 5.10, eerste en tweede lid, van de Wet Luchtvaart en de artikelen 1a, derde lid, 8 en 45, vierde lid, van het Luchtverkeersreglement;
 Besluiten:    
 
 ### Artikel  1  
@@ -14,13 +14,17 @@ In deze regeling wordt verstaan onder:
 
 *AMC-Manageable Area:* luchtruim dat enerzijds voor militaire en anderzijds voor civiele activiteiten kan worden gebruikt;  
 
-*burgerluchtverkeer:* alle luchtvaartactiviteiten van burgerluchtvaartuigen met inbegrip van de bijzondere luchtvaartuigen, bedoeld in [artikel 1a van het Luchtverkeersreglement](../../../../../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md);  
+*burgerluchtverkeer:* alle luchtvaartactiviteiten van burgerluchtvaartuigen;  
 
 *militair luchtverkeer:* vluchten uitgevoerd onder militair gezag;  
 
 *NOTAM:* Notice to Airmen, een bericht aan luchtvarenden gedistribueerd via een communicatienetwerk voor luchtverkeersdiensten met inlichtingen over de instelling, toestand, of verandering van enige luchtvaartfaciliteit, -dienstverlening, -procedure of -gevaar, waarvan het noodzakelijk is dat personen die betrokken zijn bij de vluchtvoorbereiding en -uitvoering daarvan tijdig kennis nemen;  
 
 *UAS:* Unmanned Aircraft System.   
+
+### Artikel  1a  
+
+Deze regeling berust op artikel 5.10, eerste en tweede lid, van de Wet Luchtvaart en artikel 19, eerste lid, onderdeel e, van het Besluit luchtverkeer 2014. 
 
 ### Artikel  2  
 
@@ -156,7 +160,7 @@ y. EHD 09A AMC-Manageable Area het gebied, begrensd door de lijn die achtereenvo
 z. CBA SEA 1 AMC-Manageable Area het Nederlandse deel van het gebied wordt begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 54°57'30.00"N 005°02'34.82"E; langs de parallel naar 54°57'30.00"N 006°30'00.00"E; langs de parallel naar 54°57'30.00"N 007°36'59.07"E; 53°54'12.87"N 006°55'25.40"E; 53°50'01.91"N 006°30'00.00"E; 53°32'30.00"N 004°49'39.38"E; langs de parallel naar 53°32'30.00"N 003°45'37.54"E; terug naar beginpunt; van FL 055 tot een in de NOTAM aan te geven maximum van FL 660.  
 
 aa.  EB TRA N B AMC-Manageable area het Nederlandse deel van de grotendeels in België gelegen TRA Noord B wordt begrensd door de lijn die achtereenvolgens de volgende posities verbindt: 51°26'00.00"N 005°04'00.00"E; langs de Nederlands-Belgische grens naar 51°16'00.00"N 005°27'00.00"E; terug naar beginpunt; van FL 095 tot FL 660.     
-5.  In de gebieden EHR 4, EHR 4B en EHR 4C is militair luchtverkeer, voor zover voor de militaire oefeningen noodzakelijk, vrijgesteld van het verbod betreffende laagvliegen, neergelegd in [artikel 45, eerste lid, onderdeel b, van het Luchtverkeersreglement](../../../../../../../../../../../AMvB/luchtverkeersreglement/BWBR0005775/README.md).  
+5.  In de gebieden EHR 4, EHR 4B en EHR 4C is militair luchtverkeer, voor zover voor de militaire oefeningen noodzakelijk, vrijgesteld van het verbod betreffende laagvliegen, neergelegd in paragraaf SERA.5005, onderdeel f, onder 2, van verordening (EU) nr. 923/2012.  
 
 ### Artikel  3  
 
@@ -189,9 +193,9 @@ b. helikopters die worden gebruikt voor spoedeisende hulpverlening door traumate
 
 ### Artikel  4  
 
-1.  Als bijzonder luchtverkeersgebied ter bescherming van het luchtverkeer ten opzichte van het militaire valschermspringen van grote hoogte zonder grondzicht wordt aangewezen het gebied "Regte Heide", begrensd door de lijn die de cirkel vormt met een straal van 2 nautische mijlen vanuit positie 51°30'45.00"N 005°01'40.00"E; tot 18.500 ft AMSL.   
-2.  Het bijzondere luchtverkeersgebied, genoemd in het eerste lid, wordt per NOTAM geactiveerd.   
-3.  Indien het bijzondere luchtverkeersgebied actief is, is voor het uitvoeren van vluchten met luchtvaartuigen binnen dit bijzondere luchtverkeersgebied een klaring van de plaatselijke luchtverkeersleidingsdienst van de militaire luchthaven Gilze-Rijen of van AOCS NM vereist.  
+1.  Als gebied met beperkingen ter bescherming van het luchtverkeer ten opzichte van het militaire valschermspringen van grote hoogte zonder grondzicht wordt aangewezen het gebied EHR 58 (Regte Heide), begrensd door de lijn die de cirkel vormt met een straal van 2 nautische mijlen vanuit positie 51°30'45.00"N 005°01'40.00"E; tot 18.500 ft AMSL.   
+2.  De EHR 58, genoemd in het eerste lid, wordt per NOTAM geactiveerd.   
+3.  Indien de EHR 58 actief is, is voor het uitvoeren van vluchten met luchtvaartuigen binnen dit gebied een klaring van de plaatselijke luchtverkeersleidingsdienst van de militaire luchthaven Gilze-Rijen of van AOCS NM vereist.  
 
 ### Artikel  5  
 
@@ -201,7 +205,7 @@ a. de Commandant Zeestrijdkrachten voor de gebieden EHD 41A, EHD 41B, EHD 41C, E
 
 b. de Commandant Landstrijdkrachten voor de gebieden EHD 49, EHR 2, EHR 3, EHR 3A, EHR 9, EHR 50, EHR 51, EHR 52, EHR 53, EHR 54, EHR 55A, EHR 55B, EHR 56 en EHR 57;  
 
-c. de Commandant Luchtstrijdkrachten voor de gebieden CBA SEA 1, EB TRA N B, EHD 01, EHD 01A, EHD 02, EHD 02A, EHD 03, EHD 03A, EHD 04, EHD 04A, EHD 05, EHD 05A, EHD 06, EHD 06A, EHD 07, EHD 07A, EHD 08, EHD 08A, EHD 09, EHD 09A, EHD 42, EHD 61, EHD 62, EHD 63, EHR 1A, EHR 1B, EHR 2A, EHR 2B, EHR 2C, EHR 4, EHR 4A, EHR 4B, EHR 4C, EHR 4D, EHR 4E, EHR 4F, TRA 10, TRA 10A, TRA 10B, TRA 12 en TRA 12A.     
+c. de Commandant Luchtstrijdkrachten voor de gebieden CBA SEA 1, EB TRA N B, EHD 01, EHD 01A, EHD 02, EHD 02A, EHD 03, EHD 03A, EHD 04, EHD 04A, EHD 05, EHD 05A, EHD 06, EHD 06A, EHD 07, EHD 07A, EHD 08, EHD 08A, EHD 09, EHD 09A, EHD 42, EHD 61, EHD 62, EHD 63, EHR 1A, EHR 1B, EHR 2A, EHR 2B, EHR 2C, EHR 4, EHR 4A, EHR 4B, EHR 4C, EHR 4D, EHR 4E, EHR 4F EHR 58, TRA 10, TRA 10A, TRA 10B, TRA 12 en TRA 12A.     
 2.  Mede ten behoeve van de uitgifte van NOTAMs worden door de autoriteiten, genoemd in het eerste lid, coördinatoren aangewezen.   
 3.  Naar de vorengenoemde gebieden kan worden verwezen met de lettercijfercombinatie die boven de beschrijving is gesteld.   
 
@@ -213,9 +217,9 @@ Wijzigt de Regeling modelvliegen.
 
 Ingetrokken worden: 
 
-a. de [Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden en aanwijzing bijzondere luchtverkeersgebieden](../../../../../../../../../../../ministeriele-regeling/beperkingverbod/burgerluchtverkeer/en/aanwijzing/luchtverkeersgebieden/BWBR0008922/README.md);  
+a. de Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden en aanwijzing bijzondere luchtverkeersgebieden;  
 
-b. de [Regeling sluiting luchtruim boven Den Haag en kasteel Drakensteijn](../../../../../../../../../../../ministeriele-regeling/regeling/sluiting/luchtruim/boven/den/haag/en/kasteel/drakesteijn/BWBR0021304/README.md);   
+b. de Regeling sluiting luchtruim boven Den Haag en kasteel Drakensteijn;   
 
 c. de Regeling sluiting luchtruim Scheveningen.  
 
@@ -226,7 +230,7 @@ c. de Regeling sluiting luchtruim Scheveningen.
 
 ### Artikel  9  
 
-Deze regeling wordt aangehaald als: Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden en aanwijzing bijzonder luchtverkeersgebied 2014. 
+Deze regeling wordt aangehaald als: Regeling beperking of verbod uitoefening burgerluchtverkeer in bepaalde gebieden 2014. 
 Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.   
 
 ’s-Gravenhage 

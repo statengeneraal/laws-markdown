@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het, mede gelet op [artikel 110 van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md), met het oog op een goede en democratische bestuursvoering wenselijk is gebleken de regelen met betrekking tot de openheid en openbaarheid van bestuur aan te passen en deze zoveel mogelijk in de wet op te nemen;
+Alzo Wij in overweging genomen hebben, dat het, mede gelet op artikel 110 van de Grondwet, met het oog op een goede en democratische bestuursvoering wenselijk is gebleken de regelen met betrekking tot de openheid en openbaarheid van bestuur aan te passen en deze zoveel mogelijk in de wet op te nemen;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -28,7 +28,7 @@ e. ambtelijke of gemengd samengestelde adviescommissie: een instantie, met als t
 
 f. persoonlijke beleidsopvatting: een opvatting, voorstel, aanbeveling of conclusie van een of meer personen over een bestuurlijke aangelegenheid en de daartoe door hen aangevoerde argumenten;  
 
-g. milieu-informatie: hetgeen daaronder wordt verstaan in [artikel 19.1a van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md);  
+g. milieu-informatie: hetgeen daaronder wordt verstaan in artikel 19.1a van de Wet milieubeheer;  
 
 h.hergebruik: het gebruik van informatie die openbaar is op grond van deze of een andere wet en die is neergelegd in documenten berustend bij een overheidsorgaan, voor andere doeleinden dan het oorspronkelijke doel binnen de publieke taak waarvoor de informatie is geproduceerd;
 
@@ -86,7 +86,7 @@ Indien het verzoek betrekking heeft op gegevens in documenten die berusten bij e
 
 1.  Het bestuursorgaan beslist op het verzoek om informatie zo spoedig mogelijk, doch uiterlijk binnen vier weken gerekend vanaf de dag na die waarop het verzoek is ontvangen.   
 2.  Het bestuursorgaan kan de beslissing voor ten hoogste vier weken verdagen. Van de verdaging wordt voor de afloop van de eerste termijn schriftelijk gemotiveerd mededeling gedaan aan de verzoeker.   
-3.  Onverminderd [artikel 4:15 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) wordt de termijn voor het geven van een beschikking opgeschort gerekend vanaf de dag na die waarop het bestuursorgaan de verzoeker meedeelt dat toepassing is gegeven aan [artikel 4:8 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), tot de dag waarop door de belanghebbende of belanghebbenden een zienswijze naar voren is gebracht of de daarvoor gestelde termijn ongebruikt is verstreken.   
+3.  Onverminderd artikel 4:15 van de Algemene wet bestuursrecht wordt de termijn voor het geven van een beschikking opgeschort gerekend vanaf de dag na die waarop het bestuursorgaan de verzoeker meedeelt dat toepassing is gegeven aan artikel 4:8 van de Algemene wet bestuursrecht, tot de dag waarop door de belanghebbende of belanghebbenden een zienswijze naar voren is gebracht of de daarvoor gestelde termijn ongebruikt is verstreken.   
 4.  Indien de opschorting, bedoeld in het derde lid, eindigt, doet het bestuursorgaan daarvan zo spoedig mogelijk mededeling aan de verzoeker, onder vermelding van de termijn binnen welke de beschikking alsnog moet worden gegeven.   
 5.  Indien het bestuursorgaan heeft besloten informatie te verstrekken, wordt de informatie verstrekt tegelijk met de bekendmaking van het besluit, tenzij naar verwachting een belanghebbende bezwaar daar tegen heeft, in welk geval de informatie niet eerder wordt verstrekt dan twee weken nadat de beslissing is bekendgemaakt.   
 6.  Voor zover het verzoek betrekking heeft op het verstrekken van milieu-informatie: 
@@ -113,7 +113,7 @@ d.inlichtingen daaruit te verschaffen.
 a.het verstrekken van de informatie in die vorm redelijkerwijs niet gevergd kan worden;
 
 b.de informatie reeds in een andere, voor de verzoeker gemakkelijk toegankelijke vorm voor het publiek beschikbaar is.
-3. Indien het verzoek betrekking heeft op milieu-informatie als bedoeld in [artikel 19.1a, eerste lid, onder b, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), verstrekt het bestuursorgaan, zo nodig, en indien deze informatie voorhanden is, tevens informatie over de methoden die zijn gebruikt bij het samenstellen van eerstbedoelde informatie.
+3. Indien het verzoek betrekking heeft op milieu-informatie als bedoeld in artikel 19.1a, eerste lid, onder b, van de Wet milieubeheer, verstrekt het bestuursorgaan, zo nodig, en indien deze informatie voorhanden is, tevens informatie over de methoden die zijn gebruikt bij het samenstellen van eerstbedoelde informatie.
 
 ### Hoofdstuk  IV  
 
@@ -150,7 +150,7 @@ b. de veiligheid van de Staat zou kunnen schaden;
 
 c. bedrijfs- en fabricagegegevens betreft, die door natuurlijke personen of rechtspersonen vertrouwelijk aan de overheid zijn meegedeeld;  
 
-d. persoonsgegevens betreft als bedoeld in [paragraaf 2 van hoofdstuk 2 van de Wet bescherming persoonsgegevens](../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt.     
+d. persoonsgegevens betreft als bedoeld in paragraaf 2 van hoofdstuk 2 van de Wet bescherming persoonsgegevens, tenzij de verstrekking kennelijk geen inbreuk op de persoonlijke levenssfeer maakt.     
 2.   Het verstrekken van informatie ingevolge deze wet blijft eveneens achterwege voor zover het belang daarvan niet opweegt tegen de volgende belangen:  
 
 a. de betrekkingen van Nederland met andere staten en met internationale organisaties;  
@@ -192,7 +192,7 @@ b.de beveiliging van bedrijven en het voorkomen van sabotage.
 
 1. Dit hoofdstuk is niet van toepassing op:
 
-a.informatie, zijnde een werk van letterkunde, wetenschap of kunst in de zin van de [Auteurswet](../../../../../../wet/auteurswet/BWBR0001886/README.md), een opname van uitvoering, fonogram, eerste vastlegging van een film of een opname van een programma in de zin van de [Wet op de naburige rechten](../../../../../../wet/wet/op/de/naburige/rechten/BWBR0005921/README.md) of een databank in de zin van de [Databankenwet](../../../../../../wet/databankenwet/BWBR0010591/README.md) en waarvan een overheidsorgaan niet de maker, uitvoerend kunstenaar, producent van fonogrammen, producent van de eerste vastlegging van films, omroeporganisatie of producent van een databank dan wel rechtverkrijgende is;
+a.informatie, zijnde een werk van letterkunde, wetenschap of kunst in de zin van de Auteurswet, een opname van uitvoering, fonogram, eerste vastlegging van een film of een opname van een programma in de zin van de Wet op de naburige rechten of een databank in de zin van de Databankenwet en waarvan een overheidsorgaan niet de maker, uitvoerend kunstenaar, producent van fonogrammen, producent van de eerste vastlegging van films, omroeporganisatie of producent van een databank dan wel rechtverkrijgende is;
 
 b.informatie in het bezit van openbare omroepen of hun dochterondernemingen, of van andere overheidsorganen of hun dochterondernemingen ten behoeve van de vervulling van een publieke omroeptaak;
 
@@ -239,7 +239,7 @@ De voorwaarden voor hergebruik zijn voor vergelijkbare categorieën van hergebru
 
 ###Artikel 11i 
 
-Ten aanzien van overheidsorganen die geen bestuursorgaan zijn, zijn [titel 1.1](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [hoofdstuk 2](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de [afdelingen 3.1](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3.2](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [3.6](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [3.7](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [titel 4.1](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [hoofdstuk 6](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de [afdelingen 7.1](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [7.2](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [hoofdstuk 8](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [titel 10.1 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing.
+Ten aanzien van overheidsorganen die geen bestuursorgaan zijn, zijn titel 1.1, hoofdstuk 2, de afdelingen 3.1, 3.2, 3.6 en 3.7, titel 4.1, hoofdstuk 6, de afdelingen 7.1 en 7.2, hoofdstuk 8 en titel 10.1 van de Algemene wet bestuursrecht van overeenkomstige toepassing.
 
 ### Hoofdstuk  VI  
 
@@ -287,7 +287,7 @@ Bevat wijzigingen in andere regelgeving.
 
 ### Artikel  21  
 
-Op verzoeken op grond van de [Archiefwet 1962](../../../../../../wet/archiefwet/1995/BWBR0007376/README.md) (*Stb.* 1962, 313) tot raadpleging of gebruik van vóór de inwerkingtreding van deze wet in een archiefbewaarplaats berustende archiefbescheiden blijven de voor de inwerkingtreding van deze wet gestelde beperkingen ten aanzien van de openbaarheid van kracht. 
+Op verzoeken op grond van de Archiefwet 1962 (*Stb.* 1962, 313) tot raadpleging of gebruik van vóór de inwerkingtreding van deze wet in een archiefbewaarplaats berustende archiefbescheiden blijven de voor de inwerkingtreding van deze wet gestelde beperkingen ten aanzien van de openbaarheid van kracht. 
 
 ### Artikel  22  
 

@@ -12,12 +12,17 @@ Wijzigt het Ontslagbesluit.
 
 ### Artikel  II  
 
-Artikel 4:2, eerste en tweede lid, van het Ontslagbesluit blijft van toepassing op verzoeken om toestemming tot opzegging van de arbeidsverhouding van werknemers in dienst van werkgevers in de thuiszorg, de kraamzorg, de jeugdgezondheidszorg, met een verpleeg- of verzorgingshuis, of in de gehandicaptenzorg of de jeugdzorg, gedaan voor de datum van inwerkingtreding van deze regeling, tenzij een dergelijk verzoek in overeenstemming is met Bijlage C van het Ontslagbesluit. 
+Artikel 4:2, eerste en tweede lid, van het Ontslagbesluit blijft van toepassing op verzoeken om toestemming tot opzegging van de arbeidsverhouding van werknemers in dienst van werkgevers in de thuiszorg, de kraamzorg, de jeugdgezondheidszorg, met een verpleeg- of verzorgingshuis, of in de gehandicaptenzorg of de jeugdzorg, gedaan voor 1 juli 2015, tenzij een dergelijk verzoek in overeenstemming is met Bijlage C van het Ontslagbesluit. 
 
 ### Artikel  III  
 Treedt in werking per 01-01-2015 
 
 Wijzigt het Ontslagbesluit. 
+
+###Artikel IIIA 
+Treedt in werking per 01-01-2015 
+
+Wijzigt deze regeling.
 
 ### Artikel  IV  
 

@@ -455,7 +455,7 @@ c. ten aanzien waarvan het gemeentebestuur bij die gelegenheid heeft verklaard d
 ### Artikel  44a  
 
 1.  Het tijdvak voor de subsidieverstrekking ten behoeve van het treffen van geluidwerende maatregelen aan woningen als bedoeld in artikel 44, eerste lid, beslaat de periode vanaf de inwerkingtreding van paragraaf 8 tot en met 31 december 2014.   
-2.  Het subsidieplafond voor het tijdvak, bedoeld in het eerste lid, wordt vastgesteld op € 10.000.000,–.  
+2.  Het subsidieplafond voor het tijdvak, bedoeld in het eerste lid, wordt vastgesteld op € 15.850.000,–.  
 
 ### §  8.3  
 

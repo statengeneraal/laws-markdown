@@ -3,16 +3,16 @@
 ##Regeling van de Minister van Financiën van 5 december 2012, kenmerk BFB/2012/18035 M, houdende de vaststelling van de bedragen tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van artikel 3, eerste en tweede lid, van de Kaderwet financiële verstrekkingen Financiën (Regeling maximering verzekering exportkredieten en investeringen 2013)
 
 De Minister van Financiën, handelende in overeenstemming met de Minister voor Buitenlandse Handel en Ontwikkelingssamenwerking,  
-Gelet op [artikel 6 van de Kaderwet financiële verstrekkingen Financiën](../../../../../../../../../wet/kaderwet/financiële/verstrekkingen/financiën/BWBR0007886/README.md);
+Gelet op artikel 6 van de Kaderwet financiële verstrekkingen Financiën;
 Besluit:    
 
 ### Artikel  1  
 
-Het bedrag tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in [artikel 3, eerste lid, van de Kaderwet financiële verstrekkingen Financiën](../../../../../../../../../wet/kaderwet/financiële/verstrekkingen/financiën/BWBR0007886/README.md) wordt voor 2013 vastgesteld op € 10.000.000.000,–. 
+Het bedrag tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in artikel 3, eerste lid, van de Kaderwet financiële verstrekkingen Financiën wordt voor 2013 vastgesteld op € 10.000.000.000,–. 
 
 ### Artikel  2  
 
-1. Het bedrag tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in [artikel 3, tweede lid, van de Kaderwet financiële verstrekkingen Financiën](../../../../../../../../../wet/kaderwet/financiële/verstrekkingen/financiën/BWBR0007886/README.md) wordt voor 2013 vastgesteld op: 
+1. Het bedrag tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in artikel 3, tweede lid, van de Kaderwet financiële verstrekkingen Financiën wordt voor 2013 vastgesteld op: 
 
 a. € 45.378.000,– ten behoeve van ondernemingen waar minder dan 500 werknemers werkzaam zijn;  
 

@@ -3,7 +3,7 @@
 ##Regeling van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 1 april 2012, nr. DL/380610, houdende regels voor de verstrekking van aanvullende bekostiging voor Bekwaamheid van het management en professionalisering onderwijspersoneel in het middelbaar beroepsonderwijs en AOC’s, exclusief de VO-afdeling (Regeling aanvullende bekostiging bekwaamheid van het management en professionalisering onderwijspersoneel Middelbaar Beroepsonderwijs)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap, handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie;  
-Gelet op [artikel 2.2.3, tweede lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 2, eerste lid, aanhef en onder u, van de Regeling overige OCW-subsidies](../../../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md);
+Gelet op artikel 2.2.3, tweede lid, van de Wet educatie en beroepsonderwijs en artikel 2, eerste lid, aanhef en onder u, van de Regeling overige OCW-subsidies;
 Besluit:     
 ### 1  
 
@@ -17,15 +17,15 @@ In deze regeling wordt verstaan onder:
 
 a.  *minister:* Minister van Onderwijs, Cultuur en Wetenschap en, voor zover het betreft het onderwijs op het gebied van de landbouw en de natuurlijke omgeving, de Minister van Economische Zaken;  
 
-b.  *WEB:* [Wet educatie en beroepsonderwijs](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+b.  *WEB:* Wet educatie en beroepsonderwijs;  
 
-c.  *beroepsonderwijs:* middelbaar beroepsonderwijs, bedoeld in [artikel 1.2.1, tweede lid, van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+c.  *beroepsonderwijs:* middelbaar beroepsonderwijs, bedoeld in artikel 1.2.1, tweede lid, van de WEB;  
 
-d.  *instelling:* regionaal opleidingencentrum als bedoeld in [artikel 1.3.1 van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), een vakinstelling als bedoeld in [artikel 1.3.2a van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), een agrarisch opleidingscentrum als bedoeld in [artikel 1.3.3 van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en instellingen als bedoeld in [artikel 12.3.8](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [artikel 12.3.9](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+d.  *instelling:* regionaal opleidingencentrum als bedoeld in artikel 1.3.1 van de WEB, een vakinstelling als bedoeld in artikel 1.3.2a van de WEB, een agrarisch opleidingscentrum als bedoeld in artikel 1.3.3 van de WEB en instellingen als bedoeld in artikel 12.3.8 en artikel 12.3.9;  
 
 e.  *AOC:* agrarisch opleidingscentrum;  
 
-f.  *bevoegd gezag:* bevoegd gezag van een instelling, bedoeld in [artikel 1.1.1, onder w, ad 1 en 2, van de WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+f.  *bevoegd gezag:* bevoegd gezag van een instelling, bedoeld in artikel 1.1.1, onder w, ad 1 en 2, van de WEB;  
 
 g.  *bestuursakkoord:* op 22 november 2011 gesloten Bestuurakkoord tussen werkgevers in het mbo, verenigd in de MBO Raad en het Ministerie van Onderwijs, Cultuur en Wetenschap over verdere professionalisering van medewerkers in het mbo;  
 
@@ -65,7 +65,7 @@ c) Versterking onderwijskundig leiderschap management.
 
 ####Berekening aanvullende bekostiging
 
-De aanvullende middelen, bedoeld in artikel 2, worden over de daarvoor in aanmerking komende instellingen verdeeld naar rato van de exploitatiekosten van het betreffende begrotingsjaar, zoals berekend op grond van [artikel 2.2.2, eerste lid, van het Uitvoeringsbesluit WEB](../../../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md). 
+De aanvullende middelen, bedoeld in artikel 2, worden over de daarvoor in aanmerking komende instellingen verdeeld naar rato van de exploitatiekosten van het betreffende begrotingsjaar, zoals berekend op grond van artikel 2.2.2, eerste lid, van het Uitvoeringsbesluit WEB. 
 
 ### Artikel  5  
 
@@ -78,8 +78,8 @@ De aanvullende middelen, bedoeld in artikel 2, worden over de daarvoor in aanmer
 
 ####Begrotingsvoorwaarde
 
-1). Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).
-2). In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting van het Ministerie van Onderwijs, Cultuur en Wetenschap ter beschikking staat, een en ander naar rato zoals vermeld in artikel 4. 
+1). Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.
+2). In geval van het niet vervullen van de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht, worden de verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting van het Ministerie van Onderwijs, Cultuur en Wetenschap ter beschikking staat, een en ander naar rato zoals vermeld in artikel 4. 
 
 ### 3  
 
@@ -89,7 +89,7 @@ De aanvullende middelen, bedoeld in artikel 2, worden over de daarvoor in aanmer
 
 ####Verantwoording
 
-De verantwoording van de aanvullende middelen geschiedt conform het bepaalde in [artikel 13, tweede lid, onder a, van de Regeling overige OCW-subsidies](../../../../../../../../../../../ministeriele-regeling/regeling/ocw-subsidies/BWBR0028820/README.md). 
+De verantwoording van de aanvullende middelen geschiedt conform het bepaalde in artikel 13, tweede lid, onder a, van de Regeling overige OCW-subsidies. 
 
 ### Artikel  7  
 

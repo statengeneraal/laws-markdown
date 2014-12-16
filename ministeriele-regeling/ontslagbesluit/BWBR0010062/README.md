@@ -246,6 +246,6 @@ de inleenopdrachten op grond waarvan bij andere inleenbedrijven per inleenbedrij
 
 a. binnen de betreffende gemeente beschikt over meerdere bedrijfsvestigingen, in welk geval bij de toepassing van artikel 4:2, eerste lid, wordt uitgegaan van die bedrijfsvestigingen; of  
 
-b. in de gehandicaptenzorg of de jeugdzorg, aannemelijk maakt dat vanwege de wijze waarop de werkzaamheden zijn georganiseerd, uitgegaan moet worden van de bedrijfsvestiging.    
+b. aannemelijk maakt dat vanwege de wijze waarop de werkzaamheden zijn georganiseerd, uitgegaan moet worden van de bedrijfsvestiging.    
 
 2. Indien een werknemer als bedoeld onder 1, aanhef, zijn werkzaamheden in meerdere gemeenten uitvoert, of heeft uitgevoerd, wordt voor de toepassing van deze bijlage uitgegaan van de gemeente waar de werknemer het meest werkzaam is, of geweest is, te rekenen over een periode van twaalf maanden voorafgaande aan het indienen van het verzoek om toestemming voor opzegging van de arbeidsverhouding. De periode van twaalf maanden wordt naar rato toegepast indien de duur van de arbeidsverhouding korter is dan twaalf maanden.  

@@ -15,15 +15,15 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 2.  De BIZ-bijdrage is een belasting die strekt ter bestrijding van de kosten die verbonden zijn aan activiteiten die zijn gericht op het bevorderen van leefbaarheid, veiligheid, ruimtelijke kwaliteit of een ander mede publiek belang in de openbare ruimte van de BI-zone.   
 3.  De BIZ-bijdrage wordt geheven van degenen die bij het begin van het kalenderjaar in de BI-zone gelegen onroerende zaken, al dan niet krachtens eigendom, bezit, beperkt recht of persoonlijk recht, gebruiken.   
 4.  De verordening kan bepalen dat indien een onroerende zaak bij het begin van het kalenderjaar niet in gebruik is, de desbetreffende BIZ-bijdrage wordt geheven van degene die van die zaak het genot krachtens eigendom, bezit of beperkt recht heeft.   
-5.  De [artikelen 220a](../../../../wet/gemeentewet/BWBR0005416/README.md), [220b, eerste lid](../../../../wet/gemeentewet/BWBR0005416/README.md), [220d](../../../../wet/gemeentewet/BWBR0005416/README.md), [220e](../../../../wet/gemeentewet/BWBR0005416/README.md) en [220h van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) zijn van overeenkomstige toepassing.  
+5.  De artikelen 220a, 220b, eerste lid, 220d, 220e en 220h van de Gemeentewet zijn van overeenkomstige toepassing.  
 
 ### Artikel  2  
 
-1.  De heffingsmaatstaf van de BIZ-bijdrage is de op de voet van [hoofdstuk IV van de Wet waardering onroerende zaken](../../../../wet/wet/waardering/onroerende/zaken/BWBR0007119/README.md) voor de onroerende zaak vastgestelde waarde.   
+1.  De heffingsmaatstaf van de BIZ-bijdrage is de op de voet van hoofdstuk IV van de Wet waardering onroerende zaken voor de onroerende zaak vastgestelde waarde.   
 2.  De onroerende zaken ter zake waarvan de heffing wordt geheven kunnen in waardeklassen worden ingedeeld.   
 3.  Het tarief van de BIZ-bijdrage kan voor verschillende categorieën niet-woningen verschillend worden vastgesteld waarbij onder meer de vestigingslocatie, de bestemming van de onroerende zaak en de branche of sector van de bijdrageplichtige gebruiker in relatie tot het belang bij de activiteiten in aanmerking genomen kunnen worden. Indien de verordening toepassing geeft aan artikel 1, vierde lid, en tevens branche of sector van de bijdrageplichtige gebruiker in aanmerking neemt voor de bepaling van het tarief, wordt het niet in gebruik zijn van de zaak door de verordening gelijkgesteld aan bepaald gebruik.   
 4.  In afwijking van het eerste, tweede en derde lid kan het tarief worden bepaald op een voor iedere bijdrageplichtige gelijk bedrag.   
-5.  De [artikelen 230 tot en met 233a](../../../../wet/gemeentewet/BWBR0005416/README.md) en [236 tot en met 257 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) zijn van overeenkomstige toepassing op de heffing en invordering van de BIZ-bijdrage.  
+5.  De artikelen 230 tot en met 233a en 236 tot en met 257 van de Gemeentewet zijn van overeenkomstige toepassing op de heffing en invordering van de BIZ-bijdrage.  
 
 ### Artikel  3  
 
@@ -77,7 +77,7 @@ b. een stichting:
 1°. waarvan ten minste tweederde van de leden van het bestuur bestaat uit beoogde bijdrageplichtigen, en  
 
 2°. die als statutaire doelstelling uitsluitend heeft het uitvoeren van activiteiten als bedoeld in artikel 1, tweede lid.       
-3.  In aanvulling op het tweede lid wijst de verordening uitsluitend een vereniging of stichting aan waarmee de gemeente ter uitvoering van de verordening een overeenkomst als bedoeld in [artikel 4:36 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) heeft gesloten, waarin is bepaald dat de subsidie-ontvanger verplicht is de activiteiten te verrichten waarvoor de subsidie wordt verstrekt.   
+3.  In aanvulling op het tweede lid wijst de verordening uitsluitend een vereniging of stichting aan waarmee de gemeente ter uitvoering van de verordening een overeenkomst als bedoeld in artikel 4:36 van de Algemene wet bestuursrecht heeft gesloten, waarin is bepaald dat de subsidie-ontvanger verplicht is de activiteiten te verrichten waarvoor de subsidie wordt verstrekt.   
 4.  De raad stelt bij verordening de nodige regels, met inbegrip van de voorwaarden waaronder en de wijze waarop de subsidie wordt verstrekt.  
 
 ### Artikel  8  

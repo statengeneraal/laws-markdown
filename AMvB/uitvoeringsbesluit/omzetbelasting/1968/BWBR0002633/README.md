@@ -106,7 +106,7 @@ e. andere bij ministeriële regeling in verband met het voorkomen van een ernsti
 8. Bij wijzigingen in de aard en samenstelling van de leveringen en diensten van een instelling stelt de instelling de inspecteur daarvan in kennis.
 
 ### Artikel  7a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Als diensten als bedoeld in artikel 11, eerste lid, onderdeel g, onder 3°, van de wet worden aangewezen de diensten die gefinancierd worden op grond van de Wet maatschappelijke ondersteuning 2015, mits deze diensten: 
 

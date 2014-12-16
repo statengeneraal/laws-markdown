@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 21 maart 2014, nr. 2014-0000018380, tot het opnieuw vaststellen van de Regeling tegemoetkoming asbestslachtoffers teneinde deze uit te breiden met Asbestose (Regeling tegemoetkoming asbestslachtoffers 2014)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 3, eerste lid](../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md), en [9 van de Kaderwet SZW-subsidies](../../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md), en [34a van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);
+Gelet op de artikelen 3, eerste lid, en 9 van de Kaderwet SZW-subsidies, en 34a van de Wet structuur uitvoeringsorganisatie werk en inkomen;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -53,13 +53,13 @@ b. bij ontstentenis van de onder a bedoelde persoon, de minderjarige kinderen, t
 
 c. bij ontstentenis van de onder a en b bedoelde personen, degenen met wie hij in gezinsverband leefde;    
 
-–  *productaansprakelijke:* de producent, bedoeld in [artikel 187, tweede lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md), wiens gebrekkig product oorzaak is van de asbestose of het maligne mesothelioom bij de werknemer;  
+–  *productaansprakelijke:* de producent, bedoeld in artikel 187, tweede lid, van Boek 6 van het Burgerlijk Wetboek, wiens gebrekkig product oorzaak is van de asbestose of het maligne mesothelioom bij de werknemer;  
 
 –  *protocol diagnostiek asbestose:* protocol diagnostiek asbestose, opgenomen in bijlage 1 bij deze regeling;  
 
 –  *protocol diagnostiek maligne mesothelioom:* protocol diagnostiek maligne mesothelioom, opgenomen in bijlage 2 bij deze regeling;  
 
-–  *SVB:* Sociale verzekeringsbank, genoemd in [hoofdstuk 6 van de Wet SUWI](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+–  *SVB:* Sociale verzekeringsbank, genoemd in hoofdstuk 6 van de Wet SUWI;  
 
 –  *voorschot:* een uitkering als voorschot op de eventuele vordering op de werkgever op wie de immateriële schade kan worden verhaald;  
 
@@ -67,8 +67,8 @@ c. bij ontstentenis van de onder a en b bedoelde personen, degenen met wie hij i
 
 –  *werknemer:* degene die voor een natuurlijke of rechtspersoon arbeid in Nederland verricht of heeft verricht krachtens een Nederlandse publiekrechtelijke aanstelling of krachtens een arbeidsovereenkomst waarop Nederlands recht van toepassing is of was;  
 
-–  *Wet SUWI:* [Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md).     
-2.  In deze regeling wordt met de echtgenoot gelijkgesteld de geregistreerde partner en de persoon die op grond van [artikel 1, derde lid, onder a, en vierde tot en met zevende lid, van de Algemene Ouderdomswet](../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md) en de daarop berustende bepalingen mede als zodanig wordt aangemerkt.   
+–  *Wet SUWI:* Wet structuur uitvoeringsorganisatie werk en inkomen.     
+2.  In deze regeling wordt met de echtgenoot gelijkgesteld de geregistreerde partner en de persoon die op grond van artikel 1, derde lid, onder a, en vierde tot en met zevende lid, van de Algemene Ouderdomswet en de daarop berustende bepalingen mede als zodanig wordt aangemerkt.   
 3.  In deze regeling wordt niet als echtgenoot aangemerkt degene die duurzaam gescheiden leeft van de persoon met wie hij gehuwd is.  
 
 ### Artikel  2  
@@ -93,9 +93,9 @@ b. hij geen betaling in verband met de blootstelling aan asbest tijdens het verr
 
 c. hij zich verplicht tot medewerking aan bemiddeling door het Instituut Asbestslachtoffers tussen hem en de werkgever om de schade vergoed te krijgen en, met inachtneming van onder d, tot medewerking om de schade zo nodig langs gerechtelijke weg vergoed te krijgen;  
 
-d. hij de SVB een onherroepelijke volmacht als bedoeld in [artikel 74 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) heeft verleend om zo nodig de immateriële schade langs gerechtelijke weg te verhalen tot een bedrag zoals is overeengekomen in het convenant tot oprichting van het Instituut Asbestslachtoffers;  
+d. hij de SVB een onherroepelijke volmacht als bedoeld in artikel 74 van Boek 3 van het Burgerlijk Wetboek heeft verleend om zo nodig de immateriële schade langs gerechtelijke weg te verhalen tot een bedrag zoals is overeengekomen in het convenant tot oprichting van het Instituut Asbestslachtoffers;  
 
-e. hij de SVB een onherroepelijke volmacht als bedoeld in [artikel 74 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) heeft verleend om de immateriële schadevergoeding namens hem van de werkgever te innen, teneinde dit te verrekenen met het verleende voorschot;  
+e. hij de SVB een onherroepelijke volmacht als bedoeld in artikel 74 van Boek 3 van het Burgerlijk Wetboek heeft verleend om de immateriële schadevergoeding namens hem van de werkgever te innen, teneinde dit te verrekenen met het verleende voorschot;  
 
 f. hij, na ontvangst van de schadevergoeding van de werkgever of de productaansprakelijke, het voorschot voor het geheel of, wanneer de schadevergoeding lager is dan het verleende voorschot, het voorschot voor dat deel aan de SVB terugbetaalt, indien geen gebruik wordt gemaakt van de volmacht, bedoeld in onder d; en  
 
@@ -120,9 +120,9 @@ b. voordat hij de aanvraag heeft ingediend, doch nadat hij bij het Instituut Asb
 
 a. voorschot op grond van deze regeling of een betaling als bedoeld in de artikelen 3, onder b, en 10, onder b, van € 19.201,– of hoger van de werkgever of de productaansprakelijke hebben ontvangen;  
 
-b. voorschot of eenmalige uitkering op grond van de [Regeling tegemoetkoming asbestslachtoffers](../../../../../../ministeriele-regeling/regeling/tegemoetkoming/asbestslachtoffers/BWBR0011113/README.md) hebben ontvangen; of  
+b. voorschot of eenmalige uitkering op grond van de Regeling tegemoetkoming asbestslachtoffers hebben ontvangen; of  
 
-c. tegemoetkoming op grond van de [Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose](../../../../../../ministeriele-regeling/regeling/tegemoetkoming/niet-loondienstgerelateerde/slachtoffers/van/etc/BWBR0022913/README.md) hebben ontvangen.    
+c. tegemoetkoming op grond van de Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose hebben ontvangen.    
 
 ### Artikel  6  
 
@@ -130,7 +130,7 @@ c. tegemoetkoming op grond van de [Regeling tegemoetkoming niet-loondienstgerela
 
 1.  Het voorschot strekt tot tegemoetkoming in immateriële schade en bedraagt € 19.201,–.   
 2.  Indien de werkgever of de productaansprakelijke in verband met de blootstelling aan asbest van de werknemer tijdens het verrichten van arbeid en het daardoor veroorzaakte maligne mesothelioom een bedrag heeft betaald dat lager is dan € 19.201,– of indien de werknemer een betaling heeft ontvangen als bedoeld in artikel 5, eerste lid, wordt de hoogte van het voorschot vastgesteld op het verschil tussen het ontvangen bedrag en € 19.201,–.   
-3.  Voor de toepassing van het tweede lid, wordt als maatstaf genomen de hoogte van de betaling nadat daarop de verschuldigde belasting op grond van de [Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en premies voor de volksverzekeringen op grond van de [Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) in mindering zijn gebracht.  
+3.  Voor de toepassing van het tweede lid, wordt als maatstaf genomen de hoogte van de betaling nadat daarop de verschuldigde belasting op grond van de Wet inkomstenbelasting 2001 en premies voor de volksverzekeringen op grond van de Wet financiering sociale verzekeringen in mindering zijn gebracht.  
 
 ### Artikel  7  
 
@@ -172,9 +172,9 @@ b. hij geen betaling in verband met de blootstelling aan asbest tijdens het verr
 
 c. hij zich verplicht tot medewerking aan bemiddeling door het Instituut Asbestslachtoffers tussen hem en de werkgever om de schade vergoed te krijgen en, met inachtneming van onder d, tot medewerking om de schade zo nodig langs gerechtelijke weg vergoed te krijgen;  
 
-d. hij de SVB een onherroepelijke volmacht als bedoeld in [artikel 74 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) heeft verleend om zo nodig de immateriële schade langs gerechtelijke weg te verhalen tot een bedrag zoals is overeengekomen in het convenant tot oprichting van het Instituut Asbestslachtoffers;  
+d. hij de SVB een onherroepelijke volmacht als bedoeld in artikel 74 van Boek 3 van het Burgerlijk Wetboek heeft verleend om zo nodig de immateriële schade langs gerechtelijke weg te verhalen tot een bedrag zoals is overeengekomen in het convenant tot oprichting van het Instituut Asbestslachtoffers;  
 
-e. hij de SVB een onherroepelijke volmacht als bedoeld in [artikel 74 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) heeft verleend om de immateriële schadevergoeding namens hem van de werkgever te innen, teneinde dit te verrekenen met het verleende voorschot;  
+e. hij de SVB een onherroepelijke volmacht als bedoeld in artikel 74 van Boek 3 van het Burgerlijk Wetboek heeft verleend om de immateriële schadevergoeding namens hem van de werkgever te innen, teneinde dit te verrekenen met het verleende voorschot;  
 
 f. hij, na ontvangst van de schadevergoeding van de werkgever of de productaansprakelijke, het voorschot voor het geheel of, wanneer de schadevergoeding lager is dan het verleende voorschot, het voorschot voor dat deel aan de SVB terugbetaalt, indien geen gebruik wordt gemaakt van de volmacht, bedoeld in onder d, en  
 
@@ -199,9 +199,9 @@ b. voordat hij de aanvraag heeft ingediend, doch nadat hij bij het Instituut Asb
 
 a. voorschot op grond van deze regeling of een betaling als bedoeld in de artikelen 3, onder b, en 10, onder b, van € 19.201,– of hoger van de werkgever of de productaansprakelijke hebben ontvangen;  
 
-b. voorschot of eenmalige uitkering op grond van de [Regeling tegemoetkoming asbestslachtoffers](../../../../../../ministeriele-regeling/regeling/tegemoetkoming/asbestslachtoffers/BWBR0011113/README.md) hebben ontvangen; of  
+b. voorschot of eenmalige uitkering op grond van de Regeling tegemoetkoming asbestslachtoffers hebben ontvangen; of  
 
-c. tegemoetkoming op grond van de [Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose](../../../../../../ministeriele-regeling/regeling/tegemoetkoming/niet-loondienstgerelateerde/slachtoffers/van/etc/BWBR0022913/README.md) hebben ontvangen.    
+c. tegemoetkoming op grond van de Regeling tegemoetkoming niet-loondienstgerelateerde slachtoffers van mesothelioom en asbestose hebben ontvangen.    
 
 ### Artikel  13  
 
@@ -209,7 +209,7 @@ c. tegemoetkoming op grond van de [Regeling tegemoetkoming niet-loondienstgerela
 
 1.  Het voorschot strekt tot tegemoetkoming in immateriële schade en bedraagt € 19.201,–.   
 2.  Indien de werkgever of productaansprakelijke in verband met de blootstelling aan asbest van de werknemer tijdens het verrichten van arbeid en het daardoor veroorzaakte asbestose een bedrag heeft betaald dat lager is dan € 19.201,– of indien de werknemer een betaling heeft ontvangen als bedoeld in artikel 12, eerste lid, wordt de hoogte van het voorschot vastgesteld op het verschil tussen het ontvangen bedrag en € 19.201,–.   
-3.  Voor de toepassing van het tweede lid wordt als maatstaf genomen de hoogte van de betaling nadat daarop de verschuldigde belasting op grond van de [Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en premies voor de volksverzekeringen op grond van de [Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) in mindering zijn gebracht.  
+3.  Voor de toepassing van het tweede lid wordt als maatstaf genomen de hoogte van de betaling nadat daarop de verschuldigde belasting op grond van de Wet inkomstenbelasting 2001 en premies voor de volksverzekeringen op grond van de Wet financiering sociale verzekeringen in mindering zijn gebracht.  
 
 ### Hoofdstuk  4  
 
@@ -327,7 +327,7 @@ h. hoe uit de overeenkomst voortvloeiende geschillen zullen worden beslecht.
 ####Betaling voorschot
 
 1.  De uitkeringslasten en uitvoeringskosten van deze regeling worden gefinancierd uit een rijksbijdrage ten laste van de begroting van de minister.   
-2.  De minister stort op de rekening-courant, bedoeld in [artikel 5.16, onder a, van de Regeling Wfsv](../../../../../../ministeriele-regeling/regeling/wfsv/BWBR0019150/README.md), een periodiek voorschot op het bedrag, bedoeld in artikel 23, van: 
+2.  De minister stort op de rekening-courant, bedoeld in artikel 5.16, onder a, van de Regeling Wfsv, een periodiek voorschot op het bedrag, bedoeld in artikel 23, van: 
 
 a. geraamde uitkeringslasten met als valutadatum de tweeëntwintigste dag van elke maand, en  
 
@@ -338,13 +338,13 @@ b. 1/12<sup>de</sup> deel van de geraamde uitvoeringskosten met als valutadatum 
 
 ####Afrekening
 
-1.  In de jaarrekening, bedoeld in [artikel 49 van de Wet SUWI](../../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md), worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 17, tweede lid, uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot deze regeling opgenomen.   
+1.  In de jaarrekening, bedoeld in artikel 49 van de Wet SUWI, worden de baten en lasten, alsmede de ontvangen voorschotten, bedoeld in artikel 17, tweede lid, uitgesplitst naar uitkeringslasten en uitvoeringskosten, met betrekking tot deze regeling opgenomen.   
 2.  Op de in het eerste lid bedoelde uitkeringslasten komen in mindering: 
 
 a. de bedragen die op grond van de artikelen 3, onder e en f, en 10, onder e en f, zijn terugbetaald;  
 
 b. de voorschotten die op grond van artikel 18 zijn teruggevorderd en zijn terugbetaald.     
-3.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in [artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md), rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
+3.  Na goedkeuring van het besluit tot vaststelling van de jaarrekening, bedoeld in artikel 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, rekent de minister de baten en lasten, alsmede de ontvangen voorschotten, met betrekking tot het desbetreffende kalenderjaar af, met als valutadatum 1 juni van het hierop volgende kalenderjaar.  
 
 ### Hoofdstuk  7  
 
@@ -354,13 +354,13 @@ b. de voorschotten die op grond van artikel 18 zijn teruggevorderd en zijn terug
 
 ####Overgangsrecht
 
-Op een aanvraag voor een eenmalige uitkering of een voorschot ingediend voor 1 april 2014, alsmede op de financiële afwikkeling daarvan, wordt beslist met toepassing van de [Regeling tegemoetkoming asbestslachtoffers](../../../../../../ministeriele-regeling/regeling/tegemoetkoming/asbestslachtoffers/BWBR0011113/README.md) zoals die regeling luidde op 31 maart 2014. 
+Op een aanvraag voor een eenmalige uitkering of een voorschot ingediend voor 1 april 2014, alsmede op de financiële afwikkeling daarvan, wordt beslist met toepassing van de Regeling tegemoetkoming asbestslachtoffers zoals die regeling luidde op 31 maart 2014. 
 
 ### Artikel  27  
 
-####Intrekking [Regeling tegemoetkoming asbestslachtoffers](../../../../../../ministeriele-regeling/regeling/tegemoetkoming/asbestslachtoffers/BWBR0011113/README.md)
+####Intrekking Regeling tegemoetkoming asbestslachtoffers
 
-De [Regeling tegemoetkoming asbestslachtoffers](../../../../../../ministeriele-regeling/regeling/tegemoetkoming/asbestslachtoffers/BWBR0011113/README.md) wordt ingetrokken. 
+De Regeling tegemoetkoming asbestslachtoffers wordt ingetrokken. 
 
 ### Artikel  28  
 

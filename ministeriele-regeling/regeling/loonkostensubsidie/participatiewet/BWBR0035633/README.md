@@ -15,7 +15,7 @@ Treedt in werking per 01-01-2015
 Treedt in werking per 01-01-2015 
 
 1.  De vergoeding van werkgeverslasten, bedoeld in artikel 10d, vierde lid, van de Participatiewet bedraagt een percentage van de loonkosten waarover loonkostensubsidie wordt verstrekt.   
-2.  Het percentage, bedoeld in het eerste lid, bedraagt 23,5.  
+2.  Het percentage, bedoeld in het eerste lid, bedraagt 23.  
 
 ### §  2  
 

@@ -151,6 +151,23 @@ d. de zorgvuldige behandeling van bezwaarschriften en klachten die worden ontvan
 1.  Onze Minister kan beleidsregels vaststellen met betrekking tot de taakuitoefening door een zelfstandig bestuursorgaan.   
 2.  De beleidsregels worden in de Staatscourant bekendgemaakt.  
 
+### Artikel  21a  
+Treedt in werking per 01-01-2015 
+
+1.  Onze Minister voor Wonen en Rijksdienst kan, op verzoek van een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de staat en in overeenstemming met Onze Ministers wie het aangaat, bepalen dat het zelfstandig bestuursorgaan gebruik maakt van een voorziening die in stand wordt gehouden door een ander bestuursorgaan van de centrale overheid en die wordt ingezet ten behoeve van de uitvoering van de taak van een of meer bestuursorganen van de centrale overheid. Onder voorziening wordt verstaan een samenhangende verzameling van processen op het terrein van bedrijfsvoering; deze processen, waaronder automatisering en bestuurlijke informatievoorziening, huisvesting en personeelsbeheer, bepalen niet inhoudelijk de uitkomsten van het primaire proces van de gebruikende organisatie.   
+2.  Indien een zelfstandig bestuursorgaan dat geen onderdeel uitmaakt van de staat taken strikt regelgebonden uitvoert in een groot aantal individuele gevallen kan Onze Minister voor Wonen en Rijksdienst, in overeenstemming met Onze Ministers wie het aangaat, zonder een daartoe strekkend verzoek van het zelfstandig bestuursorgaan bepalen dat het gebruik maakt van een voorziening als bedoeld in het eerste lid.   
+3.  Een besluit als bedoeld in het eerste of tweede lid wordt slechts genomen als daarmee naar het oordeel van de bij het besluit betrokken ministers de doelmatigheid en de doeltreffendheid van de uitvoering van de taak van het zelfstandig bestuursorgaan worden bevorderd.   
+4.  Bij regeling van Onze Minister voor Wonen en Rijksdienst, in overeenstemming met Onze Ministers wie het aangaat, kunnen regels worden gesteld omtrent de wijze waarop het zelfstandig bestuursorgaan van de voorziening gebruik maakt.   
+5.  Dit artikel is niet van toepassing op een zelfstandig bestuursorgaan als bedoeld in artikel 38.  
+
+### Artikel  21b  
+Treedt in werking per 01-01-2015 
+
+1.  Een zelfstandig bestuursorgaan dat op grond van artikel 21a gebruik maakt van een voorziening draagt bij in de kosten in verband met de instandhouding van de voorziening.   
+2.  De bijdrage komt ten laste van de rechtspersoon waartoe het zelfstandig bestuursorgaan behoort. De bijdrage komt ten goede aan de rechtspersoon waartoe het bestuursorgaan behoort dat de voorziening in stand houdt.   
+3.  Bij algemene maatregel van bestuur wordt de grondslag van de bijdrage, bedoeld in het eerste lid, bepaald.   
+4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de vaststelling en de betaling van de bijdrage. Daarbij kan worden bepaald dat het in rekening te brengen bedrag op nul wordt vastgesteld, voor zover een voorziening is getroffen in de rijksbegroting die in de plaats treedt van de bijdrage van het zelfstandig bestuursorgaan.  
+
 ### Artikel  22  
 
 1.  Onze Minister kan een besluit van een zelfstandig bestuursorgaan vernietigen.   

@@ -67,7 +67,7 @@ Het NKCA doet uiterlijk 1 maart van elk kalenderjaar aan de directeur en de Mini
 
 1.  Het NKCA verstrekt de Minister, dan wel de Minister wie het mede aangaat op verzoek informatie die het onder zich heeft ingevolge de uitvoering van zijn werkzaamheden, bedoeld in artikel 4, eerste lid, of uit eigener beweging informatie indien bepaalde informatie voor de Minister, dan wel de Minister wie het mede aangaat noodzakelijk is.   
 2.  Eenieder die betrokken is bij de uitvoering van dit besluit en daarbij de beschikking krijgt over gegevens waarvan hij/zij het vertrouwelijk karakter kent of redelijkerwijs moet vermoeden, en voor wie niet reeds uit hoofde van ambt, beroep of wettelijk voorschrift ter zake van die gegevens een geheimhoudingsplicht geldt, is verplicht tot geheimhouding daarvan behoudens voor zover enig wettelijk voorschrift hem/haar tot bekendmaking verplicht of uit zijn taak bij de uitvoering van dit besluit tot bekendmaking voortvloeit.   
-3.  Het NKCA draagt zorg voor een goed, geordend en toegankelijk beheer van bescheiden, die het ontvangt dan wel gebruikt bij de uitvoering van de werkzaamheden, bedoeld in artikel 4. De bescheiden worden beheerd overeenkomstig het bepaalde bij of krachtens de [Archiefwet 1995](../../../../../../../../wet/archiefwet/1995/BWBR0007376/README.md).  
+3.  Het NKCA draagt zorg voor een goed, geordend en toegankelijk beheer van bescheiden, die het ontvangt dan wel gebruikt bij de uitvoering van de werkzaamheden, bedoeld in artikel 4. De bescheiden worden beheerd overeenkomstig het bepaalde bij of krachtens de Archiefwet 1995.  
 
 ### Artikel  8  
 

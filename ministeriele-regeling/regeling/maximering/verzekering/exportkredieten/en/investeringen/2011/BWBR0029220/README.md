@@ -5,18 +5,18 @@
 De Minister van Financiën,  
 handelende in overeenstemming met de Minister van Economische Zaken, Landbouw en Innovatie;
 
-Gelet op [artikel 6 van de Kaderwet financiële verstrekkingen Financiën](../../../../../../../../../wet/kaderwet/financiële/verstrekkingen/financiën/BWBR0007886/README.md);
+Gelet op artikel 6 van de Kaderwet financiële verstrekkingen Financiën;
 Besluit:    
 
 ### Artikel  1  
 Materieel uitgewerkt per 01-01-2013 
 
-Het bedrag tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in [artikel 3, eerste lid, van de Kaderwet financiële verstrekkingen Financiën](../../../../../../../../../wet/kaderwet/financiële/verstrekkingen/financiën/BWBR0007886/README.md) wordt voor 2011 vastgesteld op € 10.000.000.000,–. 
+Het bedrag tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in artikel 3, eerste lid, van de Kaderwet financiële verstrekkingen Financiën wordt voor 2011 vastgesteld op € 10.000.000.000,–. 
 
 ### Artikel  2  
 Materieel uitgewerkt per 01-01-2013 
 
-1.  Het bedrag tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in [artikel 3, tweede lid, van de Kaderwet financiële verstrekkingen Financiën](../../../../../../../../../wet/kaderwet/financiële/verstrekkingen/financiën/BWBR0007886/README.md) wordt voor 2011 vastgesteld op: 
+1.  Het bedrag tot welke ten hoogste verplichtingen kunnen worden aangegaan op grond van het bepaalde in artikel 3, tweede lid, van de Kaderwet financiële verstrekkingen Financiën wordt voor 2011 vastgesteld op: 
 
 a. € 45.378.000,– ten behoeve van ondernemingen waar minder dan 500 werknemers werkzaam zijn;  
 

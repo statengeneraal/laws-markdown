@@ -138,6 +138,42 @@ c. artikel 5:20 van de Algemene wet bestuursrecht.
 3.  Bij algemene maatregel van bestuur wordt bij de daarin omschreven overtredingen het bedrag van de op te leggen bestuurlijke boete bepaald, met diende verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 50.000 bedraagt. Indien tijdens het plegen van de overtreding nog geen vijf jaren zijn verlopen sedert het opleggen van een bestuurlijke boete aan de overtreder ter zake van eenzelfde overtreding, wordt het bedrag van de bestuurlijke boete, bedoeld in de eerste volzin, voor een afzonderlijke overtreding verdubbeld.   
 4.  Indien tegen een besluit tot oplegging van een bestuurlijke boete bezwaar of beroep wordt aangetekend, schorst dit de verplichting tot betaling van de boete totdat de beroepstermijn is verstreken of, indien beroep is ingesteld, op het beroep is beslist. De schorsing van de verplichting tot betaling schorst niet de berekening van de wettelijke rente.  
 
+### Hoofdstuk  IIb  
+
+####Verwerving, gebruik en verstrekking van gegevens
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  9d  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De Bank is bevoegd ten behoeve van de in artikel 4, eerste lid, onderdelen c en d, bedoelde taken of ter voldoening aan informatieverzoeken van bij algemene maatregel van bestuur aangewezen internationale organisaties gebruik te maken van gegevens, niet zijnde persoonsgegevens in de zin van de Wet bescherming persoonsgegevens, uit registraties die: 
+
+a. in verband met de uitvoering van een wettelijke taak worden bijgehouden bij instellingen en diensten van het Rijk of bij zelfstandige bestuursorganen op het niveau van de centrale overheid;  
+
+b. worden bijgehouden door bij algemene maatregel van bestuur aangewezen rechtspersonen die een bij of krachtens de wet geregelde taak uitoefenen of geheel of gedeeltelijk, direct of indirect, worden bekostigd uit middelen van de Staat of uit de opbrengst van bij of krachtens de wet ingestelde heffingen.     
+2.  Voor zover de in het eerste lid bedoelde verwerving niet de benodigde gegevens oplevert, is de Bank bevoegd om bij algemene maatregel van bestuur te bepalen gegevens, niet zijnde persoonsgegevens in de zin van de Wet bescherming persoonsgegevens, op te vragen bij in die maatregel aangewezen categorieën van ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen.   
+3.  De in het eerste lid, onderdeel a, bedoelde instellingen, diensten en zelfstandige bestuursorganen, de in onderdeel b van dat lid bedoelde rechtspersonen en de in het tweede lid bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen verstrekken de in die leden bedoelde gegevens op verzoek van de Bank binnen een bij algemene maatregel van bestuur te bepalen termijn. Daarbij kan geen beroep worden gedaan op geheimhoudingsverplichtingen, tenzij deze verplichtingen gebaseerd zijn op internationale regelgeving.   
+4.  De in het derde lid bedoelde verstrekking van gegevens geschiedt kosteloos, tenzij bij algemene maatregel van bestuur anders wordt bepaald. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot de soort kosten en de hoogte van de kosten die bij de Bank in rekening mogen worden gebracht.  
+
+### Artikel  9e  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De door de Bank op grond van artikel 9d ontvangen gegevens worden, behoudens het tweede lid, uitsluitend gebruikt voor statistische doeleinden en economische analyses.   
+2.  Het organisatieonderdeel van de Bank dat is belast met de in artikel 4, eerste lid, onderdeel c of d, bedoelde taak kan de in het eerste lid bedoelde gegevens verstrekken aan organisatieonderdelen van de Bank die belast zijn met een andere taak, voor zover die gegevens, al dan niet rechtstreeks, afkomstig zijn van financiële instellingen waarop de Bank toezicht uitoefent op de voet van de daarvoor geldende wettelijke regelingen.   
+3.  De in het eerste lid bedoelde gegevens worden slechts zodanig openbaar gemaakt dat daaraan geen herkenbare gegevens over een afzonderlijke onderneming, vrije beroepsbeoefenaar, instelling of rechtspersoon kunnen worden ontleend.  
+
+### Artikel  9f  
+Treedt in werking op een nader te bepalen tijdstip 
+
+In afwijking van artikel 9e verstrekt de Bank gegevens aan de in artikel 9d, eerste lid, bedoelde internationale organisaties ter voldoening aan hun informatieverzoeken, met inachtneming van het geheimhoudingsregime dat ingevolge bindende EU-rechtshandelingen op de desbetreffende gegevens van toepassing is. 
+
+### Artikel  9g  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De Bank is bevoegd tot oplegging van een last onder dwangsom ter handhaving van artikel 9d, derde lid, indien de in het eerste lid, onderdeel b, van dat artikel bedoelde rechtspersonen en de in het tweede lid van dat artikel bedoelde ondernemingen, vrije beroepsbeoefenaren, instellingen en rechtspersonen de in die artikelleden bedoelde gegevens niet, niet tijdig of niet volledig verstrekken.   
+2.  De Bank is tevens bevoegd tot oplegging van een bestuurlijke boete ter zake van overtreding van artikel 9d, derde lid. Artikel 9c, derde en vierde lid, is van overeenkomstige toepassing, met dien verstande dat de bestuurlijke boete voor een afzonderlijke overtreding ten hoogste € 10.000 bedraagt.  
+
 ### Hoofdstuk  III  
 
 ####Bepalingen betreffende de vennootschap 

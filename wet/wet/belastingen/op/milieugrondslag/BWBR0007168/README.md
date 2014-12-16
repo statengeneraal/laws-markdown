@@ -788,6 +788,11 @@ Indien de verlaging van het tarief, bedoeld in artikel 59a, eerste lid, wordt ve
 
 Bij een verbruiksperiode korter dan wel langer dan twaalf maanden worden de hoeveelheidsgrenzen, genoemd in artikel 59, eerste lid, 60, eerste en tweede lid, 67, eerste lid, en 68, tweede lid, naar evenredigheid verlaagd, onderscheidenlijk verhoogd.
 
+### Artikel  61a  
+Treedt in werking per 01-01-2015 
+
+In de gevallen, bedoeld in artikel 47, negende lid, onderdeel b, wordt de belasting ter zake van de leveringen die vanaf het begin van het kalenderjaar zijn verricht, herrekend met inachtneming van artikel 61. Indien deze herrekening leidt tot een hoger of lager belastingbedrag dan de belasting die zonder de herrekening over de gehele verbruiksperiode verschuldigd zou zijn, wordt de belasting die moet worden voldaan over het tijdvak waarin de overeenkomst tot levering wordt beëindigd dienovereenkomstig verhoogd onderscheidenlijk verlaagd. Bij de bepaling van de belasting die op de laatste factuur aan de verbruiker wordt vermeld, wordt de verhoging of verlaging, bedoeld in de tweede volzin, in aanmerking genomen. 
+
 ### Artikel 62 
 
 Indien op basis van een contract tussen de belastingplichtige en de verbruiker de geleverde hoeveelheid aardgas gemeten wordt in Nm<sup>3</sup>, worden de tarieven toegepast, zoals die met betrekking tot aardgas in artikel 59, eerste lid, onderdeel a, en derde lid, en artikel 60, eerste lid, worden toegepast per kubieke meter.

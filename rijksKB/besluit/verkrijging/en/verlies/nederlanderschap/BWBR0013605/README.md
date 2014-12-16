@@ -6,9 +6,9 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Justitie van 17 december 2001, Directie Wetgeving, nr. 5139778/01/6;
 
-Gelet op de [artikelen 21](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) en [23 van de Rijkswet op het Nederlanderschap](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);
+Gelet op de artikelen 21 en 23 van de Rijkswet op het Nederlanderschap;
 
-Gelet op [artikel 1 van de Consulaire Wet](../../../../../../../rijkswet/consulaire/wet/BWBR0001847/README.md);
+Gelet op artikel 1 van de Consulaire Wet;
 
 De Raad van State van het Koninkrijk gehoord (advies van 7 maart 2002, nr. W03.01.0682/I/K);
 
@@ -26,17 +26,17 @@ In dit besluit wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Justitie in zijn hoedanigheid van minister van het Koninkrijk;  
 
-b. Rijkswet: de [Rijkswet op het Nederlanderschap](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);  
+b. Rijkswet: de Rijkswet op het Nederlanderschap;  
 
-c. optie: verkrijging van het Nederlanderschap, als bedoeld in hoofdstuk 3 en in [artikel 28 van de Rijkswet op het Nederlanderschap](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), alsmede in [artikel V, eerste lid van de Rijkswet van 21 december 2000, Stb. 618, tot wijziging van de Rijkswet op het Nederlanderschap](../../../../../../../rijkswet/wijzigingswet/rijkswet/op/het/nederlanderschap/(verkrijging/verlening/en/etc/BWBR0012089/README.md);  
+c. optie: verkrijging van het Nederlanderschap, als bedoeld in hoofdstuk 3 en in artikel 28 van de Rijkswet op het Nederlanderschap, alsmede in artikel V, eerste lid van de Rijkswet van 21 december 2000, Stb. 618, tot wijziging van de Rijkswet op het Nederlanderschap;  
 
-d. naturalisatie: verlening van het Nederlanderschap, als bedoeld in [hoofdstuk 4 van de Rijkswet op het Nederlanderschap](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);  
+d. naturalisatie: verlening van het Nederlanderschap, als bedoeld in hoofdstuk 4 van de Rijkswet op het Nederlanderschap;  
 
-e. intrekking: intrekking van het Nederlanderschap, als bedoeld in [hoofdstuk 5 van de Rijkswet op het Nederlanderschap](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md);  
+e. intrekking: intrekking van het Nederlanderschap, als bedoeld in hoofdstuk 5 van de Rijkswet op het Nederlanderschap;  
 
 f. basisadministratie: 
 
-1° de basisregistratie personen, bedoeld in de [Wet basisregistratie personen](../../../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md),  
+1° de basisregistratie personen, bedoeld in de Wet basisregistratie personen,  
 
 2° de bij Wet basisadministratie persoonsgegevens BES ingestelde basisadministratie persoonsgegevens, of  
 
@@ -66,7 +66,7 @@ d. in het buitenland: de hoofden van de diplomatieke en consulaire posten.
 
 ###Artikel 4 
 
-1. Het bedrag van de voor de behandeling van de optie of naturalisatie verschuldigde leges wordt bepaald overeenkomstig het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md).
+1. Het bedrag van de voor de behandeling van de optie of naturalisatie verschuldigde leges wordt bepaald overeenkomstig het Besluit optie- en naturalisatiegelden 2002.
 2. Indien de optieverklaring of het naturalisatieverzoek wegens niet- of niet tijdige betaling van het verschuldigde bedrag buiten behandeling wordt gesteld, wordt daarvan aan de betrokkene schriftelijk kennis gegeven.
 
 ###Artikel 5 
@@ -103,7 +103,7 @@ h. indien van toepassing, bestaan en duur van het huwelijk of geregistreerd part
 
 i. indien van toepassing, betreffende de minderjarige kinderen van de optant, de gegevens hierboven bedoeld onder a tot en met e, en onder g;  
 
-j. indien van toepassing, betreffende de ouders of grootouders van de optant, de gegevens bedoeld in de onderdelen a tot en met g. Voor de toepassing van [artikel 6, eerste lid, onder i tot en met o, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) kunnen onder de gegevens bedoeld in onderdeel e mede worden begrepen de historische gegevens betreffende de nationaliteit van de ouders of grootouders van de optant;  
+j. indien van toepassing, betreffende de ouders of grootouders van de optant, de gegevens bedoeld in de onderdelen a tot en met g. Voor de toepassing van artikel 6, eerste lid, onder i tot en met o, van de Rijkswet kunnen onder de gegevens bedoeld in onderdeel e mede worden begrepen de historische gegevens betreffende de nationaliteit van de ouders of grootouders van de optant;  
 
 k. indien het een minderjarige betreft over wie gezag wordt uitgeoefend, de gegevens bedoeld in de onderdelen a tot en met e van degene of degenen die dit gezag uitoefenen;  
 
@@ -129,7 +129,7 @@ l. de overige gegevens die naar het oordeel van de tot het in ontvangst nemen va
 
 ###Artikel 8 
 
-1. Alvorens de optieverklaring in behandeling te nemen onderzoekt de burgemeester de betalingsverplichting van de optant overeenkomstig het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md). Tenzij de optant voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij bij het afleggen van zijn optieverklaring het volgens het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md) verschuldigde optiegeld.
+1. Alvorens de optieverklaring in behandeling te nemen onderzoekt de burgemeester de betalingsverplichting van de optant overeenkomstig het Besluit optie- en naturalisatiegelden 2002. Tenzij de optant voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij bij het afleggen van zijn optieverklaring het volgens het Besluit optie- en naturalisatiegelden 2002 verschuldigde optiegeld.
 2. Na de betaling van het verschuldigde optiegeld, of na de beslissing tot ontheffing van die betaling neemt de burgemeester de optieverklaring in behandeling en beoordeelt hij deze op haar volledigheid. Zo nodig verzoekt hij om aanvulling van de gegevens.
 
 ### Artikel  9  
@@ -144,9 +144,9 @@ l. de overige gegevens die naar het oordeel van de tot het in ontvangst nemen va
 ###Artikel 10 
 
 1. Behoudens in de gevallen waarin toelating niet vereist is, onderzoekt de burgemeester de verblijfsrechtelijke status van de optant en van de personen die tot medeverkrijging in de optieverklaring zijn genoemd. Zo nodig verwijst hij de optant voor een bewijs van toelating naar de daartoe bevoegde instanties.
-2. Behoudens in de gevallen, bedoeld in [artikel 6, eerste lid, aanhef en onder b en c van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) en waar dit overigens is bepaald, onderzoekt de burgemeester of er ernstige vermoedens bestaan als bedoeld in [artikel 6, derde lid, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), jegens de optant of de personen die tot medeverkrijging in de optieverklaring zijn genoemd, indien zij ouder zijn dan zestien jaar.
-3. In de gevallen, bedoeld in het [vijfde lid van artikel 6 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), treedt hij met de optant in overleg over de vaststelling en de spelling van geslachtsnaam en voornaam of voornamen van de personen die in de optieverklaring zijn genoemd, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de optant en van de personen die hij in zijn optie wenst te betrekken, zullen worden overgebracht. 
-4. Hij stelt de andere in de optieverklaring genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in het vierde lid van [artikel 2 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de optie alsook inzake de naamsvaststelling kenbaar te maken.
+2. Behoudens in de gevallen, bedoeld in artikel 6, eerste lid, aanhef en onder b en c van de Rijkswet en waar dit overigens is bepaald, onderzoekt de burgemeester of er ernstige vermoedens bestaan als bedoeld in artikel 6, derde lid, van de Rijkswet, jegens de optant of de personen die tot medeverkrijging in de optieverklaring zijn genoemd, indien zij ouder zijn dan zestien jaar.
+3. In de gevallen, bedoeld in het vijfde lid van artikel 6 van de Rijkswet, treedt hij met de optant in overleg over de vaststelling en de spelling van geslachtsnaam en voornaam of voornamen van de personen die in de optieverklaring zijn genoemd, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de optant en van de personen die hij in zijn optie wenst te betrekken, zullen worden overgebracht. 
+4. Hij stelt de andere in de optieverklaring genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in het vierde lid van artikel 2 van de Rijkswet bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de optie alsook inzake de naamsvaststelling kenbaar te maken.
 
 ### Artikel  11  
 
@@ -175,7 +175,7 @@ l. de overige gegevens die naar het oordeel van de tot het in ontvangst nemen va
 
 ### Artikel  14  
 
-1.  Alvorens de optieverklaring in behandeling te nemen onderzoekt Onze Minister de betalingsverplichting van de optant overeenkomstig het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md). Tenzij de optant voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij bij het afleggen van zijn optieverklaring het volgens het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md) verschuldigde optiegeld.   
+1.  Alvorens de optieverklaring in behandeling te nemen onderzoekt Onze Minister de betalingsverplichting van de optant overeenkomstig het Besluit optie- en naturalisatiegelden 2002. Tenzij de optant voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij bij het afleggen van zijn optieverklaring het volgens het Besluit optie- en naturalisatiegelden 2002 verschuldigde optiegeld.   
 2.  Na de betaling van het verschuldigde optiegeld, of na de beslissing tot ontheffing van die betaling, neemt Onze Minister de optieverklaring in behandeling en beoordeelt hij deze op haar volledigheid. Zo nodig verzoekt hij om aanvulling van de gegevens.  
 
 ### Artikel  15  
@@ -190,9 +190,9 @@ l. de overige gegevens die naar het oordeel van de tot het in ontvangst nemen va
 ### Artikel  16  
 
 1.  Behoudens in de gevallen waarin toelating niet vereist is, onderzoekt Onze Minister de verblijfsrechtelijke status van de optant en van de personen die tot medeverkrijging in de optieverklaring zijn genoemd. Zo nodig verwijst hij de optant voor een bewijs van toelating naar de daartoe bevoegde instanties.   
-2.  Behoudens in de gevallen genoemd in [artikel 6, eerste lid , aanhef en onder b en c van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) en waar dit overigens is bepaald, onderzoekt Onze Minister of er ernstige vermoedens bestaan als bedoeld in [artikel 6, derde lid, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), jegens de optant of de personen die tot medeverkrijging in de optieverklaring zijn genoemd, indien zij ouder zijn dan zestien jaar.   
-3.  In de gevallen, bedoeld in [het vijfde lid van artikel 6 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), treedt hij met de optant in overleg over de vaststelling en de spelling van geslachtsnaam en voornaam of voornamen van de personen die in de optieverklaring zijn genoemd, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de optant en van de personen die hij in zijn optie wenst te betrekken, zullen worden overgebracht.   
-4.  Hij stelt de andere in de optieverklaring genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in [het vierde lid van artikel 2 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de optie alsook inzake de naamsvaststelling kenbaar te maken.   
+2.  Behoudens in de gevallen genoemd in artikel 6, eerste lid , aanhef en onder b en c van de Rijkswet en waar dit overigens is bepaald, onderzoekt Onze Minister of er ernstige vermoedens bestaan als bedoeld in artikel 6, derde lid, van de Rijkswet, jegens de optant of de personen die tot medeverkrijging in de optieverklaring zijn genoemd, indien zij ouder zijn dan zestien jaar.   
+3.  In de gevallen, bedoeld in het vijfde lid van artikel 6 van de Rijkswet, treedt hij met de optant in overleg over de vaststelling en de spelling van geslachtsnaam en voornaam of voornamen van de personen die in de optieverklaring zijn genoemd, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de optant en van de personen die hij in zijn optie wenst te betrekken, zullen worden overgebracht.   
+4.  Hij stelt de andere in de optieverklaring genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in het vierde lid van artikel 2 van de Rijkswet bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de optie alsook inzake de naamsvaststelling kenbaar te maken.   
 
 ### Artikel  17  
 
@@ -216,7 +216,7 @@ l. de overige gegevens die naar het oordeel van de tot het in ontvangst nemen va
 
 ### Artikel  20  
 
-1.  Alvorens de optieverklaring in behandeling te nemen onderzoekt de Gouverneur de betalingsverplichting van de optant overeenkomstig het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md). Tenzij de optant voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij bij het afleggen van zijn optieverklaring het volgens het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md) verschuldigde optiegeld.   
+1.  Alvorens de optieverklaring in behandeling te nemen onderzoekt de Gouverneur de betalingsverplichting van de optant overeenkomstig het Besluit optie- en naturalisatiegelden 2002. Tenzij de optant voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij bij het afleggen van zijn optieverklaring het volgens het Besluit optie- en naturalisatiegelden 2002 verschuldigde optiegeld.   
 2.  Na de betaling van het verschuldigde optiegeld, of na de beslissing tot ontheffing van die betaling, neemt de Gouverneur de optieverklaring in behandeling en beoordeelt hij deze op haar volledigheid. Zo nodig verzoekt hij om aanvulling van de gegevens.   
 
 ### Artikel  21  
@@ -231,9 +231,9 @@ l. de overige gegevens die naar het oordeel van de tot het in ontvangst nemen va
 ### Artikel  22  
 
 1.  Behoudens in de gevallen waarin toelating niet is vereist, onderzoekt de Gouverneur de verblijfsrechtelijke status van de optant en van de personen die in de optieverklaring zijn genoemd. Zo nodig verwijst hij de optant voor een bewijs van toelating naar de daartoe bevoegde instanties.   
-2.  Behoudens in de gevallen genoemd in [artikel 6, eerste lid, aanhef en onder b en c van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) en waar dit overigens is bepaald, laat de Gouverneur onderzoeken of er ernstige vermoedens bestaan als bedoeld in [artikel 6, derde lid, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), jegens de optant of de personen die tot medeverkrijging in de optieverklaring zijn genoemd, indien zij ouder zijn dan zestien jaar.   
-3.  In de gevallen bedoeld in het vijfde lid van [artikel 6 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) treedt hij met de optant in overleg over de vaststelling en de spelling van geslachtsnaam en voornaam of voornamen van de personen die in de optieverklaring zijn genoemd, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de optant en van de personen die hij in zijn optie wenst te betrekken, zullen worden overgebracht.   
-4.  Hij stelt de andere in de optieverklaring genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in het vierde lid van [artikel 2 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de optie alsook inzake de naamsvaststelling kenbaar te maken.  
+2.  Behoudens in de gevallen genoemd in artikel 6, eerste lid, aanhef en onder b en c van de Rijkswet en waar dit overigens is bepaald, laat de Gouverneur onderzoeken of er ernstige vermoedens bestaan als bedoeld in artikel 6, derde lid, van de Rijkswet, jegens de optant of de personen die tot medeverkrijging in de optieverklaring zijn genoemd, indien zij ouder zijn dan zestien jaar.   
+3.  In de gevallen bedoeld in het vijfde lid van artikel 6 van de Rijkswet treedt hij met de optant in overleg over de vaststelling en de spelling van geslachtsnaam en voornaam of voornamen van de personen die in de optieverklaring zijn genoemd, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de optant en van de personen die hij in zijn optie wenst te betrekken, zullen worden overgebracht.   
+4.  Hij stelt de andere in de optieverklaring genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in het vierde lid van artikel 2 van de Rijkswet bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de optie alsook inzake de naamsvaststelling kenbaar te maken.  
 
 ### Artikel  23  
 
@@ -261,7 +261,7 @@ l. de overige gegevens die naar het oordeel van de tot het in ontvangst nemen va
 
 ###Artikel 26 
 
-1. Alvorens de optieverklaring in behandeling te nemen onderzoekt het hoofd van de diplomatieke of consulaire post de betalingsverplichting van de optant overeenkomstig het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md). Tenzij de optant voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij bij het afleggen van zijn optieverklaring het volgens het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md) verschuldigde optiegeld.
+1. Alvorens de optieverklaring in behandeling te nemen onderzoekt het hoofd van de diplomatieke of consulaire post de betalingsverplichting van de optant overeenkomstig het Besluit optie- en naturalisatiegelden 2002. Tenzij de optant voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij bij het afleggen van zijn optieverklaring het volgens het Besluit optie- en naturalisatiegelden 2002 verschuldigde optiegeld.
 2. Na de betaling van het verschuldigde optiegeld, of na de beslissing tot ontheffing van die betaling, neemt het hoofd van de diplomatieke of consulaire post de optieverklaring in behandeling en beoordeelt hij deze op haar volledigheid. Zo nodig verzoekt hij om aanvulling van de gegevens.
 
 ### Artikel  27  
@@ -274,9 +274,9 @@ l. de overige gegevens die naar het oordeel van de tot het in ontvangst nemen va
 
 ###Artikel 28 
 
-1. Behoudens in de gevallen genoemd in [artikel 6, eerste lid, aanhef en onder b en c van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) en waar dit overigens bepaald is, onderzoekt het hoofd van de diplomatieke of consulaire post of er ernstige vermoedens bestaan als bedoeld in [artikel 6, derde lid, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), jegens de optant en de personen die tot medeverkrijging in de optieverklaring zijn genoemd, indien zij ouder zijn dan zestien jaar.
-2. In de gevallen bedoeld in [artikel 6, vijfde lid, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) treedt hij met de optant in overleg over de vaststelling en de spelling van geslachtsnaam en voornaam of voornamen van de personen die in de optieverklaring zijn genoemd, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de optant en van de personen die hij in zijn optie wenst te betrekken, zullen worden overgebracht.
-3. Hij stelt de andere in de optieverklaring genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in het vierde lid van [artikel 2 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de optie alsook inzake de naamsvaststelling kenbaar te maken.
+1. Behoudens in de gevallen genoemd in artikel 6, eerste lid, aanhef en onder b en c van de Rijkswet en waar dit overigens bepaald is, onderzoekt het hoofd van de diplomatieke of consulaire post of er ernstige vermoedens bestaan als bedoeld in artikel 6, derde lid, van de Rijkswet, jegens de optant en de personen die tot medeverkrijging in de optieverklaring zijn genoemd, indien zij ouder zijn dan zestien jaar.
+2. In de gevallen bedoeld in artikel 6, vijfde lid, van de Rijkswet treedt hij met de optant in overleg over de vaststelling en de spelling van geslachtsnaam en voornaam of voornamen van de personen die in de optieverklaring zijn genoemd, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de optant en van de personen die hij in zijn optie wenst te betrekken, zullen worden overgebracht.
+3. Hij stelt de andere in de optieverklaring genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in het vierde lid van artikel 2 van de Rijkswet bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de optie alsook inzake de naamsvaststelling kenbaar te maken.
 
 ### Artikel  29  
 
@@ -296,7 +296,7 @@ l. de overige gegevens die naar het oordeel van de tot het in ontvangst nemen va
 
 ###Artikel 30a 
 
-Bij ministeriële regeling kan na overleg met de Ministers van Algemene Zaken van Aruba, Curaçao en Sint Maarten worden bepaald in welke gevallen het doen van afstand, als bedoeld in [artikel 6a, eerste lid](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), niet zal worden verlangd.
+Bij ministeriële regeling kan na overleg met de Ministers van Algemene Zaken van Aruba, Curaçao en Sint Maarten worden bepaald in welke gevallen het doen van afstand, als bedoeld in artikel 6a, eerste lid, niet zal worden verlangd.
 
 ###Artikel 30b 
 
@@ -374,8 +374,8 @@ Heeft de verzoeker een of meer nationaliteiten waarvan hij verplicht is afstand 
 
 ### Artikel  34  
 
-1. De verzoeker legt bij zijn verzoek het in [artikel 5, eerste lid, van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md), bedoelde inburgeringsdiploma of certificaat over, tenzij [artikel 3](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md) of [4 van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md) van toepassing is.  
-2.  Alvorens het naturalisatieverzoek in behandeling genomen wordt, onderzoekt de burgemeester de betalingsverplichting van de verzoeker overeenkomstig het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md). Tenzij de verzoeker voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij bij de indiening van zijn verzoek het volgens het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md) verschuldigde naturalisatiegeld.  
+1. De verzoeker legt bij zijn verzoek het in artikel 5, eerste lid, van het Besluit naturalisatietoets, bedoelde inburgeringsdiploma of certificaat over, tenzij artikel 3 of 4 van het Besluit naturalisatietoets van toepassing is.  
+2.  Alvorens het naturalisatieverzoek in behandeling genomen wordt, onderzoekt de burgemeester de betalingsverplichting van de verzoeker overeenkomstig het Besluit optie- en naturalisatiegelden 2002. Tenzij de verzoeker voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij bij de indiening van zijn verzoek het volgens het Besluit optie- en naturalisatiegelden 2002 verschuldigde naturalisatiegeld.  
 
 ### Artikel  35  
 
@@ -388,10 +388,10 @@ Heeft de verzoeker een of meer nationaliteiten waarvan hij verplicht is afstand 
 ### Artikel  36  
 
 1.  De burgemeester onderzoekt de verblijfsrechtelijke status van de verzoeker en de personen om wier medeverlening wordt verzocht. Zo nodig verwijst hij de verzoeker voor een bewijs van toelating naar de daartoe bevoegde instanties.  
-2.  Hij informeert de verzoeker over de wijze waarop Onze Minister toetst of ernstige vermoedens bestaan als bedoeld in [artikel 9, eerste lid, aanhef en onder a, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) jegens de verzoeker of de minderjarige personen die tot medeverlening van het Nederlanderschap in het naturalisatieverzoek zijn genoemd, indien zij ouder zijn dan zestien jaar.   
+2.  Hij informeert de verzoeker over de wijze waarop Onze Minister toetst of ernstige vermoedens bestaan als bedoeld in artikel 9, eerste lid, aanhef en onder a, van de Rijkswet jegens de verzoeker of de minderjarige personen die tot medeverlening van het Nederlanderschap in het naturalisatieverzoek zijn genoemd, indien zij ouder zijn dan zestien jaar.   
 3.  Hij onderzoekt eveneens of deze personen aan de overige voor hun naturalisatie gestelde voorwaarden voldoen.   
-4.  In de gevallen bedoeld in [artikel 12 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) overlegt de burgemeester met de verzoeker over de vaststelling en de spelling van de geslachtsnaam en voornaam of voornamen van de verzoeker alsmede van de personen om wier medeverlening is verzocht, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de verzoeker en van de personen om wier medeverlening wordt verzocht, zullen worden overgebracht. Hij vraagt, zo nodig, de toestemming van de verzoeker tot wijziging van de naam.   
-5.  De burgemeester stelt de andere in het verzoek genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in [het vierde lid van artikel 2 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de naturalisatie alsook inzake de naamswijziging en naamsvaststelling kenbaar te maken.   
+4.  In de gevallen bedoeld in artikel 12 van de Rijkswet overlegt de burgemeester met de verzoeker over de vaststelling en de spelling van de geslachtsnaam en voornaam of voornamen van de verzoeker alsmede van de personen om wier medeverlening is verzocht, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de verzoeker en van de personen om wier medeverlening wordt verzocht, zullen worden overgebracht. Hij vraagt, zo nodig, de toestemming van de verzoeker tot wijziging van de naam.   
+5.  De burgemeester stelt de andere in het verzoek genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in het vierde lid van artikel 2 van de Rijkswet bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de naturalisatie alsook inzake de naamswijziging en naamsvaststelling kenbaar te maken.   
 6.  Nadat de burgemeester de handelingen bedoeld in de voorgaande artikelen van deze paragraaf heeft verricht, brengt hij over het naturalisatieverzoek en de eventuele naamsvaststelling en naamswijziging advies uit aan Onze Minister.  
 
 ###Artikel 37 
@@ -420,8 +420,8 @@ Heeft de verzoeker een of meer nationaliteiten waarvan hij verplicht is afstand 
 
 ### Artikel  40  
 
-1. De verzoeker legt bij zijn verzoek het in [artikel 5, eerste lid, van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md), bedoelde inburgeringsdiploma of certificaat over, tenzij [artikel 3](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md) of [4 van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md) van toepassing is.  
-2.  Alvorens het verzoek in behandeling genomen wordt, onderzoekt Onze Minister de betalingsverplichting van de verzoeker overeenkomstig het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md). Tenzij de verzoeker voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij ter gelegenheid van de indiening van zijn verzoek het volgens het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md) verschuldigde naturalisatiegeld.  
+1. De verzoeker legt bij zijn verzoek het in artikel 5, eerste lid, van het Besluit naturalisatietoets, bedoelde inburgeringsdiploma of certificaat over, tenzij artikel 3 of 4 van het Besluit naturalisatietoets van toepassing is.  
+2.  Alvorens het verzoek in behandeling genomen wordt, onderzoekt Onze Minister de betalingsverplichting van de verzoeker overeenkomstig het Besluit optie- en naturalisatiegelden 2002. Tenzij de verzoeker voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij ter gelegenheid van de indiening van zijn verzoek het volgens het Besluit optie- en naturalisatiegelden 2002 verschuldigde naturalisatiegeld.  
 
 ### Artikel  41  
 
@@ -433,10 +433,10 @@ Heeft de verzoeker een of meer nationaliteiten waarvan hij verplicht is afstand 
 
 ### Artikel  42  
 
-1.  Onze Minister onderzoekt de verblijfsrechtelijke status van de verzoeker en de personen om wier medeverlening wordt verzocht, alsmede of er ernstige vermoedens bestaan als bedoeld in [artikel 9, eerste lid, aanhef en onder a, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) jegens de verzoeker of de personen die tot medeverkrijging van het Nederlanderschap in het naturalisatieverzoek zijn genoemd, indien zij ouder zijn dan zestien jaar. Zo nodig verwijst hij de verzoeker voor een bewijs van toelating naar de daartoe bevoegde instanties.   
+1.  Onze Minister onderzoekt de verblijfsrechtelijke status van de verzoeker en de personen om wier medeverlening wordt verzocht, alsmede of er ernstige vermoedens bestaan als bedoeld in artikel 9, eerste lid, aanhef en onder a, van de Rijkswet jegens de verzoeker of de personen die tot medeverkrijging van het Nederlanderschap in het naturalisatieverzoek zijn genoemd, indien zij ouder zijn dan zestien jaar. Zo nodig verwijst hij de verzoeker voor een bewijs van toelating naar de daartoe bevoegde instanties.   
 2.  Hij onderzoekt eveneens of deze personen aan de overige voor hun naturalisatie gestelde voorwaarden voldoen.    
-3.  In de gevallen bedoeld in [artikel 12 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) overlegt Onze Minister met de verzoeker over de vaststelling en de spelling van geslachtsnaam en voornaam of voornamen van de verzoeker alsmede van de personen om wier medeverlening is verzocht, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de verzoeker en van de personen om wier medeverlening wordt verzocht, zullen worden overgebracht. Hij vraagt, zo nodig, de toestemming van de verzoeker tot wijziging van de naam.   
-4.  Onze Minister stelt de andere in het verzoek genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in [het vierde lid van artikel 2 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de naturalisatie alsook inzake de naamswijziging en naamsvaststelling kenbaar te maken.  
+3.  In de gevallen bedoeld in artikel 12 van de Rijkswet overlegt Onze Minister met de verzoeker over de vaststelling en de spelling van geslachtsnaam en voornaam of voornamen van de verzoeker alsmede van de personen om wier medeverlening is verzocht, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de verzoeker en van de personen om wier medeverlening wordt verzocht, zullen worden overgebracht. Hij vraagt, zo nodig, de toestemming van de verzoeker tot wijziging van de naam.   
+4.  Onze Minister stelt de andere in het verzoek genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in het vierde lid van artikel 2 van de Rijkswet bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de naturalisatie alsook inzake de naamswijziging en naamsvaststelling kenbaar te maken.  
 
 ### Artikel  44  
 
@@ -459,8 +459,8 @@ Heeft de verzoeker een of meer nationaliteiten waarvan hij verplicht is afstand 
 
 ### Artikel  46  
 
-1. De verzoeker legt bij zijn verzoek het in [artikel 5, eerste lid, van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md), bedoelde inburgeringsdiploma of certificaat over, tenzij [artikel 3](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md) of [4 van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md) van toepassing is.  
-2.  Alvorens het verzoek in behandeling genomen wordt, onderzoekt de Gouverneur de betalingsverplichting van de verzoeker overeenkomstig het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md). Tenzij de verzoeker voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij ter gelegenheid van de indiening van zijn verzoek het volgens het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md) verschuldigde naturalisatiegeld.  
+1. De verzoeker legt bij zijn verzoek het in artikel 5, eerste lid, van het Besluit naturalisatietoets, bedoelde inburgeringsdiploma of certificaat over, tenzij artikel 3 of 4 van het Besluit naturalisatietoets van toepassing is.  
+2.  Alvorens het verzoek in behandeling genomen wordt, onderzoekt de Gouverneur de betalingsverplichting van de verzoeker overeenkomstig het Besluit optie- en naturalisatiegelden 2002. Tenzij de verzoeker voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij ter gelegenheid van de indiening van zijn verzoek het volgens het Besluit optie- en naturalisatiegelden 2002 verschuldigde naturalisatiegeld.  
 
 ### Artikel  47  
 
@@ -472,10 +472,10 @@ Heeft de verzoeker een of meer nationaliteiten waarvan hij verplicht is afstand 
 
 ### Artikel  48  
 
-1.  De Gouverneur onderzoekt de verblijfsrechtelijke status van de verzoeker en de personen om wier medeverlening wordt verzocht, alsmede laat hij het bestaan onderzoeken van ernstige vermoedens als bedoeld in [artikel 9, eerste lid, aanhef en onder a, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) jegens de verzoeker of de personen die tot medeverkrijging van het Nederlanderschap in het naturalisatieverzoek zijn genoemd, indien zij ouder zijn dan zestien jaar. Zo nodig verwijst hij de verzoeker voor een bewijs van toelating naar de daartoe bevoegde instanties.   
+1.  De Gouverneur onderzoekt de verblijfsrechtelijke status van de verzoeker en de personen om wier medeverlening wordt verzocht, alsmede laat hij het bestaan onderzoeken van ernstige vermoedens als bedoeld in artikel 9, eerste lid, aanhef en onder a, van de Rijkswet jegens de verzoeker of de personen die tot medeverkrijging van het Nederlanderschap in het naturalisatieverzoek zijn genoemd, indien zij ouder zijn dan zestien jaar. Zo nodig verwijst hij de verzoeker voor een bewijs van toelating naar de daartoe bevoegde instanties.   
 2.  Hij onderzoekt eveneens of deze personen aan de overige voor hun naturalisatie gestelde voorwaarden voldoen.   
-3.  In de gevallen bedoeld in [artikel 12 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) overlegt de Gouverneur met de verzoeker over de vaststelling en de spelling van geslachtsnaam en voornaam of voornamen van de verzoeker alsmede van de personen om wier medeverlening is verzocht, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de verzoeker en van de personen om wier medeverlening wordt verzocht, zullen worden overgebracht. Hij vraagt, zo nodig, de toestemming van de verzoeker tot wijziging van de naam.   
-4.  De Gouverneur stelt de andere in het verzoek genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in het vierde lid van [artikel 2 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de naturalisatie alsook inzake de naamswijziging en naamsvaststelling kenbaar te maken.   
+3.  In de gevallen bedoeld in artikel 12 van de Rijkswet overlegt de Gouverneur met de verzoeker over de vaststelling en de spelling van geslachtsnaam en voornaam of voornamen van de verzoeker alsmede van de personen om wier medeverlening is verzocht, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de verzoeker en van de personen om wier medeverlening wordt verzocht, zullen worden overgebracht. Hij vraagt, zo nodig, de toestemming van de verzoeker tot wijziging van de naam.   
+4.  De Gouverneur stelt de andere in het verzoek genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in het vierde lid van artikel 2 van de Rijkswet bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de naturalisatie alsook inzake de naamswijziging en naamsvaststelling kenbaar te maken.   
 5.  Nadat de Gouverneur de handelingen bedoeld in de voorgaande artikelen van deze paragraaf heeft verricht, brengt hij over het naturalisatieverzoek en de eventuele naamsvaststelling en naamswijziging advies uit aan Onze Minister.  
 
 ### Artikel  49  
@@ -504,8 +504,8 @@ Heeft de verzoeker een of meer nationaliteiten waarvan hij verplicht is afstand 
 
 ### Artikel  52  
 
-1. De verzoeker legt bij zijn verzoek het in [artikel 5, eerste lid, van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md), bedoelde inburgeringsdiploma of certificaat over, tenzij [artikel 3](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md) of [4 van het Besluit naturalisatietoets](../../../../../../../rijksKB/besluit/naturalisatietoets/BWBR0013604/README.md) van toepassing is.  
-2.  Alvorens het verzoek in behandeling genomen wordt, onderzoekt het hoofd van de diplomatieke of consulaire post de betalingsverplichting van de verzoeker overeenkomstig het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md). Tenzij de verzoeker voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij bij de indiening van zijn verzoek het volgens het [Besluit optie- en naturalisatiegelden 2002](../../../../../../../rijksKB/besluit/optie-/en/naturalisatiegelden/2002/BWBR0013782/README.md) verschuldigde naturalisatiegeld.   
+1. De verzoeker legt bij zijn verzoek het in artikel 5, eerste lid, van het Besluit naturalisatietoets, bedoelde inburgeringsdiploma of certificaat over, tenzij artikel 3 of 4 van het Besluit naturalisatietoets van toepassing is.  
+2.  Alvorens het verzoek in behandeling genomen wordt, onderzoekt het hoofd van de diplomatieke of consulaire post de betalingsverplichting van de verzoeker overeenkomstig het Besluit optie- en naturalisatiegelden 2002. Tenzij de verzoeker voor vrijstelling of gehele ontheffing in aanmerking komt, betaalt hij bij de indiening van zijn verzoek het volgens het Besluit optie- en naturalisatiegelden 2002 verschuldigde naturalisatiegeld.   
 
 ### Artikel  53  
 
@@ -515,10 +515,10 @@ Heeft de verzoeker een of meer nationaliteiten waarvan hij verplicht is afstand 
 
 ### Artikel  54  
 
-1.  Het hoofd van de diplomatieke of consulaire post onderzoekt of er ernstige vermoedens bestaan als bedoeld in [artikel 9, eerste lid, aanhef en onder a, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), jegens de verzoeker en de personen die tot medeverkrijging van het Nederlanderschap in het naturalisatieverzoek zijn genoemd, indien zij ouder zijn dan zestien jaar.   
+1.  Het hoofd van de diplomatieke of consulaire post onderzoekt of er ernstige vermoedens bestaan als bedoeld in artikel 9, eerste lid, aanhef en onder a, van de Rijkswet, jegens de verzoeker en de personen die tot medeverkrijging van het Nederlanderschap in het naturalisatieverzoek zijn genoemd, indien zij ouder zijn dan zestien jaar.   
 2.  Hij onderzoekt eveneens of deze personen aan de overige voor hun naturalisatie gestelde voorwaarden voldoen.   
-3.  In de gevallen, bedoeld in [artikel 12 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), overlegt hij met de verzoeker over de vaststelling en de spelling van geslachtsnaam en voornaam of voornamen van de verzoeker alsmede van de personen om wier medeverlening is verzocht, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de verzoeker en van de personen om wier medeverlening wordt verzocht, zullen worden overgebracht. Hij vraagt, zo nodig, toestemming van de verzoeker tot wijziging van de naam.   
-4.  Hij stelt de andere in het verzoek genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in het vierde lid van [artikel 2 van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de naturalisatie alsook inzake de naamswijziging en naamsvaststelling kenbaar te maken.   
+3.  In de gevallen, bedoeld in artikel 12 van de Rijkswet, overlegt hij met de verzoeker over de vaststelling en de spelling van geslachtsnaam en voornaam of voornamen van de verzoeker alsmede van de personen om wier medeverlening is verzocht, en over de in het Koninkrijk gebruikelijke lettertekens waarin de namen van de verzoeker en van de personen om wier medeverlening wordt verzocht, zullen worden overgebracht. Hij vraagt, zo nodig, toestemming van de verzoeker tot wijziging van de naam.   
+4.  Hij stelt de andere in het verzoek genoemde personen, die de leeftijd van twaalf jaar hebben bereikt, alsook de wettelijke vertegenwoordiger en de in het vierde lid van artikel 2 van de Rijkswet bedoelde andere ouder van deze personen op hun verzoek in de gelegenheid hun zienswijze inzake de naturalisatie alsook inzake de naamswijziging en naamsvaststelling kenbaar te maken.   
 5.  Nadat het hoofd van de diplomatieke of consulaire post de handelingen bedoeld in de voorgaande artikelen van deze paragraaf heeft verricht, brengt hij over het naturalisatieverzoek en de eventuele naamsvaststelling en naamswijziging advies uit aan Onze Minister.  
 
 ###Artikel 55 
@@ -566,7 +566,7 @@ Tenzij hij wegens de omstandigheden van het geval anders beslist, gaat Onze Mini
 1. Tenzij anders bepaald, treedt de bevestiging van de verkrijging van het Nederlanderschap als bedoeld in de artikelen 11, 17, 23 en 29, in werking door de uitreiking ervan aan de optant door of namens de tot bevestiging bevoegde autoriteit. De bevestiging werkt terug tot de dag van de dagtekening. 
 2. De in het eerste lid genoemde autoriteit roept de optant tezamen met de personen die in de verkrijging zullen delen en die ten tijde van het afleggen van de optieverklaring zestien jaar of ouder waren, tijdig voor de uitreiking op te verschijnen. Was de optant ten tijde van het afleggen van de optieverklaring jonger dan zestien jaar dan wordt zijn wettelijke vertegenwoordiger opgeroepen te verschijnen. 
 3. Indien de optant en de personen die in de verkrijging delen, verplicht zijn voorafgaand aan de uitreiking van de bevestiging een verklaring af te leggen, vindt de uitreiking niet plaats dan nadat deze verklaring is afgelegd. Indien niet alle in de bevestiging genoemde personen die een verklaring dienen af te leggen, daartoe bereid of in staat zijn, wordt de uitreiking aangehouden. 
-4.  Degene aan wie de bevestiging van de verkrijging van het Nederlanderschap in persoon wordt uitgereikt en de minderjarige vreemdeling die de bereidverklaring als bedoeld in [artikel 6, tweede lid, van de Rijkswet op het Nederlanderschap](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) heeft afgelegd, legt de verklaring van verbondenheid mondeling af op een door de in het eerste lid genoemde autoriteit te bepalen wijze.   
+4.  Degene aan wie de bevestiging van de verkrijging van het Nederlanderschap in persoon wordt uitgereikt en de minderjarige vreemdeling die de bereidverklaring als bedoeld in artikel 6, tweede lid, van de Rijkswet op het Nederlanderschap heeft afgelegd, legt de verklaring van verbondenheid mondeling af op een door de in het eerste lid genoemde autoriteit te bepalen wijze.   
 5.  De in het eerste lid genoemde autoriteit kan bepalen dat de betrokkene de verklaring van verbondenheid schriftelijk aflegt, indien van hem redelijkerwijs niet kan worden verlangd dat hij deze mondeling aflegt.   
 6.  Indien betrokkene vanwege zijn fysieke of psychische toestand niet in staat is om de verklaring van verbondenheid op de in het vierde of vijfde lid bedoelde wijze af te leggen, wordt de bevestiging bekendgemaakt zonder dat de verklaring van verbondenheid is afgelegd.  
 7. De uitreiking vindt plaats binnen negen weken nadat is vastgesteld dat de optant heeft voldaan aan de vereisten, die aan de optie zijn gesteld. Wegens bijzondere omstandigheden kan deze termijn met een redelijke periode worden verlengd. 
@@ -597,7 +597,7 @@ Tenzij hij wegens de omstandigheden van het geval anders beslist, gaat Onze Mini
 
 ###Artikel 61 
 
-1. Als verklaring omtrent het bezit van het Nederlanderschap, bedoeld in [artikel 15, vierde lid van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) en in [artikel V, tweede lid van de Rijkswet van 21 december 2000, Stb. 618, tot wijziging van de Rijkswet op het Nederlanderschap](../../../../../../../rijkswet/wijzigingswet/rijkswet/op/het/nederlanderschap/(verkrijging/verlening/en/etc/BWBR0012089/README.md) met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap, geldt:
+1. Als verklaring omtrent het bezit van het Nederlanderschap, bedoeld in artikel 15, vierde lid van de Rijkswet en in artikel V, tweede lid van de Rijkswet van 21 december 2000, Stb. 618, tot wijziging van de Rijkswet op het Nederlanderschap met betrekking tot de verkrijging, de verlening en het verlies van het Nederlanderschap, geldt:
 
 a.de onherroepelijke rechterlijke beschikking waarbij het Nederlanderschap is vastgesteld;
 
@@ -618,7 +618,7 @@ c.een verklaring afgegeven door het hoofd van de diplomatieke of consulaire post
 
 ###Artikel 62 
 
-1. Een verklaring van afstand van het Nederlanderschap als bedoeld in [artikel 15, eerste lid, aanhef en onder b](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), of als bedoeld in [artikel 16, eerste lid, aanhef en onder b, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) wordt schriftelijk afgelegd. De verklaring vermeldt dat de persoon die de verklaring aflegt, bekend is met [artikel 16, eerste lid, aanhef en onder d, en tweede lid van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md).
+1. Een verklaring van afstand van het Nederlanderschap als bedoeld in artikel 15, eerste lid, aanhef en onder b, of als bedoeld in artikel 16, eerste lid, aanhef en onder b, van de Rijkswet wordt schriftelijk afgelegd. De verklaring vermeldt dat de persoon die de verklaring aflegt, bekend is met artikel 16, eerste lid, aanhef en onder d, en tweede lid van de Rijkswet.
 2. Aan de verklaring van afstand wordt zo nodig een bewijs toegevoegd dat de verklarende persoon en, in voorkomend geval, de minderjarige personen die in zijn afstand delen een andere nationaliteit bezitten.
 3. Indien de verklaring een minderjarige betreft, wordt zo nodig tevens een bewijs van de nationaliteit van de vader en moeder of adoptiefouder toegevoegd.
 
@@ -644,7 +644,7 @@ d. in het buitenland: voor het hoofd van de diplomatieke of consulaire post.
 
 a. de verklaring van afstand van het Nederlanderschap in de basisadministratie wordt verwerkt;  
 
-b. de Nederlandse reisdocumenten die waren uitgereikt aan de personen die door of als gevolg van de afstand het Nederlanderschap hebben verloren, overeenkomstig de [Paspoortwet](../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) worden ingenomen;  
+b. de Nederlandse reisdocumenten die waren uitgereikt aan de personen die door of als gevolg van de afstand het Nederlanderschap hebben verloren, overeenkomstig de Paspoortwet worden ingenomen;  
 
 c. indien van toepassing: de betrokkenen worden verwezen naar de Vreemdelingendienst van de politie.    
 
@@ -662,7 +662,7 @@ De autoriteiten en ambtenaren bevoegd tot het in ontvangst nemen van optieverkla
 
 ### Artikel  66  
 
-1.  Indien Onze Minister het voornemen heeft een besluit te nemen tot intrekking van het besluit waarbij het Nederlanderschap is verkregen of verleend, als bedoeld in [artikel 14, eerste lid, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), doet hij daarvan schriftelijk mededeling aan de bij de intrekking rechtstreeks betrokken persoon of personen alsmede aan de autoriteit die de optieverklaring of het naturalisatieverzoek in ontvangst genomen heeft. Indien Onze Minister het voornemen heeft een besluit te nemen tot intrekking van het Nederlanderschap, als bedoeld in artikel 14, tweede lid, van de Rijkswet, doet hij daarvan schriftelijk mededeling aan de bij de intrekking rechtstreeks betrokken persoon of personen.   
+1.  Indien Onze Minister het voornemen heeft een besluit te nemen tot intrekking van het besluit waarbij het Nederlanderschap is verkregen of verleend, als bedoeld in artikel 14, eerste lid, van de Rijkswet, doet hij daarvan schriftelijk mededeling aan de bij de intrekking rechtstreeks betrokken persoon of personen alsmede aan de autoriteit die de optieverklaring of het naturalisatieverzoek in ontvangst genomen heeft. Indien Onze Minister het voornemen heeft een besluit te nemen tot intrekking van het Nederlanderschap, als bedoeld in artikel 14, tweede lid, van de Rijkswet, doet hij daarvan schriftelijk mededeling aan de bij de intrekking rechtstreeks betrokken persoon of personen.   
 2.  Heeft de betrokken persoon een bekende woon- of verblijfplaats, dan wordt de mededeling aan dat adres gezonden; heeft hij geen bekende woon- of verblijfplaats, dan wordt de mededeling gezonden aan zijn laatst bekende adres in het Europese deel van Nederland, Aruba, Curaçao of Sint Maarten dan wel de openbare lichamen Bonaire, Sint Eustatius of Saba of door tussenkomst van het Ministerie van Buitenlandse Zaken aan zijn laatst bekende adres in het buitenland.   
 3.  Indien Onze Minister zulks noodzakelijk acht, geeft hij van zijn voornemen kennis door uitreiking van de in het eerste lid bedoelde mededeling.   
 4.  Indien Onze Minister zulks noodzakelijk acht, geeft hij van zijn voornemen tevens kennis in een of meer van de lokale bladen van de vermoedelijke verblijfplaats van betrokkenen of in de daarvoor bestemde officiële publicatiebladen, al naar gelang die verblijfplaats.   
@@ -681,21 +681,21 @@ Onze Minister zendt van de ingebrachte bedenkingen een afschrift aan de in het e
 
 ### Artikel  68  
 
-1.  Bij zijn besluit tot intrekking van het Nederlanderschap op grond van [artikel 14, eerste lid, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) houdt Onze Minister onder meer rekening met de aard en ernst van de valse verklaring, het bedrog of de verzwijging, de mogelijke staatloosheid van betrokkene na de intrekking, alsook met de tijdsduur die sinds de verkrijging of verlening verlopen is en de overige relevante factoren.   
-2.  Het besluit tot intrekking als bedoeld in [artikel 14, eerste lid, of tweede lid, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) vermeldt de personen wier Nederlanderschap is ingetrokken.  
+1.  Bij zijn besluit tot intrekking van het Nederlanderschap op grond van artikel 14, eerste lid, van de Rijkswet houdt Onze Minister onder meer rekening met de aard en ernst van de valse verklaring, het bedrog of de verzwijging, de mogelijke staatloosheid van betrokkene na de intrekking, alsook met de tijdsduur die sinds de verkrijging of verlening verlopen is en de overige relevante factoren.   
+2.  Het besluit tot intrekking als bedoeld in artikel 14, eerste lid, of tweede lid, van de Rijkswet vermeldt de personen wier Nederlanderschap is ingetrokken.  
 
 ### Artikel  69  
 
-Onze Minister neemt een besluit tot intrekking op grond van [artikel 14, eerste lid, of tweede lid, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) uiterlijk binnen zestien weken nadat hij de in het eerste lid van artikel 66 bedoelde mededeling gedaan heeft. 
+Onze Minister neemt een besluit tot intrekking op grond van artikel 14, eerste lid, of tweede lid, van de Rijkswet uiterlijk binnen zestien weken nadat hij de in het eerste lid van artikel 66 bedoelde mededeling gedaan heeft. 
 
 ### Artikel  70  
 
-1. Nadat Onze Minister op grond van [artikel 14, eerste of tweede lid](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md), of [artikel 15, eerste lid, aanhef en onder d of f, van de Rijkswet](../../../../../../../rijkswet/rijkswet/op/het/nederlanderschap/BWBR0003738/README.md) een besluit tot intrekking heeft genomen, zendt hij een afschrift van het besluit aan de persoon wiens Nederlanderschap is ingetrokken aan de autoriteit die verantwoordelijk is voor het bijhouden in de basisadministratie van de gegevens over de desbetreffende persoon of aan de Minister van Buitenlandse Zaken. Indien de intrekking is gebaseerd op artikel 14, eerste lid, of artikel 15, eerste lid, aanhef en onder d of f, wordt tevens een afschrift gezonden aan de autoriteit die de optieverklaring of het naturalisatieverzoek in ontvangst heeft genomen. Hij zendt, zo nodig, een afschrift aan andere betrokken instanties. Het tweede, derde en vierde lid van artikel 66 zijn van overeenkomstige toepassing. 
+1. Nadat Onze Minister op grond van artikel 14, eerste of tweede lid, of artikel 15, eerste lid, aanhef en onder d of f, van de Rijkswet een besluit tot intrekking heeft genomen, zendt hij een afschrift van het besluit aan de persoon wiens Nederlanderschap is ingetrokken aan de autoriteit die verantwoordelijk is voor het bijhouden in de basisadministratie van de gegevens over de desbetreffende persoon of aan de Minister van Buitenlandse Zaken. Indien de intrekking is gebaseerd op artikel 14, eerste lid, of artikel 15, eerste lid, aanhef en onder d of f, wordt tevens een afschrift gezonden aan de autoriteit die de optieverklaring of het naturalisatieverzoek in ontvangst heeft genomen. Hij zendt, zo nodig, een afschrift aan andere betrokken instanties. Het tweede, derde en vierde lid van artikel 66 zijn van overeenkomstige toepassing. 
 2.  Voorzoveel van toepassing, bevordert de autoriteit die dit afschrift heeft ontvangen, dat 
 
 a. het besluit tot intrekking van het Nederlanderschap in de basisadministratie wordt verwerkt;  
 
-b. de Nederlandse reisdocumenten die waren uitgereikt aan de personen die het Nederlanderschap hebben verloren, overeenkomstig de [Paspoortwet](../../../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) worden ingenomen;  
+b. de Nederlandse reisdocumenten die waren uitgereikt aan de personen die het Nederlanderschap hebben verloren, overeenkomstig de Paspoortwet worden ingenomen;  
 
 c. de betrokkenen worden verwezen naar de Vreemdelingendienst van de politie;  
 

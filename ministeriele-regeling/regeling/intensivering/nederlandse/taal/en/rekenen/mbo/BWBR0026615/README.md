@@ -5,7 +5,7 @@
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
 Handelende in overeenstemming met de Minister van Landbouw, Natuur en Voedselkwaliteit;
 
-Gelet op [artikel 2.2.3, tweede en derde lid, van de Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
+Gelet op artikel 2.2.3, tweede en derde lid, van de Wet educatie en beroepsonderwijs;
 Besluit:    
 
 ### Artikel  1  
@@ -16,13 +16,13 @@ In deze regeling wordt verstaan onder:
 
 *Minister:* de Minister van Onderwijs, Cultuur en Wetenschap, en, voor zover het betreft het beroepsonderwijs op het gebied van landbouw, natuurlijke omgeving en voedsel, de Minister van Economische Zaken;  
 
-*wet:* [Wet educatie en beroepsonderwijs](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+*wet:* Wet educatie en beroepsonderwijs;  
 
-*instelling:* een instelling als bedoeld in [artikel 1.1.1, onder b](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), een instituut als bedoeld in [artikel 12.3.8](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), of een hogeschool als bedoeld in [artikel 12.3.9 van de wet](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+*instelling:* een instelling als bedoeld in artikel 1.1.1, onder b, een instituut als bedoeld in artikel 12.3.8, of een hogeschool als bedoeld in artikel 12.3.9 van de wet;  
 
 *armoedeprobleemcumulatiegebied:* een cumulatiegebied zoals gehanteerd in de Armoedemonitor 2005 van het Sociaal en Cultureel Planbureau en het Centraal Bureau voor de Statistiek, zoals geactualiseerd op basis van het Regionaal Inkomensonderzoek;  
 
-*deelnemer:* een deelnemer die op 1 oktober van een kalenderjaar is ingeschreven aan een opleiding als bedoeld in [artikel 7.2.2, eerste lid, van de wet](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), die daadwerkelijk de opleiding volgt en op grond van [artikel 2.3.2 van het Uitvoeringsbesluit WEB](../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md) voor bekostiging wordt meegeteld;  
+*deelnemer:* een deelnemer die op 1 oktober van een kalenderjaar is ingeschreven aan een opleiding als bedoeld in artikel 7.2.2, eerste lid, van de wet, die daadwerkelijk de opleiding volgt en op grond van artikel 2.3.2 van het Uitvoeringsbesluit WEB voor bekostiging wordt meegeteld;  
 
 *apc-deelnemer:* een deelnemer die woonachtig is in een postcodegebied dat valt in een armoedeprobleemcumulatiegebied;  
 
@@ -65,7 +65,7 @@ b. een bedrag naar rato van het aantal deelnemers, berekend volgens artikel 5;
 c. in voorkomend geval een compensatiebedrag, berekend volgens artikel 6.     
 3.  In 2010 is voor de compensatiebedragen bedoeld in artikel 6 een bedrag van € 6.448.900 beschikbaar, in 2011 een bedrag van € 4.299.267 en in 2012 een bedrag van € 2.149.633   
 4.  Voor de berekening van de bedragen naar rato van het aantal deelnemers op grond van artikel 5 wordt uitgegaan van het bedrag dat voor het betreffende kalenderjaar voor het verstrekken van aanvullende bekostiging resteert nadat het bedrag genoemd in het derde lid alsmede het totaalbedrag voor de apc-deelnemers voor het betreffende kalenderjaar, berekend op grond van artikel 4, in mindering is gebracht op het bedrag, genoemd in het eerste lid.   
-5.  Voor de berekening bedoeld in de artikelen 4 en 5 maakt de minister gebruik van de gegevens bedoeld in [artikel 4b.2.3, eerste lid, onderdeel e, van het Uitvoeringsbesluit WEB](../../../../../../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md).   
+5.  Voor de berekening bedoeld in de artikelen 4 en 5 maakt de minister gebruik van de gegevens bedoeld in artikel 4b.2.3, eerste lid, onderdeel e, van het Uitvoeringsbesluit WEB.   
 6.  Bij de berekening bedoeld in de artikelen 4 en 5 wordt het aantal deelnemers in een deeltijdse opleiding in de beroepsopleidende leerweg vermenigvuldigd met 0,35.  
 
 ### Artikel  4  
@@ -104,7 +104,7 @@ Het voor een instelling beschikbare bedrag naar rato van het aantal deelnemers i
 
 ####Begrotingsvoorwaarde
 
-1.  De aanvullende bekostiging ten laste van een begroting die nog niet is vastgesteld wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  De aanvullende bekostiging ten laste van een begroting die nog niet is vastgesteld wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.   
 2.  Ingeval van het niet vervullen van de voorwaarde wordt de op grond van deze regeling verleende aanvullende bekostiging verlaagd tot het bedrag dat na de vaststelling of goedkeuring van de begroting van het Ministerie van Onderwijs, Cultuur en Wetenschap ter beschikking staat.  
 
 ### Artikel  8  
@@ -120,7 +120,7 @@ b. een overzicht van de in artikel 2 genoemde activiteiten ten behoeve van de in
 
 c. de wijze waarop de instelling effecten van de onderwijsinspanningen op taal- en rekenvaardigheden van deelnemers meet.     
 3.  Het steunpunt analyseert het implementatieplan en geeft hierover een reactie aan de instelling.   
-4.  Indien de instelling niet tijdig een implementatieplan heeft ingezonden dat voldoet aan de eisen gesteld in het tweede lid, kan de minister op grond van [artikel 11.1 van de wet](../../../../../../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) de aanvullende bekostiging geheel of gedeeltelijk inhouden of opschorten.  
+4.  Indien de instelling niet tijdig een implementatieplan heeft ingezonden dat voldoet aan de eisen gesteld in het tweede lid, kan de minister op grond van artikel 11.1 van de wet de aanvullende bekostiging geheel of gedeeltelijk inhouden of opschorten.  
 
 ### Artikel  9  
 
@@ -132,7 +132,7 @@ De aanvullende bekostiging wordt uitsluitend aangewend voor het doel waarvoor zi
 
 ####Verantwoording en controle
 
-1.  De verantwoording van de aanvullende bekostiging geschiedt in de jaarverslaggeving, bedoeld in de [Regeling jaarverslaggeving onderwijs](../../../../../../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md), met model G, behorende bij de richtlijn RJ 660, alinea 212, zoals vastgesteld door de Raad voor de Jaarverslaggeving. De verwerking van niet-bestede middelen geschiedt in de jaarrekening van het laatste jaar van besteding. De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de aanvullende bekostiging.   
+1.  De verantwoording van de aanvullende bekostiging geschiedt in de jaarverslaggeving, bedoeld in de Regeling jaarverslaggeving onderwijs, met model G, behorende bij de richtlijn RJ 660, alinea 212, zoals vastgesteld door de Raad voor de Jaarverslaggeving. De verwerking van niet-bestede middelen geschiedt in de jaarrekening van het laatste jaar van besteding. De verklaring van de accountant bij de jaarrekening omvat tevens een oordeel over de rechtmatige besteding van de aanvullende bekostiging.   
 2.  In aanvulling op de financiële verantwoording van de aanvullende bekostiging in de jaarverslaggeving stelt het bevoegd gezag dat in een kalenderjaar meer dan € 25.000 aan aanvullende bekostiging op grond van deze regeling heeft ontvangen, een inhoudelijk verslag op. Het verslag wordt ingericht volgens het format dat als bijlage bij deze regeling is opgenomen en wordt opgenomen in het jaarverslag. Het inhoudelijk verslag bevat een reflectie op de behaalde resultaten mede in relatie tot het implementatieplan bedoeld in artikel 8.  
 
 ### Artikel  11  

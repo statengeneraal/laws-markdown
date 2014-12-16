@@ -1906,6 +1906,13 @@ j. Wijzigingen in de ingevolge artikel 115 verstrekte gegevens worden uiterlijk 
 
 Voor de toepassing van deze paragraaf wordt bij de bepaling van de omvang van het op een bedrijf rustende productierecht de beperking van de verkleining en de vergroting die ingevolge artikel 28, derde lid, van de wet plaatsvindt in het jaar waarin de kennisgeving van de overgang van een productierecht wordt geregistreerd, buiten beschouwing gelaten.
 
+### Artikel  121a*  
+Treedt in werking per 01-01-2015 
+
+1.  Op ontheffingen die op grond van artikel 112 van de Uitvoeringsregeling Meststoffenwet zijn verleend voor de datum waarop deze regeling in werking treedt, blijft paragraaf 5 van de Uitvoeringsregeling Meststoffenwet, zoals deze luidde op de dag voor inwerkingtreding van deze regeling van toepassing.   
+2.  De landbouwer aan wie ontheffing op grond van artikel 112 van de Uitvoeringsregeling Meststoffen wet is verleend voor de datum waarop deze regeling in werking treedt, voldoet tevens aan de voorwaarden van paragraaf 5 van de Uitvoeringsregeling Meststoffenwet indien hij 100% van de hoeveelheid dierlijke meststoffen van zijn bedrijfsoverschot overeenkomstig artikel 33a, derde lid, onderdeel a of b, van de Meststoffenwet laat verwerken.   
+3.  In afwijking van artikel 119 van de Uitvoeringsregeling Meststoffenwet zoals dat luidde op de dag voor inwerkingtreding van deze regeling, vervallen de ontheffingen, bedoeld in het eerste lid, op 1 januari 2018.  
+
 ### Hoofdstuk  10a  
 
 ####Regelen betreffende de wijze van uitvoering van het controleprogramma
