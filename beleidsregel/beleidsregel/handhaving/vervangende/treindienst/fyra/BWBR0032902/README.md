@@ -3,7 +3,7 @@
 ##Beleidsregels van de Staatssecretaris van Infrastructuur en Milieu, van 5 februari 2013, nr. IENM/BSK-2013/19242 in verband met handhaving afspraken tijdelijke Vervangende treindienst (Beleidsregel handhaving vervangende treindienst Fyra)
 
 De Staatssecretaris van Infrastructuur en Milieu,  
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de [artikelen 34](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [88](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [93, tweede lid, van de Wet personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), de Vervoerconcessie voor het hogesnelheidsnet en de Overeenkomst vervangende treindienst Fyra;
+Gelet op artikel 4:81 van de Algemene wet bestuursrecht, de artikelen 34, 88 en 93, tweede lid, van de Wet personenvervoer 2000, de Vervoerconcessie voor het hogesnelheidsnet en de Overeenkomst vervangende treindienst Fyra;
 Besluit:     
 ### §  1  
 
@@ -33,8 +33,8 @@ In deze beleidsregels wordt verstaan onder:
 
 ####Kader
 
-1.  Aan HSA is met ingang van 1 juli 2009 op grond van de [artikelen 20, eerste lid](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), en [64, eerste lid, van de Wet personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) een concessie verleend ter uitvoering van treindiensten over hogesnelheidsinfrastructuur en aansluitende conventionele infrastructuur tussen Amsterdam en Brussel.   
-2.  Nu de dienstverlening sedert 17 januari 2013 gedeeltelijk is uitgevallen, heeft HSA conform [artikel 34, tweede lid, van de Wet personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) noodmaatregelen getroffen bestaande uit aanvullende openbaredienstverplichtingen. In de Brief heeft de Staatssecretaris ingestemd met de wijze waarop HSA het vervangend vervoer op grond van artikel 34 van de Wet personen vervoer 2000 inricht.  
+1.  Aan HSA is met ingang van 1 juli 2009 op grond van de artikelen 20, eerste lid, en 64, eerste lid, van de Wet personenvervoer 2000 een concessie verleend ter uitvoering van treindiensten over hogesnelheidsinfrastructuur en aansluitende conventionele infrastructuur tussen Amsterdam en Brussel.   
+2.  Nu de dienstverlening sedert 17 januari 2013 gedeeltelijk is uitgevallen, heeft HSA conform artikel 34, tweede lid, van de Wet personenvervoer 2000 noodmaatregelen getroffen bestaande uit aanvullende openbaredienstverplichtingen. In de Brief heeft de Staatssecretaris ingestemd met de wijze waarop HSA het vervangend vervoer op grond van artikel 34 van de Wet personen vervoer 2000 inricht.  
 
 ### §  3  
 
@@ -68,7 +68,7 @@ Bij constatering van het overschrijden van de norm ten aanzien van de rijtijd zo
 
 ####Kwaliteit van het dienstenaanbod
 
-Bij constatering van het niet nakomen van de op HSA rustende verplichtingen ten aanzien van de kwaliteit van het dienstenaanbod zoals opgenomen in de Brief, krijgt HSA de gelegenheid binnen het volgende dienstregelingsjaar de prestaties op het niveau van de gestelde normen te brengen. Indien dit niet gerealiseerd is en HSA niet kan aantonen dat dit niet aan haar is toe te rekenen, kan de Staatssecretaris aan HSA vanaf dat moment op grond van [artikel 93, tweede lid, van de Wet personenvervoer 2000](../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) een last onder dwangsom opleggen met inachtneming van proportionaliteit in verhouding tot de ernst van de overtreding en de omvang van de Vervangende treindienst. 
+Bij constatering van het niet nakomen van de op HSA rustende verplichtingen ten aanzien van de kwaliteit van het dienstenaanbod zoals opgenomen in de Brief, krijgt HSA de gelegenheid binnen het volgende dienstregelingsjaar de prestaties op het niveau van de gestelde normen te brengen. Indien dit niet gerealiseerd is en HSA niet kan aantonen dat dit niet aan haar is toe te rekenen, kan de Staatssecretaris aan HSA vanaf dat moment op grond van artikel 93, tweede lid, van de Wet personenvervoer 2000 een last onder dwangsom opleggen met inachtneming van proportionaliteit in verhouding tot de ernst van de overtreding en de omvang van de Vervangende treindienst. 
 
 ### Artikel  8  
 

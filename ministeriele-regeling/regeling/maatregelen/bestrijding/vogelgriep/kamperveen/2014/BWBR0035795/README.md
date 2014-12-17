@@ -24,13 +24,11 @@ e.  *goedgekeurd hygiëneprotocol:* set praktische hygiëneregels ter bevorderin
 
 f.  *mest:* uitwerpselen en urine van dieren, met uitzondering van gekweekte vissen, met of zonder strooisel;  
 
-g.  *regio:* door de minister in de Regeling maatregelen regio's bestrijding vogelgriep 2014 aangewezen regio;  
+g.  *toezichtsgebied:* door de minister aangewezen gebied rondom het beschermingsgebied, met een straal van ten minste 10 km rondom een besmet bedrijf;  
 
-h.  *toezichtsgebied:* door de minister aangewezen gebied rondom het beschermingsgebied, met een straal van ten minste 10 km rondom een besmet bedrijf;  
+h.  *vogelverblijfplaats:* kooi, volière, terrein, of gebouw met uitzondering van de menselijke woonruimte, waar gevogelte aanwezig is of pleegt te worden gehouden, en aanverwante ruimtes waar materiaal ten behoeve van het gevogelte is opgeslagen of pleegt te worden opgeslagen;  
 
-i.  *vogelverblijfplaats:* kooi, volière, terrein, of gebouw met uitzondering van de menselijke woonruimte, waar gevogelte aanwezig is of pleegt te worden gehouden, en aanverwante ruimtes waar materiaal ten behoeve van het gevogelte is opgeslagen of pleegt te worden opgeslagen;  
-
-j.  *vervoermiddel:* voertuig en materieel, waaronder mede begrepen een combinatie van een voertuig met één of meer door dat voertuig voortbewogen aanhangwagens, opleggers of containers.   
+i.  *vervoermiddel:* voertuig en materieel, waaronder mede begrepen een combinatie van een voertuig met één of meer door dat voertuig voortbewogen aanhangwagens, opleggers of containers.   
 
 ### Artikel  2  
 
@@ -43,7 +41,7 @@ a. beschermingsgebied: gebied als bedoeld in bijlage 1;
 b. toezichtsgebied: gebied als bedoeld in bijlage 2.     
 2.  In het in het eerste lid bedoelde beschermingsgebied en het toezichtsgebied zijn de artikelen 3 tot en met 17 van toepassing.   
 3.  Voor zover vervoer overeenkomstig de artikelen 3 tot en met 11 plaatsvindt binnen een beschermingsgebied of een toezichtsgebied en dit vervoer mede plaatsvindt buiten deze gebieden wordt ook tijdens het vervoer buiten deze gebieden voldaan aan het bepaalde in de artikelen 3 tot en met 11.   
-4.  Voor zover deze regeling verdergaande voorschriften bevat dan die van de Regeling maatregelen regio's bestrijding vogelgriep 2014 gaan de voorschriften van deze regeling boven die voorschriften.  
+4.  Voor zover deze regeling verdergaande voorschriften bevat dan die van de Regeling landelijke maatregelen vogelgriep 2014 gaan de voorschriften van deze regeling boven die voorschriften.  
 
 ### Artikel  3  
 
@@ -188,7 +186,7 @@ b. de voorafgaande 72 uren geen ander bedrijf heeft bezocht.
 
 ####Bezoekersregeling en registratieplicht
 
-1.  Het is een houder van gevogelte verboden om bezoekers toe te laten tot zijn vogelverblijfplaatsen alsmede tot een niet deugdelijk fysiek van die verblijfplaatsen afgescheiden woonruimte of andere bedrijfsgedeelten, met uitzondering van de bezoekers, bedoeld in artikel 5, tweede en derde lid, in de daar bedoelde situaties.   
+1.  Het is een houder van gevogelte verboden om bezoekers toe te laten tot zijn vogelverblijfplaatsen alsmede tot een niet deugdelijk fysiek van die verblijfplaatsen afgescheiden woonruimte of andere bedrijfsgedeelten, met uitzondering van de bezoekers, bedoeld in artikel 13, tweede en derde lid, in de daar bedoelde situaties.   
 2.  Een bedrijf met commercieel gehouden gevogelte houdt een register bij van alle bezoeken aan vogelverblijfplaatsen, niet deugdelijk fysiek van de vogelverblijfplaatsen afgescheiden woonruimte of andere bedrijfsgedeelten, waarin ten minste zijn opgenomen: 
 
 a. naam, adres en woonplaats van de bezoeker,  
@@ -228,7 +226,7 @@ c. ter voorkoming van schade door konijnen op industrieterreinen.
 2.  Iedere houder van gevogelte neemt passende maatregelen om zo veel mogelijk te voorkomen dat het door hem gehouden gevogelte in contact komt met gevogelte van andere houders of met in het wild levende dieren, zoals in het wild levende vogels of hun uitwerpselen.   
 3.  Voor een bedrijf met commercieel gehouden pluimvee is een passende maatregel als bedoeld in het tweede lid ten minste het binnen een gebouw brengen en daar houden van het pluimvee.   
 4.  Voor een houder van niet-commercieel gehouden gevogelte behorende tot de hoenderachtigen (Galliformes), roofvogels (Accipitriformes/Falconiformes) en duiven (Columbidae) is een passende maatregel als bedoeld in het tweede lid ten minste het binnen een volière of gebouw brengen en daar houden van het gevogelte.   
-5.  Het derde lid is niet van toepassing op gevogelte, behorende tot de eendvogels (Anseriformes) de familie van struisvogels (Struthionidae), van emoes (Dromaiidae) en van nandoes (Rheidae).  
+5.  Het derde lid is niet van toepassing op gevogelte, behorende tot de eendvogels (Anseriformes), fazanten (Phasianidae), en de familie van struisvogels (Struthionidae), van emoes (Dromaiidae), en van nandoes (Rheidae).  
 
 ### Artikel  19  
 

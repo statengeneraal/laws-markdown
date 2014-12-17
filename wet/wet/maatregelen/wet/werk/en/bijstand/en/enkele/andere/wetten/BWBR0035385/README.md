@@ -143,7 +143,7 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 Treedt in werking per 01-01-2015 
 
-1.  Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de artikelen I, onderdeel I, II, onderdelen C en I, III, onderdelen A en D, en IX, onderdelen A en H, van deze wet eenmalig aanpassen na de datum van inwerkingtreding van die artikelen.   
+1.  Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de artikelen I, onderdeel I, II, onderdelen C en I, III, onderdelen A en D, IX, onderdelen A en H, en XVIII van deze wet eenmalig aanpassen na de datum van inwerkingtreding van die artikelen.   
 2.  Dit artikel vervalt zes maanden na de inwerkingtreding van de artikelen, genoemd in het eerste lid.  
 
 ### Artikel  XVIII  
@@ -152,12 +152,26 @@ Treedt in werking per 01-01-2015
 
 Treedt in werking per 01-01-2015 
 
-1.  Op de persoon die op de dag voorafgaand aan de datum van inwerkingtreding van artikel I, onderdelen H, I, J, K, M, N, O, P, S, V, onder 1, en BB van deze wet, recht heeft op algemene bijstand en met een of meer meerderjarige personen in dezelfde woning zijn hoofdverblijf heeft: 
+1.  Op de alleenstaande, alleenstaande ouder of gehuwde die op 31 december 2014 recht heeft op algemene bijstand en met een of meer meerderjarige personen, waarbij de echtgenoot van de gehuwde niet meetelt tenzij deze echtgenoot geen recht op algemene bijstand heeft, in dezelfde woning zijn hoofdverblijf heeft: 
 
-a. zijn de artikelen 20, 21, 22, 25, 26, 27, 28, 29, 38 en 53a van de Wet werk en bijstand, zoals deze bepalingen luidden op die dag, van toepassing, en  
+a. zijn de artikelen 20, 21, 22, 25, 26, 27, 28, 29, 38 en 53a van de Wet werk en bijstand, zoals deze bepalingen luidden op 31 december 2014, van toepassing, en  
 
-b. is artikel 22a van de Wet werk en bijstand niet van toepassing   gedurende een periode van zes maanden na die datum van inwerkingtreding.   
-2.  Dit artikel vervalt zes maanden na de dag van inwerkingtreding van dit artikel.  
+b. is artikel 22a van de Participatiewet niet van toepassing,   tot 1 juli 2015.   
+2.  Indien het netto minimumloon wijzigt met ingang van 1 januari 2015, worden bij de toepassing van het eerste lid, de normen, genoemd in de in het eerste lid, onderdeel a, genoemde artikelen 20 en 21, en het bedrag, genoemd in het in het eerste lid, onderdeel a, genoemde artikel 25, tweede lid, toegepast, zoals ze zouden luiden na herziening met het percentage van deze wijziging.   
+3.  Bij de toepassing van het eerste lid worden de normen, genoemd in het in het eerste lid, onderdeel a, genoemde artikel 22, toegepast zoals ze zouden luiden met toepassing van artikel 37a van de Participatiewet waarbij wordt uitgegaan van het netto minimumloon zoals dat luidt op 1 januari 2015.   
+4.  Bij de toepassing van het eerste lid wordt, indien het gaat om een persoon als bedoeld in het eerste lid die aanspraak heeft op de verhoging van het kindgebonden budget, bedoeld in artikel 2, zesde lid, van de Wet op het kindgebonden budget: 
+
+a. in artikel 20, tweede lid, onderdeel a, van de Wet werk en bijstand, zoals deze bepaling luidde op 31 december 2014 voor «506,78» gelezen: 234,88,  
+
+b. in artikel 21, onderdeel b, van de Wet werk en bijstand, zoals deze bepaling luidde op 31 december 2014 voor «951,64» gelezen: 679,75,  
+
+c. in artikel 22, onderdeel b, van de Wet werk en bijstand, zoals deze bepaling luidde op 31 december 2014 voor «1.313,82» gelezen: 1.044,01,   tot 1 juli 2015.   
+5.  Op de persoon: 
+
+a. die op 31 december 2014 recht had op algemene bijstand, en  
+
+b. op wie het eerste lid niet van toepassing is,   wordt tot 1 juli 2015 in artikel 53a, derde lid, onderdeel a, van de Participatiewet voor «30%» gelezen: 50%.   
+6.  Dit artikel vervalt met ingang van 1 juli 2015.  
 
 ### Artikel  XIX  
 

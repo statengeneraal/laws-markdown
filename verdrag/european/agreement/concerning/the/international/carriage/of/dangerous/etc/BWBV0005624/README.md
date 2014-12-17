@@ -10,7 +10,7 @@ The Contracting Parties, Desiring to increase the safety of international transp
 
 For the purpose of this Agreement, 
 
-a) The term “vehicle” shall mean motor vehicles, articulated vehicles, trailers and semi-trailers, as defined in [article 4 of the Convention on Road Traffic](../../../../../../../../../../../verdrag/convention/on/road/traffic/BWBV0005415/README.md) of 19 September 1949, other than vehicles belonging to or under the orders of the armed forces of a Contracting Party;  
+a) The term “vehicle” shall mean motor vehicles, articulated vehicles, trailers and semi-trailers, as defined in article 4 of the Convention on Road Traffic of 19 September 1949, other than vehicles belonging to or under the orders of the armed forces of a Contracting Party;  
 
 b) The term “dangerous goods” shall mean those substances and articles the international carriage by road of which is prohibited by, or authorized only on certain conditions by, Annexes A and B;  
 
@@ -153,7 +153,7 @@ De Overeenkomstsluitende Partijen, Verlangend de veiligheid van het internationa
 
 In deze Overeenkomst verstaat men 
 
-a) onder „voertuigen”: motorrijtuigen, gelede voertuigen, aanhangwagens en opleggers, zoals deze zijn omschreven in [artikel 4 van het Verdrag nopens het wegverkeer](../../../../../../../../../../../verdrag/convention/on/road/traffic/BWBV0005415/README.md) van 19 september 1949, met uitzondering van de voertuigen welke toebehoren aan de krijgsmacht van een Overeenkomstsluitende Partij of welke zich bevinden onder de verantwoordelijkheid van die krijgsmacht;  
+a) onder „voertuigen”: motorrijtuigen, gelede voertuigen, aanhangwagens en opleggers, zoals deze zijn omschreven in artikel 4 van het Verdrag nopens het wegverkeer van 19 september 1949, met uitzondering van de voertuigen welke toebehoren aan de krijgsmacht van een Overeenkomstsluitende Partij of welke zich bevinden onder de verantwoordelijkheid van die krijgsmacht;  
 
 b) onder „gevaarlijke goederen”: de stoffen en voorwerpen waarvan de Bijlagen A en B het internationale vervoer over de weg verbieden of slechts onder bepaalde voorwaarden toelaten;  
 

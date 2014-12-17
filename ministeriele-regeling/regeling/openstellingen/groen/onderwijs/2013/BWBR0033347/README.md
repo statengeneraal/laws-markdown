@@ -3,17 +3,17 @@
 ##Regeling van de minister van Economische Zaken van 26 april 2013, nr. WJZ / 13072867, houdende openstelling van de Regeling praktijkleren en Groene plus (Regeling openstellingen groen onderwijs 2013)
 
 De Staatssecretaris van Economische Zaken;  
-Gelet op de [artikelen 2](../../../../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) en [4 van de Kaderwet LNV-subsidies](../../../../../../../wet/kaderwet/lnv-subsidies/BWBR0009194/README.md) en op de [artikelen 17, eerste lid](../../../../../../../ministeriele-regeling/regeling/praktijkleren/en/groene/plus/BWBR0029252/README.md), en [28, eerste lid, van de Regeling praktijkleren en Groene plus](../../../../../../../ministeriele-regeling/regeling/praktijkleren/en/groene/plus/BWBR0029252/README.md);
+Gelet op de artikelen 2 en 4 van de Kaderwet LNV-subsidies en op de artikelen 17, eerste lid, en 28, eerste lid, van de Regeling praktijkleren en Groene plus;
 Besluit:    
 
 ### Artikel  1  
 
-1.  In deze regeling wordt verstaan onder regeling: [Regeling praktijkleren en Groene plus](../../../../../../../ministeriele-regeling/regeling/praktijkleren/en/groene/plus/BWBR0029252/README.md).   
-2.  De begripsomschrijvingen van [artikel 1 van de regeling Praktijkleren en groene plus](../../../../../../../ministeriele-regeling/regeling/praktijkleren/en/groene/plus/BWBR0029252/README.md) zijn in deze regeling van overeenkomstige toepassing  
+1.  In deze regeling wordt verstaan onder regeling: Regeling praktijkleren en Groene plus.   
+2.  De begripsomschrijvingen van artikel 1 van de regeling Praktijkleren en groene plus zijn in deze regeling van overeenkomstige toepassing  
 
 ### Artikel  2  
 
-De kosten voor het inzetten van personeel, bedoeld in [artikel 28, derde lid, onderdeel a, van de regeling](../../../../../../../ministeriele-regeling/regeling/praktijkleren/en/groene/plus/BWBR0029252/README.md) voor het jaar 2014 worden bepaald op basis van de uurtarieven behorend bij de schalen in het [Bezoldigingsbesluit burgerlijke Rijksambtenaren 1984](../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), als volgt: 
+De kosten voor het inzetten van personeel, bedoeld in artikel 28, derde lid, onderdeel a, van de regeling voor het jaar 2014 worden bepaald op basis van de uurtarieven behorend bij de schalen in het Bezoldigingsbesluit burgerlijke Rijksambtenaren 1984, als volgt: 
 
 a. voor medewerkers waarvan de hoogte van het salaris valt binnen één van de schalen 1 tot en met 9: ten hoogste€ 60,–;  
 
@@ -86,8 +86,15 @@ b. aanvragen gaan vergezeld van een projectplan waaruit ten minste blijkt dat de
 ### Artikel  9  
 
 1.  De minister kan subsidie verstrekken aan Aequor voor activiteiten gericht op versterking van zijn inzet voor de topsectoren Agro en Food en Tuinbouw en Uitgangsmaterialen, zoals nader bepaald door de Human Capital Agenda bij deze topsectoren.   
-2.  Het subsidieplafond bedraagt € 400.000 voor elk van de jaren 2014 en 2015.   
-3.  De aanvraag gaat vergezeld van een activiteitenplan en van een plan voor de borging en voortzetting van de resultaten van de activiteiten binnen de bedrijfsvoering van Aequor, met een begroting hiervoor. Het activiteitenplan en het plan voor borging en voortzetting hebben de instemming van de Paritaire Commissie. Uit het activiteitenplan blijkt dat de aanvraag wordt ondersteund door één of meer van de partijen die zich hebben verenigd in de Human Capital Agenda van de topsectoren Agro en Food en Tuinbouw en Uitgangsmaterialen en de Human Capital Agenda Natuur en Leefomgeving.  
+2.  Het subsidieplafond bedraagt € 400.000 voor het jaar 2014.   
+3.  De aanvraag gaat vergezeld van een activiteitenplan en van een plan voor de borging en voortzetting van de resultaten van de activiteiten binnen de bedrijfsvoering van Aequor, met een begroting hiervoor. Het activiteitenplan en het plan voor borging en voortzetting hebben de instemming van de Paritaire Commissie. Uit het activiteitenplan blijkt dat de aanvraag wordt ondersteund door één of meer van de partijen die zich hebben verenigd in de Human Capital Agenda van de topsectoren Agro en Food en Tuinbouw en Uitgangsmaterialen en de Human Capital Agenda Natuur en Leefomgeving.   
+4.  De subsidie die in 2014 hiervoor is verleend kan tot eind 2015 worden besteed aan de ontwikkeling van het Agro Opleidingshuis overeenkomstig het activiteitenplan en het plan voor de borging en voortzetting van de resultaten van de activiteiten binnen de bedrijfsvoering van Aequor, met de begroting hiervoor, die in 2014 zijn ingediend bij de subsidieaanvraag. 
+
+### Artikel  9a  
+
+1.  De minister kan subsidie verstrekken aan AGF-CGO voor verbetering van de aansluiting tussen de vraag naar en aanbod van post initiële niet bekostigde opleidingen door de verdere ontwikkeling van het Agro Opleidingshuis.   
+2.  Het subsidieplafond bedraagt € 400.000 voor het jaar 2015.   
+3.  De aanvraag gaat vergezeld van een activiteitenplan en van een plan voor de borging en voortzetting van de resultaten van de activiteiten binnen de bedrijfsvoering van AGF-CGO, met een begroting hiervoor. Uit het activiteitenplan blijkt dat de aanvraag wordt ondersteund door één of meer van de partijen die zich hebben verenigd in de Human Capital Agenda van de topsectoren Agro en Food en Tuinbouw en Uitgangsmaterialen en de Human Capital Agenda Natuur en Leefomgeving.  
 
 ### Artikel  10  
 
@@ -95,7 +102,7 @@ Deze regeling treedt in werking met ingang van 1 mei 2013.
 
 ### Artikel  10a  
 
-Als het bij koninklijke boodschap van 6 juni 2013 ingediende voorstel van wet (Wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) tot wet is verheven dan berust deze regeling mede op [artikel 3 van de Kaderwet EZ-subsidies](../../../../../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md). 
+Als het bij koninklijke boodschap van 6 juni 2013 ingediende voorstel van wet (Wijziging van de Kaderwet EZ-subsidies (aanpassing aan de samenvoeging van de voormalige ministeries van Economische Zaken en van Landbouw, Natuur en Voedselkwaliteit) tot wet is verheven dan berust deze regeling mede op artikel 3 van de Kaderwet EZ-subsidies. 
 
 ### Artikel  10b  
 

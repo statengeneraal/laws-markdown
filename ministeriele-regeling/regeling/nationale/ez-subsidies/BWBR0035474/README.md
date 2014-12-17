@@ -785,6 +785,115 @@ De subsidie, bedoeld in artikel 2.5.1 bevat staatssteun en wordt gerechtvaardigd
 
 Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend. 
 
+### Titel  2.6  
+
+####Garantstelling landbouwondernemingen werkkapitaal
+
+### Artikel  2.6.1  
+
+####Begripsbepalingen
+
+1.  In deze titel wordt verstaan onder: 
+
+*lening:* niet achtergestelde lening van geld door een financier aan een landbouwondernemer, welke lening: 
+
+a. al dan niet door enige vorm van zekerheid is gedekt;  
+
+b. niet converteerbaar is;  
+
+c. is afgesloten met de afspraak dat de rente vast is, met het oog op de financiering door deze landbouwonderneming van eigen activiteiten, en  
+
+d. deze strekt tot financiering van werkkapitaal in verband met de teelt van producten als bedoeld in artikel 1, tweede lid, van Verordening (EU) nr. 1031/2014 van de Commissie van 29 september 2014 tot vaststelling van verdere tijdelijke buitengewone maatregelen ter ondersteuning van producenten van bepaalde groenten en fruit (PbEU 2014, L 284);    
+
+*liquiditeitsopslag: *
+
+a. door een financier aan een landbouwondernemer in rekening gebracht percentage van de lening, waarvan de hoogte gelijk is voor alle door de desbetreffende financier op dezelfde dag afgesloten of af te sluiten leningen met dezelfde looptijd, of  
+
+b. indien een dergelijk percentage niet beschikbaar is, een in overleg met de financier vastgesteld ander redelijk, transparant en verifieerbaar percentage;    
+
+*werkkapitaal:* kapitaal ter dekking van uitgaven die moeten worden gedaan om de lopende bedrijfsvoering van de landbouwonderneming doorgang te doen vinden;  
+
+*fundingkosten:* kosten die de bank maakt, inclusief de liquiditeitsopslag, om geld aan te trekken op de kapitaalmarkt.     
+2.  Voor de toepassing van deze titel wordt als financier aangewezen een bank.  
+
+### Artikel  2.6.2  
+
+####Subsidieaanvraag
+
+De minister verstrekt op aanvraag subsidie in de vorm van een garantstelling aan een financier voor de terugbetaling van een lening die de financier op grond van een overeenkomst aan een landbouwondernemer heeft verstrekt voor de duur van de overeenkomst met een maximum van vijf jaar. 
+
+### Artikel  2.6.3  
+
+####Omvang en voorwaarden garantstelling
+
+1.  Er wordt garant gestaan voor 50 procent van het nog niet afgeloste deel van de lening.   
+2.  Indien de financier bij het verstrekken van een lening een gedeelte daarvan niet onder de garantstelling van de Staat brengt, zijn de bepalingen van deze titel slechts van toepassing op het gedeelte van de verstrekte lening dat onder de garantstelling is gebracht.  
+
+### Artikel  2.6.4  
+
+####Maximum garantstelling
+
+De garantstelling heeft uitsluitend betrekking op een lening die niet minder dan € 50.000 en niet meer dan € 1.000.000 bedraagt. 
+
+### Artikel  2.6.5  
+
+####Garantstellingsovereenkomst
+
+Voor een garantstellingsovereenkomst wordt het model opgenomen in bijlage 2.6.1 gehanteerd. 
+
+### Artikel  2.6.6  
+
+####Verdeling van het subsidieplafond
+
+De minister verdeelt het subsidieplafond voor garantstellingen op volgorde van binnenkomst van de aanvragen. 
+
+### Artikel  2.6.7  
+
+####Afwijzingsgronden
+
+De minister beslist afwijzend op een aanvraag voor een garantstelling indien: 
+
+a. de financier geen garantstellingsovereenkomst met de Staat heeft gesloten;  
+
+b. niet wordt voldaan aan de voorwaarden, bedoeld in artikel 3 van het model garantstellingsovereenkomst zoals opgenomen in bijlage 2.6.1;  
+
+c. de financier eerder tekort is geschoten bij de naleving van verplichtingen op grond van de garantstellingsovereenkomst.   
+
+### Artikel  2.6.8  
+
+####Provisie
+
+1.  Het tarief van de provisie, bedoeld in artikel 32, derde lid, van het besluit, wordt voor de garantie op de verstrekte lening, berekend door alle door de financier over het gegarandeerde deel van de lening ontvangen inkomsten te verminderen met: 
+
+a. een kwart procent per jaar voor beheerskosten;  
+
+b. fundingkosten, en  
+
+c. de afsluitprovisie.     
+2.  Indien de afsluitprovisie meer bedraagt dan 0,5 procent van de lening, wordt het meerdere toegevoegd aan de in het eerste lid, aanhef, genoemde inkomsten.  
+
+### Artikel  2.6.9  
+
+####Informatieverplichtingen
+
+Een aanvraag om een garantstellingsovereenkomst op grond van deze titel, bevat in ieder geval: 
+
+a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
+
+b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres.   
+
+### Artikel  2.6.10  
+
+####Staatssteun
+
+De subsidie, bedoeld in artikel 2.6.2, bevat geen staatssteun. 
+
+### Artikel  2.6.11  
+
+####Vervaltermijn
+
+Deze titel en bijlage 2.6.1 vervallen met ingang van 1 januari 2016, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
+
 ### Hoofdstuk  3  
 
 ####Innovatie en ondernemerschap
@@ -6299,6 +6408,315 @@ Het verzoek om subsidievaststelling is opgesteld voor ... (naam subsidiegever) m
 ![254105](http://wetten.overheid.nl/Illustration/254105)
 ![254106](http://wetten.overheid.nl/Illustration/254106)
 ![254107](http://wetten.overheid.nl/Illustration/254107)
+
+### Bijlage  2.6.1 
+
+####, behorende bij de artikelen 2.6.5  en 2.6.7, onderdeel b , van de Regeling nationale EZ-subsidies
+
+*Model garantstellingsovereenkomst*  Overeenkomst tussen: 
+
+1. De Staat der Nederlanden, hierna te noemen: de Staat, vertegenwoordigd door de Staatssecretaris van Economische Zaken;   
+
+2. ...., hierna te noemen de financier; Partijen zijn het volgende overeengekomen:   
+
+### Artikel  1  
+
+####Definitiebepalingen
+
+In deze overeenkomst wordt verstaan onder: 
+
+a.  *minister:* de Minister van Economische Zaken, waaronder, indien van toepassing, mede wordt verstaan Staatssecretaris van Economische Zaken;  
+
+b.  *bank:* binnen het grondgebied van de Europese Unie gevestigde bank die is toegelaten het bedrijf van bank uit te oefenen;  
+
+c.  *lening:* een niet achtergestelde lening van geld door een financier aan een ondernemer, welke lening: 
+
+1°. al dan niet door enige vorm van zekerheid is gedekt;  
+
+2°. niet converteerbaar is;  
+
+3°. is afgesloten met de afspraak dat de rente vast is, met het oog op de financiering door deze landbouwonderneming van eigen activiteiten, en  
+
+4°. strekt tot financiering van werkkapitaal in verband met de teelt van producten als bedoeld in artikel 1, tweede lid, van Verordening (EU) nr. 1031/2014 van de Commissie van 29 september 2014 tot vaststelling van verdere tijdelijke buitengewone maatregelen ter ondersteuning van producenten van bepaalde groenten en fruit (PbEU 2014, L 284);    
+
+d.  *liquiditeitsopslag:*
+
+1°. door een financier aan een ondernemer in rekening gebracht percentage van de lening, waarvan de hoogte gelijk is voor alle door de desbetreffende financier op dezelfde dag afgesloten of af te sluiten leningen met dezelfde looptijd, of  
+
+2°. indien een dergelijk percentage niet beschikbaar is, een in overleg met de financier vastgesteld ander redelijk, transparant en verifieerbaar percentage.    
+
+e.  *waarde van een lening:* het nog niet afgeloste deel van de lening;  
+
+f.  *ondernemer:* een natuurlijke persoon, een rechtspersoon of een vennootschap, die een onderneming in stand houdt, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld;  
+
+g.  *groep:* een economische eenheid, waarin organisatorisch zijn verbonden:  
+
+a. een natuurlijke persoon of privaatrechtelijke rechtspersoon, die direct of indirect: 
+
+1°. meer dan de helft van het geplaatste kapitaal verschaft aan,  
+
+2°. volledig aansprakelijk vennoot is van, of  
+
+3°. overwegende zeggenschap heeft over een of meer rechtspersonen of vennootschappen, en    
+
+b. laatstbedoelde rechtspersonen of vennootschappen;   
+
+h.  *financier:* een bank;  
+
+i.  *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent;  
+
+j.  *werkkapitaal:* kapitaal ter dekking van uitgaven die moeten worden gedaan om de lopende bedrijfsvoering van de landbouwonderneming doorgang te doen vinden;  
+
+k.  *fundingkosten:* kosten die de bank maakt, inclusief de liquiditeitsopslag, om geld aan te trekken op de kapitaalmarkt.   
+
+### Artikel  2  
+
+####Garantstelling
+
+1.  De Staat stelt zich tegenover de financier garant voor 50% van de waarde van door de financier verstrekte leningen, voor welke garantstelling de financier een provisie is verschuldigd.   
+2.  De garantie wordt verleend voor de duur van deze leningen met een maximum van vijf jaar.   
+3.  De garantstelling heeft alleen betrekking op leningen: 
+
+a. die worden verstrekt overeenkomstig de in artikel 3 genoemde voorwaarden;  
+
+b. die onder de garantstelling zijn gebracht overeenkomstig de procedure van artikel 4.     
+4.  Indien de financier bij de verstrekking van een lening een gedeelte daarvan niet onder de garantstelling van de Staat brengt, is deze overeenkomst slechts van toepassing op het gedeelte van de lening dat onder de garantstelling is gebracht, tenzij uitdrukkelijk anders is bepaald.  
+
+### Artikel  3  
+
+####Randvoorwaarden lening
+
+Een lening aan een ondernemer kan onder de garantstelling van de Staat worden gebracht indien wordt voldaan aan de volgende voorwaarden: 
+
+a. de rentabiliteits- en continuïteitsperspectieven van de onderneming van de ondernemer zijn bevredigend;  
+
+b. in de voorafgaande periode van twaalf maanden zijn niet meer middelen ten behoeve van derden aan de onderneming onttrokken dan noodzakelijk voor een redelijk te achten bedrijfsvoering en evenmin is een verplichting tot een zodanige onttrekking aangegaan;  
+
+c. de verstrekking van de lening dient niet ter vervanging van aan een ondernemer verschaft krediet of risicokapitaal door dezelfde financier of door een financier die deel uitmaakt van de groep van dezelfde financier tenzij aan de volgende voorwaarden is voldaan: 
+
+1°. de garantieverlening is primair in het belang van de te financieren ondernemer;  
+
+2°. de garantieverlening leidt ertoe dat het belang van de financier bij continuering van de onderneming substantieel wordt vergroot;    
+
+d. de waarde van de lening die aan de ondernemer wordt verstrekt niet minder dan € 50.000 en niet meer dan € 1.000.000 bedraagt;  
+
+e. bij of in verband met het verstrekken van de lening verstrekt de financier geen andere goederen dan geld;  
+
+f. de lening draagt zelfstandig bij aan het realiseren van een actief en winstgericht beleid van de financier;  
+
+g. de ondernemer verplicht zich aan een door de minister als toezichthouder in de zin van de Algemene wet bestuursrecht aangewezen persoon of aan een door de minister aangewezen deskundige derde, voor zover deze dit redelijkerwijs noodzakelijk acht voor de vervulling van zijn taak: 
+
+1°. inlichtingen te verstrekken en inzage in zakelijke gegevens en bescheiden te verstrekken en de gelegenheid te bieden daarvan kopieën te maken;  
+
+2°. toegang te verlenen tot plaatsen niet zijnde woningen;  
+
+3°. anderszins binnen de door hem gestelde termijn alle door hem gewenste medewerking te verlenen;    
+
+h. de lening dient niet ter vervanging van een bestaande lening die is opgezegd om de reden dat een ondernemer niet meer aan de financiële ratio’s uit de leningsovereenkomst kan voldoen, behoudens indien de bestaande lening wordt overgenomen door een andere financier die geen deel uitmaakt van de groep van de bestaande financier;  
+
+i. de lening dient niet ter vervanging door dezelfde financier of door een financier die deel uitmaakt van de groep van dezelfde financier van aan een ondernemer verschaft krediet waarvan de aflossing is vervroegd;  
+
+j. de lening dient niet ter overname van een aandelenkapitaal of ter vervanging van een converteerbare achtergestelde lening, behalve indien dit een concrete verbetering in het ondernemingsbeleid ten doel heeft;  
+
+k. de lening dient niet ter vervanging van een bestaande lening, indien dit uitsluitend ten doel heeft betere leningsvoorwaarden te verkrijgen;  
+
+l. de lening heeft niet als doel de afwenteling van bestaande risico’s op de Staat.   
+
+### Artikel  4  
+
+####Aanmelding
+
+1.  De financier meldt de lening of het deel van de lening waarop deze garantstellingsovereenkomst van toepassing is binnen 35 dagen na het sluiten van de leningsovereenkomst aan de Staat onder de gelijktijdige verstrekking van de door de minister vastgestelde informatie.   
+2.  De minister bevestigt de ontvangst van een melding binnen 35 dagen na ontvangst.  
+
+### Artikel  5  
+
+####Verplichtingen beheer
+
+1.  De financier draagt er voor zorg dat een actief en winstgericht beleid wordt gevoerd voor het verstrekken, beheren en vervreemden van leningen, waarbij rekening wordt gehouden met het belang van de Staat als garantsteller.   
+2.  De financier draagt er voor zorg dat degenen die met het verstrekken, beheren of vervreemden van leningen zijn belast beschikken over de nodige deskundigheid.   
+3.  De financier staat er voor in dat degenen die zijn belast met het verstrekken, beheren of vervreemden van leningen en met de bepaling van en het toezicht op het beleid ter zake betrouwbaar zijn.   
+4.  De financier draagt zorg voor een integere bedrijfsvoering en neemt in dat verband de noodzakelijke maatregelen om onder meer strafbare handelingen, verstrengeling van tegenstrijdige belangen en afhankelijkheid van de financier van bepaalde vennoten, aandeelhouders of andere betrokkenen te voorkomen.   
+5.  De financier staat er voor in dat aandeelhouders, hoofdelijk aansprakelijke vennoten, bestuurders en beheerders van de financier en andere zijdens de financier betrokkenen alleen medewerking verlenen aan verstrekkingen van risicokapitaal en krediet door een ander dan de financier aan een onderneming waaraan de financier een gegarandeerde lening heeft verstrekt, indien een redelijk handelend en redelijk bekwaam beheerder deze verstrekkingen zou hebben gedaan in het kader van een actief en winstgericht beleid.   
+6.  De financier komt met een ondernemer aan wie een gegarandeerde lening is verstrekt slechts een wijziging van het aflossingsschema overeen na voorafgaande toestemming van de Staat.   
+7.  De Staat verleent de in het zesde lid bedoelde toestemming indien aannemelijk is dat: 
+
+a. de ondernemer niet in staat is te voldoen aan het bestaande aflossingsschema;  
+
+b. adequate maatregelen worden genomen ter verbetering van de liquiditeit van de onderneming en rekening houdend met het belang van rentabiliteit en continuïteit van de onderneming;  
+
+c. rekening is en wordt gehouden met het belang van de Staat als garantsteller, onder meer door een evenwichtige aanwending van de beschikbare middelen van de ondernemer voor de aflossing van bestaande leningen, met inachtneming van de zekerheden die voor de gegarandeerde lening gelden.     
+8.  De Staat kan op verzoek van de financier besluiten om de afdracht van de provisie, bedoeld in artikel 6.1, op te schorten in geval dat: 
+
+a. er voor de financier geen mogelijkheden meer zijn om de renteverplichtingen te incasseren bij de ondernemer, en  
+
+b. aannemelijk is dat rekening is en wordt gehouden met het belang van de Staat als garantsteller, onder meer door een evenwichtige aanwending van de beschikbare middelen van de ondernemer voor de verplichtingen van bestaande leningen, met inachtneming van de zekerheden die voor de gegarandeerde lening gelden.     
+9.  De financier vervreemdt de lening slechts na voorafgaande toestemming van de Staat.   
+10.  De financier verleent slechts gehele of gedeeltelijke kwijtschelding van verplichtingen voortvloeiende uit de leningsovereenkomst, uit hoofde waarvan de gegarandeerde lening is verstrekt, na voorafgaande toestemming van de Staat.   
+11.  De financier brengt slechts wijzigingen aan in de leningsovereenkomst van de lening na voorafgaande toestemming van de Staat. De Staat kan toestemming geven indien de wijziging noodzakelijk is voor de continuïteit van de onderneming waarvoor de lening is verstrekt en indien rekening is en wordt gehouden met het belang van de Staat als garantsteller, onder meer door een evenwichtige aanwending van de beschikbare middelen van de ondernemer voor de aflossing van bestaande leningen, met inachtneming van de zekerheden die voor de gegarandeerde lening gelden.  
+
+### Artikel  6  
+
+####Financiële verplichtingen
+
+1.  De financier is een door de minister vastgestelde provisie verschuldigd voor de garantie op leningen die overeenkomstig de procedure van artikel 4 onder de garantstelling zijn gebracht. Het tarief van de provisie voor de garantie op de verstrekte lening wordt berekend door alle door de financier over het gegarandeerde deel van de lening ontvangen inkomsten te verminderen met: 
+
+a. een kwart procent per jaar voor beheerskosten;  
+
+b. fundingkosten, en  
+
+c. de afsluitprovisie.     
+2.  Indien de afsluitprovisie meer bedraagt dan 0,5 procent van de lening, wordt het meerdere toegevoegd aan de in het eerste lid, aanhef, genoemde inkomsten.   
+3.  Per kwartaal wordt een vierde deel van de periodieke provisie, bedoeld in het eerste lid, bij de financier in rekening gebracht, uitgaand van de waarde van de leningen op de eerste dag van het kwartaal.   
+4.  De verschuldigde provisie, bedoeld in het eerste lid, uit hoofde van eenmalige inkomsten, wordt met de financier vereffend op het moment dat deze inkomsten door de financier bij de ondernemer in rekening worden gebracht.   
+5.  Indien een lening waarvoor een garantie is verstrekt, gedeeltelijk vervroegd wordt afgelost, wordt de provisie overeenkomstig het door de financier in de kredietofferte aan het bedrijf genoemde aflossingsschema betaald.   
+6.  Indien een lening waarvoor een garantie is verstrekt, geheel vervroegd wordt afgelost, wordt de te betalen provisie volledig betaald bij de beëindiging van de garantstelling.   
+7.  De in het eerste lid bedoelde provisie is verschuldigd voor de duur van de garantie of zoveel korter als zich één van de in artikel 8, eerste lid, genoemde omstandigheden voordoet.   
+8.  Indien de lening wordt afgestoten om verlies op die lening in de zin van artikel 8, eerste lid, te beperken, kan de minister op verzoek van de financier de over de resterende termijn verschuldigde provisie geheel of gedeeltelijk kwijtschelden indien sprake is van klemmende redenen, gelegen in het belang van de onderneming van de ondernemer.  
+
+### Artikel  7  
+
+####Administratieve en informatieverstrekkingsverplichtingen
+
+1.  De financier draagt er voor zorg dat een administratie wordt gevoerd die zodanig is ingericht, dat daaruit te allen tijde op eenvoudige en duidelijke wijze gegevens kunnen worden afgelezen over de verstrekkingen, het beheer en de vervreemdingen van gegarandeerde leningen en van ander kapitaal dat zij aan dezelfde ondernemer heeft verstrekt.   
+2.  De financier informeert de Staat binnen acht weken nadat de desbetreffende gebeurtenis heeft plaatsgevonden schriftelijk over wezenlijke wijzigingen in het financieringsbeleid of de organisatie van de financier en over wijzigingen ten aanzien van gegarandeerde leningen, waaronder: 
+
+a. een aflossing van een lening, tenzij deze aflossing overeenkomt met een aflossingsschema waarover de Staat eerder is geïnformeerd;  
+
+b. een wijziging van de looptijd van een lening;  
+
+c. de materiële verslechtering van de kredietwaardigheid van de ondernemer.     
+3.  Desgevraagd verstrekt de financier de Staat gegevens en bescheiden over de verstrekkingen, het beheer en de vervreemdingen van gegarandeerde leningen en van ander kapitaal dat zij aan dezelfde ondernemer heeft verstrekt, en de jaarrekeningen van de ondernemingen waaraan kapitaal is verstrekt, vergezeld van desbetreffende accountantsverklaringen als bedoeld in artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek of een mededeling waarom deze ontbreekt, en van de bijbehorende toelichtingen voor het bestuur van de onderneming.   
+4.  De financier doet onverwijld mededeling aan de Staat van de indiening bij de rechtbank van een verzoek tot verlening van surseance van betaling aan hem, een verzoek tot faillietverklaring van hem of een verzoek om ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing te verklaren.  
+
+### Artikel  8  
+
+####Reikwijdte garantie
+
+1.  De financier kan een beroep doen op de garantie indien zij op een gegarandeerde lening verlies lijdt: 
+
+a. bij gehele of gedeeltelijke vervreemding van de lening;  
+
+b. door gehele of gedeeltelijke kwijtschelding van de lening door de financier;  
+
+c. door het onvermogen van de ondernemer om de lening af te lossen;  
+
+d. als gevolg van een faillietverklaring, een surseance van betaling of een van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen met betrekking tot de ondernemer waaraan de lening is verstrekt;  
+
+e. bij een in kracht van gewijsde gegane homologatie van een akkoord na de faillietverklaring, na de verlening van surseance van betaling of na het van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen met betrekking tot de ondernemer waaraan de lening is verstrekt;  
+
+f. indien de ondernemer een rechtspersoon is, bij ontbinding van de rechtspersoon.     
+2.  De minister kan het beroep afwijzen of een korting toepassen op het gevraagde bedrag indien in de voorafgaande periode van twaalf maanden meer middelen aan de onderneming zijn onttrokken ten behoeve van derden dan noodzakelijk voor een redelijk te achten bedrijfsvoering, dan wel een verplichting tot een zodanige onttrekking is aangegaan, mits de financier hieraan op enigerlei wijze medewerking heeft verleend.   
+3.  Bij verlies ingevolge vervreemding van een lening geldt de garantie alleen indien de vervreemding: 
+
+a. na instemming van de Staat plaatsvindt;  
+
+b. gebeurt tegen een prijs die past in het voeren van een actief en winstgericht beleid;  
+
+c. voor zover de financier daarbij de lening geheel of voor een deel overdraagt aan één van zijn aandeelhouders, hoofdelijk aansprakelijke vennoten, bestuurders, beheerders of andere betrokkenen, gebeurt tegen een prijs die is gebaseerd op een taxatie van twee onafhankelijke deskundigen, dan wel gepaard gaat met vervreemding van ten minste een derde deel van de lening aan onafhankelijke derden.     
+4.  Bij verlies ingevolge gehele of gedeeltelijke kwijtschelding van een lening geldt de garantie alleen indien de kwijtschelding noodzakelijk is voor de continuïteit van de onderneming waarvoor de lening is verstrekt en indien rekening is en wordt gehouden met het belang van de Staat als garantsteller, onder meer door een evenwichtige aanwending van de beschikbare middelen van de ondernemer voor de aflossing van bestaande leningen, met inachtneming van de zekerheden die voor de gegarandeerde lening gelden.   
+5.  Als onvermogen van de ondernemer om de lening af te lossen, bedoeld in het eerste lid, onder c, wordt aangemerkt de situatie waarin: 
+
+a. de ondernemer niet in staat is te voldoen aan zijn betalingsverplichtingen;  
+
+b. aannemelijk is dat de ondernemer in de eerstvolgende jaren niet in staat zal zijn te voldoen aan zijn betalingsverplichtingen, en  
+
+c. aannemelijk is dat rekening is en wordt gehouden met het belang van de Staat als garantsteller, onder meer door een evenwichtige aanwending van de beschikbare middelen van de ondernemer voor de aflossing van bestaande leningen, met inachtneming van de zekerheden die voor de gegarandeerde lening gelden.     
+6.  Verlies als gevolg van faillietverklaring, een verlening van surseance van betaling of een van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen, bedoeld in het eerste lid, aanhef en onder d, wordt aanwezig geacht: 
+
+a. voor zover aannemelijk is dat de financier bij het einde van het faillissement, van de surseance onderscheidenlijk van de toepassing van de schuldsaneringsregeling een verlies als bedoeld in het achtste lid zal leiden;  
+
+b. mits aannemelijk is dat rekening is gehouden met het belang van de Staat als garantsteller.     
+7.  De minister kan het beroep afwijzen of een korting toepassen op het gevraagde bedrag indien de financier tekort is geschoten bij de naleving van verplichtingen op grond van deze overeenkomst of indien de financier niet kan aantonen die maatregelen te hebben genomen die een redelijk handelend en redelijk bekwaam beheerder zou hebben genomen in het kader van een actief en winstgericht beleid.   
+8.  Het verlies wordt berekend op basis van de waarde van de lening of, indien het verlies slechts op een deel van de lening is geleden, het hiermee overeenkomende deel van die waarde, in een voorkomend geval verminderd met: 
+
+a. in geval van vervreemding: de prijs waarvoor die vervreemding heeft plaatsgevonden;  
+
+b. in geval van ontbinding: de liquidatie-uitkering, of  
+
+c. in geval van homologatie van een akkoord als bedoeld in het eerste lid, onder e, de in het kader van het akkoord voor de lening verrichte uitkering.     
+9.  Indien de financier meermalen gegarandeerde leningen aan een ondernemer heeft verstrekt en slechts op een deel daarvan verlies lijdt, wordt het verlies geacht te zijn geleden op de lening die de financier het eerst heeft verstrekt.   
+10.  Indien de financier aan een ondernemer leningen heeft verstrekt die slechts ten dele onder de garantstelling zijn gebracht en slechts op een deel daarvan verlies lijdt, wordt het verlies, onverminderd het zesde lid, naar rato toegerekend aan de leningen die onder de garantstelling zijn gebracht.  
+
+### Artikel  9  
+
+####Inroepen van garantie en toetsing
+
+1.  De financier verzoekt de Staat binnen zes maanden nadat zich de in artikel 8, eerste lid, bedoelde situatie heeft voorgedaan om betaling op grond van de garantie met gebruikmaking van een formulier, overeenkomstig een model dat als bijlage bij deze overeenkomst is gevoegd, onder bijvoeging van een kopie van de vervreemdingsovereenkomst, de inschrijving in het register van de ontbinding van de rechtspersoon of van de in artikel 8, eerste lid, onderdeel e, bedoelde akkoorden en van andere bescheiden als genoemd in het model.   
+2.  Indien naar het oordeel van de Staat sprake is van een verlies als bedoeld in artikel 8, maakt de financier aanspraak op betaling van 50% van het geleden verlies, tenzij de financier in gebreke is gebleven bij de naleving van deze overeenkomst. De Staat bericht hierover de financier binnen dertien weken na ontvangst van het betalingsverzoek onder vermelding van het te betalen bedrag.  
+
+### Artikel  10  
+
+####Betalingen
+
+Alle betalingen in verband met deze overeenkomst door de financier geschieden door overmaking van de desbetreffende bedragen naar rekeningnummer PM PMxxxxx bij de ---bank, ten name van RVO.nl, onder vermelding van het PM PM---nummer. 
+
+### Artikel  11  
+
+####Overdracht van garantie
+
+1.  Overdracht van de rechten en verplichtingen uit hoofde van de garantie op de lening is uitsluitend mogelijk na goedkeuring door de minister.   
+2.  Toestemming door de minister voor de overdracht vindt uitsluitend plaats indien de overdracht plaatsvindt met het oogmerk de lening beleenbaar te maken.   
+3.  De minister kan voorwaarden verbinden aan de goedkeuring.   
+4.  Verlies ontstaan als gevolg van overdracht, bedoeld in het eerste lid, kan niet gerekend worden tot verlies als bedoeld in artikel 8.  
+
+### Artikel  12  
+
+####Terugvordering en navordering
+
+1.  Reeds uitgekeerde bedragen zijn terstond en zonder enige ingebrekestelling opeisbaar zodra blijkt dat de financier zodanig onjuiste of onvolledige informatie heeft verschaft dat de Staat op een verzoek om betaling een andere beslissing zou hebben genomen, indien hem de juiste gegevens volledig waren verschaft.   
+2.  Indien vanwege een verlies als bedoeld in artikel 8 een uitkering op grond van de garantie heeft plaatsgevonden, is de financier verplicht 50% van de aflossingen die na de uitkering worden verricht, uit te betalen aan de Staat.  
+
+### Artikel  13  
+
+####Opzegging
+
+1.  De Staat is gerechtigd deze overeenkomst schriftelijk op te zeggen indien: 
+
+a. de financier tekort schiet bij de nakoming van één van zijn verplichtingen uit hoofde van deze overeenkomst;  
+
+b. ten aanzien van de financier een verzoek bij de rechtbank is ingediend tot verlening van surseance van betaling, een verzoek tot faillietverklaring of een verzoek tot van toepassing verklaring van de schuldsaneringsregeling natuurlijke personen of een buitengerechtelijk akkoord aan crediteuren wordt aangeboden;  
+
+c. de financier, in geval deze rechtspersoonlijkheid heeft, is ontbonden;  
+
+d. de bepalingen in titel 2.6 van de Regeling nationale EZ-subsidies niet langer verenigbaar zijn met de regels van de Europese Unie ten aanzien van staatssteun.     
+2.  Een opzegging op grond van het eerste lid, onder a, geschiedt uitsluitend nadat de Staat de financier op de hoogte heeft gesteld van het voornemen tot opzegging en nadat deze in de gelegenheid is gesteld om een tekortschieten dat hersteld kan worden te herstellen binnen een redelijke termijn.   
+3.  Een opzegging heeft geen gevolgen voor de verplichtingen ten aanzien van verstrekkingen van leningen die voor het tijdstip van de opzegging onder de garantstelling zijn gebracht.  
+
+### Artikel  14  
+
+####Hardheidsclausule
+
+Indien naar het oordeel van de minister de kans dat daardoor de toepasselijkheid van deze overeenkomst op een lening, of een deel van een lening, waarop de garantstelling van toepassing is, wordt ingeroepen, in belangrijke mate wordt verkleind of indien naar het oordeel van de minister aannemelijk is dat daardoor het bedrag van het verlies, bedoeld in artikel 8, waarvoor de toepasselijkheid van deze overeenkomst wordt ingeroepen in belangrijke mate wordt verlaagd, kan de minister voor de toepassing van deze overeenkomst met betrekking tot die lening instemmen met een gemotiveerd verzoek van de financier om afwijking van deze overeenkomst. 
+
+### Artikel  15  
+
+####Geschillen
+
+1.  Ieder geschil ten aanzien van deze overeenkomst zal bij uitsluiting worden voorgelegd aan de daartoe bevoegde rechter in het arrondissement Den Haag.   
+2.  Op deze overeenkomst is Nederlands recht van toepassing.  
+
+### Artikel  16  
+
+####Communicatie
+
+Waar in deze overeenkomst sprake is van een vorm van communicatie geschiedt deze langs elektronische weg. De aanlevering door de Bank kan in afwijking en bij wijze van alternatief en ter keuze van de Bank ook geschieden in schriftelijke vorm en door aanlevering van een fysieke gegevensdrager. 
+
+### Artikel  17  
+
+####Adressering schriftelijke stukken
+
+Schriftelijke stukken ter uitvoering van deze overeenkomst bestemd voor de onder 1 gemelde partij worden gericht aan Ministerie van Economische Zaken, RVO.nl, Postbus 93144, 2509 AC, Den Haag. Schriftelijke stukken ter uitvoering van deze overeenkomst bestemd voor de onder 2 gemelde partij worden gericht aan ..... 
+
+### Artikel  18  
+
+####Inwerkingtreding
+
+Deze overeenkomst treedt in werking door de ondertekening daarvan door de partijen, ten deze vertegenwoordigd door: 
+
+1. ...  
+
+2. ...   Deze overeenkomst is getekend op xx december 2014 te Den Haag 
 
 ### Bijlage 3.6.1 
 

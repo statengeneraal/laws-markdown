@@ -385,9 +385,8 @@ f. scholing die de cliënt volgt of kan volgen,
 
 g. ondersteuning ingevolge de Wet werk en bijstand,  
 
-h. de godsdienstige gezindheid, de levensovertuiging en de culturele achtergrond van de cliënt. 
-
-6. Het college kan een maatwerkvoorziening weigeren indien de cliënt aanspraak heeft op verblijf en daarmee samenhangende zorg in een instelling op grond van de Algemene Wet Bijzondere Ziektekosten, dan wel er redenen zijn om aan te nemen dat de cliënt daarop aanspraak kan doen gelden en weigert mee te werken aan het verkrijgen van een besluit dienaangaande.      
+h. de godsdienstige gezindheid, de levensovertuiging en de culturele achtergrond van de cliënt.   
+6. Het college kan een maatwerkvoorziening weigeren indien de cliënt aanspraak heeft op verblijf en daarmee samenhangende zorg in een instelling op grond van de Algemene Wet Bijzondere Ziektekosten, dan wel er redenen zijn om aan te nemen dat de cliënt daarop aanspraak kan doen gelden en weigert mee te werken aan het verkrijgen van een besluit dienaangaande. 
 
 ### Artikel  2.3.6  
 

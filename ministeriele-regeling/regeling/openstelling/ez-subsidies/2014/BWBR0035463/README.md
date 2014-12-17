@@ -21,6 +21,7 @@ Besluit:
 | 3  | Titel 2.3: Energie-efficiëntie en hernieuwbare energie glastuinbouw  | 2.3.2  | --- | --- | --- |
 | 4  | Titel 2.4: Groene-plus lectoraten  | 2.4.2  | --- | 01-08-2014 t/m 15-09-2014  | 2.700.000  |
 | 5  | Titel 2.5: Garantstelling landbouw  | 2.5.2  | --- | --- | --- |
+|5a |Titel 2.6: Garantstelling landbouw werkkapitaal |2.6.2 | --- |Tijdstip waarop de regeling van de Staatssecretaris van Economische Zaken van, nr. WJZ/14183877, tot wijziging van de Regeling nationale EZ-subsidies en de Regeling openstelling EZ-subsidies (Garantstelling landbouwondernemingen werkkapitaal) in werking treedt t/m 31-12-2015 |75.000.000 |
 | 6  | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel a  | --- | 02-12-2013 t/m 03-02-2014  21-04-2014 t/m 15-09-2014  | --- |
 | 7  | Titel 3.2: TKI-toeslag  | 3.2.2, onderdeel b  | --- | 02-12-2013 t/m 15-09-2014  | --- |
 | 8  | Titel 3.5: Innovatieprestatiecontracten  | 3.5.3  | --- | --- | --- |
@@ -42,6 +43,7 @@ Besluit:
 | 23  | Risico’s dekken voor aardwarmte  | 4.3.2  |1. aardwarmteprojecten |t/m 13-3-2015 |30.924.000 |
 |2. diep aardwarmteprojecten |t/m 28-11-2014 |12.750.000 |
 | 24  | Indirecte emissiekosten ETS  | 4.4.2  | --- | 01-01-2014 t/m 28-02-2014  | 77.000.000  |
+| 24a  | Wind op zee projecten  | 4.5.2  | 2. Optimalisatie van de windcentrale  | 02-04-2014 t/m 03-06-2014  | 900.000  |
 | 25  | Wind op zee projecten  | 4.5.2  | 1. Ondersteuningsconstructies  | 04-06-2014 t/m 09-09-2014  | 1.250.000  |
 | 2. Optimalisatie van de windcentrale  | 04-06-2014 t/m 09-09-2014  | 500.000  |
 | 3. Intern elektrisch netwerk en aansluiting op het hoogspanningsnet  | 04-06-2014 t/m 09-09-2014  | 500.000  |
@@ -125,7 +127,7 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 | 5  | 4.2.30  | GG-project  | --- | 1 juli t/m 7 oktober  | 6,7 mln  |
 | 6  | 4.2.44  | LNG-project  | --- | t/m 17 juni  | 1,4 mln  |
 | 7  | 4.2.51  | ZEGO-project  | --- | t/m 16 september  |  *1,0 mln*   |
-| 8  | 4.2.58  | EnerGO-project  | 3. Regeling energieprestatie en control  | t/m 20 mei  | 0,4 mln  |
+| 8  | 4.2.58  | EnerGO-project  | 3. Regeling energieprestatie en control  | t/m 20 mei  | 0,4767 mln  |
 | 4. Multifunctionele bouwdelen  | t/m 20 mei  | 0,6 mln  |
 | 5. Energieopwekking, distributie en opslag op gebiedsniveau  | t/m 20 mei  | 1,5 mln  |
 | 9  | --- | Early adopterproject  | --- | t/m 7 oktober  | 0,4 mln  |
@@ -156,8 +158,7 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 | 1.2: Dunne film PV technologieën  | t/m 20 mei  | 1,4 mln  |
 | 1.3: Nieuwe, hybride en generiek toepasbare PV technologieën  | t/m 20 mei  | 0,5 mln  |
 | 1.4: Applicatieontwikkeling en demonstratie van Nederlandse PV- technologieën  | t/m 20 mei  | 0,9 mln  |
-| 21  | 4.2.120  | PV-project  | 1.1: Wafergebaseerde kristallijn silicium PV technologieën  | 1 juni t/m 16 september  | 1,75 mln  |
-| 1.2: Dunne film PV technologieën  | 1 juni t/m 16 september  | 1,3 mln  |
+| 21  | 4.2.37 | Upstream-project | --- | 1 juli t/m 7 oktober | 0,8 mln |
 
 ### Hoofdstuk  2  
 
