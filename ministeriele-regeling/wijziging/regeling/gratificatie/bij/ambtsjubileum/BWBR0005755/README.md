@@ -3,7 +3,7 @@
 ##Wijziging Regeling gratificatie bij ambtsjubileum 
 
 De Minister van Binnenlandse Zaken,  
-Gelet op artikel 79, derde lid, van het Algemeen Rijksambtenarenreglement, artikel 51, derde lid, van het Arbeidsovereenkomstenbesluit en [artikel 114, derde lid van het Ambtenarenreglement Staten-Generaal](../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);
+Gelet op artikel 79, derde lid, van het Algemeen Rijksambtenarenreglement, artikel 51, derde lid, van het Arbeidsovereenkomstenbesluit en artikel 114, derde lid van het Ambtenarenreglement Staten-Generaal;
 Besluit:    
 
 ### Artikel  I  

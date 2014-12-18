@@ -23,11 +23,11 @@ c. fonds: het Fonds Voorheffing Pensioenverzekering, bedoeld in de FVP-wet;
 
 d. de Nederlandsche Bank: De Nederlandsche Bank N.V.;  
 
-e. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in [hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen](../../../../../wet/wet/structuur/uitvoeringsorganisatie/werk/en/inkomen/BWBR0013060/README.md);  
+e. Uitvoeringsinstituut werknemersverzekeringen: het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-f. werknemer: de persoon die op grond van [hoofdstuk I, paragraaf 2, van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) wordt aangemerkt als werknemer;   
+f. werknemer: de persoon die op grond van hoofdstuk I, paragraaf 2, van de Werkloosheidswet wordt aangemerkt als werknemer;   
 
-g. pensioenuitvoerder: een pensioenuitvoerder als bedoeld in [artikel 1 van de Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md) en een pensioenuitvoerder als bedoeld in [artikel 1 van de Wet verplichte beroepspensioenregeling](../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);  
+g. pensioenuitvoerder: een pensioenuitvoerder als bedoeld in artikel 1 van de Pensioenwet en een pensioenuitvoerder als bedoeld in artikel 1 van de Wet verplichte beroepspensioenregeling;  
 
 h. stichting: de aangewezen stichting, bedoeld in artikel 2;   
 
@@ -53,22 +53,22 @@ b. de stichting wordt in staat geacht de doelstelling naar behoren uit te voeren
 ####Vermogensoverdracht 
 
 1.  Op de datum waarop het besluit tot aanwijzing van de stichting in werking treedt gaan alle vermogensbestanddelen van het fonds onder algemene titel over op de stichting.    
-2.  Het bestuur van het fonds doet van de in het eerste lid bedoelde vermogensbestanddelen door een accountant als bedoeld in [artikel 393, lid 1, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) een verklaring opstellen, die door de stichting wordt neergelegd ten kantore van de Kamer van Koophandel.    
-3.  Ingeval op grond van het eerste lid registergoederen overgaan zal verandering in de tenaamstelling in de openbare registers, bedoeld in [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) plaatsvinden. De daartoe benodigde opgaven worden door de zorg van het bestuur van het fonds aan de bewaarders van de desbetreffende registers gedaan.    
+2.  Het bestuur van het fonds doet van de in het eerste lid bedoelde vermogensbestanddelen door een accountant als bedoeld in artikel 393, lid 1, van Boek 2 van het Burgerlijk Wetboek een verklaring opstellen, die door de stichting wordt neergelegd ten kantore van de Kamer van Koophandel.    
+3.  Ingeval op grond van het eerste lid registergoederen overgaan zal verandering in de tenaamstelling in de openbare registers, bedoeld in afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek plaatsvinden. De daartoe benodigde opgaven worden door de zorg van het bestuur van het fonds aan de bewaarders van de desbetreffende registers gedaan.    
 4.  Terzake van de overgang van vermogensbestanddelen, bedoeld in het derde lid, blijft heffing van overdrachtsbelasting achterwege.   
 
 ### Artikel  4  
 
 ####Archiefoverdracht 
 
-Archiefbescheiden van het fonds gaan met ingang van de datum waarop het besluit tot aanwijzing van de stichting in werking treedt over naar de stichting, voorzover zij niet overeenkomstig de [Archiefwet 1995](../../../../../wet/archiefwet/1995/BWBR0007376/README.md) zijn overgebracht naar een archiefbewaarplaats.  
+Archiefbescheiden van het fonds gaan met ingang van de datum waarop het besluit tot aanwijzing van de stichting in werking treedt over naar de stichting, voorzover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats.  
 
 ### Artikel  5  
 
 ####Toezicht 
 
 1.  De Nederlandsche Bank houdt toezicht op de naleving door de stichting van alle voorschriften en verplichtingen die op grond van deze wet ten aanzien van de stichting gelden.    
-2. De [artikelen 152](../../../../../wet/pensioenwet/BWBR0020809/README.md), [153](../../../../../wet/pensioenwet/BWBR0020809/README.md), [163 tot en met 166 van de Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md) zijn van overeenkomstige toepassing.  
+2. De artikelen 152, 153, 163 tot en met 166 van de Pensioenwet zijn van overeenkomstige toepassing.  
 3.  De Nederlandsche Bank kan een aanwijzing geven aan het bestuur van de stichting indien:  
 
 a. de statuten van de stichting niet voldoen aan artikel 2, eerste en derde lid;   
@@ -92,7 +92,7 @@ b. de naleving door de stichting, bedoeld in het eerste lid, alsmede de gang van
 
 ####Verslaglegging en informatieverplichting 
 
-1.  Het bestuur van de stichting legt aan de Nederlandsche Bank jaarlijks voor 1 juli een door een accountant als bedoeld in [artikel 393, lid 1, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) gecontroleerd verslag van het voorgaande boekjaar over, waarin een volledig beeld van de financiële toestand van de stichting wordt gegeven en waaruit ten genoegen van de Nederlandsche Bank blijkt dat aan deze wet wordt voldaan. Het boekjaar van de stichting loopt gelijk met het kalenderjaar.    
+1.  Het bestuur van de stichting legt aan de Nederlandsche Bank jaarlijks voor 1 juli een door een accountant als bedoeld in artikel 393, lid 1, van Boek 2 van het Burgerlijk Wetboek gecontroleerd verslag van het voorgaande boekjaar over, waarin een volledig beeld van de financiële toestand van de stichting wordt gegeven en waaruit ten genoegen van de Nederlandsche Bank blijkt dat aan deze wet wordt voldaan. Het boekjaar van de stichting loopt gelijk met het kalenderjaar.    
 2.  De Nederlandsche Bank kan aanwijzingen geven met betrekking tot de vorm en inhoud van het in het eerste lid bedoelde verslag.    
 3.  Het bestuur van de stichting verstrekt de Nederlandsche Bank een afschrift van haar statuten, stelt de Nederlandsche Bank in kennis van een voornemen tot wijziging van de statuten en verstrekt de Nederlandsche Bank onverwijld een authentiek gewaarmerkt afschrift van de notariële akte waarin een statutenwijziging is neergelegd.    
 4.  Indien het bestuur van de stichting ter nadere uitwerking van de doelstelling een reglement opstelt zendt het dit reglement, alsmede iedere wijziging hiervan, onverwijld ter kennisneming aan de Nederlandsche Bank.   
@@ -103,7 +103,7 @@ b. de naleving door de stichting, bedoeld in het eerste lid, alsmede de gang van
 ####Informatie- en medewerkingsplicht 
 
 1.  Inlichtingen uit de basisregistratie personen en inlichtingen en uittreksels uit de registers van de burgerlijke stand, die met het oog op uitvoering van de doelstelling worden gevraagd, zijn vrij van leges.    
-2.  Indien de stichting voorziet in aanvullende pensioenvoorzieningen van werkloze werknemers, verlenen het Uitvoeringsinstituut werknemersverzekeringen en de pensioenuitvoerders waaraan bijdragen worden uitgekeerd, tegen een redelijke kostenvergoeding hun medewerking aan de uitvoering hiervan. Onder werkloze werknemer wordt verstaan de werknemer die werkloos is als bedoeld in [artikel 16 van de Werkloosheidswet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) en als gevolg daarvan een door het Uitvoeringsinstituut werknemersverzekeringen vastgesteld recht op een uitkering op grond van [die wet](../../../../../wet/werkloosheidswet/BWBR0004045/README.md) heeft.  
+2.  Indien de stichting voorziet in aanvullende pensioenvoorzieningen van werkloze werknemers, verlenen het Uitvoeringsinstituut werknemersverzekeringen en de pensioenuitvoerders waaraan bijdragen worden uitgekeerd, tegen een redelijke kostenvergoeding hun medewerking aan de uitvoering hiervan. Onder werkloze werknemer wordt verstaan de werknemer die werkloos is als bedoeld in artikel 16 van de Werkloosheidswet en als gevolg daarvan een door het Uitvoeringsinstituut werknemersverzekeringen vastgesteld recht op een uitkering op grond van die wet heeft.  
 
 ### Artikel  9  
 
@@ -144,7 +144,7 @@ Van burgerlijke rechtsvorderingen terzake van geschillen inzake het voorzien in 
 
 ### Artikel  13  
 
-####Wijziging [Wet verevening pensioenrechten bij scheiding](../../../../../wet/wet/verevening/pensioenrechten/bij/scheiding/BWBR0006641/README.md) 
+####Wijziging Wet verevening pensioenrechten bij scheiding 
 
 Wijzigt de Wet verevening pensioenrechten bij scheiding.  
 

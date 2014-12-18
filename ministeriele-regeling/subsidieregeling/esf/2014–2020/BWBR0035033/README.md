@@ -14,9 +14,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
+* *50-plusser:* een persoon van 50 jaar of ouder, doch jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet;
+
 * *Adviseur investeringsprioriteit B:* een natuurlijk persoon, niet zijnde een werknemer van de subsidieaanvrager, die in het kader van de uitoefening van zijn beroep of bedrijf als adviseur werkzaam is op het gebied van duurzame inzetbaarheid;
 
-*  *arbeidsbelemmerde:* een persoon die jegens het college van burgemeester en wethouders van zijn woonplaats aanspraak heeft op een uitkering op grond van de Wet werk en bijstand en naar het oordeel van dat college een lichamelijke, verstandelijke, psychische of psychosociale beperking heeft; 
+*  *arbeidsbelemmerde:* een persoon die jegens het college van burgemeester en wethouders van zijn woonplaats aanspraak heeft op een uitkering op grond van de Wet werk en bijstand en naar het oordeel van dat college een lichamelijke, verstandelijke, psychische of psychosociale beperking heeft, dan wel een persoon die tot de doelgroep loonkostensubsidie, bedoeld in artikel 6, eerste lid, onderdeel e, van de Participatiewet behoort; 
 
 * *Arbeidsorganisatie:* een onderneming als bedoeld in artikel 5, onderdelen a, b en d, van de Handelsregisterwet 2007 waarin door werknemers arbeid wordt verricht; 
 
@@ -26,7 +28,7 @@ In deze regeling wordt verstaan onder:
 
 *  *directe loonkosten:* loonkosten van personeel, waarbij sprake is van direct aan deelnemers van het project bestede uren, dan wel loonkosten welke direct te relateren zijn aan de uitvoering van subsidiabele activiteiten als bedoeld in bijlage 1;  
 
-*  *directe loonkosten projectcoördinatie en -administratie:* loonkosten van personeel welke direct zijn te relateren aan coördinatie en administratie van het project en waarbij het desbetreffende personeelslid voor 50% of meer van diens contractuele werktijd werkzaam is voor het project;  
+*  *directe loonkosten projectcoördinatie en -administratie:* loonkosten van personeel welke direct zijn te relateren aan coördinatie en administratie van een project en waarbij het desbetreffende personeelslid voor 50% of meer van diens contractuele werktijd werkzaam is voor een of meer projecten;  
 
 *  *externe kosten:* kosten die in rekening gebracht worden door derden voor het uitvoeren van direct aan deelnemers gerelateerde activiteiten, dan wel voor het uitvoeren van subsidiabele activiteiten als bedoeld in bijlage 1;  
 
@@ -50,7 +52,7 @@ In deze regeling wordt verstaan onder:
 
 *  *Operationeel Programma:* het Operationeel Programma ESF 2014–2020;  
 
-*  *plaatsingssubsidie:* subsidie verstrekt aan een werkgever die met een persoon, als bedoeld in artikel A4, A13 en A21, een (tijdelijke) arbeidsovereenkomst sluit, of een leerwerkovereenkomst dan wel een stageovereenkomst met een looptijd van tenminste drie maanden niet zijnde een loonkostensubsidie als bedoeld in artikel 10d Participatiewet. Waarbij in het geval van een loonkostensubsidie maximaal het daadwerkelijk betaalde brutoloon vermeerderd met een opslag van 32% van het brutoloon subsidiabel is;  
+*  *plaatsingssubsidie:* subsidie, met uitzondering van een loonkostensubsidie als bedoeld in artikel 10d van de Participatiewet, verstrekt aan een werkgever, niet zijnde de verstrekker van de subsidie zelf, die met een persoon, als bedoeld in artikel A4, A13 of A21, een arbeidsovereenkomst, een leerwerkovereenkomst of een stageovereenkomst sluit met een duur van ten minste drie maanden. In het geval de subsidie wordt verstrekt in de vorm van een loonkostensubsidie is ten hoogste subsidiabel het daadwerkelijk betaalde brutoloon vermeerderd met een opslag van 32% van het brutoloon;  
 
 *  *praktijkonderwijs:* het onderwijs, bedoeld in artikel 10f, eerste lid, van de Wet op het voortgezet onderwijs;  
 
@@ -62,7 +64,9 @@ In deze regeling wordt verstaan onder:
 
 *  *subsidieontvanger:* de subsidieaanvrager aan wie krachtens deze regeling subsidie is verleend;  
 
-*  *subproject:* een op zichzelf staand onderdeel van een project;  
+*  *subproject:* een op zichzelf staand onderdeel van een project; 
+
+* *Uitvoeringsverordening:* Uitvoeringsverordening (EU) nr. 821/2014 van de Commissie van 28 juli 2014 tot vaststelling van bepalingen ter uitvoering van Verordening (EU) nr. 1303/2013 van het Europees Parlement en de Raad wat betreft gedetailleerde regelingen voor de overdracht en het beheer van programmabijdragen, de verslaglegging over financieringsinstrumenten, de technische kenmerken van voorlichtings- en communicatiemaatregelen voor concrete acties, en het systeem voor de vastlegging en opslag van gegevens (PbEU 2014, L 223/7); 
 
 *  *UWV:* het Uitvoeringsinstituut werknemersverzekeringen, genoemd in hoofdstuk 5 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
@@ -82,9 +86,7 @@ In deze regeling wordt verstaan onder:
 
 *  *WWB-uitkering:* uitkering op grond van de Wet werk en bijstand;  
 
-*  *ZW-uitkering:* uitkering op grond van de Ziektewet;  
-
-*  *55-plusser:* een persoon van 55 jaar of ouder, doch jonger dan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet.   
+*  *ZW-uitkering:* uitkering op grond van de Ziektewet;   
 
 ### Artikel  2  
 
@@ -223,10 +225,26 @@ a. externe kosten voor projectcoördinatie en -administratie;
 
 b. directe loonkosten projectcoördinatie en -administratie voor zover deze berekend zijn op basis van het aantal werkelijk gerealiseerde uren tegen een individueel berekend tarief op basis van het brutoloon, vermeerderd met een opslag van 32% en waarbij het aantal werkbare uren per jaar is gesteld op 1.720 bij een voltijds dienstverband.     
 3.  De directe loonkosten, bedoeld in het eerste lid, onderdeel b, en het tweede lid, onderdeel b, worden verhoogd met een opslag van 40% ter dekking van de overige subsidiabele kosten van het subproject.   
-4.  Per subproject kan maximaal één kostensoort als bedoeld in het eerste lid, onderdeel a, b en c worden verantwoord.   
-5.  Per project kan maximaal één kostensoort als bedoeld in het tweede lid, onderdeel a en b worden verantwoord.   
-6.  De in het tweede lid genoemde externe kosten van projectcoördinatie en -administratie of de directe loonkosten van projectcoördinatie en -administratie inclusief de in het derde lid genoemde opslag hierop, bedragen maximaal 10% van het totaal van de subsidiabele kosten, genoemd in het eerste lid, onderdeel a en b, inclusief de in het derde lid genoemde opslag, en onderdeel c.   
-7.  De kosten, bedoeld in het eerste en tweede lid, zijn daadwerkelijk gemaakt en betaald tussen 1 januari 2014 en 31 december 2023, waarbij de kosten ten laste van het project zijn gebleven en rechtstreeks aan de uitvoering of het beheer van het project zijn toe te rekenen.  
+4.  Indien een medewerker op basis van een vooraf vastgesteld percentage van zijn arbeidstijd wordt ingezet voor uitsluitend projectactiviteiten, wordt ten hoogste 83% van dat percentage opgenomen in de financiële administratie.  
+5.  Per subproject kan maximaal één kostensoort als bedoeld in het eerste lid, onderdeel a, b en c worden verantwoord.   
+6.  Per project kan maximaal één kostensoort als bedoeld in het tweede lid, onderdeel a en b worden verantwoord.   
+7.  De in het tweede lid genoemde externe kosten van projectcoördinatie en -administratie of de directe loonkosten van projectcoördinatie en -administratie inclusief de in het derde lid genoemde opslag hierop, bedragen maximaal 10% van het totaal van de subsidiabele kosten, genoemd in het eerste lid, onderdeel a en b, inclusief de in het derde lid genoemde opslag, en onderdeel c.   
+8.  In afwijking van het eerste en tweede lid zijn kosten gemaakt door verbonden organisaties slechts subsidiabel op basis van directe loonkosten als bedoeld in het eerste lid, onderdeel b, of directe loonkosten projectcoördinatie en -administratie als bedoeld in het tweede lid, onderdeel b.   
+9.  Onder een verbonden organisatie als bedoeld in het achtste lid wordt verstaan een privaatrechtelijke of publiekrechtelijke organisatie: 
+
+a. waarop de subsidieontvanger, dan wel een bij het project betrokken partij, direct of indirect een overheersende invloed kan uitoefenen;  
+
+b. die direct of indirect een overheersende invloed op de subsidieontvanger, dan wel op een bij het project betrokken partij, kan uitoefenen; of  
+
+c. die, tezamen met de subsidieontvanger, dan wel met een bij het project betrokken partij, direct of indirect onderworpen is aan de overheersende invloed van een andere organisatie uit hoofde van eigendom, financiële deelneming of op haar van toepassing zijnde voorschriften.     
+10.  Overheersende invloed als bedoeld in het negende lid wordt vermoed, indien een organisatie direct of indirect, ten opzichte van een andere organisatie: 
+
+a. de meerderheid van het geplaatste kapitaal van de organisatie bezit;  
+
+b. over de meerderheid van de stemmen beschikt die aan de door de organisatie uitgegeven aandelen zijn verbonden; of  
+
+c. meer dan de helft van de leden van het bestuurs-, leidinggevend of toezichthoudend orgaan van de organisatie kan benoemen.    
+11.  De kosten, bedoeld in het eerste en tweede lid, zijn daadwerkelijk gemaakt en betaald, waarbij de kosten ten laste van het project zijn gebleven en rechtstreeks aan de uitvoering of het beheer van het project zijn toe te rekenen.  
 
 ### Artikel  13  
 
@@ -308,9 +326,9 @@ c. de door de Europese Commissie tussentijds uitgekeerde bedragen niet toereiken
 
 1.  De subsidieontvanger informeert de door hem ingeschakelde uitvoerder en de deelnemers aan projecten dat zij deelnemen aan een door het Europees Sociaal Fonds gesubsidieerd project.   
 2.  De subsidieontvanger draagt er zorg voor dat, op relevante op het project en de uitvoering daarvan betrekking hebbende documenten, duidelijk kenbaar wordt gemaakt dat voor het project steun is verleend vanuit het Europees Sociaal Fonds.   
-3.  De subsidieontvanger draagt er zorg voor dat een embleem van de Europese Unie aanwezig is op alle vormen van voorlichting- en communicatie-uitingen met betrekking tot het project, en dat dit embleem voldoet aan de instructies die zijn omschreven in bijlage XII van de Verordening.   
-4.  De subsidieontvanger draagt er zorg voor dat op alle vormen van voorlichting- en communicatie-uitingen in ieder geval de term Europees Sociaal Fonds aanwezig is en dat indien de vormen van voorlichting- en communicatie-uitingen daarvoor ruimte bieden, tevens de melding wordt gemaakt van de leuze: Het Europees Sociaal Fonds investeert in jouw toekomst.   
-5.  De subsidieontvanger licht het publiek voor op zijn website, indien aanwezig, over de uit het Europees Sociaal Fonds ontvangen steun en middels ten minste één affiche met informatie over het project op een voor het publiek goed zichtbare plek zoals omschreven in bijlage XII van de Verordening.   
+3.  De subsidieontvanger draagt er zorg voor dat een embleem van de Europese Unie, alsmede de vermelding van “Europese Unie”, aanwezig is op alle vormen van voorlichting- en communicatie-uitingen met betrekking tot het project, en dat dit embleem voldoet aan de instructies die zijn omschreven in bijlage XII van de Verordening en in de artikelen 3 en 4 van de Uitvoeringsverordening.   
+4.  De subsidieontvanger draagt er zorg voor dat op alle vormen van voorlichting- en communicatie-uitingen de term Europees Sociaal Fonds aanwezig is, indien de vormen van voorlichting- en communicatie-uitingen daarvoor ruimte bieden.   
+5.  De subsidieontvanger licht, conform bijlage XII van de Verordening en de artikelen 3 en 4 van de Uitvoeringsverordening, tijdens de uitvoering van het project het publiek voor op zijn website, indien aanwezig, over de uit het Europees Sociaal Fonds ontvangen steun en door middel van ten minste één affiche met informatie over het project op een voor het publiek goed zichtbare plek.   
 6.  De subsidieontvanger draagt er zorg voor dat de bij het project betrokken partijen voldoen aan het eerste tot en met het vijfde lid.   
 7.  De projectresultaten worden om niet beschikbaar gesteld aan de minister of door hem aangewezen derden, en de subsidieontvanger verleent medewerking aan door de minister georganiseerde publicitaire en voorlichtingsactiviteiten gericht op de media, potentiële deelnemers van projecten en het grote publiek.  
 
@@ -404,13 +422,13 @@ a. niet-uitkeringsontvangers;
 
 b. arbeidsbelemmerden, dan wel personen met een uitkering op basis van de Wet werk en inkomen naar arbeidsvermogen, Wet op de arbeidsongeschiktheidsverzekering, Wet arbeidsongeschiktheidsverzekering zelfstandigen, Wet werk en arbeidsondersteuning jonggehandicapten, IOAW, IOAZ en Ziektewet dan wel personen met een recht op arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten;  
 
-c. 55-plussers met een WWB-uitkering, een IOAW-uitkering, een IOAZ-uitkering, of een uitkering van het UWV;  
+c. 50-plussers met een WWB-uitkering, een IOAW-uitkering, een IOAZ-uitkering, of een uitkering van het UWV;  
 
 d. jongeren;  
 
 e. personen die algemene bijstand op grond van de WWB, een aanvullende IOAW-uitkering, een aanvullende IOAZ-uitkering, of een uitkering van het UWV ontvangen en in de twaalf maanden voorafgaand aan hun deelname aan een project deze uitkering(en) in totaal zes maanden of langer hebben ontvangen;  
 
-f. leerlingen, die vijftien jaar of ouder zijn en die geïndiceerd zijn voor, en ingeschreven staan bij een school voor voortgezet speciaal onderwijs dan wel praktijkonderwijs, alsmede leerlingen die vijftien jaar of ouder zijn en die in de periode 24 maanden onmiddellijk voorafgaand aan de start van hun deelname aan het project, ingeschreven hebben gestaan bij een dergelijke school, en in aanvulling op het regulier onderwijs ondersteuning nodig hebben of die na het verlaten van de school begeleiding nodig hebben ten behoeve van arbeidsintegratie.    
+f. leerlingen, die vijftien jaar of ouder zijn of in het derde leerjaar of hoger zitten en die geïndiceerd zijn voor, en ingeschreven staan bij een school voor voortgezet speciaal onderwijs dan wel praktijkonderwijs, alsmede leerlingen die vijftien jaar of ouder zijn en die in de periode 24 maanden onmiddellijk voorafgaand aan de start van hun deelname aan het project, ingeschreven hebben gestaan bij een dergelijke school, en in aanvulling op het regulier onderwijs ondersteuning nodig hebben of die na het verlaten van de school begeleiding nodig hebben ten behoeve van arbeidsintegratie.    
 
 2. Indien sprake is van een persoon die deelneemt aan twee opeenvolgende projecten en deze persoon behoort bij instroom in het eerste project aantoonbaar tot de doelgroep, dan behoort deze persoon ook het opvolgende project tot de doelgroep mits voor deze deelnemer sprake is van een individueel traject dat onafgebroken doorloopt in beide projecten.  
 
@@ -488,13 +506,13 @@ In aanvulling op artikel 14 verleent de minister, indien de subsidieontvanger di
 
 ####Aanvraagtijdvak
 
-Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 1 juni 2015, 09.00 uur, tot en met 30 juni 2015, 17.00 uur. 
+Subsidieaanvragen met betrekking tot een project in het kader van dit hoofdstuk worden door de minister ontvangen in het aanvraagtijdvak van 2 februari 2015, 09.00 uur, tot en met 27 februari 2015, 17.00 uur. 
 
 ### Artikel  A12  
 
 ####Subsidieplafond
 
-Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel A11, € 9.000.000,–. 
+Het maximaal beschikbare bedrag voor het verlenen van subsidie bedraagt voor het aanvraagtijdvak, bedoeld in artikel A11, € 15.000.000,–. 
 
 ### Artikel  A13  
 

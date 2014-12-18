@@ -41,7 +41,7 @@ Er is een architectenregister, waarin op verzoek wordt ingeschreven als architec
 ### Artikel  2a  
 
 1.  Er is een bureau architectenregister. Het bureau bezit rechtspersoonlijkheid en is gevestigd te Den Haag.   
-2.  De [Kaderwet zelfstandige bestuursorganen](../../../../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) is van toepassing op het bureau.  
+2.  De Kaderwet zelfstandige bestuursorganen is van toepassing op het bureau.  
 
 ### Artikel  3  
 
@@ -60,13 +60,13 @@ c.ontvangt de voor de inschrijving in het register en de erkenning van de titel 
 ### Artikel  3a  
 
 1.  Voor de toepassing van artikel 3, derde lid, onderdeel a, wordt, voor zover het de verstrekking van strafrechtelijke sancties betreft, een verklaring omtrent het gedrag aangemerkt als informatie omtrent strafrechtelijke sancties.   
-2.  In afwijking van [artikel 33 van de Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) wordt een aanvraag tot het afgeven van een verklaring omtrent het gedrag ten aanzien van een persoon als bedoeld in artikel 3, derde lid, onderdeel a, ingediend door een bevoegde autoriteit uit een andere betrokken staat.   
-3.  Een aanvraag als bedoeld in het tweede lid wordt, in afwijking van [artikel 30, eerste lid, eerste volzin, van de Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) ingediend bij Onze Minister van Justitie.   
+2.  In afwijking van artikel 33 van de Wet justitiële en strafvorderlijke gegevens wordt een aanvraag tot het afgeven van een verklaring omtrent het gedrag ten aanzien van een persoon als bedoeld in artikel 3, derde lid, onderdeel a, ingediend door een bevoegde autoriteit uit een andere betrokken staat.   
+3.  Een aanvraag als bedoeld in het tweede lid wordt, in afwijking van artikel 30, eerste lid, eerste volzin, van de Wet justitiële en strafvorderlijke gegevens ingediend bij Onze Minister van Justitie.   
 4.  Het bureau kan bij een bevoegde autoriteit uit een andere betrokken staat een verzoek indienen als bedoeld in artikel 3, derde lid, onderdeel a, mits het verzoek deugdelijk is gemotiveerd.  
 
 ### Artikel  3b  
 
-1. Voor de toepassing van de [artikelen 32, eerste lid](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [34](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [35](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en [36 van de Wet justitiële en strafvorderlijke gegevens](../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) wordt als aanvrager aangemerkt de persoon die krachtens artikel 13 is ingeschreven in het register of die op grond van dat artikel een verzoek tot inschrijving in het register heeft gedaan ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd.   
+1. Voor de toepassing van de artikelen 32, eerste lid, 34, 35 en 36 van de Wet justitiële en strafvorderlijke gegevens wordt als aanvrager aangemerkt de persoon die krachtens artikel 13 is ingeschreven in het register of die op grond van dat artikel een verzoek tot inschrijving in het register heeft gedaan ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd.   
 2.  Onze Minister van Justitie stelt de persoon, bedoeld in het eerste lid, ten aanzien van wie de verklaring omtrent het gedrag wordt gevraagd in kennis van de aanvraag, bedoeld in artikel 3a, tweede lid, en vraagt zijn instemming met het in behandeling nemen van de aanvraag.   
 3.  Indien de persoon, bedoeld in het eerste lid, geen instemming verleent, bericht Onze Minister van Justitie dit aan de bevoegde autoriteit uit een andere betrokken staat die de verklaring omtrent het gedrag heeft aangevraagd.  
 
@@ -138,9 +138,9 @@ g. de behandeling van een verzoek om gehele of gedeeltelijke vrijstelling van he
 
 1.  Onverminderd de overige eisen waaraan een persoon krachtens deze wet moet voldoen om op verzoek als architect in het register te worden ingeschreven, dient een persoon in het bezit te zijn van: 
 
-a. het getuigschrift van een masteropleiding op het gebied van architectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) onderzoek genoemde universiteit;  
+a. het getuigschrift van een masteropleiding op het gebied van architectuur aan een in de bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek genoemde universiteit;  
 
-b. het getuigschrift van een masteropleiding op het gebied van architectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemde hogeschool;  
+b. het getuigschrift van een masteropleiding op het gebied van architectuur aan een in de bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek genoemde hogeschool;  
 
 c. een getuigschrift van een door Onze Minister aangewezen opleiding op het gebied van architectuur met een opleidingsniveau dat vergelijkbaar is met een opleiding als bedoeld in onderdeel a of b;  
 
@@ -152,7 +152,7 @@ f.een opleidingstitel op het gebied van architectuur als bedoeld in artikel 23, 
 
 g.een certificaat dat overeenkomstig artikel 48, tweede lid, van de richtlijn door het daartoe bij of krachtens de wet in een andere betrokken staat aangewezen bevoegd gezag is afgegeven, inhoudende dat de betrokkene zich door de kwaliteit van zijn prestaties op het gebied van architectuur in het bijzonder heeft onderscheiden, zodat hij geacht wordt te voldoen aan de voorwaarden die in die staat worden gesteld voor de uitoefening van werkzaamheden van architect onder de beroepstitel van architect;
 
-h.een opleidingstitel op het gebied van architectuur, die door het bureau, na een daartoe ingesteld onderzoek, met overeenkomstige toepassing van de [artikelen 5 tot en met 13 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar en om bijzondere en uitzonderlijke redenen niet voldoet aan de minimumopleidingseisen van artikel 46, eerste lid, van de richtlijn;
+h.een opleidingstitel op het gebied van architectuur, die door het bureau, na een daartoe ingesteld onderzoek, met overeenkomstige toepassing van de artikelen 5 tot en met 13 van de Algemene wet erkenning EG-beroepskwalificaties is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar en om bijzondere en uitzonderlijke redenen niet voldoet aan de minimumopleidingseisen van artikel 46, eerste lid, van de richtlijn;
 
 i.een in een derde land behaald of verworven diploma, certificaat of andere titel op het gebied van architectuur, dat of die door het daartoe bij of krachtens wet in een andere betrokken staat aangewezen bevoegd gezag overeenkomstig artikel 2, tweede lid, van de richtlijn is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar en in het bezit is van een door dat gezag afgegeven verklaring dat hij ten minste drie jaar beroepservaring in die staat heeft op het gebied van architectuur, of
 
@@ -164,13 +164,13 @@ j.een getuigschrift op het gebied van architectuur, dat door een daartoe bevoegd
 
 1.  Onverminderd de overige eisen waaraan een persoon krachtens deze wet moet voldoen om op verzoek als stedenbouwkundige te worden ingeschreven in het register, dient een persoon in het bezit te zijn van: 
 
-a. het getuigschrift van een masteropleiding op het gebied van stedenbouw aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemde universiteit;  
+a. het getuigschrift van een masteropleiding op het gebied van stedenbouw aan een in de bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek genoemde universiteit;  
 
-b. het getuigschrift van een masteropleiding op het gebied van stedenbouw aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemde hogeschool;  
+b. het getuigschrift van een masteropleiding op het gebied van stedenbouw aan een in de bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek genoemde hogeschool;  
 
 c. een getuigschrift van een door Onze Minister aangewezen opleiding op het gebied van stedenbouw met een opleidingsniveau dat vergelijkbaar is met een opleiding als bedoeld in onderdeel a of b;  
 
-d.een opleidingstitel op het gebied van stedenbouw, die door het bureau, na een daartoe ingesteld onderzoek, met overeenkomstige toepassing van de [artikelen 5 tot en met 13 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar;
+d.een opleidingstitel op het gebied van stedenbouw, die door het bureau, na een daartoe ingesteld onderzoek, met overeenkomstige toepassing van de artikelen 5 tot en met 13 van de Algemene wet erkenning EG-beroepskwalificaties is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar;
 
 e.een in een derde land behaald of verworven diploma, certificaat of andere titel op het gebied van stedenbouw, dat of die door het daartoe bij of krachtens wet in een andere betrokken staat aangewezen bevoegd gezag overeenkomstig artikel 2, tweede lid, van de richtlijn is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar en in het bezit is van een door dat gezag afgegeven verklaring dat hij ten minste drie jaar beroepservaring in die staat heeft op het gebied van stedenbouw, of
 
@@ -182,13 +182,13 @@ f.een getuigschrift op het gebied van stedenbouw, dat door een daartoe bevoegde 
 
 1.  Onverminderd de overige eisen waaraan krachtens deze wet moet worden voldaan om op verzoek als tuin- en landschapsarchitect te worden ingeschreven in het register, dient een persoon in het bezit te zijn van: 
 
-a. het getuigschrift van een masteropleiding op het gebied van landschapsarchitectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemde universiteit;  
+a. het getuigschrift van een masteropleiding op het gebied van landschapsarchitectuur aan een in de bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek genoemde universiteit;  
 
-b. het getuigschrift van een masteropleiding op het gebied van landschapsarchitectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemde hogeschool;  
+b. het getuigschrift van een masteropleiding op het gebied van landschapsarchitectuur aan een in de bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek genoemde hogeschool;  
 
 c. een getuigschrift van een door Onze Minister van Landbouw, Natuur en Voedselkwaliteit aangewezen opleiding op het gebied van tuin- en landschapsarchitectuur met een opleidingsniveau dat vergelijkbaar is met een opleiding als bedoeld in onderdeel a of b;  
 
-d.een opleidingstitel op het gebied van tuin- en landschapsarchitectuur, die door het bureau, na een daartoe ingesteld onderzoek, met overeenkomstige toepassing van de [artikelen 5 tot en met 13 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar;
+d.een opleidingstitel op het gebied van tuin- en landschapsarchitectuur, die door het bureau, na een daartoe ingesteld onderzoek, met overeenkomstige toepassing van de artikelen 5 tot en met 13 van de Algemene wet erkenning EG-beroepskwalificaties is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar;
 
 e.een in een derde land behaald of verworven diploma, certificaat of andere titel op het gebied van tuin- en landschapsarchitectuur, dat of die door het daartoe bij of krachtens wet in een andere betrokken staat aangewezen bevoegd gezag overeenkomstig artikel 2, tweede lid, van de richtlijn is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar en in het bezit is van een door dat gezag afgegeven verklaring dat hij ten minste drie jaar beroepservaring in die staat heeft op het gebied van tuin- en landschapsarchitectuur, of
 
@@ -200,13 +200,13 @@ f.een getuigschrift op het gebied van tuin- en landschapsarchitectuur, dat door 
 
 1.  Onverminderd de overige eisen waaraan krachtens deze wet moet worden voldaan om op verzoek als interieurarchitect te worden ingeschreven in het register, dient een persoon in het bezit te zijn van: 
 
-a. het getuigschrift van een masteropleiding op het gebied van interieurarchitectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemde universiteit;  
+a. het getuigschrift van een masteropleiding op het gebied van interieurarchitectuur aan een in de bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek genoemde universiteit;  
 
-b. het getuigschrift van een masteropleiding op het gebied van interieurarchitectuur aan een in de [bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek](../../../../../../wet/wet/op/het/hoger/onderwijs/en/wetenschappelijk/onderzoek/BWBR0005682/README.md) genoemde hogeschool;  
+b. het getuigschrift van een masteropleiding op het gebied van interieurarchitectuur aan een in de bijlage bij de Wet op het hoger onderwijs en wetenschappelijk onderzoek genoemde hogeschool;  
 
 c. een getuigschrift van een door Onze Minister van Onderwijs, Cultuur en Wetenschap aangewezen opleiding op het gebied van interieurarchitectuur met een opleidingsniveau dat vergelijkbaar is met een opleiding als bedoeld in onderdeel a of b;  
 
-d.een opleidingstitel op het gebied van interieurarchitectuur, die door het bureau, na een daartoe ingesteld onderzoek, met overeenkomstige toepassing van de [artikelen 5 tot en met 13 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar;
+d.een opleidingstitel op het gebied van interieurarchitectuur, die door het bureau, na een daartoe ingesteld onderzoek, met overeenkomstige toepassing van de artikelen 5 tot en met 13 van de Algemene wet erkenning EG-beroepskwalificaties is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar;
 
 e.een in een derde land behaald of verworven diploma, certificaat of andere titel op het gebied van interieurarchitectuur, dat of die door het daartoe bij of krachtens wet in een andere betrokken staat aangewezen bevoegd gezag overeenkomstig artikel 2, tweede lid, van de richtlijn is erkend, mits hij kan worden aangemerkt als migrerend beroepsbeoefenaar en in het bezit is van een door dat gezag afgegeven verklaring dat hij ten minste drie jaar beroepservaring in die staat heeft op het gebied van interieurarchitectuur, of
 
@@ -243,7 +243,7 @@ e. de vergoeding van de leden van de examencommissie.
 4.  Een persoon die met goed gevolg het examen, bedoeld in het eerste lid, heeft afgelegd, kan op diens verzoek worden ingeschreven in het register.  
 
 ### Artikel  12c  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Een persoon die in het bezit is van een opleidingstitel op het gebied van architectuur als bedoeld in artikel 21 van de richtlijn, of van een opleidingstitel als bedoeld in artikel 10, eerste lid, onderdeel d, 11, eerste lid, onderdeel d, of 12, eerste lid, onderdeel d, wordt in het register ingeschreven indien hij in de staat, waar hij die opleidingstitel heeft behaald, gerechtigd is beroepsmatig werkzaamheden te verrichten op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur of indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in artikel 12e, heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.   
 2.  Een persoon die in het bezit is van een getuigschrift als bedoeld in artikel 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, of 12, eerste lid, onderdeel f, wordt in het register ingeschreven indien hij in het derde land, waar hij dat getuigschrift heeft behaald, gerechtigd is beroepsmatig werkzaamheden te verrichten op het gebied van architectuur, stedenbouw, tuin- en landschapsarchitectuur of interieurarchitectuur of indien hij met goed gevolg de tweejarige beroepservaringperiode, bedoeld in artikel 12e, heeft afgesloten of een naar het oordeel van het bureau daarmee vergelijkbare beroepservaring heeft opgedaan.  
@@ -292,7 +292,7 @@ f. een voorziening in geval van een conflict tussen de begeleider en de persoon 
 3. Het bureau bevestigt binnen een maand de ontvangst van een aanvraag om erkenning van een opleidingstitel als bedoeld in artikel 9, eerste lid, onderdeel h, 10, eerste lid, onderdeel d, 11, eerste lid, onderdeel d, of 12, eerste lid, onderdeel d, of van een getuigschrift als bedoeld in artikel 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, of 12, eerste lid, onderdeel f. Het wijst er in die bevestiging op dat het besluit omtrent de aangevraagde erkenning gelijktijdig een besluit kan inhouden omtrent inschrijving in het register indien de aanvrager alsnog verzoekt om inschrijving in het register overeenkomstig het eerste lid. 
 4. Indien een persoon blijkens zijn verzoek om inschrijving in het register in het bezit is van een opleidingstitel als bedoeld in artikel 9, eerste lid, onderdeel h, 10, eerste lid, onderdeel d, 11, eerste lid, onderdeel d, of 12, eerste lid, onderdeel d, of van een getuigschrift als bedoeld in artikel 9, eerste lid, onderdeel j, 10, eerste lid, onderdeel f, 11, eerste lid, onderdeel f, of 12, eerste lid, onderdeel f, die of dat nog niet door het bureau is erkend, merkt het bureau het verzoek om inschrijving tevens aan als een aanvraag om erkenning van die opleidingstitel of dat getuigschrift. Het bureau doet daarvan binnen een maand na de ontvangst mededeling in de bevestiging van de ontvangst van het verzoek. 
 5. Het bureau neemt in een geval waarin een aanvraag om erkenning of een verzoek om inschrijving in het register betrekking heeft op een opleidingstitel als bedoeld in artikel 9, eerste lid, onderdeel h, 10, eerste lid, onderdeel d, 11, eerste lid, onderdeel d, of 12, eerste lid, onderdeel d, binnen drie maanden na ontvangst van alle stukken die het nodig acht voor zijn oordeelsvorming een besluit omtrent de erkenning. 
-6. Indien het bureau toepassing geeft aan [artikel 11 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) houdt het het besluit omtrent de erkenning aan overeenkomstig [artikel 19, derde lid, van die wet](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md). Het derde en vierde lid van dat artikel zijn van overeenkomstige toepassing. 
+6. Indien het bureau toepassing geeft aan artikel 11 van de Algemene wet erkenning EG-beroepskwalificaties houdt het het besluit omtrent de erkenning aan overeenkomstig artikel 19, derde lid, van die wet. Het derde en vierde lid van dat artikel zijn van overeenkomstige toepassing. 
 
 ### Artikel  14  
 
@@ -320,7 +320,7 @@ b. indien de ingeschrevene niet voldoet aan de verplichting tot het betalen van 
 c. op verzoek van de ingeschrevene;  
 
 d. na het overlijden van de ingeschrevene.     
-2.   Een besluit tot doorhaling van de inschrijving op grond van het bepaalde in het eerste lid, onder *a*, wordt niet genomen dan nadat overeenkomstige toepassing is gegeven aan [artikel 4:7 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+2.   Een besluit tot doorhaling van de inschrijving op grond van het bepaalde in het eerste lid, onder *a*, wordt niet genomen dan nadat overeenkomstige toepassing is gegeven aan artikel 4:7 van de Algemene wet bestuursrecht.   
 3.   Een besluit tot doorhaling van de inschrijving op grond van het bepaalde in het eerste lid, onder *b*, wordt niet genomen dan nadat vier weken zijn is verstreken na de dag, waarop de betrokkene op zijn verzuim en het in het eerste lid bedoelde gevolg daarvan is gewezen.   
 4.   Elke doorhaling van een inschrijving op een der gronden, bedoeld in het eerste lid, onderdelen a tot en met c, wordt onmiddellijk bekendgemaakt, onder vermelding van hetgeen in artikel 18 is bepaald.   
 5.   Het bureau houdt aantekening van de doorhalingen en van de data waarop deze zijn geschied.  
@@ -423,7 +423,7 @@ c.ingeval het beroep niet is gereglementeerd in zijn staat een bewijs dat hij he
 
 1.  Een persoon kan op verzoek in het register worden ingeschreven als architect, stedenbouwkundige, tuin- en landschapsarchitect of interieurarchitect op grond van een ander door hem in Nederland behaald getuigschrift dan genoemd in artikel 9, eerste lid, onderdeel a, b of c, 10, eerste lid, onderdeel a, b of c, 11, eerste lid, onderdeel a, b of c, 12, eerste lid, onderdeel a, b of c, indien: 
 
-a. hij dat getuigschrift in zijn bezit had op het tijdstip van inwerkingtreding van [artikel I, onderdelen H, I, J en K, van de wet tot wijziging van de Wet op de architectentitel (beroepservaring, bij- en nascholingsregeling voor stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten, wijzigingen in verband met de Kaderwet zelfstandige bestuursorganen, alsmede enige andere wijzigingen)](../../../../../../wet/wijzigingswet/wet/op/de/architectentitel/(beroepservaring/bij-/en/etc/BWBR0027415/README.md), en  
+a. hij dat getuigschrift in zijn bezit had op het tijdstip van inwerkingtreding van artikel I, onderdelen H, I, J en K, van de wet tot wijziging van de Wet op de architectentitel (beroepservaring, bij- en nascholingsregeling voor stedenbouwkundigen, tuin- en landschapsarchitecten en interieurarchitecten, wijzigingen in verband met de Kaderwet zelfstandige bestuursorganen, alsmede enige andere wijzigingen), en  
 
 b. dat getuigschrift op de dag voorafgaand aan het tijdstip, bedoeld in onderdeel a, recht gaf op inschrijving in het register.     
 2.  Artikel 13, eerste en tweede lid, is van toepassing op een verzoek als bedoeld in het eerste lid.   

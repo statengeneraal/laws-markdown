@@ -3,24 +3,24 @@
 ##Regeling aanwijzing schadelijke organismen 1998
 
 De Minister van Landbouw, Natuurbeheer en Visserij,  
-Gelet op de [artikelen 16](../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md), [17](../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md) en [18 van het Besluit bestrijding schadelijke organismen](../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md);
+Gelet op de artikelen 16, 17 en 18 van het Besluit bestrijding schadelijke organismen;
 Besluit:     
 
 ### Artikel 1  
 
-In deze regeling wordt verstaan onder: besluit: [Besluit bestrijding schadelijke organismen](../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md);richtlijn 2000/29/EG:richtlijn van de Raad van 8 mei 2000 betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen (PbEG L 169). 
+In deze regeling wordt verstaan onder: besluit: Besluit bestrijding schadelijke organismen;richtlijn 2000/29/EG:richtlijn van de Raad van 8 mei 2000 betreffende de beschermende maatregelen tegen het binnenbrengen en de verspreiding in de Gemeenschap van voor planten en voor plantaardige producten schadelijke organismen (PbEG L 169). 
 
 ### Artikel 2  
 
-Als ambtenaar bedoeld in [artikel 16 van het besluit](../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md) worden aangewezen de ambtenaren van de Plantenziektenkundige Dienst.  
+Als ambtenaar bedoeld in artikel 16 van het besluit worden aangewezen de ambtenaren van de Plantenziektenkundige Dienst.  
 
 ### Artikel 3  
 
-Als schadelijke organismen bedoeld in [artikel 16 van het besluit](../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md) worden aangewezen de schadelijke organismen genoemd in bijlage I, deel A, en bijlage II, deel A, bij richtlijn 2000/29/EG, uitgezonderd de organismen genoemd in de bijlage bij deze regeling en het schadelijk organisme Dryocosmus kuriphilus Yasumatsu.  
+Als schadelijke organismen bedoeld in artikel 16 van het besluit worden aangewezen de schadelijke organismen genoemd in bijlage I, deel A, en bijlage II, deel A, bij richtlijn 2000/29/EG, uitgezonderd de organismen genoemd in de bijlage bij deze regeling.  
 
 ### Artikel 4  
 
-Als schadelijke organismen bedoeld in de [artikelen 17, eerste lid](../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md), en [18 van het besluit](../../../../../../../AMvB/besluit/bestrijding/schadelijke/organismen/BWBR0005206/README.md) worden aangewezen de schadelijke organismen genoemd in bijlage I, deel A, en bijlage II, deel A, bij richtlijn 2000/29/EG.  
+Als schadelijke organismen bedoeld in de artikelen 17, eerste lid, en 18 van het besluit worden aangewezen de schadelijke organismen genoemd in bijlage I, deel A, en bijlage II, deel A, bij richtlijn 2000/29/EG.  
 
 ### Artikel 5  
 
@@ -59,8 +59,8 @@ J.J. van Aartsen
 |3 |Colletotrichum acutatum Simmonds |zwarte vlekkenziekte bij aardbei | --- |
 |4 | Ditylenchus destructor Thorne |destructoraaltje | --- |
 |5 | Erwinia amylovora (Burr.) Winsl. et al. |bacterievuur | --- |
-|6 |Globodera pallida (Stone) Behrens |wit aardappelcystenaaltje |Tenzij de verschijnselen van aantasting door het schadelijke organisme worden aangetroffen bij een aardappelras waarvoor ingevolge [artikel 2d van de Regeling bestrijding schadelijke organismen](../../../../../../../ministeriele-regeling/regeling/bestrijding/schadelijke/organismen/BWBR0013946/README.md) het resistentieniveau is vastgesteld en de verschijnselen significant ernstiger zijn dan mag worden verwacht op grond van het vastgestelde resistentieniveau. |
-|7 |lobodera rostochiensis (Wollenweber) Behrens |geel aardappelcystenaaltje |Tenzij de verschijnselen van aantasting door het schadelijke organisme worden aangetroffen bij een aardappelras waarvoor ingevolge [artikel 2d van de Regeling bestrijding schadelijke organismen](../../../../../../../ministeriele-regeling/regeling/bestrijding/schadelijke/organismen/BWBR0013946/README.md) het resistentieniveau is vastgesteld en de verschijnselen significant ernstiger zijn dan mag worden verwacht op grond van het vastgestelde resistentieniveau. |
+|6 |Globodera pallida (Stone) Behrens |wit aardappelcystenaaltje |Tenzij de verschijnselen van aantasting door het schadelijke organisme worden aangetroffen bij een aardappelras waarvoor ingevolge artikel 2d van de Regeling bestrijding schadelijke organismen het resistentieniveau is vastgesteld en de verschijnselen significant ernstiger zijn dan mag worden verwacht op grond van het vastgestelde resistentieniveau. |
+|7 |lobodera rostochiensis (Wollenweber) Behrens |geel aardappelcystenaaltje |Tenzij de verschijnselen van aantasting door het schadelijke organisme worden aangetroffen bij een aardappelras waarvoor ingevolge artikel 2d van de Regeling bestrijding schadelijke organismen het resistentieniveau is vastgesteld en de verschijnselen significant ernstiger zijn dan mag worden verwacht op grond van het vastgestelde resistentieniveau. |
 |8 | Liriomyza bryoniae (Kaltenbach) |tomatenmineervlieg | --- |
 |9 | Liriomyza huidobrensis (Blanchard) |nerfmineervlieg | --- |
 |10 | Liriomyza trifolii (Burgess) |floridamineervlieg | --- |

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 mei 1989, Directoraat-Generaal Sociale Zekerheid, Directie Sociale Verzekeringen, Hoofdafdeling Werknemersverzekeringen, Afdeling Werkloosheidsregelingen, nr. SZ/SVW/89/2566; 
 
-Gelet op [artikel 3, derde en vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) (*Stb.* 1987, 89), [artikel 3, derde en vierde lid, van de Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) (*Stb.* 1987, 88) en [artikel 3, derde en vierde lid, van de Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md) (*Stb.* 1987, 93); 
+Gelet op artikel 3, derde en vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering (*Stb.* 1987, 89), artikel 3, derde en vierde lid, van de Ziektewet (*Stb.* 1987, 88) en artikel 3, derde en vierde lid, van de Werkloosheidswet (*Stb.* 1987, 93); 
 
 De Raad van State gehoord (advies van 5 juli 1989, nr. W12.89.0249); 
 
@@ -19,7 +19,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a.  *werknemersverzekeringen:* de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Ziektewet](../../../../../../../../../../wet/ziektewet/BWBR0001888/README.md) en de [Werkloosheidswet](../../../../../../../../../../wet/werkloosheidswet/BWBR0004045/README.md);  
+a.  *werknemersverzekeringen:* de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en inkomen naar arbeidsvermogen, de Ziektewet en de Werkloosheidswet;  
 
 b.  *in Nederland arbeid verrichten, dan wel werkzaam zijn:* in Nederland of op het continentaal plat arbeid verrichten;  
 
@@ -35,20 +35,57 @@ Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederl
 
 Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd degene die niet in Nederland woont en behoort tot het rijdend, vliegend of op de binnenwateren varend personeel van een in Nederland wonende of gevestigde werkgever die internationaal vervoer verricht, tenzij hij in hoofdzaak in het woonland arbeid verricht dan wel werkt bij een filiaal of een vaste vertegenwoordiging van die werkgever buiten Nederland.  
 
+### Artikel  3a  
+
+####Buiten Nederland en Europa werkzaam
+
+Treedt in werking per 01-01-2015 
+
+1.  Onverminderd de artikelen 4a en 4b wordt als werknemer in de zin van de werknemersverzekeringen beschouwd degene die: 
+
+a. de nationaliteit heeft van een van de lidstaten van de Europese Unie, een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte of Zwitserland;  
+
+b. woont buiten Nederland in een andere lidstaat van de Europese Unie, een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of Zwitserland;  
+
+c. een dienstbetrekking heeft met een in Nederland wonende of gevestigde werkgever, en  
+
+d. arbeid verricht voor de werkgever, bedoeld onderdeel c, en werkzaam is buiten: 
+
+1° Nederland of een andere lidstaat van de Europese Unie;  
+
+2° een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of  
+
+3° Zwitserland.       
+2.  Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd degene die: 
+
+a. niet beschikt over de nationaliteit, bedoeld in het eerste lid, onderdeel a;  
+
+b. die buiten Nederland rechtmatig op het grondgebied verblijft van een andere lidstaat van de Europese Unie, uitgezonderd Denemarken;  
+
+c. een dienstbetrekking heeft met een in Nederland wonende of gevestigde werkgever, en  
+
+d. arbeid verricht voor de werkgever, bedoeld in onderdeel c, en werkzaam is buiten: 
+
+1° Nederland of een andere lidstaat van de Europese Unie;  
+
+2° een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, of  
+
+3° Zwitserland.      
+
 ### Artikel  4  
 
-Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederlander en de vreemdeling, bedoeld in [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) die in Nederland woont, behoort tot het rijdend, vliegend of op de binnenwateren varend personeel van een buiten Nederland wonende of gevestigde werkgever en in hoofdzaak in Nederland arbeid verricht dan wel werkt bij een filiaal of een vaste vertegenwoordiging van die werkgever in Nederland.  
+Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de Nederlander en de vreemdeling, bedoeld in artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000 die in Nederland woont, behoort tot het rijdend, vliegend of op de binnenwateren varend personeel van een buiten Nederland wonende of gevestigde werkgever en in hoofdzaak in Nederland arbeid verricht dan wel werkt bij een filiaal of een vaste vertegenwoordiging van die werkgever in Nederland.  
 
 ### Artikel  4a  
 
-1.  Als werknemer in de zin van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) wordt beschouwd de Nederlander die op grond van [artikel 8, tweede lid, onderdeel a of b, derde lid, onderdeel a, vierde, vijfde of zesde lid, van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) werkzaam is bij een vertegenwoordiging van het Koninkrijk der Nederlanden in het buitenland als bedoeld in [artikel 7, tweede lid, van het Reglement Dienst Buitenlandse Zaken](../../../../../../../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md), tenzij hij: 
+1.  Als werknemer in de zin van de Wet op de arbeidsongeschiktheidsverzekering wordt beschouwd de Nederlander die op grond van artikel 8, tweede lid, onderdeel a of b, derde lid, onderdeel a, vierde, vijfde of zesde lid, van het Reglement Dienst Buitenlandse Zaken werkzaam is bij een vertegenwoordiging van het Koninkrijk der Nederlanden in het buitenland als bedoeld in artikel 7, tweede lid, van het Reglement Dienst Buitenlandse Zaken, tenzij hij: 
 
 a. ten tijde van aanwerving niet in Nederland woonde;  
 
 b. buiten Nederland arbeid verricht anders dan de werkzaamheden, bedoeld in de aanhef; of  
 
 c. een uitkering ontvangt op grond van een buitenlandse wettelijke regeling inzake sociale zekerheid.     
-2.  Als werknemer in de zin van de [Wet op de arbeidsongeschiktheidsverzekering](../../../../../../../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md) wordt beschouwd de particuliere bediende die in dienst is van de in het eerste lid bedoelde verzekerde, tenzij hij: 
+2.  Als werknemer in de zin van de Wet op de arbeidsongeschiktheidsverzekering wordt beschouwd de particuliere bediende die in dienst is van de in het eerste lid bedoelde verzekerde, tenzij hij: 
 
 a. onderdaan is van de ontvangende staat;  
 
@@ -73,7 +110,7 @@ d. werkzaam is bij een door Onze Minister, Onze Minister van Volksgezondheid, We
 
 ### Artikel  4c  
 
-Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de vreemdeling die rechtmatig in Nederland verblijf houdt in de zin van artikel 1b, aanhef en onder 2, 3, 4 of 5, van de Vreemdelingenwet, indien hij in overeenstemming met de [Wet arbeid vreemdelingen](../../../../../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) arbeid in dienstbetrekking verricht. 
+Als werknemer in de zin van de werknemersverzekeringen wordt beschouwd de vreemdeling die rechtmatig in Nederland verblijf houdt in de zin van artikel 1b, aanhef en onder 2, 3, 4 of 5, van de Vreemdelingenwet, indien hij in overeenstemming met de Wet arbeid vreemdelingen arbeid in dienstbetrekking verricht. 
 
 ####Beperking van de kring van verzekerden 
 
@@ -171,7 +208,12 @@ c. verzekerd is krachtens het stelsel van sociale verzekering van een andere mog
 
 ### Artikel  16a  
 
-Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd de vreemdeling die rechtmatig in Nederland verblijf houdt in de zin van [artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000](../../../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), indien hij in Nederland, met uitzondering van het continentaal plat, arbeid in dienstbetrekking verricht zonder dat aan de [Wet arbeid vreemdelingen](../../../../../../../../../../wet/wet/arbeid/vreemdelingen/BWBR0007149/README.md) is voldaan.  
+Als werknemer in de zin van de werknemersverzekeringen wordt niet beschouwd de vreemdeling die rechtmatig in Nederland verblijf houdt in de zin van artikel 8, onder a tot en met e, of l, van de Vreemdelingenwet 2000, indien hij in Nederland, met uitzondering van het continentaal plat, arbeid in dienstbetrekking verricht zonder dat aan de Wet arbeid vreemdelingen is voldaan.  
+
+### Artikel  16b  
+Treedt in werking per 01-01-2015 
+
+Artikel 7, derde lid, is niet van toepassing ten aanzien van de particulier bediende, bedoeld in dat lid, indien deze persoon op de dag van inwerkingtreding van het besluit van 11 december 2014 tot wijziging van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999, het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990 en het Besluit uitbreiding en beperking kring ingezetenen Wet Wajong (Stb. 514) werknemer was in de zin van de werknemersverzekeringen. 
 
 ####Slotbepalingen 
 

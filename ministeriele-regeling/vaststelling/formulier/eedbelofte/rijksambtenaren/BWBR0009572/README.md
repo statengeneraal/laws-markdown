@@ -3,7 +3,7 @@
 ##Vaststelling formulier eed/belofte rijksambtenaren 
 
 De Minister van Binnenlandse Zaken,  
-Gelet op [artikel 51, derde lid, van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [artikel 86, derde lid, van het Ambtenarenreglement Staten-Generaal](../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);
+Gelet op artikel 51, derde lid, van het Algemeen Rijksambtenarenreglement en artikel 86, derde lid, van het Ambtenarenreglement Staten-Generaal;
 Besluit:     
 
 ### Artikel  1  

@@ -123,7 +123,7 @@ Alleen het hoofd van de afdeling Juridisch Advies binnen het Rijksvastgoedbedrij
 
 ####Grensbedragen en bijzondere financiële bepalingen
 
-1.  Het mandaat voor (meerjarige) verplichtingen die financiële gevolgen hebben of kunnen hebben, is per project beperkt tot de volgende grensbedragen in euro’s en exclusief btw:  
+1.  Het mandaat voor (meerjarige) verplichtingen die financiële gevolgen hebben of kunnen hebben, is per verplichting beperkt tot de volgende grensbedragen in euro’s en exclusief btw:  
 
 | --- | --- |
 |:---|:---|
@@ -134,15 +134,7 @@ Alleen het hoofd van de afdeling Juridisch Advies binnen het Rijksvastgoedbedrij
 | Teamleider  | 50.000  |
 
 De functionarissen die directeur of afdelingshoofd zijn, kunnen van de bevoegdheid tot het betaalbaar stellen van facturen ondermandaat verlenen.   
-2.  Er zijn drie categorieën projectenleiders met de daarbij behorende mandaten tot de volgende grensbedragen per project in euro’s en exclusief btw:  
-
-| --- | --- |
-|:---|:---|
-| Projectenleiders met projecten met A-status:  | 5.000.000  |
-| Projectenleiders met projecten met B-status:  | 600.000  |
-| Projectenleiders met projecten met C-status:  | 50.000  |
-
-Bij elk van deze projecten is het betaalbaar stellen van facturen in het mandaat inbegrepen.   
+2.  Het mandaat voor (meerjarige) verplichtingen, die financiële gevolgen hebben of kunnen hebben, is per verplichting voor de projectleiders beperkt tot de volgende grensbedragen in euro’s en exclusief btw:  Projectleiders met A-status 5.000.000  Projectleiders met B-status 600.000  Projectleiders met C-status 50.000  Het betaalbaar stellen van facturen is in het mandaat inbegrepen.    
 3.  De directeur-generaal kan ondermandaat verlenen van de bevoegdheid tot het betaalbaar stellen van facturen die voortvloeien uit de door hem aangegane verplichtingen, inclusief die welke voortvloeien uit de aan hem voorbehouden (meerjarige) verplichtingen boven de 5.000.000 en subsidiebeschikkingen.   
 4.  Alle Inkoopcontracten, met uitzondering van die voor ICT en bedrijfsmiddelen, worden gesloten door of met instemming van de directie T&O.   
 5.  Voor ingebruikgevingen in welke vorm dan ook en verkoop van vastgoed, is geen grensbedrag van toepassing.  

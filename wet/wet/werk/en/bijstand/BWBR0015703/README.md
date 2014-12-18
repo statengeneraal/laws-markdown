@@ -936,6 +936,20 @@ d. een persoon is van wie is vastgesteld dat hij met voltijdse arbeid niet in st
 3.  Onder consumentenprijsindex, wordt in deze afdeling verstaan hetgeen daaronder in artikel 13, zesde lid, van de Algemene Kinderbijslagwet wordt verstaan.   
 4.  Met ingang van 1 juli 2012 tot 1 januari 2014 en met ingang van 1 januari 2018 wordt het in het tweede lid genoemde percentage twee keer per kalenderjaar, op 1 januari en 1 juli, verlaagd met 2,5 procentpunt. Met ingang van 1 januari 2014 tot 1 januari 2018 wordt het in het tweede lid genoemde percentage twee keer per kalenderjaar, op 1 januari en 1 juli, verlaagd met 1,25 procentpunt. Van het herziene percentage doet onze Minister mededeling in de Staatscourant. Dit lid vervalt op het moment dat het percentage van 100 is bereikt. 
 
+### Artikel  37a  
+
+####Vaststelling normen pensioengerechtigden
+
+Treedt in werking per 01-01-2015 
+
+1.  De normen voor belanghebbenden die de pensioengerechtigde leeftijd hebben bereikt, genoemd in artikel 22, worden afgeleid van het netto minimumloon per maand.   
+2.  Op basis van het netto minimumloon per maand worden de bruto bedragen zodanig vastgesteld, dat na aftrek van de in te houden loonbelasting en premie voor de volksverzekeringen, rekening houdend met de toepasselijke heffingskortingen voor een persoon van de pensioengerechtigde leeftijd en ouder, met uitzondering van de ouderenkorting en alleenstaande ouderenkorting, bedoeld in de artikelen 22b en 22c van de Wet op de loonbelasting 1964, en van de inkomensafhankelijke bijdrage, bedoeld in artikel 41 van de Zorgverzekeringswet: 
+
+a. het netto bedrag per maand van een belanghebbende als bedoeld in artikel 22, onderdeel a, gelijk is aan 70% van het netto minimumloon per maand;  
+
+b. het netto bedrag per maand van een belanghebbende als bedoeld in artikel 22, onderdelen b en c, gelijk is aan 50% van het netto minimumloon per maand.     
+3.  Op basis van de bruto bedragen, bedoeld in het tweede lid, worden de netto normen, bedoeld in het eerste lid, vastgesteld waarbij rekening wordt gehouden met de in te houden loonbelasting en premie voor de volksverzekeringen en de toepasselijke heffingskortingen voor een persoon van de pensioengerechtigde leeftijd en ouder, met inbegrip van de ouderenkorting en alleenstaande ouderenkorting, bedoeld in de artikelen 22b en 22c van de Wet op de loonbelasting 1964, en de inkomensafhankelijke bijdrage, bedoeld in artikel 41 van de Zorgverzekeringswet.  
+
 ### Artikel  38  
 
 ####Aanpassing normen en bedragen

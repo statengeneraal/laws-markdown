@@ -3,7 +3,7 @@
 ##IKAP-Regeling rijkspersoneel
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 21c van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [artikel 34c van het Ambtenarenreglement Staten-Generaal](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);
+Gelet op artikel 21c van het Algemeen Rijksambtenarenreglement en artikel 34c van het Ambtenarenreglement Staten-Generaal;
 Besluit:    
 
 ### Artikel  1  
@@ -12,29 +12,29 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a. ARAR: [Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+a. ARAR: Algemeen Rijksambtenarenreglement;  
 
-b. ARSG: [Ambtenarenreglement Staten-Generaal](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);  
+b. ARSG: Ambtenarenreglement Staten-Generaal;  
 
-c. BBRA 1984: [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);  
+c. BBRA 1984: Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984;  
 
 d. IKAP: Individuele Keuzen in het Arbeidsvoorwaardenpakket;  
 
 e. Onze Minister: het hoofd van het betrokken ministerie;  
 
-f. ambtenaar: degene, die is aangesteld op grond van het [ARAR](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of [ARSG](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);  
+f. ambtenaar: degene, die is aangesteld op grond van het ARAR of ARSG;  
 
 g. bevoegd gezag: het met betrekking tot de toepassing van dit besluit tot beslissen bevoegd gezag;  
 
-h. arbeidsduur, arbeidsduurfactor, vakantie: hetgeen daaronder wordt verstaan in het [ARAR](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of [ARSG](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);  
+h. arbeidsduur, arbeidsduurfactor, vakantie: hetgeen daaronder wordt verstaan in het ARAR of ARSG;  
 
 i. peildatum: de eerste dag van de maand waarin de ambtenaar op grond van dit besluit een aanvraag heeft ingediend;  
 
-j. salaris, salaris per uur, vakantie-uitkering: hetgeen daaronder wordt verstaan in het [BBRA 1984](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);  
+j. salaris, salaris per uur, vakantie-uitkering: hetgeen daaronder wordt verstaan in het BBRA 1984;  
 
 k. jaarsalaris: het salaris gedurende het kalenderjaar waarin van dit besluit gebruik wordt gemaakt;  
 
-l.bedrijfsfitness: bedrijfsfitness als bedoeld in [artikel 29 van de Uitvoeringsregeling loonbelasting 2001](../../../../ministeriele-regeling/uitvoeringsregeling/loonbelasting/2001/BWBR0012059/README.md), zoals dit op 31 december 2010 luidde. 
+l.bedrijfsfitness: bedrijfsfitness als bedoeld in artikel 29 van de Uitvoeringsregeling loonbelasting 2001, zoals dit op 31 december 2010 luidde. 
 
 ### Artikel  2  
 
@@ -62,9 +62,9 @@ b. voor zowel minder uren werken, bedoeld in artikel 4, als voor vermindering va
 2.  Per meer gewerkt uur ontvangt de ambtenaar een vergoeding die maandelijks wordt uitbetaald op basis van het gemiddelde aantal meer te werken uren per maand gedurende de periode dat de ambtenaar meer uren werkt.   
 3.  Het eerste lid is niet van toepassing op de ambtenaar: 
 
-a. wiens gemiddelde wekelijkse werktijd op grond van [artikel 21a van het ARAR](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of [artikel 34a van het ARSG](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) is teruggebracht;  
+a. wiens gemiddelde wekelijkse werktijd op grond van artikel 21a van het ARAR of artikel 34a van het ARSG is teruggebracht;  
 
-b. die op grond van [artikel 33g van het ARAR](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of [artikel 62a van het ARSG](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) ouderschapsverlof geniet;  
+b. die op grond van artikel 33g van het ARAR of artikel 62a van het ARSG ouderschapsverlof geniet;  
 
 c.  die buitengewoon verlof van lange duur geniet.    
 
@@ -113,13 +113,13 @@ f. openbaar vervoerbewijzen die mede voor het werk worden gebruikt;
 
 g. vakbondscontributies;  
 
-h. een aanvulling op de tegemoetkoming voor woon-werkverkeer bij of krachtens het [Verplaatsingskostenbesluit 1989](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) tot maximaal het verschil tussen het bedrag van de tegemoetkoming en het bedrag dat voor de in het zevende lid bedoelde kilometers belastingvrij mag worden vergoed.    
+h. een aanvulling op de tegemoetkoming voor woon-werkverkeer bij of krachtens het Verplaatsingskostenbesluit 1989 tot maximaal het verschil tussen het bedrag van de tegemoetkoming en het bedrag dat voor de in het zevende lid bedoelde kilometers belastingvrij mag worden vergoed.    
 3.  Van een aanspraak als genoemd in het eerste lid kan slechts worden afgezien als deze aanspraak nog niet tot uitbetaling is gekomen.   
 4.  Voor zover de fiscale bepalingen dit mogelijk maken kan de gevraagde belastingvrije vergoeding in een keer worden uitbetaald voorafgaande aan het moment waarop de ingezette aanspraken tot uitbetaling zouden zijn gekomen.   
 5.  De ambtenaar dient bij de in het eerste lid bedoelde aanvraag, maar uiterlijk binnen een maand na ontvangst van de belastingvrije vergoeding, bewijsstukken te overleggen waaruit blijkt dat de kosten waarvoor die vergoeding is verstrekt daadwerkelijk zijn gemaakt.   
 6.   In afwijking van het eerste lid, vergoedt het bevoegd gezag automatisch de belastingvrije bestemmingsmogelijkheid, genoemd in artikel 6, tweede lid, onderdeel h, en zet daartoe de eindejaarsuitkering, genoemd in artikel 6, eerste lid, onderdeel e, en indien nodig maximaal 10% van het jaarsalaris, genoemd in artikel 6, eerste lid, onderdeel a, in.   
 7.   Indien de ambtenaar geheel of gedeeltelijk afziet van de automatische vergoeding als bedoeld in artikel 6, zesde lid, dan meldt hij dit, voor 1 november van het kalenderjaar waarin wordt overgegaan tot uitkering van deze belastingvrije bestemmingsmogelijkheid bij het bevoegd gezag. De melding wordt gedaan op een door het bevoegd gezag aan te geven wijze.  
-8.  De in het tweede lid, onder h, genoemde vergoeding wordt gebaseerd op de kilometers berekend overeenkomstig [artikel 12, zesde lid, van de Verplaatsingskostenregeling 1989](../../../../ministeriele-regeling/verplaatsingskostenregeling/1989/BWBR0004633/README.md). De reisafstand, bedoeld in [artikel 11, vierde lid, van de Verplaatsingskostenregeling 1989](../../../../ministeriele-regeling/verplaatsingskostenregeling/1989/BWBR0004633/README.md) komt uitsluitend in aanmerking als deze meer dan een kilometer is. 
+8.  De in het tweede lid, onder h, genoemde vergoeding wordt gebaseerd op de kilometers berekend overeenkomstig artikel 12, zesde lid, van de Verplaatsingskostenregeling 1989. De reisafstand, bedoeld in artikel 11, vierde lid, van de Verplaatsingskostenregeling 1989 komt uitsluitend in aanmerking als deze meer dan een kilometer is. 
 
 ### Artikel  7  
 
@@ -142,11 +142,11 @@ b. verplaatsing naar een ander tot aanstellen bevoegd gezag binnen de sector Rij
 
 c. structurele wijziging van de arbeidsduur;  
 
-d. toepassing van [artikel 21a van het ARAR](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of [artikel 34a van het ARSG](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);  
+d. toepassing van artikel 21a van het ARAR of artikel 34a van het ARSG;  
 
-e. gedeeltelijk ontslag als bedoel in [artikel 94a, derde lid, van het ARAR](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of artikel [124a, derde lid, van het ARSG](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);  
+e. gedeeltelijk ontslag als bedoel in artikel 94a, derde lid, van het ARAR of artikel 124a, derde lid, van het ARSG;  
 
-f. ouderschapsverlof als bedoeld in [artikel 33g van het ARAR](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of [artikel 62a van het ARSG](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);  
+f. ouderschapsverlof als bedoeld in artikel 33g van het ARAR of artikel 62a van het ARSG;  
 
 g. buitengewoon verlof van lange duur,   wordt vastgesteld welke in het kader van dit besluit opgebouwde en in geldswaarde uit te drukken aanspraken en aangegane verplichtingen tussen het bevoegd gezag en de ambtenaar op dat moment bestaan. Indien van toepassing, vindt verrekening dan wel uitbetaling plaats.  
 3.  Indien een aanvraag voor meer of minder uren werken niet meer volledig binnen het kalenderjaar kan worden uitgevoerd, heeft een herberekening van de vergoeding of de inhouding plaats op basis van de daadwerkelijk meer of minder gewerkte uren.   
@@ -170,7 +170,7 @@ In geval van bijzondere omstandigheden waardoor een strikte toepassing van dit b
 
 ####Vervallen voorschriften
 
-Het [besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 juni 2001](../../../../ministeriele-regeling/regeling/bestedingsmogelijkheden/ambtenaren/voor/fiscaal/gefacilieerde/etc/BWBR0012540/README.md), nr. AD2001/U73347 (Stcrt. 120), zoals gewijzigd bij Besluit van 17 augustus 2001, nr. AD2001/U83002 (Stcrt. 161), vervalt. 
+Het besluit van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 7 juni 2001, nr. AD2001/U73347 (Stcrt. 120), zoals gewijzigd bij Besluit van 17 augustus 2001, nr. AD2001/U83002 (Stcrt. 161), vervalt. 
 
 ### Artikel  12  
 

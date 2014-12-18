@@ -6,7 +6,7 @@ Wij Willem-Alexander, bij de gratie Gods, Koning der Nederlanden, Prins van Oran
 
 Op de voordracht van de Staatssecretaris van Economische Zaken, Landbouw en Innovatie van 19 oktober 2012, nr. 291872, Directie Wetgeving en Juridische Zaken;
 
-Gelet op verordening (EG) nr. 1099/2009 van de Raad van 24 september 2009 inzake de bescherming van dieren bij het doden (PbEU 2009, L 303), verordening (EG) nr. 470/2009 van het Europees Parlement en de Raad van 6 mei 2009 tot vaststelling van communautaire procedures voor het vaststellen van grenswaarden voor residuen van farmacologisch werkzame stoffen in levensmiddelen van dierlijke oorsprong, tot intrekking van Verordening (EEG) nr. 2377/90 van de Raad en tot wijziging van Richtlijn 2001/82/EG van het Europees Parlement en de Raad en van Verordening (EG) nr. 726/2004 van het Europees Parlement en de Raad (PbEU 2009, L 152), richtlijn 2008/120/EG van de Raad van 18 december 2008 tot vaststelling van minimumnormen ter bescherming van varkens (Gecodificeerde versie; PbEU 2009, L 47), richtlijn 2008/119/EG van de Raad van 18 december 2008 tot vaststelling van minimumnormen ter bescherming van kalveren (Gecodificeerde versie; PbEU 2009, L 10); richtlijn 2007/43/EG van de Raad van 28 juni 2007 tot vaststelling van minimumvoorschriften voor de bescherming van vleeskuikens (PbEU 2007, L 182), richtlijn 2001/82/EG van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor diergeneeskundig gebruik (PbEG 2001, L 311), richtlijn 1999/74/EG van de Raad van 19 juli 1999 tot vaststelling van minimumnormen voor de bescherming van legkippen (PbEG 1999, L 203), richtlijn 1999/22/EG van de Raad van 29 maart 1999 betreffende het houden van wilde dieren in dierentuinen (PbEG 1999, L 94), richtlijn 98/58/EG van de Raad van 20 juli 1998 inzake de bescherming van voor landbouwdoeleinden gehouden dieren (PbEG 1998, L 221), richtlijn 96/22/EG van de Raad van 29 april 1996 betreffende het verbod op het gebruik, in de veehouderij, van bepaalde stoffen met hormonale werking en van bepaalde stoffen met thyreostatische werking, alsmede van ß-agonisten en tot intrekking van de richtlijnen 81/602/EEG, 88/146/EEG en 88/299/EEG (PbEG 1996, L 125), richtlijn 96/23/EG van de Raad van 29 april 1996 inzake controlemaatregelen ten aanzien van bepaalde stoffen en residuen daarvan in levende dieren en in produkten daarvan en tot intrekking van de richtlijnen 85/358/EEG en 86/469/EEG en de beschikkingen 89/187/EEG en 91/664//EE (PbEG 1996, L 12523), richtlijn 90/167/EEG van de Raad van 26 maart 1990 tot vaststelling van de voorwaarden voor de bereiding, het in de handel brengen en het gebruik van diervoeders met medicinale werking (PbEG 1990, L 092), de Europese Overeenkomst tot bescherming van kleine huisdieren (Trb. 1988, 1) en de [artikelen 2.1, derde en vijfde lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.2, tweede, derde, zevende, negende en tiende lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.3, tweede en vierde lid, onderdeel a](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.8, tweede en vierde lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.9, derde lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.10, eerste tot en met vierde lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [2.16, eerste lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [7.1](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [7.2, eerste lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md),[ 7.3, vijfde lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [7.5, vierde lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), [7.8, eerste lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), en [10.4, eerste lid, van de Wet dieren](../../../../../../wet/wet/dieren/BWBR0030250/README.md);
+Gelet op verordening (EG) nr. 1099/2009 van de Raad van 24 september 2009 inzake de bescherming van dieren bij het doden (PbEU 2009, L 303), verordening (EG) nr. 470/2009 van het Europees Parlement en de Raad van 6 mei 2009 tot vaststelling van communautaire procedures voor het vaststellen van grenswaarden voor residuen van farmacologisch werkzame stoffen in levensmiddelen van dierlijke oorsprong, tot intrekking van Verordening (EEG) nr. 2377/90 van de Raad en tot wijziging van Richtlijn 2001/82/EG van het Europees Parlement en de Raad en van Verordening (EG) nr. 726/2004 van het Europees Parlement en de Raad (PbEU 2009, L 152), richtlijn 2008/120/EG van de Raad van 18 december 2008 tot vaststelling van minimumnormen ter bescherming van varkens (Gecodificeerde versie; PbEU 2009, L 47), richtlijn 2008/119/EG van de Raad van 18 december 2008 tot vaststelling van minimumnormen ter bescherming van kalveren (Gecodificeerde versie; PbEU 2009, L 10); richtlijn 2007/43/EG van de Raad van 28 juni 2007 tot vaststelling van minimumvoorschriften voor de bescherming van vleeskuikens (PbEU 2007, L 182), richtlijn 2001/82/EG van het Europees Parlement en de Raad van 6 november 2001 tot vaststelling van een communautair wetboek betreffende geneesmiddelen voor diergeneeskundig gebruik (PbEG 2001, L 311), richtlijn 1999/74/EG van de Raad van 19 juli 1999 tot vaststelling van minimumnormen voor de bescherming van legkippen (PbEG 1999, L 203), richtlijn 1999/22/EG van de Raad van 29 maart 1999 betreffende het houden van wilde dieren in dierentuinen (PbEG 1999, L 94), richtlijn 98/58/EG van de Raad van 20 juli 1998 inzake de bescherming van voor landbouwdoeleinden gehouden dieren (PbEG 1998, L 221), richtlijn 96/22/EG van de Raad van 29 april 1996 betreffende het verbod op het gebruik, in de veehouderij, van bepaalde stoffen met hormonale werking en van bepaalde stoffen met thyreostatische werking, alsmede van ß-agonisten en tot intrekking van de richtlijnen 81/602/EEG, 88/146/EEG en 88/299/EEG (PbEG 1996, L 125), richtlijn 96/23/EG van de Raad van 29 april 1996 inzake controlemaatregelen ten aanzien van bepaalde stoffen en residuen daarvan in levende dieren en in produkten daarvan en tot intrekking van de richtlijnen 85/358/EEG en 86/469/EEG en de beschikkingen 89/187/EEG en 91/664//EE (PbEG 1996, L 12523), richtlijn 90/167/EEG van de Raad van 26 maart 1990 tot vaststelling van de voorwaarden voor de bereiding, het in de handel brengen en het gebruik van diervoeders met medicinale werking (PbEG 1990, L 092), de Europese Overeenkomst tot bescherming van kleine huisdieren (Trb. 1988, 1) en de artikelen 2.1, derde en vijfde lid, 2.2, tweede, derde, zevende, negende en tiende lid, 2.3, tweede en vierde lid, onderdeel a, 2.8, tweede en vierde lid, 2.9, derde lid, 2.10, eerste tot en met vierde lid, 2.16, eerste lid, 7.1, 7.2, eerste lid, 7.3, vijfde lid, 7.5, vierde lid, 7.8, eerste lid, en 10.4, eerste lid, van de Wet dieren;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 3 januari 2013, no. W15.12.0441/IV);
 
@@ -16,19 +16,13 @@ Hebben goedgevonden en verstaan:
 
 ####Algemeen
 
-Treedt in werking per 01-07-2014 
-
 ### §  1  
 
 ####Algemene bepalingen
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  1.1  
 
 ####Begripsbepalingen
-
-Treedt in werking per 01-07-2014 
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -46,25 +40,21 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 *verordening (EG) nr. 1099/2009:* verordening (EG) nr. 1099/2009 van de Raad van 24 september 2009 inzake de bescherming van dieren bij het doden (PbEU 2009, L 303);  
 
-*wet:* [Wet dieren](../../../../../../wet/wet/dieren/BWBR0030250/README.md);  
+*wet:* Wet dieren;  
 
 *zeug:* varken van het vrouwelijk geslacht na de worp van haar eerste biggen, kennelijk bestemd voor de fokkerij.   
 
 ### Artikel  1.2  
 
-####Verhouding met [Wet op de dierproeven](../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md)
+####Verhouding met Wet op de dierproeven
 
-Treedt in werking per 01-07-2014 
-
-Dit besluit is met uitzondering van de artikelen 1.19 en 1.20 niet van toepassing op dieren waarop de [Wet op de dierproeven](../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md) van toepassing is. 
+Dit besluit is met uitzondering van de artikelen 1.19 en 1.20 niet van toepassing op dieren waarop de Wet op de dierproeven van toepassing is. 
 
 ### Artikel  1.3  
 
 ####Verboden gedragingen ten aanzien van dieren
 
-Treedt in werking per 01-07-2014 
-
-Als gedragingen als bedoeld in [artikel 2.1, derde lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen: 
+Als gedragingen als bedoeld in artikel 2.1, derde lid, van de wet worden aangewezen: 
 
 a. het zich ontdoen van een dier;  
 
@@ -84,7 +74,7 @@ f. het zich vervoeren of verplaatsen, het zich laten vervoeren of laten verplaat
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-1.  De criteria, bedoeld in [artikel 2.2, tweede lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), zijn: 
+1.  De criteria, bedoeld in artikel 2.2, tweede lid, van de wet, zijn: 
 
 a. dieren: 
 
@@ -114,30 +104,24 @@ b. het houden van dieren van de desbetreffende diersoort of diercategorie:
 
 1° levert geen onaanvaardbare mate van gevaar op voor mens of dier,  
 
-2° is niet verboden bij [artikel 13](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), of [14, derde lid, van de Flora- en Faunawet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) in samenhang met [artikel 75 van die wet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md), of  
+2° is niet verboden bij artikel 13, of 14, derde lid, van de Flora- en Faunawet in samenhang met artikel 75 van die wet, of  
 
 3° levert gelet op de subonderdelen i tot en met ix van onderdeel a, onder 1°, geen onaanvaardbare aantasting op van het welzijn of de gezondheid van die dieren.       
-2.  Het verbod, bedoeld in [artikel 2.2, eerste lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), is uitsluitend van toepassing op zoogdieren.  
+2.  Het verbod, bedoeld in artikel 2.2, eerste lid, van de wet, is uitsluitend van toepassing op zoogdieren.  
 
 ### §  2  
 
 ####Algemene huisvestings- en verzorgingsnormen
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  1.5  
 
 ####Reikwijdte
-
-Treedt in werking per 01-07-2014 
 
 Deze paragraaf is van toepassing op zoogdieren, reptielen, amfibieën, vogels en vissen. 
 
 ### Artikel  1.6  
 
 ####Houden van dieren
-
-Treedt in werking per 01-07-2014 
 
 1.  De bewegingsvrijheid van een dier wordt niet op zodanige wijze beperkt dat het dier daardoor onnodig lijden of letsel wordt toegebracht.   
 2.  Een dier wordt voldoende ruimte gelaten voor zijn fysiologische en ethologische behoeften.   
@@ -147,8 +131,6 @@ Treedt in werking per 01-07-2014
 ### Artikel  1.7  
 
 ####Verzorgen van dieren
-
-Treedt in werking per 01-07-2014 
 
 Degene die een dier houdt, draagt er zorg voor dat een dier: 
 
@@ -170,8 +152,6 @@ g. voldoende verse lucht of zuurstof krijgt.
 
 ####Behuizing
 
-Treedt in werking per 01-07-2014 
-
 1.  Een ruimte waarin een dier wordt gehouden, wordt voldoende verlicht en verduisterd om aan de ethologische en fysiologische behoeften van het dier te voldoen.   
 2.  Behuizingen, waaronder begrepen de vloer, waarin een dier verblijft en inrichtingen voor de beschutting voor een dier zijn op zodanige wijze ontworpen, gebouwd en onderhouden dat bij de dieren geen letsel of pijn wordt veroorzaakt en bevatten geen scherpe randen of uitsteeksels waaraan het dier zich kan verwonden.   
 3.  In de ruimte waarin een dier wordt gehouden, worden geen materialen en, in voorkomend geval, bodemdekking gebruikt die ongeschikt of schadelijk zijn voor het dier.   
@@ -181,23 +161,17 @@ Treedt in werking per 01-07-2014
 
 ####Doden van dieren
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  1.9  
 
 ####Toepassingsbereik
 
-Treedt in werking per 01-07-2014 
-
-Als diercategorieën als bedoeld in [artikel 2.10, eerste lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen ganzen, honden en katten. 
+Als diercategorieën als bedoeld in artikel 2.10, eerste lid, van de wet worden aangewezen ganzen, honden en katten. 
 
 ### Artikel  1.10  
 
 ####Gevallen waarin dieren mogen worden gedood
 
-Treedt in werking per 01-07-2014 
-
-Als gevallen als bedoeld in [artikel 2.10, eerste lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen gevallen waarin: 
+Als gevallen als bedoeld in artikel 2.10, eerste lid, van de wet worden aangewezen gevallen waarin: 
 
 a. een dier wordt gedood ter beëindiging of voorkoming van onmiddellijk gevaar voor mens of dier;  
 
@@ -213,23 +187,17 @@ e. een dier wordt gedood vanwege niet te corrigeren gevaarlijke gedragskenmerken
 
 ####Reikwijdte
 
-Treedt in werking per 01-07-2014 
-
 De artikelen 1.12 tot en met 1.14 zijn van toepassing op zoogdieren, reptielen, amfibieën en vogels. 
 
 ### Artikel  1.12  
 
 ####Besparen vermijdbare vorm van pijn, spanning of lijden
 
-Treedt in werking per 01-07-2014 
-
 Bij het doden van dieren en daarmee verband houdende activiteiten wordt de dieren elke vermijdbare vorm van pijn, spanning of lijden bespaard. 
 
 ### Artikel  1.13  
 
 ####Methoden
-
-Treedt in werking per 01-07-2014 
 
 1.  Een dier wordt gedood door middel van een methode die waarborgt dat de dood onmiddellijk of na bedwelming, maar vóórdat de bewusteloosheid is geweken, intreedt.   
 2.  In afwijking van het eerste lid behoeft een dier niet te worden bedwelmd indien een dier moet worden gedood: 
@@ -242,8 +210,6 @@ b. ter beëindiging van ondraaglijk lijden van het dier.
 
 ####Kennis
 
-Treedt in werking per 01-07-2014 
-
 1.  Het doden van dieren en daarmee verband houdende activiteiten worden uitgevoerd door personen die aantoonbaar de nodige kennis en vaardigheden bezitten om de taken humaan en doeltreffend uit te voeren.   
 2.  Bij ministeriële regeling kunnen voor de daarin te onderscheiden diersoorten of categorieën dieren nadere regels worden gesteld ten aanzien van de in het eerste lid bedoelde kennis en vaardigheden.  
 
@@ -251,13 +217,9 @@ Treedt in werking per 01-07-2014
 
 ####Voortplantingstechnieken
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  1.15  
 
 ####Begripsbepalingen
-
-Treedt in werking per 01-07-2014 
 
 In deze paragraaf wordt verstaan onder: 
 
@@ -269,15 +231,11 @@ In deze paragraaf wordt verstaan onder:
 
 ####Reikwijdte
 
-Treedt in werking per 01-07-2014 
-
 Deze paragraaf is van toepassing op zoogdieren, reptielen, vissen, amfibieën en vogels. 
 
 ### Artikel  1.17  
 
 ####Voortplantingstechnieken
-
-Treedt in werking per 01-07-2014 
 
 1.  Voortplantingstechnieken worden toegepast op zodanige wijze dat bij het dier niet onnodig pijn, letsel, stress of ander ongerief wordt veroorzaakt.   
 2.  Het is verboden sperma te winnen door middel van elektrische prikkeling.   
@@ -287,31 +245,23 @@ Treedt in werking per 01-07-2014
 
 ####Overige bepalingen
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  1.18  
 
 ####Verbod gebruik van levend aas
 
-Treedt in werking per 01-07-2014 
-
-Het is verboden bij het vissen in de wateren, bedoeld in [artikel 1, vierde lid, onderdelen c en d, van de Visserijwet 1963](../../../../../../wet/visserijwet/1963/BWBR0002416/README.md), levende vissen, amfibieën, reptielen, vogels of zoogdieren als aas te gebruiken. 
+Het is verboden bij het vissen in de wateren, bedoeld in artikel 1, vierde lid, onderdelen c en d, van de Visserijwet 1963, levende vissen, amfibieën, reptielen, vogels of zoogdieren als aas te gebruiken. 
 
 ### Artikel  1.19  
 
 ####Reikwijdte scheiden dieren van ouderdier
 
-Treedt in werking per 01-07-2014 
-
-Als diercategorieën als bedoeld in [artikel 2.2, zevende lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen honden, katten, konijnen, papegaaiachtigen, apen behorende tot de soort van de Chimpansee, de Rhesus-aap, de Beermakaak, de Java-aap, de Marmoset, de Doeroecoeli of de Doodshoofdaap en varkens. 
+Als diercategorieën als bedoeld in artikel 2.2, zevende lid, van de wet worden aangewezen honden, katten, konijnen, papegaaiachtigen, apen behorende tot de soort van de Chimpansee, de Rhesus-aap, de Beermakaak, de Java-aap, de Marmoset, de Doeroecoeli of de Doodshoofdaap en varkens. 
 
 ### Artikel  1.20  
 
 ####Scheiden van honden, katten, konijnen, papegaaiachtigen, apen en varkens
 
-Treedt in werking per 01-07-2014 
-
-1.  De leeftijd, bedoeld in [artikel 2.2, zevende lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), is voor: 
+1.  De leeftijd, bedoeld in artikel 2.2, zevende lid, van de wet, is voor: 
 
 a. honden: 7 weken;  
 
@@ -336,7 +286,7 @@ j. Doeroecoeli’s: 1,5 jaar;
 k. Doodshoofdapen: 9 maanden;  
 
 l. varkens: 28 dagen.     
-2.  Indien de dieren onmiddellijk na het scheiden worden ondergebracht in groepen met soortgenoten of indien het konijnen betreft op het geboortebedrijf verblijven totdat zij ten minste de leeftijd, bedoeld in het eerste lid, hebben bereikt, is de leeftijd, bedoeld in [artikel 2.2, zevende lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), in afwijking van het eerste lid, voor: 
+2.  Indien de dieren onmiddellijk na het scheiden worden ondergebracht in groepen met soortgenoten of indien het konijnen betreft op het geboortebedrijf verblijven totdat zij ten minste de leeftijd, bedoeld in het eerste lid, hebben bereikt, is de leeftijd, bedoeld in artikel 2.2, zevende lid, van de wet, in afwijking van het eerste lid, voor: 
 
 a. konijnen: 4 weken;  
 
@@ -353,32 +303,26 @@ f. Marmosets: 8 maanden;
 g. Doeroecoeli’s: 1 jaar;  
 
 h. Doodshoofdapen: 7 maanden.     
-3.  In afwijking van het eerste lid, is de leeftijd, bedoeld in [artikel 2.2, zevende lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), voor varkens 21 dagen, indien de biggen naar gespecialiseerde voorzieningen worden gebracht die: 
+3.  In afwijking van het eerste lid, is de leeftijd, bedoeld in artikel 2.2, zevende lid, van de wet, voor varkens 21 dagen, indien de biggen naar gespecialiseerde voorzieningen worden gebracht die: 
 
 a. volledig worden leeggemaakt en grondig zijn gereinigd en ontsmet voordat een nieuwe groep biggen is binnengebracht, en  
 
 b. gescheiden zijn van de voorzieningen waar zeugen zijn gehouden om het overdragen van ziekten op de biggen zo veel mogelijk te beperken.     
-4.  [Artikel 2.2, zevende lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), is niet van toepassing indien de houder aannemelijk kan maken dat het scheiden van een dier van het ouderdier noodzakelijk is met het oog op de gezondheid en het welzijn van het dier of het ouderdier.  
+4.  Artikel 2.2, zevende lid, van de wet, is niet van toepassing indien de houder aannemelijk kan maken dat het scheiden van een dier van het ouderdier noodzakelijk is met het oog op de gezondheid en het welzijn van het dier of het ouderdier.  
 
 ### §  6  
 
 ####Diergeneeskundige handelingen en diergeneesmiddelen
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  1.21  
 
 ####Verrichten van ingrepen door de houder
 
-Treedt in werking per 01-07-2014 
-
-Als diergeneeskundige handeling als bedoeld in [artikel 2.9, derde lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) wordt aangewezen het door de houder van een dier bij dat dier toepassen van een diergeneesmiddel waarvan toepassing krachtens [artikel 2.19, derde lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) aan die houder is toegestaan, waaronder begrepen het verrichten van een lichamelijke ingreep, indien die ingreep onderdeel uitmaakt van de voor dat diergeneesmiddel voorgeschreven toedieningswijze, voor zover de toediening subcutaan of intramusculair plaatsvindt en de handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden. 
+Als diergeneeskundige handeling als bedoeld in artikel 2.9, derde lid, van de wet wordt aangewezen het door de houder van een dier bij dat dier toepassen van een diergeneesmiddel waarvan toepassing krachtens artikel 2.19, derde lid, van de wet aan die houder is toegestaan, waaronder begrepen het verrichten van een lichamelijke ingreep, indien die ingreep onderdeel uitmaakt van de voor dat diergeneesmiddel voorgeschreven toedieningswijze, voor zover de toediening subcutaan of intramusculair plaatsvindt en de handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden. 
 
 ### Artikel  1.22  
 
 ####Voorhanden of in voorraad hebben van diergeneesmiddelen
-
-Treedt in werking per 01-07-2014 
 
 1.  Het is een houder van een dier verboden om een diergeneesmiddel of een diervoeder met medicinale werking op of in de nabijheid van de ruimte of het terrein waar dieren worden gehouden danwel zijn bedrijf aanwezig te doen zijn, indien toepassing van dit diergeneesmiddel bij de aanwezige dieren of het voederen van het diervoeder met medicinale werking aan deze dieren niet is toegestaan volgens de informatie die krachtens wettelijk voorschrift of verordening (EG) nr. 726/2004 van het Europees Parlement en de Raad van 31 maart 2004 tot vaststelling van communautaire procedures voor het verlenen van vergunningen en het toezicht op geneesmiddelen voor menselijk en diergeneeskundig gebruik en tot oprichting van een Europees Geneesmiddelenbureau (PbEU 2004, L 136), is aangebracht op de verpakking van het diergeneesmiddel of diervoeder met medicinale werking of bij deze verpakking is gevoegd.   
 2.  Bij ministeriële regeling kunnen regels worden gesteld: 
@@ -391,69 +335,51 @@ b. over het bewaren en de te bewaren hoeveelheid van een diergeneesmiddel of die
 
 ####Bevoegdheid houders van dieren
 
-Treedt in werking per 01-07-2014 
-
-1.  Een houder van een dier past geen diergeneesmiddelen of diervoeders met medicinale werking toe, indien volgens de informatie die krachtens wettelijk voorschrift of verordening (EG) nr. 726/2004 van het Europees Parlement en de Raad van 31 maart 2004 tot vaststelling van communautaire procedures voor het verlenen van vergunningen en het toezicht op geneesmiddelen voor menselijk en diergeneeskundig gebruik en tot oprichting van een Europees Geneesmiddelenbureau (PbEU 2004, L 136), is aangebracht op de verpakking van het diergeneesmiddel of het diervoeder met medicinale werking danwel bij deze verpakking is gevoegd, die toepassing aan een dierenarts of aan een andere persoon als bedoeld in [artikel 4.1, eerste en vijfde lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) is voorbehouden.   
-2.  In afwijking van het eerste lid kan een dierenarts een diergeneesmiddel als bedoeld in de [artikelen 5.1, eerste lid](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md), of [5.2, eerste lid, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md) dat aan een dierenarts of een arts is voorbehouden, met toepassing van de artikelen 5.1, derde lid, of 5.2, derde lid, van het Besluit diergeneeskundigen door de houder van het dier laten toepassen, met uitzondering van diergeneesmiddelen die substanties met hormonale werking, thyreostatische werking of ß-agonisten bevatten als bedoeld in bijlagen II en III bij richtlijn 96/22/EG van de Raad van 29 april 1996 betreffende het verbod op gebruik, in de veehouderij, van bepaalde stoffen met hormonale werking en van bepaalde stoffen met thyreostatische werking alsmede van ß-agonisten en tot intrekking van de richtlijnen 81/602/EEG, 88/146/EEG (PbEG 1996, L 125), tenzij daarin bij die richtlijn is voorzien.   
-3.  In afwijking van het eerste lid kan een houder van dieren een diergeneesmiddel toepassen in de gevallen die zijn aangewezen krachtens [artikel 5.8, eerste lid, onderdelen a en c, van het Besluit diergeneesmiddelen](../../../../../../AMvB/besluit/diergeneesmiddelen/BWBR0032386/README.md).  
+1.  Een houder van een dier past geen diergeneesmiddelen of diervoeders met medicinale werking toe, indien volgens de informatie die krachtens wettelijk voorschrift of verordening (EG) nr. 726/2004 van het Europees Parlement en de Raad van 31 maart 2004 tot vaststelling van communautaire procedures voor het verlenen van vergunningen en het toezicht op geneesmiddelen voor menselijk en diergeneeskundig gebruik en tot oprichting van een Europees Geneesmiddelenbureau (PbEU 2004, L 136), is aangebracht op de verpakking van het diergeneesmiddel of het diervoeder met medicinale werking danwel bij deze verpakking is gevoegd, die toepassing aan een dierenarts of aan een andere persoon als bedoeld in artikel 4.1, eerste en vijfde lid, van de wet is voorbehouden.   
+2.  In afwijking van het eerste lid kan een dierenarts een diergeneesmiddel als bedoeld in de artikelen 5.1, eerste lid, of 5.2, eerste lid, van het Besluit diergeneeskundigen dat aan een dierenarts of een arts is voorbehouden, met toepassing van de artikelen 5.1, derde lid, of 5.2, derde lid, van het Besluit diergeneeskundigen door de houder van het dier laten toepassen, met uitzondering van diergeneesmiddelen die substanties met hormonale werking, thyreostatische werking of ß-agonisten bevatten als bedoeld in bijlagen II en III bij richtlijn 96/22/EG van de Raad van 29 april 1996 betreffende het verbod op gebruik, in de veehouderij, van bepaalde stoffen met hormonale werking en van bepaalde stoffen met thyreostatische werking alsmede van ß-agonisten en tot intrekking van de richtlijnen 81/602/EEG, 88/146/EEG (PbEG 1996, L 125), tenzij daarin bij die richtlijn is voorzien.   
+3.  In afwijking van het eerste lid kan een houder van dieren een diergeneesmiddel toepassen in de gevallen die zijn aangewezen krachtens artikel 5.8, eerste lid, onderdelen a en c, van het Besluit diergeneesmiddelen.  
 
 ### Artikel  1.24  
 
 ####Nadere aanwijzingen door de dierenarts
 
-Treedt in werking per 01-07-2014 
-
 1.  Een houder van een dier volgt bij de uitvoering van voorschriften in een bijsluiter of op het etiket van een diergeneesmiddel of diervoeder met medicinale werking de nadere aanwijzingen op die een dierenarts in het recept voor dat diergeneesmiddel of diervoeder met medicinale werking heeft gegeven.   
-2.  Wanneer de nadere aanwijzingen in een recept betrekking hebben op een diergeneesmiddel dat met toepassing van de [artikelen 5.1](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md) of [5.2 van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md) is voorgeschreven, volgt de houder van dieren de nadere aanwijzingen, bedoeld in het eerste lid, op ook als deze afwijken van de bijsluiter of het etiket bij het diergeneesmiddel.  
+2.  Wanneer de nadere aanwijzingen in een recept betrekking hebben op een diergeneesmiddel dat met toepassing van de artikelen 5.1 of 5.2 van het Besluit diergeneeskundigen is voorgeschreven, volgt de houder van dieren de nadere aanwijzingen, bedoeld in het eerste lid, op ook als deze afwijken van de bijsluiter of het etiket bij het diergeneesmiddel.  
 
 ### Artikel  1.25  
 
 ####Administratie diergeneesmiddelen door houders van dieren
 
-Treedt in werking per 01-07-2014 
-
 1.  Bij ministeriële regeling kunnen regels worden gesteld voor de administratie van de ontvangst en toepassing van diergeneesmiddelen en diervoeders met medicinale werking door de houder van een dier en over het administreren van gegevens inzake het zich ontdoen van resten en lege verpakkingen van diergeneesmiddelen en diervoeders met medicinale werking.   
-2.  De regels, bedoeld in het eerste lid, kunnen betrekking hebben op het invoeren van gegevens inzake het toepassen van diergeneesmiddelen en diervoeders met medicinale werking in een gecentraliseerd registratiesysteem of een centrale administratie als bedoeld in de [artikelen 2.21, derde lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), of 2.21a, eerste lid, van de wet.  
+2.  De regels, bedoeld in het eerste lid, kunnen betrekking hebben op het invoeren van gegevens inzake het toepassen van diergeneesmiddelen en diervoeders met medicinale werking in een gecentraliseerd registratiesysteem of een centrale administratie als bedoeld in de artikelen 2.21, derde lid, of 2.21a, eerste lid, van de wet.  
 
 ### Artikel  1.26  
 
 ####Gevoeligheidsbepaling bij toepassing aangewezen diergeneesmiddelen
 
-Treedt in werking per 01-07-2014 
-
-Het is degen die een dier houdt verboden de diergeneesmiddelen, bedoeld in [artikel 5.7, het eerste lid, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md) toe te passen, indien uit de in dat lid bedoelde gevoeligheidsbepaling blijkt dat andere diergeneesmiddelen toepasbaar zijn. 
+Het is degen die een dier houdt verboden de diergeneesmiddelen, bedoeld in artikel 5.7, het eerste lid, van het Besluit diergeneeskundigen toe te passen, indien uit de in dat lid bedoelde gevoeligheidsbepaling blijkt dat andere diergeneesmiddelen toepasbaar zijn. 
 
 ### Hoofdstuk  2  
 
 ####Houden van dieren voor landbouwdoeleinden
 
-Treedt in werking per 01-07-2014 
-
 ### §  1  
 
 ####Algemeen
-
-Treedt in werking per 01-07-2014 
 
 ### Artikel  2.1  
 
 ####Aanwijzing productiedieren
 
-Treedt in werking per 01-07-2014 
-
-Als diersoorten of diercategorieën als bedoeld in [artikel 2.3, tweede lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen de diersoorten en diercategorieën die worden genoemd in bijlage II bij dit besluit. 
+Als diersoorten of diercategorieën als bedoeld in artikel 2.3, tweede lid, van de wet worden aangewezen de diersoorten en diercategorieën die worden genoemd in bijlage II bij dit besluit. 
 
 ### §  2  
 
 ####Algemene huisvestings- en verzorgingsnormen
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  2.2  
 
 ####Reikwijdte
-
-Treedt in werking per 01-07-2014 
 
 Deze paragraaf en de artikelen 2.9 en 2.10 zijn van toepassing op dieren die met het oog op de productie van producten, afkomstig van die dieren of voor andere landbouwdoeleinden worden gefokt of gehouden, met uitzondering van vissen, reptielen, amfibieën en ongewervelde dieren. 
 
@@ -461,15 +387,11 @@ Deze paragraaf en de artikelen 2.9 en 2.10 zijn van toepassing op dieren die met
 
 ####Houden van productiedieren
 
-Treedt in werking per 01-07-2014 
-
 Wanneer een dier permanent of geregeld wordt aangebonden, vastgeketend of geïmmobiliseerd, wordt het voldoende ruimte gelaten voor zijn fysiologische en ethologische behoeften. 
 
 ### Artikel  2.4  
 
 ####Verzorging van productiedieren
-
-Treedt in werking per 01-07-2014 
 
 1.  Een dier wordt verzorgd door een voldoende aantal vakbekwame personen.   
 2.  Een dier dat wordt gehouden in een veehouderijsysteem waar zijn welzijn afhangt van frequente verzorging door de mens, wordt ten minste eenmaal per dag gecontroleerd.   
@@ -482,8 +404,6 @@ Treedt in werking per 01-07-2014
 ### Artikel  2.5  
 
 ####Verlichting en ventilatie
-
-Treedt in werking per 01-07-2014 
 
 1.  Onverminderd artikel 1.8, eerste lid, wordt een dier niet permanent in het duister of in kunstlicht gehouden zonder dat dit voor een passende periode wordt uitgeschakeld en is, indien het beschikbare natuurlijke licht niet voldoende is voor de ethologische en fysiologische behoeften van het dier, in de ruimte waarin het dier wordt gehouden geschikt kunstlicht aanwezig.   
 2.  In een ruimte waarin dieren worden gehouden is voldoende verlichting aanwezig voor een grondige controle van die dieren op elk willekeurig tijdstip.   
@@ -499,29 +419,21 @@ Treedt in werking per 01-07-2014
 
 ####Diergeneeskundige handelingen en diergeneesmiddelen
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  2.6  
 
 ####Verrichten van ingrepen door de houder
 
-Treedt in werking per 01-07-2014 
-
-Als handeling als bedoeld in [artikel 2.9, derde lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) wordt aangewezen het door de houder van het dier verrichten van de ingreep, bedoeld in [artikel 2.5, onderdeel d, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md). 
+Als handeling als bedoeld in artikel 2.9, derde lid, van de wet wordt aangewezen het door de houder van het dier verrichten van de ingreep, bedoeld in artikel 2.5, onderdeel d, van het Besluit diergeneeskundigen. 
 
 ### Artikel  2.7  
 
 ####Te verstrekken inlichtingen
 
-Treedt in werking per 01-07-2014 
-
-De houder van een dier dat voor de productie van levensmiddelen bestemd is, verstrekt, onverminderd [artikel 8.4, tweede lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), aan de door Onze Minister krachtens de [artikelen 8.1, eerste lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), en[ 8.14, eerste lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) aangewezen ambtenaren en de dierenarts verbonden aan de Nederlandse Voedsel- en Warenautoriteit desgevraagd alle inlichtingen over het voorschrijven van diergeneesmiddelen en het uitvoeren van behandelingen met diergeneesmiddelen bij dieren die voor de productie van levensmiddelen zijn bestemd. 
+De houder van een dier dat voor de productie van levensmiddelen bestemd is, verstrekt, onverminderd artikel 8.4, tweede lid, van de wet, aan de door Onze Minister krachtens de artikelen 8.1, eerste lid, en 8.14, eerste lid, van de wet aangewezen ambtenaren en de dierenarts verbonden aan de Nederlandse Voedsel- en Warenautoriteit desgevraagd alle inlichtingen over het voorschrijven van diergeneesmiddelen en het uitvoeren van behandelingen met diergeneesmiddelen bij dieren die voor de productie van levensmiddelen zijn bestemd. 
 
 ### Artikel  2.8  
 
 ####Verbod afleveren met diergeneesmiddelen behandelde dieren
-
-Treedt in werking per 01-07-2014 
 
 1.  Het is verboden een dier te verkopen, voor de verkoop aan te bieden, in de handel te brengen of af te leveren voor de slacht als voedselproducerend dier als bedoeld in artikel 2, onderdeel b, van Verordening (EG) nr. 470/2009 van het Europees Parlement en de Raad van 6 mei 2009 tot vaststelling van communautaire procedures voor het vaststellen van grenswaarden voor residuen van farmacologisch werkzame stoffen in levensmiddelen van dierlijke oorsprong, tot intrekking van Verordening (EEG) nr. 2377/90 van de Raad en tot wijziging van Richtlijn 2001/82/EG van het Europees Parlement en de Raad en van Verordening (EG) nr. 726/2004 van het Europees Parlement en de Raad (PbEU 2009, L 152), indien het vlees van het dier een farmacologisch actieve werkzame stof bevat: 
 
@@ -534,30 +446,22 @@ b. waarvoor een actiedrempel als bedoeld in artikel 1, eerste lid, onderdeel b,
 
 ####Toediening stoffen
 
-Treedt in werking per 01-07-2014 
-
-Onverminderd het bepaalde bij of krachtens [artikel 2.19, derde lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), worden geen stoffen aan een dier toegediend, behalve stoffen voor therapeutische of profylactische doeleinden, dan wel zoötechnische behandeling als bedoeld in artikel 1, tweede lid, onderdeel c, van richtlijn 96/22/EG van de Raad van 29 april 1996 betreffende het verbod op gebruik, in de veehouderij, van bepaalde stoffen met hormonale werking en van bepaalde stoffen met thyreostatische werking alsmede van ß-agonisten en tot intrekking van de richtlijnen 81/602/EEG, 88/146/EEG (PbEG 1996, L 125), tenzij uit wetenschappelijke studies naar het welzijn van dieren of uit ervaring is gebleken dat de stof niet schadelijk is voor de gezondheid of het welzijn van het dier. 
+Onverminderd het bepaalde bij of krachtens artikel 2.19, derde lid, van de wet, worden geen stoffen aan een dier toegediend, behalve stoffen voor therapeutische of profylactische doeleinden, dan wel zoötechnische behandeling als bedoeld in artikel 1, tweede lid, onderdeel c, van richtlijn 96/22/EG van de Raad van 29 april 1996 betreffende het verbod op gebruik, in de veehouderij, van bepaalde stoffen met hormonale werking en van bepaalde stoffen met thyreostatische werking alsmede van ß-agonisten en tot intrekking van de richtlijnen 81/602/EEG, 88/146/EEG (PbEG 1996, L 125), tenzij uit wetenschappelijke studies naar het welzijn van dieren of uit ervaring is gebleken dat de stof niet schadelijk is voor de gezondheid of het welzijn van het dier. 
 
 ### Artikel  2.10  
 
 ####Bijhouden van gegevens
 
-Treedt in werking per 01-07-2014 
-
-1.  Onverminderd artikel 1.25 en het overigens krachtens de [artikelen 2.2, negende of tiende lid](../../../../../../wet/wet/dieren/BWBR0030250/README.md), en [2.19 van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) bepaalde wordt door de houder van een dier een register bijgehouden van de verstrekte medische zorg en het bij iedere controle geconstateerde aantal sterfgevallen.   
+1.  Onverminderd artikel 1.25 en het overigens krachtens de artikelen 2.2, negende of tiende lid, en 2.19 van de wet bepaalde wordt door de houder van een dier een register bijgehouden van de verstrekte medische zorg en het bij iedere controle geconstateerde aantal sterfgevallen.   
 2.  De gegevens, bedoeld in het eerste lid, worden ten minste drie jaar door de houder bewaard.  
 
 ### §  4  
 
 ####Houden van varkens voor productie
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  2.11  
 
 ####Begripsbepalingen
-
-Treedt in werking per 01-07-2014 
 
 In deze paragraaf wordt verstaan onder: 
 
@@ -581,21 +485,17 @@ In deze paragraaf wordt verstaan onder:
 
 ####Verrichten van ingrepen door de houder
 
-Treedt in werking per 01-07-2014 
+Als handelingen als bedoeld in artikel 2.9, derde lid, van de wet worden aangewezen het door de houder van het varken: 
 
-Als handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen het door de houder van het varken: 
+a. verrichten van de ingreep, bedoeld in artikel 2.3, onderdeel a, van het Besluit diergeneeskundigen, mits het dier niet ouder is dan zeven dagen;  
 
-a. verrichten van de ingreep, bedoeld in [artikel 2.3, onderdeel a, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md), mits het dier niet ouder is dan zeven dagen;  
+b. verrichten van ingrepen als bedoeld in de artikelen 2.3, onderdelen b en d, en 2.6, onderdelen a tot en met c, l en m, van het Besluit diergeneeskundigen;  
 
-b. verrichten van ingrepen als bedoeld in de [artikelen 2.3, onderdelen b en d](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md), en [2.6, onderdelen a tot en met c, l en m, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md);  
-
-c. verrichten van de ingreep, bedoeld in [artikel 2.3, onderdeel c, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md), mits dit geschiedt met betrekking tot een bepaald dier op aanwijzing van een praktiserende dierenarts.   
+c. verrichten van de ingreep, bedoeld in artikel 2.3, onderdeel c, van het Besluit diergeneeskundigen, mits dit geschiedt met betrekking tot een bepaald dier op aanwijzing van een praktiserende dierenarts.   
 
 ### Artikel  2.13  
 
 ####Houden in groepen
-
-Treedt in werking per 01-07-2014 
 
 1.  Gespeende varkens, gebruiksvarkens, gelten en zeugen worden in afzonderlijke groepen gehouden.   
 2.  Een groep gespeende varkens wordt uiterlijk één week na het spenen gevormd.   
@@ -606,16 +506,12 @@ Treedt in werking per 01-07-2014
 
 ####Agressie
 
-Treedt in werking per 01-07-2014 
-
 1.  Er worden maatregelen getroffen om de agressie in groepen zoveel mogelijk te beperken, waaronder in ieder geval het verstrekken van stro of ander materiaal aan gespeende varkens en gebruiksvarkens.   
 2.  Bij tekenen van ernstige gevechten tussen varkens vindt onmiddellijk onderzoek plaats naar de oorzaken daarvan.  
 
 ### Artikel  2.15  
 
 ####Tijdelijke afzondering
-
-Treedt in werking per 01-07-2014 
 
 1.  In afwijking van artikel 2.13, eerste lid, is het toegestaan: 
 
@@ -646,8 +542,6 @@ d. varkens tijdelijk af te zonderen van de groep indien de varkens buitengewoon 
 
 ####Algemene eisen stalinrichting
 
-Treedt in werking per 01-07-2014 
-
 Stallen waarin varkens worden gehouden zijn op zodanige wijze ingericht dat de varkens: 
 
 a. toegang hebben tot een schone en comfortabele ruimte met een adequate waterafvoer, waar alle varkens tegelijk kunnen liggen;  
@@ -659,8 +553,6 @@ c. andere varkens kunnen zien.
 ### Artikel  2.17  
 
 ####Beschikbaar oppervlak
-
-Treedt in werking per 01-07-2014 
 
 1.  De voor de varkens beschikbare oppervlakte van een stal bestemd voor gelten na dekking of zeugen zonder biggen, die in een groep worden gehouden, bedraagt per gelt of zeug ten minste 2,25 m<sup>2</sup>.   
 2.  De voor de varkens beschikbare oppervlakte van een stal bestemd voor gespeende varkens, gebruiksvarkens en niet in een groep gehouden gelten of zeugen bedraagt per varken met een gemiddeld gewicht ten minste: 
@@ -687,8 +579,6 @@ b. kan per gelt of zeug met 10% worden verkleind indien deze dieren in groepen v
 
 ####Vloeren
 
-Treedt in werking per 01-07-2014 
-
 1.  De voor de varkens beschikbare vloer van een stal bestaat niet geheel uit roostervloer, tenzij de vloer is bestemd voor gespeende varkens of zogende zeugen met biggen en niet is vervaardigd van beton.   
 2.  Indien de vloer van de in artikel 2.17, eerste lid, bedoelde stal gedeeltelijk uit roostervloer bestaat, bedraagt de oppervlakte van het dichte deel van de voor gelten of zeugen zonder biggen beschikbare vloer per gelt of zeug ten minste 1,3 m<sup>2</sup>.   
 3.  Indien de vloer van de in artikel 2.17, tweede lid, bedoelde stal gedeeltelijk uit roostervloer bestaat, bedraagt de oppervlakte van het dichte deel van de vloer per varken ten minste 40% van de ingevolge artikel 2.17 voorgeschreven beschikbare oppervlakte per varken.   
@@ -714,8 +604,6 @@ b. de breedte van gierdoorlatende spleten ten hoogste 10 mm en de doorsnede van
 
 ####Gelten en zeugen
 
-Treedt in werking per 01-07-2014 
-
 1.  Gelten en zeugen worden niet aangebonden gehouden.   
 2.  De zijden van de stal waarin een groep gelten en zeugen wordt gehouden, zijn langer dan 2,8 meter. Indien minder dan zes gelten of zeugen in een groep worden gehouden, zijn de zijden van de stal waarin deze groep wordt gehouden langer dan 2,4 meter.   
 3.  In een stal waarin gelten of zeugen zonder biggen in voerligboxen worden gehouden, heeft elk varken de beschikking over een vrije ruimte met een lengte van ten minste 2 meter.   
@@ -726,8 +614,6 @@ Treedt in werking per 01-07-2014
 ### Artikel  2.20  
 
 ####Beren
-
-Treedt in werking per 01-07-2014 
 
 1.  Een beer wordt op zodanige wijze gehuisvest dat hij zich kan omdraaien en andere varkens kan horen, ruiken en zien.   
 2.  De beschikbare oppervlakte in een stal bestemd voor een beer bedraagt ten minste: 
@@ -744,8 +630,6 @@ d. ingeval de stal tevens voor het dekken wordt gebruikt: 10 m<sup>2</sup>.
 ### Artikel  2.21  
 
 ####Roostervloeren
-
-Treedt in werking per 01-07-2014 
 
 1.  De spleetbreedte tussen de roosterbalken van een roostervloer is over de gehele oppervlakte van de roostervloer gelijk en bedraagt bij stallen bestemd voor: 
 
@@ -766,8 +650,6 @@ b. gebruiksvarkens, gelten na dekking en zeugen: ten minste 80 mm.
 
 ####Verrijking en vloerbedekking
 
-Treedt in werking per 01-07-2014 
-
 1.  Varkens beschikken permanent over voldoende materiaal om te onderzoeken en mee te spelen, bestaande uit stro, hooi, hout, zaagsel, compost van champignons, turf of een mengsel daarvan, of ander geschikt materiaal, voor zover de gezondheid van de dieren daardoor niet in gevaar komt.   
 2.  Zeugen en gelten beschikken in de laatste week voor het werpen over voldoende en adequaat nestmateriaal, tenzij dit in verband met de op het bedrijf gebruikte mengmestmethode technisch niet uitvoerbaar is.   
 3.  Het dichte deel van de vloer van een stal bestemd voor een beer of een zogende zeug met biggen is voorzien van strooisel als bedoeld in het eerste lid dan wel, voor wat betreft een zogende zeug met biggen, bedekt met een rubber mat.   
@@ -777,8 +659,6 @@ Treedt in werking per 01-07-2014
 
 ####Lichtintensiteit en geluidsniveau
 
-Treedt in werking per 01-07-2014 
-
 1.  De lichtintensiteit in een stal bestemd voor varkens bedraagt verticaal op dierhoogte gemeten ten minste 40 lux gedurende ten minste 8 uur per dag.   
 2.  In een stal bestemd voor varkens wordt een continue geluidsniveau van 85 dBA of hoger alsmede constant of plotseling lawaai vermeden.  
 
@@ -786,23 +666,17 @@ Treedt in werking per 01-07-2014
 
 ####Parasietbehandeling en schoonmaak
 
-Treedt in werking per 01-07-2014 
-
 Drachtige zeugen en gelten worden zo nodig tegen uitwendige en inwendige parasieten behandeld en worden voordat zij in het kraamhok worden gebracht grondig schoongemaakt. 
 
 ### Artikel  2.25  
 
 ####Voedersysteem
 
-Treedt in werking per 01-07-2014 
-
 Indien varkens in een groep worden gehouden en niet ad libitum of via een automatisch individueel voedersysteem worden gevoederd, is de lengte van de rechte trog zodanig dat alle varkens tegelijkertijd kunnen eten. De lengte van de rechte trog bedraagt ten minste 0,30 m per geslachtsrijp varken. 
 
 ### Artikel  2.26  
 
 ####Voederen
-
-Treedt in werking per 01-07-2014 
 
 1.  Varkens worden ten minste eenmaal per dag gevoederd.   
 2.  Varkens ouder dan twee weken beschikken permanent over voldoende vers water.   
@@ -812,29 +686,23 @@ Treedt in werking per 01-07-2014
 
 ####Invoer vanuit derde land
 
-Treedt in werking per 01-07-2014 
-
 De invoer van varkens die vanuit een derde land via Nederland voor het eerst op het grondgebied van de Europese Unie worden gebracht, is slechts toegestaan indien de varkens vergezeld gaan van een geldig, door de bevoegde autoriteit van dat derde land afgegeven, volledig ingevuld en gedagtekend certificaat als bedoeld in artikel 9 van richtlijn 2008/120/EG van de Raad van 18 december 2008 tot vaststelling van minimumnormen ter bescherming van varkens (Gecodificeerde versie; PbEG 2009, L 47). 
 
 ### §  5  
 
 ####Houden van runderen voor productie
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  2.28  
 
 ####Verrichten van ingrepen door de houder
 
-Treedt in werking per 01-07-2014 
+Als handelingen als bedoeld in artikel 2.9, derde lid, van de wet worden aangewezen het door houder van het rund: 
 
-Als handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen het door houder van het rund: 
+a. verrichten van de ingreep, bedoeld in artikel 2.1, onderdeel d, van het Besluit diergeneeskundigen, bij runderen, mits het dier jonger is dan vier weken;  
 
-a. verrichten van de ingreep, bedoeld in [artikel 2.1, onderdeel d, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md), bij runderen, mits het dier jonger is dan vier weken;  
+b. verrichten van de ingreep, bedoeld in artikel 2.4, onderdeel a, van het Besluit diergeneeskundigen, mits de ingreep geschiedt op aanwijzing van een plaatselijk praktiserende dierenarts nadat deze een plaatselijke verdoving ten behoeve van deze ingreep heeft toegepast en voor zover deze handeling wordt verricht bij runderen jonger dan twee maanden met behulp van een elektrische of heteluchtmethode dan wel bij runderen ouder dan zes maanden door middel van een draadzaag;  
 
-b. verrichten van de ingreep, bedoeld in [artikel 2.4, onderdeel a, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md), mits de ingreep geschiedt op aanwijzing van een plaatselijk praktiserende dierenarts nadat deze een plaatselijke verdoving ten behoeve van deze ingreep heeft toegepast en voor zover deze handeling wordt verricht bij runderen jonger dan twee maanden met behulp van een elektrische of heteluchtmethode dan wel bij runderen ouder dan zes maanden door middel van een draadzaag;  
-
-c. verrichten van ingrepen als bedoeld in de [artikelen 2.4, onderdeel b](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md), en [2.6, onderdelen b en c, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md);  
+c. verrichten van ingrepen als bedoeld in de artikelen 2.4, onderdeel b, en 2.6, onderdelen b en c, van het Besluit diergeneeskundigen;  
 
 d. het intraveneus toedienen aan een rund van een vloeistof die als werkzame bestanddelen uitsluitend calcium en magnesium bevat in een hoeveelheid van ten hoogste 450 ml;  
 
@@ -844,13 +712,9 @@ e. openleggen van zoolzweren bij runderen.
 
 ####Houden van kalveren voor productie
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  2.29  
 
 ####Begripsbepalingen
-
-Treedt in werking per 01-07-2014 
 
 In deze paragraaf wordt verstaan onder: 
 
@@ -868,15 +732,11 @@ In deze paragraaf wordt verstaan onder:
 
 ####Toepassingsbereik
 
-Treedt in werking per 01-07-2014 
-
 De artikelen 2.32 en 2.33 zijn niet van toepassing op een kalf dat door de moeder wordt gezoogd. 
 
 ### Artikel  2.31  
 
 ####Aanbinden en muilkorven
-
-Treedt in werking per 01-07-2014 
 
 1.  Een kalf wordt niet aangebonden gehouden.   
 2.  In afwijking van het eerste lid is het toegestaan om kalveren in groepshokken aan te binden tijdens het voederen van melk of een melkvervangend preparaat voor ten hoogste één uur.   
@@ -887,8 +747,6 @@ Treedt in werking per 01-07-2014
 ### Artikel  2.32  
 
 ####Huisvesting
-
-Treedt in werking per 01-07-2014 
 
 1.  Een kalf ouder dan 8 weken wordt niet in een eenlingbox gehuisvest.   
 2.  Het eerste lid is niet van toepassing indien een dierenarts heeft bepaald dat een kalf in verband met zijn gezondheid of gedrag moet worden geïsoleerd om te worden behandeld.   
@@ -904,16 +762,12 @@ c. 220 kg of meer, de beschikking over ten minste 1,8 m<sup>2</sup> vloeropperv
 
 ####Eenlingboxen
 
-Treedt in werking per 01-07-2014 
-
 1.  Indien een kalf in een eenlingbox wordt gehouden, heeft die eenlingbox een breedte van ten minste de schofthoogte van het kalf, gemeten terwijl het kalf rechtop staat, en een lengte van ten minste 1,1 maal de lichaamslengte van het kalf, gemeten van de neuspunt tot aan de achterkant van de zitbeenknobbel (tuber ischii).   
 2.  Met uitzondering van een eenlingbox die voor het isoleren van zieke dieren wordt gebruikt, zijn de wanden van een eenlingbox zodanig uitgevoerd dat naast elkaar gehouden kalveren elkaar kunnen zien en aanraken.  
 
 ### Artikel  2.34  
 
 ####Inrichting stal
-
-Treedt in werking per 01-07-2014 
 
 1.  De stal is zodanig ingericht dat een kalf zonder problemen kan liggen, rusten, opstaan en zich zonder problemen kan likken.   
 2.  Indien kalveren in een stal met ligboxen worden gehouden, is het aantal ligboxen ten minste gelijk aan het aantal kalveren.  
@@ -922,16 +776,12 @@ Treedt in werking per 01-07-2014
 
 ####Vloer
 
-Treedt in werking per 01-07-2014 
-
 1.  De vloer van een stal is stroef en aangepast aan het gewicht en de grootte van de kalveren en vormt een stevige, vlakke en stabiele oppervlakte.   
 2.  Bij ministeriële regeling kunnen regels worden gesteld over de eigenschappen van de vloer.  
 
 ### Artikel  2.36  
 
 ####Ligruimte
-
-Treedt in werking per 01-07-2014 
 
 1.  De ligruimte van een stal is comfortabel en zindelijk, beschikt over een behoorlijke afvoer en is niet schadelijk voor de kalveren.   
 2.  De vloer van de stal van kalveren jonger dan twee weken is ingestrooid met adequaat strooisel.   
@@ -942,16 +792,12 @@ Treedt in werking per 01-07-2014
 
 ####Verlichting
 
-Treedt in werking per 01-07-2014 
-
 1.  Kalveren beschikken over passend dag- of kunstlicht.   
 2.  Van passend dag- of kunstlicht is in ieder geval sprake indien de oppervlakte van lichtdoorlatend materiaal in wand of dak van een stal bestemd voor vleeskalveren ten minste 2% van de vloeroppervlakte van de stal bedraagt en van een stal bestemd voor andere kalveren dan vleeskalveren ten minste 5% bedraagt van die oppervlakte, waarbij het materiaal zodanig is aangebracht dat het licht in de stal gelijkmatig is gespreid.  
 
 ### Artikel  2.38  
 
 ####Voedersysteem
-
-Treedt in werking per 01-07-2014 
 
 1.  Indien kalveren in groepshokken worden gehouden en niet ad libitum of via een automatisch voedersysteem worden gevoederd, is de breedte van het voerhek zodanig dat alle kalveren tegelijk kunnen eten.   
 2.  De breedte van het voerhek bedraagt ten minste 0,40 m per kalf.   
@@ -961,23 +807,17 @@ Treedt in werking per 01-07-2014
 
 ####Voeder- en drinkinstallaties
 
-Treedt in werking per 01-07-2014 
-
 De installaties die voor het voederen en drenken worden gebruikt, zijn op zodanige wijze ontworpen, gebouwd en geplaatst en worden op zodanige wijze onderhouden, dat gevaar voor verontreiniging van het voor de kalveren bestemde voer en water wordt beperkt. 
 
 ### Artikel  2.40  
 
 ####Apparatuur
 
-Treedt in werking per 01-07-2014 
-
 Maatregelen als bedoeld in artikel 2.5, negende lid, bestaan in ieder geval uit het toepassen van andere voedermethoden en het handhaven van een acceptabel leefklimaat. 
 
 ### Artikel  2.41  
 
 ####Voederen
-
-Treedt in werking per 01-07-2014 
 
 1.  Kalveren worden ten minste tweemaal per dag gevoederd.   
 2.  Onverminderd de artikelen 1.7, onderdeel e, en 2.4, zesde lid, beschikken kalveren over voer dat beantwoordt aan de met hun gedrag samenhangende behoeften.   
@@ -988,8 +828,6 @@ Treedt in werking per 01-07-2014
 
 ####Drenken
 
-Treedt in werking per 01-07-2014 
-
 1.  In afwijking van artikel 1.7, onderdeel f, kunnen aan een kalf ouder dan twee weken ook andere vloeistoffen dan water worden verstrekt om in zijn behoefte aan drinken te voorzien.   
 2.  Bij warm weer en voor zieke kalveren is permanent vers drinkwater beschikbaar.   
 3.  Kalveren krijgen zo spoedig mogelijk, maar in elk geval binnen zes uur na hun geboorte, koebiest te drinken.  
@@ -998,15 +836,11 @@ Treedt in werking per 01-07-2014
 
 ####Inspectie
 
-Treedt in werking per 01-07-2014 
-
 In afwijking van artikel 2.4, tweede lid, worden op stal gehouden kalveren ten minste tweemaal per dag en in de open lucht gehouden kalveren ten minste eenmaal per dag geïnspecteerd. 
 
 ### Artikel  2.44  
 
 ####Reiniging en ontsmetting
-
-Treedt in werking per 01-07-2014 
 
 1.  De stal, eenlingboxen, uitrusting en gereedschap voor kalveren worden op passende wijze gereinigd en ontsmet teneinde kruiscontaminatie en ziekteverwekkers te voorkomen.   
 2.  Uitwerpselen, urine en niet opgegeten of gemorst voer worden zo vaak mogelijk verwijderd, zodat de reuk zoveel mogelijk wordt beperkt en geen vliegen en knaagdieren worden aangetrokken.  
@@ -1015,15 +849,11 @@ Treedt in werking per 01-07-2014
 
 ####Zieke en gewonde dieren
 
-Treedt in werking per 01-07-2014 
-
 Het afzonderen, bedoeld in artikel 2.4, vierde lid, vindt plaats in een adequate ruimte die is voorzien van droog en comfortabel strooisel en die plaats biedt aan ten minste 1% van het aantal gehouden kalveren en indien dit minder is dan één, aan ten minste één kalf. 
 
 ### Artikel  2.46  
 
 ####Invoer vanuit derde land
-
-Treedt in werking per 01-07-2014 
 
 De invoer van kalveren die vanuit een derde land via Nederland voor het eerst op het grondgebied van de de Europese Unie worden gebracht, is slechts toegestaan indien de kalveren vergezeld gaan van een geldig, door de bevoegde autoriteit van dat derde land afgegeven, volledig ingevuld en gedagtekend certificaat als bedoeld in artikel 8 van richtlijn 2008/119/EG van de Raad van 18 december 2008 tot vaststelling van minimumnormen ter bescherming van kalveren (Gecodificeerde versie; PbEU 2008, L 10). 
 
@@ -1031,37 +861,29 @@ De invoer van kalveren die vanuit een derde land via Nederland voor het eerst op
 
 ####Houden van pluimvee voor productie
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  2.47  
 
 ####Verrichten van ingrepen door de houder
 
-Treedt in werking per 01-07-2014 
+Als handelingen als bedoeld in artikel 2.9, derde lid, van de wet worden aangewezen het door de houder van het pluimvee: 
 
-Als handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen het door de houder van het pluimvee: 
+a. verrichten van de ingreep, bedoeld in artikel 2.1, onderdeel b, van het Besluit diergeneeskundigen ten behoeve van het afnemen van bloed bij kippen, kalkoenen en eenden, voor zover deze handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden.  
 
-a. verrichten van de ingreep, bedoeld in [artikel 2.1, onderdeel b, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md) ten behoeve van het afnemen van bloed bij kippen, kalkoenen en eenden, voor zover deze handeling niet krachtens een ander wettelijk voorschrift aan anderen is voorbehouden.  
+b. verrichten van de ingreep, bedoeld in artikel 2.2, onderdeel a, van het Besluit diergeneeskundigen, mits het dier niet ouder is dan twee dagen;  
 
-b. verrichten van de ingreep, bedoeld in [artikel 2.2, onderdeel a, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md), mits het dier niet ouder is dan twee dagen;  
+c. verrichten van ingrepen als bedoeld in de artikelen 2.2, onderdelen b tot en met f, en 2.6, onderdelen b en f, van het Besluit diergeneeskundigen;  
 
-c. verrichten van ingrepen als bedoeld in de [artikelen 2.2, onderdelen b tot en met f](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md), en[ 2.6, onderdelen b en f, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md);  
+d. verrichten van de ingreep, bedoeld in artikel 2.6, onderdeel e, van het Besluit diergeneeskundigen, mits het dier niet ouder is dan twee dagen;  
 
-d. verrichten van de ingreep, bedoeld in [artikel 2.6, onderdeel e, van het Besluit diergeneeskundige](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md)n, mits het dier niet ouder is dan twee dagen;  
-
-e. verrichten van de ingreep, bedoeld in [artikel 2.6, onderdeel n, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md).   
+e. verrichten van de ingreep, bedoeld in artikel 2.6, onderdeel n, van het Besluit diergeneeskundigen.   
 
 ### §  6.1  
 
 ####Houden van vleeskuikens voor productie
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  2.48  
 
 ####Begripsbepalingen
-
-Treedt in werking per 01-07-2014 
 
 In deze paragraaf wordt verstaan onder: 
 
@@ -1087,8 +909,6 @@ In deze paragraaf wordt verstaan onder:
 
 ####Toepassingsbereik
 
-Treedt in werking per 01-07-2014 
-
 Deze paragraaf is niet van toepassing op: 
 
 a. pluimveebedrijven met minder dan 500 vleeskuikens;  
@@ -1106,8 +926,6 @@ f. vleeskuikens gehouden overeenkomstig verordening (EG) nr. 834/2007 van de Ra
 ### Artikel  2.50  
 
 ####Toepasselijkheid voorschriften
-
-Treedt in werking per 01-07-2014 
 
 1.  Het is verboden vleeskuikens te houden.   
 2.  Het verbod, bedoeld in het eerste lid, is niet van toepassing indien: 
@@ -1130,15 +948,11 @@ b. wordt voldaan aan het gestelde bij of krachtens de artikelen 2.55 tot en met 
 
 ####Houden, huisvesten en verzorgen
 
-Treedt in werking per 01-07-2014 
-
 Vleeskuikens worden gehouden, gehuisvest en verzorgd overeenkomstig de punten 1 tot en met 10 van bijlage I van richtlijn 2007/43/EG. 
 
 ### Artikel  2.52  
 
 ####Registratie
-
-Treedt in werking per 01-07-2014 
 
 1.  De houder registreert voor elke stal de volgende gegevens: 
 
@@ -1158,9 +972,7 @@ e. het resterende aantal vleeskuikens in het koppel nadat er vleeskuikens uit zi
 
 ####Treffen welzijnsmaatregelen
 
-Treedt in werking per 01-07-2014 
-
-1.  Wanneer een dierenarts verbonden aan de Nederlandse Voedsel- en Waren Autoriteit, aan de houder en een ambtenaar als bedoeld in [artikel 8.1, eerste lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), gegevens heeft verstrekt met betrekking tot de dagelijkse mortaliteit, de gecumuleerde dagelijkse mortaliteit of de resultaten van de post mortem keuring die wijzen op slechte dierenwelzijnsomstandigheden, neemt de desbetreffende houder passende maatregelen ter verbetering van het dierenwelzijn.   
+1.  Wanneer een dierenarts verbonden aan de Nederlandse Voedsel- en Waren Autoriteit, aan de houder en een ambtenaar als bedoeld in artikel 8.1, eerste lid, van de wet, gegevens heeft verstrekt met betrekking tot de dagelijkse mortaliteit, de gecumuleerde dagelijkse mortaliteit of de resultaten van de post mortem keuring die wijzen op slechte dierenwelzijnsomstandigheden, neemt de desbetreffende houder passende maatregelen ter verbetering van het dierenwelzijn.   
 2.  Onze Minister treft, ingeval een dierenarts verbonden aan de Nederlandse Voedsel- en Warenautoriteit, informatie heeft verstrekt als bedoeld in het eerste lid, maatregelen ter verbetering van het dierenwelzijn, die onder meer kunnen inhouden: 
 
 a. een verplichting voor de houder tot het opstellen van een plan van aanpak;  
@@ -1171,8 +983,6 @@ b. een verbod voor de houder op het houden van vleeskuikens, tenzij de bezetting
 ### Artikel  2.54  
 
 ####Opleiding
-
-Treedt in werking per 01-07-2014 
 
 1.  De houder van vleeskuikens, voor zover deze een natuurlijke persoon is, is in het bezit van een door Onze Minister erkend certificaat waaruit blijkt dat hij passende cursussen heeft voltooid of gelijkwaardige ervaring heeft opgedaan.   
 2.  Van gelijkwaardige ervaring als bedoeld in het eerste lid is in elk geval sprake wanneer de ervaring is opgedaan voor 1 februari 2011.   
@@ -1194,8 +1004,6 @@ e. preventieve maatregelen op het gebied van bioveiligheid.
 
 ####Hogere bezettingsdichtheid dan 33 kg/m<sup>2</sup> 
 
-Treedt in werking per 01-07-2014 
-
 1.  De houder die voornemens is een zodanig aantal vleeskuikens te gaan houden dat de bezettingsdichtheid hoger zal worden dan 33 kg/m<sup>2</sup>, stelt Onze Minister ten minste 15 dagen voordat het desbetreffende koppel in de stal wordt geplaatst, in kennis van zijn voornemen en geeft daarbij aan hoe hoog de bezettingsdichtheid zal zijn.   
 2.  Indien Onze Minister daarom verzoekt, stuurt de houder een samenvatting van de informatie, bedoeld in artikel 2.56, tweede lid, toe.   
 3.  Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop de kennisgeving, bedoeld in het eerste lid, plaatsvindt.  
@@ -1203,8 +1011,6 @@ Treedt in werking per 01-07-2014
 ### Artikel  2.56  
 
 ####Bijhouden gegevens productiesystemen
-
-Treedt in werking per 01-07-2014 
 
 1.  De houder legt per stal een verzameling van documenten aan waarin de productiesystemen in detail zijn beschreven.   
 2.  De verzameling documenten, bedoeld in het eerste lid, bevat in ieder geval informatie over technische details van de stal en de uitrusting van de stal, waaronder: 
@@ -1229,8 +1035,6 @@ g. het normaliter gebruikte strooisel.
 
 ####Ventilatie en koelverwarmingssystemen
 
-Treedt in werking per 01-07-2014 
-
 De houder rust elke stal van zijn pluimveebedrijf uit met een ventilatiesysteem en met koel- of verwarmingssystemen, die zo zijn ontworpen en gebouwd en die zo functioneren dat: 
 
 a. de concentratie van ammoniak niet hoger is dan 20 ppm en de concentratie van kooldioxide niet hoger is dan 3.000 ppm, gemeten ter hoogte van de kop van de vleeskuikens;  
@@ -1243,8 +1047,6 @@ c. de gemiddelde relatieve vochtigheidsgraad in de stal over een periode van 48�
 
 ####Documentatie
 
-Treedt in werking per 01-07-2014 
-
 1.  De houder draagt er zorg voor dat de documentatie bij een koppel vleeskuikens dat ter slachting wordt aangeboden, gegevens bevat over: 
 
 a. de door de houder berekende dagelijkse mortaliteit en gecumuleerde dagelijkse mortaliteit en  
@@ -1256,8 +1058,6 @@ b. de kruising of het ras van de vleeskuikens.
 
 ####Hogere bezettingsgraad dan 39 kg/m<sup>2</sup> 
 
-Treedt in werking per 01-07-2014 
-
 1.  De houder die voornemens is een zodanig aantal vleeskuikens te gaan houden dat de bezettingsdichtheid hoger zal worden dan 39 kg/m<sup>2</sup>, stelt Onze Minister ten minste 15 dagen voordat het desbetreffende koppel in de stal wordt geplaatst, in kennis van zijn voornemen en geeft daarbij aan hoe hoog de bezettingsdichtheid zal zijn.   
 2.  Artikel 2.55, tweede en derde lid, is van overeenkomstige toepassing.  
 
@@ -1265,24 +1065,18 @@ Treedt in werking per 01-07-2014
 
 ####Geen tekortkomingen
 
-Treedt in werking per 01-07-2014 
-
-1.  In de twee jaren, voorafgaand aan de kennisgeving, bedoeld in artikel 2.59, eerste lid, zijn door ambtenaren als bedoeld in [artikel 8.1, eerste lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), dan wel in voorkomend geval door ambtenaren als bedoeld in [artikel 114, eerste lid, van de Gezondheids- en welzijnswet voor dieren](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) op het pluimveebedrijf geen tekortkomingen in de naleving van deze paragraaf onderscheidenlijk van het [Vleeskuikenbesluit 2010](../../../../../../AMvB/vleeskuikenbesluit/2010/BWBR0027822/README.md) waargenomen.   
+1.  In de twee jaren, voorafgaand aan de kennisgeving, bedoeld in artikel 2.59, eerste lid, zijn door ambtenaren als bedoeld in artikel 8.1, eerste lid, van de wet, dan wel in voorkomend geval door ambtenaren als bedoeld in artikel 114, eerste lid, van de Gezondheids- en welzijnswet voor dieren op het pluimveebedrijf geen tekortkomingen in de naleving van deze paragraaf onderscheidenlijk van het Vleeskuikenbesluit 2010 waargenomen.   
 2.  Ingeval er op het pluimveebedrijf in de twee jaren, bedoeld in het eerste lid, geen toezicht op de naleving van deze paragraaf heeft plaatsgevonden, geldt in afwijking van het eerste lid, dat er alsnog toezicht plaatsvindt, en hierbij geen tekortkomingen in de naleving van deze paragraaf worden waargenomen.  
 
 ### Artikel  2.61  
 
 ####Gidsen voor goede praktijken
 
-Treedt in werking per 01-07-2014 
-
 De houder maakt bij de bedrijfsvoering gebruik van gidsen voor goede praktijken, die aanbevelingen bevatten voor de naleving van deze paragraaf. 
 
 ### Artikel  2.62  
 
 ####Gecumuleerde dagelijkse mortaliteit
-
-Treedt in werking per 01-07-2014 
 
 1.  De gecumuleerde dagelijkse mortaliteit van ten minste zeven opeenvolgende gecontroleerde koppels van een stal bedraagt voorafgaand aan de kennisgeving, bedoeld in artikel 2.59, eerste lid, minder dan de som van: 
 
@@ -1295,8 +1089,6 @@ b. 0,06%, vermenigvuldigd met de slachtleeftijd van de dieren, uitgedrukt in dag
 
 ####Nadere regels ter voorkoming van aandoeningen
 
-Treedt in werking per 01-07-2014 
-
 1.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het voorkomen van de aandoening voetzoollaesies bij vleeskuikens.   
 2.  De houder voldoet aan de krachtens het eerste lid vastgestelde voorschriften.   
 3.  Indien de houder niet kan voldoen aan de krachtens het eerste lid vastgestelde voorschriften, kan Onze Minister ontheffing verlenen van het tweede lid, indien de houder naar het oordeel van Onze Minister een toereikende verklaring voor de buitengewone aard van de overschrijding van de norm, heeft verstrekt, en heeft aangetoond dat er sprake is van overmacht.  
@@ -1304,8 +1096,6 @@ Treedt in werking per 01-07-2014
 ### Artikel  2.64  
 
 ####Nieuw pluimveebedrijf
-
-Treedt in werking per 01-07-2014 
 
 1.  Voor de toepassing van dit artikel wordt verstaan onder een nieuw pluimveebedrijf: een pluimveebedrijf waar vleeskuikens worden gehouden en dat van start gaat na de inwerkingtreding van deze paragraaf.   
 2.  De artikelen 2.60 tot en met 2.62 zijn niet van toepassing op een pluimveebedrijf waar voorafgaand aan 1 februari 2011 vleeskuikens worden gehouden tot het tijdstip waarop door een ambtenaar als bedoeld in artikel 114, eerste lid, van de wet toezicht is uitgeoefend op de naleving van deze paragraaf.   
@@ -1320,22 +1110,105 @@ b. een pluimveebedrijf waar voorheen vleeskuikens werden gehouden op een wijze a
 
 ####Lagere bezettingsgraad dan 33 of 39 kg/m<sup>2</sup> 
 
-Treedt in werking per 01-07-2014 
-
 1.  De houder die voornemens is wijziging aan te brengen in het door hem te houden aantal vleeskuikens, waardoor de bezettingsdichtheid lager wordt dan 33 of 39 kg/m<sup>2</sup>, stelt Onze Minister ten minste 15 dagen voordat het desbetreffende koppel in de stal wordt geplaatst, in kennis van zijn voornemen.   
 2.  Bij ministeriële regeling worden nadere regels gesteld over de wijze waarop de kennisgeving, bedoeld in artikel 2.64, derde lid, en in het eerste lid, plaatsvindt.  
+
+### §  6.1a  
+
+####Houden van ouderdieren van vleeskuikens voor productie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  2.65a  
+
+####Begripsbepalingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+In deze paragraaf wordt verstaan onder: 
+
+*koppel:* een groep ouderdieren die in een stal is ondergebracht, waarbij het leeftijdsverschil tussen de oudste hen en de jongste hen ten hoogste zeven dagen is;  
+
+*legnest:* afgescheiden ruimte voor een individueel ouderdier of een groep ouderdieren die geschikt is voor het leggen van eieren;  
+
+*ouderdier:* dier dat wordt gehouden voor de productie van broedeieren;  
+
+*plateau:* horizontaal aangebrachte verhoging van hout of kunststof waardoor geen mest kan vallen;  
+
+*strooisel:* houtkrullen, stro, gehakseld stro, turf, zand, zaagsel of ander materiaal met een losse structuur dat de dieren in staat stelt aan hun ethologische behoeften te voldoen;  
+
+*vleeskuiken:* dier van de soort Gallus gallus dat wordt gehouden voor de productie van vlees;  
+
+*zitstok:* horizontaal aangebrachte stok of lat van hout of kunststof waar het dier op kan zitten of rusten.   
+
+### Artikel  2.65b  
+
+####Toepassingsbereik
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Deze paragraaf is van toepassing op bedrijfsmatig gehouden ouderdieren van vleeskuikens en dieren van tien weken of ouder die worden opgefokt tot ouderdier van vleeskuikens. 
+
+### Artikel  2.65c  
+
+####Registratie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De houder van ouderdieren registreert dagelijks, voor zover van toepassing, voor elke stal de volgende gegevens: 
+
+a. het aantal binnengebrachte ouderdieren, onderscheiden naar geslacht;  
+
+b. het aantal ouderdieren dat niet-levend wordt afgevoerd;  
+
+c. het resterend aantal ouderdieren in het koppel dat levend wordt afgevoerd, onderscheiden naar geslacht.     
+2.  De gegevens, bedoeld in het eerste lid, worden drie jaar bewaard.  
+
+### Artikel  2.65d  
+
+####Huisvesting en voeding ouderdieren
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een ouderdier beschikt ten minste over: 
+
+a. 1.300 cm<sup>2</sup> vloeroppervlakte per ouderdier, waaronder het legnest, waarbij de oppervlakte van in de stal aangebrachte plateaus die zich ten minste 35 cm boven de vloeroppervlakte bevinden mogen worden meegerekend en waarvan ten minste 300 cm<sup>2</sup> per ouderdier is bedekt met strooisel;  
+
+b. een hoogte van 70 cm boven de vloeroppervlakte;  
+
+c. een zitstok met een lengte van ten minste 7 cm per ouderdier, met een vrije ruimte van ten minste 10 cm onder de zitstok en ten minste 35 cm daarboven;  
+
+d. een voerbak waarvan de lengte van de voor ouderdieren toegankelijke kant per ouderdier ten minste 12,5 cm bedraagt of, indien het een ronde voerbak betreft, een per ouderdier toegankelijke plek van ten minste 5 cm.     
+2.  Onverminderd het eerste lid, onderdeel a, beschikken ouderdieren die in een kooi worden gehouden over een totale vloeroppervlakte van ten minste 2.850 cm<sup>2</sup>.   
+3.  De oppervlakte, bedoeld in het eerste lid, is horizontaal en is dicht of bestaat uit roosters van hout of kunststof, niet zijnde draadroosters.   
+4.  In afwijking van het eerste lid, onderdeel a, beschikt een ouderdier van een koppel waarvan de hennen een eindgewicht van ten hoogste 2,4 kg bereiken over ten minste 1.200 cm<sup>2</sup> bruikbare oppervlakte per ouderdier.   
+5.  Onverminderd de artikelen 1.7, onderdeel e, en 2.4, zesde lid beschikt een ouderdier als bedoeld in het vierde lid permanent over luzerne, snijmaissilage of daarmee vergelijkbaar ruwvoer.  
+
+### Artikel  2.65e  
+
+####Huisvesting ouderdieren tijdens opfok
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Een dier dat wordt opgefokt om te worden gehouden als ouderdier beschikt over een vloeroppervlakte van ten minste 666 cm<sup>2</sup> per dier. 
+
+### Artikel  2.65f  
+
+####Controles
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In afwijking van artikel 2.4, tweede lid, worden ouderdieren ten minste tweemaal per dag gecontroleerd.   
+2.  In afwijking van artikel 2.5, achtste lid, wordt de apparatuur die noodzakelijk is voor de gezondheid en het welzijn van ouderdieren ten minste tweemaal per dag gecontroleerd.   
+3.  De houder van ouderdieren controleert tweemaal per dag de kwaliteit van het strooisel.  
 
 ### §  6.2  
 
 ####Houden van legkippen voor productie
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  2.66  
 
 ####Begripsbepalingen
-
-Treedt in werking per 01-07-2014 
 
 In deze paragraaf wordt verstaan onder: 
 
@@ -1357,15 +1230,11 @@ In deze paragraaf wordt verstaan onder:
 
 ####Toepassingsbereik
 
-Treedt in werking per 01-07-2014 
-
 Deze paragraaf is niet van toepassing op houders van legkippen die minder dan 350 legkippen houden. 
 
 ### Artikel  2.68  
 
 ####Toepasselijkheid voorschriften
-
-Treedt in werking per 01-07-2014 
 
 1.  Legkippen worden ten minste gehuisvest en verzorgd overeenkomstig de artikelen 2.70, 2.73, 2.74, eerste en tweede lid, 2.75 en 2.76.   
 2.  In afwijking van het eerste lid is het toegestaan legkippen in een kooi als bedoeld in artikel 2.71 te houden indien de legkippen ten minste worden gehuisvest en verzorgd overeenkomstig de artikelen 2.71 en 2.73 tot en met 2.76.   
@@ -1375,19 +1244,17 @@ a. het voor 18 april 2008 is gebouwd, of
 
 b. ten behoeve van dit huisvestingssysteem voor 18 april 2008: 
 
-1° een milieuvergunning als bedoeld in [artikel 8.1 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is verleend, of  
+1° een milieuvergunning als bedoeld in artikel 8.1 van de Wet milieubeheer is verleend, of  
 
-2° een aanvraag voor een bouwvergunning als bedoeld in [artikel 40 van de Woningwet](../../../../../../wet/woningwet/BWBR0005181/README.md), is gedaan en: 
+2° een aanvraag voor een bouwvergunning als bedoeld in artikel 40 van de Woningwet, is gedaan en: 
 
 – een aanvraag voor een milieuvergunning is gedaan, of  
 
-– een melding als bedoeld in [artikel 7 van het Besluit landbouw milieubeheer](../../../../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md) is gedaan,       en dat het huisvestingssysteem voor 18 april 2010 is gebouwd en in gebruik is genomen.  
+– een melding als bedoeld in artikel 7 van het Besluit landbouw milieubeheer is gedaan,       en dat het huisvestingssysteem voor 18 april 2010 is gebouwd en in gebruik is genomen.  
 
 ### Artikel  2.69  
 
 ####Registratie houders
-
-Treedt in werking per 01-07-2014 
 
 1.  Onze Minister registreert houders van legkippen overeenkomstig artikel 7 van richtlijn 1999/74/EG van de Raad van 19 juli 1999 tot vaststelling van minimumnormen voor de bescherming van legkippen (PbEG 1999, L 203) of overeenkomstig de op grond van dat artikel vastgestelde uitvoeringsbepalingen. Hij verstrekt daartoe aan houders van legkippen een nummer dat geschikt is om de voor de menselijke consumptie in de handel gebrachte eieren te kunnen traceren.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld ter uitvoering van het eerste lid.   
@@ -1396,8 +1263,6 @@ Treedt in werking per 01-07-2014
 ### Artikel  2.70  
 
 ####Houden en huisvesten in alternatieve huisvestingssystemen
-
-Treedt in werking per 01-07-2014 
 
 1.  Legkippen beschikken ten minste over: 
 
@@ -1447,8 +1312,6 @@ e. is de ruimte buiten voorzien van beschutting tegen slecht weer en roofdieren,
 
 ####Houden en huisvesten in aangepaste kooien: koloniehuisvesting
 
-Treedt in werking per 01-07-2014 
-
 1.  Een kooi als bedoeld in artikel 2.68, tweede lid, heeft: 
 
 a. een hoogte van ten minste 60 cm aan de zijde van de kooi waar de voerbak zich bevindt;  
@@ -1489,8 +1352,6 @@ b. 90 cm<sup>2</sup> per legkip, wanneer in de kooi meer dan 30 legkippen worde
 
 ####Houden en huisvesten in aangepaste kooien: verrijkte kooien
 
-Treedt in werking per 01-07-2014 
-
 1.  Legkippen die worden gehuisvest in een kooi als bedoeld in artikel 2.68, derde lid hebben ten minste de beschikking over: 
 
 a. 750 cm<sup>2</sup> oppervlakte waarvan 600 cm<sup>2</sup> bruikbare oppervlakte per legkip, met dien verstande dat de kooi boven andere plaatsen dan de bruikbare oppervlakte op elk punt ten minste 20 cm hoog moet zijn en dat de totale oppervlakte van een kooi niet kleiner mag zijn dan 2.000 cm<sup>2</sup>;  
@@ -1512,16 +1373,12 @@ g. een continu werkende drinkgoot waarvan de lengte van de voor de legkippen toe
 
 ####Algemene eisen huisvesting
 
-Treedt in werking per 01-07-2014 
-
 1.  Het geluidsniveau wordt zo laag mogelijk gehouden. Aanhoudend of plotseling lawaai wordt vermeden. Constructie, opstelling, onderhoud en werking van ventilatietoestellen, voedermachines of andere apparaten veroorzaken zo weinig mogelijk lawaai.   
 2.  Het huisvestingssysteem is zodanig opgezet dat een legkip niet kan ontsnappen.  
 
 ### Artikel  2.74  
 
 ####Algemene eisen verzorging
-
-Treedt in werking per 01-07-2014 
 
 1.  De legkippen worden ten minste eenmaal per dag door de houder geïnspecteerd.   
 2.  De inrichting van het huisvestingssysteem is zodanig dat alle lagen en kooien rechtstreeks en moeiteloos kunnen worden geïnspecteerd en de legkippen gemakkelijk kunnen worden verwijderd.   
@@ -1533,8 +1390,6 @@ Treedt in werking per 01-07-2014
 
 ####Verlichting
 
-Treedt in werking per 01-07-2014 
-
 1.  Er is voldoende goed werkende verlichtingsapparatuur aanwezig voor een grondige inspectie van iedere legkip op elk willekeurig tijdstip.   
 2.  Een stal waarin legkippen zijn ondergebracht is gedurende de lichtperiode zodanig verlicht dat de legkippen elkaar duidelijk kunnen zien, dat zij hun omgeving visueel kunnen verkennen en dat zij hun gebruikelijke activiteiten kunnen ontplooien. In geval van verlichting met daglicht zijn de lichtopeningen zodanig gepositioneerd dat het licht gelijkmatig over de stal en de kooien wordt verdeeld.   
 3.  Per 24 uur is er een ononderbroken duisternisperiode van 8 uur waarin de legkippen kunnen rusten. Bij de vermindering van kunstlicht wordt een periode van halfduister in acht genomen om de legkippen de gelegenheid te geven zonder verwondingen op stok te gaan.  
@@ -1543,34 +1398,404 @@ Treedt in werking per 01-07-2014
 
 ####Reiniging
 
-Treedt in werking per 01-07-2014 
-
 1.  De uitwerpselen van legkippen worden regelmatig verwijderd. Dode legkippen worden dagelijks verwijderd.   
 2.  Lokalen, uitrusting en gereedschappen waarmee de legkippen in aanraking komen, worden regelmatig grondig gereinigd en ontsmet, in elk geval telkens wanneer de kooien om sanitaire redenen worden leeggemaakt, en ook voordat een nieuwe partij legkippen wordt binnengebracht. Zolang de stal of de kooien bezet zijn, worden alle oppervlakken en alle installaties goed schoon gehouden.  
+
+### §  6.3  
+
+####Houden van vleeskalkoenen voor productie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  2.76a  
+
+####Begripsbepalingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+In deze paragraaf wordt verstaan onder: 
+
+*bezettingsdichtheid:* totale levend gewicht van de dieren die tegelijkertijd in de stal aanwezig zijn per vierkante meter oppervlakte die voor hen beschikbaar is;  
+
+*koppel:* een groep vleeskalkoenen van hetzelfde geslacht, waarbij het leeftijdsverschil tussen het oudste dier en het jongste dier ten hoogste zeven dagen is;  
+
+*ouderdier:* dier dat wordt gehouden voor de productie van broedeieren;  
+
+*uitvalpercentage:* het aantal dieren van een koppel dat vanwege een natuurlijke oorzaak is gestorven, gedeeld door het totaal aantal dieren waaruit het koppel aan het begin van het productieproces bestond, vermenigvuldigd met 100;  
+
+*verordening (EG) nr. 1/2005:* verordening (EG) nr. 1/2005 van de Raad van 22 december 2004 inzake de bescherming van dieren tijdens het vervoer en daarmee samenhangende activiteiten en tot wijziging van de Richtlijnen 64/432/EEG en 93/119/EG en van Verordening (EG) nr. 1255/97 (PbEU 2005, L 3);  
+
+*vleeskalkoen:* dier van de soort Meleagris gallopavo dat wordt gehouden voor de productie van vlees.   
+
+### Artikel  2.76b  
+
+####Toepassingsbereik
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Deze paragraaf is van toepassing op bedrijfsmatig gehouden vleeskalkoenen, ouderdieren van vleeskalkoenen en dieren die worden opgefokt om te worden gehouden als ouderdier van vleeskalkoenen. 
+
+### Artikel  2.76c  
+
+####Registratie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De houder van vleeskalkoenen of ouderdieren registreert per koppel de volgende gegevens: 
+
+a. het aantal binnengebrachte vleeskalkoenen of ouderdieren;  
+
+b. het aantal vleeskalkoenen of ouderdieren dat vanwege een natuurlijke oorzaak is gestorven of is gedood, per dag;  
+
+c. het totale levend gewicht van de vleeskalkoenen of ouderdieren bij aflevering aan het slachthuis, binnen twee weken na die aflevering.     
+2.  De houder van vleeskalkoenen registreert ten hoogste een maand na aflevering van een koppel het uitvalpercentage van mannelijke en van vrouwelijke vleeskalkoenen en de oorzaak van de sterfte, indien dat percentage hoger is dan: 
+
+a. 5% bij een koppel vrouwelijke dieren;  
+
+b. 9% bij een koppel mannelijke dieren.     
+3.  De gegevens, bedoeld in het eerste en tweede lid, worden drie jaar bewaard.  
+
+### Artikel  2.76d  
+
+####Bezettingsdichtheid
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Vleeskalkoenen worden zodanig gehouden dat de bezettingsdichtheid niet hoger is dan: 
+
+a. 58 kg/m<sup>2</sup> voor mannelijke dieren;  
+
+b. 48 kg/m<sup>2</sup> voor vrouwelijke dieren.     
+2.  Dieren die worden opgefokt om te worden gehouden als ouderdier worden zodanig gehouden dat de bezettingsdichtheid niet hoger is dan: 
+
+a. 56 kg/m<sup>2</sup> voor mannelijke dieren;  
+
+b. 49 kg/m<sup>2</sup> voor vrouwelijke dieren.     
+3.  Ouderdieren worden zodanig gehouden dat de bezettingsdichtheid niet hoger is dan: 
+
+a. 46 kg/m<sup>2</sup> voor mannelijke dieren;  
+
+b. 29 kg/m<sup>2</sup> voor vrouwelijke dieren.     
+4.  Indien in een stal verrijkingselementen zijn aangebracht die door de vleeskalkoenen kunnen worden aangeraakt en die geschikt zijn om ten minste 10% van die dieren in de stal tegelijkertijd afleiding te bieden, bedraagt de bezettingsdichtheid voor vleeskalkoenen, in afwijking van het eerste lid: 
+
+a. 59 kg/m<sup>2</sup> voor mannelijke dieren;  
+
+b. 49 kg/m<sup>2</sup> voor vrouwelijke dieren.    
+
+### Artikel  2.76e  
+
+####Strooisel
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De houder van vleeskalkoenen, ouderdieren van vleeskalkoenen en dieren die worden opgefokt om te worden gehouden als ouderdier van vleeskalkoenen voorziet de stalvloer die niet is gelegen onder de voedsel- of watervoorziening van strooisel.   
+2.  Het strooisel: 
+
+a. bestaat uit stro of houtkrullen en is niet verontreinigd;  
+
+b. is droog en rul, en heeft een droge stofgehalte van ten minste 80% op het moment dat het in de stal wordt gebracht;  
+
+c. is aangebracht in een laag die dik genoeg is om dieren de mogelijkheid te bieden om een stofbad te nemen, uitwerpselen te absorberen en de stalvloer te isoleren.    
+
+### Artikel  2.76f  
+
+####Stalklimaat
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Indien vleeskalkoenen en ouderdieren worden gehouden in een ruimte die mechanisch wordt geventileerd bedraagt de luchtverversingscapaciteit ten minste 4 m<sup>3</sup> per kg levend gewicht per uur.   
+2.  Een koppel vleeskalkoenen of dieren die worden opgefokt om te worden gehouden als ouderdier worden de eerste vijf dagen na aankomst op het bedrijf waar ze worden gehouden als vleeskalkoen of worden opgefokt om te worden gehouden als ouderdier in een ruimte gehouden waar de temperatuur op dierhoogte 35 tot 39° Celsius bedraagt.  
+
+### Artikel  2.76g  
+
+####Verlichting
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onverminderd artikel 2.5, eerste en tweede lid, worden vleeskalkoenen en ouderdieren gehouden in een ruimte waar een aaneengesloten rustperiode wordt gehanteerd van ten minste acht uur per etmaal, waarin die ruimte niet of nauwelijks kunstmatig wordt verlicht.   
+2.  De lichtintensiteit in een ruimte bestemd voor vleeskalkoenen of ouderdieren bedraagt op dierhoogte ten minste 20 Lux, tenzij een lagere lichtsterkte tijdelijk noodzakelijk is om letsel als gevolg van pikkerij te voorkomen.  
+
+### Artikel  2.76h  
+
+####Vervoer
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Tijdens vervoer dat op Nederlands grondgebied begint en eindigt, worden vleeskalkoenen die zwaarder zijn dan 7 kg vervoerd in containers als bedoeld in artikel 2, onderdeel g, van verordening (EG) nr. 1/2005. 
+
+### Artikel  2.76i  
+
+####Controles
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In afwijking van artikel 2.4, tweede lid, worden vleeskalkoenen en ouderdieren ten minste tweemaal per dag gecontroleerd.   
+2.  In afwijking van artikel 2.5, achtste lid, wordt de apparatuur die noodzakelijk is voor de gezondheid en het welzijn van vleeskalkoenen en ouderdieren ten minste tweemaal per dag gecontroleerd.   
+3.  De houder van vleeskalkoenen en ouderdieren controleert tweemaal per dag de kwaliteit van het strooisel.  
+
+### §  6a  
+
+####Houden van konijnen voor productie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  2.76j  
+
+####Begripsbepalingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+In deze paragraaf wordt verstaan onder: 
+
+*fokram:* mannelijk konijn dat ten minste eenmaal gedekt heeft of waarvan ten minste eenmaal sperma is afgenomen;  
+
+*gespeend konijn:* konijn dat is gescheiden van de voedster en dat wordt gehouden om te worden geslacht of om te worden geselecteerd als opfokkonijn;  
+
+*konijn:* dier van de soort Oryctolagus cuniculus;  
+
+*koppel:* een groep konijnen die in dezelfde kalenderweek is gespeend;  
+
+*opfokkonijn:* konijn dat wordt opgefokt tot voedster of fokram;  
+
+*spenen:* scheiden van een jong van een voedster;  
+
+*voedster:* vrouwelijk konijn vanaf drie dagen voor het berekende tijdstip van haar eerste worp;  
+
+*vrije hoogte:* ruimte die niet wordt belemmerd door obstakels.   
+
+### Artikel  2.76k  
+
+####Toepassingsbereik
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Deze paragraaf is van toepassing op bedrijfsmatig gehouden: 
+
+a. gespeende konijnen;  
+
+b. opfokkonijnen;  
+
+c. voedsters en fokrammen die worden gehouden voor de productie van konijnen die worden gehouden om te worden geslacht of om te worden gebruikt als opfokkonijn.   
+
+### Artikel  2.76l  
+
+####Registratie algemeen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De houder van konijnen registreert zich bij Onze Minister.   
+2.  De in het eerste lid bedoelde registratie vindt plaats met als doel het bevorderen van een effectief systeem van toezicht en handhaving van de op de houder van toepassing zijnde regelgeving met betrekking tot dierenwelzijn.   
+3.  Bij de registratie, bedoeld in het eerste lid, verstrekt de houder de volgende gegevens: 
+
+a. naam, adres en woonplaats van de houder;  
+
+b. voor zover de houder een natuurlijk persoon is, de geboortedatum en het geslacht van de houder;  
+
+c. voor zover de houder een rechtspersoon betreft, de datum van oprichting en het inschrijfnummer van de houder bij de kamer van Koophandel;  
+
+d. adres en locatie van het bedrijf waar de dieren worden gehouden;  
+
+e. de gehouden diersoort.     
+4.  Wijziging van de gegevens, bedoeld in het derde lid, wordt binnen twee weken na het ontstaan van de wijziging door de houder doorgegeven aan de hand van een middel.  
+
+### Artikel  2.76m  
+
+####Registratie diergegevens
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De houder van gespeende konijnen, voedsters, fokrammen of opfokkonijnen registreert maandelijks de volgende gegevens: 
+
+a. het aantal levend geboren konijnen;  
+
+b. het aantal konijnen dat gespeend is;  
+
+c. de aantallen gespeende konijnen, voedsters, fokrammen en opfokkonijnen die op het bedrijf zijn aangevoerd;  
+
+d. de aantallen gespeende konijnen, voedsters, fokrammen en opfokkonijnen die levend worden afgevoerd;  
+
+e. de uitvalpercentages, bedoeld in artikel 2.81, eerste lid;  
+
+f. de uitkomst van de consultatie, bedoeld in artikel 2.81, eerste lid, de maatregelen, bedoeld in artikel 2.81, tweede lid, en de uitkomst van de evaluatie, bedoeld in artikel 2.81, derde lid.     
+2.  De gegevens, bedoeld in het eerste lid, worden drie jaar bewaard.  
+
+### Artikel  2.76n  
+
+####Uitval
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De houder van konijnen berekent maandelijks het uitvalpercentage voor gespeende konijnen, voedsters en opfokkonijnen, op de volgende wijze: 
+
+a.  *voor gespeende konijnen:* het aantal dieren van een koppel dat niet-levend van het bedrijf is afgevoerd, gedeeld door de som van het aantal dieren waaruit het koppel na het spenen bestond en het aantal dieren dat aan de groep is toegevoegd, vermenigvuldigd met 100;  
+
+b.  *voor voedsters en opfokkonijnen:* het aantal voedsters of opfokkonijnen dat niet-levend van het bedrijf is afgevoerd, gedeeld door het aantal voedsters of opfokkonijnen dat die maand gemiddeld op het bedrijf aanwezig was, vermenigvuldigd met 100.     
+2.  Indien het uitvalpercentage van gespeende konijnen, voedsters of opfokkonijnen hoger is dan 10%, consulteert de houder een dierenarts met als doel dat percentage te verlagen.   
+3.  Naar aanleiding van de consultatie, bedoeld in het tweede lid, neemt de houder maatregelen om het uitvalpercentage te verlagen.   
+4.  Indien het uitvalpercentage van gespeende konijnen, voedsters of opfokkonijnen gedurende een jaar hoger is dan 10%, evalueert de houder in samenwerking met een dierenarts de werking van de maatregelen, bedoeld in het derde lid en past de houder die maatregelen aan, indien nodig.  
+
+### Artikel  2.76o  
+
+####Huisvesting en afleidingsmateriaal
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Een voedster beschikt over een kooi met ten minste: 
+
+a. een vloeroppervlakte van 4.500 cm<sup>2</sup> per voedster, waaronder: 
+
+1°. een van nestmateriaal voorziene nestruimte van ten minste 700 cm<sup>2</sup> die verbonden is met de kooi, en  
+
+2°. een horizontaal plateau met een oppervlakte van ten minste 900 cm<sup>2</sup> en een breedte van ten minste 20 cm;    
+
+b. een vrije hoogte van 60 cm boven een vloeroppervlakte van 950 cm<sup>2</sup>;  
+
+c. een doorgang van de bodem naar het plateau met een breedte van 25 cm.     
+2.  Een konijn dat wordt opgefokt tot voedster of fokram beschikt over een kooi met ten minste: 
+
+a. een vloeroppervlakte van 2.000 cm<sup>2</sup> per dier;  
+
+b. een hoogte van 40 cm boven 80% van de vloeroppervlakte.     
+3.  Een fokram beschikt over een kooi met ten minste: 
+
+a. een vloeroppervlakte van 4.000 cm<sup>2</sup> per dier;  
+
+b. een hoogte van 60 cm.     
+4.  Een gespeend konijn wordt gehouden in een groep die bestaat uit ten minste twee konijnen en beschikt over een kooi met ten minste: 
+
+a. een vloeroppervlakte, waarbij de oppervlakte van een in de kooi aangebracht plateau van ten minste 10 cm breed kan worden meegerekend, van: 
+
+1°. 700 cm<sup>2</sup> per dier, indien de groep bestaat uit minder dan vijf dieren;  
+
+2°. 600 cm<sup>2</sup> per dier, indien de groep bestaat uit vijf of meer dieren;    
+
+b. een hoogte van 40 cm boven 80% van de vloeroppervlakte indien in de kooi geen plateau is aangebracht, of een vrije hoogte van 40 cm boven 20% van de vloeroppervlakte indien in de kooi een plateau is aangebracht.     
+5.  Indien in een kooi een plateau is aangebracht, bedraagt de afstand tussen de vloeroppervlakte en het plateau en tussen het plateau en de bovenkant van de kooi ten minste 25 cm.   
+6.  Indien de vloeroppervlakte uit gaas bestaat: 
+
+a. heeft de bovenliggende draad een diameter van ten minste 2,4 mm;  
+
+b. bedraagt de afstand tussen het middelpunt van de bovenliggende draden ten minste 10 mm en ten hoogste 16 mm;  
+
+c. plaatst de houder in een kooi als bedoeld in het eerste en derde lid een mat van ten minste 900 cm<sup>2</sup> van plastic of van materiaal met vergelijkbare eigenschappen als plastic.     
+7.  Konijnen beschikken permanent over ruwvoer of knaagmateriaal dat voorziet in hun knaagbehoefte.  
+
+### Artikel  2.76p  
+
+####Minimum dekleeftijd
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Het is verboden om een vrouwelijk konijn te laten dekken of insemineren voordat het 15 weken oud is. 
+
+### Artikel  2.76q  
+
+####Verlichting
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Onverminderd artikel 2.5, eerste en tweede lid, worden konijnen gehouden in een ruimte waar een dag- en nachtritme wordt gehanteerd waarbij het ten minste acht uur licht is en ten minste acht uur donker, in beide gevallen ten minste vier uur aaneengesloten.   
+2.  In een ruimte bestemd voor voedsters en fokrammen: 
+
+a. wordt na een periode van licht als bedoeld in het eerste lid een schemerperiode gehanteerd van ten minste een uur;  
+
+b. bedraagt de lichtintensiteit op dierhoogte ten minste 20 Lux gedurende ten minste acht uur per dag.    
+
+### Artikel  2.76r  
+
+####Controles
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  In afwijking van artikel 2.4, tweede lid, worden konijnen ten minste tweemaal per dag gecontroleerd.   
+2.  In afwijking van artikel 2.5, achtste lid, wordt de apparatuur die noodzakelijk is voor de voer- en watervoorzieningen van konijnen ten minste tweemaal per dag gecontroleerd.  
+
+### §  6b  
+
+####Houden van nertsen voor productie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  2.76s  
+
+####Begripsbepalingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+In deze paragraaf wordt verstaan onder: 
+
+*fokdier:* dier dat gepaard heeft of een jaar of ouder is;  
+
+*nerts:* dier van de soort Mustela vison;  
+
+*opgroeiende nerts:* gespeende nerts die nog niet gepaard heeft en jonger is dan één jaar;  
+
+*pup:* nog niet gespeende nerts;  
+
+*stereotiep gedrag:* langdurig en herhaaldelijk vertoon van dezelfde gedragingen, met uitzondering van gedrag dat normaliter wordt vertoond tijdens het uur voorafgaand aan het moment waarop de dieren worden gevoerd.   
+
+### Artikel  2.76t  
+
+####Toepassingsbereik
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+Deze paragraaf is van toepassing op bedrijfsmatig gehouden nertsen. 
+
+### Artikel  2.76u  
+
+####Registratie
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  De houder van nertsen registreert de volgende gegevens: 
+
+a. het aantal fokdieren dat op het bedrijf aanwezig was op 1 mei, 1 juli en 1 augustus;  
+
+b. het aantal pups dat op het bedrijf aanwezig was op 1 juli en 1 augustus;  
+
+c. het aantal opgroeiende nertsen dat op het bedrijf aanwezig was op 1 augustus;  
+
+d. het aantal nertsen dat in januari of februari op het bedrijf aanwezig was en stereotiep gedrag vertoont of een kale staartpunt van ten minste 1 cm heeft;  
+
+e. de handelingen die zijn verricht om stereotiep gedrag of kale staartpunten te voorkomen of te verminderen.     
+2.  De gegevens, bedoeld in het eerste lid, worden drie jaar bewaard.  
+
+### Artikel  2.76v  
+
+####Controles
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De houder van nertsen controleert dagelijks de kwaliteit van het strooisel. 
+
+### Artikel  2.76w  
+
+####Actieplan
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+De houder van nertsen beschikt over een actieplan waarin staat vermeld welke maatregelen worden getroffen om stereotiep gedrag en kale staartpunten bij nertsen te voorkomen of te verminderen. 
 
 ### §  7  
 
 ####Houden van overige dieren voor productie
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  2.77  
 
 ####Verrichten van ingrepen door de houder
 
-Treedt in werking per 01-07-2014 
+Als handelingen als bedoeld in artikel 2.9, derde lid, van de wet worden aangewezen het door de houder van een op een landbouwbedrijf gehouden dier: 
 
-Als handelingen als bedoeld in [artikel 2.9, derde lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) worden aangewezen het door de houder van een op een landbouwbedrijf gehouden dier: 
+a. verrichten van de ingreep, bedoeld in artikel 2.5, onderdeel b, van het Besluit diergeneeskundigen, bij geiten die worden gehouden met het oog op de melkproduktie, mits de ingreep geschiedt op aanwijzing van een dierenarts nadat deze een plaatselijke verdoving ten behoeve van deze ingreep heeft toegepast en voor zover deze handeling wordt verricht bij geiten jonger dan één maand met behulp van een electrische of heteluchtmethode dan wel bij geiten ouder dan zes maanden door middel van een draadzaag;  
 
-a. verrichten van de ingreep, bedoeld in [artikel 2.5, onderdeel b, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md), bij geiten die worden gehouden met het oog op de melkproduktie, mits de ingreep geschiedt op aanwijzing van een dierenarts nadat deze een plaatselijke verdoving ten behoeve van deze ingreep heeft toegepast en voor zover deze handeling wordt verricht bij geiten jonger dan één maand met behulp van een electrische of heteluchtmethode dan wel bij geiten ouder dan zes maanden door middel van een draadzaag;  
+b. verrichten van de ingreep, bedoeld in artikel 2.6, onderdeel a, van het Besluit diergeneeskundigen, bij schapen, geiten, vissen en paarden;  
 
-b. verrichten van de ingreep, bedoeld in [artikel 2.6, onderdeel a, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md), bij schapen, geiten, vissen en paarden;  
+c. verrichten van de ingreep, bedoeld in artikel 2.6, onderdeel b, van het Besluit diergeneeskundigen, bij schapen en geiten;  
 
-c. verrichten van de ingreep, bedoeld in [artikel 2.6, onderdeel b, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md), bij schapen en geiten;  
+d. verrichten van de ingreep, bedoeld in artikel 2.6, onderdeel c, van het Besluit diergeneeskundigen, bij schapen en geiten;  
 
-d. verrichten van de ingreep, bedoeld in [artikel 2.6, onderdeel c, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md), bij schapen en geiten;  
-
-e. verrichten van ingrepen als bedoeld in [artikel 2.6, onderdelen j en k, van het Besluit diergeneeskundigen](../../../../../../AMvB/besluit/diergeneeskundigen/BWBR0035091/README.md);  
+e. verrichten van ingrepen als bedoeld in artikel 2.6, onderdelen j en k, van het Besluit diergeneeskundigen;  
 
 f. openleggen van zoolzweren bij schapen en geiten.   
 
@@ -1578,19 +1803,13 @@ f. openleggen van zoolzweren bij schapen en geiten.
 
 ####Houden van dieren anders dan voor landbouwdoeleinden
 
-Treedt in werking per 01-07-2014 
-
 ### §  1  
 
 ####Algemeen
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  3.1  
 
 ####Verbod op vastleggen of in een ren houden van een hond
-
-Treedt in werking per 01-07-2014 
 
 1.  Het is de eigenaren of gebruikers van erven, landerijen of andere terreinen verboden daarop een hond te houden, die: 
 
@@ -1604,8 +1823,6 @@ c. is ingesloten in een ren en daarin aan een ketting of op een andere wijze is 
 ### Artikel  3.2  
 
 ####Vastleggen van een hond
-
-Treedt in werking per 01-07-2014 
 
 1.  Het bevestigingsmiddel, waarmee de hond is vastgelegd, en de halsband, waaraan dat middel is bevestigd, zijn zodanig ontworpen dat er geen wurging of verwonding bij de hond optreedt.   
 2.  Het bevestigingsmiddel heeft een zodanige lengte dat het dier voldoende bewegingsruimte wordt gelaten.   
@@ -1622,8 +1839,6 @@ c. eenvoudig kan worden gereinigd.
 
 ####Houden van een hond in een ren
 
-Treedt in werking per 01-07-2014 
-
 1.  De ren, bedoeld in artikel 3.1, eerste lid, onderdeel b; 
 
 a. is uitsluitend bestemd voor het verblijf van één hond of meerdere honden;  
@@ -1638,8 +1853,6 @@ c. heeft voldoende oppervlak en hoogte voor de hond of honden die erin wordt geh
 ### Artikel  3.4  
 
 ####Fokken met gezelschapsdieren
-
-Treedt in werking per 01-07-2014 
 
 1.  Het is verboden te fokken met gezelschapsdieren op een wijze waarop het welzijn en de gezondheid van het ouderdier of de nakomelingen wordt benadeeld.   
 2.  In ieder geval wordt bij het fokken, bedoeld in het eerste lid, voor zover mogelijk voorkomen dat: 
@@ -1661,13 +1874,9 @@ e. het aantal nesten of nakomelingen dat een gezelschapsdier krijgt de gezondhei
 
 ####Het bedrijfsmatig verkopen, afleveren, houden ten behoeve van opvang van of fokken met gezelschapsdieren
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  3.5  
 
 ####Begripsbepalingen
-
-Treedt in werking per 01-07-2014 
 
 In deze paragraaf wordt verstaan onder: 
 
@@ -1679,8 +1888,6 @@ In deze paragraaf wordt verstaan onder:
 
 ####Verbod en uitzondering voor niet-bedrijfsmatig handelen
 
-Treedt in werking per 01-07-2014 
-
 1.  Het is verboden gezelschapsdieren te verkopen, ten verkoop in voorraad te houden, af te leveren, te houden ten behoeve van opvang, of te fokken ten behoeve van de verkoop of aflevering van nakomelingen, tenzij daarbij wordt voldaan aan deze paragraaf.   
 2.  Deze paragraaf is niet van toepassing indien degene onder wiens verantwoordelijkheid gezelschapsdieren worden verkocht, ten verkoop in voorraad worden gehouden, afgeleverd, gehouden ten behoeve van opvang, of gefokt ten behoeve van de verkoop of aflevering van nakomelingen, aannemelijk maakt dat er bij de uitoefening van die activiteiten geen sprake is van bedrijfsmatig handelen.  
 
@@ -1688,16 +1895,12 @@ Treedt in werking per 01-07-2014
 
 ####Verrichten bedrijfsmatige activiteiten in inrichting of onder voorwaarden op tentoonstelling, beurs of markt
 
-Treedt in werking per 01-07-2014 
-
 1.  De activiteiten, bedoeld in artikel 3.6, eerste lid, worden verricht in een inrichting die bij Onze Minister overeenkomstig artikel 3.8 is aangemeld.   
 2.  In afwijking van het eerste lid, is het toegestaan gezelschapsdieren te verkopen, ten verkoop in voorraad te houden of af te leveren buiten een inrichting indien dit plaatsvindt op een tentoonstelling, beurs of markt, voor zover daarbij is voldaan aan de artikelen 3.8, vijfde lid, 3.11, vierde lid, 3.12, derde lid, 3.14, zesde lid, en 3.17 tot en met 3.20.  
 
 ### Artikel  3.8  
 
 ####Aanmelding inrichting en tentoonstelling, beurs of markt
-
-Treedt in werking per 01-07-2014 
 
 1.  De aanmelding van een inrichting geschiedt door degene onder wiens verantwoordelijkheid de in artikel 3.6, eerste lid, bedoelde activiteiten worden verricht of door de beheerder, indien dat degene is onder wiens verantwoordelijkheid de activiteiten worden verricht. Na de aanmelding wordt aan de inrichting een uniek nummer toegekend.   
 2.  Bij de in het eerste lid bedoelde aanmelding wordt opgave gedaan van de volgende gegevens: 
@@ -1733,16 +1936,12 @@ e. een kopie van het bewijs van vakbekwaamheid van de persoon die aanwezig is op
 
 ####Wijziging gegevens
 
-Treedt in werking per 01-07-2014 
-
 1.  Bij wijziging van één of meer van de gegevens, bedoeld in artikel 3.8, tweede lid, wordt binnen vier weken na het intreden daarvan aan Onze Minister melding gemaakt van de wijziging door degene die ten tijde van het intreden van die wijziging op de inrichting verantwoordelijk is voor de in artikel 3.6 bedoelde activiteiten.   
 2.  Op de melding, bedoeld in het eerste lid, is artikel 3.8, derde lid, van overeenkomstige toepassing.  
 
 ### Artikel  3.10  
 
 ####Administratie
-
-Treedt in werking per 01-07-2014 
 
 1.  In een inrichting wordt een deugdelijke administratie bijgehouden van de gezelschapsdieren die in de inrichting verblijven met daarin in ieder geval de volgende gegevens: 
 
@@ -1752,7 +1951,7 @@ b. bewijs van inenting van honden en katten.
 2.  De in het eerste lid bedoelde gegevens worden ten minste twee jaar schriftelijk of digitaal in de administratie van de inrichting bewaard vanaf het tijdstip dat een dier niet meer in de inrichting aanwezig is.   
 3.  Van het bewijs van inenting, bedoeld in het eerste lid, onderdeel b, wordt gedurende een periode van twee jaar schriftelijk of digitaal een kopie in de administratie van de inrichting bewaard.   
 4.  Het eerste lid, onderdeel a, is niet van toepassing op inrichtingen waar gezelschapsdieren gehouden worden ten behoeve van opvang en onbekend is van wie de gezelschapsdieren afkomstig zijn.   
-5.  Het eerste lid, aanhef en onderdeel a, is niet van toepassing ten aanzien van inrichtingen waar honden worden gehouden ten behoeve van de in artikel 3.6, eerste lid, bedoelde activiteiten, indien de honden overeenkomstig [hoofdstuk 2 van het Besluit identificatie en registratie van dieren](../../../../../../AMvB/besluit/identificatie/en/registratie/van/dieren/BWBR0009019/README.md) geregistreerd zijn.  
+5.  Het eerste lid, aanhef en onderdeel a, is niet van toepassing ten aanzien van inrichtingen waar honden worden gehouden ten behoeve van de in artikel 3.6, eerste lid, bedoelde activiteiten, indien de honden overeenkomstig hoofdstuk 2 van het Besluit identificatie en registratie van dieren geregistreerd zijn.  
 
 ### Artikel  3.11  
 
@@ -1769,8 +1968,6 @@ Treedt in werking per 01-07-2015
 ### Artikel  3.12  
 
 ####Huisvesting en verzorging
-
-Treedt in werking per 01-07-2014 
 
 1.  Onverminderd de artikelen 1.5 tot en met 1.8 wordt een gezelschapsdier gehouden in een daarvoor geschikte ruimte. Dit houdt tenminste in dat: 
 
@@ -1791,8 +1988,6 @@ f. het aantal en de samenstelling van dieren en diersoorten per verblijf zodanig
 
 ####Huisvesting zieke of van ziekte verdachte gezelschapsdieren
 
-Treedt in werking per 01-07-2014 
-
 1.  Een inrichting beschikt over ten minste drie afzonderlijke ruimtes voor het huisvesten en verzorgen van zieke of van ziekte verdachte gezelschapsdieren in afzondering van andere dieren, dan wel over de mogelijkheid deze ruimtes in te richten zodra dit nodig is.   
 2.  De in het eerste lid bedoelde ruimtes zijn: 
 
@@ -1809,8 +2004,6 @@ c. een ruimte voor huisvesting van gezelschapsdieren die ziek zijn, maar geen be
 
 ####Gezondheid
 
-Treedt in werking per 01-07-2014 
-
 1.  In de inrichting wordt gebruik gemaakt van een protocol waaruit blijkt dat de gezondheid van gezelschapsdieren die in de inrichting verblijven dagelijks gecontroleerd wordt, maatregelen ter voorkoming van ziekten worden genomen en zieke gezelschapsdieren op passende wijze worden verzorgd.   
 2.  Indien verzorging geen of onvoldoende verbetering in de toestand van een ziek gezelschapsdier bewerkstelligt, wordt zo spoedig mogelijk een dierenarts geraadpleegd.   
 3.  Gezelschapsdieren waarvan bij binnenkomst in een inrichting de gezondheid- of vaccinatiestatus onbekend of onvolledig is, worden onmiddellijk in quarantaine geplaatst.   
@@ -1821,8 +2014,6 @@ Treedt in werking per 01-07-2014
 ### Artikel  3.15  
 
 ####Inenting honden en katten
-
-Treedt in werking per 01-07-2014 
 
 Bij ministeriële regeling worden regels gesteld met betrekking tot: 
 
@@ -1836,15 +2027,11 @@ c. inentingen die plaats vinden voordat honden en katten worden verkocht of afge
 
 ####Huisvesting honden
 
-Treedt in werking per 01-07-2014 
-
 Een hond wordt, passend bij zijn ethologische en fysiologische behoefte, dagelijks in de gelegenheid gesteld tijd door te brengen buiten de ruimte waarin deze gehouden wordt, indien de gezondheidstoestand van de hond zich daar niet tegen verzet. 
 
 ### Artikel  3.17  
 
 ####Informatieverstrekking bij verkoop of aflevering
-
-Treedt in werking per 01-07-2014 
 
 1.  Bij de verkoop of aflevering van een gezelschapsdier, wordt aan een koper of degene aan wie de aflevering plaatsvindt schriftelijke informatie over het verkochte of afgeleverde gezelschapsdier verstrekt teneinde hem in staat te stellen het gezelschapsdier zo goed mogelijk te verzorgen.   
 2.  Het eerste lid is niet van toepassing indien de koper of degene aan wie de aflevering plaatsvindt een overeenkomstig deze paragraaf geregistreerde inrichting, een circus of een dierentuin is.   
@@ -1854,15 +2041,11 @@ Treedt in werking per 01-07-2014
 
 ####Informatieverstrekking over gezondheidsstatus
 
-Treedt in werking per 01-07-2014 
-
 Bij de verkoop of aflevering van een gezelschapsdier, wordt aan de koper of degene aan wie de aflevering plaatsvindt alle relevante informatie verstrekt met betrekking tot de gezondheidsstatus van het verkochte of afgeleverde gezelschapsdier, waaronder ten minste het bewijs van inenting, bedoeld in artikel 3.15, onderdeel b. 
 
 ### Artikel  3.19  
 
 ####Verkoopverbod aan personen jonger dan zestien jaar
-
-Treedt in werking per 01-07-2014 
 
 Een gezelschapsdier wordt niet verkocht aan een persoon jonger dan zestien jaar. 
 
@@ -1870,23 +2053,17 @@ Een gezelschapsdier wordt niet verkocht aan een persoon jonger dan zestien jaar.
 
 ####Verpakking
 
-Treedt in werking per 01-07-2014 
-
 Indien een gezelschapsdier bij verkoop of aflevering wordt verpakt, vindt dit op zodanige wijze plaats dat het welzijn of de gezondheid van het gezelschapsdier niet onnodig worden benadeeld. 
 
 ### Artikel  3.21  
 
 ####Verbod huisvesting of tentoonstelling in etalageruimte
 
-Treedt in werking per 01-07-2014 
-
 Gezelschapsdieren worden niet in een etalageruimte van een inrichting gehuisvest of tentoongesteld. 
 
 ### Artikel  3.22  
 
 ####Socialisatie
-
-Treedt in werking per 01-07-2014 
 
 Indien een gezelschapsdier in een inrichting verblijft tijdens de periode waarin het dier ontvankelijk is voor socialisatie, wordt ervoor zorg gedragen dat het dier: 
 
@@ -1898,21 +2075,15 @@ b. in voldoende mate in de gelegenheid is tot het leren en tonen van soorteigen 
 
 ####Huisvesting honden en katten buiten inrichting
 
-Treedt in werking per 01-07-2014 
-
 Honden en katten die tijdelijk gehouden worden ten behoeve van opvang omdat daarvan afstand is gedaan, of omdat de eigenaar op het moment van opvang onbekend is, kunnen in afwijking van artikel 3.7, eerste lid, en artikel 3.14, derde tot en met vijfde lid, tijdelijk buiten de inrichting gehuisvest worden ten behoeve van socialisatie, resocialisatie, behandeling van gedragsproblemen of intensieve zorgverlening in geval van ziekte, mits de locatie en verblijfsduur uit de administratie van de inrichting blijken. 
 
 ### Hoofdstuk  4  
 
 ####Houden van dieren voor vertoning
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  4.1  
 
 ####Begripsbepalingen
-
-Treedt in werking per 01-07-2014 
 
 In dit hoofdstuk wordt verstaan onder: 
 
@@ -1928,12 +2099,10 @@ In dit hoofdstuk wordt verstaan onder:
 
 ####Exploitatie dierentuin
 
-Treedt in werking per 01-07-2014 
-
 1.  Het is verboden een dierentuin te exploiteren zonder een daartoe door Onze Minister verstrekte vergunning.   
 2.  Het eerste lid is niet van toepassing op: 
 
-a. inrichtingen waar wilde dieren worden gehouden van ten hoogste tien diersoorten, niet zijnde diersoorten die op grond van de [artikelen 4](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) en [5 van de Flora- en faunawet](../../../../../../wet/flora-/en/faunawet/BWBR0009640/README.md) zijn aangewezen;  
+a. inrichtingen waar wilde dieren worden gehouden van ten hoogste tien diersoorten, niet zijnde diersoorten die op grond van de artikelen 4 en 5 van de Flora- en faunawet zijn aangewezen;  
 
 b. inrichtingen die voldoen aan elk van de volgende voorschriften: 
 
@@ -1962,8 +2131,6 @@ c. Onze Minister aan de vergunninghouder schriftelijk heeft verklaard dat de voo
 
 ####Aanvraag
 
-Treedt in werking per 01-07-2014 
-
 1.  Een vergunning als bedoeld in artikel 4.2, eerste lid, wordt op aanvraag verstrekt.   
 2.  De vergunningaanvraag bevat in ieder geval de volgende gegevens: 
 
@@ -1980,13 +2147,11 @@ d. een plattegrond met een weergave van:
 2° de afmeting en inrichting van de dierenverblijven en de daarin verblijvende aantallen dieren, per diersoort;    
 
 e. een afschrift van het beleidsprotocol, bedoeld in artikel 4.12.     
-3.  Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op de aanvraag voor een vergunning, bedoeld in het eerste lid.  
+3.  Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3 van de Algemene wet bestuursrecht niet van toepassing op de aanvraag voor een vergunning, bedoeld in het eerste lid.  
 
 ### Artikel  4.4  
 
 ####Toetsing
-
-Treedt in werking per 01-07-2014 
 
 1.  Alvorens op een aanvraag om een vergunning als bedoeld in artikel 4.2, eerste lid, wordt beslist, wordt een dierentuin door Onze Minister geïnspecteerd.   
 2.  Een vergunning wordt verstrekt indien aan de navolgende eisen wordt voldaan: 
@@ -2017,23 +2182,17 @@ e. er kan worden voldaan aan de artikelen 1.6, 1.7, 1.8, 4.7 en 4.8.
 
 ####Registratie vergunningen
 
-Treedt in werking per 01-07-2014 
-
 Onze Minister registreert de vergunningen, bedoeld in artikel 4.2, eerste lid, in een openbaar register. 
 
 ### Artikel  4.6  
 
 ####Nadere voorschriften en beperkingen
 
-Treedt in werking per 01-07-2014 
-
-De voorschriften en beperkingen die op grond van [artikel 7.5, eerste lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) aan een vergunning kunnen worden verbonden, strekken tot nadere uitwerking van de artikelen 4.7 tot en met 4.12. 
+De voorschriften en beperkingen die op grond van artikel 7.5, eerste lid, van de wet aan een vergunning kunnen worden verbonden, strekken tot nadere uitwerking van de artikelen 4.7 tot en met 4.12. 
 
 ### Artikel  4.7  
 
 ####Houden
-
-Treedt in werking per 01-07-2014 
 
 1.  De vergunninghouder houdt de dieren op zodanige wijze dat: 
 
@@ -2052,8 +2211,6 @@ e. het in een dierenverblijf verblijvende aantal dieren, bedoeld in artikel 4.3,
 
 ####Verzorgen
 
-Treedt in werking per 01-07-2014 
-
 1.  De vergunninghouder verzorgt de dieren op zodanige wijze dat: 
 
 a. het toedienen van het voer is afgestemd op de fysiologische behoeften van de diersoort en de natuurlijke wijze van voedselvergaring stimuleert;  
@@ -2070,8 +2227,6 @@ d. in voorkomend geval op passende wijze wordt gezorgd voor gewonde en zieke die
 ### Artikel  4.9  
 
 ####Register
-
-Treedt in werking per 01-07-2014 
 
 1.  De vergunninghouder voert een inzichtelijk register van elk dier of elke diergroep, waaruit de mutaties van de dieren en de ziektegeschiedenis blijken, en waarin in ieder geval de volgende gegevens zijn opgenomen: 
 
@@ -2098,8 +2253,6 @@ h. in geval van sterfte: de datum en de oorzaak van de sterfte.
 
 ####Instandhouding diersoorten en educatief programma
 
-Treedt in werking per 01-07-2014 
-
 1.  De vergunninghouder bevordert de instandhouding van de diersoorten, waartoe de door hem gehouden dieren behoren, door het uitvoeren van ten minste een van de volgende activiteiten: 
 
 a. de deelname aan onderzoek dat gunstige gevolgen heeft voor het behoud van de diersoorten, de opleiding van het personeel in voor het onderzoek relevante vaardigheden en de uitwisseling van de verkregen informatie met andere dierentuinen;  
@@ -2113,15 +2266,11 @@ c. het opvangen van dieren uit opvangcentra en in beslag genomen dieren.
 
 ####Overige voorschriften
 
-Treedt in werking per 01-07-2014 
-
 De vergunninghouder verzekert zich er bij een overdracht van dieren van dat de ontvangende partij de dieren houdt, huisvest en verzorgt op een wijze die overeenkomt met de voorschriften in dit hoofdstuk. 
 
 ### Artikel  4.12  
 
 ####Beleidsprotocol
-
-Treedt in werking per 01-07-2014 
 
 De vergunninghouder beschikt over een beleidsprotocol met daarin opgenomen: 
 
@@ -2137,8 +2286,6 @@ d. een eenduidig beleid met betrekking tot de in artikel 4.10 genoemde onderwerp
 
 ####Sluiting, aanpassing en intrekking
 
-Treedt in werking per 01-07-2014 
-
 1.  Indien de vergunninghouder niet voldoet aan de artikelen 1.6, 1.7 of 1.8 of aan de bij of krachtens dit hoofdstuk gestelde voorschriften kan de dierentuin op last van Onze Minister geheel of gedeeltelijk worden gesloten voor het publiek.   
 2.  Onze Minister kan in het geval, bedoeld in het eerste lid, de exploitant verplichten tot het aanpassen, verwijderen of aanbrengen van specifieke voorzieningen binnen de daarbij vermelde termijn, die ten hoogste twee jaar bedraagt.   
 3.  Indien een exploitant niet binnen de gestelde termijn voldoet aan de verplichtingen, bedoeld in het tweede lid, wordt de vergunning door Onze Minister ingetrokken of gewijzigd en wordt de dierentuin geheel of gedeeltelijk gesloten.  
@@ -2147,27 +2294,19 @@ Treedt in werking per 01-07-2014
 
 ####Doden van dieren voor de productie van dierlijke producten
 
-Treedt in werking per 01-07-2014 
-
 ### §  1  
 
 ####Algemeen
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  5.1  
 
 ####Doden van productiedieren
-
-Treedt in werking per 01-07-2014 
 
 Paragraaf 3 van hoofdstuk 1 is niet van toepassing op het doden van dieren en op met het doden verband houdende activiteiten, waarop verordening (EG) nr. 1099/2009 van toepassing is. 
 
 ### Artikel  5.2  
 
 ####Uitvoering verordening (EG) nr. 1099/2009 
-
-Treedt in werking per 01-07-2014 
 
 1.  Bij ministeriële regeling worden regels gesteld voor een goede uitvoering van verordening (EG) nr. 1099/2009.   
 2.  De regels, bedoeld in het eerste lid, kunnen betrekking hebben op: 
@@ -2188,8 +2327,6 @@ f. het doden, en daarmee verband houdende activiteiten, van dieren buiten een sl
 
 ####Slachten voor particulier huishoudelijk verbruik
 
-Treedt in werking per 01-07-2014 
-
 1.  Het is verboden buiten het slachthuis rundvee, eenhoevigen of loopvogels te slachten of te doden voor particulier huishoudelijk verbruik.   
 2.  Varkens, geiten en schapen worden buiten het slachthuis uitsluitend gedood na voorafgaande bedwelming met een penschiettoestel.  
 
@@ -2197,21 +2334,15 @@ Treedt in werking per 01-07-2014
 
 ####Doden van dieren zonder voorafgaande bedwelming
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  5.4  
 
 ####Eisen aan doden van dieren zonder voorafgaande bedwelming
 
-Treedt in werking per 01-07-2014 
-
-Bij het doden van dieren zonder voorafgaande bedwelming, bedoeld in [artikel 2.10, vierde lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), wordt voldaan aan de artikelen 5.5 tot en met 5.9 en aan de terzake krachtens artikel 5.2 gestelde regels. 
+Bij het doden van dieren zonder voorafgaande bedwelming, bedoeld in artikel 2.10, vierde lid, van de wet, wordt voldaan aan de artikelen 5.5 tot en met 5.9 en aan de terzake krachtens artikel 5.2 gestelde regels. 
 
 ### Artikel  5.5  
 
 ####Melding
-
-Treedt in werking per 01-07-2014 
 
 1.  De exploitant van een inrichting die beschikt over een erkenning als bedoeld in artikel 4 van verordening (EG) nr. 853/2004 van het Europese Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong (PbEG 2004, L 226), meldt voorafgaand aan het doden aan Onze Minister dat in de inrichting dieren volgens de islamitische of israëlitische ritus zullen worden gedood.   
 2.  Indien vanaf de dag waarop is gemeld dat in die inrichting dieren zonder voorafgaande bedwelming volgens de islamitische of israëlitische ritus zullen worden gedood meer dan een jaar geen dieren zonder voorafgaande bedwelming volgens de islamitische of israëlitische ritus zijn gedood doet de exploitant, bedoeld in het eerste lid, een nieuwe melding voordat hij het doden hervat.   
@@ -2221,21 +2352,17 @@ Treedt in werking per 01-07-2014
 
 ####Personen die onbedwelmd doden
 
-Treedt in werking per 01-07-2014 
-
-Het doden van dieren zonder voorafgaande bedwelming, bedoeld in [artikel 2.10, vierde lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), geschiedt uitsluitend door personen die daartoe: 
+Het doden van dieren zonder voorafgaande bedwelming, bedoeld in artikel 2.10, vierde lid, van de wet, geschiedt uitsluitend door personen die daartoe: 
 
 a. door het Opperrabbinaat voor Nederland zijn gemachtigd, voor zover het doden volgens de Israëlitische ritus betreft, of  
 
-b. door één of meer organisaties die geacht kunnen worden alle of bepaalde groepen islamieten in Nederland te vertegenwoordigen, zijn aangewezen, voor zover het doden volgens de islamitische ritus betreft en deze personen daarvan door een schriftelijk bewijs aan de op grond van [artikel 8.1, eerste lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) aangewezen ambtenaren of andere personen hebben doen blijken.   
+b. door één of meer organisaties die geacht kunnen worden alle of bepaalde groepen islamieten in Nederland te vertegenwoordigen, zijn aangewezen, voor zover het doden volgens de islamitische ritus betreft en deze personen daarvan door een schriftelijk bewijs aan de op grond van artikel 8.1, eerste lid, van de wet aangewezen ambtenaren of andere personen hebben doen blijken.   
 
 ### Artikel  5.7  
 
 ####Volgen aanwijzingen
 
-Treedt in werking per 01-07-2014 
-
-1.  Het doden van dieren zonder voorafgaande bedwelming, bedoeld in [artikel 2.10, vierde lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md), geschiedt overeenkomstig de door de op grond van [artikel 8.1, eerste lid, van de wet](../../../../../../wet/wet/dieren/BWBR0030250/README.md) aangewezen ambtenaren of andere personen in het belang van de bescherming van het te doden dier gegeven aanwijzingen.   
+1.  Het doden van dieren zonder voorafgaande bedwelming, bedoeld in artikel 2.10, vierde lid, van de wet, geschiedt overeenkomstig de door de op grond van artikel 8.1, eerste lid, van de wet aangewezen ambtenaren of andere personen in het belang van de bescherming van het te doden dier gegeven aanwijzingen.   
 2.  De in het eerste lid, bedoelde aanwijzingen kunnen betrekking hebben op: 
 
 a. de gang van zaken rond het slachtproces, daaronder mede verstaan de wijze waarop en de volgorde waarin dieren worden aangeboden voor de doding;  
@@ -2249,16 +2376,12 @@ c. het staken van het dodingsproces indien onvoldoende is gegarandeerd dat daarb
 
 ####Fixatie
 
-Treedt in werking per 01-07-2014 
-
 1.  Runderen worden gefixeerd door middel van een toestel dat is voorzien van een tijd-mechanisme dat gedurende 45 seconden na het bedienen daarvan, de opheffing van de fixatie onmogelijk maakt; dit mechanisme wordt onmiddellijk na het toebrengen van de halssnede in werking gesteld.   
 2.  Na het toebrengen van de halssnede blijven schapen en geiten gedurende ten minste dertig seconden gefixeerd in de positie die de dieren innamen op het moment van het toebrengen van de halssnede.  
 
 ### Artikel  5.9  
 
 ####Toebrengen halssnede
-
-Treedt in werking per 01-07-2014 
 
 1.  Het toebrengen van de halssnede gebeurt met een vlijmscherp mes door een persoon die niet tevens belast is met het fixeren van de dieren.   
 2.  Bij schapen, geiten en pluimvee worden ten minste gedurende 30 seconden en bij runderen ten minste gedurende 45 seconden na het aanbrengen van de halssnede geen verdere slachthandelingen verricht.  
@@ -2267,13 +2390,9 @@ Treedt in werking per 01-07-2014
 
 ####Overige bepalingen
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  6.1  
 
 ####Medebewind groepshuisvesting varkens
-
-Treedt in werking per 01-07-2014 
 
 1.  Ter uitvoering van de artikelen 2.13 en 2.15 wordt medewerking gevorderd van het Productschap voor Vee en Vlees.   
 2.  De in het eerste lid bedoelde medewerking bestaat uit het verrichten van de noodzakelijke werkzaamheden en het bij verordening stellen van regels.   
@@ -2285,15 +2404,11 @@ Treedt in werking per 01-07-2014
 
 ####Medebewind registratie houders legkippen
 
-Treedt in werking per 01-07-2014 
-
 Bij de ministeriële regeling, bedoeld in artikel 2.69, tweede lid, kan Onze Minister de medewerking vorderen van het bestuur van het Productschap Pluimvee en Eieren ter uitvoering van artikel 2.69, eerste lid. 
 
 ### Artikel  6.3  
 
 ####Overgangsrecht huisvesting gelten en zeugen
-
-Treedt in werking per 01-07-2014 
 
 1.  Artikel 2.18, vierde lid, is gedurende 10 jaar na het in dat lid bedoelde tijdstip niet van toepassing indien de gebruiker van de stal kan aantonen dat: 
 
@@ -2306,16 +2421,12 @@ b. de stal of de vloer van de stal na het in artikel 2.18, vierde lid, bedoelde 
 
 ####Overgangsrecht onbedwelmd ritueel doden
 
-Treedt in werking per 01-07-2014 
-
-1.  Inrichtingen waaraan op het tijdstip van inwerkintreding van artikel 5.5 krachtens [artikel 107 van de Gezondheids- en welzijnswet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) voor dieren vrijstelling van de [artikelen 44, vierde tot en met zevende lid en achtste lid, onderdeel b, tweede volzin, van die wet](../../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), is verleend behoeven geen melding als bedoeld in artikel 5.5, eerste lid, te doen.   
+1.  Inrichtingen waaraan op het tijdstip van inwerkintreding van artikel 5.5 krachtens artikel 107 van de Gezondheids- en welzijnswet voor dieren vrijstelling van de artikelen 44, vierde tot en met zevende lid en achtste lid, onderdeel b, tweede volzin, van die wet, is verleend behoeven geen melding als bedoeld in artikel 5.5, eerste lid, te doen.   
 2.  Het eerste lid is niet van toepassing indien in de desbetreffende inrichting vanaf de datum waarop paragraaf 2 van hoofdstuk 5 in werking treedt, meer dan een jaar geen dieren zonder voorafgaande bedwelming volgens de islamitische of israëlitische ritus zijn geslacht.  
 
 ### Artikel  6.5  
 
 ####Eisen aan tentoonstellingen, beurzen en markten voor gezelschapsdieren
-
-Treedt in werking per 01-07-2014 
 
 1.  De artikelen 3.8, vijfde lid, 3.12, derde lid, en 3.14, zesde lid, zijn gedurende vier maanden vanaf het tijdstip van inwerkingtreding van die artikelen niet van toepassing.   
 2.  Artikel 3.11, vierde lid, is ten aanzien van: 
@@ -2328,25 +2439,21 @@ b. andere gezelschapsdieren dan honden en katten gedurende een periode van vijf 
 
 ####Vakbekwaamheid bedrijfsmatige activiteiten met gezelschapsdieren
 
-Treedt in werking per 01-07-2014 
-
 1.  Artikel 3.11, eerste lid, is gedurende een periode van vijf jaar vanaf het tijdstip van inwerkingtreding van dit artikel niet van toepassing: 
 
-a. indien degene die verantwoordelijk is voor de in artikel 3.6 bedoelde activiteiten desgevraagd kan aantonen dat de inrichting voor het tijdstip van inwerkingtreding van dat artikel in gebruik is genomen en het een inrichting betreft waarvoor geen aanmeldingsplicht bestond op basis van [artikel 3, eerste lid, van het Honden- en Kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit;  
+a. indien degene die verantwoordelijk is voor de in artikel 3.6 bedoelde activiteiten desgevraagd kan aantonen dat de inrichting voor het tijdstip van inwerkingtreding van dat artikel in gebruik is genomen en het een inrichting betreft waarvoor geen aanmeldingsplicht bestond op basis van artikel 3, eerste lid, van het Honden- en Kattenbesluit 1999, zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit;  
 
-b. ten aanzien van andere gezelschapsdieren dan honden en katten, indien degene die verantwoordelijk is voor de in artikel 3.6 bedoelde activiteiten desgevraagd kan aantonen dat het een inrichting betreft waarvoor een aanmeldingsplicht bestond op basis van [artikel 3, eerste lid, van het Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, waar ook andere gezelschapsdieren werden gehouden dan honden en katten.     
-2.  Het erkende bewijs van vakbekwaamheid op basis van het [Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, geldt als bewijs van vakbekwaamheid als bedoeld in artikel 3.11, voor zover activiteiten worden verricht met honden en katten.  
+b. ten aanzien van andere gezelschapsdieren dan honden en katten, indien degene die verantwoordelijk is voor de in artikel 3.6 bedoelde activiteiten desgevraagd kan aantonen dat het een inrichting betreft waarvoor een aanmeldingsplicht bestond op basis van artikel 3, eerste lid, van het Honden- en kattenbesluit 1999, zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, waar ook andere gezelschapsdieren werden gehouden dan honden en katten.     
+2.  Het erkende bewijs van vakbekwaamheid op basis van het Honden- en kattenbesluit 1999, zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, geldt als bewijs van vakbekwaamheid als bedoeld in artikel 3.11, voor zover activiteiten worden verricht met honden en katten.  
 
 ### Artikel  6.7  
 
 ####Aanmelding inrichting
 
-Treedt in werking per 01-07-2014 
-
-1.  Een aanmelding bij Onze Minister die is verricht op grond van [artikel 3, eerste lid van het Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, geldt als een aanmelding als bedoeld in artikel 3.8, eerste lid, voor activiteiten met honden of katten, voor zover die activiteiten bij die eerdere aanmelding zijn gemeld.   
+1.  Een aanmelding bij Onze Minister die is verricht op grond van artikel 3, eerste lid van het Honden- en kattenbesluit 1999, zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, geldt als een aanmelding als bedoeld in artikel 3.8, eerste lid, voor activiteiten met honden of katten, voor zover die activiteiten bij die eerdere aanmelding zijn gemeld.   
 2.  Artikel 3.8, vierde lid, is gedurende een periode van vier maanden vanaf het tijdstip van inwerkingtreding van dat artikel niet van toepassing op een inrichting, indien degene onder wiens verantwoordelijkheid de in artikel 3.6 bedoelde activiteiten op die inrichting worden verricht: 
 
-a. desgevraagd kan aantonen dat de inrichting vóór het tijdstip van inwerkingtreding van dat artikel in gebruik is genomen en het een inrichting betreft waarvoor geen aanmeldingsplicht bestond op basis van [artikel 3, eerste lid, van het Honden- en Kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), en  
+a. desgevraagd kan aantonen dat de inrichting vóór het tijdstip van inwerkingtreding van dat artikel in gebruik is genomen en het een inrichting betreft waarvoor geen aanmeldingsplicht bestond op basis van artikel 3, eerste lid, van het Honden- en Kattenbesluit 1999, en  
 
 b. binnen vier maanden na het tijdstip van inwerkingtreding van dat artikel, de inrichting bij Onze Minister aanmeldt.    
 
@@ -2354,55 +2461,45 @@ b. binnen vier maanden na het tijdstip van inwerkingtreding van dat artikel, de 
 
 ####Huisvesting zieke of van ziekte verdachte gezelschapsdieren
 
-Treedt in werking per 01-07-2014 
-
 1.  Artikel 3.13, eerste lid, en artikel 3.14, derde en vierde lid, zijn gedurende een periode van drie jaar vanaf het tijdstip van inwerkingtreding van die artikelen niet van toepassing.   
-2.  De [artikelen 9](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md) en [10 van het Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), zoals dat gold onmiddellijk voor intrekking van dat besluit, blijven van toepassing, gedurende drie jaar vanaf het tijdstip van inwerkingtreding van de artikelen 3.13 en 3.14.  
+2.  De artikelen 9 en 10 van het Honden- en kattenbesluit 1999, zoals dat gold onmiddellijk voor intrekking van dat besluit, blijven van toepassing, gedurende drie jaar vanaf het tijdstip van inwerkingtreding van de artikelen 3.13 en 3.14.  
 
 ### Artikel  6.9  
 
-####Intrekking [Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md) en uitgestelde werking Honden- en kattenbesluit in verband met wijziging [Wet op de dierproeven](../../../../../../wet/wet/op/de/dierproeven/BWBR0003081/README.md)
+####Intrekking Honden- en kattenbesluit 1999 en uitgestelde werking Honden- en kattenbesluit in verband met wijziging Wet op de dierproeven
 
-Treedt in werking per 01-07-2014 
-
-1.  Het [Honden- en Kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md) wordt ingetrokken.   
-2.  In afwijking van het eerste lid blijven de artikelen van het [Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md) van toepassing, zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, op inrichtingen van waaruit honden en katten worden betrokken door inrichtingen die dierproeven verrichten, met inachtneming van [artikel 27 van het Honden- en kattenbesluit 1999](../../../../../../AMvB/honden-/en/kattenbesluit/1999/BWBR0010200/README.md), tot het tijdstip waarop de wijziging van de Wet op de dierproeven ter implementatie van Richtlijn 2010/63 van het Europees Parlement en de Raad van 22 september 2010 betreffende de bescherming van dieren die voor wetenschappelijke doeleinden worden gebruikt (PbEU L 276) in werking is getreden.  
+1.  Het Honden- en Kattenbesluit 1999 wordt ingetrokken.   
+2.  In afwijking van het eerste lid blijven de artikelen van het Honden- en kattenbesluit 1999 van toepassing, zoals dat gold onmiddellijk voor het tijdstip van intrekking van dat besluit, op inrichtingen van waaruit honden en katten worden betrokken door inrichtingen die dierproeven verrichten, met inachtneming van artikel 27 van het Honden- en kattenbesluit 1999, tot het tijdstip waarop de wijziging van de Wet op de dierproeven ter implementatie van Richtlijn 2010/63 van het Europees Parlement en de Raad van 22 september 2010 betreffende de bescherming van dieren die voor wetenschappelijke doeleinden worden gebruikt (PbEU L 276) in werking is getreden.  
 
 ### Hoofdstuk  7  
 
 ####Slotbepalingen
 
-Treedt in werking per 01-07-2014 
-
 ### Artikel  7.1  
 
 ####Intrekking
 
-Treedt in werking per 01-07-2014 
-
 De volgende besluiten worden ingetrokken: 
 
-a. het [Besluit verbod gebruik van levend aas](../../../../../../AMvB/besluit/verbod/gebruik/van/levend/aas/BWBR0008638/README.md);  
+a. het Besluit verbod gebruik van levend aas;  
 
-b. het [Besluit welzijn productiedieren](../../../../../../AMvB/besluit/welzijn/productiedieren/BWBR0010986/README.md);  
+b. het Besluit welzijn productiedieren;  
 
-c. het [Varkensbesluit](../../../../../../AMvB/varkensbesluit/BWBR0006806/README.md);  
+c. het Varkensbesluit;  
 
-d. het [Kalverenbesluit](../../../../../../AMvB/kalverenbesluit/BWBR0006805/README.md);  
+d. het Kalverenbesluit;  
 
-e. het [Vleeskuikenbesluit 2010](../../../../../../AMvB/vleeskuikenbesluit/2010/BWBR0027822/README.md);  
+e. het Vleeskuikenbesluit 2010;  
 
-f. het [Dierentuinenbesluit](../../../../../../AMvB/dierentuinenbesluit/BWBR0013625/README.md);  
+f. het Dierentuinenbesluit;  
 
-g. het [Besluit ritueel slachten](../../../../../../AMvB/besluit/ritueel/slachten/BWBR0008316/README.md);  
+g. het Besluit ritueel slachten;  
 
-h. het [Besluit doden van dieren](../../../../../../AMvB/besluit/doden/van/dieren/BWBR0008686/README.md).  
+h. het Besluit doden van dieren.  
 
 ### Artikel  7.2  
 
 ####Wijziging besluiten
-
-Treedt in werking per 01-07-2014 
 
 1. Wijzigt het Besluit diergeneesmiddelen. 
 2. Wijzigt het Besluit omgevingsrecht.
@@ -2412,15 +2509,11 @@ Treedt in werking per 01-07-2014
 
 ####Inwerkingtreding
 
-Treedt in werking per 01-07-2014 
-
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  7.4  
 
 ####Citeertitel
-
-Treedt in werking per 01-07-2014 
 
 Dit besluit wordt aangehaald als: Besluit houders van dieren. 
 
@@ -2441,8 +2534,6 @@ I.W. Opstelten
 ### Bijlage  I  
 
 ####als bedoeld in artikel 1.20  van het Besluit houders van dieren
-
-Treedt in werking per 01-07-2014 
 
 Soorten papegaaiachtigen en de minimum leeftijd die per soort moet worden aangehouden bij het scheiden van kuiken en ouderdier.  
 
@@ -2823,8 +2914,6 @@ Soorten papegaaiachtigen en de minimum leeftijd die per soort moet worden aangeh
 
 ####als bedoeld in artikel 2.1  van het Besluit houders van dieren
 
-Treedt in werking per 01-07-2014 
-
 Aangewezen soorten en categorieën van in Nederland te houden dieren met het oog op de productie van van die dieren afkomstige producten.  
 
 | SOORTEN  |--- |
@@ -2979,3 +3068,24 @@ Categorieën
 – de kruising tussen de Bos indicus en de Bos taurus  
 
 – de kruising tussen de Heterobranchus longifilis en de Clarias gariepinus   
+
+###Bijlage III 
+
+####als bedoeld in artikel 6.2, tweede lid , van het besluit
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+| Artikel 2.76o   | Aantal punten als aan de voorschriften is voldaan  |
+|:---|:---|
+| 1. Eerste lid, onderdeel a, subonderdeel 2, vijfde lid en zesde lid, onderdeel a, voor zover dat betrekking heeft op het eerste lid, onderdeel a, subonderdeel 2  | 10  |
+| 2. Eerste lid, onderdeel a, aanhef  | 10  |
+| 3. Eerste lid, onderdelen b en c  | 10  |
+| 4. Zesde lid, voor zover dat lid betrekking heeft op het oppervlak van een kooi als bedoeld in het eerste lid en voor zover het een voorschrift betreft dat niet reeds onder de reikwijdte van punt 1 van deze bijlage valt.  |  5  |
+| 5. Tweede lid, onderdeel a  | 10  |
+| 6. Tweede lid, onderdeel b  | 10  |
+| 7. Zesde lid, onderdelen a en b, voor zover die betrekking hebben op een kooi als bedoeld in de aanhef van het tweede lid  |  5  |
+| 8. Vierde lid, aanhef, voor zover die betrekking heeft op het houden van dieren in een groep  |  5  |
+| 9. Vierde lid, onderdeel a, subonderdeel 1 respectievelijk subonderdeel 2  | 20  |
+| 10. Vierde lid, onderdeel b, voor zover dat onderdeel betrekking heeft op een kooi zonder plateau  | 10  |
+| 11. Zesde lid, onderdelen a en b, voor zover die onderdelen betrekking hebben op een kooi als bedoeld in de aanhef van het vierde lid  |  5  |
+

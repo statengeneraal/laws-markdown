@@ -3,20 +3,20 @@
 ##Taakduren lidmaatschap publiekrechtelijke colleges
 
 De Minister van Binnenlandse Zaken,  
-Gelet op artikel 33a, tweede lid, van het Algemeen Rijksambtenarenreglement, artikel 30c, tweede lid, van het Arbeidsovereenkomstenbesluit en [artikel 57, tweede lid, van het Ambtenarenreglement Staten-Generaal](../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);
+Gelet op artikel 33a, tweede lid, van het Algemeen Rijksambtenarenreglement, artikel 30c, tweede lid, van het Arbeidsovereenkomstenbesluit en artikel 57, tweede lid, van het Ambtenarenreglement Staten-Generaal;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder ‘betrokkene’: de ambtenaar bedoeld in het [Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of het [Ambtenarenreglement Staten- Generaal](../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md). 
+In deze regeling wordt verstaan onder ‘betrokkene’: de ambtenaar bedoeld in het Algemeen Rijksambtenarenreglement of het Ambtenarenreglement Staten- Generaal. 
 
 ### Artikel  2  
 
-Voor de berekening die bij het toepassen van de in [artikel 33a, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of [artikel 57, eerste lid, van het Ambtenarenreglement Staten-Generaal](../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) bedoelde inhouding gemaakt moet worden van hetgeen de betrokkene geacht kan worden te ontvangen als vaste vergoeding, wordt: 
+Voor de berekening die bij het toepassen van de in artikel 33a, eerste lid, van het Algemeen Rijksambtenarenreglement of artikel 57, eerste lid, van het Ambtenarenreglement Staten-Generaal bedoelde inhouding gemaakt moet worden van hetgeen de betrokkene geacht kan worden te ontvangen als vaste vergoeding, wordt: 
 
 a. uitgegaan van een taakduur van 11 uur per week voor een lid van de provinciale staten;  
 
-b. voor een gedeputeerde, die ingevolge [artikel 35a, derde lid, van de Provincie wet](../../../../../../wet/provinciewet/BWBR0005645/README.md) de functie van gedeputeerde in deeltijd uitoefent, uitgegaan van het aantal uren per week, afgerond op het dichtstbijzijnde gehele getal, dat overeenkomt met de tijdsbestedingsnorm welke ingevolge [artikel 35, vierde lid, van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md) door provinciale staten voor hem is vastgesteld;  
+b. voor een gedeputeerde, die ingevolge artikel 35a, derde lid, van de Provincie wet de functie van gedeputeerde in deeltijd uitoefent, uitgegaan van het aantal uren per week, afgerond op het dichtstbijzijnde gehele getal, dat overeenkomt met de tijdsbestedingsnorm welke ingevolge artikel 35, vierde lid, van de Provinciewet door provinciale staten voor hem is vastgesteld;  
 
 c. uitgegaan van een taakduur van:  
 
@@ -36,7 +36,7 @@ d. uitgegaan van een taakduur van:
 
 4. 30 uur per week voor een wethouder in een gemeente tot 18.000 inwoners.    
 
-e. voor een wethouder, die ingevolge [artikel 36, tweede lid, van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) het wethouderschap in deeltijd uitoefent, uitgegaan van het aantal uren per week, afgerond op het dichtstbijzijnde gehele getal, dat overeenkomt met de tijdsbestedingsnorm welke ingevolge [artikel 36, vierde lid, van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) door de raad voor hem is vastgesteld.   
+e. voor een wethouder, die ingevolge artikel 36, tweede lid, van de Gemeentewet het wethouderschap in deeltijd uitoefent, uitgegaan van het aantal uren per week, afgerond op het dichtstbijzijnde gehele getal, dat overeenkomt met de tijdsbestedingsnorm welke ingevolge artikel 36, vierde lid, van de Gemeentewet door de raad voor hem is vastgesteld.   
 
 ###Artikel 3 
 

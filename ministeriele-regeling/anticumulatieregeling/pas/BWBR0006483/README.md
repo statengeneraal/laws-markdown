@@ -5,18 +5,18 @@
 Onder verwijzing naar de inhoud van de bij de circulaire van 18 november 1992, AB92/U1235, inzake Arbeidsvoorwaardenmaatregelen sector rijkspersoneel, gevoegde bijlage 2 (Invoering partiële arbeidsparticipatie voor senioren), zend ik u hierbij de Anticumulatieregeling PAS. Naar de inhoud van die regeling en de daarbij gevoegde toelichting verwijs ik u kortheidshalve. Het is de bedoeling dat de regeling deze maand in de Staatscourant wordt geplaatst. Dit houdt in dat de regeling dan op 1 maart 1994 in werking treedt.  
 De Minister van Binnenlandse Zaken,
 
-Gelet op de [artikelen 21a van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), 20a van het Arbeidsovereenkomstenbesluit en 34a van het [Ambtenarenreglement Staten-Generaal](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);
+Gelet op de artikelen 21a van het Algemeen Rijksambtenarenreglement, 20a van het Arbeidsovereenkomstenbesluit en 34a van het Ambtenarenreglement Staten-Generaal;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. ambtenaar: de ambtenaar of werknemer wiens werktijd met toepassing van artikel 21a van het Algemeen Rijksambtenarenreglement, artikel 20a van het Arbeidsovereenkomstenbesluit of [artikel 34a van het Ambtenarenreglement Staten-Generaal](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) is teruggebracht;  
+a. ambtenaar: de ambtenaar of werknemer wiens werktijd met toepassing van artikel 21a van het Algemeen Rijksambtenarenreglement, artikel 20a van het Arbeidsovereenkomstenbesluit of artikel 34a van het Ambtenarenreglement Staten-Generaal is teruggebracht;  
 
-b. inkomen: het salaris van de ambtenaar na de inhouding ter grootte van 5 of 10% op basis van artikel 21a van het Algemeen Rijksambtenarenreglement, artikel 20a van het Arbeidsovereenkomstenbesluit of [artikel 34a van het Ambtenarenreglement Staten-Generaal](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);  
+b. inkomen: het salaris van de ambtenaar na de inhouding ter grootte van 5 of 10% op basis van artikel 21a van het Algemeen Rijksambtenarenreglement, artikel 20a van het Arbeidsovereenkomstenbesluit of artikel 34a van het Ambtenarenreglement Staten-Generaal;  
 
-c. deeltijdsalaris: het salaris bedoeld in [artikel 11, eerste lid van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md), dat voor de ambtenaar zou zijn vastgesteld indien voor hem de teruggebrachte werktijd als onvolledige werktijd zou gelden.   
+c. deeltijdsalaris: het salaris bedoeld in artikel 11, eerste lid van het Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984, dat voor de ambtenaar zou zijn vastgesteld indien voor hem de teruggebrachte werktijd als onvolledige werktijd zou gelden.   
 
 ### Artikel  2  
 

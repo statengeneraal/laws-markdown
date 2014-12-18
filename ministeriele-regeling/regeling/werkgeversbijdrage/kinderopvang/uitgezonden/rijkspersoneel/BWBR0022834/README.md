@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 6 november 2007, nr. 2007-0000403727, tot het verstrekken van een werkgeversbijdrage in de kosten van opvang van kinderen van uitgezonden rijkspersoneel (Regeling werkgeversbijdrage kinderopvang uitgezonden rijkspersoneel)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op de [artikelen 69, vierde lid, van het Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [104, vierde lid, van het Ambtenarenreglement Staten-Generaal](../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md);
+Gelet op de artikelen 69, vierde lid, van het Algemeen Rijksambtenarenreglement en 104, vierde lid, van het Ambtenarenreglement Staten-Generaal;
 Besluit:    
 
 ### Artikel  1  
@@ -12,11 +12,11 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a. ambtenaar: degene die is aangesteld op grond van het [Algemeen Rijksambtenarenreglement](../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) of het [Ambtenarenreglement Staten-Generaal](../../../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) en door het bevoegd gezag met behoud van bezoldiging is geplaatst of gedetacheerd buiten Nederland;  
+a. ambtenaar: degene die is aangesteld op grond van het Algemeen Rijksambtenarenreglement of het Ambtenarenreglement Staten-Generaal en door het bevoegd gezag met behoud van bezoldiging is geplaatst of gedetacheerd buiten Nederland;  
 
-b. kinderopvang, gastouderopvang, kindercentrum, gastouderbureau, ouder en kinderopvangtoeslag: hetgeen daaronder wordt verstaan in [artikel 1.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+b. kinderopvang, gastouderopvang, kindercentrum, gastouderbureau, ouder en kinderopvangtoeslag: hetgeen daaronder wordt verstaan in artikel 1.1 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;  
 
-c. geregistreerd kindercentrum en geregistreerd gastouderbureau: een kindercentrum respectievelijk gastouderbureau dat is opgenomen in een register als bedoeld in de [artikelen 1.46](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) of [1.48 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+c. geregistreerd kindercentrum en geregistreerd gastouderbureau: een kindercentrum respectievelijk gastouderbureau dat is opgenomen in een register als bedoeld in de artikelen 1.46 of 1.48 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;  
 
 d. partner: levenspartner op grond van huwelijk, geregistreerd partnerschap of notariële samenlevingsovereenkomst bevattende de wederzijdse rechten en verplichtingen ter zake van de samenwoning en het voeren van een gemeenschappelijke huishouding.   
 
@@ -39,7 +39,7 @@ c. gastouderopvang in Nederland die plaatsvindt door tussenkomst van een geregis
 ####Hoogte van de bijdrage
 
 1.  De bijdrage bedraagt twee derde deel van de aan de ambtenaar of diens partner in rekening gebrachte kosten van kinderopvang.   
-2.  Bij het vaststellen van de hoogte van de bijdrage wordt een uurprijs in aanmerking genomen die niet hoger is dan de krachtens [artikel 1.7 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) vastgestelde uurprijs.  
+2.  Bij het vaststellen van de hoogte van de bijdrage wordt een uurprijs in aanmerking genomen die niet hoger is dan de krachtens artikel 1.7 van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen vastgestelde uurprijs.  
 
 ### Artikel  4  
 
@@ -64,7 +64,7 @@ d. het aantal uren genoten opvang.
 
 ####Intrekking regeling
 
-De [Regeling werkgeversbijdrage kinderopvang rijkspersoneel](../../../../../../../ministeriele-regeling/regeling/werkgeversbijdrage/kinderopvang/rijkspersoneel/BWBR0017415/README.md) wordt ingetrokken met dien verstande dat de vaststelling en toekenning van de definitieve bijdrage in de kosten van kinderopvang over het kalenderjaar 2006 volgens die regeling plaatsvindt. 
+De Regeling werkgeversbijdrage kinderopvang rijkspersoneel wordt ingetrokken met dien verstande dat de vaststelling en toekenning van de definitieve bijdrage in de kosten van kinderopvang over het kalenderjaar 2006 volgens die regeling plaatsvindt. 
 
 ### Artikel  6  
 

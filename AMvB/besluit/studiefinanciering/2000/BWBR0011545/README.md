@@ -26,7 +26,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  2  
 
-Onder «belastbaar minimumloon», bedoeld in artikel 1.1, eerste lid, van de wet, wordt verstaan: 108% van het twaalfvoud van het voor de maand januari van het berekeningsjaar geldende in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag per maand, verminderd met het werknemersaandeel in de premie ingevolge artikel 25, tweede lid, van de Wet financiering sociale verzekeringen en vermeerderd met de vergoeding ingevolge artikel 46, eerste lid, van de Zorgverzekeringswet over dat loon. 
+Onder «belastbaar minimumloon», bedoeld in artikel 1.1, eerste lid, van de wet, wordt verstaan: 108% van het twaalfvoud van het voor de maand januari van het berekeningsjaar geldende in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag bedoelde bedrag per maand. 
 
 ### Hoofdstuk  2  
 

@@ -3,7 +3,7 @@
 ##Raamregeling Telewerken
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op [artikel 67 van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) en [artikel 101 van het Ambtenarenreglement Staten-Generaal](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md),
+Gelet op artikel 67 van het Algemeen Rijksambtenarenreglement en artikel 101 van het Ambtenarenreglement Staten-Generaal,
 Besluit:     
 
 ###Artikel  1  
@@ -12,7 +12,7 @@ In deze regeling wordt verstaan onder:
 
 a.  *Onze Minister:* het hoofd van het betrokken ministerie; 
 
-b.  *de ambtenaar:* degene die is aangesteld op basis van het [Algemeen Rijksambtenarenreglement](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md), het [Ambtenarenreglement Staten-Generaal](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) of het [Reglement Dienst Buitenlandse Zaken](../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md); 
+b.  *de ambtenaar:* degene die is aangesteld op basis van het Algemeen Rijksambtenarenreglement, het Ambtenarenreglement Staten-Generaal of het Reglement Dienst Buitenlandse Zaken; 
 
 c.  *telewerken:* het verrichten van werkzaamheden ten behoeve van de dienst in de woning van de ambtenaar waarbij gebruik wordt gemaakt van informatie- en telecommunicatie-technologie; 
 
@@ -28,7 +28,7 @@ b.  de ambtenaar die op vrijwillige basis één of meer werkdagen per week telew
 
 ###Artikel  3  
 
-Voor de toepassing van deze regeling worden met Onze Minister gelijkgesteld het tot aanstelling bevoegd gezag als bedoeld in [artikel 3 van het Ambtenarenreglement Staten-Generaal](../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md), de vice-president van de Raad van State, het College van de Algemene Rekenkamer, de Nationale ombudsman en de directeur van het kabinet van de Koning, de kanselier der Nederlandse Orden en de voorzitter van de Hoge Raad van Adel.  
+Voor de toepassing van deze regeling worden met Onze Minister gelijkgesteld het tot aanstelling bevoegd gezag als bedoeld in artikel 3 van het Ambtenarenreglement Staten-Generaal, de vice-president van de Raad van State, het College van de Algemene Rekenkamer, de Nationale ombudsman en de directeur van het kabinet van de Koning, de kanselier der Nederlandse Orden en de voorzitter van de Hoge Raad van Adel.  
 
 ###Artikel  4  
 

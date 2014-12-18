@@ -632,7 +632,7 @@ f. met ingang van de dag volgend op de laatste dag van een door de Sociale verze
 
 ### Artikel  38  
 
-1.  De verzekerde, die voorafgaand aan de verplichte verzekering niet eerder verplicht verzekerd is geweest, kan zich, zolang hij de pensioengerechtigde leeftijd nog niet heeft bereikt, vrijwillig verzekeren vanaf de aanvangsleeftijd, over de achterliggende periode, waarin hij niet verplicht verzekerd is geweest.   
+1.  De verzekerde, die voorafgaand aan de verplichte verzekering niet eerder verplicht verzekerd is geweest, kan zich, zolang hij de pensioengerechtigde leeftijd nog niet heeft bereikt, vrijwillig verzekeren vanaf de aanvangsleeftijd, over de achterliggende periode, waarin hij niet verplicht verzekerd is geweest, indien hij ten minste vijf jaar verplicht verzekerd is geweest ingevolge de artikelen 6 of 6a, en voor zover hij in die achterliggende periode niet onderworpen is geweest aan een buitenlandse wettelijk verplichte ouderdomsverzekering, die bij het bereiken van de daarin aangegeven leeftijd recht geeft op ouderdomspensioen.   
 2.  Voor de toepassing van het eerste lid wordt degene wiens verplichte verzekering voor het bereiken van de aanvangsleeftijd is beëindigd, geacht niet verplicht verzekerd te zijn geweest gedurende de periode voorafgaand aan het bereiken van de aanvangsleeftijd.  
 3.  Bij of krachtens algemene maatregel van bestuur kunnen ten aanzien van het eerste lid nadere regels worden gesteld.  
 
@@ -761,6 +761,16 @@ Ten aanzien van de persoon wiens vrijheid op de dag voorafgaande aan de inwerkin
 ### Artikel  64c  
 
 Artikel 17, tweede lid, zoals dat luidde op de dag voorafgaand aan de dag van inwerkingtreding van artikel I, onderdeel B, van de Wet van 9 juli 2014 tot wijziging van de Algemene Ouderdomswet in verband met beëindiging van de voorschotregeling en vaststelling van een grondslag voor het stellen van regels ten aanzien van hetgeen wordt verstaan onder het hebben van het hoofdverblijf in dezelfde woning (Stb. 2014, 307) blijft van toepassing op pensioengerechtigden ten aanzien waarvan dat artikellid is toegepast tot het tijdstip waarop niet meer wordt voldaan aan de in dat artikellid gestelde voorwaarden. 
+
+### Artikel  64d  
+Treedt in werking per 01-04-2015 
+
+Artikel 7, zoals dat luidde op de dag voorafgaand aan de inwerkingtreding van artikel III, onderdeel A, van de Wet vereenvoudiging regelingen SVB blijft na de inwerkingtreding van dat artikelonderdeel van toepassing op personen die op die dag op grond van artikel 7 recht hebben op ouderdomspensioen. 
+
+### Artikel  64e  
+
+1.  Op aanvragen om gebruik te maken van de vrijwillige verzekering, bedoeld in artikel 38, eerste lid, die zijn ingediend voor de datum van inwerkingtreding van de Wet tot wijziging van de Algemene Ouderdomswet in verband met wijziging van de voorwaarden voor de vrijwillige verzekering over een achterliggende periode (Stb. PM) blijft artikel 38, eerste lid, van de Algemene Ouderdomswet, zoals dat luidde op de dag voorafgaand aan die datum van inwerkingtreding van toepassing.   
+2.  Op aanvragen om gebruik te maken van de vrijwillige verzekering, bedoeld in artikel 38, eerste lid, die zijn ingediend op of na de datum van inwerkingtreding van de Wet tot wijziging van de Algemene Ouderdomswet in verband met wijziging van de voorwaarden voor de vrijwillige verzekering over een achterliggende periode (Stb. PM) is artikel 38, eerste lid, van de Algemene Ouderdomswet, zoals dat door die wet is komen te luiden van toepassing.  
 
 ### Hoofdstuk  IX  
 

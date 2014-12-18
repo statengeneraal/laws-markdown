@@ -3,12 +3,12 @@
 ##Begrip militaire beloning 
 
 De minister van Binnenlandse Zaken en de minister van Financiën  
-Gelet op de [artikelen 18, vijfde lid van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), 26, [vijfde lid](../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) van het [Ambtenarenreglement Staten-Generaal](../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) en 16, vijfde lid van het Arbeidsovereenkomstenbesluit;
+Gelet op de artikelen 18, vijfde lid van het Algemeen Rijksambtenarenreglement, 26, vijfde lid van het Ambtenarenreglement Staten-Generaal en 16, vijfde lid van het Arbeidsovereenkomstenbesluit;
 Besluiten:    
 
 ### Artikel  1  
 
-Voor de toepassing van de [artikelen 18 van het Algemeen Rijksambtenarenreglement](../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md), 26 van het [Ambtenarenreglement Staten-Generaal](../../../../../AMvB/ambtenarenreglement/staten-generaal/BWBR0003229/README.md) en 16 van het Arbeidsovereenkomstenbesluit wordt verstaan onder militaire beloning: 
+Voor de toepassing van de artikelen 18 van het Algemeen Rijksambtenarenreglement, 26 van het Ambtenarenreglement Staten-Generaal en 16 van het Arbeidsovereenkomstenbesluit wordt verstaan onder militaire beloning: 
 
 A. Wat het personeel van de Koninklijke Marine betreft:  de bezoldiging volgens de schaal of de tabel, behorende bij het Besluit herziening bezoldiging militairen zeemacht 1954, in voorkomende gevallen vermeerderd met: 
 

@@ -4,7 +4,7 @@
 
 ####European Agreement concerning the International Carriage of Dangerous Goods by Road (ADR)
 
-The Contracting Parties, Desiring to increase the safety of international transport by road,   Have agreed as follows:    
+The Contracting Parties, Desiring to increase the safety of international transport by road,   Have agreed as follows<sup>Bijlagen A en B liggen ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen. De teksten van zowel de correcties van 5 oktober 2011, 26 maart 2013 en 20 oktober 2013 als de wijzigingen van 1 april 2009, 1 oktober 2010 en 1 oktober 2014 liggen ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen.</sup>:    
 
 ### Article  1  
 
@@ -147,7 +147,7 @@ On proceeding to sign the European Agreement on the International Carriage of Da
 
 ####Europese Overeenkomst betreffende het internationale vervoer van gevaarlijke goederen over de weg (ADR)
 
-De Overeenkomstsluitende Partijen, Verlangend de veiligheid van het internationale wegvervoer te verhogen,   Zijn het volgende overeengekomen:    
+De Overeenkomstsluitende Partijen, Verlangend de veiligheid van het internationale wegvervoer te verhogen,   Zijn het volgende overeengekomen<sup>Bijlagen A en B liggen ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen. De teksten van zowel de correcties van 5 oktober 2011, 26 maart 2013 en 20 oktober 2013 als de wijzigingen van 1 april 2009, 1 oktober 2010 en 1 oktober 2014 liggen ter inzage bij het Ministerie van Buitenlandse Zaken, afdeling Verdragen.</sup>:    
 
 ### Artikel  1  
 
