@@ -248,7 +248,7 @@ De wet kent aan een natuurlijk kind geen recht hoegenaamd toe op de goederen der
 ### Artikel  901  
 
 1.  De goederen, welke iemand bij zijn overlijden nalaat, behoren aan zijn wettelijke erfgenamen, voor zover hij daarover niet bij uiterste wil wettiglijk mocht hebben beschikt.   
-2.  Men kan geen afstand doen van een erfenis die nog niet opengevallen is, noch over een zodanige nalatenschap enig beding aangaan, zelfs niet met toestemming van degene over wiens nalatenschap gehandeld wordt, behoudens de bepalingen van [artikel 146 van Boek 1](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md).  
+2.  Men kan geen afstand doen van een erfenis die nog niet opengevallen is, noch over een zodanige nalatenschap enig beding aangaan, zelfs niet met toestemming van degene over wiens nalatenschap gehandeld wordt, behoudens de bepalingen van artikel 146 van Boek 1.  
 
 ### Artikel  902  
 
@@ -327,7 +327,7 @@ Indien een ondeelbare last aan verscheidene erfgenamen of legatarissen is opgele
 
 ### Artikel  920  
 
-Uiterste willen, gemaakt tengevolge van dwang, bedrog of arglist, zijn nietig. [Artikel 44 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) is niet van toepassing. 
+Uiterste willen, gemaakt tengevolge van dwang, bedrog of arglist, zijn nietig. Artikel 44 van Boek 3 is niet van toepassing. 
 
 ### Artikel  921  
 
@@ -357,7 +357,7 @@ De bekwaamheid van de erflater wordt beoordeeld naar de staat, waarin hij zich b
 
 ### Artikel  926  
 
-1.  Om uit kracht van een uiterste wil iets te kunnen genieten, moet men bestaan op het ogenblik van de dood des erflaters. Rechten uit een uiterste wil ten voordele van een rechtspersoon die voor dat ogenblik is opgehouden te bestaan ten gevolge van een fusie of splitsing, komen toe aan de verkrijgende rechtspersoon, onderscheidenlijk de verkrijgende rechtspersoon waarvan de aan de akte van splitsing gehechte beschrijving dat bepaalt. Indien aan de hand van de aan de akte van splitsing gehechte beschrijving niet kan worden bepaald welke rechtspersoon in de plaats en de rechten treedt van de gesplitste rechtspersoon, is [artikel 352 van Boek 2](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md) van overeenkomstige toepassing.   
+1.  Om uit kracht van een uiterste wil iets te kunnen genieten, moet men bestaan op het ogenblik van de dood des erflaters. Rechten uit een uiterste wil ten voordele van een rechtspersoon die voor dat ogenblik is opgehouden te bestaan ten gevolge van een fusie of splitsing, komen toe aan de verkrijgende rechtspersoon, onderscheidenlijk de verkrijgende rechtspersoon waarvan de aan de akte van splitsing gehechte beschrijving dat bepaalt. Indien aan de hand van de aan de akte van splitsing gehechte beschrijving niet kan worden bepaald welke rechtspersoon in de plaats en de rechten treedt van de gesplitste rechtspersoon, is artikel 352 van Boek 2 van overeenkomstige toepassing.   
 2.  Deze bepaling is niet toepasselijk op personen, die geroepen zijn om uit stichtingen genot te trekken.  
 
 ### Artikel  927  
@@ -470,7 +470,7 @@ Het aandeel, waarover men beschikken mag, kan, hetzij in het geheel of gedeeltel
 
 ### Artikel  946  
 
-1.  Legitimarissen en hun rechtverkrijgenden onder algemene titel kunnen makingen en giften die aan het wettelijk erfdeel tekort doen, door inkorting verminderen, indien voldaan is aan de vereisten, in deze afdeling daartoe gesteld. Door inkorting wordt een making of gift vernietigd, voor zover zij aan het wettelijk erfdeel tekort doet. [Artikel 52 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) is niet van toepassing.   
+1.  Legitimarissen en hun rechtverkrijgenden onder algemene titel kunnen makingen en giften die aan het wettelijk erfdeel tekort doen, door inkorting verminderen, indien voldaan is aan de vereisten, in deze afdeling daartoe gesteld. Door inkorting wordt een making of gift vernietigd, voor zover zij aan het wettelijk erfdeel tekort doet. Artikel 52 van Boek 3 is niet van toepassing.   
 2.  Desniettegenstaande zullen de legitimarissen van die vermindering niets kunnen genieten ten nadele van de schuldeisers van de overledene.  
 
 ### Artikel  947  
@@ -509,7 +509,7 @@ De goederen, die uit kracht van vermindering in de boedel moeten terugkeren, wor
 
 ### Artikel  955  
 
-1.  Tegenover derde-verkrijgers van vermaakte of gegeven goederen, aan wie niet een beroep op de [artikelen 86 tot en met 88 van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) toekomt, moet worden ingekort volgens de volgorde dier vervreemdingen, te beginnen met die vervreemdingen welke het laatst gedaan is.   
+1.  Tegenover derde-verkrijgers van vermaakte of gegeven goederen, aan wie niet een beroep op de artikelen 86 tot en met 88 van Boek 3 toekomt, moet worden ingekort volgens de volgorde dier vervreemdingen, te beginnen met die vervreemdingen welke het laatst gedaan is.   
 2.  Desniettemin zal de inkorting tegen derde verkrijgers geen plaatshebben, dan voor zover de begiftigde geen andere goederen mocht hebben overgehouden, welke in de gift begrepen waren, en deze niet genoegzaam zijn om het wettelijk erfdeel in zijn geheel te voldoen, en indien de waarde der vervreemde goederen niet op zijn persoonlijke goederen mocht kunnen worden verhaald.   
 3.  De rechtsvordering tot inkorting jegens derde-verkrijgers verjaart door het tijdsverloop van drie jaren, te rekenen van de dag waarop de legitimaris de erfenis heeft aanvaard.  
 
@@ -888,7 +888,7 @@ De vervallenverklaring van uiterste wilsbeschikkingen kan, na de dood des erflat
 
 ### Artikel  1032  
 
-Handelingsonbekwamen, zij van wie een of meer goederen onder een bewind als bedoeld in [titel 19 van Boek 1](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md) zijn gesteld, en zij die in staat van faillissement verkeren, kunnen niet uitvoerder van uiterste wilsbeschikkingen zijn. 
+Handelingsonbekwamen, zij van wie een of meer goederen onder een bewind als bedoeld in titel 19 van Boek 1 zijn gesteld, en zij die in staat van faillissement verkeren, kunnen niet uitvoerder van uiterste wilsbeschikkingen zijn. 
 
 ### Artikel  1033  
 
@@ -1373,7 +1373,7 @@ De schuldeisers en de legatarissen van de overledene mogen van de schuldeisers v
 
 ### Artikel  1134  
 
-Indien tot de nalatenschap een registergoed behoort en de schuldeisers of legatarissen hun rechtsvordering tot afscheiding binnen zes maanden nadat de nalatenschap is opengevallen hebben aangevangen, zijn zij bevoegd om het instellen daarvan te doen inschrijven in de openbare registers, bedoeld in [titel 1, afdeling 2, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), waartoe aan de bewaarder mede een authentiek afschrift van de akte van overlijden van de erflater of een ander bewijs dat de rechtsvordering binnen de voormelde termijn is ingesteld, wordt aangeboden. Na de inschrijving kan de erfgenaam het goed niet vervreemden of bezwaren ten nadele van de rechten van de eisers ten laste der nalatenschap 
+Indien tot de nalatenschap een registergoed behoort en de schuldeisers of legatarissen hun rechtsvordering tot afscheiding binnen zes maanden nadat de nalatenschap is opengevallen hebben aangevangen, zijn zij bevoegd om het instellen daarvan te doen inschrijven in de openbare registers, bedoeld in titel 1, afdeling 2, van Boek 3, waartoe aan de bewaarder mede een authentiek afschrift van de akte van overlijden van de erflater of een ander bewijs dat de rechtsvordering binnen de voormelde termijn is ingesteld, wordt aangeboden. Na de inschrijving kan de erfgenaam het goed niet vervreemden of bezwaren ten nadele van de rechten van de eisers ten laste der nalatenschap 
 
 ### Artikel  1135  
 
@@ -1435,7 +1435,7 @@ De schuldeisers van de erfgenaam hebben geen bevoegdheid, om die afscheiding des
 
 ### Artikel  1147  
 
-De bloedverwanten in de opgaande linie mogen bij uiterste wilsbeschikking, of bij notariële akte, tussen hun afkomelingen onderling of tussen dezen en hun langstlevende echtgenoot de verdeling hunner goederen maken. Op deze verdeling is [artikel 186, eerste lid, van Boek 3](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) niet van toepassing. 
+De bloedverwanten in de opgaande linie mogen bij uiterste wilsbeschikking, of bij notariële akte, tussen hun afkomelingen onderling of tussen dezen en hun langstlevende echtgenoot de verdeling hunner goederen maken. Op deze verdeling is artikel 186, eerste lid, van Boek 3 niet van toepassing. 
 
 ### Artikel  1148  
 

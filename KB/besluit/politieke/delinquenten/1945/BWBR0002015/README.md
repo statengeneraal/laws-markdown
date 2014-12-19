@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Met de opsporing van de strafbare feiten, waarop het [Besluit Buitengewoon Strafrecht](../../../../../../KB/besluit/buitengewoon/strafrecht/BWBR0002006/README.md) van toepassing is en van de gedragingen, genoemd in [artikel 1 van het Tribunaalbesluit](../../../../../../KB/tribunaalbesluit/BWBR0002009/README.md), zijn belast de ambtenaren, bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), alsmede de daartoe door Onzen Minister van Justitie aan te wijzen ambtenaren van politie.   
+1.  Met de opsporing van de strafbare feiten, waarop het Besluit Buitengewoon Strafrecht van toepassing is en van de gedragingen, genoemd in artikel 1 van het Tribunaalbesluit, zijn belast de ambtenaren, bedoeld in artikel 141 van het Wetboek van Strafvordering, alsmede de daartoe door Onzen Minister van Justitie aan te wijzen ambtenaren van politie.   
 2.   Zij richten zich bij de uitvoering van hun taak naar de bevelen, hun bij uitsluiting gegeven door of vanwege den procureur-fiscaal bij het Bijzonder Gerechtshof, binnen welks ressort zij standplaats hebben.  
 
 ### Artikel  2  
@@ -48,7 +48,7 @@ Alvorens in bediening te treden leggen de officieren-fiscaal naar de wijze hunne
 
 ### Artikel  6  
 
-De in artikel 1 bedoelde opsporingsambtenaren oefenen behalve de bevoegdheden, in het [Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aan opsporingsambtenaren toegekend, de hun in dit besluit toegekende bevoegdheden uit. 
+De in artikel 1 bedoelde opsporingsambtenaren oefenen behalve de bevoegdheden, in het Wetboek van Strafvordering aan opsporingsambtenaren toegekend, de hun in dit besluit toegekende bevoegdheden uit. 
 
 ### Artikel  6a  
 
@@ -98,7 +98,7 @@ De in bewaring gestelde personen worden aan geen andere beperkingen onderworpen 
 
 ### Artikel  13a  
 
-Ten aanzien van de bevoegdheden van den raadsman betreffende het verkeer met den verdachte, die in bewaring is gesteld, is [artikel 50 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing, met dien verstande, dat hetgeen daar ten aanzien van den rechter-commissaris, den officier van justitie en de rechtbank is bepaald, ten deze geldt voor den raadsheer-commissaris in het Bijzondere Gerechtshof, den procureur-fiscaal bij dat Hof en den raadsheer of raadsheer-plaatsvervanger, bedoeld in artikel 16, tweede lid, en met dien verstande, dat in het geval, bedoeld in [artikel 31 van het Tribunaalbesluit](../../../../../../KB/tribunaalbesluit/BWBR0002009/README.md), uitsluitend dat artikel toepassing vindt. 
+Ten aanzien van de bevoegdheden van den raadsman betreffende het verkeer met den verdachte, die in bewaring is gesteld, is artikel 50 van het Wetboek van Strafvordering van overeenkomstige toepassing, met dien verstande, dat hetgeen daar ten aanzien van den rechter-commissaris, den officier van justitie en de rechtbank is bepaald, ten deze geldt voor den raadsheer-commissaris in het Bijzondere Gerechtshof, den procureur-fiscaal bij dat Hof en den raadsheer of raadsheer-plaatsvervanger, bedoeld in artikel 16, tweede lid, en met dien verstande, dat in het geval, bedoeld in artikel 31 van het Tribunaalbesluit, uitsluitend dat artikel toepassing vindt. 
 
 ### Artikel  13b  
 
@@ -106,7 +106,7 @@ Ten aanzien van de bevoegdheden van den raadsman betreffende het verkeer met den
 2.   Niettemin kan de procureur-fiscaal, indien het belang van het onderzoek dit vordert, den raadsman de kennisneming van bepaalde stukken onthouden. In dit geval wordt den raadsman schriftelijk medegedeeld, dat de hem ter inzage gegeven stukken niet volledig zijn.   
 3.   Aan den raadsman mag niet worden onthouden de kennisneming van het schriftelijk gegeven of bevestigd bevel tot bewaring en van de processen-verbaal van de verhooren van den verdachte.   
 4.   Indien den raadsman de kennisneming van stukken wordt onthouden, kan hij daartegen binnen drie dagen na de mededeeling, vermeld in het tweede lid, een bezwaarschrift indienen bij den raadsheer of raadsheer-plaatsvervanger, bedoeld in artikel 16, tweede lid, die binnen vijf dagen beslist.   
-5.   In de gevallen, bedoeld in [artikel 33 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [artikel 33 van het Tribunaalbesluit](../../../../../../KB/tribunaalbesluit/BWBR0002009/README.md), vinden uitsluitend die artikelen toepassing.  
+5.   In de gevallen, bedoeld in artikel 33 van het Wetboek van Strafvordering en artikel 33 van het Tribunaalbesluit, vinden uitsluitend die artikelen toepassing.  
 
 ### Afdeeling  V  
 
@@ -118,9 +118,9 @@ Ten aanzien van de bevoegdheden van den raadsman betreffende het verkeer met den
 
 1°. indien blijkt, dat de gerezen verdenking hetzij ongegrond is, hetzij onvoldoende gegrond om voortzetting der bewaring te rechtvaardigen;  
 
-2°. indien niet blijkt, dat de schuld van den betrokkene van zoodanigen aard is, dat oplegging van een straf of maatregel ingevolge het [Besluit Buitengewoon Strafrecht](../../../../../../KB/besluit/buitengewoon/strafrecht/BWBR0002006/README.md) of het [Tribunaalbesluit](../../../../../../KB/tribunaalbesluit/BWBR0002009/README.md) gerechtvaardigd is te achten;  
+2°. indien niet blijkt, dat de schuld van den betrokkene van zoodanigen aard is, dat oplegging van een straf of maatregel ingevolge het Besluit Buitengewoon Strafrecht of het Tribunaalbesluit gerechtvaardigd is te achten;  
 
-3°. indien redelijkerwijze moet worden aangenomen, dat de bewaarde bij oplegging van een straf of maatregel ingevolge het [Besluit Buitengewoon Strafrecht](../../../../../../KB/besluit/buitengewoon/strafrecht/BWBR0002006/README.md) of het [Tribunaalbesluit](../../../../../../KB/tribunaalbesluit/BWBR0002009/README.md) niet langer van zijn vrijheid zal worden beroofd dan voor den tijd gedurende welken hij in bewaring is geweest;  
+3°. indien redelijkerwijze moet worden aangenomen, dat de bewaarde bij oplegging van een straf of maatregel ingevolge het Besluit Buitengewoon Strafrecht of het Tribunaalbesluit niet langer van zijn vrijheid zal worden beroofd dan voor den tijd gedurende welken hij in bewaring is geweest;  
 
 4°. indien voortzetting van de bewaring, gezien den geestelijken of lichamelijken toestand van den bewaarde of de belangen van zijn gezin in verband met den ernst van de feiten en gedragingen, waarvan hij verdacht wordt, redelijkerwijze niet is gerechtvaardigd.     
 2.   Een bewaarde kan in vrijheid worden gesteld, indien te zijnen aanzien niet is gebleken, dat hij de belangen van den Staat in feite heeft geschaad dan wel het leven, de vrijheid of het goed van medeburgers in feite heeft in gevaar gebracht, terwijl geen gewichtige omstandigheden den ernst van de feiten en gedragingen, waarvan hij verdacht wordt, verzwaren.   
@@ -160,7 +160,7 @@ Het verzoek kan buiten behandeling blijven:
 
 ### Artikel  18  
 
-1.  Bewaarden, die in vrijheid worden gesteld, en andere personen, die verdacht worden van feiten en gedragingen, vallende onder het [Besluit Buitengewoon Strafrecht](../../../../../../KB/besluit/buitengewoon/strafrecht/BWBR0002006/README.md) en het [Tribunaalbesluit](../../../../../../KB/tribunaalbesluit/BWBR0002009/README.md), kunnen door of vanwege den procureur-fiscaal bij het Bijzondere Gerechtshof, die de zaak in behandeling heeft, al dan niet voorwaardelijk buiten vervolging worden gesteld.   
+1.  Bewaarden, die in vrijheid worden gesteld, en andere personen, die verdacht worden van feiten en gedragingen, vallende onder het Besluit Buitengewoon Strafrecht en het Tribunaalbesluit, kunnen door of vanwege den procureur-fiscaal bij het Bijzondere Gerechtshof, die de zaak in behandeling heeft, al dan niet voorwaardelijk buiten vervolging worden gesteld.   
 2.   Buitenvervolgingstelling heeft mede als rechtsgevolg, dat de gedragingen van den betrokkene niet meer kunnen worden onderworpen aan het oordeel van het Tribunaal.  
 
 ### Artikel  19  
@@ -169,7 +169,7 @@ De buitenvervolgingstelling geschiedt onvoorwaardelijk:
 
 1e. indien de gerezen verdenking ongegrond is gebleken;  
 
-2e. indien niet blijkt, dat de schuld van den betrokkene van zoodanigen aard is, dat oplegging van een straf of maatregel ingevolge het [Besluit Buitengewoon Strafrecht](../../../../../../KB/besluit/buitengewoon/strafrecht/BWBR0002006/README.md) of het [Tribunaalbesluit](../../../../../../KB/tribunaalbesluit/BWBR0002009/README.md) gerechtvaardigd is te achten.   
+2e. indien niet blijkt, dat de schuld van den betrokkene van zoodanigen aard is, dat oplegging van een straf of maatregel ingevolge het Besluit Buitengewoon Strafrecht of het Tribunaalbesluit gerechtvaardigd is te achten.   
 
 ### Artikel  20  
 
@@ -214,7 +214,7 @@ l. verplichting binnen te bepalen termijn een bepaald bedrag te betalen.
 3e. het kiezen en de verkiesbaarheid bij krachtens wettelijk voorschrift uitgeschreven verkiezingen;  
 
 4e. het zijn van raadsman of gerechtelijk bewindvoerder, tenzij door of vanwege den procureur-fiscaal anders wordt bepaald.     
-2.   [Artikel 5, tweede lid, van het Tribunaalbesluit](../../../../../../KB/tribunaalbesluit/BWBR0002009/README.md) is van overeenkomstige toepassing.   
+2.   Artikel 5, tweede lid, van het Tribunaalbesluit is van overeenkomstige toepassing.   
 3.   Hij, die een recht uitoefent, wetende dat hij daarvan ingevolge het voorgaande lid is ontzet, wordt gestraft met gevangenisstraf van ten hoogste zes maanden of geldboete van ten hoogste tien duizend gulden. Het feit wordt beschouwd als een misdrijf.  
 
 ### Artikel  22  
@@ -243,7 +243,7 @@ l. verplichting binnen te bepalen termijn een bepaald bedrag te betalen.
 
 ### Artikel  24  
 
-Afgezien van het geval, genoemd in het voorgaande artikel en van dat, bedoeld in [artikel 37 van het Tribunaalbesluit](../../../../../../KB/tribunaalbesluit/BWBR0002009/README.md), kan een in vrijheid gestelde niet opnieuw worden aangehouden of in bewaring gesteld op verdenking van een der in artikel 1 bedoelde feiten of gedragingen. 
+Afgezien van het geval, genoemd in het voorgaande artikel en van dat, bedoeld in artikel 37 van het Tribunaalbesluit, kan een in vrijheid gestelde niet opnieuw worden aangehouden of in bewaring gesteld op verdenking van een der in artikel 1 bedoelde feiten of gedragingen. 
 
 ### Afdeeling  VIII  
 
@@ -273,7 +273,7 @@ Het verzet schorst noch de verplichting tot naleving van de voorwaarden noch de 
 
 ### Artikel  29  
 
-Het verzet brengt van rechtswege mede behandeling van de zaak, al naar gelang van haar aard, overeenkomstig het [Besluit Buitengewoon Strafrecht](../../../../../../KB/besluit/buitengewoon/strafrecht/BWBR0002006/README.md) en het [Besluit Buitengewone Rechtspleging](../../../../../../KB/besluit/buitengewone/rechtspleging/BWBR0002008/README.md), indien het Bijzondere Gerechtshof, en overeenkomstig het [Tribunaalbesluit](../../../../../../KB/tribunaalbesluit/BWBR0002009/README.md), indien het Tribunaal ervan kennis neemt. 
+Het verzet brengt van rechtswege mede behandeling van de zaak, al naar gelang van haar aard, overeenkomstig het Besluit Buitengewoon Strafrecht en het Besluit Buitengewone Rechtspleging, indien het Bijzondere Gerechtshof, en overeenkomstig het Tribunaalbesluit, indien het Tribunaal ervan kennis neemt. 
 
 ### Artikel  30  
 

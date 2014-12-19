@@ -24,9 +24,9 @@ Voor de toepassing van deze wet en de daarop berustende nadere regelingen en uit
 
 *gezagvoerder van een luchtvaartuig:* elke gezagvoerder van een Nederlands burgerlijk luchtvaartuig of degene die deze vervangt;  
 
-*Hof van Justitie en Hof:* Hof van Justitie en Hof: het Gemeenschappelijk Hof, bedoeld in [artikel 14, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie](../../../../../../rijkswet/rijkswet/gemeenschappelijk/hof/van/justitie/BWBR0028070/README.md);  
+*Hof van Justitie en Hof:* Hof van Justitie en Hof: het Gemeenschappelijk Hof, bedoeld in artikel 14, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie;  
 
-*huiszoeking:* het gericht en stelselmatig onderzoeken van een plaats als bedoeld in de [artikelen 144](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [145 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), op de aanwezigheid van voor inbeslagneming vatbare voorwerpen;  
+*huiszoeking:* het gericht en stelselmatig onderzoeken van een plaats als bedoeld in de artikelen 144 en 145 van het Wetboek van Strafrecht BES, op de aanwezigheid van voor inbeslagneming vatbare voorwerpen;  
 
 *hulpofficieren van justitie:* de in artikel 191 bedoelde personen;  
 
@@ -34,7 +34,7 @@ Voor de toepassing van deze wet en de daarop berustende nadere regelingen en uit
 
 *installatie ter zee:* elke installatie buiten Bonaire, Sint Eustatius en Saba opgericht op de bodem van de territoriale zee of dat deel van de Caribische zee of de Atlantische Oceaan, waarvan de grenzen samenvallen met die van het aan genoemde eilanden toekomende gedeelte van het continentale plat;  
 
-*Nederlands schip:* hetgeen daaronder wordt verstaan in [artikel 88 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md);  
+*Nederlands schip:* hetgeen daaronder wordt verstaan in artikel 88 van het Wetboek van Strafrecht BES;  
 
 *opsporingsambtenaren:* alle personen die overeenkomstig de artikelen 184 en 185 met de opsporing van strafbare feiten zijn belast, alsmede de leden van het openbaar ministerie, indien zij van hun opsporingsbevoegdheid gebruik maken;  
 
@@ -75,7 +75,7 @@ Voor de toepassing van deze wet en de daarop berustende nadere regelingen en uit
 
 ### Artikel  3  
 
-1.  Een in dit wetboek vastgestelde termijn, binnen welke tegen enige beslissing beroep kan worden aangetekend, eindigende op een zaterdag, zondag of algemeen erkende feestdag, wordt verlengd tot en met de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is. De [Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is van overeenkomstige toepassing.   
+1.  Een in dit wetboek vastgestelde termijn, binnen welke tegen enige beslissing beroep kan worden aangetekend, eindigende op een zaterdag, zondag of algemeen erkende feestdag, wordt verlengd tot en met de eerstvolgende dag die niet een zaterdag, zondag of algemeen erkende feestdag is. De Algemene termijnenwet is van overeenkomstige toepassing.   
 2.  Een termijn van drie dagen wordt, zo nodig, zoveel verlengd, dat daarin ten minste twee dagen voorkomen die niet een zaterdag, zondag of algemeen erkende feestdag zijn.   
 3.  Onder maand wordt verstaan de tijd van dertig dagen, onder een dag de tijd van vierentwintig uren.  
 
@@ -203,7 +203,7 @@ De leden van het Hof die over het beklag hebben geoordeeld, nemen noch in eerste
 
 ### Artikel  28  
 
-Bij toepassing van [artikel 76 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) is beklag niet toegelaten. 
+Bij toepassing van artikel 76 van het Wetboek van Strafrecht BES is beklag niet toegelaten. 
 
 ### Artikel  29  
 
@@ -359,7 +359,7 @@ b. ten aanzien van de deskundige en de tolk: dat hij zijn taak naar geweten zal 
 
 1.  Als verdachte wordt aangemerkt degene te wiens aanzien uit feiten of omstandigheden een redelijk vermoeden van schuld aan enig strafbaar feit voortvloeit.   
 2.  Gedurende de vervolging wordt als verdachte aangemerkt degene tegen wie de vervolging is gericht.   
-3.  De aan de verdachte toekomende rechten komen tevens toe aan de veroordeelde tegen wie een strafrechtelijk financieel onderzoek is ingesteld of te wiens aanzien op een vordering van het openbaar ministerie als bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) niet onherroepelijk is beslist.  
+3.  De aan de verdachte toekomende rechten komen tevens toe aan de veroordeelde tegen wie een strafrechtelijk financieel onderzoek is ingesteld of te wiens aanzien op een vordering van het openbaar ministerie als bedoeld in artikel 38e van het Wetboek van Strafrecht BES niet onherroepelijk is beslist.  
 
 ### Tweede Afdeling  
 
@@ -492,7 +492,7 @@ De kennisneming van geen enkel processtuk in het oorspronkelijke of in afschrift
 ### Artikel  62  
 
 1.  Aan iedere verdachte, die in verzekering is gesteld, wordt een raadsman toegevoegd, zodra tegen hem het bevel tot inverzekeringstelling wordt verleend, tenzij hij uitdrukkelijk heeft verklaard van het recht op toevoeging afstand te doen. De officier van justitie of de hulpofficier van justitie die het bevel heeft verleend, licht onverwijld de instantie die met de toevoeging is belast, omtrent de inverzekeringstelling in.   
-2.  Een toevoeging ingevolge het eerste lid blijft tijdens de voorlopige hechtenis van kracht, tenzij de verdachte niet on- of minvermogend is in de zin van de [Wet kosteloze rechtskundige bijstand BES](../../../../../../wet-BES/wet/kosteloze/rechtskundige/bijstand/bes/BWBR0028200/README.md).   
+2.  Een toevoeging ingevolge het eerste lid blijft tijdens de voorlopige hechtenis van kracht, tenzij de verdachte niet on- of minvermogend is in de zin van de Wet kosteloze rechtskundige bijstand BES.   
 3.  Bij of krachtens algemene maatregel van bestuur worden zoveel mogelijk in overeenstemming met de situatie op de eilanden nadere regels gesteld omtrent de toevoeging aan in verzekering gestelde verdachten.  
 
 ### Artikel  63  
@@ -564,7 +564,7 @@ Voor de beloning van de bijstand door toegevoegde raadslieden alsmede voor de ve
 1.  De raadsman heeft vrije toegang tot de verdachte wie rechtens zijn vrijheid is ontnomen, kan hem buiten aanwezigheid van anderen spreken en met hem brieven wisselen zonder dat van de inhoud door anderen wordt kennisgenomen, een en ander onder het vereiste toezicht, met inachtneming van de huishoudelijke reglementen, zulks onverminderd hetgeen door de wettelijke bepalingen wordt gevorderd, en zonder dat het onderzoek daardoor mag worden opgehouden.   
 2.  Indien uit bepaalde omstandigheden een ernstig vermoeden voortvloeit dat het vrije verkeer tussen raadsman en verdachte hetzij zal strekken om de verdachte bekend te maken met enige omstandigheid, waarvan hij in het belang van het onderzoek tijdelijk onkundig moet blijven, hetzij wordt misbruikt voor pogingen om de waarheidsvinding te belemmeren, kan tijdens het gerechtelijk vooronderzoek de rechter-commissaris en overigens tijdens het voorbereidend onderzoek de officier van justitie telkens aan de bevoegde autoriteiten bevelen, dat de raadsman geen toegang tot de verdachte zal hebben of deze niet alleen zal mogen spreken en dat brieven of andere stukken, tussen raadsman en verdachte gewisseld, niet zullen worden uitgereikt. Het bevel omschrijft de bepaalde omstandigheden in de voorgaande volzin bedoeld; het beperkt de vrijheid van verkeer tussen raadsman en verdachte niet meer en wordt voor niet langer gegeven dan door die omstandigheden wordt gevorderd, en is in elk geval slechts gedurende ten hoogste acht dagen van kracht. Van het bevel geschiedt onverwijld schriftelijke mededeling aan de raadsman en aan de verdachte.   
 3.  De raadsman kan tegen het bevel binnen drie dagen na die mededeling een bezwaarschrift indienen bij het Hof van Justitie. Deze wordt gehoord, althans behoorlijk daartoe opgeroepen. Het Hof kan bij zijn beslissing het bevel opheffen, wijzigen of aanvullen.   
-4.  Wanneer het betreft een persoon die verdacht wordt van een van de in de [artikelen 97 tot en met 113 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) omschreven misdrijven tegen de veiligheid van de Staat, kan tijdens het gerechtelijk vooronderzoek de rechter-commissaris en overigens tijdens het voorbereidend onderzoek de officier van justitie telkens voor het tijdvak van ten hoogste veertien dagen bevelen, dat er geen vrij verkeer tussen de verdachte en zijn raadsman zal plaatsvinden, indien hij van oordeel is, dat het belang van het onderzoek zich daartegen bepaaldelijk verzet. Van het bevel geschiedt onverwijld schriftelijke mededeling aan de raadsman en aan de verdachte. Het derde lid is van toepassing.   
+4.  Wanneer het betreft een persoon die verdacht wordt van een van de in de artikelen 97 tot en met 113 van het Wetboek van Strafrecht BES omschreven misdrijven tegen de veiligheid van de Staat, kan tijdens het gerechtelijk vooronderzoek de rechter-commissaris en overigens tijdens het voorbereidend onderzoek de officier van justitie telkens voor het tijdvak van ten hoogste veertien dagen bevelen, dat er geen vrij verkeer tussen de verdachte en zijn raadsman zal plaatsvinden, indien hij van oordeel is, dat het belang van het onderzoek zich daartegen bepaaldelijk verzet. Van het bevel geschiedt onverwijld schriftelijke mededeling aan de raadsman en aan de verdachte. Het derde lid is van toepassing.   
 5.  Alle belemmeringen van het vrije verkeer tussen raadsman en verdachte, die ingevolge een van de vier voorgaande leden bevolen zijn, nemen een einde zodra het gerechtelijk vooronderzoek is beëindigd of, ingeval een gerechtelijk vooronderzoek niet heeft plaatsgehad, zodra de dagvaarding ter terechtzitting in eerste aanleg is betekend.  
 
 ### Derde Boek  
@@ -605,7 +605,7 @@ d. dat de ernst van de door het dwangmiddel te veroorzaken inbreuk redelijkerwij
 
 ### Artikel  74  
 
-1.  Ook buiten het geval van ontdekking op heterdaad is de officier van justitie bevoegd de verdachte van enig strafbaar feit waarvoor voorlopige hechtenis is toegelaten, of van het strafbare feit omschreven in [artikel 454, aanhef en onder ten 3e, van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), aan te houden en zonder uitstel naar een plaats van verhoor te geleiden; hij kan ook de aanhouding of voorgeleiding van de verdachte bevelen.   
+1.  Ook buiten het geval van ontdekking op heterdaad is de officier van justitie bevoegd de verdachte van enig strafbaar feit waarvoor voorlopige hechtenis is toegelaten, of van het strafbare feit omschreven in artikel 454, aanhef en onder ten 3e, van het Wetboek van Strafrecht BES, aan te houden en zonder uitstel naar een plaats van verhoor te geleiden; hij kan ook de aanhouding of voorgeleiding van de verdachte bevelen.   
 2.  Kan het optreden van de officier van justitie niet worden afgewacht, dan komt gelijke bevoegdheid toe aan de hulpofficier van justitie. De hulpofficier geeft van de aanhouding onverwijld schriftelijk of mondeling kennis aan de officier van justitie.   
 3.  Kan ook het optreden van een hulpofficier niet worden afgewacht, dan is elke opsporingsambtenaar bevoegd de verdachte aan te houden, onder de verplichting zorg te dragen dat hij onverwijld voor de officier van justitie of de hulpofficier wordt geleid. Op de hulpofficier voor wie de verdachte wordt geleid, is de tweede volzin van het tweede lid van toepassing.  
 
@@ -869,7 +869,7 @@ Ten aanzien van de gevangenhouding en de gevangenneming is artikel 94 van overe
 
 a. een misdrijf, waarop naar de wettelijke omschrijving gevangenisstraf van vier jaren of meer is gesteld, of  
 
-b. een van de misdrijven omschreven in de [artikelen 204, eerste en tweede lid](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [236](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [245, derde lid](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), 265c, 265d, [259](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [266](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [298, eerste lid](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [321a](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [334](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [339](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [339a](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [366, eerste lid](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [368](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [404](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [405](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [410](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [431 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md).     
+b. een van de misdrijven omschreven in de artikelen 204, eerste en tweede lid, 236, 245, derde lid, 265c, 265d, 259, 266, 298, eerste lid, 321a, 334, 339, 339a, 366, eerste lid, 368, 404, 405, 410 en 431 van het Wetboek van Strafrecht BES.     
 2.  Het bevel kan voorts worden gegeven, indien de verdachte geen vaste woon- of verblijfplaats in de openbare lichamen Bonaire, Sint Eustatius en Saba heeft, en hij verdacht wordt van een misdrijf, waarop naar de wettelijke omschrijving gevangenisstraf is gesteld.  
 
 ### Vierde Afdeling  
@@ -1026,13 +1026,13 @@ Waar in deze paragraaf wordt gesproken van schorsing, wordt daaronder begrepen o
 
 ### Artikel  119  
 
-1.  Vatbaar voor inbeslagneming zijn alle voorwerpen en vorderingen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel, als bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), aan te tonen.   
+1.  Vatbaar voor inbeslagneming zijn alle voorwerpen en vorderingen die kunnen dienen om de waarheid aan de dag te brengen of om wederrechtelijk verkregen voordeel, als bedoeld in artikel 38e van het Wetboek van Strafrecht BES, aan te tonen.   
 2.  Voorts zijn vatbaar voor inbeslagneming alle voorwerpen en vorderingen welker verbeurdverklaring of onttrekking aan het verkeer kan worden bevolen.  
 
 ### Artikel  119a  
 
 1.  In geval van verdenking van een misdrijf, waarop naar de wettelijke omschrijving gevangenisstraf van ten hoogste vier of meer jaren is gesteld, of een misdrijf, waardoor op geld waardeerbaar voordeel van enig belang kan worden verkregen, kunnen voorwerpen inbeslaggenomen worden tot bewaring van het recht tot verhaal voor een ter zake van dat misdrijf op te leggen geldboete.   
-2.  In geval van verdenking van of veroordeling wegens een misdrijf, waarop naar de wettelijke omschrijving gevangenisstraf van ten hoogste vier of meer jaren is gesteld, of een misdrijf, waardoor op geld waardeerbaar voordeel van enig belang kan worden verkregen, kunnen voorwerpen in beslag worden genomen tot bewaring van het recht tot verhaal voor een naar aanleiding van dat misdrijf op te leggen verplichting tot betaling van een geldbedrag aan de Staat ter ontneming van wederrechtelijk verkregen voordeel als bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md).   
+2.  In geval van verdenking van of veroordeling wegens een misdrijf, waarop naar de wettelijke omschrijving gevangenisstraf van ten hoogste vier of meer jaren is gesteld, of een misdrijf, waardoor op geld waardeerbaar voordeel van enig belang kan worden verkregen, kunnen voorwerpen in beslag worden genomen tot bewaring van het recht tot verhaal voor een naar aanleiding van dat misdrijf op te leggen verplichting tot betaling van een geldbedrag aan de Staat ter ontneming van wederrechtelijk verkregen voordeel als bedoeld in artikel 38e van het Wetboek van Strafrecht BES.   
 3.  Voorwerpen die toebehoren aan een ander dan degene aan wie, in het in het eerste lid bedoelde geval, de geldboete kan worden opgelegd of degene aan wie, in het in het tweede lid bedoelde geval, het wederrechtelijk verkregen voordeel kan worden ontnomen, kunnen in beslag worden genomen indien: 
 
 a. die voorwerpen, onmiddellijk of middellijk, afkomstig zijn van het misdrijf in verband waarmee de geldboete kan worden opgelegd onderscheidenlijk het wederrechtelijk verkregen voordeel kan worden ontnomen, en  
@@ -1048,13 +1048,13 @@ Voor de toepassing van de artikelen 119 en 119a geldt:
 
 a. dat beslag op vorderingen wordt gelegd en beëindigd door een schriftelijke kennisgeving aan de schuldenaar;  
 
-b. dat bij het leggen en beëindigen van beslag op onroerende goederen de tussenkomst van de deurwaarder wordt ingeroepen en formaliteiten in acht worden genomen welke ingevolge het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) gelden ten aanzien van de mededeling of aanzegging van de inbeslagneming, dan wel de betekening van het proces-verbaal van inbeslagneming, de aantekening, inschrijving of doorhaling in registers en de betekening daarvan aan derden;  
+b. dat bij het leggen en beëindigen van beslag op onroerende goederen de tussenkomst van de deurwaarder wordt ingeroepen en formaliteiten in acht worden genomen welke ingevolge het Wetboek van Burgerlijke Rechtsvordering BES gelden ten aanzien van de mededeling of aanzegging van de inbeslagneming, dan wel de betekening van het proces-verbaal van inbeslagneming, de aantekening, inschrijving of doorhaling in registers en de betekening daarvan aan derden;  
 
-c. dat bij het leggen of beëindigen van beslag op schepen en luchtvaartuigen formaliteiten in acht worden genomen welke ingevolge het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) gelden ten aanzien van de betekening van het proces-verbaal van inbeslagneming, en ingevolge enige regeling inzake teboekgestelde schepen onderscheidenlijk luchtvaartuigen ten aanzien van de inschrijving en doorhaling daarvan in registers.   
+c. dat bij het leggen of beëindigen van beslag op schepen en luchtvaartuigen formaliteiten in acht worden genomen welke ingevolge het Wetboek van Burgerlijke Rechtsvordering BES gelden ten aanzien van de betekening van het proces-verbaal van inbeslagneming, en ingevolge enige regeling inzake teboekgestelde schepen onderscheidenlijk luchtvaartuigen ten aanzien van de inschrijving en doorhaling daarvan in registers.   
 
 ### Artikel  119c  
 
-Op het beslag, bedoeld in artikel 119a, [Boek 3, Titel 4, van het Wetboek van Burgerlijke Rechtsvordering BES ](../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md)van overeenkomstige toepassing, behoudens dat: 
+Op het beslag, bedoeld in artikel 119a, Boek 3, Titel 4, van het Wetboek van Burgerlijke Rechtsvordering BES van overeenkomstige toepassing, behoudens dat: 
 
 a. voor het leggen van het beslag geen verlof van de rechter in eerste aanleg vereist is, noch vrees voor verduistering behoeft te bestaan;  
 
@@ -1066,9 +1066,9 @@ d. voor roerende zaken die geen registergoederen zijn en rechten aan toonder of 
 
 e. het niet in acht nemen van termijnen waarbinnen betekening van het beslag moet plaatsvinden, buiten de gevallen van artikel 119b, onderdeel b, geen nietigheid van het beslag meebrengt;  
 
-f. geen overeenkomstige toepassing toekomt aan [artikel 721 van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md). De officier van justitie geeft, indien de hoofdzaak na het beslag ter terechtzitting aanhangig wordt gemaakt, daarvan zo spoedig mogelijk aan de derde schriftelijk kennis;  
+f. geen overeenkomstige toepassing toekomt aan artikel 721 van het Wetboek van Burgerlijke Rechtsvordering BES. De officier van justitie geeft, indien de hoofdzaak na het beslag ter terechtzitting aanhangig wordt gemaakt, daarvan zo spoedig mogelijk aan de derde schriftelijk kennis;  
 
-g. geen overeenkomstige toepassing toekomt aan [artikel 722 van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md);  
+g. geen overeenkomstige toepassing toekomt aan artikel 722 van het Wetboek van Burgerlijke Rechtsvordering BES;  
 
 h. op in beslag genomen roerende zaken die in bewaring worden genomen de artikelen 141 tot en met 143 van toepassing zijn;  
 
@@ -1076,10 +1076,10 @@ i. de beëindiging van het beslag met inachtneming van de bepalingen van dit wet
 
 ### Artikel  119d  
 
-1.  Tot bewaring van het recht tot verhaal kan de officier van justitie namens de staat de bevoegdheid uitoefenen, welke in artikel 1358 van het Burgerlijk Wetboek BES is toegekend aan een schuldeiser die in zijn verhaalsmogelijkheden is benadeeld als gevolg van een onverplicht door de schuldenaar verrichte rechtshandeling. De [artikelen 39](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) en [41 van Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) zijn van overeenkomstige toepassing.   
-2.  Voor de toepassing van de [artikelen 39](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) en [41 van de Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) geldt het in die artikelen bedoelde vermoeden van wetenschap voor rechtshandelingen welke door de verdachte of veroordeelde zijn verricht binnen een jaar voor het tijdstip waarop de vervolging tegen hem is aangevangen.   
+1.  Tot bewaring van het recht tot verhaal kan de officier van justitie namens de staat de bevoegdheid uitoefenen, welke in artikel 1358 van het Burgerlijk Wetboek BES is toegekend aan een schuldeiser die in zijn verhaalsmogelijkheden is benadeeld als gevolg van een onverplicht door de schuldenaar verrichte rechtshandeling. De artikelen 39 en 41 van Faillissementswet BES zijn van overeenkomstige toepassing.   
+2.  Voor de toepassing van de artikelen 39 en 41 van de Faillissementswet BES geldt het in die artikelen bedoelde vermoeden van wetenschap voor rechtshandelingen welke door de verdachte of veroordeelde zijn verricht binnen een jaar voor het tijdstip waarop de vervolging tegen hem is aangevangen.   
 3.  De officier van justitie heeft voorts tot bewaring van het recht tot verhaal de bevoegdheid namens de Staat als schuldeiser in het faillissement van de verdachte of de veroordeelde op te komen. Zolang het bedrag van de boete of van het te ontnemen wederrechtelijk verkregen voordeel nog niet vaststaat, wordt hij geacht voor een voorwaardelijke vordering op te komen.   
-4.  De officier van justitie behoudt de bevoegdheden, bedoeld in het eerste en het tweede lid, ondanks faillissement, voor zover de voorwerpen waarop de onverplichte rechtshandelingen betrekking hebben, niet door de curator op grond van de [artikelen 38 tot en met 47 van de Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) worden opgevorderd.  
+4.  De officier van justitie behoudt de bevoegdheden, bedoeld in het eerste en het tweede lid, ondanks faillissement, voor zover de voorwerpen waarop de onverplichte rechtshandelingen betrekking hebben, niet door de curator op grond van de artikelen 38 tot en met 47 van de Faillissementswet BES worden opgevorderd.  
 
 ### Tweede Afdeling  
 
@@ -1108,12 +1108,12 @@ b. ter gelegenheid van een schouw elders, voor inbeslagneming vatbare voorwerpen
 
 ### Artikel  123  
 
-1.  In geval van een strafbaar feit als omschreven in de [artikelen 97 tot en met 102](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [103a tot en met 104c](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [245](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [246](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [256](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [258](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [259](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [260](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [265](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) of [447 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), zijn de opsporingsambtenaren te allen tijde bevoegd ter inbeslagneming de uitlevering te vorderen van alle voor inbeslagneming vatbare voorwerpen.   
+1.  In geval van een strafbaar feit als omschreven in de artikelen 97 tot en met 102, 103a tot en met 104c, 245, 246, 256, 258, 259, 260, 265 of 447 van het Wetboek van Strafrecht BES, zijn de opsporingsambtenaren te allen tijde bevoegd ter inbeslagneming de uitlevering te vorderen van alle voor inbeslagneming vatbare voorwerpen.   
 2.  Zij hebben te allen tijde vrije toegang tot alle plaatsen, waar redelijkerwijze vermoed kan worden, dat een zodanig strafbaar feit wordt begaan. De artikelen 155 tot en met 164 zijn van toepassing.  
 
 ### Artikel  124  
 
-De opsporingsambtenaren hebben te allen tijde vrije toegang tot alle lokaliteiten en alle plaatsen, waarvan redelijkerwijze kan worden vermoed, dat zij door een goud- of zilversmid, kashouder, horlogemaker, rijwiel- of autohandelaar, uitdrager, opkoper of tagrijn worden gebruikt. [Artikel 95bis van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), zomede de artikelen 155 tot en met 164 van dit wetboek zijn van toepassing. 
+De opsporingsambtenaren hebben te allen tijde vrije toegang tot alle lokaliteiten en alle plaatsen, waarvan redelijkerwijze kan worden vermoed, dat zij door een goud- of zilversmid, kashouder, horlogemaker, rijwiel- of autohandelaar, uitdrager, opkoper of tagrijn worden gebruikt. Artikel 95bis van het Wetboek van Strafrecht BES, zomede de artikelen 155 tot en met 164 van dit wetboek zijn van toepassing. 
 
 ### Artikel  125  
 
@@ -1252,7 +1252,7 @@ Bij algemene maatregel van bestuur worden regels gesteld omtrent de wijze, waaro
 1.  Een last tot teruggave van een inbeslaggenomen voorwerp dat in bewaring is gegeven is gericht tot de bewaarder.   
 2.  Indien deze aan de last niet kan voldoen, omdat het voorwerp op wettige wijze vervreemd, vernietigd, prijsgegeven of tot een ander doel dan het onderzoek bestemd is, gaat hij na daartoe verkregen machtiging van het gerecht, bedoeld in artikel 142, derde lid, over tot uitbetaling van de prijs, die het voorwerp bij verkoop door hem redelijkerwijze had moeten opbrengen.   
 3.  Indien de bewaarder, buiten de gevallen in het tweede lid bedoeld, niet in staat is aan de last tot teruggave te voldoen dan wel het geven van zodanige last niet mogelijk bleek, houdt hij het voorwerp ter beschikking van de rechthebbende totdat sedert de last tot teruggave zes maanden, onderscheidenlijk sedert de inbeslagneming drie jaren, zijn verstreken. Is teruggave alsdan nog niet mogelijk gebleken dan wordt met het voorwerp gehandeld als met verbeurdverklaarde voorwerpen.   
-4.  De bewaarder geeft het voorwerp niet terug zolang er een beslag op rust, door een derde onder hem gelegd ingevolge het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) tenzij degene door wie de last tot teruggave is gegeven uitdrukkelijk anders bepaalt  
+4.  De bewaarder geeft het voorwerp niet terug zolang er een beslag op rust, door een derde onder hem gelegd ingevolge het Wetboek van Burgerlijke Rechtsvordering BES tenzij degene door wie de last tot teruggave is gegeven uitdrukkelijk anders bepaalt  
 
 ### Artikel  145a  
 
@@ -1305,7 +1305,7 @@ Het openbaar ministerie kan op verzoek van de beslagene of van een andere belang
 3.  Het gerecht behandelt het klaagschrift in het openbaar.   
 4.  Tijdens de behandeling van het klaagschrift worden de klager en het openbaar ministerie in de gelegenheid gesteld te worden gehoord. De beschikking van het gerecht is met redenen omkleed en wordt in het openbaar uitgesproken. Aan de klager wordt door de griffier tijdig te voren schriftelijk mededeling gedaan van de dag der uitspraak.   
 5.  Acht het gerecht het beklag gegrond, dan herroept het de verbeurdverklaring of de onttrekking aan het verkeer en geeft een last, als bedoeld in artikel 397.   
-6.  Bij de herroeping van een verbeurdverklaring kan het gerecht de voorwerpen aan het verkeer onttrokken verklaren, indien zij daarvoor vatbaar zijn. De [artikelen 35a](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), [35b](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [37, laatste zinsnede, van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) zijn van overeenkomstige toepassing.  
+6.  Bij de herroeping van een verbeurdverklaring kan het gerecht de voorwerpen aan het verkeer onttrokken verklaren, indien zij daarvoor vatbaar zijn. De artikelen 35a, 35b en 37, laatste zinsnede, van het Wetboek van Strafrecht BES zijn van overeenkomstige toepassing.  
 
 ### Artikel  152  
 
@@ -1457,7 +1457,7 @@ Indien het noodzakelijk is, dat een onderzoek naar de geestvermogens van een ver
 ### Artikel  177a  
 
 1.  In geval van verdenking van een misdrijf, waarop naar de wettelijke omschrijving gevangenisstraf van ten hoogste vier of meer jaren is gesteld, of een misdrijf, waardoor op geld waardeerbaar voordeel van enig belang kan worden verkregen, kan overeenkomstig de bepalingen van deze Titel een strafrechtelijk financieel onderzoek worden ingesteld.   
-2.  Een strafrechtelijk financieel onderzoek is gericht op de bepaling van het door de verdachte wederrechtelijk verkregen voordeel, met het oog op de ontneming daarvan op grond van [artikel 38e van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md).   
+2.  Een strafrechtelijk financieel onderzoek is gericht op de bepaling van het door de verdachte wederrechtelijk verkregen voordeel, met het oog op de ontneming daarvan op grond van artikel 38e van het Wetboek van Strafrecht BES.   
 3.  Het strafrechtelijk financieel onderzoek wordt ingesteld krachtens een met redenen omklede machtiging van de rechter-commissaris, op vordering van de officier van justitie die met de opsporing van het misdrijf is belast, verleend.   
 4.  De vordering van de officier van justitie is met redenen omkleed. Bij de vordering wordt een lijst van voorwerpen overgelegd die reeds op grond van artikel 119a, tweede lid, in beslag zijn genomen.  
 
@@ -1485,7 +1485,7 @@ b. hij niet gehouden is degene tegen wie het onderzoek is gericht of diens raads
 
 ### Artikel  177d  
 
-1.  De officier van justitie die de in artikel 177a bedoelde vordering doet, kan bij dringende noodzakelijkheid ter inbeslagneming huiszoeking doen op elke plaats waar zich vermoedelijk bescheiden of gegevens als bedoeld in artikel 177b, of vermogensbestanddelen die voordeel in de zin van [artikel 38e van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) vertegenwoordigen, bevinden.   
+1.  De officier van justitie die de in artikel 177a bedoelde vordering doet, kan bij dringende noodzakelijkheid ter inbeslagneming huiszoeking doen op elke plaats waar zich vermoedelijk bescheiden of gegevens als bedoeld in artikel 177b, of vermogensbestanddelen die voordeel in de zin van artikel 38e van het Wetboek van Strafrecht BES vertegenwoordigen, bevinden.   
 2.  Ten aanzien van het eerste lid is artikel 122, tweede lid, van overeenkomstige toepassing en zijn de artikelen 155 tot en met 164 van toepassing.  
 
 ### Artikel  177e  
@@ -1500,7 +1500,7 @@ Ten aanzien van de artikelen 177a tot en met 177d zijn de artikelen 125 en 126 v
 ### Artikel  177g  
 
 1.  Zodra de officier van justitie oordeelt dat het strafrechtelijk financieel onderzoek is voltooid, of dat tot voortzetting daarvan geen grond meer bestaat, sluit hij het onderzoek bij schriftelijke gedagtekende beschikking.   
-2.  Indien de verdachte bij de einduitspraak ter zake van het strafbare feit of het misdrijf, bedoeld in [artikel 38e, eerste onderscheidenlijk derde lid, van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), niet wordt veroordeeld, sluit de officier van justitie het strafrechtelijk financieel onderzoek evenzo. In dat geval is de officier van justitie bevoegd van de rechter-commissaris heropening van het strafrechtelijk financieel onderzoek te vorderen, zodra de verdachte alsnog ter zake van het tenlastegelegde feit wordt veroordeeld.   
+2.  Indien de verdachte bij de einduitspraak ter zake van het strafbare feit of het misdrijf, bedoeld in artikel 38e, eerste onderscheidenlijk derde lid, van het Wetboek van Strafrecht BES, niet wordt veroordeeld, sluit de officier van justitie het strafrechtelijk financieel onderzoek evenzo. In dat geval is de officier van justitie bevoegd van de rechter-commissaris heropening van het strafrechtelijk financieel onderzoek te vorderen, zodra de verdachte alsnog ter zake van het tenlastegelegde feit wordt veroordeeld.   
 3.  De officier van justitie zendt zijn beschikking aan de rechter-commissaris en doet een afschrift daarvan aan degene tegen wie het is gericht, betekenen, onder mededeling van het recht tot kennisneming van de stukken van het onderzoek.   
 4.  Onverminderd het bepaalde in het tweede lid, de artikelen 503c, tweede en derde lid, 503d, derde lid, en 503f, tweede lid, onderdeel c, kan een gesloten strafrechtelijk financieel onderzoek slechts worden heropend krachtens een nadere machtiging van de rechter-commissaris, op vordering van de officier van justitie verleend. Het vierde lid van artikel 177a is van toepassing.   
 5.  Een nadere machtiging wordt zo spoedig mogelijk met de vordering waarop zij rust, aan degene tegen wie het onderzoek is gericht, betekend. Het eerste tot en met vierde lid is van toepassing.  
@@ -1877,7 +1877,7 @@ Degene die schade heeft geleden ten gevolge van de toepassing van een strafvorde
 
 1.  Tenzij bij of krachtens de wet anders is bepaald, zijn met de opsporing van strafbare feiten belast: 
 
-a. de ambtenaren van politie, bedoeld in [artikel 3, eerste lid, onder a en c, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba](../../../../../../rijkswet/rijkswet/politie/van/curaçao/van/sint/maarten/en/van/bonaire/sint/etc/BWBR0028079/README.md);  
+a. de ambtenaren van politie, bedoeld in artikel 3, eerste lid, onder a en c, van de Rijkswet politie van Curaçao, van Sint Maarten en van Bonaire, Sint Eustatius en Saba;  
 
 b. de ambtenaren van de recherche, zoals daarin bij wettelijke regeling is voorzien;  
 
@@ -1966,7 +1966,7 @@ Na overeenkomstig de artikelen 192 tot en met 195 te hebben gehandeld, wachten d
 
 ### Artikel  198  
 
-1.  Ieder, die kennis draagt van een van de misdrijven omschreven in de [artikelen 97 tot en met 117 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), in [Titel VII van het Tweede Boek van dat wetboek](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), voor zover daardoor levensgevaar is veroorzaakt, of in de [artikelen 300 tot en met 312 van dat wetboek](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), van mensenroof of van verkrachting, dan wel van het voornemen tot een van deze misdrijven, is verplicht daarvan onverwijld aangifte te doen bij een opsporingsambtenaar.   
+1.  Ieder, die kennis draagt van een van de misdrijven omschreven in de artikelen 97 tot en met 117 van het Wetboek van Strafrecht BES, in Titel VII van het Tweede Boek van dat wetboek, voor zover daardoor levensgevaar is veroorzaakt, of in de artikelen 300 tot en met 312 van dat wetboek, van mensenroof of van verkrachting, dan wel van het voornemen tot een van deze misdrijven, is verplicht daarvan onverwijld aangifte te doen bij een opsporingsambtenaar.   
 2.  De bepaling van het eerste lid is niet van toepassing op hem, die door de aangifte gevaar zou doen ontstaan voor een vervolging van zichzelf of van iemand bij wiens vervolging hij zich van het afleggen van getuigenis zou kunnen verschonen.   
 3.  Evenzo is ieder, die kennis draagt dat iemand gevangen gehouden wordt op een plaats die niet wettig daarvoor bestemd is, verplicht daarvan onverwijld aangifte te doen bij een opsporingsambtenaar.  
 
@@ -1978,7 +1978,7 @@ Ieder, die kennis draagt van een begaan strafbaar feit, is bevoegd daarvan aangi
 
 1.  Openbare colleges of ambtenaren, die in de uitoefening van hun bediening kennis krijgen van een misdrijf met de opsporing waarvan zij niet zijn belast, zijn verplicht daarvan onverwijld aangifte te doen, met afgifte van de tot de zaak betrekkelijke stukken, aan de officier van justitie of een hulpofficier van justitie, 
 
-a. indien het misdrijf is een ambtsmisdrijf, als bedoeld in [Titel XXVIII van het Tweede Boek van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), dan wel  
+a. indien het misdrijf is een ambtsmisdrijf, als bedoeld in Titel XXVIII van het Tweede Boek van het Wetboek van Strafrecht BES, dan wel  
 
 b. indien het misdrijf is begaan door een ambtenaar, die daarbij een bijzondere ambtsplicht heeft geschonden of daarbij gebruik heeft gemaakt van macht, gelegenheid of middel hem door zijn ambt geschonken, dan wel  
 
@@ -2008,7 +2008,7 @@ c. indien door het misdrijf inbreuk op of onrechtmatig gebruik wordt gemaakt van
 
 ### Artikel  204  
 
-Indien de klacht krachtens [artikel 66, eerste lid, van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) door de wettige vertegenwoordiger van een minderjarige, die twaalf jaren of ouder is of van een onder curatele gestelde is geschied, gaat de officier van justitie niet tot vervolging over dan na de vertegenwoordigde persoon, zo deze in het land verblijft, in de gelegenheid te hebben gesteld zijn mening omtrent de wenselijkheid van vervolging kenbaar te maken, althans na deze daartoe behoorlijk te hebben opgeroepen, tenzij dit in verband met de lichamelijke of geestelijke toestand van de minderjarige of de onder curatele gestelde niet mogelijk of niet wenselijk is. 
+Indien de klacht krachtens artikel 66, eerste lid, van het Wetboek van Strafrecht BES door de wettige vertegenwoordiger van een minderjarige, die twaalf jaren of ouder is of van een onder curatele gestelde is geschied, gaat de officier van justitie niet tot vervolging over dan na de vertegenwoordigde persoon, zo deze in het land verblijft, in de gelegenheid te hebben gesteld zijn mening omtrent de wenselijkheid van vervolging kenbaar te maken, althans na deze daartoe behoorlijk te hebben opgeroepen, tenzij dit in verband met de lichamelijke of geestelijke toestand van de minderjarige of de onder curatele gestelde niet mogelijk of niet wenselijk is. 
 
 ### Artikel  205  
 
@@ -2485,7 +2485,7 @@ d. onvoldoende aanwijzing van schuld,   wordt daarvan in de kennisgeving melding
 
 ### Artikel  281  
 
-Indien de officier van justitie van oordeel is, dat [artikel 39, eerste lid, van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) van toepassing is, doch dat tevens de last, bedoeld in het tweede lid van dat artikel, moet worden gegeven, is hij bevoegd een behandeling door de raadkamer te vorderen. De verdachte wordt bij het onderzoek gehoord. De artikelen 294, tweede lid, en 295 zijn van toepassing. 
+Indien de officier van justitie van oordeel is, dat artikel 39, eerste lid, van het Wetboek van Strafrecht BES van toepassing is, doch dat tevens de last, bedoeld in het tweede lid van dat artikel, moet worden gegeven, is hij bevoegd een behandeling door de raadkamer te vorderen. De verdachte wordt bij het onderzoek gehoord. De artikelen 294, tweede lid, en 295 zijn van toepassing. 
 
 ### Artikel  282  
 
@@ -2511,7 +2511,7 @@ Door de kennisgeving van niet verdere vervolging, de beschikking tot buitenvervo
 
 1.  De zaak wordt ter terechtzitting aanhangig gemaakt door een dagvaarding vanwege de officier van justitie aan de verdachte betekend. Het rechtsgeding neemt op het moment van de betekening een aanvang.   
 2.  Wanneer de verdachte zich in voorlopige hechtenis bevindt krachtens een bevel tot gevangenneming of gevangenhouding waarvan de geldigheidsduur reeds eenmaal of ingevolge artikel 98, vierde lid, reeds tweemaal is verlengd, kan de dagvaarding geschieden, ook al is het gerechtelijk vooronderzoek nog niet gesloten.Van de dagvaarding geeft de officier van justitie in dat geval schriftelijk kennis aan de rechter-commissaris. Door deze kennisgeving eindigt het gerechtelijk vooronderzoek. De artikelen 272 en 277 vinden alsdan geen toepassing.   
-3.  Bij de betekening van de dagvaarding, zomede in de oproeping bedoeld bij artikel 414 wordt, de bevoegdheid vermeld, die de verdachte bij [artikel 76, vierde lid, van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) is verleend.   
+3.  Bij de betekening van de dagvaarding, zomede in de oproeping bedoeld bij artikel 414 wordt, de bevoegdheid vermeld, die de verdachte bij artikel 76, vierde lid, van het Wetboek van Strafrecht BES is verleend.   
 4.  De rechter bepaalt, op de voordracht van de officier van justitie, de dag van de terechtzitting.  
 
 ### Artikel  285  
@@ -2577,7 +2577,7 @@ Strafbare feiten die op dezelfde terechtzitting worden aangebracht en waartussen
 ### Artikel  295  
 
 1.  Indien het feit niet tot de kennisneming van het Hof behoort, verklaart het zich onbevoegd.   
-2.  Is de officier van justitie niet ontvankelijk, het feit waarop de dagvaarding betrekking had, of de verdachte niet strafbaar, of onvoldoende aanwijzing van schuld aanwezig, dan stelt het Hof de verdachte ten aanzien van de gehele telastelegging of voor een bij de beschikking nader aan te duiden gedeelte van de telastelegging buiten vervolging. In het geval, bedoeld in [artikel 39, eerste lid, van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), kan tevens gegeven worden de last, bedoeld in het tweede lid van dat artikel.   
+2.  Is de officier van justitie niet ontvankelijk, het feit waarop de dagvaarding betrekking had, of de verdachte niet strafbaar, of onvoldoende aanwijzing van schuld aanwezig, dan stelt het Hof de verdachte ten aanzien van de gehele telastelegging of voor een bij de beschikking nader aan te duiden gedeelte van de telastelegging buiten vervolging. In het geval, bedoeld in artikel 39, eerste lid, van het Wetboek van Strafrecht BES, kan tevens gegeven worden de last, bedoeld in het tweede lid van dat artikel.   
 3.  In alle andere gevallen verklaart het Hof het bezwaarschrift niet ontvankelijk of ongegrond.   
 4.  De beschikking van het Hof wordt onverwijld aan de verdachte ter kennis gebracht. Indien de verdachte in raadkamer verschijnt, kan de beslissing hem worden meegedeeld.   
 5.  Wanneer de beschikking waarbij de verdachte ten aanzien van de gehele telastelegging buiten vervolging wordt gesteld, onherroepelijk is geworden, vervalt een reeds uitgebrachte dagvaarding. Wanneer de beschikking waarbij de verdachte voor een gedeelte buiten vervolging wordt gesteld, onherroepelijk is geworden, brengt de officier van justitie de dagvaarding in overeenstemming met die beschikking.  
@@ -2588,7 +2588,7 @@ Tegen de dagvaarding, die is uitgebracht na een bevel krachtens artikel 25, eers
 
 ### Artikel  297  
 
-Is bij de beschikking tot buitenvervolgingstelling tevens gegeven de last, bedoeld in het [tweede lid van artikel 39 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), dan kan de verdachte of diens raadsman daartegen bezwaar maken door middel van een verklaring ter griffie van het Hof, af te leggen uiterlijk binnen zes dagen nadat de beschikking in kracht van gewijsde is gegaan. Alsdan vervalt de beschikking en beveelt het Hof, dat de verdachte ter zake van het feit waarop de dagvaarding betrekking had, binnen een bepaalde termijn opnieuw zal worden gedagvaard. Deze termijn kan op de vordering van de officier van justitie door het Hof eenmaal voor een bepaalde tijd worden verlengd. 
+Is bij de beschikking tot buitenvervolgingstelling tevens gegeven de last, bedoeld in het tweede lid van artikel 39 van het Wetboek van Strafrecht BES, dan kan de verdachte of diens raadsman daartegen bezwaar maken door middel van een verklaring ter griffie van het Hof, af te leggen uiterlijk binnen zes dagen nadat de beschikking in kracht van gewijsde is gegaan. Alsdan vervalt de beschikking en beveelt het Hof, dat de verdachte ter zake van het feit waarop de dagvaarding betrekking had, binnen een bepaalde termijn opnieuw zal worden gedagvaard. Deze termijn kan op de vordering van de officier van justitie door het Hof eenmaal voor een bepaalde tijd worden verlengd. 
 
 ### Artikel  298  
 
@@ -2914,7 +2914,7 @@ Het Hof heeft gelijke bevoegdheid als in artikel 197 aan het openbaar ministerie
 
 ### Artikel  353  
 
-1.  Nadat, behoudens het bepaalde bij artikel 347, de ondervraging van de verdachte heeft plaatsgehad, kan de procureur-generaal het woord voeren en legt hij zijn vordering, na voorlezing, aan het Hof over. De vordering omschrijft de straf of de maatregel, indien oplegging daarvan wordt geëist, en vermeldt in dat geval tevens, welk bepaald strafbaar feit zou zijn begaan. De procureur-generaal maakt, voor zover zulks aan de verdachte niet reeds eerder was gebleken, kenbaar of hij voornemens is een vordering als bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) aanhangig te maken, alsmede of daartoe een strafrechtelijk financieel onderzoek, als bedoeld in artikel 177a, is ingesteld. Van deze mededeling van de procureur-generaal wordt in het proces-verbaal van de terechtzitting aantekening gedaan.   
+1.  Nadat, behoudens het bepaalde bij artikel 347, de ondervraging van de verdachte heeft plaatsgehad, kan de procureur-generaal het woord voeren en legt hij zijn vordering, na voorlezing, aan het Hof over. De vordering omschrijft de straf of de maatregel, indien oplegging daarvan wordt geëist, en vermeldt in dat geval tevens, welk bepaald strafbaar feit zou zijn begaan. De procureur-generaal maakt, voor zover zulks aan de verdachte niet reeds eerder was gebleken, kenbaar of hij voornemens is een vordering als bedoeld in artikel 38e van het Wetboek van Strafrecht BES aanhangig te maken, alsmede of daartoe een strafrechtelijk financieel onderzoek, als bedoeld in artikel 177a, is ingesteld. Van deze mededeling van de procureur-generaal wordt in het proces-verbaal van de terechtzitting aantekening gedaan.   
 2.  De verdachte kan hierop antwoorden.   
 3.  De procureur-generaal kan daarna andermaal het woord voeren.   
 4.  Daarna kan de verdachte nog eenmaal opmerkingen maken.   
@@ -2929,7 +2929,7 @@ Indien uit het onderzoek omstandigheden zijn bekend geworden die, niet in de dag
 
 1.  Indien in het geding in eerste aanleg en buiten het geval van artikel 354 de officier van justitie oordeelt dat de telastelegging behoort te worden gewijzigd, legt hij de inhoud van de door hem noodzakelijk geachte wijzigingen schriftelijk aan de rechter over, voordat hij voor de eerste maal overeenkomstig artikel 353 het woord voert, met de vordering dat die wijzigingen zullen worden toegelaten.   
 2.  De verdachte wordt op de vordering tot wijziging gehoord.   
-3.  Indien de rechter de vordering toewijst, doet hij ter terechtzitting de inhoud van de aangebrachte wijzigingen in het proces-verbaal opnemen. In geen geval worden wijzigingen toegelaten, als gevolg waarvan de telastelegging niet langer hetzelfde feit, in de zin van [artikel 70 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), zou inhouden.  
+3.  Indien de rechter de vordering toewijst, doet hij ter terechtzitting de inhoud van de aangebrachte wijzigingen in het proces-verbaal opnemen. In geen geval worden wijzigingen toegelaten, als gevolg waarvan de telastelegging niet langer hetzelfde feit, in de zin van artikel 70 van het Wetboek van Strafrecht BES, zou inhouden.  
 
 ### Artikel  356  
 
@@ -3248,7 +3248,7 @@ Indien het onderzoek in artikel 392 bedoeld, daartoe aanleiding geeft, spreekt h
 
 ### Artikel  405  
 
-Heeft de procureur-generaal tevens een vordering ingediend tot het gelasten van gehele of gedeeltelijke tenuitvoerlegging van een met toepassing van [artikel 17a van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) opgelegde straf, dan beraadslaagt het Hof mede over zijn bevoegdheid om over de vordering te oordelen, over de ontvankelijkheid van de procureur-generaal en over de gegrondheid van de vordering. Het vonnis houdt alsdan, tenzij onbevoegdheid van het Hof om over de vordering te oordelen of niet-ontvankelijkheid van de procureur-generaal wordt uitgesproken, ook de beslissing van het Hof over de vordering in. 
+Heeft de procureur-generaal tevens een vordering ingediend tot het gelasten van gehele of gedeeltelijke tenuitvoerlegging van een met toepassing van artikel 17a van het Wetboek van Strafrecht BES opgelegde straf, dan beraadslaagt het Hof mede over zijn bevoegdheid om over de vordering te oordelen, over de ontvankelijkheid van de procureur-generaal en over de gegrondheid van de vordering. Het vonnis houdt alsdan, tenzij onbevoegdheid van het Hof om over de vordering te oordelen of niet-ontvankelijkheid van de procureur-generaal wordt uitgesproken, ook de beslissing van het Hof over de vordering in. 
 
 ### Artikel  406  
 
@@ -3285,7 +3285,7 @@ Heeft de procureur-generaal tevens een vordering ingediend tot het gelasten van 
 
 1.  Indien de verdachte bij het vonnis bij verstek gewezen, niet van de gehele tenlastelegging is vrijgesproken, wordt een mededeling van de beslissing door het Hof overeenkomstig de artikelen 393, 395, eerste lid, of 396, tweede lid, gegeven, vanwege de procureur-generaal zo spoedig mogelijk aan de verdachte betekend. Deze bepaling geldt niet ten aanzien van de verdachte aan wie voor zover betreft het rechtsgeding bij verstek, de dagvaarding om ter terechtzitting te verschijnen in persoon is betekend. De mededeling vermeldt de rechters die het vonnis hebben gewezen, de dagtekening van het vonnis, de in het vonnis voorkomende rechtskundige benaming van het strafbare feit met vermelding omstreeks welke tijd en waar ter plaatse dat feit begaan zou zijn, en, voor zover in het vonnis vermeld, naam en voornamen, leeftijd, geboorteplaats, beroep en woon- of verblijfplaats van de verdachte.   
 2.  De mededeling wordt in alle gevallen waarin de procureur-generaal dit bepaalt, en overigens zoveel mogelijk, aan de verdachte in persoon betekend.   
-3.  Is ten aanzien van de verdachte [artikel 17a van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) toegepast, dan vermeldt de mededeling bovendien alle beslissingen die betrekking hebben op het in dat artikel bedoelde bevel, alsmede het tijdstip waarop ingevolge [artikel 17b, tweede lid, van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) de proeftijd zal ingaan, terwijl de betekening niet anders geschiedt dan aan de verdachte in persoon.   
+3.  Is ten aanzien van de verdachte artikel 17a van het Wetboek van Strafrecht BES toegepast, dan vermeldt de mededeling bovendien alle beslissingen die betrekking hebben op het in dat artikel bedoelde bevel, alsmede het tijdstip waarop ingevolge artikel 17b, tweede lid, van het Wetboek van Strafrecht BES de proeftijd zal ingaan, terwijl de betekening niet anders geschiedt dan aan de verdachte in persoon.   
 4.  De mededeling vindt eveneens plaats, indien de dagvaarding om ter terechtzitting te verschijnen de verdachte in persoon is betekend of de verdachte ter terechtzitting is verschenen, maar nadien het onderzoek op de terechtzitting voor onbepaalde tijd is geschorst en de oproeping om op de nadere terechtzitting te verschijnen niet aan de verdachte in persoon is betekend en hij evenmin op de nadere zitting is verschenen. Het derde lid is van toepassing.  
 
 ### Zesde Afdeling  
@@ -3308,9 +3308,9 @@ b. bij het onderzoek ter terechtzitting blijkt, dat de verdachte zijn aanvankeli
 c. de zaak bij verstek wordt behandeld en door het openbaar ministerie is verzuimd tijdig voor de aanvang van de terechtzitting aan de verdachte mee te delen, dat hij het voornemen heeft bedoelde feiten aan de rechter voor te leggen, opdat deze daarmee bij de strafbepaling rekening kan houden.     
 3.  Indien ter zake van een niet tenlastegelegd feit, als bedoeld in het eerste lid, inverzekeringstelling of voorlopige hechtenis is toegepast en dit feit op de voet van de voorgaande artikelen door de rechter bij de strafbepaling in aanmerking is genomen, 
 
-a. vindt het bepaalde in [artikel 31 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) overeenkomstige toepassing;  
+a. vindt het bepaalde in artikel 31 van het Wetboek van Strafrecht BES overeenkomstige toepassing;  
 
-b. dient de rechter op de voet van [artikel 35 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) een beslissing te geven met betrekking tot de terzake inbeslaggenomen voorwerpen.    
+b. dient de rechter op de voet van artikel 35 van het Wetboek van Strafrecht BES een beslissing te geven met betrekking tot de terzake inbeslaggenomen voorwerpen.    
 
 ### Zevende Afdeling  
 
@@ -3426,7 +3426,7 @@ Indien de verdachte bij zijn eerste verschijning ter terechtzitting aannemelijk 
 6.  In geval van artikel 359 zijn de artikelen 235, 237, eerste lid, en 241 niet van toepassing.   
 7.  De in artikel 411 bedoelde mededeling behoeft niet te geschieden, tenzij: 
 
-a. ten aanzien van de verdachte [artikel 17a van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) is toegepast, dan wel,  
+a. ten aanzien van de verdachte artikel 17a van het Wetboek van Strafrecht BES is toegepast, dan wel,  
 
 b. een vrijheidsstraf is opgelegd, vervangende vrijheidsstraf daaronder niet begrepen, dan wel,  
 
@@ -3714,7 +3714,7 @@ Geen rechter die op enigerlei wijze deelgenomen heeft aan het onderzoek of de be
 
 ### Artikel  475  
 
-Indien na de vernietiging van het gewijsde geen straf of maatregel of wel de maatregel, bedoeld bij [artikel 39, tweede lid, van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), wordt opgelegd, wordt, op verzoek van de gewezen veroordeelde of van zijn erfgenamen, ter zake van de ondergane straf een schadevergoeding toegekend. De toekenning heeft plaats op de voet van het bepaalde in de artikelen 178 tot en met 181. 
+Indien na de vernietiging van het gewijsde geen straf of maatregel of wel de maatregel, bedoeld bij artikel 39, tweede lid, van het Wetboek van Strafrecht BES, wordt opgelegd, wordt, op verzoek van de gewezen veroordeelde of van zijn erfgenamen, ter zake van de ondergane straf een schadevergoeding toegekend. De toekenning heeft plaats op de voet van het bepaalde in de artikelen 178 tot en met 181. 
 
 ### Zevende Boek  
 
@@ -3887,7 +3887,7 @@ Ten spoedigste na de beslissing, bij het eerste lid van artikel 499 bedoeld, voe
 
 ### Artikel  503a  
 
-1.  Een vordering van het openbaar ministerie als bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) wordt zo spoedig mogelijk doch uiterlijk twee jaren na de uitspraak van het gerecht in eerste aanleg aanhangig gemaakt. Indien het strafrechtelijk financieel onderzoek overeenkomstig het bepaalde in artikel 177g, tweede lid, is gesloten en heropend, wordt de periode van twee jaren verlengd met de tijd verlopen tussen deze sluiting en heropening.   
+1.  Een vordering van het openbaar ministerie als bedoeld in artikel 38e van het Wetboek van Strafrecht BES wordt zo spoedig mogelijk doch uiterlijk twee jaren na de uitspraak van het gerecht in eerste aanleg aanhangig gemaakt. Indien het strafrechtelijk financieel onderzoek overeenkomstig het bepaalde in artikel 177g, tweede lid, is gesloten en heropend, wordt de periode van twee jaren verlengd met de tijd verlopen tussen deze sluiting en heropening.   
 2.  De officier van justitie doet bij zijn vordering de stukken waarop zij berust aan het gerecht toekomen. Artikel 284, vierde lid, is van overeenkomstige toepassing.   
 3.  De vordering wordt aan degene op wie zij betrekking heeft betekend, onder mededeling van het recht op kennisneming van de stukken. Indien ook een strafrechtelijk financieel onderzoek is ingesteld wordt de vordering gelijktijdig met de sluiting van het strafrechtelijk financieel onderzoek aan degene tegen wie het is gericht betekend.   
 4.  De vordering behelst mede oproeping om op het daarin vermelde tijdstip ter terechtzitting te verschijnen. De artikelen 287, 289 tot en met 292 zijn van overeenkomstige toepassing.  
@@ -3906,7 +3906,7 @@ De officier van justitie kan, zolang het onderzoek op de terechtzitting niet is 
 
 1.  Op de beraadslaging en de uitspraak zijn de bepalingen van de vijfde afdeling van Titel IV van het vijfde Boek van overeenkomstige toepassing, met dien verstande dat: 
 
-a. het gerecht naar aanleiding van de vordering en van het onderzoek ter terechtzitting beraadslaagt over de vraag of de in [artikel 38e van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) bedoelde maatregel moet worden opgelegd en zo ja, op welk bedrag de omvang van het wederrechtelijk verkregen voordeel is te schatten; en  
+a. het gerecht naar aanleiding van de vordering en van het onderzoek ter terechtzitting beraadslaagt over de vraag of de in artikel 38e van het Wetboek van Strafrecht BES bedoelde maatregel moet worden opgelegd en zo ja, op welk bedrag de omvang van het wederrechtelijk verkregen voordeel is te schatten; en  
 
 b. het gerecht niet gebonden is aan het voorschrift van artikel 388 betreffende de termijn waarbinnen uitspraak moet worden gedaan.     
 2.  Indien de dag der uitspraak niet ter terechtzitting aan degene op wie de vordering betrekking heeft is medegedeeld, wordt hem daarvan, zodra die dag is bepaald, een kennisgeving betekend.   
@@ -3914,7 +3914,7 @@ b. het gerecht niet gebonden is aan het voorschrift van artikel 388 betreffende 
 
 ### Artikel  503e  
 
-Het gerecht kan de schatting van het op geld waardeerbare voordeel als bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) slechts ontlenen aan de inhoud van wettige bewijsmiddelen. 
+Het gerecht kan de schatting van het op geld waardeerbare voordeel als bedoeld in artikel 38e van het Wetboek van Strafrecht BES slechts ontlenen aan de inhoud van wettige bewijsmiddelen. 
 
 ### Artikel  503f  
 
@@ -3931,7 +3931,7 @@ d. artikel 503d, eerste lid, onder b, van overeenkomstige toepassing is.
 
 ### Artikel  503g  
 
-Een uitspraak op de vordering van het openbaar ministerie als bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) vervalt van rechtswege, doordat de uitspraak als gevolg waarvan de veroordeling van de verdachte, bedoeld in artikel 38e eerste onderscheidenlijk derde lid van het Wetboek van Strafrecht BES, achterwege blijft, in kracht van gewijsde gaat. 
+Een uitspraak op de vordering van het openbaar ministerie als bedoeld in artikel 38e van het Wetboek van Strafrecht BES vervalt van rechtswege, doordat de uitspraak als gevolg waarvan de veroordeling van de verdachte, bedoeld in artikel 38e eerste onderscheidenlijk derde lid van het Wetboek van Strafrecht BES, achterwege blijft, in kracht van gewijsde gaat. 
 
 ### Titel  IV  
 
@@ -4321,7 +4321,7 @@ b. voor zover de verdachte op een met het volkenrecht strijdige wijze of andersz
 
 c. voor zover het vermoeden bestaat dat het is gedaan ten behoeve van een onderzoek, ingesteld met het oogmerk de verdachte te vervolgen, te straffen of op andere wijze te treffen in verband met zijn godsdienstige of staatkundige overtuiging, zijn nationaliteit, zijn ras of de groep van de bevolking waartoe hij behoort;  
 
-d. voor zover inwilliging zou strekken tot het verlenen van medewerking aan een vervolging of berechting die onverenigbaar is met het aan [artikel 70 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en artikel 282, eerste lid, van het Wetboek van Strafvordering ten grondslag liggende beginsel;  
+d. voor zover inwilliging zou strekken tot het verlenen van medewerking aan een vervolging of berechting die onverenigbaar is met het aan artikel 70 van het Wetboek van Strafrecht BES en artikel 282, eerste lid, van het Wetboek van Strafvordering ten grondslag liggende beginsel;  
 
 e. voor zover het is gedaan ten behoeve van een onderzoek naar feiten ter zake waarvan de verdachte in de openbare lichamen Bonaire, Sint Eustatius en Saba wordt vervolgd.     
 2.  In gevallen waarin er grond bestaat om aan te nemen dat een situatie als bedoeld in onderdeel a of b van het eerste lid zich ter zake van het verzoek heeft voorgedaan, wordt het verzoek voorgelegd aan Onze Ministers van Buitenlandse Zaken en van Justitie. Een afwijzende beslissing op het verzoek wordt langs diplomatieke weg ter kennis van de autoriteiten van de verzoekende staat gebracht.   
@@ -4444,7 +4444,7 @@ Een in een vreemde staat opgelegde sanctie kan in de openbare lichamen Bonaire, 
 ### Artikel  574  
 
 1.  Een in een vreemde staat opgelegde sanctie kan in de openbare lichamen Bonaire, Sint Eustatius en Saba niet worden ten uitvoer gelegd, voor zover de veroordeelde ter zake van hetzelfde feit in de openbare lichamen Bonaire, Sint Eustatius en Saba wordt vervolgd.   
-2.  Een in een vreemde staat opgelegde sanctie kan in de openbare lichamen Bonaire, Sint Eustatius en Saba evenmin worden ten uitvoer gelegd, voor zover een vervolging in de openbare lichamen Bonaire, Sint Eustatius en Saba onverenigbaar zou zijn met het aan [artikel 70 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en artikel 282, eerste lid, van dit Wetboek ten grondslag liggende beginsel.  
+2.  Een in een vreemde staat opgelegde sanctie kan in de openbare lichamen Bonaire, Sint Eustatius en Saba evenmin worden ten uitvoer gelegd, voor zover een vervolging in de openbare lichamen Bonaire, Sint Eustatius en Saba onverenigbaar zou zijn met het aan artikel 70 van het Wetboek van Strafrecht BES en artikel 282, eerste lid, van dit Wetboek ten grondslag liggende beginsel.  
 
 ### Tweede Afdeling  
 
@@ -4633,14 +4633,14 @@ d. dat bij afweging van alle betrokken belangen een beslissing tot tenuitvoerleg
 ### Artikel  591a  
 
 1.  Verlof tot tenuitvoerlegging van een in de vreemde staat opgelegde sanctie strekkende tot ontneming van wederrechtelijk verkregen voordeel kan worden beperkt tot de tenuitvoerlegging van de verplichting tot betaling van een geldbedrag aan de Staat, dat in omvang slechts een gedeelte van dat voordeel vertegenwoordigt.   
-2.  Indien de in de vreemde staat opgelegde sanctie strekt tot de ontneming van wederrechtelijk verkregen voordeel, spreekt het Hof, indien de vreemde staat uitdrukkelijk heeft verzocht die sanctie slechts ten uitvoer te leggen op voorwerpen die dat voordeel vertegenwoordigen, de verbeurdverklaring daarvan uit. In dat geval is het Hof niet gebonden aan beperkingen ingevolge [artikel 35, eerste lid, onder a, van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md).   
+2.  Indien de in de vreemde staat opgelegde sanctie strekt tot de ontneming van wederrechtelijk verkregen voordeel, spreekt het Hof, indien de vreemde staat uitdrukkelijk heeft verzocht die sanctie slechts ten uitvoer te leggen op voorwerpen die dat voordeel vertegenwoordigen, de verbeurdverklaring daarvan uit. In dat geval is het Hof niet gebonden aan beperkingen ingevolge artikel 35, eerste lid, onder a, van het Wetboek van Strafrecht BES.   
 3.  Op uitspraken, houdende een verbeurdverklaring, zijn de artikelen 151, 153 en 154 van overeenkomstige toepassing.   
 4.  Op uitspraken, houdende de oplegging van een verplichting tot betaling van een geldbedrag aan de Staat ter ontneming van wederrechtelijk verkregen voordeel, is artikel 634 van overeenkomstige toepassing.   
 5.  Artikel 579e is van overeenkomstige toepassing.  
 
 ### Artikel  592  
 
-De tenuitvoerlegging van een op grond van artikel 591 opgelegde straf of maatregel geschiedt met inachtneming van het bij of krachtens dit Wetboek, het [Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) of enige bijzondere strafwet betreffende de tenuitvoerlegging van rechterlijke beslissingen bepaalde. 
+De tenuitvoerlegging van een op grond van artikel 591 opgelegde straf of maatregel geschiedt met inachtneming van het bij of krachtens dit Wetboek, het Wetboek van Strafrecht BES of enige bijzondere strafwet betreffende de tenuitvoerlegging van rechterlijke beslissingen bepaalde. 
 
 ### Par.  4  
 
@@ -4661,7 +4661,7 @@ De tenuitvoerlegging van een op grond van artikel 591 opgelegde straf of maatreg
 2.  Tegen de beslissing van de procureur-generaal kan de veroordeelde binnen veertien dagen nadat zich een omstandigheid heeft voorgedaan, waaruit voortvloeit dat de beslissing hem bekend is, een bezwaarschrift indienen bij het Hof, indien de opgelegde geldboete het bedrag van USD 27,93 overschrijft.   
 3.  Op de wijze van indiening en intrekking van een bezwaarschrift zijn de artikelen 445, tweede lid, 446 tot en met 451 van overeenkomstige toepassing.   
 4.  Op de behandeling van het bezwaarschrift zijn de artikelen 38 tot en met 42, 47 en 48 van overeenkomstige toepassing.   
-5.  Verklaart het Hof het bezwaar gegrond, dan vernietigt het de beslissing van de procureur-generaal of vult deze aan met inachtneming van het bepaalde in [artikel 27 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md). Acht het, ondanks vernietiging de tenuitvoerlegging wel toelaatbaar, dan doet het Hof hetgeen de procureur-generaal had behoren te doen. In alle gevallen dat het Hof de tenuitvoerlegging van een geldboete toelaatbaar verklaard, bepaalt het tevens de duur van de vervangende hechtenis.   
+5.  Verklaart het Hof het bezwaar gegrond, dan vernietigt het de beslissing van de procureur-generaal of vult deze aan met inachtneming van het bepaalde in artikel 27 van het Wetboek van Strafrecht BES. Acht het, ondanks vernietiging de tenuitvoerlegging wel toelaatbaar, dan doet het Hof hetgeen de procureur-generaal had behoren te doen. In alle gevallen dat het Hof de tenuitvoerlegging van een geldboete toelaatbaar verklaard, bepaalt het tevens de duur van de vervangende hechtenis.   
 6.  De artikelen 591, derde lid, en 592, zijn van toepassing.  
 
 ### Artikel  592c  
@@ -4804,7 +4804,7 @@ Het openbaar ministerie kan voor de tenuitvoerlegging van rechterlijke of eigen 
 a. voor bevelen bij het vonnis verleend, die dadelijk uitvoerbaar zijn;  
 
 b. indien naar het oordeel van het openbaar ministerie vaststaat dat het rechtsmiddel na het verstrijken van de daarvoor gestelde termijn is aangewend, tenzij op verzoek van degene die het middel aanwendde, en na te zijn gehoord, indien hij dit bij het verzoek heeft gevraagd, de voorzitter van het Hof of de rechter in eerste aanleg anders bepaalt.     
-4.  Een uitspraak op de vordering van het openbaar ministerie, als bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md), kan eerst worden tenuitvoergelegd, nadat de veroordeling, als bedoeld in artikel 38e, eerste onderscheidenlijk derde lid, van het Wetboek van Strafrecht BES, in kracht van gewijsde is gegaan.  
+4.  Een uitspraak op de vordering van het openbaar ministerie, als bedoeld in artikel 38e van het Wetboek van Strafrecht BES, kan eerst worden tenuitvoergelegd, nadat de veroordeling, als bedoeld in artikel 38e, eerste onderscheidenlijk derde lid, van het Wetboek van Strafrecht BES, in kracht van gewijsde is gegaan.  
 
 ### Artikel  610  
 
@@ -4918,7 +4918,7 @@ d. zodra de geldigheid van het bevel tot vrijheidsontneming ophoudt;
 e. zodra het bevoegd gezag de last tot invrijheidstelling aan het hoofd van de inrichting heeft verstrekt.     
 2.  De invrijheidstelling vindt in geen geval plaats na het ogenblik waarop de straftijd verstrijkt.   
 3.  Indien de invrijheidstelling ingevolge het eerste lid, aanhef en onderdelen a, b of c, geschiedt alvorens de straftijd geheel is verstreken, vervalt het recht van tenuitvoerlegging voor het nog resterende gedeelte van de straf.   
-4.  Voor de toepassing van het eerste tot en met derde lid wordt, in gevallen waarin ten aanzien van een gedeelte van de straf een bevel als bedoeld in [artikel 17a van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) is gegeven, met dat gedeelte alleen rekening gehouden, voor zover de tenuitvoerlegging daarvan door de rechter is gelast.  
+4.  Voor de toepassing van het eerste tot en met derde lid wordt, in gevallen waarin ten aanzien van een gedeelte van de straf een bevel als bedoeld in artikel 17a van het Wetboek van Strafrecht BES is gegeven, met dat gedeelte alleen rekening gehouden, voor zover de tenuitvoerlegging daarvan door de rechter is gelast.  
 
 ### Artikel  626  
 
@@ -4944,16 +4944,16 @@ Indien de veroordeelde meer dan een straf achtereenvolgens moet ondergaan, worde
 
 ### Artikel  629a  
 
-1.  Op voorwerpen en vorderingen, inbeslaggenomen op grond van artikel 119a, geschiedt het verhaal op de wijze voorzien in het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) krachtens de onherroepelijke einduitspraak waarbij de geldboete is opgelegd.   
+1.  Op voorwerpen en vorderingen, inbeslaggenomen op grond van artikel 119a, geschiedt het verhaal op de wijze voorzien in het Wetboek van Burgerlijke Rechtsvordering BES krachtens de onherroepelijke einduitspraak waarbij de geldboete is opgelegd.   
 2.  De einduitspraak, bedoeld in het eerste lid, geldt als executoriale titel. Betekening van deze titel aan de veroordeelde en, zo het beslag onder een derde is gelegd, ook aan deze, kan plaatsvinden door betekening van een kennisgeving inhoudende de bij de einduitspraak opgelegde straf, voor zover voor het nemen van verhaal van belang.   
-3.  Ten aanzien van derden die geheel of gedeeltelijk recht menen te hebben op de inbeslaggenomen voorwerpen en vorderingen zijn de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) van toepassing.  
+3.  Ten aanzien van derden die geheel of gedeeltelijk recht menen te hebben op de inbeslaggenomen voorwerpen en vorderingen zijn de bepalingen van het Wetboek van Burgerlijke Rechtsvordering BES van toepassing.  
 
 ### Artikel  630  
 
 1.  Op voorwerpen en vorderingen van de veroordeelde die niet op grond van artikel 119a in beslag zijn genomen geschiedt verhaal krachtens een dwangbevel medebrengende het recht om die goederen zonder vonnis aan te tasten.   
 2.  Het dwangbevel wordt in naam des Konings uitgevaardigd door het openbaar ministerie. Het wordt ten uitvoer gelegd als een vonnis van de burgerlijke rechter.   
 3.  De tenuitvoerlegging van het dwangbevel kan niet worden geschorst dan door een verzet, dat evenwel nimmer gericht zal kunnen zijn tegen het vonnis waarbij de geldboete werd opgelegd. Verzet wordt gedaan bij een met redenen omkleed bezwaarschrift, dat voor de verkoop en uiterlijk binnen zeven dagen te rekenen van de dag van de inbeslagneming, wordt ingediend bij het gerecht waartoe de rechter behoort, die de straf heeft opgelegd. Het gerecht geeft binnen zeven dagen, na zo nodig de veroordeelde en de ambtenaar die het dwangbevel heeft uitgevaardigd, te hebben gehoord, althans daartoe behoorlijk te hebben opgeroepen om te verschijnen, zijn met redenen omklede beschikking, die onverwijld aan de veroordeelde wordt betekend.   
-4.  Ten aanzien van derden, die bij een inbeslagneming van goederen daarop geheel of gedeeltelijk recht menen te hebben, zijn de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md) van toepassing.  
+4.  Ten aanzien van derden, die bij een inbeslagneming van goederen daarop geheel of gedeeltelijk recht menen te hebben, zijn de bepalingen van het Wetboek van Burgerlijke Rechtsvordering BES van toepassing.  
 
 ### Artikel  631  
 
@@ -4966,7 +4966,7 @@ b. pensioenen, wachtgelden en andere periodieke uitkeringen waarop de veroordeel
 c. het tegoed van een rekening bij een bank- of giro- instelling waarover de veroordeelde ten eigen bate vermag te beschikken.     
 2.  Verhaal met toepassing van het eerste lid geschiedt door middel van een schriftelijke kennisgeving van het openbaar ministerie. De kennisgeving bevat een voor de uitoefening van het verhaal voldoende aanduiding van de persoon van de veroordeelde, en vermeldt welk bedrag uit hoofde van de veroordeling nog verschuldigd is, bij welke rechterlijke uitspraak de geldboete is opgelegd, alsmede de plaats waar de betaling moet geschieden. Zij wordt betekend aan de veroordeelde en aan degene onder wie het verhaal wordt genomen. De artikelen 517 tot en met 520 zijn van overeenkomstige toepassing.   
 3.  Door de betekening van de kennisgeving is degene onder wie het verhaal wordt genomen, verplicht tot betaling aan 's Rijks kas van het in de kennisgeving bedoelde bedrag voor zover de veroordeelde op hem een opeisbare vordering heeft of verkrijgt. Het openbaar ministerie bepaalt de termijn waarbinnen de betaling moet geschieden. De verplichting tot betaling vervalt, zodra het uit hoofde van de veroordeling verschuldigde bedrag is betaald of verhaald en uiterlijk wanneer twee jaren na de dag van betekening zijn verstreken.   
-4.  Degene onder wie het verhaal wordt genomen, kan zich niet ten nadele van 's Rijks kas beroepen op het tenietgaan of de vermindering van zijn schuld aan de veroordeelde door betaling of door verrekening met een tegenvordering, die na de betekening aan hem is opgekomen of opeisbaar is geworden. Voor de toepassing van de artikelen 617 en 618 van het Wetboek van Burgerlijke Rechtsvordering BES en [artikel 29 van het Faillissementswet BES](../../../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) wordt het verhaal met beslag onder derden gelijkgesteld.   
+4.  Degene onder wie het verhaal wordt genomen, kan zich niet ten nadele van 's Rijks kas beroepen op het tenietgaan of de vermindering van zijn schuld aan de veroordeelde door betaling of door verrekening met een tegenvordering, die na de betekening aan hem is opgekomen of opeisbaar is geworden. Voor de toepassing van de artikelen 617 en 618 van het Wetboek van Burgerlijke Rechtsvordering BES en artikel 29 van het Faillissementswet BES wordt het verhaal met beslag onder derden gelijkgesteld.   
 5.  Indien verhaal is genomen op een periodieke uitkering, die ingevolge enig wettelijk voorschrift niet vatbaar is voor beslag, kan telkens ten hoogste een vijfde gedeelte van de uitkering tot betaling van het uit hoofde van de veroordeling verschuldigde bedrag worden bestemd. Overigens strekt het verhaal zich niet uit tot gelden, waarvan bij wettelijke regeling bepaald is dat zij niet voor inbeslagneming vatbaar zijn.   
 6.  Iedere belanghebbende kan zich binnen zeven dagen na de betekening van de in het tweede lid van dit artikel bedoelde kennisgeving bij met redenen omkleed bezwaarschrift verzetten tegen het verhaal. Artikel 630, derde lid, is op dit verzet van toepassing.   
 7.  Een ieder, behoudens de veroordeelde, is verplicht desgevorderd aan het openbaar ministerie de inlichtingen te verstrekken, die naar het redelijk oordeel van het openbaar ministerie noodzakelijk zijn ten behoeve van de toepassing van het eerste lid van dit artikel. De artikelen 251 en 252 zijn van overeenkomstige toepassing.  
@@ -4982,7 +4982,7 @@ Verbeurdverklaring van vorderingen wordt ten uitvoer gelegd door betekening van 
 
 ### Artikel  634  
 
-1.  Indien de maatregel bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) is opgelegd, vinden de artikelen 615, tweede en derde lid, 628 tot en met 631 overeenkomstig toepassing.   
+1.  Indien de maatregel bedoeld in artikel 38e van het Wetboek van Strafrecht BES is opgelegd, vinden de artikelen 615, tweede en derde lid, 628 tot en met 631 overeenkomstig toepassing.   
 2.  Op de vordering van het openbaar ministerie, of op het schriftelijke verzoek van de veroordeelde of van een benadeelde derde, kan de rechter die de in het eerste lid genoemde maatregel heeft opgelegd, het daarin vastgestelde bedrag en de bevolen vervangende hechtenis verminderen of kwijtschelden. Is het bedrag reeds betaald of verhaald dan kan de rechter bevelen dat het geheel of gedeeltelijk zal worden teruggegeven of aan een door hem aangewezen derde uitgekeerd. Het bevel laat ieders recht op het teruggegeven of uitgekeerde bedrag onverlet.   
 3.  Wanneer blijkt dat een hoger bedrag is vastgesteld dan de som van het werkelijke voordeel, geeft de rechter een beschikking strekkende tot vermindering of teruggave, ten minste gelijk aan het verschil.   
 4.  Tot vermindering of kwijtschelding als bedoeld in het tweede lid kan slechts worden besloten op grond van omstandigheden die zich na de uitspraak hebben voorgedaan, of die ten tijde daarvan niet, of niet volledig, aan de rechter bekend waren.   
@@ -4993,12 +4993,12 @@ Verbeurdverklaring van vorderingen wordt ten uitvoer gelegd door betekening van 
 
 ### Artikel  635  
 
-Indien het openbaar ministerie overeenkomstig [artikel 76 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) voorwaarden stelt ter voorkoming van de strafvervolging, bepaalt het daarbij de termijn waarbinnen aan die voorwaarden moet zijn voldaan, en zo nodig tevens de plaats waar dat moet geschieden. De gestelde termijn kan worden verlengd. 
+Indien het openbaar ministerie overeenkomstig artikel 76 van het Wetboek van Strafrecht BES voorwaarden stelt ter voorkoming van de strafvervolging, bepaalt het daarbij de termijn waarbinnen aan die voorwaarden moet zijn voldaan, en zo nodig tevens de plaats waar dat moet geschieden. De gestelde termijn kan worden verlengd. 
 
 ### Artikel  635a  
 
 1.  Indien de officier van justitie overeenkomstig artikel 503b een schikking met de verdachte of veroordeelde aangaat, bepaalt hij de termijn waarbinnen aan de termen van die schikking moet worden voldaan.Tot dat tijdstip is de termijn waarbinnen ingevolge artikel 503a, eerste lid, een vordering aanhangig moet zijn gemaakt geschorst. Door voldoening aan die termen vervalt het recht tot indiening van de vordering of is, indien die vordering reeds is ingediend, de zaak van rechtswege geëindigd.   
-2.  Wanneer na voldoening aan die termen, bedoeld in het eerste lid, blijkt van omstandigheden die de toepasselijkheid van de maatregel bedoeld in [artikel 38e van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) zouden hebben uitgesloten, kan de gewezen verdachte of veroordeelde de officier van justitie verzoeken om teruggave van betaalde geldbedragen of overgedragen voorwerpen.   
+2.  Wanneer na voldoening aan die termen, bedoeld in het eerste lid, blijkt van omstandigheden die de toepasselijkheid van de maatregel bedoeld in artikel 38e van het Wetboek van Strafrecht BES zouden hebben uitgesloten, kan de gewezen verdachte of veroordeelde de officier van justitie verzoeken om teruggave van betaalde geldbedragen of overgedragen voorwerpen.   
 3.  Binnen veertien dagen nadat de gewezen verdachte of veroordeelde kennis heeft gekregen van de beslissing op een overeenkomstig het tweede lid gedaan verzoek, kan hij schriftelijk beklag doen bij het gerecht waarbij de officier van justitie is geplaatst.   
 4.  Het beklag kan ook worden gedaan wanneer dertig dagen zijn verstreken sedert de indiening van het verzoek en inmiddels daarop niet is beslist.   
 5.  Acht het gerecht het beklag gegrond, dan beveelt het de teruggave van betaalde geldbedragen of overgedragen voorwerpen naar maatstaven van redelijkheid en billijkheid.  
@@ -5041,7 +5041,7 @@ Ten aanzien van personen die tot het ondergaan van enige maatregel zijn aangehou
 
 ### Artikel  642  
 
-De kennisgeving van gerechtelijke mededelingen aan natuurlijke personen, als in dit wetboek en het [Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) voorzien, geschiedt, tenzij bij wettelijke regeling anders is bepaald of toegelaten, door toezending van een gewone of aangetekende brief over de post. 
+De kennisgeving van gerechtelijke mededelingen aan natuurlijke personen, als in dit wetboek en het Wetboek van Strafrecht BES voorzien, geschiedt, tenzij bij wettelijke regeling anders is bepaald of toegelaten, door toezending van een gewone of aangetekende brief over de post. 
 
 ### Artikel  643  
 

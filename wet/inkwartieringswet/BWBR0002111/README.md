@@ -53,7 +53,7 @@ Leverantiën omvatten:  het beschikbaarstellen in gebruik of in eigendom van roe
 
 ### Artikel  5a  
 
-1.  Onverminderd de [artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 28, 29 en 35 in werking worden gesteld.   
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, de artikelen 28, 29 en 35 in werking worden gesteld.   
 2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.    
 3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.   
 4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, worden bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
@@ -312,7 +312,7 @@ Bij algemene maatregel van bestuur worden nadere regelen gesteld ten aanzien van
 ###Artikel 42 
 
 1. Degenen, die door Onze Minister met de uitvoering van de maatregelen, genoemd in de artikelen 30 en 36 onder *b* en *d* zijn belast, hebben toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zo nodig verschaffen zij zich de toegang met behulp van de sterke arm. 
-2.  Ingeval de beperkte of de algemene noodtoestand is afgekondigd, is het militair gezag, in afwijking van [artikel 2 van de Algemene wet op het binnentreden](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) (*Stb.* 1994, 572), bevoegd zonder machtiging binnen te treden. Het militair gezag is bevoegd een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) te geven. [Artikel 3 van die wet](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) is niet van toepassing. 
+2.  Ingeval de beperkte of de algemene noodtoestand is afgekondigd, is het militair gezag, in afwijking van artikel 2 van de Algemene wet op het binnentreden (*Stb.* 1994, 572), bevoegd zonder machtiging binnen te treden. Het militair gezag is bevoegd een machtiging als bedoeld in artikel 2 van de Algemene wet op het binnentreden te geven. Artikel 3 van die wet is niet van toepassing. 
 3.  Behalve ingeval de beperkte of de algemene noodtoestand is afgekondigd, wordt van het voornemen tot het betreden ten minste twee maal vierentwintig uren van te voren schriftelijk kennis gegeven aan degene, die het goed onder zich heeft. 
 
 ### Afdeling  4  
@@ -335,7 +335,7 @@ Bij algemene maatregel van bestuur worden nadere regelen gesteld ten aanzien van
 1. Indien een zaak in eigendom is gevorderd, gaat de eigendom over op het tijdstip waarop aan de vordering is voldaan. In geval van ineigendomneming gaat de eigendom over op het tijdstip waarop zij geschiedt. 
 2.  De eigendom gaat over vrij van alle lasten en rechten die met betrekking tot de zaak bestaan, alleen erfdienstbaarheden kunnen erop gevestigd blijven, doch niet dan met goedkeuring door of vanwege het militair gezag. Dijk- en soortgelijke lasten en alle belastingen hoegenaamd, waarmede de gevorderde zaak is bezwaard of die daarvan worden betaald, gaan van de dag van de eigendomsovergang over op de Staat. 
 3.  In alle gevallen waarin tengevolge van een vordering dan wel een ineigendomneming krachtens deze wet de eigendom is overgegaan van een zaak die tevens registergoed is, zal door de militaire autoriteit, bedoeld in artikel 28, eerste lid, zo spoedig mogelijk voor inschrijving van die overgang in de betrokken openbare registers worden zorg gedragen. 
-4. [Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing. 
+4. Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing. 
 5.  De op het ogenblik van de eigendomsovergang op het gevorderde goed rustende hypothecaire inschrijving wordt ambtshalve doorgehaald. 
 
 ###Artikel 45 
@@ -364,11 +364,11 @@ Wij stellen bij algemene maatregel van bestuur regelen, volgens welke schadeloos
 ###Artikel 51 
 
 1. Degene die de vordering gedaan heeft is bevoegd tot toepassing van bestuursdwang ter handhaving van de bij of krachtens deze wet gestelde verplichtingen. 
-2.  Ingeval de beperkte of de algemene noodtoestand is afgekondigd, is het militair gezag, in afwijking van [artikel 2 van de Algemene wet op het binnentreden](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) (*Stb.* 1994, 572), bevoegd zonder machtiging binnen te treden. Het militair gezag is bevoegd een machtiging als bedoeld in [artikel 2 van de Algemene wet op het binnentreden](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) te geven. [Artikel 3 van die wet](../../../wet/algemene/wet/op/het/binnentreden/BWBR0006763/README.md) is niet van toepassing. 
+2.  Ingeval de beperkte of de algemene noodtoestand is afgekondigd, is het militair gezag, in afwijking van artikel 2 van de Algemene wet op het binnentreden (*Stb.* 1994, 572), bevoegd zonder machtiging binnen te treden. Het militair gezag is bevoegd een machtiging als bedoeld in artikel 2 van de Algemene wet op het binnentreden te geven. Artikel 3 van die wet is niet van toepassing. 
 
 ### Artikel  52  
 
-1.  In afwijking van [artikel 5:10, tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) kan de burgemeester de kosten welke het gevolg zijn van toepassing van bestuursdwang door een militaire autoriteit, op diens schriftelijk verzoek bij dwangbevel invorderen.   
+1.  In afwijking van artikel 5:10, tweede lid, van de Algemene wet bestuursrecht kan de burgemeester de kosten welke het gevolg zijn van toepassing van bestuursdwang door een militaire autoriteit, op diens schriftelijk verzoek bij dwangbevel invorderen.   
 2.  Bij toepassing van het eerste lid worden de ten laste van de gemeente komende kosten van invordering door het Rijk aan de gemeente vergoed.  
 
 ### Hoofdstuk  V  

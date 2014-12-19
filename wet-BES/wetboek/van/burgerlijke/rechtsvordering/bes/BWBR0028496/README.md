@@ -74,11 +74,11 @@ c. aan de persoon of de woonplaats van een van de erfgenamen, mits betekening ge
 
 9°. ten aanzien van degene die met degene ten verzoeke van wie het exploot wordt gedaan, de woning deelt, aan hem in persoon; indien betekening in persoon niet kan geschieden, handelt de deurwaarder overeenkomstig artikel 2;  
 
-10°. ten aanzien van de eigenaar en de leden, dan wel de boekhouder van een rederij van een schip dat in het in [artikel 193 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) genoemde register teboekstaat, indien het exploot het schip of een in of krachtens [Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) geregeld onderwerp betreft, aan de in [artikel 194, zesde lid, van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) genoemde woonplaats;  
+10°. ten aanzien van de eigenaar en de leden, dan wel de boekhouder van een rederij van een schip dat in het in artikel 193 van Boek 8 van het Burgerlijk Wetboek genoemde register teboekstaat, indien het exploot het schip of een in of krachtens Boek 8 van het Burgerlijk Wetboek geregeld onderwerp betreft, aan de in artikel 194, zesde lid, van Boek 8 van het Burgerlijk Wetboek genoemde woonplaats;  
 
-11°. ten aanzien van de opvarenden van een schip, die geen bekende woonplaats hier te lande hebben, en die noch aan boord van dat schip, noch elders worden aangetroffen, indien het exploot het schip of een in of krachtens [Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) geregeld onderwerp betreft, aan boord aan de kapitein van dat schip;  
+11°. ten aanzien van de opvarenden van een schip, die geen bekende woonplaats hier te lande hebben, en die noch aan boord van dat schip, noch elders worden aangetroffen, indien het exploot het schip of een in of krachtens Boek 8 van het Burgerlijk Wetboek geregeld onderwerp betreft, aan boord aan de kapitein van dat schip;  
 
-11a°. ten aanzien van de eigenaar van een luchtvaartuig dat in het in [artikel 1302 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) genoemde register teboekstaat, indien het exploot het luchtvaartuig of een in of krachtens [Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) geregeld onderwerp betreft, aan de in [artikel 1303, zesde lid, van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) genoemde woonplaats.   
+11a°. ten aanzien van de eigenaar van een luchtvaartuig dat in het in artikel 1302 van Boek 8 van het Burgerlijk Wetboek genoemde register teboekstaat, indien het exploot het luchtvaartuig of een in of krachtens Boek 8 van het Burgerlijk Wetboek geregeld onderwerp betreft, aan de in artikel 1303, zesde lid, van Boek 8 van het Burgerlijk Wetboek genoemde woonplaats.   
 
 ### Artikel  5a  
 
@@ -439,11 +439,11 @@ Indien na de in artikel 62 bedoelde vaststelling van de staat van de kosten nog 
 
 ### Artikel  63a  
 
-Ter zake van verrichtingen waarvoor de in de artikelen 60 tot en met 63 bedoelde kosten een vergoeding plegen in te sluiten, zoals die ter voorbereiding van gedingstukken en ter instructie van de zaak, kan jegens de tegenpartij geen vergoeding op grond van [artikel 96, tweede lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) worden toegekend, maar zijn alleen de regels inzake proceskosten van toepassing. 
+Ter zake van verrichtingen waarvoor de in de artikelen 60 tot en met 63 bedoelde kosten een vergoeding plegen in te sluiten, zoals die ter voorbereiding van gedingstukken en ter instructie van de zaak, kan jegens de tegenpartij geen vergoeding op grond van artikel 96, tweede lid, van Boek 6 van het Burgerlijk Wetboek worden toegekend, maar zijn alleen de regels inzake proceskosten van toepassing. 
 
 ### Artikel  63b  
 
-1.  De rechter kan bedragen die geacht kunnen worden te zijn bedongen ter vergoeding van proceskosten of van buitengerechtelijke kosten als bedoeld in [artikel 96, tweede lid, onderdelen b en c, van Boek 6 van het Burgerlijk Wetboek](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md), ambtshalve matigen, doch niet tot onder het bedrag van de krachtens de wet te begroten proceskosten, onderscheidenlijk het bedrag van de buitengerechtelijke kosten die, gelet op de tarieven volgens welke zodanige kosten aan de opdrachtgevers gewoonlijk in rekening worden gebracht, jegens de wederpartij redelijk zijn.   
+1.  De rechter kan bedragen die geacht kunnen worden te zijn bedongen ter vergoeding van proceskosten of van buitengerechtelijke kosten als bedoeld in artikel 96, tweede lid, onderdelen b en c, van Boek 6 van het Burgerlijk Wetboek, ambtshalve matigen, doch niet tot onder het bedrag van de krachtens de wet te begroten proceskosten, onderscheidenlijk het bedrag van de buitengerechtelijke kosten die, gelet op de tarieven volgens welke zodanige kosten aan de opdrachtgevers gewoonlijk in rekening worden gebracht, jegens de wederpartij redelijk zijn.   
 2.  Het eerste lid is niet van toepassing indien een overeenkomst is gesloten die strekt tot regeling van een reeds gerezen geschil.  
 
 ### Artikel  64  
@@ -1398,7 +1398,7 @@ Indien geen van partijen er, na in de gelegenheid te zijn gesteld zich daarover 
 
 1.  Afstand van instantie wordt gedaan bij akte.   
 2.  Indien de afstand door een gemachtigde wordt gedaan, legt deze een hem daartoe door de eiser verstrekte bijzondere volmacht over. Voor de toestemming geldt hetzelfde.   
-3.  Door afstand van instantie worden partijen van rechtswege hersteld in de toestand als ware het geding niet in deze instantie aanhangig geweest, onverminderd het bepaalde in [artikel 316, tweede lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+3.  Door afstand van instantie worden partijen van rechtswege hersteld in de toestand als ware het geding niet in deze instantie aanhangig geweest, onverminderd het bepaalde in artikel 316, tweede lid, van Boek 3 van het Burgerlijk Wetboek.   
 4.  Ter zake van de betaling van de kosten vaardigt de rechter op verlangen van de gedaagde een bevelschrift uit. Het bevelschrift is uitvoerbaar bij voorraad.  
 
 ### §  3  
@@ -1423,7 +1423,7 @@ De kosten van de vervallen instantie worden van rechtswege gecompenseerd. De rec
 
 ### Artikel  212  
 
-1.  Door verval van instantie worden partijen van rechtswege hersteld in de toestand als ware het geding niet in deze instantie aanhangig geweest, onverminderd het bepaalde in [artikel 316, tweede lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+1.  Door verval van instantie worden partijen van rechtswege hersteld in de toestand als ware het geding niet in deze instantie aanhangig geweest, onverminderd het bepaalde in artikel 316, tweede lid, van Boek 3 van het Burgerlijk Wetboek.   
 2.  Wordt de vordering opnieuw ingesteld, dan kan wederom gebruik worden gemaakt van in de vervallen instantie gedane gerechtelijke erkentenissen en bijgebracht bewijs.  
 
 ### Afdeling  16  
@@ -1802,7 +1802,7 @@ b. Indien het verzoek betrekking heeft op een ingevolge titel 1 ingeleid of in t
 2.  In zaken die uitsluitend betreffen de aanvulling van een register van de burgerlijke stand of de inschrijving, doorhaling of wijziging daarin van een akte of latere vermelding, is bevoegd de rechter in eerste aanleg binnen wiens rechtsgebied de akte is of moet worden opgenomen. In zaken in de openbare lichamen Bonaire, Sint Eustatius en Saba betreffende een akte die is of moet worden opgenomen in de registers van de burgerlijke stand van de gemeente ’s-Gravenhage is bevoegd de rechter van de woonplaats van de verzoeker of één van de verzoekers.   
 3.  In zaken betreffende minderjarige kinderen is bevoegd de rechter in eerste aanleg van de woonplaats of, bij gebreke van een woonplaats hier te lande, van het werkelijk verblijf van de minderjarige.   
 4.  In zaken betreffende curatele, onderbewindstelling ter bescherming van meerderjarigen of mentorschap is bevoegd de rechter in eerste aanleg van de woonplaats of, bij gebreke van een woonplaats hier te lande, van het werkelijk verblijf van degene wiens curatele onderscheidenlijk goederen of mentorschap het betreft.   
-5.  In zaken van afwezigheid of vermissing is bevoegd de rechter in eerste aanleg van de verlaten woonplaats van de afwezige of vermiste. Ten aanzien van de verklaring dat er rechtsvermoeden van overlijden bestaat en ten aanzien van de vaststelling van overlijden in de gevallen bedoeld in [artikel 426 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md), is in de openbare lichamen Bonaire, Sint Eustatius en Saba bevoegd de rechter in eerste aanleg te Bonaire.   
+5.  In zaken van afwezigheid of vermissing is bevoegd de rechter in eerste aanleg van de verlaten woonplaats van de afwezige of vermiste. Ten aanzien van de verklaring dat er rechtsvermoeden van overlijden bestaat en ten aanzien van de vaststelling van overlijden in de gevallen bedoeld in artikel 426 van Boek 1 van het Burgerlijk Wetboek, is in de openbare lichamen Bonaire, Sint Eustatius en Saba bevoegd de rechter in eerste aanleg te Bonaire.   
 6.  In zaken betreffende nalatenschappen is mede bevoegd de rechter in eerste aanleg van de laatste woonplaats van de overledene.   
 7.  In zaken betreffende een arbeidsovereenkomst, een agentuurovereenkomst of een collectieve arbeidsovereenkomst is mede bevoegd de rechter in eerste aanleg van de plaats waar de arbeid gewoonlijk wordt of laatstelijk gewoonlijk werd verricht.   
 8.  Wijzen de vorige leden in Aruba, Curaçao, Sint Maarten of de openbare lichamen Bonaire, Sint Eustatius of Saba geen bevoegde rechter aan, dan is de rechter in eerste aanleg te Curaçao bevoegd.  
@@ -1865,7 +1865,7 @@ Zolang de rechter in eerste aanleg nog geen eindbeschikking heeft gegeven, is de
 
 1.  Titel 2, afdeling 4 tot en met afdeling 8B zijn van overeenkomstige toepassing, tenzij de aard van de procedure zich hiertegen verzet.   
 2.  Indien de rechter in eerste aanleg een getuigenverhoor beveelt, kan hij ook door hem aangewezen personen als getuigen doen oproepen. In dit geval kan de oproeping door de griffier geschieden.   
-3.  Het verschoningsrecht komt aan de in artikel 144, tweede lid, onderdeel a, genoemde personen niet toe in procedures omtrent de toepassing van de voorschriften van [Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md), vervat in de [titels 5](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md) en [9 tot en met 20](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md), en van die, vervat in [titel 6](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/1/BWBR0028743/README.md), voor zover het betreft gedingen tussen echtgenoten. Evenwel kunnen ouders en kinderen van de echtgenoten zich in gedingen tot echtscheiding en tot scheiding van tafel en bed verschonen.   
+3.  Het verschoningsrecht komt aan de in artikel 144, tweede lid, onderdeel a, genoemde personen niet toe in procedures omtrent de toepassing van de voorschriften van Boek 1 van het Burgerlijk Wetboek, vervat in de titels 5 en 9 tot en met 20, en van die, vervat in titel 6, voor zover het betreft gedingen tussen echtgenoten. Evenwel kunnen ouders en kinderen van de echtgenoten zich in gedingen tot echtscheiding en tot scheiding van tafel en bed verschonen.   
 4.  De overeenkomstige toepassing van de artikelen 174 en 174c vindt aldus plaats, dat de daarin bedoelde voorschotheffing, tenuitvoerlegging of voorlopige indebetstelling geschiedt ten laste van de belanghebbende die het verzoekschrift heeft ingediend, dan wel mede of uitsluitend ten laste van een of meer andere door de rechter aangewezen belanghebbenden.  
 
 ### Artikel  429ja  
@@ -1991,8 +1991,8 @@ Hetgeen omtrent de executie van een goed is bepaald, is van overeenkomstige toep
 
 ### Artikel  438a  
 
-1.  In zaken betreffende een executie waarin volgens de titels 2 en 3 van dit Boek of [titel 9 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) een beschikking wordt gegeven, is bevoegd de rechter in eerste aanleg in wiens rechtsgebied de te executeren zaken zich geheel of grotendeels bevinden of de executie zal geschieden.   
-2.  De indiening van verzoekschriften krachtens de artikelen 459, derde lid, 461b, 462, tweede lid, 463, derde lid, 463a, 465, 481, eerste lid, 496, tweede lid, en 506, tweede lid, kan ook door een deurwaarder geschieden. Hetzelfde geldt voor een verzoekschrift krachtens [artikel 234, derde lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), indien de executie door een pandhouder geschiedt, of krachtens [artikel 251 van dat Boek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). Indien een deurwaarder het verzoekschrift indient, geldt zijn kantoor als gekozen woonplaats van de verzoeker.  
+1.  In zaken betreffende een executie waarin volgens de titels 2 en 3 van dit Boek of titel 9 van Boek 3 van het Burgerlijk Wetboek een beschikking wordt gegeven, is bevoegd de rechter in eerste aanleg in wiens rechtsgebied de te executeren zaken zich geheel of grotendeels bevinden of de executie zal geschieden.   
+2.  De indiening van verzoekschriften krachtens de artikelen 459, derde lid, 461b, 462, tweede lid, 463, derde lid, 463a, 465, 481, eerste lid, 496, tweede lid, en 506, tweede lid, kan ook door een deurwaarder geschieden. Hetzelfde geldt voor een verzoekschrift krachtens artikel 234, derde lid, van Boek 3 van het Burgerlijk Wetboek, indien de executie door een pandhouder geschiedt, of krachtens artikel 251 van dat Boek. Indien een deurwaarder het verzoekschrift indient, geldt zijn kantoor als gekozen woonplaats van de verzoeker.  
 
 ### Artikel  438b  
 
@@ -2053,7 +2053,7 @@ c. indien het beslag wordt gelegd buiten het rechtsgebied waarin overeenkomstig 
 
 ### Artikel  445  
 
-Indien er bij de inbeslagneming gereed geld wordt gevonden, wordt het getal en de geldsoort vermeld; de deurwaarder geeft het geld, alsmede alle aandeelbewijzen, effecten en verder geldswaarde hebbend papier, aan een door hem aan te wijzen, ingevolge de [Wet financiële markten BES](../../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) in het register financiële markten ingeschreven kredietinstelling aan een door zodanige kredietinstelling gegarandeerd effectenbewaarbedrijf of aan de centrale bank in gerechtelijke bewaring, tenzij de executant en geëxecuteerde een andere plaats van bewaring zijn overeengekomen. De bewaring geschiedt ten name van de deurwaarder onder vermelding van het beslag, van de executant en van de geëxecuteerde. 
+Indien er bij de inbeslagneming gereed geld wordt gevonden, wordt het getal en de geldsoort vermeld; de deurwaarder geeft het geld, alsmede alle aandeelbewijzen, effecten en verder geldswaarde hebbend papier, aan een door hem aan te wijzen, ingevolge de Wet financiële markten BES in het register financiële markten ingeschreven kredietinstelling aan een door zodanige kredietinstelling gegarandeerd effectenbewaarbedrijf of aan de centrale bank in gerechtelijke bewaring, tenzij de executant en geëxecuteerde een andere plaats van bewaring zijn overeengekomen. De bewaring geschiedt ten name van de deurwaarder onder vermelding van het beslag, van de executant en van de geëxecuteerde. 
 
 ### Artikel  446  
 
@@ -2142,7 +2142,7 @@ Dag en uur van de verkoop van de in beslag genomen zaken worden aan de geëxecut
 
 ### Artikel  461c  
 
-De schuldeiser die vóór het beslag ten aanzien van in beslag genomen zaken het beding, bedoeld in [artikel 254 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), heeft gemaakt en van de in het tweede lid van dat artikel bedoelde bevoegdheid tot gezamenlijke executie gebruik wil maken, kan de executie overeenkomstig artikel 461a overnemen. De artikelen 544 tot en met 548 zijn op de executie van deze zaken van toepassing. 
+De schuldeiser die vóór het beslag ten aanzien van in beslag genomen zaken het beding, bedoeld in artikel 254 van Boek 3 van het Burgerlijk Wetboek, heeft gemaakt en van de in het tweede lid van dat artikel bedoelde bevoegdheid tot gezamenlijke executie gebruik wil maken, kan de executie overeenkomstig artikel 461a overnemen. De artikelen 544 tot en met 548 zijn op de executie van deze zaken van toepassing. 
 
 ### Artikel  461d  
 
@@ -2376,7 +2376,7 @@ f. de verdere gegevens die voor het vaststellen van de rechten van partijen dien
 
 1.  Indien onder de derde-beslagene ten laste van de geëxecuteerde ook andere beslagen zijn gelegd, en niet bij voorbaat vaststaat dat alle beslagleggers uit de door de derde-beslagene verschuldigde geldsommen zullen kunnen worden voldaan, int de deurwaarder die het oudste executoriale beslag heeft gelegd, voor de gezamenlijke beslagleggers hetgeen de derde-beslagene heeft te betalen of af te geven. Wordt de executie door de legger van dit beslag niet voortgezet, dan neemt de deurwaarder die het daaropvolgende executoriale beslag heeft gelegd, de inning over.   
 2.  Een derde-beslagene die een betaling of afgifte heeft gedaan aan een deurwaarder die een van de andere executoriale beslagen heeft gelegd, is niettemin bevrijd. De deurwaarder die de gelden of goederen heeft ontvangen, draagt deze onverwijld af aan de deurwaarder die ze had behoren te ontvangen.   
-3.  Ieder van de deurwaarders die beslag hebben gelegd, is verplicht de anderen zodra mogelijk van het door hen gelegde beslag op de hoogte te brengen. De derde is verplicht ieder van hen desgevraagd in te lichten omtrent andere beslagen, de namen en gekozen woonplaatsen van de andere beslagleggers en het beloop van hun vorderingen. Deze verplichtingen gelden ook voor en jegens degene op wiens last beslag is gelegd op de grondslag van het [Wetboek van Strafvordering](../../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+3.  Ieder van de deurwaarders die beslag hebben gelegd, is verplicht de anderen zodra mogelijk van het door hen gelegde beslag op de hoogte te brengen. De derde is verplicht ieder van hen desgevraagd in te lichten omtrent andere beslagen, de namen en gekozen woonplaatsen van de andere beslagleggers en het beloop van hun vorderingen. Deze verplichtingen gelden ook voor en jegens degene op wiens last beslag is gelegd op de grondslag van het Wetboek van Strafvordering.   
 4.  Ieder van de beslagleggers kan tussenkomen in een procedure als bedoeld in artikel 477a.  
 
 ### Artikel  479  
@@ -2395,7 +2395,7 @@ f. de verdere gegevens die voor het vaststellen van de rechten van partijen dien
 
 ### Artikel  479b  
 
-Het beslag tot verhaal van een uitkering tot levensonderhoud, verschuldigd krachtens [Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) of bij wijze van voorlopige voorziening in verband met een scheidingsgeding, daaronder begrepen het verschuldigde voor verzorging en opvoeding van een minderjarige, alsmede het beslag tot verhaal van een uitkering, verschuldigd krachtens [artikel 85, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) door een echtgenoot, worden, indien de beslagen gelegd worden op loon of andere periodieke uitkeringen die de geëxecuteerde van een derde te vorderen heeft, gelegd en vervolgd op de wijze en met de gevolgen in de afdeling 2 bepaald, voor zover daarvan in deze afdeling niet is afgeweken. 
+Het beslag tot verhaal van een uitkering tot levensonderhoud, verschuldigd krachtens Boek 1 van het Burgerlijk Wetboek of bij wijze van voorlopige voorziening in verband met een scheidingsgeding, daaronder begrepen het verschuldigde voor verzorging en opvoeding van een minderjarige, alsmede het beslag tot verhaal van een uitkering, verschuldigd krachtens artikel 85, tweede lid, van Boek 1 van het Burgerlijk Wetboek door een echtgenoot, worden, indien de beslagen gelegd worden op loon of andere periodieke uitkeringen die de geëxecuteerde van een derde te vorderen heeft, gelegd en vervolgd op de wijze en met de gevolgen in de afdeling 2 bepaald, voor zover daarvan in deze afdeling niet is afgeweken. 
 
 ### Artikel  479c  
 
@@ -2409,7 +2409,7 @@ De geëxecuteerde kan te allen tijde overeenkomstig artikel 438 verzet instellen
 
 1.  Vanaf de dag van het beslag is de derde-beslagene verplicht om, zolang de executant dit verlangt, naar gelang hij loon of andere periodieke uitkeringen aan de geëxecuteerde verschuldigd is, het door de executant aangegeven achterstallig bedrag en de termijnen van de uitkering tot verhaal waarvan het beslag is gelegd, aan de executant te betalen, tenzij onder hem beslag gelegd wordt wegens vorderingen van hogere of gelijke rang.   
 2.  Verzet tegen het beslag door de geëxecuteerde schorst de verplichting tot betaling, behoudens de bevoegdheid van de rechter in eerste aanleg de voorlopige voortzetting van de betaling te bevelen.   
-3.  De derde die meer aan de executant heeft betaald dan waarop deze recht heeft, is jegens de geëxecuteerde bevrijd, voor zover dat voortvloeit uit [artikel 34 van Boek 6 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).  
+3.  De derde die meer aan de executant heeft betaald dan waarop deze recht heeft, is jegens de geëxecuteerde bevrijd, voor zover dat voortvloeit uit artikel 34 van Boek 6 van het Burgerlijk Wetboek.  
 
 ### Artikel  479f  
 
@@ -2574,7 +2574,7 @@ Het bedrag, uitgetrokken voor een voorwaardelijk opgenomen vordering of een voor
 
 ### Artikel  490b  
 
-1.  Indien een pandhouder krachtens zijn pandrecht heeft geëxecuteerd en er beperkt gerechtigden of beslagleggers zijn als bedoeld in [artikel 253, derde volzin, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), wordt het daar bedoelde overschot dat van de netto-opbrengst na afhouding van het aan de pandhouder krachtens zijn rang toekomende is overgebleven, aan hen uitgekeerd overeenkomstig hetgeen zij en de pandgever omtrent de verdeling daarvan zijn overeengekomen.   
+1.  Indien een pandhouder krachtens zijn pandrecht heeft geëxecuteerd en er beperkt gerechtigden of beslagleggers zijn als bedoeld in artikel 253, derde volzin, van Boek 3 van het Burgerlijk Wetboek, wordt het daar bedoelde overschot dat van de netto-opbrengst na afhouding van het aan de pandhouder krachtens zijn rang toekomende is overgebleven, aan hen uitgekeerd overeenkomstig hetgeen zij en de pandgever omtrent de verdeling daarvan zijn overeengekomen.   
 2.  Is op het tijdstip dat de pandhouder tot uitkering kan overgaan, nog geen overeenstemming omtrent de verdeling bereikt, dan stort de pandhouder de opbrengst tot ten minste het bedrag van het overschot onverwijld bij een bewaarder, met overeenkomstige toepassing van artikel 445, en kan de meest gerede partij, onder wie de pandhouder zelf, een rangregeling verzoeken overeenkomstig de voorgaande artikelen van deze afdeling. Indien de pandhouder zelf aan de vereisten van artikel 445 voldoet, kan hij zichzelf als bewaarder aanwijzen.   
 3.  De rangregeling betreft het overeenkomstig het tweede lid in bewaring gegeven bedrag, mits de pandhouder binnen de in artikel 482 bedoelde termijn aan de rechter-commissaris de stukken ter hand stelt waaruit van de verantwoording van het gestorte bedrag blijkt, en binnen de in artikel 484 bedoelde termijn geen tegenspraak ter zake van het door de pandhouder afgehouden bedrag wordt gedaan.   
 4.  Blijkt na tegenspraak de pandhouder volgens de definitief geworden staat teveel van de netto-opbrengst te hebben afgehouden, dan gelast de rechter-commissaris, desverlangd, bij een in executoriale vorm afgegeven bevelschrift dat door ieder bij genoemde staat batig gerangschikte kan worden geëxecuteerd, de pandhouder het tekort tegen kwijting aan de in het tweede lid bedoelde bewaarder uit te keren.   
@@ -2624,7 +2624,7 @@ Betreft het recht op afgifte een of meer naar de soort bepaalde zaken, dan neemt
 
 ### Artikel  496  
 
-1.  Betreft het een executie tot afgifte op vordering van een pandhouder als bedoeld in [artikel 237, derde lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), dan geeft de deurwaarder de zaak af aan de pandhouder of derde in wiens macht de zaak moet worden gebracht.   
+1.  Betreft het een executie tot afgifte op vordering van een pandhouder als bedoeld in artikel 237, derde lid, van Boek 3 van het Burgerlijk Wetboek, dan geeft de deurwaarder de zaak af aan de pandhouder of derde in wiens macht de zaak moet worden gebracht.   
 2.  Is het pandrecht uit hoofde waarvan de afgifte geëist wordt, niet bij een authentieke akte gevestigd, dan kan de deurwaarder de zaak slechts onder zich nemen of in beslag nemen met verlof van de rechter in eerste aanleg binnen wiens rechtsgebied de zaak zich bevindt. Het verlof wordt verzocht bij een verzoekschrift waarbij de pandakte wordt overgelegd. De rechter in eerste aanleg beslist na summier onderzoek. Het verlof en het verzoekschrift worden, met het in artikel 491, tweede lid, bedoelde proces-verbaal, aan de pandgever betekend. Tegen het verlof staat geen hogere voorziening open.   
 3.  Is op de zaak reeds beslag gelegd, dan kan de deurwaarder haar met handhaving van het beslag niettemin onder zich nemen, mits de pandhouder tevens overeenkomstig artikel 461a de executie van de beslaglegger overneemt. Hij betekent de in de vierde volzin van het tweede lid bedoelde stukken onverwijld mede aan de deurwaarder die het beslag heeft gelegd.  
 
@@ -2685,7 +2685,7 @@ d. indien het beslag wordt gelegd buiten het rechtsgebied waarin overeenkomstig 
 
 ### Artikel  505  
 
-1.  Het proces-verbaal van inbeslagneming wordt in de in [titel 1, afdeling 2, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) bedoelde openbare registers ingeschreven. Een afschrift van het proces-verbaal wordt op straffe van nietigheid van het beslag niet later dan drie dagen na de inschrijving aan de geëxecuteerde betekend.   
+1.  Het proces-verbaal van inbeslagneming wordt in de in titel 1, afdeling 2, van Boek 3 van het Burgerlijk Wetboek bedoelde openbare registers ingeschreven. Een afschrift van het proces-verbaal wordt op straffe van nietigheid van het beslag niet later dan drie dagen na de inschrijving aan de geëxecuteerde betekend.   
 2.  Een vervreemding, bezwaring, onderbewindstelling of verhuring, totstandgekomen na de inschrijving van het proces-verbaal, kan niet tegen de beslaglegger worden ingeroepen.   
 3.  Indien de akte betreffende de vervreemding of bezwaring vóór de inschrijving van het beslag reeds was verleden, kan de vervreemding of bezwaring nog tegen de beslaglegger worden ingeroepen, mits de inschrijving van deze akte uiterlijk geschiedt de eerste dag waarop het kantoor van de bewaarder van de openbare registers na de dag van de inschrijving van het beslag voor het publiek opengesteld is.  
 
@@ -2697,10 +2697,10 @@ d. indien het beslag wordt gelegd buiten het rechtsgebied waarin overeenkomstig 
 
 ### Artikel  507  
 
-1.  Vruchten en beplantingen die ten tijde van de inschrijving zich nog op of in de zaak bevinden of te velde staan en vóór de verkoop worden geoogst, vallen mede onder het beslag, tenzij daarop rechten of beslagen van derden rusten, daaronder begrepen het pandrecht, bedoeld in [artikel 237, vierde lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+1.  Vruchten en beplantingen die ten tijde van de inschrijving zich nog op of in de zaak bevinden of te velde staan en vóór de verkoop worden geoogst, vallen mede onder het beslag, tenzij daarop rechten of beslagen van derden rusten, daaronder begrepen het pandrecht, bedoeld in artikel 237, vierde lid, van Boek 3 van het Burgerlijk Wetboek.   
 2.  Artikel 451 is, mede ter zake van de inoogsting, van toepassing.   
 3.  Na de betekening van het ingeschreven beslag aan de huurder valt de aan de geëxecuteerde nog verschuldigde huur onder het beslag en moet zij worden betaald aan de notaris ten overstaan van wie de executie zal plaatsvinden, mits dit bij de betekening uitdrukkelijk aan de huurder, met opgave van de plaats van betaling, wordt meegedeeld en behoudens de rechten van derden, die de executant moet eerbiedigen. Hetgeen aan de notaris wordt betaald, wordt gerekend tot de in artikel 551 bedoelde opbrengst van de zaak. De artikelen 475i, 476 en 478 zijn van overeenkomstige toepassing.   
-4.  Het derde lid is van overeenkomstige toepassing op hetgeen aan de geëxecuteerde verschuldigd is als canon uit hoofde van een erfpacht, als solarium uit hoofde van een opstalrecht of als retributie uit hoofde van een erfdienstbaarheid, of als tegenprestatie ter zake van een kwalitatieve verplichting als bedoeld in [artikel 252, vierde lid, van Boek 6 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/6/BWBR0005289/README.md).  
+4.  Het derde lid is van overeenkomstige toepassing op hetgeen aan de geëxecuteerde verschuldigd is als canon uit hoofde van een erfpacht, als solarium uit hoofde van een opstalrecht of als retributie uit hoofde van een erfdienstbaarheid, of als tegenprestatie ter zake van een kwalitatieve verplichting als bedoeld in artikel 252, vierde lid, van Boek 6 van het Burgerlijk Wetboek.  
 
 ### Artikel  507a  
 
@@ -2709,7 +2709,7 @@ d. indien het beslag wordt gelegd buiten het rechtsgebied waarin overeenkomstig 
 
 ### Artikel  508  
 
-Rusten op de in beslag genomen zaak een of meer hypotheken, dan doet de beslaglegger het door hem gelegde beslag uiterlijk binnen vier dagen na de inschrijving in de desbetreffende openbare registers aan de hypotheekhouders betekenen; de betekening mag geschieden aan de door deze overeenkomstig [artikel 260, eerste lid, derde volzin, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) gekozen woonplaats. 
+Rusten op de in beslag genomen zaak een of meer hypotheken, dan doet de beslaglegger het door hem gelegde beslag uiterlijk binnen vier dagen na de inschrijving in de desbetreffende openbare registers aan de hypotheekhouders betekenen; de betekening mag geschieden aan de door deze overeenkomstig artikel 260, eerste lid, derde volzin, van Boek 3 van het Burgerlijk Wetboek gekozen woonplaats. 
 
 ### Artikel  509  
 
@@ -2730,11 +2730,11 @@ b. indien deze schuldeiser de executie niet met redelijke spoed voortzet.
 
 ### Artikel  513a  
 
-De inschrijving van het beslag kan worden doorgehaald met toepassing van de [artikelen 28](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [29 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), met dien verstande dat de bewaarder mede tot doorhaling wordt gemachtigd door: 
+De inschrijving van het beslag kan worden doorgehaald met toepassing van de artikelen 28 en 29 van Boek 3 van het Burgerlijk Wetboek, met dien verstande dat de bewaarder mede tot doorhaling wordt gemachtigd door: 
 
 a. een ingeschreven schriftelijke verklaring van de deurwaarder dat hij in opdracht van de executant het beslag opheft, of dat het beslag is vervallen;  
 
-b. een overeenkomstig [artikel 17, eerste lid, onderdeel e, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) ingeschreven rechterlijke uitspraak die tot opheffing van het beslag strekt.   
+b. een overeenkomstig artikel 17, eerste lid, onderdeel e, van Boek 3 van het Burgerlijk Wetboek ingeschreven rechterlijke uitspraak die tot opheffing van het beslag strekt.   
 
 ### Afdeling  2  
 
@@ -2800,8 +2800,8 @@ De koper is gehouden de koopprijs te voldoen in handen van de notaris. Deze vold
 
 ### Artikel  526  
 
-1.  [Artikel 273 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is van toepassing.   
-2.  Op de in [artikel 273 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) aangegeven wijze vervallen ook beperkte rechten die wel tegen de verkoper ingeroepen kunnen worden, indien de zaak vrij van deze rechten is verkocht overeenkomstig artikel 517, tweede lid.  
+1.  Artikel 273 van Boek 3 van het Burgerlijk Wetboek is van toepassing.   
+2.  Op de in artikel 273 van Boek 3 van het Burgerlijk Wetboek aangegeven wijze vervallen ook beperkte rechten die wel tegen de verkoper ingeroepen kunnen worden, indien de zaak vrij van deze rechten is verkocht overeenkomstig artikel 517, tweede lid.  
 
 ### Artikel  527  
 
@@ -2864,7 +2864,7 @@ De artikelen 514, tweede lid, tweede volzin, en derde lid, 515 tot en met 520, 5
 
 ### Artikel  548  
 
-1.  Tot één week vóór de voor de verkoop bepaalde dag kan bij de rechter in eerste aanleg het in [artikel 268, tweede lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) bedoelde verzoek dat de verkoop ondershands zal geschieden, worden ingediend.   
+1.  Tot één week vóór de voor de verkoop bepaalde dag kan bij de rechter in eerste aanleg het in artikel 268, tweede lid, van Boek 3 van het Burgerlijk Wetboek bedoelde verzoek dat de verkoop ondershands zal geschieden, worden ingediend.   
 2.  Dit verzoek kan uitsluitend worden gedaan, indien tevens een volledige koopakte wordt overgelegd, zij het dat, indien het verzoek niet door de executant wordt gedaan, de akte niet door of namens hem ondertekend behoeft te zijn. Tevens dienen in afschrift te worden overgelegd de biedingen die bij de notaris zijn binnengekomen, dan wel een verklaring van de notaris dat hij zulke biedingen niet heeft ontvangen.   
 3.  Bij verzoekschrift wordt voorts een lijst overgelegd van de in artikel 544 bedoelde belanghebbenden. De griffier deelt hun onverwijld mede dat het verzoek is gedaan, en dat zij op hun verlangen door de rechter kunnen worden gehoord.   
 4.  Door tijdige indiening van het verzoek vervalt de voor de openbare verkoop bepaalde dag. Wordt het verzoek afgewezen, dan bepaalt de rechter tevens de dag waarop de openbare verkoop zal plaatsvinden. Deze verkoop zal ten minste twee weken tevoren op de in artikel 516 bedoelde wijze worden bekendgemaakt. De rechter kan de verzoeker in de kosten van de bekendmaking veroordelen, onverminderd diens verplichting de door het verzoek ontstane schade te vergoeden, zo daartoe gronden zijn.  
@@ -2878,7 +2878,7 @@ De artikelen 514, tweede lid, tweede volzin, en derde lid, 515 tot en met 520, 5
 1.  Indien er geen andere schuldeiser is die op het geëxecuteerde of op de koopprijs beslag heeft gelegd, en evenmin door de executie een beperkt recht vervalt, draagt de notaris aan de executant uit de netto-opbrengst van de zaak af hetgeen aan deze blijkens een door hem te dien aanzien aan de notaris afgelegde verklaring krachtens zijn executoriale titel toekomt; het overschot keert de notaris uit aan de geëxecuteerde.   
 2.  Indien er wel schuldeisers of beperkt gerechtigden zijn als in het eerste lid bedoeld, dan wel de in dat lid bedoelde verklaring wordt betwist of de notaris ernstige reden heeft te vermoeden dat zij onjuist is, stort de notaris de netto-opbrengst onverwijld bij een door hem aangewezen bewaarder die aan de in artikel 445 bedoelde vereisten voldoet.   
 3.  Wanneer de schuldeisers die op de zaak of op de koopprijs beslag hebben gelegd, de beperkt gerechtigden wier recht door de executie vervalt, en de geëxecuteerde het vóór de betaaldag van de koopsom omtrent de verdeling van de te storten som eens zijn geworden, blijft de storting achterwege en keert de notaris aan ieder het hem toekomende uit.   
-4.  In geval van executie door een hypotheekhouder is niet dit artikel, maar [artikel 270 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van toepassing.   
+4.  In geval van executie door een hypotheekhouder is niet dit artikel, maar artikel 270 van Boek 3 van het Burgerlijk Wetboek van toepassing.   
 5.  Van dit artikel kan in de koopvoorwaarden niet worden afgeweken.  
 
 ### Artikel  551a  
@@ -2888,14 +2888,14 @@ De artikelen 514, tweede lid, tweede volzin, en derde lid, 515 tot en met 520, 5
 
 ### Artikel  552  
 
-1.  Een gerechtelijke rangregeling als bedoeld in artikel 551a en in [artikel 271 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), wordt verzocht aan de rechter in eerste aanleg binnen wiens rechtsgebied zich de geëxecuteerde zaken geheel of grotendeels bevinden.   
-2.  Bij het verzoekschrift wordt gevoegd een door de bewaarder van de openbare registers af te geven getuigschrift, waarin de inschrijvingen en de boekingen in het register van voorlopige aantekeningen worden vermeld die voor de aanwijzing van de in artikel 551 bedoelde belanghebbenden van belang zijn, alsmede een door de notaris af te geven staat van de schuldeisers die beslag hebben gelegd op de opbrengst van de executie of hun vordering ontlenen aan [artikel 264, derde lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+1.  Een gerechtelijke rangregeling als bedoeld in artikel 551a en in artikel 271 van Boek 3 van het Burgerlijk Wetboek, wordt verzocht aan de rechter in eerste aanleg binnen wiens rechtsgebied zich de geëxecuteerde zaken geheel of grotendeels bevinden.   
+2.  Bij het verzoekschrift wordt gevoegd een door de bewaarder van de openbare registers af te geven getuigschrift, waarin de inschrijvingen en de boekingen in het register van voorlopige aantekeningen worden vermeld die voor de aanwijzing van de in artikel 551 bedoelde belanghebbenden van belang zijn, alsmede een door de notaris af te geven staat van de schuldeisers die beslag hebben gelegd op de opbrengst van de executie of hun vordering ontlenen aan artikel 264, derde lid, van Boek 3 van het Burgerlijk Wetboek.   
 3.  Tegen een benoeming krachtens het eerste lid staat geen hogere voorziening open.   
 4.  Op de rangregeling zijn de artikelen 482 tot en met 490a, 490c en 490d van toepassing.  
 
 ### Artikel  553  
 
-1.  Indien bij een executoriale verkoop meer onroerende zaken of daarop rustende rechten te zamen, dan wel een of meer onroerende zaken of daarop rustende rechten te zamen met daarbij behorende roerende zaken, als omschreven in [artikel 254 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), voor één prijs zijn verkocht en er deelnemers aan de rangregeling zijn wier recht of voorrang niet alle verkochte zaken of rechten betreft, deelt ieder van hen alleen mee of alleen met voorrang mee in het gedeelte van de netto-opbrengst dat naar schatting kan worden toegerekend aan de zaken of rechten waarop zijn recht of voorrang betrekking had.   
+1.  Indien bij een executoriale verkoop meer onroerende zaken of daarop rustende rechten te zamen, dan wel een of meer onroerende zaken of daarop rustende rechten te zamen met daarbij behorende roerende zaken, als omschreven in artikel 254 van Boek 3 van het Burgerlijk Wetboek, voor één prijs zijn verkocht en er deelnemers aan de rangregeling zijn wier recht of voorrang niet alle verkochte zaken of rechten betreft, deelt ieder van hen alleen mee of alleen met voorrang mee in het gedeelte van de netto-opbrengst dat naar schatting kan worden toegerekend aan de zaken of rechten waarop zijn recht of voorrang betrekking had.   
 2.  In de in artikel 483 bedoelde staat van verdeling zal de rechter-commissaris aan de hand van de overgelegde stukken en zo nodig na verhoor van deskundigen een verdeling overeenkomstig het eerste lid voorstellen.  
 
 ### Afdeling  6  
@@ -2917,7 +2917,7 @@ Indien de deuren gesloten zijn, of de opening geweigerd wordt, gelijk mede indie
 
 ### Artikel  558  
 
-Is de executant overeenkomstig [artikel 299 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) gemachtigd ten aanzien van een onroerende zaak zelf datgene te verrichten waartoe nakoming van een jegens hem bestaande verplichting zou hebben geleid, en is daartoe gehele of gedeeltelijke al of niet tijdelijke ontruiming nodig, dan is deze afdeling mede van toepassing. 
+Is de executant overeenkomstig artikel 299 van Boek 3 van het Burgerlijk Wetboek gemachtigd ten aanzien van een onroerende zaak zelf datgene te verrichten waartoe nakoming van een jegens hem bestaande verplichting zou hebben geleid, en is daartoe gehele of gedeeltelijke al of niet tijdelijke ontruiming nodig, dan is deze afdeling mede van toepassing. 
 
 ### Titel  4  
 
@@ -2956,7 +2956,7 @@ c. een opgave van het bedrag dat krachtens deze titel aan de executant verschuld
 
 d. de naam en de woonplaats van de eigenaar of de boekhouder, de naam van de kapitein, telkens indien zij bekend zijn, en de naam en woonplaats van hem jegens wie de in onderdeel b bedoelde titel luidt, indien deze een ander is dan de eigenaar;  
 
-e. de naam, de soort en de ruimte van het schip en, zo het schip teboekstaat in het register, bedoeld in artikel 193 van Boek 8 van het Burgerlijk Wetboek, de gegevens omschreven in [artikel 21, eerste lid, onderdeel c, van de Wet openbare registers BES](../../../../../../../wet-BES/wet/openbare/registers/bes/BWBR0028516/README.md);  
+e. de naam, de soort en de ruimte van het schip en, zo het schip teboekstaat in het register, bedoeld in artikel 193 van Boek 8 van het Burgerlijk Wetboek, de gegevens omschreven in artikel 21, eerste lid, onderdeel c, van de Wet openbare registers BES;  
 
 f. de algemene omschrijving van het scheepstoebehoren.     
 2.  In het proces-verbaal moet de executant tot het einde van de executie woonplaats kiezen hier te lande bij een advocaat of, indien de verkoop dient plaats te vinden met toepassing van artikel 576, bij de deurwaarder of bij een advocaat.   
@@ -2966,18 +2966,18 @@ f. de algemene omschrijving van het scheepstoebehoren.
 
 ### Artikel  566  
 
-1.  Het proces-verbaal van inbeslagneming van schepen die teboekstaan in het in [artikel 193 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) bedoelde register, wordt ingeschreven in de in [titel 1, afdeling 2, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) bedoelde openbare registers.   
+1.  Het proces-verbaal van inbeslagneming van schepen die teboekstaan in het in artikel 193 van Boek 8 van het Burgerlijk Wetboek bedoelde register, wordt ingeschreven in de in titel 1, afdeling 2, van Boek 3 van het Burgerlijk Wetboek bedoelde openbare registers.   
 2.  Een vervreemding, bezwaring, onderbewindstelling, verhuring of vervrachting, totstandgekomen na de inschrijving van het proces-verbaal, kan niet tegen de beslaglegger worden ingeroepen.   
 3.  De in artikel 565, derde lid, bedoelde betekening dient tevens binnen acht dagen na de inschrijving te geschieden.   
 4.  Artikel 513a is van overeenkomstige toepassing.  
 
 ### Artikel  567  
 
-Een inbeslagneming van schepen die niet teboekstaan in het in [artikel 193 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) bedoelde register, heeft tot gevolg dat een vervreemding, bezwaring, onderbewindstelling, verhuring of vervrachting, totstandgekomen na de in artikel 565, derde lid, bedoelde betekening, niet tegen de beslaglegger kan worden ingeroepen. 
+Een inbeslagneming van schepen die niet teboekstaan in het in artikel 193 van Boek 8 van het Burgerlijk Wetboek bedoelde register, heeft tot gevolg dat een vervreemding, bezwaring, onderbewindstelling, verhuring of vervrachting, totstandgekomen na de in artikel 565, derde lid, bedoelde betekening, niet tegen de beslaglegger kan worden ingeroepen. 
 
 ### Artikel  568  
 
-Indien op een in beslag genomen schip dat teboekstaat in het in [artikel 193 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) bedoelde register, een of meer hypotheken rusten, zijn de artikelen 508 en 509 van overeenkomstige toepassing. 
+Indien op een in beslag genomen schip dat teboekstaat in het in artikel 193 van Boek 8 van het Burgerlijk Wetboek bedoelde register, een of meer hypotheken rusten, zijn de artikelen 508 en 509 van overeenkomstige toepassing. 
 
 ### Artikel  569  
 
@@ -3034,7 +3034,7 @@ De rechter in eerste aanleg kan de termijn van 30 dagen, gesteld in artikel 575,
 
 ### Artikel  576  
 
-1.  De verkoop geschiedt als die van andere roerende zaken, indien het beslag gelegd is op schepen waarvan de bruto-inhoud minder dan 20 kubieke meters of de brutotonnage minder dan 6 bedraagt of, in geval van een schip in aanbouw, zal bedragen, en die niet in het in [artikel 193 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) bedoelde register teboekstaan.   
+1.  De verkoop geschiedt als die van andere roerende zaken, indien het beslag gelegd is op schepen waarvan de bruto-inhoud minder dan 20 kubieke meters of de brutotonnage minder dan 6 bedraagt of, in geval van een schip in aanbouw, zal bedragen, en die niet in het in artikel 193 van Boek 8 van het Burgerlijk Wetboek bedoelde register teboekstaan.   
 2.  De bekendmaking geschiedt door aankondiging in een dagblad, verspreid ter plaatse waar het schip zich bevindt, en door aanplakking naar plaatselijk gebruik en in elk geval op een in het oog vallende plaats van het schip.  
 
 ### Artikel  577  
@@ -3045,11 +3045,11 @@ De rechter in eerste aanleg kan de termijn van 30 dagen, gesteld in artikel 575,
 ### Artikel  578  
 
 1.  Door betaling van de koopprijs, onderscheidenlijk zekerheidstelling of inbewaringgeving overeenkomstig artikel 577, eerste lid, wordt het schip bevrijd van de daarop bij voorrang verhaalbare vorderingen en vervallen de daarop gelegde beslagen, alsook de beperkte rechten die niet tegen de verkoper ingeroepen kunnen worden, of ter zake waarvan artikel 517, tweede lid, is toegepast.   
-2.  Ter zake van schepen die teboekstaan in het in [artikel 193 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) bedoelde register is [artikel 273, tweede en derde lid, van Boek 3, van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), van overeenkomstige toepassing, met dien verstande dat bevoegd is de rechter in eerste aanleg binnen wiens rechtsgebied de verkoop heeft plaatsgevonden.  
+2.  Ter zake van schepen die teboekstaan in het in artikel 193 van Boek 8 van het Burgerlijk Wetboek bedoelde register is artikel 273, tweede en derde lid, van Boek 3, van het Burgerlijk Wetboek, van overeenkomstige toepassing, met dien verstande dat bevoegd is de rechter in eerste aanleg binnen wiens rechtsgebied de verkoop heeft plaatsgevonden.  
 
 ### Artikel  579  
 
-Bij de executie door een hypotheekhouder van een schip dat teboekstaat in het in [artikel 193 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) bedoelde register, zijn de artikelen 544 en 545 van overeenkomstige toepassing. De executie geschiedt voorts met toepassing van de artikelen 571, eerste lid, en 572. 
+Bij de executie door een hypotheekhouder van een schip dat teboekstaat in het in artikel 193 van Boek 8 van het Burgerlijk Wetboek bedoelde register, zijn de artikelen 544 en 545 van overeenkomstige toepassing. De executie geschiedt voorts met toepassing van de artikelen 571, eerste lid, en 572. 
 
 ### Artikel  580  
 
@@ -3072,7 +3072,7 @@ Op de verdeling van de opbrengst zijn de artikelen 551 tot en met 552 van overee
 
 ### Artikel  584a  
 
-1.  De in [artikel 1300 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) opgenomen begripsomschrijvingen gelden ook voor deze afdeling.   
+1.  De in artikel 1300 van Boek 8 van het Burgerlijk Wetboek opgenomen begripsomschrijvingen gelden ook voor deze afdeling.   
 2.  In deze afdeling wordt voorts verstaan onder: 
 
 a. het Verdrag van Chicago: het op 7 december 1944 te Chicago tot stand gekomen Verdrag inzake de internationale burgerluchtvaart (Stb. 1947, H 165, P.B. 1947, 133);  
@@ -3105,7 +3105,7 @@ f. een keuze van woonplaats ten kantore van de deurwaarder die het beslag legt e
 
 ### Artikel  584d  
 
-1.  Indien beslag is gelegd op een in het register teboekstaand luchtvaartuig, wordt het proces-verbaal van inbeslagneming in de in [titel 1, afdeling 2, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) bedoelde openbare registers ingeschreven.   
+1.  Indien beslag is gelegd op een in het register teboekstaand luchtvaartuig, wordt het proces-verbaal van inbeslagneming in de in titel 1, afdeling 2, van Boek 3 van het Burgerlijk Wetboek bedoelde openbare registers ingeschreven.   
 2.  Indien beslag is gelegd op een in een verdragsregister teboekstaand luchtvaartuig, zendt de deurwaarder een door hem gewaarmerkt afschrift van het proces-verbaal ten spoedigste rechtstreeks aangetekend en zo mogelijk per luchtpost naar de in artikel III, eerste lid, van het Verdrag van Genève bedoelde dienst, alsmede aan de bewaarder van het nationaliteitsregister waar het luchtvaartuig is ingeschreven.   
 3.  In elk geval wordt het proces-verbaal van beslag op straffe van nietigheid binnen drie dagen na het leggen daarvan aan de geëxecuteerde betekend.  
 
@@ -3187,7 +3187,7 @@ Op verzoek van de executant kan de president van het Hof van Justitie ook na het
 
 ### Artikel  584p  
 
-1.  Tenzij in de veilingvoorwaarden anders is bepaald, vervallen door de levering aan de koper en de voldoening van de koopprijs alle op een in het register teboekstaand luchtvaartuig rustende rechten, voor zover deze niet rang nemen boven het recht van de executant, alsmede de rechten die niet op de lijst van de rechter-commissaris voorkomen. De ingeschreven overeenkomsten, bedoeld in de [artikelen 1308](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) en [1309 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), worden ontbonden, voor zover de daaruit voortvloeiende rechten rang nemen na de vordering van de executant. Aldus waardeloos geworden inschrijvingen van hypotheken en beslagen worden ambtshalve doorgehaald.   
+1.  Tenzij in de veilingvoorwaarden anders is bepaald, vervallen door de levering aan de koper en de voldoening van de koopprijs alle op een in het register teboekstaand luchtvaartuig rustende rechten, voor zover deze niet rang nemen boven het recht van de executant, alsmede de rechten die niet op de lijst van de rechter-commissaris voorkomen. De ingeschreven overeenkomsten, bedoeld in de artikelen 1308 en 1309 van Boek 8 van het Burgerlijk Wetboek, worden ontbonden, voor zover de daaruit voortvloeiende rechten rang nemen na de vordering van de executant. Aldus waardeloos geworden inschrijvingen van hypotheken en beslagen worden ambtshalve doorgehaald.   
 2.  Tenzij in de veilingvoorwaarden anders is bepaald, vervallen door de eigendomsverkrijging overeenkomstig artikel 584o, derde lid, alle in het eerste lid bedoelde rechten die op een in het verdragsregister teboekstaand luchtvaartuig rusten.  
 
 ### Artikel  584q  
@@ -3214,7 +3214,7 @@ De rechter kan op verlangen van de schuldeiser de tenuitvoerlegging bij lijfsdwa
 
 a. vonnissen en beschikkingen, voor zover zij een veroordeling tot iets anders dan het betalen van geld inhouden;  
 
-b. vonnissen, beschikkingen en authentieke akten waarbij een uitkering tot levensonderhoud, krachtens [Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) verschuldigd, daaronder begrepen het verschuldigde voor verzorging en opvoeding van een minderjarige en voor levensonderhoud en studie van een meerderjarige die de leeftijd van een en twintig jaren niet heeft bereikt, is bevolen of toegezegd, alsmede beschikkingen waarbij een uitkering krachtens [artikel 85, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) door de ene echtgenoot aan de andere verschuldigd, is bevolen.   
+b. vonnissen, beschikkingen en authentieke akten waarbij een uitkering tot levensonderhoud, krachtens Boek 1 van het Burgerlijk Wetboek verschuldigd, daaronder begrepen het verschuldigde voor verzorging en opvoeding van een minderjarige en voor levensonderhoud en studie van een meerderjarige die de leeftijd van een en twintig jaren niet heeft bereikt, is bevolen of toegezegd, alsmede beschikkingen waarbij een uitkering krachtens artikel 85, tweede lid, van Boek 1 van het Burgerlijk Wetboek door de ene echtgenoot aan de andere verschuldigd, is bevolen.   
 
 ### Artikel  586  
 
@@ -3416,12 +3416,12 @@ b. een aangeboden zekerheid door de wederpartij moet worden aanvaard of geweiger
 
 ### Artikel  621  
 
-Bevoegd tot het kennisnemen van een betwisting als bedoeld in [artikel 168 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), en van verzoeken tot verkoop als bedoeld in [titel 3, afdeling 1, van Boek 8 van dat wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), is de rechter in eerste aanleg van de woonplaats, genoemd in [artikel 194, zesde lid, van Boek 8 van dat wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md). Verkoop van het schip geschiedt slechts na verhoor of behoorlijke oproeping van de leden van de rederij en de boekhouder, zo die er is. 
+Bevoegd tot het kennisnemen van een betwisting als bedoeld in artikel 168 van Boek 8 van het Burgerlijk Wetboek, en van verzoeken tot verkoop als bedoeld in titel 3, afdeling 1, van Boek 8 van dat wetboek, is de rechter in eerste aanleg van de woonplaats, genoemd in artikel 194, zesde lid, van Boek 8 van dat wetboek. Verkoop van het schip geschiedt slechts na verhoor of behoorlijke oproeping van de leden van de rederij en de boekhouder, zo die er is. 
 
 ### Artikel  622  
 
-1.  Indien binnen een maand nadat de boekhouder aan de leden van de rederij kennis heeft gegeven van zijn verlangen als bedoeld in [artikel 170 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), tussen hem en alle leden van de rederij geen eenstemmigheid is verkregen omtrent de benoeming van de in dat artikel bedoelde deskundigen, zullen deze, in oneven getale, op verzoek van de boekhouder, dan wel een lid van de rederij, worden benoemd door de rechter in eerste aanleg van de woonplaats, bedoeld in [artikel 194, zesde lid, van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md).   
-2.  Indien binnen een maand nadat een lid van de rederij aan de andere leden daarvan kennis heeft gegeven van zijn verlangen als bedoeld in [artikel 174 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), tussen hem en die andere leden geen eenstemmigheid is verkregen omtrent de benoeming van de in dat artikel bedoelde deskundigen, worden deze, in oneven getale, op verzoek van het eerstgenoemde lid van de rederij, benoemd door de in het eerste lid bedoelde rechter.  
+1.  Indien binnen een maand nadat de boekhouder aan de leden van de rederij kennis heeft gegeven van zijn verlangen als bedoeld in artikel 170 van Boek 8 van het Burgerlijk Wetboek, tussen hem en alle leden van de rederij geen eenstemmigheid is verkregen omtrent de benoeming van de in dat artikel bedoelde deskundigen, zullen deze, in oneven getale, op verzoek van de boekhouder, dan wel een lid van de rederij, worden benoemd door de rechter in eerste aanleg van de woonplaats, bedoeld in artikel 194, zesde lid, van Boek 8 van het Burgerlijk Wetboek.   
+2.  Indien binnen een maand nadat een lid van de rederij aan de andere leden daarvan kennis heeft gegeven van zijn verlangen als bedoeld in artikel 174 van Boek 8 van het Burgerlijk Wetboek, tussen hem en die andere leden geen eenstemmigheid is verkregen omtrent de benoeming van de in dat artikel bedoelde deskundigen, worden deze, in oneven getale, op verzoek van het eerstgenoemde lid van de rederij, benoemd door de in het eerste lid bedoelde rechter.  
 
 ### Artikel  623  
 
@@ -3429,7 +3429,7 @@ Een vonnis, verkregen tegen de rederij of tegen de boekhouder als zodanig, kan o
 
 ### Artikel  624  
 
-1.  Bevoegd tot kennisneming van verzoeken tot goedkeuring als bedoeld in [artikel 1303, vierde lid, van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), en tot machtiging tot doorhaling als bedoeld in de [artikelen 195](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) of [1304 van Boek 8 van dat wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), zijn de rechter in eerste aanleg van de woonplaats, bedoeld in de [artikelen 194, zesde lid](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), of [1303, zesde lid, van Boek 8 van dat wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), alsmede de rechter in eerste aanleg van de plaats waar het in de [artikelen 193](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) of [1302 van Boek 8 van dat wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) genoemde register wordt gehouden.   
+1.  Bevoegd tot kennisneming van verzoeken tot goedkeuring als bedoeld in artikel 1303, vierde lid, van Boek 8 van het Burgerlijk Wetboek, en tot machtiging tot doorhaling als bedoeld in de artikelen 195 of 1304 van Boek 8 van dat wetboek, zijn de rechter in eerste aanleg van de woonplaats, bedoeld in de artikelen 194, zesde lid, of 1303, zesde lid, van Boek 8 van dat wetboek, alsmede de rechter in eerste aanleg van de plaats waar het in de artikelen 193 of 1302 van Boek 8 van dat wetboek genoemde register wordt gehouden.   
 2.  Machtiging wordt slechts verleend na verhoor of behoorlijke oproeping van degenen van wier recht of beslag uit een inschrijving blijkt of ten gunste van wie voorlopige aantekeningen bestaan. Deze machtiging wordt door de griffier van het gerecht in eerste aanleg op het verzoekschrift aangetekend.  
 
 ### Artikel  626  
@@ -3439,7 +3439,7 @@ Een vonnis, verkregen tegen de rederij of tegen de boekhouder als zodanig, kan o
 
 ### Artikel  627  
 
-De aanwijzing van een derde als bedoeld in [artikel 481, tweede lid, van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) of in enig desbetreffend partijbeding, geschiedt ten verzoeke van de meest gerede partij door de rechter in eerste aanleg van de plaats waar het cognossement aan de vervoerder moet worden afgegeven. 
+De aanwijzing van een derde als bedoeld in artikel 481, tweede lid, van Boek 8 van het Burgerlijk Wetboek of in enig desbetreffend partijbeding, geschiedt ten verzoeke van de meest gerede partij door de rechter in eerste aanleg van de plaats waar het cognossement aan de vervoerder moet worden afgegeven. 
 
 ### Artikel  628  
 
@@ -3456,7 +3456,7 @@ b. is neergelegd in een afzonderlijk, niet naar algemene voorwaarden verwijzend 
 
 ### Artikel  631  
 
-Geschillen naar aanleiding van het stellen, aanvullen of vervangen van zekerheid als bedoeld in de [artikelen 30](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [69](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) en [489 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), worden op verzoek van de meest gerede partij beslist door de rechter in eerste aanleg binnen wiens rechtsgebied de aflevering plaatsvindt of moet plaatsvinden. 
+Geschillen naar aanleiding van het stellen, aanvullen of vervangen van zekerheid als bedoeld in de artikelen 30, 69 en 489 van Boek 8 van het Burgerlijk Wetboek, worden op verzoek van de meest gerede partij beslist door de rechter in eerste aanleg binnen wiens rechtsgebied de aflevering plaatsvindt of moet plaatsvinden. 
 
 ### Artikel  632  
 
@@ -3465,18 +3465,18 @@ Geschillen naar aanleiding van het stellen, aanvullen of vervangen van zekerheid
 
 ### Artikel  633  
 
-1.  Op een verzoek tot gerechtelijk onderzoek als bedoeld in de [artikelen 494](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) en [495 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), wordt beslist door de rechter in eerste aanleg binnen wiens rechtsgebied de zaken zich bevinden. Deze wijst daarbij hetzij één, hetzij drie deskundigen aan en bepaalt op welke wijze deze de wederpartij van de verzoeker zullen oproepen bij het onderzoek aanwezig te zijn.   
-2.  Op een verzoek van de in het eerste lid bedoelde verzoeker tot het geheel of gedeeltelijk ten laste van zijn wederpartij brengen van de kosten van het onderzoek of van een begroting als bedoeld in [artikel 494 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), dan wel van de door dat onderzoek geleden schade, wordt beslist door de in dat lid bedoelde rechter.  
+1.  Op een verzoek tot gerechtelijk onderzoek als bedoeld in de artikelen 494 en 495 van Boek 8 van het Burgerlijk Wetboek, wordt beslist door de rechter in eerste aanleg binnen wiens rechtsgebied de zaken zich bevinden. Deze wijst daarbij hetzij één, hetzij drie deskundigen aan en bepaalt op welke wijze deze de wederpartij van de verzoeker zullen oproepen bij het onderzoek aanwezig te zijn.   
+2.  Op een verzoek van de in het eerste lid bedoelde verzoeker tot het geheel of gedeeltelijk ten laste van zijn wederpartij brengen van de kosten van het onderzoek of van een begroting als bedoeld in artikel 494 van Boek 8 van het Burgerlijk Wetboek, dan wel van de door dat onderzoek geleden schade, wordt beslist door de in dat lid bedoelde rechter.  
 
 ### Artikel  635  
 
-1.  Onverminderd artikel 637 kan de eiser in zaken van aanvaring of van een voorval als bedoeld in [artikel 541 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) van Aruba, te zijner keuze zijn verzoekschrift richten aan: 
+1.  Onverminderd artikel 637 kan de eiser in zaken van aanvaring of van een voorval als bedoeld in artikel 541 van Boek 8 van het Burgerlijk Wetboek van Aruba, te zijner keuze zijn verzoekschrift richten aan: 
 
 a. de rechter in eerste aanleg van de woonplaats van de verweerder of, indien er meer verweerders zijn, van een van hen;  
 
 b. de rechter in eerste aanleg binnen wiens rechtsgebied de aanvaring of het voorval heeft plaatsgehad;  
 
-c. de rechter in eerste aanleg van de plaats waar het schip van de verweerder in het in [artikel 193 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) van Aruba genoemde register teboekstaat;  
+c. de rechter in eerste aanleg van de plaats waar het schip van de verweerder in het in artikel 193 van Boek 8 van het Burgerlijk Wetboek van Aruba genoemde register teboekstaat;  
 
 d. de rechter in eerste aanleg binnen wiens rechtsgebied op het schip beslag is gelegd.     
 2.  Indien volgens het eerste lid geen rechter hier te lande bevoegd is, geschiedt de oproeping voor de rechter in eerste aanleg van de verblijfplaats van de verweerder of, indien er meer verweerders zijn, van een van hen, dan wel de rechter in eerste aanleg van de woonplaats van de eiser of, indien er meer eisers zijn, van een van hen.  
@@ -3485,7 +3485,7 @@ d. de rechter in eerste aanleg binnen wiens rechtsgebied op het schip beslag is 
 
 1.  Een hulpverlener kan ter zake van het hem uit hoofde van hulpverlening verschuldigde conservatoir beslag leggen op zaken waaraan hulp is verleend doch die niet meer aan boord van het schip zijn, zolang niet een derde te goeder trouw en anders dan om niet daarop enig recht heeft verkregen.   
 2.  Het beslag kan niet worden gelegd op zaken die zich onder beheer van de strandvonder bevinden.   
-3.  Tenzij het een schip betreft dat teboekstaat in het in [artikel 193 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) bedoelde register, wordt het beslag gelegd met toepassing van de regels betreffende conservatoir beslag op roerende zaken in handen van de schuldenaar. De artikelen 711, eerste lid, 461d en 708, tweede lid, zijn op dit beslag niet van toepassing.  
+3.  Tenzij het een schip betreft dat teboekstaat in het in artikel 193 van Boek 8 van het Burgerlijk Wetboek bedoelde register, wordt het beslag gelegd met toepassing van de regels betreffende conservatoir beslag op roerende zaken in handen van de schuldenaar. De artikelen 711, eerste lid, 461d en 708, tweede lid, zijn op dit beslag niet van toepassing.  
 
 ### Artikel  637  
 
@@ -3497,7 +3497,7 @@ b. de rechter in eerste aanleg binnen wiens rechtsgebied de hulp is verleend;
 
 c. de rechter in eerste aanleg binnen wiens rechtsgebied tot verhaal van vorderingen ter zake van de hulpverlening beslag is gelegd.     
 2.  Indien volgens het eerste lid geen rechter hier te lande bevoegd is, geschiedt de oproeping voor de rechter in eerste aanleg van de verblijfplaats van de verweerder of, indien er meer verweerders zijn, van een van hen, dan wel de rechter in eerste aanleg van de woonplaats van de eiser of, indien er meer eisers zijn, van een van hen.   
-3.  Bevoegd ten aanzien van verzoeken als bedoeld in [titel 6, afdeling 2, van Boek 8](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) en van geschillen met betrekking tot de zekerheid als bedoeld in [artikel 571 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) van Aruba is de rechter, bedoeld in het eerste of tweede lid.  
+3.  Bevoegd ten aanzien van verzoeken als bedoeld in titel 6, afdeling 2, van Boek 8 en van geschillen met betrekking tot de zekerheid als bedoeld in artikel 571 van Boek 8 van het Burgerlijk Wetboek van Aruba is de rechter, bedoeld in het eerste of tweede lid.  
 
 ### Artikel  638  
 
@@ -3546,7 +3546,7 @@ Tegen een beslissing van de rechter, gegeven in de gevallen van de artikelen 621
 
 ### Artikel  642a  
 
-1.  Degene die op grond van [artikel 750](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) of [751 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) een beroep wil doen op beperking van zijn aansprakelijkheid, verzoekt het gerecht in eerste aanleg het bedrag of de bedragen waartoe zijn aansprakelijkheid is beperkt, het bedrag van het fonds of van de fondsen, vast te stellen en te bevelen dat tot een procedure ter verdeling van een te stellen fonds zal worden overgegaan.   
+1.  Degene die op grond van artikel 750 of 751 van Boek 8 van het Burgerlijk Wetboek een beroep wil doen op beperking van zijn aansprakelijkheid, verzoekt het gerecht in eerste aanleg het bedrag of de bedragen waartoe zijn aansprakelijkheid is beperkt, het bedrag van het fonds of van de fondsen, vast te stellen en te bevelen dat tot een procedure ter verdeling van een te stellen fonds zal worden overgegaan.   
 2.  Het verzoek vermeldt: 
 
 a. de naam van het schip;  
@@ -3570,34 +3570,34 @@ Indien naar aanleiding van hetzelfde voorval meer dan één op eenzelfde schip b
 
 ### Artikel  642c  
 
-1.  Bij de behandeling van het in artikel 642a bedoelde verzoek kan geen beroep worden gedaan op [artikel 754 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md).   
-2.  Bij toewijzing van het verzoek bepaalt het gerecht in eerste aanleg met inachtneming van de [artikelen 755](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) en [756 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) het in rekeneenheden uitgedrukte beloop van het fonds of de fondsen. Hij beveelt de verzoeker op een door hem te bepalen dag, die niet later ligt dan één maand na de dag van de beschikking, fonds te stellen: 
+1.  Bij de behandeling van het in artikel 642a bedoelde verzoek kan geen beroep worden gedaan op artikel 754 van Boek 8 van het Burgerlijk Wetboek.   
+2.  Bij toewijzing van het verzoek bepaalt het gerecht in eerste aanleg met inachtneming van de artikelen 755 en 756 van Boek 8 van het Burgerlijk Wetboek het in rekeneenheden uitgedrukte beloop van het fonds of de fondsen. Hij beveelt de verzoeker op een door hem te bepalen dag, die niet later ligt dan één maand na de dag van de beschikking, fonds te stellen: 
 
-a. door het bedrag van het fonds, berekend met inachtneming van de [artikelen 755](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), [756](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) en [759 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), vermeerderd met de wettelijke rente ingevolge [artikel 757](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), alsmede vermeerderd met een bedrag ter bestrijding van de kosten van de procedure, ter griffie van het gerecht in eerste aanleg te storten, of  
+a. door het bedrag van het fonds, berekend met inachtneming van de artikelen 755, 756 en 759 van Boek 8 van het Burgerlijk Wetboek, vermeerderd met de wettelijke rente ingevolge artikel 757, alsmede vermeerderd met een bedrag ter bestrijding van de kosten van de procedure, ter griffie van het gerecht in eerste aanleg te storten, of  
 
 b. door op andere door hem bepaalde wijze zekerheid te stellen ten belope van het in onderdeel a bedoelde bedrag, alsnog vermeerderd met de wettelijke rente daarover van de aanvang van de dag, volgende op de dag van laatstbedoelde zekerheidstelling, tot de aanvang van de dag waarop de griffier de in artikel 642v bedoelde oproep doet uitgaan.     
 3.  De rechter in eerste aanleg vervult tevens de functie van rechter-commissaris ter vaststelling van de staat van verdeling van het fonds of de fondsen. Hij benoemt een vereffenaar van het fonds of de fondsen. Zo hij daartoe termen aanwezig acht, kan hij voor ieder fonds meer dan één vereffenaar benoemen.   
 4.  Het fonds wordt gesteld ten name van de rechter-commissaris en de vereffenaar, die daarover met uitsluiting van de verzoeker, doch slechts gezamenlijk, kunnen beschikken.   
 5.  De beschikking van het gerecht in eerste aanleg is uitvoerbaar bij voorraad. De werking van de beschikking kan door de hogere rechter niet worden geschorst.   
 6.  De verzoeker die aan het bevel van het gerecht in eerste aanleg heeft voldaan, richt zich onverwijld tot haar met het verzoek zulks te verklaren. Indien het gerecht deze verklaring weigert, kan het de verzoeker een hernieuwd bevel tot het stellen van fonds geven op een door haar te bepalen dag, die niet later kan liggen dan één maand na de dag van de beschikking. De verzoeker die aan dit hernieuwde bevel van het gerecht heeft voldaan, richt zich wederom tot haar met het verzoek zulks te verklaren. De tweede volzin is alsdan niet van toepassing.   
-7.  De verzoeker ten aanzien van wie het gerecht in eerste aanleg geen verklaring heeft gegeven, kan zijn aansprakelijkheid niet meer op grond van [artikel 750](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) of [751 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) beperken.   
-8.  Op de voldoening aan een bevel tot storting of andere zekerheidstelling als bedoeld in dit artikel, zijn de [artikelen 45 tot en met 48 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en de artikelen 38 tot en met 45 van de Faillissementswet BES niet van toepassing.  
+7.  De verzoeker ten aanzien van wie het gerecht in eerste aanleg geen verklaring heeft gegeven, kan zijn aansprakelijkheid niet meer op grond van artikel 750 of 751 van Boek 8 van het Burgerlijk Wetboek beperken.   
+8.  Op de voldoening aan een bevel tot storting of andere zekerheidstelling als bedoeld in dit artikel, zijn de artikelen 45 tot en met 48 van Boek 3 van het Burgerlijk Wetboek en de artikelen 38 tot en met 45 van de Faillissementswet BES niet van toepassing.  
 
 ### Artikel  642d  
 
 Indien ter zake van één en hetzelfde voorval een fonds is gesteld door een van de personen of zijn verzekeraar, genoemd in: 
 
-a. [artikel 758, eerste lid, onderdeel a, van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md),  
+a. artikel 758, eerste lid, onderdeel a, van Boek 8 van het Burgerlijk Wetboek,  
 
-b. [artikel 758, eerste lid, onderdeel b, van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md),  
+b. artikel 758, eerste lid, onderdeel b, van Boek 8 van het Burgerlijk Wetboek,  
 
-c. [artikel 758, eerste lid, onderdeel c, van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), of  
+c. artikel 758, eerste lid, onderdeel c, van Boek 8 van het Burgerlijk Wetboek, of  
 
-d. [artikel 758, tweede lid, van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md), wordt dit fonds aangemerkt als door alle in hetzelfde onderdeel genoemde personen te zijn gesteld, en zulks ten aanzien van de vorderingen waarvoor het fonds werd gesteld.   
+d. artikel 758, tweede lid, van Boek 8 van het Burgerlijk Wetboek, wordt dit fonds aangemerkt als door alle in hetzelfde onderdeel genoemde personen te zijn gesteld, en zulks ten aanzien van de vorderingen waarvoor het fonds werd gesteld.   
 
 ### Artikel  642e  
 
-1.  Indien na toewijzing van een op [artikel 750](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) of [artikel 751 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) gegrond verzoek geen van de schuldeisers binnen de in artikel 642g genoemde termijn betwist heeft dat de schuldenaar zijn aansprakelijkheid kan beperken, dan wel omtrent een zodanige betwisting onherroepelijk afwijzend is beslist en een fonds is gesteld ten aanzien waarvan het gerecht in eerste aanleg een verklaring als bedoeld in artikel 642c, zesde lid, heeft afgegeven, en dat werkelijk ten bate van de schuldeiser beschikbaar is, alsmede de schuldeiser zijn vordering op het fonds in rechte geldend kan maken, kan het gerecht op verzoek van degene ten behoeve van wie het fonds is gesteld, de opheffing van beslagen die zijn gelegd, ter zake van de vorderingen waarvoor het fonds is gesteld, dan wel de teruggave van de ter zake daarvan gegeven zekerheid, bevelen.   
+1.  Indien na toewijzing van een op artikel 750 of artikel 751 van Boek 8 van het Burgerlijk Wetboek gegrond verzoek geen van de schuldeisers binnen de in artikel 642g genoemde termijn betwist heeft dat de schuldenaar zijn aansprakelijkheid kan beperken, dan wel omtrent een zodanige betwisting onherroepelijk afwijzend is beslist en een fonds is gesteld ten aanzien waarvan het gerecht in eerste aanleg een verklaring als bedoeld in artikel 642c, zesde lid, heeft afgegeven, en dat werkelijk ten bate van de schuldeiser beschikbaar is, alsmede de schuldeiser zijn vordering op het fonds in rechte geldend kan maken, kan het gerecht op verzoek van degene ten behoeve van wie het fonds is gesteld, de opheffing van beslagen die zijn gelegd, ter zake van de vorderingen waarvoor het fonds is gesteld, dan wel de teruggave van de ter zake daarvan gegeven zekerheid, bevelen.   
 2.  Indien aan de in het eerste lid gestelde vereisten is voldaan, geeft het gerecht in eerste aanleg op een verzoek als bedoeld in dat lid, een bevel als bedoeld in dat lid, wanneer het fonds is gesteld: 
 
 a. in de haven waar het ongeval waaruit de aansprakelijkheid is voortgevloeid, plaatsvond of, indien dit ongeval niet in een haven plaatsvond, in de eerste haven die het schip daarna aanliep,  
@@ -3700,7 +3700,7 @@ Op de ingevolge artikel 642g bepaalde dag of dagen houdt de rechter-commissaris 
 ### Artikel  642t  
 
 1.  Vorderingen waarvan de waarde in buitenlandse valuta is uitgedrukt, worden geverifieerd voor hun geschatte waarde in het hier te lande uitgegeven geld.   
-2.  Indien de schuldenaar gebruik maakte van de hem in [artikel 750](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) of [751 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) gegeven bevoegdheid, zijn de volgende regels van toepassing: 
+2.  Indien de schuldenaar gebruik maakte van de hem in artikel 750 of 751 van Boek 8 van het Burgerlijk Wetboek gegeven bevoegdheid, zijn de volgende regels van toepassing: 
 
 a. het personenfonds wordt aangewend ter voldoening van vorderingen betreffende personenschade;  
 
@@ -3708,7 +3708,7 @@ b. het passagiersfonds wordt aangewend ter voldoening van vorderingen betreffend
 
 c. het zakenfonds wordt aangewend ter voldoening van vorderingen betreffende zaakschade en van vorderingen betreffende personenschade, voor zover deze nog onvoldaan zijn na toepassing van onderdeel a, met dien verstande dat vorderingen met betrekking tot beschadiging van kunstwerken van havens, dokken, waterwegen en van hulpmiddelen bij de navigatie vóór alle andere vorderingen betreffende zaakschade worden voldaan;  
 
-d. het wrakkenfonds wordt aangewend ter voldoening van vorderingen als bedoeld in [artikel 752, eerste lid, onderdelen d en e, van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md);  
+d. het wrakkenfonds wordt aangewend ter voldoening van vorderingen als bedoeld in artikel 752, eerste lid, onderdelen d en e, van Boek 8 van het Burgerlijk Wetboek;  
 
 e. indien een volgens de onderdelen a tot en met d te verdelen bedrag niet voldoende is ter voldoening van de vorderingen waartoe het volgens die onderdelen wordt aangewend, worden die vorderingen naar evenredigheid gekort.     
 3.  Voor de toepassing van het tweede lid wordt verstaan onder: 
@@ -3760,7 +3760,7 @@ Behoudens de toepassing van de artikelen 60 tot en met 63 en 64 komen de kosten,
 
 ### Artikel  658  
 
-1.  Zaken die behoren tot een nalatenschap of een gemeenschap waarop [titel 7, afdeling 2, van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) van toepassing is, kunnen worden verzegeld met verlof van de rechter in eerste aanleg in wiens rechtsgebied de verzegeling moet plaatsvinden. De verzegeling geschiedt door een bij dit verlof aan te wijzen notaris met diens zegel. Tegen het verlof staat geen hogere voorziening open.   
+1.  Zaken die behoren tot een nalatenschap of een gemeenschap waarop titel 7, afdeling 2, van Boek 3 van het Burgerlijk Wetboek van toepassing is, kunnen worden verzegeld met verlof van de rechter in eerste aanleg in wiens rechtsgebied de verzegeling moet plaatsvinden. De verzegeling geschiedt door een bij dit verlof aan te wijzen notaris met diens zegel. Tegen het verlof staat geen hogere voorziening open.   
 2.  De notaris kan een bewaarder van de gelegde zegels aanstellen.  
 
 ### Artikel  659  
@@ -3913,7 +3913,7 @@ Geschillen die in verband met een verzegeling, ontzegeling of boedelbeschrijving
 ### Artikel  677  
 
 1.  Het vonnis waarbij een vordering tot verdeling van een gemeenschap wordt toegewezen, zonder dat de rechter de vaststelling van de verdeling aan zich houdt, houdt in een bevel tot verdeling ten overstaan van een notaris, alsmede, zo partijen het over de keuze niet eens zijn, de benoeming van deze notaris. De rechter die een notaris benoemt, kan de zaak wat betreft hetgeen overigens ter zake van de verdeling is gevorderd, aanhouden totdat is gebleken of de notaris partijen kan verenigen. De griffier van het gerecht dat de benoeming deed, zendt de notaris onverwijld een expeditie van de uitspraak.   
-2.  Op verlangen van elk der partijen kan het vonnis tevens de benoeming inhouden van een onzijdig persoon als bedoeld in [artikel 181 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+2.  Op verlangen van elk der partijen kan het vonnis tevens de benoeming inhouden van een onzijdig persoon als bedoeld in artikel 181 van Boek 3 van het Burgerlijk Wetboek.   
 3.  De notaris bepaalt dag en uur waarop partijen voor hem moeten verschijnen, en roept hen tegen het vastgestelde tijdstip op. Indien zij niet allen verschijnen, kan hij partijen eenmaal of meermalen tegen een nieuwe dag oproepen.   
 4.  Deze afdeling is van overeenkomstige toepassing op verzoeken en beschikkingen betreffende de verdeling van een gemeenschap van goederen die door of tijdens een huwelijk is ontstaan.  
 
@@ -3930,7 +3930,7 @@ Geschillen die in verband met een verzegeling, ontzegeling of boedelbeschrijving
 
 ### Artikel  680  
 
-1.  Indien een vordering tot verdeling, tot het gelasten van de wijze van verdeling of tot vaststelling van een verdeling niet de gehele voor verdeling vatbare gemeenschap betreft, kan ieder van de opgeroepenen overeenkomstig de hem in de [artikelen 179](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) en [185 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) toegekende bevoegdheden eisen dat de verdeling van de gehele voor verdeling vatbare gemeenschap wordt bevolen of door de rechter zelf wordt vastgesteld.   
+1.  Indien een vordering tot verdeling, tot het gelasten van de wijze van verdeling of tot vaststelling van een verdeling niet de gehele voor verdeling vatbare gemeenschap betreft, kan ieder van de opgeroepenen overeenkomstig de hem in de artikelen 179 en 185 van Boek 3 van het Burgerlijk Wetboek toegekende bevoegdheden eisen dat de verdeling van de gehele voor verdeling vatbare gemeenschap wordt bevolen of door de rechter zelf wordt vastgesteld.   
 2.  Indien de vordering strekt tot het verkrijgen van een bevel tot verdeling of tot de wijze van verdeling van de gehele voor verdeling vatbare gemeenschap, kan ieder van de opgeroepenen vaststelling van de verdeling door de rechter zelf vorderen.   
 3.  Een eis als bedoeld in het eerste of tweede lid, moet worden gedaan voor alle weren die niet de bevoegdheid van de rechter of zekerheidstelling overeenkomstig artikel 122 betreffen.   
 4.  Zijn een of meer partijen niet verschenen, dan doet de rechter op verzoek van degene die de eis heeft gedaan, deze aan haar betekenen met inachtneming van de voor oproeping voorgeschreven termijnen en met oproeping tegen de dag waarop degene die de eis heeft gedaan de zaak wederom ter rolle wil doen dienen.   
@@ -3991,7 +3991,7 @@ De bepalingen omtrent conservatoir beslag op een goed zijn van overeenkomstige t
 ### Artikel  709  
 
 1.  Op verzoek van degene die verlof vraagt tot het leggen van conservatoir beslag op roerende zaken die geen registergoederen zijn, of die op zodanige zaken reeds beslag heeft gelegd, kan de rechter in eerste aanleg die het verlof geeft of heeft gegeven of in wiens rechtsgebied zich een of meer van de betrokken zaken bevinden, bevelen dat zij tevens ter gerechtelijke bewaring zullen worden afgegeven aan een door de rechter aan te wijzen bewaarder.   
-2.  Een overeenkomstig verzoek kan worden gedaan door een pandhouder als bedoeld in [artikel 237 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md), wanneer op de verpande zaak conservatoir of executoriaal beslag is gelegd.   
+2.  Een overeenkomstig verzoek kan worden gedaan door een pandhouder als bedoeld in artikel 237 van Boek 3 van het Burgerlijk Wetboek, wanneer op de verpande zaak conservatoir of executoriaal beslag is gelegd.   
 3.  De rechter in eerste aanleg wijst het verzoek niet toe dan na de beslagene en eventuele andere belanghebbenden gelegenheid te hebben gegeven te worden gehoord, tenzij bijzondere omstandigheden eisen dat het bevel terstond wordt gegeven. Tegen het bevel staat geen hogere voorziening open.   
 4.  Artikel 701 is van overeenkomstige toepassing.  
 
@@ -4001,7 +4001,7 @@ De bepalingen omtrent conservatoir beslag op een goed zijn van overeenkomstige t
 2.  Tenzij reeds een eis in de hoofdzaak is ingesteld, vindt onderbewindstelling slechts plaats onder voorwaarde dat deze eis binnen een door de rechter daartoe te bepalen termijn ingesteld wordt. De rechter kan de termijn verlengen, indien dit voor het verstrijken van de termijn door een der partijen of de bewindvoerder wordt verzocht. Tegen de beschikking staat geen hogere voorziening open. Overschrijding van de termijn doet het bewind eindigen.   
 3.  Door partijen op een of meer van de goederen gelegde beslagen beperken de bewindvoerder niet in de hem als zodanig toekomende bevoegdheden.   
 4.  De bewindvoerder doet de onder het bewind staande goederen toekomen aan degene die daarop krachtens een in kracht van gewijsde gegane of uitvoerbaar bij voorraad verklaarde uitspraak recht heeft, tenzij de rechter anders heeft bepaald.   
-5.  De rechter kan voor het bewind zodanige voorschriften geven als hij dienstig acht. Op het bewind zijn, voor zover deze voorschriften niet anders bepalen, de [artikelen 433, eerste lid](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [435](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [436, eerste tot en met derde lid](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [437](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [438, eerste lid](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [439](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [441, eerste lid, eerste volzin](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), en [442 tot en met 448 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) van toepassing. Het kan door een gezamenlijk besluit van partijen of op verzoek van een der partijen door de rechter in eerste aanleg worden opgeheven.  
+5.  De rechter kan voor het bewind zodanige voorschriften geven als hij dienstig acht. Op het bewind zijn, voor zover deze voorschriften niet anders bepalen, de artikelen 433, eerste lid, 435, 436, eerste tot en met derde lid, 437, 438, eerste lid, 439, 441, eerste lid, eerste volzin, en 442 tot en met 448 van Boek 1 van het Burgerlijk Wetboek van toepassing. Het kan door een gezamenlijk besluit van partijen of op verzoek van een der partijen door de rechter in eerste aanleg worden opgeheven.  
 
 ### Artikel  710a  
 
@@ -4120,7 +4120,7 @@ Indien de eis in de hoofdzaak niet binnen de overeenkomstig artikel 700, derde l
 
 ### Artikel  728b  
 
-Indien het beslag is gelegd op een schip dat teboekstaat in het in [artikel 193 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) bedoelde register, en de eis in de hoofdzaak niet binnen de overeenkomstig artikel 700, derde lid, bepaalde termijn is ingesteld, is de beslaglegger verplicht de inschrijving van het beslag in de openbare registers onverwijld te doen doorhalen op straffe van schadevergoeding. 
+Indien het beslag is gelegd op een schip dat teboekstaat in het in artikel 193 van Boek 8 van het Burgerlijk Wetboek bedoelde register, en de eis in de hoofdzaak niet binnen de overeenkomstig artikel 700, derde lid, bepaalde termijn is ingesteld, is de beslaglegger verplicht de inschrijving van het beslag in de openbare registers onverwijld te doen doorhalen op straffe van schadevergoeding. 
 
 ### Afdeling  6b  
 
@@ -4128,8 +4128,8 @@ Indien het beslag is gelegd op een schip dat teboekstaat in het in [artikel 193 
 
 ### Artikel  729  
 
-1.  Deze afdeling geldt uitsluitend voor in het in [artikel 1302 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) bedoelde register teboekstaande luchtvaartuigen en voor luchtvaartuigen van de nationaliteit van een vreemde staat ten aanzien waarvan het op 29 mei 1933 te Rome gesloten verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen (Stb. 1938, 12) van kracht is.   
-2.  De in [artikel 1300 van Boek 8 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) opgenomen begripsomschrijvingen gelden ook voor deze afdeling.  
+1.  Deze afdeling geldt uitsluitend voor in het in artikel 1302 van Boek 8 van het Burgerlijk Wetboek bedoelde register teboekstaande luchtvaartuigen en voor luchtvaartuigen van de nationaliteit van een vreemde staat ten aanzien waarvan het op 29 mei 1933 te Rome gesloten verdrag tot het vaststellen van enige eenvormige bepalingen inzake conservatoir beslag op luchtvaartuigen (Stb. 1938, 12) van kracht is.   
+2.  De in artikel 1300 van Boek 8 van het Burgerlijk Wetboek opgenomen begripsomschrijvingen gelden ook voor deze afdeling.  
 
 ### Artikel  729a  
 
@@ -4204,7 +4204,7 @@ Betreft het recht op afgifte te velde staande vruchten of beplantingen van een o
 
 ### Artikel  737  
 
-1.  Een beslag als bedoeld in deze afdeling, kan mede worden gelegd door een schuldeiser die door een rechterlijke uitspraak tot vernietiging op grond van [artikel 45 van Boek 3 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) de bevoegdheid kan verkrijgen zich op het goed te verhalen.   
+1.  Een beslag als bedoeld in deze afdeling, kan mede worden gelegd door een schuldeiser die door een rechterlijke uitspraak tot vernietiging op grond van artikel 45 van Boek 3 van het Burgerlijk Wetboek de bevoegdheid kan verkrijgen zich op het goed te verhalen.   
 2.  Is de vernietiging uitgesproken, dan gaat het beslag over in een conservatoir beslag op het goed tot verhaal van zijn vordering of, als ter zake daarvan is voldaan aan de eisen van artikel 704, eerste lid, in een overeenkomstig executoriaal beslag.  
 
 ### Afdeling  8  
@@ -4337,15 +4337,15 @@ Op de procedure in hoger beroep zijn de artikelen 799 tot en met 803a van overee
 
 Tegen beschikkingen ingevolge: 
 
-a. de artikelen 257 en 260, met uitzondering van beschikkingen ingevolge [artikel 263a, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+a. de artikelen 257 en 260, met uitzondering van beschikkingen ingevolge artikel 263a, tweede lid, van Boek 1 van het Burgerlijk Wetboek;  
 
-b. [artikel 278, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+b. artikel 278, tweede lid, van Boek 1 van het Burgerlijk Wetboek;  
 
-c. [artikel 253s of 336a van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+c. artikel 253s of 336a van Boek 1 van het Burgerlijk Wetboek;  
 
-d. [artikel 435, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+d. artikel 435, tweede lid, van Boek 1 van het Burgerlijk Wetboek;  
 
-e. [artikel 452, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);   staat geen andere voorziening open dan cassatie in het belang der wet. 
+e. artikel 452, tweede lid, van Boek 1 van het Burgerlijk Wetboek;   staat geen andere voorziening open dan cassatie in het belang der wet. 
 
 ### Artikel  809  
 
@@ -4359,7 +4359,7 @@ e. [artikel 452, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../
 1.  De rechter kan in zaken betreffende minderjarigen, indien hij dit met het oog op de beoordeling van de belangen van de minderjarige noodzakelijk acht, het advies van de voogdijraad inwinnen. Hij kan de raad daartoe in elke stand van de zaak oproepen.   
 2.  De voogdijraad kan in deze zaken eigener beweging zijn mening schriftelijk aan de rechter kenbaar maken of ter terechtzitting verschijnen, indien de raad dit met het oog op de beoordeling van de belangen van de minderjarige noodzakelijk acht.   
 3.  De voogdijraad ontvangt daartoe onverwijld een afschrift van het verzoekschrift en wordt tijdig van het tijdstip van de terechtzitting op de hoogte gesteld.   
-4.  Indien de zaak evenwel de ondertoezichtstelling van een minderjarige betreft, de toepassing of overeenkomstige toepassing van de [artikelen 260](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [261](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [262](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [263, eerste tot en met vierde lid, onderdeel a, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) daaronder niet begrepen, dan wel de ontheffing of ontzetting van het ouderlijk gezag of van de voogdij, beslist de rechter niet dan na verhoor of behoorlijke oproeping daartoe van de voogdijraad.  
+4.  Indien de zaak evenwel de ondertoezichtstelling van een minderjarige betreft, de toepassing of overeenkomstige toepassing van de artikelen 260, 261, 262 en 263, eerste tot en met vierde lid, onderdeel a, van Boek 1 van het Burgerlijk Wetboek daaronder niet begrepen, dan wel de ontheffing of ontzetting van het ouderlijk gezag of van de voogdij, beslist de rechter niet dan na verhoor of behoorlijke oproeping daartoe van de voogdijraad.  
 
 ### Artikel  811  
 
@@ -4377,22 +4377,22 @@ d. de minderjarige van twaalf jaren of ouder, tenzij de rechter is gebleken dat 
 
 ### Artikel  812  
 
-Iedere beschikking betreffende de gezagsuitoefening over minderjarigen, de beschikkingen ingevolge de [artikelen 253s](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [262](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [263](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [326](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [336a van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) daaronder begrepen, geeft degene aan wie deze minderjarigen ingevolge de beschikking tijdelijk of blijvend worden toevertrouwd, van rechtswege het recht tot het aan hem doen afgeven van deze minderjarigen, zo nodig met behulp van de sterke arm. 
+Iedere beschikking betreffende de gezagsuitoefening over minderjarigen, de beschikkingen ingevolge de artikelen 253s, 262, 263, 326 en 336a van Boek 1 van het Burgerlijk Wetboek daaronder begrepen, geeft degene aan wie deze minderjarigen ingevolge de beschikking tijdelijk of blijvend worden toevertrouwd, van rechtswege het recht tot het aan hem doen afgeven van deze minderjarigen, zo nodig met behulp van de sterke arm. 
 
 ### Artikel  813  
 
 1.  Het openbaar ministerie verleent, zo nodig, zijn medewerking tot: 
 
-a. de voorgeleiding van een minderjarige voor de rechter ingevolge [artikel 261 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en artikel 809 van dit wetboek;  
+a. de voorgeleiding van een minderjarige voor de rechter ingevolge artikel 261 van Boek 1 van het Burgerlijk Wetboek en artikel 809 van dit wetboek;  
 
-b. de overbrenging van een minderjarige naar een inrichting of naar een andere plaats ingevolge de [artikelen 262](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [263](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [326 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+b. de overbrenging van een minderjarige naar een inrichting of naar een andere plaats ingevolge de artikelen 262, 263 en 326 van Boek 1 van het Burgerlijk Wetboek;  
 
 c. de afgifte van minderjarigen, bedoeld in artikel 812;  
 
-d. de tenuitvoerlegging van de beschikkingen, bedoeld in [artikel 278, tweede lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md);  
+d. de tenuitvoerlegging van de beschikkingen, bedoeld in artikel 278, tweede lid, van Boek 1 van het Burgerlijk Wetboek;  
 
-e. de tenuitvoerlegging van de beschikkingen, bedoeld in [artikel 387 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md).     
-2.  De dienaar der openbare macht die door het openbaar ministerie is aangewezen om de medewerking te verlenen, dan wel medewerking te verlenen aan de tenuitvoerlegging van de bevelen, gegeven door de officier van justitie ingevolge de [artikelen 241](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), [272](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) en [332 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), heeft toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.   
+e. de tenuitvoerlegging van de beschikkingen, bedoeld in artikel 387 van Boek 1 van het Burgerlijk Wetboek.     
+2.  De dienaar der openbare macht die door het openbaar ministerie is aangewezen om de medewerking te verlenen, dan wel medewerking te verlenen aan de tenuitvoerlegging van de bevelen, gegeven door de officier van justitie ingevolge de artikelen 241, 272 en 332 van Boek 1 van het Burgerlijk Wetboek, heeft toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van zijn taak nodig is.   
 3.  Wordt de toegang tot een woning hem door de bewoner geweigerd of door gesloten deuren belet, dan oefent hij deze bevoegdheid niet uit dan in tegenwoordigheid van de officier van justitie of van een zijner hulp-officieren van justitie.   
 4.  Daarvan wordt een proces-verbaal opgemaakt, dat mede ondertekend wordt door de ambtenaar in wiens tegenwoordigheid de woning is binnengetreden.  
 
@@ -4496,7 +4496,7 @@ e. het bedrag bepalen dat de ene echtgenoot moet betalen voor het levensonderhou
 
 ### Artikel  823  
 
-De rechter is bevoegd op verzoek van een echtgenoot of van de voogdijraad een kind onder toezicht te stellen als bedoeld in [artikel 254 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md). 
+De rechter is bevoegd op verzoek van een echtgenoot of van de voogdijraad een kind onder toezicht te stellen als bedoeld in artikel 254 van Boek 1 van het Burgerlijk Wetboek. 
 
 ### Artikel  824  
 
@@ -4510,13 +4510,13 @@ Als belanghebbenden bij het recht op inzage en afschrift, bedoeld in artikel 429
 
 ### Artikel  826  
 
-1.  De voorlopige voorzieningen verliezen hun kracht zodra een beschikking waarbij de echtscheiding of de scheiding van tafel en bed is uitgesproken, wordt ingeschreven in de registers van de burgerlijke stand onderscheidenlijk het huwelijksgoederenregister, aangewezen in [artikel 116 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), of de mogelijkheid daartoe vervalt, met dien verstande dat: 
+1.  De voorlopige voorzieningen verliezen hun kracht zodra een beschikking waarbij de echtscheiding of de scheiding van tafel en bed is uitgesproken, wordt ingeschreven in de registers van de burgerlijke stand onderscheidenlijk het huwelijksgoederenregister, aangewezen in artikel 116 van Boek 1 van het Burgerlijk Wetboek, of de mogelijkheid daartoe vervalt, met dien verstande dat: 
 
 a. de voorlopige voorzieningen, bedoeld in artikel 822, eerste lid, onderdeel a, hun kracht behouden totdat de beslissing op een verzoek tot bepaling wie de huur van de woning zal voortzetten, indien dit verzoek is gedaan, in kracht van gewijsde gaat;  
 
-b. de voorlopige voorzieningen die op de kinderen betrekking hebben, hun kracht behouden totdat het gezag overeenkomstig [artikel 253p van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) is begonnen;  
+b. de voorlopige voorzieningen die op de kinderen betrekking hebben, hun kracht behouden totdat het gezag overeenkomstig artikel 253p van Boek 1 van het Burgerlijk Wetboek is begonnen;  
 
-c. de voorlopige voorzieningen, bedoeld in artikel 822, eerste lid, onderdeel e, hun kracht behouden totdat de beslissing op een verzoek als bedoeld in [artikel 157 van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), indien dit verzoek is gedaan, bij toewijzing voor tenuitvoerlegging vatbaar wordt, dan wel bij afwijzing in kracht van gewijsde gaat.     
+c. de voorlopige voorzieningen, bedoeld in artikel 822, eerste lid, onderdeel e, hun kracht behouden totdat de beslissing op een verzoek als bedoeld in artikel 157 van Boek 1 van het Burgerlijk Wetboek, indien dit verzoek is gedaan, bij toewijzing voor tenuitvoerlegging vatbaar wordt, dan wel bij afwijzing in kracht van gewijsde gaat.     
 2.  De voorlopige voorzieningen verliezen eveneens hun kracht, zodra een verzoek tot echtscheiding of tot scheiding van tafel en bed wordt ingetrokken, alsmede zodra een beschikking waarbij een verzoek tot echtscheiding of tot scheiding van tafel en bed wordt afgewezen, in kracht van gewijsde gaat.  
 
 ### §  3  
@@ -4533,7 +4533,7 @@ b. voorzieningen treffen met betrekking tot de verdeling van de gemeenschap of d
 
 c. voorzieningen treffen betreffende het gezag over, de omgang met, de informatie en raadpleging over en een bijdrage in de kosten van verzorging en opvoeding van minderjarige kinderen van de echtgenoten;  
 
-d. indien de echtscheiding of de scheiding van tafel en bed wordt uitgesproken, [artikel 165, eerste lid](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md), of [artikel 175, eerste lid, van Boek 1 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) toepassen;  
+d. indien de echtscheiding of de scheiding van tafel en bed wordt uitgesproken, artikel 165, eerste lid, of artikel 175, eerste lid, van Boek 1 van het Burgerlijk Wetboek toepassen;  
 
 e. een andere voorziening dan bedoeld in de onderdelen a tot en met d treffen, mits deze voldoende samenhang vertoont met het verzoek tot echtscheiding, scheiding van tafel en bed of ontbinding van het huwelijk na scheiding van tafel en bed, en niet te verwachten is dat de behandeling daarvan tot onnodige vertraging van het geding zal leiden.     
 2.  Ten aanzien van nevenvoorzieningen als bedoeld in het eerste lid, onderdeel c, zijn de artikelen 809, eerste lid, 810, 811 en 812 van toepassing, en komt, in afwijking van artikel 429n, het recht van hoger beroep slechts toe aan de ouders, voor zover deze tot het gezag bevoegd zijn, alsmede aan de voogdijraad.  
@@ -4605,7 +4605,7 @@ De rechter die de gerechtelijke bewaring van een bepaalde zaak beveelt, kan iede
 
 ### Artikel  856  
 
-1.  De gerechtelijke bewaring van een zaak geschiedt op de voorwaarden die door de bewaarder gewoonlijk voor zaken van dezelfde soort worden overeengekomen, of, bij gebreke daarvan, volgens de regels die krachtens het [Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/1/BWBR0002656/README.md) op de overeenkomst van toepassing zijn, telkens tenzij de rechter die de gerechtelijke bewaring beveelt, anders bepaalt.   
+1.  De gerechtelijke bewaring van een zaak geschiedt op de voorwaarden die door de bewaarder gewoonlijk voor zaken van dezelfde soort worden overeengekomen, of, bij gebreke daarvan, volgens de regels die krachtens het Burgerlijk Wetboek op de overeenkomst van toepassing zijn, telkens tenzij de rechter die de gerechtelijke bewaring beveelt, anders bepaalt.   
 2.  De inbewaringstelling kan aldus geschieden dat de bewaarder de zaak mag afgeven aan degene tegen wie de bewaring zich richt, mits deze tevoren aan zijn verplichtingen jegens de bewaargever heeft voldaan. Van een zodanig beding wordt melding gemaakt in de mededeling, bedoeld in artikel 855, tweede lid.   
 3.  De rechter in eerste aanleg kan op verzoek van de bewaarder of een belanghebbende de voorwaarden vaststellen of wijzigen of een gerechtelijke bewaarder aanwijzen die de gerechtelijke bewaring van de oorspronkelijke zal overnemen. De indiening van het verzoekschrift kan ook door de deurwaarder geschieden, voor zover de bewaring haar grond vindt in een beslag.  
 
@@ -4879,5 +4879,5 @@ Deze titel is niet van toepassing op uitspraken van internationale organen.
 ### Artikel  1077  
 
 1.  De Algemene termijnenwet is niet van toepassing op de termijn, gesteld in de artikelen 443, eerste lid, eerste volzin, en 479g, tweede lid.   
-2.  Voor de toepassing van de [Algemene termijnenwet](../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) worden de termijnen, gesteld in de artikelen 7 en 9 en krachtens artikel 10, als termijnen in de zin van [artikel 1, tweede lid, van die wet](../../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) aangemerkt.  
+2.  Voor de toepassing van de Algemene termijnenwet worden de termijnen, gesteld in de artikelen 7 en 9 en krachtens artikel 10, als termijnen in de zin van artikel 1, tweede lid, van die wet aangemerkt.  
 

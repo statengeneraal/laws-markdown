@@ -164,9 +164,9 @@ Treedt in werking per 01-01-2015
 
 ####Wetboek van Burgerlijke Rechtsvordering
 
-Treedt in werking per 01-01-2015 
+Treedt in werking per 01-07-2015 
 
-Wijzigt de Wetboek van Burgerlijke Rechtsvordering. 
+Wijzigt het Wetboek van Burgerlijke Rechtsvordering. 
 
 ### Hoofdstuk  4a  
 

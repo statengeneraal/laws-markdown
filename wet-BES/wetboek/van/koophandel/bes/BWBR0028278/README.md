@@ -638,8 +638,8 @@ Bij gedeeltelijke acceptatie is degene, die ter voldoening aan zijn regresplicht
 
 ### Artikel  241  
 
-1.  Degene die een wisselbrief waarvan hij houder was, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) van de betrokkene betaling vragen.   
-2.  Degene, die een wisselbrief, waarvan hij houder was, en welke is vervallen en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) zijn rechten alleen tegen de acceptant en tegen de trekker uitoefenen.  
+1.  Degene die een wisselbrief waarvan hij houder was, vermist, kan met inachtneming van artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek BES van de betrokkene betaling vragen.   
+2.  Degene, die een wisselbrief, waarvan hij houder was, en welke is vervallen en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek BES zijn rechten alleen tegen de acceptant en tegen de trekker uitoefenen.  
 
 ### Tiende afdeling  
 
@@ -659,12 +659,12 @@ In geval van verandering van de tekst van een wisselbrief, zijn zij, die daarna 
 2.  Alle rechtsvorderingen, welke uit de wisselbrief tegen de acceptant voortspruiten, verjaren door een tijdsverloop van drie jaren, gerekend van de vervaldag.   
 3.  De rechtsvorderingen van de houder tegen de endossanten en tegen de trekker verjaren door een tijdsverloop van een jaar, gerekend van de dagtekening van het tijdig opgemaakte protest of, in geval van de clausule zonder kosten, van de vervaldag.   
 4.  De rechtsvorderingen van de endossanten tegen elkander en tegen de trekker verjaren door tijdsverloop van zes maanden, gerekend van de dag, waarop de endossant ter voldoening aan zijn regresplicht de wisselbrief heeft betaald, of van de dag, waarop hij zelf in rechte is aangesproken.   
-5.  De in het tweede lid bedoelde verjaring mag niet worden ingeroepen door de acceptant, indien of voor zover hij fonds heeft ontvangen of zich ongerechtvaardigd zou hebben verrijkt; evenmin mag de in het derde en vierde lid bedoelde verjaring worden ingeroepen door de trekker, indien of voor zover hij geen fonds heeft bezorgd, noch door de trekker of de endossanten, die zich ongerechtigd zouden hebben verrijkt; alles onverminderd het bepaalde bij [artikel 306 van Boek 3 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md).  
+5.  De in het tweede lid bedoelde verjaring mag niet worden ingeroepen door de acceptant, indien of voor zover hij fonds heeft ontvangen of zich ongerechtvaardigd zou hebben verrijkt; evenmin mag de in het derde en vierde lid bedoelde verjaring worden ingeroepen door de trekker, indien of voor zover hij geen fonds heeft bezorgd, noch door de trekker of de endossanten, die zich ongerechtigd zouden hebben verrijkt; alles onverminderd het bepaalde bij artikel 306 van Boek 3 van het Burgerlijk Wetboek BES.  
 
 ### Artikel  244  
 
 1.  De stuiting van de verjaring is slechts van kracht tegen degene, ten aanzien van wie de stuitingshandeling heeft plaats gehad.   
-2.  Op de in het vorig artikel bedoelde verjaringen is [artikel 321, eerste lid, onder a tot en met d, van Boek 3 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder b en c, van Boek 3 van het Burgerlijk Wetboek BES heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijk vertegenwoordiger of bewindvoerder.  
+2.  Op de in het vorig artikel bedoelde verjaringen is artikel 321, eerste lid, onder a tot en met d, van Boek 3 van het Burgerlijk Wetboek BES niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder b en c, van Boek 3 van het Burgerlijk Wetboek BES heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijk vertegenwoordiger of bewindvoerder.  
 
 ### Twaalfde afdeling  
 
@@ -1042,8 +1042,8 @@ De houder mag zijn recht van regres uitoefenen op de endossanten, de trekker en 
 
 ### Artikel  287  
 
-1.  Degene die een cheque waarvan hij houder was, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) van de betrokkene betaling vragen.   
-2.  Degene die een cheque, waarvan hij houder was, en welke is vervallen, en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van [artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/6/BWBR0028749/README.md) zijn rechten alleen tegen de trekker uitoefenen.  
+1.  Degene die een cheque waarvan hij houder was, vermist, kan met inachtneming van artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek BES van de betrokkene betaling vragen.   
+2.  Degene die een cheque, waarvan hij houder was, en welke is vervallen, en, zoveel nodig, geprotesteerd, vermist, kan met inachtneming van artikel 49, derde lid, van Boek 6 van het Burgerlijk Wetboek BES zijn rechten alleen tegen de trekker uitoefenen.  
 
 ### Achtste afdeling  
 
@@ -1065,12 +1065,12 @@ Behoudens de bepalingen van het volgende artikel gaat schuld uit een cheque te n
 
 1.  De regresvorderingen van de houder tegen de endossanten, de trekker en de andere chequeschuldenaren verjaren door een tijdsverloop van zes maanden, gerekend van het einde van de termijn van aanbieding.   
 2.  De regresvorderingen van de verschillende chequeschuldenaren tegen elkander, die gehouden zijn tot de betaling van een cheque, verjaren door een tijdsverloop van zes maanden, gerekend van de dag, waarop de chequeschuldenaar ter voldoening aan zijn regresplicht de cheque heeft betaald, of van de dag, waarop hij zelf in rechte is aangesproken.   
-3.  De trekker is niet bevoegd om de in het eerste en tweede lid bedoelde verjaring in te roepen, indien of voor zover hij geen fonds heeft bezorgd, en evenmin de trekker of de endossanten, die zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in [artikel 306 van Boek 3 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md).  
+3.  De trekker is niet bevoegd om de in het eerste en tweede lid bedoelde verjaring in te roepen, indien of voor zover hij geen fonds heeft bezorgd, en evenmin de trekker of de endossanten, die zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in artikel 306 van Boek 3 van het Burgerlijk Wetboek BES.  
 
 ### Artikel  291  
 
 1.  De stuiting van de verjaring is slechts van kracht tegen degene, ten aanzien van wie de stuitingshandeling heeft plaats gehad.   
-2.  Op de in het vorig artikel bedoelde verjaringen is [artikel 321, eerste lid, onder a tot en met d, van Boek 3 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder b en c, van Boek 3 van het Burgerlijk Wetboek BES heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijk vertegenwoordiger of bewindvoerder.  
+2.  Op de in het vorig artikel bedoelde verjaringen is artikel 321, eerste lid, onder a tot en met d, van Boek 3 van het Burgerlijk Wetboek BES niet van toepassing; in de gevallen bedoeld in artikel 321, eerste lid, onder b en c, van Boek 3 van het Burgerlijk Wetboek BES heeft de onbekwame of rechthebbende wiens rechtsvordering is verjaard, verhaal op de wettelijk vertegenwoordiger of bewindvoerder.  
 
 ### Tiende afdeling  
 
@@ -1115,7 +1115,7 @@ Indien de laatste dag van enige termijn, waaromtrent in deze afdeling enige bepa
 ### Artikel  298  
 
 1.  Alle rechtsvordering tegen de in deze afdeling vermelde uitgevers van papier, of tegen hen, die buiten de oorspronkelijke uitgever het papier in betaling hebben gegeven, verjaart door tijdsverloop van zes maanden, gerekend van de dag van de oorspronkelijke uitgifte.   
-2.  De in het vorige lid bedoelde verjaring mag niet worden ingeroepen door de uitgever, indien of voor zover hij geen fonds heeft bezorgd, noch door de uitgever of door hen, die buiten de oorspronkelijke uitgever het papier in betaling hebben gegeven, voor zover ze zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in [artikel 306 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).   
+2.  De in het vorige lid bedoelde verjaring mag niet worden ingeroepen door de uitgever, indien of voor zover hij geen fonds heeft bezorgd, noch door de uitgever of door hen, die buiten de oorspronkelijke uitgever het papier in betaling hebben gegeven, voor zover ze zich ongerechtvaardigd zouden hebben verrijkt; alles onverminderd het bepaalde in artikel 306 van Boek 3 van het Burgerlijk Wetboek.   
 3.  Op de in dit artikel genoemde verjaringen is het tweede lid van artikel 291 van toepassing.  
 
 ### Achtste titel  
@@ -1412,7 +1412,7 @@ Onder deze afdeling zijn niet begrepen weduwefondsen, tontines, maatschappijen v
 
 ### Artikel  375  
 
-1.  De betekenis van begrippen voorkomende in [Boek 8 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md), met uitzondering van die voorkomende in de [artikelen 5](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md), [6](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md) en [10](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md), geldt evenzeer voor dit wetboek.   
+1.  De betekenis van begrippen voorkomende in Boek 8 van het Burgerlijk Wetboek BES, met uitzondering van die voorkomende in de artikelen 5, 6 en 10, geldt evenzeer voor dit wetboek.   
 2.  Onder zeewerkgever is te verstaan de eigenaar of, in geval van rompbevrachting, de rompbevrachter.   
 3.  In dit Boek wordt met Nederlandse schepen en schepen die varen onder de Nederlandse vlag gedoeld op schepen waarvan de Nederlandse nationaliteit voortvloeit uit de Rijksregelgeving ter zake van de nationaliteit van schepen.  
 
@@ -1426,11 +1426,11 @@ In de eerste tot en met de vierde Titel van dit Boek worden onder schepen uitslu
 
 ### Artikel  377  
 
-In geval van verkoop uit hoofde van [artikel 175 van Boek 8 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) wordt het schip geacht de hoedanigheid van Nederlands schip niet te hebben verloren. 
+In geval van verkoop uit hoofde van artikel 175 van Boek 8 van het Burgerlijk Wetboek wordt het schip geacht de hoedanigheid van Nederlands schip niet te hebben verloren. 
 
 ### Artikel  404  
 
-Indien de gerechtelijke verdeling van de opbrengst van een vreemd schip in de openbare lichamen Bonaire, Sint Eustatius en Saba plaats heeft, worden de kosten van uitwinning, het hulploon, de loods- en havengelden en andere scheepvaartrechten in ieder geval geplaatst in de rang, hun door de [artikelen 210](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md), [211](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md), [213](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md) [217](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md) en [218 van Boek 8 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md) toegekend. 
+Indien de gerechtelijke verdeling van de opbrengst van een vreemd schip in de openbare lichamen Bonaire, Sint Eustatius en Saba plaats heeft, worden de kosten van uitwinning, het hulploon, de loods- en havengelden en andere scheepvaartrechten in ieder geval geplaatst in de rang, hun door de artikelen 210, 211, 213 217 en 218 van Boek 8 van het Burgerlijk Wetboek BES toegekend. 
 
 ### Artikel  405  
 
@@ -1673,7 +1673,7 @@ Wanneer de monsterrol bepaalt, dat er aan boord een commissie van schepelingen z
 
 ### Artikel  491  
 
-Op de arbeidsovereenkomst tussen de zeewerkgever en de schepeling zijn de bepalingen van het Burgerlijk Wetboek BES met uitzondering evenwel van die van de [zevende Titel van het derde Boek](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), van toepassing, voor zover daarvan bij algemene verordening niet is afgeweken. 
+Op de arbeidsovereenkomst tussen de zeewerkgever en de schepeling zijn de bepalingen van het Burgerlijk Wetboek BES met uitzondering evenwel van die van de zevende Titel van het derde Boek, van toepassing, voor zover daarvan bij algemene verordening niet is afgeweken. 
 
 ### Artikel  492  
 
@@ -1833,10 +1833,10 @@ b. een uitkering in geld, ziekengeld genaamd, welke wordt genoten gedurende ten 
 2.  Zolang hij aan boord is, blijft hij in het genot van het volle loon.   
 3.  Wordt de schepeling in het buitenland ter verpleging achtergelaten, dan heeft hij bovendien recht op vrij vervoer tot een haven in de openbare lichamen Bonaire, Sint Eustatius en Saba te zijner keuze. Onder het vrij vervoer zijn begrepen de kosten van onderhoud en nachtverblijf gedurende de reis.   
 4.  Indien de ziekte een gevolg is van opzet of grove schuld, wordt het ziekengeld verbeurd of verminderd, ter beoordeling van de rechter in eerste aanleg binnen wiens gebied de zetel van het scheepsbedrijf is gevestigd.   
-5.  De schepeling, die in het buitenland door een ongeval als bedoeld in de [Wet ongevallenverzekering BES](../../../../../../wet-BES/wet/ongevallenverzekering/bes/BWBR0028497/README.md) wordt getroffen, heeft hetzelfde recht op geneeskundige behandeling en verpleging en op vrij vervoer als de schepeling die in het buitenland ziek wordt.   
+5.  De schepeling, die in het buitenland door een ongeval als bedoeld in de Wet ongevallenverzekering BES wordt getroffen, heeft hetzelfde recht op geneeskundige behandeling en verpleging en op vrij vervoer als de schepeling die in het buitenland ziek wordt.   
 6.  Voor de toepassing van dit artikel wordt: 
 
-a. met ziekte gelijkgesteld een ongeval als bedoeld in [artikel 4, eerste lid van de Wet Ziekteverzekering BES](../../../../../../wet-BES/wet/ziekteverzekering/bes/BWBR0028728/README.md);  
+a. met ziekte gelijkgesteld een ongeval als bedoeld in artikel 4, eerste lid van de Wet Ziekteverzekering BES;  
 
 b. de schepeling geacht mede in het buitenland te zijn, indien hij aan boord is van een vertrekkend schip, dat zich bevindt binnen de territoriale wateren van de openbare lichamen Bonaire, Sint Eustatius en Saba, terwijl hij niet hier te lande ter verpleging wordt achtergelaten.    
 
@@ -2082,7 +2082,7 @@ De zeewerkgever verbeurt voor iedere dag, dat hij een officier of een scheepsgez
 
 1.  In geval van verlies van het schip door schipbreuk, is de zeewerkgever verplicht om aan de schepeling zolang deze dientengevolge werkloos is doch ten hoogste gedurende twee maanden een schadeloosstelling te betalen tot een bedrag gelijk aan het bij de arbeidsovereenkomst in geld vastgestelde deel van het loon. Is het loon geheel of voor een deel niet naar tijdruimte vastgesteld, dan is een bedrag verschuldigd gelijk aan het loon, dat volgens het gebruik wegens een reis als die waarop het schip is verloren gegaan, bij vaststelling van het gehele loon naar tijdruimte, wordt betaald. In geval van geschil beslist de rechter in eerste aanleg binnen wiens gebied de monsterrol is opgemaakt of de zetel van het scheepsbedrijf is gevestigd.   
 2.  Voor zover de schepeling krachtens het bepaalde in artikel 541 recht heeft op loon, komt dit loon in mindering van de hierbedoelde schadeloosstelling.   
-3.  De vordering tot schadeloosstelling is bevoorrecht op alle goederen van de zeewerkgever; het voorrecht staat in rang gelijk met dat bedoeld in [artikel 288, onder e, van Boek 3 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md).   
+3.  De vordering tot schadeloosstelling is bevoorrecht op alle goederen van de zeewerkgever; het voorrecht staat in rang gelijk met dat bedoeld in artikel 288, onder e, van Boek 3 van het Burgerlijk Wetboek BES.   
 4.  De zeewerkgever, die vermeent, dat een of meer van de schepelingen ten aanzien van de schipbreuk grove schuld treft, is bevoegd om zich te wenden tot de rechter in eerste aanleg met verzoek zijn in het eerste lid bedoelde verplichting tegenover bepaalde schepelingen voor een bij zijn beslissing bepaalde en op dezelfde wijze verlengbare tijd op te schorten, totdat omtrent de oorzaak van de ramp uitspraak is gedaan. De rechter in eerste aanleg mag naar aanleiding van die uitspraak de zeewerkgever voorgoed van zijn verplichting ontheffen.  
 
 ### Artikel  553  
@@ -2098,7 +2098,7 @@ De zeewerkgever verbeurt voor iedere dag, dat hij een officier of een scheepsgez
 ### Artikel  555  
 
 1.  Een beschikking ingevolge de artikelen 516 vierde lid, 525 laatste lid, 540, 546, 550, 551 en 552 geeft de rechter in eerste aanleg niet dan na verhoor, althans na behoorlijke oproeping door de griffier, van partijen. Bij de oproeping van de wederpartij wordt een afschrift van het verzoekschrift gevoegd.   
-2.  In de gevallen van de artikelen 516, vierde lid, 525, vijfde lid, 546, 550, 551 en 552 kan de beschikking worden gegeven in de vorm bij [artikel 430 van het Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) bepaald.  
+2.  In de gevallen van de artikelen 516, vierde lid, 525, vijfde lid, 546, 550, 551 en 552 kan de beschikking worden gegeven in de vorm bij artikel 430 van het Wetboek van Burgerlijke Rechtsvordering bepaald.  
 
 ### §  3  
 
@@ -2136,7 +2136,7 @@ De zeewerkgever verbeurt voor iedere dag, dat hij een officier of een scheepsgez
 
 1.  De ambtenaar van aanmonstering stelt na afloop van de monstering het monsterboekje in handen van de kapitein; deze geeft het de schepeling terug bij het einde van de dienst aan boord van het schip.   
 2.  De kapitein vermeldt in het boekje de datum waarop en de plaats waar de dienst aan boord van het schip is geëindigd. Deze vermelding wordt, indien de kapitein of de schepeling zulks verzoekt, door de ambtenaar van aanmonstering voor gezien getekend.   
-4.  De Commissie van Onderzoek, als bedoeld in [artikel 26 bis van de Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md), is bevoegd, op verzoek van de zeewerkgever, de Inspecteur voor de Scheepvaart gehoord, het monsterboekje gedurende de tijd van ten hoogste één jaar in te houden, ingeval de schepeling de overeenkomst onrechtmatig heeft doen eindigen. De schepeling wordt vooraf opgeroepen om te worden gehoord; hij mag ook verschijnen bij een bijzonder gemachtigde of vergezeld van een raadsman.   
+4.  De Commissie van Onderzoek, als bedoeld in artikel 26 bis van de Schepenwet, is bevoegd, op verzoek van de zeewerkgever, de Inspecteur voor de Scheepvaart gehoord, het monsterboekje gedurende de tijd van ten hoogste één jaar in te houden, ingeval de schepeling de overeenkomst onrechtmatig heeft doen eindigen. De schepeling wordt vooraf opgeroepen om te worden gehoord; hij mag ook verschijnen bij een bijzonder gemachtigde of vergezeld van een raadsman.   
 5.  De ambtenaar van aanmonstering kan het monsterboekje gedurende de tijd van ten hoogste drie jaar inhouden, ingeval de schepeling bij rechterlijk vonnis, in het Koninkrijk of in het buitenland gewezen, onherroepelijk veroordeeld is geworden wegens het door de wetten van het betreffende land strafbaar gestelde, onbevoegd in- of uitvoeren van in die wetten bepaalde verdovende middelen en er sinds de dagtekening van vorenbedoeld vonnis geen vijf jaren verstreken zijn.   
 6.  De officier van Justitie verschaft aan de ambtenaar van aanmonstering inlichtingen omtrent de namen der personen die bij rechterlijk vonnis onherroepelijk veroordeeld zijn geworden wegens het onbevoegd in- of uitvoeren van verdovende middelen.   
 7.  De bevoegdheid van de zeewerkgever tot het doen van het verzoek vervalt door verloop van één maand na het eindigen van de arbeidsovereenkomst in een haven in Bonaire, Sint Eustatius of Saba en van zes maanden na het eindigen van die overeenkomst buiten Bonaire, Sint Eustatius en Saba.  
@@ -2147,7 +2147,7 @@ Het monsterboekje mag het loon niet noemen en gedragsbeoordelingen niet bevatten
 
 ### Artikel  563  
 
-1.  Indien de schepelingen van mening is, dat de kapitein in zijn monsterboekje onjuiste feiten heeft vermeld, mag hij zich daarover beklagen bij de Commissie van Onderzoek, als bedoeld in [artikel 26 bis van de Schepenwet](../../../../../../rijkswet/schepenwet/BWBR0001876/README.md). Deze beslist, de Inspecteur voor de Scheepvaart gehoord, na verhoor of behoorlijke oproeping van de kapitein en brengt de door haar nodig geachte verbetering in het boekje aan.   
+1.  Indien de schepelingen van mening is, dat de kapitein in zijn monsterboekje onjuiste feiten heeft vermeld, mag hij zich daarover beklagen bij de Commissie van Onderzoek, als bedoeld in artikel 26 bis van de Schepenwet. Deze beslist, de Inspecteur voor de Scheepvaart gehoord, na verhoor of behoorlijke oproeping van de kapitein en brengt de door haar nodig geachte verbetering in het boekje aan.   
 2.  Het laatste lid van artikel 561 vindt overeenkomstige toepassing.  
 
 ### Artikel  564  
@@ -2177,7 +2177,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent alles wa
 
 ### Artikel  666  
 
-Voor zover niet anders overeengekomen is op de tijdbevrachting van een schip dat de Nederlandse vlag voert, [titel 5, afdeling 2, van Boek 8 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/8/BWBR0005034/README.md) van toepassing, onverschillig waar de bevrachting tot stand komt. 
+Voor zover niet anders overeengekomen is op de tijdbevrachting van een schip dat de Nederlandse vlag voert, titel 5, afdeling 2, van Boek 8 van het Burgerlijk Wetboek van toepassing, onverschillig waar de bevrachting tot stand komt. 
 
 ### §  4  
 
@@ -2185,7 +2185,7 @@ Voor zover niet anders overeengekomen is op de tijdbevrachting van een schip dat
 
 ### Artikel  719  
 
-Voor zover niet anders is overeengekomen zijn de [artikelen 378](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md) en [484 tot en met 485 van Boek 8 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md) van toepassing indien een reisbevrachting in de zin van [artikel 373](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md) van dat boek betreft hetzij een schip dat de Nederlandse vlag voert, hetzij het vervoer van zaken van of naar een haven in Bonaire, Sint Eustatius of Saba. 
+Voor zover niet anders is overeengekomen zijn de artikelen 378 en 484 tot en met 485 van Boek 8 van het Burgerlijk Wetboek BES van toepassing indien een reisbevrachting in de zin van artikel 373 van dat boek betreft hetzij een schip dat de Nederlandse vlag voert, hetzij het vervoer van zaken van of naar een haven in Bonaire, Sint Eustatius of Saba. 
 
 ### Zevende titel  
 
@@ -2197,7 +2197,7 @@ Voor zover niet anders is overeengekomen zijn de [artikelen 378](../../../../../
 
 ### Artikel  750  
 
-[Titel 5, afdeling 3, van Boek 8 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md) is van toepassing op het vervoer van personen van havens in Bonaire, Sint Eustatius en Saba. Zij is mede van toepassing op het vervoer naar havens in Bonaire, Sint Eustatius en Saba met dien verstande echter, dat bedingen die volgens deze afdeling nietig zijn, geldig zijn voor zover zij dit zijn volgens de wet van het land waar de inscheping geschied is. 
+Titel 5, afdeling 3, van Boek 8 van het Burgerlijk Wetboek BES is van toepassing op het vervoer van personen van havens in Bonaire, Sint Eustatius en Saba. Zij is mede van toepassing op het vervoer naar havens in Bonaire, Sint Eustatius en Saba met dien verstande echter, dat bedingen die volgens deze afdeling nietig zijn, geldig zijn voor zover zij dit zijn volgens de wet van het land waar de inscheping geschied is. 
 
 ### §  3  
 
@@ -2205,7 +2205,7 @@ Voor zover niet anders is overeengekomen zijn de [artikelen 378](../../../../../
 
 ### Artikel  763  
 
-Voor zover niet anders is overeengekomen is op tijdbevrachting van een schip dat de Nederlandse vlag voert, [titel 5, afdeling 3, van Boek 8 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md) van toepassing, onverschillig waar de bevrachting tot stand komt. 
+Voor zover niet anders is overeengekomen is op tijdbevrachting van een schip dat de Nederlandse vlag voert, titel 5, afdeling 3, van Boek 8 van het Burgerlijk Wetboek BES van toepassing, onverschillig waar de bevrachting tot stand komt. 
 
 ### Tiende titel  
 
@@ -2572,7 +2572,7 @@ Indien tussen partijen niet anders is bedongen, worden de averijen geregeld over
 ### Artikel  902  
 
 1.  Er zijn twee soorten van averijen: averij-grosse of algemene averij, en eenvoudige of bijzondere averij.   
-2.  De eerste wordt geregeld volgens [titel 6, afdeling 3, van Boek 8 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md); de laatste komt ten laste van het schip of van het goed afzonderlijk hetwelk de schade geleden of de kosten veroorzaakt heeft.  
+2.  De eerste wordt geregeld volgens titel 6, afdeling 3, van Boek 8 van het Burgerlijk Wetboek BES; de laatste komt ten laste van het schip of van het goed afzonderlijk hetwelk de schade geleden of de kosten veroorzaakt heeft.  
 
 ### Artikel  905  
 
@@ -2588,7 +2588,7 @@ Bijzondere averijen zijn:
 
 5°. de kosten van bijzondere reparaties van de fustage en de kosten van beredding van de beschadigde goederen, voor zover dit een en ander niet het onmiddellijk gevolg is van een ramp, welke tot averij-grosse aanleiding geeft;  
 
-6°. de onkosten, vallende op het verder vervoer van de goederen, wanneer, in het geval van [artikel 425 van Boek 8 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md), de bevrachtingsovereenkomst is vervallen; en  
+6°. de onkosten, vallende op het verder vervoer van de goederen, wanneer, in het geval van artikel 425 van Boek 8 van het Burgerlijk Wetboek BES, de bevrachtingsovereenkomst is vervallen; en  
 
 7°. In het algemeen alle schade, verliezen en de gemaakte kosten, die niet zijn averijgrosse maar die zijn geleden door of gemaakt ten behoeve van schip alleen of voor de schade alleen.   
 
@@ -2715,7 +2715,7 @@ Indien, tot behoud van schip of vaartuig en lading, goederen worden geworpen, he
 
 ### Artikel  966  
 
-De overige bepalingen van de twaalfde Titel, alsmede [titel 6, afdeling 3, van Boek 8 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/8/BWBR0028753/README.md) zijn niet toepasselijk op de in artikel 954 vermelde schepen en vaartuigen. 
+De overige bepalingen van de twaalfde Titel, alsmede titel 6, afdeling 3, van Boek 8 van het Burgerlijk Wetboek BES zijn niet toepasselijk op de in artikel 954 vermelde schepen en vaartuigen. 
 
 ### Artikel  967  
 
@@ -2725,6 +2725,6 @@ De voorschriften van de dertiende Titel gelden behoudens het bepaalde in de vier
 
 ### Artikel  968  
 
-1.  De [Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de termijnen gesteld in de hierna genoemde onderdelen van dit wetboek: van het Eerste Boek: de vijfde en zesde titel; van het Tweede Boek: de derde en vierde titel, alsmede de derde afdeling van de tiende titel; zij is echter wel van toepassing op de termijnen gesteld in de artikelen 520 en 561.   
-2.  Onder algemeen erkende feestdagen worden in dit wetboek verstaan de in [artikel 3 van de Algemene termijnenwet](../../../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) als zodanig genoemde en de bij krachtens dat artikel daarmede gelijkgestelde dagen.   
+1.  De Algemene termijnenwet is niet van toepassing op de termijnen gesteld in de hierna genoemde onderdelen van dit wetboek: van het Eerste Boek: de vijfde en zesde titel; van het Tweede Boek: de derde en vierde titel, alsmede de derde afdeling van de tiende titel; zij is echter wel van toepassing op de termijnen gesteld in de artikelen 520 en 561.   
+2.  Onder algemeen erkende feestdagen worden in dit wetboek verstaan de in artikel 3 van de Algemene termijnenwet als zodanig genoemde en de bij krachtens dat artikel daarmede gelijkgestelde dagen.   
 3.  Deze wet wordt aangehaald als: Wetboek van Koophandel BES.  

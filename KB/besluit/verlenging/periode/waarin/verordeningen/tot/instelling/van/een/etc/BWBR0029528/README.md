@@ -6,12 +6,12 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Economische Zaken, Landbouw en Innovatie van 17 januari 2011, nr. WJZ / 10201052;
 
-Gelet op [artikel 9, tweede lid, van de Experimentenwet BI-zones](../../../../../../../../../../../../wet/experimentenwet/bi-zones/BWBR0025644/README.md);
+Gelet op artikel 9, tweede lid, van de Experimentenwet BI-zones;
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  1  
 
-De periode, bedoeld in [artikel 9, eerste lid, van de Experimentenwet BI-zones](../../../../../../../../../../../../wet/experimentenwet/bi-zones/BWBR0025644/README.md), eindigt met ingang van 1 januari 2012. 
+De periode, bedoeld in artikel 9, eerste lid, van de Experimentenwet BI-zones, eindigt met ingang van 1 januari 2012. 
 
 ### Artikel  2  
 

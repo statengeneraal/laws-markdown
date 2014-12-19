@@ -5,7 +5,7 @@
 De Autoriteit Consument en Markt,  
 Gezien de goedkeuring van de Minister van Economische Zaken;
 
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de [artikelen 2, tweede lid](../../../../../../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md), en [5, tweede lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md) en [artikel 7, derde en vierde lid van het Besluit mandaat, volmacht en machtiging Autoriteit Consument en Markt](../../../../../../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/autoriteit/consument/en/markt/BWBR0033132/README.md);
+Gelet op afdeling 10.1.1 van de Algemene wet bestuursrecht, de artikelen 2, tweede lid, en 5, tweede lid, van de Instellingswet Autoriteit Consument en Markt en artikel 7, derde en vierde lid van het Besluit mandaat, volmacht en machtiging Autoriteit Consument en Markt;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,9 +17,9 @@ In dit besluit wordt verstaan onder:
 
 a.  *minister:* de Minister van Economische Zaken;  
 
-b.  *ACM:* de Autoriteit Consument en Markt als bedoeld in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
+b.  *ACM:* de Autoriteit Consument en Markt als bedoeld in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
 
-c.  *ACM-organisatie:* de organisatie van het personeel als bedoeld in [artikel 5, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../../../../../../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md);  
+c.  *ACM-organisatie:* de organisatie van het personeel als bedoeld in artikel 5, eerste lid, van de Instellingswet Autoriteit Consument en Markt;  
 
 d.  *verordening 1/2003:* Verordening (EG) nr. 1/2003 van de Raad van de Europese Unie van 16 december 2002 betreffende de uitvoering van de mededingingsregels van de artikelen 101 en 102 van het Verdrag betreffende de werking van de Europese Unie (PbEG 2003, L 1); 
 
@@ -39,13 +39,13 @@ k.  *verordening 1227/2011:* Verordening (EU) nr. 1227/2011 van het Europees Par
 
 l.  *verordening 994/2010:* Verordening (EU) nr. 994/2010 van het Europees Parlement en de Raad van 20 oktober 2010 betreffende maatregelen tot veiligstelling van de gaslevering en houdende intrekking van Richtlijn 2004/67/EG van de Raad (PbEU L 295/1);  
 
-m.  *Wet implementatie derde pakket:* [Wet van 12 juli 2012 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet (implementatie van richtlijnen en verordeningen op het gebied van elektriciteit en gas)](../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/enz./(implementatie/richtlijnen/en/etc/BWBR0031815/README.md), (Stb., 334);  
+m.  *Wet implementatie derde pakket:* Wet van 12 juli 2012 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet (implementatie van richtlijnen en verordeningen op het gebied van elektriciteit en gas), (Stb., 334);  
 
-n.  *Wet onafhankelijk netbeheer:* [Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer](../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md) (Stb., nr. 614);  
+n.  *Wet onafhankelijk netbeheer:* Wet van 23 november 2006 tot wijziging van de Elektriciteitswet 1998 en van de Gaswet in verband met nadere regels omtrent een onafhankelijk netbeheer (Stb., nr. 614);  
 
-o.  *BBRA:* [Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md);  
+o.  *BBRA:* Bezoldigingsbesluit Burgerlijke Rijksambtenaren 1984;  
 
-p.  *ARAR:* het [Algemeen Rijksambtenarenreglement](../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).   
+p.  *ARAR:* het Algemeen Rijksambtenarenreglement.   
 
 ### Hoofdstuk  2  
 
@@ -92,37 +92,37 @@ Tot het werkterrein van de afdeling Bestuur, Beleid en Communicatie behoort het 
 
 Tot het werkterrein van de directie Consumenten behoren, voor zover opgedragen aan de ACM: 
 
-1. de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de [Dienstenwet](../../../../../../../../../../wet/dienstenwet/BWBR0026759/README.md) en de [Wet handhaving consumentenbescherming](../../../../../../../../../../wet/wet/handhaving/consumentenbescherming/BWBR0020586/README.md);  
+1. de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de Dienstenwet en de Wet handhaving consumentenbescherming;  
 
-2. de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de [Telecommunicatiewet](../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), de [Gaswet](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md) en de [Elektriciteitswet 1998](../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), voor zover deze overwegend op consumentenbelangen zien.   
+2. de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de Telecommunicatiewet, de Gaswet en de Elektriciteitswet 1998, voor zover deze overwegend op consumentenbelangen zien.   
 
 ### Artikel  3.4  
 
 Tot het werkterrein van de directie Energie behoren, voor zover opgedragen aan de ACM: 
 
-1. de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de [Drinkwaterwet](../../../../../../../../../../wet/drinkwaterwet/BWBR0026338/README.md), de [Elektriciteitswet 1998](../../../../../../../../../../wet/elektriciteitswet/1998/BWBR0009755/README.md), voor zover deze overwegend niet op consumentenbelangen ziet, de [Gaswet](../../../../../../../../../../wet/gaswet/BWBR0011440/README.md), voor zover deze overwegend niet op consumentenbelangen ziet, de verordeningen 713/2009, 714/2009, 715/2009, 994/2010 en 1227/2011, de [Warmtewet](../../../../../../../../../../wet/warmtewet/BWBR0033729/README.md) en de Wet implementatie derde pakket, de [Wet implementatie EU-richtlijnen energie-efficiëntie](../../../../../../../../../../wet/wet/implementatie/eg-richtlijnen/energie-efficiëntie/BWBR0029672/README.md) en de [Wet onafhankelijk netbeheer](../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md);  
+1. de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de Drinkwaterwet, de Elektriciteitswet 1998, voor zover dit bepaalde overwegend niet op consumentenbelangen ziet, de Gaswet, voor zover dit bepaalde overwegend niet op consumentenbelangen ziet, de verordeningen 713/2009, 714/2009, 715/2009, 994/2010 en 1227/2011, de Warmtewet en de Wet implementatie derde pakket, de Wet implementatie EU-richtlijnen energie-efficiëntie en de Wet onafhankelijk netbeheer;  
 
-2. binnen het kader van de uitvoering van en het toezicht op de naleving van de [Mededingingswet](../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), de behandeling van aangelegenheden inzake het misbruik van economische machtsposities in de energie- en drinkwatersector.   
+2. binnen het kader van de uitvoering van en het toezicht op de naleving van de Mededingingswet, de behandeling van aangelegenheden inzake het misbruik van economische machtsposities in de energie- en drinkwatersector.   
 
 ### Artikel  3.5  
 
 Tot het werkterrein van de directie Telecom, Vervoer en Post behoren, voor zover opgedragen aan de ACM: 
 
-1. de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de [Loodsenwet](../../../../../../../../../../wet/loodsenwet/BWBR0004365/README.md), de [Postwet 2009](../../../../../../../../../../wet/postwet/2009/BWBR0025572/README.md), de [Scheepvaartverkeerswet](../../../../../../../../../../wet/scheepvaartverkeerswet/BWBR0004364/README.md), de [Spoorwegwet](../../../../../../../../../../wet/spoorwegwet/BWBR0015007/README.md), de [Telecommunicatiewet](../../../../../../../../../../wet/telecommunicatiewet/BWBR0009950/README.md), voor zover deze overwegend niet op consumentenbelangen ziet, verordening 544/2009, verordening 1211/2009, de [Wet luchtvaart](../../../../../../../../../../wet/wet/luchtvaart/BWBR0005555/README.md), de [Wet personenvervoer 2000](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), de [Wet post BES](../../../../../../../../../../wet-BES/wet/post/bes/BWBR0028263/README.md) en de [Wet telecommunicatievoorziening BES](../../../../../../../../../../wet-BES/wet/telecommunicatievoorzieningen/bes/BWBR0028469/README.md);  
+1. de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de Loodsenwet, de Postwet 2009, de Scheepvaartverkeerswet, de Spoorwegwet, de Telecommunicatiewet, voor zover dit bepaalde overwegend niet op consumentenbelangen ziet, verordening 544/2009, verordening 1211/2009, de Wet luchtvaart, de Wet personenvervoer 2000, de Wet post BES en de Wet telecommunicatievoorziening BES;  
 
-2. binnen het kader van de uitvoering van en het toezicht op de naleving van de [Mededingingswet](../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), de behandeling van aangelegenheden inzake het misbruik van economische machtsposities in de telecom-, vervoer-, en postsector;  
+2. binnen het kader van de uitvoering van en het toezicht op de naleving van de Mededingingswet, de behandeling van aangelegenheden inzake het misbruik van economische machtsposities in de telecom-, vervoer- en postsector;  
 
-3. de behandeling van beslissingen op bezwaarschriften, waaronder het nemen van beslissingen op bezwaarschriften, tegen beslissingen over nummerfacturatie, nummeraanvragen, het intrekken of wijzigen van een toekenning van een nummer en het opleggen van lasten onder dwangsom zonder rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3. de behandeling van beslissingen op bezwaarschriften, waaronder het nemen van beslissingen op bezwaarschriften, voor zover dit bezwaarschriften betreft in het kader van de uitvoering bedoeld in het eerste en tweede lid.   
 
 ### Artikel  3.6  
 
-Tot het werkterrein van de directie Mededinging behoren, voor zover opgedragen aan de ACM, de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de [Aanbestedingswet 2012](../../../../../../../../../../wet/aanbestedingswet/2012/BWBR0032203/README.md), de [Aanbestedingswet op defensie- en veiligheidsgebied](../../../../../../../../../../wet/aanbestedingswet/op/defensie-/en/veiligheidsgebied/BWBR0032898/README.md), verordening 1/2003, verordening 139/2004, de [Mededingingswet](../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) en de [Wet op het financieel toezicht](../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md). 
+Tot het werkterrein van de directie Mededinging behoren, voor zover opgedragen aan de ACM, de uitvoering van en het toezicht op de naleving van het bepaalde bij of krachtens de Aanbestedingswet 2012, de Aanbestedingswet op defensie- en veiligheidsgebied, verordening 1/2003, verordening 139/2004, de Mededingingswet, met uitzondering van de behandeling van aangelegenheden inzake het misbruik van economische machtsposities in de energie-, water-, telecom, vervoer- en postsector, en de Wet op het financieel toezicht. 
 
 ### Artikel  3.7  
 
 1.  Tot het werkterrein van de directie Juridische Zaken behoort in het kader van de uitvoering van en het toezicht op de bij of krachtens de wet aan de ACM opgedragen taken: 
 
-a. het voorbereiden van beslissingen tot het opleggen van bestuurlijke sancties, voor zover hier een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) aan ten grondslag ligt;  
+a. het voorbereiden van beslissingen tot het opleggen van bestuurlijke sancties, voor zover hier een rapport als bedoeld in artikel 5:48, eerste lid, van de Algemene wet bestuursrecht aan ten grondslag ligt;  
 
 b. de behandeling van beslissingen op bezwaarschriften, waaronder het nemen van beslissingen op bezwaarschriften, met uitzondering van bezwaarschriften tegen beslissingen die tot het werkterrein van de directie Telecom, Vervoer en Post behoren, genoemd in artikel 3.5, aanhef en onder 3.  
 
@@ -139,6 +139,10 @@ Tot het werkterrein van de directie Bedrijfsvoering behoren taken van respectiev
 
 Tot het werkterrein van het Economisch Bureau behoren taken op het gebied van de economische expertisefunctie, de onderzoeksfunctie en de strategische functie. Hiertoe behoren zaaksgebonden en algemeen economisch onderzoek en het adviseren van de ACM. 
 
+### Artikel  3.10  
+
+Tot het werkterrein van elke directie behoort ook het behandelen van verzoeken om openbaarmaking van besluiten en andere documenten. 
+
 ### Hoofdstuk  4  
 
 ####Publiekrechtelijke rechtshandelingen
@@ -149,19 +153,23 @@ Bij of krachtens dit besluit verleend mandaat, volmacht en machtiging heeft geen
 
 a. het nemen van besluiten tot het opleggen van een bestuurlijke boete;  
 
-b. het nemen van besluiten op grond van [artikel 37 van de Mededingingswet](../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), waarin een vergunning wordt vereist, en besluiten op grond van de [artikelen 40](../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), [41](../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), [44](../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md), [45](../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md) en [46 van de Mededingingswet](../../../../../../../../../../wet/mededingingswet/BWBR0008691/README.md);  
+b. het nemen van en besluiten op grond van de artikelen 40, 41, 44, 45 en 46 van de Mededingingswet;  
 
-c. het nemen van besluiten die voorbereid zijn met toepassing van [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);  
+c. het nemen van besluiten die voorbereid zijn met toepassing van afdeling 3.4 van de Algemene wet bestuursrecht; 
 
-e. het beslissen op bezwaarschriften gericht tegen het opleggen van een herstelsanctie waaraan een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ten grondslag ligt;  
+d.het beslissen op bezwaarschriften gericht tegen het bindend verklaren van een toezegging; 
 
-f. het beslissen op bezwaarschriften gericht tegen het opleggen van een bindende aanwijzing;  
+e. het beslissen op bezwaarschriften gericht tegen het opleggen van een herstelsanctie waaraan een rapport als bedoeld in artikel 5:48, eerste lid, van de Algemene wet bestuursrecht ten grondslag ligt;  
 
-g. het vaststellen van regelgeving.   
+f. het beslissen op bezwaarschriften gericht tegen het opleggen van een zelfstandige last;  
+
+g. het beslissen op bezwaarschriften gericht tegen het openbaar maken van een openbare waarschuwing als bedoeld in artikel 2.23 van de Wet handhaving consumentenbescherming; 
+
+h. het vaststellen van regelgeving.   
 
 ### Artikel  4.2  
 
-Aan de leden van de ACM wordt in afwijking van artikel 4.1, ieder voor zich, mandaat, volmacht en machtiging verleend tot aangelegenheden die tot het gehele werkterrein van de ACM-organisatie behoren, indien: 
+Aan de leden van de ACM wordt in afwijking van artikel 4.1, ieder voor zich, mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het gehele werkterrein van de ACM-organisatie behoren, indien: 
 
 a. niet gewacht kan worden op een besluit van de ACM;  
 
@@ -169,25 +177,21 @@ b. het de schriftelijke afdoening betreft en de ondertekening van stukken die vo
 
 ### Artikel  4.3  
 
-Aan de directeuren van de in artikel 2, tweede lid, onderdeel a tot en met g, genoemde organisatieonderdelen en aan de Chief Economist wordt, ieder voor zich, met inachtneming van het bepaalde in artikel 4.1, mandaat, volmacht en machtiging verleend tot aangelegenheden die tot het werkterrein van hun organisatieonderdeel behoren. 
+Aan de directeuren van de in artikel 2, tweede lid, onderdeel a tot en met g, genoemde organisatieonderdelen en aan de Chief Economist wordt, ieder voor zich, met inachtneming van het bepaalde in artikel 4.1, mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het werkterrein van hun organisatieonderdeel behoren. 
 
 ### Artikel  4.4  
 
-1.  Aan de teammanagers werkzaam binnen de in artikel 2, tweede lid, onderdeel b tot en met g, genoemde organisatieonderdelen wordt, ieder voor zich, met inachtneming van het bepaalde in artikel 4.1, mandaat, volmacht en machtiging verleend tot aangelegenheden die tot het werkterrein van hun organisatieonderdeel behoren.   
-2.  Het mandaat, volmacht en de machtiging bedoeld in het eerste lid strekt zich niet uit tot het nemen van beslissingen op bezwaarschriften.   
-3.  Aan de ondersteunend medewerkers toezicht en de medewerkers toezicht van het team Vervoer en Nummeruitgifte bij de directie Telecom, Vervoer en Post wordt, ieder voor zich, mandaat, volmacht en machtiging verleend tot aangelegenheden inzake de toekenning, reservering of intrekking van ten hoogste 30 elfcijferige informatienummers of niet meer dan 100 bedrijfsnummers, als bedoeld in het Nummerplan telefoon- en ISDN-diensten. 
+1.  Aan de teammanagers werkzaam binnen de in artikel 2, tweede lid, onderdeel b tot en met g, genoemde organisatieonderdelen wordt, ieder voor zich, met inachtneming van het bepaalde in artikel 4.1, mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die tot het werkterrein van hun organisatieonderdeel behoren.   
+2.  Het mandaat, volmacht en de machtiging bedoeld in het eerste lid strekt zich niet uit tot het verrichten van marktonderzoeken, het opstellen van rapportages of tot het nemen van beslissingen op bezwaarschriften.   
+3.  Aan de ondersteunend medewerkers toezicht en de medewerkers toezicht van het team Vervoer en Nummeruitgifte bij de directie Telecom, Vervoer en Post wordt, ieder voor zich, mandaat, volmacht en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met de toekenning, reservering of intrekking van ten hoogste 30 elfcijferige informatienummers of niet meer dan 100 bedrijfsnummers, als bedoeld in het Nummerplan telefoon- en ISDN-diensten. 
 
 ### Artikel  4.5  
 
-Aan de directeuren van de in artikel 2, tweede lid, onderdeel a tot en met g, genoemde organisatieonderdelen, de daarbij werkzame teammanagers en de Chief Economist wordt, ieder voor zich, mandaat en machtiging verleend tot aangelegenheden inzake [titel 4.4 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en de Wet openbaarheid van bestuur. 
+Aan de directeuren van de in artikel 2, tweede lid, onderdeel a tot en met g, genoemde organisatieonderdelen, de daarbij werkzame teammanagers en de Chief Economist wordt, ieder voor zich, mandaat en machtiging verleend tot het nemen van besluiten en het verrichten van overige handelingen die verband houden met titel 4.4 van de Algemene wet bestuursrecht en het openbaar maken van besluiten en andere documenten. 
 
 ### Artikel  4.6  
 
-Aan de voorzitter van de ACM wordt machtiging verleend tot het ondertekenen van de legitimatiebewijzen van respectievelijk de toezichthoudende ambtenaren, toezichthouders, personen en functionarissen als bedoeld in de [artikelen 1 tot en met 4 van het Besluit aanwijzing toezichthouders ACM](../../../../../../../../../../zbo/besluit/aanwijzing/toezichthouders/acm/BWBR0033227/README.md). 
-
-### Artikel  4.7  
-
-Aan de directeur van de directie Energie wordt machtiging verleend voor het opmaken van een rapport als bedoeld in [artikel 5:48, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) voor overtreding van de [artikelen VIa, vierde lid](../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md), [VII, derde lid](../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md), [IX, tweede lid](../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md), [IXa, eerste en tweede lid](../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md), en [IXb, eerste tot en met derde lid, vijfde, zesde, zevende en negende lid, van de Wet onafhankelijk netbeheer](../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/en/gaswet/(nadere/regels/omtrent/een/etc/BWBR0020608/README.md) en van [artikel XX, negende lid, van de Wet implementatie derde pakket](../../../../../../../../../../wet/wijzigingswet/elektriciteitswet/1998/enz./(implementatie/richtlijnen/en/etc/BWBR0031815/README.md). 
+Aan de voorzitter van de ACM wordt machtiging verleend tot het ondertekenen van de legitimatiebewijzen van respectievelijk de toezichthoudende ambtenaren, toezichthouders, personen en functionarissen als bedoeld in de artikelen 1 tot en met 4 van het Besluit aanwijzing toezichthouders ACM. 
 
 ### Artikel  4.8  
 
@@ -199,13 +203,13 @@ Aan de directeur van de directie Juridische Zaken en de onder hem ressorterende 
 
 ### Artikel  4.10  
 
-1.  Het clementiebureau is belast met de toepassing van [afdeling 2.2 van de Beleidsregels van de minister voor het opleggen van bestuurlijke boetes door de Autoriteit Consument en Markt](../../../../../../../../../../ministeriele-regeling/beleidsregels/van/de/minister/van/economische/zaken/voor/het/opleggen/van/etc/BWBR0033327/README.md).   
-2.  Aan de clementiefunctionaris wordt mandaat, volmacht en machtiging verleend voor het voorbereiden en het doen van clementietoezeggingen als bedoeld in [artikel 2.38 van de beleidsregels genoemd in het eerste lid](../../../../../../../../../../ministeriele-regeling/beleidsregels/van/de/minister/van/economische/zaken/voor/het/opleggen/van/etc/BWBR0033327/README.md).  
+1.  Het clementiebureau is belast met de toepassing van de Beleidsregel clementie.   
+2.  Aan de clementiefunctionaris wordt mandaat, volmacht en machtiging verleend voor het voorbereiden en het doen van clementietoezeggingen als bedoeld in artikel 20 van de Beleidsregel clementie.  
 
 ### Artikel  4.11  
 
-1.  Er is een klachtenfunctionaris die klachten behandelt als bedoeld in [artikel 9.1 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  Aan de klachtenfunctionaris wordt mandaat, volmacht en machtiging verleend voor handelingen in het kader van het behandelen van klachten als bedoeld in [titel 9.1 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), met uitzondering van het toepassen van [artikel 9:12, eerste lid, van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+1.  Er is een klachtenfunctionaris die klachten behandelt als bedoeld in artikel 9.1 van de Algemene wet bestuursrecht.   
+2.  Aan de klachtenfunctionaris wordt mandaat, volmacht en machtiging verleend voor handelingen in het kader van het behandelen van klachten als bedoeld in titel 9.1 van de Algemene wet bestuursrecht, met uitzondering van het toepassen van artikel 9:12, eerste lid, van de Algemene wet bestuursrecht.  
 
 ### Hoofdstuk  5  
 
@@ -213,15 +217,15 @@ Aan de directeur van de directie Juridische Zaken en de onder hem ressorterende 
 
 ### Artikel  5.1  
 
-Aan de directeuren van de in artikel 2, tweede lid, onderdeel a tot en met e, en g, genoemde organisatieonderdelen, de daarbij werkzame teammanagers en de Chief Economist wordt, ieder voor zich, op hun werkterrein en binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot beleidsonderzoek en de inhuur van specialisten, voor zover deze het bedrag van € 120.000 inclusief BTW per verplichting niet te boven gaat. 
+Aan de directeuren van de in artikel 2, tweede lid, onderdeel a tot en met e, en g, genoemde organisatieonderdelen, de daarbij werkzame teammanagers en de Chief Economist wordt, ieder voor zich, op hun werkterrein en binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot beleidsonderzoek en de inhuur van specialisten, voor zover deze het bedrag van € 134.000 exclusief BTW per verplichting niet te boven gaan. 
 
 ### Artikel  5.2  
 
-Aan de directeur van de directie Juridische Zaken en de onder hem ressorterende teammanagers wordt, ieder voor zich, op hun werkterrein en binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot juridisch advies en procesvertegenwoordiging, en de inhuur van specialisten, tolken en verslagleggers, voor zover deze het bedrag van € 120.000 inclusief BTW per verplichting niet te boven gaat. 
+Aan de directeur van de directie Juridische Zaken en de onder hem ressorterende teammanagers wordt, ieder voor zich, op hun werkterrein en binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot juridisch advies en procesvertegenwoordiging, en de inhuur van specialisten, tolken en verslagleggers, voor zover deze het bedrag van € 134.000 exclusief BTW per verplichting niet te boven gaan. 
 
 ### Artikel  5.3  
 
-Aan de directeur van de directie Bedrijfsvoering en de onder hem ressorterende teammanagers wordt, ieder voor zich, binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot hun werkterrein, waaronder begrepen informatiebeheer en automatisering en de vergoeding van lidmaatschappen en telefoonkosten, voor zover deze het bedrag van € 120.000 inclusief BTW per verplichting niet te boven gaat. 
+Aan de directeur van de directie Bedrijfsvoering en de onder hem ressorterende teammanagers wordt, ieder voor zich, binnen het door de ACM vastgestelde werkplan en het daartoe door de ACM vastgestelde budget, volmacht en machtiging verleend voor het aangaan van financiële verplichtingen met betrekking tot hun werkterrein, waaronder begrepen informatiebeheer en automatisering en de vergoeding van lidmaatschappen en telefoonkosten, voor zover deze het bedrag van € 134.000 exclusief BTW per verplichting niet te boven gaan. 
 
 ### Hoofdstuk  6  
 
@@ -229,14 +233,14 @@ Aan de directeur van de directie Bedrijfsvoering en de onder hem ressorterende t
 
 ### Artikel  6.1  
 
-1.  Aan de directeuren van de in artikel 2, tweede lid, onderdeel a tot en met g, genoemde organisatieonderdelen en aan de Chief Economist wordt, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 15 of hoger van [bijlage B van het BBRA](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) geldt, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende: 
+1.  Aan de directeuren van de in artikel 2, tweede lid, onderdeel a tot en met g, genoemde organisatieonderdelen en aan de Chief Economist wordt, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 15 of hoger van bijlage B van het BBRA geldt, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende: 
 
 a. het verlenen van verlof;  
 
 b. het verlenen van zwangerschaps- en bevallingsverlof;  
 
 c. het accorderen van binnen- en buitenlandse dienstreizen en reiskostendeclaraties.     
-2.  Aan de directeuren van de in artikel 2, tweede lid, onderdeel a tot en met g, genoemde organisatieonderdelen en aan de Chief Economist wordt tevens, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 14 of lager van [bijlage B van het BBRA](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende: 
+2.  Aan de directeuren van de in artikel 2, tweede lid, onderdeel a tot en met g, genoemde organisatieonderdelen en aan de Chief Economist wordt tevens, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 14 of lager van bijlage B van het BBRA geldt, respectievelijk kandidaten voor functies waarvoor die salarisschalen gelden, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende: 
 
 a. het verlenen van verlof;  
 
@@ -246,9 +250,9 @@ c. het accorderen van binnen- en buitenlandse dienstreizen en reiskostendeclarat
 
 d. het aanstellen in vaste dienst of tijdelijke dienst en het beëindigen van vaste en tijdelijke aanstellingen;  
 
-e. het opdragen van een andere functie op basis van [artikel 57 van het ARAR](../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+e. het opdragen van een andere functie op basis van artikel 57 van het ARAR;  
 
-f. het opdragen van tijdelijke andere werkzaamheden op basis van [artikel 58 van het ARAR](../../../../../../../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md);  
+f. het opdragen van tijdelijke andere werkzaamheden op basis van artikel 58 van het ARAR;  
 
 g. het bevorderen naar een hogere salarisschaal;  
 
@@ -256,7 +260,7 @@ h. het toekennen van beloningen.
 
 ### Artikel  6.2  
 
-Aan de teammanagers van de in artikel 2, tweede lid, onderdeel a tot en met g, genoemde organisatieonderdelen wordt, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 14 of lager van [bijlage B van het BBRA](../../../../../../../../../../AMvB/bezoldigingsbesluit/burgerlijke/rijksambtenaren/1984/BWBR0003630/README.md) geldt, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende: 
+Aan de teammanagers van de in artikel 2, tweede lid, onderdeel a tot en met g, genoemde organisatieonderdelen wordt, ieder voor zich, voor de onder hen ressorterende medewerkers voor wie salarisschaal 14 of lager van bijlage B van het BBRA geldt, mandaat, volmacht en machtiging verleend voor het nemen van besluiten inhoudende: 
 
 a. het verlenen van verlof;  
 
@@ -270,7 +274,7 @@ c. het accorderen van binnen- en buitenlandse dienstreizen en reiskostendeclarat
 
 ### Artikel  7.1  
 
-Het [Besluit organisatie, mandaat, volmacht en machtiging NMa 2009](../../../../../../../../../../zbo/besluit/organisatie/mandaat/volmacht/en/machtiging/nma/2009/BWBR0033310/README.md) (Stcrt., nr. 14819), het [Mandaatregister OPTA 2013](../../../../../../../../../../zbo/mandaatregister/opta/2013/BWBR0033290/README.md) (Stcrt., nr. 312) en het [Besluit organisatie, mandaat, volmacht en machtiging Consumentenautoriteit 2012](../../../../../../../../../../zbo/besluit/mandaat/volmacht/en/machtiging/consumentenautoriteit/2012/BWBR0033545/README.md) (Stcrt., nr. 76) worden ingetrokken. 
+Het Besluit organisatie, mandaat, volmacht en machtiging NMa 2009 (Stcrt., nr. 14819), het Mandaatregister OPTA 2013 (Stcrt., nr. 312) en het Besluit organisatie, mandaat, volmacht en machtiging Consumentenautoriteit 2012 (Stcrt., nr. 76) worden ingetrokken. 
 
 ### Artikel  7.2  
 

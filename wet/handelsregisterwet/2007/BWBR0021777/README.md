@@ -411,9 +411,9 @@ Vervallen
 ####Gebruik door bestuursorganen
 
 ### Artikel  30  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
-1.  Een bestuursorgaan dat bij de vervulling van zijn taak informatie over een onderneming of rechtspersoon nodig heeft die in de vorm van een authentiek gegeven beschikbaar is in het handelsregister, gebruikt voor die informatie dat gegeven.   
+1.  Een bestuursorgaan als bedoeld in artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht dat bij de vervulling van zijn taak informatie over een onderneming of rechtspersoon nodig heeft die in de vorm van een authentiek gegeven beschikbaar is in het handelsregister, gebruikt voor die informatie dat gegeven.   
 2.  Het eerste lid is niet van toepassing indien: 
 
 a. in het handelsregister is opgenomen dat een gegeven in onderzoek is;  
@@ -429,9 +429,9 @@ d. een goede vervulling van de taak van het bestuursorgaan door de onverkorte to
 ####Eenmalige gegevensverstrekking
 
 ### Artikel  31  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
-Een onderneming of rechtspersoon aan wie door een bestuursorgaan een gegeven wordt gevraagd, waarop artikel 30, eerste lid, van toepassing is, behoeft dat gegeven niet mede te delen, behoudens voor zover het gegeven noodzakelijk wordt geacht voor een deugdelijke vaststelling van de identiteit van de onderneming of rechtspersoon. 
+Een onderneming of rechtspersoon aan wie door een bestuursorgaan als bedoeld in artikel 1:1, eerste lid, onderdeel a, van de Algemene wet bestuursrecht een gegeven wordt gevraagd, waarop artikel 30, eerste lid, van toepassing is, behoeft dat gegeven niet mede te delen, behoudens voor zover het gegeven noodzakelijk wordt geacht voor een deugdelijke vaststelling van de identiteit van de onderneming of rechtspersoon. 
 
 ### Hoofdstuk  6  
 

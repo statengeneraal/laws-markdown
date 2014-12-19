@@ -40,7 +40,7 @@ b.  *belastingwet:* deze wet alsmede alle op deze wet berustende bepalingen;
 
 c.  *lichamen:* verenigingen en andere rechtspersonen, maat- en vennootschappen en doelvermogens;  
 
-d.  *BES belastingen:* de in artikel 1.2 genoemde belastingen alsmede de loonbelasting geheven op basis van de [Wet loonbelasting BES](../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en van inkomstenbelasting geheven op basis van de [Wet inkomstenbelasting BES](../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), waaronder worden begrepen de bestuurlijke boeten die ingevolge deze wet kunnen worden opgelegd of vastgesteld, interest, alsmede de kosten van vervolging;  
+d.  *BES belastingen:* de in artikel 1.2 genoemde belastingen alsmede de loonbelasting geheven op basis van de Wet loonbelasting BES en van inkomstenbelasting geheven op basis van de Wet inkomstenbelasting BES, waaronder worden begrepen de bestuurlijke boeten die ingevolge deze wet kunnen worden opgelegd of vastgesteld, interest, alsmede de kosten van vervolging;  
 
 e.  *Koninkrijk:* Koninkrijk der Nederlanden;  
 
@@ -48,7 +48,7 @@ f.  *Rijk:* het land Nederland, zijnde Nederland en de BES eilanden;
 
 g.  *Nederland:* het in Europa gelegen deel van het Rijk;  
 
-h.  *BES eilanden:* de openbare lichamen Bonaire, Sint Eustatius en Saba, met daar onder begrepen, met in achtneming van de [Rijkswet tot vaststelling van een zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba](../../../../rijkswet/rijkswet/tot/vaststelling/zeegrens/tussen/curaçao/en/bonaire/en/tussen/etc/BWBR0028093/README.md), het buiten de territoriale zee van de BES eilanden gelegen deel van de zeebodem en de ondergrond daarvan, voor zover het Koninkrijk daar op grond van het internationale recht ten behoeve van de exploratie en de exploitatie van natuurlijke rijkdommen soevereine rechten mag uitoefenen, alsmede de in, op of boven dat gebied aanwezige installaties en andere inrichtingen ten behoeve van de exploratie en exploitatie van natuurlijke rijkdommen in dat gebied;  
+h.  *BES eilanden:* de openbare lichamen Bonaire, Sint Eustatius en Saba, met daar onder begrepen, met in achtneming van de Rijkswet tot vaststelling van een zeegrens tussen Curaçao en Bonaire, en tussen Sint Maarten en Saba, het buiten de territoriale zee van de BES eilanden gelegen deel van de zeebodem en de ondergrond daarvan, voor zover het Koninkrijk daar op grond van het internationale recht ten behoeve van de exploratie en de exploitatie van natuurlijke rijkdommen soevereine rechten mag uitoefenen, alsmede de in, op of boven dat gebied aanwezige installaties en andere inrichtingen ten behoeve van de exploratie en exploitatie van natuurlijke rijkdommen in dat gebied;  
 
 i.  *binnenland:* de BES eilanden;  
 
@@ -144,9 +144,9 @@ d. een samenstel van twee of meer van de in onderdeel a of onderdeel b bedoelde 
 
 De belasting wordt niet geheven ter zake van voordelen uit: 
 
-a. onroerende zaken die als eigen woning worden aangemerkt als bedoeld in [artikel 4 van de Wet inkomstenbelasting BES](../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) en die de belastingplichtige als hoofdverblijf ter beschikking staan;  
+a. onroerende zaken die als eigen woning worden aangemerkt als bedoeld in artikel 4 van de Wet inkomstenbelasting BES en die de belastingplichtige als hoofdverblijf ter beschikking staan;  
 
-b. onroerende zaken die tot het vermogen van een onderneming behoren waarmee een belastingplichtige voor de inkomstenbelasting opbrengst als bedoeld in [artikel 6 van de Wet inkomstenbelasting BES](../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) verkrijgt;  
+b. onroerende zaken die tot het vermogen van een onderneming behoren waarmee een belastingplichtige voor de inkomstenbelasting opbrengst als bedoeld in artikel 6 van de Wet inkomstenbelasting BES verkrijgt;  
 
 c. onroerende zaken die in hoofdzaak zijn bestemd voor de openbare eredienst met uitzondering van delen van zodanige onroerende zaken die dienen als woning;  
 
@@ -164,7 +164,7 @@ i. vervallen;
 
 j. onroerende zaken, voor zover een lichaam dat op grond van artikel 5.2, in Nederland wordt geacht te zijn gevestigd het genot krachtens eigendom, bezit of beperkt recht heeft;  
 
-k. onroerende zaken, waarvan de waarde uitsluitend of nagenoeg uitsluitend wordt bepaald door de waarde van de daarvan deel uitmakende braakliggende grond, voor zover degene of degenen die het genot krachtens eigendom, bezit of beperkt recht heeft of hebben een natuurlijke persoon is of zijn en inwoner is of zijn van de BES eilanden, met dien verstande dat grond waarop een woning wordt gebouwd ook als braakliggende grond wordt aangemerkt, mits de te bouwen woning binnen 24 maanden na aanvang van de bouwactiviteiten voor degene of degenen die het genot krachtens eigendom, bezit of beperkt recht heeft of hebben, als een eigen woning als bedoeld in [artikel 4 van de Wet inkomstenbelasting BES](../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) wordt aangemerkt.  
+k. onroerende zaken, waarvan de waarde uitsluitend of nagenoeg uitsluitend wordt bepaald door de waarde van de daarvan deel uitmakende braakliggende grond, voor zover degene of degenen die het genot krachtens eigendom, bezit of beperkt recht heeft of hebben een natuurlijke persoon is of zijn en inwoner is of zijn van de BES eilanden, met dien verstande dat grond waarop een woning wordt gebouwd ook als braakliggende grond wordt aangemerkt, mits de te bouwen woning binnen 24 maanden na aanvang van de bouwactiviteiten voor degene of degenen die het genot krachtens eigendom, bezit of beperkt recht heeft of hebben, als een eigen woning als bedoeld in artikel 4 van de Wet inkomstenbelasting BES wordt aangemerkt.  
 
 ### Titel  4  
 
@@ -198,7 +198,7 @@ b. de sedert de stichting van de zaak opgetreden technische en functionele verou
 ### Artikel  4.8  
 
 1. Indien de onroerende zaak in het jaar voorafgaand aan het tijdvak van heffing of in de loop van het tijdvak van heffing wijzigt als gevolg van bouw, verbouwing, verbetering, afbraak of vernietiging wordt in afwijking van artikel 4.6, derde en vierde lid, de waarde bepaald naar de staat van die zaak bij het begin van het kalenderjaar volgend op dat waarin de genoemde wijziging zich heeft voorgedaan.  
-2.  Indien de waarde van een onroerende zaak door toepassing van het eerste lid hoger wordt vastgesteld, wordt deze waardestijging, voor zover deze voortvloeit uit bouw, verbouw, verbetering, uitbreiding of renovatie van de desbetreffende onroerende zaak, eerst in aanmerking genomen bij het begin van het elfde kalenderjaar volgend op het kalenderjaar waarin deze waardestijging zich heeft voorgedaan. De eerste volzin is niet van toepassing met betrekking tot onroerende zaken waarvan het genot krachtens eigendom, bezit of beperkt recht berust bij een rechtspersoon die op grond van [artikel 5.4 van de Douane- en Accijnswet BES](../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) is toegelaten tot een handels- en dienstenentrepot. Bij ministeriële regeling kunnen nadere voorwaarden worden gesteld met betrekking tot de vaststelling van de in de eerste volzin bedoelde waardestijging. 
+2.  Indien de waarde van een onroerende zaak door toepassing van het eerste lid hoger wordt vastgesteld, wordt deze waardestijging, voor zover deze voortvloeit uit bouw, verbouw, verbetering, uitbreiding of renovatie van de desbetreffende onroerende zaak, eerst in aanmerking genomen bij het begin van het elfde kalenderjaar volgend op het kalenderjaar waarin deze waardestijging zich heeft voorgedaan. De eerste volzin is niet van toepassing met betrekking tot onroerende zaken waarvan het genot krachtens eigendom, bezit of beperkt recht berust bij een rechtspersoon die op grond van artikel 5.4 van de Douane- en Accijnswet BES is toegelaten tot een handels- en dienstenentrepot. Bij ministeriële regeling kunnen nadere voorwaarden worden gesteld met betrekking tot de vaststelling van de in de eerste volzin bedoelde waardestijging. 
 
 ### Titel  5  
 
@@ -262,17 +262,17 @@ c. het lichaam:
 2°. voor ten minste een periode van 24 maanden een op de BES eilanden gelegen onroerende zaak of een deel van een onroerende zaak ter waarde van ten minste USD 50 000 ter beschikking heeft voor de uitvoering van de bedrijfsactiviteiten van het lichaam en, ingeval dit lichaam zich bezighoudt met financiële dienstverlening, royaltybetalingen, verzekerings- en herverzekeringsactiviteiten, daaronder mede begrepen diensten ter zake van het optreden als directie van vennootschappen waarvan de statutaire zetel of feitelijke leiding op de BES eilanden gevestigd is en andere dienstverlening ter zake van het trustbedrijf, zich daarin een eigen kantoor bevindt dat is voorzien van in de financiële sector gebruikelijke faciliteiten.       
 3.  Het eerste lid is niet van toepassing op een lichaam: 
 
-a. dat is toegelaten tot een handels- en dienstenentrepot als bedoeld in [hoofdstuk V van de Douane- en Accijnswet BES](../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md); of  
+a. dat is toegelaten tot een handels- en dienstenentrepot als bedoeld in hoofdstuk V van de Douane- en Accijnswet BES; of  
 
-b. waarvan de inspecteur op verzoek van dat lichaam bij voor bezwaar vatbare beschikking heeft vastgesteld dat dat lichaam voor ten minste 95 percent deelneemt in een lichaam dat is toegelaten tot een handels- en dienstenentrepot als bedoeld in [hoofdstuk V van de Douane- en Accijnswet BES](../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) of dat een beschikking heeft ontvangen als bedoeld in het tweede lid.     
+b. waarvan de inspecteur op verzoek van dat lichaam bij voor bezwaar vatbare beschikking heeft vastgesteld dat dat lichaam voor ten minste 95 percent deelneemt in een lichaam dat is toegelaten tot een handels- en dienstenentrepot als bedoeld in hoofdstuk V van de Douane- en Accijnswet BES of dat een beschikking heeft ontvangen als bedoeld in het tweede lid.     
 4.  De in het tweede en derde lid bedoelde beschikking vervalt direct na het moment waarop het lichaam: 
 
 a. naar de omstandigheden beoordeeld niet meer op de BES eilanden is gevestigd;  
 
-b. wordt toegelaten tot een handels- en dienstenentrepot als bedoeld in [hoofdstuk V van de Douane- en Accijnswet BES](../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), of  
+b. wordt toegelaten tot een handels- en dienstenentrepot als bedoeld in hoofdstuk V van de Douane- en Accijnswet BES, of  
 
 c. niet meer voldoet aan de in het tweede of derde lid bedoelde vereisten.     
-5.  Op het begrip deelneming als bedoeld in het tweede lid, onderdeel b, en artikel 5.7, onderdeel a, is [artikel 13, tweede lid, van de Wet op de vennootschapsbelasting 1969](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) van overeenkomstige toepassing.   
+5.  Op het begrip deelneming als bedoeld in het tweede lid, onderdeel b, en artikel 5.7, onderdeel a, is artikel 13, tweede lid, van de Wet op de vennootschapsbelasting 1969 van overeenkomstige toepassing.   
 6.  Voor de toepassing van het tweede lid, onderdeel b, worden activa waarvan het gebruik of gebruiksrecht ter beschikking wordt gesteld aan natuurlijke personen die op de BES eilanden verblijven maar niet op de BES eilanden wonen niet beschouwd als activa waarvan het gebruik of gebruiksrecht ter beschikking wordt gesteld aan natuurlijke personen die buiten de BES eilanden wonen.   
 7.  Als aan de voorwaarden wordt voldaan, wordt het verzoek, bedoeld in de aanhef van het tweede lid of het derde lid, onderdeel b, ingewilligd met ingang van de aanvang van het in het verzoek aangegeven kalenderjaar, doch niet eerder dan zes maanden voor het tijdstip waarop het verzoek door de inspecteur is ontvangen.  
 
@@ -328,7 +328,7 @@ a. de opbrengst van aandelen, lidmaatschapsbewijzen, winstbewijzen en bewijzen v
 
 b. uitdelingen toegekend door een stichting of een doelvermogen aan, of ten behoeve van, binnen het Rijk gevestigde of georganiseerde kerkelijke, levensbeschouwelijke, charitatieve, culturele, wetenschappelijke instellingen of doelen bij welke de behartiging van het algemeen nut of een sociaal belang op de voorgrond staat, alsmede uitdelingen aan of ten behoeve van door Onze Minister als zodanig aangemerkte buiten het Rijk gevestigde of georganiseerde instellingen en doelen;  
 
-c. uitdelingen gedaan door een stichting of doelvermogen, voor zover deze uitdelingen zijn aan te merken als uitkeringen in het kader van een pensioenregeling als bedoeld in [artikel 6A van de Wet loonbelasting BES](../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md).   
+c. uitdelingen gedaan door een stichting of doelvermogen, voor zover deze uitdelingen zijn aan te merken als uitkeringen in het kader van een pensioenregeling als bedoeld in artikel 6A van de Wet loonbelasting BES.   
 
 ### Titel  5  
 
@@ -361,7 +361,7 @@ b. dubbelen van de nota’s te vervaardigen en gedurende vijf jaren op serie en 
 ### Artikel  5.10  
 
 1.  Onverlet de verplichtingen van artikel 5.9 is elk op de BES eilanden gevestigd lichaam gehouden jaarlijks binnen negen maanden na afloop van het boekjaar een door de bestuurder van het lichaam gewaarmerkt afschrift van de jaarrekening, bestaande uit een balans, winst- en verliesrekening en toelichting op deze stukken bij de inspecteur in te dienen.   
-2.  De jaarrekening dient te zijn opgesteld volgens de bepalingen van [artikel 15, Boek 2, van het Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md), dan wel volgens soortgelijke buitenlandse regelingen. Onze Minister kan nadere regels geven voor de opstelling van de jaarrekening.   
+2.  De jaarrekening dient te zijn opgesteld volgens de bepalingen van artikel 15, Boek 2, van het Burgerlijk Wetboek BES, dan wel volgens soortgelijke buitenlandse regelingen. Onze Minister kan nadere regels geven voor de opstelling van de jaarrekening.   
 3.  De inspecteur reikt tegen ontvangst van de jaarrekening een ontvangstbewijs uit.   
 4.  De inspecteur kan onder door hem te stellen voorwaarden uitstel voor het indienen van de jaarrekening verlenen.  
 
@@ -383,11 +383,11 @@ b.  *producent:* een ondernemer die in een openbaar lichaam goederen voortbrengt
 
 c.  *handels- en dienstenentrepot:* handels- en dienstenentrepot als bedoeld in de Douane- en Accijnswet BES;  
 
-d.  *douanewetgeving:* de [hoofdstukken I](../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md), [II](../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [III van de Douane- en Accijnswet BES](../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md);  
+d.  *douanewetgeving:* de hoofdstukken I, II en III van de Douane- en Accijnswet BES;  
 
 e.  *douaneregime:* een in de douanewetgeving voorzien regime voor onder douanetoezicht geplaatste goederen;  
 
-f.  *personenauto:* een motorrijtuig, met uitzondering van bij ministeriële regeling aan te wijzen motorrijtuigen, dat een personenauto is in de zin van de [Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), alsmede elk ander mede voor het vervoer van vier of meer personen ingericht motorrijtuig op drie of meer wielen;  
+f.  *personenauto:* een motorrijtuig, met uitzondering van bij ministeriële regeling aan te wijzen motorrijtuigen, dat een personenauto is in de zin van de Wet op de belasting van personenauto’s en motorrijwielen 1992, alsmede elk ander mede voor het vervoer van vier of meer personen ingericht motorrijtuig op drie of meer wielen;  
 
 g. *CO<sub>2</sub>-uitstoot van een personenauto:* de CO<sub>2</sub>-uitstoot gemeten overeenkomstig bijlage XII bij Verordening (EG) nr. 692/2008 van de Commissie van 18 juli 2008 tot uitvoering en wijziging van Verordening (EG) nr. 715/2007 van het Europees Parlement en de Raad betreffende de type goedkeuring van motorvoertuigen met betrekking tot emissies van lichte personen- en bedrijfsvoertuigen (Euro 5 en Euro 6) en de toegang tot reparatie- en onderhoudsinformatie (PbEU 2008, L 199). Indien de meting mede met LPG of aardgas als brandstof is uitgevoerd, wordt de CO<sub>2</sub>-uitstoot van de auto met LPG of aardgas als brandstofsoort gehanteerd;  
 
@@ -506,7 +506,7 @@ De plaats van door een ondernemer, een andere dan een BES ondernemer, verrichte 
 1.  De plaats van dienst van kortdurende en andere dan kortdurende verhuur van een vervoermiddel, verricht door een ondernemer, een andere dan een BES ondernemer, is de plaats waar dat vervoermiddel daadwerkelijk ter beschikking van de afnemer wordt gesteld.   
 2.  In afwijking van het eerste lid is de plaats van dienst van andere dan kortdurende verhuur van een vervoermiddel bij verhuur aan: 
 
-a. een andere dan een ondernemer die gevestigd is of woont in de Unie, genoemd in [artikel 2a, eerste lid, onderdeel c, van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), de plaats waar die afnemer gevestigd is of woont;  
+a. een andere dan een ondernemer die gevestigd is of woont in de Unie, genoemd in artikel 2a, eerste lid, onderdeel c, van de Wet op de omzetbelasting 1968, de plaats waar die afnemer gevestigd is of woont;  
 
 b. een ondernemer die de zetel van zijn bedrijfsuitoefening heeft in de Unie, genoemd in onderdeel a, of in die Unie over een vaste inrichting beschikt die de dienst afneemt, of, bij gebreke van een dergelijke zetel of vaste inrichting, zijn woonplaats of gebruikelijke verblijfplaats in die Unie heeft, de plaats waar die afnemer de zetel van zijn bedrijfsuitoefening heeft gevestigd, of zijn woonplaats of gebruikelijke verblijfplaats heeft.     
 3.  In afwijking van het eerste en tweede lid is de plaats van dienst van andere dan kortdurende verhuur van een pleziervaartuig aan een afnemer, een andere dan een in het tweede lid, onderdeel b, bedoelde ondernemer, de plaats waar het pleziervaartuig effectief ter beschikking van de afnemer wordt gesteld, indien deze dienst daadwerkelijk door de dienstverrichter wordt verricht vanuit de zetel van zijn bedrijfsuitoefening of een vaste inrichting aldaar.   
@@ -514,7 +514,7 @@ b. een ondernemer die de zetel van zijn bedrijfsuitoefening heeft in de Unie, ge
 
 ### Artikel  6.7h  
 
-1.  De plaats van elektronische diensten als bedoeld in [artikel 2a, eerste lid, onderdeel q, van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), die worden verricht voor een andere dan ondernemer die in een openbaar lichaam gevestigd is of daar zijn woonplaats of gebruikelijke verblijfplaats heeft, door een ondernemer die de zetel van zijn bedrijfsuitoefening buiten de BES eilanden heeft gevestigd of daar over een vaste inrichting beschikt van waaruit de dienst wordt verricht, of, bij gebreke van een dergelijke zetel of vaste inrichting, zijn woonplaats of gebruikelijke verblijfplaats buiten de BES eilanden heeft, is de plaats waar de andere dan ondernemer gevestigd is of zijn woonplaats of gebruikelijke verblijfplaats heeft.   
+1.  De plaats van elektronische diensten als bedoeld in artikel 2a, eerste lid, onderdeel q, van de Wet op de omzetbelasting 1968, die worden verricht voor een andere dan ondernemer die in een openbaar lichaam gevestigd is of daar zijn woonplaats of gebruikelijke verblijfplaats heeft, door een ondernemer die de zetel van zijn bedrijfsuitoefening buiten de BES eilanden heeft gevestigd of daar over een vaste inrichting beschikt van waaruit de dienst wordt verricht, of, bij gebreke van een dergelijke zetel of vaste inrichting, zijn woonplaats of gebruikelijke verblijfplaats buiten de BES eilanden heeft, is de plaats waar de andere dan ondernemer gevestigd is of zijn woonplaats of gebruikelijke verblijfplaats heeft.   
 2.  Het feit dat de dienstverrichter en de afnemer langs elektronische weg berichten uitwisselen, betekent op zich niet dat de verrichte dienst een elektronische dienst is.  
 
 ### Artikel  6.7i  
@@ -537,11 +537,11 @@ g. de verhuur van roerende lichamelijke zaken, met uitzondering van alle vervoer
 
 h. het bieden van toegang tot aardgas- en elektriciteitsdistributiesystemen alsmede het verrichten van transport- en transmissiediensten via deze systemen en het verrichten van andere daarmee rechtstreeks verbonden diensten;  
 
-i. telecommunicatiediensten als bedoeld in [artikel 2a, eerste lid, onderdeel r, van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md);  
+i. telecommunicatiediensten als bedoeld in artikel 2a, eerste lid, onderdeel r, van de Wet op de omzetbelasting 1968;  
 
 j. radio- en televisieomroepdiensten;  
 
-k. elektronische diensten als bedoeld in [artikel 2a, eerste lid, onderdeel q, van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).     
+k. elektronische diensten als bedoeld in artikel 2a, eerste lid, onderdeel q, van de Wet op de omzetbelasting 1968.     
 2.  In afwijking van het eerste lid worden de diensten, genoemd in dat lid, die worden verricht voor een andere dan ondernemer, verricht in een openbaar lichaam, wanneer het werkelijk gebruik en de werkelijke exploitatie in dat openbaar lichaam plaatsvinden.  
 3.  Het feit dat de dienstverrichter en de afnemer langs elektronische weg berichten uitwisselen, betekent op zich niet dat de verrichte dienst een elektronische dienst is.  
 
@@ -555,7 +555,7 @@ b. diensten als bedoeld in artikel 6.7i, eerste lid, onderdelen i en j, die word
 
 ### Artikel  6.7k  
 
-Voor de toepassing van de regels voor de plaats van dienst in dit hoofdstuk en de daarop gebaseerde bepalingen wordt een ondernemer die ook werkzaamheden verricht die overeenkomstig [artikel 7, zevende lid, onderdeel a, van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) niet als belastbare goederenleveringen of diensten worden beschouwd, met betrekking tot alle voor hem verrichte diensten als ondernemer aangemerkt. 
+Voor de toepassing van de regels voor de plaats van dienst in dit hoofdstuk en de daarop gebaseerde bepalingen wordt een ondernemer die ook werkzaamheden verricht die overeenkomstig artikel 7, zevende lid, onderdeel a, van de Wet op de omzetbelasting 1968 niet als belastbare goederenleveringen of diensten worden beschouwd, met betrekking tot alle voor hem verrichte diensten als ondernemer aangemerkt. 
 
 ### Artikel  6.7l  
 
@@ -629,19 +629,19 @@ c. de in dat tweede lid, onderdeel b, bedoelde belasting 18, 22 of 30 percent, 
 
 1.  Onder bij ministeriële regeling vast te stellen voorwaarden en beperkingen zijn van de belasting vrijgesteld: 
 
-a. de levering van eerste levensbehoeften, voor zover behorend tot bij ministeriële regeling aan te wijzen hoofdstukken of posten van het geharmoniseerde systeem, genoemd in [artikel 3.1 tweede lid, onderdeel a, van de Douane- en Accijnswet BES](../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md); 
+a. de levering van eerste levensbehoeften, voor zover behorend tot bij ministeriële regeling aan te wijzen hoofdstukken of posten van het geharmoniseerde systeem, genoemd in artikel 3.1 tweede lid, onderdeel a, van de Douane- en Accijnswet BES; 
 
 b. de diensten bestaande uit het verzorgen van het openbaar personenvervoer over de weg, schoolbusdiensten daaronder mede begrepen;  
 
 c. de diensten die door ziekenhuizen, laboratoria voor medisch onderzoek, artsen, tandartsen, tandtechnici, verpleeg- en verloskundigen, fysio- en oefentherapeuten, chiropractors, logopedisten, diëtisten, podotherapeuten en psychologen als zodanig worden verricht;  
 
-d. de levering van geneesmiddelen voor menselijk gebruik op recept van een arts in de zin van het [Besluit geneeskunde BES](../../../../AMvB-BES/besluit/geneeskunde/bes/BWBR0028449/README.md);  
+d. de levering van geneesmiddelen voor menselijk gebruik op recept van een arts in de zin van het Besluit geneeskunde BES;  
 
 e. de levering van medische kunst- en hulpmiddelen, waarbij onder medische kunst- en hulpmiddelen worden verstaan orthopedische artikelen en toestellen – daaronder begrepen medisch-chirurgische gordels en banden alsmede krukken – kunstgebitten, kunsttanden, kunstogen, kunstledematen en dergelijke artikelen, hoorapparaten voor hardhorigen, breukspalken en andere artikelen en apparaten voor de behandeling van breuken in het beendergestel;  
 
 f. de verzorging van niet-commercieel onderwijs;  
 
-g. de verzorging van postzendingen die de houder van de concessie ingevolge het bepaalde bij en krachtens [artikel 2, tweede lid, van de Wet post BES](../../../../wet-BES/wet/post/bes/BWBR0028263/README.md), verplicht is te vervoeren;  
+g. de verzorging van postzendingen die de houder van de concessie ingevolge het bepaalde bij en krachtens artikel 2, tweede lid, van de Wet post BES, verplicht is te vervoeren;  
 
 h. de levering van water, elektriciteit en gas door waterleidings-, elektriciteits- en gasbedrijven alsmede de levering van brandstoffen voor de opwekking van energie aan die bedrijven;  
 
@@ -649,7 +649,7 @@ i. de levering van een onroerende zaak, een andere dan een nieuw vervaardigd geb
 
 j. de levensverzekeringen, ziektekostenverzekeringen en herverzekeringen door verzekeringsmaatschappijen, alsmede de diensten door tussenpersonen bij verzekeringen, waarbij onder levensverzekering wordt verstaan een verzekering die uitsluitend of nagenoeg uitsluitend ten doel heeft een of meerdere termijnen van uitkering te verzorgen, en welke afhankelijk is van het leven van de verzekerde, daaronder mede begrepen uitvaartverzekeringen, ongeacht de wijze van uitkering;  
 
-k. de verhuur in een openbaar lichaam van hotelkamers en appartementen, indien in dat openbaar lichaam ter zake van die diensten een toeristenbelasting als bedoeld in [artikel 53 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../wet-BES/wet/financiën/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028151/README.md), verschuldigd is op grond van een eilandsverordening;  
+k. de verhuur in een openbaar lichaam van hotelkamers en appartementen, indien in dat openbaar lichaam ter zake van die diensten een toeristenbelasting als bedoeld in artikel 53 van de Wet financiën openbare lichamen Bonaire, Sint Eustatius en Saba, verschuldigd is op grond van een eilandsverordening;  
 
 l. de kansspelen in de zin van artikel 7a.2;  
 
@@ -671,7 +671,7 @@ q. de leveringen van brandstoffen, smeermiddelen en andere vloeistoffen, bestemd
 
 4°. luchtvaartuigen;    
 
-r. de diensten, als bedoeld in [artikel 5.2, eerste lid van de Douane en Accijnswet BES](../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) die door een in een handels- en dienstenentrepot gevestigde ondernemer als zodanig worden verricht;  
+r. de diensten, als bedoeld in artikel 5.2, eerste lid van de Douane en Accijnswet BES die door een in een handels- en dienstenentrepot gevestigde ondernemer als zodanig worden verricht;  
 
 s. leveringen van goederen aan een in een handels- en dienstenentrepot gevestigde ondernemer, voor zover die goederen worden gebruikt ten behoeve van de in dat entrepot aanwezige goederen en bedrijfsmiddelen van die ondernemer;  
 
@@ -776,11 +776,11 @@ b. het in een openbaar lichaam beëindigen van een douaneregime voor zover dit r
 c. het van buiten een openbaar lichaam brengen van goederen in een in dat openbaar lichaam ingesteld handels- en dienstenentrepot;  
 
 d. de uitslag uit een handels- en dienstenentrepot van goederen die onder een douaneregime worden gebracht of worden ingeslagen in een ander handels- en dienstenentrepot.     
-3.  In afwijking in zoverre van het eerste en tweede lid wordt voor accijnsgoederen in de zin van [hoofdstuk 4 van de Douane- en Accijnswet BES](../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) als invoer van goederen aangemerkt: 
+3.  In afwijking in zoverre van het eerste en tweede lid wordt voor accijnsgoederen in de zin van hoofdstuk 4 van de Douane- en Accijnswet BES als invoer van goederen aangemerkt: 
 
-a. uitslag in de zin van [artikel 4.4 van de Douane- en Accijnswet BES](../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md);  
+a. uitslag in de zin van artikel 4.4 van de Douane- en Accijnswet BES;  
 
-b. invoer in de zin van [artikel 4.5 van de Douane- en Accijnswet BES](../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md).   
+b. invoer in de zin van artikel 4.5 van de Douane- en Accijnswet BES.   
 
 ### Afdeling  2  
 
@@ -936,7 +936,7 @@ c.  *schepen:* op de BES eilanden geregistreerde schepen, metende ten minste 20 
 
 ### Artikel  7.2  
 
-Onverminderd de bepalingen van het Burgerlijk Wetboek en het [Wetboek van Koophandel](../../../../wet/wetboek/van/koophandel/BWBR0001838/README.md) omtrent overdracht van onroerende zaken en schepen, moeten oprichtingen van een naamloze vennootschap, besloten vennootschap, coöperatie of vereniging waarbij onroerende zaken of schepen worden ingebracht, op straffe van nietigheid geschieden bij op de BES eilanden verleden authentieke akte. 
+Onverminderd de bepalingen van het Burgerlijk Wetboek en het Wetboek van Koophandel omtrent overdracht van onroerende zaken en schepen, moeten oprichtingen van een naamloze vennootschap, besloten vennootschap, coöperatie of vereniging waarbij onroerende zaken of schepen worden ingebracht, op straffe van nietigheid geschieden bij op de BES eilanden verleden authentieke akte. 
 
 ### Titel  2  
 
@@ -1070,7 +1070,7 @@ c. gebleken is dat te veel of ten onrechte overdrachtsbelasting is betaald.
 ### Artikel  7.20  
 
 1.  Het Rijk heeft voor de belasting en de boete een voorrecht gedurende twee jaren na de dagtekening van de akte of bij ontstentenis van een akte gedurende twee jaren volgend op het jaar waarin de overdracht heeft plaatsgevonden.   
-2.  Het in het eerste lid bedoelde voorrecht gaat boven hypotheek en alle andere voorrechten, met uitzondering van die van [artikel 288, onder a, van Boek 3 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md).  
+2.  Het in het eerste lid bedoelde voorrecht gaat boven hypotheek en alle andere voorrechten, met uitzondering van die van artikel 288, onder a, van Boek 3 van het Burgerlijk Wetboek.  
 
 ### Artikel  7.21  
 
@@ -1110,9 +1110,9 @@ b. andere in het kader van het hoofdstuk passende regels worden gesteld inzake d
 
 Onder de naam «kansspelbelasting» wordt een directe belasting geheven van: 
 
-a. degene die gelegenheid geeft tot deelname aan binnenlandse kansspelen en aan wie daarvoor een vergunning is verleend als bedoeld in de [Wet hazardspelen BES I](../../../../wet-BES/wet/hazardspelen/bes/i/BWBR0028450/README.md) of de [Wet hazardspelen BES II](../../../../wet-BES/wet/hazardspelen/bes/ii/BWBR0028244/README.md);  
+a. degene die gelegenheid geeft tot deelname aan binnenlandse kansspelen en aan wie daarvoor een vergunning is verleend als bedoeld in de Wet hazardspelen BES I of de Wet hazardspelen BES II;  
 
-b. degene die gelegenheid geeft tot deelname aan een binnenlands kansspel en aan wie daarvoor een vergunning is verleend als bedoeld in de [Loterijwet BES](../../../../wet-BES/loterijwet/bes/BWBR0028260/README.md);  
+b. degene die gelegenheid geeft tot deelname aan een binnenlands kansspel en aan wie daarvoor een vergunning is verleend als bedoeld in de Loterijwet BES;  
 
 c. de gerechtigden tot de prijzen van binnenlandse kansspelen, niet zijnde kansspelen waarvoor degene, bedoeld in onderdeel a of b, gelegenheid biedt;  
 
@@ -1261,7 +1261,7 @@ b. vorderbaar en tevens inbaar wordt.
 ####Uitstel indiening
 
 1.  De inspecteur kan onder door hem te stellen voorwaarden uitstel verlenen voor het indienen van het aangiftebiljet. Uitstel wordt niet langer verleend dan tot achttien maanden na de datum waarop de belastingschuld is ontstaan.   
-2.  In afwijking van hetgeen in deze wet is bepaald, is de belastingplichtige die voornemens is de BES eilanden metterwoon te verlaten dan wel voornemens is zijn plaats van vestiging over te brengen naar een niet op de BES eilanden gelegen plaats, verplicht terstond aangifte te doen voor de inkomstenbelasting, bedoeld in de [Wet inkomstenbelasting BES](../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md), de opbrengstbelasting en de algemene bestedingsbelasting tot het einde van de belastingplicht.  
+2.  In afwijking van hetgeen in deze wet is bepaald, is de belastingplichtige die voornemens is de BES eilanden metterwoon te verlaten dan wel voornemens is zijn plaats van vestiging over te brengen naar een niet op de BES eilanden gelegen plaats, verplicht terstond aangifte te doen voor de inkomstenbelasting, bedoeld in de Wet inkomstenbelasting BES, de opbrengstbelasting en de algemene bestedingsbelasting tot het einde van de belastingplicht.  
 
 ### Afdeling  2  
 
@@ -1311,7 +1311,7 @@ a. een voorlopige aanslag, een voorheffing, of een voorlopige teruggaaf ten onre
 
 b. een bij de belastingplichtige in aanmerking te nemen bestanddeel van het voorwerp van enige belasting ten onrechte in aanmerking is genomen bij hem of bij zijn echtgenoot;  
 
-c. de belastingvrije som of de kindertoeslag als bedoeld in [artikel 24, tweede, onderscheidenlijk derde lid, van de Wet inkomstenbelasting BES](../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) ten onrechte of tot een te hoog bedrag is verleend.     
+c. de belastingvrije som of de kindertoeslag als bedoeld in artikel 24, tweede, onderscheidenlijk derde lid, van de Wet inkomstenbelasting BES ten onrechte of tot een te hoog bedrag is verleend.     
 3.  De bevoegdheid tot het opleggen van een navorderingsaanslag als bedoeld in het eerste en tweede lid vervalt door verloop van vijf jaar na het ontstaan van de belastingschuld.   
 4.  Indien te weinig belasting is geheven over het bestanddeel van het voorwerp van enige belasting dat in het buitenland wordt gehouden of is opgekomen, vervalt, in afwijking van het derde lid, de bevoegdheid tot navorderen door verloop van twaalf jaren na het tijdstip waarop de belastingschuld is ontstaan.  
 
@@ -1621,7 +1621,7 @@ d. op de oudste openstaande aanslagen of termijnen.
 
 Naast het bepaalde in de artikelen 8.96 en 8 102 wordt de verplichting tot betaling van de BES belastingen niet geschorst door: 
 
-a. verkrijging van surseance van betaling voor zover volgens het [Faillissementswet BES](../../../../wet-BES/faillissementswet/bes/BWBR0028917/README.md) de surseance ten aanzien van de verplichting tot betaling niet werkt;  
+a. verkrijging van surseance van betaling voor zover volgens het Faillissementswet BES de surseance ten aanzien van de verplichting tot betaling niet werkt;  
 
 b. door het voorbehouden recht van beraad;  
 
@@ -1648,7 +1648,7 @@ Een belastingaanslag is door de belastingschuldige in zijn geheel verschuldigd.
 1.  Een belastingaanslag is invorderbaar twee maanden na de dagtekening van het aanslagbiljet.   
 2.  In afwijking van het eerste lid is een voorlopige aanslag, gedagtekend vóór 1 november van het belastingjaar waarop deze betrekking heeft, invorderbaar in zoveel gelijke termijnen als er na de maand van dagtekening van het aanslagbiljet nog maanden in het belastingjaar overblijven. Op de laatste dag van elk van die maanden vervalt een termijn.   
 3.  In afwijking van het eerste lid is een naheffingsaanslag alsmede een navorderingsaanslag invorderbaar een maand na dagtekening van het aanslagbiljet.   
-4.  De [Algemene termijnenwet](../../../../wet/algemene/termijnenwet/BWBR0002448/README.md) is niet van toepassing op de in de voorgaande leden gestelde termijnen.  
+4.  De Algemene termijnenwet is niet van toepassing op de in de voorgaande leden gestelde termijnen.  
 
 ### Afdeling  3  
 
@@ -1690,7 +1690,7 @@ c. in alle gevallen de last tot betaling.
 
 ####Betekening door de belastingdeurwaarder
 
-Alle exploten en andere akten van vervolging voor de invordering van BES belastingen worden betekend door belastingdeurwaarders ten verzoeke van de ontvanger overeenkomstig de bepalingen van het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md). 
+Alle exploten en andere akten van vervolging voor de invordering van BES belastingen worden betekend door belastingdeurwaarders ten verzoeke van de ontvanger overeenkomstig de bepalingen van het Wetboek van Burgerlijke Rechtsvordering BES. 
 
 ### Artikel  8.49  
 
@@ -1747,7 +1747,7 @@ b. het dwangschrift onmiddellijk na het bevel tot betaling, of, indien zodanig b
 
 1.  Al degenen, die gelden aan belastingschuldigen toekomende onder zich hebben alsmede allen, die schuldenaar zijn van opeisbare vorderingen van belastingschuldigen, zijn verplicht op de daartoe gedane vordering van de ontvanger, voor zover de gelden die onder hen berusten of door hen verschuldigd strekken voor rekening van de belastingschuldige en vatbaar zijn voor beslag, de door deze verschuldigde sommen te betalen zonder daartoe een rangregeling, verificatie of rechterlijk bevel af te wachten, tenzij onder hen beslag is gelegd of verzet gedaan is ter zake van vorderingen waaraan voorrang boven de vorderingen van ‘s Rijks schatkist is toegekend. Zij zijn zelfs bevoegd de betaling uit eigen beweging te doen, voordat zij tot afgifte van de gelden of tot voldoening van het door hen verschuldigde overgaan. Voldoening aan de vordering geldt als betaling aan de belastingschuldige.   
 2.  De belastingschuldige kan op voet van artikel 8.53 in verzet komen tegen de vordering als ware deze de tenuitvoerlegging van een dwangschrift.   
-3.  De ontvanger vervolgt degene die in gebreke blijft aan de vordering te voldoen bij executoriaal beslag volgens de regels in [Boek 2, titel 2, afdeling 2, van het Wetboek van Burgerlijke Rechtsvordering BES](../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md). De kosten van vervolging komen voor rekening van degene die in gebreke blijft aan de vordering te voldoen, zonder recht van verhaal op de belastingschuldige.  
+3.  De ontvanger vervolgt degene die in gebreke blijft aan de vordering te voldoen bij executoriaal beslag volgens de regels in Boek 2, titel 2, afdeling 2, van het Wetboek van Burgerlijke Rechtsvordering BES. De kosten van vervolging komen voor rekening van degene die in gebreke blijft aan de vordering te voldoen, zonder recht van verhaal op de belastingschuldige.  
 
 ### Afdeling  4  
 
@@ -1762,7 +1762,7 @@ b. het dwangschrift onmiddellijk na het bevel tot betaling, of, indien zodanig b
 ####Voorrecht
 
 1.  ‘s Rijks schatkist heeft een voorrecht op alle goederen van de belastingschuldige.   
-2.  Het voorrecht gaat boven alle andere voorrechten met uitzondering van die van de [artikelen 287](../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) en [288, onderdeel a, van Boek 3 van het Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md), alsmede dat van [artikel 284 van Boek 3 van het Burgerlijk Wetboek BES](../../../../wet-BES/burgerlijk/wetboek/bes/boek/3/BWBR0028745/README.md) voor zover de kosten zijn gemaakt na de dagtekening van het aanslagbiljet. Het voorrecht gaat tevens boven pand, voor zover het pandrecht rust op een zaak of vrucht als is bedoeld in artikel 8.56 die zich bevindt in het bezit van de schuldenaar of in het huis, in de bedrijfsruimte of op het erf, door hem bewoond of bij hem in gebruik en tegen inbeslagneming waarvan derden zich op die grond niet kunnen verzetten. Het behoudt deze rang in geval van faillissement van de belastingschuldige, ongeacht of tevoren inbeslagneming heeft plaatsgevonden.  
+2.  Het voorrecht gaat boven alle andere voorrechten met uitzondering van die van de artikelen 287 en 288, onderdeel a, van Boek 3 van het Burgerlijk Wetboek BES, alsmede dat van artikel 284 van Boek 3 van het Burgerlijk Wetboek BES voor zover de kosten zijn gemaakt na de dagtekening van het aanslagbiljet. Het voorrecht gaat tevens boven pand, voor zover het pandrecht rust op een zaak of vrucht als is bedoeld in artikel 8.56 die zich bevindt in het bezit van de schuldenaar of in het huis, in de bedrijfsruimte of op het erf, door hem bewoond of bij hem in gebruik en tegen inbeslagneming waarvan derden zich op die grond niet kunnen verzetten. Het behoudt deze rang in geval van faillissement van de belastingschuldige, ongeacht of tevoren inbeslagneming heeft plaatsgevonden.  
 
 ### Artikel  8.56  
 
@@ -1782,7 +1782,7 @@ b. het dwangschrift onmiddellijk na het bevel tot betaling, of, indien zodanig b
 1.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot de gevallen waarin de ontvanger uitstel van betaling verleent.   
 2.  De ontvanger beslist bij voor bezwaar vatbare beschikking op een verzoek om uitstel van betaling.   
 3.  Gedurende het uitstel van betaling wordt op grond van artikel 8.44, tweede lid, interest in rekening gebracht.   
-4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het verlenen van uitstel van betaling voor de duur van tien jaren – te rekenen vanaf de laatste dag van het kalenderjaar waarin de belastingplichtige de BES eilanden metterwoon heeft verlaten – mits voldoende zekerheid is gesteld, voor belastingaanslagen voor zover daarin is begrepen inkomstenbelasting ter zake van de vervreemding van tot een aanmerkelijk belang behorende aandelen en winstbewijzen waarbij de [Wet inkomstenbelasting BES](../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) toepassing heeft gevonden, alsmede met betrekking tot het beëindigen van het uitstel van betaling.  
+4.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot het verlenen van uitstel van betaling voor de duur van tien jaren – te rekenen vanaf de laatste dag van het kalenderjaar waarin de belastingplichtige de BES eilanden metterwoon heeft verlaten – mits voldoende zekerheid is gesteld, voor belastingaanslagen voor zover daarin is begrepen inkomstenbelasting ter zake van de vervreemding van tot een aanmerkelijk belang behorende aandelen en winstbewijzen waarbij de Wet inkomstenbelasting BES toepassing heeft gevonden, alsmede met betrekking tot het beëindigen van het uitstel van betaling.  
 
 ### Artikel  8.58  
 
@@ -1889,7 +1889,7 @@ c. degene, die de leiding heeft van op de BES eilanden verrichte werkzaamheden.
 
 1.  Voor de loonbelasting welke de inhoudingsplichtige verschuldigd is in verband met het verrichten van werkzaamheden door een werknemer die met instandhouding van de dienstbetrekking tot de inhoudingsplichtige, de uitlener, door deze ter beschikking is gesteld van een derde, de inlener, om onder diens toezicht of leiding werkzaam te zijn, is de inlener of ingeval doorlening plaatsvindt, de in het tweede lid bedoelde doorlener, hoofdelijk aansprakelijk behoudens voor zover hij aantoont dat ten aanzien van hem een te hoog bedrag aan belasting in aanmerking is genomen.   
 2.  Onder inlener wordt mede verstaan de doorlener, zijnde degene aan wie een werknemer ter beschikking is gesteld en die deze werknemer vervolgens ter beschikking stelt aan een derde om onder diens toezicht en leiding werkzaam te zijn.   
-3.  Voor zover een inlener ingevolge een schriftelijke overeenkomst met een uitlener het bedrag waarvoor hij op grond van het eerste lid hoofdelijk aansprakelijk is, heeft overgemaakt op een rekening die door die inlener bij een ingevolge de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) ingeschreven kredietinstelling ter zake van dat werk wordt gehouden voor betaling van belasting, wordt elke betaling die de inlener voor dat doel voor het tijdvak waarin het werk is uitgevoerd ten laste van die rekening heeft gedaan, vermoed betrekking te hebben op dat werk. Bij algemene maatregel van bestuur kunnen met betrekking tot de toepassing van dit lid nadere regels worden gesteld.   
+3.  Voor zover een inlener ingevolge een schriftelijke overeenkomst met een uitlener het bedrag waarvoor hij op grond van het eerste lid hoofdelijk aansprakelijk is, heeft overgemaakt op een rekening die door die inlener bij een ingevolge de Wet toezicht bank- en kredietwezen 1994 BES ingeschreven kredietinstelling ter zake van dat werk wordt gehouden voor betaling van belasting, wordt elke betaling die de inlener voor dat doel voor het tijdvak waarin het werk is uitgevoerd ten laste van die rekening heeft gedaan, vermoed betrekking te hebben op dat werk. Bij algemene maatregel van bestuur kunnen met betrekking tot de toepassing van dit lid nadere regels worden gesteld.   
 4.  De aansprakelijkheid op grond van het eerste lid geldt niet met betrekking tot de belasting verschuldigd door een inlener indien aannemelijk is dat de niet-betaling door de uitlener noch aan hem noch aan de inlener te wijten is.  
 
 ### Artikel  8.68  
@@ -1909,7 +1909,7 @@ b.  *onderaannemer:* degene, die zich jegens een aannemer verbindt om buiten die
 a. die de onderaannemer en, indien een werk geheel of gedeeltelijk door een of meer volgende onderaannemers wordt uitgevoerd, iedere volgende onderaannemer, verschuldigd is in verband met het verrichten van werkzaamheden door zijn werknemers ter zake van dat werk, behoudens voor zover hij aannemelijk maakt dat ten aanzien van hem een te hoog bedrag aan belasting in aanmerking is genomen;  
 
 b. waarvan de onderaannemer en, indien een werk geheel of gedeeltelijk door een of meer volgende onderaannemers wordt uitgevoerd, iedere volgende onderaannemer, ingevolge artikel 8.65 hoofdelijk aansprakelijk is ter zake van dat werk, behoudens voor zover hij aannemelijk maakt dat ten aanzien van hem een te hoog bedrag aan belasting in aanmerking is genomen.     
-6.  Voor zover een aannemer ingevolge een schriftelijke overeenkomst met een onderaannemer het bedrag waarvoor hij op grond van het vijfde lid hoofdelijk aansprakelijk is, heeft overgemaakt op een rekening die door die onderaannemer bij een ingevolge de [Wet toezicht bank- en kredietwezen 1994 BES](../../../../wet-BES/wet/toezicht/bank-/en/kredietwezen/1994/bes/BWBR0028547/README.md) ingeschreven kredietinstelling ter zake van dat werk wordt gehouden voor betaling van belasting, wordt elke betaling die de onderaannemer voor dat doel voor het tijdvak waarin het werk is uitgevoerd ten laste van die rekening heeft gedaan, vermoed betrekking te hebben op dat werk. Onder betaling van belasting, als bedoeld in de vorige volzin, wordt mede begrepen een betaling door een onderaannemer aan zijn onderaannemer, welke betaling ingevolge een tussen hen gesloten schriftelijke overeenkomst wordt gedaan op een rekening als bedoeld in de vorige volzin. Bij algemene maatregel van bestuur kunnen met betrekking tot de toepassing van dit lid nadere regels worden gesteld.   
+6.  Voor zover een aannemer ingevolge een schriftelijke overeenkomst met een onderaannemer het bedrag waarvoor hij op grond van het vijfde lid hoofdelijk aansprakelijk is, heeft overgemaakt op een rekening die door die onderaannemer bij een ingevolge de Wet toezicht bank- en kredietwezen 1994 BES ingeschreven kredietinstelling ter zake van dat werk wordt gehouden voor betaling van belasting, wordt elke betaling die de onderaannemer voor dat doel voor het tijdvak waarin het werk is uitgevoerd ten laste van die rekening heeft gedaan, vermoed betrekking te hebben op dat werk. Onder betaling van belasting, als bedoeld in de vorige volzin, wordt mede begrepen een betaling door een onderaannemer aan zijn onderaannemer, welke betaling ingevolge een tussen hen gesloten schriftelijke overeenkomst wordt gedaan op een rekening als bedoeld in de vorige volzin. Bij algemene maatregel van bestuur kunnen met betrekking tot de toepassing van dit lid nadere regels worden gesteld.   
 7.  De aansprakelijkheid op grond van het vijfde lid geldt niet met betrekking tot de belasting verschuldigd door een aannemer indien aannemelijk is dat de niet-betaling door de onderaannemer noch aan hem noch aan de aannemer te wijten is, dan wel, indien de aannemer uiterlijk binnen een week na dagtekening van de overeenkomst met de onderaannemer een afschrift van de door alle partijen ondertekende overeenkomst aan de inspecteur heeft overgelegd. De overeenkomst dient in ieder geval te vermelden de naam of benaming en de woonplaats van de onderaannemer, het onderdeel van het werk waarvoor de onderaannemer zorg draagt, de plaats en de datum van het werk, de geschatte aanneemsom en de geschatte loonsom. Bij algemene maatregel van bestuur kunnen met betrekking tot de toepassing van dit lid nadere regels worden gesteld.   
 8.  De voorgaande leden zijn niet van toepassing indien: 
 
@@ -2009,15 +2009,15 @@ Degene die niet voldoet aan de hem opgelegde verplichting ingevolge de artikelen
 ####Kwalificatiebepaling
 
 1.  De bij deze wet strafbaar gestelde feiten waarop gevangenisstraf is gesteld, zijn misdrijven. De overige bij deze wet strafbaar gestelde feiten zijn overtredingen.   
-2.  Het [Wetboek van Strafrecht BES](../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) is mede van toepassing op ieder die zich niet op de BES eilanden schuldig maakt aan een bij of krachtens deze wet als misdrijf omschreven strafbaar gesteld feit.  
+2.  Het Wetboek van Strafrecht BES is mede van toepassing op ieder die zich niet op de BES eilanden schuldig maakt aan een bij of krachtens deze wet als misdrijf omschreven strafbaar gesteld feit.  
 
 ### Artikel  8.79  
 
 ####Opsporingsbevoegdheid
 
-1.  Met het opsporen van de bij belastingwet strafbaar gestelde feiten zijn, naast de in [artikel 184 van het Wetboek van Strafvordering BES](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) bedoelde personen, de ambtenaren van de rijksbelastingdienst belast.   
-2.  De ambtenaren van de rijksbelastingdienst zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het [Wetboek van Strafvordering BES](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.   
-3.  Bij het opsporen van een bij de belastingwet strafbaar gesteld feit hebben de in het eerste lid bedoelde ambtenaren toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te laten vergezellen. Voor het betreden van woningen is [titel X van het Derde boek van het Wetboek van Strafvordering BES](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) onverkort van toepassing.  
+1.  Met het opsporen van de bij belastingwet strafbaar gestelde feiten zijn, naast de in artikel 184 van het Wetboek van Strafvordering BES bedoelde personen, de ambtenaren van de rijksbelastingdienst belast.   
+2.  De ambtenaren van de rijksbelastingdienst zijn te allen tijde bevoegd tot inbeslagneming van de ingevolge het Wetboek van Strafvordering BES voor inbeslagneming vatbare voorwerpen. Zij kunnen daartoe hun uitlevering vorderen.   
+3.  Bij het opsporen van een bij de belastingwet strafbaar gesteld feit hebben de in het eerste lid bedoelde ambtenaren toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is. Zij zijn bevoegd zich door bepaalde door hen aangewezen personen te laten vergezellen. Voor het betreden van woningen is titel X van het Derde boek van het Wetboek van Strafvordering BES onverkort van toepassing.  
 
 ### Artikel  8.80  
 
@@ -2026,7 +2026,7 @@ Degene die niet voldoet aan de hem opgelegde verplichting ingevolge de artikelen
 1.  De in artikel 8.79, eerste lid, bedoelde ambtenaren maken van hun bevindingen proces-verbaal op en delen dit in afschrift mede aan degene tot wie de opsporing zich richt.   
 2.  Alle processen-verbaal betreffende de bij deze wet strafbaar gestelde feiten worden ingezonden aan de directeur. De directeur doet de processen-verbaal betreffende strafbare feiten, ter zake waarvan inverzekeringstelling of voorlopige hechtenis is toegepast dan wel een woning zonder de uitdrukkelijke toestemming van de bewoner is binnengetreden, met de in beslag genomen voorwerpen, onverwijld toekomen aan de officier van justitie. De overige processen-verbaal doet de directeur met de in beslag genomen voorwerpen toekomen aan de officier van justitie indien hij een vervolging wenselijk acht.   
 3.  De officier van justitie is bevoegd, de zaak ter afdoening weer in handen van de directeur te stellen, die daarmede alsdan kan handelen overeenkomstig artikel 8.81.   
-4.  Het bepaalde in [artikel 14 van het Wetboek van Strafvordering BES](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) is niet van toepassing in zaken waarin de directeur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.  
+4.  Het bepaalde in artikel 14 van het Wetboek van Strafvordering BES is niet van toepassing in zaken waarin de directeur het proces-verbaal niet aan de officier van justitie heeft doen toekomen.  
 
 ### Artikel  8.81  
 
@@ -2087,7 +2087,7 @@ b. de gegevensdragers of de inhoud daarvan, zulks naar keuze van de inspecteur, 
 3.  Indien het gebouw of de grond wordt gebruikt voor het uitoefenen van een bedrijf of een zelfstandig beroep wordt de gevraagde toegang mede verleend tijdens de uren waarin het gebruik voor de uitoefening van dat bedrijf of zelfstandig beroep daadwerkelijk plaatsvindt.   
 4.  De gebruiker van het gebouw of de grond is verplicht desgevorderd aanwijzingen te geven die voor het onderzoek nodig zijn.   
 5.  De tot de toegang bevoegde personen treden een woning zonder de uitdrukkelijke toestemming van de bewoner niet binnen dan met inachtneming van het bepaalde in het zesde lid.   
-6.  Op het binnentreden in woningen is [titel X van het Derde Boek van het Wetboek van Strafvordering BES](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md) van overeenkomstige toepassing, met uitzondering van de [artikelen 155, vierde lid](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [156, tweede lid](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [157, tweede en derde lid](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), [158, eerste lid](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en [160, eerste lid](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md), en met dien verstande dat de machtiging wordt verleend door de procureur generaal, de officier van justitie dan wel een hulpofficier van justitie.  
+6.  Op het binnentreden in woningen is titel X van het Derde Boek van het Wetboek van Strafvordering BES van overeenkomstige toepassing, met uitzondering van de artikelen 155, vierde lid, 156, tweede lid, 157, tweede en derde lid, 158, eerste lid, en 160, eerste lid, en met dien verstande dat de machtiging wordt verleend door de procureur generaal, de officier van justitie dan wel een hulpofficier van justitie.  
 
 ### Artikel  8.86  
 
@@ -2515,7 +2515,7 @@ Alle rechtsvorderingen tot betaling van belastingen, alsmede alle strafvervolgin
 
 ####Toepasselijk recht
 
-Behoudens de bepalingen van deze wet worden burgerlijke rechtsvorderingen behandeld overeenkomstig het [Wetboek van Burgerlijke Rechtsvordering BES](../../../../wet-BES/wetboek/van/burgerlijke/rechtsvordering/bes/BWBR0028496/README.md), strafvervolgingen overeenkomstig het [Wetboek van Strafvordering BES](../../../../wet-BES/wetboek/van/strafvordering/bes/BWBR0028681/README.md). 
+Behoudens de bepalingen van deze wet worden burgerlijke rechtsvorderingen behandeld overeenkomstig het Wetboek van Burgerlijke Rechtsvordering BES, strafvervolgingen overeenkomstig het Wetboek van Strafvordering BES. 
 
 ### Artikel  8.119  
 
@@ -2804,8 +2804,8 @@ b. inkomsten die zijn gerealiseerd bij de verkoop, terugbetaling of aflossing va
 
 ### Artikel  9.6  
 
-1.  Voor de vaststelling door de uitbetalende instantie van de identiteit en de woonplaats van de uiteindelijk gerechtigde is de [Wet identificatie bij financiële dienstverlening BES](../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md) van overeenkomstige toepassing.   
-2.  Niettegenstaande het bepaalde in [artikel 6 van de Wet identificatie bij financiële dienstverlening BES](../../../../wet-BES/wet/identificatie/bij/dienstverlening/bes/BWBR0028490/README.md) legt de uitbetalende instantie voor nieuwe contractuele betrekkingen de identiteit van de belastingplichtige eveneens vast aan de hand van, indien dit bestaat, het door de fiscale woonstaat van de belastingplichtige aan hem toegekende fiscaal identificatienummer. Indien het fiscale identificatienummer niet bestaat, wordt de identiteit aangevuld met de vermelding van de geboorteplaats en geboortedatum van de belastingplichtige.  
+1.  Voor de vaststelling door de uitbetalende instantie van de identiteit en de woonplaats van de uiteindelijk gerechtigde is de Wet identificatie bij financiële dienstverlening BES van overeenkomstige toepassing.   
+2.  Niettegenstaande het bepaalde in artikel 6 van de Wet identificatie bij financiële dienstverlening BES legt de uitbetalende instantie voor nieuwe contractuele betrekkingen de identiteit van de belastingplichtige eveneens vast aan de hand van, indien dit bestaat, het door de fiscale woonstaat van de belastingplichtige aan hem toegekende fiscaal identificatienummer. Indien het fiscale identificatienummer niet bestaat, wordt de identiteit aangevuld met de vermelding van de geboorteplaats en geboortedatum van de belastingplichtige.  
 
 ### Titel  3  
 
@@ -2835,7 +2835,7 @@ b. het totale bedrag van de rente die aan de entiteit is uitbetaald of de renteb
 
 ### Artikel  9.9  
 
-1.  De bevoegde autoriteit verstrekt op verzoek van een op de BES eilanden wonende belastingplichtige als bedoeld in de [Wet inkomstenbelasting BES](../../../../wet-BES/wet/inkomstenbelasting/bes/BWBR0029281/README.md) binnen twee maanden nadat dit verzoek is ingediend, een verklaring met daarin de navolgende gegevens: 
+1.  De bevoegde autoriteit verstrekt op verzoek van een op de BES eilanden wonende belastingplichtige als bedoeld in de Wet inkomstenbelasting BES binnen twee maanden nadat dit verzoek is ingediend, een verklaring met daarin de navolgende gegevens: 
 
 a. de naam, het adres en het op de BES eilanden gangbare fiscaal identificatienummer van de in de aanhef bedoelde belastingplichtige;  
 

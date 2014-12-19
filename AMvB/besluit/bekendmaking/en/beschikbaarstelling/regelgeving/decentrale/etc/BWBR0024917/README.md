@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken en Koninkrijksrelaties van 14 oktober 2008, nr. 2008-0000472808, directie Constitutionele Zaken en Wetgeving, afdeling Wetgeving Staatsinrichting en Grondrechten;
 
-Gelet op de [artikelen 139](../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md) en [140 van de Gemeentewet](../../../../../../../../../wet/gemeentewet/BWBR0005416/README.md), de [artikelen 136](../../../../../../../../../wet/provinciewet/BWBR0005645/README.md) en [137 van de Provinciewet](../../../../../../../../../wet/provinciewet/BWBR0005645/README.md), de [artikelen 73](../../../../../../../../../wet/waterschapswet/BWBR0005108/README.md) en [73a van de Waterschapswet](../../../../../../../../../wet/waterschapswet/BWBR0005108/README.md) en de [artikelen 38](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [38a](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [106a van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op de artikelen 139 en 140 van de Gemeentewet, de artikelen 136 en 137 van de Provinciewet, de artikelen 73 en 73a van de Waterschapswet en de artikelen 38, 38a en 106a van de Wet op de bedrijfsorganisatie;
 
 De Raad van State gehoord (advies van 24 oktober 2008, nr. W04.08.0447/I);
 
@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Indien het gemeenteblad elektronisch wordt uitgegeven, geschiedt dat door plaatsing op een door het college van burgemeester en wethouders te bepalen internetadres.   
+1.  Het gemeenteblad wordt uitgegeven op een door het college van burgemeester en wethouders te bepalen internetadres.   
 2.  Het college van burgemeester en wethouders draagt er zorg voor dat het gemeenteblad na de uitgifte elektronisch op een algemeen toegankelijke wijze beschikbaar blijft en dat daarbij wordt vermeld wanneer het is uitgegeven.  
 
 ### Artikel  1a  
@@ -28,12 +28,12 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  2  
 
-1.  Indien het provinciaal blad elektronisch wordt uitgegeven, geschiedt dat door plaatsing op een door gedeputeerde staten te bepalen internetadres.   
+1.  Het provinciaal blad wordt uitgegeven op een door gedeputeerde staten te bepalen internetadres.   
 2.  Gedeputeerde staten dragen er zorg voor dat het provinciaal blad na de uitgifte elektronisch op een algemeen toegankelijke wijze beschikbaar blijft en dat daarbij wordt vermeld wanneer het is uitgegeven.  
 
 ### Artikel  3  
 
-1.  Indien het waterschapsblad elektronisch wordt uitgegeven, geschiedt dat door plaatsing op een door het dagelijks bestuur van het waterschap te bepalen internetadres.   
+1.  Het waterschapsblad wordt uitgegeven op een door het dagelijks bestuur van het waterschap te bepalen internetadres.   
 2.  Het dagelijks bestuur van het waterschap draagt er zorg voor dat het waterschapsblad na de uitgifte elektronisch op een algemeen toegankelijke wijze beschikbaar blijft en dat daarbij wordt vermeld wanneer het is uitgegeven.  
 
 ### Artikel  4  
@@ -45,6 +45,11 @@ Hebben goedgevonden en verstaan:
 
 1.  Het college van burgemeester en wethouders, het bestuurscollege, gedeputeerde staten, het dagelijks bestuur van het waterschap, onderscheidenlijk de Sociaal-Economische Raad draagt er zorg voor dat de nodige maatregelen worden getroffen ter waarborging van de betrouwbaarheid en de beveiliging van de elektronische uitgifte en de beschikbaarstelling van het gemeenteblad, het afkondigingsblad, het provinciaal blad, het waterschapsblad, onderscheidenlijk het Verordeningenblad Bedrijfsorganisatie.   
 2.  Bij ministeriële regeling kunnen nadere regels worden gesteld omtrent het eerste lid.  
+
+### Artikel  5a  
+Treedt in werking per 01-01-2015 
+
+Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties stelt nadere regels over de uitgifte en de beschikbaarheid van publicatiebladen als bedoeld in de artikelen 32ja, 45ba, 50daa, 56aa, 65aa, 78aa en 88aa van de Wet gemeenschappelijke regelingen, alsmede over de kosten in verband met de uitgifte en de beschikbaarheid. 
 
 ### Hoofdstuk  2  
 
@@ -59,7 +64,7 @@ a. besluiten die zijn vervallen of uitgewerkt vóór het tijdstip waarop dit art
 
 b. besluiten voor zover deze strekken tot wijziging van een of meer besluiten;  
 
-c. besluiten die ingevolge de [Wet ruimtelijke ordening](../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) zijn bekendgemaakt;  
+c. besluiten die ingevolge de Wet ruimtelijke ordening zijn bekendgemaakt;  
 
 d. bijlagen bij besluiten, die zich naar hun aard niet lenen voor elektronische beschikbaarstelling.    
 
@@ -83,7 +88,7 @@ a. besluiten die zijn vervallen of uitgewerkt vóór het tijdstip waarop dit art
 
 b. besluiten voor zover deze strekken tot wijziging van een of meer besluiten;  
 
-c. besluiten die ingevolge de [Wet ruimtelijke ordening](../../../../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) zijn bekendgemaakt;  
+c. besluiten die ingevolge de Wet ruimtelijke ordening zijn bekendgemaakt;  
 
 d. bijlagen bij besluiten, die zich naar hun aard niet lenen voor elektronische beschikbaarstelling.    
 
@@ -100,7 +105,7 @@ c. bijlagen bij besluiten, die zich naar hun aard niet lenen voor elektronische 
 
 ### Artikel  9  
 
-1.  De teksten van besluiten die overeenkomstig [artikel 38, derde lid](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), of [artikel 106 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) zijn bekendgemaakt en algemeen verbindende voorschriften inhouden, zijn in geconsolideerde vorm voor een ieder beschikbaar door plaatsing op internet.   
+1.  De teksten van besluiten die overeenkomstig artikel 38, derde lid, of artikel 106 van de Wet op de bedrijfsorganisatie zijn bekendgemaakt en algemeen verbindende voorschriften inhouden, zijn in geconsolideerde vorm voor een ieder beschikbaar door plaatsing op internet.   
 2.  Het eerste lid is niet van toepassing op: 
 
 a. besluiten die zijn vervallen of uitgewerkt vóór het tijdstip waarop dit artikel in werking is getreden;  
@@ -109,25 +114,37 @@ b. besluiten voor zover deze strekken tot wijziging van een of meer besluiten;
 
 c. bijlagen bij besluiten, die zich naar hun aard niet lenen voor elektronische beschikbaarstelling.    
 
+### Artikel  9a  
+Treedt in werking per 01-01-2015 
+
+1.  De teksten van regelingen als bedoeld in de artikelen 26, 42, 53, 62a, 75 en 85 van de Wet gemeenschappelijke regelingen zijn in geconsolideerde vorm voor een ieder beschikbaar door plaatsing op internet.   
+2.  Het eerste lid is niet van toepassing op: 
+
+a. regelingen die zijn vervallen of uitgewerkt vóór het tijdstip waarop dit artikel in werking is getreden;  
+
+b. regelingen voor zover deze strekken tot wijziging van een of meer regelingen;  
+
+c. bijlagen bij regelingen, die zich naar hun aard niet lenen voor elektronische beschikbaarstelling.    
+
+### Artikel  9b  
+Treedt in werking per 01-01-2015 
+
+1.  De teksten van besluiten als bedoeld in het eerste lid van de artikelen 32l, 45d, 50dc, 56c, 65c, 78c en 88c van de Wet gemeenschappelijke regelingen zijn in geconsolideerde vorm voor een ieder beschikbaar door plaatsing op internet.   
+2.  Het eerste lid is niet van toepassing op: 
+
+a. besluiten die zijn vervallen of uitgewerkt vóór het tijdstip waarop dit artikel in werking is getreden;  
+
+b. besluiten voor zover deze strekken tot wijziging van een of meer besluiten;  
+
+c. besluiten die ingevolge de Wet ruimtelijke ordening zijn bekendgemaakt;  
+
+d. bijlagen bij besluiten, die zich naar hun aard niet lenen voor elektronische beschikbaarstelling.    
+
 ### Hoofdstuk  3  
 
 ####Wijzigingen in verband met de invoering van de verplichting tot elektronische bekendmaking
 
-### Artikel  10  
-
-Wijzigt dit besluit. 
-
-### Artikel  11  
-
-Wijzigt dit besluit. 
-
-### Artikel  12  
-
-Wijzigt dit besluit. 
-
-### Artikel  13  
-
-Wijzigt dit besluit. 
+Vervallen per 19-12-2014 
 
 ### Hoofdstuk  4  
 
@@ -135,7 +152,7 @@ Wijzigt dit besluit.
 
 ### Artikel  13a  
 
-Dit besluit berust mede op de [artikelen 142, derde lid](../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md), en [143, eerste en vierde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba](../../../../../../../../../wet-BES/wet/openbare/lichamen/bonaire/sint/eustatius/en/saba/BWBR0028142/README.md). 
+Dit besluit berust mede op de artikelen 142, derde lid, en 143, eerste en vierde lid, van de Wet openbare lichamen Bonaire, Sint Eustatius en Saba. 
 
 ### Artikel  14  
 

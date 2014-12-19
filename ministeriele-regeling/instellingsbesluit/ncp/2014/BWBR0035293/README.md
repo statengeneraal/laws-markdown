@@ -54,9 +54,7 @@ De minister voorziet in het secretariaat van het NCP.
 
 ### Artikel  7  
 
-1.  Tenzij effectieve toepassing van de richtlijnen het meest gebaat is bij vertrouwelijkheid stelt het NCP, na behandeling van een melding, daarover een verklaring op en zendt die aan de minister.   
-2.  Binnen één maand na ontvangst voegt de minister, na overleg met de minister(s) wie het mede aangaat, zijn bevindingen bij de verklaring en maakt deze bekend aan het NCP.   
-3.  Het NCP zendt de verklaring tezamen met de bevindingen van de minister aan de betrokkenen bij een melding en maakt deze bekend.  
+Tenzij effectieve toepassing van de richtlijnen het meest gebaat is bij vertrouwelijkheid stelt het NCP, na behandeling van een melding, daarover een verklaring op en zendt die aan de minister en aan de betrokkenen en maakt deze bekend. 
 
 ### Artikel  8  
 
@@ -70,7 +68,7 @@ De minister zendt elke vier jaar een verslag aan de Tweede Kamer der Staten-Gene
 
 ### Artikel  10  
 
-Het [Instellingsbesluit NCP 2011](../../../../../ministeriele-regeling/instellingsbesluit/ncp/2011/BWBR0029781/README.md) wordt ingetrokken. 
+Het Instellingsbesluit NCP 2011 wordt ingetrokken. 
 
 ### Artikel  11  
 

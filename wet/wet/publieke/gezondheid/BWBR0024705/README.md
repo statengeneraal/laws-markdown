@@ -119,6 +119,13 @@ h. het geven van prenatale voorlichting aan aanstaande ouders.
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het verstrekken van niet tot een persoon herleidbare systematische informatie door het college van burgemeester en wethouders aan Onze Minister inzake de uitvoering van deze wet en kan deze verstrekking verplicht worden gesteld. 
 
+### Artikel  4a  
+Treedt in werking per 01-01-2015 
+
+1.  Onze Minister draagt zorg voor de vaccinaties, opgenomen in een bij ministeriële regeling vast te stellen vaccinatieprogramma, waarin wordt aangegeven welke doelgroepen voor vaccinatie in aanmerking komen alsmede hoe de uitvoering van dat programma plaatsvindt.   
+2.  Onze Minister draagt zorg voor het onderzoek bij pasgeborenen naar bij ministeriële regeling aan te wijzen ernstige zeldzame ziekten.   
+3.  Dit artikel is niet van toepassing in de openbare lichamen Bonaire, Sint Eustatius en Saba.  
+
 ### §  2  
 
 ####Jeugdgezondheidszorg

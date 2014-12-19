@@ -107,8 +107,8 @@ De secretaris zendt een gewaarmerkt afschrift van de in artikel 3*e*  en 3*f*  b
 
 ### Artikel  4  
 
-1.  De rechten, waarvan de schuldige bij wijze van bijzonderen maatregel kan worden ontzet, zijn de rechten genoemd in [artikel 28, onder 1°., 2°., 3°. en 4°., van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), alsmede de uitoefening van bepaalde beroepen of groepen van beroepen en het bekleeden van bepaalde functies of groepen van functies, waarvoor de schuldige geacht moet worden de in het algemeen belang vereischte waardigheid of betrouwbaarheid te missen. [Artikel 8, tweede lid, van het Besluit Buitengewoon Strafrecht](../../../KB/besluit/buitengewoon/strafrecht/BWBR0002006/README.md) is van overeenkomstige toepassing.   
-2.   De ontzetting van een recht bij wijze van bijzonderen maatregel, als in dit besluit bedoeld, wordt voor de toepassing van [artikel 195 van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) met ontzetting bij rechterlijke uitspraak gelijkgesteld.  
+1.  De rechten, waarvan de schuldige bij wijze van bijzonderen maatregel kan worden ontzet, zijn de rechten genoemd in artikel 28, onder 1°., 2°., 3°. en 4°., van het Wetboek van Strafrecht, alsmede de uitoefening van bepaalde beroepen of groepen van beroepen en het bekleeden van bepaalde functies of groepen van functies, waarvoor de schuldige geacht moet worden de in het algemeen belang vereischte waardigheid of betrouwbaarheid te missen. Artikel 8, tweede lid, van het Besluit Buitengewoon Strafrecht is van overeenkomstige toepassing.   
+2.   De ontzetting van een recht bij wijze van bijzonderen maatregel, als in dit besluit bedoeld, wordt voor de toepassing van artikel 195 van het Wetboek van Strafrecht met ontzetting bij rechterlijke uitspraak gelijkgesteld.  
 
 ### Artikel  5  
 
@@ -123,7 +123,7 @@ b. indien aan den schuldige de maatregel van interneering wordt opgelegd: tot ti
 
 1.  Vatbaar voor verbeurdverklaring is:  
 
-a. indien de schuldige ten tijde van de uitspraak in leven is: het drie vierde gedeelte van zijn vermogen op den dag der uitspraak, met dien verstande dat de goederen, bedoeld in [artikel 447, onder 2°.-5°.](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), en [448, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering](../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md), niet onder het verbeurd verklaarde gedeelte mogen vallen;  
+a. indien de schuldige ten tijde van de uitspraak in leven is: het drie vierde gedeelte van zijn vermogen op den dag der uitspraak, met dien verstande dat de goederen, bedoeld in artikel 447, onder 2°.-5°., en 448, eerste lid, van het Wetboek van Burgerlijke Rechtsvordering, niet onder het verbeurd verklaarde gedeelte mogen vallen;  
 
 b. indien de schuldige vóór de uitspraak overleden is: het drie vierde gedeelte van zijn nalatenschap.     
 2.   Het Tribunaal bepaalt bij zijn uitspraak, hoever de verbeurdverklaring zich uitstrekt.  
@@ -198,8 +198,8 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 ### Artikel  16  
 
 1.  Van elk onderzoek door het Tribunaal wordt proces-verbaal opgemaakt.   
-2.   Ten aanzien van deze processen-verbaal vindt het bepaalde in [artikel 25 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en ten aanzien van alle beslissingen van het Tribunaal het bepaalde in [artikel 22 van dat Wetboek](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) overeenkomstige toepassing.   
-3.   Insgelijks is ten aanzien van de Tribunalen van overeenkomstige toepassing het bepaalde in de [artikelen 7](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [12](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md), [74](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) en [95 van de Wet op de rechterlijke organisatie](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md).  
+2.   Ten aanzien van deze processen-verbaal vindt het bepaalde in artikel 25 van het Wetboek van Strafvordering en ten aanzien van alle beslissingen van het Tribunaal het bepaalde in artikel 22 van dat Wetboek overeenkomstige toepassing.   
+3.   Insgelijks is ten aanzien van de Tribunalen van overeenkomstige toepassing het bepaalde in de artikelen 7, 12, 74 en 95 van de Wet op de rechterlijke organisatie.  
 
 ### Artikel  16a  
 
@@ -214,7 +214,7 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 ### Artikel  17  
 
 1.  Een ieder, die kennis draagt of gegronde reden heeft om te vermoeden, dat een Nederlander of een daarmede bij artikel 1, derde lid, gelijkgesteld persoon zich gedurende de vijandelijkheden in, of tijdens de vijandelijke bezetting van het Rijk in Europa heeft gedragen op een wijze, welke volgens het bepaalde in dat artikel tot de oplegging van bijzondere maatregelen aanleiding kan geven, is bevoegd daarvan aangifte te doen.   
-2.   Openbare colleges en ambtenaren-de Tribunalen, hun leden, secretarissen, adjunct-secretarissen en waarnemende secretarissen daaronder begrepen-, die van een zoodanige gedraging in de uitoefening van hun bediening kennis hebben gekregen of krijgen op andere wijze dan door de behandeling van een aangifte, welke ten aanzien van denzelfden persoon reeds is gedaan, zijn verplicht daarvan onverwijld aangifte te doen en de op de zaak betrekkelijke stukken daarbij over te leggen, tenzij die gedraging tevens oplevert een strafbaar feit, waarvan de kennisneming aan de Bijzondere Gerechtshoven behoort, en zij te dier zake reeds overeenkomstig het bepaalde in het [Besluit Buitengewone Rechtspleging](../../../KB/besluit/buitengewone/rechtspleging/BWBR0002008/README.md) aangifte hebben gedaan of hetzij met de berechting, hetzij anders dan als procureur-fiscaal met de opsporing van dat feit zijn belast.   
+2.   Openbare colleges en ambtenaren-de Tribunalen, hun leden, secretarissen, adjunct-secretarissen en waarnemende secretarissen daaronder begrepen-, die van een zoodanige gedraging in de uitoefening van hun bediening kennis hebben gekregen of krijgen op andere wijze dan door de behandeling van een aangifte, welke ten aanzien van denzelfden persoon reeds is gedaan, zijn verplicht daarvan onverwijld aangifte te doen en de op de zaak betrekkelijke stukken daarbij over te leggen, tenzij die gedraging tevens oplevert een strafbaar feit, waarvan de kennisneming aan de Bijzondere Gerechtshoven behoort, en zij te dier zake reeds overeenkomstig het bepaalde in het Besluit Buitengewone Rechtspleging aangifte hebben gedaan of hetzij met de berechting, hetzij anders dan als procureur-fiscaal met de opsporing van dat feit zijn belast.   
 3.   Hij, die een aangifte doet, als bedoeld in dit artikel, wetende, dat de beschuldigde zich niet op de aangegeven wijze heeft gedragen, wordt als schuldig aan een misdrijf gestraft met gevangenisstraf van ten hoogste een jaar.  
 
 ### Artikel  18  
@@ -222,7 +222,7 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 1.  De aangifte wordt hetzij schriftelijk ingediend bij het Departement van Justitie, hetzij mondeling of schriftelijk gedaan aan een ambtenaar, die tot het ontvangen van zoodanige aangiften door Onzen Minister van Justitie bevoegd en verplicht is verklaard. Zij geschiedt hetzij door den aangever in persoon, hetzij door een ander, daartoe door hem van een bijzondere schriftelijke volmacht voorzien.   
 2.   De aangifte houdt zoo nauwkeurig mogelijke gegevens in omtrent de gedraging of gedragingen, waarop zij betrekking heeft, en omtrent den persoon, die daarvan wordt beschuldigd, alsmede een opgave van de namen en adressen of, bij onbekendheid van een en ander, een aanduiding, zoo nauwkeurig mogelijk, van de personen, die ter zake getuigenis zouden kunnen afleggen.   
 3.   Ten aanzien van iederen beschuldigde dient een afzonderlijke aangifte te worden gedaan.   
-4.   Het bepaalde in [artikel 163, tweede tot en met vierde lid, van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+4.   Het bepaalde in artikel 163, tweede tot en met vierde lid, van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 5.   De ambtenaar, die de aangifte heeft ontvangen, doet deze met de op de zaak betrekkelijke stukken onverwijld toekomen aan den procureur-fiscaal bij het Bijzondere Gerechtshof, binnen welks ressort de beschuldigde zich bevindt.   
 6.   Uiterlijk drie maanden na het in werking treden van dit besluit zal door Ons een termijn worden gesteld, na afloop waarvan nieuwe aangiften niet meer kunnen worden ingediend.  
 
@@ -230,7 +230,7 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 
 1.  Nadat, indien hem dit ter voorbereiding van de behandeling der zaak geraden mocht voorkomen, ter zake nadere inlichtingen zijn ingewonnen, kan de procureur-fiscaal na verleening van een fiatbehandeling de aangifte met de op de zaak betrekkelijke stukken stellen in handen van het Tribunaal, dat uit hoofde van de woon- of verblijfplaats van den beschuldigde, van de plaats, waar deze zich op de aangegeven wijze heeft gedragen, of om andere redenen naar zijn oordeel het meest in aanmerking komt om van de zaak kennis te nemen, zulks met dien verstande, dat alle aangiften tegen denzelfden beschuldigde bij hetzelfde Tribunaal worden aangebracht.   
 2.   Indien aan het Tribunaal blijkt, dat van de zaak beter door een ander Tribunaal kennis zou kunnen worden genomen, doet het daarvan aan den procureur-fiscaal een gemotiveerde schriftelijke mededeeling. Deze is alsdan bevoegd de zaak naar een ander Tribunaal te verwijzen.   
-3.   In zaken, betrekking hebbende op personen of de nalatenschap van personen, die ter zake van een misdrijf, waarop de bepalingen van het [Besluit Buitengewoon Strafrecht](../../../KB/besluit/buitengewoon/strafrecht/BWBR0002006/README.md) van toepassing zijn, onherroepelijk zijn veroordeeld, verleent de procureur-fiscaal geen fiatbehandeling dan met machtiging van Onzen Minister van Justitie.  
+3.   In zaken, betrekking hebbende op personen of de nalatenschap van personen, die ter zake van een misdrijf, waarop de bepalingen van het Besluit Buitengewoon Strafrecht van toepassing zijn, onherroepelijk zijn veroordeeld, verleent de procureur-fiscaal geen fiatbehandeling dan met machtiging van Onzen Minister van Justitie.  
 
 ### Artikel  19a  
 
@@ -288,7 +288,7 @@ Van de instelling van een voorbereidend onderzoek en de benoeming van een commis
 
 1.  De beschuldigde is bevoegd zich door een gekozen of toegevoegden raadsman te doen bijstaan.   
 2.   Als raadslieden worden toegelaten advocaten, binnen het Rijk de praktijk uitoefenende. De leden van een Tribunaal, alsmede de secretaris en zijn adjuncten zijn niet bevoegd bij het college, waarbij zij zijn aangesteld, als raadsman op te treden.   
-3.   Ten aanzien van de keuze van een raadsman is het bepaalde in [artikel 38 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing. De gekozen raadsman geeft van zijn optreden als zoodanig schriftelijk kennis aan den secretaris. Door deze mededeeling neemt de werkzaamheid van den vervangen toegevoegden of vroeger gekozen raadsman een einde.  
+3.   Ten aanzien van de keuze van een raadsman is het bepaalde in artikel 38 van het Wetboek van Strafvordering van overeenkomstige toepassing. De gekozen raadsman geeft van zijn optreden als zoodanig schriftelijk kennis aan den secretaris. Door deze mededeeling neemt de werkzaamheid van den vervangen toegevoegden of vroeger gekozen raadsman een einde.  
 
 ### Artikel  30  
 
@@ -296,26 +296,26 @@ Van de instelling van een voorbereidend onderzoek en de benoeming van een commis
 2.   Omtrent zijn bevoegdheid om toevoeging van een raadsman te verzoeken wordt de beschuldigde bij de kennisgeving van de instelling van een voorbereidend onderzoek, bij zijn eerste verhoor gedurende dat onderzoek en bij de dagvaarding ter zitting van het Tribunaal ingelicht.   
 3.   Bij verhindering of ontstentenis van den toegevoegden raadsman wordt door den secretaris aan den beschuldigde een andere raadsman toegevoegd. De secretaris kan ook op verzoek van den toegevoegden raadsman of van den beschuldigde aan dezen een anderen raadsman toevoegen.   
 4.   Van elke toevoeging geeft de secretaris onverwijld schriftelijk kennis aan den toegevoegden raadsman en aan den beschuldigde.   
-5.   Het bepaalde in [artikel 46 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+5.   Het bepaalde in artikel 46 van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 6.   De toegevoegde raadsman heeft ter zake van zijn verrichtingen recht op een toelage uit 's Rijks kasmiddelen volgens door Ons nader te stellen regelen.  
 
 ### Artikel  31  
 
-1.  Na den aanvang van het voorbereidend onderzoek is ten aanzien van het verkeer tusschen den raadsman en den beschuldigde, die zich in verzekerde bewaring bevindt, het bepaalde in [artikel 50, eerste lid, van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
+1.  Na den aanvang van het voorbereidend onderzoek is ten aanzien van het verkeer tusschen den raadsman en den beschuldigde, die zich in verzekerde bewaring bevindt, het bepaalde in artikel 50, eerste lid, van het Wetboek van Strafvordering van overeenkomstige toepassing.   
 2.   Een bevel, als bedoeld in het tweede lid van dat artikel, kan hetzij door het Tribunaal, hetzij door den commissaris worden gegeven, met dien verstande, dat het bevel van den commissaris niet langer dan zes dagen van kracht en het derde lid van dat artikel te dien aanzien van overeenkomstige toepassing is. Alle door het Tribunaal of den commissaris bevolen belemmeringen in het vrij verkeer tusschen raadsman en beschuldigde nemen een einde, zoodra de beschuldigde ter zitting van het Tribunaal is gedagvaard.   
 3.   Het bepaalde in het eerste lid laat onverlet de belemmeringen in het verkeer tusschen raadsman en beschuldigde, welke door den rechter of het openbaar ministerie mochten zijn bevolen, indien de beschuldigde tevens ter zake van eenig strafbaar feit wordt vervolgd. Nochtans zal de beschuldigde, zoolang hem het vrij verkeer met zijn raadsman is belet, niet ter zitting van het Tribunaal worden gedagvaard.  
 
 ### Artikel  32  
 
-Het bepaalde in [artikel 29 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is ten aanzien van den beschuldigde van overeenkomstige toepassing. 
+Het bepaalde in artikel 29 van het Wetboek van Strafvordering is ten aanzien van den beschuldigde van overeenkomstige toepassing. 
 
 ### Artikel  33  
 
 1.  Tijdens het voorbereidend onderzoek staat de secretaris zoowel aan den beschuldigde als aan diens raadsman op hun verzoek toe van de processtukken kennis te nemen.   
-2.   Niettemin kan het Tribunaal of de commissaris, indien het belang van het onderzoek dit vordert, bepalen, dat den beschuldigde en diens raadsman de kennisneming van bepaalde processtukken, met uitzondering van de stukken, bedoeld in [artikel 31 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), zal worden onthouden. In dit geval wordt den beschuldigde onderscheidenlijk diens raadsman schriftelijk medegedeeld, dat de hem ter inzage gegeven processtukken niet volledig zijn.   
+2.   Niettemin kan het Tribunaal of de commissaris, indien het belang van het onderzoek dit vordert, bepalen, dat den beschuldigde en diens raadsman de kennisneming van bepaalde processtukken, met uitzondering van de stukken, bedoeld in artikel 31 van het Wetboek van Strafvordering, zal worden onthouden. In dit geval wordt den beschuldigde onderscheidenlijk diens raadsman schriftelijk medegedeeld, dat de hem ter inzage gegeven processtukken niet volledig zijn.   
 3.   Tegen een beschikking van den commissaris, als in het voorgaande lid bedoeld, kan de beschuldigde onderscheidenlijk diens raadsman binnen drie dagen na de daar vermelde mededeeling een bezwaarschrift indienen bij het Tribunaal, dat zoo spoedig mogelijk beslist.   
 4.   De kennisneming van alle processtukken in het oorspronkelijk of in afschrift mag den beschuldigde en diens raadsman niet worden onthouden, zoodra de beschuldigde ter zitting van het Tribunaal is gedagvaard.   
-5.  Het bepaalde in het Besluit orde van dienst gerechten ter voldoening aan [artikel 11 van de Wet op de rechterlijke organisatie](../../../wet/wet/op/de/rechterlijke/organisatie/BWBR0001830/README.md) is van overeenkomstige toepassing.  
+5.  Het bepaalde in het Besluit orde van dienst gerechten ter voldoening aan artikel 11 van de Wet op de rechterlijke organisatie is van overeenkomstige toepassing.  
 
 ### Artikel  34  
 
@@ -330,13 +330,13 @@ Het Tribunaal en de commissaris zijn te allen tijde bevoegd, voor zoover het bel
 
 1.  Het Tribunaal en de commissaris zijn bevoegd door tusschenkomst van den advocaat-generaal bij het ressortsparket of van den officier van justitie aan de politie en door tusschenkomst van den procureur-fiscaal bij het Bijzondere Gerechtshof aan de politieke recherche-afdeelingen een onderzoek op te dragen en bevelen te geven.   
 2.  De advocaat-generaal, de officier van justitie en de procureur-fiscaal verleenen aan het Tribunaal en den commissaris de noodige medewerking. 2*a*. Het Tribunaal en de commissaris zijn eveneens bevoegd een onderzoek, als in het eerste lid bedoeld, rechtstreeks op te dragen aan de politie, met dien verstande, dat zoodanige opdracht slechts zal kunnen worden gericht tot het betrokken hoofd van plaatselijke of Rijks-politie.   
-3.   De ambtenaren der politie maken proces-verbaal op van hetgeen door hen tot onderzoek is verricht of bevonden. Het bepaalde in [artikel 153 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
-4.   Het Tribunaal en de commissaris hebben gelijke bevoegdheid als in [artikel 147 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aan het openbaar ministerie is toegekend.  
+3.   De ambtenaren der politie maken proces-verbaal op van hetgeen door hen tot onderzoek is verricht of bevonden. Het bepaalde in artikel 153 van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
+4.   Het Tribunaal en de commissaris hebben gelijke bevoegdheid als in artikel 147 van het Wetboek van Strafvordering aan het openbaar ministerie is toegekend.  
 
 ### Artikel  36  
 
 1.  Het Tribunaal, diens leden en de commissaris zijn bevoegd in de uitoefening hunner ambtsverrichtingen de hulp in te roepen van de openbare burgerlijke en gewapende macht. Deze zijn verplicht aan de vordering onmiddelijk gevolg te geven.   
-2.   Het bepaalde in de [artikelen 124](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [125 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.  
+2.   Het bepaalde in de artikelen 124 en 125 van het Wetboek van Strafvordering is van overeenkomstige toepassing.  
 
 ### Artikel  37  
 
@@ -358,14 +358,14 @@ Het Tribunaal en de commissaris zijn te allen tijde bevoegd, voor zoover het bel
 
 1.  Het Tribunaal en de commissaris zijn bevoegd elk voorwerp in beslag te nemen of te doen nemen, dat kan dienen om de waarheid aan den dag te brengen.   
 2.   Het Tribunaal of de commissaris kan ook bevelen, dat hij, die redelijkerwijs moet worden vermoed houder te zijn van eenig bepaald voor inbeslagneming vatbaar voorwerp, dit ter inbeslagneming zal uitleveren of op de secretarie van het Tribunaal overbrengen, een en ander binnen den termijn en op de wijze bij het bevel te bepalen.   
-3.   Het bepaalde in de [artikelen 98](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [99](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [103, eerste en tweede lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [105, tweede en derde lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [106](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [107, eerste lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [108](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [109](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [116](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [117](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [119 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.   
+3.   Het bepaalde in de artikelen 98, 99, 103, eerste en tweede lid, 105, tweede en derde lid, 106, 107, eerste lid, 108, 109, 116, 117 en 119 van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 4.   Nadat de zaak is geëindigd, draagt de secretaris zorg, dat de inbeslaggenomen voorwerpen worden afgegeven aan dengeen, bij wien zij inbeslaggenomen zijn, tenzij het Tribunaal anders mocht bepalen.  
 
 ### Artikel  41  
 
 1.  Het Tribunaal kan, teneinde eenigen plaatselijken toestand of eenig voorwerp te schouwen, om ter inbeslagneming een onderzoek in te stellen of huiszoeking te doen of om den beschuldigde of een getuige of deskundige te hooren, met de personen, welke het macht aanwijzen, elke plaats betreden.   
 2.   Gelijke bevoegdheid komt toe aan den commissaris, met dien verstande, dat voor het binnentreden van een woning, waarvan de toegang door den bewoner wordt geweigerd, de toestemming van het Tribunaal of, in spoedeischende gevallen, van den voorzitter is vereischt.   
-3.   Het bepaalde in de [artikelen 120, tweede lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [123 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing.  
+3.   Het bepaalde in de artikelen 120, tweede lid, en 123 van het Wetboek van Strafvordering is van overeenkomstige toepassing.  
 
 ### Artikel  42  
 
@@ -373,26 +373,26 @@ Voor zoover het belang van het onderzoek dit niet verbiedt, wordt van een voorge
 
 ### Artikel  43  
 
-1.  Ten aanzien van de verhooren van den beschuldigde en van getuigen en deskundigen door het Tribunaal of den commissaris tijdens het voorbereidend onderzoek vinden de [artikelen 173](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [174](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [186](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [188-191 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) overeenkomstige toepassing.   
+1.  Ten aanzien van de verhooren van den beschuldigde en van getuigen en deskundigen door het Tribunaal of den commissaris tijdens het voorbereidend onderzoek vinden de artikelen 173, 174, 186 en 188-191 van het Wetboek van Strafvordering overeenkomstige toepassing.   
 2.   Het Tribunaal en de commissaris kunnen een beschuldigde of getuige, die zich in verzekerde bewaring bevindt, voor zich doen verschijnen en een beschuldigde of getuige, die in vrijheid is, of een deskundige mondeling of schriftelijk oproepen, doen oproepen of dagvaarden, zoo noodig onder bijvoeging van een bevel tot medebrenging. Het verhoor van een beschuldigde, getuige of deskundige kan ook geschieden ter plaatse, waar hij zich bevindt.   
 3.   Indien dit in het belang van het onderzoek dringend noodzakelijk is, kan het Tribunaal of de commissaris bevelen, dat een aanwezige beschuldigde of getuige, die in vrijheid is, gedurende ten hoogste tweemaal vierentwintig uren in eene bij dat bevel aan te wijzen plaats in verzekering zal worden gesteld. Ten aanzien van den beschuldigde kan het bevel ook op de overige gronden, als bedoeld in artikel 37, eerste lid, worden gegeven. Het bevel vermeldt de redenen, welke tot de inverzekeringstelling hebben geleid. Het kan door het Tribunaal éénmaal voor ten hoogste tweemaal vierentwintig uren worden verlengd.  
 
 ### Artikel  44  
 
 1.  Aan een verzoek van den beschuldigde om tijdens het voorbereidende onderzoek te worden gehoord, wordt door het Tribunaal of den commissaris zooveel mogelijk gevolg gegeven.   
-2.   Ten aanzien van het verhoor van den beschuldigde is het bepaalde in de [artikelen 208, eerste en tweede lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [209 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), alsmede, indien het verhoor door den commissaris geschiedt, het bepaalde in het derde lid van eerstgemeld artikel van overeenkomstige toepassing.  
+2.   Ten aanzien van het verhoor van den beschuldigde is het bepaalde in de artikelen 208, eerste en tweede lid, en 209 van het Wetboek van Strafvordering, alsmede, indien het verhoor door den commissaris geschiedt, het bepaalde in het derde lid van eerstgemeld artikel van overeenkomstige toepassing.  
 
 ### Artikel  45  
 
-1.  De getuige, die door het Tribunaal of den commissaris wordt gehoord, wordt vóór zijn ondervraging door den voorzitter onderscheidenlijk den commissaris beëedigd, dat hij de geheele waarheid en niets dan de waarheid zal zeggen. [Artikel 216, tweede lid, van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), betreffende de vervanging der beëediging door een aanmaning, is van overeenkomstige toepassing.   
-2.   Met betrekking tot het hooren van den getuige en diens recht van verschooning vinden de [artikelen 217-220](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), alsmede, voor zoover betreft het hooren als getuige van een lid van Ons huis, [artikel 226 van dat Wetboek](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) overeenkomstige toepassing.   
+1.  De getuige, die door het Tribunaal of den commissaris wordt gehoord, wordt vóór zijn ondervraging door den voorzitter onderscheidenlijk den commissaris beëedigd, dat hij de geheele waarheid en niets dan de waarheid zal zeggen. Artikel 216, tweede lid, van het Wetboek van Strafvordering, betreffende de vervanging der beëediging door een aanmaning, is van overeenkomstige toepassing.   
+2.   Met betrekking tot het hooren van den getuige en diens recht van verschooning vinden de artikelen 217-220, alsmede, voor zoover betreft het hooren als getuige van een lid van Ons huis, artikel 226 van dat Wetboek overeenkomstige toepassing.   
 3.   De getuige moet bij zijne verklaring zooveel mogelijk uitdrukkelijk opgeven zijne redenen van wetenschap.   
 4.   Een getuige, die bij zijn verhoor zonder wettigen grond weigert op de hem gestelde vragen te antwoorden of wel den eed of de belofte, die van hem gevorderd wordt, af te leggen, kan deswege overeenkomstig het bepaalde in het derde lid van artikel 43 in verzekering worden gesteld. Indien de getuige daarna bij zijn weigering blijft volharden, kan het Tribunaal aan den procureur-fiscaal bij het Bijzondere Gerechtshof kennis geven, dat de getuige in bewaring dient te worden gesteld. Zoodra de dienvolgens in bewaring gestelde getuige aan zijne verplichting heeft voldaan, zijne getuigenis niet meer noodig is of de zaak is geëindigd, stelt het Tribunaal hiervan den procureur-fiscaal in kennis, die den getuige terstond in vrijheid doet stellen, tenzij tegen dezen bezwaren uit anderen hoofde gerezen zijn.  
 
 ### Artikel  46  
 
 1.  Het Tribunaal of de commissaris kan een of meer deskundigen benoemen, teneinde bij het onderzoek der zaak voorlichting of bijstand te verleenen, een bepaald onderzoek in te stellen en daaromtrent een met redenen omkleed verslag uit te brengen.   
-2.   De in het tweede lid van het voorgaande artikel genoemde bepalingen zijn ook ten aanzien van deskundigen en hun verhoor van overeenkomstige toepassing. Insgelijks is van overeenkomstige toepassing het bepaalde in de [artikelen 227, tweede en vierde lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [228](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [229](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [230, tweede en derde lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [231](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) - behalve voor zoover daarin van den officier van justitie wordt gesproken - [235, eerste zin](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), en [236 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+2.   De in het tweede lid van het voorgaande artikel genoemde bepalingen zijn ook ten aanzien van deskundigen en hun verhoor van overeenkomstige toepassing. Insgelijks is van overeenkomstige toepassing het bepaalde in de artikelen 227, tweede en vierde lid, 228, 229, 230, tweede en derde lid, 231 - behalve voor zoover daarin van den officier van justitie wordt gesproken - 235, eerste zin, en 236 van het Wetboek van Strafvordering.  
 
 ### Artikel  47  
 
@@ -427,14 +427,14 @@ c. in alle andere gevallen tenminste drie maanden.
 ### Artikel  51  
 
 1.  De zitting van het Tribunaal wordt in het openbaar gehouden, voor zoover het Tribunaal niet om gewichtige, in het proces-verbaal der zitting te vermelden redenen mocht bevelen, dat het onderzoek geheel of gedeeltelijk met gesloten deuren zal plaats hebben.   
-2.   Het bepaalde in de [artikelen 269](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [273, laatste lid](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [274](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [275](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), [277](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [303 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is ten aanzien van de behandeling der zaak ter zitting van het Tribunaal van overeenkomstige toepassing.   
+2.   Het bepaalde in de artikelen 269, 273, laatste lid, 274, 275, 277 en 303 van het Wetboek van Strafvordering is ten aanzien van de behandeling der zaak ter zitting van het Tribunaal van overeenkomstige toepassing.   
 3.   Indien de beschuldigde niet ter zitting tegenwoordig is, kan het Tribunaal zoowel bij den aanvang als gedurende den loop van het onderzoek bevelen, dat hij op een bepaald tijdstip ter zitting aanwezig zal zijn en kan het daartoe tevens zijne medebrenging gelasten. Van elke afwezigheid van den beschuldigde wordt in het proces-verbaal melding gemaakt.   
 4.   Indien de beschuldigde zich in vrijheid bevindt en ter zitting aanwezig is, kan het Tribunaal op de in artikel 37, eerste lid, vermelde gronden overeenkomstig het bepaalde in artikel 43, derde lid, een bevel tot zijn inverzekeringstelling geven.   
 5.   De behandeling der zaak ter zitting van het Tribunaal geschiedt voorts met inachtneming der volgende artikelen van dezen Titel, met dien verstande, dat elke bevoegdheid, ingevolge deze artikelen aan den beschuldigde toegekend, ook toekomt aan diens raadsman en dat in de gevallen, waarin ingevolge deze artikelen de toestemming of het hooren van den beschuldigde of diens raadsman wordt gevorderd, dit alleen geldt ten aanzien van den op de zitting aanwezigen beschuldigde.  
 
 ### Artikel  52  
 
-1.  Het onderzoek ter zitting wordt begonnen overeenkomstig het bepaalde in [artikel 278 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+1.  Het onderzoek ter zitting wordt begonnen overeenkomstig het bepaalde in artikel 278 van het Wetboek van Strafvordering.   
 2.   De voorzitter doet daarop den secretaris de beschuldiging voorlezen, ter zake waarvan de beschuldige zich volgens de dagvaarding heeft te verantwoorden.   
 3.   Vervolgens worden processen-verbaal, verslagen van deskundigen en andere schriftelijke bewijsstukken voorgelezen, waarna de beschuldigde door den voorzitter wordt verhoord.  
 
@@ -447,7 +447,7 @@ c. in alle andere gevallen tenminste drie maanden.
 
 ### Artikel  54  
 
-1.  Ten aanzien van het verhoor van den beschuldigde is het bepaalde in de [artikelen 301](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) en [309 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing.   
+1.  Ten aanzien van het verhoor van den beschuldigde is het bepaalde in de artikelen 301 en 309 van het Wetboek van Strafvordering van overeenkomstige toepassing.   
 2.   Nadat de beschuldigde door den voorzitter is verhoord, kunnen achtereenvolgens de overige leden van het Tribunaal en de raadsman hem vragen doen.   
 3.   Gedurende den verderen loop van het onderzoek kunnen den beschuldigde opnieuw vragen worden gedaan. Ook kunnen aan den beschuldigde reeds vóór zijn verhoor vragen worden gedaan, voor zoover de voorzitter niet met goedvinden van het Tribunaal bepaalt, dat eenige ondervraging van den beschuldigde tot diens verhoor zal worden aangehouden.  
 
@@ -459,7 +459,7 @@ c. in alle andere gevallen tenminste drie maanden.
 
 ### Artikel  56  
 
-Indien de beschuldigde of een der personen, in artikel 48 bedoeld, de Nederlandsche taal niet verstaat of niet of slechts zeer gebrekkig hooren of spreken kan, vindt [artikel 191 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) overeenkomstige toepassing, met dien verstande, dat het daar ten aanzien van den rechter-commissaris bepaalde ten deze voor den voorzitter geldt. 
+Indien de beschuldigde of een der personen, in artikel 48 bedoeld, de Nederlandsche taal niet verstaat of niet of slechts zeer gebrekkig hooren of spreken kan, vindt artikel 191 van het Wetboek van Strafvordering overeenkomstige toepassing, met dien verstande, dat het daar ten aanzien van den rechter-commissaris bepaalde ten deze voor den voorzitter geldt. 
 
 ### Artikel  57  
 
@@ -470,7 +470,7 @@ Indien de beschuldigde of een der personen, in artikel 48 bedoeld, de Nederlands
 
 1.  Het Tribunaal is bevoegd de beschuldiging tijdens het onderzoek ter zitting aan te vullen of te wijzigen.   
 2.   De inhoud van de aangebrachte aanvullingen en wijzigingen wordt in het proces-verbaal der zitting opgenomen.   
-3.   Het bepaalde in [artikel 314 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) is van overeenkomstige toepassing. Indien evenwel de beschuldiging ingevolge de daarin aangebrachte aanvullingen en wijzigingen een of meer andere gedragingen dan tevoren inhoudt, kan het onderzoek alleen bij aanwezigheid van den beschuldigde aanstonds worden voortgezet en wordt deze, indien hij afwezig is, ter zitting voor de nadere behandeling te bepalen opnieuw gedagvaard.   
+3.   Het bepaalde in artikel 314 van het Wetboek van Strafvordering is van overeenkomstige toepassing. Indien evenwel de beschuldiging ingevolge de daarin aangebrachte aanvullingen en wijzigingen een of meer andere gedragingen dan tevoren inhoudt, kan het onderzoek alleen bij aanwezigheid van den beschuldigde aanstonds worden voortgezet en wordt deze, indien hij afwezig is, ter zitting voor de nadere behandeling te bepalen opnieuw gedagvaard.   
 4.   Het Tribunaal kan zoowel bij den aanvang als gedurende den loop van het onderzoek, indien hiertoe termen aanwezig zijn, de nietigheid der dagvaarding uitspreken.  
 
 ### Artikel  59  
@@ -488,7 +488,7 @@ Indien de beschuldigde of een der personen, in artikel 48 bedoeld, de Nederlands
 
 ### Artikel  61  
 
-Na afloop van het onderzoek ter zitting wordt gehandeld overeenkomstig het bepaalde in [artikel 345 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md). 
+Na afloop van het onderzoek ter zitting wordt gehandeld overeenkomstig het bepaalde in artikel 345 van het Wetboek van Strafvordering. 
 
 ### Artikel  62  
 
@@ -569,11 +569,11 @@ Nadat omtrent de verleening van het fiat executie is beslist, worden alle op de 
 
 ### Artikel  77  
 
-Ten aanzien van de ingevolge dit besluit voorgeschreven beteekeningen en andere mededeelingen is het bepaalde in de [artikelen 585-589 van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) van overeenkomstige toepassing. 
+Ten aanzien van de ingevolge dit besluit voorgeschreven beteekeningen en andere mededeelingen is het bepaalde in de artikelen 585-589 van het Wetboek van Strafvordering van overeenkomstige toepassing. 
 
 ### Artikel  78  
 
-In alle gevallen, waarin ingevolge de bepalingen van dit besluit bij de behandeling van zaken door het Tribunaal de inachtneming van bepaalde vormen of termijnen is voorgeschreven, heeft verzuim van den voorgeschreven vorm of niet-inachtneming van den gestelden termijn, ook indien daarop bij eenig toepasselijk verklaard artikel van het [Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) nietigheid is gesteld, alleen dan nietigheid ten gevolge, indien het Tribunaal, gelet op de omstandigheden en de belangen van den ter zake betrokken persoon, tot de nietigverklaring termen aanwezig acht. Zooveel mogelijk draagt het Tribunaal zorg voor het herstel van het verzuim onder aanwijzing van de verrichtingen, welke daartoe opnieuw zullen geschieden. 
+In alle gevallen, waarin ingevolge de bepalingen van dit besluit bij de behandeling van zaken door het Tribunaal de inachtneming van bepaalde vormen of termijnen is voorgeschreven, heeft verzuim van den voorgeschreven vorm of niet-inachtneming van den gestelden termijn, ook indien daarop bij eenig toepasselijk verklaard artikel van het Wetboek van Strafvordering nietigheid is gesteld, alleen dan nietigheid ten gevolge, indien het Tribunaal, gelet op de omstandigheden en de belangen van den ter zake betrokken persoon, tot de nietigverklaring termen aanwezig acht. Zooveel mogelijk draagt het Tribunaal zorg voor het herstel van het verzuim onder aanwijzing van de verrichtingen, welke daartoe opnieuw zullen geschieden. 
 
 ### Artikel  79  
 

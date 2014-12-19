@@ -15,7 +15,7 @@ a.  *Hof:* het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maar
 b.  *Gerecht:* het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;  
 
 c.  *griffier:* de griffier van het Hof onderscheidenlijk van het Gerecht.     
-2.  De algemene maatregel van rijksbestuur bedoeld in [artikel 37 van de Rijkswet Gemeenschappelijk Hof van Justitie](../../../../../../rijkswet/rijkswet/gemeenschappelijk/hof/van/justitie/BWBR0028070/README.md) is van toepassing op de administratieve rechtspraak, tenzij in deze wet anders is bepaald.  
+2.  De algemene maatregel van rijksbestuur bedoeld in artikel 37 van de Rijkswet Gemeenschappelijk Hof van Justitie is van toepassing op de administratieve rechtspraak, tenzij in deze wet anders is bepaald.  
 
 ### Artikel  2  
 

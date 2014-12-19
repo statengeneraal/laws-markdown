@@ -106,7 +106,7 @@ b. voor de toepassing van artikel 3.13, eerste lid, onderdeel c, en artikel 3.14
 
 1°. de pensioengerechtigde leeftijd heeft bereikt; of  
 
-2°. de pensioengerechtigde leeftijd niet heeft bereikt en geen bijdrage als bedoeld in artikel 3.11, eerste lid, of artikel 3.12, eerste en tweede lid, verschuldigd is, met dien verstande dat het vermogen ten minste nihil bedraagt.       
+2°. de pensioengerechtigde leeftijd niet heeft bereikt en geen bijdrage als bedoeld in artikel 3.11, eerste lid, of artikel 3.12, eerste en tweede lid, dan wel artikel 3.3.2.1, eerste lid, of artikel 3.3.2.2, eerste en tweede lid, van het Besluit langdurige zorg verschuldigd is, met dien verstande dat het vermogen ten minste nihil bedraagt.       
 2.  De vermogensgrondslag van een persoon is zijn grondslag sparen en beleggen, over het peiljaar, of indien over het peiljaar artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001 op de persoon van toepassing is, het aan hem toegerekende gedeelte van de toepasselijke gezamenlijke grondslag sparen en beleggen, bedoeld in dat lid.   
 3.  In afwijking van het tweede lid is de vermogensgrondslag van een persoon bij toepassing jegens hem van artikel 3.14, tweede lid, artikel 3.15, tweede lid, of artikel 3.16, de te verwachten grondslag sparen en beleggen over het lopende jaar, of indien artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001 vermoedelijk op de persoon van toepassing zal zijn, het te verwachten aan hem toe te rekenen deel van de toepasselijke te verwachten gezamenlijke grondslag sparen en beleggen, bedoeld in artikel 5.2, tweede lid, van de Wet inkomstenbelasting 2001.   
 4.  Het deel van het bedrag, bedoeld in het eerste lid, onderdeel a, dat de vermogensgrondslag van de persoon overtreft, wordt voor zijn echtgenoot als vermindering toegepast.  
@@ -115,7 +115,7 @@ b. voor de toepassing van artikel 3.13, eerste lid, onderdeel c, en artikel 3.14
 Treedt in werking per 01-01-2015 
 
 1.  De cliënt betaalt de bijdrage binnen dertig dagen nadat het CAK of een andere instantie als bedoeld in artikel 2.1.4, zevende lid, van de wet het besluit bekend heeft gemaakt waarbij vastgesteld is of en in welke omvang de cliënt een bijdrage verschuldigd is, tenzij dat besluit een later tijdstip vermeldt.   
-2.  Het CAK is bevoegd tot verrekening van vorderingen krachtens de wet van of op de cliënt met vorderingen van of op de cliënt krachtens de Wet maatschappelijke ondersteuning en de Algemene Wet Bijzondere Ziektekosten.   
+2.  Het CAK is bevoegd tot verrekening van vorderingen krachtens de wet van of op de cliënt met vorderingen van of op de cliënt krachtens de Wet langdurige zorg, de Wet maatschappelijke ondersteuning en de Algemene Wet Bijzondere Ziektekosten.   
 3.  Het gemeentebestuur of een andere instantie als bedoeld in artikel 2.1.4, zevende lid, van de wet is bevoegd tot verrekening van vorderingen krachtens de wet van of op een cliënt met vorderingen van of op deze cliënt krachtens de Wet maatschappelijke ondersteuning of de Participatiewet. De eerste volzin is niet van toepassing op de bijdrage voor opvang voor personen die de thuissituatie hebben verlaten in verband met risico’s voor hun veiligheid als gevolg van huiselijk geweld.   
 4.  Het CAK maakt voor de vaststelling van de bijdrage gebruik van het inkomensgegeven, bedoeld in artikel 21, onderdeel e, van de Algemene wet inzake rijksbelastingen en van andere door de inspecteur, bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen, verstrekte gegevens.  
 
@@ -144,7 +144,7 @@ Treedt in werking per 01-01-2015
 
 1.  Bij ministeriële regeling worden de bedragen, genoemd in de artikelen 3.8, eerste lid, voor zover het betreft de in dat lid genoemde bedragen per bijdrageperiode, 3.9, tweede en vierde lid, 3.11, tweede lid, 3.12, derde lid, en artikel 3.14, tweede en vierde lid, jaarlijks gewijzigd aan de hand van de prijsindex voor de gezinsconsumptie. De berekende bedragen worden naar beneden afgerond op een veelvoud van € 0,2. Bij de jaarlijkse toepassing van dit lid wordt de afronding buiten beschouwing gelaten.   
 2.  Bij ministeriële regeling wordt het bedrag, genoemd in artikel 3.2, eerste lid, onderdeel b, jaarlijks gewijzigd aan de hand van het indexcijfer waarmee het bedrag, genoemd in artikel 5.5 van de Wet inkomstenbelasting 2001, jaarlijks wordt gewijzigd.   
-3.  Bij ministeriële regeling worden de bedragen van het bijdrageplichtig inkomen, genoemd in 3.8, eerste lid, jaarlijks gewijzigd aan de hand van de ontwikkelingen van het minimumloon, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantietoeslag.  
+3.  Bij ministeriële regeling worden de bedragen van het bijdrageplichtig inkomen, genoemd in 3.8, eerste lid, jaarlijks gewijzigd aan de hand van de ontwikkelingen van het minimumloon, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag.  
 
 ### §  2  
 
@@ -165,9 +165,9 @@ a. voor de ongehuwde cliënt, niet meer dan € 19,40 per bijdrageperiode met di
 
 b. voor de gehuwde cliënt of de gehuwde cliënten tezamen, niet meer dan € 27,60 per bijdrageperiode, met dien verstande dat dit bedrag, indien het gezamenlijke bijdrageplichtig inkomen, berekend volgens artikel 3.9: 
 
-1° meer bedraagt dan € 27.917 en een van beiden of beiden de pensioengerechtigde leeftijd nog niet heeft bereikt, wordt verhoogd met een dertiende deel van 15% van het verschil tussen dat gezamenlijke inkomen en € 27.917;  
+1° meer bedraagt dan € 27.917 en een van beiden of beiden de pensioengerechtigde leeftijd nog niet heeft bereikt of nog niet hebben bereikt, wordt verhoogd met een dertiende deel van 15% van het verschil tussen dat gezamenlijke inkomen en € 27.917;  
 
-2° 2˚ meer bedraagt dan € 23.046 en beiden de pensioengerechtigde leeftijd hebben bereikt, wordt verhoogd met een dertiende deel van 15% van het verschil tussen dat gezamenlijke inkomen en € 23.046.    
+2° meer bedraagt dan € 23.046 en beiden de pensioengerechtigde leeftijd hebben bereikt, wordt verhoogd met een dertiende deel van 15% van het verschil tussen dat gezamenlijke inkomen en € 23.046.    
 
 2. De bijdrage kan bij verordening voor alle categorieën personen, genoemd in het eerste lid in gelijke mate worden verlaagd: 
 
@@ -177,7 +177,7 @@ b. door de bedragen van het inkomensbedrag, genoemd in het eerste lid, te verhog
 3.  Voor de toepassing van het eerste lid wordt overeenkomstig de weeknummers volgens de internationale standaard ISO 8601 uitgegaan van twaalf bijdrageperioden van vier weken en een bijdrageperiode die vier of vijf weken bedraagt.   
 4.  De bijdrage is niet verschuldigd: 
 
-a. indien de cliënt of de echtgenoot van de cliënt een bijdrage als bedoeld in artikel 3.11 of 3.12 dan wel een bijdrage ingevolge de artikelen 4 of 14 van het Bijdragebesluit zorg verschuldigd is;  
+a. indien de cliënt of de echtgenoot van de cliënt een bijdrage als bedoeld in artikel 3.11 of 3.12 dan wel een bijdrage ingevolge de artikelen 3.3.2.1 of 3.3.2.2 van het Besluit langdurige zorg verschuldigd is;  
 
 b. indien de cliënt of zijn echtgenoot gedurende twee of meer nachten aaneengesloten in de bijdrageperiode in een instelling voor opvang verblijft;  
 
@@ -202,6 +202,12 @@ Treedt in werking per 01-01-2015
 1.  Indien ten aanzien van de ongehuwde of gehuwde cliënten geen gegevens inzake het inkomen of de grondslag sparen en beleggen beschikbaar zijn, wordt de bijdrage vastgesteld op het bedrag per bijdrageperiode, genoemd in artikel 3.8, eerste lid.   
 2.  Indien na de vaststelling van de bijdrage uit alsnog beschikbaar gekomen gegevens inzake het inkomen of de grondslag sparen en beleggen, of uit een wijziging van deze gegevens, blijkt dat de bijdrage op onjuist bedrag is vastgesteld, herziet het CAK de bijdrage met inachtneming van de beschikbaar gekomen gegevens dan wel van die wijziging.  
 
+### Artikel  3.10a  
+Treedt in werking per 01-01-2015 
+
+1.  De hoogte van de maximale bijdrage per bijdrageperiode welke op grond van artikel 3.8 eerste lid, verschuldigd is, wordt opnieuw berekend voor de periode van de eerste dag van januari tot en met de eenendertigste dag van de daaropvolgende maand december.   
+2.  In afwijking van artikel 3.10, eerste lid, geldt, indien het inkomen bij de jaarlijkse herberekening nog moet worden vastgesteld, als bijdrage, de bijdrage die over de laatste maand in het vorige kalenderjaar verschuldigd was.  
+
 ### §  3  
 
 ####Bijdragen voor beschermd wonen
@@ -217,7 +223,7 @@ a. de ongehuwde cliënt die in een instelling voor beschermd wonen verblijft;
 
 b. de gehuwde cliënten tezamen die beiden in een instelling voor beschermd wonen verblijven;  
 
-c. de gehuwde cliënt wiens echtgenoot een bijdrage ingevolge artikel 4 van het Bijdragebesluit zorg verschuldigd is.     
+c. de gehuwde cliënt wiens echtgenoot een bijdrage ingevolge artikel 3.3.2.1 van het Besluit langdurige zorg verschuldigd is.     
 2.  De bijdrage, bedoeld in het eerste lid, bedraagt niet meer dan € 2.284,60 per maand.   
 3.  In het geval, bedoeld in het eerste lid, onderdeel c, zijn de cliënt en zijn echtgenoot tezamen slechts eenmaal de bijdrage, berekend overeenkomstig het eerste en tweede lid, verschuldigd.  
 
@@ -226,22 +232,28 @@ Treedt in werking per 01-01-2015
 
 1.  In afwijking van artikel 3.11 geldt een bijdrage per maand van 12,5% van het bijdrageplichtig inkomen, berekend volgens artikel 3.14, voor: 
 
-a. de ongehuwde cliënt gedurende de eerste zes maanden van verblijf in een instelling voor beschermd wonen, tenzij het verblijf aansluit op verblijf dat ten laste van de zorgverzekering of het fonds, genoemd in artikel 89 van de Wet financiering sociale verzekeringen, kwam en het verblijf ten laste van de zorgverzekering of het eerdergenoemde fonds langer dan zes maanden was;  
+a. de ongehuwde cliënt gedurende de eerste zes maanden van verblijf in een instelling voor beschermd wonen;  
 
-b. de gehuwde cliënten tezamen, zolang niet ten aanzien van elk van hen een periode van zes maanden is verstreken, tezamen, tenzij het verblijf aansluit op verblijf dat ten laste van de zorgverzekering of het fonds, genoemd in artikel 89 van de Wet financiering sociale verzekeringen, kwam en het verblijf ten laste van de zorgverzekering of het eerdergenoemde fonds langer dan zes maanden was;  
+b. de gehuwde cliënten tezamen, zolang niet ten aanzien van elk van hen een periode van zes maanden is verstreken, tezamen;  
 
 c. de ongehuwde cliënt die moet of gehuwde cliënten tezamen die moeten voorzien in de kosten van onderhoud van eigen, aangehuwde of pleegkinderen, mits voor die kinderen op grond van de Algemene Kinderbijslagwet recht op een uitkering bestaat of aan die kinderen, voor zover ze de leeftijd van 27 jaar nog niet hebben bereikt, studiefinanciering is toegekend krachtens de Wet studiefinanciering 2000;  
 
 d. de ongehuwde cliënt of de gehuwde cliënten tezamen indien het college het waarschijnlijk acht dat het verblijf in de instelling voor beschermd wonen voor de ongehuwde cliënt, voor beide of voor een van beide gehuwde cliënten binnen een half jaar kan worden beëindigd en terugkeer naar de maatschappij mogelijk is en zal worden bewerkstelligd.     
-2.  De bijdrage bedraagt voorts per maand een twaalfde gedeelte van 12,5% van het bijdrageplichtig inkomen, berekend volgens artikel 3.13, voor: 
+2.  De bijdrage bedraagt voorts per maand een twaalfde gedeelte van 12,5% van het bijdrageplichtig inkomen, berekend volgens artikel 3.14, voor: 
 
 a. de gehuwde cliënt die in een instelling voor beschermd wonen verblijft en wiens echtgenoot geen maatwerkvoorziening of persoonsgebonden budget ontvangt;  
 
 b. de gehuwde cliënten tezamen van wie één in een instelling voor beschermd wonen verblijft en wiens echtgenoot een persoonsgebonden budget of een andere maatwerkvoorziening ontvangt;  
 
-c. de gehuwde cliënt die in een instelling voor beschermd wonen verblijft en wiens echtgenoot zorg ontvangst als bedoeld in artikel 14 van het Besluit zorgaanspraken AWBZ of een subsidie ontvangt als bedoeld in artikel 44, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten, met dien verstande dat de cliënt en zijn echtgenoot tezamen de bijdrage slechts eenmaal verschuldigd zijn.     
+c. de gehuwde cliënt die in een instelling voor beschermd wonen verblijft en wiens echtgenoot zorg ontvangt als bedoeld in artikel 3.1.1, eerste lid, van de Wet langdurige zorg, voor zover het zorg met verblijf in een instelling, een volledig pakket thuis of een persoonsgebonden budget betreft, met dien verstande dat de cliënt en zijn echtgenoot tezamen de bijdrage slechts eenmaal verschuldigd zijn.     
 3.  De bijdrage voor beschermd wonen, bedoeld in het eerste lid, bedraagt ten minste € 158,60 en niet meer dan € 832,60 per maand.   
-4.  De onderdelen a en b van het eerste lid zijn niet van toepassing indien het verblijf aanvangt binnen zes maanden na beëindiging van een verblijf in een instelling voor beschermd wonen waarvoor de ongehuwde cliënt of de gehuwde cliënten tezamen een bijdrage als bedoeld in artikel 3.11 verschuldigd was of waren.   
+4.  De onderdelen a en b van het eerste lid zijn niet van toepassing indien: 
+
+a. het een cliënt betreft van wie het recht op verblijf en de daarbij behorende medisch noodzakelijke geneeskundige zorg in verband met een psychische stoornis krachtens zijn zorgverzekering is geëindigd omdat de krachtens de Zorgverzekeringswet geldende maximumduur voor die zorg is bereikt, of  
+
+b. het verblijf aanvangt binnen zes maanden na beëindiging van een verblijf in een instelling voor beschermd wonen waarvoor de ongehuwde cliënt of de gehuwde cliënten tezamen een bijdrage als bedoeld in artikel 3.11 verschuldigd was of waren, of  
+
+c. het verblijf aanvangt binnen zes maanden na beëindiging van een verblijf in een instelling waarvoor de ongehuwde cliënt of de gehuwde cliënten tezamen een bijdrage als bedoeld in artikel 3.3.2.1 van het Besluit langdurige zorg verschuldigd was of waren.     
 5.  Voor de berekening van de periode van zes maanden, bedoeld in het vierde lid, worden perioden van verblijf in instellingen voor beschermd wonen samengeteld, tenzij tussen twee zodanige perioden meer dan zestig dagen zijn verlopen. De eerste volzin is niet van toepassing op cliënten die maximaal twee weken per twee maanden in een instelling voor beschermd wonen verblijven.   
 6.  Op aanvraag van de cliënt is deze bijdrage niet verschuldigd indien de cliënt een uitkering als bedoeld in artikel 23, eerste lid, van de Participatiewet ontvangt of indien de cliënt ingevolge artikel 13, tweede lid, onderdeel a, van die wet geen uitkering ontvangt.  
 
@@ -261,7 +273,7 @@ b. op het met toepassing van onderdeel a berekende bedrag worden in mindering ge
 3°. op aanvraag van de cliënt, de in het peiljaar geldende uitkering op grond van artikel 14 van de Wet uitkeringen vervolgingsslachtoffers 1940–1945 of op grond van artikel 20 van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945;    
 
 c. het met toepassing van onderdeel b berekende bedrag wordt vermeerderd met 8% van het vermogen van de ongehuwde cliënt, onderscheidenlijk 8% van de opgetelde vermogens van de gehuwde cliënten.     
-2.  Op aanvraag van de cliënt stelt het CAK, in afwijking van het eerste lid, onderdelen a en c, het bijdrageplichtig inkomen voorlopig vast op basis van het redelijkerwijs gedurende het lopende kalenderjaar te verwachten inkomen, 8% van het te verwachten vermogen, en de over dat kalenderjaar te verwachten belasting indien toepassing van het eerste lid, onderdelen a en c, ertoe zou leiden dat na afdracht van de bijdrage maandelijks gemiddeld minder over zou blijven dan het zak- en kleedgeld, zoals dat geldt in het lopende kalenderjaar, alsmede een bedrag in verband met de standaardpremie gecorrigeerd met de zorgtoeslag. Het aldus berekende bijdrageplichtig inkomen wordt, om de per maand verschuldigde bijdrage vast te stellen, gedeeld door twaalf.   
+2.  Op aanvraag van de cliënt stelt het CAK, in afwijking van het eerste lid, onderdelen a en c, het bijdrageplichtig inkomen voorlopig vast op basis van het redelijkerwijs gedurende het lopende kalenderjaar te verwachten inkomen, 8% van het te verwachten vermogen, en de over dat kalenderjaar te verwachten belasting indien toepassing van het eerste lid, onderdelen a en c, ertoe zou leiden dat na afdracht van de bijdrage maandelijks gemiddeld minder over zou blijven dan het zak- en kleedgeld, zoals dat geldt in het lopende kalenderjaar, alsmede een bedrag in verband met de standaardpremie, vermeerderd met de inkomensafhankelijke premie Zorgverzekeringswet, bedoeld in artikel 43, eerste lid, van de Zorgverzekeringswet, en verminderd met de zorgtoeslag, zoals deze bedragen gelden in het lopende kalenderjaar. Het aldus berekende bijdrageplichtig inkomen wordt, om de per maand verschuldigde bijdrage vast te stellen, gedeeld door twaalf.   
 3.  De aanvraag, bedoeld in het tweede lid, wordt gedaan uiterlijk drie maanden na afloop van het kalenderjaar waarop de aanvraag betrekking heeft of uiterlijk drie maanden na de datum waarop de bijdrage op basis van het bijdrageplichtig inkomen, bedoeld in het eerste lid, wordt vastgesteld.   
 4.  Indien het tweede lid is toegepast, vindt na afloop van het jaar en na ontvangst van definitieve inkomens- en vermogensgegevens de definitieve vaststelling plaats. Indien daaruit blijkt dat niet voldaan is aan het tweede lid, vindt definitieve vaststelling plaats met toepassing van het eerste lid.   
 5.  Inkomen dat buiten Nederland wordt belast, dan wel is vrijgesteld van belasting op grond van bepalingen van internationaal recht, wordt mede in aanmerking genomen als ware dit aan de Nederlandse belastingwetgeving onderworpen. Op aanvraag van de cliënt wordt daarop de in het buitenland verschuldigde belasting in mindering gebracht.  
@@ -270,7 +282,7 @@ c. het met toepassing van onderdeel b berekende bedrag wordt vermeerderd met 8% 
 Treedt in werking per 01-01-2015 
 
 1.  Voor de berekening van de bijdrage, bedoeld in artikel 3.12, eerste en tweede lid, bestaat het bijdrageplichtig inkomen uit het inkomen over het peiljaar van de ongehuwde cliënt, onderscheidenlijk van de gehuwde cliënten tezamen, vermeerderd met 8% van het vermogen van de ongehuwde cliënt, onderscheidenlijk 8% van de opgetelde vermogens van de gehuwde cliënten.   
-2.  Op aanvraag van de cliënt stelt het CAK, in afwijking van het eerste lid, het bijdrageplichtig inkomen voorlopig vast op grond van het inkomen en het vermogen van het lopende jaar, indien redelijkerwijs te verwachten is dat het bijdrageplichtig inkomen in het lopende jaar ten minste € 2.540 lager zal zijn dan het bijdrageplichtig inkomen, bedoeld in het eerste lid, dan wel algemene bijstand op grond van de Participatiewet betreft.   
+2.  Op aanvraag van de cliënt stelt het CAK, in afwijking van het eerste lid, het bijdrageplichtig inkomen voorlopig vast op grond van het inkomen en het vermogen van het lopende jaar, indien redelijkerwijs te verwachten is dat het bijdrageplichtig inkomen in het lopende jaar ten minste € 2.540 lager zal zijn dan het bijdrageplichtig inkomen, bedoeld in het eerste lid, dan wel indien de verzekerde algemene bijstand op grond van de Participatiewet ontvangt.   
 3.  De aanvraag, bedoeld in het tweede lid, wordt gedaan uiterlijk drie maanden na afloop van het kalenderjaar waarop de aanvraag betrekking heeft of uiterlijk drie maanden na de datum waarop de bijdrage, bedoeld in het eerste lid, wordt vastgesteld.   
 4.  Indien het tweede lid is toegepast, vindt na afloop van het jaar en na ontvangst van de definitieve inkomens- en vermogensgegevens definitieve vaststelling plaats. Indien daarbij blijkt dat het bijdrageplichtig inkomen over het lopende jaar minder dan € 2.540 lager is geweest dan het bijdrageplichtig inkomen, bedoeld in het eerste lid, vindt definitieve vaststelling plaats overeenkomstig het eerste lid.   
 5.  Inkomen dat buiten Nederland wordt belast, dan wel is vrijgesteld van belasting op grond van bepalingen van internationaal recht, wordt mede in aanmerking genomen als ware dit aan de Nederlandse belastingwetgeving onderworpen. Op aanvraag van de cliënt wordt daarop de in het buitenland verschuldigde belasting in mindering gebracht.  
