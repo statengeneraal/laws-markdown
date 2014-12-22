@@ -3,14 +3,14 @@
 ##Nadere Regeling spreiding en behoefte MEE-organisaties
 
 Het College voor zorgverzekeringen,  
-Gelet op [artikel 2.5.1, eerste lid, van de Regeling subsidies AWBZ](../../../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md);
+Gelet op artikel 2.5.1, eerste lid, van de Regeling subsidies AWBZ;
 Heeft in zijn vergadering van 13 april 2006 besloten:    
 
 ### Artikel  1  
 
 Deze regeling verstaat onder: 
 
-a. MEE-organisatie: een organisatie voor laagdrempelige, onafhankelijke en betrouwbare cliëntondersteuning ten behoeve van hun cliënten, zijnde verzekerden met een verstandelijke, lichamelijke of zintuiglijke handicap of een beperking uit het autistisch spectrum, al dan niet als gevolg van een chronische ziekte, hun ouders, andere verwanten, verzorgers of vertegenwoordigers, als bedoeld in de [Regeling subsidies AWBZ](../../../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md);  
+a. MEE-organisatie: een organisatie voor laagdrempelige, onafhankelijke en betrouwbare cliëntondersteuning ten behoeve van hun cliënten, zijnde verzekerden met een verstandelijke, lichamelijke of zintuiglijke handicap of een beperking uit het autistisch spectrum, al dan niet als gevolg van een chronische ziekte, hun ouders, andere verwanten, verzorgers of vertegenwoordigers, als bedoeld in de Regeling subsidies AWBZ;  
 
 b. werkgebied: een regio als bedoeld in de bijlage bij deze regeling;  
 
@@ -35,7 +35,7 @@ Een MEE-organisatie vormt geen bestuurlijke eenheid met een toegelaten zorgaanbi
 
 ### Artikel  5  
 
-De [Nadere Regeling spreiding en behoefte MEE-organisaties](../../../../../../../../zbo/nadere/regeling/spreiding/en/behoefte/mee-organisaties/2005/BWBR0017829/README.md) (Stcrt. 2005, 31) wordt ingetrokken. 
+De Nadere Regeling spreiding en behoefte MEE-organisaties (Stcrt. 2005, 31) wordt ingetrokken. 
 
 ### Artikel  6  
 

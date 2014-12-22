@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Economische Zaken van 29 november 2013, nr. WJZ/13198136, houdende vaststelling van de retributies verbonden aan het inzien van het handelsregister (Financiële regeling handelsregister 2014)
 
 De Minister van Economische Zaken,  
-Gelet op [artikel 4 van het Financieel besluit handelsregister](../../../../../../AMvB/uitvoeringsbesluit/voorwaardelijke/invrijheidstelling/BWBR0024029/README.md) en [artikel 41, zevende lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);
+Gelet op artikel 4 van het Financieel besluit handelsregister en artikel 41, zevende lid, van de Handelsregisterwet 2007;
 Besluit:    
 
 ### Artikel  1  
@@ -50,7 +50,7 @@ c. voor een schriftelijke mededeling met betrekking tot hetgeen in het handelsre
 
 ### Artikel  3  
 
-1.  In dit artikel wordt onder KvK-nummer verstaan: het unieke nummer, bedoeld in de [artikelen 9, onder a](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), en [13, onder a, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md).   
+1.  In dit artikel wordt onder KvK-nummer verstaan: het unieke nummer, bedoeld in de artikelen 9, onder a, en 13, onder a, van de Handelsregisterwet 2007.   
 2.  Voor het verstrekken van overzichten van ondernemingen of rechtspersonen van hetgeen in het handelsregister is ingeschreven of krachtens wettelijk voorschrift daarbij is gedeponeerd, worden, onverminderd de artikelen 1 en 2, de volgende tarieven berekend: 
 
 a. voor adressenbestand aangevraagd via internet: 
@@ -133,7 +133,7 @@ i. voor adressenselectie uit te voeren door de Kamer van Koophandel:
 
 – extra rubrieken: € 0,03 per verstrekt gegeven;    
 
-j. abonnement via internet voor verstrekkingen van gegevens gerangschikt naar natuurlijk persoon op grond van [artikel 28, derde lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md): € 1000,– per abonnement per jaar;  
+j. abonnement via internet voor verstrekkingen van gegevens gerangschikt naar natuurlijk persoon op grond van artikel 28, derde lid, van de Handelsregisterwet 2007: € 1000,– per abonnement per jaar;  
 
 k. voor financiële selecties (losse posten van een jaarrekening): 
 
@@ -188,15 +188,15 @@ c. voor een overzicht verstrekt via de downloadservice van de Kamer van Koophand
 
 ### Artikel  4  
 
-De kosten van het accountantsonderzoek, bedoeld in [artikel 41, eerste lid, van de Handelsregisterwet 2007](../../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md), worden voor de helft vergoed door de Minister van Economische Zaken, tot een maximum van € 15.000,–. 
+De kosten van het accountantsonderzoek, bedoeld in artikel 41, eerste lid, van de Handelsregisterwet 2007, worden voor de helft vergoed door de Minister van Economische Zaken, tot een maximum van € 15.000,–. 
 
 ### Artikel  4a  
 
-De inschrijfvergoeding, bedoeld in [artikel 1, eerste lid, van het Financieel besluit handelsregister 2014](../../../../../../AMvB/financieel/besluit/handelsregister/2014/BWBR0034829/README.md), bedraagt € 50,00. 
+De inschrijfvergoeding, bedoeld in artikel 1, eerste lid, van het Financieel besluit handelsregister 2014, bedraagt € 50,00. 
 
 ### Artikel  5  
 
-De [Financiële regeling handelsregister 2013](../../../../../../ministeriele-regeling/financiële/regeling/handelsregister/2013/BWBR0032169/README.md) wordt ingetrokken. 
+De Financiële regeling handelsregister 2013 wordt ingetrokken. 
 
 ### Artikel  6  
 

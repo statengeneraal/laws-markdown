@@ -3,16 +3,16 @@
 ##Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 november 2013, kenmerk DMO-169614-113200, houdende aanpassing van de factoren, grondslagen en bedragen voor verzetsdeelnemers en oorlogsgetroffenen per 1 januari 2014
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op de [artikelen 31a, tweede lid, van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md), [28a, tweede lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), [35, tweede lid, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), [18, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md) en [25, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md);
+Gelet op de artikelen 31a, tweede lid, van de Wet buitengewoon pensioen 1940–1945, 28a, tweede lid, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers, 35, tweede lid, van de Wet buitengewoon pensioen Indisch verzet, 18, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945 en 25, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945;
 Besluit:    
 
 ### Artikel  1  
 
-De pensioenbedragen, bedoeld in [artikel 31b, eerste lid, onder a, van de Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en in [artikel 28b, eerste lid, onder a, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md), zoals zij golden op 1 juli 2013, worden met ingang van 1 januari 2014 verhoogd met 0,53%. 
+De pensioenbedragen, bedoeld in artikel 31b, eerste lid, onder a, van de Wet buitengewoon pensioen 1940–1945 en in artikel 28b, eerste lid, onder a, van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers, zoals zij golden op 1 juli 2013, worden met ingang van 1 januari 2014 verhoogd met 0,53%. 
 
 ### Artikel  2  
 
-De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buitengewoon pensioen 1940–1945](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/1940-1945/BWBR0002032/README.md) en de [Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/zeelieden-oorlogsslachtoffers/BWBR0002035/README.md) wordt aangepast, worden met ingang van 1 januari 2014 vastgesteld als volgt:  
+De factoren waarmee het peil der buitengewone pensioenen ingevolge de Wet buitengewoon pensioen 1940–1945 en de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers wordt aangepast, worden met ingang van 1 januari 2014 vastgesteld als volgt:  
 
 | A  pensioengrondslagen 1947 per jaar in euro  | B  welvaartstoeslag vanaf 1 januari 2014  | van  | tot en met  |--- |--- | 1.225,21  | 1.356,79  | 24 543,48 minus pensioengrondslag  | van  | tot en met  | pensioengrondslag maal factor  | plus extra  bedrag in euro  |
 |:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|:---|
@@ -68,7 +68,7 @@ De factoren waarmee het peil der buitengewone pensioenen ingevolge de [Wet buite
 
 ### Artikel  3  
 
-De pensioengrondslagen, bedoeld in [artikel 10, eerste, tweede en zesde lid, van de Wet buitengewoon pensioen Indisch verzet](../../../../../../../../../../../wet/wet/buitengewoon/pensioen/indisch/verzet/BWBR0003968/README.md), zoals zij golden op 1 juli 2013, worden met ingang van 1 januari 2014 verhoogd met 0,53%. 
+De pensioengrondslagen, bedoeld in artikel 10, eerste, tweede en zesde lid, van de Wet buitengewoon pensioen Indisch verzet, zoals zij golden op 1 juli 2013, worden met ingang van 1 januari 2014 verhoogd met 0,53%. 
 
 ### Artikel  4  
 
@@ -76,7 +76,7 @@ Wijzigt de Wet buitengewoon pensioen Indisch verzet.
 
 ### Artikel  5  
 
-De grondslagen, bedoeld in [artikel 8, eerste, tweede en zesde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), zoals zij golden op 1 juli 2013 worden met ingang van 1 januari 2014 verhoogd met 0,53%. 
+De grondslagen, bedoeld in artikel 8, eerste, tweede en zesde lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945, zoals zij golden op 1 juli 2013 worden met ingang van 1 januari 2014 verhoogd met 0,53%. 
 
 ### Artikel  6  
 
@@ -84,7 +84,7 @@ Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940–1945.
 
 ### Artikel  7  
 
-De grondslagen, bedoeld in [artikel 10, eerste, tweede, zesde, zevende en negende lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), zoals zij golden op 1 juli 2013, worden met ingang van 1 januari 2014 verhoogd met 0,53%. 
+De grondslagen, bedoeld in artikel 10, eerste, tweede, zesde, zevende en negende lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945, zoals zij golden op 1 juli 2013, worden met ingang van 1 januari 2014 verhoogd met 0,53%. 
 
 ### Artikel  8  
 

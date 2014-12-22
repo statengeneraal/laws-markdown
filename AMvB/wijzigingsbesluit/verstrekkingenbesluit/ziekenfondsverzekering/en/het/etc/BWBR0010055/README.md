@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 19 oktober 1998, VPZ/VU-983063, gedaan in overeenstemming met de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J. F. Hoogervorst; 
 
-Gelet op [artikel 8, tweede lid, van de Ziekenfondswet](../../../../../../../../wet/ziekenfondswet/BWBR0002460/README.md) en [artikel 6, derde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md); 
+Gelet op artikel 8, tweede lid, van de Ziekenfondswet en artikel 6, derde lid, van de Algemene Wet Bijzondere Ziektekosten; 
 
 De Raad van State gehoord (advies van 13 november 1998, No. W13.98.0476); 
 

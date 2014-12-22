@@ -27,6 +27,7 @@ Besluit:
 | 8  | Titel 3.5: Innovatieprestatiecontracten  | 3.5.3  | --- | --- | --- |
 | 9  | Titel 3.6: Regionale investeringsprojecten  | 3.6.2  | --- | --- | --- |
 | 10  | Titel 3.7: Eurostarsprojecten  | 3.7.2  | --- | 19-6-2014 t/m 01-07-2014  | 9.250.000  |
+| --- | Titel 3.7: Eurostarsprojecten  | 3.7.2  | --- | 18-12-2014 t/m 06-01-2015  | 9.162.500  |
 | 11  | Titel 3.8: Internationaal innoveren  | 3.8.2  | ITEA2-innovatieprojecten  | 21-02-2014 t/m 07-03-2014  | 9.000.000  |
 | CATRENE-innovatieprojecten  | 12-09-2014 t/m 26-09-2014  | 7.000.000  |
 | 12  | Titel 3.9: Innovatiekredieten  | 3.9.2  | Klinische ontwikkelingsprojecten  | 01-01-2014 t/m 31-12-2014  | 20.000.000  |
@@ -80,7 +81,7 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 | 3  | 3.3.4. netwerkactiviteiten  | Bijlage 2 T&U  | 1 t/m 4  | 15-4-2014 t/m 12-5-2014  | 50.000  |
 | 4  | 3.3.6 innovatiemakelaars  | Bijlage 2 T&U  | 1 t/m 4  | 15-4-2014 t/m 12-5-2014  | 250.000  |
 | 5  | 3.4.4 MIT haalbaarheidsstudies  3.4.8 MIT-kennisvouchers  | Bijlage 2 T&U  | 1 t/m 4  | 15-4-2014 t/m 12-5-2014  | 750.000  |
-| 6  | 3.4.20 MIT R&D samenwerkingsproject  | Bijlage 2 T&U  | 1 t/m 4  | 3-6-2014 t/m 22-9-2014  | 950.000  |
+| 6  | 3.4.20 MIT R&D samenwerkingsproject  | Bijlage 2 T&U  | 1 t/m 4  | 3-6-2014 t/m 22-9-2014  | 1.780.000  |
 | 7  | 3.3.4 netwerkactiviteiten  | Bijlage 3 Logistiek  | 1 t/m 5  | 15-4-2014 t/m 12-5-2014  | 100.000  |
 | 8  | 3.3.6 innovatiemakelaars  | Bijlage 3 Logistiek  | 1 t/m 5  | 15-4-2014 t/m 12-5-2014  | 100.000  |
 | 9  | 3.4.4 MIT haalbaarheidsstudies  3.4.8 MIT-kennisvouchers  3.4.16 inhuur personeel  3.4.26 MIT-ipc  | Bijlage 3 Logistiek  | 1 t/m 5  | 15-4-2014 t/m 12-5-2014  | 900.000  |
@@ -88,7 +89,7 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 | 11  | 3.3.4 netwerkactiviteiten  | Bijlage 4 LSH  | 1 t/m 10  | 15-4-2014 t/m 12-5-2014  | 100.000  |
 | 12  | 3.3.6 innovatiemakelaars  | Bijlage 4 LSH  | 1 t/m 10  | 15-4-2014 t/m 12-5-2014  | 200.000  |
 | 13  | 3.4.4 MIT haalbaarheidsstudies  3.4.8 MIT-kennisvouchers  | Bijlage 4 LSH  | 1 t/m 10  | 15-4-2014 t/m 12-5-2014  | 600.000  |
-| 14  | 3.4.20 MIT R&D samenwerkingsproject  | Bijlage 4 LSH  | 1 t/m 10  | 3-6-2014 t/m 22-9-2014  | 1.100.000  |
+| 14  | 3.4.20 MIT R&D samenwerkingsproject  | Bijlage 4 LSH  | 1 t/m 10  | 3-6-2014 t/m 22-9-2014  | 1.125.000  |
 | 15  | 3.3.4 netwerkactiviteiten  | Bijlage 5 Water  | 1 t/m 3  | 15-4-2014 t/m 12-5-2014  | 100.000  |
 | 16  | 3.4.4 MIT haalbaarheidsstudies  3.4.8 MIT kennisvouchers  | Bijlage 5 Water  | Haalbaarheidsstudies 1 en 2  Vouchers 2 en 3  | 15-4-2014 t/m 12-5-2014  | 1.002.900  |
 | 17  | 3.4.20 MIT R&D samenwerkingsproject  | Bijlage 5 Water  | 1 t/m 3  | 3-6-2014 t/m 22-9-2014  | 897.100  |
@@ -103,11 +104,11 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 | 26  | 3.4.4 MIT haalbaarheidsstudies  | Bijlage 6 Chemie, Biobased en Energie  | 13E t/m 39E  | 15-4-2014 t/m 12-5-2014  | 1.200.000  |
 | 27  | 3.4.20 MIT R&D samenwerkingsproject  | Bijlage 6 Chemie, Biobased en Energie  | 1C t/m 7C  | 3-6-2014 t/m 22-9-2014  | 1.216.500  |
 | 28  | 3.4.20 MIT R&D samenwerkingsproject  | Bijlage 6 Chemie, Biobased en Energie  | 8B t/m 12B  | 3-6-2014 t/m 22-9-2014  | 1.350.000  |
-| 29  | 3.4.20 MIT R&D samenwerkingsproject  | Bijlage 6 Chemie, Biobased en Energie  | 13E t/m 39E  | 3-6-2014 t/m 22-9-2014  | 500.000  |
+| 29  | 3.4.20 MIT R&D samenwerkingsproject  | Bijlage 6 Chemie, Biobased en Energie  | 13E t/m 39E  | 3-6-2014 t/m 22-9-2014  | 710.000  |
 | 30  | 3.3.4 netwerkactiviteiten  | Bijlage 7 Creatief  | 1 t/m 6  | 15-4-2014 t/m 12-5-2014  | 100.000  |
 | 31  | 3.3.6 innovatiemakelaars  | Bijlage 7 Creatief  | 1 t/m 6  | 15-4-2014 t/m 12-5-2014  | 100.000  |
 | 32  | 3.4.8 MIT-kennisvouchers  3.4.26 MIT-IPC  | Bijlage 7 Creatief  | 1 t/m 6, A t/m D en a t/m d  IPC 1 t/m 6, A t/m D en a of b  | 15-4-2014 t/m 12-5-2014  | 860.000  |
-| 33  | 3.4.20 MIT R&D samenwerkingsproject  | Bijlage 7 Creatief  | 1 t/m 6, A t/m D en a t/m d  | 3-6-2014 t/m 22-9-2014  | 940.000  |
+| 33  | 3.4.20 MIT R&D samenwerkingsproject  | Bijlage 7 Creatief  | 1 t/m 6, A t/m D en a t/m d  | 3-6-2014 t/m 22-9-2014  | 2.340.000  |
 | 34  | 3.4.20 MIT R&D samenwerkingsproject  | Bijlage 8 Agrifood  | 1 t/m 11  | 3-6-2014 t/m 22-9-2014  | 1.913.600  |
 | 35  | 3.4.4 MIT haalbaarheidsstudies  | Bijlage 8 Agrifood  | 1 t/m 11  | 15-4-2014 t/m 12-5-2014  | 478.400  |
 | 36  | 3.4.20 MIT R&D samenwerkingsproject  | Bijlage 1 t/m 8  | Alle thema’s uit de bijlagen 1 t/m 8  | 3-6-2014 t/m 22-9-2014  | 8.000.000  |
@@ -126,19 +127,19 @@ d. de opslag voor het terugbetalingsrisico: 3 procent per jaar.
 | 4  | 4.2.30  | GG-project  | --- | t/m 24 juni  | 6,7 mln  |
 | 5  | 4.2.30  | GG-project  | --- | 1 juli t/m 7 oktober  | 6,7 mln  |
 | 6  | 4.2.44  | LNG-project  | --- | t/m 17 juni  | 1,4 mln  |
-| 7  | 4.2.51  | ZEGO-project  | --- | t/m 16 september  |  *1,0 mln*   |
+| 7  | 4.2.51  | ZEGO-project  | --- | t/m 16 september  |  *2,566 mln*   |
 | 8  | 4.2.58  | EnerGO-project  | 3. Regeling energieprestatie en control  | t/m 20 mei  | 0,4767 mln  |
 | 4. Multifunctionele bouwdelen  | t/m 20 mei  | 0,6 mln  |
 | 5. Energieopwekking, distributie en opslag op gebiedsniveau  | t/m 20 mei  | 1,5 mln  |
 | 9  | --- | Early adopterproject  | --- | t/m 7 oktober  | 0,4 mln  |
 | 10  | --- | Piltoproject energiebesparing industrie  | Omzetting en scheiding  | t/m 9 september  | 0,8 mln  |
-| Utilities en control  | t/m 9 september  | 0,8 mln  |
+| Utilities en control  | t/m 9 september  | 1,4407 mln  |
 | 11  | --- | PV-project  | 1.1: Wafergebaseerde kristallijn silicium PV technologieën  | t/m 20 mei  | 1,85 mln  |
 | 1.2: Dunne film PV technologieën  | t/m 20 mei  | 1,4 mln  |
 | 1.3: Nieuwe, hybride en generiek toepasbare PV technologieën  | t/m 20 mei  | 0,5 mln  |
 | 1.4: Applicatieontwikkeling en demonstratie van Nederlandse PV- technologieën  | t/m 20 mei  | 0,9 mln  |
-| 12  | --- | PV-project  | 1.1: Wafergebaseerde kristallijn silicium PV technologieën  | 1 juni t/m 16 september  | 1,75 mln  |
-| 1.2: Dunne film PV technologieën  | 1 juni t/m 16 september  | 1,3 mln  |
+| 12  | --- | PV-project  | 1.1: Wafergebaseerde kristallijn silicium PV technologieën  | 1 juni t/m 16 september  | 2,676 mln  |
+| 1.2: Dunne film PV technologieën  | 1 juni t/m 16 september  | 2,704 mln  |
 | 13  | 4.2.65  | DEI-project  | --- | t/m 4 november  | 24,285 mln  |
 | 14  | 4.2.72  | Systeemintegratieproject  | 1. Hybride energie-infrastructuren en energieopslag  | t/m 21 oktober  | 2,0 mln  |
 | 2. Keteninteracties  | t/m 21 oktober  | 0,8 mln  |
@@ -426,7 +427,7 @@ Het subsidieplafond bedraagt: € 9.000.000.
 
 ### Artikel  42  
 
-1.  De door de Minister van Economische Zaken ingestelde beoordelingscommissie brengt na de beoordeling van de aanvragen, bedoeld in artikel 8bb, advies uit aan de Minister van Economische Zaken in de vorm van een rangschikking.   
+1.  De door de Minister van Economische Zaken ingestelde beoordelingscommissie brengt na de beoordeling van de aanvragen, bedoeld in artikel 38, advies uit aan de Minister van Economische Zaken in de vorm van een rangschikking.   
 2.  Overeenkomstig artikel 1:4 van de Regeling LNV-subsidies wordt een aanvraag hoger gerangschikt: 
 
 a. indien de integraal duurzame stal of het houderijsysteem waarin wordt geïnvesteerd in de beginfase van marktintroductie verkeert;  

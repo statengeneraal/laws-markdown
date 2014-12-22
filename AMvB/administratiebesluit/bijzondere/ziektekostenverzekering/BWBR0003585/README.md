@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid en Milieuhygiëne van 8 april 1982, DG Vgz/VKG/VZ, no 120992; 
 
-Gelet op [artikel 16, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) (*Stb.* 1967, 655); 
+Gelet op artikel 16, eerste lid, van de Algemene Wet Bijzondere Ziektekosten (*Stb.* 1967, 655); 
 
 Gehoord de Ziekenfondsraad; 
 
@@ -19,7 +19,7 @@ Hebben goedgevonden en verstaan:
 
 Voor de toepassing van dit besluit wordt verstaan onder:  
 
-a.  *de wet:* de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+a.  *de wet:* de Algemene Wet Bijzondere Ziektekosten;  
 
 b. vervallen;  
 
@@ -27,7 +27,7 @@ c. een verbindingskantoor: een ingevolge artikel 3, tweede lid, aangewezen perif
 
 ### Artikel  2  
 
-Als zorg, ten aanzien waarvan het in artikel 8 aangegeven deel van de administratie wordt verricht door de verbindingskantoren, wordt aangewezen de zorg, geregeld in de [artikelen 4 tot en met 6](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [8 tot en met 12](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [13, tweede lid](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [14](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [17](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [18 van het Besluit zorgaanspraken AWBZ](../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md).  
+Als zorg, ten aanzien waarvan het in artikel 8 aangegeven deel van de administratie wordt verricht door de verbindingskantoren, wordt aangewezen de zorg, geregeld in de artikelen 4 tot en met 6, 8 tot en met 12, 13, tweede lid, 14, 17 en 18 van het Besluit zorgaanspraken AWBZ.  
 
 ### Artikel  3  
 
@@ -38,9 +38,9 @@ Als zorg, ten aanzien waarvan het in artikel 8 aangegeven deel van de administra
 
 ### Artikel  8  
 
-1.  De verbindingskantoren bevorderen het administratieve contact tussen de zorgaanbieders enerzijds en het CAK anderzijds. Zij dienen de zorgverzekeraars voor zover nodig van advies met betrekking tot de beoordeling van de aanspraken van verzekerden, alsmede met betrekking tot de verschuldigdheid en de betalingswijze van bijdragen als bedoeld in de [artikelen 4](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), [14](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) en [16d van het Bijdragebesluit zorg](../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md).    
+1.  De verbindingskantoren bevorderen het administratieve contact tussen de zorgaanbieders enerzijds en het CAK anderzijds. Zij dienen de zorgverzekeraars voor zover nodig van advies met betrekking tot de beoordeling van de aanspraken van verzekerden, alsmede met betrekking tot de verschuldigdheid en de betalingswijze van bijdragen als bedoeld in de artikelen 4, 14 en 16d van het Bijdragebesluit zorg.    
 2.  De zorgverzekeraars verstrekken de verbindingskantoren alle gegevens, welke zij voor de vervulling van hun taak bij de uitvoering van de wet nodig hebben.    
-3.  Het CAK verricht de in [artikel 49, onder e, van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) bedoelde betalingen aan de hand van de overeenkomstig de [artikelen 54, eerste lid](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en [55, eerste lid, van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), van de verbindingskantoren verkregen gegevens.   
+3.  Het CAK verricht de in artikel 49, onder e, van de wet bedoelde betalingen aan de hand van de overeenkomstig de artikelen 54, eerste lid, en 55, eerste lid, van de wet, van de verbindingskantoren verkregen gegevens.   
 4.   Het Zorginstituut kan termijnen vaststellen, binnen welke de in het derde lid bedoelde gegevens dienen te worden verstrekt.   
 
 ### Artikel  9  
@@ -50,12 +50,12 @@ Als zorg, ten aanzien waarvan het in artikel 8 aangegeven deel van de administra
 
 ### Artikel  10  
 
-1. De [artikelen 36](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), [37](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), [55, tweede lid](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en [56 van de wet](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) zijn van overeenkomstige toepassing op de verbindingskantoren. 
+1. De artikelen 36, 37, 55, tweede lid, en 56 van de wet zijn van overeenkomstige toepassing op de verbindingskantoren. 
 2. Onverminderd het eerste lid kan het Zorginstituut regels stellen over de wijze waarop de verbindingskantoren hun werkzaamheden uitvoeren. 
 
 ### Artikel  11  
 
-Dit besluit is niet van toepassing op forensische zorg als bedoeld in [artikel 2 van het Interimbesluit forensische zorg](../../../../../AMvB/interimbesluit/forensische/zorg/BWBR0029333/README.md). 
+Dit besluit is niet van toepassing op forensische zorg als bedoeld in artikel 2 van het Interimbesluit forensische zorg. 
 
 ### Artikel  13  
 

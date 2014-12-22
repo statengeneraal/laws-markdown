@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken van 16 juli 1993, directoraat-generaal Openbaar Bestuur, afdeling Kabinetszaken, nr. BK93/u1098;
 
-Gelet op de [artikelen 66](../../../../wet/gemeentewet/BWBR0005416/README.md), [73](../../../../wet/gemeentewet/BWBR0005416/README.md) en [79 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) en [artikel 125 van de Ambtenarenwet](../../../../wet/ambtenarenwet/BWBR0001947/README.md) 1929;
+Gelet op de artikelen 66, 73 en 79 van de Gemeentewet en artikel 125 van de Ambtenarenwet 1929;
 
 Gehoord gedeputeerde staten van de provincies;
 
@@ -33,11 +33,11 @@ d. de commissaris: de commissaris van de Koning in de provincie waarin de gemeen
 
 e. gedeputeerde staten: het college van gedeputeerde staten van de provincie waarin de gemeente is gelegen;  
 
-f. waarnemend burgemeester: degene die op grond van [artikel 78 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) door de commissaris is aangewezen om de burgemeester te vervangen;  
+f. waarnemend burgemeester: degene die op grond van artikel 78 van de Gemeentewet door de commissaris is aangewezen om de burgemeester te vervangen;  
 
-g. FPU-uitkering: de uitkering op grond van de Regeling flexibel pensioen en uittreden, bedoeld in artikel 3 van de Centrale vut-overeenkomst overheids- en onderwijspersoneel en artikel 1.5 van het Pensioenreglement van de Stichting pensioenfonds ABP, waarbij onder de Centrale vut-overeenkomst overheids- en onderwijspersoneel wordt verstaan de overeenkomst die is aangegaan op grond van [artikel 2 van de Wet kaderregeling vut overheidspersoneel](../../../../wet/wet/kaderregeling/vut/overheidspersoneel/BWBR0007792/README.md) en onder het Pensioenreglement van de Stichting Pensioenfonds ABP wordt verstaan het reglement van die stichting dat is vastgesteld met inachtneming van de overeenkomst, bedoeld in [artikel 4, eerste lid, van de Wet privatisering ABP](../../../../wet/wet/privatisering/abp/BWBR0007791/README.md);   
+g. FPU-uitkering: de uitkering op grond van de Regeling flexibel pensioen en uittreden, bedoeld in artikel 3 van de Centrale vut-overeenkomst overheids- en onderwijspersoneel en artikel 1.5 van het Pensioenreglement van de Stichting pensioenfonds ABP, waarbij onder de Centrale vut-overeenkomst overheids- en onderwijspersoneel wordt verstaan de overeenkomst die is aangegaan op grond van artikel 2 van de Wet kaderregeling vut overheidspersoneel en onder het Pensioenreglement van de Stichting Pensioenfonds ABP wordt verstaan het reglement van die stichting dat is vastgesteld met inachtneming van de overeenkomst, bedoeld in artikel 4, eerste lid, van de Wet privatisering ABP;   
 
-h. Advies- en Arbitragecommissie: de Advies- en Arbitragecommissie, bedoeld in [artikel 110*g* van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md).   
+h. Advies- en Arbitragecommissie: de Advies- en Arbitragecommissie, bedoeld in artikel 110*g* van het Algemeen Rijksambtenarenreglement.   
 
 ####Bezoldiging
 
@@ -157,11 +157,11 @@ De burgemeester heeft recht op een eindejaarsuitkering overeenkomstig de regels 
 
 ### Artikel  17  
 
-1. De wethouder die op grond van [artikel 77, eerste lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) gedurende meer dan dertig dagen onafgebroken het ambt van burgemeester waarneemt en die zijn wethouderschap in deeltijd uitoefent, ontvangt een bezoldiging verbonden aan een voltijds-wethouderschap. Op deze bezoldiging wordt de bezoldiging verbonden aan zijn wethouderschap in deeltijd in mindering gebracht.
-2. Het raadslid dat op grond van [artikel 77, tweede lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) gedurende meer dan dertig dagen onafgebroken het ambt van burgemeester waarneemt, ontvangt voor die tijd de voor dat ambt vastgestelde minimumbezoldiging. Op deze bezoldiging wordt de vergoeding als raadslid in mindering gebracht. Tijdens de waarneming zijn de artikelen 15 en 32 van overeenkomstige toepassing.  
-3.  Degene die op grond van [artikel 78 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) als waarnemend burgemeester is aangewezen, is dit besluit van overeenkomstige toepassing, met uitzondering van de artikelen 14c en 39 tot en met 41, de artikelen 43 tot en met 46c en de artikelen 48 tot en met 65.  
-4.  Indien een waarnemend burgemeester, aangewezen op grond van [artikel 78 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), tevens burgemeester van een andere gemeente is en de beide gemeenten met overeenkomstige toepassing van artikel 5, tweede lid, worden ingedeeld in een hogere inwonersklasse dan klasse 2, wordt de bezoldiging bepaald op het bedrag dat behoort bij die hogere inwonersklasse.   
-5.  Indien een waarnemend burgemeester, aangewezen op grond van [artikel 78 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), tevens burgemeester van een andere gemeente is, kan in afwijking van artikel 14, de verhouding waarin de bezoldiging en de aanspraken, bedoeld in dat artikel, ten laste van de gemeenten komen, door Onze Minister worden vastgesteld.   
+1. De wethouder die op grond van artikel 77, eerste lid, van de Gemeentewet gedurende meer dan dertig dagen onafgebroken het ambt van burgemeester waarneemt en die zijn wethouderschap in deeltijd uitoefent, ontvangt een bezoldiging verbonden aan een voltijds-wethouderschap. Op deze bezoldiging wordt de bezoldiging verbonden aan zijn wethouderschap in deeltijd in mindering gebracht.
+2. Het raadslid dat op grond van artikel 77, tweede lid, van de Gemeentewet gedurende meer dan dertig dagen onafgebroken het ambt van burgemeester waarneemt, ontvangt voor die tijd de voor dat ambt vastgestelde minimumbezoldiging. Op deze bezoldiging wordt de vergoeding als raadslid in mindering gebracht. Tijdens de waarneming zijn de artikelen 15 en 32 van overeenkomstige toepassing.  
+3.  Degene die op grond van artikel 78 van de Gemeentewet als waarnemend burgemeester is aangewezen, is dit besluit van overeenkomstige toepassing, met uitzondering van de artikelen 14c en 39 tot en met 41, de artikelen 43 tot en met 46c en de artikelen 48 tot en met 65.  
+4.  Indien een waarnemend burgemeester, aangewezen op grond van artikel 78 van de Gemeentewet, tevens burgemeester van een andere gemeente is en de beide gemeenten met overeenkomstige toepassing van artikel 5, tweede lid, worden ingedeeld in een hogere inwonersklasse dan klasse 2, wordt de bezoldiging bepaald op het bedrag dat behoort bij die hogere inwonersklasse.   
+5.  Indien een waarnemend burgemeester, aangewezen op grond van artikel 78 van de Gemeentewet, tevens burgemeester van een andere gemeente is, kan in afwijking van artikel 14, de verhouding waarin de bezoldiging en de aanspraken, bedoeld in dat artikel, ten laste van de gemeenten komen, door Onze Minister worden vastgesteld.   
 6.   Onze Minister kan in bijzondere gevallen, de commissaris gehoord:  
 
 a. de vergoeding, bedoeld in het eerste en tweede lid, zo nodig met inachtneming van de laatste volzin van het eerste lid, op een hoger bedrag bepalen, tot ten hoogste de voor het ambt vastgestelde maximum- of vaste bezoldiging, vermeerderd met de bijdrage, bedoeld in artikel 16;  
@@ -186,14 +186,14 @@ Indien een burgemeester langer dan acht dagen wegens ziekte zijn ambt niet kan v
 
 ### Artikel  21  
 
-De burgemeester geniet bedrijfsgeneeskundige begeleiding overeenkomstig [hoofdstuk VI, paragraaf 2, van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md). 
+De burgemeester geniet bedrijfsgeneeskundige begeleiding overeenkomstig hoofdstuk VI, paragraaf 2, van het Algemeen Rijksambtenarenreglement. 
 
 ####Voorzieningen in verband met ziekte
 
 ### Artikel  23  
 
-1.  Het college van burgemeester en wethouders kent een burgemeester die naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van de gemeente op aanvraag een tegemoetkoming toe voor de bekostiging van een voorziening als bedoeld in [artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
-2.  Het gestelde bij of krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.  
+1.  Het college van burgemeester en wethouders kent een burgemeester die naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van de gemeente op aanvraag een tegemoetkoming toe voor de bekostiging van een voorziening als bedoeld in artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen.   
+2.  Het gestelde bij of krachtens artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.  
 
 ####Voorzieningen in verband met ziekte of een dienstongeval
 
@@ -230,14 +230,14 @@ De vrouwelijke burgemeester heeft in verband met haar bevalling aanspraak op zwa
 ### Artikel  27  
 
 1.  De burgemeester die na 31 december 1988 als ouder in een familierechtelijke betrekking is komen te staan tot een kind, heeft aanspraak op ouderschapsverlof.   
-2.   Het gestelde in [artikel 33*g* van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) is van overeenkomstige toepassing.  
+2.   Het gestelde in artikel 33*g* van het Algemeen Rijksambtenarenreglement is van overeenkomstige toepassing.  
 
 ####Gratificatie bij dienstjubileum
 
 ### Artikel  28  
 
-1.  Bij het volbrengen van een diensttijd als bedoeld in een vut-overeenkomst als bedoeld in [artikel 1, onderdeel e, van de Wet kaderregeling vut overheidspersoneel](../../../../wet/wet/kaderregeling/vut/overheidspersoneel/BWBR0007792/README.md), van 25, 40 of 50 jaren in overheidsdienst, ontvangt de burgemeester een gratificatie of desgewenst een geschenk, dan wel een combinatie van beide, één en ander met dien verstande dat de daaraan verbonden uitgaven bedragen: bij een 25-jarig dienstjubileum de helft, en bij een 40-jarig en 50-jarig dienstjubileum eenmaal het bedrag van de bezoldiging, vermeerderd met een evenredig gedeelte van de vakantie-uitkering per maand, berekend naar de datum van het dienstjubileum. Dit bedrag wordt zo nodig op een veelvoud van vijf euro naar boven afgerond.   
-2.   Aan de burgemeester die op grond van een vut-overeenkomst als bedoeld in [artikel 1, onderdeel e, van de Wet kaderregeling vut overheidspersoneel](../../../../wet/wet/kaderregeling/vut/overheidspersoneel/BWBR0007792/README.md) eervol ontslag is of zal worden verleend en binnen een termijn van vijf jaren na de datum van ingang van ontslag, doch voor het 70e levensjaar recht zou hebben op een gratificatie, bedoeld in het eerste lid, kan een dienstjubileumgratificatie worden toegekend ter grootte van een in verhouding tot de doorgebrachte diensttijd evenredig gedeelte van de gratificatie, bedoeld in het eerste lid.   
+1.  Bij het volbrengen van een diensttijd als bedoeld in een vut-overeenkomst als bedoeld in artikel 1, onderdeel e, van de Wet kaderregeling vut overheidspersoneel, van 25, 40 of 50 jaren in overheidsdienst, ontvangt de burgemeester een gratificatie of desgewenst een geschenk, dan wel een combinatie van beide, één en ander met dien verstande dat de daaraan verbonden uitgaven bedragen: bij een 25-jarig dienstjubileum de helft, en bij een 40-jarig en 50-jarig dienstjubileum eenmaal het bedrag van de bezoldiging, vermeerderd met een evenredig gedeelte van de vakantie-uitkering per maand, berekend naar de datum van het dienstjubileum. Dit bedrag wordt zo nodig op een veelvoud van vijf euro naar boven afgerond.   
+2.   Aan de burgemeester die op grond van een vut-overeenkomst als bedoeld in artikel 1, onderdeel e, van de Wet kaderregeling vut overheidspersoneel eervol ontslag is of zal worden verleend en binnen een termijn van vijf jaren na de datum van ingang van ontslag, doch voor het 70e levensjaar recht zou hebben op een gratificatie, bedoeld in het eerste lid, kan een dienstjubileumgratificatie worden toegekend ter grootte van een in verhouding tot de doorgebrachte diensttijd evenredig gedeelte van de gratificatie, bedoeld in het eerste lid.   
 3.   Ten aanzien van de burgemeester aan wie als gevolg van een wijziging van de gemeentelijke indeling eervol ontslag is of zal worden verleend wegens opheffing van de gemeente, vindt het tweede lid overeenkomstige toepassing.   
 4.   Indien na toepassing van het derde lid alsnog een benoeming geschiedt als burgemeester of als waarnemend burgemeester voor een periode langer dan één jaar en wordt voldaan aan het diensttijdvereiste, bedoeld in het eerste lid, wordt de gratificatie slechts voor het niet vergolden gedeelte toegekend.  
 
@@ -307,7 +307,7 @@ Indien aan de burgemeester een dienstauto ter beschikking is gesteld en hij voor
 
 ### Artikel  36  
 
-Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) worden aangewezen: 
+Als eindheffingsbestanddeel als bedoeld in artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964 worden aangewezen: 
 
 a. de ambtstoelage, bedoeld in artikel 16, eerste lid;  
 
@@ -317,7 +317,7 @@ c. de vergoeding, bedoeld in artikel 36a, eerste en tweede lid;
 
 d. de vergoeding, bedoeld in artikel 30, vijfde lid;  
 
-e. de vergoedingen, bedoeld in artikel 32, eerste lid, voor zover deze niet worden gerekend tot een vergoeding als bedoeld in [artikel 31a, tweede lid, onderdelen a en b, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+e. de vergoedingen, bedoeld in artikel 32, eerste lid, voor zover deze niet worden gerekend tot een vergoeding als bedoeld in artikel 31a, tweede lid, onderdelen a en b, van de Wet op de loonbelasting 1964;  
 
 f. de vergoeding, bedoeld in artikel 32a;  
 
@@ -383,7 +383,7 @@ b. onbekwaamheid of ongeschiktheid voor het door hem beklede ambt, anders dan ui
 
 c. opheffing van de gemeente;  
 
-d.een aanbeveling van de gemeenteraad tot ontslag wegens een verstoorde verhouding tussen de burgemeester en de raad als bedoeld in [artikel 61b, tweede lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md);
+d.een aanbeveling van de gemeenteraad tot ontslag wegens een verstoorde verhouding tussen de burgemeester en de raad als bedoeld in artikel 61b, tweede lid, van de Gemeentewet;
 
 e. andere gronden.     
 2.  Een ontslag als bedoeld in het eerste lid, onderdeel a, kan slechts plaatsvinden indien: 
@@ -445,7 +445,7 @@ Indien de gewezen burgemeester die de extra uitkering, bedoeld in artikel 46e, o
 ### Artikel  47  
 
 1.  Zo spoedig mogelijk na het overlijden van de burgemeester wordt aan de weduwe of weduwnaar van wie de overleden burgemeester niet duurzaam gescheiden leefde ten laste van de gemeente een bedrag uitgekeerd, gelijk aan de bezoldiging, vermeerderd met de vakantie-uitkering, over drie maanden, berekend naar het tijdstip van overlijden. Indien de overledene geen weduwe of weduwnaar van wie de overleden burgemeester niet duurzaam gescheiden leefde nalaat, geschiedt de uitkering ten behoeve van de minderjarige wettige of natuurlijke kinderen, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of gedeeltelijk afhankelijk waren van de bezoldiging van de burgemeester.   
-2.  Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden burgemeester ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in [artikel 3, derde en vierde lid, van de Algemene nabestaandenwet](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md). 
+2.  Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden burgemeester ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in artikel 3, derde en vierde lid, van de Algemene nabestaandenwet. 
 
 ### Artikel  47a  
 
@@ -478,7 +478,7 @@ Onze Minister besluit over de toekenning van de extra uitkeringen en eenmalige e
 ### Artikel  48  
 
 1.  Over aangelegenheden van algemeen belang voor de rechtstoestand van de burgemeesters wordt niet beslist dan nadat daarover overleg is gepleegd met de vertegenwoordiging van de burgemeesters, te weten het Georganiseerd Overleg burgemeesters.   
-2.   Zodanig overleg vindt niet plaats, indien de aangelegenheid moet worden behandeld in het in de [artikelen 105 tot en met 112 van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) geregelde overleg, hierna te noemen het centraal Georganiseerd Overleg.   
+2.   Zodanig overleg vindt niet plaats, indien de aangelegenheid moet worden behandeld in het in de artikelen 105 tot en met 112 van het Algemeen Rijksambtenarenreglement geregelde overleg, hierna te noemen het centraal Georganiseerd Overleg.   
 3.   Indien een aangelegenheid, welke wordt behandeld in het centraal Georganiseerd Overleg, van bijzondere betekenis is voor de rechtstoestand van burgemeesters, kan Onze Minister het advies van de in het eerste lid bedoelde vertegenwoordiging inwinnen.  
 
 ### Artikel  49  
@@ -547,11 +547,11 @@ b. de standpunten van alle deelnemers aan het overleg omtrent onderwerp en inhou
 
 ### Artikel  61  
 
-Geschillen welke ingevolge de voorgaande artikelen in aanmerking worden gebracht voor het inwinnen van advies dan wel aan arbitrage worden onderworpen, worden daartoe voorgelegd aan de Advies- en Arbitragecommissie, bedoeld in [artikel 110g, eerste lid, van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md). 
+Geschillen welke ingevolge de voorgaande artikelen in aanmerking worden gebracht voor het inwinnen van advies dan wel aan arbitrage worden onderworpen, worden daartoe voorgelegd aan de Advies- en Arbitragecommissie, bedoeld in artikel 110g, eerste lid, van het Algemeen Rijksambtenarenreglement. 
 
 ### Artikel  62  
 
-Ten aanzien van de werkwijze van de Advies- en Arbitragecommissie is [artikel 110*h* van het Algemeen Rijksambtenarenreglement](../../../../AMvB/algemeen/rijksambtenarenreglement/BWBR0001950/README.md) van toepassing. 
+Ten aanzien van de werkwijze van de Advies- en Arbitragecommissie is artikel 110*h* van het Algemeen Rijksambtenarenreglement van toepassing. 
 
 ### Artikel  63  
 
@@ -577,9 +577,9 @@ De uitspraak van de Advies- en Arbitragecommissie heeft bindende kracht.
 
 ### Artikel  65a  
 
-Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): 
+Bij toepassing van artikel 39c van de Wet op de loonbelasting 1964: 
 
-a.wordt het bedrag, genoemd in artikel 16, eerste lid, of de vergoeding, bedoeld in artikel 36a, eerste en tweede lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md); 
+a.wordt het bedrag, genoemd in artikel 16, eerste lid, of de vergoeding, bedoeld in artikel 36a, eerste en tweede lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001; 
 
 b. wordt op aanvraag door het college van burgemeester en wethouders een vergoeding verstrekt voor de belastingheffing als gevolg van de verstrekkingen, bedoeld in artikel 30, eerste en derde lid;  
 
@@ -589,8 +589,8 @@ d. blijft artikel 36 buiten toepassing.
 
 ### Artikel  65b  
 
-1.  De artikelen 18a, 19 en 44, zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel II, onderdelen G en Q, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](../../../../AMvB/besluit/wijziging/van/de/rechtspositiebesluiten/decentrale/politieke/etc/BWBR0029407/README.md) blijven van toepassing op de burgemeester die voor de datum van inwerkingtreding van dit besluit ingevolge artikel 20 kennis heeft gegeven aan Onze Minister dat hij wegens ziekte zijn ambt niet kan vervullen.   
-2.  De artikelen 46, 46a, 46b, 46d, 46e en 46h, zoals deze luidden op de dag voor de datum van inwerkingtreding van [artikel II, onderdeel R, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010](../../../../AMvB/besluit/wijziging/van/de/rechtspositiebesluiten/decentrale/politieke/etc/BWBR0029407/README.md) blijven van toepassing op de voormalig burgemeester van wie het ontslag is ingegaan voor 27 februari 2010.  
+1.  De artikelen 18a, 19 en 44, zoals deze luidden op de dag voor de datum van inwerkingtreding van artikel II, onderdelen G en Q, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010 blijven van toepassing op de burgemeester die voor de datum van inwerkingtreding van dit besluit ingevolge artikel 20 kennis heeft gegeven aan Onze Minister dat hij wegens ziekte zijn ambt niet kan vervullen.   
+2.  De artikelen 46, 46a, 46b, 46d, 46e en 46h, zoals deze luidden op de dag voor de datum van inwerkingtreding van artikel II, onderdeel R, van het Besluit wijziging van de rechtspositiebesluiten decentrale politieke ambtsdragers 2010 blijven van toepassing op de voormalig burgemeester van wie het ontslag is ingegaan voor 27 februari 2010.  
 
 ### Artikel  66  
 

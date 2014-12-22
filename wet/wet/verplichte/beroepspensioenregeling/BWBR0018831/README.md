@@ -1098,7 +1098,7 @@ e.in het kader van een verrekening van pensioenrechten bij scheiding de waarde v
 
 ####Afkoop
 
-1. Afkoop is slechts mogelijk in bij of krachtens de artikelen 78 tot en met 80 en 129 bedoelde situaties of in geval van toepassing van artikel 3:161 van de Wet op het financieel toezicht. 
+1. Afkoop is slechts mogelijk in bij of krachtens de artikelen 78 tot en met 80 en 129 bedoelde situaties of in geval van toepassing van artikel 3:160 van de Wet op het financieel toezicht. 
 2. Elk beding strijdig met dit artikel is nietig.
 
 ### Artikel  78  
@@ -1221,7 +1221,7 @@ De in artikel 82 en 99 genoemde plicht tot waardeoverdracht geldt niet met betre
 
 a.herleven de in artikel 82 bedoelde plichten van de overdragende pensioenuitvoerder en de ontvangende pensioenuitvoerder;
 
-b.wordt de in artikel 82, derde lid, omschreven verplichting van de deelnemer om binnen zes maanden een opgave te vragen en daarna een verzoek tot waardeoverdracht te doen verlengd tot zes maanden na ontvangst van de mededeling, bedoeld in het tweede lid. 
+b.wordt de in artikel 82, derde lid, omschreven verplichting van de deelnemer om binnen zes maanden een opgave te vragen en daarna een verzoek tot waardeoverdracht te doen verlengd tot zes maanden nadat de plicht tot waardeoverdracht herleeft na een periode als bedoeld in artikel 83. 
 2. Een overdragende pensioenuitvoerder die in de periode waarin de in artikel 83 bedoelde omstandigheden op hem van toepassing zijn verzoeken tot waardeoverdracht heeft gekregen, informeert, wanneer deze omstandigheden niet meer van toepassing zijn, alle deelnemers die in die periode gewezen deelnemer zijn geworden en de betrokken ontvangende pensioenuitvoerders over de mogelijkheid alsnog waarde over te dragen. 
 3. Een ontvangende pensioenuitvoerder die in de periode waarin de in artikel 83 genoemde omstandigheden op hem van toepassing zijn verzoeken tot waardeoverdracht heeft gekregen, informeert wanneer deze omstandigheden niet meer van toepassing zijn, alle deelnemers die in die periode een verzoek tot waardeoverdracht hebben gedaan en de betrokken overdragende pensioenuitvoerders over de mogelijkheid alsnog waarde over te dragen. 
 
@@ -2248,6 +2248,15 @@ b.de doeltreffendheid van de uitvoering van deze wet door de toezichthouder.
 2. Ter uitvoering van het eerste lid kan Onze Minister besluiten een of meer onderdelen van de taken van de toezichthouder zelf uit te voeren of door een andere organisatie te laten uitvoeren. Alsdan komen de desbetreffende bevoegdheden van de toezichthouder toe aan Onze Minister onderscheidenlijk de andere toezichthouder. 
 3. De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat de toezichthouder in de gelegenheid is gesteld om binnen een door Onze Minister te stellen termijn alsnog zijn taak naar behoren uit te voeren. 
 4. Onze Minister stelt beide kamers der Staten-Generaal onverwijld in kennis van door hem getroffen voorzieningen als bedoeld in het eerste lid.
+
+### Artikel  161a  
+
+####Beleidsregels door Onze Minister
+
+Treedt in werking per 01-01-2015 
+
+1.  Onze Minister kan beleidsregels vaststellen ten aanzien van de toepassing door de toezichthouders van Hoofdstuk 6.   
+2.  De beleidsregels worden in de Staatscourant bekendgemaakt.  
 
 ### §  4  
 

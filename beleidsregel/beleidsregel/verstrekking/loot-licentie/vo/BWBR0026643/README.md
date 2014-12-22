@@ -3,7 +3,7 @@
 ##Beleidsregel van de Staatssecretaris van Onderwijs, Cultuur en Wetenschap van 2 november 2009, nr. VO/BVB/137582, houdende nadere regels voor de verstrekking van een Loot-licentie voor scholen in het voortgezet onderwijs (Beleidsregel verstrekking Loot-licentie VO)
 
 De Staatssecretaris van Onderwijs, Cultuur en Wetenschap,  
-Gelet op de [artikelen 25](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en [29, zesde lid, van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);
+Gelet op de artikelen 25 en 29, zesde lid, van de Wet op het voortgezet onderwijs;
 Besluit:    
 
 ### Artikel  1  
@@ -12,47 +12,45 @@ Besluit:
 
 In deze beleidsregel wordt verstaan onder: 
 
-a.  *school:* een openbare of uit een openbare kas bekostigde dagschool voor voortgezet onderwijs met uitzondering van een school voor praktijkonderwijs ;  
+a. *school:* een openbare of uit een openbare kas bekostigde dagschool voor voortgezet onderwijs met uitzondering van een school voor praktijkonderwijs ;  
 
-b.  *zeer zwakke school en zwakke school:* is een school waar een aangepast toezichtarrangement geldt zoals beschreven in het Toezichtkader PO/VO 2009 als bedoeld in [artikel 13, eerste lid van de Wet op het Onderwijstoezicht](../../../../../../wet/wet/op/het/onderwijstoezicht/BWBR0013800/README.md);  
+b. *zeer zwakke school en zwakke school:* is een school waar een aangepast toezichtarrangement geldt zoals beschreven in het Toezichtkader PO/VO 2009 als bedoeld in artikel 13, eerste lid van de Wet op het Onderwijstoezicht;  
 
-c.  *bevoegd gezag:* bevoegd gezag als bedoeld in [artikel 1 van de WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+c. *bevoegd gezag:* bevoegd gezag als bedoeld in artikel 1 van de WVO;  
 
-d.  *minister:* Minister van Onderwijs, Cultuur en Wetenschap;  
+d. *minister:* Minister van Onderwijs, Cultuur en Wetenschap;  
 
-e.  *WVO:* de [Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md);  
+e. *WVO:* de Wet op het voortgezet onderwijs;  
 
-f.  *Eindexamenbesluit:* het [Eindexamenbesluit v.w.o-h.a.v.o.-m.a.v.o.-v.m.b.o.](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md);  
+f. *Eindexamenbesluit:* het Eindexamenbesluit v.w.o-h.a.v.o.-m.a.v.o.-v.m.b.o.;  
 
-g.  *Inrichtingsbesluit:* het [Inrichtingsbesluit WVO](../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md).;  
+g. *Inrichtingsbesluit:* het Inrichtingsbesluit WVO.;  
 
-h.  *stichting LOOT:* de stichting Landelijk Overleg Onderwijs en Topsport;  
+h. *stichting LOOT:* de stichting Landelijk Overleg Onderwijs en Topsport;  
 
-i.  *Olympisch netwerk:* een door NOC*NSF erkend stedelijk of provinciaal samenwerkingsverband van sportorganisaties dat op basis van een alliantie-overeenkomst met NOC*NSF is gesloten;  
+i. *Olympisch netwerk:* een door NOC*NSF erkend stedelijk of provinciaal samenwerkingsverband van sportorganisaties dat op basis van een alliantie-overeenkomst met NOC*NSF is gesloten;  
 
-j.  *NOC*NSF:* het Nederlands Olympisch Comité*Nederlandse Sport Federatie;  
+j. *NOC*NSF:* het Nederlands Olympisch Comité*Nederlandse Sport Federatie;  
 
-k.  *Loot-licentie:* een beschikking van de minister aan het bevoegd gezag van een school waarin een aanvraag als bedoeld in artikel 2 wordt ingewilligd;  
+k. *Licentie Topsporttalentschool:* een beschikking van de minister aan het bevoegd gezag van een school waarin een aanvraag als bedoeld in artikel 2 wordt ingewilligd;  
 
-l.  *Loot-leerling:* een leerling waarvan is vastgesteld dat deze wordt beschouwd als topsporter op ten minste toptalentniveau door de NOC*NSF dan wel door het Olympisch Netwerk op basis van het statushandboek van de NOC*NSF.   
+l. *Loot-leerling:* een leerling waarvan is vastgesteld dat deze wordt beschouwd als topsporter op ten minste toptalentniveau door de NOC*NSF dan wel door het Olympisch Netwerk op basis van het statushandboek van de NOC*NSF.   
 
 ### Artikel  2  
 
-####Procedure voor aanvraag van een Loot-licentie
+####Procedure voor aanvraag van een licentie Topsporttalentschool
 
-1.  De minister kan op grond van een aanvraag van het bevoegd gezag van een school een Loot-licentie verstrekken.   
-2.  Een aanvraag voor een Loot-licentie wordt ingediend bij de minister.   
-3.  Het aantal scholen met een Loot-licentie bedraagt niet meer dan 35.   
-4.  Aanvragen voor een Loot-licentie worden op volgorde van binnenkomst behandeld, met dien verstande, dat wanneer de aanvrager krachtens [artikel 4:5 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvulling door de minister is ontvangen, als datum van binnenkomst geldt.   
-5.  Een aanvraag van het bevoegd gezag van een school dient te voldoen aan het gestelde in artikel 3.   
-6.  Zeer zwakke en zwakke scholen komen niet in aanmerking voor een Loot-licentie.   
-7.  De aanvraag voor een Loot-licentie dient uiterlijk 1 oktober van enig jaar te zijn ontvangen.   
-8.  Stichting LOOT adviseert de minister over de aanvraag, uiterlijk 1 december van het desbetreffende jaar.   
-9.  De minister besluit over het verstrekken van een Loot-licentie uiterlijk 1 februari van het aansluitende jaar.  
+1.  De minister kan op grond van een aanvraag van het bevoegd gezag van een school een licentie Topsporttalentschool verstrekken.   
+2.  Een aanvraag voor een licentie Topsporttalentschool wordt ingediend bij de minister.   
+3.  Aanvragen voor een licentie Topsporttalentschool worden op volgorde van binnenkomst behandeld, met dien verstande, dat wanneer de aanvrager krachtens artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid heeft gehad de aanvraag aan te vullen, de dag waarop de aanvulling door de minister is ontvangen, als datum van binnenkomst geldt.   
+4.  Zeer zwakke en zwakke scholen komen niet in aanmerking voor een licentie Topsporttalentschool.   
+5.   De aanvraag voor een licentie Topsporttalentschool dient uiterlijk 1 oktober van enig jaar te zijn ontvangen.   
+6.  Stichting LOOT adviseert de minister over de aanvraag, uiterlijk 1 december van het desbetreffende jaar.   
+7.   De minister besluit over het verstrekken van een licentie Topsporttalentschool uiterlijk 1 februari van het aansluitende jaar.  
 
 ### Artikel  3  
 
-####De aanvraag van een Loot-licentie
+####De aanvraag van een licentie Topsporttalentschool
 
 De aanvraag gaat vergezeld van de volgende documenten: 
 
@@ -62,23 +60,23 @@ De aanvraag gaat vergezeld van de volgende documenten:
 
 3. Het schoolplan.  
 
-4. Een schriftelijke steunverklaring van het Olympisch netwerk voor de aanvraag voor een Loot-licentie.   
+4. Een schriftelijke steunverklaring van de Regionale Topsport Organisaties voor de aanvraag voor een licentie Topsporttalentschool.   
 
 ### Artikel  4  
 
-####Voorwaarden voor het verstrekken van een Loot-licentie
+####Voorwaarden voor het verstrekken van een licentie Topsporttalentschool
 
 De school, waarvoor het bevoegd gezag een aanvraag, bedoeld in artikel 3, heeft ingediend dient te voldoen aan de volgende voorwaarden:. 
 
-a. Op de school dienen tenminste 40 Loot-leerlingen ingeschreven te zijn, waarbij per sport maximaal 13 leerlingen meetellen. Hiervan kan worden afgeweken indien: 
+a. Op de school dienen tenminste 35 Loot-leerlingen ingeschreven te zijn, waarbij per sport maximaal 11 leerlingen meetellen. Hiervan kan worden afgeweken indien: 
 
-– deze voorwaarde tot gevolg heeft dat in een bepaalde provincie geen enkele Loot-licentie kan worden verstrekt. In dat geval kan een Loot-licentie worden verleend aan een school die tenminste over 10 Loot-leerlingen beschikt in die provincie, waarbij maximaal één derde deel van de Loot-leerlingen beoefenaar is van dezelfde sport;  
+– deze voorwaarde tot gevolg heeft dat in een bepaalde provincie geen enkele licentie Topsporttalentschool kan worden verstrekt. In dat geval kan een licentie Topsporttalentschool worden verleend aan een school die tenminste over 10 Loot-leerlingen beschikt in die provincie, waarbij maximaal één derde deel van de Loot-leerlingen beoefenaar is van dezelfde sport;  
 
-– dan wel in het geval dat het een school betreft die beschikt over tenminste 20 Loot-leerlingen die onderwijs volgen in het VMBO, waarbij maximaal één derde van de Loot-leerlingen beoefenaar is van dezelfde sport.    
+– dan wel in het geval dat het een school betreft die beschikt over tenminste 20 Loot-leerlingen die onderwijs volgen in het VMBO, waarbij maximaal één derde van de Loot-leerlingen beoefenaar is van dezelfde sport;    
 
 b. Er is een samenwerkingsverband met tenminste 3 sportbonden of verenigingen en die op het hoogste landelijk niveau actief zijn;  
 
-c. Op de school met de Loot-licentie is personeel aanwezig en aanspreekbaar op de afstemming van de werkzaamheden die verband houden met de LOOT-licentie en dat voorziet in de begeleiding van de Loot-leerlingen.   
+c. Op de school met de licentie Topsporttalentschool is personeel aanwezig en aanspreekbaar op de afstemming van de werkzaamheden die verband houden met de licentie Topsporttalentschool en dat voorziet in de begeleiding van de Loot-leerlingen waarbij het uitgangspunt is het onderwijsniveau van deze leerlingen te behouden.   
 
 ### Artikel  5  
 
@@ -86,16 +84,16 @@ c. Op de school met de Loot-licentie is personeel aanwezig en aanspreekbaar op d
 
 1.  Stichting LOOT visiteert een school: 
 
-– met een Loot-licentie verstrekt op grond van deze beleidsregel, iedere keer na een periode van twee jaar te beginnen in het eerste kwartaal van het derde jaar na de datum waarop de Loot-licentie is verstrekt;  
+– met een licentie Topsporttalentschool verstrekt op grond van deze beleidsregel, iedere keer na een periode van twee jaar te beginnen in het eerste kwartaal van het derde jaar na de datum waarop de licentie Topsporttalentschool is verstrekt;  
 
-– die voorafgaand aan de inwerkingtreding van deze beleidsregel al beschikt over een Loot-licentie, iedere keer na een periode van twee jaar te beginnen in het eerste kwartaal van het derde jaar na de datum waarop op grond van deze beleidsregel een Loot-licentie, als bedoeld in artikel 15, is verlengd.     
-2.  Op basis van de visitaties adviseert stichting LOOT de minister of een school met een Loot-licentie nog steeds voldoet aan de voorwaarden genoemd in artikel 4.  
+– die voorafgaand aan de inwerkingtreding van deze beleidsregel al beschikt over een licentie Topsporttalentschool, iedere keer na een periode van twee jaar te beginnen in het eerste kwartaal van het derde jaar na de datum waarop op grond van deze beleidsregel een licentie Topsporttalentschool, als bedoeld in artikel 15, is verlengd.     
+2.   Op basis van de visitaties adviseert stichting LOOT de minister of een school met een licentie Topsporttalentschool nog steeds voldoet aan de voorwaarden genoemd in artikel 4.  
 
 ### Artikel  6  
 
-####Intrekken van de Loot-licentie
+####Intrekken van de licentie Topsporttalentschool
 
-De minister kan op basis van het advies van stichting LOOT bedoeld in artikel 5 besluiten tot intrekking van de Loot-licentie. 
+De minister kan op basis van het advies van stichting LOOT bedoeld in artikel 5 besluiten tot intrekking van de licentie Topsporttalentschool. De minister kan besluiten om een Topsporttalentschool die niet voldoet eenmalig twee jaar de tijd te geven om zich te verbeteren. 
 
 ### Artikel  7  
 
@@ -105,29 +103,28 @@ Indien het Olympisch netwerk of het NOC*NSF oordeelt dat een betrokken leerling 
 
 ### Artikel  8  
 
-####Consequentie voor de Loot-leerlingen bij het intrekken van de Loot-licentie
+####Consequentie voor de Loot-leerlingen bij het intrekken van de licentie Topsporttalentschool
 
-Indien met toepassing van artikel 6 de Loot-licentie wordt ingetrokken, behouden de betrokken leerlingen de onder de oorspronkelijke Loot-licentie verkregen mogelijkheden aan die school. 
+Indien met toepassing van artikel 6 de licentie Topsporttalentschool wordt ingetrokken, behouden de betrokken leerlingen de onder de oorspronkelijke licentie Topsporttalentschool verkregen mogelijkheden aan die oorspronkelijke Topsporttalentschool. 
 
 ### Artikel  9  
 
 ####Afwijkingen van voorschriften met betrekking tot onderwijstijd
 
-1.  Het bevoegd gezag dat beschikt over een Loot-licentie kan voor Loot-leerlingen afwijken van de normen voor onderwijstijd als gesteld in respectievelijk de [artikelen 10, tweede lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [10b, tweede lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [10d, tweede lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [11c, eerste lid, onder b](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [11f, onder b](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md). en [12, vijfde lid van de Wet op het voortgezet onderwijs](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
-2.  Het bevoegd gezag als bedoeld in het eerste lid richt een onderwijsprogramma in dat per leerjaar ten minste 800 klokuren onderwijstijd omvat.   
-3.  In afwijking van artikel 9, tweede lid, richt het bevoegd gezag voor Loot-leerlingen in het vierde leerjaar vmbo, het vijfde leerjaar havo en het zesde leerjaar vwo een onderwijsprogramma in dat ten minste 550 klokuren onderwijstijd omvat.  
+1.  Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan voor Loot-leerlingen afwijken van de normen voor onderwijstijd als gesteld in respectievelijk de artikelen 10, tweede lid, 10b, tweede lid, 10d, tweede lid, 11c, eerste lid, onder b, 11f, onder b. en 12, vijfde lid van de Wet op het voortgezet onderwijs.   
+2.  Het bevoegd gezag als bedoeld in het eerste lid richt een onderwijsprogramma per schoolsoort in dat tenminste 80% van de wettelijk vastgestelde onderwijstijd omvat.  
 
 ### Artikel  10  
 
 ####Afwijking onderbouw
 
-Het bevoegd gezag dat beschikt over een Loot-licentie kan in afwijking van [artikel 11c, eerste lid, onder a van de WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) de Loot-leerling in de eerste twee leerjaren, ontheffing verlenen van de onderdelen van het onderwijsprogramma die betrekking hebben op de kerndoelen bewegen en sport bedoeld in [bijlage 1, onderdeel G, bij het Besluit kerndoelen onderbouw VO](../../../../../../AMvB/besluit/kerndoelen/onderbouw/vo/BWBR0019945/README.md). 
+Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan in afwijking van artikel 11c, eerste lid, onder a van de WVO de Loot-leerling in de eerste twee leerjaren, ontheffing verlenen van de onderdelen van het onderwijsprogramma die betrekking hebben op de kerndoelen bewegen en sport bedoeld in bijlage 1, onderdeel G, bij het Besluit kerndoelen onderbouw VO. 
 
 ### Artikel  11  
 
-####Afwijking van vakken in de bovenbouw vmbo
+####Afwijking van de vakken in de bovenbouw vmbo
 
-Het bevoegd gezag dat beschikt over een Loot-licentie kan afwijken van de bepalingen in de [artikelen 10, vijfde en zevende lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [10b, vijfde en zevende lid](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en [10d, vijfde en zevende lid, van de WVO](../../../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) en van de bepalingen in de [artikelen 22, eerste lid](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [23, eerste lid, onder a en c](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md), [24, eerste lid, onder a en c](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) en [25, eerste lid, onder a en c van het Eindexamenbesluit](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) door een Loot-leerling in het vmbo ontheffing te verlenen voor: 
+Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan afwijken van de bepalingen in de artikelen 10, vijfde en zevende lid, 10b, vijfde en zevende lid, en 10d, vijfde en zevende lid, van de WVO en van de bepalingen in de artikelen 22, eerste lid, 23, eerste lid, onder a en c, 24, eerste lid, onder a en c en 25, eerste lid, onder a en c van het Eindexamenbesluit door een Loot-leerling in het vmbo ontheffing te verlenen voor: 
 
 – maatschappijleer, lichamelijke opvoeding en één van de vakken behorende tot de beeldende vorming, muziek, dans of drama;  
 
@@ -135,39 +132,33 @@ Het bevoegd gezag dat beschikt over een Loot-licentie kan afwijken van de bepali
 
 ### Artikel  12  
 
-####Afwijking van vakken in de bovenbouw vwo
+####Afwijking van de vakken in de bovenbouw vwo
 
-Het bevoegd gezag dat beschikt over een Loot-licentie kan, in afwijking van [artikel 13](../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md) en artikel 6d van de WVO, [artikel 26b van het Inrichtingsbesluit](../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md) en [artikel 11, lid 1](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) dan wel [artikel 12, lid 1 van het Eindexamenbesluit](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) een Loot-leerling in het vwo ontheffing verlenen voor: 
+Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan, in afwijking van artikel 13 en artikel 6d van de WVO, artikel 26b van het Inrichtingsbesluit en artikel 11, lid 1 dan wel artikel 12, lid 1 van het Eindexamenbesluit een Loot-leerling in het vwo ontheffing verlenen voor: 
 
 – lichamelijke opvoeding;  
 
 – maatschappijleer, algemene natuurwetenschappen en culturele en kunstzinnige vorming;  
 
-– het keuzevak bedoeld in [artikel 11, lid 1, onder c](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) dan wel het keuzevak bedoeld in [artikel 12, lid 1, onder c van het Eindexamenbesluit](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) of het profielkeuzevak.   
+– het keuzevak bedoeld in artikel 11, lid 1, onder c dan wel het keuzevak bedoeld in artikel 12, lid 1, onder c van het Eindexamenbesluit of het profielkeuzevak.   
 
 ### Artikel  13  
 
-####Afwijking van vakken in de bovenbouw havo
+####Afwijking van de vakken in de bovenbouw havo
 
-Het bevoegd gezag dat beschikt over een Loot-licentie kan, in afwijking van [artikel 14](../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md) en artikel 6d van de WVO, [artikel 26c van het Inrichtingsbesluit](../../../../../../AMvB/inrichtingsbesluit/wvo/BWBR0005946/README.md) en [artikel 13, lid 1 van het Eindexamenbesluit](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) een Loot-leerling in het havo ontheffing verlenen voor: 
+Het bevoegd gezag dat beschikt over een licentie Topsporttalentschool kan, in afwijking van artikel 14 en artikel 6d van de WVO, artikel 26c van het Inrichtingsbesluit en artikel 13, lid 1 van het Eindexamenbesluit een Loot-leerling in het havo ontheffing verlenen voor: 
 
 – lichamelijke opvoeding;  
 
 – maatschappijleer en culturele en kunstzinnige vorming;  
 
-– het keuzevak bedoeld in [artikel 13, lid 1, onder c van het Eindexamenbesluit](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) of het profielkeuzevak.   
+– het keuzevak bedoeld in artikel 13, lid 1, onder c van het Eindexamenbesluit of het profielkeuzevak.   
 
 ### Artikel  14  
 
 ####Gespreid examen
 
-Het bevoegd gezag (dat beschikt over een Loot-licentie) kan toestaan dat een (Loot)-leerling met toepassing van [artikel 37a van het Eindexamenbesluit](../../../../../../AMvB/eindexamenbesluit/vo/BWBR0004593/README.md) het eindexamen voor een deel van de vakken in het voorlaatste schooljaar en voor het andere deel in het laatste schooljaar aflegt. 
-
-### Artikel  15  
-
-####Overgangsbepaling
-
-Een school die voorafgaand aan deze beleidsregel al beschikt over een Loot-licentie kan, tot uiterlijk een half jaar voordat deze Loot-licentie verloopt, een verzoek tot verlenging van de Loot-licentie bij de minister indienen. Deze aanvraag dient te voldoen aan het gestelde in de artikelen 3 en 4 van deze beleidsregel. Op basis van het advies van de stichting LOOT beslist de minister over verlenging van de Loot-licentie, uiterlijk voordat de Loot-licentie waarover de school beschikt is verlopen. 
+In uitzonderlijke gevallen kan het bevoegd gezag, dat beschikt over een Topsporttalentschool, voor een Loot-leerling beroep doen op artikel 59 van het Eindexamenbesluit. 
 
 ### Artikel  16  
 
@@ -175,23 +166,17 @@ Een school die voorafgaand aan deze beleidsregel al beschikt over een Loot-licen
 
 Deze beleidsregel treedt in werking met ingang van de dag na de dagtekening van de Staatscourant waarin zij wordt geplaatst. 
 
-### Artikel  17  
-
-####Intrekking [Beleidsregel VO-scholen met een Loot-licentie](../../../../../../beleidsregel/beleidsregel/vo-scholen/met/een/loot-licentie/BWBR0022802/README.md)
-
-De [Beleidsregel VO-scholen met een Loot-licentie](../../../../../../beleidsregel/beleidsregel/vo-scholen/met/een/loot-licentie/BWBR0022802/README.md) wordt ingetrokken per de datum waarop deze beleidsregel in werking treedt. 
-
 ### Artikel  18  
 
 ####Evaluatiemoment
 
-De beleidsregel wordt voor 1 augustus 2012 geëvalueerd. 
+De beleidsregel wordt voor 1 januari 2019 geëvalueerd. 
 
 ### Artikel  19  
 
 ####Citeertitel
 
-Deze beleidsregel wordt aangehaald als: Beleidsregel verstrekking Loot-licentie VO. Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst en bekend worden gemaakt op de internetsite (www.cfi.nl) van de Centrale Financiën Instellingen van het Ministerie van Onderwijs, Cultuur en Wetenschap. 
+Deze beleidsregel wordt aangehaald als: Beleidsregel verstrekking licentie Topsporttalentschool VO. Deze beleidsregel zal met de toelichting in de Staatscourant worden geplaatst en bekend worden gemaakt op de internetsite (www.cfi.nl) van de Centrale Financiën Instellingen van het Ministerie van Onderwijs, Cultuur en Wetenschap. 
 
 De 
 Staatssecretaris van Onderwijs, Cultuur en Wetenschap, 

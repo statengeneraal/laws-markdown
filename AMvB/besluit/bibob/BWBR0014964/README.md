@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties van 1 oktober 2002, nr. EA2002/88934, directoraat-generaal Openbare Orde en Veiligheid, mede namens Onze Minister van Justitie, in overeenstemming met Onze Minister van Verkeer en Waterstaat;
 
-Gelet op de [artikelen 1, tweede lid](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), [5, tweede lid](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md),[ 7, tweede lid](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), [16, tweede lid](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), [27, eerste lid, onderdeel i, en vijfde lid](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), en [46 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md);
+Gelet op de artikelen 1, tweede lid, 5, tweede lid, 7, tweede lid, 16, tweede lid, 27, eerste lid, onderdeel i, en vijfde lid, en 46 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur;
 
 De Raad van State gehoord (advies van 28 november 2002, nr. W04.02.0448/I);
 
@@ -15,15 +15,15 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder «wet»: de [Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md). 
+In dit besluit wordt verstaan onder «wet»: de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur. 
 
 ### Artikel  2  
 
-Als rechtspersoon met een overheidstaak als bedoeld in [artikel 1, tweede lid, van de wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), worden aangewezen de zelfstandige bestuursorganen van de in de bijlage bij dit besluit genoemde rechtspersonen. 
+Als rechtspersoon met een overheidstaak als bedoeld in artikel 1, tweede lid, van de wet, worden aangewezen de zelfstandige bestuursorganen van de in de bijlage bij dit besluit genoemde rechtspersonen. 
 
 ### Artikel  3  
 
-Als sectoren als bedoeld in [artikel 5, tweede lid, van de wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), worden aangewezen: 
+Als sectoren als bedoeld in artikel 5, tweede lid, van de wet, worden aangewezen: 
 
 a. de bouw,  
 
@@ -33,7 +33,7 @@ c. het milieu.
 
 ### Artikel  5  
 
-Het Bureau stelt jaarlijks de bijdrage in de kosten van het advies, bedoeld in [artikel 16 van de wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), vast aan de hand van: 
+Het Bureau stelt jaarlijks de bijdrage in de kosten van het advies, bedoeld in artikel 16 van de wet, vast aan de hand van: 
 
 a. de werkelijk gemaakte kosten die het Bureau voor de behandeling van de aanvraag heeft moeten maken,  
 
@@ -45,7 +45,7 @@ d. het verwachte aantal aanvragen dat in het eerstvolgende kalenderjaar zal word
 
 ### Artikel  6  
 
-Als bestuursorganen als bedoeld in [artikel 27, eerste lid, onderdeel i, van de wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), worden aangewezen: 
+Als bestuursorganen als bedoeld in artikel 27, eerste lid, onderdeel i, van de wet, worden aangewezen: 
 
 a. Onze Minister van Veiligheid en Justitie, voor zover het bestanden betreft waarvan de gegevens worden verwerkt door het Centraal Justitieel Incasso Bureau;  
 
@@ -57,7 +57,7 @@ d. de Dienst Wegverkeer.
 
 ### Artikel  7  
 
-1.  De bestuursorganen, genoemd in artikel 6, en de bestuursorganen, genoemd in [artikel 27, eerste lid, van de wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), alsmede de gerechten bedoeld in [artikel 27a van de wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), verstrekken de gegevens, bedoeld in de aanhef van [artikel 27, eerste lid, van de wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.   
+1.  De bestuursorganen, genoemd in artikel 6, en de bestuursorganen, genoemd in artikel 27, eerste lid, van de wet, alsmede de gerechten bedoeld in artikel 27a van de wet, verstrekken de gegevens, bedoeld in de aanhef van artikel 27, eerste lid, van de wet, binnen twee weken nadat het Bureau om verstrekking heeft gevraagd.   
 2.  Indien de gegevens niet binnen twee weken kunnen worden verstrekt, stelt het desbetreffende bestuursorgaan het Bureau daarvan in kennis en noemt het daarbij een termijn waarbinnen de gegevens wel tegemoet kunnen worden gezien. Deze termijn bedraagt niet meer dan twee weken na afloop van de termijn, genoemd in het eerste lid.   
 
 ### Artikel  8  

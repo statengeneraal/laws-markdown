@@ -1280,8 +1280,8 @@ In artikel 55, derde lid, Vw is de bevoegdheid opgenomen tot een veiligheidsfoui
 
 ####Toezicht op bewijsmiddelen
 
-Als het bewijsmiddel waaruit het rechtmatig verblijf blijkt van een vreemdeling wordt vermist, verloren is gegaan of ondeugdelijk is geworden voor identificatie, moet de vreemdeling hiervan aangifte doen bij de Korpschef. De Korpschef zendt een afschrift van het proces-verbaal van de aangifte aan de IND. De IND draagt zorg dat het nummer van het betreffende bewijsmiddel wordt opgenomen in het Verificatie- en Informatiesysteem van DLOS. Als door de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen wordt geconstateerd dat onregelmatigheden zijn gepleegd met een door de Nederlandse overheid afgegeven geldige document voor grensoverschrijding, moet de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen hiervan een bericht zenden aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. De vreemdeling moet voor het vervangen of het vernieuwen van verblijfsdocumenten, om redenen als genoemd in artikel 4.22, eerste lid, Vb, een ingevuld aanvraagformulier verzenden naar de IND. De afgifte van documenten ter vaststelling van zijn identiteit, nationaliteit en verblijfsstatus als bedoeld in artikel 4.21 Vb (zowel ingeval van vervanging als van vernieuwing), gebeurt door de IND.
-### Gedragslijn bij vreemdelingen zonder bewijsmiddelen
+Als het bewijsmiddel waaruit het rechtmatig verblijf blijkt van een vreemdeling wordt vermist, verloren is gegaan of ondeugdelijk is geworden voor identificatie, moet de vreemdeling hiervan aangifte doen bij de Korpschef. De Korpschef zendt een afschrift van het proces-verbaal van de aangifte aan de IND. De IND draagt zorg dat het nummer van het betreffende bewijsmiddel wordt opgenomen in het Verificatie- en Informatiesysteem van DLOS en de IND signaleert het bewijsmiddel in het (N)SIS voor de duur van tien jaar. Als door de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen wordt geconstateerd dat onregelmatigheden zijn gepleegd met een door de Nederlandse overheid afgegeven geldige document voor grensoverschrijding, moet de ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen hiervan een bericht zenden aan het Ministerie van Binnenlandse Zaken en Koninkrijksrelaties. De vreemdeling moet voor het vervangen of het vernieuwen van verblijfsdocumenten, om redenen als genoemd in artikel 4.22, eerste lid, Vb, een ingevuld aanvraagformulier verzenden naar de IND. De afgifte van documenten ter vaststelling van zijn identiteit, nationaliteit en verblijfsstatus als bedoeld in artikel 4.21 Vb (zowel ingeval van vervanging als van vernieuwing), gebeurt door de IND. 
+### *Gedragslijn bij vreemdelingen zonder bewijsmiddelen* 
 
 De ambtenaar belast met de grensbewaking of met het toezicht op vreemdelingen moet in ieder geval de volgende gedragslijnen in acht nemen bij vreemdelingen zonder bewijsmiddelen: 
 
@@ -3012,15 +3012,17 @@ Kijk dan op de website van de IND: www.ind.nl. U kunt ook bellen met de IND. Het
 
 ### Model  M101  
 
-####Ontvangstbewijs voor het tijdelijk in bewaring nemen van reis- en/of identiteitspapieren
+####Ontvangstbewijs voor het tijdelijk in bewaring nemen van reis- en/ of identiteitspapieren
 
-![244233](http://wetten.overheid.nl/Illustration/244233)
+![254492](http://wetten.overheid.nl/Illustration/254492)
+![254493](http://wetten.overheid.nl/Illustration/254493)
 
 ###Model M102 
 
 ####Maatregel ex artikel 56 van de Vreemdelingenwet 2000
 
-![250023](http://wetten.overheid.nl/Illustration/250023)
+![254494](http://wetten.overheid.nl/Illustration/254494)
+![254495](http://wetten.overheid.nl/Illustration/254495)
 
 ### Model  M103-M109  
 

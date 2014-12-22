@@ -1759,27 +1759,27 @@ c. is het de koper van gas niet toegestaan tarieven en voorwaarden te hanteren w
 
 ####Garanties van oorsprong
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  66i  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Onze Minister is belast met het uitgeven en innemen via een elektronisch systeem van garanties van oorsprong voor gas uit hernieuwbare bronnen.   
 2.  Onze Minister opent op aanvraag van een in Nederland gevestigde producent, leverancier, handelaar of afnemer een rekening. Bij deze aanvraag overlegt de producent het resultaat van de vaststelling, bedoeld in artikel 10, vijfde lid, onderdeel c.   
 3.  Onze Minister boekt op aanvraag garanties van oorsprong voor gas uit hernieuwbare bronnen op een daarbij aangegeven rekening, indien een in Nederland gevestigde producent bij deze aanvraag de gegevens omtrent de door de netbeheerder of door een andere tot meten bevoegde instantie gemeten hoeveelheid gas uit hernieuwbare energiebronnen overlegt.  
 
 ### Artikel  66j  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Onze Minister kan de taken, bedoeld in artikel 66i, mandateren aan een niet-ondergeschikte die onafhankelijk is van producenten, leveranciers en handelaren. 
 
 ### Artikel  66k  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Een garantie van oorsprong voor gas uit hernieuwbare bronnen toont bij uitsluiting aan dat de daarop aangegeven hoeveelheid gas is opgewekt uit hernieuwbare bronnen. 
 
 ### Artikel  66l  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Onze Minister stelt bij ministeriële regeling de tarieven vast voor kosten die gepaard gaan met handelingen met betrekking tot garanties van oorsprong voor gas uit hernieuwbare bronnen.   
 2.  Onze Minister stelt bij ministeriële regeling regels met betrekking tot: 

@@ -12,16 +12,16 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ####Begripsbepalingen en algemene bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### §  1  
 
 ####Begripsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  1.1.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -100,7 +100,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 –  *zorgverzekering:* een zorgverzekering als bedoeld in artikel 1, onderdeel d, van de Zorgverzekeringswet.   
 
 ### Artikel  1.1.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Voor de toepassing van deze wet en de daarop berustende bepalingen wordt gelijkgesteld met: 
 
@@ -133,15 +133,15 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 
 ####Algemene bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  1.2.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Ingezetene in de zin van deze wet is degene, die in Nederland woont. 
 
 ### Artikel  1.2.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Waar iemand woont en waar een lichaam gevestigd is, wordt naar de omstandigheden beoordeeld.   
 2.  Voor de toepassing van het eerste lid worden schepen welke in Nederland hun thuishaven hebben, ten opzichte van de bemanning als deel van Nederland beschouwd.   
@@ -151,16 +151,16 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####De verzekerden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### §  1  
 
 ####De kring van verzekerden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  2.1.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Verzekerd overeenkomstig de bepalingen van deze wet is degene, die: 
 
@@ -181,7 +181,7 @@ a. vreemdelingen die rechtmatig in Nederland arbeid verrichten dan wel hebben ve
 b. vreemdelingen die, na in Nederland rechtmatig verblijf te hebben genoten als bedoeld in artikel 8, onder a tot en met e en l, van de Vreemdelingenwet 2000, tijdig toelating in aansluiting op dat verblijf hebben aangevraagd, dan wel bezwaar hebben gemaakt of beroep hebben ingesteld tegen de intrekking van het besluit tot toelating, totdat op die aanvraag, dat bezwaar of dat beroep is beslist.    
 
 ### Artikel  2.1.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Zo nodig in afwijking van artikel 2.1.1 en de daarop berustende bepalingen: 
 
@@ -190,7 +190,7 @@ a. wordt als verzekerde aangemerkt de persoon van wie de verzekering op grond va
 b. wordt niet als verzekerde aangemerkt de persoon op wie op grond van een verdrag of een besluit van een volkenrechtelijke organisatie de wetgeving van een andere mogendheid van toepassing is.   
 
 ### Artikel  2.1.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 De Sociale verzekeringsbank stelt ambtshalve en, desgevraagd, op aanvraag vast of een natuurlijke persoon voldoet aan de bij of krachtens de artikelen 2.1.1 of 2.1.2 vastgestelde voorwaarden voor het verzekerd zijn ingevolge deze wet. 
 
@@ -198,10 +198,10 @@ De Sociale verzekeringsbank stelt ambtshalve en, desgevraagd, op aanvraag vast o
 
 ####De inschrijving van verzekerden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  2.2.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Indien de verzekerde een zorgverzekering heeft en zijn zorgverzekeraar deel uitmaakt van een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek waarvan ook een Wlz-uitvoerder deel uitmaakt, meldt zijn zorgverzekeraar hem, onder vermelding van zijn burgerservicenummer, met ingang van de datum waarop de zorgverzekering ingaat ter inschrijving bij de desbetreffende Wlz-uitvoerder aan. De Wlz-uitvoerder schrijft de verzekerde in. Indien de zorgverzekering is ingegaan binnen vier maanden nadat de verzekeringsplicht, bedoeld in de Zorgverzekeringswet is ontstaan, werkt de inschrijving terug tot en met de dag waarop die verzekeringsplicht ontstond.   
 2.  De verzekerde die niet op grond van het eerste lid voor de uitvoering van deze wet bij een Wlz-uitvoerder is ingeschreven, meldt zich voor de toepassing van deze wet met inachtneming van bij algemene maatregel van bestuur te stellen regels ter inschrijving aan bij een Wlz-uitvoerder die werkzaam is in de gemeente waar hij woont. De Wlz-uitvoerder schrijft de verzekerde in. Een in het buitenland woonachtige verzekerde meldt zich aan bij een Wlz-uitvoerder naar eigen keuze. De Wlz-uitvoerder is verplicht hem tot dat doel in te schrijven.   
@@ -209,7 +209,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  De natuurlijke persoon die op grond van artikel 64, eerste lid, van de Wet financiering sociale verzekeringen is ontheven van de verplichtingen, opgelegd op grond van deze wet, wordt door de Sociale Verzekeringsbank ter inschrijving aangemeld bij het zorgkantoor voor de regio waarin hij woont.  
 
 ### Artikel  2.2.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De verzekerde die zich ingevolge artikel 2.2.1, tweede lid, bij een Wlz-uitvoerder aanmeldt ter inschrijving, vermeldt daarbij zijn burgerservicenummer.   
 2.  De Wlz-uitvoerder verlangt van de vreemdeling die zich ter inschrijving aanmeldt, een kopie van het document of de schriftelijke verklaring, bedoeld in artikel 9, tweede lid, van de Vreemdelingenwet 2000, dat wordt aangemerkt als een bescheid als bedoeld in artikel 4:3, tweede lid, van de Algemene wet bestuursrecht.  
@@ -218,16 +218,16 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####De inhoud van de verzekering
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### §  1  
 
 ####De verzekerde zorg
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  3.1.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het op grond van deze wet verzekerde pakket omvat de volgende vormen van zorg: 
 
@@ -265,13 +265,13 @@ g. logeeropvang in een instelling, met inbegrip van de voorzieningen, bedoeld in
 2.  Bij of krachtens algemene maatregel van bestuur kunnen aard, inhoud en omvang van de verzekerde zorg nader worden geregeld.  
 
 ### Artikel  3.1.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De echtgenoot van een persoon met een somatische of psychogeriatrische aandoening of beperking, of met een verstandelijke, lichamelijke of zintuiglijke handicap die recht heeft op zorg en in een instelling verblijft, heeft in afwijking van artikel 3.2.1, eerste lid, recht op verblijf als bedoeld in artikel 3.1.1, eerste lid, onderdeel a, in dezelfde instelling. Hij behoudt recht op verblijf in die instelling na het overlijden van zijn echtgenoot dan wel na het vertrek van zijn echtgenoot naar een andere instelling.   
 2.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald in welke gevallen en onder welke voorwaarden de echtgenoot van de verzekerde met een verstandelijke, lichamelijke of zintuiglijke handicap recht heeft op verblijf als bedoeld in het eerste lid.  
 
 ### Artikel  3.1.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2016 
 
 1.  De verzekerde die recht heeft op zorg, heeft recht op een vergoeding voor een woningaanpassing die bedoeld is om de door hem gekozen verblijfplaats geschikt te doen zijn voor de verlening van zorg, voor zover: 
 
@@ -284,10 +284,10 @@ b. de Wlz-uitvoerder oordeelt dat die investering duurzaam en doelmatig is.
 
 ####Het recht op zorg en het tot gelding brengen van het recht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  3.2.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Een verzekerde heeft recht op zorg die op zijn behoeften, persoonskenmerken en mogelijkheden is afgestemd voor zover hij naar aard, inhoud en omvang en uit een oogpunt van doelmatige zorgverlening redelijkerwijs op die zorg is aangewezen omdat hij, vanwege een somatische of psychogeriatrische aandoening of beperking of een verstandelijke, lichamelijke of zintuiglijke handicap, een blijvende behoefte heeft aan: 
 
@@ -326,7 +326,7 @@ b. volgens zijn behandelaar is aangewezen op het afmaken van een onder de Jeugdw
 5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het eerste tot en met derde lid.  
 
 ### Artikel  3.2.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Een verzekerde met een psychische stoornis wiens recht op verblijf en de daarbij behorende medisch noodzakelijke geneeskundige zorg op grond van zijn zorgverzekering beëindigd is omdat de krachtens zijn zorgverzekering geldende maximumduur voor die zorg is bereikt, heeft aansluitend recht op voortzetting van deze zorg gedurende een onafgebroken periode van maximaal drie jaar.   
 2.  Na afloop van de periode, bedoeld in het eerste lid, kan de zorg telkens voor een onafgebroken periode van maximaal drie jaar verder worden voortgezet.   
@@ -334,7 +334,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Een verzekerde heeft slechts recht op zorg als bedoeld in het eerste en tweede lid voor zover hij daar naar aard, inhoud en omvang en uit een oogpunt van doelmatige zorgverlening redelijkerwijs op is aangewezen.  
 
 ### Artikel  3.2.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het recht op zorg wordt op aanvraag van de verzekerde in een indicatiebesluit vastgesteld door het CIZ. Het recht op zorg dat wordt vastgesteld in het indicatiebesluit sluit aan bij de behoefte van de verzekerde.   
 2.  De verzekerde vermeldt bij de aanvraag zijn burgerservicenummer.   
@@ -343,7 +343,7 @@ Treedt in werking op een nader te bepalen tijdstip
 5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop de indicatie tot stand komt en over de inrichting en geldigheidsduur van het indicatiebesluit.  
 
 ### Artikel  3.2.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Het CIZ kan een indicatiebesluit herzien dan wel intrekken indien het CIZ vaststelt dat: 
 
@@ -352,7 +352,7 @@ a. door de verzekerde of derden onjuiste of onvolledige gegevens zijn verstrekt 
 b. de verzekerde niet langer op de geïndiceerde zorg is aangewezen.   
 
 ### Artikel  3.2.5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat het recht op zorg slechts tot gelding kan worden gebracht indien de verzekerde de kosten daarvan gedeeltelijk draagt. De eigen bijdrage kan verschillen naar gelang de groep waartoe de verzekerde behoort, de zorg die verstrekt wordt en de wijze waarop het recht op zorg tot gelding wordt gebracht, en kan mede afhankelijk gesteld worden van het inkomen en vermogen van de verzekerde en diens echtgenoot.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop het inkomen en vermogen, bedoeld in het eerste lid, worden bepaald.   
@@ -360,7 +360,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Het eerste tot en met derde lid zijn van overeenkomstige toepassing op de artikelen 3.1.2 en 3.1.3.  
 
 ### Artikel  3.2.6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat zorg wordt voortgezet na het tijdstip waarop de verzekering is geëindigd of dat een recht op een vergoeding bestaat voor zorg die wordt verleend na dat tijdstip. Daarbij kunnen beperkingen en voorwaarden worden gesteld. De wijze waarop een zodanige recht tot gelding wordt gebracht, wordt daarbij eveneens geregeld.   
 2.  Bij of krachtens algemene maatregel van bestuur kan voor gevallen of omstandigheden waarin de kosten van het verlenen van de desbetreffende zorg in redelijkheid niet of niet volledig ten laste van de in deze wet geregelde verzekering dienen te komen, worden bepaald dat: 
@@ -374,12 +374,12 @@ c. een hogere bijdrage van de verzekerde wordt gevorderd dan krachtens artikel 
 d. een vergoeding van gemaakte kosten geheel of gedeeltelijk wordt geweigerd.    
 
 ### Artikel  3.2.7  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Een recht op zorg kan niet tot gelding worden gebracht gedurende de periode waarin de verzekerde in een penitentiaire inrichting als bedoeld in artikel 3, eerste lid, van de Penitentiaire beginselenwet, een instelling als bedoeld in artikel 1.1, eerste lid, onderdelen i en j, van de Wet forensische zorg of een gesloten accommodatie als bedoeld in artikel 1.1 van de Jeugdwet verblijft. 
 
 ### Artikel  3.2.8  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Voor militairen in werkelijke dienst als bedoeld in artikel 1, eerste lid, onderdeel a juncto onderdeel b, van de Militaire ambtenarenwet 1931, alsmede voor militairen aan wie buitengewoon verlof met behoud van militaire inkomsten is verleend, treden de aanspraken inzake zorg door of vanwege de Militair Geneeskundige Dienst in de plaats van de rechten op grond van deze wet.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld inzake een uitkering door het Zorginstituut aan Onze Minister van Defensie ten laste van het Fonds langdurige zorg in verbrand met het vervallen van de rechten ingevolge deze wet.  
@@ -388,16 +388,16 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####De leveringsvormen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  3.3.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De verzekerde die recht heeft op zorg, kan ervoor kiezen om zijn recht tot gelding te brengen met zorg in natura, bestaande uit zorg met verblijf in een instelling, een volledig pakket thuis als bedoeld in artikel 3.3.2, eerste lid, onderdeel a, of een modulair pakket thuis als bedoeld in artikel 3.3.2, eerste lid, onderdeel b, dan wel met een persoonsgebonden budget. De verzekerde kan tevens kiezen om zijn recht tot gelding te brengen met een modulair pakket thuis in combinatie met een persoonsgebonden budget.   
 2.  De verzekerde die zijn recht op zorg tot gelding wil brengen met zorg in natura, wendt zich daartoe tot een zorgaanbieder met wie de Wlz-uitvoerder waarbij hij is ingeschreven tot dat doel een overeenkomst als bedoeld in artikel 4.2.2 heeft gesloten. Indien er meerdere gecontracteerde zorginstellingen zijn die de verzekerde binnen redelijke termijn de zorg kunnen verlenen waaraan hij behoefte heeft, stelt de Wlz-uitvoerder hem in de gelegenheid uit deze instellingen te kiezen.  
 
 ### Artikel  3.3.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De Wlz-uitvoerder laat, op aanvraag van de verzekerde en onverminderd het derde, vierde en achtste lid, zorg in natura leveren zonder dat de verzekerde in een instelling verblijft, door middel van: 
 
@@ -423,7 +423,7 @@ b. kan worden bepaald dat bestanddelen bij de berekening, bedoeld in het vierde 
 c. kunnen nadere regels worden gesteld met betrekking tot dit artikel.    
 
 ### Artikel  3.3.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het zorgkantoor verleent op aanvraag van de verzekerde en onverminderd het vierde en vijfde lid alsmede andere bij wettelijk voorschrift gestelde voorwaarden of beperkingen, volgens bij of krachtens algemene maatregel van bestuur te stellen regels, een persoonsgebonden budget waarmee de verzekerde, in plaats van zorg in natura te ontvangen, zelf betalingen doet voor zorg als bedoeld in artikel 3.1.1, eerste lid, onderdelen a, onder 2°, b, f of g. De verzekerde ziet af van het recht op verblijf en van de daarmee gepaard gaande voorziening, bedoeld in artikel 3.1.1, eerste lid, onderdeel a, onder 1°, alsmede van de behandeling, bedoeld in artikel 3.1.1, eerste lid, onderdeel d.   
 2.  Voordat een besluit op een aanvraag als bedoeld in het eerste lid wordt genomen, kan de verzekerde of zijn vertegenwoordiger het zorgkantoor een persoonlijk plan overhandigen, waarin de verzekerde of zijn vertegenwoordiger de door hem beoogde samenstelling van het persoonsgebonden budget schetst. Het zorgkantoor brengt de verzekerde of zijn vertegenwoordiger van deze mogelijkheid op de hoogte en stelt hem gedurende zeven dagen na de aanvraag in de gelegenheid het plan te overhandigen.   
@@ -464,12 +464,12 @@ e. de vorm en inhoud van het budgetplan, bedoeld in het eerste lid, onderdeel e
 9.  De op grond van het eerste, vijfde, zesde en achtste lid gestelde regels kunnen voor verschillende categorieën van verzekerden verschillend worden vastgesteld.  
 
 ### Artikel  3.3.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 In afwijking van de artikelen 3.3.1 tot en met 3.3.3 kan een verzekerde als bedoeld in artikel 3.2.2 zijn recht op zorg slechts tot gelding brengen in een instelling waarmee de Wlz-uitvoerder waarbij hij is ingeschreven een overeenkomst als bedoeld in artikel 4.2.2 heeft gesloten. 
 
 ### Artikel  3.3.5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Een recht op zorg kan uitsluitend met zorg in natura tot gelding worden gebracht bij een zorgaanbieder die is gevestigd binnen het grondgebied van Nederland, of, indien de noodzakelijke zorg binnen dat grondgebied niet of niet tijdig kan worden verkregen en de Wlz-uitvoerder voorafgaande toestemming heeft verleend, bij een zorgaanbieder die is gevestigd binnen het grondgebied van de staten behorende tot de Europese Unie, de Europese Economische Ruimte of van Zwitserland en die de zorg waarop recht bestaat levert binnen het desbetreffende grondgebied.   
 2.  Een verzekerde heeft buiten Nederland, maar binnen het grondgebied van de staten behorende tot de Europese Unie, de Europese Economische Ruimte en Zwitserland, volgens bij algemene maatregel van bestuur te stellen regels in plaats van recht op zorg recht op gehele of gedeeltelijke vergoeding van de voor de zorg gemaakte kosten, indien die wordt verleend door een zorgaanbieder met wie de Wlz-uitvoerder geen overeenkomst als bedoeld in artikel 4.2.2 heeft gesloten.   
@@ -486,16 +486,16 @@ c. in welke gevallen en onder welke voorwaarden het derde lid wordt toegepast.
 
 ####De Wlz-uitvoerders
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### §  1  
 
 ####De aan- en afmelding en de statuten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  4.1.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Een rechtspersoon die behoort tot een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek waarvan ook een zorgverzekeraar deel uitmaakt en die deze wet ten aanzien van de verzekerden wenst uit te voeren, meldt zich daartoe als Wlz-uitvoerder aan bij de zorgautoriteit, onder vermelding van de dag met ingang waarvan hij voornemens is zulks te gaan doen.   
 2.  Na aanmelding is de rechtspersoon verplicht te voldoen aan de voorschriften die bij of krachtens deze wet aan Wlz-uitvoerders zijn opgelegd.   
@@ -509,7 +509,7 @@ Treedt in werking op een nader te bepalen tijdstip
 6.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de wijze waarop wordt vastgesteld of de geschiktheid en betrouwbaarheid van een persoon als bedoeld in het vijfde lid buiten twijfel staat en welke feiten en omstandigheden daarbij in aanmerking worden genomen.  
 
 ### Artikel  4.1.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De statuten van een Wlz-uitvoerder: 
 
@@ -523,14 +523,14 @@ d. sluiten iedere verplichting van de verzekerden of gewezen verzekerden tot het
 2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld over de mate van invloed die verzekerden ten minste op het beleid van een Wlz-uitvoerder dienen te hebben.  
 
 ### Artikel  4.1.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De Wlz-uitvoerder die deze wet niet meer wenst uit te voeren, meldt het voornemen hiertoe schriftelijk aan de zorgautoriteit, onder vermelding van de dag waarop hij deze wet niet meer zal uitvoeren.   
 2.  Artikel 26 van de Zorgverzekeringswet is van overeenkomstige toepassing.   
 3.  De in het eerste lid bedoelde Wlz-uitvoerder kan door de zorgautoriteit met inachtneming van bij algemene maatregel van bestuur te stellen regels worden verplicht tot het voortzetten van de uitvoering van deze wet tot is voorzien in een zodanige afwikkeling van de activiteiten van de Wlz-uitvoerder dat verzekerden en zorgaanbieders daarvan geen onevenredig nadeel ondervinden.  
 
 ### Artikel  4.1.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Indien de Wlz-uitvoerder verkeert in de toestand dat hij heeft opgehouden te betalen, voldoet het Zorginstituut aan verzekerden en aan zorgaanbieders jegens die Wlz-uitvoerder of voormalige Wlz-uitvoerder bestaande vorderingen, ter zake van op grond van deze wet verstrekte zorg of vergoeding van daarvoor gemaakte kosten.   
 2.  De vorderingen, bedoeld in het eerste lid, gaan bij wijze van subrogatie op het Zorginstituut over voor zover dat college deze heeft voldaan.   
@@ -540,10 +540,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####De taken van de Wlz-uitvoerder
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  4.2.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De Wlz-uitvoerder heeft een zorgplicht, die inhoudt dat: 
 
@@ -563,11 +563,11 @@ c. hij ervoor zorgt dat voor de verzekerde cliëntondersteuning beschikbaar is w
 a. hij de verzekerden die wonen in de regio waarvoor hij als zorgkantoor is aangewezen, desgevraagd informatie verschaft over de voorwaarden waaronder zij in aanmerking kunnen komen voor een persoonsgebonden budget,  
 
 b. hij, indien hij met toepassing van artikel 3.3.3 een persoonsgebonden budget heeft verleend, ervoor zorgt dat het budget binnen redelijke termijn beschikbaar wordt gesteld.     
-3.  Bij algemene maatregel van bestuur worden regels gesteld over de wijze waarop de Wlz-uitvoerder het eerste lid, onderdelen a, en b, onder 2° en 3°, uitvoert.   
+3.  Dit lid is nog niet in werking getreden.   
 4.  De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  4.2.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Ter uitvoering van zijn zorgplicht sluit een Wlz-uitvoerder schriftelijke overeenkomsten met zorgaanbieders die zorg kunnen verlenen die ingevolge artikel 3.1.1 verzekerd is.   
 2.  De overeenkomsten bevatten ten minste bepalingen over: 
@@ -589,20 +589,16 @@ g. de administratieve voorwaarden die partijen bij de uitvoering van de overeenk
 4.  De Wlz-uitvoerder draagt er zorg voor dat in het aanbod van gecontracteerde zorgaanbieders redelijkerwijs rekening wordt gehouden met de godsdienstige gezindheid, de levensovertuiging, de culturele achtergrond en de seksuele gerichtheid van de bij hem ingeschreven verzekerden.   
 5.  Indien na beëindiging van een overeenkomst voor een bepaalde vorm van zorg door een Wlz-uitvoerder geen aansluitende overeenkomst voor die vorm van zorg met dezelfde zorgaanbieder tot stand komt, behoudt de verzekerde, zolang die zorg noodzakelijk en verantwoord is, jegens de Wlz-uitvoerder recht op ononderbroken voortzetting van die vorm van zorg, te verlenen door dezelfde zorgaanbieder, indien die zorg is aangevangen voor de datum waarop de overeenkomst met die zorgaanbieder voor de desbetreffende vorm van zorg is beëindigd.   
 6.  Gedurende de tijdelijke voortzetting van de zorg, bedoeld in het vijfde lid, gelden tussen de Wlz-uitvoerder en de zorgaanbieder de voorwaarden van de overeenkomst waaronder de zorg aan de in het vijfde lid bedoelde verzekerde is aangevangen, behoudens voor zover bij ministeriële regeling anders wordt bepaald.   
-7.  Bij algemene maatregel van bestuur worden regels gesteld over: 
-
-a. de wijze waarop de overeenkomsten tot stand komen en, in aanvulling op hetgeen daarover in het tweede en derde lid is bepaald, de inhoud van die overeenkomsten;  
-
-b. de kwaliteit van de te verlenen zorg, waaronder de afstemming van de zorg op de behoeften, mogelijkheden en beperkingen van de verzekerde en de wijze waarop bij de zorgverlening mantelzorgers en andere vrijwilligers betrokken kunnen worden.     
+7.  Dit lid is nog niet in werking getreden.   
 8.  De voordracht voor een krachtens het zevende lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  4.2.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Bij algemene maatregel van bestuur kunnen regels worden gesteld waarmee de zorg persoonsvolgend kan worden bekostigd. 
 
 ### Artikel  4.2.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De Wlz-uitvoerder is verantwoordelijk voor de uitvoering van hetgeen bij en krachtens deze wet is geregeld voor de bij hem ingeschreven verzekerden. De eerste volzin geldt niet voor werkzaamheden die bij of krachtens de wet aan een andere rechtspersoon zijn opgedragen.   
 2.  Bij of krachtens algemene maatregel van bestuur wordt Nederland ingedeeld in regio’s. Onze Minister wijst per regio een Wlz-uitvoerder aan als zorgkantoor. Het zorgkantoor is voor alle verzekerden die wonen in de regio waarvoor hij is aangewezen belast met de verstrekking van het persoonsgebonden budget, alsmede in een bij algemene maatregel van bestuur te bepalen mate met de administratie of controle van de aan die verzekerden verleende zorg.   
@@ -612,12 +608,12 @@ Treedt in werking op een nader te bepalen tijdstip
 6.  Overeenkomsten die in strijd met het bij en krachtens het vierde en vijfde lid of het bij of krachtens artikel 4.2.2 bepaalde zijn gesloten, zijn nietig.  
 
 ### Artikel  4.2.5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 De Wlz-uitvoerder is verplicht zijn werkzaamheden op een doelmatige wijze uit te voeren. Hij treft de nodige maatregelen ter voorkoming van de verstrekking van onnodige zorg en van uitgaven die hoger dan noodzakelijk zijn. 
 
 ### Artikel  4.2.6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De Wlz-uitvoerder voert ter zake van de uitvoering van deze wet een administratie die gescheiden is van de overige activiteiten die plaatsvinden in de groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek, waartoe de Wlz-uitvoerder behoort.   
 2.  Buiten de werkzaamheden die uit deze wet voortvloeien, verricht de Wlz-uitvoerder slechts taken die hem bij of krachtens de wet zijn opgedragen.  
@@ -626,10 +622,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Verslaglegging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  4.3.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Een Wlz-uitvoerder zendt voor 1 juli aan de zorgautoriteit een financieel verslag over het voorafgaande kalenderjaar. Daarin wordt onderscheid gemaakt tussen de beheerskosten en de kosten van verstrekking van zorg en vergoedingen.   
 2.  Het financieel verslag gaat vergezeld van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek, alsmede van een verslag van zijn bevindingen over de ordelijkheid en controleerbaarheid van het gevoerde financiële beheer.   
@@ -638,7 +634,7 @@ Treedt in werking op een nader te bepalen tijdstip
 5.  Op aanvraag van een Wlz-uitvoerder is de zorgautoriteit bevoegd voor in haar besluit aan te wijzen baten en lasten te besluiten dat het ontbreken van een overeenkomst als bedoeld in artikel 4.2.2 geen gevolgen heeft voor de inhoud van de verklaring, bedoeld in het tweede lid.  
 
 ### Artikel  4.3.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De Wlz-uitvoerder zendt voor 1 juli aan de zorgautoriteit in tweevoud een uitvoeringsverslag waarin hij: 
 
@@ -662,10 +658,10 @@ Bij het geven van een overzicht van zijn voornemens, bedoeld in artikel 4.3.2, 
 
 ####Overig
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  4.4.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 De Kaderwet zelfstandige bestuursorganen is niet van toepassing op de Wlz-uitvoerders. 
 
@@ -673,33 +669,33 @@ De Kaderwet zelfstandige bestuursorganen is niet van toepassing op de Wlz-uitvoe
 
 ####Het Zorginstituut
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### §  1  
 
 ####Taken
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  5.1.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het Zorginstituut bevordert de rechtmatige en doelmatige uitvoering van deze wet door de Wlz-uitvoerders en het CAK.   
 2.  Het Zorginstituut kan met het oog op de rechtmatige en doelmatige uitvoering van deze wet beleidsregels stellen voor de Wlz-uitvoerders en voor het CAK.  
 
 ### Artikel  5.1.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Het Zorginstituut geeft aan Wlz-uitvoerders, aan zorgaanbieders en aan burgers voorlichting over de aard, inhoud en omvang van de zorg die tot het verzekerde pakket behoort. 
 
 ### Artikel  5.1.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het Zorginstituut rapporteert Onze Minister desgevraagd over voorgenomen beleid inzake aard, inhoud en omvang van de zorg die tot het verzekerde pakket behoort.   
 2.  Het Zorginstituut signaleert gevraagd en ongevraagd aan Onze Minister feitelijke ontwikkelingen die aanleiding kunnen geven tot wijzigingen van de aard, inhoud en omvang van de zorg die tot het verzekerde pakket behoort.  
 
 ### Artikel  5.1.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Het Zorginstituut voert bij of krachtens algemene maatregel van bestuur genoemde werkzaamheden uit ten behoeve van de gezamenlijke zorg voor de instandhouding van het elektronische gegevensverkeer, bedoeld in artikel 9.1.6, eerste lid. 
 
@@ -707,10 +703,10 @@ Het Zorginstituut voert bij of krachtens algemene maatregel van bestuur genoemde
 
 ####Planning, financiering en verslaglegging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  5.2.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het Zorginstituut zendt jaarlijks voor 15 april aan Onze Minister een zoveel mogelijk met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk wetboek ingericht financieel verslag uitvoeringstaken over het afgelopen kalenderjaar, met een financiële verantwoording over bij ministeriële regeling aan te wijzen, op die uitvoeringstaken betrekking hebbende geldstromen, alsmede het verslag van bevindingen, waarin per geldstroom de bevindingen worden aangegeven.   
 2.  Het financieel verslag uitvoeringstaken gaat vergezeld van een verklaring omtrent de getrouwheid.   
@@ -718,7 +714,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  De verklaring omtrent getrouwheid en het verslag van bevindingen worden opgesteld door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek, die bereid is Onze Minister desgevraagd inzicht te geven in zijn controlewerkzaamheden.  
 
 ### Artikel  5.2.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het Zorginstituut zendt jaarlijks voor 31 december aan Onze Minister met betrekking tot het Fonds langdurige zorg een jaarrekening over het voorafgaande kalenderjaar, alsmede het verslag van bevindingen, bedoeld in het vijfde lid.   
 2.  Het Zorginstituut legt in de jaarrekening, die zoveel mogelijk met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk Wetboek wordt ingericht, rekening en verantwoording af over: 
@@ -735,7 +731,7 @@ d. de toestand van het Fonds langdurige zorg per 31 december van het voorafgaan
 5.  De accountant voegt bij de verklaring, bedoeld in het derde lid, tevens een verslag van zijn bevindingen over de vraag of het beheer en de organisatie voldoen aan eisen van rechtmatigheid, ordelijkheid, controleerbaarheid en doelmatigheid.  
 
 ### Artikel  5.2.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het financieel verslag uitvoeringstaken, bedoeld in artikel 5.2.1, en de jaarrekening, bedoeld in artikel 5.2.2, behoeven de goedkeuring van Onze Minister.   
 2.  Bij ministeriële regeling kunnen regels gesteld worden over de inhoud en de inrichting van: 
@@ -753,16 +749,16 @@ d. de bij het financieel verslag uitvoeringstaken, bedoeld in artikel 5.2.1, en
 
 ####Het CAK
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### §  1  
 
 ####Instelling en taak
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  6.1.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Er is een CAK, dat rechtspersoonlijkheid bezit.   
 2.  Het CAK is gevestigd in een door Onze Minister te bepalen plaats.   
@@ -773,7 +769,7 @@ Treedt in werking op een nader te bepalen tijdstip
 7.  In afwijking van artikel 15 van de Kaderwet zelfstandige bestuursorganen worden de personeelsleden van de in het eerste lid bedoelde rechtspersoon in dienst genomen op arbeidsovereenkomst naar burgerlijk recht. De bepalingen van titel 10 van Boek 7 van het Burgerlijk Wetboek zijn op deze overeenkomst van toepassing.  
 
 ### Artikel  6.1.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Het CAK is belast met: 
 
@@ -784,7 +780,7 @@ b. de vaststelling en inning van de eigen bijdragen, bedoeld in artikel 2.1.4 v
 c. het namens een Wlz-uitvoerder of het Zorginstituut verrichten van betalingen aan zorgaanbieders, welke de Wlz-uitvoerders, of het Zorginstituut, uit hoofde van de uitvoering van deze wet verschuldigd zijn.   
 
 ### Artikel  6.1.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het CAK stelt een bestuursreglement vast.   
 2.  Vergaderingen van het CAK zijn niet openbaar, behoudens voor zover in het bestuursreglement anders is bepaald.  
@@ -793,10 +789,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Planning, financiering en verslaglegging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  6.2.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het CAK zendt Onze Minister jaarlijks voor 1 november een werkprogramma en een begroting.   
 2.  Het werkprogramma bevat een beschrijving van de activiteiten die het CAK voornemens is in het volgende kalenderjaar te verrichten. Het werkprogramma behoeft de goedkeuring van Onze Minister.   
@@ -805,7 +801,7 @@ Treedt in werking op een nader te bepalen tijdstip
 5.  Onverminderd artikel 35, vierde lid, van de Kaderwet zelfstandige bestuursorganen doet de accountant tevens verslag van zijn bevindingen over de vraag of het beheer en de organisatie van het CAK voldoen aan eisen van rechtmatigheid, ordelijkheid en controleerbaarheid.  
 
 ### Artikel  6.2.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Onze Minister stelt jaarlijks voor 1 december het budget vast voor de door het CAK ter uitvoering van zijn in artikel 6.1.2 genoemde taken in het volgende kalenderjaar te maken beheerskosten.   
 2.  Het door Onze Minister vastgestelde budget wordt gedekt uit ’s Rijks kas.   
@@ -814,7 +810,7 @@ Treedt in werking op een nader te bepalen tijdstip
 5.  Onze Minister kan besluiten het in het budget opgenomen bedrag voor de beheerskosten te wijzigen.  
 
 ### Artikel  6.2.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 In afwijking van artikel 29 van de Kaderwet zelfstandige bestuursorganen behoeven wijzigingen in de bedragen die in de goedgekeurde begroting zijn opgenomen voor de beheerskosten geen goedkeuring van Onze Minister, mits: 
 
@@ -823,12 +819,12 @@ a. de totale omvang van het in die begroting opgenomen bedrag voor beheerskosten
 b. de wijziging per groep van kostensoorten en baten, gerekend over het desbetreffende begrotingsjaar, een bedrag van vijf procent van het in artikel 6.2.2, eerste lid, bedoelde budget, voor zover dat betrekking heeft op beheerskosten, niet te boven gaat.   
 
 ### Artikel  6.2.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Na de goedkeuring, bedoeld in artikel 6.2.1, tweede lid, alsmede de goedkeuring, bedoeld in de artikelen 29, eerste lid, en 34, tweede lid, van de Kaderwet zelfstandige bestuursorganen, stelt het CAK het werkprogramma, de begroting, het jaarverslag en de jaarrekening algemeen verkrijgbaar. 
 
 ### Artikel  6.2.5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Bij ministeriële regeling kunnen regels worden gesteld over: 
 
@@ -847,7 +843,7 @@ f. de wijze waarop en de voorwaarden waaronder het budget, bedoeld in artikel 6
 g. de gegevens die worden verstrekt ten behoeve van de vaststelling van het budget.   
 
 ### Artikel  6.2.6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het CAK zendt voor 1 juli aan de zorgautoriteit een financieel verslag over het voorafgaande kalenderjaar. Artikel 4.3.1, eerste tot en met vierde lid, is van overeenkomstige toepassing.   
 2.  Het CAK zendt voor 1 juli aan de zorgautoriteit in tweevoud een uitvoeringsverslag. Artikel 4.3.2 is van overeenkomstige toepassing, met dien verstande dat de bevindingen van de accountant over de uitvoering bedoeld in het derde lid, onderdeel b, van dat artikel, betrekking hebben op de verplichtingen die op het CAK rusten.  
@@ -856,16 +852,16 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Het CIZ
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### §  1  
 
 ####Instelling en taak
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  7.1.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Er is een CIZ, dat rechtspersoonlijkheid bezit.   
 2.  Het CIZ is gevestigd in een door Onze Minister te bepalen plaats.   
@@ -876,7 +872,7 @@ Treedt in werking op een nader te bepalen tijdstip
 7.  In afwijking van artikel 15 van de Kaderwet zelfstandige bestuursorganen worden de personeelsleden van de in het eerste lid bedoelde rechtspersoon in dienst genomen op arbeidsovereenkomst naar burgerlijk recht. De bepalingen van titel 10 van Boek 7 van het Burgerlijk Wetboek zijn op deze overeenkomst van toepassing.  
 
 ### Artikel  7.1.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het CIZ is belast met: 
 
@@ -889,7 +885,7 @@ b. het oordeel over de noodzaak van opneming en verblijf of de voortzetting van 
 5.  Bij algemene maatregel van bestuur kunnen categorieën van besluiten worden aangewezen waarvoor het verbod op mandaatverlening niet geldt.  
 
 ### Artikel  7.1.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het CIZ stelt een bestuursreglement vast.   
 2.  Vergaderingen van het CIZ zijn niet openbaar, behoudens voor zover in het bestuursreglement anders is bepaald.  
@@ -898,23 +894,23 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Planning, financiering en verslaglegging
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  7.2.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het CIZ zendt Onze Minister jaarlijks voor 1 november een werkprogramma en een begroting.   
 2.  Artikel 6.2.1, tweede tot en met vijfde lid, is van overeenkomstige toepassing op het werkprogramma en de begroting van het CIZ.   
 3.  Artikel 6.2.3 is van overeenkomstige toepassing op de begroting van het CIZ.  
 
 ### Artikel  7.2.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Onze Minister stelt jaarlijks voor 1 december het budget vast voor de door het CIZ ter uitvoering van zijn in artikel 7.1.2 genoemde taken in het volgende kalenderjaar te maken beheerskosten.   
 2.  Artikel 6.2.2, tweede tot en met vijfde lid, is van overeenkomstige toepassing op het budget voor de door het CIZ te maken beheerskosten.  
 
 ### Artikel  7.2.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De artikelen 6.2.4 en 6.2.5 zijn van overeenkomstige toepassing op het werkprogramma, de begroting, het budget, het jaarverslag, de jaarrekening en de te vormen egalisatiereserve van het CIZ.   
 2.  De artikelen 4.3.1, eerste tot en met vierde lid, en 6.2.6, eerste lid, zijn van overeenkomstige toepassing op het financieel verslag van het CIZ, met uitzondering van de tweede volzin van artikel 4.3.1, eerste lid.   
@@ -924,10 +920,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Zeggenschap van de verzekerde over zijn leven
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  8.1.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De verzekerde aan wie een zorgaanbieder zorg verleent, anders dan op grond van artikel 3.3.3, heeft er recht op dat de zorgaanbieder vóór, dan wel zo spoedig mogelijk na de aanvang van de zorgverlening een bespreking met hem organiseert teneinde afspraken te maken over: 
 
@@ -953,7 +949,7 @@ c. de rechten van andere verzekerden of een goede en ordelijke gang van zaken.
 8.  Op verzoek van de verzekerde of van zijn vertegenwoordiger betrekt de zorgaanbieder de mantelzorger of mantelzorgers bij de besprekingen.  
 
 ### Artikel  8.1.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De verplichtingen op grond van de artikelen 8.1.1 en 8.1.3 worden: 
 
@@ -972,7 +968,7 @@ e. indien een meerderjarige verzekerde die niet in staat kan worden geacht tot e
 5.  Indien een verzekerde van zestien jaar of ouder niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, respecteren de zorgaanbieder en de in het eerste lid bedoelde persoon de weigering van toestemming van de verzekerde, mits hij deze heeft vastgelegd in schriftelijke vorm toen hij nog tot een redelijke waardering van zijn belangen in staat was. De zorgaanbieder kan hiervan slechts afwijken om gegronde redenen.  
 
 ### Artikel  8.1.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De zorgaanbieder legt binnen zes weken na aanvang van de zorgverlening, onderscheidenlijk een evaluatie en actualisatie, de uitkomsten van de in artikel 8.1.1 bedoelde bespreking vast in een zorgplan en verstrekt terstond een afschrift van het zorgplan aan de verzekerde of aan een vertegenwoordiger.   
 2.  Indien de verzekerde of diens vertegenwoordiger een persoonlijk plan als bedoeld in artikel 8.1.1, derde lid, heeft overhandigd, betrekt de zorgaanbieder dit persoonlijk plan bij het opstellen van het zorgplan.   
@@ -986,16 +982,16 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Informatiebepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### §  1  
 
 ####Verwerking van gegevens, waaronder bijzondere persoonsgegevens
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  9.1.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De artikelen 4 en 6 tot en met 9 van de Wet gebruik burgerservicenummer in de zorg zijn, voor de uitvoering van deze wet, van overeenkomstige toepassing op de Wlz-uitvoerder.   
 2.  De Wlz-uitvoerder stelt de identiteit en het burgerservicenummer van de verzekerde vast: 
@@ -1009,7 +1005,7 @@ b. voor zover dat redelijkerwijs nodig is ter uitvoering van artikel 12 van de 
 6.  Het CIZ stelt bij de aanvraag van een indicatiebesluit de identiteit van de verzekerde vast aan de hand van documenten als bedoeld in artikel 1 van de Wet op de identificatieplicht, die de verzekerde hem desgevraagd ter inzage geeft.  
 
 ### Artikel  9.1.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Wlz-uitvoerders, zorgaanbieders, het CAK en het CIZ, verstrekken elkaar kosteloos de persoonsgegevens van de verzekerde, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens, dan wel stellen elkaar deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking, voor zover die gegevens noodzakelijk zijn voor: 
 
@@ -1058,7 +1054,7 @@ d. aan welke beveiligingseisen gegevensverwerking voldoet;
 e. in welke gevallen gegevens, bedoeld in het eerste of derde lid, verder worden verwerkt met het oog op de uitvoering van deze wet, een zorgverzekering als bedoeld in de Zorgverzekeringswet of een aanvullende ziektekostenverzekering, voor zover deze gegevens niet worden gebruikt voor het beoordelen en accepteren van een aspirant-verzekerde voor een aanvullende verzekering en bovendien noodzakelijk zijn voor de in het eerste lid genoemde taken.    
 
 ### Artikel  9.1.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Een Wlz-uitvoerder, het CAK, en het CIZ verstrekken op verzoek, binnen een bij dat verzoek genoemde termijn, uit de onder hun verantwoordelijkheid gevoerde administratie, kosteloos, de gegevens, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens, aan: 
 
@@ -1076,7 +1072,7 @@ c. de Sociale verzekeringsbank, voor zover die gegevens noodzakelijk voor de ver
 8.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste tot en met zesde lid.  
 
 ### Artikel  9.1.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De zorgautoriteit, onderscheidenlijk het Zorginstituut, kan na overleg met het Zorginstituut, onderscheidenlijk de zorgautoriteit, bij regeling bepalen welke gegevens en inlichtingen regelmatig door de Wlz-uitvoerders en het CAK moeten worden verstrekt.   
 2.  De regels kunnen mede omvatten het tijdstip en de wijze waarop de gegevens en inlichtingen moeten worden verstrekt, alsmede dat een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek de juistheid van de verstrekte gegevens en inlichtingen bevestigt.   
@@ -1084,13 +1080,13 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Een Wlz-uitvoerder en het CAK verlenen op verzoek van het Zorginstituut dan wel van de zorgautoriteit aan door het desbetreffende college aangewezen personen inzage in alle bescheiden en andere gegevensdragers, stelt deze op verzoek ter beschikking voor het nemen van afschrift en verleent de ter zake verlangde medewerking, voor zover het desbetreffende college dit nodig acht voor de uitoefening van zijn taak.  
 
 ### Artikel  9.1.5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het Zorginstituut en de zorgautoriteit verstrekken desgevraagd aan Onze Minister of aan het College sanering, genoemd in artikel 32 van de Wet toelating zorginstellingen, de voor de uitoefening van hun taak benodigde inlichtingen en gegevens.   
 2.  Het Zorginstituut en de zorgautoriteit verlenen aan door Onze Minister of door het College sanering aangewezen personen toegang tot en inzage in zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van hun taak redelijkerwijs nodig is.  
 
 ### Artikel  9.1.6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De in artikel 9.1.2, eerste lid, genoemde instanties maken voor de in dat artikel genoemde verstrekking of ontvangst van gegevens gebruik van elektronisch gegevensverkeer.   
 2.  Bij ministeriële regeling, bedoeld in artikel 9.1.2, zevende lid, kan tevens worden bepaald: 
@@ -1104,7 +1100,7 @@ c. de wijze waarop het gebruik van de infrastructuur wordt georganiseerd en behe
 d. de financiering van het gebruik van de infrastructuur en de wijze waarop de kosten ervan worden verdeeld.    
 
 ### Artikel  9.1.7  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het is een ieder die uit hoofde van de toepassing van deze wet of van krachtens deze wet genomen besluiten enige taak vervult of heeft vervuld, verboden van vertrouwelijke gegevens of inlichtingen die ingevolge deze wet dan wel ingevolge titel 5.2 van de Algemene wet bestuursrecht zijn verstrekt of verkregen, verder of anders gebruik te maken of daaraan verder of anders bekendheid te geven dan voor de uitvoering van zijn taak of bij of krachtens deze wet wordt geëist.   
 2.  In afwijking van het eerste lid kunnen de zorgautoriteit en het Zorginstituut met gebruikmaking van vertrouwelijke gegevens of inlichtingen verkregen bij de uitvoering van hun taken op grond van deze wet, mededelingen doen, indien deze niet kunnen worden herleid tot afzonderlijke personen of ondernemingen.   
@@ -1122,10 +1118,10 @@ c. de bevoegdheden van de Algemene Rekenkamer ingevolge artikel 91 van de Compt
 
 ####Beleidsinformatie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  9.2.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen in het belang van de zorgverlening, de bekostiging daarvan en de afstemming op andere wettelijke voorzieningen, regels worden gesteld over de kosteloze verstrekking van informatie van beleidsmatige en beheersmatige aard: 
 
@@ -1139,16 +1135,16 @@ b. door Wlz-uitvoerders aan de zorgautoriteit en Onze Minister.
 
 ####Overige bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### §  1  
 
 ####Innovatie, zorg voor bedreigde personen en ADL-assistentie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  10.1.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Bij algemene maatregel van bestuur kan bij wijze van experiment, met het oog op het onderzoeken van mogelijkheden om deze wet doeltreffender uit te voeren, worden afgeweken van het bepaalde bij of krachtens deze wet, met uitzondering van hoofdstuk 2 en van hoofdstuk 3, § 1.   
 2.  Bij een algemene maatregel van bestuur als bedoeld in het eerste lid wordt geregeld op welke wijze van welke artikelen wordt afgeweken en kunnen alleen regels worden gesteld: 
@@ -1176,7 +1172,7 @@ b. binnen drie jaar een voorstel van wet is ingediend bij de Staten-Generaal om 
 6.  Indien het in het vijfde lid, onderdeel b, bedoelde voorstel van wet wordt ingetrokken of indien een van de beide Kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur onverwijld ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de algemene maatregel van bestuur ingetrokken op het tijdstip van inwerkingtreding van die wet.  
 
 ### Artikel  10.1.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  In dit artikel en de daarop gebaseerde regelgeving wordt onder «diensten» verstaan: 
 
@@ -1201,13 +1197,13 @@ d. kunnen voorwaarden worden gesteld waaronder binnen een experiment persoonsvol
 5.  Artikel 10.1.1, derde tot en met zesde lid, is van toepassing.  
 
 ### Artikel  10.1.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Bij ministeriële regeling kan worden bepaald dat het Zorginstituut uitkeringen verstrekt ter vergoeding van kosten van zorg als bedoeld in artikel 3.1.1, eerste lid, verleend door zorgaanbieders aan personen die zijn opgenomen in het stelsel van Bewaken & Beveiligen van het Openbaar Ministerie.   
 2.  In de regeling, bedoeld in het eerste lid, kunnen voorwaarden opgenomen worden ten aanzien van de in dat lid bedoelde uitkeringen en ten aanzien van de uitvoering van de in dat lid bedoelde taak van het Zorginstituut.  
 
 ### Artikel  10.1.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het Zorginstituut verstrekt volgens bij of krachtens algemene maatregel van bestuur te stellen regels subsidies aan organisaties voor het verlenen van gedurende het gehele etmaal direct oproepbare assistentie bij algemene dagelijkse levensverrichtingen in en om de ADL-woning, waaronder alarmopvolging bij een noodoproep.   
 2.  Indien de verzekerde recht heeft op de assistentie bij algemene dagelijkse levensverrichtingen in en om de woning, bedoeld in het eerste lid, heeft hij geen recht op zorg, bedoeld in artikel 3.1.1.  
@@ -1216,35 +1212,35 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####De invloed van de verzekering op het burgerlijk recht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  10.2.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Bij de vaststelling van de schadevergoeding, waarop de verzekerde naar burgerlijk recht aanspraak kan maken ter zake van een feit dat aanleiding geeft tot het verlenen van zorg die is bekostigd ingevolge deze wet, houdt de rechter rekening met de aanspraken die de verzekerde krachtens deze wet heeft. 
 
 ### Artikel  10.2.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Behoudens toepassing van het derde lid, eerste volzin, heeft een Wlz-uitvoerder voor de krachtens deze wet gemaakte kosten verhaal op degene, die in verband met het in artikel 10.2.1 bedoelde feit jegens de verzekerde naar burgerlijk recht tot schadevergoeding is verplicht, doch ten hoogste tot het bedrag, waarvoor deze bij het ontbreken van de aanspraken krachtens deze wet naar burgerlijk recht aansprakelijk zou zijn, verminderd met een bedrag, gelijk aan dat van de schadevergoeding tot betaling waarvan de aansprakelijke persoon jegens de verzekerde naar burgerlijk recht is gehouden.   
 2.  Voor zover de geldswaarde van de in het eerste lid bedoelde verleende zorg niet kan worden vastgesteld, wordt deze bepaald op een geschat bedrag. Onze Minister kan hieromtrent nadere regels stellen.   
 3.  Het Zorginstituut kan met verzekeraars overeenkomen dat zij het Zorginstituut een bedrag betalen om de in het eerste lid bedoelde schadelast die hun verzekerden naar verwachting in een komende periode zullen veroorzaken, af te kopen. De overeenkomst heeft geen betrekking op de schadelast van een Wlz-uitvoerder die voor de aanvang van de onderhandelingen over de bedoelde overeenkomst aan het Zorginstituut te kennen heeft gegeven van zijn bevoegdheid in het eerste lid gebruik te maken. Het Zorginstituut stelt voor aanvang van de periode waarvoor een afkoopsom als bedoeld in de eerste volzin is overeengekomen, Wlz-uitvoerders op de hoogte van de totstandkoming van bedoelde overeenkomst.  
 
 ### Artikel  10.2.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Indien de verzekerde in dienstbetrekking werkzaam is, geldt artikel 10.2.2, ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte werkgever van de verzekerde, onderscheidenlijk ten aanzien van de naar burgerlijk recht tot schadevergoeding verplichte persoon, die in dienstbetrekking staat tot dezelfde werkgever als de verzekerde jegens wie naar burgerlijk recht verplichting tot schadevergoeding bestaat, slechts indien het feit als genoemd in artikel 10.2.1 is te wijten aan opzet of bewuste roekeloosheid van die werkgever onderscheidenlijk persoon.   
 2.  Voor de toepassing van het eerste lid wordt mede als werkgever beschouwd de inlener, bedoeld in artikel 34 van de Invorderingswet 1990.  
 
 ### Artikel  10.2.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Een Wlz-uitvoerder kan van hem, die, zonder daartoe gerechtigd te zijn, opzettelijk aanspraken als verzekerde bij hem doet gelden onderscheidenlijk deed gelden, alsmede van hem, die daaraan opzettelijk zijn medewerking verleent onderscheidenlijk heeft verleend, geheel of gedeeltelijk het bedrag vorderen van de zorg of van de vergoedingen die hem te veel of ten onrechte zijn verleend. Voor zover de geldswaarde van de in de eerste volzin bedoelde zorg niet vaststaat, kan deze worden vastgesteld op een geschat bedrag.   
 2.  Het besluit tot terugvordering levert een executoriale titel op in de zin van het Tweede Boek van het Wetboek van Burgerlijke Rechtsvordering.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld betreffende de in het eerste lid bedoelde terugvordering.  
 
 ### Artikel  10.2.5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Indien de Wlz-uitvoerder op grond van artikel 3.1.3 heeft beslist tot verstrekking van een woningaanpassing aan een woning waarvan de verzekerde niet de eigenaar is, is de Wlz-uitvoerder dan wel de verzekerde, bevoegd zonder toestemming van de eigenaar deze woningaanpassing aan te brengen of te doen aanbrengen.   
 2.  Alvorens de woningaanpassing aan te brengen of te doen aanbrengen, stelt de Wlz-uitvoerder de eigenaar van de woning in de gelegenheid zich te doen horen.   
@@ -1254,10 +1250,10 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Bezwaar en beroep
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  10.3.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Een beslissing van een Wlz-uitvoerder of het CIZ, op bezwaar inzake een recht op zorg of op een vergoeding ingevolge deze wet wordt niet genomen dan nadat daaromtrent door het Zorginstituut op verzoek van het bestuursorgaan advies is uitgebracht.   
 2.  Het eerste lid is niet van toepassing voor zover het bezwaarschrift betrekking heeft op een ingevolge het bepaalde krachtens deze wet verschuldigde bijdrage, waarvan de hoogte niet afhankelijk is van een medisch oordeel.   
@@ -1272,7 +1268,7 @@ c. het Zorginstituut geen advies heeft uitgebracht binnen de in het vierde lid g
 5.  Indien het Zorginstituut is verzocht advies uit te brengen, wordt de beslissing op bezwaar in afwijking van artikel 7:10, eerste lid, van de Algemene wet bestuursrecht genomen binnen eenentwintig weken gerekend vanaf de dag na die waarop de termijn voor het indienen van het bezwaarschrift is verstreken.  
 
 ### Artikel  10.3.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Tegen uitspraken van de Centrale Raad van Beroep kan ieder der partijen beroep in cassatie instellen ter zake van schending of verkeerde toepassing van het bepaalde bij of krachtens een der artikelen 1.1.2, eerste lid, 1.2.1, 1.2.2, en 2.1.1.   
 2.  Op dit beroep zijn de voorschriften betreffende het beroep in cassatie tegen uitspraken van de gerechtshoven inzake beroepen in belastingzaken van overeenkomstige toepassing, waarbij de Centrale Raad van Beroep de plaats inneemt van een gerechtshof.  
@@ -1281,17 +1277,17 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Toezicht en handhaving
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  10.4.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De ambtenaren van het Staatstoezicht op de volksgezondheid zijn belast met het toezicht op de naleving door zorgaanbieders van de verplichtingen die voor hen uit het bepaalde bij of krachtens hoofdstuk 8 voortvloeien.   
 2.  De in het eerste lid bedoelde ambtenaren zijn, voor zover dat voor de vervulling van hun taak noodzakelijk is, bevoegd tot inzage van de dossiers van verzekerden. In afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht, dienen ook zorgverleners die uit hoofde van hun beroep tot geheimhouding van de dossiers verplicht zijn, de ambtenaren, bedoeld in de eerste volzin, inzage te geven in de daar bedoelde dossiers. In dat geval zijn de betrokken ambtenaren verplicht tot geheimhouding van de dossiers.   
 3.  De in het eerste lid bedoelde ambtenaren zijn bevoegd het niet naleven door een zorgaanbieder van een verplichting die voor hem uit het bepaalde bij of krachtens deze wet voortvloeit, buiten behandeling te laten, tenzij sprake is van een situatie die voor de veiligheid van verzekerden of de zorg een ernstige bedreiging kan betekenen, of het belang van goede zorg anderszins daaraan redelijkerwijs in de weg staat.  
 
 ### Artikel  10.4.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Indien Onze Minister van oordeel is dat het bepaalde bij of krachtens de artikelen 8.1.1, 8.1.2 of 8.1.3 niet wordt nageleefd, kan hij, in voorkomend geval in overeenstemming met Onze Minister wie het mede aangaat, de zorgaanbieder een schriftelijke aanwijzing geven.   
 2.  In de aanwijzing geeft Onze Minister met redenen omkleed aan op welke punten het bepaalde bij of krachtens artikel 8.1.1, 8.1.2 of 8.1.3 niet wordt nageleefd, alsmede de in verband daarmee te nemen maatregelen.   
@@ -1301,13 +1297,13 @@ Treedt in werking op een nader te bepalen tijdstip
 6.  De bevoegdheid tot het verlengen van de geldigheidsduur van een bevel wordt niet gemandateerd aan een ambtenaar van het Staatstoezicht op de volksgezondheid.  
 
 ### Artikel  10.4.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Onze Minister is, in voorkomend geval in overeenstemming met Onze Minister wie het mede aangaat, bevoegd een last onder dwangsom op te leggen aan de zorgaanbieder of de professionele zorgverlener die geen medewerking verleent aan de inzage van dossiers als bedoeld in artikel 10.4.1, tweede lid.   
 2.  Onze Minister is, in voorkomend geval in overeenstemming met Onze Minister wie het mede aangaat, bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van een krachtens artikel 10.4.2 gegeven aanwijzing of bevel.  
 
 ### Artikel  10.4.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Onze Minister is bevoegd een zorgaanbieder een aanwijzing te geven indien de zorgaanbieder niet voldoet aan het bepaalde bij of krachtens 9.1.2, eerste lid.   
 2.  Indien een zorgaanbieder niet binnen vier weken aan een aanwijzing als bedoeld in het eerste lid voldoet, is Onze Minister bevoegd een last onder dwangsom op te leggen.  
@@ -1316,16 +1312,16 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Invoeringsbepalingen en overgangsrecht
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### §  1  
 
 ####Overgangsrecht verzekerden
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  11.1.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De verzekerde die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten op grond van een indicatiebesluit is aangewezen op een zorgzwaartepakket 4 VV, 5 VV, 6 VV, 7 VV, 8 VV, 9b VV, 10 VV, 3 VG, 4 VG, 5 VG, 6 VG, 7 VG, 8 VG, 1 SGLVG, 2 LG, 4 LG, 5 LG, 6 LG, 7 LG, 2 ZGaud, 3 ZGaud, 4 ZGaud, 2 ZGvis, 3 ZGvis, 4 ZGvis of 5 ZGvis, dan wel, voor een meerderjarige verzekerde, op een zorgzwaartepakket 1 LVG, 2 LVG, 3 LVG, 4 LVG, 5 LVG, wordt voor de toepassing van deze wet gelijkgesteld met een verzekerde ten aanzien van wie het CIZ heeft vastgesteld dat hij voldoet aan artikel 3.2.1, eerste of derde lid.   
 2.  De verzekerde die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten op grond van een indicatiebesluit is aangewezen op een zorgzwaartepakket 1 VV, 2 VV, 3 VV, 1 LG, 3 LG, 1 ZGaud, of 1 ZGvis, dan wel, voor een meerderjarige verzekerde, op een zorgzwaartepakket 1 VG of 2 VG, en voor wie het recht op zorg die dag gepaard ging met verblijf in een instelling, wordt voor de toepassing van deze wet gelijkgesteld met een verzekerde ten aanzien van wie het CIZ heeft vastgesteld dat hij voldoet aan artikel 3.2.1, eerste lid, voor zover hij in een instelling verblijft.   
@@ -1335,7 +1331,7 @@ Treedt in werking op een nader te bepalen tijdstip
 6.  Tot bij ministeriële regeling aan te wijzen groepen behorende verzekerden die onmiddellijk voorafgaande aan de intrekking van de Algemene Wet Bijzondere Ziektekosten op grond van een indicatie voor extramurale zorg dergelijke zorg in natura genoten of een persoonsgebonden budget ontvingen en die het indicatieorgaan, bedoeld in artikel 9a van die wet, voor 1 januari 2015 hebben laten weten voor zorg als bedoeld in deze wet in aanmerking te willen komen, ontvangen van dat indicatieorgaan een op 1 januari 2015 ingaand indicatiebesluit als bedoeld in artikel 3.2.3, met een geldigheidsduur tot 1 januari 2016.  
 
 ### Artikel  11.1.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De verzekerde, bedoeld in artikel 11.1.1, derde lid, heeft gedurende de geldigheidsduur van het indicatiebesluit en tot het moment waarop hij in een instelling is gaan verblijven, maar uiterlijk tot 1 januari 2016 recht op voortzetting van de aanspraken of het persoonsgebonden budget waarop hij bij of krachtens de Algemene Wet Bijzondere Ziektekosten krachtens een zorgindicatiebesluit aanspraak had op de dag vóór de intrekking van die wet, met dien verstande dat de hoogte van het persoonsgebonden budget wordt bepaald met inachtneming van hetgeen geregeld is krachtens artikel 11.1.5, tweede en derde lid. In afwijking van artikel 3.3.1, eerste lid, heeft een verzekerde als bedoeld in artikel 11.1.1, derde lid, vanaf 1 januari 2016 slechts recht op zorg met verblijf in een instelling. De vorige volzin geldt niet voor een verzekerde van wie het CIZ na de inwerkingtreding van deze wet op aanvraag heeft vastgesteld dat hij voldoet aan artikel 3.2.1, eerste lid.   
 2.  De verzekerde die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten een aanspraak had op ADL-assistentie op grond van artikel 34 van het Besluit zorgaanspraken AWBZ, zoals dat artikel luidde op de dag voor die intrekking, wordt zolang hij woonachtig blijft in een ADL-woning, voor de toepassing van deze wet gelijkgesteld met een verzekerde ten aanzien van wie het CIZ heeft vastgesteld dat hij recht heeft op assistentie bij algemene dagelijkse levensverrichtingen als bedoeld in artikel 10.1.4.   
@@ -1352,19 +1348,19 @@ c. de verzekerde, bedoeld in het artikel 11.1.1, vierde lid, met dien verstande
 7.  Indien een verzekerde als bedoeld in artikel 11.1.1, zesde lid, die onmiddellijk voorafgaande aan de intrekking van de Algemene Wet Bijzondere Ziektekosten een persoonsgebonden budget ontving ervoor kiest om zijn recht op zorg ook met ingang van 2015 in de vorm van een persoonsgebonden budget tot gelding te brengen, is de hoogte van dat budget tot 1 januari 2016 gelijk aan de hoogte van het budget dat hij onder de Algemene Wet Bijzondere Ziektekosten ontving. De vorige volzin geldt niet indien de gezondheidssituatie van de verzekerde dan wel toepasselijkheid van artikel 3.2.4, aanhef en onderdeel a, noodzaakt tot een gedurende het jaar 2015 ingaande herindicatie.  
 
 ### Artikel  11.1.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Tenzij hij op dat moment een jeugdige is als bedoeld in artikel 1.1, subonderdelen 1° of 2°, van de Jeugdwet, wordt de verzekerde die onmiddellijk voorafgaande aan de intrekking van de Algemene Wet Bijzondere Ziektekosten zorg behorende tot een zorgzwaartepakket B GGZ ontvangt en op eerder bedoeld moment met een dergelijk zorgzwaartepakket in een instelling verblijft dan wel op dat moment niet meer in een instelling verblijft maar uiterlijk negentig dagen na zijn ontslag wederom op deze zorg aangewezen raakt, voor de toepassing van deze wet gelijkgesteld met een verzekerde als bedoeld in artikel 3.2.2, eerste lid. De geldigheidsduur van het indicatiebesluit van de verzekerde, bedoeld in de vorige volzin, wordt ambtshalve op drie jaar gesteld, te rekenen vanaf de datum waarop de Algemene Wet Bijzondere Ziektekosten wordt ingetrokken.   
 2.  Tenzij hij op dat moment een jeugdige is als bedoeld in artikel 1.1, subonderdelen 1° of 2°, van de Jeugdwet, wordt de verzekerde die onmiddellijk voorafgaande aan de intrekking van de Algemene Wet Bijzondere Ziektekosten op grond van zijn indicatiebesluit is aangewezen op een zorgzwaartepakket B GGZ en op eerder bedoeld moment op grond van dat indicatiebesluit een persoonsgebonden budget ontving, voor de toepassing van deze wet gelijkgesteld met een verzekerde als bedoeld in artikel 3.2.2, eerste lid, en kan hij in afwijking van artikel 3.3.4 in plaats van voor verblijf kiezen voor voortzetting van zijn persoonsgebonden budget. In dat geval zijn de bij en krachtens artikel 3.3.3 gestelde regels alsmede de tweede volzin van het eerste lid van toepassing.  
 
 ### Artikel  11.1.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat de verzekerde, bedoeld in artikel 11.1.1, 11.1.2 of 11.1.3 de kosten van de daar bedoelde zorg gedeeltelijk draagt. De artikelen 3.2.5, 9.1.2 en 9.1.3 zijn van overeenkomstige toepassing.   
 2.  Het CAK is belast met de vaststelling en inning van de eigen bijdragen, bedoeld in het eerste lid.  
 
 ### Artikel  11.1.5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Bij ministeriële regeling wordt bepaald op welke wijze en onder welke voorwaarden het Zorginstituut tijdelijke subsidies aan organisaties verstrekt voor: 
 
@@ -1377,7 +1373,7 @@ c. het verstrekken van medisch noodzakelijk kortdurend verblijf in verband met g
 3.  De voorwaarden voor de in het eerste en tweede lid genoemde subsidies kunnen voor verschillende categorieën van verzekerden verschillend worden vastgesteld. Daarbij kan voor de subsidie, bedoeld in het eerste lid, onderdeel c, worden bepaald dat de gesubsidieerde organisatie het kortdurende verblijf slechts aan een verzekerde verstrekt onder de voorwaarde dat deze een bij ministeriële regeling te bepalen eigen bijdrage betaalt.  
 
 ### Artikel  11.1.6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Bij ministeriële regeling kan worden bepaald in welke gevallen en onder welke voorwaarden een verzekerde het gebruik van een hulpmiddel waarop hij, onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten, krachtens de Wet maatschappelijke ondersteuning recht had, kan voortzetten op grond van deze wet.   
 2.  In 2015 heeft de verzekerde die niet in een instelling verblijft geen recht op roerende voorzieningen als bedoeld in artikel 3.1.1, eerste lid, onderdeel a, onder 3°, of op individueel gebruik van mobiliteitshulpmiddelen als bedoeld in artikel 3.1.1, eerste lid, onderdeel e.   
@@ -1385,12 +1381,12 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  Bij ministeriële regeling kan worden bepaald in welke gevallen en onder welke voorwaarden een verzekerde het gebruik van een hulpmiddel waarop hij onmiddellijk voorafgaand aan de afloop van de in het tweede en derde lid bedoelde periode krachtens de Wet maatschappelijke ondersteuning 2015 recht had, kan voortzetten op grond van deze wet.  
 
 ### Artikel  11.1.7  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Onverminderd artikel 8.1, tweede lid, van de Wet maatschappelijke ondersteuning 2015, neemt het CIZ op een aanvraag als bedoeld in artikel 9b, eerste lid, van de Algemene Wet Bijzondere Ziektekosten, een indicatiebesluit met inachtneming van hetgeen bij of krachtens die wet was bepaald, voor zover geoordeeld wordt of de verzekerde is aangewezen op verblijf als bedoeld in artikel 9 van het Besluit zorgaanspraken AWBZ, zoals dat artikel luidde op de dag vóór de intrekking van de Algemene Wet Bijzondere Ziektekosten. 
 
 ### Artikel  11.1.8  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Bij ministeriële regeling kunnen ter aanvulling van de artikelen 11.1.1 tot en met 11.1.7 regels worden gesteld ten aanzien van aanspraken, rechten en verplichtingen van verzekerden die onmiddellijk voorafgaand aan de intrekking van de Algemene Wet Bijzondere Ziektekosten op grond van een indicatiebesluit waren aangewezen op zorg op grond van die wet. 
 
@@ -1398,23 +1394,23 @@ Bij ministeriële regeling kunnen ter aanvulling van de artikelen 11.1.1 tot en
 
 ####Overgangsrecht uitvoerders en afwikkeling Algemene Wet Bijzondere Ziektekosten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  11.2.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De Algemene Wet Bijzondere Ziektekosten wordt ingetrokken.   
 2.  De zorgautoriteit kan het een Wlz-uitvoerder die behoort tot een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek waarvan ook een zorgverzekeraar deel uitmaakt die de Algemene Wet Bijzondere Ziektekosten op de dag voor de intrekking van die wet uitvoerde, op diens verzoek voor een periode van ten hoogste twaalf maanden na die intrekking toestaan de Wlz uit te voeren zonder dat de vaststelling, bedoeld in artikel 4.1.1, vierde lid, heeft plaatsgevonden.  
 
 ### Artikel  11.2.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Ten aanzien van aanspraken, rechten en verplichtingen die bij of krachtens de Algemene Wet Bijzondere Ziektekosten zijn ontstaan voor het tijdstip van intrekking van die wet, dan wel na dat tijdstip zijn ontstaan ter zake van de afwikkeling van die wet, blijft het recht van toepassing zoals dat gold voorafgaand aan dat tijdstip, behoudens voor zover ter zake bij of krachtens deze wet afwijkende regels zijn gesteld.   
 2.  In deze paragraaf wordt verstaan onder zorgverzekeraar: een zorgverzekeraar als bedoeld in artikel 1, eerste lid, onder c, van de Algemene Wet Bijzondere Ziektekosten, zoals dat onderdeel luidde op de dag voor intrekking van die wet.   
 3.  De bestuursorganen die op grond van het bepaalde bij of krachtens de Algemene Wet Bijzondere Ziektekosten een taak hadden bij de uitvoering van die wet en de rechtspersonen, bedoeld in artikel 40 van die wet, dragen overeenkomstig de bepalingen van deze wet zorg voor een zorgvuldige afwikkeling van die taak.  
 
 ### Artikel  11.2.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  In artikel 11.2.2, eerste lid, bedoelde rechten en verplichtingen van een zorgverzekeraar gaan van rechtswege over op de Wlz-uitvoerder waarbij de verzekerde is ingeschreven ingevolge artikel 2.2.1. De Wlz-uitvoerder, bedoeld in de vorige volzin, heeft de hoedanigheid van zorgverzekeraar ter zake van de afwikkeling van de in die volzin bedoelde rechten en verplichtingen.   
 2.  In artikel 11.2.2, eerste lid, bedoelde rechten en verplichtingen van een op grond van artikel 40 van de Algemene Wet Bijzondere Ziektekosten aangewezen rechtspersoon gaan van rechtswege over het zorgkantoor dat werkzaam is in de regio waarvoor eerstgenoemde rechtspersoon was aangewezen. Dit zorgkantoor heeft ter zake van de afwikkeling van de in de vorige volzin bedoelde rechten en verplichtingen de hoedanigheid van de op grond van artikel 40 van de Algemene Wet Bijzondere Ziektekosten aangewezen rechtspersoon.   
@@ -1431,13 +1427,13 @@ a. in de gevallen, bedoeld in het eerste lid: door die zorgverzekeraars overgedr
 b. in de gevallen, bedoeld in het tweede lid: door de rechtspersoon, aangewezen krachtens artikel 40 van de Algemene Wet Bijzondere Ziektekosten overgedragen aan de door Onze Minister krachtens artikel 4.2.4, tweede lid, aangewezen Wlz-uitvoerders die de werkzaamheden in hun regio overnemen.    
 
 ### Artikel  11.2.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De bij en krachtens de Wet financiering sociale verzekeringen opgebouwde reserve voor de uitvoering van de Algemene Wet Bijzondere Ziektekosten die een krachtens artikel 40, eerste lid, van de Algemene Wet Bijzondere Ziektekosten aangewezen rechtspersoon voor een regio had op de dag voor de intrekking van die wet, komt ten behoeve van de uitvoering van de Wlz toe aan het zorgkantoor dat met ingang van de inwerkingtreding van deze wet in de desbetreffende regio werkt.   
 2.  In afwijking van het eerste lid brengt het zorgkantoor, bedoeld in het eerste lid, ook zijn beheerskosten die gepaard gaan met de afwikkeling van de Algemene Wet Bijzondere Ziektekosten ten laste van de in het eerste lid bedoelde reserve. Uitgaven waarvan de zorgautoriteit heeft vastgesteld dat deze niet verantwoord zijn, blijven daarbij buiten beschouwing, tenzij de zorgautoriteit anders heeft besloten.  
 
 ### Artikel  11.2.5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  In afwijking van hetgeen is overeengekomen, kunnen overeenkomsten als bedoeld in artikel 15 van de Algemene Wet Bijzondere Ziektekosten door beide partijen met inachtneming van een opzegtermijn van ten minste twee maanden worden opgezegd.   
 2.  Een zorgaanbieder die uit hoofde van een overeenkomst als bedoeld in het eerste lid een vordering heeft voor zorg die hij voor intrekking van de Algemene Wet Bijzondere Ziektekosten heeft verleend, zendt op straffe van verval van zijn vorderingsrecht uiterlijk twee jaar na de intrekking van die wet een nota aan het zorgkantoor dat ingevolge artikel 11.2.3, tweede lid, de opvolger is van zijn contractspartij.   
@@ -1447,18 +1443,18 @@ Treedt in werking op een nader te bepalen tijdstip
 6.  Het CAK voert een opdracht als bedoeld in het vijfde lid binnen drie maanden na ontvangst ervan uit.  
 
 ### Artikel  11.2.6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Een zorgaanbieder die uit hoofde van een overeenkomst met een verzekerde, gesloten in het kader van een persoonsgebonden budget, een vordering heeft voor zorg die hij voor de intrekking van de Algemene Wet Bijzondere Ziektekosten heeft verleend, zendt op straffe van verval van zijn vorderingsrecht uiterlijk twee maanden na die intrekking een nota aan de verzekerde.   
 2.  De verzekerde die over een persoonsgebonden budget in de vorm van een trekkingsrecht beschikt, zendt, op straffe van verval van de mogelijkheid om deze ten laste van zijn persoonsgebonden budget te betalen, de nota uiterlijk twee maanden na de ontvangst ervan ter betaling door aan de Sociale Verzekeringsbank.  
 
 ### Artikel  11.2.7  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Het CAK brengt uiterlijk twee jaar na de intrekking van de Algemene Wet Bijzondere Ziektekosten verschuldigde eigen bijdragen over de jaren tot de intrekking in rekening bij de verzekerde. 
 
 ### Artikel  11.2.8  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De Wlz-uitvoerders, de zorgkantoren die voor een regio de rechtsopvolgers zijn van de rechtspersonen, bedoeld in artikel 40 van die wet, en het CAK, zenden ieder met betrekking tot de taken die zij ter afwikkeling van de Algemene Wet Bijzondere Ziektekosten hebben, uiterlijk zes jaar na de intrekking van die wet aan de zorgautoriteit en het Zorginstituut: 
 
@@ -1468,18 +1464,18 @@ b. een financieel verslag over de afwikkeling van de uitvoering van de Algemene 
 2.  Artikel 31, aanhef en onderdelen b en c, van de Wet marktordening gezondheidszorg is van overeenkomstige toepassing.  
 
 ### Artikel  11.2.9  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De zorgautoriteit rapporteert uiterlijk zeven jaar na de intrekking van de Algemene Wet Bijzondere Ziektekosten aan Onze Minister en aan het Zorginstituut per Wlz-uitvoerder over de rechtmatigheid van de afwikkeling van de Algemene Wet Bijzondere Ziektekosten. Daarbij wordt per Wlz-uitvoerder een verklaring gegeven over de rechtmatigheid van de in de financiële verantwoording over de afwikkeling door de Wlz-uitvoerders opgenomen posten. Indien de zorgautoriteit uitgaven of besparingen op beheerskosten van een Wlz-uitvoerder als niet verantwoord heeft aangemerkt, vermeldt zij dat in haar verklaring.   
 2.  Het eerste lid is van overeenkomstige toepassing op het CAK.  
 
 ### Artikel  11.2.10  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Het saldo van het Algemeen Fonds Bijzondere Ziektekosten naar de situatie op 1 januari van het achtste jaar na het jaar waarin de Algemene Wet Bijzondere Ziektekosten werd ingetrokken, komt ten bate of ten laste van 's Rijks schatkist. 
 
 ### Artikel  11.2.11  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het Zorginstituut zendt Onze Minister uiterlijk negen jaar na de intrekking van de Algemene Wet Bijzondere Ziektekosten een financieel verslag over de uitgaven en ontvangsten in de periode vanaf de intrekking van de Algemene Wet Bijzondere Ziektekosten tot de datum, bedoeld in artikel 11.2.10.   
 2.  Het Zorginstituut legt in het financieel verslag, dat zoveel mogelijk met overeenkomstige toepassing van titel 9 van Boek 2 van het Burgerlijk Wetboek wordt ingericht, rekening en verantwoording af over: 
@@ -1496,17 +1492,17 @@ c. de rechtmatigheid en doelmatigheid van het beheer van het Algemeen Fonds Bijz
 7.  Na de goedkeuring, bedoeld in het zesde lid, stelt het Zorginstituut het financieel verslag algemeen verkrijgbaar.  
 
 ### Artikel  11.2.12  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Baten en lasten die het Zorginstituut na de intrekking van de Algemene Wet Bijzondere Ziektekosten heeft in verband met de uitvoering van die wet, komen ten bate of ten laste van het Algemeen Fonds Bijzondere Ziektekosten of, na de datum, bedoeld in artikel 11.2.10, van ’s Rijks schatkist. 
 
 ### Artikel  11.2.13  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld die voor een goede afwikkeling van de Algemene Wet Bijzondere Ziektekosten noodzakelijk zijn. 
 
 ### Artikel  11.2.14  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Indien de inspecteur of ontvanger een beschikking heeft gegeven die mede of uitsluitend betrekking heeft op de periode na het tijdstip van intrekking van de Algemene Wet Bijzondere Ziektekosten en de in die beschikking gehanteerde terminologie geheel of gedeeltelijk is gebaseerd op de laatstgenoemde wet, geldt voor de periode vanaf het moment van inwerkingtreding van de Wet langdurige zorg dat die beschikking geacht wordt in zoverre betrekking te hebben op de Wet langdurige zorg.   
 2.  Het eerste lid is van overeenkomstige toepassing op beschikkingen over: 
@@ -1522,7 +1518,7 @@ d. het betalen van uitkeringen door het Uitvoeringsinstituut werknemersverzekeri
 e. het afgeven van verklaringen als bedoeld in artikel 21, zesde lid, van het Besluit uitbreiding en beperking kring van verzekerden volksverzekeringen 1999 of het verlenen van ontheffingen als bedoeld in de artikelen 21a, derde lid, en 21b, derde lid, van dat besluit door de Sociale verzekeringsbank.    
 
 ### Artikel  11.2.15  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Indien de Algemene Wet Bijzondere Ziektekosten op 1 januari 2015 wordt ingetrokken, wordt, in afwijking van artikel 15 van de Wet financiering sociale verzekeringen, de rijksbijdrage in kosten heffingskortingen ten gunste van het Fonds langdurige zorg voor 2015 vastgesteld op € 3.250 miljoen.   
 2.  Het bedrag, genoemd in het eerste lid, wordt bij ministeriële regeling gewijzigd indien de heffingskortingen voor de inkomstenbelasting of de premie voor de Wet langdurige zorg, bedoeld in artikel 10 van de Wet financiering sociale verzekeringen, voor het jaar 2015 daartoe aanleiding geven.   
@@ -1532,35 +1528,35 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Invoeringsbepalingen met betrekking tot het CIZ
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  11.3.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De personen die op het tijdstip van inwerkingtreding van hoofdstuk 7 van deze wet krachtens een arbeidsovereenkomst naar burgerlijk recht behoren tot het personeel van de stichting Centrum indicatiestelling zorg, en van wie naam en functie zijn vermeld op een door Onze Minister vastgestelde lijst, zijn op dat tijdstip van rechtswege ontslagen en treden in dienst van het CIZ.   
 2.  De overgang van de in het eerste lid bedoelde personeelsleden vindt plaats met een rechtspositie die als geheel ten minste gelijkwaardig is aan die welke voor elk van hen gold bij de stichting Centrum indicatiestelling zorg.   
 3.  Artikel 7.1.1, zevende lid, is van overeenkomstige toepassing.  
 
 ### Artikel  11.3.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Alle vermogensbestanddelen van de stichting Centrum indicatiestelling zorg gaan onder algemene titel om niet over op het CIZ zonder dat een besluit, akte of mededeling is vereist.   
 2.  Ter zake van de overgang van vermogensbestanddelen blijft heffing van overdrachtsbelasting achterwege.  
 
 ### Artikel  11.3.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Archiefbescheiden van de stichting Centrum indicatiestelling zorg betreffende zaken die op het tijdstip van inwerkingtreding van deze wet nog niet zijn afgedaan, worden overgedragen aan het CIZ, voor zover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats. 
 
 ### Artikel  11.3.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Aanvragen gedaan bij en besluiten genomen door de stichting Centrum indicatiestelling zorg met betrekking tot de Algemene Wet Bijzondere Ziektekosten, voor zover de uitvoering van die wet op de dag voorafgaand aan de inwerkingtreding van deze wet aan de stichting Centrum indicatiestelling zorg was opgedragen, gelden na de inwerkingtreding van deze wet als aanvragen gedaan bij en besluiten genomen door het CIZ.   
 2.  In wettelijke procedures en rechtsgedingen waarbij de stichting Centrum indicatiestelling zorg is betrokken, treedt op het tijdstip van inwerkingtreding van deze wet het CIZ in de plaats van de stichting Centrum indicatiestelling zorg.   
 3.  In zaken waarin voor het tijdstip van inwerkingtreding van deze wet aan de Nationale ombudsman is verzocht een onderzoek te doen dan wel de Nationale ombudsman een onderzoek heeft ingesteld naar een gedraging die kan worden toegerekend aan de stichting Centrum indicatiestelling zorg, treedt het CIZ op dat tijdstip als bestuursorgaan in de zin van de Wet Nationale ombudsman in de plaats van de stichting Centrum indicatiestelling zorg.  
 
 ### Artikel  11.3.5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Vier jaar na inwerkingtreding van deze wet, wordt artikel 7.1.1 als volgt gewijzigd: 
 
@@ -1575,10 +1571,10 @@ b. Het zevende lid vervalt.
 
 ####Tijdelijke subsidies voor zorginfrastructuur en kapitaallasten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  11.4.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Tot 1 januari 2018 kan de zorgautoriteit subsidies verstrekken voor de voortzetting van projecten ter verbetering van de wijze waarop verzekerde zorg op grond van een zorgverzekering of op grond van deze wet, maatschappelijke ondersteuning als bedoeld in de Wet maatschappelijke ondersteuning 2015, of jeugdhulp als bedoeld in de Jeugdwet wordt geleverd aan cliënten die niet in een instelling verblijven.   
 2.  Subsidies als bedoeld in het eerste lid worden slechts verstrekt voor projecten waarvan de zorgautoriteit voor 1 juli 2013 heeft vastgesteld dat zij in aanmerking komen voor een vergoeding als bedoeld in haar Beleidsregel CA-300–578 (Stcrt. 8 juli 2013, nr. 18614) inzake de zorginfrastructuur.   
@@ -1586,7 +1582,7 @@ Treedt in werking op een nader te bepalen tijdstip
 4.  In aanvulling op hetgeen in artikel 90, tweede lid, van de Wet financiering sociale verzekering is geregeld, komen de subsidies, bedoeld in dit artikel, ten laste van het Fonds langdurige zorg.  
 
 ### Artikel  11.4.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Tot 1 januari 2018 kan de zorgautoriteit: 
 
@@ -1606,126 +1602,126 @@ b. een bijdrage voor vaste activa verstrekken aan bij ministeriële regeling aan
 
 ####Wijziging van andere wetten
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### §  1  
 
 ####Volksgezondheid, Welzijn en Sport
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  12.1.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet marktordening gezondheidszorg.
 
 ### Artikel  12.1.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Zorgverzekeringswet. 
 
 ### Artikel  12.1.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Invoerings- en aanpassingswet Zorgverzekeringswet. 
 
 ### Artikel  12.1.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Jeugdwet. 
 
 ### Artikel  12.1.5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet maatschappelijke ondersteuning 2015. 
 
 ### Artikel  12.1.6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet toelating zorginstellingen. 
 
 ### Artikel  12.1.7  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Kwaliteitswet zorginstellingen. 
 
 ### Artikel  12.1.8  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet klachtrecht cliënten zorgsector. 
 
 ### Artikel  12.1.9  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet medezeggenschap cliënten zorginstellingen. 
 
 ### Artikel  12.1.10  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet gebruik burgerservicenummer in de zorg. 
 
 ### Artikel  12.1.11  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet zorg en dwang psychogeriatrische en verstandig gehandicapte cliënten. 
 
 ### Artikel  12.1.12  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet publieke gezondheid. 
 
 ### Artikel  12.1.13  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Geneesmiddelenwet. 
 
 ### Artikel  12.1.14  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945. 
 
 ### Artikel  12.1.15  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet uitkeringen vervolgingsslachtoffers 1940-1945. 
 
 ### Artikel  12.1.16  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet kwaliteit, klachten en geschillen zorg. 
 
 ### Artikel  12.1.17  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt deze wet. 
 
 ### Artikel  12.1.18  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet aanvullende bepalingen verwerking persoonsgegevens in de zorg. 
 
 ### Artikel  12.1.19  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet toelating zorginstellingen. 
 
 ### Artikel  12.1.20  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet marktordening gezondheidszorg. 
 
 ### Artikel  12.1.21  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wijzigingswet Wet toelating zorginstellingen, enz. (voorwaarden voor winstuitkering aanbieders medisch-specialistische zorg). 
 
 ### Artikel  12.1.22  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet marktordening gezondheidszorg. 
 
 ### Artikel  12.1.23  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wijzigingswet Wet marktordening gezondheidszorg, enz. (voorkomen dat zorgverzekeraars zelf zorg verlenen of zorg laten aanbieden door zorgaanbieders waarin zij zelf zeggenschap hebben). 
 
@@ -1733,30 +1729,30 @@ Wijzigt de Wijzigingswet Wet marktordening gezondheidszorg, enz. (voorkomen dat 
 
 ####Financiën
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  12.2.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op het financieel toezicht. 
 
 ### Artikel  12.2.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  12.2.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de loonbelasting 1964. 
 
 ### Artikel  12.2.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de omzetbelasting 1968. 
 
 ### Artikel  12.2.5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet toezicht accountantsorganisaties. 
 
@@ -1764,90 +1760,90 @@ Wijzigt de Wet toezicht accountantsorganisaties.
 
 ####Sociale Zaken en Werkgelegenheid
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  12.3.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet financiering sociale verzekeringen. 
 
 ### Artikel  12.3.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet structuur uitvoeringsorganisatie werk en inkomen. 
 
 ### Artikel  12.3.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Werkloosheidswet. 
 
 ### Artikel  12.3.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen. 
 
 ### Artikel  12.3.5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers. 
 
 ### Artikel  12.3.6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten . 
 
 ### Artikel  12.3.7  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen. 
 
 ### Artikel  12.3.8  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Ziektewet. 
 
 ### Artikel  12.3.9  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Algemene nabestaandenwet. 
 
 ### Artikel  12.3.10  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Algemene Ouderdomswet. 
 
 ### Artikel  12.3.11  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Toeslagwet Indonesische pensioenen 1956. 
 
 ### Artikel  12.3.12  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen. 
 
 ### Artikel  12.3.13  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomensvoorziening oudere werklozen. 
 
 ### Artikel  12.3.14  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Liquidatiewet ongevallenwetten. 
 
 ### Artikel  12.3.15  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet brutering overhevelingstoeslag lonen. 
 
 ### Artikel  12.3.16  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Participatiewet. 
 
 ### Artikel  12.3.17  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering. 
 
@@ -1855,45 +1851,45 @@ Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 ####Veiligheid en Justitie
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  12.4.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Beginselenwet verpleging ter beschikking gestelden. 
 
 ### Artikel  12.4.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt het Burgerlijk Wetboek Boek 6. 
 
 ### Artikel  12.4.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt het Burgerlijk Wetboek Boek 7. 
 
 ### Artikel  12.4.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt het Wetboek van Koophandel. 
 
 ### Artikel  12.4.5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Algemene wet bestuursrecht. 
 
 ### Artikel  12.4.6  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de economische delicten. 
 
 ### Artikel  12.4.7  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet forensische zorg. 
 
 ### Artikel  12.4.8  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Indien de artikelen 3.1.1, 3.2.1 en 3.2.2 van deze wet in werking treden voordat het bij koninklijke boodschap van 4 juni 2010 ingediende voorstel van wet houdende Vaststelling van een Wet forensische zorg en daarmee verband houdende wijzigingen in diverse andere wetten (*Wet forensische zorg*; Kamerstukken I 2012/13, 32 398, D, e.v.) tot wet wordt verheven en in werking treedt, berust het interim-besluit forensische zorg totdat laatstgenoemde wet in werking treedt op dit artikel in plaats van op de in de aanhef van het interim-besluit forensische zorg genoemde artikelen van de Algemene Wet Bijzondere Ziektekosten.   
 2.  Op verzekerden die zijn aangewezen op onder artikel 3.1.1 vallende forensische zorg als bedoeld in het interim-besluit forensische zorg zijn wat betreft die zorg de artikelen 3.1.2, 3.1.3, 3.2.1, 3.2.3. 3.2.4, 3.2.6, 3.2.8, 3.3.1 tot en met 3.3.5, 4.2.1 tot en met 4.2.6, 6.1.2, 7.1.2, eerste lid, onderdeel a, 8.1.1 tot en met 8.1.3, 9.1.1 tot en met 9.1.3 niet van toepassing en kunnen met betrekking tot de in die artikelen geregelde onderwerpen bij of krachtens het interim-besluit forensische zorg regels worden gesteld.   
@@ -1903,25 +1899,25 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Binnenlandse Zaken en Koninkrijksrelaties
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  12.5.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Algemene pensioenwet politieke ambtsdragers. 
 
 ### Artikel  12.5.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Ambtenarenwet. 
 
 ### Artikel  12.5.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet aanpassing pensioenvoorzieningen Bijstandkorps. 
 
 ### Artikel  12.5.4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector. 
 
@@ -1929,22 +1925,22 @@ Wijzigt de Wet normering bezoldiging topfunctionarissen publieke en semipublieke
 
 ####Slotbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  13.1.1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld.   
 2.  Artikel 1, onderdeel b, subonderdeel 5, van de Wet burgerservicenummer in de zorg, artikel 4a van de Wet publieke gezondheid en artikel 90 van de Geneesmiddelenwet vervallen met ingang van 1 januari 2018.   
 3.  Artikel 11.1.1, zesde lid, werkt terug tot en met 1 oktober 2014.  
 
 ### Artikel  13.1.2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  13.1.3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Deze wet wordt aangehaald als: Wet langdurige zorg. 
 

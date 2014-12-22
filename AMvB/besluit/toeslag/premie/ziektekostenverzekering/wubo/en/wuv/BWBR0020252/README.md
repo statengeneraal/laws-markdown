@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 11 juli 2006, kenmerk OHW-U-2693908;
 
-Gelet op [artikel 20, eerste en tweede lid](../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), en [artikel 21, eerste en tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) en [artikel 14, tweede en derde lid](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), en [artikel 15, eerste en tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md);
+Gelet op artikel 20, eerste en tweede lid, en artikel 21, eerste en tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 en artikel 14, tweede en derde lid, en artikel 15, eerste en tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945;
 
 De Raad van State gehoord (advies van 2 augustus 2006, nummer W13.06.0304/III);
 
@@ -15,27 +15,27 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-De toeslag, bedoeld in de [artikelen 20, eerste lid](../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), en [21, eerste lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) en de [artikelen 14, tweede lid](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), en [15, eerste lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), wordt vastgesteld op: 
+De toeslag, bedoeld in de artikelen 20, eerste lid, en 21, eerste lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 en de artikelen 14, tweede lid, en 15, eerste lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945, wordt vastgesteld op: 
 
-a. € 114 per 1 januari 2014: € 149,29 per maand voor de ongehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt;  
+a. € 114 per 1 januari 2014: € 149,29 per maand voor de ongehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt;  
 
-b. € 114 per 1 januari 2014: € 149,29 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;  
+b. € 114 per 1 januari 2014: € 149,29 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;  
 
-c. € 184 per 1 januari 2014: € 240,95 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), nog niet heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt;  
+c. € 184 per 1 januari 2014: € 240,95 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, nog niet heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt;  
 
-d. € 118 per 1 januari 2014: € 154,52 per maand voor de ongehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt;  
+d. € 118 per 1 januari 2014: € 154,52 per maand voor de ongehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt;  
 
-e. € 118 per 1 januari 2014: € 154,52 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;  
+e. € 118 per 1 januari 2014: € 154,52 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot niet te zijnen laste komt;  
 
-f. € 236 per 1 januari 2014: € 309,03 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt.   
+f. € 236 per 1 januari 2014: € 309,03 per maand voor de gehuwde gerechtigde die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt, indien de premie van verzekering tegen ziektekosten van de echtgenoot te zijnen laste komt.   
 
 ### Artikel  2  
 
-Het bedrag, bedoeld in de [artikelen 20, tweede lid](../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md), en [21, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945](../../../../../../../../../wet/wet/uitkeringen/burger-oorlogsslachtoffers/1940-1945/BWBR0003664/README.md) en de [artikelen 14, derde lid](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), en [15, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../wet/wet/uitkeringen/vervolgingsslachtoffers/1940-1945/BWBR0002844/README.md), wordt vastgesteld op € 186,50 per 1 januari 2014: € 244,21 per verzekerde per maand. 
+Het bedrag, bedoeld in de artikelen 20, tweede lid, en 21, tweede lid, van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 en de artikelen 14, derde lid, en 15, tweede lid, van de Wet uitkeringen vervolgingsslachtoffers 1940–1945, wordt vastgesteld op € 186,50 per 1 januari 2014: € 244,21 per verzekerde per maand. 
 
 ### Artikel  3  
 
-Het [besluit van 21 april 2006 houdende vaststelling van het maximumbedrag van de toeslag voor de premie van verzekering tegen ziektekosten voor gerechtigden op basis van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 en de Wet uitkeringen vervolgingsslachtoffers 1940–1945](../../../../../../../../../AMvB/vaststellingsbesluit/maximumbedrag/toeslag/premie/van/verzekering/tegen/etc/BWBR0019784/README.md) (Stb. 241) wordt ingetrokken. 
+Het besluit van 21 april 2006 houdende vaststelling van het maximumbedrag van de toeslag voor de premie van verzekering tegen ziektekosten voor gerechtigden op basis van de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945 en de Wet uitkeringen vervolgingsslachtoffers 1940–1945 (Stb. 241) wordt ingetrokken. 
 
 ### Artikel  4  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 9 november 2000, kenmerk Z/VV-2106472, gedaan in overeenstemming met de Staatssecretaris van Sociale Zaken en Werkgelegenheid, J.F. Hoogervorst;
 
-Gelet op [artikel 5, derde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);
+Gelet op artikel 5, derde lid, van de Algemene Wet Bijzondere Ziektekosten;
 
 De Raad van State gehoord (advies van 7 december 2000, nummer W13.00.0521/III);
 
@@ -19,7 +19,7 @@ Wijzigt het Besluit uitbreiding en beperking kring verzekerden volksverzekeringe
 
 ### Artikel  II  
 
-Indien in de periode gelegen tussen 1 januari 1999 en de datum van inwerkingtreding van dit besluit, aan de persoon die op grond van [artikel 21, tweede, derde en vierde lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](../../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md) niet verzekerd is op grond van de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), verstrekkingen zijn verleend die ten laste zijn gebracht van het Algemeen Fonds Bijzondere Ziektekosten, worden de kosten daarvan niet teruggevorderd. 
+Indien in de periode gelegen tussen 1 januari 1999 en de datum van inwerkingtreding van dit besluit, aan de persoon die op grond van artikel 21, tweede, derde en vierde lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 niet verzekerd is op grond van de Algemene Wet Bijzondere Ziektekosten, verstrekkingen zijn verleend die ten laste zijn gebracht van het Algemeen Fonds Bijzondere Ziektekosten, worden de kosten daarvan niet teruggevorderd. 
 
 ### Artikel  III  
 

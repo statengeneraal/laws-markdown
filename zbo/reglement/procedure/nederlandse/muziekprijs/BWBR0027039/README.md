@@ -3,7 +3,7 @@
 ##Reglement procedure Nederlandse Muziekprijs
 
 Het bestuur van het Nederlands Fonds voor Podiumkunsten+,  
-Gelet op [artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid](../../../../../../wet/wet/op/het/specifiek/cultuurbeleid/BWBR0005904/README.md) en [artikel 4 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten<sup>+</sup>](../../../../../../zbo/algemeen/reglement/van/de/stichting/nederlands/fonds/voor/podiumkunsten+/BWBR0022753/README.md);
+Gelet op artikel 10 lid 4 van de Wet op het specifiek cultuurbeleid en artikel 4 van het Algemeen Reglement van het Nederlands Fonds voor Podiumkunsten<sup>+</sup>;
 Besluit:    
 
 ### Artikel  1:  
@@ -49,7 +49,7 @@ Voor toelating tot het ontwikkelingstraject voor de Nederlandse Muziekprijs kome
 ####Aanmelding
 
 1.  Aanmelding voor het ontwikkelingstraject voor de Nederlandse Muziekprijs staat open voor elke instrumentalist of vocalist die denkt aan de voorwaarden voor toelating te voldoen.   
-2.  Aanmelding is het hele jaar door mogelijk en geschiedt op een door het bestuur vastgestelde wijze.   
+2.  Aanmelding geschiedt op een door het bestuur vastgestelde wijze voor een door het bestuur vastgestelde datum.   
 3.  Bij aanmelding verstrekt de instrumentalist of vocalist in elk geval de volgende gegevens: 
 
 a. een recente live-opname van circa 25 minuten, die een goed beeld geeft van zijn capaciteiten;  
@@ -62,9 +62,7 @@ c. een toelichting op de doelen die hij in het ontwikkelingstraject wil behalen.
 
 ####Auditie
 
-1.  Het bestuur nodigt mede op basis van een advies van de commissie mogelijke kandidaten uit voor een auditie in een van de volgende maanden: januari, april of oktober.   
-2.  De auditant dient zelf voor een begeleider of eventueel andere assistentie te zorgen.   
-3.  De auditie is openbaar.  
+1.  Het bestuur nodigt mede op basis van een advies van de commissie mogelijke kandidaten uit voor een auditie.  
 
 ### Artikel  7:  
 

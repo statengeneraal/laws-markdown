@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 18 juli 2012, Z-3123021;
 
-Gelet op de [artikelen 11, derde en vierde lid, van de Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [6, tweede lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en [2, tweede lid, van de Wet marktordening gezondheidszorg](../../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);
+Gelet op de artikelen 11, derde en vierde lid, van de Zorgverzekeringswet, 6, tweede lid, van de Algemene Wet Bijzondere Ziektekosten, en 2, tweede lid, van de Wet marktordening gezondheidszorg;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 24 augustus 2012, W13.12.0269/III);
 
@@ -28,7 +28,7 @@ Wijzigt het Besluit uitbreiding en beperking werkingssfeer WMG.
 ### Artikel  IV  
 
 1.  Een verzekerde die op 31 december 2012 drieënveertig jaar of ouder was en bij wie een in-vitrofertilisatiepoging uiterlijk op die datum was aangevangen, heeft recht op afronding van die poging voor rekening van de zorgverzekering.   
-2.  [Artikel 11 van het Besluit zorgaanspraken AWBZ](../../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), zoals dat artikel luidde op 31 december 2012, blijft van toepassing op vóór 1 januari 2013 door een instelling in bruikleen verstrekte verpleegartikelen tot ten hoogste zesentwintig weken nadat de bruikleen is aangevangen.  
+2.  Artikel 11 van het Besluit zorgaanspraken AWBZ, zoals dat artikel luidde op 31 december 2012, blijft van toepassing op vóór 1 januari 2013 door een instelling in bruikleen verstrekte verpleegartikelen tot ten hoogste zesentwintig weken nadat de bruikleen is aangevangen.  
 
 ### Artikel  V  
 
@@ -43,11 +43,11 @@ Wijzigt het Invoeringsbesluit ambulancezorg.
 1.  Met uitzondering van artikel V en artikel VI treedt dit besluit in werking met ingang van 1 januari 2013.   
 2.  Artikel V treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst en werkt: 
 
-a. wat betreft de wijziging van de [artikelen 2.7, zesde lid](../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [2.9, derde lid](../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), [2.12, tweede lid](../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md), en [2.16 van het Besluit zorgverzekering](../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) terug tot en met 1 januari 2006;  
+a. wat betreft de wijziging van de artikelen 2.7, zesde lid, 2.9, derde lid, 2.12, tweede lid, en 2.16 van het Besluit zorgverzekering terug tot en met 1 januari 2006;  
 
-b. wat betreft de wijziging van [artikel 2.4, derde lid, van het Besluit zorgverzekering](../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) terug tot en met 1 januari 2008;  
+b. wat betreft de wijziging van artikel 2.4, derde lid, van het Besluit zorgverzekering terug tot en met 1 januari 2008;  
 
-c. wat betreft de wijziging van [artikel 2.10, vierde lid, van het Besluit zorgverzekering](../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) terug tot en met 1 januari 2012.     
+c. wat betreft de wijziging van artikel 2.10, vierde lid, van het Besluit zorgverzekering terug tot en met 1 januari 2012.     
 3.  Artikel VI treedt in werking met ingang van de dag na de datum van uitgifte van het Staatsblad waarin het wordt geplaatst.  
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het Staatsblad zal worden geplaatst.   

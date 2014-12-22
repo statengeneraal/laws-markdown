@@ -1047,7 +1047,7 @@ e.in het kader van een verrekening van pensioenrechten bij scheiding de waarde v
 
 ####Afkoop
 
-1.  Afkoop is slechts mogelijk in bij of krachtens de artikelen 66 tot en met 69 en 134 bedoelde situaties of in geval van toepassing van artikel 3:161 van de Wet op het financieel toezicht.   
+1.  Afkoop is slechts mogelijk in bij of krachtens de artikelen 66 tot en met 69 en 134 bedoelde situaties of in geval van toepassing van artikel 3:160 van de Wet op het financieel toezicht.   
 2.  Elk beding strijdig met dit artikel is nietig.  
 
 ### Artikel  66  
@@ -1191,7 +1191,7 @@ b. een verzekeraar, indien de dienstbetrekking van de gewezen deelnemer is geëi
 
 a. herleven de in artikel 71 bedoelde plichten van de overdragende pensioenuitvoerder en de ontvangende pensioenuitvoerder;  
 
-b. wordt de in artikel 71, derde lid, omschreven verplichting van de deelnemer om binnen zes maanden een opgave te vragen en daarna een verzoek tot waardeoverdracht te doen verlengd tot zes maanden na ontvangst van de mededeling, bedoeld in het tweede lid.     
+b. wordt de in artikel 71, derde lid, omschreven verplichting van de deelnemer om binnen zes maanden een opgave te vragen en daarna een verzoek tot waardeoverdracht te doen verlengd tot zes maanden nadat de plicht tot waardeoverdracht herleeft na een periode als bedoeld in artikel 72.     
 2.  Een overdragende pensioenuitvoerder die in de periode waarin de in artikel 72 bedoelde omstandigheden op hem van toepassing zijn verzoeken tot waardeoverdracht heeft gekregen, informeert, wanneer deze omstandigheden niet meer van toepassing zijn, alle deelnemers die in die periode gewezen deelnemer zijn geworden en de betrokken ontvangende pensioenuitvoerders over de mogelijkheid alsnog waarde over te dragen.   
 3.  Een ontvangende pensioenuitvoerder die in de periode waarin de in artikel 72 genoemde omstandigheden op hem van toepassing zijn verzoeken tot waardeoverdracht heeft gekregen, informeert wanneer deze omstandigheden niet meer van toepassing zijn, alle deelnemers die in die periode een verzoek tot waardeoverdracht hebben gedaan en de betrokken overdragende pensioenuitvoerders over de mogelijkheid alsnog waarde over te dragen.  
 
@@ -1259,6 +1259,20 @@ b. de overdragende en de ontvangende pensioenuitvoerders aan wie door een groep 
 
 c. de toezichthouder binnen drie maanden na de melding geen verbod tot waardeoverdracht heeft opgelegd aan een van beide pensioenuitvoerders.    
 
+### Artikel  78a  
+
+####Bevoegdheid waardeoverdracht op verzoek van gewezen deelnemer bij andere pensioenregeling gewezen werkgever
+
+Treedt in werking per 01-01-2015 
+
+De pensioenuitvoerder is bevoegd om na een verzoek van de gewezen deelnemer tot waardeoverdracht de overdrachtswaarde van diens pensioenaanspraken over te dragen indien: 
+
+a. sprake is van een nieuwe pensioenregeling bij de gewezen werkgever;  
+
+b. de nieuwe pensioenregeling in de mogelijkheid voorziet voor gewezen deelnemers van de oude pensioenregeling van de gewezen werkgever om waarde over te dragen; en  
+
+c. wordt voldaan aan de in artikel 76, eerste lid, met uitzondering van onderdeel a, en vierde lid, genoemde voorwaarden.   
+
 ### Artikel  79  
 
 ####Plicht tot waardeaanwending bij keuzerecht of keuzemogelijkheid
@@ -1314,6 +1328,21 @@ b. de ontvangende pensioenuitvoerder hanteert dezelfde methode als de premiepens
 6.  In afwijking van het vierde lid kunnen de in het derde lid opgenomen voorwaarden van toepassing zijn op pensioenaanspraken die zijn opgebouwd voor 1 januari 2005 indien dit is overeengekomen in de pensioenovereenkomst.   
 7.  Elk beding strijdig met dit artikel is nietig.   
 8.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld aan het vaststellen van de overdrachtswaarde.  
+
+### Artikel  81b  
+
+####Bevoegdheid tot waardeoverdracht voor tussentijdse omzetting in pensioenuitkering
+
+Treedt in werking per 01-01-2015 
+
+1.  Onverminderd de artikelen 80, 81 en 81a is de pensioenuitvoerder bevoegd om op verzoek van de deelnemer, gewezen deelnemer of andere aanspraakgerechtigde de waarde van zijn pensioenaanspraken welke voortvloeien uit een kapitaalovereenkomst of een premieovereenkomst op de datum van omzetting van de aanspraken in een pensioenuitkering rechtstreeks over te dragen aan een andere pensioenuitvoerder indien: 
+
+a. de pensioenovereenkomst hierin voorziet;  
+
+b. de overdrachtswaarde zodanig door de overdragende pensioenuitvoerder wordt vastgesteld dat de voor mannen en vrouwen te verwerven pensioenrechten gelijk zijn waarbij aan het vereiste van collectieve actuariële gelijkwaardigheid op basis van dezelfde grondslagen wordt voldaan; en  
+
+c. indien de ontvangende pensioenuitvoerder een pensioenfonds is, de deelnemer, gewezen deelnemer of andere aanspraakgerechtigde reeds aanspraken heeft jegens dit pensioenfonds.   Indien het verzoek van de deelnemer of gewezen deelnemer tot waardeoverdracht partnerpensioen betreft is voor de waardeoverdracht van dit partnerpensioen tevens vereist dat de partner die begunstigde is voor het partnerpensioen met de waardeoverdracht instemt.   
+2.  Artikel 80, tweede tot en met zesde lid, en artikel 81a, tweede lid, onderdeel b, zijn van overeenkomstige toepassing.  
 
 ### Artikel 82 
 
@@ -1962,6 +1991,15 @@ Een pensioenfonds is gehouden om op verzoek van werknemers of een werknemersvere
 
 Een pensioenfonds kan uitsluitend een vrijwillige pensioenregeling uitvoeren indien dit een aanvulling op een door datzelfde pensioenfonds uitgevoerde basispensioenregeling betreft. 
 
+### Artikel  117a  
+
+####Uitvoering nettopensioen door pensioenfonds
+
+Treedt in werking per 01-01-2015 
+
+1.  Bij algemene maatregel van bestuur worden regels gesteld over de uitvoering van een nettopensioen door een pensioenfonds.   
+2.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
+
 ### Artikel  118  
 
 ####Eisen uitkeringsovereenkomsten
@@ -2521,6 +2559,15 @@ b. de doeltreffendheid van de uitvoering van deze wet door de toezichthouder.
 2.  Ter uitvoering van het eerste lid kan Onze Minister besluiten een of meer onderdelen van de taken van de toezichthouder zelf uit te voeren of door een andere organisatie te laten uitvoeren. Alsdan komen de desbetreffende bevoegdheden van de toezichthouder toe aan Onze Minister onderscheidenlijk de andere toezichthouder.   
 3.  De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat de toezichthouder in de gelegenheid is gesteld om binnen een door Onze Minister te stellen termijn alsnog zijn taak naar behoren uit te voeren.   
 4.  Onze Minister stelt beide kamers der Staten-Generaal onverwijld in kennis van door hem getroffen voorzieningen als bedoeld in het eerste lid.  
+
+### Artikel  166a  
+
+####Beleidsregels door Onze Minister
+
+Treedt in werking per 01-01-2015 
+
+1.  Onze Minister kan beleidsregels vaststellen ten aanzien van de toepassing door de toezichthouders van Hoofdstuk 7.   
+2.  De beleidsregels worden in de Staatscourant bekendgemaakt.  
 
 ### §  7.4  
 

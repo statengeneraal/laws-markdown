@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 28 augustus 2012, kenmerk Z-3126923;
 
-Gelet op [artikel 10, derde lid](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en [13, tweede lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);
+Gelet op artikel 10, derde lid, en 13, tweede lid, van de Algemene Wet Bijzondere Ziektekosten;
 
 De Raad van State gehoord (advies van 26 september 2012, No. W13.12.0346/III);
 
@@ -23,16 +23,16 @@ Wijzigt het Besluit zorgaanspraken AWBZ.
 
 ### Artikel  III  
 
-Degene die voor de inwerkingtreding van dit besluit zorg ontving als bedoeld in de [artikelen 4 tot en met 8](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [10 tot en met 15 van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), houdt aanspraak op voortzetting van deze zorg gedurende het resterende aantal maanden van de wachttijd als bedoeld in [artikel 2 van het Besluit wachttijd bijzondere ziektekostenverzekering](../../../../../../../../AMvB/besluit/wachttijd/bijzondere/ziektekostenverzekering/BWBR0005337/README.md). 
+Degene die voor de inwerkingtreding van dit besluit zorg ontving als bedoeld in de artikelen 4 tot en met 8 en 10 tot en met 15 van het Besluit zorgaanspraken AWBZ, houdt aanspraak op voortzetting van deze zorg gedurende het resterende aantal maanden van de wachttijd als bedoeld in artikel 2 van het Besluit wachttijd bijzondere ziektekostenverzekering. 
 
 ### Artikel  IV  
 
-De vreemdeling die rechtmatig in Nederland verblijf heeft als bedoeld in [artikel 8, onder b, van de Vreemdelingenwet 2000](../../../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en voor de inwerkingtreding van dit besluit zorg ontving als bedoeld in [Hoofdstuk II van het Besluit zorgaanspraken AWBZ](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) of een vergoeding daarvoor ingevolge [artikel 20 van dat Besluit](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), heeft na de inwerkingtreding van dit besluit aanspraak op voortzetting van deze zorg gedurende het resterende aantal maanden van de wachttijd als bedoeld in [artikel 2 van het Besluit wachttijd bijzondere ziektekostenverzekering](../../../../../../../../AMvB/besluit/wachttijd/bijzondere/ziektekostenverzekering/BWBR0005337/README.md). 
+De vreemdeling die rechtmatig in Nederland verblijf heeft als bedoeld in artikel 8, onder b, van de Vreemdelingenwet 2000 en voor de inwerkingtreding van dit besluit zorg ontving als bedoeld in Hoofdstuk II van het Besluit zorgaanspraken AWBZ of een vergoeding daarvoor ingevolge artikel 20 van dat Besluit, heeft na de inwerkingtreding van dit besluit aanspraak op voortzetting van deze zorg gedurende het resterende aantal maanden van de wachttijd als bedoeld in artikel 2 van het Besluit wachttijd bijzondere ziektekostenverzekering. 
 
 ### Artikel  V  
 
-1.  Indien een persoon voor de inwerkingtreding van dit besluit een vergoeding ontving voor zorg in de omstandigheden zoals omschreven in [artikel 20, tweede lid, onderdelen a en f](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), bestaat aanspraak op voortzetting van een vergoeding tot uiterlijk 31 maart 2013.   
-2.  Indien een persoon voor de inwerkingtreding van dit besluit een vergoeding ontving voor zorg in de omstandigheden zoals omschreven in [artikel 20, tweede lid, onderdelen b en c](../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), bestaat aanspraak op voortzetting van een vergoeding uiterlijk tot en met 31 december 2013.  
+1.  Indien een persoon voor de inwerkingtreding van dit besluit een vergoeding ontving voor zorg in de omstandigheden zoals omschreven in artikel 20, tweede lid, onderdelen a en f, bestaat aanspraak op voortzetting van een vergoeding tot uiterlijk 31 maart 2013.   
+2.  Indien een persoon voor de inwerkingtreding van dit besluit een vergoeding ontving voor zorg in de omstandigheden zoals omschreven in artikel 20, tweede lid, onderdelen b en c, bestaat aanspraak op voortzetting van een vergoeding uiterlijk tot en met 31 december 2013.  
 
 ### Artikel  VI  
 

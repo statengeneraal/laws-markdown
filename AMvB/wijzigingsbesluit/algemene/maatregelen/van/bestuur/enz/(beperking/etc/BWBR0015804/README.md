@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 11 juli 2003, Z/VU-2394308, gedaan in overeenstemming met Onze Minister van Economische Zaken, Onze Minister van Financiën en de Staatssecretaris van Sociale Zaken en Werkgelegenheid;
 
-Gelet op [artikel 6, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), [artikel 8, derde lid, van de Ziekenfondswet](../../../../../../../../../../wet/ziekenfondswet/BWBR0002460/README.md), [artikel 5 van de Wet op de toegang tot ziektekostenverzekeringen 1998](../../../../../../../../../../wet/wet/op/de/toegang/tot/ziektekostenverzekeringen/1998/BWBR0009750/README.md) en [artikel 1, tweede lid](../../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md), en [artikel 17a, eerste lid, van de Wet tarieven gezondheidszorg](../../../../../../../../../../wet/wet/tarieven/gezondheidszorg/BWBR0003356/README.md);
+Gelet op artikel 6, eerste lid, van de Algemene Wet Bijzondere Ziektekosten, artikel 8, derde lid, van de Ziekenfondswet, artikel 5 van de Wet op de toegang tot ziektekostenverzekeringen 1998 en artikel 1, tweede lid, en artikel 17a, eerste lid, van de Wet tarieven gezondheidszorg;
 
 De Raad van State gehoord (advies van 26 september 2003, nummer W13.03.0304/III);
 
@@ -30,13 +30,13 @@ Wijzigt het Vergoedingenbesluit particulier verzekerden.
 Wijzigt het Besluit werkingssfeer WTG 1992.  
 
 ### Artikel  V  
-Treedt in werking op een nader te bepalen tijdstip 
+Vervalt per 01-01-2015 
 
 Wijzigt het Besluit werkingssfeer maximumtarieven WTG.  
 
 ### Artikel  VI  
 
-In afwijking van [artikel 8, tweede lid, van het Besluit zorgaanspraken AWBZ](../../../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) heeft de verzekerde die onmiddellijk voorafgaande aan de inwerkingtreding van dit artikel reeds was aangevangen met een psychotherapeutische behandeling nog aanspraak op ten hoogste dertig zittingen, tenzij eerder het maximum zoals dat gold tot dat tijdstip, is bereikt. 
+In afwijking van artikel 8, tweede lid, van het Besluit zorgaanspraken AWBZ heeft de verzekerde die onmiddellijk voorafgaande aan de inwerkingtreding van dit artikel reeds was aangevangen met een psychotherapeutische behandeling nog aanspraak op ten hoogste dertig zittingen, tenzij eerder het maximum zoals dat gold tot dat tijdstip, is bereikt. 
 
 ### Artikel  VII  
 

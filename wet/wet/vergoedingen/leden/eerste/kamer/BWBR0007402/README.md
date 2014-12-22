@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
-Alzo Wij in overweging genomen hebben, dat het, mede gelet op [artikel 63 van de Grondwet](../../../../../../../wet/grondwet/BWBR0001840/README.md), wenselijk is een wettelijke regeling te treffen van de vergoeding voor de werkzaamheden, van de secundaire voorzieningen en van de kostenvergoedingen van de leden van de Eerste Kamer der Staten-Generaal, alsmede van de toelage en de andere voorzieningen van de voorzitter van de Eerste Kamer der Staten-Generaal;
+Alzo Wij in overweging genomen hebben, dat het, mede gelet op artikel 63 van de Grondwet, wenselijk is een wettelijke regeling te treffen van de vergoeding voor de werkzaamheden, van de secundaire voorzieningen en van de kostenvergoedingen van de leden van de Eerste Kamer der Staten-Generaal, alsmede van de toelage en de andere voorzieningen van de voorzitter van de Eerste Kamer der Staten-Generaal;
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:     
 ### Hoofdstuk  I  
 
@@ -34,7 +34,7 @@ De hoofdstukken II en III zijn niet van toepassing op de voorzitter.
 
 ###Artikel 3a 
 
-De artikelen 4 tot en met 6 en artikel 10 van deze wet zijn van overeenkomstige toepassing op het kamerlid aan wie ingevolge [artikel X 10 van de Kieswet](../../../../../../../wet/kieswet/BWBR0004627/README.md) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte.
+De artikelen 4 tot en met 6 en artikel 10 van deze wet zijn van overeenkomstige toepassing op het kamerlid aan wie ingevolge artikel X 10 van de Kieswet tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte.
 
 ### Artikel  3b  
 
@@ -73,7 +73,7 @@ b. de duur van het fractievoorzitterschap.
 
 ### Artikel  9  
 
-Het bedrag, genoemd in artikel 4, wordt bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijzigingen die de schadeloosstelling, bedoeld in [artikel 2, van de Wet schadeloosstelling leden Tweede Kamer](../../../../../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md), ondergaat. Onze Minister maakt het nieuwe bedrag bekend in de *Staatscourant*. 
+Het bedrag, genoemd in artikel 4, wordt bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijzigingen die de schadeloosstelling, bedoeld in artikel 2, van de Wet schadeloosstelling leden Tweede Kamer, ondergaat. Onze Minister maakt het nieuwe bedrag bekend in de *Staatscourant*. 
 
 ### Artikel  9a  
 
@@ -87,7 +87,7 @@ Het bedrag, genoemd in artikel 4, wordt bij ministeriële regeling gewijzigd ove
 ### Artikel  10  
 
 1.  Kamerleden ontvangen een bedrag van € 3.130,10 per jaar waarmee zij voorzieningen kunnen treffen ter zake van arbeidsongeschiktheid, ouderdom en overlijden.   
-2.   Het bedrag, genoemd in het eerste lid, wordt jaarlijks bij ministeriële regeling gewijzigd met inachtneming van de procentuele wijzigingen, bedoeld in artikel 9, in het voorafgaande jaar en van wijzigingen in dat jaar van berekeningselementen van de bedragen, die op grond van [artikel 106, eerste lid, van de Algemene pensioenwet politieke ambtsdragers](../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md) worden ingehouden, ter zake van aanspraken bij arbeidsongeschiktheid, ouderdom en overlijden, op de schadeloosstelling van een lid van de Tweede Kamer der Staten-Generaal.  
+2.   Het bedrag, genoemd in het eerste lid, wordt jaarlijks bij ministeriële regeling gewijzigd met inachtneming van de procentuele wijzigingen, bedoeld in artikel 9, in het voorafgaande jaar en van wijzigingen in dat jaar van berekeningselementen van de bedragen, die op grond van artikel 106, eerste lid, van de Algemene pensioenwet politieke ambtsdragers worden ingehouden, ter zake van aanspraken bij arbeidsongeschiktheid, ouderdom en overlijden, op de schadeloosstelling van een lid van de Tweede Kamer der Staten-Generaal.  
 
 ### Hoofdstuk  IV  
 
@@ -95,13 +95,13 @@ Het bedrag, genoemd in artikel 4, wordt bij ministeriële regeling gewijzigd ove
 
 ### Artikel  11  
 
-1.  De voorzitter ontvangt een toelage die gelijk is aan de helft van de schadeloosstelling, bedoeld in [artikel 2 van de Wet schadeloosstelling leden Tweede Kamer](../../../../../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md), vermeerderd met de helft van de toelage, genoemd in [artikel 11, eerste lid, van de Wet schadeloosstelling leden Tweede Kamer](../../../../../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md).   
-2.   [Artikel 3*a* van de Wet schadeloosstelling leden Tweede Kamer](../../../../../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md) is van overeenkomstige toepassing.  
+1.  De voorzitter ontvangt een toelage die gelijk is aan de helft van de schadeloosstelling, bedoeld in artikel 2 van de Wet schadeloosstelling leden Tweede Kamer, vermeerderd met de helft van de toelage, genoemd in artikel 11, eerste lid, van de Wet schadeloosstelling leden Tweede Kamer.   
+2.   Artikel 3*a* van de Wet schadeloosstelling leden Tweede Kamer is van overeenkomstige toepassing.  
 
 ### Artikel  12  
 
 1.  De voorzitter ontvangt een eindejaarsuitkering overeenkomstig de bepalingen welke daaromtrent voor het burgerlijk rijkspersoneel zijn vastgesteld. Grondslag voor de eindejaarsuitkering is de toelage, bedoeld in artikel 11, eerste lid, verminderd met het voor het burgerlijk rijkspersoneel geldende percentage van de vakantie-uitkering.   
-2.   [Artikel 2a, eerste lid, van de Wet schadeloosstelling leden Tweede Kamer](../../../../../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md) is van overeenkomstige toepassing.  
+2.   Artikel 2a, eerste lid, van de Wet schadeloosstelling leden Tweede Kamer is van overeenkomstige toepassing.  
 
 ### Artikel  13  
 
@@ -109,11 +109,11 @@ Het bedrag, genoemd in artikel 4, wordt bij ministeriële regeling gewijzigd ove
 2.  De prijs per kilometer van de dienstauto, bedoeld in het eerste lid, bedraagt niet meer dan € 0,62 exclusief BTW, berekend op de grondslag van een gebruiksduur van twee jaar en 60 000 gereden kilometers per jaar.   
 3.  Het bedrag, genoemd in het tweede lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd overeenkomstig de procentuele wijziging van het prijsindexcijfer jaargemiddelde operationele autolease inclusief brandstof, zoals door het Centraal Bureau voor de Statistiek gepubliceerd, over het tweede kalenderjaar voorafgaand aan genoemde datum ten opzichte van hetzelfde indexcijfer over het jaar daaraan voorafgaand.   
 4.  De prijs per kilometer wordt berekend aan de hand van de formule (((n / (l/12)) + o + f + g + h + p) / m) + i, waarin: n = (((a-c)/1,19) + (b/1,19) + c) – (d/1,19) afschrijving over looptijd (inclusief belasting van personenauto's en motorrijwielen en exclusief belasting over de toegevoegde waarde (omzetbelasting)); o = ((d/1,19) x e) + ((n/2) x e) rente per jaar; p = ((k/1,19) x (m/100) x j) brandstofkosten per jaar; en: a = consumentenprijs inclusief accessoires af fabriek (inclusief belasting van personenauto's en motorrijwielen en belasting over de toegevoegde waarde (omzetbelasting)); b = consumentenprijs van accessoires achteraf en/of door derden (inclusief belasting over de toegevoegde waarde (omzetbelasting)); c = totale belasting van personenauto's en motorrijwielen; d = totale marktconforme restwaarde inclusief belasting over de toegevoegde waarde (omzetbelasting) en belasting van personenauto's en motorrijwielen; e = rentetarief in procenten; f = administratiekosten inclusief management fee per jaar doch exclusief belasting over de toegevoegde waarde (omzetbelasting) (of interne kosten ingeval niet wordt uitbesteed); g = houderschapsbelasting per jaar; h = het in het kader van het omslagstelsel door het Bureau Schade Afwikkeling vastgestelde bedrag; i = prijs van reparatie, onderhoud en banden exclusief belasting over de toegevoegde waarde (omzetbelasting); j = brandstofverbruik in liters per 100 kilometer; k = tarief bij brandstofsoort inclusief belasting over de toegevoegde waarde (omzetbelasting); l = looptijd in maanden; m = jaarkilometrage.   
-5.  De dienstauto, bedoeld in het eerste lid, wordt slechts in gebruik genomen nadat is vastgesteld dat aan de voorschriften van het tweede tot en met vierde lid is voldaan, tenzij afwijking van deze voorschriften noodzakelijk is om redenen van veiligheid of wegens een individuele werkplekanalyse, verricht of getoetst door een deskundige persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md). Artikel 14, tweede lid, onderdelen b en c, van de Arbeidsomstandighedenwet is in het tweede geval van overeenkomstige toepassing.  
+5.  De dienstauto, bedoeld in het eerste lid, wordt slechts in gebruik genomen nadat is vastgesteld dat aan de voorschriften van het tweede tot en met vierde lid is voldaan, tenzij afwijking van deze voorschriften noodzakelijk is om redenen van veiligheid of wegens een individuele werkplekanalyse, verricht of getoetst door een deskundige persoon als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet. Artikel 14, tweede lid, onderdelen b en c, van de Arbeidsomstandighedenwet is in het tweede geval van overeenkomstige toepassing.  
 
 ### Artikel  15  
 
-1.  In dit artikel wordt onder wet verstaan: [Algemene pensioenwet politieke ambtsdragers](../../../../../../../wet/algemene/pensioenwet/politieke/ambtsdragers/BWBR0002691/README.md).   
+1.  In dit artikel wordt onder wet verstaan: Algemene pensioenwet politieke ambtsdragers.   
 2.   De wet is van overeenkomstige toepassing op de voorzitter met inachtneming van het derde tot en met het zesde lid.   
 3.   De voorzitter wordt voor de overeenkomstige toepassing van de wet gelijkgesteld met een lid van de Tweede Kamer der Staten-Generaal.   
 4.   In afwijking van het derde lid vindt verrekening van inkomsten uit of in verband met arbeid of bedrijf met de uitkering als afgetreden voorzitter plaats overeenkomstig artikel 134 van de wet.   
@@ -127,7 +127,7 @@ Het bedrag, genoemd in artikel 4, wordt bij ministeriële regeling gewijzigd ove
 ### Artikel  16  
 
 1.  De kamerleden ontvangen een vergoeding voor aan de uitoefening van het kamerlidmaatschap verbonden kosten die € 2.503,23 per jaar bedraagt.  
-2. Het kamerlid aan wie ingevolge [artikel X 10 van de Kieswet](../../../../../../../wet/kieswet/BWBR0004627/README.md) tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, ontvangt een onkostenvergoeding ter hoogte van de helft van het in het eerste lid genoemde bedrag. 
+2. Het kamerlid aan wie ingevolge artikel X 10 van de Kieswet tijdelijk ontslag is verleend wegens zwangerschap en bevalling of ziekte, ontvangt een onkostenvergoeding ter hoogte van de helft van het in het eerste lid genoemde bedrag. 
 3.  Het bedrag, bedoeld in het eerste lid, wordt per 1 januari van elk jaar bij ministeriële regeling gewijzigd aan de hand van de consumentenprijsindex, geldend voor de maand september van het voorafgaande jaar.  
 
 ### Artikel  17  
@@ -143,7 +143,7 @@ Het bedrag, genoemd in artikel 4, wordt bij ministeriële regeling gewijzigd ove
 
 ### Artikel  19  
 
-Ten aanzien van een kamerlid van wie de arbeidsverhouding ingevolge [artikel 4, aanhef en onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) voor de toepassing van die wet als dienstbetrekking wordt aangemerkt, worden als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) aangewezen: 
+Ten aanzien van een kamerlid van wie de arbeidsverhouding ingevolge artikel 4, aanhef en onderdeel f, van de Wet op de loonbelasting 1964 voor de toepassing van die wet als dienstbetrekking wordt aangemerkt, worden als eindheffingsbestanddeel als bedoeld in artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964 aangewezen: 
 
 a. de vergoeding, bedoeld in artikel 16, eerste lid;  
 
@@ -153,9 +153,9 @@ c. het bedrag, bedoeld in artikel 18, eerste lid.
 
 ### Artikel  19a  
 
-Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): 
+Bij toepassing van artikel 39c van de Wet op de loonbelasting 1964: 
 
-a. worden de bedragen, bedoeld in artikel 16, eerste lid, artikel 17 en artikel 18, eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10 van de Wet inkomstenbelasting 2001](../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+a. worden de bedragen, bedoeld in artikel 16, eerste lid, artikel 17 en artikel 18, eerste lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van artikel 2.10 van de Wet inkomstenbelasting 2001;  
 
 b. blijft artikel 19 buiten toepassing.   
 
@@ -173,7 +173,7 @@ De wet van 25 juni 1969 tot regeling van de vergoeding van de kosten, welke uit 
 
 ### Artikel  22  
 
-Artikel 4*a* van de wet van 25 juni 1969 tot regeling van de vergoeding van de kosten, welke uit de vervulling van het lidmaatschap van de Eerste Kamer der Staten-Generaal voortvloeien, blijft van kracht ten aanzien van wijzigingen welke vóór de datum van inwerkingtreding van deze wet in de hoogte van de schadeloosstelling, bedoeld in [artikel 2 van de Wet schadeloosstelling leden Tweede Kamer](../../../../../../../wet/wet/schadeloosstelling/leden/tweede/kamer/BWBR0004939/README.md), worden aangebracht. 
+Artikel 4*a* van de wet van 25 juni 1969 tot regeling van de vergoeding van de kosten, welke uit de vervulling van het lidmaatschap van de Eerste Kamer der Staten-Generaal voortvloeien, blijft van kracht ten aanzien van wijzigingen welke vóór de datum van inwerkingtreding van deze wet in de hoogte van de schadeloosstelling, bedoeld in artikel 2 van de Wet schadeloosstelling leden Tweede Kamer, worden aangebracht. 
 
 ### Artikel  23  
 

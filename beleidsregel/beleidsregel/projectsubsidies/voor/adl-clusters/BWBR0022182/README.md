@@ -3,12 +3,12 @@
 ##Beleidsregel Projectsubsidies voor ADL-clusters
 
 De voorzitter van de Raad van bestuur van het College voor zorgverzekeringen,  
-Gelet op [artikel 4:81 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [artikel 44 van de Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), [hoofdstuk I](../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md) en de [paragrafen 2.7](../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md) en [2.8 van de Regeling subsidies AWBZ](../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md) alsmede artikel 2, sub b, van het Besluit mandaten en volmachten College voor zorgverzekeringen 2007 
+Gelet op artikel 4:81 van de Algemene wet bestuursrecht, artikel 44 van de Algemene Wet Bijzondere Ziektekosten, hoofdstuk I en de paragrafen 2.7 en 2.8 van de Regeling subsidies AWBZ alsmede artikel 2, sub b, van het Besluit mandaten en volmachten College voor zorgverzekeringen 2007 
 Heeft op 19 juni 2007 besloten:    
 
 ### Artikel  1  
 
-Subsidieverstrekking als bedoeld in de [paragrafen 2.7](../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md) en [2.8 van de Regeling subsidies AWBZ](../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md) vindt plaats in overeenstemming met de bij deze beleidsregel gevoegde bijlage met als titel Projectsubsidies ADL-clusters. 
+Subsidieverstrekking als bedoeld in de paragrafen 2.7 en 2.8 van de Regeling subsidies AWBZ vindt plaats in overeenstemming met de bij deze beleidsregel gevoegde bijlage met als titel Projectsubsidies ADL-clusters. 
 
 ### Artikel  2  
 

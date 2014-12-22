@@ -239,7 +239,7 @@ De subsidie, bedoeld in artikel 2.2.2 bevat staatssteun en wordt gerechtvaardigd
 
 ####Vervaltermijn
 
-Deze titel vervalt met ingang van 1 juli 2019, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend. 
+Deze titel en bijlage 2.2.1 vervallen met ingang van 1 juli 2019, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
 ### Titel  2.3  
 
@@ -316,7 +316,7 @@ b. de investering voldoet aan de daarvoor geldende EU-maatregelen en nationale v
 a. de energie die wordt opgewekt door de apparatuur, installaties of machines uitsluitend wordt gebruikt door de landbouwonderneming die de subsidie heeft aangevraagd ten behoeve van landbouwdoeleinden van die onderneming en  
 
 b. de apparatuur, installaties of machines niet meer energie genereren dan vermeld staat op de laatste jaarafrekening van het energieverbruik van de landbouwonderneming.     
-5.  De termijn, bedoeld in artikel 23, onderdeel c, van het besluit, is twee jaar en zes maanden.  
+5.  De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is twee jaar en zes maanden.  
 
 ### Artikel  2.3.4  
 
@@ -511,8 +511,7 @@ De subsidie bevat geen staatssteun.
 
 ####Vervaltermijnen
 
-1.  Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend.   
-2.  Bijlage 2.3.1 vervalt met ingang van 1 juli 2017.  
+Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
 ### Titel  2.5  
 
@@ -1496,7 +1495,7 @@ De penvoerder is een onderneming die deelneemt aan het MIT-R&D-samenwerkingsverb
 ####Start- en realisatietermijn
 
 1.  Met de uitvoering van het MIT-R&D-samenwerkingsproject wordt gestart binnen zes maanden na de subsidieaanvraag.   
-2.  De termijn, bedoeld in artikel 23, onderdeel c, van het besluit, is twee jaar.  
+2.  De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is twee jaar.  
 
 ### Artikel  3.4.24  
 
@@ -1838,7 +1837,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ####Realisatietermijn
 
-De termijn, bedoeld in artikel 23, onderdeel c, van het besluit, is twee jaar en wordt gerekend vanaf de aanvang van de activiteiten, bedoeld in artikel 3.5.17, eerste lid. 
+De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is twee jaar en wordt gerekend vanaf de aanvang van de activiteiten, bedoeld in artikel 3.5.17, eerste lid. 
 
 ### Artikel  3.5.22  
 
@@ -2109,7 +2108,7 @@ De minister verdeelt het subsidieplafond op volgorde van binnenkomst van de aanv
 
 ####Realisatietermijn
 
-De in artikel 23, onder c, van het besluit bedoelde termijn bedraagt drie jaar. 
+De in artikel 23, eerste lid, onder c, van het besluit bedoelde termijn bedraagt drie jaar. 
 
 ### Artikel  3.6.10  
 
@@ -2193,8 +2192,7 @@ De subsidies, bedoeld in artikelen 3.6.2, bevat staatssteun en wordt gerechtvaar
 
 ####Vervaltermijn
 
-1.  Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.   
-2.  De bijlagen 3.6.1, 3.6.2 en 3.6.3 vervallen met ingang van 1 juli 2017.  
+Deze titel en de bijlagen 3.6.1, 3.6.2 en 3.6.3 vervallen met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
 ### Titel  3.7  
 
@@ -2223,6 +2221,14 @@ De minister verstrekt op aanvraag subsidie aan:
 a. een ondernemer of onderzoeksorganisatie die bijdraagt aan een Eurostarsproject of  
 
 b. indien twee of meer binnen Nederland gevestigde partijen bijdragen aan hetzelfde Eurostarsproject, aan een deelnemer in het door deze partijen gevormde samenwerkingsverband, die bijdraagt aan een Eurostarsproject.   
+
+### Artikel  3.7.2a  
+
+####Subsidiabele kosten
+
+1.  Het gesubsidieerde deel van het Eurostarsproject, bedoeld in artikel 3.7.2, valt volledig binnen de categorie industrieel onderzoek of experimentele ontwikkeling, bedoeld in artikel 2 van Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187).   
+2.  Voor subsidie komen in aanmerking de kosten, bedoeld in artikel 25, derde lid, onderdelen a, b, d en e, van de in het eerste lid genoemde verordening.   
+3.  De voor subsidie in aanmerking komende kosten van onderzoeks- en ontwikkelingsprojecten worden bij een specifieke categorie onderzoek en ontwikkeling als bedoeld in het eerste lid ingedeeld.  
 
 ### Artikel  3.7.3  
 
@@ -2263,7 +2269,7 @@ c. aannemelijk is dat het Eurostarsproject, voor zover het door een in Nederland
 
 d. aannemelijk is dat het Eurostarsproject geen doorgang kan vinden om redenen die samenhangen met omstandigheden in de andere deelnemende landen van het Eurostarsproject of met financiële of technische problemen van een van de deelnemende parttijen in een ander deelnemend land.     
 2.  De minister beslist tevens afwijzend op een aanvraag voor zover het gevraagde subsidiebedrag hoger is als € 500.000.   
-3.  De afwijzingsgronden, genoemd in artikel 23, onderdelen d tot en met f en h, van het besluit zijn niet van toepassing.  
+3.  De afwijzingsgronden, genoemd in artikel 23, eerste lid, onderdelen d tot en met f en h, van het besluit zijn niet van toepassing.  
 
 ### Artikel  3.7.7  
 
@@ -2290,11 +2296,11 @@ In afwijking van artikel 39 van het besluit brengt de subsidieontvanger steeds n
 
 1.  Een aanvraag voor subsidie als bedoeld in artikel 3.7.2 bevat in ieder geval: 
 
-a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
+a. gegevens over de aanvrager, waaronder de naam van de organisatie, de grootte van de onderneming, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
 b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
 
-c. de gegevens over het plan, waaronder de activiteit waarvoor subsidie wordt aangevraagd, de start- en einddatum, de totale kosten en de omvang van de gevraagde subsidie.     
+c. de gegevens over het project, waaronder de activiteiten waarvoor subsidie wordt aangevraagd, de locatie van het project, de start- en einddatum, een overzicht van de totale kosten van het project en de omvang van de gevraagde subsidie.     
 2.  De aanvraag voor de vaststelling van een subsidie als bedoeld in artikel 3.7.2 bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
@@ -2305,7 +2311,7 @@ b. de omvang van de vast te stellen subsidie.
 
 ####Staatssteun
 
-De subsidie, bedoeld in artikel 3.7.2, bevat staatssteun en wordt gerechtvaardigd door Steunmaatregel SA.35254 (2012/N). 
+De subsidie, bedoeld in artikel 3.7.2, bevat staatssteun en wordt gerechtvaardigd door artikel 25 van Verordening (EU) nr. 651/2014 van de Commissie van 17 juni 2014 waarbij bepaalde categorieën steun op grond van de artikelen 107 en 108 van het Verdrag met de interne markt verenigbaar worden verklaard (PbEU 2014, L 187). 
 
 ### Artikel  3.7.12  
 
@@ -2387,7 +2393,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ####Realisatietermijn
 
-De termijn, bedoeld in artikel 23, onderdeel c, van het besluit is drie jaar. 
+De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit is drie jaar. 
 
 ### Artikel  3.8.9  
 
@@ -2504,7 +2510,7 @@ In afwijking van artikel 1.3 bedraagt de subsidie in de vorm van krediet aan een
 ####Subsidiemaximum
 
 1.  Het maximum subsidiebedrag bedraagt € 5.000.000 per subsidieontvanger.   
-2.  Indien door een ondernemer, dan wel door ondernemers die behoren tot eenzelfde groep, meer dan één ontwikkelingsproject wordt uitgevoerd en daarvoor subsidieaanvragen in het kader van dit hoofdstuk zijn ingediend, wordt in een kalenderjaar aan die ondernemer, dan wel aan die ondernemers die tot eenzelfde groep behoren gezamenlijk, ten hoogste het in het eerste lid genoemde bedrag aan subsidie verleend.  
+2.  Indien door een ondernemer, dan wel door ondernemers die behoren tot eenzelfde groep, meer dan één ontwikkelingsproject wordt uitgevoerd en daarvoor subsidieaanvragen in het kader van deze titel zijn ingediend, wordt in een kalenderjaar aan die ondernemer, dan wel aan die ondernemers die tot eenzelfde groep behoren gezamenlijk, ten hoogste het in het eerste lid genoemde bedrag aan subsidie verleend.  
 
 ### Artikel  3.9.5  
 
@@ -2516,7 +2522,7 @@ De minister verdeelt de subsidieplafonds op volgorde van binnenkomst van de aanv
 
 ####Realisatietermijn
 
-1.  De termijn, bedoeld in artikel 23, onderdeel c, van het besluit is vier jaar.   
+1.  De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit is vier jaar.   
 2.  De minister kan de termijn, bedoeld in het eerste lid, op verzoek met ten hoogste twee jaar verlengen indien sprake is van een technisch ontwikkelingsproject met een certificeringstraject.  
 
 ### Artikel  3.9.7  
@@ -2534,7 +2540,7 @@ c. onvoldoende vertrouwen bestaat dat de subsidieontvanger een ontwikkelingsproj
 d. onvoldoende vertrouwen bestaat dat de subsidieontvanger de subsidie terug kan betalen binnen de in artikel 3.9.8, vierde lid, genoemde periode;  
 
 e. van het ontwikkelingsproject onvoldoende positieve gevolgen voor de Nederlandse economie te verwachten zijn.     
-2.  De afwijzingsgrond, genoemd in artikel 23, onderdeel b, van het besluit is niet van toepassing.  
+2.  De afwijzingsgrond, genoemd in artikel 23, eerste lid, onderdeel b, van het besluit is niet van toepassing.  
 
 ### Artikel  3.9.8  
 
@@ -2569,7 +2575,7 @@ b. de resultaten van het project geheel of gedeeltelijk worden vervreemd.
 
 ### Artikel  3.9.11  
 
-####Ontheffing
+####Verhoging subsidie
 
 1.  Indien ontheffing is verleend op basis van artikel 37, derde lid, van het besluit, kan de minister op aanvraag van de subsidieontvanger het bedrag van een eerder voor een ontwikkelingsproject verleende subsidie verhogen tot maximaal het bedrag dat voor dat ontwikkelingsproject kan worden verkregen.   
 2.  De aanvraag, bedoeld in het eerste lid, wordt volgens eenzelfde procedure en volgens dezelfde criteria behandeld als een eerste aanvraag om subsidie voor een ontwikkelingsproject.  
@@ -2585,7 +2591,7 @@ b. de resultaten van het project geheel of gedeeltelijk worden vervreemd.
 
 ####Informatieverplichtingen
 
-1.  Een aanvraag voor subsidie als bedoeld in artikel 3.8.2 bevat in ieder geval: 
+1.  Een aanvraag voor subsidie als bedoeld in artikel 3.9.2 bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
@@ -2596,7 +2602,7 @@ c. de gegevens over het plan, waaronder de activiteit waarvoor subsidie wordt aa
 d. een businessplan, een projectplan en een financieel plan;  
 
 e. de meest recente jaarrekening en openingsbalans.     
-2.  De aanvraag voor de vaststelling van een subsidie als bedoeld in artikel 3.7.2 bevat in ieder geval: 
+2.  De aanvraag voor de vaststelling van een subsidie als bedoeld in artikel 3.9.2 bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
 
@@ -2606,7 +2612,7 @@ b. de omvang van de vast te stellen subsidie.
 
 ####Staatssteun
 
-De subsidie, bedoeld in artikel 3.11.2 bevat staatssteun en wordt gerechtvaardigd door Steunmaatregel SA.35254 (2012/N). 
+De subsidie, bedoeld in artikel 3.9.2 bevat staatssteun en wordt gerechtvaardigd door Steunmaatregel SA.35254 (2012/N). 
 
 ### Artikel  3.9.15  
 
@@ -2662,17 +2668,17 @@ a. in de vorm van een kapitaalvennootschap of een vennootschap met een afgeschei
 
 b. die blijkens de akte waarbij haar statuten zijn vastgesteld of blijkens de overeenkomst waarbij zij is aangegaan uitsluitend tot doel heeft het verstrekken van risicodragend kapitaal aan technostartersvennootschappen teneinde winst te behalen; en  
 
-c. waarin ten minste drie aandeelhouders of hoofdelijk aansprakelijke vennoten deelnemen respectievelijk samenwerken zonder dat twee of drie van hen tot dezelfde groep behoren en zonder dat één van hen een meerderheidsbelang in het fonds heeft;  
+c. waarin ten minste drie aandeelhouders of hoofdelijk aansprakelijke vennoten deelnemen respectievelijk samenwerken zonder dat twee of drie van hen tot dezelfde groep behoren en zonder dat één van hen een meerderheidsbelang in het fonds heeft;   
 
-j.  *technostarter*: rechtspersoon die een onderneming drijft die:  
+*technostarter*: rechtspersoon die een onderneming drijft die:
 
-a. minder dan zeven jaar na haar commerciële verkoop actief is op een product- of dienstenmarkt,  
+a. minder dan zeven jaar na haar eerste commerciële verkoop actief is op een product- of dienstenmarkt,  
 
-b. ten tijde van de eerste verstrekking van risicodragend kapitaal op grond van dit hoofdstuk voldoet aan de definitie van middelgrote, kleine of micro-ondernemingen; en  
+b. ten tijde van de eerste verstrekking van risicodragend kapitaal op grond van deze titel voldoet aan de definitie van middelgrote, kleine of micro-ondernemingen in de zin van Aanbeveling 2003/361/EG van de Commissie van 6 mei 2003 betreffende de definitie van kleine, middelgrote en micro-onderneming en (PbEU 2003, L124); en  
 
 c. hetzij voor eigen rekening en risico producten, processen of diensten – niet zijnde adviezen – verkoopt en levert, die zijn gebaseerd op een nieuwe technische vinding of een nieuwe toepassing van bestaande technologie,  
 
-d. hetzij deel uitmaakt van één van de creatieve sectoren en voor eigen rekening en risico producten, processen of diensten – niet zijnde adviezen – verkoopt en levert, die zijn gebaseerd op een nieuwe creatieve vinding of op een nieuwe toepassing van een bestaande creatieve vinding;    
+d. hetzij deel uitmaakt van één van de creatieve sectoren en voor eigen rekening en risico producten, processen of diensten – niet zijnde adviezen – verkoopt en levert, die zijn gebaseerd op een nieuwe creatieve vinding of op een nieuwe toepassing van een bestaande creatieve vinding;  
 
 *technostartersvennootschap:* een technostarter die 
 
@@ -2743,7 +2749,7 @@ c. een fondsplan niet is gebaseerd op de uitgangspunten dat:
 
 3°. de gemiddelde totale verkrijgingprijs van de participaties die een financier gedurende de investeringsperiode per technostartersvennootschap verkrijgt, over alle technostartersvennootschappen genomen ten hoogste € 1.200.000 bedraagt;  
 
-4°. de middelen die door een financier over een periode van twaalf maanden aan een technostartersvennootschap worden verstrekt ten hoogste € 1.200.000 bedragen;  
+4°. de middelen die door een financier over een periode van twaalf maanden aan een technostartersvennootschap worden verstrekt ten hoogste € 2.000.000 bedragen;  
 
 5°. de beheerskosten jaarlijks ten hoogste 5 procent bedragen van het investeringsbudget;  
 
@@ -2764,7 +2770,7 @@ d. het fondsplan onvoldoende is onderbouwd;
 e. onvoldoende vertrouwen bestaat dat het fondsplan naar behoren wordt uitgevoerd;  
 
 f. indien de belangen van de Staat kunnen worden geschaad.     
-2.  Artikel 23, onderdeel c, van het besluit is niet van toepassing.  
+2.  Artikel 23, eerste lid, onderdeel c, van het besluit is niet van toepassing.  
 
 ### Artikel  3.10.8  
 
@@ -2815,7 +2821,7 @@ Het model voor een overeenkomst is opgenomen in bijlage 3.10.1.
 
 ####Informatieverplichtingen
 
-1.  Een aanvraag voor subsidie als bedoeld in artikel 3.10.2, eerste en tweede lid, bevat in ieder geval: 
+Een aanvraag voor subsidie als bedoeld in artikel 3.10.2, eerste en tweede lid, bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
@@ -2825,20 +2831,17 @@ c. de gegevens over het plan, waaronder de activiteit waarvoor subsidie wordt aa
 
 d. een businessplan, een projectplan en een financieel plan;  
 
-e. de meest recente jaarrekening en openingsbalans.     
-2.  De aanvraag voor de vaststelling van een subsidie als bedoeld in artikel 3.7.2 bevat in ieder geval: 
-
-a. gegevens over de aanvrager, waaronder de naam van de aanvrager en het door de minister verstrekte referentienummer;  
-
-b. de omvang van de vast te stellen subsidie.    
+e. de meest recente jaarrekening en openingsbalans.   
 
 ### Artikel  3.10.13  
 
 ####Staatssteun
 
-De subsidie, bedoeld in artikel 3.12.2, bevat staatssteun en wordt gerechtvaardigd door de communautaire richtsnoeren inzake staatssteun ter bevordering van risicokapitaalinvesteringen in kleine en middelgrote ondernemingen (2006/C 194/02). 
+De subsidie, bedoeld in artikel 3.10.2, bevat staatssteun en wordt gerechtvaardigd door de algemene groepsvrijstellingsverordening. 
 
 ### Artikel  3.10.13a  
+
+####Overgangsrecht
 
 1.  Voor een startersfonds waaraan op grond van artikel 4.3 van de Subsidieregeling starten, groeien en overdragen van ondernemingen een subsidie is verstrekt voor het tijdstip van de inwerkingtreding van de regeling van de Minister van Economische Zaken van 9 juli 2014 tot wijziging van de Subsidieregeling starten, groeien en overdragen van ondernemingen in verband met actualisatie van de subsidiemodule Seed capital technostarters (Stcrt. 2014, 19382) en waarvoor de overeenkomst van geldlening, bedoeld in artikel 4.5 van de Subsidieregeling starten, groeien en overdragen van ondernemingen, nog geldig is, blijft die regeling van toepassing, zoals die gold voor dat tijdstip.   
 2.  Op verzoek van een startersfonds als bedoeld in het eerste lid kan de overeenkomst van geldlening worden aangepast overeenkomstig het model opgenomen in bijlage 3.10.1, indien de aanpassing heeft plaatsgevonden binnen vier maanden na het in het eerste lid bedoelde tijdstip.   
@@ -2850,8 +2853,7 @@ De subsidie, bedoeld in artikel 3.12.2, bevat staatssteun en wordt gerechtvaardi
 
 ####Vervaltermijn
 
-1.  Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.   
-2.  Bijlage 3.10.1 vervalt met ingang van 1 juli 2017.  
+Deze titel en bijlage 3.10.1 vervallen met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
 ### Titel  3.11  
 
@@ -2912,7 +2914,7 @@ d. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskre
 
 e. 4,5 procent indien de overeenkomst van borgtocht een bedrijfsborgstellingskrediet betreft met een looptijd van meer dan negen jaar, maar niet langer dan twaalf jaar.   
 
-### Artikel  3.13.5  
+### Artikel  3.11.5  
 
 ####Adviescommissie
 
@@ -2946,7 +2948,7 @@ Er wordt borg gestaan voor 90 procent van het kredietbedrag.
 
 ####Informatieverplichtingen
 
-Een aanvraag voor een borgstelling als bedoeld in artikel 3.11.2, eerste en derde lid, bevat in ieder geval: Een aanvraag voor subsidie als bedoeld in artikel 3.10.2, eerste en tweede lid, bevat in ieder geval: 
+Een aanvraag voor een borgstelling als bedoeld in artikel 3.11.2, eerste en derde lid, bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
@@ -2978,8 +2980,7 @@ De subsidie, bedoeld in artikel 3.13.2, bevat staatssteun en wordt gerechtvaardi
 
 ####Vervaltermijn
 
-1.  Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.   
-2.  De bijlagen 3.11.1, 3.11.2 en 3.11.3 vervallen met ingang van 1 juli 2017.  
+Deze titel en de bijlagen 3.11.1, 3.11.2 en 3.11.3 vervallen met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
 ### Titel  3.12  
 
@@ -3023,17 +3024,17 @@ b. gedurende twee jaar vanaf de datum van de beschikking aan de financier kunnen
 
 ### Artikel  3.12.2  
 
-####Subsidieaanvraag
+####Subsidieverstrekking
 
 1.  De minister verstrekt op aanvraag subsidie aan een financier, niet zijnde een startersfonds als bedoeld in artikel 3.10.1 voor het verstrekken van risicokapitaal aan een ondernemer.   
-2.  De subsidie wordt verstrekt in de vorm van een garantstelling voor de terugbetaling van risicokapitaal dat de financier op grond van een overeenkomst aan een ondernemer heeft verstrekt voor de duur de overeenkomst met een maximum van twaalf jaar.   
+2.  De subsidie wordt verstrekt in de vorm van een garantstelling voor de terugbetaling van risicokapitaal dat de financier op grond van een overeenkomst aan een ondernemer heeft verstrekt voor de duur van de overeenkomst met een maximum van twaalf jaar.   
 3.  De garantstelling heeft slechts betrekking op risicokapitaal dat wordt verstrekt nadat de minister desgevraagd een reserveringsquotum heeft toegekend en voor zover het quotum toereikend en geldig is.   
 4.  In aanvulling op het eerste lid kan de minister ook subsidie verstrekken aan een financier voor het verstrekken van risicokapitaal aan een ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba.   
 5.  Voor de toepassing van het vierde lid wordt als financier aangewezen een kredietinstelling in de zin van de Wet financiële markten BES die op grond van die wet bevoegd is in Bonaire, Sint Eustatius of Saba het bedrijf van kredietinstelling uit te oefenen, of een in Bonaire, Sint Eustatius of Saba gevestigde vennootschap in de vorm van een kapitaalvennootschap of een vennootschap met een afgescheiden vermogen die blijkens haar statuten of blijkens de overeenkomst waarbij zij is aangegaan tot doel heeft of mede tot doel heeft het verstrekken van risicokapitaal aan ondernemers teneinde winst te behalen.  
 
 ### Artikel  3.12.3  
 
-####Subsidievoorwaarden
+####Uitsluitingen
 
 1.  De financier verstrekt geen risicokapitaal aan een ondernemer wiens activiteiten in overwegende mate betrekking hebben op: 
 
@@ -3048,17 +3049,17 @@ d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in
 
 ### Artikel  3.12.4  
 
-####Omvang en voorwaarden garantstelling
+####Omvang garantstelling
 
 1.  Er wordt garant gestaan voor 50 procent van de waarde van het risicokapitaal.   
 2.  Indien de financier bij het verkrijgen van risicokapitaal een gedeelte daarvan niet onder de garantstelling van de Staat brengt, zijn de bepalingen van deze titel slechts van toepassing op het gedeelte van het verkregen risicokapitaal dat onder de garantstelling is gebracht, tenzij uitdrukkelijk anders is bepaald.  
 
 ### Artikel  3.12.5  
 
-####Maximum garantstelling
+####Maximum risicokapitaal voor garantstelling
 
-1.  De garantstelling heeft uitsluitend betrekking op risicokapitaal waarbij de waarde van het risicokapitaal dat aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met de waarde van risicokapitaal dat door een andere financier met toepassing van dit hoofdstuk en van risicokapitaal dat met toepassing van titel 3.6 aan de ondernemer onderscheidenlijk de groep is verstrekt of gelijktijdig wordt verstrekt, niet meer bedraagt dan € 5.000.000.   
-2.  In afwijking van het eerste lid heeft de garantstelling voor participatiemaatschappijen uitsluitend betrekking op risicokapitaal waarbij de waarde van het risicokapitaal dat aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met de waarde van het risicokapitaal dat door een andere participatiemaatschappij met toepassing van dit hoofdstuk en van risicokapitaal dat met toepassing van hoofdstuk 4 aan de ondernemer onderscheidenlijk de groep is verstrekt of gelijktijdig wordt verstrekt, niet meer bedraagt dan € 25.000.000.  
+1.  De garantstelling heeft uitsluitend betrekking op risicokapitaal waarbij de waarde van het risicokapitaal dat aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met de waarde van risicokapitaal dat door een andere financier met toepassing van dit hoofdstuk en van risicokapitaal dat met toepassing van titel 3.10 aan de ondernemer onderscheidenlijk de groep is verstrekt of gelijktijdig wordt verstrekt, niet meer bedraagt dan € 5.000.000.   
+2.  In afwijking van het eerste lid heeft de garantstelling voor participatiemaatschappijen uitsluitend betrekking op risicokapitaal waarbij de waarde van het risicokapitaal dat aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met de waarde van het risicokapitaal dat door een andere participatiemaatschappij met toepassing van dit hoofdstuk en van risicokapitaal dat met toepassing van titel 3.10 aan de ondernemer onderscheidenlijk de groep is verstrekt of gelijktijdig wordt verstrekt, niet meer bedraagt dan € 25.000.000.  
 
 ### Artikel  3.12.6  
 
@@ -3083,7 +3084,7 @@ De minister verdeelt het subsidieplafond voor het toekennen van reserveringsquot
 
 ### Artikel  3.12.9  
 
-####Afwijzingsgronden
+####Afwijzingsgronden aanvraag reserveringsquota
 
 De minister beslist afwijzend op een aanvraag om een reserveringsquotum indien: 
 
@@ -3119,14 +3120,20 @@ Jaarlijks vindt een evaluatie van de toepassing van deze titel plaats, onder mee
 
 ####Informatieverplichtingen
 
-1.  Een aanvraag om een garantstellingsovereenkomst op grond van deze titel, bevat in ieder geval:   
-2.  Een aanvraag voor subsidie als bedoeld in artikel 3.10.2, eerste en tweede lid, bevat in ieder geval: 
+1.  Een aanvraag om een garantstellingovereenkomst als bedoeld in artikel 3.12.7, bevat in ieder geval: 
 
 a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres en het rekeningnummer;  
 
 b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
 
-c. kerngegevens over de organisatie, waaronder de funding, de deskundigheid, het financieringsbeleid, het financieringsproces, het beheer, en het uitwinningsbeleid van krediet.    
+c. kerngegevens over de organisatie, waaronder de funding, de deskundigheid, het financieringsbeleid, het financieringsproces, het beheer en het uitwinningsbeleid van risicokapitaal.     
+2.  Een aanvraag om een reserveringsquotum als bedoeld in artikel 3.12.8, bevat in ieder geval: 
+
+a. gegevens over de aanvrager, waaronder de naam van de organisatie, het KvK-nummer, het post- en bezoekadres;  
+
+b. gegevens over de contactpersoon bij de aanvrager, waaronder de naam, het telefoonnummer en het e-mailadres;  
+
+c. het bedrag van het gevraagde reserveringsquotum.    
 
 ### Artikel  3.12.14  
 
@@ -3138,8 +3145,7 @@ De subsidie, bedoeld in artikel 3.12.2 bevat geen staatssteun.
 
 ####Vervaltermijn
 
-1.  Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.   
-2.  De bijlagen 3.12.1 en 3.12.2 vervallen met ingang van 1 juli 2017.  
+Deze titel en de bijlagen 3.12.1 en 3.12.2 vervallen met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
 ### Titel  3.13  
 
@@ -3161,14 +3167,14 @@ c. is afgesloten met de afspraak dat een gedeelte van de rente vast is en een ge
 
 ### Artikel  3.13.2  
 
-####Subsidieaanvraag
+####Subsidieverstrekking
 
 1.  De minister verstrekt op aanvraag subsidie in de vorm van een garantstelling aan een financier voor de terugbetaling van een lening die de financier op grond van een overeenkomst aan een ondernemer heeft verstrekt voor de duur van de overeenkomst met een maximum van acht jaar.   
 2.  De minister kan ook subsidie in de vorm van een garantstelling verstrekken aan een financier voor de terugbetaling van een lening die de financier op grond van een overeenkomst aan een ondernemer die gevestigd is in het openbaar lichaam Bonaire, Sint Eustatius of Saba heeft verstrekt.  
 
 ### Artikel  3.13.3  
 
-####Subsidievoorwaarden
+####Uitsluitingen
 
 1.  De financier verstrekt geen lening aan een ondernemer wiens activiteiten in overwegende mate betrekking hebben op: 
 
@@ -3183,14 +3189,14 @@ d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in
 
 ### Artikel  3.13.4  
 
-####Omvang en voorwaarden garantstelling
+####Omvang garantstelling
 
 1.  Er wordt garant gestaan voor 50 procent van het nog niet afgeloste deel van de lening.   
 2.  Indien de financier bij het verkrijgen van een lening een gedeelte daarvan niet onder de garantstelling van de Staat brengt, zijn de bepalingen van deze titel slechts van toepassing op het gedeelte van de verkregen lening dat onder de garantstelling is gebracht.  
 
 ### Artikel  3.13.5  
 
-####Maximum garantstelling
+####Maximum lening voor garantstelling
 
 1.  De garantstelling heeft uitsluitend betrekking op een lening waarbij de aan de ondernemer verstrekte lening niet minder bedraagt dan € 1.500.000.   
 2.  De garantstelling heeft uitsluitend betrekking op een lening waarbij de aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep verstrekte lening tezamen met 
@@ -3269,8 +3275,7 @@ De subsidie, bedoeld in artikel 3.13.2 bevat geen staatssteun.
 
 ####Vervaltermijn
 
-1.  Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.   
-2.  Bijlage 3.13.1 vervalt met ingang van 1 juli 2017.  
+Deze titel en bijlage 3.13.1 vervallen met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
 ### Titel  3.14  
 
@@ -3282,39 +3287,9 @@ De subsidie, bedoeld in artikel 3.13.2 bevat geen staatssteun.
 
 1.  In deze titel wordt verstaan onder: 
 
-*aandelenkapitaal:* aandelen in het kapitaal van een onderneming van een ondernemer, die de financier rechtstreeks van de ondernemer heeft verkregen tegen volstorting van die aandelen in geld, of door omzetting van een achtergestelde lening;  
-
-*achtergestelde lening:*
-
-a. lening van geld door een financier aan een ondernemer met het oog op de financiering door deze onderneming van eigen activiteiten, 
-
-1°. welke lening niet door enige vorm van zekerheid is gedekt, met uitzondering van een borgstelling die een aandeelhouder in de onderneming van de ondernemer op persoonlijke titel heeft gegeven,  
-
-2°. waarop de ondernemer krachtens een daartoe strekkende bepaling in de akte van geldlening in geval van ontbinding, een akkoord na verlening van surseance van betaling, een akkoord in faillissement of een akkoord na het van toepassing verklaren van de schuldsaneringsregeling natuurlijke personen met betrekking tot de ondernemer waaraan de achtergestelde lening is verstrekt, eerst verplicht is de niet vervallen aflossingen te betalen nadat alle andere op dat moment bestaande schulden van de debiteur zijn voldaan, met uitzondering van schulden ingevolge vorderingen waaraan een bepaling van gelijke aard als voornoemde bepaling zijn verbonden en ingevolge geldleningen die zijn verstrekt door aandeelhouders in de onderneming van de ondernemer en  
-
-3°. ten aanzien waarvan de financier in de vorenbedoelde akte van geldlening afstand heeft gedaan van alle rechten tot verrekening van de niet vervallen aflossingen, of    
-
-b. een lening van geld door een financier aan een ondernemer die een rechtspersoon is wiens activa slechts bestaan uit deelnemingen in of vorderingen op een dochtermaatschappij in de zin van artikel 24a van Boek 2 van het Burgerlijk Wetboek, met het oog op financiering door deze ondernemer van activiteiten van deze dochtermaatschappij, 
-
-1°. welke lening niet door enige vorm van zekerheid is gedekt, met uitzondering van een persoonlijke borgstelling van een aandeelhouder in de onderneming van de ondernemer en van een pandrecht gevestigd op aandelen in de dochtermaatschappij en  
-
-2°. ten aanzien waarvan de financier in de akte van geldlening afstand heeft gedaan van alle rechten tot verrekening van de niet vervallen aflossingen;      
-
 *bankgarantie:* verplichting van een financier om aan een begunstigde, ten laste van een ondernemer, te behoeve van eigen activiteiten van die ondernemer, een bedrag te betalen, indien de begunstigde aanspraak maakt, uitgezonderd kredietgaranties;  
 
 *bankgarantiefaciliteit:* bedrag waarvoor een financier aan een begunstigde ten laste van een ondernemer bankgaranties kan afnemen die onder de garantstelling van de staat kunnen vallen;  
-
-*reserveringsquotum:* bedrag dat de minister op aanvraag van een financier vaststelt als maximum voor de som van de garanties voor verstrekkingen van risicokapitaal die: 
-
-a. gedurende drie jaar vanaf de datum van de beschikking aan de financier kunnen worden verschaft indien het een eerste toekenning van een reserveringsquotum betreft;  
-
-b. gedurende twee jaar vanaf de datum van de beschikking aan de financier kunnen worden verschaft indien reeds eerder een reserveringsquotum is toegekend;    
-
-*risicokapitaal:* kapitaal in de vorm van aandelenkapitaal of een achtergestelde lening;  
-
-*waarde van aandelenkapitaal:* bedrag in geld dat de financier bij de volstorting van de aandelen heeft betaald dan wel, in geval van omzetting van een achtergestelde lening, of een deel daarvan, in aandelenkapitaal, de waarde van de uitstaande lening voor zover die is omgezet in aandelen, vermeerderd onderscheidenlijk verminderd met het bedrag in geld dat wegens de omzetting is bijbetaald door, onderscheidenlijk terugbetaald aan de financier;  
-
-*waarde van een achtergestelde lening:* nog niet afgeloste deel van de lening;  
 
 *waarde van een bankgarantie:* hoogte van het bedrag waarop maximaal aanspraak kan worden gemaakt onder een afgegeven bankgarantie.     
 2.  Voor de toepassing van deze titel wordt als financier aangewezen: 
@@ -3325,7 +3300,7 @@ b. een schadeverzekeraar als bedoeld in artikel 1:1 van de Wet op het financieel
 
 ### Artikel  3.14.2  
 
-####Subsidieaanvraag
+####Subsidieverstrekking
 
 1.  De minister verstrekt op aanvraag subsidie aan een financier voor het afgeven van een bankgarantie.   
 2.  De subsidie wordt verstrekt in de vorm van een garantstelling aan een financier voor de terugbetaling van een vordering die een financier op een ondernemer krijgt uit hoofde van een betaling onder een bankgarantie die een financier op grond van een overeenkomst ten laste van een ondernemer heeft afgegeven voor de duur van minimaal zes maanden en maximaal 8 jaar.   
@@ -3334,7 +3309,7 @@ b. een schadeverzekeraar als bedoeld in artikel 1:1 van de Wet op het financieel
 
 ### Artikel  3.14.3  
 
-####Subsidievoorwaarden
+####Uitsluitingen
 
 1.  De financier verstrekt geen bankgarantiefaciliteit aan een ondernemer wiens activiteiten in overwegende mate betrekking hebben op: 
 
@@ -3349,7 +3324,7 @@ d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in
 
 ### Artikel  3.14.4  
 
-####Omvang en voorwaarden garantstelling
+####Omvang garantstelling
 
 1.  Er wordt garant gestaan voor 50 procent van de waarde van een bankgarantie.   
 2.  Indien de financier bij het afgeven van een bankgarantie een gedeelte daarvan niet onder de garantstelling van de Staat brengt, zijn de bepalingen van deze titel slechts van toepassing op het gedeelte van de afgegeven bankgarantie dat onder de garantstelling is gebracht.  
@@ -3363,13 +3338,13 @@ d. de gezondheidszorg, voor zover de onderneming een aanbieder is als bedoeld in
 
 a. een of meer bankgarantiefaciliteiten of  
 
-b. het nog niet afgeloste deel van een of meer leningen als bedoeld in 3.12b   die door een financier met toepassing van dit hoofdstuk aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt niet meer bedraagt dan € 150.000.000.  
+b. het nog niet afgeloste deel van een of meer leningen als bedoeld in artikel 3.13.2   die door een financier met toepassing van dit hoofdstuk aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt niet meer bedraagt dan € 150.000.000.  
 
 ### Artikel  3.14.6  
 
 ####Adviescommissie
 
-De in artikel 3.15.6, eerste lid, bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden voor aanvragen om het sluiten van een garantstellingsovereenkomst, bedoeld in de artikelen 22 en 24 van het besluit indien met de financier nog geen garantstellingsovereenkomst is gesloten als bedoeld in de titels 3.12 of 3.13 en de afwijzingsgronden voor aanvragen om een bankgarantiefaciliteit, bedoeld in artikel 3.14.9. 
+De in artikel 3.13.6, eerste lid, bedoelde adviescommissie heeft tevens tot taak de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden voor aanvragen om het sluiten van een garantstellingsovereenkomst, bedoeld in de artikelen 22 en 24 van het besluit indien met de financier nog geen garantstellingsovereenkomst is gesloten als bedoeld in de titels 3.12 of 3.13 en de afwijzingsgronden voor aanvragen om een bankgarantiefaciliteit, bedoeld in artikel 3.14.9. 
 
 ### Artikel  3.14.7  
 
@@ -3437,8 +3412,7 @@ De subsidie, bedoeld in artikel 3.16.2 bevat geen staatssteun.
 
 ####Vervaltermijn
 
-1.  Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.   
-2.  Bijlage 3.14.1 vervalt met ingang van 1 juli i2017.  
+Deze titel en bijlage 3.14.1 vervallen met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend.
 
 ### Titel  3.15  
 
@@ -3465,7 +3439,7 @@ De subsidie, bedoeld in artikel 3.16.2 bevat geen staatssteun.
 
 ### Artikel  3.15.2  
 
-####Subsidieaanvraag
+####Subsidieverstrekking
 
 1.  De minister verstrekt op aanvraag subsidie aan een financier voor het verstrekken van een krediet aan een scheepswerf ten behoeve van de bouw in Nederland van een nieuw schip.   
 2.  De subsidie wordt verstrekt in de vorm van een garantstelling.  
@@ -3516,7 +3490,7 @@ f. de financier op het moment van het verstrekken van het kredietbedrag waarvoor
 
 g. de financier onvoldoende naar normaal bankgebruik te vestigen zekerheden heeft gevestigd of zal vestigen bij de verstrekking van het kredietbedrag aan de scheepswerf;  
 
-h. door de verlening van de garantstelling het totaal van de op grond van dit hoofdstuk verleende garantstellingen ten behoeve van de scheepswerf of van de groep, waartoe deze scheepswerf behoort, meer zou bedragen dan 30 procent van het subsidieplafond;  
+h. door de verlening van de garantstelling het totaal van de op grond van deze titel verleende garantstellingen ten behoeve van de scheepswerf of van de groep, waartoe deze scheepswerf behoort, meer zou bedragen dan 30 procent van het subsidieplafond;  
 
 i. gegronde vrees bestaat dat de scheepswerf zich in financiële moeilijkheden bevindt;  
 
@@ -3570,7 +3544,7 @@ Een aanvraag om een garantstellingsovereenkomst op grond van deze titel, bevat i
 
 a. kerngegevens over de aanvragende bank;  
 
-b. kerngegevens over de accountmanager bij de aanvragende bank;  
+b. contactgegevens over de accountmanager bij de aanvragende bank;  
 
 c. kerngegevens over de scheepswerf;  
 
@@ -3586,8 +3560,7 @@ De subsidie, bedoeld in artikel 3.15.2, bevat geen staatssteun.
 
 ####Vervaltermijn
 
-1.  Deze titel vervalt met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijft op subsidies die voor die datum zijn verleend.   
-2.  Bijlage 3.15.1 vervalt met ingang van 1 juli 2017.  
+Deze titel en bijlage 3.15.1 vervallen met ingang van 1 juli 2017, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
 ### Titel  3.16  
 
@@ -3796,7 +3769,7 @@ De minister verdeelt het subsidieplafond op volgorde van rangschikking van de aa
 
 ### Artikel  3.16.17  
 
-####Rangschikkingscriterium
+####Rangschikkingscriteria
 
 1.  De minister rangschikt de aanvragen waarop niet met toepassing van artikel 3.16.14 afwijzend is beslist, zodanig dat een vroegefasetraject hoger gerangschikt wordt naarmate: 
 
@@ -3849,7 +3822,7 @@ De subsidie, bedoeld in de artikelen 3.16.2, 3.16.7, en 3.16.12 bevat staatssteu
 
 ####Vervaltermijn
 
-Deze titel vervalt met ingang van 1 juli 2019, met dien verstande dat dit van toepassing blijft op subsidies die voor die datum zijn verleend. 
+Deze titel en de bijlagen 3.16.1, 3.16.2 en 3.16.3 vervallen met ingang van 1 juli 2019, met dien verstande dat deze van toepassing blijven op subsidies die voor die datum zijn verleend. 
 
 ### Hoofdstuk  4  
 
@@ -3919,7 +3892,7 @@ e. wat betreft ontmanteling: kosten ervan voor zover gehele of gedeeltelijke ver
 f. wat betreft het geleidelijk opstarten en in gebruik nemen van een project: kosten ervan die rechtstreeks zijn toe te rekenen aan capaciteitsverlies en gederfde inkomsten.     
 3.  Van de som van de per kostensoort berekende investeringskosten van het project verminderd met de referentiekosten maken de aan derden verschuldigde kosten, bedoeld in artikel 14a, tweede lid, onderdeel h, van het besluit ten hoogste 50 procent deel uit.  
 
-### Artikel  4.13  
+### Artikel  4.1.3  
 
 ####Uurtarief
 
@@ -4042,7 +4015,7 @@ De minister verdeelt het subsidieplafond op volgorde van de rangschikking van de
 
 ####Realisatietermijn
 
-De termijn, bedoeld in artikel 23, onderdeel c, van het besluit, is vier jaar. 
+De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vier jaar. 
 
 ### Artikel  4.2.13  
 
@@ -4127,7 +4100,7 @@ De minister verdeelt het subsidieplafond op volgorde van de rangschikking van de
 
 ####Realisatietermijn
 
-De termijn, bedoeld in artikel 23, onderdeel c, van het besluit, is vier jaar. 
+De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vier jaar. 
 
 ### Artikel  4.2.20  
 
@@ -4201,7 +4174,7 @@ De minister verdeelt het subsidieplafond op volgorde van de rangschikking van de
 
 ####Realisatietermijn
 
-De termijn, bedoeld in artikel 23, onderdeel c, van het besluit, is twee jaar. 
+De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is twee jaar. 
 
 ### Artikel  4.2.27  
 
@@ -4286,7 +4259,7 @@ De minister verdeelt het subsidieplafond op volgorde van de rangschikking van de
 
 ####Realisatietermijn
 
-De termijn, bedoeld in artikel 23, onderdeel c, van het besluit, is vier jaar. 
+De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vier jaar. 
 
 ### Artikel  4.2.34  
 
@@ -4358,7 +4331,7 @@ De minister verdeelt het subsidieplafond op volgorde van de rangschikking van de
 
 ####Realisatietermijn
 
-De termijn, bedoeld in artikel 23, onderdeel c, van het besluit, is vier jaar. 
+De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vier jaar. 
 
 ### Artikel  4.2.41  
 
@@ -4434,7 +4407,7 @@ De minister verdeelt het subsidieplafond op volgorde van de rangschikking van de
 
 ####Realisatietermijn
 
-De termijn, bedoeld in artikel 23, onderdeel c, van het besluit, is vier jaar. 
+De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vier jaar. 
 
 ### Artikel  4.2.48  
 
@@ -4513,7 +4486,7 @@ De minister verdeelt het subsidieplafond op volgorde van de rangschikking van de
 
 ####Realisatietermijn
 
-De termijn, bedoeld in artikel 23, onderdeel c, van het besluit, is vijf jaar. 
+De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vijf jaar. 
 
 ### Artikel  4.2.55  
 
@@ -4599,7 +4572,7 @@ Per programmalijn, zoals beschreven in de bijlage, verdeelt de minister de besch
 
 ####Realisatietermijn
 
-De termijn, bedoeld in artikel 23, onderdeel c, van het besluit, is vier jaar. 
+De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vier jaar. 
 
 ### Artikel  4.2.62  
 
@@ -5329,7 +5302,7 @@ Per prioriteitsthema, zoals beschreven in de bijlage, verdeelt de minister de be
 
 ####Realisatietermijn
 
-De termijn, bedoeld in artikel 23, onderdeel c, van het besluit, is vijf jaar. 
+De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vijf jaar. 
 
 ### Artikel  4.2.124  
 
@@ -5440,7 +5413,7 @@ b. een diep aardwarmteproject.
 
 ####Realisatietermijn en afwijzingsgronden
 
-1.  De termijn, bedoeld in artikel 23, onderdeel c, van het besluit is twee jaar.   
+1.  De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit is twee jaar.   
 2.  De minister beslist afwijzend op een aanvraag indien: 
 
 a. uit het geologisch onderzoek blijkt dat de geschatte kans op het realiseren van het verwachte vermogen kleiner is dan 90 procent;  
@@ -5800,7 +5773,7 @@ De minister verdeelt het subsidieplafond evenredig over de ingediende aanvragen.
 
 ####Afwijzingsgronden
 
-1.  De afwijzingsgronden, genoemd in artikel 23, onderdeel a, b, c, d, e, f, g, h en j, van het besluit zijn niet van toepassing.   
+1.  De afwijzingsgronden, genoemd in artikel 23, eerste lid, onderdeel a, b, c, d, e, f, g, h en j, van het besluit zijn niet van toepassing.   
 2.  De minister beslist afwijzend op een aanvraag om subsidie indien: 
 
 a. de subsidieaanvrager geen deelnemer is van een convenant, waarin de subsidieaanvrager in het kader van met de minister, de Minister van Financiën en de minister van Infrastructuur en Milieu gemaakte afspraken verplichtingen op zich heeft genomen ter verbetering van de energie-efficiëntie,  
@@ -5917,13 +5890,13 @@ Per programmalijn, zoals beschreven in de bijlage, verdeelt de minister de besch
 
 ####Realisatietermijn
 
-De termijn, bedoeld in artikel 23, onderdeel c, van het besluit, is vier jaar. 
+De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is vier jaar. 
 
 ### Artikel  4.5.8  
 
 ####Adviescommissie
 
-1.  Er is een Adviescommissie Wind op Zee die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in artikel 23, aanhef en onder e tot en met h, van het besluit en in artikel 4.5.9, en de rangschikkingscriteria, bedoeld in artikel 4.5.10.   
+1.  Er is een Adviescommissie Wind op Zee die tot taak heeft de minister op zijn verzoek te adviseren omtrent de afwijzingsgronden, bedoeld in artikel 23, eerste lid, onderdelen e tot en met h, van het besluit en in artikel 4.5.9, en de rangschikkingscriteria, bedoeld in artikel 4.5.10.   
 2.  De commissie bestaat uit ten minste vijf en ten hoogste tien leden.   
 3.  De voorzitter en de andere leden worden door de minister voor een termijn van ten hoogste vier jaar benoemd.  
 
@@ -6017,7 +5990,7 @@ De minister verstrekt op aanvraag een subsidie aan een MKB-ondernemer voor het u
 
 ####Steunintensiteit
 
-1.  In afwijking van de Regeling steunintensiteit bedraagt de subsidie voor een wind op zee-haalbaarheidsstudie ten hoogste 40% van de subsidiabele kosten.   
+1.  In afwijking van artikel 1.3 bedraagt de subsidie voor een wind op zee-haalbaarheidsstudie ten hoogste 40% van de subsidiabele kosten.   
 2.  De subsidie bedraagt maximaal € 50.000 per wind op zee-haalbaarheidsstudie.  
 
 ### Artikel  4.6.4  
@@ -6036,7 +6009,7 @@ Per programmalijn, zoals beschreven in de bijlage, verdeelt de minister de besch
 
 ####Realisatietermijn
 
-De termijn, bedoeld in artikel 23, onderdeel c, van het besluit, is 12 maanden. 
+De termijn, bedoeld in artikel 23, eerste lid, onderdeel c, van het besluit, is 12 maanden. 
 
 ### Artikel  4.6.7  
 
@@ -6110,7 +6083,7 @@ Wijzigt de Regeling LNV-subsidies.
 
 ### Artikel  5.3  
 
-Op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend, op subsidies die vóór de inwerkingtreding van dit besluit zijn verleend en op subsidies die vóór de inwerkingtreding van dit besluit zijn vastgesteld blijft het recht van toepassing zoals dat luidde onmiddellijk vóór dat tijdstip. 
+Op aanvragen om subsidie die vóór de inwerkingtreding van deze regeling zijn ingediend, op subsidies die vóór de inwerkingtreding van deze regeling zijn verleend en op subsidies die vóór de inwerkingtreding van deze regeling zijn vastgesteld blijft het recht van toepassing zoals dat luidde onmiddellijk vóór dat tijdstip. 
 
 ### Artikel  5.4  
 
@@ -6895,7 +6868,7 @@ c.  *technostarter:* een rechtspersoon die een onderneming drijft:
 
 3°. minder dan zeven jaar na haar eerste commerciële verkoop actief is op een markt: en  
 
-4°. die ten tijde van de eerste verstrekking van risicodragend kapitaal op grond van dit hoofdstuk voldoet aan de definitie van middelgrote, kleine of micro-ondernemingen;    
+4°. die ten tijde van de eerste verstrekking van risicodragend kapitaal op grond van titel 3.10 van de Regeling nationale EZ-subsidies voldoet aan de definitie van middelgrote, kleine of micro-ondernemingen;    
 
 d.  *technostartervennootschap:* een technostarter die 
 
@@ -6929,7 +6902,7 @@ g.  *participatie:* risicodragend kapitaal in de vorm van
 
 2°. aandelen in het kapitaal van een technostartervennootschap als bedoeld onder 1° in combinatie met een achtergestelde vordering;    
 
-h.  *erkrijgingsprijs van een participatie:* het bedrag in geld waarvoor het startersfonds de participatie heeft verkregen;  
+h.  *verkrijgingsprijs van een participatie:* het bedrag in geld waarvoor het startersfonds de participatie heeft verkregen;  
 
 i.  *fondsplan:* een plan van het startersfonds tot uitvoering van een met elkaar samenhangend geheel van activiteiten die bestaan uit het verkrijgen, beheren en beëindigen van participaties en het begeleiden van de desbetreffende technostartervennootschappen;  
 
@@ -6953,7 +6926,7 @@ r.  *startersfonds:* een vennootschap;
 
 1°. in de vorm van kapitaalvennootschap of een vennootschap met een afgescheiden vermogen, ingericht naar het recht van één van de andere lidstaten van de Europese Unie;  
 
-2°. Die blijkens de akte waarbij haar statuten zijn vastgesteld of blijkens de overeenkomst waarbij zij is aangegaan uitsluitend tot doel heeft het verstrekken van risicodragendkapitaal aan technostartersvennootschappen teneinde winst te behalen, en  
+2°. Die blijkens de akte waarbij haar statuten zijn vastgesteld of blijkens de overeenkomst waarbij zij is aangegaan uitsluitend tot doel heeft het verstrekken van risicodragend kapitaal aan technostartersvennootschappen teneinde winst te behalen, en  
 
 3°. waarin ten minste drie aandeelhouders of hoofdelijk aansprakelijke vennoten deelnemen respectievelijk samenwerken zonder dat twee of drie van hen tot dezelfde groep behoren en zonder dat één van hen een meerderheidsbelang in het fonds heeft.     
 
@@ -6967,7 +6940,7 @@ r.  *startersfonds:* een vennootschap;
 
 3. Het startersfonds kan bedragen in contanten opnemen, telkens indien het startersfonds een betaling verricht ter verkrijging van een participatie, voor zover het totaal van de opgenomen bedragen niet hoger is dan het maximale bedrag van de geldlening.  
 
-4. Telkens indien het startersfonds inkomsten heeft verkregen uit een participatie boekt het een deel van deze inkomsten over aan de Staat, overeenkomstig het bepaalde in artikel 5.  
+4. Telkens indien het startersfonds inkomsten heeft verkregen uit een participatie boekt het een deel van deze inkomsten over aan de Staat, overeenkomstig het bepaalde in artikel 4.  
 
 5. Het startersfonds is niet gehouden de uitstaande hoofdsom af te lossen, anders dan door de overboekingen bedoeld in het vierde lid.  
 
@@ -6979,7 +6952,7 @@ r.  *startersfonds:* een vennootschap;
 
 ####Opname van de lening
 
-1. Indien het startersfonds een participatie heeft verkregen na de indiening van de aanvraag om subsidie op grond van paragraaf 3.10 van de Regeling nationale EZ-subsidies en over gaat of over is gegaan tot betaling aan de technostartervennootschap van de verkrijgingsprijs of van een deel daarvan, verricht de Staat op verzoek van het fonds een betaling aan het fonds ter hoogte van dat bedrag vermenigvuldigd met het percentage dat het maximale bedrag van de geldlening vormt van het investeringsbudget, met dien verstande dat de middelen die door een startersfonds over een periode van twaalf maanden aan een technostartervennootschap worden verstrekt ten hoogste € 1.200.000 bedragen.  
+1. Indien het startersfonds een participatie heeft verkregen na de indiening van de aanvraag om subsidie op grond van titel 3.10 van de Regeling nationale EZ-subsidies en over gaat of over is gegaan tot betaling aan de technostartervennootschap van de verkrijgingsprijs of van een deel daarvan, verricht de Staat op verzoek van het fonds een betaling aan het fonds ter hoogte van dat bedrag vermenigvuldigd met het percentage dat het maximale bedrag van de geldlening vormt van het investeringsbudget, met dien verstande dat de middelen die door een startersfonds over een periode van twaalf maanden aan een technostartervennootschap worden verstrekt ten hoogste € 2.000.000 bedragen.  
 
 2. Het startersfonds doet het verzoek om betaling met gebruikmaking van een formulier, overeenkomstig een model dat als bijlage 1 bij deze overeenkomst is gevoegd, onder bijvoeging van de overeenkomst tot verkrijging van de participatie en van andere bescheiden als genoemd in het model.  
 
@@ -7015,7 +6988,7 @@ b. in periode B: 50 procent van de inkomsten, vermenigvuldigd met een breuk waar
 
 c. in periode C: 20 procent van de inkomsten, vermenigvuldigd met een breuk waarvan de teller bestaat uit het maximale bedrag van de geldlening en de noemer uit het investeringsbudget met uitzondering van de geldlening van de Staat.    
 
-4. De Staat kan de hoogte van het deel van de inkomsten, bedoeld in het derde lid, per periode A, B en C afwijkend vaststellen, indien het startersfonds in strijd heeft gehandeld met hetgeen in deze overeenkomst of in de Subsidieregeling starten, groeien en overdragen van ondernemingen is bepaald.  
+4. De Staat kan de hoogte van het deel van de inkomsten, bedoeld in het derde lid, per periode A, B en C afwijkend vaststellen, indien het startersfonds in strijd heeft gehandeld met hetgeen in deze overeenkomst of in de Regeling nationale EZ-subsidies is bepaald.  
 
 5. Telkens indien het startersfonds een bedrag overboekt aan de Staat, informeert het de Staat over de aard van de inkomsten met gebruikmaking van een formulier, overeenkomstig een model, dat als bijlage 2 bij deze overeenkomst is gevoegd, onder bijvoeging van bescheiden als genoemd in het model, waaronder in geval van inkomsten uit vervreemding van de participatie de overeenkomst tot vervreemding van de participatie.  
 
@@ -7051,7 +7024,7 @@ g. bij de beslissing van het startersfonds inzake de verkrijging van een partici
 
 4.Het startersfonds verkrijgt geen participatie in een technostartervennootschap indien een ander investeringsfonds in deze vennootschap reeds een participatie heeft, behoudens
 
-a.indien dit investeringsfonds een ander startersfonds is en voor zover als gevolg van de nieuwe participatie het in het eerste lid, onder b, bedoelde maximum niet wordt overschreden;
+a.indien dit investeringsfonds een ander startersfonds is en voor zover als gevolg van de nieuwe participatie het in het eerste lid, onder c, bedoelde maximum niet wordt overschreden;
 
 b.indien dit investeringsfonds
 
@@ -7059,7 +7032,7 @@ b.indien dit investeringsfonds
 
 2°.blijkens de akte waarbij de statuten van de vennootschap zijn vastgesteld of blijkens de overeenkomst waarbij de vennootschap is aangegaan uitsluitend tot doel heeft het verstrekken van risicodragend kapitaal aan technostartervennootschappen teneinde winst te behalen; en
 
-3°.naar het oordeel van de minister niet in staat is nieuwe participaties in de technostartervennootschap te verkrijgen,voor zover als gevolg van de nieuwe participatie het in het eerste lid, onder b, bedoelde maximum niet wordt overschreden.
+3°.naar het oordeel van de minister niet in staat is nieuwe participaties in de technostartervennootschap te verkrijgen,voor zover als gevolg van de nieuwe participatie het in het eerste lid, onder c, bedoelde maximum niet wordt overschreden.
 
 c.indien dit investeringsfonds een informal investor is. 
 
@@ -7143,7 +7116,7 @@ c. ten aanzien van het startersfonds een verzoek bij de rechtbank is ingediend t
 
 d. het startersfonds is ontbonden;  
 
-e. paragraaf 3.10 van de Regeling nationale EZ-subsidies niet langer verenigbaar is met de regels van de Europese Gemeenschappen ten aanzien van staatssteun.    
+e. titel 3.10 van de Regeling nationale EZ-subsidies niet langer verenigbaar is met de regels van de Europese Gemeenschappen ten aanzien van staatssteun.    
 
 2. Een opzegging op grond van het eerste lid, onder a en b, geschiedt uitsluitend nadat de Staat het startersfonds op de hoogte heeft gesteld van het voornemen tot opzegging en nadat deze in de gelegenheid is gesteld om een tekortschieten dat hersteld kan worden te herstellen binnen een redelijke termijn.  
 
@@ -7163,7 +7136,7 @@ e. paragraaf 3.10 van de Regeling nationale EZ-subsidies niet langer verenigbaar
 
 ####Adressering schriftelijke stukken
 
-Schriftelijke stukken ter uitvoering van deze overeenkomst bestemd voor de onder 1 gemelde partij worden gericht aan: (Naam startersfonds) (Adres startersfonds) Schriftelijke stukken ter uitvoering van deze overeenkomst bestemd voor de onder 2 gemelde partij worden gericht aan: Rijksdienst voor Ondernemend Nederland Afdeling Garanties, Kredieten, Risicokapitaal / Seed Capital Postbus 93144 2509 AC Den Haag 
+Schriftelijke stukken ter uitvoering van deze overeenkomst bestemd voor de onder 1 gemelde partij worden gericht aan: Rijksdienst voor Ondernemend Nederland Afdeling Garanties, Kredieten, Risicokapitaal / Seed Capital Postbus 93144 2509 AC Den Haag Schriftelijke stukken ter uitvoering van deze overeenkomst bestemd voor de onder 2 gemelde partij worden gericht aan: (Naam startersfonds) (Adres startersfonds) 
 
 ### Artikel  13  
 
@@ -7175,7 +7148,7 @@ Alle betalingen in verband met deze overeenkomst door het startersfonds geschied
 
 ####Fondsmanagement
 
-Het startersfonds garandeert dat gedurende de looptijd van het fonds de kwaliteit en de tijdsbesteding van het fondsmanagement in overeenstemming zijn met hetgeen is aangegeven in het fondsplan. 
+Het startersfonds garandeert dat gedurende de looptijd van het fonds de kwaliteit en de tijdsbesteding van het fondsmanagement in overeenstemming zijn met hetgeen is aangegeven in het fondsplan. Het startersfonds kan overeenkomstig artikel 9 een verzoek indienen tot wijziging van het fondsmanagement. Een wijziging van het fondsmanagement is alleen toegestaan met instemming van de Staat. 
 
 ### Artikel  15  
 
@@ -8754,7 +8727,7 @@ o.  *groep:* een economische eenheid, waarin organisatorisch zijn verbonden:
 
 2°. laatstbedoelde rechtspersonen of vennootschappen;    
 
-p.  *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent, in Nederland is gevestigd en daar een substantieel deel van haar activiteiten uitvoert.   
+p.  *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent.   
 
 ### Artikel  2  
 
@@ -8786,7 +8759,7 @@ b. in de voorafgaande periode van twaalf maanden zijn niet meer middelen ten beh
 
 c. de verstrekking van het risicokapitaal dient niet ter vervanging van aan een ondernemer verschaft krediet of risicokapitaal door dezelfde financier of door een financier die deel uitmaakt van de groep van dezelfde financier;  
 
-d. de waarde van het risicokapitaal dat aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met de waarde van risicokapitaal dat door een andere financier met toepassing van de paragrafen 3.12, 3.13 en 3.14 van de Regeling nationale EZ-subsidies en van risicokapitaal dat met toepassing van paragraaf 3.10 van de Regeling nationale EZ-subsidies aan de ondernemer onderscheidenlijk de groep is verstrekt of gelijktijdig wordt verstrekt, bedraagt niet meer dan € 5.000.000;  
+d. de waarde van het risicokapitaal dat aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met de waarde van risicokapitaal dat door een andere financier met toepassing van de titels 3.12, 3.13 en 3.14 van de Regeling nationale EZ-subsidies en van risicokapitaal dat met toepassing van titel 3.10 van de Regeling nationale EZ-subsidies aan de ondernemer onderscheidenlijk de groep is verstrekt of gelijktijdig wordt verstrekt, bedraagt niet meer dan € 5.000.000;  
 
 e. bij of in verband met het verstrekken van het risicokapitaal verstrekt de financier geen andere goederen dan geld;  
 
@@ -8806,7 +8779,7 @@ i. het risicokapitaal dient niet ter vervanging van een bestaande lening, indien
 
 j. het risicokapitaal heeft niet als doel de afwenteling van bestaande risico’s op de Staat;  
 
-k. voor participatiemaatschappijen bedraagt de waarde van het risicokapitaal dat aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met de waarde van het risicokapitaal dat door een andere participatiemaatschappij met toepassing van de paragrafen 3.12, 3.13 en 3.14 van de Regeling nationale EZ-subsidies en van risicokapitaal dat met toepassing van paragraaf 3.10 van de Regeling nationale EZ-subsidies aan de ondernemer onderscheidenlijk de groep is verstrekt of gelijktijdig wordt verstrekt, bedraagt niet meer dan € 25.000.000;  
+k. voor participatiemaatschappijen bedraagt de waarde van het risicokapitaal dat aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met de waarde van het risicokapitaal dat door een andere participatiemaatschappij met toepassing van de titels 3.12, 3.13 en 3.14 van de Regeling nationale EZ-subsidies en van risicokapitaal dat met toepassing van titel 3.10 van de Regeling nationale EZ-subsidies aan de ondernemer onderscheidenlijk de groep is verstrekt of gelijktijdig wordt verstrekt, niet meer dan € 25.000.000;  
 
 l. de minister, geadviseerd door een groep deskundige derden, heeft verklaard dat is voldaan aan de voorwaarden a tot en met k, indien de financiering waarvoor een garantie wordt aangevraagd meer bedraagt dan € 5 miljoen.   
 
@@ -9164,7 +9137,7 @@ o.  *groep:* een economische eenheid, waarin organisatorisch zijn verbonden:
 
 2°. laatstbedoelde rechtspersonen of vennootschappen;    
 
-p.  *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent, in Nederland is gevestigd en daar een substantieel deel van haar activiteiten uitvoert.   
+p.  *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent.   
 
 ### Artikel  2  
 
@@ -9196,7 +9169,7 @@ b. in de voorafgaande periode van twaalf maanden zijn niet meer middelen ten beh
 
 c. de verstrekking van het risicokapitaal dient niet ter vervanging van aan een ondernemer verschaft krediet of risicokapitaal door dezelfde financier of door een financier die deel uitmaakt van de groep van dezelfde financier;  
 
-d. de waarde van de lening die aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met de waarde van risicokapitaal dat door een andere financier met toepassing van de paragrafen 3.12, 3.13 en 3.14 van de Regeling nationale EZ-subsidies dat met toepassing van paragraaf 3.10 van de Regeling nationale EZ-subsidies aan de ondernemer onderscheidenlijk de groep is verstrekt of gelijktijdig wordt verstrekt, bedraagt niet meer dan € 5.000.000;  
+d. de waarde van de lening die aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met de waarde van risicokapitaal dat door een andere financier met toepassing van de titels 3.12, 3.13 en 3.14 van de Regeling nationale EZ-subsidies dat met toepassing van titel 3.10 van de Regeling nationale EZ-subsidies aan de ondernemer onderscheidenlijk de groep is verstrekt of gelijktijdig wordt verstrekt, bedraagt niet meer dan € 5.000.000;  
 
 e. bij of in verband met het verstrekken van de lening verstrekt de financier geen andere goederen dan geld;  
 
@@ -9216,7 +9189,7 @@ i. het risicokapitaal dient niet ter vervanging van een bestaande lening, indien
 
 j. het risicokapitaal heeft niet als doel de afwenteling van bestaande risico’s op de Staat;  
 
-k. voor participatiemaatschappijen bedraagt de waarde van het risicokapitaal dat aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met de waarde van het risicokapitaal dat door een andere participatiemaatschappij met toepassing van de paragrafen 3.12, 3.13 en 3.14 van de Regeling nationale EZ-subsidies dat met toepassing van paragraaf 3.10 van de Regeling nationale EZ-subsidies aan de ondernemer onderscheidenlijk de groep is verstrekt of gelijktijdig wordt verstrekt niet meer dan € 25.000.000;  
+k. voor participatiemaatschappijen bedraagt de waarde van het risicokapitaal dat aan de ondernemer of, indien de ondernemer deel uitmaakt van een groep, aan de groep wordt verstrekt tezamen met de waarde van het risicokapitaal dat door een andere participatiemaatschappij met toepassing van de titels 3.12, 3.13 en 3.14 van de Regeling nationale EZ-subsidies dat met toepassing van titel 3.10 van de Regeling nationale EZ-subsidies aan de ondernemer onderscheidenlijk de groep is verstrekt of gelijktijdig wordt verstrekt niet meer dan € 25.000.000;  
 
 l. de minister, geadviseerd door een groep deskundige derden, heeft verklaard dat is voldaan aan de voorwaarden a tot en met k, indien de financiering waarvoor een garantie wordt aangevraagd meer bedraagt dan € 5 miljoen.   
 
@@ -9358,7 +9331,7 @@ b. in geval van ontbinding: de liquidatie-uitkering; of
 
 c. in geval van homologatie van een akkoord als bedoeld in het eerste lid, onder e, de in het kader van het akkoord voor de lening verrichte uitkering.    
 
-9. Indien de financier meermalen gegarandeerde leningen aan een ondernemer heeft verstrekt en slechts op een deel daarvan verlies lijdt, wordt het verlies geacht te zijn geleden op de lening dat de financier het eerst heeft verstrekt.  
+9. Indien de financier meermalen gegarandeerde leningen aan een ondernemer heeft verstrekt en slechts op een deel daarvan verlies lijdt, wordt het verlies geacht te zijn geleden op de lening die de financier het eerst heeft verstrekt.  
 
 10. Indien de financier aan een ondernemer leningen heeft verstrekt die slechts ten dele onder de garantstelling zijn gebracht en slechts op een deel daarvan verlies lijdt, wordt het verlies, onverminderd het zesde lid, naar rato toegerekend aan de leningen die onder de garantstelling zijn gebracht.   
 
@@ -9480,7 +9453,7 @@ b. laatstbedoelde rechtspersonen of vennootschappen;
 
 h.  *financier:* een bank;  
 
-i.  *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent, in Nederland is gevestigd en daar een substantieel deel van haar activiteiten uitvoert.   
+i.  *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent.   
 
 ### Artikel  2  
 
@@ -9688,7 +9661,7 @@ b. in geval van ontbinding: de liquidatie-uitkering; of
 
 c. in geval van homologatie van een akkoord als bedoeld in het eerste lid, onder e, de in het kader van het akkoord voor de lening verrichte uitkering.    
 
-9. Indien de financier meermalen gegarandeerde leningen aan een ondernemer heeft verstrekt en slechts op een deel daarvan verlies lijdt, wordt het verlies geacht te zijn geleden op de lening dat de financier het eerst heeft verstrekt.  
+9. Indien de financier meermalen gegarandeerde leningen aan een ondernemer heeft verstrekt en slechts op een deel daarvan verlies lijdt, wordt het verlies geacht te zijn geleden op de lening die de financier het eerst heeft verstrekt.  
 
 10. Indien de financier aan een ondernemer leningen heeft verstrekt die slechts ten dele onder de garantstelling zijn gebracht en slechts op een deel daarvan verlies lijdt, wordt het verlies, onverminderd het zesde lid, naar rato toegerekend aan de leningen die onder de garantstelling zijn gebracht.   
 
@@ -9738,7 +9711,7 @@ b. ten aanzien van de financier een verzoek bij de rechtbank is ingediend tot ve
 
 c. de financier, in geval deze rechtspersoonlijkheid heeft, is ontbonden;  
 
-d. de bepalingen in paragraaf 3.13 van de Regeling nationale EZ-subsidies niet langer verenigbaar zijn met de regels van de Europese Gemeenschappen ten aanzien van staatssteun.    
+d. de bepalingen in titel 3.13 van de Regeling nationale EZ-subsidies niet langer verenigbaar zijn met de regels van de Europese Gemeenschappen ten aanzien van staatssteun.    
 
 2. Een opzegging op grond van het eerste lid, onder a, geschiedt uitsluitend nadat de Staat de financier op de hoogte heeft gesteld van het voornemen tot opzegging en nadat deze in de gelegenheid is gesteld om een tekortschieten dat hersteld kan worden te herstellen binnen een redelijke termijn.  
 
@@ -9810,13 +9783,13 @@ d.  *groep:* een economische eenheid, waarin organisatorisch zijn verbonden:
 
 2°. laatstbedoelde rechtspersonen of vennootschappen;    
 
-e.  *ondernemer:* een natuurlijke persoon, een rechtspersoon of een vennootschap, die een onderneming in stand houdt, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld.  
+e.  *ondernemer:* een natuurlijke persoon, een rechtspersoon of een vennootschap, die een onderneming in stand houdt, niet zijnde een rechtspersoon die krachtens publiekrecht is ingesteld;  
 
-f.  *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent, in Nederland is gevestigd en daar een substantieel deel van haar activiteiten uitvoert.  
+f.  *onderneming:* iedere eenheid, ongeacht haar rechtsvorm of wijze van financiering, die een economische activiteit uitoefent.  
 
 g.  *bankgarantie:* de verplichting van een financier aan een begunstigde ten laste van een ondernemer, ten behoeve van eigen activiteiten van die ondernemer, waarbij de financier aan de begunstigde garandeert een bedrag te betalen indien de begunstigde daarop aanspraak maakt, uitgezonderd kredietgaranties;  
 
-h.  *bankgarantiefaciliteit:* het bedrag waarvoor een financier aan een begunstigde ten laste van een ondernemer bankgaranties kan afgeven die onder de garantstelling van de staat kunnen vallen.  
+h.  *bankgarantiefaciliteit:* het bedrag waarvoor een financier aan een begunstigde ten laste van een ondernemer bankgaranties kan afgeven die onder de garantstelling van de staat kunnen vallen;  
 
 i.  *waarde van een bankgarantie:* de hoogte van het bedrag dat maximaal nog kan worden geclaimd onder een afgegeven bankgarantie.   
 
@@ -9872,7 +9845,7 @@ f. een garantstelling heeft uitsluitend betrekking op een bankgarantie waarbij d
 
 – een of meer bankgarantiefaciliteiten of  
 
-– het nog niet afgeloste deel van een of meer leningen als bedoeld in artikel 3.13.2 van de Regeling nationale EZ-subsidies die door een financier met toepassing van paragraaf 3.13 van die regeling aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt niet meer bedraagt dan € 150.000.000.    
+– het nog niet afgeloste deel van een of meer leningen als bedoeld in artikel 3.13.2 van de Regeling nationale EZ-subsidies die door een financier met toepassing van titel 3.13 van die regeling aan de ondernemer onderscheidenlijk de groep is of zijn verstrekt of gelijktijdig wordt of worden verstrekt niet meer bedraagt dan € 150.000.000.    
 
 g. de bankgarantiefaciliteit draagt zelfstandig bij aan het realiseren van een actief en winstgericht beleid van de financier;  
 
@@ -9962,7 +9935,7 @@ a. de financier onder de bankgarantie aan de begunstigde heeft betaald en de ond
 
 b. de financier het noodzakelijk acht om de garantstelling van de Staat te handhaven bij de financiering van de vordering die is ontstaan op de ondernemer door betaling aan de begunstigde onder de bankgarantie;  
 
-c. de financier een overeenkomst als bedoeld in artikel 3.137 van de Regeling nationale EZ-subsidies heeft gesloten.    
+c. de financier een overeenkomst als bedoeld in artikel 3.13.7 van de Regeling nationale EZ-subsidies heeft gesloten.    
 
 2. Indien een financier een wijziging wil realiseren als bedoeld in het eerste lid, dient de financier een verzoek daartoe in bij de minister.  
 
@@ -10056,7 +10029,7 @@ b. in geval van homologatie van een akkoord als bedoeld in het eerste lid, onder
 
 ####Inroepen van garantstelling en toetsing
 
-1. De financier verzoekt de Staat binnen zes maanden nadat zich de in artikel 12, eerste lid, bedoelde situatie heeft voorgedaan om betaling op grond van de garantie met gebruikmaking van een formulier, overeenkomstig een model dat als bijlage bij deze overeenkomst is gevoegd, onder bijvoeging van de inschrijving in het register van de ontbinding van de rechtspersoon of van de in artikel 12, eerste lid, onder d, bedoelde akkoorden en van andere bescheiden als genoemd in de model garantstellingsovereenkomst 3.14 van de Regeling nationale EZ-subsidies.  
+1. De financier verzoekt de Staat binnen zes maanden nadat zich de in artikel 12, eerste lid, bedoelde situatie heeft voorgedaan om betaling op grond van de garantie met gebruikmaking van een formulier, overeenkomstig een model dat als bijlage bij deze overeenkomst is gevoegd, onder bijvoeging van de inschrijving in het register van de ontbinding van de rechtspersoon of van de in artikel 12, eerste lid, onder d, bedoelde akkoorden en van andere bescheiden.  
 
 2. Indien naar het oordeel van de Staat sprake is van een verlies als bedoeld in artikel 12, maakt de financier aanspraak op betaling van 50% van het geleden verlies, tenzij de financier in gebreke is gebleven bij de naleving van deze overeenkomst. De Staat bericht hierover de financier binnen dertien weken na ontvangst van het betalingsverzoek onder vermelding van het te betalen bedrag.   
 
@@ -10086,7 +10059,7 @@ b. ten aanzien van de financier een verzoek bij de rechtbank is ingediend tot ve
 
 c. de financier, in geval deze rechtspersoonlijkheid heeft, is ontbonden;  
 
-d. de bepalingen in paragraaf 3.14 van de Regeling nationale EZ-subsidies niet langer verenigbaar zijn met de regels van de Europese Gemeenschappen ten aanzien van staatssteun.    
+d. de bepalingen in titel 3.14 van de Regeling nationale EZ-subsidies niet langer verenigbaar zijn met de regels van de Europese Gemeenschappen ten aanzien van staatssteun.    
 
 2. Een opzegging op grond van het eerste lid, onder a, geschiedt uitsluitend nadat de Staat de financier op de hoogte heeft gesteld van het voornemen tot opzegging en nadat deze in de gelegenheid is gesteld om een tekortschieten dat hersteld kan worden te herstellen binnen een redelijke termijn.  
 
@@ -10138,13 +10111,13 @@ Partijen:
 
 ####Definities
 
-1. In deze overeenkomst hebben de begrippen die in het Kaderbesluit nationale EZ-subsidies en hoofdstuk 8 van de Subsidieregeling starten, groeien en overdragen van ondernemingen zijn gedefinieerd de in deze regelingen gegeven betekenis.  
+1. In deze overeenkomst hebben de begrippen die in het Kaderbesluit nationale EZ-subsidies en titel 3.15 van de Regeling nationale EZ-subsidies zijn gedefinieerd de in deze regelingen gegeven betekenis.  
 
 2. In aanvulling op het eerste lid en voor zover toepasselijk ter nadere concretisering van de in het eerste lid bedoelde begrippen wordt verstaan onder: 
 
-a.  *de beschikking:* de beschikking met kenmerk .......... waarbij de Minister van Economische Zaken, handelend als bestuursorgaan, de Bank een subsidie heeft verstrekt als bedoeld in artikel 8.3 van de Subsidieregeling starten, groeien en overdragen van ondernemingen en van welke beschikking een kopie bij deze Overeenkomst behoort (bijlage 2);  
+a.  *de beschikking:* de beschikking met kenmerk .......... waarbij de Minister van Economische Zaken, handelend als bestuursorgaan, de Bank een subsidie heeft verstrekt als bedoeld in artikel 3.15.2 van de Regeling nationale EZ-subsidies en van welke beschikking een kopie bij deze Overeenkomst behoort (bijlage 2);  
 
-b.  *Overeenkomst:* de onderhavige overeenkomst ingevolge welke een garantie wordt verstrekt aan de Bank als bedoeld in artikel 8.3 van de Subsidieregeling starten, groeien en overdragen van ondernemingen;  
+b.  *Overeenkomst:* de onderhavige overeenkomst ingevolge welke een garantie wordt verstrekt aan de Bank als bedoeld in artikel 3.15.2 van de Regeling nationale EZ-subsidies;  
 
 c.  *het staatsgarantiebedrag:* het bedrag waarvoor de Staat maximaal garant staat ingevolge de Overeenkomst;  
 
@@ -10338,7 +10311,7 @@ b. in ieder geval na ommekomst van twaalf maanden na ontvangst door de Staat van
 
 1. Bij de uitvoering van deze garantieovereenkomst zullen Partijen zich gedragen in overeenstemming met de redelijkheid en billijkheid als bedoeld in artikel 248 van Boek 6 BW.  
 
-2. Wijziging of beëindiging van de Subsidieregeling starten, groeien en overdragen van ondernemingen tast de geldigheid van deze garantieovereenkomst niet aan.  
+2. Wijziging of beëindiging van de Regeling nationale EZ-subsidies tast de geldigheid van deze garantieovereenkomst niet aan.  
 
 3. Bepalingen die naar hun aard bestemd zijn om ook na beëindiging van de Overeenkomst voort te duren, behouden nadien hun werking.   
 
@@ -10372,15 +10345,15 @@ Deze Overeenkomst treedt in werking door de ondertekening daarvan door de Partij
 
 Ondergetekende, [rechtspersoon: naam], statutair gevestigd te (plaats) en kantoorhoudende te (plaats) aan (adres en postcode) vertegenwoordigd door haar bestuurder(s) de heer/mevrouw (naam), en .........., ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer (nummer); [*OF*] [personenvennootschap: naam], kantoorhoudende te (plaats) aan (adres en postcode) ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer (nummer); [*OF*] [natuurlijk persoon, handelende onder de bedrijfsnaam: bedrijfsnaam] Kantoorhoudende te (plaats) aan (adres en postcode) ingeschreven in het handelsregister van de Kamer van Koophandel onder nummer (nummer); [*OF*] [natuurlijk persoon, niet handelende onder een bedrijfsnaam: naam, adres, beroep]; Verklaart het volgende: 
 
-1. Deze verklaring dient als bijlage bij de aanvraag van .......................................................................................[naam, adres aanvrager], hierna de Ondernemer, voor het verkrijgen van Vroegefasefinanciering (hierna: VVF) voor het vernieuwwings- of vroegefasetraject [.......................................]<sup> 6 Hier invoegen: een korte omschrijving van het vernieuwings- of vroegefasetraject. </sup>(hierna: traject).  
+1. Deze verklaring dient als bijlage bij de aanvraag van .......................................................................................[naam, adres aanvrager], hierna de Ondernemer, voor het verkrijgen van Vroegefasefinanciering (hierna: VVF) voor het vernieuwings- of vroegefasetraject [.......................................]<sup> 6 Hier invoegen: een korte omschrijving van het vernieuwings- of vroegefasetraject. </sup>(hierna: traject).  
 
-2. Ondergetekende is voornemens per...........................]<sup> 7 Hier invoegen: een concrete datum. </sup> aan de Ondernemer financiering te verstrekken tot een bedrag van [..........................]<sup> 8 Hier invoegen: het bedrag dat Ondergetekende voornemens is te verstrekken en tevens minimaal het bedrag waarvoor de Ondernemer Vroegefasefinanciering aanvraagt. </sup>.  
+2. Ondergetekende is voornemens per...........................]<sup> 7 Hier invoegen: een concrete datum. </sup> aan de Ondernemer financiering te verstrekken voor ten minste een bedrag van [..........................]<sup> 8 Hier invoegen: het bedrag dat Ondergetekende voornemens is te verstrekken en tevens minimaal het bedrag waarvoor de Ondernemer Vroegefasefinanciering aanvraagt. </sup>.  
 
 3. Het traject waarvoor de Ondernemer VFF aanvraagt is ook voor ondergetekende van belang omdat het helpt vragen op te lossen die van belang zijn voor het besluit van Ondergetekende inzake plannen tot financiering van de Ondernemer in de fase die volgt op het traject.  
 
 4. De Ondernemer beschikt over onvoldoende middelen om het traject zelf te bekostigen.  
 
-5. Als Ondergetekende binnen drie jaar na de datum van ondertekening van deze verklaring terugkomt op zijn voornemen tot financiering of als hij besluit dat hij geen financiering zal verstrekken zal Ondergetekende de Ondernemer en de contactpersoon van de Ondernemer bij de Rijksdienst voor Ondernemend Nederland dit schriftelijk berichten met een korte vermelding van de beweegredenen. Deze melding speelt een rol in het kader van de uitvoering van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen.  
+5. Als Ondergetekende binnen drie jaar na de datum van ondertekening van deze verklaring terugkomt op zijn voornemen tot financiering of als hij besluit dat hij geen financiering zal verstrekken zal Ondergetekende de Ondernemer en de contactpersoon van de Ondernemer bij de Rijksdienst voor Ondernemend Nederland dit schriftelijk berichten met een korte vermelding van de beweegredenen. Deze melding speelt een rol in het kader van de uitvoering van titel 3.16 van de Regeling nationale EZ-subsidies.  
 
 6. Door het ondertekenen van deze verklaring gaat Ondergetekende geen verplichtingen aan jegens de Ondernemer of de Rijksdienst voor Ondernemend Nederland.   Deze verklaring is naar waarheid afgelegd te .......................... op .......................... .......................... 
 
@@ -10468,7 +10441,7 @@ b. er een risico is dat Leningnemer per saldo te veel financiering ontvangt en d
 
 ### Artikel  5  
 
-####Uiterste datum waarop een volgende tranche opvraagbaar is.
+####Uiterste datum waarop een volgende tranche opvraagbaar is
 
 Leningnemer kan de tweede tranche of het tweede deel van de tweede tranche opvragen tot uiterlijk [pm datum]<sup> 14 Datum: 2 jaar na datum inwerkingtreding. </sup>. Daarna kan Leningnemer niet meer trekken op de VFF-lening. 
 
@@ -12077,7 +12050,7 @@ Ontwikkelen en demonstreren van innovatieve PV-producten die voornamelijk zijn g
 
 ### Bijlage 4.3.1 
 
-####, behorend bij artikel 4.3.1  van de Subsidieregeling nationale EZ-subsidies
+####, behorend bij artikel 4.3.1  van de Regeling nationale EZ-subsidies
 
 ####Model Geologisch Onderzoek
 
@@ -12199,7 +12172,7 @@ Figuur 1: Voorbeeld van overschrijdingskansgrafiek
 
 ### Bijlage 4.3.2 
 
-####, behorende bij artikel 4.3.1  van de Subsidieregeling nationale EZ-subsidies
+####, behorende bij artikel 4.3.1  van de Regeling nationale EZ-subsidies
 
 ####Model Puttestrapportage
 

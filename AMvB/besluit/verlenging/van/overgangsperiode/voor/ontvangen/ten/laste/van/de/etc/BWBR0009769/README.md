@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 17 juni 1998, VPZ/VU-982019, gedaan in overeenstemming met de Staatssecretaris van Sociale Zaken en Werkgelegenheid; 
 
-Gelet op [artikel 6, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md); 
+Gelet op artikel 6, eerste lid, van de Algemene Wet Bijzondere Ziektekosten; 
 
 De Raad van State gehoord (advies van 26 juni 1998, no.W13.98 0255); 
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Indien een verzekerde op 31 december 1997 op grond van [artikel 15, eerste lid, onder a, van het Besluit zorgaanspraken bijzondere ziektekostenverzekering](../../../../../../../../../../../../../AMvB/besluit/zorgaanspraken/bijzondere/ziektekostenverzekering/BWBR0005283/README.md) verpleging of verzorging gedurende meer dan 3 uren per dag ontving en deze op 30 juni 1998 nog ontving, behoudt hij aanspraak op die zorg overeenkomstig de op 31 december 1997 geldende wettelijke voorschriften voor zover de verzekerde, gelet op zijn behoefte en uit een oogpunt van doelmatige zorgverlening, redelijkerwijs daarop naar aard, inhoud en omvang is aangewezen.  
+Indien een verzekerde op 31 december 1997 op grond van artikel 15, eerste lid, onder a, van het Besluit zorgaanspraken bijzondere ziektekostenverzekering verpleging of verzorging gedurende meer dan 3 uren per dag ontving en deze op 30 juni 1998 nog ontving, behoudt hij aanspraak op die zorg overeenkomstig de op 31 december 1997 geldende wettelijke voorschriften voor zover de verzekerde, gelet op zijn behoefte en uit een oogpunt van doelmatige zorgverlening, redelijkerwijs daarop naar aard, inhoud en omvang is aangewezen.  
 
 ### Artikel  2  
 

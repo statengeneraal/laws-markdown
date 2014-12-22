@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Sociale Zaken en Werkgelegenheid van 23 augustus 2012, INSP/2012/11430 , houdende de inrichting van de directie Opsporing, alsmede de toedeling van taken en doorverlening van vertegenwoordigingsbevoegdheden aan de onder de directeur ressorterende functionarissen (Organisatie-, mandaat- en volmachtbesluit directie Opsporing 2012)
 
 De Minister van Sociale Zaken en Werkgelegenheid,  
-Gelet op de [artikelen 4, onderdeel l](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2012/BWBR0030867/README.md), en [14 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2012/BWBR0030867/README.md);
+Gelet op de artikelen 4, onderdeel l, en 14 van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012;
 Besluit:     
 ### §  1  
 
@@ -21,7 +21,7 @@ b. *de directeur:* de directeur van de directie Opsporing;
 
 c. *de teamleider CIE:* de functionaris die rechtstreeks ressorteert onder het hoofd van de afdeling Opsporingsinformatie en leiding geeft aan het team Criminele Inlichtingen Eenheid SZW van die afdeling.  
 
-d. *criminele inlichtingen:* gegevens, die in aanmerking komen voor verwerking op grond van [artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens](../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md).   
+d. *criminele inlichtingen:* gegevens, die in aanmerking komen voor verwerking op grond van artikel 10, eerste lid, onderdeel a, van de Wet politiegegevens.   
 
 ### §  2  
 
@@ -35,10 +35,12 @@ d. *criminele inlichtingen:* gegevens, die in aanmerking komen voor verwerking o
 
 a. de afdeling Opsporingsinformatie;  
 
-b. de afdeling Recherche.     
+b. de afdeling Recherche A;  
+
+c. de afdeling Recherche B.     
 2.  Aan het hoofd van iedere afdeling staat een afdelingshoofd.   
 3.  De afdelingshoofden worden beiden bijgestaan door onder hen ressorterende teamleiders.   
-4.  Van de afdeling Opsporingsinformatie maakt onderdeel uit de Criminele Inlichtingen Eenheid SZW; deze criminele inlichtingen eenheid is de criminele inlichtingen eenheid, genoemd in [artikel 2, eerste lid, van het Besluit instelling criminele inlichtingen eenheid SIOD](../../../../../../../../../ministeriele-regeling/besluit/instelling/criminele/inlichtingen/eenheid/siod/BWBR0015445/README.md).  
+4.  Van de afdeling Opsporingsinformatie maakt onderdeel uit de Criminele Inlichtingen Eenheid SZW; deze criminele inlichtingen eenheid is de criminele inlichtingen eenheid, genoemd in artikel 2, eerste lid, van het Besluit instelling criminele inlichtingen eenheid SIOD.  
 
 ### §  3  
 
@@ -56,7 +58,7 @@ b. het afleggen van verantwoording en het rapporteren aan de directeur over bijd
 
 c. het doen van voorstellen aan het IG-team met betrekking tot het aantrekken en ontslaan van personeel;  
 
-d. het bijdragen aan de totstandkoming van inspectiebrede producten als bedoeld in [artikel 5, eerste lid, onderdelen a, e, f, h en j](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2012/BWBR0030867/README.md), en [artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/inspecteur-generaal/szw/2012/BWBR0030867/README.md), binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen.   
+d. het bijdragen aan de totstandkoming van inspectiebrede producten als bedoeld in artikel 5, eerste lid, onderdelen a, e, f, h en j, en artikel 8, onderdeel d, van het Organisatie-, mandaat- en volmachtbesluit inspecteur-generaal SZW 2012, binnen de daarvoor geldende departementale kaders dan wel volgens door de inspecteur-generaal dan wel de directeur gegeven richtlijnen.   
 
 ### Artikel  4  
 
@@ -76,7 +78,7 @@ e. het op specialistisch gebied participeren in of ondersteunen van opsporingson
 
 f. het voorbereiden en ondersteunen van opsporingsonderzoeken;  
 
-g. het deelnemen aan het selectieoverleg met het Openbaar Ministerie;  
+g. het deelnemen aan selectieoverleggen met het Openbaar Ministerie;  
 
 h. het ondersteunen van gemeenten met analyse en specialistische ICT;  
 
@@ -84,17 +86,17 @@ i. het rapporteren over de opsporingsactiviteiten van de eigen afdeling aan de d
 
 ### Artikel  5  
 
-####Verantwoordelijkheden afdeling Recherche
+####Verantwoordelijkheden afdelingen Recherche A en Recherche B
 
-De afdeling Recherche is verantwoordelijk voor: 
+De afdelingen Recherche A en Recherche B zijn verantwoordelijk voor: 
 
-a. het uitvoeren van opsporingsonderzoeken en het treffen van de benodigde maatregelen tijdens de onderzoeken van de eigen afdeling;  
+a. het uitvoeren van opsporingsonderzoeken, waaronder begrepen opsporingsonderzoeken op beleidsterreinen waarvoor de Minister van Volksgezondheid, Welzijn en Sport verantwoordelijkheid draagt en waarvan de strafrechtelijke handhaving door deze minister aan de directie is toegedeeld, en het treffen van de benodigde maatregelen tijdens de onderzoeken van de eigen afdeling;  
 
 b. het ondersteunen van gemeenten met strafrechtelijk onderzoek;  
 
-c. het deelnemen aan het selectieoverleg met het Openbaar Ministerie;  
+c. het deelnemen aan selectieoverleggen met het Openbaar Ministerie;  
 
-d. het rapporteren over de opsporingsonderzoeken van de eigen afdeling aan de directeur en het Openbaar Ministerie.   
+d. het rapporteren over de opsporingsonderzoeken van de eigen afdeling aan de directeur, het Openbaar Ministerie en aan de Minister van Volksgezondheid, Welzijn en Sport voor zover het de aan de directie toegedeelde strafrechtelijke handhaving betreft op beleidsterreinen waarvoor de Minister van Volksgezondheid, Welzijn en Sport verantwoordelijkheid draagt.   
 
 ### §  4  
 
@@ -112,19 +114,19 @@ b. het nemen van besluiten over en het ondertekenen van stukken die betrekking h
 
 c. het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de uitvoering van opsporingsactiviteiten van de eigen afdeling;  
 
-d. het verzamelen van criminele inlichtingen, overeenkomstig het bij of krachtens de [Wet politiegegevens](../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) bepaalde;  
+d. het verzamelen van criminele inlichtingen, overeenkomstig het bij of krachtens de Wet politiegegevens bepaalde;  
 
-e. het verlenen van autorisatie aan de op grond van [artikel 6, tweede lid, van de Regeling criminele inlichtingen eenheden](../../../../../../../../../ministeriele-regeling/regeling/criminele/inlichtingen/eenheden/BWBR0011685/README.md) bekend gemaakte ambtenaren van elke criminele inlichtingen eenheid alsmede aan de daarvoor aangewezen ambtenaren van de criminele inlichtingen eenheden bij de bijzondere opsporingsdiensten overeenkomstig het bij of krachtens de [Wet politiegegevens](../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md) bepaalde;  
+e. het verlenen van autorisatie aan de op grond van artikel 6, tweede lid, van de Regeling criminele inlichtingen eenheden bekend gemaakte ambtenaren van elke criminele inlichtingen eenheid alsmede aan de daarvoor aangewezen ambtenaren van de criminele inlichtingen eenheden bij de bijzondere opsporingsdiensten overeenkomstig het bij of krachtens de Wet politiegegevens bepaalde;  
 
-f. het bepalen van de termijn, bedoeld in [artikel 7, tweede lid, van het Besluit instelling criminele inlichtingen eenheid SIOD](../../../../../../../../../ministeriele-regeling/besluit/instelling/criminele/inlichtingen/eenheid/siod/BWBR0015445/README.md).   
+f. het bepalen van de termijn, bedoeld in artikel 7, tweede lid, van het Besluit instelling criminele inlichtingen eenheid SIOD.   
 
 ### Artikel  7  
 
-####Mandaten en machtigingen hoofd afdeling Recherche
+####Mandaten en machtigingen hoofden afdelingen Recherche A en Recherche B
 
-Aan het hoofd van de afdeling Recherche wordt mandaat en machtiging verleend met betrekking tot: 
+Aan de hoofden van de afdelingen Recherche A en Recherche B wordt mandaat en machtiging verleend met betrekking tot: 
 
-a. het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de uitvoering van opsporingsonderzoeken van de afdeling en de [Circulaire bijzondere opsporingsgelden](../../../../../../../../../circulaire/circulaire/bijzondere/opsporingsgelden/BWBR0031370/README.md);  
+a. het nemen van besluiten over en het vaststellen en ondertekenen van stukken die betrekking hebben op de uitvoering van opsporingsonderzoeken van de afdeling en de Circulaire bijzondere opsporingsgelden;  
 
 b. het nemen van besluiten over en het ondertekenen van stukken die betrekking hebben op het selectieoverleg tussen de directie en het Openbaar Ministerie;  
 
@@ -186,7 +188,7 @@ De teamleider CIE is gevolmachtigd tot het aangaan van overeenkomsten ter waarde
 
 ####Intrekking
 
-Het [Organisatie-, mandaat- en volmachtbesluit SIOD 2009](../../../../../../../../../ministeriele-regeling/organisatie-/mandaat-/en/volmachtbesluit/siod/2009/BWBR0025372/README.md) wordt ingetrokken. 
+Het Organisatie-, mandaat- en volmachtbesluit SIOD 2009 wordt ingetrokken. 
 
 ### Artikel  14  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport, 26 mei 1999, Z/VV-99.1469;
 
-Gelet op [artikel 6, zesde lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);
+Gelet op artikel 6, zesde lid, van de Algemene Wet Bijzondere Ziektekosten;
 
 Gezien de brief van de Ziekenfondsraad van 16 augustus 1995, VERZ/33134/95;
 
@@ -21,7 +21,7 @@ Wijzigt het Besluit wachttijd bijzondere ziektekostenverzekering.
 
 ### Artikel  II  
 
-Met betrekking tot onderdanen van lidstaten van de Europese Unie die zich voorafgaand aan de inwerkingtreding van dit besluit in Nederland hebben gevestigd, wordt [artikel 3 van het Besluit wachttijd bijzondere ziektekosten](../../../../../../../AMvB/besluit/wachttijd/bijzondere/ziektekostenverzekering/BWBR0005337/README.md) , zoals dat luidde voor de inwerkingtreding van dit besluit, toegepast. 
+Met betrekking tot onderdanen van lidstaten van de Europese Unie die zich voorafgaand aan de inwerkingtreding van dit besluit in Nederland hebben gevestigd, wordt artikel 3 van het Besluit wachttijd bijzondere ziektekosten , zoals dat luidde voor de inwerkingtreding van dit besluit, toegepast. 
 
 ### Artikel  III  
 

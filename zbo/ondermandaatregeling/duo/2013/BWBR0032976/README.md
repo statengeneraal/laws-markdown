@@ -3,13 +3,13 @@
 ##Besluit van de directeur-generaal DUO van 6 februari 2013, houdende de vaststelling van de Ondermandaatregeling DUO 2013 (Ondermandaatregeling DUO 2013)
 
 De directeur-generaal DUO,  
-Gelet op het [Organisatie- en mandaatbesluit OCW 2008](../../../../../ministeriele-regeling/organisatie-/en/mandaatbesluit/ocw/2008/BWBR0023543/README.md);
+Gelet op het Organisatie- en mandaatbesluit OCW 2008;
 
-Gelet op het [Mandaatbesluit beschermde stads- en dorpsgezichten](../../../../../ministeriele-regeling/mandaatbesluit/beschermde/stads-/en/dorpsgezichten/BWBR0027565/README.md);
+Gelet op het Mandaatbesluit beschermde stads- en dorpsgezichten;
 
-Gelet op het [Besluit mandaat en machtiging directeur-generaal Dienst Uitvoering Onderwijs](../../../../../ministeriele-regeling/besluit/mandaat/en/machtiging/directeur-generaal/dienst/uitvoering/etc/BWBR0031427/README.md);
+Gelet op het Besluit mandaat en machtiging directeur-generaal Dienst Uitvoering Onderwijs;
 
-Gelet op het [Besluit mandaat, volmacht en machtiging Dienst Uitvoering Onderwijs Wet- en regelgeving inburgering 2013](../../../../../ministeriele-regeling/besluit/mandaat/volmacht/en/machtiging/dienst/uitvoering/onderwijs/wet-/en/etc/BWBR0032593/README.md);
+Gelet op het Besluit mandaat, volmacht en machtiging Dienst Uitvoering Onderwijs Wet- en regelgeving inburgering 2013;
 Besluit:    
 
 ### Artikel  1  
@@ -22,7 +22,7 @@ De volgende functionarissen hebben mandaat ten aanzien van alle aangelegenheden 
 
 ####Mandaat voor Personele bevoegdheden
 
-De managers van de eerste en tweede managementlaag onder het niveau van directeur-generaal hebben mandaat voor het nemen van personele besluiten als bedoeld in [artikel 14, derde lid van het Organisatie- en mandaatbesluit OCW 2008](../../../../../ministeriele-regeling/organisatie-/en/mandaatbesluit/ocw/2008/BWBR0023543/README.md) ten behoeve van het onder hen ressorterende personeel. 
+De managers van de eerste en tweede managementlaag onder het niveau van directeur-generaal hebben mandaat voor het nemen van personele besluiten als bedoeld in artikel 14, derde lid van het Organisatie- en mandaatbesluit OCW 2008 ten behoeve van het onder hen ressorterende personeel. 
 
 ### Artikel  3  
 
@@ -42,7 +42,7 @@ c. het instellen van enig rechtsmiddel tegen uitspraken in de onder b. genoemde 
 
 ####Mandaat aan anderen en ondermandaat
 
-1.  De directeur-generaal DUO, de hoofddirecteur Uitvoering & Dienstverlening en de hoofddirecteur Bedrijfsvoering kunnen, onverminderd het [Organisatie- en mandaatbesluit OCW 2008](../../../../../ministeriele-regeling/organisatie-/en/mandaatbesluit/ocw/2008/BWBR0023543/README.md) bij afzonderlijk besluit mandaat aan anderen dan de in artikel 1, 2 en 3 genoemde functionarissen verlenen.   
+1.  De directeur-generaal DUO, de hoofddirecteur Uitvoering & Dienstverlening en de hoofddirecteur Bedrijfsvoering kunnen, onverminderd het Organisatie- en mandaatbesluit OCW 2008 bij afzonderlijk besluit mandaat aan anderen dan de in artikel 1, 2 en 3 genoemde functionarissen verlenen.   
 2.  Het verlenen van ondermandaat is slechts mogelijk voor zover dat bij deze regeling of afzonderlijk besluit van de directeur-generaal DUO, de hoofddirecteur Uitvoering & Dienstverlening of hoofddirecteur Bedrijfsvoering is toegestaan.  
 
 ### Artikel  5  

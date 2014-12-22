@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Binnenlandse Zaken van 14 september 1993, nr. BW93/U1933, directoraat-generaal Openbaar Bestuur, gedaan mede namens Onze Minister van Binnenlandse Zaken; 
 
-Gelet op de [artikelen 43](../../../../wet/provinciewet/BWBR0005645/README.md), eerste en tweede lid, en [51, tweede lid, van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md); 
+Gelet op de artikelen 43, eerste en tweede lid, en 51, tweede lid, van de Provinciewet; 
 
 De Raad van State gehoord (advies van 8 februari 1994, nr. W04.93.0630.); 
 
@@ -24,13 +24,13 @@ a. Onze Minister: Onze Minister van Binnenlandse Zaken;
 
 b. bezoldiging: de bezoldiging, bedoeld in artikel 3;   
 
-c. tijdstip van beëindiging van het ambt van gedeputeerde: het tijdstip van aftreden, bedoeld in [artikel 41, eerste lid, van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md), de dag van ingang van het ontslag, bedoeld in [artikel 42](../../../../wet/provinciewet/BWBR0005645/README.md), tweede lid, en [artikel 46, eerste lid, van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md), de dag van ingang van het ontslag, bedoeld in [artikel 49 van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) of de dag volgende op die van het overlijden;   
+c. tijdstip van beëindiging van het ambt van gedeputeerde: het tijdstip van aftreden, bedoeld in artikel 41, eerste lid, van de Provinciewet, de dag van ingang van het ontslag, bedoeld in artikel 42, tweede lid, en artikel 46, eerste lid, van de Provinciewet, de dag van ingang van het ontslag, bedoeld in artikel 49 van de Provinciewet of de dag volgende op die van het overlijden;   
 
 d. voormalig gedeputeerde: de gedeputeerde die is afgetreden of ontslagen of die het lidmaatschap van provinciale staten heeft verloren, dan wel is overleden.    
 
 ### Artikel  2  
 
-Dit besluit is van overeenkomstige toepassing op de gedeputeerde die ingevolge [artikel 35a, derde en vierde lid, van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) de betrekking in deeltijd uitoefent, tenzij anders is bepaald.
+Dit besluit is van overeenkomstige toepassing op de gedeputeerde die ingevolge artikel 35a, derde en vierde lid, van de Provinciewet de betrekking in deeltijd uitoefent, tenzij anders is bepaald.
 
 ### Hoofdstuk  2  
 
@@ -45,7 +45,7 @@ Dit besluit is van overeenkomstige toepassing op de gedeputeerde die ingevolge [
 
 1.   De gedeputeerde geniet een vakantie-uitkering en een eindejaarsuitkering overeenkomstig de bepalingen welke daaromtrent voor het personeel in de sector Rijk zijn vastgesteld.    
 2.   Indien aan het personeel in de sector Rijk een eenmalige uitkering wordt toegekend, ontvangt de gedeputeerde een uitkering op gelijke voet.    
-3.   De gedeputeerde die ingevolge [artikel 35, tweede lid, van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) de betrekking in deeltijd uitoefent, ontvangt de bezoldiging, bedoeld in artikel 3, naar evenredigheid met de vastgestelde tijdsbestedingsnorm, bedoeld in [artikel 35, vierde lid, van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md).   
+3.   De gedeputeerde die ingevolge artikel 35, tweede lid, van de Provinciewet de betrekking in deeltijd uitoefent, ontvangt de bezoldiging, bedoeld in artikel 3, naar evenredigheid met de vastgestelde tijdsbestedingsnorm, bedoeld in artikel 35, vierde lid, van de Provinciewet.   
 
 ### Artikel  5  
 
@@ -54,7 +54,7 @@ Dit besluit is van overeenkomstige toepassing op de gedeputeerde die ingevolge [
 
 ###Artikel 5a 
 
-Indien een gedeputeerde naast zijn bezoldiging als gedeputeerde tevens aanspraak heeft op vergoeding voor de werkzaamheden als statenlid gedurende een tijdvak als bedoeld in [artikel 35c, tweede lid, onder a of b, van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md), dan vervalt gedurende dit tijdvak zijn aanspraak op een vergoeding voor de werkzaamheden als statenlid.
+Indien een gedeputeerde naast zijn bezoldiging als gedeputeerde tevens aanspraak heeft op vergoeding voor de werkzaamheden als statenlid gedurende een tijdvak als bedoeld in artikel 35c, tweede lid, onder a of b, van de Provinciewet, dan vervalt gedurende dit tijdvak zijn aanspraak op een vergoeding voor de werkzaamheden als statenlid.
 
 ### Artikel  5b  
 
@@ -69,7 +69,7 @@ Indien een gedeputeerde naast zijn bezoldiging als gedeputeerde tevens aanspraak
 ### Artikel  6  
 
 1.  In geval van overlijden van de gedeputeerde wordt aan de weduwe of weduwnaar van wie de overleden gedeputeerde niet duurzaam gescheiden leefde een bedrag uitgekeerd, gelijk aan de bezoldiging vermeerderd met de vakantie-uitkering, welke de gedeputeerde laatstelijk genoot over een tijdvak van drie maanden. Indien de overledene geen weduwe of weduwnaar van wie de overleden gedeputeerde niet duurzaam gescheiden leefde nalaat, geschiedt de uitkering ten behoeve van de minderjarige wettige of natuurlijke kinderen, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of grotendeels afhankelijk waren van de bezoldiging van de gedeputeerde.    
-2.  Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden gedeputeerde ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in [artikel 3, derde en vierde lid, van de Algemene nabestaandenwet](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md). 
+2.  Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden gedeputeerde ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in artikel 3, derde en vierde lid, van de Algemene nabestaandenwet. 
 
 ### Hoofdstuk  3  
 
@@ -86,7 +86,7 @@ De tijdelijke vervanger van de gedeputeerde die verlof heeft wegens zwangerschap
 ### Artikel  8  
 
 1. De gedeputeerde die verlof heeft wegens zwangerschap en bevalling of ziekte, ontvangt een onkostenvergoeding voor overige aan de uitoefening van het ambt verbonden kosten ter hoogte van de helft van het in artikel 21 bedoelde bedrag.  
-2.  In afwijking van [artikel XI van het Besluit van 12 juni 2013 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit burgemeesters, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit wethouders, het Rechtspositiebesluit staten- en commissieleden, het Rechtspositiebesluit raads- en commissieleden, het Waterschapsbesluit en het Rechtspositiebesluit Rijksvertegenwoordiger BES in verband met een wijziging in de regeling inzake ambtswoningen en enkele andere wijzigingen](../../../../AMvB/wijzigingsbesluit/rechtspositiebesluit/commissarissen/van/de/koning/enz./etc/BWBR0033575/README.md) (Stb. 2013, 222), werkt het eerste lid niet terug tot en met 3 augustus 2011. 
+2.  In afwijking van artikel XI van het Besluit van 12 juni 2013 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit burgemeesters, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit wethouders, het Rechtspositiebesluit staten- en commissieleden, het Rechtspositiebesluit raads- en commissieleden, het Waterschapsbesluit en het Rechtspositiebesluit Rijksvertegenwoordiger BES in verband met een wijziging in de regeling inzake ambtswoningen en enkele andere wijzigingen (Stb. 2013, 222), werkt het eerste lid niet terug tot en met 3 augustus 2011. 
 
 ### §  2  
 
@@ -110,8 +110,8 @@ b. voor zover de ziekte of het dienstongeval niet aan eigen schuld of onvoorzich
 
 ### Artikel  17  
 
-1.  Gedeputeerde staten kennen een gedeputeerde die naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van de provincie op aanvraag een tegemoetkoming toe voor de bekostiging van een voorziening als bedoeld in [artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
-2.  Het gestelde bij of krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.  
+1.  Gedeputeerde staten kennen een gedeputeerde die naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van de provincie op aanvraag een tegemoetkoming toe voor de bekostiging van een voorziening als bedoeld in artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen.   
+2.  Het gestelde bij of krachtens artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.  
 
 ###§ 2a 
 
@@ -157,7 +157,7 @@ Indien aan de gedeputeerde een dienstauto ter beschikking is gesteld en hij voor
 ### Artikel  22  
 
 1.  De gedeputeerde, die in de loop van het kalenderjaar is benoemd dan wel het ambt van gedeputeerde heeft beëindigd als bedoeld in artikel 1, onderdeel c , ontvangt de onkostenvergoeding, bedoeld in artikel 21, naar evenredigheid met de periode van uitoefening van het ambt in bedoeld kalenderjaar.    
-2.   De gedeputeerde die ingevolge [artikel 35a, derde lid, van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md) de betrekking in deeltijd uitoefent, ontvangt de onkostenvergoeding, bedoeld in artikel 21, naar evenredigheid met de vastgestelde tijdsbestedingsnorm, bedoeld in [artikel 35a, vierde lid, van de Provinciewet](../../../../wet/provinciewet/BWBR0005645/README.md).   
+2.   De gedeputeerde die ingevolge artikel 35a, derde lid, van de Provinciewet de betrekking in deeltijd uitoefent, ontvangt de onkostenvergoeding, bedoeld in artikel 21, naar evenredigheid met de vastgestelde tijdsbestedingsnorm, bedoeld in artikel 35a, vierde lid, van de Provinciewet.   
 
 ### Artikel  22a  
 
@@ -178,9 +178,9 @@ b.gebruik van een eigen computer, bijbehorende apparatuur en software.
 
 ### Artikel  23a  
 
-Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) worden aangewezen: 
+Als eindheffingsbestanddeel als bedoeld in artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964 worden aangewezen: 
 
-a. de vergoedingen en verstrekking, bedoeld in artikel 19, eerste lid, voor zover deze niet worden gerekend tot een vergoeding als bedoeld in [artikel 31a, tweede lid, onderdelen a en b, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+a. de vergoedingen en verstrekking, bedoeld in artikel 19, eerste lid, voor zover deze niet worden gerekend tot een vergoeding als bedoeld in artikel 31a, tweede lid, onderdelen a en b, van de Wet op de loonbelasting 1964;  
 
 b. de vergoeding, bedoeld in artikel 20;  
 
@@ -204,11 +204,11 @@ f. de vergoeding, bedoeld in artikel 23b, eerste en tweede lid.
 
 ### Artikel  24  
 
-Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): 
+Bij toepassing van artikel 39c van de Wet op de loonbelasting 1964: 
 
 a. wordt op aanvraag door het college van gedeputeerde staten een vergoeding verstrekt voor de belastingheffing als gevolg van de verstrekkingen, bedoeld in artikel 22a, eerste en derde lid;  
 
-b. wordt het bedrag, genoemd in artikel 21, eerste lid, of de vergoeding, bedoeld in artikel 23b, eerste en tweede lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md); en  
+b. wordt het bedrag, genoemd in artikel 21, eerste lid, of de vergoeding, bedoeld in artikel 23b, eerste en tweede lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001; en  
 
 c. bedraagt de vergoeding, bedoeld in artikel 20, ten hoogste de gebruteerde verschuldigde loon- en inkomstenbelastingvoor het gebruik van de dienstauto;  
 

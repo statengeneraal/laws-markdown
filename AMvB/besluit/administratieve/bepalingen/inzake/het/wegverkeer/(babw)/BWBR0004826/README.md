@@ -20,25 +20,25 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.  *begeleidingsvoertuig:* bedrijfsauto als bedoeld in [artikel 1.1, van de Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), met een toegestane maximummassa van niet meer dan 3500 kg dat is bestemd voor de begeleiding van exceptionele transporten als bedoeld in [artikel 1, onderdeel c, van het Besluit ontheffingverlening Dienst Wegverkeer exceptionele transporten](../../../../../../../../../AMvB/besluit/ontheffingverlening/exceptionele/transporten/BWBR0018680/README.md);  
+a.  *begeleidingsvoertuig:* bedrijfsauto als bedoeld in artikel 1.1, van de Regeling voertuigen, met een toegestane maximummassa van niet meer dan 3500 kg dat is bestemd voor de begeleiding van exceptionele transporten als bedoeld in artikel 1, onderdeel c, van het Besluit ontheffingverlening Dienst Wegverkeer exceptionele transporten;  
 
 b.  *verkeersregelaar met in het kader van zijn beroep verkeersregelende taken:* verkeersregelaar, niet zijnde transportbegeleider of verkeersregelaar die tot taak heeft eenvoudige verkeersregelende werkzaamheden te verrichten bij evenementen, die uit hoofde van zijn beroep verkeersregelende werkzaamheden verricht;  
 
-c.  *bevoegd gezag:* gezag als bedoeld in [artikel 18, eerste lid, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+c.  *bevoegd gezag:* gezag als bedoeld in artikel 18, eerste lid, van de wet;  
 
-d.  *gezichtsveldverbeterende voorziening:* voorziening als bedoeld in [artikel 5.3.45, zesde en elfde lid, van de Regeling voertuigen](../../../../../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md);  
+d.  *gezichtsveldverbeterende voorziening:* voorziening als bedoeld in artikel 5.3.45, zesde en elfde lid, van de Regeling voertuigen;  
 
 e.  *wegvak:* gedeelte van een weg tussen twee zijwegen of – indien geen zijweg aanwezig is – tussen twee punten waarop een verkeersmaatregel betrekking heeft;  
 
-f.  *experiment:* experiment als bedoeld in [artikel 186 van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+f.  *experiment:* experiment als bedoeld in artikel 186 van de wet;  
 
 g.  *experimentverkeersbesluit:* verkeersbesluit als bedoeld in artikel 60;  
 
-h.  *transportbegeleider:* verkeersregelaar die optreedt ter begeleiding van een exceptioneel transport als bedoeld in [artikel 1, onderdeel c, van het Besluit ontheffingverlening Dienst Wegverkeer exceptionele transporten](../../../../../../../../../AMvB/besluit/ontheffingverlening/exceptionele/transporten/BWBR0018680/README.md);  
+h.  *transportbegeleider:* verkeersregelaar die optreedt ter begeleiding van een exceptioneel transport als bedoeld in artikel 1, onderdeel c, van het Besluit ontheffingverlening Dienst Wegverkeer exceptionele transporten;  
 
-i.  *verkeersregelaar:* persoon behorend tot de ingevolge [artikel 12, eerste lid, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), aangewezen categorie, niet zijnde een persoon als bedoeld in [artikel 82, eerste lid, onderdeel d](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), of artikel 82, derde lid, van het RVV 1990;  
+i.  *verkeersregelaar:* persoon behorend tot de ingevolge artikel 12, eerste lid, van de wet, aangewezen categorie, niet zijnde een persoon als bedoeld in artikel 82, eerste lid, onderdeel d, of artikel 82, derde lid, van het RVV 1990;  
 
-j.  *wet:* [Wegenverkeerswet 1994](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).  
+j.  *wet:* Wegenverkeerswet 1994.  
 
 ### Artikel  1a  
 
@@ -74,16 +74,16 @@ c. verkeerstekens op het wegdek.
 
 ### Artikel  4a  
 
-1.  Grafische elementen van verschillende kleuren in de verkeersborden, bedoeld in [bijlage I, behorende bij het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), kunnen worden gescheiden door een contrasterende bies.   
-2.  De rode verkeersborden, bedoeld in [bijlage I, behorende bij het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), kunnen aan de omtrek worden voorzien van een witte bies.  
+1.  Grafische elementen van verschillende kleuren in de verkeersborden, bedoeld in bijlage I, behorende bij het RVV 1990, kunnen worden gescheiden door een contrasterende bies.   
+2.  De rode verkeersborden, bedoeld in bijlage I, behorende bij het RVV 1990, kunnen aan de omtrek worden voorzien van een witte bies.  
 
 ### Artikel  5  
 
-De verkeerslichten zijn de lichten genoemd in de [artikelen 68 tot en met 75 van het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md). 
+De verkeerslichten zijn de lichten genoemd in de artikelen 68 tot en met 75 van het RVV 1990. 
 
 ### Artikel  6  
 
-1.  De verkeerstekens op het wegdek die een gebod of verbod betreffen zijn de verkeerstekens genoemd in artikel 10, tweede lid, artikel 23, eerste lid, onderdeel e en g, artikel 24, eerste lid, onderdeel e, artikel 25, eerste lid, artikel 46, eerste lid, artikel 49, tweede lid en de [artikelen 76 tot en met 81 van het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md).   
+1.  De verkeerstekens op het wegdek die een gebod of verbod betreffen zijn de verkeerstekens genoemd in artikel 10, tweede lid, artikel 23, eerste lid, onderdeel e en g, artikel 24, eerste lid, onderdeel e, artikel 25, eerste lid, artikel 46, eerste lid, artikel 49, tweede lid en de artikelen 76 tot en met 81 van het RVV 1990.   
 2.   Andere verkeerstekens op het wegdek kunnen worden aangebracht ter geleiding van het verkeer, ter herinnering aan de ter plaatse geldende maximumsnelheid en ter aanduiding van andere omstandigheden.  
 
 ### Artikel  7  
@@ -103,9 +103,9 @@ a. een nadere uitleg van de op de verkeersborden voorkomende aanduiding inhouden
 
 b. bij verkeersborden die een gebod of verbod aanduiden, een beperking van de werkingssfeer van die verkeersborden inhouden;  
 
-c. bij bord C7 van [bijlage I, behorende bij het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), de aanduiding inhouden dat de uit dit verkeersbord voortvloeiende beperking niet geldt voor motorvoertuigen die zijn voorzien van een gezichtsveldverbeterende voorziening; 
+c. bij bord C7 van bijlage I, behorende bij het RVV 1990, de aanduiding inhouden dat de uit dit verkeersbord voortvloeiende beperking niet geldt voor motorvoertuigen die zijn voorzien van een gezichtsveldverbeterende voorziening; 
 
-d. bij de verkeersborden E4 tot en met E8 en E10 tot en met E13 van [bijlage 1, behorende bij het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), betrekking hebben op 
+d. bij de verkeersborden E4 tot en met E8 en E10 tot en met E13 van bijlage 1, behorende bij het RVV 1990, betrekking hebben op 
 
 1°. de voertuigcategorie of groep voertuigen waarvoor de parkeergelegenheid is bestemd en, voor zover het betreft bord E6, tevens op de aanduiding dat de parkeergelegenheid is gereserveerd voor een bepaald voertuig;  
 
@@ -115,11 +115,11 @@ d. bij de verkeersborden E4 tot en met E8 en E10 tot en met E13 van [bijlage 1, 
 
 4°. de dagen of uren waarop een beperking als bedoeld in 1° en 2° geldt en, voor zover:
 
-–het verkeersbord E6 betreft, de dagen of uren waarop het in het [tweede lid van artikel 26 van het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde gebruik van de parkeerschijf van toepassing is, en
+–het verkeersbord E6 betreft, de dagen of uren waarop het in het tweede lid van artikel 26 van het RVV 1990 bedoelde gebruik van de parkeerschijf van toepassing is, en
 
-–het verkeersbord E10 betreft, de dagen of uren waarop het in het [tweede lid van artikel 25 van het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) bedoelde gebruik van de parkeerschijf van toepassing is;    
+–het verkeersbord E10 betreft, de dagen of uren waarop het in het tweede lid van artikel 25 van het RVV 1990 bedoelde gebruik van de parkeerschijf van toepassing is;    
 
-e. bij de verkeersborden G7, G9, G11 en G12a van [bijlage 1, behorende bij het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), een aanduiding inhouden dat de uit het verkeersbord voortvloeiende geboden of verboden niet gelden voor het verkeersgebruik als op het onderbord is aangegeven.     
+e. bij de verkeersborden G7, G9, G11 en G12a van bijlage 1, behorende bij het RVV 1990, een aanduiding inhouden dat de uit het verkeersbord voortvloeiende geboden of verboden niet gelden voor het verkeersgebruik als op het onderbord is aangegeven.     
 3.  De in het tweede lid, onderdeel d, onder 1° en 2°, bedoelde aanduidingen kunnen in plaats van op een onderbord, ook op het verkeersbord worden aangebracht.  
 
 ### §  3  
@@ -128,9 +128,9 @@ e. bij de verkeersborden G7, G9, G11 en G12a van [bijlage 1, behorende bij het R
 
 ### Artikel  9  
 
-1.  Boven de verkeersborden A1, C1, C6 tot en met C22a, E1, E3, E9, G5 en G7 van [bijlage 1, behorende bij het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), kan het woord «zone» worden aangebracht. Hieraan kan een aanduiding van het gebied van de zone worden toegevoegd.   
+1.  Boven de verkeersborden A1, C1, C6 tot en met C22a, E1, E3, E9, G5 en G7 van bijlage 1, behorende bij het RVV 1990, kan het woord «zone» worden aangebracht. Hieraan kan een aanduiding van het gebied van de zone worden toegevoegd.   
 2.  Als boven een verkeersbord het woord «zone» is aangebracht zonder aanduiding van het gebied van de zone, wordt op in aanmerking komende plaatsen bij de zonegrens een bord geplaatst waarmee het einde van de zone wordt aangeduid.   
-3.  Aan bord E10 van [bijlage 1 bij het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) kan een aanduiding van het gebied van de zone worden toegevoegd.  
+3.  Aan bord E10 van bijlage 1 bij het RVV 1990 kan een aanduiding van het gebied van de zone worden toegevoegd.  
 
 ### §  4  
 
@@ -142,9 +142,9 @@ De plaatsing of verwijdering van de hierna genoemde verkeerstekens moet geschied
 
 a. de volgende borden: 
 
-I de borden die zijn opgenomen in de hoofdstukken A tot en met G van [bijlage 1, behorende bij het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), uitgezonderd de borden C22 en E9, alsmede de borden E4, E12 en E13 tenzij onder deze verkeersborden een onderbord als bedoeld in artikel 8, tweede lid, onderdeel d, wordt aangebracht, dan wel toepassing wordt gegeven aan artikel 8, derde lid;  
+I de borden die zijn opgenomen in de hoofdstukken A tot en met G van bijlage 1, behorende bij het RVV 1990, uitgezonderd de borden C22 en E9, alsmede de borden E4, E12 en E13 tenzij onder deze verkeersborden een onderbord als bedoeld in artikel 8, tweede lid, onderdeel d, wordt aangebracht, dan wel toepassing wordt gegeven aan artikel 8, derde lid;  
 
-II bord L3 van [bijlage 1, behorende bij het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), voor zover het een bushalte betreft;    
+II bord L3 van bijlage 1, behorende bij het RVV 1990, voor zover het een bushalte betreft;    
 
 b. de volgende verkeerstekens op het wegdek:  
 
@@ -172,7 +172,7 @@ Indien onder de in deze paragraaf genoemde verkeersborden onderborden worden gep
 
 ### Artikel  15  
 
-In het verkeersbesluit tot plaatsing van bord A1, voorzover dit aanduidt dat een maximumsnelheid van 30 km/h of 60 km/h geldt, bord B3, B4, B5 of B6 op een 30 km/h- of 60 km/h weg of in een 30 km/h- of 60 km/hzone, en bord G5 van [bijlage 1, behorende bij het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), wordt aangegeven op welke wijze wordt voldaan aan de krachtens [artikel 14 van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) gestelde voorschriften. 
+In het verkeersbesluit tot plaatsing van bord A1, voorzover dit aanduidt dat een maximumsnelheid van 30 km/h of 60 km/h geldt, bord B3, B4, B5 of B6 op een 30 km/h- of 60 km/h weg of in een 30 km/h- of 60 km/hzone, en bord G5 van bijlage 1, behorende bij het RVV 1990, wordt aangegeven op welke wijze wordt voldaan aan de krachtens artikel 14 van de wet gestelde voorschriften. 
 
 ### Artikel  16  
 
@@ -196,7 +196,7 @@ Geen verkeersbesluit behoeft te worden genomen, indien de betrokken maatregel st
 
 ### Artikel  21  
 
-De motivering van het verkeersbesluit vermeldt in ieder geval welke doelstelling of doelstellingen met het verkeersbesluit worden beoogd. Daarbij wordt aangegeven welke van de in [artikel 2, eerste en tweede lid](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), van de wet genoemde belangen ten grondslag liggen aan het verkeersbesluit. Indien tevens andere van de in [artikel 2, eerste en tweede lid](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), van de wet genoemde belangen in het geding zijn, wordt voorts aangegeven op welke wijze de belangen tegen elkaar zijn afgewogen. 
+De motivering van het verkeersbesluit vermeldt in ieder geval welke doelstelling of doelstellingen met het verkeersbesluit worden beoogd. Daarbij wordt aangegeven welke van de in artikel 2, eerste en tweede lid, van de wet genoemde belangen ten grondslag liggen aan het verkeersbesluit. Indien tevens andere van de in artikel 2, eerste en tweede lid, van de wet genoemde belangen in het geding zijn, wordt voorts aangegeven op welke wijze de belangen tegen elkaar zijn afgewogen. 
 
 ### Artikel  23  
 
@@ -208,12 +208,12 @@ Verkeersbesluiten worden genomen na overleg met:
 
 a. de korpschef,  
 
-b. de commandant van de Koninklijke marechaussee, indien de taak ten aanzien van het verkeer mede wordt vervuld op een luchtvaartterrein als bedoeld in [artikel 4, eerste lid, onder c, van de Politiewet 2012](../../../../../../../../../wet/politiewet/2012/BWBR0031788/README.md).   
+b. de commandant van de Koninklijke marechaussee, indien de taak ten aanzien van het verkeer mede wordt vervuld op een luchtvaartterrein als bedoeld in artikel 4, eerste lid, onder c, van de Politiewet 2012.   
 
 ### Artikel  25  
 
 1.  Verkeersbesluiten als gevolg waarvan het verkeer op wegen anders dan die waarop het verkeersbesluit betrekking heeft rechtstreeks en ingrijpend wordt beïnvloed, worden genomen na overleg met het ten aanzien van die andere wegen bevoegd gezag.   
-2.   Verkeersbesluiten worden genomen na overleg met de betrokken spoorwegbeheerder, indien het besluit maatregelen betreft nabij een overweg als bedoeld in [artikel 1, onderdeel aab, van het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) , waardoor het verkeer over die overweg wordt beïnvloed.  
+2.   Verkeersbesluiten worden genomen na overleg met de betrokken spoorwegbeheerder, indien het besluit maatregelen betreft nabij een overweg als bedoeld in artikel 1, onderdeel aab, van het RVV 1990 , waardoor het verkeer over die overweg wordt beïnvloed.  
 
 ### Artikel  26  
 
@@ -221,7 +221,7 @@ De bekendmaking van verkeersbesluiten geschiedt door plaatsing van het besluit i
 
 ### Artikel  27  
 
-Verkeersbesluiten als bedoeld in [artikel 15, tweede lid](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), van de wet treden in werking met ingang van de dag, nadat een termijn van zes weken na de dag waarop het besluit is bekend gemaakt, is verstreken. 
+Verkeersbesluiten als bedoeld in artikel 15, tweede lid, van de wet treden in werking met ingang van de dag, nadat een termijn van zes weken na de dag waarop het besluit is bekend gemaakt, is verstreken. 
 
 ### §  7  
 
@@ -241,11 +241,11 @@ Indien in, op, boven of langs een weg activiteiten worden ondernomen welke niet 
 
 ### Artikel  34  
 
-Door het bevoegd gezag dan wel door het openbaar lichaam, dat het beheer heeft over een weg of, indien geen openbaar lichaam het beheer heeft, door de eigenaar van de weg kunnen in de hierna genoemde omstandigheden en voor de duur van die omstandigheden verkeerstekens als bedoeld in artikel 12, worden geplaatst alsmede maatregelen als bedoeld in [artikel 15, tweede lid](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), van de wet, worden uitgevoerd:  
+Door het bevoegd gezag dan wel door het openbaar lichaam, dat het beheer heeft over een weg of, indien geen openbaar lichaam het beheer heeft, door de eigenaar van de weg kunnen in de hierna genoemde omstandigheden en voor de duur van die omstandigheden verkeerstekens als bedoeld in artikel 12, worden geplaatst alsmede maatregelen als bedoeld in artikel 15, tweede lid, van de wet, worden uitgevoerd:  
 
 a. ingeval van de uitvoering van werken, opdooi, de doorweekte toestand van een weg of weggedeelte, dreigend gevaar of andere dringende omstandigheid van voorbijgaande aard;  
 
-b. ingeval van een door het wegverkeer veroorzaakte ernstige aantasting van voorbijgaande aard van de in [het tweede lid, onder *a*, van artikel 2](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van de wet genoemde belangen.   
+b. ingeval van een door het wegverkeer veroorzaakte ernstige aantasting van voorbijgaande aard van de in het tweede lid, onder *a*, van artikel 2 van de wet genoemde belangen.   
 
 ### Artikel  35  
 
@@ -289,7 +289,7 @@ b. deze omstandigheden de plaatsing of de maatregel niet kunnen rechtvaardigen.
 
 ### Artikel  48  
 
-Bij de vaststelling van de grenzen van de bebouwde kom of kommen als bedoeld in [artikel 20a](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van de wet, zijn de artikelen 23 en 24 van overeenkomstige toepassing. 
+Bij de vaststelling van de grenzen van de bebouwde kom of kommen als bedoeld in artikel 20a van de wet, zijn de artikelen 23 en 24 van overeenkomstige toepassing. 
 
 ### Hoofdstuk  IV  
 
@@ -298,7 +298,7 @@ Bij de vaststelling van de grenzen van de bebouwde kom of kommen als bedoeld in 
 ### Artikel  49  
 
 1.  Aan een gehandicapte kan, overeenkomstig de bij ministeriële regeling gestelde criteria, door het college van burgemeester en wethouders van de gemeente waar hij als ingezetene met een adres is ingeschreven in de basisregistratie personen, een gehandicaptenparkeerkaart worden verstrekt.   
-2.  Aan het bestuur van een instelling die is toegelaten op grond van [artikel 5, eerste lid, van de Wet toelating zorginstellingen](../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) en die zorg verleent als bedoeld in [artikel 6 van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) kan, overeenkomstig de bij ministeriële regeling gestelde criteria, door het college van burgemeester en wethouders van de gemeente waar de instelling is gevestigd, een gehandicaptenparkeerkaart worden verstrekt ten behoeve van het vervoer van gehandicapten die in de betrokken instelling verblijven.   
+2.  Aan het bestuur van een instelling die is toegelaten op grond van artikel 5, eerste lid, van de Wet toelating zorginstellingen en die zorg verleent als bedoeld in artikel 6 van de Algemene Wet Bijzondere Ziektekosten kan, overeenkomstig de bij ministeriële regeling gestelde criteria, door het college van burgemeester en wethouders van de gemeente waar de instelling is gevestigd, een gehandicaptenparkeerkaart worden verstrekt ten behoeve van het vervoer van gehandicapten die in de betrokken instelling verblijven.   
 3.  Aan een gehandicapte die niet als ingezetene is ingeschreven in de basisregistratie personen kan, overeenkomstig de bij ministeriële regeling gestelde criteria, door Onze Minister een gehandicaptenparkeerkaart worden verstrekt.  
 
 ### Artikel  50  
@@ -369,11 +369,11 @@ a. als hun hoofdwerkzaamheden worden beschouwd, of
 
 b. geacht worden nauw verband te houden met de uitoefening van hun hoofdwerkzaamheden.     
 3.  Het in het eerste lid genoemde bestuursorgaan kan de door hem afgegeven aanstelling in de bij ministeriële regeling aangegeven gevallen intrekken.  
-4.  Verkeersbrigadiers als bedoeld in [artikel 82, derde lid, van het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), worden aangesteld door de burgemeester.  
+4.  Verkeersbrigadiers als bedoeld in artikel 82, derde lid, van het RVV 1990, worden aangesteld door de burgemeester.  
 
 ### Artikel  57  
 
-Op verkeersregelaars, personen als bedoeld in [artikel 82, eerste lid, onderdeel d, van het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) en op verkeersbrigadiers wordt toezicht gehouden door de politie. 
+Op verkeersregelaars, personen als bedoeld in artikel 82, eerste lid, onderdeel d, van het RVV 1990 en op verkeersbrigadiers wordt toezicht gehouden door de politie. 
 
 ### Artikel  58  
 
@@ -401,9 +401,9 @@ i. de uitrusting van verkeersregelaars en verkeersbrigadiers, alsmede de begelei
 
 1.  Transportbegeleiders maken tijdens de uitoefening van hun werkzaamheden gebruik van een begeleidingsvoertuig dat voldoet aan de in de ministeriële regeling, bedoeld in artikel 58, onderdeel i, opgenomen eisen.   
 2.  Verkeersregelaars dragen tijdens de uitoefening van hun werkzaamheden de kleding voorgeschreven in de ministeriële regeling, bedoeld in artikel 58, onderdeel i.   
-3.  Verkeersregelaars die krachtens de wet moeten beschikken over een aanstellingspas zijn verplicht dit document op eerste vordering van de in [artikel 159, eerste lid, onderdeel a, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) genoemde personen ter inzage af te geven.   
-4.  Aanwijzingen als bedoeld in [artikel 82, eerste lid, van het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), worden voor zover het betreft verkeersregelaars niet zijnde weginspecteurs in dienst van Rijkswaterstaat, niet gegeven vanaf een motorrijtuig of, voorzover het betreft verkeersregelaars niet zijnde transportbegeleiders of weginspecteurs in dienst van Rijkswaterstaat, vanuit een motorrijtuig.   
-5.  Onverminderd het vierde lid, geven transportbegeleiders of weginspecteurs in dienst van Rijkswaterstaat vanuit een motorrijtuig geen aanwijzingen als bedoeld in [artikel 82, eerste lid, van het RVV 1990](../../../../../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md), op wegen onder beheer van het Rijk of op kruispunten gelegen op andere wegen.  
+3.  Verkeersregelaars die krachtens de wet moeten beschikken over een aanstellingspas zijn verplicht dit document op eerste vordering van de in artikel 159, eerste lid, onderdeel a, van de wet genoemde personen ter inzage af te geven.   
+4.  Aanwijzingen als bedoeld in artikel 82, eerste lid, van het RVV 1990, worden voor zover het betreft verkeersregelaars niet zijnde weginspecteurs in dienst van Rijkswaterstaat, niet gegeven vanaf een motorrijtuig of, voorzover het betreft verkeersregelaars niet zijnde transportbegeleiders of weginspecteurs in dienst van Rijkswaterstaat, vanuit een motorrijtuig.   
+5.  Onverminderd het vierde lid, geven transportbegeleiders of weginspecteurs in dienst van Rijkswaterstaat vanuit een motorrijtuig geen aanwijzingen als bedoeld in artikel 82, eerste lid, van het RVV 1990, op wegen onder beheer van het Rijk of op kruispunten gelegen op andere wegen.  
 
 ### Hoofdstuk  VI  
 
@@ -449,8 +449,8 @@ d. de werkwijze bij evaluatie van de effecten, bedoeld in artikel 60, tweede lid
 
 a. de artikelen 24, 25 en 27 van dit besluit;  
 
-b. [hoofdstuk II, paragraaf 4 van de Uitvoeringsvoorschriften BABW inzake verkeerstekens](../../../../../../../../../ministeriele-regeling/uitvoeringsvoorschriften/babw/inzake/verkeerstekens/BWBR0009104/README.md).     
-2.  [Artikel 20 van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) is bij het nemen van een experimentverkeersbesluit niet van toepassing.  
+b. hoofdstuk II, paragraaf 4 van de Uitvoeringsvoorschriften BABW inzake verkeerstekens.     
+2.  Artikel 20 van de wet is bij het nemen van een experimentverkeersbesluit niet van toepassing.  
 
 ### Artikel  60c  
 
@@ -473,14 +473,14 @@ Onze Minister kan met het oog op het experiment de borden, bedoeld in artikel 12
 ### Artikel  60e  
 
 1.  Het experimentverkeersbesluit vervalt na afloop van de duur, bedoeld in artikel 60a, eerste lid, onder a.   
-2.  Het verkeersbesluit zoals dat luidde tot het tijdstip waarop het experimentverkeersbesluit van kracht werd, herleeft met ingang van de datum waarop het experimentverkeersbesluit vervalt of wordt ingetrokken, tenzij een verkeersbesluit als bedoeld in [artikel 15, eerste lid, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) met ingang van die datum in werking treedt.  
+2.  Het verkeersbesluit zoals dat luidde tot het tijdstip waarop het experimentverkeersbesluit van kracht werd, herleeft met ingang van de datum waarop het experimentverkeersbesluit vervalt of wordt ingetrokken, tenzij een verkeersbesluit als bedoeld in artikel 15, eerste lid, van de wet met ingang van die datum in werking treedt.  
 
 ### Artikel  60f  
 
 1.  In bijzondere omstandigheden kan Onze Minister tijdens het experiment het experimentverkeersbesluit wijzigen of intrekken.   
-2.  Onze Minister kan de duur van een experiment verlengen tot het moment dat een verkeersbesluit als bedoeld in [artikel 15, eerste lid, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) in werking treedt indien: 
+2.  Onze Minister kan de duur van een experiment verlengen tot het moment dat een verkeersbesluit als bedoeld in artikel 15, eerste lid, van de wet in werking treedt indien: 
 
-a. Onze Minister het ontwerp van een verkeersbesluit als bedoeld in [artikel 15, eerste lid, van de wet](../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) ter inzage heeft gelegd, en  
+a. Onze Minister het ontwerp van een verkeersbesluit als bedoeld in artikel 15, eerste lid, van de wet ter inzage heeft gelegd, en  
 
 b. redelijkerwijze kan worden verwacht dat het verkeersbesluit niet in werking zal zijn getreden op het moment dat het experimentverkeersbesluit vervalt,   met dien verstande dat de totale duur niet de termijn van twee jaar, genoemd in artikel 60, eerste lid, overschrijdt.  
 

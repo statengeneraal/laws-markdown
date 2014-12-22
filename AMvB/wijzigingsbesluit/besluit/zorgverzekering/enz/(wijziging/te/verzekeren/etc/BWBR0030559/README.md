@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 27 juli 2011, Z/VU-3072473;
 
-Gelet op [artikel 11, derde en vierde lid, van de Zorgverzekeringswet](../../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), [artikel 6, tweede lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en [artikel 2, eerste lid, van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md);
+Gelet op artikel 11, derde en vierde lid, van de Zorgverzekeringswet, artikel 6, tweede lid, van de Algemene Wet Bijzondere Ziektekosten en artikel 2, eerste lid, van de Wet tegemoetkoming chronisch zieken en gehandicapten;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 19 augustus 2011, no. W13.11.0304/III);
 
@@ -27,7 +27,7 @@ Wijzigt het Besluit tegemoetkoming chronisch zieken en gehandicapten.
 
 ### Artikel  IV  
 
-Op een verzekerde als bedoeld in [artikel 2.6, tweede lid, tweede volzin, van het Besluit zorgverzekering](../../../../../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) die uiterlijk op 31 december 2011 twaalf behandelingen fysiotherapie of oefentherapie heeft ontvangen, blijft artikel 2.6, tweede lid, van het Besluit zorgverzekering, zoals dat artikel op 31 december 2011 luidde, van toepassing voor zover het behandeling van de aandoening betreft waarop de twaalf behandelingen betrekking hadden en de aandoening ook na deze datum aanleiding kan zijn voor voor rekening van de zorgverzekering komende fysiotherapie of oefentherapie. 
+Op een verzekerde als bedoeld in artikel 2.6, tweede lid, tweede volzin, van het Besluit zorgverzekering die uiterlijk op 31 december 2011 twaalf behandelingen fysiotherapie of oefentherapie heeft ontvangen, blijft artikel 2.6, tweede lid, van het Besluit zorgverzekering, zoals dat artikel op 31 december 2011 luidde, van toepassing voor zover het behandeling van de aandoening betreft waarop de twaalf behandelingen betrekking hadden en de aandoening ook na deze datum aanleiding kan zijn voor voor rekening van de zorgverzekering komende fysiotherapie of oefentherapie. 
 
 ### Artikel  V  
 

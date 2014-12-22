@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 19 november 2008, kenmerk DWJZ/SWW-2894148;
 
-Gelet op [artikel 6, eerste lid, van de Kwaliteitswet zorginstellingen](../../../../../wet/kwaliteitswet/zorginstellingen/BWBR0007850/README.md);
+Gelet op artikel 6, eerste lid, van de Kwaliteitswet zorginstellingen;
 
 De Raad van State gehoord (advies van 26 januari 2009, nummer W13.08.0497/I);
 
@@ -15,8 +15,8 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit is van toepassing op instellingen die zorg verlenen als omschreven bij of krachtens de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).   
-2.  In dit besluit wordt verstaan onder cliënt: een persoon aan wie een zorgaanbieder voor een periode die langer zal duren dan drie maanden zorg verleent als omschreven bij of krachtens de [Algemene Wet Bijzondere Ziektekosten](../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).  
+1.  Dit besluit is van toepassing op instellingen die zorg verlenen als omschreven bij of krachtens de Algemene Wet Bijzondere Ziektekosten.   
+2.  In dit besluit wordt verstaan onder cliënt: een persoon aan wie een zorgaanbieder voor een periode die langer zal duren dan drie maanden zorg verleent als omschreven bij of krachtens de Algemene Wet Bijzondere Ziektekosten.  
 
 ### Artikel  2  
 

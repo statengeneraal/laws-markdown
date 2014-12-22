@@ -3,7 +3,7 @@
 ##Regeling transparantie contracteerproces AWBZ
 
 De Nederlandse Zorgautoriteit (NZa),  
-Gelet op [artikel 45 Wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Wmg) in verbinding met [artikel 50 Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en de [artikelen 15](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en [16 AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);
+Gelet op artikel 45 Wet marktordening gezondheidszorg (Wmg) in verbinding met artikel 50 Wmg en de artikelen 15 en 16 AWBZ;
 
 Heeft de volgende regeling vastgesteld:
 
@@ -11,13 +11,13 @@ Heeft de volgende regeling vastgesteld:
 
 ####Begripsbepalingen
 
-a.  de wet De [wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) (Stb. 2006, 432);   
-b.  AWBZ-verzekeraar Een zorgverzekeraar als bedoeld in [artikel 1, onder e van de wet](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);   
-c.  zorgkantoor Het verbindingskantoor als bedoeld in [artikel 1, onder c, onderdeel 1, van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md) (Stb. 1991, 326);   
-d.  zorgkantoorregio De regio waarvoor een zorgkantoor op grond van [artikel 3 van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md) is aangewezen als verbindingskantoor.   
-e.  zorgaanbieder Een zorgaanbieder als bedoeld in [artikel 1, onder c, onderdeel 1 van de wet](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);   
-f.  overeenkomst Door zorgkantoor en zorgaanbieder gesloten overeenkomst ten aanzien van het leveren van zorg waarop AWBZ-verzekerden aanspraak hebben op grond van [artikel 6, eerste lid, AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), de in dat kader toe te passen prestatiebeschrijvingen en bijbehorende tarieven;   
-g.  budgetverzoek Een gezamenlijke tariefaanvraag als bedoeld in [artikel 50 Wmg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md)   
+a.  de wet De wet marktordening gezondheidszorg (Stb. 2006, 432);   
+b.  AWBZ-verzekeraar Een zorgverzekeraar als bedoeld in artikel 1, onder e van de wet;   
+c.  zorgkantoor Het verbindingskantoor als bedoeld in artikel 1, onder c, onderdeel 1, van het Administratiebesluit Bijzondere Ziektekostenverzekering (Stb. 1991, 326);   
+d.  zorgkantoorregio De regio waarvoor een zorgkantoor op grond van artikel 3 van het Administratiebesluit Bijzondere Ziektekostenverzekering is aangewezen als verbindingskantoor.   
+e.  zorgaanbieder Een zorgaanbieder als bedoeld in artikel 1, onder c, onderdeel 1 van de wet;   
+f.  overeenkomst Door zorgkantoor en zorgaanbieder gesloten overeenkomst ten aanzien van het leveren van zorg waarop AWBZ-verzekerden aanspraak hebben op grond van artikel 6, eerste lid, AWBZ, de in dat kader toe te passen prestatiebeschrijvingen en bijbehorende tarieven;   
+g.  budgetverzoek Een gezamenlijke tariefaanvraag als bedoeld in artikel 50 Wmg   
 h.  budgetronde Door de NZa vastgestelde data voor indiening van tariefaanvragen.  
 
 ### Artikel  2  

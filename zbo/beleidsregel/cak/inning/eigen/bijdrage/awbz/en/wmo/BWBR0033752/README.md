@@ -3,16 +3,16 @@
 ##Beleidsregel CAK inning eigen bijdrage AWBZ en WMO
 
 Het CAK,  
-gelet op de [artikelen 49 Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) (AWBZ) en [artikel 16 Wet maatschappelijke ondersteuning](../../../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) (Wmo);
+gelet op de artikelen 49 Algemene Wet Bijzondere Ziektekosten (AWBZ) en artikel 16 Wet maatschappelijke ondersteuning (Wmo);
 
-in aanmerking nemende dat het CAK inzicht wenst te geven in zijn innings- of invorderingsbeleid met toepassing van de bevoegdheid tot belangenafweging ([artikel 3:4 Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md));
+in aanmerking nemende dat het CAK inzicht wenst te geven in zijn innings- of invorderingsbeleid met toepassing van de bevoegdheid tot belangenafweging (artikel 3:4 Algemene wet bestuursrecht);
 besluit om de volgende beleidsregel vast te stellen:    
 
 ### I  
 
 ####Inleiding
 
-De wettelijke taak van het CAK is het vaststellen en innen van de eigen bijdrage ([artikel 49 AWB](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)Z en [artikel 16 Wmo](../../../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md)). Per 1 januari 2013 volgt uit het [Bijdragebesluit zorg](../../../../../../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) ([Bbz, artt. 3a](../../../../../../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md), [11a](../../../../../../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) en [16c](../../../../../../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md)) en uit het [Besluit maatschappelijke ondersteuning](../../../../../../../../../../AMvB/besluit/maatschappelijke/ondersteuning/BWBR0020379/README.md) ([Bmo, artt. 4.1b](../../../../../../../../../../AMvB/besluit/maatschappelijke/ondersteuning/BWBR0020379/README.md) en [4.4a](../../../../../../../../../../AMvB/besluit/maatschappelijke/ondersteuning/BWBR0020379/README.md)), dat indien het CAK de eigen bijdrage vaststelt of herziet binnen 24 maanden nadat de voor die actie benodigde gegevens zijn ontvangen, er geen begrenzing is aan de periode waarover de (herziene) eigen bijdrage kan worden vastgesteld of herzien. 
+De wettelijke taak van het CAK is het vaststellen en innen van de eigen bijdrage (artikel 49 AWBZ en artikel 16 Wmo). Per 1 januari 2013 volgt uit het Bijdragebesluit zorg (Bbz, artt. 3a, 11a en 16c) en uit het Besluit maatschappelijke ondersteuning (Bmo, artt. 4.1b en 4.4a), dat indien het CAK de eigen bijdrage vaststelt of herziet binnen 24 maanden nadat de voor die actie benodigde gegevens zijn ontvangen, er geen begrenzing is aan de periode waarover de (herziene) eigen bijdrage kan worden vastgesteld of herzien. 
 
 ### II  
 

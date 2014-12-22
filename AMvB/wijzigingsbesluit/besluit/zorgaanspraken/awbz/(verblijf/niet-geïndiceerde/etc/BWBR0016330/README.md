@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 20 november 2003, Z/VU-2429651;
 
-Gelet op de [artikelen 6, eerste lid](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en [9a, eerste lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);
+Gelet op de artikelen 6, eerste lid, en 9a, eerste lid, van de Algemene Wet Bijzondere Ziektekosten;
 
 De Raad van State gehoord (advies van 11 december 2003, no. W13.03.0475/III);
 
@@ -23,7 +23,7 @@ Wijzigt het Zorgindicatiebesluit.
 
 ### Artikel  III  
 
-[Artikel 9, tweede lid, tweede volzin, van het Besluit zorgaanspraken AWBZ](../../../../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) is van overeenkomstige toepassing op personen die op het tijdstip van inwerkingtreding van dit besluit reeds in een instelling verbleven en bij het begin van dat verblijf echtgenoot waren van een persoon met een somatische of psychogeriatrische aandoening of beperking die op grond van een indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) in die instelling verbleef.
+Artikel 9, tweede lid, tweede volzin, van het Besluit zorgaanspraken AWBZ is van overeenkomstige toepassing op personen die op het tijdstip van inwerkingtreding van dit besluit reeds in een instelling verbleven en bij het begin van dat verblijf echtgenoot waren van een persoon met een somatische of psychogeriatrische aandoening of beperking die op grond van een indicatiebesluit als bedoeld in het Zorgindicatiebesluit in die instelling verbleef.
 
 ### Artikel  IV  
 
