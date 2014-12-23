@@ -3,7 +3,7 @@
 ##Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 augustus 2012, kenmerk Z-3123635, houdende de aanwijzing van administratie-instellingen bijzondere ziektekosten
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 3 van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md);
+Gelet op artikel 3 van het Administratiebesluit Bijzondere Ziektekostenverzekering;
 
 Gezien de voordracht van Zorgverzekeraars Nederland van 4 juli 2012 (B-12-1666-mver1);
 
@@ -14,15 +14,15 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a.  *AWBZ:* [Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+a.  *AWBZ:* Algemene Wet Bijzondere Ziektekosten;  
 
-b.  *AWBZ-verzekerde:* degene die verzekerd is ingevolge de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+b.  *AWBZ-verzekerde:* degene die verzekerd is ingevolge de AWBZ;  
 
-c.  *indicatiebesluit:* besluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md);  
+c.  *indicatiebesluit:* besluit als bedoeld in artikel 1, onderdeel d, van het Zorgindicatiebesluit;  
 
 d.  *AO/IC:* administratieve organisatie en interne controle;  
 
-e.  *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de Wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).   
+e.  *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in artikel 3 van de Wet marktordening gezondheidszorg.   
 
 ### Artikel  2  
 
@@ -37,9 +37,9 @@ a. een verbindingskantoor is aanspreekpunt voor AWBZ-verzekerden, zorgaanbieders
 
 b. een verbindingskantoor beschikt over een adequate cliëntvolgende bedrijfsadministratie voor zorg in natura intramuraal en extramuraal waarin een verband ligt tussen de indicatiebesluiten van AWBZ-verzekerden, de geleverde zorg en de betalingen van zorgaanbieders;  
 
-c. een verbindingskantoor beschikt over een adequate cliëntvolgende bedrijfsadministratie voor het persoonsgebonden budget, die is afgestemd op de op grond van [artikel 44 van de AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) vastgestelde regels voor het persoonsgebonden budget;  
+c. een verbindingskantoor beschikt over een adequate cliëntvolgende bedrijfsadministratie voor het persoonsgebonden budget, die is afgestemd op de op grond van artikel 44 van de AWBZ vastgestelde regels voor het persoonsgebonden budget;  
 
-d. een verbindingskantoor voert op grond van de door de zorgautoriteit, in overeenstemming met het Zorginstituut, opgestelde regels als bedoeld in [artikelen 31](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [36, derde lid, van de Wet marktordening gezondheidszorg](../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), formele en materiële controle uit, waarbij de informatieopvraag wordt opgesteld op basis van risicoanalyses in samenhang met de toepassing van de landelijk geldende AO/IC-regeling. Een verbindingskantoor voert op grond van het door het Zorginstituut opgestelde controleprotocol controles uit op het verstrekte persoonsgebonden budget;  
+d. een verbindingskantoor voert op grond van de door de zorgautoriteit, in overeenstemming met het Zorginstituut, opgestelde regels als bedoeld in artikelen 31 en 36, derde lid, van de Wet marktordening gezondheidszorg, formele en materiële controle uit, waarbij de informatieopvraag wordt opgesteld op basis van risicoanalyses in samenhang met de toepassing van de landelijk geldende AO/IC-regeling. Een verbindingskantoor voert op grond van het door het Zorginstituut opgestelde controleprotocol controles uit op het verstrekte persoonsgebonden budget;  
 
 e. een verbindingskantoor volgt op basis van de bestaande informatie van de zorgaanbieders de financiële positie van die zorgaanbieders en neemt, indien nodig, actie met het oog op gewenste continuïteit van zorgverlening aan cliënten;  
 

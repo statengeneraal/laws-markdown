@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Binnenlandse Zaken, van 16 juli 1993, nr. BW93/U1602, directoraat-generaal Openbaar Bestuur, gedaan mede namens de Staatssecretaris van Binnenlandse Zaken; 
 
-Gelet op de [artikelen 44](../../../../wet/gemeentewet/BWBR0005416/README.md), eerste en tweede lid, en [51, tweede lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md); 
+Gelet op de artikelen 44, eerste en tweede lid, en 51, tweede lid, van de Gemeentewet; 
 
 De Raad van State gehoord (advies van 8 februari 1994, nr. W04.93.0474.); 
 
@@ -30,7 +30,7 @@ d. gedeputeerde staten: het college van gedeputeerde staten van de provincie waa
 
 e. tabel: de tabel, opgenomen in de bij dit besluit behorende bijlage;   
 
-f. tijdstip van beëindiging van het wethouderschap: het tijdstip van aftreden, bedoeld in [artikel 42 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), de dag van ingang van het ontslag, bedoeld in [artikel 43](../../../../wet/gemeentewet/BWBR0005416/README.md), tweede lid en [artikel 47, eerste lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), de dag van ingang van het ontslag bedoeld in [artikel 49 van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) of de dag volgende op die van het overlijden;   
+f. tijdstip van beëindiging van het wethouderschap: het tijdstip van aftreden, bedoeld in artikel 42 van de Gemeentewet, de dag van ingang van het ontslag, bedoeld in artikel 43, tweede lid en artikel 47, eerste lid, van de Gemeentewet, de dag van ingang van het ontslag bedoeld in artikel 49 van de Gemeentewet of de dag volgende op die van het overlijden;   
 
 g. voormalig wethouder: de wethouder, die is afgetreden of ontslagen of die het lidmaatschap van de raad heeft verloren, dan wel is overleden;   
 
@@ -46,7 +46,7 @@ h. tijdsbestedingsnorm: het deel van de werkweek, dat de wethouder in staat dien
 2.   Als de bezoldiging van het personeel in de sector Rijk wijziging ondergaat, worden de in de tabel genoemde bedragen overeenkomstig gewijzigd.    
 3.   De wethouder geniet een vakantie-uitkering en een eindejaarsuitkering overeenkomstig de bepalingen welke daaromtrent voor het personeel in de sector Rijk zijn vastgesteld.    
 4.   Indien aan het personeel in de sector Rijk een eenmalige uitkering wordt toegekend, ontvangt de wethouder een uitkering op gelijke voet.    
-5.   De wethouder die met toepassing van [artikel 36, tweede lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) de betrekking in deeltijd uitoefent, ontvangt de bezoldiging, bedoeld in het eerste lid, naar evenredigheid met de vastgestelde tijdsbestedingsnorm, bedoeld in [artikel 36, vierde lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md).   
+5.   De wethouder die met toepassing van artikel 36, tweede lid, van de Gemeentewet de betrekking in deeltijd uitoefent, ontvangt de bezoldiging, bedoeld in het eerste lid, naar evenredigheid met de vastgestelde tijdsbestedingsnorm, bedoeld in artikel 36, vierde lid, van de Gemeentewet.   
 
 ### Artikel  4  
 
@@ -55,7 +55,7 @@ h. tijdsbestedingsnorm: het deel van de werkweek, dat de wethouder in staat dien
 
 ###Artikel 4a 
 
-Indien een wethouder naast zijn bezoldiging als wethouder, tevens aanspraak heeft op een vergoeding voor werkzaamheden als raadslid gedurende een tijdvak als bedoeld in [artikel 36b, tweede lid, onder a of b, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md), dan vervalt gedurende dit tijdvak zijn aanspraak op een vergoeding voor werkzaamheden als raadslid.
+Indien een wethouder naast zijn bezoldiging als wethouder, tevens aanspraak heeft op een vergoeding voor werkzaamheden als raadslid gedurende een tijdvak als bedoeld in artikel 36b, tweede lid, onder a of b, van de Gemeentewet, dan vervalt gedurende dit tijdvak zijn aanspraak op een vergoeding voor werkzaamheden als raadslid.
 
 ### Artikel  4b  
 
@@ -70,7 +70,7 @@ Indien een wethouder naast zijn bezoldiging als wethouder, tevens aanspraak heef
 ### Artikel  5  
 
 1.  In geval van overlijden van de wethouder wordt aan de weduwe of weduwnaar van wie de overleden wethouder niet duurzaam gescheiden leefde een bedrag uitgekeerd, gelijk aan de bezoldiging vermeerderd met de vakantieuitkering, welke de wethouder laatstelijk genoot over een tijdvak van drie maanden. Indien de overledene geen weduwe of weduwnaar van wie de overleden wethouder niet duurzaam gescheiden leefde nalaat, geschiedt de uitkering ten behoeve van de minderjarige wettige of natuurlijke kinderen, of minderjarige kinderen waarover de overledene de pleegouderlijke zorg droeg. Onder pleegouderlijke zorg wordt verstaan de zorg voor het onderhoud en de opvoeding van het kind als was het een eigen kind, onafhankelijk van enige verplichting daartoe of van het genieten van een vergoeding daarvoor. Ontbreken ook zodanige kinderen dan geschiedt de uitkering aan degenen die geheel of grotendeels afhankelijk waren van de bezoldiging van de wethouder.    
-2.  Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden wethouder ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in [artikel 3, derde en vierde lid, van de Algemene nabestaandenwet](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md). 
+2.  Voor de toepassing van dit artikel wordt onder weduwe of weduwnaar mede verstaan de achtergebleven geregistreerde partner alsmede degene met wie de overleden wethouder ongehuwd samenleefde en een gezamenlijke huishouding heeft gevoerd als bedoeld in artikel 3, derde en vierde lid, van de Algemene nabestaandenwet. 
 
 ### Artikel  7  
 
@@ -120,7 +120,7 @@ De tijdelijke vervanger van de wethouder die verlof heeft wegens zwangerschap en
 ### Artikel  11  
 
 1. De wethouder die verlof heeft wegens zwangerschap en bevalling of ziekte, ontvangt een onkostenvergoeding voor overige aan de uitoefening van het ambt verbonden kosten ter hoogte van de helft van het in artikel 25 bedoelde bedrag.  
-2.  In afwijking van [artikel XI van het Besluit van 12 juni 2013 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit burgemeesters, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit wethouders, het Rechtspositiebesluit staten- en commissieleden, het Rechtspositiebesluit raads- en commissieleden, het Waterschapsbesluit en het Rechtspositiebesluit Rijksvertegenwoordiger BES in verband met een wijziging in de regeling inzake ambtswoningen en enkele andere wijzigingen](../../../../AMvB/wijzigingsbesluit/rechtspositiebesluit/commissarissen/van/de/koning/enz./etc/BWBR0033575/README.md) (Stb. 2013, 222) werkt het eerste lid niet terug tot en met 3 augustus 2011. 
+2.  In afwijking van artikel XI van het Besluit van 12 juni 2013 tot wijziging van het Rechtspositiebesluit commissarissen van de Koning, het Rechtspositiebesluit burgemeesters, het Rechtspositiebesluit gedeputeerden, het Rechtspositiebesluit wethouders, het Rechtspositiebesluit staten- en commissieleden, het Rechtspositiebesluit raads- en commissieleden, het Waterschapsbesluit en het Rechtspositiebesluit Rijksvertegenwoordiger BES in verband met een wijziging in de regeling inzake ambtswoningen en enkele andere wijzigingen (Stb. 2013, 222) werkt het eerste lid niet terug tot en met 3 augustus 2011. 
 
 ### §  2  
 
@@ -144,8 +144,8 @@ b. voor zover de ziekte of het dienstongeval niet aan eigen schuld of onvoorzich
 
 ### Artikel  21  
 
-1.  Het college van burgemeester en wethouders kent een wethouder die naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van de gemeente een tegemoetkoming toe voor de bekostiging van een voorziening als bedoeld in [artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md).   
-2.  Het gestelde bij of krachtens [artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md) is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.  
+1.  Het college van burgemeester en wethouders kent een wethouder die naar het oordeel van een arts een structurele functionele beperking heeft, ten laste van de gemeente een tegemoetkoming toe voor de bekostiging van een voorziening als bedoeld in artikel 35, tweede en derde lid, van de Wet werk en inkomen naar arbeidsvermogen.   
+2.  Het gestelde bij of krachtens artikel 35, vijfde lid, van de Wet werk en inkomen naar arbeidsvermogen is van overeenkomstige toepassing, met dien verstande dat uitsluitend een financiële tegemoetkoming wordt verstrekt.  
 
 ###§ 2a 
 
@@ -189,7 +189,7 @@ Indien aan de wethouder een dienstauto ter beschikking is gesteld en hij voor he
 ### Artikel  26  
 
 1.  De wethouder die in de loop van het kalenderjaar is benoemd dan wel het wethouderschap heeft beëindigd als bedoeld in artikel 1, onderdeel *f* , ontvangt de onkostenvergoeding, bedoeld in artikel 25, naar evenredigheid met de periode van uitoefening van het ambt in bedoeld kalenderjaar.    
-2.   De wethouder die met toepassing van [artikel 36, tweede lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) de betrekking in deeltijd uitoefent, ontvangt de onkostenvergoeding, bedoeld in artikel 25, naar evenredigheid met de vastgestelde tijdsbestedingsnorm, bedoeld in [artikel 36, vierde lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md).   
+2.   De wethouder die met toepassing van artikel 36, tweede lid, van de Gemeentewet de betrekking in deeltijd uitoefent, ontvangt de onkostenvergoeding, bedoeld in artikel 25, naar evenredigheid met de vastgestelde tijdsbestedingsnorm, bedoeld in artikel 36, vierde lid, van de Gemeentewet.   
 
 ### Artikel  27  
 
@@ -215,9 +215,9 @@ b.gebruik van een eigen computer, bijbehorende apparatuur en software.
 
 ### Artikel  28a  
 
-Als eindheffingsbestanddeel als bedoeld in [artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) worden aangewezen: 
+Als eindheffingsbestanddeel als bedoeld in artikel 31, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964 worden aangewezen: 
 
-a. de vergoedingen, bedoeld in artikel 23, voor zover deze niet worden gerekend tot een vergoeding als bedoeld in [artikel 31a, tweede lid, onderdelen a en b, van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);  
+a. de vergoedingen, bedoeld in artikel 23, voor zover deze niet worden gerekend tot een vergoeding als bedoeld in artikel 31a, tweede lid, onderdelen a en b, van de Wet op de loonbelasting 1964;  
 
 b. de vergoeding, bedoeld in artikel 23a;  
 
@@ -245,15 +245,15 @@ Artikel 21 zoals dat luidde op de dag voor de datum van inwerkingtreding van het
 
 ### Artikel  29a  
 
-Voor wethouders in gemeenten ingedeeld in de inwonersklassen 1 en 2 geldt met ingang van 1 januari 2009 tot de dag waarop het [Besluit houdende wijziging van enkele rechtspositiebesluiten politieke ambtsdragers in verband met de samenvoeging van inwonersklassen en enkele technische aanpassingen](../../../../AMvB/wijzigingsbesluit/rechtspositiebesluit/burgemeesters/enz./(samenvoeging/etc/BWBR0026906/README.md) in werking treedt de bezoldiging behorende bij inwonersklasse 3. 
+Voor wethouders in gemeenten ingedeeld in de inwonersklassen 1 en 2 geldt met ingang van 1 januari 2009 tot de dag waarop het Besluit houdende wijziging van enkele rechtspositiebesluiten politieke ambtsdragers in verband met de samenvoeging van inwonersklassen en enkele technische aanpassingen in werking treedt de bezoldiging behorende bij inwonersklasse 3. 
 
 ### Artikel  29b  
 
-Bij toepassing van [artikel 39c van de Wet op de loonbelasting 1964](../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md): 
+Bij toepassing van artikel 39c van de Wet op de loonbelasting 1964: 
 
 a. wordt op aanvraag door het college van burgemeester en wethouders een vergoeding verstrekt voor de belastingheffing als gevolg van de verstrekkingen, bedoeld in artikel 27a, eerste en derde lid;  
 
-b. wordt het bedrag, genoemd in artikel 25, eerste lid, of de vergoeding, bedoeld in artikel 28b, eerste en tweede lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van [artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), en  
+b. wordt het bedrag, genoemd in artikel 25, eerste lid, of de vergoeding, bedoeld in artikel 28b, eerste en tweede lid, vermenigvuldigd met 100/P, waarbij P wordt berekend door het getal 100 te verminderen met het getal van het hoogste tarief, bedoeld in kolom IV van artikel 2.10, eerste lid, van de Wet inkomstenbelasting 2001, en  
 
 c. bedraagt de vergoeding, bedoeld in artikel 23a, ten hoogste de gebruteerde verschuldigde loon- en inkomstenbelastingvoor het gebruik van de dienstauto;  
 

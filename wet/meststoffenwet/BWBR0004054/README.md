@@ -82,7 +82,7 @@ cc. bedrijfsoverschot: hoeveelheid dierlijke meststoffen, uitgedrukt in kilogram
 
 1°. ingevolge artikel 8, onderdeel c, mag worden gebracht op of in de tot het desbetreffende bedrijf behorende oppervlakte landbouwgrond, en  
 
-2°. ingevolge de krachtens de [artikelen 7](../../../wet/wet/bodembescherming/BWBR0003994/README.md) en [15 van de Wet bodembescherming](../../../wet/wet/bodembescherming/BWBR0003994/README.md) geldende voorschriften mag worden aangebracht op een in Nederland gelegen natuurterrein dat de hoofdfunctie natuur heeft, dat in het desbetreffende kalenderjaar op een bij algemene maatregel van bestuur vast te stellen datum bij het bedrijf in gebruik is;    
+2°. ingevolge de krachtens de artikelen 7 en 15 van de Wet bodembescherming geldende voorschriften mag worden aangebracht op een in Nederland gelegen natuurterrein dat de hoofdfunctie natuur heeft, dat in het desbetreffende kalenderjaar op een bij algemene maatregel van bestuur vast te stellen datum bij het bedrijf in gebruik is;    
 
 dd. dierlijke meststoffen verwerken:
 
@@ -248,12 +248,12 @@ b. de verplichting de naleving van de onder a bedoelde voorschriften te staven m
 
 c. voorschriften inzake het voeren van een administratie welke worden gesteld om de naleving van de onder a bedoelde voorschriften te kunnen controleren.     
 4.  De aan een vergunning, als bedoeld in het tweede lid, onderdeel c, verbonden voorschriften en de beperkingen waaronder zij is verleend, kunnen worden gewijzigd, aangevuld of ingetrokken.   
-5.  Bij algemene maatregel van bestuur kan worden bepaald dat het is verboden dierlijke meststoffen in voorraad te hebben, te verwerken, te vervoeren of te verhandelen zonder voorafgaande registratie bij Onze Minister. Daarbij kunnen regels worden gesteld over de weigering, schorsing of schrapping van een registratie. Die regels kunnen inhouden dat een registratie kan worden geweigerd of geschrapt in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) en dat daaraan voorafgaand het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) kan worden gevraagd. 
+5.  Bij algemene maatregel van bestuur kan worden bepaald dat het is verboden dierlijke meststoffen in voorraad te hebben, te verwerken, te vervoeren of te verhandelen zonder voorafgaande registratie bij Onze Minister. Daarbij kunnen regels worden gesteld over de weigering, schorsing of schrapping van een registratie. Die regels kunnen inhouden dat een registratie kan worden geweigerd of geschrapt in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur en dat daaraan voorafgaand het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet kan worden gevraagd. 
 
 ### Artikel  16  
 
 1.  Bij algemene maatregel van bestuur worden regels gesteld omtrent de minimumomvang van de opslagruimte voor dierlijke meststoffen op een bedrijf.   
-2.  Onverminderd het bepaalde bij of krachtens de [Wet milieubeheer](../../../wet/wet/milieubeheer/BWBR0003245/README.md) of de [Wet algemene bepalingen omgevingsrecht](../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) kunnen bij de maatregel voorwaarden worden gesteld waaraan een opslagruimte moet voldoen om bij de bepaling van de omvang van de op het bedrijf beschikbare opslagruimte voor dierlijke meststoffen in aanmerking te worden genomen, waartoe kunnen behoren regels omtrent de maximale afstand van de opslagruimte tot de huisvesting waarin dieren worden gehouden.  
+2.  Onverminderd het bepaalde bij of krachtens de Wet milieubeheer of de Wet algemene bepalingen omgevingsrecht kunnen bij de maatregel voorwaarden worden gesteld waaraan een opslagruimte moet voldoen om bij de bepaling van de omvang van de op het bedrijf beschikbare opslagruimte voor dierlijke meststoffen in aanmerking te worden genomen, waartoe kunnen behoren regels omtrent de maximale afstand van de opslagruimte tot de huisvesting waarin dieren worden gehouden.  
 
 ### Artikel  17  
 
@@ -306,12 +306,12 @@ Het is verboden op een bedrijf gemiddeld in een kalenderjaar een groter aantal v
 
 ### Artikel 23 
 
-1. Het op het bedrijf rustende varkensrecht op het tijdstip van inwerkingtreding van het verbod, bedoeld in artikel 19, komt overeen met het varkensrecht zoals dat onmiddellijk voorafgaand aan dat tijdstip voor het bedrijf gold op grond van de [Wet herstructurering varkenshouderij](../../../wet/wet/herstructurering/varkenshouderij/BWBR0009542/README.md). 
+1. Het op het bedrijf rustende varkensrecht op het tijdstip van inwerkingtreding van het verbod, bedoeld in artikel 19, komt overeen met het varkensrecht zoals dat onmiddellijk voorafgaand aan dat tijdstip voor het bedrijf gold op grond van de Wet herstructurering varkenshouderij. 
 2. Het op het bedrijf rustende pluimveerecht op het tijdstip van inwerkingtreding van het verbod, bedoeld in artikel 20, eerste lid, komt overeen met het pluimveerecht, uitgedrukt in kilogrammen fosfaat, zoals dat onmiddellijk voorafgaand aan dat tijdstip voor het bedrijf gold op grond van deze wet, met dien verstande dat de kilogrammen fosfaat worden omgerekend naar pluimvee-eenheden. Voor deze omrekening komt 0,5 kilogram fosfaat overeen met 1 pluimvee-eenheid.
 
 ### Artikel 24 
 
-1. Het overeenkomstig artikel 23 bepaalde productierecht wordt gecorrigeerd, indien voorafgaand aan het in dat artikel bedoelde tijdstip, in hetzelfde kalenderjaar met betrekking tot het bedrijf een registratie heeft plaatsgevonden van een kennisgeving van overgang van het varkensrecht of pluimveerecht, of een gedeelte daarvan, maar de omvang van de verkleining, dan wel vergroting van het desbetreffende productierecht werd beperkt ingevolge [artikel 18, zesde lid, van de Wet herstructurering varkenshouderij](../../../wet/wet/herstructurering/varkenshouderij/BWBR0009542/README.md), onderscheidenlijk artikel 58q, vierde lid, van de Meststoffenwet, zoals deze artikelen luidden op het tijdstip van de registratie. 
+1. Het overeenkomstig artikel 23 bepaalde productierecht wordt gecorrigeerd, indien voorafgaand aan het in dat artikel bedoelde tijdstip, in hetzelfde kalenderjaar met betrekking tot het bedrijf een registratie heeft plaatsgevonden van een kennisgeving van overgang van het varkensrecht of pluimveerecht, of een gedeelte daarvan, maar de omvang van de verkleining, dan wel vergroting van het desbetreffende productierecht werd beperkt ingevolge artikel 18, zesde lid, van de Wet herstructurering varkenshouderij, onderscheidenlijk artikel 58q, vierde lid, van de Meststoffenwet, zoals deze artikelen luidden op het tijdstip van de registratie. 
 2. De correctie geschiedt van rechtswege bij aanvang van het kalenderjaar volgend op het kalenderjaar waarin de registratie van de kennisgeving van overgang plaatsvond en leidt tot een verkleining, onderscheidenlijk vergroting van het desbetreffende productierecht met het aantal varkenseenheden of pluimvee-eenheden waarop de beperking betrekking had. 
 3. Voor de toepassing van het tweede lid ten aanzien van het pluimveerecht komt 0,5 kilogram fosfaat overeen met 1 pluimvee-eenheid.
 
@@ -365,7 +365,7 @@ d.de overgang van het productierecht in strijd is met artikel 26.
 
 ### Artikel 30 
 
-1. In afwijking van [artikel 228 van Boek 3 van het Burgerlijk Wetboek](../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) kan op het productierecht geen pandrecht worden gevestigd. 
+1. In afwijking van artikel 228 van Boek 3 van het Burgerlijk Wetboek kan op het productierecht geen pandrecht worden gevestigd. 
 2. Bij ministeriële regeling kan worden bepaald dat alvorens Onze Minister de in artikel 27, eerste lid, bedoelde kennisgeving in behandeling neemt, van deze kennisgeving mededeling wordt gedaan aan in die regeling genoemde derdebelanghebbenden. 
 3. Bij de ministeriële regeling worden nadere regels gesteld voor de uitvoering van het tweede lid, onder meer over:
 
@@ -563,7 +563,7 @@ b.de kosten van het onderzoek voortvloeiende uit de aanvraag geheel of gedeeltel
 
 ### Artikel  43  
 
-1. [Afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op de voorbereiding van:
+1. Afdeling 3.4 van de Algemene wet bestuursrecht is van toepassing op de voorbereiding van:
 
 a.een algemene maatregel van bestuur als bedoeld in de artikelen 4, 6, 11, vierde lid, 16, 32, 33 en 76, eerste lid,
 
@@ -600,7 +600,7 @@ Onze Minister zendt in 2007 en vervolgens telkens na ten hoogste vijf jaar aan d
 
 ###Artikel  48 
 
-Onze Minister kan voorschriften geven betreffende de monsterneming, de verpakking, de conservering, de verzegeling, de verzending en het onderzoek van de in [artikel 5:18 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde monsters.
+Onze Minister kan voorschriften geven betreffende de monsterneming, de verpakking, de conservering, de verzegeling, de verzending en het onderzoek van de in artikel 5:18 van de Algemene wet bestuursrecht bedoelde monsters.
 
 ###Artikel  49 
 
@@ -656,13 +656,13 @@ c.€ 11 per kilogram fosfaat waarmee de in artikel 8, onderdeel c, bedoelde fo
 1. Bij algemene maatregel van bestuur kunnen van de artikelen 57, eerste lid, 58, eerste lid, en 59 afwijkende tarieven worden vastgesteld. 
 2. De afwijking bedraagt ten hoogste 50%. 
 3. Na de plaatsing in het Staatsblad van de algemene maatregel van bestuur wordt een voorstel van wet tot regeling van het betrokken onderwerp zo spoedig mogelijk bij de Staten-Generaal ingediend. Indien het voorstel wordt ingetrokken of indien een van de beide kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur onverwijld ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de algemene maatregel van bestuur ingetrokken op het tijdstip van inwerkingtreding van die wet. 
-4. [Artikel 1, tweede lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) is van overeenkomstige toepassing.
+4. Artikel 1, tweede lid, van het Wetboek van Strafrecht is van overeenkomstige toepassing.
 
 ### Artikel 62 
 
-1.  De op grond van artikel 57, 58 of 59 te bepalen bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een rechtspersoon of een vennootschap.   
+1.  De op grond van artikel 57, 58 of 59 te bepalen bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een rechtspersoon of een vennootschap.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boete die voor een overtreding of voor categorieën van overtredingen ten hoogste kan worden opgelegd ter zake van overtreding van het bij of krachtens artikel 9, tweede en derde lid, 11, vijfde lid, 13, vierde lid, 15, 33b, vijfde lid, 34, 35, 36, 37, 38, derde lid, of 40 bepaalde.   
-3.  De op grond van het tweede lid te bepalen bestuurlijke boete bedraagt per overtreding ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md). 
+3.  De op grond van het tweede lid te bepalen bestuurlijke boete bedraagt per overtreding ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht. 
 
 ### § 3 
 
@@ -674,7 +674,7 @@ c.€ 11 per kilogram fosfaat waarmee de in artikel 8, onderdeel c, bedoelde fo
 
 ### Artikel  69  
 
-Onze Minister kan de bestuurlijke boete verrekenen met te verstrekken subsidies bij of krachtens de [Kaderwet EZ-subsidies](../../../wet/kaderwet/ez-subsidies/BWBR0007919/README.md).
+Onze Minister kan de bestuurlijke boete verrekenen met te verstrekken subsidies bij of krachtens de Kaderwet EZ-subsidies.
 
 ### Hoofdstuk  IX  
 
@@ -696,7 +696,7 @@ b. vóór 23 april 2010 een schriftelijke overeenkomst is gesloten en vóór 8�
 ### Artikel 76 
 
 1. De verschillende artikelen van deze wet, of onderdelen daarvan, komen te vervallen op een bij algemene maatregel van bestuur te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden bepaald. 
-2.  Op het in het eerste lid bedoelde tijdstip vervallen in [artikel 1a van de Wet op de economische delicten](../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) de verwijzingen naar de betrokken artikelen of onderdelen.  
+2.  Op het in het eerste lid bedoelde tijdstip vervallen in artikel 1a van de Wet op de economische delicten de verwijzingen naar de betrokken artikelen of onderdelen.  
 3. Een algemene maatregel van bestuur als bedoeld in het eerste lid wordt aan beide kamers der Staten-Generaal overgelegd. Hij treedt in werking op een tijdstip dat nadat vier weken na de overlegging zijn verstreken bij koninklijk besluit wordt vastgesteld, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van beide kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken.
 
 ###Artikel 77 

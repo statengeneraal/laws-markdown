@@ -3,22 +3,22 @@
 ##Verplaatsingskostenregeling 1989
 
 De minister van Binnenlandse Zaken,  
-Gelet op het [Verplaatsingskostenbesluit 1989](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) (Stb. 424);
+Gelet op het Verplaatsingskostenbesluit 1989 (Stb. 424);
 Besluit:    
 
 ### Artikel  1  
 
-1.  In deze regeling wordt verstaan onder ‘besluit’: het [Verplaatsingskostenbesluit 1989](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md).   
-2.  De begripsomschrijvingen in [artikel 2 van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) zijn voor de toepassing van deze regeling van overeenkomstige toepassing.  
+1.  In deze regeling wordt verstaan onder ‘besluit’: het Verplaatsingskostenbesluit 1989.   
+2.  De begripsomschrijvingen in artikel 2 van het besluit zijn voor de toepassing van deze regeling van overeenkomstige toepassing.  
 
 ### Artikel  2  
 
-1.  Indien het verlaten van een dienstwoning, bedoeld in [artikel 4 van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) verband houdt met een ontslag uit de dienst, bestaat aanspraak op een tegemoetkoming in verhuiskosten als gold het een verhuizing binnen de woonplaats.   
+1.  Indien het verlaten van een dienstwoning, bedoeld in artikel 4 van het besluit verband houdt met een ontslag uit de dienst, bestaat aanspraak op een tegemoetkoming in verhuiskosten als gold het een verhuizing binnen de woonplaats.   
 2.  Indien het mogelijk blijkt, dat de dienstwoning eerder beschikbaar komt, als de betrokkene een woning buiten de woonplaats betrekt, kan het bevoegde gezag in afwijking van het eerste lid bepalen, dat aanspraak bestaat op gehele of gedeeltelijke vergoeding van de daarmee samenhangende transportkosten.   
 3.  Het bevoegde gezag kan na daartoe een bedrijfsmaatschappelijk advies te hebben ingewonnen, bepalen dat het tweede lid van overeenkomstige toepassing is, indien de betrokkene bij het verlaten van de dienstwoning op sociale gronden een woning buiten de woonplaats betrekt.   
-4.  Het eerste, tweede en derde lid zijn van overeenkomstige toepassing voor het geval bedoeld in [artikel 4, derde lid van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md).   
-5.  Onverminderd het gestelde in het eerste, tweede en derde lid wordt in de gevallen bedoeld in [artikel 4, tweede lid van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), de tegemoetkoming beperkt tot transportkosten.   
-6.  In de gevallen bedoeld in [artikel 6, tweede lid van het besluit ](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md)wordt de tegemoetkoming beperkt tot transportkosten en de kosten als bedoeld in [artikel 9 van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md).   
+4.  Het eerste, tweede en derde lid zijn van overeenkomstige toepassing voor het geval bedoeld in artikel 4, derde lid van het besluit.   
+5.  Onverminderd het gestelde in het eerste, tweede en derde lid wordt in de gevallen bedoeld in artikel 4, tweede lid van het besluit, de tegemoetkoming beperkt tot transportkosten.   
+6.  In de gevallen bedoeld in artikel 6, tweede lid van het besluit wordt de tegemoetkoming beperkt tot transportkosten en de kosten als bedoeld in artikel 9 van het besluit.   
 7.  De betrokkene die geen aanspraak heeft op vervoer voor rijksrekening van zijn inboedel maar uitsluitend op vervoer van zijn bagage heeft bij een verhuizing overzee aanspraak op ten hoogste de kosten van het vervoer per schip van een hoeveelheid van: 
 
 1 m³ voor de betrokkene,  
@@ -35,7 +35,7 @@ Besluit:
 
 ### Artikel  4  
 
-De betrokkene die het transport van zijn inboedel niet door een transportondernemer laat verzorgen, maar de verhuizing in eigen beheer uitvoert, heeft aanspraak op vergoeding van de kosten van huur en brandstof van een (bestel- of vracht)auto dan wel – indien het vervoer van de inboedel anderszins plaatsvindt – op de vergoeding per kilometer genoemd in [artikel 2 van de Reisregeling binnenland](../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md), met dien verstande dat niet meer dan twee ritten naar de nieuwe woning worden vergoed. De betrokkene zendt zijn declaratie – in geval er sprake is van huur van een auto vergezeld van de rekening van het verhuurbedrijf – naar het bevoegde gezag. 
+De betrokkene die het transport van zijn inboedel niet door een transportondernemer laat verzorgen, maar de verhuizing in eigen beheer uitvoert, heeft aanspraak op vergoeding van de kosten van huur en brandstof van een (bestel- of vracht)auto dan wel – indien het vervoer van de inboedel anderszins plaatsvindt – op de vergoeding per kilometer genoemd in artikel 2 van de Reisregeling binnenland, met dien verstande dat niet meer dan twee ritten naar de nieuwe woning worden vergoed. De betrokkene zendt zijn declaratie – in geval er sprake is van huur van een auto vergezeld van de rekening van het verhuurbedrijf – naar het bevoegde gezag. 
 
 ### Artikel  6  
 
@@ -44,11 +44,11 @@ De betrokkene die het transport van zijn inboedel niet door een transportonderne
 
 ### Artikel  7  
 
-De tegemoetkoming in dubbele woonkosten, als bedoeld in [artikel 8, eerste lid, onderdeel b van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), is gelijk aan de noodzakelijk te maken kosten, met dien verstande, dat de tegemoetkoming maximaal € 272,27 per maand bedraagt en over een termijn van maximaal vier maanden wordt verleend. 
+De tegemoetkoming in dubbele woonkosten, als bedoeld in artikel 8, eerste lid, onderdeel b van het besluit, is gelijk aan de noodzakelijk te maken kosten, met dien verstande, dat de tegemoetkoming maximaal € 272,27 per maand bedraagt en over een termijn van maximaal vier maanden wordt verleend. 
 
 ###Artikel 8 
 
-Het bedrag, bedoeld in [artikel 8, tweede lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), bedraagt € 5818,46.
+Het bedrag, bedoeld in artikel 8, tweede lid, van het besluit, bedraagt € 5818,46.
 
 ### Artikel  9  
 
@@ -65,15 +65,15 @@ Bij een verplaatsing uit, naar en buiten Nederland worden voor rijksrekening sle
 
 ### Artikel  11  
 
-1.  De vergoeding als bedoeld in [artikel 12, eerste lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) betreft zowel de kosten van openbaar vervoer per trein als de kosten van ander (aansluitend) openbaar vervoer dan de trein.   
+1.  De vergoeding als bedoeld in artikel 12, eerste lid, van het besluit betreft zowel de kosten van openbaar vervoer per trein als de kosten van ander (aansluitend) openbaar vervoer dan de trein.   
 2.  De vergoeding, bedoeld in het eerste lid, voor zover met de trein wordt gereisd, is gelijk aan de gemaakte kosten van het openbaar vervoer op basis van het tarief van de tweede klasse tot ten hoogste de maximumprijs van een NS-jaartrajectkaart tweede klasse.   
 3.  De vergoeding, bedoeld in het eerste lid, voor zover met ander (aansluitend) openbaar vervoer dan de trein wordt gereisd, is gelijk aan de gemaakte kosten van het desbetreffende openbaar vervoer.   
 4.  De betrokkene die met het openbaar vervoer reist en van de woning of het pension naar de opstaphalte van het openbaar vervoer met eigen vervoer meer dan een kilometer reist, dan wel van de uitstaphalte van het openbaar vervoer naar de plaats van tewerkstelling met eigen vervoer meer dan een kilometer reist, ontvangt voor dit traject dan wel voor beide trajecten een tegemoetkoming, die wordt berekend overeenkomstig de tegemoetkoming op grond van artikel 13, eerste lid. In afwijking van het eerste lid komt bij de toepassing van artikel 12 van het besluit het aansluitend openbaar vervoer anders dan de trein niet voor vergoeding of verstrekking van een vervoerbewijs in aanmerking, indien de betrokkene voor beide trajecten kiest voor de tegemoetkoming voor het gebruik van eigen vervoer. De keuze voor een tegemoetkoming voor eigen vervoer of voor aansluitend openbaar vervoer kan slechts worden gewijzigd bij wijziging van de reisroute of bij een tariefwijziging van het openbaar vervoer. 
 
 ### Artikel  12  
 
-1.  De berekening van de tegemoetkoming, bedoeld in [artikel 12a, eerste lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), geschiedt per maand met behulp van de formule, genoemd in het derde lid, met een maximum van € 363,15 per maand of een evenredig deel daarvan bij gemiddeld minder dan 5 reisdagen per week. De in de eerste volzin genoemde berekeningswijze wordt slechts toegepast indien de betrokkene ten minste 128 dagen per jaar daadwerkelijk naar dezelfde plaats van tewerkstelling reist, dan wel een evenredig deel daarvan voor zover het recht op de tegemoetkoming in de loop van het kalenderjaar aanvangt, eindigt of wijzigt, of indien de ambtenaar reist op gemiddeld minder dan vijf dagen per week. De tegemoetkoming wordt beëindigd indien een aaneengesloten periode van meer dan zes weken niet wordt gereisd en wordt hervat met ingang van de eerste dag van de maand, volgend op die waarop het reizen wordt hervat.   
-2.  In andere gevallen dan die, genoemd in het eerste lid, tweede volzin, geschiedt de berekening van de tegemoetkoming, bedoeld in [artikel 12a, eerste lid van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), per maand met behulp van de formule, genoemd in het vierde lid, met een maximum van € 20,36 per reisdag.   
+1.  De berekening van de tegemoetkoming, bedoeld in artikel 12a, eerste lid, van het besluit, geschiedt per maand met behulp van de formule, genoemd in het derde lid, met een maximum van € 363,15 per maand of een evenredig deel daarvan bij gemiddeld minder dan 5 reisdagen per week. De in de eerste volzin genoemde berekeningswijze wordt slechts toegepast indien de betrokkene ten minste 128 dagen per jaar daadwerkelijk naar dezelfde plaats van tewerkstelling reist, dan wel een evenredig deel daarvan voor zover het recht op de tegemoetkoming in de loop van het kalenderjaar aanvangt, eindigt of wijzigt, of indien de ambtenaar reist op gemiddeld minder dan vijf dagen per week. De tegemoetkoming wordt beëindigd indien een aaneengesloten periode van meer dan zes weken niet wordt gereisd en wordt hervat met ingang van de eerste dag van de maand, volgend op die waarop het reizen wordt hervat.   
+2.  In andere gevallen dan die, genoemd in het eerste lid, tweede volzin, geschiedt de berekening van de tegemoetkoming, bedoeld in artikel 12a, eerste lid van het besluit, per maand met behulp van de formule, genoemd in het vierde lid, met een maximum van € 20,36 per reisdag.   
 3.  De formule, bedoeld in het eerste lid, luidt:  
 
 | --- | --- |
@@ -87,27 +87,27 @@ Bij een verplaatsing uit, naar en buiten Nederland worden voor rijksrekening sle
 
 ### Artikel  13  
 
-1.  De betrokkene, bedoeld in [artikel 12b, eerste lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), ontvangt een tegemoetkoming, berekend met overeenkomstige toepassing van artikel 12, met dien verstande dat: 
+1.  De betrokkene, bedoeld in artikel 12b, eerste lid, van het besluit, ontvangt een tegemoetkoming, berekend met overeenkomstige toepassing van artikel 12, met dien verstande dat: 
 
 a. het maximum van de tegemoetkoming, bedoeld in artikel 12, eerste lid, per maand € 54,54 bedraagt;  
 
 b. het maximum van de tegemoetkoming per reisdag, bedoeld in artikel 12, tweede lid, € 3,06 bedraagt;  
 
 c. de tegemoetkoming per kilometer € 0,06 bedraagt.     
-2.  De betrokkene, bedoeld in [artikel 12b, tweede lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md), ontvangt een tegemoetkoming, berekend met overeenkomstige toepassing van artikel 12, met dien verstande dat: 
+2.  De betrokkene, bedoeld in artikel 12b, tweede lid, van het besluit, ontvangt een tegemoetkoming, berekend met overeenkomstige toepassing van artikel 12, met dien verstande dat: 
 
 a. in de formule D € 0,18 is, voor zover de tegemoetkoming betrekking heeft op de dagen waarop de betrokkene blijkens een verklaring per fiets reist, of € 0,06, voor zover de tegemoetkoming betrekking heeft op de overige dagen;  
 
 b. het maximale bedrag, bedoeld in artikel 12, eerste lid, volgens de volgende formule wordt berekend: A/5 * × + B/5 * Y waarbij: A is het gemiddeld aantal reisdagen per week, waarop blijkens een schriftelijke verklaring de afstand per fiets wordt afgelegd; B is het gemiddeld aantal overige reisdagen per week; X is het maximale bedrag, genoemd in artikel 12, eerste lid; Y is het maximale bedrag, genoemd in het eerste lid, onder a.  
 
 c. het maximale bedrag, genoemd in artikel 12, tweede lid, van toepassing is op het daadwerkelijke aantal reisdagen per maand, waarop de afstand per fiets is afgelegd en het maximale bedrag, genoemd in het eerste lid, onder b, van toepassing is op de daadwerkelijke overige reisdagen per maand..     
-3.  Het bevoegd gezag kan van de betrokkene, bedoeld in het tweede lid, verlangen dat deze zijn reispatroon, opgegeven in de in [artikel 12b, tweede lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) bedoelde verklaring, niet vaker dan een maal per kalenderjaar wijzigt.  
+3.  Het bevoegd gezag kan van de betrokkene, bedoeld in het tweede lid, verlangen dat deze zijn reispatroon, opgegeven in de in artikel 12b, tweede lid, van het besluit bedoelde verklaring, niet vaker dan een maal per kalenderjaar wijzigt.  
 
 ### Artikel  14  
 
-1.  De tegemoetkoming in pensionkosten als bedoeld in [artikel 12ba, eerste lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) bedraagt voor de betrokkene die gewoonlijk met gezinsleden samenwoont 90% en voor de overige betrokkenen 60% van de betaalde pensionkosten, voor zover deze kosten niet uitgaan boven de door het bevoegde gezag redelijk geoordeelde pensionkosten.   
-2.  De vergoeding in reiskosten voor gezinsbezoek dan wel voor het bezoeken van de plaats waar betrokkene nog is gehuisvest is gelijk aan de kosten van het gebruik van het opebaar vervoer en wel naar het tarief van de laagste klasse dan wel – indien per eigen vervoer wordt gereisd – gelijk aan de vergoeding per kilometer, genoemd in [artikel 3, eerste volzin, van de Reisregeling binnenland](../../../../ministeriele-regeling/reisregeling/binnenland/BWBR0005912/README.md).   
-3.   Voor de betrokkene als bedoeld in [artikel 12ba, tweede lid, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md) zijn de artikelen 11, 12 en 13 van overeenkomstige toepassing.  
+1.  De tegemoetkoming in pensionkosten als bedoeld in artikel 12ba, eerste lid, van het besluit bedraagt voor de betrokkene die gewoonlijk met gezinsleden samenwoont 90% en voor de overige betrokkenen 60% van de betaalde pensionkosten, voor zover deze kosten niet uitgaan boven de door het bevoegde gezag redelijk geoordeelde pensionkosten.   
+2.  De vergoeding in reiskosten voor gezinsbezoek dan wel voor het bezoeken van de plaats waar betrokkene nog is gehuisvest is gelijk aan de kosten van het gebruik van het opebaar vervoer en wel naar het tarief van de laagste klasse dan wel – indien per eigen vervoer wordt gereisd – gelijk aan de vergoeding per kilometer, genoemd in artikel 3, eerste volzin, van de Reisregeling binnenland.   
+3.   Voor de betrokkene als bedoeld in artikel 12ba, tweede lid, van het besluit zijn de artikelen 11, 12 en 13 van overeenkomstige toepassing.  
 
 ### Artikel  15  
 
@@ -118,7 +118,7 @@ c. het maximale bedrag, genoemd in artikel 12, tweede lid, van toepassing is op 
 ### Artikel  16  
 
 1.  De aanvraag voor tegemoetkoming in verhuiskosten dient voor de datum van de verhuizing bij het bevoegde gezag te zijn ingediend.   
-2.  Zo spoedig mogelijk na de verhuizing doch in ieder geval binnen zes maanden daarna doet de betrokkene bij het bevoegde gezag opgave van de kosten als bedoeld in [artikel 8, eerste lid, onderdeel b, van het besluit](../../../../AMvB/verplaatsingskostenbesluit/1989/BWBR0004630/README.md).  
+2.  Zo spoedig mogelijk na de verhuizing doch in ieder geval binnen zes maanden daarna doet de betrokkene bij het bevoegde gezag opgave van de kosten als bedoeld in artikel 8, eerste lid, onderdeel b, van het besluit.  
 
 ### Artikel  17  
 
@@ -126,7 +126,7 @@ Deze regeling, die zal worden gepubliceerd in de Nederlandse Staatscourant, tree
 
 ### Artikel  18  
 
-Deze regeling kan worden aangehaald als: [Verplaatsingskostenregeling 1989](../../../../ministeriele-regeling/verplaatsingskostenregeling/1989/BWBR0004633/README.md). 
+Deze regeling kan worden aangehaald als: Verplaatsingskostenregeling 1989. 
 
 's-Gravenhage 
 20 oktober 1989    

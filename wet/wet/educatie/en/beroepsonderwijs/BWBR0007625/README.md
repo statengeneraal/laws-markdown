@@ -324,9 +324,9 @@ f. de artikelen 8.3.1 tot en met 8.3.3.
 
 ####Samenwerking met onbekostigde VO-scholen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
-1.  Het bevoegd gezag van een instelling als bedoeld in artikel 1.4a.1, tweede lid, waarvoor wat betreft een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onder a, toepassing is gegeven aan artikel 1.4a.1, eerste lid, kan, ten aanzien van genoemde opleiding, in afwijking van artikel 8.1.1, zesde lid, eerste volzin, in gevallen als geregeld in en met inachtneming van de voorschriften gegeven bij of krachtens artikel 58a van de Wet op het voortgezet onderwijs tot onderwijs- en examenvoorzieningen van de instelling toelaten zij die niet als deelnemer of examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een ingevolge artikel 56 van de Wet op het voorgezet onderwijs aangewezen school.   
+1.  Het bevoegd gezag van een instelling als bedoeld in artikel 1.4a.1, tweede lid, waarvoor wat betreft een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onder a, toepassing is gegeven aan artikel 1.4a.1, eerste lid, kan, ten aanzien van genoemde opleiding, in afwijking van artikel 8.1.1d, eerste volzin, in gevallen als geregeld in en met inachtneming van de voorschriften gegeven bij of krachtens artikel 58a van de Wet op het voortgezet onderwijs tot onderwijs- en examenvoorzieningen van de instelling toelaten zij die niet als deelnemer of examendeelnemer aan de instelling worden ingeschreven maar zijn ingeschreven als leerling aan een ingevolge artikel 56 van de Wet op het voorgezet onderwijs aangewezen school.   
 2.  Indien het bevoegd gezag van een ingevolge artikel 56 van de Wet op het voorgezet onderwijs aangewezen school ter uitvoering van artikel 58a, eerste en tweede lid, van de Wet op het voortgezet onderwijs leerlingen in het kader van het onderwijs waarvoor zij aan die school zijn ingeschreven, onderwijs wil kunnen laten volgen dat een instelling als bedoeld in artikel 1.4a.1, tweede lid, van datzelfde bevoegd gezag verzorgt, regelt het bevoegd gezag op overeenkomstige wijze de onderwerpen, bedoeld in artikel 58a, derde lid, aanhef en onder a tot en met d, van de Wet op het voortgezet onderwijs.  
 
 ### Titel  5  

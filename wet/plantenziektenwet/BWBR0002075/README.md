@@ -19,7 +19,7 @@ b. "inspecteur-generaal": inspecteur-generaal van de Nederlandse Voedsel- en War
 
 c. "instelling": privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, bedoeld in artikel 9;   
 
-d. "bedrijfslichaam": produktschap of bedrijfschap, bedoeld in [artikel 66 van de Wet op de Bedrijfsorganisatie](../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (*Stb.* 1950, K22);   
+d. "bedrijfslichaam": produktschap of bedrijfschap, bedoeld in artikel 66 van de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K22);   
 
 e. "schadelijke organismen": voor planten of plantaardige produkten schadelijke organismen van dierlijke of plantaardige aard, alsmede virussen, mycoplasma's, viroïden, rickettsia’s of andere ziekteverwekkers;   
 
@@ -118,21 +118,21 @@ Bij algemene maatregel van bestuur kunnen instellingen die daartoe de bereidheid
 
 ### Artikel  9a  
 
-Op een instelling als bedoeld in artikel 9 is de [Kaderwet zelfstandige bestuursorganen](../../../wet/kaderwet/zelfstandige/bestuursorganen/BWBR0020495/README.md) van toepassing.
+Op een instelling als bedoeld in artikel 9 is de Kaderwet zelfstandige bestuursorganen van toepassing.
 
 ### Artikel  10  
 
-1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren, alsmede de bij besluit van Onze Minister aangewezen personen, belast met werkzaamheden ter uitvoering van het bij of krachtens deze wet bepaalde, werkzaam bij controle-instellingen of keuringsinstellingen als bedoeld in [artikel 8 van de Landbouwkwaliteitswet](../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) onderscheidenlijk [artikel 19 van de Zaaizaad- en plantgoedwet 2005](../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md).  
+1. Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren, alsmede de bij besluit van Onze Minister aangewezen personen, belast met werkzaamheden ter uitvoering van het bij of krachtens deze wet bepaalde, werkzaam bij controle-instellingen of keuringsinstellingen als bedoeld in artikel 8 van de Landbouwkwaliteitswet onderscheidenlijk artikel 19 van de Zaaizaad- en plantgoedwet 2005.  
 2.  De in het eerste lid bedoelde ambtenaren en personen zijn tevens belast met het onderzoek naar de aanwezigheid van schadelijke organismen.    
 3.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de *Staatscourant*.   
 
 ### Artikel  11  
 
-De [artikelen 5:13](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:15](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) tot en met [5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de in artikel 10, tweede lid, bedoelde ambtenaren en personen.  
+De artikelen 5:13 en 5:15 tot en met 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van de in artikel 10, tweede lid, bedoelde ambtenaren en personen.  
 
 ### Artikel  12  
 
-1.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van [artikel 5:20, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), voor zover het betreft de verplichting tot het verlenen van medewerking aan een krachtens artikel 10 aangewezen ambtenaar of persoon.    
+1.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van artikel 5:20, eerste lid, van de Algemene wet bestuursrecht, voor zover het betreft de verplichting tot het verlenen van medewerking aan een krachtens artikel 10 aangewezen ambtenaar of persoon.    
 2.   Verkrijgen de in artikel 10 bedoelde ambtenaren of personen de wetenschap of het vermoeden van de aanwezigheid van schadelijke organismen dan zijn zij bevoegd, in afwachting van krachtens deze wet voor te schrijven maatregelen, in individuele gevallen voor de tijd van acht en veertig uur of zoveel langer als naar het oordeel van Onze Minister nodig is het vervoeren of verplaatsen van de schadelijke organismen, van planten, plantaardige produkten, grond of andere cultuurmedia of andere goederen waarin of waarop zich de schadelijke organismen kunnen bevinden, te verbieden of daaromtrent voorschriften te geven.   
 
 ### Artikel  17  

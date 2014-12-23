@@ -3,7 +3,7 @@
 ##Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2008
 
 Het College voor zorgverzekeringen,  
-Gelet op [artikel 4.4, eerste en tweede lid van het Besluit Wfsv](../../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) en gelet op de [Aanwijzing besteedbare middelen beheerskosten AWBZ 2008](../../../../../../../../../../ministeriele-regeling/aanwijzing/besteedbare/middelen/beheerskosten/awbz/2008/BWBR0023087/README.md),
+Gelet op artikel 4.4, eerste en tweede lid van het Besluit Wfsv en gelet op de Aanwijzing besteedbare middelen beheerskosten AWBZ 2008,
 Heeft in zijn vergadering van 14 januari 2008 besloten:    
 
 ### Artikel  1  
@@ -11,9 +11,9 @@ Materieel uitgewerkt per 01-02-2010
 
 Dit besluit verstaat onder: 
 
-a. zorgverzekeraar: een zorgverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel b van de AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+a. zorgverzekeraar: een zorgverzekeraar als bedoeld in artikel 1, eerste lid, onderdeel b van de AWBZ;  
 
-b. verbindingskantoor: een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md).   
+b. verbindingskantoor: een verbindingskantoor als bedoeld in artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering.   
 
 ### Artikel  2  
 Materieel uitgewerkt per 01-02-2010 

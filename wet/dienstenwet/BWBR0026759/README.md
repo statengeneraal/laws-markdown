@@ -22,7 +22,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *afnemer:* natuurlijke persoon die onderdaan is van een lidstaat of die rechten heeft die hem door communautaire besluiten zijn verleend, of een rechtspersoon in de zin van artikel 48 van het Verdrag die in een lidstaat is gevestigd en, al dan niet voor beroepsdoeleinden, van een dienst gebruik maakt of wil maken;  
 
-*Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in [artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt](../../../wet/instellingswet/autoriteit/consument/en/markt/BWBR0033043/README.md); 
+*Autoriteit Consument en Markt:* de Autoriteit Consument en Markt, genoemd in artikel 2, eerste lid, van de Instellingswet Autoriteit Consument en Markt; 
 
 *bevoegde instantie:* bestuursorgaan, een ander orgaan of een autoriteit, dat of die een toezichthoudende, vergunningverlenende of regelgevende rol vervult ten aanzien van diensten;  
 
@@ -204,7 +204,7 @@ d. op communautair niveau vastgestelde gedragscodes die gericht zijn op de verge
 3.  Indien een bevoegde instantie de verzochte informatie niet kan verstrekken, deelt zij dat onverwijld mee.   
 4.  Een bevoegde instantie draagt er zorg voor dat zij langs elektronische weg voldoende bereikbaar is voor een verzoek van een dienstverrichter om informatie als bedoeld in het eerste lid.   
 5.  Een bevoegde instantie verzendt een bericht met de verzochte informatie als bedoeld in het eerste lid, of een mededeling als bedoeld in het derde lid, langs elektronische weg, voor zover een dienstverrichter waarvoor het bericht bestemd is aan de bevoegde instantie kenbaar heeft gemaakt dat hij langs deze weg voldoende bereikbaar is.   
-6.  Het vijfde lid geldt, voor zover van toepassing, in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+6.  Het vijfde lid geldt, voor zover van toepassing, in afwijking van artikel 2:14, eerste lid, van de Algemene wet bestuursrecht.  
 
 ### §  3.3  
 
@@ -226,7 +226,7 @@ b. verzendt daarop betrekking hebbende berichten via het centraal loket, voor zo
 
 c. draagt er zorg voor dat zij via het centraal loket voldoende bereikbaar is voor daarop betrekking hebbende berichten van een dienstverrichter.     
 2.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot technische eisen waaraan door een bevoegde instantie als bedoeld in het eerste lid moet worden voldaan met het oog op aansluiting op het centraal loket.   
-3.  Het eerste lid geldt, voor zover van toepassing, in afwijking van [artikel 2:14, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+3.  Het eerste lid geldt, voor zover van toepassing, in afwijking van artikel 2:14, eerste lid, van de Algemene wet bestuursrecht.   
 4.  Bij ministeriële regeling kunnen regels worden gesteld ter uitvoering van door de Europese Commissie met inachtneming van artikel 8, derde lid, van de richtlijn vastgestelde gedetailleerde regels.   
 5.  Indien een via het centraal loket verzonden bericht dat op procedures en formaliteiten betrekking heeft, is ondertekend met een elektronische handtekening die afwijkt van een elektronische handtekening die bij of krachtens wettelijk voorschrift is voorgeschreven of door een bevoegde instantie wordt geëist, kan een bevoegde instantie dit bericht niet om die reden weigeren, indien de elektronische handtekening voldoet aan een van de in de ministeriële regeling, bedoeld in het vierde lid, genoemde elektronische handtekeningen, tenzij: 
 
@@ -236,8 +236,8 @@ b. de in de ministeriële regeling, bedoeld in het vierde lid, genoemde elektron
 
 ### Artikel  15  
 
-1.  [Artikel 2:15, tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), is niet van toepassing op de verzending via het centraal loket van gegevens en bescheiden die op procedures en formaliteiten betrekking hebben.   
-2.  Voor zover daarvan bij of krachtens deze wet niet wordt afgeweken, zijn de [artikelen 2:14, derde lid](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [2:15, derde en vierde lid](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [2:16](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [2:17 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van overeenkomstige toepassing op berichten waarop dit hoofdstuk en hoofdstuk 4 van toepassing zijn en waarbij een bevoegde instantie niet als bestuursorgaan is betrokken.  
+1.  Artikel 2:15, tweede lid, van de Algemene wet bestuursrecht, is niet van toepassing op de verzending via het centraal loket van gegevens en bescheiden die op procedures en formaliteiten betrekking hebben.   
+2.  Voor zover daarvan bij of krachtens deze wet niet wordt afgeweken, zijn de artikelen 2:14, derde lid, 2:15, derde en vierde lid, 2:16 en 2:17 van de Algemene wet bestuursrecht van overeenkomstige toepassing op berichten waarop dit hoofdstuk en hoofdstuk 4 van toepassing zijn en waarbij een bevoegde instantie niet als bestuursorgaan is betrokken.  
 
 ### §  3.4  
 
@@ -245,8 +245,8 @@ b. de in de ministeriële regeling, bedoeld in het vierde lid, genoemde elektron
 
 ### Artikel  16  
 
-1.  Onze Minister verwerkt persoonsgegevens als bedoeld in [artikel 1, onderdeel a, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), met het doel de uitwisseling van berichtenverkeer dat betrekking heeft op de afwikkeling van procedures en formaliteiten via het centraal loket voor dienstverrichters mogelijk te maken.   
-2.  Ten aanzien van de in het eerste lid bedoelde verwerking van persoonsgegevens, is Onze Minister verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).  
+1.  Onze Minister verwerkt persoonsgegevens als bedoeld in artikel 1, onderdeel a, van de Wet bescherming persoonsgegevens, met het doel de uitwisseling van berichtenverkeer dat betrekking heeft op de afwikkeling van procedures en formaliteiten via het centraal loket voor dienstverrichters mogelijk te maken.   
+2.  Ten aanzien van de in het eerste lid bedoelde verwerking van persoonsgegevens, is Onze Minister verantwoordelijke in de zin van artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens.  
 
 ### Hoofdstuk  4  
 
@@ -364,7 +364,7 @@ Op een informatieverzoek als bedoeld in de artikelen 23 tot en met 25 is artikel
 
 ### Artikel  28  
 
-1. In afwijking van [artikel 4:20a, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is [paragraaf 4.1.3.3 van die wet](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing op een aanvraag om een vergunning, tenzij bij wettelijk voorschrift anders is bepaald.  
+1. In afwijking van artikel 4:20a, eerste lid, van de Algemene wet bestuursrecht is paragraaf 4.1.3.3 van die wet van toepassing op een aanvraag om een vergunning, tenzij bij wettelijk voorschrift anders is bepaald.  
 2.  Het eerste lid is niet van toepassing op de aanvraag om een vergunning, ingesteld bij of ter uitvoering van een verordening of besluit als bedoeld in artikel 288 van het Verdrag betreffende de werking van de Europese Unie. 
 
 ### Artikel  29  
@@ -374,7 +374,7 @@ Op een informatieverzoek als bedoeld in de artikelen 23 tot en met 25 is artikel
 a. de bij wettelijk voorschrift met betrekking tot die vergunning bepaalde termijn waarbinnen de beschikking wordt gegeven of de termijn van acht weken, bedoeld in artikel 31, eerste lid;  
 
 b. beschikbare rechtsmiddelen om tegen de beschikking op te komen.     
-2.  Indien [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op een aanvraag van toepassing is, vermeldt de ontvangstbevestiging tevens dat de gevraagde beschikking van rechtswege is gegeven, indien niet tijdig op de aanvraag is beslist.  
+2.  Indien paragraaf 4.1.3.3 van de Algemene wet bestuursrecht op een aanvraag van toepassing is, vermeldt de ontvangstbevestiging tevens dat de gevraagde beschikking van rechtswege is gegeven, indien niet tijdig op de aanvraag is beslist.  
 
 ### Artikel  30  
 
@@ -384,14 +384,14 @@ b. beschikbare rechtsmiddelen om tegen de beschikking op te komen.
 ### Artikel  31  
 
 1.  Indien bij wettelijk voorschrift geen termijn is bepaald binnen welke een beschikking op een aanvraag om de desbetreffende vergunning dient te worden gegeven, wordt de beschikking zo spoedig mogelijk, doch uiterlijk binnen acht weken na ontvangst van de aanvraag gegeven.   
-2.  [Artikel 4:14, eerste lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vindt alleen toepassing indien een beslissing op een aanvraag om een vergunning vanwege de ingewikkeldheid van het onderwerp niet kan worden gegeven binnen de in het eerste lid bedoelde termijn. De termijn kan eenmaal worden verlengd.   
-3.  De in [artikel 4:14, derde lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde kennisgeving wordt bij toepassing van het tweede lid gedaan binnen de desbetreffende termijn, is met redenen omkleed, en geeft een zo kort mogelijke termijn waarbinnen de beslissing wel tegemoet kan worden gezien.   
-4.  Indien [afdeling 3.4 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) op een aanvraag van toepassing is, kan een bevoegde instantie de termijn voor het geven van de beschikking, in afwijking van [artikel 3:18, tweede lid, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) ten hoogste eenmaal voor beperkte duur verlengen. De verlenging en de duur daarvan wordt, met inachtneming van de in artikel 3:18, tweede lid, bedoelde termijn van acht weken, gemotiveerd aan de aanvrager medegedeeld.  
+2.  Artikel 4:14, eerste lid, van de Algemene wet bestuursrecht vindt alleen toepassing indien een beslissing op een aanvraag om een vergunning vanwege de ingewikkeldheid van het onderwerp niet kan worden gegeven binnen de in het eerste lid bedoelde termijn. De termijn kan eenmaal worden verlengd.   
+3.  De in artikel 4:14, derde lid, van de Algemene wet bestuursrecht bedoelde kennisgeving wordt bij toepassing van het tweede lid gedaan binnen de desbetreffende termijn, is met redenen omkleed, en geeft een zo kort mogelijke termijn waarbinnen de beslissing wel tegemoet kan worden gezien.   
+4.  Indien afdeling 3.4 van de Algemene wet bestuursrecht op een aanvraag van toepassing is, kan een bevoegde instantie de termijn voor het geven van de beschikking, in afwijking van artikel 3:18, tweede lid, van de Algemene wet bestuursrecht ten hoogste eenmaal voor beperkte duur verlengen. De verlenging en de duur daarvan wordt, met inachtneming van de in artikel 3:18, tweede lid, bedoelde termijn van acht weken, gemotiveerd aan de aanvrager medegedeeld.  
 
 ### Artikel  32  
 
-1.  Indien een aanvrager van een vergunning met toepassing van [artikel 4:5 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de gelegenheid krijgt de aanvraag binnen de daarvoor door de bevoegde instantie gestelde termijn aan te vullen, vermeldt de bevoegde instantie tevens de gevolgen daarvan voor de termijn van het geven van de beschikking.   
-2.  In afwijking van [artikel 4:15, eerste lid, onderdeel b, van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), wordt de termijn voor het geven van een beschikking op een aanvraag voor een vergunning niet opgeschort door een mededeling als bedoeld in dat onderdeel.  
+1.  Indien een aanvrager van een vergunning met toepassing van artikel 4:5 van de Algemene wet bestuursrecht de gelegenheid krijgt de aanvraag binnen de daarvoor door de bevoegde instantie gestelde termijn aan te vullen, vermeldt de bevoegde instantie tevens de gevolgen daarvan voor de termijn van het geven van de beschikking.   
+2.  In afwijking van artikel 4:15, eerste lid, onderdeel b, van de Algemene wet bestuursrecht, wordt de termijn voor het geven van een beschikking op een aanvraag voor een vergunning niet opgeschort door een mededeling als bedoeld in dat onderdeel.  
 
 ### Artikel  33  
 
@@ -489,18 +489,18 @@ b. tot het verrichten van verificaties, inspecties en onderzoeken naar een diens
 
 ### Artikel  41  
 
-1.  Voor de toepassing van artikel 33, eerste lid, van de richtlijn wordt een verklaring omtrent het gedrag als bedoeld in [artikel 28 van de Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) aangemerkt als informatie omtrent strafrechtelijke sancties.   
-2.  In afwijking van [artikel 33 van de Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) wordt een aanvraag tot het afgeven van een verklaring als bedoeld in het eerste lid met betrekking tot een dienstverrichter ingediend door een bevoegde instantie uit een andere lidstaat.   
-3.  Een aanvraag als bedoeld in het tweede lid wordt, in afwijking van [artikel 30, eerste lid, eerste volzin, van de Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) ingediend bij Onze Minister van Veiligheid en Justitie.   
+1.  Voor de toepassing van artikel 33, eerste lid, van de richtlijn wordt een verklaring omtrent het gedrag als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens aangemerkt als informatie omtrent strafrechtelijke sancties.   
+2.  In afwijking van artikel 33 van de Wet justitiële en strafvorderlijke gegevens wordt een aanvraag tot het afgeven van een verklaring als bedoeld in het eerste lid met betrekking tot een dienstverrichter ingediend door een bevoegde instantie uit een andere lidstaat.   
+3.  Een aanvraag als bedoeld in het tweede lid wordt, in afwijking van artikel 30, eerste lid, eerste volzin, van de Wet justitiële en strafvorderlijke gegevens ingediend bij Onze Minister van Veiligheid en Justitie.   
 4.  Artikel 37, derde lid, is van overeenkomstige toepassing op de in het tweede lid bedoelde aanvraag.  
 
 ### Artikel  42  
 
-1.  Voor de toepassing van de [artikelen 32, eerste lid](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [34](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [35](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) en [36 van de Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) wordt als aanvrager aangemerkt de dienstverrichter ten aanzien van wie de verklaring wordt gevraagd.   
+1.  Voor de toepassing van de artikelen 32, eerste lid, 34, 35 en 36 van de Wet justitiële en strafvorderlijke gegevens wordt als aanvrager aangemerkt de dienstverrichter ten aanzien van wie de verklaring wordt gevraagd.   
 2.  Onze Minister van Veiligheid en Justitie stelt de dienstverrichter ten aanzien van wie de verklaring wordt gevraagd in kennis van de in artikel 41, tweede lid, bedoelde aanvraag en vraagt zijn instemming met het in behandeling nemen van de aanvraag.   
 3.  Indien de dienstverrichter geen instemming verleent, bericht Onze Minister van Veiligheid en Justitie dit aan de bevoegde instantie die de verklaring heeft aangevraagd.   
 4.  Artikel 37, tweede en derde lid, zijn van overeenkomstige toepassing op de in het derde lid bedoelde berichten.   
-5.  Voor het in behandeling nemen van een aanvraag tot afgifte van een verklaring omtrent het gedrag kan Onze Minister van Veiligheid en Justitie van de aanvrager, bedoeld in het eerste lid, een vergoeding van kosten verlangen. [Artikel 39, tweede en vierde lid, van de Wet justitiële en strafvorderlijke gegevens](../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) is van overeenkomstige toepassing. 
+5.  Voor het in behandeling nemen van een aanvraag tot afgifte van een verklaring omtrent het gedrag kan Onze Minister van Veiligheid en Justitie van de aanvrager, bedoeld in het eerste lid, een vergoeding van kosten verlangen. Artikel 39, tweede en vierde lid, van de Wet justitiële en strafvorderlijke gegevens is van overeenkomstige toepassing. 
 
 ### Artikel  43  
 
@@ -525,7 +525,7 @@ Deze paragraaf is niet van toepassing:
 
 a. indien de wettelijke voorschriften op grond waarvan de maatregel wordt genomen, vallen onder een communautaire harmonisatiemaatregel op het gebied van de veiligheid van diensten;  
 
-b. op opsporingsonderzoeken als bedoeld in [artikel 132a van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).   
+b. op opsporingsonderzoeken als bedoeld in artikel 132a van het Wetboek van Strafvordering.   
 
 ### Artikel  46  
 
@@ -582,7 +582,7 @@ d. zij er voldoende van overtuigd is dat de aan het verzoek ten grondslag liggen
 2.  De in het eerste lid bedoelde kennisgeving geschiedt via het interne markt informatiesysteem, tenzij naar het oordeel van de bevoegde instantie ter uitvoering van regelgeving van de Europese Gemeenschap een ander elektronisch communicatiesysteem is aangewezen.   
 3.  De kennisgeving wordt gelijkgesteld met een besluit.   
 4.  Tegelijkertijd met of zo spoedig mogelijk na de bekendmaking wordt van het besluit mededeling gedaan aan de dienstverrichter.   
-5.  Het eerste lid is niet van toepassing op opsporingsonderzoeken als bedoeld in [artikel 132a van het Wetboek van Strafvordering](../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md).  
+5.  Het eerste lid is niet van toepassing op opsporingsonderzoeken als bedoeld in artikel 132a van het Wetboek van Strafvordering.  
 
 ### Artikel  52  
 
@@ -598,7 +598,7 @@ Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstels
 
 ### Artikel  54  
 
-[Artikel 5:20 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing indien een bevoegde instantie medewerking vordert naar aanleiding van een verzoek van een bevoegde instantie uit een andere lidstaat als bedoeld in de paragrafen 6.1, 6.2 en 6.3. 
+Artikel 5:20 van de Algemene wet bestuursrecht is van overeenkomstige toepassing indien een bevoegde instantie medewerking vordert naar aanleiding van een verzoek van een bevoegde instantie uit een andere lidstaat als bedoeld in de paragrafen 6.1, 6.2 en 6.3. 
 
 ### §  6.6  
 
@@ -639,8 +639,8 @@ Een bevoegde instantie die is betrokken bij een of meer eisen of vergunningstels
 
 ### Artikel  59  
 
-1.  Onze Minister verwerkt persoonsgegevens als bedoeld in [artikel 1, onderdeel a, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), bestaande uit de contactgegevens van de contactpersonen van de bevoegde instanties, met het doel de uitwisseling van berichten die betrekking hebben op de afwikkeling van verzoeken om informatie en verificaties, inspecties en onderzoeken en op waarschuwingsberichten, bedoeld in dit hoofdstuk, door bevoegde instanties via het interne markt informatiesysteem mogelijk te maken.   
-2.  Ten aanzien van de verwerking van persoonsgegevens, bedoeld in het eerste lid, is onze Minister verantwoordelijke in de zin van [artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens](../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).  
+1.  Onze Minister verwerkt persoonsgegevens als bedoeld in artikel 1, onderdeel a, van de Wet bescherming persoonsgegevens, bestaande uit de contactgegevens van de contactpersonen van de bevoegde instanties, met het doel de uitwisseling van berichten die betrekking hebben op de afwikkeling van verzoeken om informatie en verificaties, inspecties en onderzoeken en op waarschuwingsberichten, bedoeld in dit hoofdstuk, door bevoegde instanties via het interne markt informatiesysteem mogelijk te maken.   
+2.  Ten aanzien van de verwerking van persoonsgegevens, bedoeld in het eerste lid, is onze Minister verantwoordelijke in de zin van artikel 1, onderdeel d, van de Wet bescherming persoonsgegevens.  
 
 ### Artikel  60  
 
@@ -678,12 +678,12 @@ Wijzigt het Wetboek van Burgerlijke rechtsvordering.
 
 ### Artikel  65  
 
-Artikel 28 is tot 1 januari 2012 niet van toepassing op vergunningen, verleend krachtens de [Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md), de [Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md), de [Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md), de [Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) en de [Wet op de bedrijfsorganisatie](../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md). 
+Artikel 28 is tot 1 januari 2012 niet van toepassing op vergunningen, verleend krachtens de Provinciewet, de Gemeentewet, de Waterschapswet, de Wet gemeenschappelijke regelingen en de Wet op de bedrijfsorganisatie. 
 
 ### Artikel  66  
 
-1.  Bij algemene maatregel van bestuur worden tot 1 januari 2012 de vergunningen aangewezen waarvan de aanvraag op grond van artikel 28 is uitgezonderd van de toepassing van [paragraaf 4.1.3.3 van de Algemene wet bestuursrecht](../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  Het eerste lid is niet van toepassing op vergunningen, verleend krachtens de [Provinciewet](../../../wet/provinciewet/BWBR0005645/README.md), de [Gemeentewet](../../../wet/gemeentewet/BWBR0005416/README.md), de [Waterschapswet](../../../wet/waterschapswet/BWBR0005108/README.md), de [Wet gemeenschappelijke regelingen](../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) en de [Wet op de bedrijfsorganisatie](../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).   
+1.  Bij algemene maatregel van bestuur worden tot 1 januari 2012 de vergunningen aangewezen waarvan de aanvraag op grond van artikel 28 is uitgezonderd van de toepassing van paragraaf 4.1.3.3 van de Algemene wet bestuursrecht.   
+2.  Het eerste lid is niet van toepassing op vergunningen, verleend krachtens de Provinciewet, de Gemeentewet, de Waterschapswet, de Wet gemeenschappelijke regelingen en de Wet op de bedrijfsorganisatie.   
 3.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt voor de eerste maal niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  67  

@@ -18,7 +18,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a. Onze Minister: Onze Minister van Verkeer en Waterstaat;  
 
-b. motorrijtuig: een motorrijtuig als bedoeld in [artikel 2, onderdeel a, van de Wet op de motorrijtuigenbelasting 1994](../../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md);  
+b. motorrijtuig: een motorrijtuig als bedoeld in artikel 2, onderdeel a, van de Wet op de motorrijtuigenbelasting 1994;  
 
 c. mobiliteitstarief: een tarief als bedoeld in de artikelen 13, 21 en 26;  
 
@@ -32,7 +32,7 @@ g. tolbaan: een verkeersbaan, bestemd voor één rijrichting, van een weg die no
 
 ### Artikel  2  
 
-1. Deze wet is uitsluitend van toepassing op wegen die openbaar zijn in de zin van de [Wegenwet](../../../../../../wet/wegenwet/BWBR0001948/README.md).  
+1. Deze wet is uitsluitend van toepassing op wegen die openbaar zijn in de zin van de Wegenwet.  
 2.  Bij de toepassing van deze wet wordt de bij regeling van Onze Minister aangewezen EG-richtlijn in acht genomen.   
 3.  Een wijziging van de richtlijn, bedoeld in het tweede lid, gaat voor de toepassing van dit hoofdstuk gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven, tenzij bij ministerieel besluit, dat in de Staatscourant wordt bekendgemaakt, een ander tijdstip wordt vastgesteld. 
 
@@ -62,24 +62,24 @@ c. de aanwijzing van de betaalpoort naar verwachting ongewenste gevolgen heeft v
 2.  Een mobiliteitstarief wordt geheven van de houder van het motorrijtuig.   
 3.  Een motorrijtuig wordt gehouden door degene: 
 
-a. op wiens naam het voor het motorrijtuig opgegeven kenteken is gesteld in het kentekenregister, bedoeld in [artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);  
+a. op wiens naam het voor het motorrijtuig opgegeven kenteken is gesteld in het kentekenregister, bedoeld in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994;  
 
 b. op wiens naam, indien het een in het buitenland geregistreerd motorrijtuig betreft, terzake van de registratie van het betrokken motorrijtuig door het daartoe bevoegde gezag in het buitenland een kentekenbewijs is afgegeven;   
 
 c. die het motorrijtuig waarvoor geen kenteken is opgegeven, feitelijk ter beschikking heeft.     
-4.  Als motorrijtuig waarvoor geen kenteken is opgegeven, wordt niet aangemerkt een motorrijtuig waarvoor ingevolge artikel [37 van de Wegenverkeerswet 1994](../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), met uitzondering van het eerste lid, onderdeel b, daarvan, het voorzien zijn van een kenteken ter zake van het gebruik van de weg niet is voorgeschreven.  
+4.  Als motorrijtuig waarvoor geen kenteken is opgegeven, wordt niet aangemerkt een motorrijtuig waarvoor ingevolge artikel 37 van de Wegenverkeerswet 1994, met uitzondering van het eerste lid, onderdeel b, daarvan, het voorzien zijn van een kenteken ter zake van het gebruik van de weg niet is voorgeschreven.  
 
 ### Artikel  5  
 
-De mobiliteitstarieven worden geheven en ingevorderd met overeenkomstige toepassing van de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md). 
+De mobiliteitstarieven worden geheven en ingevorderd met overeenkomstige toepassing van de Algemene wet inzake rijksbelastingen, de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen. 
 
 ### Artikel  6  
 
 1.  Een verschuldigd geworden mobiliteitstarief wordt op aangifte voldaan, voor zover dat tarief niet op aangifte is voldaan op de voet van het vierde lid.   
 2.  Het passeren van een betaalpoort met een motorrijtuig wordt aangemerkt als het doen van aangifte.   
-4.  In afwijking van [artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) wordt het verschuldigd geworden mobiliteitstarief onverwijld na het doen van aangifte betaald. Bij regeling van Onze Minister in overeenstemming met Onze Minister van Financiën worden nadere regels gesteld inzake de voldoening.   
+4.  In afwijking van artikel 19, derde lid, van de Algemene wet inzake rijksbelastingen wordt het verschuldigd geworden mobiliteitstarief onverwijld na het doen van aangifte betaald. Bij regeling van Onze Minister in overeenstemming met Onze Minister van Financiën worden nadere regels gesteld inzake de voldoening.   
 4.  Een mobiliteitstarief kan op elektronische wijze worden geheven. De aangifte wordt alsdan op elektronische wijze gedaan op het tijdstip dat een betaalpoort wordt gepasseerd, door het in werking stellen van op de betaalpoort aanwezige betalingsapparatuur gelijktijdig met betaling van het verschuldigde mobiliteitstarief. Bij regeling van Onze Minister in overeenstemming met Onze Minister van Financiën worden nadere regels gesteld inzake de elektronische aangifte en voldoening.   
-5.   [Hoofdstuk II van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is, met uitzondering van artikel 8, tweede lid, niet van toepassing op de in het tweede en het vierde lid bedoelde aangiften.  
+5.   Hoofdstuk II van de Algemene wet inzake rijksbelastingen is, met uitzondering van artikel 8, tweede lid, niet van toepassing op de in het tweede en het vierde lid bedoelde aangiften.  
 
 ### Artikel  7  
 
@@ -92,11 +92,11 @@ Vrijstelling van de mobiliteitstarieven kan, onder voorwaarden en beperkingen, w
 
 ### Artikel  9  
 
-Indien een mobiliteitstarief wordt nageheven, blijft [artikel 67f van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) buiten toepassing. 
+Indien een mobiliteitstarief wordt nageheven, blijft artikel 67f van de Algemene wet inzake rijksbelastingen buiten toepassing. 
 
 ### Artikel  10  
 
-1.  De netto-opbrengst van de mobiliteitstarieven, bedoeld in de artikelen 15, eerste lid, en artikel 21, eerste lid, komt ten goede aan het Infrastructuurfonds, bedoeld in [artikel 2 van de Wet Infrastructuurfonds](../../../../../../wet/wet/infrastructuurfonds/BWBR0006001/README.md).   
+1.  De netto-opbrengst van de mobiliteitstarieven, bedoeld in de artikelen 15, eerste lid, en artikel 21, eerste lid, komt ten goede aan het Infrastructuurfonds, bedoeld in artikel 2 van de Wet Infrastructuurfonds.   
 2.  De netto-opbrengst van het mobiliteitstarief, bedoeld in artikel 21, tweede lid, komt uitsluitend ten goede aan fondsen waarvan de middelen uitsluitend worden aangewend voor infrastructurele investeringen.   
 3.  De netto-opbrengst van het mobiliteitstarief, bedoeld in artikel 21, eerste en tweede lid, wordt uitsluitend besteed aan de aanleg, het beheer en het onderhoud van de weg, waaraan de betaalpoort voor het desbetreffende tarief is gelegen.  
 
@@ -193,7 +193,7 @@ e. de A5 (Verlengde Westrandweg) in beide richtingen.
 
 1.  Onder de naam «toltarief» wordt van rijkswege een mobiliteitstarief geheven ter zake van het passeren van een voor dat tarief aangewezen betaalpoort op een weg, in beheer bij het Rijk, met een motorrijtuig in de voor die poort aangewezen rijrichting.   
 2.  Een provincie, een gemeente of een waterschap kan onder de naam «toltarief» een mobiliteitstarief instellen ter zake van het passeren van een voor dat tarief aangewezen betaalpoort op een weg, in beheer bij dat openbaar lichaam, met een motorrijtuig in de voor die poort aangewezen rijrichting.   
-3.  Voor de toepassing van [hoofdstuk XV van de Provinciewet](../../../../../../wet/provinciewet/BWBR0005645/README.md), [§ 1](../../../../../../wet/gemeentewet/BWBR0005416/README.md) en [§ 4 van hoofdstuk XV van de Gemeentewet](../../../../../../wet/gemeentewet/BWBR0005416/README.md) en de [hoofdstukken XVI](../../../../../../wet/waterschapswet/BWBR0005108/README.md) en [XVIII van de Waterschapswet](../../../../../../wet/waterschapswet/BWBR0005108/README.md) wordt het tarief, bedoeld in het tweede lid, aangemerkt als een provinciale belasting, onderscheidenlijk gemeentelijke belasting, onderscheidenlijk waterschapsbelasting.  
+3.  Voor de toepassing van hoofdstuk XV van de Provinciewet, § 1 en § 4 van hoofdstuk XV van de Gemeentewet en de hoofdstukken XVI en XVIII van de Waterschapswet wordt het tarief, bedoeld in het tweede lid, aangemerkt als een provinciale belasting, onderscheidenlijk gemeentelijke belasting, onderscheidenlijk waterschapsbelasting.  
 
 ### Artikel  22  
 
@@ -215,7 +215,7 @@ b. de hoogte van het toltarief per passage.
 
 ### Artikel  24  
 
-Bij een weg, in beheer bij het Rijk, treedt voor de toepassing van de [Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [Invorderingswet 1990](../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) Onze Minister in de plaats van de in die wetten genoemde functionarissen. 
+Bij een weg, in beheer bij het Rijk, treedt voor de toepassing van de Algemene wet inzake rijksbelastingen, de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen Onze Minister in de plaats van de in die wetten genoemde functionarissen. 
 
 ### Artikel  25  
 
@@ -248,7 +248,7 @@ Bij een weg, in beheer bij het Rijk, treedt voor de toepassing van de [Algemene 
 
 ### Artikel  28  
 
-1.  Als een provincie, een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, 's-Gravenhage, Rotterdam of Utrecht omvat, of een gemeente een regionaal mobiliteitsfonds tot stand heeft gebracht met als enig doel de bekostiging van infrastructurele maatregelen en vervoersdiensten, kan Onze Minister ten gunste van het fonds bijdragen verlenen, indien daarmee de bereikbaarheid van een uit het oogpunt van verkeer en vervoer samenhangend gebied en van belangrijke economische en andere centra binnen dat gebied wordt bevorderd, en binnen het gebied voldoende overeenstemming bestaat over de wijze waarop de middelen uit het fonds tot besteding zullen komen.   
+1.  Als een provincie, een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, 's-Gravenhage, Rotterdam of Utrecht omvat, of een gemeente een regionaal mobiliteitsfonds tot stand heeft gebracht met als enig doel de bekostiging van infrastructurele maatregelen en vervoersdiensten, kan Onze Minister ten gunste van het fonds bijdragen verlenen, indien daarmee de bereikbaarheid van een uit het oogpunt van verkeer en vervoer samenhangend gebied en van belangrijke economische en andere centra binnen dat gebied wordt bevorderd, en binnen het gebied voldoende overeenstemming bestaat over de wijze waarop de middelen uit het fonds tot besteding zullen komen.   
 2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent: 
 
 a. de voorwaarden en voorschriften die aan een bijdrage kunnen worden verbonden, en  
@@ -271,19 +271,19 @@ c. de wegvakken waar plaatsing van een betaalpoort voor het expresbaantarief wor
 
 ###Artikel 30 
 
-1. Op de voorbereiding van een in artikel 3, eerste lid, bedoeld besluit is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.
-2. Provinciale staten en de raden van de betrokken gemeenten delen binnen de in [artikel 3:16, eerste lid, van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bedoelde termijn hun oordeel over het ontwerpbesluit aan Onze Minister mee.
+1. Op de voorbereiding van een in artikel 3, eerste lid, bedoeld besluit is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.
+2. Provinciale staten en de raden van de betrokken gemeenten delen binnen de in artikel 3:16, eerste lid, van de Algemene wet bestuursrecht bedoelde termijn hun oordeel over het ontwerpbesluit aan Onze Minister mee.
 
 ### Artikel  32  
 
-1.  Een in artikel 3, eerste lid, bedoeld besluit geldt als voorbereidingsbesluit als bedoeld in [artikel 3.7 van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md). Voor zover het in de eerste volzin bedoelde besluit geldt als voorbereidingsbesluit, is artikel 3.7, vijfde en zesde lid, van de Wet ruimtelijke ordening niet van toepassing. Het besluit geldt niet meer als voorbereidingsbesluit indien voor de plaats die is aangewezen in het besluit een bestemmingsplan of een beheersverordening als bedoeld in [artikel 3.38 van die wet](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) in overeenstemming met het besluit in werking is getreden.   
-2.   [Artikel 3.3, eerste tot en met derde lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) is niet van toepassing op aanvragen om een omgevingsvergunning voor een bouwactiviteit als bedoeld in [artikel 2.1, eerste lid, onder a, van die wet](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) ter uitvoering van een besluit als bedoeld in artikel 3, eerste lid.  
-3. Voor zover het in artikel 3, eerste lid, bedoelde besluit en het bestemmingsplan of de beheersverordening niet met elkaar in overeenstemming zijn, geldt het besluit voor de uitvoering daarvan als omgevingsvergunning waarbij ten behoeve van een project van nationaal belang, met toepassing van [artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), van het bestemmingsplan of de beheersverordening wordt afgeweken. Zolang het bestemmingsplan of de beheersverordening nog niet in overeenstemming is met het besluit, verleent het college van burgemeester en wethouders van de gemeente aan degenen die inzage verlangen in het plan of de verordening, tevens inzage in het besluit. Bij de toepassing van [artikel 2.10 van die wet](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) wordt onder bestemmingsplan of beheersverordening mede het besluit begrepen.
-4. Voor zover een bestemmingsplan, een beheersverordening of een ander besluit voor de uitvoering van werken of werkzaamheden een omgevingsvergunning voor een aanlegactiviteit als bedoeld in [artikel 2.1, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) vereist, geldt zodanige eis niet voor de uitvoering van werken of werkzaamheden ter uitwerking van het in artikel 3, eerste lid, bedoelde besluit. 
+1.  Een in artikel 3, eerste lid, bedoeld besluit geldt als voorbereidingsbesluit als bedoeld in artikel 3.7 van de Wet ruimtelijke ordening. Voor zover het in de eerste volzin bedoelde besluit geldt als voorbereidingsbesluit, is artikel 3.7, vijfde en zesde lid, van de Wet ruimtelijke ordening niet van toepassing. Het besluit geldt niet meer als voorbereidingsbesluit indien voor de plaats die is aangewezen in het besluit een bestemmingsplan of een beheersverordening als bedoeld in artikel 3.38 van die wet in overeenstemming met het besluit in werking is getreden.   
+2.   Artikel 3.3, eerste tot en met derde lid, van de Wet algemene bepalingen omgevingsrecht is niet van toepassing op aanvragen om een omgevingsvergunning voor een bouwactiviteit als bedoeld in artikel 2.1, eerste lid, onder a, van die wet ter uitvoering van een besluit als bedoeld in artikel 3, eerste lid.  
+3. Voor zover het in artikel 3, eerste lid, bedoelde besluit en het bestemmingsplan of de beheersverordening niet met elkaar in overeenstemming zijn, geldt het besluit voor de uitvoering daarvan als omgevingsvergunning waarbij ten behoeve van een project van nationaal belang, met toepassing van artikel 2.12, eerste lid, onder a, onder 3°, van de Wet algemene bepalingen omgevingsrecht, van het bestemmingsplan of de beheersverordening wordt afgeweken. Zolang het bestemmingsplan of de beheersverordening nog niet in overeenstemming is met het besluit, verleent het college van burgemeester en wethouders van de gemeente aan degenen die inzage verlangen in het plan of de verordening, tevens inzage in het besluit. Bij de toepassing van artikel 2.10 van die wet wordt onder bestemmingsplan of beheersverordening mede het besluit begrepen.
+4. Voor zover een bestemmingsplan, een beheersverordening of een ander besluit voor de uitvoering van werken of werkzaamheden een omgevingsvergunning voor een aanlegactiviteit als bedoeld in artikel 2.1, eerste lid, onder b, van de Wet algemene bepalingen omgevingsrecht vereist, geldt zodanige eis niet voor de uitvoering van werken of werkzaamheden ter uitwerking van het in artikel 3, eerste lid, bedoelde besluit. 
 
 ### Artikel  34  
 
-De gemeenteraad stelt binnen een jaar nadat een in artikel 3, eerste lid, bedoeld besluit onherroepelijk is geworden een bestemmingsplan of een beheersverordening als bedoeld in de [Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) overeenkomstig dat besluit vast. Voor zover een ontwerp van een bestemmingsplan zijn grondslag vindt in dat besluit, kunnen zienswijzen geen betrekking hebben op dat deel van het ontwerpplan. 
+De gemeenteraad stelt binnen een jaar nadat een in artikel 3, eerste lid, bedoeld besluit onherroepelijk is geworden een bestemmingsplan of een beheersverordening als bedoeld in de Wet ruimtelijke ordening overeenkomstig dat besluit vast. Voor zover een ontwerp van een bestemmingsplan zijn grondslag vindt in dat besluit, kunnen zienswijzen geen betrekking hebben op dat deel van het ontwerpplan. 
 
 ### Artikel  35  
 
@@ -292,22 +292,22 @@ De gemeenteraad stelt binnen een jaar nadat een in artikel 3, eerste lid, bedoel
 
 ### Artikel  36  
 
-1.  Het oprichten of wijzigen van een in artikel 3, eerste lid, bedoelde betaalpoort wordt voor de toepassing van de [Belemmeringenwet Privaatrecht](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) aangemerkt als openbaar werk van algemeen nut.   
-2.  Indien voor de uitvoering van een in artikel 3, eerste lid, bedoeld besluit toepassing van de [Belemmeringenwet Privaatrecht](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) noodzakelijk is, geldt het volgende: 
+1.  Het oprichten of wijzigen van een in artikel 3, eerste lid, bedoelde betaalpoort wordt voor de toepassing van de Belemmeringenwet Privaatrecht aangemerkt als openbaar werk van algemeen nut.   
+2.  Indien voor de uitvoering van een in artikel 3, eerste lid, bedoeld besluit toepassing van de Belemmeringenwet Privaatrecht noodzakelijk is, geldt het volgende: 
 
-a. in afwijking van [artikel 2, vierde lid, van de Belemmeringenwet Privaatrecht](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), kan Onze Minister van Verkeer en Waterstaat: 
+a. in afwijking van artikel 2, vierde lid, van de Belemmeringenwet Privaatrecht, kan Onze Minister van Verkeer en Waterstaat: 
 
 1°. een andere plaats of gemeente aanwijzen waar de zitting wordt gehouden;  
 
 2°. bepalen dat de zitting wordt geleid door een door Onze Minister van Verkeer en Waterstaat aan te wijzen persoon;    
 
-b. in afwijking van de [artikelen 2, vijfde lid](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), en [3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) wordt het college van gedeputeerde staten niet gehoord;  
+b. in afwijking van de artikelen 2, vijfde lid, en 3, tweede lid, van de Belemmeringenwet Privaatrecht wordt het college van gedeputeerde staten niet gehoord;  
 
-c. in afwijking van [artikel 4 van de Belemmeringenwet Privaatrecht](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) wordt de werking van een besluit als bedoeld in [artikel 2, vijfde lid](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) opgeschort tot het tijdstip waarop de termijn voor het indienen van een beroepschrift verstrijkt.    
+c. in afwijking van artikel 4 van de Belemmeringenwet Privaatrecht wordt de werking van een besluit als bedoeld in artikel 2, vijfde lid, of artikel 3, tweede lid, van de Belemmeringenwet Privaatrecht opgeschort tot het tijdstip waarop de termijn voor het indienen van een beroepschrift verstrijkt.    
 
 ### Artikel  37  
 
-[Artikel 72a van de onteigeningswet](../../../../../../wet/onteigeningswet/BWBR0001842/README.md) is van overeenkomstige toepassing met het oog op onteigening ten behoeve van betaalpoorten.  
+Artikel 72a van de onteigeningswet is van overeenkomstige toepassing met het oog op onteigening ten behoeve van betaalpoorten.  
 
 ### Artikel  38  
 
@@ -359,7 +359,7 @@ Onze Minister zendt in overeenstemming met Onze Minister van Financiën binnen v
 
 ### Artikel  42  
 
-Op eerste vordering van ambtenaren van de rijksbelastingdienst of van opsporingsambtenaren als bedoeld in [artikel 141 van het Wetboek van Strafvordering](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), is de bestuurder van een motorrijtuig verplicht dat te doen stilstaan. 
+Op eerste vordering van ambtenaren van de rijksbelastingdienst of van opsporingsambtenaren als bedoeld in artikel 141 van het Wetboek van Strafvordering, is de bestuurder van een motorrijtuig verplicht dat te doen stilstaan. 
 
 ### Artikel  43  
 
@@ -367,12 +367,12 @@ De in artikel 42 bedoelde ambtenaren zijn bevoegd een motorrijtuig te onderwerpe
 
 ### Artikel  44  
 
-1.  Tot het tijdstip, bedoeld in [artikel 40, eerste lid](../../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), wordt de houder van een motorrijtuig, die in het bezit is van een abonnement, afgegeven door het Rijk, voor het gebruik van een expresbaan gedurende een maand in een bepaalde rijrichting, vrijgesteld van het desbetreffende expresbaantarief.   
+1.  Tot het tijdstip, bedoeld in artikel 40, eerste lid, wordt de houder van een motorrijtuig, die in het bezit is van een abonnement, afgegeven door het Rijk, voor het gebruik van een expresbaan gedurende een maand in een bepaalde rijrichting, vrijgesteld van het desbetreffende expresbaantarief.   
 2.  Bij of krachtens algemene maatregel van bestuur wordt de hoogte van het tarief voor een abonnement bepaald, met dien verstande dat het tarief ten hoogste € 140 bedraagt.  
 
 ### Artikel  45  
 
-[Artikel 11.20 van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) is tot een jaar nadat het verslag, bedoeld in artikel 40, eerste lid, aan de beide kamers der Staten-Generaal is toegezonden, niet van toepassing op een weg waar betaalpoorten voor een expresbaantarief zijn geplaatst. 
+Artikel 11.20 van de Wet milieubeheer is tot een jaar nadat het verslag, bedoeld in artikel 40, eerste lid, aan de beide kamers der Staten-Generaal is toegezonden, niet van toepassing op een weg waar betaalpoorten voor een expresbaantarief zijn geplaatst. 
 
 ### Artikel  46  
 

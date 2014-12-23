@@ -3,16 +3,16 @@
 ##Regeling van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 12 december 2013, kenmerk 178730-114566-DLZ, houdende beleidsregels die het indicatieorgaan hanteert bij het vaststellen of en in hoeverre de verzekerde is aangewezen op zorg op grond van de Algemene Wet Bijzondere Ziektekosten (Beleidsregels indicatiestelling AWBZ 2014)
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 11 van het Zorgindicatiebesluit](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md);
+Gelet op artikel 11 van het Zorgindicatiebesluit;
 Besluit:    
 
 ### Artikel  1  
 
-De beleidsregels volgens welke het indicatieorgaan vaststelt of en in hoeverre de verzekerde is aangewezen op een of meer van de in [artikel 2 van het Zorgindicatiebesluit](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) aangewezen vormen van zorg, zijn opgenomen in de bijlagen 1 tot en met 9 van deze beleidsregels. 
+De beleidsregels volgens welke het indicatieorgaan vaststelt of en in hoeverre de verzekerde is aangewezen op een of meer van de in artikel 2 van het Zorgindicatiebesluit aangewezen vormen van zorg, zijn opgenomen in de bijlagen 1 tot en met 9 van deze beleidsregels. 
 
 ### Artikel  2  
 
-De [Beleidsregels indicatiestelling AWBZ 2013](../../../../../../beleidsregel/beleidsregels/indicatiestelling/awbz/2013/BWBR0032530/README.md) worden ingetrokken. 
+De Beleidsregels indicatiestelling AWBZ 2013 worden ingetrokken. 
 
 ### Artikel  3  
 
@@ -35,23 +35,23 @@ M.J. van Rijn
 
 ####Inleiding
 
-[Artikel 9a van de AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) bepaalt dat Burgemeester en Wethouders voorzien in een onafhankelijk indicatieorgaan dat besluit of iemand is aangewezen op bij Algemene maatregel van Bestuur aan te wijzen vormen van zorg. [Artikel 9b van de AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) bepaalt dat de verzekerde slechts aangewezen is op bepaalde vormen zorg in het kader van de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) als daar een indicatie voor is. Het Centrum Indicatiestelling Zorg (CIZ) is door alle gemeenten aangewezen om die rol van onafhankelijk indicatieorgaan, zoals bedoeld in [artikel 9a van de AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), te vervullen. Het [Zorgindicatiebesluit](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) (Zib) bepaalt dat de indicatiestelling plaatsvindt voor de zorg in de [artikelen 4 tot en met 6](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [8](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9, eerste en tweede lid](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9a](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [10](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), en [13, tweede lid, van het Besluit zorgaanspraken AWBZ](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) (Bza) en de wijze waarop deze indicatiestelling plaats moet vinden. Een nadere uitwerking van de vraag hoe moet worden vastgesteld of een verzekerde is aangewezen op deze vormen van zorg, is vastgesteld in [artikel 2 lid 1 en 2 van het Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md). Hierin staat dat de verzekerde aanspraak heeft op deze zorg, behoudens voor zover het zorg betreft die kan worden bekostigd op grond van een andere wettelijke regeling of een zorgverzekering als bedoeld in de [Zvw](../../../../../../wet/ziektewet/BWBR0001888/README.md). Ook bestaat de aanspraak op zorg slechts voor zover de verzekerde, gelet op zijn behoefte en uit een oogpunt van doelmatige zorgverlening, redelijkerwijs daarop is aangewezen. 
+Artikel 9a van de AWBZ bepaalt dat Burgemeester en Wethouders voorzien in een onafhankelijk indicatieorgaan dat besluit of iemand is aangewezen op bij Algemene maatregel van Bestuur aan te wijzen vormen van zorg. Artikel 9b van de AWBZ bepaalt dat de verzekerde slechts aangewezen is op bepaalde vormen zorg in het kader van de AWBZ als daar een indicatie voor is. Het Centrum Indicatiestelling Zorg (CIZ) is door alle gemeenten aangewezen om die rol van onafhankelijk indicatieorgaan, zoals bedoeld in artikel 9a van de AWBZ, te vervullen. Het Zorgindicatiebesluit (Zib) bepaalt dat de indicatiestelling plaatsvindt voor de zorg in de artikelen 4 tot en met 6, 8, 9, eerste en tweede lid, 9a, 10, en 13, tweede lid, van het Besluit zorgaanspraken AWBZ (Bza) en de wijze waarop deze indicatiestelling plaats moet vinden. Een nadere uitwerking van de vraag hoe moet worden vastgesteld of een verzekerde is aangewezen op deze vormen van zorg, is vastgesteld in artikel 2 lid 1 en 2 van het Bza. Hierin staat dat de verzekerde aanspraak heeft op deze zorg, behoudens voor zover het zorg betreft die kan worden bekostigd op grond van een andere wettelijke regeling of een zorgverzekering als bedoeld in de Zvw. Ook bestaat de aanspraak op zorg slechts voor zover de verzekerde, gelet op zijn behoefte en uit een oogpunt van doelmatige zorgverlening, redelijkerwijs daarop is aangewezen. 
 
 ####Leeswijzer
 
-Bijlage 1 bevat, in de vorm van bijlage Algemeen, een nadere uitwerking van punten die op alle bijlagen bij de beleidsregels [indicatiestelling AWBZ](../../../../../../beleidsregel/beleidsregels/indicatiestelling/awbz/2013/BWBR0032530/README.md) van toepassing zijn. Bijlage 2 bevat de bijlage Grondslagen. Bijlage 3 bevat de bijlage Gebruikelijke Zorg, gegeven [artikel 1 eerste lid onder b](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [artikel 2 derde lid van het Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md). De bijlagen 4 tot en met 9 hebben betrekking op de [artikelen 4 tot en met 6](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [8 tot en met 10](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [artikel 13 tweede lid van het Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md): 
+Bijlage 1 bevat, in de vorm van bijlage Algemeen, een nadere uitwerking van punten die op alle bijlagen bij de beleidsregels indicatiestelling AWBZ van toepassing zijn. Bijlage 2 bevat de bijlage Grondslagen. Bijlage 3 bevat de bijlage Gebruikelijke Zorg, gegeven artikel 1 eerste lid onder b en artikel 2 derde lid van het Bza. De bijlagen 4 tot en met 9 hebben betrekking op de artikelen 4 tot en met 6 en 8 tot en met 10 en artikel 13 tweede lid van het Bza: 
 
-* Bijlage 4: Persoonlijke Verzorging ([artikel 4 Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md));  
+* Bijlage 4: Persoonlijke Verzorging (artikel 4 Bza);  
 
-* Bijlage 5: Verpleging ([artikel 5 Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md));  
+* Bijlage 5: Verpleging (artikel 5 Bza);  
 
-* Bijlage 6: Begeleiding ([artikel 6 Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md)) inclusief Vervoer ([artikel 10 Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md));  
+* Bijlage 6: Begeleiding (artikel 6 Bza) inclusief Vervoer (artikel 10 Bza);  
 
-* Bijlage 7: Behandeling ([artikel 8 Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md)) inclusief Vervoer ([artikel 10 Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md));  
+* Bijlage 7: Behandeling (artikel 8 Bza) inclusief Vervoer (artikel 10 Bza);  
 
-* Bijlage 8: Verblijf ([artikel 9, eerste en tweede lid](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md)) inclusief voortgezet verblijf ([artikel 13 tweede lid Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md));  
+* Bijlage 8: Verblijf (artikel 9, eerste en tweede lid) inclusief voortgezet verblijf (artikel 13 tweede lid Bza);  
 
-* Bijlage 9: Kortdurend Verblijf ([artikel 9a Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md)).   
+* Bijlage 9: Kortdurend Verblijf (artikel 9a Bza).   
 
 ### 2  
 
@@ -61,11 +61,11 @@ Bijlage 1 bevat, in de vorm van bijlage Algemeen, een nadere uitwerking van punt
 
 ####Definities
 
-Onderstaande definities zijn op alle bijlagen bij de [beleidsregels indicatiestelling AWBZ](../../../../../../beleidsregel/beleidsregels/indicatiestelling/awbz/2013/BWBR0032530/README.md) van toepassing. 
+Onderstaande definities zijn op alle bijlagen bij de beleidsregels indicatiestelling AWBZ van toepassing. 
 
-1.  *Algemeen gebruikelijke voorzieningen<sup> 1 De beschikbaarheid van algemeen gebruikelijke voorzieningen kan per lokale situatie variëren, waardoor er verschillen kunnen optreden in indicatiebesluiten. </sup> *  Niet bij wet gecreëerde voorzieningen buiten de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) om, die indien voorhanden in redelijkheid een oplossing bieden voor de zorgbehoefte van de verzekerde (boodschappendienst, kinderopvang anders dan bedoeld in de [Wet Kinderopvang](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), alarmering et cetera).  
+1.  *Algemeen gebruikelijke voorzieningen<sup> 1 De beschikbaarheid van algemeen gebruikelijke voorzieningen kan per lokale situatie variëren, waardoor er verschillen kunnen optreden in indicatiebesluiten. </sup> *  Niet bij wet gecreëerde voorzieningen buiten de AWBZ om, die indien voorhanden in redelijkheid een oplossing bieden voor de zorgbehoefte van de verzekerde (boodschappendienst, kinderopvang anders dan bedoeld in de Wet Kinderopvang, alarmering et cetera).  
 
-2.  *Cliëntprofiel*  Een profiel van zorgvragers met een vergelijkbare zorgbehoefte en beperkingen op dezelfde terreinen, bij wie de verzorgings-, verplegings-, begeleidings- of behandelingsdoelen naar aard en inhoud overeenkomen en die op verblijf als bedoeld in [artikel 9, eerste en tweede lid](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), of [artikel 13, tweede lid, van het Besluit zorgaanspraken AWBZ](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) zijn aangewezen.  
+2.  *Cliëntprofiel*  Een profiel van zorgvragers met een vergelijkbare zorgbehoefte en beperkingen op dezelfde terreinen, bij wie de verzorgings-, verplegings-, begeleidings- of behandelingsdoelen naar aard en inhoud overeenkomen en die op verblijf als bedoeld in artikel 9, eerste en tweede lid, of artikel 13, tweede lid, van het Besluit zorgaanspraken AWBZ zijn aangewezen.  
 
 3.  *Dagdeel*  Aaneengesloten periode van maximaal 4 uren.  
 
@@ -93,13 +93,13 @@ b. uit hun relatie een kind is geboren of erkenning heeft plaatsgevonden van een
 
 c. zij zich wederzijds verplicht hebben tot een bijdrage aan de huishouding krachtens een geldend samenlevingscontract; of  
 
-d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huishouding die naar aard en strekking overeenkomt met de gezamenlijke huishouding, bedoeld in het [vierde lid, artikel 1 AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md).    
+d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huishouding die naar aard en strekking overeenkomt met de gezamenlijke huishouding, bedoeld in het vierde lid, artikel 1 AWBZ.    
 
 10.  *Huisgenoot*  De persoon met wie de verzekerde duurzaam een gezamenlijk huishouden voert.  
 
-11.  *Inherente afwijkingsbevoegdheid*  (vgl. [art 4:84 Awb](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)) Van een (bijlage bij een) beleidsregel moet worden afgeweken als de (bijlage bij een) beleidsregel voor één of meer belanghebbenden gevolgen zouden hebben die wegens bijzondere omstandigheden onevenredig zijn in verhouding tot de met de (bijlagen bij de) beleidsregels te dienen doelen. Bij bijzondere omstandigheden gaat het om omstandigheden die niet al in de (bijlagen bij de) beleidsregels zijn verdisconteerd én waarin de strikte navolging van de (bijlage bij de) beleidsregel zou leiden tot een niet beoogde uitkomst.  
+11.  *Inherente afwijkingsbevoegdheid*  (vgl. art 4:84 Awb) Van een (bijlage bij een) beleidsregel moet worden afgeweken als de (bijlage bij een) beleidsregel voor één of meer belanghebbenden gevolgen zouden hebben die wegens bijzondere omstandigheden onevenredig zijn in verhouding tot de met de (bijlagen bij de) beleidsregels te dienen doelen. Bij bijzondere omstandigheden gaat het om omstandigheden die niet al in de (bijlagen bij de) beleidsregels zijn verdisconteerd én waarin de strikte navolging van de (bijlage bij de) beleidsregel zou leiden tot een niet beoogde uitkomst.  
 
-12.  *Instelling*  Een organisatorisch verband dat behoort tot een bij algemene maatregel van bestuur aangewezen categorie van instellingen die zorg verlenen waarop aanspraak bestaat ingevolge [artikel 6 AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of ingevolge een zorgverzekering als bedoeld in [artikel 1, onderdeel d, van de Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), moet voor het verlenen van die zorg een toelating hebben van Onze Minister ([artikel 1, lid 1d](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) en [artikel 5, lid 1 Wet toelating zorginstellingen](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md)).  
+12.  *Instelling*  Een organisatorisch verband dat behoort tot een bij algemene maatregel van bestuur aangewezen categorie van instellingen die zorg verlenen waarop aanspraak bestaat ingevolge artikel 6 AWBZ of ingevolge een zorgverzekering als bedoeld in artikel 1, onderdeel d, van de Zorgverzekeringswet, moet voor het verlenen van die zorg een toelating hebben van Onze Minister (artikel 1, lid 1d en artikel 5, lid 1 Wet toelating zorginstellingen).  
 
 13.  *Jong volwassene*  Verzekerde in de leeftijd vanaf 18 tot 23 jaar.  
 
@@ -121,23 +121,23 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 
 22.  *Terminale levensfase*  De levensfase waarin de levensverwachting van verzekerde korter is dan drie maanden. Het is de behandelend arts van verzekerde die dit vaststelt.  
 
-23.  *Verzekerde*  [Artikel 5 AWBZ, lid 1](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md): verzekerd overeenkomstig de bepalingen van deze wet is degene die: 
+23.  *Verzekerde*  Artikel 5 AWBZ, lid 1: verzekerd overeenkomstig de bepalingen van deze wet is degene die: 
 
 a. ingezetene is;  
 
-b. geen ingezetene is, doch ter zake van in Nederland in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen   [Artikel 5 AWBZ, lid 2](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md): in afwijking van het eerste lid zijn vreemdelingen die niet rechtmatig in Nederland verblijf genieten [...] niet verzekerd.  
+b. geen ingezetene is, doch ter zake van in Nederland in dienstbetrekking verrichte arbeid aan de loonbelasting is onderworpen   Artikel 5 AWBZ, lid 2: in afwijking van het eerste lid zijn vreemdelingen die niet rechtmatig in Nederland verblijf genieten [...] niet verzekerd.  
 
-24.  *Wettelijke voorliggende voorzieningen*  Wettelijke regelingen, anders dan de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), waarmee zorg kan worden bekostigd waarop verzekerde is aangewezen of waarmee de beperking van de verzekerde kan worden opgeheven.  
+24.  *Wettelijke voorliggende voorzieningen*  Wettelijke regelingen, anders dan de AWBZ, waarmee zorg kan worden bekostigd waarop verzekerde is aangewezen of waarmee de beperking van de verzekerde kan worden opgeheven.  
 
 25.  *Zelfzorg*  Het begrip ‘zelfzorg’ refereert aan de algemene vereiste dat een verzekerde goed voor de eigen gezondheid dient te zorgen. Niet alleen in algemene zin (uitvoeren, het regelen en organiseren van algemeen dagelijkse levensverrichtingen zoals wassen en kleden, eten, drinken), maar ook in verband met een gezondheidsprobleem (zoals het innemen van medicatie, zichzelf injecteren of wond verzorgen).  
 
-26.  *Zorgzwaartepakket*  Naar aard, inhoud en omvang bij een cliëntprofiel passende samenhangende zorg als omschreven in de [Regeling zorgaanspraken AWBZ](../../../../../../ministeriele-regeling/regeling/zorgaanspraken/awbz/BWBR0014855/README.md).   
+26.  *Zorgzwaartepakket*  Naar aard, inhoud en omvang bij een cliëntprofiel passende samenhangende zorg als omschreven in de Regeling zorgaanspraken AWBZ.   
 
 ### 2.2  
 
 ####Grondslagen
 
-Het [Besluit Zorgaanspraken AWBZ](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) (Bza) geeft aan dat er op zorginhoudelijke gronden slechts toegang tot AWBZ-zorg kan zijn als er sprake is van een of meer met name genoemde 'grondslagen'. Grondslag: een aandoening, beperking of handicap als gevolg waarvan de verzekerde op een of meerdere vormen van zorg kan zijn aangewezen. De grondslagen voor AWBZ-zorg zijn: 
+Het Besluit Zorgaanspraken AWBZ (Bza) geeft aan dat er op zorginhoudelijke gronden slechts toegang tot AWBZ-zorg kan zijn als er sprake is van een of meer met name genoemde 'grondslagen'. Grondslag: een aandoening, beperking of handicap als gevolg waarvan de verzekerde op een of meerdere vormen van zorg kan zijn aangewezen. De grondslagen voor AWBZ-zorg zijn: 
 
 1. een 'somatische, psychogeriatrische of psychiatrische aandoening of beperking',  
 
@@ -147,7 +147,7 @@ Het [Besluit Zorgaanspraken AWBZ](../../../../../../AMvB/besluit/zorgaanspraken/
 
 ####Functies
 
-De zorg vanwege de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), die indicatieplichtig is vanwege [artikel 2 van het Zib](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), is vastgelegd in een aantal functies ([artikel 4 t/m 6](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [8](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9a](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [artikel 13 lid 2 van het Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md)): 
+De zorg vanwege de AWBZ, die indicatieplichtig is vanwege artikel 2 van het Zib, is vastgelegd in een aantal functies (artikel 4 t/m 6, 8, 9, 9a en artikel 13 lid 2 van het Bza): 
 
 1. Persoonlijke Verzorging (PV);  
 
@@ -161,15 +161,15 @@ De zorg vanwege de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziekteko
 
 6. Kortdurend Verblijf (KVB);  
 
-7. Voortgezet verblijf op psychiatrische grondslag.   Als de verzekerde is aangewezen op Begeleiding of Behandeling in groepsverband moet het CIZ vaststellen of de verzekerde om medische redenen is aangewezen op Vervoer ([artikel 10 van het Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md)). [Artikel 13 lid 1 van het Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), voortgezet verblijf op een andere grondslag dan psychiatrische grondslag, is niet indicatieplichtig. In de bijlagen bij de beleidsregels wordt weergegeven op welke manier het CIZ de behoefte (aard, omvang en geldigheidsduur) van een verzekerde aan bovenstaande functies vaststelt. 
+7. Voortgezet verblijf op psychiatrische grondslag.   Als de verzekerde is aangewezen op Begeleiding of Behandeling in groepsverband moet het CIZ vaststellen of de verzekerde om medische redenen is aangewezen op Vervoer (artikel 10 van het Bza). Artikel 13 lid 1 van het Bza, voortgezet verblijf op een andere grondslag dan psychiatrische grondslag, is niet indicatieplichtig. In de bijlagen bij de beleidsregels wordt weergegeven op welke manier het CIZ de behoefte (aard, omvang en geldigheidsduur) van een verzekerde aan bovenstaande functies vaststelt. 
 
 ### 2.4  
 
 ####Omvang
 
-[Artikel 13, eerste en tweede lid van het Zib](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md): 
+Artikel 13, eerste en tweede lid van het Zib: 
 
-1. Indien een zorgvrager is aangewezen op een vorm van zorg of vormen van zorg als bedoeld in [artikel 2](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), worden in het indicatiebesluit aangegeven: 
+1. Indien een zorgvrager is aangewezen op een vorm van zorg of vormen van zorg als bedoeld in artikel 2, worden in het indicatiebesluit aangegeven: 
 
 a. de vorm van zorg of vormen van zorg waarop de zorgvrager is aangewezen,  
 
@@ -177,7 +177,7 @@ b. de aandoening, beperking of handicap als gevolg waarvan de zorgvrager op de v
 
 c. de hoeveelheid zorg in tijd per zorgvorm.    
 
-2. In afwijking van het eerste lid worden indien een zorgvrager is aangewezen op verblijf als bedoeld in [artikel 9, eerste lid](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md), of voortgezet verblijf als bedoeld in [artikel 13, tweede lid, van het besluit in het indicatiebesluit](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) aangegeven: 
+2. In afwijking van het eerste lid worden indien een zorgvrager is aangewezen op verblijf als bedoeld in artikel 9, eerste lid, of voortgezet verblijf als bedoeld in artikel 13, tweede lid, van het besluit in het indicatiebesluit aangegeven: 
 
 a. het verblijf of voortgezet verblijf met de daarbij behorende samenhangende zorg waarop de zorgvrager is aangewezen,  
 
@@ -217,13 +217,31 @@ De omvang van Verblijf en Kortdurend Verblijf worden uitgedrukt in etmalen per w
 
 ####Geldigheidsduur
 
-De geldigheidsduur van een indicatiebesluit is, conform de [Zorgindicatieregeling](../../../../../../ministeriele-regeling/zorgindicatieregeling/BWBR0026504/README.md), maximaal vijftien jaar en wordt vastgesteld met inachtneming van: 
+De geldigheidsduur van een indicatiebesluit is, conform de Zorgindicatieregeling, maximaal vijftien jaar en wordt vastgesteld met inachtneming van: 
 
 a. de beperkingen van de verzekerde en de veranderingen die zich daarin kunnen voordoen;  
 
 b. de woonomstandigheden en de samenstelling van het huishouden van de verzekerde en veranderingen die zich daarin kunnen voordoen;  
 
-c. het bereiken van een leeftijd van de verzekerde die van invloed kan zijn op de aanspraak.   Een indicatiebesluit voor zorg zonder verblijf die noodzakelijk is in verband met een ziekte of aandoening die er toe leidt dat de levensverwachting van de verzekerde naar het oordeel van de behandelend arts korter is dan drie maanden blijft geldig tot de verzekerde is overleden. Het CIZ oordeelt en beslist over een aanvraag van zorg binnen zes weken na de datum waarop de aanvraag hiervoor is ingediend. Daarnaast is de volgende situatie als bedoeld in [artikel 16 Zib](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) mogelijk: "Een zorgverzekeraar kan in situaties waarin onmiddellijke verlening van zorg als bedoeld in artikel 2 redelijkerwijs noodzakelijk is, besluiten dat een verzekerde zijn aanspraak op zorg gedurende ten hoogste twee weken tot gelding kan brengen, zonder dat hij beschikt over een indicatiebesluit, waaruit blijkt dat hij op zodanige zorg is aangewezen." In dat geval beslist het CIZ binnen twee weken op de aanvraag van zorg, die gedaan is op of zo snel mogelijk na de datum aanvang zorg. De datum indicatiebesluit is de datum waarop het CIZ beslist. De geldigheidsduur gaat in op de datum indicatiebesluit. Vanaf die datum kan de geïndiceerde zorg worden gerealiseerd in een zorgaanbod. Indien er nog een lopende indicatie<sup> 3 Met een lopende indicatie wordt een indicatie bedoeld waarvan de geldigheidsduur vooralsnog niet verstrijkt. Er is om andere redenen dan het verstrijken van de geldigheidsduur een herindicatie aangevraagd. </sup> is, die naar beneden wordt bijgesteld, zal het CIZ een overgangsperiode in acht nemen<sup> 4 conform de uitspraak van de Centrale Raad van Beroep, via www.rechtspraak.nl te vinden met ECLI:NL:CRVB:2013:BZ2559 </sup>. Daarbij wordt rekening gehouden met de mate waarin wordt ingegrepen in de lopende indicatie (bijvoorbeeld hoeveel klassen gaat de nieuwe indicatie naar beneden) en de aard en de omvang van de door de verzekerde aangegane verplichtingen ter voorziening in zijn zorgbehoefte (met bijvoorbeeld de zorgaanbieder en het zorgkantoor). De ingangsdatum van de zorg kan per geïndiceerde functie verschillen. De datum ingang geïndiceerde functie kan in beginsel wel liggen na, maar niet vóór de datum indicatiebesluit. Hierop zijn twee uitzonderingen mogelijk: 
+c. het bereiken van een leeftijd van de verzekerde die van invloed kan zijn op de aanspraak.   In de volgende twee situaties geldt een afwijking van deze geldigheidsduur van maximaal vijftien jaar: 
+
+1. De geldigheidsduur van een indicatiebesluit voor persoonlijke verzorging, verpleging, begeleiding, kortdurend verblijf, zoals deze zorg met ingang van 1 januari 2015 onderdeel uitmaakt van de Wet de Wet maatschappelijke ondersteuning 2015 of onderdeel uitmaakt van de aanspraak wijkverpleging als bedoeld in artikel 2.10 van het Besluit wijziging Zorgverzekering, is ten hoogste acht maanden, indien het indicatiebesluit in de maanden juli en augustus 2014 is vastgesteld.  
+
+2. De geldigheidsduur van een indicatiebesluit voor persoonlijke verzorging, verpleging, begeleiding, kortdurend verblijf, zoals deze zorg met ingang van 1 januari 2015 onderdeel uitmaakt van de Wet de Wet maatschappelijke ondersteuning 2015 of onderdeel uitmaakt van de aanspraak wijkverpleging als bedoeld in artikel 2.10 van het Besluit wijziging Zorgverzekering, is ten hoogste zes maanden, indien het indicatiebesluit in de maanden september, oktober, november en december 2014 is vastgesteld.  
+
+3. Deze wijziging van de geldigheidsduur van het indicatiebesluit is niet van toepassing op een indicatiebesluit gericht op: 
+
+a. intensieve kindzorg voor verzekerden die achttien jaar of ouder zijn, aan wie tot het bereiken van de achttiende leeftijd intensieve kindzorg is verleend als omschreven in de brief van de staatssecretaris van VWS van 21 december 2012 (kenmerk: DLZ/KZ-U-3148726);  
+
+b. zorg zonder verblijf die noodzakelijk is in verband met een ziekte of aandoening die er toe leidt dat de levensverwachting van de verzekerde naar het oordeel van de behandelend arts korter is dan drie maanden, blijft geldig tot de verzekerde is overleden.  
+
+c. behandeling als bedoeld in artikel 8 van het Besluit zorgaanspraken;  
+
+d. ADL-assistentie als bedoeld in artikel 34 van het Besluit zorgaanspraken AWBZ;  
+
+e. de nuluren indicaties.    
+
+4. In afwijking van het bepaalde onder 1 en 2 is de geldigheidsduur van een indicatiebesluit voor een ZZP 1C GGZ, ZZP 2C GGZ, ZZP 3C GGZ, ZZP 4C GGZ, ZZP 5C GGZ of ZZP 6C GGZ ten hoogste vijf jaar.  Een indicatiebesluit voor zorg zonder verblijf die noodzakelijk is in verband met een ziekte of aandoening die er toe leidt dat de levensverwachting van de verzekerde naar het oordeel van de behandelend arts korter is dan drie maanden blijft geldig tot de verzekerde is overleden. Het CIZ oordeelt en beslist over een aanvraag van zorg binnen zes weken na de datum waarop de aanvraag hiervoor is ingediend. Daarnaast is de volgende situatie als bedoeld in artikel 16 Zib mogelijk: "Een zorgverzekeraar kan in situaties waarin onmiddellijke verlening van zorg als bedoeld in artikel 2 redelijkerwijs noodzakelijk is, besluiten dat een verzekerde zijn aanspraak op zorg gedurende ten hoogste twee weken tot gelding kan brengen, zonder dat hij beschikt over een indicatiebesluit, waaruit blijkt dat hij op zodanige zorg is aangewezen." In dat geval beslist het CIZ binnen twee weken op de aanvraag van zorg, die gedaan is op of zo snel mogelijk na de datum aanvang zorg. De datum indicatiebesluit is de datum waarop het CIZ beslist. De geldigheidsduur gaat in op de datum indicatiebesluit. Vanaf die datum kan de geïndiceerde zorg worden gerealiseerd in een zorgaanbod. Indien er nog een lopende indicatie<sup> 3 Met een lopende indicatie wordt een indicatie bedoeld waarvan de geldigheidsduur vooralsnog niet verstrijkt. Er is om andere redenen dan het verstrijken van de geldigheidsduur een herindicatie aangevraagd. </sup> is, die naar beneden wordt bijgesteld, zal het CIZ een overgangsperiode in acht nemen<sup> 4 conform de uitspraak van de Centrale Raad van Beroep, via www.rechtspraak.nl te vinden met ECLI:NL:CRVB:2013:BZ2559 </sup>. Daarbij wordt rekening gehouden met de mate waarin wordt ingegrepen in de lopende indicatie (bijvoorbeeld hoeveel klassen gaat de nieuwe indicatie naar beneden) en de aard en de omvang van de door de verzekerde aangegane verplichtingen ter voorziening in zijn zorgbehoefte (met bijvoorbeeld de zorgaanbieder en het zorgkantoor). De ingangsdatum van de zorg kan per geïndiceerde functie verschillen. De datum ingang geïndiceerde functie kan in beginsel wel liggen na, maar niet vóór de datum indicatiebesluit. Hierop zijn twee uitzonderingen mogelijk: 
 
 1. Bij standaardindicatieprotocollen en indicatiemeldingen waarbij op de datum aanvraag de zorg al wordt verleend, maar het CIZ niet op de datum aanvraag beslist. In dat geval beslist het CIZ binnen twee weken. De ingangsdatum van de geïndiceerde functie is dan de datum waarop de aanvraag bij het CIZ binnenkomt. In bijzondere omstandigheden (bijvoorbeeld als de zorg is gestart op een feestdag) moet de aanvraag zo spoedig mogelijk, maar maximaal 5 (kalender)dagen na de start van de zorg bij het CIZ worden ingediend. De ingangsdatum van de geïndiceerde zorg is dan de datum waarop de zorg is gestart.  
 
@@ -245,7 +263,7 @@ c. en de aanvraag een verzoek om voortzetting van een eerder gelijkwaardig<sup> 
 
 ####Langdurige zorgbehoefte
 
-De geldigheidsduur, zoals vastgelegd in paragraaf 2.5, is gekoppeld aan de grondslag waarop de verzekerde op zorg is aangewezen, de vormen van zorg waarop de verzekerde is aangewezen, alsmede de omvang van die zorg. Het CIZ kan echter de verwachting hebben dat de verzekerde ook na de duur van een kortdurend indicatiebesluit op zorg zal zijn aangewezen. Van een langdurige zorgbehoefte is sprake wanneer de zorgbehoefte van de verzekerde, naar het oordeel van het CIZ, ten minste een jaar zal bestaan vanaf het moment dat de verzekerde volgens het indicatiebesluit op zorg is aangewezen ([artikel 14, eerste lid, van het Zib](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md)). Het CIZ neemt bij het oordeel of er sprake is van een langdurige zorgbehoefte dezelfde feiten en omstandigheden in acht die gelden voor het bepalen van de geldigheidsduur ([artikel 6 van het Zib](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md)). Zie ook paragraaf 2.5. Indien de geldigheidsduur van het indicatiebesluit korter is dan een jaar, geeft het CIZ in het indicatiebesluit aan of de verzekerde een langdurige zorgbehoefte heeft. Dit wordt voor die verzekerde een apart onderdeel van het indicatiebesluit. Het indicatieorgaan laat het oordeel over de duur van de zorgbehoefte achterwege indien de zorgvrager bij de aanvraag van een indicatiebesluit heeft aangegeven voornemens te zijn het indicatiebesluit niet met een persoonsgebonden budget (PGB), maar met zorg in natura (ZIN), af te nemen ([artikel 14, tweede lid, Zib](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md)). Bij standaardindicatieprotocollen en indicatiemeldingen blijft ook de beoordeling van de zorgbehoefte achterwege, omdat deze altijd voor ZIN worden aangevraagd. Een verzekerde kan na zijn indicatiebesluit zijn voorkeur voor een leveringsvorm wijzigen. Verzekerden met een indicatiebesluit dat een geldigheidsduur heeft van korter dan een jaar die hun voorkeur willen wijzigen van ZIN naar PGB, kunnen bij het CIZ om een herindicatie verzoeken, om vast te stellen of sprake is van een langdurige zorgbehoefte. 
+De geldigheidsduur, zoals vastgelegd in paragraaf 2.5, is gekoppeld aan de grondslag waarop de verzekerde op zorg is aangewezen, de vormen van zorg waarop de verzekerde is aangewezen, alsmede de omvang van die zorg. Het CIZ kan echter de verwachting hebben dat de verzekerde ook na de duur van een kortdurend indicatiebesluit op zorg zal zijn aangewezen. Van een langdurige zorgbehoefte is sprake wanneer de zorgbehoefte van de verzekerde, naar het oordeel van het CIZ, ten minste een jaar zal bestaan vanaf het moment dat de verzekerde volgens het indicatiebesluit op zorg is aangewezen (artikel 14, eerste lid, van het Zib). Het CIZ neemt bij het oordeel of er sprake is van een langdurige zorgbehoefte dezelfde feiten en omstandigheden in acht die gelden voor het bepalen van de geldigheidsduur (artikel 6 van het Zib). Zie ook paragraaf 2.5. Indien de geldigheidsduur van het indicatiebesluit korter is dan een jaar, geeft het CIZ in het indicatiebesluit aan of de verzekerde een langdurige zorgbehoefte heeft. Dit wordt voor die verzekerde een apart onderdeel van het indicatiebesluit. Het indicatieorgaan laat het oordeel over de duur van de zorgbehoefte achterwege indien de zorgvrager bij de aanvraag van een indicatiebesluit heeft aangegeven voornemens te zijn het indicatiebesluit niet met een persoonsgebonden budget (PGB), maar met zorg in natura (ZIN), af te nemen (artikel 14, tweede lid, Zib). Bij standaardindicatieprotocollen en indicatiemeldingen blijft ook de beoordeling van de zorgbehoefte achterwege, omdat deze altijd voor ZIN worden aangevraagd. Een verzekerde kan na zijn indicatiebesluit zijn voorkeur voor een leveringsvorm wijzigen. Verzekerden met een indicatiebesluit dat een geldigheidsduur heeft van korter dan een jaar die hun voorkeur willen wijzigen van ZIN naar PGB, kunnen bij het CIZ om een herindicatie verzoeken, om vast te stellen of sprake is van een langdurige zorgbehoefte. 
 
 ### 2.7  
 
@@ -261,7 +279,7 @@ Naast de grondslag(en), functie(s), omvang en geldigheidsduur wordt er aanvullen
 
 ####Leveringsvorm
 
-De verzekerde heeft, onder omstandigheden, de keus zorg te ontvangen in één van twee ‘leveringsvormen’, te weten ‘Zorg in Natura’ (ZIN) of een ‘Persoonsgebonden Budget’ (PGB). In de [Regeling subsidies AWBZ](../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md) staat of de verzekerde, mede op basis van de indicatie, recht heeft op een PGB. De indicatiestelling zelf vindt plaats zonder onderscheid te maken tussen de twee leveringsvormen. Wanneer de verzekerde ten tijde van het indicatieonderzoek zijn keuze voor ZIN of PGB bekend heeft gemaakt bij het CIZ, wordt deze voorkeur bij het indicatiebesluit aangegeven. De verzekerden met indicaties voor de functies Behandeling en ADL-assistentie en voor de zorgzwaartepakketten ZZP LVG 4, ZZP LVG 5, ZZP SGLVG, de ZZP’s GGZ-B en ZZP VV 9B komen op grond van de [Regeling subsidies AWBZ](../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md) echter niet in aanmerking voor een PGB. In deze gevallen zal het indicatiebesluit vermelden dat de verzekerde de zorg met ZIN tot gelding zal brengen. Verzekerden met een indicatie voor bovengenoemde zorgzwaartepakketten die reeds budgethouder zijn voor de zorgzwaartepakketten ZZP LVG 4, ZZP LVG 5, ZZP SGLVG, de ZZP’s GGZ-B en ZZP VV 9B behouden hun pgb voor de betreffende ZZP’s. Voor hen zal de voorkeur voor leveringsvorm niet worden gewijzigd in ZIN. Nadat het CIZ een indicatiebesluit heeft genomen, kan de verzekerde een PGB aanvragen bij het zorgkantoor. Het zorgkantoor beslist op grond van de [Regeling subsidies AWBZ](../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md) of de verzekerde recht heeft op een PGB. 
+De verzekerde heeft, onder omstandigheden, de keus zorg te ontvangen in één van twee ‘leveringsvormen’, te weten ‘Zorg in Natura’ (ZIN) of een ‘Persoonsgebonden Budget’ (PGB). In de Regeling subsidies AWBZ staat of de verzekerde, mede op basis van de indicatie, recht heeft op een PGB. De indicatiestelling zelf vindt plaats zonder onderscheid te maken tussen de twee leveringsvormen. Wanneer de verzekerde ten tijde van het indicatieonderzoek zijn keuze voor ZIN of PGB bekend heeft gemaakt bij het CIZ, wordt deze voorkeur bij het indicatiebesluit aangegeven. De verzekerden met indicaties voor de functies Behandeling en ADL-assistentie en voor de zorgzwaartepakketten ZZP LVG 4, ZZP LVG 5, ZZP SGLVG, de ZZP’s GGZ-B en ZZP VV 9B komen op grond van de Regeling subsidies AWBZ echter niet in aanmerking voor een PGB. In deze gevallen zal het indicatiebesluit vermelden dat de verzekerde de zorg met ZIN tot gelding zal brengen. Verzekerden met een indicatie voor bovengenoemde zorgzwaartepakketten die reeds budgethouder zijn voor de zorgzwaartepakketten ZZP LVG 4, ZZP LVG 5, ZZP SGLVG, de ZZP’s GGZ-B en ZZP VV 9B behouden hun pgb voor de betreffende ZZP’s. Voor hen zal de voorkeur voor leveringsvorm niet worden gewijzigd in ZIN. Nadat het CIZ een indicatiebesluit heeft genomen, kan de verzekerde een PGB aanvragen bij het zorgkantoor. Het zorgkantoor beslist op grond van de Regeling subsidies AWBZ of de verzekerde recht heeft op een PGB. 
 
 ### Ad.  2  
 
@@ -273,7 +291,7 @@ Activiteiten: één of meerdere zorghandelingen of dagprogramma’s, die de geï
 
 ####Afwegingskader
 
-Het CIZ toetst of een verzekerde is aangewezen op AWBZ-zorg. [Artikel 6 van het Zib](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) schrijft het volgende voor wat betreft het onderzoek: ‘Voor zover dit voor het nemen van een indicatiebesluit van belang is, wordt onderzoek verricht naar: 
+Het CIZ toetst of een verzekerde is aangewezen op AWBZ-zorg. Artikel 6 van het Zib schrijft het volgende voor wat betreft het onderzoek: ‘Voor zover dit voor het nemen van een indicatiebesluit van belang is, wordt onderzoek verricht naar: 
 
 a. de algemene gezondheidstoestand van de zorgvrager;  
 
@@ -294,7 +312,7 @@ Het ‘trechtermodel’ leidt van aanvraag via onderzoek en weging van de result
 
 ####Stap 1: Probleemanalyse: zorgsituatie van de verzekerde (‘foto‘)
 
-*Actie:*  Onderzoeken van de zorgsituatie van de verzekerde, conform hetgeen daarover is bepaald in het [Zorgindicatiebesluit](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md). In deze stap vindt geen weging plaats: met behulp van de door het CIZ vastgestelde formulierenset wordt vastgesteld wat de verzekerde wel en niet kan, mede in relatie tot zijn directe omgeving. Het gaat voornamelijk om: 
+*Actie:*  Onderzoeken van de zorgsituatie van de verzekerde, conform hetgeen daarover is bepaald in het Zorgindicatiebesluit. In deze stap vindt geen weging plaats: met behulp van de door het CIZ vastgestelde formulierenset wordt vastgesteld wat de verzekerde wel en niet kan, mede in relatie tot zijn directe omgeving. Het gaat voornamelijk om: 
 
 1. de relevante ziekten, aandoeningen en/of stoornissen van de verzekerde. Daarbij wordt ook meegenomen een eventueel lopende behandeling en de ziektebiografie van verzekerde  
 
@@ -316,19 +334,19 @@ c. de huidige woonsituatie van de verzekerde, zijn eventuele problemen met de wo
 
 *Actie:*  Bepalen van het compenserend vermogen van de context van de verzekerde. In deze stap wordt de ‘weging’ gemaakt. Gewogen wordt of er bestaande adequate of nieuwe oplossingen zijn met behulp van: 
 
-1. behandeling (al dan niet via de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)), revalidatie, reactivering, leren. Behandeling kan niet worden afgedwongen als de lichamelijke integriteit in het geding komt (bijvoorbeeld bij een operatie);  
+1. behandeling (al dan niet via de AWBZ), revalidatie, reactivering, leren. Behandeling kan niet worden afgedwongen als de lichamelijke integriteit in het geding komt (bijvoorbeeld bij een operatie);  
 
 2. aanpassing van de omgeving of hulpmiddelen.   Daarnaast kunnen op drie terreinen oplossingen bestaan, die voorgaan op AWBZ-zorg. Daarbij gaat het om: 
 
 1. Gebruikelijke zorg: de normale, dagelijkse zorg die partners, ouders, inwonende kinderen en/of andere huisgenoten geacht worden elkaar onderling te bieden. Deze zorg gaat voor op AWBZ-zorg voor zover deze beschikbaar is. (Dreigende) overbelasting van de huisgenoten is van invloed op de weging (zie respijtzorg hieronder).  
 
-2. Wettelijke voorliggende voorzieningen: wettelijke regelingen, anders dan de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), waarmee zorg kan worden bekostigd waarop verzekerde is aangewezen, of waarmee de beperking van de verzekerde kan worden opgeheven. Voor zover het zorg betreft die vanuit een wettelijk voorliggende voorziening kan worden bekostigd of waarmee de beperking van de verzekerde kan worden opgeheven, dient deze zorg door het verantwoordelijke orgaan geregeld te worden.  
+2. Wettelijke voorliggende voorzieningen: wettelijke regelingen, anders dan de AWBZ, waarmee zorg kan worden bekostigd waarop verzekerde is aangewezen, of waarmee de beperking van de verzekerde kan worden opgeheven. Voor zover het zorg betreft die vanuit een wettelijk voorliggende voorziening kan worden bekostigd of waarmee de beperking van de verzekerde kan worden opgeheven, dient deze zorg door het verantwoordelijke orgaan geregeld te worden.  
 
-3. Algemeen gebruikelijke voorzieningen: niet bij wet gecreëerde voorzieningen buiten de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) om in de zorgbehoefte te voorzien (boodschappendienst, kinderopvang anders dan bedoeld in de [Wet Kinderopvang](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), alarmering etc.). Deze voorzieningen gaan voor op AWBZ-zorg voor zover de voorzieningen beschikbaar zijn en in redelijkheid een oplossing bieden voor de zorgbehoefte van de verzekerde.   
+3. Algemeen gebruikelijke voorzieningen: niet bij wet gecreëerde voorzieningen buiten de AWBZ om in de zorgbehoefte te voorzien (boodschappendienst, kinderopvang anders dan bedoeld in de Wet Kinderopvang, alarmering etc.). Deze voorzieningen gaan voor op AWBZ-zorg voor zover de voorzieningen beschikbaar zijn en in redelijkheid een oplossing bieden voor de zorgbehoefte van de verzekerde.   
 
 ####Respijtzorg
 
-Respijtzorg doet zich voor in situaties waarin de huisgenoot, partner of ouder die feitelijk gebruikelijke zorg op zich dient te nemen daartoe niet in staat is wegens (dreigende) overbelasting, die anderszins niet door hem is op te lossen. Alleen dan kan in de AWBZ-aanspraak van de verzekerde op titel van respijtzorg, de zorg die als gebruikelijke zorg moet worden beschouwd, worden meegenomen. Het gaat dan om indiceerbare zorg als woont de verzekerde zonder gebruikelijke zorger. Ter toelichting hierop het volgende. Als is vastgesteld dat de ouder(s) of partner of andere huisgenoten in de thuissituatie overbelast is/zijn, of dit ten gevolge van het bieden van gebruikelijke zorg dreigt/dreigen te raken en daarom niet meer in staat is/zijn de gebruikelijke zorg te leveren, dan dient deze gebruikelijke zorger eigen mogelijkheden en/of voorliggende voorzieningen te zoeken om de overbelasting op te heffen. Als dit onvoldoende oplossing biedt, dan kan een [AWBZ](../../../../../../wet/wet/kinderopvang/BWBR0017017/README.md) indicatie gesteld worden, waarin de gebruikelijke zorgtaken tijdelijk worden overgenomen. Indien er al een indicatie voor AWBZ-zorg is en deze zorg door de partner, ouder, volwassen kind en/of andere huisgenoot zelf wordt geleverd, dan is het voorliggend om de zorg door (andere) zorgverleners uit te laten voeren/in te kopen. Als alleen het overnemen op titel van respijtzorg van Persoonlijke Verzorgings-/Verplegingstaken, bijvoorbeeld bij verzekerden met gedragsproblematiek, onvoldoende oplossing biedt, dan kan ook toezicht worden geïndiceerd. Het toezicht wordt, afhankelijk van wat in geval van verzekerde het meest doelmatig is, geïndiceerd in de vorm van Begeleiding groep, Begeleiding individueel of Verpleging in de vorm van Verpleegkundig toezicht i.v.m. thuisbeademing (zie beleidsregel verpleging, paragraaf 5). Het indicatiebesluit waarbij sprake is van respijtzorg wordt in eerste instantie afgegeven voor een half jaar; daarna kan verlenging volgen. Gedurende dit eerste half jaar wordt onderzocht hoe de overbelasting zich ontwikkelt en wat er is geprobeerd om het op te lossen.  *Resultaat:*  Vaststelling van de bruto AWBZ-zorgbehoefte wat betreft aard, omvang, geldigheidsduur en indien van toepassing het leefklimaat. 
+Respijtzorg doet zich voor in situaties waarin de huisgenoot, partner of ouder die feitelijk gebruikelijke zorg op zich dient te nemen daartoe niet in staat is wegens (dreigende) overbelasting, die anderszins niet door hem is op te lossen. Alleen dan kan in de AWBZ-aanspraak van de verzekerde op titel van respijtzorg, de zorg die als gebruikelijke zorg moet worden beschouwd, worden meegenomen. Het gaat dan om indiceerbare zorg als woont de verzekerde zonder gebruikelijke zorger. Ter toelichting hierop het volgende. Als is vastgesteld dat de ouder(s) of partner of andere huisgenoten in de thuissituatie overbelast is/zijn, of dit ten gevolge van het bieden van gebruikelijke zorg dreigt/dreigen te raken en daarom niet meer in staat is/zijn de gebruikelijke zorg te leveren, dan dient deze gebruikelijke zorger eigen mogelijkheden en/of voorliggende voorzieningen te zoeken om de overbelasting op te heffen. Als dit onvoldoende oplossing biedt, dan kan een AWBZ indicatie gesteld worden, waarin de gebruikelijke zorgtaken tijdelijk worden overgenomen. Indien er al een indicatie voor AWBZ-zorg is en deze zorg door de partner, ouder, volwassen kind en/of andere huisgenoot zelf wordt geleverd, dan is het voorliggend om de zorg door (andere) zorgverleners uit te laten voeren/in te kopen. Als alleen het overnemen op titel van respijtzorg van Persoonlijke Verzorgings-/Verplegingstaken, bijvoorbeeld bij verzekerden met gedragsproblematiek, onvoldoende oplossing biedt, dan kan ook toezicht worden geïndiceerd. Het toezicht wordt, afhankelijk van wat in geval van verzekerde het meest doelmatig is, geïndiceerd in de vorm van Begeleiding groep, Begeleiding individueel of Verpleging in de vorm van Verpleegkundig toezicht i.v.m. thuisbeademing (zie beleidsregel verpleging, paragraaf 5). Het indicatiebesluit waarbij sprake is van respijtzorg wordt in eerste instantie afgegeven voor een half jaar; daarna kan verlenging volgen. Gedurende dit eerste half jaar wordt onderzocht hoe de overbelasting zich ontwikkelt en wat er is geprobeerd om het op te lossen.  *Resultaat:*  Vaststelling van de bruto AWBZ-zorgbehoefte wat betreft aard, omvang, geldigheidsduur en indien van toepassing het leefklimaat. 
 
 ### 3.3  
 
@@ -362,7 +380,7 @@ d. de mantelzorger het resterende deel van de zorg overneemt.   Bij jong volwass
 
 ####Stap 5: Indicatiebesluit
 
-*Actie:*  Het vaststellen van een indicatiebesluit met de AWBZ-zorg waarop de verzekerde is aangewezen. In deze stap wordt vastgesteld op welke AWBZ-zorg de verzekerde is aangewezen. In geval van AWBZ-zorg zonder Verblijf wordt de zorgbehoefte van verzekerde vertaald in een aanspraak op AWBZ-zorg in termen van functies en klassen. In geval van AWBZ-zorg met Verblijf wordt de zorgbehoefte van verzekerde gerelateerd aan het voor hem best passende cliëntprofiel en vervolgens vertaald in een aanspraak op AWBZ-zorg in termen van Verblijf met samenhangende zorg. Verblijf met samenhangende zorg wordt uitgedrukt in de vorm van een zorgzwaartepakket. De verzekerde die is aangewezen op Verblijf of op Voortgezet Verblijf heeft aanspraak op zorg die is opgenomen in het zorgzwaartepakket, behorend bij het cliëntprofiel waarin hij het best past. Een zorgzwaartepakket is naar aard, inhoud en omvang bij een cliëntprofiel passende samenhangende zorg. Bijlage 8 gaat nader in op indicatiestelling voor Verblijf. De grondslag voor en de geldigheidsduur van de zorg met of zonder Verblijf wordt ook vastgesteld. De geadviseerde activiteiten worden geregistreerd evenals, indien mogelijk, de voorkeur van de verzekerde voor de leveringsvorm. Bij een voorkeur voor de leveringsvorm PGB wordt, indien de geldigheidsduur van het indicatiebesluit korter is dan een jaar, in het indicatiebesluit ook opgenomen of sprake is van een langdurige zorgbehoefte.  *Resultaat*: Een indicatiebesluit voor AWBZ-zorg conform het [Zib](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md). Het indicatiebesluit wordt ter kennis van de verzekerde gebracht. Tegen het indicatiebesluit staat bezwaar en beroep conform de [Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) open. 
+*Actie:*  Het vaststellen van een indicatiebesluit met de AWBZ-zorg waarop de verzekerde is aangewezen. In deze stap wordt vastgesteld op welke AWBZ-zorg de verzekerde is aangewezen. In geval van AWBZ-zorg zonder Verblijf wordt de zorgbehoefte van verzekerde vertaald in een aanspraak op AWBZ-zorg in termen van functies en klassen. In geval van AWBZ-zorg met Verblijf wordt de zorgbehoefte van verzekerde gerelateerd aan het voor hem best passende cliëntprofiel en vervolgens vertaald in een aanspraak op AWBZ-zorg in termen van Verblijf met samenhangende zorg. Verblijf met samenhangende zorg wordt uitgedrukt in de vorm van een zorgzwaartepakket. De verzekerde die is aangewezen op Verblijf of op Voortgezet Verblijf heeft aanspraak op zorg die is opgenomen in het zorgzwaartepakket, behorend bij het cliëntprofiel waarin hij het best past. Een zorgzwaartepakket is naar aard, inhoud en omvang bij een cliëntprofiel passende samenhangende zorg. Bijlage 8 gaat nader in op indicatiestelling voor Verblijf. De grondslag voor en de geldigheidsduur van de zorg met of zonder Verblijf wordt ook vastgesteld. De geadviseerde activiteiten worden geregistreerd evenals, indien mogelijk, de voorkeur van de verzekerde voor de leveringsvorm. Bij een voorkeur voor de leveringsvorm PGB wordt, indien de geldigheidsduur van het indicatiebesluit korter is dan een jaar, in het indicatiebesluit ook opgenomen of sprake is van een langdurige zorgbehoefte.  *Resultaat*: Een indicatiebesluit voor AWBZ-zorg conform het Zib. Het indicatiebesluit wordt ter kennis van de verzekerde gebracht. Tegen het indicatiebesluit staat bezwaar en beroep conform de Algemene wet bestuursrecht open. 
 
 ### Bijlage  2  
 
@@ -378,7 +396,7 @@ Deze bijlage kan worden aangehaald als ‘bijlage Grondslagen’.
 
 ####Relevante wet- en regelgeving
 
-Het [Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) geeft aan, dat er aanspraak op AWBZ-zorg kan zijn op basis van ‘een somatische, psychogeriatrische of psychiatrische aandoening of beperking, of een verstandelijke, lichamelijke of zintuiglijke handicap’ ([art. 4 t/m 6](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [8](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [9](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [13 tweede lid Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md)). De volgende omschrijving van het begrip grondslag is hieruit af te leiden: ‘een aandoening, beperking, of handicap als gevolg waarvan de verzekerde op één of meerdere vormen van zorg kan zijn aangewezen’. 
+Het Besluit zorgaanspraken geeft aan, dat er aanspraak op AWBZ-zorg kan zijn op basis van ‘een somatische, psychogeriatrische of psychiatrische aandoening of beperking, of een verstandelijke, lichamelijke of zintuiglijke handicap’ (art. 4 t/m 6, 8, 9 en 13 tweede lid Bza). De volgende omschrijving van het begrip grondslag is hieruit af te leiden: ‘een aandoening, beperking, of handicap als gevolg waarvan de verzekerde op één of meerdere vormen van zorg kan zijn aangewezen’. 
 
 ### 2  
 
@@ -388,7 +406,7 @@ Het [Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/
 
 ####Grondslagen en functies
 
-Niet alle grondslagen geven toegang tot alle functies. In onderstaand schema wordt de koppeling zichtbaar tussen de grondslagen en de functies, afgeleid uit de [artikelen 4 tot en met 6](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), [8](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [9 van het Besluit Zorgaanspraken AWBZ](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md).  
+Niet alle grondslagen geven toegang tot alle functies. In onderstaand schema wordt de koppeling zichtbaar tussen de grondslagen en de functies, afgeleid uit de artikelen 4 tot en met 6, 8 en 9 van het Besluit Zorgaanspraken AWBZ.  
 
 | Grondslag  | Functies  |
 |:---|:---|
@@ -407,7 +425,7 @@ Verblijf (en bijbehorende functies):
 
 * Vanaf de eerste dag: Verblijf, waarop de verzekerde is aangewezen anders dan vanwege de noodzaak van geneeskundige GGZ-zorg. De bijkomende functies kunnen dan zijn Persoonlijke Verzorging en Begeleiding;  
 
-* Na 365 dagen: Voortgezet Verblijf<sup> 7 Artikel 13, lid 2 van het Besluit Zorgaanspraken AWBZ. </sup>.Er is sprake van een psychiatrische aandoening die gepaard gaat met behandeling als bedoeld in [artikel 8 van het Besluit Zorgaanspraken AWBZ](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md). Naast Behandeling kunnen de bijkomende functies zijn: Persoonlijke Verzorging, Verpleging, of Begeleiding. [Artikel 13 lid 1 van het Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md), voortgezet verblijf op een andere grondslag dan de psychiatrische grondslag, is niet indicatieplichtig.   
+* Na 365 dagen: Voortgezet Verblijf<sup> 7 Artikel 13, lid 2 van het Besluit Zorgaanspraken AWBZ. </sup>.Er is sprake van een psychiatrische aandoening die gepaard gaat met behandeling als bedoeld in artikel 8 van het Besluit Zorgaanspraken AWBZ. Naast Behandeling kunnen de bijkomende functies zijn: Persoonlijke Verzorging, Verpleging, of Begeleiding. Artikel 13 lid 1 van het Bza, voortgezet verblijf op een andere grondslag dan de psychiatrische grondslag, is niet indicatieplichtig.   
 
 ### 2.2  
 
@@ -497,7 +515,7 @@ Van een auditieve beperking is sprake als door of namens een arts stoornissen in
 
 ####Spraak-/taalprobleem (of-stoornis)
 
-Kern van het vaststellen van een spraak-/taalprobleem (of -stoornis) onder de grondslag van de zintuiglijke handicap is dat er een in de persoon gelegen oorzaak is aan te wijzen. Dat kunnen zowel neurobiologisch als neuropsychologische factoren zijn. Als de genoemde stoornis/beperking zijn oorsprong vindt in omgevingsfactoren dan is er geen sprake van een grondslag voor de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md). Voorbeelden van omgevingsfactoren zijn opvoedingsproblemen of het spreken van een andere taal. Een spraak-/taalprobleem (of -stoornis) wordt onder de grondslag zintuiglijke handicap vastgesteld als er een aandoening of stoornis is vastgesteld die leidt tot ernstige of zeer ernstig beperkingen op één of meer van de hieronder genoemde aspecten: 
+Kern van het vaststellen van een spraak-/taalprobleem (of -stoornis) onder de grondslag van de zintuiglijke handicap is dat er een in de persoon gelegen oorzaak is aan te wijzen. Dat kunnen zowel neurobiologisch als neuropsychologische factoren zijn. Als de genoemde stoornis/beperking zijn oorsprong vindt in omgevingsfactoren dan is er geen sprake van een grondslag voor de AWBZ. Voorbeelden van omgevingsfactoren zijn opvoedingsproblemen of het spreken van een andere taal. Een spraak-/taalprobleem (of -stoornis) wordt onder de grondslag zintuiglijke handicap vastgesteld als er een aandoening of stoornis is vastgesteld die leidt tot ernstige of zeer ernstig beperkingen op één of meer van de hieronder genoemde aspecten: 
 
 1. Spraakstoornis/beperking (spreekt woorden en/of zinnen niet goed uit).  
 
@@ -513,61 +531,97 @@ Kern van het vaststellen van een spraak-/taalprobleem (of -stoornis) onder de gr
 
 ####Gebruikelijke zorg
 
-### 1  
+### 1 
 
 ####Algemeen
 
-1. Deze bijlage is gebaseerd op het [Besluit zorgaanspraken, artikel 1, onderdeel b](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en [artikel 2, lid 3](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en is van toepassing op de bijlagen Persoonlijke Verzorging, Verpleging, Begeleiding en Verblijf.  
+1. Deze bijlage is gebaseerd op het Besluit zorgaanspraken, artikel 1, onderdeel b en artikel 2, lid 3 en is van toepassing op de bijlagen Persoonlijke Verzorging, Verpleging, Begeleiding en Verblijf.  
 
 2. Deze bijlage kan worden aangehaald als ‘bijlage Gebruikelijke zorg’.  
 
-3. Op deze bijlage is de bijlage ‘Algemeen’ van toepassing.   
+3. Op deze bijlage is de bijlage ‘Algemeen’ van toepassing.  
 
 ####Relevante wet- en regelgeving
 
-[Artikel 1, onderdeel b Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md): ‘Gebruikelijke zorg: de normale, dagelijkse zorg die partners, ouders, inwonende kinderen of andere huisgenoten geacht worden elkaar onderling te bieden.’ [Artikel 2, lid 3 Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md): ‘De aanspraak op zorg bestaat slechts voor zover de verzekerde, gelet op zijn behoefte en uit een oogpunt van doelmatige zorgverlening, redelijkerwijs daarop is aangewezen.’ Hiermee is expliciet tot uitdrukking gebracht dat een verzekerde redelijkerwijs niet is aangewezen op zorg die naar algemeen aanvaarde maatstaven door zijn sociale omgeving moet worden geboden. De normale, dagelijkse zorg die partners, ouders, inwonende kinderen of andere huisgenoten geacht worden elkaar onderling te bieden wordt aangeduid als gebruikelijke zorg. In deze bijlage is uitgewerkt wat onder gebruikelijke zorg wordt verstaan. 
+Artikel 1, onderdeel b Besluit zorgaanspraken: ‘Gebruikelijke zorg: de normale, dagelijkse zorg die partners, ouders, inwonende kinderen of andere huisgenoten geacht worden elkaar onderling te bieden.’ Artikel 2, lid 3 Besluit zorgaanspraken: ‘De aanspraak op zorg bestaat slechts voor zover de verzekerde, gelet op zijn behoefte en uit een oogpunt van doelmatige zorgverlening, redelijkerwijs daarop is aangewezen.’ Hiermee is expliciet tot uitdrukking gebracht dat een verzekerde redelijkerwijs niet is aangewezen op zorg die naar algemeen aanvaarde maatstaven door zijn sociale omgeving moet worden geboden. De normale, dagelijkse zorg die partners, ouders, inwonende kinderen of andere huisgenoten geacht worden elkaar onderling te bieden wordt aangeduid als gebruikelijke zorg. In deze bijlage is uitgewerkt wat onder gebruikelijke zorg wordt verstaan. 
 
-### 2  
+### 2 
 
 ####Toepassing op de functies Persoonlijke Verzorging, Verpleging, Begeleiding en/of Verblijf
 
-Voor zover het gebruikelijk is dat partners, ouders, inwonende kinderen en/of andere huisgenoten elkaar bepaalde zorg bieden, is verzekerde niet aangewezen op AWBZ-zorg wat betreft de functies Persoonlijke Verzorging, Verpleging, Begeleiding en/of Verblijf. Gebruikelijke zorg is de normale, dagelijkse zorg die partners, ouders, inwonende kinderen of andere huisgenoten geacht worden elkaar onderling te bieden. Voor kinderen geldt dat er een bandbreedte is in het normale ontwikkelingsprofiel. Ook tussen kinderen van dezelfde leeftijd zonder AWBZ-grondslag kan de omvang van de zorg (per dag) verschillen. Het ene kind is nu eenmaal gemakkelijker dan het andere kind. Gebruikelijke zorg bij kinderen kan activiteiten omvatten die niet standaard bij alle kinderen voorkomen. Bij gebruikelijke zorg gaat het om activiteiten als omschreven in de beleidsregels Persoonlijke Verzorging, Verpleging, Begeleiding en bij Verblijf om het leefklimaat beschermende woonomgeving<sup> 11 In bijlage 8 verblijf is het leefklimaat beschermende woonomgeving beschreven </sup>. Van bovengebruikelijke zorg bij kinderen in chronische situaties is pas sprake wanneer de omvang van de zorg substantieel meer is dan een gezond kind van dezelfde leeftijd gemiddeld nodig heeft. Met substantieel wordt bij de functies Persoonlijke Verzorging, Verpleging en Begeleiding bedoeld een omvang van gemiddeld meer dan een uur per etmaal. Dit uur per etmaal is geen bovengebruikelijke zorg, maar hoort nog tot gebruikelijke zorg. Bij de functie Verblijf gaat het om het bieden van een beschermende woonomgeving, die gezien de levensfase van het kind als gebruikelijke zorg van ouders aan kinderen moet worden aangemerkt<sup> 12 RZA 2010/97 </sup>. 
+Voor zover het gebruikelijk is dat partners, ouders, inwonende kinderen en/of huisgenoten elkaar bepaalde zorg bieden, is verzekerde niet aangewezen op AWBZ-zorg wat betreft de functies Persoonlijke Verzorging, Verpleging, Begeleiding en/of Verblijf. Bij Gebruikelijke zorg wordt onderscheid gemaakt tussen kortdurende zorgsituaties en langdurende/ chronische zorgsituaties. In kortdurende zorgsituaties, met uitzicht op dusdanig herstel van het gezondheidsprobleem en de daarmee samenhangende zelfredzaamheid van de verzekerde, wordt van partners onderling verwacht dat zij elkaar gedurende deze periode de benodigde zorg en begeleiding bieden. Dit geldt ook voor de zorg van ouders aan kinderen. Bij een kortdurende zorgsituatie gaat het over het algemeen over een periode van maximaal drie maanden. In de paragrafen 2.2 tot en met 2.5 is gebruikelijke zorg per functie verder uitgeschreven. Dit ook voor wat betreft de uitzonderingen hierop. 
 
-### 2.1  
+### 2.1 
+
+####Algemeen beoordelingskader bij kinderen
+
+Het onderzoek door het CIZ<sup> 1 Artikel 6 van het Zorgindicatiebesluit. </sup> naar de aanspraak op AWBZ-zorg in relatie tot gebruikelijke zorg van ouders aan kinderen richt zich in stap 1 van het onderzoek op het bepalen van de stoornissen en beperkingen die voortkomen uit een aandoening. In stap 2 van het indicatieonderzoek wordt beoordeeld welk deel van de benodigde zorg voortkomt uit de aandoening, stoornissen en beperkingen van het kind en vervolgens wordt beoordeeld welk deel van deze zorg onder de gebruikelijke zorg van ouders aan kinderen valt. Om vast te stellen op welke zorg het kind redelijkerwijs is aangewezen, wordt door het CIZ, gelet op de omstandigheden van het betrokken kind, beoordeeld welke zorg op het gebied van Persoonlijke Verzorging, Verpleging en Begeleiding uitgaat boven de zorg die een kind van dezelfde leeftijd zonder beperkingen redelijkerwijs nodig heeft. Bij die beoordeling dienen de leeftijd van het kind, de aard van de zorghandelingen, de frequentie van deze zorghandelingen en de omvang van de daarmee gemoeide tijd te worden betrokken. Tevens wordt beoordeeld of sprake is van een of meer uitzonderingen die van invloed kunnen zijn bij het bepalen van de gebruikelijke zorg van ouders aan kinderen. 
+
+####Leeftijd
+
+Bij de beoordeling wordt rekening gehouden met verschillen die tussen kinderen in dezelfde leeftijdscategorie bestaan. Bij de beoordeling van wat tot gebruikelijke zorg van ouders voor hun kinderen behoort, past daarom een zekere marge. Ook bij gezonde kinderen van dezelfde leeftijd kan de zorg die het ene kind nodig heeft meer of minder zijn dan de zorg die een ander kind nodig heeft. Het ene kind is nu eenmaal gemakkelijker dan het andere kind. 
+
+####Aard van de zorghandelingen
+
+Op zorghandelingen die het kind zelfstandig kan uitvoeren, is dat kind redelijkerwijs niet aangewezen. Gebruikelijke zorg bij kinderen kan ook handelingen omvatten die niet standaard bij alle kinderen voorkomen. Het gaat dan om handelingen die een gebruikelijke zorghandeling vervangen zoals sondevoeding in plaats van eten of om handelingen die in samenhang met reguliere zorgmomenten kunnen worden geboden zoals het geven van medicijnen. Bij gebruikelijke zorg gaat het om handelingen als omschreven in de beleidsregels Persoonlijke Verzorging, Verpleging en Begeleiding. Bij de functie Verblijf gaat het om het leefklimaat beschermende woonomgeving<sup> 2 In bijlage 8 verblijf is het leefklimaat beschermende woonomgeving beschreven </sup> , die gelet op de levensfase van het kind als gebruikelijke zorg van ouders aan kinderen moet worden aangemerkt.<sup> 3 RZA 2010/97 </sup> 
+
+####Frequentie en patroon van de zorghandelingen
+
+Zorghandelingen die meelopen in het normale patroon van dagelijkse zorg voor een kind, zoals drie keer eten per dag, kan als gebruikelijke zorg worden aangemerkt. Een voorbeeld van zorghandelingen die niet meelopen in het normale patroon van dagelijkse zorg van ouders aan een kind is het meerdere malen per nacht bieden van zorg van ouders aan een ouder kind. Bij de beoordeling wordt rekening gehouden met die zorgsituaties waarbij ouders voortdurend in de nabijheid moeten zijn om onplanbare zorg en toezicht te leveren vanwege de (chronische) aandoening, stoornissen en beperkingen van het kind. 
+
+####Omvang van de met de zorghandelingen gemoeide tijd
+
+De (extra) tijd die met de zorghandelingen is gemoeid, kan meebrengen dat niet langer van gebruikelijke zorg sprake is. 
+
+####Samenhangende beoordeling
+
+De hiervoor genoemde criteria moeten telkens in samenhang en gelet op de omstandigheden van het kind worden beoordeeld. 
+
+– Zo kan een zorghandeling die naar zijn aard en omvang voor een kind van een bepaalde leeftijdsgroep gebruikelijk is, in een individuele situatie veel vaker voorkomen (frequentie) waardoor deze zorg niet geheel als gebruikelijk kan worden aangemerkt.  
+
+– Zo kan bij een kind van een bepaalde leeftijd dat is aangewezen op handelingen die niet bij alle gezonde kinderen voorkomen en die kunnen meelopen in het gebruikelijke patroon van dagelijkse verzorging, niet langer sprake zijn van gebruikelijke zorg vanwege de (extra) tijd die met deze zorghandelingen gemoeid gaat.  Bij de beoordeling wordt gebruik gemaakt van de richtlijnen die zijn opgenomen in paragraaf 3 van deze bijlage. Het uitgangspunt van de richtlijn is de zorg die ouders volgens heersende maatschappelijke opvattingen moeten bieden aan kinderen zonder beperkingen, rekening houdend met verschillen die bij kinderen in dezelfde leeftijdscategorie bestaan. Het resultaat van stap 2 laat de aard en de omvang van de zorg zien waar het kind vanuit de AWBZ op is aangewezen. In de respectievelijke stappen 3, 4 en 5 wordt gekeken naar de invloed van het compenserend vermogen van de mantelzorger in relatie tot het uiteindelijke indicatiebesluit. 
+
+### 2.2 
 
 ####Gebruikelijke Persoonlijke Verzorging
 
 1. Persoonlijke Verzorging van de volwassen verzekerde door zijn partner is alleen gebruikelijke zorg als er sprake is van een kortdurende zorgsituatie met uitzicht op een dusdanig herstel van het gezondheidsprobleem en de daarmee samenhangende zelfredzaamheid van de verzekerde, dat AWBZ-zorg daarna niet langer is aangewezen. Daarbij gaat het over het algemeen over een periode van maximaal drie maanden. Van partners wordt in die situatie verwacht, dat zij elkaar alle persoonlijke verzorging bieden. De zorgplicht van partners onderling betreft persoonlijke, lichaamsgebonden zorg in de vorm van assistentie en overname bij de algemeen dagelijkse levensverrichtingen, maar ook aandacht en begeleiding bij een aandoening.  
 
-2. Alle Persoonlijke Verzorging door de ouder aan het kind is gebruikelijke zorg als er sprake is van een kortdurende zorgsituatie met uitzicht op een dusdanig herstel van het gezondheidsprobleem en de daarmee samenhangende zelfredzaamheid van de verzekerde, dat AWBZ-zorg daarna niet langer is aangewezen. Daarbij gaat het over het algemeen over een periode van maximaal drie maanden. Een kind is aangewezen op AWBZ-zorg als het gaat om een chronische situatie, waarbij de gebruikelijke zorg in vergelijking tot kinderen zonder AWBZ-grondslag van dezelfde leeftijdscategorie substantieel wordt overschreden. De gebruikelijke bijdrage<sup> 13  <sup></sup>Zie hoofdstuk 3 ‘Richtlijnen ten aanzien van gebruikelijke zorg van ouders voor kinderen met een normaal ontwikkelingsprofiel in verschillende leeftijdsfasen van het kind in relatie tot AWBZ-zorg’ </sup> van een ouder aan de Persoonlijke Verzorging van een kind wordt gesteld op de omvang van de Persoonlijke Verzorging die voor een kind van die leeftijd noodzakelijk is binnen de bandbreedte van het normale ontwikkelingsprofiel, indien er voor dat kind geen grondslag is voor een AWBZ-indicatie.  
+2. Alle Persoonlijke Verzorging door de ouder aan het kind is gebruikelijke zorg als er sprake is van een kortdurende zorgsituatie met uitzicht op een dusdanig herstel van het gezondheidsprobleem en de daarmee samenhangende zelfredzaamheid van de verzekerde, dat AWBZ-zorg daarna niet langer is aangewezen. Daarbij gaat het over het algemeen over een periode van maximaal drie maanden.  
 
-3. Het aanleren van handelingen op het gebied van Persoonlijke verzorging aan derden (familie, vrienden) is gebruikelijke zorg.   
+3. Een kind is aangewezen op AWBZ-zorg als het gaat om een chronische situatie, waarbij de gebruikelijke zorg in vergelijking tot kinderen zonder AWBZ-grondslag van dezelfde leeftijdscategorie volgens de in paragraaf 3 opgenomen richtlijn wordt overschreden. Gebruikelijke zorg bij kinderen kan ook handelingen omvatten die niet standaard bij alle kinderen voorkomen. Het gaat dan om handelingen die een gebruikelijke zorghandeling vervangen zoals sondevoeding in plaats van eten of om handelingen die in samenhang met reguliere zorgmomenten kunnen worden geboden zoals het geven van medicijnen.  
+
+4. Als een kind een handeling zelf kan uitvoeren, is er op grond van het begrip ‘redelijkerwijs’ geen aanspraak op AWBZ-zorg, zoals het legen of wisselen van een katheterzakje.  
+
+5. Het aanleren van handelingen op het gebied van Persoonlijke Verzorging aan derden (familie, vrienden) is gebruikelijke zorg.   
 
 ####Uitzonderingen
 
-1. Voor zover een partner of ouder geobjectiveerde beperkingen heeft en/of kennis/vaardigheden mist om gebruikelijke persoonlijke verzorging ten behoeve van verzekerde uit te voeren en deze vaardigheden niet kan aanleren wordt van hen geen bijdrage verwacht.  
+1. Voor zover een partner of ouder geobjectiveerde beperkingen heeft en/of kennis/vaardigheden mist om gebruikelijke Persoonlijke verzorging ten behoeve van verzekerde uit te voeren en deze vaardigheden niet kan aanleren wordt van hen geen bijdrage verwacht. Bij kinderen geldt deze uitzondering alleen voor zover het handelingen betreft die bij een gezond kind c.q. een kind zonder beperkingen niet voorkomen. Denk hierbij bijvoorbeeld aan het geven van sondevoeding of medicijnen. 
 
 2. Voor zover een partner of ouder overbelast is of dreigt te raken wordt van hem of haar geen bijdrage verwacht, totdat deze (dreigende) overbelasting is opgeheven. Daarbij geldt het volgende: 
 
 a. Wanneer er voor de partner of ouder eigen mogelijkheden en/of voorliggende voorzieningen zijn om de (dreigende) overbelasting op te heffen dienen deze eigen mogelijkheden en/of voorliggende voorzieningen hiertoe te worden aangewend. Als er sprake is van (dreigende) overbelasting vanwege het zelf leveren van geïndiceerde AWBZ-zorg, dient men die overbelasting op te heffen door deze zorg door (andere) zorgverleners uit te laten voeren/in te kopen.  
 
-b. Voor zover de (dreigende) overbelasting wordt veroorzaakt door maatschappelijke activiteiten buiten de gebruikelijke persoonlijke verzorging, wel of niet in combinatie met een fulltime school- of werkweek, gaat het verlenen van gebruikelijke persoonlijke verzorging voor op die maatschappelijke activiteiten.    
+b. Voor zover de (dreigende) overbelasting wordt veroorzaakt door maatschappelijke activiteiten buiten de gebruikelijke Persoonlijke verzorging, wel of niet in combinatie met een fulltime school- of werkweek, gaat het verlenen van gebruikelijke Persoonlijke verzorging voor op die maatschappelijke activiteiten.   
 
-3. Voor zover gebruikelijke Persoonlijke Verzorging bij kinderen van niet uitstelbare aard is en degene die de gebruikelijke zorg moet verlenen niet beschikbaar is, wegens reguliere school- of werkweek van hem/haar zelf of van het kind, kan hiervoor een indicatie worden gesteld.  
+3. Voor zover gebruikelijke Persoonlijke Verzorging bij kinderen van niet uitstelbare aard is en degene die de gebruikelijke zorg moet verlenen niet beschikbaar is, wegens reguliere school- of werkweek van hem/haar zelf of van het kind, kan hiervoor een indicatie worden gesteld. Bij zorghandelingen tijdens de kinderopvang of tijdens het onderwijs, is sprake van bovengebruikelijke Persoonlijke Verzorging als het gaat om handelingen die organisaties voor kinderopvang of onderwijs niet plegen te bieden zoals het geven van sondevoeding in plaats van eten. 
 
 4. Voor zover de verzekerde zich in de terminale levensfase bevindt, wordt geen gebruikelijke persoonlijke verzorging verwacht van een partner of ouder.  
 
-5. Voor zover het kind van 12 jaar of ouder geen intieme Persoonlijke Verzorging wil ontvangen van de ouder wordt geen bijdrage verwacht van de ouder.   
+5. Voor zover het kind van 12 jaar of ouder geen intieme Persoonlijke Verzorging wil ontvangen van de ouder wordt geen bijdrage verwacht van de ouder.  
 
-### 2.2  
+### 2.3 
 
 ####Gebruikelijke Verpleging
 
 1. Verpleging van de volwassen verzekerde is geen gebruikelijke zorg.  
 
-2. Het uitvoeren van verpleegkundige handelingen door ouders van een thuiswonend kind is gebruikelijke zorg, wanneer deze handelingen aan te leren zijn. Zie bijlage Verpleging voor onderscheid tussen [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en [AWBZ](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md). Verpleegkundige handelingen door ouders aan kinderen, die aan te leren zijn, vallen onder gebruikelijke zorg als er sprake is van een kortdurende zorgsituatie. Daarbij gaat het over het algemeen over een periode van maximaal drie maanden. Verpleegkundige handelingen, door ouders aan kinderen, die aan te leren zijn, zijn in chronische situaties wel indiceerbare zorg indien de gebruikelijke zorg in vergelijking tot kinderen zonder AWBZ-grondslag van dezelfde leeftijdscategorie substantieel wordt overschreden.  
+2. Het uitvoeren van verpleegkundige handelingen door ouders van een thuiswonend kind is in kortdurende situaties gebruikelijke zorg, wanneer deze handelingen aan te leren zijn. Daarbij gaat het over het algemeen over een periode van maximaal drie maanden.  
 
-3. Voor het aanleren van verpleegkundige handelingen aan de gebruikelijke zorger en/of mantelzorger kan een indicatie worden afgegeven. Bij de afweging of een indicatie kan worden afgegeven voor het aanleren of overnemen van verpleegkundige handelingen, wordt in de afweging meegenomen of, gelet op de duur en frequentie in relatie tot de periode die nodig is voor het gedegen aanleren, sprake is van doelmatigheid. Als bij een verzekerde gedurende korte periode een verpleegkundige handeling moet worden verricht, dient het aanleren niet meer tijd te kosten dan het gedurende een paar weken overnemen van die handeling.   
+3. Als een kind een handeling zelf kan uitvoeren, is er op grond van het begrip ‘redelijkerwijs’ geen aanspraak op AWBZ-zorg, zoals het controleren van de bloedsuiker, insuline spuiten en katheteriseren.  
+
+4. Voor het aanleren van verpleegkundige handelingen aan het kind, de gebruikelijke zorger en/of mantelzorger kan een indicatie worden afgegeven. Bij de afweging of een indicatie kan worden afgegeven voor het aanleren of overnemen van verpleegkundige handelingen, wordt in de afweging meegenomen of, gelet op de duur en frequentie in relatie tot de periode die nodig is voor het gedegen aanleren, sprake is van doelmatigheid. Als bij een verzekerde gedurende korte periode een verpleegkundige handeling moet worden verricht, dient het aanleren niet meer tijd te kosten dan het gedurende een paar weken overnemen van die handeling.   
 
 ####Uitzonderingen
 
@@ -585,13 +639,13 @@ b. Voor zover de (dreigende) overbelasting wordt veroorzaakt door maatschappelij
 
 5. Voor zover het kind van 12 jaar of ouder geen intieme Verpleging wil ontvangen van de ouder wordt geen bijdrage verwacht van de ouder.   
 
-### 2.3  
+### 2.4 
 
 ####Gebruikelijke Begeleiding
 
 1. Alle Begeleiding van de verzekerde door de ouder, door partners onderling, door inwonende kinderen en/of andere huisgenoten is gebruikelijke zorg als er sprake is van een kortdurende zorgsituatie met uitzicht op een dusdanig herstel van het gezondheidsprobleem en de daarmee samenhangende zelfredzaamheid van de verzekerde, dat AWBZ-zorg daarna niet langer is aangewezen. Daarbij gaat het over het algemeen over een periode van maximaal drie maanden.  
 
-2. Een kind is aangewezen op AWBZ-zorg als het gaat om een chronische situatie, waarbij de gebruikelijke begeleiding in vergelijking tot kinderen zonder AWBZ-grondslag van dezelfde leeftijdscategorie substantieel wordt overschreden. De gebruikelijke bijdrage<sup> 14  <sup></sup>Zie hoofdstuk 3 ‘Richtlijnen ten aanzien van gebruikelijke zorg van ouders voor kinderen met een normaal ontwikkelingsprofiel bij verschillende leeftijden in relatie tot AWBZ-zorg’ </sup> van een ouder aan de Begeleiding van een kind wordt gesteld op de omvang van de Begeleiding die voor een kind van die leeftijd noodzakelijk is binnen de bandbreedte van het normale ontwikkelingsprofiel, indien er voor dat kind geen grondslag is voor een AWBZ-indicatie.  
+2. Een kind is aangewezen op AWBZ-zorg als het gaat om een chronische situatie, waarbij de gebruikelijke begeleiding in vergelijking tot een gezond kind c.q. een kind zonder beperkingen van dezelfde leeftijdscategorie volgens de in paragraaf 3 opgenomen richtlijn wordt overschreden.  
 
 3. Als het gaat om een chronische situatie is de Begeleiding van een volwassen verzekerde gebruikelijke zorg wanneer die Begeleiding naar algemeen aanvaarde maatstaven door partner, ouder, inwonend kind en/of andere huisgenoten in de persoonlijke levenssfeer onderling aan elkaar moet worden geboden.  
 
@@ -609,13 +663,13 @@ b. Voor zover de (dreigende) overbelasting wordt veroorzaakt door maatschappelij
 
 3. Voor zover de verzekerde zich in de terminale levensfase bevindt, wordt geen bijdrage verwacht van een partner, ouder, kind en/of andere huisgenoot.   
 
-### 2.4  
+### 2.5 
 
 ####Beschermende woonomgeving en kinderen
 
-1. Het door de ouders aan het kind bieden van een beschermende woonomgeving (als omschreven in de bijlage Verblijf) moet afhankelijk van de levensfase van het kind als gebruikelijke zorg worden aangemerkt, ook als er sprake is van een kind met een ziekte, aandoening of beperking. In hoofdstuk 3 zijn per levensfase richtlijnen ten aanzien van de gebruikelijke zorg van ouders voor kinderen met een normaal ontwikkelingsprofiel opgenomen.  
+1. Het door de ouders aan het kind bieden van een beschermende woonomgeving (als omschreven in de bijlage Verblijf) moet afhankelijk van de levensfase van het kind als gebruikelijke zorg worden aangemerkt, ook als er sprake is van een kind met een ziekte, aandoening of beperking. In paragraaf 3 zijn per levensfase richtlijnen ten aanzien van de gebruikelijke zorg van ouders voor kinderen met een normaal ontwikkelingsprofiel opgenomen.  
 
-2. Als een kind niet bij (een van) de ouder(s) kan wonen, vanwege de onmogelijkheden van de ouder(s) om een veilig thuis te bieden en/of vanwege opvoedingsonmacht van de ouder(s), is verblijf op grond van de [Wet op de jeugdzorg](../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) aan de orde. Daarnaast kan er in deze situaties bij kinderen met een aandoening, stoornis of beperking aanspraak zijn op AWBZ-verblijf als de zorg noodzakelijkerwijs gepaard gaat met een therapeutisch leefklimaat en/of permanent toezicht.   
+2. Als een kind niet bij (een van) de ouder(s) kan wonen, vanwege de onmogelijkheden van de ouder(s) om een veilig thuis te bieden en/of vanwege opvoedingsonmacht van de ouder(s), is verblijf op grond van de Wet op de jeugdzorg aan de orde. Daarnaast kan er in deze situaties bij kinderen met een aandoening, stoornis of beperking aanspraak zijn op AWBZ-verblijf als de zorg noodzakelijkerwijs gepaard gaat met een therapeutisch leefklimaat en/of permanent toezicht.   
 
 ### 3  
 
@@ -623,10 +677,10 @@ b. Voor zover de (dreigende) overbelasting wordt veroorzaakt door maatschappelij
 
 | --- |
 |:---|
-|  *Kinderen van 0 tot 3 jaar*   • hebben bij alle activiteiten zorg van een ouder nodig;  • ouderlijk toezicht is zeer nabij nodig;  • zijn in toenemende mate zelfstandig in bewegen en verplaatsen.  • hebben begeleiding en stimulans nodig bij hun psychomotorische ontwikkeling;  • hebben een beschermende woonomgeving nodig waarin de fysieke en sociale veiligheid is gewaarborgd en een passend pedagogisch klimaat wordt geboden.  |
-|  *Kinderen van 3 tot 5 jaar*   • kunnen niet zonder toezicht van volwassenen. Dit toezicht kan binnenshuis korte tijd op gehoorafstand (bijv. ouder kan was ophangen in andere kamer);  • hebben begeleiding en stimulans nodig bij hun psychomotorische ontwikkeling;  • kunnen zelf zitten, en op gelijkvloerse plaatsen zelf staan en lopen;  • ontvangen zindelijkheidstraining van ouders/verzorgers;  • hebben gedeeltelijk hulp en volledig stimulans en toezicht nodig bij aan- en uitkleden, eten en wassen, in- en uit bed komen, dag- en nachtritme en dagindeling bepalen;  • hebben begeleiding nodig bij hun spel en vrijetijdsbesteding;  • zijn niet in staat zich zonder begeleiding in het verkeer te begeven.  • hebben een beschermende woonomgeving nodig waarin de fysieke en sociale veiligheid is gewaarborgd en een passend pedagogisch klimaat wordt geboden.  |
-|  *Kinderen van 5 tot 12 jaar*   • kinderen vanaf 5 jaar hebben een reguliere dagbesteding op school, oplopend van 22 tot 25 uur/week;  • kunnen niet zonder toezicht van volwassenen. Dit toezicht kan op enige afstand (bijv. kind kan buitenspelen in directe omgeving van de woning als ouder thuis is);  • hebben toezicht nodig en nog maar weinig hulp bij hun persoonlijke verzorging;  • hebben begeleiding en stimulans nodig bij hun psychomotorische ontwikkeling;  • zijn overdag zindelijk, en 's nachts merendeels ook; ontvangen zonodig zindelijkheidstraining van de ouders/verzorgers;  • hebben begeleiding van een volwassene nodig in het verkeer wanneer zij van en naar school, activiteiten ter vervanging van school of vrije tijdsbesteding gaan.  • hebben een beschermende woonomgeving nodig waarin de fysieke en sociale veiligheid is gewaarborgd en een passend pedagogisch klimaat wordt geboden.  |
-|  *Kinderen van 12 tot 18 jaar*   • hebben geen voortdurend toezicht nodig van volwassenen;  • kunnen vanaf 12 jaar enkele uren alleen gelaten worden;  • kunnen vanaf 16 jaar dag en nacht alleen gelaten worden;  • kunnen vanaf 18 jaar zelfstandig wonen;  • hebben bij hun persoonlijke verzorging geen hulp en maar weinig toezicht nodig;  • hebben tot 18 jaar een reguliere dagbesteding op school/opleiding;  • hebben begeleiding en stimulans nodig bij ontplooiing en ontwikkeling (bv. huiswerk of het zelfstandig gaan wonen).  • hebben tot 17 jaar een beschermende woonomgeving nodig waarin de fysieke en sociale veiligheid is gewaarborgd en een passend pedagogisch klimaat wordt geboden.  |
+| *Kinderen van 0 tot 3 jaar*  • hebben bij alle activiteiten verzorging van een ouder nodig;  • ouderlijk toezicht is zeer nabij nodig;  • zijn in toenemende mate zelfstandig in bewegen en verplaatsen;  • hebben begeleiding en stimulans nodig bij hun psychomotorische ontwikkeling;  • hebben begeleiding en stimulans nodig bij de ontwikkeling naar zelfstandigheid en zelfredzaamheid;  • hebben een beschermende woonomgeving nodig waarin de fysieke en sociale veiligheid is gewaarborgd en een passend pedagogisch klimaat wordt geboden.  |
+| *Kinderen van 3 tot 5 jaar*  • kunnen niet zonder toezicht van volwassenen. Dit toezicht kan binnenshuis korte tijd op  gehoorafstand (bijv. ouder kan was ophangen in andere kamer);  • hebben begeleiding en stimulans nodig bij hun psychomotorische ontwikkeling;  • hebben begeleiding en stimulans nodig bij de ontwikkeling naar zelfstandigheid en zelfredzaamheid;  • kunnen zelf zitten, en op gelijkvloerse plaatsen zelf staan en lopen;  • hebben hulp, toezicht, stimulans, zindelijkheidstraining en controle nodig bij de toiletgang;  • hebben hulp, toezicht, stimulans en controle nodig bij aan- en uitkleden, eten en wassen, in- en uit bed komen, dag- en nachtritme en dagindeling bepalen;  • hebben begeleiding nodig bij hun spel en vrijetijdsbesteding;  • zijn niet in staat zich zonder begeleiding in het verkeer te begeven;  • hebben een beschermende woonomgeving nodig waarin de fysieke en sociale veiligheid is gewaarborgd en een passend pedagogisch klimaat wordt geboden.  |
+| *Kinderen van 5 tot 12 jaar*  • kinderen vanaf 5 jaar hebben een reguliere dagbesteding op school, oplopend van 22 tot 25 uur/week;  • kunnen niet zonder toezicht van volwassenen. Dit toezicht kan op enige afstand (bijv. kind kan buitenspelen in directe omgeving van de woning als ouder thuis is);  • hebben toezicht, stimulans en controle nodig en vanaf 6 jaar tot 12 jaar geleidelijk aan steeds minder hulp nodig bij hun persoonlijke verzorging zoals het zich wassen en tanden poetsen;  • hebben hulp nodig bij het gebruik van medicatie;  • zijn overdag zindelijk, en 's nachts merendeels ook; ontvangen zonodig zindelijkheidstraining van de ouders/verzorgers;  • hebben begeleiding en stimulans nodig bij hun psychomotorische ontwikkeling;  • hebben begeleiding en stimulans nodig bij de ontwikkeling naar zelfstandigheid en zelfredzaamheid;  • hebben begeleiding van een volwassene nodig in het verkeer wanneer zij van en naar school, activiteiten ter vervanging van school of vrije tijdsbesteding gaan;  • hebben een beschermende woonomgeving nodig waarin de fysieke en sociale veiligheid is gewaarborgd en een passend pedagogisch klimaat wordt geboden.  |
+| *Kinderen van 12 tot 18 jaar*  • hebben geen voortdurend toezicht nodig van volwassenen;  • kunnen vanaf 12 jaar enkele uren alleen gelaten worden;  • kunnen vanaf 16 jaar een dag en/of een nacht alleen gelaten worden;  • kunnen vanaf 18 jaar zelfstandig wonen;  • hebben bij hun persoonlijke verzorging geen hulp en maar weinig toezicht nodig;  • hebben bij gebruik van medicatie tot hun 18<sup>e</sup> jaar toezicht, stimulans en controle nodig;  • hebben tot 18 jaar een reguliere dagbesteding op school/opleiding;  • hebben begeleiding en stimulans nodig bij ontplooiing en ontwikkeling (bv. huiswerk of het zelfstandig gaan wonen);  • hebben begeleiding en stimulans nodig bij de ontwikkeling naar zelfstandigheid en zelfredzaamheid;  • hebben tot 17 jaar een beschermende woonomgeving nodig waarin de fysieke en sociale veiligheid is gewaarborgd en een passend pedagogisch klimaat wordt geboden.  |
 
 ### Bijlage  4  
 
@@ -636,7 +690,7 @@ b. Voor zover de (dreigende) overbelasting wordt veroorzaakt door maatschappelij
 
 ####Inleiding
 
-1. Deze bijlage is van toepassing op de indicatiestelling voor de functie Persoonlijke Verzorging, zoals bedoeld in [artikel 4 van het Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) (Bza).  
+1. Deze bijlage is van toepassing op de indicatiestelling voor de functie Persoonlijke Verzorging, zoals bedoeld in artikel 4 van het Besluit zorgaanspraken (Bza).  
 
 2. Deze bijlage kan worden aangehaald als ‘bijlage Persoonlijke Verzorging’.  
 
@@ -644,7 +698,7 @@ b. Voor zover de (dreigende) overbelasting wordt veroorzaakt door maatschappelij
 
 ####Relevante wet- en regelgeving
 
-[Artikel 4 Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md): ‘Persoonlijke Verzorging omvat het ondersteunen bij of het overnemen van activiteiten op het gebied van de Persoonlijke Verzorging in verband met een somatische, psychogeriatrische of psychiatrische aandoening of beperking, een verstandelijke, lichamelijke of zintuiglijke handicap, gericht op het opheffen van een tekort aan zelfredzaamheid.’ 
+Artikel 4 Besluit zorgaanspraken: ‘Persoonlijke Verzorging omvat het ondersteunen bij of het overnemen van activiteiten op het gebied van de Persoonlijke Verzorging in verband met een somatische, psychogeriatrische of psychiatrische aandoening of beperking, een verstandelijke, lichamelijke of zintuiglijke handicap, gericht op het opheffen van een tekort aan zelfredzaamheid.’ 
 
 ### 2  
 
@@ -662,7 +716,7 @@ De functie Persoonlijke Verzorging is gericht op activiteiten op het gebied van 
 
 Voor het bepalen van de inhoud van de AWBZ-functies Persoonlijke Verzorging en Verpleging is het uitgangspunt dat activiteiten die verzekerden gebruikelijk zelf uitvoeren, zoals de algemene dagelijkse levensverrichtingen (ADL), vallen onder persoonlijke verzorging. Naast de reguliere ADL-activiteiten is er nog een aantal andere activiteiten die onder de functie Persoonlijke Verzorging thuishoren, zoals (geen limitatieve lijst): 
 
-1. het aanreiken van medicijnen die vallen onder de apotheekverstrekking [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of zijn voorgeschreven door een arts;  
+1. het aanreiken van medicijnen die vallen onder de apotheekverstrekking Zvw of zijn voorgeschreven door een arts;  
 
 2. het toedienen van orale, vaginale of rectale medicatie (zoals bedoeld bij 1.) bij een lokaal intacte huid, het zalven van de lokaal intacte huid, het druppelen van oog, oor of neus bij een lokaal intacte huid; het aanbrengen van medicinale pleisters  
 
@@ -674,7 +728,7 @@ Voor het bepalen van de inhoud van de AWBZ-functies Persoonlijke Verzorging en V
 
 ### *Aanleren* 
 
-Voor het aanleren van persoonlijke verzorging in combinatie met medisch verpleegkundig handelen geldt dat deze persoonlijke ver-zorging in het ziekenhuis (voor het ontslag) aan (gebruikelijke zorger) van verzekerde worden geleerd. Zo hoort het aanleren van bijvoorbeeld de zorg voor een stoma of het toedienen van sondevoeding niet tot de aanspraken van de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), maar dienen deze vaardigheden vanuit de [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) aangeleerd te worden aan verzekerde (gebruikelijke zorger). Bij de regeling zorgverzekering hulpmiddelenzorg hoort behalve het leveren van het hulpmiddel ook een instructie over het gebruik. Als er na deze instructie nog aanleren nodig is dan kan dit ten laste van de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md). Als een verzekerde niet in staat is de anders dan hierboven bedoelde persoonlijke zorg zelf uit te voeren, wordt tijdens een indicatieonderzoek onderzocht of de verzekerde (gebruikelijke zorger) gegeven diens leerbaarheid, deze persoonlijke zorg aan kan leren. Als bij een verzekerde (gebruikelijke zorger) gedurende een korte periode een handeling moet worden verricht, dient het aanleren ervan niet meer tijd te kosten dan het gedurende een paar weken overnemen van die handeling. 
+Voor het aanleren van persoonlijke verzorging in combinatie met medisch verpleegkundig handelen geldt dat deze persoonlijke ver-zorging in het ziekenhuis (voor het ontslag) aan (gebruikelijke zorger) van verzekerde worden geleerd. Zo hoort het aanleren van bijvoorbeeld de zorg voor een stoma of het toedienen van sondevoeding niet tot de aanspraken van de AWBZ, maar dienen deze vaardigheden vanuit de Zvw aangeleerd te worden aan verzekerde (gebruikelijke zorger). Bij de regeling zorgverzekering hulpmiddelenzorg hoort behalve het leveren van het hulpmiddel ook een instructie over het gebruik. Als er na deze instructie nog aanleren nodig is dan kan dit ten laste van de AWBZ. Als een verzekerde niet in staat is de anders dan hierboven bedoelde persoonlijke zorg zelf uit te voeren, wordt tijdens een indicatieonderzoek onderzocht of de verzekerde (gebruikelijke zorger) gegeven diens leerbaarheid, deze persoonlijke zorg aan kan leren. Als bij een verzekerde (gebruikelijke zorger) gedurende een korte periode een handeling moet worden verricht, dient het aanleren ervan niet meer tijd te kosten dan het gedurende een paar weken overnemen van die handeling. 
 
 ### 2.3  
 
@@ -702,9 +756,9 @@ De verzekerde kan toegang verkrijgen tot de functie Persoonlijke Verzorging als 
 
 ### 3.1  
 
-####Afbakening [Wmo](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) en [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)
+####Afbakening Wmo en AWBZ
 
-Voorliggend zijn wettelijke regelingen, anders dan de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), waarmee zorg waarop verzekerde is aangewezen of een voorziening waarmee de verzekerde de (zelf)zorg weer kan uitvoeren, worden bekostigd. Van veel voorliggende voorzieningen kan de verzekerde direct gebruik maken. Maar sommige voorzieningen, zoals een woningaanpassing, zijn niet direct te realiseren. De verzekerde heeft dan tijdelijk aanspraak op AWBZ-zorg (Persoonlijke Verzorging) om de tijd tot realisatie van de voorliggende voorziening te overbruggen. De voorliggende voorziening moet echter wel binnen redelijke termijn zijn gerealiseerd. Daarna vervalt de aanspraak op AWBZ-zorg. Wat een redelijke termijn is, hangt af van de te treffen voorzieningen.  *Woonvoorzieningen Wmo en uitleenservice:*  Binnen de Wmo zijn de volgende drie groepen woonvoorzieningen te onderscheiden: 
+Voorliggend zijn wettelijke regelingen, anders dan de AWBZ, waarmee zorg waarop verzekerde is aangewezen of een voorziening waarmee de verzekerde de (zelf)zorg weer kan uitvoeren, worden bekostigd. Van veel voorliggende voorzieningen kan de verzekerde direct gebruik maken. Maar sommige voorzieningen, zoals een woningaanpassing, zijn niet direct te realiseren. De verzekerde heeft dan tijdelijk aanspraak op AWBZ-zorg (Persoonlijke Verzorging) om de tijd tot realisatie van de voorliggende voorziening te overbruggen. De voorliggende voorziening moet echter wel binnen redelijke termijn zijn gerealiseerd. Daarna vervalt de aanspraak op AWBZ-zorg. Wat een redelijke termijn is, hangt af van de te treffen voorzieningen.  *Woonvoorzieningen Wmo en uitleenservice:*  Binnen de Wmo zijn de volgende drie groepen woonvoorzieningen te onderscheiden: 
 
 1. Roerende (niet bouwkundige) woonvoorzieningen  
 
@@ -735,24 +789,39 @@ De omvang van de functie Persoonlijke Verzorging wordt bepaald door het per aang
 
 ####Klassen
 
-De omvang van de functie Persoonlijke Verzorging wordt vastgesteld in klassen, met daarin een bandbreedte in uren. De klassen zijn als volgt bepaald: klasse 1: 0 – 1,9 uur per week klasse 2: 2 – 3,9 uur per week klasse 3: 4 – 6,9 uur per week klasse 4: 7 – 9,9 uur per week klasse 5: 10 – 12,9 uur per week klasse 6: 13 – 15,9 uur per week klasse 7: 16 – 19,9 uur per week klasse 8: 20 – 24,9 uur per week 
+De omvang van de functie Persoonlijke Verzorging wordt vastgesteld in klassen, met daarin een bandbreedte in uren. De klassen zijn als volgt bepaald: klasse 1: 0 – 1,9 uur per week klasse 2: 2 – 3,9 uur per week klasse 3: 4 – 6,9 uur per week klasse 4: 7 – 9,9 uur per week klasse 5: 10 – 12,9 uur per week klasse 6: 13 – 15,9 uur per week klasse 7: 16 – 19,9 uur per week klasse 8: 20 – 24,9 uur per week
 
 ### 4.2  
 
 ####Afbakening Onderwijs en AWBZ
 
-Voor de omvang van Persoonlijke Verzorging wordt ook rekening gehouden met de omvang van de persoonlijke verzorging die al onderdeel is van de clusterindicatie (zie tabel).  
+Voor de omvang van Persoonlijke Verzorging wordt tot 1 augustus 2014 overeenkomstig onderstaande tabel rekening gehouden met de omvang van de persoonlijke verzorging die al onderdeel is van de clusterindicatie.
 
 | Cluster  | Onderwijssoort  | PV in minuten per week  |
 |:---|:---|:---|
-| LG: Cluster III  (= Lichamelijk gehandicapte kinderen)  | Speciaal onderwijs  | 241  |
+| LG : Cluster III  (= Lichamelijk gehandicapte kinderen)  | Speciaal onderwijs  | 241  |
 | Voortgezet speciaal onderwijs  | 176  |
-| LZ: Cluster III  (= Langdurig zieke kinderen)  | Speciaal onderwijs  | 98  |
+| LZ : Cluster III  (= Langdurig zieke kinderen)  | Speciaal onderwijs  | 98  |
 | Voortgezet speciaal onderwijs  | 0  |
-| ZMLK: Cluster III  (= Zeer moeilijk lerende kinderen)  | Speciaal onderwijs  | 50  |
+| ZMLK: Cluster III  (=Zeer moeilijk lerende kinderen)  | Speciaal onderwijs  | 50  |
 | Voortgezet speciaal onderwijs  | 30  |
 | LG/ZMLK*: Cluster III  | Speciaal onderwijs  | 185  |
 | Voortgezet speciaal onderwijs  | 189  |
+
+Vanaf 1 augustus 2014 worden er in het kader van passend onderwijs geen clusterindicaties meer afgegeven. Daarmee vervalt bovenstaande tabel per 1 augustus 2014.Voor kinderen die vanaf 1 augustus 2014 voor het eerst AWBZ-persoonlijke verzorging aanvragen voor op school<sup> 4 Waarbij het niet uitmaakt of dit kind al dan niet nieuw instroomt in het onderwijs of al een AWBZ-indicatie had alleen voor persoonlijke verzorging thuis. </sup> wordt tot 1 januari 2015 overeenkomstig onderstaande tabel rekening gehouden met de omvang van de persoonlijke verzorging als onderdeel van passend onderwijs.
+
+| AWBZ grondslag  | Leeftijd schoolgaand kind  | PV in minuten per week  |
+|:---|:---|:---|
+| Lichamelijke beperking  | Tot 12 jaar  | 241  |
+| Vanaf 12 jaar  | 176  |
+| Somatische aandoening of beperking  | Tot 12 jaar  | 98  |
+| Vanaf 12 jaar  | 0  |
+| Verstandelijke beperking  | Tot 12 jaar  | 50  |
+| Vanaf 12 jaar  | 30  |
+| Verstandelijke en lichamelijke beperking  | Tot 12 jaar  | 185  |
+| Vanaf 12 jaar  | 189  |
+
+In geval een kind voor 1 augustus 2014 al een indicatie had voor AWBZ-zorg op school, en dit kind in de periode vanaf 1 augustus 2014 tot 1 januari 2015 een nieuw AWBZ-indicatiebesluit nodig heeft, verlengt het CIZ ook het voor onderwijs bestemde deel van hun oude AWBZ-indicatie voor persoonlijke verzorging, vastgesteld op basis van de Richtlijn.
 
 ### 4.3  
 
@@ -804,7 +873,7 @@ De gemiddelde tijden zijn basisminuten voor verzekerden die zich ‘normaal’ k
 
 ####Inleiding
 
-1. Deze bijlage is van toepassing op de indicatiestelling voor de functie Verpleging, zoals bedoeld in [artikel 5 van het Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) (Bza).  
+1. Deze bijlage is van toepassing op de indicatiestelling voor de functie Verpleging, zoals bedoeld in artikel 5 van het Besluit zorgaanspraken (Bza).  
 
 2. Deze bijlage kan worden aangehaald als ‘bijlage Verpleging’.  
 
@@ -812,7 +881,7 @@ De gemiddelde tijden zijn basisminuten voor verzekerden die zich ‘normaal’ k
 
 ####Relevante wet- en regelgeving
 
-1. [Artikel 5 Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md):  
+1. Artikel 5 Besluit zorgaanspraken:  
 
 2. ‘Verpleging omvat verpleging in verband met een somatische of psychogeriatrische aandoening of beperking of een lichamelijke handicap, gericht op herstel of voorkoming van verergering van de aandoening, beperking of handicap.’   
 
@@ -828,9 +897,9 @@ De functie Verpleging is gericht op herstel of voorkoming van verergering van ee
 
 1. het uitvoeren van directe handelingen die tot de functie Verpleging horen, die in opdracht van een arts uitgevoerd worden;  
 
-2. het aanleren van ([AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)) verpleegkundige handelingen, als onderdeel van een aanspraak op de functie Verpleging en het begeleiden bij de juiste uitvoering van deze verpleegkundige handelingen wanneer de verzekerde (of de gebruikelijke zorger of mantelzorger) deze zorg zelf uitvoert.  
+2. het aanleren van (AWBZ) verpleegkundige handelingen, als onderdeel van een aanspraak op de functie Verpleging en het begeleiden bij de juiste uitvoering van deze verpleegkundige handelingen wanneer de verzekerde (of de gebruikelijke zorger of mantelzorger) deze zorg zelf uitvoert.  
 
-3. Het begeleiden van een verzekerde (of de gebruikelijke zorger) bij het zelf juist uitvoeren van een aangeleerde ([AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)) verpleegkundige handeling om de kwaliteit te behouden en borgen. Daarbij kan het gaan om het ondersteunen bij of het overnemen van handelingen, het stimuleren om de handelingen zelf te doen of het aanleren van de handelingen.   
+3. Het begeleiden van een verzekerde (of de gebruikelijke zorger) bij het zelf juist uitvoeren van een aangeleerde (AWBZ) verpleegkundige handeling om de kwaliteit te behouden en borgen. Daarbij kan het gaan om het ondersteunen bij of het overnemen van handelingen, het stimuleren om de handelingen zelf te doen of het aanleren van de handelingen.   
 
 4. Advies, Instructie Voorlichting (hiervoor is geen indicatie vereist). Advies, instructie en voorlichting (AIV) is een onderdeel van de AWBZ-functie Verpleging. Voor deze vorm van verpleging is geen indicatie vereist, omdat het vaak gaat om goed geprotocolleerde zorg die in omvang zeer klein is. Voor het product AIV is een arts niet direct verantwoordelijk. AIV wordt ingezet ten behoeve van mensen met chronische ziekten waarin de verpleegkundige samen met de verzekerde nagaat hoe deze met de ziekte kan omgaan. Dit kan een eenmalige activiteit zijn, maar het kan ook zijn dat er een periodiek contact is (enkele keren per jaar) waarin, veelal op basis van een protocol, wordt nagegaan of aanpassing van attitude of gedrag kan leiden tot het beter hanteren van de ziektegevolgen. Ook motiveren van de verzekerde dit gedrag daadwerkelijk te tonen valt onder AIV. AIV is dus in het bijzonder gericht op secundaire en tertiaire preventie bij chronisch zieke mensen. Vaak is in een keten afstemming bereikt over de manier waarop de verschillende actoren in de keten hun taak uitoefenen en is dit in een protocol vastgelegd. Continuïteit van zorg binnen de keten, zoals van ziekenhuis naar thuis, is een belangrijk aandachtspunt. Dit laat onverlet dat de arts voor deze activiteiten geen verantwoor-delijkheid draagt maar dat er sprake is van een zelfstandige verantwoordelijkheid van de verpleegkundige. Veelal hebben de betrokken verpleegkundigen een specifieke aanvullende expertise ten aanzien van een bepaald ziektebeeld ontwikkeld.   
 
@@ -868,9 +937,9 @@ De verzekerde kan toegang verkrijgen tot de functie Verpleging als sprake is van
 
 ### 3.1  
 
-####Afbakening [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) en [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)
+####Afbakening Zvw en AWBZ
 
-De verpleging die noodzakelijk is in verband met medisch specialistische zorg, valt niet onder de aanspraken van de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) maar onder de [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). Deze zorg omvat ook verpleegkundige handelingen. Voor verpleging geldt dat bepalend is, wie verantwoordelijk is voor de verpleging: als dat de huisarts is, betreft het [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), als het een medisch specialist is, de [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). Alle zorg die onder de functie persoonlijke verzorging valt, komt ten laste van de AWBZ, ook als dat noodzakelijk is in verband met medisch specialistische zorg. Voor thuisbeademing en palliatief terminale zorg geldt dat de verpleging ten laste van de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) komt, ook als die noodzakelijk is i.v.m. medisch-specialistische zorg ([art 2.11 lid 2 Besluit Zorgverzekering](../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md)). 
+De verpleging die noodzakelijk is in verband met medisch specialistische zorg, valt niet onder de aanspraken van de AWBZ maar onder de Zvw. Deze zorg omvat ook verpleegkundige handelingen. Voor verpleging geldt dat bepalend is, wie verantwoordelijk is voor de verpleging: als dat de huisarts is, betreft het AWBZ, als het een medisch specialist is, de Zvw. Alle zorg die onder de functie persoonlijke verzorging valt, komt ten laste van de AWBZ, ook als dat noodzakelijk is in verband met medisch specialistische zorg. Voor thuisbeademing en palliatief terminale zorg geldt dat de verpleging ten laste van de AWBZ komt, ook als die noodzakelijk is i.v.m. medisch-specialistische zorg (art 2.11 lid 2 Besluit Zorgverzekering). 
 
 ### 4  
 
@@ -888,20 +957,22 @@ De omvang van de functie Verpleging wordt vastgesteld in klassen, met daarin een
 
 ### 4.2  
 
-####Afbakening Onderwijs en [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)
+####Afbakening Onderwijs en AWBZ
 
-Voor de omvang van VP wordt ook rekening gehouden met de verpleging die onderdeel is van de clusterindicatie (zie tabel).  
+Voor de omvang van VP wordt tot 1 augustus 2014 overeenkomstig onderstaande tabel rekening gehouden met de verpleging die onderdeel is van de clusterindicatie.  
 
 | Cluster  | Onderwijssoort  | VP minuten per week  |
 |:---|:---|:---|
-| LG: Cluster III  (= Lichamelijk gehandicapte kinderen)  | Speciaal onderwijs  | 30  |
+| LG : Cluster III  (= Lichamelijk gehandicapte kinderen)  | Speciaal onderwijs  | 30  |
 | Voortgezet speciaal onderwijs  | 30  |
-| LZ: Cluster III  (= Langdurig zieke kinderen)  | Speciaal onderwijs  | 80  |
+| LZ : Cluster III  (= Langdurig zieke kinderen)  | Speciaal onderwijs  | 80  |
 | Voortgezet speciaal onderwijs  | 30  |
-| ZMLK: Cluster III  (= Zeer moeilijk lerende kinderen)  | Speciaal onderwijs  | 0  |
+| ZMLK: Cluster III  (=Zeer moeilijk lerende kinderen)  | Speciaal onderwijs  | 0  |
 | Voortgezet speciaal onderwijs  | 0  |
 | LG/ZMLK*: Cluster III  | Speciaal onderwijs  | 30  |
 | Voortgezet speciaal onderwijs  | 30  |
+
+Vanaf 1 augustus 2014 worden er in het kader van passend onderwijs geen clusterindicaties meer afgegeven. Daarmee vervalt bovenstaande tabel per 1 augustus 2014. Voor kinderen die vanaf 1 augustus 2014 voor het eerst AWBZ-verpleging aanvragen voor op school<sup> 5 Waarbij het niet uitmaakt of dit kind al dan niet nieuw instroomt in het onderwijs of al een AWBZ-indicatie had alleen voor verpleging thuis. </sup> wordt tot 1 januari 2015 geen rekening gehouden met de omvang van verpleging als onderdeel van passend onderwijs. Het vanaf 1 augustus 2014 toepassen van bovenstaande tabel alleen op geleide van de AWBZ-grondslag is bij verpleging niet aan de orde omdat er dan aftrek van zorgminuten plaatsvindt voor verpleging, ook in situaties waar dat tot 1 augustus 2014 niet aan de orde was. In geval een kind voor 1 augustus 2014 al een indicatie had voor AWBZ-zorg op school, en dit kind in de periode vanaf 1 augustus 2014 tot 1 januari 2015 een nieuw AWBZ-indicatiebesluit nodig heeft, verlengt het CIZ ook het voor onderwijs bestemde deel van hun oude AWBZ-indicatie voor verpleging, vastgesteld op basis van de Richtlijn. 
 
 ### 4.3  
 
@@ -937,7 +1008,7 @@ De gemiddelde tijden zijn basisminuten voor verzekerden die zich ‘normaal’ k
 | 2.1 Gespecialiseerd verpleegkundig handelen  | • Inbrengen infuus*  • Epidurale/spinale pijnbestrijding*  • Intraveneuze medicatietoediening*  • Intraveneuze vocht- en voedingtoediening*  • Drainage maag/thorax*  • Fototherapie*  • Uitzuigen trachea, mond/keelholte*  • Verwisselen van de buitencanule*  • Verwisselen van de binnencanule*  • Bronchiaal toilet (sprayen NaCl)*  | 20  30  20  20  20  30  10  30  10  15  |
 | 4.1 Toezicht i.v.m. thuisbeademing  | Toezicht in geval van thuisbeademing *  | zie § 5  |
 
-<sup>1</sup>De nummering van de activiteiten sluit niet altijd aan. Dit vanwege het aansluiten van deze nummering met de nummering zoals deze binnen de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) brede Zorg Registriatie (AZR) is opgenomen.<sup>2</sup>Deze tijd is inclusief de indirecte zorg (3,5 minuut).<sup>3</sup>Dit is andere zorg dan AIV. De omschrijving van AIV is opgenomen onder punt 4 van hoofdstuk 2 ‘doelstelling functie’, 2.1 ‘algemeen’.
+<sup>1</sup>De nummering van de activiteiten sluit niet altijd aan. Dit vanwege het aansluiten van deze nummering met de nummering zoals deze binnen de AWBZ brede Zorg Registriatie (AZR) is opgenomen.<sup>2</sup>Deze tijd is inclusief de indirecte zorg (3,5 minuut).<sup>3</sup>Dit is andere zorg dan AIV. De omschrijving van AIV is opgenomen onder punt 4 van hoofdstuk 2 ‘doelstelling functie’, 2.1 ‘algemeen’.
 
 ### 5  
 
@@ -1049,7 +1120,7 @@ Bij de beoordeling of er een noodzaak is tot het indiceren van verpleegkundig to
 
 ####Inleiding
 
-1. Deze bijlage van de [beleidsregels indicatiestelling AWBZ](../../../../../../beleidsregel/beleidsregels/indicatiestelling/awbz/2013/BWBR0032530/README.md) is van toepassing op de indicatiestelling voor de functie Begeleiding, zoals bedoeld in [artikel 6 van het Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) (Bza) en voor Vervoer zoals bedoeld in [artikel 10 van het Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) (Bza).  
+1. Deze bijlage van de beleidsregels indicatiestelling AWBZ is van toepassing op de indicatiestelling voor de functie Begeleiding, zoals bedoeld in artikel 6 van het Besluit zorgaanspraken (Bza) en voor Vervoer zoals bedoeld in artikel 10 van het Besluit zorgaanspraken (Bza).  
 
 2. Deze bijlage kan worden aangehaald als ‘bijlage Begeleiding’.  
 
@@ -1057,7 +1128,7 @@ Bij de beoordeling of er een noodzaak is tot het indiceren van verpleegkundig to
 
 ####Relevante wet- en regelgeving
 
-[Artikel 6 Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md): 
+Artikel 6 Besluit zorgaanspraken: 
 
 1. ‘Begeleiding omvat activiteiten aan verzekerden met een somatische, psychogeriatrische of psychiatrische aandoening of beperking, of een verstandelijke, lichamelijke of zintuiglijke handicap die matige of zware beperkingen hebben op het terrein van 
 
@@ -1079,7 +1150,7 @@ a. het ondersteunen bij of oefenen met vaardigheden of handelingen,
 
 b. het ondersteunen bij of oefenen met het aanbrengen van structuur of het voeren van regie, of  
 
-c. het overnemen van toezicht op de verzekerde."     [Artikel 10 Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md): ‘Indien de verzekerde zorg als bedoeld in artikel 6 of 8 gedurende een dagdeel in een instelling ontvangt, omvat de zorg tevens vervoer naar en van de instelling indien daarvoor een medische noodzaak bestaat.’ 
+c. het overnemen van toezicht op de verzekerde."     Artikel 10 Besluit zorgaanspraken: ‘Indien de verzekerde zorg als bedoeld in artikel 6 of 8 gedurende een dagdeel in een instelling ontvangt, omvat de zorg tevens vervoer naar en van de instelling indien daarvoor een medische noodzaak bestaat.’ 
 
 ### 2  
 
@@ -1190,7 +1261,7 @@ De verzekerde kan toegang verkrijgen tot de functie Begeleiding als sprake is va
 
 13. Korte afstanden lopen.  
 
-14. Zwaardere voorwerpen tillen.    *Lichte beperkingen houden dan in:*  Verzekerde kan niet meer zelf fietsen of autorijden en kan zich buitenshuis niet meer zonder hulpmiddel (bv een rollator) voortbewegen. Met het gebruik van hulpmiddelen kan er nog veel, maar niet alles. Daarnaast kan verzekerde geen zware voorwerpen tillen. Het optillen van lichte voorwerpen levert soms problemen op, maar met wat hulp en eenvoudige aanpassingen lukt dit nog wel. Verzekerde kan de genoemde beperkingen in voldoende mate compenseren door hulp uit de omgeving en zo nodig door de inzet van hulp bij het huishouden en/of voorzieningen uit de [Wmo](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).  *Matige beperkingen houden dan in:*  Het zelfstandig opstaan uit een stoel en gaan zitten levert soms problemen op. Fijne handbewegingen worden minder vanzelfsprekend maar ook de grove hand- en armbewegingen beginnen problemen te geven. Verzekerde kan zich, ook met behulp van een rollator of rolstoel, moeilijker zelfstandig verplaatsen. Openbaar vervoer is eigenlijk ontoegankelijk voor verzekerde geworden, maar vanuit eigen middelen of de [Wmo](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md) zijn hiervoor alternatieven mogelijk.  *Zware beperkingen houden dan in:*  Bij het opstaan uit een stoel, het gaan zitten en het in- en uit bed komen moet verzekerde volledig worden geholpen. Binnenshuis is verzekerde voor zijn verplaatsingen zowel naar een andere verdieping of gelijkvloers volledig afhankelijk van hulpmiddelen. Voor het oppakken of vasthouden van lichte voorwerpen is hulp nodig. Ondanks het gebruik van hulpmiddelen kan verzekerde de beperkingen onvoldoende compenseren in het dagelijks leven. Bij* gedragsproblemen* gaat het om de volgende aspecten: 
+14. Zwaardere voorwerpen tillen.    *Lichte beperkingen houden dan in:*  Verzekerde kan niet meer zelf fietsen of autorijden en kan zich buitenshuis niet meer zonder hulpmiddel (bv een rollator) voortbewegen. Met het gebruik van hulpmiddelen kan er nog veel, maar niet alles. Daarnaast kan verzekerde geen zware voorwerpen tillen. Het optillen van lichte voorwerpen levert soms problemen op, maar met wat hulp en eenvoudige aanpassingen lukt dit nog wel. Verzekerde kan de genoemde beperkingen in voldoende mate compenseren door hulp uit de omgeving en zo nodig door de inzet van hulp bij het huishouden en/of voorzieningen uit de Wmo.  *Matige beperkingen houden dan in:*  Het zelfstandig opstaan uit een stoel en gaan zitten levert soms problemen op. Fijne handbewegingen worden minder vanzelfsprekend maar ook de grove hand- en armbewegingen beginnen problemen te geven. Verzekerde kan zich, ook met behulp van een rollator of rolstoel, moeilijker zelfstandig verplaatsen. Openbaar vervoer is eigenlijk ontoegankelijk voor verzekerde geworden, maar vanuit eigen middelen of de Wmo zijn hiervoor alternatieven mogelijk.  *Zware beperkingen houden dan in:*  Bij het opstaan uit een stoel, het gaan zitten en het in- en uit bed komen moet verzekerde volledig worden geholpen. Binnenshuis is verzekerde voor zijn verplaatsingen zowel naar een andere verdieping of gelijkvloers volledig afhankelijk van hulpmiddelen. Voor het oppakken of vasthouden van lichte voorwerpen is hulp nodig. Ondanks het gebruik van hulpmiddelen kan verzekerde de beperkingen onvoldoende compenseren in het dagelijks leven. Bij* gedragsproblemen* gaat het om de volgende aspecten: 
 
 1. Destructief gedrag (gericht op zichzelf en/of de ander, zowel letterlijk als figuurlijk).  
 
@@ -1232,7 +1303,7 @@ In geval van het *oefenen* (zie § 2.5 het schema, bij punt 4) dient bovendien t
 
 ### 3.1  
 
-####Afbakening Onderwijs en [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)
+####Afbakening Onderwijs en AWBZ
 
 Als een kind een grondslag heeft voor AWBZ-zorg, kan het binnen het onderwijs in aanmerking komen voor de functie begeleiding indien er sprake is van matige of zware beperkingen op het terrein van 
 
@@ -1244,15 +1315,15 @@ c. het psychisch functioneren,
 
 d. het geheugen of de oriëntatie, of  
 
-e. die matig of zwaar probleemgedrag vertoont.   In algemene zin geldt daarbij het volgende. Als een kind, vanwege een aandoening, stoornis en beperkingen, gedrag heeft dat het *leren* bemoeilijkt, valt de daarbij behorende begeleiding onder het onderwijs. Een concentratieprobleem of wegloopgedrag van een kind leidt op zich dus niet tot een indicatie voor de functie Begeleiding individueel tijdens onderwijs. Als het gedrag de omgang met andere leerlingen bemoeilijkt kan Begeleiding individueel in de vorm van toezicht zijn aangewezen. Te denken valt hierbij aan begeleiding bij ‘vrije’ of praktijklessen als schoolzwemmen of schoolgym, bij de omgang met andere kinderen en/of bij spel. Een school voor (voortgezet) speciaal onderwijs voorziet in begeleiding van leerlingen tijdens het onderwijs. In relatie tot de functie Begeleiding betreft het de activiteiten (1) ondersteunen en aanbrengen van structuur c.q. het voeren van regie en (2) ondersteuning bij praktische vaardigheden en handelingen ten behoeve van zelfredzaamheid en (4) oefenen met het aanbrengen van structuur, c.q. het voeren van regie en/of het uitvoeren van handeling die de zelfredzaamheid tot doel hebben. Er kan, ten laste van de AWBZ-functie Begeleiding, wel Begeleiding gericht op (3) toezicht aangewezen zijn voor de tijd dat het kind deelneemt aan onderwijs. De omvang van Begeleiding, gericht op toezicht tijdens het onderwijs, is afhankelijk van de mate van de gedragsproblemen die de omgang met andere kinderen bemoeilijkt. De omvang per week is maximaal klasse 2. In geval van zeer ernstige gedragsproblemen (zie definitie zeer ernstige gedragsproblemen onder paragraaf 4.1 ‘omvang’) kan de totale omvang van de functie Begeleiding met één klasse worden verhoogd (zie in paragraaf 4.1 de tabel) 
+e. die matig of zwaar probleemgedrag vertoont.   In algemene zin geldt daarbij het volgende. Als een kind, vanwege een aandoening, stoornis en beperkingen, gedrag heeft dat het *leren* bemoeilijkt, valt de daarbij behorende begeleiding onder het onderwijs. Een concentratieprobleem of wegloopgedrag van een kind leidt op zich dus niet tot een indicatie voor de functie Begeleiding individueel tijdens onderwijs. Als het gedrag de omgang met andere leerlingen bemoeilijkt kan Begeleiding individueel in de vorm van toezicht zijn aangewezen. Te denken valt hierbij aan begeleiding bij ‘vrije’ of praktijklessen als schoolzwemmen of schoolgym, bij de omgang met andere kinderen en/of bij spel. Een school voorziet in het kader van passend onderwijs in begeleiding van leerlingen tijdens het onderwijs. In relatie tot de functie Begeleiding betreft het de activiteiten (1) ondersteunen en aanbrengen van structuur c.q. het voeren van regie en (2) ondersteuning bij praktische vaardigheden en handelingen ten behoeve van zelfredzaamheid en (4) oefenen met het aanbrengen van structuur, c.q. het voeren van regie en/of het uitvoeren van handeling die de zelfredzaamheid tot doel hebben. Er kan, ten laste van de AWBZ-functie Begeleiding, wel Begeleiding gericht op (3) toezicht aangewezen zijn voor de tijd dat het kind deelneemt aan onderwijs. De omvang van Begeleiding, gericht op toezicht tijdens het onderwijs, is afhankelijk van de mate van de gedragsproblemen die de omgang met andere kinderen bemoeilijkt. De omvang per week is maximaal klasse 2. In geval van zeer ernstige gedragsproblemen (zie definitie zeer ernstige gedragsproblemen onder paragraaf 4.1 ‘omvang’) kan de totale omvang van de functie Begeleiding met één klasse worden verhoogd (zie in paragraaf 4.1 de tabel)
 
 ####Overblijven
 
-Er is op scholen voor basisonderwijs tijdens het overblijven geen aanspraak op de functie Begeleiding omdat de opvang van kinderen tussen de middag als een vorm van kinderopvang wordt beschouwd. De afwezigheid van ouders door werk of studie kan niet leiden tot een aanspraak op de functie Begeleiding in de middagpauzes (zie bijlage 3 Gebruikelijke Zorg). Indien een ouder van een kind met een indicatie voor (voortgezet) speciaal onderwijs kiest voor regulier onderwijs, is de ouder verantwoordelijk voor passende opvang tijdens de middagpauze. Voor deze kinderen, die met een Rugzak naar het regulier onderwijs gaan, geldt dat zij door het CIZ als leerlingen van het speciaal onderwijs worden beoordeeld. Het (voortgezet) speciaal onderwijs biedt verplicht een continue rooster en daardoor is voor deze kinderen geen AWBZ-aanspraak op Begeleiding mogelijk tijdens de middagpauze. 
+Werkwijze tot 1 augustus 2014: Er is op scholen voor basisonderwijs tijdens het overblijven geen aanspraak op de functie Begeleiding omdat de opvang van kinderen tussen de middag als een vorm van kinderopvang wordt beschouwd. De afwezigheid van ouders door werk of studie kan niet leiden tot een aanspraak op de functie Begeleiding in de middagpauzes (zie bijlage 3 Gebruikelijke Zorg). Indien een ouder van een kind met een indicatie voor (voortgezet) speciaal onderwijs kiest voor regulier onderwijs, is de ouder verantwoordelijk voor passende opvang tijdens de middagpauze. Voor deze kinderen, die met een Rugzak naar het regulier onderwijs gaan, geldt dat zij door het CIZ als leerlingen van het speciaal onderwijs worden beoordeeld. Het (voortgezet) speciaal onderwijs biedt verplicht een continue rooster en daardoor is voor deze kinderen geen AWBZ-aanspraak op Begeleiding mogelijk tijdens de middagpauze. Werkwijze vanaf 1 augustus 2014: Vanaf 1 augustus 2014 tot 1 januari 2015 geldt dat er geen AWBZ-aanspraak op Begeleiding mogelijk is tijdens de middagpauze voor leerplichtige kinderen. 
 
 ####Buitenschoolse opvang
 
-Met ingang van 1 augustus 2007 zijn basisscholen verantwoordelijk voor het organiseren van buitenschoolse opvang. Scholen voor speciaal onderwijs hebben niet de verplichting om buiten-schoolse opvang te organiseren. Voor de buitenschoolse opvang van leerlingen van scholen voor speciaal onderwijs is een AWBZ-indicatie voor de functie Begeleiding groep mogelijk, voor zover Begeleiding groep een ander doel dient dan kinderopvang. 
+Met ingang van 1 augustus 2007 zijn basisscholen verantwoordelijk voor het organiseren van buitenschoolse opvang. Scholen voor speciaal onderwijs hebben niet de verplichting om buitenschoolse opvang te organiseren. Voor de buitenschoolse opvang van leerlingen van scholen voor speciaal onderwijs is een AWBZ-indicatie voor de functie Begeleiding-groep mogelijk, voor zover Begeleiding-groep een ander doel dient dan kinderopvang. Vanaf 1 augustus 2014 tot 1 januari 2015 is voor leerlingen in het basisonderwijs alleen een AWBZ-indicatie voor Begeleiding-groep mogelijk voor zover Begeleiding-groep een ander doel dient dan kinderopvang. 
 
 ### 4  
 
@@ -1315,7 +1386,7 @@ Wanneer Kortdurend Verblijf, Begeleiding groep, Behandeling Groep en/of Verplegi
 
 ####Geldigheidsduur
 
-Voor het vaststellen van de geldigheidsduur van de indicatie voor Begeleiding gelden de algemene criteria (zie de bijlage Algemeen paragraaf 2.5). Daarnaast geldt een maximum van 1 jaar in geval van ‘oefenen’. 
+Voor het vaststellen van de geldigheidsduur van de indicatie voor Begeleiding gelden de algemene criteria (zie de bijlage Algemeen paragraaf 2.5). 
 
 ### Bijlage  7  
 
@@ -1325,7 +1396,7 @@ Voor het vaststellen van de geldigheidsduur van de indicatie voor Begeleiding ge
 
 ####Inleiding
 
-1. Deze bijlage van de [beleidsregels indicatiestelling AWBZ](../../../../../../beleidsregel/beleidsregels/indicatiestelling/awbz/2013/BWBR0032530/README.md) is van toepassing op de indicatiestelling voor de functie Behandeling, zoals bedoeld in [artikel 8 van het Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) (Bza) en voor Vervoer zoals bedoeld in [artikel 10 van het Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) (Bza).  
+1. Deze bijlage van de beleidsregels indicatiestelling AWBZ is van toepassing op de indicatiestelling voor de functie Behandeling, zoals bedoeld in artikel 8 van het Besluit zorgaanspraken (Bza) en voor Vervoer zoals bedoeld in artikel 10 van het Besluit zorgaanspraken (Bza).  
 
 2. Deze bijlage kan worden aangehaald als ‘bijlage Behandeling’.  
 
@@ -1333,11 +1404,11 @@ Voor het vaststellen van de geldigheidsduur van de indicatie voor Begeleiding ge
 
 ####Relevante wet- en regelgeving
 
-1. [Artikel 8 Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md): ‘Behandeling omvat door een instelling te verlenen behandeling van specifiek medische, specifiek gedragswetenschappelijke of specifiek paramedische aard gericht op herstel of voorkoming van verergering van een somatische of psychogeriatrische aandoening of beperking of van een verstandelijke, lichamelijke of zintuiglijke handicap, waaronder voorkoming van verergering van gedragsproblemen in verband met een zodanige aandoening, beperking of handicap.’  
+1. Artikel 8 Besluit zorgaanspraken: ‘Behandeling omvat door een instelling te verlenen behandeling van specifiek medische, specifiek gedragswetenschappelijke of specifiek paramedische aard gericht op herstel of voorkoming van verergering van een somatische of psychogeriatrische aandoening of beperking of van een verstandelijke, lichamelijke of zintuiglijke handicap, waaronder voorkoming van verergering van gedragsproblemen in verband met een zodanige aandoening, beperking of handicap.’  
 
-2. [Artikel 13 lid 2 Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md): ‘In afwijking van het eerste lid, bestaat het voortgezet verblijf, indien er sprake is van behandeling van een psychiatrische aandoening, uit zorg als omschreven in artikel 9, eerste en tweede lid.’  
+2. Artikel 13 lid 2 Besluit zorgaanspraken: ‘In afwijking van het eerste lid, bestaat het voortgezet verblijf, indien er sprake is van behandeling van een psychiatrische aandoening, uit zorg als omschreven in artikel 9, eerste en tweede lid.’  
 
-3. [Artikel 10 Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md): ‘Indien een verzekerde zorg als bedoeld in artikel 6 of 8 gedurende een dagdeel in een instelling ontvangt, omvat de zorg tevens vervoer naar en van die instelling indien daarvoor een medische noodzaak bestaat’.   
+3. Artikel 10 Besluit zorgaanspraken: ‘Indien een verzekerde zorg als bedoeld in artikel 6 of 8 gedurende een dagdeel in een instelling ontvangt, omvat de zorg tevens vervoer naar en van die instelling indien daarvoor een medische noodzaak bestaat’.   
 
 ### 2  
 
@@ -1347,7 +1418,7 @@ Voor het vaststellen van de geldigheidsduur van de indicatie voor Begeleiding ge
 
 ####Algemeen
 
-Kenmerkend voor de AWBZ-functie Behandeling (in relatie tot de Zvw-behandeling) is dat het gaat om specifieke behandeling. Met ‘specifiek’ wordt gedoeld op de gerichtheid op specifieke doelgroepen in relatie tot de grondslagen waar het bij de AWBZ om gaat. Het gaat bij AWBZ-behandeling vooral om continue, systematische, langdurige en multidisciplinaire zorg (CSLM). Er bestaat complexe (multi-)problematiek waarbij specifieke deskundigheid op het niveau van een AWBZ-behandelaar noodzakelijk is zoals van een specialist ouderengeneeskunde, een arts verstandelijk gehandicapten, een gedragswetenschapper of paramedicus met specifieke kennis. Behandeling is gericht op herstel of het voorkomen van verergering van gevolgen/complicaties van de aandoening of het ontstaan van een met de aandoening gerelateerde stoornis<sup> 22 Als op jonge leeftijd bij verzekerde een aandoening is gediagnosticeerd waarvan met aan zekerheid grenzende waarschijnlijkheid kan worden vastgesteld dat zich stoornissen en/of beperkingen in het functioneren zullen gaan ontwikkelen op basis van het beloop van de aandoening, kan behandeling gericht zijn op het voorkomen of het beperken van de ernst van deze te verwachten stoornissen en/of beperkingen. </sup> al dan niet door het aanleren van vaardigheden/gedrag. De problematiek is dermate complex dat meestal substantiële en duurzame coördinatie, regie en supervisie van een multidisciplinair AWBZ-team noodzakelijk zijn. Er is dan op gestructureerde wijze afstemming nodig over hetgeen de verschillende disciplines doen. Er kan ook sprake zijn van monodisciplinaire behandeling. De behandeling moet doelmatig zijn ([artikel 2 lid 3 Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md)). Behandeling die onvoldoende bewezen effectief is, is geen doelmatige zorg. Op grond van [artikel 2 lid 1 Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) is behandeling vanuit het tweede compartiment (de [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md)) voorliggend op het inzetten van Behandeling vanuit het eerste compartiment ([AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)). Behandeling, hetzij vanuit het tweede compartiment (Zvw), hetzij vanuit het eerste compartiment (AWBZ), is voorliggend op het inzetten van andere zorg. Het verbeteren van een aandoening, stoornis of beperking bevordert het optimaal functioneren van de verzekerde. Dit geniet de voorkeur vanuit de kwaliteit van de zorg, en kan er ook toe leiden dat de vraag naar andere zorg afneemt. Het gaat bij AWBZ-behandeling om: 
+Kenmerkend voor de AWBZ-functie Behandeling (in relatie tot de Zvw-behandeling) is dat het gaat om specifieke behandeling. Met ‘specifiek’ wordt gedoeld op de gerichtheid op specifieke doelgroepen in relatie tot de grondslagen waar het bij de AWBZ om gaat. Het gaat bij AWBZ-behandeling vooral om continue, systematische, langdurige en multidisciplinaire zorg (CSLM). Er bestaat complexe (multi-)problematiek waarbij specifieke deskundigheid op het niveau van een AWBZ-behandelaar noodzakelijk is zoals van een specialist ouderengeneeskunde, een arts verstandelijk gehandicapten, een gedragswetenschapper of paramedicus met specifieke kennis. Behandeling is gericht op herstel of het voorkomen van verergering van gevolgen/complicaties van de aandoening of het ontstaan van een met de aandoening gerelateerde stoornis<sup> 22 Als op jonge leeftijd bij verzekerde een aandoening is gediagnosticeerd waarvan met aan zekerheid grenzende waarschijnlijkheid kan worden vastgesteld dat zich stoornissen en/of beperkingen in het functioneren zullen gaan ontwikkelen op basis van het beloop van de aandoening, kan behandeling gericht zijn op het voorkomen of het beperken van de ernst van deze te verwachten stoornissen en/of beperkingen. </sup> al dan niet door het aanleren van vaardigheden/gedrag. De problematiek is dermate complex dat meestal substantiële en duurzame coördinatie, regie en supervisie van een multidisciplinair AWBZ-team noodzakelijk zijn. Er is dan op gestructureerde wijze afstemming nodig over hetgeen de verschillende disciplines doen. Er kan ook sprake zijn van monodisciplinaire behandeling. De behandeling moet doelmatig zijn (artikel 2 lid 3 Bza). Behandeling die onvoldoende bewezen effectief is, is geen doelmatige zorg. Op grond van artikel 2 lid 1 Bza is behandeling vanuit het tweede compartiment (de Zvw) voorliggend op het inzetten van Behandeling vanuit het eerste compartiment (AWBZ). Behandeling, hetzij vanuit het tweede compartiment (Zvw), hetzij vanuit het eerste compartiment (AWBZ), is voorliggend op het inzetten van andere zorg. Het verbeteren van een aandoening, stoornis of beperking bevordert het optimaal functioneren van de verzekerde. Dit geniet de voorkeur vanuit de kwaliteit van de zorg, en kan er ook toe leiden dat de vraag naar andere zorg afneemt. Het gaat bij AWBZ-behandeling om: 
 
 * continue, systematische, langdurige en multidisciplinaire zorg (CSLM-zorg)  
 
@@ -1357,13 +1428,13 @@ Kenmerkend voor de AWBZ-functie Behandeling (in relatie tot de Zvw-behandeling) 
 
 * consultatie  
 
-* medebehandeling   AWBZ-Behandeling kan worden geïndiceerd in de vorm van individuele Behandeling of in de vorm van Behandeling in groepsverband. Als er sprake is van Behandeling gepaard gaande met Verblijf in dezelfde instelling heeft verzekerde ook aanspraak op de aanvullende voorzieningen, zoals geformuleerd in [artikel 15 Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md). Als er sprake is van Behandeling van verzekerden met een zintuiglijke handicap valt dit buiten de indicatiestelling door het CIZ. Als er sprake is van het consulteren, door een huisarts of medisch specialist, van een aan de instelling verbonden specialist ouderengeneeskunde of een arts verstandelijk gehandicapten ten behoeve van een niet in de instelling verblijvende verzekerde valt dit buiten de indicatiestelling door het CIZ. 
+* medebehandeling   AWBZ-Behandeling kan worden geïndiceerd in de vorm van individuele Behandeling of in de vorm van Behandeling in groepsverband. Als er sprake is van Behandeling gepaard gaande met Verblijf in dezelfde instelling heeft verzekerde ook aanspraak op de aanvullende voorzieningen, zoals geformuleerd in artikel 15 Bza. Als er sprake is van Behandeling van verzekerden met een zintuiglijke handicap valt dit buiten de indicatiestelling door het CIZ. Als er sprake is van het consulteren, door een huisarts of medisch specialist, van een aan de instelling verbonden specialist ouderengeneeskunde of een arts verstandelijk gehandicapten ten behoeve van een niet in de instelling verblijvende verzekerde valt dit buiten de indicatiestelling door het CIZ. 
 
 ### 2.2  
 
 ####Continue, systematische, langdurige en multidisciplinaire zorg (CSLM)
 
-Bij AWBZ-behandeling gaat het vooral om CSLM-zorg, meestal ook in combinatie met andere functies. Er bestaat complexe (multi-)problematiek waarbij specifieke deskundigheid zoals van een specialist ouderengeneeskunde, een arts verstandelijk gehandicapten, een gedragswetenschapper of paramedicus met specifieke kennis noodzakelijk is. Het doel is meestal niet herstel, maar het voorkomen van gevolgen/complicaties van de aandoening of het ontstaan van een met de aandoening gerelateerde stoornis. De problematiek is zo complex dat substantiële en duurzame coördinatie, regie en supervisie van een multidisciplinair zorgteam noodzakelijk zijn. Er is op gestructureerde wijze afstemming nodig over wat de verschillende zorgdisciplines doen. De cumulatieve criteria voor CSLM-behandeling in het kader van de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) zijn: 
+Bij AWBZ-behandeling gaat het vooral om CSLM-zorg, meestal ook in combinatie met andere functies. Er bestaat complexe (multi-)problematiek waarbij specifieke deskundigheid zoals van een specialist ouderengeneeskunde, een arts verstandelijk gehandicapten, een gedragswetenschapper of paramedicus met specifieke kennis noodzakelijk is. Het doel is meestal niet herstel, maar het voorkomen van gevolgen/complicaties van de aandoening of het ontstaan van een met de aandoening gerelateerde stoornis. De problematiek is zo complex dat substantiële en duurzame coördinatie, regie en supervisie van een multidisciplinair zorgteam noodzakelijk zijn. Er is op gestructureerde wijze afstemming nodig over wat de verschillende zorgdisciplines doen. De cumulatieve criteria voor CSLM-behandeling in het kader van de AWBZ zijn: 
 
 a. het moet gericht zijn op het voorkomen van gevolgen/complicaties van de aandoening of het ontstaan van een met de aandoening gerelateerde stoornis of het handhaven van aanwezige mogelijkheden;  
 
@@ -1381,7 +1452,7 @@ f. naar aard en inhoud mag de beoogde behandeling niet onder de Zvw-aanspraken (
 
 ####Behandeling gericht op herstel en/of het aanleren van vaardigheden of gedrag
 
-Tot deze vorm van behandeling in het kader van de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) wordt de behandeling gerekend die gericht is op het aanleren van nieuwe vaardigheden of gedrag, als dit een programmatische aanpak vereist waarvoor specifieke deskundigheid nodig is, namelijk die van een AWBZ-behandelaar. Door het aanleren van nieuwe vaardigheden of gedrag kan de verzekerde in staat zijn om (toekomstige) verergering van zijn beperkingen te voorkomen. De nieuw aan te leren vaardigheden richten zich op het terugdringen van stoornissen en beperkingen, of op het voorkomen of beperken van de ernst van stoornissen en/of beperkingen, die op grond van de aandoening van de verzekerde met aan zekerheid grenzende waarschijnlijkheid te verwachten zijn (zoals bijvoorbeeld Early Intervention bij het syndroom van Down). De cumulatieve criteria voor deze behandeling in het kader van de [AWBZ](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) zijn: 
+Tot deze vorm van behandeling in het kader van de AWBZ wordt de behandeling gerekend die gericht is op het aanleren van nieuwe vaardigheden of gedrag, als dit een programmatische aanpak vereist waarvoor specifieke deskundigheid nodig is, namelijk die van een AWBZ-behandelaar. Door het aanleren van nieuwe vaardigheden of gedrag kan de verzekerde in staat zijn om (toekomstige) verergering van zijn beperkingen te voorkomen. De nieuw aan te leren vaardigheden richten zich op het terugdringen van stoornissen en beperkingen, of op het voorkomen of beperken van de ernst van stoornissen en/of beperkingen, die op grond van de aandoening van de verzekerde met aan zekerheid grenzende waarschijnlijkheid te verwachten zijn (zoals bijvoorbeeld Early Intervention bij het syndroom van Down). De cumulatieve criteria voor deze behandeling in het kader van de AWBZ zijn: 
 
 a. het moet gericht zijn op herstel of het aanleren van vaardigheden of gedrag;  
 
@@ -1401,7 +1472,7 @@ g. naar aard en inhoud mag de beoogde behandeling niet onder de Zvw-aanspraken (
 
 ####Aanvullende functionele diagnostiek
 
-AWBZ-behandeling kan aangewezen zijn ten behoeve van aanvullende functionele diagnostiek. Deze onderscheidt zich van klinische basisdiagnostiek. Basisdiagnostiek hoort thuis in het tweede compartiment, de [Zvw](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). De basisdiagnostiek is gericht op het stellen van de medische diagnose, inclusief het stadium van de ziekte, de stoornissen en een indruk van de beperkingen, en inclusief sociale context. De uitkomst ervan is de diagnose en een (globale) indruk van het functioneren van de patiënt. Na de basisdiagnostiek kan aanvullende functionele diagnostiek nodig zijn, in het bijzonder bij complexe problematiek. Deze aanvullende functionele diagnostiek is vooral gericht op het beperkingenniveau van de verzekerde, het onderzoeken welke behandeldoelen haalbaar zijn en het onderzoeken van behandelmogelijkheden (verbeteren van het functioneren van de verzekerde voor zover mogelijk, voorkomen van verergering van beperkingen en het zo lang mogelijk handhaven van zelfstandigheid). Op basis hiervan kan vervolgens een behandelplan worden op- of bijgesteld. De aanvullende functionele diagnostiek is specifiek gericht op de AWBZ grondslag en kan bij alle grondslagen aan de orde zijn. Daarbij is er vaak sprake van co-morbiditeit, die van invloed is op de behandeling. 
+AWBZ-behandeling kan aangewezen zijn ten behoeve van aanvullende functionele diagnostiek. Deze onderscheidt zich van klinische basisdiagnostiek. Basisdiagnostiek hoort thuis in het tweede compartiment, de Zvw. De basisdiagnostiek is gericht op het stellen van de medische diagnose, inclusief het stadium van de ziekte, de stoornissen en een indruk van de beperkingen, en inclusief sociale context. De uitkomst ervan is de diagnose en een (globale) indruk van het functioneren van de patiënt. Na de basisdiagnostiek kan aanvullende functionele diagnostiek nodig zijn, in het bijzonder bij complexe problematiek. Deze aanvullende functionele diagnostiek is vooral gericht op het beperkingenniveau van de verzekerde, het onderzoeken welke behandeldoelen haalbaar zijn en het onderzoeken van behandelmogelijkheden (verbeteren van het functioneren van de verzekerde voor zover mogelijk, voorkomen van verergering van beperkingen en het zo lang mogelijk handhaven van zelfstandigheid). Op basis hiervan kan vervolgens een behandelplan worden op- of bijgesteld. De aanvullende functionele diagnostiek is specifiek gericht op de AWBZ grondslag en kan bij alle grondslagen aan de orde zijn. Daarbij is er vaak sprake van co-morbiditeit, die van invloed is op de behandeling. 
 
 ### 2.5  
 
@@ -1443,7 +1514,7 @@ Het CIZ stelt op basis van informatie van de behandelaar vast of er een aanspraa
 
 ####Behandeling individueel
 
-Voor de behandelvorm individuele Behandeling stelt het CIZ niet de omvang vast. Als op basis van informatie van de behandelaar is vastgesteld dat het Behandeling in groepsverband betreft wordt voor Behandeling in groepsverband een omvang vastgesteld in klassen. Om de omvang te kunnen vaststellen wordt de informatie van de behandelaar beoordeeld. Hierbij wordt betrokken wat gebruikelijk en geaccepteerd is in de beroepsgroep. De omvang van de behandeling moet doelmatig zijn ([artikel 2 lid 3 Bza](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md)). Behandeling die onvoldoende bewezen effectief is, is geen doelmatige zorg. 
+Voor de behandelvorm individuele Behandeling stelt het CIZ niet de omvang vast. Als op basis van informatie van de behandelaar is vastgesteld dat het Behandeling in groepsverband betreft wordt voor Behandeling in groepsverband een omvang vastgesteld in klassen. Om de omvang te kunnen vaststellen wordt de informatie van de behandelaar beoordeeld. Hierbij wordt betrokken wat gebruikelijk en geaccepteerd is in de beroepsgroep. De omvang van de behandeling moet doelmatig zijn (artikel 2 lid 3 Bza). Behandeling die onvoldoende bewezen effectief is, is geen doelmatige zorg. 
 
 ####Behandeling in groepsverband
 
@@ -1477,7 +1548,7 @@ Voor het vaststellen van de geldigheidsduur van de indicatie voor Behandeling ge
 
 ####Inleiding
 
-1. Deze bijlage van de [beleidsregels indicatiestelling AWBZ](../../../../../../beleidsregel/beleidsregels/indicatiestelling/awbz/2013/BWBR0032530/README.md) is van toepassing op de indicatiestelling voor de functie Verblijf, zoals bedoeld in [artikel 9 van het Besluit zorgaanspraken](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md) en voor de aanspraak op voortgezet verblijf op psychiatrische grondslag zoals bedoeld in [artikel 13 lid 2 van het Besluit zorgaanspraken AWBZ](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md).  
+1. Deze bijlage van de beleidsregels indicatiestelling AWBZ is van toepassing op de indicatiestelling voor de functie Verblijf, zoals bedoeld in artikel 9 van het Besluit zorgaanspraken en voor de aanspraak op voortgezet verblijf op psychiatrische grondslag zoals bedoeld in artikel 13 lid 2 van het Besluit zorgaanspraken AWBZ.  
 
 2. Deze bijlage kan worden aangehaald als ‘bijlage Verblijf’.  
 
@@ -1485,25 +1556,25 @@ Voor het vaststellen van de geldigheidsduur van de indicatie voor Behandeling ge
 
 ####Relevante wet- en regelgeving
 
-1. [Artikel 9 Besluit zorgaanspraken AWBZ](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md): 
+1. Artikel 9 Besluit zorgaanspraken AWBZ: 
 
 1. ‘Verblijf omvat verblijf in een instelling met samenhangende zorg bestaande uit persoonlijke verzorging, verpleging, begeleiding of behandeling, voor een verzekerde met een somatische, psychogeriatrische of psychiatrische aandoening of beperking of een verstandelijke, lichamelijke of zintuiglijke handicap indien die verzekerde aangewezen is op een beschermende woonomgeving, een therapeutisch leefklimaat of permanent toezicht.  
 
 2. Op verblijf bestaat slechts aanspraak indien de verzekerde meer dan drie etmalen per week daarop is aangewezen.  
 
-3. De echtgenoot van een persoon met een somatische of psychogeriatrische aandoening of beperking die op grond van een indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) in een instelling verblijft, heeft aanspraak op verblijf in dezelfde instelling. Hij behoudt aanspraak op verblijf in die instelling na het overlijden van zijn echtgenoot dan wel na het vertrek van zijn echtgenoot naar een andere instelling.’    
+3. De echtgenoot van een persoon met een somatische of psychogeriatrische aandoening of beperking die op grond van een indicatiebesluit als bedoeld in het Zorgindicatiebesluit in een instelling verblijft, heeft aanspraak op verblijf in dezelfde instelling. Hij behoudt aanspraak op verblijf in die instelling na het overlijden van zijn echtgenoot dan wel na het vertrek van zijn echtgenoot naar een andere instelling.’    
 
-2. [Artikel 13 Besluit zorgaanspraken AWBZ](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md): 
+2. Artikel 13 Besluit zorgaanspraken AWBZ: 
 
-1. ‘Voortgezet verblijf omvat verblijf in een instelling gepaard gaande met medisch noodzakelijke geneeskundige zorg in aansluiting op verblijf als bedoeld in het [Besluit zorgverzekering](../../../../../../AMvB/besluit/zorgverzekering/BWBR0018492/README.md) voor zover dit verblijf een ononderbroken periode van 365 dagen te boven gaat, al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg.  
+1. ‘Voortgezet verblijf omvat verblijf in een instelling gepaard gaande met medisch noodzakelijke geneeskundige zorg in aansluiting op verblijf als bedoeld in het Besluit zorgverzekering voor zover dit verblijf een ononderbroken periode van 365 dagen te boven gaat, al dan niet gepaard gaande met verpleging, verzorging of paramedische zorg.  
 
 2. In afwijking van het eerste lid, bestaat het voortgezet verblijf, indien er sprake is van behandeling van een psychiatrische aandoening, uit zorg als omschreven in artikel 9, eerste en tweede lid.  
 
 3. Voor de berekening van de 365 dagen geldt een onderbreking niet langer dan dertig dagen niet als een onderbreking, doch deze dagen tellen voor de berekening van de 365 dagen evenmin mee. Indien de periode van 365 dagen is verstreken en binnen dertig dagen opnieuw verblijf nodig is, is er evenmin sprake van een onderbreking.’    
 
-3. [Artikel 2 vierde lid Besluit zorgaanspraken AWBZ](../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md): ‘Bij ministeriële regeling kan de aanspraak op de zorg, bedoeld in het eerste lid, nader worden geregeld en afhankelijk worden gesteld van daarbij te stellen voorwaarden.’  
+3. Artikel 2 vierde lid Besluit zorgaanspraken AWBZ: ‘Bij ministeriële regeling kan de aanspraak op de zorg, bedoeld in het eerste lid, nader worden geregeld en afhankelijk worden gesteld van daarbij te stellen voorwaarden.’  
 
-4. [Artikel 1a Regeling zorgaanspraken AWBZ](../../../../../../ministeriele-regeling/regeling/zorgaanspraken/awbz/BWBR0014855/README.md): ‘De verzekerde die is aangewezen op verblijf als bedoeld in artikel 9, eerste en tweede lid, van het Besluit of op voortgezet verblijf als bedoeld in artikel 13, tweede lid, van het Besluit heeft aanspraak op zorg die is opgenomen in het zorgzwaartepakket, behorend bij het cliëntprofiel waarin hij het best past.’   
+4. Artikel 1a Regeling zorgaanspraken AWBZ: ‘De verzekerde die is aangewezen op verblijf als bedoeld in artikel 9, eerste en tweede lid, van het Besluit of op voortgezet verblijf als bedoeld in artikel 13, tweede lid, van het Besluit heeft aanspraak op zorg die is opgenomen in het zorgzwaartepakket, behorend bij het cliëntprofiel waarin hij het best past.’   
 
 ### 2  
 
@@ -1599,7 +1670,7 @@ b. Een bevoegde behandelaar heeft de noodzaak (verbetering, stabilisatie of voor
 
 ####Verblijf met samenhangende zorg (zorgzwaartepakketten)
 
-In geval verzekerde op basis van zijn zorgbehoefte is aangewezen op Verblijf wordt de omvang van Verblijf met de daarbij behorende samenhangende zorg uitgedrukt in een zorgzwaartepakket. Een zorgzwaartepakket is naar aard, inhoud en omvang bij een cliëntprofiel passende samenhangende zorg als omschreven in de [Regeling zorgaanspraken AWBZ](../../../../../../ministeriele-regeling/regeling/zorgaanspraken/awbz/BWBR0014855/README.md). Op grond van [artikel 2, vierde lid, van het Besluit zorgaanspraken](../../../../../../ministeriele-regeling/regeling/zorgaanspraken/awbz/BWBR0014855/README.md), zijn ter invulling van de aanspraak op Verblijf, de zorgzwaartepakketten bij ministeriële regeling omschreven in de [Regeling zorgaanspraken AWBZ](../../../../../../ministeriele-regeling/regeling/zorgaanspraken/awbz/BWBR0014855/README.md). De verzekerde die is aangewezen op Verblijf heeft aanspraak op zorg die is opgenomen in het zorgzwaartepakket. Om te bepalen welk zorgzwaartepakket het best passend is gegeven de zorgbehoefte van verzekerde wordt bepaald welk cliëntprofiel het beste bij de zorgvrager past. Een cliëntprofiel is een profiel van zorgvragers met een vergelijkbare zorgbehoefte en beperkingen op dezelfde terreinen, bij wie de verzorgings-, verplegings-, begeleidings- of behandelingsdoelen naar aard en inhoud overeenkomen en die op Verblijf zijn aangewezen. De omschrijvingen van cliëntprofielen en zorgzwaartepakketten zijn opgenomen in [bijlage 2 bij de Regeling zorgaanspraken AWBZ](../../../../../../ministeriele-regeling/regeling/zorgaanspraken/awbz/BWBR0014855/README.md). 
+In geval verzekerde op basis van zijn zorgbehoefte is aangewezen op Verblijf wordt de omvang van Verblijf met de daarbij behorende samenhangende zorg uitgedrukt in een zorgzwaartepakket. Een zorgzwaartepakket is naar aard, inhoud en omvang bij een cliëntprofiel passende samenhangende zorg als omschreven in de Regeling zorgaanspraken AWBZ. Op grond van artikel 2, vierde lid, van het Besluit zorgaanspraken, zijn ter invulling van de aanspraak op Verblijf, de zorgzwaartepakketten bij ministeriële regeling omschreven in de Regeling zorgaanspraken AWBZ. De verzekerde die is aangewezen op Verblijf heeft aanspraak op zorg die is opgenomen in het zorgzwaartepakket. Om te bepalen welk zorgzwaartepakket het best passend is gegeven de zorgbehoefte van verzekerde wordt bepaald welk cliëntprofiel het beste bij de zorgvrager past. Een cliëntprofiel is een profiel van zorgvragers met een vergelijkbare zorgbehoefte en beperkingen op dezelfde terreinen, bij wie de verzorgings-, verplegings-, begeleidings- of behandelingsdoelen naar aard en inhoud overeenkomen en die op Verblijf zijn aangewezen. De omschrijvingen van cliëntprofielen en zorgzwaartepakketten zijn opgenomen in bijlage 2 bij de Regeling zorgaanspraken AWBZ. 
 
 ####Aantal etmalen per week
 
@@ -1625,7 +1696,7 @@ Voor het vaststellen van de geldigheidsduur van de indicatie voor Verblijf gelde
 
 ####Inleiding
 
-1. Deze bijlage van de [beleidsregels indicatiestelling AWBZ](../../../../../../beleidsregel/beleidsregels/indicatiestelling/awbz/2013/BWBR0032530/README.md) is van toepassing op de indicatiestelling voor Kortdurend Verblijf, zoals bedoeld in [artikel 9a van het Besluit zorgaanspraken AWBZ](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md).  
+1. Deze bijlage van de beleidsregels indicatiestelling AWBZ is van toepassing op de indicatiestelling voor Kortdurend Verblijf, zoals bedoeld in artikel 9a van het Besluit zorgaanspraken AWBZ.  
 
 2. Deze bijlage kan worden aangehaald als ‘bijlage Kortdurend Verblijf’.  
 
@@ -1633,7 +1704,7 @@ Voor het vaststellen van de geldigheidsduur van de indicatie voor Verblijf gelde
 
 ####Relevante wet- en regelgeving
 
-[Artikel 9a Besluit zorgaanspraken AWBZ](../../../../../../AMvB/besluit/zorgaanspraken/awbz/BWBR0014149/README.md): 
+Artikel 9a Besluit zorgaanspraken AWBZ: 
 
 1. Kortdurend verblijf omvat logeren in een instelling gedurende maximaal drie etmalen per week, gepaard gaande met persoonlijke verzorging, verpleging of begeleiding voor een verzekerde met een somatische, psychogeriatrische of psychiatrische aandoening of beperking, of een verstandelijke, lichamelijke of zintuiglijke handicap, indien de verzekerde aangewezen is op permanent toezicht.  
 

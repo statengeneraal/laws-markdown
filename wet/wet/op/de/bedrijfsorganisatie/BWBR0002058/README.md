@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten: 
 
-Alzo Wij in overweging genomen hebben, dat het wenselijk is ten aanzien van het bedrijfsleven toepassing te geven aan de [artikelen 80](../../../../../../wet/grondwet/BWBR0001840/README.md) en 152 tot en met 154 van de [Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md); 
+Alzo Wij in overweging genomen hebben, dat het wenselijk is ten aanzien van het bedrijfsleven toepassing te geven aan de artikelen 80 en 152 tot en met 154 van de Grondwet; 
 Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 ### Eerste  hoofdstuk  
 
@@ -260,7 +260,7 @@ De Raad dient desgevraagd Onze Ministers van bericht over alle aangelegenheden d
 
 ### Artikel  41  
 
-De Raad adviseert op schriftelijk verzoek van Onze Ministers of van een van beide Kamers der Staten-Generaal en kan Onze Ministers uit eigen beweging adviseren over de uitvoering van deze wet en andere aangelegenheden van sociale of economische aard. Indien Onze Ministers de Raad advies vragen, geven zij daarbij aan binnen welke termijn het advies wordt verwacht. [Artikel 20, tweede, vijfde en zesde lid](../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md), alsmede [artikel 23, van de Kaderwet adviescolleges](../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) is voor de toepassing van deze titel niet van toepassing. 
+De Raad adviseert op schriftelijk verzoek van Onze Ministers of van een van beide Kamers der Staten-Generaal en kan Onze Ministers uit eigen beweging adviseren over de uitvoering van deze wet en andere aangelegenheden van sociale of economische aard. Indien Onze Ministers de Raad advies vragen, geven zij daarbij aan binnen welke termijn het advies wordt verwacht. Artikel 20, tweede, vijfde en zesde lid, alsmede artikel 23, van de Kaderwet adviescolleges is voor de toepassing van deze titel niet van toepassing. 
 
 ### Artikel  42  
 
@@ -269,7 +269,7 @@ De Raad adviseert op schriftelijk verzoek van Onze Ministers of van een van beid
 
 ### Artikel  43  
 
-1.  In afwijking van de [Kaderwet adviescolleges](../../../../../../wet/kaderwet/adviescolleges/BWBR0008159/README.md) stelt de Raad, op verzoek van Onze betrokken Ministers, commissies ter behandeling van bepaalde onderwerpen in. De samenstelling van deze commissies, waarin ook personen buiten de Raad zitting kunnen hebben, geschiedt in overleg met Onze Ministers.    
+1.  In afwijking van de Kaderwet adviescolleges stelt de Raad, op verzoek van Onze betrokken Ministers, commissies ter behandeling van bepaalde onderwerpen in. De samenstelling van deze commissies, waarin ook personen buiten de Raad zitting kunnen hebben, geschiedt in overleg met Onze Ministers.    
 2.   De Raad legt desgevraagd bij zijn advies dat van een overeenkomstig het voorgaande lid ingestelde commissie over.    
 3.   Indien Onze betrokken Ministers het advies van een zodanige commissie hebben gevraagd, brengt zij dit rechtstreeks aan hen uit. Van het advies wordt kennis gegeven aan de Raad.    
 4.   De artikelen 9, 10 en 28 zijn ten aanzien van deze commissies van overeenkomstige toepassing.   
@@ -324,7 +324,7 @@ Het dagelijks bestuur beheert het vermogen en de inkomsten en uitgaven van de Ra
 
 1.  Het dagelijks bestuur doet aan de Raad rekening en verantwoording van het beheer over het afgelopen kalenderjaar, onder overlegging van de rekening der inkomsten en uitgaven.    
 2.  De jaarrekening wordt, met alle daarbij behorende bescheiden en met vermelding van hetgeen het dagelijks bestuur tot zijn verantwoording dienstig acht, aan de Raad overgelegd voor 1 april van het jaar volgend op het jaar, waarop zij betrekking heeft. Zij wordt ten kantore van het secretariaat voor een ieder ter lezing nedergelegd en, tegen betaling der kosten, algemeen verkrijgbaar gesteld. Van de nederlegging en verkrijgbaarstelling geschiedt openbare kennisgeving, welke ten minste twee weken voorafgaat aan de beraadslagingen, bedoeld in het vierde lid.   
-3.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de Raad aangewezen accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). De verklaring heeft mede betrekking op de rechtmatige verkrijging en besteding van de middelen.  
+3.  De jaarrekening gaat vergezeld van een verklaring omtrent de getrouwheid, afgegeven door een door de Raad aangewezen accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek. De verklaring heeft mede betrekking op de rechtmatige verkrijging en besteding van de middelen.  
 4.   De Raad onderzoekt de rekening en stelt het bedrag der inkomsten en uitgaven vast. De beraadslagingen en de stemming geschieden in het openbaar. De leden van het dagelijks bestuur kunnen bij de beraadslagingen tegenwoordig zijn, doch onthouden zich van medestemmen.    
 5.  Het besluit van de Raad tot vaststelling van de jaarrekening behoeft de goedkeuring van Onze Minister van Sociale Zaken en Werkgelegenheid.  
 
@@ -338,7 +338,7 @@ De Raad is verplicht aan Onze Minister van Sociale Zaken en Werkgelegenheid en d
 
 ### Artikel  54  
 
-1.  De middelen ter dekking van uitgaven van de Raad, voor zover die niet door andere inkomsten worden gedekt, komen ten laste van het Algemeen Werkloosheidsfonds, bedoeld in de [Wet financiering sociale verzekeringen](../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md).   
+1.  De middelen ter dekking van uitgaven van de Raad, voor zover die niet door andere inkomsten worden gedekt, komen ten laste van het Algemeen Werkloosheidsfonds, bedoeld in de Wet financiering sociale verzekeringen.   
 2.  De Raad stelt in de begroting het bedrag dat ten laste komt van het Algemeen Werkloosheidsfonds, vast.   
 3.  De Raad verstrekt voor 1 juli van het kalenderjaar, voorafgaande aan het jaar waar de begroting betrekking op heeft, een raming van de inkomsten en uitgaven van de Raad aan Onze Minister van Sociale Zaken en Werkgelegenheid.   
 4.  Bij regeling van Onze Minister van Sociale Zaken en Werkgelegenheid kunnen nadere regels worden gesteld voor dit artikel. 
@@ -429,7 +429,7 @@ e. op welke wijze wettelijke procedures en rechtsgedingen, waarbij de bestaande 
 f. de toerekening van besluiten, genomen door de bestaande bedrijfslichamen, aan het nieuwe bedrijfslichaam;  
 
 g. welke medebewindstaken van de bestaande bedrijfslichamen door het nieuwe bedrijfslichaam worden uitgeoefend.     
-2.  Indien een bedrijfslichaam wordt ingesteld of opgeheven en daarbij registerzaken overgaan, moet de overgang van die registerzaken onverwijld worden ingeschreven in de openbare registers, bedoeld in de [afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md). [Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek](../../../../../../wet/burgerlijk/wetboek/boek/3/BWBR0005291/README.md) is niet van toepassing.   
+2.  Indien een bedrijfslichaam wordt ingesteld of opgeheven en daarbij registerzaken overgaan, moet de overgang van die registerzaken onverwijld worden ingeschreven in de openbare registers, bedoeld in de afdeling 2 van titel 1 van Boek 3 van het Burgerlijk Wetboek. Artikel 24, eerste lid, van Boek 3 van het Burgerlijk Wetboek is niet van toepassing.   
 
 ### Artikel  71  
 
@@ -686,7 +686,7 @@ b. strafbare feiten, behoudens indien het betreft overtredingen van voorschrifte
 2.  Aanwijzing als strafbaar feit kan slechts plaatsvinden, indien dat nodig is voor de bescherming van de door de betrokken bepaling beschermde belangen. Verordeningen waarbij een aanwijzing als strafbaar feit plaatsvindt behoeven de goedkeuring van Onze Minister wie het aangaat, in voorkomend geval in overeenstemming met Onze andere betrokken Minister of Ministers.  
 3. Met het toezicht op de naleving van een verordening zijn belast de bij besluit van het bedrijfslichaam aangewezen personen. Dat besluit behoeft de goedkeuring van Onze Minister wie het aangaat, in voorkomend geval in overeenstemming met Onze andere betrokken Minister of Ministers.Onze Minister wie het aangaat, in voorkomend geval in overeenstemming met Onze andere betrokken Minister of Ministers, kan het bedrijfslichaam een aanwijzing geven omtrent het aanwijzen van toezichthouders en de wijze waarop het toezicht wordt uitgeoefend. 
 4. Met betrekking tot het tweede en derde lid is artikel 100, vierde lid, van overeenkomstige toepassing. 
-5.  Het recht om een tuchtrechtelijke maatregel te vorderen verjaart in twee jaren. De [artikelen 71, eerste lid](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), en [72, van het Wetboek van Strafrecht](../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) zijn van overeenkomstige toepassing. 
+5.  Het recht om een tuchtrechtelijke maatregel te vorderen verjaart in twee jaren. De artikelen 71, eerste lid, en 72, van het Wetboek van Strafrecht zijn van overeenkomstige toepassing. 
 
 ### Artikel  105  
 
@@ -847,7 +847,7 @@ b. het ontwerp van de verordening niet overeenkomstig artikel 100, eerste lid, i
 
 1.  De voorzitter van een bedrijfslichaam kan de aan het lichaam krachtens artikel 126, eerste en tweede lid, verschuldigde bedragen, verhoogd met de op de invordering vallende kosten, bij dwangbevel, invorderen.    
 2.   Geen invordering geschiedt dan nadat de schuldenaar schriftelijk is aangemaand om binnen een daarbij te stellen termijn van ten minste tien dagen alsnog aan zijn verplichting te voldoen. De aanmaning bevat de aanzegging, dat het verschuldigde bedrag, voor zover dit binnen de gestelde termijn niet wordt betaald, overeenkomstig het eerste lid van dit artikel zal worden ingevorderd.    
-3.   Het dwangbevel levert een executoriale titel op, die met toepassing van de voorschriften van het [Wetboek van Burgerlijke Rechtsvordering](../../../../../../wet/wetboek/van/burgerlijke/rechtsvordering/BWBR0001827/README.md) kan worden tenuitvoergelegd.    
+3.   Het dwangbevel levert een executoriale titel op, die met toepassing van de voorschriften van het Wetboek van Burgerlijke Rechtsvordering kan worden tenuitvoergelegd.    
 4.   Verzet door de debiteur tegen de tenuitvoerlegging van een dwangbevel wordt ingesteld door dagvaarding van het betrokken bedrijfslichaam voor de rechtbank van het arrondissement, binnen hetwelk zijn woonplaats is gelegen.    
 5.   Het verzet stuit de aanvang of de voortzetting van de tenuitvoerlegging niet, behoudens de bevoegdheid van de geëxecuteerde, die het verzet heeft gedaan, om hieromtrent een voorziening bij voorraad uit te lokken.    
 6.   Het verzet kan niet worden gegrond op de bewering, dat de heffing of de retributie ten onrechte is opgelegd onderscheidenlijk geheven, dat het bedrag van de heffing of retributie onjuist is bepaald, of dat het bericht, dat de heffing is opgelegd of de retributie is geheven, dan wel de aanmaning tot betaling van de heffing of van de retributie niet is ontvangen.   

@@ -3,7 +3,7 @@
 ##Beleidsregels van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 8 december 2008, nr. Z/VU-2897079, houdende vervanging van de bijlagen van de Beleidsregels indicatiestelling AWBZ
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 11 van het Zorgindicatiebesluit](../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md);
+Gelet op artikel 11 van het Zorgindicatiebesluit;
 Besluit:    
 
 ### Artikel  I  
@@ -12,7 +12,7 @@ Wijzigt de Beleidsregels indicatiestelling AWBZ.
 
 ### Artikel  II  
 
-De [beleidsregels indicatiestelling AWBZ](../../../../../../../../beleidsregel/beleidsregels/indicatiestelling/awbz/BWBR0021503/README.md) zoals die luidden onmiddellijk voorafgaande aan de inwerkingtreding van deze beleidsregels blijven van toepassing op verzekerden die uiterlijk op dat tijdstip een indicatiebesluit als bedoeld in het [Zorgindicatiebesluit](../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md) hadden aangevraagd. 
+De beleidsregels indicatiestelling AWBZ zoals die luidden onmiddellijk voorafgaande aan de inwerkingtreding van deze beleidsregels blijven van toepassing op verzekerden die uiterlijk op dat tijdstip een indicatiebesluit als bedoeld in het Zorgindicatiebesluit hadden aangevraagd. 
 
 ### Artikel  III  
 

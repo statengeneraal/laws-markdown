@@ -22,7 +22,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:  Onze Minis
 
 ### Artikel  2  
 
-1.  Er is een nationaal verkeers- en vervoerplan, dat richting geeft aan de te nemen beslissingen inzake verkeer en vervoer. Voor zover een nationaal verkeers- en vervoersplan het karakter heeft van een structuurvisie, wordt dit in het plan bepaald en is [artikel 2.3 van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) hierop van toepassing.   
+1.  Er is een nationaal verkeers- en vervoerplan, dat richting geeft aan de te nemen beslissingen inzake verkeer en vervoer. Voor zover een nationaal verkeers- en vervoersplan het karakter heeft van een structuurvisie, wordt dit in het plan bepaald en is artikel 2.3 van de Wet ruimtelijke ordening hierop van toepassing.   
 2.  Het nationale verkeers- en vervoerplan wordt voorbereid door Onze Minister, die daartoe in overleg treedt met gedeputeerde staten en de colleges van burgemeester en wethouders.   
 
 ### Artikel  3  
@@ -44,7 +44,7 @@ e. de termijn waarbinnen het provinciale plan moet worden vastgesteld of herzien
 ### Artikel  4  
 
 1.  Het door het Rijk te voeren beleid wordt neergelegd in een afzonderlijk hoofdstuk van het nationale verkeers- en vervoerplan.    
-2.  Het Meerjarenprogramma Infrastructuur en Transport, bedoeld in [artikel 4 van de Wet Infrastructuurfonds](../../../../../../wet/wet/infrastructuurfonds/BWBR0006001/README.md), geldt tevens als uitvoeringsprogramma van het in het eerste lid bedoelde hoofdstuk.   
+2.  Het Meerjarenprogramma Infrastructuur en Transport, bedoeld in artikel 4 van de Wet Infrastructuurfonds, geldt tevens als uitvoeringsprogramma van het in het eerste lid bedoelde hoofdstuk.   
 
 ### Paragraaf  3  
 
@@ -66,12 +66,12 @@ d. de termijn waarvoor het plan geldt;
 
 e. de termijn waarbinnen het gemeentelijk beleid in overeenstemming moet zijn gebracht met het plan.      
 4.  Voor afloop van de in het derde lid, onder d, bedoelde termijn stellen provinciale staten een nieuw provinciaal verkeers- en vervoerplan vast.    
-5.  In het plan geven provinciale staten in ieder geval aan, in hoeverre het voorgenomen beleid leidt tot aanpassing van het provinciale ruimtelijke beleid of het provinciale milieubeleid en in hoeverre en binnen welke termijn zij voornemens zijn een of meer geldende structuurvisies als bedoeld in [artikel 2.2 van de Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md), het geldende provinciale milieubeleidsplan, bedoeld in [artikel 4.9, eerste lid, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md), of het geldende regionale waterplan, bedoeld in [artikel 4.4 van de Waterwet](../../../../../../wet/waterwet/BWBR0025458/README.md), te herzien.   
+5.  In het plan geven provinciale staten in ieder geval aan, in hoeverre het voorgenomen beleid leidt tot aanpassing van het provinciale ruimtelijke beleid of het provinciale milieubeleid en in hoeverre en binnen welke termijn zij voornemens zijn een of meer geldende structuurvisies als bedoeld in artikel 2.2 van de Wet ruimtelijke ordening, het geldende provinciale milieubeleidsplan, bedoeld in artikel 4.9, eerste lid, van de Wet milieubeheer, of het geldende regionale waterplan, bedoeld in artikel 4.4 van de Waterwet, te herzien.   
 
 ### Artikel  6  
 
 1. Gedeputeerde staten betrekken bij de voorbereiding van het provinciale verkeers- en vervoersplan de naar hun oordeel meest belanghebbende bestuursorganen. Daartoe behoren in ieder geval Onze Minister, de colleges van burgemeester en wethouders, gedeputeerde staten van de aangrenzende provincies en de besturen van waterschappen die tevens wegbeheerder zijn.  
-2.  Op de voorbereiding van het provinciale verkeers- en vervoerplan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
+2.  Op de voorbereiding van het provinciale verkeers- en vervoerplan is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
 
 ### Paragraaf  4  
 
@@ -96,8 +96,8 @@ d. de termijn waarvoor het plan geldt.
 ### Artikel  10  
 
 1.  De gemeenteraad onderscheidenlijk het college van burgemeester en wethouders betrekt bij de voorbereiding van het gemeentelijk verkeers- en vervoerbeleid of van het gemeentelijk verkeers- en vervoerplan de naar zijn oordeel meest belanghebbende bestuursorganen en stelt hen op de hoogte van het door de gemeenteraad onderscheidenlijk het college te voeren beleid. Daartoe behoren in ieder geval gedeputeerde staten van de provincie, de colleges van burgemeester en wethouders van de aangrenzende gemeenten, de besturen van betrokken waterschappen die tevens wegbeheerder zijn en, in voorkomende gevallen, Onze Minister.    
-2.  Op de voorbereiding van het gemeentelijk verkeers- en vervoerplan is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing.   
-3.  Voor zover het gemeentelijk verkeers- en vervoerbeleid gevolgen heeft voor het ruimtelijk beleid, geeft de gemeenteraad onderscheidenlijk het college van burgemeester en wethouders in ieder geval aan binnen welke termijn de daarvoor aangewezen procedures op basis van de [Wet ruimtelijke ordening](../../../../../../wet/wet/ruimtelijke/ordening/BWBR0020449/README.md) in gang gezet worden.   
+2.  Op de voorbereiding van het gemeentelijk verkeers- en vervoerplan is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing.   
+3.  Voor zover het gemeentelijk verkeers- en vervoerbeleid gevolgen heeft voor het ruimtelijk beleid, geeft de gemeenteraad onderscheidenlijk het college van burgemeester en wethouders in ieder geval aan binnen welke termijn de daarvoor aangewezen procedures op basis van de Wet ruimtelijke ordening in gang gezet worden.   
 
 ### Paragraaf  5  
 
@@ -127,7 +127,7 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 ### Artikel  16  
 
-1. Het bestuur van een regionaal openbaar lichaam als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) dat de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat, stelt een regionaal verkeers- en vervoerplan vast, dat richting geeft aan de voor het gebied van dat regionaal openbaar lichaam te nemen beslissingen inzake verkeer en vervoer. Het bestuur neemt hierbij de essentiële onderdelen van het nationale verkeers- en vervoerplan in acht, evenals de essentiële onderdelen van het provinciale verkeer- en vervoerplan, voor zover die betrekking hebben op de bovenregionale samenhang.
+1. Het bestuur van een regionaal openbaar lichaam als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen dat de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat, stelt een regionaal verkeers- en vervoerplan vast, dat richting geeft aan de voor het gebied van dat regionaal openbaar lichaam te nemen beslissingen inzake verkeer en vervoer. Het bestuur neemt hierbij de essentiële onderdelen van het nationale verkeers- en vervoerplan in acht, evenals de essentiële onderdelen van het provinciale verkeer- en vervoerplan, voor zover die betrekking hebben op de bovenregionale samenhang.
 2. Voor de openbare lichamen als bedoeld in het eerste lid is de onderhavige wet van overeenkomstige toepassing, met dien verstande, dat: 
 
 a. voor de toepassing van de artikelen 2, tweede lid, 3, derde lid, onder b, 12, 13, eerste lid, en 14 regionale openbare lichamen gelijkgesteld worden met provincies;   

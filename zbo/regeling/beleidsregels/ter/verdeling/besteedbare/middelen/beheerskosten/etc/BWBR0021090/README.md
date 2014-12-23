@@ -3,7 +3,7 @@
 ##Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2007
 
 Het College voor zorgverzekeringen,  
-Gelet op [artikel 4.4, eerste en tweede lid van het Besluit Wfsv](../../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) en gelet op de [Aanwijzing besteedbare middelen beheerskosten AWBZ 2007](../../../../../../../../../../ministeriele-regeling/aanwijzing/besteedbare/middelen/beheerskosten/awbz/2007/BWBR0020904/README.md),
+Gelet op artikel 4.4, eerste en tweede lid van het Besluit Wfsv en gelet op de Aanwijzing besteedbare middelen beheerskosten AWBZ 2007,
 Heeft in zijn vergadering van 21 december 2006 besloten:    
 
 ### Artikel  1  
@@ -11,20 +11,20 @@ Materieel uitgewerkt per 31-01-2009
 
 Deze regeling verstaat onder: 
 
-a. zorgverzekeraar: een zorgverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel b van de AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+a. zorgverzekeraar: een zorgverzekeraar als bedoeld in artikel 1, eerste lid, onderdeel b van de AWBZ;  
 
-b. verbindingskantoor: een verbindingskantoor als bedoeld in [artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md).   
+b. verbindingskantoor: een verbindingskantoor als bedoeld in artikel 1, onderdeel c, van het Administratiebesluit Bijzondere Ziektekostenverzekering.   
 
 ### Artikel  2  
 Materieel uitgewerkt per 31-01-2009 
 
-Ter bepaling van de middelen die voor iedere zorgverzekeraar afzonderlijk voor het kalenderjaar 2007 ten laste van het Algemeen Fonds Bijzondere Ziektekosten besteedbaar zijn voor beheerskosten [AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), anders dan in de hoedanigheid van verbindingskantoor, stelt het college, voorafgaand aan het budgetjaar, voor ieder van hen als volgt een voorlopig budget vast. 
+Ter bepaling van de middelen die voor iedere zorgverzekeraar afzonderlijk voor het kalenderjaar 2007 ten laste van het Algemeen Fonds Bijzondere Ziektekosten besteedbaar zijn voor beheerskosten AWBZ, anders dan in de hoedanigheid van verbindingskantoor, stelt het college, voorafgaand aan het budgetjaar, voor ieder van hen als volgt een voorlopig budget vast. 
 
 a. voor de vaststelling van de budgetten gaat het college uit van een totaalbedrag van 3,517 miljoen euro;  
 
-b. een derde deel van het bedrag, bedoeld in onderdeel a, verdeelt het college over de zorgverzekeraars ten behoeve van de op verzekerden gerichte administratiedelen, op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+b. een derde deel van het bedrag, bedoeld in onderdeel a, verdeelt het college over de zorgverzekeraars ten behoeve van de op verzekerden gerichte administratiedelen, op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de AWBZ;  
 
-c. twee derde deel van het bedrag, bedoeld in onderdeel a, verdeelt het college over de zorgverzekeraars ten behoeve van de op de zorg gerichte administratiedelen, op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md). Daarbij tellen verzekerden van vijfenzestig jaar en ouder dubbel;  
+c. twee derde deel van het bedrag, bedoeld in onderdeel a, verdeelt het college over de zorgverzekeraars ten behoeve van de op de zorg gerichte administratiedelen, op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de AWBZ. Daarbij tellen verzekerden van vijfenzestig jaar en ouder dubbel;  
 
 d. ter vaststelling van de budgetten sommeert het college per zorgverzekeraar de ingevolge de onderdelen b en c berekende bedragen. Het college rondt de budgetten af op hele euro's, waarbij het college bedragen van een halve euro en hoger afrondt naar boven en overige bedragen naar beneden.   
 

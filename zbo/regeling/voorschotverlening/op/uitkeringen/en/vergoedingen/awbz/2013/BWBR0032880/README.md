@@ -3,7 +3,7 @@
 ##Regeling voorschotverlening op uitkeringen AWBZ en vaststelling kosten van verstrekkingen en vergoedingen 2013
 
 Het College voor zorgverzekeringen,  
-gelet op [artikel 91, derde lid van de Wet financiering sociale verzekeringen](../../../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), alsmede [artikel 4.2](../../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), [artikel 4.4, zesde lid](../../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), [artikel 4.5, derde lid](../../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) en [artikel 4.8 van het Besluit Wfsv](../../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), [artikel 10, tweede lid Administratiebesluit bijzondere ziektekostenverzekering](../../../../../../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md), alsmede [artikel 4:81, eerste lid Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+gelet op artikel 91, derde lid van de Wet financiering sociale verzekeringen, alsmede artikel 4.2, artikel 4.4, zesde lid, artikel 4.5, derde lid en artikel 4.8 van het Besluit Wfsv, artikel 10, tweede lid Administratiebesluit bijzondere ziektekostenverzekering, alsmede artikel 4:81, eerste lid Algemene wet bestuursrecht;
 heeft in zijn vergadering van 21 januari 2013 besloten:     
 ### Hoofdstuk  1  
 
@@ -21,7 +21,7 @@ b.  *het jaar t + 1:* het op het jaar t volgende kalenderjaar;
 
 c.  *het jaar t + 3:* het jaar dat ligt 3 jaar na het jaar t;  
 
-d.  *AWBZ:* [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+d.  *AWBZ:* Algemene Wet Bijzondere Ziektekosten;  
 
 e.  *AFBZ:* Algemeen Fonds Bijzondere Ziektekosten.    
 
@@ -33,9 +33,9 @@ e.  *AFBZ:* Algemeen Fonds Bijzondere Ziektekosten.
 
 ####Vaststelling voorschotten beheerskosten
 
-1.  Het college stelt gelijktijdig met de toekenning van het beheerskostenbudget de voorschotten op uitkeringen van het beheerskostenbudget op grond van de [artikelen 4.4, zesde lid](../../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) en [4.5, derde lid van het Besluit Wfsv](../../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) voor de zorgverzekeraars en de verbindingskantoren vast.   
-2.  De voorschotten bedragen, behoudens afrondingsverschillen, ten hoogste het voor de zorgverzekeraars en verbindingskantoren op grond van [artikel 4.4](../../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) en [4.5 van het Besluit Wfsv](../../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) voor het jaar t vastgestelde beheerskostenbudget.   
-3.  Voor een zorgverzekeraar, die zich na 1 januari van het jaar t bij de Nederlandse Zorgautoriteit (NZa) meldt op grond van [artikel 33 AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), stelt het college de hoogte van het voorschot en de te betalen termijnen op nader door hem te bepalen wijze vast.  
+1.  Het college stelt gelijktijdig met de toekenning van het beheerskostenbudget de voorschotten op uitkeringen van het beheerskostenbudget op grond van de artikelen 4.4, zesde lid en 4.5, derde lid van het Besluit Wfsv voor de zorgverzekeraars en de verbindingskantoren vast.   
+2.  De voorschotten bedragen, behoudens afrondingsverschillen, ten hoogste het voor de zorgverzekeraars en verbindingskantoren op grond van artikel 4.4 en 4.5 van het Besluit Wfsv voor het jaar t vastgestelde beheerskostenbudget.   
+3.  Voor een zorgverzekeraar, die zich na 1 januari van het jaar t bij de Nederlandse Zorgautoriteit (NZa) meldt op grond van artikel 33 AWBZ, stelt het college de hoogte van het voorschot en de te betalen termijnen op nader door hem te bepalen wijze vast.  
 
 ### Artikel  3  
 
@@ -51,39 +51,39 @@ De betaling van het voorschot, bedoeld in artikel 2, tweede lid, geschiedt in tw
 
 ####Vaststelling voorschotten kosten verstrekkingen en vergoedingen
 
-Voor de vergoeding van kosten van verstrekkingen en vergoedingen, bedoeld in [artikel 4.2 van het Besluit Wfsv](../../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md) die de zorgverzekeraar of het verbindingskantoor betaalt, stelt het college ambtshalve of op verzoek een voorschot vast. Hierbij gaat het college uit van de door de zorgverzekeraar of het verbindingskantoor onderbouwde schatting van de kosten van verstrekkingen en vergoedingen die voor jaar t worden verwacht. 
+Voor de vergoeding van kosten van verstrekkingen en vergoedingen, bedoeld in artikel 4.2 van het Besluit Wfsv die de zorgverzekeraar of het verbindingskantoor betaalt, stelt het college ambtshalve of op verzoek een voorschot vast. Hierbij gaat het college uit van de door de zorgverzekeraar of het verbindingskantoor onderbouwde schatting van de kosten van verstrekkingen en vergoedingen die voor jaar t worden verwacht. 
 
 ### Artikel  5  
 
 ####De voorlopige vaststelling en uitkering van de vergoeding van kosten van verstrekkingen en vergoedingen
 
 1.  Uiterlijk op de eerste werkdag in oktober van het jaar t+1 stelt het college de vergoeding voor de kosten van verstrekkingen en vergoedingen voorlopig vast.   
-2.  Voor de toepassing van het eerste lid gaat het college voor de kosten van verstrekkingen en vergoedingen ingevolge de [AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) voor de zorgverzekeraar uit van de som van: 
+2.  Voor de toepassing van het eerste lid gaat het college voor de kosten van verstrekkingen en vergoedingen ingevolge de AWBZ voor de zorgverzekeraar uit van de som van: 
 
 a. het saldo van de kosten van rechtstreeks met het AFBZ te verrekenen kosten en opbrengsten van zorgaanspraken die de zorgverzekeraar aan het college voor het jaar t opgeeft;  
 
 b. de door de zorgverzekeraar over het jaar t opgegeven rentebaten.     
-3.  Voor de toepassing van het eerste lid gaat het college voor de kosten van verstrekkingen en vergoedingen ingevolge de [AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) voor de verbindingskantoren uit van de som van: 
+3.  Voor de toepassing van het eerste lid gaat het college voor de kosten van verstrekkingen en vergoedingen ingevolge de AWBZ voor de verbindingskantoren uit van de som van: 
 
 a. het saldo van de kosten van rechtstreeks met het AFBZ te verrekenen kosten en opbrengsten van zorgaanspraken die het verbindingskantoor aan het college voor het jaar t opgeeft;  
 
 b. de opbrengsten van eigen bijdragen in het kader van de bijzondere ziektekostenverzekering.     
-4.  Het college keert de voorlopig vastgestelde vergoeding voor de kosten van verstrekkingen en vergoedingen, bedoeld in [artikel 4.2 Besluit Wfsv](../../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), uit onder verrekening van de in jaar t verstrekte voorschotten, bedoeld in artikel 4.  
+4.  Het college keert de voorlopig vastgestelde vergoeding voor de kosten van verstrekkingen en vergoedingen, bedoeld in artikel 4.2 Besluit Wfsv, uit onder verrekening van de in jaar t verstrekte voorschotten, bedoeld in artikel 4.  
 
 ### Artikel  6  
 
 ####De definitieve vaststelling en uitkering van de vergoeding van kosten van verstrekkingen en vergoedingen
 
-1.  Uiterlijk in het jaar t + 3 stelt het college de vergoeding van kosten van verstrekkingen en vergoedingen, bedoeld in [artikel 4.2 Besluit Wfsv](../../../../../../../../../../AMvB/besluit/wfsv/BWBR0019070/README.md), definitief vast.   
+1.  Uiterlijk in het jaar t + 3 stelt het college de vergoeding van kosten van verstrekkingen en vergoedingen, bedoeld in artikel 4.2 Besluit Wfsv, definitief vast.   
 2.  Het college betaalt het verschil tussen het bedrag van de definitieve vaststelling en voorlopig vastgestelde vergoeding ingeval van een positief saldo voor het verbindingskantoor of de zorgverzekeraar uit. Indien het verschil bedoeld in de vorige volzin negatief is, vordert het college het verschil van het verbindingskantoor of de zorgverzekeraar terug.  
 
 ### Hoofdstuk  4  
 
-####Afstorting overschotten [AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)
+####Afstorting overschotten AWBZ
 
 ### Artikel  7  
 
-####Afstorting overschotten [AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md)
+####Afstorting overschotten AWBZ
 
 Het CAK stort de opbrengsten van bijdragen voor zorg zonder verblijf vierwekelijks in het AFBZ af. De afstorting geschiedt met valuta op de vijfde werkdag van de eerstvolgende week na de week waarin de verwerkte opbrengsten zijn ontvangen. 
 
@@ -122,7 +122,7 @@ Deze regeling zal met de toelichting in de Staatscourant worden geplaatst. Deze 
 
 ####Slotbepalingen
 
-1.  De [Regeling voorschotverlening op uitkeringen AWBZ 2010](../../../../../../../../../../zbo/regeling/voorschotverlening/op/uitkeringen/awbz/2010/BWBR0027056/README.md) wordt ingetrokken.   
+1.  De Regeling voorschotverlening op uitkeringen AWBZ 2010 wordt ingetrokken.   
 2.  Deze regeling wordt aangehaald als: Regeling voorschotverlening op uitkeringen en vergoedingen AWBZ 2013.  
 
 Voorzitter Raad van Bestuur, 

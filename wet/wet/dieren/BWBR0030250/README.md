@@ -2298,7 +2298,7 @@ c. de inrichtingen waar onderzoekswerkzaamheden plaatsvinden.
 ####Wet op de dierproeven
 
 1.  Deze wet treedt niet in hetgeen bij of krachtens de Wet op de dierproeven is bepaald, met dien verstande dat onverminderd van kracht blijft hetgeen is bepaald bij of krachtens de artikelen 2.2, 2.6 en 2.23.   
-2.  Voor de toepassing van deze wet en de daarop berustende bepalingen wordt het verrichten van dierproeven of proeven in de zin van de Wet op de dierproeven niet aangemerkt als het verrichten van diergeneeskundige handelingen, tenzij deze handelingen plaatsvinden op verzoek van de houder van het desbetreffende dier met het oog op dat dier zelf.  
+2.  Voor de toepassing van deze wet en de daarop berustende bepalingen wordt het verrichten van dierproeven in de zin van de Wet op de dierproeven, voor zover laatstgenoemde wet op deze handelingen van toepassing is, niet aangemerkt als het verrichten van diergeneeskundige handelingen.  
 
 ### Artikel  10.7  
 

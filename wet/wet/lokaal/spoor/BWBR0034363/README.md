@@ -20,7 +20,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *dagelijks bestuur:* dagelijks bestuur van een plusregio;  
 
-*Locaalspoor- en Tramwegwet:* [Wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd](../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md) (Stb. 1900, 118);  
+*Locaalspoor- en Tramwegwet:* Wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd (Stb. 1900, 118);  
 
 *lokaal spoorwegverkeerssysteem:* verkeerssysteem van de krachtens artikel 2, tweede lid, als zodanig aangewezen lokale spoorweg;  
 
@@ -28,15 +28,15 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *lokale spoorweginfrastructuur:* de elementen, bedoeld in artikel 2, vijfde lid;  
 
-*Metroreglement:* [Besluit van 30 oktober 1981, houdende vaststelling van een Algemeen reglement voor de stadsspoorwegen](../../../../../AMvB/metroreglement/BWBR0003454/README.md) (Stb. 1981, 700);  
+*Metroreglement:* Besluit van 30 oktober 1981, houdende vaststelling van een Algemeen reglement voor de stadsspoorwegen (Stb. 1981, 700);  
 
 *Onze Minister:* Onze Minister van Infrastructuur en Milieu;  
 
-*plusregio:* regio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat;  
+*plusregio:* regio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat;  
 
 *rechthebbende:* eigenaar, bezitter of degene die een recht van erfpacht, opstal, vruchtgebruik, gebruik, huur of pacht heeft;  
 
-*Reglement dienst hoofd- en lokaalspoorwegen:* [Besluit van 25 januari 1977, houdende vaststelling van een algemeen reglement voor de dienst op de hoofd- en lokaalspoorwegen](../../../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md) (Stb. 1977, 152);  
+*Reglement dienst hoofd- en lokaalspoorwegen:* Besluit van 25 januari 1977, houdende vaststelling van een algemeen reglement voor de dienst op de hoofd- en lokaalspoorwegen (Stb. 1977, 152);  
 
 *richtlijn 95/18/EG:* richtlijn 95/18/EG van de Raad van de Europese Unie van 19 juni 1995 betreffende de verlening van vergunningen aan spoorwegondernemingen (PbEG 1995, L 143);  
 
@@ -54,13 +54,13 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *vervoerder:* onderneming die met een spoorvoertuig vervoer verricht over een lokale spoorweg;  
 
-*wegbeheerder:* overheden, genoemd in de [artikelen 15 tot en met 17 van de Wegenwet](../../../../../wet/wegenwet/BWBR0001948/README.md) dan wel de plusregio voor zover het wegbeheer krachtens de [Wet gemeenschappelijke regelingen](../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) door de wegbeheerder aan de plusregio is overgedragen;  
+*wegbeheerder:* overheden, genoemd in de artikelen 15 tot en met 17 van de Wegenwet dan wel de plusregio voor zover het wegbeheer krachtens de Wet gemeenschappelijke regelingen door de wegbeheerder aan de plusregio is overgedragen;  
 
-*weggebruiker:* weggebruiker als bedoeld in [artikel 1 van het Reglement verkeersregels en verkeerstekens 1990](../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md);  
+*weggebruiker:* weggebruiker als bedoeld in artikel 1 van het Reglement verkeersregels en verkeerstekens 1990;  
 
-*Wet aanleg locaalspoor- en tramwegen:* [Wet van 15 december 1917, houdende voorschriften omtrent aanleg en instandhouding van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd, op wegen niet onder beheer van het Rijk](../../../../../wet/wet/aanleg/locaalspoor-/en/tramwegen/BWBR0001892/README.md) (Stb. 1917, 703);  
+*Wet aanleg locaalspoor- en tramwegen:* Wet van 15 december 1917, houdende voorschriften omtrent aanleg en instandhouding van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd, op wegen niet onder beheer van het Rijk (Stb. 1917, 703);  
 
-*Wet zwerfstroomen:* [Wet van 1 november 1924, houdende wettelijke maatregelen tegen aantasting van metalen voorwerpen in den bodem door zwerfstroomen, afkomstig van de spoorstaven van electrische spoor- en tramwegen](../../../../../wet/wet/zwerfstromen/BWBR0001921/README.md) (Stb. 1924, 498).   
+*Wet zwerfstroomen:* Wet van 1 november 1924, houdende wettelijke maatregelen tegen aantasting van metalen voorwerpen in den bodem door zwerfstroomen, afkomstig van de spoorstaven van electrische spoor- en tramwegen (Stb. 1924, 498).   
 
 ### Artikel  2  
 
@@ -69,7 +69,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 a. is bestemd voor openbaar personenvervoer met stads-, voorstads- of regionale spoorvervoerdiensten of voor goederenvervoer; en  
 
-b. geen hoofdspoorweg is als bedoeld in [artikel 2, eerste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).     
+b. geen hoofdspoorweg is als bedoeld in artikel 2, eerste lid, van de Spoorwegwet.     
 3.  Indien een lokale spoorweg niet meer voldoet aan het tweede lid, wordt de aanwijzing als lokale spoorweg ingetrokken.   
 4.  Een besluit tot aanwijzing dan wel intrekking van een aanwijzing als lokale spoorweg wordt bekendgemaakt in het Staatsblad.   
 5.  Bij of krachtens algemene maatregel van bestuur worden de elementen aangewezen die tot de lokale spoorweginfrastructuur behoren.  
@@ -79,7 +79,7 @@ b. geen hoofdspoorweg is als bedoeld in [artikel 2, eerste lid, van de Spoorwegw
 1.  De hoofdstukken 2 tot en met 10 zijn uitsluitend van toepassing op lokale spoorwegen die uitgesloten kunnen worden van het toepassingsgebied van richtlijn 2001/14/EG en van de uitvoeringsmaatregelen bij richtlijn 2008/57/EG en richtlijn 2004/49/EG.   
 2.  Tenzij bij of krachtens deze wet anders is bepaald, zijn lokale spoorwegen als bedoeld in het eerste lid uitgesloten van het toepassingsgebied van richtlijn 2001/14/EG en van de uitvoeringsmaatregelen bij richtlijn 2008/57/EG en richtlijn 2004/49/EG. Vervoerders die gebruik maken van een dergelijke lokale spoorweg zijn uitgesloten van het toepassingsgebied van richtlijn 95/18/EG. Bestuurders op een dergelijke spoorweg zijn vrijgesteld van de uitvoeringsmaatregelen bij richtlijn 2007/59/EG.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels gesteld worden over lokale spoorwegen die niet uitgesloten kunnen worden van het toepassingsgebied van richtlijn 2001/14/EG en van de uitvoeringsmaatregelen bij richtlijn 2008/57/EG en richtlijn 2004/49/EG.   
-4.  De regels, bedoeld in het derde lid, kunnen in ieder geval inhouden het geheel of gedeeltelijk van toepassing verklaren van deze wet, de [Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) of de op die wetten berustende bepalingen.   
+4.  De regels, bedoeld in het derde lid, kunnen in ieder geval inhouden het geheel of gedeeltelijk van toepassing verklaren van deze wet, de Spoorwegwet of de op die wetten berustende bepalingen.   
 5.  In het koninklijk besluit, bedoeld in artikel 2, wordt vermeld of het een lokale spoorweg als bedoeld in het eerste of het derde lid betreft.  
 
 ### Hoofdstuk  2  
@@ -124,24 +124,24 @@ b. hulpverleningsdiensten in staat zijn om tijdens calamiteiten hun   werkzaamhe
 ### Artikel  7  
 Treedt in werking per 01-12-2015 
 
-1.  Lokale spoorweginfrastructuur wordt voor de toepassing van de [Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) aangemerkt als openbaar werk van algemeen nut.   
-2.  Indien voor de aanleg van lokale spoorweginfrastructuur toepassing van de [Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) noodzakelijk is: 
+1.  Lokale spoorweginfrastructuur wordt voor de toepassing van de Belemmeringenwet Privaatrecht aangemerkt als openbaar werk van algemeen nut.   
+2.  Indien voor de aanleg van lokale spoorweginfrastructuur toepassing van de Belemmeringenwet Privaatrecht noodzakelijk is: 
 
-a. kan Onze Minister in afwijking van [artikel 2, vierde lid, van de Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md): 
+a. kan Onze Minister in afwijking van artikel 2, vierde lid, van de Belemmeringenwet Privaatrecht: 
 
 1°. een andere plaats of gemeente aanwijzen waar de zitting plaatsvindt;  
 
 2°. bepalen dat de zitting wordt geleid door een door Onze Minister aan te wijzen persoon;    
 
-b. worden in afwijking van de [artikelen 2, zevende lid](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), en [3, derde lid, van de Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) gedeputeerde staten niet gehoord;  
+b. worden in afwijking van de artikelen 2, zevende lid, en 3, derde lid, van de Belemmeringenwet Privaatrecht gedeputeerde staten niet gehoord;  
 
-c. geldt in plaats van [artikel 4 van de Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) dat: 
+c. geldt in plaats van artikel 4 van de Belemmeringenwet Privaatrecht dat: 
 
-1°. tegen een besluit als bedoeld in [artikel 2, vijfde lid](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), van die wet een belanghebbende beroep kan instellen bij de Afdeling bestuursrechtspraak van de Raad van State;  
+1°. tegen een besluit als bedoeld in artikel 2, vijfde lid, of artikel 3, tweede lid, van die wet een belanghebbende beroep kan instellen bij de Afdeling bestuursrechtspraak van de Raad van State;  
 
-2°. [artikel 7:1 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing is;  
+2°. artikel 7:1 van de Algemene wet bestuursrecht niet van toepassing is;  
 
-3°. de werking van een besluit als bedoeld in [artikel 2, vijfde lid](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md), of [artikel 3, tweede lid, van de Belemmeringenwet Privaatrecht](../../../../../wet/belemmeringenwet/privaatrecht/BWBR0001936/README.md) opgeschort wordt totdat de termijn voor het indienen van een beroepschrift is verstreken.      
+3°. de werking van een besluit als bedoeld in artikel 2, vijfde lid, of artikel 3, tweede lid, van de Belemmeringenwet Privaatrecht opgeschort wordt totdat de termijn voor het indienen van een beroepschrift is verstreken.      
 
 ### Artikel  8  
 Treedt in werking per 01-12-2015 
@@ -190,7 +190,7 @@ Treedt in werking per 01-12-2015
 
 a. de beheerder in verband met het beheer van de lokale spoorweginfrastructuur of de aanleg van nieuwe lokale spoorweginfrastructuur;  
 
-b. de beheerder van een hoofdspoorweg of bijzondere spoorweg als bedoeld in [artikel 2, tweede of derde lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), in verband met het door hem uit te voeren beheer van aan de lokale spoorweg aangrenzende spoorweginfrastructuur, mits de werkzaamheden de veiligheid op en in de directe nabijheid van de lokale spoorweginfrastructuur niet in gevaar brengen of de mogelijkheden voor doelmatig gebruik van de lokale spoorweginfrastructuur niet in het geding komen.     
+b. de beheerder van een hoofdspoorweg of bijzondere spoorweg als bedoeld in artikel 2, tweede of derde lid, van de Spoorwegwet, in verband met het door hem uit te voeren beheer van aan de lokale spoorweg aangrenzende spoorweginfrastructuur, mits de werkzaamheden de veiligheid op en in de directe nabijheid van de lokale spoorweginfrastructuur niet in gevaar brengen of de mogelijkheden voor doelmatig gebruik van de lokale spoorweginfrastructuur niet in het geding komen.     
 5.  De vergunning kan onder beperkingen worden verleend. Aan de vergunning kunnen voorschriften worden verbonden in het belang van een veilig gebruik van de lokale spoorweg.   
 6.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur stellen het ruimtelijk profiel vast waarbinnen het vergunningsvereiste, bedoeld in het eerste lid, geldt.   
 7.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen nadere regels stellen ter uitvoering van het eerste lid.   
@@ -199,7 +199,7 @@ b. de beheerder van een hoofdspoorweg of bijzondere spoorweg als bedoeld in [art
 ### Artikel  13  
 Treedt in werking per 01-12-2015 
 
-De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden van een openbare weg, heeft een recht van uitweg over de lokale spoorweg. [Artikel 57 van Boek 5 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md) is van toepassing, met uitzondering van de schadevergoedingsplicht. 
+De rechthebbende wiens onroerende zaak door de lokale spoorweg wordt afgesneden van een openbare weg, heeft een recht van uitweg over de lokale spoorweg. Artikel 57 van Boek 5 van het Burgerlijk Wetboek is van toepassing, met uitzondering van de schadevergoedingsplicht. 
 
 ### Artikel  14  
 Treedt in werking per 01-12-2015 
@@ -230,7 +230,7 @@ d. zich zodanig te gedragen, dat het beheer van of het verkeer over de lokale sp
 Treedt in werking per 01-12-2015 
 
 1.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen onderzoek verrichten naar de oorzaken van ongevallen en incidenten op lokale spoorwegen en naar andere onregelmatigheden in de afwikkeling van het spoorverkeer waardoor de veiligheid van het spoorverkeer of van daarbij betrokken personen in gevaar is gebracht of in gevaar gebracht had kunnen worden, indien zij dat onderzoek nodig achten ter evaluatie van het beleid op het terrein van de veiligheid van het spoorverkeer.   
-2.  Ten behoeve van het onderzoek hebben de door gedeputeerde staten onderscheidenlijk het dagelijks bestuur aangewezen ambtenaren jegens vervoerders en beheerders de bevoegdheden, bedoeld in de [artikelen 5:15 tot en met 5:19 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md). De [artikelen 5:12](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), [5:13](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing.   
+2.  Ten behoeve van het onderzoek hebben de door gedeputeerde staten onderscheidenlijk het dagelijks bestuur aangewezen ambtenaren jegens vervoerders en beheerders de bevoegdheden, bedoeld in de artikelen 5:15 tot en met 5:19 van de Algemene wet bestuursrecht. De artikelen 5:12, 5:13 en 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing.   
 3.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur onthouden zich van het onderzoek naar de oorzaken van ongevallen en incidenten op lokale spoorwegen voor zover de Onderzoeksraad voor veiligheid daarnaar een onderzoek instelt.  
 
 ### Hoofdstuk  3  
@@ -304,7 +304,7 @@ Treedt in werking per 01-12-2015
 
 a. de beheerder van een daaraan grenzende lokale spoorweg;  
 
-b. de beheerder van een daaraan grenzende hoofdspoorweg of bijzondere spoorweg als bedoeld in [artikel 2, tweede of derde lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md); of  
+b. de beheerder van een daaraan grenzende hoofdspoorweg of bijzondere spoorweg als bedoeld in artikel 2, tweede of derde lid, van de Spoorwegwet; of  
 
 c. de wegbeheerder van een daaraan grenzende weg.     
 4.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen de beheerder bindende aanwijzingen geven met betrekking tot het beheer.  
@@ -326,7 +326,7 @@ a. het verkeer over de lokale spoorweg;
 
 b. de weggebruikers van de aan de lokale spoorweg grenzende openbare weg;  
 
-c. het verkeer over een aan de lokale spoorweg grenzende hoofdspoorweg of bijzondere spoorweg als bedoeld in [artikel 2, tweede of derde lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+c. het verkeer over een aan de lokale spoorweg grenzende hoofdspoorweg of bijzondere spoorweg als bedoeld in artikel 2, tweede of derde lid, van de Spoorwegwet;  
 
 d. de omwonenden; en  
 
@@ -364,7 +364,7 @@ Treedt in werking per 01-12-2015
 ### Artikel  25  
 Treedt in werking per 01-12-2015 
 
-1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld in het belang van de verkeersveiligheid op de lokale spoorweg en de daaraan grenzende hoofdspoorwegen of bijzondere spoorwegen, bedoeld in [artikel 2, tweede of derde lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), alsmede aan de daaraan grenzende wegen, bedoeld in [artikel 1, eerste lid, onderdeel b, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
+1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld in het belang van de verkeersveiligheid op de lokale spoorweg en de daaraan grenzende hoofdspoorwegen of bijzondere spoorwegen, bedoeld in artikel 2, tweede of derde lid, van de Spoorwegwet, alsmede aan de daaraan grenzende wegen, bedoeld in artikel 1, eerste lid, onderdeel b, van de Wegenverkeerswet 1994.   
 2.  De regels bedoeld in het eerste lid kunnen tevens een verplichting inhouden voor gedeputeerde staten onderscheidenlijk het dagelijks bestuur om regels te stellen in het belang van de verkeersveiligheid op de lokale spoorweg.   
 3.  De regels, bedoeld in het eerste lid, kunnen in ieder geval de volgende onderwerpen betreffen: 
 
@@ -404,7 +404,7 @@ a. een geldig veiligheidscertificaat als bedoeld in artikel 27;
 
 b. een met de beheerder gesloten toegangsovereenkomst als bedoeld in artikel 30; en  
 
-c. voldoende verzekerd te zijn tegen de financiële risico’s die voortvloeien uit de wettelijke aansprakelijkheid als vervoerder. [Artikel 6 van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md) is van overeenkomstige toepassing.     
+c. voldoende verzekerd te zijn tegen de financiële risico’s die voortvloeien uit de wettelijke aansprakelijkheid als vervoerder. Artikel 6 van de Wet aansprakelijkheidsverzekering motorrijtuigen is van overeenkomstige toepassing.     
 2.  Het eerste lid, onderdeel a, is niet van toepassing op: 
 
 a. het verrichten van proefritten met het oog op het opdoen van ervaring met spoorvoertuigen of het testen van procedures in het kader van het veiligheidsbeheersysteem; of  
@@ -472,7 +472,7 @@ Treedt in werking per 01-12-2015
 a. de door de beheerder te bieden kwaliteit van de lokale spoorweginfrastructuur; en  
 
 b. de dagen en tijdstippen waarop het vervoer over de lokale spoorweginfrastructuur is toegestaan.     
-2.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur stellen een beleidskader vast met toewijzingscriteria, dat de beheerder in acht neemt bij de verdeling van de vervoercapaciteit, waarbij voorrang wordt gegeven aan de capaciteit die redelijkerwijs nodig is voor de uitvoering van de concessie, bedoeld in [artikel 20, tweede lid, van de Wet personenvervoer 2000](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md).   
+2.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur stellen een beleidskader vast met toewijzingscriteria, dat de beheerder in acht neemt bij de verdeling van de vervoercapaciteit, waarbij voorrang wordt gegeven aan de capaciteit die redelijkerwijs nodig is voor de uitvoering van de concessie, bedoeld in artikel 20, tweede lid, van de Wet personenvervoer 2000.   
 3.  Het is verboden de door de beheerder toegewezen vervoercapaciteit over te dragen of in gebruik te geven aan een andere vervoerder.  
 
 ### Artikel  31  
@@ -505,7 +505,7 @@ d. voldoet aan de bij of krachtens artikel 31 gestelde eisen met betrekking tot 
 6.  Bij ministeriële regeling kunnen nadere regels worden gesteld over het tweede, derde, vierde en vijfde lid.   
 7.  Het is verboden te handelen in strijd met de voorschriften en beperkingen, bedoeld in het vijfde lid.   
 8.  Het eerste lid is niet van toepassing op het verrichten van proefritten met het oog op het opdoen van ervaring met spoorvoertuigen of het testen van procedures in het kader van het veiligheidsbeheersysteem.   
-9.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen ontheffing verlenen van het eerste lid, indien voor een spoorvoertuig reeds een vergunning voor indienststelling of een aanvullende vergunning voor indienststelling is verleend als bedoeld in [artikel 36 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md).  
+9.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen ontheffing verlenen van het eerste lid, indien voor een spoorvoertuig reeds een vergunning voor indienststelling of een aanvullende vergunning voor indienststelling is verleend als bedoeld in artikel 36 van de Spoorwegwet.  
 
 ### Artikel  33  
 Treedt in werking per 01-12-2015 
@@ -593,8 +593,8 @@ a. het alcoholgehalte van zijn adem bij een onderzoek hoger blijkt te zijn dan t
 
 b. het alcoholgehalte van zijn bloed bij een onderzoek hoger blijkt te zijn dan een halve milligram alcohol per milliliter bloed.     
 3.  Het is verboden een veiligheidsfunctie te doen uitoefenen dan wel op de uitoefening van zodanige functie toezicht te doen houden door een persoon van wie men weet of redelijkerwijs moet vermoeden dat deze verkeert in een toestand als bedoeld in het eerste of tweede lid.   
-4.  Op de eerste vordering van bij of krachtens deze wet of [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) met de opsporing van strafbare feiten belaste ambtenaren zijn personen die een veiligheidsfunctie uitoefenen dan wel op de uitoefening van zodanige functie toezicht houden, of daartoe aanstalten maken, verplicht hun medewerking te verlenen aan een voorlopig onderzoek van uitgeademde lucht en daartoe volgens door die ambtenaar te geven aanwijzingen ademlucht te blazen in een door die ambtenaar aangewezen apparaat.   
-5.  Dit artikel is niet van toepassing voor zover [artikel 8 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) van toepassing is.  
+4.  Op de eerste vordering van bij of krachtens deze wet of artikel 141 van het Wetboek van Strafvordering met de opsporing van strafbare feiten belaste ambtenaren zijn personen die een veiligheidsfunctie uitoefenen dan wel op de uitoefening van zodanige functie toezicht houden, of daartoe aanstalten maken, verplicht hun medewerking te verlenen aan een voorlopig onderzoek van uitgeademde lucht en daartoe volgens door die ambtenaar te geven aanwijzingen ademlucht te blazen in een door die ambtenaar aangewezen apparaat.   
+5.  Dit artikel is niet van toepassing voor zover artikel 8 van de Wegenverkeerswet 1994 van toepassing is.  
 
 ### Hoofdstuk  7  
 
@@ -607,7 +607,7 @@ Treedt in werking per 01-12-2015
 
 1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de bij besluit van Onze Minister aangewezen personen.   
 2.  De toezichthouder heeft tevens tot taak het afgeven van een schriftelijke verklaring, als bedoeld in de artikelen 9, derde lid, 18, derde lid, 27, derde lid, 32, derde lid, en 34, derde lid.   
-3.  De [artikelen 5:12 tot en met 5:20 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) zijn van overeenkomstige toepassing ten aanzien van de toezichthouder bij de uitoefening van de in het tweede lid genoemde taken.   
+3.  De artikelen 5:12 tot en met 5:20 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing ten aanzien van de toezichthouder bij de uitoefening van de in het tweede lid genoemde taken.   
 4.  De toezichthouder verricht de in het eerste lid genoemde taken uit eigen beweging of op verzoek van gedeputeerde staten onderscheidenlijk het dagelijks bestuur.   
 5.  De toezichthouder brengt van zijn bevindingen ten aanzien van de uitoefening van de in het eerste lid bedoelde taken verslag uit aan gedeputeerde staten onderscheidenlijk het dagelijks bestuur.   
 6.  Indien de toezichthouder de in het eerste lid genoemde taak op verzoek van gedeputeerde staten onderscheidenlijk het dagelijks bestuur verricht, neemt hij de instructies van gedeputeerde staten onderscheidenlijk het dagelijks bestuur in acht.   
@@ -637,7 +637,7 @@ b. een onderneming € 225.000,–.
 ### Artikel  45  
 Treedt in werking per 01-12-2015 
 
-1.  Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn, onverminderd [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md), belast de met betrekking tot deze wet krachtens [artikel 17, eerste lid, onderdeel 2°, van de Wet op de economische delicten](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de [artikelen 179 tot en met 182](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en [184 van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
+1.  Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de met betrekking tot deze wet krachtens artikel 17, eerste lid, onderdeel 2°, van de Wet op de economische delicten aangewezen ambtenaren. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.   
 2.  Met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten zijn voorts belast de bij besluit van Onze Minister en Onze Minister van Veiligheid en Justitie aangewezen personen.   
 3.  Van een besluit als bedoeld in het tweede lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
@@ -654,7 +654,7 @@ Treedt in werking per 01-12-2015
 ### Artikel  47  
 Treedt in werking per 01-12-2015 
 
-1.  Een van de bij of krachtens artikel 45 van deze wet of [artikel 141 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) met de opsporing van strafbare feiten belaste ambtenaren, kan een in artikel 41, eerste lid, bedoelde persoon van wie, uit het in artikel 41, vierde lid, bedoelde onderzoek of op andere wijze, naar het oordeel van die ambtenaar gebleken is dat hij onder zodanige invloed van het gebruik van een stof als bedoeld in artikel 41, eerste lid, verkeert, dat hij onvoldoende in staat is een veiligheidsfunctie uit te oefenen dan wel op de uitoefening van zodanige functie toezicht te houden, een verbod opleggen tot het uitoefenen van die functie of tot het houden van toezicht daarop, voor de tijd gedurende welke redelijkerwijs verwacht mag worden dat deze toestand zal voortduren tot ten hoogste vierentwintig uur. De eerste volzin is van overeenkomstige toepassing op degene die aanstalten maakt een veiligheidsfunctie te gaan uitoefenen dan wel op de uitoefening van zodanige functie toezicht te houden.   
+1.  Een van de bij of krachtens artikel 45 van deze wet of artikel 141 van het Wetboek van Strafvordering met de opsporing van strafbare feiten belaste ambtenaren, kan een in artikel 41, eerste lid, bedoelde persoon van wie, uit het in artikel 41, vierde lid, bedoelde onderzoek of op andere wijze, naar het oordeel van die ambtenaar gebleken is dat hij onder zodanige invloed van het gebruik van een stof als bedoeld in artikel 41, eerste lid, verkeert, dat hij onvoldoende in staat is een veiligheidsfunctie uit te oefenen dan wel op de uitoefening van zodanige functie toezicht te houden, een verbod opleggen tot het uitoefenen van die functie of tot het houden van toezicht daarop, voor de tijd gedurende welke redelijkerwijs verwacht mag worden dat deze toestand zal voortduren tot ten hoogste vierentwintig uur. De eerste volzin is van overeenkomstige toepassing op degene die aanstalten maakt een veiligheidsfunctie te gaan uitoefenen dan wel op de uitoefening van zodanige functie toezicht te houden.   
 2.  De ambtenaar die een verbod als bedoeld in het eerste lid oplegt, legt dit vast in een beschikking die het tijdstip van ingang en de duur van het verbod bevat.   
 3.  Het is degene aan wie een verbod als bedoeld in het eerste lid is opgelegd, verboden een veiligheidsfunctie uit te oefenen dan wel op de uitoefening van zodanige functie toezicht te houden, gedurende de tijd waarvoor dat verbod geldt.  
 
@@ -759,20 +759,20 @@ Artikel 6, tweede tot en met vierde lid, is niet van toepassing op tunnels:
 
 a. waarover voorafgaand aan het tijdstip van inwerkingtreding van artikel 6 een overeenkomst met een ontwerpend adviseur, een geïntegreerde overeenkomst voor ontwerp en realisatie of een overeenkomst tot bouw is gesloten;  
 
-b. waarvoor voorafgaand aan het tijdstip van inwerkingtreding van artikel 6 een reguliere bouwvergunning, als bedoeld in [artikel 44 van de Woningwet](../../../../../wet/woningwet/BWBR0005181/README.md) is verleend; of  
+b. waarvoor voorafgaand aan het tijdstip van inwerkingtreding van artikel 6 een reguliere bouwvergunning, als bedoeld in artikel 44 van de Woningwet is verleend; of  
 
 c. waarvan de bouw voorafgaand aan het tijdstip van inwerkingtreding van artikel 6 al is begonnen.   
 
 ### Artikel  62  
 Treedt in werking per 01-12-2015 
 
-1.  Artikel 9 is niet van toepassing ten aanzien van lokale spoorweginfrastructuur die voorafgaand aan het tijdstip van inwerkingtreding van artikel 9 in gebruik is genomen op grond van de [Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), de [Spoorwegwet 1875](../../../../../wet/spoorwegwet/BWBR0001848/README.md), de [Wet aanleg locaalspoor- en tramwegen](../../../../../wet/wet/aanleg/locaalspoor-/en/tramwegen/BWBR0001892/README.md) dan wel de [Locaalspoor- en Tramwegwet](../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md), en die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 9 als zodanig in gebruik is.   
+1.  Artikel 9 is niet van toepassing ten aanzien van lokale spoorweginfrastructuur die voorafgaand aan het tijdstip van inwerkingtreding van artikel 9 in gebruik is genomen op grond van de Spoorwegwet, de Spoorwegwet 1875, de Wet aanleg locaalspoor- en tramwegen dan wel de Locaalspoor- en Tramwegwet, en die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 9 als zodanig in gebruik is.   
 2.  Artikel 10 is onverminderd van toepassing op in gebruik genomen lokale spoorweginfrastructuur als bedoeld in het eerste lid.  
 
 ### Artikel  63  
 Treedt in werking per 01-12-2015 
 
-Een vergunning, toestemming of ontheffing, die betrekking heeft op een lokale spoorweg en die is verleend op grond van [artikel 19 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), [artikel 39 van de Spoorwegwet 1875](../../../../../wet/spoorwegwet/BWBR0001848/README.md), de [artikelen 14, derde lid](../../../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md), of [15 van het Reglement dienst hoofd- en lokaalspoorwegen](../../../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md), de [artikelen 5, tweede lid](../../../../../KB/tramwegreglement/BWBR0001898/README.md), of [14, derde lid, van het Tramwegreglement](../../../../../KB/tramwegreglement/BWBR0001898/README.md), dan wel de [artikelen 12, derde lid](../../../../../AMvB/metroreglement/BWBR0003454/README.md), of [15 van het Metroreglement](../../../../../AMvB/metroreglement/BWBR0003454/README.md), en die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 12 van kracht en onherroepelijk is, wordt gelijkgesteld met een vergunning als bedoeld in artikel 12. 
+Een vergunning, toestemming of ontheffing, die betrekking heeft op een lokale spoorweg en die is verleend op grond van artikel 19 van de Spoorwegwet, artikel 39 van de Spoorwegwet 1875, de artikelen 14, derde lid, of 15 van het Reglement dienst hoofd- en lokaalspoorwegen, de artikelen 5, tweede lid, of 14, derde lid, van het Tramwegreglement, dan wel de artikelen 12, derde lid, of 15 van het Metroreglement, en die onmiddellijk voorafgaand aan het tijdstip van inwerkingtreding van artikel 12 van kracht en onherroepelijk is, wordt gelijkgesteld met een vergunning als bedoeld in artikel 12. 
 
 ### Artikel  64  
 Treedt in werking per 01-12-2015 
@@ -788,7 +788,7 @@ Ten aanzien van degene die op het tijdstip van inwerkingtreding van artikel 37, 
 ### Artikel  66  
 Treedt in werking per 01-12-2015 
 
-De op het tijdstip van inwerkingtreding van deze wet aanhangige bezwaar- en beroepschriften tegen besluiten op grond van de [Spoorwegwet 1875](../../../../../wet/spoorwegwet/BWBR0001848/README.md), de [Wet aanleg locaalspoor- en tramwegen](../../../../../wet/wet/aanleg/locaalspoor-/en/tramwegen/BWBR0001892/README.md), de [Locaalspoor- en Tramwegwet](../../../../../wet/locaalspoor-/en/tramwegwet/BWBR0001866/README.md), het [Reglement dienst hoofd- en lokaalspoorwegen](../../../../../AMvB/reglement/dienst/hoofd-/en/lokaalspoorwegen/BWBR0003083/README.md), het [Tramwegreglement](../../../../../KB/tramwegreglement/BWBR0001898/README.md) dan wel het [Metroreglement](../../../../../AMvB/metroreglement/BWBR0003454/README.md) worden afgehandeld overeenkomstig het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet. 
+De op het tijdstip van inwerkingtreding van deze wet aanhangige bezwaar- en beroepschriften tegen besluiten op grond van de Spoorwegwet 1875, de Wet aanleg locaalspoor- en tramwegen, de Locaalspoor- en Tramwegwet, het Reglement dienst hoofd- en lokaalspoorwegen, het Tramwegreglement dan wel het Metroreglement worden afgehandeld overeenkomstig het recht zoals dat gold voor het tijdstip van inwerkingtreding van deze wet. 
 
 ### Hoofdstuk  11  
 

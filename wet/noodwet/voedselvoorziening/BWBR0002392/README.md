@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. alle voortbrengselen, welke, al dan niet na bewerking of verwerking, kunnen dienen als voedsel voor mens of dier, alsmede de bij bewerking of verwerking van die voortbrengselen verkregen derivaten en afvallen;   
 
-b. de niet reeds onder *a* begrepen, al dan niet bewerkte of verwerkte voortbrengselen van de landbouw en de visserij, alsmede de bij bewerking of verwerking van die voortbrengselen verkregen derivaten en afvallen;    bedrijfslichaam: een bedrijfslichaam als bedoeld in [artikel 66 van de Wet op de bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md).   
+b. de niet reeds onder *a* begrepen, al dan niet bewerkte of verwerkte voortbrengselen van de landbouw en de visserij, alsmede de bij bewerking of verwerking van die voortbrengselen verkregen derivaten en afvallen;    bedrijfslichaam: een bedrijfslichaam als bedoeld in artikel 66 van de Wet op de bedrijfsorganisatie.   
 2.   Voor de toepassing van het bepaalde bij of krachtens deze wet wordt mede verstaan onder:  handelaren: tussenpersonen;  visserij: mosselteelt, oesterteelt en viskwekerij.   
 
 ### Hoofdstuk  II  
@@ -41,7 +41,7 @@ Onze Minister kan in door hem te bepalen gebieden voedselcommissarissen aanwijze
 
 ###Artikel 4 
 
-1. Onverminderd de [artikelen 7, eerste lid,](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) en [8, eerste lid, van de Coördinatiewet uitzonderingstoestanden](../../../../wet/coördinatiewet/uitzonderingstoestanden/BWBR0007981/README.md) kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de artikelen 6 tot en met 14 gezamenlijk of afzonderlijk in werking worden gesteld.
+1. Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de artikelen 6 tot en met 14 gezamenlijk of afzonderlijk in werking worden gesteld.
 2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
 3. Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.
 4. Bij koninklijk besluit, op voordracht van Onze Minister-President, worden de bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.
@@ -115,14 +115,14 @@ b. boeken en bescheiden betreffende die gedragingen aan de lichamen, organen of 
 Treedt in werking op een nader te bepalen tijdstip 
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. 
-1.  Onze Minister kan bepalen, dat verordeningen of andere besluiten, door een orgaan van een bedrijfslichaam krachtens deze wet, de [Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md) of de [Wet op de bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) vastgesteld, geheel of gedeeltelijk worden geschorst. Hij kan in verband daarmee nadere regels vaststellen.   
+1.  Onze Minister kan bepalen, dat verordeningen of andere besluiten, door een orgaan van een bedrijfslichaam krachtens deze wet, de Landbouwwet of de Wet op de bedrijfsorganisatie vastgesteld, geheel of gedeeltelijk worden geschorst. Hij kan in verband daarmee nadere regels vaststellen.   
 
 ### Artikel  14  
 Treedt in werking op een nader te bepalen tijdstip 
 
 Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. 
-1.  Indien het naar het oordeel van het dagelijks bestuur van een bedrijfslichaam in een der gevallen, genoemd in het tweede lid van artikel 4, niet mogelijk is, dat het bestuur, een commissie uit het midden van het bestuur of een orgaan, bedoeld in [artikel 88a van de Wet op de Bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), bijeenkomt, oefent het dagelijks bestuur de aan het bestuur, die commissie of dat orgaan toekomende bevoegdheden uit.    
-2.   Indien het naar het oordeel van de voorzitter van een bedrijfslichaam in zodanig geval niet mogelijk is, dat het dagelijks bestuur bijeenkomt, oefent hij de aan het dagelijks bestuur toekomende bevoegdheden uit. Indien hij in zodanig geval tevens van oordeel is, dat tengevolge van bedoelde omstandigheden het bestuur, een commissie uit het bestuur of een orgaan, bedoeld in [artikel 88a van de Wet op de Bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), niet kan bijeenkomen, oefent hij ook de aan het bestuur, die commissie of dat orgaan toekomende bevoegdheden uit.    
+1.  Indien het naar het oordeel van het dagelijks bestuur van een bedrijfslichaam in een der gevallen, genoemd in het tweede lid van artikel 4, niet mogelijk is, dat het bestuur, een commissie uit het midden van het bestuur of een orgaan, bedoeld in artikel 88a van de Wet op de Bedrijfsorganisatie, bijeenkomt, oefent het dagelijks bestuur de aan het bestuur, die commissie of dat orgaan toekomende bevoegdheden uit.    
+2.   Indien het naar het oordeel van de voorzitter van een bedrijfslichaam in zodanig geval niet mogelijk is, dat het dagelijks bestuur bijeenkomt, oefent hij de aan het dagelijks bestuur toekomende bevoegdheden uit. Indien hij in zodanig geval tevens van oordeel is, dat tengevolge van bedoelde omstandigheden het bestuur, een commissie uit het bestuur of een orgaan, bedoeld in artikel 88a van de Wet op de Bedrijfsorganisatie, niet kan bijeenkomen, oefent hij ook de aan het bestuur, die commissie of dat orgaan toekomende bevoegdheden uit.    
 3.   Zo spoedig mogelijk legt het dagelijks bestuur, onderscheidenlijk de voorzitter aan het bestuur verantwoording af van hetgeen krachtens de vorige leden is verricht.   
 
 ### Hoofdstuk  IV  
@@ -131,7 +131,7 @@ Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden
 
 ###Artikel 15 
 
-1. Ten aanzien van de uitoefening van bevoegdheden, welke hem toekomen ingevolge het bepaalde bij of krachtens deze wet en de [Distributiewet](../../../../wet/distributiewet/BWBR0001997/README.md), kan Onze Minister de medewerking vorderen van een bestuur van een bedrijfslichaam. Artikel 6, derde lid, is van overeenkomstige toepassing.
+1. Ten aanzien van de uitoefening van bevoegdheden, welke hem toekomen ingevolge het bepaalde bij of krachtens deze wet en de Distributiewet, kan Onze Minister de medewerking vorderen van een bestuur van een bedrijfslichaam. Artikel 6, derde lid, is van overeenkomstige toepassing.
 2. Indien de van het bestuur van het bedrijfslichaam gevorderde medewerking bestaat in het stellen van nadere regels bij verordening, behoeft zodanige verordening de goedkeuring van Onze Minister en indien het voorschrift waarbij de medewerking gevorderd is, door Onze Minister is vastgesteld in overeenstemming met Onze Minister van Economische Zaken, mede van die Minister.
 3. Krachtens de verordening genomen besluiten behoeven, voor zover dit bij de vordering van de medewerking, bedoeld in het eerste lid, is bepaald, de goedkeuring van de daarbij aangewezen autoriteit.
 4.  Regelen, bedoeld in het tweede lid, en nadere regelen, bedoeld in het derde lid, zijn verbindend voor een ieder, voorzover daarbij niet anders is bepaald. 
@@ -143,7 +143,7 @@ Bij algemene maatregel van bestuur worden regelen gesteld betreffende tegemoetko
 
 ### Artikel  18  
 
-Bij algemene maatregel van bestuur wijzen Wij de autoriteiten aan, die onder daarbij vast te stellen regelen in enig gebied de bevoegdheden, welke krachtens deze wet, de [Distributiewet](../../../../wet/distributiewet/BWBR0001997/README.md), de [Hamsterwet](../../../../wet/hamsterwet/BWBR0002389/README.md), de [Vorderingswet](../../../../wet/vorderingswet/BWBR0002393/README.md), de [Prijzennoodwet](../../../../wet/prijzennoodwet/BWBR0003734/README.md), de [Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md) en de [Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md) aan Onze Minister toekomen, uitoefenen voor zolang in een der in artikel 4, tweede lid, genoemde gevallen de verbinding tussen dat gebied en Onze Minister verbroken is. Ons besluit wordt mede bekend gemaakt in de Staatscourant.  
+Bij algemene maatregel van bestuur wijzen Wij de autoriteiten aan, die onder daarbij vast te stellen regelen in enig gebied de bevoegdheden, welke krachtens deze wet, de Distributiewet, de Hamsterwet, de Vorderingswet, de Prijzennoodwet, de Landbouwwet en de Algemene douanewet aan Onze Minister toekomen, uitoefenen voor zolang in een der in artikel 4, tweede lid, genoemde gevallen de verbinding tussen dat gebied en Onze Minister verbroken is. Ons besluit wordt mede bekend gemaakt in de Staatscourant.  
 
 ### Hoofdstuk  V  
 
@@ -151,7 +151,7 @@ Bij algemene maatregel van bestuur wijzen Wij de autoriteiten aan, die onder daa
 
 ### Artikel  21  
 
-In afwijking van [artikel 8:72, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) werkt een vernietiging vanaf het tijdstip, waarop zij wordt uitgesproken.  
+In afwijking van artikel 8:72, tweede lid, van de Algemene wet bestuursrecht werkt een vernietiging vanaf het tijdstip, waarop zij wordt uitgesproken.  
 
 ### Hoofdstuk  VI  
 
@@ -178,7 +178,7 @@ Het is verboden ter zake van een aanvraag om een ontheffing, vergunning of resti
 
 ### Artikel  26  
 
-1.  In afwijking van [artikel 5 van de Wet op de economische delicten](../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) is Onze Minister bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de krachtens de artikelen 6, 9 en 10 vastgestelde verplichtingen.    
+1.  In afwijking van artikel 5 van de Wet op de economische delicten is Onze Minister bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de krachtens de artikelen 6, 9 en 10 vastgestelde verplichtingen.    
 2.   Voor de in bezit genomen produkten wordt als schadeloosstelling toegekend een bedrag, gelijk aan de prijs, onderscheidenlijk vergoeding, welke bij inlevering, onderscheidenlijk terbeschikkinghouding ter nakoming van een krachtens artikel 10 opgelegde verplichting zou zijn uitgekeerd, een en ander verminderd met de op de inbezitneming vallende kosten.   
 
 ### Artikel  27  

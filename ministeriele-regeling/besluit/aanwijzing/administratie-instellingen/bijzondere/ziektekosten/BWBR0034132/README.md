@@ -3,7 +3,7 @@
 ##Besluit van de Staatssecretaris van Volksgezondheid, Welzijn en Sport van 22 oktober 2013, kenmerk 152108-110428-Z, houdende de aanwijzing van administratie-instellingen bijzondere ziektekosten
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 3 van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md);
+Gelet op artikel 3 van het Administratiebesluit Bijzondere Ziektekostenverzekering;
 
 Gezien de voordracht van Zorgverzekeraars Nederland van 2 juli 2013 (B-13-2394-avis1);
 
@@ -14,15 +14,15 @@ Besluit:
 
 In dit besluit wordt verstaan onder: 
 
-a.  *AWBZ:* [Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+a.  *AWBZ:* Algemene Wet Bijzondere Ziektekosten;  
 
-b.  *AWBZ-verzekerde:* degene die verzekerd is ingevolge de [AWBZ](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+b.  *AWBZ-verzekerde:* degene die verzekerd is ingevolge de AWBZ;  
 
-c.  *indicatiebesluit:* besluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md);  
+c.  *indicatiebesluit:* besluit als bedoeld in artikel 1, onderdeel d, van het Zorgindicatiebesluit;  
 
 d.  *AO/IC:* administratieve organisatie en interne controle;  
 
-e.  *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in [artikel 3 van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md).   
+e.  *zorgautoriteit:* Nederlandse Zorgautoriteit, genoemd in artikel 3 van de Wet marktordening gezondheidszorg.   
 
 ### Artikel  2  
 
@@ -37,17 +37,17 @@ a. een verbindingskantoor is aanspreekpunt voor AWBZ-verzekerden, zorgaanbieders
 
 b. een verbindingskantoor beschikt over een adequate cliëntvolgende bedrijfsadministratie voor zorg in natura intramuraal en extramuraal waarin een verband ligt tussen de indicatiebesluiten van AWBZ-verzekerden, de geleverde zorg en de betalingen van zorgaanbieders;  
 
-c. een verbindingskantoor beschikt over een adequate cliëntvolgende bedrijfsadministratie voor het persoonsgebonden budget, die is afgestemd op de op grond van [artikel 44 van de AWBZ](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) vastgestelde regels voor het persoonsgebonden budget;  
+c. een verbindingskantoor beschikt over een adequate cliëntvolgende bedrijfsadministratie voor het persoonsgebonden budget, die is afgestemd op de op grond van artikel 44 van de AWBZ vastgestelde regels voor het persoonsgebonden budget;  
 
-d. een verbindingskantoor voert op grond van de door de zorgautoriteit, in overeenstemming met het Zorginstituut, opgestelde regels als bedoeld in [artikelen 31](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [36, derde lid, van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md), formele en materiële controle uit, waarbij de informatieopvraag wordt opgesteld op basis van risicoanalyses in samenhang met de toepassing van de landelijk geldende AO/IC-regeling. Een verbindingskantoor voert op grond van het door het Zorginstituut opgestelde controleprotocol controles uit op het verstrekte persoonsgebonden budget;  
+d. een verbindingskantoor voert op grond van de door de zorgautoriteit, in overeenstemming met het Zorginstituut, opgestelde regels als bedoeld in artikelen 31 en 36, derde lid, van de Wet marktordening gezondheidszorg, formele en materiële controle uit, waarbij de informatieopvraag wordt opgesteld op basis van risicoanalyses in samenhang met de toepassing van de landelijk geldende AO/IC-regeling. Een verbindingskantoor voert op grond van het door het Zorginstituut opgestelde controleprotocol controles uit op het verstrekte persoonsgebonden budget;  
 
-e. een verbindingskantoor draagt zorg voor een adequate bestrijding van en informatievoorziening over misbruik en oneigenlijk gebruik in de [AWBZ](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+e. een verbindingskantoor draagt zorg voor een adequate bestrijding van en informatievoorziening over misbruik en oneigenlijk gebruik in de AWBZ;  
 
 f. een verbindingskantoor volgt op basis van de bestaande informatie van de zorgaanbieders de financiële positie van die zorgaanbieders en neemt, indien nodig, actie met het oog op gewenste continuïteit van zorgverlening aan cliënten;  
 
-g. een verbindingskantoor voert voor de [AWBZ](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) een landelijk uniforme wachtlijstregistratie uit en levert aan het Zorginstituut periodiek betrouwbare informatie over eventuele fricties tussen geïndiceerde zorg en het beschikbare aanbod;  
+g. een verbindingskantoor voert voor de AWBZ een landelijk uniforme wachtlijstregistratie uit en levert aan het Zorginstituut periodiek betrouwbare informatie over eventuele fricties tussen geïndiceerde zorg en het beschikbare aanbod;  
 
-h. een verbindingskantoor komt op grond van de [Regeling verslaglegging AWBZ](../../../../../../../ministeriele-regeling/regeling/verslaglegging/awbz/BWBR0020601/README.md) tot jaarlijkse verantwoording over de uitvoering van de [AWBZ](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) aan de zorgautoriteit door een financieel verslag en een uitvoeringsverslag van de zorgverzekeraar voor de als verbindingskantoor uitgevoerde taken en alle taken die hem zijn opgedragen door de zorgverzekeraars in de mandaat- en volmachtovereenkomst, conform een door de zorgautoriteit aangegeven model.   
+h. een verbindingskantoor komt op grond van de Regeling verslaglegging AWBZ tot jaarlijkse verantwoording over de uitvoering van de AWBZ aan de zorgautoriteit door een financieel verslag en een uitvoeringsverslag van de zorgverzekeraar voor de als verbindingskantoor uitgevoerde taken en alle taken die hem zijn opgedragen door de zorgverzekeraars in de mandaat- en volmachtovereenkomst, conform een door de zorgautoriteit aangegeven model.   
 
 ### Artikel  4  
 

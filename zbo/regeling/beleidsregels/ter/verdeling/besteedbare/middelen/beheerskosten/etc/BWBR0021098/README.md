@@ -3,7 +3,7 @@
 ##Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten verbindingskantoren AWBZ 2006
 
 Het College voor zorgverzekeringen,  
-Gelet op [artikel 5, tweede lid van het Besluit financiering uitvoeringsorganisatie Bijzondere Ziektekostenverzekering](../../../../../../../../../../AMvB/besluit/financiering/uitvoeringsorganisatie/bijzondere/etc/BWBR0004783/README.md) en de [Regeling besteedbare middelen beheerskosten AWBZ 2006](../../../../../../../../../../ministeriele-regeling/regeling/besteedbare/middelen/beheerskosten/awbz/2006/BWBR0019393/README.md);
+Gelet op artikel 5, tweede lid van het Besluit financiering uitvoeringsorganisatie Bijzondere Ziektekostenverzekering en de Regeling besteedbare middelen beheerskosten AWBZ 2006;
 Heeft in zijn vergadering van 22 december 2005 besloten:    
 
 ### Artikel  1  
@@ -11,15 +11,15 @@ Materieel uitgewerkt per 28-01-2008
 
 Deze regeling verstaat onder: 
 
-a. regio: regio ingevolge de [Wet toelating zorginstellingen](../../../../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md), met uitzondering van de desbetreffende regio’s Amsterdam, Rijnmond en Stedendriehoek. De deelregio’s waarin de regio’s Amsterdam, Rijnmond en Stedendriehoek voor de aanwijzing van verbindingskantoren zijn opgedeeld, worden voor de toepassing van deze regeling met een regio gelijkgesteld;  
+a. regio: regio ingevolge de Wet toelating zorginstellingen, met uitzondering van de desbetreffende regio’s Amsterdam, Rijnmond en Stedendriehoek. De deelregio’s waarin de regio’s Amsterdam, Rijnmond en Stedendriehoek voor de aanwijzing van verbindingskantoren zijn opgedeeld, worden voor de toepassing van deze regeling met een regio gelijkgesteld;  
 
-b. budgethouder: houder van een persoonsgebonden budget krachtens de [subsidieparagraaf 2.6 van de Regeling subsidies AWBZ;](../../../../../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md)  
+b. budgethouder: houder van een persoonsgebonden budget krachtens de subsidieparagraaf 2.6 van de Regeling subsidies AWBZ;  
 
-c. bijdrageplichtige intramuraal: een verzekerde die ingevolge de tweede en derde paragraaf van [hoofdstuk II van het Bijdragebesluit zorg](../../../../../../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) een inkomensafhankelijke bijdrage verschuldigd is;  
+c. bijdrageplichtige intramuraal: een verzekerde die ingevolge de tweede en derde paragraaf van hoofdstuk II van het Bijdragebesluit zorg een inkomensafhankelijke bijdrage verschuldigd is;  
 
-d. zorgverzekeraar: een zorgverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel b van de AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+d. zorgverzekeraar: een zorgverzekeraar als bedoeld in artikel 1, eerste lid, onderdeel b van de AWBZ;  
 
-e. verbindingskantoor: een verbindingskantoor als bedoeld in het [Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md).   
+e. verbindingskantoor: een verbindingskantoor als bedoeld in het Administratiebesluit Bijzondere Ziektekostenverzekering.   
 
 ### Artikel  2  
 Materieel uitgewerkt per 28-01-2008 
@@ -64,11 +64,11 @@ Materieel uitgewerkt per 28-01-2008
 
 a. € 3,666 miljoen naar rato van de in artikel 5, eerste lid, berekende bedragen per regio;  
 
-b. € 6,000 miljoen over verbindingskantoren met een negatieve reserve uitvoering [AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), die groter is dan 20 procent van hun nader vastgestelde budget beheerskosten AWBZ 2005. Het college verdeelt het bedrag van € 6,000 miljoen over de in de vorige volzin bedoelde verbindingskantoren tot maximaal het verschil tussen hun negatieve reserve uitvoering [AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) en 20 procent van hun budget beheerskosten AWBZ 2005. Indien de hiervoor bedoelde verhoging van de budgetten in totaliteit leidt tot een hoger bedrag dan het in de eerste volzin genoemde bedrag, verlaagt het college de verhoging van de budgetten met een voor alle verbindingskantoren gelijk percentage zodanig, dat geen overschrijding plaatsvindt.  
+b. € 6,000 miljoen over verbindingskantoren met een negatieve reserve uitvoering AWBZ, die groter is dan 20 procent van hun nader vastgestelde budget beheerskosten AWBZ 2005. Het college verdeelt het bedrag van € 6,000 miljoen over de in de vorige volzin bedoelde verbindingskantoren tot maximaal het verschil tussen hun negatieve reserve uitvoering AWBZ en 20 procent van hun budget beheerskosten AWBZ 2005. Indien de hiervoor bedoelde verhoging van de budgetten in totaliteit leidt tot een hoger bedrag dan het in de eerste volzin genoemde bedrag, verlaagt het college de verhoging van de budgetten met een voor alle verbindingskantoren gelijk percentage zodanig, dat geen overschrijding plaatsvindt.  
 
 c. € 0,140 miljoen over verbindingskantoren die, volgens opgave van Zorgverzekeraars Nederland, coördinerende activiteiten verrichten voor maatschappelijke opvang in de vier grote steden. Het college verdeelt het in de vorige volzin vermelde bedrag in een bedrag per verbindingskantoor, vermeerderd met eenzelfde bedrag per regio, waarvoor de betreffende verbindingskantoren zijn aangewezen.  
 
-d. € 0,250 miljoen over verbindingskantoren die, volgens opgave van Zorgverzekeraars Nederland, extra kosten hebben moeten maken in het kader van release 2.1 van de [AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) brede zorgregistratie om het bericht zorgtoewijzing op functieniveau gelijk te schakelen aan het bericht melding aanvang zorg.    
+d. € 0,250 miljoen over verbindingskantoren die, volgens opgave van Zorgverzekeraars Nederland, extra kosten hebben moeten maken in het kader van release 2.1 van de AWBZ brede zorgregistratie om het bericht zorgtoewijzing op functieniveau gelijk te schakelen aan het bericht melding aanvang zorg.    
 4.  Het college bepaalt de nadere budgetten per verbindingskantoor door de resultaten van het derde lid voor de regio’s waarvoor het verbindingskantoor is aangewezen, te sommeren met de in artikel 5, eerste lid, berekende bedragen per regio.   
 
 ### Artikel 6a  

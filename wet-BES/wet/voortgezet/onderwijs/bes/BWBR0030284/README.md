@@ -1796,7 +1796,7 @@ c. de statuten en het reglement van de rechtspersoon met volledige rechtsbevoegd
 
 ####Samenwerking met vavo
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het bevoegd gezag van een ingevolge artikel 112 aangewezen school kan leerlingen in de gelegenheid stellen in het kader van het onderwijs waarvoor zij aan de school zijn ingeschreven deel te nemen aan een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onder a, van de Wet educatie en beroepsonderwijs BES die is erkend op grond van artikel 1.4.2 van de Wet educatie en beroepsonderwijs BES, en die opleiding met een examen af te sluiten.   
 2.  Het eerste lid vindt uitsluitend toepassing met het doel leerlingen met bijzondere kenmerken beter in staat te stellen een diploma als bedoeld in deze wet te behalen.   

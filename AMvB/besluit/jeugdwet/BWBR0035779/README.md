@@ -917,6 +917,17 @@ c. over wijze waarop gegevens ter beschikking worden gesteld van de organen geno
 
 d. die door die instanties, bedoeld in het eerste lid, in acht worden genomen.    
 
+### §  8.3  
+
+####Overige bepalingen
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  8.3  
+Treedt in werking per 01-01-2015 
+
+Bij regeling van Onze Ministers kunnen regels worden gesteld over de uitvoering van de taak, bedoeld in artikel 8.1.8, eerste lid, van de wet door de Sociale verzekeringsbank, genoemd in artikel 3 van de Wet structuur uitvoeringsorganisatie werk en inkomen. 
+
 ### Hoofdstuk  9  
 
 ####Wijziging in andere algemene maatregelen van bestuur

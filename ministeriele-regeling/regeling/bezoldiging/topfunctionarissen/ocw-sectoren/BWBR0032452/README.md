@@ -29,6 +29,8 @@ In deze regeling wordt verstaan onder:
 
 *topfunctionarissen in het voortgezet onderwijs:* de topfunctionarissen van de instellingen onder de nummers 7 en 9, genoemd in bijlage 1 van de wet onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’;  
 
+*topfunctionarissen in het wetenschappelijk onderwijs:* de topfunctionarissen van de instellingen onder nummer 17, genoemd in bijlage 1 van de wet onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’, en nummer 3 onder het opschrift ‘Ministerie van Economische Zaken’ met uitzondering van de instellingen, genoemd in de onderdelen c en g van de bijlage behorende bij artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek; 
+
 *topfunctionarissen van de cultuurfondsen:* de topfunctionarissen van een rechtspersoon, bedoeld in artikel 1.3, eerste lid, onder a, van de wet, voor zover het betreft een fonds als bedoeld in artikel 1, eerste lid, onderdeel c, van de Wet op het specifiek cultuurbeleid; 
 
 *topfunctionarissen van hogescholen:* de topfunctionarissen van de instellingen onder nummer 17, genoemd in bijlage 1 van de wet onder het opschrift ‘Ministerie van Onderwijs, Cultuur en Wetenschap’, en nummer 3 onder het opschrift ‘Ministerie van Economische Zaken’ met uitzondering van de instellingen, genoemd in de onderdelen a, b, h en i van de bijlage behorende bij artikel 1.8, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
@@ -47,9 +49,9 @@ Deze paragraaf is van toepassing op de topfunctionarissen in het onderwijs.
 
 ### Artikel  3  
 
-####Verlaagde bezoldigingsmaxima topfunctionarissen in het onderwijs
+####Bezoldigingsmaxima topfunctionarissen in het onderwijs
 
-In afwijking van artikel 2.3, eerste lid, van de wet komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan: 
+1. In afwijking van artikel 2.3, eerste lid, van de wet komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan: 
 
 a. € 165.901 voor de topfunctionarissen in het primair onderwijs;  
 
@@ -57,7 +59,8 @@ b. € 184.448 voor de topfunctionarissen in het voortgezet onderwijs;
 
 c. € 199.905 voor de topfunctionarissen in het beroepsonderwijs en educatie; en  
 
-d. € 199.905 voor de topfunctionarissen van de hogescholen.   
+d. € 199.905 voor de topfunctionarissen van de hogescholen.    
+2.  Voor de topfunctionarissen in het wetenschappelijk onderwijs komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan het bezoldigingsmaximum, bedoeld in artikel 2.3 van de wet. 
 
 ### Artikel  4  
 

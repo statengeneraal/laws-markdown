@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Onze Minister van Justitie, van 8 juli 1997, nr. 640008/97/6; 
 
-Gelet op [artikel 89 van de Grondwet](../../../../wet/grondwet/BWBR0001840/README.md), [artikel 13 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) en voorts de [artikelen 3, vijfde lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [4, tweede lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [7, vierde lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [32, tweede lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [41, vierde lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [42, vijfde lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [45, derde lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [59](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [61, vierde lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [65, tweede lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [67, vierde lid, van de Penitentiaire beginselenwet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) en [artikel 40, vierde lid, van de Beginselenwet verpleging ter beschikking gestelden](../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md); 
+Gelet op artikel 89 van de Grondwet, artikel 13 van het Wetboek van Strafrecht en voorts de artikelen 3, vijfde lid, 4, tweede lid, 7, vierde lid, 32, tweede lid, 41, vierde lid, 42, vijfde lid, 45, derde lid, 59, 61, vierde lid, 65, tweede lid, 67, vierde lid, van de Penitentiaire beginselenwet en artikel 40, vierde lid, van de Beginselenwet verpleging ter beschikking gestelden; 
 
 Gezien de adviezen van de Centrale Raad voor Strafrechtstoepassing van 11 november 1996, nr. RA/98/96, 25 maart 1997, nr. RA 20/97 en 6 juni 1997, nr. 631365/97, en het advies van de Registratiekamer van 23 oktober 1996, nr. 96.A.495/1; 
 
@@ -22,9 +22,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder:  
 
-a. de wet: de [Penitentiaire beginselenwet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);   
+a. de wet: de Penitentiaire beginselenwet;   
 
-b. reclassering: een reclasseringsinstelling als bedoeld in [artikel 1, onder b, van de Reclasseringsregeling 1995](../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md);   
+b. reclassering: een reclasseringsinstelling als bedoeld in artikel 1, onder b, van de Reclasseringsregeling 1995;   
 
 c. executie-indicator: de aantekening van het openbaar ministerie bij het aanbieden van een vonnis ter executie aan Onze Minister waarin wordt aangegeven dat het openbaar ministerie wil adviseren over te nemen besluiten inzake de verschillende vormen van te verlenen vrijheden aan de betreffende gedetineerde.    
 
@@ -41,8 +41,8 @@ c. executie-indicator: de aantekening van het openbaar ministerie bij het aanbie
 ### Artikel  3  
 
 1.  Het dagprogramma voor een inrichting of afdeling wordt bepaald in de huisregels en beslaat de periode tussen uitsluiting van de gedetineerden in de ochtend en de insluiting van de gedetineerden voor de nacht.    
-2.  In het regime van algehele gemeenschap, bedoeld in [artikel 20 van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), duurt het dagprogramma minimaal 59 uren per week en worden daarin tussen 18 uren en 63 uren per week aan activiteiten en bezoek geboden.   
-3.  In het regime van beperkte gemeenschap, bedoeld in [artikel 21 van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), worden tussen 18 uren en 63 uren per week aan activiteiten en bezoek geboden.   
+2.  In het regime van algehele gemeenschap, bedoeld in artikel 20 van de wet, duurt het dagprogramma minimaal 59 uren per week en worden daarin tussen 18 uren en 63 uren per week aan activiteiten en bezoek geboden.   
+3.  In het regime van beperkte gemeenschap, bedoeld in artikel 21 van de wet, worden tussen 18 uren en 63 uren per week aan activiteiten en bezoek geboden.   
 4.  Onze Minister stelt nadere regels omtrent de verschillende regimes die in de daarbij aangeduide inrichtingen gelden.   
 
 ### Hoofdstuk  3  
@@ -128,7 +128,7 @@ c. het adviseren van de selectiefunctionaris de deelname aan het penitentiair pr
 ### Artikel  10  
 
 1.  De deelnemer aan een penitentiair programma kan bij de beklagcommissie bij de inrichting of afdeling waarin hij is ingeschreven een klacht indienen over de beslissingen, bedoeld in artikel 9, tweede lid, onder a en b.    
-2.   De [artikelen 60, tweede en derde lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [61](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [62](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [63](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [64](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [65](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [67, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [68](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [69](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [70](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) en [71 van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) zijn van overeenkomstige toepassing.   
+2.   De artikelen 60, tweede en derde lid, 61, 62, 63, 64, 65, 67, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid, 68, 69, 70 en 71 van de wet zijn van overeenkomstige toepassing.   
 
 ### Hoofdstuk  4  
 
@@ -147,7 +147,7 @@ b. een advocaat;
 c. een medicus;   
 
 d. een deskundige uit de kring van het maatschappelijk werk.     
-4.  Indien de commissie toezicht houdt op een inrichting of afdeling waar geneeskundige behandeling als bedoeld in de [artikelen 46a tot en met 46e van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) wordt verricht, maakt ook een psychiater van de commissie deel uit.  
+4.  Indien de commissie toezicht houdt op een inrichting of afdeling waar geneeskundige behandeling als bedoeld in de artikelen 46a tot en met 46e van de wet wordt verricht, maakt ook een psychiater van de commissie deel uit.  
 
 ### Artikel  12  
 
@@ -168,7 +168,7 @@ c. personen, werkzaam bij een door Onze Minister gesubsidieerde instelling die w
 
 d. personen, werkzaam onder de verantwoordelijkheid van Onze Minister, indien hun onafhankelijkheid of onpartijdigheid hetzij door hun positie, hetzij door de aard van hun werkzaamheden in het geding zou kunnen komen;   
 
-e. personen tegen wie bezwaren bestaan tegen de vervulling van de functie die blijken uit de algemene documentatieregisters als bedoeld in het [Besluit justitiële gegevens](../../../../AMvB/besluit/justitiële/gegevens/BWBR0016544/README.md) of de politiegegevens, bedoeld in [artikel 1, onderdeel a, van de Wet politiegegevens](../../../../wet/wet/politiegegevens/BWBR0022463/README.md). De bezwaren hebben betrekking op het vertrouwelijk karakter van de functie alsmede de aan de functie verbonden bevoegdheden.    
+e. personen tegen wie bezwaren bestaan tegen de vervulling van de functie die blijken uit de algemene documentatieregisters als bedoeld in het Besluit justitiële gegevens of de politiegegevens, bedoeld in artikel 1, onderdeel a, van de Wet politiegegevens. De bezwaren hebben betrekking op het vertrouwelijk karakter van de functie alsmede de aan de functie verbonden bevoegdheden.    
 
 ### Artikel  14  
 
@@ -200,12 +200,12 @@ d. wanneer hij naar het oordeel van Onze Minister door handelen of nalaten ernst
 
 ### Artikel  17  
 
-1.  De maandcommissaris, bedoeld in [artikel 7, derde lid, tweede volzin, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) houdt tenminste eenmaal per maand in de inrichting of afdeling spreekuur. Dit spreekuur wordt tijdig bekend gemaakt en kan worden bezocht door elke gedetineerde of deelnemer aan een penitentiair programma die de wens daartoe te kennen geeft.    
+1.  De maandcommissaris, bedoeld in artikel 7, derde lid, tweede volzin, van de wet houdt tenminste eenmaal per maand in de inrichting of afdeling spreekuur. Dit spreekuur wordt tijdig bekend gemaakt en kan worden bezocht door elke gedetineerde of deelnemer aan een penitentiair programma die de wens daartoe te kennen geeft.    
 2.  De maandcommissaris doet van zijn werkzaamheden verslag aan de commissie van toezicht en informeert tevens de directeur hiervan.   
 
 ### Artikel  18  
 
-1.  De beklagcommissie, of, indien [artikel 62, tweede lid, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) wordt toegepast, de voorzitter dan wel de door hem aangewezen persoon, houdt zitting zo dikwijls als een onverwijlde behandeling en afdoening van de klaagschriften dit noodzakelijk maken. Deze wordt bijgestaan door een secretaris.    
+1.  De beklagcommissie, of, indien artikel 62, tweede lid, van de wet wordt toegepast, de voorzitter dan wel de door hem aangewezen persoon, houdt zitting zo dikwijls als een onverwijlde behandeling en afdoening van de klaagschriften dit noodzakelijk maken. Deze wordt bijgestaan door een secretaris.    
 2.  Indien de beklagcommissie zitting houdt treedt bij voorkeur als voorzitter op een met rechtspraak belast lid van de rechterlijke macht.   
 
 ### Artikel  19  
@@ -227,24 +227,24 @@ d. wanneer hij naar het oordeel van Onze Minister door handelen of nalaten ernst
 
 In dit hoofdstuk wordt verstaan onder: 
 
-a.  *a-dwangbehandeling:* een onvrijwillige geneeskundige behandeling als bedoeld in [artikel 46d, onder a, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
+a.  *a-dwangbehandeling:* een onvrijwillige geneeskundige behandeling als bedoeld in artikel 46d, onder a, van de wet;  
 
-b.  *b-dwangbehandeling:* een onvrijwillige geneeskundige behandeling als bedoeld in [artikel 46d, onder b, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
+b.  *b-dwangbehandeling:* een onvrijwillige geneeskundige behandeling als bedoeld in artikel 46d, onder b, van de wet;  
 
-c.  *gedwongen geneeskundige handeling:* de gedwongen geneeskundige handeling, bedoeld in [artikel 32 van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
+c.  *gedwongen geneeskundige handeling:* de gedwongen geneeskundige handeling, bedoeld in artikel 32 van de wet;  
 
-d.  *geneeskundige behandeling:* de onvrijwillige geneeskundige behandelingen, bedoeld in de onderdelen a tot en met c, en de vrijwillige geneeskundige behandeling, bedoeld in [artikel 46c van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
+d.  *geneeskundige behandeling:* de onvrijwillige geneeskundige behandelingen, bedoeld in de onderdelen a tot en met c, en de vrijwillige geneeskundige behandeling, bedoeld in artikel 46c van de wet;  
 
-e.  *geneeskundig behandelingsplan:* het geneeskundig behandelingsplan, bedoeld in [artikel 46b van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);  
+e.  *geneeskundig behandelingsplan:* het geneeskundig behandelingsplan, bedoeld in artikel 46b van de wet;  
 
-f.  *inspecteur:* de inspecteur, bedoeld in [artikel 1, onder c, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen](../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md);  
+f.  *inspecteur:* de inspecteur, bedoeld in artikel 1, onder c, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen;  
 
-g.  *voorzetting van a-dwangbehandeling:* de voortzetting van a-dwangbehandeling, bedoeld in [artikel 46e, vijfde lid, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md).   
+g.  *voorzetting van a-dwangbehandeling:* de voortzetting van a-dwangbehandeling, bedoeld in artikel 46e, vijfde lid, van de wet.   
 
 ### Artikel  21a  
 
 1.  Een geneeskundige behandeling wordt verricht in een daartoe geschikte ruimte, onder verantwoordelijkheid van de behandelend arts.   
-2.  In een inrichting of op een afdeling als bedoeld in [artikel 14, vierde lid, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) is vierentwintig uur per dag, zeven dagen per week, voldoende psychiatrisch geschoold verpleegkundig personeel aanwezig. Bovendien is vierentwintig uur per dag, zeven dagen per week, een psychiater beschikbaar.   
+2.  In een inrichting of op een afdeling als bedoeld in artikel 14, vierde lid, van de wet is vierentwintig uur per dag, zeven dagen per week, voldoende psychiatrisch geschoold verpleegkundig personeel aanwezig. Bovendien is vierentwintig uur per dag, zeven dagen per week, een psychiater beschikbaar.   
 3.  Een geneeskundige behandeling wordt slechts uitgevoerd door een arts of verpleegkundige die over voldoende deskundigheid beschikt deze behandeling uit te voeren en indien daartoe voldoende voorzieningen beschikbaar zijn.   
 4.  Eens per twee weken, of vaker indien het belang van de gedetineerde dit eist, vindt een multidisciplinair overleg plaats, waaraan in ieder geval een psychiater, een arts, een psycholoog en een verpleegkundige deelnemen. De resultaten van het overleg alsmede de afspraken die daarbij zijn gemaakt worden geregistreerd in het medische dossier.  
 
@@ -254,7 +254,7 @@ g.  *voorzetting van a-dwangbehandeling:* de voortzetting van a-dwangbehandeling
 
 a. de diagnose van de stoornis van de geestvermogens van de gedetineerde;  
 
-b. de therapeutische middelen, zo mogelijk gerelateerd aan de verschillende aspecten die in de stoornis te onderscheiden zijn, die zullen worden toegepast teneinde een zodanige verbetering van de stoornis van de geestvermogens van de gedetineerde te bereiken, dat het gevaar op grond waarvan deze in verband met zijn geestelijke gezondheidstoestand in een daartoe krachtens [artikel 14 van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) aangewezen afdeling of inrichting behoeft te verblijven, wordt weggenomen;  
+b. de therapeutische middelen, zo mogelijk gerelateerd aan de verschillende aspecten die in de stoornis te onderscheiden zijn, die zullen worden toegepast teneinde een zodanige verbetering van de stoornis van de geestvermogens van de gedetineerde te bereiken, dat het gevaar op grond waarvan deze in verband met zijn geestelijke gezondheidstoestand in een daartoe krachtens artikel 14 van de wet aangewezen afdeling of inrichting behoeft te verblijven, wordt weggenomen;  
 
 c. of er overeenstemming over het geneeskundig behandelingsplan is.     
 2.  Gedurende de behandeling, kan het geneeskundig behandelingsplan worden gewijzigd. Bij een wijziging worden de uitkomsten van het multidisciplinair overleg, bedoeld in artikel 21a, vierde lid, betrokken.   
@@ -268,7 +268,7 @@ a. welke minder bezwarende middelen zijn aangewend om het gevaar dat de stoornis
 
 b. de wijze waarop rekening wordt gehouden met de voorkeuren van de gedetineerde ten aanzien van de behandeling.     
 2.  Het deel van het geneeskundig behandelingsplan waarover geen overeenstemming kan worden bereikt met de gedetineerde dan wel diens curator of mentor, wordt slechts vastgesteld door een psychiater nadat een multidisciplinair overleg heeft plaatsgehad waaraan in ieder geval een psychiater, een arts, een psycholoog en een verpleegkundige hebben deelgenomen.   
-3.  Ingeval van a-dwangbehandeling worden de verklaringen van de psychiaters, bedoeld in [artikel 46e, tweede lid, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), bij het in het tweede lid bedoelde overleg betrokken.  
+3.  Ingeval van a-dwangbehandeling worden de verklaringen van de psychiaters, bedoeld in artikel 46e, tweede lid, van de wet, bij het in het tweede lid bedoelde overleg betrokken.  
 
 ### Artikel  22a  
 
@@ -303,12 +303,12 @@ a. in verband met welk gevaar is besloten tot een a- of b-dwangbehandeling, dan 
 
 b. welke minder bezwarende middelen zijn aangewend om het gevaar dat de gedetineerde doet veroorzaken weg te nemen dan wel af te wenden;  
 
-c. welke personen, bedoeld in [artikel 46c, onder c, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), zich tegen de behandeling verzetten;  
+c. welke personen, bedoeld in artikel 46c, onder c, van de wet, zich tegen de behandeling verzetten;  
 
 d. de wijze waarop rekening wordt gehouden met de voorkeuren van de gedetineerde ten aanzien van de behandeling; en  
 
-e. indien een behandeling plaatsvindt in een situatie waarin het de gedetineerde is die zich verzet, of deze in staat kan worden geacht gebruik te kunnen maken van de regeling, vervat in de [hoofdstukken XI–XII](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) respectievelijk [XIII van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md).     
-6.  Ingeval van een beslissing tot a-dwangbehandeling, b-dwangbehandeling en een beslissing tot voortzetting van a-dwangbehandeling, vermeldt de directeur tevens welke pogingen zijn gedaan om tot overeenstemming als bedoeld in [artikel 46c, onder b, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) te komen. Ingeval van een beslissing tot a-dwangbehandeling vermeldt hij bovendien welke bezwaren tegen de behandeling zijn aangevoerd door de personen, bedoeld in het eerste lid.   
+e. indien een behandeling plaatsvindt in een situatie waarin het de gedetineerde is die zich verzet, of deze in staat kan worden geacht gebruik te kunnen maken van de regeling, vervat in de hoofdstukken XI–XII respectievelijk XIII van de wet.     
+6.  Ingeval van een beslissing tot a-dwangbehandeling, b-dwangbehandeling en een beslissing tot voortzetting van a-dwangbehandeling, vermeldt de directeur tevens welke pogingen zijn gedaan om tot overeenstemming als bedoeld in artikel 46c, onder b, van de wet te komen. Ingeval van een beslissing tot a-dwangbehandeling vermeldt hij bovendien welke bezwaren tegen de behandeling zijn aangevoerd door de personen, bedoeld in het eerste lid.   
 7.  Van een beëindiging van een a-dwangbehandeling, b-dwangbehandeling of gedwongen geneeskundige handeling geeft de directeur kennis aan de personen, genoemd in het derde en – indien van toepassing – vierde lid.  
 
 ### Artikel  22f  
@@ -317,7 +317,7 @@ De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwa
 
 ### Artikel  22g  
 
-1.  De inspecteur stelt na beëindiging van elke a- of b-dwangbehandeling doch in ieder geval na afloop van de termijn, bedoeld in [artikel 46e, vierde lid, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), een onderzoek in of de beslissing tot de behandeling zorgvuldig is genomen en of de uitvoering van de behandeling zorgvuldig is geschied.   
+1.  De inspecteur stelt na beëindiging van elke a- of b-dwangbehandeling doch in ieder geval na afloop van de termijn, bedoeld in artikel 46e, vierde lid, van de wet, een onderzoek in of de beslissing tot de behandeling zorgvuldig is genomen en of de uitvoering van de behandeling zorgvuldig is geschied.   
 2.  De inspecteur stelt eveneens een onderzoek in na beëindiging van elke gedwongen geneeskundige handeling indien die handeling is verricht ter afwending van een gevaar dat voortvloeit uit de stoornis van de geestvermogens van de gedetineerde.  
 
 ### Artikel  23  
@@ -331,9 +331,9 @@ De verantwoordelijke arts draagt zorg dat de melding van de toepassing van a-dwa
 
 ### Artikel  23a  
 
-1.  Telefoongesprekken die in verband met het toezicht, bedoeld in [artikel 39, tweede lid, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) worden opgenomen, worden bewaard voor een periode van ten hoogste acht maanden.   
+1.  Telefoongesprekken die in verband met het toezicht, bedoeld in artikel 39, tweede lid, van de wet worden opgenomen, worden bewaard voor een periode van ten hoogste acht maanden.   
 2.  Na het verstrijken van de periode, genoemd in het eerste lid, wordt een opgenomen telefoongesprek gewist.   
-3.  Indien bij de uitoefening van het toezicht blijkt dat een telefoongesprek met een persoon als bedoeld in [artikel 37, eerste lid, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) is opgenomen, wordt dit opgenomen gesprek terstond gewist.   
+3.  Indien bij de uitoefening van het toezicht blijkt dat een telefoongesprek met een persoon als bedoeld in artikel 37, eerste lid, van de wet is opgenomen, wordt dit opgenomen gesprek terstond gewist.   
 4.  De gedetineerde wordt van het opnemen van het telefoonverkeer op de hoogte gesteld.   
 5.  Opgenomen telefoongesprekken worden slechts verstrekt aan derden die ingevolge de uitvoering van hen bij of krachtens de wet opgedragen taken, tot kennisneming daarvan bevoegd zijn.   
 6.  De verstrekking, bedoeld in het vijfde lid, kan slechts geschieden in verband met: 
@@ -417,7 +417,7 @@ b. enig ander dan onder a bedoeld handelen of nalaten in die hoedanigheid in str
 
 1.  De beroepscommissie doet zo spoedig mogelijk uitspraak. De uitspraak is met redenen omkleed en gedagtekend. Zij wordt door de voorzitter, alsmede door de secretaris ondertekend. Bij verhindering van één van hen wordt de reden daarvan in de uitspraak vermeld. Aan de klager en de arts wordt onverwijld en kosteloos een afschrift van de beslissing van de beroepscommissie toegezonden of uitgereikt.    
 2.  Indien de klager de Nederlandse taal niet voldoende beheerst en niet op andere wijze in een vertaling kan worden voorzien, draagt de voorzitter van de beroepscommissie zorg voor een vertaling van de uitspraak, bedoeld in het eerste lid. De vergoeding van de voor de vertaling gemaakte kosten geschiedt met overeenkomstige toepassing van artikel 45.    
-3.  De secretaris zendt van alle uitspraken van de beroepscommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de gedetineerde kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de [Wet tarieven in strafzaken](../../../../wet/wet/tarieven/in/strafzaken/BWBR0002406/README.md) bepaalde van overeenkomstige toepassing.   
+3.  De secretaris zendt van alle uitspraken van de beroepscommissie een afschrift naar Onze Minister. Een ieder heeft recht op kennisneming van deze uitspraken en het ontvangen van een afschrift daarvan. Onze Minister draagt zorg dat dit afschrift geen gegevens bevat waaruit de identiteit van de gedetineerde kan worden afgeleid. Met betrekking tot de kosten van het ontvangen van een afschrift is het bij of krachtens de Wet tarieven in strafzaken bepaalde van overeenkomstige toepassing.   
 
 ### Artikel  33  
 
@@ -515,7 +515,7 @@ j. samenvattingen van periodieke besprekingen over de gedetineerde in inrichting
 
 ### Artikel  40  
 
-1.  De directeur kan, in geval van weigering van inzage door de gedetineerde van diens dossier op een van de gronden van [artikel 43 van de Wet bescherming persoonsgegevens](../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), een door de gedetineerde gemachtigd lid van de commissie van toezicht doen kennis nemen van de gegevens waarvan de kennisneming aan de gedetineerde onthouden wordt. De [artikelen 57](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) en [58 van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) zijn van overeenkomstige toepassing.    
+1.  De directeur kan, in geval van weigering van inzage door de gedetineerde van diens dossier op een van de gronden van artikel 43 van de Wet bescherming persoonsgegevens, een door de gedetineerde gemachtigd lid van de commissie van toezicht doen kennis nemen van de gegevens waarvan de kennisneming aan de gedetineerde onthouden wordt. De artikelen 57 en 58 van de wet zijn van overeenkomstige toepassing.    
 2.  Aan Onze Minister en de door deze aan te wijzen ambtenaren of medewerkers kunnen gegevens uit het dossier worden verstrekt voor zover dat noodzakelijk is voor:  
 
 a. de behandeling van verzoeken de gedetineerde betreffende;  
@@ -532,9 +532,9 @@ d. de behandeling van overige beslissingen de gedetineerde betreffende.   Hetzel
 
 ### Artikel  41  
 
-1.  De beslissing tot plaatsing, bedoeld in [artikel 13](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) of [19 van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), geschiedt door Onze Minister.   
+1.  De beslissing tot plaatsing, bedoeld in artikel 13 of 19 van het Wetboek van Strafrecht, geschiedt door Onze Minister.   
 2.  Onze Minister kan beslissen dat het verblijf in de justitiële inrichting voor verpleging van ter beschikking gestelden wordt beëindigd. Het hoofd van de inrichting waarin de betrokkene is geplaatst, wordt hierover om advies gevraagd.   
-3.  Bij het voorstel tot plaatsing of beëindiging daarvan wordt het in [artikel 13, derde lid, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md) genoemde advies overgelegd.   
+3.  Bij het voorstel tot plaatsing of beëindiging daarvan wordt het in artikel 13, derde lid, van het Wetboek van Strafrecht genoemde advies overgelegd.   
 
 ### Artikel  42  
 
@@ -545,7 +545,7 @@ a. er dringende medische redenen aanwezig zijn die plaatsing op een eerder tijds
 
 b. de veroordeelde jonger is dan 23 jaar en plaatsing op een eerder tijdstip met het oog op zijn ontwikkeling noodzakelijk is;  
 
-c. het advies van de rechter, bedoeld in [artikel 37b, tweede lid, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), daartoe aanleiding geeft.    
+c. het advies van de rechter, bedoeld in artikel 37b, tweede lid, van het Wetboek van Strafrecht, daartoe aanleiding geeft.    
 
 ### Artikel  44  
 
@@ -554,7 +554,7 @@ c. het advies van de rechter, bedoeld in [artikel 37b, tweede lid, van het Wetbo
 
 ### Artikel  44a  
 
-Aan de gedetineerde wordt van de beslissing van Onze Minister tot plaatsing in een inrichting voor verpleging van ter beschikking gestelden en tot beëindiging van zijn verblijf in die inrichting onverwijld schriftelijk en zo veel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling gedaan. Daarbij wordt de gedetineerde gewezen op de mogelijkheid van het instellen van beroep, bedoeld in [hoofdstuk XVI van de Beginselenwet verpleging ter beschikking gestelden](../../../../wet/beginselenwet/verpleging/ter/beschikking/gestelden/BWBR0008765/README.md), en de wijze waarop en de termijn waarbinnen dit dient te geschieden. 
+Aan de gedetineerde wordt van de beslissing van Onze Minister tot plaatsing in een inrichting voor verpleging van ter beschikking gestelden en tot beëindiging van zijn verblijf in die inrichting onverwijld schriftelijk en zo veel mogelijk in een voor hem begrijpelijke taal een met redenen omklede, gedagtekende en ondertekende mededeling gedaan. Daarbij wordt de gedetineerde gewezen op de mogelijkheid van het instellen van beroep, bedoeld in hoofdstuk XVI van de Beginselenwet verpleging ter beschikking gestelden, en de wijze waarop en de termijn waarbinnen dit dient te geschieden. 
 
 ###Hoofdstuk 9A 
 
@@ -564,17 +564,17 @@ Aan de gedetineerde wordt van de beslissing van Onze Minister tot plaatsing in e
 
 In dit hoofdstuk wordt verstaan onder:
 
-a.maatregel: plaatsing in een inrichting voor stelselmatige daders als bedoeld in [artikel 38m van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);
+a.maatregel: plaatsing in een inrichting voor stelselmatige daders als bedoeld in artikel 38m van het Wetboek van Strafrecht;
 
-b.inrichting: inrichting voor stelselmatige daders als bedoeld in [artikel 10a van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);
+b.inrichting: inrichting voor stelselmatige daders als bedoeld in artikel 10a van de wet;
 
 c.betrokkene: persoon aan wie de maatregel is opgelegd tot plaatsing in een inrichting voor stelselmatige daders;
 
-d.college van burgemeester en wethouders: college van burgemeester en wethouders van de gemeente die deelneemt aan de tenuitvoerlegging van de maatregel, als bedoeld in [artikel 38o, derde lid, van het Wetboek van Strafrecht](../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md);
+d.college van burgemeester en wethouders: college van burgemeester en wethouders van de gemeente die deelneemt aan de tenuitvoerlegging van de maatregel, als bedoeld in artikel 38o, derde lid, van het Wetboek van Strafrecht;
 
-e.verblijfsplan: verblijfsplan als bedoeld in [artikel 18a, eerste lid, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md);
+e.verblijfsplan: verblijfsplan als bedoeld in artikel 18a, eerste lid, van de wet;
 
-f.evaluatie: evaluatie als bedoeld in [artikel 18c van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md). 
+f.evaluatie: evaluatie als bedoeld in artikel 18c van de wet. 
 
 ### Artikel  44c  
 
@@ -609,7 +609,7 @@ c.dagbesteding van de betrokkene.
 
 ### Artikel  44h  
 
-1. Het verblijfsplan kan worden gewijzigd. Bij een wijziging wordt het evaluatieverslag, bedoeld in [artikel 18c, derde lid, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), betrokken.
+1. Het verblijfsplan kan worden gewijzigd. Bij een wijziging wordt het evaluatieverslag, bedoeld in artikel 18c, derde lid, van de wet, betrokken.
 2. Een wijziging in het verblijfsplan wordt zo veel mogelijk in overleg met betrokkene vastgesteld. De wijziging wordt hem voor het ingaan daarvan meegedeeld.
 3. Artikel 44g is van overeenkomstige toepassing.
 
@@ -680,15 +680,15 @@ b.hij doet tevoren melding aan de trajectcoördinator van een verandering van be
 
 c.hij maakt zich niet schuldig aan een strafbaar feit;
 
-d.hij onthoudt zich van het gebruik van een middel, vermeld op de bij de [Opiumwet behorende lijst I](../../../../wet/opiumwet/BWBR0001941/README.md). 
+d.hij onthoudt zich van het gebruik van een middel, vermeld op de bij de Opiumwet behorende lijst I. 
 4. Van het stellen van bijzondere voorwaarden doet de directeur mededeling aan de selectiefunctionaris.
-5. Betrokkene heeft het recht bij de selectiefunctionaris een met redenen omkleed verzoekschrift in te dienen strekkende tot plaatsing buiten de inrichting in de laatste fase. [Artikel 18, tweede en derde lid, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) is van overeenkomstige toepassing.
+5. Betrokkene heeft het recht bij de selectiefunctionaris een met redenen omkleed verzoekschrift in te dienen strekkende tot plaatsing buiten de inrichting in de laatste fase. Artikel 18, tweede en derde lid, van de wet is van overeenkomstige toepassing.
 
 ### Artikel  44m  
 
 1. Indien betrokkene niet of niet meer in staat of bereid is deel te nemen aan het programma in de laatste fase buiten de inrichting dan wel te voldoen aan de daaraan verbonden voorwaarden, kan de selectiefunctionaris hem op de grondslag van een advies van de directeur terugplaatsen in de inrichting.
 2. Alvorens te adviseren aan de selectiefunctionaris wint de directeur het oordeel van het college van burgemeester en wethouders- en de trajectcoördinator in.
-3. Betrokkene heeft het recht een met redenen omkleed bezwaarschrift in te dienen tegen de beslissing, bedoeld in het eerste lid. [Artikel 17, tweede tot en met vijfde lid, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) is van overeenkomstige toepassing.
+3. Betrokkene heeft het recht een met redenen omkleed bezwaarschrift in te dienen tegen de beslissing, bedoeld in het eerste lid. Artikel 17, tweede tot en met vijfde lid, van de wet is van overeenkomstige toepassing.
 
 ### Artikel  44n  
 
@@ -706,7 +706,7 @@ De artikelen 15, eerste en tweede lid, en 17, eerste lid, zijn van overeenkomsti
 ### Artikel  44p  
 
 1. Betrokkene kan bij de beklagcommissie beklag doen over een beslissing als bedoeld in artikel 44n, eerste lid.
-2. De [artikelen 60, tweede en derde lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [61 tot en met 65](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [67, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), en [68 tot en met 71 van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) zijn van overeenkomstige toepassing. 
+2. De artikelen 60, tweede en derde lid, 61 tot en met 65, 67, met uitzondering van het derde lid, het vijfde lid, tweede volzin, en het zesde lid, en 68 tot en met 71 van de wet zijn van overeenkomstige toepassing. 
 
 ### Artikel  44q  
 
@@ -732,7 +732,7 @@ f.punten die van belang zijn voor de nazorg.
 
 ### Artikel  45  
 
-1.  De beloning van de tolk of de vertaler en de vergoeding van de door hen gemaakte kosten, bedoeld in [artikel 61, vierde lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), [65, tweede lid](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md), en [67, vierde lid, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) geschieden volgens het bepaalde bij of krachtens de [Wet tarieven in strafzaken](../../../../wet/wet/tarieven/in/strafzaken/BWBR0002406/README.md).    
+1.  De beloning van de tolk of de vertaler en de vergoeding van de door hen gemaakte kosten, bedoeld in artikel 61, vierde lid, 65, tweede lid, en 67, vierde lid, van de wet geschieden volgens het bepaalde bij of krachtens de Wet tarieven in strafzaken.    
 2.  De secretaris van de beklag- of beroepscommissie stelt op basis van de in het eerste lid bedoelde bepalingen de hoogte van de beloning en vergoeding vast. Met de uitbetaling is de directeur belast.   
 
 ### Hoofdstuk  11  
@@ -745,7 +745,7 @@ De gedetineerde ontvangt bij invrijheidstelling reisgeld voor een reis of reisge
 
 ### Artikel  47  
 
-Onverminderd het bepaalde bij of krachtens de [Algemene Wet Bijzondere Ziektekosten](../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) komen ten laste van de Staat de kosten van geneeskundige verzorging van de gedetineerde die in een inrichting gevangenisstraf of hechtenis ondergaat.  
+Onverminderd het bepaalde bij of krachtens de Algemene Wet Bijzondere Ziektekosten komen ten laste van de Staat de kosten van geneeskundige verzorging van de gedetineerde die in een inrichting gevangenisstraf of hechtenis ondergaat.  
 
 ### Artikel  48  
 
@@ -753,7 +753,7 @@ Bij overlijden van een gedetineerde komen de kosten van begrafenis of crematie, 
 
 ### Artikel  49  
 
-Buiten geval van opzet of bewuste roekeloosheid is de aansprakelijkheid van de directeur voor voorwerpen die een gedetineerde ingevolge [artikel 45, tweede lid, van de wet](../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) onder zich heeft, beperkt tot € 500 per voorwerp, inclusief eventuele gevolgschade.  
+Buiten geval van opzet of bewuste roekeloosheid is de aansprakelijkheid van de directeur voor voorwerpen die een gedetineerde ingevolge artikel 45, tweede lid, van de wet onder zich heeft, beperkt tot € 500 per voorwerp, inclusief eventuele gevolgschade.  
 
 ### Hoofdstuk  12  
 

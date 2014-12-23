@@ -3,7 +3,7 @@
 ##Regeling beleidsregels ter verdeling besteedbare middelen beheerskosten zorgverzekeraars AWBZ 2006
 
 Het College voor zorgverzekeringen,  
-Gelet op [artikel 4, tweede lid van het Besluit financiering uitvoeringsorganisatie Bijzondere Ziektekostenverzekering](../../../../../../../../../../AMvB/besluit/financiering/uitvoeringsorganisatie/bijzondere/etc/BWBR0004783/README.md) en gelet op de [Regeling besteedbare middelen beheerskosten AWBZ 2006](../../../../../../../../../../ministeriele-regeling/regeling/besteedbare/middelen/beheerskosten/awbz/2006/BWBR0019393/README.md);
+Gelet op artikel 4, tweede lid van het Besluit financiering uitvoeringsorganisatie Bijzondere Ziektekostenverzekering en gelet op de Regeling besteedbare middelen beheerskosten AWBZ 2006;
 Heeft in zijn vergadering van 22 december 2005 besloten:    
 
 ### Artikel  1  
@@ -11,9 +11,9 @@ Materieel uitgewerkt per 28-01-2008
 
 Deze regeling verstaat onder: 
 
-a. zorgverzekeraar: een zorgverzekeraar als bedoeld in [artikel 1, eerste lid, onderdeel b van de AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+a. zorgverzekeraar: een zorgverzekeraar als bedoeld in artikel 1, eerste lid, onderdeel b van de AWBZ;  
 
-b. verbindingskantoor: een verbindingskantoor als bedoeld in het [Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md).   
+b. verbindingskantoor: een verbindingskantoor als bedoeld in het Administratiebesluit Bijzondere Ziektekostenverzekering.   
 
 ### Artikel  2  
 Materieel uitgewerkt per 28-01-2008 
@@ -22,9 +22,9 @@ Ter bepaling van de middelen die voor iedere zorgverzekeraar afzonderlijk voor h
 
 a. voor de vaststelling van de budgetten gaat het college uit van een totaalbedrag van 3,420 miljoen euro;  
 
-b. eenderde deel van het bedrag, bedoeld in onderdeel a, welk deel geacht wordt betrekking te hebben op de op verzekerden gerichte administratiedelen, verdeelt het college over de zorgverzekeraars op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+b. eenderde deel van het bedrag, bedoeld in onderdeel a, welk deel geacht wordt betrekking te hebben op de op verzekerden gerichte administratiedelen, verdeelt het college over de zorgverzekeraars op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de AWBZ;  
 
-c. het resterende tweederde deel van het bedrag, bedoeld in onderdeel a, welk deel geacht wordt betrekking te hebben op de op de zorg gerichte administratiedelen, verdeelt het college over de zorgverzekeraars op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de [AWBZ](../../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md). Daarbij tellen verzekerden van vijfenzestig jaar en ouder dubbel.  
+c. het resterende tweederde deel van het bedrag, bedoeld in onderdeel a, welk deel geacht wordt betrekking te hebben op de op de zorg gerichte administratiedelen, verdeelt het college over de zorgverzekeraars op basis van het aantal bij hen ingeschreven verzekerden dat aanspraak kan maken op verstrekkingen en uitkeringen ingevolge de AWBZ. Daarbij tellen verzekerden van vijfenzestig jaar en ouder dubbel.  
 
 d. ter vaststelling van de budgetten sommeert het college per zorgverzekeraar de ingevolge de onderdelen b en c berekende bedragen. Het college rondt de budgetten af op hele euro's, waarbij bedragen van een halve euro en hoger worden afgerond naar boven en overige bedragen naar beneden.   
 

@@ -19,7 +19,7 @@ b. BTW-richtlijn 2006: Richtlijn 2006/112/EG van de Raad van 28 november 2006 b
 
 c. publiekrechtelijk lichaam: een provincie, dan wel een gemeente;  
 
-d. regionaal openbaar lichaam: een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat;  
+d. regionaal openbaar lichaam: een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat;  
 
 e. omzetbelasting: de belasting die wordt geheven in de lidstaten van de Europese Unie krachtens de nationale wetgeving die is gebaseerd op de BTW-richtlijn 2006, alsmede de belasting die het karakter van een omzetbelasting heeft en krachtens de nationale wetgeving wordt geheven in de EVA-staten genoemd in artikel 2, onderdeel b, van de Overeenkomst betreffende de Europese Economische Ruimte;  
 
@@ -32,14 +32,14 @@ h. fonds: het BTW-compensatiefonds;
 i. uitkeringsjaar: het kalenderjaar waarover het recht op uitkering ontstaat;  
 
 j. de inspecteur: de inspecteur van de rijksbelastingdienst die bevoegd is voor de heffing van de omzetbelasting ten aanzien van een publiekrechtelijk lichaam of regionaal openbaar lichaam waarop deze wet van toepassing is.     
-2.  Voorzover niet anders is bepaald, hebben de begrippen die in deze wet en de daarop berustende bepalingen worden gebruikt en die zijn ontleend aan de [Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), dezelfde betekenis als de begrippen in die wet en de daarop berustende bepalingen.  
+2.  Voorzover niet anders is bepaald, hebben de begrippen die in deze wet en de daarop berustende bepalingen worden gebruikt en die zijn ontleend aan de Wet op de omzetbelasting 1968, dezelfde betekenis als de begrippen in die wet en de daarop berustende bepalingen.  
 
 ### Artikel  2  
 
 1.  Er is in de departementale begroting van het Ministerie van Financiën een artikel met de omschrijving BTW-compensatiefonds.   
 2.  Onze Minister kan nadere regels stellen ter bepaling van de wijze van uitkering van een bijdrage uit het fonds en het verstrekken van voorschotten.   
 3.  Onze Minister kan nadere regels stellen met betrekking tot de minimale hoogte van de bijdragen uit het fonds. Onze Minister kan daarbij nadere regels stellen met betrekking tot de toepassing van een vereveningsfactor in verband met de budgettaire verwerking daarvan voorzover de bijdragen uit het fonds op grond van dit lid meer bedragen dan de bijdragen waarop recht bestaat op grond van de overige bepalingen van deze wet. Onze Minister kan voorts nadere regels stellen met betrekking tot een verevening van de in de vorige volzin bedoelde uitgekeerde hogere bijdragen in een kalenderjaar met bijdragen over daarop volgende kalenderjaren voorzover laatstbedoelde bijdragen de minimale hoogte van de bijdragen uit het fonds in die jaren overtreffen.   
-4.  Onze Minister kan nadere regels stellen met betrekking tot de toepassing van een vereveningsfactor in verband met de budgettaire verwerking van bijdragen die niet samenhangen met betalingen op grond van de [Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).   
+4.  Onze Minister kan nadere regels stellen met betrekking tot de toepassing van een vereveningsfactor in verband met de budgettaire verwerking van bijdragen die niet samenhangen met betalingen op grond van de Wet op de omzetbelasting 1968.   
 5.  Een krachtens dit artikel vastgestelde ministeriële regeling treedt niet eerder in werking dan acht weken na de datum van de plaatsing in de Staatscourant. Van de plaatsing wordt onverwijld mededeling gedaan aan de beide kamers der Staten-Generaal.  
 
 ### Artikel  3  
@@ -58,7 +58,7 @@ c. de omzetbelasting die wordt geheven ter zake van de invoer van voor het publi
 
 a. om verstrekt, verleend of ter beschikking gesteld te worden aan een of meer individuele derden, of  
 
-b. voor het verrichten van prestaties, al dan niet tegen vergoeding, die, indien zij door een ondernemer worden verricht, zijn vrijgesteld ingevolge [artikel 11 van de Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md).     
+b. voor het verrichten van prestaties, al dan niet tegen vergoeding, die, indien zij door een ondernemer worden verricht, zijn vrijgesteld ingevolge artikel 11 van de Wet op de omzetbelasting 1968.     
 2.  Het in het eerste lid bepaalde geldt niet voor bij algemene maatregel van bestuur aangewezen gevallen.  
 
 ### Artikel  5  
@@ -83,12 +83,12 @@ Onze Minister kan nadere regels stellen omtrent de bijdrage ingeval de goederen 
 
 1.  De inspecteur als bedoeld in artikel 1, onderdeel j, is mede bevoegd voor de toepassing van deze wet ten aanzien van het publiekrechtelijk lichaam of regionaal openbaar lichaam.   
 2.  Voor het einde van de maand volgend op het tijdvak waarin het recht op bijdrage is ontstaan, dan wel een eerder verstrekte of nog te verstrekken bijdrage geheel of gedeeltelijk verschuldigd is geworden, wordt daarvan opgave gedaan. De inspecteur kan bij beschikking afwijken van de opgave.   
-3.  Na afloop van het kalenderjaar stelt de inspecteur de bijdrage over dat jaar op grond van de bepalingen van deze wet bij beschikking vast. Het verschil tussen de bij de in de vorige volzin bedoelde beschikking vastgestelde bijdrage en de over het kalenderjaar verstrekte voorschotten wordt zes maanden na het kalenderjaar uitbetaald, teruggevorderd dan wel verrekend met omzetbelasting die verschuldigd is op grond van de [Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), met inachtneming van het bepaalde in artikel 2, tiende lid, over de minimale hoogte van de bijdrage.   
+3.  Na afloop van het kalenderjaar stelt de inspecteur de bijdrage over dat jaar op grond van de bepalingen van deze wet bij beschikking vast. Het verschil tussen de bij de in de vorige volzin bedoelde beschikking vastgestelde bijdrage en de over het kalenderjaar verstrekte voorschotten wordt zes maanden na het kalenderjaar uitbetaald, teruggevorderd dan wel verrekend met omzetbelasting die verschuldigd is op grond van de Wet op de omzetbelasting 1968, met inachtneming van het bepaalde in artikel 2, tiende lid, over de minimale hoogte van de bijdrage.   
 4.  Indien uiterlijk vijf jaren na het einde van het kalenderjaar blijkt dat bijdrage over dat jaar is verstrekt tot een hoger of lager bedrag dan waarop het publiekrechtelijk lichaam of regionaal openbaar lichaam op grond van deze wet recht heeft, stelt de inspecteur de hoogte van de bijdrage over het desbetreffende kalenderjaar vast bij beschikking en wordt het verschil met de over dat kalenderjaar verstrekte bijdrage uitbetaald, teruggevorderd dan wel verrekend met omzetbelasting en de daarover berekende belastingrente. Voor de toepassing van dit lid wordt rente berekend op grond van het vijfde lid beschouwd als bijdrage.   
-5.  In de gevallen, bedoeld in het vierde lid, wordt belastingrente berekend met overeenkomstige toepassing van de [artikelen 30h](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [30ha](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [30hb van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) als ware de bijdrage omzetbelasting, met dien verstande dat rente niet eerder wordt berekend dan met ingang van de eerste dag van de zevende maand volgend op het kalenderjaar waarop het recht op bijdrage betrekking heeft.   
+5.  In de gevallen, bedoeld in het vierde lid, wordt belastingrente berekend met overeenkomstige toepassing van de artikelen 30h, 30ha en 30hb van de Algemene wet inzake rijksbelastingen als ware de bijdrage omzetbelasting, met dien verstande dat rente niet eerder wordt berekend dan met ingang van de eerste dag van de zevende maand volgend op het kalenderjaar waarop het recht op bijdrage betrekking heeft.   
 6.  Hetgeen voor de omzetbelasting onherroepelijk komt vast te staan, geldt mede ten aanzien van de toepassing van deze wet.  
-7. Op het bezwaar, beroep, hoger beroep of beroep in cassatie tegen een op de voet van het tweede, derde of vierde lid gegeven beschikking is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.  
-8.  De [artikelen 47](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [48 tot en met 56](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67 van de Algemene wet inzake rijksbelastingen](../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [de artikelen 34](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en [34a van de Wet op de omzetbelasting 1968](../../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) zijn van overeenkomstige toepassing.   
+7. Op het bezwaar, beroep, hoger beroep of beroep in cassatie tegen een op de voet van het tweede, derde of vierde lid gegeven beschikking is hoofdstuk V van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.  
+8.  De artikelen 47, 48 tot en met 56 en 67 van de Algemene wet inzake rijksbelastingen en de artikelen 34 en 34a van de Wet op de omzetbelasting 1968 zijn van overeenkomstige toepassing.   
 9.  Onze Minister kan nadere regels stellen ter uitvoering van hetgeen in dit artikel is bepaald.  
 
 ### Artikel  10  

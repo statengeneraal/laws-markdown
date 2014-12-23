@@ -3,32 +3,32 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 10 juni 2011, nr. DCB/CZW/WBI 2011-2000211235 houdende de vaststelling van de maximale vergoeding voor emolumenten van het burgerlijk rijkspersoneel (Regeling vaststelling emolumenten burgerlijk rijkspersoneel 2011–2012)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op de [artikelen 3, eerste lid](../../../../../../../../AMvB/besluit/betaling/emolumenten/burgerlijk/rijkspersoneel/BWBR0003632/README.md), en [3a, eerste lid, van het Besluit betaling emolumenten burgerlijk rijkspersoneel](../../../../../../../../AMvB/besluit/betaling/emolumenten/burgerlijk/rijkspersoneel/BWBR0003632/README.md);
+Gelet op de artikelen 3, eerste lid, en 3a, eerste lid, van het Besluit betaling emolumenten burgerlijk rijkspersoneel;
 Besluit:    
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder besluit: het [Besluit betaling emolumenten burgerlijk rijkspersoneel](../../../../../../../../AMvB/besluit/betaling/emolumenten/burgerlijk/rijkspersoneel/BWBR0003632/README.md). 
+In deze regeling wordt verstaan onder besluit: het Besluit betaling emolumenten burgerlijk rijkspersoneel. 
 
 ### Artikel  2  
 
 Het maximum van het verschuldigde bedrag voor het van rijkswege verstrekte genot van: 
 
-a. verwarming van de woning, bedoeld in [artikel 3, eerste lid, onder b, van het besluit](../../../../../../../../AMvB/besluit/betaling/emolumenten/burgerlijk/rijkspersoneel/BWBR0003632/README.md), wordt gesteld op € 118,21;  
+a. verwarming van de woning, bedoeld in artikel 3, eerste lid, onder b, van het besluit, wordt gesteld op € 118,21;  
 
-b. energie voor kookdoeleinden, bedoeld in [artikel 3, eerste lid, onder c, van het besluit](../../../../../../../../AMvB/besluit/betaling/emolumenten/burgerlijk/rijkspersoneel/BWBR0003632/README.md), wordt gesteld op € 38,70;  
+b. energie voor kookdoeleinden, bedoeld in artikel 3, eerste lid, onder c, van het besluit, wordt gesteld op € 38,70;  
 
-c. elektrische energie, anders dan voor verwarming van de woning en voor kookdoeleinden, bedoeld in [artikel 3, eerste lid, onder d, van het besluit](../../../../../../../../AMvB/besluit/betaling/emolumenten/burgerlijk/rijkspersoneel/BWBR0003632/README.md), wordt gesteld op € 27,44;  
+c. elektrische energie, anders dan voor verwarming van de woning en voor kookdoeleinden, bedoeld in artikel 3, eerste lid, onder d, van het besluit, wordt gesteld op € 27,44;  
 
-d. leidingwater, bedoeld in [artikel 3, eerste lid, onder e, van het besluit](../../../../../../../../AMvB/besluit/betaling/emolumenten/burgerlijk/rijkspersoneel/BWBR0003632/README.md), wordt gesteld op € 14,93.   
+d. leidingwater, bedoeld in artikel 3, eerste lid, onder e, van het besluit, wordt gesteld op € 14,93.   
 
 ### Artikel  3  
 
-Het verschuldigde bedrag voor het gebruik van een dienstauto voor het afleggen van privé-kilometers, bedoeld in [artikel 3a, eerste lid, van het besluit](../../../../../../../../AMvB/besluit/betaling/emolumenten/burgerlijk/rijkspersoneel/BWBR0003632/README.md), wordt gesteld op € 0,22 per verreden kilometer. 
+Het verschuldigde bedrag voor het gebruik van een dienstauto voor het afleggen van privé-kilometers, bedoeld in artikel 3a, eerste lid, van het besluit, wordt gesteld op € 0,22 per verreden kilometer. 
 
 ### Artikel  4  
 
-De [Regeling betaling emolumenten burgerlijk rijkspersoneel](../../../../../../../../ministeriele-regeling/regeling/betaling/emolumenten/burgerlijk/rijkspersoneel/BWBR0027925/README.md) en de [regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 mei 2007, nr. 2007-0000166277, houdende de vaststelling van de emolumenten burgerlijk rijkspersoneel](../../../../../../../../ministeriele-regeling/regeling/aanpassing/voorschriften/besluit/betaling/emolumenten/burgerlijk/etc/BWBR0022062/README.md) (Stct. 2007, 110) worden ingetrokken. 
+De Regeling betaling emolumenten burgerlijk rijkspersoneel en de regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 14 mei 2007, nr. 2007-0000166277, houdende de vaststelling van de emolumenten burgerlijk rijkspersoneel (Stct. 2007, 110) worden ingetrokken. 
 
 ### Artikel  5  
 

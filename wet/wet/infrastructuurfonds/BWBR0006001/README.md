@@ -29,7 +29,7 @@ g. bediening: handelingen nodig voor het gebruik van de infrastructuur en voor h
 
 h. basisinformatie: het inwinnen, bewerken en verspreiden van gegevens nodig voor het beschrijven, van het verkeer te water, van het wegverkeer en van het verkeer over spoorwegen, met het oog op aanleg en gebruik van infrastructuur;   
 
-i. regionaal openbaar lichaam: een plusregio als bedoeld in [artikel 104 van de Wet gemeenschappelijke regelingen](../../../../wet/wet/gemeenschappelijke/regelingen/BWBR0003740/README.md) die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, 's-Gravenhage, Rotterdam of Utrecht omvat;   
+i. regionaal openbaar lichaam: een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, 's-Gravenhage, Rotterdam of Utrecht omvat;   
 
 j. intermodaal vervoer: vervoer van goederen in de aangeboden laadeenheid door middel van twee of meer vervoersmodaliteiten.    
 
@@ -44,7 +44,7 @@ b.de financiering en bekostiging van aanleg, beheer en onderhoud en bediening va
 
 ### Artikel  3  
 
-1.  Het fonds is een begrotingsfonds als bedoeld in [artikel 9, eerste lid, van de Comptabiliteitswet 2001](../../../../wet/comptabiliteitswet/2001/BWBR0013891/README.md).   
+1.  Het fonds is een begrotingsfonds als bedoeld in artikel 9, eerste lid, van de Comptabiliteitswet 2001.   
 2.   Onze Minister beheert het fonds.   
 3.   De raming van de verplichtingen, de uitgaven en de ontvangsten van het fonds wordt jaarlijks bij afzonderlijke begroting vastgesteld.  
 
@@ -146,7 +146,7 @@ j. de tijdsduur van de geldigheid van de eventuele onderdelen van de subsidiereg
 
 ### Artikel  10a  
 
-Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).  
+Een subsidie ten laste van een begroting die nog niet is vastgesteld wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.  
 
 ### Artikel  11  
 

@@ -3,7 +3,7 @@
 ##Beschikking van de Staatssecretaris van Volksgezondheid, Welzijn en Sport, nr. Z/M-3074617, houdende de aanwijzing van administratie-instellingen bijzondere ziektekosten
 
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 3 van het Administratiebesluit Bijzondere Ziektekostenverzekering](../../../../../../../../AMvB/administratiebesluit/bijzondere/ziektekostenverzekering/BWBR0003585/README.md);
+Gelet op artikel 3 van het Administratiebesluit Bijzondere Ziektekostenverzekering;
 
 Gezien de voordracht van Zorgverzekeraars Nederland van 16 mei 2011 (B-812-iwev1),
 
@@ -14,11 +14,11 @@ Besluit:
 
 In deze beschikking wordt verstaan onder: 
 
-a.  *AWBZ:* [Algemene Wet Bijzondere Ziektekosten](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+a.  *AWBZ:* Algemene Wet Bijzondere Ziektekosten;  
 
-b.  *AWBZ-verzekerde:* degene die verzekerd is ingevolge de [AWBZ](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+b.  *AWBZ-verzekerde:* degene die verzekerd is ingevolge de AWBZ;  
 
-c.  *indicatiebesluit:* een besluit als bedoeld in [artikel 1, onderdeel d, van het Zorgindicatiebesluit](../../../../../../../../AMvB/zorgindicatiebesluit/BWBR0008946/README.md).   
+c.  *indicatiebesluit:* een besluit als bedoeld in artikel 1, onderdeel d, van het Zorgindicatiebesluit.   
 
 ### Artikel  3  
 
@@ -35,15 +35,15 @@ b. de verbindingskantoren geven zorgvuldige uitvoering aan alle taken die hen do
 
 c. de verbindingskantoren beschikken over een adequate cliëntvolgende bedrijfsadministratie voor zorg in natura intramuraal en extramuraal waarin een verband ligt tussen de indicatiebesluiten van AWBZ-verzekerden, de geleverde zorg, de betalingen van zorgaanbieders;  
 
-d. de verbindingskantoren beschikken over een adequate cliëntvolgende bedrijfsadministratie voor het persoonsgebonden budget, die is afgestemd op de op grond van [artikel 44 van de AWBZ](../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) vastgestelde regels voor het persoonsgebonden budget;  
+d. de verbindingskantoren beschikken over een adequate cliëntvolgende bedrijfsadministratie voor het persoonsgebonden budget, die is afgestemd op de op grond van artikel 44 van de AWBZ vastgestelde regels voor het persoonsgebonden budget;  
 
-e. de verbindingskantoren voeren op grond van [artikelen 31](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) en [36, derde lid, van de Wet marktordening gezondheidszorg](../../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) door de Nederlandse Zorgautoriteit, in overeenstemming met door het Zorginstituut, opgestelde regels, formele en materiële controle uit, waarbij de informatieopvraag wordt opgesteld op basis van risico-analyses in samenhang met de toepassing van de landelijk geldende AO/IC regeling; de verbindingskantoren voeren op grond van het door CVZ opgestelde controleprotocol controles uit op het verstrekte persoonsgebonden budget;  
+e. de verbindingskantoren voeren op grond van artikelen 31 en 36, derde lid, van de Wet marktordening gezondheidszorg door de Nederlandse Zorgautoriteit, in overeenstemming met door het Zorginstituut, opgestelde regels, formele en materiële controle uit, waarbij de informatieopvraag wordt opgesteld op basis van risico-analyses in samenhang met de toepassing van de landelijk geldende AO/IC regeling; de verbindingskantoren voeren op grond van het door CVZ opgestelde controleprotocol controles uit op het verstrekte persoonsgebonden budget;  
 
 f. de verbindingskantoren volgen op basis van de bestaande informatie van de zorgaanbieders de financiële positie van de zorginstellingen en ondernemen, indien nodig, actie met het oog op gewenste continuïteit van zorgverlening aan cliënten;  
 
 g. de verbindingskantoren voeren voor de AWBZ een landelijk uniforme wachtlijstregistratie uit en leveren aan het Zorginstituut periodiek betrouwbare informatie over eventuele fricties tussen geïndiceerde zorg en het beschikbare aanbod;  
 
-h. de verbindingskantoren komen op grond van de [Regeling verslaglegging AWBZ](../../../../../../../../ministeriele-regeling/regeling/verslaglegging/awbz/BWBR0020601/README.md) tot jaarlijkse verantwoording over de uitvoering van de AWBZ door een financieel verslag en een uitvoeringsverslag van de zorgverzekeraar voor de als verbindingskantoor uitgevoerde taken en alle taken die hen zijn opgedragen door de zorgverzekeraars in de mandaat- en volmachtovereenkomst, conform een door de Nederlandse Zorgautoriteit aangegeven model.   
+h. de verbindingskantoren komen op grond van de Regeling verslaglegging AWBZ tot jaarlijkse verantwoording over de uitvoering van de AWBZ door een financieel verslag en een uitvoeringsverslag van de zorgverzekeraar voor de als verbindingskantoor uitgevoerde taken en alle taken die hen zijn opgedragen door de zorgverzekeraars in de mandaat- en volmachtovereenkomst, conform een door de Nederlandse Zorgautoriteit aangegeven model.   
 
 ### Artikel  5  
 

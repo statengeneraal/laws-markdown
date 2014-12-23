@@ -8,7 +8,7 @@ Op de voordracht van de Staatssecretaris van Binnenlandse Zaken van 30 augustus 
 
 Overwegende, dat het wenselijk is de afdracht van de aan het Rijk verschuldigde kosten en de heffing van de aan het Rijk verschuldigde rechten terzake van reisdocumenten nader te regelen en daarvoor bedragen vast te stellen;
 
-Gelet op [artikel 7, eerste lid, van de Paspoortwet](../../../../rijkswet/paspoortwet/BWBR0005212/README.md) (*Stb.* 1991, 498);
+Gelet op artikel 7, eerste lid, van de Paspoortwet (*Stb.* 1991, 498);
 
 De Raad van State van het Koninkrijk gehoord (advies van 14 oktober 1991, no. WO.4.91 0477/K);
 
@@ -24,15 +24,15 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder:  
 
-a. aanvrager: degene die een aanvraag als bedoeld in [artikel 1, onder a, van de Paspoortwet](../../../../rijkswet/paspoortwet/BWBR0005212/README.md) (*Stb.* 1991, 498) indient;  
+a. aanvrager: degene die een aanvraag als bedoeld in artikel 1, onder a, van de Paspoortwet (*Stb.* 1991, 498) indient;  
 
 b. Onze Minister: Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;  
 
 c. de Gouverneur: de Gouverneur van Aruba, Curaçao of Sint Maarten;  
 
-d. kosten: de kosten, bedoeld in [artikel 7, eerste lid, onder a, van de Paspoortwet](../../../../rijkswet/paspoortwet/BWBR0005212/README.md);  
+d. kosten: de kosten, bedoeld in artikel 7, eerste lid, onder a, van de Paspoortwet;  
 
-e. rechten: de rechten, bedoeld in [artikel 7, eerste lid, onder b, van de Paspoortwet](../../../../rijkswet/paspoortwet/BWBR0005212/README.md);  
+e. rechten: de rechten, bedoeld in artikel 7, eerste lid, onder b, van de Paspoortwet;  
 
 f. leverancier: het bedrijf dat in opdracht van het ministerie van Binnenlandse Zaken en Koninkrijksrelaties belast is met het verrichten van diensten in verband met de verstrekking van reisdocumenten, waaronder de vervaardiging en levering van reisdocumenten;  
 
@@ -51,7 +51,7 @@ h.  openbaar lichaam: openbaar lichaam Bonaire, Sint Eustatius of Saba.
 ### Artikel  2  
 
 1.  Een gemeente is aan het Rijk de in artikel 6, eerste lid, vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten en door de leverancier verrichte spoedleveringen. Van een spoedlevering als bedoeld in dit artikel is sprake, indien naar aanleiding van een daartoe vanuit de gemeente verstrekte opdracht, die de leverancier op werkdagen vóór 16.00 uur heeft bereikt, een gepersonaliseerd reisdocument de daarop volgende werkdag uiterlijk 16.00 uur is afgeleverd bij de in de aanvraag opgegeven uitgiftelocatie.   
-2.   De in het eerste lid bedoelde kosten zijn niet dan wel gedeeltelijk verschuldigd naar rato van de aan de aanvrager verleende kwijtschelding van de rechten, die op grond van de toepasselijke gemeentelijke verordening voor de desbetreffende handeling geheven kunnen worden, indien de kwijtschelding is verleend overeenkomstig de krachtens [artikel 255, tweede lid, van de Gemeentewet](../../../../wet/gemeentewet/BWBR0005416/README.md) gestelde regels.   
+2.   De in het eerste lid bedoelde kosten zijn niet dan wel gedeeltelijk verschuldigd naar rato van de aan de aanvrager verleende kwijtschelding van de rechten, die op grond van de toepasselijke gemeentelijke verordening voor de desbetreffende handeling geheven kunnen worden, indien de kwijtschelding is verleend overeenkomstig de krachtens artikel 255, tweede lid, van de Gemeentewet gestelde regels.   
 3.  De in artikel 6, eerste lid, onderdelen a tot en met d, vastgelegde kosten zijn niet verschuldigd in verband met de levering van een reisdocument ter vervanging van een eerder geleverd reisdocument, indien:
 
 a. het eerder geleverde reisdocument door toedoen van de leverancier niet op de juiste wijze was vervaardigd, of  
@@ -91,7 +91,7 @@ b. door een openbaar lichaam door middel van automatische incasso van een door h
 
 ### Artikel  4  
 
-1.  Aruba, Curaçao en Sint Maarten zijn aan het Rijk de in artikel 6, eerste lid, onderdeel a vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten, indien de aanvraag voor de desbetreffende handeling bij de ingevolge [artikel 26 van de Paspoortwet](../../../../rijkswet/paspoortwet/BWBR0005212/README.md) door de Gouverneur aangewezen autoriteit is ingediend.   
+1.  Aruba, Curaçao en Sint Maarten zijn aan het Rijk de in artikel 6, eerste lid, onderdeel a vastgelegde kosten verschuldigd in verband met door de leverancier geleverde reisdocumenten, indien de aanvraag voor de desbetreffende handeling bij de ingevolge artikel 26 van de Paspoortwet door de Gouverneur aangewezen autoriteit is ingediend.   
 2.  De in het eerste lid bedoelde kosten zijn niet verschuldigd in verband met de levering van een reisdocument, als bedoeld in artikel 2, derde lid. 
 
 ### Artikel  5  
@@ -298,11 +298,11 @@ Aan de aanvrager in het buitenland die woonachtig is in het ressort van de consu
 
 ### Artikel  9  
 
-Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn de krachtens [artikel 26 van de Invorderingswet 1990](../../../../wet/invorderingswet/1990/BWBR0004770/README.md) door Onze Minister van Financiën gestelde regels betreffende de kwijtschelding van rijksbelastingen in de privé-sfeer van overeenkomstige toepassing. 
+Met betrekking tot het verlenen van gehele of gedeeltelijke kwijtschelding zijn de krachtens artikel 26 van de Invorderingswet 1990 door Onze Minister van Financiën gestelde regels betreffende de kwijtschelding van rijksbelastingen in de privé-sfeer van overeenkomstige toepassing. 
 
 ### Artikel  10  
 
-De vaststelling van de valuta waarin de betaling van de in artikel 12 vastgelegde rechten in het buitenland plaatsvindt en de herleiding van deze rechten in de vastgestelde valuta geschieden overeenkomstig [artikel 6 van de Rijkswet op de consulaire tarieven](../../../../rijkswet/rijkswet/op/de/consulaire/tarieven/BWBR0013618/README.md) 
+De vaststelling van de valuta waarin de betaling van de in artikel 12 vastgelegde rechten in het buitenland plaatsvindt en de herleiding van deze rechten in de vastgestelde valuta geschieden overeenkomstig artikel 6 van de Rijkswet op de consulaire tarieven 
 
 ### §  2  
 
@@ -310,7 +310,7 @@ De vaststelling van de valuta waarin de betaling van de in artikel 12 vastgelegd
 
 ### Artikel  11  
 
-1.  In Aruba, Curaçao en Sint Maarten vindt heffing dan wel kwijtschelding van de in artikel 12 vastgelegde rechten plaats door of namens de Gouverneur, voor zover de aanvraag niet bij een ingevolge [artikel 26 van de Paspoortwet](../../../../rijkswet/paspoortwet/BWBR0005212/README.md) door de Gouverneur aangewezen autoriteit is ingediend.   
+1.  In Aruba, Curaçao en Sint Maarten vindt heffing dan wel kwijtschelding van de in artikel 12 vastgelegde rechten plaats door of namens de Gouverneur, voor zover de aanvraag niet bij een ingevolge artikel 26 van de Paspoortwet door de Gouverneur aangewezen autoriteit is ingediend.   
 2.   Aan de aanvrager in Aruba, Curaçao of Sint Maarten die niet in staat is anders dan met buitengewoon bezwaar de door hem aan het Rijk verschuldigde rechten geheel of gedeeltelijk te voldoen omdat hij geen of geringe betalingscapaciteit bezit, kan op zijn schriftelijk verzoek geheel of gedeeltelijk kwijtschelding van deze rechten worden verleend.  
 
 ### §  3  
@@ -321,7 +321,7 @@ De vaststelling van de valuta waarin de betaling van de in artikel 12 vastgelegd
 
 1.  De rechten die ten bate van het Rijk van een aanvrager binnen het Koninkrijk kunnen worden geheven, bedragen: 
 
-a. voor de verstrekking van een nationaal paspoort, een nationaal paspoort dat een groter aantal bladzijden bevat (zakenpaspoort) of een reisdocument ten behoeve van een persoon die op grond van de [Wet betreffende de positie van Molukkers](../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md) als Nederlander wordt behandeld (faciliteitenpaspoort): 
+a. voor de verstrekking van een nationaal paspoort, een nationaal paspoort dat een groter aantal bladzijden bevat (zakenpaspoort) of een reisdocument ten behoeve van een persoon die op grond van de Wet betreffende de positie van Molukkers als Nederlander wordt behandeld (faciliteitenpaspoort): 
 
 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt:  
 
@@ -358,7 +358,7 @@ c. voor de verstrekking van een noodpaspoort of een laissez-passer:
 
 2.  De rechten die ten bate van het Rijk van een aanvrager buiten het Koninkrijk kunnen worden geheven, bedragen: 
 
-a. voor de verstrekking van een nationaal paspoort, een nationaal paspoort dat een groter aantal bladzijden bevat (zakenpaspoort) of een reisdocument ten behoeve van een persoon die op grond van de [Wet betreffende de positie van Molukkers](../../../../wet/wet/betreffende/de/positie/van/molukkers/BWBR0003052/README.md) als Nederlander wordt behandeld (faciliteitenpaspoort): 
+a. voor de verstrekking van een nationaal paspoort, een nationaal paspoort dat een groter aantal bladzijden bevat (zakenpaspoort) of een reisdocument ten behoeve van een persoon die op grond van de Wet betreffende de positie van Molukkers als Nederlander wordt behandeld (faciliteitenpaspoort): 
 
 1°. ten behoeve van een persoon die op het moment van de aanvraag de leeftijd van achttien jaar heeft bereikt:  
 
@@ -400,7 +400,7 @@ d. voor de verstrekking van een noodpaspoort of een laissez-passer:
 
 3.  De in het eerste en tweede lid genoemde rechten die door de aanvrager zijn voldaan, worden aan deze gerestitueerd indien de gevraagde handeling niet wordt verricht.   
 4.  De in het eerste en tweede lid genoemde rechten worden niet geheven, indien de verstrekking van het reisdocument of de wijziging plaatsvindt in verband met een ambtelijke fout of indien de verstrekking plaatsvindt in verband met de vervanging van een eerder geleverd document als bedoeld in artikel 2, derde lid, of artikel 2a, derde lid.   
-5.  Het in het eerste lid, onderdeel a, dan wel tweede lid, onderdeel a, genoemde recht wordt niet geheven voor de verstrekking van diplomatieke paspoorten of dienstpaspoorten ten behoeve van personen die bij een Nederlandse vertegenwoordiging in het buitenland zijn tewerkgesteld, hun inwonende huwelijkspartner, geregistreerde partner of levenspartner als bedoeld in [artikel 2, tweede lid, van het Reglement Dienst Buitenlandse Zaken](../../../../AMvB/reglement/dienst/buitenlandse/zaken/BWBR0004052/README.md) en bij hen inwonende minderjarige kinderen.  
+5.  Het in het eerste lid, onderdeel a, dan wel tweede lid, onderdeel a, genoemde recht wordt niet geheven voor de verstrekking van diplomatieke paspoorten of dienstpaspoorten ten behoeve van personen die bij een Nederlandse vertegenwoordiging in het buitenland zijn tewerkgesteld, hun inwonende huwelijkspartner, geregistreerde partner of levenspartner als bedoeld in artikel 2, tweede lid, van het Reglement Dienst Buitenlandse Zaken en bij hen inwonende minderjarige kinderen.  
 
 ### Artikel  13  
 
@@ -412,7 +412,7 @@ De in artikel 12 bedoelde rechten worden geheven bij wege van een mondelinge dan
 
 ### Artikel  14  
 
-Dit besluit treedt in werking met ingang van de dag waarop de [Paspoortwet](../../../../rijkswet/paspoortwet/BWBR0005212/README.md) in werking treedt. 
+Dit besluit treedt in werking met ingang van de dag waarop de Paspoortwet in werking treedt. 
 
 ### Artikel  15  
 

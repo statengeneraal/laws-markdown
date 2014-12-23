@@ -14,7 +14,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  Onze Minister: Onze Minister van Economische Zaken;  Faunafonds: fonds, bedoeld in artikel 83;  dieren: dieren in al hun ontwikkelingsstadia, met uitzondering van eieren;  planten: planten in al hun ontwikkelingsstadia;  producten van dieren: dode dieren, delen van levende of dode dieren en alle van dieren afgeleide producten, al dan niet in andere zaken vervat, alsmede alle zaken waarvan uit een begeleidend document, de verpakking, een merkteken of etiket of enige andere omstandigheid moet worden aangenomen dat zij afgeleide producten of delen van dieren bevatten of daaruit bestaan;  producten van planten: dode planten, delen van levende of dode planten en alle van planten afgeleide producten, al dan niet in andere zaken vervat, alsmede alle zaken waarvan uit een begeleidend document, de verpakking, een merkteken of etiket of enige andere omstandigheid moet worden aangenomen dat zij afgeleide producten of delen van planten bevatten of daaruit bestaan;  beschermde inheemse plantensoort: plantensoort aangewezen krachtens artikel 3;  beschermde inheemse diersoort: diersoort als bedoeld in artikel 4, eerste lid, of aangewezen krachtens artikel 4, tweede of derde lid;  beschermde uitheemse plantensoort: plantensoort aangewezen krachtens artikel 5;  beschermde uitheemse diersoort: diersoort aangewezen krachtens artikel 5;  wild: dieren behorende tot één der in artikel 32, eerste lid, bedoelde diersoorten, die in de voor hun aard natuurlijke vrijheid leven;  jagen: bemachtigen, doden of het met het oog daarop opsporen van wild alsmede het doen van pogingen daartoe;  jachthouder: degene die overeenkomstig het in de artikelen 33 of 34 bepaalde gerechtigd is tot het gehele of gedeeltelijke genot van de jacht;  jachtakte: akte als bedoeld in artikel 38, eerste lid, onderdeel a;  valkeniersakte: akte als bedoeld in artikel 38, eerste lid, onderdeel b;  kooikersakte: akte als bedoeld in artikel 38, eerste lid, onderdeel c;  jachtvogel: vogel met behulp waarvan de jacht krachtens artikel 50, eerste lid, mag worden uitgeoefend;  grondgebruiker: degene die gerechtigd is de grond te gebruiken, hetzij als eigenaar, hetzij krachtens een beperkt recht, hetzij krachtens een pachtovereenkomst;  faunabeheereenheid: overeenkomstig artikel 29 erkend samenwerkingsverband van jachthouders;  faunabeheerplan: overeenkomstig artikel 30 goedgekeurd faunabeheerplan;  wildbeheereenheid: een rechtspersoonlijkheid bezittend samenwerkingsverband van jacht(akte)houders en anderen dat tot doel heeft te bevorderen dat jacht, beheer en schadebestrijding, al dan niet ter uitvoering van het door de faunabeheereenheid opgestelde faunabeheerplan, wordt uitgevoerd mede in samenwerking met en mede ten dienste van grondgebruikers of terreinbeheerders;jachtopzichter: degene die zorg draagt voor de bescherming van de jachtbelangen van een jachthouder en tevens als buitengewoon opsporingsambtenaar belast is met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten en van de overige in de akte of aanwijzing als bedoeld in [artikel 142, tweede lid, van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) aangeduide strafbare feiten;  kooiker: degene die ingevolge het bepaalde in artikel 57 als zodanig is geregistreerd; walvissen: baleinwalvissen en potvissen; richtlijn nr. 2009/147/EG van het Europees Parlement en de Raad van de Europese Unie van 30 november 2009 inzake het behoud van de vogelstand (PbEU 2010, L 20); richtlijn 92/43/EEG: richtlijn 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (PbEG L 206);omgevingsvergunning: omgevingsvergunning als bedoeld in [artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md); exclusieve economische zone: exclusieve economische zone van Nederland als bedoeld in de [Rijkswet instelling exclusieve economische zone](../../../../../rijkswet/rijkswet/instelling/exclusieve/economische/zone/BWBR0010480/README.md).  
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  Onze Minister: Onze Minister van Economische Zaken;  Faunafonds: fonds, bedoeld in artikel 83;  dieren: dieren in al hun ontwikkelingsstadia, met uitzondering van eieren;  planten: planten in al hun ontwikkelingsstadia;  producten van dieren: dode dieren, delen van levende of dode dieren en alle van dieren afgeleide producten, al dan niet in andere zaken vervat, alsmede alle zaken waarvan uit een begeleidend document, de verpakking, een merkteken of etiket of enige andere omstandigheid moet worden aangenomen dat zij afgeleide producten of delen van dieren bevatten of daaruit bestaan;  producten van planten: dode planten, delen van levende of dode planten en alle van planten afgeleide producten, al dan niet in andere zaken vervat, alsmede alle zaken waarvan uit een begeleidend document, de verpakking, een merkteken of etiket of enige andere omstandigheid moet worden aangenomen dat zij afgeleide producten of delen van planten bevatten of daaruit bestaan;  beschermde inheemse plantensoort: plantensoort aangewezen krachtens artikel 3;  beschermde inheemse diersoort: diersoort als bedoeld in artikel 4, eerste lid, of aangewezen krachtens artikel 4, tweede of derde lid;  beschermde uitheemse plantensoort: plantensoort aangewezen krachtens artikel 5;  beschermde uitheemse diersoort: diersoort aangewezen krachtens artikel 5;  wild: dieren behorende tot één der in artikel 32, eerste lid, bedoelde diersoorten, die in de voor hun aard natuurlijke vrijheid leven;  jagen: bemachtigen, doden of het met het oog daarop opsporen van wild alsmede het doen van pogingen daartoe;  jachthouder: degene die overeenkomstig het in de artikelen 33 of 34 bepaalde gerechtigd is tot het gehele of gedeeltelijke genot van de jacht;  jachtakte: akte als bedoeld in artikel 38, eerste lid, onderdeel a;  valkeniersakte: akte als bedoeld in artikel 38, eerste lid, onderdeel b;  kooikersakte: akte als bedoeld in artikel 38, eerste lid, onderdeel c;  jachtvogel: vogel met behulp waarvan de jacht krachtens artikel 50, eerste lid, mag worden uitgeoefend;  grondgebruiker: degene die gerechtigd is de grond te gebruiken, hetzij als eigenaar, hetzij krachtens een beperkt recht, hetzij krachtens een pachtovereenkomst;  faunabeheereenheid: overeenkomstig artikel 29 erkend samenwerkingsverband van jachthouders;  faunabeheerplan: overeenkomstig artikel 30 goedgekeurd faunabeheerplan;  wildbeheereenheid: een rechtspersoonlijkheid bezittend samenwerkingsverband van jacht(akte)houders en anderen dat tot doel heeft te bevorderen dat jacht, beheer en schadebestrijding, al dan niet ter uitvoering van het door de faunabeheereenheid opgestelde faunabeheerplan, wordt uitgevoerd mede in samenwerking met en mede ten dienste van grondgebruikers of terreinbeheerders;jachtopzichter: degene die zorg draagt voor de bescherming van de jachtbelangen van een jachthouder en tevens als buitengewoon opsporingsambtenaar belast is met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten en van de overige in de akte of aanwijzing als bedoeld in artikel 142, tweede lid, van het Wetboek van Strafvordering aangeduide strafbare feiten;  kooiker: degene die ingevolge het bepaalde in artikel 57 als zodanig is geregistreerd; walvissen: baleinwalvissen en potvissen; richtlijn nr. 2009/147/EG van het Europees Parlement en de Raad van de Europese Unie van 30 november 2009 inzake het behoud van de vogelstand (PbEU 2010, L 20); richtlijn 92/43/EEG: richtlijn 92/43/EEG van de Raad van de Europese Gemeenschappen van 21 mei 1992 inzake de instandhouding van de natuurlijke habitats en de wilde flora en fauna (PbEG L 206);omgevingsvergunning: omgevingsvergunning als bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht; exclusieve economische zone: exclusieve economische zone van Nederland als bedoeld in de Rijkswet instelling exclusieve economische zone.  
 2.  In deze wet en de daarop berustende bepalingen wordt mede verstaan onder:  soort: ondersoort, geografisch onderscheiden populatie van een soort of kruisingen;  planten: geënte planten;  dode dieren: geprepareerde dieren alsmede dieren die op enigerlei wijze geschikt zijn gemaakt om duurzaam te worden bewaard;  dode planten: planten die op enigerlei wijze geschikt zijn gemaakt om duurzaam te worden bewaard;  eieren: schalen van eieren;  grond: wateren;  veld: stranden, schorren, gorzen, kwelders, slikken, wadden, binnenwateren en territoriale wateren alsmede wegen en paden, voorzover deze geacht kunnen worden deel uit te maken van een voor de uitoefening van de jacht bestemd of geschikt terrein;  binnen of buiten het grondgebied van Nederland brengen: iedere handeling die is gericht op het bewerkstelligen van het binnen of buiten het grondgebied van Nederland brengen;  ten verkoop aanbieden: elke handeling die redelijkerwijs als het ten verkoop aanbieden kan worden uitgelegd waaronder het maken of doen maken van handelspubliciteit en het uitnodigen tot zaken doen.   
 
 ### Artikel  1a  
@@ -54,7 +54,7 @@ b. alle van nature op het Europese grondgebied van de Lid-Staten van de Europese
 
 c. alle van nature in Nederland voorkomende soorten amfibieën en reptielen en   
 
-d. alle van nature in Nederland voorkomende soorten vissen, met uitzondering van de soorten waarop de [Visserijwet 1963](../../../../../wet/visserijwet/1963/BWBR0002416/README.md) van toepassing is.      
+d. alle van nature in Nederland voorkomende soorten vissen, met uitzondering van de soorten waarop de Visserijwet 1963 van toepassing is.      
 2.  Als beschermde inheemse diersoort kunnen voorts bij algemene maatregel van bestuur worden aangewezen diersoorten die van nature in Nederland voorkomen en die:  
 
 a. in hun voortbestaan worden bedreigd of het gevaar lopen in hun voortbestaan te worden bedreigd;   
@@ -163,7 +163,7 @@ b. overeenkomstig de Wet bedreigde uitheemse dier- en plantensoorten zijn verwor
 2.  Het is verboden planten behorende tot bij algemene maatregel van bestuur aangewezen soorten in de vrije natuur te planten of uit te zaaien.    
 3.  Het is verboden planten of dieren, behorende tot bij algemene maatregel van bestuur aangewezen soorten, onder zich te hebben, binnen of buiten het grondgebied van Nederland te brengen, te koop te vragen, te kopen of te verwerven, ten verkoop voorradig of voorhanden te hebben, te verkopen of ten verkoop aan te bieden, te vervoeren, ten vervoer aan te bieden of af te leveren, te gebruiken voor commercieel gewin, te huren of te verhuren, te ruilen of in ruil aan te bieden.    
 4.  Krachtens het tweede en derde lid kunnen slechts worden aangewezen soorten die een gevaar kunnen opleveren voor het voortbestaan van beschermde inheemse dier- of plantensoorten of die aanmerkelijke verslechtering kunnen veroorzaken van omstandigheden die voor het voortbestaan van die soorten noodzakelijk zijn.    
-5.  Het verbod, bedoeld in het eerste lid, geldt niet voor het uitzetten van bij algemene maatregel van bestuur aangewezen vissoorten, waarop de [Visserijwet 1963](../../../../../wet/visserijwet/1963/BWBR0002416/README.md) van toepassing is.   
+5.  Het verbod, bedoeld in het eerste lid, geldt niet voor het uitzetten van bij algemene maatregel van bestuur aangewezen vissoorten, waarop de Visserijwet 1963 van toepassing is.   
 
 ### Artikel  15  
 
@@ -215,8 +215,8 @@ Bij algemene maatregel van bestuur kan in het belang van de instandhouding van b
 ### Artikel  19  
 
 1.  Gedeputeerde staten kunnen een plaats die van wezenlijke betekenis is als leefomgeving voor een beschermde inheemse plantensoort of een beschermde inheemse diersoort, met het oog op instandhouding van die plaats ten behoeve van die soort, aanwijzen als beschermde leefomgeving. Het besluit bevat de kadastrale aanduiding van de percelen waarop de aangewezen plaats is gelegen en gaat vergezeld van een kaart waarop de plaats is aangegeven.    
-2.  Een plaats als bedoeld in het eerste lid, kan niet worden aangewezen als beschermde leefomgeving, indien die gelegen is in een krachtens de [Natuurbeschermingswet 1998](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) aangewezen beschermd natuurmonument dan wel in een gebied ten aanzien waarvan een besluit tot aanwijzing als beschermd natuurmonument wordt voorbereid.   
-3. Een plaats als bedoeld in het eerste lid, kan niet worden aangewezen als beschermde leefomgeving voor een beschermde inheemse plantensoort of een beschermde inheemse diersoort, indien die gelegen is in een krachtens [artikel 10a van de Natuurbeschermingswet 1998](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) aangewezen gebied of in een gebied waarvan de aanwijzing als zodanig in overweging is genomen als bedoeld in [artikel 12, derde lid, van de Natuurbeschermingswet 1998](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) en de instandhoudingsdoelstelling van dit gebied betrekking of mede betrekking heeft op de leefomgeving van die beschermde inheemse planten- of diersoort.
+2.  Een plaats als bedoeld in het eerste lid, kan niet worden aangewezen als beschermde leefomgeving, indien die gelegen is in een krachtens de Natuurbeschermingswet 1998 aangewezen beschermd natuurmonument dan wel in een gebied ten aanzien waarvan een besluit tot aanwijzing als beschermd natuurmonument wordt voorbereid.   
+3. Een plaats als bedoeld in het eerste lid, kan niet worden aangewezen als beschermde leefomgeving voor een beschermde inheemse plantensoort of een beschermde inheemse diersoort, indien die gelegen is in een krachtens artikel 10a van de Natuurbeschermingswet 1998 aangewezen gebied of in een gebied waarvan de aanwijzing als zodanig in overweging is genomen als bedoeld in artikel 12, derde lid, van de Natuurbeschermingswet 1998 en de instandhoudingsdoelstelling van dit gebied betrekking of mede betrekking heeft op de leefomgeving van die beschermde inheemse planten- of diersoort.
 
 ### Artikel  20  
 
@@ -224,7 +224,7 @@ Een besluit tot aanwijzing van een plaats als beschermde leefomgeving vermeldt h
 
 ###Artikel 21 
 
-1. Op de voorbereiding van een besluit als bedoeld in artikel 19, eerste lid, is [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. 
+1. Op de voorbereiding van een besluit als bedoeld in artikel 19, eerste lid, is afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. 
 2. Zienswijzen kunnen naar voren worden gebracht door een ieder.
 
 ### Artikel  22  
@@ -245,7 +245,7 @@ Van een besluit als bedoeld in artikel 19, eerste lid, wordt in ieder geval mede
 
 1.  Gedeputeerde staten kunnen de aanwijzing van een plaats als beschermde leefomgeving geheel of gedeeltelijk intrekken. De percelen waarop de intrekking betrekking heeft, worden kadastraal omschreven. In geval van gedeeltelijke intrekking gaat het besluit vergezeld van een kaart waarop is aangegeven op welk gedeelte van de plaats de intrekking betrekking heeft.    
 2.  Het bepaalde in de artikelen 21, 22 en 23 is van overeenkomstige toepassing ten aanzien van een besluit als bedoeld in het eerste lid.    
-3.  Een besluit houdende de aanwijzing van een plaats als beschermde leefomgeving vervalt met ingang van het tijdstip waarop die plaats deel uitmaakt van een onherroepelijk aangewezen beschermd natuurmonument als bedoeld in de [Natuurbeschermingswet 1998](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md).   
+3.  Een besluit houdende de aanwijzing van een plaats als beschermde leefomgeving vervalt met ingang van het tijdstip waarop die plaats deel uitmaakt van een onherroepelijk aangewezen beschermd natuurmonument als bedoeld in de Natuurbeschermingswet 1998.   
 
 ### Paragraaf  2  
 
@@ -414,7 +414,7 @@ h. er grond is om aan te nemen dat de aanvrager nalatig zal zijn te doen wat een
 
 i. aan de aanvrager de bevoegdheid om te jagen is ontzegd bij een rechterlijke uitspraak, welke voor tenuitvoerlegging vatbaar is geworden, en de tijd, voor welke die bevoegdheid is ontzegd, nog niet is verstreken of   
 
-j. de aanvrager in de twee jaren, voorafgaande aan het verzoek tot het verkrijgen van een jachtakte, valkeniersakte of kooikersakte wegens één der bij of krachtens deze wet strafbaar gestelde feiten, dan wel wegens een feit strafbaar gesteld bij de [Wet op de dierenbescherming](../../../../../wet/wet/op/de/dierenbescherming/BWBR0002351/README.md) of de [Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) voorzover het gedragingen als bedoeld in [hoofdstuk III van die wet](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), betreft, is veroordeeld dan wel deswege een strafbeschikking tegen hem is uitgevaardigd.      
+j. de aanvrager in de twee jaren, voorafgaande aan het verzoek tot het verkrijgen van een jachtakte, valkeniersakte of kooikersakte wegens één der bij of krachtens deze wet strafbaar gestelde feiten, dan wel wegens een feit strafbaar gesteld bij de Wet dieren voorzover het gedragingen als bedoeld in de artikelen 2.1, 2.2, 2.3, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, 2.13, 2.14 of 2.15 van die wet is veroordeeld, dan wel deswege hem een strafbeschikking is uitgevaardigd, of indien hij vervolging deswege heeft voorkomen overeenkomstig de bepalingen van artikel 74 van het Wetboek van Strafrecht of hem wegens overtreding van het krachtens de voornoemde artikelen van de Wet dieren bepaalde een bestuurlijke boete als bedoeld in artikel 8.7 van de Wet dieren is opgelegd.    
 2.  Het bepaalde in het eerste lid, onderdeel d, is niet van toepassing voorzover de aanvrage een valkeniersakte betreft.    
 3.  Het bepaalde in het eerste lid, onderdelen b en d, is niet van toepassing voorzover de aanvrage een kooikersakte betreft.   
 
@@ -444,7 +444,7 @@ c.er grond is om aan te nemen dat de houder van zijn bevoegdheden in het kader v
 
 ### Artikel  42  
 
-1.  De bevoegdheid tot het nemen van beschikkingen omtrent het verlenen van jachtakten berust bij de korpschef, bedoeld in [artikel 27, van de Politiewet 2012](../../../../../wet/politiewet/2012/BWBR0031788/README.md).    
+1.  De bevoegdheid tot het nemen van beschikkingen omtrent het verlenen van jachtakten berust bij de korpschef, bedoeld in artikel 27, van de Politiewet 2012.    
 2.  De bevoegdheid tot het nemen van beschikkingen tot intrekking van jachtakten berust bij de korpschef.    
 3.  De in het tweede lid bedoeld bevoegdheid komt tevens toe aan Onze Minister van Veiligheid en Justitie in gevallen als bedoeld in artikel 41, eerste lid, onderdeel c.    
 4.  Tegen beschikkingen van de korpschef staat administratief beroep open bij Onze Minister van Veiligheid en Justitie indien de jachtakte is geweigerd of ingetrokken of mede is geweigerd of ingetrokken om redenen als bedoeld in artikel 39, eerste lid, aanhef en onderdeel e, onderscheidenlijk artikel 41, eerste lid, aanhef en onderdeel c. 
@@ -473,13 +473,13 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld bet
 2.  De jacht wordt niet geopend gedurende het tijdvak van 1 februari tot 15 augustus, tenzij er naar het oordeel van Onze Minister geen andere bevredigende oplossing bestaat dan het openstellen van de jacht met het oog op bij algemene maatregel van bestuur aangewezen belangen.    
 3.  De jacht wordt niet geopend in de volgende gebieden of categorieën van gebieden:  
 
-a. gebieden die krachtens de [Natuurbeschermingswet 1998](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) zijn aangewezen als beschermd natuurmonument dan wel gebieden waarvan de aanwijzing als beschermd natuurmonument in overweging is genomen;  
+a. gebieden die krachtens de Natuurbeschermingswet 1998 zijn aangewezen als beschermd natuurmonument dan wel gebieden waarvan de aanwijzing als beschermd natuurmonument in overweging is genomen;  
 
 b. gebieden die krachtens de op 2 februari 1971 te Ramsar tot stand gekomen Overeenkomst inzake watergebieden van internationale betekenis, in het bijzonder als verblijfplaats voor watervogels (Trb. 1975, 84), zijn aangemeld als watergebied van internationale betekenis;   
 
 c. gebieden die ter uitvoering van richtlijn 2009/147/EG zijn aangewezen; 
 
-d.natuurmonumenten als bedoeld in [artikel 1 van de Natuurbeschermingswet 1998](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md), behorende tot een op grond van [artikel 10a van de Natuurbeschermingswet 1998](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) aangewezen gebied ter uitvoering van richtlijn 92/43/EEG en waarvoor ingevolge [artikel 15a, tweede lid, van de Natuurbeschermingswet 1998](../../../../../wet/natuurbeschermingswet/1998/BWBR0009641/README.md) het besluit houdende de aanwijzing van dat natuurmonument als beschermd natuurmonument is vervallen.    
+d.natuurmonumenten als bedoeld in artikel 1 van de Natuurbeschermingswet 1998, behorende tot een op grond van artikel 10a van de Natuurbeschermingswet 1998 aangewezen gebied ter uitvoering van richtlijn 92/43/EEG en waarvoor ingevolge artikel 15a, tweede lid, van de Natuurbeschermingswet 1998 het besluit houdende de aanwijzing van dat natuurmonument als beschermd natuurmonument is vervallen.    
 4.  Ter uitvoering van internationale verplichtingen of bindende besluiten van organen van de Europese Unie of andere volkenrechtelijke organisaties kan bij algemene maatregel van bestuur worden bepaald in hoeverre de jacht slechts zal kunnen worden geopend.    
 5.  Gedeputeerde staten kunnen, zolang bijzondere weersomstandigheden dat naar hun oordeel met het oog op de instandhouding van wild vergen, de jacht voor de hele provincie of een deel daarvan, voor een bepaalde tijd sluiten.   
 
@@ -652,7 +652,7 @@ b. de beperking dat het zoeken en rapen van kievitseieren slechts gedurende een 
 
 1.  Het is verboden dode dieren, behorende tot soorten waarop deze wet van toepassing is, te prepareren.    
 2.  Het verbod in het eerste lid is niet van toepassing als een door Onze Minister erkend preparateursexamen met gunstig gevolg is afgelegd. Het bepaalde in artikel 40, eerste lid, is ten aanzien van dat examen van overeenkomstige toepassing.   
-3.  Het verbod, bedoeld in het eerste lid, is niet van toepassing voor de houder van een vergunning of een ontheffing als bedoeld in artikel 15 of 21 van de Vogelwet 1936, [artikel 60 van de Jachtwet](../../../../../wet/jachtwet/BWBR0002155/README.md) of [artikel 25 van de Natuurbeschermingswet](../../../../../wet/natuurbeschermingswet/BWBR0002611/README.md), voor zover deze is verleend met het oog op de preparatie van dieren.   
+3.  Het verbod, bedoeld in het eerste lid, is niet van toepassing voor de houder van een vergunning of een ontheffing als bedoeld in artikel 15 of 21 van de Vogelwet 1936, artikel 60 van de Jachtwet of artikel 25 van de Natuurbeschermingswet, voor zover deze is verleend met het oog op de preparatie van dieren.   
 4.  Bij algemene maatregel van bestuur kunnen diersoorten worden aangewezen ten aanzien waarvan het verbod, bedoeld in het eerste lid, niet geldt.   
 
 ### Artikel  63  
@@ -770,7 +770,7 @@ Gedeputeerde staten verschaffen Onze Minister desgevraagd alle inlichtingen met 
 ### Artikel  72  
 
 1.  Bij algemene maatregel van bestuur worden, voorzover noodzakelijk in afwijking van artikel 15, de middelen aangewezen waarmee, met inachtneming van het bepaalde bij of krachtens de artikelen 65 tot en met 70, dieren mogen worden gevangen of gedood. Als middelen worden slechts aangewezen middelen die geen onnodig lijden van dieren veroorzaken.    
-2.  Bij de maatregel, bedoeld in het eerste lid, worden tevens de middelen aangewezen waarmede de zwarte rat, de bruine rat en de huismuis mogen worden bestreden. Naast middelen als bedoeld in het eerste lid zijn tevens toegelaten middelen die krachtens de [Wet gewasbeschermingsmiddelen en biociden](../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) zijn toegelaten.    
+2.  Bij de maatregel, bedoeld in het eerste lid, worden tevens de middelen aangewezen waarmede de zwarte rat, de bruine rat en de huismuis mogen worden bestreden. Naast middelen als bedoeld in het eerste lid zijn tevens toegelaten middelen die krachtens de Wet gewasbeschermingsmiddelen en biociden zijn toegelaten.    
 3.  Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, worden regels gesteld met betrekking tot het gebruik van de in het eerste en tweede lid bedoelde middelen. Deze regels betreffen in ieder geval:  
 
 a. de soorten waarop de middelen betrekking hebben;   
@@ -831,9 +831,9 @@ c. met het oog op andere, bij algemene maatregel van bestuur aan te wijzen, bela
 
 ### Artikel  75a  
 
-1.  Indien daartoe door Onze Minister van Infrastructuur en Milieu is verzocht, geschiedt de behandeling van de aanvraag om de in artikel 75, derde lid, bedoelde ontheffing, tezamen met de voorbereiding en vaststelling van het tracébesluit, bedoeld in [artikel 9, eerste lid, van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md).   
-2.  In de in het eerste lid bedoelde gevallen is op de voorbereiding van de beschikking [afdeling 3.4 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.  
-3.  Ten aanzien van het beroep tegen een met toepassing van het eerste lid verleende ontheffing zijn de [artikelen 25](../../../../../wet/tracéwet/BWBR0006147/README.md) en [26 van de Tracéwet](../../../../../wet/tracéwet/BWBR0006147/README.md) van toepassing.  
+1.  Indien daartoe door Onze Minister van Infrastructuur en Milieu is verzocht, geschiedt de behandeling van de aanvraag om de in artikel 75, derde lid, bedoelde ontheffing, tezamen met de voorbereiding en vaststelling van het tracébesluit, bedoeld in artikel 9, eerste lid, van de Tracéwet.   
+2.  In de in het eerste lid bedoelde gevallen is op de voorbereiding van de beschikking afdeling 3.4 van de Algemene wet bestuursrecht van toepassing. Zienswijzen kunnen naar voren worden gebracht door een ieder.  
+3.  Ten aanzien van het beroep tegen een met toepassing van het eerste lid verleende ontheffing zijn de artikelen 25 en 26 van de Tracéwet van toepassing.  
 
 ### Afdeling  2a  
 
@@ -852,13 +852,13 @@ b. die tevens zijn aan te merken als handelingen waarvoor een of meer van de bij
 ### Artikel  75c  
 
 1.  De aanvrager van een omgevingsvergunning draagt er zorg voor dat de aanvraag tevens betrekking heeft op de handelingen die voldoen aan de criteria, bedoeld in artikel 75b, eerste lid.   
-2.  Indien toepassing wordt gegeven aan [artikel 2.5 van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), is artikel 75d van overeenkomstige toepassing op de beschikking met betrekking tot de eerste en tweede fase.  
+2.  Indien toepassing wordt gegeven aan artikel 2.5 van de Wet algemene bepalingen omgevingsrecht, is artikel 75d van overeenkomstige toepassing op de beschikking met betrekking tot de eerste en tweede fase.  
 
 ### Artikel  75d  
 
-1.  Een omgevingsvergunning die betrekking heeft op handelingen als bedoeld in artikel 75b, eerste lid, wordt niet verleend dan nadat Onze Minister heeft verklaard dat hij daartegen geen bedenkingen heeft als bedoeld in [artikel 2.27, eerste lid, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md).   
+1.  Een omgevingsvergunning die betrekking heeft op handelingen als bedoeld in artikel 75b, eerste lid, wordt niet verleend dan nadat Onze Minister heeft verklaard dat hij daartegen geen bedenkingen heeft als bedoeld in artikel 2.27, eerste lid, van de Wet algemene bepalingen omgevingsrecht.   
 2.  Artikel 75, vierde tot en met zesde lid, is van overeenkomstige toepassing met betrekking tot de verklaring, bedoeld in het eerste lid.   
-3.  Onze Minister kan een verzoek als bedoeld in [artikel 2.29, eerste lid, tweede volzin, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) slechts doen indien de omstandigheden sinds het tijdstip waarop de verklaring is gegeven zodanig zijn gewijzigd, dat deze niet zou zijn gegeven of niet zonder daarbij te bepalen dat aan de omgevingsvergunning daarbij aangegeven voorschriften worden verbonden, indien deze omstandigheden op het bedoelde tijdstip zouden hebben bestaan.  
+3.  Onze Minister kan een verzoek als bedoeld in artikel 2.29, eerste lid, tweede volzin, aanhef en onder a, van de Wet algemene bepalingen omgevingsrecht slechts doen indien de omstandigheden sinds het tijdstip waarop de verklaring is gegeven zodanig zijn gewijzigd, dat deze niet zou zijn gegeven of niet zonder daarbij te bepalen dat aan de omgevingsvergunning daarbij aangegeven voorschriften worden verbonden, indien deze omstandigheden op het bedoelde tijdstip zouden hebben bestaan.  
 
 ### Artikel  75e  
 
@@ -870,7 +870,7 @@ Het is verboden te handelen in strijd met een voorschrift van een omgevingsvergu
 
 ### Artikel  75f  
 
-Met toepassing van [artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet](../../../../../wet/dienstenwet/BWBR0026759/README.md) is [paragraaf 4.1.3.3. van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) niet van toepassing op een aanvraag tot ontheffing als bedoeld in de artikelen 68, eerste lid, en 75, derde lid, van het verbod bedoeld in artikel 13. 
+Met toepassing van artikel 28, eerste lid, laatste zinsnede, van de Dienstenwet is paragraaf 4.1.3.3. van de Algemene wet bestuursrecht niet van toepassing op een aanvraag tot ontheffing als bedoeld in de artikelen 68, eerste lid, en 75, derde lid, van het verbod bedoeld in artikel 13. 
 
 ### Artikel  76  
 
@@ -917,7 +917,7 @@ Een vergunning of ontheffing kan worden ingetrokken indien:
 
 a. de houder van een vergunning of ontheffing, nadat deze is verleend onherroepelijk is veroordeeld wegens een bij deze wet strafbaar gesteld feit of indien tegen hem deswege een strafbeschikking is uitgevaardigd;  
 
-b. de houder van een vergunning of ontheffing, nadat deze is verleend, onherroepelijk is veroordeeld wegens een feit strafbaar gesteld bij de [Wet op de dierenbescherming](../../../../../wet/wet/op/de/dierenbescherming/BWBR0002351/README.md) dan wel de [Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) voorzover het gedragingen als bedoeld [hoofdstuk III van die wet](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), betreft, of indien tegen hem deswege een strafbeschikking is uitgevaardigd;  
+b. de houder van een vergunning of ontheffing, nadat deze is verleend, onherroepelijk is veroordeeld wegens een feit strafbaar gesteld bij de Wet dieren voorzover het gedragingen als bedoeld in de artikelen 2.1, 2.2, 2.3, 2.5, 2.6, 2.7, 2.8, 2.9, 2.10, 2.13, 2.14 of 2.15 van die wet betreft, dan wel deswege hem een strafbeschikking is uitgevaardigd, of indien hij vervolging deswege heeft voorkomen overeenkomstig de bepalingen van artikel 74 van het Wetboek van Strafrecht of hem wegens overtreding van het krachtens de voornoemde artikelen van de Wet dieren bepaalde een bestuurlijke boete als bedoeld in artikel 8.7 van de Wet dieren is opgelegd;  
 
 c. de houder van een vergunning of ontheffing handelt in strijd met de hem verleende vergunning of ontheffing of met daaraan verbonden voorschriften;   
 
@@ -940,7 +940,7 @@ d. regels over voorzieningen voor de opvang van levende dieren en planten.
 
 ### Artikel  82  
 
-1.  Er is een Commissie bedreigde uitheemse dier- en plantensoorten, verder te noemen commissie, die tot taak heeft de regering en de beide kamers der Staten-Generaal te adviseren over het beleid inzake de uitvoering van deze wet en de afstemming met de [Gezondheids- en welzijnswet voor dieren](../../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en de totstandkoming en uitvoering van besluiten van organen van de Europese Unie verband houdende met in het wild levende dier- en plantensoorten.    
+1.  Er is een Commissie bedreigde uitheemse dier- en plantensoorten, verder te noemen commissie, die tot taak heeft de regering en de beide kamers der Staten-Generaal te adviseren over het beleid inzake de uitvoering van deze wet en de afstemming met de Wet dieren en de totstandkoming en uitvoering van besluiten van organen van de Europese Unie verband houdende met in het wild levende dier- en plantensoorten.    
 2.  De commissie fungeert als wetenschappelijke autoriteit als bedoeld in artikel IX van de op 3 maart te Washington tot stand gekomen Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantesoorten (Trb. 1975, 23).    
 3.  De commissie bestaat uit ten minste vijf en ten hoogste negen leden, de voorzitter daaronder begrepen, die ook deskundigheid bezitten op het gebied van natuurbescherming, welzijn van dieren en de opvang van dieren.   
 
@@ -1011,7 +1011,7 @@ d. het oprichten of mede-oprichten dan wel ontbinden van privaatrechtelijke rech
 
 ### Artikel  91  
 
-1.  Het Faunafonds brengt jaarlijks aan Onze Minister en gedeputeerde staten van de provincies voor 1 mei een financieel verslag uit dat vergezeld gaat van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een accountant als bedoeld in [artikel 393 van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).    
+1.  Het Faunafonds brengt jaarlijks aan Onze Minister en gedeputeerde staten van de provincies voor 1 mei een financieel verslag uit dat vergezeld gaat van een verklaring omtrent de getrouwheid en rechtmatigheid, afgegeven door een accountant als bedoeld in artikel 393 van Boek 2 van het Burgerlijk Wetboek.    
 2.  Het Faunafonds stelt de in het eerste lid bedoelde stukken algemeen verkrijgbaar.    
 3.  Onze Minister zendt de stukken, bedoeld in het eerste lid, in afschrift aan de beide kamers der Staten-Generaal.   
 
@@ -1087,7 +1087,7 @@ Een krachtens de artikelen 15, 30, tweede lid, 37, derde lid, 48, 49, 50, tweede
 
 ### Artikel  104  
 
-1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren, de bij besluit van gedeputeerde staten aangewezen ambtenaren, alsmede de door Onze Minister van Veiligheid en Justitie op grond van [artikel 17 van de Wet op de economische delicten](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md) met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten belaste ambtenaren.    
+1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de bij besluit van Onze Minister aangewezen ambtenaren, de bij besluit van gedeputeerde staten aangewezen ambtenaren, alsmede de door Onze Minister van Veiligheid en Justitie op grond van artikel 17 van de Wet op de economische delicten met de opsporing van de bij of krachtens deze wet strafbaar gestelde feiten belaste ambtenaren.    
 2.  Van een besluit van Onze Minister, bedoeld in het eerste lid, wordt mededeling gedaan door plaatsing in de Staatscourant.   
 
 ### Paragraaf  2  
@@ -1097,7 +1097,7 @@ Een krachtens de artikelen 15, 30, tweede lid, 37, derde lid, 48, 49, 50, tweede
 ### Artikel  112  
 
 1.  Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van het bij of krachtens deze wet bepaalde.   
-2.  Onverminderd het bepaalde in het eerste lid en [artikel 117 van het Wetboek van Strafvordering](../../../../../wet/wet/van/15/januari/1921/BWBR0001903/README.md) kan Onze Minister bepalen, dat planten of dieren of producten van planten of dieren die in strijd met het bepaalde bij of krachtens deze wet binnen het grondgebied van Nederland zijn gebracht, op kosten van de eigenaar, vervoerder, importeur of diens gemachtigde, worden teruggezonden naar het land van uitvoer of herkomst of naar enige andere plaats buiten Nederland worden gebracht die daarvoor naar het oordeel van Onze Minister geschikt is en in overeenstemming is met de doeleinden van de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantesoorten.    
+2.  Onverminderd het bepaalde in het eerste lid en artikel 117 van het Wetboek van Strafvordering kan Onze Minister bepalen, dat planten of dieren of producten van planten of dieren die in strijd met het bepaalde bij of krachtens deze wet binnen het grondgebied van Nederland zijn gebracht, op kosten van de eigenaar, vervoerder, importeur of diens gemachtigde, worden teruggezonden naar het land van uitvoer of herkomst of naar enige andere plaats buiten Nederland worden gebracht die daarvoor naar het oordeel van Onze Minister geschikt is en in overeenstemming is met de doeleinden van de Overeenkomst inzake de internationale handel in bedreigde in het wild levende dier- en plantesoorten.    
 3.  Onverminderd het bepaalde in het eerste lid kan Onze Minister bepalen dat levende dieren, behorend tot een beschermde inheemse diersoort, waarvan kan worden aangenomen dat zij zich in de natuur kunnen handhaven en die in strijd met het bepaalde bij of krachtens deze wet worden gehouden, op kosten van de eigenaar of van degene die deze dieren onder zich heeft, in hun natuurlijke leefomgeving in vrijheid worden gesteld.    
 4.  Onder de in het tweede en derde lid bedoelde kosten kunnen mede zijn begrepen de kosten van bewaring in verband met het transport naar de plaats van bestemming.    
 5.  Indien niet tot terugzending of tot invrijheidstelling in de natuurlijke leefomgeving als bedoeld in het tweede onderscheidenlijk derde lid wordt besloten, kunnen de kosten van verzorging, huisvesting of opslag binnen Nederland geheel of gedeeltelijk in rekening worden gebracht bij de eigenaar, vervoerder, importeur of diens gemachtigde, bedoeld in het tweede lid. Bij ministeriële regeling kunnen terzake nadere regels worden gesteld.   
@@ -1119,8 +1119,8 @@ Hetgeen krachtens het voorgaande artikel verschuldigd is, kan worden ingevorderd
 ### Artikel  113a  
 
 1.  Deze paragraaf is niet van toepassing met betrekking tot de handhaving van het bij of krachtens afdeling 2a bepaalde.   
-2.  Met betrekking tot de handhaving van het bij of krachtens afdeling 2a bepaalde zijn de [artikelen 5.3 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) van toepassing.   
-3.  Het in [artikel 5.2 van de Wet algemene bepalingen omgevingsrecht](../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md) bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van afdeling 2a voor degene die de betrokken activiteit verricht.  
+2.  Met betrekking tot de handhaving van het bij of krachtens afdeling 2a bepaalde zijn de artikelen 5.3 tot en met 5.23 van de Wet algemene bepalingen omgevingsrecht van toepassing.   
+3.  Het in artikel 5.2 van de Wet algemene bepalingen omgevingsrecht bedoelde bestuursorgaan heeft tot taak zorg te dragen voor de bestuursrechtelijke handhaving van de op grond van afdeling 2a voor degene die de betrokken activiteit verricht.  
 
 ### Hoofdstuk  IX  
 
@@ -1132,13 +1132,13 @@ Hetgeen krachtens het voorgaande artikel verschuldigd is, kan worden ingevorderd
 
 ### Artikel  114  
 
-1.  Vergunningen en ontheffingen verleend krachtens de Vogelwet 1936, de [Jachtwet](../../../../../wet/jachtwet/BWBR0002155/README.md), [artikel 25 van de Natuurbeschermingswet](../../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) of de Wet bedreigde uitheemse dier- en plantensoorten blijven van kracht voor de tijd dat zij zijn verleend.    
+1.  Vergunningen en ontheffingen verleend krachtens de Vogelwet 1936, de Jachtwet, artikel 25 van de Natuurbeschermingswet of de Wet bedreigde uitheemse dier- en plantensoorten blijven van kracht voor de tijd dat zij zijn verleend.    
 2.  Op vergunningen en ontheffingen als bedoeld in het eerste lid is het bepaalde in artikel 80 van toepassing.   
 
 ### Artikel  115  
 
-1.  Ten aanzien van degene aan wie voor het tijdstip van inwerkingtreding van de artikelen 38 tot en met 44 te rekenen vanaf 1 januari 1977 in enig jaar een jachtakte als bedoeld in de [Jachtwet](../../../../../wet/jachtwet/BWBR0002155/README.md), dan wel een vergunning als bedoeld in artikel 11 van de Vogelwet 1936 inzake haviken of slechtvalken is uitgereikt, is het bepaalde in artikel 39, eerste lid, onderdeel c, niet van toepassing.    
-2.  Gedurende een periode van twee jaar en zes maanden na inwerkingtreding van de artikelen 38 tot en met 44 van de wet is het bepaalde in artikel 39, eerste lid, onderdeel c, niet van toepassing indien een jachtexamen als erkend onder de [Jachtwet](../../../../../wet/jachtwet/BWBR0002155/README.md) met gunstig gevolg is behaald.   
+1.  Ten aanzien van degene aan wie voor het tijdstip van inwerkingtreding van de artikelen 38 tot en met 44 te rekenen vanaf 1 januari 1977 in enig jaar een jachtakte als bedoeld in de Jachtwet, dan wel een vergunning als bedoeld in artikel 11 van de Vogelwet 1936 inzake haviken of slechtvalken is uitgereikt, is het bepaalde in artikel 39, eerste lid, onderdeel c, niet van toepassing.    
+2.  Gedurende een periode van twee jaar en zes maanden na inwerkingtreding van de artikelen 38 tot en met 44 van de wet is het bepaalde in artikel 39, eerste lid, onderdeel c, niet van toepassing indien een jachtexamen als erkend onder de Jachtwet met gunstig gevolg is behaald.   
 3.  Ten aanzien van degene aan wie op grond van het tweede lid een jachtakte is uitgereikt, is het bepaalde in artikel 39, eerste lid, onderdeel c, niet van toepassing.  
 
 ### Artikel  116  
@@ -1175,11 +1175,11 @@ Wijzigt de Wet milieubeheer.
 
 ### Artikel  123  
 
-1.  De artikelen van de Vogelwet 1936, de [Jachtwet](../../../../../wet/jachtwet/BWBR0002155/README.md) en de Wet bedreigde uitheemse dier- en plantensoorten vervallen op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen van genoemde wetten, of onderdelen daarvan, verschillend kan worden gesteld.    
-2.   De artikelen[ 22 tot en met 25 van de Natuurbeschermingswet](../../../../../wet/natuurbeschermingswet/BWBR0002611/README.md) vervallen op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.   
-3.  De Vogelwet 1936, de [Jachtwet](../../../../../wet/jachtwet/BWBR0002155/README.md), de Nuttige Dierenwet 1914 en de Wet bedreigde uitheemse dier- en plantensoorten worden ingetrokken op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende wetten verschillend kan worden gesteld.    
+1.  De artikelen van de Vogelwet 1936, de Jachtwet en de Wet bedreigde uitheemse dier- en plantensoorten vervallen op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen van genoemde wetten, of onderdelen daarvan, verschillend kan worden gesteld.    
+2.   De artikelen 22 tot en met 25 van de Natuurbeschermingswet vervallen op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden gesteld.   
+3.  De Vogelwet 1936, de Jachtwet, de Nuttige Dierenwet 1914 en de Wet bedreigde uitheemse dier- en plantensoorten worden ingetrokken op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende wetten verschillend kan worden gesteld.    
 4.  Ten aanzien van zaken betreffende overtredingen van ingevolge de voorafgaande leden vervallen onderscheidenlijk ingetrokken voorschriften die op het tijdstip van vervallen onderscheidenlijk intrekking bij de tot dat tijdstip bevoegde rechter aanhangig waren, blijft deze rechter bevoegd.    
-5.  De in het vierde lid bedoelde zaken worden onverminderd [artikel 1, tweede lid, van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), afgedaan volgens op het in het derde lid bedoelde tijdstip geldende regels.   
+5.  De in het vierde lid bedoelde zaken worden onverminderd artikel 1, tweede lid, van het Wetboek van Strafrecht, afgedaan volgens op het in het derde lid bedoelde tijdstip geldende regels.   
 
 ### Artikel  124  
 

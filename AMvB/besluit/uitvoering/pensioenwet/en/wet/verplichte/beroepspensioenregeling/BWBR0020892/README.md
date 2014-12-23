@@ -229,6 +229,48 @@ e. informatie over de aanstelling van een bewindvoerder als bedoeld in artikel 1
 
 De informatie op grond van de artikelen 21, 38 tot en met 45 en 46, eerste lid, onderdeel a, en tweede lid, van de Pensioenwet dan wel de artikelen 48 tot en met 56, 57, eerste lid, onderdeel a en tweede lid, van de Wet verplichte beroepspensioenregeling wordt kosteloos verstrekt. De informatie op grond van artikel 9, eerste en achtste lid, wordt eveneens kosteloos verstrekt. 
 
+### Artikel  10a  
+
+####Informatie over uitvoeringskosten in jaarverslag
+
+Treedt in werking per 01-01-2015 
+
+1.  De administratieve uitvoeringskosten, bedoeld in artikel 45a, eerste lid, van de Pensioenwet dan wel artikel 56a, eerste lid, van de Wet verplichte beroepspensioenregeling, zijn de kosten voor het pensioenbeheer. Hieronder wordt onder meer begrepen de kosten voor: 
+
+a. het vaststellen en innen van de premie;  
+
+b. registratie van pensioenaanspraken en pensioenrechten;  
+
+c. informatieverstrekking aan en communicatie met deelnemers, andere aanspraakgerechtigden, pensioengerechtigden en de werkgever;  
+
+d. het bestuur; en  
+
+e. het toezicht door de toezichthouders.     
+2.  De kosten van vermogensbeheer, bedoeld in artikel 45a, eerste lid, van de Pensioenwet dan wel artikel 56a, eerste lid, van de Wet verplichte beroepspensioenregeling, zijn de kosten voor het beheer van het belegde vermogen, met uitzondering van de transactiekosten. Onder de kosten van vermogensbeheer wordt onder meer begrepen de kosten voor: 
+
+a. fiduciair vermogensbeheer;  
+
+b. bewaarloon; en  
+
+c. advieskosten.     
+3.  De transactiekosten, bedoeld in artikel 45a, eerste lid, van de Pensioenwet dan wel artikel 56a, eerste lid, van de Wet verplichte beroepspensioenregeling, zijn de kosten voor de transacties in vermogenstitels. Hieronder wordt onder meer begrepen de kosten voor: 
+
+a. aankoop en verkoop van vermogensbestanddelen;  
+
+b. acquisitie van beleggingen; en  
+
+c. deelname aan beleggingsfondsen.     
+4.  Kosten die niet kunnen worden toebedeeld aan een van de drie categorieën, bedoeld in het eerste tot en met derde lid, worden naar rato over de drie categorieën verdeeld.  
+
+### Artikel  10b  
+
+####Weergave uitvoeringskosten in jaarverslag
+
+Treedt in werking per 01-01-2015 
+
+1.  De administratieve uitvoeringskosten, bedoeld in artikel 10a, eerste lid, worden in het jaarverslag opgenomen als totaalbedrag en als bedrag per deelnemer of pensioengerechtigde.   
+2.  De kosten van vermogensbeheer, bedoeld in artikel 10a, tweede lid, en de transactiekosten, bedoeld in artikel 10a, derde lid, worden in het jaarverslag opgenomen als totaal bedrag en als percentage van het in het verslagjaar gemiddeld belegde vermogen.  
+
 ### Hoofdstuk  3  
 
 ####Fondsbestuur
