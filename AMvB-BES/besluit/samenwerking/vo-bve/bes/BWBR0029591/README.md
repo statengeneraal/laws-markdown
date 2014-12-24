@@ -12,12 +12,17 @@ De Afdeling advisering van de Raad van State gehoord (advies van 20 oktober 201
 
 Gezien het nader rapport van Onze Minister van Onderwijs, Cultuur en Wetenschap van 31 januari 2011, nr. WJZ 260515 (4877), directie Wetgeving en Juridische Zaken, uitgebracht mede namens Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties;
 Hebben goedgevonden en verstaan:    
+### Hoofdstuk  1  
+
+####Begripsbepalingen
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 ### Artikel  1  
 
 ####Begripsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 In dit besluit wordt verstaan onder: 
 
@@ -25,9 +30,25 @@ a.  *WVO BES:* Wet voortgezet onderwijs BES;
 
 b.  *WEB BES:* Wet educatie en beroepsonderwijs BES;  
 
-c.  *school:* een uit ’s Rijks kas bekostigde school voor voortgezet onderwijs als bedoeld in artikel 1 van de WVO BES;  
+c.  *VAVO:* voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onder a, van de WEB BES.   
 
-d.  *instelling:* een uit ’s Rijks kas bekostigde instelling als bedoeld in artikel 1.1.1. van de WEB BES.   
+### Hoofdstuk  2  
+
+####Uit ’s Rijks kas bekostigde scholen en instellingen
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+### Artikel  1a  
+
+####Begripsbepalingen hoofdstuk 2 
+
+Treedt in werking op een nader te bepalen tijdstip 
+
+In hoofdstuk 2 wordt verstaan onder: 
+
+a.  *school:* een uit ’s Rijks kas bekostigde school voor voortgezet onderwijs als bedoeld in artikel 1 van de WVO BES;  
+
+b.  *instelling:* een uit ’s Rijks kas bekostigde instelling als bedoeld in artikel 1.1.1, van de WEB BES.   
 
 ### Artikel  2  
 
@@ -67,19 +88,31 @@ b. die in verband daarmee in dat schooljaar wordt uitgeschreven aan de school, e
 
 c. die aansluitend in dat schooljaar wordt ingeschreven als leerling aan een andere school of als deelnemer aan een instelling.   
 
-### Artikel  5  
+### Hoofdstuk  3  
 
-####Afwijking van de WVO BES
+####Niet uit ’s Rijks kas bekostigde scholen en onbekostigd VAVO
 
 Treedt in werking op een nader te bepalen tijdstip 
 
-In afwijking van artikel 80, eerste lid, van de WVO BES kan onderwijs ook worden verzorgd door docenten van de instelling waarmee het bevoegd gezag van de school een samenwerkingsovereenkomst heeft gesloten als bedoeld in artikel 62, derde lid, van de WVO BES. 
+### Artikel  5  
+
+####Voorwaarden om als ingeschrevene van een onbekostigde VO-school deel te kunnen nemen aan een onbekostigde opleiding VAVO
+
+Treedt in werking per 01-01-2015 
+
+Het bevoegd gezag van een ingevolge artikel 112 van de WVO BES aangewezen school kan leerlingen van 16 en 17 jaar die naar het oordeel van het bevoegd gezag een grotere kans hebben een diploma of volgend diploma als bedoeld in artikel 72, derde lid, van de WVO BES te behalen indien zij VAVO volgen in plaats van voortgezet onderwijs, in de gelegenheid stellen in het kader van het onderwijs waarvoor zij aan de school zijn ingeschreven, deel te nemen aan een opleiding VAVO aan een instelling waarvoor wat betreft genoemde opleiding toepassing is gegeven aan artikel 1.4.2 van de WEB BES, en die opleiding met een examen af te sluiten. 
+
+### Hoofdstuk  4  
+
+####Slotbepalingen
+
+Treedt in werking op een nader te bepalen tijdstip 
 
 ### Artikel  6  
 
 ####Inwerkingtreding
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepalen tijdstip dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
@@ -87,7 +120,7 @@ Dit besluit treedt in werking met ingang van een bij koninklijk besluit te bepal
 
 ####Citeertitel
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Dit besluit wordt aangehaald als: Besluit samenwerking VO-BVE BES. 
 

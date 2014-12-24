@@ -8,7 +8,7 @@ Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 
 
 Gelet op richtlijn nr. 91/676/EEG van de Raad van de Europese Gemeenschappen van 12 december 1991 inzake de bescherming van water tegen verontreiniging door nitraat uit agrarische bronnen (PbEG L 375) en verordening (EEG) nr. 259/93 van de Raad van de Europese Gemeenschappen van 1 februari 1993 betreffende toezicht en controle op de overbrenging van afvalstoffen binnen, naar en uit de Europese Gemeenschap (PbEG L 30);
 
-Gelet op de [artikelen 1, vierde lid](../../../../wet/meststoffenwet/BWBR0004054/README.md), [1a, eerste lid](../../../../wet/meststoffenwet/BWBR0004054/README.md), [6, eerste en tweede lid](../../../../wet/meststoffenwet/BWBR0004054/README.md), [6a](../../../../wet/meststoffenwet/BWBR0004054/README.md), [59](../../../../wet/meststoffenwet/BWBR0004054/README.md), [59a](../../../../wet/meststoffenwet/BWBR0004054/README.md), [59b](../../../../wet/meststoffenwet/BWBR0004054/README.md), [59c](../../../../wet/meststoffenwet/BWBR0004054/README.md), [61](../../../../wet/meststoffenwet/BWBR0004054/README.md) en [61a van de Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) en gelet op [artikel 23 van de Destructiewet](../../../../wet/destructiewet/BWBR0002244/README.md);
+Gelet op de artikelen 1, vierde lid, 1a, eerste lid, 6, eerste en tweede lid, 6a, 59, 59a, 59b, 59c, 61 en 61a van de Meststoffenwet en gelet op artikel 23 van de Destructiewet;
 
 De Raad van State gehoord (advies van 21 oktober 2005, no. W11.05.0329/V);
 
@@ -22,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 1. In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md);  
+a. wet: Meststoffenwet;  
 
 b. perceel: aaneengesloten, door wegen, waterwegen, sloten, houtopstanden, muren, wallen of anderszins topografisch begrensde oppervlakte grond, dan wel het gedeelte daarvan behorend tot één bedrijf;  
 
@@ -52,7 +52,7 @@ l.overige organische meststoffen: organische meststoffen niet zijnde dierlijke m
 
 m.kalkmeststoffen: organische of anorganische meststoffen die hoofdzakelijk zijn bedoeld om zuurgraad in de bodem in stand te houden of te verlagen;
 
-n.afvalstoffen: afvalstoffen als bedoeld in [artikel 1.1 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md);
+n.afvalstoffen: afvalstoffen als bedoeld in artikel 1.1 van de Wet milieubeheer;
 
 o. intermediaire onderneming: onderneming, niet zijnde een bedrijf, in het kader waarvan al dan niet uitsluitend dierlijke meststoffen worden verhandeld of worden gebruikt;  
 
@@ -60,7 +60,7 @@ p. ondernemer: natuurlijke persoon of rechtspersoon die, of samenwerkingsverband
 
 q. intermediair: ondernemer die een intermediaire onderneming voert;  
 
-r. diervoeders: diervoeders als bedoeld in [artikel 1.1 van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md);  
+r. diervoeders: diervoeders als bedoeld in artikel 1.1 van de Wet dieren;  
 
 s. vervoeren van meststoffen: elk feitelijk transporteren van meststoffen, het laden en lossen van deze meststoffen inbegrepen, met uitzondering van het feitelijk transporteren binnen een bedrijf;  
 
@@ -81,7 +81,7 @@ z. opslagruimte voor meststoffen: ruimte die in het kader van een bedrijf of een
 
 ###Artikel 1a 
 
-Dit besluit berust mede op [artikel 12.29, aanhef en onder e en f, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md).
+Dit besluit berust mede op artikel 12.29, aanhef en onder e en f, van de Wet milieubeheer.
 
 ### Artikel  2  
 
@@ -93,7 +93,7 @@ Voor de toepassing van dit besluit, met uitzondering van hoofdstuk V, worden de 
 
 ### Artikel  3  
 
-Als de kaarten, bedoeld in [artikel 1, vierde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), worden vastgesteld de kaarten die zijn opgenomen als bijlage I bij dit besluit. 
+Als de kaarten, bedoeld in artikel 1, vierde lid, van de wet, worden vastgesteld de kaarten die zijn opgenomen als bijlage I bij dit besluit. 
 
 ### Hoofdstuk  III  
 
@@ -119,9 +119,9 @@ d.artikel 17, indien het compost betreft; en
 e.de artikelen 11, 12, 13, 14, eerste lid, en 15, eerste lid, indien het overige organische meststoffen betreft. 
 3. Het in het eerste lid gestelde verbod is niet van toepassing op de verhandeling van:
 
-a.EG-meststoffen, voor zover ten aanzien van deze meststoffen is voldaan aan de ter uitvoering van de meststoffenverordening krachtens [40, tweede lid, van de Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md), gestelde regels;
+a.EG-meststoffen, voor zover ten aanzien van deze meststoffen is voldaan aan de ter uitvoering van de meststoffenverordening krachtens 40, tweede lid, van de Meststoffenwet, gestelde regels;
 
-b.meststoffen als bedoeld in [artikel 1, onderdeel d, onder 2°, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md);
+b.meststoffen als bedoeld in artikel 1, onderdeel d, onder 2°, van de wet;
 
 c.uitwerpselen van dieren, daaronder begrepen de geheel of gedeeltelijk verteerde maag- of darminhoud van deze dieren en mengsels van strooisel met de uitwerpselen, alsook producten daarvan voor zover aan de uitwerpselen of de producten daarvan geen andere meststoffen zijn toegevoegd dan meststoffen die aan de in het tweede lid bedoelde regels voldoen of voor zover de producten daarvan eindproducten zijn die krachtens artikel 5, tweede lid, zijn aangewezen. 
 4. Het is verboden meststoffen, niet zijnde EG-meststoffen, met de aanduiding «EG-meststof» te verhandelen.
@@ -219,8 +219,15 @@ Overige organische meststoffen bevatten geen biologisch afbreekbare delen met ee
 
 1. Compost bevat geen biologisch afbreekbare delen met een diameter groter dan 50 millimeter en niet meer dan 0,5 gewichtsprocent aan bodemvreemde niet-biologisch afbreekbare delen. 
 2. Compost bevat ten minste tien gewichtsprocenten organische stof van de droge stof. 
-3. Het is uitsluitend toegestaan om bij de bereiding van compost bodembestanddelen te gebruiken, indien dit betreft grond als bedoeld in [artikel 1 van het Besluit bodemkwaliteit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), waarvan de kwaliteit de krachtens [artikel 40 van dat besluit](../../../../AMvB/besluit/bodemkwaliteit/BWBR0022929/README.md), vastgestelde achtergrondwaarden niet overschrijdt.  
+3. Het is uitsluitend toegestaan om bij de bereiding van compost bodembestanddelen te gebruiken, indien dit betreft grond als bedoeld in artikel 1 van het Besluit bodemkwaliteit, waarvan de kwaliteit de krachtens artikel 40 van dat besluit, vastgestelde achtergrondwaarden niet overschrijdt.  
 4. Compost overschrijdt niet de in bijlage II, onder tabel 3, bij dit besluit opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram droge stof.
+
+### Artikel  17a  
+Treedt in werking op een nader te bepalen tijdstip 
+
+1.  Herwonnen fosfaten overschrijden niet de in bijlage II, in tabel 1, opgenomen maximale waarden voor zware metalen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.   
+2.  Herwonnen fosfaten overschrijden niet de in bijlage II, in tabel 4, opgenomen maximale waarden voor organische microverontreinigingen, uitgedrukt in milligrammen per kilogram van het desbetreffende waardegevende bestanddeel.   
+3.  Bij ministeriële regeling kan worden bepaald dat herwonnen fosfaten uit rioolzuiveringsslib behandeld worden volgens een procedé dat tot gevolg heeft dat het grootste deel van de in het rioolzuiveringsslib aanwezige pathogene organismen afsterft, met het oog op het minimaliseren van de risico’s voor de volksgezondheid en het milieu.  
 
 ###Paragraaf 5 
 
@@ -296,12 +303,12 @@ h.de gevallen waarin en de voorwaarden waaronder de artikelen 11, 14 en 15 gehee
 
 ### Artikel  21a  
 
-1.  De fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), is per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met hoge fosfaattoestand betreft: 
+1.  De fosfaatgebruiksnorm voor meststoffen, bedoeld in artikel 8, onderdeel c, van de wet, is per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met hoge fosfaattoestand betreft: 
 
 a. 90 kilogram fosfaat in 2010 en 2011;  
 
 b. 85 kilogram fosfaat in 2012 en 2013.     
-2.  De fosfaatgebruiksnorm voor meststoffen, bedoeld in [artikel 8, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), is per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met hoge fosfaattoestand betreft: 
+2.  De fosfaatgebruiksnorm voor meststoffen, bedoeld in artikel 8, onderdeel c, van de wet, is per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met hoge fosfaattoestand betreft: 
 
 a. 75 kilogram fosfaat in 2010;  
 
@@ -313,28 +320,28 @@ d. 55 kilogram fosfaat in 2013.
 
 ### Artikel  22  
 
-Voor de toepassing van [artikel 9 van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) is de tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar de oppervlakte landbouwgrond die op 15 mei van dat jaar tot het bedrijf behoort. 
+Voor de toepassing van artikel 9 van de wet is de tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar de oppervlakte landbouwgrond die op 15 mei van dat jaar tot het bedrijf behoort. 
 
 ### Artikel  23  
 
-1.  Voor de toepassing van [artikel 10, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) is de tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar de op 15 mei van dat jaar beteelde oppervlakte landbouwgrond die tot het bedrijf behoort.   
+1.  Voor de toepassing van artikel 10, eerste lid, van de wet is de tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar de op 15 mei van dat jaar beteelde oppervlakte landbouwgrond die tot het bedrijf behoort.   
 2.  Ingeval de teelt van gewassen na het in het eerste lid bedoelde tijdstip aanvangt, wordt de tot het bedrijf behorende oppervlakte landbouwgrond, bedoeld in het eerste lid, vermeerderd met de met deze gewassen beteelde oppervlakte landbouwgrond die op het tijdstip waarop de teelt aanvangt tot het bedrijf behoort.   
-3.  De beteelde oppervlakte landbouwgrond wordt onderscheiden naar de geteelde gewassen, de toegepaste landbouwpraktijk, de ecologische kenmerken van een waterlichaam, de kenmerken van de bodem en de desbetreffende grondsoorten, bedoeld in [artikel 10, tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), voor zover dit onderscheid wordt gemaakt in de krachtens [artikel 10, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), vastgestelde ministeriële regeling.  
+3.  De beteelde oppervlakte landbouwgrond wordt onderscheiden naar de geteelde gewassen, de toegepaste landbouwpraktijk, de ecologische kenmerken van een waterlichaam, de kenmerken van de bodem en de desbetreffende grondsoorten, bedoeld in artikel 10, tweede lid, van de wet, voor zover dit onderscheid wordt gemaakt in de krachtens artikel 10, eerste lid, van de wet, vastgestelde ministeriële regeling.  
 
 ### Artikel  24  
 
-1.  Voor de toepassing van [artikel 11, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), artikel 21a, eerste lid, van dit besluit en de krachtens artikel 11, vijfde lid, van de wet vastgestelde ministeriële regeling is de tot het bedrijf behorende oppervlakte grasland in enig kalenderjaar de oppervlakte grasland die op 15 mei van dat jaar tot het bedrijf behoort.   
-2.  Voor de toepassing van [artikel 11, tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), artikel 21a, tweede lid, van dit besluit en de krachtens artikel 11, vijfde lid, van de wet vastgestelde ministeriële regeling is de tot het bedrijf behorende oppervlakte bouwland in enig kalenderjaar de oppervlakte bouwland die op 15 mei van dat jaar tot het bedrijf behoort.   
-3.  De oppervlakte grasland en bouwland wordt onderscheiden naar de fosfaattoestand van de desbetreffende grond, zoals deze wordt onderscheiden in [artikel 1, eerste lid, onderdelen u, v en w, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md). 
+1.  Voor de toepassing van artikel 11, eerste lid, van de wet, artikel 21a, eerste lid, van dit besluit en de krachtens artikel 11, vijfde lid, van de wet vastgestelde ministeriële regeling is de tot het bedrijf behorende oppervlakte grasland in enig kalenderjaar de oppervlakte grasland die op 15 mei van dat jaar tot het bedrijf behoort.   
+2.  Voor de toepassing van artikel 11, tweede lid, van de wet, artikel 21a, tweede lid, van dit besluit en de krachtens artikel 11, vijfde lid, van de wet vastgestelde ministeriële regeling is de tot het bedrijf behorende oppervlakte bouwland in enig kalenderjaar de oppervlakte bouwland die op 15 mei van dat jaar tot het bedrijf behoort.   
+3.  De oppervlakte grasland en bouwland wordt onderscheiden naar de fosfaattoestand van de desbetreffende grond, zoals deze wordt onderscheiden in artikel 1, eerste lid, onderdelen u, v en w, van de wet. 
 
 ### Artikel  25  
 
-Voor de toepassing van de [artikelen 9](../../../../wet/meststoffenwet/BWBR0004054/README.md), [10, eerste lid](../../../../wet/meststoffenwet/BWBR0004054/README.md), [11, eerste en tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), artikel 21a van dit besluit en de krachtens artikel 11, vijfde lid, van de wet vastgestelde ministeriële regeling wordt de teeltvrije zone, bedoeld in de [artikelen 3.80](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), [3.81](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md) en [3.85 van het Activiteitenbesluit milieubeheer](../../../../AMvB/activiteitenbesluit/BWBR0022762/README.md), niet aangemerkt als tot het bedrijf behorende oppervlakte landbouwgrond. 
+Voor de toepassing van de artikelen 9, 10, eerste lid, 11, eerste en tweede lid, van de wet, artikel 21a van dit besluit en de krachtens artikel 11, vijfde lid, van de wet vastgestelde ministeriële regeling wordt de teeltvrije zone, bedoeld in de artikelen 3.80, 3.81 en 3.85 van het Activiteitenbesluit milieubeheer, niet aangemerkt als tot het bedrijf behorende oppervlakte landbouwgrond. 
 
 ### Artikel  25a  
 
-1.  Voor de toepassing van [artikel 1, eerste lid, onderdeel cc, onder 1°, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) is de tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar de oppervlakte landbouwgrond die ingevolge de artikelen 24 en 25 in het desbetreffende kalenderjaar tot het bedrijf behoort.   
-2.  Voor de toepassing van [artikel 1, eerste lid, onderdeel cc, onder 2°, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) is de tot het bedrijf behorende oppervlakte landbouwgrond zijnde natuurterrein dat de hoofdfunctie natuur, heeft in enig kalenderjaar het natuurterrein dat op 15 mei van het desbetreffende kalenderjaar bij het bedrijf in gebruik is.  
+1.  Voor de toepassing van artikel 1, eerste lid, onderdeel cc, onder 1°, van de wet is de tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar de oppervlakte landbouwgrond die ingevolge de artikelen 24 en 25 in het desbetreffende kalenderjaar tot het bedrijf behoort.   
+2.  Voor de toepassing van artikel 1, eerste lid, onderdeel cc, onder 2°, van de wet is de tot het bedrijf behorende oppervlakte landbouwgrond zijnde natuurterrein dat de hoofdfunctie natuur, heeft in enig kalenderjaar het natuurterrein dat op 15 mei van het desbetreffende kalenderjaar bij het bedrijf in gebruik is.  
 
 ### Artikel  26  
 
@@ -358,7 +365,7 @@ b. de overige te verstrekken gegevens, de wijze waarop deze gegevens worden vers
 
 ### Artikel  27  
 
-1.  Voor de toepassing van dit hoofdstuk wordt als opslagruimte voor meststoffen uitsluitend in aanmerking genomen de opslagruimte voor dierlijke meststoffen waarvoor een omgevingsvergunning geldt als bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), of waarop een algemene maatregel van bestuur op grond van [artikel 8.40 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) van toepassing is.   
+1.  Voor de toepassing van dit hoofdstuk wordt als opslagruimte voor meststoffen uitsluitend in aanmerking genomen de opslagruimte voor dierlijke meststoffen waarvoor een omgevingsvergunning geldt als bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht, of waarop een algemene maatregel van bestuur op grond van artikel 8.40 van de Wet milieubeheer van toepassing is.   
 2.  Voor de toepassing van dit hoofdstuk wordt de hoeveelheid dierlijke meststoffen uitgedrukt in kubieke meters.  
 
 ### Artikel  28  
@@ -366,10 +373,10 @@ b. de overige te verstrekken gegevens, de wijze waarop deze gegevens worden vers
 1.  De producent van dierlijke meststoffen draagt er zorg voor dat de capaciteit van de opslagruimte voor dierlijke meststoffen op het bedrijf voldoende is voor de opslag van de hoeveelheid dierlijke meststoffen die in de periode van augustus tot en met februari op het bedrijf wordt geproduceerd.   
 2.  De hoeveelheid dierlijke meststoffen, bedoeld in het eerste lid, wordt berekend door vermenigvuldiging van: 
 
-a. het aantal dieren van de onderscheiden diersoorten en diercategorieën dat op grond van de omgevingsvergunning, bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), in de tot het bedrijf behorende stallen kan worden gehouden, met  
+a. het aantal dieren van de onderscheiden diersoorten en diercategorieën dat op grond van de omgevingsvergunning, bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht, in de tot het bedrijf behorende stallen kan worden gehouden, met  
 
 b. de voor de betrokken diersoort en diercategorie bij ministeriële regeling vastgestelde forfaitaire productienormen.     
-3.  Ingeval voor het bedrijf ingevolge [artikel 8.40 van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md) geen vergunningplicht geldt, wordt, in plaats van het in het tweede lid, onderdeel a, bedoelde aantal dieren, als uitgangspunt genomen het aantal dieren van de onderscheiden diersoorten en diercategorieën dat in de bij het bedrijf behorende stallen kan worden gehouden.   
+3.  Ingeval voor het bedrijf ingevolge artikel 8.40 van de Wet milieubeheer geen vergunningplicht geldt, wordt, in plaats van het in het tweede lid, onderdeel a, bedoelde aantal dieren, als uitgangspunt genomen het aantal dieren van de onderscheiden diersoorten en diercategorieën dat in de bij het bedrijf behorende stallen kan worden gehouden.   
 4.  De in het tweede lid, onderdeel b, bedoelde productienormen kunnen verschillend worden vastgesteld al naar gelang het gehanteerde bedrijfssysteem.  
 
 ### Artikel  29  
@@ -378,9 +385,9 @@ b. de voor de betrokken diersoort en diercategorie bij ministeriële regeling va
 
 a. de overeenkomstig artikel 28, tweede en derde lid, berekende hoeveelheid dierlijke meststoffen die wordt geproduceerd boven de werkelijke opslagcapaciteit op een voor het milieu onschadelijke wijze van het bedrijf zal worden verwijderd;  
 
-b. de overeenkomstig artikel 28, tweede en derde lid, berekende hoeveelheid dierlijke meststoffen die wordt geproduceerd boven de werkelijke opslagcapaciteit zal worden aangewend op tot het bedrijf behorend bouwland of grasland waarvoor het in [artikel 4 van het Besluit gebruik meststoffen](../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) gestelde verbod niet geldt;  
+b. de overeenkomstig artikel 28, tweede en derde lid, berekende hoeveelheid dierlijke meststoffen die wordt geproduceerd boven de werkelijke opslagcapaciteit zal worden aangewend op tot het bedrijf behorend bouwland of grasland waarvoor het in artikel 4 van het Besluit gebruik meststoffen gestelde verbod niet geldt;  
 
-c. het aantal dieren dat in de periode van augustus tot en met februari feitelijk in de tot het bedrijf behorende stallen kan worden gehouden kleiner is dan op grond van de omgevingsvergunning, bedoeld in [artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht](../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md), is toegestaan; of  
+c. het aantal dieren dat in de periode van augustus tot en met februari feitelijk in de tot het bedrijf behorende stallen kan worden gehouden kleiner is dan op grond van de omgevingsvergunning, bedoeld in artikel 2.1, eerste lid, aanhef en onder e, van de Wet algemene bepalingen omgevingsrecht, is toegestaan; of  
 
 d. in de periode van augustus tot en met februari stelselmatig minder dieren worden gehouden in de bij het bedrijf behorende stallen.     
 2.  Het eerste lid, aanhef en onderdeel b, geldt niet voor de hoeveelheid dierlijke meststoffen die in februari wordt geproduceerd.  
@@ -409,8 +416,8 @@ d. in voorkomend geval de aard en samenstelling van het samenwerkingsverband van
 e. de toegepaste huisvestingssystemen; en  
 
 f. de wijzigingen in de gegevens, bedoeld in de onderdelen a tot en met e.     
-3.  Voor zover de in het tweede lid bedoelde gegevens zijn verstrekt op grond van de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md), de [Wet herstructurering varkenshouderij](../../../../wet/wet/herstructurering/varkenshouderij/BWBR0009542/README.md) en de [Wet verplaatsing mestproductie](../../../../wet/wet/verplaatsing/mestproduktie/BWBR0006285/README.md) en niet zijn gewijzigd, behoeven deze niet opnieuw te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.   
-4.  Voor zover de in het tweede lid bedoelde gegevens worden verstrekt op grond van de krachtens de [artikelen 24](../../../../wet/landbouwwet/BWBR0002252/README.md) en [25 van de Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md) of de [artikelen 4](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md), [10 tot en met 14](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) en [96 van de Gezondheids- en welzijnswet voor dieren](../../../../wet/gezondheids-/en/welzijnswet/voor/dieren/BWBR0005662/README.md) gestelde regels, behoeven deze niet nogmaals te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.  
+3.  Voor zover de in het tweede lid bedoelde gegevens zijn verstrekt op grond van de Meststoffenwet, de Wet herstructurering varkenshouderij en de Wet verplaatsing mestproductie en niet zijn gewijzigd, behoeven deze niet opnieuw te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.   
+4.  Voor zover de in het tweede lid bedoelde gegevens worden verstrekt op grond van de krachtens de artikelen 24 en 25 van de Landbouwwet of de artikelen 4, 10 tot en met 14 en 96 van de Gezondheids- en welzijnswet voor dieren gestelde regels, behoeven deze niet nogmaals te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.  
 
 ### Artikel  32  
 
@@ -423,23 +430,23 @@ b. de oppervlakte en gegevens ter identificatie van de percelen van de tot het b
 
 1° de verschillende teelten of andere vormen van gebruik;  
 
-2° de fosfaattoestand van de tot het bedrijf behorende oppervlakte landbouwgrond, zoals deze wordt onderscheiden in [artikel 1, eerste lid, onderdelen u, v en w, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md);  
+2° de fosfaattoestand van de tot het bedrijf behorende oppervlakte landbouwgrond, zoals deze wordt onderscheiden in artikel 1, eerste lid, onderdelen u, v en w, van de wet;  
 
 3° grasland en bouwland, en  
 
-4°. voor zover het betreft tot het bedrijf behorende oppervlakte landbouwgrond zijnde natuurterrein dat de hoofdfunctie natuur heeft, het beheersregime dat ingevolge [artikel 2, tweede lid, van het Besluit gebruik meststoffen](../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md), op de desbetreffende percelen ten aanzien van mestgebruik geldt;  
+4°. voor zover het betreft tot het bedrijf behorende oppervlakte landbouwgrond zijnde natuurterrein dat de hoofdfunctie natuur heeft, het beheersregime dat ingevolge artikel 2, tweede lid, van het Besluit gebruik meststoffen, op de desbetreffende percelen ten aanzien van mestgebruik geldt;  
 
 c. de oppervlakte en gegevens ter identificatie van de exclusief bij het bedrijf in gebruik zijnde percelen landbouwgrond die zijn gelegen in België en Duitsland in het grensgebied met Nederland, onderscheiden naar de verschillende teelten of andere vormen van gebruik;  
 
-d. de aantallen op het bedrijf gehouden dan wel anderszins aanwezige varkens, kippen en kalkoenen en het gemiddeld in het kalenderjaar op het bedrijf gehouden aantal van deze dieren, onderscheiden naar diercategorieën per soort overeenkomstig [bijlage II van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md);  
+d. de aantallen op het bedrijf gehouden dan wel anderszins aanwezige varkens, kippen en kalkoenen en het gemiddeld in het kalenderjaar op het bedrijf gehouden aantal van deze dieren, onderscheiden naar diercategorieën per soort overeenkomstig bijlage II van de wet;  
 
 e. de aantallen voor gebruiks- of winstdoeleinden op het bedrijf gehouden dan wel anderszins aanwezige dieren, anders dan varkens, kippen en kalkoenen, onderscheiden naar diersoorten en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens artikel 36 gestelde regels;  
 
-f. de hoeveelheden aan- en afgevoerde meststoffen waarbij, voor zover van toepassing, wordt aangegeven dat de afvoer heeft plaatsgevonden ter uitvoering van [artikel 33a, tweede lid, onderdeel b, onder 1°, onderdeel e, of vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), de datum waarop de aan- of afvoer plaatsvond en gegevens over het bedrijf of de onderneming van herkomst, onderscheidenlijk van bestemming, dan wel, ingeval geen sprake is van een bedrijf of onderneming, gegevens over de leverancier onderscheidenlijk afnemer van de meststoffen;  
+f. de hoeveelheden aan- en afgevoerde meststoffen waarbij, voor zover van toepassing, wordt aangegeven dat de afvoer heeft plaatsgevonden ter uitvoering van artikel 33a, tweede lid, onderdeel b, onder 1°, onderdeel e, of vijfde lid, van de wet, de datum waarop de aan- of afvoer plaatsvond en gegevens over het bedrijf of de onderneming van herkomst, onderscheidenlijk van bestemming, dan wel, ingeval geen sprake is van een bedrijf of onderneming, gegevens over de leverancier onderscheidenlijk afnemer van de meststoffen;  
 
-g. de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor de landbouwer ten aanzien van een kalenderjaar overeenkomsten als bedoeld in [artikel 33a, tweede lid, onderdeel e, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) heeft gesloten;  
+g. de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor de landbouwer ten aanzien van een kalenderjaar overeenkomsten als bedoeld in artikel 33a, tweede lid, onderdeel e, van de wet heeft gesloten;  
 
-h. de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor de landbouwer ten aanzien van een kalenderjaar overeenkomsten als bedoeld in [artikel 33a, derde lid, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) heeft gesloten, waarbij onderscheid wordt gemaakt in de hoeveelheid die de landbouwer laat verwerken door middel van het sluiten van die overeenkomst, en de hoeveelheid die een landbouwer ingevolge artikel 33a, vijfde lid, van de wet moet laten verwerken; 
+h. de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor de landbouwer ten aanzien van een kalenderjaar overeenkomsten als bedoeld in artikel 33a, derde lid, onderdeel c, van de wet heeft gesloten, waarbij onderscheid wordt gemaakt in de hoeveelheid die de landbouwer laat verwerken door middel van het sluiten van die overeenkomst, en de hoeveelheid die een landbouwer ingevolge artikel 33a, vijfde lid, van de wet moet laten verwerken; 
 
 i. de capaciteit van de bij het bedrijf behorende opslagruimte voor dierlijke meststoffen in kubieke meters;  
 
@@ -447,8 +454,8 @@ j. de aan het begin en het eind van het kalenderjaar op het bedrijf aanwezige ho
 
 k. de hoeveelheden en de samenstelling van de aan andere bedrijven of ondernemingen afgeleverde diervoeders, uitgedrukt in kilogrammen alsmede in kilogrammen stikstof en fosfaat; en  
 
-l. de gewasopbrengst, voor zover deze relevant is voor de toepassing van de krachtens [artikel 10, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) vastgestelde ministeriële regeling.    
-3.  De landbouwer bewaart de mestverwerkingsovereenkomsten, en de overeenkomsten, bedoeld in [artikel 33a, tweede lid, onderdeel e, en derde lid, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), als onderdeel van zijn administratie. 
+l. de gewasopbrengst, voor zover deze relevant is voor de toepassing van de krachtens artikel 10, eerste lid, van de wet vastgestelde ministeriële regeling.    
+3.  De landbouwer bewaart de mestverwerkingsovereenkomsten, en de overeenkomsten, bedoeld in artikel 33a, tweede lid, onderdeel e, en derde lid, onderdeel c, van de wet, als onderdeel van zijn administratie. 
 
 ### Artikel  33  
 
@@ -540,13 +547,13 @@ g. de apparatuur voor automatische gegevensregistratie die exclusief bij deze on
 h. de capaciteit van de bij de onderneming behorende opslagruimten voor meststoffen in tonnen; en  
 
 i. de wijzigingen in de gegevens, bedoeld in de onderdelen a tot en met h.     
-3.  Voor zover de in het tweede lid bedoelde gegevens zijn verstrekt op grond van de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) en niet zijn gewijzigd, behoeven deze niet opnieuw te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.  
+3.  Voor zover de in het tweede lid bedoelde gegevens zijn verstrekt op grond van de Meststoffenwet en niet zijn gewijzigd, behoeven deze niet opnieuw te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.  
 
 ### Artikel  38a  
 
-1.  Een registratie kan worden geweigerd of geschrapt in het geval en onder de voorwaarden, bedoeld in [artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md).   
+1.  Een registratie kan worden geweigerd of geschrapt in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
 2.  Een registratie kan worden geschorst voor zover de intermediair boetes zijn opgelegd voor overtreding van de eisen gesteld bij of krachtens de wet, die onherroepelijk zijn geworden en niet zijn betaald of voor zover de intermediair verbeurde dwangsommen, ten aanzien waarvan invorderingsbeschikkingen onherroepelijk zijn geworden, niet heeft betaald. De schorsing vervalt op het moment dat de boetes of dwangsommen die ten grondslag liggen aan de schorsing zijn betaald.   
-3.  Voordat toepassing wordt gegeven aan het eerste lid kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in [artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md), om een advies als bedoeld in [artikel 9 van die wet](../../../../wet/wet/bevordering/integriteitsbeoordelingen/door/het/openbaar/bestuur/BWBR0013798/README.md) worden gevraagd.  
+3.  Voordat toepassing wordt gegeven aan het eerste lid kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.  
 
 ### Artikel  39  
 
@@ -616,8 +623,8 @@ c. de rechtsvorm;
 d. in voorkomend geval de aard en samenstelling van het samenwerkingsverband van personen of rechtspersonen dat de onderneming voert; en  
 
 e. de wijzigingen in de gegevens, bedoeld in de onderdelen a tot en met d.     
-4.  Voor zover de in het derde lid bedoelde gegevens zijn verstrekt op grond van de [Meststoffenwet](../../../../wet/meststoffenwet/BWBR0004054/README.md) en niet zijn gewijzigd, behoeven deze niet opnieuw te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.   
-5.  Voor zover de in het derde lid bedoelde gegevens worden verstrekt op grond van de krachtens [artikel 6.4 van de Wet dieren](../../../../wet/wet/dieren/BWBR0030250/README.md) met betrekking tot diervoeders gestelde regels of de krachtens de [artikelen 27](../../../../wet/landbouwwet/BWBR0002252/README.md) en [28 van de Landbouwwet](../../../../wet/landbouwwet/BWBR0002252/README.md) gestelde regels, behoeven deze niet nogmaals te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.  
+4.  Voor zover de in het derde lid bedoelde gegevens zijn verstrekt op grond van de Meststoffenwet en niet zijn gewijzigd, behoeven deze niet opnieuw te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.   
+5.  Voor zover de in het derde lid bedoelde gegevens worden verstrekt op grond van de krachtens artikel 6.4 van de Wet dieren met betrekking tot diervoeders gestelde regels of de krachtens de artikelen 27 en 28 van de Landbouwwet gestelde regels, behoeven deze niet nogmaals te worden verstrekt. De registratie van deze gegevens geldt als registratie in de zin van het eerste en tweede lid.  
 
 ### Artikel  44  
 
@@ -804,19 +811,19 @@ Een verwerker verwerkt de hoeveelheid dierlijke meststoffen, uitgedrukt in kilog
 
 ### Artikel  58  
 
-Bij ministeriële regeling aan te wijzen soorten dierlijke meststoffen tellen niet mee voor het voldoen aan de verplichting, bedoeld in [artikel 33d, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md). 
+Bij ministeriële regeling aan te wijzen soorten dierlijke meststoffen tellen niet mee voor het voldoen aan de verplichting, bedoeld in artikel 33d, eerste lid, van de wet. 
 
 ### Artikel  59  
 
-Een overeenkomst gesloten tussen een landbouwer die op zijn bedrijf voor meer dan de helft dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, van kippen of kalkoenen produceert, en een landbouwer die op zijn bedrijf voor meer dan de helft dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, van één of meer andere diersoorten of diercategorieën produceert, geldt niet als overeenkomst als bedoeld in [artikel 33a, derde lid, onderdeel c, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md). 
+Een overeenkomst gesloten tussen een landbouwer die op zijn bedrijf voor meer dan de helft dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, van kippen of kalkoenen produceert, en een landbouwer die op zijn bedrijf voor meer dan de helft dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, van één of meer andere diersoorten of diercategorieën produceert, geldt niet als overeenkomst als bedoeld in artikel 33a, derde lid, onderdeel c, van de wet. 
 
 ### Artikel  60  
 
 Bij ministeriële regeling kunnen nadere regels worden gesteld inzake: 
 
-a. de gegevens, bedoeld in [artikel 33b, vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), die moeten worden gemeld;  
+a. de gegevens, bedoeld in artikel 33b, vijfde lid, van de wet, die moeten worden gemeld;  
 
-b. de elektronische melding, bedoeld in [artikel 33b, vijfde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md).   
+b. de elektronische melding, bedoeld in artikel 33b, vijfde lid, van de wet.   
 
 ### Hoofdstuk  X  
 
@@ -870,12 +877,12 @@ b. de overeenkomstig onderdeel a berekende hoeveelheid te verminderen met de hoe
 
 ### Artikel  69  
 
-1.  Het gemiddelde aantal in een kalenderjaar op een bedrijf gehouden varkens, kippen en kalkoenen, onderscheiden naar diercategorieën per soort overeenkomstig [bijlage II van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md), alsmede runderen, onderscheiden naar diercategorie, voor zover dit onderscheid wordt gemaakt in de krachtens de artikelen 36 of 70, derde lid, gestelde regels, wordt bepaald door de som van de dagelijkse aanwezige aantallen van deze dieren, te delen door het aantal dagen van het desbetreffende kalenderjaar.   
+1.  Het gemiddelde aantal in een kalenderjaar op een bedrijf gehouden varkens, kippen en kalkoenen, onderscheiden naar diercategorieën per soort overeenkomstig bijlage II van de wet, alsmede runderen, onderscheiden naar diercategorie, voor zover dit onderscheid wordt gemaakt in de krachtens de artikelen 36 of 70, derde lid, gestelde regels, wordt bepaald door de som van de dagelijkse aanwezige aantallen van deze dieren, te delen door het aantal dagen van het desbetreffende kalenderjaar.   
 2.  Het gemiddelde aantal in een kalenderjaar voor gebruiks- en winstdoeleinden op het bedrijf gehouden dan wel anderszins aanwezige dieren, anders dan runderen, varkens, kippen en kalkoenen, onderscheiden naar diersoorten en diercategorieën per soort, voor zover dit onderscheid wordt gemaakt in de krachtens de artikelen 36 of 70 gestelde regels, wordt bepaald door de som van de op de eerste dag van iedere maand aanwezige aantallen van deze dieren, te delen door twaalf.  
 
 ### Artikel  69a  
 
-Bij ministeriële regeling worden regels gesteld over de bepaling van de fosfaattoestand van de bodem en van de gewasopbrengst, voor zover deze relevant is voor de toepassing van de krachtens [artikel 10, eerste lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) vastgestelde ministeriële regeling. 
+Bij ministeriële regeling worden regels gesteld over de bepaling van de fosfaattoestand van de bodem en van de gewasopbrengst, voor zover deze relevant is voor de toepassing van de krachtens artikel 10, eerste lid, van de wet vastgestelde ministeriële regeling. 
 
 ### Artikel  70  
 
@@ -910,7 +917,7 @@ e. de verantwoording van de vaststellingen.
 
 ### Artikel  71  
 
-1.  Voor de toepassing van de krachtens [artikel 11, zesde lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) gestelde regels meldt de landbouwer zijn bedrijf uiterlijk 31 december van het desbetreffende jaar aan bij Onze Minister.   
+1.  Voor de toepassing van de krachtens artikel 11, zesde lid, van de wet gestelde regels meldt de landbouwer zijn bedrijf uiterlijk 31 december van het desbetreffende jaar aan bij Onze Minister.   
 2.  De in het eerste lid bedoelde melding vindt plaats door indiening van het volledig en naar waarheid ingevulde en ondertekende daartoe bestemde formulier, dat door Onze Minister wordt verstrekt.  
 
 ### Artikel  72  
@@ -922,7 +929,7 @@ e. de verantwoording van de vaststellingen.
 
 ### Artikel  73  
 
-1.  De hoogte van de op grond van [artikel 62, tweede lid, van de wet](../../../../wet/meststoffenwet/BWBR0004054/README.md) te bepalen bestuurlijke boete bedraagt voor de volgende categorieën: 
+1.  De hoogte van de op grond van artikel 62, tweede lid, van de wet te bepalen bestuurlijke boete bedraagt voor de volgende categorieën: 
 
 a. niet op de voorgeschreven wijze administreren, registreren, melden of invullen van gegevens: € 50;  
 
@@ -949,7 +956,7 @@ Wijzigt het Destructiebesluit.
 
 ### Artikel  77  
 
-1. In afwijking van artikel 4, eerste lid, is het verhandelen van meststoffen ten aanzien waarvan niet is voldaan aan de bij of krachtens Hoofdstuk III van dit besluit gestelde regels, tot een bij ministeriële regeling te bepalen tijdstip toegestaan, voor zover ten aanzien van die meststoffen is voldaan aan de bij of krachtens het [Meststoffenbesluit 1977](../../../../KB/meststoffenbesluit/1977/BWBR0003115/README.md) gestelde regels, zoals deze luidden op het tijdstip waarop artikel 4 in werking is getreden, dan wel voor zover ten aanzien van die meststoffen krachtens [artikel 7 van het Meststoffenbesluit 1977](../../../../KB/meststoffenbesluit/1977/BWBR0003115/README.md), zoals dat luidde op het tijdstip waarop artikel 4 in werking is getreden, ontheffing is verleend, mits deze meststoffen verhandeld worden overeenkomstig de aan de ontheffing verbonden voorschriften en beperkingen. 
+1. In afwijking van artikel 4, eerste lid, is het verhandelen van meststoffen ten aanzien waarvan niet is voldaan aan de bij of krachtens Hoofdstuk III van dit besluit gestelde regels, tot een bij ministeriële regeling te bepalen tijdstip toegestaan, voor zover ten aanzien van die meststoffen is voldaan aan de bij of krachtens het Meststoffenbesluit 1977 gestelde regels, zoals deze luidden op het tijdstip waarop artikel 4 in werking is getreden, dan wel voor zover ten aanzien van die meststoffen krachtens artikel 7 van het Meststoffenbesluit 1977, zoals dat luidde op het tijdstip waarop artikel 4 in werking is getreden, ontheffing is verleend, mits deze meststoffen verhandeld worden overeenkomstig de aan de ontheffing verbonden voorschriften en beperkingen. 
 2. Het krachtens het eerste lid te bepalen tijdstip kan voor de in dat lid te onderscheiden meststoffen verschillend worden vastgesteld en is gelegen in de periode van drie jaar volgend op het tijdstip waarop artikel 4 in werking is getreden.
 
 ### Artikel  78  

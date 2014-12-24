@@ -235,20 +235,28 @@ De optant dient – zoveel mogelijk – een geldig buitenlands reisdocument over
 
 Wat betreft verklaringen en/of afschriften dan wel uittreksels van buitenlandse akten van de burgerlijke stand geldt dat de optant in beginsel de volgende documenten dient over te leggen (zie voor uitzonderingen ook hierna bij paragraaf 2.2.5.3): 
 
-* geboorteakte van hemzelf; én  
+– geboorteakte van hemzelf; én  
 
-* geboorteakten van kinderen waarvoor medeverkrijging van het Nederlanderschap beoogd wordt; in geval van adoptiefkinderen eventueel aangevuld met adoptieakte/-vonnis of andere stukken waarmee de adoptie aangetoond kan worden; én  
+– geboorteakten van kinderen waarvoor medeverkrijging van het Nederlanderschap beoogd wordt; in geval van adoptiefkinderen eventueel aangevuld met adoptieakte/-vonnis of andere stukken waarmee de adoptie aangetoond kan worden; én  
 
-* huwelijksakte indien de optant als gevolg van het huwelijk meerderjarig is geworden of indien het betreft een optie met toepassing van artikel 26, eerste lid, aanhef en onder c RWN;  
+– huwelijksakte indien de optant als gevolg van het huwelijk meerderjarig is geworden of indien het betreft een optie met toepassing van artikel 26, eerste lid, aanhef en onder c RWN;  
 
-* bewijs van erkenning of wettiging (bijvoorbeeld erkenningsakte, geboorteakte met latere vermelding betreffende erkenning/wettiging of huwelijksakte ouders) in geval van een optieverklaring als bedoeld in artikel 6, eerste lid, onder c, RWN;  
+– bewijs van erkenning of wettiging (bijvoorbeeld erkenningsakte, geboorteakte met latere vermelding betreffende erkenning/wettiging of huwelijksakte ouders) in geval van een optieverklaring als bedoeld in artikel 6, eerste lid, onder c, RWN.  
 
-* bewijs van gezamenlijk gezag (bijvoorbeeld akte van registratie van het partnerschap van de moeder van de optant en haar Nederlandse partner, of het vonnis van de Nederlandse rechter waarbij tot gezamenlijk gezag is besloten) in geval van een optieverklaring als bedoeld in artikel 6, eerste lid, onder d, RWN;  
+– bewijs van gezamenlijk gezag (bijvoorbeeld akte van registratie van het partnerschap van de moeder van de optant en haar Nederlandse partner, of het vonnis van de Nederlandse rechter waarbij tot gezamenlijk gezag is besloten) in geval van een optieverklaring als bedoeld in artikel 6, eerste lid, onder d, RWN.  
 
-* bewijs van ontbinding van het huwelijk (bijvoorbeeld overlijdensakte van de echtgenoot of echtscheidingsvonnis) in geval van een optieverklaring als bedoeld in artikel 28 RWN.  
+– bewijs van ontbinding van het huwelijk (bijvoorbeeld overlijdensakte van de echtgenoot of echtscheidingsvonnis) in geval van een optieverklaring als bedoeld in artikel 28 RWN.  
 ###Syrië
 
-Op grond van het ambtsbericht van het ministerie van Buitenlandse Zaken van 11 december 2013 is vanwege de bestaande politieke situatie in Syrië besloten dat bij het afleggen van een optieverklaring tot 1 april 2015 een in Syrië geboren vreemdeling niet een uit Syrië afkomstige geboorteakte hoeft te overleggen. Het ambtsbericht Syrië geeft aan dat civiele registers vernietigd zijn dan wel niet meer volledig functioneren. Dit betekent dat tot 1 april 2015 optieverklaringen kunnen worden afgelegd zonder dat de vreemdeling, die in Syrië is geboren, verplicht is om een geboorteakte te overleggen. Dit geldt tevens als op de optieverklaring na 1 april 2015 nog moet worden beslist, al dan niet na een rechterlijke procedure over het verzoek. Let op: de vrijstelling geldt in beginsel niet voor het overleggen van een geldig Syrisch paspoort.   
+###Geboorteakte
+
+Op grond van het ambtsbericht van het ministerie van Buitenlandse Zaken van 11 december 2013 is vanwege de bestaande politieke situatie in Syrië besloten dat bij het afleggen van een optieverklaring tot 1 april 2015 een in Syrië geboren vreemdeling niet een uit Syrië afkomstige geboorteakte hoeft te overleggen. Het ambtsbericht Syrië geeft aan dat civiele registers vernietigd zijn dan wel niet meer volledig functioneren.
+###Paspoort
+
+De Staatssecretaris van van Veiligheid en Justitie heeft bij brief de Tweede Kamer geïnformeerd (TK 2014-2015, 19 637 nr. 1928 d.d. 21 november 2014) dat Syriërs tijdelijk geen geldig Syrisch paspoort hoeven te overleggen. Een groot deel van de Syrische ambassades in West-Europa is gesloten en de Syrische ambassade in Brussel levert nog maar beperkt consulaire diensten. Het is dus in veel gevallen op dit moment niet mogelijk voor Syrische onderdanen om aan het paspoortvereiste te voldoen.
+###Conclusie
+
+Dit betekent dat tot 1 april 2015 optieverklaringen kunnen worden afgelegd zonder dat de vreemdeling, die in Syrië is geboren en/of de Syrische nationaliteit heeft, verplicht is om een geboorteakte en/of geldig paspoort te overleggen. Dit geldt tevens als op de optieverklaring na 1 april 2015 nog moet worden beslist, al dan niet na een rechterlijke procedure over het verzoek.   
 ### Paragraaf  2.2.5.3  
 
 ####In het verleden overgelegde buitenlandse akten
@@ -782,7 +790,13 @@ Het verzoek om naturalisatie dient zoveel mogelijk te worden ondersteund door ov
 Van de voorwaarde van het overleggen van uit het buitenland afkomstige gelegaliseerde/van apostille voorziene documenten kan worden vrijgesteld de persoon die wegens bewijsnood niet in staat is dergelijke documenten over te leggen. Indien geen sprake is van bewijsnood, wordt geen vrijstelling verleend. Bewijsnood zal zich met name voordoen in het geval dat registers van de burgerlijke stand in het land waar de documenten vandaan moeten komen niet bestaan dan wel onvolledig zijn, alsmede wanneer in het land in kwestie geen stukken kunnen worden verkregen vanwege de op dat moment bestaande politieke situatie. 
 ###Syrië
 
-Op grond van het ambtsbericht van het ministerie van Buitenlandse Zaken van 11 december 2013 is vanwege de bestaande politieke situatie in Syrië besloten dat in de naturalisatieprocedure tot 1 april 2015 een in Syrië geboren vreemdeling niet een uit Syrië afkomstige geboorteakte hoeft te overleggen. Het ambtsbericht Syrië geeft aan dat civiele registers vernietigd zijn dan wel niet meer volledig functioneren. Dit betekent dat tot 1 april 2015 naturalisatieverzoeken kunnen worden gedaan waarbij de voorwaarde tot een uit Syrië afkomstige geboorteakte niet wordt gehandhaafd. Dit geldt tevens in het geval dat op het naturalisatieverzoek na 1 april 2015 nog moet worden beslist, al dan niet na een rechterlijke procedure over het verzoek. Let op: de vrijstelling geldt in beginsel niet voor het overleggen van een geldig Syrisch paspoort.     
+Op grond van het ambtsbericht van het ministerie van Buitenlandse Zaken van 11 december 2013 is vanwege de bestaande politieke situatie in Syrië besloten dat in de naturalisatieprocedure tot 1 april 2015 een in Syrië geboren vreemdeling niet een uit Syrië afkomstige geboorteakte hoeft te overleggen. Het ambtsbericht Syrië geeft aan dat civiele registers vernietigd zijn dan wel niet meer volledig functioneren. 
+###Paspoort
+
+De Staatssecretaris van Veiligheid en Justitie heeft bij brief de Tweede Kamer geïnformeerd (TK 2014-2015, 19 637 nr. 1928 d.d. 21 november 2014) dat Syriërs tijdelijk geen geldig Syrisch paspoort hoeven te overleggen. Een groot deel van de Syrische ambassades in West-Europa is gesloten en de Syrische ambassade in Brussel levert nog maar beperkt consulaire diensten. Het is dus in veel gevallen op dit moment niet mogelijk voor Syrische onderdanen om aan het paspoortvereiste te voldoen.
+###Conclusie
+
+Dit betekent dat tot 1 april 2015 naturalisatieverzoeken kunnen worden gedaan zonder dat de vreemdeling, die in Syrië is geboren en/of de Syrische nationaliteit heeft, verplicht is om een geboorteakte en/of geldig paspoort te overleggen. Dit geldt tevens in het geval dat op het naturalisatieverzoek na 1 april 2015 nog moet worden beslist, al dan niet na een rechterlijke procedure over het verzoek.    
 ### Paragraaf  3.6  
 
 ####Inontvangstneming verzoek
