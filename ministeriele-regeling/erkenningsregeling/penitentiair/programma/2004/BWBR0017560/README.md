@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Justitie van 22 november 2004, nr. 5295956/04/DJI, houdende bepalingen met betrekking tot de eisen voor erkenning van een penitentiair programma of een onderdeel daarvan (Erkenningsregeling penitentiair programma 2004)
 
 De Minister van Justitie,
-Gelet op [artikel 4, derde en vijfde lid, van de Penitentiaire beginselenwet](../../../../../../wet/penitentiaire/beginselenwet/BWBR0009709/README.md) en [artikel 5, vierde lid, van de Penitentiaire maatregel](../../../../../../AMvB/penitentiaire/maatregel/BWBR0009398/README.md);
+Gelet op artikel 4, derde en vijfde lid, van de Penitentiaire beginselenwet en artikel 5, vierde lid, van de Penitentiaire maatregel;
 Besluit:
 
 ###Artikel 1 
@@ -16,7 +16,7 @@ b.sectordirectie Gevangeniswezen: de sectordirecteur Gevangeniswezen van de DJI 
 
 c.deelnemer: degene die deelneemt aan het penitentiair programma;
 
-d.reclasseringsinstelling: een instelling als bedoeld in [artikel 4 van de Reclasseringsregeling 1995](../../../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md);
+d.reclasseringsinstelling: een instelling als bedoeld in artikel 4 van de Reclasseringsregeling 1995;
 
 e.derde-organisatie: een instelling op het terrein van maatschappelijke hulp- en dienstverlening of opleiding en scholing of een vrijwilligersorganisatie op het terrein van hulpverlening aan justitiabelen, niet zijnde een inrichting of een reclasseringsinstelling;
 
@@ -102,13 +102,13 @@ f. in acht nemen en waar nodig naleven van de voorwaarden die aan de deelnemer w
 1.  De activiteiten in het kader van een penitentiair programma kunnen worden uitgevoerd door een inrichting, een reclasseringsinstelling, een derde-organisatie of een werkgever.   
 2.  Indien het penitentiair programma of een substantieel gedeelte daarvan uitgevoerd wordt door een derde-organisatie die: 
 
-a. op grond van de [Wet bijzondere opnemingen psychiatrische ziekenhuizen](../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) als zorginstelling is aangemerkt;  
+a. op grond van de Wet bijzondere opnemingen psychiatrische ziekenhuizen als zorginstelling is aangemerkt;  
 
-b.een instelling is als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) die is toegelaten voor het verlenen van zorg waarop aanspraak bestaat ingevolge [artikel 6 van de Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md); 
+b.een instelling is als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen die is toegelaten voor het verlenen van zorg waarop aanspraak bestaat ingevolge artikel 6 van de Algemene Wet Bijzondere Ziektekosten; 
 
 c. door het Ministerie van Onderwijs, Cultuur en Wetenschap is erkend als onderwijsinstelling; of  
 
-d. op grond van de [Reclasseringsregeling van 1995](../../../../../../AMvB/reclasseringsregeling/1995/BWBR0007120/README.md) is erkend als reclasseringsinstelling, dan vermeldt de organisatie dit bij de aanvraag om erkenning van een penitentiair programma of een module daarvan.     
+d. op grond van de Reclasseringsregeling van 1995 is erkend als reclasseringsinstelling, dan vermeldt de organisatie dit bij de aanvraag om erkenning van een penitentiair programma of een module daarvan.     
 3.  Indien het penitentiair programma of een substantieel gedeelte daarvan wordt uitgevoerd door een derde-organisatie, die niet door een in het tweede lid genoemd Ministerie of krachtens een daar genoemde wet of regeling erkend of toegelaten is, wordt bij de voordracht voor erkenning van het penitentiair programma de betrouwbaarheid van de derde-organisatie getoetst.   
 4.  Indien het penitentiair programma of een substantieel gedeelte daarvan uitgevoerd wordt door een werkgever, wordt door de directeur van de inrichting of een reclasseringsinstelling de betrouwbaarheid van de werkgever getoetst.  
 
@@ -144,7 +144,7 @@ Deze regeling wordt aangehaald als: Erkenningsregeling penitentiair programma 20
 
 ###Artikel 10 
 
-De [Erkenningsregeling penitentiair programma](../../../../../../ministeriele-regeling/erkenningsregeling/penitentiair/programma/BWBR0010166/README.md) wordt ingetrokken.
+De Erkenningsregeling penitentiair programma wordt ingetrokken.
 
 De 
 Minister van Justitie, 

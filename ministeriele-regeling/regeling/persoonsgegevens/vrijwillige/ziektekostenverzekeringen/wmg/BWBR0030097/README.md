@@ -3,18 +3,18 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 7 juni 2011, kenmerk MC-U-3052256, houdende regels in verband met de verwerking van persoonsgegevens door ziektekostenverzekeraars bij de uitvoering van vrijwillige ziektekostenverzekeringen (WMG)
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 68a, vierde lid, van de Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);
+Gelet op artikel 68a, vierde lid, van de Wet marktordening gezondheidszorg;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a.  *wet:* [Wet marktordening gezondheidszorg](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+a.  *wet:* Wet marktordening gezondheidszorg;  
 
-b.  *verzekeraar:* een ziektekostenverzekeraar als bedoeld in [artikel 1, onder f, sub 3°, van de wet](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+b.  *verzekeraar:* een ziektekostenverzekeraar als bedoeld in artikel 1, onder f, sub 3°, van de wet;  
 
-c.  *vrijwillige ziektekostenverzekering:* een ziektekostenverzekering, anders dan de verplichte verzekering ingevolge de Zorgverzekeringswet en anders dan de verzekering van rechtswege ingevolge de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), waartoe de verzekerde met een verzekeraar op wederzijdse vrijwillige basis een ziektekostenverzekeringsovereenkomst heeft gesloten;  
+c.  *vrijwillige ziektekostenverzekering:* een ziektekostenverzekering, anders dan de verplichte verzekering ingevolge de Zorgverzekeringswet en anders dan de verzekering van rechtswege ingevolge de Algemene Wet Bijzondere Ziektekosten, waartoe de verzekerde met een verzekeraar op wederzijdse vrijwillige basis een ziektekostenverzekeringsovereenkomst heeft gesloten;  
 
 d. 
 
@@ -22,7 +22,7 @@ d.
 
 2°. een beschrijving van de prestatie zoals die tussen de verzekerde en de zorgaanbieder is overeengekomen indien voor die zorg niet een prestatiebeschrijving op grond van de wet behoeft te worden vastgesteld;    
 
-e.  *declaratieregeling:* een regeling bedoeld in [artikel 38, derde lid, onder b, van de wet](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md);  
+e.  *declaratieregeling:* een regeling bedoeld in artikel 38, derde lid, onder b, van de wet;  
 
 f.  *formele controle:* een onderzoek waarbij de verzekeraar nagaat of het tarief dat door een zorgaanbieder voor een prestatie in rekening is gebracht: 
 
@@ -38,7 +38,7 @@ g.  *materiële controle:* een onderzoek waarbij de verzekeraar nagaat of de doo
 
 h.  *fraudeonderzoek:* een onderzoek waarbij de verzekeraar nagaat of de verzekerde of de zorgaanbieder valsheid in geschrifte, bedrog, benadeling van rechthebbenden of verduistering pleegt of tracht te plegen ten nadele van bij de totstandkoming of uitvoering van een overeenkomst van ziektekostenverzekering betrokken personen en organisaties, met het doel een prestatie, vergoeding, betaling of ander voordeel te krijgen waarop de verzekerde dan wel de zorgaanbieder geen recht heeft of recht kan hebben;  
 
-i.  *verhaalsrecht:* het recht van de verzekeraar op grond van [artikel 7:962 van het Burgerlijk Wetboek](../../../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) de schade die is veroorzaakt door anderen dan de verzekerde op deze derden te verhalen;  
+i.  *verhaalsrecht:* het recht van de verzekeraar op grond van artikel 7:962 van het Burgerlijk Wetboek de schade die is veroorzaakt door anderen dan de verzekerde op deze derden te verhalen;  
 
 j.  *detailcontrole:* onderzoek door de verzekeraar naar bij de zorgaanbieder berustende persoonsgegevens met betrekking tot eigen verzekerden ten behoeve van materiële controle of fraudeonderzoek;  
 
@@ -46,11 +46,11 @@ k.  *algemene risicoanalyse:* een analyse die erop is gericht te bepalen op welk
 
 l.  *specifieke risicoanalyse:* een analyse die erop is gericht te bepalen op welke gegevens en op welke zorgaanbieders of categorieën van zorgaanbieders de detailcontrole zich zal richten  
 
-m.  *bewerker:* degene bedoeld in [artikel 1, onderdeel e, van de Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md).   
+m.  *bewerker:* degene bedoeld in artikel 1, onderdeel e, van de Wet bescherming persoonsgegevens.   
 
 ### Artikel  2  
 
-1.  Als persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de [Wet bescherming persoonsgegevens](../../../../../../../wet/wet/bescherming/persoonsgegevens/BWBR0011468/README.md), die voor verzekeraars noodzakelijk zijn voor de uitvoering van vrijwillige ziektekostenverzekeringen, worden aangemerkt de in artikel 3 bedoelde persoonsgegevens.   
+1.  Als persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die voor verzekeraars noodzakelijk zijn voor de uitvoering van vrijwillige ziektekostenverzekeringen, worden aangemerkt de in artikel 3 bedoelde persoonsgegevens.   
 2.  Een verzekeraar mag de in het eerste lid bedoelde gegevens gebruiken voor het verrichten van formele controle dan wel materiële controle ten behoeve van: 
 
 a. de geheel of gedeeltelijke betaling aan een zorgaanbieder;  
@@ -84,7 +84,7 @@ e. het voor de geleverde prestatie in rekening gebrachte tarief;
 
 f. de gegevens die op grond van een declaratieregeling moeten worden verstrekt;  
 
-g. de gegevens die noodzakelijk zijn om vast te stellen of de prestatie behoort tot het verzekerde pakket van die verzekerde op grond van de vrijwillige ziektekostenverzekering, de [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) of dat de kosten van de geleverde zorgprestaties ten laste komen van de Minister van Veiligheid en Justitie;  
+g. de gegevens die noodzakelijk zijn om vast te stellen of de prestatie behoort tot het verzekerde pakket van die verzekerde op grond van de vrijwillige ziektekostenverzekering, de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten of dat de kosten van de geleverde zorgprestaties ten laste komen van de Minister van Veiligheid en Justitie;  
 
 h. het bank- of gironummer en  
 
@@ -104,17 +104,17 @@ c. de verzekerde, indien de verzekerde op grond van die gegevens krachtens een d
 
 ### Artikel  5  
 
-Met betrekking tot het uitvoeren van formele en materiële controle, het doen van fraudeonderzoek en het enquêteren door een verzekeraar en met betrekking tot het beroepsgeheim van zorgaanbieders is het bepaalde in de [artikelen 7.4](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) en [7.5 tot en met 7.10 van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) van overeenkomstige toepassing voor die verzekeraar en de daarbij betrokken zorgaanbieders en verzekerden. 
+Met betrekking tot het uitvoeren van formele en materiële controle, het doen van fraudeonderzoek en het enquêteren door een verzekeraar en met betrekking tot het beroepsgeheim van zorgaanbieders is het bepaalde in de artikelen 7.4 en 7.5 tot en met 7.10 van de Regeling zorgverzekering van overeenkomstige toepassing voor die verzekeraar en de daarbij betrokken zorgaanbieders en verzekerden. 
 
 ### Artikel  6  
 
-De verzekeraar verwerkt de persoonsgegevens, bedoeld in [artikel 68a, eerste en tweede lid, van de wet](../../../../../../../wet/wet/marktordening/gezondheidszorg/BWBR0020078/README.md) slechts verder indien en voor zo ver dit noodzakelijk is voor de uitvoering van: 
+De verzekeraar verwerkt de persoonsgegevens, bedoeld in artikel 68a, eerste en tweede lid, van de wet slechts verder indien en voor zo ver dit noodzakelijk is voor de uitvoering van: 
 
 a. de vrijwillige ziektekostenverzekering voor doelen omschreven in artikel 2 van deze regeling,  
 
-b. de zorgverzekering en de [Zorgverzekeringswet](../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) voor doelen omschreven in [artikel 7.1, tweede lid, van de Regeling zorgverzekering](../../../../../../../ministeriele-regeling/regeling/zorgverzekering/BWBR0018715/README.md) of  
+b. de zorgverzekering en de Zorgverzekeringswet voor doelen omschreven in artikel 7.1, tweede lid, van de Regeling zorgverzekering of  
 
-c. de [Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md) voor doelen omschreven in [artikel 2 van de Regeling persoonsgegevens zorgverzekeraars AWBZ](../../../../../../../ministeriele-regeling/regeling/persoonsgegevens/zorgverzekeraars/awbz/BWBR0030092/README.md).   
+c. de Algemene Wet Bijzondere Ziektekosten voor doelen omschreven in artikel 2 van de Regeling persoonsgegevens zorgverzekeraars AWBZ.   
 
 ### Artikel  7  
 

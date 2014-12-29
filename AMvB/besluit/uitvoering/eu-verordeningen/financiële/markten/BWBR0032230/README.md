@@ -53,7 +53,11 @@ b. voor verordening (EG) nr. 1287/2006 (MiFID): de Autoriteit Financiële Markte
 
 c. voor verordening (EG) nr. 924/2009 (grensoverschrijdende betalingen): de Autoriteit Financiële Markten;  
 
-d. voor verordening (EG) nr. 1060/2009 (ratingbureaus): de Autoriteit Financiële Markten;  
+d. voor verordening (EG) nr. 1060/2009 (ratingbureaus): 
+
+1°. ten aanzien van de gehele verordening met uitzondering van artikel 4, eerste lid, voor zover het een bank, centrale tegenpartij, herverzekeraar, pensioenfonds, premiepensioeninstelling of verzekeraar betreft, en artikel 5 bis, eerste lid: de Autoriteit Financiële Markten;  
+
+2°. ten aanzien van artikel 4, eerste lid, voor zover het een bank, centrale tegenpartij, herverzekeraar, pensioenfonds, premiepensioeninstelling of verzekeraar betreft, en artikel 5 bis, eerste lid: de Nederlandsche Bank;    
 
 e. voor verordening (EU) nr. 583/2010 (essentiële beleggersinformatie): de Autoriteit Financiële Markten;  
 
@@ -156,6 +160,10 @@ Artikel 7 Artikel 8, eerste en tweede lid Artikel 17, eerste lid Artikel 24 Arti
 #### Verordening (EG) nr. 924/2009 (grensoverschrijdende betalingen)
 
 Artikel 3, eerste en tweede lid Artikel 4, eerste en tweede lid Artikel 8, eerste en vierde lid 
+
+####Verordening (EG) nr. 1060/2009 (ratingbureaus)
+
+Artikel 4, eerste lidArtikel 5 bis, eerste lidArtikel 8 terArtikel 8 quaterArtikel 8 quinquies
 
 ####Verordening (EU) nr. 583/2010 (essentiële beleggersinformatie)
 
@@ -277,6 +285,16 @@ Artikelen 465, 467 tot en met 481, 492, 499 en 500.
 | Artikel 3, eerste en tweede lid  | 2  |
 | Artikel 4, eerste en tweede lid  | 1  |
 | Artikel 8, eerste en vierde lid  | 1  |
+
+####Verordening (EG) nr. 1060/2009 (ratingbureaus)
+
+|  *Artikel*   |  *Boetecategorie*   |
+|:---|:---|
+| Artikel 4, eerste lid  | 2  |
+| Artikel 5 bis, eerste lid  | 2  |
+| Artikel 8 ter  | 2  |
+| Artikel 8 quater  | 2  |
+| Artikel 8 quinquies  | 2  |
 
 ####Verordening (EU) nr. 583/2010 (essentiële beleggersinformatie)
 

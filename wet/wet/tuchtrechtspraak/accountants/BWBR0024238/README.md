@@ -222,7 +222,7 @@ Een lid dan wel plaatsvervangend lid van de accountantskamer dat accountant is, 
 4.  De voorzitter van de accountantskamer kan de termijn genoemd in de voorgaande leden verlengen indien het de voorzitter van de accountantskamer blijkt dat daar aanleiding toe is.  
 
 ### Artikel  25a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De secretaris van de accountantskamer doet periodiek opgave van ingediende klachten, met een beschrijving van de aard en inhoud van de klacht, aan: 
 
@@ -271,7 +271,7 @@ b. de mededeling dat de betrokkene bevoegd is getuigen en deskundigen ter zittin
 8.  De accountantskamer kan bepalen dat de verklaring van een partij, getuige of deskundige geheel in het proces-verbaal zal worden opgenomen. In dat geval wordt de verklaring onverwijld op schrift gesteld en aan de partij, getuige of deskundige voorgelezen. Deze mag daarin wijzigingen aanbrengen, die op schrift worden gesteld en aan de partij, getuige of deskundige worden voorgelezen. De verklaring wordt door de partij, getuige of deskundige ondertekend. Heeft ondertekening niet plaats, dan wordt de reden daarvan in het proces-verbaal vermeld.  
 
 ### Artikel  29a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De voorzitter van de accountantskamer kan, indien daarvoor gewichtige redenen bestaan, ambtshalve of op verzoek van klager of betrokkene bepalen dat tijdens de klachtprocedure ingediende stukken of gegeven inlichtingen dan wel onderdelen daarvan uitsluitend ter kennisneming van de partijen staan en niet door hen aan anderen mogen worden verstrekt of anderszins openbaar worden gemaakt.   
 2.  Het eerste lid geldt niet ten aanzien van stukken of inlichtingen die partijen op grond van een wettelijk voorschrift verplicht zijn aan anderen te verstrekken of openbaar te maken, en stukken of inlichtingen die reeds openbaar zijn dan wel in de uitspraak van de accountantskamer of in hoger beroep van het College openbaar worden gemaakt.   

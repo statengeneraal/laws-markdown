@@ -39,7 +39,7 @@ De munten die door de Staat der Nederlanden worden uitgegeven zijn Nederlandse e
 2.  De bestanddelen van de beeldenaars van de in het eerste lid genoemde munten worden bij koninklijk besluit vastgesteld. Deze munten dragen in ieder geval op de voorzijde de beeltenis en de naam van de Koning met de woorden: Koning (Koningin) der Nederlanden, en op de keerzijde de waardeaanduiding.  
 
 ### Artikel  4a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Beleggingsmunten zijn: 
 
@@ -77,7 +77,7 @@ c. de zilveren dukaat.
 3.  De in het eerste lid bedoelde opdracht wordt verleend met inachtneming van artikel 128, tweede lid, van het Verdrag betreffende de werking van de Europese Unie.  
 
 ### Artikel  6a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De algemeen directeur van de Koninklijke Nederlandse Munt voert de titel Muntmeester.   
 2.  De bij de Koninklijke Nederlandse Munt in opdracht van de Staat der Nederlanden vervaardigde munten worden voorzien van het teken van de Koninklijke Nederlandse Munt en het teken van de Muntmeester.   

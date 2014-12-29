@@ -1,0 +1,112 @@
+<meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
+
+##Regeling van de Minister van Sociale Zaken en Werkgelegenheid en van de Minister van Volksgezondheid, Welzijn en Sport van 11 december 2014, 2014-0000157840, tot Regeling aanwijzing volkenrechtelijke organisaties in Nederland (Regeling aanwijzing volkenrechtelijke organisaties in Nederland 2015)
+
+De Minister van Sociale Zaken en Werkgelegenheid en de Minister van Volksgezondheid, Welzijn en Sport,  
+Handelende in overeenstemming met de Minister van Buitenlandse Zaken;
+
+Gelet op artikel 14, tweede lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 en artikel 7, tweede lid, van het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990;
+Besluiten:    
+
+### Artikel  1  
+Treedt in werking per 01-01-2015 
+
+Als volkenrechtelijke organisatie als bedoeld in artikel 14, eerste lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 en artikel 7, eerste lid, van het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990, worden aangewezen: 
+
+1. United Nations: 
+
+a. International Criminal Court for the Former Yugoslavia (ICTY);  
+
+b. International Criminal Tribunal for Rwanda (ICTR);  
+
+c. International Court of Justice (ICJ);  
+
+d. United Nations High Commissioner for Refugees (UNHCR);  
+
+e. United Nations University-Maastricht Economic and social Research and training centre on Innovation and Technology (UNU- MERIT);  
+
+f. United Nations Educational, Scientific and Cultural Organization-International Institute for Infrastructural, Hydraulic and Environmental Engineering, Institute for Water Education (UNESCO-IHE);  
+
+g. Special Tribunal for Lebanon (STL);  
+
+h. Special Court for Sierra Leone (SCSL);    
+
+2. International Criminal Court (ICC);  
+
+3. Permanent Court of Arbitration (PCA);  
+
+4. Hague Conference on Private International Law (HCPIL);  
+
+5. North Atlantic Treaty Organization (NATO): 
+
+a. NATO Communications and Information Agency (NCI Agency);  
+
+b. Joint Force Command Brunssum (JFC Brunssum);  
+
+c. NATO AEW&C Programme Management Agency (NAPMA);    
+
+6. European Union: 
+
+a. Joint Research Centre, Institute for Energy and Transport (JRC-IET);  
+
+b. Vertegenwoordiging van de Europese Commissie;  
+
+c. Voorlichtingsbureau van het Europese parlement;  
+
+d. European Police Office (EUROPOL);  
+
+e. European Union’s Judicial Cooperation Unit;    
+
+7. High Commissioner on National Minorities (HCNM);  
+
+8. European Organization for the Safety of Air Navigation (EUROCONTROL);  
+
+9. European Space Agency / European Space Research and Technology Centre (ESA/ESTEC);  
+
+10. European Patent Organization (EPO);  
+
+11. Technical Centre for Agricultural and Rural Cooperation (CTA);  
+
+12. Iran – United States Claims Tribunal (IUSCT);  
+
+13. African Management Services Company (AMSCO);  
+
+14. International Organization for Migration (IOM);  
+
+15. Common Fund for Commodities (CFC);  
+
+16. Organization for the Prohibition of Chemical Weapons (OPCW);  
+
+17. International Development Law Organization (IDLO);  
+
+18. International Institute for Democracy and Electoral Assistance (IDEA);  
+
+19. Mechanism for International Criminal Tribunals (MICT);  
+
+20. Benelux Organisatie voor Intellectuele Eigendom (BOIE);  
+
+21. Residual Special Court for Sierra Leone (RSCSL).   
+
+### Artikel  2  
+Treedt in werking per 01-01-2015 
+
+De Regeling aanwijzing volkenrechtelijke organisaties in Nederland 2010 wordt ingetrokken. 
+
+### Artikel  3  
+Treedt in werking per 01-01-2015 
+
+Deze regeling wordt aangehaald als: Regeling aanwijzing volkenrechtelijke organisaties in Nederland 2015. 
+
+### Artikel  4  
+Treedt in werking per 01-01-2015 
+
+Deze regeling treedt in werking met ingang van 1 januari 2015. 
+Deze regeling zal met de toelichting in de Staatscourant worden geplaatst.  
+
+De 
+Minister van Sociale Zaken en Werkgelegenheid, 
+L.F. Asscher   
+
+De 
+Minister van Volksgezondheid, Welzijn en Sport, 
+E. Schippers     

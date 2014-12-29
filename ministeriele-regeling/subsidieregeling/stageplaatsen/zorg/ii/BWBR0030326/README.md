@@ -10,7 +10,7 @@ Besluit:
 
 ### Artikel  1  
 
-In deze regeling wordt verstaan onder: 
+1. In deze regeling wordt verstaan onder: 
 
 a.  *minister:* minister van Volksgezondheid, Welzijn en Sport;  
 
@@ -26,9 +26,9 @@ b. *onderwijsinstelling:*
 
 c. *zorgopleiding:*
 
-1°. beroepsopleidende leerweg als bedoeld in artikel 7.2.2, tweede lid, onderdeel a, van de Wet educatie en beroepsonderwijs van een beroepsopleiding als bedoeld in artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs die met een in bijlage 1 van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs;  
+1°. beroepsopleidende leerweg als bedoeld in artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs van een beroepsopleiding als bedoeld in artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs die met een in bijlage 1 van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs;  
 
-2°. beroepsbegeleidende leerweg als bedoeld in artikel 7.2.2, tweede lid, onderdeel b, van de Wet educatie en beroepsonderwijs van een beroepsopleiding als bedoeld in artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs die met een in bijlage 2 van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs;  
+2°. beroepsbegeleidende leerweg als bedoeld in artikel 7.2.2, tweede lid, van de Wet educatie en beroepsonderwijs van een beroepsopleiding als bedoeld in artikel 1.1.1, onderdeel i, van de Wet educatie en beroepsonderwijs die met een in bijlage 2 van deze regeling genoemde code wordt vermeld in het Centraal register beroepsopleidingen, bedoeld in artikel 6.4.1, eerste lid, van de Wet educatie en beroepsonderwijs;  
 
 3°. voltijds of deeltijds opleiding als bedoeld in artikel 7.7, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek die met een in bijlage 3 van deze regeling genoemde code wordt vermeld in het Centraal register opleidingen hoger onderwijs, bedoeld in artikel 6.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek;  
 
@@ -42,7 +42,7 @@ d. *stageplaats:*
 
 e.  *studiejaar:* tijdvak dat aanvangt op 1 augustus en eindigt op 31 juli van het daarop volgende jaar voor zover het betreft een zorgopleiding, bedoeld in onderdeel c, onder 1° of 2°, of tijdvak dat aanvangt op 1 september en eindigt op 31 augustus van het daarop volgende jaar voor zover het betreft een zorgopleiding, bedoeld in onderdeel c, onder 3° of 4°;  
 
-f.  *deelnemer:* natuurlijke persoon die in het studiejaar bij een onderwijsinstelling ingeschreven staat of heeft gestaan voor een volledige zorgopleiding waarbij, indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 1°, blijkens de overeenkomst, bedoeld in artikel 8.1.3 van de Wet educatie en beroepsonderwijs, de studielast op jaarbasis ten minste 300 uren omvat en indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 2°, blijkens de overeenkomst, bedoeld in artikel 8.1.3 van de Wet educatie en beroepsonderwijs, de studielast van het door de onderwijsinstelling verzorgde onderwijsprogramma op jaarbasis ten minste 300 uren omvat;  
+f.  *deelnemer:* natuurlijke persoon die in het studiejaar bij een onderwijsinstelling ingeschreven staat of heeft gestaan voor een volledige zorgopleiding waarbij, indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 1°, blijkens de overeenkomst, bedoeld in artikel 8.1.3 van de Wet educatie en beroepsonderwijs, de studielast op jaarbasis ten minste 300 uren omvat en indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 2°, blijkens de overeenkomst, bedoeld in artikel 8.1.3 van de Wet educatie en beroepsonderwijs, de studielast van het door de onderwijsinstelling verzorgde onderwijsprogramma op jaarbasis ten minste 200 uren omvat;  
 
 g. *stageaanbieder:*
 
@@ -58,7 +58,8 @@ g. *stageaanbieder:*
 
 3°. zorgaanbieder als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg.    
 
-h.  *gerealiseerde stageplaats:* het aantal uren tijdens de periode van de stageplaats volgens de overeenkomst, bedoeld in artikel 7.2.8 van de Wet educatie en beroepsonderwijs of onderdeel d, onder 2°, tot ten hoogste 1280 uren per studiejaar en 40 weken per studiejaar indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 2° of 4°, dan wel 1440 uren per studiejaar en 40 weken per studiejaar indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 1° of 3°, gedeeld door 1280 indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 2° of 4°, dan wel door 1440 indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 1° of 3°, en vermenigvuldigd met de periode van de stageplaats tijdens het studiejaar waarvoor de subsidie wordt verstrekt gedeeld door de volledige periode van de stageplaats, met dien verstande dat uitsluitend acht wordt geslagen op de uren en de periode van de stageplaats die binnen de looptijd van de overeenkomst vallen.   
+h.  *gerealiseerde stageplaats:* het aantal uren tijdens de periode van de stageplaats volgens de overeenkomst, bedoeld in artikel 7.2.8 van de Wet educatie en beroepsonderwijs of onderdeel d, onder 2°, tot ten hoogste 1280 uren per studiejaar en 40 weken per studiejaar indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 2° of 4°, dan wel 1440 uren per studiejaar en 40 weken per studiejaar indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 1° of 3°, gedeeld door 1280 indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 2° of 4°, dan wel door 1440 indien het een zorgopleiding betreft als bedoeld in onderdeel c, onder 1° of 3°, en vermenigvuldigd met de periode van de stageplaats tijdens het studiejaar waarvoor de subsidie wordt verstrekt gedeeld door de volledige periode van de stageplaats, met dien verstande dat uitsluitend acht wordt geslagen op de uren en de periode van de stageplaats die binnen de looptijd van de overeenkomst vallen.    
+2.  Indien de Wet op de jeugdzorg, de Wet maatschappelijke ondersteuning of de Algemene Wet Bijzondere Ziektekosten wordt ingetrokken, wordt een zorgaanbieder of zorgverlener voor het verstrekken van de subsidie ten behoeve van het studiejaar 2014–2015 als stageaanbieder aangemerkt volgens de regels zoals deze luidden tot het moment van intrekking van die wet. 
 
 ### Artikel  2  
 
@@ -181,6 +182,10 @@ E.I. Schippers
 |22195 |Maatschappelijke Zorg niveau 4 |A |
 |91430 |Maatschappelijke Zorg niveau 4 |A |
 |22197 |Pedagogisch medewerker niveau 4 |A |
+|22093  |Doktersassistenten niveau 4 |A |
+|91310  |Doktersassistenten niveau 4 |A |
+|10776  |Doktersassistenten niveau 4 |A |
+|95769  |Assistent Dienstverlening en Zorg niveau 1  |A |
 
 ### Bijlage  2  
 
@@ -233,6 +238,10 @@ E.I. Schippers
 |22195 |Maatschappelijke Zorg niveau 4 |B |
 |91430 |Maatschappelijke Zorg niveau 4 |B |
 |22197 |Pedagogisch medewerker niveau 4 |B |
+|22093  |Doktersassistenten niveau 4  |B |
+|91310  |Doktersassistenten niveau 4  |B |
+|10776  |Doktersassistenten niveau 4  |B |
+|95769  |Assistent Dienstverlening en Zorg niveau 1  |B |
 
 ### Bijlage  3  
 

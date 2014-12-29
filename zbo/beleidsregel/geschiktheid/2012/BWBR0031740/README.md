@@ -5,7 +5,7 @@
 De Nederlandsche Bank N.V. en de Stichting Autoriteit Financiële Markten,  
 Na overleg met de representatieve organisaties, het ministerie van Financiën en het ministerie van Sociale Zaken en Werkgelegenheid;
 
-Gelet op de [artikelen 3:8](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:100, eerste lid, onderdeel b](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:271](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:9, eerste lid](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), en [5:29, eerste lid, van de Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) (Wft); [artikel 105, derde lid, van de Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md) (Pw); [artikel 110, derde lid, van de Wet verplichte beroepspensioenregeling](../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) (Wvb); de [artikelen 14, derde lid](../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md), [29](../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md) en [30 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md); en de [artikelen 4, aanhef en onderdeel b](../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md), en [11, tweede lid, van de Wet toezicht trustkantoren](../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md) (Wtt);
+Gelet op de artikelen 3:8, 3:100, eerste lid, onderdeel b, 3:271, 4:9, eerste lid, en 5:29, eerste lid, van de Wet op het financieel toezicht (Wft); artikel 105, derde lid, van de Pensioenwet (Pw); artikel 110, derde lid, van de Wet verplichte beroepspensioenregeling (Wvb); de artikelen 14, derde lid, 29 en 30 van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling; en de artikelen 4, aanhef en onderdeel b, en 11, tweede lid, van de Wet toezicht trustkantoren (Wtt);
 Besluiten tot het vaststellen van de volgende, gezamenlijke Beleidsregel geschiktheid 2012:     
 ### Hoofdstuk  1  
 
@@ -15,9 +15,9 @@ Besluiten tot het vaststellen van de volgende, gezamenlijke Beleidsregel geschik
 
 ####Definities en begrippen
 
-De begrippen in deze beleidsregel hebben dezelfde betekenis als in de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), de [Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md), de [Wet verplichte beroepspensioenregeling](../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), respectievelijk de [Wet toezicht trustkantoren](../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md) en de daarop gebaseerde lagere regelgeving, tenzij deze begrippen uitdrukkelijk anders worden gedefinieerd in deze beleidsregel. In deze beleidsregel wordt verstaan onder: 
+De begrippen in deze beleidsregel hebben dezelfde betekenis als in de Wet op het financieel toezicht, de Pensioenwet, de Wet verplichte beroepspensioenregeling, respectievelijk de Wet toezicht trustkantoren en de daarop gebaseerde lagere regelgeving, tenzij deze begrippen uitdrukkelijk anders worden gedefinieerd in deze beleidsregel. In deze beleidsregel wordt verstaan onder: 
 
-a)  *beleidsbepaler:* een persoon die op grond van de [Wet op het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) of de [Wet toezicht trustkantoren](../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md) en de daarop gebaseerde lagere regelgeving moet worden getoetst op geschiktheid, dan wel een persoon die op grond van de [Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md) of de [Wet verplichte beroepspensioenregeling](../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) moet worden getoetst op deskundigheid;  
+a)  *beleidsbepaler:* een persoon die op grond van de Wet op het financieel toezicht of de Wet toezicht trustkantoren en de daarop gebaseerde lagere regelgeving moet worden getoetst op geschiktheid, dan wel een persoon die op grond van de Pensioenwet of de Wet verplichte beroepspensioenregeling moet worden getoetst op deskundigheid;  
 
 b)  *collectief:* meer dan één beleidsbepaler, waarbij de beleidsbepalers gezamenlijk het (dagelijks) beleid van de onderneming (mede)bepalen;  
 
@@ -46,7 +46,7 @@ B.  *Producten, diensten en markten waarop de onderneming actief is*, inclusief 
 C.  *Beheerste en integere bedrijfsvoering*, waaronder de administratieve organisatie en interne controle, de waarborging van geschiktheid en vakbekwaamheid binnen een onderneming, de zorgvuldige behandeling van klanten, het risicomanagement, compliance en de uitbesteding van werkzaamheden; en  
 
 D.  *Evenwichtige en consistente besluitvorming*, waarbij onder meer de belangen van klanten en andere stakeholders een centrale positie innemen.  
-2. In afwijking van de onderwerpen A tot en met D van onderdeel 1.2.1 zijn voor beleidsbepalers bij pensioenfondsen en beroepspensioenfondsen de in [artikel 30, derde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md) genoemde deskundigheidsgebieden (a tot en met f) en de in [artikel 14, derde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md) genoemde deskundigheidseis met betrekking tot uitbesteding (g) van toepassing: 
+2. In afwijking van de onderwerpen A tot en met D van onderdeel 1.2.1 zijn voor beleidsbepalers bij pensioenfondsen en beroepspensioenfondsen de in artikel 30, derde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling genoemde deskundigheidsgebieden (a tot en met f) en de in artikel 14, derde lid, van het Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling genoemde deskundigheidseis met betrekking tot uitbesteding (g) van toepassing: 
 
 a) het besturen van een organisatie;  
 
@@ -138,7 +138,7 @@ g) De combinatie van beschikbare informatie en antecedenten.
 
 ####Samenwerking AFM en DNB
 
-1. Onverminderd de [artikelen 1:49](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [1:90 van de Wet of het financieel toezicht](../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [artikel 205 van de Pensioenwet](../../../../../wet/pensioenwet/BWBR0020809/README.md), [artikel 199 van de Wet verplichte beroepspensioenregeling](../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [artikel 38 Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling](../../../../../AMvB/besluit/uitvoering/pensioenwet/en/wet/verplichte/beroepspensioenregeling/BWBR0020892/README.md) en de [artikelen 13](../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md) en [15 van de Wet toezicht trustkantoren](../../../../../wet/wet/toezicht/trustkantoren/BWBR0016189/README.md), maken de AFM en DNB (de toezichthouders) in concrete gevallen afspraken over hun samenwerking bij de toetsing van geschiktheid en het uitwisselen van informatie en antecedenten wanneer het een onderneming betreft die onder toezicht van beide toezichthouders staat.
+1. Onverminderd de artikelen 1:49 en 1:90 van de Wet of het financieel toezicht, artikel 205 van de Pensioenwet, artikel 199 van de Wet verplichte beroepspensioenregeling, artikel 38 Besluit uitvoering Pensioenwet en Wet verplichte beroepspensioenregeling en de artikelen 13 en 15 van de Wet toezicht trustkantoren, maken de AFM en DNB (de toezichthouders) in concrete gevallen afspraken over hun samenwerking bij de toetsing van geschiktheid en het uitwisselen van informatie en antecedenten wanneer het een onderneming betreft die onder toezicht van beide toezichthouders staat.
 2. Met het oog op de consistente toepassing door de toezichthouders van deze beleidsregel wordt een gezamenlijk panel samengesteld. Dit gezamenlijke panel beoordeelt periodiek toetsingen op basis van deze beleidsregel. De bevindingen van het gezamenlijke panel worden gebruikt in de periodieke evaluatie van de beleidsregel, bedoeld in onderdeel 3.1.
 
 ### Hoofdstuk  2  
@@ -261,7 +261,7 @@ Deze beleidsregel wordt periodiek geëvalueerd.
 
 ####Intrekking
 
-De [Beleidsregel deskundigheid 2011](../../../../../zbo/beleidsregel/deskundigheid/2011/BWBR0029322/README.md) (Stcrt. 2010, 20810) wordt ingetrokken.
+De Beleidsregel deskundigheid 2011 (Stcrt. 2010, 20810) wordt ingetrokken.
 
 ### 3.3  
 

@@ -5,18 +5,18 @@
 De Minister van Volksgezondheid, Welzijn en Sport en de Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
 Handelende in overeenstemming met de Minister van Veiligheid en Justitie en de Minister van Sociale Zaken en Werkgelegenheid;
 
-Gelet op [artikel 3, aanhef en onder b, van de Wet op de bijzondere opsporingsdiensten](../../../../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md);
+Gelet op artikel 3, aanhef en onder b, van de Wet op de bijzondere opsporingsdiensten;
 Besluiten:    
 
 ### Artikel  1  
 
-De bijzondere opsporingsdienst, bedoeld in [artikel 2, aanhef en onder d, van de Wet op de bijzondere opsporingsdiensten](../../../../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md), heeft mede tot taak; 
+De bijzondere opsporingsdienst, bedoeld in artikel 2, aanhef en onder d, van de Wet op de bijzondere opsporingsdiensten, heeft mede tot taak; 
 
-a. de strafrechtelijke handhaving van de rechtsorde op het terrein van de verstrekking van zorg als bedoeld in [artikel 10 van de Zorgverzekeringswet](../../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md);  
+a. de strafrechtelijke handhaving van de rechtsorde op het terrein van de verstrekking van zorg als bedoeld in artikel 10 van de Zorgverzekeringswet;  
 
-b. de strafrechtelijke handhaving van de rechtsorde op het terrein van de verstrekking van zorg als bedoeld in [artikel 6, eerste en tweede lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), en  
+b. de strafrechtelijke handhaving van de rechtsorde op het terrein van de verstrekking van zorg als bedoeld in artikel 6, eerste en tweede lid, van de Algemene Wet Bijzondere Ziektekosten, en  
 
-c. de strafrechtelijke handhaving van de rechtsorde op het terrein van de verstrekking van persoonsgebonden budgetten als bedoeld in [artikel 1.1.1 van de Regeling subsidies AWBZ](../../../../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md).   
+c. de strafrechtelijke handhaving van de rechtsorde op het terrein van de verstrekking van persoonsgebonden budgetten als bedoeld in artikel 1.1.1 van de Regeling subsidies AWBZ.   
 
 ### Artikel  2  
 

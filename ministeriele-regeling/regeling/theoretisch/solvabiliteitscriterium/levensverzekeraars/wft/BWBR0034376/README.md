@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Financiën van 9 december 2013, FM 2013/2204 M, directie Financiële Markten, houdende regels betreffende scenarioanalyses en berekeningswijze van het theoretisch solvabiliteitscriterium (Regeling theoretisch solvabiliteitscriterium levensverzekeraars Wft)
 
 De Minister van Financiën,  
-Gelet op [artikel 24a1, vierde lid, van het Besluit prudentiële regels Wft](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md);
+Gelet op artikel 24a1, vierde lid, van het Besluit prudentiële regels Wft;
 Besluit:     
 ### §  1  
 
@@ -15,7 +15,7 @@ In deze regeling wordt verstaan onder:
 
 a.  *aandelenrisico:* het risico voortvloeiend uit een daling van de waarde van aandelen genoteerd op gereglementeerde markten in de Europese Economische Ruimte of OESO-landen, aandelen in opkomende landen, niet-beursgenoteerde aandelen, aandelen in hedgefondsen, aandelen in grondstoffen en soortgelijke zakelijke waarden;  
 
-b.  *besluit:* het [Besluit prudentiële regels Wft](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md);  
+b.  *besluit:* het Besluit prudentiële regels Wft;  
 
 c.  *kredietbeoordeling:* een taxatie van de kredietwaardigheid van een belegging of een financiële onderneming afgegeven door Standard and Poor’s, Fitch, Moody’s of AM Best;  
 
@@ -25,17 +25,17 @@ e.  *verzekeringstechnische risico’s:* het kortlevenrisico, langlevenrisico en
 
 ### Artikel  2  
 
-1.  De berekening van het theoretische solvabiliteitscriterium, bedoeld in [artikel 24a1 van het besluit](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), vindt plaats op de volgende wijze en in de volgende volgorde: 
+1.  De berekening van het theoretische solvabiliteitscriterium, bedoeld in artikel 24a1 van het besluit, vindt plaats op de volgende wijze en in de volgende volgorde: 
 
-a. de initiële balans wordt opgesteld op basis van de ingevolge de [Wet op het financieel toezicht](../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) ingediende staten met toepassing van artikel 3;  
+a. de initiële balans wordt opgesteld op basis van de ingevolge de Wet op het financieel toezicht ingediende staten met toepassing van artikel 3;  
 
-b. de toereikendheidstoets, bedoeld in [artikel 121 van het besluit](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), is van toepassing;  
+b. de toereikendheidstoets, bedoeld in artikel 121 van het besluit, is van toepassing;  
 
 c. de scenarioanalyses van de markt- en verzekeringstechnische risico’s worden toegepast zoals beschreven in deze regeling;  
 
-d. voor de berekening van de separate effecten van de scenarioanalyses van de markt- en verzekeringstechnische risico’s op de aanwezige solvabiliteitsmarge wordt de balans na doorrekening van een scenarioanalyse opnieuw opgesteld en wordt de aanwezige solvabiliteitsmarge, bedoeld in [artikel 95 van het besluit](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md), opnieuw berekend; de levensverzekeraar hoeft daarbij geen rekening te houden met veranderingen in het in [artikel 98, derde lid, van dat besluit](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) bedoelde verschil en de levensverzekeraar hoeft in de toereikendheidstoets geen rekening te houden met veranderingen in de gehanteerde onzekerheidsmarges;  
+d. voor de berekening van de separate effecten van de scenarioanalyses van de markt- en verzekeringstechnische risico’s op de aanwezige solvabiliteitsmarge wordt de balans na doorrekening van een scenarioanalyse opnieuw opgesteld en wordt de aanwezige solvabiliteitsmarge, bedoeld in artikel 95 van het besluit, opnieuw berekend; de levensverzekeraar hoeft daarbij geen rekening te houden met veranderingen in het in artikel 98, derde lid, van dat besluit bedoelde verschil en de levensverzekeraar hoeft in de toereikendheidstoets geen rekening te houden met veranderingen in de gehanteerde onzekerheidsmarges;  
 
-e. bij de meerwaarden, bedoeld in [artikel 97, eerste lid, van het besluit](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md) wordt voor de berekening van de separate effecten van de scenarioanalyses op de aanwezige solvabiliteitsmarge geen rekening gehouden met belastinglatentie;  
+e. bij de meerwaarden, bedoeld in artikel 97, eerste lid, van het besluit wordt voor de berekening van de separate effecten van de scenarioanalyses op de aanwezige solvabiliteitsmarge geen rekening gehouden met belastinglatentie;  
 
 f. na toepassing van de onderdelen a tot en met e, worden de separate effecten van de markt- en verzekeringstechnische risico’s op de aanwezige solvabiliteitsmarge geaggregeerd met behulp van de formule, bedoeld in artikel 20.  
 
@@ -45,7 +45,7 @@ h. het in onderdeel g berekende resultaat wordt gecorrigeerd voor verliesabsorpt
 
 i. onverminderd het tweede en derde lid is de uitkomst van het theoretisch solvabiliteitscriterium het resultaat van onderdeel h vermenigvuldigd met 90%.     
 2.  Indien de levensverzekeraar meerwaarden als bedoeld in het eerste lid, onderdeel e, niet betrekt in de berekening van de aanwezige solvabiliteitsmarge dan is het in het eerste lid, onderdeel g, bedoelde geaggregeerde resultaat ten minste gelijk aan het geaggregeerde resultaat van de scenarioanalyses indien die meerwaarden wel zouden zijn betrokken in de berekening ter voorkoming van dubbeltellingen; het laatstgenoemde resultaat wordt verminderd met de niet-betrokken meerwaarden.   
-3.  De levensverzekeraar berekent per scenario de toe- of afname van de aanvulling tot de gegarandeerde afkoopwaarden in de toereikendheidstoets, bedoeld in [artikel 121 van het besluit](../../../../../../../AMvB/besluit/prudentiële/regels/wft/BWBR0020420/README.md). Indien de uitkomst van de met behulp van de formule, bedoeld in artikel 20, geaggregeerde afnames van de aanvulling tot de gegarandeerde afkoopwaarden hoger is dan de aanvulling tot gegarandeerde afkoopwaarden in de initiële toereikendheidstoets dan licht de levensverzekeraar de aanvulling tot gegarandeerde afkoopwaarden toe per scenario onderscheiden naar verzekeringen in geld en beleggingsverzekeringen.  
+3.  De levensverzekeraar berekent per scenario de toe- of afname van de aanvulling tot de gegarandeerde afkoopwaarden in de toereikendheidstoets, bedoeld in artikel 121 van het besluit. Indien de uitkomst van de met behulp van de formule, bedoeld in artikel 20, geaggregeerde afnames van de aanvulling tot de gegarandeerde afkoopwaarden hoger is dan de aanvulling tot gegarandeerde afkoopwaarden in de initiële toereikendheidstoets dan licht de levensverzekeraar de aanvulling tot gegarandeerde afkoopwaarden toe per scenario onderscheiden naar verzekeringen in geld en beleggingsverzekeringen.  
 
 ### Artikel  3  
 

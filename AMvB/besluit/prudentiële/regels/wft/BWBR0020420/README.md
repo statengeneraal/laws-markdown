@@ -433,15 +433,17 @@ b. de naleving van limieten voor het totale risico en het tegenpartijrisico voor
 
 a. zorgen voor procedures en maatregelen, bedoeld in artikel 23, derde lid, die noodzakelijk zijn om te garanderen dat de risico’s van ingenomen posities en het aandeel van deze posities in het totale risicoprofiel nauwkeurig en op basis van degelijke en betrouwbare gegevens worden gemeten en dat deze procedures en maatregelen op adequate wijze zijn gedocumenteerd;  
 
-b. in voorkomend geval, achteraf uitvoeren van periodieke tests om de geldigheid te evalueren van regels met betrekking tot risicometingregelingen die modelmatige prognoses en ramingen omvatten;  
+b. zorgen dat in de procedures en maatregelen, bedoeld in artikel 23, derde lid, voor de beoordeling van de kredietwaardigheid van de activa van de icbe niet uitsluitend of mechanisch wordt uitgegaan van ratings, uitgegeven door een ratingbureau; 
 
-c. in voorkomend geval, uitvoeren van periodieke stresstests en scenarioanalyses om de eventueel uit wisselende marktomstandigheden voortvloeiende risico’s aan te pakken die negatieve gevolgen voor de instelling voor collectieve belegging in effecten kunnen hebben;  
+c. in voorkomend geval, achteraf uitvoeren van periodieke tests om de geldigheid te evalueren van regels met betrekking tot risicometingregelingen die modelmatige prognoses en ramingen omvatten;  
 
-d. het opzetten, implementeren en in stand houden van een gedocumenteerd systeem van interne limieten voor de maatregelen die worden genomen om de relevante risico’s voor elke beheerde instelling voor collectieve belegging in effecten te beheren en te controleren, waarbij rekening wordt gehouden met relevante risico’s als bedoeld in artikel 23, tweede lid, en waarbij overeenstemming met het risicoprofiel van de instelling voor collectieve belegging in effecten wordt gewaarborgd;  
+d. in voorkomend geval, uitvoeren van periodieke stresstests en scenarioanalyses om de eventueel uit wisselende marktomstandigheden voortvloeiende risico’s aan te pakken die negatieve gevolgen voor de instelling voor collectieve belegging in effecten kunnen hebben;  
 
-e. zorgen dat voor elke door hem beheerde instelling voor collectieve belegging in effecten de huidige risico-omvang voldoet aan het risicolimietensysteem, bedoeld in onderdeel d; en  
+e. het opzetten, implementeren en in stand houden van een gedocumenteerd systeem van interne limieten voor de maatregelen die worden genomen om de relevante risico’s voor elke beheerde instelling voor collectieve belegging in effecten te beheren en te controleren, waarbij rekening wordt gehouden met relevante risico’s als bedoeld in artikel 23, tweede lid, en waarbij overeenstemming met het risicoprofiel van de instelling voor collectieve belegging in effecten wordt gewaarborgd;  
 
-f. opzetten, implementeren en in stand houden van adequate procedures die in geval van feitelijke en voorzienbare inbreuken op het risicolimietensysteem van de instelling voor collectieve belegging in effecten tot tijdige herstelmaatregelen in belang van de deelnemers leiden.    
+f. zorgen dat voor elke door hem beheerde instelling voor collectieve belegging in effecten de huidige risico-omvang voldoet aan het risicolimietensysteem, bedoeld in onderdeel d; en  
+
+g. opzetten, implementeren en in stand houden van adequate procedures die in geval van feitelijke en voorzienbare inbreuken op het risicolimietensysteem van de instelling voor collectieve belegging in effecten tot tijdige herstelmaatregelen in belang van de deelnemers leiden.    
 
 ### Artikel  24  
 
@@ -511,7 +513,8 @@ a. aard en omvang van de activa en passiva;
 
 b. niet uit de balans blijkende verplichtingen; en  
 
-c. resultaatontwikkeling, uitgesplitst naar de onderscheiden bedrijfsactiviteiten en bedrijfsonderdelen.   
+c. resultaatontwikkeling, uitgesplitst naar de onderscheiden bedrijfsactiviteiten en bedrijfsonderdelen.    
+3.  De premiepensioeninstelling draagt er zorg voor dat in de procedures en maatregelen, bedoeld in artikel 23, derde lid, voor de beoordeling van de kredietwaardigheid van de activa niet uitsluitend of mechanisch wordt uitgegaan van ratings, uitgegeven door een ratingbureau. 
 
 ### Artikel  26.1  
 
@@ -529,6 +532,18 @@ Bepalingen ter uitvoering van artikel 3:17, tweede lid, aanhef en onderdeel d
 1.  Een bank, beleggingsonderneming of financiële instelling die een verklaring van ondertoezichtstelling als bedoeld in artikel 3:110 heeft, beschikt over procedures en maatregelen die waarborgen dat de voor de uitvoering van de vangnetregelingen noodzakelijke gegevens voortdurend actueel worden bijgehouden en adequaat zijn vastgelegd.   
 2.  De financiële onderneming verstrekt de gegevens, bedoeld in het eerste lid, binnen een door de Nederlandsche Bank te bepalen termijn, in een voor de Nederlandsche Bank toegankelijke vorm nadat de Nederlandsche Bank ten aanzien van haar heeft besloten tot toepassing van een vangnetregeling.   
 3.  De Nederlandsche Bank deelt het besluit tot toepassing van een vangnetregeling onverwijld mede aan de desbetreffende financiële onderneming.  
+
+### §  4.4  
+
+####Regels ter bevordering van de goede werking van het betalingsverkeer
+
+Bepaling ter uitvoering van artikel 3:17, tweede lid, aanhef en onderdeel e 
+Treedt in werking per 01-01-2015 
+
+### Artikel  26b  
+Treedt in werking per 01-01-2015 
+
+Afwikkelondernemingen, banken, betaalinstellingen en elektronischgeldinstellingen nemen bij de inrichting van hun bedrijfsvoering de regels in acht die door de Nederlandsche Bank terzake worden gesteld ter uitvoering van internationaal aanvaarde standaarden om de goede werking van het betalingsverkeer te waarborgen. 
 
 ### Hoofdstuk  5  
 

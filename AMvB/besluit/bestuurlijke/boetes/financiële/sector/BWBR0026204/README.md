@@ -680,6 +680,7 @@ Overtreding van een voorschrift, gesteld in een hierna genoemd artikel van de We
 | 24b, eerste tot en met vijfde lid  | 2  |
 | 25  | 2  |
 | 26, eerste tot en met vijfde lid  | 2  |
+|26.0 |2 |
 |26.1, eerste en tweede lid  |2  |
 | 27, eerste en tweede lid  | 2  |
 | 28  | 2  |

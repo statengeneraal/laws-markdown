@@ -5,16 +5,16 @@
 De Staatssecretaris van Volksgezondheid, Welzijn en Sport,  
 Handelende in overeenstemming met de Minister van Veiligheid en Justitie en de Minister van Sociale Zaken en Werkgelegenheid;
 
-Gelet op [artikel 3, aanhef en onder b, van de Wet op de bijzondere opsporingsdiensten](../../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md);
+Gelet op artikel 3, aanhef en onder b, van de Wet op de bijzondere opsporingsdiensten;
 Besluit:    
 
 ### Artikel  1  
 
-De bijzondere opsporingsdienst, bedoeld in [artikel 2, aanhef en onder d, van de Wet op de bijzondere opsporingsdiensten](../../../../../../../wet/wet/op/de/bijzondere/opsporingsdiensten/BWBR0019919/README.md), heeft mede tot taak; 
+De bijzondere opsporingsdienst, bedoeld in artikel 2, aanhef en onder d, van de Wet op de bijzondere opsporingsdiensten, heeft mede tot taak; 
 
-a. het opsporen van strafbare feiten die verband houden met de verstrekking van persoonsgebonden budgetten als bedoeld in [artikel 1.1.1 van de Regeling subsidies AWBZ](../../../../../../../ministeriele-regeling/regeling/subsidies/awbz/BWBR0019161/README.md), en  
+a. het opsporen van strafbare feiten die verband houden met de verstrekking van persoonsgebonden budgetten als bedoeld in artikel 1.1.1 van de Regeling subsidies AWBZ, en  
 
-b. het opsporen van strafbare feiten die verband houden met de verstrekking van aanspraken op zorg krachtens [artikel 6, tweede lid, van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md), voor zover gepleegd in samenhang met de strafbare feiten, bedoeld onder a, en voor zover eerstbedoelde strafbare feiten niet zijn te beschouwen als hoofdbestanddeel van het complex van geconstateerde strafbare feiten.   
+b. het opsporen van strafbare feiten die verband houden met de verstrekking van aanspraken op zorg krachtens artikel 6, tweede lid, van de Algemene Wet Bijzondere Ziektekosten, voor zover gepleegd in samenhang met de strafbare feiten, bedoeld onder a, en voor zover eerstbedoelde strafbare feiten niet zijn te beschouwen als hoofdbestanddeel van het complex van geconstateerde strafbare feiten.   
 
 ### Artikel  2  
 

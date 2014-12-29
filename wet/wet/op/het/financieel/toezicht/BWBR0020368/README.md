@@ -4948,7 +4948,7 @@ d. met betrekking tot banken, beleggingsondernemingen en financiële instellinge
 4.  Het eerste lid is van overeenkomstige toepassing op ondernemingen die betrokken worden bij het toezicht op geconsolideerde basis ingevolge artikel 3:276 op een bank of een beleggingsonderneming als bedoeld in het eerste lid.  
 
 ### Artikel  3:17b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Een afwikkelonderneming, betaalinstelling, clearinginstelling, elektronischgeldinstelling, entiteit voor risico-acceptatie, premiepensioeninstelling of verzekeraar met zetel in Nederland beschikt over procedures en maatregelen die waarborgen dat natuurlijke personen die in Nederland werkzaam zijn onder haar verantwoordelijkheid en wier werkzaamheden het risicoprofiel van de onderneming wezenlijk kunnen beïnvloeden of die zich rechtstreeks bezighouden met het verlenen van financiële diensten, een eed of belofte afleggen.   
 2.  Een bank met zetel in Nederland beschikt over procedures en maatregelen die waarborgen dat natuurlijke personen die in Nederland onder haar verantwoordelijkheid werkzaam zijn een eed of belofte afleggen indien zij: 
@@ -4961,7 +4961,7 @@ b. werkzaamheden uitvoeren die deel uitmaken van of voortvloeien uit het uitoefe
 5.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de eed of belofte, bedoeld in het eerste of tweede lid.  
 
 ### Artikel  3:17c  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Een bank met zetel in Nederland draagt er zorg voor dat de naleving van de bij of krachtens de artikelen 3:10 en 3:17 gestelde regels en de daaruit voor natuurlijke personen voortvloeiende integriteits- en zorgvuldigheidsnormen binnen de bank is gewaarborgd in een tuchtrechtelijke regeling waaraan de in de artikelen 3:8 en 3:17b, tweede lid, bedoelde natuurlijke personen werkzaam bij of onder verantwoordelijkheid van de bank zijn onderworpen en waarvan de toepassing en uitvoering zijn opgedragen aan een onafhankelijke en deskundige externe instantie.   
 2.  De tuchtrechtelijke regeling, bedoeld in het eerste lid, voldoet voorts aan de volgende eisen: 
@@ -5105,7 +5105,7 @@ De artikelen 3:17 en 3:18 zijn van overeenkomstige toepassing op afwikkelonderne
 De artikelen 3:17, 3:18, 3:20a en 3:21 zijn van overeenkomstige toepassing op clearinginstellingen met zetel in een niet-aangewezen staat. 
 
 ### Artikel  3:27a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 Artikel 3:17b is van overeenkomstige toepassing op in Nederland gelegen bijkantoren van clearinginstellingen met zetel in een niet-aangewezen staat. 
 
@@ -8548,7 +8548,7 @@ b. ordelijke en transparante financiëlemarktprocessen, zuivere verhoudingen tus
 4.  De Autoriteit Financiële Markten kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van het op grond van het tweede lid bepaalde, indien de aanvrager aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die dit artikel beoogt te bereiken anderszins worden bereikt.  
 
 ### Artikel  4:15a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-04-2015 
 
 1.  Een beheerder van een beleggingsinstelling, beleggingsmaatschappij, beheerder van een icbe, maatschappij voor collectieve belegging in effecten, beleggingsonderneming, bewaarder van een icbe, financiëledienstverlener of pensioenbewaarder beschikt over procedures en maatregelen die waarborgen dat natuurlijke personen die in Nederland werkzaam zijn onder haar verantwoordelijkheid en wier werkzaamheden het risicoprofiel van de onderneming wezenlijk kunnen beïnvloeden of die zich rechtstreeks bezighouden met het verlenen van financiële diensten, een eed of belofte afleggen.   
 2.  Een financiële onderneming als bedoeld in het eerste lid draagt er zorg voor dat de in dat lid bedoelde eed of belofte wordt nageleefd.   
@@ -9078,7 +9078,7 @@ b. de staat die geen lidstaat is waar de beleggingsinstelling haar zetel heeft.
 2.  Bij algemene maatregel van bestuur kan worden bepaald dat de Autoriteit Financiële Markten volgens daarbij te stellen regels ontheffing kan verlenen van de krachtens het eerste lid gestelde regels. 
 
 ### Artikel  4:37pa  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Een beleggingsmaatschappij die wordt beheerd door een beheerder van een beleggingsinstelling waarvan de vergunning is ingetrokken of een beleggingsmaatschappij waarvan de vergunning is ingetrokken, kan op verzoek van de Autoriteit Financiële Markten door de rechtbank worden ontbonden.   
 2.  Het vermogen van een beleggingsfonds dat wordt beheerd door een beheerder van een beleggingsinstelling waarvan de vergunning is ingetrokken, kan op verzoek van de Autoriteit Financiële Markten door een of meer door de rechtbank aan te wijzen vereffenaars binnen een door de rechtbank te bepalen termijn worden vereffend.   
@@ -11812,7 +11812,7 @@ c. stabilisatie zoals omschreven in hoofdstuk III van verordening (EG) nr. 2273/
 4.  Het eerste lid, aanhef en onderdeel d, is niet van toepassing voorzover het betreft het verspreiden van informatie door journalisten die in hun normale beroepshoedanigheid handelen, rekening houdend met de regels die gelden binnen hun beroepsgroep, tenzij zij voordeel of winst behalen uit de verspreiding van de informatie.  
 
 ### Artikel  5:58a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Het is verboden om in of vanuit Nederland onjuiste of misleidende informatie te verstrekken of te verspreiden ten behoeve van de vaststelling van een benchmark, terwijl de verstrekker of verspreider van die informatie weet of redelijkerwijs moet vermoeden dat die informatie onjuist of misleidend is, dan wel andere gedragingen te verrichten met het oogmerk de vaststelling van een benchmark te manipuleren.   
 2.  Het is voorts verboden om in of vanuit een andere staat onjuiste of misleidende informatie te verstrekken of te verspreiden ten behoeve van de vaststelling van een benchmark ten aanzien van een financieel instrument als bedoeld in het vierde lid, onderdeel c, onder 1°, terwijl de verstrekker of verspreider van die informatie weet of redelijkerwijs moet vermoeden dat die informatie onjuist of misleidend is, dan wel andere gedragingen te verrichten met het oogmerk de vaststelling van een zodanige benchmark te manipuleren.   

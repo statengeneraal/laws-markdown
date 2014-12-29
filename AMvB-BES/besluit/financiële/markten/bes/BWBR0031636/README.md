@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Financiën van 2 november 2011, nr. FM/2011/9925 M;
 
-Gelet op de [artikelen 1:1](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [1:3, vierde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [1:10, tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [1:27, eerste lid, onderdeel b en derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [2:6, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [2:18, tweede en derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [2:19, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [2:20, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [2:23, vijfde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:2, tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:4, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:5, tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:6, eerste en tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:8, tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:9, tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:11, tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:12, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:13, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:16, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:17, derde en vijfde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:18, eerste en tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:19, vierde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:21, eerste lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:23, vijfde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:24](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:34, eerste en tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:35, eerste tot en met derde](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:36, eerste en vierde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:45, vijfde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:46, derde en vijfde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [4:3, tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [4:4, eerste lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [4:5, tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [4:10, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [4:11, vierde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [4:23, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [4:26, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [4:33, eerste en tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [4:42, tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [4:48](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [5:4, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [5:5, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [5:10, tweede en derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [5:12](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [5:14, tweede en derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [5:15, tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [5:21, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [5:22, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [5:25, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [5:26, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [5:27, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [6:17, eerste lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [7:30, tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [7:31, eerste lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [8:3, tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [8:5, derde lid, van de Wet financiële markten BES](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md);
+Gelet op de artikelen 1:1, 1:3, vierde lid, 1:10, tweede lid, 1:27, eerste lid, onderdeel b en derde lid, 2:6, derde lid, 2:18, tweede en derde lid, 2:19, derde lid, 2:20, derde lid, 2:23, vijfde lid, 3:2, tweede lid, 3:4, derde lid, 3:5, tweede lid, 3:6, eerste en tweede lid, 3:8, tweede lid, 3:9, tweede lid, 3:11, tweede lid, 3:12, derde lid, 3:13, derde lid, 3:16, derde lid, 3:17, derde en vijfde lid, 3:18, eerste en tweede lid, 3:19, vierde lid, 3:21, eerste lid, 3:23, vijfde lid, 3:24, 3:34, eerste en tweede lid, 3:35, eerste tot en met derde, 3:36, eerste en vierde lid, 3:45, vijfde lid, 3:46, derde en vijfde lid, 4:3, tweede lid, 4:4, eerste lid, 4:5, tweede lid, 4:10, derde lid, 4:11, vierde lid, 4:23, derde lid, 4:26, derde lid, 4:33, eerste en tweede lid, 4:42, tweede lid, 4:48, 5:4, derde lid, 5:5, derde lid, 5:10, tweede en derde lid, 5:12, 5:14, tweede en derde lid, 5:15, tweede lid, 5:21, derde lid, 5:22, derde lid, 5:25, derde lid, 5:26, derde lid, 5:27, derde lid, 6:17, eerste lid, 7:30, tweede lid, 7:31, eerste lid, 8:3, tweede lid en 8:5, derde lid, van de Wet financiële markten BES;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 3 februari 2012, nr. W06.11.0468/III;
 
@@ -22,11 +22,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt, tenzij anders bepaald, verstaan onder: 
 
-*bewaarder:* een aan een beleggingsinstelling verbonden bewaarder als bedoeld in [artikel 4:4, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md);  
+*bewaarder:* een aan een beleggingsinstelling verbonden bewaarder als bedoeld in artikel 4:4, eerste lid, van de wet;  
 
 *kredietvereniging:* een kredietinstelling met de rechtsvorm van een coöperatie die ten doel heeft zijn leden behulpzaam te zijn bij het sparen en verlenen van kredieten;  
 
-*wet:* [Wet financiële markten BES](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md).   
+*wet:* Wet financiële markten BES.   
 
 ### Artikel  1:2  
 
@@ -38,13 +38,13 @@ Bij regeling van Onze Minister kunnen personen die voldoen aan in die regeling v
 
 ####(uitgezonderde adviseurs)
 
-De [wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) is met betrekking tot het optreden als adviseur niet van toepassing op adviseurs die een andere hoofdberoepswerkzaamheid hebben dan het verlenen van financiële diensten of het aanbieden van financiële producten en uit hoofde van die hoofdberoepswerkzaamheid inzicht hebben in de financiële situatie van een consument of cliënt, voor zover zij, zonder daarvoor van de aanbieder provisie te ontvangen, het aanbevolen product aan te bieden of andere financiële diensten te verlenen met betrekking tot het aanbevolen product, die consument of cliënt adviseren en de door hen verstrekte adviezen in het verlengde liggen van hun hoofdberoepswerkzaamheid. 
+De wet is met betrekking tot het optreden als adviseur niet van toepassing op adviseurs die een andere hoofdberoepswerkzaamheid hebben dan het verlenen van financiële diensten of het aanbieden van financiële producten en uit hoofde van die hoofdberoepswerkzaamheid inzicht hebben in de financiële situatie van een consument of cliënt, voor zover zij, zonder daarvoor van de aanbieder provisie te ontvangen, het aanbevolen product aan te bieden of andere financiële diensten te verlenen met betrekking tot het aanbevolen product, die consument of cliënt adviseren en de door hen verstrekte adviezen in het verlengde liggen van hun hoofdberoepswerkzaamheid. 
 
 ### Artikel  1:4  
 
 ####(uitgezonderde beleggingsinstellingen)
 
-1.  De [hoofdstukken 2 tot en met 5 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), met uitzondering van de [artikelen 2:21](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [2:22](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en de [paragrafen 4](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [5 van hoofdstuk 5](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), zijn niet van toepassing op: 
+1.  De hoofdstukken 2 tot en met 5 van de wet, met uitzondering van de artikelen 2:21 en 2:22 en de paragrafen 4 en 5 van hoofdstuk 5, zijn niet van toepassing op: 
 
 a. beleggingsinstellingen die uitsluitend rechten van deelneming aanbieden in een besloten kring dan wel aan professionele marktpartijen;  
 
@@ -67,7 +67,7 @@ d. beleggingsinstellingen waarvan het balanstotaal voor minder dan 50% uit beleg
 
 ####(uitgezonderde bemiddelaars in goederenkrediet)
 
-De [hoofdstukken 2 tot en met 5 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), met uitzondering van de [artikelen 2:21](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [2:22](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [4:40, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [5:2](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [5:3](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [5:4](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en de [paragrafen 4](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [5 van hoofdstuk 5](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), zijn niet van toepassing op bemiddelaars in goederenkrediet dat dient ter verschaffing van het genot van een roerende zaak dan wel het verlenen van een dienst, indien de looptijd van het goederenkrediet niet langer is dan de verwachte economische levensduur van de verschafte roerende zaak of dan de periode van dienstverlening, en de bemiddelaar in goederenkrediet: 
+De hoofdstukken 2 tot en met 5 van de wet, met uitzondering van de artikelen 2:21, 2:22, 4:40, derde lid, 5:2, 5:3 en 5:4 en de paragrafen 4 en 5 van hoofdstuk 5, zijn niet van toepassing op bemiddelaars in goederenkrediet dat dient ter verschaffing van het genot van een roerende zaak dan wel het verlenen van een dienst, indien de looptijd van het goederenkrediet niet langer is dan de verwachte economische levensduur van de verschafte roerende zaak of dan de periode van dienstverlening, en de bemiddelaar in goederenkrediet: 
 
 a. de consument niet adviseert over het goederenkrediet; en  
 
@@ -77,7 +77,7 @@ b. een andere hoofdberoepswerkzaamheid heeft dan bemiddeling in goederenkrediet.
 
 ####(uitgezonderde elektronischgeldinstellingen)
 
-De [wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) is niet van toepassing op de uitgifte van elektronisch geld dat uitsluitend kan worden gebruikt: 
+De wet is niet van toepassing op de uitgifte van elektronisch geld dat uitsluitend kan worden gebruikt: 
 
 a. hetzij in door de onderneming of instelling door of namens wie het elektronisch geld is uitgegeven gebruikte bedrijfsgebouwen;  
 
@@ -89,15 +89,15 @@ c. hetzij voor een beperkte reeks goederen dan wel diensten.
 
 ####(uitgezonderde financiële diensten ten behoeve van eigen werknemers)
 
-1.  De [wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) is met betrekking tot het optreden als adviseur niet van toepassing op adviseurs, voor zover zij adviseren over andere financiële producten dan krediet aan consumenten die bij hen werkzaam zijn of anderszins onder hun verantwoordelijkheid vallen.   
-2.  De [wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) is met betrekking tot het optreden als bemiddelaar niet van toepassing op bemiddelaars, voor zover zij bemiddelen over andere financiële producten dan krediet ten behoeve van consumenten die bij hen werkzaam zijn of anderszins onder hun verantwoordelijkheid vallen.   
-3.  De [wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) is met betrekking tot het optreden als gevolmachtigd of ondergevolmachtigd agent niet van toepassing op gevolmachtigd of ondergevolmachtigd agenten, voor zover zij verzekeringen sluiten met consumenten die bij hen in dienst zijn of anderszins onder hun verantwoordelijkheid vallen.  
+1.  De wet is met betrekking tot het optreden als adviseur niet van toepassing op adviseurs, voor zover zij adviseren over andere financiële producten dan krediet aan consumenten die bij hen werkzaam zijn of anderszins onder hun verantwoordelijkheid vallen.   
+2.  De wet is met betrekking tot het optreden als bemiddelaar niet van toepassing op bemiddelaars, voor zover zij bemiddelen over andere financiële producten dan krediet ten behoeve van consumenten die bij hen werkzaam zijn of anderszins onder hun verantwoordelijkheid vallen.   
+3.  De wet is met betrekking tot het optreden als gevolmachtigd of ondergevolmachtigd agent niet van toepassing op gevolmachtigd of ondergevolmachtigd agenten, voor zover zij verzekeringen sluiten met consumenten die bij hen in dienst zijn of anderszins onder hun verantwoordelijkheid vallen.  
 
 ### Artikel  1:8  
 
 ####(uitgezonderde financiële diensten door of ten behoeve van pensioenfondsen)
 
-De [wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), met uitzondering van [hoofdstuk 1](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [hoofdstuk 5, paragrafen 4](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [5](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), en de [hoofdstukken 6](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [7](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), is niet van toepassing op: 
+De wet, met uitzondering van hoofdstuk 1, hoofdstuk 5, paragrafen 4 en 5, en de hoofdstukken 6 en 7, is niet van toepassing op: 
 
 a. het verlenen van financiële diensten of het aanbieden van financiële producten, niet zijnde rechten van deelneming in beleggingsinstellingen, door pensioenfondsen voor zover zij die financiële diensten verlenen of die financiële producten aanbieden aan de bedrijfstak of onderneming waarmee zij zijn verbonden;  
 
@@ -107,7 +107,7 @@ b. het optreden als vermogensbeheerder ten behoeve van pensioenfondsen of daaraa
 
 ####(uitgezonderde kredietaanbieders)
 
-1.  De [wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) is niet van toepassing op: 
+1.  De wet is niet van toepassing op: 
 
 a. het door een werkgever als nevenactiviteit aanbieden van krediet aan uitsluitend zijn werknemers of het verlenen van een financiële dienst met betrekking tot dat krediet: 
 
@@ -116,19 +116,19 @@ a. het door een werkgever als nevenactiviteit aanbieden van krediet aan uitsluit
 2°. tegen een rentevoet die niet hoger is dan de op de markt gebruikelijke rentevoet en onder voorwaarden die voor de consument gunstiger zijn dan de op de markt gebruikelijke voorwaarden;    
 
 b. het aanbieden van krediet, of het verlenen van een financiële dienst met betrekking tot zodanig krediet, dat binnen drie maanden dient te worden afgelost en ter zake waarvan slechts onbetekenende kosten aan de consument in rekening worden gebracht.     
-2.  De [wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), met uitzondering van de [artikelen 5:3](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [5:4](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [5:15](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), is niet van toepassing op het aanbieden van, of het verlenen van financiële diensten met betrekking tot, een geoorloofde debetstand waarbij de consument is gehouden binnen een maand af te lossen.  
+2.  De wet, met uitzondering van de artikelen 5:3, 5:4 en 5:15, is niet van toepassing op het aanbieden van, of het verlenen van financiële diensten met betrekking tot, een geoorloofde debetstand waarbij de consument is gehouden binnen een maand af te lossen.  
 
 ### Artikel  1:10  
 
 ####(uitgezonderde natura-uitvaartverzekeraars)
 
-De [hoofdstukken 2 tot en met 5 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), met uitzondering van de [artikelen 2:21](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [2:22](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en de [paragrafen 4](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [5 van hoofdstuk 5](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), zijn niet van toepassing op natura-uitvaartverzekeraars met minder dan 200 verzekerden. 
+De hoofdstukken 2 tot en met 5 van de wet, met uitzondering van de artikelen 2:21 en 2:22 en de paragrafen 4 en 5 van hoofdstuk 5, zijn niet van toepassing op natura-uitvaartverzekeraars met minder dan 200 verzekerden. 
 
 ### Artikel  1:11  
 
 ####(doorberekening toezichtkosten)
 
-1.  De toezichtautoriteit brengt de ingevolge [artikel 1:5, derde lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), of [1:6, derde lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) onder haar toezicht staande financiële ondernemingen jaarlijks een bedrag in rekening ter gedeeltelijke vergoeding van de kosten, bedoeld in [artikel 1:10, tweede lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), overeenkomstig de daartoe ingevolge artikel 1:10, derde lid, van de wet vastgestelde tarieven.   
+1.  De toezichtautoriteit brengt de ingevolge artikel 1:5, derde lid, of 1:6, derde lid, van de wet onder haar toezicht staande financiële ondernemingen jaarlijks een bedrag in rekening ter gedeeltelijke vergoeding van de kosten, bedoeld in artikel 1:10, tweede lid, van de wet, overeenkomstig de daartoe ingevolge artikel 1:10, derde lid, van de wet vastgestelde tarieven.   
 2.  De hoogte van de in het eerste lid bedoelde tarieven wordt voor de naar aard en omvang van hun activiteiten te onderscheiden categorieën financiële ondernemingen verschillend vastgesteld. Tevens kan bij de vaststelling onderscheid worden gemaakt tussen financiële ondernemingen met zetel in een openbaar lichaam en financiële ondernemingen met zetel in het buitenland.   
 3.  Betaling van het ingevolge het eerste lid verschuldigde bedrag geschiedt op door de toezichtautoriteit te bepalen wijze en binnen een door haar te bepalen termijn.  
 
@@ -137,7 +137,7 @@ De [hoofdstukken 2 tot en met 5 van de wet](../../../../../../wet-BES/wet/financ
 ####(ontheffingen)
 
 1.  De toezichtautoriteit kan op aanvraag geheel of gedeeltelijk, al dan niet voor bepaalde tijd, ontheffing verlenen van de artikelen 3:4, 3:23 tot en met 3:25, 3:29, 4:2, 4:3, 4:8, 4:20 tot en met 4:26, 4:28, 4:29, 4:37 tot en met 4:41, 4:47 tot en met 4:51, 5:2 tot en met 5:6, 6:2 tot en met 6:4, 7:2, 7:4, 7:6 tot en met 7:17, tweede tot en met achtste lid, 7:20, tweede tot en met achtste lid, en 8:1.   
-2.  De Autoriteit Financiële Markten kan slechts ontheffing verlenen van [artikel 4:14, tweede lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), indien de werkzaamheden worden voortgezet in een besloten kring.  
+2.  De Autoriteit Financiële Markten kan slechts ontheffing verlenen van artikel 4:14, tweede lid, van de wet, indien de werkzaamheden worden voortgezet in een besloten kring.  
 
 ### Hoofdstuk  2  
 
@@ -151,7 +151,7 @@ De [hoofdstukken 2 tot en met 5 van de wet](../../../../../../wet-BES/wet/financ
 
 ####(aanvraagformulier)
 
-1.  De aanvraag van een vergunning op grond van de [wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) wordt gedaan met gebruikmaking van het daartoe door de toezichtautoriteit vast te stellen formulier dat op verzoek aan de aanvrager ter beschikking wordt gesteld.   
+1.  De aanvraag van een vergunning op grond van de wet wordt gedaan met gebruikmaking van het daartoe door de toezichtautoriteit vast te stellen formulier dat op verzoek aan de aanvrager ter beschikking wordt gesteld.   
 2.  Het aanvraagformulier en de daarbij ingevolge deze paragraaf te verstrekken gegevens en bescheiden worden in enkelvoud ingediend, waarbij bedoelde gegevens en bescheiden in zodanige vorm worden verstrekt dat een goede beoordeling door de toezichtautoriteit mogelijk is.  
 
 ### Artikel  2:2  
@@ -180,7 +180,7 @@ g. indien de financiële onderneming haar zetel in de openbare lichamen heeft:
 
 h. indien de financiële onderneming haar zetel in het buitenland heeft: 
 
-1°. een verklaring van de toezichthoudende instantie van de staat van zetel waaruit blijkt dat de financiële onderneming in haar staat van zetel bevoegd is tot de uitoefening van de vergunningplichtige activiteiten, bedoeld in [artikel 3:2 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md);  
+1°. een verklaring van de toezichthoudende instantie van de staat van zetel waaruit blijkt dat de financiële onderneming in haar staat van zetel bevoegd is tot de uitoefening van de vergunningplichtige activiteiten, bedoeld in artikel 3:2 van de wet;  
 
 2°. naam, adres en telefoon- en faxnummer van eventuele bijkantoren in de openbare lichamen.     
 
@@ -188,15 +188,15 @@ h. indien de financiële onderneming haar zetel in het buitenland heeft:
 
 ####(financiële onderneming met zetel in de openbare lichamen)
 
-1.  Een financiële onderneming met zetel in de openbare lichamen verstrekt bij de aanvraag van een vergunning gegevens en bescheiden op basis waarvan de toezichtautoriteit kan beoordelen of zal worden voldaan aan, voor zover op de betrokken financiële onderneming van toepassing, de bij of krachtens de [artikelen 3:4 tot en met 3:6](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:8 tot en met 3:13](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:16 tot en met 3:19](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:22 tot en met 3:24](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:33](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:45](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [3:46 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) gestelde regels, alsmede: 
+1.  Een financiële onderneming met zetel in de openbare lichamen verstrekt bij de aanvraag van een vergunning gegevens en bescheiden op basis waarvan de toezichtautoriteit kan beoordelen of zal worden voldaan aan, voor zover op de betrokken financiële onderneming van toepassing, de bij of krachtens de artikelen 3:4 tot en met 3:6, 3:8 tot en met 3:13, 3:16 tot en met 3:19, 3:22 tot en met 3:24, 3:33, 3:45 en 3:46 van de wet gestelde regels, alsmede: 
 
-a. voor beleggingsinstellingen: de bij of krachtens de [artikelen 4:1 tot en met 4:5](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [4:10 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) gestelde regels;  
+a. voor beleggingsinstellingen: de bij of krachtens de artikelen 4:1 tot en met 4:5 en 4:10 van de wet gestelde regels;  
 
-b. voor houders van een effectenbeurs: de bij of krachtens de [artikelen 4:15](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [4:16 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) gestelde regels;  
+b. voor houders van een effectenbeurs: de bij of krachtens de artikelen 4:15 en 4:16 van de wet gestelde regels;  
 
-c. voor kredietinstellingen: de bij of krachtens de [artikelen 4:18](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [4:21 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) gestelde regels;  
+c. voor kredietinstellingen: de bij of krachtens de artikelen 4:18 en 4:21 van de wet gestelde regels;  
 
-d. voor verzekeraars: de bij of krachtens de [artikelen 4:25](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [4:28 tot en met 4:34 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) gestelde regels.     
+d. voor verzekeraars: de bij of krachtens de artikelen 4:25 en 4:28 tot en met 4:34 van de wet gestelde regels.     
 2.  Een bemiddelaar met zetel in de openbare lichamen verstrekt aan de toezichtautoriteit voorts gegevens en bescheiden met betrekking tot eventuele zakelijke relaties met verzekeraars waaruit blijkt of hij afhankelijk dan wel onafhankelijk is.   
 3.  Een gevolmachtigde agent of ondergevolmachtigde agent met zetel in de openbare lichamen verstrekt aan de toezichtautoriteit voorts de naam van de verzekeraar voor wie de volmacht geldt.  
 
@@ -204,15 +204,15 @@ d. voor verzekeraars: de bij of krachtens de [artikelen 4:25](../../../../../../
 
 ####(financiële onderneming met zetel in het buitenland)
 
-1.  Een financiële onderneming met zetel in het buitenland verstrekt bij de aanvraag van een vergunning gegevens en bescheiden op basis waarvan de toezichtautoriteit kan beoordelen of zal worden voldaan aan, voor zover op de betrokken financiële onderneming van toepassing, de bij of krachtens de [artikelen 3:4 tot en met 3:6](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:8 tot en met 3:13](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), [3:23](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [3:24 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) gestelde regels, alsmede: 
+1.  Een financiële onderneming met zetel in het buitenland verstrekt bij de aanvraag van een vergunning gegevens en bescheiden op basis waarvan de toezichtautoriteit kan beoordelen of zal worden voldaan aan, voor zover op de betrokken financiële onderneming van toepassing, de bij of krachtens de artikelen 3:4 tot en met 3:6, 3:8 tot en met 3:13, 3:23 en 3:24 van de wet gestelde regels, alsmede: 
 
-a. voor beleggingsinstellingen: de bij of krachtens de [artikelen 4:1 tot en met 4:5](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [4:10 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) gestelde regels;  
+a. voor beleggingsinstellingen: de bij of krachtens de artikelen 4:1 tot en met 4:5 en 4:10 van de wet gestelde regels;  
 
-b. voor houders van een effectenbeurs: de bij of krachtens de [artikelen 4:15](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [4:16 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) gestelde regels;  
+b. voor houders van een effectenbeurs: de bij of krachtens de artikelen 4:15 en 4:16 van de wet gestelde regels;  
 
-c. voor kredietinstellingen: de bij of krachtens [artikel 4:18 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) gestelde regels;  
+c. voor kredietinstellingen: de bij of krachtens artikel 4:18 van de wet gestelde regels;  
 
-d. voor verzekeraars: de bij of krachtens de [artikelen 4:25](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [4:28 tot en met 4:34 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) gestelde regels.     
+d. voor verzekeraars: de bij of krachtens de artikelen 4:25 en 4:28 tot en met 4:34 van de wet gestelde regels.     
 2.  Artikel 2:3, tweede en derde lid, is van overeenkomstige toepassing op een bemiddelaar onderscheidenlijk een gevolmachtigd agent of ondergevolmachtigd agent met zetel in het buitenland.  
 
 ### Artikel  2:5  
@@ -279,26 +279,26 @@ b. de polisvoorwaarden die de verzekeraar voornemens is te gebruiken in de openb
 
 ####(wijzigingen in antecedenten)
 
-1.  Een financiële onderneming waaraan op grond van [deze wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) een vergunning is verleend, meldt aan de toezichtautoriteit een wijziging in de gegevens die eerder door haarzelf aan de toezichtautoriteit zijn verstrekt met betrekking tot de betrouwbaarheid van de in [artikel 3:4, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) bedoelde personen.   
+1.  Een financiële onderneming waaraan op grond van deze wet een vergunning is verleend, meldt aan de toezichtautoriteit een wijziging in de gegevens die eerder door haarzelf aan de toezichtautoriteit zijn verstrekt met betrekking tot de betrouwbaarheid van de in artikel 3:4, eerste lid, van de wet bedoelde personen.   
 2.  De financiële onderneming meldt de wijziging schriftelijk en onverwijld nadat zij daarvan in het kader van de normale bedrijfsvoering kennis heeft genomen  
 
 ### Artikel  2:9  
 
 ####(wijziging van beleidsbepalers)
 
-1.  Een financiële onderneming waaraan op grond van [deze wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) een vergunning is verleend, geeft de toezichtautoriteit kennis van het voornemen tot wijziging van: 
+1.  Een financiële onderneming waaraan op grond van deze wet een vergunning is verleend, geeft de toezichtautoriteit kennis van het voornemen tot wijziging van: 
 
 a. de personen die het dagelijks beleid van de financiële onderneming bepalen of het beleid van de financiële onderneming bepalen of mede bepalen;  
 
 b. indien van toepassing, de personen die onderdeel zijn van een orgaan dat belast is met het toezicht op het beleid en de algemene gang van zaken van de financiële onderneming.     
-2.  Met betrekking tot het voornemen, bedoeld in het eerste lid, verstrekt de financiële onderneming gegevens en bescheiden op basis waarvan de toezichtautoriteit kan beoordelen of de financiële onderneming met betrekking tot de betrokken persoon voldoet aan de bij of krachtens de [artikelen 3:4](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [3:5 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) gestelde regels met betrekking tot de betrouwbaarheid en de geschiktheid.   
+2.  Met betrekking tot het voornemen, bedoeld in het eerste lid, verstrekt de financiële onderneming gegevens en bescheiden op basis waarvan de toezichtautoriteit kan beoordelen of de financiële onderneming met betrekking tot de betrokken persoon voldoet aan de bij of krachtens de artikelen 3:4 en 3:5 van de wet gestelde regels met betrekking tot de betrouwbaarheid en de geschiktheid.   
 3.  De financiële onderneming geeft geen uitvoering aan de voornemens, bedoeld in het eerste lid, voordat de toezichtautoriteit heeft ingestemd met de wijziging. De toezichtautoriteit neemt een besluit omtrent instemming binnen acht weken na ontvangst van de kennisgeving.  
 
 ### Artikel  2:10  
 
 ####(wijziging in gegevens betreffende de financiële onderneming)
 
-Een financiële onderneming waaraan op grond van deze [wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) een vergunning is verleend, meldt binnen twee weken schriftelijk aan de toezichtautoriteit een wijziging in de gegevens en bescheiden met betrekking tot de financiële onderneming die zij ingevolge artikel 2:2 aan de toezichtautoriteit heeft verstrekt. 
+Een financiële onderneming waaraan op grond van deze wet een vergunning is verleend, meldt binnen twee weken schriftelijk aan de toezichtautoriteit een wijziging in de gegevens en bescheiden met betrekking tot de financiële onderneming die zij ingevolge artikel 2:2 aan de toezichtautoriteit heeft verstrekt. 
 
 ### Artikel  2:11  
 
@@ -320,16 +320,16 @@ b. de uitoefening van haar bedrijf vanuit een bijkantoor in het buitenland te st
 
 ####(inschrijving register)
 
-1.  De toezichtautoriteit draagt zorg voor een zodanige indeling en inrichting van het register financiële markten, bedoeld in [artikel 2:19, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), dat uit het register is op te maken vanaf welk tijdstip, welke activiteiten de ingeschreven financiële ondernemingen mogen verrichten, met inbegrip van de eventueel gestelde beperkingen, alsmede de staat van zetel. Het register wordt zo ingericht dat het raadpleegbaar is op een website van de toezichtautoriteit.   
+1.  De toezichtautoriteit draagt zorg voor een zodanige indeling en inrichting van het register financiële markten, bedoeld in artikel 2:19, eerste lid, van de wet, dat uit het register is op te maken vanaf welk tijdstip, welke activiteiten de ingeschreven financiële ondernemingen mogen verrichten, met inbegrip van de eventueel gestelde beperkingen, alsmede de staat van zetel. Het register wordt zo ingericht dat het raadpleegbaar is op een website van de toezichtautoriteit.   
 2.  Het register vermeldt ten aanzien van een ingeschreven financiële onderneming: 
 
 a. in bij regeling van Onze Minister te bepalen gevallen de op de financiële onderneming van toepassing zijnde vrijstellingen;  
 
-b. op grond van [artikel 1:27 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) verleende ontheffingen;  
+b. op grond van artikel 1:27 van de wet verleende ontheffingen;  
 
-c. in voorkomend geval, dat zij haar bedrijf afwikkelt overeenkomstig [artikel 2:17 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md);  
+c. in voorkomend geval, dat zij haar bedrijf afwikkelt overeenkomstig artikel 2:17 van de wet;  
 
-d. ingevolge [artikel 7:20 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) opgelegde verboden.     
+d. ingevolge artikel 7:20 van de wet opgelegde verboden.     
 3.  Het register vermeldt voorts: 
 
 a. de in voorkomend geval aan een ingeschreven beleggingsinstelling verbonden beheerder en bewaarder, welke beheerder en bewaarder in het register worden opgenomen bij de betrokken beleggingsinstelling;  
@@ -359,14 +359,14 @@ De inschrijving in het register van een financiële onderneming waarvan de vergu
 
 ####(voorwaarden inkomende dienstverrichting verzekeraars)
 
-Het is een verzekeraar als bedoeld in [artikel 2:23, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), niet zijnde een verzekeraar met zetel in Curaçao of Sint Maarten, slechts toegestaan vanuit het buitenland verzekeringen aan te bieden in de openbare lichamen indien het naar de aard en de waarde van het te verzekeren belang risico’s betreft die niet binnen de openbare lichamen verzekerbaar zijn. 
+Het is een verzekeraar als bedoeld in artikel 2:23, eerste lid, van de wet, niet zijnde een verzekeraar met zetel in Curaçao of Sint Maarten, slechts toegestaan vanuit het buitenland verzekeringen aan te bieden in de openbare lichamen indien het naar de aard en de waarde van het te verzekeren belang risico’s betreft die niet binnen de openbare lichamen verzekerbaar zijn. 
 
 ### Artikel  2:16  
 
 ####(nadere regels inzake notificatie)
 
-1.  Een verzekeraar als bedoeld in [artikel 2:23, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) maakt voor de ingevolge dat lid voorgeschreven kennisgeving gebruik van een door de Nederlandsche Bank vastgesteld formulier.   
-2.  Indien een verzekeraar als bedoeld in het eerste lid voornemens is verzekeringen aan te bieden tot dekking van wettelijke aansprakelijkheid, voortvloeiend uit het gebruik van motorrijtuigen, toont hij aan te voldoen aan [artikel 4:32 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en aan artikel 6:8 van dit besluit.   
+1.  Een verzekeraar als bedoeld in artikel 2:23, eerste lid, van de wet maakt voor de ingevolge dat lid voorgeschreven kennisgeving gebruik van een door de Nederlandsche Bank vastgesteld formulier.   
+2.  Indien een verzekeraar als bedoeld in het eerste lid voornemens is verzekeringen aan te bieden tot dekking van wettelijke aansprakelijkheid, voortvloeiend uit het gebruik van motorrijtuigen, toont hij aan te voldoen aan artikel 4:32 van de wet en aan artikel 6:8 van dit besluit.   
 3.  Indien een verzekeraar als bedoeld in het eerste lid voornemens is verzekeringen aan te bieden als bedoeld in artikel 6:7, tweede lid, toont hij aan te voldoen aan de bij of krachtens dat artikel gestelde eisen.  
 
 ### Artikel  2:17  
@@ -398,7 +398,7 @@ b. de verzekeraar zich vanuit het bijkantoor uitsluitend of hoofdzakelijk richt 
 
 ####(betrouwbaarheidstoets)
 
-1.  De toezichtautoriteit beoordeelt de betrouwbaarheid van een persoon als bedoeld in [artikel 3:4, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) op basis van diens voornemens, handelingen en antecedenten.   
+1.  De toezichtautoriteit beoordeelt de betrouwbaarheid van een persoon als bedoeld in artikel 3:4, eerste lid, van de wet op basis van diens voornemens, handelingen en antecedenten.   
 2.  De toezichtautoriteit neemt bij de beoordeling, bedoeld in het eerste lid, in ieder geval de in bijlage 1 genoemde antecedenten in aanmerking, alsmede: 
 
 a. het onderlinge verband tussen de aan een antecedent ten grondslag liggende gedraging of gedragingen en de overige omstandigheden van het geval;  
@@ -485,7 +485,7 @@ Deskundigheid in verband met de uitoefening van het bedrijf van bemiddelaar in s
 ####(compliance officer)
 
 1.  Een financiële onderneming wijst ten minste één functionaris op managementniveau aan die op onafhankelijke en effectieve wijze de naleving controleert van de wettelijke voorschriften en interne regels met betrekking tot de integere uitoefening van het bedrijf en de regels bedoeld in artikel 3:15, eerste lid.   
-2.  De financiële onderneming draagt er zorg voor dat de functionaris, bedoeld in het eerste lid, binnen korte tijd kan beschikken over transactiegegevens, alsmede over gegevens die de financiële onderneming heeft vastgelegd ingevolge dit hoofdstuk of de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md), en andere voor zijn taak relevante gegevens.   
+2.  De financiële onderneming draagt er zorg voor dat de functionaris, bedoeld in het eerste lid, binnen korte tijd kan beschikken over transactiegegevens, alsmede over gegevens die de financiële onderneming heeft vastgelegd ingevolge dit hoofdstuk of de Wet ter voorkoming van witwassen en financieren van terrorisme BES, en andere voor zijn taak relevante gegevens.   
 3.  Een financiële onderneming beschikt over procedures die erin voorzien dat gesignaleerde tekortkomingen of gebreken worden gerapporteerd aan de functionaris.   
 4.  Een financiële onderneming beoordeelt periodiek de interne controlesystemen op hun effectiviteit en actualiteitswaarde en stelt deze zo nodig bij.   
 5.  Een financiële onderneming waarborgt dat kennis die wordt opgedaan bij de uitvoering van het eerste tot en met derde lid, en de resultaten van maatregelen genomen naar aanleiding van de controle, bedoeld in het eerste lid, binnen haar organisatie beschikbaar blijven.  
@@ -530,10 +530,10 @@ De Nederlandsche Bank kan regels stellen met betrekking tot kredietinstrumenten 
 
 1.  Een financiële onderneming beschikt over procedures en maatregelen ter naleving van: 
 
-a. de bij of krachtens de [Sanctiewet 1977](../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md) met betrekking tot het financieel verkeer gestelde regels;  
+a. de bij of krachtens de Sanctiewet 1977 met betrekking tot het financieel verkeer gestelde regels;  
 
-b. de bij of krachtens de [Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md) gestelde regels.     
-2.  De maatregelen, bedoeld in het eerste lid, onderdeel a, hebben ten minste betrekking op een adequate controle van de administratie van de financiële onderneming op het overeenkomen van de identiteit van een relatie met een persoon of entiteit, als bedoeld in de bij of krachtens de [Sanctiewet 1977](../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md) met betrekking tot het financieel verkeer gestelde regels, met het oog op het bevriezen van de financiële middelen van die relatie of het voorkomen van het ter beschikking stellen van financiële middelen of diensten aan die relatie.   
+b. de bij of krachtens de Wet ter voorkoming van witwassen en financieren van terrorisme BES gestelde regels.     
+2.  De maatregelen, bedoeld in het eerste lid, onderdeel a, hebben ten minste betrekking op een adequate controle van de administratie van de financiële onderneming op het overeenkomen van de identiteit van een relatie met een persoon of entiteit, als bedoeld in de bij of krachtens de Sanctiewet 1977 met betrekking tot het financieel verkeer gestelde regels, met het oog op het bevriezen van de financiële middelen van die relatie of het voorkomen van het ter beschikking stellen van financiële middelen of diensten aan die relatie.   
 3.  Voor de toepassing van het tweede lid wordt verstaan onder relatie: een ieder die betrokken is bij een financiële dienst of een financiële transactie.  
 
 ### Artikel  3:14  
@@ -638,7 +638,7 @@ Een beheerder of bewaarder met zetel in een openbaar lichaam, beschikt over proc
 
 ####(bewaarplicht advisering)
 
-1.  Een financiëledienstverlener als bedoeld in [artikel 5:1 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) bewaart, indien hij een consument of cliënt adviseert, de informatie die hij overeenkomstig [artikel 5:7 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) heeft ingewonnen, alsmede de gegevens betreffende het financiële product, de financiële dienst of de effecten, gedurende ten minste één jaar, gerekend vanaf het moment van advisering.   
+1.  Een financiëledienstverlener als bedoeld in artikel 5:1 van de wet bewaart, indien hij een consument of cliënt adviseert, de informatie die hij overeenkomstig artikel 5:7 van de wet heeft ingewonnen, alsmede de gegevens betreffende het financiële product, de financiële dienst of de effecten, gedurende ten minste één jaar, gerekend vanaf het moment van advisering.   
 2.  Ten aanzien van financiëledienstverleners, niet zijnde adviseurs, is het eerste lid niet van toepassing, indien de advisering niet leidt tot het aangaan van verplichtingen door de consument onderscheidenlijk de cliënt inzake het aanbevolen financieel product, de aanbevolen financiële dienst of de aanbevolen effecten.   
 3.  Indien een consument of cliënt met of door bemiddeling van een financiëledienstverlener een overeenkomst aangaat waarvan de inhoud afwijkt van het advies van die financiëledienstverlener, is die financiëledienstverlener gedurende ten minste één jaar nadien in staat aan de Autoriteit Financiële Markten aan te tonen dat de consument, onderscheidenlijk de cliënt, in weerwil van het advies de keuze heeft gemaakt voor het aangaan van die overeenkomst.  
 
@@ -646,14 +646,14 @@ Een beheerder of bewaarder met zetel in een openbaar lichaam, beschikt over proc
 
 ####(bewaarplicht kredietovereenkomst)
 
-Een kredietaanbieder bewaart de informatie die hij ingevolge [artikel 5:14, tweede lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) heeft ingewonnen, alsmede de op schrift gestelde door hem aangeboden overeenkomst inzake krediet, indien die overeenkomst tot stand is gekomen, gedurende ten minste vijf jaren, gerekend vanaf de dag waarop die overeenkomst is afgewikkeld. 
+Een kredietaanbieder bewaart de informatie die hij ingevolge artikel 5:14, tweede lid, van de wet heeft ingewonnen, alsmede de op schrift gestelde door hem aangeboden overeenkomst inzake krediet, indien die overeenkomst tot stand is gekomen, gedurende ten minste vijf jaren, gerekend vanaf de dag waarop die overeenkomst is afgewikkeld. 
 
 ### Artikel  3:25  
 
 ####(bewaarplicht effectenbemiddeling en vermogensbeheer)
 
 1.  Een bemiddelaar in effecten of een vermogensbeheerder bewaart de overeenkomsten met cliënten alsmede door de toezichtautoriteit aangewezen gegevens over alle door hem verleende diensten. Hij bewaart die overeenkomsten en gegevens gedurende ten minste vijf jaar.   
-2.  Een vermogensbeheerder bewaart de ingevolge [artikel 5:8 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) ingewonnen informatie gedurende ten minste vijf jaren na de beëindiging van het beheer van het vermogen van de cliënt.  
+2.  Een vermogensbeheerder bewaart de ingevolge artikel 5:8 van de wet ingewonnen informatie gedurende ten minste vijf jaren na de beëindiging van het beheer van het vermogen van de cliënt.  
 
 ### Artikel  3:26  
 
@@ -776,7 +776,7 @@ d. voor een kredietvereniging: USD 25.000.
 
 ####(solvabiliteit)
 
-1.  De solvabiliteit, bedoeld in [artikel 3:17, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), is voldoende, indien het in aanmerking te nemen toetsingsvermogen, bedoeld in artikel 4:4, eerste lid, ten minste gelijk is aan de minimumomvang van het toetsingsvermogen berekend overeenkomstig de artikelen 4:8 tot en met 4:18.   
+1.  De solvabiliteit, bedoeld in artikel 3:17, eerste lid, van de wet, is voldoende, indien het in aanmerking te nemen toetsingsvermogen, bedoeld in artikel 4:4, eerste lid, ten minste gelijk is aan de minimumomvang van het toetsingsvermogen berekend overeenkomstig de artikelen 4:8 tot en met 4:18.   
 2.  De solvabiliteit van een kredietvereniging is voldoende, indien het in aanmerking te nemen toetsingsvermogen, bedoeld in artikel 4:4, tweede lid, ten minste gelijk is aan vijf procent van de totale activa, met uitzondering van de liquide middelen en de vaste activa, van de kredietvereniging.   
 3.  Onverminderd het eerste en tweede lid is de solvabiliteit van een kredietinstelling ten minste gelijk aan het in artikel 4:2, eerste lid, voorgeschreven minimumbedrag aan eigen vermogen.  
 
@@ -949,7 +949,7 @@ b. de berekening van de vorderingswaarde van een actief of post buiten de balans
 
 ####(grote posities)
 
-1.  De waarde van de balansposten en posten buiten de balanstelling, bedoeld in [artikel 3:17, vijfde lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) bedraagt voor een kredietinstelling ten aanzien van een wederpartij of groep van verbonden wederpartijen niet meer dan vijfentwintig procent van haar toetsingsvermogen.   
+1.  De waarde van de balansposten en posten buiten de balanstelling, bedoeld in artikel 3:17, vijfde lid, van de wet bedraagt voor een kredietinstelling ten aanzien van een wederpartij of groep van verbonden wederpartijen niet meer dan vijfentwintig procent van haar toetsingsvermogen.   
 2.  De totale waarde van de grote posities van een kredietinstelling bedraagt niet meer dan zeshonderd procent van haar toetsingsvermogen.   
 3.  De Nederlandsche Bank kan, op verzoek, besluiten dat het een kredietinstelling voor een beperkte duur is toegestaan het in het eerste of tweede lid bedoelde percentage te overschrijden. De Nederlandsche Bank stelt regels met betrekking tot de voorwaarden waaronder zij een overschrijding toestaat.  
 
@@ -961,7 +961,7 @@ b. de berekening van de vorderingswaarde van een actief of post buiten de balans
 
 ####(minimumvermogen beleggingsmaatschappij)
 
-1.  Het minimumbedrag aan eigen vermogen, bedoeld in [artikel 3:16, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), bedraagt voor een beleggingsmaatschappij USD 279.000.   
+1.  Het minimumbedrag aan eigen vermogen, bedoeld in artikel 3:16, eerste lid, van de wet, bedraagt voor een beleggingsmaatschappij USD 279.000.   
 2.  Het minimumbedrag aan eigen vermogen van een beleggingsmaatschappij wordt gevormd door de waarde van de vermogensbestanddelen, bedoeld in artikel 4:5, tweede lid. Deze vermogensbestanddelen, alsmede de waarden die tegenover die vermogensbestanddelen staan, staan onmiddellijk en zonder beperkingen ter beschikking van de beleggingsmaatschappij. Artikel 4:5, vierde lid, is van overeenkomstige toepassing.  
 
 ### Artikel  4:21  
@@ -1014,7 +1014,7 @@ f. andere door de Nederlandsche Bank toegestane vermogensbestanddelen.
 
 ####(minimumbedrag van het garantiefonds van een verzekeraar)
 
-Het minimumbedrag van het garantiefonds, bedoeld in [artikel 3:16, vierde lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) bedraagt: 
+Het minimumbedrag van het garantiefonds, bedoeld in artikel 3:16, vierde lid, van de wet bedraagt: 
 
 a. voor een levensverzekeraar: USD 223.000;  
 
@@ -1210,15 +1210,15 @@ De Nederlandsche Bank kan nadere regels stellen ter uitvoering van de artikelen 
 
 De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot: 
 
-a. de maatregelen ter bescherming van de rechten van de cliënt en ter voorkoming van het gebruik van effecten of gelden van de cliënt, bedoeld in [artikel 3:23, eerste lid van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md);  
+a. de maatregelen ter bescherming van de rechten van de cliënt en ter voorkoming van het gebruik van effecten of gelden van de cliënt, bedoeld in artikel 3:23, eerste lid van de wet;  
 
-b. de wijze waarop de instemming, bedoeld in [artikel 3:23, vierde lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), van de cliënt kan worden verkregen voor gebruik van diens effecten voor eigen rekening door de bemiddelaar in effecten of vermogensbeheerder.   
+b. de wijze waarop de instemming, bedoeld in artikel 3:23, vierde lid, van de wet, van de cliënt kan worden verkregen voor gebruik van diens effecten voor eigen rekening door de bemiddelaar in effecten of vermogensbeheerder.   
 
 ### Artikel  4:45  
 
 ####(elektronischgeldinstelling)
 
-De Nederlandsche Bank kan nadere regels stellen met betrekking tot de door elektronischgeldinstellingen te treffen maatregelen, bedoeld in [artikel 3:23, derde lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), teneinde de voor de uitgifte van elektronisch geld ontvangen middelen veilig te stellen. 
+De Nederlandsche Bank kan nadere regels stellen met betrekking tot de door elektronischgeldinstellingen te treffen maatregelen, bedoeld in artikel 3:23, derde lid, van de wet, teneinde de voor de uitgifte van elektronisch geld ontvangen middelen veilig te stellen. 
 
 ### Artikel  4:46  
 
@@ -1234,7 +1234,7 @@ Een trustkantoor draagt zorg voor een deugdelijke administratie, en heeft maatre
 
 ####(beroepsaansprakelijkheidsverzekering)
 
-1.  De beroepsaansprakelijkheidsverzekering, bedoeld in [artikel 3:24 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), dekt de aansprakelijkheid van de adviseur, bemiddelaar, niet zijnde een bemiddelaar in effecten, of gevolmachtigde agent wegens fouten, verzuimen of nalatigheden, begaan in de uitoefening van diens beroep.   
+1.  De beroepsaansprakelijkheidsverzekering, bedoeld in artikel 3:24 van de wet, dekt de aansprakelijkheid van de adviseur, bemiddelaar, niet zijnde een bemiddelaar in effecten, of gevolmachtigde agent wegens fouten, verzuimen of nalatigheden, begaan in de uitoefening van diens beroep.   
 2.  De beroepsaansprakelijkheidsverzekering wordt gesloten bij een verzekeraar die in de staat van zetel bevoegd is tot uitoefening van het desbetreffende verzekeringsbedrijf.   
 3.  De Autoriteit Financiële Markten kan nadere regels stellen met betrekking tot de hoogte van het verzekerd bedrag.  
 
@@ -1246,7 +1246,7 @@ Een trustkantoor draagt zorg voor een deugdelijke administratie, en heeft maatre
 
 ####(rapportage inzake intragroepsovereenkomsten en -posities)
 
-1.  Een kredietinstelling met zetel in de openbare lichamen die deel uitmaakt van een groep, dient de ingevolge [artikel 3:45, vierde lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) vereiste rapportage eenmaal per jaar bij de Nederlandsche Bank in, tenzij de Nederlandsche Bank, indien de solvabiliteit door ontwikkelingen bij de kredietinstelling in gedrang is of zou kunnen komen, besluit dat er gerapporteerd wordt met een hogere frequentie.   
+1.  Een kredietinstelling met zetel in de openbare lichamen die deel uitmaakt van een groep, dient de ingevolge artikel 3:45, vierde lid, van de wet vereiste rapportage eenmaal per jaar bij de Nederlandsche Bank in, tenzij de Nederlandsche Bank, indien de solvabiliteit door ontwikkelingen bij de kredietinstelling in gedrang is of zou kunnen komen, besluit dat er gerapporteerd wordt met een hogere frequentie.   
 2.  Onder significante intragroepsovereenkomsten en -posities worden verstaan overeenkomsten en posities die een door de Nederlandsche Bank vast te stellen drempel te boven gaan. De drempel is gerelateerd aan de vereiste solvabiliteit van de kredietinstelling.   
 3.  De Nederlandsche Bank stelt regels met betrekking tot de categorieën overeenkomsten en posities die in de rapportage worden betrokken en de rapportage.  
 
@@ -1254,7 +1254,7 @@ Een trustkantoor draagt zorg voor een deugdelijke administratie, en heeft maatre
 
 ####(solvabiliteit op geconsolideerde basis)
 
-1.  Een kredietinstelling als bedoeld in artikel 4:48, eerste lid, berekent onverminderd de [artikelen 3:16](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [3:17 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) eenmaal per jaar haar solvabiliteit op basis van haar geconsolideerde financiële positie.   
+1.  Een kredietinstelling als bedoeld in artikel 4:48, eerste lid, berekent onverminderd de artikelen 3:16 en 3:17 van de wet eenmaal per jaar haar solvabiliteit op basis van haar geconsolideerde financiële positie.   
 2.  De Nederlandsche Bank kan nadere regels stellen met betrekking tot de berekening van de geconsolideerde financiële positie, bedoeld in het eerste lid.  
 
 ### §  9  
@@ -1265,7 +1265,7 @@ Een trustkantoor draagt zorg voor een deugdelijke administratie, en heeft maatre
 
 ####(rapportageplicht inzake intragroepsovereenkomsten en -posities)
 
-1.  Een verzekeraar met zetel in de openbare lichamen die deel uitmaakt van een groep, dient de ingevolge [artikel 3:46, vierde lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) vereiste rapportage eenmaal per jaar in, tenzij de Nederlandsche Bank, indien de solvabiliteit door ontwikkelingen bij de verzekeraar in gedrang is of zou kunnen komen, besluit dat er gerapporteerd wordt met een hogere frequentie.   
+1.  Een verzekeraar met zetel in de openbare lichamen die deel uitmaakt van een groep, dient de ingevolge artikel 3:46, vierde lid, van de wet vereiste rapportage eenmaal per jaar in, tenzij de Nederlandsche Bank, indien de solvabiliteit door ontwikkelingen bij de verzekeraar in gedrang is of zou kunnen komen, besluit dat er gerapporteerd wordt met een hogere frequentie.   
 2.  Onder significante intragroepovereenkomsten en -posities worden verstaan overeenkomsten en posities die een door de Nederlandsche Bank vast te stellen drempel te boven gaan. De drempel is gerelateerd aan de vereiste solvabiliteit van de verzekeraar.   
 3.  De Nederlandsche Bank stelt regels met betrekking tot de categorieën overeenkomsten en posities die in de rapportages worden betrokken en met betrekking tot de rapportage.  
 
@@ -1297,20 +1297,20 @@ Een trustkantoor draagt zorg voor een deugdelijke administratie, en heeft maatre
 ####(jaarrekening en jaarverslag ten behoeve van de toezichtautoriteit)
 
 1.  Een beleggingsinstelling, bemiddelaar in effecten, elektronischgeldinstelling, kredietinstelling, vermogensbeheerder of verzekeraar dient een jaarrekening en jaarverslag in bij de vergunningverlenende toezichtautoriteit.   
-2.  De termijn, bedoeld in [artikel 3:35, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) bedraagt: 
+2.  De termijn, bedoeld in artikel 3:35, eerste lid, van de wet bedraagt: 
 
 a. voor beleggingsinstellingen: vier maanden na afloop van het boekjaar;  
 
 b. voor de overige in het eerste lid genoemde financiële ondernemingen: zes maanden na afloop van het boekjaar.     
-3.  De jaarrekening en jaarverslag voldoen wat betreft inhoud en vorm aan de eisen aan een jaarrekening ingevolge [artikel 120, derde en vijfde lid, van boek 2 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md).   
+3.  De jaarrekening en jaarverslag voldoen wat betreft inhoud en vorm aan de eisen aan een jaarrekening ingevolge artikel 120, derde en vijfde lid, van boek 2 van het Burgerlijk Wetboek BES.   
 4.  Een financiële onderneming als bedoeld in het eerste lid dient tezamen met de jaarrekening en het jaarverslag ook de volgende gegevens bij de vergunningverlenende toezichtautoriteit in: 
 
-a. de gegevens bedoeld in [artikel 120, tweede lid, van boek 2 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md);  
+a. de gegevens bedoeld in artikel 120, tweede lid, van boek 2 van het Burgerlijk Wetboek BES;  
 
 b. een afschrift van het rapport van de deskundige, bedoeld in het vijfde lid;  
 
 c. de directiebrieven.     
-5.  De jaarrekening van een financiële onderneming, bedoeld in het eerste lid, wordt goedgekeurd door een externe deskundige als bedoeld in [artikel 121 van boek 2 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md). Indien de financiële onderneming niet voldoet aan de in [artikel 119, tweede lid, van Boek 2 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md) omschreven criteria, kan de jaarrekening worden goedgekeurd door een andere dan de in de eerste volzin bedoelde deskundige.   
+5.  De jaarrekening van een financiële onderneming, bedoeld in het eerste lid, wordt goedgekeurd door een externe deskundige als bedoeld in artikel 121 van boek 2 van het Burgerlijk Wetboek BES. Indien de financiële onderneming niet voldoet aan de in artikel 119, tweede lid, van Boek 2 van het Burgerlijk Wetboek BES omschreven criteria, kan de jaarrekening worden goedgekeurd door een andere dan de in de eerste volzin bedoelde deskundige.   
 6.  De toezichtautoriteit kan nadere regels stellen met betrekking tot het eerste tot en met vierde lid.  
 
 ### Artikel  5:3  
@@ -1335,24 +1335,24 @@ c. de directiebrieven.
 
 ####(staten kredietinstelling)
 
-1.  De staten, bedoeld in [artikel 3:36, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), die door een kredietinstelling worden verstrekt, omvatten: 
+1.  De staten, bedoeld in artikel 3:36, eerste lid, van de wet, die door een kredietinstelling worden verstrekt, omvatten: 
 
-a. balans- en resultaatgegevens, alsmede aanvullende financiële gegevens ten behoeve van het ingevolge [artikel 1:5 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) door de Nederlandsche Bank uitgeoefende prudentieel toezicht;  
+a. balans- en resultaatgegevens, alsmede aanvullende financiële gegevens ten behoeve van het ingevolge artikel 1:5 van de wet door de Nederlandsche Bank uitgeoefende prudentieel toezicht;  
 
 b. andere gegevens ten behoeve van het toezicht op de naleving van de regels met betrekking tot: 
 
-1°. de solvabiliteit ingevolge [artikel 3:17, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md);  
+1°. de solvabiliteit ingevolge artikel 3:17, eerste lid, van de wet;  
 
-2°. het aanhouden van balansposten en posten buiten de balansteling ingevolge [artikel 3:17, vierde lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md);  
+2°. het aanhouden van balansposten en posten buiten de balansteling ingevolge artikel 3:17, vierde lid, van de wet;  
 
-3°. de liquiditeit ingevolge [artikel 3:18, tweede lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md).       
+3°. de liquiditeit ingevolge artikel 3:18, tweede lid, van de wet.       
 2.  De Nederlandsche Bank stelt nadere regels met betrekking tot de in het eerste lid genoemde staten. Deze regels hebben betrekking op: 
 
 a. de modellen van de staten;  
 
 b. de reikwijdte van toepassing van de staten en de mate van detaillering van de in te vullen gegevens, met dien verstande dat deze geen uitbreiding of nadere rubricering van de staten omvatten;  
 
-c. de reikwijdte van de consolidatie overeenkomstig de regels met betrekking tot consolidatie die de kredietinstelling in haar jaarrekening toepast, voor zover uit de [wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) niet anders voortvloeit;  
+c. de reikwijdte van de consolidatie overeenkomstig de regels met betrekking tot consolidatie die de kredietinstelling in haar jaarrekening toepast, voor zover uit de wet niet anders voortvloeit;  
 
 d. de waardering van de posten overeenkomstig de waarderingsmethoden die de kredietinstelling in haar jaarrekening toepast;  
 
@@ -1371,15 +1371,15 @@ h. de frequentie waarmee de staten worden verstrekt, met dien verstande dat deze
 
 ####(staten verzekeraar)
 
-1.  De staten, bedoeld in [artikel 3:36, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), die door een verzekeraar worden verstrekt omvatten: 
+1.  De staten, bedoeld in artikel 3:36, eerste lid, van de wet, die door een verzekeraar worden verstrekt omvatten: 
 
-a. een jaarrekening, alsmede aanvullende financiële gegevens ten behoeve van het door de Nederlandsche Bank ingevolge [artikel 1:5 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) uitgeoefende prudentieel toezicht;  
+a. een jaarrekening, alsmede aanvullende financiële gegevens ten behoeve van het door de Nederlandsche Bank ingevolge artikel 1:5 van de wet uitgeoefende prudentieel toezicht;  
 
 b. andere gegevens ten behoeve van het toezicht op de naleving van de regels met betrekking tot: 
 
-1°. de solvabiliteit ingevolge [artikel 3:17 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), en  
+1°. de solvabiliteit ingevolge artikel 3:17 van de wet, en  
 
-2°. de technische voorzieningen ingevolge [artikel 3:19 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md).       
+2°. de technische voorzieningen ingevolge artikel 3:19 van de wet.       
 2.  De Nederlandsche Bank stelt nadere regels met betrekking tot de in het eerste lid bedoelde staten. Artikel 5:5, tweede tot en met vijfde lid, is van overeenkomstige toepassing.  
 
 ### Hoofdstuk  6  
@@ -1394,7 +1394,7 @@ b. andere gegevens ten behoeve van het toezicht op de naleving van de regels met
 
 ####(overeenkomst inzake beheer en bewaring)
 
-De ingevolge [artikel 4:4, eerste lid van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) tussen een beleggingsinstelling en een bewaarder te sluiten overeenkomst bepaalt in ieder geval dat: 
+De ingevolge artikel 4:4, eerste lid van de wet tussen een beleggingsinstelling en een bewaarder te sluiten overeenkomst bepaalt in ieder geval dat: 
 
 a. de bewaarder bij het bewaren uitsluitend in het belang van de deelnemers in de beleggingsinstelling optreedt;  
 
@@ -1414,7 +1414,7 @@ g. indien de bewaarder van een beleggingsfonds te kennen geeft voornemens te zij
 
 ####(minimumvermogen beheerder en bewaarder)
 
-1.  Het minimumbedrag aan eigen vermogen, bedoeld in [artikel 4:5, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), bedraagt voor de beheerder van een beleggingsinstelling USD 279.000 en voor de bewaarder van een beleggingsinstelling USD 139.000.   
+1.  Het minimumbedrag aan eigen vermogen, bedoeld in artikel 4:5, eerste lid, van de wet, bedraagt voor de beheerder van een beleggingsinstelling USD 279.000 en voor de bewaarder van een beleggingsinstelling USD 139.000.   
 2.  Het minimumbedrag aan eigen vermogen van een beheerder of bewaarder wordt gevormd door de waarde van de vermogensbestanddelen, bedoeld in artikel 4:5, tweede lid, onderdelen a tot en met g. Deze vermogensbestanddelen, alsmede de waarden die tegenover die vermogensbestanddelen staan, staan onmiddellijk en zonder beperkingen ter beschikking van de beleggingsinstelling. Artikel 4:5, vierde lid, is van overeenkomstige toepassing.   
 3.  Een bewaarder van een beleggingsinstelling stelt voldoende zekerheid met het oog op de aansprakelijkheid voor schade die voor de bewaarder kan voortvloeien uit brand, vervoer van geld en waardepapieren, fraude en beroving.  
 
@@ -1422,7 +1422,7 @@ g. indien de bewaarder van een beleggingsfonds te kennen geeft voornemens te zij
 
 ####(prospectus beleggingsinstelling)
 
-1.  Het prospectus, bedoeld in [artikel 4:10, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), bevat ten minste de bij regeling van Onze Minister bepaalde gegevens, die onder meer betrekking hebben op de beheerder en de bewaarder, alsmede op de voorwaarden, de beleggingsdoelstellingen en de beleggingsactiviteiten van de beleggingsinstelling.   
+1.  Het prospectus, bedoeld in artikel 4:10, eerste lid, van de wet, bevat ten minste de bij regeling van Onze Minister bepaalde gegevens, die onder meer betrekking hebben op de beheerder en de bewaarder, alsmede op de voorwaarden, de beleggingsdoelstellingen en de beleggingsactiviteiten van de beleggingsinstelling.   
 2.  De Autoriteit Financiële Markten kan verlangen dat het prospectus in een of meer door haar te bepalen talen beschikbaar wordt gesteld, indien dit, gelet op de voorgenomen verspreiding van het prospectus, noodzakelijk is voor een adequate informatieverschaffing aan het publiek.   
 3.  Bij aanbod van haar rechten van deelneming buiten een besloten kring dan wel bij de schriftelijke aankondiging dat een aanbod buiten een besloten kring zal worden gedaan, stelt de beleggingsinstelling uiterlijk op de dag van uitgifte, van openstelling van deelneming of van de schriftelijke aankondiging van openstelling, een prospectus kosteloos algemeen verkrijgbaar. In iedere bekendmaking waarin deelnemingsrechten worden aangeboden, wordt vermeld waar het prospectus voor het publiek verkrijgbaar is.  
 
@@ -1455,12 +1455,12 @@ d. een beschrijving van de wijze waarop en de voorwaarden waaronder de opheffing
 
 ####(vvgb-plichtige handelingen kredietinstellingen)
 
-1.  Voor de toepassing van [artikel 4:23, eerste lid, aanhef en onderdeel b, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) wordt als significante deelneming aangemerkt: 
+1.  Voor de toepassing van artikel 4:23, eerste lid, aanhef en onderdeel b, van de wet wordt als significante deelneming aangemerkt: 
 
 a. een deelneming in een financiële onderneming waarvan het balanstotaal ten tijde van de verwerving, onderscheidenlijk de vergroting, meer bedraagt dan een procent van het geconsolideerde balanstotaal van de kredietinstelling;  
 
 b. een deelneming in een onderneming, niet zijnde een financiële onderneming, indien het bedrag dat wordt betaald voor de verwerving van die deelneming, onderscheidenlijk voor de vergroting van die deelneming, tezamen met de bedragen die voor die verwerving en voor eerdere vergrotingen van die deelnemingen zijn betaald, meer bedraagt dan een procent van het geconsolideerde aanwezige eigen vermogen van de kredietinstelling.     
-2.  Van het geheel of voor een belangrijk deel al dan niet middellijk overnemen van de activa en passiva van een andere onderneming of instelling in de zin van [artikel 4:23, eerste lid, aanhef en onderdeel c, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) is sprake, indien het totaalbedrag van de over te nemen activa of over te nemen passiva meer bedraagt dan een procent van het geconsolideerde balanstotaal van de kredietinstelling.  
+2.  Van het geheel of voor een belangrijk deel al dan niet middellijk overnemen van de activa en passiva van een andere onderneming of instelling in de zin van artikel 4:23, eerste lid, aanhef en onderdeel c, van de wet is sprake, indien het totaalbedrag van de over te nemen activa of over te nemen passiva meer bedraagt dan een procent van het geconsolideerde balanstotaal van de kredietinstelling.  
 
 ### §  3  
 
@@ -1491,7 +1491,7 @@ c. worden verzekerd bij dezelfde overeenkomst als het hoofdrisico.
 
 ####(schade-afhandelaar w.a. motorrijtuigen)
 
-1.  Een verzekeraar met zetel in het buitenland die door middel van het verrichten van diensten vanuit een vestiging in het buitenland in de openbare lichamen verzekeringen aanbiedt tot dekking van wettelijke aansprakelijkheid, voortvloeiend uit het gebruik van motorrijtuigen, stelt een schade-afhandelaar aan die belast is met het namens hem afwikkelen van vorderingen van benadeelden als bedoeld in [artikel 1 van de Wet aansprakelijkheidsverzekering motorrijtuigen BES](../../../../../../wet-BES/wet/aansprakelijkheidsverzekering/motorrijtuigen/bes/BWBR0028254/README.md).   
+1.  Een verzekeraar met zetel in het buitenland die door middel van het verrichten van diensten vanuit een vestiging in het buitenland in de openbare lichamen verzekeringen aanbiedt tot dekking van wettelijke aansprakelijkheid, voortvloeiend uit het gebruik van motorrijtuigen, stelt een schade-afhandelaar aan die belast is met het namens hem afwikkelen van vorderingen van benadeelden als bedoeld in artikel 1 van de Wet aansprakelijkheidsverzekering motorrijtuigen BES.   
 2.  De schade-afhandelaar verricht zijn werkzaamheden vanuit een vestiging in de openbare lichamen en beschikt over voldoende bevoegdheden om de schadeverzekeraar zowel in als buiten rechte te vertegenwoordigen.   
 3.  Een verzekeraar als bedoeld in het eerste lid meldt een wijziging in de akte van aanstelling van de in dat lid bedoelde schade-afhandelaar binnen twee weken schriftelijk aan de Autoriteit Financiële Markten.  
 
@@ -1504,14 +1504,14 @@ c. worden verzekerd bij dezelfde overeenkomst als het hoofdrisico.
 ####(aanspraak assurantiebemiddelaar op provisie)
 
 1.  Een bemiddelaar in verzekeringen heeft jegens de verzekeraar aanspraak op provisie over alle tot zijn portefeuille behorende verzekeringen.   
-2.  Intrekking van de vergunning van een bemiddelaar in verzekeringen laat onverlet zijn aanspraken op provisie ter zake van verzekeringen die op het tijdstip van de intrekking tot zijn portefeuille behoren of waarop op dat tijdstip [artikel 4:43, tweede lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), van toepassing is.   
-3.  Na een overboeking als bedoeld in [artikel 4:43, tweede en derde lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), blijft, in afwijking van het eerste lid, de aanspraak op provisies bestaan tot het einde van het lopende verzekeringsjaar, indien het een levensverzekering betreft. Indien het een schadeverzekering betreft, blijft de aanspraak bestaan tot de eerstvolgende vervaldatum van de verzekeringsovereenkomst of tot een eerder tijdstip waarop de verzekering door opzegging door de verzekeringnemer kan worden beëindigd, tenzij anders wordt overeengekomen.  
+2.  Intrekking van de vergunning van een bemiddelaar in verzekeringen laat onverlet zijn aanspraken op provisie ter zake van verzekeringen die op het tijdstip van de intrekking tot zijn portefeuille behoren of waarop op dat tijdstip artikel 4:43, tweede lid, van de wet, van toepassing is.   
+3.  Na een overboeking als bedoeld in artikel 4:43, tweede en derde lid, van de wet, blijft, in afwijking van het eerste lid, de aanspraak op provisies bestaan tot het einde van het lopende verzekeringsjaar, indien het een levensverzekering betreft. Indien het een schadeverzekering betreft, blijft de aanspraak bestaan tot de eerstvolgende vervaldatum van de verzekeringsovereenkomst of tot een eerder tijdstip waarop de verzekering door opzegging door de verzekeringnemer kan worden beëindigd, tenzij anders wordt overeengekomen.  
 
 ### Artikel  6:10  
 
 ####(overname premie-incasso door verzekeraar)
 
-1.  Overname van het premie-incasso door een verzekeraar van een bemiddelaar in verzekeringen als bedoeld in [artikel 4:45, derde lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), laat onverlet de aanspraak op provisie van die bemiddelaar, bedoeld in artikel 6:9, eerste lid.   
+1.  Overname van het premie-incasso door een verzekeraar van een bemiddelaar in verzekeringen als bedoeld in artikel 4:45, derde lid, van de wet, laat onverlet de aanspraak op provisie van die bemiddelaar, bedoeld in artikel 6:9, eerste lid.   
 2.  Onverminderd het eerste lid, is de verzekeraar na overname van het premie-incasso bevoegd om aan de bemiddelaar een billijke en objectief gegronde vergoeding voor het premie-incasso in rekening te brengen of om de aanspraak van de bemiddelaar op provisie af te kopen. Bij regeling van Onze Minister kunnen nadere regels worden gesteld over die vergoeding of afkoopsom.  
 
 ### Hoofdstuk  7  
@@ -1538,7 +1538,7 @@ c. geeft belangrijke zaken, vermeldingen of waarschuwingen niet verhuld of afgez
 
 ####(schriftelijk te verstrekken informatie)
 
-Een financiëledienstverlener verstrekt de ingevolge de [artikelen 5:4 tot en met 5:6 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en de artikelen 7:5 tot en met 7:14 van dit besluit te verstrekken informatie schriftelijk. De financiëledienstverlener kan de informatie via een andere duurzame drager verstrekken, indien de consument of cliënt daarmee instemt. 
+Een financiëledienstverlener verstrekt de ingevolge de artikelen 5:4 tot en met 5:6 van de wet en de artikelen 7:5 tot en met 7:14 van dit besluit te verstrekken informatie schriftelijk. De financiëledienstverlener kan de informatie via een andere duurzame drager verstrekken, indien de consument of cliënt daarmee instemt. 
 
 ### §  2   
 
@@ -1600,7 +1600,7 @@ c. de aard van de financiële dienstverlening;
 
 d. zijn inschrijving in het door de toezichthouder gehouden register;  
 
-e. zijn interne klachtenprocedure als bedoeld in [artikel 3:12, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), en voor zover van toepassing, de erkende geschilleninstantie waarbij hij is aangesloten;  
+e. zijn interne klachtenprocedure als bedoeld in artikel 3:12, eerste lid, van de wet, en voor zover van toepassing, de erkende geschilleninstantie waarbij hij is aangesloten;  
 
 f. het recht dat op de verplichting van toepassing is of de door de financiëledienstverlener voorgestelde rechtskeuze;  
 
@@ -1612,7 +1612,7 @@ g. de wijze waarop de verplichting kan worden beëindigd, de termijn die daarbij
 
 1.  Voorafgaande aan de totstandkoming van een overeenkomst inzake krediet verstrekt de kredietaanbieder een consument, onverminderd artikel 7:5, ten minste de volgende gegevens: 
 
-a. een globale omschrijving van de wijze waarop de kredietaanbieder invulling geeft aan de kredietwaardigheidstoets, bedoeld in [artikel 5:14 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md);  
+a. een globale omschrijving van de wijze waarop de kredietaanbieder invulling geeft aan de kredietwaardigheidstoets, bedoeld in artikel 5:14 van de wet;  
 
 b. het soort krediet;  
 
@@ -1632,17 +1632,17 @@ i. andere kosten die deel uitmaken van de totale kosten van het krediet;
 
 j. de maandlast en, indien de afbetalingstermijnen niet maandelijks zijn, de termijnlast en het bijbehorende aantal termijnen;  
 
-k. indien de verplichting, bedoeld in onderdeel h, betrekking heeft op een financieel product of financiële dienst, niet zijnde een betaalrekening als bedoeld in [artikel 5:16, eerste lid, onderdeel a, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md): de vermelding dat de consument het recht heeft te bepalen met welke wederpartij die andere verplichting zal worden aangegaan;  
+k. indien de verplichting, bedoeld in onderdeel h, betrekking heeft op een financieel product of financiële dienst, niet zijnde een betaalrekening als bedoeld in artikel 5:16, eerste lid, onderdeel a, van de wet: de vermelding dat de consument het recht heeft te bepalen met welke wederpartij die andere verplichting zal worden aangegaan;  
 
 l. indien het effectieve rentepercentage voor beperkte duur geldt of indien een variabel effectief rentepercentage geldt: de periode gedurende welke dat rentepercentage geldt, alsmede de hoogte van de verschillende effectieve rentepercentages die van toepassing zijn op de overeenkomst, of indien dat nog niet kan worden vastgesteld, de wijze waarop de hoogte van het rentepercentage wordt bepaald;  
 
-m. het kredietvergoedingspercentage met een beschrijving van de hierin opgenomen kosten, het hoogst toegestane kredietvergoedingspercentage, bedoeld in [artikel 5:15, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), en de vermelding van de vernietigingsgrond, bedoeld in artikel 5:15, derde lid, van de wet;  
+m. het kredietvergoedingspercentage met een beschrijving van de hierin opgenomen kosten, het hoogst toegestane kredietvergoedingspercentage, bedoeld in artikel 5:15, eerste lid, van de wet, en de vermelding van de vernietigingsgrond, bedoeld in artikel 5:15, derde lid, van de wet;  
 
 n. de voorwaarden inzake de bevoegdheid van de consument tot volledige of gedeeltelijke vervroegde aflossing;  
 
-o. de vergoeding die verschuldigd wordt, indien de consument, na ingebrekestelling, nalatig blijft in zijn verplichting tot betaling, onder vermelding van de hoogst toegestane vertragingsvergoeding op grond van [artikel 5:15, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md);  
+o. de vergoeding die verschuldigd wordt, indien de consument, na ingebrekestelling, nalatig blijft in zijn verplichting tot betaling, onder vermelding van de hoogst toegestane vertragingsvergoeding op grond van artikel 5:15, eerste lid, van de wet;  
 
-p. de wijze waarop de consument gebruik kan maken van zijn recht, bedoeld in [artikel 5:17 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), om de overeenkomst te ontbinden;  
+p. de wijze waarop de consument gebruik kan maken van zijn recht, bedoeld in artikel 5:17 van de wet, om de overeenkomst te ontbinden;  
 
 q. voor zover van toepassing de voorwaarden inzake ten behoeve van de kredietaanbieder te vestigen zekerheidsrechten.     
 2.  De informatie, bedoeld in het eerste lid, onderdelen b tot en met l, wordt op overzichtelijke wijze weergegeven in één document.   
@@ -1691,7 +1691,7 @@ l. indien de uitkering wordt uitgedrukt in rechten van deelneming in een beleggi
 
 m. een omschrijving van de gevolgen van een verhoging of verlaging van de premie, met inbegrip van premievrijmaken, en, indien de overeenkomst in die mogelijkheid voorziet, van afkoop, en een opgave van de afkoopwaarde gedurende ten minste de eerste vijf jaren van de looptijd, onder vermelding van het voor de berekening gehanteerde rendementspercentage;  
 
-n. de wijze waarop de cliënt gebruik kan maken van zijn recht, bedoeld in [artikel 5:18 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), om de overeenkomst te ontbinden;  
+n. de wijze waarop de cliënt gebruik kan maken van zijn recht, bedoeld in artikel 5:18 van de wet, om de overeenkomst te ontbinden;  
 
 o. het aan de overeenkomst verbonden financiële risico en de mate waarin dit risico voor rekening is van de cliënt.   
 
@@ -1715,7 +1715,7 @@ f. de overige mogelijkheden die de aanbieder heeft om de verzekerde prestatie of
 
 g. een opgave of indicatie van de afkoop- of premievrije waarde of een opgave van de wijze waarop deze waarden worden berekend;  
 
-h. de wijze waarop de cliënt gebruik kan maken van zijn recht, bedoeld in [artikel 5:18 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), om de overeenkomst te ontbinden;  
+h. de wijze waarop de cliënt gebruik kan maken van zijn recht, bedoeld in artikel 5:18 van de wet, om de overeenkomst te ontbinden;  
 
 i. een opgave van de uitvaartonderneming die de uitvaart zal verzorgen, dan wel van de wijze waarop wordt bepaald welke uitvaartonderneming de uitvaart zal verzorgen.     
 2.  Indien de termijn van beëindiging, bedoeld in artikel 7:5, eerste lid, onderdeel g, langer is dan een jaar, maakt de natura-uitvaartverzekeraar dit op een opvallende wijze uitdrukkelijk kenbaar aan de cliënt, bij gebreke waarvan een opzegtermijn van een jaar geldt ongeacht het in de overeenkomst bepaalde.  
@@ -1911,7 +1911,7 @@ De beloning van een assurantiebemiddelaar bestaat, behoudens artikel 7:23, tweed
 
 ####(inhoud prospectus)
 
-1.  Het prospectus, bedoeld in [artikel 5:19, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), bevat ten minste de bij regeling van Onze Minister te bepalen gegevens, waarbij onderscheid wordt gemaakt tussen de volgende categorieën effecten: 
+1.  Het prospectus, bedoeld in artikel 5:19, eerste lid, van de wet, bevat ten minste de bij regeling van Onze Minister te bepalen gegevens, waarbij onderscheid wordt gemaakt tussen de volgende categorieën effecten: 
 
 a. aandeelbewijzen, optiebewijzen, warrants, inschrijvingen in aandelenregisters, winst- en oprichtersbewijzen, rechten van deelgenootschap, en soortgelijke waardepapieren dan wel rechten;  
 
@@ -1930,13 +1930,13 @@ f. recepissen van waarden als hiervoor bedoeld.
 
 ####(taal van het prospectus)
 
-De Autoriteit Financiële Markten kan verlangen dat een prospectus als bedoeld in [artikel 5:19, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) in een of meer door haar te bepalen talen wordt gesteld, indien dit, gelet op de voorgenomen of mogelijke verspreiding van het prospectus, naar haar oordeel noodzakelijk is voor een adequate informatieverschaffing aan de beleggers. Zij kan aanwijzingen geven ten aanzien van de wijze waarop het prospectus algemeen verkrijgbaar wordt gesteld. 
+De Autoriteit Financiële Markten kan verlangen dat een prospectus als bedoeld in artikel 5:19, eerste lid, van de wet in een of meer door haar te bepalen talen wordt gesteld, indien dit, gelet op de voorgenomen of mogelijke verspreiding van het prospectus, naar haar oordeel noodzakelijk is voor een adequate informatieverschaffing aan de beleggers. Zij kan aanwijzingen geven ten aanzien van de wijze waarop het prospectus algemeen verkrijgbaar wordt gesteld. 
 
 ### Artikel  8:3  
 
 ####(aanvullend document)
 
-1.  Alle belangrijke nieuwe feiten die zich voordoen of worden geconstateerd tussen het tijdstip van goedkeuring van een prospectus als bedoeld in [artikel 5:19, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en het tijdstip waarop de aanbieding van de effecten eindigt of de handel in de effecten aanvangt, en die van belang kunnen zijn voor de beoordeling van het vermogen, de financiële positie, het resultaat en de vooruitzichten van de uitgevende instelling en van de rechten en verplichtingen die aan de effecten zijn verbonden, alsmede materiële onvolledigheden, onnauwkeurigheden of onjuistheden in het prospectus, worden vermeld of gecorrigeerd in een document dat ter aanvulling van het prospectus algemeen verkrijgbaar wordt gesteld.   
+1.  Alle belangrijke nieuwe feiten die zich voordoen of worden geconstateerd tussen het tijdstip van goedkeuring van een prospectus als bedoeld in artikel 5:19, eerste lid, van de wet en het tijdstip waarop de aanbieding van de effecten eindigt of de handel in de effecten aanvangt, en die van belang kunnen zijn voor de beoordeling van het vermogen, de financiële positie, het resultaat en de vooruitzichten van de uitgevende instelling en van de rechten en verplichtingen die aan de effecten zijn verbonden, alsmede materiële onvolledigheden, onnauwkeurigheden of onjuistheden in het prospectus, worden vermeld of gecorrigeerd in een document dat ter aanvulling van het prospectus algemeen verkrijgbaar wordt gesteld.   
 2.  Het in het eerste lid bedoelde document behoeft de goedkeuring van de Autoriteit Financiële Markten en wordt algemeen verkrijgbaar gesteld. Artikel 8:2 is van overeenkomstige toepassing.  
 
 ### §  2  
@@ -1947,11 +1947,11 @@ De Autoriteit Financiële Markten kan verlangen dat een prospectus als bedoeld i
 
 ####(uitzonderingen verbod op gebruik voorwetenschap)
 
-[Artikel 5:25, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) is niet van toepassing op de volgende categorieën transacties: 
+Artikel 5:25, eerste lid, van de wet is niet van toepassing op de volgende categorieën transacties: 
 
 a. transacties in het kader van het monetaire beleid, het valutabeleid of het beheer van de overheidsschuld;  
 
-b. het in het kader van een personeelsregeling aan personen als bedoeld in [artikel 3:5, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) of aan werknemers toekennen van effecten, indien daarbij een bestendige gedragslijn wordt gehanteerd met betrekking tot de voorwaarden en de periodiciteit van de regeling;  
+b. het in het kader van een personeelsregeling aan personen als bedoeld in artikel 3:5, eerste lid, van de wet of aan werknemers toekennen van effecten, indien daarbij een bestendige gedragslijn wordt gehanteerd met betrekking tot de voorwaarden en de periodiciteit van de regeling;  
 
 c. het in het kader van een personeelsregeling als bedoeld in onderdeel b uitoefenen van toegekende opties dan wel soortgelijke rechten, op de expiratiedatum van het desbetreffende recht of binnen een periode van vijf werkdagen voorafgaande aan die datum, alsmede het verkopen van de met de uitoefening van deze rechten verworven effecten binnen deze periode, indien de rechthebbende in dit laatste geval ten minste vier maanden voor de expiratiedatum schriftelijk aan de uitgevende instelling kenbaar heeft gemaakt tot verkoop te zullen overgaan of een onherroepelijke volmacht tot verkoop aan de uitgevende instelling heeft verleend;  
 
@@ -1965,8 +1965,8 @@ f. het verkopen van in het kader van een personeelsregeling als bedoeld in onder
 
 ####(uitzonderingen verbod op marktmanipulatie)
 
-1.  [Artikel 5:27, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) is niet van toepassing op het verrichten of bewerkstelligen van transacties in het kader van het monetaire beleid, het valutabeleid of het beheer van de overheidsschuld. Op advies van de Autoriteit Financiële Markten kunnen bij regeling van Onze Minister andere transacties of handelsorders worden aangewezen waarop het verbod van artikel 5:27, eerste lid, van de wet niet van toepassing is.   
-2.  [Artikel 5:27, tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), is niet van toepassing op het verspreiden van informatie in het kader van het monetaire beleid, het valutabeleid of het beheer van de overheidsschuld.  
+1.  Artikel 5:27, eerste lid, van de wet is niet van toepassing op het verrichten of bewerkstelligen van transacties in het kader van het monetaire beleid, het valutabeleid of het beheer van de overheidsschuld. Op advies van de Autoriteit Financiële Markten kunnen bij regeling van Onze Minister andere transacties of handelsorders worden aangewezen waarop het verbod van artikel 5:27, eerste lid, van de wet niet van toepassing is.   
+2.  Artikel 5:27, tweede lid, is niet van toepassing op het verspreiden van informatie in het kader van het monetaire beleid, het valutabeleid of het beheer van de overheidsschuld.  
 
 ### §  3  
 
@@ -1978,7 +1978,7 @@ f. het verkopen van in het kader van een personeelsregeling als bedoeld in onder
 
 Hoofdstuk 6, paragrafen 2 en 3, is niet van toepassing op: 
 
-a. vennootschappen waarvan op de erkende effectenbeurzen geen aandelen worden verhandeld die zonder toepassing van [artikel 6:2 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) als stemgerechtigde aandelen zouden worden aangemerkt;  
+a. vennootschappen waarvan op de erkende effectenbeurzen geen aandelen worden verhandeld die zonder toepassing van artikel 6:2 van de wet als stemgerechtigde aandelen zouden worden aangemerkt;  
 
 b. vennootschappen waarvan de statuten bepalen dat de aandeelhouder het recht heeft om, onder bij of krachtens de statuten vastgestelde voorwaarden, zijn aandelen in het kapitaal van de vennootschap te doen inkopen;  
 
@@ -2005,9 +2005,9 @@ Voor de toepassing van dit hoofdstuk worden de hieronder opgenomen categorieën 
 ####(toepasselijke boetecategorie)
 
 1.  Overtreding van een in bijlage 3 bij dit besluit genoemd voorschrift is beboetbaar met een bestuurlijke boete van de volgens die bijlage op overtreding van dat voorschrift van toepassing zijnde categorie.   
-2.  Het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 7:12, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) gegeven aanwijzing is, indien de aanwijzing gegeven is ter zake van het niet voldoen aan een in bijlage 3 genoemd voorschrift, beboetbaar met een bestuurlijke boete van dezelfde categorie als waarmee dat voorschrift beboetbaar is.   
+2.  Het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens artikel 7:12, eerste lid, van de wet gegeven aanwijzing is, indien de aanwijzing gegeven is ter zake van het niet voldoen aan een in bijlage 3 genoemd voorschrift, beboetbaar met een bestuurlijke boete van dezelfde categorie als waarmee dat voorschrift beboetbaar is.   
 3.  Indien een aanwijzing als bedoeld in het tweede lid is gegeven ter zake van een voorschrift, niet zijnde een in bijlage 3 genoemd voorschrift, is het geen gevolg dan wel niet tijdig of onvolledig gevolg geven aan die aanwijzing beboetbaar met een bestuurlijke boete van de eerste categorie.   
-4.  Het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens [artikel 7:12, tweede lid](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), of [7:13 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) gegeven aanwijzing is beboetbaar met een bestuurlijke boete van de tweede categorie.  
+4.  Het geen gevolg geven dan wel niet tijdig of onvolledig gevolg geven aan een krachtens artikel 7:12, tweede lid, of 7:13 van de wet gegeven aanwijzing is beboetbaar met een bestuurlijke boete van de tweede categorie.  
 
 ### Artikel  9:3  
 
@@ -2042,7 +2042,7 @@ Het door de toezichtautoriteit met toepassing van artikel 9:3 vast te stellen bo
 
 ####(herstelplan)
 
-1.  Een herstelplan als bedoeld in [artikel 8:3, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) vermeldt op welke wijze en binnen welke termijn een einde wordt gemaakt aan de omstandigheden die aanleiding gaven tot het verlangen van het herstelplan.   
+1.  Een herstelplan als bedoeld in artikel 8:3, eerste lid, van de wet vermeldt op welke wijze en binnen welke termijn een einde wordt gemaakt aan de omstandigheden die aanleiding gaven tot het verlangen van het herstelplan.   
 2.  Het herstelplan bevat voor de eerstvolgende drie boekjaren ten minste gegevens betreffende: 
 
 a. een raming van de kosten van beheer, met name van de algemene lopende kosten en de provisies;  
@@ -2060,8 +2060,8 @@ e. het algemene herverzekeringsbeleid.
 
 ####(saneringsplan en financieringsplan)
 
-1.  Een saneringsplan als bedoeld in [artikel 8:5, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) vermeldt op welke wijze en binnen welke termijn de solvabiliteitsmarge weer op de vereiste omvang zal worden gebracht. Indien ingevolge [artikel 8:3, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) een herstelplan is vastgesteld waaraan instemming is verleend, vermeldt het saneringsplan tevens hoe het herstelplan daarin wordt verwerkt.   
-2.  Een financieringsplan als bedoeld in [artikel 8:5, tweede lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) vermeldt op welke wijze en binnen welke termijn de solvabiliteitsmarge weer op de vereiste omvang zal worden gebracht. Indien ingevolge [artikel 8:3, eerste lid, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) een saneringsplan is vastgesteld waaraan instemming is verleend, vermeldt het financieringsplan tevens hoe het saneringsplan daarin wordt verwerkt.  
+1.  Een saneringsplan als bedoeld in artikel 8:5, eerste lid, van de wet vermeldt op welke wijze en binnen welke termijn de solvabiliteitsmarge weer op de vereiste omvang zal worden gebracht. Indien ingevolge artikel 8:3, eerste lid, van de wet een herstelplan is vastgesteld waaraan instemming is verleend, vermeldt het saneringsplan tevens hoe het herstelplan daarin wordt verwerkt.   
+2.  Een financieringsplan als bedoeld in artikel 8:5, tweede lid, van de wet vermeldt op welke wijze en binnen welke termijn de solvabiliteitsmarge weer op de vereiste omvang zal worden gebracht. Indien ingevolge artikel 8:3, eerste lid, van de wet een saneringsplan is vastgesteld waaraan instemming is verleend, vermeldt het financieringsplan tevens hoe het saneringsplan daarin wordt verwerkt.  
 
 ### Hoofdstuk  11  
 
@@ -2075,7 +2075,7 @@ e. het algemene herverzekeringsbeleid.
 
 ####(overgangsrecht in verband met Bazel II)
 
-Een kredietinstelling met zetel in de openbare lichamen beschikt in afwijking van de bij of krachtens artikel 4:3 of 4:29 gestelde regels, tot 1 januari 2014 over voldoende solvabiliteit en liquiditeit, indien zij voldoet aan de [artikelen 2.2 tot en met 2.5 van de Regeling financiële markten BES 2010](../../../../../../ministeriele-regeling-BES/regeling/financiële/markten/bes/2010/BWBR0028592/README.md), zoals deze regeling luidde onmiddellijk voorafgaand aan de inwerkingtreding van dit besluit. 
+Een kredietinstelling met zetel in de openbare lichamen beschikt in afwijking van de bij of krachtens artikel 4:3 of 4:29 gestelde regels, tot 1 januari 2014 over voldoende solvabiliteit en liquiditeit, indien zij voldoet aan de artikelen 2.2 tot en met 2.5 van de Regeling financiële markten BES 2010, zoals deze regeling luidde onmiddellijk voorafgaand aan de inwerkingtreding van dit besluit. 
 
 ### §  2  
 
@@ -2083,19 +2083,19 @@ Een kredietinstelling met zetel in de openbare lichamen beschikt in afwijking va
 
 ### Artikel  11:2  
 
-####([Besluit bestuursorganen WNo en Wob](../../../../../../AMvB/besluit/bestuursorganen/wno/en/wob/BWBR0009896/README.md))
+####(Besluit bestuursorganen WNo en Wob)
 
 Wijzigt het Besluit bestuursorganen WNo en Wob. 
 
 ### Artikel  11:3  
 
-####([Kiesbesluit](../../../../../../AMvB/kiesbesluit/BWBR0004632/README.md))
+####(Kiesbesluit)
 
 Wijzigt het Kiesbesluit.
 
 ### Artikel  11:4  
 
-####([Besluit politiegegevens](../../../../../../AMvB/besluit/politiegegevens/BWBR0023086/README.md))
+####(Besluit politiegegevens)
 
 Wijzigt het Besluit politiegegevens.
 
@@ -2145,25 +2145,25 @@ I. W. Opstelten
 
 Bij onherroepelijk vonnis is betrokkene in de openbare lichamen of in het buitenland veroordeeld terzake van een poging tot, voorbereiding van, doen plegen van, uitlokking van, medeplegen van, medeplichtigheid aan of plegen van: 
 
-– het in of vanuit een land in het Koninkrijk, beschikkende over voorwetenschap, verrichten of bewerkstelligen van transacties in bepaalde effecten ([artikelen 5:24](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [5:25 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md));  
+– het in of vanuit een land in het Koninkrijk, beschikkende over voorwetenschap, verrichten of bewerkstelligen van transacties in bepaalde effecten (artikelen 5:24 en 5:25 van de wet);  
 
-– het doorgeven van voorwetenschap als bedoeld in de [artikelen 5:24](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) en [5:25 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md) of de nadrukkelijke aanbeveling bepaalde transacties te doen zonder daarbij de voorwetenschap door te geven ([artikel 5:26 van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md));  
+– het doorgeven van voorwetenschap als bedoeld in de artikelen 5:24 en 5:25 van de wet of de nadrukkelijke aanbeveling bepaalde transacties te doen zonder daarbij de voorwetenschap door te geven (artikel 5:26 van de wet);  
 
-– deelneming aan een organisatie, die tot oogmerk heeft het plegen van misdrijven of het plegen van terroristische misdrijven ([artikelen 146](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [146a van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– deelneming aan een organisatie, die tot oogmerk heeft het plegen van misdrijven of het plegen van terroristische misdrijven (artikelen 146 en 146a van het Wetboek van Strafrecht BES);  
 
-– meineed ([artikel 213 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– meineed (artikel 213 van het Wetboek van Strafrecht BES);  
 
-– valsheid in geschrifte ([artikelen 230 tot en met 239 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– valsheid in geschrifte (artikelen 230 tot en met 239 van het Wetboek van Strafrecht BES);  
 
-– diefstal onder verzwarende omstandigheden ([artikelen 324 tot en met 325](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [312 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– diefstal onder verzwarende omstandigheden (artikelen 324 tot en met 325 en 312 van het Wetboek van Strafrecht BES);  
 
-– verduistering ([artikel 334 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– verduistering (artikel 334 van het Wetboek van Strafrecht BES);  
 
-– benadeling van schuldeisers of rechthebbenden ([artikelen 353 tot en met 361 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– benadeling van schuldeisers of rechthebbenden (artikelen 353 tot en met 361 van het Wetboek van Strafrecht BES);  
 
-– opzetheling ([artikel 431 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– opzetheling (artikel 431 van het Wetboek van Strafrecht BES);  
 
-– witwassen ([artikelen 435a tot en met 435c van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– witwassen (artikelen 435a tot en met 435c van het Wetboek van Strafrecht BES);  
 
 – overtreding van een bepaling uit de financiële toezichtswetgeving, als misdrijf strafbaar gesteld en waarvoor betrokkene is veroordeeld tot een onvoorwaardelijke gevangenisstraf of een geldboete van ten minste de vierde categorie;  
 
@@ -2177,77 +2177,77 @@ Bij onherroepelijk vonnis is betrokkene in de openbare lichamen of in het buiten
 
 ####Veroordelingen
 
-Bij vonnis is betrokkene in de openbare lichamen of in het buitenland veroordeeld terzake van poging tot, voorbereiding van, doen plegen van, uitlokking van, mislukte uitlokking van, medeplegen van, medeplichtigheid aan of plegen van: [Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md): 
+Bij vonnis is betrokkene in de openbare lichamen of in het buitenland veroordeeld terzake van poging tot, voorbereiding van, doen plegen van, uitlokking van, mislukte uitlokking van, medeplegen van, medeplichtigheid aan of plegen van: Wetboek van Strafrecht BES: 
 
-– openbare orde en discriminatie ([artikelen 136bis tot en met 157](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– openbare orde en discriminatie (artikelen 136bis tot en met 157);  
 
-– gemeengevaarlijke misdrijven ([artikelen 163 tot en met 182b](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– gemeengevaarlijke misdrijven (artikelen 163 tot en met 182b);  
 
 – openbaar gezag (artikelen 182c tot en met 212 );  
 
-– muntmisdrijven ([artikelen 214 tot en met 220](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– muntmisdrijven (artikelen 214 tot en met 220);  
 
-– andere valsheiddelicten dan muntmisdrijven ([artikelen 222 tot en met 239](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– andere valsheiddelicten dan muntmisdrijven (artikelen 222 tot en met 239);  
 
-– misdrijven tegen de zeden ([artikelen 248 tot en met 261](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– misdrijven tegen de zeden (artikelen 248 tot en met 261);  
 
-– bedreiging met geweld of misdrijf ([artikelen 297 en 298](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– bedreiging met geweld of misdrijf (artikelen 297 en 298);  
 
-– geweldsmisdrijven tegen het leven ([artikelen 300 tot en met 312](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– geweldsmisdrijven tegen het leven (artikelen 300 tot en met 312);  
 
-– mishandeling ([artikelen 313 tot en met 316](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– mishandeling (artikelen 313 tot en met 316);  
 
-– dood en lichamelijk letsel door schuld ([artikelen 320](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [321](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– dood en lichamelijk letsel door schuld (artikelen 320 en 321);  
 
-– eenvoudige diefstal ([artikel 323](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– eenvoudige diefstal (artikel 323);  
 
-– diefstal onder verzwarende omstandigheden ([artikelen 324](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [324a](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– diefstal onder verzwarende omstandigheden (artikelen 324 en 324a);  
 
-– diefstal met geweld ([artikel 325](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– diefstal met geweld (artikel 325);  
 
-– afpersing ([artikelen 330](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) en [331](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– afpersing (artikelen 330 en 331);  
 
-– verduistering ([artikelen 334 tot en met 336](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– verduistering (artikelen 334 tot en met 336);  
 
-– bedrog ([artikelen 339 tot en met 350](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– bedrog (artikelen 339 tot en met 350);  
 
-– benadeling van schuldeisers of rechthebbenden ([artikelen 353 tot en met 361](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– benadeling van schuldeisers of rechthebbenden (artikelen 353 tot en met 361);  
 
-– vernieling ([artikelen 366 tot en met 370](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– vernieling (artikelen 366 tot en met 370);  
 
-– ambtsmisdrijven ([artikelen 372bis tot en met 393](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– ambtsmisdrijven (artikelen 372bis tot en met 393);  
 
-– heling en schuldheling ([artikelen 431 tot en met 432bis](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– heling en schuldheling (artikelen 431 tot en met 432bis);  
 
-– witwassen ([artikelen 435a tot en met 435c](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– witwassen (artikelen 435a tot en met 435c);  
 
-– opgave van valse naam, titel etc. ([artikel 454](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– opgave van valse naam, titel etc. (artikel 454);  
 
-– onbevoegd uitoefenen beroep ([artikel 456](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– onbevoegd uitoefenen beroep (artikel 456);  
 
-– indruk wekken van officieel gesteund of erkend optreden ([artikel 454b](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md));  
+– indruk wekken van officieel gesteund of erkend optreden (artikel 454b);  
 
-– eigenmachtig handelen tijdens surséance ([artikel 462](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md)).   [Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md): 
+– eigenmachtig handelen tijdens surséance (artikel 462).   Belastingwet BES: 
 
-– overtreding fiscale wetgeving ([artikel 8.74](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md)).   [Opiumwet 1960 BES](../../../../../../wet-BES/opiumwet/1960/bes/BWBR0028519/README.md): 
+– overtreding fiscale wetgeving (artikel 8.74).   Opiumwet 1960 BES: 
 
-– met opzet smokkelen, bereiden, verkopen, afleveren, aanwezig hebben, etc. van harddrugs of softdrugs ([artikelen 2 tot en met 4](../../../../../../wet-BES/opiumwet/1960/bes/BWBR0028519/README.md)).   [Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md): 
+– met opzet smokkelen, bereiden, verkopen, afleveren, aanwezig hebben, etc. van harddrugs of softdrugs (artikelen 2 tot en met 4).   Wet ter voorkoming van witwassen en financieren van terrorisme BES: 
 
-– met opzet overtreden van de voorschriften bedoeld in [artikel 6.1 van de Wet ter voorkoming van witwassen en financieren van terrorisme BES](../../../../../../wet-BES/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/bes/BWBR0030824/README.md).   [Vuurwapenwet BES](../../../../../../wet-BES/vuurwapenwet/bes/BWBR0028251/README.md): 
+– met opzet overtreden van de voorschriften bedoeld in artikel 6.1 van de Wet ter voorkoming van witwassen en financieren van terrorisme BES.   Vuurwapenwet BES: 
 
-– onbevoegd voorhanden hebben van een vuurwapen ([artikel 3](../../../../../../wet-BES/vuurwapenwet/bes/BWBR0028251/README.md)).   [Wapenwet BES](../../../../../../wet-BES/wapenwet/bes/BWBR0028756/README.md): 
+– onbevoegd voorhanden hebben van een vuurwapen (artikel 3).   Wapenwet BES: 
 
-– onbevoegd voorhanden hebben van een wapen ([artikel 1](../../../../../../wet-BES/wapenwet/bes/BWBR0028756/README.md)).   Wet van 20 april 1932, betreffende botsing, aan- of overrijding met motorrijtuigen en ontzegging van de rijbevoegdheid BES: 
+– onbevoegd voorhanden hebben van een wapen (artikel 1).   Wet van 20 april 1932, betreffende botsing, aan- of overrijding met motorrijtuigen en ontzegging van de rijbevoegdheid BES: 
 
-– motorvoertuig besturen na ontzegging (artikel 5), andere feiten de verkeersveiligheid betreffende als bedoeld in artikel 3.   [Douane- en Accijnswet BES](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md): 
+– motorvoertuig besturen na ontzegging (artikel 5), andere feiten de verkeersveiligheid betreffende als bedoeld in artikel 3.   Douane- en Accijnswet BES: 
 
-– overtreding douanewetgeving ([artikelen 2.126 – 2.142](../../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md)).   Buitenlandse strafbepalingen: Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde. 
+– overtreding douanewetgeving (artikelen 2.126 – 2.142).   Buitenlandse strafbepalingen: Onder veroordelingen worden ook verstaan veroordelingen in het buitenland wegens overtreding van een of meer in het buitenland geldende strafbepalingen, vergelijkbaar met de hierboven genoemde. 
 
 ### 2.2  
 
 ####Transacties
 
-Betrokkene heeft een transactie als bedoeld in [artikel 76 van het Wetboek van Strafrecht BES](../../../../../../wet-BES/wetboek/van/strafrecht/bes/BWBR0028570/README.md) gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties wordt ook verstaan een daarmee vergelijkbare overeenkomst met betrekking tot niet-vervolging ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, gesloten met de daartoe bevoegde autoriteit. 
+Betrokkene heeft een transactie als bedoeld in artikel 76 van het Wetboek van Strafrecht BES gedaan ter zake van een of meer van de hiervoor onder 2.1 genoemde strafbare feiten. Onder transacties wordt ook verstaan een daarmee vergelijkbare overeenkomst met betrekking tot niet-vervolging ter zake van met de hiervoor bedoelde vergelijkbare strafbare feiten in het buitenland, gesloten met de daartoe bevoegde autoriteit. 
 
 ### 2.3  
 
@@ -2285,7 +2285,7 @@ Andere feiten of omstandigheden die redelijkerwijs voor de toezichtautoriteit va
 
 – met betrekking tot de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijke zeggenschap over het beleid uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is surseance van betaling of faillissement aangevraagd of uitgesproken;  
 
-– betrokkene is veroordeeld tot voldoen van openstaande schulden wegens aansprakelijkheid voor het faillissement van een vennootschap of rechtspersoon op grond van de toepasselijke bepalingen van [Boek 2 van het Burgerlijk Wetboek BES](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md) ([artikel 16](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md)).   
+– betrokkene is veroordeeld tot voldoen van openstaande schulden wegens aansprakelijkheid voor het faillissement van een vennootschap of rechtspersoon op grond van de toepasselijke bepalingen van Boek 2 van het Burgerlijk Wetboek BES (artikel 16).   
 
 ### 3.3  
 
@@ -2309,7 +2309,7 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 – betrokkene, of zijn huidige of één van zijn voormalige werkgevers of een vennootschap of rechtspersoon, waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijk zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede-) verantwoordelijk is of was voor het beleid, is in conflict geweest met een toezichthouder of toezichthoudende instantie en dit conflict heeft geleid tot enige maatregel jegens betrokkene dan wel jegens de vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijk zeggenschap over het beleid uitoefent of uitoefende of anderszins verantwoordelijk is of was voor het beleid;  
 
-– aan betrokkene of aan een vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is een verklaring door de Minister van Justitie ter zake van de oprichting van dan wel van de wijziging van de statuten van een vennootschap geweigerd op gronden genoemd in de artikelen 68, tweede lid, 179, tweede lid, [125, tweede lid](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md), of [235, tweede lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../wet-BES/burgerlijk/wetboek/bes/boek/2/BWBR0028744/README.md). Met deze weigering wordt gelijkgesteld een weigering van een dergelijke verklaring op soortgelijke gronden door een ter zake bevoegde autoriteit in een ander deel van het Koninkrijk.   
+– aan betrokkene of aan een vennootschap of rechtspersoon waarbij betrokkene een functie als beleidsbepalende of medebeleidsbepalende persoon bekleedt of bekleedde, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is een verklaring door de Minister van Justitie ter zake van de oprichting van dan wel van de wijziging van de statuten van een vennootschap geweigerd op gronden genoemd in de artikelen 68, tweede lid, 179, tweede lid, 125, tweede lid, of 235, tweede lid, van Boek 2 van het Burgerlijk Wetboek. Met deze weigering wordt gelijkgesteld een weigering van een dergelijke verklaring op soortgelijke gronden door een ter zake bevoegde autoriteit in een ander deel van het Koninkrijk.   
 
 ### 4.2  
 
@@ -2325,21 +2325,21 @@ Andere feiten of omstandigheden die wijzen op betrokkenheid van betrokkene bij �
 
 ####Persoonlijk
 
-Aan betrokkene is op grond van de [Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) een straf opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
+Aan betrokkene is op grond van de Belastingwet BES een straf opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
 
-– het niet, onjuist of onvolledig verstrekken van inlichtingen, gegevens of aanwijzingen ([artikel 8.74, onderdeel f](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md));  
+– het niet, onjuist of onvolledig verstrekken van inlichtingen, gegevens of aanwijzingen (artikel 8.74, onderdeel f);  
 
-– het niet nakomen van inlichtingenverplichtingen ([artikel 8.76](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md)).   
+– het niet nakomen van inlichtingenverplichtingen (artikel 8.76).   
 
 ### 5.2  
 
 ####Zakelijk
 
-Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de [Belastingwet BES](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) een straf opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
+Aan de huidige of één van de voormalige werkgevers of enige vennootschap of rechtspersoon, waarbij betrokkene een functie bekleedt of bekleedde als beleidsbepalende of medebeleidsbepalende persoon, feitelijke zeggenschap in het bestuur uitoefent of uitoefende of anderszins (mede)verantwoordelijk is of was voor het beleid, is op grond van de Belastingwet BES een straf opgelegd ter zake van één of meer van de hieronder genoemde strafbare feiten: 
 
-– het niet, onjuist of onvolledig verstrekken van inlichtingen, gegevens of aanwijzingen ([artikel 8.74, onderdeel f](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md));  
+– het niet, onjuist of onvolledig verstrekken van inlichtingen, gegevens of aanwijzingen (artikel 8.74, onderdeel f);  
 
-– het niet nakomen van inlichtingenverplichtingen ([artikel 8.76](../../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md)).   
+– het niet nakomen van inlichtingenverplichtingen (artikel 8.76).   
 
 ### 5.3  
 
@@ -2437,7 +2437,7 @@ II.  *In de voorwaarden van de beleggingsinstelling wordt bepaald dat:*
 
 2.10. een voorstel tot opheffing van de beleggingsinstelling kenbaar moet worden gemaakt aan de vergadering van deelnemers;  
 
-2.11. mededeling wordt gedaan van een verzoek aan de toezichthoudende autoriteit ingevolge [artikel 2:14, aanhef, van de wet](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md), tot intrekking van de vergunning, of, indien deze adresgegevens onbekend zijn, op de website van de beleggingsinstelling, of, indien de beleggingsinstelling geen website heeft, in een advertentie in een prijscourant van de effectenbeurs waaraan de deelnemingsrechten in de beleggingsinstelling zijn genoteerd;  
+2.11. mededeling wordt gedaan van een verzoek aan de toezichthoudende autoriteit ingevolge artikel 2:14, aanhef, van de wet, tot intrekking van de vergunning, of, indien deze adresgegevens onbekend zijn, op de website van de beleggingsinstelling, of, indien de beleggingsinstelling geen website heeft, in een advertentie in een prijscourant van de effectenbeurs waaraan de deelnemingsrechten in de beleggingsinstelling zijn genoteerd;  
 
 2.12. de beheerder van het beleggingsfonds bij het beheren uitsluitend in het belang van de deelnemers optreedt;  
 
@@ -2453,7 +2453,7 @@ II.  *In de voorwaarden van de beleggingsinstelling wordt bepaald dat:*
 
 ### A  
 
-####[Wet financiële markten BES](../../../../../../wet-BES/wet/financiële/markten/bes/BWBR0030883/README.md)
+####Wet financiële markten BES
 
 | Artikel  | Cat.  |
 |:---|:---|

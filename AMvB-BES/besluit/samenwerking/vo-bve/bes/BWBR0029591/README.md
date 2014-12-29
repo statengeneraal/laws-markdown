@@ -16,7 +16,7 @@ Hebben goedgevonden en verstaan:
 
 ####Begripsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  1  
 
@@ -92,7 +92,7 @@ c. die aansluitend in dat schooljaar wordt ingeschreven als leerling aan een and
 
 ####Niet uit ’s Rijks kas bekostigde scholen en onbekostigd VAVO
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  5  
 
@@ -106,7 +106,7 @@ Het bevoegd gezag van een ingevolge artikel 112 van de WVO BES aangewezen school
 
 ####Slotbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 ### Artikel  6  
 

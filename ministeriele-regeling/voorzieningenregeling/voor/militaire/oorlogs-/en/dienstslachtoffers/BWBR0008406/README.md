@@ -15,7 +15,7 @@ In deze regeling wordt verstaan onder:
 
 a.*betrokkene:* de beroepsmilitair, de gewezen beroepsmilitair, de dienstplichtige militair, de gewezen dienstplichtige, alsmede de reservist en de gewezen reservist die ten gevolge van invaliditeit aantoonbare beperkingen ondervindt;
 
-b.*invaliditeit:* de invaliditeit met dienstverband, bedoeld in [artikel 2, derde lid, van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](../../../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md), ook indien sprake is van een invaliditeit van minder dan 10%;
+b.*invaliditeit:* de invaliditeit met dienstverband, bedoeld in artikel 2, derde lid, van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen, ook indien sprake is van een invaliditeit van minder dan 10%;
 
 c.*voorziening:* het middel dat direct dan wel indirect de nadelige gevolgen van de beperkingen die de betrokkene ten gevolge van zijn invaliditeit ondervindt, opheft of vermindert dan wel voorziet in een financiële tegemoetkoming in of een financiële vergoeding van de kosten die daarvan een gevolg zijn;
 
@@ -141,10 +141,10 @@ h. de financiële vergoeding van de kosten van het rij-examen; deze vergoeding k
 ### Artikel  6  
 
 1.  Voor de vaststelling van het recht op een voorziening als bedoeld in artikel 4, onderdeel a tot en met c, en onderdeel e, is de hoogte van het inkomen van de betrokkene bepalend.   
-2.  Bij de vaststelling van het inkomen van de betrokkene wordt een pensioen ter zake van invaliditeit in aanmerking genomen, met dien verstande dat de toegekende bijzondere invaliditeitsverhoging ingevolge [artikel 8 van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](../../../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) dan wel [artikel 3 van het Besluit bijzondere militaire pensioenen](../../../../../../../../AMvB/besluit/bijzondere/militaire/pensioenen/BWBR0012222/README.md) buiten beschouwing blijft.   
-3.  Bij de vaststelling van het overige inkomen van de betrokkene zijn de [Regeling inkomenstoets vervoersvoorzieningen REA](../../../../../../../../ministeriele-regeling/regeling/inkomenstoets/vervoersvoorzieningen/rea/BWBR0009854/README.md), zoals die luidde op de dag voorafgaande aan de dag waarop de regeling vervalt als gevolg van de inwerkingtreding van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/invoering/en/financiering/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019058/README.md) of paragraaf 2 van de Reïntegratieregeling, voorzover daarvan in het navolgende niet wordt afgeweken, van overeenkomstige toepassing.   
-4.  De in het eerste lid bedoelde voorzieningen worden toegekend indien het inkomen van de betrokkene in het kalenderjaar waarin het verzoek tot toekenning van de voorziening is gedaan niet meer bedraagt dan 261 x 80% van het bedrag, bedoeld in de [artikelen 17, eerste lid,](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [18, vierde lid, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) met betrekking tot een loontijdvak van een dag.   
-5.  Indien het inkomen van de betrokkene in een kalenderjaar meer bedraagt dan 261 x 80% van het bedrag, bedoeld in [de artikelen 17, eerste lid](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), en [18, vierde lid, van de Wet financiering sociale verzekeringen](../../../../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) met betrekking tot een loontijdvak van een dag, vervallen de in artikel 4, onderdeel b, c en e, onder 2 tot en met 4, bedoelde voorzieningen.   
+2.  Bij de vaststelling van het inkomen van de betrokkene wordt een pensioen ter zake van invaliditeit in aanmerking genomen, met dien verstande dat de toegekende bijzondere invaliditeitsverhoging ingevolge artikel 8 van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen dan wel artikel 3 van het Besluit bijzondere militaire pensioenen buiten beschouwing blijft.   
+3.  Bij de vaststelling van het overige inkomen van de betrokkene zijn de Regeling inkomenstoets vervoersvoorzieningen REA, zoals die luidde op de dag voorafgaande aan de dag waarop de regeling vervalt als gevolg van de inwerkingtreding van artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen of paragraaf 2 van de Reïntegratieregeling, voorzover daarvan in het navolgende niet wordt afgeweken, van overeenkomstige toepassing.   
+4.  De in het eerste lid bedoelde voorzieningen worden toegekend indien het inkomen van de betrokkene in het kalenderjaar waarin het verzoek tot toekenning van de voorziening is gedaan niet meer bedraagt dan 261 x 80% van het bedrag, bedoeld in de artikelen 17, eerste lid, en 18, vierde lid, van de Wet financiering sociale verzekeringen met betrekking tot een loontijdvak van een dag.   
+5.  Indien het inkomen van de betrokkene in een kalenderjaar meer bedraagt dan 261 x 80% van het bedrag, bedoeld in de artikelen 17, eerste lid, en 18, vierde lid, van de Wet financiering sociale verzekeringen met betrekking tot een loontijdvak van een dag, vervallen de in artikel 4, onderdeel b, c en e, onder 2 tot en met 4, bedoelde voorzieningen.   
 6.  Indien het inkomen van de betrokkene meer bedraagt dan het op grond van het in het vierde lid vastgestelde bedrag worden de voorzieningen, bedoeld in artikel 4, onderdeel a en e, onder 1, gedeeltelijk toegekend overeenkomstig het hierna bepaalde: 
 
 bij een overschrijding tot maximaal f 1250 wordt tot 90% van de op jaarbasis vastgestelde waarde van de voorziening tegemoetgekomen;
@@ -211,7 +211,7 @@ b. de financiële tegemoetkoming in de kosten van:
 
 2. de herinrichting van de woning;  
 
-3. de eigen bijdrage voor een woonvoorziening krachtens de [Wet maatschappelijke ondersteuning](../../../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md).      
+3. de eigen bijdrage voor een woonvoorziening krachtens de Wet maatschappelijke ondersteuning.      
 
 ### Artikel  9  
 
@@ -297,7 +297,7 @@ a. de financiële vergoeding van de kosten van:
 
 2. de eigen bijdrage, bedoeld in 
 
-[artikel 2 van het Bijdragebesluit zorg](../../../../../../../../AMvB/bijdragebesluit/zorg/BWBR0008253/README.md) indien het verblijf in een instelling of verzorgingshuis vanwege het ontbreken van passende woonruimte noodzakelijk is; 
+artikel 2 van het Bijdragebesluit zorg indien het verblijf in een instelling of verzorgingshuis vanwege het ontbreken van passende woonruimte noodzakelijk is; 
 
 3. de eigen bijdrage voor de aanschaf van een ringleiding; 
 
@@ -441,7 +441,7 @@ De berekening van de in artikel 8, onderdeel b onder 1 en 2 bedoelde financiële
 
 ### Artikel  20  
 
-1. Bij de vaststelling van het jaarinkomen als bedoeld in artikel 9, onderdeel a, punt wordt een pensioen ter zake van invaliditeit in aanmerking genomen, met dien verstande dat de toegekende bijzondere invaliditeitsverhoging ingevolge [artikel 8 van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen](../../../../../../../../AMvB/besluit/aanvullende/arbeidsongeschiktheids-/en/invaliditeitsvoorzieningen/etc/BWBR0012223/README.md) dan wel [artikel 3 van het Besluit bijzondere militaire pensioenen](../../../../../../../../AMvB/besluit/bijzondere/militaire/pensioenen/BWBR0012222/README.md) buiten beschouwing blijft. 
+1. Bij de vaststelling van het jaarinkomen als bedoeld in artikel 9, onderdeel a, punt wordt een pensioen ter zake van invaliditeit in aanmerking genomen, met dien verstande dat de toegekende bijzondere invaliditeitsverhoging ingevolge artikel 8 van het Besluit aanvullende arbeidsongeschiktheids- en invaliditeitsvoorzieningen militairen dan wel artikel 3 van het Besluit bijzondere militaire pensioenen buiten beschouwing blijft. 
 2.  De in artikel 9, onderdeel b, onder 1, bedoelde vergoeding bedraagt maximaal € 15,– per geïndiceerd uur.   
 3.  De in artikel 9, onderdeel b, onder 2, bedoelde financiële tegemoetkoming in de kosten van de extra slijtage van kleding en beddegoed wordt bepaald aan de hand van de orthobanda-lijst.   
 4.  De in artikel 9, onderdeel b, onder 3, bedoelde financiële tegemoetkoming in de kosten van de vervanging van een garderobe wordt bepaald aan de hand van de door het Nationaal instituut voor budgetvoorlichting vastgestelde normen.   
@@ -454,9 +454,9 @@ De berekening van de in artikel 8, onderdeel b onder 1 en 2 bedoelde financiële
 
 a. bij een inkomen tot het bruto minimumloon 1% van het inkomen;  
 
-b. bij een inkomen hoger dan het bruto minimumloon, maar lager dan het bruto inkomen ingevolge de Regeling inkomenstoets vervoersvoorzieningen REA, zoals die luidde op de dag voorafgaande aan de dag waarop de regeling vervalt als gevolg van de inwerkingtreding van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/invoering/en/financiering/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019058/README.md) of [paragraaf 2 van de Reïntegratieregeling](../../../../../../../../ministeriele-regeling/reïntegratieregeling/BWBR0019297/README.md), 1,5% van het inkomen;  
+b. bij een inkomen hoger dan het bruto minimumloon, maar lager dan het bruto inkomen ingevolge de Regeling inkomenstoets vervoersvoorzieningen REA, zoals die luidde op de dag voorafgaande aan de dag waarop de regeling vervalt als gevolg van de inwerkingtreding van artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen of paragraaf 2 van de Reïntegratieregeling, 1,5% van het inkomen;  
 
-c. bij een inkomen hoger dan het bruto inkomen ingevolge de Regeling inkomenstoets vervoersvoorzieningen REA, zoals die luidde op de dag voorafgaande aan de dag waarop de regeling vervalt als gevolg van de inwerkingtreding van [artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen](../../../../../../../../wet/wet/invoering/en/financiering/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019058/README.md) of [paragraaf 2 van de Reïntegratieregeling](../../../../../../../../ministeriele-regeling/reïntegratieregeling/BWBR0019297/README.md), 2% van het inkomen.  Bij de vaststelling van het inkomen is het bepaalde in artikel 6, tweede en derde lid van overeenkomstige toepassing.
+c. bij een inkomen hoger dan het bruto inkomen ingevolge de Regeling inkomenstoets vervoersvoorzieningen REA, zoals die luidde op de dag voorafgaande aan de dag waarop de regeling vervalt als gevolg van de inwerkingtreding van artikel 2.10 van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen of paragraaf 2 van de Reïntegratieregeling, 2% van het inkomen.  Bij de vaststelling van het inkomen is het bepaalde in artikel 6, tweede en derde lid van overeenkomstige toepassing.
 2.  De in artikel 9a, eerste lid onderdeel b, bedoelde financiële tegemoetkoming bedraagt maximaal € 547,- per jaar.
 3.  De in artikel 9a, tweede lid, bedoelde financiële tegemoetkoming bedraagt maximaal € 547,- per jaar. 
 4.  De in artikel 9a, derde lid, onder a, bedoelde financiële tegemoetkoming bedraagt, rekening houdende met een eigen bijdrage van € 399,– maximaal € 547,–. De in artikel 9a, derde lid, onder b, bedoelde financiële tegemoetkoming bedraagt maximaal € 219,– per jaar.  
@@ -496,7 +496,7 @@ c. bij een inkomen hoger dan het bruto inkomen ingevolge de Regeling inkomenstoe
 – een sportprothese: € 10.593,-.     
 4.  De in artikel 10a, onder c, bedoelde financiële tegemoetkoming bedraagt maximaal € 492,– per middel dan wel behandeling per jaar.  
 5.   De in artikel 10a, onderdeel c, bedoelde financiële tegemoetkoming in de extra kosten van de premie van een ziektekostenverzekering bestaat ten hoogste uit het verschil tussen de verschuldigde hogere premie en de gemiddelde premie voor particuliere ziektekostenverze-keringen die als uitgangspunt wordt genomen voor de toepassing van het Interimbesluit ziektekosten burgerlijke ambtenaren defensie.   
-6.  De in artikel 10a, onderdeel e, bedoelde financiële tegemoetkoming bedraagt maximaal het bedrag van het eigen risico genoemd in [artikel 19 van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md), in voorkomend geval verminderd met het bedrag aan compensatie verplicht eigen risico voor chronisch zieken en gehandicapten ingevolge [artikel 118a van de Zorgverzekeringswet](../../../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md). 
+6.  De in artikel 10a, onderdeel e, bedoelde financiële tegemoetkoming bedraagt maximaal het bedrag van het eigen risico genoemd in artikel 19 van de Zorgverzekeringswet, in voorkomend geval verminderd met het bedrag aan compensatie verplicht eigen risico voor chronisch zieken en gehandicapten ingevolge artikel 118a van de Zorgverzekeringswet. 
 
 ### Artikel  20c  
 

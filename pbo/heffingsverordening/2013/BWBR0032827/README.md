@@ -98,7 +98,7 @@ a. de aanvoer van zeevis:
 
 1°. 8,72 promille van de waarde van de door hem aangevoerde zeevis, voor zover het betreft met een kotter aangevoerde zeevis; 
 
-2°. 5,54 promille van de waarde van de door hem aangevoerde zeevis, voor zover het betreft met een trawler aangevoerde zeevis; 
+2°. 3,49 promille van de waarde van de door hem aangevoerde zeevis, voor zover het betreft met een trawler aangevoerde zeevis; 
 
 b. de aanvoerder van vis verkregen door uitoefening van de binnenvisserij: 
 
@@ -157,7 +157,7 @@ a. de ondernemer die zeevis koopt van een aanvoerder of van een buitenlandse aan
 
 1°. 1,82 promille van de waarde van de door hem aangekochte zeevis, voor zover het betreft met een kotter aangevoerde zeevis; 
 
-2°. 2,59 promille van de waarde van de door hem aangevoerde zeevis, voor zover het betreft met een trawler aangevoerde zeevis; 
+2°. 1,84 promille van de waarde van de door hem aangekochte zeevis, voor zover het betreft met een trawler aangevoerde zeevis; 
 
 b. de ondernemer die vis koopt van een aanvoerder, als bedoeld in artikel 3, eerste lid onder b: 7,88 promille van het aankoopbedrag van de door hem van een aanvoerder gekochte vis; 
 

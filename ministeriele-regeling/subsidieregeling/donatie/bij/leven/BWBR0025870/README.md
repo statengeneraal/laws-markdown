@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Volksgezondheid, Welzijn en Sport van 12 mei 2009, nr. GMT/IB/2929135, houdende tegemoetkoming in kosten voor het ter beschikking stellen van een orgaan bij leven (Subsidieregeling donatie bij leven)
 
 De Minister van Volksgezondheid, Welzijn en Sport,  
-Gelet op [artikel 3 van de Kaderwet VWS-subsidies](../../../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md);
+Gelet op artikel 3 van de Kaderwet VWS-subsidies;
 Besluit:    
 
 ### Artikel  1  
@@ -14,7 +14,7 @@ a.  *minister:* Minister van Volksgezondheid, Welzijn en Sport;
 
 b.  *orgaan:* nier of deel van de lever;  
 
-c.  *donatie:* met inachtneming van de [Wet op de orgaandonatie](../../../../../../wet/wet/op/de/orgaandonatie/BWBR0008066/README.md) bij leven een orgaan laten verwijderen ten behoeve van implantatie bij een bepaalde persoon;  
+c.  *donatie:* met inachtneming van de Wet op de orgaandonatie bij leven een orgaan laten verwijderen ten behoeve van implantatie bij een bepaalde persoon;  
 
 d. voorbereiding van een donatie: 
 
@@ -28,7 +28,7 @@ f.  *herstel na een donatie:* periode na het ontslag uit het ziekenhuis totdat d
 
 g.  *donor:* natuurlijke persoon bij wie een orgaan verwijderd gaat worden, verwijderd wordt of verwijderd is in het kader van een donatie;  
 
-h.  *peiljaar:* het kalenderjaar onmiddellijk voorafgaande aan het jaar waarin de donatie wordt uitgevoerd of, indien de belastbare inkomsten in dat jaar lager waren dan het minimumloon, bedoeld in [artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag](../../../../../../wet/wet/minimumloon/en/minimumvakantiebijslag/BWBR0002638/README.md), vijf kalenderjaren onmiddellijk voorafgaande aan het jaar waarin de donatie wordt uitgevoerd.   
+h.  *peiljaar:* het kalenderjaar onmiddellijk voorafgaande aan het jaar waarin de donatie wordt uitgevoerd of, indien de belastbare inkomsten in dat jaar lager waren dan het minimumloon, bedoeld in artikel 8, eerste lid, onderdeel a, van de Wet minimumloon en minimumvakantiebijslag, vijf kalenderjaren onmiddellijk voorafgaande aan het jaar waarin de donatie wordt uitgevoerd.   
 
 ### Artikel  2  
 
@@ -36,7 +36,7 @@ De minister kan aan een donor een subsidie verstrekken ten behoeve van de voorbe
 
 ### Artikel  3  
 
-De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolge de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) tot de verzekerde prestaties behoort van de zorgverzekering van de ontvanger van het orgaan. 
+De subsidie wordt uitsluitend verstrekt ten behoeve van een donatie die ingevolge de Zorgverzekeringswet tot de verzekerde prestaties behoort van de zorgverzekering van de ontvanger van het orgaan. 
 
 ### Artikel  4  
 
@@ -46,21 +46,21 @@ a. de gederfde belastbare inkomsten van de donor gedurende de voorbereiding van,
 
 1°. het belastbaar loon per week overeenkomstig de wettelijke bepalingen van de loonbelasting;  
 
-2°. de gemiddelde belastbare winst uit onderneming per week in het peiljaar, bepaald volgens de regels van [afdeling 3.2 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);  
+2°. de gemiddelde belastbare winst uit onderneming per week in het peiljaar, bepaald volgens de regels van afdeling 3.2 van de Wet inkomstenbelasting 2001;  
 
-3°. het gemiddelde belastbaar resultaat uit overige werkzaamheden per week in het peiljaar, bepaald volgens de regels van [afdeling 3.4 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), met uitzondering van de in de [artikelen 3.91](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [3.92 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) bedoelde werkzaamheden;  
+3°. het gemiddelde belastbaar resultaat uit overige werkzaamheden per week in het peiljaar, bepaald volgens de regels van afdeling 3.4 van de Wet inkomstenbelasting 2001, met uitzondering van de in de artikelen 3.91 en 3.92 van de Wet inkomstenbelasting 2001 bedoelde werkzaamheden;  
 
-4°. in geval de donor niet een binnenlandse belastingplichtige is als bedoeld in [artikel 2.1, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), de inkomsten die vergelijkbaar zijn met de hiervoor genoemde inkomensbestanddelen, waarbij acht wordt geslagen op [Hoofdstuk 7 van de Wet inkomstenbelasting 2001](../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md);    
+4°. in geval de donor niet een binnenlandse belastingplichtige is als bedoeld in artikel 2.1, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001, de inkomsten die vergelijkbaar zijn met de hiervoor genoemde inkomensbestanddelen, waarbij acht wordt geslagen op Hoofdstuk 7 van de Wet inkomstenbelasting 2001;    
 
 b. in geval de donor anders dan in dienstbetrekking, als zelfstandige of als beroepsbeoefenaar meewerkt in de onderneming van zijn echtgenoot of geregistreerde partner: de kosten van vervanging van de arbeidsinbreng van de donor gedurende de voorbereiding van, de uitvoering van en het herstel na de donatie door een persoon die ter beschikking wordt gesteld door een rechtspersoonlijkheid bezittende instelling met het statutaire doel arbeidskrachten ter beschikking te stellen;  
 
 c. de kosten voor zorg, andere diensten of huishoudelijke verzorging aan de donor, waar van toepassing op indicatie, verleend in het kader van de voorbereiding van, de uitvoering van en het herstel na de donatie, bestaande uit: 
 
-1°. de eigen bijdrage en het eigen risico van de donor voor zorg of andere diensten verleend uit hoofde van de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of de [Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);  
+1°. de eigen bijdrage en het eigen risico van de donor voor zorg of andere diensten verleend uit hoofde van de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten;  
 
-2°. de eigen bijdrage van de donor voor huishoudelijke verzorging verleend uit hoofde van de [Wet maatschappelijke ondersteuning](../../../../../../wet/wet/maatschappelijke/ondersteuning/BWBR0020031/README.md);  
+2°. de eigen bijdrage van de donor voor huishoudelijke verzorging verleend uit hoofde van de Wet maatschappelijke ondersteuning;  
 
-3°. de kosten van de donor voor medisch noodzakelijke zorg die aan de donor op schriftelijke medische indicatie is verleend en die niet valt onder de [Zorgverzekeringswet](../../../../../../wet/zorgverzekeringswet/BWBR0018450/README.md) of de [Algemene Wet Bijzondere Ziektekosten](../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md);    
+3°. de kosten van de donor voor medisch noodzakelijke zorg die aan de donor op schriftelijke medische indicatie is verleend en die niet valt onder de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten;    
 
 d. de kosten van reizen, met inbegrip van reizen naar en van Nederland, die de donor en één andere door de donor aangewezen persoon maken in het kader van de voorbereiding van, de uitvoering van en het herstel na een donatie: 
 
@@ -82,7 +82,7 @@ e. vervallen;
 
 f. de kosten van de donor voor het opvangen en verzorgen van personen voor wie de donor de zorg draagt gedurende de uitvoering van en het herstel na een donatie voor zover die kosten de gebruikelijke kosten van de donor voor die opvang en verzorging te boven gaan;  
 
-g. uitsluitend in geval de donatie buiten het woonland van de donor wordt uitgevoerd een bedrag van € 8 per etmaal dat de donor in het kader van de voorbereiding van of het herstel na de donatie, tot uiterlijk 13 weken, dan wel 26 weken in geval van een leverdonatie, na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd, buiten een zorginstelling verblijft in het land waar de donatie wordt uitgevoerd, vermeerderd, indien de donor woonachtig is buiten Europa, met een eenmalig bedrag van € 250 dan wel met de kosten van een machtiging tot voorlopig verblijf als bedoeld in [artikel 1, onder h, van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), van een verblijfsvergunning als bedoeld in [artikel 14 van de Vreemdelingenwet 2000](../../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md)en van een verzekering tegen ziektekosten als bedoeld in [artikel 3.7, eerste lid, onder c, van het Vreemdelingenbesluit 2000](../../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md);  
+g. uitsluitend in geval de donatie buiten het woonland van de donor wordt uitgevoerd een bedrag van € 8 per etmaal dat de donor in het kader van de voorbereiding van of het herstel na de donatie, tot uiterlijk 13 weken, dan wel 26 weken in geval van een leverdonatie, na de datum van ontslag van de donor uit het ziekenhuis waar de donatie is uitgevoerd, buiten een zorginstelling verblijft in het land waar de donatie wordt uitgevoerd, vermeerderd, indien de donor woonachtig is buiten Europa, met een eenmalig bedrag van € 250 dan wel met de kosten van een machtiging tot voorlopig verblijf als bedoeld in artikel 1, onder h, van de Vreemdelingenwet 2000, van een verblijfsvergunning als bedoeld in artikel 14 van de Vreemdelingenwet 2000en van een verzekering tegen ziektekosten als bedoeld in artikel 3.7, eerste lid, onder c, van het Vreemdelingenbesluit 2000;  
 
 h. ten behoeve van overige kosten een eenmalig bedrag van € 320 in geval van nierdonatie, € 360 in geval van leverdonatie of € 100 in geval donatie niet heeft plaatsgevonden maar wel is gestart met de uitvoering van een donatie;  
 

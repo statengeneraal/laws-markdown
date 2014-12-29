@@ -320,8 +320,6 @@ c. de inhoud en wijze van openbaarmaking van het beleid inzake beloningen.
 
 ####Ratings
 
-Treedt in werking per 21-12-2014 
-
 Een fonds draagt er zorg voor dat voor de beoordeling van de kredietwaardigheid van de activa niet uitsluitend of mechanisch wordt uitgegaan van ratings, uitgegeven door een ratingbureau. 
 
 ### Artikel  22  

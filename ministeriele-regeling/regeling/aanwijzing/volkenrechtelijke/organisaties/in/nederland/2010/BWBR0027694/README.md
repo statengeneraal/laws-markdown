@@ -5,12 +5,12 @@
 De Minister van Sociale Zaken en Werkgelegenheid en de Minister van Volksgezondheid, Welzijn en Sport,  
 Handelende in overeenstemming met de Minister van Buitenlandse Zaken;
 
-Gelet op [artikel 14, tweede lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md) en [artikel 7, tweede lid, van het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990](../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/werknemersverzekeringen/etc/BWBR0004613/README.md);
+Gelet op artikel 14, tweede lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 en artikel 7, tweede lid, van het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990;
 Besluiten:    
 
 ### Artikel  1  
 
-Als volkenrechtelijke organisatie, bedoeld in [artikel 14, eerste lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999](../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/volksverzekeringen/1999/BWBR0010182/README.md) en [artikel 7, eerste lid, van het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990](../../../../../../../../../AMvB/besluit/uitbreiding/en/beperking/kring/verzekerden/werknemersverzekeringen/etc/BWBR0004613/README.md), worden aangewezen: 
+Als volkenrechtelijke organisatie, bedoeld in artikel 14, eerste lid, van het Besluit uitbreiding en beperking kring verzekerden volksverzekeringen 1999 en artikel 7, eerste lid, van het Besluit uitbreiding en beperking kring verzekerden werknemersverzekeringen 1990, worden aangewezen: 
 
 1. United Nations: 
 
@@ -78,7 +78,7 @@ e. European Union’s Judicial Cooperation Unit;
 
 ### Artikel  2  
 
-De [Regeling aanwijzing volkenrechtelijke organisaties in Nederland](../../../../../../../../../ministeriele-regeling/regeling/aanwijzing/volkenrechtelijke/organisaties/in/nederland/BWBR0020011/README.md) wordt ingetrokken. 
+De Regeling aanwijzing volkenrechtelijke organisaties in Nederland wordt ingetrokken. 
 
 ### Artikel  3  
 

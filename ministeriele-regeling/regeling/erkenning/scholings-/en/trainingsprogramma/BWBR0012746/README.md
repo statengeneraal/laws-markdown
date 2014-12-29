@@ -3,7 +3,7 @@
 ##Regeling erkenning scholings- en trainingsprogramma 
 
 De Minister van Justitie,  
-Gelet op [artikel 3, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen](../../../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md) en [artikel 2, vierde lid, van het Reglement justitiële jeugdinrichtingen](../../../../../../../AMvB/reglement/justitiële/jeugdinrichtingen/BWBR0012647/README.md);
+Gelet op artikel 3, tweede lid, van de Beginselenwet justitiële jeugdinrichtingen en artikel 2, vierde lid, van het Reglement justitiële jeugdinrichtingen;
 
 Gezien het advies van het College van advies voor de justitiële kinderbescherming van 1 februari 2001 nr. 5078699/01/TH/rb;
 Besluit:     
@@ -71,16 +71,16 @@ h.  de wijze van toezicht, begeleiding en evaluatie.
 
 ### Artikel  6  
 
-1.  De activiteiten in het kader van een scholing- en trainingsprogramma kunnen aangeboden worden door de reclassering, de stichting bedoeld in [artikel 1, eerste lid, van de Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md), een werkgever of een derde organisatie.   
+1.  De activiteiten in het kader van een scholing- en trainingsprogramma kunnen aangeboden worden door de reclassering, de stichting bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, een werkgever of een derde organisatie.   
 2.  Indien het scholings- en trainingsprogramma of een substantieel gedeelte daarvan uitgevoerd wordt door een derde-organisatie die: 
 
-a.  op grond van de [Wet bijzondere opnemingen psychiatrische ziekenhuizen](../../../../../../../wet/wet/bijzondere/opnemingen/in/psychiatrische/ziekenhuizen/BWBR0005700/README.md) als zorginstelling is aangemerkt; 
+a.  op grond van de Wet bijzondere opnemingen psychiatrische ziekenhuizen als zorginstelling is aangemerkt; 
 
-b.een instelling is als bedoeld in [artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen](../../../../../../../wet/wet/toelating/zorginstellingen/BWBR0018906/README.md) die is toegelaten voor het verlenen van zorg waarop aanspraak bestaat ingevolge [artikel 6 van de Algemene Wet Bijzondere Ziektekosten](../../../../../../../wet/algemene/wet/bijzondere/ziektekosten/BWBR0002614/README.md); 
+b.een instelling is als bedoeld in artikel 1, eerste lid, onderdeel f, van de Wet toelating zorginstellingen die is toegelaten voor het verlenen van zorg waarop aanspraak bestaat ingevolge artikel 6 van de Algemene Wet Bijzondere Ziektekosten; 
 
 c.  door het ministerie van Onderwijs, Cultuur en Wetenschap is erkend als onderwijsinstelling; 
 
-d.  op grond van de [Wet op de jeugdzorg](../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md) erkend is; 
+d.  op grond van de Wet op de jeugdzorg erkend is; 
 
 e.  vermeldt de organisatie bij de aanvraag om erkenning van het scholings- en trainingsprogramma de erkenning of toelating.    
 3.  Indien het scholing- en trainingsprogramma of een substantieel gedeelte daarvan uitgevoerd wordt door een derde-organisatie, die niet door een in het tweede lid genoemd Ministerie of krachtens een daar genoemde wet erkend of toegelaten is, wordt bij de aanvraag om erkenning van het scholings- en trainingsprogramma de betrouwbaarheid van de derde-organisatie getoetst.   

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op voordracht van Onze Minister van Financiën, mede namens Onze Minister van Justitie, van 27 maart 2008, FM 2008-00756 M, Generale Thesaurie, Directie Financiële Markten, Afdeling Integriteit;
 
-Gelet op de [artikelen 1, eerste lid, aanhef en onderdeel a, onder 18°](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [6, derde lid](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [7, derde lid](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [15, eerste lid](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), en [31, eerste en tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [artikelen 6, zesde lid](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), en [23, tweede lid, van de Wet politiegegevens](../../../../../../../../../../../../wet/wet/politiegegevens/BWBR0022463/README.md), [artikel 2, eerste lid van de Sanctiewet 1977](../../../../../../../../../../../../wet/sanctiewet/1977/BWBR0003296/README.md), [artikel 5, tweede lid van de Wet documentatie vennootschappen](../../../../../../../../../../../../wet/wet/controle/op/rechtspersonen/BWBR0015049/README.md), [artikelen 3:9, derde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:10, tweede en derde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:17, tweede lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [3:99, derde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [4:10, derde lid](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md) en [4:14, tweede lid, aanhef, onderdeel b, van de Wet op het financieel toezicht](../../../../../../../../../../../../wet/wet/op/het/financieel/toezicht/BWBR0020368/README.md), [artikel 9, eerste lid, van de Wet justitiële en strafvorderlijke gegevens](../../../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), [artikel 105, tiende lid, van de Pensioenwet](../../../../../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [artikel 110, tiende lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [artikel 127, tweede lid, van de Wegenverkeerswet](../../../../../../../../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md);
+Gelet op de artikelen 1, eerste lid, aanhef en onderdeel a, onder 18°, 6, derde lid, 7, derde lid, 15, eerste lid, en 31, eerste en tweede lid, van de Wet ter voorkoming van witwassen en financieren van terrorisme, artikelen 6, zesde lid, en 23, tweede lid, van de Wet politiegegevens, artikel 2, eerste lid van de Sanctiewet 1977, artikel 5, tweede lid van de Wet documentatie vennootschappen, artikelen 3:9, derde lid, 3:10, tweede en derde lid, 3:17, tweede lid, 3:99, derde lid, 4:10, derde lid en 4:14, tweede lid, aanhef, onderdeel b, van de Wet op het financieel toezicht, artikel 9, eerste lid, van de Wet justitiële en strafvorderlijke gegevens, artikel 105, tiende lid, van de Pensioenwet, artikel 110, tiende lid, van de Wet verplichte beroepspensioenregeling en artikel 127, tweede lid, van de Wegenverkeerswet;
 
 De Raad van State gehoord (advies van 17 april 2008, no. W06.08.0111/III);
 
@@ -19,30 +19,30 @@ In dit besluit wordt verstaan onder:
 
 a.  *Onze Minister*: Onze Minister van Financiën;  
 
-b.  *de wet*: de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md).   
+b.  *de wet*: de Wet ter voorkoming van witwassen en financieren van terrorisme.   
 
 ### Artikel  2  
 
-[Artikel 6, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) zijn van overeenkomstige toepassing op 100 procent dochtermaatschappijen van de in [artikel 6, eerste lid, onderdelen c en d van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) genoemde cliënten. 
+Artikel 6, eerste en tweede lid, van de wet zijn van overeenkomstige toepassing op 100 procent dochtermaatschappijen van de in artikel 6, eerste lid, onderdelen c en d van de wet genoemde cliënten. 
 
 ### Artikel  3  
 
-[Artikel 7, eerste en tweede lid, van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) zijn van overeenkomstige toepassing op producten of transacties die voldoen aan de voorwaarden, genoemd in artikel 3, derde lid, van richtlijn nr. 2006/70/EG van de Commissie van de Europese Gemeenschappen van 1 augustus 2006 tot vaststelling van uitvoeringsmaatregelen van Richtlijn 2005/60/EG van het Europees Parlement en de Raad wat betreft de definitie van politiek prominente personen en wat betreft de technische criteria voor vereenvoudigde klantenonderzoeksprocedures en voor vrijstellingen op grond van occasionele of zeer beperkte financiële activiteiten (PbEU L 214). 
+Artikel 7, eerste en tweede lid, van de wet zijn van overeenkomstige toepassing op producten of transacties die voldoen aan de voorwaarden, genoemd in artikel 3, derde lid, van richtlijn nr. 2006/70/EG van de Commissie van de Europese Gemeenschappen van 1 augustus 2006 tot vaststelling van uitvoeringsmaatregelen van Richtlijn 2005/60/EG van het Europees Parlement en de Raad wat betreft de definitie van politiek prominente personen en wat betreft de technische criteria voor vereenvoudigde klantenonderzoeksprocedures en voor vrijstellingen op grond van occasionele of zeer beperkte financiële activiteiten (PbEU L 214). 
 
 ### Artikel  4  
 
-De indicatoren, bedoeld in [artikel 15, eerste lid, van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), worden vastgesteld zoals opgenomen in de bijlage bij dit besluit. 
+De indicatoren, bedoeld in artikel 15, eerste lid, van de wet, worden vastgesteld zoals opgenomen in de bijlage bij dit besluit. 
 
 ### Artikel  5  
 
-1.  De bevoegdheden die Onze Minister heeft op grond van de [artikelen 26, eerste lid](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [27, eerste lid](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), [28, vierde lid](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), en [29 van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), worden overgedragen aan De Nederlandsche Bank N.V., de Stichting Autoriteit Financiële Markten en het Bureau Financieel Toezicht.   
+1.  De bevoegdheden die Onze Minister heeft op grond van de artikelen 26, eerste lid, 27, eerste lid, 28, vierde lid, en 29 van de wet, worden overgedragen aan De Nederlandsche Bank N.V., de Stichting Autoriteit Financiële Markten en het Bureau Financieel Toezicht.   
 2.  Aan de overdracht van bevoegdheden, bedoeld in het eerste lid, worden de volgende voorschriften verbonden: 
 
-a. de personen, bedoeld in het eerste lid, verstrekken onverwijld aan Onze Minister op zijn verzoek alle inlichtingen die van belang kunnen zijn voor de nakoming van internationale afspraken en verplichtingen of voor een onderzoek naar de toereikendheid van de [wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md);  
+a. de personen, bedoeld in het eerste lid, verstrekken onverwijld aan Onze Minister op zijn verzoek alle inlichtingen die van belang kunnen zijn voor de nakoming van internationale afspraken en verplichtingen of voor een onderzoek naar de toereikendheid van de wet;  
 
 b. de personen, bedoeld in het eerste lid, dragen bij aan de totstandkoming van procedurele afspraken met betrekking tot de handhaving tussen hen en de betrokken ministeries en andere overheidsinstellingen;  
 
-c. de personen, bedoeld in het eerste lid, maken afspraken met andere personen die belast zijn met het toezicht op de naleving van de [wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) over de onderlinge samenwerking en informatie-uitwisseling ten behoeve van de uitoefening van de door dit besluit overgedragen bevoegdheden.    
+c. de personen, bedoeld in het eerste lid, maken afspraken met andere personen die belast zijn met het toezicht op de naleving van de wet over de onderlinge samenwerking en informatie-uitwisseling ten behoeve van de uitoefening van de door dit besluit overgedragen bevoegdheden.    
 
 ### Artikel  6  
 
@@ -86,7 +86,7 @@ Wijzigt het Reglement rijbewijzen.
 
 ### Artikel  16  
 
-Dit besluit treedt in werking op het tijdstip waarop de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md) in werking treedt. 
+Dit besluit treedt in werking op het tijdstip waarop de Wet ter voorkoming van witwassen en financieren van terrorisme in werking treedt. 
 
 ### Artikel  17  
 
@@ -135,7 +135,7 @@ Contante transacties met een waarde van € 15.000 of meer waarbij contante omw
 
 ####Geldtransfers
 
-Contante transacties van € 2.000 of meer waarbij de gelden ter beschikking worden gesteld in de vorm van chartaal geld of cheques, of door middel van een credit-of debetcard, dan wel betaalbaar worden gesteld in de vorm van chartaal geld, cheques of door storting op rekening, tenzij het een transactie betreft door een geldtransactiekantoor dat de afwikkeling van de transactie overlaat aan een ander geldtransactiekantoor waarop de meldingsplicht, bedoeld in [artikel 16 van de wet](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md), eveneens van toepassing is. 
+Contante transacties van € 2.000 of meer waarbij de gelden ter beschikking worden gesteld in de vorm van chartaal geld of cheques, of door middel van een credit-of debetcard, dan wel betaalbaar worden gesteld in de vorm van chartaal geld, cheques of door storting op rekening, tenzij het een transactie betreft door een geldtransactiekantoor dat de afwikkeling van de transactie overlaat aan een ander geldtransactiekantoor waarop de meldingsplicht, bedoeld in artikel 16 van de wet, eveneens van toepassing is. 
 
 ####Transacties met aangewezen landen
 
@@ -195,5 +195,5 @@ Transacties van € 15.000 euro of meer betaald aan of door tussenkomst van de 
 
 ####Procedurele aspecten rondom een melding
 
-Voor alle indicatoren geldt dat melding verplicht is van transacties of voorgenomen transacties indien de transactie is verricht of voorgenomen bij het verlenen van een dienst in de zin van de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md). Wat betreft de termijn waarbinnen gemeld dient te worden, wordt opgemerkt dat de transacties onverwijld nadat het ongebruikelijke karakter van de transactie is vastgesteld moeten worden gemeld (zie ook [artikel 16 van de Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md)). Dit houdt in dat in ieder geval binnen veertien dagen moet worden gemeld, en zoveel eerder als feitelijk mogelijk bij voldoende zorgvuldige interne afweging of een transactie als ongebruikelijk moet worden beschouwd.Verder ligt het in de rede dat transacties die in verband met witwassen aan politie of Openbaar Ministerie worden gemeld, ook aan het Meldpunt moeten worden gemeld; er is immers een vermoeden van witwassen. Uiteraard luiden de genoemde bedragen in euro of de tegenwaarde daarvan in een vreemde valuta. 
+Voor alle indicatoren geldt dat melding verplicht is van transacties of voorgenomen transacties indien de transactie is verricht of voorgenomen bij het verlenen van een dienst in de zin van de Wet ter voorkoming van witwassen en financieren van terrorisme. Wat betreft de termijn waarbinnen gemeld dient te worden, wordt opgemerkt dat de transacties onverwijld nadat het ongebruikelijke karakter van de transactie is vastgesteld moeten worden gemeld (zie ook artikel 16 van de Wet ter voorkoming van witwassen en financieren van terrorisme). Dit houdt in dat in ieder geval binnen veertien dagen moet worden gemeld, en zoveel eerder als feitelijk mogelijk bij voldoende zorgvuldige interne afweging of een transactie als ongebruikelijk moet worden beschouwd.Verder ligt het in de rede dat transacties die in verband met witwassen aan politie of Openbaar Ministerie worden gemeld, ook aan het Meldpunt moeten worden gemeld; er is immers een vermoeden van witwassen. Uiteraard luiden de genoemde bedragen in euro of de tegenwaarde daarvan in een vreemde valuta. 
 
