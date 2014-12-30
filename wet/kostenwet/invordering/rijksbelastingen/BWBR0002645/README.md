@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-In afwijking van de[ afdelingen 4.4.4](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) en [4.4.5 van de Algemene wet bestuursrecht](../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) worden ter zake van het verrichten van werkzaamheden voor de invordering van bedragen door de zorg van een inzake rijksbelastingen bevoegde ontvanger en door een belastingdeurwaarder op grond van de bepalingen van de [Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) of enige andere wettelijke bepaling aan degene die in gebreke is gebleven het verschuldigde tijdig te betalen, kosten in rekening gebracht volgens het bepaalde in de volgende artikelen, tenzij ter zake kosten verschuldigd zijn op grond van [artikel 8.39 van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).  
+In afwijking van de afdelingen 4.4.4 en 4.4.5 van de Algemene wet bestuursrecht worden ter zake van het verrichten van werkzaamheden voor de invordering van bedragen door de zorg van een inzake rijksbelastingen bevoegde ontvanger en door een belastingdeurwaarder op grond van de bepalingen van de Invorderingswet 1990 of enige andere wettelijke bepaling aan degene die in gebreke is gebleven het verschuldigde tijdig te betalen, kosten in rekening gebracht volgens het bepaalde in de volgende artikelen, tenzij ter zake kosten verschuldigd zijn op grond van artikel 8.39 van de Belastingwet BES.  
 
 ### Artikel  2  
 
@@ -36,8 +36,8 @@ Behalve de in de voorgaande artikelen genoemde bedragen worden in rekening gebra
 
 ### Artikel  7  
 
-1.  Tegen de door de ontvanger of de belastingdeurwaarder in rekening gebrachte kosten van vervolging welke niet voortspruiten uit de gerechtelijke tenuitvoerlegging van het dwangbevel kan degene van wie die kosten worden gevorderd een bezwaarschrift, onderscheidenlijk een beroepschrift indienen bij de ontvanger. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de in de eerste volzin bedoelde beschikking is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
-2.   Het bezwaar- of beroepschrift kan niet zijn gegrond op de stelling dat het aanslagbiljet, de aanmaning, het op de voet van [artikel 13, derde lid, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) betekende dwangbevel of de schriftelijke mededeling, genoemd in [artikel 27, eerste lid, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) niet is ontvangen, tenzij degene van wie de kosten worden gevorderd aannemelijk maakt dat ontvangst redelijkerwijs moet worden betwijfeld.  
+1.  Tegen de door de ontvanger of de belastingdeurwaarder in rekening gebrachte kosten van vervolging welke niet voortspruiten uit de gerechtelijke tenuitvoerlegging van het dwangbevel kan degene van wie die kosten worden gevorderd een bezwaarschrift, onderscheidenlijk een beroepschrift indienen bij de ontvanger. Op het bezwaar, beroep, hoger beroep en beroep in cassatie inzake de in de eerste volzin bedoelde beschikking is hoofdstuk V van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.   
+2.   Het bezwaar- of beroepschrift kan niet zijn gegrond op de stelling dat het aanslagbiljet, de aanmaning, het op de voet van artikel 13, derde lid, van de Invorderingswet 1990 betekende dwangbevel of de schriftelijke mededeling, genoemd in artikel 27, eerste lid, van de Invorderingswet 1990 niet is ontvangen, tenzij degene van wie de kosten worden gevorderd aannemelijk maakt dat ontvangst redelijkerwijs moet worden betwijfeld.  
 
 ### Artikel  8  
 

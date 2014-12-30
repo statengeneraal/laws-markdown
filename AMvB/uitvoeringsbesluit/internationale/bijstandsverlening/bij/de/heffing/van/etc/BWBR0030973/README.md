@@ -39,6 +39,32 @@ c. de gegevens of inlichtingen door Onze Minister zijn aangewezen als van verstr
 
 d. zulks overigens naar het oordeel van Onze Minister niet nodig is.    
 
+### Artikel  2a  
+Treedt in werking per 01-01-2015 
+
+1.  Als administratieplichtigen als bedoeld in artikel 8, vierde lid, van de wet worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: Nederlandse financiële instellingen als bedoeld in artikel 1, eerste lid, onderdeel l, van het FATCA-verdrag, met uitzondering van de niet-rapporterende Nederlandse financiële instellingen, bedoeld in artikel 1, eerste lid, onderdeel q, van het FATCA-verdrag.   
+2.  Als gegevens en inlichtingen als bedoeld in artikel 8, vierde lid, van de wet worden aangewezen: de gegevens en inlichtingen, bedoeld in artikel 2, tweede lid, onderdeel a, onder (1) tot en met (7), van het FATCA-verdrag, ter zake van Amerikaanse te rapporteren rekeningen als bedoeld in artikel 1, eerste lid, onderdeel cc, van het FATCA-verdrag, te bepalen met inachtneming van artikel 3, eerste, tweede en vierde lid, van het FATCA-verdrag en de bepalingen in de bijlagen I en II van het FATCA-verdrag.   
+3.  Voor de toepassing van het eerste en tweede lid is het een financiële instelling, met inachtneming van artikel 4, zevende lid, van het FATCA-verdrag, toegestaan om in plaats van gebruik te maken van de begripsomschrijvingen in artikel 1 van het FATCA-verdrag en in de bijlagen van het FATCA-verdrag, gebruik te maken van dienovereenkomstige begripsomschrijvingen in de voorschriften van het Amerikaanse Ministerie van Financiën, bedoeld in artikel 4, zevende lid, van het FATCA-verdrag.   
+4.  Een administratieplichtige volgt de procedures die zijn opgenomen in bijlage I van het FATCA-verdrag teneinde Amerikaanse te rapporteren rekeningen te identificeren. Een administratieplichtige mag zich, met inachtneming van bijlage I, sectie VI, onderdeel F, van het FATCA-verdrag, bij de toepassing van de eerste volzin baseren op door derden uitgevoerde procedures voor zover voorzien in de daarop betrekking hebbende voorschriften van het Amerikaanse Ministerie van Financiën, bedoeld in bijlage I, sectie VI, onderdeel F, van het FATCA-verdrag.   
+5.  In afwijking van het vierde lid, eerste volzin, is het een administratieplichtige, met inachtneming van bijlage I, sectie I, onderdeel C, van het FATCA-verdrag, toegestaan om voor het identificeren van Amerikaanse te rapporteren rekeningen de procedures toe te passen die zijn opgenomen in de daarop betrekking hebbende voorschriften van het Amerikaanse Ministerie van Financiën, bedoeld in bijlage I, sectie I, onderdeel C, van het FATCA-verdrag. Van de mogelijkheid, bedoeld in de eerste volzin, kan gebruik worden gemaakt per sectie van bijlage I afzonderlijk, hetzij voor alle relevante financiële rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk. Het vierde lid, tweede volzin, is van overeenkomstige toepassing.   
+6.  Een administratieplichtige mag gebruikmaken van de keuzemogelijkheden, bedoeld in bijlage I, sectie II, onderdeel A, sectie III, onderdeel A, sectie IV, onderdeel A, en sectie V, onderdeel A, van het FATCA-verdrag. Een administratieplichtige die gebruikmaakt van een keuzemogelijkheid als bedoeld in de eerste volzin, is, afhankelijk van de gemaakte keuze, ter zake van Amerikaanse te rapporteren rekeningen als bedoeld in artikel 1, eerste lid, onderdeel cc, van het FATCA-verdrag, verplicht om met inachtneming van de bepalingen van het FATCA-verdrag, gegevens en inlichtingen te verstrekken over: 
+
+a. de rekeningen, bedoeld in bijlage I, sectie II, onderdeel A, onder 1 tot en met 4, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk;  
+
+b. de rekeningen, bedoeld in bijlage I, sectie III, onderdeel A, onder 1 en 2, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk;  
+
+c. de rekeningen, bedoeld in bijlage I, sectie IV, onderdeel A, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk;  
+
+d. de rekeningen, bedoeld in bijlage I, sectie V, onderdeel A, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk.     
+7.  Ingeval ingevolge artikel 7 van het FATCA-verdrag gunstigere bepalingen van toepassing zijn dan ingevolge artikel 4 van het FATCA-verdrag en bijlage I van het FATCA-verdrag, mag een administratieplichtige deze gunstigere bepalingen toepassen. Onze Minister maakt de gunstigere bepalingen, bedoeld in de eerste volzin, op een daartoe geschikte wijze publiek bekend.   
+8.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.  
+
+### Artikel  2b  
+Treedt in werking per 01-01-2015 
+
+1.  Als gegevens en inlichtingen als bedoeld in artikel 8, vierde lid, van de wet worden voor administratieplichtigen als bedoeld in artikel 2a, eerste lid, mede aangewezen: de naam van elke niet-participerende financiële instelling als bedoeld in artikel 1, eerste lid, onderdeel r, van het FATCA-verdrag, waaraan de administratieplichtige een of meer betalingen heeft verricht en het totaalbedrag van deze betalingen, te bepalen met inachtneming van artikel 3, tweede lid, van het FATCA-verdrag en de bepalingen in de bijlagen I en II van het FATCA-verdrag.   
+2.  Artikel 2a, derde, vierde, vijfde, zevende en achtste lid, is voor de toepassing van het eerste lid van overeenkomstige toepassing.  
+
 ### Artikel  3  
 
 De administratieplichtigen, bedoeld in artikel 2, eerste lid, zijn gehouden bij de gegevens en inlichtingen, bedoeld in artikel 2, tweede lid, de naam, het adres en, indien dat bekend is, het door de fiscale woonstaat toegekende fiscaal identificatienummer van degene op wie de gegevens en inlichtingen betrekking hebben, te verstrekken. Indien het fiscaal identificatienummer niet bekend is, worden de naam en het adres van degene op wie de gegevens en inlichtingen betrekking hebben, aangevuld met de vermelding van diens geboorteplaats en geboortedatum, zoals vermeld in het paspoort of op een officiële identiteitskaart. 

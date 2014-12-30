@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Financiën van 17 november 2010, nr. AFP 2010/557;
 
-Gelet op de [artikelen 8.39](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.69](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.89](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.95](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.109](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [8.115a van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [artikel 3, vierde lid, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md);
+Gelet op de artikelen 8.39, 8.69, 8.89, 8.95, 8.109 en 8.115a van de Belastingwet BES en artikel 3, vierde lid, van de Wet loonbelasting BES;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 10 december 2010, nr. W06.10.0531/III);
 
@@ -18,10 +18,10 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1.1  
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 8.39](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.69](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.89](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.95](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.109](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [8.115a van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [artikel 3, vierde lid, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) en [artikel 14 van de Wet geldstelsel BES](../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md).   
+1.  Dit besluit geeft uitvoering aan de artikelen 8.39, 8.69, 8.89, 8.95, 8.109 en 8.115a van de Belastingwet BES, artikel 3, vierde lid, van de Wet loonbelasting BES en artikel 14 van de Wet geldstelsel BES.   
 2.  Dit besluit verstaat onder: 
 
-a. *wet:* [Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md);  
+a. *wet:* Belastingwet BES;  
 
 b. *CBS versie 2 mei 1998:* door het Centraal Bureau voor de Statistiek gehanteerde bedrijfstakclassificatie, versie 2 mei 1998, op basis van de International Standard Industrial Classification of all Economic Activities.    
 
@@ -82,7 +82,7 @@ Naast de in de artikelen 2.2 tot en met 2.4 genoemde bedragen worden in rekening
 
 ### Artikel  3.1  
 
-De [artikelen 8.67](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [8.68 van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) zijn niet van toepassing in de volgende bedrijfssectoren en bedrijfstakken: 
+De artikelen 8.67 en 8.68 van de wet zijn niet van toepassing in de volgende bedrijfssectoren en bedrijfstakken: 
 
 a. landbouw, jacht en bosbouw, zoals omschreven in letter A, onderdelen 1 en 2, van de CBS versie 2 mei 1998;  
 
@@ -122,7 +122,7 @@ p. extraterritoriale organisaties en lichamen, voor zover al niet uitgezonderd, 
 
 ### Artikel  4.1  
 
-Aan deskundigen en tolken die door de inspecteur met toepassing van [artikel 8.89 van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) zijn aangewezen of door de Raad van Beroep voor belastingzaken met toepassing van [artikel 8.109 van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) zijn opgeroepen, wordt een vergoeding toegekend overeenkomstig het [Besluit tarieven in burgerlijke zaken BES](../../../../../AMvB-BES/besluit/tarieven/in/burgerlijke/zaken/bes/BWBR0028448/README.md). 
+Aan deskundigen en tolken die door de inspecteur met toepassing van artikel 8.89 van de wet zijn aangewezen of door de Raad van Beroep voor belastingzaken met toepassing van artikel 8.109 van de wet zijn opgeroepen, wordt een vergoeding toegekend overeenkomstig het Besluit tarieven in burgerlijke zaken BES. 
 
 ### Hoofdstuk  5  
 
@@ -130,7 +130,7 @@ Aan deskundigen en tolken die door de inspecteur met toepassing van [artikel 8.8
 
 ### Artikel  5.1  
 
-Een vergoeding van de kosten als bedoeld in de [artikelen 8.95](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [8.115a van de wet](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) kan uitsluitend betrekking hebben op: 
+Een vergoeding van de kosten als bedoeld in de artikelen 8.95 en 8.115a van de wet kan uitsluitend betrekking hebben op: 
 
 a. kosten van door een derde verleende beroepsmatige bijstand;  
 
@@ -148,9 +148,9 @@ e. kosten van uittreksels uit openbare registers, alsmede kosten van telegrammen
 
 a. ten aanzien van de kosten, bedoeld in artikel 5.1, onderdeel a: overeenkomstig het in de bijlage bij dit besluit opgenomen tarief;  
 
-b. ten aanzien van de kosten, bedoeld in artikel 5.1, onderdeel b: op de vergoeding die ingevolge [artikel 40, eerste lid, van de Wet administratieve rechtspraak BES](../../../../../wet-BES/wet/administratieve/rechtspraak/bes/BWBR0028455/README.md) is verschuldigd;  
+b. ten aanzien van de kosten, bedoeld in artikel 5.1, onderdeel b: op de vergoeding die ingevolge artikel 40, eerste lid, van de Wet administratieve rechtspraak BES is verschuldigd;  
 
-c. ten aanzien van de kosten, bedoeld in artikel 5.1, onderdeel c: overeenkomstig [artikel 15, eerste lid, van het Besluit tarieven in burgerlijke zaken BES](../../../../../AMvB-BES/besluit/tarieven/in/burgerlijke/zaken/bes/BWBR0028448/README.md);  
+c. ten aanzien van de kosten, bedoeld in artikel 5.1, onderdeel c: overeenkomstig artikel 15, eerste lid, van het Besluit tarieven in burgerlijke zaken BES;  
 
 d. ten aanzien van de kosten, bedoeld in artikel 5.1, onderdeel d: overeenkomstig een tarief dat, afhankelijk van de omstandigheden, tussen USD 2,25 en USD 36,30 per uur bedraagt;  
 
@@ -173,11 +173,11 @@ De in hoofdstuk 5 voorkomende bedragen kunnen bij regeling van Onze Minister van
 
 ### Hoofdstuk  7  
 
-####Sectoren ten aanzien waarvan [artikel 3, tweede lid, onderdelen f en g, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) geen toepassing vindt
+####Sectoren ten aanzien waarvan artikel 3, tweede lid, onderdelen f en g, van de Wet loonbelasting BES geen toepassing vindt
 
 ### Artikel  7.1  
 
-Ten aanzien van de in artikel 3.1 van dit besluit opgesomde bedrijfssectoren en bedrijfstakken is [artikel 3, tweede lid, onderdelen f en g, van de Wet loonbelasting BES](../../../../../wet-BES/wet/loonbelasting/bes/BWBR0029283/README.md) niet van toepassing. 
+Ten aanzien van de in artikel 3.1 van dit besluit opgesomde bedrijfssectoren en bedrijfstakken is artikel 3, tweede lid, onderdelen f en g, van de Wet loonbelasting BES niet van toepassing. 
 
 ### Hoofdstuk  7a  
 
@@ -185,7 +185,46 @@ Ten aanzien van de in artikel 3.1 van dit besluit opgesomde bedrijfssectoren en 
 
 ### Artikel  7a.1  
 
-Op het tijdstip van transitie, bedoeld in [artikel 13a, onderdeel a, van de Wet geldstelsel BES](../../../../../wet-BES/wet/geldstelsel/bes/BWBR0028551/README.md), gaan de taken en bevoegdheden van de Gouverneur en het bestuurscollege, bedoeld in de Landsverordening ter bevordering van bedrijfsvestiging en hotelbouw, de Landsverordening belastingfaciliteiten industriële ondernemingen, de Landsverordening renovatie hotels en de Landsverordening ter bevordering van grondontwikkeling, over op de directeur-generaal Belastingdienst, bedoeld in de op [artikel 3 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) gebaseerde ministeriële regeling. 
+Op het tijdstip van transitie, bedoeld in artikel 13a, onderdeel a, van de Wet geldstelsel BES, gaan de taken en bevoegdheden van de Gouverneur en het bestuurscollege, bedoeld in de Landsverordening ter bevordering van bedrijfsvestiging en hotelbouw, de Landsverordening belastingfaciliteiten industriële ondernemingen, de Landsverordening renovatie hotels en de Landsverordening ter bevordering van grondontwikkeling, over op de directeur-generaal Belastingdienst, bedoeld in de op artikel 3 van de Algemene wet inzake rijksbelastingen gebaseerde ministeriële regeling. 
+
+### Hoofdstuk  7b  
+
+####Gegevensuitwisseling
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  7b.1  
+Treedt in werking per 01-01-2015 
+
+1.  Als administratieplichtigen als bedoeld in artikel 8.129, vierde lid, van de wet worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: Nederlandse financiële instellingen als bedoeld in artikel 1, eerste lid, onderdeel l, van het FATCA-verdrag, met uitzondering van de niet-rapporterende Nederlandse financiële instellingen, bedoeld in artikel 1, eerste lid, onderdeel q, van het FATCA-verdrag.   
+2.  Als gegevens en inlichtingen als bedoeld in artikel 8.129, vierde lid, van de wet worden aangewezen: de gegevens en inlichtingen, bedoeld in artikel 2, tweede lid, onderdeel a, onder (1) tot en met (7), van het FATCA-verdrag, ter zake van Amerikaanse te rapporteren rekeningen als bedoeld in artikel 1, eerste lid, onderdeel cc, van het FATCA-verdrag, te bepalen met inachtneming van artikel 3, eerste, tweede en vierde lid, van het FATCA-verdrag en de bepalingen in de bijlagen I en II van het FATCA-verdrag.   
+3.  Voor de toepassing van het eerste en tweede lid is het een financiële instelling, met inachtneming van artikel 4, zevende lid, van het FATCA-verdrag, toegestaan om in plaats van gebruik te maken van de begripsomschrijvingen in artikel 1 van het FATCA-verdrag en in de bijlagen van het FATCA-verdrag, gebruik te maken van dienovereenkomstige begripsomschrijvingen in de voorschriften van het Amerikaanse Ministerie van Financiën, bedoeld in artikel 4, zevende lid, van het FATCA-verdrag.   
+4.  Een administratieplichtige volgt de procedures die zijn opgenomen in bijlage I van het FATCA-verdrag teneinde Amerikaanse te rapporteren rekeningen te identificeren. Een administratieplichtige mag zich, met inachtneming van bijlage I, sectie VI, onderdeel F, van het FATCA-verdrag, bij de toepassing van de eerste volzin baseren op door derden uitgevoerde procedures voor zover voorzien in de daarop betrekking hebbende voorschriften van het Amerikaanse Ministerie van Financiën, bedoeld in bijlage I, sectie VI, onderdeel F, van het FATCA-verdrag.   
+5.  In afwijking van het vierde lid, eerste volzin, is het een administratieplichtige, met inachtneming van bijlage I, sectie I, onderdeel C, van het FATCA-verdrag, toegestaan om voor het identificeren van Amerikaanse te rapporteren rekeningen de procedures toe te passen die zijn opgenomen in de daarop betrekking hebbende voorschriften van het Amerikaanse Ministerie van Financiën, bedoeld in bijlage I, sectie I, onderdeel C, van het FATCA-verdrag. Van de mogelijkheid, bedoeld in de eerste volzin, kan gebruik worden gemaakt per sectie van bijlage I afzonderlijk, hetzij voor alle relevante financiële rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk. Het vierde lid, tweede volzin, is van overeenkomstige toepassing.   
+6.  Een administratieplichtige mag gebruikmaken van de keuzemogelijkheden, bedoeld in bijlage I, sectie II, onderdeel A, sectie III, onderdeel A, sectie IV, onderdeel A, en sectie V, onderdeel A, van het FATCA-verdrag. Een administratieplichtige die gebruikmaakt van een keuzemogelijkheid als bedoeld in de eerste volzin, is, afhankelijk van de gemaakte keuze, ter zake van Amerikaanse te rapporteren rekeningen als bedoeld in artikel 1, eerste lid, onderdeel cc, van het FATCA-verdrag, verplicht om met inachtneming van de bepalingen van het FATCA-verdrag, gegevens en inlichtingen te verstrekken over: 
+
+a. de rekeningen, bedoeld in bijlage I, sectie II, onderdeel A, onder 1 tot en met 4, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk;  
+
+b. de rekeningen, bedoeld in bijlage I, sectie III, onderdeel A, onder 1 en 2, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk;  
+
+c. de rekeningen, bedoeld in bijlage I, sectie IV, onderdeel A, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk;  
+
+d. de rekeningen, bedoeld in bijlage I, sectie V, onderdeel A, van het FATCA-verdrag, hetzij voor al deze rekeningen, hetzij voor elke duidelijk omschreven groep van dergelijke rekeningen afzonderlijk.     
+7.  Ingeval ingevolge artikel 7 van het FATCA-verdrag gunstigere bepalingen van toepassing zijn dan ingevolge artikel 4 van het FATCA-verdrag en bijlage I van het FATCA-verdrag, mag een administratieplichtige deze gunstigere bepalingen toepassen. Onze Minister maakt de gunstigere bepalingen, bedoeld in de eerste volzin, op een daartoe geschikte wijze publiek bekend.   
+8.  Een administratieplichtige is gehouden de gegevens en inlichtingen te verstrekken op de door Onze Minister voorgeschreven wijze en met een door Onze Minister voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt: 
+
+a. indien Onze Minister maandelijkse aanlevering voorschrijft: de laatste dag van de kalendermaand volgend op de kalendermaand waarop de gegevens en inlichtingen betrekking hebben;  
+
+b. indien Onze Minister jaarlijkse aanlevering gedurende het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben voorschrijft: 30 april van dat kalenderjaar;  
+
+c. indien Onze Minister jaarlijkse aanlevering na afloop van het kalenderjaar waarop de gegevens en inlichtingen betrekking hebben voorschrijft: 31 januari volgend op dat kalenderjaar.     
+9.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.  
+
+### Artikel  7b.2  
+Treedt in werking per 01-01-2015 
+
+1.  Als gegevens en inlichtingen als bedoeld in artikel 8.129, vierde lid, van de wet worden voor administratieplichtigen als bedoeld in artikel 7b.1, eerste lid, mede aangewezen: de naam van elke niet-participerende financiële instelling als bedoeld in artikel 1, eerste lid, onderdeel r, van het FATCA-verdrag, waaraan de administratieplichtige een of meer betalingen heeft verricht en het totaalbedrag van deze betalingen, te bepalen met inachtneming van artikel 3, tweede lid, van het FATCA-verdrag en de bepalingen in de bijlagen I en II van het FATCA-verdrag.   
+2.  Artikel 7b.1, derde, vierde, vijfde, zevende, achtste en negende lid, is voor de toepassing van het eerste lid van overeenkomstige toepassing.  
 
 ### Hoofdstuk  8  
 
@@ -230,11 +269,11 @@ Het bedrag van de kosten, bedoeld in artikel 5.1, onderdeel a, van het Uitvoerin
 |--- |--- |  *punten*   |
 |:---|:---|:---|
 |  *beroep*   |
-| 1.  | beroepschrift/verweerschrift ([artikelen 8.103](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.105](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md))  | 1  |
-| 2.  | repliek/dupliek ([artikel 8.106](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md))  | 0,5  |
-| 3.  | verschijnen (inlichtingen)comparitie ([8.108](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md))  | 0,5  |
-| 4.  | verschijnen onderzoek ter zitting ([artikel 8.107](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md))  | 1  |
-| 5.  | nadere zitting ([artikel 8.111](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md))  | 0,5  |
+| 1.  | beroepschrift/verweerschrift (artikelen 8.103, 8.105)  | 1  |
+| 2.  | repliek/dupliek (artikel 8.106)  | 0,5  |
+| 3.  | verschijnen (inlichtingen)comparitie (8.108)  | 0,5  |
+| 4.  | verschijnen onderzoek ter zitting (artikel 8.107)  | 1  |
+| 5.  | nadere zitting (artikel 8.111)  | 0,5  |
 
 ### A2  
 
@@ -243,8 +282,8 @@ Het bedrag van de kosten, bedoeld in artikel 5.1, onderdeel a, van het Uitvoerin
 |--- |--- |  *punten*   |
 |:---|:---|:---|
 |  *Bezwaar*   |
-| 1.  | bezwaarschrift ([artikel 8.92](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md))  | 1  |
-| 2.  | verschijnen hoorzitting ([artikel 8.93](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md))  | 1  |
+| 1.  | bezwaarschrift (artikel 8.92)  | 1  |
+| 2.  | verschijnen hoorzitting (artikel 8.93)  | 1  |
 
 ### B  
 

@@ -111,37 +111,21 @@ Treedt in werking per 01-01-2015
 
 ### Artikel  11  
 
-####Indicatiebesluit
-
-Treedt in werking per 01-01-2015 
-
-In dit hoofdstuk wordt verstaan onder indicatiebesluit: een besluit van een indicatieorgaan als bedoeld in artikel 9a van de AWBZ, onderscheidenlijk van de stichting, bedoeld in artikel 9b, vierde lid, van de AWBZ, waarbij beoordeeld wordt of en in welke omvang het kind is aangewezen op een of meer vormen van zorg als bedoeld in artikel 2 van het Zorgindicatiebesluit, onderscheidenlijk artikel 9, onderdeel a, van het Uitvoeringsbesluit Wet op de jeugdzorg. 
-
-### Artikel  12  
-
 ####Aanwijzing intensieve zorg
 
 Treedt in werking per 01-01-2015 
 
-Van intensieve zorg als bedoeld in artikel 7a, eerste lid, van de wet is sprake indien het kind blijkens een geldig indicatiebesluit is aangewezen op tien of meer uren per week zorg als bedoeld in de artikelen 4, 5, 6, 8, 9, 9a en 13 van het Besluit zorgaanspraken AWBZ, waarbij voor behandeling, begeleiding, verblijf of voortgezet verblijf een dagdeel geldt als 4 uren en een etmaal als 24 uren. 
+1. Van intensieve zorg als bedoeld in artikel 7a, eerste lid, van de wet is sprake als het een kind betreft dat zodanig ernstig beperkt is in het dagelijks functioneren als gevolg van een ziekte of stoornis van lichamelijke, verstandelijke, zintuiglijke of geestelijke aard dat de verzorging en oppassing door de ouders in ernstige mate wordt verzwaard.
+2. Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de wijze waarop vastgesteld wordt of er sprake is van intensieve zorg als bedoeld in het eerste lid. 
 
-### Artikel  13  
+### Artikel  12  
 
-####Met indicatiebesluit gelijk te stellen besluiten
-
-Treedt in werking per 01-01-2015 
-
-1.  Met een indicatiebesluit wordt gelijkgesteld een medisch advies van een door de Sociale verzekeringsbank aan te wijzen onafhankelijke deskundige organisatie, waaruit blijkt dat het kind dat in het buitenland woont een vergelijkbare behoefte aan intensieve zorg heeft als bedoeld in artikel 12.   
-2.  Met een indicatiebesluit wordt gelijkgesteld, voor wat betreft de zorg als bedoeld in artikel 8 van het Besluit zorgaanspraken AWBZ, die in verband met een zintuiglijke handicap wordt verleend, een verklaring die afgegeven is door een toegelaten zorgaanbieder met erkende deskundigheid, waaruit blijkt dat het kind, al dan niet in combinatie met een ander indicatiebesluit, is aangewezen op tien of meer uren per week zorg.  
-
-### Artikel  14  
-
-####Verplichting stukken te overleggen
+####Aanwijzing adviseur intensieve zorg
 
 Treedt in werking per 01-01-2015 
 
-1.  Indien ten aanzien van een kind een indicatiebesluit als bedoeld in artikel 11 is afgegeven, wordt ten behoeve van de vaststelling van het recht op een verdubbeling van het bedrag aan kinderbijslag, bedoeld in artikel 7a, eerste lid, van de wet, het indicatiebesluit bij de aanvraag overgelegd.   
-2.  Het eerste lid is van overeenkomstige toepassing op de verklaring, bedoeld in artikel 13, tweede lid.  
+1.  Om te bepalen of een kind intensieve zorg behoeft, wint de Sociale verzekeringsbank een op medische gegevens gebaseerd advies in bij het Centrum indicatiestelling zorg, genoemd in artikel 7.1.1, eerste lid, van de Wet langdurige zorg.   
+2.  Bij ministeriële regeling worden nadere regels gesteld met betrekking tot de procedure alsmede de beoordelingscriteria waarop het advies, bedoeld in het eerste lid, wordt gebaseerd.  
 
 ### Hoofdstuk  6  
 

@@ -102,6 +102,24 @@ Voor de toepassing van de artikelen 4:7 en 5:16 geldt een afwijkende regeling do
 3.  Het bevallingsverlof gaat in op de dag na de bevalling en bedraagt tien aaneengesloten weken vermeerderd met het aantal dagen dat het zwangerschapsverlof tot en met de vermoedelijke datum van bevalling, dan wel, indien eerder gelegen, tot en met de werkelijke datum van bevalling, minder dan zes weken heeft bedragen.   
 4.  Voor de toepassing van het derde lid worden dagen waarover de vrouwelijke werknemer op grond van artikel 29a, tweede lid, van de Ziektewet ziekengeld heeft genoten in de periode dat zij recht heeft op zwangerschapsverlof, maar dat verlof nog niet is ingegaan, aangemerkt als dagen waarover zij zwangerschapsverlof heeft genoten.  
 
+### Artikel  3:1a  
+
+####Overgang bevallingsverlof
+
+Treedt in werking per 01-01-2015 
+
+1.  Indien tijdens het bevallingsverlof de vrouwelijke werknemer overlijdt en een akte van geboorte van haar kind is opgemaakt heeft haar partner, indien deze werknemer is als bedoeld in artikel 3:6, recht op het resterende bevallingsverlof met behoud van loon.   
+2.  Voor de toepassing van dit hoofdstuk wordt als partner aangemerkt degene die: 
+
+a. ten tijde van het overlijden van de moeder met haar was gehuwd of een geregistreerd partnerschap was aangegaan; of  
+
+b. het kind heeft erkend.     
+3.  De duur van het resterende bevallingsverlof wordt berekend overeenkomstig artikel 3:1, derde en vijfde lid.   
+4.  De partner, die werknemer is als bedoeld in artikel 3:6, heeft ook recht op verlof met behoud van loon, indien de moeder van het kind een gelijkgestelde was als bedoeld in artikel 3:6, een zelfstandige of een beroepsbeoefenaar op arbeidsovereenkomst als bedoeld in artikel 3:17, eerste lid, of geen recht had op bevallingsverlof of een uitkering als bedoeld in afdeling 2 van hoofdstuk 3.   
+5.  De werkgever kan het op grond van het eerste of vierde lid voldane loon binnen zes weken na afloop van het resterende bevallingsverlof in rekening brengen bij het Uitvoeringsinstituut werknemersverzekeringen. De werkgever verstrekt genoemd instituut een afschrift van de akte van geboorte van het kind en van de akte van overlijden van de moeder. Het loon wordt door het Uitvoeringsinstituut werknemersverzekeringen aan de werkgever betaald zonder dat dit bij beschikking is vastgesteld, indien redelijkerwijs mag worden aangenomen dat aan een beschikking geen behoefte bestaat.   
+6.  Indien de moeder gelijkgestelde, zelfstandige of beroepsbeoefenaar op arbeidsovereenkomst was, wordt de duur van het verlof gelijkgesteld aan de duur van het resterende recht op uitkering, bedoeld in afdeling 2 van hoofdstuk 3. Indien de moeder geen recht had op bevallingsverlof of een uitkering als bedoeld in afdeling 2 van hoofdstuk 3, eindigt het verlof van de partner tien weken na de dag waarop het kind is geboren. Artikel 3:1, vijfde lid, is van overeenkomstige toepassing.   
+7.  De partner meldt het overlijden van de moeder en de opname van het verlof uiterlijk op de tweede dag volgend op haar overlijden bij zijn werkgever. De partner verstrekt de werkgever binnen vier weken na het overlijden van de moeder een afschrift van de akte van geboorte van het kind en van de akte van overlijden van de moeder.  
+
 ####Adoptieverlof
 
 ### Artikel  3:2  
@@ -486,6 +504,17 @@ c. indien het recht op eerstgenoemde uitkering ontstaat in het tijdvak van 52 we
 2. Op de beroepsbeoefenaar op arbeidsovereenkomst, bedoeld in artikel 3:17, onderdeel b, zoals dat onderdeel luidde op de dag voorafgaand aan de inwerkingtreding van artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ, die binnen 40 weken na de inwerkingtreding van dat artikel feitelijk een kind ter adoptie of pleegzorg heeft opgenomen, blijft hoofdstuk 3, afdeling 2, paragraaf 2, zoals dat luidde voorafgaand aan de inwerkingtreding van artikel II, onderdeel D, van de Wet einde toegang verzekering WAZ van toepassing met betrekking tot die opneming.
 3. In afwijking van het eerste en tweede lid komen de onder toepassing van dit artikel te betalen uitkeringen en de uitvoeringskosten met betrekking tot die uitkeringen ten laste van het Arbeidsongeschiktheidsfonds.
 
+####Overgangsrecht in verband met zwangerschap- en bevallingsverlof en de uitkering van anderen dan de vrouwelijke werknemer
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  3:31  
+Treedt in werking per 01-01-2015 
+
+1.  Indien de vrouwelijke werknemer op het tijdstip waarop de Wet van 17 december 2014 houdende modernisering regelingen voor verlof en arbeidstijden (Stb. 565) in werking treedt reeds met zwangerschaps- of bevallingsverlof is, blijven op dat verlof afdeling 1 en afdeling 2, paragraaf 1, van dit hoofdstuk van toepassing zoals die luidden op de dag voorafgaande aan het tijdstip van inwerkingtreding van genoemde wet.   
+2.  Indien de vrouwelijke gelijkgestelde, de vrouwelijke zelfstandige en de vrouwelijke beroepsbeoefenaar op arbeidsovereenkomst op het tijdstip waarop de in het eerste lid bedoelde wet in werking treedt een uitkering heeft in verband met haar zwangerschap of bevalling blijft op die uitkering afdeling 2, paragrafen 2 en 3, van dit hoofdstuk van toepassing zoals die luidde op de dag voorafgaande aan het tijdstip van inwerkingtreding van de in het eerste lid genoemde wet.   
+3.  Het recht op verlof, bedoeld in artikel 3:1a, eerste of vierde lid, en het recht op uitkering, bedoeld in artikel 3:18, tiende of elfde lid, zijn van toepassing op de partner, bedoeld in artikel 3:1a, tweede lid, indien de moeder bevallingsverlof of een uitkering als bedoeld in artikel 3.18 geniet, ingegaan voor de datum van inwerkingtreding van artikel I, onderdeel Ca, van de Wet van 17 december 2014 houdende modernisering regelingen voor verlof en arbeidstijden (Stb. 565) en de moeder na dat tijdstip overlijdt.  
+
 ### Hoofdstuk  4  
 
 ####Calamiteiten- en ander kort verzuimverlof
@@ -835,6 +864,20 @@ Van de artikelen 6:1, derde lid, 6:2, vierde lid, onderdeel b, 6:3, eerste lid, 
 ### Artikel  6:9  
 
 Behoudens artikel 6:8 kan van dit hoofdstuk niet ten nadele van de werknemer worden afgeweken. 
+
+### §  4*  
+
+####Overgangsrecht
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  6:10  
+
+####Overgangsrecht in verband met ouderschapsverlof
+
+Treedt in werking per 01-01-2015 
+
+Indien de werknemer op het tijdstip waarop de Wet van 17 december 2014 houdende wijziging van de Wet arbeid en zorg en de Wet aanpassing arbeidsduur in verband met vergroting van de gebruiksmogelijkheden van deze wetten, alsmede technische aanpassing van de Arbeidstijdenwet en actualisering van het overgangsrecht met betrekking tot de Wet arbeid en zorg (Stb. 565) in werking treedt, zijn voornemen tot het opnemen van het ouderschapsverlof, bedoeld in artikel 6:1, heeft gemeld aan zijn werkgever en die heeft ingestemd met de invulling daarvan, blijven op dat verlof de artikelen van hoofdstuk 6 van toepassing zoals die luidden op de dag voorafgaande aan het tijdstip inwerkingtreding van die wet.  
 
 ###Hoofdstuk 7 
 

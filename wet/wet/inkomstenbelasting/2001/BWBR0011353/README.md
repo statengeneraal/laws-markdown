@@ -3890,6 +3890,81 @@ d. die is gevestigd in een gebied dat steun ontvangt van het Europees Fonds voor
 5.  Op verzoek van een beleggingsinstelling wordt de in het vierde lid bedoelde aanloopperiode van drie maanden vervangen door een ingroeiperiode van maximaal twee jaar, indien de beleggingsinstelling voldoet aan bij ministeriële regeling te stellen voorwaarden.   
 6.  Bij ministeriële regeling kunnen voor de toepassing van dit artikel nadere regels worden gesteld.  
 
+### Afdeling  5.3B  
+
+#### *Vrijstelling nettopensioen* 
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  5.17a  
+
+####Netto-ouderdomspensioen
+
+Treedt in werking per 01-01-2015 
+
+1.  Een netto-ouderdomspensioen wordt tijdsevenredig opgebouwd op basis van een beschikbarepremieregeling en is gericht op een pensioen dat na 40 jaren opbouw niet meer bedraagt dan 75% van het gemiddelde bedrag dat ingevolge artikel 18ga van de Wet op de loonbelasting 1964 niet tot het pensioengevend loon behoort, vermenigvuldigd met de nettofactor, bedoeld in artikel 5.16, vierde lid. De beschikbare premie wordt ten hoogste bepaald met inachtneming van de uitgangspunten, bedoeld in artikel 18a, derde lid, onderdelen a, b en c, van de Wet op de loonbelasting 1964.   
+2.  Artikel 18a, vierde, vijfde en zesde lid, van de Wet op de loonbelasting 1964 is van overeenkomstige toepassing  
+
+### Artikel  5.17b  
+
+####Nettopartnerpensioen
+
+Treedt in werking per 01-01-2015 
+
+1.  Een nettopartnerpensioen wordt tijdsevenredig opgebouwd op basis van een beschikbarepremieregeling en is gericht op een pensioen dat na 40 jaren opbouw niet meer bedraagt dan 52,5% van het gemiddelde bedrag dat ingevolge artikel 18ga van de Wet op de loonbelasting 1964 niet tot het pensioengevend loon of bereikbaar pensioengevend loon behoort, vermenigvuldigd met de nettofactor, bedoeld in artikel 5.16, vierde lid. De beschikbare premie wordt ten hoogste bepaald met inachtneming van de uitgangspunten, bedoeld in artikel 18a, derde lid, onderdelen a, b en c, van de Wet op de loonbelasting 1964.   
+2.  Artikel 18b, vierde, vijfde en zesde lid, van de Wet op de loonbelasting 1964 is van overeenkomstige toepassing.  
+
+### Artikel  5.17c  
+
+####Nettowezenpensioen
+
+Treedt in werking per 01-01-2015 
+
+1.  Een nettowezenpensioen wordt tijdsevenredig opgebouwd op basis van een beschikbarepremieregeling en is gericht op een pensioen dat na 40 jaren opbouw niet meer bedraagt dan 10,5% van het gemiddelde bedrag dat ingevolge artikel 18ga van de Wet op de loonbelasting 1964 niet tot het pensioengevend loon of bereikbaar pensioengevend loon behoort, vermenigvuldigd met de nettofactor, bedoeld in artikel 5.16, vierde lid. De beschikbare premie wordt ten hoogste bepaald met inachtneming van de uitgangspunten, bedoeld in artikel 18a, derde lid, onderdelen a, b en c, van de Wet op de loonbelasting 1964.   
+2.  De artikelen 18b, vijfde lid, en 18c, vierde en zesde lid, van de Wet op de loonbelasting 1964 zijn van overeenkomstige toepassing.  
+
+### Artikel  5.17d  
+
+####Overschrijding maxima nettopensioen
+
+Treedt in werking per 01-01-2015 
+
+In afwijking in zoverre van de artikelen 5.17a tot en met 5.17c kunnen een netto-ouderdomspensioen, een nettopartnerpensioen en een nettowezenpensioen meer bedragen dan de aldaar opgenomen maxima voor zover zulks het gevolg is van de overeenkomstige toepassing van artikel 18d van de Wet op de loonbelasting 1964. 
+
+### Artikel  5.17e  
+
+####Onregelmatige handelingen met nettopensioen
+
+Treedt in werking per 01-01-2015 
+
+1.  Ingeval op enig tijdstip: 
+
+a. een aanspraak op een nettopensioen niet langer als zodanig is aan te merken;  
+
+b. een aanspraak ingevolge een nettopensioen geheel of gedeeltelijk wordt afgekocht of vervreemd dan wel formeel of feitelijk voorwerp van zekerheid wordt;  
+
+c. de verplichtingen met betrekking tot een aanspraak op een nettopensioen overgaan op een andere verzekeraar dan bedoeld in artikel 5.17, tweede lid, onderdeel c;  
+
+d. de belastingplichtige een bijdrage van een inhoudingsplichtige in de zin van de Wet op de loonbelasting 1964 heeft ontvangen ten behoeve van het nettopensioen, terwijl deze inhoudingsplichtige niet in dezelfde mate aan zijn overige werknemers die voor het overige in dezelfde omstandigheden verkeren een bijdrage heeft verstrekt;   vervalt op dat tijdstip voor de volledige aanspraak de toepassing van de vrijstelling, bedoeld in artikel 5.17, eerste lid.   
+2.  Na toepassing van het eerste lid in het voorafgaande kalenderjaar wordt tot de bezittingen gerekend een bedrag dat gelijk is aan de helft van de waarde van de aanspraak, bedoeld in het eerste lid, aan het begin van het voorafgaande kalenderjaar, vermenigvuldigd met tien.   
+3.  Ingeval de belastingplichtige aannemelijk maakt dat het bedrag van de belasting die is verschuldigd over het in het tweede lid genoemde bedrag, hoger is dan het totale bedrag van de belasting en de belastingrente, bedoeld in hoofdstuk VA van de Algemene wet inzake rijksbelastingen, die zouden zijn verschuldigd indien de mogelijkheid zou bestaan de in de voorafgaande jaren ingevolge artikel 5.17 genoten vrijstelling door middel van navorderingsaanslagen ongedaan te maken, wordt in afwijking van het tweede lid een bedrag tot de bezittingen gerekend ter grootte van dit totale bedrag, vermenigvuldigd met 100/1,2. Voor de toepassing van dit lid wordt voor de berekening van de verschuldigde belasting geen rekening gehouden met het heffingvrije vermogen, bedoeld in artikel 5.5, en de verhoging daarvan, bedoeld in artikel 5.6.   
+4.  Na toepassing van het eerste lid worden aan het tijdstip, bedoeld in het eerste lid, voorafgaande dienstjaren niet meer in aanmerking genomen voor de toepassing van deze afdeling, behoudens voor de toepassing van het tweede en derde lid.   
+5.  Voor de toepassing van deze afdeling en de daarop berustende bepalingen: 
+
+a. wordt niet onder afkoop verstaan het vrijvallen van een aanspraak op het tijdstip waarop de belastingplichtige ophoudt binnenlandse belastingplichtige te zijn;  
+
+b. is artikel 19b, tweede tot en met zevende lid, van de Wet op de loonbelasting 1964 van overeenkomstige toepassing.    
+
+### Artikel  5.17f  
+
+####Delegatiebevoegdheid
+
+Treedt in werking per 01-01-2015 
+
+1.  Bij ministeriële regeling kunnen, overeenkomstig het bepaalde in artikel 3.18 en in artikel 18g van de Wet op de loonbelasting 1964, regels worden gesteld met betrekking tot de perioden die voor de toepassing van deze afdeling en de daarop berustende bepalingen in aanmerking komen als dienstjaren alsmede met betrekking tot het pensioengevend loon.   
+2.  Bij de toepassing van deze afdeling is artikel 19d van de Wet op de loonbelasting 1964 van overeenkomstige toepassing.   
+3.  Bij ministeriële regeling kunnen regels worden gesteld ter bevordering van een goede uitvoering van deze afdeling.  
+
 ### Afdeling  5.4  
 
 ####Waardering 
@@ -5424,6 +5499,14 @@ Met betrekking tot op 31 december 2013 bestaande stamrechtspaarrekeningen en st
 Treedt in werking per 01-01-2015 
 
 Met betrekking tot auto’s waarvan het kenteken vóór 1 januari 2014 op naam is gesteld, dient, waar in artikel 3.20 zestiende lid, onderdeel a, achttiende lid of eenentwintigste lid, wordt gesproken over de eerste tenaamstelling van de auto in het kentekenregister, te worden uitgegaan van de eerste tenaamstelling van het kenteken van de auto in het kentekenregister. 
+
+### Artikel  10a.15  
+
+####Overgangsbepaling nettolijfrente en nettopensioen
+
+Treedt in werking per 01-01-2015 
+
+Indien het aantal kalenderjaren tussen 1 januari 2015 en het moment waarop artikel 5.16c, eerste lid, of artikel 5.17e, eerste lid, toepassing vindt lager is dan tien, wordt voor de toepassing van artikel 5.16c, tweede lid, onderscheidenlijk artikel 5.17e, tweede lid, de helft van de waarde van de aanspraak, bedoeld in artikel 5.16c, eerste lid, onderscheidenlijk artikel 5.17e, eerste lid, aan het begin van het voorafgaande kalenderjaar niet vermenigvuldigd met tien, maar met het aantal kalenderjaren tussen 1 januari 2015 en het moment waarop artikel 5.16c, eerste lid, onderscheidenlijk artikel 5.17e, eerste lid, toepassing vindt. 
 
 ### Hoofdstuk  10b  
 

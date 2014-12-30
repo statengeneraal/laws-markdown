@@ -21,7 +21,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 a. de omzetbelasting in het kader van Verordening (EU) nr. 904/2010 van de Raad van 7 oktober 2010 betreffende de administratieve samenwerking en de bestrijding van fraude op het gebied van de belasting over de toegevoegde waarde (PbEU 2010, L 268); 
 
 b. de accijnzen in het kader van Verordening (EU) nr. 389/2012 van de Raad van 2 mei 2012 betreffende administratieve samenwerking op het gebied van de accijnzen en houdende intrekking van Verordening (EG) nr. 2073/2004 (PbEU 2012, L 121).  Bij toepassing van die verordeningen zijn de artikelen 8, derde lid, en 11 van overeenkomstige toepassing. 
-4. Deze wet is niet van toepassing bij het verlenen van wederzijdse bijstand op het gebied van rechten bij invoer en rechten bij uitvoer met inbegrip van de belasting bij invoer, genoemd in [artikel 22 van de Wet op de omzetbelasting 1968](../../../../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en van accijns bij invoer, genoemd in [artikel 62 van de Wet op de accijns](../../../../../../../../../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).
+4. Deze wet is niet van toepassing bij het verlenen van wederzijdse bijstand op het gebied van rechten bij invoer en rechten bij uitvoer met inbegrip van de belasting bij invoer, genoemd in artikel 22 van de Wet op de omzetbelasting 1968, en van accijns bij invoer, genoemd in artikel 62 van de Wet op de accijns.
 
 ### Artikel  2  
 
@@ -100,7 +100,7 @@ a.rentebetaling: rente, uitbetaald of bijgeschreven op een rekening, die is teru
 
 b.uiteindelijk gerechtigde: elke natuurlijke persoon die een rentebetaling ontvangt, of ten gunste van wie een rentebetaling wordt bewerkstelligd;
 
-c.marktdeelnemer: ieder lichaam als bedoeld in [artikel 2, eerste lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) dat rentebetalingen verricht of iedere natuurlijke persoon die in het kader van de uitoefening van zijn onderneming of beroep rentebetalingen verricht;
+c.marktdeelnemer: ieder lichaam als bedoeld in artikel 2, eerste lid, onderdeel b, van de Algemene wet inzake rijksbelastingen dat rentebetalingen verricht of iedere natuurlijke persoon die in het kader van de uitoefening van zijn onderneming of beroep rentebetalingen verricht;
 
 d.uitbetalende instantie: de marktdeelnemer die rente uitbetaalt of een rentebetaling bewerkstelligt ten onmiddellijke gunste van de uiteindelijk gerechtigde, ongeacht of deze marktdeelnemer de debiteur is van de rentedragende schuldvordering dan wel de marktdeelnemer die door de debiteur of de uiteindelijk gerechtigde is belast met het uitbetalen van de rente of het bewerkstelligen van de rentebetaling;
 
@@ -197,7 +197,7 @@ f.handelt namens een andere natuurlijke persoon die de uiteindelijk gerechtigde 
 
 ####Identificatie door Nederlandse uitbetalende instantie
 
-1. Voor contractuele betrekkingen die zijn aangegaan vóór 1 januari 2004, stelt de in Nederland wonende of gevestigde uitbetalende instantie de identiteit vast van de in een andere lidstaat wonende uiteindelijk gerechtigde, bestaande uit diens naam en adres, aan de hand van de informatie waarover zij beschikt, met name ter uitvoering van de in Nederland geldende wettelijke voorschriften waaronder de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md).
+1. Voor contractuele betrekkingen die zijn aangegaan vóór 1 januari 2004, stelt de in Nederland wonende of gevestigde uitbetalende instantie de identiteit vast van de in een andere lidstaat wonende uiteindelijk gerechtigde, bestaande uit diens naam en adres, aan de hand van de informatie waarover zij beschikt, met name ter uitvoering van de in Nederland geldende wettelijke voorschriften waaronder de Wet ter voorkoming van witwassen en financieren van terrorisme.
 2. Voor contractuele betrekkingen die zijn of worden aangegaan op of na 1 januari 2004 of voor transacties die bij het ontbreken van contractuele betrekkingen zijn of worden verricht op of na die datum, bepaalt de in Nederland wonende of gevestigde uitbetalende instantie met inachtneming van het bepaalde in het volgende lid de identiteit van de in een andere lidstaat wonende uiteindelijk gerechtigde, bestaande uit diens naam, adres, en, indien dat bestaat, diens door de fiscale woonstaat toegekend fiscaal identificatienummer.
 3. De identiteit, bedoeld in het tweede lid, wordt bepaald op basis van het paspoort of de officiële identiteitskaart van de uiteindelijk gerechtigde. Indien het adres niet is vermeld in het paspoort of in de officiële identiteitskaart, wordt het adres bepaald op basis van enig ander bewijskrachtig document dat door de uiteindelijk gerechtigde wordt overgelegd. Indien het fiscaal identificatienummer niet is vermeld in het paspoort, in de officiële identiteitskaart of in enig ander bewijskrachtig document dat door de uiteindelijk gerechtigde wordt overgelegd, wordt diens naam en adres aangevuld met de vermelding van diens geboorteplaats en geboortedatum zoals vermeld in het paspoort of de officiële identiteitskaart.
 
@@ -205,7 +205,7 @@ f.handelt namens een andere natuurlijke persoon die de uiteindelijk gerechtigde 
 
 ####Vaststelling woonplaats door Nederlandse uitbetalende instantie
 
-1. Voor contractuele betrekkingen die zijn aangegaan vóór 1 januari 2004, stelt de in Nederland wonende of gevestigde uitbetalende instantie de woonplaats van de in een andere lidstaat wonende uiteindelijk gerechtigde vast aan de hand van de informatie waarover zij beschikt, met name ter uitvoering van de in Nederland geldende wettelijke voorschriften waaronder de [Wet ter voorkoming van witwassen en financieren van terrorisme](../../../../../../../../../../../../wet/wet/ter/voorkoming/van/witwassen/en/financieren/van/terrorisme/BWBR0024282/README.md).
+1. Voor contractuele betrekkingen die zijn aangegaan vóór 1 januari 2004, stelt de in Nederland wonende of gevestigde uitbetalende instantie de woonplaats van de in een andere lidstaat wonende uiteindelijk gerechtigde vast aan de hand van de informatie waarover zij beschikt, met name ter uitvoering van de in Nederland geldende wettelijke voorschriften waaronder de Wet ter voorkoming van witwassen en financieren van terrorisme.
 2. Voor contractuele betrekkingen die zijn of worden aangegaan op of na 1 januari 2004 of voor transacties die bij het ontbreken van contractuele betrekkingen zijn of worden verricht op of na die datum, stelt de in Nederland wonende of gevestigde uitbetalende instantie de woonplaats van de in een andere lidstaat wonende uiteindelijk gerechtigde vast op basis van het adres dat vermeld staat in het paspoort of op de officiële identiteitskaart of, zo nodig, op basis van enig ander door de uiteindelijk gerechtigde overgelegd bewijskrachtig document, volgens de procedure, bedoeld in het volgende lid.
 3. Van de natuurlijke persoon die een door een lidstaat uitgereikt paspoort of officiële identiteitskaart overlegt en die verklaart ingezetene te zijn van een niet-lidstaat, wordt de woonplaats vastgesteld op basis van een fiscale woonplaatsverklaring die is afgegeven door de bevoegde autoriteit van de niet-lidstaat waarvan de natuurlijke persoon verklaart ingezetene te zijn. Wordt een verklaring niet overgelegd, dan wordt de natuurlijke persoon geacht zijn woonplaats te hebben in de lidstaat die het paspoort of enig ander officieel identiteitskaart heeft uitgereikt.
 4. Behoudens het bepaalde in de vorige leden wordt als woonplaats aangemerkt de plaats waar de uiteindelijk gerechtigde zijn vaste adres heeft.
@@ -285,14 +285,14 @@ c.rekeningnummer van de uiteindelijke gerechtigde of, bij ontstentenis daarvan, 
 
 ####Verplichtingen ten dienste van de renseignering
 
-1.  Ten behoeve van de in paragraaf 2 bedoelde renseignering zijn de bepalingen van [hoofdstuk VIII, afdeling 2](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van [artikel 53, tweede en derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
-2.  Degene die ingevolge paragraaf 2 verplicht is tot het verstrekken van gegevens wordt, voor zoveel nodig, aangemerkt als administratieplichtige als bedoeld in [artikel 52 van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md). 
+1.  Ten behoeve van de in paragraaf 2 bedoelde renseignering zijn de bepalingen van hoofdstuk VIII, afdeling 2, met uitzondering van artikel 53, tweede en derde lid, van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.   
+2.  Degene die ingevolge paragraaf 2 verplicht is tot het verstrekken van gegevens wordt, voor zoveel nodig, aangemerkt als administratieplichtige als bedoeld in artikel 52 van de Algemene wet inzake rijksbelastingen. 
 
 ###Artikel 4n 
 
 ####Bezwaar en beroep
 
-Op het bezwaar, beroep en beroep in cassatie inzake de op de voet van deze afdeling genomen beschikkingen is [hoofdstuk V van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.
+Op het bezwaar, beroep en beroep in cassatie inzake de op de voet van deze afdeling genomen beschikkingen is hoofdstuk V van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.
 
 ### Artikel  4o  
 
@@ -300,15 +300,15 @@ Op het bezwaar, beroep en beroep in cassatie inzake de op de voet van deze afdel
 
 1.  Indien degene die ingevolge paragraaf 2 verplicht is tot het verstrekken van gegevens, deze niet, niet tijdig, onjuist of onvolledig verstrekt, vormt dit een verzuim ter zake waarvan de bevoegde functionaris hem een boete van ten hoogste € 4 920 kan opleggen.   
 2.  De bevoegdheid tot het opleggen van een boete vervalt door het verloop van vijf jaren na het einde van het kalenderjaar, bedoeld in de artikelen 4j en 4k.   
-3.  Bij het opleggen van een boete zijn de [artikelen 67g](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [67pa](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67pb van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.   
-4.  De bevoegde functionaris is belast met het invorderen van een boete, waarbij de [Invorderingswet 1990](../../../../../../../../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [Kostenwet invordering rijksbelastingen](../../../../../../../../../../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md) van overeenkomstige toepassing zijn.  
-5.  Op het in het eerste lid genoemde bedrag is [artikel 67cb van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing. 
+3.  Bij het opleggen van een boete zijn de artikelen 67g, 67pa en 67pb van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.   
+4.  De bevoegde functionaris is belast met het invorderen van een boete, waarbij de Invorderingswet 1990 en de Kostenwet invordering rijksbelastingen van overeenkomstige toepassing zijn.  
+5.  Op het in het eerste lid genoemde bedrag is artikel 67cb van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing. 
 
 ### Artikel  4p  
 
 ####Strafrechtelijke bepaling
 
-[HOOFDSTUK IX van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing ten aanzien van degene die niet voldoet aan een verplichting ingevolge deze afdeling, met uitzondering van artikel 4o, vierde lid.
+HOOFDSTUK IX van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing ten aanzien van degene die niet voldoet aan een verplichting ingevolge deze afdeling, met uitzondering van artikel 4o, vierde lid.
 
 ### Hoofdstuk  II  
 
@@ -399,7 +399,7 @@ Onze Minister verstrekt de in artikel 7, eerste lid, bedoelde inlichtingen zo sn
 
 1.  Onze Minister laat door een ambtenaar van de rijksbelastingdienst zo nodig een onderzoek instellen ten behoeve van het verstrekken van inlichtingen, bedoeld in de artikelen 5, 6 of 7.   
 2.  Een onderzoek als bedoeld in het eerste lid kan ook plaatsvinden op verzoek van een bevoegde autoriteit van een verzoekende staat. In voorkomend geval deelt Onze Minister de bevoegde autoriteit van de verzoekende staat mee op welke gronden hij een onderzoek niet noodzakelijk acht.  
-3.  Bij het in het eerste lid bedoelde onderzoek zijn de bepalingen van [Hoofdstuk VIII, afdeling 2](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van [artikel 53, tweede en derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) van overeenkomstige toepassing.    
+3.  Bij het in het eerste lid bedoelde onderzoek zijn de bepalingen van Hoofdstuk VIII, afdeling 2, met uitzondering van artikel 53, tweede en derde lid, van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.    
 4.  Bij of krachtens algemene maatregel van bestuur worden administratieplichtigen aangewezen die gehouden zijn eigener beweging bij of krachtens algemene maatregel van bestuur aan te wijzen gegevens en inlichtingen te verstrekken aan Onze Minister met het oog op de uitvoering van richtlijnen van de Raad van de Europese Unie of van andere regelingen van internationaal en interregionaal recht tot het verlenen van wederzijdse bijstand bij de heffing van belastingen. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het uiterste tijdstip en de wijze waarop de in de eerste volzin bedoelde gegevens en inlichtingen aan Onze Minister dienen te worden verstrekt.  
 5.  Bij of krachtens algemene maatregel van bestuur worden belastingplichtigen aangewezen die gehouden zijn eigener beweging bij of krachtens algemene maatregel van bestuur aan te wijzen gegevens en inlichtingen die op henzelf betrekking hebben te verstrekken aan Onze Minister met het oog op de uitvoering van richtlijnen van de Raad van de Europese Unie of van andere regelingen van internationaal en interregionaal recht tot het verlenen van wederzijdse bijstand bij de heffing van belastingen. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot het uiterste tijdstip en de wijze waarop de in de eerste volzin bedoelde gegevens en inlichtingen aan Onze Minister dienen te worden verstrekt. 
 6. Geen beroep kan worden ingesteld tegen de aankondiging van een onderzoek als bedoeld in het eerste lid, alsmede tegen het onderzoek zelve.
@@ -427,10 +427,10 @@ Degene bij wie een onderzoek als bedoeld in artikel 8 wordt ingesteld, is verpli
 
 ### Artikel  11  
 
-1. [ Artikel 67ca, met uitzondering van het eerste lid, onderdelen b tot en met f](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), en [hoofdstuk IX van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) zijn van overeenkomstige toepassing ten aanzien van degene die niet voldoet aan de in artikel 8 en artikel 10 bedoelde verplichtingen.   
-2.  Bij algemene maatregel van bestuur kan het niet nakomen van de verplichting, bedoeld in artikel 8, vijfde lid, worden aangemerkt als een overtreding. Indien het niet nakomen van die verplichting te wijten is aan opzet of grove schuld van de belastingplichtige, vormt dit een vergrijp ter zake waarvan Onze Minister hem een bestuurlijke boete van ten hoogste het bedrag van de geldboete van de vierde categorie, bedoeld in [artikel 23, vierde lid, van het Wetboek van Strafrecht](../../../../../../../../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), kan opleggen.   
-3.  [Hoofdstuk VIIIA, afdeling 2](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), met uitzondering van de [artikelen 67n](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [67pa, van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) is van overeenkomstige toepassing ingeval op grond van het eerste of tweede lid een bestuurlijke boete wordt opgelegd.   
-4.  In afwijking in zoverre van [artikel 5:45 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) vervalt de bevoegdheid tot het opleggen van de bestuurlijke boete, bedoeld in het tweede lid, vijf jaren na het einde van het kalenderjaar waarin de verplichting is ontstaan. 
+1.  Artikel 67ca, met uitzondering van het eerste lid, onderdelen b tot en met f, en hoofdstuk IX van de Algemene wet inzake rijksbelastingen zijn van overeenkomstige toepassing ten aanzien van degene die niet voldoet aan de in artikel 8 en artikel 10 bedoelde verplichtingen.   
+2.  Bij algemene maatregel van bestuur kan het niet nakomen van de verplichting, bedoeld in artikel 8, vijfde lid, worden aangemerkt als een overtreding. Indien het niet nakomen van die verplichting te wijten is aan opzet of grove schuld van de belastingplichtige, vormt dit een vergrijp ter zake waarvan Onze Minister hem een bestuurlijke boete van ten hoogste het bedrag van de geldboete van de vierde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, kan opleggen.   
+3.  Hoofdstuk VIIIA, afdeling 2, met uitzondering van de artikelen 67n en 67pa, van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing ingeval op grond van het eerste of tweede lid een bestuurlijke boete wordt opgelegd.   
+4.  In afwijking in zoverre van artikel 5:45 van de Algemene wet bestuursrecht vervalt de bevoegdheid tot het opleggen van de bestuurlijke boete, bedoeld in het tweede lid, vijf jaren na het einde van het kalenderjaar waarin de verplichting is ontstaan. 
 
 ### Artikel  12  
 
@@ -575,11 +575,11 @@ b. aanwezig kunnen zijn bij een administratief onderzoek dat wordt uitgevoerd op
 
 ### Artikel  28  
 
-Op inlichtingen die door Onze Minister in het kader van wederzijdse bijstand van een bevoegde autoriteit van een andere staat zijn verkregen, alsmede op inlichtingen die op grond van artikel 8 zijn verkregen, is de verplichting tot geheimhouding, bedoeld in [artikel 67 van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), van overeenkomstige toepassing. 
+Op inlichtingen die door Onze Minister in het kader van wederzijdse bijstand van een bevoegde autoriteit van een andere staat zijn verkregen, alsmede op inlichtingen die op grond van artikel 8 zijn verkregen, is de verplichting tot geheimhouding, bedoeld in artikel 67 van de Algemene wet inzake rijksbelastingen, van overeenkomstige toepassing. 
 
 ### Artikel  29  
 
-1.  Indien de bevoegde autoriteit van de staat die de inlichtingen heeft verstrekt hierom verzoekt, doet Onze Minister met inachtneming van [artikel 67 van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), zo snel mogelijk, doch uiterlijk drie maanden nadat het resultaat van het gebruik van gevraagde of spontaan verkregen inlichtingen bekend is, een terugmelding naar de bevoegde autoriteit van de staat die de inlichtingen heeft verstrekt.   
+1.  Indien de bevoegde autoriteit van de staat die de inlichtingen heeft verstrekt hierom verzoekt, doet Onze Minister met inachtneming van artikel 67 van de Algemene wet inzake rijksbelastingen, zo snel mogelijk, doch uiterlijk drie maanden nadat het resultaat van het gebruik van gevraagde of spontaan verkregen inlichtingen bekend is, een terugmelding naar de bevoegde autoriteit van de staat die de inlichtingen heeft verstrekt.   
 2.  Onze Minister doet eenmaal per jaar, overeenkomstig bilateraal overeengekomen praktische afspraken, een terugmelding over de automatische uitwisseling van inlichtingen naar de betrokken lidstaten.  
 
 ### Artikel  30  
@@ -600,7 +600,7 @@ c. in mogelijk tot bestraffing leidende gerechtelijke en administratieve procedu
 ### Artikel  31  
 
 1.  Indien Onze Minister van een staat inlichtingen ontvangt die naar verwachting van belang zijn voor de administratie en de handhaving van de Nederlandse wetgeving betreffende de heffing van belastingen die vallen onder de reikwijdte van de wederzijdse bijstand, bedoeld in artikel 1, kan hij deze inlichtingen verstrekken aan de bevoegde autoriteiten van de lidstaten voor wie die inlichtingen van nut kunnen zijn, en aan elke verzoekende autoriteit van een lidstaat, mits dat krachtens een overeenkomst met de staat waar de inlichtingen vandaan komen, is toegestaan.   
-2.  Onze Minister kan, met inachtneming van [artikel 67 van de Algemene wet inzake rijksbelastingen](../../../../../../../../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), ter uitvoering van Richtlijn 2011/16/EU ontvangen inlichtingen doorgeven aan een staat, op voorwaarde dat: 
+2.  Onze Minister kan, met inachtneming van artikel 67 van de Algemene wet inzake rijksbelastingen, ter uitvoering van Richtlijn 2011/16/EU ontvangen inlichtingen doorgeven aan een staat, op voorwaarde dat: 
 
 a. de bevoegde autoriteit van de lidstaat waarvan de inlichtingen afkomstig zijn, daarin heeft toegestemd, en  
 

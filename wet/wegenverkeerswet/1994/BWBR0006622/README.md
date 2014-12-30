@@ -811,7 +811,7 @@ Bij algemene maatregel van bestuur worden regels vastgesteld omtrent het toepass
 2.  Verkeerstekens en onderborden, die niet worden geplaatst of verwijderd krachtens een verkeersbesluit, worden geplaatst of verwijderd door de zorg van het openbaar lichaam dat het beheer heeft over de weg of, indien geen openbaar lichaam het beheer heeft, door de zorg van de eigenaar van de weg. 
 
 ### Artikel  16a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Onze Minister stelt, na overleg met de betrokken openbare lichamen en eigenaren van wegen, ontwerpen vast voor de bewegwijzering.   
 2.  Een ontwerp bevat: 
@@ -828,7 +828,7 @@ e. de consequenties van het ontwerp voor de bewegwijzering op andere wegen.
 3.  Bij ministeriële regeling kunnen nadere regels worden gesteld inzake de inhoud van een ontwerp en de uitvoering van het eerste lid.  
 
 ### Artikel  16b  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Onze Minister houdt een register bij waarin gegevens worden verwerkt inzake ontwerpen voor bewegwijzering, alsmede de uitvoering daarvan.   
 2.  Het openbaar lichaam dat het beheer heeft over de weg waarop het ontwerp betrekking heeft of waarvoor het ontwerp mogelijk gevolgen heeft, of, indien geen openbaar lichaam het beheer heeft, de eigenaar van die weg, verstrekt aan Onze Minister de gegevens: 
@@ -3012,7 +3012,7 @@ d. voor andere wegen door burgemeester en wethouders of krachtens besluit van he
 7. De wegbeheerder ontvangt voor het verstrekken van gegevens en informatie, bedoeld in het eerste lid, en voor het verlenen van toestemming, bedoeld in het tweede lid, van de Dienst Wegverkeer een bij ministeriële regeling vastgestelde vergoeding, die is gebaseerd op het aantal en de aard van de verleende ontheffingen voor wegen die onder zijn beheer staan.
 
 ### Artikel  149c  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 In afwijking van artikel 149, eerste lid, kan uitsluitend door Onze Minister ontheffing worden verleend of geweigerd van het bepaalde krachtens artikel 16, vierde lid, overeenkomstig bij of krachtens algemene maatregel van bestuur vastgestelde regels. 
 
@@ -3173,7 +3173,7 @@ Een wijziging van de richtlijn vakbekwaamheid bestuurders gaat voor de toepassin
 Verkeerstekens die niet worden geplaatst of verwijderd krachtens een verkeersbesluit, worden geplaatst en verwijderd op kosten van het openbaar lichaam dat het beheer heeft over de weg of, indien geen openbaar lichaam het beheer heeft, de eigenaar van de weg.  
 
 ### Artikel  153a  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  De kosten voor het door Onze Minister: 
 

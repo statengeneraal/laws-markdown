@@ -5,24 +5,24 @@
 De Minister van Landbouw, Natuur en Voedselkwaliteit,  
 Handelende in overeenstemming met de Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer;
 
-Gelet op [artikel 64 van de Wet bodembescherming](../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) en gelet op de [artikelen 1c, tweede lid](../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md), [2a, vierde lid](../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md), [4b, eerste lid](../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) en [8a, eerste lid, van het Besluit gebruik meststoffen](../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md);
+Gelet op artikel 64 van de Wet bodembescherming en gelet op de artikelen 1c, tweede lid, 2a, vierde lid, 4b, eerste lid en 8a, eerste lid, van het Besluit gebruik meststoffen;
 Besluit:    
 
 ### Artikel  1  
 
 In deze regeling wordt verstaan onder: 
 
-a. besluit: [Besluit gebruik meststoffen](../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md);  
+a. besluit: Besluit gebruik meststoffen;  
 
 b. minister: Minister van Economische Zaken;  
 
 c. Raad: Raad voor Accreditatie te Utrecht;  
 
-d. landbouwer: landbouwer als bedoeld in [artikel 1 van de Uitvoeringsregeling Meststoffenwet](../../../../../ministeriele-regeling/uitvoeringsregeling/meststoffenwet/BWBR0018989/README.md).   
+d. landbouwer: landbouwer als bedoeld in artikel 1 van de Uitvoeringsregeling Meststoffenwet.   
 
 ### Artikel  2  
 
-1.  De in [artikel 1c van het besluit](../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) bedoelde bemonstering en analyse van de bodem waarop zuiveringsslib wordt gebruikt, wordt verricht in een frequentie van ten minste eenmaal per tien jaar, door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.   
+1.  De in artikel 1c van het besluit bedoelde bemonstering en analyse van de bodem waarop zuiveringsslib wordt gebruikt, wordt verricht in een frequentie van ten minste eenmaal per tien jaar, door een laboratorium dat blijkens accreditatie door de Raad aantoonbaar voldoet aan de norm NEN-EN-ISO/IEC 17025.   
 2.  Het laboratorium verricht de bemonstering en de analyse van de bodem, overeenkomstig het in bijlage A opgenomen protocol en stelt een analyserapport op.   
 3.  Het analyserapport heeft een geldigheidsduur van ten hoogste tien jaar en bevat voor ieder bemonsterd perceel in ieder geval de volgende gegevens: 
 
@@ -36,20 +36,25 @@ d. de naam van het onderzoekslaboratorium dat de analyse heeft verricht;
 
 e. de extractiedatum en analysedatum van het monster; en  
 
-f. de resultaten van de analyses alsmede de daarop gebaseerde vaststelling dat de geanalyseerde stoffen de in [bijlage III bij het besluit](../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) opgenomen toetsingswaarden al dan niet overschrijden.     
-4.  De landbouwer tot wiens bedrijf het desbetreffende perceel behoort, bewaart een afschrift van het analyserapport gedurende tien jaar na afloop van het kalenderjaar waarin de bemonstering en analyse van de bodem is verricht als onderdeel van de administratie, bedoeld in [artikel 32 van het Uitvoeringsbesluit Meststoffenwet](../../../../../AMvB/uitvoeringsbesluit/meststoffenwet/BWBR0019031/README.md).  
+f. de resultaten van de analyses alsmede de daarop gebaseerde vaststelling dat de geanalyseerde stoffen de in bijlage III bij het besluit opgenomen toetsingswaarden al dan niet overschrijden.     
+4.  De landbouwer tot wiens bedrijf het desbetreffende perceel behoort, bewaart een afschrift van het analyserapport gedurende tien jaar na afloop van het kalenderjaar waarin de bemonstering en analyse van de bodem is verricht als onderdeel van de administratie, bedoeld in artikel 32 van het Uitvoeringsbesluit Meststoffenwet.  
 
 ### Artikel  3  
 
-De in [artikel 2a van het besluit](../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) bedoelde melding inzake het gebruik van compost bij wijze van eenmalige gift wordt gedaan bij de minister. 
+De in artikel 2a van het besluit bedoelde melding inzake het gebruik van compost bij wijze van eenmalige gift wordt gedaan bij de minister. 
+
+### Artikel  3a  
+Treedt in werking per 01-01-2015 
+
+Als gewas als bedoeld in artikel 4, vierde lid, onderdeel c, onder 1°, van het besluit, worden groenbemesters aangewezen. 
 
 ### Artikel  4  
 
-Als relatief stikstofbehoeftig gewas als bedoeld in [artikel 4b, tweede lid, van het besluit](../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) worden aangewezen de gewassen die zijn vermeld in bijlage B. 
+Als relatief stikstofbehoeftig gewas als bedoeld in artikel 4b, tweede lid, van het besluit worden aangewezen de gewassen die zijn vermeld in bijlage B. 
 
 ### Artikel  5  
 
-Als gewas als bedoeld in [artikel 8a, eerste lid, van het besluit](../../../../../AMvB/besluit/gebruik/meststoffen/BWBR0009066/README.md) worden aangewezen de gewassen die zijn vermeld in bijlage C. 
+Als gewas als bedoeld in artikel 8a, eerste lid, van het besluit worden aangewezen de gewassen die zijn vermeld in bijlage C. 
 
 ### Artikel  6  
 

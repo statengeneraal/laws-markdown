@@ -664,6 +664,18 @@ d. binnen een door Onze Minister aan te geven termijn in door Onze Minister aan 
 
 Indien als gevolg van de toeneming van de arbeidsongeschiktheid zowel recht op herziening van de arbeidsongeschiktheidsuitkering bestaat of is ontstaan op grond van de artikelen 38, 39 of 39a, als op ziekengeld op grond van de Ziektewet, wordt het bedrag waarmee de arbeidsongeschiktheidsuitkering is of wordt verhoogd uitbetaald voor zover dit het ziekengeld overtreft, danwel zou overtreffen, indien het ziekengeld op grond van artikel 45 van de Ziektewet geheel of gedeeltelijk is geweigerd. 
 
+### Artikel  39c  
+Treedt in werking per 01-01-2015 
+
+1.  Ter zake van toeneming van de arbeidsongeschiktheid vindt, in afwijking van de artikelen 38, 39 en 39a, herziening plaats zodra de toegenomen arbeidsongeschiktheid 104 weken heeft geduurd, indien ter zake van deze toegenomen arbeidsongeschiktheid: 
+
+a. recht bestaat op ziekengeld op grond van de Ziektewet;  
+
+b. uit hoofde van de dienstbetrekking op grond waarvan de werknemer arbeid behoort te verrichten recht bestaat op loon als bedoeld in artikel 629 van Boek 7 van het Burgerlijk Wetboek, dan wel indien het recht op loon door toepassing van het derde, vijfde, zesde of negende lid van dat artikel geheel of gedeeltelijk ontbreekt; of  
+
+c. recht bestaat op bezoldiging als bedoeld in artikel 76a, eerste lid van de Ziektewet, dan wel indien het recht op die bezoldiging op grond van artikel 76a, derde of zevende lid, of artikel 76b, eerste, tweede of derde lid van de Ziektewet geheel of gedeeltelijk ontbreekt.     
+2.  Voor het bepalen van het tijdvak van 104 weken, bedoeld in het eerste lid, worden perioden van toegenomen arbeidsongeschiktheid samengeteld, indien zij elkaar met een onderbreking van minder dan vier weken opvolgen of indien zij direct voorafgaan aan en aansluiten op een periode waarin uitkering in verband met zwangerschap of bevalling op grond van artikel 3:7, eerste lid, 3:8 of 3:10, eerste lid, van de Wet arbeid en zorg wordt genoten, tenzij de ongeschiktheid redelijkerwijs niet geacht kan worden voort te vloeien uit dezelfde oorzaak. Bij de vaststelling van het tijdvak van 104 weken blijven perioden, waarin uitkering in verband met zwangerschap of bevalling op grond van artikel 3:7, eerste lid, 3:8, of 3:10, eerste lid, van de Wet arbeid en zorg wordt genoten, buiten beschouwing.  
+
 ### Artikel  40  
 
 1.  Het dagloon van de verzekerde, bedoeld in artikel 19aa, wordt met ingang van de dag waarop het tweede recht op arbeidsongeschiktheidsuitkering zou zijn ontstaan opnieuw vastgesteld overeenkomstig het bepaalde bij of krachtens artikel 14, mits dat leidt tot een hoger dagloon dan het dagloon dat voor de berekening van de laatstelijk ontvangen loondervingsuitkering of vervolguitkering in aanmerking werd genomen. In afwijking van het bepaalde bij of krachtens artikel 14 wordt bij de dagloonvaststelling, bedoeld in de eerste zin, de arbeidsongeschiktheidsuitkering op grond van deze wet niet aangemerkt als loon.  

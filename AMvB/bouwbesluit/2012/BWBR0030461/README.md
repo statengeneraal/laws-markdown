@@ -156,6 +156,12 @@ Hebben goedgevonden en verstaan:
 
 * *stookplaats:* * opstelplaats voor een verbrandingstoestel dat bestemd is voor open verbranding van vaste brandstoffen;  
 
+*straatpeil:*
+
+a. voor een bouwwerk waarvan de hoofdtoegang direct aan de weg grenst de hoogte van de weg ter plaatse van die hoofdtoegang;  
+
+b. voor een bouwwerk waarvan de hoofdtoegang niet direct aan de weg grenst de hoogte van het terrein ter plaatse van die hoofdtoegang bij voltooiing van de bouw;  
+
 * *subbrandcompartiment:* * gedeelte van een bouwwerk dat binnen de begrenzing van een brandcompartiment ligt of daarmee samenvalt, bestemd voor beperking van verspreiding van rook of verdere beperking van het uitbreidingsgebied van brand;  
 
 **systeemrendement:** verhouding tussen de door het technisch bouwsysteem nuttig geleverde energie voor het doelmatig functioneren van dat systeem en de door dat systeem aangewende primaire energie;  
@@ -173,6 +179,8 @@ Hebben goedgevonden en verstaan:
 * *tunnelbuislengte:* * lengte van het omsloten gedeelte van een tunnelbuis;  
 
 * *tunnellengte:* * lengte van de wegtunnelbuis met de grootste tunnelbuislengte;  
+
+* *tijdelijk bouwwerk:* * bouwwerk dat bedoeld is om voor een periode van ten hoogste vijftien jaar op een bepaalde plaats aanwezig te zijn; 
 
 * *uitgang van een gebruiksfunctie:* * uitgang tot het aansluitende terrein, een gemeenschappelijke verkeersruimte, een gemeenschappelijk verblijfsgebied of een ruimte van een andere gebruiksfunctie, ter plaatse waarvan een route eindigt die begint in een punt in een niet-gemeenschappelijk verblijfsgebied en uitsluitend voert door niet-gemeenschappelijke ruimten van de gebruiksfunctie;  
 
@@ -415,7 +423,8 @@ Indien aan een omgevingsvergunning voor een activiteit als bedoeld in artikel 2.
 
 ####Tijdelijke bouw
 
-Op het bouwen van een tijdelijk bouwwerk zijn wat betreft de hoofdstukken 2 tot en met 6 de voorschriften voor een bestaand bouwwerk van toepassing, tenzij in de desbetreffende afdeling voor een voorschrift anders is aangegeven. 
+1. Op het bouwen van een tijdelijk bouwwerk zijn wat betreft de hoofdstukken 2 tot en met 6 de voorschriften voor een bestaand bouwwerk van toepassing, tenzij in de desbetreffende afdeling voor een voorschrift anders is aangegeven. 
+2.  Indien een als tijdelijk bouwwerk gebouwd bouwwerk als permanent bouwwerk aanwezig blijft, wordt dat bouwwerk wat betreft de hoofdstukken 2 tot en met 6 in overeenstemming gebracht met de voorschriften van een te bouwen bouwwerk.
 
 ### Artikel  1.15  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat, van 10 juli 2000, Centrale Directie Juridische Zaken, nr. CDJZ/WVW/2000-767;
 
-Gelet op de [artikelen 2](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [3](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [8](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [9](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [14](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [27](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [28](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [29](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [30](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [31](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [32](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [35](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [44](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [46](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [49](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [70](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [74](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [82](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [83](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [86](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [99](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [102](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [104 van de Wet personenvervoer 2000](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), artikel 5:12, tweede lid, van de Arbeidstijdenwet, [artikel 22 van de Wet aansprakelijkheidsverzekering motorrijtuigen](../../../../../wet/wet/aansprakelijkheidsverzekering/motorrijtuigen/BWBR0002415/README.md), [artikel VI, tweede lid, van de wet van 26 februari 1996 tot wijziging van de Wet op de rechterlijke organisatie en andere wetten in verband met de opheffing van de functie van verkeersschout (Stb. 155)](../../../../../wet/wijzigingswet/wet/op/de/rechterlijke/organisatie/enz./(in/verband/met/de/etc/BWBR0008195/README.md), [artikel 12 van boek 5 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/5/BWBR0005288/README.md), [artikel 5, vierde lid](../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md), en [15, derde lid, van de Wet goederenvervoer over de weg](../../../../../wet/wet/goederenvervoer/over/de/weg/BWBR0005443/README.md), de [artikelen 8](../../../../../wet/wet/infrastructuurfonds/BWBR0006001/README.md) en [9 van de Wet Infrastructuurfonds](../../../../../wet/wet/infrastructuurfonds/BWBR0006001/README.md), de [artikelen 27](../../../../../wet/spoorwegwet/BWBR0001848/README.md) en [32 van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0001848/README.md), [artikel 74c van het Wetboek van Strafrecht](../../../../../wet/wet/van/3/maart/1881/BWBR0001854/README.md), [artikel 16 van de Wet op de belasting van personenauto's en motorrijwielen 1992](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), [artikel 72, eerste lid, van de Wet op de motorrijtuigenbelasting 1994](../../../../../wet/wet/op/de/motorrijtuigenbelasting/1994/BWBR0006324/README.md), en de Vreemdelingenwet;
+Gelet op de artikelen 2, 3, 8, 9, 14, 27, 28, 29, 30, 31, 32, 35, 44, 46, 49, 70, 74, 82, 83, 86, 99, 102 en 104 van de Wet personenvervoer 2000, de Wegenverkeerswet 1994, artikel 5:12, tweede lid, van de Arbeidstijdenwet, artikel 22 van de Wet aansprakelijkheidsverzekering motorrijtuigen, artikel VI, tweede lid, van de wet van 26 februari 1996 tot wijziging van de Wet op de rechterlijke organisatie en andere wetten in verband met de opheffing van de functie van verkeersschout (Stb. 155), artikel 12 van boek 5 van het Burgerlijk Wetboek, artikel 5, vierde lid, en 15, derde lid, van de Wet goederenvervoer over de weg, de artikelen 8 en 9 van de Wet Infrastructuurfonds, de artikelen 27 en 32 van de Spoorwegwet, artikel 74c van het Wetboek van Strafrecht, artikel 16 van de Wet op de belasting van personenauto's en motorrijwielen 1992, artikel 72, eerste lid, van de Wet op de motorrijtuigenbelasting 1994, en de Vreemdelingenwet;
 
 De Raad van State gehoord (advies van 18 september 2000, no. WO9.00.0283/V);
 
@@ -28,11 +28,11 @@ a. EER: Overeenkomst betreffende de Europese Economische Ruimte,
 
 b. richtlijn nr. 2004/18/EG: richtlijn nr. 2004/18/EG van het Europees Parlement en de Raad van de Europese Unie van 31 maart 2004 betreffende de coördinatie van de procedures voor het plaatsen van overheidsopdrachten voor werken, leveringen en diensten (PbEU L 134),  
 
-c. wet: [Wet personenvervoer 2000](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md),  
+c. wet: Wet personenvervoer 2000,  
 
 d. lidstaat: lidstaat van de Europese Unie,  
 
-e. passagiersschip: schip als bedoeld in de in [artikel 1 van het Binnenvaartbesluit](../../../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) opgenomen definitie van passagiersschip,  
+e. passagiersschip: schip als bedoeld in de in artikel 1 van het Binnenvaartbesluit opgenomen definitie van passagiersschip,  
 
 f.elektronisch vervoerbewijs: vervoerbewijs waarmee de reiziger zich na elektronische registratie toegang kan verschaffen tot het openbaar vervoer;
 
@@ -44,7 +44,7 @@ i. keuringskaart: aan een erkende werkplaats afgegeven boordcomputerkaart die de
 
 j. ondernemerskaart: aan een vervoerder afgegeven boordcomputerkaart die de desbetreffende vervoerder identificeert en waarmee de voor deze in de boordcomputer opgeslagen gegevens zichtbaar kunnen worden gemaakt en overgebracht kunnen worden; 
 
-k. veerboot: schip als bedoeld in de in [artikel 1 van het Binnenvaartbesluit](../../../../../AMvB/binnenvaartbesluit/BWBR0025631/README.md) opgenomen definitie van veerboot,  
+k. veerboot: schip als bedoeld in de in artikel 1 van het Binnenvaartbesluit opgenomen definitie van veerboot,  
 
 l. Verordening (EG) 1370/2007: Verordening (EG) nr. 1370/2007 van het Europees Parlement en de Raad van 23 oktober 2007 betreffende het openbaar personenvervoer per spoor en over de weg en tot intrekking van Verordening (EEG) nr 1191/69 van de Raad en Verordening (EEG) nr. 1107/70 van de Raad (PbEU L 315).  
 
@@ -54,7 +54,7 @@ l. Verordening (EG) 1370/2007: Verordening (EG) nr. 1370/2007 van het Europees P
 
 ### Artikel  2  
 
-De [wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en Verordening 1071/2009/EG zijn niet van toepassing op: 
+De wet en Verordening 1071/2009/EG zijn niet van toepassing op: 
 
 a. militair vervoer met vervoermiddelen voorzien van een militair kenteken, op vervoer met door een militaire autoriteit gevorderde vervoermiddelen en op door een militaire autoriteit gevorderd vervoer,  
 
@@ -62,9 +62,9 @@ b. vervoer met daarvoor bestemde vervoermiddelen, van ambtenaren van politie die
 
 c. vervoer met daarvoor bestemde vervoermiddelen ten behoeve van de brandweerzorg en ten behoeve van door Onze Minister aan te wijzen diensten voor de ongevallen- en rampenbestrijding,  
 
-d. overig vervoer voor de uitoefening van de openbare dienst in de zin van [artikel 1 van de Ambtenarenwet](../../../../../wet/ambtenarenwet/BWBR0001947/README.md) met daarvoor bestemde vervoermiddelen,  
+d. overig vervoer voor de uitoefening van de openbare dienst in de zin van artikel 1 van de Ambtenarenwet met daarvoor bestemde vervoermiddelen,  
 
-e. vervoer van zieken of slachtoffers van een ongeval en hun begeleiders met motorvoertuigen als bedoeld in [artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg](../../../../../wet/tijdelijke/wet/ambulancezorg/BWBR0031557/README.md),  
+e. vervoer van zieken of slachtoffers van een ongeval en hun begeleiders met motorvoertuigen als bedoeld in artikel 1, eerste lid, onderdeel b, van de Tijdelijke wet ambulancezorg,  
 
 f. vervoer met auto's of bussen voor de uitvoering van trouwerijen of uitvaarten met inbegrip van het afhalen en terugbrengen van de deelnemers,  
 
@@ -78,9 +78,9 @@ j. vervoer binnen Nederland met takelwagens en getakelde vervoermiddelen,
 
 k. vervoer met vervoermiddelen die worden verplaatst ten behoeve van stalling, onderhoud en reparatie dan wel bij wijze van een korte proefrit,  
 
-l. vervoer met auto's, voor eigen rekening en risico verricht door ondernemingen ten behoeve van hun werknemers, onderwijsinstellingen ten behoeve van hun leerlingen, kindercentra ten behoeve van kinderopvang als bedoeld in [artikel 1.1. van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md), tehuizen ten behoeve van hun vaste bewoners, alsmede verpleeginrichtingen, psychiatrische instellingen, medische verzorgingstehuizen, medische dagverblijven of soortgelijke instellingen ten behoeve van hun patiënten,  
+l. vervoer met auto's, voor eigen rekening en risico verricht door ondernemingen ten behoeve van hun werknemers, onderwijsinstellingen ten behoeve van hun leerlingen, kindercentra ten behoeve van kinderopvang als bedoeld in artikel 1.1. van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen, tehuizen ten behoeve van hun vaste bewoners, alsmede verpleeginrichtingen, psychiatrische instellingen, medische verzorgingstehuizen, medische dagverblijven of soortgelijke instellingen ten behoeve van hun patiënten,  
 
-m. vervoer met een combinatie van een bedrijfsauto, landbouw- of bosbouwtrekker of motorrijtuig met beperkte snelheid als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), met een aanhangwagen als bedoeld in [artikel 1.1 van de Regeling voertuigen](../../../../../ministeriele-regeling/regeling/voertuigen/BWBR0025798/README.md), 
+m. vervoer met een combinatie van een bedrijfsauto, landbouw- of bosbouwtrekker of motorrijtuig met beperkte snelheid als bedoeld in artikel 1.1 van de Regeling voertuigen, met een aanhangwagen als bedoeld in artikel 1.1 van de Regeling voertuigen, 
 
 n. vervoer met auto’s, voor eigen rekening en risico verricht door buitensportondernemingen die uitsluitend omzet genereren uit het organiseren van buitensportactiviteiten, mits het vervoer onlosmakelijk is verbonden aan de buitensportactiviteiten en daarvoor geen aparte betaling plaatsvindt,  
 
@@ -90,16 +90,16 @@ p. vervoer van personen met een handicap in auto’s, ten behoeve van een meerda
 
 ### Artikel  3  
 
-1.  Onder de kosten van de auto, bedoeld in [artikel 2, derde lid, van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), worden verstaan de kosten van afschrijving, verzekering, motorrijtuigenbelasting en brandstof, alsmede onderhouds- en reparatiekosten.   
-2.  Als bijkomende kosten als bedoeld in [artikel 2, derde lid, van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), worden aangemerkt onkostenvergoedingen voor vrijwilligers tot een bij ministeriële regeling vast te stellen bedrag.  
+1.  Onder de kosten van de auto, bedoeld in artikel 2, derde lid, van de wet, worden verstaan de kosten van afschrijving, verzekering, motorrijtuigenbelasting en brandstof, alsmede onderhouds- en reparatiekosten.   
+2.  Als bijkomende kosten als bedoeld in artikel 2, derde lid, van de wet, worden aangemerkt onkostenvergoedingen voor vrijwilligers tot een bij ministeriële regeling vast te stellen bedrag.  
 
 ### Artikel  4  
 
-De [artikelen 7, eerste lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [12](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [13](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [14, eerste lid, van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en de artikelen 21 tot en met 30 van dit besluit zijn niet van toepassing op besloten busvervoer dat wordt verricht als nevenactiviteit ten behoeve van een hoofdactiviteit die niet bestaat uit het vervoer van personen dan wel dat niet commercieel van aard is, en dat een geringe weerslag heeft op de vervoersmarkt. 
+De artikelen 7, eerste lid, 12, 13 en 14, eerste lid, van de wet en de artikelen 21 tot en met 30 van dit besluit zijn niet van toepassing op besloten busvervoer dat wordt verricht als nevenactiviteit ten behoeve van een hoofdactiviteit die niet bestaat uit het vervoer van personen dan wel dat niet commercieel van aard is, en dat een geringe weerslag heeft op de vervoersmarkt. 
 
 ###Artikel 4a 
 
-[Artikel 32, tweede lid, onderdelen i, j en k, van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) is niet van toepassing op openbaar vervoer anders dan per trein.
+Artikel 32, tweede lid, onderdelen i, j en k, van de wet is niet van toepassing op openbaar vervoer anders dan per trein.
 
 ### Artikel  5  
 
@@ -107,14 +107,14 @@ De artikelen 41 tot en met 43, 45, eerste lid, onderdeel a, 46 en 50 zijn niet v
 
 ### Artikel  6  
 
-1.  De [artikelen 14](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [70 tot en met 74](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [76 tot en met 79](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [87](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [88, eerste lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [89 tot en met 93](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [97 tot en met 99](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [101](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [103](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [105](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [106 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en de artikelen 12 tot en met 23, 26, 28 tot en met 30, tweede en vierde lid, hoofdstuk 4 met uitzondering van de artikelen 41, 42, 43 en 50, hoofdstuk 6, met uitzondering van de artikelen 73, 74 en 78, 118, 120, 121, 124 en 126 van dit besluit zijn van overeenkomstige toepassing op voor een ieder openstaand personenvervoer per auto dat niet volgens een dienstregeling wordt verricht: 
+1.  De artikelen 14, 70 tot en met 74, 76 tot en met 79, 87, 88, eerste lid, 89 tot en met 93, 97 tot en met 99, 101, 103, 105 en 106 van de wet en de artikelen 12 tot en met 23, 26, 28 tot en met 30, tweede en vierde lid, hoofdstuk 4 met uitzondering van de artikelen 41, 42, 43 en 50, hoofdstuk 6, met uitzondering van de artikelen 73, 74 en 78, 118, 120, 121, 124 en 126 van dit besluit zijn van overeenkomstige toepassing op voor een ieder openstaand personenvervoer per auto dat niet volgens een dienstregeling wordt verricht: 
 
-a. krachtens een door een bestuursorgaan als bedoeld in [artikel 20 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), met een vervoerder gesloten overeenkomst, welke tot stand is gekomen na een aanbestedingsprocedure krachtens de [Raamwet EEG-voorschriften aanbestedingen](../../../../../wet/raamwet/eeg-voorschriften/aanbestedingen/BWBR0005937/README.md) voor het plaatsen van opdrachten voor dienstverlening,  
+a. krachtens een door een bestuursorgaan als bedoeld in artikel 20 van de wet, met een vervoerder gesloten overeenkomst, welke tot stand is gekomen na een aanbestedingsprocedure krachtens de Raamwet EEG-voorschriften aanbestedingen voor het plaatsen van opdrachten voor dienstverlening,  
 
 b. op afroep van reizigers, voorzover dat vervoer binnen een door de vervoerder bepaalde tijd vooraf bij hem is besteld en  
 
 c. in de plaats van een opgeheven of in aanvulling op een bestaande openbaar vervoervoorziening.    
-2.  De [artikelen 27](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [28](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [31](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [32](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [44 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en de artikelen 31 tot en met 34 van dit besluit zijn van overeenkomstige toepassing op vervoer als bedoeld in het eerste lid, met dien verstande dat wordt gelezen voor: 
+2.  De artikelen 27, 28, 31, 32 en 44 van de wet en de artikelen 31 tot en met 34 van dit besluit zijn van overeenkomstige toepassing op vervoer als bedoeld in het eerste lid, met dien verstande dat wordt gelezen voor: 
 
 a. concessie: in artikel 6, eerste lid, van het besluit bedoelde overeenkomst;  
 
@@ -125,16 +125,16 @@ c. aan de concessie te verbinden voorschriften: in de overeenkomst te regelen on
 d. concessiegebied: gebied waarvoor de overeenkomst is gesloten;  
 
 e. dienstregeling: dienstkenmerken, zijnde het gebied waarbinnen en de tijdstippen waartussen vervoer wordt verricht, de vooraanmeldingstijd en de ophaal- of aankomstmarge.    
-3.  Het vervoer, bedoeld in het eerste lid, is vervoer als bedoeld in [artikel 69, eerste lid, van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) dat door een gemeentelijk vervoerbedrijf mag worden verricht.  
+3.  Het vervoer, bedoeld in het eerste lid, is vervoer als bedoeld in artikel 69, eerste lid, van de wet dat door een gemeentelijk vervoerbedrijf mag worden verricht.  
 
 ###Artikel 7 
 
-1. De [artikelen 12](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [13](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [14](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [70 tot en met 74](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [87](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [88, eerste lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [89 tot en met 93](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [97](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [98](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [101](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [102](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [105](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [106 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), en de artikelen 10 en 11, hoofdstuk 4 met uitzondering van de artikelen 41, 42, 43 en 50, van dit besluit zijn van overeenkomstige toepassing op voor een ieder openstaand personenvervoer volgens een dienstregeling per passagiersschip dat wordt verricht:
+1. De artikelen 12, 13, 14, 70 tot en met 74, 87, 88, eerste lid, 89 tot en met 93, 97, 98, 101, 102, 105 en 106 van de wet, en de artikelen 10 en 11, hoofdstuk 4 met uitzondering van de artikelen 41, 42, 43 en 50, van dit besluit zijn van overeenkomstige toepassing op voor een ieder openstaand personenvervoer volgens een dienstregeling per passagiersschip dat wordt verricht:
 
-a.krachtens een door een bestuursorgaan als bedoeld in [artikel 20 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) met een vervoerder gesloten overeenkomst voor ten hoogste zes jaar of voor een langere duur, voor zover Onze Minister met die duur heeft ingestemd op grond van aanzienlijke investeringen door de vervoerder in voor het te verrichten vervoer noodzakelijke materieel, en
+a.krachtens een door een bestuursorgaan als bedoeld in artikel 20 van de wet met een vervoerder gesloten overeenkomst voor ten hoogste zes jaar of voor een langere duur, voor zover Onze Minister met die duur heeft ingestemd op grond van aanzienlijke investeringen door de vervoerder in voor het te verrichten vervoer noodzakelijke materieel, en
 
-b.waarbij de overeenkomst tot stand is gekomen na een procedure van aanbesteding voor het plaatsen van overheidsopdrachten voor dienstverlening krachtens de [Raamwet EEG-voorschriften aanbestedingen](../../../../../wet/raamwet/eeg-voorschriften/aanbestedingen/BWBR0005937/README.md) voor het plaatsen van opdrachten voor dienstverlening.
-2. De [artikelen 27](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [28](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [31](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [32](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [44 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en de artikelen 31 tot en met 34 van dit besluit zijn van overeenkomstige toepassing op vervoer als bedoeld in het eerste lid, met dien verstande dat wordt gelezen voor:
+b.waarbij de overeenkomst tot stand is gekomen na een procedure van aanbesteding voor het plaatsen van overheidsopdrachten voor dienstverlening krachtens de Raamwet EEG-voorschriften aanbestedingen voor het plaatsen van opdrachten voor dienstverlening.
+2. De artikelen 27, 28, 31, 32 en 44 van de wet en de artikelen 31 tot en met 34 van dit besluit zijn van overeenkomstige toepassing op vervoer als bedoeld in het eerste lid, met dien verstande dat wordt gelezen voor:
 
 a.concessie: in artikel 7, eerste lid, van het besluit bedoelde overeenkomst;
 
@@ -147,17 +147,17 @@ d.concessiegebied: gebied waarvoor de overeenkomst is gesloten.
 
 a.met een door de constructie bepaalde maximumsnelheid van minder dan 30 kilometer per uur,
 
-b.die zijn bestemd voor het vervoer van voertuigen op meer dan twee wielen, niet zijnde een brommobiel of een gehandicaptenvoertuig als bedoeld in [artikel 1, onderdeel ia, onderscheidenlijk onderdeel r van het Reglement verkeersregels en verkeerstekens 1990](../../../../../AMvB/reglement/verkeersregels/en/verkeerstekens/1990/(rvv/1990)/BWBR0004825/README.md) of
+b.die zijn bestemd voor het vervoer van voertuigen op meer dan twee wielen, niet zijnde een brommobiel of een gehandicaptenvoertuig als bedoeld in artikel 1, onderdeel ia, onderscheidenlijk onderdeel r van het Reglement verkeersregels en verkeerstekens 1990 of
 
 c.op de Waddenzee, met inbegrip van de verbindingen met de Noordzee.
-4. Het vervoer, bedoeld in het eerste lid, is vervoer als bedoeld in [artikel 69, eerste lid, van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) dat door een gemeentelijk vervoerbedrijf mag worden verricht.
+4. Het vervoer, bedoeld in het eerste lid, is vervoer als bedoeld in artikel 69, eerste lid, van de wet dat door een gemeentelijk vervoerbedrijf mag worden verricht.
 
 ### Artikel  7a  
 
-1.  De [artikelen 1](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [12 tot en met 14](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [19, eerste en tweede lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [23, eerste en tweede lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [25 eerste, tweede en derde lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [26, eerste lid met uitzondering van de zinsnede «bedoeld in artikel 20, tweede en derde lid»](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [27](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [28 tot en met 29a](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [31 tot en met 32a](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [33 tot en met 37](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [38 met uitzondering van het tweede en derde lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [39](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [40](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [41](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [43](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [43a tot en met 43c](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [44](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [45](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [46](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [49](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [70](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [71](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [72](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [73](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [74](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [87 met uitzondering van het vierde lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [88, eerste lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [89](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [90 tot en met 93](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [97](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [98](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [100](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [101](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [102](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [105](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [106 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en de artikelen 1, 2, 10, eerste lid, onderdelen a tot en met e en onderdeel g, 11, 31, 33, 34, 39, 44 tot en met 46, 48, 49, 51, 52 en 53 van dit besluit zijn van overeenkomstige toepassing op voor een ieder openstaand personenvervoer met of zonder een dienstregeling per veerboot of passagiersschip dat wordt verricht tussen twee of meer aanlegplaatsen gelegen aan de Waddenzee, met inbegrip van de verbindingen met de Noordzee en met havens die in open verbinding staan met de Waddenzee, waarbij Vlieland, Terschelling, Ameland of Schiermonnikoog met het vasteland wordt verbonden.   
-2.  Met het in het eerste lid genoemde personenvervoer wordt tevens bedoeld vervoer van personen die zich verplaatsen per motorrijtuig, bedoeld in [artikel 1, eerste lid, onderdeel c, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), met uitzondering van vrachtauto’s als bedoeld in [artikel 1.1 van de Wet wegvervoer goederen](../../../../../wet/wet/wegvervoer/goederen/BWBR0024800/README.md). De bedoelde motorrijtuigen kunnen voorzien zijn van een aanhangwagen.   
+1.  De artikelen 1, 12 tot en met 14, 19, eerste en tweede lid, 23, eerste en tweede lid, 25 eerste, tweede en derde lid, 26, eerste lid met uitzondering van de zinsnede «bedoeld in artikel 20, tweede en derde lid», 27, 28 tot en met 29a, 31 tot en met 32a, 33 tot en met 37, 38 met uitzondering van het tweede en derde lid, 39, 40, 41, 43, 43a tot en met 43c, 44, 45, 46, 49, 70, 71, 72, 73, 74, 87 met uitzondering van het vierde lid, 88, eerste lid, 89, 90 tot en met 93, 97, 98, 100, 101, 102, 105 en 106 van de wet en de artikelen 1, 2, 10, eerste lid, onderdelen a tot en met e en onderdeel g, 11, 31, 33, 34, 39, 44 tot en met 46, 48, 49, 51, 52 en 53 van dit besluit zijn van overeenkomstige toepassing op voor een ieder openstaand personenvervoer met of zonder een dienstregeling per veerboot of passagiersschip dat wordt verricht tussen twee of meer aanlegplaatsen gelegen aan de Waddenzee, met inbegrip van de verbindingen met de Noordzee en met havens die in open verbinding staan met de Waddenzee, waarbij Vlieland, Terschelling, Ameland of Schiermonnikoog met het vasteland wordt verbonden.   
+2.  Met het in het eerste lid genoemde personenvervoer wordt tevens bedoeld vervoer van personen die zich verplaatsen per motorrijtuig, bedoeld in artikel 1, eerste lid, onderdeel c, van de Wegenverkeerswet 1994, met uitzondering van vrachtauto’s als bedoeld in artikel 1.1 van de Wet wegvervoer goederen. De bedoelde motorrijtuigen kunnen voorzien zijn van een aanhangwagen.   
 3.  Onze Minister verleent concessies voor het personenvervoer, bedoeld in het eerste lid, voor de duur van ten hoogste 15 jaar nadat daartoe een aanbesteding is gehouden. Artikel 5, derde lid, van Verordening (EG) 1370/2007 is daarbij van toepassing.   
-4.  Onze Minister kan in afwijking van het derde lid, de in dat lid genoemde concessie voor de eerste maal verlenen zonder dat daartoe een aanbesteding is gehouden, indien die concessie voldoet aan een van de kenmerken bedoeld in artikel 5, vierde lid, van Verordening (EG) 1370/2007. Indien Onze Minister een concessie als bedoeld in de eerste volzin verleent, wordt het programma van eisen, bedoeld in [artikel 44 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), voorafgaand aan de concessieverlening gepubliceerd.   
+4.  Onze Minister kan in afwijking van het derde lid, de in dat lid genoemde concessie voor de eerste maal verlenen zonder dat daartoe een aanbesteding is gehouden, indien die concessie voldoet aan een van de kenmerken bedoeld in artikel 5, vierde lid, van Verordening (EG) 1370/2007. Indien Onze Minister een concessie als bedoeld in de eerste volzin verleent, wordt het programma van eisen, bedoeld in artikel 44 van de wet, voorafgaand aan de concessieverlening gepubliceerd.   
 5.  Voor de toepassing van de artikelen van de wet en het besluit op het vervoer, bedoeld in het eerste lid, wordt gelezen voor: 
 
 a. trein: het in het eerste lid bedoelde vervoer;  
@@ -171,7 +171,7 @@ d. aanbestedingsreglement: reglement;
 e. auto, bus, trein, metro, tram of via geleidesysteem voortbewogen voertuig: het in het eerste lid bedoelde vervoer;  
 
 f. openbaar vervoer: het in het eerste lid bedoelde vervoer.     
-6.  De plicht te gedogen, bedoeld in [artikel 35 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), geldt voor het in het eerste lid bedoelde vervoer ten aanzien van het gebruik door de concessiehouder van de haveninfrastructuur waaronder wordt verstaan: 
+6.  De plicht te gedogen, bedoeld in artikel 35 van de wet, geldt voor het in het eerste lid bedoelde vervoer ten aanzien van het gebruik door de concessiehouder van de haveninfrastructuur waaronder wordt verstaan: 
 
 a. haventerreinen;  
 
@@ -179,18 +179,18 @@ b. aanleginrichtingen.
 
 ###Artikel 8 
 
-In afwijking van artikel 2, aanhef en onderdeel l, zijn de [artikelen 73](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [74](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [87](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [88, eerste lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [89 tot en met 91](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [93](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [97](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [98](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md),[105](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [106 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en de artikelen 52, 53, van dit besluit van overeenkomstige toepassing op door of vanwege de werkgever verzorgd vervoer van werknemers:
+In afwijking van artikel 2, aanhef en onderdeel l, zijn de artikelen 73, 74, 87, 88, eerste lid, 89 tot en met 91, 93, 97, 98,105 en 106 van de wet en de artikelen 52, 53, van dit besluit van overeenkomstige toepassing op door of vanwege de werkgever verzorgd vervoer van werknemers:
 
 a.naar en van de werkplek, voorafgaand aan onderscheidenlijk na afloop van de werkzaamheden,
 
 b.dat wordt verricht met bussen dan wel met auto's ingericht voor vervoer van meer dan zeven personen, de bestuurder daaronder niet begrepen en
 
-c.waarvoor subsidie wordt verleend door een bestuursorgaan als bedoeld in [artikel 20 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md).2. Het vervoer, bedoeld in het eerste lid, is vervoer als bedoeld in [artikel 69, eerste lid, van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) dat door een gemeentelijk vervoerbedrijf mag worden verricht.
+c.waarvoor subsidie wordt verleend door een bestuursorgaan als bedoeld in artikel 20 van de wet.2. Het vervoer, bedoeld in het eerste lid, is vervoer als bedoeld in artikel 69, eerste lid, van de wet dat door een gemeentelijk vervoerbedrijf mag worden verricht.
 
 ### Artikel  9  
 Treedt in werking op een nader te bepalen tijdstip 
 
-De [artikelen 4, tweede lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [6, tot en met 9](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [11 tot en met 13](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [84 tot en met 86, onderdeel b](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [87](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [88, eerste lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [89 tot en met 93](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [97 tot en met 99](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [104 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en de artikelen 12 tot en met 23, 28 tot en met 30, tweede en vierde lid, 75 tot en met 78, 81, 82, 118, 119, 123 en 125 van dit besluit zijn van overeenkomstige toepassing op het vervoer van personen dat wordt verricht met een driewielig motorrijtuig als bedoeld in [artikel 1.1, onderdeel q, van het Voertuigreglement](../../../../../AMvB/voertuigreglement/BWBR0006746/README.md).  
+De artikelen 4, tweede lid, 6, tot en met 9, 11 tot en met 13, 84 tot en met 86, onderdeel b, 87, 88, eerste lid, 89 tot en met 93, 97 tot en met 99 en 104 van de wet en de artikelen 12 tot en met 23, 28 tot en met 30, tweede en vierde lid, 75 tot en met 78, 81, 82, 118, 119, 123 en 125 van dit besluit zijn van overeenkomstige toepassing op het vervoer van personen dat wordt verricht met een driewielig motorrijtuig als bedoeld in artikel 1.1, onderdeel q, van het Voertuigreglement.  
 
 ### §  3  
 
@@ -234,7 +234,7 @@ b. worden bepaald dat andere gegevens dan de gegevens, bedoeld in het eerste lid
 
 ### Artikel  11  
 
-1.  Onze Minister kan ambtshalve of op aanvraag een exploitant van een reisinformatiesysteem met een landelijk bereik aanwijzen als bedoeld in [artikel 14 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), indien niet meer voorzien kan worden in ten minste één doelmatig en voor de reiziger toegankelijk reisinformatiesysteem met een landelijk bereik.   
+1.  Onze Minister kan ambtshalve of op aanvraag een exploitant van een reisinformatiesysteem met een landelijk bereik aanwijzen als bedoeld in artikel 14 van de wet, indien niet meer voorzien kan worden in ten minste één doelmatig en voor de reiziger toegankelijk reisinformatiesysteem met een landelijk bereik.   
 2.  Voordat Onze Minister een exploitant aanwijst, maakt hij in de Staatscourant zijn voornemen daartoe bekend.   
 3.  Bij de bekendmaking, bedoeld in het tweede lid, wordt de termijn aangegeven waarbinnen bij Onze Minister een aanvraag kan worden ingediend tot aanwijzing als exploitant van een reisinformatiesysteem.   
 4.  De aanvraag, bedoeld in het derde lid, bevat ten minste een voorstel tot exploitatie van een doelmatig en voor de reiziger toegankelijk reisinformatiesysteem met een landelijk bereik en de daarbij gedurende een bepaalde periode behorende jaarlijkse financiële bijdrage van de vervoerders die openbaar vervoer verrichten waardoor de instandhouding van het desbetreffende reisinformatiesysteem is gewaarborgd.   
@@ -337,7 +337,7 @@ Het is verboden een bewerkt vergunningbewijs te gebruiken.
 
 ### Artikel  22  
 
-1.  De vervoerder voldoet aan de eis van betrouwbaarheid, indien hij een met het oog op een communautaire vergunning of taxivervoer verleende verklaring omtrent het gedrag overeenkomstig de bepalingen van de [Wet justitiële gegevens](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md) heeft overgelegd die niet ouder is dan twee maanden.   
+1.  De vervoerder voldoet aan de eis van betrouwbaarheid, indien hij een met het oog op een communautaire vergunning of taxivervoer verleende verklaring omtrent het gedrag overeenkomstig de bepalingen van de Wet justitiële gegevens heeft overgelegd die niet ouder is dan twee maanden.   
 2.  De vervoerder wiens land van vestiging een andere lidstaat is dan Nederland, dan wel een andere staat die partij is bij de EER, voldoet aan de eis van betrouwbaarheid indien hij een niet ouder dan twee maanden zijnde, in die staat daartoe afgegeven verklaring heeft overgelegd.  
 
 ### Artikel  23  
@@ -393,8 +393,8 @@ De vervoerder die openbaar vervoer of besloten busvervoer verricht, voldoet aan 
 
 a. een door Onze Minister erkend getuigschrift van met goed gevolg afgelegde examens waarbij ten minste de kennis is vastgesteld van de door Onze Minister vastgestelde onderwerpen, of  
 
-b. een voor het beroep van vervoerder die taxivervoer verricht afgegeven erkenning van EG-beroepskwalificaties als bedoeld in [artikel 6 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).     
-2.  Een getuigschrift als bedoeld in het eerste lid, onderdeel a, geldt als een erkenning van EG-beroepskwalificaties als bedoeld in [artikel 6 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md).   
+b. een voor het beroep van vervoerder die taxivervoer verricht afgegeven erkenning van EG-beroepskwalificaties als bedoeld in artikel 6 van de Algemene wet erkenning EG-beroepskwalificaties.     
+2.  Een getuigschrift als bedoeld in het eerste lid, onderdeel a, geldt als een erkenning van EG-beroepskwalificaties als bedoeld in artikel 6 van de Algemene wet erkenning EG-beroepskwalificaties.   
 3.  Bij ministeriële regeling kunnen regels worden gesteld over de gevallen waarin en de wijze waarop een erkenning van EG-beroepskwalificaties als bedoeld in het eerste lid, onderdeel b, wordt verstrekt.   
 4.  Onze Minister neemt een aanvraag om verlening van een erkenning van EG-beroepskwalificaties voor taxivervoer in behandeling nadat de door Onze Minister vastgestelde vergoeding voor de kosten van deze behandeling is ontvangen.   
 5.  Bij ministeriële regeling kan worden bepaald van welke onderwerpen, bedoeld in het eerste lid, onder a, vrijstelling kan worden verleend aan houders van in die regeling genoemde diploma's.  
@@ -427,7 +427,7 @@ b. een voor het beroep van vervoerder die taxivervoer verricht afgegeven erkenni
 
 ### Artikel  31  
 
-Consumentenorganisaties die ingevolge de [artikelen 27, eerste lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [31, eerste lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), en [44, derde lid, van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) om advies worden gevraagd: 
+Consumentenorganisaties die ingevolge de artikelen 27, eerste lid, 31, eerste lid, en 44, derde lid, van de wet om advies worden gevraagd: 
 
 a. bezitten rechtspersoonlijkheid,  
 
@@ -437,7 +437,7 @@ c. zijn werkzaam op nationale of regionale schaal.
 
 ### Artikel  33  
 
-1.  De onderwerpen, bedoeld in [artikel 31, derde lid, van de wet ](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md)waarover de concessiehouder krachtens de concessie ten minste eenmaal per jaar advies vraagt aan consumentenorganisaties als bedoeld in artikel 31 van dit besluit betreffen, voor zover de concessiehouder ten aanzien van die onderwerpen maatregelen heeft getroffen: 
+1.  De onderwerpen, bedoeld in artikel 31, derde lid, van de wet waarover de concessiehouder krachtens de concessie ten minste eenmaal per jaar advies vraagt aan consumentenorganisaties als bedoeld in artikel 31 van dit besluit betreffen, voor zover de concessiehouder ten aanzien van die onderwerpen maatregelen heeft getroffen: 
 
 a. de uitvoering van de dienstregeling,  
 
@@ -454,7 +454,7 @@ f. de wijze waarop reizigers de prijs van het vervoerbewijs kunnen voldoen,
 g. de voorzieningen die de concessiehouder treft ten aanzien van de toegankelijkheid van het openbaar vervoer voor reizigers met een handicap en  
 
 h. de voorzieningen die de concessiehouder treft ten behoeve van het waarborgen van een verantwoorde mate van veiligheid van reizigers en van het voor hem werkzame personeel.     
-2.  Het eerste lid is van toepassing op de concessieverlener indien hij op grond van [artikel 31, zevende lid, van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), een wijziging initieert van een onderwerp als bedoeld in het eerste lid.  
+2.  Het eerste lid is van toepassing op de concessieverlener indien hij op grond van artikel 31, zevende lid, van de wet, een wijziging initieert van een onderwerp als bedoeld in het eerste lid.  
 3.  Voor zover de concessieverlener ten aanzien van die onderwerpen voorschriften aan de concessie heeft verbonden en voor zover de concessiehouder ten aanzien van die onderwerpen maatregelen heeft getroffen, is de aanhef van het eerste lid, mede van toepassing op: 
 
 a. de procedure voor de behandeling van klachten van de reiziger en de wijze waarop de concessiehouder de reiziger hierover informeert,  
@@ -473,7 +473,7 @@ b. de aanleg en onderhoud van infrastructuur ten behoeve van het openbaar vervoe
 
 ### Artikel  35  
 
-De plicht te gedogen, bedoeld in [artikel 35 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), geldt ten aanzien van het gebruik door de concessiehouder van in de bijlage opgenomen categorieën of onderdelen van infrastructuur. 
+De plicht te gedogen, bedoeld in artikel 35 van de wet, geldt ten aanzien van het gebruik door de concessiehouder van in de bijlage opgenomen categorieën of onderdelen van infrastructuur. 
 
 ###Artikel 35a 
 
@@ -493,7 +493,7 @@ De concessieverlener verbindt uiterlijk drie maanden na inwerkingtreding van het
 
 ###Artikel 36a 
 
-1. Een concessie voor openbaar vervoer per trein als bedoeld in [artikel 20, derde lid, van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) kan bij wijze van overgangsmaatregel worden verleend zonder dat een aanbesteding is gehouden:
+1. Een concessie voor openbaar vervoer per trein als bedoeld in artikel 20, derde lid, van de wet kan bij wijze van overgangsmaatregel worden verleend zonder dat een aanbesteding is gehouden:
 
 a.in afwachting van tot stand te brengen infrastructuur;
 
@@ -501,7 +501,7 @@ b. in afwachting van de vorming van nieuwe concessiegebieden, of
 
 c.gedurende een periode waarin aanbesteding wordt voorbereid.
 2. De duur van een concessie die wordt verleend conform het eerste lid bedraagt ten hoogste drie jaar. Na afloop van die concessie vindt voor het openbaar vervoer in het gebied waarop de desbetreffende concessie betrekking had, niet opnieuw concessieverlening plaats conform het eerste lid, behoudens goedkeuring van Onze Minister.
-3.  Een opdracht voor het openbaar vervoer per regionale treindienst die voor de inwerkingtreding van dit besluit is aanbesteed of onderhands verleend op grond van [artikel 5, eerste lid, van de Regeling experimenten regionale treindiensten](../../../../../ministeriele-regeling/regeling/experimenten/regionale/treindiensten/BWBR0009697/README.md), kan na inwerkingtreding van dit besluit worden omgezet in een concessie voor openbaar vervoer per trein zonder dat daartoe een aanbesteding is gehouden.
+3.  Een opdracht voor het openbaar vervoer per regionale treindienst die voor de inwerkingtreding van dit besluit is aanbesteed of onderhands verleend op grond van artikel 5, eerste lid, van de Regeling experimenten regionale treindiensten, kan na inwerkingtreding van dit besluit worden omgezet in een concessie voor openbaar vervoer per trein zonder dat daartoe een aanbesteding is gehouden.
 
 ### §  2  
 
@@ -509,8 +509,8 @@ c.gedurende een periode waarin aanbesteding wordt voorbereid.
 
 ### Artikel  37  
 
-1. Op aanbesteding van concessies voor openbaar vervoer waarvan de geraamde waarde exclusief omzetbelasting tenminste het in [artikel 7, aanhef onderdeel b, van het Besluit aanbestedingsregels voor overheidsopdrachten](../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md) bedoelde bedrag bedraagt, zijn, onverminderd het bij of krachtens de [wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) bepaalde, de [artikelen 2 tot en met 57 van dat Besluit](../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md) van overeenkomstige toepassing, met uitzondering van de [artikelen 3](../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md), [5, eerste lid](../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md), [8](../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md), [9, vijfde, negende, tiende, elfde en twaalfde lid](../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md), [10 tot en met 17](../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md), [20](../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md), [21](../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md), [22](../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md), [31, tweede lid](../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md), en [34](../../../../../AMvB/besluit/aanbestedingsregels/voor/overheidsopdrachten/BWBR0018607/README.md). 
-2. Voor zover de [wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) niet anders bepaalt, wendt een concessieverlener zich zonder discriminatie en onder dezelfde voorwaarden als die welke hij voor gegadigden of inschrijvers in Nederland stelt, tot ondernemers in andere lidstaten en in overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, die voldoen aan de vereisten gesteld krachtens richtlijn nr. 2004/18/EG, en handelt hierbij transparant. 
+1. Op aanbesteding van concessies voor openbaar vervoer waarvan de geraamde waarde exclusief omzetbelasting tenminste het in artikel 7, aanhef onderdeel b, van het Besluit aanbestedingsregels voor overheidsopdrachten bedoelde bedrag bedraagt, zijn, onverminderd het bij of krachtens de wet bepaalde, de artikelen 2 tot en met 57 van dat Besluit van overeenkomstige toepassing, met uitzondering van de artikelen 3, 5, eerste lid, 8, 9, vijfde, negende, tiende, elfde en twaalfde lid, 10 tot en met 17, 20, 21, 22, 31, tweede lid, en 34. 
+2. Voor zover de wet niet anders bepaalt, wendt een concessieverlener zich zonder discriminatie en onder dezelfde voorwaarden als die welke hij voor gegadigden of inschrijvers in Nederland stelt, tot ondernemers in andere lidstaten en in overige staten die partij zijn bij de Overeenkomst betreffende de Europese Economische Ruimte, die voldoen aan de vereisten gesteld krachtens richtlijn nr. 2004/18/EG, en handelt hierbij transparant. 
 
 ### Artikel  38  
 
@@ -528,7 +528,7 @@ c. gegevens over de tijdens de concessieperiode door de concessiehouder verkocht
 
 d. overige gegevens die naar het oordeel van de concessieverlener noodzakelijk zijn voor de voorbereiding van aanbesteding van een concessie.     
 2.  De in het eerste lid, onderdeel b, bedoelde kosten worden ingedeeld naar de kostensoorten personeel en materieel en zodanig gespecificeerd en toegelicht dat een overzichtelijk beeld ontstaat van de samenstelling ervan, van de samenhang tussen kostensoorten en van de relatie met het niveau van de dienstverlening.   
-3.  De concessiehouder verstrekt de gegevens, bedoeld in het eerste lid, onderdelen b en c, desgevraagd vergezeld van een toelichting en een verklaring van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md).   
+3.  De concessiehouder verstrekt de gegevens, bedoeld in het eerste lid, onderdelen b en c, desgevraagd vergezeld van een toelichting en een verklaring van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek.   
 4.  Het eerste, tweede en derde lid zijn van overeenkomstige toepassing op een vervoerder die openbaar vervoer verricht zonder een daartoe verleende concessie, indien de gegevens noodzakelijk zijn voor de voorbereiding van aanbesteding van een concessie voor dat openbaar vervoer.  
 
 ### Artikel  40  
@@ -560,7 +560,7 @@ d. overige gegevens die naar het oordeel van de concessieverlener noodzakelijk z
 
 a. bevat een vermelding van de prijs van het vervoerbewijs en  
 
-b. is zodanig ingericht dat de houder van het vervoerbewijs en de in de [artikelen 87](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [89 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) bedoelde ambtenaren en personen de geldigheid van het vervoerbewijs kunnen vaststellen en  
+b. is zodanig ingericht dat de houder van het vervoerbewijs en de in de artikelen 87 en 89 van de wet bedoelde ambtenaren en personen de geldigheid van het vervoerbewijs kunnen vaststellen en  
 
 c. voldoet aan andere bij ministeriële regeling vastgestelde eisen.     
 2.  Bij ministeriële regeling kunnen regels worden vastgesteld over eisen die aan nationale vervoerbewijzen kunnen worden gesteld, waaronder over de verkrijgbaarheid.  
@@ -575,13 +575,13 @@ Een reiziger is voor het vervoer een vervoerprijs verschuldigd overeenkomstig he
 
 ### Artikel  45  
 
-1.  Het verbod, bedoeld in [artikel 70, eerste lid, van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) is niet van toepassing op: 
+1.  Het verbod, bedoeld in artikel 70, eerste lid, van de wet is niet van toepassing op: 
 
 a. kinderen onder geleide die de leeftijd van vier jaar nog niet hebben bereikt en voor wie geen eigen zitplaats wordt verlangd,  
 
 b. één persoon van ten minste twaalf jaar oud die een persoon begeleidt die is voorzien van een legitimatiebewijs voor gehandicapten,  
 
-c. ambtenaren en personen als bedoeld in de [artikelen 87](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [89 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), belast met toezicht en opsporing, bij de uitoefening van de hun in die artikelen opgedragen taak.     
+c. ambtenaren en personen als bedoeld in de artikelen 87 en 89 van de wet, belast met toezicht en opsporing, bij de uitoefening van de hun in die artikelen opgedragen taak.     
 2.  Bij ministeriële regeling kunnen regels worden gesteld over een legitimatiebewijs als bedoeld in het eerste lid, onderdeel b, alsmede over de afgifte ervan.  
 
 ### Artikel  46  
@@ -631,7 +631,7 @@ e. de controle van vervoerbewijzen belemmert of verhindert.
 4.  Indien de reiziger de in het tweede en derde lid bedoelde bedragen terstond betaalt, is de vervoerder verplicht een betalingsbewijs af te geven, dat voor zover nodig tevens geldt als vervoerbewijs.   
 5.  Indien de reiziger de in het tweede en derde lid bedoelde bedragen niet terstond betaalt, stelt de vervoerder hem in de gelegenheid deze bedragen alsnog te betalen binnen veertien dagen nadat het feit is geconstateerd. De vervoerder kan aan de reiziger een bewijs verstrekken op grond waarvan deze zijn reis kan aanvangen of voortzetten.   
 6.  Indien de reiziger de in het tweede en derde lid bedoelde bedragen niet binnen de termijn, bedoeld in het vijfde lid, heeft betaald, stelt de vervoerder hem nogmaals in de gelegenheid deze bedragen, verhoogd met een bij ministeriële regeling vast te stellen bedrag aan administratiekosten, te betalen binnen veertien dagen na afloop van de termijn, bedoeld in het vijfde lid.   
-7.  Zodra de reiziger voldoet aan het in het tweede, derde, vijfde of zesde lid bepaalde, vervalt het recht van strafvervolging ter zake van overtreding van [artikel 70, eerste lid, van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md).   
+7.  Zodra de reiziger voldoet aan het in het tweede, derde, vijfde of zesde lid bepaalde, vervalt het recht van strafvervolging ter zake van overtreding van artikel 70, eerste lid, van de wet.   
 
 ### Artikel  49  
 
@@ -650,7 +650,7 @@ b. van het vervoerbewijs slechts voor een gedeelte van de termijn van geldigheid
 
 ### Artikel  51  
 
-Bij intrekking van een vervoerbewijs of gedeelte van een vervoerbewijs geven de in de [artikelen 87](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [89 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) bedoelde ambtenaren en personen daarvan een bewijs af aan de reiziger. 
+Bij intrekking van een vervoerbewijs of gedeelte van een vervoerbewijs geven de in de artikelen 87 en 89 van de wet bedoelde ambtenaren en personen daarvan een bewijs af aan de reiziger. 
 
 ### §  3  
 
@@ -658,7 +658,7 @@ Bij intrekking van een vervoerbewijs of gedeelte van een vervoerbewijs geven de 
 
 ### Artikel  52  
 
-1.  Onder verstoring van orde, rust, veiligheid of een goede bedrijfsgang als bedoeld in [artikel 72 van de wet ](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md)worden verstaan: 
+1.  Onder verstoring van orde, rust, veiligheid of een goede bedrijfsgang als bedoeld in artikel 72 van de wet worden verstaan: 
 
 a. gedragingen waardoor de bediening en het gebruik van voorzieningen of van een vervoermiddel dan wel de taakuitoefening van het personeel van de vervoerder worden verhinderd of belemmerd,  
 
@@ -735,7 +735,7 @@ Vervallen per 06-04-2005
 
 ###Artikel 72a 
 
-Bij ministeriële regeling worden regels gesteld over de verplichting voor de vervoerder die taxivervoer verricht om in of op de auto waarmee taxivervoer wordt verricht dan wel anderszins duidelijk kenbaar te maken op welke wijze een klacht als bedoeld in [artikel 78, eerste lid, van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) kan worden ingediend en op welke wijze deze wordt behandeld.
+Bij ministeriële regeling worden regels gesteld over de verplichting voor de vervoerder die taxivervoer verricht om in of op de auto waarmee taxivervoer wordt verricht dan wel anderszins duidelijk kenbaar te maken op welke wijze een klacht als bedoeld in artikel 78, eerste lid, van de wet kan worden ingediend en op welke wijze deze wordt behandeld.
 
 ### Artikel  73  
 
@@ -746,7 +746,7 @@ Bij ministeriële regeling worden regels gesteld over de verplichting voor de ve
 
 ### Artikel  74  
 
-1.  Met het besturen van een bus wordt slechts diegene belast, die in het bezit is van een niet ouder dan vijf jaar zijnde geneeskundige verklaring waaruit blijkt dat hij geen lichamelijke of geestelijke afwijkingen heeft welke hem zouden kunnen beletten een bus naar behoren te besturen en dat hij beschikt over voldoende gehoor- en gezichtsvermogen. De geneeskundige verklaring wordt afgegeven door een deskundige persoon als bedoeld in [artikel 14, eerste lid, van de Arbeidsomstandighedenwet](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md) die belast is met de taken, bedoeld in de onderdelen b of c, van dat lid, of een arts die deel uitmaakt van een arbodienst als bedoeld in [die wet](../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md).   
+1.  Met het besturen van een bus wordt slechts diegene belast, die in het bezit is van een niet ouder dan vijf jaar zijnde geneeskundige verklaring waaruit blijkt dat hij geen lichamelijke of geestelijke afwijkingen heeft welke hem zouden kunnen beletten een bus naar behoren te besturen en dat hij beschikt over voldoende gehoor- en gezichtsvermogen. De geneeskundige verklaring wordt afgegeven door een deskundige persoon als bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet die belast is met de taken, bedoeld in de onderdelen b of c, van dat lid, of een arts die deel uitmaakt van een arbodienst als bedoeld in die wet.   
 2.  Indien Onze Minister vermoedt dat de bestuurder van een bus, werkzaam in het openbaar vervoer of besloten busvervoer, niet meer voldoet aan de eisen, bedoeld in het eerste lid, kan Onze Minister verlangen dat die bestuurder zich binnen een door Onze Minister vast te stellen termijn aan een nieuw geneeskundig onderzoek onderwerpt. Indien dit onderzoek daartoe aanleiding geeft, kan de geneeskundige verklaring worden ingetrokken.   
 3.  De bestuurder van een bus is verplicht de geneeskundige verklaring bij zich te hebben.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de afgifte van een geneeskundige verklaring en een geneeskundig onderzoek.   
@@ -762,12 +762,12 @@ Met het oog op de herkenbaarheid en toegankelijkheid van het vervoer van persone
 ### Artikel  76  
 
 1.  Het is verboden openbaar vervoer met een bus of besloten busvervoer te verrichten indien in het kentekenregister de vermelding ontbreekt dat het voertuig is goedgekeurd als bus. Het is verboden taxivervoer of openbaar vervoer met een auto te verrichten indien in het kentekenregister de vermelding ontbreekt dat het voertuig is goedgekeurd als taxi.   
-2.  Een keuringsbewijs als bedoeld in [artikel 72 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), dat is afgegeven voor het verrichten van openbaar vervoer, besloten busvervoer of taxivervoer met een bus of auto, verliest zijn geldigheid indien hieruit niet blijkt dat is voldaan aan de eisen, bedoeld in het derde lid, onderdeel b.   
-3.  Bij ministeriële regeling kunnen, onverminderd het bepaalde bij of krachtens de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md), regels worden gesteld inzake de inrichting, uitrusting en keuring van bussen en auto's, alsmede de voor de keuring verschuldigde vergoedingen, ten behoeve van de afgifte van: 
+2.  Een keuringsbewijs als bedoeld in artikel 72 van de Wegenverkeerswet 1994, dat is afgegeven voor het verrichten van openbaar vervoer, besloten busvervoer of taxivervoer met een bus of auto, verliest zijn geldigheid indien hieruit niet blijkt dat is voldaan aan de eisen, bedoeld in het derde lid, onderdeel b.   
+3.  Bij ministeriële regeling kunnen, onverminderd het bepaalde bij of krachtens de Wegenverkeerswet 1994, regels worden gesteld inzake de inrichting, uitrusting en keuring van bussen en auto's, alsmede de voor de keuring verschuldigde vergoedingen, ten behoeve van de afgifte van: 
 
 a. de aanduiding in het kentekenregister, bedoeld in het eerste lid,  
 
-b. het keuringsbewijs, bedoeld in [artikel 72 van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).    
+b. het keuringsbewijs, bedoeld in artikel 72 van de Wegenverkeerswet 1994.    
 
 ### Artikel  77  
 
@@ -782,16 +782,16 @@ b. het keuringsbewijs, bedoeld in [artikel 72 van de Wegenverkeerswet 1994](../.
 ### Artikel  78  
 
 1.  De vervoerder die taxivervoer verricht draagt er zorg voor dat in een auto waarmee taxivervoer wordt verricht, een taxameter aanwezig is die zichtbaar voor de reiziger de vervoerprijs overeenkomstig de kenbaar gemaakte tarieven aangeeft.   
-2.  De taxameter voldoet aan de regels die bij of krachtens de [Metrologiewet](../../../../../wet/metrologiewet/BWBR0019517/README.md) zijn gesteld.   
+2.  De taxameter voldoet aan de regels die bij of krachtens de Metrologiewet zijn gesteld.   
 3.  Behoudens in geval schriftelijk in een overeenkomst tarieven zijn vastgelegd voor gedurende een bepaalde periode meermalen te verrichten taxivervoer, wordt taxivervoer slechts verricht indien de in de auto aanwezige taxameter wordt gebruikt.   
-4.  Bij ministeriële regeling worden nadere regels gesteld over de instelling van de taxameter en de tijdvakken waarop een controle van de taxameter moet plaatsvinden tegen de in het tweede lid bedoelde eisen voor een in gebruik genomen taxameter. De [artikelen 15, vierde lid](../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md), en [20 van het Meetinstrumentenbesluit I](../../../../../AMvB/meetinstrumentenbesluit/i/BWBR0019897/README.md) zijn daarbij van overeenkomstige toepassing.   
+4.  Bij ministeriële regeling worden nadere regels gesteld over de instelling van de taxameter en de tijdvakken waarop een controle van de taxameter moet plaatsvinden tegen de in het tweede lid bedoelde eisen voor een in gebruik genomen taxameter. De artikelen 15, vierde lid, en 20 van het Meetinstrumentenbesluit I zijn daarbij van overeenkomstige toepassing.   
 5.  Dit lid is nog niet in werking getreden.   
 6.  Het eerste lid is niet van toepassing indien de auto uitsluitend wordt gebruikt voor taxivervoer dat wordt verricht ter uitvoering van een schriftelijke overeenkomst waarbij gedurende in een bij die overeenkomst vastgestelde periode meermalen taxivervoer wordt verricht tegen een in die overeenkomst vastgelegd tarief en in door Onze Minister te bepalen gevallen waarbij de auto uitsluitend wordt gebruikt voor vervoer tegen eenheidsprijzen.  
 
 ### Artikel  79  
 
-1.  De vervoerder die taxivervoer verricht, draagt er zorg voor dat in een auto waarmee taxivervoer wordt verricht een op correcte wijze functionerende boordcomputer aanwezig is waarvoor een typegoedkeuring is verleend, als bedoeld in [artikel 22, eerste lid, van de Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md).   
-2.  De boordcomputer, bedoeld in het eerste lid, heeft een activeringskeuring en, voor zover bepaald bij ministeriële regeling, een periodiek onderzoek ondergaan, die zijn uitgevoerd door erkende natuurlijke of rechtspersonen, als bedoeld in [artikel 9:1, eerste lid, van de Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md).   
+1.  De vervoerder die taxivervoer verricht, draagt er zorg voor dat in een auto waarmee taxivervoer wordt verricht een op correcte wijze functionerende boordcomputer aanwezig is waarvoor een typegoedkeuring is verleend, als bedoeld in artikel 22, eerste lid, van de Wegenverkeerswet 1994.   
+2.  De boordcomputer, bedoeld in het eerste lid, heeft een activeringskeuring en, voor zover bepaald bij ministeriële regeling, een periodiek onderzoek ondergaan, die zijn uitgevoerd door erkende natuurlijke of rechtspersonen, als bedoeld in artikel 9:1, eerste lid, van de Arbeidstijdenwet.   
 3.  De vervoerder die taxivervoer verricht draagt er zorg voor dat de boordcomputer te allen tijde de volgende gegevens registreert: 
 
 a. de kilometerstand van de auto;  
@@ -806,9 +806,9 @@ e. informatie over de werking van de boordcomputer.
 4.  De vervoerder die taxivervoer verricht draagt er tevens zorg voor dat de boordcomputer de arbeids- en rusttijden van de bestuurder registreert.   
 5.  Indien de bestuurder taxivervoer verricht, draagt de vervoerder er, onverminderd het derde en vierde lid, zorg voor dat de boordcomputer de volgende gegevens registreert: 
 
-a. het personenvervoernummer dat staat aangegeven op de vergunning, bedoeld in [artikel 4, derde lid, van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
+a. het personenvervoernummer dat staat aangegeven op de vergunning, bedoeld in artikel 4, derde lid, van de wet;  
 
-b. het aan de vervoerder toegekende unieke nummer, als bedoeld in [artikel 9, onderdeel a, van de Handelsregisterwet 2007](../../../../../wet/handelsregisterwet/2007/BWBR0021777/README.md);  
+b. het aan de vervoerder toegekende unieke nummer, als bedoeld in artikel 9, onderdeel a, van de Handelsregisterwet 2007;  
 
 c. het nummer van de chauffeurskaart van de bestuurder;  
 
@@ -828,7 +828,7 @@ f. de afstand, de prijs van het vervoer per rit in beladen en onbeladen staat en
 3.  Bij ministeriële regeling kunnen regels worden gesteld over de wijze van bewaren van de gegevens, bedoeld in artikel 79, derde en vijfde lid, en het overbrengen van de in de boordcomputer en de op de chauffeurskaart geregistreerde gegevens naar de vestiging van de vervoerder die taxivervoer verricht.   
 4.  Het derde lid is van overeenkomstige toepassing op de gegevens bedoeld in artikel 79, vierde lid.   
 5.  Bij ministeriële regeling worden nadere regels gesteld over de registratieverplichtingen die op de vervoerder en de bestuurder rusten indien de boordcomputer buiten gebruik is en de gegevens die in dat geval aanwezig zijn in de auto waarmee taxivervoer wordt verricht.   
-6.  Indien de boordcomputer niet op correcte wijze functioneert of buiten gebruik is, draagt de vervoerder er zorg voor dat de boordcomputer, binnen een bij ministeriële regeling te bepalen termijn, hersteld wordt door erkende natuurlijke of rechtspersonen, als bedoeld in [artikel 9:1, eerste lid, van de Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md).   
+6.  Indien de boordcomputer niet op correcte wijze functioneert of buiten gebruik is, draagt de vervoerder er zorg voor dat de boordcomputer, binnen een bij ministeriële regeling te bepalen termijn, hersteld wordt door erkende natuurlijke of rechtspersonen, als bedoeld in artikel 9:1, eerste lid, van de Arbeidstijdenwet.   
 7.  De vervoerder verstrekt de bestuurder op diens verzoek een kopie van de gegevens die ingevolge het derde lid van de chauffeurskaart zijn overgebracht naar de vestiging van de vervoerder.   
 8.  Het is de vervoerder die taxivervoer verricht verboden: 
 
@@ -840,7 +840,7 @@ b. om in de auto waarmee taxivervoer wordt verricht een voorziening aanwezig te 
 ### Artikel  81  
 
 1.  De vervoerder die taxivervoer verricht, gebruikt ten behoeve van een deugdelijke registratie van de gegevens, bedoeld in artikel 79, derde tot en met vijfde lid, een door Onze Minister verstrekte ondernemerskaart.   
-2.  De erkende natuurlijke persoon of rechtspersoon, als bedoeld in [artikel 9:1, eerste lid, van de Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md) gebruikt ten behoeve van het installeren, onderzoeken of herstellen van de boordcomputer een door Onze Minister verstrekte keuringskaart.   
+2.  De erkende natuurlijke persoon of rechtspersoon, als bedoeld in artikel 9:1, eerste lid, van de Arbeidstijdenwet gebruikt ten behoeve van het installeren, onderzoeken of herstellen van de boordcomputer een door Onze Minister verstrekte keuringskaart.   
 3.  Met het besturen van een auto waarmee taxivervoer wordt verricht, wordt slechts diegene belast, die in het bezit is van een geldige, behoorlijk leesbare, door Onze Minister verstrekte chauffeurskaart.   
 4.  Voor bij ministeriële regeling aan te wijzen soorten taxidiensten waarbij gedurende een bepaalde periode meermalen taxivervoer wordt verricht volgens een schriftelijke overeenkomst waarin tarieven zijn vastgelegd, kan in de plaats van de in het derde lid bedoelde chauffeurskaart volstaan worden met een chauffeurskaart onder beperkingen.   
 5.  De bestuurder van een auto waarmee taxivervoer wordt verricht, is in het bezit van een door Onze Minister verstrekte chauffeurskaart of chauffeurskaart onder beperkingen en gebruikt deze kaart ten behoeve van een deugdelijke registratie van de gegevens, bedoeld in artikel 79, derde tot en met vijfde lid.   
@@ -852,15 +852,15 @@ b. om in de auto waarmee taxivervoer wordt verricht een voorziening aanwezig te 
 
 1.  Bij de aanvraag voor de chauffeurskaart worden de volgende documenten overgelegd: 
 
-a. een rijbewijs als bedoeld in de [Wegenverkeerswet 1994](../../../../../wet/wegenverkeerswet/1994/BWBR0006622/README.md) dan wel een door het bevoegde gezag buiten Nederland afgegeven rijbewijs, dat geldig is voor het besturen van het motorrijtuig waarmee wordt gereden;  
+a. een rijbewijs als bedoeld in de Wegenverkeerswet 1994 dan wel een door het bevoegde gezag buiten Nederland afgegeven rijbewijs, dat geldig is voor het besturen van het motorrijtuig waarmee wordt gereden;  
 
 b. een geneeskundige verklaring die niet ouder is dan vier maanden, die voldoet aan de eisen, bedoeld in artikel 74, eerste lid;  
 
-c. een met het oog op het uitoefenen van het beroep van taxichauffeur verleende verklaring omtrent het gedrag overeenkomstig de bepalingen van de [Wet justitiële en strafvorderlijke gegevens](../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md), die niet ouder is dan vier maanden;  
+c. een met het oog op het uitoefenen van het beroep van taxichauffeur verleende verklaring omtrent het gedrag overeenkomstig de bepalingen van de Wet justitiële en strafvorderlijke gegevens, die niet ouder is dan vier maanden;  
 
 d. een door Onze Minister erkend getuigschrift van met goed gevolg afgelegde examens waarbij ten minste de kennis is vastgesteld van de door Onze Minister vastgestelde onderwerpen, waarbij onderscheid gemaakt kan worden tussen verschillende soorten taxidiensten;  
 
-e. een niet beschadigde, recente, goed gelijkende pasfoto van de aanvrager, die voldoet aan alle acceptatiecriteria zoals die zijn opgenomen in de bij de [Paspoortuitvoeringsregeling Nederland 2001](../../../../../ministeriele-regeling/paspoortuitvoeringsregeling/nederland/2001/BWBR0012811/README.md) behorende fotomatrix.     
+e. een niet beschadigde, recente, goed gelijkende pasfoto van de aanvrager, die voldoet aan alle acceptatiecriteria zoals die zijn opgenomen in de bij de Paspoortuitvoeringsregeling Nederland 2001 behorende fotomatrix.     
 2.  Op de aanvrager die woonachtig is in een andere lidstaat dan Nederland, dan wel een andere staat die partij is bij de EER, is voor wat betreft de verklaring omtrent het gedrag, artikel 22, tweede lid, van overeenkomstige toepassing, met dien verstande dat het document of de verklaring niet ouder is dan vier maanden.   
 3.  Bij ministeriële regeling kan worden bepaald van welke onderwerpen, bedoeld in het eerste lid, onderdeel d, vrijstelling kan worden verleend.   
 4.  Onze Minister kan onder voorwaarden en beperkingen vrijstelling verlenen van de verplichting om het getuigschrift, bedoeld in het eerste lid, onderdeel d, over te leggen.   
@@ -880,7 +880,7 @@ e. een niet beschadigde, recente, goed gelijkende pasfoto van de aanvrager, die 
 
 a. de wijze waarop de bestuurder en de vervoerder de chauffeurskaart, respectievelijk de ondernemerskaart gebruiken;  
 
-b. de wijze waarop erkende natuurlijke of rechtspersonen, als bedoeld in [artikel 9:1, eerste lid, van de Arbeidstijdenwet](../../../../../wet/arbeidstijdenwet/BWBR0007671/README.md), de keuringskaart gebruiken;  
+b. de wijze waarop erkende natuurlijke of rechtspersonen, als bedoeld in artikel 9:1, eerste lid, van de Arbeidstijdenwet, de keuringskaart gebruiken;  
 
 c. de aanvraag van de boordcomputerkaarten en van vervangende boordcomputerkaarten;  
 
@@ -889,7 +889,7 @@ d. de verlening, afgifte, weigering, schorsing, intrekking en inname van de boor
 e. de wijze van melden in geval van verloren, gestolen, defecte of beschadigde boordcomputerkaarten;  
 
 f. de wijze van inleveren van de boordcomputerkaarten.     
-9.  In het kader van leer-werktrajecten en in het kader van tijdelijke en incidentele dienstverrichting als bedoeld in [artikel 21 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md), kan door Onze Minister een chauffeurskaart worden verstrekt met een kortere geldigheidsduur dan de in het tweede lid bedoelde geldigheidsduur, dan wel ontheffing worden verleend van de in artikel 81, vijfde lid, bedoelde eis. 
+9.  In het kader van leer-werktrajecten en in het kader van tijdelijke en incidentele dienstverrichting als bedoeld in artikel 21 van de Algemene wet erkenning EG-beroepskwalificaties, kan door Onze Minister een chauffeurskaart worden verstrekt met een kortere geldigheidsduur dan de in het tweede lid bedoelde geldigheidsduur, dan wel ontheffing worden verleend van de in artikel 81, vijfde lid, bedoelde eis. 
 
 ### Hoofdstuk  7  
 
@@ -1069,7 +1069,7 @@ De vervoerder die vervoer voor eigen rekening van en naar derde landen, landen d
 
 ### Artikel  115  
 
-1.   [Artikel 76 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) is niet van toepassing op taxivervoer met een auto die blijkens het kenteken buiten Nederland is geregistreerd, mits het betreft: 
+1.   Artikel 76 van de wet is niet van toepassing op taxivervoer met een auto die blijkens het kenteken buiten Nederland is geregistreerd, mits het betreft: 
 
 a. vervoer in gesloten rondritten, dat wil zeggen vervoer dat begint en eindigt in het land waar de auto is ingeschreven en dat wordt uitgevoerd met dezelfde auto waarbij over het gehele traject dezelfde reizigers worden vervoerd,  
 
@@ -1078,7 +1078,7 @@ b. vervoer waarbij de heenreis met reizigers en de terugreis naar het land waar 
 c. vervoer waarbij de heenreis zonder reizigers geschiedt teneinde reizigers op te halen die worden vervoerd naar een bestemming buiten Nederland, 
 
 d. vervoer waarbij de heenreis met reizigers geschiedt en waarbij de terugreis met andere reizigers geschiedt en de bestemming buiten Nederland ligt.     
-2.   [Artikel 76 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) is evenmin van toepassing op taxivervoer met een auto die blijkens het kenteken is geregistreerd in België of Luxemburg, waarbij de heenreis zonder reizigers geschiedt teneinde reizigers op te nemen die de auto hadden besteld voordat de auto Nederland was binnengekomen.   
+2.   Artikel 76 van de wet is evenmin van toepassing op taxivervoer met een auto die blijkens het kenteken is geregistreerd in België of Luxemburg, waarbij de heenreis zonder reizigers geschiedt teneinde reizigers op te nemen die de auto hadden besteld voordat de auto Nederland was binnengekomen.   
 3.  De vervoerder, bedoeld in het eerste en tweede lid, beschikt over een vergunning voor het verrichten van taxivervoer van het land waar de auto is geregistreerd.  
 
 ### Artikel  117  
@@ -1095,7 +1095,7 @@ b. een volledig en naar waarheid voor de aanvang van de rit ingevuld, bij minist
 
 ### Artikel  118  
 
-Overtreding van elk van de voorschriften gesteld bij de [artikelen 76, derde lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [77, eerste en tweede lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), [78, eerste lid](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) en [80 van de wet](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), en van de voorschriften gesteld bij of krachtens de artikelen 14, 19, 20, 26, 72a tot en met 83, 91, 98 tot en met 109 en 114 tot en met 117 van het besluit, vormt een strafbaar feit als bedoeld in [artikel 1, onder 4°, van de Wet op de economische delicten](../../../../../wet/wet/op/de/economische/delicten/BWBR0002063/README.md). 
+Overtreding van elk van de voorschriften gesteld bij de artikelen 76, derde lid, 77, eerste en tweede lid, 78, eerste lid en 80 van de wet, en van de voorschriften gesteld bij of krachtens de artikelen 14, 19, 20, 26, 72a tot en met 83, 91, 98 tot en met 109 en 114 tot en met 117 van het besluit, vormt een strafbaar feit als bedoeld in artikel 1, onder 4°, van de Wet op de economische delicten. 
 
 ### Hoofdstuk  10  
 
@@ -1116,7 +1116,7 @@ In afwijking van artikel 12 geldt voor een beslissing op een aanvraag om verleni
 
 ### Artikel  121  
 
-1.  Gedurende de periode dat vergunningen die krachtens de Wet personenvervoer zijn verleend, overeenkomstig [artikel 112](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) of [113 van de Wet personenvervoer 2000](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) geldig blijven, behouden ook de op deze vergunningen verstrekte vergunningbewijzen hun geldigheid, behoudens het bepaalde in artikel 14.   
+1.  Gedurende de periode dat vergunningen die krachtens de Wet personenvervoer zijn verleend, overeenkomstig artikel 112 of 113 van de Wet personenvervoer 2000 geldig blijven, behouden ook de op deze vergunningen verstrekte vergunningbewijzen hun geldigheid, behoudens het bepaalde in artikel 14.   
 2.   Artikel 16 is niet van toepassing op vergunningen als bedoeld in het eerste lid, die zijn verleend voor het verrichten van openbaar vervoer.  
 
 ### Artikel  122  

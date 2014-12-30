@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 19 december 2003, nr. HDJZ/S&W/2003-1875, Hoofddirectie Juridische Zaken;
 
-Gelet op richtlijn 2001/14/EG van het Europees Parlement en de Raad van 26 februari 2001 inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur (PbEG L 75), en op de [artikelen 57, onderdeel c](../../../../../wet/spoorwegwet/BWBR0015007/README.md), [59, derde lid](../../../../../wet/spoorwegwet/BWBR0015007/README.md), [61](../../../../../wet/spoorwegwet/BWBR0015007/README.md) en [62, achtste lid, van de Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), en wat betreft artikel 15 van dit besluit, op [artikel 27 van de Spoorwegwet 1875](../../../../../wet/spoorwegwet/BWBR0001848/README.md);
+Gelet op richtlijn 2001/14/EG van het Europees Parlement en de Raad van 26 februari 2001 inzake de toewijzing van spoorweginfrastructuurcapaciteit en de heffing van rechten voor het gebruik van spoorweginfrastructuur (PbEG L 75), en op de artikelen 57, onderdeel c, 59, derde lid, 61 en 62, achtste lid, van de Spoorwegwet, en wat betreft artikel 15 van dit besluit, op artikel 27 van de Spoorwegwet 1875;
 
 De Raad van State gehoord (advies van 19 februari 2004, nr. W09.03.0542/V);
 
@@ -20,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-a. wet: [Spoorwegwet](../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+a. wet: Spoorwegwet;  
 
-b. gerechtigde: gerechtigde bedoeld in [artikel 57 van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md);  
+b. gerechtigde: gerechtigde bedoeld in artikel 57 van de wet;  
 
 c. pad: de capaciteit die een trein tussen twee plaatsen, en tussen twee vastgestelde tijdstippen mag gebruiken;  
 
@@ -42,7 +42,7 @@ j. dienstregeling: de gegevens over alle geplande bewegingen van treinen en spoo
 
 k. de normale dienstregeling: de dienstregeling die op het niveau van terugkerende paden in een dienstregelingsperiode wordt uitgewerkt;  
 
-l. openbaar vervoer: openbaar personenvervoer per trein als bedoeld in [artikel 1, onderdeel h, van de Wet personenvervoer 2000](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
+l. openbaar vervoer: openbaar personenvervoer per trein als bedoeld in artikel 1, onderdeel h, van de Wet personenvervoer 2000;  
 
 m. stadsgewestelijk openbaar vervoer: openbaar vervoer op één van de op kaart 1 behorende bij dit besluit aangeduide baanvakken met stadsgewestelijke stations;  
 
@@ -70,11 +70,11 @@ v. coördinatie: procedure die door de beheerder en de gerechtigden wordt gevolg
 
 ### Artikel  1a  
 
-De onderdelen van het beheerplan, bedoeld in [artikel 17b, eerste lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), waarover de beheerder bij totstandkoming van een nieuw beheerplan of bij wijziging van een vastgesteld beheerplan advies vraagt aan de gerechtigden, bedoeld in artikel 17b, eerste lid, van de wet betreffen, voor zover de beheerder ten aanzien van die onderwerpen maatregelen heeft getroffen: 
+De onderdelen van het beheerplan, bedoeld in artikel 17b, eerste lid, van de wet, waarover de beheerder bij totstandkoming van een nieuw beheerplan of bij wijziging van een vastgesteld beheerplan advies vraagt aan de gerechtigden, bedoeld in artikel 17b, eerste lid, van de wet betreffen, voor zover de beheerder ten aanzien van die onderwerpen maatregelen heeft getroffen: 
 
 a. de maatregelen die de beheerder gedurende de eerstvolgende subsidieperiode zal nemen ingevolge veiligheids- en milieuregelgeving en het daarop gebaseerde overheidsbeleid, voor zover deze ruimte bieden voor nadere uitwerking door de beheerder;  
 
-b. de prestatie-indicatoren, bedoeld in [artikel 17, eerste lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), alsmede de uitwerking daarvan door de beheerder in nadere prestatie-indicatoren, die de beheerder gedurende de eerstvolgende subsidieperiode zal hanteren;  
+b. de prestatie-indicatoren, bedoeld in artikel 17, eerste lid, van de wet, alsmede de uitwerking daarvan door de beheerder in nadere prestatie-indicatoren, die de beheerder gedurende de eerstvolgende subsidieperiode zal hanteren;  
 
 c. de grenswaarde die de beheerder voor de uitwerking van de prestatie-indicatoren, bedoeld in onderdeel b, zal hanteren;  
 
@@ -86,7 +86,7 @@ d. het meetsysteem dat de beheerder zal hanteren ter bepaling van de gerealiseer
 
 ### Artikel  3  
 
-Algemene voorwaarden bij de toegangsovereenkomst als bedoeld in [artikel 59, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) zijn: 
+Algemene voorwaarden bij de toegangsovereenkomst als bedoeld in artikel 59, derde lid, van de wet zijn: 
 
 a. dat de capaciteit in de vorm van paden voor maximaal de duur van een dienstregelingsperiode wordt verdeeld;  
 
@@ -94,7 +94,7 @@ b. dat bij die overeenkomst verdeelde capaciteit vervalt in geval van nood en in
 
 c. dat bij die overeenkomst verdeelde capaciteit wordt ingeleverd indien gedurende een periode van ten minste een maand voor minder dan een in de netverklaring te noemen drempelwaarde is gebruikt, tenzij dit te wijten is aan niet economische redenen buiten de wil van de gerechtigde;  
 
-d.  dat gerechtigde zich onthoudt van handelen dat overschrijding van de krachtens de [Wet geluidhinder](../../../../../wet/wet/geluidhinder/BWBR0003227/README.md) geldende grenswaarden of overtreding van de van belang zijnde voorschriften behorende bij de krachtens de [Wet milieubeheer](../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) verleende vergunningen of van het verbod, bedoeld in [artikel 31 van de Wet vervoer gevaarlijke stoffen](../../../../../wet/wet/vervoer/gevaarlijke/stoffen/BWBR0007606/README.md) tot gevolg heeft; 
+d.  dat gerechtigde zich onthoudt van handelen dat overschrijding van de krachtens de Wet geluidhinder geldende grenswaarden of overtreding van de van belang zijnde voorschriften behorende bij de krachtens de Wet milieubeheer verleende vergunningen of van het verbod, bedoeld in artikel 31 van de Wet vervoer gevaarlijke stoffen tot gevolg heeft; 
 
 e. dat de beheerder aanwijzingen geeft aan de gerechtigde, die de gerechtigde dient op te volgen, bij dreigende overschrijding van de in onderdeel d bedoelde grenswaarden of dreigende overtreding van de in dat onderdeel bedoelde voorschriften;  
 
@@ -110,7 +110,7 @@ De beheerder en gerechtigden nemen bij de capaciteitsverdelingsprocedure voor de
 
 ### Artikel  4a  
 
-1.  De netverklaring, bedoeld in [artikel 58 van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), bevat een geschillenregeling als bedoeld in artikel 21, zesde lid, van richtlijn 2001/14/EG.   
+1.  De netverklaring, bedoeld in artikel 58 van de wet, bevat een geschillenregeling als bedoeld in artikel 21, zesde lid, van richtlijn 2001/14/EG.   
 2.  Voor geschillen over de verdeling van capaciteit tussen de beheerder en één of meer gerechtigden tijdens de coördinatie voor de normale dienstregeling, voorziet de geschillenregeling in een procedure waarvan verplichte advisering door een onafhankelijke derde deel uitmaakt. Van een advies door de onafhankelijke derde kan de beheerder bij de verdeling van capaciteit gemotiveerd afwijken.   
 3.  De onafhankelijke derde, bedoeld in het tweede lid, wordt door de beheerder aangewezen met instemming van de betrokken gerechtigden.  
 
@@ -131,8 +131,8 @@ De beheerder en gerechtigden nemen bij de capaciteitsverdelingsprocedure voor de
 
 ### Artikel  7  
 
-1.  Indien de beheerder constateert dat er geen overeenstemming kan worden bereikt tijdens de coördinatie ten aanzien van concurrerende capaciteitsaanvragen die betrekking hebben op vervoer, kunnen beheerder en een betrokken gerechtigde door toepassing van een verhoging als bedoeld in [artikel 62, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md) tot overeenstemming komen.   
-2.  Indien de verhoging, bedoeld in [artikel 62, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), niet is toegepast of geen bevredigend resultaat heeft opgeleverd: 
+1.  Indien de beheerder constateert dat er geen overeenstemming kan worden bereikt tijdens de coördinatie ten aanzien van concurrerende capaciteitsaanvragen die betrekking hebben op vervoer, kunnen beheerder en een betrokken gerechtigde door toepassing van een verhoging als bedoeld in artikel 62, derde lid, van de wet tot overeenstemming komen.   
+2.  Indien de verhoging, bedoeld in artikel 62, derde lid, van de wet, niet is toegepast of geen bevredigend resultaat heeft opgeleverd: 
 
 a. verklaart de beheerder de betrokken infrastructuur overbelast;  
 
@@ -144,7 +144,7 @@ d. informeert de beheerder binnen 4 weken na opstelling van het capaciteitsvergr
 
 e. informeert de beheerder ten minste jaarlijks alle gerechtigden en Onze Minister over de wijze van uitvoering van het capaciteitsvergrotingsplan.    
 3.  Het resultaat van de verhoging is in ieder geval niet bevredigend indien ten gevolge hiervan het minimale niveau van het personenvervoer, niet zijnde het hogesnelheidspersonenvervoer, van het hogesnelheidspersonenvervoer of van het goederenvervoer niet worden gehaald.  
-4.  Indien de verhoging, bedoeld in [artikel 62, derde lid, van de wet](../../../../../wet/spoorwegwet/BWBR0015007/README.md), is doorberekend: 
+4.  Indien de verhoging, bedoeld in artikel 62, derde lid, van de wet, is doorberekend: 
 
 a. verricht de beheerder binnen 26 weken na de toepassing van de verhoging een capaciteitsanalyse als bedoeld in artikel 25 van richtlijn 2001/14/EG;  
 
@@ -164,9 +164,9 @@ a. de capaciteitsverdelingsprocedure voor de normale dienstregeling;
 
 b. de gesloten kaderovereenkomsten;  
 
-c. een nieuw verleende concessie als bedoeld in [artikel 20, eerste en derde lid, van de Wet personenvervoer 2000](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
+c. een nieuw verleende concessie als bedoeld in artikel 20, eerste en derde lid, van de Wet personenvervoer 2000;  
 
-d. een onderbouwd verzoek van een concessieverlener in voorbereiding op een nog te verlenen concessie als bedoeld in [artikel 20, eerste en derde lid, van de Wet personenvervoer 2000](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
+d. een onderbouwd verzoek van een concessieverlener in voorbereiding op een nog te verlenen concessie als bedoeld in artikel 20, eerste en derde lid, van de Wet personenvervoer 2000;  
 
 e. prognoses van de beheerder of gerechtigden over de ontwikkeling van de te verwachten capaciteitsaanvragen voor de navolgende jaren.    
 
@@ -223,8 +223,8 @@ c.Amsterdam CS – Schiphol – Rotterdam CS – Breda, 62 minuten;
 d.Amsterdam CS – Schiphol – Rotterdam CS, 38 minuten;
 
 e.Den Haag CS – Rotterdam CS – Breda – Belgische grens, 51 minuten. 
-4. Spoorvoertuigen voor de toepassing van het derde lid, onderdeel a, zijn voertuigen waarmee een snelheid van meer dan 300 kilometer per uur kan worden bereikt en die ten minste voldoen aan de eisen zoals opgenomen in de desbetreffende krachtens [artikel 20, eerste lid, van de Wet personenvervoer 2000](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), verleende concessie. 
-5. Spoorvoertuigen voor de toepassing van het derde lid, onderdelen b tot en met e zijn voertuigen waarmee een snelheid van ten minste 220 kilometer per uur kan worden bereikt en die ten minste voldoen aan de eisen zoals opgenomen in de desbetreffende, [krachtens artikel 20, eerste lid, van de Wet personenvervoer 2000](../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) verleende concessie. 
+4. Spoorvoertuigen voor de toepassing van het derde lid, onderdeel a, zijn voertuigen waarmee een snelheid van meer dan 300 kilometer per uur kan worden bereikt en die ten minste voldoen aan de eisen zoals opgenomen in de desbetreffende krachtens artikel 20, eerste lid, van de Wet personenvervoer 2000, verleende concessie. 
+5. Spoorvoertuigen voor de toepassing van het derde lid, onderdelen b tot en met e zijn voertuigen waarmee een snelheid van ten minste 220 kilometer per uur kan worden bereikt en die ten minste voldoen aan de eisen zoals opgenomen in de desbetreffende, krachtens artikel 20, eerste lid, van de Wet personenvervoer 2000 verleende concessie. 
 
 ### Artikel  9  
 
@@ -315,7 +315,7 @@ f.het vervoer dat vier of meer malen per week verricht wordt.
 
 ###Artikel 15 
 
-Het [Interimbesluit capaciteitstoewijzing spoorwegen](../../../../../AMvB/interimbesluit/capaciteitstoewijzing/spoorwegen/BWBR0011723/README.md) wordt ingetrokken.
+Het Interimbesluit capaciteitstoewijzing spoorwegen wordt ingetrokken.
 
 ###Artikel 16 
 

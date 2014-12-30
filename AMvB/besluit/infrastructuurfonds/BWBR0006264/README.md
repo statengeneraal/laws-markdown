@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Verkeer en Waterstaat van 21 juli 1993, nr. WJZ/V-323589, Directoraat-Generaal voor het Vervoer; 
 
-Gelet op de [artikelen 8 en 9 van de Wet Infrastructuurfonds](../../../../wet/wet/infrastructuurfonds/BWBR0006001/README.md) (*Stb.* 1993, nr. 319); 
+Gelet op de artikelen 8 en 9 van de Wet Infrastructuurfonds (*Stb.* 1993, nr. 319); 
 
 De Raad van State gehoord, advies van 12 november 1993, nr. W09.93.0477; 
 
@@ -20,11 +20,11 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a.wet: de [Wet Infrastructuurfonds](../../../../wet/wet/infrastructuurfonds/BWBR0006001/README.md); 
+a.wet: de Wet Infrastructuurfonds; 
 
 b.dagelijks bestuur: dagelijks bestuur van een regionaal openbaar lichaam; 
 
-c.samenwerkingsgebied: samenwerkingsgebied als bedoeld in [artikel 2 van de Kaderwet bestuur in verandering](../../../../wet/kaderwet/bestuur/in/verandering/BWBR0006620/README.md); 
+c.samenwerkingsgebied: samenwerkingsgebied als bedoeld in artikel 2 van de Kaderwet bestuur in verandering; 
 
 d.project: een ondeelbaar geheel aan werkzaamheden met als doel de aanleg van infrastructuur en met als kenmerken, dat tot de uitvoering van de werkzaamheden in beginsel alleen in zijn geheel kan worden besloten en dat een gefaseerde uitvoering van onderdelen, waarbij ieder onderdeel na voltooiing in gebruik kan worden genomen en effectief is, niet zonder aanzienlijke meerkosten mogelijk is;
 
@@ -34,13 +34,13 @@ f.overig project: een project waarvan de geraamde op grond van artikel 5 voor su
 
 g.vaste subsidiebedrag: subsidie, waarop geen nacalculatie plaatsvindt en welke alleen kan worden bijgesteld op grond van wijzigingen van het algemene loon- en prijspeil; 
 
-h.landelijke infrastructuur: het hoofdwegennet, het landelijk spoorwegnet en het hoofdvaarwegennet, als bedoeld in [artikel 1, eerste lid, van de Tracéwet](../../../../wet/tracéwet/BWBR0006147/README.md); 
+h.landelijke infrastructuur: het hoofdwegennet, het landelijk spoorwegnet en het hoofdvaarwegennet, als bedoeld in artikel 1, eerste lid, van de Tracéwet; 
 
 i.lokale infrastructuur: infrastructuur, gelegen binnen één gemeente en in beheer bij die gemeente en met een lokale functie; 
 
 j.regionale infrastructuur: infrastructuur gelegen binnen een provincie of samenwerkingsgebied, in beheer bij een provincie, gemeente of waterschap en met een regionale functie;
 
-k.Besluit personenvervoer: Besluit personenvervoer, zoals dat gold voor de inwerkingtreding van het [Besluit personenvervoer 2000](../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md). 
+k.Besluit personenvervoer: Besluit personenvervoer, zoals dat gold voor de inwerkingtreding van het Besluit personenvervoer 2000. 
 
 ### Artikel  2  
 
@@ -58,33 +58,33 @@ b. kosten voor het doen van een aanvraag om een subsidie, anders dan bedoeld in 
 c. kosten van onderhoud aan wegen in beheer bij anderen dan het Rijk, tenzij het betreft onderhoud verricht op verzoek van het Rijk, dan wel onderhoud, als bedoeld in artikel 28, eerste lid.      
 3.  Uit het fonds kunnen subsidies worden verstrekt op grond van de volgende wetten en regelingen:  
 
--  [Deltawet](../../../../wet/deltawet/BWBR0002283/README.md)   
+-  Deltawet   
 
 - Uitkeringsregeling bestrijding verontreiniging rijkswateren   
 
-- [Regeling bijzondere subsidies waterkeren en waterbeheren](../../../../ministeriele-regeling/regeling/bijzondere/subsidies/waterkeren/en/waterbeheren/BWBR0019518/README.md)   
+- Regeling bijzondere subsidies waterkeren en waterbeheren   
 
-- [Tijdelijke bijdrageregeling spoorwegaansluitingen](../../../../ministeriele-regeling/tijdelijke/bijdrageregeling/spoorwegaansluitingen/BWBR0007109/README.md)  
+- Tijdelijke bijdrageregeling spoorwegaansluitingen  
 
-- [Tijdelijke beleidsregeling bijdragen vaarwegaansluitingen](../../../../ministeriele-regeling/tijdelijke/beleidsregeling/bijdragen/vaarwegaansluitingen/BWBR0007716/README.md)  
+- Tijdelijke beleidsregeling bijdragen vaarwegaansluitingen  
 
-- [Regeling subsidies uitvoeringsprogramma duurzaam veilig](../../../../ministeriele-regeling/regeling/duurzaam/veilig/BWBR0009505/README.md)  
+- Regeling subsidies uitvoeringsprogramma duurzaam veilig  
 
 - Subsidieregeling transferpunten  
 
-- [Subsidieregeling openbare inland terminals](../../../../ministeriele-regeling/subsidieregeling/openbare/inland/terminals/BWBR0011721/README.md)  
+- Subsidieregeling openbare inland terminals  
 
-- [Subsidieregeling bedrijfsgebonden vaarwegaansluitingen](../../../../ministeriele-regeling/subsidieregeling/bedrijfsgebonden/vaarwegaansluitingen/(sbv)/BWBR0012284/README.md)
+- Subsidieregeling bedrijfsgebonden vaarwegaansluitingen
 
--[Tijdelijke regeling eenmalige subsidies baggerplannen bebouwd gebied](../../../../ministeriele-regeling/tijdelijke/regeling/eenmalige/subsidies/baggerplannen/bebouwd/gebied/BWBR0011515/README.md) 
+-Tijdelijke regeling eenmalige subsidies baggerplannen bebouwd gebied 
 
--[Regeling eenmalige uitkering baggerwerkzaamheden bebouwd gebied](../../../../ministeriele-regeling/regeling/eenmalige/uitkering/baggerwerkzaamheden/bebouwd/gebied/BWBR0014812/README.md) 
+-Regeling eenmalige uitkering baggerwerkzaamheden bebouwd gebied 
 
--[Tijdelijke Stimuleringsregeling verwerking baggerspecie](../../../../ministeriele-regeling/tijdelijke/stimuleringsregeling/verwerking/baggerspecie/BWBR0013877/README.md) 
+-Tijdelijke Stimuleringsregeling verwerking baggerspecie 
 
--[Tijdelijke regeling eenmalige uitkering bestrijding regionale wateroverlast](../../../../ministeriele-regeling/tijdelijke/regeling/eenmalige/uitkering/bestrijding/regionale/etc/BWBR0016409/README.md)  
+-Tijdelijke regeling eenmalige uitkering bestrijding regionale wateroverlast  
 
--[Regeling eenmalige uitkering spoorse doorsnijdingen](../../../../ministeriele-regeling/regeling/eenmalige/uitkering/spoorse/doorsnijdingen/BWBR0019584/README.md)
+-Regeling eenmalige uitkering spoorse doorsnijdingen
 
 -Subsidieregeling Zuidas.   
 
@@ -103,14 +103,14 @@ b. medewerking te verlenen aan een door of vanwege gedeputeerde staten ondersche
 2.  Onze Minister kan afzonderlijke subsidieplafonds vaststellen voor de onderscheiden onderdelen van dit besluit.    
 3.  Onze Minister verdeelt het beschikbare bedrag rekening houdend met: 
 
-a. de mate waarin een project de doelstellingen van het nationaal verkeers- en vervoerplan als bedoeld in [artikel 2, eerste lid, van de Planwet verkeer en vervoer](../../../../wet/planwet/verkeer/en/vervoer/BWBR0009642/README.md), de nota voor het nationaal ruimtelijk beleid, en het nationale milieubeleidsplan als bedoeld in [artikel 4.3, eerste lid, van de Wet milieubeheer](../../../../wet/wet/milieubeheer/BWBR0003245/README.md), tot uitvoering brengt;  
+a. de mate waarin een project de doelstellingen van het nationaal verkeers- en vervoerplan als bedoeld in artikel 2, eerste lid, van de Planwet verkeer en vervoer, de nota voor het nationaal ruimtelijk beleid, en het nationale milieubeleidsplan als bedoeld in artikel 4.3, eerste lid, van de Wet milieubeheer, tot uitvoering brengt;  
 
 b. het stadium van voorbereiding van een project;  
 
 c. de hoogte van het subsidiebedrag dat is aangevraagd, en  
 
 d. de verplichtingen die ten laste van de begroting van het Infrastructuurfonds komen op grond van eerder afgegeven beschikkingen.     
-4.  Onze Minister kan in bijzondere gevallen bij de beschikking tot weigering van het verlenen van subsidie op grond van [artikel 4:25, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bepalen dat in het daaropvolgende begrotingsjaar, zonder nieuwe indiening van de aanvraag, opnieuw een beschikking op de aanvraag wordt gegeven.   
+4.  Onze Minister kan in bijzondere gevallen bij de beschikking tot weigering van het verlenen van subsidie op grond van artikel 4:25, tweede lid, van de Algemene wet bestuursrecht bepalen dat in het daaropvolgende begrotingsjaar, zonder nieuwe indiening van de aanvraag, opnieuw een beschikking op de aanvraag wordt gegeven.   
 
 ### §  2  
 
@@ -139,7 +139,7 @@ h.de functie van het project in het openbaar vervoernetwerk, de exploitatiegevol
 i.andere door Onze Minister noodzakelijk geachte gegevens. 
 2.  Een subsidie voor een groot project gelegen in een samenwerkingsgebied kan uitsluitend worden aangevraagd door het dagelijks bestuur, een publiekrechtelijk rechtspersoon, niet zijnde een gemeente, provincie of een waterschap, of een privaatrechtelijk rechtspersoon, niet zijnde een regionaal of lokaal vervoerbedrijf welke in het betrokken samenwerkingsgebied openbaar vervoer verricht. 
 3. Indien de aanvraag betrekking heeft op een groot project voor regionale of lokale infrastructuur, en de aanvrager in aanmerking meent te komen voor toepassing van artikel 9, vierde lid, onderdeel a of b, voegt de aanvrager een onderbouwing toe op grond waarvan de aanvrager hiervoor in aanmerking meent te komen.
-4. Een aanvrager van een subsidie voor een groot project toont aan dat het project is opgenomen in een provinciaal verkeers- en vervoerplan, dan wel, indien het project is gelegen in een samenwerkingsgebied, in een regionaal verkeers- en vervoerplan als bedoeld in artikel 5, eerste lid, onderscheidenlijk [artikel 16 van de Planwet verkeer en vervoer](../../../../wet/planwet/verkeer/en/vervoer/BWBR0009642/README.md).
+4. Een aanvrager van een subsidie voor een groot project toont aan dat het project is opgenomen in een provinciaal verkeers- en vervoerplan, dan wel, indien het project is gelegen in een samenwerkingsgebied, in een regionaal verkeers- en vervoerplan als bedoeld in artikel 5, eerste lid, onderscheidenlijk artikel 16 van de Planwet verkeer en vervoer.
 5. Het vierde lid is niet van toepassing indien de aanvraag betrekking heeft op een groot project dat onderdeel uitmaakt van het landelijk spoorwegnet.
 
 ### Artikel  5  
@@ -164,7 +164,7 @@ h. met het project samenhangende door Onze Minister redelijk geachte schadevergo
 
 i. voorlichting over de uitvoering van het project als begeleiding gedurende de bouw;   
 
-j. de omzetbelasting die niet op de voet van [artikel 15 van de Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) in aftrek kan worden gebracht en geen recht geeft op een bijdrage uit het BTW-compensatiefonds;  
+j. de omzetbelasting die niet op de voet van artikel 15 van de Wet op de omzetbelasting 1968 in aftrek kan worden gebracht en geen recht geeft op een bijdrage uit het BTW-compensatiefonds;  
 
 k. voorbereiding, administratie en toezicht voor zover het betreft projecten ten behoeve van het openbaar vervoer, van het goederenvervoer over het spoor en van vaarwegen;  
 
@@ -204,7 +204,7 @@ e. aanleg van een terminal ten behoeve van intermodaal vervoer vijfentwintig pro
 3.   In afwijking van het eerste lid, onderdeel *a*, kan Onze Minister voor de subsidie voor een investering ten behoeve van spoorweginfrastructuur uitsluitend bestemd voor vervoer van goederen een lager percentage vaststellen.    
 4.  In afwijking van het eerste lid, aanhef en onderdeel b, kan Onze Minister een lager bedrag dan € 225 000 000,– onderscheidenlijk € 112 500 000,– aftrekken in geval: 
 
-a.de financiële draagkracht van de aanvrager hiertoe aanleiding geeft;hiervan is ieder geval sprake indien de hoogte van de brede doeluitkering als bedoeld in [artikel 2, eerste lid](../../../../wet/wet/bdu/verkeer/en/vervoer/BWBR0017828/README.md), dan wel [artikel 3, eerste lid, van de Wet BDU verkeer en vervoer](../../../../wet/wet/bdu/verkeer/en/vervoer/BWBR0017828/README.md), in het jaar waarin de aanvraag is ingediend, vermenigvuldigd met twee, gelijk is aan of lager is dan EUR 225.000.000,– dan wel gelijk is of lager is dan EUR 112.500.000,–; of
+a.de financiële draagkracht van de aanvrager hiertoe aanleiding geeft;hiervan is ieder geval sprake indien de hoogte van de brede doeluitkering als bedoeld in artikel 2, eerste lid, dan wel artikel 3, eerste lid, van de Wet BDU verkeer en vervoer, in het jaar waarin de aanvraag is ingediend, vermenigvuldigd met twee, gelijk is aan of lager is dan EUR 225.000.000,– dan wel gelijk is of lager is dan EUR 112.500.000,–; of
 
 b.het project een functie heeft die naar het oordeel van Onze Minister het regionale of lokale belang aanmerkelijk te boven gaat.   
 5.  Indien reeds subsidie is verleend voor de kosten, bedoeld in artikel 5, eerste lid, onderdeel a, wordt deze bij de verlening van een subsidie voor de overige kosten, genoemd in artikel 5, eerste lid, in mindering gebracht. 

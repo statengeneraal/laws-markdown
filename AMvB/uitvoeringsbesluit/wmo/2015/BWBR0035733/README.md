@@ -544,8 +544,6 @@ Bij ministeriële regeling kunnen regels worden gesteld over de uitvoering van d
 
 ####Wijziging van andere besluiten
 
-Treedt in werking per 29-12-2014 
-
 ### Artikel  6.1  
 Treedt in werking per 01-01-2015 
 
@@ -582,7 +580,6 @@ Treedt in werking per 01-01-2015
 Wijzigt het Besluit huurprijzen woonruimte. 
 
 ### Artikel  6.8  
-Treedt in werking per 29-12-2014 
 
 Wijzigt het Besluit maatschappelijke ondersteuning. 
 
@@ -607,7 +604,6 @@ Treedt in werking per 01-01-2015
 Wijzigt het Besluit van 11 december 1996, houdende uitvoering van artikel 1, tweede lid, van de Kwaliteitswet zorginstellingen en wijziging van enige besluiten op grond van de Ziekenfondswet en de Algemene Wet Bijzondere Ziektekosten. 
 
 ### Artikel  6.13  
-Treedt in werking per 29-12-2014 
 
 Wijzigt het Bijdragebesluit zorg. 
 

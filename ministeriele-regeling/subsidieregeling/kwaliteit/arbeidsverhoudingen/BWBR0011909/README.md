@@ -3,7 +3,7 @@
 ##Subsidieregeling kwaliteit arbeidsverhoudingen
 
 De Minister van Sociale Zaken en Werkgelegenheid;  
-Gelet op [artikel 3 van de Kaderwet SZW-subsidies](../../../../../wet/kaderwet/szw-subsidies/BWBR0008754/README.md),
+Gelet op artikel 3 van de Kaderwet SZW-subsidies,
 Besluit:    
 
 ### Artikel  1  
@@ -63,7 +63,7 @@ De beschikking tot subsidievaststelling wordt gegeven binnen 13 weken na ontvang
 
 ### Artikel  4f  
 
-[Artikel 3, eerste lid, van de Algemene Regeling SZW-subsidies](../../../../../ministeriele-regeling/algemene/regeling/szw-subsidies/BWBR0009211/README.md) is niet van toepassing. 
+Artikel 3, eerste lid, van de Algemene Regeling SZW-subsidies is niet van toepassing. 
 
 ### Artikel  5  
 

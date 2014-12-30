@@ -344,6 +344,18 @@ b. voorraden van afvalstoffenstromen ten aanzien waarvan artikel XXXVIc, derde l
 5.  In afwijking van artikel 28 bedraagt de belasting die verschuldigd is op grond van het eerste lid, onderdeel a, het bedrag van de belasting dat ter zake van de stoffen, preparaten of voorwerpen in mindering is of wordt gebracht op de voet van artikel XXXVIc, tweede lid, van het Belastingplan 2012.   
 6.  In afwijking van artikel 28 bedraagt de belasting die verschuldigd is op grond van het eerste lid, onderdeel b, het bedrag van de belasting ter zake van de voorraden van afvalstoffenstromen dat niet is of wordt geheven ingevolge artikel XXXVIc, derde lid, van het Belastingplan 2012.  
 
+### Artikel  31b  
+Treedt in werking per 01-01-2015 
+
+1.  Met betrekking tot afvalstoffen als bedoeld in artikel 28, eerste lid, onderdeel b, die in de periode van 1 januari 2015 tot en met 30 juni 2015 worden afgegeven bij een inrichting als bedoeld in artikel 22, eerste lid, onderdeel f, onder 2<sup>o</sup>, is het tarief, in afwijking van artikel 28, eerste lid, onderdeel b, nihil, indien de houder van de inrichting aantoont dat deze afvalstoffen: 
+
+a. voor 1 januari 2015 aan de houder van de inrichting ter verwijdering zijn afgegeven;  
+
+b. door de houder van de inrichting tijdelijk buiten de inrichting zijn opgeslagen; en  
+
+c. vanuit de plaats van opslag rechtstreeks en onvermengd bij de inrichting zijn afgegeven ter verwijdering.     
+2.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.  
+
 ### Hoofdstuk  V  
 
 ####Kolenbelasting
@@ -791,7 +803,7 @@ Bij een verbruiksperiode korter dan wel langer dan twaalf maanden worden de hoev
 ### Artikel  61a  
 Treedt in werking per 01-01-2015 
 
-In de gevallen, bedoeld in artikel 47, negende lid, onderdeel b, wordt de belasting ter zake van de leveringen die vanaf het begin van het kalenderjaar zijn verricht, herrekend met inachtneming van artikel 61. Indien deze herrekening leidt tot een hoger of lager belastingbedrag dan de belasting die zonder de herrekening over de gehele verbruiksperiode verschuldigd zou zijn, wordt de belasting die moet worden voldaan over het tijdvak waarin de overeenkomst tot levering wordt beëindigd dienovereenkomstig verhoogd onderscheidenlijk verlaagd. Bij de bepaling van de belasting die op de laatste factuur aan de verbruiker wordt vermeld, wordt de verhoging of verlaging, bedoeld in de tweede volzin, in aanmerking genomen. 
+In de gevallen, bedoeld in artikel 47, zevende lid, onderdeel b, wordt de belasting ter zake van de leveringen die vanaf het begin van het kalenderjaar zijn verricht, herrekend met inachtneming van artikel 61. Indien deze herrekening leidt tot een hoger of lager belastingbedrag dan de belasting die zonder de herrekening over de gehele verbruiksperiode verschuldigd zou zijn, wordt de belasting die moet worden voldaan over het tijdvak waarin de overeenkomst tot levering wordt beëindigd dienovereenkomstig verhoogd onderscheidenlijk verlaagd. Bij de bepaling van de belasting die op de laatste factuur aan de verbruiker wordt vermeld, wordt de verhoging of verlaging, bedoeld in de tweede volzin, in aanmerking genomen. 
 
 ### Artikel 62 
 

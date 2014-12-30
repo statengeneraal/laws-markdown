@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Sociale Zaken en Werkgelegenheid van 12 september 2008, nr. W&B/SFI/08/22818, gedaan mede namens Onze Minister voor Wonen, Wijken en Integratie en de Staatssecretaris van Onderwijs, Cultuur en Wetenschap;
 
-Gelet op [artikel 89 van de Grondwet](../../../../wet/grondwet/BWBR0001840/README.md), de [artikelen 2, vierde en vijfde lid](../../../../wet/wet/participatiebudget/BWBR0025039/README.md), [4, vierde lid](../../../../wet/wet/participatiebudget/BWBR0025039/README.md), en [15, tweede lid, van de Wet participatiebudget](../../../../wet/wet/participatiebudget/BWBR0025039/README.md) en de [artikelen 2.5.5, tweede en derde lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en [2.5.10 van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
+Gelet op artikel 89 van de Grondwet, de artikelen 2, vierde en vijfde lid, 4, vierde lid, en 15, tweede lid, van de Wet participatiebudget en de artikelen 2.5.5, tweede en derde lid, en 2.5.10 van de Wet educatie en beroepsonderwijs;
 
 De Raad van State gehoord (advies van 25 september 2008);
 
@@ -22,31 +22,31 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit wordt verstaan onder: 
 
-*certificaat staatsexamen NT2 I of II:* certificaat als bedoeld in [artikel 16, tweede lid, van het Staatsexamenbesluit Nederlands als tweede taal](../../../../AMvB/staatsexamenbesluit/nederlands/als/tweede/taal/BWBR0006192/README.md) voor een door de desbetreffende gemeente ingekochte opleiding als bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), behaald door een volwassen inwoner;  
+*certificaat staatsexamen NT2 I of II:* certificaat als bedoeld in artikel 16, tweede lid, van het Staatsexamenbesluit Nederlands als tweede taal voor een door de desbetreffende gemeente ingekochte opleiding als bedoeld in artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs, behaald door een volwassen inwoner;  
 
-*contactuur:* contactuur als bedoeld in [artikel 2.3.4, derde lid, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); 
+*contactuur:* contactuur als bedoeld in artikel 2.3.4, derde lid, van de Wet educatie en beroepsonderwijs; 
 
-*cursus basisvaardigheden:* opleiding als bedoeld in [artikel 7.3.1, eerste lid, onderdeel b, e of f, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) zoals luidend op 31 december 2012;  
+*cursus basisvaardigheden:* opleiding als bedoeld in artikel 7.3.1, eerste lid, onderdeel b, e of f, van de Wet educatie en beroepsonderwijs zoals luidend op 31 december 2012;  
 
 *duale inburgeringsvoorziening:* inburgeringsvoorziening die met het oog op de actieve deelname aan de Nederlandse samenleving mede voorziet in activiteiten die in samenhang en ten minste voor een deel gelijktijdig met het verwerven van mondelinge en schriftelijke vaardigheden in de Nederlandse taal en kennis van de Nederlandse samenleving worden uitgevoerd;  
 
-*inactieve:* persoon, van 27 jaar of ouder, die, in de periode van zes maanden onmiddellijk voorafgaand aan de ondersteuning, bedoeld in artikel 11a, eerste lid, niet dan wel ten hoogste de laatste twee maanden geregistreerd staat als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen, in die periode van zes maanden geen diploma heeft behaald op het niveau van startkwalificatie of hoger en in die periode geen inkomen uit arbeid heeft ontvangen of recht heeft gehad op een uitkering of arbeidsondersteuning op grond van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) of de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md), de [Wet arbeidsongeschiktheidsverzekering zelfstandigen](../../../../wet/wet/arbeidsongeschiktheidsverzekering/zelfstandigen/BWBR0008656/README.md), de [Wet werk en arbeidsondersteuning jonggehandicapten,](../../../../wet/wet/werk/en/arbeidsondersteuning/jonggehandicapten/BWBR0008657/README.md) de [Wet werk en inkomen naar arbeidsvermogen](../../../../wet/wet/werk/en/inkomen/naar/arbeidsvermogen/BWBR0019057/README.md), de [Wet op de arbeidsongeschiktheidsverzekering](../../../../wet/wet/op/de/arbeidsongeschiktheidsverzekering/BWBR0002524/README.md), de [Toeslagenwet](../../../../wet/toeslagenwet/BWBR0004043/README.md), de [Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria](../../../../wet/tijdelijke/wet/beperking/inkomensgevolgen/arbeidsongeschiktheidscriteria/BWBR0007891/README.md), de [Algemene nabestaandenwet](../../../../wet/algemene/nabestaandenwet/BWBR0007795/README.md) dan wel op grond van een regeling, die met deze wetten naar aard en strekking overeenstemt; 
+*inactieve:* persoon, van 27 jaar of ouder, die, in de periode van zes maanden onmiddellijk voorafgaand aan de ondersteuning, bedoeld in artikel 11a, eerste lid, niet dan wel ten hoogste de laatste twee maanden geregistreerd staat als werkzoekende bij het Uitvoeringsinstituut werknemersverzekeringen, in die periode van zes maanden geen diploma heeft behaald op het niveau van startkwalificatie of hoger en in die periode geen inkomen uit arbeid heeft ontvangen of recht heeft gehad op een uitkering of arbeidsondersteuning op grond van de Wet werk en bijstand of de Werkloosheidswet, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Toeslagenwet, de Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria, de Algemene nabestaandenwet dan wel op grond van een regeling, die met deze wetten naar aard en strekking overeenstemt; 
 
-*overeenkomst uitkering educatie:* overeenkomst als bedoeld in [artikel 2.3.4 van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md); 
+*overeenkomst uitkering educatie:* overeenkomst als bedoeld in artikel 2.3.4 van de Wet educatie en beroepsonderwijs; 
 
-*participatiebudget:* uitkering aan het college, bedoeld in [artikel 2, eerste lid, van de wet](../../../../wet/wet/participatiebudget/BWBR0025039/README.md);  
+*participatiebudget:* uitkering aan het college, bedoeld in artikel 2, eerste lid, van de wet;  
 
-*staatsexamen NT2 I of II:* staatsexamen Nederlands als tweede taal I of II als bedoeld in [artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+*staatsexamen NT2 I of II:* staatsexamen Nederlands als tweede taal I of II als bedoeld in artikel 7.3.1, eerste lid, onderdeel c, van de Wet educatie en beroepsonderwijs;  
 
-*startkwalificatie:* een diploma van een opleiding als bedoeld in [artikel 7.2.2, eerste lid, onder b tot en met e, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in [7](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md) onderscheidenlijk [8 van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md); 
+*startkwalificatie:* een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onder b tot en met e, van de Wet educatie en beroepsonderwijs of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in 7 onderscheidenlijk 8 van de Wet op het voortgezet onderwijs; 
 
-*vavo:* opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in [artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);  
+*vavo:* opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onderdeel a, van de Wet educatie en beroepsonderwijs;  
 
 *vavo-diploma:* diploma voor een door de desbetreffende gemeente ingekocht traject vavo, behaald door een volwassen inwoner;  
 
 *volwassen inwoner:* persoon van achttien jaar of ouder die als ingezetene is ingeschreven in de basisregistratie personen;  
 
-*wet:* [Wet participatiebudget](../../../../wet/wet/participatiebudget/BWBR0025039/README.md).   
+*wet:* Wet participatiebudget.   
 
 ### Hoofdstuk  2  
 
@@ -68,9 +68,9 @@ b. O<sup>W</sup> het aan de hand van het verdeelmodel, dat is opgenomen in bijla
 
 c. OT<sup>W</sup> het totaal is van de aan de hand van het verdeelmodel, dat is opgenomen in bijlage 1 van dit besluit, bepaalde gewichten van alle gemeenten samen;  
 
-d. K<sup>W</sup> de uitkering, bedoeld in [artikel 69, eerst lid, onderdeel a, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), zoals die luidde op 31 december 2008, voor het kalenderjaar 2003 is;  
+d. K<sup>W</sup> de uitkering, bedoeld in artikel 69, eerst lid, onderdeel a, van de Wet werk en bijstand, zoals die luidde op 31 december 2008, voor het kalenderjaar 2003 is;  
 
-e. TK<sup>W</sup> het totaal is van de uitkeringen, bedoeld in [artikel 69, eerste lid, onderdeel a, van de Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md), zoals die luidde op 31 december 2008, voor het kalenderjaar 2003 voor alle gemeenten samen;  
+e. TK<sup>W</sup> het totaal is van de uitkeringen, bedoeld in artikel 69, eerste lid, onderdeel a, van de Wet werk en bijstand, zoals die luidde op 31 december 2008, voor het kalenderjaar 2003 voor alle gemeenten samen;  
 
 f. TB<sup>W</sup> het bedrag is dat beschikbaar is gesteld door Onze Minister van Sociale Zaken en Werkgelegenheid voor een participatiebudget voor alle colleges voor het desbetreffende kalenderjaar.     
 2.  Indien het aan de hand van het verdeelmodel, dat is opgenomen in bijlage 1 van dit besluit, bepaalde gewicht van de gemeente negatief is, wordt dat voor de toepassing van het eerste lid, onderdelen b en c, op nihil gesteld.   
@@ -122,7 +122,7 @@ c. ib het bedrag is dat door Onze Minister van Onderwijs, Cultuur en Wetenschap 
 
 ####Op nihil stellen onderdelen verdeelsleutel Minister van Onderwijs, Cultuur en Wetenschap
 
-Indien het college de gegevens, bedoeld in de artikelen 4 en 5, niet op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), heeft verstrekt, worden voor de berekening van het deel van het participatiebudget dat een college ontvangt uit het totale bedrag dat beschikbaar is gesteld door Onze Minister van Onderwijs, Cultuur en Wetenschap voor een participatiebudget voor alle colleges de onderdelen Cg, BVg en Ug van de formules, bedoeld in de artikelen 4 en 5, op nihil gesteld. 
+Indien het college de gegevens, bedoeld in de artikelen 4 en 5, niet op de wijze, bedoeld in artikel 17a van de Financiële-verhoudingswet, heeft verstrekt, worden voor de berekening van het deel van het participatiebudget dat een college ontvangt uit het totale bedrag dat beschikbaar is gesteld door Onze Minister van Onderwijs, Cultuur en Wetenschap voor een participatiebudget voor alle colleges de onderdelen Cg, BVg en Ug van de formules, bedoeld in de artikelen 4 en 5, op nihil gesteld. 
 
 ### Paragraaf  3  
 
@@ -138,7 +138,7 @@ Vervallen per 01-01-2013
 
 ####Aanpassing verdeelmaatstaven bij gemeenschappelijke regelingen
 
-Indien [artikel 6 van de wet](../../../../wet/wet/participatiebudget/BWBR0025039/README.md) van toepassing is, zijn de artikelen 6 en 10 van overeenkomstige toepassing, met dien verstande dat wordt uitgegaan van de situatie waarin het bestuur van het openbaar lichaam de verantwoordingsinformatie, bedoeld in artikel 6, onderdeel a, van de wet, niet op de wijze, bedoeld in [artikel 17a van de Financiële-verhoudingswet](../../../../wet/financiële-verhoudingswet/BWBR0008290/README.md), heeft verstrekt. 
+Indien artikel 6 van de wet van toepassing is, zijn de artikelen 6 en 10 van overeenkomstige toepassing, met dien verstande dat wordt uitgegaan van de situatie waarin het bestuur van het openbaar lichaam de verantwoordingsinformatie, bedoeld in artikel 6, onderdeel a, van de wet, niet op de wijze, bedoeld in artikel 17a van de Financiële-verhoudingswet, heeft verstrekt. 
 
 ### Paragraaf  4  
 
@@ -148,7 +148,7 @@ Indien [artikel 6 van de wet](../../../../wet/wet/participatiebudget/BWBR0025039
 
 ####Aanpassing verdeelmaatstaven bij gemeentelijke herindeling
 
-Bij een wijziging van de gemeentelijke indeling of een grenscorrectie als bedoeld in de [Wet algemene regels herindeling](../../../../wet/wet/algemene/regels/herindeling/BWBR0003718/README.md) worden de gegevens waarmee de berekeningen op grond van dit hoofdstuk worden uitgevoerd, vastgesteld op basis van een redelijke schatting van de toestand van die gegevens zoals die zou zijn geweest als de wijziging op de datum waarop die gegevens betrekking hebben reeds was ingegaan. 
+Bij een wijziging van de gemeentelijke indeling of een grenscorrectie als bedoeld in de Wet algemene regels herindeling worden de gegevens waarmee de berekeningen op grond van dit hoofdstuk worden uitgevoerd, vastgesteld op basis van een redelijke schatting van de toestand van die gegevens zoals die zou zijn geweest als de wijziging op de datum waarop die gegevens betrekking hebben reeds was ingegaan. 
 
 ### Hoofdstuk  2a  
 
@@ -158,11 +158,11 @@ Bij een wijziging van de gemeentelijke indeling of een grenscorrectie als bedoel
 
 ####Participatie inactieven
 
-1.  Per inactieve die na ondersteuning door het college in de periode tussen 1 januari 2009 en 31 december 2011 een dienstbetrekking heeft aanvaard met een overeengekomen omvang van ten minste 20 uur per week en die dienstbetrekking heeft behouden voor een periode van ten minste zes maanden mag het college in het kalenderjaar volgend op het kalenderjaar waarin de periode van zes maanden is voltooid € 12.000 uit het participatiebudget besteden aan andere kosten ten behoeve van de bevordering van participatie dan de kosten, bedoeld in [artikel 2, eerste lid, van de wet](../../../../wet/wet/participatiebudget/BWBR0025039/README.md), alsmede ten behoeve van de in dat lid bedoelde uitvoeringskosten.   
+1.  Per inactieve die na ondersteuning door het college in de periode tussen 1 januari 2009 en 31 december 2011 een dienstbetrekking heeft aanvaard met een overeengekomen omvang van ten minste 20 uur per week en die dienstbetrekking heeft behouden voor een periode van ten minste zes maanden mag het college in het kalenderjaar volgend op het kalenderjaar waarin de periode van zes maanden is voltooid € 12.000 uit het participatiebudget besteden aan andere kosten ten behoeve van de bevordering van participatie dan de kosten, bedoeld in artikel 2, eerste lid, van de wet, alsmede ten behoeve van de in dat lid bedoelde uitvoeringskosten.   
 2.  Vervallen.   
 3.  Met een dienstbetrekking voor een periode van zes maanden, bedoeld in het eerste lid, worden gelijkgesteld twee of meer aaneengesloten dienstbetrekkingen voor een periode van in totaal ten minste zes maanden.   
 4.  Met het behouden van een dienstbetrekking met een overeengekomen omvang van ten minste 20 uur per week voor een periode van ten minste zes maanden wordt gelijkgesteld het ontvangen van loon uit dienstbetrekking over gemiddeld 20 uur per week gedurende ten minste zes aaneengesloten maanden.   
-5.  Het bedrag dat op grond van het eerste lid mag worden besteed bedraagt ten hoogste het deel van de uitkering dat het college ontvangt op basis van de verdeelsleutel, bedoeld in [artikel 2, vierde lid, van de wet](../../../../wet/wet/participatiebudget/BWBR0025039/README.md), voor het bedrag dat door Onze Minister van Sociale Zaken en Werkgelegenheid beschikbaar is gesteld in het desbetreffende kalenderjaar.  
+5.  Het bedrag dat op grond van het eerste lid mag worden besteed bedraagt ten hoogste het deel van de uitkering dat het college ontvangt op basis van de verdeelsleutel, bedoeld in artikel 2, vierde lid, van de wet, voor het bedrag dat door Onze Minister van Sociale Zaken en Werkgelegenheid beschikbaar is gesteld in het desbetreffende kalenderjaar.  
 
 ### Artikel  11b  
 
@@ -197,7 +197,7 @@ Dit hoofdstuk alsmede de definities van «inactieve» en van «startkwalificatie
 
 1.   Indien in een kalenderjaar het participatiebudget niet volledig is besteed aan participatievoorzieningen, kan het college het niet bestede bedrag tot maximaal 25% van het voor dat jaar toegekende participatiebudget reserveren voor besteding aan participatievoorzieningen in het daaropvolgende kalenderjaar.   
 2.   Indien in een kalenderjaar meer dan het participatiebudget is besteed aan participatievoorzieningen, kan het college het meer bestede bedrag tot maximaal 25% van het voor dat jaar toegekende participatiebudget ten laste brengen van het participatiebudget voor het daaropvolgende kalenderjaar.   
-3.  Voor het jaar 2009 bedragen de in het eerste en tweede lid genoemde percentages voor een college als bedoeld in [artikel 13 van de wet](../../../../wet/wet/participatiebudget/BWBR0025039/README.md) 31,25.  
+3.  Voor het jaar 2009 bedragen de in het eerste en tweede lid genoemde percentages voor een college als bedoeld in artikel 13 van de wet 31,25.  
 
 ### Artikel  13  
 
@@ -211,25 +211,25 @@ Iedere maand wordt op of omstreeks de vijftiende dag van die maand een twaalfde 
 
 ### Artikel  14  
 
-####Wijziging van het [Besluit WWB 2007](../../../../AMvB/besluit/wwb/2007/BWBR0020183/README.md)
+####Wijziging van het Besluit WWB 2007
 
 Wijzigt het Besluit WWB 2007.
 
 ### Artikel  15  
 
-####Wijziging van het [Uitvoeringsbesluit WEB](../../../../AMvB/uitvoeringsbesluit/web/BWBR0010646/README.md)
+####Wijziging van het Uitvoeringsbesluit WEB
 
 Wijzigt het Uitvoeringsbesluit WEB.
 
 ### Artikel  16  
 
-####Wijziging van het [Besluit brede doeluitkering sociaal, integratie en veiligheid](../../../../AMvB/besluit/brede/doeluitkering/sociaal/integratie/en/veiligheid/BWBR0018238/README.md)
+####Wijziging van het Besluit brede doeluitkering sociaal, integratie en veiligheid
 
 Wijzigt het Besluit brede doeluitkering sociaal, integratie en veiligheid.
 
 ### Artikel  17  
 
-####Wijziging van het [Besluit inburgering](../../../../AMvB/besluit/inburgering/BWBR0020674/README.md)
+####Wijziging van het Besluit inburgering
 
 Wijzigt het Besluit inburgering.
 
@@ -292,7 +292,7 @@ Het schema geeft de verdeelmaatstaven weer en de bron waaraan deze worden ontlee
 | 3.  | Omvang beroepsbevolking  | CBS  |
 | 4.  | Kwalitatieve discrepantie laaggeschoolde arbeid  | CBS  |
 
-Definitie verdeelmaatstaven:  *Aantal bijstandsontvangers:* aantal huishoudens dat in het peiljaar op enig moment een uitkering op grond van de [Wet werk en bijstand](../../../../wet/wet/werk/en/bijstand/BWBR0015703/README.md) (WWB) ontvangt en jonger is dan 65 jaar of een uitkering of inkomensvoorziening ontvangt op grond van de [Wet investeren in jongeren](../../../../wet/wet/investeren/in/jongeren/BWBR0026054/README.md) (WIJ), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/werkloze/etc/BWBR0004044/README.md) (IOAW), de [Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen](../../../../wet/wet/inkomensvoorziening/oudere/en/gedeeltelijk/arbeidsongeschikte/gewezen/etc/BWBR0004163/README.md) (IOAZ) of het [Besluit bijstandverlening zelfstandigen 2004](../../../../AMvB/besluit/bijstandverlening/zelfstandigen/2004/BWBR0015711/README.md) (Bbz 2004). Eén huishouden telt hooguit één keer mee. Huishoudens die in de loop van het meetjaar een tussentijdse onderbreking van de WWB-uitkering hebben zijn dus één huishouden.  *Aantal WW-ontvangers:* het aantal personen dat in het peiljaar op enig moment een uitkering op grond van de [Werkloosheidswet](../../../../wet/werkloosheidswet/BWBR0004045/README.md) (WW) ontvangt. Ook nu weer geldt: een persoon telt hooguit één keer mee. Personen die in de loop van het meetjaar zowel een WW-uitkering als een WWB-uitkering hebben ontvangen, worden gerekend tot de groep bijstandsontvangers, en zijn dus uitgesloten van de categorie WW-uitkeringen. Personen die in de loop van het meetjaar verhuizen van gemeente A naar gemeente B en in beide gemeenten een WW-uitkering hebben ontvangen, tellen mee naar rato van het aantal maanden dat de persoon als ingezetene met een adres in de gemeente in de basisregistratie personen was ingeschreven. Personen die niet als ingezetene zijn ingeschreven in de basisregistratie personen tellen niet mee.  *Omvang beroepsbevolking:* alle personen tussen 15 en 65 jaar die meer dan 12 uur per week werken of willen werken. Bij deze variabele wordt gerekend met een driejaarsgemiddelde.  *Kwalitatieve discrepantie laaggeschoolde arbeid:* de omvang van de laaggeschoolde beroepsbevolking minus de omvang van de laaggeschoolde werkzame beroepsbevolking. Bij deze variabele wordt gerekend met een driejaarsgemiddelde. De maatstaven zijn alle afkomstig van bestanden, die bij het Centraal bureau voor de statistiek (CBS) in beheer zijn. De verdeelkenmerken aantal WW- en bijstandsontvangers worden door het CBS berekend. De verdeelkenmerken omvang beroepsbevolking en kwalitatieve discrepantie laaggeschoolde arbeid zijn afkomstig uit de Enquête beroepsbevolking (EBB), en worden door het CBS voor gemeenten met meer dan 10.000 inwoners op Statline gepubliceerd. Voor gemeenten met minder dan 10.000 inwoners levert het CBS de betreffende gegevens aan SZW. 
+Definitie verdeelmaatstaven:  *Aantal bijstandsontvangers:* aantal huishoudens dat in het peiljaar op enig moment een uitkering op grond van de Wet werk en bijstand (WWB) ontvangt en jonger is dan 65 jaar of een uitkering of inkomensvoorziening ontvangt op grond van de Wet investeren in jongeren (WIJ), de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers (IOAW), de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen (IOAZ) of het Besluit bijstandverlening zelfstandigen 2004 (Bbz 2004). Eén huishouden telt hooguit één keer mee. Huishoudens die in de loop van het meetjaar een tussentijdse onderbreking van de WWB-uitkering hebben zijn dus één huishouden.  *Aantal WW-ontvangers:* het aantal personen dat in het peiljaar op enig moment een uitkering op grond van de Werkloosheidswet (WW) ontvangt. Ook nu weer geldt: een persoon telt hooguit één keer mee. Personen die in de loop van het meetjaar zowel een WW-uitkering als een WWB-uitkering hebben ontvangen, worden gerekend tot de groep bijstandsontvangers, en zijn dus uitgesloten van de categorie WW-uitkeringen. Personen die in de loop van het meetjaar verhuizen van gemeente A naar gemeente B en in beide gemeenten een WW-uitkering hebben ontvangen, tellen mee naar rato van het aantal maanden dat de persoon als ingezetene met een adres in de gemeente in de basisregistratie personen was ingeschreven. Personen die niet als ingezetene zijn ingeschreven in de basisregistratie personen tellen niet mee.  *Omvang beroepsbevolking:* alle personen tussen 15 en 65 jaar die meer dan 12 uur per week werken of willen werken. Bij deze variabele wordt gerekend met een driejaarsgemiddelde.  *Kwalitatieve discrepantie laaggeschoolde arbeid:* de omvang van de laaggeschoolde beroepsbevolking minus de omvang van de laaggeschoolde werkzame beroepsbevolking. Bij deze variabele wordt gerekend met een driejaarsgemiddelde. De maatstaven zijn alle afkomstig van bestanden, die bij het Centraal bureau voor de statistiek (CBS) in beheer zijn. De verdeelkenmerken aantal WW- en bijstandsontvangers worden door het CBS berekend. De verdeelkenmerken omvang beroepsbevolking en kwalitatieve discrepantie laaggeschoolde arbeid zijn afkomstig uit de Enquête beroepsbevolking (EBB), en worden door het CBS voor gemeenten met meer dan 10.000 inwoners op Statline gepubliceerd. Voor gemeenten met minder dan 10.000 inwoners levert het CBS de betreffende gegevens aan SZW. 
 
 ### B  
 
@@ -312,7 +312,7 @@ b. Voor COROP-gebieden met maar één gemeente met minder dan 30.000 inwoners wo
 
 ####Overgang van historische kosten naar verdeelmodel
 
-Voor de verdeling van het bedrag dat beschikbaar is gesteld door Onze Minister van SZW wordt voor de jaren 2009 en 2010 een overgangsregeling gehanteerd. Het aandeel van een gemeente in het beschikbare deel van het macrobudget dat afkomstig is van Onze Minister van SZW wordt bepaald door een combinatie van het historische budgetaandeel in 2003 in de totale subsidie die in dat jaar op grond van [artikel 18 van de Wet inschakeling werkzoekenden](../../../../wet/wet/inschakeling/werkzoekenden/BWBR0009083/README.md) (WIW) en [artikel 13, eerste tot en met derde lid, van het Besluit in- en doorstroombanen](../../../../AMvB/besluit/in-/en/doorstroombanen/BWBR0010994/README.md) (ID) beschikbaar was (K<sup>W</sup> / TK<sup>W</sup>) en het verdeelmodel. Het deel van het participatiebudget dat een college ontvangt uit het totale bedrag dat beschikbaar is gesteld door Onze Minister van SZW voor een participatiebudget voor alle colleges wordt berekend op grond van de formule (zie artikel 2 voor een toelichting): (a × (O<sup>W</sup> / OT<sup>W</sup>) + (1–a) × (K<sup>W</sup> / TK<sup>W</sup>)) × TB<sup>W</sup>  Het totale gemeentelijke werkbudget 2003 bestond uit vijf verschillende budgetten: 
+Voor de verdeling van het bedrag dat beschikbaar is gesteld door Onze Minister van SZW wordt voor de jaren 2009 en 2010 een overgangsregeling gehanteerd. Het aandeel van een gemeente in het beschikbare deel van het macrobudget dat afkomstig is van Onze Minister van SZW wordt bepaald door een combinatie van het historische budgetaandeel in 2003 in de totale subsidie die in dat jaar op grond van artikel 18 van de Wet inschakeling werkzoekenden (WIW) en artikel 13, eerste tot en met derde lid, van het Besluit in- en doorstroombanen (ID) beschikbaar was (K<sup>W</sup> / TK<sup>W</sup>) en het verdeelmodel. Het deel van het participatiebudget dat een college ontvangt uit het totale bedrag dat beschikbaar is gesteld door Onze Minister van SZW voor een participatiebudget voor alle colleges wordt berekend op grond van de formule (zie artikel 2 voor een toelichting): (a × (O<sup>W</sup> / OT<sup>W</sup>) + (1–a) × (K<sup>W</sup> / TK<sup>W</sup>)) × TB<sup>W</sup>  Het totale gemeentelijke werkbudget 2003 bestond uit vijf verschillende budgetten: 
 
 1. WIW-normbudget;  
 

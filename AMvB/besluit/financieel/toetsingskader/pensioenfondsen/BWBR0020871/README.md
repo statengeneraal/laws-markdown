@@ -212,6 +212,18 @@ b. een intern model hanteren.
 5.  De waarden worden naar behoren gediversifieerd zodat een bovenmatige afhankelijkheid van of vertrouwen in bepaalde waarden, of een bepaalde emittent van waarden of groep van ondernemingen en risicoaccumulatie in de portefeuille als geheel worden vermeden.   
 6.  Onder waardering op marktwaarde als bedoeld in artikel 135, eerste lid, onder c, van de Pensioenwet en artikel 130, eerste lid, onder b, van de Wet verplichte beroepspensioenregeling wordt verstaan: het bedrag waarvoor een actief kan worden verhandeld of een passief kan worden afgewikkeld tussen terzake goed geïnformeerde partijen, die tot een transactie bereid en onafhankelijk van elkaar zijn. Bij de waardering van een vordering van een fonds op een verzekeraar uit hoofde van een verzekering als bedoeld in artikel 12, derde lid, kan het kredietrisico op die verzekeraar buiten beschouwing worden gelaten.  
 
+### Artikel  13a  
+
+####Beleggingsbeleid
+
+Treedt in werking per 01-01-2015 
+
+1.  Een fonds stelt voor de langere termijn een strategisch beleggingsbeleid vast dat aansluit op de doelstellingen en beleidsuitgangspunten, waaronder de risicohouding, van het fonds en is gebaseerd op gedegen onderzoek.   
+2.  Het strategisch beleggingsbeleid bevat in ieder geval een beschrijving van de beleggingsdoelstelling, de samenstelling van de beoogde beleggingsportefeuille en de mate waarin van de beoogde beleggingsportefeuille kan worden afgeweken.   
+3.  Het fonds vertaalt het strategisch beleggingsbeleid naar een beleggingsplan. In het beleggingsplan neemt het fonds concrete en gedetailleerde richtniveaus en bandbreedtes per beleggingscategorie op. Het fonds stelt daarbij beleid op voor de beheersing van de relevante risico’s.   
+4.  Het fonds onderbouwt dat het strategisch beleggingsbeleid en het beleggingsplan passen binnen de prudent person regel.   
+5.  Een fonds stelt een beleggingscyclus vast op grond waarvan het strategisch beleggingsbeleid, het beleggingsplan en de uitvoering periodiek worden geëvalueerd en herbeoordeeld.  
+
 ### Artikel  14  
 
 ####Leningen
@@ -284,6 +296,17 @@ Een fonds beschikt over goede administratieve en boekhoudkundige procedures en a
 ####Integriteitrisico
 
 Een fonds draagt zorg voor een systematische analyse van integriteitrisico’s en stelt aan de hand van deze analyse een integriteitbeleid vast en draagt zorg voor de uitvoering van dat beleid. 
+
+### Artikel  19a  
+
+####Incidenten
+
+Treedt in werking per 01-01-2015 
+
+1.  Een fonds beschikt over procedures en maatregelen met betrekking tot de omgang met en vastlegging van incidenten.   
+2.  Onder een incident als bedoeld in dit artikel wordt verstaan: een gedraging of gebeurtenis die een ernstig gevaar vormt voor de integere uitoefening van het bedrijf van een fonds.   
+3.  Een fonds neemt naar aanleiding van een incident maatregelen die zijn gericht op het beheersen van de opgetreden risico’s en het voorkomen van herhaling.   
+4.  Een fonds informeert de Nederlandsche Bank onverwijld omtrent incidenten.  
 
 ### Artikel  20  
 
@@ -443,6 +466,34 @@ Voor zover risico’s zijn overgedragen of verzekerd kunnen de beschrijvingen, b
 ####Uitgangspunten oordeelsvorming De Nederlandsche Bank
 
 De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond van de artikelen 24 tot en met 28 zijn zodanig dat De Nederlandsche Bank op basis van die beschrijvingen tot een oordeel kan komen over de wijze waarop voldaan wordt aan de artikelen 25, 95, 126 tot en met 137 en 143 van de Pensioenwet of de artikelen 35, 103, 121 tot en met 132 en 138 van de Wet verplichte beroepspensioenregeling. 
+
+### Artikel  29a  
+
+####Verklaring inzake beleggingsbeginselen
+
+Treedt in werking per 01-01-2015 
+
+De verklaring inzake beleggingsbeginselen, bedoeld in artikel 145, eerste lid, van de Pensioenwet dan wel artikel 140, eerste lid, van de Wet verplichte beroepspensioenregeling, omvat in ieder geval onderwerpen als de strategische allocatie van activa in het licht van de aard en de looptijd van de pensioenverplichtingen, de toegepaste wegingmethoden voor beleggingsrisico’s, de risicohouding, het gevoerde risicoprofiel en de risicobeheerprocedures. 
+
+### Artikel  29b  
+
+####Financieel crisisplan
+
+Treedt in werking per 01-01-2015 
+
+Een financieel crisisplan als bedoeld in artikel 145, tweede lid, van de Pensioenwet dan wel artikel 140, tweede lid, van de Wet verplichte beroepspensioenregeling omvat in ieder geval: 
+
+a. een beschrijving van een of meer financiële situaties waarin het fonds niet aan de vereisten van het vereist eigen vermogen voldoet en gevaar loopt niet aan de vereisten van het minimaal vereist vermogen te gaan voldoen;  
+
+b. een beschrijving van een of meer risico’s die naar het oordeel van het fonds kunnen leiden tot situaties die als financiële crisissituatie kunnen worden aangemerkt;  
+
+c. een beschrijving van de maatregelen die het fonds ter beschikking staan ter bestrijding van situaties als bedoeld in onderdeel a en artikel 145, tweede lid, onderdeel a, van de Pensioenwet dan wel artikel 140, tweede lid, onderdeel a, van de Wet verplichte beroepspensioenregeling, waarbij wordt beschreven hoe het fonds deze maatregelen verwacht in te zetten;  
+
+d. een indicatie van het financiële effect van de inzet van de ter beschikking staande maatregelen;  
+
+e. de berekening van het niveau van de beleidsdekkingsgraad vanaf welke naar verwachting vermindering van pensioenaanspraken en pensioenrechten nodig zijn om te voldoen aan de vereisten ten aanzien van het vereist eigen vermogen; en  
+
+f. een beschrijving van de wijze waarop bij het inzetten van maatregelen op evenwichtige wijze rekening wordt gehouden met de belangen van de belanghebbenden van het fonds, waarbij wordt opgenomen hoe een vermindering van pensioenaanspraken en pensioenrechten zal worden verdeeld en of, en zo ja hoe, deze zal worden gespreid.   
 
 ### Paragraaf  10  
 

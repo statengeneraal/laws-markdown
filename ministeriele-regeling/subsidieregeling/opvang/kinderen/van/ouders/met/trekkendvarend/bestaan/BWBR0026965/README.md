@@ -3,7 +3,7 @@
 ##Regeling van de Minister voor Jeugd en Gezin van 17 december 2009, nr. JZ/LJ-2977004, houdende vaststelling van regels voor de rechtstreekse subsidiëring van het huisvesten, verzorgen en opvoeden van kinderen of pleegkinderen van binnenschippers, kermisexploitanten en circusartiesten (Subsidieregeling opvang kinderen van ouders met trekkend/varend bestaan)
 
 De Minister voor Jeugd en Gezin,  
-Gelet op de [artikelen 3](../../../../../../../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md), [5](../../../../../../../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md) en [7 van de Kaderwet VWS-subsidies](../../../../../../../../../../wet/kaderwet/vws-subsidies/BWBR0009455/README.md);
+Gelet op de artikelen 3, 5 en 7 van de Kaderwet VWS-subsidies;
 Besluit:     
 ### Paragraaf  1  
 
@@ -42,23 +42,23 @@ k.  *instellingssubsidie:* instellingssubsidie als bedoeld in artikel 4.
 
 ### Artikel  2  
 
-De [Kaderregeling VWS-subsidies](../../../../../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md), met uitzondering van [artikel 17](../../../../../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md) en [artikel 2, tweede lid](../../../../../../../../../../ministeriele-regeling/kaderregeling/vws-subsidies/BWBR0029947/README.md), is van toepassing op een instellingssubsidie. 
+De Kaderregeling VWS-subsidies, met uitzondering van artikel 17 en artikel 2, tweede lid, is van toepassing op een instellingssubsidie. 
 
 ### Artikel  3  
 
 1. Een instellingssubsidie wordt uitsluitend verstrekt ten behoeve van een kind: 
 
-a. van een binnenschipper, kermisexploitant of circusartiest die in Nederland woonachtig en binnenlands belastingplichtig is in de zin van [artikel 2.1, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001](../../../../../../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md)en;  
+a. van een binnenschipper, kermisexploitant of circusartiest die in Nederland woonachtig en binnenlands belastingplichtig is in de zin van artikel 2.1, eerste lid, onderdeel a, van de Wet inkomstenbelasting 2001en;  
 
-b. voor wie op grond van de [Leerplichtwet 1969](../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) een leerplicht of kwalificatieplicht geldt en die is ingeschreven op een school of instelling als bedoeld in die wet.    
+b. voor wie op grond van de Leerplichtwet 1969 een leerplicht of kwalificatieplicht geldt en die is ingeschreven op een school of instelling als bedoeld in die wet.    
 2.  In afwijking van het eerste lid,onderdeel a, wordt de subsidie bij wijze van uitzondering ook verstrekt ten behoeve van een kind waarvan de ouders vóór 1 januari 2010 in Nederland woonachtig zijn, maar buitenlands belastingplichtig zijn. 
 3. In afwijking van het eerste lid, onderdeel b, wordt de subsidie bij wijze van uitzondering ook verstrekt ten behoeve van een kind voor wie:
 
-a.op grond van de [Leerplichtwet 1969](../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) nog geen leerplicht of kwalificatieplicht geldt, maar voor wie wegens bijzondere omstandigheden ten behoeve van zijn ontwikkeling de huisvesting, verzorging en opvoeding in een internaat of pleeggezin noodzakelijk is of
+a.op grond van de Leerplichtwet 1969 nog geen leerplicht of kwalificatieplicht geldt, maar voor wie wegens bijzondere omstandigheden ten behoeve van zijn ontwikkeling de huisvesting, verzorging en opvoeding in een internaat of pleeggezin noodzakelijk is of
 
-b.op grond van de [Leerplichtwet 1969](../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) geen leerplicht of kwalificatieplicht meer geldt, maar:
+b.op grond van de Leerplichtwet 1969 geen leerplicht of kwalificatieplicht meer geldt, maar:
 
-–dat aansluitend op het behalen van een startkwalificatie als bedoeld in de [Leerplichtwet 1969](../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md) een andere opleiding of ander onderwijs volgt als bedoeld in [artikel 1, onderdeel f, van de Leerplichtwet 1969](../../../../../../../../../../wet/leerplichtwet/1969/BWBR0002628/README.md);
+–dat aansluitend op het behalen van een startkwalificatie als bedoeld in de Leerplichtwet 1969 een andere opleiding of ander onderwijs volgt als bedoeld in artikel 1, onderdeel f, van de Leerplichtwet 1969;
 
 –ten behoeve van het afronden van de opleiding wegens bijzondere omstandigheden een eenmalige verlenging van de huisvesting, verzorging en opvoeding in een internaat of pleeggezin met één jaar noodzakelijk is of
 
@@ -117,7 +117,7 @@ Voor de aanvraag van een instellingssubsidie wordt een door de minister vastgest
 
 ### Artikel  7  
 
-De aanvraag van een instellingssubsidie bevat een opgave van het aantal kinderen, genoemd in artikel 5, eerste lid onder de letters A en D. Deze opgave gaat vergezeld van een assurancerapport van een accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../../../../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) overeenkomstig een door de minister vastgesteld modelassurancerapport met inachtneming van een door de minister vastgesteld accountantsprotocol. 
+De aanvraag van een instellingssubsidie bevat een opgave van het aantal kinderen, genoemd in artikel 5, eerste lid onder de letters A en D. Deze opgave gaat vergezeld van een assurancerapport van een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek overeenkomstig een door de minister vastgesteld modelassurancerapport met inachtneming van een door de minister vastgesteld accountantsprotocol. 
 
 ### Artikel  8  
 
@@ -161,17 +161,17 @@ De exploitant int de ouderbijdrage, bedoeld in de artikelen 9 en 10.
 ### Artikel  14  
 
 1.  De exploitant draagt er aantoonbaar zorg voor dat de huisvesting, verzorging en opvoeding van verantwoorde kwaliteit is en dat daartoe waarborgen worden getroffen die onder meer betrekking hebben op de medezeggenschap van zijn cliënten, op het behandelen van klachten van zijn cliënten, op de personele en materiële voorzieningen en op de systematische bewaking van de kwaliteit.   
-2.  Ter uitvoering van het eerste lid vergewist de exploitant zich ervan dat de personen die werkzaam zijn voor de huisvesting, verzorging en opvoeding in het bezit zijn van een voldoende recente verklaring omtrent het gedrag, afgegeven volgens de [Wet justitiële en strafvorderlijke gegevens](../../../../../../../../../../wet/wet/justitiële/gegevens/BWBR0014194/README.md).  
+2.  Ter uitvoering van het eerste lid vergewist de exploitant zich ervan dat de personen die werkzaam zijn voor de huisvesting, verzorging en opvoeding in het bezit zijn van een voldoende recente verklaring omtrent het gedrag, afgegeven volgens de Wet justitiële en strafvorderlijke gegevens.  
 
 ### Artikel  15  
 
 1.  De exploitant doet binnen dertien weken na afloop van het boekjaar verslag over de wijze waarop uitvoering is gegeven aan de verplichtingen die zijn opgenomen in artikel 14.   
 2.  Het verslag, bedoeld in het eerste lid, wordt gedaan overeenkomstig een door de minister vastgesteld model.   
-3.  De exploitant zendt het verslag aan de minister en in afschrift aan de Inspectie jeugdzorg, bedoeld in [artikel 47 van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md).  
+3.  De exploitant zendt het verslag aan de minister en in afschrift aan de Inspectie jeugdzorg, bedoeld in artikel 47 van de Wet op de jeugdzorg.  
 
 ### Artikel  16  
 
-Met het toezicht op de naleving van de artikelen 14 en 15 zijn belast de ambtenaren van de Inspectie jeugdzorg, bedoeld in [artikel 47 van de Wet op de jeugdzorg](../../../../../../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md). 
+Met het toezicht op de naleving van de artikelen 14 en 15 zijn belast de ambtenaren van de Inspectie jeugdzorg, bedoeld in artikel 47 van de Wet op de jeugdzorg. 
 
 ### Artikel  18  
 
@@ -193,7 +193,7 @@ Voor de aanvraag van de vaststelling van een instellingssubsidie wordt een door 
 
 ### Artikel  22  
 
-De [Subsidieregeling schippersinternaten](../../../../../../../../../../ministeriele-regeling/subsidieregeling/schippersinternaten/BWBR0020459/README.md) vervalt met dien verstande dat die regeling van toepassing blijft ten aanzien van subsidies die op grond van die regeling zijn verstrekt. 
+De Subsidieregeling schippersinternaten vervalt met dien verstande dat die regeling van toepassing blijft ten aanzien van subsidies die op grond van die regeling zijn verstrekt. 
 
 ### Artikel  23  
 

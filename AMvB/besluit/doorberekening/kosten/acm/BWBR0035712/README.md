@@ -160,7 +160,8 @@ c. voor de sector telecommunicatie:
 
 d. voor de sector registerloodsen: loodswezen;  
 
-e. voor de sector luchtvaart: luchtvaart.    
+e. voor de sector luchtvaart: luchtvaart.     
+3.  Bij ministeriële regeling kunnen per categorie subcategorieën van gelijksoortige werkzaamheden of diensten worden vastgesteld. Op deze subcategorieën is het eerste lid van overeenkomstige toepassing. 
 
 ### Artikel  11  
 Treedt in werking per 01-01-2015 
@@ -172,16 +173,34 @@ Treedt in werking per 01-01-2015
 
 1.  Voor de toepassing van hoofdstuk 3 van dit besluit wordt onder relevante omzet verstaan de omzet die een tot een bepaalde categorie behorende marktorganisatie in Nederland heeft behaald met activiteiten waarop de taakuitvoering van de ACM in die categorie betrekking heeft.   
 2.  Voor de vaststelling van de bedragen worden de aan een categorie toegerekende kosten toegedeeld aan de tot die categorie behorende marktorganisaties naar rato van de relevante omzet van die marktorganisaties.   
-3.  Bij een relevante omzet van minder dan € 2.000.000 wordt aan een marktorganisatie geen bedrag in rekening gebracht.   
+3.  Bij ministeriële regeling wordt bepaald beneden welke relevante omzet aan een marktorganisatie geen bedrag in rekening wordt gebracht. Deze omzet kan voor de verschillende categorieën verschillend worden vastgesteld.   
 4.  Voor de toepassing van het tweede lid wordt uitgegaan van de relevante omzet die is behaald in het peiljaar. Peiljaar is het kalenderjaar dat twee jaar voorafgaat aan het kalenderjaar waarvoor de bedragen worden vastgesteld.   
-5.  In afwijking van het tweede lid worden de aan de in artikel 10, tweede lid, onderdeel c, onder 2°, bedoelde categorie toegerekende kosten aan marktorganisaties toegedeeld naar rato van het aantal toegekende nummers op 1 januari van het kalenderjaar waarvoor de bedragen gelden, waarbij per marktorganisatie wordt gecorrigeerd voor het saldo van in- en uitgeporteerde nummers op die datum.   
+5.  In afwijking van het tweede lid worden de aan de in artikel 10, tweede lid, onderdeel c, onder 2°, bedoelde categorie toegerekende kosten aan marktorganisaties toegedeeld naar rato van het aantal toegekende nummers op 1 januari van het kalenderjaar waarvoor de bedragen gelden. Bij ministeriële regeling wordt geregeld in welke gevallen en op welke wijze wordt gecorrigeerd voor het saldo van in- en uitgeporteerde nummers op die datum.   
 6.  In afwijking van het eerste lid worden de aan de in artikel 10, tweede lid, onderdeel c, onder 3°, bedoelde categorie toegerekende kosten aan marktorganisaties toegedeeld naar rato van het aantal aan het publiek afgegeven certificaten op 1 januari van het kalenderjaar waarvoor de bedragen gelden.  
+
+### Artikel  12a  
+
+####(opgave omzet peiljaar)
+
+Treedt in werking per 01-01-2015 
+
+1.  Een marktorganisatie behorend tot een in artikel 10, tweede lid, onderdeel a, onder 1°, 2° of 5°, onderdeel b, onder 2°, of onderdeel c, onder 1°, genoemde categorie, verstrekt vóór 1 januari van het kalenderjaar waarvoor de bedragen worden vastgesteld aan de ACM een opgave van de in het betrokken peiljaar behaalde relevante omzet, tenzij de ACM de marktorganisatie heeft laten weten reeds over de betreffende gegevens te beschikken.   
+2.  De opgave gaat vergezeld van een verklaring van een accountant die is ingeschreven in het accountantsregister, bedoeld in artikel 36 van de Wet op het accountantsberoep, dat de opgave een getrouw beeld geeft van de in het peiljaar behaalde relevante omzet en voldoet aan de bij of krachtens dit besluit gestelde eisen.   
+3.  Indien met betrekking tot het peiljaar een jaarrekening is vastgesteld, doet de marktorganisatie de opgave vergezeld gaan van die jaarrekening.   
+4.  Bij ministeriële regeling wordt de relevante omzet bepaald beneden welke een marktorganisatie een opgave kan doen zonder een verklaring als bedoeld in het tweede lid en een jaarrekening als bedoeld in het derde lid bij te voegen. Deze omzet kan voor de verschillende categorieën verschillend worden vastgesteld.   
+5.  Een opgave van de netto-omzet die op grond van artikel 377, derde lid, onder a, van Boek 2 van het Burgerlijk Wetboek is vermeld in de jaarrekening, voldoet aan de in het eerste lid bedoelde opgave.   
+6.  Indien opgave wordt gedaan van de netto-omzet, bedoeld in het vijfde lid, kan in plaats van een accountantsverklaring als bedoeld in het tweede lid, een voor de jaarrekening afgegeven accountantsverklaring als bedoeld in artikel 393, vijfde lid, van Boek 2 van het Burgerlijk Wetboek worden verstrekt.   
+7.  Indien de marktorganisatie niet tijdig heeft voldaan aan de in het eerste lid bedoelde verplichting of een kennelijk onjuiste of onvolledige opgave heeft gedaan en dit verzuim niet heeft hersteld na daartoe door de ACM in de gelegenheid te zijn gesteld, kan de ACM een schatting doen van haar relevante omzet en op basis daarvan het bedrag vaststellen.   
+8.  Bij ministeriële regeling kunnen nadere regels worden gesteld over de opgave van de relevante omzet door de marktorganisatie en over de verklaring van de accountant, bedoeld in het tweede lid.   
+9.  Bij ministeriële regeling kunnen gegevens en bescheiden worden aangewezen die door een marktorganisatie die op grond van het bepaalde bij en krachtens het vierde lid niet gehouden is tot het bijvoegen van een accountantsverklaring en een jaarrekening en ten aanzien van welke de ACM vermoedt dat zij een onjuiste opgave heeft verstrekt, op verzoek van de ACM moeten worden verstrekt. De in de eerste volzin bedoelde gegevens en bescheiden kunnen de in het vierde lid bedoelde accountantsverklaring en jaarrekening betreffen.  
 
 ### Artikel  13  
 Treedt in werking per 01-01-2015 
 
 1.  Ingeval van een groep als bedoeld in artikel 24b van Boek 2 van het Burgerlijk Wetboek wordt in afwijking van artikel 2 per groep één bedrag in rekening gebracht en worden voor de berekening van de relevante omzet van de groep de relevante omzetten van alle tot die groep behorende marktorganisaties opgeteld. Bij deze berekening worden transacties tussen de tot die groep behorende marktorganisaties buiten beschouwing gelaten.   
-2.  Indien een marktorganisatie in of na het peiljaar activiteiten van één of meer andere marktorganisaties heeft overgenomen, vindt de berekening van de relevante omzet plaats met inachtneming van het betrokken deel van de in het peiljaar behaalde relevante omzet van de marktorganisaties die de activiteiten voorheen verrichtten.  
+2.  Indien een marktorganisatie in of na het peiljaar activiteiten van één of meer andere marktorganisaties heeft overgenomen, vindt de berekening van de relevante omzet plaats met inachtneming van het betrokken deel van de in het peiljaar behaalde relevante omzet van de marktorganisaties die de activiteiten voorheen verrichtten. De verplichting om over dit deel een opgave als bedoeld in artikel 12a, eerste lid, te doen rust op de marktorganisatie die activiteiten heeft overgenomen. Artikel 12a, zevende lid, is van overeenkomstige toepassing.   
+3.  Bij ministeriële regeling kunnen per categorie of subcategorie van marktorganisaties activiteiten worden aangewezen van welke de relevante omzet niet wordt betrokken bij de berekening van de relevante omzet van de desbetreffende marktorganisaties.   
+4.  Bij de in het derde lid bedoelde ministeriële regeling worden uitsluitend activiteiten aangewezen die zijn verweven met activiteiten waartoe het aan de ACM opgedragen nalevingstoezicht zich niet uitstrekt. 
 
 ### Artikel  14  
 Treedt in werking per 01-01-2015 
@@ -192,7 +211,8 @@ De ACM verzendt de beschikkingen tot betaling jaarlijks uiterlijk op 30 juni.
 Treedt in werking per 01-01-2015 
 
 1.  In afwijking van artikel 9, tweede lid, kunnen, ten behoeve van een geleidelijke overgang als bedoeld in artikel 6a, achtste lid, van de wet, de bedragen voor de kalenderjaren 2015, 2016 en 2017 lager worden vastgesteld. Alsdan is de verlaging voor alle sectoren in relatieve zin gelijk.   
-2.  In afwijking van artikel 14, verzendt de ACM de beschikkingen tot betaling in het jaar 2015 uiterlijk op 31 juli.  
+2.  In afwijking van artikel 12a, eerste lid, verstrekt een marktorganisatie behorend tot een in artikel 12a, eerste lid, bedoelde categorie, ten behoeve van de vaststelling van de bedragen geldend voor het kalenderjaar 2015, de in artikel 12a, eerste lid, bedoelde opgave van de relevante omzet vóór 1 maart 2015.  
+3.  In afwijking van artikel 14, verzendt de ACM de beschikkingen tot betaling in het jaar 2015 uiterlijk op 31 juli.  
 
 ### Hoofdstuk  4  
 

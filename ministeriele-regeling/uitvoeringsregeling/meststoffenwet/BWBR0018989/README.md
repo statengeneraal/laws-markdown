@@ -111,6 +111,11 @@ gereserveerd
 3. Het is slechts toegestaan andere dan in het eerste lid bedoelde meststoffen te mengen, indien deze meststoffen afzonderlijk voldoen aan de bij of krachtens hoofdstuk III van het besluit ter zake van die meststoffen gestelde regels en het mengsel voldoet aan de bij of krachtens hoofdstuk III van het besluit ter zake van die meststoffen gestelde regels. 
 4.  In afwijking van het eerste lid is het toegestaan de in bijlage Aa, onder IV, opgenomen eindproducten van de aldaar omschreven bewerkingprocedés, die zijn gebruikt als strooisel in stallen te mengen met dierlijke mest in de mestkelder. 
 
+### Artikel  6a  
+Treedt in werking per 01-01-2015 
+
+Herwonnen fosfaten uit rioolzuiveringsslib worden behandeld langs biologische, chemische of thermische weg, door langdurige opslag of volgens enig ander geschikt procedé, dat tot gevolg heeft dat het grootste deel van de in het zuiveringsslib aanwezige pathogene organismen afsterft. 
+
 ### Artikel 7  
 
 1. Overige anorganische meststoffen die hoofdzakelijk zijn bedoeld om secundaire nutriënten te leveren, bevatten ten minste één van de volgende nutriënten, in de daarbij vermelde minimale hoeveelheid, uitgedrukt in gewichtsprocenten van de droge stof: 

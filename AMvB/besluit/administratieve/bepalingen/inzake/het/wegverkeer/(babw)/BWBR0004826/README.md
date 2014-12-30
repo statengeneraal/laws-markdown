@@ -283,6 +283,8 @@ b. deze omstandigheden de plaatsing of de maatregel niet kunnen rechtvaardigen.
 
 ####Beroep 
 
+Vervallen per 01-01-1994 
+
 ### Hoofdstuk  III  
 
 ####Vaststelling bebouwde kom

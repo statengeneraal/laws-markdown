@@ -461,6 +461,64 @@ c. 20 deelnemers indien het een opleiding betreft als bedoeld in artikel 7.3.1, 
 3.  In de overeenkomst uitkering educatie, bedoeld in artikel 2.3.4, eerste lid, van de wet kan gemotiveerd worden afgeweken van de in het tweede lid genoemde aantallen deelnemers.   
 4.  Bij ministeriële regeling kunnen nadere voorschriften worden vastgesteld voor de in het eerste lid bedoelde contacturen.  
 
+### Artikel  3.1.2  
+
+####Begripsbepalingen hoofdstuk 3 
+
+Treedt in werking per 01-01-2015 
+
+In dit hoofdstuk wordt verstaan onder: 
+
+a.  *CBS:* Centraal bureau voor de statistiek;  
+
+b.  *contactgemeente:* contactgemeente als bedoeld in artikel 2.3.1, tweede lid, van de wet;  
+
+c.  *regio educatie:* regio als bedoeld in artikel 2.3.1, tweede lid, van de wet;  
+
+d.  *uitkering educatie:* uitkering als bedoeld in artikel 2.3.2, van de wet;  
+
+e.  *volwassen inwoner:* persoon van achttien jaar of ouder die als ingezetene is ingeschreven in de basisregistratie personen.   
+
+### Paragraaf  2  
+
+####Uitkering educatie
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  3.2.1  
+
+####Berekening uitkering educatie vanaf 2018
+
+Treedt in werking per 01-01-2015 
+
+1.  De uitkering educatie die per kalenderjaar aan een college van burgemeester en wethouders van een contactgemeente van een regio educatie wordt verstrekt, is de som van de bedragen die voor elk van de tot die regio educatie behorende gemeenten wordt berekend volgens de volgende formule: ![254530](http://wetten.overheid.nl/Illustration/254530)
+waarbij wordt verstaan onder: Og: Het door het CBS op verzoek van Onze Minister berekende gemiddelde percentage inwoners van de gemeente van 15 tot en met 75 jaar met een opleiding op ten hoogste het niveau van het diploma middelbaar algemeen voortgezet onderwijs of voorbereidend beroepsonderwijs in het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, vermenigvuldigd met het door het CBS op verzoek van Onze Minister berekende aantal volwassen inwoners van de gemeente op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld; On: de som van de uitkomsten van bovenbedoeld Og voor alle Nederlandse gemeenten tezamen; Ag: Het door het CBS op verzoek van Onze Minister berekende aantal volwassen inwoners van de gemeente op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld, waarvoor geldt dat beide ouders of de volwassen inwoner zelf en één ouder geboren zijn in een van de landen in Afrika, Latijns-Amerika en Azië (exclusief Indonesië en Japan) of Turkije. An: de som van de uitkomsten van bovenbedoeld AG voor alle Nederlandse gemeenten tezamen; Bg: Het aantal WWB-uitkeringen aan personen die de AOW-leeftijd nog niet hebben bereikt op 1 januari van het jaar voorafgaande aan het jaar waarvoor de uitkering wordt vastgesteld; Bn: de som van bovenbedoeld Bg voor alle Nederlandse gemeenten tezamen; Ib: het totale bedrag dat door Onze Minister beschikbaar is gesteld voor uitkeringen educatie voor alle regio’s educatie voor het jaar waarvoor de uitkering wordt vastgesteld.   
+2.  De uitkomst van de berekening op grond van het eerste lid wordt rekenkundig afgerond op hele euro’s.   
+3.  Jaarlijks wordt in januari de voor dat kalenderjaar vastgestelde uitkering educatie betaald aan de contactgemeente.  
+
+### Artikel  3.2.2  
+
+####Aanpassing uitkering educatie bij gemeentelijke herindeling
+
+Treedt in werking per 01-01-2015 
+
+Bij een wijziging van de gemeentelijke indeling of een grenscorrectie als bedoeld in de Wet algemene regels herindeling worden de gegevens waarmee de berekeningen op grond van artikel 3.2.1 worden uitgevoerd, vastgesteld op basis van een redelijke schatting van de toestand van die gegevens zoals die zou zijn geweest als de wijziging op de datum waarop die gegevens betrekking hebben, reeds was ingegaan. 
+
+### Paragraaf  3  
+
+####Overige bepalingen
+
+Treedt in werking per 01-01-2015 
+
+### Artikel  3.3.1  
+
+####Reserveringsregeling
+
+Treedt in werking per 01-01-2015 
+
+1.  Indien in een kalenderjaar de uitkering educatie niet volledig is besteed, kan het college van burgemeester en wethouders van de contactgemeente het niet bestede bedrag tot maximaal 25% van de voor dat jaar toegekende uitkering educatie reserveren voor opleidingen educatie in het daaropvolgende kalenderjaar.   
+2.  Indien in een kalenderjaar meer dan de uitkering educatie is besteed aan opleidingen educatie, kan het college van burgemeester en wethouders van de contactgemeente het meer bestede bedrag tot maximaal 25% van de voor dat jaar toegekende uitkering educatie ten laste brengen van de uitkering educatie voor het daaropvolgende kalenderjaar.  
+
 ### Hoofdstuk  4  
 
 ####Bekostiging kenniscentra beroepsonderwijs bedrijfsleven

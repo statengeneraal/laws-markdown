@@ -93,6 +93,11 @@ l. voor verordening (EU) nr. 575/2013 (Kapitaalvereisten): de Nederlandsche Bank
 
 Als orgaan als bedoeld in artikel 11, eerste lid, van de verordening (EG) nr. 924/2009 (grensoverschrijdende betalingen) en artikel 12 van de verordening (EU) nr. 260/2012 (betaaldiensten) wordt aangewezen de Stichting Klachteninstituut Financiële Dienstverlening. 
 
+### Artikel  3a  
+Treedt in werking per 01-01-2015 
+
+Als nationale afwikkelingsautoriteit in de zin van verordening (EU) nr. 806/2014 (gemeenschappelijk afwikkelingsmechanisme), belast met de uitvoering en handhaving van de bij of krachtens die verordening gestelde regels, wordt aangewezen de Nederlandsche Bank. De artikelen 4 en 5 zijn van overeenkomstige toepassing. 
+
 ### Artikel  4  
 
 De bevoegde autoriteit kan ter zake van overtreding van voorschriften gesteld ingevolge de in de bijlage 1 genoemde artikelen een last onder dwangsom opleggen. 

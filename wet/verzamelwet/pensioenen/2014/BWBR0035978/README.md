@@ -37,9 +37,9 @@ Wijzigt de Wet op het notarisambt.
 Wijzigt de Wet aanpassing fiscale behandeling VUT/prepensioen en introductie levensloopregeling. 
 
 ### Artikel  VIa  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
-Wijzigt de Wet verlaging maximumopbouw- en premiepercentages pensioenen en maximering pensioengevend inkomen. 
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/578.Wijzigt de Wet verlaging maximumopbouw- en premiepercentages pensioenen en maximering pensioengevend inkomen. 
 
 ### Artikel  VII  
 Treedt in werking per 01-01-2015 

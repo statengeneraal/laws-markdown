@@ -10,28 +10,28 @@ Alzo Wij in overweging genomen hebben, dat het wenselijk is een vast college van
 Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:    
 
 ### Artikel  1  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 1.  Er is een Raad voor volksgezondheid en samenleving.   
 2.  De Raad bestaat uit een voorzitter en ten hoogste acht andere leden.  
 
 ### Artikel  2  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 De Raad heeft tot taak de regering en de beide kamers der Staten-Generaal te adviseren over het te voeren beleid op het gebied van volksgezondheid en samenleving waarbij alle aspecten die van invloed zijn op de volksgezondheid en het functioneren van burgers in de samenleving worden betrokken, met bijzondere aandacht voor de rol van de decentrale overheden en veranderingen in het aanbod van zorg en welzijn. 
 
 ### Artikel  3  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 De Wet op de Raad voor de volksgezondheid en zorg en de Wet op de Raad voor maatschappelijke ontwikkeling worden ingetrokken. 
 
 ### Artikel  4  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  5  
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 01-01-2015 
 
 Deze wet wordt aangehaald als: Wet op de Raad voor volksgezondheid en samenleving. 
 

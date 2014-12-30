@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volksgezondheid, Welzijn en Sport van 30 juni 2010, DWJZ-3009435, gedaan mede namens Onze Minister van Infrastructuur en Milieu;
 
-Gelet op [artikel 8, tweede lid, van de Wet gelijke behandeling op grond van handicap of chronische ziekte](../../../../../../../../wet/wet/gelijke/behandeling/op/grond/van/handicap/of/chronische/ziekte/BWBR0014915/README.md);
+Gelet op artikel 8, tweede lid, van de Wet gelijke behandeling op grond van handicap of chronische ziekte;
 
 De Raad van State gehoord (advies van 8 oktober 2010, nummer W.13. 10. 0269/I);
 
@@ -22,15 +22,15 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 a.  *Onze Minister:* Onze Minister van Volksgezondheid, Welzijn en Sport;  
 
-b.  *wet:* [Wet gelijke behandeling op grond van handicap of chronische ziekte](../../../../../../../../wet/wet/gelijke/behandeling/op/grond/van/handicap/of/chronische/ziekte/BWBR0014915/README.md);  
+b.  *wet:* Wet gelijke behandeling op grond van handicap of chronische ziekte;  
 
 c.  *beheerder:* een natuurlijke of rechtspersoon, die verantwoordelijk is voor de inrichting en het gebruik van een halte of station dat dient voor het betreden, gebruiken of verlaten van het openbaar vervoer, daaronder begrepen in een gebouw te onderscheiden ruimten;  
 
-d.  *concessiegebied:* een gebied waar openbaar vervoer wordt verricht als bedoeld in [artikel 25 van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
+d.  *concessiegebied:* een gebied waar openbaar vervoer wordt verricht als bedoeld in artikel 25 van de Wet personenvervoer 2000;  
 
-e.  *exploitant van reisinformatie:* degene die verzoekt om reisinformatie ten behoeve van het voeden en actualiseren van een reisinformatiesysteem als bedoeld in [artikel 10 van het Besluit personenvervoer 2000](../../../../../../../../AMvB/besluit/personenvervoer/2000/BWBR0011982/README.md);  
+e.  *exploitant van reisinformatie:* degene die verzoekt om reisinformatie ten behoeve van het voeden en actualiseren van een reisinformatiesysteem als bedoeld in artikel 10 van het Besluit personenvervoer 2000;  
 
-f.  *concessieverlener:* een overheid als bedoeld in [artikel 20, tweede lid, van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);  
+f.  *concessieverlener:* een overheid als bedoeld in artikel 20, tweede lid, van de Wet personenvervoer 2000;  
 
 g.  *halte:* een gebouw of bouwwerk dat dient voor het betreden, gebruiken en verlaten van openbaar vervoer, in het bijzonder voor bus of tram;  
 
@@ -42,18 +42,18 @@ j.  *perron:* onderdeel van een halte of station dat als platform dient voor het
 
 k.  *richtlijn 2001/85/EG:* Richtlijn 2001/85/EG van het Europees Parlement en de Raad van 20 november 2001 betreffende speciale voorschriften voor voertuigen bestemd voor het vervoer van passagiers, met meer dan acht zitplaatsen, die van de bestuurder niet meegerekend, en tot wijziging van richtlijn 70/156/EEG van de Raad en van richtlijn 97/27/EG (PbEG 2002, L 42/1);  
 
-l.  *voertuig:* een bus, tram, metro of trein of een langs een geleidesysteem voortbewogen voertuig als bedoeld in [artikel 1, onderdeel h, van de Wet personenvervoer 2000](../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), met uitzondering van een auto;  
+l.  *voertuig:* een bus, tram, metro of trein of een langs een geleidesysteem voortbewogen voertuig als bedoeld in artikel 1, onderdeel h, van de Wet personenvervoer 2000, met uitzondering van een auto;  
 
-m.  *vervoerder:* degene die openbaar vervoer verricht als bedoeld in [artikel 7, onderdeel a, van de wet](../../../../../../../../wet/wet/gelijke/behandeling/op/grond/van/handicap/of/chronische/ziekte/BWBR0014915/README.md).   
+m.  *vervoerder:* degene die openbaar vervoer verricht als bedoeld in artikel 7, onderdeel a, van de wet.   
 
 ### Artikel  2  
 
-1.  De aanpassingen, bedoeld in [artikel 8, tweede lid, van de wet](../../../../../../../../wet/wet/gelijke/behandeling/op/grond/van/handicap/of/chronische/ziekte/BWBR0014915/README.md) zijn gericht op het toegankelijk maken van de in [artikel 7 van de wet](../../../../../../../../wet/wet/gelijke/behandeling/op/grond/van/handicap/of/chronische/ziekte/BWBR0014915/README.md) genoemde voorzieningen van openbaar vervoer tot het niveau van onbelemmerd gebruik van openbaar vervoer dat minimaal nodig is voor personen met een functiebeperking die zich in de samenleving, al dan niet met een hulpmiddel of persoonlijke begeleiding, zelfstandig kunnen bewegen en kenbaar maken.   
+1.  De aanpassingen, bedoeld in artikel 8, tweede lid, van de wet zijn gericht op het toegankelijk maken van de in artikel 7 van de wet genoemde voorzieningen van openbaar vervoer tot het niveau van onbelemmerd gebruik van openbaar vervoer dat minimaal nodig is voor personen met een functiebeperking die zich in de samenleving, al dan niet met een hulpmiddel of persoonlijke begeleiding, zelfstandig kunnen bewegen en kenbaar maken.   
 2.  Onder aanpassingen, bedoeld in het eerste lid, wordt verstaan het geheel van maatregelen of voorzieningen met betrekking tot het betreden, gebruiken of verlaten van het openbaar vervoer en daartoe behorende haltes en stations, alsmede het organiseren van het gebruik van dat vervoer, ten behoeve van personen met een functiebeperking.  
 
 ### Artikel  3  
 
-De bij of krachtens de artikelen 4 tot en met 13, 16 en 17 voorgeschreven aanpassingen zijn de aanpassingen als bedoeld in de [artikelen 2](../../../../../../../../wet/wet/gelijke/behandeling/op/grond/van/handicap/of/chronische/ziekte/BWBR0014915/README.md) en [8 van de wet](../../../../../../../../wet/wet/gelijke/behandeling/op/grond/van/handicap/of/chronische/ziekte/BWBR0014915/README.md). 
+De bij of krachtens de artikelen 4 tot en met 13, 16 en 17 voorgeschreven aanpassingen zijn de aanpassingen als bedoeld in de artikelen 2 en 8 van de wet. 
 
 ### Hoofdstuk  2  
 
@@ -109,7 +109,7 @@ b. het perron heeft een tactiele of andere richtinggevende routegeleiding en een
 
 ### Artikel  8  
 
-1.  Reisinformatie als bedoeld in [artikel 7, onderdeel b, van de wet](../../../../../../../../wet/wet/gelijke/behandeling/op/grond/van/handicap/of/chronische/ziekte/BWBR0014915/README.md) is voorafgaand aan de reis ten minste via internet in beeld en geluid en desgevraagd op schrift en per telefoon beschikbaar en bruikbaar voor personen met een functiebeperking.   
+1.  Reisinformatie als bedoeld in artikel 7, onderdeel b, van de wet is voorafgaand aan de reis ten minste via internet in beeld en geluid en desgevraagd op schrift en per telefoon beschikbaar en bruikbaar voor personen met een functiebeperking.   
 2.  Het eerste lid is van overeenkomstige toepassing op informatie over de toegankelijkheid van openbaar vervoer voorzieningen als bedoeld in de artikelen 4 tot en met 7, 9 en 10.  
 
 ### Artikel  9  

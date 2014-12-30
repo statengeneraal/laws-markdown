@@ -181,6 +181,14 @@ c. het zich onthouden van verwijtbaar gedrag dat aangemerkt kan worden als een d
 
 d. het, tijdens het tijdvak, bedoeld in artikel 25, negende lid, van de Wet WIA, zonder deugdelijke grond nalaten verweer te voeren tegen of instemmen met een beëindiging van de dienstbetrekking, bedoeld in artikel 88, eerste lid, onderdeel d, van de Wet WIA.  
 
+### Artikel  7a  
+
+####Vijfde categorie
+
+Treedt in werking per 01-01-2015 
+
+De verplichtingen op grond van de in artikel 1, onderdelen b tot en met g en i tot en met m, genoemde wetten, worden ingedeeld in de vijfde categorie voor zover zij betrekking hebben op het zich onthouden van zeer ernstige misdragingen als bedoeld in de artikelen 26, eerste lid, onderdeel a, van de WW, 45, eerste lid, onderdeel r, van de ZW, 28, onderdeel l, van de WAO, 27, tweede lid, onderdeel f, van de Wet WIA, 46, eerste lid, onderdeel k, van de WAZ, 2:7, tweede lid, onderdeel f, en 3:38, eerste lid, onderdeel k, van de Wajong, 13, tweede lid, van de TW, 15, derde lid, van de AOW, 36, derde lid, van de Anw, 16, derde lid, van de AKW, en 15, onderdeel f, van de IOW. 
+
 ### Artikel  8  
 
 ####Recidive
