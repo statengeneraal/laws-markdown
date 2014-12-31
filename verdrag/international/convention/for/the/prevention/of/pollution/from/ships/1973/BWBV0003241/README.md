@@ -1,6 +1,6 @@
 <meta http-equiv='Content-Type' content='text/html; charset=utf-8' />
 
-##Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol van 1978
+##Internationaal Verdrag ter voorkoming van verontreiniging door schepen, 1973, zoals gewijzigd door het Protocol van 1978 daarbij
 
 #### International Convention for the Prevention of Pollution from Ships, 1973
 
@@ -865,7 +865,13 @@ Regulations 15 and 34 of this Annex shall not apply to:
 
 2. The Administration shall establish appropriate measures for ships which are not subject to the provisions of paragraph 1 of this regulation in order to ensure that the applicable provisions of this Annex are complied with.  
 
-3.1Surveys of ships as regards the enforcement of the provisions of this Annex shall be carried out by officers of the Administration. The Administration may, however, entrust the surveys either to surveyors nominated for the purpose or to organizations recognized by it. Such organizations shall comply with the guidelines adopted by the Organization by resolution A.739(18), as may be amended by the Organization, and the specifications adopted by the Organization by resolution A.789(19), as may be amended by the Organization, provided that such amendments are adopted, brought into force and take effect in accordance with the provisions of article 16 of the present Convention concerning the amendment procedures applicable to this Annex.
+3.1Surveys of ships as regards the enforcement of the provisions of this Annex shall be carried out by officers of the Administration. The Administration may, however, entrust the surveys either to surveyors nominated for the purpose or to organizations recognized by it. Such organizations, including classification societies, shall be authorized by the Administration in accordance with the provisions of the present Convention and with the Code for Recognized Organizations (RO Code), consisting of part 1 and part 2 (the provisions of which shall be treated as mandatory) and part 3 (the provisions of which shall be treated as recommendatory), as adopted by the Organization by resolution [MEPC.237(65)], as may be amended by the Organization, provided that: 
+
+.1 amendments to part 1 and part 2 of the RO Code are adopted, brought into force and take effect in accordance with the provisions of article 16 of the present Convention concerning the amendment procedures applicable to this annex;  
+
+.2 amendments to part 3 of the RO Code are adopted by the Marine Environment Protection Committee in accordance with its Rules of Procedure; and  
+
+.3 any amendments referred to in .1 and .2 adopted by the Maritime Safety Committee and the Marine Environment Protection Committee are identical and come into force or take effect at the same time, as appropriate.  
 
 3.2An Administration nominating surveyors or recognizing organizations to conduct surveys as set forth in paragraph 3.1 of this regulation shall, as a minimum, empower any nominated surveyor or recognized organization to: 
 
@@ -3097,7 +3103,13 @@ Notwithstanding the provisions of regulations 8, 9, and 10 of this Annex, chemic
 
 2.1Surveys of ships, as regards the enforcement of the provisions of this Annex, shall be carried out by officers of the Administration. The Administration may, however, entrust the surveys either to surveyors nominated for the purpose or to organizations recognized by it.
 
-2.2The recognized organization, referred to in paragraph 2.1 of this paragraph shall comply with the Guidelines adopted by the Organization by resolution A.739(18), as may be amended by the Organization, and the specification adopted by the Organization by resolution A.789(19), as may be amended by the Organization, provided that such amendments are adopted, brought into force and take effect in accordance with the provisions of article 16 of the present Convention concerning the amendment procedures applicable to this Annex.
+2.2Such organizations, including classification societies, shall be authorized by the Administration in accordance with the provisions of the present Convention and with the Code for Recognized Organizations (RO Code), consisting of part 1 and part 2 (the provisions of which shall be treated as mandatory) and part 3 (the provisions of which shall be treated as recommendatory), as adopted by the Organization by resolution [MEPC.237(65)], as may be amended by the Organization, provided that: 
+
+.1 amendments to part 1 and part 2 of the RO Code are adopted, brought into force and take effect in accordance with the provisions of article 16 of the present Convention concerning the amendment procedures applicable to this annex;  
+
+.2 amendments to part 3 of the RO Code are adopted by the Marine Environment Protection Committee in accordance with its Rules of Procedure; and  
+
+.3 any amendments referred to in .1 and .2 adopted by the Maritime Safety Committee and the Marine Environment Protection Committee are identical and come into force or take effect at the same time, as appropriate.  
 
 2.3An Administration nominating surveyors or recognizing organizations to conduct surveys as set forth in paragraph 2.1 of this regulation shall, as a minimum, empower any nominated surveyor or recognized organization to: 
 
@@ -7465,7 +7477,13 @@ De voorschriften 15 en 34 van deze Bijlage zijn niet van toepassing op:
 
 2. De Administratie stelt passende maatregelen vast voor schepen die niet vallen onder de bepalingen van lid 1 van dit voorschrift teneinde te verzekeren dat aan de van toepassing zijnde bepalingen van deze Bijlage wordt voldaan. 
 
-3.1Onderzoeken van schepen aangaande de handhaving van de bepalingen van deze Bijlage, worden uitgevoerd door ambtenaren van de Administratie. De Administratie kan de onderzoeken evenwel toevertrouwen aan hetzij daartoe benoemde inspecteurs, hetzij door haar erkende organisaties. Deze organisaties dienen te voldoen aan de richtlijnen die de Organisatie heeft aangenomen bij resolutie A.739(18), eventueel als gewijzigd door de Organisatie, en de door de Organisatie bij resolutie A.789(19) aangenomen specificaties, eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde in artikel 16 van dit Verdrag betreffende de procedure voor wijziging die van toepassing is op deze Bijlage.
+3.1Onderzoeken van schepen aangaande de handhaving van de bepalingen van deze Bijlage, worden uitgevoerd door ambtenaren van de Administratie. De Administratie kan de onderzoeken evenwel toevertrouwen aan hetzij daartoe benoemde inspecteurs, hetzij door haar erkende organisaties. Deze organisaties, met inbegrip van classificatiebureaus, worden door de Administratie gemachtigd in overeenstemming met de bepalingen van dit Verdrag en met de Code voor Erkende Organisaties (RO-Code), die bestaat uit een deel 1 en deel 2 (waarvan de bepalingen als verplicht worden aangemerkt) en een deel 3 (waarvan de bepalingen als aanbeveling worden aangemerkt), zoals aangenomen door de Organisatie bij resolutie [MEPC.237(65)], eventueel als gewijzigd door de Organisatie, mits:
+
+.1 wijzigingen van deel 1 en deel 2 van de RO-Code worden aangenomen, in werking worden gesteld en van kracht worden in overeenstemming met de bepalingen van artikel 16 van dit Verdrag inzake de wijzigingsprocedures die van toepassing zijn op deze Bijlage;  
+
+.2 wijzigingen van deel 3 van de RO-Code worden aangenomen door de Commissie voor de Bescherming van het Mariene Milieu in overeenstemming met haar reglement van orde; en  
+
+.3 de in .1 en .2 bedoelde eventuele wijzigingen die worden aangenomen door de Maritieme Veiligheidscommissie en de Commissie voor de Bescherming van het Mariene Milieu identiek zijn en tegelijkertijd in werking treden of van kracht worden, al naargelang van toepassing.  
 
 3.2Een Administratie die inspecteurs aanwijst of organisaties erkent voor het uitvoeren van onderzoeken als omschreven in lid 3.1 van dit voorschrift, dient iedere benoemde inspecteur of erkende organisatie ten minste te machtigen om: 
 
@@ -9979,7 +9997,13 @@ Chemicaliëntankschepen die zijn onderzocht en waaraan een certificaat is afgege
 
 2.1Onderzoeken van schepen, aangaande de handhaving van de bepalingen van deze Bijlage, worden uitgevoerd door ambtenaren van de Administratie. De Administratie kan de onderzoeken evenwel toevertrouwen aan hetzij daartoe benoemde inspecteurs, hetzij door haar erkende organisaties.
 
-2.2De in lid 2, punt 1, bedoelde erkende organisatie moet de richtsnoeren naleven die de Organisatie heeft aangenomen bij resolutie A.739(18) eventueel als gewijzigd door de Organisatie, en de door de Organisatie bij resolutie A.789(19) aangenomen specificaties, eventueel als gewijzigd door de Organisatie, op voorwaarde dat deze wijzigingen worden aangenomen, in werking worden gesteld en van kracht worden overeenkomstig het bepaalde in artikel 16 van dit Verdrag betreffende de procedure voor wijziging die van toepassing is op deze Bijlage. 
+2.2Deze organisaties, met inbegrip van classificatiebureaus, worden door de Administratie gemachtigd in overeenstemming met de bepalingen van dit Verdrag en met de Code voor Erkende Organisaties (RO-Code), die bestaat uit een deel 1 en deel 2 (waarvan de bepalingen als verplicht worden aangemerkt) en een deel 3 (waarvan de bepalingen als aanbeveling worden aangemerkt), zoals aangenomen door de Organisatie bij resolutie [MEPC.237(65)], eventueel als gewijzigd door de Organisatie, mits:
+
+.1 wijzigingen van deel 1 en deel 2 van de RO-Code worden aangenomen, in werking worden gesteld en van kracht worden in overeenstemming met de bepalingen van artikel 16 van dit Verdrag inzake de wijzigingsprocedures die van toepassing zijn op deze Bijlage;  
+
+.2 wijzigingen van deel 3 van de RO-Code worden aangenomen door de Commissie voor de Bescherming van het Mariene Milieu in overeenstemming met haar reglement van orde; en  
+
+.3 de in .1 en .2 bedoelde eventuele wijzigingen die worden aangenomen door de Maritieme Veiligheidscommissie en de Commissie voor de Bescherming van het Mariene Milieu identiek zijn en tegelijkertijd in werking treden of van kracht worden, al naargelang van toepassing.  
 
 2.3Een Administratie die inspecteurs benoemt of organisaties erkent voor het verrichten van onderzoeken als omschreven in lid 2.1 van dit voorschrift, verleent deze inspecteurs of organisaties ten minste de bevoegdheid: 
 

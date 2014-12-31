@@ -45,7 +45,7 @@ h.  landelijke voorziening WOZ: een geautomatiseerde voorziening die gehouden wo
 
 1.  De kosten van de Waarderingskamer komen ten laste van de afnemers. Het Rijk betaalt 25 percent, de gemeenten 50 percent en de waterschappen 25 percent.   
 2.   De kosten van de waardering komen ten laste van de afnemers.    
-3.  De waterschappen betalen aan het Rijk jaarlijks een vergoeding van € 23 659 134 Per 1-1-2014: € 2.4990.398.voor het aandeel van de waterschappen in de kosten van de waardering. Dit bedrag wordt bij het begin van het kalenderjaar bij regeling van Onze Minister aangepast vanwege een verwachte prijsmutatie en een volumeopslag. De verwachte prijsmutatie is daarbij het percentage zoals dat door het Centraal planbureau in het Centraal Economisch Plan is gepubliceerd als «prijsmutatie netto materiële overheidsconsumptie» voor het kalenderjaar. De volumeopslag wordt gesteld op 0,9 procent.   
+3.  De waterschappen betalen aan het Rijk jaarlijks een vergoeding van € 23 659 134 Per 1-1-2015: € 25.590.168.voor het aandeel van de waterschappen in de kosten van de waardering. Dit bedrag wordt bij het begin van het kalenderjaar bij regeling van Onze Minister aangepast vanwege een verwachte prijsmutatie en een volumeopslag. De verwachte prijsmutatie is daarbij het percentage zoals dat door het Centraal planbureau in het Centraal Economisch Plan is gepubliceerd als «prijsmutatie netto materiële overheidsconsumptie» voor het kalenderjaar. De volumeopslag wordt gesteld op 0,9 procent.   
 4.  Ingeval het in het derde lid genoemde bedrag hoger is dan € 21 810 013, wordt het verschil toegevoegd aan de algemene middelen van het Rijk.   
 5.  Bij regeling van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties worden regels gesteld omtrent de verdeling over de individuele waterschappen van hetgeen de waterschappen samen aan het Rijk vergoeden voor het aandeel van de waterschappen in de kosten van de waardering, alsmede omtrent het tijdstip van de betaling aan het Rijk. Daarbij wordt de in het derde lid bedoelde vergoeding van de waterschappen gedeeld door het totale aantal objecten in alle waterschappen samen en over de individuele waterschappen verdeeld naar rato van het aantal objecten in die individuele waterschappen. Jaarlijks doet de Unie van Waterschappen aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties een opgave van het aantal objecten per individueel waterschap. Daarbij kan de Unie van Waterschappen uitgaan van het aantal objecten in een voorgaand jaar, gecorrigeerd met een volumeopslag. 
 
@@ -143,11 +143,12 @@ f. de huurcommissie ten behoeve van het vaststellen van het aantal schaarstepunt
 
 ### Artikel  11  
 
-Als derden als bedoeld in artikel 40a van de wet, waaraan het waardegegeven van een onroerende zaak die in hoofdzaak tot woning dient, kan worden verstrekt, worden aangewezen: 
+1. Als derden als bedoeld in artikel 40a van de wet, waaraan het waardegegeven van een onroerende zaak die in hoofdzaak tot woning dient, kan worden verstrekt, worden aangewezen:
 
 a. verzekeraars die ingevolge artikel 1:1 van de Wet op het financieel toezicht in Nederland mogen optreden als verzekeraar;  
 
-b. aanbieders van hypothecair krediet die ingevolge hoofdstuk 2.2 van de Wet op het financieel toezicht in Nederland hypothecair krediet mogen aanbieden of die een verklaring van ondertoezichtstelling als bedoeld in artikel 3:110 van die wet hebben en hebben voldaan aan artikel 3:110, vierde of vijfde lid, van die wet,   indien deze om het waardegegeven verzoeken ten behoeve van het vergelijken met de veronderstelde waarde van een aan een financieringsaanvraag ten grondslag liggend waardeobject. 
+b. aanbieders van hypothecair krediet die ingevolge hoofdstuk 2.2 van de Wet op het financieel toezicht in Nederland hypothecair krediet mogen aanbieden of die een verklaring van ondertoezichtstelling als bedoeld in artikel 3:110 van die wet hebben en hebben voldaan aan artikel 3:110, vierde of vijfde lid, van die wet,  indien deze om het waardegegeven verzoeken ten behoeve van het vergelijken met de veronderstelde waarde van een aan een financieringsaanvraag ten grondslag liggend waardeobject.  
+2.  Als derden als bedoeld in artikel 40a van de wet, waaraan het waardegegeven van een onroerende zaak die in hoofdzaak tot woning dient, kan worden verstrekt, worden mede aangewezen de door de Stichting Taxaties en Validaties gecertificeerde validatie-instituten, indien deze om het waardegegeven verzoeken ten behoeve van de validatie van een woningtaxatierapport van een aangesloten taxateur in het kader van een financieringsaanvraag. 
 
 ###Hoofdstuk 5 
 

@@ -20,8 +20,7 @@ Hebben goedgevonden en verstaan:
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder:  
 
 | --- | --- |
-|---|---|
-| richtlijn 77/504/EEG:  | richtlijn nr. 77/504/EEG van de Raad van de Europese Gemeenschappen van 25 juli 1977 betreffende raszuivere fokrunderen (PbEG L 206); |
+|:---|:---|
 | richtlijn 87/328/EEG:   |richtlijn nr. 87/328/EEG van de Raad van de EuropeseGemeenschappen van 18 juni 1987 betreffende de toelating van raszuivere fokrunderen tot de voortplanting (PbEG L 167); |
 | richtlijn 88/661/EEG:   |richtlijn nr. 88/661/EEG van de Raad van de Europese Gemeenschappen van 19 december 1988 betreffende de zoötechnische normen die gelden voor fokvarkens (PbEG L 382); |
 | richtlijn 89/361/EEG:   |richtlijn nr. 89/361/EEG van de Raad van de Europese Gemeenschappen van 30 mei 1989 betreffende raszuivere fokschapen en -geiten (PbEG L 153); |
@@ -30,16 +29,21 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 | richtlijn 90/427/EEG:   |richtlijn 90/427/EEG van de Raad van de Europese Gemeenschappen van 26 juni 1990 tot vaststelling van zoötechnische en genealogische voorschriften voor het intracommunautaire handelsverkeer in paardachtigen (PbEG L 224); |
 | richtlijn 91/174/EEG:   |richtlijn nr. 91/174/EEG van de Raad van de Europese Gemeenschappen van 25 maart 1991 inzake zoötechnische en genealogische voorschriften voor de handel in rasdieren en tot wijziging van de richtlijnen 77/504/EEG en 90/425/EEG (PbEG L 85); |
 | richtlijn 94/28/EG:   |richtlijn nr. 94/28/EG van de Raad van de Europese Unie van 23 juni 1994 tot vaststelling van de beginselen inzake de zoötechnische en genealogische voorschriften voor de invoer uit derde landen van dieren, alsmede van sperma, eicellen en embryo's en tot wijziging van Richtlijn 77/504/EEG betreffende raszuivere fokrunderen (PbEG L 178); |
+| richtlijn 2009/157/EG: |richtlijn 2009/157/EG van de Raad van 30 november 2009 betreffende raszuivere fokrunderen (PbEU 2009, L 323); |
+| verordening (EG) nr. 999/2001:  |verordening (EG) nr. 999/2001 van het Europees Parlement en de Raad van de Europese Unie van 22 mei 2001 houdende vaststelling van voorschriften inzake preventie, bestrijding en uitroeiing van bepaalde overdraagbare spongiforme encefalopathieën (PbEG 2001, L 147); |
+| beschikking 89/507/EEG: |beschikking 89/507/EEG van de Commissie van 18 juli 1989 tot vaststelling van methoden inzake prestatieonderzoek en bepaling van de fokwaarde van raszuivere en hybride fokvarkens (PbEG 1989, L 247); |
+| beschikking 90/256/EEG: |beschikking 90/256/EEG van de Commissie van 10 mei 1990 houdende vaststelling van methoden inzake prestatieonderzoek en beoordeling van de genetische waarde van raszuivere fokschapen en -geiten (PbEG 1990, L 145); |
+| beschikking 2006/427/EG:  |beschikking 2006/427/EG van de Commissie van 20 juni 2006 houdende vaststelling van methoden inzake prestatieonderzoek en van methoden voor de beoordeling van de genetische waarde van raszuivere fokrunderen (PbEU 2006, L 169); |
 | paardachtigen:   |als huisdier gehouden paarden, ezels of kruisingen daarvan; |
 | derde land:   |land dat geen Lid-Staat van de Europese Unie is; |
-| raszuiver:   |ingeschreven in: - een stamboek als bedoeld inartikel 1 van richtlijn 77/504/EEG, artikel 1  van richtlijn 88/661/EEG, artikel 2 van richtlijn 89/361/EEG of artikel 2 van richtlijn 90/427/EEG; - een stamboek of register als bedoeld in artikel 1  van richtlijn 91/174/EEG, of - een stamboek of register als bedoeld in artikel 4 , eerste gedachtenstreepje, van richtlijn 94/28/EG, dan wel, zolang de lijst, bedoeld in artikel 3, eerste lid , van richtlijn 94/28/EG nog niet is vastgesteld, in een stamboek of register in een derde land; |
+| raszuiver:   |ingeschreven in: - een stamboek als bedoeld in artikel 1 van richtlijn 2009/157/EG, artikel 1  van richtlijn 88/661/EEG, artikel 2 van richtlijn 89/361/EEG of artikel 2 van richtlijn 90/427/EEG; - een stamboek of register als bedoeld in artikel 1  van richtlijn 91/174/EEG, of - een stamboek of register als bedoeld in artikel 4 , eerste gedachtenstreepje, van richtlijn 94/28/EG, dan wel, zolang de lijst, bedoeld in artikel 3, eerste lid , van richtlijn 94/28/EG nog niet is vastgesteld, in een stamboek of register in een derde land; |
 | hybride:   |ingeschreven in: - een register als bedoeld in ratikel 1 van richtlijn 88/661/EEG. |
 
 ### Artikel  2  
 
-1.  Met betrekking tot runderen, buffels, varkens, schapen, geiten en paardachtigen geschieden de inschrijving van dieren in een stamboek of register, de inrichting van certificaten die worden afgegeven voor aldus ingeschreven dieren en hun sperma, eicellen en embryo’s, het prestatie-onderzoek en de beoordeling van de genetische waarden van de dieren in overeenstemming met de regelen die daaromtrent krachtens de artikelen 7, eerste lid, en 11, derde lid, zijn gesteld en  
+1.  Met betrekking tot runderen, buffels, varkens, schapen, geiten en paardachtigen geschieden de inschrijving van dieren in een stamboek of register, de inrichting van certificaten die worden afgegeven voor aldus ingeschreven dieren en hun sperma, eicellen en embryo’s, het prestatie-onderzoek en de beoordeling van de genetische waarden van de dieren in overeenstemming met de regelen die daaromtrent krachtens artikel 7, eerste lid, zijn gesteld en  
 
-a. voor runderen en buffels: bij artikel 4 van richtlijn 77/504/EEG en bij regelgeving van de Europese Gemeenschap op grond van artikel 6 van die richtlijn zijn gesteld;  
+a. voor runderen en buffels: bij artikel 3 van richtlijn 2009/157/EG en bij regelgeving van de Europese Gemeenschap op grond van artikel 6 van die richtlijn zijn gesteld;  
 
 b. voor varkens: bij artikel 4 van richtlijn 88/661/EEG en bij regelgeving van de Europese Gemeenschap op grond van de artikelen 6 en 10 van die richtlijn zijn gesteld;  
 
@@ -50,20 +54,21 @@ d. voor paardachtigen: bij artikel 6 van de richtlijn 90/427/EEG en bij regelgev
 
 ### Artikel  3  
 
-1.  Een organisatie kan na een daartoe strekkend verzoek worden erkend als een instelling, die één of meer stamboeken of registers voor runderen, buffels, varkens, schapen, geiten en paardachtigen bijhoudt, indien voldaan wordt aan de voorwaarden die daaromtrent krachtens de artikelen 7, eerste lid, en 11, tweede lid, zijn gesteld en  
+1.  Onze Minister erkent op aanvraag een organisatie als bedoeld in artikel 1, onderdeel b, onder i, van richtlijn 2009/157/EG, artikel 1, onderdeel c, eerste streepje, en onderdeel d, eerste streepje, van richtlijn 88/661/EEG, artikel 2, onderdeel b, eerste streepje, van richtlijn 89/361/EEG of artikel 2, onderdeel c, eerste streepje, van richtlijn 90/427/EEG, indien is voldaan aan de voorwaarden die: 
 
-a. voor runderen en buffels: bij regelgeving van de Europese Gemeenschap op grond van artikel 6 van de richtlijn 77/504/EEG zijn gesteld;  
+a. voor runderen en buffels: bij regelgeving van de Europese Gemeenschap op grond van artikel 6 van richtlijn 2009/157/EG zijn gesteld;  
 
 b. voor varkens: bij regelgeving van de Europese Gemeenschap op grond van de artikelen 6 en 10 van richtlijn 88/661/EEG zijn gesteld;  
 
 c. voor schapen en geiten: bij regelgeving van de Europese Gemeenschap op grond van artikel 4 van richtlijn 89/361/EEG zijn gesteld;  
 
 d. voor paardachtigen: bij regelgeving van de Europese Gemeenschap op grond van artikel 4 van richtlijn 90/427/EEG zijn gesteld.     
-2.   Een erkenning als bedoeld in het eerste lid wordt niet verleend indien niet gewaarborgd is dat de betrokken organisatie artikel 2, eerste lid, in acht neemt.   
-3.   Onze Minister doet mededeling in de *Staatscourant* van de in het eerste lid bedoelde regelgeving van de Europese Gemeenschap, waarbij tevens de datum van inwerkingtreding van deze regelgeving wordt vermeld.  
+2.  Onze Minister erkent op aanvraag een organisatie voor het reglementeren van prestatieonderzoek als bedoeld in beschikking 2006/427/EG, beschikking 90/256/EEG of beschikking 89/507/EEG.   
+3.  Onze Minister erkent op aanvraag een organisatie voor het reglementeren van fokwaardeschattingen en de publicatie van de geschatte waarden als bedoeld in beschikking 2006/427/EG, beschikking 90/256/EEG of beschikking 89/507/EEG.   
+4.  Een erkenning als bedoeld in het tweede en derde lid wordt verleend, indien is voldaan aan de daaraan krachtens artikel 7, eerste lid, gestelde voorwaarden.  
+5.   Onze Minister doet mededeling in de *Staatscourant* van de in het eerste lid bedoelde regelgeving van de Europese Gemeenschap, waarbij tevens de datum van inwerkingtreding van deze regelgeving wordt vermeld.  
 
 ### Artikel  3a  
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een erkenning als bedoeld in artikel 3, eerste, tweede en derde lid, wordt niet verleend indien niet gewaarborgd is dat de betrokken organisatie artikel 2, eerste lid, en artikel 6, eerste lid, in acht neemt.   
 2.  Onze Minister trekt een erkenning in indien: 
@@ -74,11 +79,13 @@ b. een organisatie de in artikel 2, eerste lid of artikel 6, eerste lid, bedoeld
 
 ### Artikel  4  
 
-Een ingevolge artikel 3, eerste lid, erkende organisatie maakt een inschrijving, die niet voldoet aan hetgeen daaromtrent ingevolge artikel 2, eerste lid, of artikel 6, eerste lid, is bepaald, ongedaan. 
+1.  Een ingevolge artikel 3, eerste, tweede of derde lid erkende organisatie rapporteert jaarlijks voor 1 juni aan Onze Minister over de activiteiten waarvoor de erkenning is verleend.   
+2.  De rapportage, bedoeld in het eerste lid, wordt opgesteld met gebruikmaking van een door Onze Minister vastgesteld formulier.   
+3.  Een organisatie als bedoeld in het eerste lid meldt omstandigheden die ertoe leiden dat niet langer is voldaan aan de betreffende erkenningsvoorwaarden of dat onvoldoende gewaarborgd is dat de in artikel 2, eerste lid, of artikel 6, eerste lid, bedoelde voorschriften worden nageleefd, zo spoedig mogelijk aan Onze Minister.  
 
 ### Artikel  5  
 
-Onze Minister trekt een ingevolge artikel 3, eerste lid, verleende erkenning in, indien hij van oordeel is dat niet meer wordt voldaan aan de in die bepaling bedoelde voorwaarden voor die erkenning of dat onvoldoende gewaarborgd is dat de betrokken organisatie de in artikel 2, eerste lid, en artikel 6, eerste lid, bedoelde voorschriften naleeft. 
+Een ingevolge artikel 3, eerste lid, erkende organisatie haalt een inschrijving door die niet voldoet aan de regels die bij of krachtens artikel 2, eerste lid, of artikel 6, eerste lid, zijn vastgesteld. 
 
 ### Artikel  6  
 
@@ -95,7 +102,7 @@ d. voor paardachtigen: bij regelgeving van de Europese Gemeenschap op grond van 
 
 ### Artikel  7  
 
-1.  Ter uitvoering van de in de artikelen 2 en 6 genoemde richtlijnen kunnen bij ministeriële regeling nadere regelen worden gesteld.   
+1.  Ter uitvoering van de in de artikelen 2 en 6 genoemde richtlijnen en de krachtens die richtlijnen vastgestelde EU-besluiten kunnen bij ministeriële regeling nadere regelen worden gesteld.   
 2.   In verband met de uitvoering van richtlijn 91/174/EEG kunnen bij ministeriële regeling met betrekking tot andere dan de in artikel 2, eerste lid, genoemde diersoorten regelen worden gesteld inzake de erkenning van fokkersorganisaties, de inschrijving of registratie in registers of stamboeken, de toelating van rasdieren tot de fokkerij, het gebruik van sperma, eicellen en embryo’s van rasdieren en de handel in rasdieren en hun sperma, eicellen en embryo’s, met inbegrip van het daarbij vereiste certificaat.   
 3.   De in het eerste en het tweede lid bedoelde regelen kunnen mede betrekking hebben op de procedure inzake de erkenning, de intrekking van een erkenning en de doorhaling van een inschrijving in een stamboek of register.  
 
@@ -123,21 +130,11 @@ c. voor zover het raszuivere dieren of hybride varkens betreft, dan wel hun sper
 
 Bij ministeriële regeling kunnen nadere regelen worden gesteld ter uitvoering van het bij en krachtens de artikelen 8 en 9 bepaalde. 
 
-###Artikel 11 
+### Artikel  11  
 
-1. Ter uitvoering van de artikelen 2, 3 en 5 en van het bepaalde krachtens artikel 7, tweede lid, van dit besluit wordt medewerking gevorderd van het bestuur van het Productschap Vee en Vlees.
-2.  De gevorderde medewerking bestaat uit het verrichten van werkzaamheden en het bij verordening stellen van nadere regelen, die noodzakelijk zijn voor: 
-
-a.het verlenen van de erkenning als een instelling die één of meer stamboeken of registers voor runderen, buffels, varkens, schapen, geiten of paardachtigen bijhoudt, op grond van artikel 3;
-
-b.het verlenen van de erkenning als fokkersorganisatie, bedoeld in artikel 7, tweede lid;
-
-c.de intrekking van de in de onderdelen a en b bedoelde erkenning op grond van artikel 5, onderscheidenlijk het bepaalde krachtens artikel 7, tweede lid.
-3. Onverminderd het tweede lid bestaat de gevorderde medewerking uit:
-
-a.het verlenen van de erkenningen, bedoeld in het tweede lid, onderdelen a en b, en het intrekken van de erkenningen, bedoeld in het tweede lid, onderdeel c;
-
-b.het verrichten van werkzaamheden en het bij verordening stellen van nadere regels ter uitvoering van artikel 2, voor zover dit betrekking heeft op het prestatie-onderzoek en de beoordeling van genetische waarden bij dieren.
+1.  Erkenningen die zijn verleend op grond van artikel 3, eerste lid, onderdeel a, van de Verordening erkenningsvoorwaarden voor stamboeken, prestatieonderzoek en fokwaardeschatting (PVV) 2010 worden beschouwd als erkenningen als bedoeld in artikel 3, eerste lid.   
+2.  Erkenningen die zijn verleend op grond van artikel 3, eerste lid, onderdeel b, van de Verordening erkenningsvoorwaarden voor stamboeken, prestatieonderzoek en fokwaardeschatting (PVV) 2010 worden beschouwd als erkenningen als bedoeld in artikel 3, tweede lid.   
+3.  Erkenningen die zijn verleend op grond van artikel 3, eerste lid, onderdeel c, van de Verordening erkenningsvoorwaarden voor stamboeken, prestatieonderzoek en fokwaardeschatting (PVV) 2010 worden beschouwd als erkenningen als bedoeld in artikel 3, derde lid.  
 
 ### Artikel  12  
 
@@ -146,7 +143,6 @@ b.het verrichten van werkzaamheden en het bij verordening stellen van nadere reg
 3.   Onze Minister doet van een wijzigingsrichtlijn of van wijzigingsregelgeving als bedoeld in de voorgaande leden, mededeling in de *Staatscourant*, waarbij tevens de datum van inwerkingtreding van deze regelgeving wordt vermeld.  
 
 ### Artikel  12a  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Bij ministeriële regeling kunnen ter uitvoering van artikel 6bis van verordening (EG) nr. 999/2001 regels worden gesteld over het fokken van schapen op resistentie tegen overdraagbare spongiforme encefalopathieën. 
 

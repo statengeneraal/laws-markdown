@@ -18,12 +18,14 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1.1  
 
-1.  Dit besluit geeft uitvoering aan de artikelen 8.39, 8.69, 8.89, 8.95, 8.109 en 8.115a van de Belastingwet BES, artikel 3, vierde lid, van de Wet loonbelasting BES en artikel 14 van de Wet geldstelsel BES.   
+1.  Dit besluit geeft uitvoering aan de artikelen 8.39, 8.69, 8.89, 8.95, 8.109, 8.115a en 8.129 van de Belastingwet BES, artikel 3, vierde lid, van de Wet loonbelasting BES en artikel 14 van de Wet geldstelsel BES.   
 2.  Dit besluit verstaat onder: 
 
 a. *wet:* Belastingwet BES;  
 
-b. *CBS versie 2 mei 1998:* door het Centraal Bureau voor de Statistiek gehanteerde bedrijfstakclassificatie, versie 2 mei 1998, op basis van de International Standard Industrial Classification of all Economic Activities.    
+b. *CBS versie 2 mei 1998:* door het Centraal Bureau voor de Statistiek gehanteerde bedrijfstakclassificatie, versie 2 mei 1998, op basis van de International Standard Industrial Classification of all Economic Activities;  
+
+c.  *FATCA-verdrag:* het op 18 december 2013 te ’s-Gravenhage tot stand gekomen Verdrag tussen het Koninkrijk der Nederlanden en de Verenigde Staten van Amerika tot verbetering van de internationale naleving van de belastingplicht en tenuitvoerlegging van de FATCA (Trb. 2014, 22).   
 
 ### Hoofdstuk  2  
 
@@ -37,38 +39,38 @@ Ter zake van het verrichten van werkzaamheden voor de invordering van bedragen d
 
 Verschuldigd is: 
 
-a. voor het betekenen van een dwangschrift met bevel tot betaling: 1% van de gevorderde som, afgerond op gehele dollars naar beneden, met een minimum van USD 12 en een maximum van USD 2 800;  
+a. voor het betekenen van een dwangschrift met bevel tot betaling: USD 40, verhoogd met USD 3 voor elk geheel bedrag van USD 50 waarmee de gevorderde som USD 50 te boven gaat, met een maximum van USD 9333;  
 
-b. voor het ingevolge een wettelijk voorschrift doen van een ander exploot: USD 12;  
+b. voor het ingevolge een wettelijk voorschrift doen van een ander exploot: USD 40;  
 
-c. voor het geven van kwitantie door de met de tenuitvoerlegging van een dwangschrift belaste deurwaarder ter zake van een aan deze gedane betaling ter afwering van een beslaglegging op roerende zaken: USD 6;  
+c. voor het geven van kwitantie door de met de tenuitvoerlegging van een dwangschrift belaste deurwaarder ter zake van een aan deze gedane betaling ter afwering van een beslaglegging op roerende zaken: USD 20;  
 
-d. voor het ingevolge wettelijk voorschrift voor «gezien» doen tekenen van een exploot of een ander stuk: USD 3;  
+d. voor het ingevolge een wettelijk voorschrift voor »gezien» doen tekenen van een exploot of een ander stuk: USD 4;  
 
-e. voor het aanplakken van een exploot: USD 3;  
+e. voor het aanplakken van een exploot: USD 4;  
 
-f. voor het doen aankondigen van een gedaan exploot in een dagblad: USD 3;  
+f. voor het doen aankondigen van een gedaan exploot in een dagblad: USD 4;  
 
-g. voor het verzenden van een aanmaning tot betaling: USD 1.  
+g. voor het verzenden van een aanmaning tot betaling: USD 8.   
 
 ### Artikel  2.3  
 
 1.  Verschuldigd is: 
 
-a. voor het in beslag nemen van een goed en het deswege opmaken van een proces-verbaal: USD 20;  
+a. voor het in beslag nemen van een goed en het deswege opmaken van een proces-verbaal: USD 40;  
 
-b. voor de verkoop van een goed en het deswege opmaken van een proces-verbaal: USD 28;  
+b. voor de verkoop van een goed en het deswege opmaken van een proces-verbaal: USD 50;  
 
-c. voor het bekendmaken van de verkoop door het aanslaan van de verkoopbiljetten, al dan niet gevolgd door het doen van aankondiging van de verkoop in een dagblad: USD 12;  
+c. voor het bekendmaken van de verkoop door het aanslaan van de verkoopbiljetten, al dan niet gevolgd door het doen van aankondiging van de verkoop in een dagblad: USD 24;  
 
-d. voor het ingevolge wettelijk voorschrift opmaken van een ander proces-verbaal: USD 12;  
+d. voor het ingevolge een wettelijk voorschrift opmaken van een ander proces-verbaal: USD 24;  
 
-e. voor iedere getuige: USD 8,50 per uur of voor zover de duur niet in volle uren kan worden gerekend, per gedeelte daarvan.     
+e. voor iedere getuige: USD 12 per uur of voor zover de duur niet in volle uren kan worden gerekend, per gedeelte daarvan.     
 2.  Indien de verrichtingen, bedoeld in de onderdelen a en b, ter plaatse langer dan twee uren duren, worden de genoemde bedragen verhoogd met USD 12 voor elk volgend uur of gedeelte daarvan.  
 
 ### Artikel  2.4  
 
-1.  Voor de bewaring van in beslag genomen zaken is voor elke dag of gedeelte daarvan verschuldigd: USD 8,50.   
+1.  Voor de bewaring van in beslag genomen zaken is voor elke dag of gedeelte daarvan verschuldigd: het bedrag van de werkelijke kosten.   
 2.  Het op grond van het eerste lid verschuldigde bedrag komt toe aan de bewaarder.   
 3.  Aan de bewaarder komt geen vergoeding toe indien hij bij de bewaring van de zaken ook overigens belang heeft of in enige andere betrekking met de bewaring is belast.  
 
@@ -191,10 +193,7 @@ Op het tijdstip van transitie, bedoeld in artikel 13a, onderdeel a, van de Wet g
 
 ####Gegevensuitwisseling
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7b.1  
-Treedt in werking per 01-01-2015 
 
 1.  Als administratieplichtigen als bedoeld in artikel 8.129, vierde lid, van de wet worden voor de verstrekking van de gegevens en inlichtingen, bedoeld in het tweede lid, aangewezen: Nederlandse financiële instellingen als bedoeld in artikel 1, eerste lid, onderdeel l, van het FATCA-verdrag, met uitzondering van de niet-rapporterende Nederlandse financiële instellingen, bedoeld in artikel 1, eerste lid, onderdeel q, van het FATCA-verdrag.   
 2.  Als gegevens en inlichtingen als bedoeld in artikel 8.129, vierde lid, van de wet worden aangewezen: de gegevens en inlichtingen, bedoeld in artikel 2, tweede lid, onderdeel a, onder (1) tot en met (7), van het FATCA-verdrag, ter zake van Amerikaanse te rapporteren rekeningen als bedoeld in artikel 1, eerste lid, onderdeel cc, van het FATCA-verdrag, te bepalen met inachtneming van artikel 3, eerste, tweede en vierde lid, van het FATCA-verdrag en de bepalingen in de bijlagen I en II van het FATCA-verdrag.   
@@ -221,7 +220,6 @@ c. indien Onze Minister jaarlijkse aanlevering na afloop van het kalenderjaar wa
 9.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.  
 
 ### Artikel  7b.2  
-Treedt in werking per 01-01-2015 
 
 1.  Als gegevens en inlichtingen als bedoeld in artikel 8.129, vierde lid, van de wet worden voor administratieplichtigen als bedoeld in artikel 7b.1, eerste lid, mede aangewezen: de naam van elke niet-participerende financiële instelling als bedoeld in artikel 1, eerste lid, onderdeel r, van het FATCA-verdrag, waaraan de administratieplichtige een of meer betalingen heeft verricht en het totaalbedrag van deze betalingen, te bepalen met inachtneming van artikel 3, tweede lid, van het FATCA-verdrag en de bepalingen in de bijlagen I en II van het FATCA-verdrag.   
 2.  Artikel 7b.1, derde, vierde, vijfde, zevende, achtste en negende lid, is voor de toepassing van het eerste lid van overeenkomstige toepassing.  

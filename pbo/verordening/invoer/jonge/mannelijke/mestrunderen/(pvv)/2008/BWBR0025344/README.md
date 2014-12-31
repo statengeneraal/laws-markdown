@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 24 september 2008, houdende de vaststelling van nadere regels ter zake van de invoer van jonge mannelijke mestrunderen
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op [artikel 3:4 van het Algemeen douanebesluit](../../../../../../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md) (Stb. 2008, 288), [artikel 3:16 van de Algemene douaneregeling](../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md) (Stcrt. 2008, 145) en de [artikelen 95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [96](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [98](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [100, derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (Stb. K 22);
+Gelet op artikel 3:4 van het Algemeen douanebesluit (Stb. 2008, 288), artikel 3:16 van de Algemene douaneregeling (Stcrt. 2008, 145) en de artikelen 95, 96, 98 en 100, derde lid, van de Wet op de bedrijfsorganisatie (Stb. K 22);
 Besluit:    
 
 ### Artikel  1  
@@ -24,7 +24,7 @@ In het bij of krachtens deze verordening bepaalde wordt verstaan onder:
 
 7.Verordening (EG) nr. 1760/2000: Verordening van 17 juli 2000 van het Parlement en de Raad tot vaststelling van een identificatie- en registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten (PbEU L 204);
 
-8.Regeling identificatie en registratie van dieren: de [Regeling identificatie en registratie van dieren](../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) (Stcrt. 2002, 248);
+8.Regeling identificatie en registratie van dieren: de Regeling identificatie en registratie van dieren (Stcrt. 2002, 248);
 
 9.formulier zekerheidstelling: formulier waarin de verklaring van het productschap wordt opgenomen houdende vermelding van de hoeveelheid en het soort product en het bedrag waarvoor zekerheid is gesteld, met welk formulier aan de inspecteur van de rijksbelastingdienst mededeling wordt gedaan van het stellen van de zekerheid bij het productschap. Het model van het formulier is vervat in de bijlage bij de verordening;
 
@@ -40,7 +40,7 @@ In het bij of krachtens deze verordening bepaalde wordt verstaan onder:
 
 15.weeglijst: een lijst die een specificatie van het gewicht per rund bevat, onder vermelding van het oorspronkelijke identificatienummer van het land van herkomst van het betrokken rund;
 
-16.merk: merk als bedoeld in [artikel 8, eerste lid, van de Regeling identificatie en registratie van dieren](../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md);
+16.merk: merk als bedoeld in artikel 8, eerste lid, van de Regeling identificatie en registratie van dieren;
 
 17.transscriptielijst: een door de Gezondheidsdienst voor Dieren BV gewaarmerkte lijst waarin de oorspronkelijke en nationale oormerknummers per dier zijn vermeld;
 
@@ -56,7 +56,7 @@ In het bij of krachtens deze verordening bepaalde wordt verstaan onder:
 
 ###Artikel  2 
 
-1.  De importeur die, in het kader van het in de uitvoeringsverordening periodiek vastgestelde communautaire tariefcontingent, jonge mannelijke mestrunderen invoert in Nederland met een beroep op vermindering van het specifieke deel van het douanerecht als bedoeld in [artikel 3:16 Algemene douaneregeling](../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), is ter verkrijging van een definitieve vermindering van het specifieke deel van het douanerecht, gehouden te voldoen aan de in de uitvoeririgsverordening en deze verordening vastgestelde voorschriften en bepalingen.  
+1.  De importeur die, in het kader van het in de uitvoeringsverordening periodiek vastgestelde communautaire tariefcontingent, jonge mannelijke mestrunderen invoert in Nederland met een beroep op vermindering van het specifieke deel van het douanerecht als bedoeld in artikel 3:16 Algemene douaneregeling, is ter verkrijging van een definitieve vermindering van het specifieke deel van het douanerecht, gehouden te voldoen aan de in de uitvoeririgsverordening en deze verordening vastgestelde voorschriften en bepalingen.  
 2.  De onder deze regeling ingevoerde runderen dienen tenminste gedurende een periode van 120 dagen te rekenen vanaf de datum van invoer te worden gemest in de Lid- Staat van invoer. 
 
 ### Artikel  3  
@@ -109,8 +109,8 @@ De importeur is gehouden aan het productschap ten minste de onderstaande documen
 
 ###Artikel 8 
 
-1. De importeur is gehouden tot naleving van het bepaalde in de [Regeling identificatie en registratie van dieren](../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md). Tevens is de importeur gehouden te voldoen aan de communautaire voorwaarden die betrekking hebben op identificatie en registratie van runderen, zoals gesteld bij of krachtens Verordening (EG) nr. 1760/2000.
-2. De importeur dient ervoor zorg te dragen dat het in de transscriptielijst opgenomen nationale merk aan het ingevoerde rund bevestigd blijft. Verlies van het merk dient direct te worden gemeld aan het identificatie en registratiesysteem dat bij of krachtens de [Regeling identificatie en registratie van dieren](../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) is ingesteld.
+1. De importeur is gehouden tot naleving van het bepaalde in de Regeling identificatie en registratie van dieren. Tevens is de importeur gehouden te voldoen aan de communautaire voorwaarden die betrekking hebben op identificatie en registratie van runderen, zoals gesteld bij of krachtens Verordening (EG) nr. 1760/2000.
+2. De importeur dient ervoor zorg te dragen dat het in de transscriptielijst opgenomen nationale merk aan het ingevoerde rund bevestigd blijft. Verlies van het merk dient direct te worden gemeld aan het identificatie en registratiesysteem dat bij of krachtens de Regeling identificatie en registratie van dieren is ingesteld.
 3. Ingeval van tussentijds verlies van het in het tweede lid bedoelde merk dient de importeur uiterlijk de dag voor aanvang van de door het productschap uit te voeren controle de volgende gegevens schriftelijk te melden:
 
 het nummer van het formulier van de aangifte ten invoer,
@@ -162,7 +162,7 @@ De importeur die jonge mannelijke mestrunderen invoert in het kader van de in de
 
 ###Artikel 12 
 
-De [Verordening invoer jonge mannelijke mestrunderen 2001](../../../../../../../../../pbo/verordening/invoer/jonge/mannelijke/mestrunderen/2001/BWBR0012562/README.md) wordt ingetrokken.
+De Verordening invoer jonge mannelijke mestrunderen 2001 wordt ingetrokken.
 
 ### Artikel  13  
 

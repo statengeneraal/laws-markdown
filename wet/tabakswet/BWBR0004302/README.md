@@ -40,7 +40,19 @@ i. nicotine: nicotinealkaloïden;
 
 j. ingrediënten: stoffen of bestanddelen, met uitzondering van tabaksbladeren en andere natuurlijke of niet-getransformeerde delen van de tabaksplant, die bij de productie of de bereiding van tabaksproducten worden gebruikt en nog in het eindproduct aanwezig zijn, al dan niet in gewijzigde vorm, met inbegrip van papier, filter, inkt en kleefstoffen;  
 
-k. diensten van de informatiemaatschappij: diensten in de zin van artikel 1, tweede lid, van richtlijn nr. 98/34/EG van het Europees Parlement en de Raad van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEG L 204). 
+k. diensten van de informatiemaatschappij: diensten in de zin van artikel 1, tweede lid, van richtlijn nr. 98/34/EG van het Europees Parlement en de Raad van 22 juni 1998 betreffende een informatieprocedure op het gebied van normen en technische voorschriften en regels betreffende de diensten van de informatiemaatschappij (PbEG L 204);
+
+l.werkgever: de werkgever, bedoeld in artikel 1, eerste lid, onder a, en tweede lid, onder a, sub 1, van de Arbeidsomstandighedenwet, met inbegrip van degene die een persoon als vrijwilliger als bedoeld in artikel 1, derde lid, onder l, van die wet arbeid laat verrichten;
+
+m.werknemer: degene die arbeid verricht voor de werkgever, bedoeld onder l;
+
+n.horeca-inrichting:
+
+1° inrichting als bedoeld in artikel 1, eerste lid, van de Drank- en Horecawet;  
+
+2° inrichting waarin in ieder geval bedrijfsmatig of anders dan om niet alcoholvrije dranken of etenswaren worden verstrekt voor gebruik ter plaatse; 
+
+o.rookverbod: het verbod tabaksproducten te roken. 
 
 ### §  2  
 
@@ -173,27 +185,30 @@ c. een veroordeling tot het openbaar maken of laten openbaar maken van de uitspr
 
 ### Artikel  10  
 
-1.  Voor de instellingen, diensten en bedrijven die door de Staat en de openbare lichamen worden beheerd, worden door het bevoegde orgaan zodanige maatregelen getroffen, dat van de daardoor geboden voorzieningen gebruik kan worden gemaakt en de werkzaamheden daarin kunnen worden verricht zonder daarbij hinder of overlast van roken te ondervinden.    
-2.   Tot de maatregelen, bedoeld in het eerste lid, behoort in ieder geval het instellen, aanduiden en handhaven van een rookverbod in ruimten, behorende tot bij algemene maatregel van bestuur, aangewezen categorieën. Op het verbod kunnen, overeenkomstig bij de algemene maatregel van bestuur gestelde regelen, beperkingen worden aangebracht.   
+1.  In de navolgende gevallen is de navolgende persoon of het navolgende orgaan verplicht tot het instellen, aanduiden en handhaven van een rookverbod: 
 
-### Artikel  11  
+a. in een gebouw of inrichting, dat onderscheidenlijk die bij de Staat of een ander openbaar lichaam in gebruik is: het binnen dat lichaam bevoegde orgaan;  
 
-1.  Bij algemene maatregel van bestuur kan aan degenen die - anders dan in een hoedanigheid als bedoeld in artikel 10 - het beheer hebben over gebouwen of inrichtingen voor gezondheidszorg, welzijn, maatschappelijke dienstverlening, kunst en cultuur, sport, sociaal-cultureel werk of onderwijs, voor zover die gebouwen of inrichtingen behoren tot bij algemene maatregel van bestuur aangewezen categorieën, de verplichting worden opgelegd tot het treffen van maatregelen als bedoeld in artikel 10, eerste lid.    
-2.   Artikel 10, tweede lid, is van overeenkomstige toepassing.   
+b. in een gebouw of inrichting, dat onderscheidenlijk die in gebruik is bij een instelling of vereniging voor gezondheidszorg, welzijn, maatschappelijke dienstverlening, kunst en cultuur, sport, sociaal-cultureel werk of onderwijs: degene die – anders dan in een hoedanigheid als bedoeld onder a – over dat gebouw of die inrichting het beheer heeft;  
 
-### Artikel  11a  
+c. in een ruimte, gebouw of inrichting waar een werknemer zijn werkzaamheden verricht of pleegt te verrichten: de werkgever van die werknemer;  
 
-1.  Werkgevers zijn verplicht zodanige maatregelen te treffen dat werknemers in staat worden gesteld hun werkzaamheden te verrichten zonder daarbij hinder of overlast van roken door anderen te ondervinden.   
-2.  Exploitanten van middelen voor personenvervoer zijn verplicht zodanige maatregelen te treffen dat passagiers in staat worden gesteld hun reis te volbrengen zonder daarbij hinder of overlast van roken te ondervinden.   
-3.  Nederlandse luchtvaartmaatschappijen zijn verplicht zodanige maatregelen te treffen dat passagiers aan boord van hun vliegtuigen tijdens het gebruik voor de burgerluchtvaart op vluchten van en naar op Nederlands grondgebied gelegen luchthavens in staat worden gesteld hun reis te volbrengen zonder daarbij hinder of overlast van roken te ondervinden.   
-4.  Diegenen die – anders dan in een hoedanigheid als bedoeld in artikel 10 of 11 – het beheer hebben over voor het publiek toegankelijke gebouwen, voor zover die gebouwen behoren tot bij algemene maatregel van bestuur aangewezen categorieën, zijn verplicht tot het treffen van maatregelen als bedoeld in artikel 10, eerste lid.   
-5.  Bij algemene maatregel van bestuur kunnen op de in dit artikel bedoelde verplichtingen beperkingen worden aangebracht. Zo kan worden bepaald dat de verplichtingen, bedoeld in het eerste lid, niet gelden voor bij die maatregel aangewezen: 
+d. in andere bij algemene maatregel van bestuur aan te wijzen gebouwen of inrichtingen of delen daarvan: degene die – anders dan in een hoedanigheid als bedoeld onder a of b – het beheer heeft over het daar bedoelde gebouw of die inrichting of delen daarvan;  
 
-a. categorieën van werkgevers;  
+e. in een horeca-inrichting: de exploitant van die horeca-inrichting;  
+
+f. in een middel voor personenvervoer: de ondernemer die dat middel exploiteert;  
+
+g. in een vliegtuig tijdens gebruik voor burgerluchtvaart op vluchten van en naar op Nederlands grondgebied gelegen luchthavens: de Nederlandse ondernemer die dat vliegtuig exploiteert.   
+2.  Op het rookverbod, bedoeld in het eerste lid, kunnen bij algemene maatregel van bestuur beperkingen worden aangebracht, waarbij onder meer kan worden bepaald dat het rookverbod niet geldt voor bij die maatregel aangewezen: 
+
+a. categorieën van ondernemers;  
 
 b. ruimten in gebouwen;  
 
-c. andere plaatsen waar werkzaamheden worden verricht.   Daarbij kunnen nadere regels worden gesteld.  
+c. andere plaatsen waar werkzaamheden worden verricht.  Daarbij kunnen nadere regels worden gesteld. 
+3.  De verplichting, bedoeld in het eerste lid, onder e, prevaleert als de hoedanigheid van exploitant van een horeca-inrichting samenvalt met een andere hoedanigheid als bedoeld in dit artikel. 
+4.  Tot het treffen van de krachtens het tweede lid gestelde maatregelen zijn verplicht de bij die algemene maatregel van bestuur aangewezen personen of organen. 
 
 ### §  6  
 
@@ -201,7 +216,7 @@ c. andere plaatsen waar werkzaamheden worden verricht.   Daarbij kunnen nadere r
 
 ### Artikel  11b  
 
-1.  Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de artikelen 2, 3, 3a, 3b, 3c, 3e, 4, 5, 5a, 7, 8, 9, 10, 11, 11a of 18.   
+1.  Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de artikelen 2, 3, 3a, 3b, 3c, 3e, 4, 5, 5a, 7, 8, 9, 10 of 18.   
 2.  De hoogte van de bestuurlijke boete wordt bepaald op de wijze als voorzien in de bijlage, met dien verstande dat de wegens een afzonderlijke overtreding te betalen geldsom ten hoogste: 
 
 a. € 450 000 bedraagt wegens overtreding van artikel 5 of 5a, indien die overtreding is begaan door een fabrikant, groothandel of importeur van tabaksproducten;  
@@ -222,7 +237,7 @@ b. € 4 500 bedraagt in andere dan de onder a bedoelde gevallen.
 
 ### Artikel  12  
 
-De voordracht voor een algemene maatregel van bestuur krachtens artikel 7, artikel 9, vierde lid, en artikel 11a, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd. 
+De voordracht voor een algemene maatregel van bestuur krachtens artikel 7, artikel 9, vierde lid, en artikel 10, wordt niet eerder gedaan dan vier weken nadat het ontwerp aan de beide kamers der Staten-Generaal is overgelegd. 
 
 ### Artikel  13  
 

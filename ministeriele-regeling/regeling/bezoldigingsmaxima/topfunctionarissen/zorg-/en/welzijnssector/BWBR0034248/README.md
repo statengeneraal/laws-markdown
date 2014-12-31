@@ -52,7 +52,7 @@ De bezoldiging, exclusief de door de werkgever verschuldigde verplichte sociale 
 
 ####Bezoldigingsmaxima 2015
 
-Treedt in werking per 01-01-2015 
+Treedt in werking op een nader te bepalen tijdstip 
 
 De bezoldiging, exclusief de door de werkgever verschuldigde verplichte sociale premies, voor een topfunctionaris in de zorg- en welzijnssector bedraagt voor het jaar 2015 voor de klasse waarin de betreffende rechtspersoon of instelling in de zorg- en welzijnssector is ingedeeld, niet meer dan het in onderstaande tabel opgenomen bedrag.  
 
@@ -253,7 +253,7 @@ In de economische theorie worden een vijftal markten onderscheiden, die gehantee
 
 * de aard en mate van concurrentie (bijvoorbeeld in beeld te brengen door een concurrentiescan);  
 
-* de hoeveelheid en de diversiteit van systemen waarin of waarmee de inkoop plaats vindt (denk bijvoorbeeld aan een combinatie van Wet maatschappelijke ondersteuning met aanbestedingen, AWBZ en Zorgverzekeringswet);  
+* de hoeveelheid en de diversiteit van systemen waarin of waarmee de inkoop plaats vindt (denk bijvoorbeeld aan een combinatie van Wet maatschappelijke ondersteuning met aanbestedingen, Wet langdurige zorg en Zorgverzekeringswet);  
 
 * het aantal partijen waarbij ingekocht moet worden en de inkoopmacht daarvan (denk aan het aantal zorgverzekeraars, provincies of gemeenten);  
 

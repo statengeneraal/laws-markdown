@@ -255,11 +255,11 @@ Het is verboden bij het vissen in de wateren, bedoeld in artikel 1, vierde lid, 
 
 ####Reikwijdte scheiden dieren van ouderdier
 
-Als diercategorieën als bedoeld in artikel 2.2, zevende lid, van de wet worden aangewezen honden, katten, konijnen, papegaaiachtigen, apen behorende tot de soort van de Chimpansee, de Rhesus-aap, de Beermakaak, de Java-aap, de Marmoset, de Doeroecoeli of de Doodshoofdaap en varkens. 
+Als diercategorieën als bedoeld in artikel 2.2, zevende lid, van de wet worden aangewezen honden, katten, konijnen, papegaaiachtigen, apen behorende tot de soort van de Chimpansee, de Rhesus-aap, de Beermakaak, de Java-aap, de Marmoset, de Doeroecoeli of de Doodshoofdaap, varkens en nertsen. 
 
 ### Artikel  1.20  
 
-####Scheiden van honden, katten, konijnen, papegaaiachtigen, apen en varkens
+####Leeftijd scheiden van dieren
 
 1.  De leeftijd, bedoeld in artikel 2.2, zevende lid, van de wet, is voor: 
 
@@ -285,7 +285,9 @@ j. Doeroecoeli’s: 1,5 jaar;
 
 k. Doodshoofdapen: 9 maanden;  
 
-l. varkens: 28 dagen.     
+l. varkens: 28 dagen;  
+
+m. nertsen: 8 weken.    
 2.  Indien de dieren onmiddellijk na het scheiden worden ondergebracht in groepen met soortgenoten of indien het konijnen betreft op het geboortebedrijf verblijven totdat zij ten minste de leeftijd, bedoeld in het eerste lid, hebben bereikt, is de leeftijd, bedoeld in artikel 2.2, zevende lid, van de wet, in afwijking van het eerste lid, voor: 
 
 a. konijnen: 4 weken;  
@@ -1117,13 +1119,9 @@ b. een pluimveebedrijf waar voorheen vleeskuikens werden gehouden op een wijze a
 
 ####Houden van ouderdieren van vleeskuikens voor productie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.65a  
 
 ####Begripsbepalingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 In deze paragraaf wordt verstaan onder: 
 
@@ -1145,15 +1143,11 @@ In deze paragraaf wordt verstaan onder:
 
 ####Toepassingsbereik
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Deze paragraaf is van toepassing op bedrijfsmatig gehouden ouderdieren van vleeskuikens en dieren van tien weken of ouder die worden opgefokt tot ouderdier van vleeskuikens. 
 
 ### Artikel  2.65c  
 
 ####Registratie
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De houder van ouderdieren registreert dagelijks, voor zover van toepassing, voor elke stal de volgende gegevens: 
 
@@ -1167,8 +1161,6 @@ c. het resterend aantal ouderdieren in het koppel dat levend wordt afgevoerd, on
 ### Artikel  2.65d  
 
 ####Huisvesting en voeding ouderdieren
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een ouderdier beschikt ten minste over: 
 
@@ -1188,15 +1180,11 @@ d. een voerbak waarvan de lengte van de voor ouderdieren toegankelijke kant per 
 
 ####Huisvesting ouderdieren tijdens opfok
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Een dier dat wordt opgefokt om te worden gehouden als ouderdier beschikt over een vloeroppervlakte van ten minste 666 cm<sup>2</sup> per dier. 
 
 ### Artikel  2.65f  
 
 ####Controles
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  In afwijking van artikel 2.4, tweede lid, worden ouderdieren ten minste tweemaal per dag gecontroleerd.   
 2.  In afwijking van artikel 2.5, achtste lid, wordt de apparatuur die noodzakelijk is voor de gezondheid en het welzijn van ouderdieren ten minste tweemaal per dag gecontroleerd.   
@@ -1405,13 +1393,9 @@ g. een continu werkende drinkgoot waarvan de lengte van de voor de legkippen toe
 
 ####Houden van vleeskalkoenen voor productie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.76a  
 
 ####Begripsbepalingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 In deze paragraaf wordt verstaan onder: 
 
@@ -1431,15 +1415,11 @@ In deze paragraaf wordt verstaan onder:
 
 ####Toepassingsbereik
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Deze paragraaf is van toepassing op bedrijfsmatig gehouden vleeskalkoenen, ouderdieren van vleeskalkoenen en dieren die worden opgefokt om te worden gehouden als ouderdier van vleeskalkoenen. 
 
 ### Artikel  2.76c  
 
 ####Registratie
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De houder van vleeskalkoenen of ouderdieren registreert per koppel de volgende gegevens: 
 
@@ -1458,8 +1438,6 @@ b. 9% bij een koppel mannelijke dieren.
 ### Artikel  2.76d  
 
 ####Bezettingsdichtheid
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Vleeskalkoenen worden zodanig gehouden dat de bezettingsdichtheid niet hoger is dan: 
 
@@ -1486,8 +1464,6 @@ b. 49 kg/m<sup>2</sup> voor vrouwelijke dieren.
 
 ####Strooisel
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De houder van vleeskalkoenen, ouderdieren van vleeskalkoenen en dieren die worden opgefokt om te worden gehouden als ouderdier van vleeskalkoenen voorziet de stalvloer die niet is gelegen onder de voedsel- of watervoorziening van strooisel.   
 2.  Het strooisel: 
 
@@ -1501,16 +1477,12 @@ c. is aangebracht in een laag die dik genoeg is om dieren de mogelijkheid te bie
 
 ####Stalklimaat
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  Indien vleeskalkoenen en ouderdieren worden gehouden in een ruimte die mechanisch wordt geventileerd bedraagt de luchtverversingscapaciteit ten minste 4 m<sup>3</sup> per kg levend gewicht per uur.   
 2.  Een koppel vleeskalkoenen of dieren die worden opgefokt om te worden gehouden als ouderdier worden de eerste vijf dagen na aankomst op het bedrijf waar ze worden gehouden als vleeskalkoen of worden opgefokt om te worden gehouden als ouderdier in een ruimte gehouden waar de temperatuur op dierhoogte 35 tot 39° Celsius bedraagt.  
 
 ### Artikel  2.76g  
 
 ####Verlichting
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Onverminderd artikel 2.5, eerste en tweede lid, worden vleeskalkoenen en ouderdieren gehouden in een ruimte waar een aaneengesloten rustperiode wordt gehanteerd van ten minste acht uur per etmaal, waarin die ruimte niet of nauwelijks kunstmatig wordt verlicht.   
 2.  De lichtintensiteit in een ruimte bestemd voor vleeskalkoenen of ouderdieren bedraagt op dierhoogte ten minste 20 Lux, tenzij een lagere lichtsterkte tijdelijk noodzakelijk is om letsel als gevolg van pikkerij te voorkomen.  
@@ -1519,15 +1491,11 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Vervoer
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Tijdens vervoer dat op Nederlands grondgebied begint en eindigt, worden vleeskalkoenen die zwaarder zijn dan 7 kg vervoerd in containers als bedoeld in artikel 2, onderdeel g, van verordening (EG) nr. 1/2005. 
 
 ### Artikel  2.76i  
 
 ####Controles
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  In afwijking van artikel 2.4, tweede lid, worden vleeskalkoenen en ouderdieren ten minste tweemaal per dag gecontroleerd.   
 2.  In afwijking van artikel 2.5, achtste lid, wordt de apparatuur die noodzakelijk is voor de gezondheid en het welzijn van vleeskalkoenen en ouderdieren ten minste tweemaal per dag gecontroleerd.   
@@ -1537,13 +1505,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Houden van konijnen voor productie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.76j  
 
 ####Begripsbepalingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 In deze paragraaf wordt verstaan onder: 
 
@@ -1567,8 +1531,6 @@ In deze paragraaf wordt verstaan onder:
 
 ####Toepassingsbereik
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Deze paragraaf is van toepassing op bedrijfsmatig gehouden: 
 
 a. gespeende konijnen;  
@@ -1580,8 +1542,6 @@ c. voedsters en fokrammen die worden gehouden voor de productie van konijnen die
 ### Artikel  2.76l  
 
 ####Registratie algemeen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De houder van konijnen registreert zich bij Onze Minister.   
 2.  De in het eerste lid bedoelde registratie vindt plaats met als doel het bevorderen van een effectief systeem van toezicht en handhaving van de op de houder van toepassing zijnde regelgeving met betrekking tot dierenwelzijn.   
@@ -1602,8 +1562,6 @@ e. de gehouden diersoort.
 
 ####Registratie diergegevens
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De houder van gespeende konijnen, voedsters, fokrammen of opfokkonijnen registreert maandelijks de volgende gegevens: 
 
 a. het aantal levend geboren konijnen;  
@@ -1623,8 +1581,6 @@ f. de uitkomst van de consultatie, bedoeld in artikel 2.81, eerste lid, de maatr
 
 ####Uitval
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De houder van konijnen berekent maandelijks het uitvalpercentage voor gespeende konijnen, voedsters en opfokkonijnen, op de volgende wijze: 
 
 a.  *voor gespeende konijnen:* het aantal dieren van een koppel dat niet-levend van het bedrijf is afgevoerd, gedeeld door de som van het aantal dieren waaruit het koppel na het spenen bestond en het aantal dieren dat aan de groep is toegevoegd, vermenigvuldigd met 100;  
@@ -1637,8 +1593,6 @@ b.  *voor voedsters en opfokkonijnen:* het aantal voedsters of opfokkonijnen dat
 ### Artikel  2.76o  
 
 ####Huisvesting en afleidingsmateriaal
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Een voedster beschikt over een kooi met ten minste: 
 
@@ -1684,15 +1638,11 @@ c. plaatst de houder in een kooi als bedoeld in het eerste en derde lid een mat 
 
 ####Minimum dekleeftijd
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Het is verboden om een vrouwelijk konijn te laten dekken of insemineren voordat het 15 weken oud is. 
 
 ### Artikel  2.76q  
 
 ####Verlichting
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  Onverminderd artikel 2.5, eerste en tweede lid, worden konijnen gehouden in een ruimte waar een dag- en nachtritme wordt gehanteerd waarbij het ten minste acht uur licht is en ten minste acht uur donker, in beide gevallen ten minste vier uur aaneengesloten.   
 2.  In een ruimte bestemd voor voedsters en fokrammen: 
@@ -1705,8 +1655,6 @@ b. bedraagt de lichtintensiteit op dierhoogte ten minste 20 Lux gedurende ten mi
 
 ####Controles
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  In afwijking van artikel 2.4, tweede lid, worden konijnen ten minste tweemaal per dag gecontroleerd.   
 2.  In afwijking van artikel 2.5, achtste lid, wordt de apparatuur die noodzakelijk is voor de voer- en watervoorzieningen van konijnen ten minste tweemaal per dag gecontroleerd.  
 
@@ -1714,13 +1662,9 @@ Treedt in werking op een nader te bepalen tijdstip
 
 ####Houden van nertsen voor productie
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  2.76s  
 
 ####Begripsbepalingen
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 In deze paragraaf wordt verstaan onder: 
 
@@ -1738,15 +1682,11 @@ In deze paragraaf wordt verstaan onder:
 
 ####Toepassingsbereik
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 Deze paragraaf is van toepassing op bedrijfsmatig gehouden nertsen. 
 
 ### Artikel  2.76u  
 
 ####Registratie
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 1.  De houder van nertsen registreert de volgende gegevens: 
 
@@ -1765,15 +1705,11 @@ e. de handelingen die zijn verricht om stereotiep gedrag of kale staartpunten te
 
 ####Controles
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 De houder van nertsen controleert dagelijks de kwaliteit van het strooisel. 
 
 ### Artikel  2.76w  
 
 ####Actieplan
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De houder van nertsen beschikt over een actieplan waarin staat vermeld welke maatregelen worden getroffen om stereotiep gedrag en kale staartpunten bij nertsen te voorkomen of te verminderen. 
 
@@ -2392,19 +2328,20 @@ c. het staken van het dodingsproces indien onvoldoende is gegarandeerd dat daarb
 
 ### Artikel  6.1  
 
-####Medebewind groepshuisvesting varkens
+####Overgangsrecht vleeskalkoenen
 
-1.  Ter uitvoering van de artikelen 2.13 en 2.15 wordt medewerking gevorderd van het Productschap voor Vee en Vlees.   
-2.  De in het eerste lid bedoelde medewerking bestaat uit het verrichten van de noodzakelijke werkzaamheden en het bij verordening stellen van regels.   
-3.  De krachtens de in het tweede lid bij verordening vastgestelde voorschriften en genomen besluiten behoeven de goedkeuring van Onze Minister.   
-4.  Onze Minister kan met betrekking tot het verlenen van de in het eerste lid bedoelde medewerking beleidsregels stellen.   
-5.  De in het tweede lid bedoelde regels kunnen onder meer betrekking hebben op de instelling van de plicht tot identificatie van varkens, de registratie daarvan, alsmede op de melding daarvan aan een bij die regels aan te wijzen instantie.  
+In afwijking van artikel 2.76f, eerste lid, bedraagt de in dat lid bedoelde luchtverversingscapaciteit in stallen die voor 1 juni 2003 zijn gebouwd en sindsdien niet zijn verbouwd ten minste 3 m<sup>3</sup> per kg levend gewicht per uur.
 
 ### Artikel  6.2  
 
-####Medebewind registratie houders legkippen
+####Overgangsrecht konijnen
 
-Bij de ministeriële regeling, bedoeld in artikel 2.69, tweede lid, kan Onze Minister de medewerking vorderen van het bestuur van het Productschap Pluimvee en Eieren ter uitvoering van artikel 2.69, eerste lid. 
+1.  Tot en met 22 april 2016 is het toegestaan om een voedster als bedoeld in artikel 2.78 buiten de periode van drie dagen voor het berekende tijdstip van werpen tot en met 18 dagen na het werpen te huisvesten in een kooi als bedoeld in artikel 2.76o, tweede lid.   
+2.  Tot en met 22 april 2016 is het degene die konijnen houdt in een huisvestingssysteem dat op 23 april 2006 reeds in gebruik was toegestaan om af te wijken van de artikelen 2.76o, eerste lid, onderdeel a, subonderdeel 2, onderdelen b en c, tweede lid en het vierde tot en met zesde lid, onderdelen a en b, op voorwaarde dat de houder ten minste 50 punten behaalt volgens de tabel in bijlage III bij dit besluit.   
+3.  Onze Minister kan tot en met 22 april 2016 ontheffing verlenen van de voorwaarde, bedoeld in het tweede lid, aan een konijnenhouder als bedoeld in artikel 16, eerste lid, aanhef en onderdeel a, van de Verordening welzijnsnormen konijnen (PPE) 2006, zoals dat luidde onmiddellijk voor inwerkingtreding van dit lid.   
+4.  Een ontheffing als bedoeld in het derde lid wordt verleend voor een periode van een jaar.   
+5.  Ontheffingen, verleend op grond van artikel 16, eerste lid, onderdeel a, van de Verordening welzijnsnormen konijnen (PPE) 2006 worden aangemerkt als ontheffingen als bedoeld in het derde lid.   
+6.  Het tweede lid is niet van toepassing op degene aan wie een ontheffing is verleend als bedoeld in het derde of vijfde lid, en die is ingetrokken.  
 
 ### Artikel  6.3  
 
@@ -3072,8 +3009,6 @@ Categorieën
 ###Bijlage III 
 
 ####als bedoeld in artikel 6.2, tweede lid , van het besluit
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 | Artikel 2.76o   | Aantal punten als aan de voorschriften is voldaan  |
 |:---|:---|

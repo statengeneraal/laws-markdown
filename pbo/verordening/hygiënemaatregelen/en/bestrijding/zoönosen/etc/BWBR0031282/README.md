@@ -3,15 +3,15 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 3 november 2011 houdende vaststelling van hygiënemaatregelen ter zake van de bewaking en bestrijding van Salmonella en Campylobacter in pluimveeslachterijen en -uitsnijderijen (Verordening hygiënemaatregelen en bestrijding zoönosen pluimveeslachterijen en -uitsnijderijen (PPE) 2011)
 
 Het bestuur van het Productschap Pluimvee en Eieren,  
-Gelet op de [artikelen 93, eerste lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de [artikelen 6](../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md) en [7 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op de artikelen 93, eerste lid, 95, 102 en 104 van de Wet op de bedrijfsorganisatie, en de artikelen 6 en 7 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 
-Gelet op de [artikelen 3](../../../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md) en [3a van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten](../../../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md) en de [artikelen 95](../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) en [96 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's](../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md);
+Gelet op de artikelen 3 en 3a van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten en de artikelen 95 en 96 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's;
 
 Gezien Richtlijn 2003/99/EG van het Europees Parlement en de Raad van 17 november 2003 inzake de bewaking van zoönoses en zoönoseverwekkers en houdende wijziging van Beschikking 90/424/EEG van de Raad en intrekking van Richtlijn 92/117/EEG van de Raad (PbEU L 325), en Verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad van 17 november 2003 inzake de bestrijding van Salmonella en andere specifieke door voedsel overgedragen zoönoseverwekkers (PbEU L 325) en; 
 
-Gezien de [Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md);
+Gezien de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011;
 
-Gezien de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md);
+Gezien de Wet tuchtrechtspraak bedrijfsorganisatie 2004;
 Besluit:    
 
 ####Begripsbepalingen
@@ -26,14 +26,14 @@ In deze Verordening en de daarop rustende besluiten wordt verstaan onder:
 |2. onderneming |: |tot de onderneming behoren alle inrichtingen waarin pluimvee wordt geslacht of het vlees van pluimvee wordt bewerkt of verwerkt en die voor ten minste 51% eigendom zijn van de ondernemer; |
 |3. slachterij |: |een inrichting waar pluimvee wordt geslacht en die voldoet aan de in Verordening (EG) Nr. 853/2004 gestelde eisen en als zodanig is erkend; |
 |4. slachtkoppel |: |een aan de slachterij aaneengesloten geleverde hoeveelheid pluimvee dat afkomstig is van één stal en dat bestemd is om te worden geslacht of een door de ondernemer geslachte aaneengesloten geleverde hoeveelheid pluimvee dat afkomstig is van één stal; |
-|5. slachtuitlaadkoppel |: |een aan de slachterij aaneengesloten geleverde hoeveelheid pluimvee dat afkomstig is van één pluimveebedrijf en dat bestemd is om te worden geslacht of een door de ondernemer geslachte aaneengesloten geleverde hoeveelheid pluimvee dat afkomstig is van één pluimveebedrijf. Voor slachtuitlaadkoppels geldt: a) dat het gaat om het deel van het stalkoppel dat als eerste wordt geslacht;  b) dat de in de [Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) bedoelde onderzoeken naar Salmonella een negatieve uitslag hebben opgeleverd voor Salmonella Typhimurium en Salmonella Enteritidis.   |
+|5. slachtuitlaadkoppel |: |een aan de slachterij aaneengesloten geleverde hoeveelheid pluimvee dat afkomstig is van één pluimveebedrijf en dat bestemd is om te worden geslacht of een door de ondernemer geslachte aaneengesloten geleverde hoeveelheid pluimvee dat afkomstig is van één pluimveebedrijf. Voor slachtuitlaadkoppels geldt: a) dat het gaat om het deel van het stalkoppel dat als eerste wordt geslacht;  b) dat de in de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011 bedoelde onderzoeken naar Salmonella een negatieve uitslag hebben opgeleverd voor Salmonella Typhimurium en Salmonella Enteritidis.   |
 |6. uitsnijderij |: |een inrichting waarin vlees van pluimvee wordt uitgebeend, uitgesneden of versneden, verpakt of opgeslagen en die voldoet aan de in Verordening (EG) Nr. 853/2004 gestelde eisen en als zodanig erkend is. |
 |7. nuchter pluimvee |: |pluimvee waarvan de krop leeg is; |
 |8. eindproduct van de slachterij |: |filet of vel van de borstkap van geslacht pluimvee; |
 |9. eindproduct van de uitsnijderij |: |vel van de borstkap, filet, poten of vleugels van geslacht pluimvee; |
 |10. Verordening (EG) Nr. 853/2004 |: |Verordening (EG) Nr. 853/2004 van het Europees Parlement en de Raad van 29 april 2004 houdende vaststelling van specifieke hygiënevoorschriften voor levensmiddelen van dierlijke oorsprong. |
 
-Voor het overige worden de begripsbepalingen overgenomen van de [Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md).
+Voor het overige worden de begripsbepalingen overgenomen van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011.
 
 ####Hygiënemaatregelen na vervoer
 
@@ -58,13 +58,13 @@ Voor het overige worden de begripsbepalingen overgenomen van de [Verordening hyg
 1. De ondernemer mag alleen pluimvee slachten indien hij uiterlijk 24 uur vóór de slacht in het bezit is van de schriftelijke uitslagen van het Salmonellaonderzoek dat in de stal waaruit het pluimvee afkomstig is, is uitgevoerd. 
 2. De schriftelijke uitslagen van het in het eerste lid bedoelde Salmonellaonderzoek omvatten de uitslagen van de detectie, in voorkomend geval de serotypering en in voorkomend geval het verificatieonderzoek, als bedoeld in de artikelen:
 
-a)[artikel 4](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) (opfokbedrijf, fokbedrijf en vermeerderingsbedrijf),
+a)artikel 4 (opfokbedrijf, fokbedrijf en vermeerderingsbedrijf),
 
-b)[artikel 10](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) (opfokleghennenbedrijf, en leghennenbedrijf),
+b)artikel 10 (opfokleghennenbedrijf, en leghennenbedrijf),
 
-c)[artikel 13](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) (vleeskuikenbedrijven) en
+c)artikel 13 (vleeskuikenbedrijven) en
 
-d)[artikel 15](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) (Salmonellaonderzoek op initiatief van de voorzitter),van de [Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011](../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) en de daarop gebaseerde besluiten.
+d)artikel 15 (Salmonellaonderzoek op initiatief van de voorzitter),van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011 en de daarop gebaseerde besluiten.
 3. De ondernemer is verplicht om dagelijks al het pluimvee in onderstaande volgorde te slachten:
 
 a)Als eerste al het pluimvee waarvan het Salmonellaonderzoek in het pluimveebedrijf geen Salmonella heeft aangetoond;
@@ -163,7 +163,7 @@ e)Voor het overige alle medewerking te verlenen ter vervulling van de aan de toe
 
 ###Artikel  16 
 
-Op overtreding van het in de artikelen 2, 3, 4, 6, 8, 11 en 12 bepaalde zijn tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md). 
+Op overtreding van het in de artikelen 2, 3, 4, 6, 8, 11 en 12 bepaalde zijn tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004. 
 
 ####Ontheffing en vrijstelling
 
@@ -177,7 +177,7 @@ De op grond van deze verordening door het bestuur vast te stellen besluiten word
 
 ###Artikel 19 
 
-De [Verordening hygiënevoorschriften pluimveeverwerkende industrie (PPE) 2007](../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveeverwerkende/industrie/(ppe)/2007/BWBR0023512/README.md) wordt ingetrokken. 
+De Verordening hygiënevoorschriften pluimveeverwerkende industrie (PPE) 2007 wordt ingetrokken. 
 
 ####Inwerkingtreding, publicatie en citeertitel
 

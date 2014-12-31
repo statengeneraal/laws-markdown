@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Vee en Vlees van 24 september 2008 houdende vaststelling van nadere regels ter zake van de invoer van runderen in het kader van tariefcontingenten bergrassen (Verordening invoer runderen in het kader van tariefcontingenten bergrassen (PVV) 2008)
 
 Het bestuur van het Productschap Vee en Vlees;  
-Gelet op [artikel 3:4 van het Algemeen douanebesluit](../../../../../../../../../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md) (Stb. 2008, 288), [artikel 3:16 van de Algemene douaneregeling](../../../../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md) (Stcrt. 2008, 145) en de [artikelen 95](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [96](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [98](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [100, derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) (Stb. K 22);
+Gelet op artikel 3:4 van het Algemeen douanebesluit (Stb. 2008, 288), artikel 3:16 van de Algemene douaneregeling (Stcrt. 2008, 145) en de artikelen 95, 96, 98 en 100, derde lid, van de Wet op de bedrijfsorganisatie (Stb. K 22);
 Besluit:    
 
 ### Artikel  1  
@@ -24,7 +24,7 @@ In het bij of krachtens deze verordening bepaalde wordt verstaan onder:
 
 7.Verordening (EG) Nr. 1760/2000: Verordening van het Parlement en de Raad van 17 juli 2000 tot vaststelling van een identificatieen registratieregeling voor runderen en inzake de etikettering van rundvlees en rundvleesproducten, (PbEU L204);
 
-8.Regeling identificatie en registratie van dieren: de [Regeling identificatie en registratie van dieren](../../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) (Stcrt. 2002, 248);
+8.Regeling identificatie en registratie van dieren: de Regeling identificatie en registratie van dieren (Stcrt. 2002, 248);
 
 9.formulier zekerheidstelling: formulier waarin de verklaring van het productschap wordt opgenomen houdende vermelding van de hoeveelheid en het soort product en het bedrag waarvoor zekerheid is gesteld, met welk formulier aan de inspecteur van de rijksbelastingdienst mededeling wordt gedaan van het stellen van de zekerheid bij het productschap. Het model van het formulier is vervat in de bijlage bij de verordening; 
 
@@ -44,7 +44,7 @@ In het bij of krachtens deze verordening bepaalde wordt verstaan onder:
 
 17.weeglijst: een lijst die een specificatie van het gewicht per rund bevat onder vermelding van het oorspronkelijke identificatienummer van het land van herkomst;
 
-18.merk: merk als bedoeld in [artikel 8, eerste lid, van de Regeling identificatie en registratie van dieren](../../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md);
+18.merk: merk als bedoeld in artikel 8, eerste lid, van de Regeling identificatie en registratie van dieren;
 
 19.transscriptielijst: een door de Stichting Gezondheidsdienst voor Dieren gewaarmerkte lijst waarin de oorspronkelijke en nationale oormerknummers per dier zijn vermeld;
 
@@ -56,7 +56,7 @@ In het bij of krachtens deze verordening bepaalde wordt verstaan onder:
 
 ### Artikel  2  
 
-1. De importeur die, in het kader van de krachtens Verordening (EG) nr 1234/2007 periodiek vastgestelde communautaire tariefcontingenten, bergrassen invoert in Nederland met een beroep op geheel of gedeeltelijke schorsing van het specifieke deel van het douanerecht als bedoeld in [artikel 3:16 van de Algemene douaneregeling](../../../../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), is ter verkrijging van een definitieve vermindering van dit specifieke deel van het douanerecht, gehouden te voldoen aan de in de Verordening (EG) Nr. 659/2007, en deze verordening vastgestelde voorschriften en bepalingen.
+1. De importeur die, in het kader van de krachtens Verordening (EG) nr 1234/2007 periodiek vastgestelde communautaire tariefcontingenten, bergrassen invoert in Nederland met een beroep op geheel of gedeeltelijke schorsing van het specifieke deel van het douanerecht als bedoeld in artikel 3:16 van de Algemene douaneregeling, is ter verkrijging van een definitieve vermindering van dit specifieke deel van het douanerecht, gehouden te voldoen aan de in de Verordening (EG) Nr. 659/2007, en deze verordening vastgestelde voorschriften en bepalingen.
 2. De onder deze regeling ingevoerde runderen dienen niet te worden geslacht binnen een termijn van vier maanden te rekenen vanaf de datum van aanvaarding van de aangifte voor het vrije verkeer behoudens bijzondere omstandigheden zoals omschreven in artikel 5, derde lid.
 
 ### Artikel  3  
@@ -113,7 +113,7 @@ De importeur is gehouden aan het productschap ten minste de onderstaande documen
 
 ###Artikel 9 
 
-1. De importeur is gehouden de nationale voorschriften omtrent identificatie en registratie zoals deze zijn opgenomen in de [Regeling identificatie en registratie van dieren](../../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md) na te leven. Tevens is de importeur gehouden te voldoen aan de communautaire identificatie- en registratievoorschriften zoals gesteld bij of krachtens Verordening (EG) Nr. 1760/2000.
+1. De importeur is gehouden de nationale voorschriften omtrent identificatie en registratie zoals deze zijn opgenomen in de Regeling identificatie en registratie van dieren na te leven. Tevens is de importeur gehouden te voldoen aan de communautaire identificatie- en registratievoorschriften zoals gesteld bij of krachtens Verordening (EG) Nr. 1760/2000.
 2. De importeur dient ervoor zorg te dragen dat het in de transscriptielijst opgenomen nationale merk aan het ingevoerde rund bevestigd blijft.
 3. Ingeval van tussentijds verlies van het in het tweede lid bedoelde merk dient de importeur uiterlijk de dag voor aanvang van de door het productschap uit te voeren controle, de volgende gegevens schriftelijk te melden:
 
@@ -123,7 +123,7 @@ het nummer van het verloren merk,
 
 het nummer van het nieuw aangebrachte merk, en
 
-de plaats waar het rund zich bevindt.Verlies van een merk dient tevens direct te worden gemeld aan het bij of krachtens de [Regeling identificatie en registratie van dieren](../../../../../../../../../../../../ministeriele-regeling/regeling/identificatie/en/registratie/van/dieren/BWBR0014538/README.md), ingestelde identificatie en registratiesysteem.
+de plaats waar het rund zich bevindt.Verlies van een merk dient tevens direct te worden gemeld aan het bij of krachtens de Regeling identificatie en registratie van dieren, ingestelde identificatie en registratiesysteem.
 4. De importeur dient in zijn administratie zowel het nationale merk op te nemen als het nummer van het door een buitenlandse instantie verstrekte oorspronkelijke merk van het land van herkomst.
 
 ###Artikel 10 
@@ -160,7 +160,7 @@ De importeur die bergrassen invoert in het kader van de in de Verordening (EG) N
 
 ###Artikel 12 
 
-De [Verordening invoer runderen in het kader van tariefcontingenten bergrassen 2001](../../../../../../../../../../../../pbo/verordening/invoer/runderen/in/het/kader/van/tariefcontingenten/bergrassen/etc/BWBR0012563/README.md) wordt ingetrokken.
+De Verordening invoer runderen in het kader van tariefcontingenten bergrassen 2001 wordt ingetrokken.
 
 ###Artikel 13 
 

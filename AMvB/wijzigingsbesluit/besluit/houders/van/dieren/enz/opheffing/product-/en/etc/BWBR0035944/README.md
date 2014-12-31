@@ -14,12 +14,10 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 4 december
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt het Besluit houders van dieren. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Archiefbescheiden van het Productschap Pluimvee en Eieren betreffende zaken die op grond van dit besluit worden behartigd door Onze Minister, worden overgedragen aan Onze Minister, voor zover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats. 
 

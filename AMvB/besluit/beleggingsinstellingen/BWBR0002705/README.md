@@ -6,7 +6,7 @@ Wij JULIANA, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Financiën van 29 december 1969, nr. B 69/23370, Directie Wetgeving directe belastingen;
 
-Gelet op artikel 28, eerste lid, en tweede lid, letter *b,* en artikel 31, derde lid, letters *a, b* en *c,* van de [Wet op de vennootschapsbelasting 1969](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) (*Stb.* 469);
+Gelet op artikel 28, eerste lid, en tweede lid, letter *b,* en artikel 31, derde lid, letters *a, b* en *c,* van de Wet op de vennootschapsbelasting 1969 (*Stb.* 469);
 
 De Raad van State gehoord (advies van 21 januari 1970, nr. 8);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-Dit besluit verstaat onder wet: de [Wet op de vennootschapsbelasting 1969](../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md). 
+Dit besluit verstaat onder wet: de Wet op de vennootschapsbelasting 1969. 
 
 ### Artikel  1a  
 
@@ -32,7 +32,7 @@ b. de giften voor zover deze op grond van artikel 16, eerste lid, van de wet nie
 
 c. de belasting die buiten Nederland in enige vorm naar de winst wordt geheven over voordelen uit niet in Nederland gelegen onroerende zaken, indien voor de beleggingsinstelling te dier zake een regeling ter voorkoming van dubbele belasting van toepassing is;  
 
-d. de kosten en lasten voorzover deze op grond van artikel 8 van de wet in verbinding met [artikel 3.14](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) en [3.15 van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) niet aftrekbaar zijn;  
+d. de kosten en lasten voorzover deze op grond van artikel 8 van de wet in verbinding met artikel 3.14 en 3.15 van de Wet inkomstenbelasting 2001 niet aftrekbaar zijn;  
 
 e. de belasting die wordt geheven op grond van Artikel IV, onderdeel B, van Hoofdstuk 2 van de Invoeringswet Inkomstenbelasting 2001.     
 3.   Als uitdelingstekort wordt aangemerkt hetzij het verlies van een jaar vermeerderd met de in het tweede lid onder de onderdelen a, b, c, d en e bedoelde bedragen, hetzij het negatieve bedrag waartoe de in dat lid bedoelde verminderingen van de belastbare winst mochten leiden.   
@@ -47,7 +47,7 @@ In aanvulling op artikel 8 van de wet wordt uitreiking van aandelen aan een bele
 ### Artikel  4  
 
 1.  Beleggingsinstellingen die daarvoor kiezen, kunnen een herbeleggingsreserve vormen. Deze keuze geldt ook voor volgende jaren.   
-2.  In de reserve wordt opgenomen een bedrag gelijk aan het in het jaar volgens goed koopmansgebruik berekende saldo van koerswinsten en koersverliezen op effecten en van winsten en verliezen ter zake van vervreemding van overige beleggingen verminderd met een evenredig gedeelte van de kosten die met het beheer van de beleggingen verband houden.   
+2.  In de reserve wordt opgenomen een bedrag gelijk aan de som van het in het jaar volgens goed koopmansgebruik berekende saldo van koerswinsten en koersverliezen op effecten, het saldo van winsten en verliezen ter zake van de vervreemding van overige beleggingen en het ingevolge artikel 10, vierde lid, berekende saldo van herwaarderingswinsten en herwaarderingsverliezen verminderd met een evenredig gedeelte van de kosten die met het beheer van de beleggingen verband houden.   
 3.  Op de herbeleggingsreserve wordt in mindering gebracht een evenredig gedeelte van het totaal van de bedragen, bedoeld in artikel 2, tweede lid, onderdelen a tot en met e.   
 4.  Indien de toepassing van het tweede en derde lid zou leiden tot een vermindering van de reserve die groter is dan de herbeleggingsreserve aan het begin van het jaar, blijft de vermindering beperkt tot de omvang van de reserve aan het begin van het jaar, en wordt het nog niet in mindering gebrachte deel aangemerkt als een verlies ter zake van vervreemding van beleggingen in het volgende jaar. De inspecteur stelt het naar het volgende jaar over te brengen verlies vast bij voor bezwaar vatbare beschikking.   
 5.  De reserve wordt bij het einde van een jaar niet hoger vastgesteld dan: 
@@ -70,7 +70,7 @@ b. de boekwaarde van de beleggingen.
 
 ### Artikel  8  
 
-1.  De inspecteur stelt de bedragen van de toevoeging aan of de vermindering van onderscheidenlijk de herbeleggingsreserve en de afrondingsreserve bij voor bezwaar vatbare beschikking vast. [Artikel 11, derde en vierde lid, van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (*Stb.* 301) is van overeenkomstige toepassing.   
+1.  De inspecteur stelt de bedragen van de toevoeging aan of de vermindering van onderscheidenlijk de herbeleggingsreserve en de afrondingsreserve bij voor bezwaar vatbare beschikking vast. Artikel 11, derde en vierde lid, van de Algemene wet inzake rijksbelastingen (*Stb.* 301) is van overeenkomstige toepassing.   
 2.   Indien enig feit grond oplevert voor het vermoeden dat een toevoeging tot een te laag bedrag of een vermindering tot een te hoog bedrag is vastgesteld, kan de inspecteur de in het eerste lid bedoelde beschikking herzien bij voor bezwaar vatbare beschikking. Een feit dat de inspecteur bekend was of redelijkerwijs bekend had kunnen zijn, kan geen grond voor herziening opleveren. De bevoegdheid tot herziening vervalt door verloop van vijf jaren na het einde van het jaar waarop de beschikking betrekking heeft. Indien voor het doen van aangifte uitstel is verleend, wordt de termijn van vijf jaren met de duur van dit uitstel verlengd.  
 
 ### Artikel  9  
@@ -79,13 +79,14 @@ Ten aanzien van beleggingsinstellingen bedraagt de belasting nul percent van het
 
 ### Artikel  10  
 
-1.  Een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid of een fonds voor gemene rekening wordt uitsluitend met ingang van een jaar als beleggingsinstelling aangemerkt. Ingeval het lichaam vóór dat tijdstip reeds aan de heffing van vennootschapsbelasting is onderworpen, is dit het jaar volgende op dat waarin aan het bepaalde in het tweede lid is voldaan.   
-2.   Aan het einde van het jaar, voorafgaande aan dat met ingang waarvan een naamloze vennootschap, een besloten vennootschap met beperkte aansprakelijkheid of een fonds voor gemene rekening als beleggingsinstelling wordt aangemerkt, worden:  
+1.  Een lichaam wordt uitsluitend met ingang van een jaar als beleggingsinstelling aangemerkt. Ingeval het lichaam vóór dat tijdstip reeds aan de heffing van vennootschapsbelasting is onderworpen, is dit het jaar volgende op dat waarin aan het bepaalde in het tweede lid is voldaan.   
+2.   Aan het einde van het jaar, voorafgaande aan dat met ingang waarvan een lichaam als beleggingsinstelling wordt aangemerkt, worden:  
 
 a. de bezittingen te boek gesteld voor de waarde welke daaraan in het economische verkeer kan worden toegekend;  
 
-b. de reserves als bedoeld zijn in [artikel 3.53, eerste lid, van de Wet inkomstenbelasting 2001](../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), opgenomen in de winst.     
-3.   Ingeval een beleggingsinstelling in de loop van een jaar niet langer voldoet aan het bepaalde in artikel 28, tweede lid, van de wet wordt het lichaam reeds met ingang van dat jaar niet meer als beleggingsinstelling aangemerkt, met dien verstande dat ingeval niet wordt voldaan aan het bepaalde in het tweede lid, onderdeel *b,* van dat artikel het lichaam niet meer als beleggingsinstelling wordt aangemerkt met ingang van het jaar waarop de voor uitdeling beschikbare winst betrekking heeft. De bij het begin van het jaar, met ingang waarvan het lichaam niet meer als beleggingsinstelling wordt aangemerkt, aanwezige afrondingsreserve wordt opgenomen in de winst van dat jaar.  
+b. de reserves als bedoeld zijn in artikel 3.53, eerste lid, van de Wet inkomstenbelasting 2001, opgenomen in de winst.     
+3.   Ingeval een beleggingsinstelling in de loop van een jaar niet langer voldoet aan het bepaalde in artikel 28, tweede lid, van de wet wordt het lichaam reeds met ingang van dat jaar niet meer als beleggingsinstelling aangemerkt, met dien verstande dat ingeval niet wordt voldaan aan het bepaalde in het tweede lid, onderdeel *b,* van dat artikel het lichaam niet meer als beleggingsinstelling wordt aangemerkt met ingang van het jaar waarop de voor uitdeling beschikbare winst betrekking heeft. De bij het begin van het jaar, met ingang waarvan het lichaam niet meer als beleggingsinstelling wordt aangemerkt, aanwezige afrondingsreserve wordt opgenomen in de winst van dat jaar.   
+4.  Aan het einde van het jaar, voorafgaande aan dat met ingang waarvan een lichaam niet langer als beleggingsinstelling wordt aangemerkt, worden de beleggingen te boek gesteld voor de waarde welke daaraan in het economische verkeer kan worden toegekend. 
 
 ### Artikel  12  
 

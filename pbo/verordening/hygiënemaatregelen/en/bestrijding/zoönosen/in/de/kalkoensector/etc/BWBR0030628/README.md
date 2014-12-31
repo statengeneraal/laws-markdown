@@ -3,13 +3,13 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 9 juni 2011, houdende vaststelling van hygiënemaatregelen en uitvoering van een nationaal programma ter zake van de bewaking en bestrijding van Salmonella en van de bewaking van Campylobacter in de kalkoensector (Verordening hygiënemaatregelen en bestrijding zoönosen in de kalkoensector (PPE) 2011)
 
 Het bestuur van het Productschap Pluimvee en Eieren, 
-Gelet op de [artikelen 3](../../../../../../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md) en [3a van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten](../../../../../../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md) en de [artikelen 95](../../../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) en [96 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's](../../../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md);
+Gelet op de artikelen 3 en 3a van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten en de artikelen 95 en 96 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's;
 
-Gelet op de [artikelen 93, eerste lid](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de [artikelen 6](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md) en [7 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md);
+Gelet op de artikelen 93, eerste lid, 95, 102 en 104 van de Wet op de bedrijfsorganisatie, en de artikelen 6 en 7 van het Instellingsbesluit Productschap Pluimvee en Eieren;
 
 Gezien Richtlijn 2003/99/EG van het Europees Parlement en de Raad van 17 november 2003 inzake de bewaking van zoönoses en zoönoseverwekkers en houdende wijziging van Beschikking 90/424/EEG van de Raad en intrekking van Richtlijn 92/117/EEG van de Raad (PbEU L 325), Verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad van 17 november 2003 inzake de bestrijding van Salmonella en andere specifieke door voedsel overgedragen zoönoseverwekkers (PbEU L 325) en;
 
-Gezien de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md);
+Gezien de Wet tuchtrechtspraak bedrijfsorganisatie 2004;
 Besluit: 
 
 ####Begripsbepalingen
@@ -50,7 +50,7 @@ In deze Verordening en de daarop berustende besluiten wordt verstaan onder:
 | 17  | ruimen  |: | het op last van de voorzitter verwijderen van kalkoenen van het kalkoenbedrijf of de kalkoenkuikenbroederij en het vervolgens laten doden en vernietigen dan wel verwerken van kalkoenen(vlees);  |
 | 18  | verwerken  |: | het zodanig behandelen van broedeieren van een met Salmonella besmet stalkoppel dat de uitschakeling van Salmonella is gewaarborgd overeenkomstig de communautaire wetgeving inzake levensmiddelenhygiëne.  |
 
-Voor het overige worden de begripsbepalingen van de [Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011](../../../../../../../../../../../pbo/verordening/hygiënemaatregelen/en/bestrijding/zoönosen/in/etc/BWBR0030630/README.md) overgenomen. 
+Voor het overige worden de begripsbepalingen van de Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011 overgenomen. 
 
 ####Algemene hygiënemaatregelen
 
@@ -282,7 +282,7 @@ e. voor het overige alle medewerking te verlenen ter vervulling van de aan de to
 ###Artikel  19 
 
 1.  Overtreding van het bij of krachtens artikel 5, eerste, vierde, vijfde en zevende lid, artikel 8, derde lid en artikel 11, eerste en tweede lid, bepaalde, is een strafbaar feit. 
-2.  Op overtreding van het bepaalde bij of krachtens de overige artikelen van deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).
+2.  Op overtreding van het bepaalde bij of krachtens de overige artikelen van deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.
 
 ####Ontheffing en vrijstelling
 
@@ -304,8 +304,8 @@ De op grond van deze verordening door het bestuur vast te stellen besluiten word
 
 ###Artikel  23 
 
-1.  De [Verordening hygiënevoorschriften kalkoenhouderij (PPE) 2009](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/kalkoenhouderij/(ppe)/2009/BWBR0028052/README.md) wordt ingetrokken. 
-2.  Elke verwijzing naar de [Verordening hygiënevoorschriften kalkoenhouderij (PPE) 2009](../../../../../../../../../../../pbo/verordening/hygiënevoorschriften/kalkoenhouderij/(ppe)/2009/BWBR0028052/README.md) in de regelgeving van het productschap wordt geacht te verwijzen naar deze verordening.
+1.  De Verordening hygiënevoorschriften kalkoenhouderij (PPE) 2009 wordt ingetrokken. 
+2.  Elke verwijzing naar de Verordening hygiënevoorschriften kalkoenhouderij (PPE) 2009 in de regelgeving van het productschap wordt geacht te verwijzen naar deze verordening.
 
 ###Artikel  24 
 

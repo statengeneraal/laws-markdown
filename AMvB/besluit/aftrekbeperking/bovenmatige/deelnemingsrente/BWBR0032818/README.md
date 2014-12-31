@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Financiën van 16 november 2012, DB/2012/434M;
 
-Gelet op de [artikelen 13l, elfde lid](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), en [15ad, negende lid, van de Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);
+Gelet op de artikelen 13l, elfde lid, en 15ad, negende lid, van de Wet op de vennootschapsbelasting 1969;
 
 De Afdeling advisering van de Raad van State gehoord (advies van 12 december 2012, nr. W06.12.0471/III);
 
@@ -17,29 +17,29 @@ Hebben goedgevonden en verstaan:
 
 ####Reikwijdte en definities
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 13l, elfde lid](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), en [15ad, negende lid, van de Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).   
+1.  Dit besluit geeft uitvoering aan de artikelen 13l, elfde lid, en 15ad, negende lid, van de Wet op de vennootschapsbelasting 1969.   
 2.  Dit besluit verstaat onder: 
 
-a.  *wet:* de [Wet op de vennootschapsbelasting 1969](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);  
+a.  *wet:* de Wet op de vennootschapsbelasting 1969;  
 
-b.  *concern:* de belastingplichtige tezamen met de met hem verbonden lichamen, bedoeld in [artikel 10a, vierde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);  
+b.  *concern:* de belastingplichtige tezamen met de met hem verbonden lichamen, bedoeld in artikel 10a, vierde lid, van de wet;  
 
-c.  *verkrijgingsprijs:* de verkrijgingsprijs, bedoeld in [artikel 13l, derde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);  
+c.  *verkrijgingsprijs:* de verkrijgingsprijs, bedoeld in artikel 13l, derde lid, van de wet;  
 
-d.  *fiscale eenheid:* een fiscale eenheid in de zin van de [artikelen 15](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) en [15a van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);  
+d.  *fiscale eenheid:* een fiscale eenheid in de zin van de artikelen 15 en 15a van de wet;  
 
-e.  *moedermaatschappij:* moedermaatschappij als bedoeld in [artikel 15, eerste lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);  
+e.  *moedermaatschappij:* moedermaatschappij als bedoeld in artikel 15, eerste lid, van de wet;  
 
-f.  *dochtermaatschappij:* dochtermaatschappij als bedoeld in [artikel 15, eerste lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);  
+f.  *dochtermaatschappij:* dochtermaatschappij als bedoeld in artikel 15, eerste lid, van de wet;  
 
-g.  *voegingstijdstip:* het tijdstip, bedoeld in [artikel 15aa, eerste lid, onderdeel b, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);  
+g.  *voegingstijdstip:* het tijdstip, bedoeld in artikel 15aa, eerste lid, onderdeel b, van de wet;  
 
-h.  *geldlening:* een geldlening als bedoeld in [artikel 13l, achtste lid, onderdeel a, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);  
+h.  *geldlening:* een geldlening als bedoeld in artikel 13l, achtste lid, onderdeel a, van de wet;  
 
-i.  *deelneming:* een deelneming als bedoeld in [artikel 13l, achtste lid, onderdeel b, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);  
+i.  *deelneming:* een deelneming als bedoeld in artikel 13l, achtste lid, onderdeel b, van de wet;  
 
-j.  *renten en kosten ter zake van schulden:* de renten en kosten ter zake van schulden, bedoeld in [artikel 15ad, tiende lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).     
-3.  Voor de toepassing van dit besluit worden onder aandelen mede verstaan: winstbewijzen, bewijzen van deelgerechtigdheid, lidmaatschapsrechten in een coöperatie of een vereniging op coöperatieve grondslag, aandelen van een commanditair vennoot in een open commanditaire vennootschap en schuldvorderingen als bedoeld in [artikel 10, eerste lid, onderdeel d, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md).  
+j.  *renten en kosten ter zake van schulden:* de renten en kosten ter zake van schulden, bedoeld in artikel 15ad, tiende lid, van de wet.     
+3.  Voor de toepassing van dit besluit worden onder aandelen mede verstaan: winstbewijzen, bewijzen van deelgerechtigdheid, lidmaatschapsrechten in een coöperatie of een vereniging op coöperatieve grondslag, aandelen van een commanditair vennoot in een open commanditaire vennootschap en schuldvorderingen als bedoeld in artikel 10, eerste lid, onderdeel d, van de wet.  
 
 ### Artikel  2  
 
@@ -51,21 +51,21 @@ a. ingeval:
 
 1°. de bezittingen van een tot het concern behorend lichaam zich wijzigen als gevolg van een verkrijging van aandelen van een ander tot het concern behorend lichaam, of  
 
-2°. aandelen worden verkregen in een lichaam waarin door een tot het concern behorend lichaam aandelen zijn ingebracht tegen uitreiking van aandelen en eerstgenoemd lichaam tot het concern behoort of als gevolg van die uitreiking tot het concern gaat behoren;    
+2°. aandelen worden verkregen in een lichaam waarin door een tot het concern behorend lichaam aandelen zijn ingebracht of waarop door een tot het concern behorend lichaam gehouden aandelen zijn overgegaan, dan wel aandelen worden verkregen in een met het eerstbedoelde lichaam verbonden lichaam als bedoeld in artikel 10a, vierde lid, van de wet, en de verkregen aandelen een deelneming vormen en de ingebrachte of overgegane aandelen een deelneming vormden van een tot het concern behorend lichaam of een deelneming van een tot het concern behorend lichaam zouden hebben gevormd ingeval dat tot het concern behorende lichaam in Nederland zou zijn gevestigd;    
 
-b. ingeval vermogensbestanddelen, niet zijnde aandelen, worden verkregen door, dan wel ingebracht tegen uitreiking van aandelen in een lichaam dat tot het concern behoort of als gevolg van die uitreiking tot het concern gaat behoren.   De eerste volzin is van overeenkomstige toepassing ingeval de inbreng in de vorm van een storting van kaptaal in het verkrijgende lichaam plaatsvindt waarbij de verhoging van het gestorte kapitaal gelijk wordt gesteld met een uitreiking van aandelen. 
+b. ingeval vermogensbestanddelen, niet zijnde aandelen, worden verkregen door, dan wel ingebracht tegen uitreiking van aandelen in een lichaam waarin een tot het concern behorend lichaam een deelneming heeft of als gevolg van de uitreiking van de aandelen verkrijgt, dan wel een deelneming zou hebben of verkrijgen indien laatstgenoemd lichaam in Nederland zou zijn gevestigd.   De eerste volzin is van overeenkomstige toepassing ingeval de inbreng in de vorm van een storting van kapitaal in het verkrijgende lichaam plaatsvindt waarbij de verhoging van het gestorte kapitaal gelijk wordt gesteld met een uitreiking van aandelen. 
 
 ### Artikel  3  
 
 ####Kwalificerend deel verkrijgingsprijs
 
-Het kwalificerende deel van de verkrijgingsprijs van aandelen is het volgens dit besluit te bepalen deel van de verkrijgingsprijs van aandelen dat voor de toepassing van [artikel 13l, vijfde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) geacht wordt verband te houden met een uitbreiding van de operationele activiteiten. 
+Het kwalificerende deel van de verkrijgingsprijs van aandelen is het volgens dit besluit te bepalen deel van de verkrijgingsprijs van aandelen dat voor de toepassing van artikel 13l, vijfde lid, van de wet geacht wordt verband te houden met een uitbreiding van de operationele activiteiten. 
 
 ### Artikel  4  
 
 ####Verkrijging van aandelen
 
-1.  Bij een reorganisatie als bedoeld in artikel 2, onderdeel a, wordt het kwalificerende deel van de verkrijgingsprijs van de verkregen aandelen gesteld op de verkrijgingsprijs van deze aandelen bij eerste verkrijging daarvan door het concern vermeerderd met de op die aandelen gedane kapitaalstortingen en verminderd met de terugbetalingen van kapitaal, doch ten hoogste op het bedrag van de verkrijgingsprijs op het tijdstip van de verkrijging door de belastingplichtige, voor zover: 
+1.  Bij een reorganisatie als bedoeld in artikel 2, onderdeel a, wordt het kwalificerende deel van de verkrijgingsprijs van de verkregen aandelen gesteld op de verkrijgingsprijs van de aandelen die deel uitmaken van de reorganisatie bij eerste verkrijging daarvan door het concern vermeerderd met de op die aandelen gedane kapitaalstortingen en verminderd met de terugbetalingen van kapitaal, doch ten hoogste op het bedrag van de verkrijgingsprijs op het tijdstip van de verkrijging door de belastingplichtige, voor zover: 
 
 a. de hiervoor bedoelde eerste verkrijging en de kapitaalstortingen verband hielden met een uitbreiding van de operationele activiteiten, en  
 
@@ -96,9 +96,9 @@ a. van de aandelen in die maatschappij gesteld:
 2°. indien die maatschappij binnen de fiscale eenheid is opgericht: op het in die maatschappij bijeengebrachte kapitaal;    
 
 b. van de aandelen die tot de bezittingen van die maatschappij behoren, gesteld op de verkrijgingsprijs van deze aandelen bij de fiscale eenheid, dan wel, indien dit lager is, de verkrijgingsprijs van de aandelen bij eerste verkrijging door het concern.   Het kwalificerende deel van de verkrijgingsprijs wordt bepaald met overeenkomstige toepassing van de artikelen 4 en 5.   
-3.  Indien sprake is van een fiscale eenheid in de zin van [artikel 15a van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), wordt voor de toepassing van dit artikel verstaan onder: 
+3.  Indien sprake is van een fiscale eenheid in de zin van artikel 15a van de wet, wordt voor de toepassing van dit artikel verstaan onder: 
 
-a.  *moedermaatschappij:* de centrale maatschappij, bedoeld in [artikel 15a van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md);  
+a.  *moedermaatschappij:* de centrale maatschappij, bedoeld in artikel 15a van de wet;  
 
 b.  *dochtermaatschappij:* het lid van de centrale maatschappij.   De eerste volzin is van overeenkomstige toepassing op onderlinge waarborgmaatschappijen.  
 
@@ -106,8 +106,8 @@ b.  *dochtermaatschappij:* het lid van de centrale maatschappij.   De eerste vol
 
 ####Samenloop met aftrekbeperking overnameholding
 
-1.  Ingeval door het aangaan van een fiscale eenheid een bedrag aan renten en kosten ter zake van schulden ingevolge [artikel 15ad van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) niet in aftrek komt en tot de bezittingen van de maatschappij waarmee de fiscale eenheid wordt aangegaan een of meerdere deelnemingen behoren die als gevolg van de voeging als deelnemingen van de moedermaatschappij van de fiscale eenheid worden aangemerkt, wordt genoemd bedrag aan renten en kosten dat niet in aftrek komt verminderd naar evenredigheid van het deel van de verkrijgingsprijs van de aandelen in die maatschappij dat toerekenbaar is aan die deelnemingen, voor zover de verkrijgingsprijs van die deelnemingen bij de fiscale eenheid in aanmerking wordt genomen voor het bepalen van de deelnemingschuld, bedoeld in [artikel 13l, derde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md). De vermindering, bedoeld in de eerste volzin, bedraagt ten hoogste het bedrag aan bovenmatige deelnemingsrente dat bij de belastingplichtige ingevolge artikel 13l van de wet niet in aftrek komt.   
-2.  Het eerste lid is van overeenkomstige toepassing met betrekking tot een bedrag aan renten en kosten ter zake van schulden dat ingevolge de [artikelen 14a, twaalfde of veertiende lid](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md), of [14b, negende of elfde lid, van de wet](../../../../../../wet/wet/op/de/vennootschapsbelasting/1969/BWBR0002672/README.md) niet in aftrek komt.  
+1.  Ingeval door het aangaan van een fiscale eenheid een bedrag aan renten en kosten ter zake van schulden ingevolge artikel 15ad van de wet niet in aftrek komt en tot de bezittingen van de maatschappij waarmee de fiscale eenheid wordt aangegaan een of meerdere deelnemingen behoren die als gevolg van de voeging als deelnemingen van de moedermaatschappij van de fiscale eenheid worden aangemerkt, wordt genoemd bedrag aan renten en kosten dat niet in aftrek komt verminderd naar evenredigheid van het deel van de verkrijgingsprijs van de aandelen in die maatschappij dat toerekenbaar is aan die deelnemingen, voor zover de verkrijgingsprijs van die deelnemingen bij de fiscale eenheid in aanmerking wordt genomen voor het bepalen van de deelnemingschuld, bedoeld in artikel 13l, derde lid, van de wet. De vermindering, bedoeld in de eerste volzin, bedraagt ten hoogste het bedrag aan bovenmatige deelnemingsrente dat bij de belastingplichtige ingevolge artikel 13l van de wet niet in aftrek komt.   
+2.  Het eerste lid is van overeenkomstige toepassing met betrekking tot een bedrag aan renten en kosten ter zake van schulden dat ingevolge de artikelen 14a, twaalfde of veertiende lid, of 14b, negende of elfde lid, van de wet niet in aftrek komt.  
 
 ### Artikel  8  
 

@@ -1159,9 +1159,11 @@ Afdeling 6.1 van de Wet ruimtelijke ordening blijft buiten toepassing, voor zove
 1.  Er is een deltafonds.   
 2.  Het deltafonds heeft ten doel de financiering en bekostiging van: 
 
-a. maatregelen en voorzieningen in verband met de opgaven op het gebied van waterveiligheid en zoetwatervoorziening, bedoeld in artikel 4.9, tweede lid;  
+a. maatregelen en voorzieningen ter voorkoming en waar nodig beperking van overstromingen, wateroverlast en waterschaarste;  
 
-b. het inwinnen, bewerken en verspreiden van met onderdeel a samenhangende gegevens en het verrichten van met onderdeel a samenhangende onderzoeken.    
+b. maatregelen en voorzieningen ter bescherming of verbetering van de chemische of ecologische kwaliteit van watersystemen;  
+
+c. het inwinnen, bewerken en verspreiden van met de onderdelen a en b samenhangende gegevens en het verrichten van met de onderdelen a en b samenhangende onderzoeken.    
 
 ### Artikel  7.22b  
 
@@ -1183,25 +1185,25 @@ d. andere ontvangsten in het kader van het bereiken van de doelen van het deltaf
 
 ### Artikel  7.22d  
 
-1.  Ten laste van het deltafonds komen in verband met de opgaven, bedoeld in artikel 4.9, tweede lid, de uitgaven ten behoeve van: 
+1.  Ten laste van het deltafonds komen de uitgaven ten behoeve van: 
 
 a. aanleg, verbetering, beheer, onderhoud en bediening van waterstaatswerken die bij het Rijk in beheer zijn of zullen zijn, ter voorkoming en waar nodig beperking van overstromingen en waterschaarste;  
 
-b. maatregelen en voorzieningen ter bescherming of verbetering van de chemische of ecologische kwaliteit van watersystemen, voor zover deze onderdeel uitmaken van de opgaven, bedoeld in artikel 4.9, tweede lid, onderdeel a, en;  
+b. maatregelen en voorzieningen ter bescherming of verbetering van de chemische of ecologische kwaliteit van watersystemen;  
 
 c. het inwinnen, bewerken en verspreiden van met de onderdelen a en b samenhangende gegevens;  
 
 d. met de onderdelen a en b samenhangende onderzoeken.     
-2.  Onze Minister kan in verband met de opgaven, bedoeld in artikel 4.9, tweede lid, uit het deltafonds subsidies vertrekken ten behoeve van: 
+2.  Onze Minister kan uit het deltafonds subsidies vertrekken ten behoeve van: 
 
 a. aanleg, verbetering, beheer, onderhoud en bediening van waterstaatswerken die niet bij het Rijk in beheer zijn of zullen zijn, ter voorkoming en waar nodig beperking van overstromingen en waterschaarste;  
 
-b. maatregelen en voorzieningen ter bescherming of verbetering van de chemische of ecologische kwaliteit van watersystemen, voor zover deze onderdeel uitmaken van de opgaven, bedoeld in artikel 4.9, tweede lid, onderdeel a;  
+b. maatregelen en voorzieningen ter bescherming of verbetering van de chemische of ecologische kwaliteit van watersystemen;  
 
 c. met de onderdelen a en b samenhangende onderzoeken.     
 3.  Op subsidies die ten laste komen van het deltafonds zijn de artikelen 3 tot en met 6 van de Kaderwet subsidies Verkeer en Waterstaat van toepassing.   
 4.  Subsidies als bedoeld in het tweede lid die worden verleend ten laste van een begroting die nog niet is vastgesteld, worden verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.   
-5.  Ten laste van het deltafonds kunnen eveneens uitgaven worden gebracht ten behoeve van maatregelen en voorzieningen als bedoeld in artikel 7.22a, tweede lid, onderdeel a, alsmede ten behoeve van het inwinnen, verspreiden en bewerken van gegevens en het doen van onderzoek als bedoeld in artikel 7.22a, tweede lid, onderdeel b, met betrekking tot buiten het Nederlandse grondgebied gelegen delen van de stroomgebieddistricten Eems, Maas, Rijn en Schelde.   
+5.  Ten laste van het deltafonds kunnen eveneens uitgaven worden gebracht ten behoeve van maatregelen en voorzieningen als bedoeld in artikel 7.22a, tweede lid, onderdelen a en b, alsmede ten behoeve van het inwinnen, verspreiden en bewerken van gegevens en het doen van onderzoek als bedoeld in artikel 7.22a, tweede lid, onderdeel c, met betrekking tot buiten het Nederlandse grondgebied gelegen delen van de stroomgebieddistricten Eems, Maas, Rijn en Schelde.   
 6.  Ten laste van het deltafonds komen tevens uitgaven ten behoeve van het bureau ter ondersteuning van de werkzaamheden van de deltacommissaris, de huisvestingskosten van het bureau en verdere aan de taakvervulling van de deltacommissaris verbonden uitgaven.   
 7.  Ten laste van het deltafonds komen voorts andere uitgaven in het kader van het bereiken van de doelen van dat fonds.   
 8.  Ten laste van de begroting van enig jaar wordt het nadelige saldo van het deltafonds van het voorafgaande jaar gebracht.  

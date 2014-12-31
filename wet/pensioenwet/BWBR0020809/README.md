@@ -28,7 +28,7 @@ Voor de toepassing van deze wet en de daarop berustende bepalingen wordt verstaa
 
 – afkoop: iedere handeling waardoor pensioenaanspraken of pensioenrechten hun pensioenbestemming verliezen;  
 
-– arbeidsongeschiktheidspensioen: een geldelijke, vastgestelde uitkering wegens arbeidsongeschiktheid van de werknemer of gewezen werknemer, waarop recht bestaat na afloop van de periode bedoeld in artikel 29, eerste lid, van de Ziektewet of, indien de werknemer of gewezen werknemer Ziektewetuitkering ontvangt, na afloop van de periode bedoeld in artikel 29, vijfde en negende lid, van de Ziektewet;  
+– arbeidsongeschiktheidspensioen: een geldelijke, vastgestelde uitkering wegens arbeidsongeschiktheid van de werknemer of gewezen werknemer, waarop recht bestaat na afloop van de periode bedoeld in artikel 29, eerste lid, van de Ziektewet of, indien de werknemer of gewezen werknemer Ziektewetuitkering ontvangt, na afloop van de periode bedoeld in artikel 29, vijfde en tiende lid, van de Ziektewet;  
 
 – basispensioenregeling: de collectieve pensioenregeling of het deel van de pensioenregeling waaraan de werknemer op basis van de pensioenovereenkomst gehouden is om deel te nemen;  
 
@@ -77,6 +77,8 @@ c. houder van certificaten van aandelen, uitgegeven door tussenkomst van een adm
 – lidstaat: een lidstaat van de Europese Unie alsmede een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de Overeenkomst betreffende Europese Economische Ruimte;  
 
 – nabestaandenpensioen: partnerpensioen of wezenpensioen;  
+
+– nettopensioen: ouderdomspensioen of nabestaandenpensioen in de vorm van een nettopensioen als bedoeld in afdeling 5.3B van de Wet inkomstenbelasting 2001; 
 
 – ondernemingspensioenfonds:
 
@@ -230,7 +232,8 @@ d. kunnen regels worden gesteld betreffende een goede uitvoering.
 10.  De regeling, bedoeld in het negende lid, is uitsluitend van toepassing indien de pensioendatum is gelegen na 31 december 2008 en het op de pensioendatum beschikbaar komende kapitaal nog niet is aangewend voor aankoop van een levenslange uitkering.  
 11.  Bij samenvoeging van pensioenfondsen als bedoeld in de definitie van ondernemingspensioenfonds in artikel 1, geldt als voorwaarde dat de afzonderlijke pensioenfondsen voor de samenvoeging gedurende een periode van ten minste 5 jaar waren verbonden aan een onderneming of groep, tenzij de samenvoeging plaatsvindt omdat de ondernemingen of groepen waaraan de pensioenfondsen waren verbonden een onderneming of groep zijn geworden.   
 12.  Bij een ondernemingspensioenfonds dat pensioenregelingen uitvoert voor meerdere ondernemingen of groepen als bedoeld in de definitie van artikel 1 kan een uitvoeringsovereenkomst worden beëindigd overeenkomstig de hierover in de statuten opgenomen bepalingen. 
-13.  Waar in deze wet sprake is van de Nederlandse sociale en arbeidswetgeving betreft dit in ieder geval de artikelen 1, 2, 4, 7 tot en met 29, 31, 35 tot en met 53, 55 tot en met 95, 97 en 98 van deze wet.
+13.  Waar in deze wet sprake is van de Nederlandse sociale en arbeidswetgeving betreft dit in ieder geval de artikelen 1, 2, 4, 7 tot en met 29, 31, 35 tot en met 53, 55 tot en met 95, 97 en 98 van deze wet. 
+14.  Een nettolijfrente als bedoeld in artikel 5.16, tweede lid, van de Wet inkomstenbelasting 2001 is geen pensioen in de zin van deze wet. 
 
 ### §  1.2  
 
@@ -763,8 +766,6 @@ c. de toeslagverlening.
 
 ####Informatie over uitvoeringskosten
 
-Treedt in werking per 01-01-2015 
-
 1.  Een pensioenfonds neemt in zijn jaarverslag informatie op over de uitvoeringskosten over het voorafgaande verslagjaar, waarbij worden onderscheiden: administratieve uitvoeringskosten, de kosten van vermogensbeheer en transactiekosten.   
 2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel.  
 
@@ -905,7 +906,8 @@ a. de pensioenuitvoerder bereid is een eventueel uit die overdracht voortvloeien
 
 b. de vervreemding onherroepelijk is; en  
 
-c. dit wordt overeengekomen bij notarieel verleden akte.    
+c. dit wordt overeengekomen bij notarieel verleden akte.     
+6.  Indien na toepassing van het eerste of tweede lid de gewezen partner overlijdt voordat de deelnemer of gewezen deelnemer overlijdt, maakt de aanspraak op het partnerpensioen vanaf het moment van overlijden van de gewezen partner weer deel uit van de pensioenaanspraken van de deelnemer of gewezen deelnemer, bedoeld in het eerste en tweede lid, voor zover dit in de betrokken pensioenregeling is bepaald. 
 
 ### Artikel  58  
 
@@ -1054,12 +1056,12 @@ e.in het kader van een verrekening van pensioenrechten bij scheiding de waarde v
 
 ####Afkoop klein ouderdomspensioen bij beëindiging deelneming
 
-1.  De pensioenuitvoerder heeft het recht om op zijn vroegst twee jaar na beëindiging van de deelneming pensioenaanspraken van een gewezen deelnemer af te kopen, indien op basis van de tot het tijdstip van beëindiging opgebouwde aanspraak op ouderdomspensioen de uitkering van het ouderdomspensioen op jaarbasis op de reguliere ingangsdatum minder zal bedragen dan € 400 per 1 januari 2014: € 458,06 per jaar, tenzij: 
+1.  De pensioenuitvoerder heeft het recht om op zijn vroegst twee jaar na beëindiging van de deelneming pensioenaanspraken van een gewezen deelnemer af te kopen, indien op basis van de tot het tijdstip van beëindiging opgebouwde aanspraak op ouderdomspensioen de uitkering van het ouderdomspensioen op jaarbasis op de reguliere ingangsdatum minder zal bedragen dan € 400 per 1 januari 2015: € 462,88 per jaar, tenzij: 
 
 a. dit recht op afkoop in de pensioen- en uitvoeringsovereenkomst is beperkt of uitgesloten; of  
 
 b. de gewezen deelnemer binnen twee jaar na beëindiging van de deelneming een procedure tot waardeoverdracht is gestart.     
-2.  Indien de reguliere ingangsdatum van het ouderdomspensioen ligt voor het verstrijken van de in het eerste lid genoemde termijn van twee jaar, heeft de pensioenuitvoerder het recht om bij de ingang van het ouderdomspensioen een aanspraak op ouderdomspensioen en eventuele andere aanspraken ten behoeve van de gepensioneerde of zijn nabestaanden af te kopen, indien de uitkering van het ouderdomspensioen op de ingangsdatum minder bedraagt dan € 400 per 1 januari 2014: € 458,06 per jaar.   
+2.  Indien de reguliere ingangsdatum van het ouderdomspensioen ligt voor het verstrijken van de in het eerste lid genoemde termijn van twee jaar, heeft de pensioenuitvoerder het recht om bij de ingang van het ouderdomspensioen een aanspraak op ouderdomspensioen en eventuele andere aanspraken ten behoeve van de gepensioneerde of zijn nabestaanden af te kopen, indien de uitkering van het ouderdomspensioen op de ingangsdatum minder bedraagt dan € 400 per 1 januari 2015: € 462,88 per jaar.   
 3.  De pensioenuitvoerder die gebruik wil maken van het in het eerste lid bedoelde recht informeert de gewezen deelnemer over zijn besluit hieromtrent binnen zes maanden na afloop van de periode van twee jaar na beëindiging van de deelneming en gaat over tot de uitbetaling van de afkoopwaarde binnen die termijn van zes maanden.   
 4.  De pensioenuitvoerder die gebruik wil maken van het in het tweede lid bedoelde recht informeert de gepensioneerde over zijn besluit hieromtrent binnen zes maanden na de ingang van het pensioen en gaat over tot de uitbetaling van de afkoopwaarde binnen die termijn van zes maanden.   
 5.  De pensioenuitvoerder stelt de afkoopwaarde van de pensioenaanspraken ter beschikking aan de gewezen deelnemer dan wel de gepensioneerde, met uitzondering van de afkoopwaarde van een bijzonder partnerpensioen, die ter beschikking wordt gesteld aan de gewezen partner.   
@@ -1069,10 +1071,11 @@ b. de gewezen deelnemer binnen twee jaar na beëindiging van de deelneming een p
 a. de gewezen deelnemer of gepensioneerde daarmee instemt; en  
 
 b. de hoogte van het ouderdomspensioen op jaarbasis per 1 januari van dat jaar lager is dan het in het eerste lid bedoelde grensbedrag.     
-8.  Het in het eerste en tweede lid genoemde bedrag wordt bij regeling van Onze Minister telkens herzien met ingang van 1 januari op basis van de consumentenprijsindex Alle Huishoudens, zoals berekend door het Centraal Bureau voor de Statistiek. De herziening wordt bepaald door de procentuele wijziging die dat indexcijfer over de maand oktober, voorafgaand aan de aanpassing heeft ondergaan ten opzichte van de maand oktober van het daaraan voorafgaande jaar.   
+8.  Het in het eerste en tweede lid genoemde bedrag wordt telkens gewijzigd met ingang van 1 januari op basis van de consumentenprijsindex Alle Huishoudens, zoals berekend door het Centraal Bureau voor de Statistiek. De wijziging wordt bepaald door de procentuele wijziging die dat indexcijfer over de maand oktober, voorafgaand aan de aanpassing, heeft ondergaan ten opzichte van de maand oktober van het daaraan voorafgaande jaar. Het gewijzigde bedrag wordt door of namens Onze Minister bekend gemaakt in de Staatscourant.   
 9.  De pensioenuitvoerder waarborgt met betrekking tot perioden van opbouw vanaf 1 januari 2005 bij de vaststelling van de afkoopwaarde door vaststelling van een afkoopvoet dat geen onderscheid gemaakt wordt tussen mannen en vrouwen waarbij voldaan wordt aan het vereiste van collectieve actuariële gelijkwaardigheid.   
 10.  Elk beding strijdig met dit artikel is nietig.   
-11.  Bij of krachtens algemene maatregel van bestuur kunnen er nadere regels worden gesteld aan het vaststellen van de afkoopwaarde, bedoeld in het zesde lid.  
+11.  Bij of krachtens algemene maatregel van bestuur kunnen er nadere regels worden gesteld aan het vaststellen van de afkoopwaarde, bedoeld in het zesde lid.   
+12.  Indien de pensioenuitvoerder door toepassing van dit artikel wil afkopen op of na de reguliere ingangsdatum van het ouderdomspensioen, en het moment waarop de pensioenuitvoerder wil afkopen ligt voor de datum waarop het ouderdomspensioen op grond van de Algemene Ouderdomswet ingaat, dan heeft de gewezen deelnemer het recht ervoor te kiezen dat het ouderdomspensioen waarop de afkoop betrekking heeft, ingaat op de eerste dag van de maand volgend op de datum waarop het ouderdomspensioen op grond van de Algemene Ouderdomswet ingaat. De pensioenuitvoerder koopt af op het moment dat het ouderdomspensioen waarop de afkoop betrekking heeft ingaat. Artikel 62, eerste lid, is van overeenkomstige toepassing. 
 
 ###Artikel 67 
 
@@ -1102,18 +1105,21 @@ b. indien de hoogte van het partnerpensioen op jaarbasis per 1 januari van dat 
 
 ### Artikel  69  
 
-####Bevoegdheid tot afkoop van fiscaal bovenmatig pensioen
+####Afkoop van fiscaal bovenmatig pensioen
 
 1.  De pensioenuitvoerder is bevoegd om over te gaan tot afkoop van het deel van de pensioenaanspraken: 
 
-a. dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip van ingang van het pensioen uitgaat boven de begrenzingen, bedoeld in de artikelen 18a, zevende lid, 18b, zevende lid, 18c, vijfde en zesde lid, en 18e, vierde lid, van de Wet op de loonbelasting 1964, met inachtneming van artikel 18d, eerste lid, onderdelen a, b en d, van die wet; of  
+a. dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip van ingang van het pensioen uitgaat boven de begrenzingen, bedoeld in de artikelen 18a, zevende lid, 18b, zevende lid, 18c, vijfde en zesde lid, en 18e, vierde lid, van de Wet op de loonbelasting 1964, met inachtneming van de artikelen 18d, eerste lid, onderdelen a, b, d en e, 38i, 38l en 38m van die wet; of  
 
 b. dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip waarop de deelnemer of de gewezen deelnemer ophoudt binnenlands belastingplichtige te zijn uitgaat boven de begrenzingen, bedoeld in onderdeel a.     
-2.  De afkoopwaarde wordt door de pensioenuitvoerder aan de deelnemer of gewezen deelnemer ter beschikking gesteld, met uitzondering van de afkoopwaarde voor een bijzonder partnerpensioen die ter beschikking wordt gesteld aan de gewezen partner.   
-3.  De pensioenuitvoerder waarborgt bij de vaststelling van de afkoopwaarde door vaststelling van een afkoopvoet dat geen onderscheid gemaakt wordt tussen mannen en vrouwen waarbij voldaan wordt aan het vereiste van collectieve actuariële gelijkwaardigheid.   
-4. De vorige leden zijn van overeenkomstige toepassing op pensioenaanspraken als bedoeld in de artikelen 38d, 38e en 38f van de Wet op de loonbelasting 1964. 
-5.  Elk beding strijdig met dit artikel is nietig.   
-6.  Bij of krachtens algemene maatregel van bestuur kunnen er regels worden gesteld aan het vaststellen van de afkoopwaarde.  
+2.  Een pensioenuitvoerder is verplicht om op verzoek van de gerechtigde tot een pensioen over te gaan tot afkoop van het deel van de pensioenaanspraken dat uitgaat boven de begrenzingen die zijn opgenomen in de hoofdstukken IIB en VIII van de Wet op de loonbelasting 1964. De eerste zin is niet van toepassing met betrekking tot een nettopensioen, tenzij sprake is van toepassing van artikel 5.17e, vijfde lid, onderdeel a, van de Wet inkomstenbelasting 2001.   
+3.  Voor de toepassing van dit artikel zijn de artikelen 3.18, vierde en vijfde lid, en 3.95, eerste lid, tweede volzin, van de Wet inkomstenbelasting 2001 van overeenkomstige toepassing voor zover aan de pensioenregeling wordt deelgenomen door deelnemers die niet worden aangemerkt als werknemer in de zin van de Wet op de loonbelasting 1964.  
+4.  De afkoopwaarde wordt door de pensioenuitvoerder aan de deelnemer of gewezen deelnemer ter beschikking gesteld, met uitzondering van de afkoopwaarde voor een bijzonder partnerpensioen die ter beschikking wordt gesteld aan de gewezen partner.   
+5.  De pensioenuitvoerder waarborgt bij de vaststelling van de afkoopwaarde door vaststelling van een afkoopvoet dat geen onderscheid gemaakt wordt tussen mannen en vrouwen waarbij voldaan wordt aan het vereiste van collectieve actuariële gelijkwaardigheid.   
+6.  Voor zover het de toepassing van het eerste lid betreft heeft het vijfde lid betrekking op pensioenaanspraken die zijn opgebouwd vanaf 1 januari 2007 en voor zover het de toepassing van het tweede lid betreft heeft het vijfde lid betrekking op pensioenaanspraken die zijn opgebouwd vanaf 1 januari 2015, tenzij in de pensioenovereenkomst is overeengekomen dat het vijfde lid tevens betrekking heeft op pensioenaanspraken die zijn opgebouwd voor 1 januari 2007, respectievelijk 1 januari 2015.  
+7. De vorige leden zijn van overeenkomstige toepassing op pensioenaanspraken als bedoeld in de artikelen 38d, 38e en 38f van de Wet op de loonbelasting 1964. 
+8.  Elk beding strijdig met dit artikel is nietig.   
+9.  Bij of krachtens algemene maatregel van bestuur kunnen er regels worden gesteld aan het vaststellen van de afkoopwaarde.  
 
 ### Artikel  70  
 
@@ -1160,7 +1166,7 @@ a. de overdragende of ontvangende pensioenuitvoerder een pensioenfonds is waarbi
 
 b. de overdragende of ontvangende pensioenuitvoerder een verzekeraar is: 
 
-1°. waarop de noodregeling, bedoeld in artikel 3:161 van de Wet op het financieel toezicht van toepassing is; of  
+1°. waarop de noodregeling, bedoeld in artikel 3:160 van de Wet op het financieel toezicht van toepassing is; of  
 
 2°. die failliet is; of    
 
@@ -1263,8 +1269,6 @@ c. de toezichthouder binnen drie maanden na de melding geen verbod tot waardeove
 
 ####Bevoegdheid waardeoverdracht op verzoek van gewezen deelnemer bij andere pensioenregeling gewezen werkgever
 
-Treedt in werking per 01-01-2015 
-
 De pensioenuitvoerder is bevoegd om na een verzoek van de gewezen deelnemer tot waardeoverdracht de overdrachtswaarde van diens pensioenaanspraken over te dragen indien: 
 
 a. sprake is van een nieuwe pensioenregeling bij de gewezen werkgever;  
@@ -1332,8 +1336,6 @@ b. de ontvangende pensioenuitvoerder hanteert dezelfde methode als de premiepens
 ### Artikel  81b  
 
 ####Bevoegdheid tot waardeoverdracht voor tussentijdse omzetting in pensioenuitkering
-
-Treedt in werking per 01-01-2015 
 
 1.  Onverminderd de artikelen 80, 81 en 81a is de pensioenuitvoerder bevoegd om op verzoek van de deelnemer, gewezen deelnemer of andere aanspraakgerechtigde de waarde van zijn pensioenaanspraken welke voortvloeien uit een kapitaalovereenkomst of een premieovereenkomst op de datum van omzetting van de aanspraken in een pensioenuitkering rechtstreeks over te dragen aan een andere pensioenuitvoerder indien: 
 
@@ -1675,7 +1677,7 @@ g. het omzetten van het pensioenfonds in een andere rechtsvorm, bedoeld in artik
 7.  Het bestuur van het pensioenfonds en de raad van toezicht komen ten minste tweemaal per kalenderjaar in vergadering bijeen.   
 8.  De visitatiecommissie heeft tot taak toezicht te houden op het beleid van het bestuur en op de algemene gang van zaken in het pensioenfonds. De visitatiecommissie is ten minste belast met het toezien op adequate risicobeheersing en evenwichtige belangenafweging door het bestuur en legt verantwoording af over de uitvoering van de taken aan het verantwoordingsorgaan en de werkgever, het belanghebbendenorgaan en in het jaarverslag.   
 9.  Het pensioenfonds verstrekt desgevraagd aan de raad van toezicht of de visitatiecommissie tijdig alle inlichtingen en gegevens, die deze voor de vervulling van zijn taak redelijkerwijs nodig heeft. De inlichtingen worden desgevraagd schriftelijk verstrekt.   
-10.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake dit artikel.  
+10.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake dit artikel die onder meer betrekking hebben op de bevoegdheden van de raad van toezicht ten aanzien van benoeming en ontslag van bestuurders.  
 
 ### Artikel  105  
 
@@ -1863,9 +1865,11 @@ g. liquidatie, fusie of splitsing van het pensioenfonds;
 
 h. het sluiten, wijzigen of beëindigen van een uitvoeringsovereenkomst;  
 
-i. het omzetten van het pensioenfonds in een andere rechtsvorm, bedoeld in artikel 18 van Boek 2 van het Burgerlijk Wetboek; en  
+i. het omzetten van het pensioenfonds in een andere rechtsvorm, bedoeld in artikel 18 van Boek 2 van het Burgerlijk Wetboek;  
 
-j. samenvoeging van pensioenfondsen als bedoeld in de definitie van ondernemingspensioenfonds in artikel 1.     
+j. samenvoeging van pensioenfondsen als bedoeld in de definitie van ondernemingspensioenfonds in artikel 1; en  
+
+k. de samenstelling van de feitelijke premie en de hoogte van de premiecomponenten.    
 4.  Het verantwoordingsorgaan adviseert het bestuur naar aanleiding van de melding van disfunctioneren van het bestuur, bedoeld in artikel 104, vijfde lid.   
 5.  Het advies van het verantwoordingsorgaan wordt op een zodanig tijdstip gevraagd dat het van wezenlijke invloed kan zijn op de in het derde lid bedoelde besluiten.   
 6.  Bij het vragen van advies wordt aan het verantwoordingsorgaan een overzicht verstrekt van de beweegredenen voor het besluit en van de gevolgen die het besluit naar verwachting voor de deelnemers, gewezen deelnemers en pensioengerechtigden zal hebben.  
@@ -1924,7 +1928,7 @@ d. samenvoeging van pensioenfondsen als bedoeld in de definitie van ondernemings
 
 e. het strategische beleggingsbeleid;  
 
-f. de premie;  
+f. de premie, waaronder mede wordt begrepen de samenstelling van de feitelijke premie en de hoogte van de premiecomponenten;  
 
 g. het vaststellen en wijzigen van het toeslagbeleid;  
 
@@ -1989,13 +1993,14 @@ Een pensioenfonds is gehouden om op verzoek van werknemers of een werknemersvere
 
 ####Uitvoering vrijwillige pensioenregeling
 
-Een pensioenfonds kan uitsluitend een vrijwillige pensioenregeling uitvoeren indien dit een aanvulling op een door datzelfde pensioenfonds uitgevoerde basispensioenregeling betreft. 
+1. Een pensioenfonds kan uitsluitend een vrijwillige pensioenregeling uitvoeren indien dit een aanvulling op een door datzelfde pensioenfonds uitgevoerde basispensioenregeling betreft. 
+2.  Een pensioenfonds kan een fiscaal bovenmatige pensioenregeling uitsluitend uitvoeren als vrijwillige pensioenregeling.   
+3.  Onder een fiscaal bovenmatige pensioenregeling als bedoeld in het tweede lid wordt verstaan: een pensioenregeling die niet blijft binnen de begrenzingen die zijn opgenomen in de hoofdstukken IIB en VIII van de Wet op de loonbelasting 1964.   
+4.  Voor de toepassing van het derde lid zijn de artikelen 3.18, vierde en vijfde lid, en 3.95, eerste lid, tweede volzin, van de Wet inkomstenbelasting 2001 van overeenkomstige toepassing voor zover aan de pensioenregeling wordt deelgenomen door deelnemers die niet worden aangemerkt als werknemer in de zin van de Wet op de loonbelasting 1964. 
 
 ### Artikel  117a  
 
 ####Uitvoering nettopensioen door pensioenfonds
-
-Treedt in werking per 01-01-2015 
 
 1.  Bij algemene maatregel van bestuur worden regels gesteld over de uitvoering van een nettopensioen door een pensioenfonds.   
 2.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
@@ -2174,8 +2179,6 @@ c. de hoogte van de totale feitelijke premie.
 ### Artikel  130a  
 
 ####Vermelding premiecomponenten
-
-Treedt in werking per 01-01-2015 
 
 Onverminderd artikel 130 vermeldt een pensioenfonds in zijn jaarrekening en jaarverslag de samenstelling van de feitelijke premie en de hoogte van de premiecomponenten. 
 
@@ -2364,7 +2367,7 @@ c. de maximaal te hanteren risicopremies op onder andere aandelen en onroerend g
 
 ####Actuariële en bedrijfstechnische nota
 
-1.  Het pensioenfonds stelt een actuariële en bedrijfstechnische nota vast waarin in elk geval een omschrijving is opgenomen van de wijze waarop uitvoering wordt gegeven aan het bij of krachtens de artikelen 25, 95, 126 tot en met 137 en 143 bepaalde. De actuariële en bedrijfstechnische nota bevat voorts een verklaring inzake beleggingsbeginselen en een beschrijving van de sturingsmiddelen.   
+1.  Het pensioenfonds stelt een actuariële en bedrijfstechnische nota vast waarin in elk geval een omschrijving is opgenomen van de wijze waarop uitvoering wordt gegeven aan het bij of krachtens de artikelen 25, 95, 126 tot en met 137 en 143 bepaalde. Daarbij wordt de samenstelling van de feitelijke premie en de hoogte van de premiecomponenten opgenomen. De actuariële en bedrijfstechnische nota bevat voorts een verklaring inzake beleggingsbeginselen en een beschrijving van de sturingsmiddelen.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de actuariële en bedrijfstechnische nota.   
 3.  Voorzover risico’s zijn overgedragen, verzekerd of ondergebracht kan de omschrijving, bedoeld in het eerste lid, beperkt blijven tot een verwijzing naar hetgeen daarover in de betreffende overeenkomsten is opgenomen.   
 4.  De verklaring inzake beleggingsbeginselen wordt om de drie jaren en voorts onverwijld na iedere belangrijke wijziging van het beleggingsbeleid herzien.  
@@ -2500,16 +2503,7 @@ c. een pensioenuitvoerder en een aanspraak- of pensioengerechtigde.
 
 ####Kwaliteitseisen
 
-1.  De toezichthouder draagt met betrekking tot de uitoefening van zijn taken en bevoegdheden uit hoofde van deze wet zorg voor: 
-
-a. een tijdige voorbereiding en een voor de onder toezicht staanden kenbare, transparante en consistente uitvoering;  
-
-b. de kwaliteit van de daarbij gebruikte procedures;  
-
-c. de zorgvuldige behandeling van een ieder die met hem in aanraking komt;  
-
-d. de zorgvuldige behandeling van bezwaarschriften en klachten die worden ontvangen.     
-2.  De toezichthouder treft voorzieningen, waardoor een ieder die met hem in aanraking komt in de gelegenheid is voorstellen tot verbetering van werkwijzen en procedures te doen.  
+In aanvulling op artikel 19, eerste lid, van de Kaderwet zelfstandige bestuursorganen draagt de toezichthouder met betrekking tot de uitoefening van zijn taken en bevoegdheden uit hoofde van deze wet zorg voor een voor de onder toezicht staanden kenbare, transparante en consistente uitvoering. 
 
 ### §  7.2  
 
@@ -2523,20 +2517,19 @@ Vervallen per 01-01-2013
 
 ### Artikel  163  
 
-####Uitvoeringstoezicht: Inspectie Werk en Inkomen
+####Uitvoeringstoezicht
 
-1.  Onze Minister houdt toezicht op: 
+Onze Minister houdt toezicht op: 
 
 a. de rechtmatigheid van de uitvoering van deze wet door de toezichthouder;  
 
-b. de doeltreffendheid van de uitvoering van deze wet door de toezichthouder.     
-2.  Het toezicht, bedoeld in het eerste lid, wordt onder gezag van Onze Minister uitgeoefend door de Inspectie Werk en Inkomen, genoemd in hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen, onder leiding van het hoofd van die inspectie. De artikelen 37, 38 en 44 van de Wet structuur uitvoeringsorganisatie werk en inkomen zijn van overeenkomstige toepassing.  
+b. de doeltreffendheid van de uitvoering van deze wet door de toezichthouder.   
 
 ### Artikel  164  
 
 ####Verstrekking informatie ten behoeve van toezicht door Onze Minister
 
-1.  Onze Minister is bevoegd aan de toezichthouder de gegevens of inlichtingen te vragen die naar zijn oordeel nodig zijn voor een onderzoek naar de wijze waarop de toezichthouder de uit deze wet voortvloeiende taken en bevoegdheden uitvoert of heeft uitgevoerd.   
+1.  Indien Onze Minister de toezichthouder gegevens of inlichtingen vraagt die naar zijn oordeel nodig zijn voor een onderzoek naar de wijze waarop de toezichthouder de uit deze wet voortvloeiende taken en bevoegdheden uitvoert of heeft uitgevoerd, geschiedt de verstrekking daarvan met inachtneming van dit artikel.   
 2.  De toezichthouder verstrekt kosteloos aan Onze Minister de in het eerste lid bedoelde gegevens of inlichtingen. Indien Onze Minister de toezichthouder vraagt bepaalde gegevens of inlichtingen te verstrekken die op grond van deze wet omtrent afzonderlijke pensioenuitvoerders, werkgevers of natuurlijke personen zijn verstrekt of zijn verkregen, is de toezichthouder niet verplicht deze gegevens of inlichtingen te verstrekken, indien deze betrekking hebben op of herleidbaar zijn tot een afzonderlijke pensioenuitvoerder, werkgever of natuurlijke persoon, met uitzondering van gegevens of inlichtingen die betrekking hebben op of herleidbaar zijn tot een pensioenuitvoerder of werkgever ten aanzien waarvan surséance van betaling is verleend, die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden.   
 3.  Onze Minister kan een derde opdragen de gegevens of inlichtingen die hem ingevolge het tweede lid zijn verstrekt te onderzoeken en aan hem verslag uit te brengen. Tevens kan Onze Minister de derde die in zijn opdracht handelt, machtigen namens hem gegevens of inlichtingen in te winnen, in welk geval het eerste en tweede lid van overeenkomstige toepassing zijn.   
 4.  Onze Minister gebruikt de gegevens of inlichtingen die hij ingevolge het tweede of derde lid heeft verkregen uitsluitend voor het vormen van zijn oordeel over de toereikendheid van deze wet of de wijze waarop de toezichthouder de bij of krachtens deze wet opgedragen taken en toegekende bevoegdheden uitoefent of heeft uitgeoefend.   
@@ -2555,16 +2548,11 @@ b. de doeltreffendheid van de uitvoering van deze wet door de toezichthouder.
 
 ####Taakverwaarlozing
 
-1.  Indien naar het oordeel van Onze Minister de toezichthouder een of meerdere van zijn bij of krachtens deze wet opgedragen taken ernstig verwaarloost, kan Onze Minister de noodzakelijke voorzieningen treffen.   
-2.  Ter uitvoering van het eerste lid kan Onze Minister besluiten een of meer onderdelen van de taken van de toezichthouder zelf uit te voeren of door een andere organisatie te laten uitvoeren. Alsdan komen de desbetreffende bevoegdheden van de toezichthouder toe aan Onze Minister onderscheidenlijk de andere toezichthouder.   
-3.  De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat de toezichthouder in de gelegenheid is gesteld om binnen een door Onze Minister te stellen termijn alsnog zijn taak naar behoren uit te voeren.   
-4.  Onze Minister stelt beide kamers der Staten-Generaal onverwijld in kennis van door hem getroffen voorzieningen als bedoeld in het eerste lid.  
+De bevoegdheid om de noodzakelijke voorzieningen te treffen, genoemd in artikel 23, eerste lid, van de Kaderwet zelfstandige bestuursorganen, alsmede de verplichtingen, genoemd in artikel 23, tweede en derde lid, van de Kaderwet zelfstandige bestuursorganen, worden ten aanzien van ernstige verwaarlozing door de toezichthouder van de bij of krachtens deze wet opgedragen taken uitgeoefend dan wel uitgevoerd door Onze Minister. 
 
 ### Artikel  166a  
 
 ####Beleidsregels door Onze Minister
-
-Treedt in werking per 01-01-2015 
 
 1.  Onze Minister kan beleidsregels vaststellen ten aanzien van de toepassing door de toezichthouders van Hoofdstuk 7.   
 2.  De beleidsregels worden in de Staatscourant bekendgemaakt.  
@@ -2694,7 +2682,7 @@ c. de toezichthouder.
 
 ####Bestuurlijke boete
 
-1.  De toezichthouder kan een bestuurlijke boete opleggen ter zake van een overtreding van voorschriften, gesteld bij of krachtens de artikelen 21, eerste lid, tweede lid, tweede volzin en vierde lid, 23, 25, 26, 28, 29, eerste lid, 29, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 29, eerste lid, 34 tot en met 48, 49, 50, tweede en vierde lid, 51, 52, 58, 60, 61, 62, 63, 66, derde tot en met zesde, negende en elfde lid, 67, tweede lid, 68, tweede lid, artikel 69, tweede, derde en zesde lid, 71, eerste tot en met vijfde en zevende lid, 74, tweede en derde lid, 76, eerste tot en met vierde en negende lid, 83, tweede en zevende lid, 84, tweede en zevende lid, 85, eerste lid, 86, eerste en tweede lid, 87, 91, 94, tweede lid, 95, 96, 99 tot en met 107, 111, 112, 113, 115, 115a, 115b, 115c, 115e, 115f, 115g, 115h, 116, 117, 118, eerste tot en met derde lid, 119, eerste tot en met derde lid, 120, eerste tot en met derde lid, 125, 128, 129, 130, 134, tweede, vierde en vijfde lid, 135, 136, 137, 138, eerste tot en met vierde en zesde lid, 139, 140, 143, 145, 146, 147, eerste tot en met derde, vijfde en zesde lid, 150, 167, 169, 170, eerste tot en met vierde lid, 171, eerste lid, 172, vijfde lid, 194, 197, 199, 203, derde en vierde lid, 204 en van artikel 5:20 van de Algemene wet bestuursrecht.   
+1.  De toezichthouder kan een bestuurlijke boete opleggen ter zake van een overtreding van voorschriften, gesteld bij of krachtens de artikelen 21, eerste lid, tweede lid, tweede volzin en vierde lid, 23, 25, 26, 28, 29, eerste lid, 29, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 29, eerste lid, 34 tot en met 48, 49, 50, tweede en vierde lid, 51, 52, 58, 60, 61, 62, 63, 66, derde tot en met zesde, negende en elfde lid, 67, tweede lid, 68, tweede lid, 69, vierde, vijfde en negende lid, 71, eerste tot en met vijfde en zevende lid, 74, tweede en derde lid, 76, eerste tot en met vierde en negende lid, 83, tweede en zevende lid, 84, tweede en zevende lid, 85, eerste lid, 86, eerste en tweede lid, 87, 91, 94, tweede lid, 95, 96, 99 tot en met 107, 111, 112, 113, 115, 115a, 115b, 115c, 115e, 115f, 115g, 115h, 116, 117, 118, eerste tot en met derde lid, 119, eerste tot en met derde lid, 120, eerste tot en met derde lid, 125, 128, 129, 130, 130a, 134, tweede, vierde en vijfde lid, 135, 136, 137, 138, eerste tot en met vierde en zesde lid, 139, 140, 143, 145, 146, 147, eerste tot en met derde, vijfde en zesde lid, 150, 167, 169, 170, eerste tot en met vierde lid, 171, eerste lid, 172, vijfde lid, 194, 197, 199, 203, derde en vierde lid, 204 en van artikel 5:20 van de Algemene wet bestuursrecht.   
 2.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.  
 
 ### Artikel  179  
@@ -3024,8 +3012,8 @@ c. een of meer van de daaraan verbonden voorschriften niet wordt nageleefd.
 
 ####Informatievoorziening Staten-Generaal
 
-1.  Onze Minister zendt alle van belang zijnde door de toezichthouder aan Onze Minister uitgebrachte toezichtrapportages, in de vorm waarin zij aan hem zijn voorgelegd, zo nodig voorzien van zijn oordeel, aan de Staten-Generaal.   
-2.  Onze Minister zendt elke vijf jaar een verslag aan de Staten-Generaal over de doelmatigheid en doeltreffendheid van het functioneren van de toezichthouder.  
+1.  Onze Minister zendt in aanvulling op artikel 18, tweede lid, van de Kaderwet zelfstandige bestuursorganen alle van belang zijnde door de toezichthouder aan Onze Minister uitgebrachte toezichtrapportages, in de vorm waarin zij aan hem zijn voorgelegd, zo nodig voorzien van zijn oordeel, aan de Staten-Generaal.   
+2.  De verplichting om elke vijf jaar een verslag aan beide kamers der Staten-Generaal te zenden ten behoeve van de beoordeling van de doelmatigheid en doeltreffendheid van het functioneren van een zelfstandig bestuursorgaan, bedoeld in artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen, berust ten aanzien van het functioneren van de toezichthouder op grond van deze wet bij Onze Minister.  
 
 ### Artikel  215  
 

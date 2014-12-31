@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit geeft uitvoering aan de artikelen 8, vijfde lid, 9, tweede lid, onderdeel b, 11, eerste lid, aanhef en onderdelen f, o, 2° en u, 12, vijfde lid, 17c, tweede lid, 17d, 20, tweede lid, onderdeel b, 29, derde lid, 29a, tweede lid, 33g, tweede, vierde en zesde lid, 39, 50, achtste en elfde lid, en 50a, vierde lid, van de Wet op de omzetbelasting 1968, alsmede aan artikel III van de wet van 30 september 1986 tot wijziging van de Wet op de omzetbelasting 1968 (Stb. 1986, 479) en aan artikel 10a van de Algemene wet inzake rijksbelastingen.    
+1.  Dit besluit geeft uitvoering aan de artikelen 8, vijfde lid, 9, tweede lid, onderdeel b, 11, eerste lid, aanhef en onderdelen f, g, onder 3°, o, onder 2°, en u, 12, vijfde lid, 17c, tweede lid, 17d, 20, tweede lid, onderdeel b, 29, derde lid, 29a, tweede lid, 33g, tweede, vierde en zesde lid, 39, 50, achtste en elfde lid, en 50a, vierde lid, van de Wet op de omzetbelasting 1968, alsmede aan artikel III van de wet van 30 september 1986 tot wijziging van de Wet op de omzetbelasting 1968 (Stb. 1986, 479) en aan artikel 10a van de Algemene wet inzake rijksbelastingen.    
 2.   Dit besluit verstaat onder:  
 
 a. wet: Wet op de omzetbelasting 1968;   
@@ -89,7 +89,7 @@ c. het optreden van een ernstige verstoring van concurrentieverhoudingen ten opz
 
 a. de leveringen van goederen welke door de in het tweede lid bedoelde instellingen in het kader van arbeidstherapie zijn voortgebracht en de diensten welke door die instellingen in dat kader worden verricht;  
 
-b. diensten als bedoeld in artikel 11, eerste lid, onderdeel g, onder 2°, van de wet, die worden verleend aan personen die niet beschikken over een in dat onderdeel g, onder 2°, bedoeld indicatiebesluit of besluit op grond van de Algemene Wet Bijzondere Ziektekosten of ingevolge de Wet maatschappelijke ondersteuning.     
+b. diensten als bedoeld in artikel 11, eerste lid, onderdeel g, onder 2° en 3°, van de wet die worden verleend aan anderen dan de daarin bedoelde personen.     
 5.  Onder het niet beogen van winst, bedoeld in het tweede en derde lid, wordt verstaan dat niet systematisch het maken van winst mag worden beoogd en, zo er wel winst wordt gemaakt, deze niet mag worden uitgekeerd, maar die winst moet worden aangewend voor de instandhouding of verbetering van de leveringen en diensten die worden verleend.  
 6.   Tot de in het eerste lid bedoelde leveringen en diensten behoren niet, behoudens voor zover in bijlage B bij dit besluit anders is bepaald:  
 
@@ -106,7 +106,6 @@ e. andere bij ministeriële regeling in verband met het voorkomen van een ernsti
 8. Bij wijzigingen in de aard en samenstelling van de leveringen en diensten van een instelling stelt de instelling de inspecteur daarvan in kennis.
 
 ### Artikel  7a  
-Treedt in werking per 01-01-2015 
 
 1.  Als diensten als bedoeld in artikel 11, eerste lid, onderdeel g, onder 3°, van de wet worden aangewezen de diensten die gefinancierd worden op grond van de Wet maatschappelijke ondersteuning 2015, mits deze diensten: 
 
@@ -197,7 +196,7 @@ c. voor wat betreft de leveringen van goederen als bedoeld in de bij de wet beho
 
 d. voor wat betreft de achtereenvolgende leveringen die plaatsvinden ingeval door meer dan één persoon overeenkomsten worden gesloten met de verplichting tot levering van eenzelfde goed dat vervolgens door de eerste persoon rechtstreeks aan de laatste afnemer buiten de Unie of in een entrepot wordt afgeleverd, indien een door iedere afnemer - behalve de buitenlandse - aan zijn leverancier uit te reiken schriftelijke opdracht tot uitvoer uit de Unie of tot plaatsing onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek kan worden overgelegd;   
 
-e. voor wat betreft de levering van een motorrijtuig waarvoor ter zake van de in artikel 36 van de Wegenverkeerswet 1994 bedoelde opgaaf van een kenteken een bewijs is afgegeven en welk motorrijtuig door een ondernemer wordt vervoerd naar een andere lidstaat, wordt uitgevoerd uit de Unie of wordt gebracht onder het stelsel van douane-entrepots op basis van artikel 98, lid 1, onder b), van het Communautair douanewetboek, indien de ondernemer een terzake door de Dienst Wegverkeer (RDW) opgemaakte verklaring kan overleggen;   
+e. voor wat betreft de levering van een motorrijtuig waarvoor ter zake van de in artikel 36 van de Wegenverkeerswet 1994 bedoelde opgaaf van een kenteken een bewijs is afgegeven en welk motorrijtuig door een ondernemer wordt vervoerd naar een andere lidstaat of wordt uitgevoerd uit de Unie, indien de ondernemer een afschrift van het ter zake door de Dienst Wegverkeer afgegeven kentekenbewijs deel II, dat hem is uitgereikt op de voet van artikel 17, tweede lid, van het Kentekenreglement, kan overleggen;   
 
 f. voor wat betreft de levering door een ondernemer als bedoeld in artikel 7, zesde lid, van de wet, van een nieuw vervoermiddel dat wordt vervoerd naar een andere lidstaat, indien de ondernemer aan de inspecteur de naam en het adres meldt van degene aan wie de levering is verricht.    In geval de leverancier of de afnemer in de gevallen bedoeld in de onderdelen b en c niet in Nederland woont of is gevestigd dan wel aldaar geen vaste inrichting heeft, dient deze voor de toepassing van het tarief van nihil een fiscaal vertegenwoordiger als bedoeld in artikel 24c  te hebben aangesteld.    
 3.   In geval een ondernemer die een verklaring als bedoeld in het tweede lid, onderdeel b of c, heeft afgegeven, aan de desbetreffende goederen een andere bestemming geeft, wordt de belasting ter zake van de aan hem verrichte levering van die goederen alsnog verschuldigd naar het tarief als bedoeld in artikel 9, eerste lid, dan wel tweede lid, onderdeel a, van de wet.    
@@ -608,7 +607,7 @@ b. De waarde van een canon, een retributie, een huur of een uitkering die na een
 | het vijfde vijftal jaren  | 0,25  | 0,18  | 0,02  | 0,28   |
 | de volgende jaren  | 0,12  | 0,06  | –  | 0,15  |
 
-c. De waarde van een canon, een retributie, een huur of een uitkering voor onbepaalde tijd, die niet van het leven afhankelijk is, wordt gesteld op het zeventienvoud van het jaarlijkse bedrag.   
+c. De waarde van een canon, een retributie, een huur of een uitkering voor onbepaalde tijd, die niet van het leven afhankelijk is, wordt gesteld op de waarde in het economische verkeer van de zaak waarop het recht betrekking heeft.   
 
 d. De overeenkomstig onderdeel *b* berekende waarde kan, indien de schuldplichtigheid:  
 
@@ -663,9 +662,9 @@ b. De leveringen en diensten als bedoeld in artikel 7 van het besluit, die als z
 14. instellingen van zeemanszorg, mede voor het verstrekken van spijzen en dranken;   
 
 15. 
-a.instellingen die werkzaam zijn op het terrein van op preventie gerichte ondersteuning van jeugdigen met problemen met opgroeien en van ouders met problemen met opvoeden als bedoeld in artikel 1, eerste lid, onder g, onderdeel 2, van de Wet maatschappelijke ondersteuning, voor zover werkzaam op het gebied van het jeugd- en jongerenwerk;
+a. aanbieders van preventie als bedoeld in artikel 1.1 van de Jeugdwet;  
 
-b.instellingen op het terrein van het bevorderen sociale samenhang in en leefbaarheid van dorpen, wijken en buurten als bedoeld in artikel 1, eerste lid, onder g, onderdeel 1, van de Wet maatschappelijke ondersteuning, voor zover werkzaam op het gebied van het club- en buurthuiswerk;  
+b. instellingen die werkzaam zijn op het terrein van het bevorderen van sociale samenhang en leefbaarheid als bedoeld in de Wet maatschappelijke ondersteuning 2015, voor zover werkzaam op het gebied van club- en buurthuiswerk;    
 
 16. instellingen die zich bezighouden met vormingswerk in internaatsverband, mede voor het verstrekken van spijzen en dranken;   
 
@@ -685,7 +684,7 @@ b.instellingen op het terrein van het bevorderen sociale samenhang in en leefbaa
 
 24. vervallen;   
 
-25. gemeenten of door gemeenten aangewezen rechtspersonen voor prestaties verricht op grond van artikel 7 van de Wet werk en bijstand;  
+25. gemeenten of door gemeenten aangewezen rechtspersonen voor prestaties verricht op grond van artikel 7 van de Participatiewet;  
 
 26.  vervallen;   
 
@@ -695,7 +694,7 @@ b.instellingen op het terrein van het bevorderen sociale samenhang in en leefbaa
 
 29. instellingen voor algemeen maatschappelijk en bedrijfsmaatschappelijk werk;  
 
-30. stichtingen en zorgaanbieders als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, mede voor het verstrekken van spijzen en dranken;  
+30. jeugdhulpaanbieders en gecertificeerde instellingen als bedoeld in artikel 1.1 van de Jeugdwet, mede voor het verstrekken van spijzen en dranken;  
 
 31. natuurijsbanen, alleen voor het geven van gelegenheid tot sportbeoefening;  
 
@@ -709,7 +708,7 @@ b.instellingen op het terrein van het bevorderen sociale samenhang in en leefbaa
 
 36. carnavalsverenigingen;  
 
-37. kleindierverenigingen.    Algemene aantekening  Als leveringen en diensten van sociale of culturele aard worden niet aangemerkt de leveringen van goederen welke door de in onderdeel b bedoelde instellingen in het kader van arbeidstherapie zijn voortgebracht en de diensten welke door die instellingen in dat kader worden verricht. Als diensten van sociale of culturele aard worden voorts niet aangemerkt diensten als bedoeld in artikel 11, eerste lid, onderdeel g, onder 2°, van de wet, die worden verleend aan personen die niet beschikken over een in dat onderdeel g, onder 2°, bedoeld indicatiebesluit of besluit op grond van de Algemene Wet Bijzondere Ziektekosten of ingevolge de Wet maatschappelijke ondersteuning.  De in onderdeel b bedoelde instellingen, behoudens die bedoeld in de posten 12, voor zover betrekking hebbend op gehandicapten die beschikken over een indicatiebesluit op grond van de Algemene Wet Bijzondere Ziektekosten, 29, 30 en 33 van onderdeel b, mogen niet systematisch het maken van winst beogen en, zo er wel winst wordt gemaakt, mogen zij deze niet uitkeren, maar moet die winst worden aangewend voor de instandhouding of verbetering van de leveringen en diensten die worden verleend.
+37. kleindierverenigingen.    Algemene aantekening  Als leveringen en diensten van sociale of culturele aard worden niet aangemerkt de leveringen van goederen welke door de in onderdeel b bedoelde instellingen in het kader van arbeidstherapie zijn voortgebracht en de diensten welke door die instellingen in dat kader worden verricht. Als diensten van sociale of culturele aard worden voorts niet aangemerkt diensten als bedoeld in artikel 11, eerste lid, onderdeel g, onder 2° en 3°, van de wet die worden verleend aan anderen dan de personen, bedoeld in dat onderdeel, onder 2° en 3°.  De in onderdeel b bedoelde instellingen, behoudens die bedoeld in de posten 12, voor zover betrekking hebbend op gehandicapten die beschikken over een indicatiebesluit waaruit blijkt dat zij recht hebben op de daar bedoelde diensten, 29, 30 en 33 van onderdeel b, mogen niet systematisch het maken van winst beogen en, zo er wel winst wordt gemaakt, mogen zij deze niet uitkeren, maar moet die winst worden aangewend voor de instandhouding of verbetering van de leveringen en diensten die worden verleend.
 
 ### Bijlage  C  
 

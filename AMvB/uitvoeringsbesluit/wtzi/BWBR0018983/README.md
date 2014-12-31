@@ -116,23 +116,13 @@ b. AWBZ-instellingen die een of meer vormen van zorg verlenen als bedoeld in art
 5°. een zintuigelijke handicap;    
 
 c. AWBZ-instellingen die zorg verlenen als bedoeld in artikel 1.2, nummer 17 of 19, in combinatie met AWBZ-verblijf, in verband met een psychiatrische aandoening.    
-7.  In afwijking van het zesde lid geldt artikel 18 van de wet niet voor kleinschalige woonvoorzieningen, zijnde instellingen of delen daarvan waar de desbetreffende zorg wordt verleend: 
+7.  In afwijking van het zesde lid geldt artikel 18 van de wet niet voor kleinschalige woonvoorzieningen, zijnde instellingen of delen daarvan die: 
 
-1°. uitsluitend aan personen in verband met een psychiatrische aandoening, gepaard gaande met een beschermende woonomgeving, en 
+a. bestaan uit zelfstandige woningen, dat wil zeggen woningen die naast één of meer privévertrekken een eigen voordeur, een eigen keuken, een eigen toilet en een eigen badkamer hebben,  
 
-– die bestaan uit zelfstandige woningen, dat wil zeggen woningen die naast één of meer privé-vertrekken een eigen voordeur, een eigen keuken, een eigen toilet en een eigen badkamer hebben,  
+b. een beperkte omvang hebben, dat wil zeggen dat zij huisvesting bieden aan ten hoogste zes personen, en  
 
-– die een beperkte omvang hebben, dat wil zeggen dat zij huisvesting bieden aan ten hoogste acht personen,  
-
-– die samen met andere in de directe omgeving gelegen zodanige woonvoorzieningen aan niet meer dan 35 personen huisvesting bieden;    
-
-2°. aan een of meer van de overige in het zesde lid, onder b, genoemde categorieën van doelgroepen, al dan niet in combinatie met de onder 1° van dit lid genoemde doelgroepen, en 
-
-– die bestaan uit zelfstandige woningen, dat wil zeggen woningen die naast één of meer privé-vertrekken een eigen voordeur, een eigen keuken, een eigen toilet en een eigen badkamer hebben,  
-
-– die een beperkte omvang hebben, dat wil zeggen dat zij huisvesting bieden aan ten hoogste zes personen,  
-
-– die samen met andere in de directe omgeving gelegen zodanige voorzieningen aan niet meer dan voor zover het gaat om zwaar verblijf 24 personen en voor zover het gaat om licht verblijf 50 personen huisvesting bieden, met dien verstande dat het totaal van licht en zwaar verblijf tezamen ten hoogste 50 personen bedraagt.     
+c. samen met andere in de directe omgeving gelegen zodanige voorzieningen aan niet meer dan 50 personen verblijf bieden.   
 
 ### Artikel  2.2  
 

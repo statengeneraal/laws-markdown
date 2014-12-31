@@ -185,7 +185,7 @@ Ten aanzien van personen over wie Onze Minister zulks besluit, wordt tot de bezo
 
 ### Artikel  1.9  
 
-Onze Minister kan bij ministeriële regeling nadere regels stellen over: 
+1. Onze Minister kan bij ministeriële regeling nadere regels stellen over: 
 
 a. hetgeen tot de bezoldiging wordt gerekend;  
 
@@ -193,7 +193,8 @@ b. de toerekening van onderdelen van de bezoldiging aan enig kalenderjaar;
 
 c. hetgeen tot de uitkeringen wegens beëindiging van het dienstverband wordt gerekend;  
 
-d. de controle van het financieel verslaggevingsdocument door de accountant op de naleving van deze wet en de daarop berustende bepalingen.  
+d. de controle van het financieel verslaggevingsdocument door de accountant op de naleving van deze wet en de daarop berustende bepalingen.   
+2.  Onverminderd de artikelen 2.11 en 3.8, kunnen bij algemene maatregel van bestuur inkomensbestanddelen worden aangewezen die geen onderdeel van de bezoldiging vormen, indien sprake is van incidentele inkomensbestanddelen die voortvloeien uit reguliere arbeidsvoorwaarden en die redelijkerwijs niet als bezoldiging aangemerkt behoren te worden. 
 
 ### Artikel  1.10  
 
@@ -208,30 +209,21 @@ Onze Minister kan, in overeenstemming met Onze Minister wie het aangaat, beleids
 1.  Partijen komen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3.   
 2.  In geval van een dienstverband met een kleinere omvang dan het bij de verantwoordelijke gebruikelijk voltijdse dienstverband, komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, vermenigvuldigd met het aantal uren waarop het dienstverband betrekking heeft en gedeeld door het aantal uren van een voltijds dienstverband.   
 3.  In geval van een dienstverband met een kortere duur dan een kalenderjaar, komen partijen geen bezoldiging overeen die meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, vermenigvuldigd met het aantal dagen waarop het dienstverband betrekking heeft en gedeeld door 365.   
-4.  In geval de functie van topfunctionaris in een periode van achttien maanden voor meer dan zes maanden wordt vervuld anders dan op grond van een dienstbetrekking, komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3. Het tweede en derde lid zijn van overeenkomstige toepassing.   
+4.  In geval de functie van topfunctionaris in een periode van achttien maanden voor meer dan twaalf maanden wordt vervuld anders dan op grond van een dienstbetrekking, komen partijen met ingang van de eerste dag van de dertiende maand in de periode van achttien maanden geen bezoldiging overeen die per kalenderjaar meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3. Het tweede en derde lid zijn van overeenkomstige toepassing. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de maximale bezoldiging voor het geval de functie van topfunctionaris in een periode van achttien maanden voor maximaal twaalf maanden wordt vervuld anders dan op grond van een dienstbetrekking.   
 5.  Een topfunctionaris die tevens werkzaam is bij een gelieerde rechtspersoon of bij een rechtspersoon als bedoeld in artikel 1.3, eerste lid, onderdeel b, de betreffende verantwoordelijke en de verantwoordelijke van de gelieerde rechtspersoon of de rechtspersoon, bedoeld in artikel 1.3, eerste lid, onderdeel b, komen geen bezoldiging overeen voor zover de som van de bezoldigingen meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3.   
 6.  Het tweede tot en met vijfde lid zijn van overeenkomstige toepassing indien voor partijen op grond van artikel 2.4, 2.6 of 2.7 een van artikel 2.3 afwijkend bedrag is vastgesteld.  
 
 ### Artikel  2.2  
 
-1. In afwijking van artikel 2.1, eerste lid, komen partijen met betrekking tot de leden, onderscheidenlijk voorzitters, van de hoogste toezichthoudende organen van een rechtspersoon of instelling als bedoeld in artikel 1.2, onderdelen f, g en h en artikel 1.3 geen bezoldiging overeen die per kalenderjaar meer bedraagt dan vijf, onderscheidenlijk 7,5 procent van de voor de rechtspersoon of instelling op grond van artikel 2.3, artikel 2.5, artikel 2.6 of artikel 2.7 geldende maximale bezoldiging. Bij of krachtens algemene maatregel van bestuur worden uitzonderingen vastgesteld ten aanzien waarvan de vorige volzin buiten toepassing wordt gelaten.  
+1. In afwijking van artikel 2.1, eerste lid, komen partijen met betrekking tot de leden, onderscheidenlijk voorzitters, van de hoogste toezichthoudende organen van een rechtspersoon of instelling als bedoeld in artikel 1.2, onderdelen f, g en h en artikel 1.3 geen bezoldiging overeen die per kalenderjaar meer bedraagt dan tien, onderscheidenlijk vijftien procent van de voor de rechtspersoon of instelling op grond van artikel 2.3, artikel 2.5, artikel 2.6 of artikel 2.7 geldende maximale bezoldiging. Bij of krachtens algemene maatregel van bestuur worden uitzonderingen vastgesteld ten aanzien waarvan de vorige volzin buiten toepassing wordt gelaten.  
 2.  Artikel 2.1, derde en vierde lid, eerste volzin, is van overeenkomstige toepassing op de bezoldiging van de in het eerste lid bedoelde leden, onderscheidenlijk voorzitters, met dien verstande dat in deze artikelleden voor «artikel 2.3» wordt gelezen «artikel 2.2 of 2.8». 
 
 ### Artikel  2.3  
 
-1.  De bezoldiging van een topfunctionaris bedraagt per kalenderjaar ten hoogste € 187 340 aan beloning, vermeerderd met 
-
-a. € 8263 wegens belastbare vaste en variabele onkostenvergoedingen en  
-
-b. € 34 871 wegens de voorzieningen ten behoeve van beloningen betaalbaar op termijn.     
-2.  De bedragen, bedoeld in het eerste lid, worden jaarlijks bij ministeriële regeling gewijzigd. De wijziging wordt bekend gemaakt vóór 1 november voorafgaand aan het jaar waarop de wijziging betrekking heeft.   
-3.  De wijzigingen, bedoeld in het tweede lid, worden als volgt berekend: 
-
-a. het bedrag, genoemd in de aanhef van het eerste lid, wordt aangepast met het percentage waarmee het salaris van het burgerlijk rijkspersoneel in de voorafgaande twaalf maanden is gewijzigd en wordt afgerond naar boven op hele euro’s.  
-
-b. het bedrag, bedoeld in het eerste lid, onderdeel a, wordt aangepast aan de hand van de consumentenprijsindex, geldend voor de maand september van het jaar, voorafgaand aan het jaar waarop de wijziging betrekking heeft, en wordt afgerond naar boven op hele euro’s.  
-
-c. het bedrag, bedoeld in het eerste lid, onderdeel b, wordt vastgesteld aan de hand van de door het Algemeen Burgerlijk Pensioenfonds op het moment van vaststellen van de in het tweede lid bedoelde ministeriële regeling bij de sector Rijk voor het werkgeversdeel van de premie gehanteerde premiepercentages en franchisebedragen toe te passen op het bedrag, genoemd in de aanhef van het eerste lid, zoals dat na toepassing van onderdeel a van dit lid komt te luiden en wordt afgerond naar boven op hele euro’s.    
+1.  De bezoldiging van een topfunctionaris bedraagt per kalenderjaar ten hoogste € 178.000,–.   
+2.  Het bedrag, genoemd in het eerste lid, wordt telkens per 1 januari van elk jaar bij ministeriële regeling aangepast aan de ontwikkeling van de contractuele loonkosten voor de overheid zoals deze in het jaar van vaststellen van de ministeriële regeling voor het daaraan voorafgaande jaar door het Centraal Bureau voor de Statistiek is vastgesteld, en wordt afgerond op een duizendvoud in euro’s.   
+3.  Het bedrag, genoemd in het eerste lid, wordt niet op grond van het tweede lid gewijzigd, indien de toepassing van het tweede lid niet leidt tot een verhoging van het bedrag.   
+4.  De ministeriële regeling, bedoeld in het tweede lid, wordt bekend gemaakt vóór 1 november voorafgaand aan het jaar waarop de wijziging betrekking heeft. 
 
 ### Artikel  2.4  
 
@@ -241,7 +233,7 @@ c. het bedrag, bedoeld in het eerste lid, onderdeel b, wordt vastgesteld aan de 
 
 ### Artikel  2.5  
 
-Onze Minister wie het aangaat kan bij ministeriële regeling, in overeenstemming met het gevoelen van de ministerraad, voor de functies van de topfunctionarissen bij een rechtspersoon als bedoeld in artikel 1.3, eerste lid, onderdeel a, een maximum vaststellen dat hoger is dan de maximale bezoldiging, bedoeld in artikel 2.3, indien de bijzondere arbeidsmarktomstandigheden een hoger bedrag rechtvaardigen. 
+Onze Minister wie het aangaat en Onze Minister kunnen gezamenlijk bij ministeriële regeling, in overeenstemming met het gevoelen van de ministerraad, voor een of meer functies van topfunctionarissen bij een rechtspersoon of instelling een maximum vaststellen dat hoger is dan de maximale bezoldiging, bedoeld in artikel 2.3, indien de bijzondere arbeidsmarktomstandigheden een hoger bedrag rechtvaardigen, doch niet hoger dan de maximumbezoldiging, bedoeld in artikel 2.3, eerste lid, zoals dit artikel luidde op de dag voorafgaande aan de inwerkingtreding van de Wet verlaging bezoldigingsmaximum WNT. 
 
 ### Artikel  2.6  
 
@@ -294,12 +286,12 @@ Partijen komen geen winstdelingen, bonusbetalingen of andere vormen van variabel
 2.  Indien toepassing is gegeven aan artikel 3.4, eerste lid, komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan het door Onze Minister wie het aangaat voor de betreffende rechtspersoon of organisatie voor dat jaar vastgesteld bedrag.   
 3.  In geval van een dienstverband met een kleinere omvang dan het bij de verantwoordelijke gebruikelijk voltijdse dienstverband, komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan het door Onze Minister wie het aangaat voor dat jaar vastgestelde bedrag, vermenigvuldigd met het aantal uren waarop het dienstverband betrekking heeft en gedeeld door het aantal uren van een voltijds dienstverband.   
 4.  In geval van een dienstverband met een kortere duur dan een kalenderjaar, komen partijen geen bezoldiging overeen die meer bedraagt dan het door Onze Minister wie het aangaat voor dat jaar vastgesteld bedrag, vermenigvuldigd met het aantal dagen waarop het dienstverband betrekking heeft en gedeeld door 365.   
-5.  In geval de functie van topfunctionaris in een periode van achttien maanden voor meer dan zes maanden wordt vervuld anders dan op grond van een dienstbetrekking, komen partijen geen bezoldiging overeen die per kalenderjaar meer bedraagt dan het door Onze Minister wie het aangaat voor dat jaar vastgestelde bedrag. Het derde en vierde lid zijn van overeenkomstige toepassing.   
+5.  In geval de functie van topfunctionaris in een periode van achttien maanden voor meer dan twaalf maanden wordt vervuld anders dan op grond van een dienstbetrekking, komen partijen met ingang van de eerste dag van de dertiende maand in de periode van achttien maanden geen bezoldiging overeen die per kalenderjaar meer bedraagt dan het door Onze Minister wie het aangaat voor dat jaar vastgestelde bedrag. Het derde en vierde lid zijn van overeenkomstige toepassing. Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de maximale bezoldiging voor het geval de functie van topfunctionaris in een periode van achttien maanden voor maximaal twaalf maanden wordt vervuld anders dan op grond van een dienstbetrekking.   
 6.  Een topfunctionaris die tevens werkzaam is bij een gelieerde rechtspersoon, de betreffende verantwoordelijke en de verantwoordelijke van de gelieerde rechtspersoon komen geen bezoldiging overeen voor zover de som van de bezoldigingen meer bedraagt dan het voor de op de bijlage bij artikel 1.4, eerste lid, genoemde rechtspersoon geldende bedrag, bedoeld in artikel 3.3 of artikel 3.4, tweede lid.  
 
 ### Artikel  3.2  
 
-1. In afwijking van artikel 3.1, eerste lid komen partijen met betrekking tot de leden, onderscheidenlijk voorzitters, van de hoogste toezichthoudende organen van een rechtspersoon of instelling als bedoeld in artikel 1.4 geen bezoldiging overeen die per kalenderjaar meer bedraagt dan vijf, onderscheidenlijk 7,5 procent van de voor de rechtspersoon of instelling op grond van artikel 3.1, eerste lid, artikel 3.4 of artikel 3.5 geldende maximale bezoldiging. Bij of krachtens algemene maatregel van bestuur worden uitzonderingen vastgesteld ten aanzien waarvan de vorige volzin buiten toepassing wordt gelaten.  
+1. In afwijking van artikel 3.1, eerste lid komen partijen met betrekking tot de leden, onderscheidenlijk voorzitters, van de hoogste toezichthoudende organen van een rechtspersoon of instelling als bedoeld in artikel 1.4 geen bezoldiging overeen die per kalenderjaar meer bedraagt dan tien, onderscheidenlijk vijftien procent van de voor de rechtspersoon of instelling op grond van artikel 3.1, eerste lid, artikel 3.4 of artikel 3.5 geldende maximale bezoldiging. Bij of krachtens algemene maatregel van bestuur worden uitzonderingen vastgesteld ten aanzien waarvan de vorige volzin buiten toepassing wordt gelaten.  
 2.  Artikel 3.1, vierde en vijfde lid, eerste volzin, is van overeenkomstige toepassing op de bezoldiging van de in het eerste lid bedoelde leden, onderscheidenlijk voorzitters. 
 
 ### Artikel  3.3  
@@ -474,25 +466,37 @@ d. de gegevens betreffende overtredingen en handhavingsmaatregelen.
 
 ### Artikel  7.2  
 
-Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
+Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet, en vervolgens telkens na drie jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  7.3  
 
-1.  In afwijking van artikel 2.1 onderscheidenlijk artikel 3.1, is een voorafgaand aan de inwerkingtreding van deze wet tussen partijen overeengekomen bezoldiging die meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, onderscheidenlijk het bedrag, bedoeld in artikel 3.3, toegestaan voor ten hoogste vier jaar na inwerkingtreding van deze wet. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van deze wet tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
+1.  In afwijking van artikel 2.1 onderscheidenlijk artikel 3.1, is een voorafgaand aan de inwerkingtreding van deze wet tussen partijen overeengekomen bezoldiging die meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, zoals dit artikel luidde op de dag voorafgaande aan de inwerkingtreding van de Wet verlaging bezoldigingsmaximum WNT, onderscheidenlijk het bedrag, bedoeld in artikel 3.3, toegestaan voor ten hoogste vier jaar na inwerkingtreding van deze wet. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van deze wet tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
 2.  Indien door wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, deze wet van toepassing wordt op de tussen partijen overeengekomen bezoldiging, is in afwijking van artikel 2.1 onderscheidenlijk artikel 3.1, een voorafgaand aan de inwerkingtreding van die wijziging tussen partijen overeengekomen bezoldiging die meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, onderscheidenlijk het bedrag, bedoeld in artikel 3.3, toegestaan voor ten hoogste vier jaar na inwerkingtreding van de wijziging van de bijlage. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van die wijziging tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
 3.  Een bezoldiging voor de leden van de hoogste toezichthoudende organen van een rechtspersoon of instelling die afwijkt van artikel 2.2, onderscheidenlijk artikel 3.2, is, indien de bezoldiging is overeengekomen voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlagen bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, toegestaan voor ten hoogste vier jaar na de inwerkingtreding van deze wet of de inwerkingtreding van de wijziging van de bijlage. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van deze wet, onderscheidenlijk de wijziging van de bijlage, tussen partijen zijn overeengekomen. Het tweede lid is van overeenkomstige toepassing. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
-4.  Indien toepassing wordt gegeven aan artikel 2.6, eerste lid, artikel 2.7, tweede lid, artikel 2.8, artikel 3.4, tweede lid, of artikel 3.5, is een tussen partijen overeengekomen bezoldiging die meer bedraagt dan het van toepassing zijnde bedrag, toegestaan, indien de overeenkomst is gesloten voorafgaand aan de inwerkingtreding van de ministeriële regeling, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, voor ten hoogste vier jaar na inwerkingtreding van de ministeriële regeling dan wel de wijziging van de bijlage. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van de ministeriële regeling, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de betreffende bijlage, tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
+4.  Indien de Wet verlaging bezoldigingsmaximum WNT in werking treedt of toepassing wordt gegeven aan artikel 2.6, eerste lid, artikel 2.7, tweede lid, artikel 2.8, artikel 3.4, tweede lid, of artikel 3.5, is een tussen partijen overeengekomen bezoldiging die meer bedraagt dan het van toepassing zijnde bedrag, toegestaan, indien de overeenkomst is gesloten voorafgaand aan de inwerkingtreding van die wet of de ministeriële regeling, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, voor ten hoogste vier jaar na inwerkingtreding van die wet of de ministeriële regeling dan wel de wijziging van de bijlage, tenzij op grond van het eerste tot en met vijfde lid reeds eerder een periode van ten hoogste vier jaar is aangevangen. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de inwerkingtreding van die wet of de ministeriële regeling, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de betreffende bijlage, tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
 5.  Indien een in een klasse als bedoeld in artikel 2.7, eerste lid, of 3.4, eerste lid, ingedeelde rechtspersoon of instelling op enig moment op grond van ongewijzigde criteria is ingedeeld in een klasse waarvoor een lager bedrag is vastgesteld, gaat die indeling in met ingang van 1 januari van het daarop volgende kalenderjaar. Een voorafgaande aan de wijziging van de indeling tussen partijen overeengekomen bezoldiging die meer bedraagt dan het voor de toepasselijke klasse geldende bedrag is toegestaan voor ten hoogste vier jaar na de wijziging van de indeling. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de wijziging van de indeling tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.   
 6.  Een beding in afwijking van artikel 2.10, eerste lid, onderscheidenlijk artikel 3.7, eerste lid, is, indien het beding is overeengekomen voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, dan wel voorafgaand aan de aanvraag van de subsidiebeschikking waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, toegestaan voor ten hoogste vier jaar na inwerkingtreding van deze wet dan wel de wijziging van de bijlage dan wel de bekendmaking van de subsidiebeschikking.   
 7.  In afwijking van artikel 2.11 of artikel 3.8 is een winstdeling, bonusbetaling of andere variabele beloning die tussen partijen is overeengekomen voorafgaand aan de inwerkingtreding van deze wet, dan wel voorafgaand aan de inwerkingtreding van de wijziging van de bijlage bij artikel 1.3, eerste lid, onderdeel d of e, of artikel 1.4, eerste lid, waardoor deze wet van toepassing is geworden op de betreffende rechtspersoon of instelling, toegestaan voor ten hoogste vier jaar na inwerkingtreding van deze wet of de wijziging van de bijlage.   
 8.  Indien door de verlening van een subsidie, bedoeld in artikel 1.3, eerste lid, onderdeel c, deze wet van toepassing wordt op een rechtspersoon, is in afwijking van artikel 2.1 onderscheidenlijk artikel 3.1, een voorafgaand aan de aanvraag van die beschikking tussen partijen overeengekomen bezoldiging die meer bedraagt dan de maximale bezoldiging, bedoeld in artikel 2.3, toegestaan voor ten hoogste vier jaar na de bekendmaking van de subsidiebeschikking. De bezoldiging, bedoeld in de vorige volzin, wordt slechts verhoogd, indien deze verhoging en de wijze waarop deze wordt berekend voorafgaand aan de aanvraag van die beschikking tussen partijen zijn overeengekomen. De artikelen 5.4 tot en met 5.6 zijn van toepassing.  
 9.  Indien een in het eerste tot en met het vijfde lid bedoelde periode van vier jaar is verstreken, wordt de overeengekomen bezoldiging in een periode van drie jaar teruggebracht tot het voor de rechtspersoon of instelling geldende maximum. In het eerste jaar bedraagt de verlaging een vierde deel van het verschil tussen de bezoldiging die op grond van het eerste tot en met het vierde lid werd genoten en het geldende maximum. In het tweede jaar bedraagt de verlaging een derde deel van het verschil tussen de bezoldiging uit het eerste jaar en het geldende maximum. In het derde jaar bedraagt de verlaging een tweede deel van het verschil tussen de bezoldiging uit het tweede jaar en het geldende maximum. Een eventuele overeengekomen verhoging als bedoeld in het eerste tot en met vierde lid, blijft buiten toepassing.   
 10.  Indien een dienstverband waarop dit artikel van toepassing is, wordt verlengd, blijft dit artikel na de verlenging buiten verdere toepassing.   
-11.  Voor de toepassing van dit artikel blijft buiten beschouwing iedere wijziging in de bezoldiging, of de duur van het dienstverband die wordt overeengekomen tussen 6 december 2011 en 1 januari 2013.  
+11.  Voor de toepassing van dit artikel blijft buiten beschouwing iedere wijziging in de bezoldiging, of de duur van het dienstverband die wordt overeengekomen tussen 6 december 2011 en 1 januari 2013, tenzij de wijziging betrekking heeft op een bezoldiging die niet hoger is dan de maximale bezoldiging, bedoeld in artikel 2.3, onderscheidenlijk het bedrag, bedoeld in artikel 3.3, dan wel het krachtens artikel 2.6 van toepassing zijnde bedrag, zoals deze golden met ingang van 1 januari 2013.  
+
+### Artikel  7.3a  
+
+1.  Indien op grond van artikel 7.3, zoals dat artikel luidde op de dag voorafgaande aan de inwerkingtreding van de Wet verlaging bezoldigingsmaximum WNT een hogere bezoldiging was toegestaan dan de maximale bezoldiging van artikel 2.3 dan wel het op grond van een ministeriële regeling als bedoeld in artikel 2.6, eerste lid, artikel 2.7, tweede lid of artikel 2.8, geldend bedrag, en dat bedrag gelijktijdig met de inwerkingtreding van de Wet verlaging bezoldigingsmaximum WNT of overeenkomstig artikel 7.4, tweede lid, wordt verlaagd, wordt in artikel 7.3, negende lid, voor «het voor de rechtspersoon of instelling geldende maximum» of «het geldende maximum» telkens gelezen: het op de dag voorafgaande aan de inwerkingtreding van de Wet verlaging bezoldigingsmaximum WNT voor de rechtspersoon of instelling geldende maximum.   
+2.  In het geval, bedoeld in het eerste lid, wordt na het verstrijken van de periode van drie jaar, bedoeld in artikel 7.3, negende lid, de bezoldiging in een periode van twee jaar teruggebracht naar het voor de rechtspersoon of instelling geldende maximum. Met ingang van het eerste jaar wordt de bezoldiging verlaagd naar het op de dag voorafgaande aan de inwerkingtreding van de Wet verlaging bezoldigingsmaximum WNT voor de rechtspersoon of instelling geldende maximum. In het tweede jaar bedraagt de verlaging de helft van het verschil tussen het op de dag voorafgaand aan de inwerkingtreding van de Wet verlaging bezoldigingsmaximum WNT geldende maximum en het geldende maximum.   
+3.  Dit artikel is niet van toepassing ten aanzien van de in artikel 2.2 bedoelde leden, onderscheidenlijk voorzitters van de hoogste toezichthoudende organen.  
 
 ### Artikel  7.4  
 
-In afwijking van de artikelen 2.9, 3.3 en 3.6, kan Onze Minister wie het aangaat, bij inwerkingtreding van deze wet de in die artikelen genoemde bedragen vaststellen voor het lopende kalenderjaar. 
+1.  Indien de Wet verlaging bezoldigingsmaximum WNT met ingang van 1 januari 2015 in werking treedt, kan, in afwijking van artikel 2.6, eerste lid, of artikel 2.7, tweede lid, Onze Minister wie het aangaat de ministeriële regeling tot vaststelling van de bedragen, bedoeld in artikel 2.6, eerste lid, en artikel 2.7, tweede lid, met betrekking tot het kalenderjaar 2015, uiterlijk in december 2014 vaststellen.   
+2.  Indien Onze Minister wie het aangaat niet voor 1 januari 2015 de bedragen, bedoeld in het eerste lid, voor het kalenderjaar 2015 heeft vastgesteld, dan blijven, in afwijking van artikel 2.6, eerste lid, en artikel 2.7, tweede lid, de bedragen die Onze Minister wie het aangaat krachtens die artikelen heeft vastgesteld voor het kalenderjaar 2014, van kracht voor het kalenderjaar 2015, ook indien deze bedragen hoger zijn dan het wettelijke bezoldigingsmaximum, bedoeld in artikel 2.3.  
+
+### Artikel  7.4a  
+
+1.  Zolang de algemene maatregel van bestuur, bedoeld in de artikelen 2.1, vierde lid, en 3.1, vijfde lid, nog niet in werking is getreden, blijven deze wet en de daarop rustende bepalingen, zoals deze luidden op de dag voor de inwerkingtreding van de Wet verlaging bezoldigingsmaximum WNT, van toepassing ten aanzien van topfunctionarissen die hun functie vervullen anders dan op grond van een dienstbetrekking.   
+2.  Bij de algemene maatregel van bestuur, bedoeld in het eerste lid, worden regels gesteld over het overgangsrecht ten aanzien van voorafgaande aan de inwerkingtreding van de algemene maatregel van bestuur tussen partijen overeengekomen bezoldigingen.  
 
 ### Artikel  7.5  
 
@@ -637,38 +641,34 @@ I. W. Opstelten
 7. De Stichting Centraal Orgaan Voorraadvorming Aardolieprodukten, bedoeld in artikel 1, onderdeel b, van de Wet voorraadvorming aardolieproducten 2001.   
 ### Ministerie van Volksgezondheid, Welzijn en Sport 
 
-1. De stichtingen die een bureau jeugdzorg in stand houden, bedoeld in artikel 4, eerste lid, van de Wet op de jeugdzorg.  
+1. Gecertificeerde instellingen als bedoeld in artikel 1.1 van de Jeugdwet.  
 
-2. De in Nederland gevestigde rechtspersoonlijkheid bezittende zorgaanbieders, bedoeld in artikel 18, eerste lid, van de Wet op de jeugdzorg behoudens de instellingen die tevens zijn toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
+2. De in Nederland gevestigde rechtspersoonlijkheid bezittende jeugdhulpaanbieders, bedoeld in artikel 1.1 van de Jeugdwet, behoudens de instellingen die tevens zijn toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
 
-3. De rechtspersonen met volledige rechtsbevoegdheid, bedoeld in artikel 41, derde lid, van de Wet op de jeugdzorg die de steunfunctie, bedoeld in artikel 1, van de Wet op de jeugdzorg, uitvoeren behoudens de instellingen die tevens zijn toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
+3. De rechtspersonen met volledige rechtsbevoegdheid, bedoeld in artikel 2.6, tweede lid, van de Jeugdwet die de vertrouwenspersoon, bedoeld in artikel 1.1 van de Jeugdwet, beschikbaar stellen, behoudens de instellingen die tevens zijn toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
 
-4. De rechtspersonen met volledige rechtsbevoegdheid met volledige rechtsbevoegdheid, bedoeld in artikel 41, vierde lid, van de Wet op de jeugdzorg die de vertrouwenspersoon, bedoeld in artikel 1, van de Wet op de jeugdzorg, beschikbaar stellen behoudens de instellingen die tevens zijn toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
+4. De stichting Vilans te Utrecht.  
 
-5. De instellingen die zijn aangewezen op grond van artikel 104, eerste en tweede lid, van de Wet op de jeugdzorg, behoudens de instellingen die tevens zijn toegelaten op grond van artikel 5 van de Wet toelating zorginstellingen.  
+5. De stichting Movisie te Utrecht.  
 
-6. De stichting Vilans te Utrecht.  
+6. De stichting Nederlands Jeugdinstituut/NJi te Utrecht.  
 
-7. De stichting Movisie te Utrecht.  
+7. De op grond van artikel 5 van de Wet toelating zorginstellingen toegelaten instellingen, waaronder begrepen de academische ziekenhuizen, bedoeld in artikel 1.13, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
 
-8. De stichting Nederlands Jeugdinstituut/NJi te Utrecht.  
+8. De rechtspersoon, bedoeld in artikel 3 van de Wet inzake bloedvoorziening.  
 
-9. De op grond van artikel 5 van de Wet toelating zorginstellingen toegelaten instellingen, waaronder begrepen de academische ziekenhuizen, bedoeld in artikel 1.13, eerste lid, van de Wet op het hoger onderwijs en wetenschappelijk onderzoek.  
+9. De Nederlandse Patiënten Consumenten Federatie te Utrecht.  
 
-10. De rechtspersoon, bedoeld in artikel 3 van de Wet inzake bloedvoorziening.  
+10. Het Landelijk Platform GGz te Utrecht.  
 
-11. De Nederlandse Patiënten Consumenten Federatie te Utrecht.  
+11. De Stichting LOC, Zeggenschap in zorg te Utrecht.  
 
-12. Het Landelijk Platform GGz te Utrecht.  
+12. De Stichting PGOsupport te Utrecht.  
 
-13. De Stichting LOC, Zeggenschap in zorg te Utrecht.  
-
-14. De Stichting PGOsupport te Utrecht.  
-
-15. De vereniging Ieder-In te Utrecht.   
+13. De vereniging Ieder-In te Utrecht.   
 ### Ministerie van Veiligheid en Justitie 
 
-1. De in Nederland gevestigde particuliere justitiële jeugdinrichtingen die zijn aangewezen krachtens artikel 3b, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen, behoudens de inrichtingen die onderdeel uitmaken van een rechtspersoonlijkheid bezittende zorgaanbieder als bedoeld in artikel 18, eerste lid, van de Wet op de jeugdzorg.  
+1. De in Nederland gevestigde particuliere justitiële jeugdinrichtingen die zijn aangewezen krachtens artikel 3b, eerste lid, van de Beginselenwet justitiële jeugdinrichtingen, behoudens de inrichtingen die onderdeel uitmaken van een rechtspersoonlijkheid bezittende jeugdhulpverlener als bedoeld in artikel 1.1 van de Jeugdwet.  
 
 2. De rechtspersoon die is aangewezen krachtens artikel 7, eerste lid, van de Wet Justitie-subsidies.  
 
@@ -721,7 +721,7 @@ I. W. Opstelten
 
 ### Ministerie van Volksgezondheid, Welzijn en Sport 
 
-De zorgverzekeraars die zich overeenkomstig artikel 25 van de Zorgverzekeringswet of artikel 33 van de Algemene Wet Bijzondere Ziektekosten als zodanig hebben aangemeld. 
+De zorgverzekeraars die zich overeenkomstig artikel 25 van de Zorgverzekeringswet of artikel 4.1.1 van de Wet langdurige zorg als zodanig hebben aangemeld. 
 
 ### Bijlage 4 
 

@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit geeft uitvoering aan de artikelen 4, 7, 13bis, 18a, 18g, 18h, 19a, 31a, 32bd, 33, 34, 35, 35f, 35g en 35n van de Wet op de loonbelasting 1964 en aan artikel 10a van de Algemene wet inzake rijksbelastingen.   
+1.  Dit besluit geeft uitvoering aan de artikelen 4, 7, 13bis, 18a, 18g, 18h, 19a, 31a, 33, 34, 35, 35f, 35g en 35n van de Wet op de loonbelasting 1964 en aan artikel 10a van de Algemene wet inzake rijksbelastingen.   
 2.   Dit besluit verstaat onder:  
 
 a. wet: Wet op de loonbelasting 1964;   
@@ -134,7 +134,7 @@ b.  *een aanmerkelijk belang:* een aanmerkelijk belang in de zin van de Wet inko
 
 ### Artikel  3a  
 
-Ingeval degene die ter voorziening in de algemeen noodzakelijke kosten van het bestaan periodieke uitkeringen ingevolge de Wet werk en bijstand verstrekt, bij het vaststellen van de hoogte van die uitkeringen rekening houdt met een rechtstreeks uit het familierecht voortvloeiende uitkering of verstrekking in de zin van artikel 3.101, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001, niet zijnde een termijn van lijfrente, als bedoeld in artikel 11, eerste lid, onderdeel a, wordt deze geacht die uit het familierecht voortvloeiende uitkering of verstrekking als loon in geld ingevolge de Wet werk en bijstand te verstrekken.  
+Ingeval degene die ter voorziening in de algemeen noodzakelijke kosten van het bestaan periodieke uitkeringen ingevolge de Participatiewet verstrekt, bij het vaststellen van de hoogte van die uitkeringen rekening houdt met een rechtstreeks uit het familierecht voortvloeiende uitkering of verstrekking in de zin van artikel 3.101, eerste lid, onderdeel b, van de Wet inkomstenbelasting 2001, niet zijnde een termijn van lijfrente, als bedoeld in artikel 11, eerste lid, onderdeel a, wordt deze geacht die uit het familierecht voortvloeiende uitkering of verstrekking als loon in geld ingevolge de Participatiewet te verstrekken.  
 
 ### Artikel  4  
 
@@ -234,22 +234,20 @@ g. perioden waarin de werknemer een tot zijn huishouden behorend kind heeft verz
 ###Artikel 10aa 
 
 1. 
-|Indien bij een eindloonloonstelsel bij de toepassing van artikel 18a van de wet een percentage per dienstjaar wordt toegepast van |wordt het in artikel 18a, achtste lid, onderdeel a, eerste volzin, bedoelde bedrag vervangen door 70% van |
-|:---|:---|
-|meer dan |maar niet meer dan | --- |
-|– |1,7% |€ 11.005 |
-|1,7% |1,8% |€ 12.251 |
+| Indien bij een middelloonstelsel bij de toepassing van artikel 18a van de wet een percentage per dienstjaar wordt toegepast van  | wordt het in artikel 18a, achtste lid, onderdeel a, eerste volzin, bedoelde bedrag vervangen door 75% van  | meer dan  | maar niet meer dan  |--- |
+|:---|:---|:---|:---|:---|
+| –  | 1,701%  | € 10.095  |
+| 1,701%  | 1,788%  | € 11.395  |
 
 2. 
 
-|Indien bij een middelloonstelsel bij de toepassing van artikel 18a van de wet een percentage per dienstjaar wordt toegepast van |wordt het in artikel 18a, achtste lid, onderdeel a, eerste volzin, bedoelde bedrag vervangen door 70% van |
-|:---|:---|
-|meer dan |maar niet meer dan | --- |
-|– |1,95% |€ 11.005 |
-|1,95% |2,05% |€ 12.251 |
+| Indien bij een eindloonstelsel bij de toepassing van artikel 18a van de wet een percentage per dienstjaar wordt toegepast van  | wordt het in artikel 18a, achtste lid, onderdeel a, eerste volzin, bedoelde bedrag vervangen door 66,28% van  | meer dan  | maar niet meer dan  |--- |
+|:---|:---|:---|:---|:---|
+| –  | 1,483%  | € 11.424  |
+| 1,483%  | 1,570%  | € 12.894  |
 
 3. Het eerste en tweede lid zijn van overeenkomstige toepassing met betrekking tot een op een beschikbare-premiestelsel gebaseerd ouderdomspensioen als bedoeld in artikel 18a, derde lid, van de wet.
-4. De vorige leden zijn van overeenkomstige toepassing met betrekking tot partnerpensioen en wezenpensioen, met dien verstande dat daarbij de in het eerste lid en het tweede lid opgenomen percentages naar evenredigheid worden verlaagd overeenkomstig de verhouding tussen de in artikel 18b, eerste en tweede lid, onderscheidenlijk artikel 18c, eerste en tweede lid, van de wet genoemde percentages per dienstjaar en die in artikel 18a van de wet. 
+4. De vorige leden zijn van overeenkomstige toepassing met betrekking tot partnerpensioen en wezenpensioen, met dien verstande dat daarbij de in het eerste lid en het tweede lid opgenomen percentages naar evenredigheid worden verlaagd overeenkomstig de verhouding tussen de in artikel 18b, tweede en eerste lid, onderscheidenlijk artikel 18c, tweede en eerste lid, van de wet genoemde percentages per dienstjaar en die in artikel 18a van de wet. 
 5.  Bij het begin van het kalenderjaar worden de in het eerste en tweede lid bedoelde bedragen bij ministeriële regeling vervangen door andere. Deze bedragen worden berekend door de te vervangen bedragen te vermenigvuldigen met de verhouding tussen het ingevolge artikel 18a, achtste lid, onderdeel a, eerste volzin, van de wet in het kalenderjaar in aanmerking te nemen bedrag en het ingevolge artikel 18a, achtste lid, onderdeel a, eerste volzin, van de wet in het vorige kalenderjaar in aanmerking te nemen bedrag. 
 
 ###Artikel 10ab 
@@ -264,18 +262,18 @@ c.de perioden gedurende welke de werknemer in dienstbetrekking heeft gestaan tot
 2. Als perioden die meetellen als deelnemingsjaren kunnen eveneens in aanmerking worden genomen dienstjaren ten gevolge van een voor 1 januari 2005 gedane waardeoverdracht van pensioenkapitaal, als bedoeld in de artikelen 32, vierde lid, 32a of 32b van de Pensioen- en spaarfondsenwet, zoals deze artikelen luidden op 31 december 2006, voor zover met schriftelijke bescheiden kan worden gestaafd dat deze dienstjaren bij de opbouw van het ouderdomspensioen in aanmerking zijn genomen. 
 3. Als perioden die meetellen als deelnemingsjaren kunnen eveneens in aanmerking worden genomen perioden gedurende welke de werknemer in dienstbetrekking heeft gestaan tot een andere inhoudingsplichtige of een met de inhoudingsplichtige of een andere inhoudingsplichtige verbonden lichaam als bedoeld in artikel 10a, vierde lid, van de Wet op de vennootschapsbelasting 1969, dat niet in Nederland is gevestigd, voor zover met schriftelijke bescheiden kan worden gestaafd dat deze perioden door die andere inhoudingsplichtige of dat lichaam bij de opbouw van het ouderdomspensioen of van een voorziening voor ouderdom ingevolge een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel c, van de Wet inkomstenbelasting 2001, in aanmerking zijn genomen. 
 4. Bij dienstbetrekkingen in deeltijd wordt het ingevolge artikel 18e van de wet geldende maximum verlaagd overeenkomstig de per deelnemingsjaar geldende deeltijdfactor, met dien verstande dat artikel 10a, vierde lid, van overeenkomstige toepassing is. 
-5. Bij toepassing van het eerste lid, onderdeel c, of derde lid, wordt voor de toepassing van artikel 18e, eerste lid, onderdeel b, en vierde lid, van de wet het 40<sup>1</sup>/<sub>6</sub>-deelnemingsjarenpensioen opgevat met inbegrip van de uit die andere dienstbetrekking voortvloeiende:
+5. Bij toepassing van het eerste lid, onderdeel c, of derde lid, wordt voor de toepassing van artikel 18e, eerste lid, onderdeel b, en vierde lid, van de wet het 40<sup>1</sup>/<sub>4</sub>-deelnemingsjarenpensioen opgevat met inbegrip van de uit die andere dienstbetrekking voortvloeiende:
 
 a.uitkeringen ingevolge een ouderdomspensioen;
 
-b.uitkeringen ingevolge een 40<sup>1</sup>/<sub>6</sub>-deelnemingsjarenpensioen;
+b.uitkeringen ingevolge een 40<sup>1</sup>/<sub>4</sub>-deelnemingsjarenpensioen;
 
 c.uitkeringen ingevolge een overbruggingspensioen als bedoeld in artikel 18e, zoals dit artikel op 31 december 2004 luidde;
 
 d.uitkeringen ingevolge een regeling voor vervroegde uittreding als bedoeld in artikel 18i, zoals dit artikel op 31 december 2004 luidde;
 
 e.uitkeringen ingevolge een prepensioen als bedoeld in artikel 38a, zoals dit artikel op 31 december 2004 luidde. 
-6. Indien perioden gedurende welke de werknemer in dienstbetrekking heeft gestaan tot een met de inhoudingsplichtige of een andere inhoudingsplichtige verbonden lichaam als bedoeld in artikel 10a, vierde lid, van de Wet op de vennootschapsbelasting 1969, dat niet in Nederland is gevestigd, in aanmerking worden genomen als deelnemingsjaren, wordt voor de toepassing van artikel 18e, eerste lid, onderdeel b, en vierde lid, van de wet het 40<sup>1</sup>/<sub>6</sub>-deelnemingsjarenpensioen opgevat met inbegrip van de uitkeringen ingevolge de bij dat lichaam opgebouwde voorziening voor ouderdom in een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel c, van de Wet inkomstenbelasting 2001.
+6. Indien perioden gedurende welke de werknemer in dienstbetrekking heeft gestaan tot een met de inhoudingsplichtige of een andere inhoudingsplichtige verbonden lichaam als bedoeld in artikel 10a, vierde lid, van de Wet op de vennootschapsbelasting 1969, dat niet in Nederland is gevestigd, in aanmerking worden genomen als deelnemingsjaren, wordt voor de toepassing van artikel 18e, eerste lid, onderdeel b, en vierde lid, van de wet het 40<sup>1</sup>/<sub>4</sub>-deelnemingsjarenpensioen opgevat met inbegrip van de uitkeringen ingevolge de bij dat lichaam opgebouwde voorziening voor ouderdom in een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel c, van de Wet inkomstenbelasting 2001.
 
 ### Artikel  10b  
 
@@ -283,6 +281,10 @@ e.uitkeringen ingevolge een prepensioen als bedoeld in artikel 38a, zoals dit ar
 2.  Voor de toepassing van artikel 18g, tweede lid, onderdeel b, van de wet komen niet tot het regelmatig genoten loon behorende loonbestanddelen slechts in aanmerking voorzover de opbouw van het pensioen volgens een ander stelsel dan het eindloonstelsel plaatsvindt.  
 3. Voor de toepassing van artikel 18g, tweede lid, onderdeel c, van de wet mag een loonsverlaging buiten beschouwing blijven, voorzover deze het gevolg is van het terugtreden naar een lager gekwalificeerde functie, in de periode die aanvangt 10 jaar direct voorafgaande aan de in de pensioenregeling vastgestelde ingangsdatum.   
 4. Voor de toepassing van artikel 18g, tweede lid, onderdeel d, van de wet mag een loonsverlaging buiten beschouwing blijven, voor zover deze het gevolg is van ziekte of arbeidsongeschiktheid.
+
+### Artikel  10ba  
+
+Voor zover het pensioengevend loon bestaat uit tot het regelmatig genoten loon behorende loonbestanddelen, mag voor de bepaling van het gemiddelde pensioengevend loon, bedoeld in de artikelen 18a en 18e van de wet, worden uitgegaan van de loopbaanontwikkeling, bedoeld in artikel 18a, derde lid, onderdeel b, van de wet. 
 
 ### Artikel  10c  
 
@@ -405,8 +407,8 @@ b. het bedrag van de schoolgelden.
 
 ### Artikel  10eb  
 
-1.  Een werknemer bezit specifieke deskundigheid indien het loon, bedoeld in paragraaf 3.3.1 van de Wet inkomstenbelasting 2001, op jaarbasis meer bedraagt dan € 36.378.   
-2.  In afwijking van het eerste lid bezit een werknemer die de titel van master heeft behaald aan een instelling voor wetenschappelijk onderwijs en die de leeftijd van 30 jaar nog niet heeft bereikt, specifieke deskundigheid indien het loon, bedoeld in paragraaf 3.3.1 van de Wet inkomstenbelasting 2001, op jaarbasis meer bedraagt dan € 27.653.   
+1.  Een werknemer bezit specifieke deskundigheid indien het loon, bedoeld in paragraaf 3.3.1 van de Wet inkomstenbelasting 2001, op jaarbasis meer bedraagt dan € 36.705.   
+2.  In afwijking van het eerste lid bezit een werknemer die in het wetenschappelijk onderwijs een Nederlandse graad of een hiermee gelijkwaardige buitenlandse graad heeft behaald en die de leeftijd van 30 jaar nog niet heeft bereikt, specifieke deskundigheid indien het loon, bedoeld in paragraaf 3.3.1 van de Wet inkomstenbelasting 2001, op jaarbasis meer bedraagt dan € 27.901.   
 3.  In afwijking in zoverre van het eerste en tweede lid bezit een werknemer ook specifieke deskundigheid indien de werknemer: 
 
 a. in het kader van wetenschappelijk onderzoek of wetenschappelijk onderwijs in Nederland wordt tewerkgesteld bij een onderzoeksinstelling als bedoeld in artikel 1.11, onderdelen a of b, van het Vreemdelingenbesluit 2000, of  
@@ -469,11 +471,7 @@ b.aannemelijk is dat de werknemer opnieuw zou worden aangemerkt als ingekomen we
 
 ####Heffing van de inhoudingsplichtige (hoofdstuk V van de wet): pseudo-eindheffing voor hoog loon
 
-### Artikel  10f  
-
-1.  Indien de werknemer of de gewezen werknemer op enig moment in het voorafgaande kalenderjaar loon heeft genoten van een inhoudingsplichtige en met overeenkomstige toepassing van artikel 13a van de wet in dat kalenderjaar tevens bedragen van dezelfde inhoudingsplichtige heeft genoten die tot de winst uit een onderneming of het resultaat uit overige werkzaamheden van die werknemer of gewezen werknemer worden gerekend, worden die bedragen voor de toepassing van artikel 32bd, eerste lid, van de wet in aanmerking genomen als door de inhoudingsplichtige in het voorafgaande kalenderjaar verstrekt loon.   
-2.  Indien de werknemer of de gewezen werknemer in het voorafgaande kalenderjaar meer dan € 150 000 aan loon heeft genoten van een inhoudingsplichtige die op 31 maart van het kalenderjaar niet meer inhoudingsplichtig is, is de gewezen inhoudingsplichtige of diens rechtsopvolger de pseudo-eindheffing, bedoeld in artikel 32bd, eerste lid, van de wet, ter zake van dat loon verschuldigd. Bij de toepassing van de eerste volzin is artikel 32bd, tweede lid, van de wet van overeenkomstige toepassing.   
-3.  Voor de toepassing van artikel 32bd, eerste lid, van de wet wordt niet als door een inhoudingsplichtige in het voorafgaande kalenderjaar aan een werknemer verstrekt loon aangemerkt een aanspraak als bedoeld in artikel 39d van de wet waarover de werknemer ineens heeft beschikt als bedoeld in artikel 39d, tweede lid, van de wet, zoals dat op 31 december 2013 luidde. 
+Vervallen per 01-01-2015 
 
 ### Hoofdstuk  5  
 
@@ -499,7 +497,7 @@ a. de navolgende termijnen van lijfrenten en andere periodieke uitkeringen en ve
 
 b. uitkeringen ingevolge de Ziektewet en ingevolge de Ongevallenwet 1921, de Land- en Tuinbouwongevallenwet 1922 en de Zeeongevallenwet 1919 in verbinding met de Liquidatiewet ongevallenwetten;   
 
-c. uitkeringen ingevolge de Algemene Ouderdomswet, de Algemene nabestaandenwet, hoofdstuk 3, afdeling 2, paragraaf 2, van de Wet arbeid en zorg, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering en de Wet arbeidsongeschiktheidsverzekering zelfstandigen en uitkeringen of inkomensvoorzieningen ingevolge de Wet werk en arbeidsondersteuning jonggehandicapten;   
+c. uitkeringen ingevolge de Algemene Ouderdomswet, de Algemene nabestaandenwet, hoofdstuk 3, afdeling 2, paragraaf 2, van de Wet arbeid en zorg, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering en de Wet arbeidsongeschiktheidsverzekering zelfstandigen en uitkeringen of inkomensvoorzieningen ingevolge de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;   
 
 d. uitkeringen ingevolge de Wet buitengewoon pensioen 1940-1945, ingevolge de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers en ingevolge de Wet buitengewoon pensioen Indisch verzet;   
 
@@ -507,15 +505,15 @@ e. uitkeringen ingevolge artikel 11a van de Wet tegemoetkoming chronisch zieken 
 
 f. uitkeringen ingevolge de Algemene Oorlogsongevallenregeling (Staatsblad van Nederlandsch-Indië 1946 (nr. 48) en de beschikking van de Luitenant-Gouverneur-Generaal van Nederlandsch-Indië van 5 november 1946, nr. 6 (Staatsblad van Nederlandsch-Indië 1946, nr. 118), alsmede op deze uitkeringen betrekking hebbende toe- en bijslagen;   
 
-g. uitkeringen ingevolge de Wet werk en bijstand, alsmede de in artikel 3a bedoelde uit het familierecht voortvloeiende periodieke uitkeringen of verstrekkingen;   
+g. uitkeringen ingevolge de Participatiewet, alsmede de in artikel 3a bedoelde uit het familierecht voortvloeiende periodieke uitkeringen of verstrekkingen;   
 
 h. uitkeringen ingevolge de Werkloosheidswet;   
 
 i. uitkeringen uit de Stichting 1940-1945, de Stichting Friesland 1940-1945 en de Stichting Hulp voor nagelaten betrekkingen voor illegale strijders (Stichting Sneek 1940-1945);   
 
-j. uitkeringen ingevolge een pensioenregeling waaraan deelneming verplicht is op grond van de Wet op het notarisambt;   
+j. uitkeringen ingevolge een pensioenregeling waaraan wordt deelgenomen op grond van de Wet op het notarisambt;   
 
-k. uitkeringen ingevolge een pensioenregeling waaraan deelneming verplicht is op grond van de Wet verplichte beroepspensioenregeling;  
+k. uitkeringen ingevolge een pensioenregeling waaraan wordt deelgenomen op grond van de Wet verplichte beroepspensioenregeling;  
 
 l. uitkeringen ingevolge de Wet uitkeringen vervolgingsslachtoffers 1940-1945 en ingevolge de Wet uitkeringen burger-oorlogsslachtoffers 1940-1945;   
 
@@ -535,14 +533,14 @@ s. inkomensondersteunende uitkeringen ingevolge artikel 108, eerste lid, van de 
 
 t. uitkeringen ingevolge de Wet inkomensvoorziening oudere werklozen; 
 
-u. uitkeringen ingevolge een pensioenregeling waaraan deelneming verplicht is op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000; 
+u. uitkeringen ingevolge een pensioenregeling waaraan wordt deelgenomen op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000; 
 
 v. tegemoetkomingen ingevolge de Wet mogelijkheid koopkrachttegemoetkoming oudere belastingplichtigen.    
 2.   De in het eerste lid bedoelde inkomsten worden aangemerkt als loon uit vroegere arbeid.  
 
 ### Artikel  12  
 
-Ten aanzien van de in artikel 33, tweede lid, onderdeel c, onder 1°, van de wet bedoelde werknemers, met uitzondering van degenen die een uitkering ontvangen op grond van het Besluit bijstandverlening zelfstandigen 2004, herrekent de inhoudingsplichtige bij het einde van het kalenderjaar volgens bij ministeriële regeling te stellen regels de op de voet van de in die bepaling bedoelde tabel geheven belasting zodanig dat uiteindelijk de belasting zoveel mogelijk wordt geheven als hadden de werknemers loon uit vroegere arbeid genoten niet zijnde uitkeringen ingevolge de Wet werk en bijstand. Bij de in de vorige volzin bedoelde herrekening wordt het bedrag van de in aanmerking te nemen heffingskorting, in afwijking in zoverre van artikel 23, tweede lid, van de wet, verminderd met het volgens bij ministeriële regeling te stellen regels te bepalen bedrag aan heffingskorting voor de loonbelasting, met uitzondering van de arbeidskorting en de werkbonus, waarmee ten aanzien van de werknemer reeds rekening is gehouden bij de inhouding van belasting op ander loon.  
+Ten aanzien van de in artikel 33, tweede lid, onderdeel c, onder 1°, van de wet bedoelde werknemers, met uitzondering van degenen die een uitkering ontvangen op grond van het Besluit bijstandverlening zelfstandigen 2004, herrekent de inhoudingsplichtige bij het einde van het kalenderjaar volgens bij ministeriële regeling te stellen regels de op de voet van de in die bepaling bedoelde tabel geheven belasting zodanig dat uiteindelijk de belasting zoveel mogelijk wordt geheven als hadden de werknemers loon uit vroegere arbeid genoten niet zijnde uitkeringen ingevolge de Participatiewet. Bij de in de vorige volzin bedoelde herrekening wordt het bedrag van de in aanmerking te nemen heffingskorting, in afwijking in zoverre van artikel 23, tweede lid, van de wet, verminderd met het volgens bij ministeriële regeling te stellen regels te bepalen bedrag aan heffingskorting voor de loonbelasting, met uitzondering van de arbeidskorting en de werkbonus, waarmee ten aanzien van de werknemer reeds rekening is gehouden bij de inhouding van belasting op ander loon.  
 
 ### Hoofdstuk  6  
 

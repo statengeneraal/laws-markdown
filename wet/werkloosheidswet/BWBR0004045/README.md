@@ -239,10 +239,12 @@ f.die als vrijwilliger als bedoeld in artikel 2, zesde lid, van de Wet op de loo
 
 ### Artikel  8  
 
-1.  Een persoon wiens dienstbetrekking is geëindigd, behoudt de hoedanigheid van werknemer, voor zover hij geen werkzaamheden verricht uit hoofde waarvan hij op grond van deze wet niet als werknemer wordt beschouwd.   
-2. Een persoon, wiens werknemerschap is geëindigd door het verrichten van werkzaamheden in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep, herkrijgt bij beëindiging van die werkzaamheden de hoedanigheid van werknemer, indien de werkzaamheden worden beëindigd binnen een periode die gelijk is aan de uitkeringsduur, danwel binnen anderhalf jaar, indien de uitkeringsduur korter is dan anderhalf jaar.  
-3.   Een persoon, wiens werknemerschap is geëindigd door het verrichten van werkzaamheden als lid van de Eerste Kamer der Staten-Generaal, van een vertegenwoordigend orgaan van een publiekrechtelijk lichaam, dat bij rechtstreekse verkiezing wordt samengesteld, of van een algemeen bestuur van een waterschap, herkrijgt bij beëindiging van die werkzaamheden de hoedanigheid van werknemer, voor zover die beëindiging plaatsvindt binnen het tijdvak van de bij de aanvang van die werkzaamheden voor die persoon nog geldende uitkeringsduur krachtens deze wet.    
-4.   Onverminderd het tweede en derde lid herkrijgt de persoon na afloop van de in het eerste lid bedoelde werkzaamheden de hoedanigheid van werknemer, indien deze niet langer hebben geduurd dan zes maanden.   
+1.  Een persoon wiens dienstbetrekking geheel of gedeeltelijk is geëindigd, behoudt de hoedanigheid van werknemer, voor zover hij geen werkzaamheden verricht uit hoofde waarvan hij op grond van deze wet niet als werknemer wordt beschouwd, behalve als die werkzaamheden worden aangemerkt als vrijwilligerswerk.   
+2.  In afwijking van het eerste lid behoudt een persoon de hoedanigheid van werknemer voor zover het aantal uren in een kalenderweek waarop hij werkzaamheden in de uitoefening van een bedrijf of in de zelfstandige uitoefening van een beroep verricht niet hoger is dan het gemiddeld aantal uren per kalenderweek waarop hij deze werkzaamheden verrichtte in de 26 kalenderweken onmiddellijk voorafgaande aan het moment waarop de werkzaamheden in dienstbetrekking, waaruit de werknemer werkloos is geworden, eindigden.  
+3.  Een persoon, wiens werknemerschap geheel of gedeeltelijk is geëindigd door het verrichten van werkzaamheden als bedoeld in het tweede lid, herkrijgt bij de volledige beëindiging van die werkzaamheden de hoedanigheid van werknemer, indien de werkzaamheden worden beëindigd binnen een periode die gelijk is aan de uitkeringsduur, dan wel binnen anderhalf jaar, indien de uitkeringsduur korter is dan anderhalf jaar.   
+4.   Een persoon, wiens werknemerschap geheel of gedeeltelijk is geëindigd door het verrichten van werkzaamheden als lid van de Eerste Kamer der Staten-Generaal, van een vertegenwoordigend orgaan van een publiekrechtelijk lichaam, dat bij rechtstreekse verkiezing wordt samengesteld, of van een algemeen bestuur van een waterschap, herkrijgt bij gehele of gedeeltelijke beëindiging van die werkzaamheden de hoedanigheid van werknemer, voor zover die beëindiging plaatsvindt binnen het tijdvak van de bij de aanvang van die werkzaamheden voor die persoon nog geldende uitkeringsduur krachtens deze wet.    
+5.  Een persoon, wiens werknemerschap geheel of gedeeltelijk is geëindigd door het verrichten van werkzaamheden, waarvan hij op grond van deze wet niet als werknemer wordt beschouwd, niet zijnde werkzaamheden als bedoeld in het tweede of vierde lid, herkrijgt bij gehele of gedeeltelijke beëindiging van die werkzaamheden de hoedanigheid van werknemer.   
+6.  Bij ministeriële regeling worden nadere voorwaarden gesteld aan het aanmerken van werkzaamheden als vrijwilligerswerk als bedoeld in het eerste lid. 
 
 ###Artikel 8a 
 
@@ -453,7 +455,7 @@ d. zodra de werknemer geen recht op uitkering heeft op grond van artikel 19;
 e. zodra de voor de werknemer geldende uitkeringsduur is verstreken;   
 
 f. zodra de werknemer op wie het zesde lid, onderdeel b, van toepassing is, inkomsten geniet, die per week meer bedragen dan 87,5% van vijf maal 100/70 van de uitkering.    
-2.   Voor de werknemer op wie het eerste lid, onderdeel a, van toepassing is eindigt het recht op uitkering terzake van het aantal uren dat hij werkzaamheden verricht uit hoofde waarvan hij niet als werknemer in de zin van deze wet wordt beschouwd.    
+2.  Voor de werknemer op wie het eerste lid, onderdeel a, van toepassing is, eindigt het recht op uitkering ter zake van het gemiddeld aantal uren per kalenderweek waarop hij werkzaamheden verricht uit hoofde waarvan hij niet als werknemer in de zin van deze wet wordt beschouwd gedurende de kalenderweken van een periode als bedoeld in artikel 33, waarover betaling plaatsvindt, waarin de desbetreffende kalenderweek zich bevindt.   
 3.  Voor de werknemer op wie het eerste lid, onderdeel b, van toepassing is, eindigt het recht op uitkering ter zake van het aantal arbeidsuren dat hij in een kalenderweek heeft dan wel ter zake van het aantal arbeidsuren in een kalenderweek waarop hij minder beschikbaar is voor arbeid.  
 4. Zo nodig in afwijking van het derde lid eindigt het recht op uitkering geheel indien de werknemer:
 
@@ -470,7 +472,7 @@ b. op de werknemer, die ten minste 52 weken onafgebroken recht op uitkering heef
 8.  Voor het bepalen van het tijdvak van 52 weken, bedoeld in het zesde lid, onderdeel b, worden perioden meegeteld waarin ten hoogste gedurende vier weken geen recht op uitkering bestaat.   
 9.  Het zesde lid, onderdeel b, is van overeenkomstige toepassing op de werknemer die, uit hoofde van de in dat onderdeel bedoelde werkzaamheden, in verband met ongeschiktheid ten gevolge van ziekte, zwangerschap of bevalling recht heeft op loon als bedoeld in artikel 629 van Boek 7 van het Burgerlijk Wetboek, dan wel op bezoldiging of hetgeen daarmee overeenkomt als bedoeld in artikel 76a, eerste lid, van de Ziektewet.   
 10.  Indien tijdens een recht op uitkering na toepassing van het zesde lid, onderdeel b, een nieuw recht op uitkering ontstaat, gelden voor de toepassing van het zesde lid, onderdeel b, ten aanzien van dat nieuwe recht niet langer de voorwaarden dat de werknemer ten minste 52 weken onafgebroken recht op uitkering heeft gehad en dat gedurende 13 aaneengesloten kalenderweken sprake is geweest van volledig verlies van zijn arbeidsuren.   
-11.  Onder de uitkering, bedoeld in het eerste lid, onderdeel f, wordt verstaan de gezamenlijke uitkeringen indien sprake is van meerdere rechten op uitkering of indien sprake is van samenloop van het recht op uitkering met een recht op uitkering of arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en inkomen naar arbeidsvermogen of de Ziektewet. 
+11.  Onder de uitkering, bedoeld in het eerste lid, onderdeel f, wordt verstaan de gezamenlijke uitkeringen indien sprake is van meerdere rechten op uitkering of indien sprake is van samenloop van het recht op uitkering met een recht op uitkering of arbeidsondersteuning op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en inkomen naar arbeidsvermogen of de Ziektewet. 
 12. Indien de werknemer recht heeft op een uitkering als bedoeld in artikel 19, eerste lid, onderdeel a, en het aantal arbeidsuren in de dienstbetrekking waaruit het recht op die uitkering voortvloeit in de kalenderweek voorafgaande aan de dag van het ontstaan van dat recht, gelet op het arbeidspatroon in die dienstbetrekking in de vier kalenderweken voorafgaand aan die dag, geen juist beeld geeft van dat arbeidspatroon, eindigt het recht op uitkering, in afwijking van het eerste lid, onderdeel d, voor het gemiddeld aantal arbeidsuren per kalenderweek in die dienstbetrekking in die vier kalenderweken. 
 13.  Het eerste lid, onderdeel b, is niet van toepassing indien na toepassing van het zesde lid, onderdeel b, tijdens een recht op uitkering de werknemer opnieuw werkzaamheden als werknemer gaat verrichten. 
 
@@ -493,8 +495,9 @@ a. wegens een omstandigheid als bedoeld in artikel 19, eerste lid, onderdeel e, 
 b. op grond van artikel 20, eerste lid, onderdeel b, als gevolg van het niet kunnen voldoen aan de voorwaarde bedoeld in artikel 16, eerste lid, onderdeel b, wegens andere omstandigheden dan ziekte of arbeidsongeschiktheid of het volgen van scholing of opleiding, terzake waarvan de werknemer een uitkering ontvangt als bedoeld in artikel 19, eerste lid, onderdelen a, b, c of d; of   
 
 c. wegens een combinatie van de hier bedoelde omstandigheden, kan, ook indien deze omstandigheden zich aaneensluitend voordoen, slechts herleven indien de periode tussen de eindiging van het recht en het vervallen van de omstandigheid of omstandigheden als hier bedoeld niet langer is dan zes maanden.      
-4.  Bij ministeriële regeling kan worden geregeld dat het derde lid buiten toepassing blijft voor categorieën van werknemers.   
-5.  Indien het recht op uitkering op grond van artikel 20, eerste lid, onderdeel d, juncto artikel 19, eerste lid, onderdeel a, is geëindigd en vervolgens op grond van het eerste lid herleeft, is artikel 16, zesde lid, van overeenkomstige toepassing. 
+4.  Een recht op uitkering dat is geëindigd op grond van artikel 20, eerste lid, onderdeel c, doordat inkomen wordt genoten dat uitsluitend in verband met het verrichten van werkzaamheden als bedoeld in artikel 8, vierde lid, meer bedraagt dan 87,5% van het maandloon kan slechts herleven, indien de periode tussen de eindiging van het recht en het vervallen van de omstandigheid als hier bedoeld niet langer is dan de resterende uitkeringsduur bij de eindiging van het recht.  
+5.  Bij ministeriële regeling kan worden geregeld dat het derde lid buiten toepassing blijft voor categorieën van werknemers.   
+6.  Indien het recht op uitkering op grond van artikel 20, eerste lid, onderdeel d, juncto artikel 19, eerste lid, onderdeel a, is geëindigd en vervolgens op grond van het eerste lid herleeft, is artikel 16, zesde lid, van overeenkomstige toepassing. 
 
 ### §  2  
 
@@ -543,7 +546,7 @@ b. werkloos is of blijft, doordat hij:
 a.aan de werkloosheid een dringende reden ten grondslag ligt in de zin van artikel 678 van Boek 7 van het Burgerlijk Wetboek en de werknemer terzake een verwijt kan worden gemaakt;
 
 b.de dienstbetrekking is beëindigd door of op verzoek van de werknemer zonder dat aan de voortzetting ervan zodanige bezwaren waren verbonden, dat deze voortzetting redelijkerwijs niet van hem kon worden gevergd.  
-3.   Als passende arbeid, bedoeld in het eerste lid, wordt beschouwd alle arbeid die voor de krachten en bekwaamheden van de werknemer is berekend, tenzij aanvaarding om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd. Niet als passende arbeid wordt beschouwd arbeid op grond van een dienstbetrekking als bedoeld in hoofdstuk 2 of 3 van de Wet sociale werkvoorziening.    
+3.   Als passende arbeid, bedoeld in het eerste lid, wordt beschouwd alle arbeid die voor de krachten en bekwaamheden van de werknemer is berekend, tenzij aanvaarding om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd.   
 4.   Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent het begrip passende arbeid, bedoeld in het eerste en derde lid.    
 5.  De werknemer is verplicht zich zodanig te gedragen dat hij door zijn doen en laten het Algemeen Werkloosheidsfonds, het sectorfonds of het Uitvoeringsfonds voor de overheid niet benadeelt of zou kunnen benadelen. Onder benadeling in de zin van dit artikel is niet begrepen een gedraging als bedoeld in artikel 25.   
 6. Het niet voeren van verweer door de werknemer tegen of het instemmen van de werknemer met een beëindiging van de dienstbetrekking door of op verzoek van de werkgever leidt niet tot overtreding van de verplichtingen, bedoeld in het eerste lid, aanhef en onderdeel a, of het vijfde lid. 
@@ -560,7 +563,7 @@ De werknemer is verplicht aan het UWV op zijn verzoek of onverwijld uit eigen be
 
 1.  De werknemer is verplicht:  
 
-a. vervallen;  
+a. zich te onthouden van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden;  
 
 b. binnen één week na het intreden van zijn werkloosheid bij het UWV een aanvraag om een uitkering in te dienen;   
 
@@ -568,9 +571,9 @@ c. de voorschriften op te volgen die het UWV ten behoeve van een doelmatige cont
 
 d. zich als werkzoekende bij het UWV te laten registreren en die registratie tijdig te doen verlengen, indien hem daartoe het recht toekomt op grond van artikel 30b, derde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-e. mee te werken aan de activiteiten die bevorderlijk zijn voor zijn inschakeling in de arbeid, bedoeld in de hoofdstukken VI en XA;  
+e. mee te werken aan de activiteiten die bevorderlijk zijn voor zijn inschakeling in de arbeid;  
 
-f. mee te werken aan een scholing of opleiding die noodzakelijk wordt geacht voor zijn inschakeling in de arbeid, beschikbaar te zijn voor de voorzieningen, bedoeld in artikel 7, eerste lid, onderdeel a, van de Wet werk en bijstand en mee te werken aan het verkrijgen van die voorzieningen;  
+f. mee te werken aan een scholing of opleiding die noodzakelijk wordt geacht voor zijn inschakeling in de arbeid, beschikbaar te zijn voor de voorzieningen, bedoeld in artikel 7, eerste lid, onderdeel a, van de Participatiewet en mee te werken aan het verkrijgen van die voorzieningen;  
 
 g. mee te werken aan een voor hem gewenst onderzoek naar zijn arbeidsgeschiktheid door een arts, een psycholoog of een beroepskeuze-adviseur;   
 
@@ -588,14 +591,13 @@ m.bij deelname aan een re-integratietraject de reden van het niet naleven van zi
 2.   Het UWV is bevoegd regels te stellen met betrekking tot het tijdstip van registratie, bedoeld in het eerste lid, onderdeel d.    
 3.  Onze Minister is bevoegd regels te stellen waarbij bepaalde groepen werknemers worden vrijgesteld van verplichtingen, hun op grond van het eerste lid, onderdelen d, f of g, opgelegd.   
 4. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld op grond waarvan aan werknemers in individuele gevallen tijdelijk ontheffing kan worden verleend van verplichtingen, hun op grond van het eerste lid, onderdelen d, f of g, opgelegd.
-5. Voor de toepassing van het eerste lid, onderdelen e en f, en de hoofdstukken VI en XA wordt niet als arbeid beschouwd arbeid op grond van een dienstbetrekking als bedoeld in hoofdstuk 2 of 3 van de Wet sociale werkvoorziening.
 
 ###Artikel 26a 
 
-1. De artikelen 24, eerste lid, onderdeel b, en 26, eerste lid, onderdelen d tot en met g en k tot en met m, zijn niet van toepassing op de werknemer die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoort van de Wet sociale werkvoorziening. 
+1.  Artikel 24, eerste lid, onderdeel b, is niet van toepassing op de geïndiceerde, bedoeld in artikel 1, eerste lid, van de Wet sociale werkvoorziening.  
 2.  De artikelen 19, eerste lid, onderdeel k, 26, eerste lid, onderdelen d tot en met g en i tot en met m, zijn niet van toepassing, en artikel 24, eerste lid, onderdeel b, onder 1°, 2° en 4°, is van toepassing alsof het recht op uitkering is geëindigd, op de werknemer: 
 
-a. op wie artikel 35aa, eerste lid, van toepassing is; en  
+a. op wie artikel 35ab, eerste lid, van toepassing is; en  
 
 b. van wie de werkzaamheden als werknemer een zodanige omvang hebben dat ten opzichte van zijn gemiddeld aantal arbeidsuren per kalenderweek minder dan vijf arbeidsuren of minder dan de helft van zijn gemiddeld aantal arbeidsuren per kalenderweek zou resteren, indien artikel 20, eerste lid, onderdeel b, van toepassing zou zijn geweest.   
 
@@ -637,9 +639,9 @@ b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende 
 
 ### Artikel  27g  
 
-1.  Het UWV verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet arbeidsongeschiktheidsvoorziening militairen, de Wet inkomensvoorziening oudere werklozen, de Wet arbeid en zorg of een toeslag op grond van de Toeslagenwet, die de overtreder ontvangt.   
+1.  Het UWV verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet arbeidsongeschiktheidsvoorziening militairen, de Wet inkomensvoorziening oudere werklozen, de Wet arbeid en zorg of een toeslag op grond van de Toeslagenwet, die de overtreder ontvangt.   
 2.  Onverminderd het eerste lid kan het UWV de bestuurlijke boete verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op hem heeft.  
-3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de overtreder een uitkering ontvangt op grond van de Algemene Ouderdomswet, de Algemene nabestaandenwet, de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
+3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de overtreder een uitkering ontvangt op grond van de Algemene Ouderdomswet, de Algemene nabestaandenwet, de Participatiewet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
 4.  De in artikel 479g van het Wetboek van Burgerlijke Rechtsvordering aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het UWV. Indien het UWV gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van artikel 4:123, eerste lid, van de Algemene wet bestuursrecht, door middel van toezending per post aan degene aan wie de boete is opgelegd.   
 5.  Zolang de overtreder zijn verplichting, bedoeld in artikel 27a, negende lid, niet of niet behoorlijk nakomt: 
 
@@ -653,7 +655,7 @@ b. geldt de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van h
 2.  Artikel 27g, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 27a, zesde lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 3.  Het UWV kan op verzoek van de overtreder besluiten het eerste en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 27g, eerste lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Wet werk en bijstand wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Participatiewet wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
 6.  Voor de toepassing van het vijfde lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
 7.  Het vrijgelaten deel, bedoeld in het vijfde lid, is niet vatbaar voor beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen. 
 
@@ -692,7 +694,7 @@ c. de werknemer een verplichting, hem op grond van de artikelen 24, 25 of 26 opg
 1.  Is van de aanvrager of ontvanger van een uitkering bij het UWV een adres in Nederland bekend, terwijl in de basisregistratie personen ambtshalve is opgenomen dat hij is vertrokken naar een onbekend land van verblijf, dan verzoekt het UWV hem de afwijkende registratie in de basisregistratie personen binnen een redelijke termijn ongedaan te laten maken.   
 2.  Wanneer na afloop van deze termijn, de afwijkende registratie niet is beëindigd of als uit de basisregistratie personen niet blijkt dat het college van burgemeester en wethouders van de desbetreffende gemeente de gegevens over het adres in onderzoek heeft genomen, schort het UWV de betaling van de uitkering aan de persoon, die recht heeft op de uitkering, op.   
 3.  De opschorting wordt beëindigd zodra is vastgesteld dat de persoon, bedoeld in het tweede lid, in het buitenland woont of verblijft of dat een adres in Nederland in de basisregistratie personen is opgenomen.   
-4.  Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort het UWV de betaling de uitkering op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.  
+4.  Indien het onderzoek van het college van burgemeester en wethouders is afgerond en de persoon, bedoeld in het tweede lid, in de basisregistratie personen ambtshalve opgenomen blijft met gegevens over het vertrek uit Nederland, schort het UWV de betaling van de uitkering op tot verblijf in het buitenland kan worden vastgesteld of een adres in Nederland in de basisregistratie personen is opgenomen.  
 
 ### Artikel  31  
 
@@ -786,13 +788,11 @@ a. redelijkerwijs te voorzien is dat de werknemer niet zal kunnen voortgaan met 
 
 b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle vorderingen, behoudens de in het tweede lid bedoelde vorderingen, van de overige schuldeisers zonder een zodanig besluit niet tot stand zal komen;  
 
-c. de vordering van het UWV wegens onverschuldigd betaalde uitkering ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
+c. een naar het oordeel van het UWV betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
 
-d. een naar het oordeel van het UWV betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
+d. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
-e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
-
-f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
+e. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
 2.  Het eerste lid is niet van toepassing, indien een vordering is ontstaan door het niet nakomen door de werknemer van de verplichting, bedoeld in artikel 25, en hiervoor een boete als bedoeld in artikel 27a is opgelegd, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het Wetboek van Strafrecht.   
 3.  Het besluit tot afzien van terugvordering of verdere terugvordering wordt ingetrokken of ten nadele van de werknemer gewijzigd indien: 
 
@@ -822,7 +822,7 @@ b.treedt, in afwijking van artikel 11, tweede lid, artikel 10, derde lid, van de
 
 ### Artikel  39  
 
-1.  Indien degene aan wie een uitkering is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de Algemene Wet Bijzondere Ziektekosten en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het UWV bevoegd de uitkering tot het bedrag van die bijdrage in plaats van aan degene, aan wie de uitkering is toegekend, zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.   
+1.  Indien degene aan wie een uitkering is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de Wet langdurige zorg en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het UWV bevoegd de uitkering tot het bedrag van die bijdrage in plaats van aan degene, aan wie de uitkering is toegekend, zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.   
 2.   Indien degene, aan wie een uitkering is toegekend, in een inrichting ter verpleging van geesteszieken of van zwakzinnigen is opgenomen en het UWV, van de desbetreffende inrichting of van het college van burgemeester en wethouders van de gemeente die de opnamekosten betaalt, het verzoek ontvangt om de uitkering aan die inrichting of die gemeente uit te betalen, is het UWV bevoegd dat verzoek zonder het stellen van andere voorwaarden in te willigen.    
 3.   Indien het eerste lid toepassing vindt, heeft de in het tweede lid bedoelde bevoegdheid betrekking op het gedeelte van de uitkering, dat niet aan het Zorginstituut Nederland wordt uitbetaald.    
 4.  Een herziening van de uitkering op grond van het eerste lid als gevolg van een wijziging van de verschuldigde bijdrage vindt plaats zonder dat dit bij beschikking is vastgesteld.  
@@ -861,13 +861,13 @@ c.het aantal kalenderjaren vanaf en met inbegrip van het kalenderjaar waarin de 
 
 ###Artikel 42a 
 
-1. Voor de toepassing van artikel 42 worden met dagen of uren waarover loon is ontvangen, gelijkgesteld:
+1. Voor de toepassing van artikel 42 worden met dagen waarover loon is ontvangen of met acht uren waarover loon is ontvangen, gelijkgesteld:
 
-a.dagen of uren waarover recht bestond op een uitkering die naar aard en strekking overeenkomt met een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen of met een uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering voorzover de uitkering wordt toegekend naar een arbeidsongeschiktheid van ten minste 80% respectievelijk wordt toegekend over periodes waarin de persoon slechts in staat is om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen, bedoeld in artikel 1 van eerstgenoemde wet;
+a.dagen waarover recht bestond op een uitkering die naar aard en strekking overeenkomt met een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen of met een uitkering op grond van de Wet op de arbeidsongeschiktheidsverzekering voorzover de uitkering wordt toegekend naar een arbeidsongeschiktheid van ten minste 80% respectievelijk wordt toegekend over periodes waarin de persoon slechts in staat is om met arbeid ten hoogste 20% te verdienen van het maatmaninkomen, bedoeld in artikel 1 van eerstgenoemde wet;
 
-b.dagen of uren waarover een persoon een uitkering ontvangt op grond van hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen, berekend naar een arbeidsongeschiktheid van ten minste 80% of een toelage op grond van dat hoofdstuk, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend. 
+b.dagen waarover een persoon een uitkering ontvangt op grond van hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen, berekend naar een arbeidsongeschiktheid van ten minste 80% of een toelage op grond van dat hoofdstuk, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend. 
 2. Voor de toepassing van artikel 42 worden niet reeds in aanmerking genomen kalenderjaren waarin een persoon recht heeft op kinderbijslag op grond van artikel 7 van de Algemene Kinderbijslagwet of een andere gezinsbijslag als bedoeld in artikel 3, eerste lid, onderdeel j, van Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2004, L 166) voor een tot zijn huishouden behorend kind dat bij de aanvang van dat kalenderjaar de leeftijd van vijf jaar niet heeft bereikt, voor de helft gelijkgesteld met kalenderjaren waarin over 52 of meer dagen loon is ontvangen, respectievelijk over 208 of meer uren loon is ontvangen. De in de eerste zin bedoelde persoon wordt aangemerkt als verzorgend persoon. 
-3. Voor de toepassing van artikel 42 worden niet reeds in aanmerking genomen kalenderjaren vanaf en met in begrip van een bij ministeriële regeling nader te bepalen kalenderjaar, waarin een persoon inkomsten ontvangt voor het verlenen van zorg op grond van een regeling voor persoonsgebonden budget, die is gegrond op artikel 44, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten of op artikel 5, eerste lid, van de Wet maatschappelijke ondersteuning of die voldoet aan artikel 14a van de Zorgverzekeringswet, voor de helft gelijkgesteld met kalenderjaren waarin over 52 of meer dagen loon is ontvangen, respectievelijk over 208 of meer uren loon is ontvangen, tenzij hij deze inkomsten ontvangt uit arbeid als bedoeld in artikel 6, eerste lid, onderdeel e. De eerste zin is uitsluitend van toepassing indien de in de eerste zin bedoelde persoon aantoont dat deze zorgverlening aan deze voorwaarden voldoet of heeft voldaan. Die persoon wordt aangemerkt als verzorgend persoon. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van dit lid. 
+3. Voor de toepassing van artikel 42 worden niet reeds in aanmerking genomen kalenderjaren vanaf en met in begrip van een bij ministeriële regeling nader te bepalen kalenderjaar, waarin een persoon inkomsten ontvangt voor het verlenen van zorg op grond van een regeling voor persoonsgebonden budget, die is gegrond op artikel 3.3.3 van de Wet langdurige zorg of die voldoet aan artikel 14a van de Zorgverzekeringswet dan wel voor het verlenen van ondersteuning ten laste van een persoonsgebonden budget als bedoeld in artikel 2.3.6 van de Wet maatschappelijke ondersteuning 2015, voor de helft gelijkgesteld met kalenderjaren waarin over 52 of meer dagen loon is ontvangen, respectievelijk over 208 of meer uren loon is ontvangen, tenzij hij deze inkomsten ontvangt uit arbeid als bedoeld in artikel 6, eerste lid, onderdeel e. De eerste zin is uitsluitend van toepassing indien de in de eerste zin bedoelde persoon aantoont dat deze zorgverlening aan deze voorwaarden voldoet of heeft voldaan. Die persoon wordt aangemerkt als verzorgend persoon. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van dit lid. 
 4. Het tweede en derde lid vinden geen toepassing indien de verzorgende persoon in een kalenderjaar voor een periode langer dan een half jaar als werknemer in de zin van een wettelijke regeling inzake werkloosheid recht heeft op een uitkering ter zake van werkloosheid of op de loongerelateerde uitkering op grond van hoofdstuk 7 van de Wet werk en inkomen naar arbeidsvermogen. 
 5. Voor de toepassing van het tweede lid wordt onder:
 
@@ -1149,7 +1149,7 @@ Onze Minister is bevoegd regels te stellen op grond waarvan, in bij die regels a
 1.  Indien de werknemer die recht heeft op een uitkering op grond van hoofdstuk II, deelneemt of gaat deelnemen aan een voor hem, naar het oordeel van het UWV, noodzakelijke opleiding of scholing, blijft volgens door Onze Minister te stellen regels het recht op uitkering op grond van dat hoofdstuk bestaan.   
 2.  In de door Onze Minister te stellen regels, die voor verschillende groepen werknemers verschillend kunnen luiden, worden in ieder geval voorschriften en beperkingen gegeven met betrekking tot de aard, de omvang en de duur van de opleiding of scholing als bedoeld in het eerste en derde lid.  
 3. In afwijking van het eerste lid, blijft het recht op uitkering op grond van hoofdstuk II van de herbeoordeelde bestaan totdat de, naar het oordeel van het UWV noodzakelijke opleiding of scholing is beëindigd, indien de opleiding of scholing deel uit maakt van een re-integratievisie als bedoeld in artikel 30a, vierde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen, die, of een re-integratieplan als bedoeld in artikel 30a, zesde lid, van die wet, dat binnen drie maanden na de datum van verlaging of intrekking van de arbeidsongeschiktheidsuitkering is opgesteld en met de opleiding of scholing is aangevangen voor de duur van de uitkering verstrijkt.
-4. Onder herbeoordeelde als bedoeld in het derde lid wordt verstaan: de werknemer wiens arbeidsongeschiktheidsuitkering is verlaagd of ingetrokken als gevolg van de toepassing van artikel 34, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering, artikel 35, vijfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of artikel 3:28, vijfde lid, van de Wet werk en arbeidsondersteuning jonggehandicapten, of de persoon, bedoeld in artikel 2, derde lid, van het Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswetten, wiens arbeidsongeschiktheidsuitkering is verlaagd of ingetrokken.
+4. Onder herbeoordeelde als bedoeld in het derde lid wordt verstaan: de werknemer wiens arbeidsongeschiktheidsuitkering is verlaagd of ingetrokken als gevolg van de toepassing van artikel 34, vierde lid, van de Wet op de arbeidsongeschiktheidsverzekering, artikel 35, vijfde lid, van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of artikel 3:28, vijfde lid, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, of de persoon, bedoeld in artikel 2, derde lid, van het Besluit eenmalige herbeoordelingen arbeidsongeschiktheidswetten, wiens arbeidsongeschiktheidsuitkering is verlaagd of ingetrokken.
 
 ###Artikel 76a 
 
@@ -1189,7 +1189,7 @@ De werknemer, ten aanzien van wie artikel 75, 76, 76a, 77 of 77a wordt toegepast
 
 ### Artikel  78c  
 
-Het UWV kan de werknemer, die recht heeft op een uitkering op grond van hoofdstuk II, en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. Artikel 10a, tweede tot en met tiende lid, van de Wet werk en bijstand is van overeenkomstige toepassing. 
+Het UWV kan de werknemer, die recht heeft op een uitkering op grond van hoofdstuk II, en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. Artikel 10a, tweede tot en met tiende lid, van de Participatiewet is van overeenkomstige toepassing. 
 
 ###Hoofdstuk VII 
 
@@ -1212,7 +1212,7 @@ b.waarvan het de overheidswerkgever niet redelijkerwijs duidelijk kon zijn dat d
 
 c.die hij op grond van deze wet ontvangt in de eerste dertien weken van ongeschiktheid tot het verrichten van zijn arbeid wegens ziekte, waarbij artikel 20, zevende lid, van overeenkomstige toepassing is. 
 3. Op het totaal van de bedragen die op de overheidswerkgever op grond van het eerste lid over enig tijdvak wordt verhaald, wordt in mindering gebracht hetgeen het UWV in dat tijdvak ontvangt door de toepassing van artikel 36, onder aftrek van de daarop betrekking hebbende uitvoeringskosten, voorzover die toepassing betrekking heeft op uitkeringen en premies die eerder op grond van dat lid op de overheidswerkgever zijn verhaald.
-4. Indien hetgeen op grond van het tweede lid in mindering wordt gebracht het totaal van de bedragen die op de overheidswerkgever over het betrokken tijdvak wordt verhaald overtreft, wordt dat meerdere door het UWV betaald aan de overheidswerkgever.
+4. Indien hetgeen op grond van het derde lid in mindering wordt gebracht het totaal van de bedragen die op de overheidswerkgever over het betrokken tijdvak wordt verhaald overtreft, wordt dat meerdere door het UWV betaald aan de overheidswerkgever.
 5. Indien de overheidswerkgever, bedoeld in het eerste lid, niet meer bestaat, wordt voor de toepassing van het eerste tot en met derde lid onder overheidswerkgever verstaan de rechtsopvolger van die overheidswerkgever. De eerste zin is niet van toepassing met betrekking tot de rechtsopvolger na faillissement. 
 6.  Het UWV kan de in het eerste lid bedoelde bedragen invorderen bij dwangbevel. 
 7. Het UWV kan nadere regels stellen met betrekking tot het eerste tot en met derde lid en het vijfde lid.

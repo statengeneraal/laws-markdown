@@ -61,7 +61,9 @@ n. kind: eerstegraads bloedverwant en aanverwant in de neergaande lijn.
 
 o.sociale verzekeringspremies: de premies voor de sociale verzekeringen, bedoeld in artikel 2, onderdelen a en c, van de Wet financiering sociale verzekeringen, en de ingevolge de Zorgverzekeringswet geheven inkomensafhankelijke bijdrage;
 
-p. strafbeschikking: de strafbeschikking bedoeld in artikel 76, eerste lid, van de Algemene wet inzake rijksbelastingen en artikel 10:15, eerste lid, van de Algemene douanewet.    
+p. strafbeschikking: de strafbeschikking, bedoeld in artikel 76, eerste lid, van de Algemene wet inzake rijksbelastingen en artikel 10:15, eerste lid, van de Algemene douanewet; 
+
+q.  burgerservicenummer: het nummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer.    
 2.   Deze wet verstaat mede onder:  
 
 a. rijksbelastingen: de belastingrente, de revisierente, de compenserende rente, de kosten van ambtelijke werkzaamheden, alsmede de bestuurlijke boeten;   
@@ -122,10 +124,10 @@ d. de belastingaanslag.
 
 ### Artikel 7a 
 
-1.  In afwijking van artikel 4:89, eerste lid, van de Algemene wet bestuursrecht vindt uitbetaling aan de belastingschuldige van inkomstenbelasting en omzetbelasting uitsluitend plaats op een daartoe door de belastingschuldige bestemde bankrekening die op naam staat van de belastingschuldige. De belastingschuldige kan niet meer dan één bankrekening bestemmen voor de uitbetaling van inkomstenbelasting en voor de in artikel 25 van de Algemene wet inkomensafhankelijke regelingen bedoelde uitbetaling van de hem toekomende voorschotten en tegemoetkomingen.  
+1.  In afwijking van artikel 4:89, eerste lid, van de Algemene wet bestuursrecht vindt uitbetaling aan de belastingschuldige van inkomstenbelasting uitsluitend plaats op een daartoe door de belastingschuldige bestemde bankrekening die op naam staat van de belastingschuldige. De belastingschuldige kan niet meer dan één bankrekening bestemmen voor de uitbetaling van inkomstenbelasting en voor de in artikel 25 van de Algemene wet inkomensafhankelijke regelingen bedoelde uitbetaling van de hem toekomende voorschotten en tegemoetkomingen.  
 2.  Ingeval de belastingschuldige geen bankrekening heeft bestemd voor betaling van rijksbelastingen dan wel andere belastingen of heffingen voor zover de invordering daarvan is opgedragen aan de ontvanger betaalt de ontvanger op een bankrekening die op naam staat van de belastingschuldige.  
 3. Het tweede lid is van overeenkomstige toepassing op andere door de ontvanger uit te betalen bedragen. 
-4.  In bij ministeriële regeling aan te wijzen gevallen kan worden afgeweken van het eerste lid. Daarbij worden regels gesteld met betrekking tot de bestemming van een andere bankrekening voor de uitbetaling van inkomstenbelasting en omzetbelasting. 
+4.  In bij ministeriële regeling aan te wijzen gevallen kan worden afgeweken van het eerste lid. Daarbij worden regels gesteld met betrekking tot de bestemming van een andere bankrekening voor de uitbetaling van inkomstenbelasting. 
 
 ### Artikel  7b  
 
@@ -144,7 +146,7 @@ Een vordering op de ontvanger tot uitbetaling van een bedrag aan inkomstenbelast
 
 1.  Een belastingaanslag is invorderbaar zes weken na de dagtekening van het aanslagbiljet.    
 2.  In afwijking van het eerste lid is een navorderingsaanslag, alsmede een conserverende navorderingsaanslag invorderbaar één maand na de dagtekening van het aanslagbiljet en een naheffingsaanslag invorderbaar veertien dagen na de dagtekening van het aanslagbiljet.   
-3.  Een ingevolge artikel 2, tweede lid, onderdeel c, met een belastingaanslag gelijkgestelde beschikking inzake een bestuurlijke boete die gelijktijdig en in verband met de vaststelling van een belastingaanslag als bedoeld in artikel 2, eerste lid, onderdeel m, is opgelegd, is invorderbaar overeenkomstig de bepalingen die gelden voor die belastingaanslag. Een ingevolge artikel 2, tweede lid, onderdeel c, met een belastingaanslag gelijkgestelde beschikking inzake heffings- of revisierente is invorderbaar overeenkomstig de bepalingen die gelden voor de belastingaanslag, bedoeld in artikel 2, eerste lid, onderdeel m, waarop de heffings- of revisierente betrekking heeft.    
+3.  Een ingevolge artikel 2, tweede lid, onderdeel c, met een belastingaanslag gelijkgestelde beschikking inzake een bestuurlijke boete die gelijktijdig en in verband met de vaststelling van een belastingaanslag als bedoeld in artikel 2, eerste lid, onderdeel m, is opgelegd, is invorderbaar overeenkomstig de bepalingen die gelden voor die belastingaanslag. Een ingevolge artikel 2, tweede lid, onderdeel c, met een belastingaanslag gelijkgestelde beschikking inzake belasting- of revisierente is invorderbaar overeenkomstig de bepalingen die gelden voor de belastingaanslag, bedoeld in artikel 2, eerste lid, onderdeel m, waarop de belasting- of revisierente betrekking heeft.    
 4.   Een uitnodiging tot betaling, alsmede een ingevolge artikel 2, tweede lid, onderdeel c, met een belastingaanslag gelijkgestelde beschikking inzake compenserende rente, inzake kosten van ambtelijke werkzaamheden of inzake een bestuurlijke boete als bedoeld in hoofdstuk 9 van de Algemene douanewet, is invorderbaar tien dagen na de dagtekening van het aanslagbiljet.    
 5.  In afwijking van het eerste lid is een voorlopige aanslag in de inkomstenbelasting of in de vennootschapsbelasting en een voorlopige conserverende aanslag in de inkomstenbelasting, waarvan het aanslagbiljet een dagtekening heeft die ligt in het jaar waarover deze is vastgesteld, invorderbaar in zoveel gelijke termijnen als er na de maand, die in de dagtekening van het aanslagbiljet is vermeld, nog maanden van het jaar overblijven. De eerste termijn vervalt één maand na de dagtekening van het aanslagbiljet en elk van de volgende termijnen telkens een maand later. Indien de toepassing van de eerste volzin niet leidt tot meer dan één termijn, vindt het eerste lid toepassing.   
 6.  In afwijking van het eerste en het vijfde lid is een belastingaanslag als bedoeld in het vijfde lid, die een uit te betalen bedrag behelst, invorderbaar in zoveel gelijke termijnen als er met inbegrip van de maand die in de dagtekening van het aanslagbiljet is vermeld, nog maanden van het jaar overblijven. De eerste termijn vervalt aan het eind van de maand van de dagtekening van het aanslagbiljet en elk van de volgende termijnen telkens een maand later.   
@@ -277,7 +279,7 @@ a.geen verzoek om uitstel van betaling heeft gedaan, niet in aanmerking komt voo
 
 b.geen verzoek om kwijtschelding van belasting heeft gedaan of niet in aanmerking komt voor kwijtschelding van belasting.  
 3.   Een huurder, een pachter, een curator in een faillissement en een houder van penningen is op vordering van de ontvanger verplicht uit de gelden die hij aan de belastingschuldige verschuldigd is of uit de gelden of de penningen die hij ten behoeve van de belastingschuldige onder zich heeft, de belastingaanslagen van de belastingschuldige te betalen. Een curator in een faillissement van de belastingschuldige is voorts bevoegd uit eigen beweging uit de gelden die hij ten behoeve van de belastingschuldige onder zich heeft, de belastingaanslagen van de belastingschuldige te betalen.   
-4. Een bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht is op vordering van de ontvanger verplicht, in zoverre onder blokkering van onttrekkingen aan de rekening, uit het tegoed van een rekening die een belastingschuldige bij haar heeft alsmede, indien de bank en de belastingschuldige in samenhang met die rekening een overeenkomst inzake krediet zijn aangegaan, uit het ingevolge die overeenkomst verstrekte krediet, de belastingaanslagen van de belastingschuldige te betalen. De bank is verplicht aan de vordering te voldoen, zonder zich daarbij op verrekening te kunnen beroepen. De verplichting tot betaling vervalt een week na de dag van bekendmaking van de vordering aan de bank.  
+4. Een betaaldienstverlener als bedoeld in artikel 1:1 van de Wet op het financieel toezicht is op vordering van de ontvanger verplicht, in zoverre onder blokkering van onttrekkingen aan de rekening, uit het tegoed van een rekening die een belastingschuldige bij hem heeft alsmede, indien de betaaldienstverlener en de belastingschuldige in samenhang met die rekening een overeenkomst inzake krediet zijn aangegaan, uit het ingevolge die overeenkomst verstrekte krediet, de belastingaanslagen van de belastingschuldige te betalen. De betaaldienstverlener is verplicht aan de vordering te voldoen, zonder zich daarbij op verrekening te kunnen beroepen. De verplichting tot betaling vervalt een week na de dag van bekendmaking van de vordering aan de betaaldienstverlener.  
 5.   De vordering geschiedt bij beschikking. Voor het doen van een vordering dient de ontvanger te beschikken over een aan de belastingschuldige betekend dwangbevel met bevel tot betaling. Indien de vordering op de voet van het eerste lid, onderdeel a, wordt gedaan (loonvordering) en het dwangbevel op de voet van artikel 13, derde lid, is betekend, moet de vordering vooraf worden gegaan door een schriftelijke aankondiging van de ontvanger aan de belastingschuldige, inhoudende dat hij voornemens is een loonvordering te doen. De loonvordering wordt in dat geval niet eerder gedaan dan zeven dagen na de dagtekening van de vooraankondiging. De in de derde volzin bedoelde aankondiging blijft achterwege indien de vordering wordt gedaan jegens degene die reeds op vordering van de ontvanger een belastingaanslag van de belastingschuldige betaalt of zou moeten betalen. De beschikking heeft rechtsgevolg zodra zij is bekendgemaakt aan degene jegens wie de vordering is gedaan. De ontvanger maakt de beschikking tevens bekend aan de belastingschuldige. Indien de vordering wordt gedaan jegens de curator in een faillissement vindt de tweede volzin geen toepassing en blijft bekendmaking van de beschikking aan de belastingschuldige achterwege.    
 6.   De belastingschuldige kan op de voet van artikel 17 in verzet komen tegen de vordering als ware deze de tenuitvoerlegging van een dwangbevel.    
 7.   Degene jegens wie een vordering is gedaan is verplicht aan die vordering te voldoen zonder daartoe een verificatie en beëdiging van schuldvordering, een rangregeling of rechterlijke uitspraak te mogen afwachten. De eerste volzin vindt geen toepassing in zoverre onder hem beslag is gelegd of verzet is gedaan ter zake van schulden waaraan voorrang boven vorderingen wegens rijksbelastingen is toegekend. Voldoening aan de vordering geldt als betaling aan de belastingschuldige.    
@@ -311,7 +313,7 @@ b.geen verzoek om kwijtschelding van belasting heeft gedaan of niet in aanmerkin
 
 a. de loonbelasting ten laste van inhoudingsplichtigen met uitzondering van naheffingsaanslagen ter zake van huispersoneel;   
 
-b. de omzetbelasting, alsmede de belasting van personenauto’s en motorrijwielen ten laste van een ander dan degene op wiens naam het kenteken is gesteld;   
+b. de omzetbelasting, alsmede de belasting van personenauto’s en motorrijwielen ten laste van een ander dan degene op wiens naam het motorrijtuig is gesteld in het kentekenregister, genoemd in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994;   
 
 c. de accijns;   
 
@@ -352,9 +354,9 @@ h. de assurantiebelasting,    alsmede tegen de beslaglegging ter zake van:
 
 ### Artikel  22a  
 
-1.  Dit artikel is van toepassing op naheffingsaanslagen in de motorrijtuigenbelasting welke zijn vastgesteld op de voet van artikel 7, eerste lid, aanhef en onderdeel a, van de Wet op de motorrijtuigenbelasting 1994 ten name van degene op wiens naam het voor het motorrijtuig opgegeven kenteken is gesteld, alsmede op de met die naheffingsaanslagen verband houdende kosten, renten en bestuurlijke boeten.   
-2.  Voor de in het eerste lid bedoelde vorderingen kan door de ontvanger verhaal worden genomen op elk motorrijtuig waarvan het opgegeven kenteken ten name van de in het eerste lid bedoelde natuurlijke persoon of rechtspersoon is gesteld, zonder dat enig ander enig recht op deze motorrijtuigen kan tegenwerpen.   
-3.  Uitwinning van motorrijtuigen als bedoeld in het tweede lid is niet mogelijk voorzover degene die enig recht op een dergelijk motorrijtuig heeft goederen van degene op wiens naam het voor die motorrijtuigen opgegeven kenteken is gesteld, aanwijst die voor de in het eerste lid bedoelde vorderingen voldoende verhaal bieden.   
+1.  Dit artikel is van toepassing op naheffingsaanslagen in de motorrijtuigenbelasting welke zijn vastgesteld op de voet van artikel 7, eerste lid, aanhef en onderdeel a, van de Wet op de motorrijtuigenbelasting 1994 ten name van degene op wiens naam het motorrijtuig is gesteld in het kentekenregister, genoemd in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994, alsmede op de met die naheffingsaanslagen verband houdende kosten, renten en bestuurlijke boeten.   
+2.  Voor de in het eerste lid bedoelde vorderingen kan door de ontvanger verhaal worden genomen op elk motorrijtuig dat op naam van de in het eerste lid bedoelde natuurlijke persoon of rechtspersoon is gesteld in het kentekenregister, genoemd in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994, zonder dat enig ander enig recht op deze motorrijtuigen kan tegenwerpen.   
+3.  Uitwinning van motorrijtuigen als bedoeld in het tweede lid is niet mogelijk voorzover degene die enig recht op een dergelijk motorrijtuig heeft goederen van degene op wiens naam die motorrijtuigen zijn gesteld in het kentekenregister, genoemd in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994, aanwijst die voor de in het eerste lid bedoelde vorderingen voldoende verhaal bieden.   
 4.  De in artikel 78 van de Wet op de motorrijtuigenbelasting 1994 bedoelde ambtenaren zijn bevoegd de hen in de artikelen 78 en 79 van die wet toegekende bevoegdheden mede uit te oefenen ten behoeve van de toepassing van dit artikel.  
 
 ### Artikel  23  
@@ -553,6 +555,12 @@ c. voor zover de belasting waarvoor op de voet van artikel 25, achtste lid, uits
 
 1.  Indien een belastingaanslag wordt verminderd of herzien tot een lager bedrag dan inmiddels op die aanslag is betaald en de belastingschuldige eerder een verzoek om uitstel van betaling met betrekking tot het door hem bestreden bedrag van die aanslag heeft gedaan dat door de ontvanger bij beschikking is afgewezen, wordt aan de belastingschuldige invorderingsrente vergoed.   
 2.  De invorderingsrente wordt enkelvoudig berekend over het tijdvak dat aanvangt de dag na de dag waarop de belastingaanslag waarvoor een verzoek om uitstel van betaling bij beschikking is afgewezen, invorderbaar is ingevolge artikel 9 en eindigt 6 weken na de dagtekening van de vermindering of de herziening en heeft als grondslag het terug te geven bedrag.  
+
+### Artikel  28c  
+
+1.  Voor zover de ontvanger op grond van een beschikking van de inspecteur gehouden is belasting terug te geven omdat de desbetreffende belasting in strijd met het Unierecht is geheven, wordt op verzoek aan de belastingschuldige invorderingsrente vergoed.   
+2.  De invorderingsrente, bedoeld in het eerste lid, wordt enkelvoudig berekend over het tijdvak dat aanvangt op de dag na die waarop de belasting is betaald, voldaan of afgedragen en eindigt op de dag voorafgaand aan die van de terugbetaling en heeft als grondslag het aan de belastingschuldige terug te geven of teruggegeven bedrag. In afwijking van de eerste volzin wordt de invorderingsrente, bedoeld in het eerste lid, niet berekend over dagen waarover ingevolge hoofdstuk VA van de Algemene wet inzake rijksbelastingen belastingrente wordt vergoed of waarover ingevolge artikel 28b invorderingsrente wordt vergoed.   
+3.  De termijn voor het indienen van een verzoek om vergoeding van invorderingsrente op grond van dit artikel eindigt zes weken na dagtekening van de beschikking, bedoeld in het eerste lid.  
 
 ### Artikel  29  
 
@@ -773,7 +781,11 @@ c. de ondernemer die tezamen met de op grond van de voorgaande bepalingen van di
 ### Artikel  43  
 
 1.  Natuurlijke personen en lichamen in de zin van de Algemene wet inzake rijksbelastingen, die ingevolge artikel 7, vierde lid, van de Wet op de omzetbelasting 1968 zijn aangemerkt als één ondernemer, zijn hoofdelijk aansprakelijk voor de omzetbelasting welke verschuldigd is door deze ondernemer, dan wel - indien de inspecteur niet schriftelijk ervan in kennis is gesteld dat op grond van gewijzigde omstandigheden niet langer een eenheid bestaat als is bedoeld in die bepaling - door deze personen en lichamen.    
-2.   Indien aan de ondernemer bedoeld in het eerste lid een vermindering of teruggaaf van omzetbelasting wordt verleend, kan de ontvanger, in afwijking in zoverre van artikel 7a, eerste lid, en met inachtneming van artikel 54, deze vermindering of teruggaaf bevrijdend voldoen aan één van de natuurlijke personen of lichamen bedoeld in het eerste lid.   
+2.   Indien aan de ondernemer, bedoeld in het eerste lid, een vermindering of teruggaaf van omzetbelasting wordt verleend, kan de ontvanger, met inachtneming van artikel 54, deze vermindering of teruggaaf bevrijdend voldoen aan één van de natuurlijke personen of lichamen, bedoeld in het eerste lid.   
+
+### Artikel  43a  
+
+Bij toepassing van artikel 32 van de Wet op de loonbelasting 1964 is iedere inhoudingsplichtige die ingevolge het eerste lid van dat artikel samen met andere inhoudingsplichtigen als één inhoudingsplichtige wordt beschouwd hoofdelijk aansprakelijk voor de loonbelasting die deze inhoudingsplichtigen ingevolge dat artikel gezamenlijk zijn verschuldigd met betrekking tot vergoedingen en verstrekkingen als bedoeld in artikel 31, eerste lid, onderdeel f en onderdeel g, van de Wet op de loonbelasting 1964. 
 
 ### Artikel  44  
 
@@ -826,7 +838,7 @@ b. bedragen die na het overlijden van de hoofdelijk aansprakelijk gestelde worde
 
 ### Artikel  48a  
 
-Een derde die kan beschikken over een bankrekeningnummer waarop inkomstenbelasting of omzetbelasting is uitbetaald, is hoofdelijk aansprakelijk voor de inkomstenbelasting en de omzetbelasting die een belastingschuldige is verschuldigd voor zover het bedrag aan verschuldigde belasting is betaald op die bankrekening. Voor zover een verschuldigd bedrag aan inkomstenbelasting voortvloeit uit de toepassing van artikel 15 van de Algemene wet inzake rijksbelastingen, wordt het bedrag waarvoor de derde aansprakelijk is, bepaald op het gedeelte van het door de belastingschuldige verschuldigde bedrag dat in dezelfde verhouding staat tot het door de belastingschuldige verschuldigde bedrag als de aan de derde over het belastingjaar uitbetaalde voorlopige teruggaaf inkomstenbelasting in verhouding staat tot het totale bedrag van de over het belastingjaar uitbetaalde voorlopige teruggaven inkomstenbelasting, een en ander voor zover dit bedrag kan worden toegerekend aan de aan die derde uitbetaalde bedragen. 
+Een derde die kan beschikken over een bankrekeningnummer waarop inkomstenbelasting is uitbetaald, is hoofdelijk aansprakelijk voor de inkomstenbelasting die een belastingschuldige is verschuldigd voor zover het bedrag aan verschuldigde inkomstenbelasting is betaald op die bankrekening. Voor zover een verschuldigd bedrag aan inkomstenbelasting voortvloeit uit de toepassing van artikel 15 van de Algemene wet inzake rijksbelastingen, wordt het bedrag waarvoor de derde aansprakelijk is, bepaald op het gedeelte van het door de belastingschuldige verschuldigde bedrag dat in dezelfde verhouding staat tot het door de belastingschuldige verschuldigde bedrag als de aan de derde over het belastingjaar uitbetaalde voorlopige teruggaaf inkomstenbelasting in verhouding staat tot het totale bedrag van de over het belastingjaar uitbetaalde voorlopige teruggaven inkomstenbelasting, een en ander voor zover dit bedrag kan worden toegerekend aan de aan die derde uitbetaalde bedragen. 
 
 ### Afdeling  2  
 
@@ -952,6 +964,13 @@ Voor een weigering om te voldoen aan de in de artikelen 58, 59 en 60 omschreven 
 3.   Artikel 55 van de Algemene wet inzake rijksbelastingen is van toepassing met dien verstande dat voor inspecteur wordt gelezen ontvanger en voor belastingwet wordt gelezen Invorderingswet 1990.   
 4. Artikel 49a van de Algemene wet inzake rijksbelastingen is van toepassing.
 
+### Artikel  62bis  
+
+1.  Financiële ondernemingen die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mogen uitoefenen zijn gehouden aan de ontvanger kosteloos de volgende gegevens inzake bankrekeningen te verstrekken: het bankrekeningnummer en de naam, het adres, de woonplaats en de geboortedatum van de houder van de bankrekening, voor zover die gegevens van belang zijn voor de uitbetaling van inkomstenbelasting, bedoeld in artikel 7a.   
+2.  De gegevens worden verstrekt binnen een door de ontvanger te stellen termijn.   
+3.  De ontvanger kan bepalen dat bij het verstrekken van de gegevens tevens het burgerservicenummer van degene op wie de gegevens betrekking hebben dient te worden vermeld.   
+4.  Bij het verwerken van de gegevens maken de financiële ondernemingen, bedoeld in het eerste lid, in hun eigen administratie gebruik van het burgerservicenummer.  
+
 ### Artikel  62a  
 
 1.  Ingeval een persoon als bedoeld in de artikelen 58, eerste lid, 59, eerste lid en 62, eerste lid, een door de ontvanger op een van die leden gebaseerde verplichting is nagekomen maar van oordeel is dat de verplichting onrechtmatig is opgelegd, kan hij verzoeken om vergoeding van kosten die rechtstreeks verband houden met deze nakoming. De ontvanger beslist op dat verzoek bij voor bezwaar vatbare beschikking en kent een redelijke kostenvergoeding toe in geval van een onrechtmatig opgelegde verplichting.   
@@ -1049,7 +1068,7 @@ Artikel 22, derde lid, vervalt op 1 januari 1993, tenzij voordien een wetsvoorst
 
 Bij toepassing van de artikelen 22, derde lid, en 36, eerste en tweede lid, blijft artikel 1 van de Wet belastingen op milieugrondslag van toepassing, zoals dat artikel luidde: 
 
-a. op 31 december 2011, voor belastingaanslagen grondwaterbelasting en afvalstoffenbelasting; en  
+a. op 31 december 2011, voor belastingaanslagen grondwaterbelasting; en  
 
 b. op 31 december 2012, voor belastingaanslagen verpakkingenbelasting.   
 
@@ -1086,6 +1105,10 @@ Op een kapitaalverzekering eigen woning die voor 1 januari 2013 ingevolge artik
 ### Artikel  70e  
 
 Met betrekking tot op 31 december 2013 bestaande aanspraken op periodieke uitkeringen ter vervanging van gederfd of te derven loon als bedoeld in de artikelen 11, eerste lid, onderdeel g, en 37 van de Wet op de loonbelasting 1964, zoals die op 31 december 2013 luidden, alsmede met betrekking tot op 31 december 2013 bestaande stamrechtspaarrekeningen en stamrechtbeleggingsrechten als bedoeld in artikel 11a van de Wet op de loonbelasting 1964, zoals dat op 31 december 2013 luidde, blijven de artikelen 36a, tweede lid, onderdeel b, en 44b, eerste en tweede lid, zoals die op 31 december 2013 luidden, met overeenkomstige toepassing van artikel 39f, eerste en tweede lid, van de Wet op de loonbelasting 1964, van toepassing. 
+
+### Artikel  70f  
+
+Bij toepassing van artikel 28c wordt de invorderingsrente, bedoeld in het eerste lid van dat artikel, mede niet berekend over dagen waarover heffingsrente of invorderingsrente als bedoeld in artikel XXXIV van het Belastingplan 2012 wordt vergoed. 
 
 ### Artikel  71  
 

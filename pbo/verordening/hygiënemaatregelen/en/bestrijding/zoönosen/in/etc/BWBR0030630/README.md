@@ -3,13 +3,13 @@
 ##Verordening van het Productschap Pluimvee en Eieren van 9 juni 2011 houdende vaststelling van hygiënemaatregelen en uitvoering van een nationaal programma ter zake van de bewaking en bestrijding van Salmonella en van de bewaking van Campylobacter in de pluimveesector (Verordening hygiënemaatregelen en bestrijding zoönosen in pluimveebedrijven en kuikenbroederijen (PPE) 2011)
 
 Het bestuur van het Productschap Pluimvee en Eieren, 
-Gelet op de [artikelen 3](../../../../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md) en [3a van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten](../../../../../../../../../AMvB/besluit/bescherming/tegen/bepaalde/zoönosen/en/bestrijding/besmettelijke/etc/BWBR0007820/README.md) en de [artikelen 95](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md) en [96 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's](../../../../../../../../../ministeriele-regeling/regeling/preventie/bestrijding/en/monitoring/van/besmettelijke/dierziekten/etc/BWBR0018397/README.md);
+Gelet op de artikelen 3 en 3a van het Besluit bescherming tegen bepaalde zoönosen en bestrijding besmettelijke dierziekten en de artikelen 95 en 96 van de Regeling preventie, bestrijding en monitoring van besmettelijke dierziekten en zoönosen en TSE's;
 
-Gelet op de [artikelen 93, eerste lid](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [95](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [96](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [97](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) en [104 van de Wet op de bedrijfsorganisatie](../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), en de [artikelen 6](../../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md) en [7 van het Instellingsbesluit Productschap Pluimvee en Eieren](../../../../../../../../../AMvB/instellingsbesluit/productschap/pluimvee/en/eieren/BWBR0016490/README.md); 
+Gelet op de artikelen 93, eerste lid, 95, 96, 97, 102 en 104 van de Wet op de bedrijfsorganisatie, en de artikelen 6 en 7 van het Instellingsbesluit Productschap Pluimvee en Eieren; 
 
 Gezien Richtlijn 2003/99/EG van het Europees Parlement en de Raad van 17 november 2003 inzake de bewaking van zoönoses en zoönoseverwekkers en houdende wijziging van Beschikking 90/424/EEG van de Raad en intrekking van Richtlijn 92/117/EEG van de Raad (PbEU L 325), Verordening (EG) nr. 2160/2003 van het Europees Parlement en de Raad van 17 november 2003 inzake de bestrijding van Salmonella en andere specifieke door voedsel overgedragen zoönoseverwekkers (PbEU L 325) en;
 
-Gezien de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md);
+Gezien de Wet tuchtrechtspraak bedrijfsorganisatie 2004;
 Besluit:  
 
 ####*Inhoudsopgave*
@@ -69,7 +69,7 @@ Besluit:
 
 ###Artikel  1 
 
-In deze verordening en de daarop berustende besluiten worden onder productschap, bestuur, voorzitter en broedeieren de definities overgenomen als bepaald in [artikel 1 van de Verordening identificatie en registratie van pluimveebedrijven, broedeieren en levend pluimvee (PPE) 2005](../../../../../../../../../pbo/verordening/identificatie/en/registratie/van/pluimveebedrijven/broedeieren/etc/BWBR0019280/README.md), voorts wordt verstaan onder: 
+In deze verordening en de daarop berustende besluiten worden onder productschap, bestuur, voorzitter en broedeieren de definities overgenomen als bepaald in artikel 1 van de Verordening identificatie en registratie van pluimveebedrijven, broedeieren en levend pluimvee (PPE) 2005, voorts wordt verstaan onder: 
 ###*Algemeen*
 
 | --- | --- | --- | --- |
@@ -452,7 +452,7 @@ e. voor het overige alle medewerking te verlenen ter vervulling van de aan de to
 ###Artikel  23 
 
 1.  Overtreding van het bij of krachtens artikel 5, eerste, vierde, vijfde en zevende lid, artikel 8, derde lid, artikel 11, eerste, vierde, vijfde en zevende lid en artikel 14, eerste en tweede lid, bepaalde is een strafbaar feit. 
-2.  Op overtreding van het bepaalde bij of krachtens de overige artikelen van deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de [Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md).
+2.  Op overtreding van het bepaalde bij of krachtens de overige artikelen van deze verordening worden tuchtrechtelijke maatregelen gesteld zoals voorzien in de Wet tuchtrechtspraak bedrijfsorganisatie 2004.
 
 ###8  
 
@@ -480,8 +480,8 @@ De op grond van deze verordening door het bestuur vast te stellen besluiten word
 
 ###Artikel  26 
 
-1.  De [Verordening hygiënevoorschriften pluimveehouderij (PPE) 2007](../../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/(ppe)/2007/BWBR0022479/README.md) wordt ingetrokken. 
-2.  Elke verwijzing naar de [Verordening hygiënevoorschriften pluimveehouderij (PPE) 2007](../../../../../../../../../pbo/verordening/hygiënevoorschriften/pluimveehouderij/(ppe)/2007/BWBR0022479/README.md) in de regelgeving van het productschap wordt geacht te verwijzen naar deze verordening.
+1.  De Verordening hygiënevoorschriften pluimveehouderij (PPE) 2007 wordt ingetrokken. 
+2.  Elke verwijzing naar de Verordening hygiënevoorschriften pluimveehouderij (PPE) 2007 in de regelgeving van het productschap wordt geacht te verwijzen naar deze verordening.
 
 ####Publicatie, inwerkingtreding en citeertitel
 

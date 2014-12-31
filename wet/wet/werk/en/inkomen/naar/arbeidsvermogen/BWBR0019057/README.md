@@ -120,7 +120,7 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 5.  Bij algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot hetgeen wordt verstaan onder het blijk geven zorg te dragen voor een ander als bedoeld in het derde lid.   
 6.  Bij algemene maatregel van bestuur wordt vastgesteld welke registraties, en gedurende welk tijdvak, in aanmerking worden genomen voor de toepassing van het vierde lid, onderdeel d.   
 7.  Onder bloedverwant in de eerste graad als bedoeld in het tweede lid, onderdeel a, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de ongehuwde meerderjarige.   
-8.  Onder voormalig pleegkind als bedoeld in het zevende lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
+8.  Onder voormalig pleegkind als bedoeld in het zevende lid wordt verstaan een pleegkind voor wie de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of de Jeugdwet, of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
 
 ### Artikel  3  
 
@@ -152,7 +152,7 @@ Gedeeltelijk arbeidsgeschikt is hij die als rechtstreeks en objectief medisch va
 ####Nadere bepalingen definitie volledig en duurzaam arbeidsongeschikt en definitie gedeeltelijk arbeidsgeschikt
 
 1.  De beoordeling of iemand volledig en duurzaam arbeidsongeschikt of gedeeltelijk arbeidsgeschikt is, wordt gebaseerd op een verzekeringsgeneeskundig en een arbeidskundig onderzoek.   
-2.  Bij het vaststellen van volledige en duurzame arbeidsongeschiktheid of gedeeltelijke arbeidsgeschiktheid wordt, zo mogelijk, rekening gehouden met verkregen nieuwe bekwaamheden, maar wordt buiten beschouwing gelaten of de verzekerde de arbeid feitelijk kan verkrijgen.   
+2.  Bij het vaststellen van volledige en duurzame arbeidsongeschiktheid of gedeeltelijke arbeidsgeschiktheid wordt, zo mogelijk, rekening gehouden met verkregen nieuwe bekwaamheden, maar wordt buiten beschouwing gelaten of de verzekerde de arbeid feitelijk kan verkrijgen. Indien de verzekerde arbeid verricht of laatst heeft verricht waarvoor de werkgever loonkostensubsidie als bedoeld in artikel 10d van de Participatiewet ontvangt in verband met een verminderde loonwaarde van de verzekerde, wordt bij het vaststellen van de arbeidsongeschiktheid rekening gehouden met deze omstandigheid.   
 3.  Onder arbeid als bedoeld in artikel 4, eerste lid, en 5 wordt verstaan alle algemeen geaccepteerde arbeid waartoe de verzekerde met zijn krachten en bekwaamheden in staat is.   
 4.  Bij of krachtens algemene maatregel van bestuur kunnen met betrekking tot het eerste, tweede en derde lid, en de artikelen 4 en 5 nadere en zo nodig afwijkende regels worden gesteld die voor volledig en duurzaam arbeidsongeschikten en gedeeltelijk arbeidsgeschikten verschillend kunnen zijn. Hierbij kan tevens onderscheid worden gemaakt tussen de situaties, bedoeld in artikel 4, tweede en derde lid.   
 5.  De voordracht voor een krachtens het vierde lid vast te stellen algemene maatregel van bestuur, dan wel de vaststelling van een ministeriële regeling op basis van een dergelijke algemene maatregel van bestuur, wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden om binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.  
@@ -283,7 +283,7 @@ a. dagen waarover recht bestond op een uitkering die naar aard en strekking over
 b. dagen waarover een persoon een uitkering ontvangt op grond van hoofdstuk III van de Wet arbeidsongeschiktheidsvoorziening militairen, berekend naar een arbeidsongeschiktheid van ten minste 80% of een toelage op grond van dat hoofdstuk, die al dan niet vermeerderd met de arbeidsongeschiktheidsuitkering 70% of meer bedraagt van het dagloon, waarnaar de arbeidsongeschiktheidsuitkering is of zou zijn berekend.     
 4.  Voor de toepassing van het eerste lid, onderdelen a en b, worden niet reeds in aanmerking genomen kalenderjaren waarin een persoon recht heeft op kinderbijslag op grond van artikel 7 van de Algemene Kinderbijslagwet of een andere gezinsbijslag als bedoeld in artikel 3, eerste lid, onderdeel j, van Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2004, L 166) voor een tot zijn huishouden behorend kind dat bij de aanvang van dat kalenderjaar de leeftijd van vijf jaar niet heeft bereikt, voor de helft gelijkgesteld met kalenderjaren waarin over 52 of meer dagen respectievelijk 208 of meer uren loon is ontvangen, waarbij voor 1 januari 2013 52 of meer dagen bepalend is en vanaf 1 januari 2013 208 of meer uren. De in de eerste zin bedoelde persoon wordt aangemerkt als verzorgend persoon.   
 5.  In afwijking van het vierde lid worden over de periode tot 1 januari 2005, waarin een persoon recht heeft op kinderbijslag op grond van artikel 7 van de Algemene Kinderbijslagwet of een andere gezinsbijslag als bedoeld in artikel 3, eerste lid, onderdeel j, van Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van de Europese Unie van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2004, L 166) voor een tot zijn huishouden behorend kind dat bij de aanvang van dat kalenderjaar de leeftijd van vijf jaar niet heeft bereikt, gelijkgesteld met, en worden dergelijke kalenderjaren over de periode van 1 januari 2005 tot 1 januari 2007 voor drie kwart gelijkgesteld met, kalenderjaren waarin over 52 of meer dagen respectievelijk over 208 of meer uren loon is ontvangen waarbij voor 1 januari 2013 52 of meer dagen bepalend is en vanaf 1 januari 2013 208 of meer uren.   
-6. Voor de toepassing van het eerste lid, onderdelen a en b, worden niet reeds in aanmerking genomen kalenderjaren vanaf en met in begrip van een bij ministeriële regeling nader te bepalen kalenderjaar, waarin een persoon inkomsten ontvangt voor het verlenen van zorg op grond van een regeling voor persoonsgebonden budget, die is gegrond op artikel 44, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten of op artikel 5, eerste lid, van de Wet maatschappelijke ondersteuning, of die voldoet aan artikel 14a van de Zorgverzekeringswet, voor de helft gelijkgesteld met kalenderjaren waarin over 52 of meer dagen respectievelijk 208 of meer uren loon is ontvangen, waarbij voor 1 januari 2013 52 of meer dagen bepalend is en vanaf 1 januari 2013 208 of meer uren, tenzij hij deze inkomsten ontvangt uit arbeid als bedoeld in artikel 6, eerste lid, onderdeel e, van de Ziektewet. De eerste zin is uitsluitend van toepassing indien de in de eerste zin bedoelde persoon aantoont dat deze zorgverlening aan deze voorwaarden voldoet of heeft voldaan. Die persoon wordt aangemerkt als verzorgend persoon. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van dit lid. 
+6. Voor de toepassing van het eerste lid, onderdelen a en b, worden niet reeds in aanmerking genomen kalenderjaren vanaf en met in begrip van een bij ministeriële regeling nader te bepalen kalenderjaar, waarin een persoon inkomsten ontvangt voor het verlenen van zorg op grond van een regeling voor persoonsgebonden budget, die is gegrond op artikel 3.3.3 van de Wet langdurige zorg of voor het verlenen van ondersteuning ten laste van een persoonsgebonden budget als bedoeld in artikel 2.3.6 van de Wet maatschappelijke ondersteuning 2015, of die voldoet aan artikel 14a van de Zorgverzekeringswet, voor de helft gelijkgesteld met kalenderjaren waarin over 52 of meer dagen respectievelijk 208 of meer uren loon is ontvangen, waarbij voor 1 januari 2013 52 of meer dagen bepalend is en vanaf 1 januari 2013 208 of meer uren, tenzij hij deze inkomsten ontvangt uit arbeid als bedoeld in artikel 6, eerste lid, onderdeel e, van de Ziektewet. De eerste zin is uitsluitend van toepassing indien de in de eerste zin bedoelde persoon aantoont dat deze zorgverlening aan deze voorwaarden voldoet of heeft voldaan. Die persoon wordt aangemerkt als verzorgend persoon. Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot de uitvoering van dit lid. 
 7.  Het vierde, vijfde en zesde lid vinden geen toepassing indien de verzorgende persoon in een kalenderjaar voor een periode langer dan een half jaar als werknemer in de zin van een wettelijke regeling inzake werkloosheid recht heeft op een uitkering ter zake van werkloosheid of op de loongerelateerde uitkering op grond van hoofdstuk 7 van deze wet.   
 8.  Voor de toepassing van het vierde en vijfde lid wordt onder: 
 
@@ -550,7 +550,8 @@ b. vult de werkgever in overleg met de verzekerde, indien hij al een reïntegrat
 1. Ten aanzien van de verzekerde die op grond van artikel 29, tweede lid, onderdelen a, b, c of d, van de Ziektewet recht heeft op ziekengeld, is op het UWV artikel 25, tweede, vierde, vijfde, en achtste tot en met zestiende lid, niet van toepassing en is artikel 25, eerste, derde en zesde lid, van overeenkomstige toepassing. Het UWV stelt, binnen een bij ministeriële regeling nader te bepalen termijn, in overleg met die verzekerde, een plan van aanpak op. Het plan van aanpak wordt periodiek geëvalueerd. Artikel 30a, zesde en zevende lid, van de Wet structuur uitvoeringsorganisatie werknemersverzekeringen is van overeenkomstige toepassing, waarbij voor «de re-integratievisie» telkens wordt gelezen: het plan van aanpak.  
 2. In afwijking van het eerste lid is artikel 25, eerste, tweede, derde, vijfde, zesde, zevende en achtste lid, van overeenkomstige toepassing op de eigenrisicodrager, bedoeld in artikel 1, eerste lid, onderdeel h, van de Ziektewet ten aanzien van de personen, bedoeld in artikel 29, tweede lid, onderdelen a, b en c, van die wet, die laatstelijk tot hem in dienstbetrekking stonden. Indien bij de behandeling van de aanvraag, bedoeld in artikel 64 en de beoordeling, bedoeld in artikel 65 blijkt dat de eigenrisicodrager, bedoeld in de eerste zin, zonder deugdelijke grond de uit die zin voortvloeiende verplichtingen niet of niet volledig nakomt of onvoldoende reïntegratie-inspanningen heeft verricht, verlengt het UWV het tijdvak gedurende welke de persoon, bedoeld in de eerste zin recht op ziekengeld heeft op grond van artikel 29 van de Ziektewet, op dat de werkgever zijn tekortkoming ten aanzien van de in de tweede zin bedoelde verplichtingen of reïntegratie-inspanningen kan herstellen. Artikel 25, tiende tot en met zestiende lid, is van overeenkomstige toepassing.  
 3.  Het eerste lid is niet van toepassing ten aanzien van de verzekerde die een werkgever als bedoeld in artikel 25, eerste lid, heeft en op die op de dag voordat recht op ziekengeld op grond van artikel 29, tweede lid, onderdeel d, van de Ziektewet ontstond, uitsluitend recht op een uitkering op grond van de Werkloosheidswet had, omdat artikel 20, zesde lid, onderdeel b, van die wet van toepassing was.  
-4.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de uitvoering van dit artikel.  
+4.  Indien de verzekerde, bedoeld in het eerste lid, bij de arbeidsinschakeling wordt ondersteund door het college van burgemeester en wethouders op grond van artikel 7, derde lid, onderdeel c, van de Participatiewet, is het eerste lid van overeenkomstige toepassing op het college van burgemeester en wethouders en treedt het college van burgemeester en wethouders voor de toepassing van het eerste lid in de plaats van het UWV, met dien verstande dat de tweede zin van artikel 65 niet van toepassing is.  
+5.  Bij ministeriële regeling kunnen nadere regels worden gesteld voor de uitvoering van dit artikel.  
 
 ### Hoofdstuk  4  
 
@@ -575,7 +576,9 @@ c. mee te werken door zich te laten onderzoeken door het UWV of door een of meer
 
 d. tot naleving van door het UWV vastgestelde controlevoorschriften die noodzakelijk zijn voor een juiste uitvoering van deze wet;  
 
-e. op verzoek onverwijld inzage te geven aan het UWV in een op hem betrekking hebbend document als bedoeld in artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht.     
+e. op verzoek onverwijld inzage te geven aan het UWV in een op hem betrekking hebbend document als bedoeld in artikel 1, eerste lid, onder 1° tot en met 3°, van de Wet op de identificatieplicht;  
+
+f. zich te onthouden van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.    
 3.  De verplichtingen, bedoeld in het eerste en tweede lid, zijn van overeenkomstige toepassing ten aanzien van: 
 
 a. het reïntegratiebedrijf dat in opdracht van het UWV of de eigenrisicodrager werkzaamheden verricht; of  
@@ -617,7 +620,6 @@ c. mee te werken aan aanpassing van de arbeidsplaats en aan persoonsgebonden voo
 d. mee te werken aan het opstellen van de reïntegratievisie en het reïntegratieplan;  
 
 e. te voldoen aan verplichtingen die zijn opgenomen in de reïntegratievisie en het reïntegratieplan.    
-3. De verplichtingen, bedoeld in het eerste en tweede lid, zijn niet van toepassing op de persoon die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoort van de Wet sociale werkvoorziening. Voor de toepassing van het tweede lid, onderdeel b, wordt niet als inschakeling in de arbeid beschouwd inschakeling in arbeid op grond van een dienstbetrekking als bedoeld in hoofdstuk 2 of 3 van de Wet sociale werkvoorziening.
 
 ### Artikel  30  
 
@@ -637,8 +639,7 @@ a.zich te onthouden van verwijtbaar gedrag dat aangemerkt kan worden als een dri
 
 b.de dienstbetrekking niet door of op zijn verzoek te laten beëindigen zonder dat aan de voortzetting ervan zodanige bezwaren waren verbonden, dat deze voortzetting redelijkerwijs niet van hem kon worden gevergd.  
 4.  In dit hoofdstuk wordt onder passende arbeid verstaan alle arbeid die voor de krachten en bekwaamheden van de verzekerde is berekend, tenzij aanvaarding om redenen van lichamelijke, geestelijke of sociale aard niet van hem kan worden gevergd. Niet als passende arbeid wordt beschouwd arbeid op grond van een dienstbetrekking als bedoeld in hoofdstuk 2 of 3 van de Wet sociale werkvoorziening.  
-5. Het door de verzekerde, bedoeld in het derde lid, niet voeren van verweer tegen of het instemmen met een beëindiging van de dienstbetrekking door of op verzoek van de werkgever leidt niet tot overtreding van de verplichting, bedoeld in het derde lid, aanhef en onderdeel a. 
-6. De verplichtingen, bedoeld in het eerste en tweede lid, zijn niet van toepassing op de verzekerde die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoort van de Wet sociale werkvoorziening.
+5. Het door de verzekerde, bedoeld in het derde lid, niet voeren van verweer tegen of het instemmen met een beëindiging van de dienstbetrekking door of op verzoek van de werkgever leidt niet tot overtreding van de verplichting, bedoeld in het derde lid, aanhef en onderdeel a.
 
 ### Artikel  31  
 
@@ -669,8 +670,7 @@ De verzekerde die een aanvraag voor een uitkering heeft ingediend, of een recht 
 ####Recht op ondersteuning bij arbeidsinschakeling van UWV
 
 1.  De verzekerde die recht heeft op een WGA-uitkering die niet ten laste komt van een eigenrisicodrager, heeft recht op ondersteuning bij arbeidsinschakeling en, met inachtneming van de daarvoor geldende wettelijke bepalingen, op de naar het oordeel van het UWV noodzakelijk geachte voorziening gericht op arbeidsinschakeling, tenzij artikel 42 van toepassing is.   
-2.  Dit artikel is niet van toepassing op de verzekerde, die werkzaam is als werknemer in de zin van de Wet sociale werkvoorziening.   
-3. Voor de toepassing van het eerste lid wordt voor personen die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoren van de Wet sociale werkvoorziening onder een voorziening gericht op arbeidsinschakeling mede verstaan een voorziening gericht op het verkrijgen van arbeid in een dienstbetrekking als bedoeld in de artikelen 2 en 7 van die wet.
+2.  Dit artikel is niet van toepassing op de verzekerde, die werkzaam is als werknemer in de zin van de Wet sociale werkvoorziening.  
 
 ### Artikel  34a  
 
@@ -684,13 +684,17 @@ a. bij de aanvang van de arbeid als zelfstandige aanwezig was, of
 b. binnen drie jaar na de aanvang van de arbeid als zelfstandige is ontstaan, indien bij de aanvang van de arbeid als zelfstandige reeds een ziekte of handicap aanwezig was.     
 3.  Voorzieningen als bedoeld in het eerste lid worden niet verstrekt of worden beëindigd indien het inkomen van de persoon die arbeid als zelfstandige verricht, na een bij algemene maatregel van bestuur te bepalen aantal kalenderjaren na de aanvang van de arbeid als zelfstandige, meer bedraagt dan een bij die maatregel vast te stellen bedrag. Bij of krachtens die maatregel wordt tevens bepaald wat onder inkomen als bedoeld in de eerste zin wordt verstaan.   
 4.  Voor de toepassing van dit artikel en de daarop berustende bepalingen wordt, in afwijking van artikel 1, verstaan onder zelfstandige: de persoon die, anders dan in dienstbetrekking, arbeid in eigen bedrijf verricht of een beroep uitoefent, teneinde daarmee inkomen te verwerven.  
-5.  Dit artikel is niet van toepassing op de persoon die recht op arbeidsondersteuning heeft op grond van de Wet werk en arbeidsondersteuning jonggehandicapten.  
+5.  Dit artikel is niet van toepassing op de persoon: 
+
+a. die recht heeft op arbeidsondersteuning op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
+
+b. voor zover voor diens ondersteuning bij arbeidsinschakeling op grond van artikel 7, eerste lid, onderdeel a, van de Participatiewet het college van burgemeester en wethouders zorg draagt of onmiddellijk voorafgaande aan de aanvang van de arbeid als zelfstandige zorg droeg tot het moment dat het inkomen uit die arbeid gedurende twee aaneengesloten jaren ten minste het minimumloon bedraagt.    
 
 ### Artikel  35  
 
 ####Arbeidsplaatsvoorzieningen en voorzieningen ter ondersteuning van toeleiding naar arbeid
 
-1.  Het UWV kan aan de persoon met een naar het oordeel van het UWV structurele functionele beperking, en die arbeid in dienstbetrekking verricht of die arbeid in dienstbetrekking gaat verrichten, doch niet werkzaam is of zal zijn als werknemer in de zin van de Wet sociale werkvoorziening, of die scholing of opleiding in het kader van de bevordering van de inschakeling in het arbeidsproces volgt of gaat volgen of arbeid op een proefplaats verricht of gaat verrichten, met uitzondering van de persoon, bedoeld in artikel 34, tweede lid, op aanvraag voorzieningen toekennen die strekken tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid, het volgen van de scholing of opleiding of het verrichten van arbeid op die proefplaats.   
+1.  Het UWV kan aan de persoon met een naar het oordeel van het UWV structurele functionele beperking, en die arbeid in dienstbetrekking verricht of die arbeid in dienstbetrekking gaat verrichten, doch niet werkzaam is of zal zijn als werknemer in de zin van de Wet sociale werkvoorziening, of die scholing of opleiding in het kader van de bevordering van de inschakeling in het arbeidsproces volgt of gaat volgen of arbeid op een proefplaats verricht of gaat verrichten, met uitzondering van de persoon die werkzaam is als werknemer in de zin van de Wet sociale werkvoorziening, op aanvraag voorzieningen toekennen die strekken tot behoud, herstel of bevordering van de mogelijkheid tot het verrichten van arbeid, het volgen van de scholing of opleiding of het verrichten van arbeid op die proefplaats.   
 2.  Onder voorzieningen als bedoeld in het eerste lid worden uitsluitend verstaan: 
 
 a. vervoersvoorzieningen die er toe strekken dat de persoon, bedoeld in het eerste lid, zijn werkplek of opleidingslocatie kan bereiken;  
@@ -701,7 +705,11 @@ c. meeneembare voorzieningen ten behoeve van de inrichting van de arbeidsplaats,
 
 d.noodzakelijke persoonlijke ondersteuning bij het verrichten van de aan de persoon opgedragen taken, indien die ondersteuning een compensatie vormt voor zijn beperkingen.   
 3.  Het UWV kan aan de persoon, bedoeld in het eerste lid, op aanvraag vervoersvoorzieningen toekennen die strekken tot verbetering van zijn leefomstandigheden en die deel uitmaken van dan wel rechtstreeks samenhangen met voorzieningen als bedoeld in het tweede lid, onderdeel a.   
-4.  Dit artikel is niet van toepassing op de persoon die recht op arbeidsondersteuning heeft op grond van de Wet werk en arbeidsondersteuning jonggehandicapten.  
+4.  Dit artikel is niet van toepassing op de persoon: 
+
+a. die recht heeft op arbeidsondersteuning op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
+
+b. voor zover voor diens ondersteuning bij arbeidsinschakeling op grond van artikel 7, eerste lid, onderdeel a, van de Participatiewet het college van burgemeester en wethouders zorg draagt of onmiddellijk voorafgaande aan een dienstbetrekking zorg droeg tot het moment dat het inkomen uit de arbeid in dienstbetrekking gedurende twee aaneengesloten jaren ten minste het minimumloon bedraagt en ten behoeve van die persoon in die twee jaren geen loonkostensubsidie als bedoeld in artikel 10d van de Participatiewet is verleend.    
 5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel.  
 
 ### Artikel  36  
@@ -718,13 +726,22 @@ c. die werkgever kosten heeft gemaakt als bedoeld in het tweede lid en de period
 
 d. die werkgever kosten heeft gemaakt als bedoeld in het tweede lid en de periode van drie respectievelijk één jaar, bedoeld in onderdeel b, voortijdig wordt beëindigd omdat er bij die werkgever geen passende arbeid aanwezig is.    
 2.  Onder de kosten, bedoeld in het eerste lid, worden verstaan de kosten van voorzieningen, bedoeld in artikel 35, tweede lid, voorzover die naar de aard der zaak duurzaam zijn verenigd met het bedrijf van de werkgever.   
-3.  Een subsidie als bedoeld in het eerste lid wordt niet verstrekt, indien de subsidie wordt aangevraagd voor een werknemer voor wie reeds eerder aan de werkgever subsidie op grond van dit artikel is verstrekt, tenzij de subsidieaanvraag: 
+3.  Een subsidie als bedoeld in het eerste lid wordt niet verstrekt, indien de subsidie wordt aangevraagd voor een werknemer: 
 
-a. geen verband houdt met feiten en omstandigheden die aanleiding zijn geweest voor het verstrekken van de subsidie;  
+a. voor wie reeds eerder aan de werkgever subsidie op grond van dit artikel is verstrekt, tenzij de subsidieaanvraag: 
 
-b. betrekking heeft op door de werkgever gemaakte kosten ter vervanging van de bij de arbeid te gebruiken hulpmiddelen door de werknemer.     
-4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel. Daarbij kunnen regels worden gesteld met betrekking tot subsidie in geval van overgang van onderneming als bedoeld in artikel 662 van Boek 7 van het Burgerlijk Wetboek, met betrekking tot de te verstrekken gegevens bij een aanvraag voor subsidie. Tevens kunnen daarbij regels worden gesteld met betrekking tot het niet hanteren van een drempelbedrag als bedoeld in het eerste lid, onderdeel a, indien de subsidie wordt verstrekt ten behoeve van een werknemer als bedoeld in het eerste lid, onderdeel a, voor wie de werkgever geen korting als bedoeld in artikel 49 van de Wet financiering sociale verzekeringen kan toepassen.   
-5.  De bedragen in dit artikel worden verlaagd naar evenredigheid van de kortere duur van de dienstbetrekking. 
+1°. geen verband houdt met feiten en omstandigheden die aanleiding zijn geweest voor het verstrekken van de subsidie;  
+
+2°. betrekking heeft op door de werkgever gemaakte kosten ter vervanging van de bij de arbeid te gebruiken hulpmiddelen door de werknemer;    
+
+b. voor zover voor diens ondersteuning bij arbeidsinschakeling op grond van artikel 7, eerste lid, onderdeel a, van de Participatiewet het college van burgemeester en wethouders zorg draagt of onmiddellijk voorafgaande aan een dienstbetrekking zorg droeg tot het moment dat het inkomen uit de arbeid in dienstbetrekking gedurende twee aaneengesloten jaren ten minste het minimumloon bedraagt en ten behoeve van die persoon in die twee jaren geen loonkostensubsidie als bedoeld in artikel 10d van de Participatiewet is verleend.     
+4.  Het UWV kan op aanvraag van de werkgever een tegemoetkoming in de kosten verstrekken, voor zover de werkgever een voorziening als bedoeld in artikel 35, tweede lid, onderdeel d, of artikel 2:22, tweede lid, onderdeel d, van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten verstrekt aan de persoon met een naar het oordeel van het UWV structurele functionele beperking, die:
+
+a. een dienstbetrekking, anders dan een dienstbetrekking in de zin van de Wet sociale werkvoorziening, met de werkgever is aangegaan; of  
+
+b. arbeid op een proefplaats verricht, met uitzondering van de persoon, bedoeld in artikel 34, tweede lid.    
+5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel. Daarbij kunnen regels worden gesteld met betrekking tot subsidie in geval van overgang van onderneming als bedoeld in artikel 662 van Boek 7 van het Burgerlijk Wetboek, met betrekking tot de te verstrekken gegevens bij een aanvraag voor subsidie. Tevens kunnen daarbij regels worden gesteld met betrekking tot het niet hanteren van een drempelbedrag als bedoeld in het eerste lid, onderdeel a, indien de subsidie wordt verstrekt ten behoeve van een werknemer als bedoeld in het eerste lid, onderdeel a, voor wie de werkgever geen korting als bedoeld in artikel 49 van de Wet financiering sociale verzekeringen kan toepassen.   
+6.  De bedragen in dit artikel worden verlaagd naar evenredigheid van de kortere duur van de dienstbetrekking. 
 
 ### Artikel  37  
 
@@ -746,7 +763,7 @@ d. werkzaamheden, waarbij er, naar het oordeel van het UWV of de eigenrisicodrag
 
 ### Artikel  37b  
 
-Het Uitvoeringsinstituut werknemersverzekeringen kan de persoon, die recht heeft op een WGA-uitkering, en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. Artikel 10a, tweede tot en met tiende lid, van de Wet werk en bijstand is van overeenkomstige toepassing. 
+Het Uitvoeringsinstituut werknemersverzekeringen kan de persoon, die recht heeft op een WGA-uitkering, en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. Artikel 10a, tweede tot en met tiende lid, van de Participatiewet is van overeenkomstige toepassing. 
 
 ### §  4.3  
 
@@ -1160,8 +1177,8 @@ Indien de verzekerde, die slechts in staat is om met arbeid ten hoogste 20% te v
 ####Tegemoetkoming arbeidsongeschikten
 
 1.  De persoon die op 1 juli van het kalenderjaar recht heeft op een arbeidsongeschiktheidsuitkering of een WGA-uitkering, heeft recht op een tegemoetkoming.   
-2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 252,00.   
-3.  Het bedrag, genoemd in het tweede lid, wordt jaarlijks per 1 januari bij ministeriële regeling vervangen door een ander bedrag. Dat bedrag wordt berekend door het te vervangen bedrag te vermenigvuldigen met de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001, en de uitkomst vervolgens naar boven af te ronden op hele getallen.   
+2.  De persoon, bedoeld in het eerste lid, ontvangt per kalenderjaar een tegemoetkoming van € 255,00.   
+3.  Het bedrag, genoemd in het tweede lid, wordt jaarlijks per 1 januari gewijzigd overeenkomstig de tabelcorrectiefactor, bedoeld in artikel 10.2 van de Wet inkomstenbelasting 2001. Het gewijzigde bedrag wordt door of namens Onze Minister bekend gemaakt in de Staatscourant.   
 4.  In afwijking van het derde lid kan het bedrag, genoemd in het tweede lid, bij algemene maatregel van bestuur met ingang van een bij die maatregel aan te geven datum worden vervangen door een ander bedrag.   
 5.  Het UWV verstrekt de tegemoetkoming ambtshalve in het derde kwartaal van het kalenderjaar.   
 6.  De tegemoetkoming is niet vatbaar voor beslag.   
@@ -1277,7 +1294,7 @@ Voorzover het betreft het in ontvangst nemen van een uitkering op grond van deze
 
 ####Betaling aan instellingen
 
-1. Indien de persoon aan wie een uitkering op grond van deze wet is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de Algemene Wet Bijzondere Ziektekosten en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het UWV bevoegd de uitkering tot het bedrag van die bijdrage in plaats van aan degene aan wie de uitkering is toegekend, zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.  
+1. Indien de persoon aan wie een uitkering op grond van deze wet is toegekend, aanspraak heeft op verstrekking of vergoeding van zorg als bedoeld in de Wet langdurige zorg en op grond van die wet een bijdrage voor die zorg verschuldigd is, is het UWV bevoegd de uitkering tot het bedrag van die bijdrage in plaats van aan degene aan wie de uitkering is toegekend, zonder diens machtiging uit te betalen aan het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet.  
 2.  Indien de persoon die recht heeft op een uitkering op grond van deze wet in een inrichting ter verpleging van geesteszieken of van zwakzinnigen is opgenomen en het UWV, van de desbetreffende inrichting of van het college van burgemeester en wethouders van de gemeente die de opnamekosten betaalt, het verzoek ontvangt om de uitkering aan die inrichting of die gemeente uit te betalen, is het UWV bevoegd dat verzoek zonder het stellen van andere voorwaarden in te willigen.   
 3.  Indien het eerste lid toepassing vindt, heeft de in het tweede lid bedoelde bevoegdheid betrekking op het gedeelte van de uitkering op grond van deze wet, dat niet aan het Zorginstituut Nederland wordt uitbetaald.   
 4.  Een herziening van de uitkering op grond van het eerste lid als gevolg van een wijziging van de verschuldigde bijdrage vindt plaats zonder dat dit bij beschikking is vastgesteld.  
@@ -1288,7 +1305,8 @@ Voorzover het betreft het in ontvangst nemen van een uitkering op grond van deze
 
 1.  Indien de persoon die recht heeft op een uitkering op grond van deze wet bij aanvang van de wachttijd meer dan een werkgever heeft, wordt de uitkering betaald door het UWV, ook indien een of meer werkgevers eigenrisicodrager zijn.   
 2.  In de situatie, bedoeld in het eerste lid, verhaalt het UWV op de eigenrisicodrager, naar rato van de loonsom de door hem verschuldigde uitkering op grond van deze wet, alsmede de op grond van enige wet over deze uitkering verschuldigde premies die niet op deze uitkering in mindering kunnen worden gebracht en de verschuldigde inkomensafhankelijke bijdrage, bedoeld in artikel 42 van de Zorgverzekeringswet, over deze uitkering.   
-3.  De uitkering op grond van deze wet wordt niet verhaald op de eigenrisicodrager, indien de persoon die recht heeft op die uitkering met behoud van hetzelfde loon bij die werkgever arbeid is blijven verrichten.  
+3.  De uitkering op grond van deze wet wordt niet verhaald op de eigenrisicodrager, indien de persoon die recht heeft op die uitkering met behoud van hetzelfde loon bij die werkgever arbeid is blijven verrichten.   
+4.  Het UWV kan de in het tweede lid bedoelde bedragen invorderen bij dwangbevel. 
 
 ### Artikel  73  
 
@@ -1381,13 +1399,11 @@ a. redelijkerwijs te voorzien is dat degene van wie wordt teruggevorderd niet za
 
 b. redelijkerwijs te voorzien is dat een schuldregeling met betrekking tot alle vorderingen, behoudens de in het tweede lid bedoelde vorderingen, van de overige schuldeisers zonder een zodanig besluit niet tot stand zal komen;  
 
-c. de vordering van het Uitvoeringinstituut werknemersverzekeringen wegens onverschuldigd betaalde uitkering ten minste zal worden voldaan naar evenredigheid met de vorderingen van de schuldeisers van gelijke rang;  
+c. een naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
 
-d. een naar het oordeel van het Uitvoeringsinstituut werknemersverzekeringen betrouwbaar voorstel voor een schuldregeling tot stand is gekomen door tussenkomst van een schuldhulpverlener als bedoeld in artikel 48 van de Wet op het consumentenkrediet;  
+d. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
 
-e. aannemelijk is dat medewerking aan een schuldregeling niet concurrentieverstorend werkt; en  
-
-f. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
+e. uitdeling in het kader van de schuldregeling plaatsvindt overeenkomstig artikel 349 van de Faillissementswet.     
 2.  Het eerste lid is niet van toepassing indien een vordering is ontstaan door het niet nakomen door degene van wie wordt teruggevorderd van de verplichting, bedoeld in artikel 27, en hiervoor een boete als bedoeld in artikel 91 is opgelegd, dan wel met betrekking tot het niet naleven van die verplichting aangifte is gedaan op grond van het Wetboek van Strafrecht.   
 3.  Het besluit tot het afzien van terugvordering of van verdere terugvordering wordt ingetrokken of ten nadele van degene van wie wordt teruggevorderd gewijzigd indien: 
 
@@ -1429,7 +1445,8 @@ De voorzieningen, bedoeld in de artikelen 34a, eerste lid, en 35, de verhoging, 
 1. De eigenrisicodrager draagt gedurende een bij ministeriële regeling te bepalen periode nadat het recht op een WGA-uitkering is ontstaan, het risico van de betaling van die uitkering aan de verzekerde die op de eerste dag van de bij die uitkering in acht genomen wachttijd tot de eigenrisicodrager in dienstbetrekking stond alsmede het risico van betaling van de overlijdensuitkering, bedoeld in artikel 74, eerste lid, aan de rechthebbende of rechthebbenden, bedoeld in dat lid.  
 2. Indien een WGA-uitkering wordt toegekend direct aansluitend op een arbeidsongeschiktheidsuitkering wordt de duur van de arbeidsongeschiktheidsuitkering in mindering gebracht op de periode, bedoeld in het eerste lid.  
 3.  Indien artikel 24 is toegepast wordt de van toepassing zijnde periode bekort met de duur van het verlengde tijdvak, bedoeld in artikel 24, eerste lid.   
-4.  Het eerste lid is niet van toepassing indien de uitkering wordt toegekend aan de verzekerde die uit de dienstbetrekking waaruit de WGA-uitkering is ontstaan, recht had op een uitkering op grond van de Ziektewet, dan wel indien de uitkering wordt toegekend in aansluiting op een uitkering toegekend op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of de Wet werk en arbeidsondersteuning jonggehandicapten, of in aansluiting op een periode waarin recht op arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten bestond.  
+4.  Het eerste lid is niet van toepassing indien de uitkering wordt toegekend aan de verzekerde die uit de dienstbetrekking waaruit de WGA-uitkering is ontstaan, recht had op een uitkering op grond van de Ziektewet, dan wel indien de uitkering wordt toegekend in aansluiting op een uitkering toegekend op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, of in aansluiting op een periode waarin recht op arbeidsondersteuning op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten bestond.   
+5.  Het eerste lid is niet van toepassing indien de uitkering wordt toegekend aan de verzekerde die naar de dienstbetrekking waaruit de WGA- uitkering is ontstaan is toegeleid door het college van burgemeester en wethouders op grond van artikel 7, eerste lid, onderdeel a, van de Participatiewet en voor wiens werkgever bij ziekte de mogelijkheid tot vergoeding, bedoeld in artikel 8a, tweede lid, onderdeel b, van de Participatiewet van toepassing is. 
 
 ### Artikel  83  
 
@@ -1437,7 +1454,8 @@ De voorzieningen, bedoeld in de artikelen 34a, eerste lid, en 35, de verhoging, 
 
 1.  De eigenrisicodrager is bevoegd, met inachtneming van artikel 72 de door het UWV toegekende WGA-uitkering en de overlijdensuitkering, bedoeld in artikel 74, eerste lid, namens het UWV te betalen aan de verzekerde, bedoeld in artikel 82, eerste lid, onderscheidenlijk de rechthebbende of rechthebbenden, bedoeld in artikel 74, eerste lid.   
 2.  De door de eigenrisicodrager op grond van het eerste lid aan de verzekerde betaalde loonaanvullingsuitkering, bedoeld in hoofdstuk 7, en vervolguitkering, bedoeld in artikel 62, vijfde lid, voor zover die uitkeringen meer bedragen dan hetgeen berekend is op grond van het eerste en vierde lid van dat artikel, alsmede de op grond van enige wet hierover verschuldigde premies die daarop niet in mindering kunnen worden gebracht en de verschuldigde inkomensafhankelijke bijdrage, bedoeld in artikel 42 van de Zorgverzekeringswet, over deze beide uitkeringen, kunnen door hem op het UWV worden verhaald. Met betrekking tot de verzekerde, bedoeld in artikel 60, derde lid, bedraagt het bedrag van de loonaanvullingsuitkering dat niet op het UWV kan worden verhaald, in afwijking van de eerste zin, 70% van het minimumloon of het voor de verzekerde geldende dagloon indien dat lager is dan 70% van het minimumloon vermeerderd met de premies die op grond van enige wet daarover verschuldigd zouden zijn en die daarop niet in mindering kunnen worden gebracht en de verschuldigde inkomensafhankelijke bijdrage, bedoeld in artikel 42 van de Zorgverzekeringswet, over deze uitkering.   
-3.  Indien de eigenrisicodrager de uitkering en de overlijdensuitkering niet betaalt, betaalt het UWV deze uitkering en deze overlijdensuitkering en verhaalt het UWV de uitkering en de overlijdensuitkering, alsmede de op grond van enige wet over deze uitkering en deze overlijdensuitkering verschuldigde premies die niet op deze uitkering en deze overlijdensuitkering in mindering kunnen worden gebracht en de verschuldigde inkomensafhankelijke bijdrage, bedoeld in artikel 42 van de Zorgverzekeringswet, over deze uitkering en deze overlijdensuitkering, op de eigenrisicodrager. Op de eigenrisicodrager wordt evenwel niet verhaald hetgeen deze, als hij de uitkering en de overlijdensuitkering wel had betaald, op grond van het tweede lid op het UWV had kunnen verhalen. 
+3.  Indien de eigenrisicodrager de uitkering en de overlijdensuitkering niet betaalt, betaalt het UWV deze uitkering en deze overlijdensuitkering en verhaalt het UWV de uitkering en de overlijdensuitkering, alsmede de op grond van enige wet over deze uitkering en deze overlijdensuitkering verschuldigde premies die niet op deze uitkering en deze overlijdensuitkering in mindering kunnen worden gebracht en de verschuldigde inkomensafhankelijke bijdrage, bedoeld in artikel 42 van de Zorgverzekeringswet, over deze uitkering en deze overlijdensuitkering, op de eigenrisicodrager. Op de eigenrisicodrager wordt evenwel niet verhaald hetgeen deze, als hij de uitkering en de overlijdensuitkering wel had betaald, op grond van het tweede lid op het UWV had kunnen verhalen.  
+4.  Het UWV kan de in het derde lid bedoelde bedragen invorderen bij dwangbevel. 
 
 ### Artikel  84  
 
@@ -1548,9 +1566,9 @@ b. afzien van het opleggen van een bestuurlijke boete indien daarvoor dringende 
 
 ####Invordering bestuurlijke boete
 
-1.  Het UWV verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de Werkloosheidswet, de Ziektewet, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet arbeidsongeschiktheidsvoorziening militairen, de Wet inkomensvoorziening oudere werklozen, de Wet arbeid en zorg of een toeslag op grond van de Toeslagenwet, die de persoon aan wie een bestuurlijke boete is opgelegd ontvangt.   
+1.  Het UWV verrekent de bestuurlijke boete met een uitkering op grond van deze wet, de Werkloosheidswet, de Ziektewet, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet arbeidsongeschiktheidsvoorziening militairen, de Wet inkomensvoorziening oudere werklozen, de Wet arbeid en zorg of een toeslag op grond van de Toeslagenwet, die de persoon aan wie een bestuurlijke boete is opgelegd ontvangt.   
 2.  Onverminderd het eerste lid kan het UWV de bestuurlijke boete verrekenen met een vordering die degene aan wie de bestuurlijke boete is opgelegd op hem heeft.  
-3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de Algemene Ouderdomswet, de Algemene nabestaandenwet, de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
+3.  De Sociale verzekeringsbank onderscheidenlijk de gemeente betaalt het bedrag van de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is, op zijn verzoek aan het UWV indien de persoon aan wie een bestuurlijke boete is opgelegd een uitkering ontvangt op grond van de Algemene Ouderdomswet, de Algemene nabestaandenwet, de Participatiewet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen.   
 4.  De in artikel 479g van het Wetboek van Burgerlijke Rechtsvordering aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het UWV. Indien het UWV gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van artikel 4:123, eerste lid, van de Algemene wet bestuursrecht, door middel van toezending per post aan de persoon aan wie de boete is opgelegd.   
 5.  Zolang de verzekerde of zijn wettelijke vertegenwoordiger zijn verplichting, bedoeld in artikel 91, negende lid, niet of niet behoorlijk nakomt: 
 
@@ -1566,7 +1584,7 @@ b. geldt de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van h
 2.  Artikel 96, eerste lid, en het eerste lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete wegens eenzelfde gedraging als bedoeld in artikel 91, zesde lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 3.  Het UWV kan op verzoek van de overtreder besluiten het eerste lid en tweede lid niet of niet meer toe te passen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van artikel 96, eerste lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Wet werk en bijstand wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+5.  Indien als gevolg van de verrekening, bedoeld in het eerste en tweede lid, algemene bijstand op grond van de Participatiewet wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
 6.  Voor de toepassing van het vijfde lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
 7.  Het vrijgelaten deel, bedoeld in het vijfde lid, is niet vatbaar voor beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen. 
 
@@ -1915,14 +1933,21 @@ Artikel 37a vervalt op een bij koninklijk besluit te bepalen tijdstip.
 
 ####Overgangsbepaling in verband met artikel 34a 
 
-1.  Artikel 34a is niet van toepassing op de persoon, wiens arbeid als zelfstandige als bedoeld in artikel 34a, vierde lid is aangevangen voor de dag van inwerkingtreding van de Wet van 3 december 2009 tot uitbreiding van de mogelijkheid om voorzieningen te verstrekken bij arbeid als zelfstandige (Stb. 589), tenzij deze persoon aanspraak had op een voorziening op grond van artikel 34, tweede lid, artikel 3:64 van de Wet werk en arbeidsondersteuning jonggehandicapten, artikel 65e van de Wet op de arbeidsongeschiktheidsverzekering, artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of artikel 52d van de Ziektewet, zoals die artikelen luidden voor de inwerkingtreding van die wet.   
-2.  Een voorziening die voor de dag van inwerkingtreding van de Wet van 3 december 2009, tot uitbreiding van de mogelijkheid om voorzieningen te verstrekken bij arbeid als zelfstandige (Stb. 589), is verstrekt of aangevraagd op grond van artikel 34, tweede lid, artikel 3:64 van de Wet werk en arbeidsondersteuning jonggehandicapten, artikel 65e van de Wet op de arbeidsongeschiktheidsverzekering, artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of artikel 52d van de Ziektewet, zoals die artikelen luidden voor de inwerkingtreding van die wet, wordt aangemerkt als een voorziening die is verstrekt op grond van artikel 34a.  
+1.  Artikel 34a is niet van toepassing op de persoon, wiens arbeid als zelfstandige als bedoeld in artikel 34a, vierde lid is aangevangen voor de dag van inwerkingtreding van de Wet van 3 december 2009 tot uitbreiding van de mogelijkheid om voorzieningen te verstrekken bij arbeid als zelfstandige (Stb. 589), tenzij deze persoon aanspraak had op een voorziening op grond van artikel 34, tweede lid, artikel 3:64 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, artikel 65e van de Wet op de arbeidsongeschiktheidsverzekering, artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of artikel 52d van de Ziektewet, zoals die artikelen luidden voor de inwerkingtreding van die wet.   
+2.  Een voorziening die voor de dag van inwerkingtreding van de Wet van 3 december 2009, tot uitbreiding van de mogelijkheid om voorzieningen te verstrekken bij arbeid als zelfstandige (Stb. 589), is verstrekt of aangevraagd op grond van artikel 34, tweede lid, artikel 3:64 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, artikel 65e van de Wet op de arbeidsongeschiktheidsverzekering, artikel 67c van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of artikel 52d van de Ziektewet, zoals die artikelen luidden voor de inwerkingtreding van die wet, wordt aangemerkt als een voorziening die is verstrekt op grond van artikel 34a.  
 
 ### Artikel  133f  
 
 ####Overgangsrecht in verband met arbeidsongeschiktheid bij aanvang verzekering
 
 De artikelen 43, onderdeel c, 46 en 124 zoals die luidden op de dag voorafgaand aan de inwerkingtreding van de Wet harmonisatie en vereenvoudiging socialezekerheidswetgeving blijven van toepassing op de persoon wiens eerste werkdag waarop door hem wegens ziekte niet is gewerkt of het werken tijdens de werktijd is gestaakt, is gelegen voor die dag. 
+
+### Artikel  133g  
+
+####Overgangsrecht in verband met opzegging of beëindiging voorlopige toepassing verdragen
+
+1.  Artikel 43, onderdeel f, is niet van toepassing op de persoon op wie dat artikel als gevolg van de opzegging van een verdrag, de beëindiging van de voorlopige toepassing van een verdrag dan wel de beëindiging van een daarmee gelijk te stellen situatie van toepassing zou worden, zolang deze persoon blijft wonen in hetzelfde land als waar hij op de dag voor buitenwerkingtreding als gevolg van die opzegging respectievelijk op de dag voor de beëindiging woonde en blijft voldoen aan de overige voorwaarden voor het recht op een arbeidsongeschiktheidsuitkering of een WGA-uitkering.   
+2.  Onze Minister deelt mede ten aanzien van welk land, met inbegrip van de dag waarop, een verdrag als bedoeld in het eerste lid buitenwerking is getreden dan wel de voorlopige toepassing van een verdrag of een daarmee gelijk te stellen situatie als bedoeld in het eerste lid is beëindigd.  
 
 ### Artikel  133h  
 
@@ -1944,15 +1969,11 @@ Treedt in werking per 01-01-2016
 
 ####Overgangsrecht in verband met overgang voorzieningen en subsidie
 
-Treedt in werking per 01-01-2015 
-
-In afwijking van artikel 7 van de Participatiewet blijven de artikelen 34a, 35 en 36 zoals die artikelen luidden voor de datum van inwerkingtreding van artikel VII van de Invoeringswet Participatiewet, van toepassing op de voorziening die op grond van artikel 34a of 35 is toegekend en op de subsidie die op grond van artikel 36 is verstrekt voor die datum. De vorige zin is niet van toepassing op voorzieningen die zijn toegekend op grond van artikel 34a of 35 aan een jonggehandicapte die recht heeft op een arbeidsongeschiktheidsuitkering op grond van hoofdstuk 3 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten. 
+In afwijking van artikel 7 van de Participatiewet blijven de artikelen 34a, 35 en 36 zoals die artikelen luidden voor de datum van inwerkingtreding van artikel VII van de Invoeringswet Participatiewet, van toepassing op de voorziening die op grond van artikel 34a of 35 is toegekend en op de subsidie die op grond van artikel 36 is verstrekt voor die datum.  
 
 ### Artikel  133k  
 
 ####Overgangsrecht in verband met aanvraag voorzieningen en subsidie
-
-Treedt in werking per 01-01-2015 
 
 1.  Een nog niet afgehandeld en tot het UWV gericht verzoek met betrekking tot een persoon op wie met ingang van de dag van inwerkingtreding van artikel VII van de Invoeringswet Participatiewet de artikelen 34a, 35 of 36 niet meer van toepassing zijn om op grond van een of meer van die artikelen een besluit te nemen, wordt vanaf de dag van inwerkingtreding van artikel VII van die wet beschouwd als een aanvraag voor een voorziening gericht op arbeidsinschakeling als bedoeld in artikel 10, eerste lid, van de Participatiewet. Deze aanvraag wordt beschouwd als te zijn gericht tot het college van burgemeester en wethouders van de betrokken gemeente.   
 2.  Op een bezwaar- of beroepschrift waarop op de dag van inwerkingtreding van artikel VII van de Invoeringswet Participatiewet nog niet is beslist en dat is gericht tegen een besluit dat voor die dag van inwerkingtreding is genomen op grond van de artikelen 34a, 35 of 36, wordt beslist met toepassing van de artikelen 34a, 35 of 36, zoals deze luidden voor die dag van inwerkingtreding.  

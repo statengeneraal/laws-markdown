@@ -14,27 +14,22 @@ Gezien het nader rapport van Onze Minister van Economische Zaken van 26 juni 20
 Hebben goedgevonden en verstaan:    
 
 ### Artikel  I  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt het Besluit dierlijke producten. 
 
 ### Artikel  II  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt het Besluit identificatie en registratie van dieren. 
 
 ### Artikel  III  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Wijzigt het Fokkerijbesluit. 
 
 ### Artikel  IV  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Archiefbescheiden van de bedrijfslichamen betreffende zaken die op grond van dit besluit worden behartigd door Onze Minister van Economische Zaken, worden overgedragen aan Onze Minister van Economische Zaken, voor zover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats. 
 
 ### Artikel  V  
-Treedt in werking op een nader te bepalen tijdstip 
 
 Dit besluit treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 

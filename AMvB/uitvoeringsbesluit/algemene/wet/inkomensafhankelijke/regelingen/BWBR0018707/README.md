@@ -17,7 +17,7 @@ Hebben goedgevonden en verstaan:
 
 ####Reikwijdte en definitie
 
-1.  Dit besluit geeft uitvoering aan de artikelen 38, 38a en 46 van de Algemene wet inkomensafhankelijke regelingen.   
+1.  Dit besluit geeft uitvoering aan de artikelen 32, 38, 38a en 46 van de Algemene wet inkomensafhankelijke regelingen.   
 2.  Dit besluit verstaat onder: 
 
 a. wet: Algemene wet inkomensafhankelijke regelingen;  
@@ -27,6 +27,16 @@ b. Hulp- en informatiepunt: een rechtspersoon die belanghebbenden hulp biedt bij
 c. Verordening (EG) nr. 883/2004: Verordening (EG) nr. 883/2004 van het Europees Parlement en de Raad van 29 april 2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2004, L 166);  
 
 d. Verordening (EG) nr. 987/2009: Verordening (EG) nr. 987/2009 van het Europees Parlement en de Raad van 16 september 2009 tot vaststelling van de wijze van toepassing van Verordening (EG) nr. 883/2004 betreffende de coördinatie van de socialezekerheidsstelsels (PbEU 2009, L 284).   
+
+### Artikel  1bis 
+
+####Versnelde tenuitvoerlegging dwangbevel
+
+In situaties als bedoeld in artikel 31a van de wet kan de betekening en de tenuitvoerlegging van een dwangbevel geschieden op de uren en dagen, bedoeld in artikel 64, eerste en tweede lid, eerste volzin, van het Wetboek van Burgerlijke Rechtsvordering, indien in het kader van een actie die mede is gericht op de toepassing en handhaving van de wet op deze uren en dagen: 
+
+a. bekend wordt dat van de belanghebbende een bedrag wordt teruggevorderd ter zake waarvan terstond een dwangbevel wordt uitgevaardigd, of  
+
+b. een vermogensbestanddeel van de belanghebbende aan wie reeds een dwangbevel is betekend, wordt aangetroffen.   
 
 ###Artikel 1a 
 

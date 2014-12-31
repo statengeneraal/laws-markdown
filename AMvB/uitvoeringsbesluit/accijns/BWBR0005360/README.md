@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Financiën van 23 oktober 1991, nr. WV 91/343, Directoraat-Generaal voor Fiscale Zaken, Directie Wetgeving Verbruiksbelastingen; 
 
-Gelet op de [artikelen 2, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [3, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md),[ 5, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [41, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [51, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [64, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [65, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [66, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [67, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [68, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [70, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [80, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [82, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [85, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [91, derde lid, onderdeel *b* ](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en [95, tweede lid, onderdeel *b*, van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) (*Stb.* 1991, 561), [artikel 70 van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) (*Stb.* 1959, 301) en artikel 28 van de Wet van 15 juni 1951 (*Stb.* 215); 
+Gelet op de artikelen 2, derde lid, 3, derde lid, 5, derde lid, 41, eerste lid, 51, tweede lid, 64, eerste lid, 65, eerste lid, 66, eerste lid, 67, eerste lid, 68, eerste lid, 70, eerste lid, 71, eerste lid, 80, eerste lid, 82, eerste lid, 85, eerste lid, 91, derde lid, onderdeel *b* , en 95, tweede lid, onderdeel *b*, van de Wet op de accijns (*Stb.* 1991, 561), artikel 70 van de Algemene wet inzake rijksbelastingen (*Stb.* 1959, 301) en artikel 28 van de Wet van 15 juni 1951 (*Stb.* 215); 
 
 De Raad van State gehoord (advies van 13 december 1991, nr. W06.91.0589); 
 
@@ -22,8 +22,8 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Dit besluit geeft uitvoering aan de [artikelen 2, achtste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [2a, eerste, tweede, derde en vijfde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [2e, derde en vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [5, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [41, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [42a, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [50b, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [50d, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [50f, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [51, tweede lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [56, derde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [64, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [65, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [66, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [66a, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [66b, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [67, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [68, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [69a, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [70, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71g, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71h, zevende lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [71i, vierde lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [75, zesde en achtste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [80, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [82, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), [85, eerste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en [89, eerste lid, van de Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [artikel 70 van de Algemene wet inzake rijksbelastingen](../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md).   
-2.   In dit besluit wordt verstaan onder de wet: de [Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).  
+1.  Dit besluit geeft uitvoering aan de artikelen 2, achtste lid, 2a, eerste, tweede, derde en vijfde lid, 2e, derde en vierde lid, 5, derde lid, 41, eerste lid, 42a, tweede lid, 50b, eerste lid, 50d, tweede lid, 50f, vierde lid, 51, tweede lid, 56, derde lid, 64, eerste lid, 65, eerste lid, 66, eerste lid, 66a, eerste lid, 66b, eerste lid, 67, eerste lid, 68, eerste lid, 69a, eerste lid, 70, eerste lid, 71, eerste lid, 71g, eerste lid, 71h, zevende lid, 71i, vierde lid, 75, zesde en achtste lid, 80, eerste lid, 82, eerste lid, 85, eerste lid, en 89, eerste lid, van de Wet op de accijns en artikel 70 van de Algemene wet inzake rijksbelastingen.   
+2.   In dit besluit wordt verstaan onder de wet: de Wet op de accijns.  
 
 ### Artikel  1a  
 
@@ -61,17 +61,17 @@ m.  *voorlopig bericht van splitsing:* het bericht, bedoeld in artikel 6, eerste
 
 ### Artikel  2  
 
-1.  Het brengen als bedoeld in [artikel 2a, eerste lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van een accijnsgoed vanuit een accijnsgoederenplaats naar de in [artikel 2a, eerste lid, onderdelen a tot en met e, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bedoelde bestemmingen, geschiedt onder dekking van een e-AD.   
+1.  Het brengen als bedoeld in artikel 2a, eerste lid, van de wet van een accijnsgoed vanuit een accijnsgoederenplaats naar de in artikel 2a, eerste lid, onderdelen a tot en met e, van de wet bedoelde bestemmingen, geschiedt onder dekking van een e-AD.   
 2.  De vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht dient een voorlopig e-AD in.   
 3.  Indien de gegevens in het voorlopig e-AD niet in orde zijn bevonden, draagt de vergunninghouder zorg voor aanpassing van de gegevens en dient hij het voorlopig e-AD opnieuw in.   
 4.  Indien de gegevens in het voorlopig e-AD in orde zijn bevonden, ontvangt de vergunninghouder de ARC, die aan het e-AD is toegekend.   
 5.  De vergunninghouder verstrekt de persoon die de accijnsgoederen vergezelt een gedrukt exemplaar van het e-AD of een ander handelsdocument waarop de ARC duidelijk herkenbaar is vermeld.   
 6.  Het in het vijfde lid bedoelde document moet op ieder moment van de overbrenging, bedoeld in het eerste lid, aan de inspecteur of aan de bevoegde autoriteiten van een andere lidstaat kunnen worden getoond.   
-7.  De vergunninghouder mag het e-AD annuleren zolang de overbrenging nog niet is aangevangen overeenkomstig [artikel 2b, eerste lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md). Hij dient daartoe een voorlopig bericht van annulering in.   
-8.  Tijdens de overbrenging, bedoeld in het eerste lid, kan de vergunninghouder de accijnsgoederen via het EMCS een nieuwe bestemming geven, die een van de in [artikel 2a, eerste lid, onderdelen a tot en met d, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bedoelde bestemmingen moet zijn. Hij dient daartoe een voorlopig bericht van bestemmingswijziging in.   
+7.  De vergunninghouder mag het e-AD annuleren zolang de overbrenging nog niet is aangevangen overeenkomstig artikel 2b, eerste lid, van de wet. Hij dient daartoe een voorlopig bericht van annulering in.   
+8.  Tijdens de overbrenging, bedoeld in het eerste lid, kan de vergunninghouder de accijnsgoederen via het EMCS een nieuwe bestemming geven, die een van de in artikel 2a, eerste lid, onderdelen a tot en met d, van de wet bedoelde bestemmingen moet zijn. Hij dient daartoe een voorlopig bericht van bestemmingswijziging in.   
 9.  Indien de geadresseerde van minerale oliën die onder een accijnsschorsingsregeling over zee of via binnenwaterwegen worden overgebracht, nog niet definitief vaststaat wanneer de vergunninghouder het voorlopig e-AD indient, kan de inspecteur toestaan dat de vergunninghouder de gegevens van de geadresseerde niet invult.   
-10.  Zodra de gegevens van de geadresseerde, bedoeld in het negende lid, bekend zijn, maar uiterlijk bij het eindigen van de overbrenging overeenkomstig [artikel 2b, tweede lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), zendt de vergunninghouder de gegevens toe aan de inspecteur. Hij dient daartoe een voorlopig bericht van bestemmingswijziging in.   
-11.  Aan de vergunninghouder van een accijnsgoederenplaats van waaruit minerale oliën onder dekking van een e-AD worden overgebracht naar een van de bestemmingen, bedoeld in [artikel 2a, eerste lid, onderdelen a tot en met c, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), wordt toegestaan dat de desbetreffende overbrenging wordt gesplitst in twee of meer deeltransporten, mits: 
+10.  Zodra de gegevens van de geadresseerde, bedoeld in het negende lid, bekend zijn, maar uiterlijk bij het eindigen van de overbrenging overeenkomstig artikel 2b, tweede lid, van de wet, zendt de vergunninghouder de gegevens toe aan de inspecteur. Hij dient daartoe een voorlopig bericht van bestemmingswijziging in.   
+11.  Aan de vergunninghouder van een accijnsgoederenplaats van waaruit minerale oliën onder dekking van een e-AD worden overgebracht naar een van de bestemmingen, bedoeld in artikel 2a, eerste lid, onderdelen a tot en met c, van de wet, wordt toegestaan dat de desbetreffende overbrenging wordt gesplitst in twee of meer deeltransporten, mits: 
 
 a. de totale hoeveelheid minerale oliën ongewijzigd blijft;  
 
@@ -79,21 +79,21 @@ b. de splitsing wordt verricht op het grondgebied van een lidstaat die deze proc
 
 c. de bevoegde autoriteiten van laatstgenoemde lidstaat in kennis worden gesteld van de plaats waar de splitsing geschiedt; en  
 
-d. elk deeltransport een van de bestemmingen, bedoeld in [artikel 2a, eerste lid, onderdelen a tot en met d, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), krijgt.   De vergunninghouder dient daartoe een voorlopig bericht van splitsing in.   
+d. elk deeltransport een van de bestemmingen, bedoeld in artikel 2a, eerste lid, onderdelen a tot en met d, van de wet, krijgt.   De vergunninghouder dient daartoe een voorlopig bericht van splitsing in.   
 12.  Indien een overbrenging van minerale oliën als bedoeld in het negende lid, waarvan de geadresseerde nog niet definitief vaststaat, wordt gesplitst als bedoeld in het elfde lid, kan de inspecteur toestaan dat de vergunninghouder voor een van de deeltransporten de gegevens van de geadresseerde niet invult met inachtneming van hetgeen is bepaald in het tiende lid.  
-13.  Bij ontvangst van de accijnsgoederen op de in [artikel 2a, eerste lid, onderdeel a, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bedoelde bestemming zendt de geadresseerde, behoudens in ten genoegen van de inspecteur naar behoren gerechtvaardigde gevallen, onverwijld en uiterlijk binnen vijf werkdagen na het eindigen van de overbrenging overeenkomstig [artikel 2b, tweede lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), een bericht van ontvangst.   
+13.  Bij ontvangst van de accijnsgoederen op de in artikel 2a, eerste lid, onderdeel a, van de wet bedoelde bestemming zendt de geadresseerde, behoudens in ten genoegen van de inspecteur naar behoren gerechtvaardigde gevallen, onverwijld en uiterlijk binnen vijf werkdagen na het eindigen van de overbrenging overeenkomstig artikel 2b, tweede lid, van de wet, een bericht van ontvangst.   
 14.  Indien de gegevens in het bericht van ontvangst niet in orde zijn bevonden, draagt de geadresseerde zorg voor aanpassing van de gegevens en dient hij het bericht van ontvangst onverwijld opnieuw in. 
 
 ### Artikel  2a  
 
-1.  Bij het brengen als bedoeld in [artikel 2a, eerste lid, onderdeel a, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van een accijnsgoed vanuit een accijnsgoederenplaats naar een andere accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen, kan het e-AD, bedoeld in artikel 2, eerste lid, op verzoek achterwege blijven indien: 
+1.  Bij het brengen als bedoeld in artikel 2a, eerste lid, onderdeel a, van de wet van een accijnsgoed vanuit een accijnsgoederenplaats naar een andere accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen, kan het e-AD, bedoeld in artikel 2, eerste lid, op verzoek achterwege blijven indien: 
 
 a. zowel de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht, als de vergunninghouder van de accijnsgoederenplaats waarnaar de accijnsgoederen worden overgebracht, beschikt over een administratie waarin deze overbrengingen afzonderlijk worden bijgehouden en waaruit naar het oordeel van de inspecteur de overbrengingen op overzichtelijke wijze zijn af te lezen;  
 
 b. gebruik wordt gemaakt van een maandverklaring, waarin de vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht opgave doet van de door hem in een kalendermaand zonder e-AD naar een andere accijnsgoederenplaats overgebrachte accijnsgoederen; en  
 
 c. de maandverklaring na afloop van een kalendermaand wordt verstrekt aan elke vergunninghouder van een accijnsgoederenplaats waarnaar in die kalendermaand accijnsgoederen zijn overgebracht.     
-2.  De toestemming voor toepassing van het eerste lid wordt opgenomen in de vergunning voor beide in het eerste lid bedoelde accijnsgoederenplaatsen. Op de toestemming zijn de [artikelen 43 tot en met 50 van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van overeenkomstige toepassing.   
+2.  De toestemming voor toepassing van het eerste lid wordt opgenomen in de vergunning voor beide in het eerste lid bedoelde accijnsgoederenplaatsen. Op de toestemming zijn de artikelen 43 tot en met 50 van de wet van overeenkomstige toepassing.   
 3.  De administratie van de in het eerste lid bedoelde vergunninghouder van de accijnsgoederenplaats van waaruit de accijnsgoederen worden overgebracht bevat in ieder geval: 
 
 a. de naam, het adres en het vergunningnummer van de vergunninghouder van de accijnsgoederenplaats waarnaar de accijnsgoederen zijn overgebracht;  
@@ -121,17 +121,17 @@ e. per overbrenging het nummer van de maandverklaring waarin die overbrenging is
 
 ### Artikel  3  
 
-1.  Het brengen als bedoeld in [artikel 2a, tweede lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van een accijnsgoed vanuit een belastingentrepot of door een in een andere lidstaat gevestigde geregistreerde afzender naar de in artikel 2a, tweede lid, onderdelen a tot en met c, van de wet bedoelde bestemmingen, geschiedt onder dekking van een e-AD.   
+1.  Het brengen als bedoeld in artikel 2a, tweede lid, van de wet van een accijnsgoed vanuit een belastingentrepot of door een in een andere lidstaat gevestigde geregistreerde afzender naar de in artikel 2a, tweede lid, onderdelen a tot en met c, van de wet bedoelde bestemmingen, geschiedt onder dekking van een e-AD.   
 2.  De persoon die de accijnsgoederen vergezelt moet op ieder moment van de overbrenging, bedoeld in het eerste lid, aan de inspecteur een gedrukt exemplaar van het e-AD of een ander handelsdocument waarop de ARC duidelijk herkenbaar is vermeld kunnen tonen.   
-3.  Bij ontvangst van de accijnsgoederen op een van de in [artikel 2a, tweede lid, onderdelen a tot en met c, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bedoelde bestemmingen zendt de geadresseerde, behoudens in ten genoegen van de inspecteur naar behoren gerechtvaardigde gevallen, onverwijld en uiterlijk binnen vijf werkdagen na het eindigen van de overbrenging overeenkomstig [artikel 2b, tweede lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), een bericht van ontvangst.   
+3.  Bij ontvangst van de accijnsgoederen op een van de in artikel 2a, tweede lid, onderdelen a tot en met c, van de wet bedoelde bestemmingen zendt de geadresseerde, behoudens in ten genoegen van de inspecteur naar behoren gerechtvaardigde gevallen, onverwijld en uiterlijk binnen vijf werkdagen na het eindigen van de overbrenging overeenkomstig artikel 2b, tweede lid, van de wet, een bericht van ontvangst.   
 4.  Indien de gegevens in het bericht van ontvangst niet in orde zijn bevonden, draagt de geadresseerde zorg voor aanpassing van de gegevens en dient hij het bericht van ontvangst onverwijld opnieuw in.  
 
 ### Artikel  3a  
 
-1.  Het brengen als bedoeld in [artikel 2a, derde lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van een accijnsgoed door een in Nederland gevestigde geregistreerde afzender van de plaats van invoer naar de in artikel 2a, derde lid, onderdelen a tot en met e, van de wet bedoelde bestemmingen, geschiedt onder dekking van een e-AD.   
+1.  Het brengen als bedoeld in artikel 2a, derde lid, van de wet van een accijnsgoed door een in Nederland gevestigde geregistreerde afzender van de plaats van invoer naar de in artikel 2a, derde lid, onderdelen a tot en met e, van de wet bedoelde bestemmingen, geschiedt onder dekking van een e-AD.   
 2.  Artikel 2, tweede tot en met zevende lid, negende en tiende lid, is van overeenkomstige toepassing.   
-3.  Tijdens de overbrenging, bedoeld in het eerste lid, kan de geregistreerde afzender de accijnsgoederen via het EMCS een nieuwe bestemming geven, die een van de in [artikel 2a, derde lid, onderdelen a tot en met d, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bedoelde bestemmingen moet zijn. Hij dient daartoe een voorlopig bericht van bestemmingswijziging in.   
-4.  Aan de geregistreerde afzender die onder dekking van een e-AD minerale oliën van de plaats van invoer overbrengt naar een van de bestemmingen, bedoeld in [artikel 2a, eerste lid, onderdelen a tot en met c, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), wordt toegestaan dat de desbetreffende overbrenging wordt gesplitst in twee of meer deeltransporten, mits: 
+3.  Tijdens de overbrenging, bedoeld in het eerste lid, kan de geregistreerde afzender de accijnsgoederen via het EMCS een nieuwe bestemming geven, die een van de in artikel 2a, derde lid, onderdelen a tot en met d, van de wet bedoelde bestemmingen moet zijn. Hij dient daartoe een voorlopig bericht van bestemmingswijziging in.   
+4.  Aan de geregistreerde afzender die onder dekking van een e-AD minerale oliën van de plaats van invoer overbrengt naar een van de bestemmingen, bedoeld in artikel 2a, eerste lid, onderdelen a tot en met c, van de wet, wordt toegestaan dat de desbetreffende overbrenging wordt gesplitst in twee of meer deeltransporten, mits: 
 
 a. de totale hoeveelheid minerale oliën ongewijzigd blijft;  
 
@@ -139,14 +139,14 @@ b. de splitsing wordt verricht op het grondgebied van een lidstaat die deze proc
 
 c. de bevoegde autoriteiten van laatstgenoemde lidstaat in kennis worden gesteld van de plaats waar de splitsing geschiedt; en  
 
-d. elk deeltransport een van de bestemmingen, bedoeld in [artikel 2a, eerste lid, onderdelen a tot en met d, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), krijgt.   De geregistreerde afzender dient daartoe een voorlopig bericht van splitsing in.   
+d. elk deeltransport een van de bestemmingen, bedoeld in artikel 2a, eerste lid, onderdelen a tot en met d, van de wet, krijgt.   De geregistreerde afzender dient daartoe een voorlopig bericht van splitsing in.   
 5.  Indien een overbrenging van minerale oliën als bedoeld in artikel 2, negende lid, waarvan de geadresseerde nog niet definitief vaststaat, wordt gesplitst als bedoeld in het vierde lid, kan de inspecteur toestaan dat de geregistreerde afzender voor een van de deeltransporten de gegevens van de geadresseerde niet invult met inachtneming van hetgeen is bepaald in artikel 2, tiende lid.  
-6.  Bij ontvangst van de accijnsgoederen op de in [artikel 2a, derde lid, onderdeel a, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bedoelde bestemming zendt de geadresseerde, behoudens in ten genoegen van de inspecteur naar behoren gerechtvaardigde gevallen, onverwijld en uiterlijk binnen vijf werkdagen na het eindigen van de overbrenging overeenkomstig [artikel 2b, tweede lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), een bericht van ontvangst.   
+6.  Bij ontvangst van de accijnsgoederen op de in artikel 2a, derde lid, onderdeel a, van de wet bedoelde bestemming zendt de geadresseerde, behoudens in ten genoegen van de inspecteur naar behoren gerechtvaardigde gevallen, onverwijld en uiterlijk binnen vijf werkdagen na het eindigen van de overbrenging overeenkomstig artikel 2b, tweede lid, van de wet, een bericht van ontvangst.   
 7.  Indien de gegevens in het bericht van ontvangst niet in orde zijn bevonden, draagt de geadresseerde zorg voor aanpassing van de gegevens en dient hij het bericht van ontvangst onverwijld opnieuw in.  
 
 ### Artikel  3b  
 
-Bij het brengen als bedoeld in [artikel 2a, eerste lid, onderdeel e, tweede lid, onderdeel c, en derde lid, onderdeel e, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van een accijnsgoed naar een geadresseerde als bedoeld in [artikel 69 van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), gaan de accijnsgoederen vergezeld van een certificaat van vrijstelling. 
+Bij het brengen als bedoeld in artikel 2a, eerste lid, onderdeel e, tweede lid, onderdeel c, en derde lid, onderdeel e, van de wet van een accijnsgoed naar een geadresseerde als bedoeld in artikel 69 van de wet, gaan de accijnsgoederen vergezeld van een certificaat van vrijstelling. 
 
 ### Artikel  3c  
 
@@ -171,13 +171,13 @@ c. hij vóór de aanvang van de overbrenging een kopie van het in onderdeel a be
 
 ### Artikel  4  
 
-1.  De vergunninghouder van een accijnsgoederenplaats of de in Nederland gevestigde geregistreerde geadresseerde kan verzoeken om toestemming tot het toepassen van rechtstreekse aflevering, bedoeld in [artikel 2a, vijfde lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).   
-2.  De toestemming als bedoeld in het eerste lid wordt opgenomen in de vergunning van de vergunninghouder van de accijnsgoederenplaats of van de in Nederland gevestigde geregistreerde geadresseerde. Op de toestemming zijn de [artikelen 43 tot en met 46](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [48 tot en met 50 van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van overeenkomstige toepassing.   
+1.  De vergunninghouder van een accijnsgoederenplaats of de in Nederland gevestigde geregistreerde geadresseerde kan verzoeken om toestemming tot het toepassen van rechtstreekse aflevering, bedoeld in artikel 2a, vijfde lid, van de wet.   
+2.  De toestemming als bedoeld in het eerste lid wordt opgenomen in de vergunning van de vergunninghouder van de accijnsgoederenplaats of van de in Nederland gevestigde geregistreerde geadresseerde. Op de toestemming zijn de artikelen 43 tot en met 46 en 48 tot en met 50 van de wet van overeenkomstige toepassing.   
 3.  De toestemming als bedoeld in het eerste lid wordt verleend onder de hierna genoemde voorwaarden en beperkingen: 
 
 a. de toestemming is alleen van toepassing op de accijnsgoederen die in de vergunning zijn vermeld;  
 
-b. de afnemer aan wie rechtstreeks wordt afgeleverd is een ondernemer in de zin van de [Wet op de omzetbelasting 1968](../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) en treedt niet op in de hoedanigheid van een vergunninghouder van een accijnsgoederenplaats of een geregistreerde geadresseerde;  
+b. de afnemer aan wie rechtstreeks wordt afgeleverd is een ondernemer in de zin van de Wet op de omzetbelasting 1968 en treedt niet op in de hoedanigheid van een vergunninghouder van een accijnsgoederenplaats of een geregistreerde geadresseerde;  
 
 c. alle accijnsgoederen die op het e-AD zijn vermeld, worden rechtstreeks afgeleverd op de plaats van rechtstreekse aflevering;  
 
@@ -194,14 +194,14 @@ h. iedere wijziging die zich na het verlenen van de toestemming voordoet, wordt 
 i. bij gebleken misbruik of indien aan één of meer van deze voorwaarden niet wordt voldaan wordt de verleende toestemming ingetrokken.     
 4.  De toestemming als bedoeld in het eerste lid wordt niet verleend: 
 
-a. aan een vergunninghouder van een accijnsgoederenplaats als bedoeld in [artikel 42a van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md);  
+a. aan een vergunninghouder van een accijnsgoederenplaats als bedoeld in artikel 42a van de wet;  
 
-b. aan een vergunninghouder van een accijnsgoederenplaats, waar accijnsgoederen worden vervaardigd, indien de hoeveelheid accijnsgoederen die gemiddeld over een jaar voorhanden is niet meer bedraagt dan de op grond van [artikel 40, eerste lid, onderdeel b, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), bij ministeriële regeling per soort accijnsgoed vastgestelde hoeveelheid.    
+b. aan een vergunninghouder van een accijnsgoederenplaats, waar accijnsgoederen worden vervaardigd, indien de hoeveelheid accijnsgoederen die gemiddeld over een jaar voorhanden is niet meer bedraagt dan de op grond van artikel 40, eerste lid, onderdeel b, van de wet, bij ministeriële regeling per soort accijnsgoed vastgestelde hoeveelheid.    
 
 ### Artikel  4a  
 
-1.  Niettegenstaande artikel 3d vormt in de gevallen, bedoeld in [artikel 2a, eerste, tweede en derde lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), het in artikel 1a, onderdeel g, bedoelde bericht van ontvangst of het in artikel 1a, onderdeel h, bedoelde bericht van uitvoer het bewijs dat een overbrenging overeenkomstig [artikel 2b, tweede lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) is geëindigd.   
-2.  In afwijking van het eerste lid kan, bij gebreke van een bericht van ontvangst of een bericht van uitvoer om andere dan de in artikel 3d vermelde redenen, het eindigen van de overbrenging van accijnsgoederen onder een accijnsschorsingsregeling in de in [artikel 2a, eerste lid, onderdelen a, b, c en e, en derde lid, onderdelen a, b, c en e, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bedoelde gevallen ook worden aangetoond met een op basis van afdoend bewijs opgestelde aftekening van de bevoegde autoriteiten van de lidstaat van bestemming dat de verzonden accijnsgoederen de opgegeven bestemming hebben bereikt of, in de in artikel 2a, eerste lid, onderdeel d, en derde lid, onderdeel d, van de wet bedoelde gevallen, met een aftekening van de bevoegde autoriteiten van de lidstaat waar het douanekantoor van uitgang is gelegen, ter bevestiging dat de accijnsgoederen het grondgebied van de Unie hebben verlaten.   
+1.  Niettegenstaande artikel 3d vormt in de gevallen, bedoeld in artikel 2a, eerste, tweede en derde lid, van de wet, het in artikel 1a, onderdeel g, bedoelde bericht van ontvangst of het in artikel 1a, onderdeel h, bedoelde bericht van uitvoer het bewijs dat een overbrenging overeenkomstig artikel 2b, tweede lid, van de wet is geëindigd.   
+2.  In afwijking van het eerste lid kan, bij gebreke van een bericht van ontvangst of een bericht van uitvoer om andere dan de in artikel 3d vermelde redenen, het eindigen van de overbrenging van accijnsgoederen onder een accijnsschorsingsregeling in de in artikel 2a, eerste lid, onderdelen a, b, c en e, en derde lid, onderdelen a, b, c en e, van de wet bedoelde gevallen ook worden aangetoond met een op basis van afdoend bewijs opgestelde aftekening van de bevoegde autoriteiten van de lidstaat van bestemming dat de verzonden accijnsgoederen de opgegeven bestemming hebben bereikt of, in de in artikel 2a, eerste lid, onderdeel d, en derde lid, onderdeel d, van de wet bedoelde gevallen, met een aftekening van de bevoegde autoriteiten van de lidstaat waar het douanekantoor van uitgang is gelegen, ter bevestiging dat de accijnsgoederen het grondgebied van de Unie hebben verlaten.   
 3.  Voor de toepassing van het tweede lid geldt een document dat door de geadresseerde wordt ingediend en dezelfde gegevens als het bericht van ontvangst of het bericht van uitvoer bevat, als afdoend bewijs.  
 
 ### Artikel  5  
@@ -211,9 +211,9 @@ b. aan een vergunninghouder van een accijnsgoederenplaats, waar accijnsgoederen 
 
 ### Artikel  6  
 
-1.  De overbrenging, bedoeld in [artikel 2e, derde lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), van een accijnsgoed vanuit een andere lidstaat naar Nederland vindt plaats onder dekking van een vereenvoudigd administratief geleidedocument.   
-2.  De personen, bedoeld in [artikel 2e, tweede lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), stellen de inspecteur voorafgaand aan de verzending van de accijnsgoederen in kennis van de verzending van de goederen en stellen zekerheid voor de accijns die zij verschuldigd kunnen worden.   
-3.  Het eerste en tweede lid zijn niet van toepassing met betrekking tot het vervoer van andere minerale oliën dan bedoeld in [artikel 5, vierde lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).  
+1.  De overbrenging, bedoeld in artikel 2e, derde lid, van de wet, van een accijnsgoed vanuit een andere lidstaat naar Nederland vindt plaats onder dekking van een vereenvoudigd administratief geleidedocument.   
+2.  De personen, bedoeld in artikel 2e, tweede lid, van de wet, stellen de inspecteur voorafgaand aan de verzending van de accijnsgoederen in kennis van de verzending van de goederen en stellen zekerheid voor de accijns die zij verschuldigd kunnen worden.   
+3.  Het eerste en tweede lid zijn niet van toepassing met betrekking tot het vervoer van andere minerale oliën dan bedoeld in artikel 5, vierde lid, van de wet.  
 
 ### Artikel  6a  
 
@@ -229,7 +229,7 @@ b. aan een vergunninghouder van een accijnsgoederenplaats, waar accijnsgoederen 
 
 ### Artikel  6c  
 
-1.  Het verbruik bedoeld in [artikel 2, achtste lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van minerale oliën als brandstof voor het vervaardigen van minerale oliën, dient te blijken uit de administratie.    
+1.  Het verbruik bedoeld in artikel 2, achtste lid, van de wet van minerale oliën als brandstof voor het vervaardigen van minerale oliën, dient te blijken uit de administratie.    
 2.   Als verbruik als brandstof voor het vervaardigen van minerale oliën wordt aangemerkt het verbruik voor de energielevering aan bijeenbehorende produktie-installaties waar, anders dan door vermenging, ten minste 30 percent van de vervaardigde produkten minerale oliën zijn.    
 3.   De als brandstof voor de energielevering ingezette minerale oliën kunnen bij voorrang worden toegerekend aan de energie-afname van de in het tweede lid bedoelde bijeenbehorende produktie-installaties.    
 4.   Voor de toerekening bij voorrang wordt uitgegaan van een energiebalans per maand per produktielokatie; een produktielokatie kan zowel de minerale oliën afdeling als de petrochemische afdeling omvatten.    
@@ -241,10 +241,10 @@ b. aan een vergunninghouder van een accijnsgoederenplaats, waar accijnsgoederen 
 
 ### Artikel  7  
 
-1.  De ontheffing als bedoeld in [artikel 5, derde lid, onderdeel a, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vindt uitsluitend toepassing indien uit de administratie van degene die de accijnsgoederen vervaardigt uit andere accijnsgoederen blijkt dat het accijnsbedrag dat eerstbedoelde accijnsgoederen vertegenwoordigen niet hoger is dan het accijnsbedrag dat de accijnsgoederen vertegenwoordigen waaruit zij zijn vervaardigd en dat de accijns voor deze laatstbedoelde goederen is betaald.    
-2.   De ontheffing als bedoeld in [artikel 5, derde lid, onderdeel b, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vindt uitsluitend toepassing indien degene die de accijnsgoederen vervaardigt in het bezit is van een op grond van artikel 18, eerste lid, onderdeel a, voor de vervaardiging van de desbetreffende accijnsgoederen verleende vergunning.    
-3.   De ontheffing als bedoeld in [artikel 5, derde lid, onderdeel c, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vindt uitsluitend toepassing indien de thuis vervaardigde accijnsgoederen worden verbruikt door de vervaardiger, zijn huisgenoten of zijn gasten.    
-4.   De ontheffing, bedoeld in [artikel 5, derde lid, onderdeel d, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), vindt uitsluitend toepassing indien uit de administratie van degene die de minerale oliën vervaardigt of voor commerciële doeleinden voorhanden heeft blijkt dat het minerale oliën betreft bedoeld in [artikel 5, derde lid, onderdeel d, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).   
+1.  De ontheffing als bedoeld in artikel 5, derde lid, onderdeel a, van de wet vindt uitsluitend toepassing indien uit de administratie van degene die de accijnsgoederen vervaardigt uit andere accijnsgoederen blijkt dat het accijnsbedrag dat eerstbedoelde accijnsgoederen vertegenwoordigen niet hoger is dan het accijnsbedrag dat de accijnsgoederen vertegenwoordigen waaruit zij zijn vervaardigd en dat de accijns voor deze laatstbedoelde goederen is betaald.    
+2.   De ontheffing als bedoeld in artikel 5, derde lid, onderdeel b, van de wet vindt uitsluitend toepassing indien degene die de accijnsgoederen vervaardigt in het bezit is van een op grond van artikel 18, eerste lid, onderdeel a, voor de vervaardiging van de desbetreffende accijnsgoederen verleende vergunning.    
+3.   De ontheffing als bedoeld in artikel 5, derde lid, onderdeel c, van de wet vindt uitsluitend toepassing indien de thuis vervaardigde accijnsgoederen worden verbruikt door de vervaardiger, zijn huisgenoten of zijn gasten.    
+4.   De ontheffing, bedoeld in artikel 5, derde lid, onderdeel d, van de wet, vindt uitsluitend toepassing indien uit de administratie van degene die de minerale oliën vervaardigt of voor commerciële doeleinden voorhanden heeft blijkt dat het minerale oliën betreft bedoeld in artikel 5, derde lid, onderdeel d, van de wet.   
 
 ### Hoofdstuk  II  
 
@@ -276,9 +276,9 @@ e. de naar een derde land overgebrachte accijnsgoederen en de uit een derde land
 
 ### Artikel  8a  
 
-Onverminderd artikel 8, tweede lid, moet de administratie van de vergunninghouder van een accijnsgoederenplaats als bedoeld in [artikel 42a, eerste lid, onderdeel c, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) in ieder geval bevatten de regelmatige aantekening van: 
+Onverminderd artikel 8, tweede lid, moet de administratie van de vergunninghouder van een accijnsgoederenplaats als bedoeld in artikel 42a, eerste lid, onderdeel c, van de wet in ieder geval bevatten de regelmatige aantekening van: 
 
-a. de minerale oliën die aan boord van schepen zijn afgeleverd in het kader van de bevoorrading van schepen, bedoeld in [artikel 66 van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md);  
+a. de minerale oliën die aan boord van schepen zijn afgeleverd in het kader van de bevoorrading van schepen, bedoeld in artikel 66 van de wet;  
 
 b. de voor de afleveringen, bedoeld in onderdeel a, uitgereikte facturen alsmede de ter zake van die afleveringen opgemaakte en terugontvangen verklaringen, bedoeld in artikel 19; en  
 
@@ -311,7 +311,7 @@ b. de documenten en berichten als bedoeld in artikel 3.
 1.  De geregistreerde afzender moet de administratie van zijn bedrijf zodanig doen zijn dat daarin op overzichtelijke wijze alle voor de heffing van de accijns van belang zijnde gegevens zijn opgenomen.   
 2.  De administratie van de geregistreerde afzender dient in ieder geval te bevatten de regelmatige aantekening van: 
 
-a. de accijnsgoederen die door hem zijn overgebracht naar de in [artikel 2a, derde lid, onderdelen a tot en met e, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bedoelde bestemmingen;  
+a. de accijnsgoederen die door hem zijn overgebracht naar de in artikel 2a, derde lid, onderdelen a tot en met e, van de wet bedoelde bestemmingen;  
 
 b. de documenten en berichten als bedoeld in artikel 3a.    
 
@@ -324,7 +324,7 @@ b. de documenten en berichten als bedoeld in artikel 3a.
 1.  De fiscaal vertegenwoordiger van de in een andere lidstaat gevestigde verkoper op afstand moet de administratie van zijn bedrijf zodanig doen zijn dat daarin op overzichtelijke wijze alle voor de heffing van de accijns van belang zijnde gegevens zijn opgenomen.    
 2.   De administratie van de fiscaal vertegenwoordiger dient in ieder geval te bevatten de regelmatige aantekening van:  
 
-a. de accijnsgoederen die door zijn opdrachtgever zijn geleverd in de zin van [artikel 2f van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en waarvoor de accijns door hem dient te worden voldaan; en   
+a. de accijnsgoederen die door zijn opdrachtgever zijn geleverd in de zin van artikel 2f van de wet en waarvoor de accijns door hem dient te worden voldaan; en   
 
 b. de door hem aan zijn opdrachtgever uitgereikte facturen.     
 
@@ -339,7 +339,7 @@ b. de door hem aan zijn opdrachtgever uitgereikte facturen.
 
 ### Artikel  9f  
 
-1.  In de in [artikel 75, eerste lid, onderdelen c en d, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bedoelde gevallen kunnen tabaksproducten worden uitgeslagen tot verbruik door een ander dan degene die de accijnszegels heeft aangevraagd.   
+1.  In de in artikel 75, eerste lid, onderdelen c en d, van de wet bedoelde gevallen kunnen tabaksproducten worden uitgeslagen tot verbruik door een ander dan degene die de accijnszegels heeft aangevraagd.   
 2.  Degene die de accijnszegels heeft aangevraagd neemt in zijn zegeladministratie alle bescheiden op waaruit blijkt dat de accijns ter zake van de in het eerste lid bedoelde uitslag tot verbruik is voldaan.  
 
 ### Hoofdstuk  III  
@@ -348,7 +348,7 @@ b. de door hem aan zijn opdrachtgever uitgereikte facturen.
 
 ### Artikel  10  
 
-1.  Het bepaalde in [artikel 51, tweede lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vindt uitsluitend toepassing met betrekking tot minerale oliën die zijn uitgeslagen uit een accijnsgoederenplaats op basis van een schriftelijke opdracht van een vergunninghouder van een andere accijnsgoederenplaats voor minerale oliën.    
+1.  Het bepaalde in artikel 51, tweede lid, van de wet vindt uitsluitend toepassing met betrekking tot minerale oliën die zijn uitgeslagen uit een accijnsgoederenplaats op basis van een schriftelijke opdracht van een vergunninghouder van een andere accijnsgoederenplaats voor minerale oliën.    
 2.   De vergunninghouder in wiens opdracht de uitslag heeft plaatsgevonden maakt in zijn administratie aantekening van de accijnsgoederenplaats waaruit de uitslag heeft plaatsgevonden, van de naam van de vergunninghouder van de desbetreffende accijnsgoederenplaats en van het nummer van de vergunning van die vergunninghouder.    
 3.   De vergunninghouder van de accijnsgoederenplaats waaruit minerale oliën zijn uitgeslagen maakt in zijn administratie aantekening van die uitslag, van de naam van de vergunninghouder van de accijnsgoederenplaats in wiens opdracht de accijnsgoederen zijn uitgeslagen en van het nummer van de vergunning van die vergunninghouder.   
 
@@ -366,7 +366,7 @@ Vrijstelling van accijns ter zake van de uitslag tot verbruik van overige alcoho
 
 ### Artikel  15  
 
-Vrijstelling van accijns wordt verleend ter zake van de uitslag tot verbruik van minerale oliën, andere dan minerale oliën van de GN-codes 3811 11 10, 3811 11 90, 3811 19 00 en 3811 90 00, die kennelijk niet zijn bestemd te worden gebruikt als brandstof voor verwarming, als motorbrandstof of als grondstof indien de verkoopprijs inclusief belastingen van de desbetreffende minerale olie in betekenende mate hoger is dan de verkoopprijs inclusief belastingen van de gelijkwaardige soort minerale olie die wordt gebruikt als brandstof. 
+Vrijstelling van accijns wordt verleend ter zake van de uitslag tot verbruik van minerale oliën, andere dan minerale oliën van de GN-codes 3811 11 10, 3811 11 90, 3811 19 00 en 3811 90 00, die kennelijk niet zijn bestemd te worden gebruikt als brandstof voor verwarming, als motorbrandstof of als grondstof indien de verkoopprijs exclusief accijns en omzetbelasting van de desbetreffende minerale olie hoger is dan de verkoopprijs inclusief accijns en omzetbelasting van de gelijkwaardige soort minerale olie die wordt gebruikt als brandstof. 
 
 ### Artikel  15a  
 
@@ -381,12 +381,12 @@ Vrijstelling van accijns ter zake van de uitslag tot verbruik van sigaretten en 
 
 1.  Vrijstelling van accijns ter zake van de uitslag tot verbruik van accijnsgoederen die worden gebruikt:  
 
-a. voor het vervaardigen van accijnsgoederen als bedoeld in [artikel 64 van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), dan wel overeenkomstig de in dat artikel voor het desbetreffende accijnsgoed aangegeven bestemming; dan wel   
+a. voor het vervaardigen van accijnsgoederen als bedoeld in artikel 64 van de wet, dan wel overeenkomstig de in dat artikel voor het desbetreffende accijnsgoed aangegeven bestemming; dan wel   
 
 b. als grondstof voor het vervaardigen van niet-accijnsgoederen, wordt verleend indien degene die de accijnsgoederen betrekt in het bezit is van een vergunning van de inspecteur waaruit blijkt dat hij de desbetreffende accijnsgoederen met vrijstelling mag betrekken met inachtneming van de in het tweede tot en met vijfde lid opgenomen voorwaarden.      
 2.   Om de in het eerste lid bedoelde vergunning te kunnen verkrijgen dient de administratie van degene die om de vergunning verzoekt zodanig te zijn ingericht dat daarin op overzichtelijke wijze de gegevens omtrent alle voor de vrijstelling van accijns van belang zijnde bedrijfshandelingen zijn opgenomen. Daarin moeten in ieder geval de gegevens zijn opgenomen omtrent de betrokken accijnsgoederen en omtrent de daarvan vervaardigde accijnsgoederen en niet-accijnsgoederen, dan wel omtrent het gebruik van de desbetreffende accijnsgoederen.    
 3.   Voor de toepassing van het eerste lid, onderdeel *a*, zijn de artikelen 12, 15 en 17 van overeenkomstige toepassing op de door degene die de goederen met vrijstelling betrekt vervaardigde accijnsgoederen.    
-4.   Degene die de accijnsgoederen met vrijstelling betrekt dient zekerheid te stellen voor de accijns die hij verschuldigd kan worden. De [artikelen 56, vijfde tot en met achtste lid](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), en [57 tot en met 60, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zijn van overeenkomstige toepassing.    
+4.   Degene die de accijnsgoederen met vrijstelling betrekt dient zekerheid te stellen voor de accijns die hij verschuldigd kan worden. De artikelen 56, vijfde tot en met achtste lid, en 57 tot en met 60, van de wet zijn van overeenkomstige toepassing.    
 5.  Onverminderd de in het tweede tot en met vierde lid bedoelde voorwaarden wordt de vrijstelling, bedoeld in het eerste lid, verleend indien: 
 
 a. degene die de accijnsgoederen met vrijstelling betrekt verklaart dat de aan hem te leveren accijnsgoederen worden gebruikt voor het in het eerste lid, onderdelen a en b, bedoelde gebruik;  
@@ -441,7 +441,7 @@ Artikel 19 is van overeenkomstige toepassing op het verlenen van vrijstelling va
 ### Artikel  20  
 
 1.  Vrijstelling van accijns als bedoeld in artikel 19 wordt voor lichte olie niet verleend.   
-2.  Vrijstelling van accijns als bedoeld in artikel 19 wordt voor halfzware olie en gasolie uitsluitend verleend indien die oliën zijn voorzien van herkenningsmiddelen als bedoeld in [artikel 1a, derde lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).   
+2.  Vrijstelling van accijns als bedoeld in artikel 19 wordt voor halfzware olie en gasolie uitsluitend verleend indien die oliën zijn voorzien van herkenningsmiddelen als bedoeld in artikel 1a, derde lid, van de wet.   
 3.  Het tweede lid is van overeenkomstige toepassing op producten van GN-code 3824 90 99.  
 
 ### Artikel  21a  
@@ -507,17 +507,17 @@ d. de bestemming van de eventueel resterende accijnsgoederen na afloop van het o
 ### Artikel  23a  
 
 1. Teruggaaf van accijns voor minerale oliën die worden gebruikt voor het opwekken van elektriciteit in een installatie met een elektrisch vermogen van minimaal 60 kilowatt, wordt verleend aan degene die de minerale oliën overeenkomstig het vorenstaande heeft gebruikt. 
-2. Het gebruik van de minerale oliën als bedoeld in het eerste lid dient te blijken uit de administratie van de gebruiker. Uit deze administratie dient eveneens te blijken dat de opgewekte elektriciteit op een Nederlands net als bedoeld in [artikel 69a, tweede lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), is ingevoed dan wel, indien geen invoeding op een Nederlands net heeft plaatsgevonden, dat die elektriciteit overeenkomstig [artikel 50, vierde lid, van de Wet belastingen op milieugrondslag](../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md) in de heffing van energiebelasting is betrokken. 
+2. Het gebruik van de minerale oliën als bedoeld in het eerste lid dient te blijken uit de administratie van de gebruiker. Uit deze administratie dient eveneens te blijken dat de opgewekte elektriciteit op een Nederlands net als bedoeld in artikel 69a, tweede lid, van de wet, is ingevoed dan wel, indien geen invoeding op een Nederlands net heeft plaatsgevonden, dat die elektriciteit overeenkomstig artikel 50, vierde lid, van de Wet belastingen op milieugrondslag in de heffing van energiebelasting is betrokken. 
 
 ### Artikel  24  
 
-Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen in gevallen waarin deze accijnsgoederen op de voet van [artikel 65 van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) zouden kunnen worden betrokken met vrijstelling, is artikel 18 van overeenkomstige toepassing met uitzondering van het bepaalde in het vierde tot en met achtste lid van dat artikel. 
+Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen in gevallen waarin deze accijnsgoederen op de voet van artikel 65 van de wet zouden kunnen worden betrokken met vrijstelling, is artikel 18 van overeenkomstige toepassing met uitzondering van het bepaalde in het vierde tot en met achtste lid van dat artikel. 
 
 ### Artikel  25  
 
-1. Teruggaaf van accijns voor accijnsgoederen waarvoor op de voet van de [artikelen 66](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [66a van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) aanspraak op een vrijstelling zou bestaan, wordt verleend indien:
+1. Teruggaaf van accijns voor accijnsgoederen waarvoor op de voet van de artikelen 66 en 66a van de wet aanspraak op een vrijstelling zou bestaan, wordt verleend indien:
 
-a.degene die om teruggaaf verzoekt in zijn administratie een verklaring opneemt van de eigenaar of exploitant van het schip of luchtvaartuig of zijn vertegenwoordiger aan boord van het schip of luchtvaartuig dat de accijnsgoederen worden gebruikt voor het in de [artikelen 66](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) en [66a van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bedoelde gebruik;
+a.degene die om teruggaaf verzoekt in zijn administratie een verklaring opneemt van de eigenaar of exploitant van het schip of luchtvaartuig of zijn vertegenwoordiger aan boord van het schip of luchtvaartuig dat de accijnsgoederen worden gebruikt voor het in de artikelen 66 en 66a van de wet bedoelde gebruik;
 
 b.de verklaring in tweevoud geschiedt met gebruikmaking van een door degene die de levering heeft verricht opgesteld bescheid;
 
@@ -528,7 +528,7 @@ d.een exemplaar van de verklaring op overzichtelijke wijze wordt bewaard bij de 
 
 ### Artikel  27a  
 
-Teruggaaf van accijns voor minerale oliën waarvoor op de voet van [artikel 67, eerste lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) aanspraak op een vrijstelling zou bestaan, wordt verleend indien uit de administratie van degene die verzoekt om teruggaaf van accijns blijkt: 
+Teruggaaf van accijns voor minerale oliën waarvoor op de voet van artikel 67, eerste lid, van de wet aanspraak op een vrijstelling zou bestaan, wordt verleend indien uit de administratie van degene die verzoekt om teruggaaf van accijns blijkt: 
 
 a. dat de minerale oliën zijn gebruikt of zullen worden gebruikt voor verwarmingsdoeleinden;  
 
@@ -546,16 +546,16 @@ Voor de toepassing van de teruggaaf voor onder ambtelijk toezicht vernietigde ac
 
 ### Artikel  30  
 
-Teruggaaf van accijns voor accijnsgoederen die zijn gebracht naar een derde land, wordt verleend indien in de administratie van degene die verzoekt om teruggaaf van accijns documenten zijn opgenomen die zijn vereist op grond van wettelijke bepalingen als bedoeld in [artikel 1:1, eerste en tweede lid, van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), waarmee wordt aangetoond dat de accijnsgoederen ten uitvoer zijn aangegeven en het grondgebied van de Unie hebben verlaten. 
+Teruggaaf van accijns voor accijnsgoederen die zijn gebracht naar een derde land, wordt verleend indien in de administratie van degene die verzoekt om teruggaaf van accijns documenten zijn opgenomen die zijn vereist op grond van wettelijke bepalingen als bedoeld in artikel 1:1, eerste en tweede lid, van de Algemene douanewet, waarmee wordt aangetoond dat de accijnsgoederen ten uitvoer zijn aangegeven en het grondgebied van de Unie hebben verlaten. 
 
 ### Artikel  31  
 
 1.  Teruggaaf van accijns voor accijnsgoederen die zijn gebracht binnen een accijnsgoederenplaats die voor dat soort accijnsgoed als zodanig is aangewezen, wordt verleend aan de vergunninghouder van de accijnsgoederenplaats waarnaar de goederen zijn overgebracht indien uit de administratie blijkt dat de goederen in zijn accijnsgoederenplaats zijn opgenomen.    
-2.   De vergunninghouder van de accijnsgoederenplaats brengt het bedrag waarvoor aanspraak op teruggaaf wordt gemaakt in mindering op het bedrag dat hij ingevolge [artikel 53 van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) op aangifte moet voldoen over het tijdvak waarin de desbetreffende accijnsgoederen binnen zijn accijnsgoederenplaats zijn gebracht.   
+2.   De vergunninghouder van de accijnsgoederenplaats brengt het bedrag waarvoor aanspraak op teruggaaf wordt gemaakt in mindering op het bedrag dat hij ingevolge artikel 53 van de wet op aangifte moet voldoen over het tijdvak waarin de desbetreffende accijnsgoederen binnen zijn accijnsgoederenplaats zijn gebracht.   
 
 ### Artikel  31a  
 
-1.  Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen die door een ondernemer zijn overgebracht in de zin van [artikel 71, eerste lid, onderdeel e, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), moet belanghebbende: 
+1.  Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen die door een ondernemer zijn overgebracht in de zin van artikel 71, eerste lid, onderdeel e, van de wet, moet belanghebbende: 
 
 a. de accijnsgoederen vervoeren onder dekking van een vereenvoudigd administratief geleidedocument; en  
 
@@ -568,7 +568,7 @@ b. de datum van aanvaarding van de aangifte door de ter zake bevoegde fiscale au
 
 ### Artikel  31b  
 
-Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen die zijn geleverd in de zin van [artikel 71, eerste lid, onderdeel f, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), moet belanghebbende: 
+Voor de toepassing van de teruggaaf van accijns voor accijnsgoederen die zijn geleverd in de zin van artikel 71, eerste lid, onderdeel f, van de wet, moet belanghebbende: 
 
 a. in zijn administratie een document opnemen waaruit blijkt dat de betaling van accijns in de lidstaat van bestemming heeft plaatsgevonden. Indien in de lidstaat van bestemming geen accijns verschuldigd is, blijkt uit de administratie dat de accijnsgoederen in de lidstaat van bestemming zijn afgeleverd;  
 
@@ -580,17 +580,17 @@ d. een administratie voeren van de leveringen van de accijnsgoederen.
 
 ### Artikel  31d  
 
-Het verzoek om teruggaaf, bedoeld in [artikel 71g van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), wordt gedaan uiterlijk drie maanden na afloop van het kalenderkwartaal waarin het vloeibaar gemaakt petroleumgas is geleverd.
+Het verzoek om teruggaaf, bedoeld in artikel 71g van de wet, wordt gedaan uiterlijk drie maanden na afloop van het kalenderkwartaal waarin het vloeibaar gemaakt petroleumgas is geleverd.
 
 ### Artikel  31e  
 
-1.  Teruggaaf van accijns als bedoeld in [artikel 71h, eerste lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), wordt slechts verleend indien de motorbrandstof wordt gebruikt voor het aandrijven van motorrijtuigen.   
+1.  Teruggaaf van accijns als bedoeld in artikel 71h, eerste lid, van de wet, wordt slechts verleend indien de motorbrandstof wordt gebruikt voor het aandrijven van motorrijtuigen.   
 2.  Teruggaaf van accijns als bedoeld in het eerste lid, voor motorbrandstof waarvan via een massabalanssysteem als bedoeld in artikel 18, eerste lid, van de Richtlijn hernieuwbare energie, blijkt dat deze geheel of gedeeltelijk bestaat uit biobrandstof als bedoeld in artikel 2, onderdeel i, van die richtlijn, welke biobrandstof voldoet aan duurzaamheidscriteria als bedoeld in artikel 17 van die richtlijn, wordt verleend indien in de administratie van degene die verzoekt om teruggaaf van accijns een verklaring is opgenomen van een registeraccountant omtrent de juistheid, tijdigheid en volledigheid van de in dit massabalanssysteem opgenomen gegevens.   
-3.  Een teruggaaf van accijns op grond van de [artikelen 71](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) of [71a van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) voor motorbrandstof die geheel of gedeeltelijk bestaat uit biobrandstof als bedoeld in artikel 2, onderdeel i, van de Richtlijn hernieuwbare energie, welke biobrandstof voldoet aan duurzaamheidscriteria als bedoeld in artikel 17 van die richtlijn, wordt verminderd met een eerdere teruggaaf van accijns op grond van [artikel 71h van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md).  
+3.  Een teruggaaf van accijns op grond van de artikelen 71 of 71a van de wet voor motorbrandstof die geheel of gedeeltelijk bestaat uit biobrandstof als bedoeld in artikel 2, onderdeel i, van de Richtlijn hernieuwbare energie, welke biobrandstof voldoet aan duurzaamheidscriteria als bedoeld in artikel 17 van die richtlijn, wordt verminderd met een eerdere teruggaaf van accijns op grond van artikel 71h van de wet.  
 
 ### Artikel  31f  
 
-Indien teruggaaf van accijns is verleend op grond van [artikel 71i van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) wordt bij een later verzoek om teruggaaf van accijns op grond van de [artikelen 70, eerste lid, onderdeel b](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md),[ 71](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) of [71a van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) het bedrag aan laatstbedoelde teruggaaf verminderd met het bedrag aan teruggaaf verleend op grond van artikel 71i van de wet. 
+Indien teruggaaf van accijns is verleend op grond van artikel 71i van de wet wordt bij een later verzoek om teruggaaf van accijns op grond van de artikelen 70, eerste lid, onderdeel b, 71 of 71a van de wet het bedrag aan laatstbedoelde teruggaaf verminderd met het bedrag aan teruggaaf verleend op grond van artikel 71i van de wet. 
 
 ### Artikel  32  
 
@@ -617,7 +617,7 @@ Vervallen per 01-01-2007
 2.  Het bescheid dat wordt gebruikt om de herkomst aan te tonen van accijnsgoederen die worden vervoerd, niet zijnde onder een accijnsschorsingsregeling, mag niet ouder zijn dan zes dagen, tenzij wordt aangetoond dat het vervoer langer dan zes dagen geleden is aangevangen.   
 3.  Het eerste lid is niet van toepassing op accijnsgoederen: 
 
-a. beneden de op grond van [artikel 2d, tweede lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) vastgestelde hoeveelheden; en  
+a. beneden de op grond van artikel 2d, tweede lid, van de wet vastgestelde hoeveelheden; en  
 
 b. die bij anderen dan ondernemers voorhanden zijn of door hen worden vervoerd voor eigen behoeften voor zover die accijnsgoederen zich bevinden in de gebruikelijke kleinhandelsverpakking.    
 
@@ -639,7 +639,7 @@ Van ruwe en van gedeeltelijk tot verbruik bereide tabak die wordt vervoerd moet 
 
 ### Artikel  37  
 
-Met betrekking tot het verlenen, het aanpassen en het intrekken van op grond van dit besluit te verlenen vergunningen zijn de [artikelen 43 tot en met 50 van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) van overeenkomstige toepassing.  
+Met betrekking tot het verlenen, het aanpassen en het intrekken van op grond van dit besluit te verlenen vergunningen zijn de artikelen 43 tot en met 50 van de wet van overeenkomstige toepassing.  
 
 ### Artikel  38  
 
@@ -649,12 +649,12 @@ In een douane-entrepot van het type B of van het type C als bedoeld in artikel 5
 
 1.   De voor opslag bestemde inrichtingen van de vergunninghouder van een douane-entrepot van het type E of van het type C, bedoeld in artikel 525, tweede lid, onderdeel b, onderscheidenlijk onderdeel c, van de toepassingsverordening Communautair douanewetboek, kunnen voor de opslag van accijnsgoederen als accijnsgoederenplaats worden aangewezen.    
 2.   Uit de administratie van de vergunninghouder voor de accijnsgoederenplaats en voor een douane-entrepot als bedoeld in het eerste lid, blijkt op overzichtelijke wijze welke goederen in de accijnsgoederenplaats zijn opgeslagen en welke in het douane-entrepot.    
-3.  Met betrekking tot plaatsen waarvoor een vergunning is verleend als bedoeld in het eerste lid, wordt onder het in [artikel 2a, derde lid, aanhef en onderdeel a, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) bedoelde brengen van accijnsgoederen vanuit het douane-entrepot naar een accijnsgoederenplaats die voor dat soort accijnsgoederen als zodanig is aangewezen, mede verstaan het in de administratie overboeken van de goederen van het douane-entrepot naar de accijnsgoederenplaats.   
+3.  Met betrekking tot plaatsen waarvoor een vergunning is verleend als bedoeld in het eerste lid, wordt onder het in artikel 2a, derde lid, aanhef en onderdeel a, van de wet bedoelde brengen van accijnsgoederen vanuit het douane-entrepot naar een accijnsgoederenplaats die voor dat soort accijnsgoederen als zodanig is aangewezen, mede verstaan het in de administratie overboeken van de goederen van het douane-entrepot naar de accijnsgoederenplaats.   
 4.  Voor de in het derde lid bedoelde overbrengingen is geen e-AD vereist.  
 
 ### Artikel  39a  
 
-1.  De inspecteur kan toestaan dat de vervoerder of de eigenaar, bedoeld in [artikel 56, derde lid, van de wet](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md), zekerheid stelt in plaats van de vergunninghouder van een accijnsgoederenplaats of de geregistreerde afzender, indien hiertoe een gezamenlijk verzoek van die vervoerder of eigenaar en die vergunninghouder of geregistreerde afzender wordt ingediend.   
+1.  De inspecteur kan toestaan dat de vervoerder of de eigenaar, bedoeld in artikel 56, derde lid, van de wet, zekerheid stelt in plaats van de vergunninghouder van een accijnsgoederenplaats of de geregistreerde afzender, indien hiertoe een gezamenlijk verzoek van die vervoerder of eigenaar en die vergunninghouder of geregistreerde afzender wordt ingediend.   
 2.   In het verzoek worden vermeld:  
 
 a. de naam en het adres van de vergunninghouder van de accijnsgoederenplaats of van de geregistreerde afzender en de naam en het adres van de vervoerder of de eigenaar van de goederen;   
@@ -707,7 +707,7 @@ f. het overigens in strijd met dit besluit vervoeren of voorhanden hebben van ac
 
 ### Artikel  43  
 
-1.  Dit besluit treedt in werking op het tijdstip waarop de [Wet op de accijns](../../../../wet/wet/op/de/accijns/BWBR0005251/README.md) in werking treedt.    
+1.  Dit besluit treedt in werking op het tijdstip waarop de Wet op de accijns in werking treedt.    
 2.   Dit besluit kan worden aangehaald als Uitvoeringsbesluit accijns.   
 
 Lasten en bevelen dat dit besluit met de daarbij behorende nota van toelichting in het *Staatsblad* zal worden geplaatst en dat daarvan afschrift zal worden gezonden aan de Raad van State.    

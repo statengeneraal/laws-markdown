@@ -35,11 +35,11 @@ f. kosten van het als gemachtigde optreden van een arts in zaken waarin enig wet
 
 a. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel a: overeenkomstig het in de bijlage opgenomen tarief;  
 
-b. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel b: op de vergoeding die ingevolge artikel 8:36, tweede lid, van de Algemene wet bestuursrecht is verschuldigd indien de kosten zijn gemaakt in bezwaar of administratief beroep wordt deze vergoeding vastgesteld met overeenkomstige toepassing van het bepaalde bij en krachtens de Wet tarieven in strafzaken;  
+b. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel b: op de vergoeding die ingevolge artikel 8:36, tweede lid, van de Algemene wet bestuursrecht is verschuldigd; indien de kosten zijn gemaakt in bezwaar of administratief beroep wordt deze vergoeding vastgesteld met overeenkomstige toepassing van het bepaalde bij en krachtens de Wet tarieven in strafzaken;  
 
 c. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel c: overeenkomstig artikel 11, eerste lid, onderdeel c, van het Besluit tarieven in strafzaken 2003;  
 
-d. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel d: overeenkomstig een tarief dat, afhankelijk van de omstandigheden, tussen € 7 en € 78 per 1 januari 2014: € 80 per uur bedraagt;  
+d. ten aanzien van de kosten, bedoeld in artikel 1, onderdeel d: overeenkomstig een tarief dat, afhankelijk van de omstandigheden, tussen € 7 en € 78 per 1 januari 2015: € 81 per uur bedraagt;  
 
 e. ten aanzien van de kosten, bedoeld in artikel 1, onder e: op de werkelijke kosten,  
 
@@ -50,7 +50,7 @@ f. ten aanzien van de kosten, bedoeld in artikel 1, onder f: met overeenkomstige
 ### Artikel  3  
 
 1.  Samenhangende zaken worden voor de toepassing van artikel 2, eerste lid, onder a, beschouwd als één zaak.   
-2.   Samenhangende zaken zijn: gelijktijdig of nagenoeg gelijktijdig door een of meer belanghebbenden tegen nagenoeg identieke besluiten op vergelijkbare gronden gemaakte bezwaren of ingestelde beroepen waarin rechtsbijstand als bedoeld in artikel 1, onderdeel a, is verleend door een of meer personen die deel uitmaken van hetzelfde samenwerkingsverband en van wie de werkzaamheden in elk van de zaken nagenoeg identiek konden zijn.  
+2.  Samenhangende zaken zijn: door een of meer belanghebbenden gemaakte bezwaren of ingestelde beroepen, die door het bestuursorgaan of de bestuursrechter gelijktijdig of nagenoeg gelijktijdig zijn behandeld, waarin rechtsbijstand als bedoeld in artikel 1, onder a, is verleend door dezelfde persoon dan wel door een of meer personen die deel uitmaken van hetzelfde samenwerkingsverband en van wie de werkzaamheden in elk van de zaken nagenoeg identiek konden zijn.  
 
 ### Artikel  5  
 
@@ -166,7 +166,7 @@ Het bedrag van de kosten, bedoeld in artikel 1, onderdeel *a*, van het Besluit p
 
 ####Waarde per punt
 
-*B1. Beroep en hoger beroep*  1 punt = € 472 Per 1 januari 2014: € 487.  *B2. Bezwaar en administratief beroep*  1. 1 punt = € 235 Per 1 januari 2014: € 243 voor besluiten genomen op grond van een wettelijk voorschrift inzake belastingen of de heffing van premies, dan wel premievervangende belasting voor de sociale verzekeringen, bedoeld in artikel 2, onderdelen a en c, van de Wet financiering sociale verzekeringen. Dit geldt tevens voor besluiten genomen op grond van een wettelijk voorschrift inzake de heffing van de inkomensafhankelijke bijdragen, dan wel een bijdragevervangende belasting, ingevolge de Zorgverzekeringswet. 2. 1 punt = € 472 Per 1 januari 2014: € 487 in de overige gevallen. 
+*B1. Beroep en hoger beroep*  1 punt = € 472 Per 1 januari 2015: € 490.  *B2. Bezwaar en administratief beroep*  1. 1 punt = € 235 Per 1 januari 2015: € 244 voor besluiten genomen op grond van een wettelijk voorschrift inzake belastingen of de heffing van premies, dan wel premievervangende belasting voor de sociale verzekeringen, bedoeld in artikel 2, onderdelen a en c, van de Wet financiering sociale verzekeringen. Dit geldt tevens voor besluiten genomen op grond van een wettelijk voorschrift inzake de heffing van de inkomensafhankelijke bijdragen, dan wel een bijdragevervangende belasting, ingevolge de Zorgverzekeringswet. 2. 1 punt = € 472 Per 1 januari 2015: € 490 in de overige gevallen. 
 
 ### C  
 

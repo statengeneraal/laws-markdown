@@ -20,14 +20,12 @@ Hebben goedgevonden en verstaan:
 
 ####Reikwijdte en definitie
 
-1.  Dit besluit geeft uitvoering aan de artikelen 2.5, 2.6, 3.11, 3.20, 3.54, 3.83, 3.126, 3.126a, 3.127, 4.25, 5.7, 5.20, 5.22, 5.23, 6.1, 6.16, 6.25, 7.6, 9.2, 10.8 en 10.9 van de Wet inkomstenbelasting 2001 en aan artikel 10a van de Algemene wet inzake rijksbelastingen.   
+1.  Dit besluit geeft uitvoering aan de artikelen 1.7, 2.6, 3.11, 3.18, 3.20, 3.54, 3.83, 3.126, 3.126a, 3.127, 4.25, 5.7, 5.16b, 5.20, 5.22, 5.23, 6.1, 6.16, 6.25, 7.6, 7.8, 9.2, 10.8 en 10.9 van de Wet inkomstenbelasting 2001 en aan artikel 10a van de Algemene wet inzake rijksbelastingen.   
 2.  Dit besluit verstaat onder wet: de Wet inkomstenbelasting 2001.  
 
 ### Artikel  1a  
 
 ####Pensioenregeling; vrijwillige voortzetting
-
-Treedt in werking per 01-01-2015 
 
 1.  Een regeling als bedoeld in artikel 1.7, tweede lid, onderdeel b, van de wet, die vrijwillig wordt voortgezet nadat de arbeidsverhouding op grond waarvan deelneming aan die pensioenregeling was verplicht is geëindigd, wordt, onder door Onze Minister te stellen voorwaarden, als een zodanige pensioenregeling aangemerkt, ingeval: 
 
@@ -42,102 +40,6 @@ c. onverminderd onderdeel b vanaf het vierde kalenderjaar van vrijwillige voortz
 
 ####Raamwerk (Hoofdstuk 2 van de wet)
 
-### Artikel  2  
-
-####Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering verschuldigde inkomstenbelasting bij kiezende belastingplichtige
-
-1.  Aan een kiezende belastingplichtige wordt volgens de artikelen 3 tot en met 10 een vermindering op de verschuldigde inkomstenbelasting verleend voor de belasting die betrekking heeft op niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen.   
-2.  Onder een kiezende belastingplichtige wordt verstaan:  
-
-a. een niet gedurende het gehele kalenderjaar in Nederland wonende binnenlandse belastingplichtige, of  
-
-b. een buitenlandse belastingplichtige, die volgens artikel 2.5 van de wet kiest voor toepassing van de regels van de wet voor binnenlandse belastingplichtigen.     
-3.  Voor de toepassing van dit artikel en de artikelen 3 tot en met 10 blijft te conserveren inkomen en de daarover verschuldigde belasting buiten beschouwing.  
-
-###Artikel 3 
-
-####Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering bij inkomen uit werk en woning
-
-1. De vermindering vanwege in het inkomen uit werk en woning begrepen niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen is gelijk aan het bedrag dat tot de belasting die zonder de toepassing van de artikelen 2 tot en met 10 volgens de wet over het belastbare inkomen uit werk en woning verschuldigd zou zijn, in dezelfde verhouding staat als het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen staat tot het noemerinkomen.
-2. Onder het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen wordt verstaan: de som van:
-
-a.de bestanddelen van het noemerinkomen die niet behoren tot het inkomen uit werk en woning in Nederland volgens afdeling 7.2 van de wet, en
-
-b.de inkomensbestanddelen die daartoe wel behoren maar waarvoor het heffingsrecht op grond van een regeling ter voorkoming van dubbele belasting niet of tot een beperkt tarief aan Nederland is toegewezen.Bij een binnenlandse belastingplichtige die niet gedurende het gehele kalenderjaar in Nederland woont, worden alleen de inkomensbestanddelen in aanmerking genomen die zijn genoten in de periode dat hij niet in Nederland woonde.
-3. De in het eerste lid bedoelde vermindering wordt bij de aanwezigheid van in het tweede lid, onderdeel b, bedoelde inkomensbestanddelen die Nederland volgens regelingen ter voorkoming van dubbele belasting slechts tegen een beperkt tarief mag belasten, verlaagd met de belasting die Nederland volgens die regelingen over de inkomensbestanddelen mag heffen. De verlaging is evenwel niet hoger dan het bedrag aan belasting dat in Nederland daadwerkelijk over die inkomensbestanddelen wordt geheven.
-4. De in het eerste lid bedoelde vermindering kan, na de verlaging, bedoeld in het derde lid, niet meer bedragen dan de belasting die zonder de toepassing van dit hoofdstuk volgens de wet over het belastbare inkomen uit werk en woning verschuldigd zou zijn.
-5. Onder noemerinkomen wordt verstaan: het inkomen uit werk en woning
-
-a.vermeerderd met de hierop in het jaar in mindering gebrachte uitgaven voor inkomensvoorzieningen en persoonsgebonden aftrek, en
-
-b.verminderd met de – met overeenkomstige toepassing van artikel 3.13 van de wet – te verrekenen negatieve bedragen aan noemerinkomen uit andere jaren.
-6. Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit werk en woning verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit werk en woning, bedoeld in artikel 2.7, eerste lid, aanhef en onderdeel a, van de wet, verminderd met een evenredig deel van het belastingdeel van de heffingskorting. Het belastingdeel van de heffingskorting wordt hierbij naar evenredigheid verdeeld over de, zonder heffingskorting, berekende belasting op het belastbare inkomen uit werk en woning, het belastbare inkomen uit aanmerkelijk belang en het belastbare inkomen uit sparen en beleggen.
-
-### Artikel  4  
-
-####Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij inkomen uit werk en woning
-
-De dividendbelasting geheven over tot het inkomen uit werk en woning behorende dividenden die niet tot het in afdeling 7.2 van de wet omschreven inkomen uit werk en woning in Nederland behoren, wordt niet verrekend met de door de kiezende belastingplichtige verschuldigde inkomstenbelasting. De eerste volzin is van overeenkomstige toepassing met betrekking tot bronbelasting, bedoeld in artikel 9.2, eerste lid, onderdeel d, van de wet en bronbelasting, bedoeld in het tiende lid van dat artikel. 
-
-### Artikel  5  
-
-####Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; doorschuifregeling
-
-1.  Voorzover het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen – berekend met inachtneming van de verrekening volgens artikel 6 – groter is dan het noemerinkomen, wordt het overgebracht naar het volgend jaar. Deze overbrenging vindt alleen plaats indien het naar het volgend jaar over te brengen bedrag door de inspecteur is vastgesteld bij voor bezwaar vatbare beschikking.   
-2.  In het jaar waarnaar de overbrenging plaatsvindt, wordt voor de berekening van de vermindering volgens artikel 3 het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen verhoogd met het over te brengen bedrag aan niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen. Het noemerinkomen wordt niet verhoogd.   
-3.   Artikel 26 van het Besluit voorkoming dubbele belasting 2001 is van overeenkomstige toepassing.  
-
-### Artikel  6  
-
-####Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; inhaalregeling
-
-1.  Indien het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen – berekend met inachtneming van de overbrenging volgens artikel 5 – negatief is, wordt het voor de toepassing van de vermindering volgens artikel 3 aangemerkt als een negatief niet of tegen een beperkt tarief in Nederland te belasten bestanddeel van het noemerinkomen van het volgend jaar. De inspecteur stelt het naar het volgend jaar over te brengen bedrag vast bij voor bezwaar vatbare beschikking.   
-2.  De artikelen 26 en 27 van het Besluit voorkoming dubbele belasting 2001 zijn van overeenkomstige toepassing.  
-
-### Artikel  7  
-
-####Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering bij inkomen uit aanmerkelijk belang
-
-1.  De vermindering vanwege in het inkomen uit aanmerkelijk belang begrepen niet of tegen een beperkt tarief in Nederland te belasten inkomensbestanddelen is gelijk aan het bedrag dat tot de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit aanmerkelijk belang verschuldigd zou zijn, in dezelfde verhouding staat als het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen staat tot het noemerinkomen.   
-2.  Onder het gezamenlijke bedrag van de niet of tegen een beperkt tarief in Nederland te belasten bestanddelen van het noemerinkomen wordt verstaan: de som van: 
-
-a. de bestanddelen van het noemerinkomen die niet behoren tot het inkomen uit aanmerkelijk belang in een in Nederland gevestigde vennootschap volgens afdeling 7.3 van de wet, en  
-
-b. de inkomensbestanddelen die daartoe wel behoren maar waarover het heffingsrecht op grond van een regeling ter voorkoming van dubbele belasting niet of tot een beperkt tarief aan Nederland is toegewezen.    Artikel 3, tweede lid, tweede volzin, is van overeenkomstige toepassing.   
-3.  De vermindering van het eerste lid wordt bij de aanwezigheid van in het tweede lid, onderdeel b, bedoelde inkomensbestanddelen die Nederland volgens regelingen ter voorkoming van dubbele belasting slechts tegen een beperkt tarief mag belasten, verlaagd met de belasting die Nederland volgens die regelingen over de inkomensbestanddelen mag heffen.   
-4.  De vermindering van het eerste lid kan, na de verlaging van het derde lid, niet meer bedragen dan de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit aanmerkelijk belang verschuldigd zou zijn.   
-5.  Onder noemerinkomen wordt verstaan: het inkomen uit aanmerkelijk belang 
-
-a. vermeerderd met de hierop in het jaar in mindering gebrachte persoonsgebonden aftrek, en  
-
-b. verminderd met de – met overeenkomstige toepassing van afdeling 4.10 van de wet – te verrekenen negatieve bedragen aan noemerinkomen uit andere jaren.     
-6.  Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit aanmerkelijk belang verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit aanmerkelijk belang als bedoeld in artikel 2.7, eerste lid, aanhef en onderdeel b, van de wet verminderd met een evenredig deel van het belastingdeel van de heffingskorting. Artikel 3, zesde lid, tweede en derde volzin, is van overeenkomstige toepassing.  
-
-### Artikel  8  
-
-####Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij inkomen uit aanmerkelijk belang
-
-De dividendbelasting geheven over tot het inkomen uit aanmerkelijk belang behorende dividenden die niet tot het in afdeling 7.3 van de wet omschreven inkomen uit aanmerkelijk belang in een in Nederland gevestigde vennootschap behoren, wordt niet verrekend met de door de kiezende belastingplichtige verschuldigde inkomstenbelasting. De eerste volzin is van overeenkomstige toepassing met betrekking tot bronbelasting, bedoeld in artikel 9.2, eerste lid, onderdeel d, van de wet en bronbelasting, bedoeld in het tiende lid van dat artikel. 
-
-### Artikel  9  
-
-####Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; vermindering bij voordeel uit sparen en beleggen
-
-1.  De vermindering vanwege in het voordeel uit sparen en beleggen begrepen niet in Nederland te belasten inkomensbestanddelen is gelijk aan het bedrag dat tot de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit sparen en beleggen verschuldigd zou zijn, in dezelfde verhouding staat als de rendementsgrondslag buiten Nederland aan het begin van het jaar (peildatum) staat tot de rendementsgrondslag op de peildatum.   
-2.  De vermindering van het eerste lid kan niet meer bedragen dan de belasting die zonder de toepassing van de afdeling volgens de wet over het belastbare inkomen uit sparen en beleggen verschuldigd zou zijn.   
-3.  Onder de rendementsgrondslag buiten Nederland wordt verstaan: het saldo van de in de rendementsgrondslag begrepen 
-
-a. bezittingen en schulden die niet behoren tot de rendementsgrondslag in Nederland volgens artikel 7.7 van de wet, en  
-
-b. bezittingen en de daarmee verband houdende schulden die daartoe wel behoren, maar waarbij het heffingsrecht over de daaruit genoten inkomsten op grond van een regeling ter voorkoming van dubbele belasting niet aan Nederland is toegewezen.   Bij een belastingplichtige die niet het gehele jaar in Nederland woont, wordt de naar tijdsgelang herleide gemiddelde waarde van de rendementsgrondslag buiten Nederland over de periode dat hij niet in Nederland woonde, in aanmerking genomen. Gedeelten van kalendermaanden worden hierbij als volle maand beschouwd.   
-4.  Onder de belasting die zonder de toepassing van deze afdeling volgens de wet over het belastbare inkomen uit sparen en beleggen verschuldigd zou zijn, wordt verstaan: de over het kalenderjaar berekende belasting op het belastbare inkomen uit sparen en beleggen als bedoeld in artikel 2.7, eerste lid, aanhef en onderdeel c, van de wet verminderd met een evenredig deel van het belastingdeel van de heffingskorting. Artikel 3, zesde lid, tweede en derde volzin, is van overeenkomstige toepassing.  
-
-### Artikel  10  
-
-####Heffingsgrondslagen; keuzerecht voor buitenlandse belastingplichtigen; verrekening dividendbelasting alsmede bronbelasting op inkomsten uit spaargelden bij voordeel uit sparen en beleggen
-
-De dividendbelasting geheven over dividenden uit rechten die tot de bezittingen, bedoeld in artikel 5.3 van de wet, behoren, wordt niet verrekend met de door de kiezende belastingplichtige verschuldigde inkomstenbelasting. De eerste volzin is van overeenkomstige toepassing met betrekking tot bronbelasting, bedoeld in artikel 9.2, eerste lid, onderdeel d, van de wet en bronbelasting, bedoeld in het tiende lid van dat artikel. 
-
 ### Artikel  11  
 
 ####Heffingsgrondslagen; keuzerecht voor in het buitenland geworven deskundigen
@@ -149,7 +51,7 @@ De dividendbelasting geheven over dividenden uit rechten die tot de bezittingen,
 
 ####Heffingsgrondslag bij werk en woning (Hoofdstuk 3 van de wet)
 
-### Artikel  12  
+### Artikel  11a  
 
 ####Belastbare winst uit onderneming; vrijstelling voor bosbedrijf
 
@@ -157,6 +59,46 @@ De dividendbelasting geheven over dividenden uit rechten die tot de bezittingen,
 2.  De inspecteur stelt het bedrag dat ingevolge het eerste lid buiten aanmerking blijft bij voor bezwaar vatbare beschikking vast.   
 3.  De voordelen die ingevolge het eerste lid buiten aanmerking blijven, worden alsnog als winst uit onderneming in aanmerking genomen – met dien verstande dat artikel 3.11, eerste lid, van de wet op die voordelen niet van toepassing is – indien de belastingplichtige binnen vijf jaren na het tijdstip waarop de in het eerste lid bedoelde vrijstelling op hem van toepassing is geworden, het bosbedrijf of een gedeelte van het bosbedrijf – anders dan ten gevolge van overlijden of onteigening, daaronder begrepen minnelijke onteigening en verkoop ter voorkoming van onteigening – staakt. In geval van staking van een gedeelte van het bosbedrijf worden de in de vorige volzin bedoelde voordelen slechts in aanmerking genomen voorzover deze betrekking hebben op dit gedeelte. De voordelen worden geacht te zijn genoten ten tijde van de staking.   
 4.  Voor de toepassing van het derde lid wordt niet als een staking aangemerkt een overdracht aan een persoon als bedoeld in artikel 3.63, vierde of vijfde lid, van de wet mits zowel de belastingplichtige als degene aan wie is overgedragen dit schriftelijk verzoekt. Alsdan wordt degene aan wie is overgedragen voor de toepassing van het derde lid geacht in de plaats te zijn getreden van de belastingplichtige.  
+
+### Artikel  11b  
+
+####In aanmerking te nemen AOW-bedragen
+
+Voor de overeenkomstige toepassing, bedoeld in artikel 3.18, vijfde lid, onderdeel a, van de wet, van artikel 18a, achtste lid, onderdeel a, tweede volzin, van de Wet op de loonbelasting 1964 is artikel 10aa van het Uitvoeringsbesluit loonbelasting 1965 van overeenkomstige toepassing. 
+
+### Artikel  11c  
+
+####Deeltijd
+
+1.  Ingeval een belastingplichtige op jaarbasis minder dan 1.750 uren besteedt aan werkzaamheden op grond waarvan hij verplicht deelneemt aan een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b, van de wet, wordt voor de overeenkomstige toepassing, bedoeld in artikel 3.18, vijfde lid, onderdeel a, van de wet, van artikel 18a, achtste lid, onderdeel a, van de Wet op de loonbelasting 1964 het aldaar bedoelde bedrag vermenigvuldigd met de deeltijdfactor.   
+2.  Voor de toepassing van het eerste lid wordt onder deeltijdfactor verstaan: een breuk waarvan de teller wordt gevormd door het aantal uren dat de belastingplichtige op jaarbasis besteedt aan werkzaamheden op grond waarvan hij deelneemt aan een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b, van de wet en de noemer door 1.750, waarbij de uitkomst ten hoogste 1 bedraagt.   
+3.  Ingeval een belastingplichtige in een kalenderjaar dat is gelegen in de periode die aanvangt tien jaar direct voorafgaand aan de in de pensioenregeling vastgestelde ingangsdatum ten opzichte van het laatste kalenderjaar van de periode die direct voorafgaat aan de eerstgenoemde periode ten hoogste 50% minder uren per jaar besteedt aan werkzaamheden op grond waarvan hij deelneemt aan een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b, van de wet, mag als pensioengevend inkomen worden aangemerkt: het pensioengevend inkomen, bedoeld in artikel 3.18, vierde lid, onderdeel d, van de wet, vermenigvuldigd met de verhouding tussen de deeltijdfactor van het laatstgenoemde kalenderjaar en de deeltijdfactor van het eerstgenoemde kalenderjaar. Ingeval de vorige volzin toepassing vindt, wordt voor de toepassing van het eerste lid als deeltijdfactor in aanmerking genomen: de deeltijdfactor van het in de eerste volzin als tweede genoemde kalenderjaar.  
+
+### Artikel  11d  
+
+####Ziekte en arbeidsongeschiktheid
+
+Ingeval het pensioengevend inkomen, bedoeld in artikel 3.18, vierde lid, onderdeel d, van de wet, is verlaagd als gevolg van ziekte of arbeidsongeschiktheid wordt met het pensioengevend inkomen gelijkgesteld: het gemiddelde pensioengevend inkomen, bedoeld in artikel 3.18, vierde lid, onderdeel d, van de wet, van de belastingplichtige in de vijf kalenderjaren voorafgaande aan zijn ziekte of arbeidsongeschiktheid, voor zover de belastingplichtige in die jaren heeft deelgenomen aan een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b, van de wet. 
+
+### Artikel  11e  
+
+####Starters
+
+1.  Gedurende ten hoogste de eerste drie jaar waarin de belastingplichtige anders dan als werknemer deelneemt aan een pensioenregeling op grond van de Wet verplichte deelneming in een bedrijfstakpensioenfonds 2000, de Wet op het notarisambt of de Wet verplichte beroepspensioenregeling wordt met pensioengevend inkomen als bedoeld in artikel 3.18, vierde lid, onderdeel d, van de wet gelijkgesteld: een schatting van de belastingplichtige van zijn pensioengevend inkomen in het betreffende jaar van deelname.   
+2.  Ingeval de belastingplichtige ter zake van de schatting, bedoeld in het eerste lid, te kwader trouw is, is het eerste lid niet van toepassing en wordt het pensioengevend inkomen gesteld op de in het dienstjaar genoten winst uit onderneming vóór toevoeging aan en afneming van de oudedagsreserve en vóór de ondernemersaftrek en vermeerderd met de ten laste van de winst gebrachte premies uit hoofde van een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b, van de wet, waarbij het pensioengevend inkomen ten minste wordt gesteld op nihil. Artikel 3.95, eerste lid, tweede volzin, van de wet is van overeenkomstige toepassing.  
+
+### Artikel  11f  
+
+####Bereikbaar pensioengevend loon
+
+1.  Voor de toepassing van artikel 3.18 van de wet wordt met bereikbaar pensioengevend loon als bedoeld in de artikelen 18b en 18c van de Wet op de loonbelasting 1964 gelijkgesteld: bereikbaar pensioengevend inkomen.   
+2.  Onder bereikbaar pensioengevend inkomen als bedoeld in het eerste lid wordt verstaan: het gemiddelde van het pensioengevend inkomen, bedoeld in artikel 3.18, vierde lid, onderdeel d, van de wet, van de deelnemer of gewezen deelnemer in de vijf kalenderjaren voorafgaande aan het kalenderjaar van zijn overlijden, voor zover de deelnemer of gewezen deelnemer in die jaren heeft deelgenomen aan een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b, van de wet.  
+
+### Artikel  11g  
+
+####Buitenlandse aanbieder
+
+Voor de overeenkomstige toepassing, bedoeld in artikel 3.18, vijfde lid, onderdeel f, van de wet, van artikel 19a, eerste lid, onderdeel f, van de Wet op de loonbelasting 1964 wordt voor «de belasting die is verschuldigd door toepassing van artikel 19b, ofwel artikel 3.83, eerste of tweede lid, artikel 3.136, derde, vierde of vijfde lid, of artikel 7.2, achtste lid, van de Wet inkomstenbelasting 2001» gelezen: de belasting die is verschuldigd door toepassing van de artikelen 3.135, 3.136, eerste tot en met vijfde lid, of 7.2, tweede lid, van de wet. 
 
 ### Artikel  12bis  
 
@@ -226,35 +168,37 @@ De waarde in het economische verkeer van opgebouwde aanspraken uit een pensioenr
 ####Uitgaven voor inkomensvoorzieningen; in aanmerking te nemen premies voor lijfrenten; waardeaangroei
 
 1.  Voor de toepassing van artikel 3.127, eerste en vierde lid, van de wet, verstrekt de verzekeraar van een pensioen als bedoeld in artikel 1.7, tweede lid, onderdelen a en b, van de wet aan de belastingplichtige een opgave van de aan het voorafgaande kalenderjaar toe te rekenen aangroei van het bedrag van de jaarlijkse uitkeringen van de aan hem toekomende aanspraken die recht geven op een levenslange inkomensvoorziening bij ouderdom, voor zover deze aangroei het gevolg is van de toeneming van de diensttijd in dat voorafgaande kalenderjaar.   
-2.  De aan het voorafgaande kalenderjaar toe te rekenen pensioenaangroei, bedoeld in het eerste lid, wordt bepaald als volgt en vervolgens vermenigvuldigd met 35/37: 
+2.  De aan het voorafgaande kalenderjaar toe te rekenen pensioenaangroei, bedoeld in het eerste lid, wordt bepaald als volgt en vervolgens vermenigvuldigd met 37/40: 
 
-a. bij een aan een beschikbare premie gerelateerde levenslange inkomensvoorziening bij ouderdom: door de op het voorafgaande kalenderjaar betrekking hebbende premies te vermenigvuldigen met de volgende factor: 
+a. bij een aan een beschikbare premie gerelateerde levenslange inkomensvoorziening bij ouderdom: door de op het voorafgaande kalenderjaar betrekking hebbende premies te vermenigvuldigen met de volgende factor:  
 
-|Indien de belastingplichtige bij het begin van het voorafgaande kalenderjaar |factor |
+|  *Indien de belastingplichtige bij het begin van het voorafgaande kalenderjaar*   |  *factor*   |
 |:---|:---|
-|15 jaar of ouder, doch jonger dan 20 jaar is |0,36 |
-|20 jaar of ouder, doch jonger dan 25 jaar is |0,30 |
-|25 jaar of ouder, doch jonger dan 30 jaar is |0,25 |
-|30 jaar of ouder, doch jonger dan 35 jaar is |0,21 |
-|35 jaar of ouder, doch jonger dan 40 jaar is |0,17 |
-|40 jaar of ouder, doch jonger dan 45 jaar is |0,14 |
-|45 jaar of ouder, doch jonger dan 50 jaar is |0,12 |
-|50 jaar of ouder, doch jonger dan 55 jaar is |0,10 |
-|55 jaar of ouder, doch jonger dan 60 jaar is |0,08 |
-|60 jaar of ouder, doch jonger dan 65 jaar is |0,07; |
+| 15 jaar of ouder, doch jonger dan 20 jaar is  | 0,43  |
+| 20 jaar of ouder, doch jonger dan 25 jaar is  | 0,36  |
+| 25 jaar of ouder, doch jonger dan 30 jaar is  | 0,30  |
+| 30 jaar of ouder, doch jonger dan 35 jaar is  | 0,24  |
+| 35 jaar of ouder, doch jonger dan 40 jaar is  | 0,20  |
+| 40 jaar of ouder, doch jonger dan 45 jaar is  | 0,17  |
+| 45 jaar of ouder, doch jonger dan 50 jaar is  | 0,14  |
+| 50 jaar of ouder, doch jonger dan 55 jaar is  | 0,11  |
+| 55 jaar of ouder, doch jonger dan 60 jaar is  | 0,09  |
+| 60 jaar of ouder is  | 0,08  |
 
 b. bij overige aan het inkomen gerelateerde levenslange inkomensvoorzieningen bij ouderdom: door het opbouwpercentage van het voorafgaande kalenderjaar van de aan de belastingplichtige toekomende pensioenaanspraken te vermenigvuldigen met de pensioengrondslag van het voorafgaande kalenderjaar.     
 3.  De opgave van de pensioenaangroei wordt door de verzekeraar binnen tien maanden na afloop van het kalenderjaar waarop de pensioenaangroei betrekking heeft, aan de belastingplichtige verstrekt.   
 4.  De pensioengrondslag, bedoeld in het tweede lid, onderdeel b, wordt bepaald door het pensioengevend inkomen van het voorafgaande kalenderjaar te verminderen met het in het voorafgaande kalenderjaar ingevolge de pensioenregeling in aanmerking genomen bedrag ter zake van uitkeringen als bedoeld in artikel 9 van de Algemene Ouderdomswet.  
-5. Ingeval het pensioen op grond van de in de pensioenregeling vastgestelde ingangsdatum eerder ingaat dan bij het bereiken van de 65-jarige leeftijd en er geen sprake is van een aan een beschikbare premie gerelateerde levenslange inkomensvoorziening bij ouderdom, wordt de in het eerste lid bedoelde aangroei gesteld op de met toepassing van het tweede lid, onderdeel b, bepaalde aangroei, vermenigvuldigd met de volgende factor:
+5. Ingeval het pensioen op grond van de in de pensioenregeling vastgestelde ingangsdatum eerder ingaat dan bij het bereiken van de pensioenrichtleeftijd, bedoeld in artikel 18a, zesde lid, van de Wet op de loonbelasting 1964, en er geen sprake is van een aan een beschikbare premie gerelateerde levenslange inkomensvoorziening bij ouderdom, wordt de in het eerste lid bedoelde aangroei gesteld op de met toepassing van het tweede lid, onderdeel b, bepaalde aangroei, vermenigvuldigd met de volgende factor: 
 
-|In de pensioenregeling vastgestelde ingangsdatum |factor |
+|  *In de pensioenregeling vastgestelde ingangsdatum *   |  *factor*   |
 |:---|:---|
-|64 jaar of ouder, doch jonger dan 65 jaar |2/1,85 |
-|63 jaar of ouder, doch jonger dan 64 jaar |2/1,71 |
-|62 jaar of ouder, doch jonger dan 63 jaar |2/1,59 |
-|61 jaar of ouder, doch jonger dan 62 jaar |2/1,48 |
-|jonger dan 61 jaar |2/1,38. |
+| 66 jaar of ouder  | 1,9/1,76  |
+| 65 jaar of ouder, doch jonger dan 66 jaar  | 1,9/1,63  |
+| 64 jaar of ouder, doch jonger dan 65 jaar  | 1,9/1,52  |
+| 63 jaar of ouder, doch jonger dan 64 jaar  | 1,9/1,41  |
+| 62 jaar of ouder, doch jonger dan 63 jaar  | 1,9/1,32  |
+| 61 jaar of ouder, doch jonger dan 62 jaar  | 1,9/1,23  |
+| 60 jaar of ouder, doch jonger dan 61 jaar  | 1,9/1,15  |
 
 ### Hoofdstuk  4  
 
@@ -345,6 +289,28 @@ f. de waardedaling van de aandelen of winstbewijzen bij de belastingplichtige in
 ####Vrijstellingen; vrijstelling bos- en natuurterreinen en landgoederen
 
 Onder natuurterreinen als bedoeld in artikel 5.7 van de wet worden verstaan heidevelden, hoogveenterreinen, zandverstuivingen, duinterreinen, kwelders, schorren, gorzen, slikken, riet- en ruigtlanden, laagveenmoerassen, voorzover deze terreinen geen landbouwgronden zijn. 
+
+### Artikel  17bis  
+
+####Vrijstellingen; begrenzing premie nettolijfrente
+
+1.  Het percentage, bedoeld in artikel 5.16b, eerste lid, van de wet, wordt als volgt bepaald:  
+
+|  *Indien de belastingplichtige bij het eind van het kalenderjaar*   |  *Percentage*   |
+|:---|:---|
+| 15 jaar of ouder, doch jonger dan 20 jaar is  | 2,3  |
+| 20 jaar of ouder, doch jonger dan 25 jaar is  | 2,7  |
+| 25 jaar of ouder, doch jonger dan 30 jaar is  | 3,3  |
+| 30 jaar of ouder, doch jonger dan 35 jaar is  | 3,9  |
+| 35 jaar of ouder, doch jonger dan 40 jaar is  | 4,7  |
+| 40 jaar of ouder, doch jonger dan 45 jaar is  | 5,7  |
+| 45 jaar of ouder, doch jonger dan 50 jaar is  | 6,8  |
+| 50 jaar of ouder, doch jonger dan 55 jaar is  | 8,3  |
+| 55 jaar of ouder, doch jonger dan 60 jaar is  | 9,9  |
+| 60 jaar of ouder, doch jonger dan 65 jaar is  | 11,9  |
+| 65 jaar of ouder is  | 13,5  |
+
+2.  De ten hoogste in aanmerking te nemen premie, bedoeld in artikel 5.16b, eerste lid, van de wet, wordt verminderd met de premie die in het voorafgaande kalenderjaar is ingelegd ten behoeve van een nettopensioenregeling als bedoeld in artikel 5.17, eerste lid, van de wet.  
 
 ### Artikel  17a  
 
@@ -468,7 +434,7 @@ b. van de eerststervende van twee of meer personen, wordt gelijkgesteld met een 
 
 Bij de bepaling van de omvang van hetgeen op de belastingplichtige aan uitgaven voor specifieke zorgkosten drukt blijven buiten beschouwing: 
 
-a. bijzondere bijstand in de zin van artikel 35, eerste, derde en vierde lid, van de Wet werk en bijstand die, ondanks een aanspraak op deze bijzondere bijstand, niet is genoten en niet wordt genoten;  
+a. bijzondere bijstand in de zin van artikel 35, eerste lid, van de Participatiewet die, ondanks een aanspraak op deze bijzondere bijstand, niet is genoten en niet wordt genoten;  
 
 b. tegemoetkomingen als bedoeld in de artikelen 2 en 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten, artikel 63a van de Wet werk en inkomen naar arbeidsvermogen, artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering, artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, artikel 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten en artikel XXXIIID van het Belastingplan 2014. 
 
@@ -476,7 +442,7 @@ b. tegemoetkomingen als bedoeld in de artikelen 2 en 11a van de Wet tegemoetkomi
 
 ####Definities ernstig gehandicapt en zorgafhankelijk
 
-1.  Voor de toepassing van de artikelen 6.16 en 6.25 van de wet wordt iemand als ernstig gehandicapt beschouwd indien hij gelet op zijn beperkingen aanspraak maakt op opname in een bij of krachtens de Algemene Wet Bijzondere Ziektekosten geregelde intramurale inrichting.   
+1.  Voor de toepassing van de artikelen 6.16 en 6.25 van de wet wordt iemand als ernstig gehandicapt beschouwd indien hij gelet op zijn beperkingen aanspraak maakt op opname in een bij of krachtens de Wet langdurige zorg geregelde intramurale inrichting.   
 2.  Voor de toepassing van artikel 6.16 van de wet wordt iemand als zorgafhankelijk beschouwd indien hij, zo hij niet bij de belastingplichtige zou inwonen, zou zijn aangewezen op beroepsmatige hulp of verzorging in een verzorgingsinrichting of verpleeginrichting.   
 
 ### Hoofdstuk  7  
@@ -504,6 +470,20 @@ b. ingeval wel kwijtschelding van belasting is verleend wegens genoten reguliere
 7.  Het vierde tot en met zesde lid is ook van toepassing indien het betreft een kwijtschelding van een conserverende aanslag waarvan het uitstel van betaling krachtens artikel 25, achtste lid, onderdeel a, van de Invorderingswet 1990 is voortgezet bij de vervreemding aan de belastingplichtige.   
 8.  Voor de toepassing van dit artikel wordt met artikel 26, tweede, vierde of vijfde lid, aanhef en onderdeel a, van de Invorderingswet 1990 gelijkgesteld artikel 26, derde lid, en artikel 26, tweede lid, van de Invorderingswet 1990 zoals deze artikelonderdelen achtereenvolgens luidden op 10 maart 2004, respectievelijk 31 december 2000. 
 
+### Artikel  21bis  
+
+####Kwalificerende buitenlandse belastingplichtigen
+
+1.  Als kwalificerende buitenlandse belastingplichtige als bedoeld in artikel 7.8 van de wet wordt mede aangemerkt een buitenlandse belastingplichtige die: 
+
+a. pensioen, lijfrente of een soortgelijke uitkering geniet:  
+
+b. voldoet aan de voorwaarden, bedoeld in de aanhef en het slot van de eerste volzin van artikel 7.8, zesde lid, van de wet; en  
+
+c. aannemelijk maakt dat hij wegens de geringe hoogte van zijn inkomen in het woonland geen inkomstenbelasting is verschuldigd.     
+2.  Een buitenlandse belastingplichtige die in een kalenderjaar voldoet aan de voorwaarden, bedoeld in onderdeel a of onderdeel b en het slot van de eerste volzin van artikel 7.8, zesde lid, van de wet, en die gedurende een deel van dat kalenderjaar als inwoner van een andere lidstaat van de Europese Unie, een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, Zwitserland of de BES eilanden in de belastingheffing van die staat of op de BES eilanden wordt betrokken, wordt voor dat deel van het kalenderjaar aangemerkt als kwalificerende buitenlandse belastingplichtige.   
+3.  Voor de inkomensverklaring, bedoeld in artikel 7.8, zesde lid, van de wet, wordt gebruikgemaakt van een door de inspecteur vastgestelde modelverklaring.  
+
 ###Hoofdstuk 7A 
 
 ####Wijze van heffing (Hoofdstuk 9 van de wet)
@@ -522,7 +502,7 @@ Als voorheffing worden aangewezen door Andorra, British Virgin Islands, Curaçao
 
 ####Overige aanvullende regelingen; verstrekken van gegevens en inlichtingen
 
-1.  Als administratieplichtigen als bedoeld in artikel 10.8, eerste lid, van de wet worden aangewezen: banken, beheerders, beleggingsinstellingen, beleggingsondernemingen, betaaldienstverleners, elektronischgeldinstellingen, financiële instellingen, levensverzekeraars en schadeverzekeraars in de zin van de Wet op het financieel toezicht.   
+1.  Als administratieplichtigen als bedoeld in artikel 10.8, eerste lid, van de wet worden aangewezen: banken, beheerders, beleggingsinstellingen, beleggingsondernemingen, betaaldienstverleners, elektronischgeldinstellingen, financiële instellingen, levensverzekeraars en schadeverzekeraars in de zin van de Wet op het financieel toezicht alsmede pensioenuitvoerders in de zin van artikel 1 van de Pensioenwet, pensioenuitvoerders in de zin van artikel 1 van de Wet verplichte beroepspensioenregeling en de Stichting Notarieel Pensioenfonds, bedoeld in artikel 113a van de Wet op het notarisambt.   
 2.  Als gegevens en inlichtingen als bedoeld in artikel 10.8, eerste lid, van de wet worden aangewezen: 
 
 a. met betrekking tot betaalproducten, spaarproducten en beleggingsproducten: 
@@ -609,7 +589,25 @@ l. met betrekking tot een aanspraak op periodieke uitkeringen of verstrekkingen 
 
 3°. de restituties in het kalenderjaar van betaalde of verrekende premies indien de restitutie geen afkoop is in de zin van artikel 3.133, tweede lid, onderdeel d, van de wet;    
 
-m. met betrekking tot een aanspraak op periodieke uitkeringen of verstrekkingen, niet zijnde een aanspraak als bedoeld in de onderdelen f, g en l: de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar.     
+m. met betrekking tot een aanspraak op periodieke uitkeringen of verstrekkingen, niet zijnde een aanspraak als bedoeld in de onderdelen f, g en l: de waarde in het economische verkeer van het recht aan het begin van het kalenderjaar;  
+
+n. met betrekking tot premies als bedoeld in artikel 3.18 van de wet: 
+
+1°. het inkomen waarop de over het kalenderjaar verschuldigde pensioenpremie is gebaseerd;  
+
+2°. de in rekening gebrachte pensioenpremie over het kalenderjaar;  
+
+3°. de deeltijdfactor, bedoeld in artikel 11c, tweede lid;  
+
+4°. de omstandigheid dat het pensioengevend inkomen van de belastingplichtige is bepaald met toepassing van artikel 11c, derde lid;  
+
+5°. indien in het kalenderjaar zich een omstandigheid voordoet als bedoeld in artikel 3.135, eerste lid, van de wet: de omstandigheid die zich heeft voorgedaan en de met toepassing van artikel 3.137 van de wet bepaalde waarde in het economische verkeer van de aanspraak;   
+
+o. met betrekking tot een nettolijfrente of een nettopensioen als bedoeld in artikel 5.16, tweede lid, van de wet, onderscheidenlijk artikel 5.17, tweede lid, van de wet: 
+
+1°. de in het kalenderjaar betaalde of verrekende premies;  
+
+2°. indien in het kalenderjaar zich een omstandigheid voordoet als bedoeld in artikel 5.16c, eerste lid, van de wet, onderscheidenlijk artikel 5.17e, eerste lid, van de wet: de omstandigheid die zich heeft voorgedaan en de waarde in het economische verkeer van de aanspraak aan het begin van het kalenderjaar.      
 3.  Onder rente als bedoeld in het tweede lid, onderdelen a, b en c, wordt verstaan: hetgeen tussen de geldgever en de geldnemer is overeengekomen als vergoeding voor het gedurende de looptijd van de geldlening ter beschikking stellen van de hoofdsom. Onder spaarproducten in de zin van het tweede lid, onderdeel a, wordt niet verstaan: het geblokkeerde deel van een spaarloonrekening.   
 4.  Een administratieplichtige is gehouden de gegevens en inlichtingen te verstrekken op de door de inspecteur voorgeschreven wijze en met een door de inspecteur voorgeschreven frequentie. De gegevens en inlichtingen dienen uiterlijk te worden verstrekt: 
 
@@ -649,7 +647,7 @@ c. het aantal aandeelhouders niet meer dan twintig bedraagt.
 
 ### Artikel  24  
 
-Artikel 12, vierde lid, is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001 van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel. 
+Artikel 11a, vierde lid, is van overeenkomstige toepassing op een overdracht in het kalenderjaar 2001 waarop hoofdstuk 2, artikel I, onderdeel Db, van de Invoeringswet Wet inkomstenbelasting 2001 van toepassing is mits zowel door de ondernemer als degene die de onderneming voortzet, bij de aangifte van de ondernemer is verzocht om toepassing van dat onderdeel. 
 
 ### Artikel  26  
 

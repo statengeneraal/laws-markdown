@@ -158,7 +158,7 @@ b. een verklaring van het bestuur van de raad voor rechtsbijstand als bedoeld in
 
 ### Artikel  17  
 
-1.  In elk faillissement betaalt de curator uit de baten van de boedel bij het deponeren van de eerste uitdelingslijst of zodra de uitspraak tot homologatie van een akkoord in kracht van gewijsde is gegaan, een griffierecht van € 599.   
+1.  In elk faillissement betaalt de curator uit de baten van de boedel bij het deponeren van de eerste uitdelingslijst of zodra de uitspraak tot homologatie van een akkoord in kracht van gewijsde is gegaan, een griffierecht van € 604.   
 2.  Onder het griffierecht, bedoeld in het eerste lid, is niet begrepen het griffierecht dat ingevolge artikel 3, eerste lid, wordt geheven voor verificatiegeschillen. Partijen zijn dit griffierecht verschuldigd vanaf hun verschijning op de bepaalde terechtzitting en zorgen dat het griffierecht binnen vier weken nadien is bijgeschreven op de rekening van het gerecht waar de zaak dient dan wel ter griffie is gestort.   
 3.  Van de niet-geverifieerde schuldeiser die ingevolge artikel 186 van de Faillissementswet verzet doet tegen de uitdelingslijst, wordt overeenkomstig artikel 3, tweede lid, griffierecht geheven, met dien verstande dat indien tevens door wel geverifieerde schuldeisers verzet wordt gedaan tegen de uitdelingslijst, geen griffierecht wordt geheven.   
 4.  Het eerste tot en met het derde lid zijn van overeenkomstige toepassing bij toepassing van de schuldsaneringsregeling natuurlijke personen.  
@@ -170,7 +170,7 @@ b. een verklaring van het bestuur van de raad voor rechtsbijstand als bedoeld in
 
 ### Artikel  19  
 
-1.  Voor de opening van een gerechtelijke rangregeling buiten faillissement en de benoeming van een rechter-commissaris als bedoeld in de artikelen 481, eerste lid, 552, eerste lid, 584f, tweede lid en 776 van het Wetboek van Burgerlijke Rechtsvordering wordt van de verzoeker een griffierecht geheven van € 357. De artikelen 3, vierde lid, en 16 zijn van overeenkomstige toepassing.   
+1.  Voor de opening van een gerechtelijke rangregeling buiten faillissement en de benoeming van een rechter-commissaris als bedoeld in de artikelen 481, eerste lid, 552, eerste lid, 584f, tweede lid en 776 van het Wetboek van Burgerlijke Rechtsvordering wordt van de verzoeker een griffierecht geheven van € 360. De artikelen 3, vierde lid, en 16 zijn van overeenkomstige toepassing.   
 2.  In het geval van verwijzing ingevolge tegenspraak wordt griffierecht geheven overeenkomstig artikel 3, eerste lid. Partijen zijn het griffierecht verschuldigd vanaf hun verschijning op de bepaalde terechtzitting en zorgen dat het griffierecht binnen vier weken nadien is bijgeschreven op de rekening van het gerecht waar de zaak dient dan wel ter griffie is gestort.  
 
 ### Artikel  20  
@@ -194,7 +194,7 @@ c. één afschrift van alle akten en processen-verbaal die met betrekking tot de
 
 ### Artikel  22  
 
-1.  Voor elke akte, proces-verbaal, beschikking of een andere beslissing, gedaan, gegeven of opgemaakt door een rechter of een griffier anders dan in de gevallen waarvoor in de voorgaande artikelen het griffierecht geregeld is, wordt een griffierecht geheven van € 120.   
+1.  Voor elke akte, proces-verbaal, beschikking of een andere beslissing, gedaan, gegeven of opgemaakt door een rechter of een griffier anders dan in de gevallen waarvoor in de voorgaande artikelen het griffierecht geregeld is, wordt een griffierecht geheven van € 122.   
 2.  Voor de noodzakelijke afschriften van akten, processen-verbaal of andere beslissingen wordt geen griffierecht geheven.   
 3.  Bij regeling van Onze Minister kunnen nadere regels worden gesteld ter uitvoering van het tweede lid.  
 
@@ -204,7 +204,7 @@ c. één afschrift van alle akten en processen-verbaal die met betrekking tot de
 
 ### Artikel  23  
 
-1.  Voor de inschrijving van de huwelijkse voorwaarden of van de voorwaarden van een geregistreerd partnerschap in het openbaar huwelijksgoederenregister, bedoeld in artikel 116 van Boek 1 van het Burgerlijk Wetboek, wordt van degene die inschrijving verzoekt een griffierecht geheven van € 181.   
+1.  Voor de inschrijving van de huwelijkse voorwaarden of van de voorwaarden van een geregistreerd partnerschap in het openbaar huwelijksgoederenregister, bedoeld in artikel 116 van Boek 1 van het Burgerlijk Wetboek, wordt van degene die inschrijving verzoekt een griffierecht geheven van € 183.   
 2.  Voor de legalisatie van handtekeningen wordt voor iedere handtekening een griffierecht geheven van € 20, met dien verstande dat meerdere handtekeningen van dezelfde persoon op hetzelfde stuk als één handtekening worden beschouwd.   
 3.  Voor zover niet anders is bepaald in artikel 24 wordt voor de afgifte van apostilles als bedoeld in artikel 3, eerste lid, van het op 5 oktober 1961 te ’s-Gravenhage tot stand gekomen Verdrag tot afschaffing van het vereiste van legalisatie van buitenlandse openbare akten, een griffierecht geheven van € 20 voor iedere apostille.  
 
@@ -416,20 +416,20 @@ I. W. Opstelten
 
 | Aard c.q. hoogte van de vordering of het verzoek  | Griffierecht voor niet-natuurlijke personen  | Griffierecht voor natuurlijke personen  | Griffierecht voor onvermogenden  |
 |:---|:---|:---|:---|
-|  *Griffierechten bij de rechtbank voor kantonzaken*  |
-| Zaken met betrekking tot een vordering, dan wel een verzoek:    –  van onbepaalde waarde of     –  met een beloop van niet meer dan € 500      | € 115  | € 77  | € 77  |
-| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 500 en niet meer dan € 12.500  | € 462  | € 219  | € 77  |
-| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 12.500  | € 923  | € 462  | € 77  |
-|  *Griffierechten bij de rechtbank voor andere zaken dan kantonzaken*   |
-| Zaken met betrekking tot een vordering, dan wel een verzoek:    –  van onbepaalde waarde of      | € 608  | € 282  | € 77  |
-| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van niet meer dan € 100.000 | € 1.892  | € 868  | € 77  |
-| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 100.000  | € 3.829  | € 1.519  | € 77  |
-|  *Griffierechten bij de gerechtshoven *   |
-| Zaken met betrekking tot een vordering, dan wel een verzoek:    –  van onbepaalde waarde of     –  met een beloop van niet meer dan € 12.500      | € 704  | € 308  | € 308  |
-| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 12.500 en niet meer dan € 100.000 | € 1.920  | € 704  | € 308  |
-| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 100.000  | € 5.114  | € 1.601  | € 308  |
-|  *Griffierechten bij de Hoge Raad*   |
-| Zaken met betrekking tot een vordering, dan wel een verzoek:  – van onbepaalde waarde of  – met een beloop van niet meer € 12.500  | € 770  | € 319  | € 319  |
-| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 12.500 en niet meer dan € 100.000 | € 2.558  | € 770  | € 319  |
-| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 100.000  | € 6.396  | € 1.920  | € 319  |
+| *Griffierechten bij de rechtbank voor kantonzaken*  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek:  – van onbepaalde waarde of  – met een beloop van niet meer dan € 500  | € 116  | € 78  | € 78  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 500 en niet meer dan € 12.500  | € 466  | € 221  | € 78  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 12.500  | € 932  | € 466  | € 78  |
+| *Griffierechten bij de rechtbank voor andere zaken dan kantonzaken*  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek van onbepaalde waarde  | € 613  | € 285  | € 78  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van niet meer dan € 100.000  | € 1.909  | € 876  | € 78  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 100.000  | € 3.864  | € 1.533  | € 78  |
+| *Griffierechten bij de Gerechtshoven*  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek:  – van onbepaalde waarde of  – met een beloop van niet meer € 12.500  | € 711  | € 311  | € 311  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 12.500 en niet meer dan € 100.000  | € 1.937  | € 711  | € 311  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 100.000  | € 5.160  | € 1.615  | € 311  |
+| *Griffierechten bij de Hoge Raad*  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek:  – van onbepaalde waarde of  – met een beloop van niet meer € 12.500  | € 777  | € 322  | € 322  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 12.500 en niet meer dan € 100.000  | € 2.581  | € 777  | € 322  |
+| Zaken met betrekking tot een vordering, dan wel een verzoek met een beloop van meer dan € 100.000  | € 6.453  | € 1.937  | € 322  |
 

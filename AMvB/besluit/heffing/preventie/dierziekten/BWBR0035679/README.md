@@ -16,15 +16,13 @@ Hebben goedgevonden en verstaan:
 
 ####Algemene bepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  1  
 
 ####Begripsbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
+
+**algemene preventiekosten:* andere preventiekosten dan voor de bestrijding van zoönotische salmonella, voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën of de monitoring van dierziekten; 
 
 *  *eendagskuiken:* kuiken, jonger dan 72 uur;  
 
@@ -56,184 +54,310 @@ In dit besluit en de daarop berustende bepalingen wordt verstaan onder:
 
 ####Diergezondheidsheffing preventieve diergezondheidszorg
 
-Treedt in werking op een nader te bepalen tijdstip 
+De diergezondheidsheffing, bedoeld in de artikelen 3, 10, 12 en 14 van het Besluit heffing bestrijding dierziekten, wordt tevens geheven ter bestrijding van de kosten van het Diergezondheidsfonds, voor zover noodzakelijk met het oog op het weren van: 
 
-De diergezondheidsheffing, bedoeld in de artikelen 3, 10, 12 en 14 van het Besluit heffing bestrijding dierziekten, wordt tevens geheven ter bestrijding van de kosten van het Diergezondheidsfonds, voor zover noodzakelijk met het oog op het weren van voor de in die artikelen genoemde diersoorten op grond van artikel 15, eerste lid, van de wet aangewezen besmettelijke ziekten. 
+a. op grond van artikel 15, eerste lid, van de wet aangewezen besmettelijke dierziekten bij de in de artikelen 3, 10, 12 en 14 van het Besluit heffing bestrijding dierziekten genoemde diersoorten,  
+
+b. andere dierziekten,  
+
+c. ziekten die kunnen worden overgebracht op de mens en die alleen de gezondheid van de mens aantasten, waarop op grond van artikel 103 bepalingen van deze wet geheel of gedeeltelijk van overeenkomstige toepassing zijn verklaard.   
 
 ### Artikel  3  
 
 ####Verhoging diergezondheidsheffing
 
-Treedt in werking op een nader te bepalen tijdstip 
-
-De tarieven van de diergezondheidsheffing, bedoeld in de artikelen 3, 10, 12 en 14 van het Besluit heffing bestrijding dierziekten, worden overeenkomstig Hoofdstuk 2 verhoogd met een opslag, met ingang van 1 januari van het op de datum van inwerkingtreding van dit besluit volgende kalenderjaar. 
+De tarieven van de diergezondheidsheffing, bedoeld in de artikelen 3, 10, 12 en 14 van het Besluit heffing bestrijding dierziekten worden overeenkomstig Hoofdstuk 2 verhoogd met een opslag. 
 
 ### Hoofdstuk  2  
 
-####Tarieven opslag preventieve diergezondheidszorg
-
-Treedt in werking op een nader te bepalen tijdstip 
+####Tarieven opslag preventie diergezondheidszorg
 
 ### §  1  
 
 ####Houden van dieren op een bedrijf
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  4  
 
 ####Tarief opslag houden kippen in vleessector
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De hoogte van de opslag ter zake van het houden van eendagskuikens van kippen, behorende tot een vleesras, bedraagt: 
 
-a. € 0,000183 per eendagskuiken, bestemd om te worden gehouden voor de productie van broedeieren;  
+a. per eendagskuiken, bestemd om te worden gehouden voor de productie van broedeieren: 
 
-b. € 0,000114 per eendagskuiken, bestemd om te worden gehouden voor de productie van vlees.     
+1°.  € 0,000183 voor algemene preventiekosten,  
+
+2°.  € 0,000208 voor de preventie van zoönotische salmonella,  
+
+3°.  € 0,000014 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën;    
+
+b. per eendagskuiken, bestemd om te worden gehouden voor de productie van vlees: 
+
+1°.  € 0,000114 voor algemene preventiekosten,  
+
+2°.  € 0,001240 voor de preventie van zoönotische salmonella,  
+
+3°.  € 0,000592 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.       
 2.  De hoogte van de opslag ter zake van het houden van kippen, ouder dan 72 uur maar niet ouder dan 19 weken, behorende tot een vleesras en bestemd om te worden opgefokt tot moederdier of grootmoederdier, bedraagt: 
 
-a. € 0,006696 per kip, bestemd om te worden opgefokt tot moederdier;  
+a. per kip, bestemd om te worden opgefokt tot moederdier: 
 
-b. € 0,010472 per kip, bestemd om te worden opgefokt tot grootmoederdier.     
+1°.  € 0,006696 voor algemene preventiekosten,  
+
+2°.  € 0,017148 voor de preventie van zoönotische salmonella,  
+
+3°.  € 0,001884 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën;    
+
+b. per kip, bestemd om te worden opgefokt tot grootmoederdier: 
+
+1°.  € 0,010472 voor algemene preventiekosten,  
+
+2°.  € 0,023580 voor de preventie van zoönotische salmonella,  
+
+3°.  € 0,001539 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.       
 3.  De hoogte van de opslag ter zake van het houden van moederdieren of grootmoederdieren van kippen, behorende tot een vleesras, bedraagt: 
 
-a. € 0,014980 per moederdier;  
+a. per moederdier: 
 
-b. € 0,004618 per grootmoederdier.     
-4.  De hoogte van de opslag ter zake van het houden van vleeskuikens, bedraagt € 0,000203 per vleeskuiken.  
+1°.  € 0,014980 voor algemene preventiekosten,  
+
+2°.  € 0,022604 voor de preventie van zoönotische salmonella,  
+
+3°.  € 0,002708 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën;    
+
+b. per grootmoederdier: 
+
+1°.  € 0,004618 voor algemene preventiekosten,  
+
+2°.  € 0,118988 voor de preventie van zoönotische salmonella,  
+
+3°.  € 0,007764 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.       
+4.  De hoogte van de opslag ter zake van het houden van vleeskuikens, bedraagt per vleeskuiken: 
+
+a. € 0,000203 voor algemene preventiekosten,  
+
+b. € 0,002075 voor de preventie van zoönotische salmonella,  
+
+c. € 0,000644 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.    
 
 ### Artikel  5  
 
 ####Tarief opslag houden kippen in legsector
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 1.  De hoogte van de opslag ter zake van het houden van eendagskuikens van kippen, behorende tot een legras, bedraagt: 
 
-a. € 0,001306 per eendagskuiken, bestemd om te worden gehouden voor de productie van broedeieren;  
+a. per eendagskuiken, bestemd om te worden gehouden voor de productie van broedeieren: 
 
-b. € 0,000030 per eendagskuiken, bestemd om te worden gehouden voor de productie van eieren.     
-2.  De hoogte van de opslag ter zake van het houden van kippen, ouder dan 72 uur maar niet ouder dan 19 weken, behorende tot een legras, en bestemd om te worden opgefokt tot moederdier of grootmoederdier, bedraagt: 
+1°.  € 0,001306 voor algemene preventiekosten,  
 
-a. € 0,023929 per kip, bestemd om te worden opgefokt tot moederdier;  
+2°.  € 0,000841 voor de preventie van zoönotische salmonella,  
 
-b. € 0,005371 per kip, bestemd om te worden opgefokt tot grootmoederdier.     
-3.  De hoogte van de opslag ter zake van het houden van kippen, ouder dan 72 uur maar niet ouder dan 17 weken, behorende tot een legras, en bestemd om te worden opgefokt tot legkip, bedraagt € 0,000155 per kip.   
+3°.  € 0,000008 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën;    
+
+b. per eendagskuiken, bestemd om te worden gehouden voor de productie van eieren: 
+
+1°.  € 0,000030 voor algemene preventiekosten,  
+
+2°.  € 0,004148 voor de preventie van zoönotische salmonella,  
+
+3°.  € 0,000228 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.       
+2.  De hoogte van de opslag ter zake van het houden van kippen, ouder dan 72 uur maar niet ouder dan 19 weken, behorende tot een legras, en bestemd om te worden opgefokt tot moederdier of grootmoederdier, bedraagt: 
+
+a. per kip, bestemd om te worden opgefokt tot moederdier: 
+
+1°.  € 0,023929 voor algemene preventiekosten,  
+
+2°.  € 0,015875 voor de preventie van zoönotische salmonella,  
+
+3°.  € 0,000227 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën;    
+
+b. per kip, bestemd om te worden opgefokt tot grootmoederdier: 
+
+1°.  € 0,005371 voor algemene preventiekosten,  
+
+2°.  € 0,023365 voor de preventie van zoönotische salmonella,  
+
+3°.  € 0,000227 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.       
+3.  De hoogte van de opslag ter zake van het houden van kippen, ouder dan 72 uur maar niet ouder dan 17 weken, behorende tot een legras, en bestemd om te worden opgefokt tot legkip, bedraagt per kip: 
+
+a. € 0,000155 voor algemene preventiekosten,  
+
+b. € 0,003659 voor de preventie van zoönotische salmonella,  
+
+c. € 0,000226 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.     
 4.  De hoogte van de opslag ter zake van het houden van moederdieren of grootmoederdieren van kippen, behorende tot een legras, bedraagt: 
 
-a. € 0,068282 per moederdier;  
+a. per moederdier: 
 
-b. € 0,007578 per grootmoederdier.     
+1°.  € 0,068282 voor algemene preventiekosten,  
+
+2°.  € 0,074606 voor de preventie van zoönotische salmonella,  
+
+3°.  € 0,000658 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën;    
+
+b. per grootmoederdier: 
+
+1°.  € 0,007578 voor algemene preventiekosten,  
+
+2°.  € 0,196461 voor de preventie van zoönotische salmonella,  
+
+3°.  € 0,001905 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.       
 5.  De hoogte van de opslag ter zake van het houden van legkippen, bedraagt: 
 
-a. € 0,000733 per legkip die wordt gehouden voor de productie van biologische eieren als bedoeld in artikel 23, eerste lid, van Verordening (EG) nr. 834/2007;  
+a. per legkip die wordt gehouden voor de productie van biologische eieren als bedoeld in artikel 23, eerste lid, van Verordening (EG) nr. 834/2007 
 
-b. € 0,000536 per legkip die wordt gehouden voor de productie van eieren van hennen met vrije uitloop als bedoeld in bijlage II, onderdeel 1 van Verordening (EG) nr. 589/2008;  
+1°.  € 0,000733 voor algemene preventiekosten,  
 
-c. € 0,000516 per legkip die wordt gehouden voor de productie van scharreleieren als bedoeld in bijlage II, onderdeel 2 van Verordening (EG) nr. 589/2008;  
+2°.  € 0,334639 voor de preventie van zoönotische salmonella,  
 
-d. € 0,000356 per legkip die wordt gehouden voor de productie van kooi-eieren als bedoeld in bijlage II, onderdeel 2 van Verordening (EG) nr. 589/2008.    
+3°.  € 0,002049 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën;    
+
+b. per legkip die wordt gehouden voor de productie van eieren van hennen met vrije uitloop als bedoeld in bijlage II, onderdeel 1 van Verordening (EG) nr. 589/2008: 
+
+1°.  € 0,000536 voor algemene preventiekosten,  
+
+2°.  € 0,107558 voor de preventie van zoönotische salmonella,  
+
+3°.  € 0,000664 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën;    
+
+c. per legkip die wordt gehouden voor de productie van scharreleieren als bedoeld in bijlage II, onderdeel 2 van Verordening (EG) nr. 589/2008: 
+
+1°.  € 0,000516 voor algemene preventiekosten,  
+
+2°.  € 0,027054 voor de preventie van zoönotische salmonella,  
+
+3°.  € 0,000167 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën;    
+
+d. per legkip die wordt gehouden voor de productie van kooi-eieren als bedoeld in bijlage II, onderdeel 2 van Verordening (EG) nr. 589/2008: 
+
+1°.  € 0,000356 voor algemene preventiekosten,  
+
+2°.  € 0,122155 voor de preventie van zoönotische salmonella,  
+
+3°.  € 0,000759 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.      
 
 ### Artikel  6  
 
 ####Tarief opslag houden kalkoenen
 
-Treedt in werking op een nader te bepalen tijdstip 
+1.  De hoogte van de opslag ter zake van het houden van eendagskuikens van kalkoenen bedraagt per eendagskuiken: 
 
-1.  De hoogte van de opslag ter zake van het houden van eendagskuikens van kalkoenen bedraagt € 0,000072 per eendagskuiken.   
-2.  De hoogte van de opslag ter zake van het houden van kalkoenen, ouder dan 72 uur maar niet ouder dan 28 weken, bestemd om te worden opgefokt tot moederdier, bedraagt € 0,000001 per kalkoen.   
-3.  De hoogte van de opslag ter zake van het houden van moederdieren van kalkoenen, bedraagt € 0,000001 per moederdier.   
-4.  De hoogte van de opslag ter zake van het houden van vleeskalkoenen, bedraagt € 0,000513 per vleeskalkoen.  
+a. € 0,000072 voor algemene preventiekosten,  
+
+b. € 0,007061 voor de preventie van zoönotische salmonella,  
+
+c. € 0,001060 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.     
+2.  De hoogte van de opslag ter zake van het houden van vleeskalkoenen, bedraagt per vleeskalkoen: 
+
+a. € 0,000513 voor algemene preventiekosten,  
+
+b. € 0,018525 voor de preventie van zoönotische salmonella,  
+
+c. € 0,002781 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.    
 
 ### Artikel  7  
 
 ####Tarief opslag houden eenden
 
-Treedt in werking op een nader te bepalen tijdstip 
+1.  De hoogte van de opslag ter zake van het houden van eendagskuikens van eenden bedraagt per eendagskuiken: 
 
-1.  De hoogte van de opslag ter zake van het houden van eendagskuikens van eenden bedraagt € 0,000014 per eendagskuiken.   
-2.  De hoogte van de opslag ter zake van het houden van eenden, ouder dan 72 uur, bedraagt € 0,000087 per eend.  
+a. € 0,000014 voor algemene preventiekosten,  
+
+b. € 0,000290 voor de preventie van zoönotische salmonella.     
+2.  De hoogte van de opslag ter zake van het houden van eenden, ouder dan 72 uur, bedraagt per eend: 
+
+a. € 0,000087 voor algemene preventiekosten,  
+
+b. € 0,003418 voor de preventie van zoönotische salmonella.    
 
 ### Artikel  8  
 
 ####Tarief opslag houden runderen
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-12-2015 
 
-1.  De hoogte van de opslag ter zake van het houden van melkproducerende runderen bedraagt € 0,69 per rund.   
-2.  De hoogte van de opslag ter zake van het houden van andere runderen, bedoeld in het eerste lid, van 1 jaar of ouder bedraagt € 0,19 per rund.   
-3.  De hoogte van de opslag ter zake van het houden van andere runderen, bedoeld in het eerste lid, jonger dan 1 jaar, bedraagt € 0,11 per rund.  
+1.  De hoogte van de opslag ter zake van het houden van melkproducerende runderen bedraagt per rund: 
+
+a. € 0,80 voor algemene preventiekosten,  
+
+b. € 0,05 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.     
+2.  De hoogte van de opslag ter zake van het houden van andere runderen, bedoeld in het eerste lid, van 1 jaar of ouder bedraagt per rund: 
+
+a. € 0,27 voor algemene preventiekosten,  
+
+b. € 0,04 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.     
+3.  De hoogte van de opslag ter zake van het houden van andere runderen, bedoeld in het eerste lid, jonger dan 1 jaar, bedraagt per rund: 
+
+a. € 0,12 voor algemene preventiekosten,  
+
+b. € 0,10 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.    
 
 ### Artikel  9  
 
 ####Tarief opslag houden schapen of geiten
 
-Treedt in werking op een nader te bepalen tijdstip 
+De hoogte van de opslag ter zake van het houden van schapen of geiten bedraagt per schaap of geit: 
 
-De hoogte van de opslag ter zake van het houden van schapen of geiten bedraagt € 0,48 per schaap of geit. 
+a. € 0,48 voor algemene preventiekosten.   
 
 ### §  2  
 
 ####Houden van dieren, anders dan op een bedrijf
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  10  
 
 ####Tarief opslag houden schapen of geiten
 
-Treedt in werking op een nader te bepalen tijdstip 
+De hoogte van de opslag ter zake van het houden van schapen of geiten, anders dan op een bedrijf, bedraagt per schaap of geit: 
 
-De hoogte van de opslag ter zake van het houden van schapen of geiten, anders dan op een bedrijf, bedraagt € 0,48 per schaap of geit. 
+a. € 0,48 voor algemene preventiekosten.   
 
 ### §  3  
 
 ####Verhandelen van varkens vanaf een bedrijf
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  11  
 
 ####Tarief opslag verhandelen varkens
 
-Treedt in werking op een nader te bepalen tijdstip 
+Treedt in werking per 31-12-2015 
 
-De hoogte van de opslag ter zake van het verhandelen van varkens vanaf een bedrijf, met als bestemming het brengen buiten Nederland of de slacht, bedraagt € 0,01 per varken. 
+De hoogte van de opslag ter zake van het verhandelen van varkens vanaf een bedrijf, met als bestemming het brengen buiten Nederland of de slacht, bedraagt per varken: 
+
+a. € 0,01 voor algemene preventiekosten,  
+
+b. € 0,004 voor de preventie van tegen antimicrobiële diergeneesmiddelen resistente bacteriën.   
 
 ### §  4  
 
 ####Produceren dierlijke producten
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  12  
 
 ####Tarief opslag produceren vaccinbroedeieren
 
-Treedt in werking op een nader te bepalen tijdstip 
+De hoogte van de opslag ter zake van het produceren van vaccinbroedeieren bedraagt per vaccinbroedei € 0,000002 voor algemene preventiekosten. 
 
-De hoogte van de opslag ter zake van het produceren van vaccinbroedeieren bedraagt € 0,000002 per vaccinbroedei. 
+### §  5  
+
+####Overige bepalingen
+
+### Artikel  12a  
+
+Bij ministeriële regeling kunnen nadere regels worden gesteld ten einde te borgen dat betalingen die worden verricht uit het Diergezondheidsfonds in overeenstemming zijn met de artikelen 107 en 108 van het Verdrag betreffende de werking van de Europese Unie. 
 
 ### Hoofdstuk  3  
 
 ####Slotbepalingen
 
-Treedt in werking op een nader te bepalen tijdstip 
-
 ### Artikel  13  
 
 ####inwerkingtreding
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 De artikelen van dit besluit treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen en onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  14  
 
 ####citeertitel
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Dit besluit wordt aangehaald als: Besluit heffing preventie dierziekten. 
 

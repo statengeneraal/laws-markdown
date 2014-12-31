@@ -84,7 +84,7 @@ e. besluiten en handelingen ter uitvoering van de Wet toetsing levensbeëindigin
 
 ### Titel  1.2  
 
-####Uitvoering van bindende besluiten van organen van de Europese Gemeenschappen 
+####Uitvoering van bindende besluiten van organen van de Europese Unie
 
 ### Artikel  1:7  
 
@@ -1377,7 +1377,7 @@ Deze afdeling is niet van toepassing indien bij de wet een andere regeling omtre
 
 ### Artikel  4:106  
 
-Het bestuursorgaan kan de verjaring ook stuiten door een aanmaning als bedoeld in artikel 4:112 een beschikking tot verrekening of een dwangbevel dan wel door een daad van tenuitvoerlegging van een dwangbevel. 
+Het bestuursorgaan kan de verjaring ook stuiten door een aanmaning als bedoeld in artikel 4:112, een beschikking tot verrekening of een dwangbevel dan wel door een daad van tenuitvoerlegging van een dwangbevel. 
 
 ### Artikel  4:107  
 
@@ -1426,7 +1426,7 @@ d. de tenuitvoerlegging van een dwangbevel is geschorst ingevolge een lopend rec
 
 ### Artikel  4:113  
 
-1.  Het bestuursorgaan kan voor de aanmaning een vergoeding in rekening brengen. De vergoeding bedraagt € 6 Per 1 januari 2014: € 7 indien de schuld minder dan € 454 bedraagt en € 14 Per 1 januari 2013: € 15 indien de schuld € 454 of meer bedraagt.   
+1.  Het bestuursorgaan kan voor de aanmaning een vergoeding in rekening brengen. De vergoeding bedraagt € 6 Per 1 januari 2014: € 7 indien de schuld minder dan € 454 Per 1 januari 2015: € 500 bedraagt en € 14 Per 1 januari 2013: € 15 indien de schuld € 454 Per 1 januari 2015: € 500 of meer bedraagt.   
 2.  De aanmaning vermeldt de vergoeding die in rekening wordt gebracht.  
 
 ### Paragraaf  4.4.4.2  
@@ -2470,7 +2470,7 @@ b. houdende een ambtshandeling van een gerechtsdeurwaarder of notaris.
 
 ### Artikel  8:7  
 
-1.  Indien beroep wordt ingesteld tegen een besluit van een bestuursorgaan van een provincie, een gemeente of een waterschap dan wel tegen een besluit van een gemeenschappelijk orgaan of een bestuursorgaan van een openbaar lichaam dat is ingesteld met toepassing van de Wet gemeenschappelijke regelingen, is bevoegd de rechtbank binnen het rechtsgebied waarvan het bestuursorgaan zijn zetel heeft.   
+1.  Indien beroep wordt ingesteld tegen een besluit van een bestuursorgaan van een provincie, een gemeente of een waterschap dan wel tegen een besluit van een gemeenschappelijk orgaan, een bestuur van een bedrijfsvoeringsorganisatie of een bestuursorgaan van een openbaar lichaam dat is ingesteld met toepassing van de Wet gemeenschappelijke regelingen, is bevoegd de rechtbank binnen het rechtsgebied waarvan het bestuursorgaan zijn zetel heeft.   
 2.  Indien beroep wordt ingesteld tegen een besluit van een ander bestuursorgaan, is bevoegd de rechtbank binnen het rechtsgebied waarvan de indiener van het beroepschrift zijn woonplaats in Nederland heeft. Indien de indiener van het beroepschrift geen woonplaats in Nederland heeft, is bevoegd de rechtbank binnen het rechtsgebied waarvan het bestuursorgaan zijn zetel heeft.   
 3.  Indien beroep wordt ingesteld tegen een besluit als bedoeld in hoofdstuk 3 van de bij deze wet behorende Bevoegdheidsregeling bestuursrechtspraak, is in afwijking van het eerste en tweede lid slechts de door dat hoofdstuk aangewezen rechtbank bevoegd.   
 4.  Het eerste en tweede lid zijn van overeenkomstige toepassing indien beroep in eerste aanleg kan worden ingesteld bij een gerechtshof. 
@@ -2734,9 +2734,9 @@ Indien het beroepschrift is ingediend door twee of meer personen, kan worden vol
 
 a. € 42 per 1 januari 2014: € 45 indien door een natuurlijke persoon beroep is ingesteld tegen een besluit als omschreven in de bij deze wet behorende Regeling verlaagd griffierecht,  
 
-b. € 156 per 1 januari 2014: € 165 indien door een natuurlijke persoon beroep is ingesteld tegen een ander besluit,  
+b. € 156 per 1 januari 2015: € 167 indien door een natuurlijke persoon beroep is ingesteld tegen een ander besluit,  
 
-c. € 310 per 1 januari 2014: € 328 indien anders dan door een natuurlijke persoon beroep is ingesteld.     
+c. € 310 per 1 januari 2015: € 331 indien anders dan door een natuurlijke persoon beroep is ingesteld.     
 3.  Indien het een beroepschrift tegen twee of meer samenhangende besluiten dan wel van twee of meer indieners tegen hetzelfde besluit betreft, is eenmaal griffierecht verschuldigd. Dit griffierecht is gelijk aan het hoogste van de bedragen die bij toepassing van het tweede lid verschuldigd zouden zijn geweest.   
 4.  De griffier deelt de indiener van het beroepschrift mede welk griffierecht is verschuldigd en wijst hem daarbij op het bepaalde in het vijfde en zesde lid.   
 5.  Het griffierecht dient binnen vier weken na verzending van de mededeling van de griffier te zijn bijgeschreven op de rekening van het gerecht dan wel ter griffie te zijn gestort.   
@@ -2822,9 +2822,9 @@ De bestuursrechter kan tolken benoemen.
 
 ### Artikel  8:51  
 
-1.  De bestuursrechter kan aan een door hem aangewezen gerechtsauditeur of aan de griffier opdragen een onderzoek ter plaatse in te stellen. Deze heeft daarbij toegang tot elke plaats voor zover dat redelijkerwijs voor de vervulling van de hem opgedragen taak nodig is. De bestuursrechter is bevoegd tot het geven van een machtiging tot binnentreden.    
+1.  De bestuursrechter kan aan de griffier opdragen een onderzoek ter plaatse in te stellen. Deze heeft daarbij toegang tot elke plaats voor zover dat redelijkerwijs voor de vervulling van de hem opgedragen taak nodig is. De bestuursrechter is bevoegd tot het geven van een machtiging tot binnentreden.    
 2.   Artikel 8:50, tweede en derde lid, is van overeenkomstige toepassing.    
-3.   Van het onderzoek wordt door de gerechtsauditeur of de griffier een proces-verbaal opgemaakt, dat door hem wordt ondertekend.   
+3.   Van het onderzoek wordt door de griffier een proces-verbaal opgemaakt, dat door hem wordt ondertekend.   
 
 ### Afdeling  8.2.2a  
 
@@ -3297,7 +3297,7 @@ d. een andere onrechtmatige handeling van een bestuursorgaan waarbij een persoon
 
 ### Artikel  8:91  
 
-1.  Indien het verzoek wordt gedaan gedurende het beroep of het hoger beroep tegen het schadeveroorzakende besluit, wordt het ingediend bij de bestuursrechter waarbij het beroep of het hoger beroep aanhangig is.   
+1.  Indien het verzoek wordt gedaan gedurende het beroep tegen of het hoger beroep omtrent het schadeveroorzakende besluit, wordt het ingediend bij de bestuursrechter waarbij het beroep of het hoger beroep aanhangig is.   
 2.  In dat geval is artikel 8:90, tweede lid, niet van toepassing.   
 3.  Indien het verzoek wordt gedaan in hoger beroep beslist de hogerberoepsrechter op het verzoek, tenzij hij het verzoek naar de rechtbank verwijst omdat het naar zijn oordeel behandeling door de rechtbank behoeft.  
 
@@ -3346,7 +3346,7 @@ a. een uitspraak als bedoeld in artikel 8:66, eerste lid, of artikel 8:67, eerst
 
 b. een uitspraak als bedoeld in artikel 8:86, eerste lid, van de voorzieningenrechter van de rechtbank,  
 
-c. een uitspraak van de rechtbank op een verzoekschrift als bedoeld in artikel 8:95.    
+c. een uitspraak van de rechtbank op een verzoek als bedoeld in artikel 8:88, eerste lid.    
 2.  Geen hoger beroep kan worden ingesteld tegen: 
 
 a. een uitspraak van de rechtbank na toepassing van artikel 8:54, eerste lid,  
@@ -3390,18 +3390,18 @@ b. tegen de uitspraak hoger beroep kan worden ingesteld bij een gerechtshof.
 ### Artikel  8:108  
 
 1.  Voor zover in deze titel niet anders is bepaald, zijn op het hoger beroep de titels 8.1 tot en met 8.3 van overeenkomstige toepassing, met uitzondering van de artikelen 8:1 tot en met 8:10, 8:41, tweede lid, en 8:74.   
-2.  Op het hoger beroep tegen een uitspraak als bedoeld in artikel 8:95 zijn voorts de afdelingen 8.2.2a, 8.2.4a en 8.2.7 en de artikelen 8:28a, 8:70 en 8:72 niet van toepassing.  
+2.  Op het hoger beroep, bedoeld in artikel 8:104, eerste lid, aanhef en onder c, zijn voorts de afdelingen 8.2.2a, 8.2.4a en 8.2.7 en de artikelen 8:28a, 8:70 en 8:72 niet van toepassing.  
 3.  Indien hoger beroep kan worden ingesteld bij een gerechtshof, is voorts hoofdstuk V van de Algemene wet inzake rijksbelastingen van toepassing.  
 
 ### Artikel  8:109  
 
 1.  Het griffierecht voor het hoger beroep bedraagt: 
 
-a. € 115 per 1 januari 2014: € 122indien door een natuurlijke persoon hoger beroep is ingesteld tegen een uitspraak omtrent een besluit als omschreven in de bij deze wet behorende Regeling verlaagd griffierecht,  
+a. € 115 per 1 januari 2015: € 123indien door een natuurlijke persoon hoger beroep is ingesteld tegen een uitspraak omtrent een besluit als omschreven in de bij deze wet behorende Regeling verlaagd griffierecht,  
 
-b. € 232 per 1 januari 2014: € 246indien door een natuurlijke persoon hoger beroep is ingesteld tegen een uitspraak omtrent een ander besluit, of  
+b. € 232 per 1 januari 2015: € 248indien door een natuurlijke persoon hoger beroep is ingesteld tegen een uitspraak omtrent een ander besluit, of  
 
-c. € 466 per 1 januari 2014: € 493als anders dan door een natuurlijke persoon hoger beroep is ingesteld.     
+c. € 466 per 1 januari 2015: € 497als anders dan door een natuurlijke persoon hoger beroep is ingesteld.     
 2.  Indien het bestuursorgaan hoger beroep heeft ingesteld en de aangevallen uitspraak in stand blijft, wordt van het bestuursorgaan een griffierecht geheven dat gelijk is aan het in het eerste lid, onderdeel c, genoemde bedrag.  
 
 ### Artikel  8:110  
@@ -4094,11 +4094,11 @@ c. de artikelen 3.30, eerste lid, onder a, 3.33, eerste lid, onder a, en 3.35, e
 
 d. artikel 15, tweede lid, van de Spoedwet wegverbreding: de verlegging van kabels en leidingen, verband houdende met de uitvoering van een wegaanpassingsbesluit    Elektriciteitswet 1998: artikel 51  Gaswet: artikel 19  Gemeentewet: 
 
-a. de artikelen 85, tweede lid, 87a, eerste lid, 124, 124a, 155d en 268, eerste lid  
+a. de artikelen 85, tweede lid, 124, 124a, 155d en 268, eerste lid  
 
 b. een beschikking tot ophouding als bedoeld in artikel 154a  
 
-c. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van de artikelen 124 en 124a   Huisvestingswet: artikel 40, eerste lid  Kaderwet dienstplicht: artikel 13  Kieswet:  
+c. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van de artikelen 124 en 124a    Kaderwet dienstplicht: artikel 13  Kieswet:  
 
 a. de artikelen D 3b, vierde lid, D 6, D 8, G 1 tot en met G 4, I 4, K 8, L 11, M 4, Q 6, S 2, X 4, derde lid, X 4a, derde lid, X 5, derde lid, X 7, vierde lid, X 7a, vierde lid, en X 8, vierde lid  
 
@@ -4140,11 +4140,15 @@ e. artikel 5.2a, derde lid, betreffende de toepassing van hoofdstuk XVIII van de
 
 f. artikel 5.2a, vierde lid, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet   Wet gemeenschappelijke regelingen:  
 
-a. een ontslagbesluit als bedoeld in artikel 16, vijfde lid  
+a. een ontslagbesluit als bedoeld in artikel 16, vierde lid  
 
-b. een besluit van een plusregio als bedoeld in hoofdstuk XI voor zover het bestuur van een gemeente daartegen beroep instelt  
+b. de artikelen 25, achtste lid, 32b, 32c, 36, eerste lid, 45a gelezen in samenhang met artikel 32b, 49 gelezen in samenhang met artikel 36, eerste lid, en 50h, eerste lid  
 
-c. artikel 116, eerste lid, betreffende de toepassing van de artikelen 124 en 124a van de Gemeentewet   Wet luchtvaart: de artikelen 8.25ea, vierde lid, en 8.25f, tweede, vierde en vijfde lid Wet milieubeheer: 
+c. de artikelen 39c, vierde lid en 39e, tweede lid, betreffende de toepassing van de artikelen 32b en 32c, en artikel 49 gelezen in samenhang met dit onderdeel  
+
+d. een besluit van een plusregio als bedoeld in hoofdstuk XI voor zover het bestuur van een gemeente daartegen beroep instelt  
+
+e. artikel 116, eerste lid, betreffende de toepassing van de artikelen 124 en 124a van de Gemeentewet    Wet luchtvaart: de artikelen 8.25ea, vierde lid, en 8.25f, tweede, vierde en vijfde lid Wet milieubeheer: 
 
 a. artikel 16.31, tweede lid  
 
@@ -4196,31 +4200,39 @@ b. Boek 2: de artikelen 63d, tweede lid, 156 en 266    Elektriciteitswet 1998: d
 
 a. artikel 49  
 
-b. artikel 124, voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester  
+b.artikel 85, tweede lid, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging
 
-c. artikel 124a, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning  
+c. artikel 124, voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester  
 
-d. de artikelen 169, derde lid, 180, derde lid, en 234, tweede lid, onderdeel a  
+d. artikel 124a, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning  
 
-e. artikel 268, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging  
+e. de artikelen 169, derde lid, 180, derde lid, en 234, tweede lid, onderdeel a  
 
-f. artikel 278, voor zover het betreft de weigering om een voordracht tot vernietiging te doen  
+f. artikel 268, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging  
 
-g. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning    Geneesmiddelenwet: artikel 17  Gerechtsdeurwaarderswet: artikel 3a, tweede lid  Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 20, 21, 22, 72, eerste lid, 75, en 101, derde lid  Instellingswet Autoriteit Consument en Markt: artikel 12h, eerste lid, voor zover de aanvraag is afgewezen Invorderingswet 1990, met uitzondering van de artikelen 30, 49 en 62a  Kostenwet invordering rijksbelastingen, met uitzondering van artikel 7  Leegstandwet:  
+g. artikel 278, voor zover het betreft de weigering om een voordracht tot vernietiging te doen  
+
+h. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning    Geneesmiddelenwet: artikel 17  Gerechtsdeurwaarderswet: artikel 3a, tweede lid  Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 20, 21, 22, 72, eerste lid, 75, en 101, derde lid  Instellingswet Autoriteit Consument en Markt: artikel 12h, eerste lid, voor zover de aanvraag is afgewezen Invorderingswet 1990, met uitzondering van de artikelen 30, 49 en 62a Jeugdwet:
+
+a. artikel 2.3, eerste lid, voor zover in het besluit wordt bepaald dat een voorziening op het gebied van jeugdhulp en verblijf niet zijnde verblijf bij een pleegouder nodig is, als bedoeld in artikel 6.1.2, vijfde lid  
+
+b. artikel 3.5, eerste lid  
+
+c. de artikelen 6.1.5, 6.1.6, tweede en derde lid, 6.1.12, vijfde lid, 6.3.1 tot en met 6.3.5, 6.3.7 en 6.4.1   Kaderwet zelfstandige bestuursorganen: artikel 21a, eerste en tweede lid  Kostenwet invordering rijksbelastingen, met uitzondering van artikel 7  Leegstandwet:  
 
 a. artikel 15, eerste lid, voor zover het betreft een weigering van de vergunning  
 
 b. artikel 15, negende lid, voor zover het betreft een afwijzing van het verzoek tot verlenging  
 
-c. artikel 16, tiende lid, eerste volzin, en elfde lid, eerste volzin    Mijnbouwwet: de artikelen 141a, derde lid, 141b, derde lid, en 141c, tweede en derde lid  Natuurbeschermingswet 1998: de artikelen 17, 19kg en 23  Onteigeningswet   Ontgrondingenwet: mededeling als bedoeld in artikel 10, tweede en derde lid Politiewet 2012: de artikelen 18, 20, 34, 35, 37, eerste lid, 39, derde en vijfde lid, en 52  Provinciewet:  
+c. artikel 16, tiende lid, eerste volzin, en elfde lid, eerste volzin    Mijnbouwwet: de artikelen 141a, derde lid, 141b, derde lid, en 141c, tweede en derde lid  Natuurbeschermingswet 1998: de artikelen 17, 19kg en 23  Onteigeningswet   Ontgrondingenwet: mededeling als bedoeld in artikel 10, tweede en derde lid  Participatiewet: de artikelen 52 en 81 en paragraaf 6.5Politiewet 2012: de artikelen 18, 20, 34, 35, 37, eerste lid, 39, derde en vijfde lid, en 52  Provinciewet:  
 
 a. artikel 49  
 
-b. artikel 121, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning  
+b. artikel 83, tweede lid, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging 
 
-c. de artikelen 167, derde lid, en 179, derde lid  
+c. artikel 121, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning  
 
-d. vervallen  
+d. de artikelen 167, derde lid, en 179, derde lid  
 
 e. artikel 261, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging  
 
@@ -4238,7 +4250,23 @@ d. artikel 5.2a, derde lid, betreffende de toepassing van hoofdstuk XVIII van de
 
 e. artikel 5.2a, vierde lid, betreffende de toepassing van hoofdstuk XVII van de Gemeentewet, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging en voor zover het betreft de weigering om een voordracht tot vernietiging te doen 
 
-f. artikel 5.8, eerste lid, laatste volzin    Wet bekostiging financieel toezicht: de artikelen 2, 5, 6 en 13, derde lid Wet bijzondere opneming in psychiatrische ziekenhuizen   Wet bodembescherming: artikel 43, voor zover het betreft de afwijzing van een verzoek  Wet College voor de rechten van de mens, met uitzondering van de artikelen 14 tot en met 18 Wet gemeenschappelijke regelingen: artikel 116, eerste lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het bestuur van de plusregio, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten Wet geurhinder en veehouderij: artikel 7  Wet gewasbeschermingsmiddelen en biociden: artikel 108  Wet investeren in jongeren: de artikelen 37, 57 en 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten  Wet luchtvaart:  
+f. artikel 5.8, eerste lid, laatste volzin    Wet bekostiging financieel toezicht:  
+
+a. een besluit omtrent de goedkeuring als bedoeld in de artikelen 3 en 6  
+
+b. een besluit als bedoeld in artikel 13, derde lid   Wet bijzondere opneming in psychiatrische ziekenhuizen   Wet bodembescherming: artikel 43, voor zover het betreft de afwijzing van een verzoek  Wet College voor de rechten van de mens, met uitzondering van de artikelen 14 tot en met 18 Wet gemeenschappelijke regelingen: 
+
+a. de artikelen 32b en 45a gelezen in samenhang met artikel 32b, voor zover het beroep niet wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan  
+
+b. artikel 32c, voor zover het beroep niet wordt ingesteld door gedeputeerde staten  
+
+c. de artikelen 36, eerste lid, 49 gelezen in samenhang met artikel 36, eerste lid, en 50h, eerste lid, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging  
+
+d. de artikelen 39b en 49 gelezen in samenhang met artikel 39b, voor zover het betreft de weigering om een voordracht tot vernietiging te doen  
+
+e. de artikelen 39c, vierde lid en 39e, tweede lid, betreffende de toepassing van artikel 32b voor zover het beroep niet wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, en betreffende de toepassing van artikel 32c, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, en artikel 49 gelezen in samenhang met dit onderdeel  
+
+f. artikel 116, eerste lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het bestuur van de plusregio, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten   Wet geurhinder en veehouderij: artikel 7  Wet gewasbeschermingsmiddelen en biociden: artikel 108  Wet investeren in jongeren: de artikelen 37, 57 en 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten  Wet luchtvaart:  
 
 a. de artikelen 8.4 en 8.15  
 
@@ -4246,27 +4274,21 @@ b. de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft d
 
 c. artikel 10.27, eerste lid, voor zover het betreft een vergunning voor burgermedegebruik door tussenkomst van een burgerexploitant voor de luchthaven Eindhoven.    Wet melding collectief ontslag   Wet milieubeheer:  
 
-a. de artikelen 4.3, 4.6, 4.9, 4.12, 4.15a, 4.16, 4.19, 5.12, eerste lid, 5.12, dertiende lid, 5.13, eerste lid, 10.3, 11A.2, derde lid, onderdelen b en c, 11.5, 11.18 en 15.51, derde lid  
+a. de artikelen 4.3, 4.6, 4.9, 4.12, 4.15a, 4.16 en 4.19  
 
-b. artikel 16.24, eerste lid, met uitzondering van een besluit houdende toewijzing van broeikasgasemissierechten voor een afzonderlijke inrichting  
+b. een besluit inzake een programma als bedoeld in artikel 5.12, eerste lid, of 5.13, eerste lid, of inzake een instemming als bedoeld in artikel 5.12, dertiende lid  
 
-c. artikel 17.15, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap    Wet Naleving Europese regelgeving publieke entiteiten:  
+c. de artikelen 10.3, 11A.2, derde lid, onderdelen b en c, 11.5, 11.18 en 15.51, derde lid  
+
+d. artikel 16.24, eerste lid, met uitzondering van een besluit houdende toewijzing van broeikasgasemissierechten voor een afzonderlijke inrichting  
+
+e. artikel 17.15, tweede lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep niet wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap    Wet Naleving Europese regelgeving publieke entiteiten:  
 
 a. artikel 2, eerste lid, voor zover het betreft de weigering om een aanwijzing te geven  
 
 b. artikel 3, voor zover het betreft de weigering om een aanwijzing te geven  
 
-c. artikel 5, voor zover het betreft de weigering om een besluit te nemen   Wet op de expertisecentra: artikel 134, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd  Wet op de jeugdzorg:  
-
-a. artikel 3, vierde lid  
-
-b. artikel 6, eerste lid, voor zover het betreft een besluit ter uitvoering van de taak, bedoeld in: 
-
-1. artikel 10, eerste lid, onderdeel b  
-
-2. artikel 10, eerste lid, onderdeel c, met uitzondering van de daarin bedoelde nazorg en de daarin bedoelde begeleiding als bedoeld in artikel 77hh van het Wetboek van Strafrecht  
-
-3. de artikelen 29o tot en met 29r, 29t en 29v      Wet op de rechterlijke organisatie: de artikelen 46a, eerste lid, 62a, eerste lid, en 100  Wet opheffing particuliere banken van leening: artikel 2  Wet op het financieel toezicht:  
+c. artikel 5, voor zover het betreft de weigering om een besluit te nemen   Wet op de expertisecentra: artikel 134, vierde lid, zolang de gemeenteraad de aanvulling nog niet heeft bekrachtigd  Wet op de rechterlijke organisatie: de artikelen 46a, eerste lid, 62a, eerste lid, en 100  Wet opheffing particuliere banken van leening: artikel 2  Wet op het financieel toezicht:  
 
 a. de artikelen 1:49, eerste en tweede lid, 3:159h, eerste lid, en 3:159u  
 
@@ -4294,7 +4316,7 @@ f. artikel 4.4, eerste lid, tenzij de aanwijzing betrekking heeft op een daarbij
 
 g. artikel 4.4, derde lid  
 
-h. artikel 6.15, eerste lid, voor zover de herziening uitsluitend betrekking heeft op onderdelen als bedoeld in het derde lid    Wet toezicht financiële verslaggeving: de artikelen 2, eerste lid, 3, eerste en tweede lid, 4, 9, 12 en 30 Wet van 18 december 2008 tot wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens) (Stb. 2008, 561): artikel X  Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: artikel 30, tweede lid  Wet werk en bijstand: de artikelen 52 en 81 en paragraaf 6.5  Wet werk en inkomen kunstenaars: artikel 14  Zorgverzekeringswet:  
+h. artikel 6.15, eerste lid, voor zover de herziening uitsluitend betrekking heeft op onderdelen als bedoeld in het derde lid    Wet toezicht financiële verslaggeving: de artikelen 2, eerste lid, 3, eerste en tweede lid, 4, 9, 12 en 30 Wet van 18 december 2008 tot wijziging van de Wet luchtvaart inzake vernieuwing van de regelgeving voor burgerluchthavens en militaire luchthavens en de decentralisatie van bevoegdheden voor burgerluchthavens naar het provinciaal bestuur (Regelgeving burgerluchthavens en militaire luchthavens) (Stb. 2008, 561): artikel X  Wet vermindering afdracht loonbelasting en premie voor de volksverzekeringen: artikel 30, tweede lid  Wet werk en inkomen kunstenaars: artikel 14  Zorgverzekeringswet:  
 
 a. artikel 9a  
 
@@ -4308,7 +4330,7 @@ b. artikel 18f, eerste lid, in samenhang met artikel 18d of 18e, voor zover een 
 
 ####Beroep bij de Afdeling bestuursrechtspraak van de Raad van State
 
-Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.  Algemene wet bestuursrecht: artikel 5:32, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet  Algemene Wet Bijzondere Ziektekosten, voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport of van het College zorgverzekeringen Ambtenarenwet:
+Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij de Afdeling bestuursrechtspraak van de Raad van State.  Algemene wet bestuursrecht: artikel 5:32, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet Ambtenarenwet:
 
 a. artikel 126, eerste lid, betreffende de toepassing van artikel 121 van de Provinciewet, voor zover het beroep wordt ingesteld door het dagelijks bestuur of het algemeen bestuur van een waterschap  
 
@@ -4334,17 +4356,15 @@ b. artikel 2.10, eerste lid    Experimentenwet onderwijs   Flora- en faunawet: a
 
 a. artikel 85, tweede lid  
 
-b. artikel 87a, eerste lid  
+b. artikel 124, voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester  
 
-c. artikel 124, voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester  
+c. artikel 124a, voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning 
 
-d. artikel 124a, voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning 
+d. artikel 125, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet  
 
-e. artikel 125, voor zover het besluit betrekking heeft op de handhaving van het bepaalde bij of krachtens de in artikel 20.3, eerste lid, van de Wet milieubeheer, bedoelde wetten of wettelijke bepalingen dan wel de Ontgrondingenwet  
+e. artikel 268, eerste lid  
 
-f. artikel 268, eerste lid  
-
-g. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning    Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 13, eerste lid, en 74, eerste, tweede, derde en vijfde lid  Huisvestingswet: artikel 40, eerste lid  Interimwet stad-en-milieubenadering:  
+f. de artikelen 278a, vierde lid, en 281, tweede lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door de raad, het college van burgemeester en wethouders, onderscheidenlijk de burgemeester, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten, onderscheidenlijk de commissaris van de Koning    Herinrichtingswet Oost-Groningen en de Gronings-Drentse Veenkoloniën: de artikelen 13, eerste lid, en 74, eerste, tweede, derde en vijfde lid  Interimwet stad-en-milieubenadering:  
 
 a. de artikelen 2 en 3  
 
@@ -4406,9 +4426,19 @@ b. artikel 2.5.10, voor zover het de overeenkomstige toepassing betreft van arti
 
 c. de artikelen 6.1.3 tot en met 6.1.6, 6.2.1 tot en met 6.2.3, 6.2.3b, 6.3.1 tot en met 6.3.3, 6.4.2, 6.4.4, 6a.1.2, 6a.1.3 en 11.1     Wet financiering sociale verzekeringen: artikel 91  Wet geluidhinder   Wet gemeenschappelijke regelingen: 
 
-a. de artikelen 99, eerste lid, 100, eerste lid, 103b, 103c, eerste lid, en 114  
+a. artikel 25, achtste lid  
 
-b. artikel 116, eerste lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door het bestuur van de plusregio, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten   Wet gewetensbezwaren militaire dienst:  
+b. de artikelen 32b en 45a gelezen in samenhang met artikel 32b, voor zover het beroep wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan  
+
+c. artikel 32c, voor zover het beroep wordt ingesteld door gedeputeerde staten  
+
+d. de artikelen 36, eerste lid, 49 gelezen in samenhang met artikel 36, eerste lid, en 50h, eerste lid  
+
+e. de artikelen 39c, vierde lid en 39e, tweede lid, betreffende de toepassing van artikel 32b voor zover het beroep wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, en betreffende de toepassing van artikel 32c, voor zover het beroep wordt ingesteld door gedeputeerde staten, en artikel 49 gelezen in samenhang met dit onderdeel  
+
+f. de artikelen 99, eerste lid, 100, eerste lid, 103b, 103c, eerste lid, en 114  
+
+g. artikel 116, eerste lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door het bestuur van de plusregio, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten   Wet gewetensbezwaren militaire dienst:  
 
 a. hoofdstuk II, met uitzondering van artikel 4, tweede lid  
 
@@ -4422,7 +4452,7 @@ c. de toewijzing van eigendom, beheer en onderhoud van voorzieningen van openbaa
 
 d. de aanduiding van wegen met de daartoe behorende kunstwerken, bedoeld in artikel 33, eerste lid  
 
-e. de opname van wegen met de daartoe behorende kunstwerken als openbare weg, bedoeld in artikel 33, tweede lid    Wet inzake de luchtverontreiniging   Wet luchtvaart: de artikelen 8.25, tweede lid, 8.25b, 8.25c, 8.43, eerste lid, 8.64, eerste lid, 8.70, eerste en zesde lid, 8.77, eerste lid, 8a.50a, 8a.54, 10.15, eerste lid, en 10.39, ook voor zover het besluit kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht, maar met uitzondering van een besluit op grond van de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft de luchthavens Lelystad, Rotterdam en Eindhoven.  Wet milieubeheer, met inbegrip van een besluit dat betrekking heeft op handhaving, doch met uitzondering van: 
+e. de opname van wegen met de daartoe behorende kunstwerken als openbare weg, bedoeld in artikel 33, tweede lid    Wet inzake de luchtverontreiniging   Wet langdurige zorg, voor zover het betreft een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport, met uitzondering van hoofdstuk 10, § 4 Wet luchtvaart: de artikelen 8.25, tweede lid, 8.25b, 8.25c, 8.43, eerste lid, 8.64, eerste lid, 8.70, eerste en zesde lid, 8.77, eerste lid, 8a.50a, 8a.54, 10.15, eerste lid, en 10.39, ook voor zover het besluit kan worden aangemerkt als algemeen verbindend voorschrift als bedoeld in artikel 8:3, eerste lid, van de Algemene wet bestuursrecht, maar met uitzondering van een besluit op grond van de artikelen 8.70, eerste lid, en 10.15, eerste lid, voor zover het betreft de luchthavens Lelystad, Rotterdam en Eindhoven.  Wet maatschappelijke ondersteuning 2015: artikel 2.6.8 Wet milieubeheer, met inbegrip van een besluit dat betrekking heeft op handhaving, doch met uitzondering van: 
 
 a. de artikelen 1.3, eerste lid, 8.40a en 8.42  
 
@@ -4552,7 +4582,7 @@ Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift o
 
 a. Boek 2: de artikelen 63d, tweede lid, 156 en 266  
 
-b. Boek 8: titel 6, afdeling 5    Elektriciteitswet 1998: de artikelen 77h en 77i  Gaswet: de artikelen 16, 60ac en 60ad  Gezondheids- en welzijnswet voor dieren: artikel 120b, eerste lid  Instellingswet Autoriteit Consument en Markt  Invoerings- en aanpassingswet Pensioenwet   Loodsenwet, met uitzondering van de artikelen 21, derde lid, 27b, vierde lid, 27d, 27e, 27f, 27h en 27l Mededingingswet Muntwet 2002: artikel 11, eerste en tweede lid Pensioenwet   Postwet 2009, met uitzondering van hoofdstuk 3A en artikel 58  Spoorwegwet, met uitzondering van de artikelen 19, 21 en 71, derde lid Tabakswet   Telecommunicatiewet, met uitzondering van: 
+b. Boek 8: titel 6, afdeling 5    Elektriciteitswet 1998: de artikelen 77h en 77i  Gaswet: de artikelen 16, 60ac en 60ad  Gezondheids- en welzijnswet voor dieren: artikel 120b, eerste lid  Instellingswet Autoriteit Consument en Markt  Invoerings- en aanpassingswet Pensioenwet   Loodsenwet, met uitzondering van de artikelen 21, derde lid, 27b, vierde lid, 27d, 27e, 27f, 27h en 27l Mededingingswet Muntwet 2002: artikel 11, eerste en tweede lid Pensioenwet   Postwet 2009, met uitzondering van hoofdstuk 3A en artikel 58  Sanctiewet 1977 Spoorwegwet, met uitzondering van de artikelen 19, 21 en 71, derde lid Tabakswet   Telecommunicatiewet, met uitzondering van: 
 
 a. artikel 3.4, eerste lid, onderdeel b, voor zover het betreft een aanwijzing  
 
@@ -4564,7 +4594,7 @@ c. alsmede, voor zover het betreft een besluit van de Autoriteit Consument en Ma
 
 2. de hoofdstukken 6A, 6B en 12  
 
-3. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4     Warenwet  Warmtewet: artikel 18 Wet bekostiging financieel toezicht Wet bestrijding ongevallen Noordzee, voor zover het betreft een beschikking van Onze Minister, genomen op een verzoek om een tegemoetkoming als bedoeld in artikel 13, eerste lid  Wet dieren: artikel 8.7 Wet financiële betrekkingen buitenland 1994   Wet geneesmiddelenprijzen: artikel 11  Wet gewasbeschermingsmiddelen en biociden: artikel 90  Wet handhaving consumentenbescherming   Wet implementatie EU-richtlijnen energie-efficiëntie: de artikelen 21 en 22  Wet inkomstenbelasting 2001: een boetebesluit als bedoeld in artikel 3.52a, elfde lid, en een daarmee samenhangende correctie-RDA-beschikking als bedoeld in het tweede lid van dit artikel Wet inzake de geldtransactiekantoren, voor zover die wet nog van toepassing is op grond van artikel IX van de Wijzigingswet financiële markten 2012  Wet luchtvaart: artikel 11.24 Wet marktordening gezondheidszorg, voor zover het betreft beschikkingen van de Nederlandse Zorgautoriteit als bedoeld in paragraaf 4 van hoofdstuk 6  Wet op het financieel toezicht, met uitzondering van: 
+3. hoofdstuk 15, met uitzondering van de artikelen 15.2, 15.2a en 15.4     Warenwet  Warmtewet: artikel 18 Wet bekostiging financieel toezicht Wet bestrijding ongevallen Noordzee, voor zover het betreft een beschikking van Onze Minister, genomen op een verzoek om een tegemoetkoming als bedoeld in artikel 13, eerste lid  Wet dieren: artikel 8.7 Wet financiële betrekkingen buitenland 1994   Wet geneesmiddelenprijzen: artikel 11  Wet gewasbeschermingsmiddelen en biociden: artikel 90  Wet handhaving consumentenbescherming   Wet implementatie EU-richtlijnen energie-efficiëntie: de artikelen 21 en 22  Wet inkomstenbelasting 2001: een boetebesluit als bedoeld in artikel 3.52a, elfde lid, en een daarmee samenhangende correctie-RDA-beschikking als bedoeld in het tweede lid van dit artikel Wet inzake de geldtransactiekantoren, voor zover die wet nog van toepassing is op grond van artikel IX van de Wijzigingswet financiële markten 2012  Wet langdurige zorg: hoofdstuk 10, § 4 Wet luchtvaart: artikel 11.24 Wet marktordening gezondheidszorg, voor zover het betreft beschikkingen van de Nederlandse Zorgautoriteit als bedoeld in paragraaf 4 van hoofdstuk 6  Wet op het financieel toezicht, met uitzondering van: 
 
 a. hoofdstuk 5.1 en de artikelen 5:77, eerste lid, en 5:81, derde lid  
 
@@ -4576,8 +4606,8 @@ c.de artikelen 6:1 en 6:2   Wet op het notarisambt, voor zover het de toepassing
 
 ####Overige
 
-1.  Tegen een besluit, genomen op grond van de Overgangswet elektriciteitsproductiesector, kan beroep worden ingesteld bij de rechtbank Oost-Nederland.   
-2.  Tegen een besluit als bedoeld in artikel 26, eerste lid, van de Algemene wet inzake rijksbelastingen, met inbegrip van een besluit als bedoeld in artikel 26 van de Wet voorraadvorming aardolieproducten 2012, van een bestuursorgaan als bedoeld in artikel 8:7, tweede lid, en tegen een besluit op grond van de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 en 5.5 van de Mijnbouwwet kan beroep worden ingesteld bij de rechtbanken Noord-Nederland, Oost-Nederland, Noord-Holland, Den Haag en Zeeland-West-Brabant in het ressort waarvan de indiener van het beroepschrift zijn woonplaats heeft. Indien de indiener van het beroepschrift geen woonplaats in Nederland heeft, kan beroep worden ingesteld bij de rechtbank binnen het rechtsgebied waarvan het bestuursorgaan zijn zetel heeft.   
+1.  Tegen een besluit, genomen op grond van de Overgangswet elektriciteitsproductiesector, kan beroep worden ingesteld bij de rechtbank Gelderland.   
+2.  Tegen een besluit als bedoeld in artikel 26, eerste lid, van de Algemene wet inzake rijksbelastingen, met inbegrip van een besluit als bedoeld in artikel 26 van de Wet voorraadvorming aardolieproducten 2012, van een bestuursorgaan als bedoeld in artikel 8:7, tweede lid, en tegen een besluit op grond van de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 en 5.5 van de Mijnbouwwet kan beroep worden ingesteld bij de rechtbanken Noord-Nederland, Gelderland, Noord-Holland, Den Haag en Zeeland-West-Brabant in het ressort waarvan de indiener van het beroepschrift zijn woonplaats heeft. Indien de indiener van het beroepschrift geen woonplaats in Nederland heeft, kan beroep worden ingesteld bij de rechtbank binnen het rechtsgebied waarvan het bestuursorgaan zijn zetel heeft.   
 3.  Tegen een besluit van de Raad voor rechtsbijstand, bedoeld in hoofdstuk II van de Wet op de rechtsbijstand, kan beroep worden ingesteld bij de rechtbank in het arrondissement waar de raad is gevestigd.   
 4.  Tegen een beschikking als bedoeld in artikel 8:2, tweede lid, van de Algemene douanewet, met uitzondering van een beschikking ter zake van landbouwrestituties, kan beroep worden ingesteld bij de rechtbank Noord-Holland.   
 5.  Tegen een beschikking als bedoeld in artikel 18, derde lid, van de Wet strategische diensten kan beroep worden ingesteld bij de rechtbank te Haarlem.  
@@ -4586,7 +4616,7 @@ c.de artikelen 6:1 en 6:2   Wet op het notarisambt, voor zover het de toepassing
 a. de onroerende zaak waarmee het betreffende gegeven verband houdt, geheel of grotendeels is gelegen, of  
 
 b. de Dienst, genoemd in artikel 1 van de Kadasterwet, is gevestigd indien het betreffende gegeven verband houdt met een te boek staand schip of luchtvaartuig.     
-7.  Tegen een beschikking, gegeven op grond van artikel 5, tweede lid, of 6, vierde lid, van de Wet op de jeugdzorg, kan beroep worden ingesteld bij de kinderrechter binnen het rechtsgebied waarvan de stichting haar zetel heeft.  
+7.  Tegen een besluit op grond van artikel 2.3 van de Jeugdwet kan beroep worden ingesteld bij de kinderrechter binnen wiens rechtsgebied de betrokken gemeente is gelegen.  
 8. Tegen een besluit inzake subsidieverstrekking voor een project op grond van de Uitvoeringswet EFRO, kan beroep worden ingesteld bij de rechtbank binnen het rechtsgebied waarvan een autoriteit als bedoeld in artikel 3 van die wet die bevoegd is besluiten te nemen inzake de verstrekking van EFRO-middelen voor het project, haar zetel heeft, tenzij die autoriteit in het buitenland gevestigd is.
 
 ### Hoofdstuk  4  
@@ -4597,19 +4627,25 @@ b. de Dienst, genoemd in artikel 1 van de Kadasterwet, is gevestigd indien het b
 
 ####Hoger beroep bij de Centrale Raad van Beroep, met schorsende werking
 
-Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan hoger beroep worden ingesteld bij de Centrale Raad van Beroep.  Algemene Kinderbijslagwet   Algemene nabestaandenwet   Algemene Ouderdomswet   Algemene Wet Bijzondere Ziektekosten,met uitzondering van een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport of van het College zorgverzekeringen  Besluit administratieve bepalingen inzake het wegverkeer: hoofdstuk IV  Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken  Besluit Werkloosheid onderwijs- en onderzoekpersoneel, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken  Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken  Kaderwet SZW-subsidies, voor zover het betreft een ministeriële regeling op grond van artikel 9   Liquidatiewet Ongevallenwetten,met uitzondering van artikel 24, eerste lid  Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria   Tijdelijke wet pilot loondispensatie   Toeslagenwet   Werkloosheidswet   Wet arbeid en zorg: hoofdstuk 3, afdeling 2  Wet arbeidsongeschiktheidsvoorziening militairen   Wet arbeidsongeschiktheidsverzekering zelfstandigen   Wet financiering sociale verzekeringen, voor zover het betreft een besluit van de Sociale verzekeringsbank of het Uitvoeringsinstituut werknemersverzekeringen  Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen   Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers   Wet inkomensvoorziening oudere werklozen   Wet investeren in jongeren, met uitzondering van de artikelen 37, 57 en artikel 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten  Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen: een besluit van het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 2.3  Wet milieubeheer: artikel 15.50  Wet op de arbeidsongeschiktheidsverzekering   Wet overheidspersoneel onder de werknemersverzekeringen   Wet overige OCW-subsidies: artikel 19a Wet participatiebudget Wet sociale werkvoorziening   Wet structuur uitvoeringsorganisatie werk en inkomen   Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen   Wet werk en arbeidsondersteuning jonggehandicapten   Wet werk en bijstand, met uitzondering van de artikelen 52 en 81 en paragraaf 6.5  Wet werk en inkomen naar arbeidsvermogen   Wet werk en inkomen kunstenaars, met uitzondering van artikel 14  Ziektewet   Zorgverzekeringswet: de artikelen 9b, 9c, 18f, 18g, 69, 70 en 118a, behalve voor zover op grond van artikel 18f, eerste lid, in samenhang met artikel 18d of 18e, een besluit is genomen over de verschuldigdheid van de bestuursrechtelijke premie of de hoogte daarvan 
+Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan hoger beroep worden ingesteld bij de Centrale Raad van Beroep. De volgende besluiten: 
+
+a. een besluit over een gehandicaptenparkeerkaart als bedoeld in hoofdstuk IV van het Besluit administratieve bepalingen inzake het wegverkeer  
+
+b. een op grond van een gemeentelijke verordening of gemeenschappelijke regeling genomen besluit over een gehandicaptenparkeerkaart  
+
+c. een besluit over een gehandicaptenparkeerplaats voor een bepaald voertuig   Algemene Kinderbijslagwet   Algemene nabestaandenwet   Algemene Ouderdomswet   Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken  Besluit Werkloosheid onderwijs- en onderzoekpersoneel, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken  Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs, voor zover het betreft een besluit van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken  Kaderwet SZW-subsidies, voor zover het betreft een ministeriële regeling op grond van artikel 9   Liquidatiewet Ongevallenwetten,met uitzondering van artikel 24, eerste lid  Participatiewet: met uitzondering van de artikelen 52 en 81 en paragraaf 6.5 Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria   Tijdelijke wet pilot loondispensatie   Toeslagenwet   Werkloosheidswet   Wet arbeid en zorg: hoofdstuk 3, afdeling 2  Wet arbeidsongeschiktheidsvoorziening jonggehandicapten  Wet arbeidsongeschiktheidsvoorziening militairen   Wet arbeidsongeschiktheidsverzekering zelfstandigen   Wet financiering sociale verzekeringen, voor zover het betreft een besluit van de Sociale verzekeringsbank of het Uitvoeringsinstituut werknemersverzekeringen  Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen   Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers   Wet inkomensvoorziening oudere werklozen   Wet investeren in jongeren, met uitzondering van de artikelen 37, 57 en artikel 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten  Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen: een besluit van het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 2.3  Wet langdurige zorg, met uitzondering van een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport Wet milieubeheer: artikel 15.50  Wet op de arbeidsongeschiktheidsverzekering   Wet overheidspersoneel onder de werknemersverzekeringen   Wet overige OCW-subsidies: artikel 19a  Wet sociale werkvoorziening   Wet structuur uitvoeringsorganisatie werk en inkomen   Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen   Wet werk en inkomen naar arbeidsvermogen   Wet werk en inkomen kunstenaars, met uitzondering van artikel 14  Ziektewet   Zorgverzekeringswet: de artikelen 9b, 9c, 18f, 18g, 69 en 70, behalve voor zover op grond van artikel 18f, eerste lid, in samenhang met artikel 18d of 18e, een besluit is genomen over de verschuldigdheid van de bestuursrechtelijke premie of de hoogte daarvan 
 
 ### Artikel  10  
 
 ####Hoger beroep bij de Centrale Raad van Beroep, zonder schorsende werking
 
-Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan eveneens hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Een besluit waarbij een ambtenaar als bedoeld in artikel 1 van de Ambtenarenwet als zodanig, een militair ambtenaar als bedoeld in artikel 1 van de Militaire Ambtenarenwet 1931 als zodanig, een lid van het personeel van een zelfstandig bestuursorgaan waarop ingevolge artikel 15 van de Kaderwet zelfstandige bestuursorganen de ambtelijke rechtspositieregels van overeenkomstige toepassing zijn als zodanig, een dienstplichtige als bedoeld in hoofdstuk 2 van de Kaderwet dienstplicht als zodanig, hun nagelaten betrekkingen of hun rechtverkrijgenden belanghebbende zijn  Besluit van 20 juni 1984, houdende vaststelling van een algemene maatregel van bestuur regelende de vergoeding van motorrijtuigenbelasting voor oorlogsgetroffenen (Stb. 1984, 364)  Garantiewet Burgerlijk Overheidspersoneel Indonesië, met uitzondering van een besluit op grond van de Algemene oorlogsongevallenregeling  Garantiewet militairen K.N.I.L.   Garantiewet Surinaamse pensioenen   Noodwet Arbeidsvoorziening   Noodwet Geneeskundigen   de reglementen van de Stichting Maror-gelden Overheid, de Stichting Joods Humanitair Fonds, de Stichting Rechtsherstel Sinti en Roma en de Stichting Het Gebaar   Samenloopregeling Indonesische pensioenen 1960   Toeslagregeling pensioenen Suriname en Nederlandse Antillen   Toeslagwet Indonesische pensioenen 1956   Uitkeringswet gewezen militairen   Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen   Wet allocatie arbeidskrachten door intermediairs   Wet educatie en beroepsonderwijs, voor zover het betreft een algemene maatregel van bestuur als bedoeld in de artikelen 4.1.2 en 4.3.2, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft  Wet financiële voorzieningen privatisering ABP   Wet maatschappelijke ondersteuning   Wet op de expertisecentra, voor zover het betreft een algemene maatregel van bestuur als bedoeld in de artikelen 33, tweede lid, en 55, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft  Wet op de jeugdzorg: de artikelen 5, tweede lid, en 6, vierde lid  Wet op de Nederlandse organisatie voor Wetenschappelijk Onderzoek, voor zover het betreft een algemene maatregel van bestuur als bedoeld in artikel 14, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft  Wet op het hoger onderwijs en wetenschappelijk onderzoek, voor zover het betreft een algemene maatregel van bestuur als bedoeld in artikel 4.5, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft  Wet op het primair onderwijs, voor zover het betreft een algemene maatregel van bestuur als bedoeld in de artikelen 33, tweede lid, en 52, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft  Wet op het voortgezet onderwijs, voor zover het betreft een algemene maatregel van bestuur als bedoeld in artikel 38a, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft  Wet pensioenvoorzieningen K.N.I.L.   Wet privatisering ABP   Wet rechtspositionele voorzieningen rampbestrijders   Wet studiefinanciering 2000   Wet tegemoetkoming chronisch zieken en gehandicapten: artikel 2  Wet tegemoetkoming onderwijsbijdrage en schoolkosten   Wet van 21 december 1951, houdende een onderstandsregeling ingevolge artikel 2 Garantiewet Burgerlijk Overheidspersoneel Indonesië (Stb. 1951, 592)   Wet van 25 mei 1962, houdende instelling van een Bijstandkorps van burgerlijke rijksambtenaren, dat bestemd is voor dienst in Nederlands-Nieuw-Guinea (Stb. 1962, 196)   Wet van 16 juli 2001 tot het stellen van nadere regels in verband met de introductie van een toeslagregeling ter compensatie van het gemis aan overhevelingstoeslag per 1 januari 2001 ten aanzien van de Toeslagwet Indonesische pensioenen 1956 en enkele andere overzeese pensioenwetten alsmede het actualiseren van die wetten in verband met de inwerkingtreding van de Algemene nabestaandenwet (Stb. 2001, 377)   Wet verevening pensioenrechten bij scheiding  
+Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan eveneens hoger beroep worden ingesteld bij de Centrale Raad van Beroep. Een besluit waarbij een ambtenaar als bedoeld in artikel 1 van de Ambtenarenwet als zodanig, een militair ambtenaar als bedoeld in artikel 1 van de Militaire Ambtenarenwet 1931 als zodanig, een lid van het personeel van een zelfstandig bestuursorgaan waarop ingevolge artikel 15 van de Kaderwet zelfstandige bestuursorganen de ambtelijke rechtspositieregels van overeenkomstige toepassing zijn als zodanig, een dienstplichtige als bedoeld in hoofdstuk 2 van de Kaderwet dienstplicht als zodanig, hun nagelaten betrekkingen of hun rechtverkrijgenden belanghebbende zijn  Besluit van 20 juni 1984, houdende vaststelling van een algemene maatregel van bestuur regelende de vergoeding van motorrijtuigenbelasting voor oorlogsgetroffenen (Stb. 1984, 364)  Garantiewet Burgerlijk Overheidspersoneel Indonesië, met uitzondering van een besluit op grond van de Algemene oorlogsongevallenregeling  Garantiewet militairen K.N.I.L.   Garantiewet Surinaamse pensioenen   Jeugdwet: artikel 2.3 en paragraaf 8.1 Noodwet Arbeidsvoorziening   Noodwet Geneeskundigen   de reglementen van de Stichting Maror-gelden Overheid, de Stichting Joods Humanitair Fonds, de Stichting Rechtsherstel Sinti en Roma en de Stichting Het Gebaar   Samenloopregeling Indonesische pensioenen 1960   Toeslagregeling pensioenen Suriname en Nederlandse Antillen   Toeslagwet Indonesische pensioenen 1956   Uitkeringswet gewezen militairen   Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen   Wet allocatie arbeidskrachten door intermediairs   Wet educatie en beroepsonderwijs, voor zover het betreft een algemene maatregel van bestuur als bedoeld in de artikelen 4.1.2 en 4.3.2, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft  Wet financiële voorzieningen privatisering ABP   Wet maatschappelijke ondersteuning 2015, met uitzondering van artikel 2.6.8  Wet op de expertisecentra, voor zover het betreft een algemene maatregel van bestuur als bedoeld in de artikelen 33, tweede lid, en 55, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft  Wet op de Nederlandse organisatie voor Wetenschappelijk Onderzoek, voor zover het betreft een algemene maatregel van bestuur als bedoeld in artikel 14, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft  Wet op het hoger onderwijs en wetenschappelijk onderzoek, voor zover het betreft een algemene maatregel van bestuur als bedoeld in artikel 4.5, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft  Wet op het primair onderwijs, voor zover het betreft een algemene maatregel van bestuur als bedoeld in de artikelen 33, tweede lid, en 52, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft  Wet op het voortgezet onderwijs, voor zover het betreft een algemene maatregel van bestuur als bedoeld in artikel 38a, voor zover het besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap betreft  Wet pensioenvoorzieningen K.N.I.L.   Wet privatisering ABP   Wet rechtspositionele voorzieningen rampbestrijders   Wet studiefinanciering 2000   Wet tegemoetkoming chronisch zieken en gehandicapten: artikel 2  Wet tegemoetkoming onderwijsbijdrage en schoolkosten   Wet van 21 december 1951, houdende een onderstandsregeling ingevolge artikel 2 Garantiewet Burgerlijk Overheidspersoneel Indonesië (Stb. 1951, 592)   Wet van 25 mei 1962, houdende instelling van een Bijstandkorps van burgerlijke rijksambtenaren, dat bestemd is voor dienst in Nederlands-Nieuw-Guinea (Stb. 1962, 196)   Wet van 16 juli 2001 tot het stellen van nadere regels in verband met de introductie van een toeslagregeling ter compensatie van het gemis aan overhevelingstoeslag per 1 januari 2001 ten aanzien van de Toeslagwet Indonesische pensioenen 1956 en enkele andere overzeese pensioenwetten alsmede het actualiseren van die wetten in verband met de inwerkingtreding van de Algemene nabestaandenwet (Stb. 2001, 377)   Wet verevening pensioenrechten bij scheiding  
 
 ### Artikel  11  
 
 ####Hoger beroep bij het College van Beroep voor het bedrijfsleven
 
-Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven. Aanbestedingswet 2012, artikel 4.21Aanbestedingswet op defensie- en veiligheidsgebied, artikel 3.8 Bankwet 1998: artikel 9c, eerste en tweede lid  Burgerlijk Wetboek: de artikelen 63d, tweede lid, 156 en 266 van Boek 2  Elektriciteitswet 1998: de artikelen 77h en 77i  Gaswet: de artikelen 16, 60ac en 60ad   Gezondheids- en welzijnswet voor dieren: artikel 120b, eerste lid  Instellingswet Autoriteit Consument en Markt  Invoerings- en aanpassingswet Pensioenwet   Loodsenwet, met uitzondering van de artikelen 21, derde lid, 27b, vierde lid, 27d, 27e, 27f, 27h en 27l Mededingingswet  Meststoffenwet: artikel 51 Muntwet 2002: artikel 11, eerste en tweede lid Overgangswet elektriciteitsproductiesector   Pensioenwet   Postwet 2009, met uitzondering van hoofdstuk 3A en artikel 58 Spoorwegwet, met uitzondering van de artikelen 19, 21 en 71, derde lid   Tabakswet   Telecommunicatiewet, met uitzondering van: 
+Tegen een uitspraak van de rechtbank of van de voorzieningenrechter omtrent een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan hoger beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven. Aanbestedingswet 2012, artikel 4.21Aanbestedingswet op defensie- en veiligheidsgebied, artikel 3.8 Bankwet 1998: artikel 9c, eerste en tweede lid  Burgerlijk Wetboek: de artikelen 63d, tweede lid, 156 en 266 van Boek 2  Elektriciteitswet 1998: de artikelen 77h en 77i  Gaswet: de artikelen 16, 60ac en 60ad   Gezondheids- en welzijnswet voor dieren: artikel 120b, eerste lid  Instellingswet Autoriteit Consument en Markt  Invoerings- en aanpassingswet Pensioenwet   Loodsenwet, met uitzondering van de artikelen 21, derde lid, 27b, vierde lid, 27d, 27e, 27f, 27h en 27l Mededingingswet  Meststoffenwet: artikel 51 Muntwet 2002: artikel 11, eerste en tweede lid Overgangswet elektriciteitsproductiesector   Pensioenwet   Postwet 2009, met uitzondering van hoofdstuk 3A en artikel 58 Sanctiewet 1977 Spoorwegwet, met uitzondering van de artikelen 19, 21 en 71, derde lid   Tabakswet   Telecommunicatiewet, met uitzondering van: 
 
 a. artikel 3.4, eerste lid, onderdeel b, voor zover het betreft een aanwijzing  
 
@@ -4653,7 +4689,13 @@ d. een besluit waarbij de kosten van bestuursdwang op ten hoogste € 340 zijn 
 
 ### Artikel  2  
 
-Het tarief, genoemd in artikel 8:41, tweede lid, onderdeel a, dan wel genoemd in artikel 8:109, eerste lid, onderdeel a, geldt voorts indien het beroep, dan wel hoger beroep, betreft een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven.  Algemene bijstandswet   Algemene Kinderbijslagwet   Algemene nabestaandenwet   Algemene Ouderdomswet   Algemene Wet Bijzondere Ziektekosten, met uitzondering van een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport of van het College zorgverzekeringen  Algemene wet inzake rijksbelastingen, tenzij het beroep of hoger beroep door een natuurlijke persoon is ingesteld tegen een uitspraak inzake een besluit met betrekking tot de toepassing van: 
+Het tarief, genoemd in artikel 8:41, tweede lid, onderdeel a, dan wel genoemd in artikel 8:109, eerste lid, onderdeel a, geldt voorts indien het beroep, dan wel hoger beroep, betreft een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven. De volgende besluiten: 
+
+a. een besluit over een gehandicaptenparkeerkaart als bedoeld in hoofdstuk IV van het Besluit administratieve bepalingen inzake het wegverkeer  
+
+b. een op grond van een gemeentelijke verordening of gemeenschappelijke regeling genomen besluit over een gehandicaptenparkeerkaart  
+
+c. een besluit over een gehandicaptenparkeerplaats voor een bepaald voertuig   Algemene bijstandswet   Algemene Kinderbijslagwet   Algemene nabestaandenwet   Algemene Ouderdomswet   Algemene wet inzake rijksbelastingen, tenzij het beroep of hoger beroep door een natuurlijke persoon is ingesteld tegen een uitspraak inzake een besluit met betrekking tot de toepassing van: 
 
 a. de Wet op de dividendbelasting 1965  
 
@@ -4665,5 +4707,5 @@ d. de Wet op de accijns
 
 e. de Wet op de verbruiksbelasting van alcoholvrije dranken  
 
-f. de Wet belastingen op milieugrondslag    Besluit administratieve bepalingen inzake het wegverkeer: hoofdstuk IV  Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs, voor zover het betreft besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken  Besluit van 20 juni 1984, houdende vaststelling van een algemene maatregel van bestuur regelende de vergoeding van motorrijtuigenbelasting voor oorlogsgetroffenen (Stb. 1984, 364)  Besluit Werkloosheid onderwijs- en onderzoekpersoneel, voor zover het betreft besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken  Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs, voor zover het betreft besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken  Garantiewet Burgerlijk Overheidspersoneel Indonesië, met inbegrip van een besluit op grond van de Algemene oorlogsongevallenregeling  Garantiewet Militairen K.N.I.L.   Garantiewet Surinaamse pensioenen   Kaderwet SZW-subsidies, voor zover het betreft een ministeriële regeling op grond van artikel 9   Liquidatiewet Ongevallenwetten   Mijnbouwwet: de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 en 5.5  Reglement eenmalige uitkering silicose-vergoeding oud-mijnwerkers, vastgesteld bij besluit van het bestuur van de Stichting Silicose Oud-Mijnwerkers van 18 april 1994  de reglementen van de Stichting Maror-gelden Overheid, de Stichting Joods Humanitair Fonds, de Stichting Rechtsherstel Sinti en Roma en de Stichting Het Gebaar   Samenloopregeling Indonesische pensioenen 1960   Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie   Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria   Tijdelijke wet pilot loondispensatie   Toeslagenwet   Toeslagregeling pensioenen Suriname en Nederlandse Antillen   Toeslagwet Indonesische pensioenen 1956   Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen   Werkloosheidswet   Wet arbeid en zorg: hoofdstuk 3, afdeling 2  Wet arbeidsongeschiktheidsvoorziening militairen   Wet arbeidsongeschiktheidsverzekering zelfstandigen   Wet buitengewoon pensioen 1940–1945   Wet buitengewoon pensioen Indisch verzet   Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers   Wet financiering sociale verzekeringen, voor zover het betreft een besluit van de Sociale verzekeringsbank of het Uitvoeringsinstituut werknemersverzekeringen  Wet gevolgen brutering uitkeringsregelingen   Wet inburgering   Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen   Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers   Wet inkomensvoorziening oudere werklozen   Wet investeren in jongeren, met uitzondering van de artikelen 37, 57 en artikel 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten  Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen: een besluit van het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 2.3  Wet maatschappelijke ondersteuning   Wet op de arbeidsongeschiktheidsverzekering   Wet op de huurtoeslag   Wet op de rechtsbijstand: een besluit van de Raad voor rechtsbijstand, indien het beroep dan wel hoger beroep wordt ingesteld door een rechtzoekende als bedoeld in artikel 1, eerste lid  Wet overheidspersoneel onder de werknemersverzekeringen   Wet pensioenvoorzieningen K.N.I.L.   Wet sociale werkvoorziening   Wet structuur uitvoeringsorganisatie werk en inkomen   Wet studiefinanciering 2000   Wet tegemoetkoming onderwijsbijdrage en schoolkosten   Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen   Wet uitkeringen burger-oorlogsslachtoffers 1940–1945   Wet uitkeringen vervolgingsslachtoffers 1940–1945   Wet van 21 december 1951, houdende een onderstandsregeling ingevolge artikel 2 Garantiewet Burgerlijk Overheidspersoneel Indonesië (Stb. 1951, 592)  Wet van 16 juli 2001 tot het stellen van nadere regels in verband met de introductie van een toeslagregeling ter compensatie van het gemis aan overhevelingstoeslag per 1 januari 2001 ten aanzien van de Toeslagwet Indonesische pensioenen 1956 en enkele andere overzeese pensioenwetten alsmede het actualiseren van die wetten in verband met de inwerkingtreding van de Algemene nabestaandenwet (Stb. 2001, 377)  Wet werk en arbeidsondersteuning jonggehandicapten   Wet werk en bijstand, met uitzondering van de artikelen 52 en 81 en paragraaf 6.5  Wet werk en inkomen kunstenaars, met uitzondering van artikel 14  Wet werk en inkomen naar arbeidsvermogen   Ziektewet   Zorgverzekeringswet: de artikelen 9b, 9c, 18f, 18g, 69, 70 en 118a 
+f. de Wet belastingen op milieugrondslag    Besluit bovenwettelijke werkloosheidsregeling voor onderwijspersoneel primair onderwijs, voor zover het betreft besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken  Besluit van 20 juni 1984, houdende vaststelling van een algemene maatregel van bestuur regelende de vergoeding van motorrijtuigenbelasting voor oorlogsgetroffenen (Stb. 1984, 364)  Besluit Werkloosheid onderwijs- en onderzoekpersoneel, voor zover het betreft besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken  Besluit ziekte en arbeidsongeschiktheid voor onderwijspersoneel primair onderwijs, voor zover het betreft besluiten van Onze Minister van Onderwijs, Cultuur en Wetenschap, dan wel Onze Minister van Economische Zaken  Garantiewet Burgerlijk Overheidspersoneel Indonesië, met inbegrip van een besluit op grond van de Algemene oorlogsongevallenregeling  Garantiewet Militairen K.N.I.L.   Garantiewet Surinaamse pensioenen   Kaderwet SZW-subsidies, voor zover het betreft een ministeriële regeling op grond van artikel 9   Liquidatiewet Ongevallenwetten   Mijnbouwwet: de afdelingen 5.1.1, 5.1.2, 5.3, 5.4 en 5.5  Participatiewet: met uitzondering van de artikelen 52 en 81 en paragraaf 6.5 Reglement eenmalige uitkering silicose-vergoeding oud-mijnwerkers, vastgesteld bij besluit van het bestuur van de Stichting Silicose Oud-Mijnwerkers van 18 april 1994  de reglementen van de Stichting Maror-gelden Overheid, de Stichting Joods Humanitair Fonds, de Stichting Rechtsherstel Sinti en Roma en de Stichting Het Gebaar   Samenloopregeling Indonesische pensioenen 1960   Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie   Tijdelijke wet beperking inkomensgevolgen arbeidsongeschiktheidscriteria   Tijdelijke wet pilot loondispensatie   Toeslagenwet   Toeslagregeling pensioenen Suriname en Nederlandse Antillen   Toeslagwet Indonesische pensioenen 1956   Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen   Werkloosheidswet   Wet arbeid en zorg: hoofdstuk 3, afdeling 2  Wet arbeidsongeschiktheidsvoorziening jonggehandicapten  Wet arbeidsongeschiktheidsvoorziening militairen   Wet arbeidsongeschiktheidsverzekering zelfstandigen   Wet buitengewoon pensioen 1940–1945   Wet buitengewoon pensioen Indisch verzet   Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers   Wet financiering sociale verzekeringen, voor zover het betreft een besluit van de Sociale verzekeringsbank of het Uitvoeringsinstituut werknemersverzekeringen  Wet gevolgen brutering uitkeringsregelingen   Wet inburgering   Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen   Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers   Wet inkomensvoorziening oudere werklozen   Wet investeren in jongeren, met uitzondering van de artikelen 37, 57 en artikel 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten  Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen: een besluit van het Uitvoeringsinstituut werknemersverzekeringen op grond van artikel 2.3  Wet langdurige zorg, met uitzondering van een besluit van Onze Minister van Volksgezondheid, Welzijn en Sport Wet maatschappelijke ondersteuning 2015   Wet op de arbeidsongeschiktheidsverzekering   Wet op de huurtoeslag   Wet op de rechtsbijstand: een besluit van de Raad voor rechtsbijstand, indien het beroep dan wel hoger beroep wordt ingesteld door een rechtzoekende als bedoeld in artikel 1, eerste lid  Wet overheidspersoneel onder de werknemersverzekeringen   Wet pensioenvoorzieningen K.N.I.L.   Wet sociale werkvoorziening   Wet structuur uitvoeringsorganisatie werk en inkomen   Wet studiefinanciering 2000   Wet tegemoetkoming onderwijsbijdrage en schoolkosten   Wet terugdringing beroep op de arbeidsongeschiktheidsregelingen   Wet uitkeringen burger-oorlogsslachtoffers 1940–1945   Wet uitkeringen vervolgingsslachtoffers 1940–1945   Wet van 21 december 1951, houdende een onderstandsregeling ingevolge artikel 2 Garantiewet Burgerlijk Overheidspersoneel Indonesië (Stb. 1951, 592)  Wet van 16 juli 2001 tot het stellen van nadere regels in verband met de introductie van een toeslagregeling ter compensatie van het gemis aan overhevelingstoeslag per 1 januari 2001 ten aanzien van de Toeslagwet Indonesische pensioenen 1956 en enkele andere overzeese pensioenwetten alsmede het actualiseren van die wetten in verband met de inwerkingtreding van de Algemene nabestaandenwet (Stb. 2001, 377)  Wet werk en inkomen kunstenaars, met uitzondering van artikel 14  Wet werk en inkomen naar arbeidsvermogen   Ziektewet   Zorgverzekeringswet: de artikelen 9b, 9c, 18f, 18g, 69, 70 en 118a 
 

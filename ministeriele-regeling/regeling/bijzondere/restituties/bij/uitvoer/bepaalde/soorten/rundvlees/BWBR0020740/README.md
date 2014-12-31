@@ -7,7 +7,7 @@ Gelet op Verordening (EEG) nr. 32/82 van de Commissie van 7 januari 1982 tot va
 
 Gelet op Verordening (EEG) nr. 1964/82 van de Commissie van 20 juli 1982 tot vaststelling van de voorwaarden voor de toekenning van bijzondere restituties bij uitvoer van bepaalde soorten rundvlees zonder been;
 
-Gelet op [artikel 11](../../../../../../../../../../AMvB/in-/en/uitvoerbesluit/landbouwgoederen/1980/BWBR0003360/README.md) en [artikel 13, eerste lid, van het In- en uitvoerbesluit landbouwgoederen 1980](../../../../../../../../../../AMvB/in-/en/uitvoerbesluit/landbouwgoederen/1980/BWBR0003360/README.md);
+Gelet op artikel 11 en artikel 13, eerste lid, van het In- en uitvoerbesluit landbouwgoederen 1980;
 
 Handelende in overeenstemming met de Minister van Financiën;
 Besluit:     
@@ -55,7 +55,7 @@ q. aanvullende aantekeningen: aanvullende aantekeningen bij hoofdstuk 2, bijlage
 
 ### Artikel  1a  
 
-Deze regeling berust op [artikel 3:3, onder a en c](../../../../../../../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md), en [3:4, eerste lid, van het Algemeen douanebesluit](../../../../../../../../../../AMvB/algemeen/douanebesluit/BWBR0024235/README.md). 
+Deze regeling berust op artikel 3:3, onder a en c, en 3:4, eerste lid, van het Algemeen douanebesluit. 
 
 ### Artikel  2  
 
@@ -296,7 +296,7 @@ a. het nummer van het in artikel 14, eerste lid, bedoelde identificatieattest;
 b. het overeenkomstig artikel 21, tweede lid, vastgestelde gewicht.     
 3.  De NVWA vermeldt het nummer van het attest uitgebeend vlees op het identificatieattest.   
 4.  Het origineel van het attest uitgebeend vlees vergezelt de partij en wordt door of namens belanghebbende bij het vervullen van de douaneformaliteiten bij uitvoer overgelegd.   
-5.  De nummers van zowel het identificatieattest als van het attest uitgebeend vlees dienen op bij de aangifte ten invoer onderscheidenlijk op de maandstaat als bedoeld in [artikel 3:24 van de Algemene douaneregeling](../../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), te worden vermeld.  
+5.  De nummers van zowel het identificatieattest als van het attest uitgebeend vlees dienen op bij de aangifte ten invoer onderscheidenlijk op de maandstaat als bedoeld in artikel 3:24 van de Algemene douaneregeling, te worden vermeld.  
 
 ### Paragraaf  4  
 
@@ -308,7 +308,7 @@ b. het overeenkomstig artikel 21, tweede lid, vastgestelde gewicht.
 2.  Het vervullen van de douaneformaliteiten voor uitvoer voor de totale hoeveelheid vlees waarop het attest uitgebeend vlees betrekking heeft, vindt plaats op hetzelfde tijdstip bij hetzelfde douanekantoor.   
 3.  Na beëindiging van de verificatie viseert de douaneambtenaar het origineel van het identificatieattest onderscheidenlijk het attest uitgebeend vlees door invulling van het daartoe bestemde vak.   
 4.  De douaneambtenaar zendt het identificatieattest onderscheidenlijk het attest uitgebeend vlees tezamen met de aangifte ten invoer toe aan de Minister.   
-5.  In geval van scheepsproviandering als bedoeld in [artikel 3:23, eerste lid, van de Algemene douaneregeling](../../../../../../../../../../ministeriele-regeling/algemene/douaneregeling/BWBR0024291/README.md), zendt de douaneambtenaar het betrokken attest rechtstreeks toe aan de Minister.  
+5.  In geval van scheepsproviandering als bedoeld in artikel 3:23, eerste lid, van de Algemene douaneregeling, zendt de douaneambtenaar het betrokken attest rechtstreeks toe aan de Minister.  
 
 ### Paragraaf  5  
 
@@ -320,7 +320,7 @@ Wijzigt de Regeling medebewind gemeenschappelijk landbouwbeleid.
 
 ### Artikel  25  
 
-De [Beschikking bijzondere restituties bij uitvoer bepaalde soorten rundvlees 1984](../../../../../../../../../../ministeriele-regeling/beschikking/bijzondere/restituties/bij/uitvoer/bepaalde/soorten/rundvlees/etc/BWBR0003660/README.md) wordt ingetrokken. 
+De Beschikking bijzondere restituties bij uitvoer bepaalde soorten rundvlees 1984 wordt ingetrokken. 
 
 ### Artikel  26  
 
