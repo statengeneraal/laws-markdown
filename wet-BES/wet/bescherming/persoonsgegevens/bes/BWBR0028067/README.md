@@ -470,7 +470,7 @@ f. de doorgifte geschiedt vanuit een register dat bij wettelijk voorschrift is i
 ### Artikel  45  
 
 1.  De commissie bestaat uit een voorzitter en twee andere leden.   
-2.  De voorzitter moet voldoen aan de bij of krachtens artikel 23 van de Rijkswet Gemeenschappelijk Hof van Justitie gestelde vereisten voor benoembaarheid tot rechter in het Gemeenschappelijk Hof van Justitie.   
+2.  De voorzitter moet voldoen aan de bij of krachtens artikel 24 van de Rijkswet Gemeenschappelijk Hof van Justitie gestelde vereisten voor benoembaarheid tot rechter in het Gemeenschappelijk Hof van Justitie.   
 3.  De voorzitter en de leden worden bij koninklijk besluit benoemd, op voordracht van Onze Minister, voor een tijdvak van zes jaren.  
 
 ### Artikel  46  

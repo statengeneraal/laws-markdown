@@ -44,11 +44,11 @@ m. beklagcommissie: een commissie als bedoeld in artikel 67, eerste lid;
 
 n. beroepscommissie: een commissie als bedoeld in artikel 74, tweede lid;  
 
-o. Inspectie jeugdzorg: de inspectie, bedoeld in artikel 47 van de Wet op de jeugdzorg;  
+o. inspectie jeugdzorg: inspectie, bedoeld in artikel 9.1, eerste lid, van de Jeugdwet;  
 
 p. vrijheidsstraf: jeugddetentie en vervangende jeugddetentie;  
 
-q. vrijheidsbenemende maatregel: voorlopige hechtenis, vreemdelingenbewaring en gijzeling voor zover de leeftijd van achttien jaren nog niet is bereikt, plaatsing in een inrichting voor jeugdigen, alsmede de tenuitvoerlegging van een machtiging in een geval als bedoeld in artikel 29k, tweede lid, van de Wet op de jeugdzorg;  
+q. vrijheidsbenemende maatregel: voorlopige hechtenis, vreemdelingenbewaring en gijzeling voor zover de leeftijd van achttien jaren nog niet is bereikt, plaatsing in een inrichting voor jeugdigen, alsmede de tenuitvoerlegging van een machtiging in een geval als bedoeld in artikel 6.2.2, tweede lid, van de Jeugdwet;  
 
 r. strafrestant: het gedeelte van een opgelegde vrijheidsstraf dan wel van het samenstel van dergelijke straffen dat nog moet worden ondergaan;  
 
@@ -74,7 +74,7 @@ bb. reclasseringswerker: een reclasseringswerker als bedoeld in artikel 6, eerst
 
 cc. rechtsbijstandverlener: de advocaat of de medewerker van een stichting, bedoeld in de Wet op de rechtsbijstand;  
 
-dd. stichting: een stichting als bedoeld in artikel 1 van de Wet op de jeugdzorg;  
+dd. gecertificeerde instelling: gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet;  
 
 ee. raad voor de kinderbescherming: de raad als bedoeld in artikel 238 van Boek 1 van het Burgerlijk Wetboek;  
 
@@ -112,13 +112,13 @@ b. de handhaving van de orde of de veiligheid in de inrichting.
 
 ### Artikel  3a  
 
-1.  Onze Minister subsidieert of houdt in stand landelijke voorzieningen van residentiële hulpverlening ten behoeve van de tenuitvoerlegging van vrijheidsstraffen en vrijheidsbenemende maatregelen als bedoeld in de artikelen 77h van het Wetboek van Strafrecht alsmede voor de tenuitvoerlegging van een machtiging in een geval als bedoeld in artikel 29k, tweede lid, van de Wet op de jeugdzorg.   
+1.  Onze Minister subsidieert of houdt in stand landelijke voorzieningen van residentiële hulpverlening ten behoeve van de tenuitvoerlegging van vrijheidsstraffen en vrijheidsbenemende maatregelen als bedoeld in de artikelen 77h van het Wetboek van Strafrecht alsmede voor de tenuitvoerlegging van een machtiging in een geval als bedoeld in artikel 6.2.2, tweede lid, van de Jeugdwet.   
 2.  De inrichtingen worden onderscheiden in rijksinrichtingen en particuliere inrichtingen.  
 
 ### Artikel  3b  
 
 1.  Particuliere inrichtingen zijn in de Europese Economische Ruimte gevestigde rechtspersonen met volledige rechtsbevoegdheid tot wier doelstelling opvang en behandeling van jeugdigen als bedoeld in artikel 1, onderdeel g, behoren en die daartoe door Onze Minister zijn aangewezen.   
-2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanwijzing als particuliere inrichting en de daaraan te verbinden voorwaarden, alsmede omtrent het verstrekken van subsidie. Op een particuliere inrichting is het bepaalde bij en krachtens de artikelen 25, eerste en tweede lid en 28, eerste lid, van de Wet op de jeugdzorg voor wat betreft de verantwoordelijkheidstoedeling van overeenkomstige toepassing, met dien verstande dat voor «de zorgaanbieder» wordt gelezen: de particuliere inrichting.   
+2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld omtrent de aanwijzing als particuliere inrichting en de daaraan te verbinden voorwaarden, alsmede omtrent het verstrekken van subsidie. Hetgeen bij en krachtens de artikelen 4.1.1, tweede lid, eerste volzin, juncto 4.1.5, eerste lid, van de Jeugdwet is bepaald ten aanzien van jeugdhulpaanbieders, is voor wat betreft de verantwoordelijkheidstoedeling van overeenkomstige toepassing op particuliere inrichtingen.   
 3.  Het beheer van een particuliere inrichting berust bij de directeur, die door het bestuur benoemd wordt. De directeur van een particuliere inrichting wijst met machtiging van het bestuur een of meer personen als zijn vervanger aan.  
 
 ### Artikel  3c  
@@ -188,8 +188,8 @@ b. de plaatsing in afzondering, bedoeld in artikel 25, eerste lid.
 ### Artikel  5a  
 
 1.  De directeur stelt voor zijn personeelsleden en medewerkers een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1.1 van de Jeugdwet.   
 4.  De directeur bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.  
 
@@ -214,7 +214,7 @@ c. zorg te dragen voor de behandeling van klaagschriften ingevolge hoofdstuk XII
 
 d. aan Onze Minister, de Raad en de directeur advies en inlichtingen te geven omtrent het onder a gestelde.     
 3.  Indien het advies of de inlichtingen een particuliere inrichting betreffen en zijn bestemd voor Onze Minister of de Raad, voegt de commissie de desbetreffende opmerkingen van het betrokken bestuur daarbij, tenzij naar het oordeel van Onze Minister, de Raad of de commissie bijzondere spoed geboden is dan wel het bestuur zijn opmerkingen naar het oordeel van de commissie niet binnen een redelijke termijn op schrift heeft gesteld.   
-4.  De commissie van toezicht stelt zich door persoonlijk contact met de jeugdigen regelmatig op de hoogte van onder hen levende wensen en gevoelens. Bij toerbeurt treedt één van haar leden hiertoe op als maandcommissaris. De maandcommissaris vervult tevens de taken van de vertrouwenspersoon, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg.   
+4.  De commissie van toezicht stelt zich door persoonlijk contact met de jeugdigen regelmatig op de hoogte van onder hen levende wensen en gevoelens. Bij toerbeurt treedt één van haar leden hiertoe op als maandcommissaris. De maandcommissaris vervult tevens de taken van de vertrouwenspersoon, bedoeld in artikel 1.1 van de Jeugdwet.   
 5.  Bij algemene maatregel van bestuur worden regels gesteld over de bevoegdheden, de samenstelling en de werkwijze van de commissie, de benoeming en het ontslag van haar leden alsmede over de werkzaamheden van de maandcommissaris.  
 
 ### Artikel  7a  
@@ -241,7 +241,7 @@ d. personen ten aanzien van wie een bevel tot gijzeling is gegeven, voor zover z
 
 e. personen aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd;  
 
-f. personen ten aanzien van wie een machtiging als bedoeld in artikel 29k, tweede lid, van de Wet op de jeugdzorg is gegeven;  
+f. personen ten aanzien van wie een machtiging als bedoeld in artikel 6.2.2, tweede lid, van de Jeugdwet is gegeven;  
 
 g. personen die in de inrichting verblijven en ten aanzien van wie een rechterlijke machtiging op grond van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen is gegeven, in afwachting van plaatsing in een psychiatrisch ziekenhuis als bedoeld in artikel 1, eerste lid, onderdeel h van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen;  
 
@@ -296,7 +296,7 @@ d. de onderbrenging van kinderen van jeugdigen in de inrichting, afdeling of pla
 2.  Personen als bedoeld in artikel 8, eerste lid, onderdelen e en h, worden in elk geval geplaatst in een inrichting of op een afdeling waar behandeling plaats kan vinden.   
 3.  Met de plaatsing en overplaatsing zijn door Onze Minister aangewezen selectiefunctionarissen belast. Deze zijn bevoegd daartoe de overbrenging van personen te bevelen. Zij kunnen de overbrenging doen geschieden door daartoe door hen aangewezen personeelsleden of medewerkers.   
 4.  De inrichting is verplicht de jeugdige op te nemen.   
-5.  De selectiefunctionaris neemt bij de beslissing tot plaatsing, overplaatsing of overbrenging de aanwijzingen van het openbaar ministerie en van de autoriteiten die de straf of maatregel hebben opgelegd, in aanmerking. De selectiefunctionaris neemt bij de beslissing, bedoeld in het eerste lid, de aanwijzingen van de stichting voor zover mogelijk in acht.   
+5.  De selectiefunctionaris neemt bij de beslissing tot plaatsing, overplaatsing of overbrenging de aanwijzingen van het openbaar ministerie en van de autoriteiten die de straf of maatregel hebben opgelegd, in aanmerking. De selectiefunctionaris neemt bij de beslissing, bedoeld in het eerste lid, de aanwijzingen van de gecertificeerde instelling voor zover mogelijk in acht.   
 6.  De selectiefunctionaris neemt de beslissing om een jeugdige te plaatsen op een afdeling voor intensieve zorg of voor intensieve behandeling als bedoeld in artikel 22a, onderscheidenlijk artikel 22b, na advies van een psychiater, die voor zover mogelijk overleg heeft gevoerd met de behandelend gedragsdeskundige.   
 7.  De selectiefunctionaris neemt de beslissing om een jeugdige te plaatsen op een individuele trajectafdeling als bedoeld in artikel 22c, na daarover advies te hebben ingewonnen van de adviescommissie.   
 8.  In geval van gebrekkige ontwikkeling of ziekelijke stoornis van de geestvermogens van een jeugdige kan de selectiefunctionaris, met inachtneming van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen, bepalen dat de jeugdige naar een psychiatrisch ziekenhuis als bedoeld in artikel 1, onder h, van de Wet bijzondere opnemingen in psychiatrische ziekenhuizen zal worden overgebracht om daar zolang als dat noodzakelijk is te worden verpleegd.   
@@ -310,7 +310,7 @@ d. de onderbrenging van kinderen van jeugdigen in de inrichting, afdeling of pla
 
 ### Artikel  14  
 
-1.  De jeugdige ten aanzien van wie met toepassing van artikel 29k, tweede lid van de Wet op de jeugdzorg is bepaald dat hij in een inrichting wordt geplaatst, heeft aanspraak op die plaatsing. Een jeugdige heeft slechts aanspraak op deze plaatsing als de stichting, die werkzaam is in de provincie waarin de jeugdige duurzaam verblijft, een besluit heeft genomen waaruit blijkt dat hij op die plaatsing is aangewezen. Bij algemene maatregel van bestuur worden regels gesteld voor gevallen waarin het besluit bedoeld in de tweede volzin niet afgewacht kan worden. Daarbij kan worden afgeweken van de tweede volzin.   
+1.  De jeugdige ten aanzien van wie met toepassing van artikel 6.2.2, tweede lid, van de Jeugdwet is bepaald dat hij in een inrichting wordt geplaatst, heeft aanspraak op die plaatsing. Een jeugdige heeft slechts aanspraak op deze plaatsing als de betrokken gecertificeerde instelling een besluit heeft genomen waaruit blijkt dat hij op die plaatsing is aangewezen. Bij algemene maatregel van bestuur worden regels gesteld voor gevallen waarin het besluit bedoeld in de tweede volzin niet afgewacht kan worden. Daarbij kan worden afgeweken van de tweede volzin.   
 2.  De jeugdige, bedoeld in het eerste lid, kan worden overgeplaatst naar een beperkt beveiligde inrichting als bedoeld in artikel 10, eerste lid, onder a.  
 
 ### Artikel  15  
@@ -349,9 +349,9 @@ e. het over het kind gestelde gezag.
 
 ###Artikel 17a 
 
-1. De directeur kan de tenuitvoerlegging van een machtiging als bedoeld in artikel 29b van de Wet op de jeugdzorg schorsen, als de tenuitvoerlegging niet langer nodig is om te voorkomen dat de jeugdige zich aan de zorg die hij nodig heeft onttrekt of daaraan door anderen wordt onttrokken. De schorsing kan worden ingetrokken indien blijkt dat de tenuitvoerlegging nodig is om te voorkomen dat de jeugdige zich aan de zorg die hij nodig heeft onttrekt of daaraan door anderen wordt onttrokken. 
-2. Een besluit tot schorsing of intrekking wordt niet genomen dan nadat de directeur daaromtrent overleg heeft gepleegd met de betrokken stichting en de raad voor de kinderbescherming. 
-3. De directeur doet van een besluit tot schorsing of intrekking mededeling aan de stichting en de raad voor de kinderbescherming.
+1. De directeur kan de tenuitvoerlegging van een machtiging als bedoeld in artikel 6.1.2 van de Jeugdwet schorsen, als de tenuitvoerlegging niet langer nodig is om te voorkomen dat de jeugdige zich aan de zorg die hij nodig heeft onttrekt of daaraan door anderen wordt onttrokken. De schorsing kan worden ingetrokken indien blijkt dat de tenuitvoerlegging nodig is om te voorkomen dat de jeugdige zich aan de zorg die hij nodig heeft onttrekt of daaraan door anderen wordt onttrokken. 
+2. Een besluit tot schorsing of intrekking wordt niet genomen dan nadat de directeur daaromtrent overleg heeft gepleegd met de betrokken gecertificeerde instelling en de raad voor de kinderbescherming. 
+3. De directeur doet van een besluit tot schorsing of intrekking mededeling aan de gecertificeerde instelling en de raad voor de kinderbescherming.
 
 ### Paragraaf  2  
 
@@ -502,7 +502,7 @@ d. indien de jeugdige hierom verzoekt en de directeur dit verzoek redelijk en ui
 3.  De directeur kan de afzondering, bedoeld in het eerste lid, op de grond van artikel 24, eerste lid, onder a of b, eenmaal voor ten hoogste één dag voor jeugdigen tot zestien jaar en ten hoogste twee dagen voor jeugdigen van zestien jaar en ouder verlengen, indien hij tot het oordeel is gekomen dat de noodzaak tot afzondering nog bestaat.   
 4.  Indien onverwijlde tenuitvoerlegging van de afzondering op de grond van artikel 24, eerste lid, onder a of b, geboden is, kan een personeelslid of medewerker een jeugdige voor een periode van ten hoogste vijftien uren in afzondering plaatsen. De directeur wordt van deze plaatsing onverwijld op de hoogte gesteld.   
 5.  De directeur draagt zorg dat tijdens de afzondering het nodige contact tussen personeelsleden en medewerkers van de inrichting en de jeugdige wordt gewaarborgd en naar aard en frequentie op de situatie van de jeugdige wordt afgestemd.   
-6.  De directeur draagt zorg dat ingeval de afzondering in een afzonderingscel langer dan vierentwintig uren duurt, de commissie van toezicht en de aan de inrichting verbonden arts of diens vervanger alsmede de ouders of voogd, stiefouder of pleegouders, de stichting, terstond hiervan in kennis worden gesteld.   
+6.  De directeur draagt zorg dat ingeval de afzondering in een afzonderingscel langer dan vierentwintig uren duurt, de commissie van toezicht en de aan de inrichting verbonden arts of diens vervanger alsmede de ouders of voogd, stiefouder of pleegouders dan wel de gecertificeerde instelling terstond hiervan in kennis worden gesteld.   
 7.  Onze Minister stelt nadere regels omtrent het verblijf in en de inrichting van de afzonderingscel. Deze betreffen in elk geval de rechten die tijdens het verblijf in de afzonderingscel aan de jeugdige toekomen.   
 8.  De directeur houdt van de oplegging van de maatregel van afzondering, bedoeld in het eerste lid, en de verlenging daarvan, bedoeld in het derde lid, aantekening in een register. Bij toepassing van het vierde lid wordt de aantekening door het betrokken personeelslid of medewerker gemaakt.  
 
@@ -517,16 +517,16 @@ d. indien de jeugdige hierom verzoekt en de directeur dit verzoek redelijk en ui
 2.  Indien de directeur van oordeel is dat van de in het eerste lid bedoelde omstandigheid sprake is, plaatst hij in overeenstemming met de selectiefunctionaris de jeugdige over.   
 3.  Over de verlenging van de afzondering waarvan de tenuitvoerlegging plaatsvindt in een andere inrichting of afdeling, beslist de directeur van de inrichting of de afdeling waarin de afzondering was opgelegd in overeenstemming met de selectiefunctionaris en gehoord de directeur van de inrichting of afdeling waar de tenuitvoerlegging van de afzondering plaatsvindt.   
 4.  Onze Minister stelt nadere regels omtrent de procedure van plaatsing, overplaatsing en verlenging van de afzondering ingevolge het tweede onderscheidenlijk het derde lid.   
-5.  De ouders of voogd, stiefouder of pleegouders, de stichting, worden van de beslissing, bedoeld in het eerste lid, onverwijld op de hoogte gesteld.   
+5.  De ouders of voogd, stiefouder of pleegouders dan wel de gecertificeerde instelling worden van de beslissing, bedoeld in het eerste lid, onverwijld op de hoogte gesteld.   
 6.  De directeur houdt van de tenuitvoerlegging van de maatregel van afzondering in een andere inrichting, bedoeld in het eerste lid en de verlenging daarvan, bedoeld in het derde lid, aantekening in een register.  
 
 ### Artikel  27  
 
 1.  De directeur is bevoegd een jeugdige, na overleg met een gedragsdeskundige en de selectiefunctionaris, tijdelijk over te plaatsen op de gronden, genoemd in artikel 24, eerste lid, onder a en b.   
-2.  De directeur neemt de beslissing tot tijdelijke plaatsing van de jeugdige die met een machtiging als bedoeld in artikel 29k, tweede lid, van de Wet op de jeugdzorg in een inrichting is geplaatst niet dan nadat hij daarvoor toestemming van de stichting heeft verkregen. Deze toestemming wordt niet gegeven zonder machtiging van de kinderrechter in de daartoe aangewezen gevallen. Voor de jeugdige aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd is de toestemming van Onze Minister noodzakelijk.   
+2.  De directeur neemt de beslissing tot tijdelijke plaatsing van de jeugdige die met een machtiging als bedoeld in artikel 6.2.2, tweede lid, van de Jeugdwet in een inrichting is geplaatst niet dan nadat hij daarvoor toestemming van de gecertificeerde instelling heeft verkregen. Deze toestemming wordt niet gegeven zonder machtiging van de kinderrechter in de daartoe aangewezen gevallen. Voor de jeugdige aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd is de toestemming van Onze Minister noodzakelijk.   
 3.  De tijdelijke plaatsing duurt ten hoogste veertien dagen. De directeur kan deze tijdelijke plaatsing eenmaal voor ten hoogste veertien dagen verlengen, indien hij na overleg met een gedragsdeskundige, de directeur van de inrichting waar de tijdelijke plaatsing ten uitvoer wordt gelegd en de selectiefunctionaris tot het oordeel is gekomen dat de noodzaak en de mogelijkheden hiertoe nog bestaan.   
 4.  Na de tenuitvoerlegging van de tijdelijke plaatsing dan wel de verlenging hiervan wordt de jeugdige teruggeplaatst in de inrichting waarin de maatregel werd opgelegd.   
-5.  De ouders of voogd, stiefouder of pleegouders, de stichting, worden van een beslissing als bedoeld in het eerste en derde lid, onverwijld op de hoogte gesteld.  
+5.  De ouders of voogd, stiefouder of pleegouders dan wel de gecertificeerde instelling worden van een beslissing als bedoeld in het eerste en derde lid, onverwijld op de hoogte gesteld.  
 
 ### Paragraaf  3  
 
@@ -544,7 +544,7 @@ b. ter voldoening aan een oproep van de rechter.
 
 ### Artikel  29  
 
-1.  De directeur stelt een jeugdige die in een inrichting verblijft op grond van de tenuitvoerlegging van een machtiging in een geval als bedoeld in artikel 29k, tweede lid, van de Wet op de jeugdzorg in de gelegenheid de inrichting ten minste eenmaal per zes weken voor een periode van ten minste twaalf uren te verlaten bij wijze van verlof. Artikel 30, tweede lid, is van overeenkomstige toepassing.   
+1.  De directeur stelt een jeugdige die in een inrichting verblijft op grond van de tenuitvoerlegging van een machtiging in een geval als bedoeld in artikel 6.2.2, tweede lid, van de Jeugdwet in de gelegenheid de inrichting ten minste eenmaal per zes weken voor een periode van ten minste twaalf uren te verlaten bij wijze van verlof. Artikel 30, tweede lid, is van overeenkomstige toepassing.   
 2.  De directeur kan van het in het eerste lid bepaalde afwijken, indien naar zijn redelijk oordeel: 
 
 a. de mogelijkheid voor de jeugdige ontbreekt om het verlof op verantwoorde wijze door te brengen;  
@@ -679,7 +679,7 @@ h. de commissie van toezicht, een beklagcommissie, of leden daarvan;
 
 i. diens rechtsbijstandverlener;  
 
-j. diens reclasseringsmedewerker of medewerkers van de stichting;  
+j. diens reclasseringsmedewerker of medewerkers van de gecertificeerde instelling;  
 
 k. diens ouders of voogd, stiefouder of pleegouders, behoudens ingeval zwaarwegende belangen van de jeugdige zich daartegen verzetten;  
 
@@ -766,7 +766,7 @@ c. de overbrenging van de jeugdige naar een ziekenhuis dan wel een andere instel
 ### Artikel  48  
 
 1.  De jeugdige heeft recht op sociale verzorging en hulpverlening.   
-2.  De directeur draagt zorg dat de maatschappelijk werkers van stichtingen, reclasseringswerkers en daarvoor in aanmerking komende gedragsdeskundigen de in het eerste lid omschreven zorg en hulp in de inrichting kunnen verlenen.   
+2.  De directeur draagt zorg dat de maatschappelijk werkers van gecertificeerde instellingen, reclasseringswerkers en daarvoor in aanmerking komende gedragsdeskundigen de in het eerste lid omschreven zorg en hulp in de inrichting kunnen verlenen.   
 3.  De directeur draagt zorg voor overbrenging van de jeugdige naar de daartoe bestemde plaats, indien de in het eerste lid omschreven zorg en hulp dit noodzakelijk maken en een dergelijke overbrenging zich verdraagt met de ongestoorde tenuitvoerlegging van de vrijheidsbeneming.  
 
 ### Artikel  49  
@@ -840,9 +840,9 @@ Behandeling van de jeugdige op een afdeling voor intensieve zorg als bedoeld in 
 
 a. voor zover deze is voorzien in het geneeskundig behandelingsplan bedoeld in artikel 51b, eerste lid  
 
-b. indien het overleg over het geneeskundig behandelingsplan, bedoeld in artikel 51b, eerste lid, heeft geleid tot overeenstemming met de jeugdige en, indien de jeugdige de leeftijd van zestien jaar nog niet heeft bereikt, met zijn ouders of voogd, stiefouder of pleegouders dan wel de stichting, en  
+b. indien het overleg over het geneeskundig behandelingsplan, bedoeld in artikel 51b, eerste lid, heeft geleid tot overeenstemming met de jeugdige en, indien de jeugdige de leeftijd van zestien jaar nog niet heeft bereikt, met zijn ouders of voogd, stiefouder of pleegouders dan wel de gecertificeerde instelling, en  
 
-c. indien de jeugdige of, indien de jeugdige de leeftijd van zestien jaar nog niet heeft bereikt, zijn ouders of voogd, stiefouder of pleegouders dan wel de stichting, zich niet tegen de geneeskundige behandeling verzetten.   
+c. indien de jeugdige of, indien de jeugdige de leeftijd van zestien jaar nog niet heeft bereikt, zijn ouders of voogd, stiefouder of pleegouders dan wel de gecertificeerde instelling, zich niet tegen de geneeskundige behandeling verzetten.   
 
 ### Artikel  51d  
 
@@ -857,7 +857,7 @@ b. voor zover dit volstrekt noodzakelijk is om het gevaar dat de stoornis van de
 1.  Behandeling overeenkomstig artikel 51d, onder a, vindt plaats na een schriftelijke beslissing van de directeur waarin wordt vermeld voor welke termijn zij geldt.   
 2.  Ten behoeve van deze beslissing dient te worden overgelegd een verklaring van de behandelend psychiater alsmede van een psychiater die de jeugdige met het oog daarop kort tevoren heeft onderzocht maar niet bij diens behandeling betrokken was. Uit de verklaringen dient te blijken dat de jeugdige op wie de verklaring betrekking heeft, is gestoord in zijn geestvermogens en dat een geval als bedoeld in artikel 51d, onder a, zich voordoet. De verklaringen moeten met redenen zijn omkleed en ondertekend.   
 3.  De beslissing als bedoeld in het eerste lid wordt gemeld aan de voorzitter van de Commissie van Toezicht. De voorzitter van de Commissie van Toezicht doet onverwijld een melding aan de maandcommissaris.   
-4.  De termijn als bedoeld in het eerste lid is zo kort mogelijk, maar niet langer dan drie maanden, gerekend vanaf de dag waarop de beslissing tot stand komt. De directeur doet onverwijld een afschrift van de beslissing toekomen aan de jeugdige en, indien de jeugdige de leeftijd van 16 jaar nog niet heeft bereikt, tevens aan zijn ouders of voogd, stiefouder of pleegouders dan wel de stichting.   
+4.  De termijn als bedoeld in het eerste lid is zo kort mogelijk, maar niet langer dan drie maanden, gerekend vanaf de dag waarop de beslissing tot stand komt. De directeur doet onverwijld een afschrift van de beslissing toekomen aan de jeugdige en, indien de jeugdige de leeftijd van 16 jaar nog niet heeft bereikt, tevens aan zijn ouders of voogd, stiefouder of pleegouders dan wel de gecertificeerde instelling.   
 5.  Indien na afloop van de termijn als bedoeld in het eerste lid, voortzetting van de behandeling overeenkomstig artikel 51d, onder a, nodig is, geschiedt dit slechts krachtens een schriftelijke beslissing van de directeur. Het bepaalde in de voorgaande volzin is eveneens van toepassing indien binnen zes maanden na afloop van de termijn als bedoeld in artikel 51d, onder a, opnieuw behandeling nodig is. De directeur geeft in zijn beslissing aan waarom van een behandeling alsnog het beoogde effect wordt verwacht. Op zodanige beslissingen is het vierde lid, tweede volzin, van toepassing.   
 6.  Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de toepassing van het eerste, tweede, vierde en vijfde lid alsmede omtrent de toepassing van artikel 51d, onder b.   
 7.  Deze in het zesde lid bedoelde regels betreffen in ieder geval de melding en de registratie van de behandeling alsmede de taak van de behandelend arts. Tevens kunnen categorieën van behandelingsmiddelen of -maatregelen worden aangewezen die niet mogen worden toegepast bij een behandeling overeenkomstig het eerste lid. Bij algemene maatregel van bestuur kunnen voorts ten aanzien van daarbij aangegeven categorieën van behandelingsmiddelen of -maatregelen regels worden gegeven met betrekking tot de wijze waarop tot toepassing daarvan moet worden besloten.  
@@ -934,7 +934,7 @@ e. geldboete tot een bedrag van ten hoogste het zakgeld, bedoeld in artikel 51, 
 
 1.  Van elke strafoplegging dan wel wijziging daarvan houdt de directeur aantekening in een register.   
 2.  Indien een straf ingevolge de hoofdstukken XII, XIII of XIV geheel of ten dele wordt herzien, houdt de directeur hiervan aantekening in een register.   
-3.  De ouders of voogd, stiefouder of pleegouders dan wel de stichting, worden van het opleggen van een straf, bedoeld in artikel 55, eerste lid, en van de redenen daarvan op de hoogte gesteld. Ten aanzien van jeugdigen van achttien jaar en ouder is de instemming van de jeugdige vereist.   
+3.  De ouders of voogd, stiefouder of pleegouders dan wel de gecertificeerde instelling, worden van het opleggen van een straf, bedoeld in artikel 55, eerste lid, en van de redenen daarvan op de hoogte gesteld. Ten aanzien van jeugdigen van achttien jaar en ouder is de instemming van de jeugdige vereist.   
 4.  De directeur kan van het doen van mededelingen omtrent de redenen voor het opleggen van de straf afzien indien: 
 
 a. de ouders, voogd, stiefouder of pleegouders te kennen hebben gegeven niet betrokken te willen worden bij het verblijf van de jeugdige in de inrichting;  
@@ -1036,7 +1036,7 @@ e. opname- en ontslaggegevens;
 f. de aantekening omtrent de oplegging van een disciplinaire straf als bedoeld in artikel 58, eerste lid;  
 
 g. adviezen en aantekeningen als bedoeld in artikel 77t, vijfde lid, van het Wetboek van Strafrecht.    
-2.  Bij algemene maatregel van bestuur worden nadere regels gesteld inzake de eisen waaraan het dossier ten minste moet voldoen, de gegevens die daarin moeten worden vastgelegd, het recht op inzage of afschrift van het dossier door de betrokken jeugdige en zijn ouders of voogd, stiefouders of pleegouders dan wel de stichting en de beperkingen daarop, de termijn gedurende welke het dossier moet worden bewaard, de wijze waarop het dossier moet worden beheerd, bewaard en, na afloop van de bewaartermijn, vernietigd, alsmede de overdracht van gegevens in geval van een overplaatsing van de jeugdige.   
+2.  Bij algemene maatregel van bestuur worden nadere regels gesteld inzake de eisen waaraan het dossier ten minste moet voldoen, de gegevens die daarin moeten worden vastgelegd, het recht op inzage of afschrift van het dossier door de betrokken jeugdige en zijn ouders of voogd, stiefouders of pleegouders dan wel de gecertificeerde instelling en de beperkingen daarop, de termijn gedurende welke het dossier moet worden bewaard, de wijze waarop het dossier moet worden beheerd, bewaard en, na afloop van de bewaartermijn, vernietigd, alsmede de overdracht van gegevens in geval van een overplaatsing van de jeugdige.   
 3.  Met toepassing van het bepaalde in artikel 464 van Boek 7 van het Burgerlijk Wetboek zijn de artikelen 454, 455 en 456 van dit boek niet van overeenkomstige toepassing.  
 
 ### Hoofdstuk  XII  
@@ -1214,7 +1214,7 @@ c. vernietiging van de uitspraak van de beklagcommissie.
 1.  De betrokkene heeft het recht tegen de beslissing van de selectiefunctionaris op het bezwaar- of verzoekschrift voor zover dit betreft een gehele of gedeeltelijke ongegrondverklaring, onderscheidenlijk afwijzing als bedoeld in de artikelen 18 en 19 een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in artikel 78, eerste lid. De betrokkene heeft ook het recht een beroepschrift in te dienen in het geval dat het indienen van een bezwaarschrift op de grond als vermeld in artikel 18, vijfde lid, achterwege is gebleven.   
 2.  De jeugdige heeft het recht tegen een hem betreffende beslissing aangaande verlof, voor zover hiertegen geen beklag ingevolge artikel 65, eerste en tweede lid, openstaat, een met redenen omkleed beroepschrift in te dienen bij de commissie, bedoeld in artikel 78, eerste lid.   
 3.  Het tweede lid is overeenkomstig van toepassing op de beslissing van Onze Minister, strekkende tot weigering van het verlenen van een machtiging tot deelname aan het scholings- en trainingsprogramma, na het verzoek, bedoeld in artikel 3, zesde lid. De jeugdige heeft ook het recht een beroepschrift in te dienen indien een tijdige beslissing op de aanvraag tot het verlenen van een machtiging uitblijft en tegen de beslissing tot intrekking van die machtiging door Onze Minister.  
-3.  Tegen een beslissing als bedoeld in artikel 51e, eerste lid, kan rechtstreeks beroep worden ingesteld bij de Raad. 
+4.  Tegen een beslissing als bedoeld in artikel 51e, eerste lid, kan rechtstreeks beroep worden ingesteld bij de Raad. 
 
 ### Artikel  78  
 

@@ -18,12 +18,12 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-1.  Met de opsporing van de strafbare feiten, waarop het Besluit Buitengewoon Strafrecht van toepassing is en van de gedragingen, genoemd in artikel 1 van het Tribunaalbesluit, zijn belast de ambtenaren, bedoeld in artikel 141 van het Wetboek van Strafvordering, alsmede de daartoe door Onzen Minister van Justitie aan te wijzen ambtenaren van politie.   
+1.  Met de opsporing van de strafbare feiten, waarop het Besluit Buitengewoon Strafrecht van toepassing is en van de gedragingen, genoemd in artikel 1 van het Tribunaalbesluit, zijn belast de ambtenaren, bedoeld in artikel 141 van het Wetboek van Strafvordering, alsmede de daartoe door Onze Minister van Veiligheid en Justitie aan te wijzen ambtenaren van politie.   
 2.   Zij richten zich bij de uitvoering van hun taak naar de bevelen, hun bij uitsluiting gegeven door of vanwege den procureur-fiscaal bij het Bijzonder Gerechtshof, binnen welks ressort zij standplaats hebben.  
 
 ### Artikel  2  
 
-Onze Minister van Justitie stelt uit de door hem ingevolge artikel 1 aan te wijzen ambtenaren der politie hoofden van politieke recherche aan, die elk in hun ambtsgebied belast zijn met de leiding van de opsporing der in artikel 1 bedoelde feiten en gedragingen, alsmede met de hun bij of krachtens dit besluit opgedragen werkzaamheden. Het tweede lid van artikel 1 is van toepassing. 
+Onze Minister van Veiligheid en Justitie stelt uit de door hem ingevolge artikel 1 aan te wijzen ambtenaren van politie hoofden van politieke recherche aan, die elk in hun ambtsgebied belast zijn met de leiding van de opsporing der in artikel 1 bedoelde feiten en gedragingen, alsmede met de hun bij of krachtens dit besluit opgedragen werkzaamheden. Het tweede lid van artikel 1 is van toepassing. 
 
 ### Afdeeling  II  
 
@@ -31,12 +31,12 @@ Onze Minister van Justitie stelt uit de door hem ingevolge artikel 1 aan te wijz
 
 ### Artikel  3  
 
-Onze Minister van Justitie benoemt op voordracht van den procureur-fiscaal officieren-fiscaal, die vanwege den procureur-fiscaal de hun door dezen verleende bevoegdheden uitoefenen. 
+Onze Minister van Veiligheid en Justitie benoemt op voordracht van den procureur-fiscaal officieren-fiscaal, die vanwege den procureur-fiscaal de hun door dezen verleende bevoegdheden uitoefenen. 
 
 ### Artikel  4  
 
 1.  Tot officier-fiscaal zijn benoembaar Nederlanders en Nederlandsche onderdanen, tevens ingezetenen van het Koninkrijk, die tenminste den leeftijd van vijf en twintig jaren hebben bereikt.   
-2.   De officieren-fiscaal genieten een bezoldiging overeenkomstig door Onzen Minister van Justitie vast te stellen regelen.  
+2.   De officieren-fiscaal genieten een bezoldiging overeenkomstig door Onze Minister van Veiligheid en Justitie vast te stellen regelen.  
 
 ### Artikel  5  
 
@@ -124,7 +124,7 @@ Ten aanzien van de bevoegdheden van den raadsman betreffende het verkeer met den
 
 4°. indien voortzetting van de bewaring, gezien den geestelijken of lichamelijken toestand van den bewaarde of de belangen van zijn gezin in verband met den ernst van de feiten en gedragingen, waarvan hij verdacht wordt, redelijkerwijze niet is gerechtvaardigd.     
 2.   Een bewaarde kan in vrijheid worden gesteld, indien te zijnen aanzien niet is gebleken, dat hij de belangen van den Staat in feite heeft geschaad dan wel het leven, de vrijheid of het goed van medeburgers in feite heeft in gevaar gebracht, terwijl geen gewichtige omstandigheden den ernst van de feiten en gedragingen, waarvan hij verdacht wordt, verzwaren.   
-3.   Indien de bewaarde, die krachtens een der beide voorgaande leden voor invrijheidstelling in aanmerking komt, een vreemdeling is, wordt het dossier in handen gesteld van het hoofd van plaatselijke politie van de gemeente, waarin de vreemdeling het laatst zijn woon- of verblijfplaats heeft gehad, en indien hij geen bekende woon- of verblijfplaats in Nederland heeft gehad, in handen van het hoofd van den Rijksvreemdelingendienst. Na ontvangst van het dossier wordt zoo spoedig mogelijk beslist of de vreemdeling al dan niet ten fine van uitleiding in bewaring zal blijven.  
+3.   Indien de bewaarde, die krachtens een der beide voorgaande leden voor invrijheidstelling in aanmerking komt, een vreemdeling is, wordt het dossier in handen gesteld van de korpschef en indien hij geen bekende woon- of verblijfplaats in Nederland heeft gehad, in handen van het hoofd van de Immigratie- en Naturalisatiedienst. Na ontvangst van het dossier wordt zoo spoedig mogelijk beslist of de vreemdeling al dan niet ten fine van uitleiding in bewaring zal blijven.  
 
 ### Artikel  15  
 
@@ -134,7 +134,7 @@ Ten aanzien van de bevoegdheden van den raadsman betreffende het verkeer met den
 ### Artikel  16  
 
 1.  Een bewaarde, die zich langer dan veertien dagen in bewaring bevindt, of zijn raadsman, kan een schriftelijk verzoek tot invrijheidstelling indienen bij het Bijzondere Gerechtshof of bij het Tribunaal.   
-2.   Op het verzoek wordt beslist door een raadsheer of raadsheer-plaatsvervanger in het Bijzondere Gerechtshof, daartoe voor den tijd van een jaar door Onzen Minister van Justitie op voordracht van den president aangewezen, of, indien een fiat-behandeling voor een Tribunaal is verleend, door het Tribunaal.   
+2.   Op het verzoek wordt beslist door een raadsheer of raadsheer-plaatsvervanger in het Bijzondere Gerechtshof, daartoe voor den tijd van een jaar door Onze Minister van Veiligheid en Justitie op voordracht van den president aangewezen, of, indien een fiat-behandeling voor een Tribunaal is verleend, door het Tribunaal.   
 3.   Een verkeerd gericht verzoek wordt zoo mogelijk aan het bevoegd college doorgezonden en anders teruggestuurd.   
 4.   Tijdens of na de behandeling ter zitting wordt het bevel tot invrijheidstelling uitsluitend gegeven door het college, voor hetwelk de zaak dient of het laatst gediend heeft, ambtshalve, op vordering van den procureur-fiscaal of op verzoek van den bewaarde of diens raadsman. Artikel 15, tweede lid, is van toepassing.  
 
@@ -151,7 +151,7 @@ Het verzoek kan buiten behandeling blijven:
 1.  De raadsheer of het Tribunaal geeft zoo spoedig mogelijk een schriftelijke beslissing, na desgeraden den bewaarde, diens raadsman en, voor zoover den raadsheer betreft, bovendien den procureur-fiscaal in de gelegenheid te hebben gesteld te worden gehoord.   
 2.   Verzoeken tot invrijheidstelling van hen, die na de inwerkingtreding van deze wet in bewaring zijn gesteld, worden behandeld bij voorrang boven alle andere verzoeken.   
 3.   Indien het verzoek wordt afgewezen, kan bij de beschikking een termijn worden vastgesteld, na afloop waarvan een herhaald verzoek niet buiten behandeling zal worden gelaten. De afloop van dezen termijn, die tenminste drie maanden na dagteekening der beschikking bedraagt, wordt zooveel doenlijk niet later gesteld dan het tijdstip, waarop naar het aanvankelijk oordeel van den raadsheer of het Tribunaal de bewaarde, ware hij reeds berecht, na het verstrijken van den duur van de straf of maatregel in vrijheid zou zijn gesteld.   
-4.   Na afloop van den termijn wordt een herhaald verzoek bij voorrang behandeld, mits dit verzoek wordt gedaan met gebruikmaking van een formulier van een daartoe door Onzen Minister van Justitie vastgesteld model. Een exemplaar van dit formulier wordt daartoe den bewaarde tegelijk met het afschrift der beslissing uitgereikt.   
+4.   Na afloop van den termijn wordt een herhaald verzoek bij voorrang behandeld, mits dit verzoek wordt gedaan met gebruikmaking van een formulier van een daartoe door Onze Minister van Veiligheid en Justitie vastgesteld model. Een exemplaar van dit formulier wordt daartoe den bewaarde tegelijk met het afschrift der beslissing uitgereikt.   
 5.   Ook van de overige afwijzende en van de toewijzende beslissingen wordt den bewaarde onverwijld een afschrift uitgereikt.  
 
 ### Afdeeling  VI  
@@ -311,7 +311,7 @@ Met ingang van het tijdstip van inwerkingtreding van dit besluit kan een Tribuna
 
 ### Artikel  35  
 
-Onze Minister van Justitie stelt regelen vast ter uitvoering van dit besluit. 
+Onze Minister van Veiligheid en Justitie stelt regelen vast ter uitvoering van dit besluit. 
 
 ### Artikel  36  
 

@@ -44,7 +44,7 @@ c. beschikking: een beschikking terzake van een subsidie, alsmede een beschikkin
 
 9°.dit onderdeel is nog niet in werking getreden;
 
-10°. de artikelen 9.2.2.3 en 11.2 van de Wet milieubeheer, voor zover die artikelen betrekking hebben op een handeling onderscheidenlijk werkzaamheid waarvoor bij algemene maatregel van bestuur op grond van artikel 9.2.2.3 onderscheidenlijk artikel 11.2 van de Wet milieubeheer is bepaald dat de beschikking in het geval en onder de voorwaarden, bedoeld in artikel 3, kan worden geweigerd, dan wel ingetrokken;  
+10°. de artikelen 9.2.3.3 en 11A.2 van de Wet milieubeheer voor zover die artikelen betrekking hebben op een handeling onderscheidenlijk werkzaamheid waarvoor bij algemene maatregel van bestuur op grond van artikel 9.2.3.3 onderscheidenlijk artikel 11A.2 van de Wet milieubeheer is bepaald dat de beschikking in het geval en onder de voorwaarden, bedoeld in artikel 3, kan worden geweigerd, dan wel ingetrokken;  
 
 11°. de artikelen 30b en 30h van de Wet op de kansspelen;  
 
@@ -52,7 +52,7 @@ c. beschikking: een beschikking terzake van een subsidie, alsmede een beschikkin
 
 13°. artikel 14, eerste lid, van de Wet strategische diensten;  
 
-14°. de artikelen 7, eerste lid, 30 en 33 van de Huisvestingswet; 
+14°. de artikelen 8, eerste lid, 21 en 22 van de Huisvestingswet 2014; 
 
 15°.artikel 15 van de Meststoffenwet.  
 
@@ -268,7 +268,7 @@ e. de wijze van financiering.
 ### Artikel  13  
 
 1.  Het Bureau kan ten behoeve van de uitvoering van de taak, bedoeld in artikel 9, de terzake bevoegde autoriteiten in het buitenland verzoeken na te gaan of aldaar strafrechtelijke gegevens bekend zijn van personen tot wie het onderzoek naar feiten en omstandigheden als bedoeld in de artikelen 3, tweede, derde en zesde lid, en 9, tweede en derde lid zich uitstrekt.   
-2.  Een verzoek als bedoeld in het eerste lid wordt uitsluitend door tussenkomst van de officier van justitie tot de bevoegde autoriteit gericht, met uitzondering van een verzoek dat is gebaseerd op het Kaderbesluit nr. 2009/315/JBZ van de Raad van de Europese Unie van 26 februari 2009 betreffende de organisatie en de inhoud van uitwisseling van gegevens uit het strafregister tussen de lidstaten (Pb EU L93/23), dat door tussenkomst van de Minister van Veiligheid en Justitie geschiedt.  
+2.  Een verzoek als bedoeld in het eerste lid wordt uitsluitend door tussenkomst van de officier van justitie tot de bevoegde autoriteit gericht, met uitzondering van een verzoek dat is gebaseerd op het Kaderbesluit nr. 2009/315/JBZ van de Raad van de Europese Unie van 26 februari 2009 betreffende de organisatie en de inhoud van uitwisseling van gegevens uit het strafregister tussen de lidstaten (Pb EU L93/23), dat door tussenkomst van Onze Minister geschiedt.  
 
 ### Artikel  14  
 
@@ -332,7 +332,7 @@ d. indien toepassing wordt gegeven aan:
 
 e. desgevraagd, ten behoeve van kwaliteitstoetsing, wetenschappelijk onderzoek en statistiek, met dien verstande dat de resultaten daarvan geen persoonsgegevens mogen bevatten en voorzover de persoonlijke levenssfeer van de geregistreerde daardoor niet onevenredig wordt geschaad;  
 
-f. de rechter.   
+f. ten behoeve van rechterlijke procedures of bezwaarprocedures waarbij het Bureau partij is.   
 
 ### Paragraaf  3.4  
 
@@ -396,7 +396,9 @@ b. Onze Minister, voorzover het bestanden betreft waarvan de gegevens worden ver
 
 3°. het openbaar ministerie;  
 
-4°. de registratie, bedoeld in artikel 1, onderdeel b, van de Wet controle op rechtspersonen;    
+4°. de registratie, bedoeld in artikel 1, onderdeel b, van de Wet controle op rechtspersonen;  
+
+5°. de bestanden waarvan de gegevens worden verwerkt door de Immigratie- en naturalisatiedienst;   
 
 c. Onze Minister van Economische Zaken, Landbouw en Innovatie, voorzover het bestanden betreft waarvan de gegevens worden verwerkt door de Nederlandse Voedsel- en Warenautoriteit;  
 
@@ -406,13 +408,11 @@ e. Onze Minister van Infrastructuur en Milieu, voorzover het bestanden betreft w
 
 f. de in artikel 1, onderdeel f, van de Wet politiegegevens bedoelde bestuursorganen, voorzover het een politieregister betreft;  
 
-g. het college van burgemeester en wethouders van een gemeente, voor zover het de verwerking van gegevens betreft voor de uitvoering van de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
+g. het college van burgemeester en wethouders van een gemeente, voor zover het de verwerking van gegevens betreft voor de uitvoering van de Participatiewet, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  
 
 h. het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank;  
 
-i. Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties voorzover het bestanden betreft waarvan de gegevens worden verwerkt door de Immigratie- en Naturalisatiedienst; 
-
-j. op voordracht van Onze Minister, gedaan in overeenstemming met Onze Minister wie het mede aangaat, bij algemene maatregel van bestuur aangewezen bestuursorganen. De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.     
+i. op voordracht van Onze Minister, gedaan in overeenstemming met Onze Minister wie het mede aangaat, bij algemene maatregel van bestuur aangewezen bestuursorganen. De voordracht voor een krachtens dit lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.     
 2.  De persoonsgegevens, bedoeld in het eerste lid, worden niet verstrekt indien: 
 
 a. zij zijn opgenomen in een bij algemene maatregel van bestuur aangewezen bestand,  
@@ -447,7 +447,7 @@ d. een andere deelnemer aan een regionaal samenwerkingsverband voor de aanpak va
 
 e. de adviescommissie, bedoeld in artikel 7:13 van de Algemene wet bestuursrecht;  
 
-f. degene die door Onze Minister is verzocht om een kwaliteitstoetsing ten aanzien van de adviezen van het Bureau te verrichten;  
+f. degene die door Onze Minister is verzocht om een kwaliteitstoetsing ten aanzien van de adviezen van het Bureau te verrichten, of degene die wetenschappelijk onderzoek of statistische activiteiten verricht, met dien verstande dat de resultaten daarvan geen persoonsgegevens mogen bevatten en voor zover de persoonlijke levenssfeer van de betrokkene daardoor niet onevenredig wordt geschaad;  
 
 g. de Algemene Rekenkamer;  
 

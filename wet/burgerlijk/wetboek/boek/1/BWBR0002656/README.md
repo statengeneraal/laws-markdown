@@ -260,8 +260,8 @@ b. de bewoner van het huis waar de geboorte heeft plaats gehad, of indien zulks 
 ### Artikel  19h  
 
 1.  Tot de aangifte van een overlijden is bevoegd wie daarvan uit eigen wetenschap kennis draagt.    
-2.   Binnen de in de Wet op de lijkbezorging (*Stb.* 1991, 130) gestelde termijn voor de begraving of verbranding, kan de persoon die in de lijkbezorging voorziet, door een in het eerste lid bedoelde persoon worden gemachtigd tot het doen van de aangifte.    
-3.   Wanneer tot de aangifte bevoegde personen ontbreken of nalaten binnen de in de Wet op de lijkbezorging gestelde termijn voor de begraving of verbranding de aangifte te doen, geschiedt deze door of vanwege de burgemeester van de gemeente alwaar de akte van overlijden moet worden opgemaakt.    
+2.   Binnen de in de Wet op de lijkbezorging (*Stb.* 1991, 130) gestelde termijn voor de begraving of crematie, kan de persoon die in de lijkbezorging voorziet, door een in het eerste lid bedoelde persoon worden gemachtigd tot het doen van de aangifte.    
+3.   Wanneer tot de aangifte bevoegde personen ontbreken of nalaten binnen de in de Wet op de lijkbezorging gestelde termijn voor de begraving of crematie de aangifte te doen, geschiedt deze door of vanwege de burgemeester van de gemeente alwaar de akte van overlijden moet worden opgemaakt.    
 4.   In de gevallen bedoeld in artikel 19*f*, tweede en derde lid, geschiedt de aangifte schriftelijk door de hulpofficier van justitie.   
 
 ### Artikel  19i  
@@ -696,7 +696,7 @@ Wanneer het huwelijk binnen een jaar, te rekenen van de datum van de akte van hu
 ### Artikel  47  
 
 1.  Indien een minderjarige een huwelijk wenst aan te gaan, onderzoekt de ambtenaar van de burgerlijke stand, van welke personen daartoe de toestemming wordt vereist.    
-2.   Voorts onderzoekt die ambtenaar of de minderjarige onder toezicht gesteld is of onder voorlopige voogdij is geplaatst. Blijkt dit het geval, dan verwittigt hij bij ondertoezichtstelling de kinderrechter en in het andere geval de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg onverwijld van het voorgenomen huwelijk.   
+2.   Voorts onderzoekt die ambtenaar of de minderjarige onder toezicht gesteld is of onder voorlopige voogdij is geplaatst. Blijkt dit het geval, dan verwittigt hij bij ondertoezichtstelling de kinderrechter en in het andere geval de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet onverwijld van het voorgenomen huwelijk.   
 
 ### Artikel  48  
 
@@ -915,7 +915,7 @@ Wordt in een geding betwist dat een kind, dat uiterlijk bezit van staat heeft, u
 5.  Een partnerschapsregistratie kan worden gestuit, indien partijen niet de vereisten in zich verenigen om de registratie aan te gaan, dan wel wanneer het oogmerk van de aanstaande geregistreerde partners, of één hunner, niet is gericht op de vervulling van de door de wet aan de partnerschapsregistratie verbonden plichten, doch op het verkrijgen van toelating tot Nederland. Op een stuiting zijn de artikelen 51, 52, 53, tweede en derde lid, en 54 tot en met 56 van overeenkomstige toepassing. Het openbaar ministerie is verplicht een partnerschapsregistratie te stuiten, indien het met een van de in de artikelen 31, 32, 41 en in het eerste en tweede lid van dit artikel omschreven beletselen bekend is. Indien aan de ambtenaar van de burgerlijke stand een van de in de vorige zin genoemde beletselen bekend is, mag hij niet tot een aangifte of registratie meewerken, ook al zou geen stuiting hebben plaatsgehad.   
 6.  Ter zake van de partnerschapsregistratie zijn de artikelen 31, 32, 35 tot en met 39, 41, 44 tot en met 49, 58, en 62 tot en met 66 van overeenkomstige toepassing.   
 7.  Op de nietigverklaring van een partnerschapsregistratie zijn van overeenkomstige toepassing de artikelen 69 tot en met 73, 74, 75 tot en met 77, eerste lid en tweede lid.   
-8.  Op het bewijs van het bestaan van de partnerschapsregistratie zijn de artikelen 78 en 79 van overeenkomstige toepassing.  
+8.  Op het bewijs van het bestaan van de partnerschapsregistratie zijn de artikelen 78, 79 en 80 van overeenkomstige toepassing.  
 
 ### Artikel  80b  
 
@@ -1457,7 +1457,7 @@ Vóór of na de beschikking tot echtscheiding kunnen de echtgenoten bij overeenk
 
 ### Artikel  159a  
 
-Een overeenkomst als bedoeld in de artikelen 158 en 159 van dit boek staat niet in de weg aan verhaal op grond van paragraaf 6.5 van de Wet werk en bijstand en laat de vaststelling van het te verhalen bedrag onverlet.  
+Een overeenkomst als bedoeld in de artikelen 158 en 159 van dit boek staat niet in de weg aan verhaal op grond van paragraaf 6.5 van de Participatiewet en laat de vaststelling van het te verhalen bedrag onverlet.  
 
 ### Artikel  160  
 
@@ -1876,7 +1876,7 @@ Minderjarigen zijn zij, die de ouderdom van achttien jaren niet hebben bereikt e
 2.  De wet bepaalt de taken en bevoegdheden van de raad voor de kinderbescherming. Deze worden door de raad voor de kinderbescherming namens onze Minister van Justitie uitgevoerd.   
 3.  Ten behoeve van de vervulling van zijn taak houdt de raad zich in ieder geval op de hoogte van de ontwikkeling van de kinderbescherming, bevordert hij de samenwerking met de instellingen van kinderbescherming en jeugdhulpverlening en dient hij op verzoek of uit eigen beweging autoriteiten en instellingen van advies.   
 4.  Zijn bemoeiingen laten de godsdienstige of levensbeschouwelijke grondslag van de instellingen van kinderbescherming onverlet.    
-5.  Bij algemene maatregel van bestuur worden de zetel, de werkwijze, voor zover het de samenwerking met de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, betreft en de organisatie van de raad geregeld.  
+5.  Bij algemene maatregel van bestuur worden de zetel, de werkwijze, voor zover het de samenwerking met de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet, betreft en de organisatie van de raad geregeld.  
 
 ### Artikel  239  
 
@@ -1892,17 +1892,21 @@ Degene die op grond van een wettelijk voorschrift of op grond van zijn ambt of b
 
 ### Artikel  241  
 
-1.  Indien de raad voor de kinderbescherming blijkt, dat een minderjarige niet onder het wettelijk vereiste gezag staat, of dat dit gezag niet over hem wordt uitgeoefend, verzoekt hij de rechter in de gezagsuitoefening over deze minderjarige te voorzien.    
-2.  Indien dit ter voorkoming van ernstig gevaar voor de zedelijke of geestelijke belangen of voor de gezondheid van zulk een minderjarige dringend en onverwijld noodzakelijk is, kan de kinderrechter een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, belasten met de voorlopige voogdij over de minderjarige. De raad voor de kinderbescherming wendt zich in dit geval binnen zes weken tot de rechter teneinde een voorziening in het gezag over deze minderjarige te verkrijgen.   
-3.  De in het tweede lid bedoelde maatregel kan eveneens worden getroffen indien een minderjarige, de leeftijd van zes maanden nog niet bereikt hebbende en niet staande onder voogdij van een rechtspersoon, zonder voorafgaande schriftelijke toestemming van de raad voor de kinderbescherming als pleegkind is opgenomen.   
-4.  De kinderrechter beschikt op verzoek van de raad voor de kinderbescherming of van de officier van justitie. Hij stelt vast welke bevoegdheden ten aanzien van persoon en vermogen van deze minderjarige worden toegekend en bepaalt de duur van de maatregel.   
-5.  De maatregel vervalt na verloop van zes weken na de dag van de beschikking, tenzij voor het einde van deze termijn om een voorziening in het gezag over de minderjarige is verzocht. De kinderrechter kan deze termijn op ten hoogste twaalf weken bepalen, dit evenwel uitsluitend op de grond dat het in de eerste volzin bedoelde verzoek aan de vereisten van artikel 278 van het Wetboek van Burgerlijke Rechtsvordering zal kunnen voldoen.   
-6.  De maatregel kan worden ingetrokken of gewijzigd door de kinderrechter die haar heeft bevolen tenzij een verzoek als bedoeld in het vijfde lid is ingediend. In dat geval beslist de rechter bij wie dit verzoek aanhangig is.  
-7. In afwijking van het tweede lid, kan de rechter de voorlopige voogdij over een minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000 is ingediend, en in verband daarmee in Nederland verblijft, alsmede over door Onze Minister van Justitie aan te wijzen categorieën andere minderjarigen, opdragen aan een rechtspersoon als bedoeld in artikel 302, tweede lid.
+1.  Indien de raad voor de kinderbescherming blijkt, dat een minderjarige niet onder het wettelijk vereiste gezag staat, of dat dit gezag niet over hem wordt uitgeoefend, verzoekt hij de rechter in de gezagsuitoefening over deze minderjarige te voorzien.   
+2.  De kinderrechter kan op verzoek van de raad voor de kinderbescherming of het openbaar ministerie een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet, belasten met de voorlopige voogdij over de minderjarige indien het dringend en onverwijld noodzakelijk is om in de gezagsuitoefening over de minderjarige te voorzien teneinde de belangen van de minderjarige te kunnen behartigen.   
+3.  De in het tweede lid bedoelde maatregel kan eveneens worden getroffen indien een minderjarige, die de leeftijd van zes maanden nog niet bereikt heeft en niet staat onder voogdij van een rechtspersoon, zonder voorafgaande schriftelijke toestemming van de raad voor de kinderbescherming als pleegkind is opgenomen. Onder pleegkind wordt in dit verband verstaan: een minderjarige die bij anderen dan zijn ouders, voogd of bloed- en aanverwanten tot en met de derde graad wordt verzorgd en opgevoed, met dien verstande, dat daaronder niet is begrepen: 
+
+a. een minderjarige, op wiens verzorging en opvoeding krachtens de bepalingen van een andere wet toezicht wordt uitgeoefend door anderen dan zijn ouders of voogd;  
+
+b. een minderjarige, die verzorgd en opgevoed wordt in een inrichting, welke, wat betreft de verzorging en opvoeding van de daarin verblijvende minderjarigen, aan toezicht krachtens de bepalingen van een andere wet is onderworpen.     
+4.  De maatregel vervalt na verloop van drie maanden na de dag van de beschikking, tenzij voor het einde van deze termijn om een voorziening in het gezag over de minderjarige is verzocht.   
+5.  De maatregel kan worden ingetrokken of gewijzigd door de kinderrechter die haar heeft bevolen tenzij een verzoek als bedoeld in het vierde lid is ingediend. In dat geval beslist de rechter bij wie dit verzoek aanhangig is.   
+6.  In afwijking van het tweede lid kan de kinderrechter de voorlopige voogdij over een minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000 is ingediend, en in verband daarmee in Nederland verblijft, alsmede over door Onze Minister van Justitie aan te wijzen categorieën andere minderjarigen, opdragen aan een rechtspersoon als bedoeld in artikel 302, tweede lid.  
+7.  De raad voor de kinderbescherming kan een onderzoek instellen naar de leefsituatie van een minderjarige die duurzaam wordt verzorgd en opgevoed bij anderen dan degenen die het ouderlijke gezag of de voogdij over hem uitoefenen, het gezin waarin hij wordt verzorgd en opgevoed of de wijze waarop het gezag of de voogdij over hem wordt uitgeoefend, indien er een redelijk vermoeden bestaat dat de minderjarige in strijd met een wettelijk voorschrift in dat gezin is opgenomen. 
 
 ### Artikel  241a  
 
-Op de uitoefening van de voorlopige voogdij door een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg is artikel 243 van dit Boek van overeenkomstige toepassing. 
+Op de uitoefening van de voorlopige voogdij door een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet is artikel 243 van dit Boek van overeenkomstige toepassing. 
 
 ### Artikel  242  
 
@@ -1998,7 +2002,7 @@ b. wijziging van het gezag anderszins in het belang van het kind noodzakelijk is
 
 a. één of beide ouders onbevoegd is tot het gezag; of   
 
-b. één van beide ouders is ontheven of ontzet van het gezag en de andere ouder het gezag uitoefent; of   
+b. het gezag van één van beide ouders is beëindigd en de andere ouder het gezag uitoefent; of   
 
 c. een voogd met het gezag over het kind is belast; of   
 
@@ -2009,7 +2013,7 @@ e. de ouder die het gezag heeft, dit gezamenlijk met een ander dan een ouder uit
 
 ### Artikel  253  
 
-1.  Indien gewezen echtgenoten met elkaar hertrouwen dan wel een geregistreerd partnerschap aangegaan en onmiddellijk daaraan voorafgaande één der echtgenoten het gezag over de minderjarige kinderen uitoefende, herleeft van rechtswege het gezamenlijk gezag, tenzij een der echtgenoten onbevoegd is tot dit gezag of daarvan is ontheven of ontzet dan wel het gezag gezamenlijk met een ander dan de ouder uitoefent.    
+1.  Indien gewezen echtgenoten met elkaar hertrouwen dan wel een geregistreerd partnerschap aangegaan en onmiddellijk daaraan voorafgaande één der echtgenoten het gezag over de minderjarige kinderen uitoefende, herleeft van rechtswege het gezamenlijk gezag, tenzij een der echtgenoten onbevoegd is tot dit gezag of dat gezag is beëindigd dan wel het gezag gezamenlijk met een ander dan de ouder uitoefent.    
 2.   De echtgenoot voor wie het gezag niet is herleefd, kan de rechtbank verzoeken hem daarmede te belasten. Dit verzoek wordt slechts afgewezen, indien gegronde vrees bestaat dat bij inwilliging de belangen van de kinderen zouden worden verwaarloosd.    
 3.   Het eerste en tweede lid zijn van overeenkomstige toepassing, indien door verzoening van de echtgenoten een scheiding van tafel en bed eindigt.    
 4.  Het eerste en tweede lid zijn van overeenkomstige toepassing indien gewezen geregistreerde partners die gezamenlijk gezag uitoefenden over het kind, opnieuw met elkaar een geregistreerd partnerschap aangaan dan wel met elkaar huwen.   
@@ -2083,14 +2087,14 @@ Na de dood van een der ouders oefent de overlevende ouder van rechtswege het gez
 
 1.  Indien van de ouders diegene overlijdt die het gezag over hun minderjarige kinderen alleen uitoefent, bepaalt de rechter dat de overlevende ouder of een derde met het gezag over deze kinderen wordt belast.    
 2.   De rechter doet dit op verzoek van de raad voor de kinderbescherming, de overlevende ouder of ambtshalve.    
-3.   Het verzoek om de overlevende ouder met het gezag te belasten wordt slechts afgewezen, indien gegronde vrees bestaat dat bij inwilliging de belangen van de kinderen zouden worden verwaarloosd.    
+3.   Het verzoek om de overlevende ouder met het gezag te belasten wordt slechts afgewezen, indien de rechter oordeelt dat het belang van de minderjarige zich tegen inwilliging verzet.    
 4.   De bepaling van het voorgaande lid is mede van toepassing indien de overleden ouder een voogd had aangewezen overeenkomstig artikel 292 van dit boek.  
 
 ### Artikel  253h  
 
 1.  Indien na het overlijden van één der ouders een voogd is benoemd, kan de rechter deze beslissing te allen tijde in dier voege wijzigen, dat de overlevende ouder mits deze daartoe bevoegd is, alsnog met het gezag wordt belast.    
 2.   Hij gaat hiertoe slechts over op verzoek van de overlevende ouder, en niet dan op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.    
-3.   Wanneer de andere ouder een voogd had aangewezen overeenkomstig artikel 292 van dit boek en deze inmiddels is opgetreden, is dit artikel van overeenkomstige toepassing met dien verstande dat, mits het verzoek van de overlevende ouder binnen één jaar na het begin van de voogdij wordt gedaan, dit verzoek slechts wordt afgewezen indien gegronde vrees bestaat dat bij inwilliging de belangen van de kinderen zouden worden verwaarloosd.   
+3.   Wanneer de andere ouder een voogd had aangewezen overeenkomstig artikel 292 van dit boek en deze inmiddels is opgetreden, is dit artikel van overeenkomstige toepassing met dien verstande dat, mits het verzoek van de overlevende ouder binnen één jaar na het begin van de voogdij wordt gedaan, dit verzoek slechts wordt afgewezen indien de rechter oordeelt dat het belang van de minderjarige zich tegen inwilliging verzet.   
 
 ### §  2a  
 
@@ -2117,7 +2121,7 @@ Na de dood van een der ouders oefent de overlevende ouder van rechtswege het gez
 
 a. indien de rechter bij de beschikking waarbij de uitoefening van het gezag over het kind aan een van de ouders wordt opgedragen op eensluidend verzoek van de ouders of op verzoek van één van hen, mits de ander zich daartegen niet verzet, heeft bepaald dat de ouder die niet het gezag over het kind zal uitoefenen, het bewind over het vermogen van het kind zal voeren;   
 
-b. ingevolge artikel 276, tweede lid, van dit boek, bij ontheffing of ontzetting van het gezag;   
+b. ingevolge artikel 276, tweede lid, van dit boek, bij beëindiging van het gezag;   
 
 c. indien hij die een minderjarige goederen schenkt of vermaakt, bij de gift, onderscheidenlijk bij de uiterste wilsbeschikking, heeft bepaald dat een ander het bewind over die goederen zal voeren.      
 5.   In het laatstbedoelde geval zijn de ouders, of - indien een ouder het gezag alleen uitoefent - die ouder, bevoegd van de bewindvoerder rekening en verantwoording te vragen.    
@@ -2134,7 +2138,7 @@ Op het bewind van de ouders of een ouder zijn de artikelen 342, tweede lid, 344 
 ### Artikel  253l  
 
 1.  Elke ouder die het gezag over zijn kind uitoefent, heeft het vruchtgenot van diens vermogen. Indien het kind bij de ouder inwoont en anders dan incidenteel inkomen uit arbeid geniet, is het verplicht naar draagkracht bij te dragen in de kosten van de huishouding van het gezin.    
-2.   Het eerste lid is van overeenkomstige toepassing in geval de ouder van het gezag is ontheven, tenzij de andere ouder het gezag uitoefent.    
+2.   Het eerste lid is van overeenkomstige toepassing in geval het gezag van de ouder is beëindigd, tenzij de andere ouder het gezag uitoefent.    
 3.   Aan bedoeld vruchtgenot zijn de lasten verbonden, die op vruchtgebruikers rusten.   
 
 ### Artikel  253m  
@@ -2164,24 +2168,24 @@ De ouder heeft geen vruchtgenot van het vermogen, ten aanzien waarvan bij uiters
 
 1.  Wanneer een van de ouders die gezamenlijk het gezag over hun minderjarige kinderen uitoefenen, op een der in artikel 246 genoemde gronden daartoe onbevoegd is, oefent de andere ouder alleen het gezag over de kinderen uit. Wanneer de grond van de onbevoegdheid is weggevallen, herleeft van rechtswege het gezamenlijke gezag.    
 2.   Wanneer beide ouders die gezamenlijk het gezag over hun minderjarige kinderen uitoefenen, daartoe op een der in artikel 246 genoemde gronden onbevoegd zijn, benoemt de rechtbank een voogd.    
-3.   Wanneer een ouder die alleen het gezag uitoefent, op een der in artikel 246 genoemde gronden daartoe onbevoegd is, belast de rechtbank de andere ouder met het gezag, tenzij gegronde vrees bestaat dat de belangen van de kinderen zouden worden verwaarloosd. Alsdan benoemt zij een voogd.    
-4.   De in het tweede en derde lid bedoelde beslissingen worden gegeven op verzoek van een ouder, bloed- of aanverwanten van de minderjarige, de raad voor de kinderbescherming of ambtshalve.    
-5.   Wanneer de grond van de onbevoegdheid van de in het derde lid eerstgenoemde ouder is vervallen, wordt hij, op zijn verzoek, wederom met het gezag belast, indien de rechtbank overtuigd is dat het kind wederom aan de ouder mag worden toevertrouwd. Op verzoek van de ouders of een van hen kan zij de ouders gezamenlijk met het gezag belasten.  
+3.   Wanneer een ouder die alleen het gezag uitoefent, op een der in artikel 246 genoemde gronden daartoe onbevoegd is, belast de rechtbank de andere ouder met het gezag, tenzij de rechter oordeelt dat het belang van de minderjarige zich hiertegen verzet. Alsdan benoemt zij een voogd.    
+4.   De in het tweede en derde lid bedoelde beslissingen worden gegeven op verzoek van een ouder, bloed- of aanverwanten van de minderjarige, de raad voor de kinderbescherming, de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet, een rechtspersoon een daartoe door Onze Minister van Veiligheid en Justitie aanvaarde rechtspersoon als bedoeld in artikel 256, eerste lid, en artikel 302, tweede lid, of ambtshalve.    
+5.  Wanneer de grond van de onbevoegdheid ten aanzien van de ouder die het gezag alleen uitoefende, is vervallen, belast de rechtbank deze ouder op zijn verzoek wederom met het gezag tenzij de rechtbank oordeelt dat het belang van de minderjarige zich hiertegen verzet. Op verzoek van de ouders of een van hen kan hij de ouders gezamenlijk met het gezag belasten.  
 
 ### Artikel  253r  
 
-1.  Het bepaalde in artikel 253*q* van dit boek is van overeenkomstige toepassing, indien:  
+1.  Artikel 253q is van overeenkomstige toepassing, indien: 
 
-a. één of beide ouders al dan niet tijdelijk in de onmogelijkheid verkeert het gezag uit te oefenen; of   
+a. de ouders of de ouder die het gezag uitoefenen al dan niet tijdelijk in de onmogelijkheid verkeren het gezag uit te oefenen; of  
 
-b. het bestaan of de verblijfplaats van één of beide ouders onbekend is.      
-2.   Het gezag dat aan één of beide ouders toekomt, is geschorst gedurende de tijd waarin een van de in het eerste lid bedoelde omstandigheden zich voordoet.   
+b. het bestaan of de verblijfplaats van de ouders of van één van hen die het gezag uitoefenen, onbekend is.     
+2.  In het geval een der ouders het gezag alleen uitoefent overeenkomstig artikel 253q, eerste lid, is gedurende de tijd waarin een van de in het eerste lid bedoelde omstandigheden zich voordoet het gezag van de andere ouder geschorst. In de overige gevallen is het gezag geschorst totdat de rechter de ouders of een van hen wederom met het gezag belast. In afwijking van artikel 253q kan de rechter dit slechts doen indien aan de vereisten gesteld in artikel 277, eerste lid, is voldaan. 
 
 ### Artikel  253s  
 
 1.  Indien het kind met instemming van zijn ouders die het gezag over hem uitoefenen, gedurende ten minste een jaar door een of meer anderen als behorende tot het gezin is verzorgd en opgevoed, kunnen de ouders slechts met toestemming van degenen die de verzorging en opvoeding op zich hebben genomen, wijziging in het verblijf van het kind brengen.    
-2.   Voor zover de volgens het vorige lid vereiste toestemmingen niet worden verkregen, kunnen zij op verzoek van de ouders door die van de rechtbank worden vervangen. Dit verzoek wordt slechts afgewezen, indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.    
-3.   In geval van afwijzing van het verzoek is de beschikking van kracht gedurende een door de rechtbank te bepalen termijn, welke de duur van zes maanden niet te boven mag gaan. Is echter voor het einde van deze termijn een verzoek tot ondertoezichtstelling van het kind, dan wel tot ontheffing of ontzetting van een of beide ouders aanhangig gemaakt, dan blijft de beschikking gelden, totdat op het verzoek bij gewijsde is beslist.   
+2.   Voor zover de volgens het vorige lid vereiste toestemmingen niet worden verkregen, kunnen zij op verzoek van de ouders door die van de rechtbank worden vervangen. Dit verzoek wordt slechts afgewezen indien de kinderrechter dit in het belang van de minderjarige noodzakelijk oordeelt.    
+3.   In geval van afwijzing van het verzoek is de beschikking van kracht gedurende een door de rechtbank te bepalen termijn, welke de duur van zes maanden niet te boven mag gaan. Is echter voor het einde van deze termijn een verzoek tot ondertoezichtstelling van het kind, dan wel tot beëindiging van het gezag van een of beide ouders aanhangig gemaakt, dan blijft de beschikking gelden, totdat op het verzoek bij gewijsde is beslist.   
 
 ### Afdeling  3A  
 
@@ -2224,12 +2228,12 @@ Het gezamenlijk gezag begint op de dag waarop de beslissing die de benoeming inh
 
 ### Artikel  253v  
 
-1.  Op de gezamenlijke gezagsuitoefening door de ouder en de ander zijn de artikelen 246, 247, 249, 250, 253a, 253j tot en met 253m, 253q, eerste lid, alsmede 253r van overeenkomstige toepassing.    
+1.  Op de gezamenlijke gezagsuitoefening door de ouder en de ander zijn de artikelen 246, 247, 249, 250, 253a, 253j tot en met 253m, 253q, eerste lid, 253r alsmede 253s van overeenkomstige toepassing.   
 2.   Artikel 253i is van overeenkomstige toepassing, tenzij de met het gezag belaste ouder het bewind niet voert ingevolge artikel 253i, vierde lid, onder a of c.    
 3.  Artikel 253n is van overeenkomstige toepassing. De rechtbank geeft geen beslissing tot beëindiging van het gezamenlijk gezag, bedoeld in artikel 253t, dan nadat zij de ouders of de niet met het gezag belaste ouder in de gelegenheid heeft gesteld te verzoeken in het belang van het kind de ouders gezamenlijk met het gezag over het kind te belasten of de niet met het gezag belaste ouder daarmee te belasten.   
 4.  Indien de rechtbank na beëindiging van het gezamenlijk gezag van de ouder en de ander, deze ander met de voogdij heeft belast, kan zij te allen tijde wegens wijziging van omstandigheden op verzoek van de ouders of van één van hen in het belang van het kind één ouder met het gezag of de ouders met het gezamenlijk gezag belasten.   
 5.   Artikel 253q, tweede lid, is van overeenkomstige toepassing met dien verstande dat de rechtbank geen voogd benoemt dan nadat zij de niet met het gezag belaste ouder in de gelegenheid heeft gesteld te verzoeken in het belang van het kind hem met het gezag over het kind te belasten. Het verzoek, bedoeld in artikel 253q, tweede lid, kan tevens door de ander dan de ouder worden gedaan.    
-6.  De afdelingen 4 en 5 van deze titel zijn van overeenkomstige toepassing op het gezamenlijk gezag van de ouder en de ander, met dien verstande dat in geval van ontheffing of ontzetting van de ouder die gezamenlijk met de ander het gezag uitoefent, de ander niet alleen met het gezag wordt belast dan nadat de rechtbank de niet met het gezag belaste ouder in de gelegenheid heeft gesteld te verzoeken hem met het gezag over het kind te belasten.   
+6.  De afdelingen 4 en 5 van deze titel zijn van overeenkomstige toepassing op het gezamenlijk gezag van de ouder en de ander, met dien verstande dat in geval van beëindiging van het gezag van de ouder die gezamenlijk met de ander het gezag uitoefent, de ander niet alleen met het gezag wordt belast dan nadat de rechtbank de niet met het gezag belaste ouder in de gelegenheid heeft gesteld te verzoeken hem met het gezag over het kind te belasten.   
 
 ### Paragraaf  3  
 
@@ -2298,197 +2302,226 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 ### Artikel  254  
 
-1. Indien een minderjarige zodanig opgroeit, dat zijn zedelijke of geestelijke belangen of zijn gezondheid ernstig worden bedreigd, en andere middelen ter afwending van deze bedreiging hebben gefaald of, naar is te voorzien, zullen falen, kan de kinderrechter hem onder toezicht stellen van een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg. 
-2. De kinderrechter kan een in het eerste lid bedoelde minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000 is ingediend en die in verband daarmee in een opvangcentrum als bedoeld in artikel 1, onder d, van de Wet Centraal Orgaan opvang asielzoekers verblijft, onder toezicht stellen van een daartoe door Onze Minister van Justitie aanvaarde rechtspersoon. 
-3. Onze Minister van Justitie kan voorwaarden stellen bij of voorschriften verbinden aan de aanvaarding, bedoeld in het tweede lid, en de rechtspersoon voor een bepaalde tijd aanvaarden. 
-4. De kinderrechter kan een minderjarige onder toezicht stellen op verzoek van een ouder, een ander die de minderjarige als behorende tot zijn gezin verzorgt en opvoedt, de raad voor de kinderbescherming, of het openbaar ministerie. 
-5. Op verzoek van de stichting, dan wel op verzoek van de met het gezag belaste ouder of de minderjarige van twaalf jaren of ouder, kan de kinderrechter de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, die het toezicht heeft, vervangen door een zodanige stichting in een andere provincie. De raad voor de kinderbescherming is bevoegd het in de vorige volzin bedoelde verzoek in te dienen, indien de raad van oordeel blijft dat de uithuisplaatsing niet op de voet van artikel 263, eerste lid, dient te worden beëindigd. Indien ten tijde van een verlenging van de duur van de ondertoezichtstelling niet meer wordt voldaan aan de eisen voor benoembaarheid, bedoeld in het tweede lid, vervangt de kinderrechter ambtshalve de door Onze Minister van Justitie aanvaarde rechtspersoon door een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, tenzij voortzetting van de taken door bedoelde rechtspersoon hem om reden van continuïteit noodzakelijk voorkomt. 
-6. Op een rechtspersoon als bedoeld in het tweede lid, zijn de bepalingen van de afdelingen 4 en 5 alsmede artikel 326 van overeenkomstige toepassing. In geval van vervanging op de voet van het vijfde lid van de in het tweede lid bedoelde rechtspersoon, wordt de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg in de provincie waar de desbetreffende minderjarige duurzaam verblijft benoemd.
+In deze afdeling wordt verstaan onder gecertificeerde instelling: gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet. 
 
 ### Artikel  255  
 
-De kinderrechter kan hangende het onderzoek de minderjarige voorlopig onder toezicht stellen indien dit dringend en onverwijld noodzakelijk is. Hij bepaalt de duur van dit voorlopige toezicht op ten hoogste drie maanden en kan de beslissing te allen tijde herroepen.  
+1.  De kinderrechter kan een minderjarige onder toezicht stellen van een gecertificeerde instelling indien een minderjarige zodanig opgroeit dat hij in zijn ontwikkeling ernstig wordt bedreigd, en: 
+
+a. de zorg die in verband met het wegnemen van de bedreiging noodzakelijk is voor de minderjarige of voor zijn ouders of de ouder die het gezag uitoefenen, door dezen niet of onvoldoende wordt geaccepteerd, en  
+
+b. de verwachting gerechtvaardigd is dat de ouders of de ouder die het gezag uitoefenen binnen een gelet op de persoon en de ontwikkeling van de minderjarige aanvaardbaar te achten termijn, de verantwoordelijkheid voor de verzorging en opvoeding, bedoeld in artikel 247, tweede lid, in staat zijn te dragen.     
+2.  De kinderrechter kan een minderjarige onder toezicht stellen op verzoek van de raad voor de kinderbescherming of het openbaar ministerie. Tevens zijn een ouder en degene die niet de ouder is en de minderjarige als behorende tot zijn gezin verzorgt en opvoedt bevoegd tot het doen van het verzoek indien de raad voor de kinderbescherming niet tot indiening van het verzoek overgaat.   
+3.  Indien de raad niet tot indiening van een verzoek tot ondertoezichtstelling overgaat nadat hij een verzoek tot onderzoek als bedoeld in artikel 2.4, eerste lid, van de Jeugdwet heeft ontvangen, deelt hij dit schriftelijk mee aan het college van burgemeester en wethouders dat het verzoek heeft gedaan. De burgemeester kan na ontvangst van die mededeling de raad voor de kinderbescherming verzoeken het oordeel van de kinderrechter te vragen of het noodzakelijk is de minderjarige onder toezicht te stellen van een gecertificeerde instelling. De raad voor de kinderbescherming die van de burgemeester zodanig verzoek ontvangt, vraagt binnen twee weken na de dagtekening van dat verzoek het oordeel van de kinderrechter of een ondertoezichtstelling van de minderjarige moet volgen. In dat geval kan de kinderrechter de ondertoezichtstelling ambtshalve uitspreken.   
+4.  De kinderrechter vermeldt in de beschikking de concrete bedreigingen in de ontwikkeling van de minderjarige alsmede de daarop afgestemde duur waarvoor de ondertoezichtstelling zal gelden.   
+5.  Indien het verzoek, bedoeld in het tweede lid, niet alle minderjarigen betreft over wie de ouders of de ouder het gezag uitoefenen, kan de kinderrechter dit op verzoek van de raad voor de kinderbescherming of ambtshalve aanvullen, en deze minderjarigen, mits aan de grond van het eerste lid is voldaan, eveneens onder toezicht stellen.  
 
 ### Artikel  256  
 
-1.  De kinderrechter bepaalt de duur van de ondertoezichtstelling op ten hoogste een jaar.    
-2.   De kinderrechter kan de duur telkens voor ten hoogste een jaar verlengen. Hij kan dit doen op verzoek van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, een ouder, een ander die de minderjarige als behorende tot zijn gezin verzorgt en opvoedt, de raad voor de kinderbescherming of het openbaar ministerie.   
-3.   Indien de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg niet overgaat tot een verzoek tot verlenging doet zij hiervan zo spoedig mogelijk en onder overlegging van een verslag van het verloop van de ondertoezichtstelling mededeling aan de raad voor de kinderbescherming.    
-4.   De kinderrechter kan de ondertoezichtstelling opheffen indien de grond daarvoor niet langer bestaat. Hij kan dit doen op verzoek van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, de met het gezag belaste ouder of de minderjarige van twaalf jaren of ouder.   
+1.  De kinderrechter kan een minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000 is ingediend en die in verband daarmee in een centrum als bedoeld in artikel 1, onder d, van de Wet Centraal Orgaan opvang asielzoekers verblijft, onder toezicht stellen van een daartoe door Onze Minister van Justitie aanvaarde rechtspersoon.   
+2.  Onze Minister van Justitie kan voorwaarden stellen bij of voorschriften verbinden aan de aanvaarding, bedoeld in het eerste lid, en de rechtspersoon voor een bepaalde tijd aanvaarden.   
+3.  Op de ondertoezichtstelling en een rechtspersoon als bedoeld in het eerste lid zijn de bepalingen van de afdelingen 4 en 5 alsmede artikel 326 van overeenkomstige toepassing.   
+4.  In geval van vervanging van de rechtspersoon op grond van artikel 259, wordt een gecertificeerde instelling benoemd die een contract of een subsidierelatie heeft met de gemeente waar de minderjarige zijn woonplaats als bedoeld in de Jeugdwet heeft. Hetzelfde geldt indien de rechtspersoon niet meer voldoet aan de eisen voor benoeming, bedoeld in het eerste lid, in welk geval de kinderrechter ambtshalve tot vervanging overgaat, tenzij voortzetting van de taken door bedoelde rechtspersoon om reden van continuïteit noodzakelijk is.  
 
 ### Artikel  257  
 
-1.  De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg houdt toezicht op de minderjarige en zorgt dat aan de minderjarige en de met het gezag belaste ouder hulp en steun worden geboden teneinde de bedreiging van de zedelijke of geestelijke belangen of de gezondheid van de minderjarige af te wenden.    
-2.   Deze hulp en steun zijn erop gericht de met het gezag belaste ouder de verantwoordelijkheid voor de verzorging en opvoeding zoveel mogelijk te doen behouden. Bij algemene maatregel van bestuur, op de voordracht van Onze Ministers van Justitie en van Volksgezondheid, Welzijn en Sport, kunnen regels worden gesteld omtrent de aard en de omvang van de hulp en steun.   
-3.   Indien het leeftijds- en ontwikkelingsniveau van de minderjarige en diens bekwaamheid en behoefte zelfstandig te handelen en zijn leven naar eigen inzicht in te richten daartoe noodzaken, zijn de hulp en steun, meer dan op het vergroten van de mogelijkheden van de ouders om hun kind te verzorgen en op te voeden, gericht op het vergroten van de zelfstandigheid van de minderjarige.    
-4.   De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg bevordert de gezinsband tussen de met het gezag belaste ouder en de minderjarige.   
+1.  De kinderrechter kan de minderjarige voorlopig onder toezicht stellen van een gecertificeerde instelling indien een ernstig vermoeden bestaat dat de grond, bedoeld in artikel 255, eerste lid, is vervuld en de maatregel noodzakelijk is om een acute en ernstige bedreiging voor de minderjarige weg te nemen.   
+2.  Het tweede lid van artikel 255 is van overeenkomstige toepassing. De kinderrechter bepaalt de duur van dit toezicht op ten hoogste drie maanden en kan de beslissing te allen tijde herroepen.  
 
 ### Artikel  258  
 
-1.  De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg kan ter uitvoering van haar taak schriftelijk aanwijzingen geven betreffende de verzorging en opvoeding van de minderjarige.    
-2.   De met het gezag belaste ouder en de minderjarige dienen deze aanwijzingen op te volgen.    
-3.   Plaatsing van de minderjarige gedurende dag en nacht buiten het gezin geschiedt, behoudens in de gevallen dat de met het gezag belaste ouder daartoe zonder bezwaar van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg overgaat, alleen krachtens artikel 261.   
+De duur van de ondertoezichtstelling is, behoudens verlenging als bedoeld in artikel 260, ten hoogste een jaar. De duur van de voorlopige ondertoezichtstelling komt hierop niet in mindering. 
 
 ### Artikel  259  
 
-1.  Op verzoek van de met het gezag belaste ouder of de minderjarige van twaalf jaren of ouder kan de kinderrechter een aanwijzing geheel of gedeeltelijk vervallen verklaren. Het verzoek heeft geen schorsende kracht, tenzij de kinderrechter het tegendeel bepaalt.    
-2.   Bij de indiening van het verzoek wordt de beslissing van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg overgelegd.    
-3.   De termijn voor het indienen van het verzoek bij de kinderrechter bedraagt twee weken en vangt aan met ingang van de dag na die waarop de beslissing is toegezonden of uitgereikt.    
-4.   Ten aanzien van een na afloop van de termijn ingediend verzoek blijft niet-ontvankelijkverklaring op grond daarvan achterwege indien de verzoeker redelijkerwijs niet geoordeeld kan worden in verzuim te zijn geweest.   
+De kinderrechter kan de gecertificeerde instelling die het toezicht heeft, vervangen door een andere gecertificeerde instelling, op verzoek van de gecertificeerde instelling die het toezicht heeft, de raad voor de kinderbescherming, een met het gezag belaste ouder of de minderjarige van twaalf jaar of ouder. 
 
 ### Artikel  260  
 
-1.  De met het gezag belaste ouder en de minderjarige van twaalf jaren of ouder kunnen de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg verzoeken een aanwijzing wegens gewijzigde omstandigheden geheel of gedeeltelijk in te trekken.    
-2.   De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg geeft een schriftelijke beslissing binnen twee weken na ontvangst van het verzoek.    
-3.   Artikel 259 is van overeenkomstige toepassing.    
-4.   Het niet of niet tijdig nemen van een beslissing door de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg wordt voor de toepassing van deze bepaling gelijkgesteld met afwijzing van het verzoek. De termijn voor het indienen van het verzoek bij de kinderrechter loopt in dat geval door zolang de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg niet heeft beslist en eindigt, indien de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg alsnog beslist, twee weken daarna.   
+1.  De kinderrechter kan, mits aan de grond, bedoeld in artikel 255, eerste lid, is voldaan, de duur van de ondertoezichtstelling telkens verlengen met ten hoogste een jaar.   
+2.  De kinderrechter kan de ondertoezichtstelling verlengen op verzoek van de gecertificeerde instelling die het toezicht heeft. Indien deze gecertificeerde instelling niet tot een verzoek overgaat, zijn de raad voor de kinderbescherming, een ouder, degene die niet de ouder is en de minderjarige als behorende tot zijn gezin verzorgt en opvoedt en het openbaar ministerie bevoegd tot het doen van het verzoek.  
 
 ### Artikel  261  
 
-1.  Indien dit noodzakelijk is in het belang van de verzorging en opvoeding van de minderjarige of tot onderzoek van diens geestelijke of lichamelijke gesteldheid, kan de kinderrechter de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg op haar verzoek machtigen de minderjarige gedurende dag en nacht uit huis te plaatsen. De machtiging kan eveneens worden verleend op verzoek van de raad voor de kinderbescherming of van het openbaar ministerie.   
-2.  Indien de uithuisplaatsing betrekking heeft op zorg als bedoeld in artikel 5, tweede lid, van de Wet op de jeugdzorg, is het verzoek gericht op effectuering van het besluit, bedoeld in artikel 6, eerste lid, van die wet. Dit besluit wordt bij het verzoek overgelegd. Indien de uithuisplaatsing geen betrekking heeft op zorg als bedoeld in artikel 5, tweede lid, van de Wet op de jeugdzorg, wordt bij het verzoek vermeld voor welke verblijfplaats de machtiging wordt gevraagd.   
-3.  In afwijking van de eerste volzin van het tweede lid kan in de gevallen, omschreven in de regels, gesteld krachtens artikel 3, vijfde lid, van de Wet op de jeugdzorg en van artikel 9b, tweede lid, van de Algemene Wet Bijzondere Ziektekosten een machtiging tot uithuisplaatsing worden verleend zonder een daartoe strekkend besluit. De machtiging tot uithuisplaatsing geldt in dat geval totdat een besluit als bedoeld in artikel 6, eerste lid, van de Wet op de jeugdzorg is genomen. De kinderrechter kan bepalen dat de machtiging tot uithuisplaatsing van kracht blijft indien het besluit, bedoeld in artikel 6, eerste lid, van de Wet op de jeugdzorg strekt tot uithuisplaatsing.   
-4.  De kinderrechter kan eveneens een machtiging tot uithuisplaatsing verlenen zonder dat daarbij een besluit als bedoeld in artikel 6, eerste lid, van de Wet op de jeugdzorg wordt overgelegd, indien het verzoek daartoe wordt gedaan door de raad voor de kinderbescherming en de stichting, bedoeld in artikel 1, onder f, van die wet geen besluit strekkend tot uithuisplaatsing neemt. In deze gevallen wordt bij het verzoek vermeld voor welke verblijfplaats de machtiging wordt gevraagd. Indien de kinderrechter de machtiging verleent, is de stichting gehouden deze ten uitvoer te leggen, tenzij de raad met niet-tenuitvoerlegging instemt.   
-5. Voor opneming en verblijf als bedoeld in artikel 29b, eerste lid, of 29c, eerste lid, van de Wet op de jeugdzorg is geen machtiging als bedoeld in het eerste lid vereist, doch een machtiging als bedoeld in genoemde artikelleden. Deze machtiging geldt voor de toepassing van de artikelen 258, derde lid, 268, tweede lid, 269, eerste lid, onder d, en 327, eerste lid, onder g, als een machtiging als bedoeld in het eerste lid. 
+1.  De kinderrechter kan de ondertoezichtstelling opheffen indien de grond, bedoeld in artikel 255, eerste lid, niet langer is vervuld.   
+2.  Hij kan dit doen op verzoek van de gecertificeerde instelling die het toezicht heeft. Indien deze gecertificeerde instelling niet tot een verzoek overgaat, zijn de raad voor de kinderbescherming, een met het gezag belaste ouder of de minderjarige van twaalf jaar of ouder bevoegd tot het doen van het verzoek.  
 
 ### Artikel  262  
 
-1.  De kinderrechter bepaalt de duur van de machtiging tot uithuisplaatsing op ten hoogste een jaar. Op verzoek van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg of van de raad voor de kinderbescherming kan hij de duur telkens met ten hoogste een jaar verlengen.    
-2.   Indien de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg niet overgaat tot een verzoek tot verlenging, doet zij hiervan zo spoedig mogelijk en onder overlegging van een verslag van het verloop van de uithuisplaatsing mededeling aan de raad voor de kinderbescherming.    
-3.   Een machtiging vervalt, indien deze gedurende drie maanden niet ten uitvoer is gelegd.   
+1.  De gecertificeerde instelling houdt toezicht op de minderjarige en zorgt dat aan de minderjarige en de met het gezag belaste ouders of ouder hulp en steun worden geboden opdat de concrete bedreigingen in de ontwikkeling van de minderjarige, bedoeld in artikel 255, vijfde lid, binnen de duur van de ondertoezichtstelling worden weggenomen. De inspanningen van de gecertificeerde instelling zijn erop gericht de ouders of de ouder zoveel mogelijk de verantwoordelijkheid voor de verzorging en opvoeding van hun kinderen te laten dragen.   
+2.  Indien het ontwikkelingsniveau van de minderjarige en diens bekwaamheid en behoefte zelfstandig te handelen en zijn leven naar eigen inzicht in te richten daartoe aanleiding geven, zijn de inspanningen van de gecertificeerde instelling dienovereenkomstig mede gericht op het vergroten van de zelfstandigheid van de minderjarige.   
+3.  De gecertificeerde instelling bevordert de gezinsband tussen de met het gezag belaste ouders of ouder en de minderjarige.  
+
+### Artikel  262a  
+
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/442. 
+1.  De stichting stelt ter uitvoering van haar taak als eerste de ouder of ouders met gezag in de gelegenheid om samen met bloedverwanten, aanverwanten of anderen die tot de sociale omgeving behoren binnen zes weken een plan van aanpak op te stellen of een bestaand plan aan te passen. Slechts indien de concrete bedreigingen in de ontwikkeling van het kind hiertoe aanleiding geven of de belangen van het kind anderszins geschaad worden, kan de stichting hiervan afzien.   
+2.  Indien het plan van aanpak geschikt is om binnen de duur van de ondertoezichtstelling de concrete bedreigingen, bedoeld in artikel 255, vijfde lid, weg te nemen, geldt het als het plan, bedoeld in artikel 13, derde lid, van de Wet op de jeugdzorg. Indien het plan van aanpak naar het oordeel van de stichting niet geschikt is om de concrete bedreigingen weg te nemen, deelt de stichting dit binnen vijf werkdagen na de aanbieding van het plan van aanpak gemotiveerd aan de ouder of ouders met gezag mede, en stelt zij hen in de gelegenheid om het plan van aanpak binnen twee weken aan te passen. Indien de stichting binnen deze termijn geen aangepast plan van aanpak ontvangt of een plan van aanpak ontvangt dat naar haar oordeel evenmin geschikt is om de concrete bedreigingen weg te nemen, stelt zij alsnog zelf een plan als bedoeld in artikel 13, derde lid, van de Wet op de jeugdzorg op.   
+3.  Op verzoek van een met het gezag belaste ouder of de minderjarige van twaalf jaar of ouder kan de kinderrechter het plan van aanpak laten gelden als het plan, bedoeld in artikel 13, derde lid, van de Wet op de jeugdzorg. Artikel 264, tweede en derde lid, zijn van overeenkomstige toepassing.  
+
+### Artikel  262b  
+
+Geschillen die de uitvoering van de ondertoezichtstelling betreffen, die omtrent gedragingen als bedoeld in artikel 4.2.1 van de Jeugdwet, uitgezonderd, kunnen aan de kinderrechter worden voorgelegd. De kinderrechter neemt op verzoek van een met het gezag belaste ouder, de minderjarige van twaalf jaar of ouder, de gecertificeerde instelling, degene die de minderjarige als behorende tot zijn gezin verzorgt en opvoedt, of de zorgaanbieder of de aanbieder van de jeugdhulp als bedoeld in artikel 1.1 van de Jeugdwet, waar de minderjarige is geplaatst, een zodanige beslissing als hem in het belang van de minderjarige wenselijk voorkomt. Hij beproeft alvorens te beslissen een vergelijk tussen de betrokkenen. 
 
 ### Artikel  263  
 
-1.  Een uithuisplaatsing kan worden beëindigd door de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg. De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, doet hiervan zo spoedig mogelijk en onder overlegging van een verslag van het verloop van de uithuisplaatsing mededeling aan de raad voor de kinderbescherming.    
-2.   De met het gezag belaste ouder, een ander die de minderjarige als behorende tot zijn gezin verzorgt en opvoedt en de minderjarige van twaalf jaren of ouder kunnen wegens gewijzigde omstandigheden de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg verzoeken:  
-
-a. de uithuisplaatsing te beëindigen;   
-
-b. de duur ervan te bekorten;   
-
-c. af te zien van een krachtens de machtiging toegestane wijziging van de verblijfplaats van de minderjarige. Onder wijziging van de verblijfplaats wordt mede verstaan de plaatsing van de minderjarige bij de ouder die het gezag heeft.      
-3.  De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg geeft een schriftelijke beslissing binnen twee weken na ontvangst van het verzoek.    
-4.   Op verzoek van de in het tweede lid genoemde personen kan de kinderrechter de machtiging geheel of gedeeltelijk intrekken of de duur ervan bekorten. Artikel 259, eerste lid, tweede volzin, tweede, derde en vierde lid, alsmede artikel 260, vierde lid, zijn van toepassing.   
-
-### Artikel  263a  
-
-1.  Voor zover noodzakelijk met het oog op het doel van de uithuisplaatsing van een minderjarige als bedoeld in artikel 261, kan de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg voor de duur van de uithuisplaatsing de contacten tussen de met het gezag belaste ouder en het kind beperken.    
-2.   De beslissing van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg geldt als een aanwijzing. Artikel 259 en artikel 260 zijn van overeenkomstige toepassing, met dien verstande dat de kinderrechter een zodanige regeling kan vaststellen als hem in het belang van het kind wenselijk voorkomt.   
-
-### Artikel  263b  
-
-1.  Voor de duur van de maatregel kan de kinderrechter op verzoek van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg een rechterlijke beslissing tot vaststelling van een regeling inzake de uitoefening van het omgangsrecht wijzigen voor zover dat noodzakelijk is met het oog op het doel van de ondertoezichtstelling.    
-2.   Op het verzoek van de met het gezag belaste ouder, de omgangsgerechtigde, de minderjarige van twaalf jaren of ouder en de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg kan de kinderrechter de in het eerste lid genoemde beslissing wijzigen op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.    
-3.   Zodra de ondertoezichtstelling is geëindigd, geldt een ingevolge deze bepaling vastgestelde regeling als een regeling bedoeld in artikel 377a dan wel 377f.   
+1.  De gecertificeerde instelling kan ter uitvoering van haar taak schriftelijke aanwijzingen geven betreffende de verzorging en opvoeding van de minderjarige. Zij kan dit doen indien de met het gezag belaste ouder of de minderjarige niet instemmen met, dan wel niet of onvoldoende medewerking verlenen aan de uitvoering van het plan, bedoeld in artikel 4.1.3, eerste lid, van de Jeugdwet of indien dit noodzakelijk is teneinde de concrete bedreigingen in de ontwikkeling van de minderjarige weg te nemen.   
+2.  De met het gezag belaste ouders of ouder en de minderjarige volgen een schriftelijke aanwijzing op.   
+3.  De gecertificeerde instelling kan de kinderrechter verzoeken een schriftelijke aanwijzing te bekrachtigen. Tegelijkertijd kan een door de wet toegelaten dwangmiddel worden verzocht bij niet nakoming van deze aanwijzing tenzij het belang van het kind zich tegen oplegging daarvan verzet.  
 
 ### Artikel  264  
 
-Indien een medische behandeling van een minderjarige jonger dan twaalf jaren noodzakelijk is om ernstig gevaar voor diens gezondheid te voorkomen en de ouder die het gezag heeft zijn toestemming daarvoor weigert, kan deze toestemming op verzoek van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg worden vervangen door die van de kinderrechter.  
+1.  Op verzoek van een met het gezag belaste ouder of de minderjarige van twaalf jaar of ouder kan de kinderrechter een schriftelijke aanwijzing geheel of gedeeltelijk vervallen verklaren. Het verzoek heeft geen schorsende kracht, tenzij de kinderrechter het tegendeel bepaalt.   
+2.  Bij de indiening van het verzoek wordt de beslissing van de gecertificeerde instelling overgelegd.   
+3.  De termijn voor het indienen van het verzoek bedraagt twee weken en vangt aan met ingang van de dag na die waarop de beslissing is verzonden of uitgereikt.   
+4.  Ten aanzien van een na afloop van deze termijn ingediend verzoek blijft niet-ontvankelijkverklaring achterwege indien de verzoeker redelijkerwijs niet geoordeeld kan worden in verzuim te zijn geweest.  
 
 ### Artikel  265  
 
-1.  Verzoeken op grond van artikel 254, vijfde lid, en de artikelen 256-264 moeten schriftelijk worden gedaan. Voor zover zij zich tot de kinderrechter richten, kunnen zij worden ingediend zonder advocaat.    
-2.   De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg die een verzoek indient of wordt opgeroepen, zendt bij het verzoekschrift of onverwijld na de oproep, het plan, bedoeld in artikel 13, derde lid, van de Wet op de jeugdzorg en een verslag van het verloop van de ondertoezichtstelling aan de kinderrechter.    
-3.   Het plan en het verslag, bedoeld in het tweede lid, worden eveneens gezonden aan de raad voor de kinderbescherming.    
-4.   De verzoeken die de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg ter uitvoering van haar taak tot de rechter richt, kunnen worden ingediend zonder advocaat en worden kosteloos behandeld; de grossen, afschriften en uittreksels, die zij tot dat doel aanvraagt, worden haar door de griffiers vrij van alle kosten uitgereikt.   
+1.  Op verzoek van degene aan wie de aanwijzing is gericht, kan de gecertificeerde instelling een schriftelijke aanwijzing wegens gewijzigde omstandigheden geheel of gedeeltelijk intrekken.   
+2.  De gecertificeerde instelling geeft haar beslissing schriftelijk en binnen twee weken na ontvangst van het verzoek.   
+3.  Artikel 264 is van overeenkomstige toepassing.   
+4.  Het niet of niet tijdig nemen van een beslissing door de gecertificeerde instelling staat gelijk met afwijzing van het verzoek. De termijn voor het indienen van het verzoek aan de kinderrechter loopt in dat geval door zolang de gecertificeerde instelling niet heeft beslist en eindigt, indien de gecertificeerde instelling alsnog beslist, na verloop van twee weken te rekenen met ingang van de dag waarop de beslissing is verzonden of uitgereikt.  
+
+### Artikel  265a  
+
+Plaatsing van de minderjarige gedurende dag en nacht buiten het gezin geschiedt uitsluitend met een machtiging tot uithuisplaatsing. 
+
+### Artikel  265b  
+
+1.  Indien dit noodzakelijk is in het belang van de verzorging en opvoeding van de minderjarige of tot onderzoek van diens geestelijke of lichamelijke gesteldheid, kan de kinderrechter de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet, die belast is met de uitvoering van de ondertoezichtstelling op haar verzoek machtigen de minderjarige gedurende dag en nacht uit huis te plaatsen.   
+2.  De machtiging kan eveneens worden verleend op verzoek van de raad voor de kinderbescherming of op verzoek van het openbaar ministerie. De raad voor de kinderbescherming of het openbaar ministerie legt bij het verzoek, bedoeld in het eerste lid, het besluit van het college van burgemeester en wethouders, bedoeld in artikel 2.3, eerste lid, van de Jeugdwet over.   
+3.  De kinderrechter kan in afwijking van het tweede lid een machtiging tot uithuisplaatsing verlenen zonder dat het college van burgemeester en wethouders een daartoe strekkend besluit heeft genomen, indien het belang van het kind dit vergt.   
+4.  Voor opneming en verblijf als bedoeld in artikel 6.1.2, eerste lid, of 6.1.3, eerste lid, van de Jeugdwet is geen machtiging als bedoeld in het eerste lid vereist, doch een machtiging als bedoeld in genoemde artikelleden. Deze machtiging geldt voor de toepassing van artikel 265a als een machtiging als bedoeld in het eerste lid.  
+
+### Artikel  265c  
+
+1.  De duur van de machtiging tot uithuisplaatsing is, behoudens verlenging als bedoeld in het tweede lid, ten hoogste een jaar. Indien een minderjarige voorlopig onder toezicht is gesteld en gelijktijdig een machtiging tot uithuisplaatsing is verleend, komt de duur hiervan niet in mindering op de termijn van ten hoogste een jaar.   
+2.  Op verzoek van de gecertificeerde instelling kan de kinderrechter de duur telkens met ten hoogste een jaar verlengen. Indien de gecertificeerde instelling niet overgaat tot een verzoek, kan verlenging plaatsvinden op verzoek van de raad voor de kinderbescherming of het openbaar ministerie.   
+3.  Een machtiging vervalt indien deze na verloop van drie maanden niet ten uitvoer is gelegd.  
+
+### Artikel  265d  
+
+1.  Een uithuisplaatsing kan door de gecertificeerde instelling worden beëindigd indien deze niet langer noodzakelijk is in het belang van de verzorging en opvoeding van de minderjarige of tot het verrichten van het onderzoek, bedoeld in artikel 265b, eerste lid, en het belang van de minderjarige zich tegen beëindiging niet verzet.   
+2.  De met het gezag belaste ouder, de minderjarige van twaalf jaar of ouder of een ander die de minderjarige als behorende tot zijn gezin verzorgt en opvoedt kunnen wegens gewijzigde omstandigheden de gecertificeerde instelling verzoeken: 
+
+a. de uithuisplaatsing te beëindigen;  
+
+b. de duur ervan te bekorten;  
+
+c. af te zien van een krachtens de machtiging toegestane wijziging van de verblijfplaats van de minderjarige, tenzij de toestemming reeds met toepassing van artikel 265i is verleend.     
+3.  De gecertificeerde instelling geeft een schriftelijke beslissing binnen twee weken na ontvangst van het verzoek.   
+4.  Op verzoek van een in het tweede lid genoemde persoon kan de kinderrechter de machtiging geheel of gedeeltelijk intrekken of de duur ervan bekorten. Artikel 264, eerste lid, tweede volzin, tweede tot en met vierde lid, alsmede artikel 265, vierde lid, zijn van toepassing.  
+
+### Artikel  265e  
+
+1.  De kinderrechter kan bij de verlening van de machtiging tot uithuisplaatsing en ook nadat deze machtiging is verleend, op verzoek bepalen dat het gezag gedeeltelijk wordt uitgeoefend door de gecertificeerde instelling die het toezicht uitoefent, voor zover dit noodzakelijk is in verband met de uitvoering van de ondertoezichtstelling. Hij kan dit doen met betrekking tot: 
+
+a. de aanmelding van de minderjarige bij een onderwijsinstelling,  
+
+b. het geven van toestemming voor een medische behandeling van de minderjarige jonger dan twaalf jaar of van de minderjarige van twaalf jaar of ouder die niet in staat kan worden geacht tot een redelijke waardering van zijn belangen terzake, of  
+
+c. het doen van een aanvraag tot het verlenen van een verblijfsvergunning ten behoeve van de minderjarige als bedoeld in de artikelen 14 of 28 van de Vreemdelingenwet 2000.     
+2.  De duur van de gedeeltelijke uitoefening van het gezag is niet langer dan die van de verleende machtiging tot uithuisplaatsing.   
+3.  De kinderrechter kan de duur van de gedeeltelijke uitoefening van het gezag telkens met ten hoogste een jaar verlengen.   
+4.  Op verzoek kan een beslissing als bedoeld in het eerste of derde lid wegens gewijzigde omstandigheden worden gewijzigd.   
+5.  De verzoeken, bedoeld in het eerste, derde en vierde lid, kunnen worden gedaan door de gecertificeerde instelling die het toezicht uitoefent. Indien deze gecertificeerde instelling niet tot een verzoek overgaat, zijn de raad voor de kinderbescherming of degene die niet de ouder is en de minderjarige als behorende tot zijn gezin verzorgt en opvoedt bevoegd tot het doen van het verzoek.  
+
+### Artikel  265f  
+
+1.  Voor zover noodzakelijk in verband met de uithuisplaatsing van de minderjarige, kan de gecertificeerde instelling voor de duur daarvan de contacten tussen een met het gezag belaste ouder en de minderjarige beperken.   
+2.  De beslissing van de gecertificeerde instelling geldt als een schriftelijke aanwijzing. Artikel 264 en artikel 265 zijn van overeenkomstige toepassing, met dien verstande dat de kinderrechter een zodanige regeling kan vaststellen als hem in het belang van de minderjarige wenselijk voorkomt.  
+
+### Artikel  265g  
+
+1.  Voor de duur van de ondertoezichtstelling kan de kinderrechter op verzoek van de gecertificeerde instelling een verdeling van de zorg- en opvoedingstaken of een regeling inzake de uitoefening van het recht op omgang vaststellen of wijzigen voor zover dit in het belang van de minderjarige noodzakelijk is.   
+2.  Op het verzoek van een met het gezag belaste ouder, een omgangsgerechtigde, de minderjarige van twaalf jaar of ouder en de gecertificeerde instelling kan de kinderrechter de in het eerste lid genoemde beslissing wijzigen op grond dat nadien de omstandigheden zijn gewijzigd, of dat bij het nemen van de beslissing van onjuiste of onvolledige gegevens is uitgegaan.   
+3.  Zodra de ondertoezichtstelling is geëindigd, geldt de op grond van het eerste lid vastgestelde regeling als een regeling als bedoeld in artikel 253a, tweede lid, onder a, dan wel artikel 377a, tweede lid.  
+
+### Artikel  265h  
+
+1.  Indien een medische behandeling van een minderjarige jonger dan twaalf jaar noodzakelijk is om ernstig gevaar voor diens gezondheid af te wenden en de ouder die het gezag uitoefent zijn toestemming daarvoor weigert, kan deze toestemming op verzoek van de gecertificeerde instelling worden vervangen door die van de kinderrechter.   
+2.  Het eerste lid is van overeenkomstige toepassing ten aanzien van een medische behandeling van een minderjarige van twaalf jaar of ouder die niet in staat kan worden geacht tot een redelijke waardering van zijn belangen terzake.  
+
+### Artikel  265i  
+
+1.  De gecertificeerde instelling behoeft de toestemming van de kinderrechter voor wijziging in het verblijf van een minderjarige die ten minste een jaar door een ander als de ouder is opgevoed en verzorgd als behorende tot zijn gezin.   
+2.  De toestemming wordt door de kinderrechter op verzoek van de gecertificeerde instelling verleend en slechts afgewezen indien de kinderrechter dit in het belang van de minderjarige noodzakelijk oordeelt.   
+3.  Indien de kinderrechter het verzoek, bedoeld in het tweede lid, afwijst, kan hij tevens bepalen dat de ondertoezichtstelling en de machtiging tot uithuisplaatsing van kracht blijven voor ten hoogste een jaar. De gecertificeerde instelling is gehouden de machtiging tot uithuisplaatsing ten uitvoer te leggen.  
+
+### Artikel  265j  
+
+1.  Indien de gecertificeerde instelling oordeelt dat niet-verlenging van de ondertoezichtstelling, bedoeld in artikel 260, tweede lid, of niet-verlenging van de machtiging tot uithuisplaatsing, bedoeld in artikel 265c, tweede lid, aangewezen is, doet zij hiervan tijdig doch uiterlijk twee maanden voor het verstrijken van de duur van de ondertoezichtstelling of machtiging tot uithuisplaatsing en onder overlegging van een verslag van het verloop van de ondertoezichtstelling of de uithuisplaatsing mededeling aan de raad voor de kinderbescherming.   
+2.  De gecertificeerde instelling kan een uithuisplaatsing gedurende de termijn waarvoor zij is toegestaan beëindigen. De gecertificeerde instelling doet van het voornemen daartoe tijdig doch uiterlijk een maand voor het voorgenomen tijdstip van beëindiging en onder overlegging van een verslag van het verloop van de uithuisplaatsing, mededeling aan de raad voor de kinderbescherming.   
+3.  Indien een ondertoezichtstelling met uithuisplaatsing twee jaar of langer heeft geduurd, gaat het verzoek tot verlenging van de ondertoezichtstelling en uithuisplaatsing van de gecertificeerde instelling vergezeld van een advies van de raad voor de kinderbescherming met betrekking tot de verlenging van die ondertoezichtstelling. De gecertificeerde instelling doet van het voornemen tot een voornoemd verzoek tijdig doch uiterlijk twee maanden voor het verstrijken van de ondertoezichtstelling mededeling aan de raad voor de kinderbescherming.  
+
+### Artikel  265k  
+
+1.  Verzoeken op grond van deze afdeling worden schriftelijk gedaan. Voor zover zij aan de kinderrechter zijn gericht, kunnen zij worden ingediend zonder advocaat met uitzondering van het verzoek bedoeld in artikel 262b.   
+2.  De gecertificeerde instelling die een verzoek indient of ter terechtzitting wordt opgeroepen, zendt bij het verzoekschrift of onverwijld na de oproep, het plan, bedoeld in artikel 4.1.3, eerste lid, van de Jeugdwet, en een verslag van het verloop van de ondertoezichtstelling aan de kinderrechter.   
+3.  Het plan en het verslag, bedoeld in het tweede lid, worden eveneens gezonden aan de raad voor de kinderbescherming.   
+4.  De verzoeken die de gecertificeerde instelling ter uitvoering van haar taak tot de rechter richt, kunnen worden ingediend zonder advocaat en worden kosteloos behandeld; de grossen, afschriften en uittreksels, die zij tot dat doel aanvraagt, worden haar door de griffiers vrij van alle kosten uitgereikt.  
 
 ### Afdeling  5  
 
-####Ontheffing en ontzetting van het ouderlijk gezag 
+####Beëindiging van het ouderlijk gezag 
 
 ### Artikel  266  
 
-Mits het belang van de kinderen zich daar niet tegen verzet, kan de rechtbank een ouder van het gezag over een of meer van zijn kinderen ontheffen, op grond dat hij ongeschikt of onmachtig is zijn plicht tot verzorging en opvoeding te vervullen.  
+1.  De rechtbank kan het gezag van een ouder beëindigen indien: 
+
+a. een minderjarige zodanig opgroeit dat hij in zijn ontwikkeling ernstig wordt bedreigd, en de ouder niet de verantwoordelijkheid voor de verzorging en opvoeding, bedoeld in artikel 247, tweede lid, in staat is te dragen binnen een voor de persoon en de ontwikkeling van de minderjarige aanvaardbaar te achten termijn, of  
+
+b. de ouder het gezag misbruikt.     
+2.  Het gezag van de ouder kan ook worden beëindigd indien het gezag is geschorst, mits aan het eerste lid is voldaan.  
 
 ### Artikel  267  
 
-1.  Ontheffing wordt slechts uitgesproken op verzoek van de raad voor de kinderbescherming of van het openbaar ministerie.    
-2.   In het geval, bedoeld bij het tweede lid onder *d*, van artikel 268 van dit boek, kan, indien de kinderrechter een verzoek van de ouders om toestemming tot wijziging in het verblijf van hun kind heeft afgewezen, de ontheffing bovendien verzocht worden door degene, die het kind op het tijdstip van het verzoek ten minste een jaar verzorgd en opgevoed heeft. Indien het kind door meer dan een persoon wordt verzorgd en opgevoed, kan het verzoek slechts door dezen gemeenschappelijk worden gedaan. Is de ontheffing verzocht, dan blijft het tweede lid van artikel 253*s*, van dit boek buiten toepassing, totdat op het verzoek bij gewijsde is beslist.   
+1.  Beëindiging van het gezag kan worden uitgesproken op verzoek van de raad voor de kinderbescherming of het openbaar ministerie. Tevens is degene die niet de ouder is en de minderjarige gedurende ten minste een jaar als behorende tot zijn gezin verzorgt en opvoedt bevoegd tot het doen van het verzoek indien de raad voor de kinderbescherming niet tot een verzoek overgaat.   
+2.  Indien de raad niet tot een verzoek als bedoeld in het eerste lid overgaat nadat hij een verzoek tot onderzoek hiertoe van de gecertificeerde instelling die de ondertoezichtstelling over de minderjarige uitvoert, heeft ontvangen, deelt hij dit schriftelijk mee aan die gecertificeerde instelling. De gecertificeerde instelling kan na ontvangst van die mededeling de raad voor de kinderbescherming verzoeken het oordeel van de rechtbank te vragen of beëindiging van het gezag het noodzakelijk is. De raad voor de kinderbescherming die van de gecertificeerde instelling zodanig verzoek ontvangt, vraagt binnen twee weken na de dagtekening van dat verzoek het oordeel van de rechtbank of een beëindiging van het gezag moet volgen. In dat geval kan de rechtbank de beëindiging van het gezag ambtshalve uitspreken.  
 
 ### Artikel  268  
 
-1.  Ontheffing kan niet worden uitgesproken, indien de ouder zich daartegen verzet.    
-2.   Deze regel lijdt uitzondering:  
+1.  De rechtbank kan een ouder geheel of gedeeltelijk in de uitoefening van het gezag schorsen indien: 
 
-a. indien na een ondertoezichtstelling van ten minste zes maanden blijkt, of na een uithuisplaatsing krachtens het bepaalde in artikel 261 van dit boek van meer dan een jaar en zes maanden gegronde vrees bestaat, dat deze maatregel - door de ongeschiktheid of onmacht van een ouder om zijn plicht tot verzorging en opvoeding te vervullen - onvoldoende is om de dreiging als bedoeld in artikel 254 af te wenden;   
+a. een ernstig vermoeden bestaat dat de grond, bedoeld in artikel 266, eerste lid, aanhef en onder a of b is vervuld en de maatregel noodzakelijk is om een acute en ernstige bedreiging voor de minderjarige weg te nemen, of  
 
-b. indien zonder de ontheffing van de ene ouder, de ontzetting van de andere ouder de kinderen niet aan diens invloed zou onttrekken;   
-
-c. indien de geestvermogens van de ouder zodanig zijn gestoord, dat hij niet in staat is zijn wil te bepalen of de betekenis van zijn verklaring te begrijpen;   
-
-d. indien na een verzorging en opvoeding met instemming van de ouder - anders dan uit hoofde van een ondertoezichtstelling of een plaatsing onder voorlopige voogdij - van ten minste een jaar in een ander gezin dan het ouderlijke, een voortzetting daarvan noodzakelijk is en van terugkeer naar de ouder ernstig nadeel voor het kind moet worden gevreesd.     
+b. een medische behandeling van een minderjarige jonger dan twaalf jaar of van de minderjarige van twaalf jaar of ouder die niet in staat kan worden geacht tot een redelijke waardering van zijn belangen terzake, noodzakelijk is om ernstig gevaar voor diens gezondheid af te wenden en een ouder die het gezag uitoefent toestemming daarvoor weigert.     
+2.  Indien de ouders gezamenlijk het gezag uitoefenen, wordt gedurende de schorsing van het gezag van één van hen het gezag door de andere ouder alleen uitgeoefend, tenzij de kinderrechter een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet, met de voorlopige voogdij over het kind belast. In dat geval is ook het gezag van deze ouder geschorst.   
+3.  Betreft de schorsing beide ouders of een ouder die alleen het gezag uitoefent, dan belast de rechtbank een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet, met de voorlopige voogdij over de minderjarige. De gecertificeerde instelling heeft de bevoegdheden van een voogd.   
+4.  Artikel 267 is van overeenkomstige toepassing.   
+5.  De schorsing in de uitoefening van het gezag vervalt na verloop van drie maanden na de dag van de beschikking, tenzij voor het einde van deze termijn beëindiging van het gezag is verzocht.  
 
 ### Artikel  269  
 
-1.  Indien de rechtbank dit in het belang van de kinderen noodzakelijk oordeelt, kan zij een ouder van het gezag over een of meer van zijn kinderen ontzetten, op grond van:  
-
-a. misbruik van het gezag, of grove verwaarlozing van de verzorging of opvoeding van een of meer kinderen;   
-
-b. slecht levensgedrag;   
-
-c. onherroepelijke veroordeling:  
-
-1°. wegens opzettelijke deelneming aan enig misdrijf met een onder zijn gezag staande minderjarige;   
-
-2°. wegens het plegen tegen de minderjarige van een van de misdrijven, omschreven in de titels XIII-XV en XVIII-XX van het tweede boek van het Wetboek van Strafrecht;   
-
-3°. tot een vrijheidsstraf van twee jaar of langer;     
-
-d. het in ernstige mate veronachtzamen van de aanwijzingen van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg of belemmering van een uithuisplaatsing krachtens het bepaalde in artikel 261;   
-
-e. het bestaan van gegronde vrees voor verwaarlozing van de belangen van het kind, doordat de ouder het kind terugeist of terugneemt van anderen, die diens verzorging en opvoeding op zich hebben genomen.      
-2.   Onder misdrijf worden in dit artikel begrepen medeplichtigheid aan en poging tot misdrijf.   
-
-### Artikel  270  
-
-1.  Ontzetting van het gezag wordt slechts uitgesproken op verzoek van de andere ouder, een van de bloed- of aanverwanten van de kinderen tot en met de vierde graad, de raad voor de kinderbescherming of van het openbaar ministerie.    
-2.   In het geval bedoeld bij het eerste lid van het vorig artikel onder *e*, kan de ontzetting bovendien verzocht worden door hem, die de verzorging en opvoeding van het kind op zich genomen heeft.   
-
-### Artikel  271  
-
-1.  Indien dit dringend en onverwijld noodzakelijk is, kan de rechtbank een ouder, wiens ontzetting verzocht is, hangende het onderzoek geheel of gedeeltelijk in de uitoefening van het gezag over een of meer van zijn kinderen schorsen. Gelijke bevoegdheid komt haar toe ten opzichte van een ouder, wiens ontheffing verzocht is, in de gevallen bedoeld in artikel 268, tweede lid, van dit boek.    
-2.   Indien de andere ouder mede het gezag uitoefent, wordt gedurende de schorsing het gezag door hem alleen uitgeoefend.    
-3.   Acht de rechtbank in dit laatste geval de schorsing van de te ontzetten ouder onvoldoende om de kinderen aan diens invloed te onttrekken, dan kan zij ook de andere ouder schorsen.    
-4.  Betreft de schorsing beide ouders of een ouder die het gezag alleen uitoefent, dan belast de rechtbank een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg met de voorlopige voogdij over het kind. Zij stelt vast welke bevoegdheden ten aanzien van persoon en vermogen van dit kind worden toegekend.    
-5.   De in dit artikel bedoelde beschikkingen blijven van kracht, totdat de uitspraak omtrent de ontzetting of de ontheffing in kracht van gewijsde is gegaan. De rechtbank kan zodanige beschikking evenwel met ingang van een vroeger tijdstip herroepen.   
-
-### Artikel  271a  
-
-In plaats van schorsing van beide ouders of van een ouder in de uitoefening van het gezag en voorziening in de voorlopige voogdij als bedoeld in artikel 271, kan de rechtbank een kind onder toezicht stellen als bedoeld in artikel 254 van dit Boek. 
-
-### Artikel  272  
-
-1.  Op grond van feiten die tot ontzetting of tot de in het tweede lid van artikel 268 van dit Boek bedoelde ontheffing van een ouder kunnen leiden, en indien dit dringend en onverwijld noodzakelijk is, kan de kinderrechter de ouders geheel of gedeeltelijk in de uitoefening van het gezag over een kind schorsen en een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg belasten met de voorlopige voogdij over een kind.   
-2.  De kinderrechter beschikt op verzoek van de raad voor de kinderbescherming of de officier van justitie. Hij stelt vast welke bevoegdheden ten aanzien van persoon en vermogen van dit kind worden toegekend en bepaalt de duur van de maatregel.   
-3.  De maatregel vervalt na verloop van zes weken na de dag van de beschikking, tenzij voor het einde van deze termijn een verzoek tot ontzetting of ontheffing aanhangig is gemaakt. De kinderrechter kan deze termijn op ten hoogste twaalf weken bepalen, dit evenwel uitsluitend op de grond dat het in de eerste volzin bedoelde verzoek aan de vereisten van artikel 278 van het Wetboek van Burgerlijke Rechtsvordering zal kunnen voldoen. Ingeval voor het einde van de van toepassing zijnde termijn een verzoek tot ontzetting of ontheffing aanhangig is gemaakt, blijft de maatregel van kracht totdat over het verzoek bij gewijsde is beslist, tenzij de kinderrechter een kortere termijn heeft vastgesteld.   
-4.  De maatregel kan worden ingetrokken of gewijzigd door de kinderrechter die haar heeft bevolen tenzij een verzoek als bedoeld in het derde lid is ingediend. In dat geval beslist de rechter bij wie dit verzoek aanhangig is.  
-
-### Artikel  272a  
-
-De rechtbank die een verzoek tot ontheffing of ontzetting afwijst, is bevoegd een minderjarige onder toezicht te stellen als bedoeld in artikel 254 van dit Boek. 
+In plaats van schorsing van beide ouders of van een ouder in de uitoefening van het gezag als bedoeld in artikel 268, kan de rechtbank een kind onder toezicht stellen als bedoeld in artikel 255 mits aan de grond hiervoor is voldaan. 
 
 ### Artikel  274  
 
-1.  Indien de ouders gezamenlijk het gezag uitoefenen, wordt na de ontheffing of ontzetting van een van hen voortaan het gezag door de andere ouder alleen uitgeoefend.    
-2.   In geval van ontheffing of ontzetting van een ouder, die het gezag alleen uitoefent, kan de andere ouder de rechtbank te allen tijde verzoeken met de uitoefening van het gezag te worden belast. Dit verzoek wordt slechts afgewezen, indien gegronde vrees bestaat dat bij inwilliging de belangen van de kinderen zouden worden verwaarloosd.    
+1.  Indien de ouders gezamenlijk het gezag uitoefenen, wordt na de beëindiging van het gezag van een van hen voortaan het gezag door de andere ouder alleen uitgeoefend.    
+2.   In geval van beëindiging van het gezag van een ouder, die het gezag alleen uitoefent, kan de andere ouder de rechtbank te allen tijde verzoeken met de uitoefening van het gezag te worden belast. Dit verzoek wordt ingewilligd indien de rechtbank dit in het belang van de minderjarige noodzakelijk oordeelt.   
 3.   De rechtbank die het verzoek bedoeld bij het vorige lid heeft afgewezen, kan deze beschikking steeds wijzigen. Zij doet dit echter slechts op verzoek van de betrokken ouder, en niet dan op grond van omstandigheden, waarmede de rechter bij het geven van de beschikking geen rekening heeft kunnen houden.   
 
 ### Artikel  275  
 
 1.  Indien de andere ouder het gezag niet voortaan alleen uitoefent, benoemt de rechtbank een voogd over de minderjarigen.    
 2.   Ieder die tot uitoefening van de voogdij bevoegd is, kan tijdens het onderzoek schriftelijk aan de rechtbank verzoeken met de voogdij te worden belast.    
-3.   In geval van ontheffing met toepassing van het tweede lid onder *d*, van artikel 268 van dit boek, benoemt de rechtbank bij voorkeur tot voogd degene, dan wel een dergenen, die op het tijdstip van het verzoek het kind ten minste een jaar heeft verzorgd en opgevoed, mits deze bevoegd is tot uitoefening van de voogdij.   
+3.  In geval van beëindiging van het gezag op verzoek van de pleegouders benoemt de rechtbank bij voorkeur tot voogd degenen, dan wel degene, die op het tijdstip van het verzoek de minderjarige ten minste een jaar als behorende tot hun gezin hebben verzorgd en opgevoed, mits dezen bevoegd zijn tot de voogdij. 
 
 ### Artikel  276  
 
-1.  Indien de ontheven of ontzette ouder het bewind over het vermogen van zijn kinderen voerde, wordt hij tevens veroordeeld tot het afleggen van rekening en verantwoording aan zijn opvolger in dit bewind.    
+1.  Indien de ouder wiens gezag is beëindigd het bewind over het vermogen van zijn kinderen voerde, wordt hij tevens veroordeeld tot het afleggen van rekening en verantwoording aan zijn opvolger in dit bewind.    
 2.   Hebben de kinderen goederen gemeen, maar komen zij onder het gezag van verschillende personen, dan kan de rechtbank een van dezen of een derde aanwijzen om over deze goederen tot de verdeling het bewind te voeren. De aangewezen bewindvoerder stelt de waarborgen die de rechtbank van hem verlangt.    
 3.   Op het bewind krachtens het vorige lid is artikel 253k van toepassing, indien een der ouders als bewindvoerder is aangewezen, en anders paragraaf 10 van afdeling 6 van deze titel. De bewindvoerder is bij uitsluiting bevoegd tot vernietiging van rechtshandelingen van minderjarige deelgenoten, strekkend tot beheer of beschikking met betrekking tot de onder bewind staande goederen.   
 
 ### Artikel  277  
 
-1.  Indien de rechtbank overtuigd is, dat een minderjarige wederom aan zijn ontheven of ontzette ouder mag worden toevertrouwd, kan zij deze ouder op zijn verzoek in het gezag herstellen. Indien de niet met elkaar gehuwde ouders gezamenlijk het gezag willen uitoefenen, wordt het verzoek daartoe door hen beiden of een van hen gedaan.    
-2.   Indien bij gelegenheid van de ontzetting of ontheffing het gezag aan de andere ouder was opgedragen, belast de rechtbank de ontheven of ontzette ouder die alleen het in het eerste lid bedoelde verzoek doet, niet met het gezag, tenzij de omstandigheden na het nemen van de beschikking waarbij het gezag aan de andere ouder werd opgedragen, zijn gewijzigd of bij het nemen van de beschikking van onjuiste of onvolledige gegevens is uitgegaan. Artikel 253e van dit boek is van overeenkomstige toepassing.   
+1.  De rechtbank kan de ouder wiens gezag is beëindigd, op zijn verzoek in het gezag herstellen indien: 
+
+a. herstel in het gezag in het belang van de minderjarige is, en  
+
+b. de ouder duurzaam de verantwoordelijkheid voor de verzorging en opvoeding van de minderjarige, bedoeld in artikel 247, tweede lid, in staat is te dragen.     
+2.  Indien ter gelegenheid van de beëindiging van het gezag het gezag aan de andere ouder is opgedragen, belast de rechtbank de ouder wiens gezag was beëindigd en deze alleen het in het eerste lid bedoelde verzoek doet, niet met het gezag, tenzij de omstandigheden na het nemen van de beschikking waarbij het gezag aan de andere ouder werd opgedragen, zijn gewijzigd of bij het nemen van de beschikking van onjuiste of onvolledige gegevens is uitgegaan. Artikel 253e is van overeenkomstige toepassing.  
 
 ### Artikel  278  
 
@@ -2515,7 +2548,7 @@ b. voor de voogd die - nadat hij zich bereid heeft verklaard de voogdij te aanva
 
 1.  De voogdij eindigt op de dag, waarop in kracht van gewijsde is gegaan de beschikking waarbij:  
 
-a. de voogd is ontslagen of ontzet;   
+a. de voogd is ontslagen of de voogdij is beëindigd;   
 
 b. het gezag over de onder zijn voogdij staande minderjarige aan een of beide ouders is opgedragen; of   
 
@@ -2529,7 +2562,7 @@ c. de voogdij overeenkomstig artikel 299a van dit boek aan een andere voogd is o
 3.  Het verzoek wordt afgewezen indien gegronde vrees bestaat dat bij inwilliging de belangen van het kind zouden worden verwaarloosd.    
 4.  Gezamenlijke uitoefening van de voogdij is niet mogelijk ten aanzien van tijdelijke voogdij als bedoeld in de artikelen 296 en 297. Zij staat niet open voor rechtspersonen.    
 5.   Artikel 253a is van overeenkomstige toepassing.    
-6.  In afwijking van artikel 336 hebben twee voogden die gezamenlijk de voogdij uitoefenen, de plicht en het recht het minderjarige kind te verzorgen en op te voeden. Artikel 253w is, zolang de gezamenlijke voogdij voortduurt, ten aanzien van hen beiden van overeenkomstige toepassing, tenzij het betreft pleegouders die zijn belast met de gezamenlijke voogdij en die met een zorgaanbieder een pleegcontract hebben gesloten als bedoeld in artikel 28b van de Wet op de jeugdzorg.   
+6.  In afwijking van artikel 336 hebben twee voogden die gezamenlijk de voogdij uitoefenen, de plicht en het recht het minderjarige kind te verzorgen en op te voeden. Artikel 253w is, zolang de gezamenlijke voogdij voortduurt, ten aanzien van hen beiden van overeenkomstige toepassing, tenzij het betreft pleegouders die zijn belast met de gezamenlijke voogdij en die met een zorgaanbieder een pleegcontract hebben gesloten als bedoeld in artikel 5.2 van de Jeugdwet.   
 7.  Een verzoek als bedoeld in het eerste lid kan vergezeld gaan van een verzoek tot wijziging van de geslachtsnaam van het kind in de geslachtsnaam van een van de voogden. Een zodanig verzoek wordt afgewezen, indien:  
 
 a. het kind van twaalf jaar of ouder ter gelegenheid van zijn verhoor niet heeft ingestemd met het verzoek;   
@@ -2548,7 +2581,7 @@ Na de dood van een voogd die de voogdij samen met een ander uitoefende, oefent d
 
 ###Artikel 283 
 
-De verzoeken die de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, dan wel de rechtspersoon, bedoeld in artikel 302, tweede lid, in verband met de uitoefening van de voogdij tot de rechter richt, kunnen worden ingediend zonder advocaat en worden kosteloos behandeld. De grossen, afschriften, en uittreksels, die zij tot dit doel aanvragen, worden hun door de griffiers vrij van alle kosten uitgereikt.
+De verzoeken die de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet, dan wel de rechtspersoon, bedoeld in artikel 302, tweede lid, in verband met de uitoefening van de voogdij tot de rechter richt, kunnen worden ingediend zonder advocaat en worden kosteloos behandeld. De grossen, afschriften, en uittreksels, die zij tot dit doel aanvragen, worden hun door de griffiers vrij van alle kosten uitgereikt.
 
 ### §  2  
 
@@ -2594,7 +2627,7 @@ b. onbekendheid van bestaan of verblijfplaats van de voogd; of
 
 c. in gebreke blijven van de voogd, het gezag uit te oefenen.      
 2.   Is de benoeming op het eerste lid onder *c* gegrond, dan kan de rechtbank de benoemde voogd een beloning toekennen en is de in gebreke gebleven voogd jegens de minderjarige aansprakelijk voor de kosten die de vervanging veroorzaakt, alsmede, behoudens zijn verhaal op de benoemde voogd, voor diens verrichtingen.    
-3.   Zodra de in het eerste lid genoemde omstandigheden zijn vervallen, wordt de benoemde voogd op eigen verzoek of op verzoek van degene die hij vervangt, door de rechtbank ontslagen, tenzij gegronde vrees bestaat dat bij inwilliging de belangen van de kinderen zouden worden verwaarloosd.    
+3.  Indien de in het eerste lid genoemde omstandigheden zijn vervallen, kan de voogd op eigen verzoek of op verzoek van degene die hij vervangt, door de rechtbank worden ontslagen tenzij de rechtbank dit niet in het belang van het kind noodzakelijk oordeelt.   
 4.  Indien in geval van gezamenlijke uitoefening van de voogdij een van de in het eerste lid bedoelde omstandigheden zich voordoet ten aanzien van een van beide voogden, oefent de andere voogd het gezag over de kinderen alleen uit. Zodra deze omstandigheid is vervallen, herleeft de gezamenlijke voogdij. Het tweede lid is niet van toepassing.   
 
 ### Artikel  298  
@@ -2629,34 +2662,34 @@ b. van de aangifte van geboorte van ieder kind, over wie de moeder uit wie het k
 
 ### Artikel  302  
 
-1.  De rechter kan de voogdij opdragen aan een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg.   
+1.  De rechter kan de voogdij opdragen aan een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet.   
 2.  Onverminderd diens bevoegdheid een natuurlijke persoon tot voogd te benoemen, kan de rechter de voogdij over een minderjarige door of voor wie een aanvraag tot het verlenen van een verblijfsvergunning voor bepaalde tijd als bedoeld in artikel 28 van de Vreemdelingenwet 2000 is ingediend, en in verband daarmee in Nederland verblijft, alsmede over door Onze Minister van Justitie aan te wijzen categorieën andere minderjarigen, uitsluitend opdragen aan een daartoe door Onze Minister van Justitie aanvaarde rechtspersoon.   
 3.  Onze Minister van Justitie kan voorwaarden stellen bij of voorschriften verbinden aan de aanvaarding, bedoeld in het tweede lid, en de rechtspersoon voor een bepaalde tijd aanvaarden.   
 4.  Op een rechtspersoon als bedoeld in het tweede lid, zijn de artikelen 303, 304, 305 en 328 van overeenkomstige toepassing.  
 
 ### Artikel  303  
 
-Voor zover de wet niet anders bepaalt, heeft de met voogdij belaste stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, dezelfde bevoegdheden en verplichtingen als andere voogden. 
+Voor zover de wet niet anders bepaalt, heeft de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet, die met de voogdij is belast, dezelfde bevoegdheden en verplichtingen als andere voogden. 
 
 ### Artikel  304  
 
-1.  Met de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg zijn de bestuurders hoofdelijk en persoonlijk aansprakelijk voor iedere schade, die te wijten is aan een niet-behoorlijke uitoefening van de voogdij.    
+1.  Met de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet zijn de bestuurders hoofdelijk en persoonlijk aansprakelijk voor iedere schade, die te wijten is aan een niet-behoorlijke uitoefening van de voogdij.    
 2.   Iedere bestuurder zal zich echter van zijn aansprakelijkheid kunnen bevrijden door te bewijzen, dat hij geen schuld heeft aan de schade.   
 
 ### Artikel  305  
 
-1.  De stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, die hem toevertrouwde minderjarigen uit huis plaatst, houdt de raad voor de kinderbescherming schriftelijk op de hoogte van de plaatsen waar zij zich bevinden.    
+1.   De gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet, die hem toevertrouwde minderjarigen uit huis plaatst, houdt de raad voor de kinderbescherming schriftelijk op de hoogte van de plaatsen waar zij zich bevinden.    
 2.  De plaatsen, waar een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg, minderjarigen heeft geplaatst, worden door de raad voor de kinderbescherming bezocht, zo vaak hij dit ter beoordeling van de toestand der minderjarigen dienstig acht.    
-3.  De artikelen 261, vijfde lid, 262, eerste en derde lid, 263, eerste lid, eerste volzin, en vierde lid, eerste volzin, en 265, eerste lid, zijn van overeenkomstige toepassing. Artikel 3, vierde lid, van de Wet op de jeugdzorg is eveneens van overeenkomstige toepassing.  
+3.  De artikelen 265b, vijfde lid, 265c, eerste en derde lid, 265j, tweede lid, eerste zin, en 265d, vierde lid, eerste zin, en 265k, eerste lid, zijn van overeenkomstige toepassing.   
 
 ### Artikel  306  
 
-1.  Zonder toestemming van de rechtbank mag een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg een hem toevertrouwde minderjarige niet buiten Nederland plaatsen.    
+1.  Zonder toestemming van de rechtbank mag een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet een hem toevertrouwde minderjarige niet buiten Nederland plaatsen.    
 2.   De rechter verleent deze toestemming slechts, indien hij de plaatsing voor de minderjarige wenselijk acht.   
 
 ### Artikel  306a  
 
-De zesde afdeling van deze titel is niet van toepassing op de uitoefening van de voorlopige voogdij als bedoeld in de artikelen 241, 271, 272, 331 en 332 van dit Boek. 
+De zesde afdeling van deze titel is niet van toepassing op de uitoefening van de voorlopige voogdij als bedoeld in de artikelen 241, 268 en 331. 
 
 ### §  5  
 
@@ -2695,80 +2728,64 @@ Op verzoek van de voogden gezamenlijk of van een van hen beëindigt de rechter d
 ### Artikel  326  
 
 1.  Kinderen die onder voogdij staan van natuurlijke personen, kunnen onder toezicht worden gesteld.    
-2.   Op deze ondertoezichtstelling zijn de bepalingen der artikelen 254-265 van dit boek van overeenkomstige toepassing, met dien verstande nochtans, dat de ondertoezichtstelling en de verlenging daarvan ook door de voogd kunnen worden verzocht.   
+2.   Op deze ondertoezichtstelling is afdeling 4 van titel 14 van overeenkomstige toepassing, met dien verstande nochtans, dat de ondertoezichtstelling en de verlenging daarvan ook door de voogd kunnen worden verzocht.   
 
 ### §  8  
 
-####Ontzetting van voogdij 
+####Beëindiging van voogdij
 
 ### Artikel  327  
 
-1.  Indien de rechtbank dit in het belang van die minderjarigen noodzakelijk oordeelt, kan zij een voogd ten aanzien van een of meer tot een zelfde voogdij behorende minderjarigen ontzetten op grond van:  
+De rechtbank kan de voogdij van een natuurlijk persoon beëindigen indien: 
 
-a. slecht levensgedrag;   
+a. een minderjarige zodanig opgroeit dat hij in zijn ontwikkeling ernstig wordt bedreigd, en de voogd niet de verantwoordelijkheid voor de verzorging en opvoeding, bedoeld in artikel 247, tweede lid, in staat is te dragen binnen een voor de persoon en de ontwikkeling van de minderjarige aanvaardbaar te achten termijn, of  
 
-b. misbruik van zijn bevoegdheid, verwaarlozing van zijn verplichtingen, of de omstandigheid dat hij niet in staat is tot een behoorlijke uitoefening van zijn voogdij;   
+b. de voogd het gezag misbruikt , of  
 
-c. de omstandigheid, dat hij op een der beide voorgaande gronden van een andere voogdij - of op overeenkomstige gronden van het ouderlijk gezag - is ontzet;   
-
-d. de omstandigheid, dat hij in staat van faillissement verkeert of dat ten aanzien van hem de schuldsaneringsregeling natuurlijke personen van toepassing is;   
-
-e. de omstandigheid, dat hij in persoon, of dat zijn ouder, echtgenoot of kind met de minderjarige een proces voert, waarbij diens staat of een aanmerkelijk gedeelte van diens vermogen betrokken is;   
-
-f. onherroepelijke veroordeling:  
-
-1°. wegens opzettelijke deelneming aan enig misdrijf met een onder zijn gezag staande minderjarige;   
-
-2°. wegens het plegen tegen de minderjarige van een der misdrijven, omschreven in de titels XIII-XV en XVIII-XX van het tweede boek van het Wetboek van Strafrecht;   
-
-3°. tot een vrijheidsstraf van twee jaar of langer;     
-
-g. het in ernstige mate veronachtzamen van de aanwijzingen van de stichting, bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg of belemmering van een uithuisplaatsing krachtens het bepaalde in artikel 261;   
-
-h. het bestaan van gegronde vrees voor verwaarlozing van de belangen van een onder zijn gezag staande minderjarige, doordat hij de minderjarige terugeist of terugneemt van anderen, die diens verzorging en opvoeding op zich hebben genomen;   
-
-i. de omstandigheid dat hij niet beschikt over de ingevolge artikel 2 van de Wet opneming buitenlandse kinderen ter adoptie vereiste beginseltoestemming.      
-2.   Onder misdrijf worden in dit artikel begrepen medeplichtigheid aan en poging tot misdrijf.   
+c. niet beschikt over de ingevolge artikel 2 van de Wet opneming buitenlandse kinderen ter adoptie vereiste beginseltoestemming.   
 
 ### Artikel  328  
 
-Ontzetting van een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg kan slechts op de in het eerste lid van het vorige artikel onder b-e genoemde gronden geschieden. Zijn ontzetting kan echter bovendien plaats hebben, indien hij nalaat de raad voor de kinderbescherming overeenkomstig artikel 305 van dit boek op de hoogte te houden van de plaatsen, waar de hem toevertrouwde minderjarigen zich bevinden, ofwel indien hij het door de raad voor de kinderbescherming uit te oefenen toezicht belemmert of verhindert.  
+De rechtbank kan de voogdij van een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet of van een rechtspersoon als bedoeld in artikel 302, tweede lid, beëindigen indien een minderjarige zodanig opgroeit dat hij in zijn ontwikkeling ernstig wordt bedreigd, en: 
+
+a. zij haar taken op een niet verantwoorde wijze uitoefent als bedoeld in artikel 4.1.1, tweede lid, van de Jeugdwet, of  
+
+b. zij nalaat overeenkomstig artikel 305 de raad voor de kinderbescherming op de hoogte te houden.   
 
 ### Artikel  329  
 
-1.  Ontzetting van de voogdij kan slechts worden uitgesproken op verzoek van een voogd, een der bloed- of aanverwanten van de minderjarige tot en met de vierde graad, de raad voor de kinderbescherming of van het openbaar ministerie.    
-2.   In het geval, bedoeld bij het eerste lid van artikel 327 onder *h* van dit boek, kan de ontzetting bovendien verzocht worden door hem, die de verzorging en opvoeding van de minderjarige op zich heeft genomen.    
-3.   In het geval, bedoeld bij artikel 367 van dit boek kan de rechtbank de ontzetting uitspreken, ook al had de raad voor de kinderbescherming deze niet verzocht.   
+1.  Beëindiging van de voogdij kan worden uitgesproken op verzoek van de raad voor de kinderbescherming, het openbaar ministerie of een der bloed- of aanverwanten van de minderjarige tot en met de vierde graad.   
+2.  Ingeval artikel 336a toepassing heeft gevonden, kan de beëindiging bovendien worden verzocht door degene of degenen die de minderjarige als behorende tot hun gezin verzorgen en opvoeden.   
+3.  In het geval, bedoeld in artikel 367, kan de rechtbank de voogdij ambtshalve beëindigen.  
 
 ### Artikel  331  
 
-1.  Indien dit dringend en onverwijld noodzakelijk is, kan de rechtbank een voogd, wiens ontzetting verzocht is, hangende haar onderzoek geheel of gedeeltelijk in de uitoefening van zijn voogdij over een of meer der minderjarigen schorsen.    
-2.  Indien in geval van gezamenlijke uitoefening van de voogdij de rechtbank de schorsing van de te ontzetten voogd onvoldoende acht om de kinderen aan diens invloed te onttrekken, dan kan zij ook de andere voogd schorsen.    
-3.  Indien in geval van gezamenlijke uitoefening van de voogdij slechts een van de voogden wordt geschorst, wordt gedurende de schorsing het gezag door de andere voogd alleen uitgeoefend.    
-4.  In de in het eerste en tweede lid bedoelde gevallen vertrouwt de rechtbank een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg met de voorlopige voogdij over de minderjarige. Zij stelt vast welke bevoegdheden ten aanzien van persoon en vermogen van deze minderjarige worden toegekend.   
-5.   De in dit artikel bedoelde beschikkingen blijven van kracht, totdat de uitspraak omtrent de ontzetting in kracht van gewijsde is gegaan. De rechtbank kan zodanige beschikking evenwel met ingang van een vroeger tijdstip herroepen.   
+1.  De rechtbank kan een met de voogdij belaste natuurlijke persoon geheel of gedeeltelijk in de uitoefening van het gezag schorsen indien: 
+
+a. een ernstig vermoeden bestaat dat de grond, bedoeld in artikel 266, eerste lid, aanhef en onder a of b is vervuld en de maatregel noodzakelijk is om een acute en ernstige bedreiging voor de minderjarige weg te nemen, of  
+
+b. een medische behandeling van een minderjarige jonger dan twaalf jaar of van de minderjarige van twaalf jaar of ouder die niet in staat kan worden geacht tot een redelijke waardering van zijn belangen terzake, noodzakelijk is om ernstig gevaar voor diens gezondheid af te wenden en de voogd toestemming daarvoor weigert.     
+2.  Indien de voogdij gezamenlijk wordt uitgeoefend, wordt na schorsing van de voogdij van één van hen de voogdij door de andere voogd alleen uitgeoefend, tenzij de kinderrechter een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet, met de voorlopige voogdij over het kind belast. In dat geval is ook het gezag van deze andere voogd geschorst.   
+4.  Artikel 329, eerste en tweede lid, is van overeenkomstige toepassing.   
+5.  De schorsing in de uitoefening van het gezag vervalt na verloop van drie maanden na de dag van de beschikking, tenzij voor het einde van deze termijn om een beëindiging van de voogdij is verzocht. 
 
 ### Artikel  331a  
 
 In plaats van schorsing van de voogd in de uitoefening van de voogdij en voorziening in de voorlopige voogdij als bedoeld in artikel 331, kan de rechtbank de minderjarige onder toezicht stellen als bedoeld in artikel 254 van dit Boek. 
 
-### Artikel  332  
-
-Op grond van feiten die tot ontzetting van de voogdij kunnen leiden, en indien dit dringend en onverwijld noodzakelijk is, kan de kinderrechter de voogd of voogden geheel of gedeeltelijk schorsen in de uitoefening van het gezag over een minderjarige en een stichting als bedoeld in artikel 1, onder f, van de Wet op de jeugdzorg belasten met de voorlopige voogdij over deze minderjarige. Artikel 272, tweede, derde en vierde lid, van dit Boek is van overeenkomstige toepassing. 
-
 ### Artikel  332a  
 
-De rechtbank die een verzoek tot ontzetting afwijst, is bevoegd een minderjarige onder toezicht te stellen als bedoeld in artikel 254 van dit Boek.  
+De rechtbank die een verzoek tot beëindiging van de voogdij afwijst, is bevoegd een minderjarige onder toezicht te stellen als bedoeld in artikel 255.  
 
 ### Artikel  334  
 
-1.  Indien de rechtbank de ontzetting uitspreekt, voorziet zij tevens in het gezag, behoudens het bepaalde in het derde lid.    
+1.  Indien de rechtbank de beëindiging van de voogdij uitspreekt, voorziet zij tevens in het gezag, behoudens het bepaalde in het derde lid.    
 2.   Ieder die tot de uitoefening van het gezag bevoegd is, kan tijdens het onderzoek schriftelijk aan de rechtbank verzoeken daarmede te worden belast.    
-3.  Indien sprake is van gezamenlijke uitoefening van de voogdij en de ontzetting slechts een van de voogden betreft, wordt de voogdij voortaan door de andere voogd alleen uitgeoefend.   
+3.  Indien sprake is van gezamenlijke uitoefening van de voogdij en de beëindiging van de voogdij slechts een van de voogden betreft, wordt de voogdij voortaan door de andere voogd alleen uitgeoefend.   
 
 ### Artikel  335  
 
-Hij die van de voogdij over een bepaalde minderjarige is ontzet, kan niet wederom tot voogd over die minderjarige worden benoemd.  
+Degene van wie de voogdij is beëindigd op grond van artikel 327, eerste lid, aanhef en onder a, b of c kan niet wederom tot voogd over die minderjarige worden benoemd. 
 
 ### §  9  
 
@@ -2781,8 +2798,8 @@ De voogd draagt zorg, dat de minderjarige overeenkomstig diens vermogen wordt ve
 ### Artikel  336a  
 
 1.  Indien de minderjarige door een ander of anderen dan zijn voogd, als behorende tot het gezin met instemming van de voogd ten minste een jaar is verzorgd en opgevoed geworden, kan de voogd niet dan met toestemming van degenen die de verzorging en opvoeding op zich hebben genomen, wijziging in het verblijf van de minderjarige brengen.    
-2.   Voor zover de volgens het vorige lid vereiste toestemmingen niet worden verkregen, kunnen zij op verzoek van de voogd door die van de rechtbank worden vervangen. Dit verzoek wordt slechts ingewilligd, indien de rechtbank dit in het belang van de minderjarige acht.    
-3.   In geval van afwijzing van het verzoek is de beschikking van kracht gedurende een door de rechtbank te bepalen termijn, welke de duur van zes maanden niet te boven mag gaan. Is echter voor het einde van deze termijn een verzoek tot ondertoezichtstelling van het kind, tot ontzetting van de voogd, dan wel een verzoek als bedoeld in artikel 299*a*, van dit boek aanhangig gemaakt, dan blijft de beschikking gelden, totdat op het verzoek bij gewijsde is beslist.    
+2.   Voor zover de volgens het vorige lid vereiste toestemmingen niet worden verkregen, kunnen zij op verzoek van de voogd door die van de rechtbank worden vervangen. Dit verzoek wordt slechts ingewilligd indien de kinderrechter dit in het belang van de minderjarige noodzakelijk oordeelt.    
+3.   In geval van afwijzing van het verzoek is de beschikking van kracht gedurende een door de rechtbank te bepalen termijn, welke de duur van zes maanden niet te boven mag gaan. Is echter voor het einde van deze termijn een verzoek tot ondertoezichtstelling van het kind, tot beëindiging van de voogdij, dan wel een verzoek als bedoeld in artikel 299a, van dit boek aanhangig gemaakt, dan blijft de beschikking gelden, totdat op het verzoek bij gewijsde is beslist.    
 4.  In geval van gezamenlijke uitoefening van de voogdij, wordt de in het eerste lid bedoelde instemming door beide voogden gegeven.   
 
 ### §  10  
@@ -2979,7 +2996,7 @@ b. hij zich in zijn bewind aan ontrouw, plichtsverzuim of misbruik van bevoegdhe
 
 ### Artikel  367  
 
-De raad voor de kinderbescherming die van de kantonrechter zodanige mededeling ontvangt, onderwerpt, na onderzoek van de overige gedragingen van de voogd jegens de minderjarige, binnen zes weken na de dagtekening van die mededeling aan het oordeel van de rechtbank de vraag, of ontzetting van de voogd op grond van artikel 327, eerste lid onder b, van dit boek moet volgen.  
+De raad voor de kinderbescherming die van de kantonrechter zodanige mededeling ontvangt, onderwerpt, na onderzoek van de overige gedragingen van de voogd jegens de minderjarige, binnen zes weken na de dagtekening van die mededeling aan het oordeel van de rechtbank de vraag, of beëindiging van de voogdij op grond van artikel 327 van dit boek moet volgen.  
 
 ### Artikel  369  
 
@@ -3014,7 +3031,7 @@ De voogd is verplicht ter griffie van de rechtbank kennis te geven van elke vera
 
 ### Artikel  372  
 
-Na het einde van zijn bewind doet de voogd daarvan onverwijld rekening en verantwoording. De kosten worden door de voogd betaald. Zij komen echter ten laste van de minderjarige, tenzij het bewind wegens ontzetting van de voogd eindigt. Voor zover de kosten niet op de minderjarige kunnen worden verhaald, komen zij ten laste van de ouders, en, zo zij ook op hen niet kunnen worden verhaald, ten laste van de Staat.  
+Na het einde van zijn bewind doet de voogd daarvan onverwijld rekening en verantwoording. De kosten worden door de voogd betaald. Zij komen echter ten laste van de minderjarige. Voor zover de kosten niet op de minderjarige kunnen worden verhaald, komen zij ten laste van de ouders, en, zo zij ook op hen niet kunnen worden verhaald, ten laste van de Staat.  
 
 ### Artikel  373  
 
@@ -3106,7 +3123,7 @@ b. gewoonte van drank- of drugsmisbruik,   en een voldoende behartiging van die 
 2.   Hij regelt in deze beschikking de bevoegdheden van de bewindvoerder. Hij kan de bewindvoerder het bewind over bepaalde of alle goederen opdragen. Aan de bewindvoerder kan de rechter ook andere bevoegdheden toekennen, doch niet die welke een curator niet heeft. Voor zover de rechter niet anders bepaalt, kan degene wiens curatele is verzocht, met betrekking tot die goederen niet zonder medewerking van de bewindvoerder daden van beheer en van beschikking verrichten, noch overeenkomsten aangaan strekkende tot beschikking over die goederen.    
 3.   In de beschikking kan tevens worden bepaald dat schulden die degene wiens curatele is verzocht, na de bekendmaking van de benoeming maakt, op de onder bewind gestelde goederen gedurende dit bewind en de curatele, indien deze volgt, niet kunnen worden verhaald.    
 4.   De beschikking kan te allen tijde worden gewijzigd of ingetrokken door de rechter voor wie het verzoek tot ondercuratelestelling aanhangig is of laatstelijk aanhangig was.    
-5.   De bewindvoerder komt als beloning toe vijf ten honderd van de netto-opbrengst der door hem beheerde goederen, tenzij de kantonrechter daarvoor om bijzondere redenen een ander bedrag vaststelt.   
+5.  De bewindvoerder heeft aanspraak op beloning overeenkomstig de regels die daaromtrent bij regeling van Onze Minister van Veiligheid en Justitie zijn vastgesteld.  
 
 ### Artikel  381  
 
@@ -3189,7 +3206,7 @@ e.de curator de rekening en verantwoording, bedoeld in artikel 374, aflegt ten o
 
 ### Artikel  386  
 
-1.  Op het bewind van de curator zijn de omtrent het bewind van de voogd gegeven voorschriften van overeenkomstige toepassing. De rekening en verantwoording van zijn bewind gedurende de curatele wordt evenwel door de curator jaarlijks ingediend, behoudens indien de kantonrechter heeft bepaald dat dit op een ander tijdstip kan geschieden. Onze Minister van Veiligheid en Justitie kan een model vaststellen volgens hetwelk de rekening en verantwoording moet worden opgemaakt. De curator, bedoeld in artikel 383, zevende lid, legt jaarlijks de verklaringen en het verslag over, bedoeld in artikel 383, achtste lid. De curator doet desgevraagd van zijn werkzaamheden verslag aan de kantonrechter.   
+1.  Op het bewind van de curator zijn de omtrent het bewind van de voogd gegeven voorschriften van overeenkomstige toepassing. De rekening en verantwoording van zijn bewind gedurende de curatele wordt evenwel door de curator jaarlijks ingediend, behoudens indien de kantonrechter heeft bepaald dat dit op een ander tijdstip kan geschieden. Onze Minister van Veiligheid en Justitie kan een model vaststellen volgens hetwelk de rekening en verantwoording moet worden opgemaakt. De curator, bedoeld in artikel 383, zevende lid, legt jaarlijks de verklaringen en het verslag over, bedoeld in artikel 383, achtste lid. De curator doet desgevraagd van zijn werkzaamheden verslag aan de kantonrechter. De curator heeft aanspraak op beloning overeenkomstig de regels die daaromtrent bij regeling van Onze Minister van Veiligheid en Justitie zijn vastgesteld.   
 2.  De curator draagt zorg voor een doelmatige belegging van het vermogen van de onder curatele gestelde, voor zover dit niet besteed behoort te worden voor een voldoende verzorging van de onder curatele gestelde.   
 3.  Tenzij de kantonrechter anders bepaalt, is de curator verplicht zo spoedig mogelijk een rekening te openen bij een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van bank mag uitoefenen; de curator is voorts verplicht om uitsluitend voor de betalingen die hij bij de vervulling van zijn taak verricht of ontvangt, zoveel mogelijk van deze rekening gebruik te maken.  
 4.   Voor de toepassing van de artikelen 365 tot en met 367 treedt de officier van justitie in de plaats van de raad voor de kinderbescherming en het ontslag bedoeld in artikel 385, lid 1 onder d in de plaats van de ontzetting van de voogd op grond van artikel 327 lid 1 onder b. Mededelingen en zendingen als bedoeld in artikel 371a, geschieden alleen dan indien artikel 12, vierde lid, op de desbetreffende curatele niet van toepassing is.   
@@ -3269,7 +3286,7 @@ Een stiefouder is, onverminderd het bepaalde in artikel 395a van dit boek, allee
 ### Artikel  395b  
 
 1.  Heeft de rechter het bedrag bepaald, dat een ouder of stiefouder dan wel, overeenkomstig artikel 394, de verwekker of de persoon die in artikel 394 daarmee gelijk is gesteld ter zake van de verzorging en opvoeding van zijn minderjarig kind of stiefkind moet betalen en is deze verplichting tot aan het meerderjarig worden van het kind van kracht geweest, dan geldt met ingang van dit tijdstip de rechterlijke beslissing als een tot bepaling van het bedrag ter zake van levensonderhoud en studie als in artikel 395*a* van dit boek bedoeld.    
-2.   Hetzelfde geldt, indien met toepassing van Hoofdstuk XIII van de Wet op de jeugdzorg het bedrag is vastgesteld dat de ouder of stiefouder ter bestrijding van de kosten van de in artikel 69, eerste lid van die wet bedoelde maatregelen aan het Landelijk Bureau Inning Onderhoudsbijdragen moet uitkeren.   
+2.  Hetzelfde geldt, indien met toepassing van paragraaf 8.2 van de Jeugdwet een ouderbijdrage is vastgesteld.  
 
 ### Artikel  396  
 
@@ -3378,7 +3395,7 @@ Gelijktijdig met een door de rechtbank te geven uitspraak betreffende het over d
 ### Artikel  410  
 
 1.  Voor zover de kantonrechter niet anders bepaalt, vinden op het bewind van de bewindvoerder de artikelen 338, 339,340, 342-357, 358 lid 1 en 359-363 van dit boek overeenkomstige toepassing, met dien verstande dat de bewindvoerder verplicht is jaarlijks bij de griffie van de rechtbank, een rekening in te dienen van zijn bewind.    
-2.   De bewindvoerder komt als beloning toe vijf ten honderd van de netto-opbrengst der door hem beheerde goederen, tenzij de kantonrechter daarvoor om bijzondere redenen een ander bedrag vaststelt.    
+2.  De bewindvoerder heeft aanspraak op beloning overeenkomstig de regels die daaromtrent bij regeling van Onze Minister van Veiligheid en Justitie zijn vastgesteld.   
 3.  Goedkeuring van een ingediende rekening door de kantonrechter brengt geen nadeel toe aan de bevoegdheid van de rechthebbenden om na het einde van het bewind over dezelfde tijdruimte rekening en verantwoording te vragen, voor zover dit niet onredelijk is.    
 4.  De bewindvoerder kan ook voor andere dan vermogensbelangen van de afwezige opkomen, behoudens voor zover de kantonrechter zulks heeft uitgesloten.   
 5.   De kantonrechter kan te allen tijde de bewindvoerder ontslaan en door een ander vervangen.   
@@ -3447,7 +3464,7 @@ De akte waarbij zekerheid is gesteld, de boedelbeschrijving en de akte van verde
 
 1.  Wanneer het aan de kantonrechter blijkt, dat een erfgenaam of legataris de hem in de twee voorgaande artikelen opgelegde verplichtingen niet is nagekomen, kan hij voor de goederen die aan die erfgenaam of legataris uit de nalatenschap toekomen, een bewindvoerder benoemen, wiens bewind eindigt, wanneer de kantonrechter beslist dat de betrokkene alsnog zijn wettelijke verplichtingen heeft nageleefd.    
 2.   Voor zover de kantonrechter niet anders bepaalt, vinden op het bewind van de bewindvoerder de artikelen 338, 339, 340, 342-357, 358 lid 1 en 359-363 van dit boek overeenkomstige toepassing, met dien verstande dat de bewindvoerder verplicht is jaarlijks ter griffie van de rechtbank een rekening in te dienen van zijn bewind.    
-3.   De bewindvoerder komt als beloning toe vijf ten honderd van de netto-opbrengst der door hem beheerde goederen, tenzij de kantonrechter daarvoor om bijzondere redenen een ander bedrag vaststelt.    
+3.  De bewindvoerder heeft aanspraak op beloning overeenkomstig de regels die daaromtrent bij regeling van Onze Minister van Veiligheid en Justitie zijn vastgesteld.   
 4.   De kantonrechter kan te allen tijde de bewindvoerder ontslaan en door een ander vervangen.   
 
 ### Artikel  421  
@@ -3680,7 +3697,7 @@ De bewindvoerder doet telkens na verloop van vijf jaren, of zo veel eerder als d
 
 ### Artikel  447  
 
-1.  Tenzij de beloning bij de instelling van het bewind anders is geregeld, komt de bewindvoerder of, wanneer er meer bewindvoerders zijn, hun tezamen vijf ten honderd der netto-opbrengst van de onder bewind staande goederen toe. Op grond van bijzondere omstandigheden kan de kantonrechter, hetzij ambtshalve, hetzij op verzoek van de bewindvoerder of van de rechthebbende, voor bepaalde of onbepaalde tijd de beloning anders regelen dan bij de instelling of door de wet is aangegeven.    
+1.  De bewindvoerder heeft aanspraak op beloning overeenkomstig de regels die daaromtrent bij regeling van Onze Minister van Veiligheid en Justitie zijn vastgesteld. Op grond van bijzondere omstandigheden kan de kantonrechter, hetzij ambtshalve, hetzij op verzoek van de bewindvoerder of van de rechthebbende, voor bepaalde of onbepaalde tijd de beloning anders regelen dan bij de instelling of door de wet is aangegeven.    
 2.   Zijn er twee of meer bewindvoerders, dan wordt het loon dat hun gezamenlijk toekomt, tussen hen verdeeld in evenredigheid met de betekenis van de door ieder van hen verrichte werkzaamheden.   
 
 ### Artikel  448  
@@ -3807,7 +3824,7 @@ Voor zover een of meer van de goederen van de betrokkene onder een bewind als be
 ### Artikel  460  
 
 1.  De mentor mag de bij de vervulling van zijn taak noodzakelijk gemaakte kosten aan de betrokkene in rekening brengen.    
-2.   De rechter kan aan de mentor ten laste van de betrokkene een beloning toekennen indien hij zulks redelijk acht, de financiële draagkracht van betrokkene in aanmerking genomen.   
+2.  De mentor heeft aanspraak op beloning overeenkomstig de regels die daaromtrent bij regeling van Onze Minister van Veiligheid en Justitie zijn vastgesteld.  
 
 ### Artikel  461  
 

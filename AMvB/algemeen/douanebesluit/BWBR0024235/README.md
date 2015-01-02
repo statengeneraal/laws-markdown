@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de staatssecretaris van Financiën van 8 februari 2008, nr. DV2007/103 M, gedaan mede namens Onze minister van Landbouw, Natuur en Voedselkwaliteit en de staatssecretaris van Economische Zaken;
 
-Gelet op de [artikelen 1:4](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:19](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:25](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:28](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:30](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [3:1](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [4:1](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [9:5](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [10:10](../../../../wet/algemene/douanewet/BWBR0023746/README.md) en [12:1 van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md);
+Gelet op de artikelen 1:4, 1:19, 1:25, 1:28, 1:30, 3:1, 4:1, 9:5, 10:10 en 12:1 van de Algemene douanewet;
 
 De Raad van State gehoord 10 april 2008, nr. W06.08.0054/III;
 
@@ -18,7 +18,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1:1  
 
-Dit besluit geeft uitvoering aan de [artikelen 1:4](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:19](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:25](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:28](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [1:30](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [3:1](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [4:1](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [9:5](../../../../wet/algemene/douanewet/BWBR0023746/README.md), [10:10](../../../../wet/algemene/douanewet/BWBR0023746/README.md) en [12:1 van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md). 
+Dit besluit geeft uitvoering aan de artikelen 1:4, 1:19, 1:25, 1:28, 1:30, 3:1, 4:1, 9:5, 10:10 en 12:1 van de Algemene douanewet. 
 
 ### Afdeling  1.1  
 
@@ -58,7 +58,7 @@ b. voor het doen vernietigen van goederen, bedoeld in artikel 56 van het Communa
 
 c. voor het ambtshalve onderzoek van de goederen, bedoeld in artikel 241, tweede lid, van de toepassingsverordening Communautair douanewetboek;  
 
-d. inzake het aanvullend onderzoek van goederen, ingeval de verschillen tussen de uitkomst van het gedeeltelijk onderzoek en de uitkomst van het aanvullend onderzoek, blijven binnen de spelingen, bedoeld in [artikel 1:35 van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md).   
+d. inzake het aanvullend onderzoek van goederen, ingeval de verschillen tussen de uitkomst van het gedeeltelijk onderzoek en de uitkomst van het aanvullend onderzoek, blijven binnen de spelingen, bedoeld in artikel 1:35 van de Algemene douanewet.   
 
 ### Afdeling  1.3  
 
@@ -66,9 +66,9 @@ d. inzake het aanvullend onderzoek van goederen, ingeval de verschillen tussen d
 
 ### Artikel  1:5  
 
-1.  De ambtenaar, bedoeld in [artikel 1:28, zesde lid, van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), vermeldt in een schriftelijk verslag de redenen voor het geven van de toestemming over te gaan tot gehele ontkleding dan wel het onderzoek van het onderlichaam.   
+1.  De ambtenaar, bedoeld in artikel 1:28, zesde lid, van de Algemene douanewet, vermeldt in een schriftelijk verslag de redenen voor het geven van de toestemming over te gaan tot gehele ontkleding dan wel het onderzoek van het onderlichaam.   
 2.  Na afloop van de lijfsvisitatie waarbij overgegaan is tot gehele ontkleding dan wel onderzoek van het onderlichaam vult degene die de lijfsvisitatie uitvoert, binnen 48 uur het schriftelijke verslag aan met vermelding van de wijze waarop de lijfsvisitatie is verricht en de resultaten van de lijfsvisitatie. Hij doet dit verslag toekomen aan de inspecteur, en in het geval dat een verpleegkundige het onderzoek van het onderlichaam verricht, doet hij een afschrift toekomen aan de arts die daartoe opdracht heeft gegeven.   
-3.  Op de besloten plaats waar de lijfsvisitatie plaatsvindt waarbij wordt overgegaan tot gehele ontkleding dan wel het onderzoek van het onderlichaam, wordt degene die de lijfsvisitatie uitvoert slechts vergezeld door de ambtenaar, bedoeld in [artikel 1:28, zesde lid, van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md). Hiervan kan worden afgeweken indien deze ambtenaar een redelijk vermoeden heeft dat de persoon die aan lijfsvisitatie wordt onderworpen een gevaar oplevert voor de veiligheid van zichzelf of van anderen.   
+3.  Op de besloten plaats waar de lijfsvisitatie plaatsvindt waarbij wordt overgegaan tot gehele ontkleding dan wel het onderzoek van het onderlichaam, wordt degene die de lijfsvisitatie uitvoert slechts vergezeld door de ambtenaar, bedoeld in artikel 1:28, zesde lid, van de Algemene douanewet. Hiervan kan worden afgeweken indien deze ambtenaar een redelijk vermoeden heeft dat de persoon die aan lijfsvisitatie wordt onderworpen een gevaar oplevert voor de veiligheid van zichzelf of van anderen.   
 4.  Apparatuur waarmee door kleding van personen wordt gekeken, mag op een niet besloten plaats worden gebruikt, mits de beelden op een besloten plaats worden geanalyseerd. De persoon die de beelden analyseert, hoeft niet van hetzelfde geslacht te zijn als dat van de persoon die aan lijfsvisitatie wordt onderworpen.   
 5.  Bij regeling van Onze minister van Financiën kunnen nadere regels worden gesteld met betrekking tot de apparatuur waarmee door kleding van personen wordt gekeken en het gebruik daarvan.  
 
@@ -86,7 +86,7 @@ b.  *meerdere*: de ambtenaar die uit hoofde van zijn functie of krachtens beschi
 
 c.  *geweld*: elke dwangmatige kracht van meer dan geringe betekenis uitgeoefend op personen of goederen;  
 
-d. *geweldsmiddel*: de wapens en uitrusting waarmee met overeenkomstige toepassing van [artikel 3a, derde lid, van de Wet wapens en munitie](../../../../wet/wet/wapens/en/munitie/BWBR0008804/README.md) geweld kan worden uitgeoefend;  
+d. *geweldsmiddel*: de wapens en uitrusting waarmee met overeenkomstige toepassing van artikel 3a, derde lid, van de Wet wapens en munitie geweld kan worden uitgeoefend;  
 
 e.  *aanwenden van een geweldsmiddel*: het gebruiken van een geweldsmiddel, daaronder begrepen het dreigen met een geweldsmiddel, waaronder niet wordt begrepen het uit voorzorg ter hand nemen van een vuurwapen.   
 
@@ -143,8 +143,8 @@ c. enig geweldsmiddel is aangewend en lichamelijk letsel van meer dan geringe be
 
 ### Artikel  1:14  
 
-1.  Het onderzoek, bedoeld in [artikel 1:30, derde lid, van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), geschiedt door het aan de oppervlakte aftasten van de kleding.   
-2.  De ambtenaar die een onderzoek als bedoeld in [artikel 1:30, derde lid, van de Algemene douanewet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), heeft uitgevoerd, meldt dit schriftelijk binnen 48 uur aan zijn meerdere, onder vermelding van de redenen die tot dat onderzoek hebben geleid en de uit het onderzoek voortvloeiende gevolgen en resultaten.  
+1.  Het onderzoek, bedoeld in artikel 1:30, derde lid, van de Algemene douanewet, geschiedt door het aan de oppervlakte aftasten van de kleding.   
+2.  De ambtenaar die een onderzoek als bedoeld in artikel 1:30, derde lid, van de Algemene douanewet, heeft uitgevoerd, meldt dit schriftelijk binnen 48 uur aan zijn meerdere, onder vermelding van de redenen die tot dat onderzoek hebben geleid en de uit het onderzoek voortvloeiende gevolgen en resultaten.  
 
 ### Hoofdstuk  2  
 
@@ -195,7 +195,7 @@ f. *restitutie*: elk bedrag dat ingevolge een EU-verplichting als compenserend b
 
 g. *subsidie*: elk bedrag dat ingevolge een EU-verplichting als compenserend bedrag, als restitutie of onder welke benaming ook, ter zake van de invoer van een landbouwproduct wordt verstrekt;  
 
-h. *bedrijfslichaam*: bedrijfslichaam als bedoeld in [artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie](../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);  
+h. *bedrijfslichaam*: bedrijfslichaam als bedoeld in artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie;  
 
 i. *Verordening (EG) nr. 2173/2005:* Verordening (EG) nr. 2173/2005 van de Raad van 20 december 2005 inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2005, L 347);  
 
@@ -255,19 +255,19 @@ De vergunninghouder aan wie een vergunning is verleend ingevolge de douanewetgev
 
 ### Artikel  6:1  
 
-Indien de belanghebbende, bedoeld in artikel 799 van de Toepassingsverordening Communautair douanewetboek, niet de inspecteur vooraf van de uitoefening van de activiteiten, bedoeld in artikel 172, eerste lid, van het Communautair douanewetboek, in kennis heeft gesteld, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300. 
+Indien de belanghebbende, bedoeld in artikel 799 van de Toepassingsverordening Communautair douanewetboek, niet de inspecteur vooraf van de uitoefening van de activiteiten, bedoeld in artikel 172, eerste lid, van het Communautair douanewetboek, in kennis heeft gesteld, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321. 
 
 ### Artikel  6:2  
 
-Indien niet aan de bij artikel 4:1 opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300. 
+Indien niet aan de bij artikel 4:1 opgelegde verplichting is voldaan, vormt dit een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321. 
 
 ### Artikel  6:3  
 
-Overtreding van het verbod, bedoeld in artikel 3:2, eerste lid, vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 300. 
+Overtreding van het verbod, bedoeld in artikel 3:2, eerste lid, vormt een verzuim ter zake waarvan door de inspecteur een bestuurlijke boete kan worden opgelegd van ten hoogste € 321. 
 
 ### Artikel  6:4  
 
-De in de artikelen 6:1, 6:2 en 6:3 genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig [artikel 9:6a van de wet](../../../../wet/algemene/douanewet/BWBR0023746/README.md), bij ministeriële regeling gewijzigd. 
+De in de artikelen 6:1, 6:2 en 6:3 genoemde bedragen worden elke vijf jaar, met ingang van 1 januari 2015, overeenkomstig artikel 9:6a van de wet, bij ministeriële regeling gewijzigd. 
 
 ### Hoofdstuk  7  
 

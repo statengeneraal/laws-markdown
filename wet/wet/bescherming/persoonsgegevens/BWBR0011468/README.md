@@ -234,7 +234,7 @@ b. verzekeraars als bedoeld in artikel 1:1 van de Wet op het financieel toezicht
 
 c. scholen voor zover dat met het oog op de speciale begeleiding van leerlingen of het treffen van bijzondere voorzieningen in verband met hun gezondheidstoestand noodzakelijk is;  
 
-d. een reclasseringsinstelling, een bijzondere reclasseringsambtenaar, de raad voor de kinderbescherming of de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg en de rechtspersoon, bedoeld in artikel 254, tweede lid, of artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, voor zover dat noodzakelijk is voor de uitvoering van de hun wettelijk opgedragen taken;  
+d. een reclasseringsinstelling, een bijzondere reclasseringsambtenaar, de raad voor de kinderbescherming of de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet en de rechtspersoon, bedoeld in artikel 256, eerste lid, of artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, voor zover dat noodzakelijk is voor de uitvoering van de hun wettelijk opgedragen taken;  
 
 e. Onze Minister voor zover dat in verband met de tenuitvoerlegging van vrijheidsstraffen of vrijheidsbenemende maatregelen noodzakelijk is of  
 
@@ -299,7 +299,7 @@ b. de verwerking voor het betreffende onderzoek of de betreffende statistiek noo
 c. het vragen van uitdrukkelijke toestemming onmogelijk blijkt of een onevenredige inspanning kost en  
 
 d. bij de uitvoering is voorzien in zodanige waarborgen dat de persoonlijke levenssfeer van de betrokkene niet onevenredig wordt geschaad.     
-3.  Verwerkingen als bedoeld in het eerste lid, onder e, worden bij de Europese Commissie gemeld. Onze Minister wie het aangaat verricht de melding indien de verwerking bij wet is voorzien. Het College verricht de melding indien het voor de verwerking ontheffing heeft verleend.  
+3.  Verwerkingen als bedoeld in het eerste lid, onder f, worden bij de Europese Commissie gemeld. Onze Minister wie het aangaat verricht de melding indien de verwerking bij wet is voorzien. Het College verricht de melding indien het voor de verwerking ontheffing heeft verleend.  
 
 ### Artikel  24  
 

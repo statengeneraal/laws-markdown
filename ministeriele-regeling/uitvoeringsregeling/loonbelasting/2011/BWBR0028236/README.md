@@ -35,7 +35,7 @@ d.  * inhoudingsplichtigenverklaring:* de verklaring dat degene aan wie die verk
 
 e.  * Minister:* de Minister van Financiën  
 
-f.  *werkplek:* iedere plaats die in verband met het verrichten van arbeid wordt gebruikt en waarvoor voor de inhoudingsplichtige de Arbeidsomstandighedenwet van toepassing is, met dien verstande dat niet als werkplek wordt aangemerkt een werkruimte gelegen in een woning, een duurzaam aan een plaats gebonden schip of een woonwagen in de zin van artikel 1 van de Huisvestingswet, de aanhorigheden daaronder begrepen, van de werknemer;  
+f.  *werkplek:* iedere plaats die in verband met het verrichten van arbeid wordt gebruikt en waarvoor voor de inhoudingsplichtige de Arbeidsomstandighedenwet van toepassing is, met dien verstande dat niet als werkplek wordt aangemerkt een werkruimte gelegen in een woning, een duurzaam aan een plaats gebonden schip of een woonwagen in de zin van artikel 1, onderdeel l, van de Wet op de huurtoeslag, de aanhorigheden daaronder begrepen, van de werknemer;  
 
 g.  *verbonden vennootschap:* een verbonden vennootschap als bedoeld in artikel 10a, zevende lid, van de wet;  
 
@@ -518,7 +518,7 @@ c. indien de werknemer geen informatie als bedoeld in artikel 7.9 hoeft te vers
 6.  De inhoudingsplichtige houdt, behalve in de gevallen, bedoeld in artikel 26b van de wet, de belasting in aan de hand van de gegevens, vermeld in het hoofd van de loonstaat.   
 7.  De inhoudingsplichtige houdt de loonadministratie op de plaats waar hij in Nederland kantoor houdt of, indien zodanig kantoor niet wordt gehouden, op de plaats waar hij in Nederland woont of gevestigd is, of op de plaats waar hij in Nederland een vaste inrichting voor de uitoefening van zijn bedrijf of beroep of een in Nederland wonende of gevestigde vaste vertegenwoordiger heeft. Bij gebreke daarvan houdt hij de loonadministratie onder zijn berusting. De inspecteur kan een andere plaats aanwijzen.   
 8.  Ingeval de loonberekening door derden wordt uitgevoerd met behulp van mechanische of elektronische apparatuur, kan de Minister, onder door hem te stellen voorwaarden, bepalen dat de loonadministratie op een andere plaats wordt bewaard.   
-9.  Dit artikel is niet van toepassing ten aanzien van de werknemer die uitkeringen geniet ingevolge de Wet werk en bijstand.  
+9.  Dit artikel is niet van toepassing ten aanzien van de werknemer die uitkeringen geniet ingevolge de Participatiewet.  
 
 ### Artikel  7.3  
 
@@ -622,17 +622,17 @@ e. zijn woonplaats en, ingeval hij niet in Nederland woont, zijn woonland en reg
 2.  De inhoudingsplichtige bewaart de in het eerste lid bedoelde gegevens ten minste vijf jaren na het einde van het kalenderjaar waarin de dienstbetrekking is geëindigd.   
 3.  De vorige leden zijn niet van toepassing ten aanzien van: 
 
-a. de werknemer die uitkeringen geniet ingevolge de Wet werk en bijstand;  
+a. de werknemer die uitkeringen geniet ingevolge de Participatiewet;  
 
 b. de werknemer die uitkeringen geniet wegens tijdelijke arbeidsongeschiktheid of uitkeringen ingevolge de Werkloosheidswet, indien degene tot wie de werknemer in dienstbetrekking staat of laatstelijk heeft gestaan, de voor de heffing van de belasting vereiste gegevens, daaronder begrepen het burgerservicenummer, schriftelijk mededeelt aan de inhoudingsplichtige;  
 
-c. de in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, niet heeft bereikt en loon uit vroegere dienstbetrekking geniet indien de inhoudingsplichtige weet dat de werknemer tevens een uitkering ingevolge de Algemene nabestaandenwet, de Wet arbeidsongeschiktheidsverzekering zelfstandigen of een uitkering of een inkomensvoorziening ingevolge de Wet werk en arbeidsondersteuning jonggehandicapten geniet;  
+c. de in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, niet heeft bereikt en loon uit vroegere dienstbetrekking geniet indien de inhoudingsplichtige weet dat de werknemer tevens een uitkering ingevolge de Algemene nabestaandenwet, de Wet arbeidsongeschiktheidsverzekering zelfstandigen of een uitkering of een inkomensvoorziening ingevolge de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten geniet;  
 
 d. de in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt en loon uit tegenwoordige dienstbetrekking geniet, of loon uit vroegere dienstbetrekking geniet waarin niet zijn begrepen de uitkeringen ingevolge de Algemene Ouderdomswet;  
 
 e. de in Nederland wonende werknemer die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt en loon geniet in de vorm van uitkeringen ingevolge de Algemene Ouderdomswet of loon uit vroegere dienstbetrekking geniet waarin zijn begrepen de uitkeringen ingevolge de Algemene Ouderdomswet;  
 
-f. de werknemer die loon geniet in de vorm van een tegemoetkoming als bedoeld in artikel 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten, artikel 63a van de Wet werk en inkomen naar arbeidsvermogen, artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering, artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of artikel 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten.     
+f. de werknemer die loon geniet in de vorm van een tegemoetkoming als bedoeld in artikel 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten, artikel 63a van de Wet werk en inkomen naar arbeidsvermogen, artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering, artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of artikel 3:75 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten.     
 4.  Indien de inhoudingsplichtige niet bekend is met het burgerservicenummer van de in het derde lid bedoelde werknemer, verzoekt de inhoudingsplichtige voor de eerste loonverstrekking de werknemer om opgave van zijn burgerservicenummer. De werknemer doet deze opgave voor de eerste loonverstrekking toekomen aan de inhoudingsplichtige.  
 
 ### Artikel  7.10  
@@ -655,7 +655,7 @@ Als uitkeringen van publiekrechtelijke aard die buiten aanmerking worden gelaten
 
 a. uitkeringen ingevolge de Uitkeringswet tegemoetkoming twee tot vijfjarige diensttijd veteranen;  
 
-b. tegemoetkomingen ingevolge artikel 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten, artikel 63a van de Wet werk en inkomen naar arbeidsvermogen, artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering, artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en artikel 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten;  
+b. tegemoetkomingen ingevolge artikel 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten, artikel 63a van de Wet werk en inkomen naar arbeidsvermogen, artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering, artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen en artikel 3:75 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
 c. uitkeringen verstrekt door de Conterganstiftung für behinderte Menschen.  
 
@@ -745,7 +745,7 @@ Degene tot wie een werknemer in dienstbetrekking staat – of, indien krachtens 
 
 ####Meerdere gevallen van loon uit vroegere dienstbetrekking
 
-Een inhoudingsplichtige die aan een of meer werknemers loon uit een vroegere dienstbetrekking – niet zijnde uitkeringen ingevolge de Wet werk en bijstand – verstrekt, wordt ook geacht te verstrekken: 
+Een inhoudingsplichtige die aan een of meer werknemers loon uit een vroegere dienstbetrekking – niet zijnde uitkeringen ingevolge de Participatiewet – verstrekt, wordt ook geacht te verstrekken: 
 
 a. het loon uit een vroegere dienstbetrekking dat door zijn tussenkomst wordt uitbetaald;  
 
@@ -758,7 +758,7 @@ b. de uit de vroegere dienstbetrekking genoten aanspraak op uitkeringen ingevolg
 1.  Een inhoudingsplichtige wordt in de gevallen, bedoeld in de artikelen 9.1 en 9.3, alsmede indien hij loon uit meer dan een vroegere dienstbetrekking verstrekt, geacht het totale bedrag aan loon te verstrekken uit een dienstbetrekking of vroegere dienstbetrekking.   
 2.  Het eerste lid is niet van toepassing op de samenloop van: 
 
-a. een tegemoetkoming als bedoeld in artikel 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten, artikel 63a van de Wet werk en inkomen naar arbeidsvermogen, artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering, artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of artikel 3:75 van de Wet werk en arbeidsondersteuning jonggehandicapten en ander loon uit vroegere dienstbetrekking dat de inhoudingsplichtige verstrekt;  
+a. een tegemoetkoming als bedoeld in artikel 11a van de Wet tegemoetkoming chronisch zieken en gehandicapten, artikel 63a van de Wet werk en inkomen naar arbeidsvermogen, artikel 65l van de Wet op de arbeidsongeschiktheidsverzekering, artikel 67i van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of artikel 3:75 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten en ander loon uit vroegere dienstbetrekking dat de inhoudingsplichtige verstrekt;  
 
 b. een uitkering ter zake van een afkoop als bedoeld in artikel 3.133, tweede lid, onderdeel d, van de Wet inkomstenbelasting 2001 en ander loon uit vroegere dienstbetrekking dat de inhoudingsplichtige verstrekt.    
 

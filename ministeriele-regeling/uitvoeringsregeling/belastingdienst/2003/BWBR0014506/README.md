@@ -3,12 +3,12 @@
 ##Uitvoeringsregeling Belastingdienst 2003
 
 De Staatssecretaris van Financiën, voorzover nodig in overeenstemming met de Minister van Justitie,  
-Gelet op de [artikelen 2, derde lid, onderdeel b, en vierde lid](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [3, tweede lid](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [53, tweede lid](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [56](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [84 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [artikelen 4, tweede lid](../../../../../wet/douanewet/BWBR0007632/README.md), [15, tweede lid](../../../../../wet/douanewet/BWBR0007632/README.md), en [18 van de Douanewet](../../../../../wet/douanewet/BWBR0007632/README.md) en de [artikelen 2, eerste lid, onderdeel i](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [5, tweede lid](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [63a van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md);
+Gelet op de artikelen 2, derde lid, onderdeel b, en vierde lid, 3, tweede lid, 53, tweede lid, 56 en 84 van de Algemene wet inzake rijksbelastingen, de artikelen 4, tweede lid, 15, tweede lid, en 18 van de Douanewet en de artikelen 2, eerste lid, onderdeel i, 5, tweede lid, en 63a van de Invorderingswet 1990;
 Besluit:    
 
 ### Artikel  1  
 
-Deze regeling berust op de [artikelen 2, derde lid, onderdeel b, en vierde lid](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [3, tweede lid](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [39](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [56](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [84 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [artikelen 2, eerste lid, onderdeel i](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [5, tweede lid](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), en [63a van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [artikel 2, eerste lid, onderdeel e, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), [artikel 1, onderdelen h en i, van het Besluit tegemoetkoming specifieke zorgkosten](../../../../../AMvB/besluit/tegemoetkoming/specifieke/zorgkosten/BWBR0027859/README.md), [artikel 19 van de Wet tegemoetkoming chronisch zieken en gehandicapten](../../../../../wet/wet/tegemoetkoming/chronisch/zieken/en/gehandicapten/BWBR0025003/README.md), [artikel 1, onderdeel t, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md), [artikel 1, onderdeel g, van de Invoeringswet Wet financiering sociale verzekeringen](../../../../../wet/invoeringswet/wet/financiering/sociale/verzekeringen/BWBR0017747/README.md), [artikel 252a, tweede lid, onderdeel c, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md) en de [artikelen 1.3, onderdelen k en l](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), en [8.1 van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md). 
+Deze regeling berust op de artikelen 2, derde lid, onderdeel b, en vierde lid, 3, tweede lid, 39, 56 en 84 van de Algemene wet inzake rijksbelastingen, de artikelen 2, eerste lid, onderdeel i, 5, tweede lid, en 63a van de Invorderingswet 1990, artikel 2, eerste lid, onderdeel e, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen, artikel 1, onderdelen h en i, van het Besluit tegemoetkoming specifieke zorgkosten, artikel 19 van de Wet tegemoetkoming chronisch zieken en gehandicapten, artikel 1, onderdeel t, van de Wet financiering sociale verzekeringen, artikel 1, onderdeel g, van de Invoeringswet Wet financiering sociale verzekeringen, artikel 252a, tweede lid, onderdeel c, van Boek 7 van het Burgerlijk Wetboek en de artikelen 1.3, onderdelen k en l, en 8.1 van de Belastingwet BES. 
 
 ### Hoofdstuk  1  
 
@@ -61,7 +61,7 @@ b2.Douaneregio’s:
 
 c1. Belastingdienst/Centrale administratie (B/CA);  
 
-c2. Belastingdienst/Fiscale inlichtingen- en opsporingsdienst – Economische controledienst (FIOD-ECD of FIOD); 
+c2. Belastingdienst/Fiscale inlichtingen- en opsporingsdienst (FIOD); 
 
 d.  - Belastingdienst /Centrum voor applicatieontwikkeling en -onderhoud (B/CAO); - Belastingdienst/Centrum voor infrastructuur en exploitatie (B/CIE); - Belastingdienst/Centrum voor facilitaire dienstverlening (B/CFD); - Belastingdienst/Centrum voor kennis en communicatie (B/CKC); - Belastingdienst/BelastingTelefoon;- Belastingdienst/Central Liaison Office (B/CLO); 
 
@@ -75,30 +75,30 @@ a. de rechten bij invoer en de rechten bij uitvoer;
 
 b. de accijnzen;  
 
-c. de omzetbelasting, indien [artikel 28 van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) toepassing vindt, de omzetbelasting bij invoer, tenzij [artikel 23 van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) toepassing vindt, alsmede de algemene bestedingsbelasting;  
+c. de omzetbelasting, indien artikel 28 van de Wet op de omzetbelasting 1968 toepassing vindt, de omzetbelasting bij invoer, tenzij artikel 23 van de Wet op de omzetbelasting 1968 toepassing vindt, alsmede de algemene bestedingsbelasting;  
 
 d. de verbruiksbelastingen van alcoholvrije dranken en van pruimtabak en snuiftabak;  
 
-e. de kolenbelasting, voor zover deze wordt geheven ter zake van de invoer, bedoeld in de [artikelen 32, eerste lid, onderdeel m](../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md), en [35 van de Wet belastingen op milieugrondslag](../../../../../wet/wet/belastingen/op/milieugrondslag/BWBR0007168/README.md).     
+e. de kolenbelasting, voor zover deze wordt geheven ter zake van de invoer, bedoeld in de artikelen 32, eerste lid, onderdeel m, en 35 van de Wet belastingen op milieugrondslag.     
 4.  De B/CA is belast met de heffing en invordering van de motorrijtuigenbelasting en de belasting zware motorrijtuigen en is mede belast met de heffing en invordering van overige rijksbelastingen. De B/CA is mede belast met de uitvoering van de basisregistratie inkomen.   
 5.  De Belastingdienst/Toeslagen is belast met het toekennen, uitbetalen en terugvorderen van: 
 
-a. het kindgebonden budget, bedoeld in de [Wet op het kindgebonden budget](../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md);  
+a. het kindgebonden budget, bedoeld in de Wet op het kindgebonden budget;  
 
-b. de kinderopvangtoeslag, bedoeld in de [Wet kinderopvang en kwaliteitseisen peuterspeelzalen](../../../../../wet/wet/kinderopvang/BWBR0017017/README.md);  
+b. de kinderopvangtoeslag, bedoeld in de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;  
 
-c. de zorgtoeslag, bedoeld in de [Wet op de zorgtoeslag](../../../../../wet/wet/op/de/zorgtoeslag/BWBR0018451/README.md);  
+c. de zorgtoeslag, bedoeld in de Wet op de zorgtoeslag;  
 
-d. de huurtoeslag, bedoeld in de [Wet op de huurtoeslag](../../../../../wet/huursubsidiewet/BWBR0008659/README.md).   
+d. de huurtoeslag, bedoeld in de Wet op de huurtoeslag.   
 
 ### Artikel  3a  
 
 1. De in artikel 3, eerste lid, onderdelen b1 en b2, genoemde organisatieonderdelen zijn mede belast met de heffing en invordering van de belasting van personenauto’s en motorrijwielen, tenzij: 
 
-a. de belasting wordt voldaan door de vergunninghouder, bedoeld in [artikel 8 van de Wet op de belasting van personenauto’s en motorrijwielen 1992](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), of  
+a. de belasting wordt voldaan door de vergunninghouder, bedoeld in artikel 8 van de Wet op de belasting van personenauto’s en motorrijwielen 1992, of  
 
 b. teruggaaf op verzoek wordt verleend.  
-2. De in artikel 3, eerste lid, onderdelen b1 en b2, genoemde organisatieonderdelen zijn mede belast met de heffing en invordering van de omzetbelasting, indien [artikel 7, zesde lid](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md), of [artikel 17h, tweede of derde lid, van de Wet op de omzetbelasting 1968](../../../../../wet/wet/op/de/omzetbelasting/1968/BWBR0002629/README.md) toepassing vindt. 
+2. De in artikel 3, eerste lid, onderdelen b1 en b2, genoemde organisatieonderdelen zijn mede belast met de heffing en invordering van de omzetbelasting, indien artikel 7, zesde lid, of artikel 17h, tweede of derde lid, van de Wet op de omzetbelasting 1968 toepassing vindt. 
 
 ### Artikel  4  
 
@@ -112,36 +112,36 @@ b. teruggaaf op verzoek wordt verleend.
 
 ### Artikel  5  
 
-1. De landelijk directeuren, de directeuren van de organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdelen a2 en c1, en de algemeen directeur Douane zijn inspecteur en ontvanger als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [artikel 1.3, onderdeel k, van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md).   
-2.  De directeur-generaal Belastingdienst is inspecteur en ontvanger als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en in [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) voorzover het de belastingaangelegenheden betreft die verband houden met het Koninklijk Huis. 
+1. De landelijk directeuren, de directeuren van de organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdelen a2 en c1, en de algemeen directeur Douane zijn inspecteur en ontvanger als bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen, artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990 en artikel 1.3, onderdeel k, van de Belastingwet BES.   
+2.  De directeur-generaal Belastingdienst is inspecteur en ontvanger als bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen en in artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990 voorzover het de belastingaangelegenheden betreft die verband houden met het Koninklijk Huis. 
 
 ###Artikel 5a 
 
-1.  De landelijk directeuren, de directeuren van de organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdelen a2 en c1, en de algemeen directeur Douane zijn inspecteur als bedoeld in [artikel 1, onderdeel t, van de Wet financiering sociale verzekeringen](../../../../../wet/wet/financiering/sociale/verzekeringen/BWBR0017745/README.md) en [artikel 1, onderdeel g, van de Invoeringswet Wet financiering sociale verzekeringen](../../../../../wet/invoeringswet/wet/financiering/sociale/verzekeringen/BWBR0017747/README.md).   
-2.  De landelijk directeuren en de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel a2, zijn inspecteur en ontvanger als bedoeld in [artikel 1, onderdeel h onderscheidenlijk onderdeel i, van het Besluit tegemoetkoming specifieke zorgkosten](../../../../../AMvB/besluit/tegemoetkoming/specifieke/zorgkosten/BWBR0027859/README.md).   
-3.  De directeur van het in artikel 3, eerste lid, onderdeel c1, genoemde organisatieonderdeel is inspecteur als bedoeld in [artikel 252a, tweede lid, onderdeel c, van Boek 7 van het Burgerlijk Wetboek](../../../../../wet/burgerlijk/wetboek/boek/7/BWBR0005290/README.md). 
+1.  De landelijk directeuren, de directeuren van de organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdelen a2 en c1, en de algemeen directeur Douane zijn inspecteur als bedoeld in artikel 1, onderdeel t, van de Wet financiering sociale verzekeringen en artikel 1, onderdeel g, van de Invoeringswet Wet financiering sociale verzekeringen.   
+2.  De landelijk directeuren en de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel a2, zijn inspecteur en ontvanger als bedoeld in artikel 1, onderdeel h onderscheidenlijk onderdeel i, van het Besluit tegemoetkoming specifieke zorgkosten.   
+3.  De directeur van het in artikel 3, eerste lid, onderdeel c1, genoemde organisatieonderdeel is inspecteur als bedoeld in artikel 252a, tweede lid, onderdeel c, van Boek 7 van het Burgerlijk Wetboek. 
 
 ### Artikel  5b  
 
-De directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel a2, is belastingdeurwaarder als bedoeld in [artikel 1.3, onderdeel l, van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md). 
+De directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel a2, is belastingdeurwaarder als bedoeld in artikel 1.3, onderdeel l, van de Belastingwet BES. 
 
 ### Artikel  6  
 
-De landelijk directeur van de Belastingdienst/Grote ondernemingen is inspecteur en ontvanger als bedoeld in [artikel 54, onderdelen f en g, van de Mijnbouwwet](../../../../../wet/mijnbouwwet/BWBR0014168/README.md). 
+De landelijk directeur van de Belastingdienst/Grote ondernemingen is inspecteur en ontvanger als bedoeld in artikel 54, onderdelen f en g, van de Mijnbouwwet. 
 
 ### Artikel  6a  
 
-De bevoegde functionaris, bedoeld in [artikel 2, eerste lid, onderdeel e, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) is: 
+De bevoegde functionaris, bedoeld in artikel 2, eerste lid, onderdeel e, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen is: 
 
-a. voor de toepassing van de [artikelen 4e](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) en [4l van die wet](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md): de inspecteur, bedoeld in artikel 5, eerste lid;  
+a. voor de toepassing van de artikelen 4e en 4l van die wet: de inspecteur, bedoeld in artikel 5, eerste lid;  
 
-b. voor de toepassing van de [artikelen 4j](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), [4k](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md) en [6a van die wet](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md): de directeur van de Belastingdienst/Centrale administratie (B/CA);  
+b. voor de toepassing van de artikelen 4j, 4k en 6a van die wet: de directeur van de Belastingdienst/Centrale administratie (B/CA);  
 
-c. voor de toepassing van [artikel 4o van die wet](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md): de landelijk directeur van de Belastingdienst/Midden- en kleinbedrijf.   
+c. voor de toepassing van artikel 4o van die wet: de landelijk directeur van de Belastingdienst/Midden- en kleinbedrijf.   
 
 ###Artikel 7 
 
-De algemeen directeur Belastingen is directeur als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md).
+De algemeen directeur Belastingen is directeur als bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen en artikel 2, eerste lid, onderdeel i, van de Invorderingswet 1990.
 
 ### Artikel  8  
 
@@ -149,16 +149,16 @@ De algemeen directeur Belastingen, de landelijk directeuren, de directeuren van 
 
 ### Artikel  9  
 
-1. De landelijk directeuren, de directeuren van de organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdelen a2 en c1, en de algemeen directeur Douane zijn ambtenaar als bedoeld in [artikel 84 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md). 
-2. Als functionarissen als bedoeld in [artikel 76, eerste lid, tweede volzin, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) worden aangewezen de ambtenaren van de Belastingdienst (contactambtenaren) die door de in het eerste lid aangewezen ambtenaren zijn aangewezen om namens hen de bevoegdheid, bedoeld in [artikel 84 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), uit te oefenen.
+1. De landelijk directeuren, de directeuren van de organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdelen a2 en c1, en de algemeen directeur Douane zijn ambtenaar als bedoeld in artikel 84 van de Algemene wet inzake rijksbelastingen. 
+2. Als functionarissen als bedoeld in artikel 76, eerste lid, tweede volzin, van de Algemene wet inzake rijksbelastingen worden aangewezen de ambtenaren van de Belastingdienst (contactambtenaren) die door de in het eerste lid aangewezen ambtenaren zijn aangewezen om namens hen de bevoegdheid, bedoeld in artikel 84 van de Algemene wet inzake rijksbelastingen, uit te oefenen.
 
 ### Artikel  9a  
 
-De ambtenaren van de organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdelen a1, a2, c1 en c2, zijn voor de toepassing van [artikel 94 van de Wet op het notarisambt inspecteur](../../../../../wet/notariswet/BWBR0010388/README.md) als bedoeld in [artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md). 
+De ambtenaren van de organisatieonderdelen, genoemd in artikel 3, eerste lid, onderdelen a1, a2, c1 en c2, zijn voor de toepassing van artikel 94 van de Wet op het notarisambt inspecteur als bedoeld in artikel 2, derde lid, onderdeel b, van de Algemene wet inzake rijksbelastingen. 
 
 ### Artikel  10  
 
-De verplichtingen die ingevolge de [artikelen 47](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [47a](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [48](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [49](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [50](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [53](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md) en [55 van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), de [artikelen 58](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [59](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md), [60](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en [62 van de Invorderingswet 1990](../../../../../wet/invorderingswet/1990/BWBR0004770/README.md) en de [artikelen 8.83](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.84](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.85](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md), [8.87](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) en [8.91 van de Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) bestaan jegens de inspecteur en de ontvanger, gelden mede jegens de directeur van de FIOD alsmede jegens de door deze directeur aangewezen ambtenaren van de Belastingdienst.  
+De verplichtingen die ingevolge de artikelen 47, 47a, 48, 49, 50, 53 en 55 van de Algemene wet inzake rijksbelastingen, de artikelen 58, 59, 60 en 62 van de Invorderingswet 1990 en de artikelen 8.83, 8.84, 8.85, 8.87 en 8.91 van de Belastingwet BES bestaan jegens de inspecteur en de ontvanger, gelden mede jegens de directeur van de FIOD alsmede jegens de door deze directeur aangewezen ambtenaren van de Belastingdienst.  
 
 ### Hoofdstuk  3  
 
@@ -178,11 +178,11 @@ b. voor de heffing en invordering, bedoeld in artikel 3, vierde lid, en voor de 
 2.  De landelijk directeuren, de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel a2, en de algemeen directeur Douane kunnen voor de toepassing van deze regeling bepalen dat een natuurlijk persoon of een lichaam al dan niet tezamen met een of meer daarmee direct of indirect in bestuurlijk, financieel, administratief of maatschappelijk opzicht verbonden natuurlijke personen of lichamen als een entiteit wordt beschouwd.   
 3.  De algemeen directeur Belastingen, de algemeen directeur Douane en de directeur van het organisatieonderdeel, genoemd in artikel 3, eerste lid, onderdeel c1, kunnen nadere richtlijnen geven omtrent het bepaalde in dit hoofdstuk en kunnen afwijken van de bepalingen van dit hoofdstuk.   
 4.  De woonplaats van een natuurlijk persoon en de vestigingsplaats van een lichaam of een entiteit worden naar de omstandigheden beoordeeld.   
-5.  In afwijking in zoverre van dit hoofdstuk, ressorteert een natuurlijk persoon die, een lichaam dat of een entiteit die belasting- of inhoudingsplichtig is op grond van de [Belastingwet BES](../../../../../wet-BES/belastingwet/bes/BWBR0029244/README.md) of de [Douane- en Accijnswet BES](../../../../../wet-BES/douane-/en/accijnswet/bes/BWBR0029236/README.md) onder de directeur van de Belastingdienst/Caribisch Nederland.  
+5.  In afwijking in zoverre van dit hoofdstuk, ressorteert een natuurlijk persoon die, een lichaam dat of een entiteit die belasting- of inhoudingsplichtig is op grond van de Belastingwet BES of de Douane- en Accijnswet BES onder de directeur van de Belastingdienst/Caribisch Nederland.  
 
 ### Artikel  18  
 
-Met betrekking tot de uitvoering van [artikel 53, tweede en derde lid, van de Algemene wet inzake rijksbelastingen](../../../../../wet/algemene/wet/inzake/rijksbelastingen/BWBR0002320/README.md), [artikel 35a van de Wet op de belastingen van personenauto’s en motorrijwielen 1992](../../../../../wet/wet/op/de/belasting/van/personenauto's/en/motorrijwielen/1992/BWBR0005806/README.md), zoals dat artikel luidde op 31 december 2002, en [artikel 8, vierde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen](../../../../../wet/wet/op/de/internationale/bijstandsverlening/bij/de/heffing/van/belastingen/BWBR0003954/README.md), ressorteert de natuurlijk persoon, het lichaam, de entiteit of de administratieplichtige onder de directeur van de B/CA.  
+Met betrekking tot de uitvoering van artikel 53, tweede en derde lid, van de Algemene wet inzake rijksbelastingen, artikel 35a van de Wet op de belastingen van personenauto’s en motorrijwielen 1992, zoals dat artikel luidde op 31 december 2002, en artikel 8, vierde lid, van de Wet op de internationale bijstandsverlening bij de heffing van belastingen, ressorteert de natuurlijk persoon, het lichaam, de entiteit of de administratieplichtige onder de directeur van de B/CA.  
 
 ### Artikel  19  
 
@@ -191,7 +191,7 @@ Met betrekking tot de uitvoering van [artikel 53, tweede en derde lid, van de A
 a.de landelijk directeur van de Belastingdienst/Particulieren, dienstverlening en bezwaar (kantoor Den Haag): met betrekking tot de directe belastingen, de inkomstenbelasting en de omzetbelasting op diensten; en
 
 b.onder de algemeen directeur Douane:, met betrekking tot alle andere rijksbelastingen.  
-2.  Onder de landelijk directeur, genoemd in het eerste lid, onderdeel a, en de algemeen directeur Douane ressorteren de personeelsleden van de daar genoemde organisaties en hun partners als bedoeld in [artikel 1.2 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), kinderen en andere inwonende gezinsleden van deze personeelsleden, alsmede gewezen personeelsleden van deze organisaties, of hun nagelaten betrekkingen die van de desbetreffende organisatie een pensioen ontvangen en gewezen personeelsleden van deze organisaties die van de desbetreffende organisatie geen pensioen ontvangen, indien en zolang een tijdens de actieve periode ontstaan verlies als bedoeld in [artikel 3.150 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md) niet is verrekend.   
+2.  Onder de landelijk directeur, genoemd in het eerste lid, onderdeel a, en de algemeen directeur Douane ressorteren de personeelsleden van de daar genoemde organisaties en hun partners als bedoeld in artikel 1.2 van de Wet inkomstenbelasting 2001, kinderen en andere inwonende gezinsleden van deze personeelsleden, alsmede gewezen personeelsleden van deze organisaties, of hun nagelaten betrekkingen die van de desbetreffende organisatie een pensioen ontvangen en gewezen personeelsleden van deze organisaties die van de desbetreffende organisatie geen pensioen ontvangen, indien en zolang een tijdens de actieve periode ontstaan verlies als bedoeld in artikel 3.150 van de Wet inkomstenbelasting 2001 niet is verrekend.   
 
 ### Artikel  20  
 
@@ -276,8 +276,8 @@ e. de Amerikaanse Militaire Begraafplaats te Margraten.
 a. internationale organisaties en NAVO-onderdelen gevestigd, dan wel gelegerd in andere lidstaten van de Europese Unie, alsmede de daaraan verbonden personeelsleden;  
 
 b. internationale organisaties gevestigd buiten het grondgebied van de Europese Unie.     
-4.  Onder de landelijk directeur, genoemd in het eerste lid, ressorteren de personeelsleden van de daar genoemde organisaties en hun partners als bedoeld in [artikel 1.2 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md), kinderen en andere inwonende gezinsleden van deze personeelsleden, alsmede gewezen personeelsleden van deze organisaties, of hun nagelaten betrekkingen die van de desbetreffende organisatie een pensioen ontvangen en personeelsleden van in Nederland gevestigde diplomatieke en consulaire vertegenwoordigingen, met uitzondering van honoraire consuls, alsmede personeelsleden van de in het tweede lid genoemde instellingen voorzover zij in aanmerking komen voor diplomatieke vrijstellingen van belastingen.    
-5.  Onder de landelijk directeur, genoemd in het eerste lid, ressorteren de Nederlandse leden van het Europees Parlement en hun partners als bedoeld in [artikel 1.2 van de Wet inkomstenbelasting 2001](../../../../../wet/wet/inkomstenbelasting/2001/BWBR0011353/README.md). 
+4.  Onder de landelijk directeur, genoemd in het eerste lid, ressorteren de personeelsleden van de daar genoemde organisaties en hun partners als bedoeld in artikel 1.2 van de Wet inkomstenbelasting 2001, kinderen en andere inwonende gezinsleden van deze personeelsleden, alsmede gewezen personeelsleden van deze organisaties, of hun nagelaten betrekkingen die van de desbetreffende organisatie een pensioen ontvangen en personeelsleden van in Nederland gevestigde diplomatieke en consulaire vertegenwoordigingen, met uitzondering van honoraire consuls, alsmede personeelsleden van de in het tweede lid genoemde instellingen voorzover zij in aanmerking komen voor diplomatieke vrijstellingen van belastingen.    
+5.  Onder de landelijk directeur, genoemd in het eerste lid, ressorteren de Nederlandse leden van het Europees Parlement en hun partners als bedoeld in artikel 1.2 van de Wet inkomstenbelasting 2001. 
 
 ### Hoofdstuk  4  
 
@@ -289,7 +289,7 @@ De Uitvoeringsregeling Belastingdienst wordt ingetrokken.
 
 ### Artikel  26a  
 
-Artikel 3, vijfde lid, onderdeel a, is van overeenkomstige toepassing op de kindertoeslag, bedoeld in [artikel 6a van de Wet op het kindgebonden budget](../../../../../wet/wet/op/het/kindgebonden/budget/BWBR0022751/README.md). 
+Artikel 3, vijfde lid, onderdeel a, is van overeenkomstige toepassing op de kindertoeslag, bedoeld in artikel 6a van de Wet op het kindgebonden budget. 
 
 ### Artikel  27  
 

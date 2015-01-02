@@ -1555,9 +1555,9 @@ b.zodra hij dat weet of redelijkerwijs behoort te weten, prompt de informatie ve
 
 1.  De artikelen 165, 166, 169, 171, 173, 174, 175, 176, 177 en 185, alsmede de afdelingen 4 van titel 6, 4 van titel 11, 1 van titel 14 en 4 van titel 19 van Boek 8 blijven buiten toepassing:  
 
-a. bij de vaststelling van het totale bedrag waarvoor aansprakelijkheid naar burgerlijk recht zou bestaan, vereist voor de berekening van het bedrag waarvoor verhaal bestaat krachtens artikel 107a en de artikelen 99 van de Wet werk en inkomen naar arbeidsvermogen, 90 van de Wet op de arbeidsongeschiktheidsverzekering, 68 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, 4:1 van de Wet werk en arbeidsondersteuning jonggehandicapten, 52a van de Ziektewet, 61 van de Algemene nabestaandenwet, 65b van de Algemene Wet Bijzondere Ziektekosten en 8 van de Wet arbeidsongeschiktheidsvoorziening militairen;  
+a. bij de vaststelling van het totale bedrag waarvoor aansprakelijkheid naar burgerlijk recht zou bestaan, vereist voor de berekening van het bedrag waarvoor verhaal bestaat krachtens artikel 107a en de artikelen 99 van de Wet werk en inkomen naar arbeidsvermogen, 90 van de Wet op de arbeidsongeschiktheidsverzekering, 69 van de Wet arbeidsongeschiktheidsverzekering zelfstandigen, 4:2 van de Wet werk en arbeidsondersteuning jonggehandicapten, 52a van de Ziektewet, 61 van de Algemene nabestaandenwet, artikel 10.2.2 van de Wet langdurige zorg, artikel 2.4.3 Wet maatschappelijke ondersteuning 2015 en 8 van de Wet arbeidsongeschiktheidsvoorziening militairen;  
 
-b. bij de vaststelling van het bedrag, bedoeld in artikel 3 van de Verhaalswet ongevallen ambtenaren waarboven de gehoudenheid krachtens die wet of krachtens artikel 70 van de Wet privatisering ABP zich niet uitstrekt.      
+b. bij de vaststelling van het bedrag, bedoeld in artikel 3 van de Verhaalswet ongevallen ambtenaren waarboven de gehoudenheid krachtens die wet of krachtens artikel 75 van de Wet privatisering ABP zich niet uitstrekt.      
 2.   Rechten uit de artikelen 165, 166, 169, 171, 173, 174, 175, 176, 177 en 185, alsmede de afdelingen 4 van titel 6, 4 van titel 11, 1 van titel 14 en 4 van titel 19 van Boek 8 zijn niet vatbaar voor subrogatie:  
 
 a. krachtens artikel 962 van Boek 7, behoudens voor zover de uitkering door de verzekeraar de aansprakelijkheid van de verzekerde betreft en een ander krachtens deze artikelen mede aansprakelijk was;   
@@ -2342,7 +2342,7 @@ l. dat ten nadele van de wederpartij afwijkt van artikel 37 van Boek 3, tenzij h
 
 m. waarbij een wederpartij die bij het aangaan van de overeenkomst werkelijke woonplaats in een gemeente in Nederland heeft, woonplaats kiest anders dan voor het geval zij te eniger tijd geen bekende werkelijke woonplaats in die gemeente zal hebben, tenzij de overeenkomst betrekking heeft op een registergoed en woonplaats ten kantore van een notaris wordt gekozen;   
 
-n. dat voorziet in de beslechting van een geschil door een ander dan hetzij de rechter die volgens de wet bevoegd zou zijn, hetzij een of meer arbiters, tenzij het de wederpartij een termijn gunt van tenminste een maand nadat de gebruiker zich schriftelijk jegens haar op het beding heeft beroepen, om voor beslechting van het geschil door de volgens de wet bevoegde rechter te kiezen;  
+n. dat voorziet in de beslechting van een geschil door een ander dan de rechter die volgens de wet bevoegd zou zijn, tenzij het de wederpartij een termijn gunt van tenminste een maand nadat de gebruiker zich schriftelijk jegens haar op het beding heeft beroepen, om voor beslechting van het geschil door de volgens de wet bevoegde rechter te kiezen;  
 
 o. dat de bevoegdheid van de wederpartij om de overeenkomst, die mondeling, schriftelijk of langs elektronische weg tot stand is gekomen, op een overeenkomstige wijze op te zeggen, uitsluit of beperkt;  
 

@@ -309,7 +309,7 @@ De artikelen 27 tot en met 31 zijn van overeenkomstige toepassing met betrekking
 1.  Het vonnis van faillietverklaring heeft ten gevolge, dat alle gerechtelijke tenuitvoerlegging op enig deel van het vermogen van de schuldenaar, vóór het faillissement aangevangen, dadelijk een einde neemt, en dat, ook van hetzelfde ogenblik af, geen vonnis bij lijfsdwang kan worden ten uitvoer gelegd.    
 2.  Gelegde beslagen vervallen; de inschrijving van een desbetreffende verklaring van de rechter-commissaris machtigt de bewaarder van de openbare registers tot doorhaling. Het beslag herleeft, zodra het faillissement een einde neemt ten gevolge van vernietiging of opheffing van het faillissement, mits het goed dan nog tot de boedel behoort. Indien de inschrijving van het beslag in de openbare registers is doorgehaald, vervalt de herleving, indien niet binnen veertien dagen na de herleving een exploot is ingeschreven, waarbij van de herleving mededeling aan de schuldenaar is gedaan.    
 3.  Indien de schuldenaar zich in gijzeling bevindt, wordt hij ontslagen, zodra het vonnis van faillietverklaring in kracht van gewijsde is gegaan, behoudens toepassing van artikel 87.    
-4.  Het bepaalde bij dit artikel geldt niet voor lijfsdwang bij vonnissen, beschikkingen en authentieke akten, waarbij een uitkering tot levensonderhoud, krachtens het Boek 1 van het Burgerlijk Wetboek verschuldigd, daaronder begrepen het verschuldigde voor verzorging en opvoeding van een minderjarige en voor levensonderhoud en studie van een meerderjarige die de leeftijd van een en twintig jaren niet heeft bereikt, is bevolen of toegezegd, alsmede beschikkingen, waarbij een uitkering, krachtens artikel 85 lid 2 van Boek 1 van het Burgerlijk Wetboek door de ene partner aan de andere partner verschuldigd, is bevolen, alsmede besluiten op grond van paragraaf 6.5 van de Wet werk en bijstand.  
+4.  Het bepaalde bij dit artikel geldt niet voor lijfsdwang bij vonnissen, beschikkingen en authentieke akten, waarbij een uitkering tot levensonderhoud, krachtens het Boek 1 van het Burgerlijk Wetboek verschuldigd, daaronder begrepen het verschuldigde voor verzorging en opvoeding van een minderjarige en voor levensonderhoud en studie van een meerderjarige die de leeftijd van een en twintig jaren niet heeft bereikt, is bevolen of toegezegd, alsmede beschikkingen, waarbij een uitkering, krachtens artikel 85 lid 2 van Boek 1 van het Burgerlijk Wetboek door de ene partner aan de andere partner verschuldigd, is bevolen, alsmede besluiten op grond van paragraaf 6.5 van de Participatiewet.  
 
 ### Artikel  34  
 
@@ -879,7 +879,7 @@ Bij het faillissement van een rechtspersoon rust op de bestuurders de verplichti
 
 1.  In geval van betwisting beproeft de rechter-commissaris een schikking. Indien hij partijen niet kan verenigen, en voorzover het geschil niet reeds aanhangig is, verwijst hij partijen naar een door hem te bepalen terechtzitting van de rechtbank, zonder dat daartoe een dagvaarding wordt vereist.  
 2.  De advocaten, die voor partijen optreden, verklaren dit bij de oproeping der zaak ter terechtzitting.    
-3.  Verschijnt de schuldeiser, die de verificatie vraagt, op de bepaalde terechtzitting niet of heeft hij het griffierecht niet tijdig voldaan, dan wordt hij geacht zijn aanvraag te hebben ingetrokken; verschijnt hij die de betwisting doet niet of heeft hij het griffierecht niet tijdig voldaan, dan wordt hij geacht zijn betwisting te laten varen en erkent de rechter de vorderinging. Artikel 127a, derde en vierde lid, van het Wetboek van burgerlijke rechtsvordering is van overeenkomstige toepassing.   
+3.  Verschijnt de schuldeiser, die de verificatie vraagt, op de bepaalde terechtzitting niet of heeft hij het griffierecht niet tijdig voldaan, dan wordt hij geacht zijn aanvraag te hebben ingetrokken; verschijnt hij die de betwisting doet niet of heeft hij het griffierecht niet tijdig voldaan, dan wordt hij geacht zijn betwisting te laten varen en erkent de rechter de vordering. Artikel 127a, derde en vierde lid, van het Wetboek van burgerlijke rechtsvordering is van overeenkomstige toepassing.   
 4.  Schuldeisers, die ter verificatievergadering geen betwisting hebben gedaan, kunnen in het geding zich niet voegen noch tussenkomen.  
 
 ### Artikel  122a  
@@ -1440,7 +1440,7 @@ b. systeem:
 
 1°. een door de Minister van Financiën op grond van artikel 212d aangewezen systeem;   
 
-2°. een formele overeenkomst waarop het recht van een lidstaat van de Europese Unie van toepassing is en die door een andere lidstaat van de Europese Unie als systeem in de zin van richtlijn nr. 98/26/EG van het Europees Parlement en de Raad van de Europese Unie van 19 mei 1998 (PbEG L 166) is aangemeld bij de Commissie van de Europese Gemeenschappen;     
+2°. een formele overeenkomst waarop het recht van een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte van toepassing is en die door een andere lidstaat van de Europese Unie als systeem in de zin van richtlijn nr. 98/26/EG van het Europees Parlement en de Raad van de Europese Unie van 19 mei 1998 (PbEG L 166) is aangemeld bij de Commissie van de Europese Gemeenschappen;     
 
 c. centrale tegenpartij: een lichaam dat tussen de instellingen die deelnemen aan een systeem, in staat en dat optreedt als de exclusieve tegenpartij van deze instellingen met betrekking tot hun overboekingsopdrachten;   
 
@@ -1571,7 +1571,7 @@ Indien het belang van de gezamenlijke schuldeisers bij de afwikkeling van een ba
 
 ### Artikel  212hc  
 
-De Nederlandsche Bank N.V. kan bij haar verzoek een overdrachtsplan als bedoeld in artikel 3:159c, tweede lid, aanhef en onderdeel a, van de Wet op het financieel toezicht overleggen met het verzoek het overdrachtsplan goed te keuren. 
+De Nederlandsche Bank N.V. kan bij haar verzoek een overdrachtsplan als bedoeld in artikel 3:159c, tweede lid, aanhef en onderdeel a, van de Wet op het financieel toezicht overleggen met het verzoek het overdrachtsplan goed te keuren. Artikel 3:159o, tweede en derde lid, van de Wet op het financieel toezicht is van overeenkomstige toepassing. 
 
 ### Artikel  212hd  
 

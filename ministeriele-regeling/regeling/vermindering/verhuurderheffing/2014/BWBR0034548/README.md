@@ -3,7 +3,7 @@
 ##Regeling van de Minister voor Wonen en Rijksdienst van 18 december 2013, nr. 2013-0000747797, houdende regels betreffende de aanmelding van voorgenomen en gerealiseerde investeringen als bedoeld in de Wet maatregelen woningmarkt 2014 II (Regeling vermindering verhuurderheffing 2014)
 
 De Minister voor Wonen en Rijksdienst,  
-Gelet op de [artikelen 1.12, tweede lid](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md), [1.13, eerste lid](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md), en [1.14, tweede en vijfde lid, van de Wet maatregelen woningmarkt 2014 II](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md);
+Gelet op de artikelen 1.12, tweede lid, 1.13, eerste lid, en 1.14, tweede en vijfde lid, van de Wet maatregelen woningmarkt 2014 II;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -13,17 +13,17 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *belastingplichtige:* belastingplichtige als bedoeld in [artikel 1.4 van de wet](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md);  
+a. *belastingplichtige:* belastingplichtige als bedoeld in artikel 1.4 van de wet;  
 
-b.  *omgevingsvergunning:* omgevingsvergunning als bedoeld in [artikel 2.1, eerste lid, aanhef en onderdelen a en c, van de Wet algemene bepalingen omgevingsrecht](../../../../../../wet/wet/algemene/bepalingen/omgevingsrecht/BWBR0024779/README.md);  
+b. *omgevingsvergunning:* omgevingsvergunning als bedoeld in artikel 2.1, eerste lid, aanhef en onderdelen a en c, van de Wet algemene bepalingen omgevingsrecht;  
 
-c.  *onttrekkingsvergunning:* onttrekkingsvergunning als bedoeld in [artikel 30, eerste lid, onderdeel a, van de Huisvestingswet](../../../../../../wet/huisvestingswet/BWBR0005674/README.md);  
+c. *onttrekkingsvergunning:* vergunning als bedoeld in artikel 21, onderdeel a, van de Huisvestingswet 2014;  
 
-d.  *samenvoegingsvergunning:* samenvoegingsvergunning als bedoeld in [artikel 30, eerste lid, onderdeel b, van de Huisvestingswet](../../../../../../wet/huisvestingswet/BWBR0005674/README.md);  
+d. *samenvoegingsvergunning:* vergunning als bedoeld in artikel 21, onderdeel b, van de Huisvestingswet 2014;  
 
-e.  *Vrijstellingsbesluit DAEB:* besluit van de Europese Commissie van 20 december 2011 betreffende de toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen;  
+e. *Vrijstellingsbesluit DAEB:* besluit van de Europese Commissie van 20 december 2011 betreffende de toepassing van artikel 106, tweede lid, van het Verdrag betreffende de werking van de Europese Unie op staatssteun in de vorm van compensatie voor de openbare dienst, verleend aan bepaalde met het beheer van diensten van algemeen economisch belang belaste ondernemingen;  
 
-f.  *wet:* [Wet maatregelen woningmarkt 2014 II](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md).   
+f.  *wet:* Wet maatregelen woningmarkt 2014 II.   
 
 ### Hoofdstuk  2  
 
@@ -33,7 +33,7 @@ f.  *wet:* [Wet maatregelen woningmarkt 2014 II](../../../../../../wet/wet/maatr
 
 1.  De aanmelding van een voorgenomen investering bevat ten minste: 
 
-a. een overzicht van de voorgenomen investering aan de hand van de activiteiten, bedoeld in [artikel 1.2, tweede lid, onderdeel b, onder 1° tot en met 6°, van de wet](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md);  
+a. een overzicht van de voorgenomen investering aan de hand van de activiteiten, bedoeld in artikel 1.2, tweede lid, onderdeel b, onder 1° tot en met 6°, van de wet;  
 
 b. een aanduiding en een beschrijving van de voorgenomen investering;  
 
@@ -52,7 +52,7 @@ e. indien van toepassing: een opgave van de datum waarop het bevoegd gezag de te
 
 1.  De aanmelding van een gerealiseerde investering bevat ten minste: 
 
-a. een overzicht van de gerealiseerde investering aan de hand van de activiteiten, bedoeld in [artikel 1.2, tweede lid, onderdeel b, onder 1° tot en met 6°, van de wet](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md);  
+a. een overzicht van de gerealiseerde investering aan de hand van de activiteiten, bedoeld in artikel 1.2, tweede lid, onderdeel b, onder 1° tot en met 6°, van de wet;  
 
 b. een afschrift van de voorlopige investeringsverklaring;  
 
@@ -71,7 +71,7 @@ b. indien sprake is van grootschalige verbouw van huurwoningen: indien van toepa
 
 c. indien sprake is van verbouw van niet voor bewoning bestemde ruimten tot huurwoningen: de daarop betrekking hebbende omgevingsvergunning;  
 
-d. indien sprake is van sloop van huurwoningen: een sloopmelding als bedoeld in [artikel 1.26 van het Bouwbesluit 2012](../../../../../../AMvB/bouwbesluit/2012/BWBR0030461/README.md) en voor zover van toepassing de daarop betrekking hebbende onttrekkingsvergunning;  
+d. indien sprake is van sloop van huurwoningen: een sloopmelding als bedoeld in artikel 1.26 van het Bouwbesluit 2012 en voor zover van toepassing de daarop betrekking hebbende onttrekkingsvergunning;  
 
 e. indien sprake is van een samenvoeging van huurwoningen teneinde een of meer huurwoningen te verkrijgen: de daarop betrekking hebbende omgevingsvergunning en voor zover van toepassing de samenvoegingsvergunning.     
 3.  Artikel 2, tweede lid, is van overeenkomstige toepassing.  
@@ -83,7 +83,7 @@ e. indien sprake is van een samenvoeging van huurwoningen teneinde een of meer h
 ### Artikel  4  
 
 1.  De compensatie bedraagt maximaal € 15 miljoen per belastingplichtige per jaar.   
-2.  Indien het bedrag, genoemd in het eerste lid, varieert gedurende de periode waarin aan de belastingplichtige de activiteiten, bedoeld in [artikel 1.14, eerste lid, van de wet](../../../../../../wet/wet/maatregelen/woningmarkt/2014/ii/BWBR0034553/README.md) zijn opgedragen, wordt dit jaarbedrag berekend als het gemiddelde van de jaarlijkse compensatiebedragen die naar verwachting gedurende die periode zullen worden toegekend.  
+2.  Indien het bedrag, genoemd in het eerste lid, varieert gedurende de periode waarin aan de belastingplichtige de activiteiten, bedoeld in artikel 1.14, eerste lid, van de wet zijn opgedragen, wordt dit jaarbedrag berekend als het gemiddelde van de jaarlijkse compensatiebedragen die naar verwachting gedurende die periode zullen worden toegekend.  
 
 ### Artikel  5  
 

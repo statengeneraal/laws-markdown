@@ -164,7 +164,7 @@ Bij regeling van Onze Minister in overeenstemming met Onze Minister van Defensie
 ### Artikel  13  
 
 1.  De burgemeester en de officier van justitie overleggen regelmatig tezamen met het hoofd van het territoriale onderdeel van de regionale eenheid binnen welker grondgebied de gemeente geheel of ten dele valt, en zo nodig met de politiechef van een regionale eenheid, over de taakuitvoering van de politie en over het beleid ten aanzien van de taakuitvoering (driehoeksoverleg).   
-2.  In het driehoekoverleg worden door de burgemeester en de officier van justitie afspraken gemaakt over de inzet van de politie ten behoeve van de handhaving van de openbare orde en de hulpverlening, onderscheidenlijk ten behoeve van de strafrechtelijke handhaving van de rechtsorde en de taken ten dienste van de justitie. De afspraken worden mede gemaakt op basis van de doelen, bedoeld in artikel 38b, eerste lid.   
+2.  In het driehoeksoverleg worden door de burgemeester en de officier van justitie afspraken gemaakt over de inzet van de politie ten behoeve van de handhaving van de openbare orde en de hulpverlening, onderscheidenlijk ten behoeve van de strafrechtelijke handhaving van de rechtsorde en de taken ten dienste van de justitie. De afspraken worden mede gemaakt op basis van de doelen, bedoeld in artikel 38b, eerste lid.   
 3.  Op verzoek van de burgemeester vindt het driehoeksoverleg plaats op gemeentelijk niveau.   
 4.  In het driehoeksoverleg worden door de burgemeester en de officier van justitie afspraken gemaakt over lokale prioriteiten en criminaliteitsbestrijding.  
 

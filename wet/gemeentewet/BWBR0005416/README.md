@@ -885,7 +885,7 @@ b.de vergoeding die de leden van de rekenkamer voor hun werkzaamheden ontvangen 
 ###Artikel 81oa 
 
 1.  Als geen rekenkamer is ingesteld als bedoeld in hoofdstuk IVa, stelt de raad bij verordening regels vast voor de uitoefening van de rekenkamerfunctie.   
-2.  De artikelen 182, 184a en 185 zijn voor de uitoefening van de rekenkamerfunctie van overeenkomstige toepassing.  
+2.  De artikelen 182, 184, 184a en 185 zijn voor de uitoefening van de rekenkamerfunctie van overeenkomstige toepassing.  
 3. Op personen die de rekenkamerfunctie uitoefenen, is artikel 81f, behoudens het eerste lid, onder k en o, van overeenkomstige toepassing. 
 
 ###Hoofdstuk IVc 
@@ -1795,11 +1795,11 @@ De voorschriften met betrekking tot de bevoegdheid van de burgemeester, de uitoe
 
 1.  De rekenkamer heeft de in de volgende leden vermelde bevoegdheden ten aanzien van de volgende instellingen en over de volgende periode: 
 
-a. openbare lichamen en gemeenschappelijke organen ingesteld krachtens de Wet gemeenschappelijke regelingen, waaraan de gemeente deelneemt, over de jaren dat de gemeente deelneemt in de regeling;  
+a. openbare lichamen, bedrijfsvoeringsorganisaties en gemeenschappelijke organen ingesteld krachtens de Wet gemeenschappelijke regelingen, waaraan de gemeente deelneemt, over de jaren dat de gemeente deelneemt in de regeling;  
 
-b. naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de gemeente meer dan vijftig procent van het geplaatste aandelenkapitaal houdt, over de jaren dat de gemeente meer dan vijftig procent van het geplaatste aandelenkapitaal houdt;  
+b. naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de gemeente, alleen of samen met andere gemeenten, meer dan vijftig procent van het geplaatste aandelenkapitaal houdt, over de jaren dat de gemeente, alleen of samen met andere gemeenten, meer dan vijftig procent van het geplaatste aandelenkapitaal houdt;  
 
-c. andere privaatrechtelijke rechtspersonen waaraan de gemeente of een derde voor rekening en risico van de gemeente rechtstreeks of middellijk een subsidie, lening of garantie heeft verstrekt ten bedrage van ten minste vijftig procent van de baten van deze instelling, over de jaren waarop deze subsidie, lening of garantie betrekking heeft.     
+c. andere privaatrechtelijke rechtspersonen waaraan de gemeente, alleen of samen met andere gemeenten, of een of meer derden voor rekening en risico van de gemeente of gemeenten rechtstreeks of middellijk een subsidie, lening of garantie heeft verstrekt ten bedrage van ten minste vijftig procent van de baten van deze instelling, over de jaren waarop deze subsidie, lening of garantie betrekking heeft.     
 2.  De rekenkamer is bevoegd bij de betrokken instelling nadere inlichtingen in te winnen over de jaarrekeningen, daarop betrekking hebbende rapporten van hen die deze jaarrekeningen hebben gecontroleerd en overige documenten met betrekking tot die instelling die bij het gemeentebestuur berusten. Indien een of meer documenten ontbreken, kan de rekenkamer van de betrokken instelling de overlegging daarvan vorderen.   
 3.  De rekenkamer kan, indien de documenten, bedoeld in het tweede lid, daartoe aanleiding geven, bij de betrokken instelling dan wel bij de derde die de administratie in opdracht van de instelling voert, een onderzoek instellen. De rekenkamer stelt de raad en het college van haar voornemen een dergelijk onderzoek in te stellen in kennis.  
 
@@ -2279,7 +2279,7 @@ c. de in artikel 231, tweede lid, onderdeel d, bedoelde ambtenaren van die gemee
 
 d. de in artikel 231, tweede lid, onderdeel e, bedoelde ambtenaar van die gemeenten, voor de uitvoering van enige wettelijke bepaling betreffende de invordering van gemeentelijke belastingen.      
 3.  Het eerste lid is van overeenkomstige toepassing ten aanzien van het college van de gemeente waarvan de ambtenaar, belast met de invordering van gemeentelijke belastingen op grond van het tweede lid, onderdeel *b*, wordt aangewezen.    
-4.  Indien voor de heffing of de invordering van gemeentelijke belastingen een gemeenschappelijke regeling is getroffen en bij die regeling een openbaar lichaam is ingesteld, kan bij of krachtens die regeling worden bepaald dat een daartoe aangewezen ambtenaar van dat openbare lichaam wordt aangewezen als:  
+4.  Indien voor de heffing of de invordering van gemeentelijke belastingen een gemeenschappelijke regeling is getroffen en bij die regeling een openbaar lichaam of een bedrijfsvoeringsorganisatie is ingesteld, kan bij of krachtens die regeling worden bepaald dat een daartoe aangewezen ambtenaar van dat openbare lichaam of die bedrijfsvoeringsorganisatie wordt aangewezen als:  
 
 a. de in artikel 231, tweede lid, onderdeel b, bedoelde ambtenaar van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de heffing van gemeentelijke belastingen;   
 
@@ -2288,7 +2288,7 @@ b. de in artikel 231, tweede lid, onderdeel c, bedoelde ambtenaar van de gemeent
 c. de in artikel 231, tweede lid, onderdeel d, bedoelde ambtenaren van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van gemeentelijke belastingen;   
 
 d. de in artikel 231, tweede lid, onderdeel e, bedoelde ambtenaar van de gemeente voor de uitvoering van enige wettelijke bepaling betreffende de invordering van gemeentelijke belastingen.      
-5.  Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het openbaar lichaam waarvan een ambtenaar op grond van het vierde lid, onderdeel b, wordt aangewezen.   
+5.  Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie waarvan een ambtenaar op grond van het vierde lid, onderdeel b, wordt aangewezen.   
 
 ### Artikel  233  
 
@@ -2517,7 +2517,7 @@ Het koninklijk besluit tot schorsing, opheffing of verlenging van de schorsing o
 
 ### Artikel  281a  
 
-In afwijking van artikel 8:4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht kan een belanghebbende tegen een koninklijk besluit als bedoeld in artikel 268, eerste lid, dan wel tegen een vernietigingsbesluit als bedoeld in de artikelen 85, tweede lid, en 87a, eerste lid, beroep instellen. 
+In afwijking van artikel 8:4, eerste lid, onderdeel d, van de Algemene wet bestuursrecht kan een belanghebbende tegen een koninklijk besluit als bedoeld in artikel 268, eerste lid, dan wel tegen een vernietigingsbesluit als bedoeld in artikel 85, tweede lid, beroep instellen. 
 
 ### Titel  VI  
 
@@ -2621,7 +2621,7 @@ E. M. H. Hirsch Ballin
 
 #### *Ministerie van Sociale Zaken en Werkgelegenheid* 
 
-1. Wet werk en bijstand.  
+1. Participatiewet.  
 
 2. Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers.  
 
@@ -2631,9 +2631,7 @@ E. M. H. Hirsch Ballin
 
 5. Wet sociale werkvoorziening.  
 
-6. Wet investeren in jongeren.  
-
-7. Wet kinderopvang en kwaliteitseisen peuterspeelzalen.   
+6. Wet kinderopvang en kwaliteitseisen peuterspeelzalen.   
 
 ### C  
 

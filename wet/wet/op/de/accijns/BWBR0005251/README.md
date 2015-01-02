@@ -435,13 +435,13 @@ b. andere koolwaterstoffen dan bedoeld in het eerste lid of in onderdeel *a*, di
 
 1.  De accijns bedraagt voor:  
 
-a. lichte olie, per 1000 L bij een temperatuur van 15°C € 845,51 indien het gelode lichte olie betreft en € 759,24 indien het ongelode lichte olie betreft;  
+a. lichte olie, per 1000 L bij een temperatuur van 15°C € 853,12 indien het gelode lichte olie betreft en € 766,07 indien het ongelode lichte olie betreft;  
 
-b. halfzware olie en gasolie, per 1000 L bij een temperatuur van 15°C € 477,76;  
+b. halfzware olie en gasolie, per 1000 L bij een temperatuur van 15°C € 482,06;  
 
-c. zware stookolie, per 1 000 kg € 35,83;  
+c. zware stookolie, per 1 000 kg € 36,15;  
 
-d. vloeibaar gemaakt petroleumgas, per 1000 kg € 322,17;  
+d. vloeibaar gemaakt petroleumgas, per 1000 kg € 334,67;  
 
 e. methaan nihil.     
 2.   Voor de toepassing van het tarief als bedoeld in het eerste lid, onderdelen a en b, worden bij ministeriële regeling regels gesteld met betrekking tot de herleiding van de actuele hoeveelheden minerale oliën naar hoeveelheden bij een temperatuur van 15°C.  
@@ -492,9 +492,9 @@ b. tabaksrolletjes bestaande uit een gebroken melange, met een dekblad van gerec
 
 a. sigaren 5;  
 
-b. sigaretten 0,95 benevens per 1000 stuks € 173,97, met dien verstande dat het totale bedrag van de accijns per 1000 stuks ten minste € 176,75 bedraagt;  
+b. sigaretten 0,95 benevens per 1000 stuks € 173,97, met dien verstande dat het totale bedrag van de accijns per 1000 stuks ten minste € 181,49 bedraagt;  
 
-c. rooktabak 5,03 benevens per kilogram € 75,77, met dien verstande dat het totale bedrag van de accijns per kilogram ten minste € 83,07 bedraagt.     
+c. rooktabak 5,03 benevens per kilogram € 75,77, met dien verstande dat het totale bedrag van de accijns per kilogram ten minste € 85,32 bedraagt.     
 2.   Onder de kleinhandelsprijs van een tabaksprodukt wordt verstaan de prijs waarvoor dat produkt aan anderen dan wederverkopers wordt verkocht, met inbegrip van alle belastingen en de kosten van de verpakking.    
 3.   Voor de berekening van de accijns wordt voor tabaksprodukten die worden verbruikt binnen een accijnsgoederenplaats voor tabaksprodukten de kleinhandelsprijs gesteld op die van gelijke dan wel soortgelijke produkten die worden verbruikt buiten de accijnsgoederenplaats.    
 4.  Voor de berekening van de accijns wordt een tabaksrolletje als bedoeld in artikel 31 aangemerkt als twee sigaretten wanneer het, zonder filter of mondstuk, meer dan 8 cm doch niet meer dan 11 cm lang is, en als drie sigaretten wanneer het, zonder filter of mondstuk, meer dan 11 cm doch niet meer dan 14 cm lang is, enzovoort.  
@@ -1054,15 +1054,15 @@ f. zijn geleverd aan een in een andere lidstaat gevestigde persoon, niet zijnde 
 ### Artikel  71b  
 
 1.  Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas dat is belast naar het tarief, bedoeld in artikel 27, eerste lid, onderdeel d, indien dat petroleumgas is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van een autobus die hoofdzakelijk wordt gebruikt voor het openbaar vervoer, bedoeld in artikel 1, onderdeel h, van de Wet personenvervoer 2000. Onder een autobus wordt in dit artikel en de daarop berustende bepalingen verstaan een autobus als bedoeld in artikel 2, onderdeel e, van de Wet op de motorrijtuigenbelasting 1994.    
-2.  De teruggaaf bedraagt € 50,70 per 1000 kg.    
-3.  De teruggaaf wordt verleend aan de vervoerder, bedoeld in artikel 1, onderdeel k, van de Wet personenvervoer 2000 aan wie vergunning als bedoeld in artikel 4, eerste lid, van de Wet personenvervoer 2000 is verleend en op wiens naam het voor de autobus opgegeven kenteken is gesteld in het kentekenregister, bedoeld in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994, op het tijdstip waarop het vloeibaar gemaakt petroleumgas is afgeleverd in de brandstoftank van de autobus.    
+2.  De teruggaaf bedraagt € 51,16 per 1000 kg.    
+3.  De teruggaaf wordt verleend aan de vervoerder, bedoeld in artikel 1, onderdeel k, van de Wet personenvervoer 2000 aan wie vergunning als bedoeld in artikel 4, eerste lid, van de Wet personenvervoer 2000 is verleend en op wiens naam de autobus is ingeschreven in het kentekenregister, bedoeld in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994, op het tijdstip waarop het vloeibaar gemaakt petroleumgas is afgeleverd in de brandstoftank van de autobus.    
 4.  Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf.   
 
 ### Artikel  71c  
 
 1.  Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas dat is belast naar het tarief, bedoeld in artikel 27, eerste lid, onderdeel d, indien dat petroleumgas is afgeleverd in de brandstoftanks van en is gebruikt voor het aandrijven op de weg van motorrijtuigen die zijn ingericht en uitsluitend worden gebruikt als vuilniswagen, kolkenzuiger of straatveegwagen.   
-2.  De teruggaaf bedraagt € 50,70 per 1 000 kg.   
-3.  De teruggaaf wordt verleend aan degene op wiens naam het voor de vuilniswagen, kolkenzuiger of straatveegwagen opgegeven kenteken is gesteld in het kentekenregister, bedoeld in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994, op het tijdstip waarop het vloeibaar gemaakt petroleumgas is afgeleverd in de brandstoftank van de in het eerste lid bedoelde motorrijtuigen.   
+2.  De teruggaaf bedraagt € 51,16 per 1 000 kg.   
+3.  De teruggaaf wordt verleend aan degene op wiens naam de vuilniswagen, kolkenzuiger of straatveegwagen is ingeschreven in het kentekenregister, bedoeld in artikel 1, eerste lid, onderdeel i, van de Wegenverkeerswet 1994, op het tijdstip waarop het vloeibaar gemaakt petroleumgas is afgeleverd in de brandstoftank van de in het eerste lid bedoelde motorrijtuigen.   
 4.  Bij ministeriële regeling kunnen nadere voorwaarden en beperkingen worden gesteld ter uitvoering van de teruggaaf.  
 
 ### Artikel  71d  
@@ -1074,14 +1074,14 @@ f. zijn geleverd aan een in een andere lidstaat gevestigde persoon, niet zijnde 
 ### Artikel  71e  
 
 1.  Op verzoek wordt teruggaaf van accijns verleend voor vloeibaar gemaakt petroleumgas gebruikt voor verwarming ter bevordering van het groeiproces van tuinbouwproducten als bedoeld in post a 32 van de bij de Wet op de omzetbelasting 1968 behorende Tabel 1, indien geen aansluiting aanwezig is voor aardgas.   
-2.  De teruggaaf, bedoeld in het eerste lid, bedraagt € 140,26 per 1 000 kilogram vloeibaar gemaakt petroleumgas.   
+2.  De teruggaaf, bedoeld in het eerste lid, bedraagt € 141,52 per 1 000 kilogram vloeibaar gemaakt petroleumgas.   
 3.  De teruggaaf wordt verleend aan de tuinbouwer die het vloeibaar gemaakt petroleumgas gebruikt voor het in het eerste lid bedoelde gebruik.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld ten behoeve van de uitvoering van dit artikel.  
 
 ### Artikel  71g  
 
 1.  Artikel 69 van de Wet belastingen op milieugrondslag is van overeenkomstige toepassing met betrekking tot vloeibaar gemaakt petroleumgas, indien geen aansluiting aanwezig is voor aardgas.   
-2.  In afwijking van artikel 69, vijfde en zesde lid, van de Wet belastingen op milieugrondslag bedraagt de teruggaaf € 81,94 per 1 000 kilogram vloeibaar gemaakt petroleumgas.  
+2.  In afwijking van artikel 69, vijfde en zesde lid, van de Wet belastingen op milieugrondslag bedraagt de teruggaaf € 82,68 per 1 000 kilogram vloeibaar gemaakt petroleumgas.  
 
 ### Artikel  71h  
 
@@ -1456,7 +1456,7 @@ Degene die opzettelijk een accijnsgoed waarvoor vrijstelling of teruggaaf van ac
 
 ### Artikel  102a  
 
-1.  Degene die een in artikel 95a opgenomen verbod overtreedt, pleegt een verzuim ter zake waarvan de inspecteur hem een boete van € 4 920 kan opleggen of, indien dit bedrag hoger is, ten hoogste tweemaal het bedrag van de accijns dat geheven zou zijn indien de verpakking voorzien was geweest van het per ingangsdatum van de nieuwe accijnstarieven, bedoeld in artikel 95a, bij de uitslag tot verbruik voor het desbetreffende tabaksproduct voorgeschreven accijnszegel.   
+1.  Degene die een in artikel 95a opgenomen verbod overtreedt, pleegt een verzuim ter zake waarvan de inspecteur hem een boete van € 5.278 kan opleggen of, indien dit bedrag hoger is, ten hoogste tweemaal het bedrag van de accijns dat geheven zou zijn indien de verpakking voorzien was geweest van het per ingangsdatum van de nieuwe accijnstarieven, bedoeld in artikel 95a, bij de uitslag tot verbruik voor het desbetreffende tabaksproduct voorgeschreven accijnszegel.   
 2.  Artikel 67cb van de Algemene wet inzake rijksbelastingen is van overeenkomstige toepassing op het bedrag van de boete, genoemd in het eerste lid.  
 
 ### Hoofdstuk  VIII  

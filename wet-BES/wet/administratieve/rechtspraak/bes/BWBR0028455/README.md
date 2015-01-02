@@ -15,7 +15,7 @@ a.  *Hof:* het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maar
 b.  *Gerecht:* het Gerecht in eerste aanleg van Bonaire, Sint Eustatius en Saba;  
 
 c.  *griffier:* de griffier van het Hof onderscheidenlijk van het Gerecht.     
-2.  De algemene maatregel van rijksbestuur bedoeld in artikel 37 van de Rijkswet Gemeenschappelijk Hof van Justitie is van toepassing op de administratieve rechtspraak, tenzij in deze wet anders is bepaald.  
+2.  De algemene maatregel van rijksbestuur bedoeld in artikel 39 van de Rijkswet Gemeenschappelijk Hof van Justitie is van toepassing op de administratieve rechtspraak, tenzij in deze wet anders is bepaald.  
 
 ### Artikel  2  
 
@@ -650,7 +650,7 @@ Het hoger beroep wordt binnen zes weken na de datum waarop van de uitspraak van 
 ### Artikel  78  
 
 1.  Het Hof bevestigt de uitspraak, hetzij met overneming hetzij met verbetering van de gronden, of doet, met gehele of gedeeltelijke vernietiging van de uitspraak, hetgeen het Gerecht had behoren te doen.   
-2.  Wanneer het Gerecht de niet-ontvankelijkheid heeft uitgesproken en het Hof deze uitspraak vernietigt met een ontvankelijkverklaring, wordt het beroepschrift naar het Gerecht terugverwezen om te worden hervat in de stand waarin de behandeling zich bevond. Hoofdstuk 3 is van toepassing. Tegen de nieuwe uitspraak van het Gerecht staat binnen de in artikel 76 genoemde hoger beroep open op het Hof.   
+2.  Wanneer het Gerecht de niet-ontvankelijkheid heeft uitgesproken en het Hof deze uitspraak vernietigt met een ontvankelijkverklaring, wordt het beroepschrift naar het Gerecht terugverwezen om te worden hervat in de stand waarin de behandeling zich bevond. Hoofdstuk 3 is van toepassing. Tegen de nieuwe uitspraak van het Gerecht staat binnen de in artikel 76 genoemde termijn hoger beroep open op het Hof.   
 3.  Het Hof kan de terugverwijzing, bedoeld in het tweede lid, achterwege laten indien het beroepschrift kennelijk gegrond of kennelijk ongegrond is.  
 
 ### Hoofdstuk  6  

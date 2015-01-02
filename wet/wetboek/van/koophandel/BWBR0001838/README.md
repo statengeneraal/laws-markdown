@@ -766,7 +766,7 @@ Behoudens de bepaling van het volgende artikel gaat wisselschuld te niet door al
 
 ### Artikel  171a  
 
-Als wettelijke feestdag in den zin van deze Afdeeling worden beschouwd de Zondag, de Nieuwjaarsdag, de Christelijke tweede Paasch- en Pinksterdagen, de beide Kerstdagen, de Hemelvaartsdag en de verjaardag des Konings.  
+Als wettelijke feestdag in den zin van deze Afdeeling worden beschouwd de Zondag, de Nieuwjaarsdag, de Christelijke tweede Paasch- en Pinksterdagen, de beide Kerstdagen, de Hemelvaartsdag en de verjaardag van de Koning.  
 
 ### Artikel  172  
 
@@ -1252,7 +1252,7 @@ Met bankiers, genoemd in de voorafgaande Afdeelingen van dezen Titel worden geli
 
 ### Artikel  229bbis  
 
-Als wettelijke feestdag in den zin van deze Afdeeling worden beschouwd de Zondag, de Nieuwjaarsdag, de Christelijke tweede Paasch- en Pinksterdagen, de beide Kerstdagen, de Hemelvaartsdag en de verjaardag des Konings.  
+Als wettelijke feestdag in den zin van deze Afdeeling worden beschouwd de Zondag, de Nieuwjaarsdag, de Christelijke tweede Paasch- en Pinksterdagen, de beide Kerstdagen, de Hemelvaartsdag en de verjaardag van de Koning.  
 
 ### Artikel  229c  
 

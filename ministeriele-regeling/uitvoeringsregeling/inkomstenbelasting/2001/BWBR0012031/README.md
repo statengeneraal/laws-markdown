@@ -15,7 +15,7 @@ Besluit:  Uitvoeringsregeling inkomstenbelasting 2001
 
 ####Reikwijdte en definitie
 
-1.   Deze regeling geeft uitvoering aan de artikelen 1.5, 1.7, 2.2, 2.5, 2.14a, 3.10, 3.13, 3.16, 3.17, 3.20, 3.22, 3.27, 3.55, 3.56, 3.57, 3.63, 3.83, 3.87, 3.104, 3.119aa, 3.119c, 3.119e, 3.119g, 3.138, 3.152, 3.154, 4.7, 4.14, 4.17a, 4.17b, 4.17c, 4.41, 4.51, 5.14, 6.14, 6.15, 6.17, 6.18, 6.26, 6.38, 7.2, 8.9a, 8.14a, 8.14b, 9.2, 9.4, 9.6, 10bis.1, 10bis.5 en 10a.9 van de Wet inkomstenbelasting 2001, de artikelen 14 en 14a van het Uitvoeringsbesluit inkomstenbelasting 2001 en artikel XXXIII van het Belastingplan 2010.   
+1.   Deze regeling geeft uitvoering aan de artikelen 1.5, 1.7, 2.2, 2.14a, 3.10, 3.13, 3.16, 3.17, 3.20, 3.22, 3.27, 3.55, 3.56, 3.57, 3.63, 3.83, 3.87, 3.104, 3.119aa, 3.119c, 3.119e, 3.119g, 3.138, 3.152, 3.154, 4.7, 4.14, 4.17a, 4.17b, 4.17c, 4.41, 4.51, 5.14, 6.17, 6.18, 6.26, 6.38, 7.2, 8.9a, 8.14a, 9.2, 9.4, 9.6, 10bis.1, 10bis.5 en 10a.9 van de Wet inkomstenbelasting 2001, de artikelen 14 en 14a van het Uitvoeringsbesluit inkomstenbelasting 2001 en artikel XXXIII van het Belastingplan 2010.   
 2.   Deze regeling verstaat onder: 
 
 a. wet: Wet inkomstenbelasting 2001;  
@@ -88,9 +88,9 @@ b. gedurende een periode van ten hoogste 12 maanden (herrekenperiode) kunnen de 
 
 ### Artikel  3  
 
-####Woonplaatsfictie; keuzerecht voor buitenlandse belastingplichtigen; aanwijzing mogendheid
+####Woonplaatsfictie; aanwijzing mogendheid
 
-Voor de toepassing van artikelen 2.2, eerste lid, en 2.5, eerste lid van de wet, worden, voorzover het niet gaat om lidstaten van de Europese Unie, als de in die bepalingen bedoelde mogendheden aangewezen alle mogendheden waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen, waarvan de bepalingen van toepassing zijn.  
+Voor de toepassing van artikel 2.2, eerste lid, van de wet, worden, voorzover het niet gaat om lidstaten van de Europese Unie, als de in die bepaling bedoelde mogendheden aangewezen alle mogendheden waarmee Nederland een regeling ter voorkoming van dubbele belasting is overeengekomen, waarvan de bepalingen van toepassing zijn.  
 
 ### Artikel  4a  
 
@@ -192,7 +192,11 @@ i. Stimulering E-Bike (Stcrt. 2013, 34274);
 
 j. Mobiliteitsproject Spitsmijden Personen op Ruit Rotterdam (Stcrt. 2014, 9406);  
 
-k. Mobiliteitsproject Spitsmijden Algeracorridor (regio Rotterdam) (Stcrt. 2014, 9406).  
+k. Mobiliteitsproject Spitsmijden Algeracorridor (regio Rotterdam) (Stcrt. 2014, 9406); 
+
+l. Fietsactie 2014-2015 Regio Groningen-Assen (Stcrt. 2014, 22226);  
+
+m. Fietsactie 2014 Regio Twente (Stcrt. 2014, 22226).  
 
 ### Artikel  7  
 
@@ -223,7 +227,7 @@ c. per rit: 10. datum; 20. beginstand en eindstand van de kilometerteller; 30. b
 
 ####Constatering van het niet afgenomen zijn van de netto-tonnage van bepaalde schepen
 
-Met betrekking tot het kalenderjaar 2014 wordt voor de toepassing van artikel 3.22, zesde lid, onderdeel c, van de wet vastgesteld dat op landelijk niveau de netto-tonnage van kwalificerende schepen die de vlag voeren van een van de lidstaten van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte als percentage van de netto-tonnage van kwalificerende schepen in de periode 2010 tot en met 2012 ten opzichte van de periode 2009 tot en met 2011 niet is afgenomen. 
+Met betrekking tot het kalenderjaar 2015 wordt voor de toepassing van artikel 3.22, zesde lid, onderdeel c, van de wet vastgesteld dat op landelijk niveau de netto-tonnage van kwalificerende schepen die de vlag voeren van een van de lidstaten van de Europese Unie of van een staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte als percentage van de netto-tonnage van kwalificerende schepen in de periode 2011 tot en met 2013 ten opzichte van de periode 2010 tot en met 2012 niet is afgenomen. 
 
 ### Artikel  10  
 
@@ -299,16 +303,8 @@ d. uitkeringen en verstrekkingen ingevolge de Regeling opvang asielzoekers;
 
 e. uitkeringen en verstrekkingen ingevolge de Regeling verstrekkingen asielzoekers en andere categorieën vreemdelingen 2005;  
 
-f. uitkeringen en verstrekkingen ingevolge de Wet gemeentelijke zorg voor houders van een voorwaardelijke vergunning tot verblijf;  
-
-g. uitkeringen als bedoeld in artikel 5 van het Besluit taakverlichting alleenstaande werkenden/AAW;  
-
-h. inkomensondersteunende uitkeringen ingevolge artikel 108, eerste lid, van de Gemeentewet, die overeenkomen met bijstand ter bestrijding van bepaalde noodzakelijke kosten;  
-
-i.uitkeringen en verstrekkingen ingevolge de Tijdelijke regeling verstrekkingen gerepatrieerden Libanon;
-
-j.uitkeringen en verstrekkingen ingevolge de Tijdelijke regeling voortzetting verstrekkingen gerepatrieerden Libanon.   
-2.   Als uitkeringen tot bestrijding van onderhoudskosten van thuiswonende gehandicapte kinderen, bedoeld in artikel 3.104, onderdeel i, van de wet, worden aangewezen: uitkeringen ingevolge de Regeling tegemoetkoming onderhoudskosten thuiswonende gehandicapte kinderen 2000.    
+f. inkomensondersteunende uitkeringen ingevolge artikel 108, eerste lid, van de Gemeentewet, die overeenkomen met bijstand ter bestrijding van bepaalde noodzakelijke kosten.     
+2.   Als uitkeringen tot bestrijding van onderhoudskosten van thuiswonende gehandicapte kinderen, bedoeld in artikel 3.104, onderdeel i, van de wet, worden aangewezen: uitkeringen ingevolge de Regeling tegemoetkoming ouders van thuiswonende gehandicapte kinderen, zoals deze luidde op 31 december 2014.    
 3.  Als voorzieningen voor militaire oorlogs- of dienstslachtoffers die verband houden met invaliditeit als bedoeld in artikel 3.104, onderdeel o, van de wet worden aangewezen: voorzieningen in de zin van de Voorzieningenregeling voor militaire oorlogs- en dienstslachtoffers. 
 
 ### Artikel 17a 
@@ -346,9 +342,9 @@ g. indien de leningverstrekker een rechtspersoon is: de naam, het adres en een u
 
 ### Artikel  18  
 
-####Negatieve uitgaven voor inkomensvoorzieningen; verminderingen en voorkoming dubbeltellingen
+####Negatieve uitgaven voor inkomensvoorzieningen; voorwaarden arbeidsongeschiktheid
 
-(GERESERVEERD)  
+Van langdurige arbeidsongeschiktheid als bedoeld in artikel 3.133, negende lid, onderdeel a, van de wet is sprake indien uit een verklaring van een arts blijkt dat de belastingplichtige door ziekte of gebreken op het moment waarop de verklaring is afgegeven niet in staat is volledig de werkzaamheden te verrichten waarmee vóór het ontstaan van de arbeidsongeschiktheid het inkomen hoofdzakelijk werd verdiend en hiertoe vermoedelijk in de twaalf maanden na de afgifte van de verklaring ook niet in staat zal zijn. 
 
 ### Artikel  23  
 
@@ -508,6 +504,14 @@ c. indien het fonds de in dit hoofdstuk opgenomen informatieverplichtingen jegen
 7. Indien het fonds de in artikel 29a, zesde lid, bedoelde mededeling onverwijld heeft gedaan en voorts aannemelijk maakt dat het niet meer voldoen aan de voorwaarden niet langer dan drie maanden zal voortduren, een incidenteel karakter heeft en niet in strijd is met doel en strekking van de regeling, trekt de inspecteur de aanwijzing niet in. Het besluit de aanwijzing niet in te trekken, neemt de inspecteur bij voor bezwaar vatbare beschikking; daarbij kan hij nadere voorwaarden stellen. 
 8.  Indien de inspecteur een aanwijzing intrekt, maakt hij die intrekking op een daartoe geschikte wijze publiek bekend. 
 
+### Artikel  30  
+
+####Nettopensioen; in aanmerking te nemen dienstjaren en pensioengevend loon
+
+1.  Voor de bepaling van de perioden die voor de toepassing van afdeling 5.3B van de wet en de daarop berustende bepalingen in aanmerking komen als dienstjaren is artikel 10a van het Uitvoeringsbesluit loonbelasting 1965 van overeenkomstige toepassing.   
+2.  Voor de bepaling van de loonbestanddelen die voor de toepassing van afdeling 5.3B van de wet en de daarop berustende bepalingen in aanmerking komen als pensioengevend loon is artikel 10b van het Uitvoeringsbesluit loonbelasting 1965 van overeenkomstige toepassing.   
+3.  In afwijking in zoverre van het eerste en tweede lid zijn de artikelen 1a en 11c tot en met 11f van het Uitvoeringsbesluit inkomstenbelasting 2001 van overeenkomstige toepassing voor de toepassing van afdeling 5.3B van de wet en de daarop berustende bepalingen ingeval sprake is van een pensioenregeling als bedoeld in artikel 1.7, tweede lid, onderdeel b, van de wet, waaraan een belastingplichtige deelneemt of heeft deelgenomen anders dan als werknemer als bedoeld in de Wet op de loonbelasting 1964.  
+
 ### Artikel  33b  
 
 ####Aanwijzing prijscourant
@@ -517,43 +521,6 @@ Als prijscourant als bedoeld in artikel 5.21 van de wet wordt aangewezen de Offi
 ### Hoofdstuk  6  
 
 ####Persoonsgebonden aftrek 
-
-### Artikel  35  
-
-####Uitgaven voor levensonderhoud van kinderen; beperkingen
-
-1.   Artikel 6.14, eerste lid, onderdeel a, van de wet geldt niet voor: 
-
-a. de belastingplichtige aan wie wegens gemoedsbezwaren tegen één of meer volksverzekeringen door de Sociale verzekeringsbank een ontheffing is verleend als bedoeld in artikel 64 van de Wet financiering sociale verzekeringen, ingeval noch hij, noch zijn echtgenoot het recht op kinderbijslag ingevolge de Algemene Kinderbijslagwet geldend maakt;  
-
-b. de belastingplichtige die op grond van de regelen ter voorkoming van samenloop van kinderbijslag ingevolge de Algemene Kinderbijslagwet zijn recht op kinderbijslag voor dat kind niet geldend kan maken en geen huishouden vormt met degene die het recht op kinderbijslag voor dat kind wel geldend kan maken.     
-2.  Voor de toepassing van het eerste lid, onderdeel b, geldt dat: 
-
-a. de in artikel 10 van het Besluit uitvoering kinderbijslag bedoelde persoon wiens recht op kinderbijslag niet wordt uitbetaald, zijn recht op kinderbijslag niet geldend maakt, en  
-
-b. de in artikel 10 van het Besluit uitvoering kinderbijslag bedoelde persoon wiens recht op kinderbijslag aan hem geheel of gedeeltelijk wordt uitbetaald, zijn recht op kinderbijslag geheel geldend maakt.    
-3.   Het eerste lid, onderdeel b, is van overeenkomstige toepassing indien de belastingplichtige recht heeft op een tegemoetkoming volgens een naar aard en strekking met de Algemene Kinderbijslagwet overeenkomende buitenlandse regeling.   
-
-### Artikel  36  
-
-####Uitgaven voor levensonderhoud van kinderen; omvang in aanmerking te nemen uitgaven
-
-1.  De in artikel 6.15 van de wet bedoelde uitgaven voor levensonderhoud van een kind worden, indien de kosten van dat onderhoud in belangrijke mate op de belastingplichtige drukken, in aanmerking genomen tot een bedrag van: 
-
-a. € 205 per kalenderkwartaal indien het kind jonger dan 6 jaar is;  
-
-b. € 250 per kalenderkwartaal indien het kind 6 jaar of ouder doch jonger dan 12 jaar is;  
-
-c. € 290 per kalenderkwartaal indien het kind 12 jaar of ouder doch jonger dan 18 jaar is;  
-
-d. € 250 per kalenderkwartaal indien het kind 18 jaar of ouder is.     
-2.  Het in het eerste lid, onderdeel d, vermelde bedrag wordt verhoogd tot: 
-
-a. € 500, indien de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 500 per kwartaal belopen en de kosten van het onderhoud van het kind tevens grotendeels op de belastingplichtige drukken;  
-
-b. € 750, indien het kind niet tot het huishouden van de belastingplichtige behoort, de op de ouder drukkende bijdrage in de kosten van het onderhoud van het kind ten minste € 750 per kwartaal belopen en de kosten van het onderhoud van het kind tevens geheel of nagenoeg geheel op de belastingplichtige drukken.     
-3.  Indien zowel de belastingplichtige als zijn partner uitgaven voor levensonderhoud van kinderen in aanmerking nemen, worden de in aanmerking te nemen bedragen gesteld op de helft van de bedragen vermeld in het eerste en tweede lid, zonodig naar boven af te ronden op een geheel getal.   
-4.  Voor de toepassing van de vorige leden is beslissend de toestand bij het begin van het kalenderkwartaal.   
 
 ### Artikel  37  
 
@@ -571,45 +538,44 @@ b. € 750, indien het kind niet tot het huishouden van de belastingplichtige b
 | Hartziekten  | decompensatio cordis, hartfalen  | natriumbeperkt  | € 100  |
 | Infectieziekten  | aids  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
 | Luchtwegen  | chronische obstructieve longziekten (COPD)  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
-| --- | energieverrijkt  | € 600  |
+| energieverrijkt  | € 600  |
 | Maag-, darm- en leverziekten  | dumpingsyndroom  | lactosebeperkt/lactosevrij  | € 200  |
 | chronische pancreatitis  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
 | cystic fibrosis  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
 | energieverrijkt  | € 600  |
-| coeliakie en ziekte van Dühring  | glutenvrij  | € 1.100  |
-| --- | glutenvrij in combinatie met lactosebeperkt/lactosevrij  | € 1.250  |
+| coeliakie en ziekte van Dühring  | glutenvrij  | € 1.000  |
+| glutenvrij in combinatie met lactosebeperkt/lactosevrij  | € 1.150  |
 | overige  | energieverrijkt met vitaminepreparaat  | € 650  |
-| --- | energieverrijkt  | € 600  |
-| --- | energieverrijkt in combinatie met  MCT-vetverrijkt (met en zonder vitaminepreparaat)  | € 1.500  |
+| energieverrijkt  | € 600  |
+| --- | --- | energieverrijkt in combinatie met  MCT-vetverrijkt (met en zonder vitaminepreparaat)  | € 1.350  |
 | --- | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
-| energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt/lactosevrij  | € 1.100  |
+| energieverrijkt in combinatie met eiwitverrijkt en lactosebeperkt/lactosevrij  | € 1.100  |
 | Metabole ziekten  | hypercholesterolemie  | verzadigd vetbeperkt in combinatie met fyto/plantensterolenverrijkt  | € 100  |
-| vetstofwisselingsstoornis  | vetbeperkt in combinatie met MCT-vetverrijkt  | € 1.000  |
+| vetstofwisselingsstoornis  | vetbeperkt in combinatie met  MCT-vetverrijkt  | € 850  |
 | fructose-intolerantie  | fructosebeperkt  | € 100  |
-| galactosemie  | galactosevrij  | € 150  |
-| sacharase isomaltase deficiëntie  | sterk sacharosebeperkt in combinatie met (iso)maltosebeperkt  | € 3.650  |
-| eiwitstofwisselings stoornis (zoals PKU en hyperlysinemie)  | sterk eiwitbeperkt  | € 2.750  |
+| galactosemie  | galactosevrij  | € 200  |
+| --- | sacharase isomaltase deficiëntie  | sterk sacharosebeperkt in combinatie  met (iso)maltosebeperkt  | € 3.900  |
+| eiwitstofwisselings  stoornis (zoals PKU en hyperlysinemie)  | sterk eiwitbeperkt  | € 2.800  |
 | Nierziekten  | nierziekten  | natriumbeperkt  | € 100  |
-| --- | chronische nierinsufficiëntie met hemodialyse/peritoneale dialyse  | eiwitverrijkt in combinatie met natriumbeperkt  | € 250  |
-| --- | nefrotisch syndroom  | natriumbeperkt  | € 100  |
+| chronische nierinsufficiëntie met hemodialyse/  peritoneale dialyse  | eiwitverrijkt in combinatie met natriumbeperkt  | € 250  |
+| nefrotisch syndroom  | natriumbeperkt  | € 100  |
 | Oncologie  | oncologie  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
 | energieverrijkt  | € 600  |
-| Overige  | voedselovergevoeligheid  | koemelkeiwitvrij  | € 200  |
-| --- | soja-eiwitvrij  | € 50  |
-| --- | kippenei-eiwitvrij  | € 50  |
-| --- | lactosebeperkt/lactosevrij  | € 200  |
-| --- | tarwevrij  | € 800  |
-| --- | tarwevrij in combinatie met kippenei-eiwitvrij  | € 1.000  |
-| --- | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij  | € 250  |
-| --- | koemelkeiwitvrij in combinatie met soja-eiwitvrij  | € 350  |
-| --- | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij  | € 400  |
-| --- | koemelkeiwitvrij in combinatie met kippenei-eiwitvrij, soja-eiwitvrij en tarwevrij  | € 1.100  |
-| --- | koemelkeiwitvrij in combinatie met glutenvrij  | € 1.200  |
-| --- | koemelkeiwitvrij in combinatie met glutenvrij en tarwevrij  | € 1.200  |
+| Overige  | voedselovergevoeligheid  | koemelkeiwitvrij  | € 250  |
+| soja-eiwitvrij  | € 50  |
+| kippenei-eiwitvrij  | € 100  |
+| lactosebeperkt/lactosevrij  | € 200  |
+| tarwevrij  | € 700  |
+| tarwevrij in combinatie met kippenei-eiwitvrij  | € 850  |
+| koemelkeiwitvrij in combinatie met kippenei-eiwitvrij  | € 300  |
+| koemelkeiwitvrij in combinatie met soja-eiwitvrij  | € 350  |
+| koemelkeiwitvrij in combinatie met kippenei-eiwitvrij en soja-eiwitvrij  | € 450  |
+| koemelkeiwitvrij in combinatie met kippenei-eiwitvrij, soja-eiwitvrij en tarwevrij  | € 1.100  |
+| koemelkeiwitvrij in combinatie met glutenvrij  | € 1.150  |
+| koemelkeiwitvrij in combinatie met glutenvrij en tarwevrij  | € 1.150  |
 | brandwonden  | energieverrijkt in combinatie met eiwitverrijkt  | € 850  |
-| lymfe lekkage  | eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt  | € 1.250  |
-| epilepsie  | sterk eiwitbeperkt en koolhydraatbeperkt in combinatie met vetverrijkt  | € 100  |
-| sterk eiwitbeperkt en koolhydraatbeperkt in combinatie met vetverrijkt en MCT-vetverrijkt  | € 950  |
+| lymfe lekkage  | eiwitverrijkt in combinatie met sterk (LCT-)vetbeperkt en MCT-vetverrijkt  | € 1.100  |
+| epilepsie  | sterk eiwitbeperkt en koolhydraatbeperkt in combinatie met vetverrijkt en MCT-vetverrijkt  | € 750  |
 
 Voor overige diëten worden de extra kosten gesteld op nihil.   
 2.  Voor de toepassing van dit artikel wordt verstaan onder: 
@@ -721,7 +687,13 @@ a. uitgaven voor in-vitrofertilisatie voor een vrouw die ten tijde van de behand
 
 b. uitgaven voor de eerste twee in-vitrofertilisatiebehandelingen indien meer dan één embryo per poging wordt teruggeplaatst en de vrouw ten tijde van de behandeling jonger is dan 38 jaar;  
 
-c. uitgaven voor een elleboogkruk, een gipssteun, een looprek, een okselkruk, een onderarmschaalkruk, een rollator of een loophulp met drie of vier poten.   
+c. uitgaven voor een elleboogkruk, een gipssteun, een looprek, een okselkruk, een onderarmschaalkruk, een rollator of een loophulp met drie of vier poten;  
+
+d. uitgaven voor geestelijke gezondheidszorg voor een persoon die de leeftijd van 18 jaar nog niet heeft bereikt;  
+
+e. uitgaven voor dyslexiezorg voor een persoon die de leeftijd van 18 jaar nog niet heeft bereikt;  
+
+f. uitgaven voor een combinatietest in het kader van prenatale screening indien geen sprake is van een medische indicatie.  
 
 ### Artikel  40  
 
@@ -793,31 +765,6 @@ Voor de toepassing van artikel 8.9a van de wet worden, voorzover het niet gaat o
 ####Inkomensafhankelijke combinatiekorting voor co-ouders
 
 Voor de toepassing van artikel 8.14a, eerste lid, onderdeel b, van de wet, wordt een kind dat niet op hetzelfde woonadres als de belastingplichtige staat ingeschreven in de basisregistratie personen, beschouwd toch op hetzelfde woonadres als de belastingplichtige te staan ingeschreven in de basisregistratie personen gedurende de periode van het kalenderjaar dat het kind tegelijkertijd tot het huishouden van diens beide ouders behoort en het kind op hetzelfde woonadres als diens andere ouder staat ingeschreven in de basisregistratie personen. Voor de toepassing van de eerste volzin behoort een kind tegelijkertijd tot het huishouden van diens beide ouders indien hij doorgaans ten minste drie gehele dagen per week in elk van beide huishoudens verblijft. 
-
-### Artikel 44c 
-
-####Bedrag ouderschapsverlofkorting
-
-1.  De ouderschapsverlofkorting bedraagt per uur ouderschapsverlof 1/8 van 50% van het wettelijke minimumloon per werkdag, zoals bepaald bij of krachtens artikel 8 van de Wet minimumloon en minimumvakantiebijslag. Eerst nadat voor het totaal aantal uren ouderschapsverlof in het kalenderjaar aldus het bedrag aan korting is bepaald, wordt de regel toegepast dat de korting niet meer kan bedragen dan het in het voorafgaande kalenderjaar genoten belastbare loon verminderd met het in het kalenderjaar genoten belastbare loon.   
-2.  Voor de toepassing van de wet en het eerste lid wordt uitgegaan van het wettelijke minimumloon zoals dat per 1 januari van het kalenderjaar waarin de ouderschapsverlofkorting geldt, is vastgesteld.   
-3.  Indien de belastingplichtige in het voorafgaande kalenderjaar eveneens gebruik heeft gemaakt van zijn recht op ouderschapsverlof als bedoeld in hoofdstuk 6 van de Wet arbeid en zorg, kan voor de toepassing van artikel 8.14b, tweede lid, van de wet in plaats van het in het voorafgaande kalenderjaar genoten belastbare loon worden uitgegaan van het in het kalenderjaar voorafgaand aan het ouderschapsverlof genoten belastbare loon.  
-
-### Artikel 44d 
-
-####Verklaring ouderschapsverlof
-
-1.  Voor de toepassing van de ouderschapsverlofkorting beschikt de werknemer over een door de werkgever ondertekende verklaring dat ouderschapsverlof als bedoeld in hoofdstuk 6 van de Wet arbeid en zorg is opgenomen.   
-2.  Deze verklaring bevat ten minste: 
-
-a. naam, adres en woonplaats van de werkgever;  
-
-b. het loonheffingennummer van de werkgever;  
-
-c. naam en burgerservicenummer van de belastingplichtige;  
-
-d. de periode in het kalenderjaar waarin de belastingplichtige gebruik heeft gemaakt van zijn recht op ouderschapsverlof;  
-
-e. het totaal aantal uren in het kalenderjaar waarin de belastingplichtige gebruik heeft gemaakt van zijn recht op ouderschapsverlof.    
 
 ### Hoofdstuk  9  
 

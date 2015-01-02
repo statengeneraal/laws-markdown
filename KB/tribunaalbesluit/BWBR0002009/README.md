@@ -31,8 +31,8 @@ Hebben goedgevonden en verstaan:
 
 1.  Omtrent de interneering wordt door de Tribunalen in hun uitspraak geen tijdsduur bepaald. Zij zijn echter bevoegd, in die uitspraken voor bepaalde gevallen het inachtnemen van een daarbij aangegeven tijdsduur in overweging te geven.   
 2.   De interneering geschiedt voor ten hoogste tien jaren. Zij wordt in ieder geval verminderd met twee derden van den tijd, gedurende welken de tenuitvoerlegging mocht zijn geschorst, doordat de schuldige een vrijheidsstraf ondergaat ingevolge zijn veroordeeling wegens eenig strafbaar feit, vóór het in werking treden van dit besluit begaan.   
-3.   Volgens door Ons nader te stellen regelen kunnen geinterneerden, die - mede gelet op den ernst der gedraging of gedragingen, ter zake waarvan de interneering is opgelegd - op grond van hun houding, gedrag en vlijt, tijdens de interneering betoond, hiervoor in aanmerking komen, al dan niet voorwaardelijk op last van Onzen Minister van Justitie uit de interneering worden ontslagen.   
-4.   Indien een persoon, aan wien de maatregel van interneering is opgelegd, zich rechtmatig in vrijheid bevindt, kan Onze Minister van Justitie bevelen, dat de interneering niet of niet verder ten uitvoer zal worden gelegd, indien de tenuitvoerlegging of verdere tenuitvoerlegging door bijzondere omstandigheden voor den betrokkene of het gezin waartoe hij behoort onnoodig hard zou zijn.  
+3.   Volgens door Ons nader te stellen regelen kunnen geinterneerden, die - mede gelet op den ernst der gedraging of gedragingen, ter zake waarvan de interneering is opgelegd - op grond van hun houding, gedrag en vlijt, tijdens de interneering betoond, hiervoor in aanmerking komen, al dan niet voorwaardelijk op last van Onze Minister van Veiligheid en Justitie uit de interneering worden ontslagen.   
+4.   Indien een persoon, aan wien de maatregel van interneering is opgelegd, zich rechtmatig in vrijheid bevindt, kan Onze Minister van Veiligheid en Justitie bevelen, dat de interneering niet of niet verder ten uitvoer zal worden gelegd, indien de tenuitvoerlegging of verdere tenuitvoerlegging door bijzondere omstandigheden voor den betrokkene of het gezin waartoe hij behoort onnoodig hard zou zijn.  
 
 ### Artikel  3  
 
@@ -150,7 +150,7 @@ d. eenig voordeel, niet vallende in een gemeenschap van goederen, hetwelk tijden
 
 1.  Omtrent de tenuitvoerlegging der verbeurdverklaring worden door Ons nadere regelen vastgesteld. Daarbij zal mede worden geregeld de bevoegdheid der met de tenuitvoerlegging te belasten instantie tot het doen van uitkeeringen ter voorziening in het levensonderhoud van den schuldige en zijn gezin.   
 2.   Het verbeurdverklaarde zal rechtstreeks of middellijk worden besteed tot vergoeding of herstel van door den oorlog en de vijandelijke bezetting in het Rijk in Europa veroorzaakte schade.   
-3.   In bijzondere gevallen kan Onze Minister van Justitie, doch alleen op een daartoe strekkend voorstel, waartoe bij meerderheid van stemmen kan worden besloten, van de gezamenlijke Hoge Autoriteiten, aangewezen voor het verlenen van fiat-executie, bevelen, hetzij, indien de tenuitvoerlegging van een bijzondere maatregel van verbeurdverklaring nog niet is aangevangen, dat deze maatregel niet of niet geheel zal worden ten uitvoer gelegd, hetzij, indien de tenuitvoerlegging reeds geheel of gedeeltelijk heeft plaats gehad, dat aan de schuldige een bepaald bedrag zal worden gerestitueerd.  
+3.   In bijzondere gevallen kan Onze Minister van Veiligheid en Justitie, doch alleen op een daartoe strekkend voorstel, waartoe bij meerderheid van stemmen kan worden besloten, van de gezamenlijke Hoge Autoriteiten, aangewezen voor het verlenen van fiat-executie, bevelen, hetzij, indien de tenuitvoerlegging van een bijzondere maatregel van verbeurdverklaring nog niet is aangevangen, dat deze maatregel niet of niet geheel zal worden ten uitvoer gelegd, hetzij, indien de tenuitvoerlegging reeds geheel of gedeeltelijk heeft plaats gehad, dat aan de schuldige een bepaald bedrag zal worden gerestitueerd.  
 
 ### Titel  II  
 
@@ -178,7 +178,7 @@ d. eenig voordeel, niet vallende in een gemeenschap van goederen, hetwelk tijden
 ### Artikel  12  
 
 1.  Alvorens in bediening te treden, leggen de leden der Tribunalen, de secretarissen, hunne adjuncten en de waarnemende secretarissen, elk naar de wijze zijner godsdienstige gezindheid, den eed (belofte) af, dat zij hun taak naar plicht en geweten, nauwgezet, onpartijdig en als goede vaderlanders zullen vervullen.   
-2.   Deze eed (belofte) wordt door de presidenten afgelegd in handen van Ons of van Onzen Minister van Justitie, daartoe door Ons gemachtigd, door de andere leden der Tribunalen alsmede door de secretarissen, hunne adjuncten en de waarnemende secretarissen in handen van den president van het Tribunaal, waartoe zij behooren.   
+2.   Deze eed (belofte) wordt door de presidenten afgelegd in handen van Ons of van Onze Minister van Veiligheid en Justitie, daartoe door Ons gemachtigd, door de andere leden der Tribunalen alsmede door de secretarissen, hunne adjuncten en de waarnemende secretarissen in handen van den president van het Tribunaal, waartoe zij behooren.   
 3.   Van de eedsaflegging wordt proces-verbaal opgemaakt.  
 
 ### Artikel  13  
@@ -193,7 +193,7 @@ Omtrent de aan de leden der Tribunalen, de secretarissen, hunne adjuncten en de 
 
 ### Artikel  15  
 
-De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstentenis van een voorzitter de plaatsvervangende voorzitters als zoodanig zullen fungeeren; zoo er meer dan een kamer is, bepaalt hij tevens, in welke kamer de gewone leden zitting zullen nemen, en regelt hij de verdeeling der werkzaamheden onder de kamers; hij treft voorts, met inachtneming van zoodanige regelen of aanwijzingen als te dien aanzien door Onzen Minister van Justitie mochten worden gesteld of gegeven, alle verdere beschikkingen, rakende den dienst van het Tribunaal, welke mochten worden noodig gevonden; een en ander zooveel mogelijk in overleg met de overige leden van zijn college. 
+De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstentenis van een voorzitter de plaatsvervangende voorzitters als zoodanig zullen fungeeren; zoo er meer dan een kamer is, bepaalt hij tevens, in welke kamer de gewone leden zitting zullen nemen, en regelt hij de verdeeling der werkzaamheden onder de kamers; hij treft voorts, met inachtneming van zoodanige regelen of aanwijzingen als te dien aanzien door Onze Minister van Veiligheid en Justitie mochten worden gesteld of gegeven, alle verdere beschikkingen, rakende den dienst van het Tribunaal, welke mochten worden noodig gevonden; een en ander zooveel mogelijk in overleg met de overige leden van zijn college. 
 
 ### Artikel  16  
 
@@ -203,8 +203,8 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 
 ### Artikel  16a  
 
-1.  De president van het Tribunaal is bevoegd, volgens regelen te stellen door Onzen Minister van Justitie, personeel voor den dienst van zijn Tribunaal aan te nemen.   
-2.   Omtrent de bezoldiging van dit personeel worden door Onzen Minister van Justitie regelen vastgesteld.   
+1.  De president van het Tribunaal is bevoegd, volgens regelen te stellen door Onze Minister van Veiligheid en Justitie, personeel voor den dienst van zijn Tribunaal aan te nemen.   
+2.   Omtrent de bezoldiging van dit personeel worden door Onze Minister van Veiligheid en Justitie regelen vastgesteld.   
 3.   Het personeel der Tribunalen is ten aanzien van alles, wat in verband met zijn dienst te zijner kennis komt, tot geheimhouding verplicht.  
 
 ### Titel  III  
@@ -219,7 +219,7 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 
 ### Artikel  18  
 
-1.  De aangifte wordt hetzij schriftelijk ingediend bij het Departement van Justitie, hetzij mondeling of schriftelijk gedaan aan een ambtenaar, die tot het ontvangen van zoodanige aangiften door Onzen Minister van Justitie bevoegd en verplicht is verklaard. Zij geschiedt hetzij door den aangever in persoon, hetzij door een ander, daartoe door hem van een bijzondere schriftelijke volmacht voorzien.   
+1.  De aangifte wordt hetzij schriftelijk ingediend bij het Departement van Justitie, hetzij mondeling of schriftelijk gedaan aan een ambtenaar, die tot het ontvangen van zoodanige aangiften door Onze Minister van Veiligheid en Justitie bevoegd en verplicht is verklaard. Zij geschiedt hetzij door den aangever in persoon, hetzij door een ander, daartoe door hem van een bijzondere schriftelijke volmacht voorzien.   
 2.   De aangifte houdt zoo nauwkeurig mogelijke gegevens in omtrent de gedraging of gedragingen, waarop zij betrekking heeft, en omtrent den persoon, die daarvan wordt beschuldigd, alsmede een opgave van de namen en adressen of, bij onbekendheid van een en ander, een aanduiding, zoo nauwkeurig mogelijk, van de personen, die ter zake getuigenis zouden kunnen afleggen.   
 3.   Ten aanzien van iederen beschuldigde dient een afzonderlijke aangifte te worden gedaan.   
 4.   Het bepaalde in artikel 163, tweede tot en met vierde lid, van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
@@ -230,7 +230,7 @@ De president van het Tribunaal bepaalt de volgorde, waarin bij belet of ontstent
 
 1.  Nadat, indien hem dit ter voorbereiding van de behandeling der zaak geraden mocht voorkomen, ter zake nadere inlichtingen zijn ingewonnen, kan de procureur-fiscaal na verleening van een fiatbehandeling de aangifte met de op de zaak betrekkelijke stukken stellen in handen van het Tribunaal, dat uit hoofde van de woon- of verblijfplaats van den beschuldigde, van de plaats, waar deze zich op de aangegeven wijze heeft gedragen, of om andere redenen naar zijn oordeel het meest in aanmerking komt om van de zaak kennis te nemen, zulks met dien verstande, dat alle aangiften tegen denzelfden beschuldigde bij hetzelfde Tribunaal worden aangebracht.   
 2.   Indien aan het Tribunaal blijkt, dat van de zaak beter door een ander Tribunaal kennis zou kunnen worden genomen, doet het daarvan aan den procureur-fiscaal een gemotiveerde schriftelijke mededeeling. Deze is alsdan bevoegd de zaak naar een ander Tribunaal te verwijzen.   
-3.   In zaken, betrekking hebbende op personen of de nalatenschap van personen, die ter zake van een misdrijf, waarop de bepalingen van het Besluit Buitengewoon Strafrecht van toepassing zijn, onherroepelijk zijn veroordeeld, verleent de procureur-fiscaal geen fiatbehandeling dan met machtiging van Onzen Minister van Justitie.  
+3.   In zaken, betrekking hebbende op personen of de nalatenschap van personen, die ter zake van een misdrijf, waarop de bepalingen van het Besluit Buitengewoon Strafrecht van toepassing zijn, onherroepelijk zijn veroordeeld, verleent de procureur-fiscaal geen fiatbehandeling dan met machtiging van Onze Minister van Veiligheid en Justitie.  
 
 ### Artikel  19a  
 
@@ -329,8 +329,9 @@ Het Tribunaal en de commissaris zijn te allen tijde bevoegd, voor zoover het bel
 ### Artikel  35  
 
 1.  Het Tribunaal en de commissaris zijn bevoegd door tusschenkomst van den advocaat-generaal bij het ressortsparket of van den officier van justitie aan de politie en door tusschenkomst van den procureur-fiscaal bij het Bijzondere Gerechtshof aan de politieke recherche-afdeelingen een onderzoek op te dragen en bevelen te geven.   
-2.  De advocaat-generaal, de officier van justitie en de procureur-fiscaal verleenen aan het Tribunaal en den commissaris de noodige medewerking. 2*a*. Het Tribunaal en de commissaris zijn eveneens bevoegd een onderzoek, als in het eerste lid bedoeld, rechtstreeks op te dragen aan de politie, met dien verstande, dat zoodanige opdracht slechts zal kunnen worden gericht tot het betrokken hoofd van plaatselijke of Rijks-politie.   
-3.   De ambtenaren der politie maken proces-verbaal op van hetgeen door hen tot onderzoek is verricht of bevonden. Het bepaalde in artikel 153 van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
+2.  De advocaat-generaal, de officier van justitie en de procureur-fiscaal verleenen aan het Tribunaal en den commissaris de noodige medewerking.  
+2a.  Het Tribunaal en de commissaris zijn eveneens bevoegd een onderzoek, als in het eerste lid bedoeld, rechtstreeks op te dragen aan de politie, met dien verstande, dat zoodanige opdracht slechts zal kunnen worden gericht tot de korpschef. 
+3.   De ambtenaren van politie maken proces-verbaal op van hetgeen door hen tot onderzoek is verricht of bevonden. Het bepaalde in artikel 153 van het Wetboek van Strafvordering is van overeenkomstige toepassing.   
 4.   Het Tribunaal en de commissaris hebben gelijke bevoegdheid als in artikel 147 van het Wetboek van Strafvordering aan het openbaar ministerie is toegekend.  
 
 ### Artikel  36  
@@ -514,8 +515,8 @@ Na afloop van het onderzoek ter zitting wordt gehandeld overeenkomstig het bepaa
 1.  De uitspraak wordt door den voorzitter of door een der gewone leden, die dezelve hebben gewezen, in eene openbare zitting van het Tribunaal gegeven. Zij wordt zoo spoedig mogelijk onderteekend.   
 2.   Het Tribunaal bevordert zooveel mogelijk, dat de beschuldigde, die zich in verzekerde bewaring bevindt, ter zitting, waarop de uitspraak wordt gegeven, tegenwoordig is. Het kan de medebrenging van den beschuldigde, die in vrijheid is, gelasten. Het bepaalde in artikel 51, vierde lid, is van toepassing.   
 3.   Ingeval van afwezigheid van den beschuldigde wordt hem door de zorg van den secretaris onverwijld van de uitspraak kennis gegeven.   
-4.   Elke uitspraak, houdende de oplegging van een of meer bijzondere maatregelen, doet de secretaris met de processtukken ten spoedigste aan Onzen Minister van Justitie toekomen.   
-5.   Een uitspraak, waarbij de beschuldging vervallen is verklaard, wordt door den secretaris onverwijld aan Onzen Minister van Justitie schriftelijk medegedeeld.  
+4.   Elke uitspraak, houdende de oplegging van een of meer bijzondere maatregelen, doet de secretaris met de processtukken ten spoedigste aan Onze Minister van Veiligheid en Justitie toekomen.   
+5.   Een uitspraak, waarbij de beschuldging vervallen is verklaard, wordt door den secretaris onverwijld aan Onze Minister van Veiligheid en Justitie schriftelijk medegedeeld.  
 
 ### Titel  V  
 
@@ -524,7 +525,7 @@ Na afloop van het onderzoek ter zitting wordt gehandeld overeenkomstig het bepaa
 ### Artikel  66  
 
 1.  Een bijzondere maatregel is niet vatbaar voor tenuitvoerlegging dan nadat ten aanzien van dien maatregel op de uitspraak, houdende de oplegging daarvan, het fiat executie is verleend.   
-2.   Te dien einde stelt Onze Minister van Justitie alle ingevolge artikel 65, vierde lid, bij hem ingekomen uitspraken met de processtukken onverwijld in handen van den Raad van State.  
+2.   Te dien einde stelt Onze Minister van Veiligheid en Justitie alle ingevolge artikel 65, vierde lid, bij hem ingekomen uitspraken met de processtukken onverwijld in handen van den Raad van State.  
 
 ### Artikel  67  
 
@@ -550,7 +551,7 @@ Na afloop van het onderzoek ter zitting wordt gehandeld overeenkomstig het bepaa
 
 ### Artikel  71  
 
-Nadat omtrent de verleening van het fiat executie is beslist, worden alle op de zaak betrekkelijke stukken onverwijld wederom toegezonden aan Onzen Minister van Justitie, die deze doet toekomen aan het Tribunaal, dat de uitspraak heeft gewezen. 
+Nadat omtrent de verleening van het fiat executie is beslist, worden alle op de zaak betrekkelijke stukken onverwijld wederom toegezonden aan Onze Minister van Veiligheid en Justitie, die deze doet toekomen aan het Tribunaal, dat de uitspraak heeft gewezen. 
 
 ### Artikel  72  
 

@@ -137,7 +137,7 @@ c. de wijze waarop de kosten van de advisering worden berekend.
 
 ### Artikel  8  
 
-In afwijking van artikel 8:4, onderdeel d, van de Algemene wet bestuursrecht kan een belanghebbende tegen een besluit tot benoeming tot gerechtsdeurwaarder beroep instellen. 
+In afwijking van artikel 8:4, derde lid, onderdeel a, van de Algemene wet bestuursrecht kan een belanghebbende tegen een besluit tot benoeming tot gerechtsdeurwaarder beroep instellen. 
 
 ### Artikel  9  
 

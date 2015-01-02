@@ -94,15 +94,15 @@ d.in andere gevallen dan bedoeld in de onderdelen a, b en c: een goedkeuring van
 2,5 percent voor iedere volgende maand, indien daarop een beroep wordt gedaan in het aangiftebiljet..     
 2.  De afschrijving bedoeld in artikel 10, tweede lid, van de wet, met betrekking tot personenauto's als bedoeld in artikel 15, eerste lid, onderdeel g, van de wet bedraagt 1,5 percent per maand die is verstreken na het tijdstip waarop het motorrijtuig voor het eerst als zodanig in gebruik is genomen, indien daarop een beroep wordt gedaan in het aangiftebiljet.   
 3.  Indien een gebruikt motorrijtuig essentiële gebreken vertoont waardoor met het motorrijtuig niet kan of mag worden deelgenomen aan het verkeer, wordt de vermindering, bedoeld in artikel 10, eerste lid, van de wet, niet vastgesteld dan nadat deze gebreken zijn hersteld. Van essentiële gebreken is in elk geval sprake zolang het motorrijtuig blijkens een vermelding in het register, bedoeld in artikel 1, tweede lid, van de wet, bestemd is voor sloop of wacht op keuring.   
-4.  De opgaaf, bedoeld in artikel 10, zevende lid, van de wet, bestaat uit: 
+4.  De opgaaf, bedoeld in artikel 10, negende lid, van de wet, bestaat uit: 
 
 a. een verwijzing naar een in de handel algemeen toegepaste koerslijst voor de inkoop van gebruikte motorrijtuigen door wederverkopers in Nederland, onder overlegging van een kopie van de passage uit die koerslijst waaraan de bij de aangifte toegepaste afschrijving, bedoeld in artikel 10, tweede lid, van de wet, is ontleend; of  
 
 b. het bij de aangifte gebruikte taxatierapport: 
 
-– dat is opgemaakt ten hoogste een maand vóór het tijdstip dat de belasting ingevolge artikel 1 van de wet is verschuldigd, in de staat waarin het motorrijtuig op dat tijdstip verkeert, door een onafhankelijke, erkende taxateur, waaruit inzichtelijk en gedetailleerd de waarde blijkt bij inkoop van het motorrijtuig door een wederverkoper in Nederland; en  
+– dat is opgemaakt met inachtneming van de voorwaarden opgenomen in bijlage I; en 
 
-– dat is voorzien van een verklaring van de taxateur dat de in het taxatierapport opgegeven waarde door hem naar waarheid is vastgesteld aan de hand van een gedegen fysieke opname van het motorrijtuig, onder vermelding van datum, begin- en eindtijd van deze fysieke opname en naam, adres en woonplaats van degene die de taxatie feitelijk heeft verricht.     Bij het doen van de opgaaf wordt slechts gebruikgemaakt van de gegevens van niet meer dan één koerslijst als bedoeld onder a 
+– dat is opgemaakt ten hoogste een maand vóór het tijdstip dat de belasting ingevolge artikel 1 van de wet is verschuldigd, in de staat waarin het motorrijtuig op dat tijdstip verkeert, door een onafhankelijke, erkende taxateur, in overeenstemming met het eerste aandachtsstreepje.     Bij het doen van de opgaaf wordt slechts gebruikgemaakt van de gegevens van niet meer dan één koerslijst als bedoeld onder a 
 5.  Bij toepassing van de artikelen 10, zesde lid en 10a, eerste lid, van de wet is de afschrijving, bedoeld in artikel 10, tweede lid, van de wet, een percentage van het belastingbedrag, bedoeld in artikel 9, eerste en tweede lid, van de wet, welk percentage is aangegeven in de navolgende tabel. Het vierde lid blijft in dat geval buiten toepassing.  
 
 | Indien sinds het tijdstip waarop het motorvoertuig voor het eerst in gebruik is genomen een periode is verstreken van ten minste  | maar minder dan  | is het percentage  | en voor iedere maand die geheel of gedeeltelijk is verstreken sinds de in de eerste kolom bedoelde periode vermeerderd met  |
@@ -208,4 +208,50 @@ b. de in het derde lid bedoelde verklaring van degene aan wie de bestelauto ter 
 
 De 
 Staatssecretaris van Financiën, 
-M. J. J. van Amelsvoort      
+M. J. J. van Amelsvoort     
+
+### Bijlage  I  
+
+Het taxatierapport, bedoeld in artikel 8, vierde lid, onderdeel b, van de Uitvoeringsregeling belasting van personenauto’s en motorrijwielen 1992, dient in ieder geval te voldoen aan de volgende voorwaarden: 
+
+1.  *Algemeen*  
+
+1.1. Van de taxateur, die de taxatie feitelijk heeft verricht, wordt vermeld: 
+
+a. diens achternaam en voorletters, adres, woonplaats, certificaatnummer en telefoonnummer, en  
+
+b. – indien van toepassing – de bedrijfsnaam, adres, vestigingsplaats en telefoonnummer.    
+
+1.2. De datum, begintijd en eindtijd van de fysieke opname worden vermeld.  
+
+1.3. Het taxatierapport is voorzien van een verklaring van de taxateur dat de in het taxatierapport opgegeven waarde door hem naar waarheid is vastgesteld aan de hand van een gedegen fysieke opname.    
+
+2.  *Voertuigkenmerken*  
+
+2.1. Het getaxeerde motorrijtuig wordt aangeduid door middel van het voertuigidentificatienummer, bedoeld in artikel 2.1 van de Regeling voertuigen.  
+
+2.2. Automerk, bouwjaar, model, type uitvoering, soort brandstof, type transmissie, vermogen (kw/pk) en CO<sub>2</sub>-uitstoot in gram per kilometer, datum van eerste toelating, toegestane maximum massa, eigen massa en kilometerstand van het getaxeerde motorrijtuig worden vermeld.  
+
+2.3. In het rapport wordt opgenomen of op het moment van fysieke opname sprake is van: 
+
+– een voertuig met meer dan normale gebruiksschade, niet zijnde een schadevoertuig als bedoeld in artikel 1, eerste lid, onderdeel u, van de Wegenverkeerswet 1994; of  
+
+– een motorrijtuig dat niet voorkomt op een in de handel algemeen toegepaste koerslijst voor de inkoop van gebruikte motorrijtuigen door wederverkopers in Nederland.    
+
+2.4. De algemene indruk van het getaxeerde motorrijtuig wordt aangegeven en bevat in ieder geval een aanduiding van de kwaliteit van de technische staat, van het onderstel, van de carrosserie, van het interieur en van de banden.  
+
+2.5. De opgegeven algemene indruk van het getaxeerde motorrijtuig wordt gestaafd met duidelijk beeldmateriaal bestaande uit overzichtsfoto’s van de buitenkant van het motorrijtuig, diagonaal genomen vanuit de posities linksvoor en rechtsachter, en foto’s van het dashboard inclusief de opgegeven kilometerstand, de meeruitvoeringen, de accessoires, de voorstoelen, het chassisnummer, de velgen en de bandenmaat.    
+
+3.  *Waardebepaling voertuig*  
+
+3.1. De consumentenprijs van het motorrijtuig op de datum van eerste toelating wordt aangegeven. De consumentenprijs is de netto catalogusprijs inclusief omzetbelasting en belasting van personenauto’s en motorrijwielen. Tevens wordt afzonderlijk opgenomen de in de consumentenprijs begrepen waarde van de standaarduitrusting, de waarde van de accessoires en de waarde van eventuele pakketten.  
+
+3.2. De handelsinkoopwaarde van 3 tot 5 referentiemotorrijtuigen wordt vermeld. De handelsinkoopwaarde van het referentiemotorrijtuig is de door wederverkopers betaalde inkoopprijs voor een gebruikt motorrijtuig bij koop van een niet-wederverkoper (particulier of ondernemer).  
+
+3.3. Een referentiemotorrijtuig is een motorrijtuig waarvan het model, de leeftijd, de kilometerstand, normale gebruikschade en andere algemene kenmerken vergelijkbaar zijn met het getaxeerde motorrijtuig. Onder andere kenmerken worden ook begrepen de rijwaardige staat van het motorrijtuig en het feit of voor de omzetbelasting sprake is van een marge-auto of BTW-auto, de mate van courantheid, al dan niet een ex-schade motorrijtuig, kleur, garantierisico, import van buiten de EU.  
+
+3.4. Op basis van de handelsinkoopwaarden van de referentiemotorrijtuigen wordt gemotiveerd aangegeven welke waarde als uitgangspunt dient voor het te taxeren motorrijtuig. Indien geen van de referentiemotorrijtuigen 100% overeenkomt met het te taxeren motorrijtuig wordt een gemiddelde waarde van de 3 tot 5 referentiemotorrijtuigen aangemerkt als handelsinkoopwaarde die gebruikt wordt bij het te taxeren motorrijtuig.  
+
+3.5. De waardevermindering als gevolg van schade aan het te taxeren motorrijtuig ten opzichte van de vastgestelde waarde op basis van de referentiemotorrijtuig wordt vastgesteld door het schadebedrag te vermenigvuldigen met 72%. Indien de taxateur van mening is dat de waardevermindering voor het te taxeren motorrijtuig hoger is dan de vastgestelde norm wordt dit gemotiveerd aangegeven gestaafd met deugdelijke schadecalculatie en beeldmateriaal.  
+
+3.6. De inkoopfactuur – in het geval het motorrijtuig is gekocht van een ondernemer – of de inkoopverklaring – in het geval het motorrijtuig is gekocht van een particulier – van het getaxeerde motorrijtuig wordt toegevoegd.    

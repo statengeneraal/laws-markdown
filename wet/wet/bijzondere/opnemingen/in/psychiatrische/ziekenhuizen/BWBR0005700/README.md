@@ -96,7 +96,7 @@ b. de ouders die gezamenlijk of de ouder die alleen het gezag over de betrokkene
 c. de ouders die gezamenlijk het gezag over de betrokkene uitoefenen, van mening verschillen.     
 4.   In het geval, bedoeld in de tweede volzin van het eerste lid, is de machtiging vereist indien de daartoe met overeenkomstige toepassing van het derde lid bevoegde persoon of personen ervan blijk geven het vrijwillig verblijf in een psychiatrisch ziekenhuis te willen beëindigen, tenzij die persoon of personen te kennen geven de behandeling in een ander door deze persoon of personen aangewezen psychiatrisch ziekenhuis te willen doen voortzetten en dat ziekenhuis bereid is de betrokkene op te nemen.   
 5.   Met betrekking tot het in het derde lid, onder *a*, bedoelde blijk geven van de nodige bereidheid is artikel 453 van Boek 1 van het Burgerlijk Wetboek niet van toepassing.   
-6. Indien een voorlopige machtiging betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die machtiging als machtiging als bedoeld in artikel 261 van Boek 1 van het Burgerlijk Wetboek.
+6. Indien een voorlopige machtiging betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die machtiging als machtiging als bedoeld in artikel 265b van Boek 1 van het Burgerlijk Wetboek.
 
 ### Artikel  3  
 
@@ -108,7 +108,7 @@ In afwijking van het bepaalde in artikel 2, derde lid, onder a, is voor opneming
 
 a. de echtgenoot;  
 
-b. de ouders dan wel een van hen, voor zover zij niet van het gezag zijn ontheven of ontzet, en elke meerderjarige bloedverwant in de rechte lijn, niet zijnde een ouder, en in de zijlijn tot en met de tweede graad;  
+b. de ouders dan wel een van hen, voor zover hun gezag niet is beëindigd, en elke meerderjarige bloedverwant in de rechte lijn, niet zijnde een ouder, en in de zijlijn tot en met de tweede graad;  
 
 c. de voogd, de curator of de mentor van de betrokkene.     
 2.   Het verzoek wordt schriftelijk gedaan aan de officier van justitie bij de ingevolge artikel 7 bevoegde rechtbank.  
@@ -264,7 +264,7 @@ b. het gevaar buiten een psychiatrisch ziekenhuis, niet zijnde een zwakzinnigeni
 3.  De personen, bedoeld in artikel 4, eerste lid, kunnen de geneesheer-directeur verzoeken toepassing te geven aan het eerste lid.   
 4.  De geneesheer-directeur van het psychiatrisch ziekenhuis doet van de opneming mededeling aan de griffier van de rechtbank die de voorwaardelijke machtiging heeft verleend.   
 5.  De artikelen 10, tweede lid, en 12, eerste lid, zijn van overeenkomstige toepassing.   
-6. Indien een beslissing als bedoeld in het eerste lid, betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die beslissing als machtiging als bedoeld in artikel 261 van Boek 1 van het Burgerlijk Wetboek.
+6. Indien een beslissing als bedoeld in het eerste lid, betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die beslissing als machtiging als bedoeld in artikel 265b van Boek 1 van het Burgerlijk Wetboek.
 
 ### Artikel  14e  
 
@@ -309,7 +309,7 @@ a. de stoornis van de geestvermogens van de betrokkene ook na verloop van de gel
 
 b. het gevaar niet door tussenkomst van personen of instellingen buiten het ziekenhuis kan worden afgewend.     
 3.   Met betrekking tot de voortzetting van het verblijf van de betrokkene in het psychiatrisch ziekenhuis na verloop van de geldigheidsduur van de lopende machtiging zijn artikel 2, derde en vierde lid, en artikel 4 van overeenkomstige toepassing.   
-4. Indien een machtiging tot voortgezet verblijf betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die machtiging als machtiging als bedoeld in artikel 261 van Boek 1 van het Burgerlijk Wetboek.
+4. Indien een machtiging tot voortgezet verblijf betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die machtiging als machtiging als bedoeld in artikel 265b van Boek 1 van het Burgerlijk Wetboek.
 
 ### Artikel  16  
 
@@ -357,7 +357,7 @@ d. het gevaar niet door tussenkomst van personen of instellingen buiten een psyc
 5.   De door de burgemeester aangewezen personen kunnen aan de betrokkene voorwerpen ontnemen die een gevaar voor de veiligheid van de betrokkene of van anderen kunnen opleveren. Zij zijn bevoegd hem daartoe aan de kleding of aan het lichaam te onderzoeken.   
 6.   Zo mogelijk worden de overeenkomstig het vijfde lid ontnomen voorwerpen met de betrokkene overgebracht naar het psychiatrisch ziekenhuis waarin hij wordt opgenomen. In het ziekenhuis wordt de patiënt een bewijs van ontvangst afgegeven waarin die voorwerpen zijn omschreven. De voorwerpen worden voor de patiënt bewaard, voor zover dit niet in strijd is met enig wettelijk voorschrift.   
 7.   Bij de opneming van de betrokkene in het psychiatrisch ziekenhuis wordt door de door de burgemeester aangewezen personen een afschrift van de beschikking, bedoeld in het eerste lid, aan het ziekenhuis overgelegd. Tenzij het geval, bedoeld in artikel 2, vierde lid, zich heeft voorgedaan, wordt daarbij tevens overgelegd een afschrift van de in artikel 21 bedoelde geneeskundige verklaring.   
-8. Indien een last als bedoeld in het eerste lid, betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die last als machtiging als bedoeld in artikel 261 van Boek 1 van het Burgerlijk Wetboek.
+8. Indien een last als bedoeld in het eerste lid, betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die last als machtiging als bedoeld in artikel 265b van Boek 1 van het Burgerlijk Wetboek.
 
 ### Artikel  21  
 
@@ -410,7 +410,7 @@ Bij de opneming geeft de burgemeester aan de echtgenoot, de wettelijke vertegenw
 3.  De rechter beslist binnen drie dagen te rekenen vanaf de dag na die van het indienen van het verzoekschrift door de officier van justitie. De Algemene termijnenwet is op de termijn, bedoeld in de eerste volzin, van toepassing.   
 4.   Artikel 9, tweede, derde en vierde lid, is van overeenkomstige toepassing. Indien de betrokkene op het tijdstip waarop het verzoekschrift tot voortzetting van de inbewaringstelling werd ingediend, nog niet in een psychiatrisch ziekenhuis was opgenomen, zijn de artikelen 11 en 12, eerste lid, van overeenkomstige toepassing.   
 5.  Tegen de beschikking op een verzoek tot het verlenen van een machtiging tot voortzetting van de inbewaringstelling staat geen gewoon rechtsmiddel open.   
-6. Indien een machtiging tot voortzetting van de inbewaringstelling betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die machtiging als machtiging als bedoeld in artikel 261 van Boek 1 van het Burgerlijk Wetboek.
+6. Indien een machtiging tot voortzetting van de inbewaringstelling betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die machtiging als machtiging als bedoeld in artikel 265b van Boek 1 van het Burgerlijk Wetboek.
 
 ### Artikel  30  
 
@@ -436,7 +436,7 @@ b. het gevaar niet door tussenkomst van personen of instellingen buiten een psyc
 3.  Een machtiging als bedoeld in het eerste lid kan, behoudens in het geval, bedoeld in het vijfde lid, slechts worden verleend indien het verzoek door de officier van justitie is gedaan op verzoek van betrokkene.   
 4.  Een betrokkene als bedoeld in het derde lid, kan zijn een minderjarige, een persoon die onder curatele is gesteld dan wel ten behoeve van wie een mentorschap is ingesteld, indien deze tot een redelijke waardering van zijn belangen ter zake in staat kan worden geacht. Zodanige persoon kan hiertoe in rechte optreden.   
 5.  Indien betrokkene minderjarig is, onder curatele is gesteld dan wel indien ten behoeve van hem een mentorschap is ingesteld, kan het verzoek van betrokkene worden gedaan door zijn ouders die het gezag uitoefenen dan wel een van hen, zijn voogd onderscheidenlijk zijn curator of zijn mentor, doch slechts indien de betrokkene daarmee instemt.   
-6. Indien een machtiging op eigen verzoek betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die machtiging als machtiging als bedoeld in artikel 261 van Boek 1 van het Burgerlijk Wetboek.
+6. Indien een machtiging op eigen verzoek betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die machtiging als machtiging als bedoeld in artikel 265b van Boek 1 van het Burgerlijk Wetboek.
 
 ### Artikel  33  
 
@@ -466,7 +466,7 @@ b. een door de onder *a* bedoelde psychiater tezamen met betrokkene opgesteld be
 
 1. Een persoon van 16 jaar of ouder die in staat is zijn wil met betrekking tot opneming, verblijf en behandeling in een psychiatrisch ziekenhuis, niet zijnde een zwakzinnigeninrichting of verpleeginrichting te bepalen, kan zich met een daartoe strekkende verklaring, verbinden tot opneming, verblijf en behandeling van de stoornis van zijn geestvermogens in een psychiatrisch ziekenhuis, niet zijnde een zwakzinnigeninrichting of verpleeginrichting, hoewel de stoornis de betrokkene geen gevaar doet veroorzaken, indien de in die verklaring omschreven omstandigheden zich voordoen. 
 2. Voor een opneming, verblijf en behandeling als bedoeld in het eerste lid, is een rechterlijke machtiging, hierna te noemen zelfbindingsmachtiging, vereist indien de betrokkene geen blijk geeft van de nodige bereidheid tot opneming, verblijf of behandeling en de in de verklaring omschreven omstandigheden zich voordoen.
-3. Indien een zelfbindingsmachtiging betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die machtiging als machtiging als bedoeld in artikel 261 van Boek 1 van het Burgerlijk Wetboek.
+3. Indien een zelfbindingsmachtiging betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die machtiging als machtiging als bedoeld in artikel 265b van Boek 1 van het Burgerlijk Wetboek.
 
 ### Artikel 34b 
 
@@ -840,7 +840,7 @@ Bij of krachtens algemene maatregel van bestuur, vast te stellen op de voordrach
 
 1.  De artikelen 10, tweede lid, 15 tot en met 18, 36 tot en met 50 en 56 tot en met 58 zijn, onverminderd het bepaalde in het tweede lid, van overeenkomstige toepassing met betrekking tot personen die op grond van een uitspraak van de strafrechter als bedoeld in artikel 37, eerste lid, van het Wetboek van Strafrecht in een psychiatrisch ziekenhuis verblijven.   
 2.   Met betrekking tot degenen die op grond van deze wet in een psychiatrisch ziekenhuis verblijven, zijn, indien zij tevens ter beschikking zijn gesteld met bevel tot verpleging van overheidswege, de artikelen 47, 48 en 49 niet van toepassing en wordt artikel 45 met dien verstande toegepast dat verlof door de geneesheer-directeur slechts wordt verleend in overeenstemming met Onze Minister van Justitie. Met het oog op de tenuitvoerlegging van het bevel tot verpleging van overheidswege kan de geneesheer-directeur het verblijf in het psychiatrisch ziekenhuis, bedoeld in dit lid en het eerste lid, na overleg met Onze Minister van Justitie, beëindigen. Het voorgaande is van overeenkomstige toepassing op degenen die op grond van deze wet en tevens met toepassing van artikel 15, vijfde lid, van de Penitentiaire beginselenwet in een psychiatrisch ziekenhuis verblijven.   
-3.  De artikelen 36 tot en met 41b, 44, 56, 57 en 58 zijn van overeenkomstige toepassing met betrekking tot personen die ter beschikking zijn gesteld met bevel tot verpleging van overheidswege en met betrekking tot personen aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd, indien die verpleging dan wel de tenuitvoerlegging van die maatregel plaatsvindt in een psychiatrisch ziekenhuis, niet zijnde een justitiële inrichting voor verpleging van ter beschikking gestelden als bedoeld in artikel 90, quinquies, tweede lid, van het Wetboek van Strafrecht.  
+3.  De artikelen 36 tot en met 41b, 44, 56, 57 en 58 zijn van overeenkomstige toepassing met betrekking tot personen die ter beschikking zijn gesteld, personen aan wie de maatregel van plaatsing in een inrichting voor jeugdigen is opgelegd, personen aan wie de maatregel tot plaatsing in een inrichting voor stelselmatige daders is opgelegd en personen tegen wie voorlopige hechtenis en overbrenging ter observatie is bevolen, indien de tenuitvoerlegging van die maatregel of dat bevel plaatsvindt in een psychiatrisch ziekenhuis, niet zijnde een justitiële inrichting voor verpleging van ter beschikking gestelden als bedoeld in artikel 90, quinquies, tweede lid, van het Wetboek van Strafrecht.  
 4.  Artikel 10, tweede lid, is van overeenkomstige toepassing met betrekking tot personen aan wie op grond van een uitspraak van de rechter als bedoeld in artikel 38 van het Wetboek van Strafrecht de voorwaarde is gesteld tot opneming in een psychiatrisch ziekenhuis. 
 
 ### Artikel  51a  

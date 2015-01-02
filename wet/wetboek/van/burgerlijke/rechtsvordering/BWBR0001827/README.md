@@ -1752,7 +1752,7 @@ b. de wederpartij van de partij die het verval vordert, aannemelijk maakt dat vo
 3.  De zaak kan ook worden aangebracht op een terechtzitting, door de voorzieningenrechter te houden op de daartoe door hem te bepalen werkdagen.   
 4.  De artikelen 127a en 128, tweede lid en zesde lid, zijn niet van toepassing.  
 5.  In zaken die ten gronde door de kantonrechter worden behandeld en beslist is ook de kantonrechter bevoegd tot het geven van een voorziening als in deze afdeling bedoeld. Daarbij is op de kantonrechter van toepassing hetgeen omtrent de voorzieningenrechter is bepaald.   
-5.  Indien de gevorderde voorziening betrekking heeft op een zaak betreffende het personen- en familierecht als bedoeld in de zesde titel van het derde boek is artikel 803 van overeenkomstige toepassing. 
+6.  Indien de gevorderde voorziening betrekking heeft op een zaak betreffende het personen- en familierecht als bedoeld in de zesde titel van het derde boek is artikel 803 van overeenkomstige toepassing. 
 
 ### Artikel  255  
 
@@ -2751,9 +2751,9 @@ Bevindt de in beslag genomen zaak zich onder een derde en beroept deze zich erop
 2.  Is de in beslag genomen zaak op een markt of beurs verhandelbaar, dan kan de verkoop in afwijking van de artikelen 464-466 en 469 geschieden op die markt door tussenkomst van een tussenpersoon in het vak of ter beurze door die van een bevoegde tussenpersoon overeenkomstig de regels en gebruiken die aldaar voor een gewone verkoop gelden. 
 3.  De voorzieningenrechter van de rechtbank kan ten verzoeke van de beslaglegger of de geëxecuteerde een verkoop als in het vorige lid bedoeld ook bepalen ten aanzien van effecten aan toonder die niet ter beurze verhandelbaar zijn. 
 
-###Artikel 463a 
+### Artikel  463a  
 
-Geschillen over de veilconditiën, over de wijze van verkoop of over dag, uur of plaats daarvan worden op verzoek van de meest gerede partij of de deurwaarder beslist door de voorzieningenrechter van de rechtbank, onverminderd de bevoegdheid van hen wier rechten bij de executie niet worden geëerbiedigd, zich daartegen overeenkomstig artikel 438 te verzetten. 
+Geschillen over de veilingvoorwaarden, over de wijze van verkoop of over dag, uur of plaats daarvan worden op verzoek van de meest gerede partij of de deurwaarder beslist door de voorzieningenrechter van de rechtbank, onverminderd de bevoegdheid van hen wier rechten bij de executie niet worden geëerbiedigd, zich daartegen overeenkomstig artikel 438 te verzetten.  
 
 ### Artikel  463b  
 
@@ -2981,8 +2981,8 @@ Indien beslag is gelegd op een vordering tot weerkerende betalingen die niet in 
 
 ### Artikel  475g  
 
-1.  Een schuldenaar is verplicht aan een deurwaarder die gerechtigd is tegen hem beslag te leggen, desgevraagd zijn bronnen van inkomsten op te geven. Een deurwaarder die beslag heeft gelegd, is verplicht hem op te geven hoeveel zijn beslagvrije voet bedraagt, berekend volgens artikel 475d, eerste lid.    
-2.   Zo lang als de schuldenaar desgevraagd niet aan de beslaglegger of diens vertegenwoordiger opgeeft of en hoeveel inkomen toekomt aan degene aan wie samen met hem gezinsbijstand zou kunnen toekomen, wordt de beslagvrije voet gehalveerd.    
+1.  Een schuldenaar is verplicht aan een deurwaarder die gerechtigd is tegen hem beslag te leggen, desgevraagd zijn bronnen van inkomsten op te geven. Een deurwaarder die beslag heeft gelegd, is verplicht hem op te geven hoeveel zijn beslagvrije voet bedraagt, berekend volgens artikel 475d.    
+2.   Zo lang als de schuldenaar desgevraagd niet aan de beslaglegger of diens vertegenwoordiger opgeeft of en hoeveel inkomen toekomt aan degene aan wie samen met hem gezinsbijstand zou kunnen toekomen, wordt de beslagvrije voet gehalveerd. Indien het periodieke inkomen van de alleenstaande of alleenstaande ouder niet bij de beslaglegger bekend is, bedraagt de beslagvrije voet 72% van de voor de beslagene geldende bijstandsnorm.    
 3.   Een deurwaarder die gerechtigd is tegen een schuldenaar beslag te leggen, is bevoegd aan degene van wie hij vermoedt dat deze aan de schuldenaar periodieke betalingen verricht of schuldig is, te vragen of dat zo is. Ieder is verplicht hierop desgevraagd schriftelijk te antwoorden. Daarbij moeten de termijn van de betalingen en hun omvang na aftrek van de in artikel 475a genoemde inhoudingen worden opgegeven alsmede eventuele gelegde beslagen. De Staat en degenen die periodieke betalingen doen aan personen wier naam zij niet rechtstreeks uit hun administratie kunnen lichten, behoeven de vraag slechts te beantwoorden ten aanzien van in de vraag omschreven betalingen of aangeduide collectieve verzekeringen.    
 4.  Een deurwaarder die gerechtigd is tegen een schuldenaar beslag te leggen, is bevoegd ten behoeve van het leggen van dit beslag aan een door Onze Minister van Justitie aangewezen bestuursorgaan, dat belast is met de verwerking van gegevens met betrekking tot periodieke betalingen, mededeling te vragen van de naam, het adres, de vestigingsplaats en de overige gegevens die door dit bestuursorgaan in de administratie worden verwerkt, voor zover die vereist zijn voor het vaststellen van de identiteit van degene die de periodieke betaling aan de schuldenaar verricht. Het bestuursorgaan is verplicht hierop desgevraagd schriftelijk te antwoorden.  
 5.   Met het oog op het inwinnen van de in het derde en vierde lid bedoelde gegevens is de deurwaarder bevoegd bij de basisregistratie personen het burgerservicenummer van de schuldenaar op te vragen. Met behulp van dit nummer kunnen gegevens worden opgevraagd bij personen of instanties, bedoeld in het derde en vierde lid, die zelf reeds gerechtigd zijn tot het gebruik van het nummer.   
@@ -3454,24 +3454,27 @@ De inschrijving van het beslag kan worden doorgehaald met toepassing van de arti
 1. De notaris stelt binnen veertien dagen na zijn aanwijzing of, zo er hypothecaire inschrijvingen zijn, binnen veertien dagen na het ongebruikt verstrijken van de in artikel 509, eerste lid, bedoelde termijn, dag, uur en plaats van de verkoop vast. 
 2.  Hij deelt schriftelijk dag, uur en plaats van de verkoop mede aan de geëxecuteerde en aan alle in artikel 551 bedoelde beperkt gerechtigden en schuldeisers, een en ander aan de hand van een door de bewaarder van het kadaster en de openbare registers af te geven kadastraal uittreksel inzake hypotheken en beslagen als bedoeld in artikel 100, eerste lid, van de Kadasterwet, waarin de inschrijvingen en de boekingen in de registers van voorlopige aantekeningen worden vermeld, die daartoe van belang zijn. 
 
-###Artikel 516 
+### Artikel  516  
 
-1. Geen verkoop zal kunnen plaatsvinden dan na verloop van dertig dagen, nadat zij door aanplakking volgens plaatselijk gebruik en door aankondiging in een plaatselijk verspreid dagblad zal zijn bekend gemaakt. 
-2.  In de bekendmakingen wordt vermeld dat het een executoriale verkoop betreft. 
+1.  Geen verkoop zal kunnen plaatsvinden dan na verloop van dertig dagen, nadat zij door aankondiging op een of meer algemeen toegankelijke websites zal zijn bekend gemaakt.    
+2.   In de bekendmakingen wordt vermeld dat het een executoriale verkoop betreft.   
 
-###Artikel 517 
+### Artikel  517  
 
-1. De notaris stelt de veilconditiën vast, zulks in overleg met de executant en met inachtneming van het bepaalde in artikel 519. Tenminste acht dagen voor de verkoop doet hij de in artikel 515, tweede lid, bedoelde ingeschrevenen en latere beslagleggers hiervan mededeling met toezending van een exemplaar van deze condities en legt hij tevens een exemplaar daarvan te zijnen kantore neer ter inzage voor het publiek. 
-2.  Op verlangen van ieder der voormelde belanghebbenden kunnen de veilconditiën tevens inhouden dat de zaak wordt verkocht vrij van daarop rustende rechten of beperkingen, die niet tegen het recht van deze belanghebbende kunnen worden ingeroepen. 
+1.  De notaris stelt de veilingvoorwaarden vast, zulks in overleg met de executant en met inachtneming van het bepaalde in de artikelen 519, 524a en 525 lid 4. Tenminste dertig dagen voor de verkoop doet hij de in artikel 515, tweede lid, bedoelde ingeschrevenen en latere beslagleggers hiervan mededeling met toezending van een exemplaar van deze voorwaarden en plaatst hij de veilingvoorwaarden tevens op de in artikel 516, eerste lid, bedoelde website of websites.   
+2.   Op verlangen van ieder der voormelde belanghebbenden kunnen de veilingvoorwaarden tevens inhouden dat de zaak wordt verkocht vrij van daarop rustende rechten of beperkingen, die niet tegen het recht van deze belanghebbende kunnen worden ingeroepen.   
 
-###Artikel 518 
+### Artikel  518  
 
-1. Geschillen over de veilconditiën, over de wijze van verkoop of over dag, uur of plaats daarvan worden op verzoek van de meest gerede partij of van de notaris beslist door de voorzieningenrechter van de rechtbank in welker rechtsgebied de zaken geheel of grotendeels zijn gelegen, onverminderd de bevoegdheid van hen wier rechten bij de executie niet worden geëerbiedigd, zich daartegen overeenkomstig artikel 538 te verzetten. 
-2.  Tegen beschikkingen krachtens dit artikel is geen hogere voorziening toegelaten. 
+1.  Geschillen over de veilingvoorwaarden, over de wijze van verkoop of over dag, uur of plaats daarvan, dan wel, via welke website en gedurende welke periode er kan worden geboden, worden op verzoek van de meest gerede partij of van de notaris beslist door de voorzieningenrechter van de rechtbank in welker rechtsgebied de zaken geheel of grotendeels zijn gelegen, onverminderd de bevoegdheid van hen wier rechten bij de executie niet worden geëerbiedigd, zich daartegen overeenkomstig artikel 538 te verzetten.    
+2.   Tegen beschikkingen krachtens dit artikel is geen hogere voorziening toegelaten.   
 
-###Artikel 519 
+### Artikel  519  
 
-De verkoop vindt in het openbaar plaats, eerst bij opbod en vervolgens bij afmijning. 
+1. De verkoop vindt in het openbaar plaats, eerst bij opbod en vervolgens bij afmijning.  
+2. De openbare verkoop kan ook uitsluitend of gelijktijdig via internet plaatsvinden via een algemeen toegankelijke website.
+3. De notaris bepaalt bij de verkoop via internet, in plaats van de dag, het uur en de plaats van de verkoop, bedoeld in artikel 515, via welke website en gedurende welke periode er kan worden geboden.
+4. De algemeen toegankelijke website waarop de verkoop plaatsvindt is ingericht met passende technische maatregelen om de betrouwbaarheid en veiligheid te waarborgen. Bij algemene maatregel van bestuur kunnen hieromtrent nadere regels worden gesteld.
 
 ### Artikel  520  
 
@@ -3496,7 +3499,6 @@ De notaris is verplicht, voor zover hem dit mogelijk is, uiterlijk op de dag na 
 De koper is gehouden de koopprijs te voldoen in handen van de notaris. Deze voldoet daaruit de kosten van de executie. 
 
 ### Artikel  524a  
-Treedt in werking per 01-01-2015 
 
 1. Indien sprake is van een tot bewoning bestemde onroerende zaak worden, voor zover verschuldigd, aan de koper geen andere kosten of heffingen in rekening gebracht dan: 
 
@@ -3513,7 +3515,8 @@ d. de kosten van ontruiming.
 
 1.  De koper verkrijgt het recht op de verkochte zaken door inschrijving van het proces-verbaal van toewijzing.    
 2.   De bewaarder van de openbare registers weigert inschrijving, indien niet tevens een verklaring van de notaris wordt overgelegd dat de koopprijs in zijn handen is gestort en, zo het om een verkoop bedoeld in artikel 477*b*, tweede lid, gaat, tevens een schriftelijke verklaring van de derde dat hij de zaak ter beschikking heeft gesteld van de deurwaarder die het beslag onder de derde heeft gelegd.    
-3.   De geëxecuteerde zal op enkel vertoon van het proces-verbaal tot ontruiming worden genoodzaakt op de wijze bepaald bij de artikelen 556 en 557.   
+3.  De geëxecuteerde, alsmede degene die zich op het moment van de inschrijving van het proces-verbaal van toewijzing zonder recht of titel in de verkochte zaak bevindt en als zodanig niet bekend was aan de koper, zal op grond van het proces-verbaal tot ontruiming worden genoodzaakt.   
+4.  De tot bewoning bestemde onroerende zaak is voor risico van de koper vanaf het moment van de inschrijving van het proces-verbaal van toewijzing. 
 
 ### Artikel  526  
 
@@ -3569,15 +3572,15 @@ b.de aanwijzing van de notaris ten overstaan van wie de verkoop zal plaatsvinden
 2.  Bij overschrijding van de termijn wordt de executie voortgezet door de verzoeker met de hoogst gerangschikte hypotheek of, zo onder de verzoekers geen hypotheekhouder is, door de schuldeiser wiens beslag het eerst is ingeschreven. 
 3.  Tegen een beschikking krachtens het eerste lid is geen hogere voorziening toegelaten. 
 
-###Artikel 546 
+### Artikel  546  
 
-De artikelen 514, tweede lid, tweede zin, en derde lid, 515-520, 522, 523, 525, 526, tweede lid, en 527-529 zijn ook bij executie door een hypotheekhouder van toepassing met inachtneming van de volgende artikelen van deze afdeling. 
+De artikelen 514, tweede lid, tweede zin, en derde lid, 515-520, 522, 523, 524a, 525, 526, tweede lid, en 527-529 zijn ook bij executie door een hypotheekhouder van toepassing met inachtneming van de volgende artikelen van deze afdeling.  
 
-###Artikel 547 
+### Artikel  547  
 
-1. De in artikel 515 bedoelde termijn loopt vanaf de dag van de in artikel 544 bedoelde aanzegging aan de hypotheekgever. 
-2.  In de in artikel 516 bedoelde aanplakking en aankondiging dient tevens te zijn opgenomen dat tot veertien dagen vóór de voor de verkoop bepaalde dag ondershands op de te executeren zaken kan worden geboden bij een aan de notaris gericht geschrift. 
-3.  De notaris geeft van de binnengekomen biedingen onverwijld afschrift aan de executant en de geëxecuteerde. 
+1.  De in artikel 515 bedoelde termijn loopt vanaf de dag van de in artikel 544 bedoelde aanzegging aan de hypotheekgever.    
+2.   In de in artikel 516 bedoelde aankondiging dient tevens te zijn opgenomen dat tot veertien dagen vóór de voor de verkoop bepaalde dag ondershands op de te executeren zaken kan worden geboden bij een aan de notaris gerichte schriftelijke verklaring.    
+3.   De notaris geeft van de binnengekomen biedingen onverwijld afschrift aan de executant en de geëxecuteerde.   
 
 ###Artikel 548 
 
@@ -3730,10 +3733,12 @@ Indien op een in beslag genomen schip dat te boek staat in de openbare registers
 3.   Tegen een beschikking als bedoeld in het tweede lid is geen hogere voorziening toegelaten.    
 4.   Bij toepassing van het tweede lid wordt de overneming bij exploit aangezegd aan de in artikel 565, derde en vierde lid, aangewezen personen.   
 
-###Artikel 570 
+### Artikel  570  
 
-1. De executoriale verkoop geschiedt ten overstaan van een bevoegde notaris, tenzij de executant gebruik maakt van de hem in artikel 575 toegekende bevoegdheid of artikel 576 van toepassing is. 
-2.  In geval van verkoop ten overstaan van een notaris zijn de artikelen 514, tweede en derde lid, 515, 517-519, 523, 525 en 528-540 van overeenkomstige toepassing, voor zover daarvan in de volgende bepalingen van deze afdeling niet wordt afgeweken. 
+1.  De executoriale verkoop geschiedt ten overstaan van een bevoegde notaris, tenzij de executant gebruik maakt van de hem in artikel 575 toegekende bevoegdheid of artikel 576 van toepassing is.    
+2.   In geval van verkoop ten overstaan van een notaris zijn de artikelen 514, tweede en derde lid, 515, 517, tweede lid, 518, 519, eerste lid, 523, 525 en 528-540 van overeenkomstige toepassing, voor zover daarvan in de volgende bepalingen van deze afdeling niet wordt afgeweken.   
+3. Artikel 517, eerste lid, is van overeenkomstige toepassing, met uitzondering van de verwijzing naar de artikelen 524a en 525 lid 4. Voorts legt de notaris een exemplaar van de veilingvoorwaarden te zijnen kantore neer ter inzage voor het publiek in plaats van plaatsing van de veilingvoorwaarden op de in artikel 516, eerste lid, bedoelde website of websites.
+4. In afwijking van artikel 525 zal de geëxecuteerde op enkel vertoon van het proces-verbaal tot ontruiming worden genoodzaakt op de wijze bepaald bij de artikelen 556 en 557.
 
 ###Artikel 571 
 
@@ -3974,7 +3979,7 @@ De rechter kan op verlangen van de schuldeiser de tenuitvoerlegging bij lijfsdwa
 
 a. vonnissen en beschikkingen, voor zover zij een veroordeling tot iets anders dan het betalen van geld inhouden;  
 
-b. vonnissen, beschikkingen en authentieke akten waarbij een uitkering tot levensonderhoud, krachtens Boek 1 van het Burgerlijk Wetboek verschuldigd, daaronder begrepen het verschuldigde voor verzorging en opvoeding van een minderjarige en voor levensonderhoud en studie van een meerderjarige die de leeftijd van een en twintig jaren niet heeft bereikt, is bevolen of toegezegd, alsmede beschikkingen waarbij een uitkering krachtens artikel 85, tweede lid, van Boek 1 van het Burgerlijk Wetboek door de ene echtgenoot of geregistreerde partner aan de andere verschuldigd, is bevolen, en beschikkingen tot verhaal op grond van de Wet werk en bijstand.   
+b. vonnissen, beschikkingen en authentieke akten waarbij een uitkering tot levensonderhoud, krachtens Boek 1 van het Burgerlijk Wetboek verschuldigd, daaronder begrepen het verschuldigde voor verzorging en opvoeding van een minderjarige en voor levensonderhoud en studie van een meerderjarige die de leeftijd van een en twintig jaren niet heeft bereikt, is bevolen of toegezegd, alsmede beschikkingen waarbij een uitkering krachtens artikel 85, tweede lid, van Boek 1 van het Burgerlijk Wetboek door de ene echtgenoot of geregistreerde partner aan de andere verschuldigd, is bevolen, en beschikkingen tot verhaal op grond van de Participatiewet.   
 
 ###Artikel 586 
 
@@ -5132,7 +5137,7 @@ Wordt tussen de belanghebbenden over de verdeling van een batig saldo geen overe
 
 ### Artikel  798  
 
-1.  Voor de toepassing van deze afdeling wordt onder belanghebbende verstaan degene op wiens rechten of verplichtingen de zaak rechtstreeks betrekking heeft.    
+1.  Voor de toepassing van deze afdeling wordt onder belanghebbende verstaan degene op wiens rechten of verplichtingen de zaak rechtstreeks betrekking heeft. Degene die niet de ouder is en de minderjarige op wie de zaak betrekking heeft gedurende ten minste een jaar als behorende tot zijn gezin verzorgt en opvoedt, wordt aangemerkt als belanghebbende.   
 2.   In zaken van curatele, onderbewindstelling of mentorschap worden onder belanghebbenden bovendien verstaan de echtgenoot, de geregistreerde partner of andere levensgezel en de kinderen of, bij gebreke van dezen, de ouders, broers en zusters van degene wiens curatele, goederen of mentorschap het betreft.   
 
 ###Artikel 799 
@@ -5141,7 +5146,6 @@ Wordt tussen de belanghebbenden over de verdeling van een batig saldo geen overe
 2.  Bij de indiening van het verzoekschrift ter griffie worden, voor zover nodig, overgelegd de bescheiden die kunnen dienen tot bewijs van de gestelde feiten. Eveneens worden de nodige afschriften van het verzoekschrift en de bescheiden overgelegd. 
 
 ### Artikel  799a  
-Treedt in werking per 01-01-2015 
 
 1.  Onverminderd artikel 799 vermeldt het verzoekschrift, bedoeld in de artikelen 255, eerste lid, en 260, eerste lid, van Boek 1 van het Burgerlijk Wetboek, de concrete bedreigingen in de ontwikkeling van de minderjarige alsmede de daarop afgestemde duur waarvoor de ondertoezichtstelling zal gelden.   
 2.  Tevens vermeldt het verzoekschrift of, en zo ja, op welke wijze, de inhoud danwel de strekking van het verzoekschrift is besproken met de minderjarige en welke reactie de minderjarige hierop heeft gegeven.   
@@ -5151,7 +5155,7 @@ Treedt in werking per 01-01-2015
 
 1.  Tenzij de rechter aanstonds een beschikking geeft waarbij hij zich onbevoegd verklaart of het verzoek toewijst, wordt aan de belanghebbenden, voorzover hun woonplaats bekend is, een afschrift van het verzoekschrift en van de daarbij behorende bescheiden toegezonden en worden de belanghebbenden opgeroepen voor de behandeling. Is de woonplaats niet bekend, dan wordt bij de oproeping het verzoek kort aangeduid.    
 2.   Voorts kan de rechter bevelen dat degenen wier verklaring in verband met de beoordeling van het verzoek van betekenis kan zijn, worden opgeroepen om ter terechtzitting te verschijnen.    
-3.   De beschikkingen tot voorlopige ondertoezichtstelling van een minderjarige en tot machtiging van de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg om een minderjarige uit huis te plaatsen alsmede een beschikking met betrekking tot de voorlopige voogdij kunnen alleen dan aanstonds worden gegeven, indien de behandeling niet kan worden afgewacht zonder onmiddellijk en ernstig gevaar voor de minderjarige. Deze beschikkingen verliezen haar kracht na verloop van twee weken, tenzij de belanghebbenden binnen deze termijn in de gelegenheid zijn gesteld hun mening kenbaar te maken.   
+3.   De beschikkingen tot voorlopige ondertoezichtstelling van een minderjarige en tot machtiging van de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet om een minderjarige uit huis te plaatsen, een beschikking met betrekking tot de voorlopige voogdij alsmede een beschikking als bedoeld in artikel 265i, tweede lid, van Boek 1 van het Burgerlijk Wetboek kunnen alleen dan aanstonds worden gegeven, indien de behandeling niet kan worden afgewacht zonder onmiddellijk en ernstig gevaar voor de minderjarige. Deze beschikkingen verliezen haar kracht na verloop van twee weken, tenzij de belanghebbenden binnen deze termijn in de gelegenheid zijn gesteld hun mening kenbaar te maken.   
 
 ### Artikel  801  
 
@@ -5189,7 +5193,7 @@ b. door andere belanghebbenden binnen drie maanden na de betekening daarvan of n
 
 Tegen beschikkingen ingevolge  
 
-a. de artikelen 254, vijfde lid, en 255, alsmede de artikelen 259 en 260, met uitzondering van beschikkingen ingevolge artikel 263a, tweede lid, van Boek 1 van het Burgerlijk Wetboek;  
+a. de artikelen 257 en 259, alsmede de artikelen 262a, derde lid, 262b, 263, derde lid, 264 en 265, met uitzondering van beschikkingen ingevolge artikel 265f, tweede lid, van Boek 1 van het Burgerlijk Wetboek;  
 
 b.  artikel 278, lid 2 van Boek 1 van het Burgerlijk Wetboek;  
 
@@ -5207,7 +5211,7 @@ Zaken betreffende minderjarigen die bij de rechtbank aanhangig worden gemaakt, u
 
 1.  In zaken betreffende minderjarigen, uitgezonderd die welke het levensonderhoud van een minderjarige betreffen die de leeftijd van zestien jaren nog niet heeft bereikt, beslist de rechter niet dan na de minderjarige van twaalf jaren of ouder in de gelegenheid te hebben gesteld hem zijn mening kenbaar te maken, tenzij het naar het oordeel van de rechter een zaak van kennelijk ondergeschikt belang betreft. De rechter kan minderjarigen die de leeftijd van twaalf jaren nog niet hebben bereikt, in de gelegenheid stellen hem hun mening kenbaar te maken op een door hem te bepalen wijze. Hetzelfde geldt in zaken betreffende het levensonderhoud van minderjarigen die de leeftijd van zestien jaren nog niet hebben bereikt.    
 2.   In zaken betreffende curatele, onderbewindstelling en mentorschap is de eerste volzin van het eerste lid van overeenkomstige toepassing ten aanzien van de onder curatele te stellen of gestelde persoon, ten aanzien van degene wiens goederen het betreft alsmede ten aanzien van de persoon ten behoeve van wie mentorschap is verzocht of is ingesteld.    
-3.   Indien de gelegenheid waarop de minderjarige zijn mening kenbaar kan maken niet kan worden afgewacht zonder onmiddellijk en ernstig gevaar voor de minderjarige, kan de rechter de beschikkingen tot voorlopige ondertoezichtstelling van een minderjarige en tot machtiging van de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg om een minderjarige uit huis te plaatsen alsmede een beschikking met betrekking tot de voorlopige voogdij geven zonder toepassing van het eerste lid. Deze beschikkingen verliezen haar kracht na verloop van twee weken, tenzij de minderjarige binnen deze termijn in de gelegenheid is gesteld zijn mening kenbaar te maken.    
+3.   Indien de gelegenheid waarop de minderjarige zijn mening kenbaar kan maken niet kan worden afgewacht zonder onmiddellijk en ernstig gevaar voor de minderjarige, kan de rechter de beschikkingen tot voorlopige ondertoezichtstelling van een minderjarige en tot machtiging van de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet om een minderjarige uit huis te plaatsen, een beschikking met betrekking tot de voorlopige voogdij alsmede een beschikking als bedoeld in artikel 265i, tweede lid, van Boek 1 van het Burgerlijk Wetboek geven zonder toepassing van het eerste lid. Deze beschikkingen verliezen haar kracht na verloop van twee weken, tenzij de minderjarige binnen deze termijn in de gelegenheid is gesteld zijn mening kenbaar te maken.    
 4.  Indien de minderjarige van de in het eerste en derde lid bedoelde gelegenheid geen gebruik heeft gemaakt, kan de rechter een nadere dag bepalen, waarop hij voor hem gebracht zal worden. Verschijnt de minderjarige alsdan wederom niet, dan kan de zaak zonder hem worden behandeld.  
 
 ### Artikel  810  
@@ -5215,12 +5219,12 @@ Zaken betreffende minderjarigen die bij de rechtbank aanhangig worden gemaakt, u
 1.  De rechter kan in zaken betreffende minderjarigen, uitgezonderd die welke zijn levensonderhoud betreffen, indien hij dit met het oog op de beoordeling van de belangen van de minderjarige noodzakelijk acht, het advies van de raad voor de kinderbescherming inwinnen. Hij kan de raad daartoe in elke stand van de zaak oproepen.    
 2.   De raad voor de kinderbescherming kan in deze zaken eigener beweging zijn mening schriftelijk aan de rechter kenbaar maken of ter terechtzitting verschijnen, indien de raad dit met het oog op de beoordeling van de belangen van de minderjarige noodzakelijk acht.    
 3.   De raad voor de kinderbescherming ontvangt daartoe onverwijld een afschrift van het verzoekschrift, en wordt tijdig van het tijdstip van de terechtzitting op de hoogte gesteld.    
-4.   Indien de zaak evenwel de ondertoezichtstelling van een minderjarige betreft, de toepassing of overeenkomstige toepassing van de artikelen 259 en 260, van Boek 1 van het Burgerlijk Wetboek daaronder niet begrepen, dan wel de ontheffing of ontzetting van het ouderlijk gezag of van de voogdij, beslist de rechter niet dan na verhoor of behoorlijke oproeping daartoe van de raad voor de kinderbescherming.   
+4.   Indien de zaak evenwel de ondertoezichtstelling van een minderjarige betreft, de toepassing of overeenkomstige toepassing van de artikelen 264 en 265 van Boek 1 van het Burgerlijk Wetboek daaronder niet begrepen, dan wel de beëindiging van het ouderlijk gezag of van de voogdij, beslist de rechter niet dan na verhoor of behoorlijke oproeping daartoe van de raad voor de kinderbescherming.   
 
 ### Artikel  810a  
 
 1.  In zaken betreffende minderjarigen, uitgezonderd zaken als bedoeld in het tweede lid alsmede die welke het levensonderhoud van een minderjarige betreffen, beslist de rechter pas nadat een ouder, indien deze daarom verzoekt, in de gelegenheid is gesteld een rapport van een niet door de rechter benoemde deskundige over te leggen, mits dat mede tot de beslissing van de zaak kan leiden en het belang van het kind zich daartegen niet verzet.    
-2.   In zaken betreffende de ondertoezichtstelling van minderjarigen, de ontheffing en ontzetting van het ouderlijk gezag, of de ontzetting van de voogdij, benoemt de rechter op verzoek van een ouder en na overleg met die ouder een deskundige, mits dat mede tot de beslissing van de zaak kan leiden en het belang van het kind zich daartegen niet verzet.    
+2.   In zaken betreffende de ondertoezichtstelling van minderjarigen of de beëindiging van het ouderlijk gezag of van de voogdij, benoemt de rechter op verzoek van een ouder en na overleg met die ouder een deskundige, mits dat mede tot de beslissing van de zaak kan leiden en het belang van het kind zich daartegen niet verzet.    
 3.   In de in het tweede lid genoemde zaken wordt het aan de in dat lid bedoelde deskundige toekomende bedrag overeenkomstig bij algemene maatregel van bestuur te stellen regels door de rechter vastgesteld en ten laste van ’s Rijks kas door de griffier aan de deskundige betaald. Van de ouder kan een bijdrage worden gevraagd overeenkomstig bij algemene maatregel van bestuur te stellen regels.   
 
 ### Artikel  811  
@@ -5248,7 +5252,7 @@ d. de minderjarige van twaalf jaren of ouder, tenzij de rechter is gebleken dat 
 
 a. tot de voorgeleiding van een minderjarige voor de rechter ingevolge artikel 809 van dit Wetboek;   
 
-b. tot de overbrenging van een minderjarige in verband met een uithuisplaatsing ingevolge de artikelen 261, en 326 van Boek 1 van het Burgerlijk Wetboek;   
+b. tot de overbrenging van een minderjarige in verband met een uithuisplaatsing ingevolge de artikelen 265b en 326 van Boek 1 van het Burgerlijk Wetboek;   
 
 c. tot de afgifte van minderjarigen, als bedoeld in artikel 812;   
 
@@ -5949,7 +5953,7 @@ De rechter wijst het verzoek af voor zover de verzochte beslissing naar zijn oor
 ### Artikel  1019aa  
 
 1.  De rechter begroot de kosten bij de behandeling van het verzoek aan de zijde van de persoon die schade door dood of letsel lijdt in de beschikking en neemt daarbij alle redelijke kosten als bedoeld in artikel 96, tweede lid, van Boek 6 van het Burgerlijk Wetboek in aanmerking.   
-2.  De in het eerste lid bedoelde kosten gelden als kosten als bedoeld in artikel 96, tweede lid, van Boek 6 van het Burgerlijk Wetboek, met dien verstande dat in afwijking van het slot van die bepaling de regels betreffende de proceskosten niet van toepassing zijn in het geval de vordering ten principale aanhangig is gemaakt.   
+2.  De in het eerste lid bedoelde kosten gelden als kosten als bedoeld in artikel 96, tweede lid, van Boek 6 van het Burgerlijk Wetboek, met dien verstande dat in afwijking van het derde lid van die bepaling de regels betreffende de proceskosten niet van toepassing zijn in het geval de vordering ten principale aanhangig is gemaakt.   
 3.  Artikel 289 is niet van toepassing.  
 
 ### Artikel  1019bb  
@@ -5988,7 +5992,7 @@ b. tegelijk met het hoger beroep van het eindvonnis.
 
 ### Eerste  afdeling  
 
-####De overeenkomst tot arbitrage en de benoeming tot arbiter 
+####De overeenkomst tot arbitrage
 
 ### Artikel  1020  
 
@@ -6009,87 +6013,109 @@ c. de aanvulling of wijziging van de rechtsbetrekking als bedoeld in het eerste 
 
 De overeenkomst tot arbitrage wordt bewezen door een geschrift. Daarvoor is voldoende een geschrift dat in arbitrage voorziet of dat verwijst naar algemene voorwaarden welke in arbitrage voorzien en dat door of namens de wederpartij uitdrukkelijk of stilzwijgend is aanvaard. De overeenkomst tot arbitrage kan tevens worden bewezen door elektronische gegevens. Artikel 227a, eerste lid, van Boek 6 van het Burgerlijk Wetboek is van overeenkomstige toepassing. 
 
+###Eerste A afdeling 
+
+####De overeenkomst tot arbitrage en de bevoegdheid van de gewone rechter
+
 ### Artikel  1022  
 
-1.  De rechter, bij wie een geschil aanhangig is gemaakt waarover een overeenkomst tot arbitrage is gesloten, verklaart zich onbevoegd, indien een partij zich voor alle weren op het bestaan van deze overeenkomst beroept, tenzij de overeenkomst ongeldig is.    
-2.   Een overeenkomst tot arbitrage belet niet dat een partij de gewone rechter verzoekt om een maatregel tot bewaring van recht dan wel zich wendt tot de voorzieningenrechter van de rechtbank in kort geding overeenkomstig artikel 254; deze besluit in dit geval met inachtneming van het bepaalde in artikel 1051.    
-3.  Een overeenkomst van arbitrage belet niet dat een partij de gewone rechter verzoekt een voorlopig getuigenverhoor, een voorlopig deskundigenbericht of een voorlopige plaatsopneming en bezichtiging te bevelen, tenzij ten tijde van dit verzoek arbiters zijn benoemd. De artikelen 187, eerste lid, en 203, eerste lid, vinden toepassing alsof geen overeenkomst tot arbitrage van kracht is.  
+De rechter, bij wie een geschil aanhangig is gemaakt waarover een overeenkomst tot arbitrage is gesloten, verklaart zich onbevoegd, indien een partij zich voor alle weren op het bestaan van deze overeenkomst beroept, tenzij de overeenkomst ongeldig is.  
+
+### Artikel  1022a  
+
+Een overeenkomst tot arbitrage belet niet dat een partij de gewone rechter verzoekt om een maatregel tot bewaring van recht dan wel zich wendt tot de voorzieningenrechter van de rechtbank of de kantonrechter in kort geding overeenkomstig artikel 254. 
+
+### Artikel  1022b  
+
+Een overeenkomst tot arbitrage belet niet dat een partij de gewone rechter verzoekt een voorlopig getuigenverhoor, een voorlopig deskundigenbericht, een voorlopige plaatsopneming en bezichtiging, of inzage, afschrift of uittreksel van bepaalde bescheiden te bevelen. 
+
+### Artikel  1022c  
+
+Indien in de gevallen, genoemd in de artikelen 1022a en 1022b, een partij zich voor alle weren beroept op het bestaan van een overeenkomst tot arbitrage, verklaart de rechter zich uitsluitend bevoegd, indien de gevraagde beslissing niet of niet tijdig in arbitrage kan worden gekregen. 
+
+###Eerste B afdeling 
+
+####Het scheidsgerecht
 
 ### Artikel  1023  
 
 Iedere handelingsbekwame, natuurlijke persoon kan tot arbiter worden benoemd. Geen persoon is om reden van zijn nationaliteit van benoeming uitgesloten, tenzij de partijen met het oog op de onpartijdigheid en de onafhankelijkheid van het scheidsgerecht anders zijn overeengekomen.  
 
-###Artikel 1024 
+### Artikel  1024  
 
-1. Het compromis bevat een aanduiding van hetgeen de partijen aan arbitrage wensen te onderwerpen. 
-2.  Door het sluiten van een compromis is de zaak aanhangig, tenzij de partijen een andere wijze van aanhangig maken zijn overeengekomen. 
-3.  Indien de partijen zijn overeengekomen dat de benoeming van de arbiter of arbiters, of een of meer hunner, door een derde zal geschieden, zendt de meest gerede partij een afschrift van het compromis aan die derde. 
+1.  Het compromis bevat een aanduiding van hetgeen de partijen aan arbitrage wensen te onderwerpen.    
+2.   Door het sluiten van een compromis is de zaak aanhangig, tenzij de partijen een andere wijze van aanhangig maken zijn overeengekomen.   
 
-###Artikel 1025 
+### Artikel  1025  
 
-1. Ingeval van een arbitraal beding is een zaak aanhangig op de dag van de ontvangst van een schriftelijke mededeling, waarbij een partij aan haar wederpartij bericht, tot arbitrage over te gaan. Die mededeling bevat een aanduiding van hetgeen de partij, die de zaak aanhangig maakt, aan arbitrage wenst te onderwerpen. 
-2.  Indien de partijen zijn overeengekomen dat de benoeming van de arbiter of arbiters, of een of meer hunner, door een derde zal geschieden, zendt de partij die tot arbitrage overgaat een afschrift van de mededeling, bedoeld in het eerste lid, aan die derde. 
-3.  De partijen kunnen overeenkomen dat de zaak op een andere wijze aanhangig wordt gemaakt dan voorzien in dit artikel. 
+1.  Ingeval van een arbitraal beding is een zaak aanhangig op de dag van de ontvangst van een schriftelijke mededeling, waarbij een partij aan haar wederpartij bericht, tot arbitrage over te gaan. Die mededeling bevat een aanduiding van hetgeen de partij, die de zaak aanhangig maakt, aan arbitrage wenst te onderwerpen.    
+2.   De partijen kunnen overeenkomen dat de zaak op een andere wijze aanhangig wordt gemaakt dan voorzien in dit artikel.   
 
-###Artikel 1026 
+### Artikel  1026  
 
-1. Een scheidsgerecht heeft een oneven aantal arbiters. Het kan ook uit een arbiter bestaan. 
-2.  Ingeval de partijen het aantal arbiters niet zijn overeengekomen, of indien een overeengekomen wijze van bepaling van het aantal niet wordt uitgevoerd en de partijen niet alsnog tot overeenstemming komen over het aantal, wordt dat aantal op verzoek van de meest gerede partij bepaald door de voorzieningenrechter van de rechtbank. 
-3.  Indien de partijen een even aantal arbiters zijn overeengekomen, benoemen deze arbiters een aanvullend arbiter als voorzitter van het scheidsgerecht. 
-4.  Bij gebreke van overeenstemming tussen de arbiters wordt deze aanvullend arbiter, tenzij de partijen anders zijn overeengekomen, op verzoek van de meest gerede partij benoemd door de voorzieningenrechter van de rechtbank. 
+1.  Een scheidsgerecht heeft een oneven aantal arbiters. Het kan ook uit een arbiter bestaan.    
+2.   Ingeval de partijen het aantal arbiters niet zijn overeengekomen, of indien een overeengekomen wijze van bepaling van het aantal niet wordt uitgevoerd en de partijen niet alsnog tot overeenstemming komen over het aantal, wordt dat aantal op verzoek van de meest gerede partij bepaald door de voorzieningenrechter van de rechtbank.    
+3.   Indien de partijen een even aantal arbiters zijn overeengekomen, benoemen deze arbiters een aanvullend arbiter als voorzitter van het scheidsgerecht.    
+4.   Bij gebreke van overeenstemming tussen de arbiters wordt deze aanvullend arbiter, tenzij de partijen anders zijn overeengekomen, op verzoek van de meest gerede partij benoemd door de voorzieningenrechter van de rechtbank.    
+5.  Artikel 1027, vierde lid, is van overeenkomstige toepassing op het bepaalde in het tweede en het vierde lid. 
 
-###Artikel 1027 
+### Artikel  1027  
 
-1. De arbiter of arbiters worden benoemd op de wijze zoals de partijen zijn overeengekomen. De partijen kunnen de benoeming van de arbiter of arbiters, of van een of meer hunner, aan een derde opdragen. Indien geen wijze van benoeming is overeengekomen, worden de arbiter of arbiters door de partijen gezamenlijk benoemd. 
-2.  De benoeming dient te geschieden binnen twee maanden nadat de zaak aanhangig is, tenzij de arbiter of arbiters reeds voordien zijn benoemd. Indien evenwel een der gevallen bedoeld in artikel 1026, tweede lid, zich voordoet, vangt de termijn van twee maanden aan op de dag dat het aantal der arbiters is bepaald. Deze termijn is drie maanden indien ten minste een der partijen buiten Nederland woont of feitelijk verblijf houdt. De termijnen kunnen door de partijen bij overeenkomst worden bekort of verlengd. 
-3.  Vindt de benoeming van de arbiter of arbiters niet binnen de in het vorige lid bedoelde termijn plaats, dan worden deze, op verzoek van de meest gerede partij, benoemd door de voorzieningenrechter van de rechtbank. De wederpartij wordt in de gelegenheid gesteld, te worden gehoord. 
-4.  De voorzieningenrechter of de derde benoemt de arbiter of arbiters ongeacht de vraag of de overeenkomst tot arbitrage geldig is. Door mede te werken aan de benoeming van de arbiter of arbiters verliezen de partijen niet het recht om een beroep te doen op de onbevoegdheid van het scheidsgerecht wegens het ontbreken van een geldige overeenkomst tot arbitrage. 
+1.  De arbiter of arbiters worden benoemd op de wijze zoals de partijen zijn overeengekomen. De partijen kunnen de benoeming van de arbiter of arbiters, of van een of meer hunner, aan een derde opdragen. Indien geen wijze van benoeming is overeengekomen, worden de arbiter of arbiters door de partijen gezamenlijk benoemd.    
+2.   De benoeming dient te geschieden binnen drie maanden nadat de zaak aanhangig is, tenzij de arbiter of arbiters reeds voordien zijn benoemd. Indien evenwel een der gevallen bedoeld in artikel 1026, tweede lid, zich voordoet, vangt de termijn van drie maanden aan op de dag dat het aantal der arbiters is bepaald. De termijnen kunnen door de partijen bij overeenkomst worden bekort of verlengd.    
+3.   Vindt de benoeming van de arbiter of arbiters niet binnen de in het vorige lid bedoelde termijn plaats, dan worden de ontbrekende arbiter of arbiters, op verzoek van de meest gerede partij, benoemd door de voorzieningenrechter van de rechtbank. De wederpartij wordt in de gelegenheid gesteld, te worden gehoord.    
+4.   De voorzieningenrechter of de derde benoemt de arbiter of arbiters ongeacht de vraag of de overeenkomst tot arbitrage geldig is. Door mede te werken aan de benoeming van de arbiter of arbiters verliezen de partijen niet het recht om een beroep te doen op de onbevoegdheid van het scheidsgerecht wegens het ontbreken van een geldige overeenkomst tot arbitrage.   
 
-###Artikel 1028 
+### Artikel  1028  
 
-Indien in de overeenkomst tot arbitrage aan een der partijen een bevoorrechte positie bij de benoeming van de arbiter of arbiters is toegekend, kan de wederpartij, in afwijking van de in deze overeenkomst nedergelegde benoemingsregeling, binnen een maand nadat de zaak aanhangig is, de voorzieningenrechter van de rechtbank verzoeken de arbiter of arbiters te benoemen. De wederpartij van de verzoeker wordt in de gelegenheid gesteld, te worden gehoord. Artikel 1027, vierde lid, is van overeenkomstige toepassing. 
+1.  Indien bij overeenkomst of anderszins aan een der partijen een bevoorrechte positie bij de benoeming van de arbiter of arbiters is toegekend, kan ieder der partijen, in afwijking van de overeengekomen benoemingsregeling, de voorzieningenrechter van de rechtbank verzoeken de arbiter of arbiters te benoemen.   
+2.  Een partij zal het verzoek als bedoeld in het eerste lid moeten indienen binnen drie maanden nadat de zaak aanhangig is, op straffe van verval van recht om zich later te beroepen op de bevoorrechte positie bij de benoeming van de arbiter of arbiters in het arbitraal geding of bij de gewone rechter. De partijen kunnen de termijn bij overeenkomst verlengen.   
+3.  De wederpartij van de verzoeker wordt in de gelegenheid gesteld, te worden gehoord. Artikel 1027, vierde lid, is van overeenkomstige toepassing.  
 
-###Artikel 1029 
+### Artikel  1029  
 
-1. Een arbiter aanvaardt zijn opdracht schriftelijk. 
-2.  Een arbiter die zijn opdracht heeft aanvaard, kan op eigen verzoek daarvan worden ontheven hetzij met instemming van de partijen, hetzij door een door de partijen aangewezen derde of, bij gebreke daarvan, door de voorzieningenrechter van de rechtbank. 
-3.  Een arbiter die zijn opdracht heeft aanvaard, kan door de partijen gezamenlijk van zijn opdracht worden ontheven. 
-4.  Een arbiter die zijn opdracht heeft aanvaard, kan, indien hij rechtens of feitelijk niet meer in staat is, zijn opdracht te vervullen, op verzoek van een der partijen van zijn opdracht worden ontheven door een door de partijen aangewezen derde of, bij gebreke daarvan, door de voorzieningenrechter van de rechtbank. 
+1.  Een arbiter aanvaardt zijn opdracht schriftelijk. Een arbiter kan slechts van zijn opdracht worden ontheven in de gevallen, bedoeld in het tweede tot en met het vijfde lid van dit artikel, tenzij de partijen anders zijn overeengekomen.   
+2.   Een arbiter die zijn opdracht heeft aanvaard, kan op eigen verzoek daarvan worden ontheven hetzij met instemming van de partijen, hetzij door een door de partijen aangewezen derde of, bij gebreke daarvan, door de voorzieningenrechter van de rechtbank.    
+3.   Een arbiter die zijn opdracht heeft aanvaard, kan door de partijen gezamenlijk van zijn opdracht worden ontheven.    
+4.   Een arbiter die zijn opdracht heeft aanvaard, kan, indien hij rechtens of feitelijk niet meer in staat is zijn opdracht te vervullen, op verzoek van een der partijen van zijn opdracht worden ontheven door een door de partijen aangewezen derde of, bij gebreke daarvan, door de voorzieningenrechter van de rechtbank.    
+5.  Een scheidsgerecht dat zijn opdracht heeft aanvaard kan, indien het, ondanks herhaalde aanmaning, zijn opdracht, alle omstandigheden in aanmerking genomen, op onaanvaardbare trage wijze uitvoert, op verzoek van een der partijen van zijn opdracht worden ontheven door de door partijen aangewezen derde of, bij gebreke daarvan, door de voorzieningenrechter van de rechtbank. 
 
-###Artikel 1030 
+### Artikel  1030  
 
-1. Een arbiter die ingevolge artikel 1029, tweede, derde of vierde lid, van zijn opdracht is ontheven, wordt vervangen volgens de regelen die van toepassing waren op de oorspronkelijke benoeming, tenzij de partijen een andere wijze van vervanging zijn overeengekomen. Hetzelfde geldt ingeval van overlijden van een arbiter. 
-2.  Indien de partijen in de overeenkomst tot arbitrage de arbiter of arbiters met name hebben aangewezen, vindt vervanging in de in het eerste lid bedoelde gevallen eveneens plaats, tenzij de partijen zijn overeengekomen dat de overeenkomst tot arbitrage alsdan eindigt. 
-3.  Ingeval van vervanging is het geding van rechtswege geschorst, tenzij de partijen anders zijn overeengekomen. Na de schorsing wordt het geding voortgezet in de stand waarin het zich bevindt, tenzij de partijen anders zijn overeengekomen. 
+1.  Een arbiter die ingevolge artikel 1029, tweede, derde of vierde lid, dan wel een scheidsgerecht dat ingevolge artikel 1029, vijfde lid, van zijn opdracht is ontheven, wordt vervangen volgens de regelen die van toepassing waren op de oorspronkelijke benoeming, tenzij de partijen een andere wijze van vervanging zijn overeengekomen. Hetzelfde geldt ingeval van overlijden van een arbiter.    
+2.   Indien de partijen in de overeenkomst tot arbitrage de arbiter of arbiters met name hebben aangewezen, vindt vervanging in de in het eerste lid bedoelde gevallen eveneens plaats, tenzij de partijen zijn overeengekomen dat de overeenkomst tot arbitrage alsdan eindigt.    
+3.   Ingeval van vervanging is het geding van rechtswege geschorst, tenzij de partijen anders zijn overeengekomen. Na de schorsing wordt het geding voortgezet in de stand waarin het zich bevindt, tenzij de partijen anders zijn overeengekomen.   
 
-###Artikel 1031 
+### Artikel  1031  
 
-1. De partijen kunnen gezamenlijk de opdracht van het scheidsgerecht beëindigen. 
-2.  Op verzoek van de meest gerede partij kan een door de partijen aangewezen derde of, bij gebreke daarvan, de voorzieningenrechter van de rechtbank, de wederpartij en de arbiter of arbiters gehoord, de opdracht van het scheidsgerecht beëindigen, indien het, ondanks herhaalde aanmaning, zijn opdracht, alle omstandigheden in aanmerking genomen, op onaanvaardbaar trage wijze uitvoert. In dat geval herleeft de bevoegdheid van de gewone rechter, tenzij de partijen anders zijn overeengekomen. 
+De partijen kunnen gezamenlijk de opdracht van het scheidsgerecht beëindigen.  
 
-### Artikel  1032  
+### Artikel  1033  
 
-1.  Het overlijden van een partij doet de overeenkomst tot arbitrage noch de opdracht van het scheidsgerecht eindigen, tenzij de partijen anders zijn overeengekomen.    
-2.   Het scheidsgerecht schorst het geding voor een door hem te bepalen termijn. Het scheidsgerecht kan, op verzoek van de rechtsopvolgers van een overleden partij, deze termijn verlengen. Het scheidsgerecht stelt de wederpartij in de gelegenheid, op het verzoek te worden gehoord.    
-3.   Na de schorsing wordt het geding voortgezet in de stand waarin het zich bevindt, tenzij de partijen anders zijn overeengekomen.   
-
-###Artikel 1033 
-
-1. Een arbiter kan worden gewraakt indien gerechtvaardigde twijfel bestaat aan zijn onpartijdigheid of onafhankelijkheid. Om dezelfde redenen kan een aan het scheidsgerecht toegevoegde secretaris worden gewraakt. Artikel 1035 is in dit geval van overeenkomstige toepassing. 
-2.  Een door een partij benoemde arbiter kan door die partij slechts worden gewraakt om redenen welke haar na de benoeming bekend zijn geworden. 
-3.  Een partij kan een door een derde of door de voorzieningenrechter van de rechtbank benoemde arbiter niet wraken, indien zij in diens benoeming heeft berust, tenzij de reden tot wraking haar eerst later bekend is geworden. 
+1.  Een arbiter kan worden gewraakt indien gerechtvaardigde twijfel bestaat aan zijn onpartijdigheid of onafhankelijkheid.   
+2.   Een door een partij benoemde arbiter kan door die partij slechts worden gewraakt om redenen welke haar na de benoeming bekend zijn geworden.    
+3.   Een partij kan een door een derde of door de voorzieningenrechter van de rechtbank benoemde arbiter niet wraken, indien zij in diens benoeming heeft berust, tenzij de reden tot wraking haar eerst later bekend is geworden.   
 
 ### Artikel  1034  
 
-1.  Een als arbiter of secretaris aangezochte persoon die het vermoeden heeft dat hij zou kunnen worden gewraakt, doet daarvan schriftelijk mededeling aan degene die hem heeft aangezocht, onder vermelding van de vermoedelijke redenen tot wraking.    
-2.   Een tot arbiter of secretaris benoemde persoon doet de in het eerste lid bedoelde mededeling aan de partijen zodra zijn benoeming heeft plaatsgevonden, tenzij zij deze mededeling reeds hebben ontvangen.   
+1.  Een als arbiter aangezochte persoon die het vermoeden heeft dat hij zou kunnen worden gewraakt, doet daarvan schriftelijk mededeling aan degene die hem heeft aangezocht, onder vermelding van de vermoedelijke redenen tot wraking.    
+2.   Een tot arbiter benoemde persoon doet de in het eerste lid bedoelde mededeling aan de partijen zodra zijn benoeming heeft plaatsgevonden, tenzij zij deze mededeling reeds hebben ontvangen.    
+3.  Een arbiter die hangende het arbitraal geding het vermoeden krijgt dat hij zou kunnen worden gewraakt, doet daarvan onder vermelding van de vermoedelijke redenen tot wraking schriftelijk mededeling aan de partijen en, indien het scheidsgerecht uit meer arbiters bestaat, aan de mede-arbiters. 
 
-###Artikel 1035 
+### Artikel  1035  
 
-1. De wrakende partij brengt de wraking, onder opgave van redenen, schriftelijk ter kennis van de betrokken arbiter, het scheidsgerecht, haar wederpartij en tevens, indien een derde de gewraakte arbiter heeft benoemd, van die derde. Het geding kan door het scheidsgerecht worden geschorst vanaf de dag van de ontvangst van de kennisgeving. 
-2.  Trekt een gewraakte arbiter zich niet binnen twee weken na de dag van de ontvangst van die kennisgeving terug, dan wordt over de gegrondheid van de wraking op verzoek van de meest gerede partij door de voorzieningenrechter van de rechtbank beslist. Wordt dit verzoek niet binnen vier weken na de dag van de ontvangst van de kennisgeving gedaan, dan vervalt het recht tot wraking en wordt het geding, indien het geschorst was, hervat in de stand waarin het zich bevindt. 
-3.  Trekt de gewraakte arbiter zich terug of wordt diens wraking door de voorzieningenrechter van de rechtbank gegrond bevonden, dan wordt hij vervangen volgens de regelen welke van toepassing waren op zijn oorspronkelijke benoeming, tenzij de partijen een andere wijze van vervanging zijn overeengekomen. Artikel 1030, tweede en derde lid, is van overeenkomstige toepassing. 
-4.  Indien de betrokken arbiter, een der partijen of beide partijen buiten Nederland wonen of feitelijk verblijf houden, zijn de in het tweede lid vermelde termijnen zes onderscheidenlijk acht weken. 
+1.  De wrakende partij brengt de wraking onder opgave van redenen schriftelijk ter kennis van de betrokken arbiter, de wederpartij en, indien het scheidsgerecht uit meerdere arbiters bestaat, de mede-arbiters. De kennisgeving wordt gedaan binnen vier weken na de dag van ontvangst van de mededeling als bedoeld in artikel 1034 of, bij gebreke daarvan, binnen vier weken nadat de reden tot wraking aan de wrakende partij bekend is geworden.   
+2.  Trekt een gewraakte arbiter zich niet binnen twee weken na de dag van de ontvangst van een tijdig uitgebrachte kennisgeving als bedoeld in het eerste lid terug, dan wordt over de gegrondheid van de wraking op verzoek van de meest gerede partij door de voorzieningenrechter van de rechtbank beslist. Het verzoek wordt gedaan binnen twee weken na de dag van ontvangst van de schriftelijke mededeling van de gewraakte arbiter dat hij zich niet terugtrekt, of bij gebreke daarvan, binnen zes weken na de dag van ontvangst van de kennisgeving.   
+3.  Trekt de gewraakte arbiter zich terug of wordt diens wraking door de voorzieningenrechter van de rechtbank gegrond bevonden, dan wordt hij vervangen volgens de regelen welke van toepassing waren op zijn oorspronkelijke benoeming, tenzij de partijen een andere wijze van vervanging zijn overeengekomen. Artikel 1030, tweede en derde lid, is van overeenkomstige toepassing.   
+4.  Trekt een gewraakte arbiter zich terug, dan impliceert dit niet een aanvaarding van de gegrondheid van de redenen tot wraking.   
+5.  Het scheidsgerecht kan het arbitraal geding schorsen vanaf de dag van ontvangst van de tijdig uitgebrachte kennisgeving, als bedoeld in het eerste lid, of nadien, hangende de wrakingsprocedure, vanaf het moment dat het scheidsgerecht daarvoor in aanmerking acht te komen. Indien de wraking niet ontvankelijk dan wel niet gegrond wordt bevonden, wordt het geding, indien het geschorst was, hervat in de stand waarin het zich bevindt.   
+6.  Bij overeenkomst kunnen de partijen de termijnen als bedoeld in het eerste en tweede lid van dit artikel verkorten of verlengen.   
+7.  Bij overeenkomst kunnen partijen voorzien in de behandeling van een verzoek tot wraking door een onafhankelijke derde anders dan de voorzieningenrechter van de rechtbank.   
+8.  Een partij die redenen heeft een arbiter te wraken, legt deze redenen aan een verzoek tot wraking overeenkomstig de bepalingen van dit artikel ten grondslag op straffe van verval van recht zich daarop later in het arbitraal geding of bij de rechter te beroepen.  
+
+### Artikel  1035a  
+
+Indien het scheidsgerecht zich laat bijstaan door een secretaris, zijn de artikelen 1033 tot en met 1035 van overeenkomstige toepassing. 
 
 ### Tweede  afdeling  
 
@@ -6097,81 +6123,71 @@ Indien in de overeenkomst tot arbitrage aan een der partijen een bevoorrechte po
 
 ### Artikel  1036  
 
-Onverminderd het bepaalde in deze Titel wordt het arbitraal geding gevoerd op de wijze als door de partijen is overeengekomen of, voorzover de partijen daarin niet hebben voorzien, als door het scheidsgerecht bepaald.  
+1.  Onverminderd de bepalingen van dwingend recht in deze titel, wordt het arbitraal geding gevoerd op de wijze als door de partijen is overeengekomen. Voorzover de partijen niet in de regeling van het arbitraal geding hebben voorzien, wordt dit, onverminderd het bepaalde in deze titel, gevoerd op de wijze als door het scheidsgerecht bepaald.   
+2.  Het scheidsgerecht behandelt de partijen op voet van gelijkheid. Het scheidsgerecht stelt de partijen over en weer in de gelegenheid hun standpunten naar voren te brengen en toe te lichten en zich uit te laten over elkaars standpunten en over alle bescheiden en andere gegevens die in het geding ter kennis van het scheidsgerecht zijn gebracht. Bij zijn beslissing baseert het scheidsgerecht zijn oordeel ten nadele van een der partijen niet op bescheiden en andere gegevens waarover die partij zich niet voldoende heeft kunnen uitlaten.   
+3.  Het scheidsgerecht waakt tegen onredelijke vertraging van het geding en treft zo nodig, op verzoek van een partij of uit eigen beweging, maatregelen. Partijen zijn tegenover elkaar verplicht onredelijke vertraging van het geding te voorkomen.  
 
 ### Artikel  1037  
 
 1.  De plaats van arbitrage wordt door de partijen bij overeenkomst bepaald en bij gebreke daarvan door het scheidsgerecht. Door de bepaling van de plaats van arbitrage is tevens de plaats van de uitspraak vastgesteld.    
 2.   Indien de plaats van arbitrage noch door de partijen noch door het scheidsgerecht is bepaald, geldt de plaats van de uitspraak, door het scheidsgerecht in het vonnis vermeld, als plaats van arbitrage.    
-3.   Het scheidsgerecht kan zitting houden, beraadslagen, getuigen en deskundigen horen op elke andere plaats, in of buiten Nederland, die het daartoe geschikt acht.   
+3.   Het scheidsgerecht kan zitting houden, beraadslagen, getuigen en deskundigen horen op elke andere plaats, in of buiten Nederland, die het daartoe geschikt acht, tenzij de partijen anders zijn overeengekomen. Het scheidsgerecht is bevoegd om een van zijn leden aan te wijzen om de zitting als bedoeld in de vorige zin te houden, tenzij de partijen anders zijn overeengekomen.  
 
-###Artikel 1038 
+### Artikel  1038  
 
-1. De partijen kunnen voor het scheidsgerecht in persoon verschijnen of zich doen vertegenwoordigen door een advocaat dan wel door een bijzonderlijk daartoe schriftelijk gevolmachtigde. 
-2.  De partijen kunnen zich in het geding door personen van keuze doen bijstaan. 
+1.  De partijen kunnen in het geding in persoon verschijnen of zich doen vertegenwoordigen door een advocaat dan wel door een bijzonderlijk daartoe schriftelijk gevolmachtigde.    
+2.   De partijen kunnen zich in het geding door personen van hun keuze doen bijstaan.   
 
 ### Artikel  1038a  
-Treedt in werking per 01-01-2015 
 
 1.  Tenzij de partijen anders zijn overeengekomen, worden de eiser en de verweerder door het scheidsgerecht in de gelegenheid gesteld een memorie van eis respectievelijk een memorie van antwoord in te dienen.   
 2.  Tenzij de partijen anders zijn overeengekomen, is het scheidsgerecht vrij te bepalen of nadere memoriën kunnen worden ingediend.  
 
 ### Artikel  1038b  
-Treedt in werking per 01-01-2015 
 
 Het scheidsgerecht stelt, op verzoek van een der partijen of uit eigen beweging, de partijen in de gelegenheid hun zaak op een zitting mondeling toe te lichten, tenzij de partijen anders zijn overeengekomen. 
 
 ### Artikel  1038c  
-Treedt in werking per 01-01-2015 
 
 1.  Een tegenvordering is toelaatbaar indien daarop dezelfde arbitrageovereenkomst als waarop de vordering is gebaseerd van toepassing is dan wel diezelfde arbitrageovereenkomst door de partijen uitdrukkelijk of stilzwijgend van toepassing is verklaard.   
 2.  Tenzij de partijen anders zijn overeengekomen, wordt een tegenvordering als bedoeld in het eerste lid dadelijk bij memorie van antwoord ingediend.  
 
 ### Artikel  1038d  
-Treedt in werking per 01-01-2015 
 
 Een partij kan zijn vordering respectievelijk tegenvordering of de gronden daarvan veranderen of vermeerderen gedurende de arbitrale procedure, op voorwaarde dat de wederpartij daardoor in zijn verdediging niet onredelijk wordt bemoeilijkt of het geding daardoor niet onredelijk wordt vertraagd. 
 
-###Artikel 1039 
+### Artikel  1039  
 
-1. De partijen worden op voet van gelijkheid behandeld. Het scheidsgerecht geeft iedere partij de gelegenheid, voor haar rechten op te komen en haar stellingen voor te dragen. 
-2.  Het scheidsgerecht geeft, op verzoek van een der partijen of uit eigen beweging, aan de partijen de gelegenheid tot het geven van een mondelinge toelichting. 
-3.  Het scheidsgerecht kan, op verzoek van een der partijen, een partij toestaan om getuigen of deskundigen voor te brengen. Het scheidsgerecht is bevoegd om een van zijn leden aan te wijzen om getuigen of deskundigen te horen. 
-4.  Het scheidsgerecht is bevoegd, overlegging van stukken te bevelen. 
-5.  Voor zover de partijen niet anders zijn overeengekomen, is het scheidsgerecht vrij ten aanzien van de toepassing van de regelen van bewijsrecht. 
+1.  De bewijsvoering, de toelaatbaarheid van de bewijsmiddelen, de bewijslastverdeling en de waardering van het bewijs staan ter vrije bepaling van het scheidsgerecht, tenzij de partijen anders zijn overeengekomen.   
+2.  Het scheidsgerecht is bevoegd om een van zijn leden aan te wijzen om getuigen of deskundigen te horen dan wel om een plaatsopneming of bezichtiging te houden, tenzij de partijen anders zijn overeengekomen. 
 
-###Artikel 1040 
+### Artikel  1040  
 
-1. Blijft de eiser, ofschoon daartoe behoorlijk in de gelegenheid gesteld, in gebreke zijn eis in te dienen of naar behoren toe te lichten, zonder daartoe gegronde redenen aan te voeren, dan kan het scheidsgerecht bij vonnis een einde maken aan het arbitraal geding. 
-2.  Blijft de verweerder, ofschoon daartoe behoorlijk in de gelegenheid gesteld, in gebreke verweer te voeren, zonder daartoe gegronde redenen aan te voeren, dan kan het scheidsgerecht aanstonds vonnis wijzen. 
-3.  Bij het vonnis, bedoeld in het tweede lid, wordt de eis toegewezen, tenzij deze aan het scheidsgerecht onrechtmatig of ongegrond voorkomt. Het scheidsgerecht kan, alvorens vonnis te wijzen, van de eiser het bewijs van een of meer van zijn stellingen verlangen. 
+1.  Tenzij de partijen anders zijn overeengekomen, gaan de memoriën als bedoeld in artikel 1038a zoveel mogelijk vergezeld van de bescheiden waarop de partijen zich beroepen.   
+2.  Het scheidsgerecht kan, op verzoek van een der partijen of uit eigen beweging, inzage, afschrift of uittreksel van bepaalde, op het geschil betrekking hebbende bescheiden bevelen van de partij die deze bescheiden tot zijn beschikking heeft, tenzij de partijen anders zijn overeengekomen. Het scheidsgerecht bepaalt de voorwaarden waaronder en de wijze waarop inzage, afschrift of uittreksel van bescheiden wordt verschaft.  
 
-###Artikel 1041 
+### Artikel  1041  
 
-1. Indien een getuigenverhoor plaatsvindt, bepaalt het scheidsgerecht tijdstip en plaats van het verhoor en de wijze waarop het verhoor zal geschieden. Indien het scheidsgerecht het nodig oordeelt, hoort het de getuigen, nadat dezen op de bij de wet bepaalde wijze de eed hebben gezworen de gehele waarheid en niets dan de waarheid te zullen zeggen. 
-2.  Indien een getuige niet vrijwillig verschijnt dan wel, verschenen zijnde, weigert een verklaring af te leggen, kan het scheidsgerecht aan de partij die dit verzoekt, toestaan om zich binnen een door het scheidsgerecht te bepalen termijn, te wenden tot de voorzieningenrechter van de rechtbank met verzoek een rechter-commissaris te benoemen voor wie het getuigenverhoor zal plaatsvinden. Het verhoor vindt plaats op dezelfde wijze als in gewone zaken, met dien verstande dat de arbiter of arbiters door de griffier van de rechtbank in de gelegenheid worden gesteld, bij het getuigenverhoor aanwezig te zijn. 
-3.  De griffier van de rechtbank zendt ten spoedigste afschrift van het verslag van het verhoor aan het scheidsgerecht en aan de partijen. 
-4.  Het scheidsgerecht kan het geding schorsen tot de dag dat het scheidsgerecht het verslag van het verhoor heeft ontvangen. 
+1.  Het scheidsgerecht kan, op verzoek van een der partijen of uit eigen beweging, partijen bevelen om bewijs te leveren door het horen van getuigen en deskundigen, tenzij de partijen anders zijn overeengekomen.   
+2.  Het scheidsgerecht kan de vorm bepalen waarin de verklaringen van de getuigen en de deskundigen worden gegeven, tenzij de partijen anders zijn overeengekomen.   
+3.  Indien een mondeling verhoor van getuigen of deskundigen plaatsvindt, bepaalt het scheidsgerecht tijdstip en plaats van het verhoor en de wijze waarop het verhoor zal geschieden.   
+4.  Indien het scheidsgerecht het nodig oordeelt, hoort het de getuigen nadat dezen op de bij de wet bepaalde wijze de eed hebben gezworen de gehele waarheid en niets dan de waarheid te zullen zeggen.  
 
 ### Artikel  1041a  
-Treedt in werking per 01-01-2015 
 
 1.  Indien een getuige niet vrijwillig verschijnt dan wel, verschenen zijnde, weigert een verklaring af te leggen, kan het scheidsgerecht aan de partij die dit verzoekt, toestaan om zich, binnen een door het scheidsgerecht te bepalen termijn, te wenden tot de voorzieningenrechter van de rechtbank met het verzoek een rechter-commissaris te benoemen voor wie het getuigenverhoor zal plaatsvinden.   
 2.  Het verhoor vindt plaats op dezelfde wijze als in gewone zaken, met dien verstande dat de arbiter of arbiters door de griffier van de rechtbank in de gelegenheid worden gesteld bij het getuigenverhoor aanwezig te zijn en aan de getuige vragen te stellen.   
 3.  De griffier van de rechtbank zendt ten spoedigste het proces-verbaal van het verhoor aan het scheidsgerecht en aan de partijen.   
 4.  Het scheidsgerecht kan het geding schorsen tot de dag dat het scheidsgerecht het verslag van het verhoor heeft ontvangen.  
 
-###Artikel 1042 
+### Artikel  1042  
 
-1. Het scheidsgerecht kan een of meer deskundigen benoemen tot het uitbrengen van een advies. Het scheidsgerecht zendt ten spoedigste afschrift van de benoeming en van de aan deskundigen gegeven opdracht aan de partijen. 
-2.  Het scheidsgerecht kan van een partij verlangen, de deskundigen de vereiste inlichtingen te verschaffen en de benodigde medewerking te verlenen. 
-3.  Na de ontvangst van het deskundigenbericht wordt dit in afschrift door het scheidsgerecht ten spoedigste aan de partijen toegezonden. 
-4.  Op verzoek van een der partijen worden de deskundigen in een zitting van het scheidsgerecht gehoord. Indien een partij zulk een verzoek wenst te doen, deelt zij dit ten spoedigste mede aan het scheidsgerecht en aan de wederpartij. 
-5.  Het scheidsgerecht stelt de partijen in de gelegenheid, de deskundigen vragen te stellen en harerzijds deskundigen voor te brengen. 
-6. Artikel 1041, eerste lid, is van overeenkomstige toepassing. 
+1.  Tenzij de partijen anders zijn overeengekomen, kan het scheidsgerecht een of meer deskundigen benoemen tot het uitbrengen van een advies. Het scheidsgerecht kan de partijen raadplegen over de aan de deskundigen te verstrekken opdracht. Het scheidsgerecht zendt ten spoedigste een afschrift van de benoeming en van de aan deskundigen gegeven opdracht aan de partijen.   
+2.  Het scheidsgerecht kan van een partij verlangen, de deskundige de vereiste inlichtingen te verschaffen en de benodigde medewerking te verlenen.   
+3.  Op verzoek van een der partijen worden de deskundigen in een zitting van het scheidsgerecht gehoord. Indien een partij zulk een verzoek wenst te doen, deelt zij dit ten spoedigste mede aan het scheidsgerecht en aan de wederpartij.   
+4.  Onverminderd het in het derde lid bepaalde stelt het scheidsgerecht de partijen in de gelegenheid zich uit te laten over het advies van de door het scheidsgerecht benoemde deskundigen, tenzij de partijen anders zijn overeengekomen.  
 
 ### Artikel  1042a  
-Treedt in werking per 01-01-2015 
 
 Het scheidsgerecht kan, op verzoek van een der partijen of uit eigen beweging, in of buiten Nederland, een plaatselijke gesteldheid opnemen of zaken bezichtigen, tenzij de partijen anders zijn overeengekomen. Het scheidsgerecht stelt de partijen in de gelegenheid bij de plaatsopneming of bezichtiging aanwezig te zijn. 
 
@@ -6180,14 +6196,12 @@ Het scheidsgerecht kan, op verzoek van een der partijen of uit eigen beweging, i
 Het scheidsgerecht kan in elke stand van het geding de persoonlijke verschijning van de partijen bevelen voor het geven van inlichtingen dan wel teneinde een vergelijk te beproeven. 
 
 ### Artikel  1043a  
-Treedt in werking per 01-01-2015 
 
 1.  Blijft de eiser, ofschoon daartoe behoorlijk in de gelegenheid gesteld, in gebreke zijn eisen in te dienen of naar behoren toe te lichten, zonder daartoe gegronde redenen aan te voeren, dan kan het scheidsgerecht bij vonnis, of op een andere wijze die het scheidsgerecht daartoe geschikt acht, een einde maken aan het arbitraal geding.   
 2.  Blijft de verweerder, ofschoon daartoe behoorlijk in de gelegenheid gesteld, in gebreke verweer te voeren, zonder daartoe gegronde redenen aan te voeren, dan kan het scheidsgerecht aanstonds vonnis wijzen.   
 3.  Bij het vonnis, bedoeld in het tweede lid, wordt de eis toegewezen, tenzij deze aan het scheidsgerecht onrechtmatig of ongegrond voorkomt. Het scheidsgerecht kan, alvorens vonnis te wijzen, van de eiser het bewijs van een of meer van zijn stellingen verlangen.  
 
 ### Artikel  1043b  
-Treedt in werking per 01-01-2015 
 
 1.  Tijdens een aanhangig arbitraal geding ten gronde kan het scheidsgerecht, op verzoek van een der partijen, een voorlopige voorziening, met uitzondering van bewarende maatregelen als bedoeld in de vierde titel van het Derde Boek, treffen. De voorlopige voorziening moet samenhangen met de vordering of tegenvordering in het aanhangige arbitraal geding.   
 2.  Bij overeenkomst kunnen de partijen een afzonderlijk daartoe te benoemen scheidsgerecht, binnen de grenzen gesteld bij artikel 254, eerste lid, de bevoegdheid verlenen, ongeacht of het arbitraal geding ten gronde aanhangig is, op verzoek van een der partijen, een voorlopige voorziening te treffen, met uitzondering van bewarende maatregelen als bedoeld in de vierde titel van het Derde Boek.   
@@ -6198,18 +6212,18 @@ Treedt in werking per 01-01-2015
 
 ### Artikel  1044  
 
-1.  Het scheidsgerecht kan door tussenkomst van de voorzieningenrechter van de rechtbank Den Haag een verzoek om inlichtingen doen als bedoeld in artikel 3 van de op 7 juni 1968 te Londen gesloten Europese Overeenkomst nopens het verstrekken van inlichtingen over buitenlands recht (*Trb*. 1968, 142). De voorzieningenrechter zendt het verzoek, tenzij het hem nutteloos voorkomt, ten spoedigste aan het orgaan als bedoeld in artikel 2 van de Overeenkomst en deelt dit aan het scheidsgerecht mede.    
+1.  Tenzij de partijen anders zijn overeengekomen, kan het scheidsgerecht door tussenkomst van de voorzieningenrechter van de rechtbank Den Haag een verzoek om inlichtingen doen als bedoeld in artikel 3 van de op 7 juni 1968 te Londen gesloten Europese Overeenkomst nopens het verstrekken van inlichtingen over buitenlands recht (*Trb*. 1968, 142). De voorzieningenrechter zendt het verzoek, tenzij het hem nutteloos voorkomt, ten spoedigste aan het orgaan als bedoeld in artikel 2 van de Overeenkomst en deelt dit aan het scheidsgerecht mede.    
 2.   Het scheidsgerecht kan het geding schorsen tot de dag dat het scheidsgerecht het antwoord op het verzoek om inlichtingen heeft ontvangen.   
 
-###Artikel 1045 
+### Artikel  1045  
 
-1. Op schriftelijk verzoek van een derde die enig belang heeft bij een arbitraal geding kan het scheidsgerecht hem toestaan om zich daarin te voegen of tussen te komen. Het scheidsgerecht zend ten spoedigste een afschrift van het verzoek aan de partijen. 
-2.  Een partij kan een derde in vrijwaring oproepen. De oproep wordt ten spoedigste in afschrift gezonden aan het scheidsgerecht en aan de wederpartij. 
-3.  De voeging, tussenkomst of vrijwaring kan slechts door het scheidsgerecht, de partijen gehoord, worden toegelaten indien de derde bij schriftelijke overeenkomst met de partijen tot de overeenkomst tot arbitrage is toegetreden. 
-4.  Door de toelating van de voeging, tussenkomst of vrijwaring wordt de derde in het arbitraal geding partij. Het scheidsgerecht regelt de verdere gang van het geding, tenzij de partijen daarin bij overeenkomst hebben voorzien. 
+1.  Tenzij de partijen anders zijn overeengekomen, kan op schriftelijk verzoek van een derde die enig belang heeft bij een arbitraal geding, het scheidsgerecht hem toestaan om zich daarin te voegen of tussen te komen, mits tussen de partijen en de derde dezelfde overeenkomst tot arbitrage geldt of van kracht wordt als tussen de oorspronkelijke partijen.   
+2.  Het scheidsgerecht zendt ten spoedigste een afschrift van het verzoek aan de partijen.   
+3.  Het scheidsgerecht stelt de partijen in de gelegenheid hun mening kenbaar te maken. Het scheidsgerecht kan de derde in de gelegenheid stellen zijn mening kenbaar te maken.   
+4.  Door de toelating van de voeging of tussenkomst wordt de derde in het arbitraal geding partij.   
+5.  Na de toelating van een voeging of tussenkomst regelt het scheidsgerecht de verdere gang van het geding, tenzij de partijen daarin bij overeenkomst hebben voorzien.  
 
 ### Artikel  1045a  
-Treedt in werking per 01-01-2015 
 
 1.  Op schriftelijk verzoek van een partij kan het scheidsgerecht deze toestaan een derde schriftelijk in vrijwaring op te roepen, mits tussen de belanghebbende partij en de derde dezelfde arbitrageovereenkomst geldt of van kracht wordt als tussen de oorspronkelijke partijen.   
 2.  De oproep wordt ten spoedigste in afschrift gezonden aan het scheidsgerecht en aan de wederpartij.   
@@ -6219,23 +6233,20 @@ Treedt in werking per 01-01-2015
 
 ### Artikel  1046  
 
-1.  Indien voor een scheidsgerecht in Nederland een arbitraal geding aanhangig is, waarvan het onderwerp samenhangt met dat van een bij een ander scheidsgerecht in Nederland aanhangig geding, kan de meest gerede partij de voorzieningenrechter van de rechtbank Amsterdam verzoeken, de samenvoeging van de gedingen te gelasten, tenzij de partijen anders zijn overeengekomen.    
-2.   De voorzieningenrechter kan, nadat hij alle partijen en de arbiters in de gelegenheid heeft gesteld, hun mening kenbaar te maken, het verzoek geheel of gedeeltelijk toewijzen dan wel afwijzen. Zijn beslissing wordt aan alle partijen en de betrokken scheidsgerechten schriftelijk medegedeeld.    
-3.   Indien de voorzieningenrechter algehele samenvoeging beveelt, benoemen de partijen in onderling overleg de arbiter of arbiters, in oneven getale, en bepalen zij, welke regelen op het samengevoegde geding van toepassing zullen zijn. Indien de partijen daarover binnen een door de voorzieningenrechter te stellen termijn geen overeenstemming kunnen bereiken, benoemt de voorzieningenrechter, op verzoek van de meest gerede partij, de arbiter of arbiters en bepaalt hij, zonodig, welke regelen op het samengevoegde geding van toepassing zullen zijn. De voorzieningenrechter bepaalt voor de arbiter of arbiters die als gevolg van de algehele samenvoeging van hun opdracht worden ontheven, de beloning voor de reeds door hen verrichte werkzaamheden.    
-4.   Beveelt de voorzieningenrechter gedeeltelijke samenvoeging, dan beslist hij welke geschillen daaronder zijn begrepen. De voorzieningenrechter benoemt, op verzoek van de meest gerede partij, de arbiter of arbiters en bepaalt welke regelen op het samengevoegde geding van toepassing zijn, indien de partijen daaromtrent binnen een door de voorzieningenrechter te bepalen termijn geen overeenstemming bereiken. In dit geval schorsen de scheidsgerechten, waarbij de bij de gedeeltelijke samenvoeging betrokken zaken reeds aanhangig zijn, de behandeling dier zaken. Het vonnis van het voor de samengevoegde zaken benoemde scheidsgerecht wordt door dit gerecht aan de andere betrokken scheidsgerechten toegezonden. Na de ontvangst van dit vonnis zetten deze scheidsgerechten de bij hen aanhangige zaken voort en beslissen zij met inachtneming van het in het samengevoegde geding gewezen vonnis.    
-5.   In de gevallen, bedoeld in het derde of vierde lid, is artikel 1027, vierde lid, van overeenkomstige toepassing.    
-6.   Tegen een op voet van het derde of vierde lid gewezen vonnis staat arbitraal hoger beroep open, indien en voorzover alle bij het samengevoegde geding betrokken partijen bij een overeenkomst in zodanig hoger beroep hebben voorzien.   
+1.  Ten aanzien van een in Nederland aanhangig arbitraal geding kan een partij een door de partijen daartoe aangewezen derde verzoeken de samenvoeging met een ander in of buiten Nederland aanhangig arbitraal geding te gelasten, tenzij de partijen anders zijn overeengekomen. Bij gebreke van een door partijen daartoe aangewezen derde kan de voorzieningenrechter van de rechtbank te Amsterdam worden verzocht de samenvoeging van een in Nederland aanhangig arbitraal geding te gelasten met een ander in Nederland aanhangig arbitraal geding, tenzij de partijen anders zijn overeengekomen.   
+2.  Samenvoeging kan worden gelast voorzover zij geen onredelijke vertraging van de aanhangige gedingen oplevert, mede gezien de stand waarin zij zich bevinden en er tussen de arbitrale gedingen een zo nauwe band bestaat dat een goede rechtsbedeling vraagt om gelijktijdige behandeling en berechting, teneinde te vermijden dat bij afzonderlijke berechting van de zaken onverenigbare beslissingen worden gegeven.   
+3.  De derde of de voorzieningenrechter kan, nadat hij alle partijen en, indien benoemd, de arbiters in de gelegenheid heeft gesteld hun mening kenbaar te maken, het verzoek toewijzen dan wel afwijzen. Zijn beslissing wordt aan alle partijen en de betrokken scheidsgerechten schriftelijk medegedeeld.   
+4.  Indien de derde of de voorzieningenrechter samenvoeging beveelt, benoemen de partijen in onderling overleg de arbiter of arbiters, in oneven getale, en bepalen zij, welke regelen op het samengevoegde geding van toepassing zullen zijn. Indien de partijen daarover binnen een door een derde of de voorzieningenrechter te stellen termijn geen overeenstemming kunnen bereiken, benoemt de derde of de voorzieningenrechter, op verzoek van de meest gerede partij, de arbiter of arbiters en bepaalt hij, zo nodig, welke regelen op het samengevoegde geding van toepassing zullen zijn. De derde of de voorzieningenrechter bepaalt zo nodig voor de arbiter of arbiters die als gevolg van de samenvoeging van hun opdracht worden ontheven, de beloning voor de reeds door hen verrichte werkzaamheden. Artikel 1027, vierde lid, is van overeenkomstige toepassing.  
 
-###Artikel 1047 
+### Artikel  1047  
 
-Ingeval van arbitrage omtrent zaken als bedoeld in artikel 1020, vierde lid, onder a, blijft, behoudens artikel 1037, het in deze afdeling bepaalde buiten toepassing. Het geding wordt alsdan gevoerd op de wijze als door de partijen is overeengekomen of, voor zover de partijen daarin niet hebben voorzien, als door het scheidsgerecht bepaald. 
+Ingeval van arbitrage omtrent zaken als bedoeld in artikel 1020, vierde lid, onder a, blijft, behoudens de artikelen 1037 en 1048, het in deze afdeling bepaalde buiten toepassing. Het geding wordt alsdan gevoerd op de wijze als door de partijen is overeengekomen of, voor zover de partijen daarin niet hebben voorzien, als door het scheidsgerecht bepaald.  
 
-###Artikel 1048 
+### Artikel  1048  
 
-De bepaling van het tijdstip, waarop het vonnis zal worden gewezen, is het scheidsgerecht voorbehouden. 
+De bepaling van het tijdstip waarop het vonnis zal worden gewezen, is het scheidsgerecht voorbehouden.  
 
 ### Artikel  1048a  
-Treedt in werking per 01-01-2015 
 
 Een partij die in het geding is verschenen maakt zonder onredelijke vertraging bezwaar bij het scheidsgerecht met een afschrift aan de wederpartij zodra zij weet of redelijkerwijs behoort te weten dat is gehandeld in strijd met of is nagelaten te handelen overeenkomstig enige bepalingen van de tweede afdeling van deze titel, de overeenkomst tot arbitrage dan wel een opdracht, beslissing of maatregel van het scheidsgerecht. Laat een partij dit na, dan vervalt het recht daarop nadien, in het arbitraal geding of bij de gewone rechter, alsnog een beroep te doen. 
 
@@ -6245,55 +6256,38 @@ Een partij die in het geding is verschenen maakt zonder onredelijke vertraging b
 
 ### Artikel  1049  
 
-Het scheidsgerecht kan een geheel of gedeeltelijk eindvonnis dan wel een tussenvonnis wijzen.  
-
-### Artikel  1050  
-
-1.  Arbitraal hoger beroep van een arbitraal vonnis is slechts mogelijk indien de partijen bij overeenkomst hebben voorzien.    
-2.   Arbitraal hoger beroep van een gedeeltelijk eindvonnis kan slechts tezamen met het hoger beroep van het laatste eindvonnis worden ingesteld, tenzij de partijen anders zijn overeengekomen.    
-3.   Arbitraal hoger beroep van een tussenvonnis kan slechts worden ingesteld tezamen met het hoger beroep van een geheel of gedeeltelijk eindvonnis, tenzij de partijen anders zijn overeengekomen.    
-4.   De termijn voor het instellen van het arbitraal hoger beroep beloopt drie maanden na de dag van nederlegging van het vonnis ter griffie van de rechtbank, tenzij de partijen anders zijn overeengekomen.   
-
-###Artikel 1051 
-
-1. De partijen kunnen bij overeenkomst het scheidsgerecht dan wel de voorzitter daarvan, binnen de grenzen gesteld bij artikel 254, eerste lid, de bevoegdheid verlenen om in kort geding vonnis te wijzen. 
-2.  Indien, niettegenstaande een zodanige overeenkomst, de zaak in kort geding bij de voorzieningenrechter is aangebracht, kan deze, indien een partij zich op het bestaan van deze overeenkomst beroept, alle omstandigheden in aanmerking nemende, zich onbevoegd verklaren door de zaak te verwijzen naar het overeengekomen arbitraal kort geding, tenzij de overeenkomst ongeldig is. 
-3.  Een uitspraak, gedaan in arbitraal kort geding, geldt als een arbitraal vonnis; daarop zijn de bepalingen van de derde tot en met de vijfde afdeling van deze Titel van toepassing. 
-4.  Ingeval van verwijzing naar het arbitraal kort geding, als bedoeld in het tweede lid, staat tegen de beslissing van de voorzieningenrechter van de rechtbank geen voorziening open. 
+1. Het scheidsgerecht kan een geheel of gedeeltelijk eindvonnis dan wel een tussenvonnis wijzen. Van een geheel of gedeeltelijk eindvonnis is sprake wanneer het gevorderde in een vonnis geheel of gedeeltelijk bij dictum wordt afgedaan.  
+2.  Indien een scheidsgerecht een vonnis wijst dat blijkens het dictum deels een tussenvonnis en deels een eindvonnis vormt, is een dergelijk vonnis een gedeeltelijk eindvonnis. 
 
 ### Artikel  1052  
 
 1.  Het scheidsgerecht is gerechtigd, over zijn bevoegdheid te oordelen.    
 2.   Een partij die in het arbitraal geding is verschenen, dient een beroep op de onbevoegdheid van het scheidsgerecht op de grond dat een geldige overeenkomst tot arbitrage ontbreekt, voor alle weren te doen, op straffe van verval van haar recht op dat ontbreken later, in het arbitraal geding of bij de gewone rechter, alsnog een beroep te doen, tenzij dit beroep wordt gedaan op de grond dat het geschil volgens artikel 1020, derde lid, niet vatbaar is voor arbitrage.    
 3.   Een partij die aan de samenstelling van het scheidsgerecht heeft medegewerkt, kan in het arbitraal geding of bij de gewone rechter geen beroep doen op de onbevoegdheid van het scheidsgerecht op de grond dat het scheidsgerecht in strijd met de daarvoor geldende regelen is samengesteld. Een partij die in het arbitraal geding is verschenen en die niet aan de samenstelling van het scheidsgerecht heeft medegewerkt, dient het beroep op de onbevoegdheid van het scheidsgerecht op de grond dat het scheidsgerecht in strijd met de daarvoor geldende regelen is samengesteld, voor alle weren te doen, op straffe van verval van haar recht daarop later, in het arbitraal geding of bij de gewone rechter, alsnog een beroep te doen.    
-4.   De beslissing, waarbij het scheidsgerecht zich bevoegd verklaart, kan slechts tegelijk met een daaropvolgend geheel of gedeeltelijk eindvonnis met de rechtsmiddelen, genoemd in artikel 1064, eerste lid, worden bestreden.    
-5.   Indien het scheidsgerecht zich onbevoegd verklaart, is de gewone rechter bevoegd van de zaak kennis te nemen, tenzij de partijen anders zijn overeengekomen.    
-6.   Zowel ingeval van bevoegdverklaring als van onbevoegdverklaring door het scheidsgerecht, is arbitraal hoger beroep, indien overeengekomen, toegelaten. De gewone rechter is alsdan niet eerder bevoegd ingevolge het vierde of vijfde lid van dit artikel dan nadat in hoger beroep uitspraak is gedaan, of de voor dit beroep geldende termijn ongebruikt is verstreken dan wel eerder, indien schriftelijk van hoger beroep afstand is gedaan.   
+4.   De beslissing, waarbij het scheidsgerecht zich bevoegd verklaart, kan slechts tegelijk met een daaropvolgend geheel of gedeeltelijk eindvonnis met de rechtsmiddelen, genoemd in artikel 1064, worden bestreden.    
+5.  Indien en voorzover het scheidsgerecht zich onbevoegd heeft verklaard op grond van het ontbreken van een geldige overeenkomst tot arbitrage als bedoeld in het tweede lid, is de gewone rechter bevoegd van de zaak kennis te nemen. Indien en voorzover het scheidsgerecht zich onbevoegd heeft verklaard op een andere grond, blijft de overeenkomst tot arbitrage van kracht, tenzij de partijen anders zijn overeengekomen.   
+6.  De onbevoegdverklaring als bedoeld in het vorige lid, geldt als een arbitraal vonnis waarop de eerste afdeling B tot en met de vijfde afdeling van deze titel van toepassing is.  
 
 ### Artikel  1053  
 
-De overeenkomst tot arbitrage dient als een afzonderlijke overeenkomst te worden beschouwd en beoordeeld. Het scheidsgerecht is bevoegd, te oordelen over de rechtsgeldigheid van de hoofdovereenkomst waarvan de overeenkomst tot arbitrage deel uitmaakt of waarop zij betrekking heeft.  
+De overeenkomst tot arbitrage dient als een afzonderlijke overeenkomst te worden beschouwd en beoordeeld. Het scheidsgerecht is bevoegd te oordelen over het bestaan en de rechtsgeldigheid van de hoofdovereenkomst waarvan de overeenkomst tot arbitrage deel uitmaakt of waarop zij betrekking heeft. 
 
-###Artikel 1054 
+### Artikel  1054  
 
-1. Het scheidsgerecht beslist naar de regelen des rechts. 
-2.  Ingeval de partijen een rechtskeuze hebben gedaan, beslist het scheidsgerecht naar de door de partijen aangewezen regelen des rechts. Indien een dergelijke rechtskeuze niet heeft plaatsgevonden, beslist het scheidsgerecht volgens de regelen des rechts die het in aanmerking acht te komen. 
-3.  Het scheidsgerecht beslist als goede mannen naar billijkheid, indien de partijen het daartoe bij overeenkomst opdracht hebben gegeven. 
-4.  In alle gevallen houdt het scheidsgerecht rekening met de toepasselijke handelsgebruiken. 
-
-###Artikel 1055 
-
-Staat van het vonnis arbitraal hoger beroep open, dan kan het scheidsgerecht zijn vonnis uitvoerbaar bij voorraad verklaren in de gevallen waarin de gewone rechter daartoe bevoegd is. Het scheidsgerecht kan bepalen dat zekerheid wordt gesteld alvorens het vonnis bij voorraad ten uitvoer kan worden gelegd. 
+1.  Het scheidsgerecht beslist naar de regelen des rechts.    
+2.   Ingeval de partijen een rechtskeuze hebben gedaan, beslist het scheidsgerecht naar de door de partijen aangewezen regelen des rechts. Indien een dergelijke rechtskeuze niet heeft plaatsgevonden, beslist het scheidsgerecht volgens de regelen des rechts die het in aanmerking acht te komen.    
+3.   Het scheidsgerecht beslist als goede personen naar billijkheid, indien de partijen het daartoe bij overeenkomst opdracht hebben gegeven.    
+4.   In alle gevallen houdt het scheidsgerecht rekening met de toepasselijke handelsgebruiken.   
 
 ### Artikel  1056  
 
-In de gevallen waarin de gewone rechter een dwangsom kan opleggen, is een scheidsgerecht daartoe eveneens bevoegd. De artikelen 611a tot en met 611i zijn van overeenkomstige toepassing, met dien verstande dat in de gevallen bedoeld in artikel 611d, de opheffing, de opschorting of de vermindering van de dwangsom bij verzoekschrift moet worden verzocht aan de voorzieningenrechter van de rechtbank, ter griffie waarvan het origineel van het vonnis ingevolge artikel 1058, eerste lid, moet worden nedergelegd.  
+In de gevallen waarin de gewone rechter een dwangsom kan opleggen, is een scheidsgerecht daartoe eveneens bevoegd. Onverminderd de toepasselijkheid van de artikelen 611a tot en met 611h dient in de gevallen, bedoeld in artikel 611d, om de opheffing, de opschorting of de vermindering van de dwangsom bij het scheidsgerecht te worden verzocht, en indien de opdracht van het scheidsgerecht niet voorduurt, bij verzoekschrift te worden verzocht aan de voorzieningenrechter van de rechtbank van het arrondissement waarin de plaats van de arbitrage is gelegen. 
 
 ### Artikel  1057  
 
-1.  Het scheidsgerecht beslist, indien het uit meer arbiters bestaat, bij meerderheid van stemmen, tenzij de partijen anders zijn overeengekomen.    
+1.  Het scheidsgerecht beslist, indien het uit meer arbiters bestaat, bij meerderheid van stemmen, tenzij de partijen anders zijn overeengekomen. Indien het scheidsgerecht uit meer arbiters bestaat, kunnen procedurele zaken van ondergeschikt belang door de voorzitter worden beslist indien daartoe door de mede-arbiters bevoegdheid is verleend, tenzij de partijen anders zijn overeengekomen.   
 2.   Het vonnis wordt op schrift gesteld en door de arbiter of arbiters ondertekend.    
-3.   Weigert een minderheid van de arbiters te ondertekenen, dan wordt daarvan door de andere arbiters onder het door hen ondertekende vonnis melding gemaakt. Deze melding wordt door hen ondertekend. Een overeenkomstige melding vindt plaats, indien een minderheid niet in staat is te ondertekenen en niet verwacht kan worden dat het beletsel daartoe binnen korte tijd zal zijn opgeheven.    
+3.   Weigert een minderheid van de arbiters te ondertekenen, dan wordt daarvan door de andere arbiters in het door hen ondertekende vonnis melding gemaakt. Een overeenkomstige melding vindt plaats, indien een minderheid niet in staat is te ondertekenen en niet verwacht kan worden dat het beletsel daartoe binnen korte tijd zal zijn opgeheven.    
 4.   Het vonnis bevat, naast de beslissing, in elk geval:  
 
 a. de namen en woonplaatsen van de arbiter of arbiters;   
@@ -6304,59 +6298,133 @@ c. de dagtekening van de uitspraak;
 
 d. de plaats van de uitspraak;   
 
-e. de gronden voor de in het vonnis gegeven beslissing, tenzij het vonnis uitsluitend betreft de enkele vaststelling van de hoedanigheid of van de toestand van zaken, als bedoeld in artikel 1020, vierde lid, onder a, dan wel de vastlegging van een vergelijk, als bedoeld in artikel 1069.      
+e. de gronden voor de in het vonnis gegeven beslissing.      
+5.  In afwijking van het vierde lid, onder e, bevat het vonnis geen gronden voor de gegeven beslissing indien: 
 
-###Artikel 1058 
+a. het vonnis uitsluitend betreft de enkele vaststelling van de hoedanigheid of van de toestand van zaken als bedoeld in artikel 1020, vierde lid, onder a;  
 
-1. Het scheidsgerecht draagt er zorg voor dat ten spoedigste: 
+b. de vastlegging van een vergelijk als bedoeld in artikel 1069; of  
 
-a.elk vonnis in afschrift, getekend door een arbiter of de secretaris van het scheidsgerecht, aan de partijen wordt gezonden; 
+c. in alle andere gevallen, nadat de arbitrage aanhangig is gemaakt, de partijen schriftelijk overeenkomen dat geen gronden voor de beslissing worden gegeven.   
 
-b.het origineel van een geheel of gedeeltelijk eindvonnis wordt nedergelegd ter griffie van de rechtbank binnen welker arrondissement de plaats van de arbitrage is gelegen. 
-2.  De opdracht van het scheidsgerecht eindigt door de nederlegging ter griffie van het laatste eindvonnis, onverminderd het bepaalde in de artikelen 1060 en 1061. 
+### Artikel  1058  
 
-###Artikel 1059 
+1.  Het scheidsgerecht draagt er zorg voor dat ten spoedigste:  
 
-1. Slechts een geheel of gedeeltelijk arbitraal eindvonnis kan gezag van gewijsde verkrijgen. Het heeft dit met ingang van de dag waarop het is gewezen. 
-2.  Indien echter arbitraal hoger beroep is overeengekomen, verkrijgt een in eerste aanleg gewezen geheel of gedeeltelijk eindvonnis gezag van gewijsde met ingang van de dag waarop de voor dit beroep geldende termijn ongebruikt is verstreken dan wel met ingang van de dag waarop in hoger beroep uitspraak is gedaan, indien en voorzover het vonnis in eerste aanleg in dat hoger beroep is bevestigd. 
+a. het origineel van het vonnis, of een afschrift hiervan gewaarmerkt door een arbiter of de door partijen aangewezen derde, aan de partijen wordt verzonden;  
+
+b. het origineel van een geheel of gedeeltelijk eindvonnis wordt nedergelegd ter griffie van de rechtbank binnen welker arrondissement de plaats van de arbitrage is gelegen, voor zover de partijen dit zijn overeengekomen.      
+2.  Het vonnis wordt geacht te zijn verzonden indien vier weken na de dagtekening van het vonnis zijn verstreken.   
+3.  Onverminderd het bepaalde in de artikelen 1060, 1061 en 1065a eindigt de opdracht van het scheidsgerecht door verzending van het laatste eindvonnis aan partijen of in het geval bedoeld in het eerste lid onder b, door nederlegging ter griffie van de rechtbank van het laatste eindvonnis.   
+4.  Van een nedergelegd vonnis wordt geen afschrift of uittreksel aan derden verstrekt.   
+5.  Tenzij de partijen andere termijnen als bedoeld in de artikelen 1060, 1061, 1061c zijn overeengekomen, geldt een termijn van drie maanden na de dag van nederlegging van het vonnis ter griffie van de rechtbank, indien partijen nederlegging zijn overeengekomen. 
+
+### Artikel  1059  
+
+1.  Beslissingen die de rechtsbetrekking in geschil betreffen en zijn vervat in een in kracht van gewijsde gegaan arbitraal vonnis hebben in een ander geding tussen dezelfde partijen gezag van gewijsde met ingang van de dag waarop zij zijn gegeven. Artikel 236, tweede en derde lid, is van overeenkomstige toepassing.   
+2.  Het eerste lid geldt niet voor beslissingen als bedoeld in artikel 1043b betreffende een voorlopige voorziening.   
+3.  Een in kracht van gewijsde gegaan arbitraal vonnis als bedoeld in het eerste lid heeft bindende kracht tussen dezelfde partijen in een ander geding met ingang van de dag waarop het is gewezen. 
 
 ### Artikel  1060  
 
-1.  Een partij kan tot dertig dagen na de dag van de nederlegging van het vonnis ter griffie van de rechtbank, het scheidsgerecht schriftelijk verzoeken, een kennelijke rekenfout of schrijffout in het vonnis te herstellen.    
-2.   Indien de gegevens, genoemd in artikel 1057, vierde lid, onder a tot en met d, onjuist zijn vermeld of geheel of gedeeltelijk in het vonnis ontbreken, kan een partij, tot dertig dagen na de dag van de nederlegging van het vonnis ter griffie van de rechtbank, het scheidsgerecht schriftelijk de verbetering van die gegevens verzoeken.    
-3.   Een verzoek, bedoeld in het eerste of tweede lid, wordt door het scheidsgerecht in afschrift aan de wederpartij gezonden.    
-4.   Het scheidsgerecht kan, tot dertig dagen na de dag van nederlegging van het vonnis ter griffie van de rechtbank, ook uit eigen beweging tot het herstel, als bedoeld in het eerste lid, of de verbetering, als bedoeld in het tweede lid, overgaan.    
-5.   Gaat het scheidsgerecht tot het herstel of de verbetering over, dan wordt deze door het scheidsgerecht op het origineel en op de afschriften van het vonnis aangebracht en ondertekend, dan wel in een apart door het scheidsgerecht ondertekend stuk vermeld, welk stuk geacht wordt deel uit te maken van het vonnis. De artikelen 1057, eerste tot en met derde lid, en 1058, eerste lid, zijn van overeenkomstige toepassing.    
-6.   Wijst het scheidsgerecht het verzoek tot het herstel of de verbetering af, dan deelt het zulks schriftelijk aan de partijen mede.    
-7.   Het verzoek als bedoeld in dit artikel schort de mogelijkheid tot tenuitvoerlegging of vernietiging niet op, tenzij de voorzieningenrechter of de rechtbank gewichtige redenen aanwezig acht om die mogelijkheid wel op te schorten totdat over het verzoek is beslist.   
+1.  Een partij kan binnen een termijn als overeengekomen tussen de partijen of tot drie maanden na de dag van verzending van het vonnis, het scheidsgerecht schriftelijk verzoeken een kennelijke rekenfout, schrijffout of andere kennelijke fout die zich voor eenvoudig herstel leent in het vonnis te verbeteren.   
+2.  Indien de gegevens, genoemd in artikel 1057, vierde lid, onder a tot en met d, onjuist zijn vermeld of geheel of gedeeltelijk in het vonnis ontbreken, kan een partij binnen een termijn als overeengekomen tussen de partijen of tot drie maanden na de dag van verzending van het vonnis, het scheidsgerecht schriftelijk de verbetering van die gegevens verzoeken.   
+3.  Een verzoek als bedoeld in het eerste of tweede lid, wordt door het scheidsgerecht in afschrift aan de wederpartij gezonden.   
+4.  Het scheidsgerecht kan, binnen een termijn als overeengekomen tussen de partijen of tot drie maanden na de dag van verzending van het vonnis, ook uit eigen beweging tot de verbetering, bedoeld in het eerste of het tweede lid, overgaan.   
+5.  Voordat het scheidsgerecht op het verzoek, bedoeld in het eerste of tweede lid, beslist, of uit eigen beweging tot de verbetering als bedoeld in het vierde lid beslist, over te gaan, stelt het de partijen in de gelegenheid zich daarover uit te laten.   
+6.  Gaat het scheidsgerecht tot de verbetering over, dan wordt deze door het scheidsgerecht op het origineel en op de afschriften van het vonnis aangebracht en ondertekend, dan wel in een apart door het scheidsgerecht ondertekend stuk vermeld, welk stuk geacht wordt deel uit te maken van het vonnis. De artikelen 1057, eerste tot en met het derde lid, en artikel 1058, eerste lid, zijn van overeenkomstige toepassing.   
+7.  Wijst het scheidsgerecht het verzoek tot de verbetering af, dan deelt het dit schriftelijk aan de partijen mede.   
+8.  Het verzoek, bedoeld in het eerste en tweede lid, schort de mogelijkheid tot tenuitvoerlegging niet op, tenzij de voorzieningenrechter gewichtige redenen aanwezig acht om die mogelijkheid wel op te schorten totdat over het verzoek is beslist. Het bepaalde in artikel 1070 is op de beschikking van de voorzieningenrechter van toepassing. Hetzelfde geldt als het scheidsgerecht overeenkomstig het vierde lid uit eigen beweging tot verbetering overgaat.  
 
-###Artikel 1061 
+### Artikel  1061  
 
-1. Heeft het scheidsgerecht nagelaten, te beslissen omtrent een of meer zaken welke aan zijn oordeel waren onderworpen, dan kan de meest gerede partij, tot dertig dagen na de dag van nederlegging van het vonnis ter griffie van de rechtbank, het scheidsgerecht verzoeken, een aanvullend vonnis te wijzen. 
-2.  Het verzoek wordt door het scheidsgerecht in afschrift aan de wederpartij toegezonden. 
-3.  Voordat het scheidsgerecht op het verzoek beslist, stelt het de partijen in de gelegenheid, te worden gehoord. 
-4.  Een aanvullend vonnis geldt als een arbitraal vonnis; daarop zijn de bepalingen van de derde tot en met de vijfde afdeling van deze Titel van toepassing. 
-5.  Wijst het scheidsgrecht het verzoek tot een aanvullend vonnis af, dan deelt het zulks schriftelijk aan de partijen mede. Een afschrift van deze mededeling, getekend door een arbiter of de secretaris van het scheidsgerecht, wordt, overeenkomstig het bepaalde in artikel 1058, eerste lid, ter griffie van de rechtbank nedergelegd. 
-6.  Indien arbitraal hoger beroep is overeengekomen, kan het in eerste aanleg gewezen arbitraal vonnis slechts in hoger beroep worden aangevuld. Het verzoek daartoe moet binnen de voor het hoger beroep geldende termijn worden gedaan. 
+1.  Heeft het scheidsgerecht nagelaten, te beslissen omtrent een of meer vorderingen of tegenvorderingen welke aan zijn oordeel waren onderworpen, dan kan de meest gerede partij, binnen een tussen partijen overeengekomen termijn of tot drie maanden na de dag van verzending van het vonnis, het scheidsgerecht verzoeken, een aanvullend vonnis te wijzen.    
+2.   Het verzoek wordt door het scheidsgerecht in afschrift aan de wederpartij gezonden.    
+3.   Voordat het scheidsgerecht op het verzoek beslist, stelt het de partijen in de gelegenheid zich daarover uit te laten.    
+4.   Een aanvullend vonnis geldt als een arbitraal vonnis; daarop zijn de bepalingen van de derde tot en met de vijfde afdeling van deze Titel van toepassing.    
+5.   Wijst het scheidsgerecht het verzoek tot een aanvullend vonnis af, dan deelt het zulks schriftelijk aan de partijen mede. Een afschrift van deze mededeling, getekend door een arbiter of de secretaris van het scheidsgerecht, kan, overeenkomstig het bepaalde in artikel 1058, eerste lid, onderdeel b ter griffie van de rechtbank nedergelegd.   
+
+###Derde A afdeling 
+
+####Arbitraal hoger beroep
+
+### Artikel  1061a  
+
+Indien de partijen arbitraal hoger beroep zijn overeengekomen, is het bepaalde in deze titel van toepassing voorzover in deze afdeling niet anders is bepaald of de aard van het arbitraal hoger beroep zich daartegen verzet. 
+
+### Artikel  1061b  
+
+Arbitraal hoger beroep tegen een arbitraal vonnis is slechts mogelijk indien de partijen daarin bij overeenkomst hebben voorzien. Deze overeenkomst dient te voldoen aan de vereisten van de artikelen 1020 en 1021 alsmede aan de vereisten van de artikelen 166 en 167 van Boek 10 van het Burgerlijk Wetboek. 
+
+### Artikel  1061c  
+
+Binnen een termijn als overeengekomen tussen de partijen of tot drie maanden na de dag van verzending van het vonnis, kunnen partijen arbitraal hoger beroep instellen. 
+
+### Artikel  1061d  
+
+1.  Arbitraal hoger beroep kan worden ingesteld tegen een geheel eindvonnis en een laatste gedeeltelijk eindvonnis.   
+2.  Tenzij de partijen anders zijn overeengekomen, kan eveneens arbitraal hoger beroep worden ingesteld tegen andere gedeeltelijke eindvonnissen.   
+3.  Tegen een tussenvonnis, met uitzondering van een vonnis op grond van artikel 1043b, eerste lid, kan arbitraal hoger beroep slechts tegelijk met dat van het geheel of gedeeltelijk eindvonnis worden ingesteld, tenzij de partijen anders zijn overeengekomen.  
+
+### Artikel  1061e  
+
+Tegen een op de voet van artikel 1046, vierde lid, gewezen arbitraal vonnis staat arbitraal hoger beroep open, indien en voorzover alle bij het samengevoegde geding betrokken partijen bij overeenkomst in zodanig hoger beroep hebben voorzien. Deze overeenkomst dient te voldoen aan de vereisten van de artikelen 1020 en 1021 alsmede aan de vereisten van de artikelen 166 en 167 van Boek 10 van het Burgerlijk Wetboek. 
+
+### Artikel  1061f  
+
+1.  Ingeval van onbevoegdverklaring door het scheidsgerecht als bedoeld in artikel 1052, vijfde lid, tweede zin, is arbitraal hoger beroep toegelaten.   
+2.  Ingeval van bevoegdverklaring en onbevoegdverklaring door het scheidsgerecht zijn de bepalingen van artikel 1052, vierde en vijfde lid, van toepassing nadat in hoger beroep uitspraak is gedaan, of de voor dit beroep geldende termijn ongebruikt is verstreken dan wel eerder, indien door ieder der partijen schriftelijk van hoger beroep afstand is gedaan, of later, op het moment van voortijdige beëindiging van het hoger beroep.  
+
+### Artikel  1061g  
+
+1.  De dwangsom als bedoeld in artikel 1056 kan ook voor het eerst in arbitraal hoger beroep worden gevorderd.   
+2.  In afwijking van het bepaalde in artikel 1056, dient in de gevallen bedoeld in artikel 611d de opheffing, de opschorting of de vermindering van de dwangsom te worden verzocht aan het scheidsgerecht in hoger beroep, indien en voor zolang de opdracht van dat scheidsgerecht voortduurt.  
+
+### Artikel  1061h  
+
+Het in eerste aanleg gewezen arbitraal vonnis kan slechts in arbitraal hoger beroep worden aangevuld overeenkomstig artikel 1061. Het verzoek daartoe moet binnen de voor het hoger beroep geldende termijn worden gedaan. De partijen kunnen bij overeenkomst van het in dit artikel bepaalde afwijken. 
+
+### Artikel  1061i  
+
+1.  Tenzij uit de wet of uit de aard van de zaak anders voortvloeit, kan het scheidsgerecht in eerste aanleg, indien dit wordt gevorderd, verklaren dat zijn vonnis uitvoerbaar bij voorraad zal zijn niettegenstaande arbitraal hoger beroep. De uitvoerbaarverklaring bij voorraad kan het gehele vonnis betreffen of een gedeelte daarvan. Het scheidsgerecht kan aan de uitvoerbaarverklaring bij voorraad de voorwaarde verbinden dat tot een door het scheidsgerecht te bepalen bedrag zekerheid wordt gesteld.   
+2.  Indien het vonnis niet uitvoerbaar bij voorraad is verklaard door het scheidsgerecht in eerste aanleg en tegen dat vonnis arbitraal hoger beroep is ingesteld, kan een vordering tot uitvoerbaarverklaring bij voorraad worden ingesteld bij het scheidsgerecht in arbitraal hoger beroep. Op deze vordering zal, de wederpartij gehoord, dadelijk worden beslist. De tweede en derde zin van het eerste lid zijn van overeenkomstige toepassing.   
+3.  Indien het vonnis uitvoerbaar bij voorraad is verklaard door het scheidsgerecht in eerste aanleg, evenwel zonder dat daaraan de voorwaarde is verbonden dat zekerheid wordt gesteld, en indien tegen dat vonnis arbitraal hoger beroep is ingesteld, kan een daartoe strekkende vordering worden ingesteld bij het scheidsgerecht in arbitraal hoger beroep. Op deze vordering zal, de wederpartij gehoord, dadelijk worden beslist.  
+
+### Artikel  1061j  
+
+In afwijking van het bepaalde in artikel 1059, derde lid, heeft een in eerste aanleg gewezen arbitraal vonnis bindende kracht tussen dezelfde partijen in een ander geding met ingang van de dag waarop de voor het arbitraal hoger beroep geldende termijn ongebruikt is verstreken, of eerder, met ingang van de dag waarop schriftelijk van hoger beroep afstand is gedaan, of later, op het moment van voortijdige beëindiging van het hoger beroep, dan wel met ingang van de dag waarop in hoger beroep uitspraak is gedaan, indien en voorzover het vonnis in eerste aanleg in dat hoger beroep is bevestigd. 
+
+### Artikel  1061k  
+
+1.  Een in eerste aanleg gewezen arbitraal vonnis dat uitvoerbaar bij voorraad is verklaard, en een arbitraal vonnis dat is gewezen in arbitraal hoger beroep, kan worden tenuitvoergelegd overeenkomstig de bepalingen van de vierde afdeling van deze titel. In aanvulling op artikel 1063, eerste lid, kan de voorzieningenrechter van de rechtbank tenuitvoerlegging van het arbitraal vonnis ook weigeren, indien in strijd met artikel 1061i tenuitvoerlegging bij voorraad is bevolen.   
+2.  Een in eerste aanleg gewezen arbitraal vonnis dat niet uitvoerbaar bij voorraad is verklaard kan slechts worden tenuitvoergelegd overeenkomstig de bepalingen van de vierde afdeling van deze titel nadat de voor het arbitraal hoger beroep geldende termijn ongebruikt is verstreken, of indien en voorzover het in hoger beroep is bevestigd, dan wel eerder, indien schriftelijk van hoger beroep afstand is gedaan, dan wel later, op het moment van voortijdige beëindiging van het hoger beroep.  
+
+### Artikel  1061l  
+
+1.  Tegen een geheel of gedeeltelijk eindvonnis gewezen in arbitraal hoger beroep staan slechts de rechtsmiddelen van vernietiging en van herroeping op de voet van de vijfde afdeling van deze titel open.   
+2.  Vernietiging of herroeping van een arbitraal vonnis gewezen in arbitraal hoger beroep brengt van rechtswege de vernietiging of herroeping van het in eerste aanleg gewezen arbitraal vonnis met zich mede, tenzij de rechter bepaalt dat het in eerste aanleg gewezen arbitraal vonnis in stand blijft.   
+3.  Tegen een in eerste aanleg gewezen geheel of gedeeltelijk arbitraal eindvonnis staan slechts de rechtsmiddelen van vernietiging en van herroeping op de voet van de vijfde afdeling van deze titel open indien de voor het arbitraal hoger beroep geldende termijn ongebruikt is verstreken dan wel eerder indien door ieder der partijen schriftelijk van hoger beroep afstand is gedaan. In afwijking van artikel 1064a, tweede lid, vervalt de bevoegdheid tot het instellen van een vordering tot vernietiging van een zodanig vonnis drie maanden na de dag waarop de voor het arbitraal hoger beroep geldende termijn is verstreken.   
+4.  Ten aanzien van een arbitraal tussenvonnis gewezen in eerste aanleg of in hoger beroep is, met inachtneming van het in dit artikel bepaalde, artikel 1064a, derde lid, van overeenkomstige toepassing.  
 
 ### Vierde  afdeling  
 
 ####De tenuitvoerlegging van het arbitraal vonnis 
 
-###Artikel 1062 
+### Artikel  1062  
 
-1. De tenuitvoerlegging in Nederland van een geheel of gedeeltelijk arbitraal eindvonnis dat niet vatbaar is voor arbitraal hoger beroep dan wel uitvoerbaar bij voorraad is verklaard, of van een geheel of gedeeltelijk eindvonnis, gewezen in arbitraal hoger beroep, kan eerst plaatsvinden nadat de voorzieningenrechter van de rechtbank, ter griffie waarvan het origineel van het vonnis volgens artikel 1058, eerste lid, moet worden nedergelegd, daartoe op verzoek van een der partijen verlof heeft verleend. 
-2.  Het verlof wordt aangetekend op het origineel van het vonnis of, zo geen nederlegging heeft plaatsgevonden, opgenomen in een beschikking. De griffier zendt ten spoedigste aan de partijen een gewaarmerkt afschrift van het vonnis, met het daarop aangetekend verlof tot tenuitvoerlegging of een gewaarmerkt afschrift van de beschikking waarbij het verlof tot tenuitvoerlegging is verleend. 
-3.  Staat arbitraal hoger beroep open, dan kan het verlof tot tenuitvoerlegging van een in eerste aanleg gewezen arbitraal vonnis dat niet uitvoerbaar bij voorraad is verklaard, eerst worden gegeven nadat de voor dat arbitraal hoger beroep geldende termijn ongebruikt is verstreken, dan wel eerder, indien schriftelijk van hoger beroep afstand is gedaan. 
-4.  Verleent de voorzieningenrechter van de rechtbank het verlof tot tenuitvoerlegging, dan staan de wederpartij van de verzoeker slechts de rechtsmiddelen genoemd in artikel 1064, eerste lid, open. Vernietiging of herroeping van het arbitraal vonnis brengt van rechtswege die van het verlof tot tenuitvoerlegging met zich mede. 
+1.  De tenuitvoerlegging in Nederland van een arbitraal vonnis kan eerst plaatsvinden nadat de voorzieningenrechter van de rechtbank van het arrondissement waarin de plaats van arbitrage is gelegen daartoe op verzoek van een der partijen verlof heeft verleend.   
+2.  Het verlof wordt aangetekend op het origineel van het vonnis of, zo geen nederlegging heeft plaatsgevonden, opgenomen in een beschikking. De griffier zendt ten spoedigste aan de partijen een gewaarmerkt afschrift van het vonnis, met het daarop aangetekend verlof tot tenuitvoerlegging of een gewaarmerkt afschrift van de beschikking waarbij het verlof tot tenuitvoerlegging is verleend.   
+3.  Verleent de voorzieningenrechter van de rechtbank het verlof tot tenuitvoerlegging, dan staan de wederpartij van de verzoeker slechts de rechtsmiddelen genoemd in artikel 1064, open.   
+4.  Vernietiging of herroeping van het arbitraal vonnis brengt van rechtswege die van het verlof tot tenuitvoerlegging met zich mede.  
 
-###Artikel 1063 
+### Artikel  1063  
 
-1. De voorzieningenrechter van de rechtbank kan de tenuitvoerlegging van het arbitraal vonnis slechts weigeren, indien het vonnis, of de wijze waarop dit tot stand kwam, kennelijk in strijd is met de openbare orde of de goede zeden, dan wel indien in strijd met artikel 1055 tenuitvoerlegging bij voorraad is bevolen of in strijd met artikel 1056 een dwangsom is opgelegd. In dit laatste geval betreft de weigering alleen de tenuitvoerlegging van de dwangsom. 
-2.  De griffier zendt ten spoedigste een gewaarmerkt afschrift van de beschikking van de voorzieningenrechter waarbij deze het verlof weigert, aan de partijen. 
-3.  Van de weigering van het verlof tot tenuitvoerlegging kan de verzoeker hoger beroep bij het gerechtshof instellen binnen twee maanden na de dagtekening van de beschikking. 
-4.  Indien het verlof tot tenuitvoerlegging ook in hoger beroep niet verleend wordt, is de termijn voor beroep in cassatie twee maanden na de dagtekening van de beschikking in hoger beroep. 
-5.  Indien in hoger beroep of na beroep in cassatie, het verlof tot tenuitvoerlegging alsnog wordt verleend, is het bepaalde in artikel 1062, vierde lid, eerste zin, van overeenkomstige toepassing. 
+1.  De voorzieningenrechter van de rechtbank kan de tenuitvoerlegging van het arbitraal vonnis slechts weigeren, indien hem na een summierlijk onderzoek is gebleken dat het aannemelijk is dat het vonnis zal worden vernietigd op een van de gronden genoemd in artikel 1065, eerste lid, of herroepen op een van de gronden genoemd in artikel 1068, eerste lid, dan wel indien in strijd met artikel 1056 een dwangsom is opgelegd. In dit laatste geval betreft de weigering alleen de tenuitvoerlegging van de dwangsom.   
+2.  Als de termijn voor het instellen van een vordering tot vernietiging als bedoeld in artikel 1064a ongebruikt is verstreken, dan kan de voorzieningenrechter van de rechtbank het verlof tot tenuitvoerlegging van het arbitraal vonnis slechts weigeren, indien hem na een summierlijk onderzoek is gebleken dat het aannemelijk is dat het vonnis in strijd is met artikel 1065, eerste lid, onder e.   
+3.  De griffier zendt ten spoedigste aan de partijen een gewaarmerkt afschrift van de beschikking van de voorzieningenrechter van de rechtbank waarbij het verlof tot tenuitvoerlegging wordt geweigerd.   
+4.  Tegen de beschikking waarbij het verlof tot tenuitvoerlegging wordt geweigerd, kan hoger beroep bij het gerechtshof worden ingesteld.   
+5.  Indien het verlof tot tenuitvoerlegging ook in hoger beroep niet wordt verleend, kan beroep in cassatie worden ingesteld.   
+6.  Indien in hoger beroep of na beroep in cassatie het verlof tot tenuitvoerlegging alsnog wordt verleend, is het bepaalde in artikel 1062, derde lid, van overeenkomstige toepassing.  
 
 ### Vijfde  afdeling  
 
@@ -6364,14 +6432,9 @@ b.het origineel van een geheel of gedeeltelijk eindvonnis wordt nedergelegd ter 
 
 ### Artikel  1064  
 
-1.  Tegen een geheel of gedeeltelijk arbitraal eindvonnis dat niet vatbaar is voor arbitraal hoger beroep, of tegen een geheel of gedeeltelijk eindvonnis, gewezen in arbitraal hoger beroep, staan slechts de rechtsmiddelen van vernietiging en van herroeping op de voet van deze afdeling open.    
-2.   De vordering tot vernietiging wordt ingesteld bij de rechtbank ter griffie waarvan het origineel van het vonnis volgens artikel 1058, eerste lid, moet worden nedergelegd.    
-3.   Een partij kan de vordering tot vernietiging instellen zodra het vonnis gezag van gewijsde heeft verkregen. De bevoegdheid daartoe vervalt drie maanden na de dag van nederlegging van het vonnis ter griffie van de rechtbank. Wordt echter het vonnis, voorzien van een verlof tot tenuitvoerlegging, aan de wederpartij betekend, dan kan die partij, ongeacht het verstreken zijn van de termijn van drie maanden, genoemd in de vorige zin, alsnog binnen drie maanden na deze betekening de vordering tot vernietiging instellen.    
-4.   Tegen een arbitraal tussenvonnis kan de vordering tot vernietiging slechts worden ingesteld te zamen met de vordering tot vernietiging van het geheel of gedeeltelijk arbitraal eindvonnis.    
-5.   Alle gronden tot vernietiging moeten, op straffe van verval van het recht daartoe in de dagvaarding worden voorgedragen.   
+Tegen een geheel of gedeeltelijk arbitraal eindvonnis staan slechts de rechtsmiddelen van vernietiging en van herroeping op de voet van het bepaalde in deze afdeling open. 
 
 ### Artikel  1064a  
-Treedt in werking per 01-01-2015 
 
 1.  De vordering tot vernietiging wordt ingesteld bij het gerechtshof van het ressort waarin de plaats van arbitrage is gelegen.   
 2.  De bevoegdheid tot het instellen van de vordering tot vernietiging vervalt drie maanden na de dag van verzending van het vonnis. Indien de partijen zijn overeengekomen gebruik te maken van het in artikel 1058, eerste lid, onderdeel b, bepaalde, vervalt deze bevoegdheid drie maanden na de dag van nederlegging van het vonnis. Wordt echter het vonnis, voorzien van een verlof tot tenuitvoerlegging, aan de wederpartij betekend, dan kan die partij, ongeacht het verstreken zijn van de termijn van drie maanden genoemd in de vorige zin, alsnog binnen drie maanden na deze betekening de vordering tot vernietiging instellen.   
@@ -6379,28 +6442,27 @@ Treedt in werking per 01-01-2015
 4.  Alle gronden tot vernietiging moeten, op straffe van verval van het recht daartoe, in de dagvaarding worden voorgedragen.   
 5.  Tegen een uitspraak op grond van het eerste lid kan beroep in cassatie worden ingesteld. Partijen kunnen overeenkomen dat geen beroep in cassatie kan worden ingesteld tegen een uitspraak op grond van het eerste lid, tenzij een van hen een natuurlijk persoon is niet handelend in de uitoefening van een beroep of bedrijf.  
 
-###Artikel 1065 
+### Artikel  1065  
 
-1. Vernietiging kan slechts plaatsvinden op een of meer van de navolgende gronden: 
+1.  Vernietiging kan slechts plaatsvinden op een of meer van de navolgende gronden:  
 
-a.een geldige overeenkomst tot arbitrage ontbreekt; 
+a. een geldige overeenkomst tot arbitrage ontbreekt;   
 
-b.het scheidsgerecht is in strijd met de daarvoor geldende regelen samengesteld; 
+b. het scheidsgerecht is in strijd met de daarvoor geldende regelen samengesteld;   
 
-c.het scheidsgerecht heeft zich niet aan zijn opdracht gehouden; 
+c. het scheidsgerecht heeft zich niet aan zijn opdracht gehouden;   
 
-d.het vonnis is niet overeenkomstig het in artikel 1057 bepaalde ondertekend of niet met redenen omkleed; 
+d. het vonnis is niet overeenkomstig het in artikel 1057 bepaalde ondertekend of niet met redenen omkleed;   
 
-e.het vonnis, of de wijze waarop dit tot stand kwam, strijdt met de openbare orde of de goede zeden. 
-2.  De grond, bedoeld onder *a* van het eerste lid, kan niet tot vernietiging leiden in het geval genoemd in artikel 1052, tweede lid. 
-3.  De grond, bedoeld onder *b* van het eerste lid, kan niet tot vernietiging leiden in de gevallen genoemd in artikel 1052, derde lid. 
-4.  De grond, bedoeld onder *c* van het eerste lid, kan niet tot vernietiging leiden indien de partij die deze aanvoert aan het geding heeft deelgenomen zonder daarop een beroep te doen, hoewel haar bekend was dat het scheidsgerecht zich niet aan zijn opdracht hield. 
-5.  Indien het scheidsgerecht meer of anders heeft toegewezen dan werd gevorderd, wordt het arbitraal vonnis gedeeltelijk vernietigd, voorzover het meer of anders toegewezene kan worden gescheiden van het overige gedeelte van het vonnis. 
-6.  Indien en voorzover het scheidsgerecht heeft nagelaten, uitspraak te doen omtrent een of meer zaken welke aan zijn oordeel waren onderworpen, kan de vordering tot vernietiging op de grond, bedoeld in het eerste lid, onder *c*, slechts worden ingesteld indien een aanvullend vonnis, bedoeld in artikel 1061, eerste lid, is gewezen dan wel een verzoek tot aanvulling, bedoeld in artikel 1061, eerste lid, geheel of ten dele is afgewezen. 
-7.  In afwijking van het bepaalde in artikel 1064, derde lid, tweede zin, vervalt de termijn voor het instellen van de in het vorige lid bedoelde vordering tot vernietiging drie maanden na de dag van nederlegging ter griffie van de rechtbank van het aanvullend vonnis dan wel van het afschrift van de mededeling der afwijzing, als bedoeld in artikel 1061, vijfde lid. 
+e. het vonnis, of de wijze waarop dit tot stand kwam, is in strijd met de openbare orde.       
+2.   De grond, bedoeld onder *a* van het eerste lid, kan niet tot vernietiging leiden in het geval genoemd in artikel 1052, tweede lid.    
+3.   De grond, bedoeld onder *b* van het eerste lid, kan niet tot vernietiging leiden in de gevallen genoemd in de artikelen 1028, tweede lid, en 1052, derde lid.    
+4.  De grond, bedoeld onder c van het eerste lid, kan niet tot vernietiging leiden indien het niet houden aan de opdracht niet van ernstige aard is. Evenmin kan de grond, bedoeld onder c van het eerste lid, tot vernietiging leiden indien de partij die deze aanvoert heeft nagelaten ter zake bezwaar te maken overeenkomstig artikel 1048a.   
+5.  Betreft een grond voor vernietiging slechts een deel van het arbitraal vonnis, dan wordt het niet vernietigd voor het resterende deel, voorzover dit, gelet op de inhoud en strekking van het vonnis, niet in onverbrekelijk verband met het te vernietigen deel staat.   
+6.   Indien en voorzover het scheidsgerecht heeft nagelaten, uitspraak te doen omtrent een of meer van de vorderingen of tegenvorderingen welke aan zijn oordeel waren onderworpen, kan de vordering tot vernietiging op de grond, bedoeld in het eerste lid, onder *c*, slechts worden ingesteld indien een aanvullend vonnis, bedoeld in artikel 1061, eerste lid, is gewezen dan wel een verzoek tot aanvulling, bedoeld in artikel 1061, eerste lid, geheel of ten dele is afgewezen.    
+7.  In afwijking van het bepaalde in artikel 1064a, tweede lid, vervalt de termijn voor het instellen van de in het vorige lid bedoelde vordering tot vernietiging drie maanden na de dag van verzending van het aanvullend vonnis dan wel van de mededeling der afwijzing, bedoeld in artikel 1061, vijfde lid. Indien de partijen zijn overeengekomen gebruik te maken van het in artikel 1058, eerste lid, onderdeel b, bepaalde, vervalt de termijn voor het instellen van de in het vorige lid bedoelde vordering tot vernietiging drie maanden na de dag van nederlegging van het aanvullend vonnis dan wel van de mededeling der afwijzing, bedoeld in artikel 1061, vijfde lid. Het in de eerste en tweede zin bepaalde is van overeenkomstige toepassing op de verbetering van het vonnis, bedoeld in artikel 1060.  
 
 ### Artikel  1065a  
-Treedt in werking per 01-01-2015 
 
 1.  Het gerechtshof kan, op verzoek van een partij of uit eigen beweging, de vernietigingsprocedure schorsen voor een door het gerechtshof te bepalen termijn om het scheidsgerecht in staat te stellen de grond tot vernietiging ongedaan te maken door het heropenen van het arbitraal geding dan wel door het nemen van een andere maatregel als het scheidsgerecht geraden acht. Tegen een beslissing van het gerechtshof staat geen hogere voorziening open.   
 2.  Voordat het scheidsgerecht beslist, stelt het de partijen in de gelegenheid te worden gehoord.   
@@ -6411,41 +6473,39 @@ Treedt in werking per 01-01-2015
 
 1.  De vordering tot vernietiging schorst de tenuitvoerlegging van het vonnis niet.    
 2.   De rechter die omtrent de vernietiging oordeelt, kan echter, indien daartoe gronden zijn, op verzoek van de meest gerede partij, de tenuitvoerlegging schorsen totdat over de vordering tot vernietiging onherroepelijk is beslist.    
-3.   Het verzoek tot schorsing wordt door de griffier van de rechtbank ten spoedigste aan de wederpartij in afschrift toegezonden.    
+3.   Het verzoek tot schorsing wordt door de griffier van het gerechtshof ten spoedigste aan de wederpartij in afschrift toegezonden.    
 4.   De rechter beslist niet op het verzoek dan nadat de wederpartij in de gelegenheid is gesteld, zich daarover uit te laten.    
 5.   Bij toewijzing van het verzoek kan de rechter bepalen dat door de verzoeker zekerheid wordt gesteld. Bij afwijzing van het verzoek kan de rechter bepalen dat de wederpartij zekerheid stelt.    
-6.   In geval van schorsing van de tenuitvoerlegging kan de meest gerede partij de rechter verzoeken, de schorsing op te heffen. Het derde tot en met vijfde lid zijn van overeenkomstige toepassing.   
+6.   Ingeval van schorsing van de tenuitvoerlegging kan de meest gerede partij de rechter verzoeken, de schorsing op te heffen. Het derde tot en met vijfde lid zijn van overeenkomstige toepassing.   
 
 ### Artikel  1067  
 
-Zodra het vonnis waarbij een arbitraal vonnis is vernietigd onherroepelijk is geworden, herleeft de bevoegdheid van de gewone rechter, tenzij de partijen anders zijn overeengekomen.  
+Zodra het arrest waarbij een arbitraal vonnis is vernietigd onherroepelijk is geworden, herleeft de bevoegdheid van de gewone rechter, indien en voorzover het arbitraal vonnis is vernietigd op grond van het ontbreken van een geldige overeenkomst tot arbitrage. Indien en voorzover het arbitraal vonnis wordt vernietigd op een andere grond, blijft de overeenkomst tot arbitrage van kracht, tenzij de partijen anders zijn overeengekomen. 
 
-###Artikel 1068 
+### Artikel  1068  
 
-1. Herroeping kan slechts plaats vinden op een of meer van de navolgende gronden: 
+1.  Herroeping kan slechts plaats vinden op een of meer van de navolgende gronden:  
 
-a.het vonnis berust geheel of ten dele op na de uitspraak ontdekt bedrog, door of met medeweten van de wederpartij in de arbitrale procedure gepleegd; 
+a. het vonnis berust geheel of ten dele op na de uitspraak ontdekt bedrog, door of met medeweten van de wederpartij in de arbitrale procedure gepleegd;   
 
-b.het vonnis berust geheel of ten dele op stukken die na de uitspraak blijken vals te zijn; 
+b. het vonnis berust geheel of ten dele op bescheiden die na de uitspraak blijken vals te zijn;   
 
-c.een partij heeft na de uitspraak stukken die op de beslissing van het scheidsgerecht van invloed zouden zijn geweest en door toedoen van de wederpartij zijn achtergehouden, in handen gekregen. 
-2. De vordering tot herroeping wordt met overeenkomstige toepassing van artikel 1064, derde lid, of, indien dit een later tijdstip zal opleveren, binnen drie maanden nadat het bedrog of de valsheid bekend is geworden of een partij de nieuwe stukken in handen heeft gekregen, aangebracht voor het gerechtshof dat bevoegd zou zijn in hoger beroep te oordelen over de vordering tot vernietiging, bedoeld in artikel 1064. Indien de partij die gronden heeft de herroeping te vorderen binnen de in de eerste volzin bedoelde termijn is overleden, is artikel 341 van overeenkomstige toepassing. De procedure wordt ingeleid met een dagvaarding die voldoet aan de eisen van artikel 111 en wordt verder gevoerd op de wijze als in de tweede titel van het Eerste Boek is bepaald. Artikel 1066 is van overeenkomstige toepassing.
-3. Indien de rechter de voor herroeping aangevoerde grond of gronden juist bevindt, vernietigt hij het vonnis geheel of gedeeltelijk. Artikel 1067 is van overeenkomstige toepassing.
+c. een partij heeft na de uitspraak bescheiden die op de beslissing van het scheidsgerecht van invloed zouden zijn geweest en door toedoen van de wederpartij zijn achtergehouden, in handen gekregen.       
+2.  De vordering tot herroeping wordt binnen drie maanden nadat het bedrog of de valsheid in geschrifte bekend is geworden of een partij de nieuwe bescheiden in handen heeft gekregen, aangebracht voor het gerechtshof van het ressort waarin de plaats van arbitrage is gelegen. Artikel 1066 is van overeenkomstige toepassing.   
+3.  Indien de rechter de voor herroeping aangevoerde grond of gronden juist bevindt, vernietigt hij het vonnis geheel of gedeeltelijk. De artikelen 1065a en 1067 zijn van overeenkomstige toepassing.  
 
 ### Zesde  afdeling  
 
 ####Het arbitraal vonnis, houdende een vergelijk tussen de partijen 
 
-###Artikel 1069 
+### Artikel  1069  
 
-1. Indien de partijen gedurende een arbitraal geding tot een vergelijk komen, kan op gezamenlijk verzoek het scheidsgerecht de inhoud daarvan in een arbitraal vonnis vastleggen. Het scheidsgerecht kan het verzoek zonder opgave van redenen weigeren. 
-2.  Het arbitraal vonnis, houdende een vergelijk tussen de partijen, geldt als een arbitraal vonnis waarop de bepalingen van de derde tot en met de vijfde afdeling van deze Titel van toepassing zijn, met dien verstande dat: 
+1.  Indien de partijen gedurende een arbitraal geding tot een vergelijk komen, kan op gezamenlijk verzoek het scheidsgerecht de inhoud daarvan in een arbitraal vonnis vastleggen. Het scheidsgerecht kan het verzoek zonder opgave van redenen weigeren.    
+2.   Het arbitraal vonnis, houdende een vergelijk tussen de partijen, geldt als een arbitraal vonnis waarop de bepalingen van de derde tot en met de vijfde afdeling van deze Titel van toepassing zijn, met dien verstande dat:  
 
-a.het vonnis slechts kan worden vernietigd op de grond dat het in strijd is met de openbare orde of de goede zeden; 
+a. het vonnis slechts kan worden vernietigd op de grond dat het in strijd is met de openbare orde; en   
 
-b.het vonnis, in afwijking van het bepaalde in artikel 1057, niet de gronden waarop het berust, behoeft te bevatten; en 
-
-c.het vonnis door de partijen wordt mede-ondertekend. 
+b. het vonnis, in afwijking van het bepaalde in artikel 1057, niet de gronden waarop het berust, behoeft te bevatten.     
 
 ### Zevende  afdeling  
 
@@ -6457,19 +6517,17 @@ Tegen beschikkingen van de voorzieningenrechter van de rechtbank, als bedoeld in
 
 ### Artikel  1071  
 
-In de gevallen bedoeld in de  artikelen 1026, tweede en vierde lid, 1027, derde lid, 1028, 1044, eerste lid, en 1062, eerste lid, behoeven het verzoekschrift en, voorzover van toepassing, het verweerschrift niet door een advocaat te worden ingediend.  
+In de gevallen bedoeld in de artikelen 1026, tweede en vierde lid, 1027, derde lid, 1028, eerste lid, 1029, tweede, vierde en vijfde lid, 1041a, eerste lid, 1044, eerste lid en 1062, eerste lid, behoeven het verzoekschrift en, voorzover van toepassing, het verweerschrift niet door een advocaat te worden ingediend.  
 
 ### Artikel  1072  
 
-De partijen kunnen bij overeenkomst de voorzieningenrechter van een bepaalde rechtbank als bevoegde voorzieningenrechter aanwijzen voor zaken als bedoeld in de  artikelen 1026, tweede en vierde lid, 1027, derde lid, 1028, 1029, tweede en vierde lid, 1031, tweede lid, 1035, tweede lid, en 1041, tweede lid.  
+De partijen kunnen bij overeenkomst de voorzieningenrechter van een bepaalde rechtbank als bevoegde voorzieningenrechter aanwijzen voor zaken als bedoeld in de artikelen 1026, tweede en vierde lid, 1027, derde lid, 1028, eerste lid, 1029, tweede, vierde en vijfde lid, 1035, tweede lid, en 1041a, eerste lid.  
 
 ### Artikel  1072a  
-Treedt in werking per 01-01-2015 
 
 Voorzover in deze titel niet anders is bepaald, zijn de artikelen 261 tot en met 291 van toepassing op zaken welke ingevolge het bij deze titel bepaalde met een verzoekschrift worden ingeleid. 
 
 ### Artikel  1072b  
-Treedt in werking per 01-01-2015 
 
 1.  Indien de geadresseerde kenbaar heeft gemaakt dat hij daarvoor langs deze weg bereikbaar is en het scheidsgerecht daarmee instemt, kan, voorzover in enige bepaling van deze titel voor een overeenkomst, processtuk, mededeling, verzoek of handeling de schriftelijke vorm wordt vereist, dit ook op elektronische wijze geschieden, behalve voorzover het een handeling betreft die geschiedt in een gerechtelijke procedure, tenzij dit wordt toegestaan in laatstgenoemde procedure. De bereikbaarheid langs deze weg geldt voor de duur van het arbitraal geding, tenzij de geadresseerde meedeelt dat hij haar wijzigt of, voor zover partijen deze mogelijkheid zijn overeengekomen, intrekt.   
 2.  Onder bescheiden als bedoeld in deze titel worden mede verstaan op een gegevensdrager aangebrachte gegevens, alsmede langs elektronische weg ingediende gegevens.   
@@ -6478,74 +6536,71 @@ Treedt in werking per 01-01-2015
 5.  Een mededeling of handeling die langs elektronische weg geschiedt of een processtuk dat langs elektronische weg wordt ingediend, wordt geacht te zijn verzonden op het tijdstip waarop het bericht een systeem voor gegevensverwerking heeft bereikt waarvoor de verzender geen verantwoordelijkheid draagt.  
 
 ### Artikel  1072c  
-Treedt in werking per 01-01-2015 
 
 1.  Het overlijden van een partij doet de overeenkomst tot arbitrage noch de opdracht van het scheidsgerecht eindigen, tenzij de partijen anders zijn overeengekomen.   
 2.  Het scheidsgerecht schorst het geding voor een door hem te bepalen termijn. Het scheidsgerecht kan, op verzoek van de rechtsopvolgers van een overleden partij, deze termijn verlengen. Het scheidsgerecht stelt de wederpartij in de gelegenheid, op het verzoek te worden gehoord.   
 3.  Na de schorsing wordt het geding voortgezet in de stand waarin het zich bevindt, tenzij de partijen anders zijn overeengekomen.   
 4.  Indien de partij die gronden heeft de vernietiging of herroeping van een arbitraal vonnis te vorderen binnen de termijnen genoemd in artikel 1064a, tweede lid, en artikel 1065, zevende lid, respectievelijk artikel 1068, tweede lid, overlijdt, is artikel 341 van overeenkomstige toepassing.  
 
-###Artikel 1073 
+### Artikel  1073  
 
-1. Het in deze Titel bepaalde is van toepassing indien de plaats van arbitrage in Nederland is gelegen. 
-2.  Ingeval de partijen de plaats van arbitrage niet hebben bepaald, kan de benoeming of de wraking van de arbiter of arbiters of de aan het scheidsgerecht toegevoegde secretaris met toepassing van de voorzieningen in de eerste afdeling van deze Titel reeds plaatsvinden, indien ten minste een der partijen in Nederland woont dan wel feitelijk verblijf houdt. 
+1.  Het in deze Titel bepaalde is van toepassing indien de plaats van arbitrage in Nederland is gelegen.    
+2.   Ingeval de partijen de plaats van arbitrage niet hebben bepaald, kan de benoeming of de wraking van de arbiter of arbiters of de aan het scheidsgerecht toegevoegde secretaris met toepassing van de voorzieningen in de eerste afdeling B van deze Titel reeds plaatsvinden, indien ten minste een der partijen in Nederland woont dan wel feitelijk verblijf houdt.   
 
 ### Tweede  titel  
 
 ####Arbitrage buiten Nederland 
 
-###Artikel 1074 
+### Artikel  1074  
 
-1. De rechter in Nederland bij wie een geschil aanhangig is gemaakt waarover een overeenkomst tot arbitrage is gesloten waaruit voortvloeit dat arbitrage buiten Nederland moet plaatsvinden, verklaart zich onbevoegd, indien een partij zich voor alle weren op het bestaan van deze overeenkomst beroept, tenzij de overeenkomst ongeldig is onder het op die overeenkomst toepasselijke recht. 
-2.  De overeenkomst, bedoeld in het eerste lid, belet niet dat een partij de Nederlandse rechter verzoekt om een maatregel tot bewaring van recht dan wel zich wendt tot de voorzieningenrechter van de rechtbank in kort geding overeenkomstig artikel 254. 
+De rechter in Nederland bij wie een geschil aanhangig is gemaakt waarover een overeenkomst tot arbitrage is gesloten en waaruit voortvloeit dat arbitrage buiten Nederland moet plaatsvinden, verklaart zich onbevoegd, indien een partij zich voor alle weren op het bestaan van deze overeenkomst beroept, tenzij de overeenkomst ongeldig is onder het op die overeenkomst toepasselijke recht.  
 
 ### Artikel  1074a  
-Treedt in werking per 01-01-2015 
 
 De overeenkomst waaruit voortvloeit dat arbitrage buiten Nederland moet plaatsvinden, belet niet dat een partij de Nederlandse rechter verzoekt om een maatregel tot bewaring van recht of zich wendt tot de voorzieningenrechter van de rechtbank of de kantonrechter in kort geding overeenkomstig artikel 254. 
 
 ### Artikel  1074b  
-Treedt in werking per 01-01-2015 
 
 Een overeenkomst tot arbitrage waaruit voortvloeit dat arbitrage buiten Nederland moet plaatsvinden, belet niet dat een partij de Nederlandse rechter verzoekt een voorlopig getuigenverhoor, een voorlopig deskundigenbericht of een voorlopige plaatsopneming en bezichtiging in Nederland te bevelen. 
 
 ### Artikel  1074c  
-Treedt in werking per 01-01-2015 
 
 Een overeenkomst tot arbitrage waaruit voortvloeit dat arbitrage buiten Nederland moet plaatsvinden, belet niet dat een partij de gewone rechter verzoekt een rechter-commissaris te benoemen indien een getuige die in Nederland woont of feitelijk verblijf houdt, niet vrijwillig verschijnt. In dat geval zijn de bepalingen van artikel 1041a, eerste tot en met derde lid, van overeenkomstige toepassing. 
 
 ### Artikel  1074d  
-Treedt in werking per 01-01-2015 
 
 Indien in de gevallen, genoemd in de artikelen 1074a tot en met 1074c, een partij zich voor alle weren beroept op het bestaan van een overeenkomst tot arbitrage, verklaart de rechter zich uitsluitend bevoegd, indien de gevraagde beslissing niet of niet tijdig in arbitrage kan worden gekregen. 
 
-###Artikel 1075 
+### Artikel  1075  
 
-Een in een vreemde Staat gewezen arbitraal vonnis waarop een erkennings- en tenuitvoerleggingsverdrag van toepassing is, kan in Nederland worden erkend en ten uitvoer gelegd. De artikelen 985 tot en met 991 zijn van overeenkomstige toepassing voorzover het verdrag geen afwijkende voorzieningen inhoudt en met dien verstande dat de voorzieningenrechter van de rechtbank in de plaats treedt van de rechtbank en de termijn voor hoger beroep en beroep in cassatie twee maanden bedraagt. 
+1.  Een in een vreemde Staat gewezen arbitraal vonnis waarop een erkennings- en tenuitvoerleggingsverdrag van toepassing is, kan, op verzoek van een der partijen, in Nederland worden erkend en ten uitvoer gelegd.   
+2.  De artikelen 985 tot en met 991 zijn van overeenkomstige toepassing voor zover het verdrag geen afwijkende voorzieningen inhoudt en met dien verstande dat het gerechtshof in de plaats treedt van de rechtbank en de termijn voor beroep in cassatie drie maanden bedraagt.   
+3.  De artikelen 261 tot en met 291 zijn van toepassing op het verzoek voorzover niet anders is bepaald in het tweede lid van dit artikel. 
 
-###Artikel 1076 
+### Artikel  1076  
 
-1. Is geen erkennings- en tenuitvoerleggingsverdrag van toepassing of laat een toepasselijk verdrag toe, zich te beroepen op de wet van het land waar de erkenning of tenuitvoerlegging wordt verzocht, dan kan een in een vreemde Staat gewezen arbitraal vonnis in Nederland worden erkend en kan daarvan in Nederland de tenuitvoerlegging worden verzocht, tegen overlegging van het origineel of een gewaarmerkt afschrift, van de overeenkomst tot arbitrage en van het arbitraal vonnis, tenzij: 
+1.  Is geen erkennings- en tenuitvoerleggingsverdrag van toepassing of laat een toepasselijk verdrag toe, zich te beroepen op de wet van het land waar de erkenning of tenuitvoerlegging wordt verzocht, dan kan een in een vreemde Staat gewezen arbitraal vonnis in Nederland worden erkend en kan daarvan in Nederland de tenuitvoerlegging door een van de partijen worden verzocht, tegen overlegging van het origineel of een gewaarmerkt afschrift, van de overeenkomst tot arbitrage en van het arbitraal vonnis, tenzij:  
 
-A.de partij tegen wie de erkenning of tenuitvoerlegging wordt verzocht, stelt en bewijst dat: 
+A. de partij tegen wie de erkenning of tenuitvoerlegging wordt verzocht, stelt en bewijst dat:  
 
-a.een geldige overeenkomst tot arbitrage ontbreekt onder het op die overeenkomst toepasselijke recht; 
+a. een geldige overeenkomst tot arbitrage ontbreekt onder het op die overeenkomst toepasselijke recht;   
 
-b.het scheidsgerecht in strijd met de daarvoor geldende regelen is samengesteld; 
+b. het scheidsgerecht in strijd met de daarvoor geldende regelen is samengesteld;   
 
-c.het scheidsgerecht zich niet aan zijn opdracht heeft gehouden; 
+c. het scheidsgerecht zich niet aan zijn opdracht heeft gehouden;   
 
-d.tegen het arbitraal vonnis hoger beroep bij arbiters of de rechter openstaat in het land waar het arbitraal vonnis is gewezen; 
+d. tegen het arbitraal vonnis hoger beroep bij arbiters of de rechter openstaat in het land waar het arbitraal vonnis is gewezen;   
 
-e.het arbitraal vonnis is vernietigd door een bevoegde autoriteit van het land waar dat vonnis is gewezen; 
+e. het arbitraal vonnis is vernietigd door een bevoegde autoriteit van het land waar dat vonnis is gewezen;      
 
-B.de rechter oordeelt dat de erkenning of tenuitvoerlegging strijdig is met de openbare orde. 
-2.  De grond onder A*a* van het eerste lid leidt niet tot weigering van erkenning of tenuitvoerlegging, indien de partij die zich daarop beroept, in het arbitraal geding is verschenen en heeft nagelaten voor alle weren een beroep te doen op de onbevoegdheid van het scheidsgerecht op grond dat een geldige overeenkomst tot arbitrage ontbreekt. 
-3.  De grond onder A*b* van het eerste lid leidt niet tot weigering van erkenning of tenuitvoerlegging, indien de partij die zich daarop beroept, aan de samenstelling van het scheidsgerecht heeft medegewerkt of indien de partij die niet aan de samenstelling van het scheidsgerecht heeft medegewerkt, in het arbitraal geding is verschenen en heeft nagelaten voor alle weren een beroep te doen op de onbevoegdheid van het scheidsgerecht op de grond dat het scheidsgerecht in strijd met de daarvoor geldende regelen is samengesteld. 
-4.  De grond onder A*c* leidt niet tot weigering van de erkenning of tenuitvoerlegging, indien de partij die deze aanvoert aan het geding heeft deelgenomen zonder daarop een beroep te doen, hoewel haar bekend was dat het scheidsgerecht zich niet aan zijn opdracht hield. 
-5.  Is meer of anders toegewezen dan gevorderd, dan is het arbitraal vonnis voor gedeeltelijke erkenning of tenuitvoerlegging vatbaar voorzover het anders of meer toegewezene kan worden gescheiden van het overige gedeelte van het vonnis. 
-6.  De artikelen 985 tot en met 991 zijn van overeenkomstige toepassing, met dien verstande dat de voorzieningenrechter van de rechtbank in de plaats treedt van de rechtbank, de termijn voor hoger beroep en beroep in cassatie twee maanden bedraagt en geen stukken behoeven te worden overlegd waaruit blijkt dat het arbitraal vonnis uitvoerbaar is in het land waar het is gewezen. 
-7.  Indien de vernietiging van een in een vreemde Staat gewezen arbitraal vonnis is verzocht aan de bevoegde autoriteit van het land waar dat vonnis is gewezen, is, indien in Nederland de erkenning of tenuitvoerlegging wordt verzocht, artikel 1066, tweede tot en met het zesde lid, van overeenkomstige toepassing. 
+B. de rechter oordeelt dat de erkenning of tenuitvoerlegging strijdig is met de openbare orde.       
+2.   De grond onder A*a* van het eerste lid leidt niet tot weigering van erkenning of tenuitvoerlegging, indien de partij die zich daarop beroept, in het arbitraal geding is verschenen en heeft nagelaten voor alle weren een beroep te doen op de onbevoegdheid van het scheidsgerecht op grond dat een geldige overeenkomst tot arbitrage ontbreekt.    
+3.   De grond onder A*b* van het eerste lid leidt niet tot weigering van erkenning of tenuitvoerlegging, indien de partij die zich daarop beroept, aan de samenstelling van het scheidsgerecht heeft medegewerkt of indien de partij die niet aan de samenstelling van het scheidsgerecht heeft medegewerkt, in het arbitraal geding is verschenen en heeft nagelaten voor alle weren een beroep te doen op de onbevoegdheid van het scheidsgerecht op de grond dat het scheidsgerecht in strijd met de daarvoor geldende regelen is samengesteld.    
+4.  De grond onder A sub c van het eerste lid leidt niet tot weigering van de erkenning of tenuitvoerlegging, indien het niet houden aan de opdracht niet van ernstige aard is. Evenmin kan de grond onder A sub c van het eerste lid leiden tot weigering van de erkenning of tenuitvoerlegging, indien de partij die deze aanvoert aan het geding heeft deelgenomen zonder daarop tijdig een beroep te doen, hoewel haar bekend was dat het scheidsgerecht zich niet aan zijn opdracht hield.   
+5.   Is meer of anders toegewezen dan gevorderd, dan is het arbitraal vonnis voor gedeeltelijke erkenning of tenuitvoerlegging vatbaar voorzover het anders of meer toegewezene kan worden gescheiden van het overige gedeelte van het vonnis.    
+6.   De artikelen 985 tot en met 991 zijn van overeenkomstige toepassing, met dien verstande dat het gerechtshof in de plaats treedt van de rechtbank, de termijn voor beroep in cassatie drie maanden bedraagt en geen bescheiden behoeven te worden overgelegd waaruit blijkt dat het arbitraal vonnis uitvoerbaar is in het land waar het is gewezen.    
+7.  De artikelen 261 tot en met 291 zijn van toepassing op het verzoek voorzover niet anders is bepaald in het zesde lid van dit artikel.  
+8.   Indien de vernietiging van een in een vreemde Staat gewezen arbitraal vonnis is verzocht aan de bevoegde autoriteit van het land waar dat vonnis is gewezen, is, indien in Nederland de erkenning of tenuitvoerlegging wordt verzocht, artikel 1066, tweede tot en met het zesde lid, van overeenkomstige toepassing.   
 
 ### Artikel  1077  
 

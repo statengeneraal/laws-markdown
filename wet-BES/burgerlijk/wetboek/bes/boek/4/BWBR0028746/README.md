@@ -130,7 +130,7 @@ Deze eerste verdeling tussen de vaderlijke en de moederlijke liniën daargesteld
 
 ### Artikel  879a  
 
-Voor zoveel betreft de nalatenschap van de vooroverleden echtgenoot wordt de langstlevende echtgenoot voor de toepassing der bepalingen van deze titel met een wettig kind van de overledene gelijkgesteld. 
+Voor zoveel betreft de nalatenschap van de vooroverleden echtgenoot wordt de langstlevende echtgenoot voor de toepassing der bepalingen van deze titel met een kind van de overledene gelijkgesteld. 
 
 ### Artikel  879b  
 
@@ -184,58 +184,6 @@ Onder de benaming van broeders en zusters, in deze afdeling voorkomende, worden 
 ### Derde  Afdeling   
 
 ####Van erfopvolging, wanneer er natuurlijke kinderen aanwezig zijn
-
-### Artikel  889  
-
-Indien de overledene natuurlijke kinderen heeft achtergelaten, wordt de nalatenschap gebeurd op de wijze, als bij de volgende artikelen is bepaald. 
-
-### Artikel  890  
-
-1.  Indien de overledene wettige afstammelingen of een echtgenoot achterlaat, erven de natuurlijke kinderen een derde van het aandeel, hetwelk zij zouden gehad hebben, indien zij wettig waren geweest; zij erven de helft der nalatenschap, indien de overledene geen afstammelingen, noch een echtgenoot, maar wel bloedverwanten in de opgaande linie, of broeders en zusters of derzelver afstammelingen heeft achtergelaten; en drie vierden, indien er slechts nabestaanden in een verdere graad zijn overgebleven.   
-2.  Indien de wettige erfgenamen de overledene in ongelijke graden bestaan, bepaalt de naast in de ene linie, zelfs ten aanzien dergenen welke zich in de andere linie bevinden, de hoegrootheid van het aandeel, hetwelk aan het natuurlijke kind verschuldigd is.  
-
-### Artikel  891  
-
-In al de gevallen, bij het vorige artikel voorzien, wordt het overschot der nalatenschap, op de wijze als bij de tweede afdeling van deze titel bepaald is, onder de wettige erfgenamen verdeeld. 
-
-### Artikel  892  
-
-Indien de overledene geen wettige erfgenamen achtergelaten heeft, bekomen de natuurlijke kinderen de gehele nalatenschap. 
-
-### Artikel  893  
-
-Ingeval een natuurlijk kind vooroverleden is, zijn deszelfs wettige kinderen en afstammelingen bevoegd de bij de artikelen 890 en 892 aan hen toegekende voordelen te vorderen. 
-
-### Artikel  894  
-
-De erfgenamen van de vader van een onwettig kind kunnen ter zake van het onderhoud van het kind na het overlijden van de erflater, tot niets anders verplicht worden dan tot betaling van een som ineens, welke het wettelijk erfdeel, waartoe het kind als natuurlijk kind gerechtigd was geweest, niet overtreft. De rechter in eerste aanleg bepaalt deze som op verzoek van het kind of van de voogdijraad. Op straffe van verval der aanspraken moet het verzoek worden ingediend binnen een jaar na het overlijden van de vader. Overigens zijn de artikelen 479, lid 2 en 480, lid 4 van overeenkomstige toepassing. 
-
-### Artikel  895  
-
-1.  De erkenning – staande huwelijk door de man gedaan – van een kind, dat hij vóór zijn huwelijk bij een andere vrouw heeft verwekt, strekt niet ten nadele van zijn echtgenote en van de uit hun huwelijk geboren kinderen.   
-2.  Niettemin zal de erkenning haar gevolgen hebben na de ontbinding van het huwelijk, wanneer hieruit geen nakomelingen overblijven.  
-
-### Artikel  896  
-
-[vervallen] 
-
-### Artikel  897  
-
-De nalatenschap van een natuurlijk kind, overleden zonder nakomenlingschap en zonder echtgenoot na te laten, vervalt aan deszelfs moeder, of aan de vader, die hetzelve erkend heeft, of, indien beiden in leven zijn, aan ieder voor de helft. 
-
-### Artikel  898  
-
-1.   In geval van vooroverlijden der ouders van een natuurlijk kind, hetwelk noch nakomelingen, noch een echtgenoot heeft nagelaten, keren de goederen, welke hetzelve uit de nalatenschap der ouders verkregen heeft, indien die goederen nog in natura in de boedel aanwezig zijn, tot de wettige afstammelingen van zijn vader of zijn moeder terug; hetzelfde geldt ten aanzien van actiën tot terugvordering, indien er zodanige bestaan, en van de koopprijs der goederen, zo dezelve vervreemd zijn, en die koopprijs nog verschuldigd is.  
-
-### Artikel  899  
-
-De wet kent aan een natuurlijk kind geen recht hoegenaamd toe op de goederen der bloedverwanten van zijn ouders, behalve in het geval bij het volgende artikel vermeld. 
-
-### Artikel  900  
-
-1.  Indien een bloedverwant zijner moeder overlijdt zonder nabestaanden in erfelijke graad of langstlevend echtgenoot achter te laten, is het natuurlijk kind gerechtigd de nalatenschap te vorderen met uitsluiting van den lande; gelijk recht op de nalatenschap van een bloedverwant zijns vaders heeft diens natuurlijk kind.   
-2.  Indien het natuurlijk kind sterft, zonder afstammelingen, noch langstlevende echtgenoot, noch ouders, noch broeders of zusters of nakomelingen van dezen achter te laten, behoort deszelfs nalatenschap insgelijks, en met uitsluiting van den lande, aan de naaste bloedverwanten zijner moeder, of – indien het door hem erkend is – aan die zijns vaders; met dien verstande, dat – indien zowel bloedverwanten zijner moeder, als bloedverwanten zijns vaders in leven zijn – de nalatenschap voor de helft aan dezen en voor de helft aan genen behoort.   
-3.  De verdeling in beide liniën geschiedt volgens de regelen omtrent de gewone erfopvolging voorgeschreven.  
 
 ### Twaalfde  Titel  
 
@@ -438,7 +386,7 @@ De legitieme portie of het wettelijk erfdeel is een gedeelte der goederen, hetwe
 
 ### Artikel  940  
 
-1.  In de nederdalende linie, indien de erflater slechts één wettig kind nalaat, bestaat dat wettelijk erfdeel in de helft van de goederen, welke het kind bij versterf zoude hebben geërfd.   
+1.  In de nederdalende linie, indien de erflater slechts één kind nalaat, bestaat dat wettelijk erfdeel in de helft van de goederen, welke het kind bij versterf zoude hebben geërfd.   
 2.  Indien er twee kinderen overblijven, is het wettelijk erfdeel voor ieder kind twee derde gedeelten van hetgeen hetzelve bij versterf zoude erven.   
 3.  Ingeval de overledene drie of meer kinderen nalaat, zal het wettelijk erfdeel drie vierde gedeelten bedragen van hetgeen elk kind bij versterf zoude gehad hebben.   
 4.  Onder de naam van kinderen worden begrepen de afstammelingen, in welke graad zij ook zijn; echter worden dezen alleen gerekend in plaats van het kind, hetwelk zij in de nalatenschap van de erflater vertegenwoordigen.  
@@ -731,7 +679,7 @@ Wanneer de nalatenschap niet voor het geheel of een gedeelte is aanvaard, of wan
 
 ### Artikel  1000  
 
-1.  Insgelijks zal de uiterste wilsbeschikking bestaanbaar zijn ten voordele van een of meer broeders of zusters van de erflater, voor het geheel of een gedeelte der goederen, die bij de wet niet buiten beschikking gehouden zijn, onder de last om de goederen ui te keren, zowel aan de kinderen van zijn voorzeide broeders en zusters welke reeds geboren zijn, als aan die welke nog geboren zullen worden.   
+1.  Insgelijks zal de uiterste wilsbeschikking bestaanbaar zijn ten voordele van een of meer broeders of zusters van de erflater, voor het geheel of een gedeelte der goederen, die bij de wet niet buiten beschikking gehouden zijn, onder de last om de goederen uit te keren, zowel aan de kinderen van zijn voorzeide broeders en zusters welke reeds geboren zijn, als aan die welke nog geboren zullen worden.   
 2.  Dezelfde beschikking kan worden gemaakt ten voordele van een of meer kinderen van vooroverleden broeders of zusters, onder de last om de goederen uit te keren, zowel aan derzelver kinderen die reeds geboren zijn, als aan die welke nog geboren zullen worden.  
 
 ### Artikel  1001  
@@ -883,7 +831,7 @@ De vervallenverklaring van uiterste wilsbeschikkingen kan, na de dood des erflat
 
 ### Artikel  1031  
 
-1.  Een erflater mag, hetzij bij uiterste wil, hetzij bij zodanige onderhandse akte als bij artikel 961 vermeld is, hetzij bij een bijzondere notariële akte, een of meet uitvoerders van zijn uiterste wilsbeschikking aanstellen.   
+1.  Een erflater mag, hetzij bij uiterste wil, hetzij bij zodanige onderhandse akte als bij artikel 961 vermeld is, hetzij bij een bijzondere notariële akte, een of meer uitvoerders van zijn uiterste wilsbeschikking aanstellen.   
 2.  Hij kan ook verscheidene personen benoemen, ten einde bij ontstentenis elkander als uitvoerders op te volgen.  
 
 ### Artikel  1032  

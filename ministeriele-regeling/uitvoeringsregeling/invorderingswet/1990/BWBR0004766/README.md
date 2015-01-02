@@ -52,15 +52,15 @@ a.*overheidsvordering:* vordering als bedoeld in artikel 19, vierde lid, van de 
 
 b.*Onze Minister:* Onze Minister van Financiën;
 
-c.*bank:* bank als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
+c.*betaaldienstverlener:* betaaldienstverlener als bedoeld in artikel 1:1 van de Wet op het financieel toezicht;
 
 d.*betaalrekening:* rekening bestemd voor het betalingsverkeer en ten aanzien waarvan opdrachten tot automatische afschrijving kunnen worden gedaan;
 
 e.*deelvordering:* vordering als bedoeld in artikel 1ce, derde lid;
 
-f.*uitvoeringsdatum:* datum, waarop de overheidsvordering wordt uitgevoerd door de bank, waar de belastingschuldige een rekening houdt. Deze datum wordt bepaald door de ontvanger bij het doen van de overheidsvordering;
+f.*uitvoeringsdatum:* datum, waarop de overheidsvordering wordt uitgevoerd door de betaaldienstverlener, waar de belastingschuldige een rekening houdt. Deze datum wordt bepaald door de ontvanger bij het doen van de overheidsvordering;
 
-g.*bestedingsruimte:* saldo op een rekening vermeerderd met het maximale debetsaldo op die rekening dat is toegestaan op grond van een overeenkomst inzake krediet die tussen de bank en de belastingschuldige is gesloten.
+g.*bestedingsruimte:* saldo op een rekening vermeerderd met het maximale debetsaldo op die rekening dat is toegestaan op grond van een overeenkomst inzake krediet die tussen de betaaldienstverlener en de belastingschuldige is gesloten.
 
 ###Afdeling 2 
 
@@ -80,7 +80,7 @@ De overheidsvordering wordt gedaan op een betaalrekening die op naam of mede op 
 
 ###Artikel 1cd 
 
-De beschikking, bedoeld in artikel 19, vijfde lid, van de wet, wordt elektronisch bekend gemaakt aan de bank, waar de belastingschuldige een betaalrekening houdt. De overheidsvordering wordt uitsluitend uitgevoerd volgens de Europese systematiek van automatische afschrijving.
+De beschikking, bedoeld in artikel 19, vijfde lid, van de wet, wordt elektronisch bekend gemaakt aan de betaaldienstverlener, waar de belastingschuldige een betaalrekening houdt. De overheidsvordering wordt uitsluitend uitgevoerd volgens de Europese systematiek van automatische afschrijving.
 
 ###Artikel 1ce 
 
@@ -91,7 +91,7 @@ De beschikking, bedoeld in artikel 19, vijfde lid, van de wet, wordt elektronisc
 
 ###Artikel 1cf 
 
-1. De bank, waar de belastingschuldige een betaalrekening houdt, is bevoegd tot terugboeking van het bedrag van de overheidsvordering of, indien deze is gesplitst, de deelvordering, indien blijkt dat de bestedingsruimte op de betaalrekening van de belastingschuldige op de uitvoeringsdatum ontoereikend is. Deze bevoegdheid vervalt na vijf werkdagen volgend op de uitvoeringsdatum.
+1. De betaaldienstverlener, waar de belastingschuldige een betaalrekening houdt, is bevoegd tot terugboeking van het bedrag van de overheidsvordering of, indien deze is gesplitst, de deelvordering, indien blijkt dat de bestedingsruimte op de betaalrekening van de belastingschuldige op de uitvoeringsdatum ontoereikend is. Deze bevoegdheid vervalt na vijf werkdagen volgend op de uitvoeringsdatum.
 2. Werkdagen, in de zin van het eerste lid, zijn alle kalenderdagen, met uitzondering van de zaterdag en zondag, de Nieuwjaarsdag, de Goede Vrijdag, de tweede Paasdag, 1 mei en de beide Kerstdagen.
 
 ###Afdeling 4 
@@ -100,7 +100,7 @@ De beschikking, bedoeld in artikel 19, vijfde lid, van de wet, wordt elektronisc
 
 ###Artikel 1cg 
 
-De bank, waar de belastingschuldige een betaalrekening houdt, vermeldt op het papieren of elektronische afschrift van de af- of terugboeking op de betaalrekening van de belastingschuldige, de door de ontvanger bij het doen van de overheidsvordering geleverde gegevens.
+De betaaldienstverlener, waar de belastingschuldige een betaalrekening houdt, vermeldt op het papieren of elektronische afschrift van de af- of terugboeking op de betaalrekening van de belastingschuldige, de door de ontvanger bij het doen van de overheidsvordering geleverde gegevens.
 
 ###Artikel 1ch 
 
@@ -355,7 +355,7 @@ b. het openstaande bedrag van de belastingaanslag dat resteert nadat:
 
 ### Artikel  12  
 
-1.  Onder vermogen als bedoeld in artikel 11 wordt verstaan de waarde in het economische verkeer van de bezittingen van de belastingschuldige en van zijn echtgenoot, bedoeld in artikel 3 van de Wet werk en bijstand, verminderd met de schulden van de belastingschuldige en deze persoon die hoger bevoorrecht zijn dan de rijksbelastingen.   
+1.  Onder vermogen als bedoeld in artikel 11 wordt verstaan de waarde in het economische verkeer van de bezittingen van de belastingschuldige en van zijn echtgenoot, bedoeld in artikel 3 van de Participatiewet, verminderd met de schulden van de belastingschuldige en deze persoon die hoger bevoorrecht zijn dan de rijksbelastingen.   
 2.  Onder bezittingen wordt niet begrepen: 
 
 a. de inboedel voor zover de waarde hiervan niet meer bedraagt dan € 2269;  
@@ -366,7 +366,7 @@ c. een auto die op het moment van het verzoek een waarde heeft van € 2269 of m
 
 d. het totale bedrag aan financiële middelen, andere dan de onder f bedoelde, voor zover dat bedrag de ingevolge artikel 16 in aanmerking te nemen kosten van bestaan vermeerderd met een bedrag ter grootte van het per maand gemiddelde bedrag van de uitgaven bedoeld in artikel 15, eerste lid, onderdelen b en c, niet te boven gaat, met dien verstande dat geen rekening wordt gehouden met de in die onderdelen bedoelde vermindering met ontvangen huurtoeslag of woonkostentoeslag, onderscheidenlijk zorgtoeslag;  
 
-e. het bedrag op een bank- of girorekening dat in het kader van de Wet studiefinanciering 2000 of de Wet tegemoetkoming onderwijsbijdrage en schoolkosten is verkregen in de vorm van leningen of dat is verkregen in het kader van een regeling voor persoonsgebonden budget, welke regeling is gegrond op artikel 44, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten of artikel 14a van de Zorgverzekeringswet;  
+e. het bedrag op een bank- of girorekening dat in het kader van de Wet studiefinanciering 2000 of de Wet tegemoetkoming onderwijsbijdrage en schoolkosten is verkregen in de vorm van leningen;  
 
 f. een bedrag van € 2269 aan financiële middelen per persoon voor personen die op 31 december 1999 de leeftijd van 65 jaar hebben bereikt;  
 
@@ -377,7 +377,7 @@ g.de ingevolge een levensloopregeling opgebouwde voorziening.
 ### Artikel  13  
 
 1.  Onder betalingscapaciteit, bedoeld in artikel 11, wordt verstaan het positieve verschil in de periode van 12 maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van het gemiddeld per maand te verwachten netto-besteedbare inkomen van de belastingschuldige in die periode en de gemiddeld per maand te verwachten kosten van bestaan in die periode.    
-2.  Het netto-besteedbare inkomen van de belastingschuldige, bedoeld in het eerste lid, wordt vermeerderd met het gemiddeld per maand te verwachten netto-besteedbare inkomen in de periode van twaalf maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van zijn echtgenoot, bedoeld in artikel 3 van de Wet werk en bijstand.   
+2.  Het netto-besteedbare inkomen van de belastingschuldige, bedoeld in het eerste lid, wordt vermeerderd met het gemiddeld per maand te verwachten netto-besteedbare inkomen in de periode van twaalf maanden vanaf de datum waarop het verzoek om kwijtschelding is ingediend van zijn echtgenoot, bedoeld in artikel 3 van de Participatiewet.   
 
 ### Artikel  14  
 
@@ -391,21 +391,21 @@ c. overige inkomsten met uitzondering van:
 
 1°. de uitkeringen ingevolge de Algemene Kinderbijslagwet;  
 
-2°. de uitkeringen ingevolge een regeling voor persoonsgebonden budget, welke regeling is gegrond op artikel 44, eerste lid, onderdeel b, van de Algemene Wet Bijzondere Ziektekosten of artikel 14a van de Zorgverzekeringswet;  
+2°. vervallen;  
 
 3°. de kinderopvangtoeslag, bedoeld in hoofdstuk 1, afdeling 2, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen, en de tegemoetkomingen ingevolge de Wet kinderopvang en kwaliteitseisen peuterspeelzalen;  
 
-4°. de premie, bedoeld in artikel 31, tweede lid, onderdeel j, van de Wet werk en bijstand, alsmede een daarmee naar aard, strekking en omvang overeenkomende premie; 
+4°. de premie, bedoeld in artikel 31, tweede lid, onderdeel j, van de Participatiewet, alsmede een daarmee naar aard, strekking en omvang overeenkomende premie; 
 
-5°. de langdurigheidstoeslag, bedoeld in artikel 36 van de Wet werk en bijstand;  
+5°. de individuele inkomenstoeslag, bedoeld in artikel 36 van de Participatiewet;  
 
 6°. de vergoeding voor de verzorging en opvoeding van een pleegkind in het kader van de Wet op de jeugdzorg;
 
 7°. het kindgebonden budget, bedoeld in de Wet op het kindgebonden budget; 
 
-8°. de huurtoeslag, bedoeld in artikel 1, onderdeel e, van de Wet op de huurtoeslag, de krachtens de Wet werk en bijstand ontvangen woonkostentoeslag en de zorgtoeslag, bedoeld in artikel 1, onderdeel e, van de Wet op de zorgtoeslag; 
+8°. de huurtoeslag, bedoeld in artikel 1, onderdeel e, van de Wet op de huurtoeslag, de krachtens de Participatiewet ontvangen woonkostentoeslag en de zorgtoeslag, bedoeld in artikel 1, onderdeel e, van de Wet op de zorgtoeslag; 
 
-9°. de inkomsten uit arbeid, bedoeld in artikel 31, tweede lid, onderdelen n en r, van de Wet werk en bijstand; 
+9°. de inkomsten uit arbeid, bedoeld in artikel 31, tweede lid, onderdelen n en r, van de Participatiewet; 
 
 10°.een kostenvergoeding voor het verrichten van vrijwilligerswerk tot ten hoogste de bedragen, genoemd in artikel 2, zesde lid, van de Wet op de loonbelasting 1964.     
 2.  Tot de inkomsten, bedoeld in het eerste lid, onderdeel c, wordt ook gerekend de voorlopige teruggaaf, bedoeld in artikel 13, tweede lid, van de Algemene wet inzake rijksbelastingen, daaronder begrepen de aanspraak op een zodanige teruggaaf.  
@@ -416,30 +416,42 @@ c. overige inkomsten met uitzondering van:
 
 a. betalingen op belastingschulden, met uitzondering van die genoemd in artikel 8, tweede lid, en betalingen op terugvorderingen van tegemoetkomingen als bedoeld in artikel 2, eerste lid, aanhef en onderdeel h, van de Algemene wet inkomensafhankelijke regelingen;  
 
-b. het bedrag van de voor rekening van de belastingschuldige komende netto-woonlasten tot maximaal het bedrag, genoemd in artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag, voorzover dit meer is dan het bedrag, genoemd in artikel 17, tweede lid, van die wet. Onder netto-woonlasten wordt verstaan: de op de belastingschuldige drukkende huurprijs, bedoeld in artikel 5, eerste lid, van genoemde wet, dan wel hypotheekrente en erfpachtcanon ter zake van een door hem bewoonde woning voorzover deze hem voor gebruik ter beschikking staat, verminderd met de ontvangen huurtoeslag, bedoeld in artikel 1, onderdeel e, van genoemde wet of met de ontvangen woonkostentoeslag;   
+b. het bedrag van de voor rekening van de belastingschuldige komende nettowoonlasten tot maximaal het bedrag, genoemd in artikel 13, eerste lid, onderdeel a, van de Wet op de huurtoeslag, voorzover dit meer is dan het bedrag, genoemd in artikel 17, tweede lid, van die wet;   
 
-c. de niet door de werkgever ingehouden premies ziektekostenverzekering, de premie voor een zorgverzekering als bedoeld in artikel 1, onderdeel d, van de Zorgverzekeringswet en de premie, bedoeld in artikel 17 van de Algemene Wet Bijzondere Ziektekosten, verminderd met de normpremie, bedoeld in artikel 2 van de Wet op de zorgtoeslag, voor zover reeds begrepen in de bijstandsnorm zoals die voor de belastingschuldige geldt ingevolge artikel 475d, eerste, tweede en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering, en met de krachtens de Wet op de zorgtoeslag ontvangen zorgtoeslag;  
+c. de niet door de werkgever ingehouden premies ziektekostenverzekering, de premie voor een zorgverzekering als bedoeld in artikel 1, onderdeel d, van de Zorgverzekeringswet en de premie voor verzekering ingevolge de Wet langdurige zorg, verminderd met de normpremie, bedoeld in artikel 2 van de Wet op de zorgtoeslag, voor zover reeds begrepen in de bijstandsnorm zoals die voor de belastingschuldige geldt ingevolge artikel 475d, eerste, tweede en vierde lid, van het Wetboek van Burgerlijke Rechtsvordering, en met de krachtens de Wet op de zorgtoeslag ontvangen zorgtoeslag;  
 
 d. betaalde uitkeringen voor levensonderhoud ingevolge de artikelen 157, 158 of 404 van Boek 1 van het Burgerlijk Wetboek;   
 
 e. aflossingen op leningen voor zover die zijn aangewend voor de betaling van belastingschulden, met uitzondering van die genoemd in artikel 8, tweede lid;  
 
-f.de met het houden van kostgangers verbonden kosten tot een totaal van € 10,25 per dag. Bij de bepaling van het aantal dagen wordt een volle maand op 30 dagen gesteld.  
-2.  Onder betalingen op belastingschulden wordt mede begrepen een betaling ter zake van premie voor de volksverzekeringen en ter zake van de inkomensafhankelijke bijdrage, bedoeld in artikel 41 van de Zorgverzekeringswet. 
+f.de met het houden van kostgangers verbonden kosten tot een totaal van € 10,45 per dag, met dien verstande dat bij de bepaling van het aantal dagen een volle maand op 30 dagen wordt gesteld;
+
+g.uitgaven voor het levensonderhoud van kinderen, vastgesteld op het verschil tussen het maximale bedrag waarop de belastingschuldige, zijn toetsingsinkomen buiten beschouwing latend, op grond van artikel 2 van de Wet op het kindgebonden budget aanspraak zou kunnen maken en het bedrag van de krachtens die wet te ontvangen kindgebonden budget.  
+2.  Onder betalingen op belastingschulden wordt mede begrepen een betaling ter zake van premie voor de volksverzekeringen en ter zake van de inkomensafhankelijke bijdrage, bedoeld in artikel 41 van de Zorgverzekeringswet.  
+3.  Onder nettowoonlasten wordt verstaan: de op de belastingschuldige drukkende huurprijs, bedoeld in artikel 5, eerste lid, van de Wet op de huurtoeslag, dan wel hypotheekrente en erfpachtcanon ter zake van een door hem bewoonde woning voor zover deze hem voor gebruik ter beschikking staat, verminderd met de te ontvangen huurtoeslag, bedoeld in artikel 1, onderdeel e, van die wet, of met de te ontvangen woonkostentoeslag. 
 
 ### Artikel  16  
 
-1.  De kosten van bestaan, bedoeld in artikel 13, eerste lid, bedragen voor belastingschuldigen die worden aangemerkt als: 
+1.  De kosten van bestaan, bedoeld in artikel 13, eerste lid, bedragen voor een belastingschuldige die wordt aangemerkt als: 
 
-a. echtgenoten als bedoeld in artikel 3 van de Wet werk en bijstand: 90 percent van het gezamenlijke bedrag, bedoeld in artikel 14, eerste lid, doch ten minste 90 percent van de bijstandsnorm, genoemd in artikel 21, onderdeel c, van de Wet werk en bijstand nadat deze is verminderd met het bedrag, genoemd in artikel 26 van die wet, en ten hoogste 90 percent van de bijstandsnorm, genoemd in artikel 21, onderdeel c, van die wet;  
+a. een echtgenoot als bedoeld in artikel 3 van de Participatiewet: 90 percent van de bijstandsnorm, bedoeld in artikel 21, onderdeel b, van die wet;  
 
-b. een alleenstaande en een alleenstaande ouder als bedoeld in artikel 4, eerste lid, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand: 90 percent van het gezamenlijke bedrag, bedoeld in artikel 14, eerste lid, doch ten minste 90 percent van de bijstandsnorm, genoemd in artikel 21, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand, en ten hoogste 90 percent van die bijstandsnorm nadat deze is verhoogd met het bedrag, genoemd in artikel 25 van die wet.     
-2.  De kosten van bestaan, bedoeld in artikel 13, eerste lid, bedragen, in afwijking van het eerste lid, voor belastingschuldigen die worden aangemerkt als:  
+b. een alleenstaande of een alleenstaande ouder als bedoeld in artikel 4, eerste lid, onderdeel a, onderscheidenlijk onderdeel b, van de Participatiewet: 90 percent van de bijstandsnorm, bedoeld in artikel 21, onderdeel a, van die wet.    
+2.  De kosten van bestaan, bedoeld in artikel 13, eerste lid, bedragen, in afwijking van het eerste lid, voor een belastingschuldige die wordt aangemerkt als: 
 
-a. echtgenoten als bedoeld in artikel 3 van de Wet werk en bijstand die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, hebben bereikt, onderscheidenlijk waarvan een echtgenoot als bedoeld in artikel 3 van de Wet werk en bijstand de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt: 90 percent van de bijstandsnorm, genoemd in artikel 22, onderdeel c, onderscheidenlijk onderdeel d, van de Wet werk en bijstand, verhoogd met € 21,46, onderscheidenlijk € 10,73;  
+a. een echtgenoot als bedoeld in artikel 3 van de Participatiewet: 
 
-b. een alleenstaande en een alleenstaande ouder als bedoeld in artikel 4, eerste lid, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, hebben bereikt: 90 percent van de bijstandsnorm, genoemd in artikel 22, onderdeel a, onderscheidenlijk onderdeel b, van de Wet werk en bijstand, verhoogd met € 10,73.     
-3. De kosten van bestaan, bedoeld in artikel 13, eerste lid, bedragen, in afwijking van de vorige leden, voor de belastingschuldige die ter verzorging of verpleging in een daartoe bestemde inrichting is opgenomen: de prijs die is verschuldigd voor verzorging dan wel verpleging, verhoogd met twee derden van de op hem van toepassing zijnde bijstandsnorm, genoemd in artikel 23 van de Wet werk en bijstand.
+1°. die tezamen met zijn echtgenoot de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt: 90 percent van de bijstandsnorm, bedoeld in artikel 22, onderdeel b, van de Participatiewet;  
+
+2°. die alleen of waarvan de echtgenoot de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt: 90 percent van de bijstandsnorm, bedoeld in artikel 22, onderdeel c, van de Participatiewet;    
+
+b. een alleenstaande of een alleenstaande ouder als bedoeld in artikel 4, eerste lid, onderdeel a, onderscheidenlijk onderdeel b, van de Participatiewet, die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt: 90 percent van de bijstandsnorm, bedoeld in artikel 22, onderdeel a, van de Participatiewet.    
+3.  De kosten van bestaan, bedoeld in artikel 13, eerste lid, worden verhoogd: 
+
+a. als de belastingschuldige en zijn echtgenoot, bedoeld in artikel 3 van de Participatiewet, de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, hebben bereikt: met € 20,98;  
+
+b. als de belastingschuldige of zijn echtgenoot, bedoeld in artikel 3 van de Participatiewet, de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, heeft bereikt: met € 10,49.   
+4. De kosten van bestaan, bedoeld in artikel 13, eerste lid, bedragen, in afwijking van de vorige leden, voor de belastingschuldige die ter verzorging of verpleging in een daartoe bestemde inrichting is opgenomen: de prijs die is verschuldigd voor verzorging dan wel verpleging, verhoogd met twee derden van de op hem van toepassing zijnde bijstandsnorm, genoemd in artikel 23 van de Participatiewet.
 
 ### Artikel  18  
 
@@ -453,7 +465,7 @@ c. binnen een jaar na het verzoek een belastingteruggaaf, anders dan de voorlopi
 
 ### Artikel  19  
 
-Het vermogen en de betalingscapaciteit van zijn echtgenoot, bedoeld in artikel 3 van de Wet werk en bijstand, wordt buiten beschouwing gelaten voor zover een door de belastingschuldige gedaan verzoek om kwijtschelding betrekking heeft op belastingschulden die zijn ontstaan voor de aanvang van de gezamenlijke huishouding. 
+Het vermogen en de betalingscapaciteit van zijn echtgenoot, bedoeld in artikel 3 van de Participatiewet, wordt buiten beschouwing gelaten voor zover een door de belastingschuldige gedaan verzoek om kwijtschelding betrekking heeft op belastingschulden die zijn ontstaan voor de aanvang van de gezamenlijke huishouding. 
 
 ### Artikel  19a  
 
@@ -675,7 +687,7 @@ c. landvoertuigen die zijn uitgerust met een motor van meer dan 48 cc cilinderin
 
 ### Artikel  40ca  
 
-1.  Als gevallen als bedoeld in artikel 7a, vierde lid, van de wet worden aangewezen uitbetalingen van inkomstenbelasting en omzetbelasting door de ontvanger op een bankrekening: 
+1.  Als gevallen als bedoeld in artikel 7a, vierde lid, van de wet worden aangewezen uitbetalingen van inkomstenbelasting door de ontvanger op een bankrekening: 
 
 a. van een lid van de Nederlandse Vereniging voor Volkskrediet voor zover de uitbetaling plaatsvindt in het kader van de uitvoering van een schuldregelingsovereenkomst in de zin van de Gedragscode Schuldregeling of een overeenkomst tot budgetbeheer in de zin van de Gedragscode Budgetbeheer;  
 
@@ -683,7 +695,7 @@ b. van een gemeente op grond van een schuldregelingsovereenkomst in de zin van d
 
 c. van een derde die: 
 
-1°. een subsidiebeschikking heeft ontvangen van een gemeente dan wel een contract heeft met een zorgkantoor voor het leveren van zorg in natura ingevolge de Algemene Wet Bijzondere Ziektekosten; en  
+1°. een subsidiebeschikking heeft ontvangen van een gemeente dan wel een overeenkomst heeft met een Wlz-uitvoerder voor het leveren van zorg in natura ingevolge de Wet langdurige zorg; en  
 
 2°. voldoet aan de norm NEN-ISO 9001;   voor zover de uitbetaling plaatsvindt in het kader van de uitvoering van een schuldregelingsovereenkomst in de zin van de Gedragscode Schuldregeling of een overeenkomst tot budgetbeheer in de zin van de Gedragscode Budgetbeheer of overeenkomsten met dezelfde strekking; 
 
@@ -702,15 +714,7 @@ Op natuurlijke personen die een uitkering genieten ingevolge de Wet werk en inko
 
 ### Artikel  40e  
 
-Indien bij de Belastingdienst op 1 december 2013 geen bankrekening op naam van de belastingschuldige bekend is, wordt tot en met 30 juni 2015 als geval als bedoeld in artikel 7a, vierde lid, van de wet aangewezen de uitbetaling van inkomstenbelasting en omzetbelasting door de ontvanger op de bankrekening die vóór 1 december 2013 door de ontvanger werd gebruikt voor de uitbetaling van inkomstenbelasting en omzetbelasting aan de belastingschuldige. 
-
-### Artikel  40f  
-
-Tot en met 31 december 2015 worden als gevallen als bedoeld in artikel 7a, vierde lid, van de wet aangewezen uitbetalingen van omzetbelasting door de ontvanger op een bankrekening van een derde naar aanleiding van teruggaafverzoeken als bedoeld in artikel 31, vierde lid, van de Wet op de omzetbelasting 1968 en hoofdstuk VI, afdeling 2, van die wet voor zover die verzoeken: 
-
-a. zien op tijdvakken die zijn geëindigd vóór 1 januari 2015; en  
-
-b. zijn ingediend vóór 30 september 2015.   
+Indien bij de Belastingdienst op 1 december 2013 geen bankrekening op naam van de belastingschuldige bekend is, wordt tot en met 30 juni 2015 als geval als bedoeld in artikel 7a, vierde lid, van de wet aangewezen de uitbetaling van inkomstenbelasting door de ontvanger op de bankrekening die vóór 1 december 2013 door de ontvanger werd gebruikt voor de uitbetaling van inkomstenbelasting aan de belastingschuldige. 
 
 ### Artikel  40g  
 

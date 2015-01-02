@@ -16,7 +16,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1.1  
 
-1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  adviseurs: bestuursorganen die krachtens wettelijk voorschrift in de gelegenheid moeten worden gesteld advies uit te brengen met betrekking tot het geven van een beschikking of het nemen van een ander besluit;  afvalbeheerplan: afvalbeheerplan, bedoeld in artikel 10.3; afvalstoffen: alle stoffen, preparaten of voorwerpen, waarvan de houder zich ontdoet, voornemens is zich te ontdoen of zich moet ontdoen; afvalstoffenhandelaar: natuurlijke of rechtspersoon die als verantwoordelijke optreedt bij het bedrijfsmatig aankopen en vervolgens verkopen van afvalstoffen, met inbegrip van natuurlijke of rechtspersonen die de afvalstoffen niet fysiek in hun bezit hebben; afvalstoffenhouder: afvalstoffenproducent dan wel de natuurlijke of rechtspersoon die de afvalstoffen in zijn bezit heeft; afvalstoffenmakelaar: natuurlijke of rechtspersoon die ten behoeve van anderen bedrijfsmatig de verwijdering of de nuttige toepassing van afvalstoffen organiseert, met inbegrip van de natuurlijke of rechtspersonen die de afvalstoffen niet fysiek in hun bezit hebben; afvalstoffenproducent: natuurlijke of rechtspersoon wiens activiteiten afvalstoffen voortbrengen of die voorbehandelingen, vermengingen of andere bewerkingen verricht die leiden tot een wijziging in de aard of de samenstelling van die afvalstoffen;afvalstoffenverordening: de verordening, bedoeld in artikel 10.23;afvalvoorziening: inrichting waar uitsluitend winningsafvalstoffen worden gestort of verzameld, dan wel het gedeelte van een inrichting waar winningsafvalstoffen worden gestort of verzameld;afvalvoorziening categorie A: afvalvoorziening, welke door het bevoegd gezag is ingedeeld in categorie A, overeenkomstig de criteria gesteld in bijlage III bij de richtlijn beheer winningsafval;afvalwater: alle water waarvan de houder zich ontdoet, voornemens is zich te ontdoen of zich moet ontdoen;bedrijfsafvalstoffen: afvalstoffen, niet zijnde huishoudelijke afvalstoffen of gevaarlijke afvalstoffen; bedrijfsafvalwater: afvalwater dat vrijkomt bij door de mens bedrijfsmatig of in een omvang alsof zij bedrijfsmatig was, ondernomen bedrijvigheid, dat geen huishoudelijk afvalwater, afvloeiend hemelwater of grondwater is; beheer van afvalstoffen: inzameling, vervoer, nuttige toepassing en verwijdering van afvalstoffen, met inbegrip van het toezicht op die handelingen en de nazorg voor stortplaatsen na sluiting en met inbegrip van de activiteiten van afvalstoffenhandelaars en afvalstoffenmakelaars;betrokken bestuursorganen: adviseurs en andere bestuursorganen die krachtens wettelijk voorschrift worden betrokken bij de totstandkoming van de in artikel 13.1, eerste lid, bedoelde beschikkingen. bevoegd gezag: bestuursorgaan dat bevoegd is tot het geven van een beschikking of het nemen van een ander besluit;  bijlage: bij deze wet behorende bijlage;biochemisch zuurstofverbruik: massaconcentratie aan opgeloste zuurstof die gedurende vijf dagen wordt verbruikt door biochemische oxydatie van organische bestanddelen onder uitsluiting van ammoniumoxydatie onder omstandigheden die zijn gespecificeerd in een door Onze Minister aangewezen norm van het Nederlands Normalisatie Instituut; broeikasgas: gas, genoemd in bijlage II bij de EG-richtlijn handel in broeikasgasemissierechten;broeikasgasemissierecht: overeenkomstig het bepaalde bij en krachtens hoofdstuk 16 overdraagbaar recht, uitsluitend teneinde aan het bepaalde bij en krachtens dat hoofdstuk te voldoen, om gedurende een bepaalde periode een emissie van één ton kooldioxide-equivalent in de lucht te veroorzaken;Commissie genetische modificatie: de Commissie genetische modificatie, bedoeld in artikel 2.26;Commissie voor de milieueffectrapportage: de Commissie voor de milieueffectrapportage, bedoeld in artikel 2.17;doelmatig beheer van afvalstoffen: zodanig beheer van afvalstoffen dat daarbij rekening wordt gehouden met het geldende afvalbeheerplan, dan wel de voor de vaststelling van het plan geldende bepalingen, dan wel de voorkeursvolgorde aangegeven in artikel 10.4, en de criteria, genoemd in artikel 10.5;EEG-richtlijn milieu-effectbeoordeling: richtlijn nr. 85/337/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1985 betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere projecten (PbEG L 175), zoals gewijzigd bij richtlijn nr. 97/11/EG van de Raad van de Europese gemeenschappen van 3 maart 1997 (PbEG L 73) tot wijziging van richtlijn 85/337/EEG betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere projecten;één ton kooldioxide-equivalent: een metrische ton kooldioxide of een hoeveelheid van een ander broeikasgas met een gelijkwaardig aardopwarmingsvermogen;de EG-richtlijn handel in broeikasgasemissierechten: richtlijn nr. 2003/87/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU L 275); EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353);EG-verordening overbrenging van afvalstoffen: verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU L 190);EG-verordening PRTR: verordening (EG) nr. 166/2006 van het Europees Parlement en de Raad van de Europese Unie van 18 januari 2006 betreffende de instelling van een Europees register inzake de uitstoot en overbrenging van verontreinigende stoffen en tot wijziging van de Richtlijnen 91/689/EEG en 96/61/EG van de Raad (PbEU L 33);EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: verordening (EG) nr. 1907/2006 van het Europees Parlement en de Raad van 18 december 2006 inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH), tot oprichting van een Europees Agentschap voor chemische stoffen, houdende wijziging van Richtlijn 1999/45/EG en houdende intrekking van Verordening (EEG) nr. 793/93 van de Raad en Verordening (EG) nr. 1488/94 van de Commissie alsmede Richtlijn 76/769/EEG van de Raad en de Richtlijnen 91/155/EEG, 93/67/EEG, 93/105/EG en 2000/21/EG van de Commissie (PbEU 2007, L 136);emissie: stoffen, trillingen, warmte, die of geluid dat direct of indirect vanuit een bron in de lucht, het water of de bodem worden, onderscheidenlijk wordt gebracht;de emissieautoriteit: de Nederlandse emissieautoriteit, genoemd in artikel 2.1;emissiegrenswaarde: massa gerelateerd aan bepaalde parameters, dan wel concentratie of niveau van een emissie uit een of meer bronnen, die gedurende een bepaalde periode niet mag worden overschreden;emissiereductie-eenheid: eenheid, uitgegeven overeenkomstig artikel 6 van het Protocol van Kyoto en de overeenkomstig het Raamverdrag van de Verenigde Naties inzake klimaatverandering of het Protocol van Kyoto genomen besluiten (ERU);  energie uit hernieuwbare bronnen: energie geproduceerd uit hernieuwbare energiebronnen als bedoeld in artikel 2, onderdeel a, van richtlijn nr.2009/28/EG van het Europees Parlement en de Raad van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU L 140); gecertificeerde emissiereductie: eenheid, uitgegeven overeenkomstig artikel 12 van het Protocol van Kyoto en de overeenkomstig het Raamverdrag van de Verenigde Naties inzake klimaatverandering of het Protocol van Kyoto genomen besluiten (CER);  geluid: met het menselijk oor waarneembare luchttrillingen; geluidhinder: gevaar, schade of hinder, als gevolg van geluid;gemeentelijk milieubeleidsplan: het gemeentelijke milieubeleidsplan, bedoeld in artikel 4.16; gescheiden inzameling: inzameling waarbij een afvalstoffenstroom gescheiden gehouden wordt naar soort en aard van de afvalstoffen om een specifieke behandeling te vergemakkelijken; gevaarlijke afvalstof: afvalstof die een of meer van de in bijlage III bij de kaderrichtlijn afvalstoffen genoemde gevaarlijke eigenschappen bezit; hergebruik: elke handeling waarbij producten of componenten die geen afvalstoffen zijn, opnieuw worden gebruikt voor hetzelfde doel als dat waarvoor zij waren bedoeld;huishoudelijk afvalwater: afvalwater dat overwegend afkomstig is van menselijke stofwisseling en huishoudelijke werkzaamheden;huishoudelijke afvalstoffen: afvalstoffen afkomstig uit particuliere huishoudens, behoudens voor zover het ingezamelde bestanddelen van die afvalstoffen betreft, die zijn aangewezen als gevaarlijke afvalstoffen;inrichting: elke door de mens bedrijfsmatig of in een omvang alsof zij bedrijfsmatig was, ondernomen bedrijvigheid die binnen een zekere begrenzing pleegt te worden verricht;inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar;inwonerequivalent: biochemisch zuurstofverbruik van 54 gram per etmaal; inzameling: verzameling van afvalstoffen, met inbegrip van de voorlopige sortering en de voorlopige opslag van afvalstoffen, om deze daarna te vervoeren naar een afvalverwerkingsinstallatie; kaderrichtlijn afvalstoffen: richtlijn nr. 2008/98/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 betreffende afvalstoffen en tot intrekking van een aantal richtlijnen (PbEU L 312);de kaderrichtlijn water: richtlijn nr. 2000/60/EG van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid (PbEG L 327), zoals deze is gewijzigd bij beschikking nr. 2455/2001/EG van het Europees Parlement en de Raad van 20 november 2001 tot vaststelling van de lijst van prioritaire stoffen op het gebied van het waterbeleid en tot wijziging van richtlijn 2000/60/EG (PbEG L 331) en met inbegrip van wijzigingen uit hoofde van artikel 20, eerste lid, van de richtlijn, doch voor het overige naar de tekst zoals deze bij de richtlijn is vastgesteld; luchtverontreiniging: aanwezigheid in de buitenlucht van vaste, vloeibare of gasvormige stoffen, niet zijnde splijtstoffen, ertsen of radioactieve stoffen als bedoeld in de Kernenergiewet, die op zichzelf dan wel tezamen of in verbinding met andere stoffen nadelige gevolgen voor het milieu kunnen veroorzaken;nationaal milieubeleidsplan: het nationale milieubeleidsplan, bedoeld in artikel 4.3;  nuttige toepassing: elke handeling met als voornaamste resultaat dat afvalstoffen een nuttig doel dienen door hetzij in de betrokken installatie, hetzij in de ruimere economie, andere materialen te vervangen die anders voor een specifieke functie zouden zijn gebruikt, of waardoor de afvalstof voor die functie wordt klaargemaakt, tot welke handelingen in ieder geval behoren de handelingen die zijn genoemd in bijlage II bij de kaderrichtlijn afvalstoffen; omgevingsvergunning: omgevingsvergunning als bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht; omgevingsvergunning voor een inrichting: omgevingsvergunning voor een activiteit met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht;Onze Minister: Onze Minister van Infrastructuur en Milieu; openbaar hemelwaterstelsel: voorziening voor de inzameling en verdere verwerking van afvloeiend hemelwater, niet zijnde een openbaar vuilwaterriool, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast;openbaar ontwateringsstelsel: voorziening voor de inzameling en verdere verwerking van grondwater, niet zijnde een openbaar vuilwaterriool, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast; openbaar vuilwaterriool: voorziening voor de inzameling en het transport van stedelijk afvalwater, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast;preparaten: mengsels of oplossingen van twee of meer stoffen; preventie: maatregelen die worden genomen voordat een stof, materiaal of product afvalstof is geworden, ter vermindering van:
+1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder:  adviseurs: bestuursorganen die krachtens wettelijk voorschrift in de gelegenheid moeten worden gesteld advies uit te brengen met betrekking tot het geven van een beschikking of het nemen van een ander besluit;  afvalbeheerplan: afvalbeheerplan, bedoeld in artikel 10.3; afvalstoffen: alle stoffen, preparaten of voorwerpen, waarvan de houder zich ontdoet, voornemens is zich te ontdoen of zich moet ontdoen; afvalstoffenhandelaar: natuurlijke of rechtspersoon die als verantwoordelijke optreedt bij het bedrijfsmatig aankopen en vervolgens verkopen van afvalstoffen, met inbegrip van natuurlijke of rechtspersonen die de afvalstoffen niet fysiek in hun bezit hebben; afvalstoffenhouder: afvalstoffenproducent dan wel de natuurlijke of rechtspersoon die de afvalstoffen in zijn bezit heeft; afvalstoffenmakelaar: natuurlijke of rechtspersoon die ten behoeve van anderen bedrijfsmatig de verwijdering of de nuttige toepassing van afvalstoffen organiseert, met inbegrip van de natuurlijke of rechtspersonen die de afvalstoffen niet fysiek in hun bezit hebben; afvalstoffenproducent: natuurlijke of rechtspersoon wiens activiteiten afvalstoffen voortbrengen of die voorbehandelingen, vermengingen of andere bewerkingen verricht die leiden tot een wijziging in de aard of de samenstelling van die afvalstoffen;afvalstoffenverordening: de verordening, bedoeld in artikel 10.23;afvalvoorziening: inrichting waar uitsluitend winningsafvalstoffen worden gestort of verzameld, dan wel het gedeelte van een inrichting waar winningsafvalstoffen worden gestort of verzameld;afvalvoorziening categorie A: afvalvoorziening, welke door het bevoegd gezag is ingedeeld in categorie A, overeenkomstig de criteria gesteld in bijlage III bij de richtlijn beheer winningsafval;afvalwater: alle water waarvan de houder zich ontdoet, voornemens is zich te ontdoen of zich moet ontdoen;bedrijfsafvalstoffen: afvalstoffen, niet zijnde huishoudelijke afvalstoffen of gevaarlijke afvalstoffen; bedrijfsafvalwater: afvalwater dat vrijkomt bij door de mens bedrijfsmatig of in een omvang alsof zij bedrijfsmatig was, ondernomen bedrijvigheid, dat geen huishoudelijk afvalwater, afvloeiend hemelwater of grondwater is; beheer van afvalstoffen: inzameling, vervoer, nuttige toepassing en verwijdering van afvalstoffen, met inbegrip van het toezicht op die handelingen en de nazorg voor stortplaatsen na sluiting en met inbegrip van de activiteiten van afvalstoffenhandelaars en afvalstoffenmakelaars;betrokken bestuursorganen: adviseurs en andere bestuursorganen die krachtens wettelijk voorschrift worden betrokken bij de totstandkoming van de in artikel 13.1, eerste lid, bedoelde beschikkingen. bevoegd gezag: bestuursorgaan dat bevoegd is tot het geven van een beschikking of het nemen van een ander besluit;  bijlage: bij deze wet behorende bijlage;biochemisch zuurstofverbruik: massaconcentratie aan opgeloste zuurstof die gedurende vijf dagen wordt verbruikt door biochemische oxydatie van organische bestanddelen onder uitsluiting van ammoniumoxydatie onder omstandigheden die zijn gespecificeerd in een door Onze Minister aangewezen norm van het Nederlands Normalisatie Instituut; broeikasgas: gas, genoemd in bijlage II bij de EG-richtlijn handel in broeikasgasemissierechten;broeikasgasemissierecht: overeenkomstig het bepaalde bij en krachtens hoofdstuk 16 overdraagbaar recht, uitsluitend teneinde aan het bepaalde bij en krachtens dat hoofdstuk te voldoen, om gedurende een bepaalde periode een emissie van één ton kooldioxide-equivalent in de lucht te veroorzaken;Commissie genetische modificatie: de Commissie genetische modificatie, bedoeld in artikel 2.26;Commissie voor de milieueffectrapportage: de Commissie voor de milieueffectrapportage, bedoeld in artikel 2.17;doelmatig beheer van afvalstoffen: zodanig beheer van afvalstoffen dat daarbij rekening wordt gehouden met het geldende afvalbeheerplan, dan wel de voor de vaststelling van het plan geldende bepalingen, dan wel de voorkeursvolgorde aangegeven in artikel 10.4, en de criteria, genoemd in artikel 10.5;EEG-richtlijn milieu-effectbeoordeling: richtlijn nr. 85/337/EEG van de Raad van de Europese Gemeenschappen van 27 juni 1985 betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere projecten (PbEG L 175), zoals gewijzigd bij richtlijn nr. 97/11/EG van de Raad van de Europese gemeenschappen van 3 maart 1997 (PbEG L 73) tot wijziging van richtlijn 85/337/EEG betreffende de milieu-effectbeoordeling van bepaalde openbare en particuliere projecten;één ton kooldioxide-equivalent: een metrische ton kooldioxide of een hoeveelheid van een ander broeikasgas met een gelijkwaardig aardopwarmingsvermogen;de EG-richtlijn handel in broeikasgasemissierechten: richtlijn nr. 2003/87/EG van het Europees Parlement en de Raad van de Europese Unie van 13 oktober 2003 tot vaststelling van een regeling voor de handel in broeikasgasemissierechten binnen de Gemeenschap en tot wijziging van Richtlijn 96/61/EG van de Raad (PbEU L 275); EG-verordening indeling, etikettering en verpakking van stoffen en mengsels: verordening (EG) nr. 1272/2008 van het Europees Parlement en de Raad van de Europese Unie van 16 december 2008 betreffende de indeling, etikettering en verpakking van stoffen en mengsels tot wijziging en intrekking van de Richtlijnen 67/548/EEG en 1999/45/EG en tot wijziging van Verordening (EG) nr. 1907/2006 (PbEU L 353);EG-verordening overbrenging van afvalstoffen: verordening (EG) nr. 1013/2006 van het Europees Parlement en de Raad van de Europese Unie van 14 juni 2006 betreffende de overbrenging van afvalstoffen (PbEU L 190);EG-verordening PRTR: verordening (EG) nr. 166/2006 van het Europees Parlement en de Raad van de Europese Unie van 18 januari 2006 betreffende de instelling van een Europees register inzake de uitstoot en overbrenging van verontreinigende stoffen en tot wijziging van de Richtlijnen 91/689/EEG en 96/61/EG van de Raad (PbEU L 33);EG-verordening registratie, evaluatie en autorisatie van chemische stoffen: verordening (EG) nr. 1907/2006 van het Europees Parlement en de Raad van 18 december 2006 inzake de registratie en beoordeling van en de autorisatie en beperkingen ten aanzien van chemische stoffen (REACH), tot oprichting van een Europees Agentschap voor chemische stoffen, houdende wijziging van Richtlijn 1999/45/EG en houdende intrekking van Verordening (EEG) nr. 793/93 van de Raad en Verordening (EG) nr. 1488/94 van de Commissie alsmede Richtlijn 76/769/EEG van de Raad en de Richtlijnen 91/155/EEG, 93/67/EEG, 93/105/EG en 2000/21/EG van de Commissie (PbEU 2007, L 136);emissie: stoffen, trillingen, warmte, die of geluid dat direct of indirect vanuit een bron in de lucht, het water of de bodem worden, onderscheidenlijk wordt gebracht;de emissieautoriteit: de Nederlandse emissieautoriteit, genoemd in artikel 2.1;emissiegrenswaarde: massa gerelateerd aan bepaalde parameters, dan wel concentratie of niveau van een emissie uit een of meer bronnen, die gedurende een bepaalde periode niet mag worden overschreden;emissiereductie-eenheid: eenheid, uitgegeven overeenkomstig artikel 6 van het Protocol van Kyoto en de overeenkomstig het Raamverdrag van de Verenigde Naties inzake klimaatverandering of het Protocol van Kyoto genomen besluiten (ERU); gecertificeerde emissiereductie: eenheid, uitgegeven overeenkomstig artikel 12 van het Protocol van Kyoto en de overeenkomstig het Raamverdrag van de Verenigde Naties inzake klimaatverandering of het Protocol van Kyoto genomen besluiten (CER);  geluid: met het menselijk oor waarneembare luchttrillingen; geluidhinder: gevaar, schade of hinder, als gevolg van geluid;gemeentelijk milieubeleidsplan: het gemeentelijke milieubeleidsplan, bedoeld in artikel 4.16; gescheiden inzameling: inzameling waarbij een afvalstoffenstroom gescheiden gehouden wordt naar soort en aard van de afvalstoffen om een specifieke behandeling te vergemakkelijken; gevaarlijke afvalstof: afvalstof die een of meer van de in bijlage III bij de kaderrichtlijn afvalstoffen genoemde gevaarlijke eigenschappen bezit; hergebruik: elke handeling waarbij producten of componenten die geen afvalstoffen zijn, opnieuw worden gebruikt voor hetzelfde doel als dat waarvoor zij waren bedoeld;huishoudelijk afvalwater: afvalwater dat overwegend afkomstig is van menselijke stofwisseling en huishoudelijke werkzaamheden;huishoudelijke afvalstoffen: afvalstoffen afkomstig uit particuliere huishoudens, behoudens voor zover het ingezamelde bestanddelen van die afvalstoffen betreft, die zijn aangewezen als gevaarlijke afvalstoffen;inrichting: elke door de mens bedrijfsmatig of in een omvang alsof zij bedrijfsmatig was, ondernomen bedrijvigheid die binnen een zekere begrenzing pleegt te worden verricht;inspecteur: als zodanig bij besluit van Onze Minister aangewezen ambtenaar;inwonerequivalent: biochemisch zuurstofverbruik van 54 gram per etmaal; inzameling: verzameling van afvalstoffen, met inbegrip van de voorlopige sortering en de voorlopige opslag van afvalstoffen, om deze daarna te vervoeren naar een afvalverwerkingsinstallatie; kaderrichtlijn afvalstoffen: richtlijn nr. 2008/98/EG van het Europees Parlement en de Raad van de Europese Unie van 19 november 2008 betreffende afvalstoffen en tot intrekking van een aantal richtlijnen (PbEU L 312);de kaderrichtlijn water: richtlijn nr. 2000/60/EG van het Europees Parlement en de Raad van de Europese Unie van 23 oktober 2000 tot vaststelling van een kader voor communautaire maatregelen betreffende het waterbeleid (PbEG L 327), zoals deze is gewijzigd bij beschikking nr. 2455/2001/EG van het Europees Parlement en de Raad van 20 november 2001 tot vaststelling van de lijst van prioritaire stoffen op het gebied van het waterbeleid en tot wijziging van richtlijn 2000/60/EG (PbEG L 331) en met inbegrip van wijzigingen uit hoofde van artikel 20, eerste lid, van de richtlijn, doch voor het overige naar de tekst zoals deze bij de richtlijn is vastgesteld; luchtverontreiniging: aanwezigheid in de buitenlucht van vaste, vloeibare of gasvormige stoffen, niet zijnde splijtstoffen, ertsen of radioactieve stoffen als bedoeld in de Kernenergiewet, die op zichzelf dan wel tezamen of in verbinding met andere stoffen nadelige gevolgen voor het milieu kunnen veroorzaken;nationaal milieubeleidsplan: het nationale milieubeleidsplan, bedoeld in artikel 4.3;  nuttige toepassing: elke handeling met als voornaamste resultaat dat afvalstoffen een nuttig doel dienen door hetzij in de betrokken installatie, hetzij in de ruimere economie, andere materialen te vervangen die anders voor een specifieke functie zouden zijn gebruikt, of waardoor de afvalstof voor die functie wordt klaargemaakt, tot welke handelingen in ieder geval behoren de handelingen die zijn genoemd in bijlage II bij de kaderrichtlijn afvalstoffen; omgevingsvergunning: omgevingsvergunning als bedoeld in artikel 1.1, eerste lid, van de Wet algemene bepalingen omgevingsrecht; omgevingsvergunning voor een inrichting: omgevingsvergunning voor een activiteit met betrekking tot een inrichting als bedoeld in artikel 2.1, eerste lid, onder e, van de Wet algemene bepalingen omgevingsrecht;Onze Minister: Onze Minister van Infrastructuur en Milieu; openbaar hemelwaterstelsel: voorziening voor de inzameling en verdere verwerking van afvloeiend hemelwater, niet zijnde een openbaar vuilwaterriool, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast;openbaar ontwateringsstelsel: voorziening voor de inzameling en verdere verwerking van grondwater, niet zijnde een openbaar vuilwaterriool, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast; openbaar vuilwaterriool: voorziening voor de inzameling en het transport van stedelijk afvalwater, in beheer bij een gemeente of een rechtspersoon die door een gemeente met het beheer is belast;preparaten: mengsels of oplossingen van twee of meer stoffen; preventie: maatregelen die worden genomen voordat een stof, materiaal of product afvalstof is geworden, ter vermindering van:
 
 a. de hoeveelheden afvalstoffen, al dan niet via het hergebruik van producten of de verlenging van de levensduur van producten;  
 
@@ -149,7 +149,7 @@ Er is een Nederlandse emissieautoriteit, gevestigd te 's-Gravenhage.
 
 ###Artikel 2.2 
 
-1.  De emissieautoriteit heeft de in de Verordening monitoring en rapportage emissiehandel, de Verordening verificatie en accreditatie emissiehandel en de in de hoofdstukken 16 en 18 en titel 12.4 opgedragen taken.   
+1.  De emissieautoriteit heeft de in de Verordening monitoring en rapportage emissiehandel, de Verordening verificatie en accreditatie emissiehandel en de in de hoofdstukken 16 en 18 en titel 9.7 opgedragen taken.   
 2.  De emissieautoriteit heeft voorts tot taak: 
 
 a.het bijhouden van gegevens en het opstellen van rapportages met betrekking tot de naleving door Nederland van een voor Nederland verbindend verdrag of een voor Nederland verbindend besluit van een volkenrechtelijke organisatie, dat de beperking van de emissies van broeikasgassen in de lucht tot doel heeft;
@@ -511,10 +511,7 @@ Vervallen per 25-04-2013
 
 ####Het regionale milieubeleidsplan 
 
-### Artikel  4.15a  
-
-1. Het algemeen bestuur van een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat, kan een regionaal milieubeleidsplan vaststellen, dat met het oog op de bescherming van het milieu richting geeft aan beslissingen tot het nemen waarvan de bevoegdheid bij of krachtens de wet aan een orgaan van dat lichaam is toegekend.  
-2.   De artikelen 4.16, tweede lid, 4.17, 4.18 en 4.19 zijn van overeenkomstige toepassing, met dien verstande dat naast de in artikel 4.17, tweede lid, genoemde bestuursorganen ook burgemeester en wethouders van de in de plusregio gelegen gemeenten bij de voorbereiding van het plan worden betrokken.   
+Vervallen per 01-01-2015 
 
 ### §  4.5b  
 
@@ -2017,6 +2014,339 @@ Bij of krachtens algemene maatregel van bestuur worden regels gesteld om te b
 a. aanbestedende diensten als bedoeld in artikel 4, onder 1, van die richtlijn, en  
 
 b.  exploitanten als bedoeld in artikel 3, onder b, van die richtlijn.   
+
+### Titel  9.7  
+
+#### *Hernieuwbare energie vervoer* 
+
+### §  9.7.1  
+
+####Algemeen
+
+### Artikel  9.7.1.1  
+
+In deze titel en de daarop berustende bepalingen wordt verstaan onder: 
+
+*benzine:* ongelode lichte olie als bedoeld in artikel 26, tweede lid, van de Wet op de accijns;  
+
+*biobrandstof:* biobrandstof als bedoeld in artikel 2, onderdeel i, van de richtlijn hernieuwbare energie;  
+
+*diesel:* gasolie als bedoeld in artikel 26, vierde lid, van de Wet op de accijns;  
+
+*duurzaamheidssysteem:* vrijwillig systeem als bedoeld in artikel 18, vierde lid, van de richtlijn hernieuwbare energie dat door de Europese Commissie is erkend;  
+
+*energie-inhoud:* energie-inhoud als genoemd in bijlage III bij de richtlijn hernieuwbare energie of indien niet opgenomen in die bijlage berekend volgens bij ministeriële regeling te stellen regels;  
+
+*hernieuwbare brandstof:* energie voor vervoer die is: 
+
+1°. geen elektriciteit of biobrandstof,  
+
+2°. geproduceerd uit hernieuwbare bronnen als bedoeld in artikel 2, onderdeel a, van de richtlijn hernieuwbare energie, met behulp van energie uit hernieuwbare bronnen als bedoeld in dat artikel;    
+
+*hernieuwbare brandstofeenheid:* hernieuwbare brandstofeenheid als bedoeld in artikel 9.7.3.1;  
+
+*hernieuwbare energie vervoer:* energie uit hernieuwbare bronnen als bedoeld in artikel 2, onderdeel a, van de richtlijn hernieuwbare energie bestemd voor vervoer;  
+
+*importeur:* onderneming die benzine, diesel, vloeibare biobrandstof of vloeibare hernieuwbare brandstof invoert in Nederland, maar geen houder van een vergunning voor een accijnsgoederenplaats als bedoeld in artikel 1a, eerste lid, onderdeel b, van de Wet op de accijns voor minerale oliën als bedoeld in artikel 25 van die wet of geregistreerde geadresseerde als bedoeld in artikel 1a, eerste lid, onderdeel l, van die wet voor minerale oliën als bedoeld in artikel 25 van die wet is;  
+
+*inboeker:* onderneming die: 
+
+1°. houder van een vergunning voor een accijnsgoederenplaats als bedoeld in artikel 1a, eerste lid, onderdeel b, van de Wet op de accijns voor minerale oliën als bedoeld in artikel 25 van die wet is,  
+
+2°. geregistreerde geadresseerde als bedoeld in artikel 1a, eerste lid, onderdeel l, van die wet voor minerale oliën als bedoeld in artikel 25 van die wet is,  
+
+3°. importeur is, dan wel  
+
+4°. elektriciteit of gasvormige biobrandstof levert aan wegvoertuigen in Nederland;    
+
+*inboekfaciliteit:* eigenschap van een rekening in het register die de inboeking van hernieuwbare energie vervoer overeenkomstig artikel 9.7.4.1 mogelijk maakt;  
+
+*jaarverplichting:* aantal hernieuwbare brandstofeenheden dat de leverancier tot eindverbruik is verschuldigd op grond van artikel 9.7.2.1;  
+
+*jaarverplichtingfaciliteit:* eigenschap van een rekening in het register die een leverancier tot eindverbruik ingevolge artikel 9.7.2.2 heeft om aan zijn jaarverplichting te voldoen;  
+
+*leverancier tot eindverbruik:* houder van een vergunning voor een accijnsgoederenplaats als bedoeld in artikel 1a, eerste lid, onderdeel b, van de Wet op de accijns voor minerale oliën als bedoeld in artikel 25 van die wet, of geregistreerde geadresseerde als bedoeld in artikel 1a, eerste lid, onderdeel l, van die wet voor minerale oliën als bedoeld in artikel 25 van die wet, die benzine, diesel, vloeibare biobrandstof of vloeibare hernieuwbare brandstof levert tot eindverbruik, of importeur;  
+
+*leveren aan de Nederlandse markt voor vervoer:* leveren tot eindverbruik dan wel leveren aan een andere houder van een vergunning voor een accijnsgoederenplaats als bedoeld in artikel 1a, eerste lid, onderdeel b, van de Wet op de accijns;  
+
+*leveren tot eindverbruik:* uitslag tot verbruik als bedoeld in artikel 2 van de Wet op de accijns;  
+
+*onderneming:* onderneming als bedoeld in artikel 5 van de Handelsregisterwet 2007;  
+
+*overboekfaciliteit:* eigenschap van een rekening in het register die de overboeking van een hernieuwbare brandstofeenheid mogelijk maakt;  
+
+*register:* register hernieuwbare energie vervoer als bedoeld in artikel 9.7.5.1, eerste lid;  
+
+*richtlijn hernieuwbare energie:* richtlijn nr. 2009/28/EG van het Europees Parlement en de Raad van de Europese Unie van 23 april 2009 ter bevordering van het gebruik van energie uit hernieuwbare bronnen en houdende wijziging van en intrekking van Richtlijn 2001/77/EG en Richtlijn 2003/30/EG (PbEU 2009, L 140);  
+
+*vervoer:* alle vormen van transport over de weg, het spoor, het water en door de lucht binnen Nederland.   
+
+### Artikel  9.7.1.2  
+
+Bij of krachtens algemene maatregel van bestuur kunnen categorieën leveranciers tot eindverbruik worden aangewezen waarop de in deze titel opgenomen bepalingen met betrekking tot de leverancier tot eindverbruik niet van toepassing zijn. 
+
+### Artikel  9.7.1.3  
+
+Bij algemene maatregel van bestuur kunnen voor de toepassing van deze titel beperkingen worden gesteld aan het gebruik van biobrandstoffen waarvan de energie-inhoud op grond van de richtlijn hernieuwbare energie enkelvoudig telt. 
+
+### Artikel  9.7.1.4  
+
+De rijksbelastingdienst verstrekt op verzoek het bestuur van de emissieautoriteit de bij ministeriële regeling vast te stellen gegevens, voor zover die gegevens voor de uitvoering van deze titel noodzakelijk zijn.  
+
+### §  9.7.2  
+
+####Jaarverplichting hernieuwbare energie vervoer
+
+### Artikel  9.7.2.1  
+
+De leverancier tot eindverbruik is in enig kalenderjaar het aantal hernieuwbare brandstofeenheden verschuldigd dat overeenkomt met het bij algemene maatregel van bestuur vast te stellen gedeelte van de energie-inhoud van de door hem in het direct aan dat kalenderjaar voorafgaande kalenderjaar tot eindverbruik aan wegvoertuigen of spoorvoertuigen in Nederland geleverde benzine, diesel, vloeibare biobrandstof of vloeibare hernieuwbare brandstof. 
+
+### Artikel  9.7.2.2  
+
+De leverancier tot eindverbruik heeft een rekening met jaarverplichtingfaciliteit in het register. 
+
+### Artikel  9.7.2.3  
+
+1.  De leverancier tot eindverbruik voert voor 1 maart van enig kalenderjaar op zijn rekening met jaarverplichtingfaciliteit in het register de door hem in het direct aan die datum voorafgaande kalenderjaar tot eindverbruik aan wegvoertuigen of spoorvoertuigen in Nederland geleverde hoeveelheid benzine, diesel, vloeibare biobrandstof of vloeibare hernieuwbare brandstof in.   
+2.  Wijzigingen in de voor enig kalenderjaar op zijn rekening ingevoerde hoeveelheid tot eindverbruik aan wegvoertuigen of spoorvoertuigen in Nederland geleverde benzine, diesel, vloeibare biobrandstof of vloeibare hernieuwbare brandstof na de datum, bedoeld in het eerste lid, meldt de leverancier tot eindverbruik aan het bestuur van de emissieautoriteit.   
+3.  Bij ministeriële regeling worden de bij het invoeren op de rekening te vermelden gegevens bepaald.   
+4.  De gegevens, bedoeld in het derde lid, en de onderliggende stukken worden door de leverancier tot eindverbruik bewaard tot ten minste vijf jaar na afloop van het kalenderjaar waarop die gegevens betrekking hebben.  
+
+### Artikel  9.7.2.4  
+
+1.  Indien een leverancier tot eindverbruik de door hem in enig kalenderjaar tot eindverbruik aan wegvoertuigen of spoorvoertuigen in Nederland geleverde hoeveelheid benzine, diesel, vloeibare biobrandstof of vloeibare hernieuwbare brandstof niet voor 1 maart van het daaropvolgende kalenderjaar heeft ingevoerd op zijn rekening kan het bestuur van de emissieautoriteit die hoeveelheid ambtshalve vaststellen.   
+2.  Indien een leverancier tot eindverbruik de door hem in enig kalenderjaar tot eindverbruik aan wegvoertuigen of spoorvoertuigen in Nederland geleverde hoeveelheid benzine, diesel, vloeibare biobrandstof of vloeibare hernieuwbare brandstof niet juist heeft ingevoerd op zijn rekening kan het bestuur van de emissieautoriteit tot vijf jaar na dat kalenderjaar de juiste hoeveelheid benzine, diesel, vloeibare biobrandstof of vloeibare hernieuwbare brandstof ambtshalve vaststellen.   
+3.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de toepassing van het eerste en tweede lid.  
+
+### Artikel  9.7.2.5  
+
+1.  Op 1 april van enig kalenderjaar: 
+
+a. heeft de leverancier tot eindverbruik ten minste het aantal hernieuwbare brandstofeenheden op zijn rekening, en  
+
+b. schrijft het bestuur van de emissieautoriteit van de rekening van de leverancier tot eindverbruik het aantal hernieuwbare brandstofeenheden af,   dat overeenkomt met de voor die leverancier voor het direct aan die datum voorafgaande kalenderjaar geldende jaarverplichting.   
+2.  Indien toepassing van artikel 9.7.2.4, tweede lid, leidt tot een verhoging van de jaarverplichting voor het betrokken kalenderjaar schrijft het bestuur van de emissieautoriteit het aantal hernieuwbare brandstofeenheden dat overeenkomt met die verhoging af van de rekening van de leverancier tot eindverbruik.   
+3.  Indien het aantal hernieuwbare brandstofeenheden op de rekening van de leverancier tot eindverbruik als gevolg van de toepassing van het eerste of tweede lid minder is dan nul, vult hij het tekort aan voor 1 april volgend op het kalenderjaar waarin het tekort is ontstaan.  
+
+### §  9.7.3  
+
+####Hernieuwbare brandstofeenheden
+
+### Artikel  9.7.3.1  
+
+Een hernieuwbare brandstofeenheid vertegenwoordigt een bijdrage aan de jaarverplichting van één gigajoule hernieuwbare energie vervoer. 
+
+### Artikel  9.7.3.2  
+
+Een hernieuwbare brandstofeenheid kan uitsluitend in het register gehouden worden. 
+
+### Artikel  9.7.3.3  
+
+1.  Een hernieuwbare brandstofeenheid is vatbaar voor overdracht indien de overdragende partij en de ontvangende partij ieder op hun naam een rekening hebben in het register.   
+2.  Een hernieuwbare brandstofeenheid is ook vatbaar voor andere overgang. Het eerste lid is van overeenkomstige toepassing.  
+
+### Artikel  9.7.3.4  
+
+Overdracht van een of meer hernieuwbare brandstofeenheden kan niet leiden tot een aantal hernieuwbare brandstofeenheden op een rekening dat minder is dan nul. 
+
+### Artikel  9.7.3.5  
+
+1.  De voor overdracht van een hernieuwbare brandstofeenheid vereiste levering geschiedt door: 
+
+a. afschrijving van de hernieuwbare brandstofeenheid van de rekening die in het register op naam staat van de partij die de hernieuwbare brandstofeenheid overdraagt, en  
+
+b. bijschrijving op de rekening die in het register op naam staat van de partij die de hernieuwbare brandstofeenheid verkrijgt.     
+2.  Het eerste lid is van overeenkomstige toepassing op elke overgang anders dan overdracht.   
+3.  Elke overgang anders dan overdracht werkt tegenover derden eerst nadat de overgang in het register is geregistreerd.  
+
+### Artikel  9.7.3.6  
+
+1.  Nietigheid of vernietiging van de overeenkomst die tot de overdracht heeft geleid, of onbevoegdheid van degene die overdraagt, heeft, nadat de overdracht is voltooid, geen gevolgen voor de geldigheid van de overdracht.   
+2.  Elk voorbehoud met betrekking tot de overdracht is uitgewerkt op het moment dat de overdracht tot stand is gekomen.  
+
+### Artikel  9.7.3.7  
+
+1.  In afwijking van artikel 228 van Boek 3 van het Burgerlijk Wetboek kan op een hernieuwbare brandstofeenheid geen recht van pand worden gevestigd.   
+2.  Op een hernieuwbare brandstofeenheid kan geen recht van vruchtgebruik worden gevestigd.   
+3.  Een hernieuwbare brandstofeenheid is niet vatbaar voor beslag.  
+
+### §  9.7.4  
+
+####Inboeken hernieuwbare energie vervoer
+
+### Artikel  9.7.4.1  
+
+1.  Een inboeker kan tot 1 maart van enig kalenderjaar inboeken in het register de in het direct aan die datum voorafgaande kalenderjaar door hem aan: 
+
+a. de Nederlandse markt voor vervoer geleverde vloeibare biobrandstof die voldoet aan artikel 9.7.4.2;  
+
+b. vervoer in Nederland geleverde gasvormige biobrandstof die voldoet aan artikel 9.7.4.3;  
+
+c. de Nederlandse markt voor vervoer geleverde vloeibare hernieuwbare brandstof die voldoet aan artikel 9.7.4.4, eerste lid, of  
+
+d. wegvoertuigen in Nederland geleverde elektriciteit.     
+2.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de inboeker van gasvormige biobrandstof of elektriciteit.  
+
+### Artikel  9.7.4.2  
+
+De in te boeken vloeibare biobrandstof: 
+
+a. voldoet aan de eisen, gesteld krachtens artikel 9.2.2.6a, en  
+
+b. bevond zich direct voorafgaand aan de levering aan de Nederlandse markt voor vervoer op een locatie die voor die vloeibare biobrandstof is gecertificeerd of geverifieerd volgens de eisen van het door de inboeker gehanteerde duurzaamheidssysteem.   
+
+### Artikel  9.7.4.3  
+
+De in te boeken gasvormige biobrandstof voldoet aan de eisen, gesteld: 
+
+a. krachtens artikel 9.2.2.6a, en  
+
+b. bij of krachtens algemene maatregel van bestuur.   
+
+### Artikel  9.7.4.4  
+
+1.  De in te boeken vloeibare hernieuwbare brandstof voldoet aan bij of krachtens algemene maatregel van bestuur gestelde eisen.   
+2.  De inboeker die een hoeveelheid vloeibare hernieuwbare brandstof inboekt, beschikt over een verklaring van een verificateur dat die brandstof voldoet aan de voorwaarden, bedoeld in dat lid.   
+3.  De verificateur geeft geen verklaring af indien niet is voldaan aan de eisen, bedoeld in het eerste lid.   
+4.  De verificateur bewaart alle gegevens en documentatie met betrekking tot de verificatie gedurende ten minste vijf jaar na afloop van het kalenderjaar waarop de verificatie betrekking heeft.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere eisen worden gesteld aan de verificateur en de verificatie.  
+
+### Artikel  9.7.4.5  
+
+1.  Bij ministeriële regeling: 
+
+a. worden regels gesteld over de bepaling van de ingeboekte hoeveelheid hernieuwbare energie vervoer;  
+
+b. wordt bepaald op welke wijze de inboeker aantoont dat is voldaan aan de artikelen 9.7.4.2, 9.7.4.3 en 9.7.4.4;  
+
+c. worden de bij het inboeken te vermelden gegevens bepaald;  
+
+d. kunnen nadere regels worden gesteld voor het inboeken van vloeibare hernieuwbare brandstof.     
+2.  De gegevens, bedoeld in het eerste lid, onderdeel c, worden door de inboeker bewaard gedurende ten minste vijf jaar na het kalenderjaar waarin de inboeking plaatsvond.  
+
+### Artikel  9.7.4.6  
+
+1.  Het bestuur van de emissieautoriteit schrijft voor één gigajoule energie-inhoud hernieuwbare energie vervoer die is ingeboekt in het register één hernieuwbare brandstofeenheid bij op de rekening van de inboeker.   
+2.  De hoeveelheid ingeboekte hernieuwbare energie vervoer wordt naar beneden afgerond op één gigajoule.   
+3.  In afwijking van het eerste lid schrijft het bestuur van de emissieautoriteit een aantal hernieuwbare brandstofeenheden bij ter grootte van een bij ministeriële regeling vastgesteld gedeelte van de energie-inhoud, vermenigvuldigd met een bij die ministeriële regeling vastgestelde factor, van de hoeveelheid ingeboekte elektriciteit die is geleverd aan wegvoertuigen in Nederland.   
+4.  In afwijking van het eerste lid schrijft het bestuur van de emissieautoriteit voor een door een importeur ingeboekte hoeveelheid hernieuwbare energie vervoer hernieuwbare brandstoffeneenheden bij op de rekening van die importeur, nadat die importeur volgens bij ministeriële regeling gestelde regels heeft aangetoond dat die hoeveelheid aan de Nederlandse markt voor vervoer is geleverd.  
+
+### Artikel  9.7.4.7  
+
+1.  Het bestuur van de emissieautoriteit maakt ieder jaar op bij ministeriële regeling te bepalen momenten een overzicht van het aantal beschikbare hernieuwbare brandstofeenheden openbaar.   
+2.  Bij algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot het openbaar maken, bedoeld in het eerste lid.  
+
+### Artikel  9.7.4.8  
+
+1.  Bij of krachtens algemene maatregel van bestuur kunnen categorieën biobrandstof worden aangewezen waarvan, onder bij of krachtens die maatregel te stellen voorwaarden, de energie-inhoud wordt vermenigvuldigd met een bij of krachtens die maatregel vastgestelde factor.   
+2.  De inboeker die een hoeveelheid biobrandstof als bedoeld in het eerste lid inboekt, beschikt over een verklaring van een verificateur dat die biobrandstof voldoet aan de voorwaarden, bedoeld in dat lid.   
+3.  De verificateur geeft geen verklaring af indien niet is voldaan aan de eisen, bedoeld in het eerste lid.   
+4.  De verificateur bewaart alle gegevens en documentatie met betrekking tot de verificatie gedurende ten minste vijf jaar na afloop van het kalenderjaar waarop de verificatie betrekking heeft.   
+5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere eisen worden gesteld aan de verificateur en de verificatie.  
+
+### Artikel  9.7.4.9  
+
+Voor hernieuwbare energie vervoer die tussen 1 januari en 1 april van enig kalenderjaar wordt geleverd aan de Nederlandse markt voor vervoer, aan vervoer in Nederland respectievelijk aan wegvoertuigen in Nederland en ingeboekt in het register schrijft het bestuur van de emissieautoriteit na 1 april van dat kalenderjaar de hernieuwbare brandstofeenheden bij op de rekening van de inboeker. 
+
+### Artikel  9.7.4.10  
+
+Een hoeveelheid hernieuwbare energie die wordt ingeboekt in het register is niet als duurzaam overgedragen en wordt niet nog een keer ingeboekt in het register. 
+
+### Artikel  9.7.4.11  
+
+1.  Het bestuur van de emissieautoriteit kan het bijschrijven van hernieuwbare brandstofeenheden opschorten of weigeren indien het misbruik of fraude vermoedt dan wel andere redenen heeft om aan te nemen dat niet wordt voldaan aan de bij of krachtens deze paragraaf gestelde eisen.   
+2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld over het opschorten of weigeren, bedoeld in het eerste lid.  
+
+### Artikel  9.7.4.12  
+
+1.  De inboeker overlegt voor 1 april van het kalenderjaar volgend op het kalenderjaar waarin hij de hernieuwbare energie vervoer aan de Nederlandse markt voor vervoer, aan vervoer in Nederland respectievelijk aan wegvoertuigen in Nederland heeft geleverd aan het bestuur van de emissieautoriteit een verklaring van een verificateur waaruit blijkt dat, voor zover van toepassing: 
+
+a. de door hem ingeboekte hernieuwbare energie vervoer voldoet aan de bij of krachtens de artikelen 9.7.4.1, tweede lid, 9.7.4.2, 9.7.4.3, 9.7.4.5, eerste lid, onderdelen a en d, of 9.7.4.9 gestelde eisen, en  
+
+b. hij heeft voldaan aan de bij of krachtens de artikelen 9.7.4.4, tweede lid, 9.7.4.5, eerste lid, onderdeel b, 9.7.4.8, tweede lid, of 9.7.4.10 gestelde eisen.     
+2.  De verificateur geeft geen verklaring af indien niet is voldaan aan de eisen, bedoeld in het eerste lid.   
+3.  De verificateur bewaart alle gegevens en documentatie met betrekking tot de verificatie gedurende ten minste vijf jaar na afloop van het kalenderjaar waarop de verificatie betrekking heeft.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere eisen worden gesteld aan de verificateur en de verificatie.  
+
+### Artikel  9.7.4.13  
+
+1.  Indien naar het oordeel van het bestuur van de emissieautoriteit niet is voldaan aan de bij of krachtens deze paragraaf gestelde eisen voor het inboeken in het register van een hoeveelheid hernieuwbare energie vervoer of de verificatie, bedoeld in artikel 9.7.4.12, kan het bestuur die hoeveelheid, de kenmerken van die hoeveelheid of de factor, bedoeld in artikel 9.7.4.8, tot vijf jaar na het kalenderjaar van inboeken ambtshalve vaststellen.   
+2.  Indien uit de vaststelling, bedoeld in het eerste lid, volgt dat de inboeker teveel hernieuwbare brandstofeenheden heeft ontvangen voor de ingeboekte hoeveelheid hernieuwbare energie vervoer, wordt het aantal hernieuwbare brandstofeenheden dat die inboeker teveel heeft ontvangen, afgeschreven van de rekening van die inboeker.   
+3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld over de toepassing van het eerste en tweede lid.   
+4.  Indien het aantal hernieuwbare brandstofeenheden op de rekening van de inboeker als gevolg van de toepassing van tweede lid minder is dan nul wordt het tekort door de inboeker aangevuld voor 1 april volgend op het kalenderjaar waarin het tekort is ontstaan.  
+
+### Artikel  9.7.4.14  
+
+1.  De emissieautoriteit maakt ieder jaar een overzicht openbaar, waarin per inboeker van vloeibare biobrandstof de aard en herkomst van de door die inboeker ingeboekte vloeibare biobrandstoffen alsmede het door die inboeker gehanteerde duurzaamheidssysteem zijn opgenomen. Artikel 10 van de Wet openbaarheid van bestuur is van overeenkomstige toepassing.   
+2.  Bij algemene maatregel van bestuur worden nadere regels gesteld omtrent de inhoud en de wijze van openbaarmaking van het overzicht, bedoeld in het eerste lid.  
+
+### §  9.7.5  
+
+####Register hernieuwbare energie vervoer
+
+### Artikel  9.7.5.1  
+
+1.  Er is een elektronisch register hernieuwbare energie vervoer.   
+2.  Het register wordt beheerd door de emissieautoriteit.   
+3.  Het register bestaat uit de rekeningen, bedoeld in artikel 9.7.5.3.  
+
+### Artikel  9.7.5.2  
+
+1.  Bij ministeriële regeling worden regels gesteld over de werking, organisatie, beschikbaarheid en beveiliging van het register.   
+2.  Het bestuur van de emissieautoriteit kan voorwaarden voor het gebruik van het register vaststellen.  
+
+### Artikel  9.7.5.3  
+
+1.  Het bestuur van de emissieautoriteit opent op verzoek van de leverancier tot eindverbruik op diens naam een rekening met jaarverplichtingfaciliteit en met overboekfaciliteit.   
+2.  Het bestuur van de emissieautoriteit opent op verzoek van een inboeker op diens naam een rekening met inboekfaciliteit en met overboekfaciliteit.   
+3.  Het bestuur van de emissieautoriteit opent op verzoek van een andere onderneming dan die bedoeld in het eerste of tweede lid, die behoort tot een bij algemene maatregel van bestuur aangewezen categorie, op diens naam een rekening met overboekfaciliteit.   
+4.  Het bestuur van de emissieautoriteit opent op naam van een onderneming niet meer dan één rekening. Een rekening kan alle in het eerste en tweede lid genoemde faciliteiten omvatten.   
+5.  Bij ministeriële regeling worden regels gesteld over het openen, bijhouden en beheer van de rekeningen.  
+
+### Artikel  9.7.5.4  
+
+1.  Het bestuur van de emissieautoriteit kan indien het redenen heeft om aan te nemen dat er sprake is van fraude of misbruik of dat niet wordt voldaan aan de bij of krachtens deze titel gestelde eisen voor het hebben van een rekening in het register of voor het gebruik van die rekening: 
+
+a. weigeren een rekening te openen;  
+
+b. een rekening of een faciliteit van die rekening blokkeren;  
+
+c. een rekening opheffen.     
+2.  Het bestuur van de emissieautoriteit kan op verzoek van de rekeninghouder een rekening opheffen.   
+3.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de toepassing van het eerste lid en kunnen regels worden gesteld over de toepassing van het tweede lid.   
+4.  De hernieuwbare brandstofeenheden op een opgeheven rekening vervallen van rechtswege.  
+
+### Artikel  9.7.5.5  
+
+1.  Bij ministeriële regeling kan worden bepaald dat voor het openen en bijhouden van een rekening met overboekfaciliteit, inboekfaciliteit of jaarverplichtingfaciliteit een vergoeding verschuldigd is overeenkomstig de bij die regeling te stellen regels.   
+2.  Bij de regeling, bedoeld in het eerste lid: 
+
+a. wordt de hoogte van de vergoeding vastgesteld, welke niet hoger is dan noodzakelijk is ter dekking van de ten laste van de emissieautoriteit komende kosten van het verrichten van werkzaamheden waarvoor de vergoeding is verschuldigd, en  
+
+b. worden regels gesteld omtrent de wijze waarop de vergoeding wordt betaald.    
+
+### Artikel  9.7.5.6  
+
+1.  Van het aantal hernieuwbare brandstofeenheden op 1 april van enig kalenderjaar op de rekening van een leverancier tot eindverbruik nadat het bestuur van de emissieautoriteit toepassing heeft gegeven aan artikel 9.7.2.5, eerste lid, onderdeel b, een inboeker of een onderneming als bedoeld in artikel 9.7.5.3. derde lid, wordt een gedeelte gespaard ten behoeve van het direct daaropvolgende kalenderjaar.   
+2.  Bij algemene maatregel van bestuur worden regels gesteld omtrent het gedeelte, bedoeld in het eerste lid. Voor de leverancier tot eindverbruik, de inboeker of de onderneming, bedoeld in artikel 9.7.5.3, derde lid, kunnen verschillende regels worden vastgesteld.   
+3.  De hernieuwbare brandstofeenheden die niet worden gespaard, vervallen van rechtswege.  
+
+### §  9.7.6  
+
+####Overgangsbepalingen hernieuwbare energie vervoer
+
+### Artikel  9.7.6.1  
+
+Het bestuur van de emissieautoriteit schrijft overeenkomstig de artikelen 9.7.4.6 en 9.7.4.7, volgens bij of krachtens algemene maatregel van bestuur te stellen regels, hernieuwbare brandstofeenheden bij op de rekening van de inboeker of leverancier tot eindverbruik die geregistreerde als bedoeld in artikel 1 van het Besluit hernieuwbare energie vervoer was, voor de bij of krachtens die maatregel bepaalde hoeveelheid van de door die inboeker of leverancier tot eindverbruik in het direct aan de datum van inwerkingtreding van deze titel voorafgaande kalenderjaar geleverde hernieuwbare energie vervoer. 
+
+### Artikel  9.7.6.2  
+
+De verplichtingen die voor geregistreerden als bedoeld in het Besluit hernieuwbare energie vervoer voortvloeien uit dat besluit of de Regeling hernieuwbare energie vervoer blijven van toepassing voor het direct aan de datum van inwerkingtreding van deze titel voorafgaande kalenderjaar. 
+
+### Artikel  9.7.6.3  
+
+1.  Indien een leverancier tot eindverbruik die registratieplichtige als bedoeld in artikel 1 van het Besluit hernieuwbare energie vervoer was, naar het oordeel van het bestuur van de emissieautoriteit in enig kalenderjaar niet heeft voldaan aan zijn verplichting op grond van artikel 3, eerste lid, van dat besluit, kan het bestuur tot vijf jaar na dat kalenderjaar het aantal hernieuwbare brandstofeenheden dat overeenkomt met het aandeel van de verplichting waaraan de leverancier tot eindverbruik niet heeft voldaan, afschrijven van de rekening van die leverancier tot eindverbruik.   
+2.  Artikel 9.7.2.5, derde lid, is van overeenkomstige toepassing.  
 
 ### Hoofdstuk  10  
 
@@ -3654,31 +3984,7 @@ Het is verboden te handelen in strijd met artikel 5 van de EG-verordening PRTR.
 
 #### *Registratie gegevens brandstoffen en elektriciteit uit hernieuwbare bronnen ten behoeve van vervoer* 
 
-### Artikel  12.31  
-
-1.  Er is een register dat de bij of krachtens algemene maatregel van bestuur genoemde gegevens bevat over in Nederland te gebruiken brandstoffen en elektriciteit uit hernieuwbare bronnen ten behoeve van vervoer, die behoren tot een bij die maatregel aangewezen categorie.   
-2.  Het register bevat in elk geval door ondernemingen die brandstoffen ten behoeve van vervoer aan een ander ter beschikking stellen en behoren tot een bij de algemene maatregel van bestuur, bedoeld in het eerste lid, aangewezen categorie, te openen rekeningen. Bij die maatregel kunnen regels worden gesteld omtrent op vrijwillige basis door andere ondernemingen openen van rekeningen.   
-3.  Het register wordt beheerd door de emissieautoriteit.   
-4.  De ondernemingen, bedoeld in het tweede lid, leveren de gegevens, bedoeld in het eerste lid, en beheren de rekeningen, bedoeld in het tweede lid, volgens bij ministeriële regeling gegeven regels.   
-5.  Bij ministeriële regeling kunnen regels worden gesteld omtrent: 
-
-a. de werking, organisatie, beschikbaarheid en beveiliging van het register, en  
-
-b. het openen, bijhouden en opheffen van rekeningen als bedoeld in het tweede lid.    
-
-### Artikel  12.32  
-
-1.  Bij ministeriële regeling kan worden bepaald dat voor het openen, bijhouden en opheffen van rekeningen als bedoeld in artikel 12.31, tweede lid, vergoedingen verschuldigd zijn overeenkomstig bij die regeling te stellen regels.   
-2.  Bij de regeling, bedoeld in het eerste lid: 
-
-a. wordt de hoogte van de vergoeding vastgesteld, welke niet hoger is dan noodzakelijk is ter dekking van de ten laste van de emissieautoriteit komende kosten van het verrichten van de werkzaamheden waarvoor de vergoeding is verschuldigd, en  
-
-b. worden regels gesteld omtrent de wijze waarop de vergoeding wordt betaald.    
-
-### Artikel  12.33  
-
-1.  De emissieautoriteit maakt ieder jaar een overzicht openbaar, waarin voor bij ministeriële regeling aan te wijzen categorieën van ondernemingen als bedoeld in artikel 12.31, tweede lid, per onderneming de aard, herkomst en duurzaamheidsaspecten van de door die onderneming ten behoeve van vervoer aan een ander ter beschikking gestelde, in Nederland te gebruiken, brandstoffen uit hernieuwbare bronnen zijn opgenomen. Artikel 10 van de Wet openbaarheid van bestuur is van overeenkomstige toepassing.   
-2.  Bij ministeriële regeling worden nadere regels gesteld omtrent de inhoud en de wijze van openbaarmaking van het overzicht, bedoeld in het eerste lid.  
+Vervallen per 01-01-2015 
 
 ### Hoofdstuk  13  
 
@@ -4246,7 +4552,7 @@ c. worden gemaakt ter dekking van de aansprakelijkheid, bedoeld in artikel 176, 
 
 a. uitsluitend of in hoofdzaak zijn bestemd tot het telen van gewassen onder een permanente opstand van glas of van kunststof, of  
 
-b. mede zijn bestemd tot het telen van gewassen onder een permanente opstand van glas of van kunststof met een minimale oppervlakte van 2 500 m<sup>2</sup>,   is een systeem van verevening van kosten verbonden aan het overschrijden van de voor die inrichtingen gezamenlijk voor een bepaalde periode vastgestelde hoeveelheid CO<sub>2</sub>-emissies van toepassing.   
+b. mede zijn bestemd tot het telen van gewassen onder een permanente opstand van glas of van kunststof met een minimale oppervlakte van 2 500 m<sup>2</sup>,   is een systeem van verevening van kosten verbonden aan het in een kalenderjaar overschrijden van de voor die inrichtingen gezamenlijk voor dat kalenderjaar vastgestelde hoeveelheid CO<sub>2</sub>-emissies van toepassing.   
 2.  Het eerste lid is niet van toepassing op inrichtingen: 
 
 a. die uitsluitend of in hoofdzaak zijn bestemd tot het telen van eetbare paddenstoelen of witlof onder een opstand als bedoeld in dat lid, of  
@@ -4256,7 +4562,7 @@ b. waarop titel 16.2 van toepassing is.
 
 ### Artikel  15.52  
 
-Indien de hoeveelheid emissies, bedoeld in artikel 15.51, eerste lid, wordt overschreden, zijn de inrichtingen die behoren tot een bij algemene maatregel van bestuur aangewezen categorie een vergoeding verschuldigd. Bij algemene maatregel van bestuur wordt de hoogte van die vergoeding dan wel de wijze van berekenen van de hoogte van die vergoeding vastgesteld. 
+Indien de hoeveelheid emissies, bedoeld in artikel 15.51, eerste lid, wordt overschreden, is diegene die een inrichting als bedoeld in artikel 15.51 drijft een vergoeding verschuldigd. Bij algemene maatregel van bestuur wordt de hoogte van die vergoeding dan wel de wijze van berekenen van de hoogte van die vergoeding vastgesteld. 
 
 ### Artikel  15.53  
 
@@ -5409,7 +5715,7 @@ Bij het uitoefenen van de taak, bedoeld in de artikelen 18.2 tot en met 18.2d, w
 ### Artikel  18.2f  
 
 1. De emissieautoriteit draagt zorg voor de handhaving van de bij of krachtens hoofdstuk 16 gestelde verplichtingen.  
-2.  Onverminderd het bepaalde in artikel 18.2b, eerste lid, draagt de emissieautoriteit zorg voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de artikelen 9.2.2.1, eerste lid, voor zover dat betrekking heeft op het aan een ander ter beschikking stellen van brandstoffen ten behoeve van vervoer, 9.2.2.6a en 9.2.3.4, derde lid, en titel 12.4. 
+2.  Onverminderd het bepaalde in artikel 18.2b, eerste lid, draagt de emissieautoriteit zorg voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de artikelen 9.2.2.1, eerste lid, voor zover dat betrekking heeft op het aan een ander ter beschikking stellen van brandstoffen ten behoeve van vervoer, 9.2.2.6a en 9.2.3.4, derde lid, en titel 9.7. 
 
 ###Artikel 18.2g 
 
@@ -5445,7 +5751,7 @@ In geval van overtreding van het bepaalde bij of krachtens artikel 16.5, artikel
 
 ### Artikel  18.6b  
 
-In geval van overtreding van het bepaalde bij of krachtens de artikelen 9.2.2.1, eerste lid, voor zover dat betrekking heeft op het aan een ander ter beschikking stellen van brandstoffen ten behoeve van vervoer, 9.2.2.6a of 12.31, vierde lid of vijfde lid, onderdeel b, kan het bestuur van de emissieautoriteit een last onder dwangsom opleggen. 
+In geval van overtreding van het bepaalde bij of krachtens de artikelen 9.2.2.1, eerste lid, voor zover dat betrekking heeft op het aan een ander ter beschikking stellen van brandstoffen ten behoeve van vervoer, 9.2.2.6a of 9.7.2.3, eerste en tweede lid, 9.7.2.5, derde lid, 9.7.4.12, eerste lid, 9.7.4.13, vierde lid kan het bestuur van de emissieautoriteit een last onder dwangsom opleggen. 
 
 ### Artikel  18.8  
 
@@ -5513,13 +5819,10 @@ b. de procedure die voorafgaand aan het indienen van het verzoek moet worden gev
 
 ### Artikel  18.16s  
 
-1.  In geval van overtreding van het bepaalde bij of krachtens de artikelen 9.2.2.1, eerste lid, voor zover dat betrekking heeft op het aan een ander ter beschikking stellen van brandstoffen ten behoeve van vervoer, 9.2.2.6a of 12.31, vierde lid of vijfde lid, onderdeel b, kan het bestuur van de emissieautoriteit de overtreder een bestuurlijke boete opleggen.   
+1.  In geval van overtreding van het bepaalde bij of krachtens de artikelen 9.2.2.1, eerste lid, voor zover dat betrekking heeft op het aan een ander ter beschikking stellen van brandstoffen ten behoeve van vervoer, 9.2.2.6a 9.7.2.3, eerste en tweede lid, 9.7.2.5, eerste lid, onderdeel a, en derde lid, 9.7.4.2, 9.7.4.3, 9.7.4.4, eerste, tweede, derde, vierde en vijfde lid, 9.7.4.5, eerste en tweede lid, 9.7.4.8, tweede, derde, vierde, en vijfde lid, 9.7.4.12, eerste, tweede, derde en vierde lid, en 9.7.4.13, vierde lid, kan het bestuur van de emissieautoriteit de overtreder een bestuurlijke boete opleggen.   
 2.  De boete, bedoeld in het eerste lid, bedraagt ten hoogste € 450 000 per overtreding, of, indien de omzet van de betrokken onderneming in het boekjaar voorafgaand aan het jaar waarin de beschikking tot oplegging van de bestuurlijke boete is gegeven meer dan € 4 500 000 bedraagt, ten hoogste 10% van die omzet.   
-3.  Artikel 18.16e, vijfde lid, is van overeenkomstige toepassing.  
-
-### Artikel  18.16t  
-
-Indien de overtreding, bedoeld in artikel 18.16s, eerste lid, betrekking heeft op het in een bepaald kalenderjaar aan een ander ter beschikking stellen van de krachtens artikel 9.2.2.1, eerste lid, voorgeschreven hoeveelheid brandstoffen ten behoeve van vervoer, die voldoen aan de krachtens artikel 9.2.2.6a gestelde eisen, wordt naast de bestuurlijke boete een verhoging van de hoeveelheid van die in een volgend kalenderjaar aan een ander ter beschikking te stellen brandstoffen opgelegd ter grootte van de hoeveelheid van die te weinig aan een ander ter beschikking gestelde brandstoffen. 
+3.  Artikel 18.16e, vijfde lid, is van overeenkomstige toepassing.   
+4.  Het bestuur van de emissieautoriteit kan, indien een inboeker drie of meer overtredingen van de artikelen 9.7.4.2, 9.7.4.3, 9.7.4.4, eerste, tweede, derde, vierde en vijfde lid, 9.7.4.5, eerste en tweede lid, 9.7.4.8, tweede, derde, vierde, en vijfde lid, 9.7.4.12, eerste lid, of 9.7.4.13, vierde lid, heeft begaan, bepalen dat die inboeker gedurende een door het bestuur te bepalen termijn geen hernieuwbare energie vervoer kan inboeken op grond van artikel 9.7.4.1. 
 
 ### Artikel  18.17  
 

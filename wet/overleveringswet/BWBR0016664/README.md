@@ -26,7 +26,7 @@ b. Europees aanhoudingsbevel: de schriftelijk vastgelegde beslissing van een jus
 
 c. vrijheidsstraffen: door de rechter op te leggen straffen met een vrijheidsbenemend karakter alsmede de door deze naast of in plaats van een straf op te leggen maatregelen strekkende tot vrijheidsbeneming;  
 
-d. opgeëiste persoon: de persoon op wie een Europees aanhoudingsbevel een signalering in het Schengen-informatiesysteem of via Interpol strekkende tot aanhouding en overlevering betrekking heeft;  
+d. opgeëiste persoon: de persoon op wie een Europees aanhoudingsbevel, een signalering in het Schengen-informatiesysteem of via Interpol strekkende tot aanhouding en overlevering betrekking heeft;  
 
 e. officier van justitie: voor zover aldus vermeld, elke officier van justitie, en overigens de officier van justitie bij het arrondissementsparket Amsterdam;  
 
@@ -237,11 +237,20 @@ Een vreemdeling die op grond van artikel 54, vierde lid, van het Wetboek van Str
 ### Artikel  17  
 
 1.  Elke officier van justitie of hulpofficier van justitie is bevoegd de voorlopige aanhouding van een opgeëiste persoon overeenkomstig artikel 15 te bevelen.   
-2.  Kan het optreden van de officier van justitie of de hulpofficier, bedoeld in het eerste lid, niet worden afgewacht, dan is elke opsporingsambtenaar bevoegd de opgeëiste persoon aan te houden onder de verplichting zorg te dragen dat hij zo spoedig mogelijk wordt voorgeleid voor de officier van justitie of de hulpofficier van justitie.   
-3.  Na de opgeëiste persoon te hebben gehoord, kan elke officier van justitie of hulpofficier bevelen dat hij gedurende drie dagen, te rekenen vanaf het tijdstip van de voorlopige aanhouding, in verzekering gesteld zal blijven. De termijn van inverzekeringstelling kan door de officier van justitie bij het arrondissementsparket te Amsterdam éénmaal met drie dagen worden verlengd.   
-4.  Indien de opgeëiste persoon buiten het arrondissement Amsterdam is aangehouden en in verzekering is gesteld, wordt hij binnen de termijnen van het derde lid overgedragen aan de officier van justitie bij het arrondissementsparket te Amsterdam.   
-5.  Het vierde lid kan buiten toepassing blijven indien de opgeëiste persoon tegenover de officier van justitie in het arrondissement waar hij is aangehouden heeft verklaard, in te stemmen met zijn onmiddellijke overlevering, de officier van justitie bij het arrondissementsparket te Amsterdam heeft beslist dat de opgeëiste persoon ter beschikking zal worden gesteld van de uitvaardigende justitiële autoriteit en de feitelijke overlevering kan plaatsvinden binnen de termijnen van het derde lid.   
-6.  De opgeëiste persoon kan te allen tijde door de officier van justitie bij het arrondissementsparket te Amsterdam in vrijheid worden gesteld.  
+2.  Kan het optreden van de officier van justitie of de hulpofficier, bedoeld in het eerste lid, niet worden afgewacht, dan is elke opsporingsambtenaar bevoegd de opgeëiste persoon aan te houden onder de verplichting zorg te dragen dat hij zo spoedig mogelijk wordt voorgeleid voor de officier van justitie of de hulpofficier van justitie.  
+3. Nadat de opgeëiste persoon is aangehouden, wordt hem onverwijld schriftelijk mededeling gedaan van:
+
+a. het recht een afschrift van het Europees aanhoudingsbevel te ontvangen, bedoeld in artikel 23, derde lid;  
+
+b. het recht op bijstand van een raadsman, bedoeld in de artikelen 30 en 62;  
+
+c. het recht op vertolking, bedoeld in artikel 30, en het recht op vertaling, bedoeld in artikel 23, derde lid, vierde en vijfde volzin;  
+
+d. het recht om gehoord te worden, bedoeld in artikel 24. Aan de opgeëiste persoon die de Nederlandse taal niet of onvoldoende beheerst, wordt de mededeling van rechten in een voor hem begrijpelijke taal gedaan. 
+4.  Na de opgeëiste persoon te hebben gehoord, kan elke officier van justitie of hulpofficier bevelen dat hij gedurende drie dagen, te rekenen vanaf het tijdstip van de voorlopige aanhouding, in verzekering gesteld zal blijven. De termijn van inverzekeringstelling kan door de officier van justitie bij het arrondissementsparket te Amsterdam éénmaal met drie dagen worden verlengd.   
+5.  Indien de opgeëiste persoon buiten het arrondissement Amsterdam is aangehouden en in verzekering is gesteld, wordt hij binnen de termijnen van het vierde lid overgedragen aan de officier van justitie bij het arrondissementsparket te Amsterdam.   
+6.  Het vijfde lid kan buiten toepassing blijven indien de opgeëiste persoon tegenover de officier van justitie in het arrondissement waar hij is aangehouden heeft verklaard, in te stemmen met zijn onmiddellijke overlevering, de officier van justitie bij het arrondissementsparket te Amsterdam heeft beslist dat de opgeëiste persoon ter beschikking zal worden gesteld van de uitvaardigende justitiële autoriteit en de feitelijke overlevering kan plaatsvinden binnen de termijnen van het vierde lid.   
+7.  De opgeëiste persoon kan te allen tijde door de officier van justitie bij het arrondissementsparket te Amsterdam in vrijheid worden gesteld.  
 
 ### Artikel  18  
 
@@ -269,7 +278,7 @@ b. zodra de bewaring twintig dagen heeft geduurd en het Europees aanhoudingsbeve
 
 ### Artikel  21  
 
-1.  De opgeëiste persoon kan op basis van een Europees aanhoudingsbevel dat voldoet aan de vereisten omschreven in artikel 2, zonder verdere formaliteiten worden aangehouden.   
+1.  De opgeëiste persoon kan op basis van een Europees aanhoudingsbevel dat voldoet aan de vereisten omschreven in artikel 2, zonder verdere formaliteiten worden aangehouden. Artikel 17, derde lid, is van overeenkomstige toepassing.   
 2.  Het eerste lid blijft buiten toepassing zolang de opgeëiste persoon in Nederland immuniteit geniet van strafvervolging en van de tenuitvoerlegging van straffen. De uitvaardigende justitiële autoriteit wordt over het bestaan en de aard van de immuniteit onverwijld in kennis gesteld, met het verzoek om bericht zodra de immuniteit is opgeheven.   
 3.  Indien de opgeëiste persoon reeds overeenkomstig artikel 17 voorlopig werd aangehouden, wordt de voorlopige aanhouding omgezet in een aanhouding als bedoeld in het eerste lid, te rekenen vanaf de dag dat het aanhoudingsbevel door de officier van justitie overeenkomstig artikel 20, tweede lid, in behandeling is genomen. De opgeëiste persoon wordt van die omzetting in kennis gesteld, onder vermelding dat de aanhouding voortduurt tot het tijdstip waarop de rechtbank over zijn gevangenhouding beslist.   
 4.  De opgeëiste persoon die overeenkomstig het eerste lid werd aangehouden, wordt binnen vierentwintig uren na zijn aanhouding geleid voor de officier van justitie, of bij diens afwezigheid, voor de hulpofficier van justitie in het arrondissement waar hij werd aangehouden.   

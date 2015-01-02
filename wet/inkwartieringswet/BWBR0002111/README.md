@@ -97,7 +97,7 @@ De beslissing ingevolge het vorige artikel door burgemeester en wethouders te ne
 2.   Indien de verstrekking bestaat uit het beschikbaarstellen van goederen hebben recht op schadeloosstelling: de eigenaar, de beperkt gerechtigde, de pachter, de huurder en de huurkoper van die goederen, voorzover zij dientengevolge schade hebben geleden.    
 3.   Onze Minister is bevoegd, met inachtneming van bij algemene maatregel van bestuur te stellen richtlijnen, tarieven voor de schadeloosstelling voor te schrijven. Indien en voor zover tarieven zijn voorgeschreven, zal de burgemeester dienovereenkomstig de schadeloosstelling vaststellen.    
 4.   Zo geen tarieven zijn voorgeschreven, stelt de burgemeester het bedrag der schadeloosstelling vast met inachtneming van bij algemene maatregel van bestuur te stellen richtlijnen.    
-5.   Tegen de door de burgemeester overeenkomstig het vierde lid van dit artikel vastgestelde schadeloosstelling, kan de rechthebbende op de schadeloosstelling beroep instellen bij de Commissaris van de Koningin, die in hoogste ressort het bedrag der schadeloosstelling bepaalt.    
+5.   Tegen de door de burgemeester overeenkomstig het vierde lid van dit artikel vastgestelde schadeloosstelling, kan de rechthebbende op de schadeloosstelling beroep instellen bij de Commissaris van de Koning, die in hoogste ressort het bedrag der schadeloosstelling bepaalt.    
 6.   De krachtens de voorgaande leden vastgestelde schadeloosstellingen worden voor rekening van het Rijk door de gemeente betaald.   
 
 ### Afdeling  2  

@@ -206,8 +206,8 @@ b. de sedert de stichting van de zaak opgetreden technische en functionele verou
 
 ### Artikel  4.9  
 
-1.  De belasting bedraagt 15% van de voordelen uit een onroerende zaak.   
-2.  In afwijking van het eerste lid, bedraagt de belasting 5% van de voordelen uit een onroerende zaak indien de onroerende zaak een hotel betreft voor zover het genot daarvan krachtens eigendom, bezit of beperkt recht berust bij een niet-natuurlijke persoon.   
+1.  De belasting bedraagt 17,5% van de voordelen uit een onroerende zaak.   
+2.  In afwijking van het eerste lid, bedraagt de belasting 10% van de voordelen uit een onroerende zaak indien de onroerende zaak een hotel betreft voor zover het genot daarvan krachtens eigendom, bezit of beperkt recht berust bij een niet-natuurlijke persoon.   
 3.  Voor de toepassing van het tweede lid wordt onder een hotel verstaan een onroerende zaak die of een complex van onroerende zaken dat bedrijfsmatig door een niet-natuurlijke persoon wordt geëxploiteerd, geheel of nagenoeg geheel gericht is op kortdurend verblijf van toeristen en beschikt over volwaardige gemeenschappelijke hotelvoorzieningen. Bij ministeriële regeling kunnen nadere voorwaarden worden gesteld waaraan een onroerende zaak moet voldoen om voor de toepassing van het tweede lid als hotel te worden aangemerkt.  
 
 ### Artikel  4.10  
@@ -514,7 +514,13 @@ b. een ondernemer die de zetel van zijn bedrijfsuitoefening heeft in de Unie, ge
 
 ### Artikel  6.7h  
 
-1.  De plaats van elektronische diensten als bedoeld in artikel 2a, eerste lid, onderdeel q, van de Wet op de omzetbelasting 1968, die worden verricht voor een andere dan ondernemer die in een openbaar lichaam gevestigd is of daar zijn woonplaats of gebruikelijke verblijfplaats heeft, door een ondernemer die de zetel van zijn bedrijfsuitoefening buiten de BES eilanden heeft gevestigd of daar over een vaste inrichting beschikt van waaruit de dienst wordt verricht, of, bij gebreke van een dergelijke zetel of vaste inrichting, zijn woonplaats of gebruikelijke verblijfplaats buiten de BES eilanden heeft, is de plaats waar de andere dan ondernemer gevestigd is of zijn woonplaats of gebruikelijke verblijfplaats heeft.   
+1.  De plaats van dienst van de volgende diensten die door een ondernemer, een andere dan een BES ondernemer, worden verricht voor een andere dan een ondernemer, is de plaats waar deze ondernemer gevestigd is of zijn woonplaats of gebruikelijke verblijfplaats heeft: 
+
+a. telecommunicatiediensten als bedoeld in artikel 2a, eerste lid, onderdeel r, van de Wet op de omzetbelasting 1968;  
+
+b. radio- en televisieomroepdiensten;  
+
+c. elektronische diensten als bedoeld in artikel 2a, eerste lid, onderdeel q, van de Wet op de omzetbelasting 1968.     
 2.  Het feit dat de dienstverrichter en de afnemer langs elektronische weg berichten uitwisselen, betekent op zich niet dat de verrichte dienst een elektronische dienst is.  
 
 ### Artikel  6.7i  
@@ -535,23 +541,13 @@ f. het beschikbaar stellen van personeel;
 
 g. de verhuur van roerende lichamelijke zaken, met uitzondering van alle vervoermiddelen;  
 
-h. het bieden van toegang tot aardgas- en elektriciteitsdistributiesystemen alsmede het verrichten van transport- en transmissiediensten via deze systemen en het verrichten van andere daarmee rechtstreeks verbonden diensten;  
-
-i. telecommunicatiediensten als bedoeld in artikel 2a, eerste lid, onderdeel r, van de Wet op de omzetbelasting 1968;  
-
-j. radio- en televisieomroepdiensten;  
-
-k. elektronische diensten als bedoeld in artikel 2a, eerste lid, onderdeel q, van de Wet op de omzetbelasting 1968.     
+h. het bieden van toegang tot aardgas- en elektriciteitsdistributiesystemen alsmede het verrichten van transport- en transmissiediensten via deze systemen en het verrichten van andere daarmee rechtstreeks verbonden diensten.     
 2.  In afwijking van het eerste lid worden de diensten, genoemd in dat lid, die worden verricht voor een andere dan ondernemer, verricht in een openbaar lichaam, wanneer het werkelijk gebruik en de werkelijke exploitatie in dat openbaar lichaam plaatsvinden.  
 3.  Het feit dat de dienstverrichter en de afnemer langs elektronische weg berichten uitwisselen, betekent op zich niet dat de verrichte dienst een elektronische dienst is.  
 
 ### Artikel  6.7j  
 
-De hierna genoemde diensten die worden verricht door ondernemers die buiten de BES eilanden wonen of zijn gevestigd dan wel aldaar een vaste inrichting hebben van waaruit de dienst wordt verricht, of die, bij gebreke van een dergelijke zetel of vaste inrichting, hun woonplaats of gebruikelijke verblijfplaats buiten de BES eilanden hebben, en de plaats van die diensten buiten de BES eilanden is gelegen worden aangemerkt als worden zij in het openbaar lichaam van de afnemer verricht, wanneer het werkelijke gebruik en de werkelijke exploitatie in dat openbaar lichaam plaatsvinden: 
-
-a. diensten als bedoeld in artikel 6.7i, eerste lid, onderdelen a tot en met g, die worden verricht voor in dat openbaar lichaam gevestigde lichamen in de zin van deze wet, andere dan ondernemers;  
-
-b. diensten als bedoeld in artikel 6.7i, eerste lid, onderdelen i en j, die worden verricht voor andere dan ondernemers die in dat openbaar lichaam gevestigd zijn of er hun woonplaats of gebruikelijke verblijfplaats hebben.   
+Diensten als bedoeld in artikel 6.7i, eerste lid, onderdelen a tot en met g, die worden verricht voor in een openbaar lichaam gevestigde lichamen in de zin van deze wet, andere dan ondernemers, die worden verricht door ondernemers die buiten de BES eilanden wonen of zijn gevestigd dan wel aldaar een vaste inrichting hebben van waaruit de dienst wordt verricht, of die, bij gebreke van een dergelijke zetel of vaste inrichting, hun woonplaats of gebruikelijke verblijfplaats buiten de BES eilanden hebben, en waarvan de plaats van die diensten buiten de BES eilanden is gelegen, worden aangemerkt als worden zij in het openbaar lichaam van de afnemer verricht, wanneer het werkelijke gebruik en de werkelijke exploitatie in dat openbaar lichaam plaatsvinden.
 
 ### Artikel  6.7k  
 
