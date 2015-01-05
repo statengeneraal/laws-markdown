@@ -195,11 +195,9 @@ f. *restitutie*: elk bedrag dat ingevolge een EU-verplichting als compenserend b
 
 g. *subsidie*: elk bedrag dat ingevolge een EU-verplichting als compenserend bedrag, als restitutie of onder welke benaming ook, ter zake van de invoer van een landbouwproduct wordt verstrekt;  
 
-h. *bedrijfslichaam*: bedrijfslichaam als bedoeld in artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie;  
+h. *Verordening (EG) nr. 2173/2005:* Verordening (EG) nr. 2173/2005 van de Raad van 20 december 2005 inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2005, L 347);  
 
-i. *Verordening (EG) nr. 2173/2005:* Verordening (EG) nr. 2173/2005 van de Raad van 20 december 2005 inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2005, L 347);  
-
-j. *Verordening (EG) nr. 1024/2008:* Verordening (EG) nr. 1024/2008 van de Commissie van 17 oktober 2008 tot vaststelling van gedetailleerde maatregelen ter uitvoering van Verordening (EG) nr. 2173/2005 van de Raad inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2008, L 277).  
+i. *Verordening (EG) nr. 1024/2008:* Verordening (EG) nr. 1024/2008 van de Commissie van 17 oktober 2008 tot vaststelling van gedetailleerde maatregelen ter uitvoering van Verordening (EG) nr. 2173/2005 van de Raad inzake de opzet van een FLEGT-vergunningensysteem voor de invoer van hout in de Europese Gemeenschap (PbEU 2008, L 277).  
 
 ### Artikel  3:2  
 
@@ -218,11 +216,6 @@ b. op aanvraag ter zake van de invoer van een landbouwproduct een subsidie te ve
 c. regelen te stellen met betrekking tot de aanspraak op restitutie of subsidie, de bij het aanvragen daarvan te verstrekken gegevens of over te leggen bewijsstukken, de vaststelling van de grondslagen waarnaar de berekening van de uit te keren bedragen plaatsvindt en de wijze van verstrekking van de restituties;  
 
 d. sancties op te leggen als bedoeld in de artikelen 48 en 49 van Verordening (EG) nr. 612/2009 van de Commissie van 7 juli 2009 houdende gemeenschappelijke uitvoeringsbepalingen van het stelsel van restituties bij uitvoer voor landbouwproducten (PbEU 2009, L 186).   
-
-### Artikel  3:4  
-
-1.  Onze minister kan bevoegdheden welke hem ingevolge de artikelen 3:2 en 3:3 toekomen, aan het bestuur van een door hem aan te wijzen bedrijfslichaam overdragen.   
-2.  Wanneer een bestuur van een bedrijfslichaam ingevolge het eerste lid wordt aangewezen, kan het desbetreffende bestuur bij verordening, voor zover het voor een goede uitvoering van een EU-verplichting nodig is, met betrekking tot de uitoefening van de bevoegdheden, bedoeld in de artikelen 3:2 en 3:3, nadere regels stellen. Zodanige verordening behoeft de goedkeuring van Onze minister.  
 
 ### Artikel  3:5  
 

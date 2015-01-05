@@ -34,9 +34,11 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 –  *burgerservicenummer:* burgerservicenummer als bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer;  
 
-–  *CAK:* het CAK, genoemd in artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten;  
+–  *CAK:* het CAK, genoemd in artikel 6.1.1, eerste lid, van de Wet langdurige zorg;  
 
 –  *calamiteit:* niet-beoogde of onverwachte gebeurtenis, die betrekking heeft op de kwaliteit van een voorziening en die tot een ernstig schadelijk gevolg voor of de dood van een cliënt heeft geleid;  
+
+–  *CIZ:* het CIZ, genoemd in artikel 7.1.1, eerste lid, van de Wet langdurige zorg; 
 
 –  *cliënt:* persoon die gebruik maakt van een algemene voorziening of aan wie een maatwerkvoorziening of persoonsgebonden budget is verstrekt of door of namens wie een melding is gedaan als bedoeld in artikel 2.3.2, eerste lid;  
 
@@ -92,9 +94,9 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 –  *toezichthoudende ambtenaar:* persoon als bedoeld in de artikelen 4.3.1, 6.1 en 6.2;  
 
-–  *vertrouwenspersoon:* vertrouwenspersoon als bedoeld in artikel 2.6, tweede lid, van de Jeugdwet;.  
+–  *vertegenwoordiger:* persoon of rechtspersoon die een cliënt vertegenwoordigt die niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake; 
 
-–  *vertegenwoordiger:* persoon of rechtspersoon die een cliënt vertegenwoordigt die niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake;  
+–  *vertrouwenspersoon:* vertrouwenspersoon als bedoeld in artikel 2.6, tweede lid, van de Jeugdwet;  
 
 –  *voorziening:* algemene voorziening of maatwerkvoorziening;  
 
@@ -104,7 +106,6 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 2.  Personen of rechtspersonen die als vertegenwoordiger als bedoeld in het eerste lid kunnen optreden zijn de curator, de mentor of de gevolmachtigde van de cliënt, dan wel, indien zodanige persoon of rechtspersoon ontbreekt, diens echtgenoot, de geregistreerde partner of andere levensgezel van de cliënt, tenzij deze persoon dat niet wenst, dan wel, indien ook zodanige persoon ontbreekt, diens ouder, kind, broer of zus, tenzij deze persoon dat niet wenst.  
 
 ### Artikel  1.1.2  
-Treedt in werking per 01-01-2015 
 
 1.  Voor de toepassing van deze wet en de daarop berustende bepalingen wordt gelijkgesteld met: 
 
@@ -134,7 +135,6 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 ####Algemene bepalingen
 
 ### Artikel  1.2.1  
-Treedt in werking per 01-01-2015 
 
 Een ingezetene van Nederland komt overeenkomstig de bepalingen van deze wet in aanmerking voor een maatwerkvoorziening, bestaande uit: 
 
@@ -145,7 +145,6 @@ b. beschermd wonen, te verstrekken door het college van de gemeente tot welke hi
 c. opvang, te verstrekken door het college van de gemeente tot welke hij zich wendt, indien hij de thuissituatie heeft verlaten, al dan niet in verband met risico’s voor zijn veiligheid als gevolg van huiselijk geweld, en niet in staat is zich op eigen kracht, met gebruikelijke hulp, met mantelzorg of met hulp van andere personen uit zijn sociale netwerk te handhaven in de samenleving.   
 
 ### Artikel  1.2.2  
-Treedt in werking per 01-01-2015 
 
 1.  Een vreemdeling komt voor het verstrekken van een maatwerkvoorziening slechts in aanmerking indien hij rechtmatig verblijf houdt in de zin van artikel 8, onderdelen a tot en met e en l, van de Vreemdelingenwet 2000.   
 2.  Een vreemdeling komt in afwijking van het eerste lid niet in aanmerking voor een maatwerkvoorziening bestaande uit opvang in de gevallen, bedoeld in artikel 24, tweede lid, van Richtlijn 2004/38/EG. De eerste volzin is niet van toepassing op opvang in verband met risico’s voor de veiligheid van betrokkene als gevolg van huiselijk geweld.   
@@ -161,7 +160,6 @@ Treedt in werking per 01-01-2015
 ####Opdracht gemeente
 
 ### Artikel  2.1.1  
-Treedt in werking per 01-01-2015 
 
 1.  Het gemeentebestuur draagt zorg voor de maatschappelijke ondersteuning.   
 2.  Het gemeentebestuur draagt zorg voor de kwaliteit en de continuïteit van de voorzieningen.  
@@ -205,7 +203,7 @@ f. mogelijkheden om met inzet van begeleiding, waaronder dagbesteding, mensen zo
 
 g. de wijze waarop ingezetenen worden geïnformeerd over de personen die kunnen optreden als vertegenwoordiger van een cliënt die niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.     
 5.  In het plan wordt aangegeven op welke wijze de gemeente artikel 2.1.7 toepast dan wel de reden om dat artikel niet toe te passen.   
-6.  In het plan wordt aangegeven welke resultaten het gemeentebestuur in de door het plan bestreken periode wenst te behalen, welke criteria worden gehanteerd om te meten hoe deze resultaten zijn behaald en welke outcomecriteria worden gehanteerd ten aanzien van aanbieders.  
+6.  In het plan wordt aangegeven welke resultaten het gemeentebestuur in de door het plan bestreken periode wenst te behalen, welke criteria worden gehanteerd om te meten hoe deze resultaten zijn behaald en welke prestatie-indicatoren worden gehanteerd ten aanzien van aanbieders.  
 
 ### Artikel  2.1.3  
 
@@ -218,9 +216,9 @@ b. op welke wijze de hoogte van een persoonsgebonden budget wordt vastgesteld wa
 
 c. welke eisen worden gesteld aan de kwaliteit van voorzieningen, eisen met betrekking tot de deskundigheid van beroepskrachten daaronder begrepen;  
 
-e. ten aanzien van welke voorzieningen een regeling voor de afhandeling van klachten van cliënten vereist is;  
+d. ten aanzien van welke voorzieningen een regeling voor de afhandeling van klachten van cliënten vereist is;  
 
-f. ten aanzien van welke voorzieningen een regeling voor medezeggenschap van cliënten over voorgenomen besluiten van de aanbieder die voor de gebruikers van belang zijn, vereist is.     
+e. ten aanzien van welke voorzieningen een regeling voor medezeggenschap van cliënten over voorgenomen besluiten van de aanbieder die voor de gebruikers van belang zijn, vereist is.     
 3.  In de verordening wordt bepaald op welke wijze ingezetenen, waaronder in ieder geval cliënten of hun vertegenwoordigers, worden betrokken bij de uitvoering van deze wet, waarbij in ieder geval wordt geregeld de wijze waarop zij: 
 
 a. in de gelegenheid worden gesteld voorstellen voor het beleid te doen;  
@@ -292,12 +290,10 @@ Bij verordening kan worden bepaald dat door het college aan personen met een bep
 ####Algemene maatregelen en algemene voorzieningen
 
 ### Artikel  2.2.1  
-Treedt in werking per 01-01-2015 
 
 Het college bevordert en treft de algemene maatregelen om de sociale samenhang, de toegankelijkheid van voorzieningen, diensten en ruimten voor mensen met een beperking, de veiligheid en leefbaarheid in de gemeente te bevorderen, alsmede huiselijk geweld te voorkomen en te bestrijden, die noodzakelijk zijn ter uitvoering van het plan, bedoeld in artikel 2.1.2, tweede lid. 
 
 ### Artikel  2.2.2  
-Treedt in werking per 01-01-2015 
 
 1.  Het college bevordert en treft de algemene maatregelen ter bevordering van mantelzorg en vrijwilligerswerk en ter ondersteuning van mantelzorgers en vrijwilligers, die noodzakelijk zijn ter uitvoering van het plan, bedoeld in artikel 2.1.2, tweede lid.   
 2.  Het college bevordert en treft voorts de algemene voorzieningen die ter uitvoering van het plan, bedoeld in artikel 2.1.2, tweede lid, noodzakelijk zijn om de onderscheiden categorieën van mantelzorgers en vrijwilligers zoveel mogelijk in staat te stellen hun taken als mantelzorger en vrijwilliger uit te voeren.  
@@ -320,7 +316,6 @@ b. op ieder moment van de dag telefonisch of elektronisch anoniem een luisterend
 ####Maatwerkvoorzieningen
 
 ### Artikel  2.3.1  
-Treedt in werking per 01-01-2015 
 
 Het college draagt er zorg voor dat aan personen die daarvoor in aanmerking komen, een maatwerkvoorziening wordt verstrekt. 
 
@@ -383,10 +378,11 @@ e. betaalde werkzaamheden,
 
 f. scholing die de cliënt volgt of kan volgen,  
 
-g. ondersteuning ingevolge de Wet werk en bijstand,  
+g. ondersteuning ingevolge de Participatiewet,  
 
 h. de godsdienstige gezindheid, de levensovertuiging en de culturele achtergrond van de cliënt.   
-6. Het college kan een maatwerkvoorziening weigeren indien de cliënt aanspraak heeft op verblijf en daarmee samenhangende zorg in een instelling op grond van de Algemene Wet Bijzondere Ziektekosten, dan wel er redenen zijn om aan te nemen dat de cliënt daarop aanspraak kan doen gelden en weigert mee te werken aan het verkrijgen van een besluit dienaangaande. 
+6. Het college kan een maatwerkvoorziening weigeren indien de cliënt aanspraak heeft op verblijf en daarmee samenhangende zorg in een instelling op grond van de Wet langdurige zorg, dan wel er redenen zijn om aan te nemen dat de cliënt daarop aanspraak kan doen gelden en weigert mee te werken aan het verkrijgen van een besluit dienaangaande.  
+7.  Het zesde lid geldt niet voor verzekerden als bedoeld in artikel 11.1.1, derde lid, van de Wet langdurige zorg. 
 
 ### Artikel  2.3.6  
 
@@ -484,7 +480,7 @@ Roerende zaken die aan de cliënt in gebruik zijn verstrekt als onderdeel van ee
 
 ### Artikel  2.5.3  
 
-Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het betreffende jaar zijn behaald op basis van de in het plan, bedoeld in artikel 2.1.2, zesde lid, gestelde resultaten en hierbij uitgaande van de in het plan aangegeven criteria om resultaten te meten en de ten aanzien van aanbieders gehanteerde outcomecriteria. 
+Het college rapporteert jaarlijks aan de gemeenteraad welke resultaten in het voorafgaande jaar zijn behaald op basis van de in het plan, bedoeld in artikel 2.1.2, zesde lid, gestelde resultaten en hierbij uitgaande van de in het plan aangegeven criteria om resultaten te meten en de ten aanzien van aanbieders gehanteerde prestatie-indicatoren. 
 
 ### §  6  
 
@@ -565,7 +561,7 @@ d. verstrekt met respect voor en inachtneming van de rechten van de cliënt.
 
 ### Artikel  3.2  
 
-1.  Indien de aanbieder een voorziening levert als bedoeld in artikel 2.1.3, tweede lid, onderdelen e en f, treft de aanbieder: 
+1.  Indien de aanbieder een voorziening levert als bedoeld in artikel 2.1.3, tweede lid, onderdelen d en e, treft de aanbieder: 
 
 a. een regeling voor de afhandeling van klachten van cliënten ten aanzien van gedragingen van de aanbieder jegens een cliënt;  
 
@@ -604,7 +600,6 @@ b. geweld bij de verstrekking van een voorziening.
 ####Advies- en meldpunt huiselijk geweld en kindermishandeling
 
 ### Artikel  4.1.1  
-Treedt in werking per 01-01-2015 
 
 1.  Het college draagt zorg voor de organisatie van een advies- en meldpunt huiselijk geweld en kindermishandeling. Artikel 2.6.1 is van overeenkomstige toepassing.   
 2.  Het AMHK oefent de volgende taken uit: 
@@ -632,14 +627,12 @@ g. het op de hoogte stellen van degene die een melding heeft gedaan, van de stap
 ####Kwaliteit en rechtspositie
 
 ### Artikel  4.2.1  
-Treedt in werking per 01-01-2015 
 
 1.  Het AMHK draagt er zorg voor dat de uitvoering van de taken, bedoeld in artikel 4.1.1, van goede kwaliteit is.   
 2.  Het AMHK organiseert zich op zodanige wijze, voorziet zich kwalitatief en kwantitatief zodanig van personeel en materieel en draagt zorg voor een zodanige verantwoordelijkheidstoedeling, dat een en ander leidt of redelijkerwijs moet leiden tot een goede uitvoering van de taken.   
 3.  Het AMHK neemt bij zijn werkzaamheden de zorg van een goede hulpverlener in acht en handelt daarbij in overeenstemming met de op hem rustende verantwoordelijkheid, voortvloeiende uit de voor die hulpverlener geldende professionele standaard.  
 
 ### Artikel  4.2.2  
-Treedt in werking per 01-01-2015 
 
 1.  Het uitvoeren van artikel 4.2.1, tweede lid, omvat mede de systematische bewaking, beheersing en verbetering van de kwaliteit.   
 2.  Ter uitvoering van het eerste lid draagt het AMHK zorg voor: 
@@ -651,14 +644,12 @@ b. het aan de hand van de gegevens, bedoeld onder a, op systematische wijze toet
 c. het op basis van de uitkomst van de toetsing, bedoeld onder b, zo nodig veranderen van de wijze waarop artikel 4.2.1, tweede lid, wordt uitgevoerd.    
 
 ### Artikel  4.2.3  
-Treedt in werking per 01-01-2015 
 
 1.  Bij algemene maatregel van bestuur kunnen, indien het niveau van de uitvoering van de taken dit vereist, nadere regels worden gesteld met betrekking tot de uitvoering van de artikelen 4.2.1, tweede lid, en 4.2.2.   
 2.  Indien uitvoering van de artikelen 4.2.1, tweede lid, en 4.2.2 overeenkomstig de op grond van het eerste lid gestelde regels niet blijkt te leiden tot een goede kwaliteit van de uitvoering van de taken, kunnen bij algemene maatregel van bestuur tevens nadere regels worden gesteld met betrekking tot artikel 4.2.1, eerste lid.   
 3.  De voordracht voor een krachtens het eerste of tweede lid vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Minister en Onze Minister van Veiligheid en Justitie te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.  
 
 ### Artikel  4.2.4  
-Treedt in werking per 01-01-2015 
 
 1.  Het AMHK is in het bezit van een verklaring omtrent het gedrag als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens van personen die in zijn opdracht beroepsmatig en niet-incidenteel als vrijwilliger in contact kunnen komen met personen die bij een melding aan het AMHK betrokken zijn.   
 2.  Een verklaring als bedoeld in het eerste lid is niet eerder afgegeven dan drie maanden voor het tijdstip waarop betrokkene voor het AMHK ging werken.   
@@ -680,7 +671,6 @@ f. de openbaarheid van gegevens, en
 g. de verantwoordelijkheden van degenen die gegevens aanleveren ten behoeve van het register.    
 
 ### Artikel  4.2.5  
-Treedt in werking per 01-01-2015 
 
 1.  Het AMHK doet aan de ingevolge artikel 4.3.1 met het toezicht belaste ambtenaren onverwijld melding van: 
 
@@ -690,7 +680,6 @@ b. geweld bij de uitvoering van de taken, bedoeld in artikel 4.1.1, tweede en de
 2.  Het AMHK verstrekt bij en naar aanleiding van een melding als bedoeld in het eerste lid aan de ingevolge artikel 4.3.1 met toezicht belaste ambtenaren de gegevens, daaronder begrepen persoonsgegevens, gegevens betreffende de gezondheid en andere bijzondere persoonsgegevens, die voor het onderzoeken van de melding noodzakelijk zijn.  
 
 ### Artikel  4.2.6  
-Treedt in werking per 01-01-2015 
 
 1.  Het AMHK stelt een vertrouwenspersoon in de gelegenheid zijn taak uit te oefenen.   
 2.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de taken en bevoegdheden van vertrouwenspersonen en de verplichtingen van het AMHK.   
@@ -699,7 +688,6 @@ Treedt in werking per 01-01-2015
 5.  Indien de rechtspersoon of een ingevolge artikel 4.3.1 met het toezicht belaste ambtenaar redelijkerwijs mag vermoeden dat een vertrouwenspersoon niet langer voldoet aan de eisen voor het afgeven van een verklaring als bedoeld in het derde lid, verlangt deze dat die vertrouwenspersoon zo spoedig mogelijk opnieuw een verklaring als bedoeld in het derde lid overlegt, die niet ouder is dan drie maanden.  
 
 ### Artikel  4.2.7  
-Treedt in werking per 01-01-2015 
 
 1.  Het AMHK treft een regeling voor de behandeling van klachten over gedragingen van het AMHK of van voor hem werkzame personen jegens andere personen in het kader van de uitvoering van de taken van het AMHK. Het AMHK brengt de regeling op passende wijze onder de aandacht van de jeugdigen, ouders en pleegouders.   
 2.  De in het eerste lid bedoelde regeling: 
@@ -724,17 +712,14 @@ b. door een nabestaande, indien de onder a bedoelde persoon is overleden.
 5.  Het AMHK deelt de klager en de klachtencommissie, bedoeld in het tweede lid, onderdeel a, binnen een maand na ontvangst van het in het tweede lid, onderdeel c, bedoelde oordeel van de klachtencommissie schriftelijk mee of hij naar aanleiding van dat oordeel maatregelen zal nemen en zo ja welke. Bij afwijking van de in de eerste volzin genoemde termijn, doet het AMHK daarvan met redenen omkleed mededeling aan de klager en de klachtencommissie, onder vermelding van de termijn waarbinnen het AMHK zijn standpunt aan hen kenbaar zal maken.  
 
 ### Artikel  4.2.8  
-Treedt in werking per 01-01-2015 
 
 Indien een klacht zich richt op een ernstige situatie met een structureel karakter, stelt de klachtencommissie het AMHK daarvan in kennis. Indien de klachtencommissie niet is gebleken dat het AMHK ter zake maatregelen heeft getroffen, meldt de klachtencommissie deze klacht aan de ingevolge artikel 4.3.1 met het toezicht belaste ambtenaren. Onder een klacht over een ernstige situatie wordt verstaan een klacht over een situatie waarbij sprake is van onverantwoorde hulp. 
 
 ### Artikel  4.2.9  
-Treedt in werking per 01-01-2015 
 
 De artikelen 4.2.7 en 4.2.8 zijn niet van toepassing op klachten ten aanzien van jeugdigen die op grond van een andere wet onvrijwillig in een accommodatie zijn opgenomen, voor zover deze overeenkomstig een bijzondere wettelijke regeling door een klachtencommissie kunnen worden behandeld. 
 
 ### Artikel  4.2.10  
-Treedt in werking per 01-01-2015 
 
 1.  Het AMHK stelt jaarlijks een verslag op over de naleving van deze wet in het voorafgaande jaar met betrekking tot regels omtrent de kwaliteit van de uitvoering van de taken en het klachtrecht.   
 2.  In het in het eerste lid bedoelde verslag geeft het AMHK in ieder geval aan: 
@@ -761,7 +746,6 @@ j. de aard van de maatregelen, bedoeld in artikel 4.2.7, vijfde lid.
 3.  Bij regeling van Onze Minister en Onze Minister van Veiligheid en Justitie kunnen nadere regels worden gesteld met betrekking tot het verslag.  
 
 ### Artikel  4.2.11  
-Treedt in werking per 01-01-2015 
 
 1.  Het AMHK maakt binnen tien dagen na vaststelling van het verslag, bedoeld in artikel 4.2.10, eerste lid, doch uiterlijk voor 1 juni van het jaar volgend op het jaar waarop het verslag ziet, de volgende zaken openbaar: 
 
@@ -778,7 +762,6 @@ d. de klachtenregeling, bedoeld in artikel 4.2.7, eerste lid, en van andere voor
 5.  Het AMHK zendt het verslag voor 1 juni van het jaar van vaststelling aan Onze Minister en Onze Minister van Veiligheid en Justitie en aan de ingevolge artikel 4.3.1 met het toezicht belaste ambtenaar, alsmede aan organisaties die in de regio die in algemene zin de belangen behartigen van personen ten behoeve van wie hij zijn taken uitvoert.  
 
 ### Artikel  4.2.12  
-Treedt in werking per 01-01-2015 
 
 1.  Het AMHK verstrekt kosteloos gegevens aan het college, aan Onze Minister en aan Onze Minister van Veiligheid en Justitie, ten behoeve van de verwerking, bedoeld in artikel 7.4.1, eerste en tweede lid, van de Jeugdwet. Deze verstrekking kan zowel een structureel als incidenteel karakter hebben.   
 2.  Op de in het eerste lid bedoelde gegevens is artikel 7.4.4 van de Jeugdwet van overeenkomstige toepassing.   
@@ -786,12 +769,10 @@ Treedt in werking per 01-01-2015
 4.  Bij of krachtens de in het derde lid bedoelde maatregel kan worden bepaald dat het AMHK de in het eerste lid bedoelde gegevens op een bij of krachtens die maatregel aangewezen wijze bij Onze Minister en Onze Minister van Veiligheid en Justitie of een door hen aan te wijzen instantie indient.  
 
 ### Artikel  4.2.13  
-Treedt in werking per 01-01-2015 
 
 Het AMHK stelt overeenkomstig door Onze Minister en Onze Minister van Veiligheid en Justitie te stellen regels de begroting, de balans en de resultatenrekening, alsmede de daarbij behorende toelichting vast en maakt deze op door Onze Minister en Onze Minister van Veiligheid en Justitie te bepalen wijze openbaar. 
 
 ### Artikel  4.2.14  
-Treedt in werking per 01-01-2015 
 
 Het AMHK verstrekt aan Onze Minister en Onze Minister van Veiligheid en Justitie de bij regeling van Onze Minister en Onze Minister van Veiligheid en Justitie omschreven gegevens betreffende de exploitatie van het AMHK. In de regeling kan worden bepaald dat de gegevens worden verstrekt aan een daarin aangewezen bestuursorgaan. 
 
@@ -800,13 +781,11 @@ Het AMHK verstrekt aan Onze Minister en Onze Minister van Veiligheid en Justitie
 ####Toezicht en handhaving
 
 ### Artikel  4.3.1  
-Treedt in werking per 01-01-2015 
 
 1.  Met het toezicht op de naleving van de bij of krachtens deze wet met betrekking tot het AMHK gestelde regels zijn belast de door Onze Minister en Onze Minister van Veiligheid en Justitie aangewezen ambtenaren.   
 2.  De met het toezicht belaste ambtenaren zijn, voor zover dat voor de vervulling van hun taak noodzakelijk is en in afwijking van artikel 5:20, tweede lid, van de Algemene wet bestuursrecht, bevoegd tot inzage van de dossiers. Voor zover de betrokken beroepsbeoefenaar uit hoofde van zijn beroep tot geheimhouding van het dossier verplicht is, geldt gelijke verplichting voor de betrokken ambtenaar.  
 
 ### Artikel  4.3.2  
-Treedt in werking per 01-01-2015 
 
 1.  Indien Onze Minister of Onze Minister van Veiligheid en Justitie van oordeel is dat een AMHK deze wet of de daarop berustende bepalingen niet of in onvoldoende mate of op onjuiste wijze naleeft, kan hij het AMHK een schriftelijke aanwijzing geven.   
 2.  In de aanwijzing geeft Onze Minister die het aangaat, met redenen omkleed aan welke maatregelen het AMHK moet nemen met het oog op de naleving van het bepaalde bij of krachtens deze wet.   
@@ -816,14 +795,12 @@ Treedt in werking per 01-01-2015
 6.  Mandaat tot het verlengen van de geldigheidsduur van een bevel wordt niet verleend aan een ingevolge artikel 4.3.1 met het toezicht belaste ambtenaar.  
 
 ### Artikel  4.3.3  
-Treedt in werking per 01-01-2015 
 
 1.  Onze Minister en Onze Minister van Veiligheid en Justitie zijn beiden bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de artikelen 4.2.13 en 4.2.14 en van een krachtens artikel 4.3.2 gegeven aanwijzing of bevel.   
 2.  Onze Minister en Onze Minister van Veiligheid en Justitie zijn beiden bevoegd tot oplegging van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens artikel 4.2.7, eerste, tweede, derde en vijfde lid.   
 3.  Onze Minister en Onze Minister van Veiligheid en Justitie zijn beiden bevoegd een last onder dwangsom op te leggen aan de betrokken beroepsbeoefenaar die geen medewerking verleent aan de inzage van dossiers, bedoeld in artikel 9.2, derde lid, van de Jeugdwet.  
 
 ### Artikel  4.3.4  
-Treedt in werking per 01-01-2015 
 
 1.  Onze Minister en Onze Minister van Veiligheid en Justitie zijn beiden bevoegd een bestuurlijke boete van ten hoogste € 6.700,– op te leggen ter zake van een gedraging van een AMHK die in strijd is met een krachtens artikelen 4.3.2 gegeven aanwijzing, voor zover deze betreft het niet of onvoldoende naleven van artikel 4.2.10, tweede lid, onderdelen d tot en met j.   
 2.  Onze Minister en Onze Minister van Veiligheid en Justitie zijn beiden bevoegd een bestuurlijke boete van ten hoogste € 33.500,– op te leggen ter zake van een gedraging van een AMHK die in strijd is met het bepaalde bij of krachtens de artikelen 4.2.4, 4.2.5 of 4.2.11.   
@@ -845,7 +822,11 @@ Treedt in werking per 01-01-2015
 2.  Het college is bevoegd tot het verwerken van persoonsgegevens van de mantelzorger van de cliënt die noodzakelijk zijn om vast te stellen welke hulp deze aan de cliënt biedt of kan bieden, voor zover deze zijn verkregen van de mantelzorger of van de cliënt en noodzakelijk zijn voor de uitvoering van artikel 2.3.2, 2.3.3, 2.3.5, 2.3.6, 2.3.9, 2.3.10, 2.4.1 of 2.4.3 dan wel de uitvoering van de verordening, bedoeld in artikel 2.1.6.   
 3.  Het college is bevoegd tot het verwerken van persoonsgegevens van andere personen in het sociale netwerk van de cliënt dan die bedoeld in het eerste en tweede lid die noodzakelijk zijn om vast te stellen welke hulp die deze aan de cliënt bieden of kunnen bieden, voor zover deze zijn verkregen van betrokkene of van de cliënt en noodzakelijk zijn voor de uitvoering van artikel 2.3.2, 2.3.3, 2.3.5 of 2.3.6, 2.3.9, 2.3.10, 2.4.1 of 2.4.3.   
 4.  Het college is voorts, voor zover betrokkene daarvoor zijn ondubbelzinnige toestemming heeft verleend, bevoegd persoonsgegevens van de cliënt, waaronder persoonsgegevens betreffende de gezondheid die noodzakelijk zijn voor de beoordeling van de behoefte van de cliënt aan ondersteuning van zijn participatie of zelfredzaamheid dan wel opvang of beschermd wonen, alsmede persoonsgegevens van diens echtgenoot, ouders, inwonende kinderen en andere huisgenoten die noodzakelijk zijn met het oog op een goede afstemming van te verlenen ondersteuning op hulp aan die personen, die het college heeft verkregen ten behoeve van de uitvoering van de taken die bij of krachtens de Jeugdwet, de Participatiewet en de Wet gemeentelijke schuldhulpverlening aan het college zijn opgedragen, tevens te verwerken voor zover dat noodzakelijk is voor de uitvoering van artikel 2.3.2, 2.3.3, 2.3.5, 2.3.6, 2.3.9, 2.3.10, 2.4.1 of 2.4.3.   
-5.  Het college is voorts, voor zover betrokkene daarvoor zijn ondubbelzinnige toestemming heeft verleend, bevoegd tot het verwerken van persoonsgegevens van de cliënt, waaronder persoonsgegevens betreffende de gezondheid die noodzakelijk zijn voor de beoordeling van diens behoefte aan ondersteuning van zijn participatie of zelfredzaamheid dan wel opvang of beschermd wonen, voor zover deze met toepassing van artikel 5.2.5 zijn verkregen van een zorgverzekeraar of een zorgaanbieder als bedoeld in de Zorgverzekeringswet of van het indicatieorgaan, bedoeld in artikel 9b, eerste lid, van de Algemene Wet Bijzondere Ziektekosten, en noodzakelijk zijn voor de uitvoering van artikel 2.3.3, 2.3.5, 2.3.6, 2.3.9, 2.3.10, 2.4.1 of 2.4.3.   
+5.  Het college is voorts bevoegd tot het verwerken van persoonsgegevens van de cliënt, waaronder persoonsgegevens betreffende de gezondheid die noodzakelijk zijn voor de beoordeling van diens behoefte aan ondersteuning van zijn participatie of zelfredzaamheid dan wel opvang of beschermd wonen, indien: 
+
+a. de betrokkene daarvoor zijn ondubbelzinnige toestemming heeft verleend, de persoonsgegevens met toepassing van artikel 5.2.5, eerste en tweede lid, zijn verkregen van een zorgverzekeraar of een zorgaanbieder als bedoeld in de Zorgverzekeringswet, en noodzakelijk zijn voor de uitvoering van de artikelen 2.3.2, 2.3.3, 2.3.5, 2.3.6, 2.3.9, 2.3.10, 2.4.1 of 2.4.3; of  
+
+b. de persoonsgegevens met toepassing van artikel 5.2.5, derde lid, zijn verkregen van het CIZ en noodzakelijk zijn voor de uitvoering van de artikelen 2.3.2, 2.3.3, 2.3.5, 2.3.6, 2.3.9, 2.3.10, 2.4.1 of 2.4.3.     
 6.  Het college is de verantwoordelijke voor de verwerking, bedoeld in het eerste tot en met vijfde lid.  
 
 ### Artikel  5.1.2  
@@ -878,13 +859,13 @@ c. de uitoefening van het toezicht, bedoeld in artikel 6.1.
 
 ### Artikel  5.1.5  
 
-1.  De toezichthoudende ambtenaren zijn bevoegd tot het verwerken van persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid, van de cliënt, alsmede persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid en andere bijzondere persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens, betreffende personen die betrokken bij calamiteiten, geweld bij de verstrekking van een voorziening en huiselijk geweld, voor zover deze zijn verkregen bij de uitoefening van het toezicht, bedoeld in artikel 6.1 of 6.2, en noodzakelijk zijn voor een goede uitoefening van het toezicht of het nemen van maatregelen ter handhaving van wettelijke voorschriften.   
+1.  De toezichthoudende ambtenaren zijn bevoegd tot het verwerken van persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid, van de cliënt, alsmede persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid en andere bijzondere persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens, betreffende personen die betrokken bij calamiteiten, geweld bij de verstrekking van een voorziening, huiselijk geweld of kindermishandeling, voor zover deze zijn verkregen bij de uitoefening van het toezicht, bedoeld in artikel 4.3.1, 6.1 of 6.2, en noodzakelijk zijn voor een goede uitoefening van het toezicht of het nemen van maatregelen ter handhaving van wettelijke voorschriften.   
 2.  De toezichthoudende ambtenaren zijn de verantwoordelijken voor de verwerking, bedoeld in het eerste lid. De aanbieder en de beroepskrachten die voor hem werkzaam zijn, verstrekken bij en naar aanleiding van een melding als bedoeld in het eerste lid aan de toezichthoudende ambtenaar de gegevens, daaronder begrepen persoonsgegevens, gegevens betreffende de gezondheid en andere bijzondere persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens, voor zover deze voor het onderzoeken van de melding noodzakelijk zijn.  
 
 ### Artikel  5.1.6  
 
-1.  Het AMHK is bevoegd tot het verwerken van persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid en huiselijk geweld, van personen die betrokken zijn bij huiselijk geweld, voor zover deze zijn verkregen in het kader van de uitvoering van de taken, bedoeld in artikel 4.1.1, tweede en derde lid, indien uit de melding redelijkerwijs een vermoeden van huiselijk geweld kan worden afgeleid.   
-2.  Het AMHK is de verantwoordelijke voor de verwerking, bedoeld in het eerste lid.  
+1.  Het AMHK is bevoegd tot het verwerken van persoonsgegevens ten behoeve van de goede vervulling van de taken, bedoeld in 4.1.1, tweede en derde lid. Het AMHK is de verantwoordelijke voor deze verwerking.   
+2.  Het AMHK is bevoegd zonder toestemming van degene die het betreft persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid, huiselijk geweld of kindermishandeling, te verwerken van personen die betrokken zijn bij huiselijk geweld of kindermishandeling, indien uit een melding redelijkerwijs een vermoeden van huiselijk geweld of kindermishandeling kan worden afgeleid en de verwerking noodzakelijk is te achten voor de uitoefening van de taken, bedoeld in artikel 4.1.1, tweede lid.  
 
 ### §  2  
 
@@ -896,9 +877,9 @@ c. de uitoefening van het toezicht, bedoeld in artikel 6.1.
 
 a. in het kader van het onderzoek, bedoeld in artikel 2.3.2, dan wel op grond van artikel 2.3.8, 2.3.9, 5.2.2, 5.2.3 of 5.2.5,  
 
-b. ten behoeve van de taken die bij of krachtens de Jeugdwet, de Participatiewet en de Wet gemeentelijke schuldhulpverlening aan het college zijn opgedragen, voor zover betrokkene het college ondubbelzinnige toestemming tot verwerking daarvan heeft verleend als bedoeld in artikel 5.1.1, vijfde lid,  
+b. ten behoeve van de taken die bij of krachtens de Jeugdwet, de Participatiewet en de Wet gemeentelijke schuldhulpverlening aan het college zijn opgedragen, voor zover betrokkene het college ondubbelzinnige toestemming tot verwerking daarvan heeft verleend als bedoeld in artikel 5.1.1, vierde lid,  
 
-c. van een zorgverzekeraar of een zorgaanbieder als bedoeld in de Zorgverzekeringswet of van het indicatieorgaan, bedoeld in artikel 9b, eerste lid, van de Algemene Wet Bijzondere Ziektekosten, voor zover betrokkene ondubbelzinnige toestemming heeft verleend als bedoeld in artikel 5.2.5 tot het verstrekken daarvan aan het college.     
+c. van een zorgverzekeraar of een zorgaanbieder als bedoeld in de Zorgverzekeringswet of van het CIZ, voor zover betrokkene ondubbelzinnige toestemming heeft verleend als bedoeld in artikel 5.2.5 tot het verstrekken daarvan aan het college.     
 2.  Het college is slechts bevoegd tot het verstrekken van de in het eerste lid bedoelde persoonsgegevens aan: 
 
 a. de aanbieder die zich jegens het college heeft verbonden tot het leveren van de maatwerkvoorziening aan de cliënt, voor zover deze noodzakelijk zijn voor het aan de cliënt leveren van de diensten, hulpmiddelen, woningaanpassingen en andere maatregelen waartoe hij zich jegens het college dan wel de cliënt heeft verbonden;  
@@ -935,11 +916,11 @@ De rijksbelastingdienst is bevoegd uit eigen beweging en desgevraagd verplicht a
 
 1.  Een zorgverzekeraar en een zorgaanbieder als bedoeld in de Zorgverzekeringswet zijn, voor zover betrokkene daarvoor zijn ondubbelzinnige toestemming heeft verleend, bevoegd uit eigen beweging en desgevraagd verplicht aan het college kosteloos persoonsgegevens, waaronder persoonsgegevens betreffende de gezondheid, te verstrekken van een verzekerde ingevolge die wet, die zorg als omschreven in die wet ontvangt of heeft ontvangen en in aanvulling of in aansluiting daarop aangewezen is of kan zijn op een maatwerkvoorziening, voor zover deze noodzakelijk zijn voor de uitvoering van artikel 2.3.2, 2.3.3, 2.3.5, 2.3.6, 2.3.9, 2.3.10.   
 2.  Het college is, voor zover betrokkene daarvoor zijn ondubbelzinnige toestemming heeft verleend, bevoegd uit eigen beweging en desgevraagd verplicht aan een zorgverzekeraar en een zorgaanbieder als bedoeld in de Zorgverzekeringswet kosteloos persoonsgegevens te verstrekken van een cliënt, voor zover die persoonsgegevens voor de uitvoering van de taken die bij of krachtens de Zorgverzekeringswet aan de zorgverzekeraar of de zorgaanbieder zijn opgedragen, noodzakelijk zijn.   
-3.  Het indicatieorgaan, bedoeld in artikel 9b, eerste lid, van de Algemene Wet Bijzondere Ziektekosten is, voor zover betrokkene daarvoor zijn ondubbelzinnige toestemming heeft verleend, bevoegd uit eigen beweging en desgevraagd verplicht aan het college kosteloos persoonsgegevens te verstrekken van een verzekerde ingevolge die wet, aan wie een indicatiebesluit is afgegeven waarin is vastgesteld dat hij is aangewezen op zorg als bedoeld in die wet, voor zover deze noodzakelijk zijn voor de uitvoering van artikel 2.3.2, 2.3.3, 2.3.5 of 2.3.6, 2.3.9, 2.3.10.  
+3.  Het CIZ is bevoegd uit eigen beweging en desgevraagd verplicht aan het college mede te delen dat een indicatiebesluit is afgegeven waarin is vastgesteld dat een persoon is aangewezen op zorg op grond van de Wet langdurige zorg, voor zover dit noodzakelijk is voor de uitvoering van artikel 2.3.2, 2.3.3, 2.3.5 of 2.3.6, 2.3.9, of 2.3.10.  
 
 ### Artikel  5.2.6  
 
-Derden die beroepshalve beschikken over inlichtingen die noodzakelijk kunnen worden geacht om een situatie van kindermishandeling te beëindigen of een redelijk vermoeden van kindermishandeling te onderzoeken, kunnen aan een AMHK deze inlichtingen desgevraagd of uit eigen beweging verstrekken zonder toestemming van degene die het betreft en indien nodig met doorbreking van de plicht tot geheimhouding op grond van een wettelijk voorschrift of op grond van hun ambt of beroep. 
+Derden die beroepshalve beschikken over inlichtingen die noodzakelijk kunnen worden geacht om een situatie van huiselijk geweld of kindermishandeling te beëindigen of een redelijk vermoeden daarvan te onderzoeken, kunnen aan een AMHK deze inlichtingen desgevraagd of uit eigen beweging verstrekken zonder toestemming van degene die het betreft en indien nodig met doorbreking van de plicht tot geheimhouding op grond van een wettelijk voorschrift of op grond van hun ambt of beroep. 
 
 ### Artikel  5.2.7  
 
@@ -983,9 +964,9 @@ b. vermelden de in het eerste lid bedoelde instanties en personen de gegevens, b
 ### Artikel  5.3.1  
 
 1.  Indien aan het AMHK bij de uitoefening van de taken, bedoeld in artikel 4.1.1, tweede lid, persoonsgegevens worden verstrekt door een ander dan betrokkene, brengt het AMHK betrokkene hiervan zo spoedig mogelijk, doch in ieder geval binnen vier weken na het moment van vastlegging van de hem betreffende gegevens, op de hoogte.   
-2.  De in het eerste lid genoemde termijn kan door het AMHK telkens met ten hoogste twee weken worden verlengd, voor zover dit noodzakelijk is voor de uitoefening van de taken, bedoeld in artikel 4.1.1, tweede lid, en dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
-3.  In afwijking van artikel 35 van de Wet bescherming persoonsgegevens kan een AMHK de mededeling, bedoeld in dat artikel, aan de betrokkene achterwege laten voor zover dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
-4.  Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gevallen waarin het bekendmaken van de identiteit van de persoon die het huiselijk geweld of het vermoeden daarvan heeft gemeld of van de persoon van wie informatie in het kader van het onderzoek is verkregen, achterwege kan blijven.  
+2.  De in het eerste lid genoemde termijn kan door het AMHK telkens met ten hoogste twee weken worden verlengd, voor zover dit noodzakelijk is voor de uitoefening van de taken, bedoeld in artikel 4.1.1, tweede lid, en dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld of kindermishandeling te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
+3.  In afwijking van artikel 35 van de Wet bescherming persoonsgegevens kan een AMHK de mededeling, bedoeld in dat artikel, aan de betrokkene achterwege laten voor zover dit noodzakelijk kan worden geacht om een situatie van huiselijk geweld of kindermishandeling te beëindigen of een redelijk vermoeden daarvan te onderzoeken.   
+4.  Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de gevallen waarin het bekendmaken van de identiteit van de persoon die het huiselijk geweld of kindermishandeling of het vermoeden daarvan heeft gemeld of van de persoon van wie informatie in het kader van het onderzoek is verkregen, achterwege kan blijven.  
 
 ### Artikel  5.3.2  
 
@@ -996,7 +977,7 @@ a. jonger dan twaalf jaren is, of
 
 b. de leeftijd van twaalf jaren heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.     
 3.  Indien betrokkene jonger is dan zestien jaren, of de leeftijd van zestien jaar heeft bereikt en niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, worden desgevraagd aan de wettelijke vertegenwoordiger inlichtingen dan wel inzage in of afschrift van de bescheiden verstrekt, tenzij het belang van betrokkene zich daartegen verzet.   
-4.  Inlichtingen over, inzage in of afschrift van de bescheiden kan worden geweigerd, voor zover de persoonlijke levenssfeer van een ander dan betrokkene daardoor zou worden geschaad dan wel dit noodzakelijk is voor de uitoefening van de taken, bedoeld in artikel 4.1.1, tweede lid, of om een situatie van huiselijk geweld te beëindigen dan wel een redelijk vermoeden daarvan te onderzoeken.   
+4.  Inlichtingen over, inzage in of afschrift van de bescheiden kan worden geweigerd, voor zover de persoonlijke levenssfeer van een ander dan betrokkene daardoor zou worden geschaad dan wel dit noodzakelijk is voor de uitoefening van de taken, bedoeld in artikel 4.1.1, tweede lid, of om een situatie van huiselijk geweld of kindermishandeling te beëindigen dan wel een redelijk vermoeden daarvan te onderzoeken.   
 5.  Voor de verstrekking van een afschrift kan een vergoeding worden gevraagd overeenkomstig de krachtens artikel 39 van de Wet bescherming persoonsgegevens gestelde regels.   
 6.  De persoon van wie de gegevens zijn opgeslagen, heeft het recht te verzoeken de gegevens te laten corrigeren.  
 
@@ -1076,7 +1057,6 @@ c. voor zover de betrokkene tegen een verstrekking niet uitdrukkelijk bezwaar he
 ####Wijziging andere wetten
 
 ### Artikel  7.1  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet medezeggenschap cliënten zorginstellingen.
 
@@ -1085,108 +1065,87 @@ Wijzigt de Wet medezeggenschap cliënten zorginstellingen.
 Op procedures inzake de naleving van de Wet medezeggenschap cliënten zorginstellingen, aangevangen voor inwerkingtreding van artikel 7.1, blijft die wet van toepassing. 
 
 ### Artikel  7.3  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet klachtrecht cliënten zorgsector.
 
 ### Artikel  7.4  
-Treedt in werking per 01-01-2015 
 
 1.  Op klachten, voor inwerkingtreding van artikel 7.3 ingediend bij een klachtencommissie als bedoeld in artikel 2 van de Wet klachtrecht cliënten zorgsector, blijft die wet van toepassing.   
 2.  De artikelen 3 tot en met 3b van de Wet klachtrecht cliënten zorgsector blijven van toepassing op gedragingen van een zorgaanbieder die hebben plaatsgevonden voor inwerkingtreding van artikel 7.3.  
 
 ### Artikel  7.5  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Kwaliteitswet zorginstellingen.
 
 ### Artikel  7.6  
-Treedt in werking per 01-01-2015 
 
 De artikelen 8 tot en met 10 van de Kwaliteitswet zorginstellingen blijven van toepassing op gedragingen van een zorgaanbieder die hebben plaatsgevonden voor inwerkingtreding van artikel 7.5. 
 
 ### Artikel  7.7  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Beginselenwet justitiële jeugdinrichtingen. 
 
 ### Artikel  7.8  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Beginselenwet verpleging ter beschikking gestelden.
 
 ### Artikel  7.9  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Penitentiaire beginselenwet.
 
 ### Artikel  7.10  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet Centraal Orgaan opvang asielzoekers.
 
 ### Artikel  7.11  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Leerplichtwet 1969. 
 
 ### Artikel  7.12  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet educatie en beroepsonderwijs. 
 
 ### Artikel  7.13  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de expertisecentra. 
 
 ### Artikel  7.14  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op het hoger onderwijs en wetenschappelijk onderzoek. 
 
 ### Artikel  7.15  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op het primair onderwijs. 
 
 ### Artikel  7.16  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op het voortgezet onderwijs.
 
 ### Artikel  7.17  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet kinderopvang en kwaliteitseisen peuterspeelzalen. 
 
 ### Artikel  7.18  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de beroepen in de individuele gezondheidszorg. 
 
 ### Artikel  7.19  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Jeugdwet. 
 
 ### Artikel  7.20  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wijzigingswet Zorgverzekeringswet en Algemene Wet Bijzondere Ziektekosten (bijdragen bij inkomstenderving ten gevolge van verlenen medisch noodzakelijke zorg aan bepaalde groepen vreemdelingen, en verzekering bepaalde groepen minderjarige vreemdelingen). 
 
 ### Artikel  7.21  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet forensische zorg (Kst. 32 398). 
 
 ### Artikel  7.22  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Algemene wet bestuursrecht. 
 
 ### Artikel  7.23  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Algemene Wet Bijzondere Ziektekosten. 
 
@@ -1195,62 +1154,50 @@ Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 Wijzigt de Gemeentewet. 
 
 ### Artikel  7.25  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Werkloosheidswet. 
 
 ### Artikel  7.26  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet basisregistratie personen. 
 
 ### Artikel  7.27  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  7.28  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet marktordening gezondheidszorg. 
 
 ### Artikel  7.29  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Participatiewet. 
 
 ### Artikel  7.30  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen. 
 
 ### Artikel  7.31  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Woningwet. 
 
 ### Artikel  7.33  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Burgerlijk Wetboek Boek 6. 
 
 ### Artikel  7.34  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet kwaliteit, klachten en geschillen (Kst. 32 402). 
 
 ### Artikel  7.35  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet verplichte geestelijke gezondheidszorg (Kst. 32 399. 
 
 ### Artikel  7.36  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de omzetbelasting 1968. 
 
 ### Artikel  7.37  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Zorgverzekeringswet. 
 
@@ -1259,7 +1206,6 @@ Wijzigt de Zorgverzekeringswet.
 ####Invoerings- en slotbepalingen
 
 ### Artikel  8.1  
-Treedt in werking per 01-01-2015 
 
 1.  De aanspraken op zorg, bedoeld in artikel 6, eerste lid, van de Algemene Wet Bijzondere Ziektekosten omvatten met ingang van de eerste dag van het kalenderjaar na dat waarin enig artikel van deze wet in werking is getreden, niet: 
 
@@ -1299,7 +1245,15 @@ b. de grondslag waarop het besluit berust.
 4.  Indien ten aanzien van een verzekerde in de zin van de Algemene Wet Bijzondere Ziektekosten door of namens de zorgverzekeraar, bedoeld in artikel 1, onderscheidenlijk de rechtspersoon, bedoeld in artikel 40 van die wet, een besluit is genomen als bedoeld in artikel 8.2, tweede lid, heeft belanghebbende met ingang van de eerste dag van het kalenderjaar na dat waarin enig artikel van deze wet in werking is getreden, jegens het college van de gemeente waarvan hij ingezetene is, de rechten en verplichtingen met betrekking tot het tot gelding brengen van de aanspraak op zorg die aan dat besluit waren verbonden, gedurende de looptijd van dat besluit, doch ten hoogste tot de eerste dag van het tweede kalenderjaar na dat waarin enig artikel van deze wet in werking is getreden.   
 5.  Voor de toepassing van het eerste tot en met vierde lid, treedt het college in de plaats van de zorgverzekeraar, bedoeld in artikel 1 van de Algemene Wet Bijzondere Ziektekosten, onderscheidenlijk de rechtspersoon, bedoeld in artikel 40 van die wet.   
 6.  Voor de toepassing van het eerste tot en met vierde lid, is betrokkene de bijdrage in de kosten, bedoeld in artikel 6, vierde lid, van de Algemene Wet Bijzondere Ziektekosten onderscheidenlijk het bepaalde bij of krachtens artikel 44, eerste lid, onderdeel b, van die wet, aan het college verschuldigd. De artikelen 2.1.4, zesde lid, en 2.3.8 zijn van overeenkomstige toepassing.   
-7.  Indien een in het buitenland wonende persoon op het tijdstip van inwerkingtreding van enig artikel van deze wet op grond van artikel 3.2 van de Invoerings- en aanpassingswet Zorgverzekeringswet aanspraak heeft op een vergoeding dan wel op grond van artikel 1.22 van het Aanpassingsbesluit Zorgverzekeringswet aanspraak heeft op een uitkering ter zake van de kosten van zorg als bedoeld in artikel 8.1, behoudt die persoon jegens het Zorginstituut die aanspraak gedurende de looptijd van het indicatiebesluit, doch ten hoogste tot de eerste dag van het tweede kalenderjaar na dat waarin enig artikel van deze wet in werking is getreden.  
+7.  Indien een in het buitenland wonende persoon op het tijdstip van inwerkingtreding van enig artikel van deze wet op grond van artikel 3.1.2 van de Invoerings- en aanpassingswet Zorgverzekeringswet aanspraak heeft op een vergoeding dan wel op grond van artikel 1.22 van het Aanpassingsbesluit Zorgverzekeringswet aanspraak heeft op een uitkering ter zake van de kosten van zorg als bedoeld in artikel 8.1, behoudt die persoon jegens het Zorginstituut Nederland, bedoeld in artikel 58 van de Zorgverzekeringswet die aanspraak gedurende de looptijd van het indicatiebesluit, doch ten hoogste tot de eerste dag van het tweede kalenderjaar na dat waarin enig artikel van deze wet in werking is getreden.   
+8.  Het eerste tot en met zesde lid zijn van overeenkomstige toepassing ten aanzien van een persoon die in het buitenland woont of verblijft en die in geval van behoefte aan zorg hetzij krachtens de Algemene Wet Bijzondere Ziektekosten, hetzij met toepassing van een verordening van de Raad van de Europese Gemeenschappen dan wel met toepassing van zodanige verordening krachtens de overeenkomst betreffende de Europese Economische Ruimte of een verdrag inzake sociale zekerheid aanspraak heeft op zorg als bedoeld in artikel 8.1, eerste lid, onderdelen a, b, d of e, of vergoeding van de kosten daarvan, met dien verstande dat: 
+
+a. voor de overeenkomstige toepassing van het eerste, derde en vierde lid in plaats van «verzekerde» telkens wordt gelezen: persoon;  
+
+b. voor de overeenkomstige toepassing van het eerste tot en met vierde lid in plaats van «het college van de gemeente waarvan hij ingezetene is» telkens wordt gelezen: het Zorginstituut Nederland; en  
+
+c. voor de overeenkomstige toepassing van het vijfde en zesde lid in plaats van «het college» telkens wordt gelezen: het Zorginstituut Nederland.     
+9.  De vergoedingen en uitkeringen, bedoeld in het zesde en zevende lid, komen ten laste van het Algemene Fonds Bijzondere Ziektekosten. 
 
 ### Artikel  8.4  
 
@@ -1320,7 +1274,6 @@ b. door derden wordt geleverd aan een belanghebbende, aan wie op grond van artik
 2.  Nadat de zorgverzekeraar, bedoeld in artikel 1, onderscheidenlijk de rechtspersoon, bedoeld in artikel 40 van de Algemene Wet Bijzondere Ziektekosten, de in artikel 8.2, tweede lid, bedoelde gegevens heeft verstrekt aan het college van de gemeente waarvan betrokkene ingezetene is, voert het college, met overeenkomstige toepassing van artikel 2.3.2, tweede tot en met achtste lid, zonder melding als bedoeld in artikel 2.3.2, eerste lid, het in dat artikel bedoelde onderzoek uit op een zodanig tijdstip dat betrokkene tijdig voor het tijdstip waarop hij niet langer op grond van artikel 8.3, vierde lid, aanspraak zal hebben op de in die gegevens omschreven zorg, een aanvraag kan doen voor een maatwerkvoorziening als bedoeld in artikel 2.3.5. eerste lid.  
 
 ### Artikel  8.6a  
-Treedt in werking per 01-01-2015 
 
 Artikel 2.3.5, zesde lid, geldt in 2015 niet voor daar bedoelde cliënten: 
 
@@ -1343,14 +1296,13 @@ b. die zonder behandeling in een instelling verblijven en een maatwerkvoorzienin
 
 ### Artikel  8.9  
 
-1.  Dit lid is nog niet in werking getreden.   
-2.  Dit lid is nog niet in werking getreden.   
-3.  Dit lid is nog niet in werking getreden.   
-4.  Dit lid is nog niet in werking getreden.   
+1.  De Wet maatschappelijke ondersteuning wordt ingetrokken, onverminderd de rechten en verplichtingen die onmiddellijk voor het tijdstip waarop artikel 2.1.1 in werking is getreden, voor betrokkene zijn verbonden aan een met toepassing van de Wet maatschappelijke ondersteuning door het college genomen besluit waarbij aanspraak is verstrekt op een individuele voorziening in natura of het ontvangen van een persoonsgebonden budget dan wel een financiële tegemoetkoming.   
+2.  Het recht zoals dat gold vóór het tijdstip van inwerkingtreding van enig artikel van deze wet, blijft van toepassing ten aanzien van besluiten genomen op grond van de Wet maatschappelijke ondersteuning.   
+3.  Artikel 25 van de Wet maatschappelijke ondersteuning blijft van toepassing op de roerende zaken, voor de aanschaf waarvan krachtens die wet een financiële tegemoetkoming is verstrekt, die zijn aangeschaft met een persoonsgebonden budget of die krachtens die wet in eigendom of bruikleen zijn verstrekt.   
+4.  Het college en Onze Minister geven met betrekking tot het kalenderjaar waarin enig artikel van deze wet in werking is getreden, uitvoering aan artikel 9 van de Wet maatschappelijke ondersteuning voor 1 juli van het daaropvolgende kalenderjaar onderscheidenlijk 1 januari van het daaropvolgende kalenderjaar.   
 5.  De artikelen 11 en 12 van de Wet maatschappelijke ondersteuning zijn van overeenkomstige toepassing op de voorbereiding van de vaststelling van het beleidsplan, bedoeld in artikel 2.1.2, en de verordening, bedoeld in artikel 2.1.3. 
 
 ### Artikel  8.10  
-Treedt in werking per 01-01-2015 
 
 Onze Minister zendt binnen drie jaar na de inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 

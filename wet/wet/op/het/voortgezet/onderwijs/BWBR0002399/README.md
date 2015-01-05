@@ -64,8 +64,8 @@ Voortgezet onderwijs mag slechts worden gegeven door degene die daartoe ingevolg
 ####Meldcode huiselijk geweld en kindermishandeling
 
 1.  Het bevoegd gezag of de natuurlijke persoon dan wel de rechtspersoon die een school in stand houdt die niet uit de openbare kas wordt bekostigd, stelt voor het personeel een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1.1 van de Jeugdwet.   
 4.  Het bevoegd gezag of de natuurlijke persoon dan wel de rechtspersoon die een school in stand houdt die niet uit de openbare kas wordt bekostigd, bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.  
 
@@ -594,7 +594,7 @@ b.rechtstreeks afkomstig is van het eerste leerjaar van een school voor voortgez
 5. In afwijking van het derde lid kan tevens een aanvraag tot indicatiestelling voor praktijkonderwijs bij een regionale verwijzingscommissie als bedoeld in het tweede lid worden ingediend door het bevoegd gezag van een school voor praktijkonderwijs voor een leerling die voldoet aan bij of krachtens algemene maatregel van bestuur te stellen criteria, indien naar het oordeel van het bevoegd gezag het zorg- en onderwijsaanbod van het praktijkonderwijs het beste aansluit bij de behoeften van deze leerling. Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven voor de procedure voor indiening van aanvragen. 
 6.  Het ontwikkelingsperspectief dat het bevoegd gezag van een school voor praktijkonderwijs op grond van artikel 26 vaststelt, bevat een omschrijving van de wijze waarop voor de desbetreffende leerling het praktijkonderwijs met inachtneming van artikel 10f, derde lid, wordt verzorgd.   
 7.  Indien de regionale verwijzingscommissie bepaalt dat de leerling niet tot het praktijkonderwijs toelaatbaar is, brengt zij advies uit aan het in het eerste lid bedoelde bevoegd gezag, over de wijze waarop de leerling op de school waar hij is ingeschreven, naar het oordeel van de verwijzingscommissie zou moeten worden begeleid. In afwijking van de eerste volzin kan de regionale verwijzingscommissie tegelijk met de beslissing dat een leerling niet toelaatbaar is tot het praktijkonderwijs, beslissen dat die leerling is aangewezen op leerwegondersteunend onderwijs.   
-8.  Een beschikking van een regionale verwijzingscommissie omtrent de toelaatbaarheid van een leerling is geen besluit als bedoeld in artikel 8:4, onderdeel e, van de Algemene wet bestuursrecht. De ouders van de desbetreffende leerling kunnen een beschikking van de regionale verwijzingscommissie voorleggen aan een andere regionale verwijzingscommissie met het verzoek daarover een deskundigheidsadvies uit te brengen. Indien toepassing wordt gegeven aan de tweede volzin, worden de termijnen van bezwaar en beroep opgeschort.    
+8.  Een beschikking van een regionale verwijzingscommissie omtrent de toelaatbaarheid van een leerling is geen besluit als bedoeld in artikel 8:4, derde lid, onder b, van de Algemene wet bestuursrecht. De ouders van de desbetreffende leerling kunnen een beschikking van de regionale verwijzingscommissie voorleggen aan een andere regionale verwijzingscommissie met het verzoek daarover een deskundigheidsadvies uit te brengen. Indien toepassing wordt gegeven aan de tweede volzin, worden de termijnen van bezwaar en beroep opgeschort.    
 9.  De regionale verwijzingscommissie verstrekt desgevraagd aan Onze Minister de voor de uitoefening van zijn taak benodigde inlichtingen. Onze Minister kan inzage vorderen van zakelijke gegevens en bescheiden, voor zover dat voor de vervulling van zijn taak redelijkerwijs nodig is.    
 10.  Een regionale verwijzingscommissie die door Onze Minister is erkend, kan worden verbonden aan rechtspersonen die voldoen aan bij of krachtens algemene maatregel van bestuur te stellen voorwaarden en die daartoe door Onze minister zijn aangewezen. Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven met betrekking tot de taak, samenstelling, werkwijze, beoordelingscriteria en subsidie van de regionale verwijzingscommissies, de aan de regionale verwijzingscommissies te leveren gegevens en de wijze waarop de ouders worden geïnformeerd over de aanvragen bij en de beschikkingen en adviezen van de regionale verwijzingscommissies.    
 11.  De in het tiende lid bedoelde algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De maatregel treedt niet in werking dan nadat vier weken na de overlegging zijn verstreken en gedurende die termijn niet door of namens een van beide kamers de wens wordt te kennen gegeven dat het in die maatregel geregelde onderwerp bij de wet wordt geregeld. Alsdan wordt een daartoe strekkend wetsvoorstel zo spoedig mogelijk ingediend.   
@@ -2180,9 +2180,28 @@ e. de artikelen 27b, 28 en 28a; en
 f. de artikelen 118g tot en met 118i.    
 8.  Voor een school die is aangewezen op grond van artikel 56 kan bij ministeriële regeling een nadere specificatie worden gegeven van de gegevens, bedoeld in artikel 103b, tweede lid, voor zover dat lid van overeenkomstige toepassing is verklaard in het zevende lid, onderdeel a, en worden bepaald welke van die gegevens niet langer behoeven te worden verstrekt. Bij ministeriële regeling kunnen voorts regels worden gesteld omtrent de tijdstippen en de wijze van verstrekking van die gegevens. Bij ministeriële regeling worden regels gesteld ter uitvoering van artikel 103d, eerste en derde lid, voor zover die leden van overeenkomstige toepassing zijn verklaard in het zevende lid, onderdeel c, in ieder geval omtrent de inhoud en de samenstelling van de gegevens, de wijze waarop de gegevens worden verstrekt, de tijdstippen waarop de gegevens worden verstrekt, en de perioden waarop de gegevens betrekking hebben. 
 
+### Artikel  58a  
+
+####Samenwerking met onbekostigd vavo
+
+1.  Het bevoegd gezag van een ingevolge artikel 56 aangewezen school kan leerlingen in de gelegenheid stellen in het kader van het onderwijs waarvoor zij aan de school zijn ingeschreven deel te nemen aan een opleiding voortgezet algemeen volwassenenonderwijs als bedoeld in artikel 7.3.1, eerste lid, onder a, van de Wet educatie en beroepsonderwijs aan een instelling waarvoor wat betreft genoemde opleiding toepassing is gegeven aan artikel 1.4a.1, eerste lid, van de Wet educatie en beroepsonderwijs, en die opleiding met een examen af te sluiten.   
+2.  Het eerste lid vindt uitsluitend toepassing met het doel leerlingen met bijzondere kenmerken beter in staat te stellen een diploma als bedoeld in deze wet te behalen.   
+3.  Toepassing van het eerste lid berust op een samenwerkingsovereenkomst, gesloten tussen het bevoegd gezag, bedoeld in het eerste lid, en het bevoegd gezag van de in het eerste lid bedoelde instelling. De samenwerkingsovereenkomst omvat in elk geval: 
+
+a. doel van de samenwerking,  
+
+b. de doelgroep,  
+
+c. de wijze waarop wordt nagegaan of het doel wordt bereikt,  
+
+d. het onderwijsprogramma dat volgens de samenwerking wordt vormgegeven, en  
+
+e. een regeling voor de beslechting van geschillen tussen partijen over de uitvoering van de overeenkomst.     
+4.  Bij algemene maatregel van bestuur wordt nader geregeld voor welke leerlingen en onder welke voorwaarden het eerste lid toepassing kan vinden.  
+
 ### Artikel  59  
 
-Onze minister kan de aanwijzing intrekken, indien niet langer wordt voldaan aan de artikelen 56 en 58, met uitzondering van artikel 58, zevende lid, onderdeel f, of indien van misbruik van de verleende aanwijzing is gebleken. De aanwijzing kan door Onze minister tevens worden ingetrokken indien het schoolbestuur of het personeel van de school in strijd handelt met artikel 5:20 van de Algemene wet bestuursrecht. 
+Onze minister kan de aanwijzing intrekken, indien niet langer wordt voldaan aan de voorschriften gegeven bij of krachtens de artikelen 56, 58, met uitzondering van artikel 58, zevende lid, onderdeel f, en 58a of indien van misbruik van de verleende aanwijzing is gebleken. De aanwijzing kan door Onze minister tevens worden ingetrokken indien het schoolbestuur of het personeel van de school in strijd handelt met artikel 5:20 van de Algemene wet bestuursrecht. 
 
 ### Afdeling  IIa  
 
@@ -2192,7 +2211,7 @@ Onze minister kan de aanwijzing intrekken, indien niet langer wordt voldaan aan 
 
 ####Aanwijzing scholen voortgezet speciaal onderwijs
 
-1.  De artikelen 56 tot en met 59, met uitzondering van artikel 57, onderdeel c, en artikel 58, zevende en achtste lid, zijn van overeenkomstige toepassing op scholen als bedoeld in artikel 1 van de Wet op de expertisecentra waar voortgezet speciaal onderwijs wordt verzorgd. Ten aanzien van scholen waar toepassing is gegegeven aan de eerste volzin, zijn de voorschriften gegeven bij of krachtens de artikelen 6f en 28b van overeenkomstige toepassing.   
+1.  De artikelen 56 tot en met 59, met uitzondering van artikel 57, onderdeel c, en artikel 58, zevende en achtste lid, en artikel 58a, zijn van overeenkomstige toepassing op scholen als bedoeld in artikel 1 van de Wet op de expertisecentra waar voortgezet speciaal onderwijs wordt verzorgd. Ten aanzien van scholen waar toepassing is gegegeven aan de eerste volzin, zijn de voorschriften gegeven bij of krachtens de artikelen 6f en 28b van overeenkomstige toepassing.   
 2.  Ten aanzien van scholen waar toepassing is gegeven aan het eerste lid, zijn de artikelen 10b1 tot en met 10b8 en 10b9, eerste en tweede lid, van overeenkomstige toepassing voor zover het betreft de basisberoepsgerichte leerweg van het voorbereidend beroepsonderwijs.   
 3.  Onze Minister kan, onverminderd artikel 59, de aanwijzing ingevolge het eerste lid intrekken indien niet langer wordt voldaan aan het eerste lid, tweede volzin, of het tweede lid.   
 4.  Ten aanzien van een op grond van het eerste lid aangewezen school kunnen bij algemene maatregel van bestuur onderscheidenlijk bij ministeriële regeling regels worden vastgesteld in afwijking van bij algemene maatregel van bestuur respectievelijk bij ministeriële regeling vastgestelde regels die gelden ingevolge het eerste en tweede lid, met dien verstande dat bij algemene maatregel van bestuur tevens kerndoelen kunnen worden vastgesteld in aanvulling op de kerndoelen die zijn vastgesteld op grond van artikel 11b van de Wet op het voortgezet onderwijs, waarbij tevens kan worden bepaald dat het onderwijs na de eerste twee leerjaren wordt verzorgd mede op basis van de kerndoelen die zijn vastgesteld op grond van dit lid.  
@@ -2839,6 +2858,25 @@ Dit artikel is nog niet in werking getreden.
 2.  Indien bijzondere ontwikkelingen in het voortgezet onderwijs aan een school daartoe aanleiding geven, kan Onze minister op verzoek van het bevoegd gezag onder door hem te stellen voorwaarden en voor een door hem te bepalen periode aanvullende bekostiging voor exploitatiekosten verstrekken. Het verzoek wordt ingediend in het kalenderjaar waarin deze ontwikkelingen zijn aangevangen. Onze minister besluit binnen vier maanden na ontvangst van het verzoek. Indien de beschikking niet binnen vier maanden kan worden gegeven, stelt Onze minister de verzoeker daarvan in kennis en noemt hij daarbij een termijn waarop de beschikking wel tegemoet kan worden gezien.    
 3.  Onze minister kan in verband met de in het eerste lid bedoelde bekostiging een bekostigingsplafond instellen. In dat geval worden bij ministeriële regeling regels omtrent de verdeling vastgesteld.   
 4.  Onze minister kan in verband met de in het tweede lid bedoelde bekostiging een bekostigingsplafond instellen. In dat geval worden bij ministeriële regeling regels omtrent de verdeling vastgesteld.  
+
+### Artikel  89a  
+
+####Bekostiging samenwerkingsverband materiële instandhouding
+
+1.  Aan het samenwerkingsverband wordt bekostiging voor materiële instandhouding toegekend.   
+2.  De in het eerste lid bedoelde bekostiging bestaat uit een bij ministeriële regeling vast te stellen bedrag per leerling voor het aantal leerlingen op vestigingen van scholen in het samenwerkingsverband op 1 oktober van het jaar voorafgaand aan het jaar waarover de bekostiging plaatsvindt.   
+3.  Voor elke leerling die op 1 oktober van het jaar voorafgaand aan het jaar waarover de bekostiging plaatsvindt, was ingeschreven op een school voor voortgezet speciaal onderwijs of speciaal en voortgezet onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra, wordt een bedrag in mindering gebracht op de in het eerste lid bedoelde bekostiging van het samenwerkingsverband dat de leerling op grond van artikel 40, twaalfde lid, van de Wet op de expertisecentra toelaatbaar heeft verklaard tot het voortgezet speciaal onderwijs. Het in de eerste volzin bedoelde bedrag is afhankelijk van de in de toelaatbaarheidsverklaring opgenomen ondersteuningsbehoefte van de leerling en komt overeen met één van de normbedragen die bij ministeriële regeling worden vastgesteld.   
+4.  Het derde lid is van overeenkomstige toepassing op leerlingen opgenomen in residentiële instellingen aan wie op 1 oktober van het jaar voorafgaand aan het jaar waarover de bekostiging plaatsvindt onderwijs werd gegeven op basis van een samenwerkingsovereenkomst als bedoeld in artikel 71c, tweede lid, van de Wet op de expertisecentra, met dien verstande dat het normbedrag, bedoeld in artikel 117, zevende lid, van die wet in mindering wordt gebracht op de bekostiging van: 
+
+a. het samenwerkingsverband waartoe de school of school voor voortgezet speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra, waar de leerling onmiddellijk voorafgaand aan de opname in de residentiële instelling was ingeschreven, behoort, of  
+
+b. het samenwerkingsverband in het gebied waarvan de leerling woonachtig is, indien de leerling onmiddellijk voorafgaand aan de opname in de residentiële instelling niet was ingeschreven op een school of school voor voortgezet speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra.    
+
+### Artikel  89b  
+
+####Vermindering bekostiging materiële instandhouding bij uitputting bekostiging materiële instandhouding samenwerkingsverband
+
+Indien het totaal van de bedragen, bedoeld in artikel 89a, derde lid, eerste volzin, en vierde lid, de materiële bekostiging van het samenwerkingsverband, bedoeld in artikel 89a, eerste lid, overschrijdt, wordt het bedrag waarmee die bekostiging wordt overschreden door Onze Minister in mindering gebracht op de materiële bekostiging van alle scholen en scholen voor voortgezet speciaal onderwijs en speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra, waarvan één of meer vestigingen zijn gelegen in het gebied van het samenwerkingsverband. Het bedrag dat in mindering wordt gebracht wordt per school dan wel school voor voortgezet speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 of 4, bedoeld in de Wet op het expertisecentra, voor zover het betreft het daaraan verzorgde voortgezet speciaal onderwijs, bepaald op basis van het leerlingenaantal van de desbetreffende vestiging of vestigingen in het samenwerkingsverband. 
 
 ### §  4  
 

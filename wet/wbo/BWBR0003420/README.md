@@ -142,8 +142,8 @@ d. een andere speciale school voor basisonderwijs in het onder c bedoelde samenw
 ####Meldcode huiselijk geweld en kindermishandeling
 
 1.  Het bevoegd gezag of de natuurlijke persoon dan wel de rechtspersoon die een school in stand houdt die niet uit de openbare kas wordt bekostigd, stelt voor het personeel een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1.1 van de Jeugdwet.   
 4.  Het bevoegd gezag of de natuurlijke persoon dan wel de rechtspersoon die een school in stand houdt die niet uit de openbare kas wordt bekostigd, bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.  
 
@@ -1652,28 +1652,22 @@ c.van de omvorming tot nevenvestiging voor 1 februari voorafgaand aan de datum, 
 1.  De gemeenteraad draagt onderscheidenlijk burgemeester en wethouders dragen ten behoeve van de door de gemeente in stand gehouden scholen en ten behoeve van de niet door de gemeente in stand gehouden scholen zorg voor de voorzieningen in de huisvesting op het grondgebied van de gemeente overeenkomstig het bepaalde in deze afdeling. Hij behandelt onderscheidenlijk zij behandelen daarbij de door de gemeente in stand gehouden scholen en de niet door de gemeente in stand gehouden scholen op gelijke voet.    
 2.  Voor de toepassing van deze afdeling wordt onder een niet door de gemeente in stand gehouden school mede begrepen een op het grondgebied van de gemeente gelegen nevenvestiging van een school waarvan de hoofdvestiging op het grondgebied van een andere gemeente is gelegen.   
 
-###Artikel 92 
+### Artikel  92  
 
 ####Voorzieningen in de huisvesting
 
-1. Voor de toepassing van deze afdeling worden onder voorzieningen in de huisvesting begrepen: 
+1.  Voor de toepassing van deze afdeling worden onder voorzieningen in de huisvesting begrepen:  
 
-a.voor blijvend onderscheidenlijk voor tijdelijk gebruik bestemde voorzieningen, bestaande uit: 
+a. voor blijvend onderscheidenlijk voor tijdelijk gebruik bestemde voorzieningen, bestaande uit:  
 
-1°.nieuwbouw, een bestaand gebouw of een gedeelte daarvan, verplaatsing van een bestaand gebouw of van een gedeelte daarvan, terreinen, alsmede eerste aanschaf van onderwijsleerpakketten en meubilair, 
+1°. nieuwbouw, een bestaand gebouw of een gedeelte daarvan, verplaatsing van een bestaand gebouw of van een gedeelte daarvan, terreinen, alsmede eerste aanschaf van onderwijsleerpakketten en meubilair,   
 
-2°.uitbreiding van de onder 1° bedoelde voorzieningen, en 
+2°. uitbreiding van de onder 1° bedoelde voorzieningen, en   
 
-3°.medegebruik van een ruimte die geschikt is voor het onderwijs; 
+3°. medegebruik van een ruimte die geschikt is voor het onderwijs;     
 
-b.voorzieningen, bestaande uit: 
-
-1°.aanpassingen met uitzondering van het aanbrengen van een invalidentoilet en het toegankelijk maken van het gebouw voor gehandicapten, en 
-
-2°.vervanging binnenkozijnen en binnendeuren inclusief hang- en sluitwerk, algehele vervanging radiatoren, convectoren en leidingen voor de centrale verwarming, alsmede onderhoud aan de buitenzijde van het gebouw met uitzondering van het buitenschilderwerk; 
-
-c.herstel van constructiefouten aan het gebouw, alsmede herstel en vervanging in verband met schade aan gebouw, onderwijsleerpakketten en meubilair in geval van bijzondere omstandigheden. 
-2. Bij algemene maatregel van bestuur worden bruto vloeroppervlakten per gelijktijdig aanwezige leerling voorgeschreven die voorzieningen in de huisvesting ten minste dienen te bevatten. Deze oppervlakten kunnen per schoolsoort verschillend worden vastgesteld. 
+b. herstel van constructiefouten aan het gebouw, alsmede herstel en vervanging in verband met schade aan gebouw, onderwijsleerpakketten en meubilair in geval van bijzondere omstandigheden.      
+2.  Bij algemene maatregel van bestuur worden bruto vloeroppervlakten per gelijktijdig aanwezige leerling voorgeschreven die voorzieningen in de huisvesting ten minste dienen te bevatten. Deze oppervlakten kunnen per schoolsoort verschillend worden vastgesteld.   
 
 ### Artikel  93  
 
@@ -1905,21 +1899,21 @@ c. de wijze waarop de voor elke voorziening vast te stellen bekostiging wordt be
 7.  De ministeriële regelingen, bedoeld in het eerste en vierde lid, worden binnen 4 weken na de vaststelling, bedoeld in het eerste en vierde lid, gezamenlijk bekendgemaakt in de Staatscourant, onder gelijktijdige overlegging aan de Tweede Kamer der Staten-Generaal. De ministeriële regelingen treden niet in werking dan nadat 4 weken zijn verstreken na het overleggen aan de Tweede Kamer en gedurende die termijn niet door of namens de Kamer de wens tot overleg over de ministeriële regelingen te kennen wordt gegeven, dan wel met de Tweede Kamer overleg is gevoerd.    
 8.  Naar aanleiding van het overleg met de Tweede Kamer kunnen wijzigingen in de programma's van eisen en de wijzigingen daarvan, bedoeld in het vijfde lid, worden aangebracht. De wijzigingen worden bekendgemaakt in de Staatscourant.  
 
-###Artikel 114 
+### Artikel  114  
 
 ####Onderverdeling programma's van eisen
 
-De programma's van eisen, bedoeld in artikel 113, derde lid, worden onderverdeeld in programma's van eisen omtrent: 
+De programma's van eisen, bedoeld in artikel 113, derde lid, worden onderverdeeld in programma's van eisen omtrent:  
 
-a.onderhoud, 
+a. onderhoud van en aanpassingen aan het gebouw en het terrein,  
 
-b.energie- en waterverbruik, 
+b. energie- en waterverbruik,   
 
-c.publiekrechtelijke heffingen, met uitzondering van de belastingen ter zake van onroerende zaken, 
+c. publiekrechtelijke heffingen, met uitzondering van de belastingen ter zake van onroerende zaken,   
 
-d.middelen, en 
+d. middelen, en   
 
-e.administratie, beheer en bestuur. 
+e. administratie, beheer en bestuur.    
 
 ### Artikel  115  
 
@@ -1962,13 +1956,27 @@ b. de bekostiging voor de vaste kosten van de materiële instandhouding van een 
 4.  Indien op 1 oktober het aantal leerlingen van de gezamenlijke speciale scholen voor basisonderwijs in een samenwerkingsverband meer bedraagt dan 2% van het aantal leerlingen op de vestigingen van de scholen in het samenwerkingsverband, draagt het samenwerkingsverband voor elke leerling van een speciale school voor basisonderwijs boven voornoemde 2% het in artikel 115 bedoelde bedrag over aan de speciale school voor basisonderwijs.   
 5.  In het ondersteuningsplan wordt vastgelegd welk deel van de bekostiging voor de materiële instandhouding die samenhangt met de inrichting van de ondersteuningsstructuur voor zover na toepassing van het vierde lid en artikel 118a die bekostiging nog resteert, op welke basisschool in het samenwerkingsverband wordt ingezet.   
 6.  Bij de berekening op grond van het vierde lid wordt 2% van het aantal leerlingen op de vestigingen van de scholen in het samenwerkingsverband rekenkundig afgerond op een geheel getal.   
-7.  De overdracht op grond van het vierde lid door het samenwerkingsverband heeft betrekking op het kalenderjaar dat volgt op de in het vierde lid bedoelde teldatum en vindt ten hoogste plaats voor de aan het samenwerkingsverband op grond van het eerste lid toegekende bekostiging van de materiële instandhouding die samenhangt met de ondersteuningsstructuur.  
+7.  De overdracht op grond van het vierde lid door het samenwerkingsverband heeft betrekking op het kalenderjaar dat volgt op de in het vierde lid bedoelde teldatum en vindt ten hoogste plaats voor de aan het samenwerkingsverband op grond van het eerste lid toegekende bekostiging van de materiële instandhouding die samenhangt met de ondersteuningsstructuur.   
+8.  Aan het samenwerkingsverband wordt bekostiging voor materiële instandhouding toegekend in aanvulling op de in het eerste lid bedoelde bekostiging.   
+9.  De in het achtste lid bedoelde bekostiging bestaat uit een bij ministeriële regeling vast te stellen bedrag per leerling voor het aantal leerlingen op de vestigingen van de scholen in het samenwerkingsverband op 1 oktober van het jaar voorafgaand aan het jaar waarover de bekostiging plaatsvindt.   
+10.  Voor elke leerling die op 1 oktober van het jaar voorafgaand aan het jaar waarover de bekostiging plaatsvindt, was ingeschreven op een school voor speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra, voor zover het betreft het daaraan verzorgde speciaal onderwijs wordt een bedrag in mindering gebracht op de in het achtste lid bedoelde bekostiging van het samenwerkingsverband dat de leerling op grond van artikel 40, tiende lid, van de Wet op de expertisecentra toelaatbaar heeft verklaard tot het speciaal onderwijs. Het in de eerste volzin bedoelde bedrag is afhankelijk van de in de toelaatbaarheidsverklaring opgenomen ondersteuningsbehoefte van de leerling en komt overeen met één van de normbedragen die bij ministeriële regeling worden vastgesteld.   
+11.  Het tiende lid is van overeenkomstige toepassing op leerlingen opgenomen in residentiële instellingen aan wie op 1 oktober van het jaar voorafgaand aan het jaar waarover de bekostiging plaatsvindt onderwijs werd gegeven op basis van een samenwerkingsovereenkomst als bedoeld in artikel 71c, tweede lid, van de Wet op de expertisecentra, met dien verstande dat het normbedrag, bedoeld in artikel 117, zevende lid, van die wet in mindering wordt gebracht op de bekostiging van: 
+
+a. het samenwerkingsverband waartoe de school of school voor speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra, waar de leerling onmiddellijk voorafgaand aan de opname in de residentiële instelling was ingeschreven, behoort, of  
+
+b. het samenwerkingsverband in het gebied waarvan de leerling woonachtig is, indien de leerling onmiddellijk voorafgaand aan de opname in de residentiële instelling niet was ingeschreven op een school of school voor speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra.    
 
 ### Artikel  118a  
 
 ####Overdracht bekostiging materiële instandhouding samenhangend met inrichting zorgstructuur bij overgang leerling naar ander samenwerkingsverband
 
 Indien artikel 125 van toepassing is, wordt door het samenwerkingsverband tevens een bij het zorgplan bepaald gedeelte van de bekostiging bedoeld in artikel 118 overgedragen aan de speciale school voor basisonderwijs. De in de eerste volzin bedoelde overdracht vindt plaats voor zover nog niet het maximum van de op grond van artikel 118, eerste lid, aan het samenwerkingsverband toegekende bekostiging van de materiële instandhouding die samenhangt met de inrichting van de zorgstructuur op grond van artikel 118, vierde lid, is overgedragen. 
+
+### Artikel  118b  
+
+####Vermindering bekostiging materiële instandhouding bij uitputting bekostiging materiële instandhouding samenwerkingsverband
+
+Indien het totaal van de bedragen, bedoeld in artikel 118, tiende lid, eerste volzin, en elfde lid, de bekostiging voor materiële instandhouding van het samenwerkingsverband, bedoeld in artikel 118, achtste lid, overschrijdt, wordt het bedrag waarmee die bekostiging wordt overschreden door Onze minister in mindering gebracht op de materiële bekostiging van alle scholen en scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra, waarvan één of meer vestigingen zijn gelegen in het gebied van het samenwerkingsverband. Het bedrag dat in mindering wordt gebracht wordt per school dan wel school voor speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4, bedoeld in de Wet op de expertisecentra, voor zover het betreft het daaraan verzorgde speciaal onderwijs bepaald op basis van het leerlingenaantal van de desbetreffende vestiging of vestigingen in het samenwerkingsverband. 
 
 ###Artikel 119 
 
@@ -3148,6 +3156,32 @@ b. voor zover het betreft uitkeringen die zijn ontstaan na 31 december 1997: in
 
 1.  Met betrekking tot de op 31 december 1997 door het Rijk nog niet vastgestelde of uitgekeerde bedragen, blijven van toepassing de bij of krachtens de Wet op de onderwijsverzorging gegeven voorschriften die betrekking hebben op de schoolbegeleidingsdiensten, bedoeld in Hoofdstuk II, Titel II, van die wet.   
 2.  Met betrekking tot de op 31 december 2001 door het Rijk nog niet vastgestelde of uitgekeerde bedragen, blijven van toepassing de bij of krachtens artikel V, Titel A, van de wet van 15 mei 1997, Stb. 252, gegeven voorschriften.  
+
+### Artikel  194a  
+
+####Invoeringsbepaling wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175)
+
+1.  Onze Minister stelt regels van tijdelijke aard vast die de invoering van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175) vergemakkelijken, door het verstrekken van aanvullende bekostiging aan bevoegde gezagsorganen die in ieder geval voldoen aan de volgende eisen: 
+
+a. het bevoegd gezag ontvangt een bij ministeriële regeling te bepalen hoeveelheid bekostiging als bedoeld in artikel 134, eerste lid, en  
+
+b. het onder het bevoegd gezag ressorterende hoofdgebouw van een school of hoofdgebouw van een nevenvestiging, of één of meer van de onder het bevoegd gezag ressorterende hoofdgebouwen van scholen of hoofdgebouwen van nevenvestigingen, danwel een bij ministeriële regeling te bepalen percentage van de onder het bevoegd gezag ressorterende hoofdgebouwen van scholen of hoofdgebouwen van nevenvestigingen is of zijn gebouwd in een bij ministeriële regeling te bepalen tijdvak.     
+2.  De hoogte van het bedrag van de aanvullende bekostiging wordt per leerling van één van de scholen of nevenvestigingen, bedoeld in het eerste lid, onderdeel b, vastgesteld.   
+3.  Dit artikel vervalt met ingang van 1 januari van het vierde jaar na de datum van inwerkingtreding van artikel I van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175).  
+
+### Artikel  194b  
+
+####Overgangsbepaling aanhangige bezwaren en beroepen in verband met de overheveling buitenonderhoud en aanpassingen aan het gebouw (wet van 7 mei 2014, Stb. 175)
+
+Op geschillen die in bezwaar, beroep of hoger beroep aanhangig zijn of binnen de bezwaar- dan wel beroepstermijn dan wel verschoonbaar daarbuiten aanhangig worden gemaakt tegen besluiten van de gemeente inzake bouwkundige aanpassingen die zijn genomen voor de inwerkingtreding van artikel I van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175) op grond van bepalingen bij of krachtens hoofdstuk I, titel IV, afdeling 3, van deze wet, zoals luidend op de dag voor de inwerkingtreding van artikel I van die wet, blijven de op die datum geldende regelingen van toepassing. De eerste volzin is hangende het bezwaar, beroep of hoger beroep van overeenkomstige toepassing op de bevoegdheid tot het intrekken en vervangen van besluiten die tot de aldaar bedoelde geschillen hebben geleid. 
+
+### Artikel  194c  
+
+####Overgangsbepaling liggende aanvragen en vastgestelde programma’s huisvestingsvoorzieningen in verband met de overheveling buitenonderhoud en aanpassingen aan het gebouw (wet van 7 mei 2014, Stb. 175)
+
+1.  Aanvragen als bedoeld in artikel 94 van deze wet, voor zover betreft voorzieningen als bedoeld in artikel 92, eerste lid, onderdeel b, van deze wet zoals luidend op de dag voor de inwerkingtreding van artikel I van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175), die worden ingediend na de inwerkingtreding van artikel I van die wet, blijven buiten behandeling.   
+2.  Het programma huisvestingsvoorzieningen dat op grond van artikel 95 van deze wet is vastgesteld voor het jaar waarin artikel I van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175) in werking treedt, vervalt voor zover het betreft voorzieningen als bedoeld in artikel 92, eerste lid, onderdeel b, van deze wet zoals luidend op de dag voor de inwerkingtreding van artikel I van die wet.   
+3.  De programma’s huisvestingsvoorzieningen die op grond van artikel 95 van deze wet zijn vastgesteld voor de jaren voorafgaand aan de inwerkingtreding van artikel I van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175) worden volledig uitgevoerd.  
 
 ###Hoofdstuk  V  
 

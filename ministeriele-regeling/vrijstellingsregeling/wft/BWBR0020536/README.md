@@ -252,7 +252,7 @@ e. bemiddelaars, met uitzondering van bemiddelaars in krediet, voorzover zij bem
 
 3°. consumenten of, indien het financiële diensten met betrekking tot verzekeringen of herverzekeringsbemiddeling betreft, cliënten waarmee zij in een formele of feitelijke zeggenschapsstructuur zijn verbonden;    
 
-f. gemeenten voorzover zij bemiddelen in zorgverzekeringen of ziektekostenverzekeringen ter aanvulling van zorgverzekeringen tussen financiëledienstverleners en consumenten van wie het inkomen niet meer dan 130 procent van de relevante bijstandnorm als bedoeld in hoofdstuk 3 van de Wet werk en bijstand bedraagt;  
+f. gemeenten voorzover zij bemiddelen in zorgverzekeringen of ziektekostenverzekeringen ter aanvulling van zorgverzekeringen tussen financiëledienstverleners en consumenten van wie het inkomen niet meer dan 130 procent van de relevante bijstandnorm als bedoeld in hoofdstuk 3 van de Participatiewet bedraagt;  
 
 g. bemiddelaars die voor het verlenen van beleggingsdiensten een op grond van artikel 2:96 van de wet verleende vergunning hebben, voorzover zij niet bemiddelen in verzekeringen of hypothecair krediet;  
 
@@ -840,7 +840,7 @@ d. bemiddelaars in verzekeringen als bedoeld in artikel 7, aanhef en onderdelen 
 
 e. bemiddelaars in verzekeringen als bedoeld in artikel 7, aanhef en onderdeel a;  
 
-f. gemeenten voorzover zij bemiddelen in zorgverzekeringen of ziektekostenverzekeringen ter aanvulling van een zorgverzekering tussen financiëledienstverleners en consumenten van wie het inkomen niet meer dan 130 procent van de relevante bijstandnorm als bedoeld in hoofdstuk 3 van de Wet werk en bijstand bedraagt.  
+f. gemeenten voorzover zij bemiddelen in zorgverzekeringen of ziektekostenverzekeringen ter aanvulling van een zorgverzekering tussen financiëledienstverleners en consumenten van wie het inkomen niet meer dan 130 procent van de relevante bijstandnorm als bedoeld in hoofdstuk 3 van de Participatiewet bedraagt.  
 
 g. gemeenten als bedoeld in onderdeel f voorzover zij adviseren over de verzekering waarin zij bemiddelen.     
 2.  Het eerste lid, aanhef en onderdeel a, is slechts van toepassing voorzover de desbetreffende bemiddelaar in reclame-uitingen en documenten waarin een aanbod van het beleggingsobject in het vooruitzicht wordt gesteld vermeldt dat hij voor het bemiddelen in het beleggingsobject niet onder toezicht staat van de Autoriteit Financiële Markten.   
@@ -1004,7 +1004,7 @@ b. die werkgever of de met die werkgever in een groep verbonden rechtspersoon, v
 
 1.  Van artikel 5:68 van de wet zijn vrijgesteld: 
 
-a. beleggingsinstellingen of icbe’s die een startersfonds zijn als bedoeld in artikel 4.1 van de Subsidieregeling starten, groeien en overdragen van ondernemingen;  
+a. beleggingsinstellingen of icbe’s die een startersfonds zijn als bedoeld in artikel 3.10.1 van de Regeling nationale EZ-subsidies;  
 
 b. beleggingsinstellingen of icbe’s waarvan: 
 
@@ -1065,7 +1065,7 @@ c. die rechten van deelneming aanbieden aan minder dan 150 personen die geen gek
 
 d. die rechten van deelneming uitsluitend aanbieden aan gekwalificeerde beleggers;  
 
-e. die een startersfonds zijn als bedoeld in artikel 4.1 van de Subsidieregeling starten, groeien en overdragen van ondernemingen;  
+e. die een startersfonds zijn als bedoeld in artikel 3.10.1 van de Regeling nationale EZ-subsidies;  
 
 f. waarvan: 
 

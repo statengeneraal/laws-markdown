@@ -648,7 +648,7 @@ c. testamenten.
 
 ### Artikel  51  
 
-1.  Het zegel van de notaris bevat het koninklijk wapen en in het randschrift de hoedanigheid van notaris, de eerste letters van zijn voornamen, zijn naam en zijn plaats van vestiging. Het zegel wordt aangebracht op alle door hem uit te geven akten en af te geven grossen, afschriften en uittreksels, verklaringen van erfrecht als bedoeld in artikel 188 van Boek 4 van het Burgerlijk Wetboek, legalisaties en andere verklaringen die door de notaris als zodanig worden afgegeven. Met het zegel worden stukken aan akten gehecht. Het zegel wordt tevens gebezigd bij de handeling, bedoeld in artikel 658 van het Wetboek van Burgerlijke Rechtsvordering, en andere verzegelingen die de notaris als zodanig verricht.   
+1.  Het zegel van de notaris bevat het koninklijk wapen en in het randschrift de hoedanigheid van notaris, de eerste letters van zijn voornamen, zijn naam en zijn plaats van vestiging. Het zegel wordt aangebracht op alle door hem uit te geven akten en af te geven grossen, afschriften en uittreksels, verklaringen van erfrecht als bedoeld in artikel 188 van Boek 4 van het Burgerlijk Wetboek, legalisaties en andere verklaringen die door de notaris als zodanig worden afgegeven. Het zegel wordt tevens gebezigd bij de handeling, bedoeld in artikel 658 van het Wetboek van Burgerlijke Rechtsvordering, en andere verzegelingen die de notaris als zodanig verricht.   
 2.  De notaris moet ervoor zorgen dat van het zegel geen misbruik kan worden gemaakt.  
 
 ### Artikel  52  
@@ -1136,9 +1136,8 @@ Het verslag, bedoeld in artikel 4:24 van de Algemene wet bestuursrecht, wordt o
 
 ### Artikel 113c 
 
-1. De artikelen 1, 2, 20, tweede en derde lid, 21, 22 tot en met 106, 110 tot en met 213 en 214, tweede en vijfde tot en met zevende lid, van de Wet verplichte beroepspensioenregeling zijn van toepassing. 
-2. Artikel 19 van de Wet verplichte beroepspensioenregeling is van toepassing, met dien verstande dat in het eerste lid voor «verplichtstelling» wordt gelezen: verplichte deelneming op grond van artikel 113a van de Wet op het notarisambt. 
-3. De artikelen 17 en 214, derde lid, van de Wet verplichte beroepspensioenregeling zijn van overeenkomstige toepassing.
+1.  De artikelen 1, 2, 17, 20, tweede en derde lid, 21, 22 tot en met 106, 109a tot en met 213 en 214, met uitzondering van het eerste en vierde lid, van de Wet verplichte beroepspensioenregeling zijn van toepassing.  
+2. Artikel 19 van de Wet verplichte beroepspensioenregeling is van toepassing, met dien verstande dat in het eerste lid voor «verplichtstelling» wordt gelezen: verplichte deelneming op grond van artikel 113a van de Wet op het notarisambt.
 
 ### Titel  X  
 

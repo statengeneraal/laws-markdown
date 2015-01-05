@@ -18,7 +18,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *beheerder:* beheerder van de lokale spoorweginfrastructuur die als zodanig is aangewezen op grond van artikel 18, eerste lid;  
 
-*dagelijks bestuur:* dagelijks bestuur van een plusregio;  
+*dagelijks bestuur:* dagelijks bestuur van een openbaar lichaam als bedoeld in artikel 20, derde lid, van de Wet personenvervoer 2000;  
 
 *Locaalspoor- en Tramwegwet:* Wet van 9 juli 1900, houdende nadere regeling van den dienst en het gebruik van spoorwegen, waarop uitsluitend met beperkte snelheid wordt vervoerd (Stb. 1900, 118);  
 
@@ -31,8 +31,6 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 *Metroreglement:* Besluit van 30 oktober 1981, houdende vaststelling van een Algemeen reglement voor de stadsspoorwegen (Stb. 1981, 700);  
 
 *Onze Minister:* Onze Minister van Infrastructuur en Milieu;  
-
-*plusregio:* regio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat;  
 
 *rechthebbende:* eigenaar, bezitter of degene die een recht van erfpacht, opstal, vruchtgebruik, gebruik, huur of pacht heeft;  
 
@@ -54,7 +52,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 *vervoerder:* onderneming die met een spoorvoertuig vervoer verricht over een lokale spoorweg;  
 
-*wegbeheerder:* overheden, genoemd in de artikelen 15 tot en met 17 van de Wegenwet dan wel de plusregio voor zover het wegbeheer krachtens de Wet gemeenschappelijke regelingen door de wegbeheerder aan de plusregio is overgedragen;  
+*wegbeheerder:* overheden, genoemd in de artikelen 15 tot en met 17 van de Wegenwet of, indien van toepassing, het openbaar lichaam als bedoeld in artikel 20, derde lid van de Wet personenvervoer 2000 voor zover het wegbeheer aan het openbaar lichaam is overgedragen;  
 
 *weggebruiker:* weggebruiker als bedoeld in artikel 1 van het Reglement verkeersregels en verkeerstekens 1990;  
 
@@ -91,9 +89,9 @@ Treedt in werking per 01-12-2015
 ### Artikel  4  
 Treedt in werking per 01-12-2015 
 
-1.  Gedeputeerde staten dragen zorg voor de aanleg en het beheer van de lokale spoorweginfrastructuur in het gebied van de provincie voor zover die infrastructuur niet is gelegen in het gebied van de plusregio.   
-2.  Het dagelijks bestuur draagt zorg voor de aanleg en het beheer van de lokale spoorweginfrastructuur, voor zover die gelegen is in het gebied van de plusregio.   
-3.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen hun bevoegdheden, bedoeld in de artikelen 9, tweede lid, 10 derde lid, 11, 12, 17, derde lid, 18, 20, vierde lid, 21, tweede, derde en vierde lid, 22, tweede lid, 24, eerste lid, 32, tweede en vijfde lid, 33, derde lid, 34, eerste en zesde lid, en 35, tweede lid, overdragen aan het college van burgemeester en wethouders van een van de in het gebied van die provincie of plusregio liggende gemeenten.  
+1.  Gedeputeerde staten dragen zorg voor de aanleg en het beheer van de lokale spoorweginfrastructuur in het gebied van de provincie voor zover die infrastructuur niet is gelegen in het krachtens artikel 20, derde lid, van de Wet personenvervoer 2000 aangewezen gebied.   
+2.  Het dagelijks bestuur draagt zorg voor de aanleg en het beheer van de lokale spoorweginfrastructuur, voor zover die gelegen is in het krachtens artikel 20, derde lid, van de Wet personenvervoer 2000 aangewezen gebied.   
+3.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur kunnen hun bevoegdheden, bedoeld in de artikelen 9, tweede lid, 10 derde lid, 11, 12, 17, derde lid, 18, 20, vierde lid, 21, tweede, derde en vierde lid, 22, tweede lid, 24, eerste lid, 32, tweede en vijfde lid, 33, derde lid, 34, eerste en zesde lid, en 35, tweede lid, overdragen aan het college van burgemeester en wethouders van een van de in het gebied van die provincie of in het krachtens artikel 20, derde lid, van de Wet personenvervoer 2000 aangewezen gebied liggende gemeenten.  
 
 ### Artikel  5  
 Treedt in werking per 01-12-2015 
@@ -472,7 +470,7 @@ Treedt in werking per 01-12-2015
 a. de door de beheerder te bieden kwaliteit van de lokale spoorweginfrastructuur; en  
 
 b. de dagen en tijdstippen waarop het vervoer over de lokale spoorweginfrastructuur is toegestaan.     
-2.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur stellen een beleidskader vast met toewijzingscriteria, dat de beheerder in acht neemt bij de verdeling van de vervoercapaciteit, waarbij voorrang wordt gegeven aan de capaciteit die redelijkerwijs nodig is voor de uitvoering van de concessie, bedoeld in artikel 20, tweede lid, van de Wet personenvervoer 2000.   
+2.  Gedeputeerde staten onderscheidenlijk het dagelijks bestuur stellen een beleidskader vast met toewijzingscriteria, dat de beheerder in acht neemt bij de verdeling van de vervoercapaciteit, waarbij voorrang wordt gegeven aan de capaciteit die redelijkerwijs nodig is voor de uitvoering van de concessie, bedoeld in artikel 20, tweede of derde lid, van de Wet personenvervoer 2000.   
 3.  Het is verboden de door de beheerder toegewezen vervoercapaciteit over te dragen of in gebruik te geven aan een andere vervoerder.  
 
 ### Artikel  31  

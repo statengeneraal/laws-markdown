@@ -22,9 +22,9 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 –accountant: een accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek;
 
-–afkoop: iedere handeling waardoor pensioenaanspraken of pensioenrechten hun pensioenbestemming verliezen;
+– afkoop: iedere handeling waardoor pensioenaanspraken en pensioenrechten hun pensioenbestemming verliezen, behoudens in geval van toepassing van artikel 129 of artikel 3:160 van de Wet op het financieel toezicht; 
 
-–arbeidsongeschiktheidspensioen: een geldelijke, vastgestelde uitkering wegens arbeidsongeschiktheid van de beroepsgenoot of gewezen beroepsgenoot, waarop recht bestaat nadat de arbeidsongeschiktheid 104 weken heeft geduurd of, indien er sprake is van een beroepsgenoot in loondienst, waarop recht bestaat na afloop van de periode bedoeld in artikel 29, eerste lid, van de Ziektewet of, indien de beroepsgenoot Ziektewetuitkering ontvangt, na afloop van de periode bedoeld in artikel 29, vijfde en negende lid, van de Ziektewet;
+–arbeidsongeschiktheidspensioen: een geldelijke, vastgestelde uitkering wegens arbeidsongeschiktheid van de beroepsgenoot of gewezen beroepsgenoot, waarop recht bestaat nadat de arbeidsongeschiktheid 104 weken heeft geduurd of, indien er sprake is van een beroepsgenoot in loondienst, waarop recht bestaat na afloop van de periode bedoeld in artikel 29, eerste lid, van de Ziektewet of, indien de beroepsgenoot Ziektewetuitkering ontvangt, na afloop van de periode bedoeld in artikel 29, vijfde en tiende lid, van de Ziektewet;
 
 –basispensioenregeling: de collectieve beroepspensioenregeling of het deel van de beroepspensioenregeling waaraan de beroepsgenoot op basis van de beroepspensioenregeling gehouden is om deel te nemen;
 
@@ -44,7 +44,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 2°.indien de aan een beroepspensioenregeling deelnemende zelfstandige of beroepsgenoot in een andere lidstaat dan Nederland is gevestigd, een overeenkomst, een trustakte of voorschriften waarin is bepaald welke pensioenuitkeringen worden toegezegd en onder welke voorwaarden;
 
-–beroepspensioenvereniging: een vereniging waarvan beroepsgenoten lid zijn en die volledige rechtsbevoegdheid bezit, waarvan het statutaire doel uitsluitend omvat het verzorgen van een beroepspensioenregeling en waarbij het lidmaatschap niet automatisch voortvloeit uit het lidmaatschap van enig andere organisatie;
+–beroepspensioenvereniging: een vereniging waarvan beroepsgenoten lid zijn en die volledige rechtsbevoegdheid bezit, waarvan het statutaire doel uitsluitend omvat het verzorgen van een beroepspensioenregeling en waarbij het lidmaatschap niet automatisch voortvloeit uit het lidmaatschap van enig andere organisatie of uit het deelnemen in een beroepspensioenregeling;
 
 –bevoegde autoriteiten: de nationale autoriteiten van andere lidstaten dan Nederland die op grond van artikel 6, onderdeel g, van richtlijn 2003/41/EG zijn aangewezen om de in die richtlijn vastgelegde taken te verrichten;
 
@@ -55,6 +55,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 –buitenlandse instelling: een instelling met zetel buiten Nederland, niet zijnde een pensioeninstelling of verzekeraar in een andere lidstaat, een van de Europese Gemeenschappen of een instelling als bedoeld in artikel 81, tweede lid;
 
 –deelnemer: de beroepsgenoot die op grond van een beroepspensioenregeling pensioenaanspraken verwerft jegens de pensioenuitvoerder;
+
+– dekkingsgraad: de verhouding tussen het vermogen inzake de bij een beroepspensioenfonds ondergebrachte beroepspensioenregeling of beroepspensioenregelingen en de technische voorzieningen van een beroepspensioenfonds; 
 
 –elektronisch: door middel van een elektronische informatiedrager die de ontvanger in staat stelt de verstrekte informatie duurzaam te bewaren;
 
@@ -69,6 +71,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 –lidstaat: een lidstaat van de Europese Unie alsmede een staat, niet zijnde een lidstaat van de Europese Unie, die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte;
 
 –nabestaandenpensioen: partnerpensioen of wezenpensioen;
+
+–nettopensioen: ouderdomspensioen of nabestaandenpensioen in de vorm van een nettopensioen als bedoeld in afdeling 5.3B van de Wet inkomstenbelasting 2001;
 
 –ontvangende pensioenuitvoerder: de pensioenuitvoerder aan wie in het kader van waardeoverdracht waarde wordt overgedragen;
 
@@ -170,7 +174,8 @@ c. kan worden bepaald dat pensioenuitvoerders verplicht zijn mee te werken aan s
 
 d. kunnen regels worden gesteld betreffende een goede uitvoering.     
 5.  De regeling, bedoeld in het vierde lid, is uitsluitend van toepassing indien de pensioendatum is gelegen na 31 december 2008 en het op de pensioendatum beschikbaar komende kapitaal nog niet is aangewend voor aankoop van een levenslange uitkering. 
-6.  Waar in deze wet sprake is van de Nederlandse sociale en arbeidswetgeving betreft dit in ieder geval de artikelen 1, 2, 19 tot en met 23, 28 tot en met 39, 44, 45, 48 tot en met 64, 66 tot en met 103 en 105.
+6.  Waar in deze wet sprake is van de Nederlandse sociale en arbeidswetgeving betreft dit in ieder geval de artikelen 1, 2, 19 tot en met 23, 28 tot en met 39, 44, 45, 48 tot en met 64, 66 tot en met 103 en 105. 
+7.  Een nettolijfrente als bedoeld in artikel 5.16, tweede lid, van de Wet inkomstenbelasting 2001 is geen pensioen in de zin van deze wet. 
 
 ###Artikel 3 
 
@@ -200,8 +205,13 @@ De Wet op het financieel toezicht is niet van toepassing op de verhouding tussen
 a. daartoe een aanvraag wordt gedaan door een beroepspensioenvereniging, en  
 
 b. die beroepspensioenvereniging een naar het oordeel van de minister belangrijke meerderheid van de beroepsgenoten die tot de beroepsgroep behoren, vertegenwoordigt.     
-2.  Van de verplichtstelling zijn arbitrale bedingen als bedoeld in artikel 1020, vijfde lid, van het Wetboek van Burgerlijke Rechtsvordering uitgesloten.   
-3.  Indien zowel zelfstandig werkzame beroepsgenoten als beroepsgenoten die in loondienst werkzaam zijn deelnemen aan de beroepspensioenregeling wordt pas voldaan aan het eerste lid, onderdeel b, wanneer voor beide groepen afzonderlijk is aangetoond dat de beroepspensioenvereniging een belangrijke meerderheid van die beroepsgenoten vertegenwoordigt.  
+2.  Van de verplichtstelling zijn uitgesloten: 
+
+a. arbitrale bedingen als bedoeld in artikel 1020, vijfde lid, van het Wetboek van Burgerlijke Rechtsvordering;  
+
+b. beroepspensioenregelingen die niet blijven binnen de begrenzingen die zijn opgenomen in artikel 18a van de Wet op de loonbelasting 1964 en die niet krachtens artikel 19d van die wet zijn aangewezen, behalve indien en zolang de in artikel 18a van die wet opgenomen begrenzingen op grond van hoofdstuk VIII van die wet op die beroepspensioenregelingen niet van toepassing zijn of sprake is van een nettopensioen.     
+3.  Indien zowel zelfstandig werkzame beroepsgenoten als beroepsgenoten die in loondienst werkzaam zijn deelnemen aan de beroepspensioenregeling wordt pas voldaan aan het eerste lid, onderdeel b, wanneer voor beide groepen afzonderlijk is aangetoond dat de beroepspensioenvereniging een belangrijke meerderheid van die beroepsgenoten vertegenwoordigt.   
+4.  Voor de toepassing van het tweede lid, onderdeel b, zijn de artikelen 3.18, vierde en vijfde lid, en 3.95, eerste lid, tweede volzin, van de Wet inkomstenbelasting 2001 alsmede de daarop berustende bepalingen van overeenkomstige toepassing. 
 
 ### Artikel  6  
 
@@ -228,7 +238,7 @@ e.een eventuele overeenkomst tot overdracht of verzekering.
 a. een door het bestuur van de beroepspensioenvereniging gewaarmerkt afschrift van de getekende overeenkomst tussen de verzekeraar of de premiepensioeninstelling en de beroepspensioenvereniging;  
 
 b. een door de beroepspensioenvereniging gewaarmerkt afschrift van de getekende wijzigingsovereenkomst indien er een wijziging van de overeenkomst heeft plaatsgevonden.     
-4.  Bij ministeriële regeling kunnen met betrekking tot de aanvraag alsmede met betrekking tot de bij te voegen stukken nadere regels worden gesteld.  
+4.  Bij ministeriële regeling kunnen met betrekking tot de aanvraag alsmede met betrekking tot de bij te voegen stukken nadere regels worden gesteld, waarbij kan worden bepaald dat de indiening van de aanvraag uitsluitend langs elektronische weg kan geschieden, tenzij naar het oordeel van Onze Minister sprake is van omstandigheden die zich daartegen verzetten.  
 
 ### Artikel  7  
 
@@ -256,13 +266,13 @@ c.een verzekeraar met een zetel buiten Nederland, mits die verzekeraar op grond 
 ####Wijziging van de verplichtstelling
 
 1.  Onze Minister kan de verplichtstelling wijzigen indien daartoe een aanvraag wordt gedaan door een beroepspensioenvereniging die voldoet aan artikel 5, eerste lid, onderdeel b.   
-2.  Artikel 5, derde lid en artikel 6, eerste lid, onderdeel a, tweede lid, onderdeel d, en derde lid, onderdeel b, zijn van overeenkomstige toepassing.   
+2.  Artikel 5, tweede tot en met vierde lid, en artikel 6, eerste lid, onderdeel a, tweede lid, onderdeel d, en derde lid, onderdeel b, zijn van overeenkomstige toepassing.   
 3.  Indien de beroepspensioenregeling wordt uitgevoerd door een beroepspensioenfonds gaat de aanvraag tevens vergezeld van: 
 
 a. een authentiek afschrift van de akte houdende wijziging van de statuten indien er een wijziging van de statuten heeft plaatsgevonden;  
 
 b. een door het beroepspensioenfonds gewaarmerkt exemplaar van de wijzigingen van de reglementen indien er een wijziging van de reglementen heeft plaatsgevonden.     
-4.  Bij ministeriële regeling kunnen met betrekking tot het eerste en tweede lid nadere regels worden gesteld.  
+4.  Bij ministeriële regeling kunnen met betrekking tot het eerste en tweede lid nadere regels worden gesteld, waarbij kan worden bepaald dat de indiening van de aanvraag uitsluitend langs elektronische weg kan geschieden, tenzij er naar het oordeel van Onze Minister sprake is van omstandigheden die zich daartegen verzetten.  
 
 ### Artikel  10  
 
@@ -311,14 +321,14 @@ c. deze intrekking niet tot gevolg heeft dat de verplichtstelling slechts restee
 3.  De aanvraag, bedoeld in het eerste lid, gaat vergezeld van een verklaring waaruit blijkt dat wordt voldaan aan het eerste lid.   
 4.  De aanvraag, bedoeld in het tweede lid, gaat vergezeld van een verklaring waaruit blijkt dat wordt voldaan aan het tweede lid, onderdeel b.   
 5.  Artikel 5, derde lid, is van overeenkomstige toepassing.   
-6.  Bij ministeriële regeling kunnen met betrekking tot de aanvragen, bedoeld in het eerste lid en tweede lid, alsmede met betrekking tot de bij te voegen stukken nadere regels worden gesteld.  
+6.  Bij ministeriële regeling kunnen met betrekking tot de aanvragen, bedoeld in het eerste lid en tweede lid, alsmede met betrekking tot de bij te voegen stukken nadere regels worden gesteld, waarbij kan worden bepaald dat de indiening van de aanvragen uitsluitend langs elektronische weg kan geschieden, tenzij er naar het oordeel van Onze Minister sprake is van omstandigheden die zich daartegen verzetten.  
 
 ### Artikel  14  
 
 ####Ambtshalve intrekking van de verplichtstelling
 
 1.  In uitzonderlijke gevallen kan Onze Minister de verplichtstelling ambtshalve voor alle of voor één of meer bepaalde groepen van deelnemers intrekken.  
-2. Van een uitzonderlijk geval is in ieder geval sprake indien er geen bijdragen meer aan de pensioenuitvoerder worden gedaan. 
+2. Van een uitzonderlijk geval is in ieder geval sprake indien er geen bijdragen meer aan de pensioenuitvoerder worden gedaan dan wel indien het een beroepspensioenregeling als bedoeld in artikel 5, tweede lid, onderdeel b, betreft. 
 
 ### Artikel  15  
 
@@ -351,7 +361,7 @@ f. een voornemen tot ambtshalve intrekking van een verplichtstelling;
 g. een intrekking van een verplichtstelling; 
 
 h.het niet verder in behandeling nemen van een aanvraag.    
-2.  Bij de mededelingen, bedoeld in het eerste lid, onderdelen a, c, e en f, vermeldt Onze Minister de termijn waarbinnen zienswijzen tegen de inhoud van hetgeen is meegedeeld schriftelijk bij hem naar voren kunnen worden gebracht.  
+2.  Bij de mededelingen, bedoeld in het eerste lid, onderdelen a, c, e en f, vermeldt Onze Minister de termijn waarbinnen zienswijzen tegen de inhoud van hetgeen is meegedeeld schriftelijk bij hem naar voren kunnen worden gebracht. Bij ministeriële regeling kan worden bepaald dat de indiening van de zienswijze uitsluitend langs elektronische weg kan plaatsvinden, tenzij er naar het oordeel van Onze Minister sprake is van omstandigheden die zich daartegen verzetten.  
 
 ### Artikel  17  
 
@@ -365,7 +375,7 @@ h.het niet verder in behandeling nemen van een aanvraag.
 ####Ontheffing
 
 1.  Onverminderd artikel 17 kan onze Minister een persoon die slechts tijdelijk in Nederland werkzaam is, op aanvraag in een bijzonder, individueel geval voorwaardelijk of onvoorwaardelijk voor de periode dat die persoon in Nederland werkzaam is ontheffing verlenen van de verplichtstelling.   
-2.  Bij ministeriële regeling kunnen nadere regels met betrekking tot de aanvraag worden gesteld.  
+2.  Bij ministeriële regeling kunnen nadere regels met betrekking tot de aanvraag worden gesteld, waarbij voor de indiening van de aanvraag kan worden bepaald dat deze uitsluitend langs elektronische weg kan geschieden, tenzij er naar het oordeel van Onze Minister sprake is van omstandigheden die zich daartegen verzetten.  
 
 ### Artikel  19  
 
@@ -449,7 +459,7 @@ b. premies ten behoeve van vrijwillige pensioenregelingen.
 a.zonder een daartoe door de toezichthouder verleende vergunning; en
 
 b.zonder de toezichthouder van het voornemen daartoe in kennis te hebben gesteld, op de wijze, bedoeld in artikel 26, en met inachtneming van artikel 190. 
-2. Voor de toepassing van het eerste lid, artikel 135, derde lid, onderdeel b, artikel 136, tweede lid, en de paragrafen 4.2 en 4.3 wordt onder het ontvangen van bijdragen verstaan het ontvangen van bijdragen voor de uitvoering van een pensioenregeling die afkomstig is uit een andere lidstaat dan de lidstaat waar het beroepspensioenfonds gevestigd is.
+2. Voor de toepassing van het eerste lid, artikel 133, vierde lid, artikel 135, tweede lid, en de paragrafen 4.2 en 4.3 wordt onder het ontvangen van bijdragen verstaan het ontvangen van bijdragen voor de uitvoering van een pensioenregeling die afkomstig is uit een andere lidstaat dan de lidstaat waar het beroepspensioenfonds gevestigd is.
 
 ###Artikel 26 
 
@@ -552,7 +562,7 @@ d.de procedures welke gelden bij het niet nakomen van premiebetalingsverplichtin
 
 e.de procedures welke gelden bij het opstellen en wijzigen van het pensioenreglement in verband met het sluiten en wijzigen van een beroepspensioenregeling;
 
-f.de voorwaarden waaronder toeslagverlening plaatsvindt;
+f. de maatstaven voor en voorwaarden waaronder toeslagverlening plaatsvindt; 
 
 g.de uitgangspunten en procedures welke gelden ten aanzien van de besluitvorming over vermogenstekorten en vermogensoverschotten dan wel winstdeling;
 
@@ -825,6 +835,13 @@ b.een opgave van de reglementair te bereiken pensioenaanspraken uit hoofde van d
 c.de toeslagverlening. 
 2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de in het eerste lid bedoelde opgave en informatie en de wijze waarop deze worden verstrekt.
 
+### Artikel  56a  
+
+####Informatie over uitvoeringskosten
+
+1.  Een beroepspensioenfonds neemt in zijn jaarverslag informatie op over de uitvoeringskosten over het voorafgaande verslagjaar, waarbij worden onderscheiden: administratieve uitvoeringskosten, de kosten van vermogensbeheer en transactiekosten.   
+2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel.  
+
 ### Artikel 57 
 
 ####Informatie op verzoek
@@ -958,7 +975,8 @@ a.de pensioenuitvoerder bereid is een eventueel uit die overdracht voortvloeiend
 
 b.de vervreemding onherroepelijk is; en
 
-c.dit wordt overeengekomen bij notarieel verleden akte. 
+c.dit wordt overeengekomen bij notarieel verleden akte.  
+6.  Indien na toepassing van het eerste of tweede lid de gewezen partner overlijdt voordat de deelnemer of gewezen deelnemer overlijdt, maakt de aanspraak op het partnerpensioen vanaf het moment van overlijden van de gewezen partner weer deel uit van de pensioenaanspraken van de deelnemer of gewezen deelnemer, bedoeld in het eerste en tweede lid, voor zover dit in de betrokken beroepspensioenregeling is bepaald. 
 
 ### Artikel  69  
 
@@ -1098,19 +1116,19 @@ e.in het kader van een verrekening van pensioenrechten bij scheiding de waarde v
 
 ####Afkoop
 
-1. Afkoop is slechts mogelijk in bij of krachtens de artikelen 78 tot en met 80 en 129 bedoelde situaties of in geval van toepassing van artikel 3:160 van de Wet op het financieel toezicht. 
+1. Afkoop is slechts mogelijk in bij of krachtens de artikelen 78 tot en met 80a bedoelde situaties. 
 2. Elk beding strijdig met dit artikel is nietig.
 
 ### Artikel  78  
 
 ####Afkoop klein ouderdomspensioen bij beëindiging deelneming
 
-1. De pensioenuitvoerder heeft het recht om op zijn vroegst twee jaar na beëindiging van de deelneming pensioenaanspraken van een gewezen deelnemer af te kopen, indien op basis van de tot het tijdstip van beëindiging opgebouwde aanspraak op ouderdomspensioen de uitkering van het ouderdomspensioen op jaarbasis op de reguliere ingangsdatum minder zal bedragen dan € 400 per 1 januari 2014: € 458,06 per jaar, tenzij:
+1. De pensioenuitvoerder heeft het recht om op zijn vroegst twee jaar na beëindiging van de deelneming pensioenaanspraken van een gewezen deelnemer af te kopen, indien op basis van de tot het tijdstip van beëindiging opgebouwde aanspraak op ouderdomspensioen de uitkering van het ouderdomspensioen op jaarbasis op de reguliere ingangsdatum minder zal bedragen dan € 400 per 1 januari 2015: € 462,88 per jaar, tenzij:
 
 a.dit recht op afkoop in de beroepspensioenregeling en uitvoeringsovereenkomst is beperkt of uitgesloten; of
 
 b.de gewezen deelnemer binnen twee jaar na beëindiging van de deelneming een procedure tot waardeoverdracht is gestart. 
-2. Indien de reguliere ingangsdatum van het ouderdomspensioen ligt voor het verstrijken van de in het eerste lid genoemde termijn van twee jaar, heeft de pensioenuitvoerder het recht om bij de ingang van het ouderdomspensioen een aanspraak op ouderdomspensioen en eventuele andere aanspraken ten behoeve van de gepensioneerde of zijn nabestaanden af te kopen, indien de uitkering van het ouderdomspensioen op de ingangsdatum minder bedraagt dan € 400 per 1 januari 2014: € 458,06 per jaar. 
+2. Indien de reguliere ingangsdatum van het ouderdomspensioen ligt voor het verstrijken van de in het eerste lid genoemde termijn van twee jaar, heeft de pensioenuitvoerder het recht om bij de ingang van het ouderdomspensioen een aanspraak op ouderdomspensioen en eventuele andere aanspraken ten behoeve van de gepensioneerde of zijn nabestaanden af te kopen, indien de uitkering van het ouderdomspensioen op de ingangsdatum minder bedraagt dan € 400 per 1 januari 2015: € 462,88 per jaar. 
 3. De pensioenuitvoerder die gebruik wil maken van het in het eerste lid bedoelde recht informeert de gewezen deelnemer over zijn besluit hieromtrent binnen zes maanden na afloop van de periode van twee jaar na beëindiging van de deelneming en gaat over tot de uitbetaling van de afkoopwaarde binnen die termijn van zes maanden. 
 4. De pensioenuitvoerder die gebruik wil maken van het in het tweede lid bedoelde recht informeert de gepensioneerde over zijn besluit hieromtrent binnen zes maanden na de ingang van het pensioen en gaat over tot de uitbetaling van de afkoopwaarde binnen die termijn van zes maanden. 
 5. De pensioenuitvoerder stelt de afkoopwaarde van de pensioenaanspraken ter beschikking aan de gewezen deelnemer dan wel de gepensioneerde, met uitzondering van de afkoopwaarde van een bijzonder partnerpensioen, die ter beschikking wordt gesteld aan de gewezen partner. 
@@ -1120,10 +1138,11 @@ b.de gewezen deelnemer binnen twee jaar na beëindiging van de deelneming een pr
 a.de gewezen deelnemer of gepensioneerde daarmee instemt; en
 
 b.de hoogte van het ouderdomspensioen op jaarbasis per 1 januari van dat jaar lager is dan het in het eerste lid bedoelde grensbedrag. 
-8. Het in het eerste en tweede lid genoemde bedrag wordt bij regeling van Onze Minister telkens herzien met ingang van 1 januari op basis van de consumentenprijsindex Alle Huishoudens, zoals berekend door het Centraal Bureau voor de Statistiek. De herziening wordt bepaald door de procentuele wijziging die dat indexcijfer over de maand oktober, voorafgaand aan de aanpassing heeft ondergaan ten opzichte van de maand oktober van het daaraan voorafgaande jaar. 
+8.  Het in het eerste en tweede lid genoemde bedrag wordt telkens gewijzigd met ingang van 1 januari op basis van de consumentenprijsindex Alle Huishoudens, zoals berekend door het Centraal Bureau voor de Statistiek. De wijziging wordt bepaald door de procentuele wijziging die dat indexcijfer over de maand oktober, voorafgaand aan de aanpassing heeft ondergaan ten opzichte van de maand oktober van het daaraan voorafgaande jaar. Het gewijzigde bedrag wordt door of namens Onze Minister bekend gemaakt in de Staatscourant.  
 9. De pensioenuitvoerder waarborgt met betrekking tot perioden van opbouw vanaf 1 januari 2007 bij de vaststelling van de afkoopwaarde door vaststelling van een afkoopvoet dat geen onderscheid gemaakt wordt tussen mannen en vrouwen waarbij voldaan wordt aan het vereiste van collectieve actuariële gelijkwaardigheid. 
 10. Elk beding strijdig met dit artikel is nietig. 
-11. Bij of krachtens algemene maatregel van bestuur kunnen er nadere regels worden gesteld aan het vaststellen van de afkoopwaarde, bedoeld in het zesde lid. 
+11. Bij of krachtens algemene maatregel van bestuur kunnen er nadere regels worden gesteld aan het vaststellen van de afkoopwaarde, bedoeld in het zesde lid.  
+12.  Indien de pensioenuitvoerder door toepassing van dit artikel wil afkopen op of na de reguliere ingangsdatum van het ouderdomspensioen, en het moment waarop de pensioenuitvoerder wil afkopen, ligt voor de datum waarop het ouderdomspensioen op grond van de Algemene Ouderdomswet ingaat, dan heeft de gewezen deelnemer het recht ervoor te kiezen dat het ouderdomspensioen waarop de afkoop betrekking heeft, ingaat op de eerste dag van de maand volgend op de datum waarop het ouderdomspensioen op grond van de Algemene Ouderdomswet ingaat. De pensioenuitvoerder koopt af op het moment dat het ouderdomspensioen waarop de afkoop betrekking heeft ingaat. Artikel 74, eerste lid, is van overeenkomstige toepassing. 
 
 ###Artikel 79 
 
@@ -1151,6 +1170,24 @@ a.de gewezen partner daarmee instemt; en
 b.indien de hoogte van het partnerpensioen op jaarbasis per 1 januari van dat jaar lager is dan het op basis van artikel 78 bepaalde bedrag. 
 4. Artikel 78, zesde en negende tot en met elfde lid, is van overeenkomstige toepassing.
 
+### Artikel  80a  
+
+####Afkoop van fiscaal bovenmatig pensioen
+
+1.  De pensioenuitvoerder is bevoegd om over te gaan tot afkoop van het deel van de pensioenaanspraken: 
+
+a. dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip van ingang van het pensioen uitgaat boven de begrenzingen, bedoeld in de artikelen 18a, zevende lid, 18b, zevende lid, 18c, vijfde en zesde lid, en 18e, vierde lid, van de Wet op de loonbelasting 1964, met inachtneming van de artikelen 18d, eerste lid, onderdelen a, b, d en e, 38i, 38l en 38m van die wet; of  
+
+b. dat op het tijdstip onmiddellijk voorafgaand aan het tijdstip waarop de deelnemer of de gewezen deelnemer ophoudt binnenlands belastingplichtige te zijn uitgaat boven de begrenzingen, bedoeld in onderdeel a.     
+2.  Een pensioenuitvoerder is verplicht om op verzoek van de gerechtigde tot een pensioen over te gaan tot afkoop van het deel van de pensioenaanspraken dat uitgaat boven de begrenzingen die zijn opgenomen in de hoofdstukken IIB en VIII van de Wet op de loonbelasting 1964. De eerste zin is niet van toepassing met betrekking tot een nettopensioen, tenzij sprake is van toepassing van artikel 5.17e, vijfde lid, onderdeel a, van de Wet inkomstenbelasting 2001.   
+3.  Voor de toepassing van dit artikel zijn de artikelen 3.18, vierde en vijfde lid, en 3.95, eerste lid, tweede volzin, van de Wet inkomstenbelasting 2001 van overeenkomstige toepassing voor zover aan de beroepspensioenregeling wordt deelgenomen door deelnemers die niet worden aangemerkt als werknemer in de zin van de Wet op de loonbelasting 1964.   
+4.  De afkoopwaarde wordt door de pensioenuitvoerder aan de deelnemer of gewezen deelnemer ter beschikking gesteld, met uitzondering van de afkoopwaarde voor een bijzonder partnerpensioen die ter beschikking wordt gesteld aan de gewezen partner.   
+5.  De pensioenuitvoerder waarborgt bij de vaststelling van de afkoopwaarde door vaststelling van een afkoopvoet dat geen onderscheid gemaakt wordt tussen mannen en vrouwen waarbij voldaan wordt aan het vereiste van collectieve actuariële gelijkwaardigheid.   
+6.  Het vijfde lid heeft betrekking op pensioenaanspraken die zijn opgebouwd vanaf 1 januari 2015, tenzij in de beroepspensioenregeling is overeengekomen dat het vijfde lid tevens betrekking heeft op pensioenaanspraken die zijn opgebouwd voor die datum.   
+7.  De vorige leden zijn van overeenkomstige toepassing op pensioenaanspraken als bedoeld in de artikelen 38d, 38e en 38f van de Wet op de loonbelasting 1964.   
+8.  Elk beding strijdig met dit artikel is nietig.   
+9.  Bij of krachtens algemene maatregel van bestuur kunnen er regels worden gesteld aan het vaststellen van de afkoopwaarde.  
+
 ### Artikel  81  
 
 ####Begrip en reikwijdte waardeoverdracht
@@ -1174,11 +1211,11 @@ a.er sprake is van een individuele beëindiging van de deelneming; en
 
 b.die waardeoverdracht ertoe strekt het de gewezen deelnemer mogelijk te maken pensioenaanspraken te verwerven bij de ontvangende pensioenuitvoerder van de nieuwe beroepspensioenregeling of de werkgever;tenzij sprake is van een van de in de artikelen 83, 83a en 84 omschreven situaties.Indien het verzoek van de gewezen deelnemer tot waardeoverdracht partnerpensioen betreft is voor de waardeoverdracht van dit partnerpensioen tevens vereist dat de partner die begunstigde is voor het partnerpensioen met de waardeoverdracht instemt. 
 2. De ontvangende pensioenuitvoerder is verplicht om na een verzoek tot waardeoverdracht van een deelnemer de overdrachtswaarde aan te wenden ter verwerving van pensioenaanspraken voor die deelnemer. 
-3. De plicht van de overdragende pensioenuitvoerder om de waarde rechtstreeks over te dragen en de plicht van de ontvangende pensioenuitvoerder om de waarde aan te wenden ontstaat indien de deelnemer binnen zes maanden na aanvang van de verwerving van pensioenaanspraken in de door de ontvangende pensioenuitvoerder uitgevoerde pensioenregeling een opgave heeft gevraagd van zijn pensioenaanspraken aan de ontvangende pensioenuitvoerder en daarna het verzoek tot waardeoverdracht doet aan de ontvangende pensioenuitvoerder. 
+3. De plicht van de overdragende pensioenuitvoerder om de waarde rechtstreeks over te dragen en de plicht van de ontvangende pensioenuitvoerder om de waarde aan te wenden ontstaat indien de deelnemer na aanvang van de verwerving van pensioenaanspraken in de door de ontvangende pensioenuitvoerder uitgevoerde pensioenregeling een opgave heeft gevraagd van zijn pensioenaanspraken aan de ontvangende pensioenuitvoerder en daarna het verzoek tot waardeoverdracht doet aan de ontvangende pensioenuitvoerder. 
 4. De ontvangende pensioenuitvoerder waarborgt dat de actuariële waarde van de door de deelnemer te verwerven pensioenaanspraken ten minste gelijk is aan de op dezelfde grondslagen berekende waarde van de over te dragen pensioenaanspraken. 
 5. De overdragende en de ontvangende pensioenuitvoerder brengen in het kader van de waardeoverdracht geen kosten in rekening bij de gewezen deelnemer. 
 6. Elk beding strijdig met dit artikel is nietig. 
-7. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de berekening van de overdrachtswaarde, de waarde van met de overdrachtswaarde te verwerven pensioenaanspraken alsmede de in acht te nemen procedures. 
+7. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van nadere aan de waardeoverdracht te stellen voorwaarden en eisen, de berekening van de overdrachtswaarde, de waarde van met de overdrachtswaarde te verwerven pensioenaanspraken alsmede de in acht te nemen procedures. 
 
 ### Artikel  82a  
 
@@ -1192,11 +1229,11 @@ De in artikel 82 genoemde plicht tot waardeoverdracht geldt niet indien na de wa
 
 De in artikel 82 genoemde plicht tot waardeoverdracht geldt niet zolang:
 
-a.de overdragende of ontvangende pensioenuitvoerder een beroepspensioenfonds is waarbij de technische voorzieningen niet meer volledig door waarden worden gedekt; of
+a.de overdragende of ontvangende pensioenuitvoerder een beroepspensioenfonds is waarbij gezien de beleidsdekkingsgraad de technische voorzieningen niet meer volledig door waarden worden gedekt; of
 
 b.de overdragende of ontvangende pensioenuitvoerder een verzekeraar is:
 
-1°.waarop de noodregeling als bedoeld in artikel 3:161 van de Wet op het financieel toezicht, van toepassing is; of
+1°.waarop de noodregeling als bedoeld in artikel 3:160 van de Wet op het financieel toezicht, van toepassing is; of
 
 2°.die failliet is. 
 
@@ -1217,11 +1254,7 @@ De in artikel 82 en 99 genoemde plicht tot waardeoverdracht geldt niet met betre
 
 ####Herleving van de plicht tot waardeoverdracht bij wisseling van beroepspensioenregeling of indiensttreding bij een werkgever
 
-1. Indien de in artikel 83 genoemde omstandigheden niet meer van toepassing zijn:
-
-a.herleven de in artikel 82 bedoelde plichten van de overdragende pensioenuitvoerder en de ontvangende pensioenuitvoerder;
-
-b.wordt de in artikel 82, derde lid, omschreven verplichting van de deelnemer om binnen zes maanden een opgave te vragen en daarna een verzoek tot waardeoverdracht te doen verlengd tot zes maanden nadat de plicht tot waardeoverdracht herleeft na een periode als bedoeld in artikel 83. 
+1.  Indien de in artikel 83 genoemde omstandigheden niet meer van toepassing zijn, herleven de in artikel 82 bedoelde plichten van de overdragende pensioenuitvoerder en de ontvangende pensioenuitvoerder.  
 2. Een overdragende pensioenuitvoerder die in de periode waarin de in artikel 83 bedoelde omstandigheden op hem van toepassing zijn verzoeken tot waardeoverdracht heeft gekregen, informeert, wanneer deze omstandigheden niet meer van toepassing zijn, alle deelnemers die in die periode gewezen deelnemer zijn geworden en de betrokken ontvangende pensioenuitvoerders over de mogelijkheid alsnog waarde over te dragen. 
 3. Een ontvangende pensioenuitvoerder die in de periode waarin de in artikel 83 genoemde omstandigheden op hem van toepassing zijn verzoeken tot waardeoverdracht heeft gekregen, informeert wanneer deze omstandigheden niet meer van toepassing zijn, alle deelnemers die in die periode een verzoek tot waardeoverdracht hebben gedaan en de betrokken overdragende pensioenuitvoerders over de mogelijkheid alsnog waarde over te dragen. 
 
@@ -1231,7 +1264,7 @@ b.wordt de in artikel 82, derde lid, omschreven verplichting van de deelnemer om
 
 1. Indien in de in artikel 82 bedoelde situatie geen plicht tot waardeoverdracht bestaat omdat:
 
-a.de deelnemer niet voldaan heeft aan de in artikel 82, derde lid, omschreven verplichting om binnen zes maanden een opgave te vragen; of
+a.de deelnemer niet voldaan heeft aan een in de algemene maatregel van bestuur op grond van artikel 82, zevende lid, opgenomen voorwaarde om binnen een termijn een opgave te vragen; of
 
 b.sprake is van de in artikel 84 bedoelde situatie, is de pensioenuitvoerder bevoegd tot waardeoverdracht indien voldaan wordt aan de in artikel 82, eerste lid en vierde lid genoemde voorwaarden. 
 2. Indien in de in artikel 82 bedoelde situatie geen plicht tot waardeoverdracht bestaat, omdat er geen sprake is van een individuele beëindiging, is de pensioenuitvoerder bevoegd tot waardeoverdracht indien:
@@ -1303,6 +1336,19 @@ b. de ontvangende pensioenuitvoerder hanteert dezelfde methode als de premiepens
 6.  In afwijking van het vierde lid kunnen de in het derde lid opgenomen voorwaarden van toepassing zijn op pensioenaanspraken die zijn opgebouwd voor 1 januari 2007 indien dit is overeengekomen in de beroepspensioenregeling.   
 7.  Elk beding strijdig met dit artikel is nietig.   
 8.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld aan het vaststellen van de overdrachtswaarde.  
+
+### Artikel  89b  
+
+####Bevoegdheid tot waardeoverdracht voor tussentijdse omzetting in pensioenuitkering
+
+1.  Onverminderd de artikelen 88, 89 en 89a is de pensioenuitvoerder bevoegd om op verzoek van de deelnemer, gewezen deelnemer of andere aanspraakgerechtigde de waarde van zijn pensioenaanspraken welke voortvloeien uit een kapitaalregeling of een premieregeling op de datum van omzetting van de aanspraken in een pensioenuitkering rechtstreeks over te dragen aan een andere pensioenuitvoerder indien: 
+
+a. de beroepspensioenregeling hierin voorziet;  
+
+b. de overdrachtswaarde zodanig door de overdragende pensioenuitvoerder wordt vastgesteld dat de voor mannen en vrouwen te verwerven pensioenrechten gelijk zijn waarbij aan het vereiste van collectieve actuariële gelijkwaardigheid op basis van dezelfde grondslagen wordt voldaan; en  
+
+c. indien de ontvangende pensioenuitvoerder een beroepspensioenfonds is, de deelnemer, gewezen deelnemer of andere aanspraakgerechtigde reeds aanspraken heeft jegens dit beroepspensioenfonds.   Indien het verzoek van de deelnemer of gewezen deelnemer tot waardeoverdracht partnerpensioen betreft is voor de waardeoverdracht van dit partnerpensioen tevens vereist dat de partner die begunstigde is voor het partnerpensioen met de waardeoverdracht instemt.   
+2.  Artikel 88, tweede tot en met zesde lid, en artikel 89a, tweede lid, onderdeel b, zijn van overeenkomstige toepassing.  
 
 ### Artikel 90 
 
@@ -1467,8 +1513,8 @@ b. in contacten met personen en instanties voor zover deze zelf bevoegd zijn geb
 
 ####Voorwaardelijke toeslagverlening
 
-1. Bij voorwaardelijke toeslagverlening dient er een consistent geheel te zijn tussen de gewekte verwachtingen, de financiering en het realiseren van voorwaardelijke toeslagen.
-2. Bij regeling van Onze Minister wordt invulling gegeven aan het begrip consistentie, bedoeld in het eerste lid. Een regeling als bedoeld in de eerste volzin kan worden vastgesteld vier weken nadat het ontwerp is overgelegd aan de beide kamers der Staten-Generaal. 
+1. Bij voorwaardelijke toeslagverlening door een verzekeraar dient er een consistent geheel te zijn tussen de gewekte verwachtingen, de financiering en het realiseren van voorwaardelijke toeslagen. 
+2.  Bij regeling van Onze Minister wordt invulling gegeven aan de consistentie, bedoeld in het eerste lid.  
 3. Een toeslag is alleen voorwaardelijk indien in de beroepspensioenregeling, de uitvoeringsovereenkomst, het pensioenreglement, de opgaven op grond van de artikelen 48 tot en met 57 en in de overige informatieverstrekking door de pensioenuitvoerder een voorwaardelijkheidsverklaring is opgenomen. 
 4. Bij regeling van Onze Minister worden regels gesteld over de inhoud van de voorwaardelijkheidsverklaring. 
 
@@ -1484,11 +1530,9 @@ b.een aanwijzing als bedoeld in artikel 166 aan de pensioenuitvoerder is gegeven
 
 c.een bewindvoerder als bedoeld in artikel 168 is aangesteld;
 
-d.een kortetermijnherstelplan als bedoeld in artikel 135 van toepassing is;
+d. een herstelplan als bedoeld in artikel 133 of artikel 134 van toepassing is; 
 
-e.een langetermijnherstelplan als bedoeld in artikel 133 van toepassing is;
-
-f.de beëindiging van de situatie, bedoeld in artikel 167, waarin de bevoegdheidsuitoefening van alle of bepaalde organen van een beroepspensioenfonds is gebonden aan toestemming van de toezichthouder.
+e.de beëindiging van de situatie, bedoeld in artikel 167, waarin de bevoegdheidsuitoefening van alle of bepaalde organen van een beroepspensioenfonds is gebonden aan toestemming van de toezichthouder.
 
 ### Artikel 105 
 
@@ -1558,7 +1602,8 @@ Het bestuur van een beroepspensioenfonds bestaat uit vertegenwoordigers van de b
 
 1.  Het bestuur van een beroepspensioenfonds draagt in overleg met de overige organen van het beroepspensioenfonds zorg voor de vastlegging van de doelstellingen en beleidsuitgangspunten, waaronder de risicohouding, van het beroepspensioenfonds. De organen van het beroepspensioenfonds gebruiken deze doelstellingen en uitgangspunten bij de toetsing van de opdrachtaanvaarding van de door vertegenwoordigers van beroepspensioenverenigingen overeengekomen beroepspensioenregelingen, en bij de besluitvorming, de verantwoording, de advisering, en het toezicht binnen het beroepspensioenfonds.   
 2.  Het bestuur van een beroepspensioenfonds streeft er naar van de vertegenwoordigers, bedoeld in het eerste lid, zo veel mogelijk duidelijkheid te verkrijgen over de doelstellingen, het ambitieniveau van de toeslagverlening en de risicohouding, die ten grondslag liggen aan de beroepspensioenregelingen die de vertegenwoordigers als opdracht in uitvoering aan het beroepspensioenfonds geven.   
-3.  Het bestuur van een beroepspensioenfonds draagt zorg voor de formele opdrachtaanvaarding van de door de vertegenwoordigers, bedoeld in het eerste lid, aan het beroepspensioenfonds opgedragen beroepspensioenregelingen. Het bestuur toetst bij de opdrachtaanvaarding voor het beroepspensioenfonds als geheel en voor de relevante beleidsgebieden aan de doelstellingen en uitgangspunten, bedoeld in het eerste lid.  
+3.  Het bestuur van een beroepspensioenfonds draagt zorg voor de formele opdrachtaanvaarding van de door de vertegenwoordigers, bedoeld in het eerste lid, aan het beroepspensioenfonds opgedragen beroepspensioenregelingen. Het bestuur toetst bij de opdrachtaanvaarding voor het beroepspensioenfonds als geheel en voor de relevante beleidsgebieden aan de doelstellingen en uitgangspunten, bedoeld in het eerste lid.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het eerste lid. 
 
 ### Artikel  110  
 
@@ -1592,7 +1637,7 @@ f. het omzetten van het beroepspensioenfonds in een andere rechtsvorm, bedoeld i
 7.  Het bestuur van het beroepspensioenfonds en de raad van toezicht komen ten minste tweemaal per kalenderjaar in vergadering bijeen.   
 8.  De visitatiecommissie heeft tot taak toezicht te houden op het beleid van het bestuur en op de algemene gang van zaken in het beroepspensioenfonds. De visitatiecommissie is ten minste belast met het toezien op adequate risicobeheersing en evenwichtige belangenafweging door het bestuur en legt verantwoording af over de uitvoering van de taken aan het verantwoordingsorgaan en in het jaarverslag.   
 9.  Het beroepspensioenfonds verstrekt desgevraagd aan de raad van toezicht of de visitatiecommissie tijdig alle inlichtingen en gegevens, die deze voor de vervulling van zijn taak redelijkerwijs nodig heeft. De inlichtingen worden desgevraagd schriftelijk verstrekt.   
-10.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake dit artikel.  
+10.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld inzake dit artikel die onder meer betrekking hebben op de bevoegdheden van de raad van toezicht ten aanzien van benoeming en ontslag van bestuurders.  
 
 ### Artikel  110b  
 
@@ -1655,9 +1700,11 @@ b. de vorm en inrichting van het intern toezicht;
 
 c. de profielschets voor leden van de raad van toezicht;  
 
-d. het vaststellen en wijzigen van een interne klachten- en geschillenprocedure; en  
+d. het vaststellen en wijzigen van een interne klachten- en geschillenprocedure;  
 
-e. het vaststellen en wijzigen van het communicatie- en voorlichtingsbeleid.     
+e. het vaststellen en wijzigen van het communicatie- en voorlichtingsbeleid; en  
+
+f. de samenstelling van de feitelijke premie en de hoogte van de premiecomponenten.    
 4.  Het verantwoordingsorgaan adviseert het bestuur naar aanleiding van de melding van disfunctioneren van het bestuur, bedoeld in artikel 110a, vijfde lid.   
 5.  In de statuten van het beroepspensioenfonds kunnen aan het verantwoordingsorgaan verdere bevoegdheden dan de in deze wet genoemde worden toegekend.  
 
@@ -1667,13 +1714,11 @@ e. het vaststellen en wijzigen van het communicatie- en voorlichtingsbeleid.
 
 Een beroepspensioenfonds informeert het verantwoordingsorgaan onverwijld schriftelijk over: 
 
-a. de verplichting tot opstelling van een kortetermijnherstelplan als bedoeld in artikel 135;  
+a. de verplichting tot opstelling van een herstelplan als bedoeld in artikel 133 of artikel 134;  
 
-b. de verplichting tot opstelling van een langetermijnherstelplan als bedoeld in artikel 133;  
+b. de aanstelling van een bewindvoerder als bedoeld in artikel 168; en  
 
-c. de aanstelling van een bewindvoerder als bedoeld in artikel 168; en  
-
-d. de beëindiging van de situatie, bedoeld in artikel 167, waarin de bevoegdheiduitoefening van alle of bepaalde organen van een beroepspensioenfonds is gebonden aan toestemming van een of meer door de toezichthouder aangewezen personen.   
+c. de beëindiging van de situatie, bedoeld in artikel 167, waarin de bevoegdheiduitoefening van alle of bepaalde organen van een beroepspensioenfonds is gebonden aan toestemming van een of meer door de toezichthouder aangewezen personen.   
 
 ### Artikel  110g  
 
@@ -1749,7 +1794,17 @@ l.de wijze waarop de leden van het verantwoordingsorgaan worden benoemd en ontsl
 
 ####Uitvoering vrijwillige pensioenregeling
 
-Een beroepspensioenfonds kan uitsluitend een vrijwillige pensioenregeling uitvoeren, indien dit een aanvulling op een door datzelfde beroepspensioenfonds uitgevoerde basispensioenregeling betreft. 
+1. Een beroepspensioenfonds kan uitsluitend een vrijwillige pensioenregeling uitvoeren, indien dit een aanvulling op een door datzelfde beroepspensioenfonds uitgevoerde basispensioenregeling betreft. 
+2.  Een beroepspensioenfonds kan een fiscaal bovenmatige beroepspensioenregeling uitsluitend uitvoeren als vrijwillige pensioenregeling.   
+3.  Onder een fiscaal bovenmatige beroepspensioenregeling als bedoeld in het tweede lid wordt verstaan: een pensioenregeling die niet blijft binnen de begrenzingen die zijn opgenomen in de hoofdstukken IIB en VIII van de Wet op de loonbelasting 1964.   
+4.  Voor de toepassing van het derde lid zijn de artikelen 3.18, vierde en vijfde lid, en 3.95, eerste lid, tweede volzin, van de Wet inkomstenbelasting 2001 van overeenkomstige toepassing voor zover aan de beroepspensioenregeling wordt deelgenomen door deelnemers die niet worden aangemerkt als werknemer in de zin van de Wet op de loonbelasting 1964. 
+
+### Artikel  115a  
+
+####Uitvoering nettopensioen door beroepspensioenfonds
+
+1.  Bij algemene maatregel van bestuur worden regels gesteld over de uitvoering van een nettopensioen door een beroepspensioenfonds.   
+2.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel 116 
 
@@ -1833,22 +1888,22 @@ b.de opslag die nodig is voor het bij de aangroei van de pensioenverplichtingen 
 
 c.de opslag die nodig is voor de bij de aangroei van de pensioenverplichtingen behorende uitvoeringskosten van het beroepspensioenfonds; en
 
-d.de premie die actuarieel benodigd is ten behoeve van toeslagverlening indien gekozen is voor financiering op de wijze, bedoeld in artikel 132, onderdeel a, b of d. 
-2. De kostendekkende premie kan worden gedempt. 
-3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld inzake het eerste en het tweede lid. 
+d.de premie die actuarieel benodigd is ten behoeve van toeslagverlening indien gekozen is voor financiering op de wijze, bedoeld in artikel 132, vierde lid, onderdeel a, b of d. 
+2.  De kostendekkende premie kan worden gedempt met een voortschrijdend gemiddelde van de rente of met verwacht rendement.  
+3.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel over onder meer het dempen van de kostendekkende premie.  
 
 ### Artikel  124  
 
-####Terugstorting of premiekorting
+####Premiekorting of terugstorting
 
-1. Het beroepspensioenfonds kan uitsluitend korting verlenen op de kostendekkende premie of de gedempte premie indien ten aanzien van de pensioenverplichtingen wordt voldaan aan de artikelen 121, 127 en 128 en de eventuele voorwaardelijke toeslagen kunnen worden nagekomen overeenkomstig de artikelen 103 en 132. 
-2. Het beroepspensioenfonds kan uitsluitend terugstorten indien:
+1.  Een beroepspensioenfonds kan uitsluitend korting verlenen op de kostendekkende premie of de gedempte premie en kan uitsluitend terugstorten indien: 
 
-a.ten aanzien van de pensioenverplichtingen wordt voldaan aan de artikelen 121, 127 en 128;
+a. gezien de beleidsdekkingsgraad ten aanzien van de pensioenverplichtingen wordt voldaan aan de artikelen 121, 127 en 128;  
 
-b.de voorwaardelijke toeslagen met betrekking tot de voorgaande tien jaar zijn verleend en kunnen worden verleend overeenkomstig de artikelen 103 en 132;
+b. de voorwaardelijke toeslagen zowel met betrekking tot de voorgaande tien jaar zijn verleend als ook in de toekomst kunnen worden verleend; en  
 
-c.de korting op de pensioenaanspraken en pensioenrechten op grond van artikel 129 in de voorgaande tien jaar gecompenseerd is. 
+c. de korting op de pensioenaanspraken en pensioenrechten op grond van artikel 129 in de voorgaande tien jaar gecompenseerd is.     
+2.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel.  
 
 ### Artikel  125  
 
@@ -1865,8 +1920,6 @@ c.de hoogte van de totale feitelijke premie.
 ### Artikel  125a  
 
 ####Vermelding premiecomponenten
-
-Treedt in werking per 01-01-2015 
 
 Onverminderd artikel 125 vermeldt een beroepspensioenfonds in zijn jaarrekening en jaarverslag de samenstelling van de feitelijke premie en de hoogte van de premiecomponenten. 
 
@@ -1895,19 +1948,34 @@ b.de toezichthouder heeft ingestemd met het feit dat het beroepspensioenfonds da
 
 De technische voorzieningen en de aan het beroepspensioenfonds verstrekte leningen worden volledig door waarden gedekt. 
 
+### Artikel  128a  
+
+####Dekkingsgraad
+
+1.  De beleidsdekkingsgraad van een beroepspensioenfonds is de gemiddelde dekkingsgraad van de 12 maanden voorafgaand aan het moment van vaststelling.   
+2.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot de beleidsdekkingsgraad en het moment van vaststelling van de beleidsdekkingsgraad.  
+
+### Artikel  128b  
+
+####Melding reële dekkingsgraad aan toezichthouder
+
+1.  Een beroepspensioenfonds is verplicht om jaarlijks de hoogte van de reële dekkingsgraad van het beroepspensioenfonds aan de toezichthouder te melden.   
+2.  Bij regeling van Onze Minister worden regels gesteld over de reële dekkingsgraad.  
+
 ### Artikel  129  
 
 ####Korting pensioenaanspraken en pensioenrechten door beroepspensioenfonds
 
-1. Een beroepspensioenfonds kan verworven pensioenaanspraken en pensioenrechten uitsluitend verminderen indien:
+1.  Een beroepspensioenfonds kan verworven pensioenaanspraken en pensioenrechten uitsluitend verminderen indien: 
 
-a.de technische voorzieningen en het minimaal vereist eigen vermogen niet meer volledig door waarden zijn gedekt;
+a. het beroepspensioenfonds gezien de beleidsdekkingsgraad niet voldoet aan de bij of krachtens artikel 126 gestelde eisen ten aanzien van het minimaal vereist eigen vermogen of de bij of krachtens artikel 127 gestelde eisen ten aanzien van het vereist eigen vermogen;  
 
-b.het beroepspensioenfonds niet in staat is binnen een redelijke termijn de technische voorzieningen en het minimaal vereist eigen vermogen door waarden te dekken zonder dat de belangen van deelnemers, gewezen deelnemers, pensioengerechtigden of andere aanspraakgerechtigden onevenredig worden geschaad; en
+b. het beroepspensioenfonds niet in staat is binnen een redelijke termijn te voldoen aan artikel 126 of artikel 127, zonder dat de belangen van deelnemers, gewezen deelnemers, pensioengerechtigden of andere aanspraakgerechtigden onevenredig worden geschaad; en  
 
-c.alle overige beschikbare sturingsmiddelen, met uitzondering van het beleggingsbeleid, zijn ingezet zoals uitgewerkt in het kortetermijnherstelplan, bedoeld in artikel 135. 
+c. alle overige beschikbare sturingsmiddelen, met uitzondering van het beleggingsbeleid, zijn ingezet in het herstelplan, bedoeld in artikel 133 of artikel 134.    
 2. Een beroepspensioenfonds informeert de deelnemers, gewezen deelnemers en pensioengerechtigden schriftelijk over het besluit tot vermindering van pensioenaanspraken en pensioenrechten. 
-3. De vermindering, bedoeld in het eerste lid, kan op zijn vroegst een maand nadat de deelnemers, gewezen deelnemers, pensioengerechtigden en toezichthouder hierover geïnformeerd zijn, worden gerealiseerd. 
+3. De vermindering, bedoeld in het eerste lid, kan op zijn vroegst een maand nadat de deelnemers, gewezen deelnemers, pensioengerechtigden en toezichthouder hierover geïnformeerd zijn, worden gerealiseerd.  
+4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel. 
 
 ### Artikel 130 
 
@@ -1931,9 +1999,22 @@ b.de beleggingen worden gewaardeerd op basis van marktwaardering.
 
 ### Artikel 132 
 
-####Financiering voorwaardelijke toeslagverlening
+####Voorwaardelijke toeslagverlening
 
-1. Beroepspensioenfondsen kunnen de voorwaardelijke toeslagverlening financieren door:
+1.  Een beroepspensioenfonds stelt beleid vast met betrekking tot de voorwaardelijke toeslagverlening.   
+2.  Voor een beroepspensioenfonds geldt bij de voorwaardelijke toeslagverlening het volgende: 
+
+a. bij een beleidsdekkingsgraad onder een bij algemene maatregel van bestuur te bepalen niveau wordt geen toeslag verleend;  
+
+b. er wordt niet meer toeslag verleend dan naar verwachting in de toekomst te realiseren is; en  
+
+c. incidentele toeslagverlening om in het verleden niet toegekende toeslag of in het verleden doorgevoerde vermindering van pensioenaanspraken en pensioenrechten te compenseren kan worden verleend indien die toeslagverlening geen gevolgen heeft voor de toeslagverlening in de toekomst overeenkomstig onderdeel b, de beleidsdekkingsgraad het niveau van het vereist eigen vermogen, bedoeld in artikel 127, behoudt en in enig jaar ten hoogste een vijfde van het vermogen dat voor deze toeslagverlening beschikbaar is, wordt aangewend.     
+3.  Het tweede lid is niet van toepassing indien: 
+
+a. een beroepspensioenfonds volledig verzekerd is bij een verzekeraar; of  
+
+b. anderszins sprake is van bij of krachtens algemene maatregel van bestuur te bepalen bijzondere omstandigheden.   
+4. Beroepspensioenfondsen kunnen de voorwaardelijke toeslagverlening financieren door:
 
 a.het creëren van technische voorzieningen;
 
@@ -1944,75 +2025,52 @@ c.het putten uit het eigen vermogen boven het vereist eigen vermogen ten behoeve
 d.het hanteren van een opslag op de premie; of
 
 e.overrendement. 
-2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld inzake het eerste lid.
+5. Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel.
 
-### Artikel 133 
+### Artikel  133  
 
-####Langetermijnherstelplan
+####Herstelplan
 
-1. Wanneer een beroepspensioenfonds voorziet of redelijkerwijs kan voorzien dat het niet meer voldoet of zal voldoen aan de bij of krachtens artikel 127 gestelde vereisten ten aanzien van het eigen vermogen, meldt het beroepspensioenfonds dit onverwijld aan de toezichthouder. 
-2. In de in het eerste lid bedoelde situatie dient het beroepspensioenfonds binnen drie maanden of zoveel eerder als de toezichthouder bepaalt ter instemming bij de toezichthouder een concreet en haalbaar langetermijnherstelplan in. In dit langetermijnherstelplan werkt het beroepspensioenfonds uit hoe het uiterlijk binnen 15 jaar zal voldoen aan artikel 127. 
-3. Het beroepspensioenfonds handelt onverwijld overeenkomstig het langetermijnherstelplan. 
-4. Het beroepspensioenfonds rapporteert gedurende de uitvoering van het langetermijnherstelplan de toezichthouder jaarlijks of het herstel verloopt overeenkomstig de doelstellingen van het langetermijnherstelplan; waarbij wordt aangegeven:
+1.  Wanneer de beleidsdekkingsgraad van een beroepspensioenfonds per het einde van een kalenderkwartaal is komen te liggen onder de bij of krachtens artikel 127 gestelde eisen ten aanzien van het vereist eigen vermogen, meldt het beroepspensioenfonds dit onverwijld aan de toezichthouder.   
+2.  In de in het eerste lid bedoelde situatie dient het beroepspensioenfonds binnen drie maanden of zoveel eerder als de toezichthouder bepaalt ter instemming bij de toezichthouder een concreet en haalbaar herstelplan in, tenzij het beroepspensioenfonds gezien de beleidsdekkingsgraad op dat moment weer voldoet aan artikel 127. In het herstelplan werkt het beroepspensioenfonds uit hoe het uiterlijk binnen tien jaar zal voldoen aan artikel 127.   
+3.  In afwijking van het tweede lid kan de toezichthouder, in verband met de specifieke situatie van het beroepspensioenfonds en in het belang van de aanspraak- en pensioengerechtigden, bepalen dat voor het herstelplan een kortere termijn geldt dan tien jaar.   
+4.  Een beroepspensioenfonds dat bijdragen ontvangt van een in een andere lidstaat gevestigde zelfstandige of beroepsgenoot en een beleidsdekkingsgraad heeft die ligt onder de bij of krachtens artikel 126 gestelde eisen ten aanzien van het minimaal vereist eigen vermogen werkt in het herstelplan tevens uit hoe het binnen een jaar zal voldoen aan artikel 126.   
+5.  Het herstelplan vertoont een in beginsel tijdsevenredig herstel. In afwijking hiervan kan het herstelplan een meer dan tijdsevenredig herstel vertonen in de eerste helft van de looptijd van het herstelplan.   
+6.  Het herstelplan gaat uiterlijk zes maanden nadat de beleidsdekkingsgraad is komen te liggen onder de bij of krachtens artikel 127 gestelde eisen in. Het beroepspensioenfonds handelt onverwijld overeenkomstig het herstelplan.   
+7.  Het beroepspensioenfonds stelt jaarlijks de beleidsdekkingsgraad vast op het moment waarop de situatie bedoeld in het eerste lid is vastgesteld. Zo nodig in afwijking van de vorige zin kan het beroepspensioenfonds de beleidsdekkingsgraad jaarlijks vaststellen per het einde van het vierde kalenderkwartaal, door de eerste vaststelling van de beleidsdekkingsgraad na het moment waarop de situatie, bedoeld in het eerste lid, is vastgesteld te vervroegen.   
+8.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld met betrekking tot dit artikel die onder meer betrekking hebben op de periode tot het herstelplan ingaat.  
 
-a.welke activiteiten het beroepspensioenfonds in het afgelopen jaar heeft uitgevoerd;
+### Artikel  134  
 
-b.welke resultaten deze activiteiten tot dan toe hebben gehad; en
+####Actualisatie herstelplan
 
-c.hoe de actuele positie van het beroepspensioenfonds is. 
-5. De toezichthouder beoordeelt ten minste eenmaal per drie jaar of aanvullende maatregelen nodig zijn zodat het langetermijnherstelplan ook daadwerkelijk kan worden gerealiseerd. 
-6. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de inhoud en opstelling van een langetermijnherstelplan.
+1.  Wanneer de beleidsdekkingsgraad die op grond van artikel 133, zevende lid, is vastgesteld ligt onder de bij of krachtens artikel 127 gestelde eisen ten aanzien van het vereist eigen vermogen, dient het beroepspensioenfonds binnen drie maanden of zoveel eerder als de toezichthouder bepaalt ter instemming bij de toezichthouder een concreet en haalbaar geactualiseerd herstelplan in.   
+2.  In het in het eerste lid bedoelde herstelplan werkt het beroepspensioenfonds uit hoe het in dezelfde termijn als de termijn die het beroepspensioenfonds bij het herstelplan op grond van artikel 133, tweede lid, heeft gebruikt, zal voldoen aan artikel 127. Het beroepspensioenfonds kan, rekening houdend met de specifieke situatie van het beroepspensioenfonds en in het belang van aanspraak- en pensioengerechtigden, een andere termijn hanteren voor het geactualiseerd herstelplan indien de toezichthouder daarmee instemt.   
+3.  Artikel 133, vierde tot en met achtste lid, is van toepassing op de geactualiseerde herstelplannen. Op het moment dat het geactualiseerde herstelplan ingaat vervangt dit een eerder vastgesteld herstelplan of geactualiseerd herstelplan.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel.  
 
-### Artikel 134 
+### Artikel  135  
 
-####Ingrijpende wijzigingen tijdens uitvoering langetermijnherstelplan
+####Maatregel minimaal vereist eigen vermogen
 
-1. Wanneer gedurende de looptijd van het langetermijnherstelplan, bedoeld in artikel 133, ingrijpende wijzigingen plaatsvinden in:
-
-a.de samenstelling van de technische voorzieningen; of
-
-b.de samenstelling, de omvang en de waarde van de beleggingen,meldt het beroepspensioenfonds dit onverwijld aan de toezichthouder. 
-2. De toezichthouder geeft aan of:
-
-a.het bestaande langetermijnherstelplan kan worden gehandhaafd;
-
-b.het bestaande langetermijnherstelplan binnen drie maanden dan wel eerder moet worden vervangen door een nieuw langetermijnherstelplan, waarbij rekening gehouden wordt met de reeds verstreken looptijd van het te vervangen langetermijnherstelplan. Dit nieuwe langetermijnherstelplan wordt ter instemming bij de toezichthouder ingediend; dan wel
-
-c.het bestaande langetermijnherstelplan kan worden ingetrokken en niet vervangen hoeft te worden door een nieuw langetermijnherstelplan.
-
-### Artikel 135 
-
-####Kortetermijnherstelplan
-
-1. Wanneer een beroepspensioenfonds voorziet of redelijkerwijs kan voorzien dat het niet meer voldoet of niet zal voldoen aan de bij of krachtens artikel 126 gestelde vereisten ten aanzien van het minimaal vereist eigen vermogen, meldt het beroepspensioenfonds dit onverwijld aan de toezichthouder. 
-2. In de in het eerste lid bedoelde situatie dient het beroepspensioenfonds binnen twee maanden of zoveel eerder als de toezichthouder bepaalt, een concreet en haalbaar kortetermijnherstelplan ter instemming bij de toezichthouder in. In dit kortetermijnherstelplan werkt het beroepspensioenfonds uit hoe het uiterlijk binnen drie jaar zal voldoen aan artikel 126 waarbij:
-
-a.de kans op herstel verbetert;
-
-b.de risico’s voor de aanspraak- en pensioengerechtigden niet toenemen; en
-
-c.de kans op toeslagverlening niet negatief wordt beïnvloed. 
-3. In afwijking van het tweede lid geldt voor het kortetermijnherstelplan een termijn van een jaar indien:
-
-a.niet is voldaan aan de voorwaarden in het tweede lid sub a, b en c; of
-
-b.het beroepspensioenfonds bijdragen ontvangt van een in een andere lidstaat gevestigde zelfstandige of beroepsgenoot. 
-4. Het beroepspensioenfonds handelt onverwijld overeenkomstig het kortetermijnherstelplan. 
-5. Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de inhoud en opstelling van een kortetermijnherstelplan.
+1.  Indien de beleidsdekkingsgraad die op grond van artikel 133, zevende lid, is vastgesteld vijf maal opeenvolgend ligt onder de bij of krachtens artikel 126 gestelde eisen ten aanzien van het minimaal vereist eigen vermogen en de dekkingsgraad bij die laatste vaststelling ook onder dat niveau ligt neemt het beroepspensioenfonds binnen zes maanden maatregelen waardoor de dekkingsgraad van het beroepspensioenfonds direct voldoet aan artikel 126. Voor zover het bij de maatregelen vermindering van pensioenaanspraken en pensioenrechten betreft worden deze direct in de technische voorzieningen verwerkt en ofwel direct doorgevoerd, ofwel in beginsel evenredig gespreid in de tijd gedurende maximaal de termijn die wordt gebruikt voor het herstelplan dat is opgesteld na constatering van de situatie, bedoeld in de eerste zin.   
+2.  Voor een beroepspensioenfonds dat bijdragen ontvangt van een in een andere lidstaat gevestigde zelfstandige of beroepsgenoot geldt in plaats van het in het eerste lid genoemde aantal van vijf een aantal van een.   
+3.  Indien een beroepspensioenfonds in de situatie, bedoeld in het eerste lid, maatregelen heeft genomen waardoor de dekkingsgraad direct voldoet aan artikel 126, begint voor de volgende toepassing van het eerste lid een nieuwe termijn. Indien een beroepspensioenfonds in de situatie, bedoeld in het eerste lid, geen maatregelen heeft genomen omdat bij de laatste vaststelling van de beleidsdekkingsgraad de dekkingsgraad niet onder het minimaal vereist eigen vermogen lag, is het eerste lid van overeenkomstige toepassing bij iedere volgende vaststelling van de beleidsdekkingsgraad op grond van artikel 133, zevende lid, totdat de beleidsdekkingsgraad ligt op of boven het niveau van het minimaal vereist eigen vermogen of de beleidsdekkingsgraad en de dekkingsgraad liggen onder dat niveau.   
+4.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot dit artikel.  
 
 ### Artikel 136 
 
 ####Mogelijkheid tot ontheffing
 
-1. De toezichthouder kan, rekening houdend met de specifieke situatie van het beroepspensioenfonds en in het belang van de aanspraak- en pensioengerechtigden, op aanvraag van een beroepspensioenfonds geheel of gedeeltelijk ontheffing verlenen van het bij of krachtens de artikelen 126, 127, 129, eerste lid, onderdeel a, 132 en 133 bepaalde, indien het beroepspensioenfonds aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die deze artikelen beogen te bereiken anderszins worden bereikt. 
-2. De toezichthouder kan in bijzondere gevallen, rekening houdend met de specifieke situatie van het beroepspensioenfonds en in het belang van de aanspraak- en pensioengerechtigden, op aanvraag van een beroepspensioenfonds dat geen bijdragen ontvangt van een in een andere lidstaat gevestigde zelfstandige of beroepsgenoot, geheel of gedeeltelijk, ontheffing verlenen van het bij of krachtens artikel 135 bepaalde. 
+1. De toezichthouder kan, rekening houdend met de specifieke situatie van het beroepspensioenfonds en in het belang van de aanspraak- en pensioengerechtigden, op aanvraag van een beroepspensioenfonds geheel of gedeeltelijk ontheffing verlenen van het bij of krachtens de artikelen 126, 127, 129, eerste lid, onderdeel a, 132, 133, 134 en 135 bepaalde, indien het beroepspensioenfonds aantoont dat daaraan redelijkerwijs niet kan worden voldaan en dat de doeleinden die deze artikelen beogen te bereiken anderszins worden bereikt. 
+2.  In afwijking van het eerste lid kan de toezichthouder geen ontheffing verlenen van artikel 133, vierde lid, en artikel 135, tweede lid.  
 3. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld waaraan de houder van een ontheffing dient te voldoen en met betrekking tot het verlenen van de ontheffing.
 
-### Artikel 137 
+### Artikel  137  
 
-####Langere termijnen bij uitzonderlijke situatie
+####Vrijstelling bij uitzonderlijke situatie
 
-Onze Minister kan na overleg met de toezichthouder vrijstelling verlenen van de in artikel 133 en 135 genoemde termijnen van 15 jaar respectievelijk drie en een jaar, indien er sprake is van een uitzonderlijke economische situatie waardoor een groot aantal beroepspensioenfondsen niet kan voldoen aan de bij of krachtens deze wet gestelde vereisten inzake het vereiste eigen vermogen en het minimaal vereist eigen vermogen.
+Bij regeling van Onze Minister, na overleg met de toezichthouder, kan vrijstelling worden verleend van de in artikel 133 genoemde termijn van tien jaar en het in artikel 135 genoemde aantal van vijf, indien er sprake is van een uitzonderlijke economische situatie waardoor een groot aantal beroepspensioenfondsen niet kan voldoen aan de bij of krachtens deze wet gestelde vereisten inzake het vereist eigen vermogen en het minimaal vereist eigen vermogen. 
 
 ### Artikel 138 
 
@@ -2031,21 +2089,23 @@ c.de soliditeit van het beroepspensioenfonds, waaronder wordt verstaan:
 
 2°.het beheersen van andere risico’s die de soliditeit van het beroepspensioenfonds kunnen aantasten;
 
-d.het beheersen van de financiële positie over de lange termijn door periodiek een continuïteitsanalyse te maken.
+d.het beheersen van de financiële positie over de lange termijn door periodiek een haalbaarheidstoets te maken.
 
 ### Artikel 139 
 
 ####Parameters
 
-1. Bij algemene maatregel van bestuur worden, ten behoeve van de berekeningen, bedoeld bij de artikelen 121, 123, 133, 135 en 138, regels gesteld over:
+1. Bij algemene maatregel van bestuur worden, ten behoeve van de berekeningen, bedoeld bij de artikelen 121, 123, 133, 134, 135 en 138, regels gesteld over:
 
 a.het minimale percentage van het gemiddelde loon- of prijsindexcijfer;
 
-b.het maximaal te hanteren gemiddelde rendement op vastrentende waarden; en
+b.het maximaal te hanteren gemiddelde rendement op vastrentende waarden;
 
-c.de maximaal te hanteren risicopremies op onder andere aandelen en onroerend goed. 
-2. De in het eerste lid bedoelde regels worden iedere drie jaren getoetst, rekening houdend met financieel-economische ontwikkelingen in het verleden en realistische inzichten ten aanzien van toekomstige financieel-economische verwachtingen. 
-3.  Voordat de voordracht van de in het eerste lid bedoelde algemene maatregel van bestuur wordt gedaan vraagt Onze Minister het oordeel van een commissie bestaande uit onafhankelijke leden die door Onze Minister worden aangewezen, waaronder een voorzitter.  
+c.de maximaal te hanteren risicopremies op onder andere aandelen en onroerend goed; en
+
+d. een uniforme set met economische scenario’s.  
+2. De in het eerste lid bedoelde regels worden uiterlijk iedere vijf jaren getoetst, rekening houdend met financieel-economische ontwikkelingen in het verleden en realistische inzichten ten aanzien van toekomstige financieel-economische verwachtingen. 
+3.  Voordat de voordracht van de in het eerste lid bedoelde algemene maatregel van bestuur wordt gedaan vraagt Onze Minister het oordeel van een commissie bestaande uit onafhankelijke leden die door Onze Minister worden aangewezen, waaronder een voorzitter. Daarbij wordt tevens het oordeel van de commissie gevraagd over de technische uitwerking van de grondslagen voor de waardering van pensioenverplichtingen met een lange termijn.  
 4. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot de in het derde lid bedoelde commissie. 
 5. De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.
 
@@ -2053,10 +2113,17 @@ c.de maximaal te hanteren risicopremies op onder andere aandelen en onroerend go
 
 ####Actuariële en bedrijfstechnische nota
 
-1. Het beroepspensioenfonds stelt een actuariële en bedrijfstechnische nota vast waarin in elk geval een omschrijving is opgenomen van de wijze waarop uitvoering wordt gegeven aan het bij of krachtens de artikelen 35, 103, 121 tot en met 132 en 138 bepaalde. De actuariële en bedrijfstechnische nota bevat voorts een verklaring inzake beleggingsbeginselen en een beschrijving van de sturingsmiddelen. 
-2. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de actuariële en bedrijfstechnische nota. 
-3. Voorzover risico’s zijn overgedragen, verzekerd of ondergebracht kan de omschrijving, bedoeld in het eerste lid, beperkt blijven tot een verwijzing naar hetgeen daarover in de betreffende overeenkomsten is opgenomen. 
-4. De verklaring inzake beleggingsbeginselen wordt om de drie jaren en voorts onverwijld na iedere belangrijke wijziging van het beleggingsbeleid herzien.
+1. Het beroepspensioenfonds stelt een actuariële en bedrijfstechnische nota vast waarin in elk geval een omschrijving is opgenomen van de wijze waarop uitvoering wordt gegeven aan het bij of krachtens de artikelen 35, 121 tot en met 132 en 138 bepaalde. Daarbij wordt de samenstelling van de feitelijke premie en de hoogte van de premiecomponenten opgenomen. De actuariële en bedrijfstechnische nota bevat voorts een verklaring inzake beleggingsbeginselen. 
+2.  De actuariële en bedrijfstechnische nota van een beroepspensioenfonds bevat verder: 
+
+a. een financieel crisisplan waarin het beroepspensioenfonds beschrijft welke maatregelen ingezet kunnen worden in de situatie dat niet aan de vereisten gesteld bij of krachtens artikel 127 zal worden voldaan en welke maatregelen ingezet kunnen worden in de situatie, bedoeld in artikel 135, eerste lid;  
+
+b. het niveau van de beleidsdekkingsgraad vanaf welke premiekortingen en terugstortingen als bedoeld in artikel 124 zijn toegestaan; en  
+
+c. een beschrijving van de overige sturingsmiddelen.    
+3. Bij of krachtens algemene maatregel van bestuur worden regels gesteld ten aanzien van de actuariële en bedrijfstechnische nota. 
+4. Voorzover risico’s zijn overgedragen, verzekerd of ondergebracht kan de omschrijving, bedoeld in het eerste lid, beperkt blijven tot een verwijzing naar hetgeen daarover in de betreffende overeenkomsten is opgenomen. 
+5. De verklaring inzake beleggingsbeginselen wordt om de drie jaren en voorts onverwijld na iedere belangrijke wijziging van het beleggingsbeleid herzien.
 
 ### Artikel 141 
 
@@ -2082,7 +2149,7 @@ d.informatie over financiële relaties en transacties van het beroepspensioenfon
 
 e.een rekening van baten en lasten;
 
-f.informatie inzake de dekkingsgraad;
+f. informatie inzake de dekkingsgraad, de beleidsdekkingsgraad en de reële dekkingsgraad; 
 
 g.informatie inzake het vereist eigen vermogen;
 
@@ -2096,7 +2163,15 @@ k.premiegegevens;
 
 l.informatie inzake verzekering;
 
-m.informatie inzake verplichtingen van het beroepspensioenfonds voor risico van de deelnemers. 
+m.informatie inzake verplichtingen van het beroepspensioenfonds voor risico van de deelnemers;
+
+n. informatie over het herstelplan;  
+
+o. informatie over de haalbaarheidstoets;  
+
+p. informatie over toeslagverlening; en  
+
+q. informatie over vermindering van pensioenaanspraken en pensioenrechten.  
 4. Met zijn verklaring bedoeld in het derde lid, onderdeel h, bevestigt de actuaris dat hij zich ervan heeft overtuigd dat voldaan is aan de artikelen 121 tot en met 135. Hij is bevoegd zijn verklaring nader toe te lichten of op enig punt een voorbehoud te maken. 
 5. De staten zijn periodiek voorzien van een verklaring omtrent de getrouwheid, afgegeven door een accountant. Ten bewijze dat de staten door hem zijn onderzocht, waarmerkt de accountant de staten. 
 6. Bij of krachtens algemene maatregel van bestuur worden regels gesteld met betrekking tot:
@@ -2138,7 +2213,7 @@ b.de deskundigheid en betrouwbaarheid van het bestuur.
 
 ####Overdracht, verzekering of onderbrenging bij eindigen beroepspensioenregeling
 
-Wanneer een beroepspensioenregeling eindigt tijdens de periode waarin een kortetermijnherstelplan van kracht is:
+Wanneer een beroepspensioenregeling eindigt tijdens een periode waarin de beleidsdekkingsgraad van het beroepspensioenfonds ligt onder de bij of krachtens artikel 126 gestelde eisen ten aanzien van het minimaal vereist eigen vermogen:
 
 a.stelt het beroepspensioenfonds de toezichthouder hiervan op de hoogte;
 
@@ -2185,20 +2260,11 @@ b.een pensioenuitvoerder en een beroepsgenoot; en
 c.een pensioenuitvoerder en een aanspraak- of pensioengerechtigde. 
 2. Het eerste lid is niet van toepassing op de uitvoeringsovereenkomst en het pensioenreglement.
 
-### Artikel 148 
+### Artikel  148  
 
 ####Kwaliteitseisen
 
-1. De toezichthouder draagt met betrekking tot de uitoefening van zijn taken en bevoegdheden uit hoofde van deze wet zorg voor:
-
-a.een tijdige voorbereiding en een voor de onder toezicht staanden kenbare, transparante en consistente uitvoering;
-
-b.de kwaliteit van de daarbij gebruikte procedures;
-
-c.de zorgvuldige behandeling van een ieder die met hem in aanraking komt;
-
-d.de zorgvuldige behandeling van bezwaarschriften en klachten die worden ontvangen. 
-2. De toezichthouder treft voorzieningen, waardoor een ieder die met hem in aanraking komt in de gelegenheid is voorstellen tot verbetering van werkwijzen en procedures te doen.
+In aanvulling op artikel 19, eerste lid, van de Kaderwet zelfstandige bestuursorganen draagt de toezichthouder met betrekking tot de uitoefening van zijn taken en bevoegdheden uit hoofde van deze wet zorg voor een voor de onder toezicht staanden kenbare, transparante en consistente uitvoering. 
 
 ### §  2  
 
@@ -2212,20 +2278,19 @@ Vervallen per 01-01-2013
 
 ### Artikel  158  
 
-####Uitvoeringstoezicht: Inspectie Werk en Inkomen
+####Uitvoeringstoezicht
 
-1. Onze Minister houdt toezicht op:
+Onze Minister houdt toezicht op:
 
 a.de rechtmatigheid van de uitvoering van deze wet door de toezichthouder;
 
 b.de doeltreffendheid van de uitvoering van deze wet door de toezichthouder. 
-2. Het toezicht, bedoeld in het eerste lid, wordt onder gezag van Onze Minister uitgeoefend door de Inspectie Werk en Inkomen, genoemd in hoofdstuk 7 van de Wet structuur uitvoeringsorganisatie werk en inkomen, onder leiding van het hoofd van die inspectie. De artikelen 37, 38 en 44 van de Wet structuur uitvoeringsorganisatie werk en inkomen zijn van overeenkomstige toepassing. 
 
 ### Artikel 159 
 
 ####Verstrekking informatie ten behoeve van toezicht door Onze Minister
 
-1. Onze Minister is bevoegd aan de toezichthouder de gegevens of inlichtingen te vragen die naar zijn oordeel nodig zijn voor een onderzoek naar de wijze waarop de toezichthouder de uit deze wet voortvloeiende taken en bevoegdheden uitvoert of heeft uitgevoerd. 
+1.  Indien Onze Minister de toezichthouder gegevens of inlichtingen vraagt die naar zijn oordeel nodig zijn voor een onderzoek naar de wijze waarop de toezichthouder de uit deze wet voortvloeiende taken en bevoegdheden uitvoert of heeft uitgevoerd, geschiedt de verstrekking daarvan met inachtneming van dit artikel.  
 2. De toezichthouder verstrekt kosteloos aan Onze Minister de in het eerste lid bedoelde gegevens of inlichtingen. Indien Onze Minister de toezichthouder vraagt bepaalde gegevens of inlichtingen te verstrekken die op grond van deze wet omtrent afzonderlijke pensioenuitvoerders, werkgevers of natuurlijke personen zijn verstrekt of zijn verkregen, is de toezichthouder niet verplicht deze gegevens of inlichtingen te verstrekken, indien deze betrekking hebben op of herleidbaar zijn tot een afzonderlijke pensioenuitvoerder, werkgever of natuurlijke persoon, met uitzondering van gegevens of inlichtingen die betrekking hebben op of herleidbaar zijn tot een pensioenuitvoerder of werkgever ten aanzien waarvan surséance van betaling is verleend, die in staat van faillissement is verklaard of op grond van een rechterlijke uitspraak is ontbonden. 
 3. Onze Minister kan een derde opdragen de gegevens of inlichtingen die hem ingevolge het tweede lid zijn verstrekt te onderzoeken en aan hem verslag uit te brengen. Tevens kan Onze Minister de derde die in zijn opdracht handelt, machtigen namens hem gegevens of inlichtingen in te winnen, in welk geval het eerste en tweede lid van overeenkomstige toepassing zijn. 
 4. Onze Minister gebruikt de gegevens of inlichtingen die hij ingevolge het tweede of derde lid heeft verkregen uitsluitend voor het vormen van zijn oordeel over de toereikendheid van deze wet of de wijze waarop de toezichthouder de bij of krachtens deze wet opgedragen taken en toegekende bevoegdheden uitoefent of heeft uitgeoefend. 
@@ -2240,20 +2305,15 @@ b.de doeltreffendheid van de uitvoering van deze wet door de toezichthouder.
 1. Onze Minister kan aan de toezichthouder een aanwijzing geven over de uitoefening van de aan de toezichthouder bij of krachtens deze wet opgedragen taken en toegekende bevoegdheden wanneer de toezichthouder hierin naar het oordeel van Onze Minister tekort schiet. Onze Minister treedt daarbij niet in individuele gevallen. 
 2. De toezichthouder is gehouden overeenkomstig de aanwijzing te handelen.
 
-### Artikel 161 
+### Artikel  161  
 
 ####Taakverwaarlozing
 
-1. Indien naar het oordeel van Onze Minister de toezichthouder een of meerdere van zijn bij of krachtens deze wet opgedragen taken ernstig verwaarloost, kan Onze Minister de noodzakelijke voorzieningen treffen. 
-2. Ter uitvoering van het eerste lid kan Onze Minister besluiten een of meer onderdelen van de taken van de toezichthouder zelf uit te voeren of door een andere organisatie te laten uitvoeren. Alsdan komen de desbetreffende bevoegdheden van de toezichthouder toe aan Onze Minister onderscheidenlijk de andere toezichthouder. 
-3. De voorzieningen worden, spoedeisende gevallen uitgezonderd, niet eerder getroffen dan nadat de toezichthouder in de gelegenheid is gesteld om binnen een door Onze Minister te stellen termijn alsnog zijn taak naar behoren uit te voeren. 
-4. Onze Minister stelt beide kamers der Staten-Generaal onverwijld in kennis van door hem getroffen voorzieningen als bedoeld in het eerste lid.
+De bevoegdheid om de noodzakelijke voorzieningen te treffen, genoemd in artikel 23, eerste lid, van de Kaderwet zelfstandige bestuursorganen, alsmede de verplichtingen, genoemd in artikel 23, tweede en derde lid, van de Kaderwet zelfstandige bestuursorganen, worden ten aanzien van ernstige verwaarlozing door de toezichthouder van de bij of krachtens deze wet opgedragen taken uitgeoefend dan wel uitgevoerd door Onze Minister. 
 
 ### Artikel  161a  
 
 ####Beleidsregels door Onze Minister
-
-Treedt in werking per 01-01-2015 
 
 1.  Onze Minister kan beleidsregels vaststellen ten aanzien van de toepassing door de toezichthouders van Hoofdstuk 6.   
 2.  De beleidsregels worden in de Staatscourant bekendgemaakt.  
@@ -2379,7 +2439,7 @@ b.de toezichthouder.
 
 ####Bestuurlijke boete
 
-1.  De toezichthouder kan een bestuurlijke boete opleggen ter zake van een overtreding van voorschriften, gesteld bij of krachtens de artikelen 8, 21, 22, 23, 25, 26, 35, 36, 38, 39, eerste lid, 39, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 39, eerste lid, 43, 44, 46 tot en met 59, 60, 61, tweede en vierde lid, 62, 63, 69, 72, 73, 74, 75, 78, derde tot en met zesde, negende en elfde lid, 79, tweede lid, 80, tweede lid, 82, eerste tot en met vijfde en zevende lid, 85, tweede en derde lid, 91, tweede en zevende lid, 92, tweede en zevende lid, 93, eerste lid, 94, eerste en tweede lid, 95, 99, 102, tweede lid, 103, 104, 105, 106, 107, 108, 110 tot en met 110h, 113, 114, 115, 116, 117, 118, 123, 124, 125, 129, tweede, vierde en vijfde lid, 130, 131, 132, 133, eerste tot en met vierde en zesde lid, 134, 135, 138, 140, 141, 142, eerste, tweede, derde, vijfde en zesde lid, 145, 162, 164, 165, eerste tot en met vierde lid, 166, eerste lid, 167, vijfde lid, 191, 193, 197, derde en vierde lid, 198 en van artikel 5:20 van de Algemene wet bestuursrecht.  
+1.  De toezichthouder kan een bestuurlijke boete opleggen ter zake van een overtreding van voorschriften, gesteld bij of krachtens de artikelen 8, 21, 22, 23, 25, 26, 35, 36, 38, 39, eerste lid, 39, zevende lid, voor zover het betreft de overeenkomstige toepassing van artikel 39, eerste lid, 43, 44, 46 tot en met 59, 60, 61, tweede en vierde lid, 62, 63, 69, 72, 73, 74, 75, 78, derde tot en met zesde, negende en elfde lid, 79, tweede lid, 80, tweede lid, 80a, vierde, vijfde en negende lid, 82, eerste tot en met vijfde en zevende lid, 85, tweede en derde lid, 91, tweede en zevende lid, 92, tweede en zevende lid, 93, eerste lid, 94, eerste en tweede lid, 95, 99, 102, tweede lid, 104, 105, 106, 107, 108, 109a, 110 tot en met 110h, 113, 114, 115, 116, 117, 118, 123, 124, 125, 125a, 129, 130, 131, 132, 133, 134, 135, 138, 140, 141, 142, eerste, tweede, derde, vijfde en zesde lid, 145, 162, 164, 165, eerste tot en met vierde lid, 166, eerste lid, 167, vijfde lid, 191, 193, 197, derde en vierde lid, 198 en van artikel 5:20 van de Algemene wet bestuursrecht.  
 2.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de uitoefening van de bevoegdheid, bedoeld in het eerste lid.  
 
 ### Artikel  174  
@@ -2694,8 +2754,8 @@ c.een of meer van de daaraan verbonden voorschriften niet wordt nageleefd.
 
 ####Informatievoorziening Staten-Generaal
 
-1.  Onze Minister zendt alle van belang zijnde door de toezichthouder aan Onze Minister uitgebrachte toezichtrapportages, in de vorm waarin zij aan hem zijn voorgelegd, zo nodig voorzien van zijn oordeel, aan de Staten-Generaal.  
-2. Onze Minister zendt elke vijf jaar een verslag aan de Staten-Generaal over de doelmatigheid en doeltreffendheid van het functioneren van de toezichthouder. 
+1.  Onze Minister zendt in aanvulling op artikel 18, tweede lid, van de Kaderwet zelfstandige bestuursorganen alle van belang zijnde door de toezichthouder aan Onze Minister uitgebrachte toezichtrapportages, in de vorm waarin zij aan hem zijn voorgelegd, zo nodig voorzien van zijn oordeel, aan de Staten-Generaal.  
+2.  De verplichting om elke vijf jaar een verslag aan beide kamers der Staten-Generaal te zenden ten behoeve van de beoordeling van de doelmatigheid en doeltreffendheid van het functioneren van een zelfstandig bestuursorgaan, bedoeld in artikel 39, eerste lid, van de Kaderwet zelfstandige bestuursorganen, berust ten aanzien van het functioneren van de toezichthouder op grond van deze wet bij Onze Minister.  
 
 ### Artikel  209  
 
@@ -2766,7 +2826,9 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 4. Voor de toepassing van artikel 8 wordt onder «een daartoe door een beroepspensioenvereniging opgericht beroepspensioenfonds» mede verstaan een beroepspensioenfonds dat een beroepspensioenregeling uitvoert die voor 1 januari 2006 is verplichtgesteld of ten aanzien waarvan voor die datum een aanvraag tot verplichtstelling is gedaan, met betrekking tot de uitvoering van die regeling.  
 5.  Indien een beroepspensioenfonds voor de datum van inwerkingtreding van artikel II, onderdeel E, van de Verzamelwet pensioenen 2012 is overgegaan tot verzekering bij een verzekeraar op basis van een kapitaalcontract als bedoeld in artikel 143a geldt het verbod tot verzekering op basis van een kapitaalcontract, bedoeld in artikel 143a, na afloop van het contract of een verlenging daarvan doch uiterlijk vijf jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel E, van de Verzamelwet pensioenen 2012.  
 6.  De personen die op het tijdstip van inwerkingtreding van artikel VI van de Wet versterking bestuur pensioenfondsen deel uitmaken van de raad van toezicht van een beroepspensioenfonds, worden tot het einde van hun op dat tijdstip lopende benoemingstermijn, doch uiterlijk tot 1 januari 2017, geacht geschikt te zijn als bedoeld in artikel 110, derde lid, en, vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen, artikel 110c, eerste lid, en betrouwbaar als bedoeld in artikel 110, vijfde lid, en vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen, artikel 110c, derde lid, zolang niet een wijziging in de relevante feiten, omstandigheden of antecedenten een redelijke aanleiding geeft tot een beoordeling van die geschiktheid of betrouwbaarheid.   
-7.  Indien een persoon die het beleid van een beroepspensioenfonds bepaalt of mede bepaalt voorafgaand aan het tijdstip van inwerkingtreding van artikel VI van de Wet versterking bestuur pensioenfondsen deskundig is in verband met de uitoefening van het bedrijf van het beroepspensioenfonds wordt die persoon vanaf dat tijdstip geacht geschikt te zijn als bedoeld in artikel 110, derde lid, en vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen, artikel 110c, eerste lid, zolang niet een wijziging in de relevante feiten en omstandigheden een redelijke aanleiding geeft tot een beoordeling of herbeoordeling van die geschiktheid. 
+7.  Indien een persoon die het beleid van een beroepspensioenfonds bepaalt of mede bepaalt voorafgaand aan het tijdstip van inwerkingtreding van artikel VI van de Wet versterking bestuur pensioenfondsen deskundig is in verband met de uitoefening van het bedrijf van het beroepspensioenfonds wordt die persoon vanaf dat tijdstip geacht geschikt te zijn als bedoeld in artikel 110, derde lid, en vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel C, van de Wet versterking bestuur pensioenfondsen, artikel 110c, eerste lid, zolang niet een wijziging in de relevante feiten en omstandigheden een redelijke aanleiding geeft tot een beoordeling of herbeoordeling van die geschiktheid.  
+8.  Een beroepspensioenfonds dat in het eerste jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel N, van de Wet aanpassing financieel toetsingskader niet voldoet aan de bij of krachtens artikel 127 gestelde eisen, dient een herstelplan in op grond van artikel 133, waarbij het beroepspensioenfonds, in afwijking van artikel 133, tweede lid, uitwerkt hoe het binnen 12 jaar zal voldoen aan artikel 127. Een beroepspensioenfonds dat in het tweede jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel N, van de Wet aanpassing financieel toetsingskader niet voldoet aan de bij of krachtens artikel 127 gestelde eisen, dient een herstelplan in op grond van artikel 133 of artikel 134, waarbij het beroepspensioenfonds, in afwijking van artikel 133, tweede lid, of artikel 134, tweede lid, uitwerkt hoe het binnen 11 jaar zal voldoen aan artikel 132. Indien een beroepspensioenfonds een herstelplan heeft vastgesteld met een termijn van 12 of 11 jaar is artikel 134, tweede lid, voor zover het betreft het hanteren van een gelijke termijn voor herstelplannen, van toepassing vanaf het vierde jaar na het tijdstip van inwerkingtreding van artikel II, onderdeel N, van de Wet aanpassing financieel toetsingskader.   
+9.  Artikel 135 is van toepassing op beleidsdekkingsgraden die zijn vastgesteld vanaf het tijdstip van inwerkingtreding van artikel II, onderdeel P, van de Wet aanpassing financieel toetsingskader. 
 
 ### Artikel  215  
 

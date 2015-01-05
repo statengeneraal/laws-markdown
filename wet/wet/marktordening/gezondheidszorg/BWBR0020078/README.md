@@ -20,7 +20,7 @@ a. Onze Minister: Onze Minister van Volksgezondheid, Welzijn en Sport;
 
 b. zorg: 
 
-1°. zorg of dienst als omschreven bij of krachtens de Zorgverzekeringswet en de Algemene Wet Bijzondere Ziektekosten;  
+1°. zorg of dienst als omschreven bij of krachtens de Zorgverzekeringswet en de Wet langdurige zorg;  
 
 2°. handelingen op het gebied van de gezondheidszorg als bedoeld in artikel 1, eerste lid, van de Wet op de beroepen in de individuele gezondheidszorg, voor zover uitgevoerd, al dan niet onder eigen verantwoordelijkheid, door personen, ingeschreven in een register als bedoeld in artikel 3 van die wet of door personen als bedoeld in artikel 34 van die wet en voor zover die handelingen niet zijn begrepen onder 1°;    
 
@@ -32,17 +32,17 @@ c. zorgaanbieder:
 
 d. zorgverzekeraar: een zorgverzekeraar als bedoeld in de Zorgverzekeringswet;  
 
-e. AWBZ-verzekeraar: een zorgverzekeraar die zich overeenkomstig artikel 33 van de Algemene Wet Bijzondere Ziektekosten als zodanig heeft aangemeld voor de uitvoering van die wet;  
+e.  *Wlz-uitvoerder:* een rechtspersoon als bedoeld in artikel 1.1.1 van de Wet langdurige zorg;  
 
 f. ziektekostenverzekeraar: 
 
 1°. een zorgverzekeraar;  
 
-2°. een AWBZ-verzekeraar;  
+2°. een Wlz-uitvoerder;  
 
 3°. een particuliere ziektekostenverzekeraar, zijnde een financiële onderneming die ingevolge de Wet op het financieel toezicht in Nederland het bedrijf van verzekeraar mag uitoefenen;    
 
-g. verzekerde: degene die een verzekeringsovereenkomst betreffende het risico van ziektekosten heeft gesloten met een ziektekostenverzekeraar dan wel van rechtswege verzekerd is op grond van de Algemene Wet Bijzondere Ziektekosten;  
+g. verzekerde: degene die een verzekeringsovereenkomst betreffende het risico van ziektekosten heeft gesloten met een ziektekostenverzekeraar dan wel van rechtswege verzekerd is op grond van de Wet langdurige zorg;  
 
 h. verzekeringsplichtige: degene die op grond van artikel 2 van de Zorgverzekeringswet verplicht is zich krachtens een zorgverzekering te verzekeren of te laten verzekeren;  
 
@@ -64,12 +64,18 @@ p. FIOD-ECD: de Belastingdienst/Fiscale Inlichtingen- en opsporingsdienst en Eco
 
 q. Zorgverzekeringsfonds: het fonds, genoemd in artikel 39 van de Zorgverzekeringswet;  
 
-r. het CAK: het CAK, genoemd in artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten.  
+r. het CAK: het CAK, genoemd in artikel 6.1.1, eerste lid, van de Wet langdurige zorg.  
 
 ### Artikel  2  
 
 1.  Bij algemene maatregel van bestuur kunnen, indien dat voor een goede uitvoering van deze wet nodig is, werkzaamheden die geheel of gedeeltelijk liggen op het gebied van de gezondheidszorg of geheel of gedeeltelijk ten behoeve van de gezondheidszorg worden verricht, worden aangewezen als zorg in de zin van deze wet.   
-2.  Bij algemene maatregel van bestuur kan een vorm van zorg worden uitgezonderd van deze wet of een deel daarvan.  
+2.  Bij algemene maatregel van bestuur kan een vorm van zorg worden uitgezonderd van deze wet of een deel daarvan.   
+3.  Deze wet is niet van toepassing op een zorgaanbieder voor zover deze jeugdhulp als bedoeld in artikel 1.1 van de Jeugdwet aanbiedt.  
+4.  Deze wet niet is van toepassing op: 
+
+a. aanbieders als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015;  
+
+b. derden van wie een cliënt, aan wie een persoongebonden budget in de zin van die wet is verstrekt, de diensten, hulpmiddelen, woningaanpassingen en andere maatregelen die tot de maatwerkvoorziening behoren betrekt.   
 
 ### Hoofdstuk  2  
 
@@ -176,11 +182,11 @@ b. toezicht op de rechtmatige uitvoering door de zorgverzekeraars van hetgeen bi
 
 c. toezicht op de rechtmatige afrekening van de bijdragen, bedoeld in de artikelen 32 tot en met 34 van de Zorgverzekeringswet, nadat een verzekeraar opgehouden is zorgverzekeringen uit te voeren;  
 
-d. toezicht op de rechtmatige en doelmatige uitvoering door de AWBZ-verzekeraars, het CAK en de rechtspersonen, bedoeld in artikel 40 van de Algemene Wet Bijzondere Ziektekosten, van hetgeen bij of krachtens die wet en de artikelen 91, tweede lid, tweede volzin, 123 en 124 van de Wet financiering sociale verzekeringen is geregeld;  
+d. toezicht op de rechtmatige en doelmatige uitvoering door de Wlz-uitvoerders en het CAK, van hetgeen bij of krachtens de Wet langdurige zorg en de artikelen 91, tweede lid, tweede volzin, 123 en 124 van de Wet financiering sociale verzekeringen is geregeld;  
 
 e. toezicht op de uitvoering van de artikelen 41, 42 en 43;  
 
-f. toezicht op de rechtmatige en doelmatige uitvoering door het CAK van hetgeen bij of krachtens artikel 118a van de Zorgverzekeringswet en artikel 15 van de Wet maatschappelijke ondersteuning is geregeld; 
+f. toezicht op de rechtmatige en doelmatige uitvoering door het CAK van hetgeen bij of krachtens artikel 118a van de Zorgverzekeringswet en artikel 2.1.4 van de Wet maatschappelijke ondersteuning 2015 is geregeld; 
 
 g. toezicht op de naleving van artikel 66d, tweede lid, van de Zorgverzekeringswet;  
 
@@ -304,11 +310,11 @@ b. de inhoud en inrichting van het accountantsverslag, bedoeld in artikel 38 van
 
 ### Paragraaf  3.3  
 
-####Toezicht Algemene Wet Bijzondere Ziektekosten
+####Toezicht Wet langdurige zorg
 
 ### Artikel  28  
 
-1.  De zorgautoriteit zendt voor 1 december aan Onze Minister en aan het Zorginstituut een samenvattend rapport over de rechtmatigheid en de doelmatigheid van de uitvoering van de Algemene Wet Bijzondere Ziektekosten en de daarop gebaseerde regelgeving door de AWBZ-verzekeraars, het CAK en de rechtspersonen, bedoeld in artikel 40 van die wet, in het voorafgaande kalenderjaar.   
+1.  De zorgautoriteit zendt voor 1 december aan Onze Minister en aan het Zorginstituut een samenvattend rapport over de rechtmatigheid en de doelmatigheid van de uitvoering van de Wet langdurige zorg en de daarop gebaseerde regelgeving door de Wlz-uitvoerders en het CAK, in het voorafgaande kalenderjaar.   
 2.  Onze Minister zendt het rapport aan beide kamers der Staten-Generaal.   
 3.  De zorgautoriteit stelt het rapport algemeen verkrijgbaar.   
 4.  Bij ministeriële regeling kunnen regels worden gesteld over de inhoud en inrichting van het rapport.  
@@ -316,20 +322,22 @@ b. de inhoud en inrichting van het accountantsverslag, bedoeld in artikel 38 van
 ### Artikel  29  
 
 1.  De zorgautoriteit maakt, onverminderd haar bevoegdheid tot eigen onderzoek, bij de uitoefening van haar taak, genoemd in artikel 16, onder d, zoveel mogelijk gebruik van de resultaten van door anderen verrichte controles.   
-2.  De AWBZ-verzekeraars en het CAK verstrekken desgevraagd aan de zorgautoriteit de informatie over de uitgevoerde werkzaamheden van hen die met de controle zijn belast en lichten haar volledig in over de resultaten van de controle door overlegging van rapporten of op andere door de zorgautoriteit aan te geven wijze.  
+2.  De Wlz-uitvoerders en het CAK verstrekken desgevraagd aan de zorgautoriteit de informatie over de uitgevoerde werkzaamheden van hen die met de controle zijn belast en lichten haar volledig in over de resultaten van de controle door overlegging van rapporten of op andere door de zorgautoriteit aan te geven wijze.  
 
 ### Artikel  30  
 
-1.  De zorgautoriteit stelt op verzoek van Onze Minister onderzoek in bij AWBZ-verzekeraars, het CAK en rechtspersonen als bedoeld in artikel 40 van de Algemene Wet Bijzondere Ziektekosten.   
-2.  De zorgautoriteit kan tevens op verzoek van het Zorginstituut onderzoek bij de AWBZ-verzekeraars of het CAK instellen.  
+1.  De zorgautoriteit stelt op verzoek van Onze Minister onderzoek in bij Wlz-uitvoerders en het CAK.   
+2.  De zorgautoriteit kan tevens op verzoek van het Zorginstituut onderzoek bij bij de Wlz-uitvoerders of het CAK instellen.  
 
 ### Artikel  31  
 
 De zorgautoriteit kan regels stellen met betrekking tot: 
 
-a. de controle door de AWBZ-verzekeraars en, voor zover betrekking hebbend op de uitvoering van de in artikel 49 van de Algemene Wet Bijzondere Ziektekosten bedoelde taken, door het CAK.  
+a. de controle door de Wlz-uitvoerders en, voor zover betrekking hebbend op de uitvoering van de in artikel 6.1.2 van de Wet langdurige zorg bedoelde taken, door het CAK,  
 
-b. de inhoud en inrichting van de verklaring en van het accountantsverslag, bedoeld in artikel 36 van de Algemene Wet Bijzondere Ziektekosten, en van het daaraan ten grondslag liggende onderzoek.   
+b. de wijze waarop een Wlz-uitvoerder die tevens zorgkantoor als bedoeld in artikel 1.1.1 van de Wet langdurige zorg is, zijn financieel verslag, bedoeld in artikel 4.3.1 van die wet of zijn uitvoeringsverslag, bedoeld in artikel 4.3.2 van die wet, inricht,  
+
+c. de inhoud en inrichting van de verklaring en van het accountantsverslag, bedoeld in artikel 4.3.1 van de Wet langdurige zorg.   
 
 ### Hoofdstuk  4  
 
@@ -426,8 +434,8 @@ b. anders dan op de wijze die overeenkomstig deze wet is vastgesteld.
 
 a. zorgaanbieders en ziektekostenverzekeraars met het oog op de bevordering van concurrentie, het voorkomen van fraude, de inzichtelijkheid en toegankelijkheid van die administratie alsmede het vaststellen van tarieven, en  
 
-b. zorgverzekeraars en AWBZ-verzekeraars met het oog op de bevordering van een goede uitvoering van de Zorgverzekeringswet onderscheidenlijk de Algemene Wet Bijzondere Ziektekosten.     
-4.  De in het derde lid bedoelde regels worden ten aanzien van zorgverzekeraars, AWBZ-verzekeraars of de rechtspersonen, bedoeld in artikel 40 van de Algemene Wet Bijzondere Ziektekosten, gesteld in overeenstemming met het Zorginstituut.  
+b. zorgverzekeraars en Wlz-uitvoerders met het oog op de bevordering van een goede uitvoering van de Zorgverzekeringswet onderscheidenlijk de Wet langdurige zorg.     
+4.  De in het derde lid bedoelde regels worden ten aanzien van zorgverzekeraars en Wlz-uitvoerders gesteld in overeenstemming met het Zorginstituut.  
 
 ### Artikel  37  
 
@@ -465,7 +473,7 @@ b. specificeren van op verrichte prestaties betrekking hebbende rekeningen.
 
 ### Artikel  39  
 
-1.  Zorgaanbieders dragen er zorg voor dat de door of namens hen verstrekte of beschikbaar gestelde informatie terzake van een product of dienst, waaronder reclame-uitingen, geen afbreuk doet aan het bepaalde bij of krachtens deze wet, de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten, en niet misleidend is.   
+1.  Zorgaanbieders dragen er zorg voor dat de door of namens hen verstrekte of beschikbaar gestelde informatie terzake van een product of dienst, waaronder reclame-uitingen, geen afbreuk doet aan het bepaalde bij of krachtens deze wet, de Zorgverzekeringswet of de Wet langdurige zorg, en niet misleidend is.   
 2.  De zorgautoriteit kan regels stellen betreffende de informatievoorziening, bedoeld in het eerste lid, met het oog op de doeltreffendheid, juistheid, inzichtelijkheid en vergelijkbaarheid daarvan.   
 3.  De in het tweede lid bedoelde regels worden gesteld in overeenstemming met het Staatstoezicht op de volksgezondheid.  
 
@@ -477,7 +485,7 @@ b. specificeren van op verrichte prestaties betrekking hebbende rekeningen.
 a. de inhoud van de modelovereenkomsten;  
 
 b. de wijze van dienstverlening aan verzekerden.     
-3.  Ziektekostenverzekeraars dragen er zorg voor dat de door of namens hen verstrekte of beschikbaar gestelde informatie ter zake van een product of dienst, waaronder reclame-uitingen, geen afbreuk doet aan het bepaalde bij of krachtens deze wet, de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten, en niet misleidend is.   
+3.  Ziektekostenverzekeraars dragen er zorg voor dat de door of namens hen verstrekte of beschikbaar gestelde informatie ter zake van een product of dienst, waaronder reclame-uitingen, geen afbreuk doet aan het bepaalde bij of krachtens deze wet, de Zorgverzekeringswet of de Wet langdurige zorg, en niet misleidend is.   
 4.  Artikel 38, vijfde tot en met zevende lid, is ten aanzien van de informatieverstrekking door ziektekostenverzekeraars van overeenkomstige toepassing.  
 
 ### Artikel  41  
@@ -639,6 +647,11 @@ d. het rapport als bedoeld in artikel 49b, eerste lid, onvoldoende inzicht biedt
 
 ####Vaststelling van tarieven en prestatiebeschrijvingen
 
+### Artikel  49e  
+
+1.  Onze Minister stelt voor ieder kalenderjaar het bedrag vast dat in dat kalenderjaar beschikbaar is voor het verlenen van zorg als bedoeld in de artikelen 3.3.1, 3.3.2 en 3.3.3 van de Wet langdurige zorg.   
+2.  Ten behoeve van het voor zorg in natura vaststellen van tarieven als bedoeld in artikel 50, eerste lid, en van bedragen als bedoeld in artikel 56b, alsmede ten behoeve van het verstrekken van persoonsgebonden budgetten als bedoeld in de Wet langdurig zorg, verdeelt de zorgautoriteit het bedrag, bedoeld in het eerste lid, over de regio’s, bedoeld in artikel 4.2.4, tweede lid, van laatstgenoemde wet.  
+
 ### Artikel  50  
 
 1.  De zorgautoriteit legt, met inachtneming van de artikelen 51 tot en met 56 en 59, in een beschikking ten behoeve van het rechtsgeldig in rekening kunnen brengen van een tarief vast: 
@@ -732,7 +745,7 @@ b. indien de aanvraag overigens niet voldoet aan het bepaalde bij of krachtens d
 
 ### Artikel  56a  
 
-1.  De zorgautoriteit kan een beschikbaarheidbijdrage toekennen ten behoeve van de beschikbaarheid van bij algemene maatregel van bestuur aangewezen vormen van zorg als bedoeld in artikel 1, onderdeel b, sub 1°, van deze wet met inachtneming van daarbij te stellen voorwaarden, voorschriften en beperkingen. Een zorgaanbieder kan de beschikbaarheidbijdrage bij het Zorginstituut in rekening brengen ten laste van het Zorgverzekeringsfonds dan wel het Algemeen Fonds Bijzondere Ziektekosten. Voor een beschikbaarheidbijdrage komen uitsluitend vormen van zorg in aanmerking waarvan de kosten niet of niet geheel zijn toe te rekenen naar, of door middel van tarieven in de zin van deze wet in rekening te brengen zijn aan, individuele ziektekostenverzekeraars of verzekerden, of waarvan de bekostiging bij een zodanige toerekening dan wel een zodanige tarifering marktverstorend zou werken, en die niet op andere wijze worden bekostigd.   
+1.  De zorgautoriteit kan een beschikbaarheidbijdrage toekennen ten behoeve van de beschikbaarheid van bij algemene maatregel van bestuur aangewezen vormen van zorg als bedoeld in artikel 1, onderdeel b, sub 1°, van deze wet met inachtneming van daarbij te stellen voorwaarden, voorschriften en beperkingen. Een zorgaanbieder kan de beschikbaarheidbijdrage bij het Zorginstituut in rekening brengen ten laste van het Zorgverzekeringsfonds dan wel het Fonds langdurige zorg. Voor een beschikbaarheidbijdrage komen uitsluitend vormen van zorg in aanmerking waarvan de kosten niet of niet geheel zijn toe te rekenen naar, of door middel van tarieven in de zin van deze wet in rekening te brengen zijn aan, individuele ziektekostenverzekeraars of verzekerden, of waarvan de bekostiging bij een zodanige toerekening dan wel een zodanige tarifering marktverstorend zou werken, en die niet op andere wijze worden bekostigd.   
 2.  De zorgautoriteit past het eerste lid toe: 
 
 a. op aanvraag van een zorgaanbieder of een ziektekostenverzekeraar;  
@@ -800,9 +813,7 @@ a. artikel 35 niet van toepassing is op het tarief voor de bij het experiment be
 
 b. artikel 35, eerste lid, onder c en d, niet van toepassing is op de prestatiebeschrijving van de bij het experiment betrokken prestaties;  
 
-c. artikel 12, eerste lid, van de Zorgverzekeringswet of artikel 15 van de Algemene Wet Bijzondere Ziektekosten niet van toepassing is op het tarief voor de bij het experiment betrokken prestaties;  
-
-d. artikel 12, tweede of derde lid, van de Zorgverzekeringswet dan wel artikel 16b, eerste lid, of 16c, eerste lid, van de Algemene Wet Bijzondere Ziektekosten niet van toepassing is op het tarief voor de bij het experiment betrokken prestaties.     
+c. artikel 12, eerste, tweede of derde lid, van de Zorgverzekeringswet of artikel 4.2.2 van de Wet langdurige zorg niet van toepassing is op het tarief voor de bij het experiment betrokken prestaties.     
 5.  Een beleidsregel als bedoeld in het eerste lid bepaalt de maximale duur van het experiment, die ten hoogste vijf jaren bedraagt. De zorgautoriteit kan besluiten de gevolgen van het experiment geheel of gedeeltelijk in stand te laten tot het einde van het boekjaar volgend op het boekjaar waarin het experiment is geëindigd.   
 6.  De zorgautoriteit evalueert het experiment tijdig en tijdens zijn uitvoering.   
 7.  De zorgautoriteit rapporteert over de uitslag van een experiment aan Onze Minister in ieder geval binnen drie maanden na afloop van het experiment.  
@@ -906,7 +917,7 @@ b. voldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen worden g
 
 1. Een zorgaanbieder die aan een verzekerde zorg heeft verleend, en die daarvoor krachtens een door hem met de ziektekostenverzekeraar gesloten overeenkomst rechtstreeks een tarief bij die ziektekostenverzekeraar in rekening brengt, verstrekt die ziektekostenverzekeraar of een door die ziektekostenverzekeraar aangewezen persoon de persoonsgegevens van de verzekerde, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die noodzakelijk zijn voor de uitvoering van de ziektekostenverzekering of van de wet, dan wel stelt hem deze gegevens voor dit doel voor inzage of het nemen van afschrift ter beschikking. 
 2. Een zorgaanbieder die aan een verzekerde zorg heeft verleend en die daarvoor bij de verzekerde een tarief in rekening brengt, verstrekt hem de persoonsgegevens, waaronder persoonsgegevens betreffende zijn gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die voor zijn ziektekostenverzekeraar noodzakelijk zijn voor de uitvoering van de ziektekostenverzekering of van de wet. 
-3. Behoudens voor zover enig wettelijk voorschrift hen mededeling toestaat, zijn personen werkzaam bij een ziektekostenverzekeraar, bij een door de ziektekostenverzekeraar aangewezen persoon of bij een door Onze Minister aangewezen persoon als bedoeld in artikel 53, eerste of derde lid, van de Algemene Wet Bijzondere Ziektekosten of artikel 87, derde lid, van de Zorgverzekeringswet, voor wie niet reeds uit hoofde van ambt of beroep een geheimhoudingsplicht geldt, verplicht tot geheimhouding van persoonsgegevens van een verzekerde, waaronder persoonsgegevens betreffende zijn gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die voor een ziektekostenverzekeraar noodzakelijk zijn voor de uitvoering van een ziektekostenverzekering. 
+3. Behoudens voor zover enig wettelijk voorschrift hen mededeling toestaat, zijn personen werkzaam bij een ziektekostenverzekeraar, bij een door de ziektekostenverzekeraar aangewezen persoon of bij een door Onze Minister aangewezen persoon als bedoeld in artikel 87, derde lid, van de Zorgverzekeringswet, voor wie niet reeds uit hoofde van ambt of beroep een geheimhoudingsplicht geldt, verplicht tot geheimhouding van persoonsgegevens van een verzekerde, waaronder persoonsgegevens betreffende zijn gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die voor een ziektekostenverzekeraar noodzakelijk zijn voor de uitvoering van een ziektekostenverzekering. 
 4. Bij ministeriële regeling kan worden bepaald:
 
 a.tot welke gegevens en tot welke categorie van ziektekostenverzekeraars als bedoeld in artikel 1, onderdeel f, de verplichting, bedoeld in het eerste of tweede lid, zich in ieder geval uitstrekt;
@@ -985,7 +996,7 @@ De zorgautoriteit maakt openbaar op welke wijze zij van plan is uitvoering te ge
 ### Artikel  76  
 
 1. De zorgautoriteit is bevoegd ter handhaving van het bepaalde bij of krachtens de artikelen 23, 25, tweede lid, 27, 31, 34, 35 tot en met 45, 48, 49, 49a, 49c, derde lid, 49d, tweede lid, 61, 62 en 68 een aanwijzing te geven, erop gericht dat aan het bepaalde bij of krachtens die artikelen wordt voldaan.  
-2.  Indien de zorgautoriteit een zorgaanbieder een aanwijzing geeft ter handhaving van artikel 35, zevende lid, of artikel 37, eerste lid, aanhef en onder d, kan de aanwijzing voor zover het betreft de hoogte van het af te dragen bedrag uitsluitend de verplichting inhouden dat de zorgaanbieder een door de zorgautoriteit te bepalen bedrag van ten hoogste de overschrijding van de in die artikelen bedoelde vaste grens, bovengrens of bandbreedtegrens afdraagt aan het Zorgverzekeringsfonds of het Algemeen Fonds Bijzondere Ziektekosten. 
+2.  Indien de zorgautoriteit een zorgaanbieder een aanwijzing geeft ter handhaving van artikel 35, zevende lid, of artikel 37, eerste lid, aanhef en onder d, kan de aanwijzing voor zover het betreft de hoogte van het af te dragen bedrag uitsluitend de verplichting inhouden dat de zorgaanbieder een door de zorgautoriteit te bepalen bedrag van ten hoogste de overschrijding van de in die artikelen bedoelde vaste grens, bovengrens of bandbreedtegrens afdraagt aan het Zorgverzekeringsfonds of het Fonds langdurige zorg. 
 
 ### Artikel  77  
 
@@ -993,8 +1004,9 @@ De zorgautoriteit kan uit hoofde van haar taak, bedoeld in artikel 16, onder b e
 
 ### Artikel  78  
 
-1.  De zorgautoriteit kan uit hoofde van haar taak, bedoeld in artikel 16, onder d, een aanwijzing geven aan een AWBZ-verzekeraar, het CAK of een rechtspersoon als bedoeld in artikel 40 van de Algemene Wet Bijzondere Ziektekosten, die niet voldoet aan het bepaalde bij of krachtens die wet.   
-2.  De zorgautoriteit kan uit hoofde van haar taak, bedoeld in artikel 16, onder f, een aanwijzing geven aan het CAK indien het CAK niet voldoet aan hetgeen bij of krachtens artikel 118a van de Zorgverzekeringswet en artikel 15 van de Wet maatschappelijke ondersteuning is geregeld.  
+1.  De zorgautoriteit kan uit hoofde van haar taak, bedoeld in artikel 16, onder d, een aanwijzing geven aan een Wlz-uitvoerder die, of het CAK dat, niet voldoet aan het bepaalde bij of krachtens de Wet langdurige zorg.   
+2.  De zorgautoriteit kan uit hoofde van haar taak, bedoeld in artikel 16, onder f, een aanwijzing geven aan het CAK indien het CAK niet voldoet aan hetgeen bij of krachtens artikel 118a van de Zorgverzekeringswet en artikel 2.1.4 van de Wet maatschappelijke ondersteuning 2015 is geregeld.   
+3.  Indien een Wlz-uitvoerder werkzaamheden aan andere Wlz-uitvoerder heeft uitbesteed en een door de zorgautoriteit op grond van het eerste lid gegeven aanwijzing met betrekking tot de wijze waarop deze taak door de desbetreffende persoon wordt uitgevoerd, niet binnen de in het tweede lid bedoelde termijn tot een rechtmatige en doelmatige uitvoering heeft geleid, meldt de zorgautoriteit dit, onder vermelding van de naam van de Wlz-uitvoerder waaraan is uitbesteed, aan Onze Minister. 
 
 ### Artikel  78a  
 
@@ -1007,7 +1019,7 @@ De zorgautoriteit kan uit hoofde van haar taak, bedoeld in artikel 16, onder g, 
 
 ### Artikel  80  
 
-1.  Indien een zorgverzekeraar, een verzekeraar als bedoeld in artikel 77, het CAK dan wel een AWBZ-verzekeraar, hierna te noemen: betrokkene, niet binnen de termijn, bedoeld in artikel 79, tweede lid, aan een krachtens artikel 77 onderscheidenlijk 78 gegeven aanwijzing voldoet, is de zorgautoriteit bevoegd: 
+1.  Indien een zorgverzekeraar, een verzekeraar als bedoeld in artikel 77, het CAK dan wel een Wlz-uitvoerder, hierna te noemen: betrokkene, niet binnen de termijn, bedoeld in artikel 79, tweede lid, aan een krachtens artikel 77 onderscheidenlijk 78 gegeven aanwijzing voldoet, is de zorgautoriteit bevoegd: 
 
 a. een last onder bestuursdwang op te leggen, of  
 
@@ -1015,7 +1027,7 @@ b. ter openbare kennis te brengen, zo nodig onder vermelding van de overwegingen
 
 1°. dat de betrokkene verzekeringen als zorgverzekering aanbiedt of uitvoert die niet aan het bij of krachtens de Zorgverzekeringswet geregelde voldoen;  
 
-2°. dat de zorgverzekeraar in strijd handelt met een of meer door de zorgautoriteit genoemde, bij of krachtens de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten geregelde bepalingen;  
+2°. dat de zorgverzekeraar dan wel de Wlz-uitvoerder in strijd handelt met een of meer door de zorgautoriteit genoemde, bij of krachtens de Zorgverzekeringswet of de Wet langdurige zorg geregelde bepalingen;  
 
 3°. dat aan de betrokkene een aanwijzing is gegeven dan wel een last onder dwangsom of een bestuurlijke boete is opgelegd.       
 2.  De zorgautoriteit stelt, indien zij voornemens is een feit ter openbare kennis te brengen, de betrokkene daarvan in kennis onder vermelding van de gronden waarop het voornemen berust.   
@@ -1058,7 +1070,7 @@ ter openbare kennis te brengen, zo nodig onder vermelding van de overwegingen di
 
 ### Artikel  82  
 
-De zorgautoriteit is ter handhaving van het bepaalde bij of krachtens de artikelen 25, tweede lid, 35 tot en met 45, 48, 49, 49a, 49c, derde lid, 49d, tweede lid, 61, 62, 68, 68a of 79, tweede lid, bevoegd tot het opleggen van een last onder bestuursdwang dan wel het opleggen van een last onder dwangsom. 
+De zorgautoriteit is ter handhaving van het bepaalde bij of krachtens de artikelen 25, tweede lid, 31, 35 tot en met 45, 48, 49, 49a, 49c, derde lid, 49d, tweede lid, 61, 62, 68, 68a of 79, tweede lid, bevoegd tot het opleggen van een last onder bestuursdwang dan wel het opleggen van een last onder dwangsom. 
 
 ### Artikel  83  
 
@@ -1116,10 +1128,10 @@ De zorgautoriteit kan een zorgaanbieder een last onder dwangsom opleggen ter zak
 
 ### Artikel  104  
 
-1.  De zorgautoriteit draagt het op grond van artikel 81, eerste lid, onderdeel c, ingevorderde bedrag af aan het Zorgverzekeringsfonds of het Algemeen Fonds Bijzondere Ziektekosten.  
+1.  De zorgautoriteit draagt het op grond van artikel 81, eerste lid, onderdeel c, ingevorderde bedrag af aan het Zorgverzekeringsfonds of het Fonds langdurige zorg.  
 2.  De zorgautoriteit draagt de op grond van de artikelen 82 en 85 ingevorderde dwangsommen en bestuurlijke boetes af aan ’s Rijks kas.   
 3.  De zorgautoriteit draagt de op grond van de artikelen 83 en 86 tot en met 89 ingevorderde dwangsommen en bestuurlijke boetes af aan het Zorgverzekeringsfonds.   
-4.  De zorgautoriteit draagt de op grond van artikel 84 ingevorderde dwangsommen af aan het Algemeen Fonds Bijzondere Ziektekosten.   
+4.  De zorgautoriteit draagt de op grond van artikel 84 ingevorderde dwangsommen af aan het Fonds langdurige zorg.   
 5.  De zorgautoriteit draagt de op grond van de artikelen 81a, 84a en 90 ingevorderde dwangsommen en bestuurlijke boetes af aan het Zorgverzekeringsfonds of het Algemeen Fonds Bijzondere Ziektekosten. 
 
 ### Paragraaf  6.6  

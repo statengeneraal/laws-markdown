@@ -303,20 +303,15 @@ h.de gevallen waarin en de voorwaarden waaronder de artikelen 11, 14 en 15 gehee
 
 ### Artikel  21a  
 
-1.  De fosfaatgebruiksnorm voor meststoffen, bedoeld in artikel 8, onderdeel c, van de wet, is per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met hoge fosfaattoestand betreft: 
+De fosfaatgebruiksnormen voor meststoffen, bedoeld in artikel 8, onderdeel c, van de wet, zijn: 
 
-a. 90 kilogram fosfaat in 2010 en 2011;  
+a. vanaf 1 januari 2015 90 kilogram fosfaat per jaar per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met een neutrale fosfaattoestand betreft;  
 
-b. 85 kilogram fosfaat in 2012 en 2013.     
-2.  De fosfaatgebruiksnorm voor meststoffen, bedoeld in artikel 8, onderdeel c, van de wet, is per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met hoge fosfaattoestand betreft: 
+b. vanaf 1 januari 2015 60 kilogram fosfaat per jaar per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met een neutrale fosfaattoestand betreft;  
 
-a. 75 kilogram fosfaat in 2010;  
+c. vanaf 1 januari 2015 80 kilogram fosfaat per jaar per hectare grasland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met een hoge fosfaattoestand betreft;  
 
-b. 70 kilogram fosfaat in 2011;  
-
-c. 65 kilogram fosfaat in 2012;  
-
-d. 55 kilogram fosfaat in 2013.    
+d. vanaf 1 januari 2015 50 kilogram fosfaat per jaar per hectare bouwland van de tot het bedrijf behorende oppervlakte landbouwgrond voor zover het grond met een hoge fosfaattoestand betreft.   
 
 ### Artikel  22  
 
@@ -340,8 +335,8 @@ Voor de toepassing van de artikelen 9, 10, eerste lid, 11, eerste en tweede lid,
 
 ### Artikel  25a  
 
-1.  Voor de toepassing van artikel 1, eerste lid, onderdeel cc, onder 1°, van de wet is de tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar de oppervlakte landbouwgrond die ingevolge de artikelen 24 en 25 in het desbetreffende kalenderjaar tot het bedrijf behoort.   
-2.  Voor de toepassing van artikel 1, eerste lid, onderdeel cc, onder 2°, van de wet is de tot het bedrijf behorende oppervlakte landbouwgrond zijnde natuurterrein dat de hoofdfunctie natuur, heeft in enig kalenderjaar het natuurterrein dat op 15 mei van het desbetreffende kalenderjaar bij het bedrijf in gebruik is.  
+1.  Voor de toepassing van artikel 1, eerste lid, onderdeel ll, onder 1°, van de wet is de tot het bedrijf behorende oppervlakte landbouwgrond in enig kalenderjaar de oppervlakte landbouwgrond die ingevolge de artikelen 24 en 25 in het desbetreffende kalenderjaar tot het bedrijf behoort.   
+2.  Voor de toepassing van artikel 1, eerste lid, onderdeel ll, onder 2°, van de wet is de tot het bedrijf behorende oppervlakte landbouwgrond zijnde natuurterrein dat de hoofdfunctie natuur, heeft in enig kalenderjaar het natuurterrein dat op 15 mei van het desbetreffende kalenderjaar bij het bedrijf in gebruik is.  
 
 ### Artikel  26  
 
@@ -444,7 +439,7 @@ e. de aantallen voor gebruiks- of winstdoeleinden op het bedrijf gehouden dan we
 
 f. de hoeveelheden aan- en afgevoerde meststoffen waarbij, voor zover van toepassing, wordt aangegeven dat de afvoer heeft plaatsgevonden ter uitvoering van artikel 33a, tweede lid, onderdeel b, onder 1°, onderdeel e, of vijfde lid, van de wet, de datum waarop de aan- of afvoer plaatsvond en gegevens over het bedrijf of de onderneming van herkomst, onderscheidenlijk van bestemming, dan wel, ingeval geen sprake is van een bedrijf of onderneming, gegevens over de leverancier onderscheidenlijk afnemer van de meststoffen;  
 
-g. de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor de landbouwer ten aanzien van een kalenderjaar overeenkomsten als bedoeld in artikel 33a, tweede lid, onderdeel e, van de wet heeft gesloten;  
+g. de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor de landbouwer ten aanzien van een kalenderjaar overeenkomsten als bedoeld in artikel 21, tweede lid, onderdeel d, onder 4 en artikel 33a, tweede lid, onderdeel e, van de wet heeft gesloten;  
 
 h. de hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, waarvoor de landbouwer ten aanzien van een kalenderjaar overeenkomsten als bedoeld in artikel 33a, derde lid, onderdeel c, van de wet heeft gesloten, waarbij onderscheid wordt gemaakt in de hoeveelheid die de landbouwer laat verwerken door middel van het sluiten van die overeenkomst, en de hoeveelheid die een landbouwer ingevolge artikel 33a, vijfde lid, van de wet moet laten verwerken; 
 
@@ -455,7 +450,7 @@ j. de aan het begin en het eind van het kalenderjaar op het bedrijf aanwezige ho
 k. de hoeveelheden en de samenstelling van de aan andere bedrijven of ondernemingen afgeleverde diervoeders, uitgedrukt in kilogrammen alsmede in kilogrammen stikstof en fosfaat; en  
 
 l. de gewasopbrengst, voor zover deze relevant is voor de toepassing van de krachtens artikel 10, eerste lid, van de wet vastgestelde ministeriële regeling.    
-3.  De landbouwer bewaart de mestverwerkingsovereenkomsten, en de overeenkomsten, bedoeld in artikel 33a, tweede lid, onderdeel e, en derde lid, onderdeel c, van de wet, als onderdeel van zijn administratie. 
+3.  De landbouwer bewaart de mestverwerkingsovereenkomsten, en de overeenkomsten, bedoeld in artikel 21, tweede lid, onderdeel d, onder 4° en artikel 33a, tweede lid, onderdeel e, en derde lid, onderdeel c, van de wet, als onderdeel van zijn administratie. 
 
 ### Artikel  33  
 
@@ -560,7 +555,7 @@ i. de wijzigingen in de gegevens, bedoeld in de onderdelen a tot en met h.
 1.  De intermediair houdt per onderneming een inzichtelijke administratie bij.   
 2.  De administratie bevat in ieder geval de gegevens, bedoeld in artikel 38, tweede lid, alsmede gegevens over: 
 
-a. de hoeveelheden in het kader van de onderneming aan- en afgevoerde meststoffen waarbij, voor zover van toepassing, wordt aangegeven dat de aan- of afvoer heeft plaatsgevonden ter uitvoering van artikel 33a, tweede lid, onderdeel b, onder 1°, vierde of vijfde lid, en artikel 33d, eerste lid, van de wet, de datum waarop de aan- en afvoer plaatsvond en het bedrijf of de onderneming van herkomst, onderscheidenlijk van bestemming dan wel, ingeval geen sprake is van een bedrijf of onderneming, gegevens over de leverancier onderscheidenlijk afnemer van de meststoffen;  
+a. de hoeveelheden in het kader van de onderneming aan- en afgevoerde meststoffen waarbij, voor zover van toepassing, wordt aangegeven dat de aan- of afvoer heeft plaatsgevonden ter uitvoering van artikel 21, tweede lid, onderdeel d, onder 1°, artikel 33a, tweede lid, onderdeel b, onder 1°, vierde of vijfde lid, en artikel 33d, eerste lid, van de wet, de datum waarop de aan- en afvoer plaatsvond en het bedrijf of de onderneming van herkomst, onderscheidenlijk van bestemming dan wel, ingeval geen sprake is van een bedrijf of onderneming, gegevens over de leverancier onderscheidenlijk afnemer van de meststoffen;  
 
 b. de hoeveelheden meststoffen die in iedere afzonderlijke opslagruimte voor meststoffen zijn aangevoerd en de hoeveelheden meststoffen die uit die opslagruimte zijn afgevoerd, zodanig dat steeds blijkt welke hoeveelheid meststoffen zich in de opslagruimte bevindt;  
 
@@ -686,7 +681,7 @@ De op grond van dit hoofdstuk bij te houden of te verstrekken gegevens worden de
 
 ### Paragraaf  1  
 
-####Vervoer van dierlijke meststoffen, zuiveringsslib en compost
+####Algemene bepalingen
 
 ### Artikel  48  
 
@@ -737,7 +732,7 @@ e. de wijze waarop en de termijn waarbinnen de mededeling, bedoeld in artikel 51
 ### Artikel  53  
 
 1.  Terzake van het vervoer van een vracht dierlijke meststoffen wordt door de leverancier, de vervoerder en de afnemer gezamenlijk een vervoersbewijs opgemaakt.   
-2.  De vervoerder draagt er zorg voor dat het vervoersbewijs overeenkomstig de krachtens artikel 54 gestelde regels volledig en naar waarheid wordt ingevuld en door de leverancier, de vervoerder en de afnemer wordt ondertekend.   
+2.  De leverancier en de afnemer dragen er ieder voor zijn deel, en de vervoerder voor het geheel, zorg voor dat het vervoersbewijs overeenkomstig de krachtens artikel 54 gestelde regels volledig en naar waarheid wordt ingevuld en ondertekend.   
 3.  Het vervoersbewijs wordt bij ministeriële regeling vastgesteld en bevat in ieder geval gegevens over: 
 
 a. de leverancier, de vervoerder en de afnemer;  
@@ -773,7 +768,7 @@ e. de gevallen waarin en de voorwaarden waaronder artikel 53 geheel of gedeeltel
 ### Artikel  55  
 
 1. Ter zake van het vervoer van zuiveringsslib, compost en bij ministeriële regeling aangewezen overige organische meststoffen, wordt door de leverancier, de vervoerder en de afnemer gezamenlijk een vervoersbewijs opgemaakt. 
-2. De vervoerder draagt er zorg voor dat het vervoersbewijs overeenkomstig de krachtens artikel 56 gestelde regels volledig en naar waarheid wordt ingevuld en door de leverancier, de vervoerder en de afnemer wordt ondertekend. 
+2.  De leverancier en de afnemer dragen er ieder voor zijn deel, en de vervoerder voor het geheel, zorg voor dat het vervoersbewijs overeenkomstig de krachtens artikel 56 gestelde regels volledig en naar waarheid wordt ingevuld en ondertekend.  
 3. Het vervoersbewijs wordt bij ministeriële regeling vastgesteld en bevat in ieder geval gegevens over:
 
 a.de leverancier, de vervoerder en de afnemer;
@@ -919,13 +914,6 @@ e. de verantwoording van de vaststellingen.
 
 1.  Voor de toepassing van de krachtens artikel 11, zesde lid, van de wet gestelde regels meldt de landbouwer zijn bedrijf uiterlijk 31 december van het desbetreffende jaar aan bij Onze Minister.   
 2.  De in het eerste lid bedoelde melding vindt plaats door indiening van het volledig en naar waarheid ingevulde en ondertekende daartoe bestemde formulier, dat door Onze Minister wordt verstrekt.  
-
-### Artikel  72  
-
-1.  Ter uitvoering van de artikelen 35, 36, 43, 45 en 46 en de krachtens artikel 70, vierde lid, gestelde regels, kan bij ministeriële regeling medewerking gevorderd van het bestuur van een bedrijfslichaam.   
-2.  De in het eerste lid bedoelde medewerking kan bestaan uit het verrichten van de noodzakelijke werkzaamheden en het overeenkomstig de krachtens de artikelen 36, 46 en 70, vierde lid, gestelde regels, bij verordening stellen van nadere regels, inzake het inwinnen en registreren van de in de artikelen 35, 36, 43, 45 en 46 bedoelde gegevens alsmede inzake de bepaling van het ureumgehalte van koemelk en de bevoegdheid tot het doen van de voor de bepaling van dat gehalte noodzakelijke vaststellingen.   
-3.  De krachtens verordening vastgestelde voorschriften en vastgestelde besluiten behoeven de goedkeuring van Onze Minister.   
-4.  Onze Minister kan met betrekking tot het verlenen van medewerking beleidsregels stellen.  
 
 ### Artikel  73  
 

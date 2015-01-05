@@ -248,7 +248,7 @@ Bij een weg, in beheer bij het Rijk, treedt voor de toepassing van de Algemene w
 
 ### Artikel  28  
 
-1.  Als een provincie, een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, 's-Gravenhage, Rotterdam of Utrecht omvat, of een gemeente een regionaal mobiliteitsfonds tot stand heeft gebracht met als enig doel de bekostiging van infrastructurele maatregelen en vervoersdiensten, kan Onze Minister ten gunste van het fonds bijdragen verlenen, indien daarmee de bereikbaarheid van een uit het oogpunt van verkeer en vervoer samenhangend gebied en van belangrijke economische en andere centra binnen dat gebied wordt bevorderd, en binnen het gebied voldoende overeenstemming bestaat over de wijze waarop de middelen uit het fonds tot besteding zullen komen.   
+1.  Als een provincie een openbaar lichaam als bedoeld in artikel 20, derde lid, van de Wet personenvervoer 2000, of een gemeente een regionaal mobiliteitsfonds tot stand heeft gebracht met als enig doel de bekostiging van infrastructurele maatregelen en vervoersdiensten, kan Onze Minister ten gunste van het fonds bijdragen verlenen, indien daarmee de bereikbaarheid van een uit het oogpunt van verkeer en vervoer samenhangend gebied en van belangrijke economische en andere centra binnen dat gebied wordt bevorderd, en binnen het gebied voldoende overeenstemming bestaat over de wijze waarop de middelen uit het fonds tot besteding zullen komen.   
 2.  Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent: 
 
 a. de voorwaarden en voorschriften die aan een bijdrage kunnen worden verbonden, en  

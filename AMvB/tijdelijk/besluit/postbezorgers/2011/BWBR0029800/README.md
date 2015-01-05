@@ -49,7 +49,7 @@ Dit besluit is niet van toepassing op een postvervoerbedrijf:
 
 a. dat is gebonden aan een collectieve arbeidsovereenkomst waarin bepalingen zijn opgenomen over het aantal of het percentage postbezorgers dat bij een postvervoerbedrijf arbeid verricht op basis van een arbeidsovereenkomst, of  
 
-b. dat ingevolge artikel 64, derde lid, van de wet is uitgezonderd van de verplichting, bedoeld in artikel 64, eerste lid, van de wet.   
+b. aan wie ingevolge artikel 12, derde lid, van het Besluit doorberekening kosten ACM geen bedrag in rekening wordt gebracht.   
 
 ### §  3  
 

@@ -717,7 +717,7 @@ d. de monitoring en evaluatie van de voortgang van een gebiedsgerichte aanpak.
 
 ### Artikel  55i  
 
-Indien in het gebied meer dan één bestuursorgaan bevoegd is op grond van artikel 88, eerste of zevende lid, dan wel de artikelen genoemd in dat eerste lid, geldt dat de bevoegdheden van gedeputeerde staten, bedoeld in deze paragraaf, worden uitgeoefend door: 
+Indien in het gebied meer dan één bestuursorgaan bevoegd is op grond van artikel 88, eerste of vijfde lid, dan wel de artikelen genoemd in dat eerste lid, geldt dat de bevoegdheden van gedeputeerde staten, bedoeld in deze paragraaf, worden uitgeoefend door: 
 
 a. gedeputeerde staten van de provincie waarin het grootste gedeelte van het gebied is gelegen, indien het gebied in meer dan één provincie is gelegen;  
 
@@ -1032,7 +1032,7 @@ a. de uitvoering van deze wet op hun grondgebied, en
 b. de voortgang van de uitvoering van de bodemsaneringsoperatie.     
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de wijze waarop het verslag, bedoeld in het eerste lid, wordt gedaan, alsmede omtrent de gegevens die daarbij worden verstrekt.   
 3.  Naar aanleiding van het verslag, bedoeld in het eerste lid, kan een gesprek van Onze Minister met gedeputeerde staten over de uitvoering van de wet plaatsvinden.   
-4.  Burgemeester en wethouders van de gemeenten die niet in artikel 88, eerste lid of krachtens het zevende lid, zijn genoemd, doen met betrekking tot het grondgebied van hun gemeente aan gedeputeerde staten van een provincie een opgave van de gegevens, bedoeld in het tweede lid. 
+4.  Burgemeester en wethouders van de gemeenten die niet in artikel 88, eerste lid of krachtens het vijfde lid, zijn genoemd, doen met betrekking tot het grondgebied van hun gemeente aan gedeputeerde staten van een provincie een opgave van de gegevens, bedoeld in het tweede lid. 
 
 ### Artikel  88  
 
@@ -1041,21 +1041,9 @@ b. de voortgang van de uitvoering van de bodemsaneringsoperatie.
 a. de artikelen 27 tot en met 34, 37, artikel 38, derde en vierde lid, 39, 39a, 39b, 39c, 39d, derde, vierde en vijfde lid, 39f, eerste lid, 40, 42, 43 tot en met 51, 55, 55ab, tweede lid, 55b, derde lid, 55c, eerste en derde lid, 55e, eerste, tweede lid, onder f, en vijfde lid, 55f, 55g, derde lid, 63c, tweede lid, 74 tot en met 76l, 83, 87a en 92b;   
 
 b. vervallen.     
-2. Een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat wordt gelijkgesteld met een provincie voor de toepassing van de in het eerste lid genoemde artikelen, alsmede voor de artikelen 41, 51 en 53. De gelijkstelling vindt toepassing:
-
-–voor de locaties waarvoor de plusregio rechtstreeks middelen van het Rijk ontvangt voor het onderzoek van onderzoeksgevallen, het saneringsonderzoek en de sanering van gevallen van ernstige verontreiniging, en
-
-–indien de in deze artikelen bedoelde bevoegdheden aan de plusregio bij algemene maatregel van bestuur zijn overgedragen.  
-3.   In de gevallen waarin de in het eerste lid bedoelde gelijkstelling van toepassing is, blijven de artikelen 41, 51 en 53 buiten toepassing.    
-4.   In de gevallen waarin de in het tweede lid bedoelde gelijkstelling van toepassing is, blijft het eerste lid buiten toepassing voor een in die plusregio gelegen gemeente.    
-5.  Onverlet het derde en vierde lid, treden in de gevallen, bedoeld in het eerste en het tweede lid:  
-
-a. de raad onderscheidenlijk het algemeen bestuur van de plusregio op in de plaats van provinciale staten,   
-
-b. burgemeester en wethouders onderscheidenlijk het dagelijks bestuur van de plusregio op in de plaats van gedeputeerde staten, en   
-
-c. de burgemeester onderscheidenlijk de voorzitter van de plusregio op in de plaats van Onze commissaris in de provincie.      
-6.  In de gevallen, bedoeld in het vijfde lid:  
+2.   In de gevallen waarin de in het eerste lid bedoelde gelijkstelling van toepassing is, blijven de artikelen 41, 51 en 53 buiten toepassing.    
+3.  Onverminderd het tweede lid, treedt in de gevallen, bedoeld in het eerste lid, de raad op in plaats van provinciale staten, treedt het college van burgemeester en wethouders op in plaats van gedeputeerde staten en treedt de burgemeester op in plaats van Onze commissaris in de provincie.   
+4.  In de gevallen, bedoeld in het derde lid:  
 
 a. worden tevens gedeputeerde staten in de gelegenheid gesteld van advies te dienen overeenkomstig artikel 32;   
 
@@ -1064,7 +1052,7 @@ b. kunnen ook gedeputeerde staten een verzoek doen als bedoeld in artikel 33;
 c. wordt een beschikking, houdende een beslissing op een zodanig verzoek tevens aan gedeputeerde staten toegezonden;   
 
 d. wordt de inhoud van een ingevolge artikel 30 of 31 gegeven beschikking tevens onverwijld aan gedeputeerde staten medegedeeld en wordt de beschikking tevens in afschrift aan hen gezonden.      
-7.  Bij algemene maatregel van bestuur kan het eerste lid van overeenkomstige toepassing worden verklaard op andere gemeenten dan die, genoemd in het eerste lid.  
+5.  Bij algemene maatregel van bestuur kan het eerste lid van overeenkomstige toepassing worden verklaard op andere gemeenten dan die, genoemd in het eerste lid.  
 
 ### Artikel  89  
 
@@ -1115,7 +1103,7 @@ Een gedraging in strijd met een voorschrift, krachtens de artikelen 64, tweede l
 3.  Onze betrokken Minister, gedeputeerde staten en burgemeester en wethouders hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van artikel 13.   
 4.  De volgende bestuursorganen hebben tot taak zorg te dragen voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens § 3 en § 3a van hoofdstuk IV en artikel 72: 
 
-a. in gevallen als bedoeld in artikel 88, eerste, tweede en zevende lid: burgemeester en wethouders, onderscheidenlijk het dagelijks bestuur van de plusregio;  
+a. In gevallen als bedoeld in artikel 88, eerste en vijfde lid,: burgemeester en wethouders;  
 
 b. in andere gevallen: gedeputeerde staten.    
 5. Bij een algemene maatregel van bestuur als bedoeld in de artikelen 6 tot en met 12a kan worden aangegeven onder welke voorwaarden en in welke gevallen de bevoegdheid tot bestuursrechtelijke handhaving niet bij het bevoegd gezag maar bij Onze Minister berust.

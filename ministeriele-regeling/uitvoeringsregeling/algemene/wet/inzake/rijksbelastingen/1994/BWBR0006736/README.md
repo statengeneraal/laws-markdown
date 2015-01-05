@@ -559,11 +559,11 @@ c. de Minister van Defensie:
 
 d. de Minister van Economische Zaken: 
 
-1°. gegevens die van belang kunnen zijn voor de uitvoering van hoofdstuk 2 van de Subsidieregeling starten, groeien en overdragen van ondernemingen;  
+1°. gegevens die van belang kunnen zijn voor de uitvoering van titel 3.11 van de Regeling nationale EZ-subsidies;  
 
 2°. gegevens met betrekking tot bedrijven als bedoeld in artikel 3, eerste lid, onderdeel a, van de Wet voorraadvorming aardolieproducten 2001 ten behoeve van de uitvoering van die wet;  
 
-3°. gegevens over het inkomen van uitgetreden vissers, ten behoeve van het controleren van de juistheid van de aan die vissers toegekende financiële tegemoetkoming, bedoeld in artikel 4:9, eerste lid, onderdeel d, van de Regeling LNV-subsidies door de Dienst Regelingen;  
+3°. gegevens over het inkomen van uitgetreden vissers, ten behoeve van het controleren van de juistheid van de aan die vissers toegekende financiële tegemoetkoming, bedoeld in artikel 4:9, eerste lid, onderdeel d, van de Regeling LNV-subsidies;  
 
 e.de Minister van Veiligheid en Justitie:
 

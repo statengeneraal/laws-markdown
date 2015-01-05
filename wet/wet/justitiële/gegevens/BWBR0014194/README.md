@@ -19,7 +19,7 @@ In deze wet en de daarop rustende bepalingen wordt verstaan onder:
 
 a. justitiële gegevens: bij algemene maatregel van bestuur te omschrijven persoonsgegevens of gegevens over een rechtspersoon inzake de toepassing van het strafrecht of de strafvordering; 
 
-b.strafvorderlijke gegevens: persoonsgegevens of gegevens over een rechtspersoon die zijn verkregen in het kader van een strafvorderlijk onderzoek en die het openbaar ministerie in een strafdossier of langs geautomatiseerde wet verwerkt;  
+b.strafvorderlijke gegevens: persoonsgegevens of gegevens over een rechtspersoon die zijn verkregen in het kader van een strafvorderlijk onderzoek en die het openbaar ministerie in een strafdossier of langs geautomatiseerde weg verwerkt;  
 
 c. persoonsdossier: een dossier waarin zijn opgenomen de aan rechterlijke autoriteiten uitgebrachte rapporten over onderzoeken naar het gedrag of de levensomstandigheden van een natuurlijk persoon in verband met tegen hem aanhangige strafzaken, de tenuitvoerlegging van aan hem opgelegde straffen of maatregelen of zijn reclassering;  
 
@@ -31,7 +31,7 @@ f. documentatie persoonsdossiers: een samenhangende verzameling van op verschill
 
 g. persoonsgegeven, verwerken van persoonsgegevens, verantwoordelijke, betrokkene, bewerker, ontvanger, het verstrekken van persoonsgegevens en toestemming van de betrokkene: hetgeen daaronder wordt verstaan in de Wet bescherming persoonsgegevens;  
 
-h. kenmerken: het markeren van opgeslagen justitiële, strafvorderlijke of persoonsgegevens, zonder dat de mogelijkheid tot verwerking van die gegevens wordt beperkt;  
+h. afschermen: het voorzien van een kenmerk aan justitiële, strafvorderlijke of persoonsgegevens, met het doel de mogelijkheid tot verdere verwerking van die gegevens te beperken;  
 
 i. markeren: het voorzien van een kenmerk aan justitiële, strafvorderlijke of persoonsgegevens, zonder dat de mogelijkheid tot verwerking van die gegevens wordt beperkt; 
 
@@ -96,7 +96,7 @@ d. na het vervallen van het recht tot strafvordering door verjaring.
 
 ### Artikel  8  
 
-1.  Ten behoeve van de rechtspleging worden justitiële gegevens verstrekt aan Nederlandse rechterlijke ambtenaren en rechterlijke ambtenaren van Aruba en de Nederlandse Antillen.   
+1.  Ten behoeve van de rechtspleging worden justitiële gegevens verstrekt aan Nederlandse rechterlijke ambtenaren en rechterlijke ambtenaren van Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba.   
 2.  Ten behoeve van de strafrechtspleging worden justitiële gegevens verstrekt aan Onze Minister.   
 3. Aan lichamen of personen aan wie krachtens artikel 257ba van het Wetboek van Strafvordering de bevoegdheid is toegekend een strafbeschikking uit te vaardigen, worden ten behoeve van de uitoefening van die bevoegdheid justitiële gegevens verstrekt met betrekking tot de delicten waarop hun bevoegdheid betrekking heeft.  
 4.  Justitiële gegevens kunnen worden verstrekt aan een internationaal orgaan of aan een internationaal strafgerecht voor zover dit voortvloeit uit een verdrag.   
@@ -339,7 +339,7 @@ De aanvraag wordt ingediend door degene omtrent wiens gedrag een verklaring word
 ### Artikel  39a  
 
 1.  Het College van procureurs-generaal is verantwoordelijke voor het verwerken van strafvorderlijke gegevens.   
-2.  Het hoofd van een arrondissementsparket, het landelijk parket, het functioneel parket of het ressortsparket voert het beheer over de strafvorderlijke gegevens.  
+2.  Het hoofd van een arrondissementsparket, het landelijk parket, het functioneel parket, het parket centrale verwerking openbaar ministerie of het ressortsparket voert het beheer over de strafvorderlijke gegevens.  
 
 ###Artikel 39b 
 
@@ -365,7 +365,7 @@ Strafvorderlijke gegevens worden vernietigd overeenkomstig de termijnen, genoemd
 
 1.  Voorzover dit noodzakelijk is met het oog op een zwaarwegend algemeen belang, kan het College van procureurs-generaal aan de volgende personen of instanties strafvorderlijke gegevens verstrekken: 
 
-a.Nederlandse rechterlijke ambtenaren en rechterlijke ambtenaren van Aruba en de Nederlandse Antillen;
+a.Nederlandse rechterlijke ambtenaren en rechterlijke ambtenaren van Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba;
 
 b.Onze Minister;
 
@@ -429,7 +429,7 @@ Voor het verstrekken van strafvorderlijke gegevens als bedoeld in artikel 39f ka
 ### Artikel  39i  
 
 1.  Het College van procureurs-generaal deelt een ieder op diens schriftelijke verzoek binnen zes weken mede of, en zo ja welke, deze persoon betreffende strafvorderlijke gegevens verwerking ondergaan. Het College van procureurs-generaal kan zijn beslissing voor ten hoogste vier weken verdagen. Van de verdaging wordt schriftelijk mededeling gedaan.   
-2.  Artikel 18, tweede en derde lid, zijn van overeenkomstige toepassing. 
+2.  Artikel 18, derde lid, is van overeenkomstige toepassing. 
 
 ### Artikel  39j  
 
@@ -477,7 +477,7 @@ d. de veiligheid van de staat.
 ### Artikel  39q  
 
 1.  Betrokkene kan bij het College van procureurs-generaal verzet aantekenen wegens bijzondere persoonlijke omstandigheden.   
-2.  Het College van procureurs-generaal beoordeelt, gehoord het hoofd van het arrondissementsparket, het landelijk parket, het functioneel parket of het ressortsparket, binnen vier weken na ontvangst van het verzet of het verzet gerechtvaardigd is. Indien het verzet gerechtvaardigd is, beëindigt het terstond de verwerking.   
+2.  Het College van procureurs-generaal beoordeelt, gehoord het hoofd van het arrondissementsparket, het landelijk parket, het functioneel parket, het parket centrale verwerking openbaar ministerie of het ressortsparket, binnen vier weken na ontvangst van het verzet of het verzet gerechtvaardigd is. Indien het verzet gerechtvaardigd is, beëindigt het terstond de verwerking.   
 3.  De artikelen 39n en 39p zijn van overeenkomstige toepassing.  
 
 ### Afdeling  4  
@@ -510,7 +510,7 @@ Artikel 27 is van overeenkomstige toepassing.
 
 a. Nederlandse rechterlijke ambtenaren;  
 
-b. rechterlijke ambtenaren van Aruba en de Nederlandse Antillen;  
+b. rechterlijke ambtenaren van Aruba, Curaçao, Sint Maarten, Bonaire, Sint Eustatius en Saba;  
 
 c. andere dan de onder a en b genoemde rechterlijke ambtenaren, voorzover Onze Minister dat bepaalt.     
 3.  Onze Minister verstrekt ten behoeve van de selectie of bejegening desgevraagd afschriften van de in een persoonsdossier opgenomen rapporten aan de selectiefunctionarissen en de hoofden van de inrichtingen waar de aan een persoon opgelegde straf of maatregel wordt ten uitvoer gelegd.   
@@ -522,7 +522,7 @@ b. de reclasseringswerkers, bedoeld in artikel 6, eerste lid, van de Reclasserin
 
 c. de directeur of ressortsdirecteur van de raad voor de kinderbescherming.     
 5.  Bij algemene maatregel van bestuur kunnen andere personen of instanties worden aangewezen aan wie ten behoeve van een juiste toepassing van het strafrecht afschriften van rapporten uit een persoonsdossier kunnen worden verstrekt. Daarbij kan tevens worden bepaald van welke rapporten afschriften worden verstrekt. Tevens kunnen nadere voorschriften worden gegeven in verband met de verstrekking.   
-6.  Behoudens ontheffing van Onze Minister, kunnen ten behoeve van wetenschappelijk onderzoek of statistiek desgevraagd afschriften uit rapporten uit een persoonsdossier worden verstrekt in zodanige vorm dat herleiding tot individuele natuurlijke personen redelijkerwijs wordt voorkomen. Onze Minister kan voorwaarden verbinden aan de verstrekking van deze gegevens.  
+6.  Artikel 15 is van overeenkomstige toepassing.  
 
 ### Artikel  43  
 

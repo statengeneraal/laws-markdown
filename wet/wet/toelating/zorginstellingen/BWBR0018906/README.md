@@ -24,7 +24,7 @@ c. College sanering: het College sanering zorginstellingen, genoemd in artikel 3
 
 d.  Zorginstituut: het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet; 
 
-e. Algemeen Fonds Bijzondere Ziektekosten: het fonds, genoemd in artikel 89 van de Wet financiering sociale verzekeringen;  
+e. Fonds langdurige zorg: het Fonds langdurige zorg, genoemd in artikel 89 van de Wet financiering sociale verzekeringen;  
 
 f. instelling: een organisatorisch verband dat een toelating heeft als bedoeld in artikel 5, eerste lid;  
 
@@ -58,7 +58,7 @@ Onze Minister stelt, gezien zijn visie, bedoeld in artikel 3, beleidsregels vast
 
 ### Artikel  5  
 
-1. Een organisatorisch verband dat behoort tot een bij algemene maatregel van bestuur aangewezen categorie van instellingen die zorg verlenen waarop aanspraak bestaat ingevolge artikel 6 van de Algemene Wet Bijzondere Ziektekosten of ingevolge een zorgverzekering als bedoeld in artikel 1, onderdeel d, van de Zorgverzekeringswet, moet voor het verlenen van die zorg een toelating hebben van Onze Minister. 
+1. Een organisatorisch verband dat behoort tot een bij algemene maatregel van bestuur aangewezen categorie van instellingen die zorg verlenen waarop aanspraak bestaat ingevolge artikel 3.1.1 van de Wet langdurige zorg of ingevolge een zorgverzekering als bedoeld in artikel 1, onderdeel d, van de Zorgverzekeringswet, moet voor het verlenen van die zorg een toelating hebben van Onze Minister. 
 2. Een toelating kan aan instellingen met een winstoogmerk slechts worden verleend indien die instelling behoort tot een bij algemene maatregel van bestuur aangewezen categorie. 
 
 ### Artikel  6  
@@ -181,8 +181,8 @@ f. de vaststelling van de subsidie;
 g. de betaling en terugvordering van de subsidie en het verlenen van voorschotten.     
 5.  In de algemene maatregel van bestuur, bedoeld in het vierde lid, kan worden bepaald dat het College sanering nadere regels stelt over daarbij aangewezen onderwerpen. De door het College sanering gestelde regels behoeven de goedkeuring van Onze Minister.   
 6.  Een beschikking tot subsidievaststelling wordt niet genomen dan nadat het Zorginstituut hieromtrent is gehoord.   
-7.  De betaling van de subsidie of het voorschot geschiedt door het Zorginstituut ten laste van het Algemeen Fonds Bijzondere Ziektekosten. Onze Minister kan hieromtrent nadere regelen stellen.   
-8.  Indien het College sanering vaststelt dat de financiële gevolgen van de sanering een positief saldo voor de betrokken instelling inhouden, kan het College sanering bepalen dat het saldo wordt gestort in het Algemeen Fonds Bijzondere Ziektekosten. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het vierde lid, kunnen hieromtrent regels worden gesteld.   
+7.  De betaling van de subsidie of het voorschot geschiedt door het Zorginstituut ten laste van het Fonds langdurige zorg. Onze Minister kan hieromtrent nadere regelen stellen.   
+8.  Indien het College sanering vaststelt dat de financiële gevolgen van de sanering een positief saldo voor de betrokken instelling inhouden, kan het College sanering bepalen dat het saldo wordt gestort in het Fonds langdurige zorg. Bij of krachtens de algemene maatregel van bestuur, bedoeld in het vierde lid, kunnen hieromtrent regels worden gesteld.   
 9.  Van besluiten als bedoeld in het tweede lid doet het College sanering mededeling aan Onze Minister.   
 10.  Onze Minister doet jaarlijks verslag aan de Staten-Generaal omtrent de door het College sanering ingevolge het tweede lid genomen besluiten.   
 11.  Het College sanering is tevens belast met het toezicht op de sanering. Bij de algemene maatregel van bestuur, bedoeld in het vierde lid, kunnen hieromtrent regels worden gesteld.  
@@ -190,7 +190,7 @@ g. de betaling en terugvordering van de subsidie en het verlenen van voorschotte
 ### Artikel  18  
 
 1.  Het bestuur van een instelling, met uitzondering van een academisch ziekenhuis als bedoeld in artikel 1.13 van de Wet op het hoger onderwijs en wetenschappelijk onderzoek, dat voornemens is om gebouwen of terreinen, of delen daarvan, blijvend niet meer voor de instelling te gebruiken, doet hiervan onverwijld mededeling aan het College sanering.   
-2.  Het College sanering beslist binnen acht weken na ontvangst van de mededeling of het bestuur van de instelling de gebouwen of terreinen kan verhuren, vervreemden of aan enig beperkt recht kan onderwerpen zonder zijn goedkeuring. Bij de goedkeuring kan het College sanering bepalen dat bij verkoop een meeropbrengst ten opzichte van de boekwaarde wordt gestort in het Algemeen Fonds Bijzondere Ziektekosten.   
+2.  Het College sanering beslist binnen acht weken na ontvangst van de mededeling of het bestuur van de instelling de gebouwen of terreinen kan verhuren, vervreemden of aan enig beperkt recht kan onderwerpen zonder zijn goedkeuring. Bij de goedkeuring kan het College sanering bepalen dat bij verkoop een meeropbrengst ten opzichte van de boekwaarde wordt gestort in het Fonds langdurige zorg.   
 3.  Een rechtshandeling die is verricht in strijd met dit artikel, is vernietigbaar. De vernietigbaarheid kan worden ingeroepen door het College sanering.  
 
 ### Hoofdstuk  VI  

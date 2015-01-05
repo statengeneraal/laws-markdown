@@ -34,7 +34,7 @@ g. Nabestaandenfonds: het Nabestaandenfonds, genoemd in artikel 82, tweede lid;
 
 h. vervallen;  
 
-i. Algemeen Fonds Bijzondere Ziektekosten: het Algemeen Fonds Bijzondere Ziektekosten, genoemd in artikel 89;  
+i. Fonds langdurige zorg: het Fonds langdurige zorg, genoemd in artikel 89;  
 
 j. Algemeen Werkloosheidsfonds: het Algemeen Werkloosheidsfonds, genoemd in artikel 93;  
 
@@ -74,7 +74,7 @@ x.WGA-uitkering: de werkhervattingsuitkering gedeeltelijk arbeidsgeschikten, bed
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. volksverzekeringen: de verplichte verzekeringen op grond van de Algemene Ouderdomswet, de Algemene nabestaandenwet en de Algemene Wet Bijzondere Ziektekosten;  
+a. volksverzekeringen: de verplichte verzekeringen op grond van de Algemene Ouderdomswet, de Algemene nabestaandenwet en de Wet langdurige zorg;  
 
 b. vrijwillige volksverzekeringen: de vrijwillige verzekeringen op grond van de Algemene Ouderdomswet en de Algemene nabestaandenwet;  
 
@@ -106,13 +106,7 @@ a. algemene ouderdomsverzekering: de verzekering, bedoeld in hoofdstuk II van de
 
 b. nabestaandenverzekering: de verzekering, bedoeld in hoofdstuk 2 van de Algemene nabestaandenwet;  
 
-c. algemene verzekering bijzondere ziektekosten: de verzekering, bedoeld in hoofdstuk II van de Algemene Wet Bijzondere Ziektekosten.   
-
-### Artikel  5  
-
-####Uitzondering nominale premie AWBZ
-
-Voor de toepassing van deze wet wordt onder premie voor de volksverzekeringen niet begrepen de nominale premie die de verzekerde op grond van artikel 17 van de Algemene Wet Bijzondere Ziektekosten verschuldigd is. 
+c. verzekering langdurige zorg: de verzekering, bedoeld in hoofdstuk 3 van de Wet langdurige zorg.   
 
 ###Afdeling 2 
 
@@ -170,7 +164,7 @@ De verschuldigde premie voor de volksverzekeringen is de premie voor de volksver
 
 1.  Het premiepercentage voor de algemene ouderdomsverzekering wordt bij regeling van Onze Minister vastgesteld. Het bedraagt ten hoogste 18,25.   
 2.  Het premiepercentage voor de nabestaandenverzekering wordt bij regeling van Onze Minister vastgesteld.   
-3.  Het premiepercentage voor de algemene verzekering bijzondere ziektekosten wordt vastgesteld bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport in overeenstemming met Onze Minister.   
+3.  Het premiepercentage voor de verzekering langdurige zorg wordt vastgesteld bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport in overeenstemming met Onze Minister.   
 4.  Indien een wijziging van een premiepercentage ingaat op een ander tijdstip dan 1 januari, vindt de vaststelling plaats in overeenstemming met Onze Minister van Financiën en kunnen daarbij regels worden gesteld omtrent de wijze van berekening van de premie over het gehele kalenderjaar.  
 
 ### Artikel  12  
@@ -183,7 +177,7 @@ a. indien betrokkene premieplichtig is voor de algemene ouderdomsverzekering: de
 
 b. indien betrokkene premieplichtig is voor de nabestaandenverzekering: de op grond van hoofdstuk 8 van de Wet inkomstenbelasting 2001 berekende heffingskorting voor de nabestaandenverzekering;  
 
-c. indien betrokkene premieplichtig is voor de algemene verzekering bijzondere ziektekosten: de op grond van hoofdstuk 8 van de Wet inkomstenbelasting 2001 berekende heffingskorting voor de algemene verzekering bijzondere ziektekosten.     
+c. indien betrokkene premieplichtig is voor de verzekering langdurige zorg: de op grond van hoofdstuk 8 van de Wet inkomstenbelasting 2001 berekende heffingskorting voor de verzekering langdurige zorg.     
 2.  Indien de premie voor de volksverzekeringen bij wijze van inhouding wordt geheven, worden voor de toepassing van het eerste lid de heffingskortingen, genoemd in artikel 8.2 van de Wet inkomstenbelasting 2001, die geen deel uitmaken van de standaardloonheffingskorting, bedoeld in artikel 21c van de Wet op de loonbelasting 1964, geacht geen deel uit te maken van de standaardheffingskorting, bedoeld in artikel 8.2 van de Wet inkomstenbelasting 2001.   
 3.  De heffingskorting, bedoeld in het eerste lid, geldt ten aanzien van degene die het gehele kalenderjaar premieplichtig is. Bij ministeriële regeling worden regels gesteld voor de bepaling van de heffingskorting ten aanzien van degene die een gedeelte van het jaar premieplichtig is. 
 
@@ -203,16 +197,16 @@ Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financi
 
 ### Artikel  14  
 
-####Rijksbijdragen Nabestaandenfonds, Ouderdomsfonds en Algemeen Fonds Bijzondere Ziektekosten
+####Rijksbijdragen Nabestaandenfonds, Ouderdomsfonds en Fonds langdurige zorg
 
 1.  Bij ministeriële regeling kunnen bedragen worden vastgesteld die als rijksbijdrage ten gunste komen van het Nabestaandenfonds en het Ouderdomsfonds. 
-2. Onze Minister van Volksgezondheid, Welzijn en Sport kan jaarlijks bedragen vaststellen die als rijksbijdrage ten gunste komen van het Algemeen Fonds Bijzondere Ziektekosten. 
+2. Onze Minister van Volksgezondheid, Welzijn en Sport kan jaarlijks bedragen vaststellen die als rijksbijdrage ten gunste komen van het Fonds langdurige zorg. 
 
 ### Artikel  15  
 
 ####Rijksbijdrage in kosten heffingskortingen
 
-Ten gunste van het Ouderdomsfonds, het Nabestaandenfonds en het Algemeen Fonds Bijzondere Ziektekosten wordt jaarlijks een rijksbijdrage in de kosten van de heffingskortingen voor de volksverzekeringen toegekend. Deze bijdrage wordt door Onze Minister vastgesteld volgens de formule: BIKKt = (BIKKt-1 + A*Kt-1)*Kt/Kt-1 waarbij: BIKKt = de bijdrage in de kosten van de heffingskortingen ten gunste van het fonds in een bepaald jaar; BIKKt-1 = de bijdrage in de kosten van de heffingskortingen ten gunste van het fonds in het voorafgaande jaar; A = het aandeel van de premie ten gunste van het fonds in het gecombineerde heffingspercentage, bedoeld in artikel 8.1, onderdeel c, van de Wet inkomstenbelasting 2001, in het jaar waarvoor de bijdrage wordt toegekend, verminderd met het aandeel in het daaraan voorafgaande jaar; Kt = de door Onze Minister, in overeenstemming met Onze Ministers van Financiën en van Volksgezondheid, Welzijn en Sport, geraamde totale kosten voor de heffingskortingen in het jaar waarvoor de bijdrage wordt toegekend; Kt-1 = de door Onze Minister, in overeenstemming met Onze Ministers van Financiën en van Volksgezondheid, Welzijn en Sport, geraamde totale kosten voor de heffingskortingen in het jaar voorafgaand aan het jaar waarvoor de bijdrage wordt toegekend. 
+Ten gunste van het Ouderdomsfonds, het Nabestaandenfonds en het Fonds langdurige zorg wordt jaarlijks een rijksbijdrage in de kosten van de heffingskortingen voor de volksverzekeringen toegekend. Deze bijdrage wordt door Onze Minister vastgesteld volgens de formule: BIKKt = (BIKKt-1 + A*Kt-1)*Kt/Kt-1 waarbij: BIKKt = de bijdrage in de kosten van de heffingskortingen ten gunste van het fonds in een bepaald jaar; BIKKt-1 = de bijdrage in de kosten van de heffingskortingen ten gunste van het fonds in het voorafgaande jaar; A = het aandeel van de premie ten gunste van het fonds in het gecombineerde heffingspercentage, bedoeld in artikel 8.1, onderdeel c, van de Wet inkomstenbelasting 2001, in het jaar waarvoor de bijdrage wordt toegekend, verminderd met het aandeel in het daaraan voorafgaande jaar; Kt = de door Onze Minister, in overeenstemming met Onze Ministers van Financiën en van Volksgezondheid, Welzijn en Sport, geraamde totale kosten voor de heffingskortingen in het jaar waarvoor de bijdrage wordt toegekend; Kt-1 = de door Onze Minister, in overeenstemming met Onze Ministers van Financiën en van Volksgezondheid, Welzijn en Sport, geraamde totale kosten voor de heffingskortingen in het jaar voorafgaand aan het jaar waarvoor de bijdrage wordt toegekend. 
 
 ### Hoofdstuk  3  
 
@@ -362,12 +356,11 @@ Bij ministeriële regeling wordt het deel van de premie dat ten gunste komt van 
 
 ####Premiepercentage sectorfonds
 
-1.  Het deel van de premie dat ten gunste komt van een sectorfonds wordt door het UWV vastgesteld op een percentage van het loon dat voor categorieën van werkgevers en werknemers die behoren tot verschillende sectoren en sectoronderdelen als bedoeld in artikel 95 kan verschillen. Bij of krachtens algemene maatregel van bestuur kunnen hieromtrent nadere regels worden gesteld.   
+1.  Het deel van de premie dat ten gunste komt van een sectorfonds wordt door het UWV vastgesteld op een percentage van het loon dat voor categorieën van werkgevers en werknemers die behoren tot verschillende sectoren en sectoronderdelen als bedoeld in artikel 95 kan verschillen. Bij of krachtens algemene maatregel van bestuur kunnen hieromtrent nadere regels worden gesteld, waaronder het stellen van voorwaarden ter afbakening van de verschillende categorieën van werkgevers en werknemers.   
 2.  In afwijking van het eerste lid wordt met inachtneming van bij algemene maatregel van bestuur te stellen regels bij ministeriële regeling over een uitkering op grond van de Werkloosheidswet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg aan de werknemer of gelijkgestelde, bedoeld in artikel 3:6, eerste lid, van die wet, over een toeslag op grond van de Toeslagenwet en over loon op grond van een arbeidsovereenkomst als bedoeld in hoofdstuk 2 van de Wet sociale werkvoorziening voor het deel van de premie dat ten gunste komt van een sectorfonds een gemiddeld premiepercentage vastgesteld. Dit wordt bepaald op een gemiddelde van de percentages die zijn vastgesteld op grond van het eerste lid.   
 3.  Het deel van de premie dat met toepassing van het tweede lid ten gunste komt van het sectorfonds, bedraagt ten hoogste de premie die op grond van het eerste lid is vastgesteld. Het resterende deel van deze premie komt ten gunste van het Algemeen Werkloosheidsfonds.   
 4.  Het tweede lid wordt niet toegepast ingeval het UWV de uitkering, vermeerderd met de daarover door de werkgever verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in artikel 42 van de Zorgverzekeringswet, betaalt aan de werkgever, bedoeld in artikel 9, 10 of 12 van de Werkloosheidswet en de Ziektewet, artikel 11 van de Wet werk en inkomen naar arbeidsvermogen en in artikel 8, 9 of 11 van de Wet op de arbeidsongeschiktheidsverzekering, onafhankelijk van het voortbestaan van de dienstbetrekking met die werkgever, tenzij die werkgever een werkgever is van degene die loon ontvangt uit een arbeidsovereenkomst als bedoeld in hoofdstuk 2 van de Wet sociale werkvoorziening.   
 5.  Het tweede lid wordt eveneens niet toegepast ingeval een eigenrisicodrager de uitkering, bedoeld in artikel 63a Ziektewet, betaalt of de uitkering, bedoeld in artikel 82 juncto 84 van de Wet werk en inkomen naar arbeidsvermogen, betaalt, onafhankelijk van het voortbestaan van de dienstbetrekking met die eigenrisicodrager.  
-6.   Het UWV dan wel, indien Onze Minister het percentage heeft vastgesteld, Onze Minister maakt bekend welk deel van het percentage, bedoeld in het eerste lid, is gerelateerd aan hetgeen op grond van artikel 104, eerste lid, onderdelen a en b, onderdeel c, respectievelijk onderdeel d, ten laste komt van een sectorfonds.   
 
 ### Afdeling  3  
 
@@ -466,7 +459,7 @@ c. de percentages die op grond van dit artikel ten hoogste voor categorieën van
 
 ####Vervanging gedifferentieerde premie
 
-1.  In afwijking van artikel 38 is over een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Ziektewet, hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg, de Werkloosheidswet, over een toeslag op grond van de Toeslagenwet, over het loon uit een dienstbetrekking op grond van de Wet sociale werkvoorziening en over het loon van de werknemer van de eigenrisicodrager, op wie artikel 56 van toepassing is, als gedifferentieerde premie ten behoeve van de Werkhervattingskas een vervangende premie verschuldigd. Met een uitkering op grond van de Werkloosheidswet wordt gelijkgesteld een wachtgeld als bedoeld in artikel 1, onderdeel r, van de Wet overheidspersoneel onder de werknemersverzekeringen.   
+1.  In afwijking van artikel 38 is over een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Ziektewet, hoofdstuk 3, afdeling 2, paragraaf 1, van de Wet arbeid en zorg, de Werkloosheidswet, over een toeslag op grond van de Toeslagenwet en over het loon uit een dienstbetrekking op grond van de Wet sociale werkvoorziening, als gedifferentieerde premie ten behoeve van de Werkhervattingskas een vervangende premie verschuldigd. Met een uitkering op grond van de Werkloosheidswet wordt gelijkgesteld een wachtgeld als bedoeld in artikel 1, onderdeel r, van de Wet overheidspersoneel onder de werknemersverzekeringen.   
 2.  Behalve voor degene die loon ontvangt uit een dienstbetrekking op grond van de Wet sociale werkvoorziening wordt het eerste lid niet toegepast ingeval het UWV de uitkering, vermeerderd met de daarover door de werkgever verschuldigde premies en de inkomensafhankelijke bijdrage, bedoeld in artikel 42 van de Zorgverzekeringswet, betaalt aan de werkgever, bedoeld in artikel 11 van de Wet werk en inkomen naar arbeidsvermogen en in artikel 9, 10 of 12 van de Werkloosheidswet en de Ziektewet, onafhankelijk van het voortbestaan van de dienstbetrekking met die werkgever.   
 3.  Het eerste lid wordt eveneens niet toegepast ingeval een eigenrisicodrager de uitkering, bedoeld in artikel 63a Ziektewet, betaalt of de uitkering, bedoeld in artikel 82 juncto 84 van de Wet werk en inkomen naar arbeidsvermogen, betaalt, onafhankelijk van het voortbestaan van de dienstbetrekking met die eigenrisicodrager.  
 4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor de wijze waarop de vervangende premie, bedoeld in het eerste lid, wordt vastgesteld. 
@@ -555,11 +548,13 @@ Door vernummering vervallen.
 
 1.  De werkgever past een korting toe op het totaal van de door hem op grond van de afdelingen 2, 3 en 4 verschuldigde premies bij een dienstbetrekking met een werknemer: 
 
-a. die onmiddellijk voorafgaand aan de aanvang van de dienstbetrekking recht heeft op een uitkering op grond van de Werkloosheidswet, de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en inkomen naar arbeidsvermogen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet arbeidsongeschiktheidsvoorziening militairen, de Wet werk en bijstand, de Wet inkomensvoorziening oudere werklozen, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen en de Algemene pensioenwet politieke ambtsdragers, of op wachtgeld als bedoeld in artikel 6, vijfde lid, van de Werkloosheidswet, dan wel recht heeft op inkomensondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten; en  
+a. die onmiddellijk voorafgaand aan de aanvang van de dienstbetrekking recht heeft op een uitkering op grond van de Werkloosheidswet, de Wet op de arbeidsongeschiktheidsverzekering, de Wet werk en inkomen naar arbeidsvermogen, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet arbeidsongeschiktheidsvoorziening militairen, de Participatiewet, de Wet inkomensvoorziening oudere werklozen, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen en de Algemene pensioenwet politieke ambtsdragers, of op wachtgeld als bedoeld in artikel 6, vijfde lid, van de Werkloosheidswet, dan wel recht heeft op inkomensondersteuning op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten; en  
 
-b. die op het moment van in dienst treden bij die werkgever 50 jaar of ouder is.   De korting wordt toegepast voor zolang de dienstbetrekking met die werknemer duurt doch ten hoogste gedurende de eerste drie jaar vanaf de aanvang van die dienstbetrekking.   
+b. die op het moment van in dienst treden bij die werkgever 56 jaar of ouder is.   De korting wordt toegepast voor zolang de dienstbetrekking met die werknemer duurt doch ten hoogste gedurende de eerste drie jaar vanaf de aanvang van die dienstbetrekking.   
 2.  Bij algemene maatregel van bestuur kan worden bepaald dat het eerste lid van overeenkomstige toepassing is bij een dienstbetrekking met een werknemer, die behoort tot een nader te bepalen categorie van personen, die onmiddellijk voorafgaand aan de aanvang van de dienstbetrekking recht hebben op een nabestaandenuitkering op grond van de Algemene nabestaandenwet.   
-3.  De werkgever bewaart bij de loonadministratie een verklaring van het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank, het college van burgemeester en wethouders of een andere uitkeringsinstantie, dat de werknemer, bedoeld in het eerste of tweede lid, voorafgaande aan de datum van aanvang van dienstbetrekking recht had op een uitkering als bedoeld in het eerste lid, onderdeel a, of voldoet aan het tweede lid.  
+3.  Het eerste lid is niet van toepassing, indien de werkgever in verband met de dienstbetrekking met die werknemer een loonkostensubsidie ontvangt als bedoeld in artikel 10d van de Participatiewet.  
+4.  Alvorens de korting, bedoeld in het eerste lid, wordt toegepast beschikt de werkgever over een verklaring van het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank, het college van burgemeester en wethouders of een andere uitkeringsinstantie, dat de werknemer, bedoeld in het eerste of tweede lid, voorafgaande aan de datum van aanvang van de dienstbetrekking recht had op een uitkering als bedoeld in het eerste lid, onderdeel a, of voldoet aan het tweede lid.   
+5.  De werkgever bewaart de verklaring, bedoeld in het vierde lid, bij de loonadministratie. 
 
 ### Artikel  48  
 
@@ -579,7 +574,7 @@ b. op of na 1 januari 2014 bij die werkgever in dienst is getreden maar vóór 
 
 c. op het moment van in dienst treden bij die werkgever 18 jaar of ouder is maar nog niet de leeftijd heeft bereikt van 27 jaar, en  
 
-d. een dienstbetrekking heeft met een overeengekomen duur van minimaal zes maanden en een arbeidsduur van ten minste 32 uren per week.     
+d. een dienstbetrekking heeft met een overeengekomen duur van minimaal zes maanden en met een arbeidsduur van ten minste 32 uren per week en bij een dienstbetrekking die is aangevangen op of na 1 juli 2015, een arbeidsduur van ten minste 24 uren per week.     
 2.  De korting wordt toegepast voor zolang de dienstbetrekking met de werknemer, bedoeld in het eerste lid, duurt met dien verstande: 
 
 a. dat voor dienstbetrekkingen die zijn aangevangen op of na 1 januari 2014 maar vóór 1 juli 2014 de korting kan worden toegepast voor de duur van de dienstbetrekking maar ten hoogste gedurende twee jaar vanaf 1 juli 2014;  
@@ -588,12 +583,13 @@ b. dat voor dienstbetrekkingen die zijn aangevangen op of na 1 juli 2014 maar v
 
 c. dat de korting niet langer wordt toegepast dan tot en met het aangiftetijdvak dat eindigt op 31 december 2017.     
 3.  De korting wordt niet meer toegepast zodra niet meer wordt voldaan aan het eerste lid, onderdeel d.   
-4.  De werkgever bewaart bij de loonadministratie: 
+4.  Alvorens de korting, bedoeld in het eerste lid, wordt toegepast beschikt de werkgever over: 
 
-a. de schriftelijke arbeidsovereenkomst of de schriftelijke publiekrechtelijke aanstelling met de werknemer waaruit blijkt dat wordt voldaan aan het eerste lid, onderdeel d;  
+a. de schriftelijke arbeidsovereenkomst met of de schriftelijke publiekrechtelijke aanstelling van de werknemer waaruit blijkt dat wordt voldaan aan het eerste lid, onderdeel d;  
 
-b. een verklaring van het Uitvoeringsinstituut werknemersverzekeringen of het college van burgemeester en wethouders dat de werknemer, bedoeld in het eerste lid, voorafgaande aan de datum van aanvang van de dienstbetrekking recht had op een uitkering als bedoeld in het eerste lid, onderdeel a.     
-5.  Artikel 50a is van overeenkomstige toepassing.  
+b. een verklaring van het Uitvoeringsinstituut werknemersverzekeringen of het college van burgemeester en wethouders dat de werknemer, bedoeld in het eerste lid, voorafgaande aan de datum van aanvang van de dienstbetrekking recht had op een uitkering als bedoeld in het eerste lid, onderdeel a.    
+5.  De werkgever bewaart de arbeidsovereenkomst of de publiekrechtelijke aanstelling en de verklaring, bedoeld in het vierde lid, bij de loonadministratie.    
+6.  Artikel 50a is van overeenkomstige toepassing.  
 
 ### Artikel  48b  
 
@@ -610,18 +606,15 @@ b. een verklaring van het Uitvoeringsinstituut werknemersverzekeringen of het co
 
 a.recht heeft op een uitkering op grond van de Wet werk en inkomen naar arbeidsvermogen;
 
-b. recht heeft op een uitkering of op arbeidsondersteuning op grond van de Wet werk en arbeidsondersteuning jonggehandicapten; 
+b. recht heeft op arbeidsondersteuning of een arbeidsongeschiktheidsuitkering op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten;  
 
-c.een indicatiebeschikking als bedoeld in artikel 11 van de Wet sociale werkvoorziening heeft;
+c. geïndiceerd is als bedoeld in de Wet sociale werkvoorziening of een nog geldende indicatiebeschikking heeft op grond van artikel 11 van die wet, zoals dat artikel luidde voor de datum van inwerkingtreding van artikel II van de Invoeringswet Participatiewet; 
 
-d.naar het oordeel van het UWV een structurele functionele beperking heeft en voor wiens ondersteuning bij arbeidsinschakeling het college van burgemeester en wethouders, op die dag, op grond van artikel 7, eerste lid, aanhef en onderdeel a, van de Wet werk en bijstand verantwoordelijk is;
+d.de leeftijd van achttien jaar nog niet heeft bereikt en in verband met ziekte of gebrek een belemmering ondervindt of heeft ondervonden bij het volgen van onderwijs en binnen vijf jaar na afronding van dat onderwijs arbeid in dienstbetrekking gaat verrichten; of
 
-e.de leeftijd van achttien jaar nog niet heeft bereikt en in verband met ziekte of gebrek een belemmering ondervindt of heeft ondervonden bij het volgen van onderwijs en binnen vijf jaar na afronding van dat onderwijs arbeid in dienstbetrekking gaat verrichten; of
-
-f.geen werknemer is als bedoeld in onderdeel b, achttien jaar is of ouder en in verband met ziekte of gebrek een belemmering ondervindt of heeft ondervonden bij het volgen van onderwijs en binnen vijf jaar na afronding van dat onderwijs arbeid in dienstbetrekking gaat verrichten.De korting wordt toegepast voor zolang de dienstbetrekking met die werknemer duurt doch ten hoogste gedurende de eerste drie jaar vanaf de aanvang van die dienstbetrekking.
+e.geen werknemer is als bedoeld in onderdeel b, achttien jaar is of ouder en in verband met ziekte of gebrek een belemmering ondervindt of heeft ondervonden bij het volgen van onderwijs en binnen vijf jaar na afronding van dat onderwijs arbeid in dienstbetrekking gaat verrichten.De korting wordt toegepast voor zolang de dienstbetrekking met die werknemer duurt doch ten hoogste gedurende de eerste drie jaar vanaf de aanvang van die dienstbetrekking.
 2. Het eerste lid is van overeenkomstige toepassing met betrekking tot de werknemer, bedoeld in het eerste lid, onderdeel a, die zijn eigen arbeid geheel of gedeeltelijk heeft hervat of een andere functie bij dezelfde werkgever is gaan bekleden voor zolang de dienstbetrekking duurt doch ten hoogste gedurende een jaar nadat die werknemer zijn eigen arbeid geheel of gedeeltelijk heeft hervat of een andere functie bij dezelfde werkgever is gaan bekleden.
-3. Ter uitvoering van het eerste lid, onderdeel d, wordt op verzoek van het college van burgemeester en wethouders, bedoeld in dat lid, de aanwezigheid van een structurele functionele beperking vastgesteld. Bij ministeriële regeling kunnen nadere regels worden gesteld voor het eerste lid, onderdeel d, en dit lid in ieder geval met betrekking tot de gegevens, die bij de aanvraag worden verstrekt en de kosten die voor de beoordeling van de aanvraag bij de aanvrager in rekening worden gebracht.
-4. Het eerste lid is van overeenkomstige toepassing met betrekking tot de werknemer van wie in een arbeidskundig onderzoek is vastgesteld dat hij op de eerste dag na afloop van de wachttijd, bedoeld in artikel 3.1 van de Wet werk en inkomen naar arbeidsvermogen of van het tijdvak, bedoeld in artikel 24 of 25, negende lid, van die wet:
+3. Het eerste lid is van overeenkomstige toepassing met betrekking tot de werknemer van wie in een arbeidskundig onderzoek is vastgesteld dat hij op de eerste dag na afloop van de wachttijd, bedoeld in artikel 3.1 van de Wet werk en inkomen naar arbeidsvermogen of van het tijdvak, bedoeld in artikel 24 of 25, negende lid, van die wet:
 
 1°.minder dan 35% arbeidsongeschikt is,
 
@@ -629,16 +622,15 @@ f.geen werknemer is als bedoeld in onderdeel b, achttien jaar is of ouder en in 
 
 3°.niet in staat is tot het verrichten van eigen of andere passende arbeid bij de eigen werkgever, en
 
-4°.binnen vijf jaar na die dag in dienstbetrekking werkzaamheden gaat verrichten bij een werkgever. 
-5. Bij ministeriële regeling kunnen voorwaarden worden gesteld met betrekking tot de toepassing van het eerste lid, aanhef en onderdeel d. 
-6. Het UWV verstrekt op verzoek van de werknemer of de persoon die verwacht een dienstbetrekking met een werkgever te zullen aangaan een verklaring of de aanvrager naar het oordeel van het UWV voldoet aan de voorwaarden voor toepassing van het eerste lid, onderdeel e of f. 
-7.  Bij ministeriële regeling kunnen regels worden gesteld voor de gegevens, die de werkgever bij de loonadministratie bewaart waaruit blijkt dat de werknemer, bedoeld in het eerste lid, voorafgaande aan de datum van aanvang van de dienstbetrekking voldoet aan het eerste lid. 
+4°.binnen vijf jaar na die dag in dienstbetrekking werkzaamheden gaat verrichten bij een werkgever.  
+4. Het UWV verstrekt op verzoek van de werknemer of de persoon die verwacht een dienstbetrekking met een werkgever te zullen aangaan een verklaring of de aanvrager naar het oordeel van het UWV voldoet aan de voorwaarden voor toepassing van het eerste lid, onderdeel d of e. 
+5.  Bij ministeriële regeling kunnen regels worden gesteld voor de gegevens, die de werkgever bij de loonadministratie bewaart waaruit blijkt dat de werknemer, bedoeld in het eerste lid, voorafgaande aan de datum van aanvang van de dienstbetrekking voldoet aan het eerste lid. 
 
 ### Artikel  50  
 
 ####Omvang bonus arbeidsgehandicapte werknemer
 
-De korting, bedoeld in artikel 49, bedraagt € 7000 per jaar, met dien verstande, dat de korting bij een dienstbetrekking met een werknemer als bedoeld in artikel 49, eerste lid, onderdeel b, waarbij artikel 2:20 of artikel 3:63 van de Wet werk en arbeidsondersteuning jonggehandicapten van toepassing is, € 3 500 per jaar bedraagt. 
+De korting, bedoeld in artikel 49, bedraagt € 7000 per jaar, met dien verstande, dat de korting bij een dienstbetrekking met een werknemer als bedoeld in artikel 49, eerste lid, onderdeel b, waarbij artikel 2:20 of artikel 3:63 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten van toepassing is, € 3 500 per jaar bedraagt. 
 
 ### §  2  
 
@@ -682,8 +674,8 @@ b. de werkgever in het kalenderjaar niet eerder een dienstbetrekking met die uit
 
 c. voor een dienstbetrekking van die uitkeringsgerechtigde in het kalenderjaar niet eerder vrijstelling is verleend.     
 2.  Voor de toepassing van het eerste lid worden dienstbetrekkingen tussen de werkgever en de uitkeringsgerechtigde geacht eenzelfde niet onderbroken dienstbetrekking te zijn, indien die dienstbetrekkingen elkaar met tussenpozen van niet meer dan eenendertig dagen zijn opgevolgd.   
-3.  Voor de toepassing van deze paragraaf wordt onder uitkeringsgerechtigde verstaan: degene wiens inkomen uit en in verband met arbeid in het bedrijfs- en beroepsleven onmiddellijk voorafgaande aan de aanvang van de in het eerste lid, aanhef, bedoelde dienstbetrekking uitsluitend bestaat uit een uitkering of inkomensvoorziening op grond van de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Werkloosheidswet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet inkomensvoorziening oudere werklozen de Toeslagenwet of uit een uitkering op grond van vergelijkbare regelingen dan wel uit een combinatie van deze uitkeringen en die bij het UWV als werkzoekende is geregistreerd.   
-4.  Het derde lid is van overeenkomstige toepassing op de persoon die recht op arbeidsondersteuning heeft op grond van de Wet werk en arbeidsondersteuning jonggehandicapten. 
+3.  Voor de toepassing van deze paragraaf wordt onder uitkeringsgerechtigde verstaan: degene wiens inkomen uit en in verband met arbeid in het bedrijfs- en beroepsleven onmiddellijk voorafgaande aan de aanvang van de in het eerste lid, aanhef, bedoelde dienstbetrekking uitsluitend bestaat uit een uitkering of inkomensvoorziening op grond van de Wet werk en bijstand, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers, de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen, de Werkloosheidswet, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet inkomensvoorziening oudere werklozen de Toeslagenwet of uit een uitkering op grond van vergelijkbare regelingen dan wel uit een combinatie van deze uitkeringen en die bij het UWV als werkzoekende is geregistreerd.   
+4.  Het derde lid is van overeenkomstige toepassing op de persoon die recht op arbeidsondersteuning heeft op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten. 
 
 ### Artikel  52  
 
@@ -751,7 +743,7 @@ De rijksbelastingdienst heft de premie voor de volksverzekeringen en de premies 
 5.  Op het beroep van de werkgever tegen de uitspraak op bezwaar van de inspecteur op grond van de artikelen 40, 95 of 97 is hoofdstuk V, afdeling 2, van de Algemene wet inzake rijksbelastingen van overeenkomstige toepassing.   
 6.  De inspecteur stelt de werkgever zonodig op de hoogte van de door het UWV op aanvraag van de werknemer genomen beschikking over het verzekerd zijn op grond van de werknemersverzekeringen.   
 7. Indien in verband met een gevraagde beschikking informatie is gevraagd aan een persoon of instantie buiten Nederland en om die reden de beschikking niet binnen de termijn, bedoeld in afdeling 4.1.3 van Algemene wet bestuursrecht, gegeven kan worden, wordt die termijn verlengd met ten hoogste zes maanden en wordt de aanvrager van deze verlenging schriftelijk in kennis gesteld. 
-8.  In afwijking van de artikelen 25, 30 en 34, eerste lid, en met overeenkomstige toepassing van artikel 13bis, zestiende en twintigste lid, van de Wet op de loonbelasting 1964, is de premie door de werknemer verschuldigd in de gevallen, bedoeld in artikel 13bis, zestiende en twintigste lid, van de Wet op de loonbelasting 1964.  
+8.  In afwijking van de artikelen 25, 30 en 34, eerste lid, en met overeenkomstige toepassing van artikel 13bis, vijftiende en negentiende lid, van de Wet op de loonbelasting 1964, is de premie door de werknemer verschuldigd in de gevallen, bedoeld in artikel 13bis, vijftiende en negentiende lid, van de Wet op de loonbelasting 1964.  
 9. Het zevende lid is van overeenkomstige toepassing op een aanvraag als bedoeld in het derde lid en op een aanvraag of melding op grond van de artikelen 40, 95 of 97.
 
 ###§ 2 
@@ -784,13 +776,13 @@ b. de premie voor de volksverzekeringen niet of niet geheel kan worden ingevorde
 c. de premieplichtige de bekendmaking van de beslissing op grond van het eerste lid bemoeilijkt of onmogelijk maakt omdat is nagelaten te voldoen aan de krachtens de artikelen 2.38, 2.39 en 2.43 van de Wet basisregistratie personen geldende verplichtingen.     
 3.  Nadat de betalingen op een belastingaanslag zijn toegerekend overeenkomstig artikel 7, tweede lid, van de Invorderingswet 1990 en alvorens de SVB beslist dat de premieplichtige schuldig nalatig is als bedoeld in het eerste lid wordt het door de premieplichtige reeds betaalde deel van de op aanslag verschuldigde premie voor de volksverzekeringen in een bepaald jaar achtereenvolgens toegerekend aan: 
 
-a. de premie, verschuldigd gebleven voor de algemene verzekering bijzondere ziektekosten en de nabestaandenverzekering;  
+a. de premie, verschuldigd gebleven voor de verzekering langdurige zorg en de nabestaandenverzekering;  
 
 b. de premie, verschuldigd gebleven voor de algemene ouderdomsverzekering, waarbij de betaling eerst wordt toegerekend aan het oudste tijdvak.    
 4.  Indien de premieplichtige ten aanzien van wie een beslissing als bedoeld in het eerste lid is genomen binnen vijf jaren na de dagtekening van de aanslag het op aanslag verschuldigde bedrag alsnog geheel of gedeeltelijk betaalt, is hij een opslag verschuldigd van 5% op de verschuldigd gebleven premie voor de algemene ouderdomsverzekering. Indien een beslissing als bedoeld in het eerste lid meer dan vier jaren en achtenveertig weken na de dagtekening van de aanslag wordt genomen, wordt de termijn van vijf jaren verlengd tot vier weken na de datum van die beslissing.   
 5.  Ingeval van een gehele of gedeeltelijke betaling van het op aanslag verschuldigde bedrag, bedoeld in het vierde lid, worden, nadat deze betalingen zijn toegerekend overeenkomstig artikel 7, tweede lid, van de Invorderingswet 1990, de premies volksverzekeringen toegerekend aan: 
 
-a. de premie, verschuldigd gebleven voor de algemene verzekering bijzondere ziektekosten en de nabestaandenverzekering;  
+a. de premie, verschuldigd gebleven voor de verzekering langdurige zorg en de nabestaandenverzekering;  
 
 b. de opslag, bedoeld in het vierde lid;  
 
@@ -1091,61 +1083,58 @@ c.de lasten van de tegemoetkomingen, bedoeld in artikel 29a van de Algemene nabe
 
 ### §  2  
 
-####Algemene Wet Bijzondere Ziektekosten
+####Wet langdurige zorg
 
 ### Artikel  89  
 
-####Algemeen Fonds Bijzondere Ziektekosten
+####Fonds langdurige zorg
 
-Het Zorginstituut beheert en administreert afzonderlijk een Algemeen Fonds Bijzondere Ziektekosten. 
+Het Zorginstituut beheert en administreert afzonderlijk een Fonds langdurige zorg. 
 
 ### Artikel  90  
 
-####Inkomsten en uitgaven AFBZ
+####Inkomsten en uitgaven Fonds langdurige zorg
 
-1. Ten gunste van het Algemeen Fonds Bijzondere Ziektekosten komen:
+1. Ten gunste van het Fonds langdurige zorg komen:
 
-a.de premie voor de algemene verzekering bijzondere ziektekosten;
+a. de premie voor de verzekering ingevolge de Wet langdurige zorg;  
 
-b.de inkomsten, die in verband met de algemene verzekering bijzondere ziektekosten voortvloeien uit internationale overeenkomsten;
+b. de inkomsten die in verband met de Wet langdurige zorg voortvloeien uit internationale overeenkomsten;  
 
-c.de bijdragen in de kosten van zorg die op grond van artikel 6, vierde lid, van de Algemene Wet Bijzondere Ziektekosten worden betaald door of namens de verzekerde, dan wel, in voorkomend geval, door het krachtens een wettelijke regeling tot betaling van zodanige bijdragen bevoegde orgaan dat uitkeringen of pensioenen uit hoofde van die regeling aan die verzekerde betaalbaar stelt;
+c. de bijdragen in de kosten van zorg die op grond van artikel 3.2.5 of 11.1.4 van de Wet langdurige zorg worden betaald door of namens de verzekerde, dan wel, in voorkomend geval, door het krachtens een wettelijke regeling tot betaling van zodanige bijdragen bevoegde orgaan dat uitkeringen of pensioenen uit hoofde van die regeling aan die verzekerde betaalbaar stelt; 
 
 d.de bijdragen in de kosten van de heffingskortingen, bedoeld in artikel 15;
 
 e.een rijksbijdrage als bedoeld in artikel 14, tweede lid;
 
 f. door zorgaanbieders ingevolge een regel van de zorgautoriteit op grond van artikel 37, eerste lid, aanhef en onder d, van de Wet marktordening gezondheidszorg dan wel op aanwijzing van de zorgautoriteit op grond van artikel 76, tweede lid, van die wet afgedragen bedragen en door de zorgautoriteit van zorgaanbieders op grond van artikel 81, eerste lid, onder c, van die wet ingevorderde bedragen, voor zover die bedragen niet worden afgedragen aan het Zorgverzekeringsfonds of aan derden.   
-2. Uit het Algemeen Fonds Bijzondere Ziektekosten worden betaald:
+2. Uit het Fonds langdurige zorg worden betaald:
 
-a.de gehele of gedeeltelijke kosten van de algemene verzekering bijzondere ziektekosten en uitkeringen als bedoeld in artikel 3.1.2 van de Invoerings- en aanpassingswet Zorgverzekeringswet;
+a. de kosten van de zorg en van de overige prestaties die op grond van de Wet langdurige zorg worden verstrekt, alsmede de met de uitvoering van die wet gepaard gaande kosten;  
 
-b.de uitgaven voor deze verzekering, voortvloeiende uit overeenkomsten, waaronder begrepen internationale overeenkomsten;
+b. de uitgaven voor de verzekering ingevolge de Wet langdurige zorg die voortvloeien uit overeenkomsten, waaronder internationale overeenkomsten;  
 
-c.de uitgaven die in verband met die verzekering voortvloeien uit enige andere wettelijke regeling dan de Algemene Wet Bijzondere Ziektekosten;
+c. de uitgaven die in verband met de verzekering ingevolge de Wet langdurige zorg voorvloeien uit enige andere wettelijke regeling dan laatstgenoemde wet;  
 
-d.bijdragen aan Onze Minister van Veiligheid en Justitie in verband met diens financiële verantwoordelijkheid bedoeld in artikel 6, vijfde lid, van de Algemene Wet Bijzondere Ziektekosten;
+d. kosten van het overgangsrecht, opgenomen in hoofdstuk 11, paragraaf 4, van de Wet langdurige zorg en uitkeringen als bedoeld in artikel 3.1.2 van de Invoerings- en aanpassingswet Zorgverzekeringswet;  
 
-e.bijdragen aan Onze Minister van Defensie op grond van artikel 7, derde lid, van de Algemene Wet Bijzondere Ziektekosten;
+e. een uitkering als bedoeld in artikel 3.2.8, tweede lid, van de Wet langdurige zorg;  
 
-f.uitgaven ten behoeve van subsidies, verstrekt op grond van artikel 44 van de Algemene Wet Bijzondere Ziektekosten;
+f. de kosten die de Sociale verzekeringsbank maakt voor de uitvoering van de taak, bedoeld in artikel 3.3.3, zevende lid, van de Wet langdurige zorg;  
 
-g.bijdragen waarmee het CAK gemeenten compenseert voor in het kader van de Wet tegemoetkoming chronisch zieken en gehandicapten ingevoerde kortingen op eigen bijdragen of andere eigen betalingen als bedoeld in de Wet maatschappelijke ondersteuning;
+g. bedragen als bedoeld in artikel 56a van de Wet marktordening gezondheidszorg;  
 
-h. bedragen als bedoeld in artikel 56a van de Wet marktordening gezondheidszorg;  
-
-i. de door het College zorgverzekeringen op grond van een ministeriële regeling vastgestelde verdeelbedragen, zijnde aan de relevante zorgverzekeraars toegekende delen van de bedragen bedoeld in onderdeel f van het eerste lid.  
-3. Uit het Algemeen Fonds Bijzondere Ziektekosten kunnen middelen worden gebruikt voor het vormen en in stand houden van een reserve. Bij ministeriële regeling kunnen door Onze Minister van Volksgezondheid, Welzijn en Sport, in overeenstemming met Onze Minister, met betrekking tot de vorige volzin nadere regels worden gesteld.  
-4. Onverminderd het bepaalde krachtens artikel 15 wordt jaarlijks aan het Algemeen Fonds Bijzondere Ziektekosten een bijdrage verleend voor de uitvoering van de Regeling Ziekenfondsraad Abortusklinieken 1992 dan wel de regeling die op grond van artikel 44 van de Algemene Wet Bijzondere Ziektekosten ter vervanging van die regeling is vastgesteld. Op de bijdrage worden voorschotten verleend. De bijdrage voor enig jaar is gelijk aan het saldo van de uitgaven en ontvangsten in het desbetreffende jaar met betrekking tot de uitvoering van de bedoelde regeling, voorzover door Onze Minister van Volksgezondheid, Welzijn en Sport aanvaard. Het Zorginstituut neemt een specificatie van de ontvangsten en uitgaven op in de jaarrekening, bedoeld in artikel 45 van de Algemene Wet Bijzondere Ziektekosten. Onze Minister van Volksgezondheid, Welzijn en Sport stelt de bijdrage uiterlijk drie maanden na ontvangst van de jaarrekening vast. 
-5. Bij algemene maatregel van bestuur worden de bijdragen, bedoeld in het tweede lid, onderdeel g, nader aangeduid en worden regels gesteld over de wijze van betaalbaarstelling van deze bijdragen.
+h. de door het College zorgverzekeringen op grond van een ministeriële regeling vastgestelde verdeelbedragen, zijnde aan de relevante zorgverzekeraars toegekende delen van de bedragen bedoeld in onderdeel f van het eerste lid.  
+3. Uit het Fonds langdurige zorg kunnen middelen worden gebruikt voor het vormen en in stand houden van een reserve. Bij ministeriële regeling kunnen door Onze Minister van Volksgezondheid, Welzijn en Sport, in overeenstemming met Onze Minister, met betrekking tot de vorige volzin nadere regels worden gesteld. 
 
 ### Artikel  91  
 
-####Dekking uitgaven AFBZ
+####Dekking uitgaven Fonds langdurige zorg
 
-1.  Het Zorginstituut doet jaarlijks uitkeringen uit het Algemeen Fonds Bijzondere Ziektekosten ter dekking van de noodzakelijke uitgaven, gedaan voor de uitvoering van de in de Algemene Wet Bijzondere Ziektekosten geregelde verzekering, volgens bij of krachtens algemene maatregel van bestuur te stellen regelen.   
-2.  De zorgautoriteit is bevoegd vast te stellen dat uitgaven niet verantwoord waren voorzover deze door hem niet noodzakelijk worden geacht voor de uitvoering van de verzekering op grond van de Algemene Wet Bijzondere Ziektekosten. Met de uitkeringen, bedoeld in het eerste lid, evenals met de daarmee verkregen opbrengsten worden geen uitgaven gedekt waarvan de zorgautoriteit heeft vastgesteld dat zij niet verantwoord waren, tenzij de zorgautoriteit anders besluit.   
-3.  Op de uitkeringen, bedoeld in het eerste lid, kunnen voorschotten worden verleend overeenkomstig door het Zorginstituut te stellen regels.  
+1.  Het Zorginstituut doet jaarlijks uitkeringen uit het Fonds langdurige zorg ter dekking van de noodzakelijke uitgaven, gedaan voor de uitvoering van de in de Wet langdurige zorg geregelde verzekering, volgens bij of krachtens algemene maatregel van bestuur te stellen regels. Bij of krachtens deze algemene maatregel van bestuur kunnen tevens regels worden gesteld over de vorming en aanwending van reserves door Wlz-uitvoerders als bedoeld in de Wet langdurige zorg.   
+2.  De zorgautoriteit is bevoegd vast te stellen dat uitgaven niet verantwoord waren voor zover deze door hem niet noodzakelijk worden geacht voor de uitvoering van de verzekering op grond van de Wet langdurige zorg. Met de uitkeringen, bedoeld in het eerste lid, evenals met de daarmee verkregen opbrengsten worden geen uitgaven gedekt waarvan de zorgautoriteit heeft vastgesteld dat zij niet verantwoord waren, tenzij de zorgautoriteit anders besluit.   
+3.  Op de uitkeringen, bedoeld in het eerste lid, kunnen voorschotten worden verleend overeenkomstig door het Zorginstituut te stellen regels,   
+4.  Op rechten of verplichtingen die voortvloeien uit hetgeen op grond van dit artikel is geregeld, is titel 4.2 van de Algemene wet bestuursrecht niet van toepassing.  
 
 ###Afdeling 3 
 
@@ -1453,13 +1442,13 @@ j. de bedragen die het UWV ontvangt door toepassing van de artikelen 38, vierde 
 
 ####Uitgaven Arbeidsongeschiktheidsfonds
 
-1.  Ten laste van het Arbeidsongeschiktheidsfonds komen, met inachtneming van de artikelen 56, 100, 104, 108 en 117b en artikel 5:3 van de Wet werk en arbeidsondersteuning jonggehandicapten: 
+1.  Ten laste van het Arbeidsongeschiktheidsfonds komen, met inachtneming van de artikelen 56, 100, 104, 108 en 117b en artikel 5:3 van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten: 
 
 a. de door het UWV op grond van de Wet op de arbeidsongeschiktheidsverzekering te betalen uitkeringen;  
 
 b. de door het UWV op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen te betalen uitkeringen;  
 
-c. de op grond van hoofdstuk 3, afdeling 2 van de Wet arbeid en zorg te betalen uitkeringen;  
+c. de op grond van artikel 3:1a en hoofdstuk 3, afdeling 2 van de Wet arbeid en zorg te betalen vergoedingen en uitkeringen;  
 
 d.de door het UWV op grond van de Wet werk en inkomen naar arbeidsvermogen te betalen uitkeringen;
 
@@ -1497,7 +1486,9 @@ t. de kosten van onderzoek, bedoeld in artikel 32, eerste, tweede, derde en vier
 
 u. de uitkeringen op grond van artikel 29, tweede lid, onderdeel a, b, en c, van de Ziektewet, die op grond van artikel 63a, derde lid, van die wet door het UWV worden betaald en niet kunnen worden verhaald op de eigenrisicodrager, bedoeld in artikel 40, eerste lid, onderdeel a, en de daaraan verbonden uitvoeringskosten; 
 
-v. de bijdrage, bedoeld in artikel 103, tweede lid.    
+v. de bijdrage, bedoeld in artikel 103, tweede lid; 
+
+w. de uitkeringen op grond van artikel 29, tweede lid, onderdeel a, b, of c van de Ziektewet, bedoeld in artikel 117b, derde lid, onderdeel j.    
 2.  Het UWV bezigt de middelen die zijn gereserveerd ten behoeve van het Arbeidsongeschiktheidsfonds niet tot bestrijding van uitgaven ten laste van het Arbeidsongeschiktheidsfonds dan met toestemming van Onze Minister.   
 3.  Bij algemene maatregel van bestuur kan worden bepaald, dat tevens ten laste van het Arbeidsongeschiktheidsfonds komen: 
 
@@ -1536,9 +1527,9 @@ a.het een WGA uitkering betreft die op grond van artikel 72, eerste lid, van de 
 
 b.het een WGA uitkering betreft die op grond van artikel 83, derde lid, van de Wet werk en inkomen naar arbeidsvermogen door het UWV wordt betaald en niet kan worden verhaald op een bank of verzekeraar als bedoeld in artikel 40;
 
-c. het een WGA-uitkering betreft, toegekend aan een werknemer, die uit de dienstbetrekking waaruit de WGA uitkering is ontstaan recht had op ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel d, e, f, of g, van de Ziektewet of het ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel a, b en c, betreft dat aan een werknemer is toegekend direct aansluitend op een dienstbetrekking waarin recht op ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel e, f of g bestond; 
+c. het een WGA-uitkering betreft, toegekend aan een werknemer die uit de dienstbetrekking waaruit de WGA-uitkering is ontstaan recht had op ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel d, e, f of g, van de Ziektewet of op ziekengeld als bedoeld in artikel 29, tweede lid, onderdelen a, b en c, dat aan een werknemer is toegekend direct aansluitend op een dienstbetrekking waarin recht op ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel e, f of g, bestond; 
 
-d.het een WGA uitkering betreft, toegekend aan een werknemer, wiens WGA uitkering wordt toegekend in aansluiting op een voordien op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of de Wet werk en arbeidsondersteuning jonggehandicapten toegekende uitkering, danwel het op grond van de Wet werk en arbeidsondersteuning jonggehandicapten toegekende recht op arbeidsondersteuning;
+d.het een WGA uitkering betreft, toegekend aan een werknemer, wiens WGA uitkering wordt toegekend in aansluiting op een voordien op grond van de Wet arbeidsongeschiktheidsverzekering zelfstandigen of de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten toegekende uitkering, danwel het op grond van de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten toegekende recht op arbeidsondersteuning;
 
 e.het een vervolguitkering als bedoeld in artikel 62, derde lid, van de Wet werk en inkomen naar arbeidsvermogen betreft, die door het UWV wordt betaald voorzover die uitkering meer bedraagt dan hetgeen berekend op grond van het eerste en tweede lid van dat artikel;
 
@@ -1548,7 +1539,11 @@ g. het uitkeringen als bedoeld in het eerste lid, onderdeel b, betreft toegekend
 
 h. het uitkeringen betreft als bedoeld in het eerste lid, onderdeel a, die op grond van artikel 84, achtste lid, van de Wet werk en inkomen naar arbeidsvermogen niet ten laste komen van de eigenrisicodragers;  
 
-i. het ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel a,b of c, betreft dat op grond van artikel 63a, derde lid, van de Ziektewet door het UWV wordt betaald en niet kan worden verhaald op de eigenrisicodrager, bedoeld in artikel 40, eerste lid, onderdeel a. 
+i. het ziekengeld als bedoeld in artikel 29, tweede lid, onderdeel a,b of c, betreft dat op grond van artikel 63a, derde lid, van de Ziektewet door het UWV wordt betaald en niet kan worden verhaald op de eigenrisicodrager, bedoeld in artikel 40, eerste lid, onderdeel a; 
+
+j. het een WGA-uitkering betreft, toegekend aan een werknemer, die naar de dienstbetrekking waaruit de WGA uitkering is ontstaan, is toegeleid door het college van burgemeester en wethouders op grond van artikel 7, eerste lid, onderdeel a, van de Participatiewet en waarbij bij ziekte van die werknemer de mogelijkheid tot vergoeding als bedoeld in artikel 8a, tweede lid, onderdeel b, van die wet van toepassing is of het ziekengeld betreft als bedoeld in artikel 29, tweede lid, onderdeel a, b, en c, dat aan die werknemer is toegekend direct aansluitend op die dienstbetrekking; 
+
+k. het ziekengeld betreft als bedoeld in artikel 29, tweede lid, onderdelen a, b en c, van de Ziektewet toegekend aan een werknemer direct aansluitend op een dienstbetrekking waarin recht op ziekengeld op grond van artikel 29, tweede lid, onderdeel e, f of g, van de Ziektewet bestond. 
 4. Het UWV bezigt de middelen die zijn gereserveerd ten behoeve van de Werkhervattingskas niet tot bestrijding van uitgaven ten laste van de Werkhervattingskas dan met toestemming van Onze Minister. 
 5.  Ten laste van de Werkhervattingskas komen voorts: 
 
@@ -1568,8 +1563,6 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld omtrent de overh
 ### Artikel  118a  
 
 ####Vergoeding gemeenten
-
-Treedt in werking per 01-01-2015 
 
 1.  Bij algemene maatregel van bestuur kan worden bepaald, dat de colleges van burgemeester en wethouders uitkeringen aan werknemers, die voorafgaande aan de dienstbetrekking, door die colleges van burgemeester en wethouders op grond van artikel 7, eerste lid, onderdeel a, van de Participatiewet zijn ondersteund bij de arbeidsinschakeling vergoeden aan het UWV, indien de dienstbetrekking een bij die maatregel te bepalen tijd heeft geduurd.   
 2.  Bij of krachtens de algemene maatregel van bestuur, bedoeld in het eerste lid, wordt in ieder geval geregeld: 
@@ -1663,23 +1656,18 @@ a.de zinsnede «vanaf de aanvang van de dienstbetrekking» in artikel 49, eerste
 b.de zinsnede «nadat die werknemer zijn eigen arbeid of een andere functie bij dezelfde werkgever geheel of gedeeltelijk heeft hervat» in het tweede lid en in artikel 49, tweede lid;gelezen: vanaf de dag van inwerkingtreding van artikel 1.5, onderdeel V, van de Wet Invoering en financiering Wet werk en inkomen naar arbeidsvermogen. 
 4. Dit artikel is niet van toepassing indien de werknemer werkzaam is in een dienstbetrekking in de zin van artikel 2 van de Wet sociale werkvoorziening.
 
+### Artikel  122b  
+
+####Overgangsrecht wijzigingen premiekortingen
+
+De artikelen 47 en 48a, zoals deze luiden op de dag voorafgaande aan de inwerkingtreding van artikel XVII, onderdelen C en D, van de Verzamelwet SZW 2015 blijven van toepassing voor zover de desbetreffende premiekorting op die dag werd toegepast voor het in dienst hebben van een werknemer als bedoeld in artikel 47, eerste en tweede lid, of artikel 48a, eerste lid. 
+
 ### Artikel  122c  
 
 ####Overgangsbepaling premievrijstelling oudere werknemer
 
 1. Artikel 47, aanhef en onderdeel b, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van de wet van 29 december 2008 tot wijziging van de Wet financiering sociale verzekeringen en enige andere sociale verzekeringswetten in verband met de invoering van een premiekorting voor het in dienst nemen van uitkeringsgerechtigden van 50 jaar en ouder en het in dienst houden van werknemers van 62 jaar en ouder (Stb. 598), blijft van toepassing voor zover de betreffende premievrijstelling op die dag werd toegepast voor het in dienst hebben van werknemers van 54,5 jaar en ouder, tot die werknemers de leeftijd van 62 jaar hebben bereikt.  
 2.  Het eerste lid is niet van toepassing op de premie die het UWV betaalt aan de werkgever op grond van artikel 11, tweede lid, van de Werkloosheidswet, artikel 11, derde lid, van de Ziektewet of artikel 10, derde lid, van de Wet op de arbeidsongeschiktheidsverzekering met dien verstande dat ten aanzien van de premie die de werkgever in dat geval is verschuldigd, het eerste lid van toepassing blijft. 
-
-###Artikel 122ca 
-
-####Gedeeltelijke teruggaaf basispremie Arbeidsongeschiktheidsfonds
-
-1.  In afwijking in zoverre van de hoofdstukken 3 en 4 verleent de inspecteur, al dan niet op verzoek, bij voor bezwaar vatbare beschikking aan een werkgever een gedeeltelijke teruggaaf van de ten behoeve van het Arbeidsongeschiktheidsfonds verschuldigde basispremie, bedoeld in artikel 34, eerste lid. Voor de toepassing van artikel 20 van de Algemene wet inzake rijksbelastingen wordt de teruggaaf, bedoeld in de eerste volzin, aangemerkt als een naar aanleiding van een verzoek gedane teruggaaf.   
-2.  De teruggaaf, bedoeld in het eerste lid, bedraagt 28,82% van de door de werkgever ten behoeve van het Arbeidsongeschiktheidsfonds over de periode van 1 januari 2013 tot en met 30 juni 2013 aangegeven basispremie. De voor de toepassing van de eerste volzin in aanmerking te nemen premie wordt vastgesteld op grond van de aangiften die uiterlijk op 30 september 2013 zijn ingediend alsmede de aanvullingen daarop die uiterlijk op die datum hebben plaatsgevonden.   
-3.  Ingeval het eerste aangiftetijdvak van de periode, genoemd in het tweede lid, niet aanvangt op 1 januari 2013 of ingeval het laatste aangiftetijdvak van de periode, genoemd in het tweede lid, niet eindigt op 30 juni 2013, wordt het bedrag van de voor de toepassing van het tweede lid in aanmerking te nemen premie door herleiding bepaald.   
-4.  De teruggaaf, bedoeld in het eerste lid, komt ten laste van het Arbeidsongeschiktheidsfonds.   
-5.  Bij regeling van Onze Minister van Financiën, in overeenstemming met Onze Minister, kunnen nadere regels worden gesteld met betrekking tot de toepassing van dit artikel.   
-6.  Dit artikel vervalt met ingang van 1 januari 2015. 
 
 ### Artikel  122d  
 
@@ -1700,12 +1688,6 @@ De premie die op grond van artikel 27 is vastgesteld wordt met ingang van het ja
 ####Overgangsregeling lopende uitkeringen
 
 Bij of krachtens algemene maatregel van bestuur worden regels gesteld voor uitkeringen op grond van de Ziektewet aan werknemers die zijn toegekend voor de datum van inwerkingtreding van artikel II van de Wet beperking ziekteverzuim en arbeidsongeschiktheid vangnetters en WGA- uitkeringen, die voor die datum zijn toegekend aan werknemers, die uit de dienstbetrekking waaruit de WGA-uitkering is ontstaan, recht hadden op een uitkering op grond van de Ziektewet, en uitvoeringskosten en andere kosten in verband met deze uitkeringen, die ten laste komen van bij die maatregel aan te wijzen fondsen. 
-
-### Artikel  122g  
-
-####Beëindiging premievrijstelling arbeid in kleine banen
-
-Artikel 52a vervalt met ingang van 1 januari 2012, tenzij voor die datum een voorstel van wet bij de Tweede Kamer der Staten-Generaal is ingediend, dat een vergelijkbare regeling bevat voor arbeid in kleine banen. 
 
 ### Artikel  122ga  
 
@@ -1743,6 +1725,12 @@ Artikel 64, zoals dat luidde op dag voorafgaand aan de inwerkingtreding van arti
 2°. behoren voor de toepassing van artikel 16, tweede lid, aanhef en onderdeel b, niet tot het loon eindheffingsbestanddelen als bedoel in artikel 31, eerste lid, onderdelen b tot en met h, van de Wet op de loonbelasting 1964, zoals dit op 31 december 2010 luidde.     
 3.  Dit artikel komt te vervallen met ingang van de dag waarop artikel 39c van de Wet op de loonbelasting 1964 komt te vervallen.  
 
+### Artikel  122l  
+
+####Overgangsbepaling premiekorting oudere werknemer
+
+Artikel 47, eerste lid, aanhef en onderdeel b, zoals dat artikel luidde op de dag voorafgaand aan de inwerkingtreding van artikel IXA van de Wet verlaging maximumopbouw- en premiepercentages pensioen en maximering pensioengevend inkomen, blijft van toepassing voor zover de desbetreffende premiekorting op die dag werd toegepast voor werknemers, die bij indiensttreding 50 jaar of ouder, maar jonger dan 56 jaar waren. 
+
 ### Artikel  122m  
 
 ####Overgangsbepaling toepassing AWR op beschikkingen eigenrisicodragen
@@ -1757,13 +1745,13 @@ Indien het bij koninklijke boodschap van 24 januari 2014 ingediende voorstel va
 
 ####Samenwerking
 
-Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de wijze waarop de rijksbelastingdienst, het UWV, de SVB, het Zorginstituut, de zorgautoriteit en de organen die betrokken zijn bij de uitvoering van de algemene verzekering bijzondere ziektekosten, samenwerken ten behoeve van een goede uitvoering van deze wet, de Wet structuur uitvoeringsorganisatie werk en inkomen, de volksverzekeringen, de werknemersverzekeringen, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Zorgverzekeringswet en de belastingwetten, voorzover het betreft de financiering van de sociale verzekeringen. 
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de wijze waarop de rijksbelastingdienst, het UWV, de SVB, het Zorginstituut, de zorgautoriteit en de organen die betrokken zijn bij de uitvoering van de Wet langdurige zorg, samenwerken ten behoeve van een goede uitvoering van deze wet, de Wet structuur uitvoeringsorganisatie werk en inkomen, de volksverzekeringen, de werknemersverzekeringen, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Zorgverzekeringswet en de belastingwetten, voorzover het betreft de financiering van de sociale verzekeringen. 
 
 ### Artikel  124  
 
 ####Onderlinge gegevensuitwisseling
 
-De SVB, het UWV, het Zorginstituut, de zorgautoriteit, de organen die betrokken zijn bij de uitvoering van de algemene verzekering bijzondere ziektekosten, de rijksbelastingdienst, het Centraal Planbureau en het Centraal Bureau voor de Statistiek zijn verplicht desgevraagd aan elkaar en aan Onze Minister, Onze Minister van Financiën en Onze Minister van Volksgezondheid, Welzijn en Sport kosteloos de opgaven en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering van deze wet, de Wet structuur uitvoeringsorganisatie werk en inkomen, de volksverzekeringen, de werknemersverzekeringen, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Zorgverzekeringswet en de belastingwetten, voorzover het betreft de financiering van de sociale verzekeringen. 
+De SVB, het UWV, het Zorginstituut, de zorgautoriteit, de organen die betrokken zijn bij de uitvoering van de Wet langdurige zorg, de rijksbelastingdienst, het Centraal Planbureau en het Centraal Bureau voor de Statistiek zijn bevoegd uit eigen beweging en verplicht desgevraagd aan elkaar en aan Onze Minister, Onze Minister van Financiën en Onze Minister van Volksgezondheid, Welzijn en Sport kosteloos de opgaven en inlichtingen te verstrekken die noodzakelijk zijn voor de uitvoering van deze wet, de Wet structuur uitvoeringsorganisatie werk en inkomen, de volksverzekeringen, de werknemersverzekeringen, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Zorgverzekeringswet en de belastingwetten, voorzover het betreft de financiering van de sociale verzekeringen. 
 
 ###Artikel 124a 
 
@@ -1824,72 +1812,72 @@ J. P. H.Donner
 
 | --- | --- |
 |:---|:---|
-|Hoofdstuk 1 Algemene bepalingen |1 |
-|Hoofdstuk 2 De financiering van de volksverzekeringen |2 |
-|Afdeling 1 Inleidende bepalingen |2 |
-|Afdeling 2 Premie van verzekerden |3 |
-|§ 1 Premieplicht |3 |
-|§ 2 Maatstaf |3 |
-|§ 3 Tarief en heffingskorting |4 |
-|§ 4 Aanvullende regeling |5 |
-|Afdeling 3 Rijksbijdragen |5 |
-|Hoofdstuk 3 De financiering van de werknemersverzekeringen en de wet arbeidsongeschiktheidsverzekering zelfstandigen |5 |
-|Afdeling 1 Inleidende bepalingen |5 |
-|§ 1 Het loonbegrip |5 |
-|§ 2 Inhouding en verbod van verhaal |7 |
-|§ 3 Uitzondering premieplicht |8 |
-|§ 4 Premiewijziging anders dan per 1 januari |8 |
-|Afdeling 2 Financiering Werkloosheidswet en Ziektewet |8 |
-|§ 1 Premies ten gunste van de fondsen |8 |
-|§ 2 Uitzondering overheid |8 |
-|§ 3 Premieplicht werkgever en werknemer |9 |
-|§ 4 Maatstaf |9 |
-|§ 5 Tarief |9 |
-|Afdeling 3 Financiering Werkloosheidswet en Ziektewet bij overheid |10 |
-|§ 1 Door overheid af te dragen middelen |10 |
-|§ 2 Door overheid in te houden op het loon |10 |
-|Afdeling 4 Financiering Wet op de arbeidsongeschiktheidverzekering en Wet arbeidsongeschiktheidverzekering zelfstandigen |11 |
-|§ 1 Premies en rijksbijdragen ten gunste van de fondsen |11 |
-|§ 2 Premieplicht werkgever |11 |
-|§ 3 Maatstaf |11 |
-|§ 4 Tarief |11 |
-|§ 5 Rijksbijdrage |12 |
-|Afdeling 5 Eigenrisicodragen Ziektewet en Wet op de arbeidsongeschiktheidverzekering |13 |
-|§ 1 Algemeen |13 |
-|§ 2 Eigenrisicodragen Ziektewet |15 |
-|§ 3 Eigenrisicodragen Wet op de arbeidsongeschiktheidverzekering |16 |
-|Afdeling 6 Premievrijstellingen en premiekorting |16 |
-|§ 1 Premievrijstelling oudere werknemer |16 |
-|§ 2 Korting arbeidsgehandicapte werknemer |16 |
-|§ 3 Premievrijstelling bij marginale arbeid |17 |
-|§ 4 Nadere regels |18 |
-|Afdeling 7 Premieheffing bij verklaring arbeidsrelatie |19 |
-|Hoofdstuk 4 De heffing en invordering van premies |19 |
-|§ 1 Heffing |19 |
-|§ 2 Invordering |20 |
-|§ 3 Schuldige nalatigheid premie volksverzekeringen |21 |
-|§ 4 Aanvullende regeling |22 |
-|Hoofdstuk 5 Gemoedsbezwaren |22 |
-|Hoofdstuk 6 De financiering van de vrijwillige sociale verzekeringen |23 |
-|Afdeling 1 De financiering van de vrijwillige volksverzekeringen |23 |
-|§ 1 Inleidende bepaling |23 |
-|§ 2 Heffing en inning |23 |
-|§ 3 Premieplicht en tarief |23 |
-|Afdeling 2 De financiering van de vrijwillige werknemersverzekeringen |24 |
-|§ 1 Inleidende bepaling |24 |
-|§ 2 Heffing en inning |24 |
-|§ 3 Werkloosheidswet |24 |
-|§ 4 Wet op de arbeidsongeschiktheidverzekering |24 |
-|§ 5 Ziektewet |24 |
-|Afdeling 3 Aanvullende bepalingen |25 |
-|Hoofdstuk 7 De fondsen |25 |
-|Afdeling 1 Algemeen |25 |
-|Afdeling 2 Volksverzekeringen |25 |
-|§ 1 Algemene Ouderdomswet en Algemene nabestaandenwet |25 |
-|§ 2 Algemene Wet Bijzondere Ziektekosten |27 |
-|Afdeling 3 Werknemersverzekeringen |29 |
-|§ 1 Werkloosheidswet en Ziektewet |29 |
-|§ 2 Wet op de arbeidsongeschiktheidverzekering en Wet arbeidsongeschiktheidverzekering zelfstandigen |36 |
-|Afdeling 4 Geïntegreerd middelenbeheer |39 |
-|Hoofdstuk 8 Slot- en strafbepalingen |41 |
+| Hoofdstuk 1 Algemene bepalingen  | 1  |
+| Hoofdstuk 2 De financiering van de volksverzekeringen  | 2  |
+| Afdeling 1 Inleidende bepalingen  | 2  |
+| Afdeling 2 Premie van verzekerden  | 3  |
+| § 1 Premieplicht  | 3  |
+| § 2 Maatstaf  | 3  |
+| § 3 Tarief en heffingskorting  | 4  |
+| § 4 Aanvullende regeling  | 5  |
+| Afdeling 3 Rijksbijdragen  | 5  |
+| Hoofdstuk 3 De financiering van de werknemersverzekeringen en de wet arbeidsongeschiktheidsverzekering zelfstandigen  | 5  |
+| Afdeling 1 Inleidende bepalingen  | 5  |
+| § 1 Het loonbegrip  | 5  |
+| § 2 Inhouding en verbod van verhaal  | 7  |
+| § 3 Uitzondering premieplicht  | 8  |
+| § 4 Premiewijziging anders dan per 1 januari  | 8  |
+| Afdeling 2 Financiering Werkloosheidswet en Ziektewet  | 8  |
+| § 1 Premies ten gunste van de fondsen  | 8  |
+| § 2 Uitzondering overheid  | 8  |
+| § 3 Premieplicht werkgever en werknemer  | 9  |
+| § 4 Maatstaf  | 9  |
+| § 5 Tarief  | 9  |
+| Afdeling 3 Financiering Werkloosheidswet en Ziektewet bij overheid  | 10  |
+| § 1 Door overheid af te dragen middelen  | 10  |
+| § 2 Door overheid in te houden op het loon  | 10  |
+| Afdeling 4 Financiering Wet op de arbeidsongeschiktheidverzekering en Wet arbeidsongeschiktheidverzekering zelfstandigen  | 11  |
+| § 1 Premies en rijksbijdragen ten gunste van de fondsen  | 11  |
+| § 2 Premieplicht werkgever  | 11  |
+| § 3 Maatstaf  | 11  |
+| § 4 Tarief  | 11  |
+| § 5 Rijksbijdrage  | 12  |
+| Afdeling 5 Eigenrisicodragen Ziektewet en Wet op de arbeidsongeschiktheidverzekering  | 13  |
+| § 1 Algemeen  | 13  |
+| § 2 Eigenrisicodragen Ziektewet  | 15  |
+| § 3 Eigenrisicodragen Wet op de arbeidsongeschiktheidverzekering  | 16  |
+| Afdeling 6 Premievrijstellingen en premiekorting  | 16  |
+| § 1 Premievrijstelling oudere werknemer  | 16  |
+| § 2 Korting arbeidsgehandicapte werknemer  | 16  |
+| § 3 Premievrijstelling bij marginale arbeid  | 17  |
+| § 4 Nadere regels  | 18  |
+| Afdeling 7 Premieheffing bij verklaring arbeidsrelatie  | 19  |
+| Hoofdstuk 4 De heffing en invordering van premies  | 19  |
+| § 1 Heffing  | 19  |
+| § 2 Invordering  | 20  |
+| § 3 Schuldige nalatigheid premie volksverzekeringen  | 21  |
+| § 4 Aanvullende regeling  | 22  |
+| Hoofdstuk 5 Gemoedsbezwaren  | 22  |
+| Hoofdstuk 6 De financiering van de vrijwillige sociale verzekeringen  | 23  |
+| Afdeling 1 De financiering van de vrijwillige volksverzekeringen  | 23  |
+| § 1 Inleidende bepaling  | 23  |
+| § 2 Heffing en inning  | 23  |
+| § 3 Premieplicht en tarief  | 23  |
+| Afdeling 2 De financiering van de vrijwillige werknemersverzekeringen  | 24  |
+| § 1 Inleidende bepaling  | 24  |
+| § 2 Heffing en inning  | 24  |
+| § 3 Werkloosheidswet  | 24  |
+| § 4 Wet op de arbeidsongeschiktheidverzekering  | 24  |
+| § 5 Ziektewet  | 24  |
+| Afdeling 3 Aanvullende bepalingen  | 25  |
+| Hoofdstuk 7 De fondsen  | 25  |
+| Afdeling 1 Algemeen  | 25  |
+| Afdeling 2 Volksverzekeringen  | 25  |
+| § 1 Algemene Ouderdomswet en Algemene nabestaandenwet  | 25  |
+| § 2 Wet langdurige zorg  | 27  |
+| Afdeling 3 Werknemersverzekeringen  | 29  |
+| § 1 Werkloosheidswet en Ziektewet  | 29  |
+| § 2 Wet op de arbeidsongeschiktheidverzekering en Wet arbeidsongeschiktheidverzekering zelfstandigen  | 36  |
+| Afdeling 4 Geïntegreerd middelenbeheer  | 39  |
+| Hoofdstuk 8 Slot- en strafbepalingen  | 41  |
 

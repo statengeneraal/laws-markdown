@@ -20,9 +20,7 @@ a. sanctiebesluit: een algemene maatregel van bestuur als bedoeld in artikel 2;
 
 b. sanctieregeling: een regeling als bedoeld in artikel 2, tweede lid, of artikel 7;  
 
-c. Onze Minister: Onze Minister van Buitenlandse Zaken in overeenstemming met Onze Minister wie het mede aangaat;  
-
-d. bedrijfslichaam: een bedrijfslichaam als bedoeld in artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie.   
+c. Onze Minister: Onze Minister van Buitenlandse Zaken in overeenstemming met Onze Minister wie het mede aangaat.   
 
 ### Afdeling  2  
 
@@ -110,6 +108,10 @@ Onze Minister van Financiën kan de krachtens artikel 10, tweede lid, aangewezen
 2.  Onze Minister van Financiën kan regels stellen omtrent het al dan niet op verzoek verstrekken van gegevens door de instellingen, bedoeld in artikel 10, tweede lid, onder a tot en met j.   
 3.  Onze Minister van Financiën kan ontheffing of vrijstelling verlenen van de op grond van het eerste en tweede lid gestelde regels.  
 
+### Artikel  10ba  
+
+Indien een instelling als bedoeld in artikel 10, tweede lid, onder a tot en met j, niet voldoet aan haar verplichtingen ingevolge artikel 10b, kan Onze Minister van Financiën door middel van het geven van een aanwijzing die instelling verplichten binnen een door hem gestelde redelijke termijn ten aanzien van in de aanwijzingsbeschikking aan te geven punten een bepaalde gedragslijn te volgen. 
+
 ### Artikel  10c  
 
 Onze Minister van Financiën kan een last onder dwangsom opleggen ter zake van overtreding van regels, gesteld krachtens artikel 10b. 
@@ -163,12 +165,6 @@ e. onvoldoende is gewaarborgd dat de gegevens of inlichtingen niet zullen worden
 ### Afdeling  6  
 
 ####Overige bepalingen
-
-### Artikel  11  
-
-1.  Onze Minister kan bevoegdheden die hem ingevolge een sanctiebesluit of een sanctieregeling toekomen, delegeren aan het bestuur van een bedrijfslichaam of het bestuur van een rechtspersoonlijkheid bezittend lichaam als bedoeld in artikel 110 van de Wet op de bedrijfsorganisatie, tenzij het bepaalde bij of krachtens deze wet zich daartegen verzet. Onze Minister kan aan een delegatie op grond van de eerste volzin beperkingen verbinden.   
-2.  Besluiten van algemene strekking, vastgesteld met het oog op de uitoefening van een op grond van het eerste lid gedelegeerde bevoegdheid, behoeven de goedkeuring van Onze Minister. Goedkeuring kan slechts worden onthouden wegens strijd met het recht of het algemeen belang.   
-3.  Een besluit van Onze Minister op grond van het eerste lid wordt in de Staatscourant bekendgemaakt.   
 
 ### Artikel  13  
 

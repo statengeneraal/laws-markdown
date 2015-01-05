@@ -5,7 +5,7 @@
 De Minister van Verkeer en Waterstaat,
 In overeenstemming met het Dagelijks Bestuur van het Knooppunt Arnhem Nijmegen;
 
-Gelet op [artikel 20, derde lid, van de Wet personenvervoer 2000](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);
+Gelet op artikel 20, derde lid, van de Wet personenvervoer 2000;
 Besluit:
 
 ### Artikel  1  
@@ -16,7 +16,7 @@ Besluit:
 |:---|:---|
 | Arnhem–Didam, als onderdeel van de vervoersdienst Arnhem–Doetinchem  | Arnhem, Arnhem Velperpoort, Duiven, Zevenaar.  |
 
-2.  Het eerste lid laat onverlet de rechten als bedoeld in artikel 2, van de concessie bedoeld in [artikel 67, tweede lid van de Wet personenvervoer 2000](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), voor het hoofdrailnet, als bedoeld in [artikel 65 van de Wet personenvervoer 2000](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) tussen de stations Arnhem–Arnhem Velperpoort.  
+2.  Het eerste lid laat onverlet de rechten als bedoeld in artikel 2, van de concessie bedoeld in artikel 67, tweede lid van de Wet personenvervoer 2000, voor het hoofdrailnet, als bedoeld in artikel 65 van de Wet personenvervoer 2000 tussen de stations Arnhem–Arnhem Velperpoort.  
 
 ###Artikel 2 
 

@@ -121,7 +121,9 @@ ee. Amerikaans vuilbroed: 1 jaar;
 
 ff.de in bijlage IV, deel II, van richtlijn nr. 2006/88/EG genoemde ziekten bij aquacultuurdieren: de door Onze Minister vastgestelde termijn die per geval kan verschillen;
 
-gg.andere besmettelijke dierziekten die ter uitvoering van EG-maatregelen bestreden moeten worden: de door Onze Minister vastgestelde termijn.  
+gg.andere besmettelijke dierziekten die ter uitvoering van EG-maatregelen bestreden moeten worden: de door Onze Minister vastgestelde termijn; 
+
+hh. ziekte van Aujeszky: 42 dagen.  
 
 ### Artikel  4  
 

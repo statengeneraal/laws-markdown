@@ -51,7 +51,8 @@ o. stedelijke vernieuwing: op stedelijk gebied gerichte inspanningen die strekke
 ###Artikel 1a 
 
 1. De eigenaar van een bouwwerk, open erf of terrein of degene die uit anderen hoofde bevoegd is tot het daaraan treffen van voorzieningen draagt er zorg voor dat als gevolg van de staat van dat bouwwerk, open erf of terrein geen gevaar voor de gezondheid of veiligheid ontstaat dan wel voortduurt. 
-2. Een ieder die een bouwwerk bouwt, gebruikt, laat gebruiken of sloopt, dan wel een open erf of terrein gebruikt of laat gebruiken, draagt er, voor zover dat in diens vermogen ligt, zorg voor dat als gevolg van dat bouwen, gebruik of slopen geen gevaar voor de gezondheid of veiligheid ontstaat dan wel voortduurt.
+2. Een ieder die een bouwwerk bouwt, gebruikt, laat gebruiken of sloopt, dan wel een open erf of terrein gebruikt of laat gebruiken, draagt er, voor zover dat in diens vermogen ligt, zorg voor dat als gevolg van dat bouwen, gebruik of slopen geen gevaar voor de gezondheid of veiligheid ontstaat dan wel voortduurt. 
+3.  De eigenaar van een bouwwerk of degene die uit anderen hoofde bevoegd is tot het daaraan treffen van voorzieningen onderzoekt, of laat onderzoek uitvoeren naar, de staat van dat bouwwerk, voor zover dat bouwwerk behoort tot bij ministeriële regeling vast te stellen categorieën bouwwerken waarvan is vast komen te staan dat die een gevaar voor de gezondheid of de veiligheid kunnen opleveren. Bij ministeriële regeling worden voorschriften gegeven omtrent het onderzoek. 
 
 ### Hoofdstuk  II  
 
@@ -268,45 +269,53 @@ b. naar het oordeel van het bevoegd gezag anderszins noodzakelijk zijn.
 
 Indien niet wordt voldaan aan artikel 12, eerste lid, kan het bevoegd gezag, tenzij toepassing is gegeven aan het tweede lid van dat artikel, degene die als eigenaar van een bouwwerk dan wel uit anderen hoofde bevoegd is tot het treffen van voorzieningen daaraan, verplichten tot het binnen een door hem te bepalen termijn treffen van zodanige door hem daarbij aan te geven voorzieningen, dat nadien wordt voldaan aan artikel 12, eerste lid.
 
+### Artikel  13b  
+
+1.  Onder beheer wordt in dit artikel verstaan het aan derden in gebruik geven van een gebouw, open erf of terrein, het innen van de huurpenningen namens de eigenaar of degene die tot ingebruikgeving bevoegd was alsmede het verrichten van alle handelingen met betrekking tot dat gebouw, open erf of terrein die volgens het burgerlijk recht tot de rechten en plichten van een eigenaar behoren met uitzondering van vervreemden en bezwaren.   
+2.  Het bevoegd gezag kan degene die als eigenaar of uit anderen hoofde bevoegd is tot het in gebruik geven van een gebouw, open erf of terrein, verplichten om het gebouw, open erf of terrein in beheer te geven aan het bevoegd gezag, aan een persoon die uit hoofde van beroep of bedrijf op het terrein van de huisvesting werkzaam is, of aan een op dat terrein werkzame instelling, dan wel in gebruik te geven aan een andere persoon dan degene die als gevolg van een sluiting als bedoeld in onderdeel b het gebruik van het gebouw, open erf of terrein heeft moeten staken, indien: 
+
+a. ter zake van een overtreding van artikel 1a of artikel 1b die naar het oordeel van het bevoegd gezag gepaard gaat met een bedreiging van de leefbaarheid of een gevaar voor de gezondheid of de veiligheid, een opgelegde last onder dwangsom niet heeft geleid tot het ongedaan maken of beëindigen van die overtreding, of  
+
+b. het gebouw, open erf of terrein op grond van artikel 17, dan wel het gebouw op grond van artikel 174a van de Gemeentewet, een verordening als bedoeld in artikel 174 van die wet of artikel 13b van de Opiumwet is gesloten.     
+3.  Het bevoegd gezag kan voorwaarden stellen aan de uitvoering van de verplichting een gebouw, open erf of terrein in beheer of gebruik te geven, bedoeld in het tweede lid.   
+4.  Indien het gebouw, open erf of terrein noodzakelijke voorzieningen of aanpassingen behoeft om weer op redelijke wijze tot bewoning of gebruik te kunnen dienen, kan het bevoegd gezag besluiten, al dan niet gelijktijdig met het besluit, bedoeld in het tweede lid, dat degene aan wie het beheer is gegeven binnen een bepaalde termijn die voorzieningen of aanpassingen uitvoert. De uitvoering van deze voorzieningen of aanpassingen geschiedt op kosten van degene tot wie het in het tweede lid bedoelde besluit is gericht.   
+5.  Het is degene tot wie een besluit als bedoeld in het tweede lid is gericht, verboden gedurende de termijn waarvoor een gebouw, open erf of terrein in beheer is gegeven beheershandelingen te verrichten.   
+6.  Degene aan wie het beheer is gegeven, stelt na overleg met degene tot wie het in het tweede lid bedoelde besluit is gericht, de huurprijs vast op een bedrag dat redelijk is in het economische verkeer en voldoet aan de voor de betreffende huurprijs geldende wettelijke regels.   
+7.  Indien degene ten aanzien van wie een beheermaatregel als bedoeld in het tweede lid van kracht is, artikel 1a of 1b overtreedt ten aanzien van een ander gebouw, open erf of terrein dan waarvoor de maatregel is opgelegd, en die overtreding gaat naar het oordeel van het bevoegd gezag gepaard met een bedreiging van de leefbaarheid of een gevaar voor de gezondheid of de veiligheid, kan het bevoegd gezag diegene ten aanzien van dat andere gebouw, open erf of terrein een beheermaatregel als bedoeld in het tweede lid opleggen.   
+8.  Het bevoegd gezag beëindigt het beheer 
+
+a. zodra de overtreding van artikel 1a of artikel 1b en de bedreiging van de leefbaarheid of het gevaar voor de gezondheid of veiligheid naar zijn oordeel zijn beëindigd;  
+
+b. indien van toepassing, de noodzakelijke voorzieningen of aanpassingen, bedoeld in het vierde lid, zijn getroffen, en  
+
+c. de beheervergoeding, bedoeld in artikel 14, tweede lid, en de verschuldigde kosten voor het treffen van de voorzieningen of aanpassingen, bedoeld in het vierde lid, zijn voldaan.    
+
 ### Artikel  14  
 
-1. Indien een gebouw, een open erf of een terrein op grond van artikel 17, dan wel een gebouw op grond van artikel 174a van de Gemeentewet, een verordening als bedoeld in artikel 174 van die wet of artikel 13b van de Opiumwet is gesloten, kan bij besluit van het bevoegd gezag degene die als eigenaar of uit anderen hoofde bevoegd is tot het in gebruik geven van dat gebouw, open erf of terrein, worden verplicht om naar keuze van het bevoegd gezag het gebouw, open erf of terrein binnen een daarbij te bepalen termijn:
-
-a.in gebruik te geven aan een andere persoon dan degene die als gevolg van de sluiting het gebruik van het gebouw, open erf of terrein heeft moeten staken, of
-
-b.in beheer te geven aan een persoon, die uit hoofde van beroep of bedrijf op het terrein van de huisvesting werkzaam is, of aan een op dat terrein werkzame instelling. 
-2. Het bevoegd gezag kan in zijn besluit:
-
-a.personen of instellingen als bedoeld in het eerste lid, onderdelen a en b, noemen uit welke degene tot wie het besluit is gericht een keuze moet maken, of, indien dit naar het oordeel van het bevoegd gezag niet mogelijk is, een persoon of instelling als hier bedoeld noemen aan wie het gebouw, open erf of terrein binnen een daarbij aangegeven termijn en op een daarbij aangegeven wijze in gebruik dan wel in beheer moet worden gegeven,
-
-b.indien het gebouw, open erf of terrein noodzakelijke voorzieningen behoeft om weer op redelijke wijze tot bewoning of gebruik te kunnen dienen, degene die als eigenaar of uit anderen hoofde tot het treffen van die voorzieningen bevoegd is, ertoe verplichten om binnen een door hem te bepalen termijn de door hem aan te geven voorzieningen te treffen, en
-
-c.zo nodig, andere voorwaarden aan de uitvoering van het besluit stellen. 
-3. Indien het eerste lid, onderdeel b, van toepassing is stelt het bevoegd gezag een beheersvergoeding vast. De in dat onderdeel bedoelde persoon of instelling stelt na overleg met degene tot wie het in dat lid bedoelde besluit is gericht, de huurprijs vast op een bedrag dat redelijk is in het economische verkeer en stelt de ontvangen huurprijs, na aftrek van de beheersvergoeding, ter beschikking van degene tot wie dat besluit is gericht. 
-4. Een in het eerste lid, onderdeel a of b, bedoelde persoon of instelling die het gebruik of beheer van het gebouw, open erf of terrein heeft beëindigd, doet daarvan binnen veertien dagen na de dag van beëindiging mededeling aan het bevoegd gezag. 
-5. Onder beheer wordt in dit artikel verstaan het in gebruik geven van een gebouw, open erf of terrein en het daarna verrichten van al die handelingen met betrekking tot dat gebouw, open erf of terrein die volgens het burgerlijk recht tot de verantwoordelijkheid van een eigenaar behoren. 
+1.  Indien een gebouw, open erf of terrein in beheer is gegeven als bedoeld in artikel 13b, tweede lid, stelt het bevoegd gezag een beheervergoeding vast die degene tot wie het in artikel 13b, tweede lid bedoelde besluit is gericht, is verschuldigd aan het bevoegd gezag ten behoeve van het beheer.   
+2.  De beheervergoeding bestaat uit een kostendekkende vergoeding voor de uitvoering van het beheer.   
+3.  Degene tot wie het in artikel 13b, tweede lid bedoelde besluit is gericht, betaalt de beheervergoeding en de verschuldigde kosten voor het treffen van de voorzieningen of aanpassingen, bedoeld in artikel 13b, vierde lid, aan de beheerder.   
+4.  Het bevoegd gezag kan de beheervergoeding en de verschuldigde kosten van de voorzieningen of aanpassingen, bedoeld in artikel 13b, vierde lid, invorderen bij dwangbevel.   
+5.  Het bevoegd gezag kan de door de beheerder geïnde huurpenningen verrekenen met de beheervergoeding en de verschuldigde kosten van de voorzieningen of aanpassingen, bedoeld in artikel 13b, vierde lid.   
+6.  De beheerder draagt de door hem geïnde huurpenningen slechts af aan degene tot wie het in artikel 13b, tweede lid bedoelde besluit is gericht, voor zover geen geldschulden, bedoeld in het derde lid, open staan.  
 
 ### Artikel 14a 
 
-Degene, tot wie een besluit als bedoeld in artikel 12d, 13, 13a of 14, eerste lid, is gericht, of zijn rechtsopvolger en iedere verdere rechtsopvolger, is verplicht daaraan te voldoen.
+Degene, tot wie een besluit als bedoeld in artikel 12d, 13, 13a of 13b, tweede lid, is gericht, of zijn rechtsopvolger en iedere verdere rechtsopvolger, is verplicht daaraan te voldoen.
 
 ### Artikel  15  
 
 1. Het bevoegd gezag kan gelijktijdig met een besluit als bedoeld in artikel 12d, 13, 13a of 14, eerste lid, besluiten tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom, gericht op naleving van het eerstgenoemde besluit. In dat geval worden beide besluiten gelijktijdig bekendgemaakt. 
 2. Indien toepassing wordt gegeven aan het eerste lid maakt het besluit tot oplegging van een last onder bestuursdwang of oplegging van een last onder dwangsom, wat betreft de mogelijkheid van bezwaar en beroep, deel uit van het in artikel 12d, 13, 13a of 14, eerste lid, bedoelde besluit. 
 
-### Artikel  16  
-
-Degene die als eigenaar van een woning of uit anderen hoofde daartoe bevoegd is, treft de voorzieningen waarvoor ingevolge de Wet maatschappelijke ondersteuning geldelijke steun is verleend. 
-
 ### Artikel  17  
 
-1.  Indien overtreding van de bij of krachtens hoofdstuk I, II, of III gegeven voorschriften met betrekking tot de staat of het gebruik van een gebouw, open erf of terrein gepaard gaat met een bedreiging van de leefbaarheid of een gevaar voor de veiligheid of de gezondheid, en er een klaarblijkelijk gevaar is op herhaling van de overtreding, kan het bevoegd gezag besluiten dat gebouw, open erf of terrein te sluiten. De artikelen 5:24, eerste en tweede lid, en 5:25 tot en met 5:28 van de Algemene wet bestuursrecht zijn van overeenkomstige toepassing. Het bevoegd gezag kan van de overtreder de ingevolge artikel 5:25 van de Algemene wet bestuursrecht verschuldigde kosten invorderen bij dwangbevel.   
+1.  Indien herhaaldelijke overtreding van artikel 1a of artikel 1b naar het oordeel van het bevoegd gezag gepaard gaat met een bedreiging van de leefbaarheid of een gevaar voor de gezondheid of de veiligheid, kan het bevoegd gezag besluiten dat gebouw, open erf of terrein te sluiten. Het bevoegd gezag kan van de overtreder de ingevolge artikel 5:25 van de Algemene wet bestuursrecht verschuldigde kosten invorderen bij dwangbevel.   
 2.  Het bevoegd gezag bepaalt in het besluit, bedoeld in het eerste lid, de duur van de sluiting.  
 
 ### Artikel  18  
 
-Indien het bevoegd gezag een besluit als bedoeld in artikel 13, 13a, 14, eerste lid, of 17 heeft genomen en, nadat dat besluit is genomen, een ander bestuursorgaan ten aanzien van het betrokken bouwwerk, open erf of terrein het bevoegd gezag wordt, is artikel 5.2, tweede lid, van de Wet algemene bepalingen omgevingsrecht op een zodanig besluit van overeenkomstige toepassing. 
+Indien het bevoegd gezag een besluit als bedoeld in artikel 13, 13a, 13b, tweede lid, of 17 heeft genomen en, nadat dat besluit is genomen, een ander bestuursorgaan ten aanzien van het betrokken bouwwerk, open erf of terrein het bevoegd gezag wordt, is artikel 5.2, tweede lid, van de Wet algemene bepalingen omgevingsrecht op een zodanig besluit van overeenkomstige toepassing. 
 
 ### Hoofdstuk  IV  
 
@@ -599,16 +608,16 @@ Een algemene maatregel van bestuur als bedoeld in de artikelen 71a, 71b en 71e, 
 
 ### Artikel  81  
 
-1.  Uit 's Rijks kas kunnen aan gemeenten, plusregio’s als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen of provincies financiële middelen worden verstrekt voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving.   
+1.  Uit 's Rijks kas kunnen aan gemeenten of provincies financiële middelen worden verstrekt voor activiteiten die passen in het rijksbeleid met betrekking tot het bouwen, het wonen en de woonomgeving.   
 2.   Bij of krachtens algemene maatregel van bestuur worden voorschriften gegeven omtrent het verstrekken van financiële middelen, bedoeld in het eerste lid.    
-3.   Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, kunnen voorschriften worden gegeven omtrent het door provincies overdragen van krachtens het tweede lid aan hen toegekende bevoegdheden en verplichtingen aan een gemeente of aan een plusregio. De voorschriften betreffen in elk geval:  
+3.   Bij de algemene maatregel van bestuur, bedoeld in het tweede lid, kunnen voorschriften worden gegeven omtrent het door provincies overdragen van krachtens het tweede lid aan hen toegekende bevoegdheden en verplichtingen aan een gemeente. De voorschriften betreffen in elk geval:  
 
 a. het geval waarin een provincie bevoegdheden en verplichtingen al dan niet dient over te dragen;   
 
 b. de wijze waarop in geval van overdracht verantwoording aan Onze Minister wordt afgelegd.      
-4.   Bij of krachtens de algemene maatregel van bestuur, bedoeld in het tweede lid, kan worden bepaald dat de gemeenteraad, het algemeen bestuur van een plusregio of provinciale staten voorschriften geeft of geven omtrent het door burgemeester en wethouders, het dagelijks bestuur van een plusregio of gedeputeerde staten verstrekken van subsidie ten laste van de uit ’s Rijks kas aan hen verstrekte financiële middelen voor de activiteiten, bedoeld in het eerste lid.    
+4.   Bij of krachtens de algemene maatregel van bestuur, bedoeld in het tweede lid, kan worden bepaald dat de gemeenteraad of provinciale staten voorschriften geeft of geven omtrent het door burgemeester en wethouders, of gedeputeerde staten verstrekken van subsidie ten laste van de uit ’s Rijks kas aan hen verstrekte financiële middelen voor de activiteiten, bedoeld in het eerste lid.    
 5.   Bij algemene maatregel van bestuur kunnen ter bevordering van eenheid in de voorschriften, bedoeld in het vierde lid, regelen worden gegeven omtrent de inhoud van die voorschriften.    
-6.  De gemeenteraad, het algemeen bestuur van een plusregio of provinciale staten brengen de door hen gegeven voorschriften, bedoeld in het vierde lid, binnen zes maanden na het van kracht worden van de algemene maatregel van bestuur, bedoeld in het vijfde lid, in overeenstemming met de bij die algemene maatregel van bestuur gegeven voorschriften.   
+6.  De gemeenteraad of provinciale staten brengen de door hen gegeven voorschriften, bedoeld in het vierde lid, binnen zes maanden na het van kracht worden van de algemene maatregel van bestuur, bedoeld in het vijfde lid, in overeenstemming met de bij die algemene maatregel van bestuur gegeven voorschriften.   
 
 ### Artikel  83  
 
@@ -634,6 +643,13 @@ Onze Minister kan volgens bij ministeriële regeling gegeven voorschriften gelde
 
 1.  Het bevoegd gezag draagt zorg voor de bestuursrechtelijke handhaving van het bepaalde bij of krachtens de hoofdstukken I tot en met III.   
 2.  Met betrekking tot de handhaving van het bepaalde bij of krachtens de hoofdstukken I tot en met III zijn de artikelen 5.2, tweede lid, en 5.3 tot en met 5.25 van de Wet algemene bepalingen omgevingsrecht van toepassing.  
+
+### Artikel  92a  
+
+1.  Het bevoegd gezag kan een bestuurlijke boete opleggen ter zake van een overtreding van het verbod van artikel 1b, indien de overtreder minder dan twee jaar voorafgaande aan die overtreding een overtreding van artikel 1b heeft begaan.   
+2.  De bestuurlijke boete, bedoeld in het eerste lid, bedraagt ten hoogste het bedrag dat is vastgesteld voor de derde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
+3.  Indien de overtreding, bedoeld in het eerste lid, gepaard gaat met een bedreiging van de leefbaarheid of een gevaar voor de gezondheid of veiligheid kan het bevoegd gezag de bestuurlijke boete verhogen tot ten hoogste het bedrag dat is vastgesteld voor de vierde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht.   
+4.  Bij algemene maatregel van bestuur kunnen nadere voorschriften worden gegeven over de hoogte van de bestuurlijke boete.  
 
 ### Artikel  93  
 
@@ -693,14 +709,6 @@ Indien toepassing van bestuursdwang ter handhaving van de bij of krachtens deze 
 
 1.  Onze Minister kan aan een toegelaten instelling die in strijd handelt met het bepaalde bij of krachtens artikel 70, 70a of 70c, of met een maatregel als bedoeld in artikel 70d, tweede lid, tweede volzin, onderdeel a, b of c, een last onder dwangsom opleggen.   
 2.  De verbeurde dwangsom komt toe aan het Centraal Fonds voor de Volkshuisvesting.  
-
-### Artikel  105a  
-
-1. Overtreding van artikel 14, vierde lid, wordt gestraft met geldboete van de eerste categorie. 
-2. Het strafbare feit, bedoeld in het eerste lid, is een overtreding.
-3. Met de opsporing van het bij het eerste lid strafbaar gestelde feit zijn, onverminderd artikel 141 van het Wetboek van Strafvordering, belast de ambtenaren die zijn belast met het toezicht op de naleving van het bepaalde bij of krachtens de hoofdstukken I tot en met III.
-4. Deze ambtenaren zijn tevens belast met de opsporing van de feiten, strafbaar gesteld in de artikelen 179 tot en met 182 en 184 van het Wetboek van Strafrecht, voor zover deze feiten betrekking hebben op een bevel, vordering of handeling, gedaan of ondernomen door henzelf.
-5. Bij het opsporen van het strafbare feit, bedoeld in het eerste lid, hebben de in het derde lid bedoelde ambtenaren toegang tot elke plaats, voor zover dat redelijkerwijs voor de vervulling van hun taak nodig is.
 
 ### Hoofdstuk  IX  
 

@@ -160,9 +160,9 @@ c. uit het laatstelijk voor de vervolging door hem uitgeoefende beroep of bedrij
 6.   Bij de vaststelling van de grondslag voor de vervolgde die vóór het tot uiting komen van de ziekten en gebreken, of de verergering daarvan, door of in verband met het volgen van onderwijs nog geen arbeid in beroep of bedrijf uitoefende, wordt rekening gehouden met de omstandigheden die ten tijde van de aanvraag bedoeld in artikel 30 terzake van invloed zijn. Onze Minister stelt te dien aanzien nadere regelen.    
 7.   De in de vorige leden bedoelde grondslag wordt bepaald op:  
 
-a. tenminste een bedrag van € 1.867,87 per maand per 1 juli 1976 per 1 juli 2014: € 2.058,58 en   
+a. tenminste een bedrag van € 1.867,87 per maand per 1 juli 1976 per 1 januari 2015: € 2.067,64 en   
 
-b. ten hoogste een bedrag van € 3.877,64 per maand per 1 juli 1976 per 1 juli 2014: € 4.273,61.      
+b. ten hoogste een bedrag van € 3.877,64 per maand per 1 juli 1976 per 1 januari 2015: € 4.292,41.      
 8.   Bij algemene maatregel van bestuur wordt bepaald wat onder inkomen uit arbeid in beroep of bedrijf, als bedoeld in het tweede lid, moet worden verstaan.   
 
 ### Artikel  9  
@@ -185,9 +185,9 @@ c. 80% voor de ongehuwde vervolgde met minderjarige kinderen;
 
 d. 75% voor de alleenstaande vervolgde;   
 
-e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.533,89 per maand per 1 juli 1976 per 1 juli 2014: € 2.792,62;   
+e. 75% voor de weduwe en de weduwnaar van de vervolgde met minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.533,89 per maand per 1 juli 1976 per 1 januari 2015: € 2.804,91;   
 
-f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 juli 2014: € 2.598,52.      
+f. 70% voor de weduwe en de weduwnaar van de vervolgde zonder minderjarige kinderen, met dien verstande dat de uitkering ten hoogste wordt bepaald op een bedrag van € 2.357,75 per maand per 1 juli 1976 per 1 januari 2015: € 2.609,95.      
 2. 
 a. De percentages, genoemd in het eerste lid, onder a, b, c en d, worden met 15 verminderd met ingang van de dag waarop de uitkeringsgerechtigde de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, bereikt.   
 
@@ -234,7 +234,7 @@ b.bij het door de gerechtigde bereiken van de pensioengerechtigde leeftijd, bedo
 c.bij veranderingen in de gezinssituatie van de gerechtigde, of
 
 d.indien de Sociale verzekeringsbank van oordeel is dat het niet herzien van het vastgestelde bedrag gelet op het belang dat dit artikel beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard. 
-5.   Indien de in het eerste lid bedoelde kosten van verpleging of verzorging met toepassing van de Algemene Wet Bijzondere Ziektekosten worden betaald en de uitkeringsgerechtigde in die kosten een eigen bijdrage verschuldigd is, wordt op de overeenkomstig het eerste lid vastgestelde uitkering een toeslag verleend gelijk aan het bedrag van de eigen bijdrage.    
+5.   Indien de in het eerste lid bedoelde kosten van verpleging of verzorging met toepassing van de Wet langdurige zorg worden betaald en de uitkeringsgerechtigde in die kosten een eigen bijdrage verschuldigd is, wordt op de overeenkomstig het eerste lid vastgestelde uitkering een toeslag verleend gelijk aan het bedrag van de eigen bijdrage.    
 6.  Op de overeenkomstig het eerste tot en met derde en vijfde lid vastgestelde uitkering worden in mindering gebracht de inkomsten van de uitkeringsgerechtigde en van zijn echtgenoot. De inkomsten uit vermogen worden berekend overeenkomstig het bepaalde in artikel 19, vijfde en negende lid.    
 7.  Het eerste, tweede, vijfde en zesde lid zijn niet van toepassing indien de uitkeringsgerechtigde op 31 december 2000 verbleef in een verzorgingshuis als bedoeld in artikel 1, eerste lid, onder b, van de Overgangswet verzorgingshuizen zoals dat luidde voor het vervallen van deze bepaling.  
 
@@ -264,9 +264,7 @@ d.indien de Sociale verzekeringsbank van oordeel is dat het niet herzien van het
 
 a. voor de gehuwde uitkeringsgerechtigde 60% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in artikel 9, eerste lid, onder b, van de Algemene Ouderdomswet, vermeerderd met de vakantie-uitkering, bedoeld in artikel 29 van die wet;  
 
-b. voor de ongehuwde uitkeringsgerechtigde, die tevens een pensioengerechtigde is als bedoeld in artikel 9, eerste lid, onder c, van de Algemene Ouderdomswet, 20% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in artikel 9, eerste lid, onder c, van die wet, vermeerderd met de vakantie-uitkering, bedoeld in artikel 29 van die wet;  
-
-c. voor de ongehuwde uitkeringsgerechtigde, anders dan die, bedoeld onder b, 20% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in artikel 9, eerste lid, onder a, van de Algemene Ouderdomswet, vermeerderd met de vakantie-uitkering, bedoeld in artikel 29 van die wet.     
+b. voor de ongehuwde uitkeringsgerechtigde 20% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in artikel 9, eerste lid, onder a, van de Algemene Ouderdomswet, vermeerderd met de vakantie-uitkering, bedoeld in artikel 29 van die wet.     
 2.  De in het eerste lid bedoelde toeslag wordt niet verleend aan de gehuwde uitkeringsgerechtigde, van wie de echtgenoot recht heeft op enig pensioen en ten aanzien van wie artikel 19, achtste lid, wordt toegepast.   
 3.  Onder enig pensioen als bedoeld in het tweede lid wordt verstaan, een pensioen ten laste van de Nederlandse Schatkist of die van de Nederlandse Antillen of Aruba, van een publiekrechtelijk lichaam of een privaatrechtelijke rechtspersoon in Nederland, de Nederlandse Antillen of Aruba, dan wel ten laste van een door het openbaar gezag in Nederland, de Nederlandse Antillen of Aruba ingesteld fonds, alsmede een uitkering ingevolge deze wet of de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.  
 
@@ -304,7 +302,7 @@ d. de overige inkomsten, met uitzondering van inkomsten van de echtgenoot van de
 2.   Bij de toepassing van het bepaalde in het eerste lid, onder a, b en d, worden jaarlijkse vakantie-uitkeringen van de uitkeringsgerechtigde voor 1/12 deel per maand op de uitkering in mindering gebracht.    
 3.  Met inkomsten uit tegenwoordige arbeid worden gelijkgesteld uitkeringen op grond van de Ziektewet en de Werkloosheidswet, alsmede de daarmede vergelijkbare uitkeringen welke worden verleend aan het overheidspersoneel.    
 4.   Indien toepassing is gegeven aan artikel 11 worden de inkomsten uit arbeid in beroep of bedrijf in mindering gebracht voorzover de som van de uitkering en die inkomsten de grondslag, bedoeld in artikel 8, overtreft.    
-5.  De inkomsten uit vermogen, bedoeld in het eerste lid, onder c, worden berekend naar het vermogen dat de uitkeringsgerechtigde en zijn echtgenoot op het tijdstip van de aanvraag, bedoeld in artikel 30, bezitten. Deze inkomsten worden op jaarbasis bepaald op een percentage van dat vermogen dat gelijk is aan het forfaitaire rendementspercentage, genoemd in artikel 5.2 van de Wet inkomstenbelasting 2001, met dien verstande dat van het aldus berekende bedrag f 1428 per 1 januari 2014: € 850,63 per jaar wordt vrijgelaten.   
+5.  De inkomsten uit vermogen, bedoeld in het eerste lid, onder c, worden berekend naar het vermogen dat de uitkeringsgerechtigde en zijn echtgenoot op het tijdstip van de aanvraag, bedoeld in artikel 30, bezitten. Deze inkomsten worden op jaarbasis bepaald op een percentage van dat vermogen dat gelijk is aan het forfaitaire rendementspercentage, genoemd in artikel 5.2 van de Wet inkomstenbelasting 2001, met dien verstande dat van het aldus berekende bedrag f 1428 per 1 januari 2015: € 859,57 per jaar wordt vrijgelaten.   
 6.   Bij bedrijfsbeëindiging vindt het bepaalde in het eerste lid, onder *c* en het vijfde lid, van dat tijdstip af overeenkomstige toepassing.    
 7.   Tot de inkomsten bedoeld in het eerste lid worden niet gerekend doelgerichte subsidies of tegemoetkomingen, waaronder begrepen de vermeerdering, bedoeld in de artikelen 10 en 11 van de Wet buitengewoon pensioen 1940-1945, de artikelen 9 en 10 van de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers en de artikelen 12, 13 en 14 van de Wet buitengewoon pensioen Indisch verzet, voorzover deze de toeslag, bedoeld in artikel 10, derde lid, of het bedrag, bedoeld in artikel 21b , indien dit is toegekend, overschrijdt.    
 8.   Indien de echtgenoot van de uitkeringsgerechtigde eveneens recht heeft op enig pensioen als bedoeld in artikel 17, derde lid, en op dat pensioen een vermindering is toegepast uit hoofde van recht op ouderdomspensioen ingevolge de Algemene Ouderdomswet van tenminste 40% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in artikel 9, eerste lid, onder b, van de Algemene Ouderdomswet, vermeerderd met 40% van de vakantie-uitkering, bedoeld in artikel 29 van die wet, zijn het eerste tot en met achtste lid van toepassing, met dien verstande dat, in afwijking van het eerste lid, onder b, op schriftelijk verzoek van de uitkeringsgerechtigde 50% van het aan de uitkeringsgerechtigde en de echtgenoot toegekende bruto-ouderdomspensioen krachtens de Algemene Ouderdomswet, met inbegrip van de vakantie-uitkering, bedoeld in artikel 29 van die wet, op de uitkering in mindering wordt gebracht.    
@@ -561,7 +559,7 @@ Eenmalige uitkeringen op grond van wettelijke voorzieningen, verstrekt voor hetz
 
 ### Artikel  60a  
 
-Indien aan de uitkeringsgerechtigde, in afwachting van de toekenning van een uitkering, vergoeding of tegemoetkoming ingevolge deze wet, door burgemeester en wethouders een uitkering is verleend krachtens de Wet werk en bijstand, wordt de uitkering, vergoeding of tegemoetkoming ingevolge deze wet verminderd met de kosten van bijstand, welke voor overeenkomstige voorzieningen zijn gemaakt over dezelfde periode waarover de uitkering, vergoeding of tegemoetkoming wordt verleend, terwijl de som welke in mindering wordt gebracht, wordt uitbetaald aan de betrokken gemeente.  
+Indien aan de uitkeringsgerechtigde, in afwachting van de toekenning van een uitkering, vergoeding of tegemoetkoming ingevolge deze wet, door burgemeester en wethouders een uitkering is verleend krachtens de Participatiewet, wordt de uitkering, vergoeding of tegemoetkoming ingevolge deze wet verminderd met de kosten van bijstand, welke voor overeenkomstige voorzieningen zijn gemaakt over dezelfde periode waarover de uitkering, vergoeding of tegemoetkoming wordt verleend, terwijl de som welke in mindering wordt gebracht, wordt uitbetaald aan de betrokken gemeente.  
 
 ### Artikel  61  
 

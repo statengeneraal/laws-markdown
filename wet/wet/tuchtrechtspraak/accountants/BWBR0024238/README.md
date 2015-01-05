@@ -48,7 +48,7 @@ b. berisping;
 
 c. geldboete;  
 
-d. tijdelijke doorhaling van de inschrijving van de accountant in het register voor ten hoogste één jaar;  
+d. tijdelijke doorhaling van de inschrijving van de accountant in de registers voor ten hoogste één jaar;  
 
 e. doorhaling van de inschrijving van de accountant in de registers.     
 2.  Een geldboete kan gezamenlijk met een tuchtrechtelijke maatregel als genoemd in het eerste lid onder a, b, d en e, worden opgelegd.   
@@ -178,7 +178,7 @@ Bij ministeriële regeling kunnen regels worden gesteld voor de inrichting van d
 
 ### Artikel  21d  
 
-1.  De secretaris van de accountantskamer bewaart en registreert de beslissingen van de accountantskamer en de beslissingen die het College op basis van artikel 43 in hoger beroep heeft gedaan.   
+1.  De secretaris van de accountantskamer bewaart en registreert de beslissingen van de accountantskamer en de beslissingen die het College op basis van de artikelen 43 tot en met 43j in hoger beroep heeft gedaan.   
 2.  De secretaris van de accountantskamer verstrekt desgevraagd aan de accountantskamer en het College, de leden van de rechterlijke macht en de ambtenaren van het openbaar ministerie inlichtingen omtrent beslissingen.   
 3.  Bij algemene maatregel van bestuur kunnen omtrent het in het eerste en het tweede lid bepaalde nadere regels worden gesteld. Daarbij kunnen de in het eerste lid gestelde verplichtingen, voor zover zulks uit het oogpunt van een goede rechtsbedeling toelaatbaar is, worden beperkt.  
 
@@ -222,7 +222,6 @@ Een lid dan wel plaatsvervangend lid van de accountantskamer dat accountant is, 
 4.  De voorzitter van de accountantskamer kan de termijn genoemd in de voorgaande leden verlengen indien het de voorzitter van de accountantskamer blijkt dat daar aanleiding toe is.  
 
 ### Artikel  25a  
-Treedt in werking per 01-01-2015 
 
 1.  De secretaris van de accountantskamer doet periodiek opgave van ingediende klachten, met een beschrijving van de aard en inhoud van de klacht, aan: 
 
@@ -237,7 +236,7 @@ b. de beroepsorganisatie, voor zover het betreft klachten waarbij een vermoeden 
 
 ### Artikel  26  
 
-1.  De betrokkene wordt binnen een termijn van ten hoogste tien weken nadat de zaak bij de accountantskamer aanhangig is gemaakt opgeroepen om op een door de voorzitter te bepalen dag en uur ter zitting te verschijnen. Indien de voorzitter van de accountantskamer gebruik maakt van de bevoegdheid in artikel 25, kan hij bepalen dat de termijn van tien weken wordt verlengd, waarbij de termijn voor verlenging niet langer kan zijn dan de tijd die is gebruikt voor de procedure in artikel 25.   
+1.  De betrokkene wordt binnen een termijn van ten hoogste tien weken nadat de zaak bij de accountantskamer aanhangig is gemaakt opgeroepen om op een door de voorzitter te bepalen dag en uur ter zitting te verschijnen. De voorzitter van de accountantskamer kan deze termijn verlengen indien het hem blijkt dat daar aanleiding toe is.   
 2.  De oproeping wordt ten minste vier weken voor de dag van de zitting aan de betrokkene gezonden en vermeldt de plaats van de zitting.   
 3.  De oproeping gaat vergezeld van een afschrift van het in artikel 22 bedoelde klaagschrift en van alle op de zaak betrekking hebbende stukken.   
 4.  De oproeping houdt in: 
@@ -271,7 +270,6 @@ b. de mededeling dat de betrokkene bevoegd is getuigen en deskundigen ter zittin
 8.  De accountantskamer kan bepalen dat de verklaring van een partij, getuige of deskundige geheel in het proces-verbaal zal worden opgenomen. In dat geval wordt de verklaring onverwijld op schrift gesteld en aan de partij, getuige of deskundige voorgelezen. Deze mag daarin wijzigingen aanbrengen, die op schrift worden gesteld en aan de partij, getuige of deskundige worden voorgelezen. De verklaring wordt door de partij, getuige of deskundige ondertekend. Heeft ondertekening niet plaats, dan wordt de reden daarvan in het proces-verbaal vermeld.  
 
 ### Artikel  29a  
-Treedt in werking per 01-01-2015 
 
 1.  De voorzitter van de accountantskamer kan, indien daarvoor gewichtige redenen bestaan, ambtshalve of op verzoek van klager of betrokkene bepalen dat tijdens de klachtprocedure ingediende stukken of gegeven inlichtingen dan wel onderdelen daarvan uitsluitend ter kennisneming van de partijen staan en niet door hen aan anderen mogen worden verstrekt of anderszins openbaar worden gemaakt.   
 2.  Het eerste lid geldt niet ten aanzien van stukken of inlichtingen die partijen op grond van een wettelijk voorschrift verplicht zijn aan anderen te verstrekken of openbaar te maken, en stukken of inlichtingen die reeds openbaar zijn dan wel in de uitspraak van de accountantskamer of in hoger beroep van het College openbaar worden gemaakt.   
@@ -365,7 +363,7 @@ b. de voorzitter van de beroepsorganisatie, ingeval jegens de betrokkene een ern
 5.  Ingeval de accountantskamer naar aanleiding van de in artikel 31, eerste lid, van de Wet toezicht accountantsorganisaties of artikel 42, eerste lid, van de Wet op het accountantsberoep bedoelde overtredingen beslist tot het opleggen van een tijdelijke doorhaling van de inschrijving gedurende een bepaalde termijn, kan zij de periode van tijdelijke doorhaling ingevolge het eerste lid in mindering brengen op die termijn.   
 6.  Het eerste lid is van overeenkomstige toepassing, indien tegen betrokkene een strafrechtelijke vervolging ter zake van een misdrijf is ingesteld en het misdrijf mede het uitoefenen van het beroep van betrokkene raakt.   
 7.  In het geval de inschrijving tijdelijk wordt doorgehaald blijft betrokkene ter zake van handelingen en gedragingen, die gedurende de tijd, dat hij ingeschreven stond, hebben plaats gehad, aan tuchtrechtspraak onderworpen.   
-8.  Tegen de bij wijze van voorlopige voorziening opgelegde maatregel van doorhaling staat beroep open bij het College. Artikel 43 is van overeenkomstige toepassing.  
+8.  Tegen de bij wijze van voorlopige voorziening opgelegde maatregel van doorhaling staat beroep open bij het College. De artikelen 43 tot en met 43j zijn van overeenkomstige toepassing.  
 
 ### Artikel  42  
 
@@ -377,7 +375,7 @@ b. de uitspraak van de accountantskamer onherroepelijk wordt; of
 
 c. de tijdelijke doorhaling in hoger beroep wordt vernietigd; of  
 
-d. het College de zaak zelf afdoet op grond van artikel 40, eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004.   
+d. het College de zaak zelf afdoet op grond van artikel 43i, eerste lid.   
 
 ### Hoofdstuk  V  
 
@@ -385,15 +383,74 @@ d. het College de zaak zelf afdoet op grond van artikel 40, eerste lid, van de W
 
 ### Artikel  43  
 
-1.  De artikelen 31 tot en met 41 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 zijn ten aanzien van de behandeling van een uitspraak van de accountantskamer in hoger beroep van overeenkomstige toepassing met dien verstande dat: 
+1.  De betrokkene, de klager of de beroepsorganisatie kunnen ieder binnen zes weken na de dag van verzending van de uitspraak van de accountantskamer hoger beroep instellen bij het College, tenzij tegen die uitspraak verzet kan of kon worden gedaan.   
+2.  Hoger beroep staat niet open tegen een tussenbeslissing van de accountantskamer of van de voorzitter van de accountantskamer, tegen de uitspraak, bedoeld in artikel 38a.   
+3.  Het College informeert de accountantskamer, de Autoriteit Financiële Markten en de beroepsorganisatie, over het feit dat hoger beroep is ingesteld en vermeldt daarbij welke zaak het betreft.  
 
-a. in plaats van «de voorzitter van het bedrijfslichaam» wordt gelezen: de klager of de voorzitter van de beroepsorganisatie;  
+### Artikel  43a  
 
-b. in plaats van «het tuchtgerecht» wordt gelezen: de accountantskamer;  
+1.  Het hoger beroep wordt ingesteld door het indienen van een beroepschrift bij het College.   
+2.  Het beroepschrift is ondertekend en bevat de gronden van het hoger beroep.   
+3.  De griffier zendt binnen een week na ontvangst van het beroepschrift een afschrift daarvan aan de accountantskamer en aan de betrokkene, dan wel de klager of, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie.  
 
-c. in plaats van «het betrokken tuchtgerecht» wordt gelezen: de accountantskamer.     
-2.  Hoger beroep staat niet open tegen een tussenbeslissing van de accountantskamer of van de voorzitter van de accountantskamer, tegen de uitspraak, bedoeld in artikel 38a en tegen de verklaring, bedoeld in artikel 42a.   
-3.  Het College informeert de accountantskamer, de Autoriteit Financiële Markten en de voorzitter van de beroepsorganisatie, over het feit dat beroep is ingesteld en vermeldt daarbij welke zaak het betreft.  
+### Artikel  43b  
+
+De accountantskamer doet binnen drie weken na ontvangst van het afschrift van het beroepschrift, bedoeld in artikel 43a, derde lid, de stukken toekomen aan de griffier van het College. 
+
+### Artikel  43c  
+
+1.  Als het hoger beroep kennelijk niet-ontvankelijk of kennelijk ongegrond is, kan het College of de president zonder nader onderzoek door het College uitspraak doen. De uitspraak wordt onverwijld aan betrokkene, de klager, de accountantskamer, de Autoriteit Financiële Markten en de beroepsorganisatie gezonden.   
+2.  Tegen de uitspraak, bedoeld in het eerste lid, kan betrokkene dan wel de klager of, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie binnen zes weken na de dag van verzending van de uitspraak verzet doen bij het College. Artikel 43a is van overeenkomstige toepassing.   
+3.  Het College verklaart het verzet niet-ontvankelijk, ongegrond of gegrond. Indien het verzet gegrond wordt verklaard, vervalt de uitspraak en wordt de behandeling van de zaak voortgezet. De laatste zin van het eerste lid is van toepassing.   
+4.  Als het hoger beroep kennelijk niet-ontvankelijk of ongegrond is, kan het College het verzet niet-ontvankelijk of ongegrond verklaren, echter niet dan na betrokkene dan wel de klager of, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie in de gelegenheid te hebben gesteld te worden gehoord.   
+5.  De uitspraak op het verzet wordt onverwijld aan betrokkene, de klager, de accountantskamer, de Autoriteit Financiële Markten en de beroepsorganisatie gezonden.  
+
+### Artikel  43d  
+
+1.  Tenzij artikel 43c, eerste lid wordt toegepast, bepaalt de president de dag voor de behandeling van de zaak. De betrokkene, de klager en, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie worden uitgenodigd om op een in de uitnodiging te vermelden plaats en tijdstip op een zitting van het College te verschijnen.   
+2.  Voor de behandeling ter terechtzitting worden de processtukken gedurende ten minste een week ter griffie of elders ter kosteloze inzage voor betrokkene, de klager en, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie dan wel voor hun gemachtigden nedergelegd. De nederlegging wordt door de griffier tijdig ter kennis van betrokkene, de klager en, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie gebracht.   
+3.  De in het vorige lid bedoelde termijn kan met toestemming van betrokkene, de klager en, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie worden verkort.   
+4.  Is de termijn niet in acht genomen, dan bepaalt het College een nieuwe rechtsdag, tenzij betrokkene in persoon of bij gemachtigde is verschenen. In dit laatste geval kan op zijn verzoek uitstel worden verleend.   
+5.  In de gevallen, waarin op de terechtzitting de behandeling van de zaak voor een bepaalde tijd wordt uitgesteld of geschorst, wordt geen nieuwe kennisgeving gedaan.  
+
+### Artikel  43e  
+
+1.  Op het rechtsgeding zijn de artikelen 28, eerste en tweede lid, 29, 31 tot en met 35, 36, eerste, derde en vierde lid en 37 van overeenkomstige toepassing, met dien verstande dat: 
+
+a. in de artikelen 29 en 34, 36, eerste, derde en vierde lid en 37, in plaats van «betrokkene of de klager» wordt gelezen: betrokkene, de klager of, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie;  
+
+b. in artikel 31 in plaats van «de betrokkene en de klager» wordt gelezen: de betrokkene, de klager en, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie, en de termijn genoemd in artikel 26, tweede en vijfde lid, twee weken bedraagt;  
+
+c. in artikel 33 voor «de betrokkene» tevens wordt gelezen: de klager of, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie.     
+2.  Het College houdt zitting met drie of vijf leden, onder wie de voorzitter of een plaatsvervangend voorzitter.   
+3.  Ieder, die als getuige is opgeroepen, is verplicht voor het College te verschijnen. Artikel 27, tweede lid, is van overeenkomstige toepassing, met dien verstande dat in plaats van «arrondissementsparket Oost-Nederland» wordt gelezen: arrondissementsparket Den Haag.  
+
+### Artikel  43f  
+
+Aan betrokkene, de klager en, indien de beroepsorganisatie partij is in het hoger beroep, de beroepsorganisatie dan wel aan hun gemachtigden en aan de raadsman wordt de gelegenheid gegeven het woord te voeren en de gronden van het hoger beroep toe te lichten. 
+
+### Artikel  43g  
+
+Na de behandeling van de zaak ter terechtzitting bepaalt de voorzitter de dag voor de uitspraak, tenzij het College onmiddellijk mondeling uitspraak doet. 
+
+### Artikel  43h  
+
+1.  Het College verklaart het hoger beroep niet-ontvankelijk, ongegrond of gegrond.   
+2.  Indien het College niet voldoende is ingelicht, kan het bevelen, dat de behandeling der zaak op een nader te bepalen datum zal worden hervat.  
+
+### Artikel  43i  
+
+1.  Indien het College het hoger beroep gegrond verklaart, vernietigt het de uitspraak van de accountantskamer. In dat geval doet het College de zaak zelf af of verwijst haar naar de accountantskamer om haar af te doen met inachtneming van de beslissing van het College.   
+2.  Indien een nader onderzoek noodzakelijk is en het College de zaak zelf afdoet, geschiedt de oproeping overeenkomstig artikel 26.  
+
+### Artikel  43j  
+
+1.  Het College doet schriftelijk uitspraak.   
+2.  De uitspraak houdt in de beslissing omtrent het opleggen van de tuchtrechtelijke maatregel, de gronden en de voorschriften waarop zij berust.   
+3.  Het College spreekt de beslissing, bedoeld in het tweede lid, in het openbaar uit.   
+4.  In afwijking van het eerste lid kan het College na sluiting van het onderzoek ter zitting onmiddellijk mondeling uitspraak doen.   
+5.  Van de mondelinge uitspraak wordt door de griffier een proces-verbaal opgemaakt.   
+6.  De uitspraak wordt onverwijld aan betrokkene, de klager, de accountantskamer, de Autoriteit Financiële Markten en de beroepsorganisatie gezonden.  
 
 ### Artikel  44  
 
@@ -415,15 +472,15 @@ De tijdelijke doorhaling van de inschrijving, bedoeld in artikel 44, eerste lid,
 
 a. het College op grond van artikel 44, tweede lid, de tijdelijke doorhaling opheft; of  
 
-b. het College de zaak zelf afdoet op grond van artikel 40, eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004; of  
+b. het College de zaak zelf afdoet op grond van artikel 43i, eerste lid; of  
 
-c. de Accountantskamer, nadat de zaak op grond van artikel 40, eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 ter afdoening naar de Accountantskamer is verwezen, de tijdelijke doorhaling opheft; of  
+c. de accountantskamer, nadat de zaak op grond van artikel 43i, eerste lid, ter afdoening naar de accountantskamer is verwezen, de tijdelijke doorhaling opheft; of  
 
-d. het vonnis van de Accountantskamer onherroepelijk wordt nadat de Accountantskamer de zaak die op grond van artikel 40, eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 ter afdoening naar de Accountantskamer verwezen is, heeft behandeld.   
+d. het vonnis van de accountantskamer onherroepelijk wordt nadat de accountantskamer de zaak die op grond van artikel 43i, eerste lid, ter afdoening naar de accountantskamer verwezen is, heeft behandeld.   
 
 ### Artikel  46  
 
-1.  Het College informeert terstond na het doen van de uitspraak de Accountantskamer, de Autoriteit Financiële Markten en de voorzitter van de beroepsorganisatie omtrent de naam van betrokkene en de aard van de opgelegde tuchtrechtelijke maatregel.   
+1.  Het College informeert terstond na het doen van de uitspraak de accountantskamer, de Autoriteit Financiële Markten en de voorzitter van de beroepsorganisatie omtrent de naam van betrokkene en de aard van de opgelegde tuchtrechtelijke maatregel.   
 2.  De Autoriteit Financiële Markten en de voorzitter van de beroepsorganisatie dragen zorg voor de opname van de opgelegde tuchtrechtelijke maatregel in de registers.  
 
 ### Hoofdstuk  VI  

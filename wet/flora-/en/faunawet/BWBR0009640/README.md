@@ -1063,11 +1063,6 @@ Voorzover in dit hoofdstuk is voorzien in besluiten van Onze Minister en gedeput
 
 ####Overige bepalingen 
 
-### Artikel  101  
-
-1.  Bij of krachtens algemene maatregel van bestuur kan ter uitvoering van het bepaalde bij of krachtens deze wet medewerking worden gevorderd van het bestuur van een productschap of een bedrijfschap.    
-2.  Indien de van het bestuur van een productschap of een bedrijfschap gevorderde medewerking bestaat uit het stellen van nadere regels bij verordening, behoeft zodanige verordening de goedkeuring van Onze Minister.   
-
 ### Artikel  102  
 
 1.  Onze Minister kan door hem erkende rechtspersoonlijkheid bezittende organisaties belasten met de taak overeenkomstig door hem gestelde regels ringen of merktekens uit te reiken ten behoeve van het onder zich hebben van jachtvogels of van beschermde inheemse diersoorten.    

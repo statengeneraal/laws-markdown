@@ -56,7 +56,7 @@ q. Zorgverzekeringsfonds: het fonds, genoemd in artikel 39;
 
 r. eerste richtlijn schadeverzekering: richtlijn nr. 73/239/EEG van de Raad van de Europese Gemeenschappen van 24 juli 1973 tot coördinatie van de wettelijke en bestuursrechtelijke bepalingen betreffende de toegang tot het directe verzekeringsbedrijf, met uitzondering van de levensverzekeringsbranche en de uitoefening daarvan (PbEG L 228);  
 
-s. vervallen;  
+s.  Wlz-uitvoerder: de rechtspersoon, bedoeld in artikel 1.1.1 van de Wet langdurige zorg;  
 
 t.loontijdvak: het loontijdvak, bedoeld in artikel 25, eerste en vierde lid, van de Wet op de loonbelasting 1964; 
 
@@ -64,11 +64,11 @@ u. inspecteur: de functionaris van de rijksbelastingdienst die als zodanig bij r
 
 v. burgerservicenummer: het nummer, bedoeld in artikel 1, onderdeel b, van de Wet algemene bepalingen burgerservicenummer;  
 
-w. het CAK: het CAK, genoemd in artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten; 
+w. premie: de premie, bedoeld in afdeling 3.3.1;  
 
-x. premie: de premie, bedoeld in afdeling 3.3.1;  
+x. bestuursrechtelijke premie: de premie, bedoeld in de artikelen 18d en 18e; 
 
-y. bestuursrechtelijke premie: de premie, bedoeld in de artikelen 18d en 18e; 
+y.door verlettering vervallen;
 
 z.  professionele standaard: richtlijnen, modules, normen, zorgstandaarden dan wel organisatiebeschrijvingen die betrekking hebben op het gehele zorgproces of een deel van een specifiek zorgproces en die vastleggen wat noodzakelijk is om vanuit het perspectief van de cliënt goede zorg te verlenen;  
 
@@ -84,12 +84,12 @@ aa.  meetinstrument: een middel waarmee een indicatie kan worden verkregen van d
 
 ### Artikel  2  
 
-1.  Degene die ingevolge de Algemene Wet Bijzondere Ziektekosten en de daarop gebaseerde regelgeving van rechtswege verzekerd is, is verplicht zich krachtens een zorgverzekering te verzekeren of te laten verzekeren tegen het in artikel 10 bedoelde risico.   
+1.  Degene die ingevolge de Wet langdurige zorg en de daarop gebaseerde regelgeving van rechtswege verzekerd is, is verplicht zich krachtens een zorgverzekering te verzekeren of te laten verzekeren tegen het in artikel 10 bedoelde risico.   
 2.  In afwijking van het eerste lid is niet verzekeringsplichtig: 
 
 a. de militaire ambtenaar in werkelijke dienst als bedoeld in artikel 1, eerste lid, onderdeel a juncto onderdeel b, van de Militaire ambtenarenwet 1931, alsmede de militair aan wie buitengewoon verlof met behoud van militaire inkomsten is verleend;  
 
-b. de natuurlijke persoon die op grond van artikel 64, eerste lid, van de Wet financiering sociale verzekeringen is ontheven van de verplichtingen, opgelegd op grond van de Algemene Wet Bijzondere Ziektekosten.     
+b. de natuurlijke persoon die op grond van artikel 64, eerste lid, van de Wet financiering sociale verzekeringen is ontheven van de verplichtingen, opgelegd op grond van de Wet langdurige zorg.     
 3.  Degene die het gezag over een minderjarige, jonger dan achttien jaar, uitoefent, een curator, een bewindvoerder of een mentor als bedoeld in de titels 16, 19 of 20 van Boek 1 van het Burgerlijk Wetboek, zorgt ervoor dat de minderjarige verzekeringsplichtige, dan wel de onder curatele, bewind of mentorschap gestelde verzekeringsplichtige krachtens een zorgverzekering verzekerd is.  
 
 ###Paragraaf 2.2 
@@ -252,7 +252,7 @@ f. verzorging, waaronder de kraamzorg;
 
 g. verblijf in verband met geneeskundige zorg;  
 
-h. vervoer in verband met het ontvangen van zorg of diensten als bedoeld in de onderdelen a tot en met g, dan wel in verband met een aanspraak op grond van de Algemene Wet Bijzondere Ziektekosten.   
+h. vervoer in verband met het ontvangen van zorg of diensten als bedoeld in de onderdelen a tot en met g, dan wel in verband met een recht op zorg op grond van de Wet langdurige zorg.   
 
 ### Paragraaf  3.2  
 
@@ -295,10 +295,14 @@ c. nadere regels kunnen worden gesteld over het deel van de kosten dat voor reke
 
 1.  De vraag of een verzekerde behoefte heeft aan een bepaalde vorm van zorg of een bepaalde andere dienst, wordt slechts op basis van zorginhoudelijke criteria beantwoord.  
 2. De zorgverzekeraar neemt in zijn modelovereenkomst op dat geneeskundige zorg zoals medisch-specialisten die plegen te bieden, met uitzondering van acute zorg, slechts toegankelijk is na verwijzing door in die overeenkomst aangewezen categorieën zorgaanbieders, waaronder in ieder geval de huisarts. 
-3.  De vraag of een jeugdige als bedoeld in de Wet op de jeugdzorg wegens een psychiatrische aandoening behoefte heeft aan een bepaalde vorm van zorg of een andere dienst, wordt met overeenkomstige toepassing van de bij en krachtens artikel 9b, vierde en vijfde lid, van de Algemene Wet Bijzondere Ziektekosten gestelde regels, beantwoord door een stichting als bedoeld in de Wet op de jeugdzorg respectievelijk een arts of andere behandelaar van de jeugdige.   
-4.  In de regels, bedoeld in het derde lid, kunnen voor de in dat lid bedoelde indicatie afzonderlijke regels worden gesteld en kunnen vormen van zorg of andere diensten worden aangewezen waarvoor het derde lid niet geldt. 
-5. Op een stichting als bedoeld in het derde lid, is, met uitzondering van de bewaartermijn als omschreven in artikel 86, eerste lid, het bepaalde bij of krachtens de artikelen 4, tweede tot en met vijfde lid, en 86 van overeenkomstige toepassing met betrekking tot de indicatie, bedoeld in het derde lid.
-6. Voor zover een verzekerde ingevolge zijn zorgverzekering toestemming behoeft van de zorgverzekeraar dan wel een verwijzing of een recept van een deskundige is vereist voor het verkrijgen van de verzekerde prestaties, en de verzekerde in het bezit is van deze toestemming, deze verwijzing of dit recept, geldt die toestemming, die verwijzing of dat recept als titel voor het verkrijgen van de verzekerde prestaties gedurende de periode waarvoor de toestemming is verleend of de verwijzing of het recept geldig is, en verlangt een nieuwe verzekeraar niet dat nogmaals toestemming wordt gevraagd of dat een verwijzing of recept wordt overgelegd.
+3.  De zorgverzekeraar draagt er zorg voor dat zijn modelovereenkomst aansluit bij de afspraken, bedoeld in artikel 2.7, vierde lid, van de Jeugdwet.   
+4.  De zorgverzekeraar stemt de wijze waarop hij zijn verantwoordelijkheden op grond van deze wet uitvoert, af met de colleges van burgemeester en wethouders met het oog op de wettelijke verantwoordelijkheden van die laatsten. 
+5. Voor zover een verzekerde ingevolge zijn zorgverzekering toestemming behoeft van de zorgverzekeraar dan wel een verwijzing of een recept van een deskundige is vereist voor het verkrijgen van de verzekerde prestaties, en de verzekerde in het bezit is van deze toestemming, deze verwijzing of dit recept, geldt die toestemming, die verwijzing of dat recept als titel voor het verkrijgen van de verzekerde prestaties gedurende de periode waarvoor de toestemming is verleend of de verwijzing of het recept geldig is, en verlangt een nieuwe verzekeraar niet dat nogmaals toestemming wordt gevraagd of dat een verwijzing of recept wordt overgelegd.
+
+### Artikel  14a  
+
+1.  De zorgverzekeraar zorgt dat zijn modelovereenkomst aansluit bij de gemaakte afspraken, bedoeld in artikel 5.4.1, van de Wet maatschappelijke ondersteuning.   
+2.  De zorgverzekeraar stemt de wijze waarop hij zijn taken op grond van deze wet uitvoert af met de colleges van burgemeester en wethouders, met het oog op de wettelijke taken van die laatsten op grond van de Wet maatschappelijke ondersteuning.  
 
 ### Artikel  15  
 
@@ -435,7 +439,7 @@ Gedurende de eerste twaalf maanden waarover een verzekering als bedoeld in artik
 
 ###Artikel 19 
 
-1. Iedere verzekerde van achttien jaar of ouder heeft een verplicht eigen risico van € 360 per kalenderjaar. 
+1. Iedere verzekerde van achttien jaar of ouder heeft een verplicht eigen risico van € 375 per kalenderjaar. 
 2. Het bedrag, genoemd in het eerste lid, wordt jaarlijks geïndexeerd overeenkomstig het verschil in geraamde uitgaven voor de zorg en overige diensten, bedoeld in artikel 11, tussen het kalenderjaar waarop het verplicht eigen risico betrekking zal hebben en vergelijkbare uitgaven voor het jaar voorafgaand aan dat kalenderjaar. 
 3. Indien het geïndexeerde bedrag naar beneden afgerond € 5 of een veelvoud daarvan verschilt van het in het eerste lid genoemde bedrag, wordt dit bedrag bij ministeriële regeling gewijzigd, waarna het in die regeling genoemde bedrag in de plaats treedt van het in het eerste lid genoemde bedrag. 
 4. Rekeningen voor kosten van zorg of overige diensten worden slechts op het verplicht eigen risico in mindering gebracht, indien deze door de zorgverzekeraar zijn ontvangen voor een bij algemene maatregel van bestuur te bepalen dag van het kalenderjaar volgend op het kalenderjaar waarop het verplicht eigen risico betrekking heeft. 
@@ -670,6 +674,8 @@ a. de inkomensafhankelijke bijdragen, bedoeld in paragraaf 5.2 en de bijdragever
 
 b. de rijksbijdrage, bedoeld in artikel 54;  
 
+bb. de rijksbijdrage, bedoeld in artikel 54a; 
+
 c. een rijksbijdrage als bedoeld in de artikelen 55 of 56;  
 
 d. een bedrag van iedere rekening, bedoeld in artikel 70, gelijk aan: 
@@ -692,7 +698,7 @@ i. de door de zorgautoriteit van verzekeraars op grond van artikel 83 van de Wet
 
 j. de bijdrage, bedoeld in artikel 87a van de Wet financiering sociale verzekeringen; 
 
-k. door zorgaanbieders ingevolge een regel van de zorgautoriteit op grond van artikel 37, eerste lid, aanhef en onder d, van de Wet marktordening gezondheidszorg dan wel op aanwijzing van de zorgautoriteit op grond van artikel 76, tweede lid, van die wet afgedragen bedragen en door de zorgautoriteit van zorgaanbieders op grond van artikel 81, eerste lid, onder c, van die wet ingevorderde bedragen, voor zover die bedragen niet worden afgedragen aan het Algemeen Fonds Bijzondere Ziektekosten of aan derden.    
+k. door zorgaanbieders ingevolge een regel van de zorgautoriteit op grond van artikel 37, eerste lid, aanhef en onder d, van de Wet marktordening gezondheidszorg dan wel op aanwijzing van de zorgautoriteit op grond van artikel 76, tweede lid, van die wet afgedragen bedragen en door de zorgautoriteit van zorgaanbieders op grond van artikel 81, eerste lid, onder c, van die wet ingevorderde bedragen, voor zover die bedragen niet worden afgedragen aan het Fonds langdurige zorg of aan derden.    
 3.  Ten laste van het Zorgverzekeringsfonds komen: 
 
 a. de bijdragen, bedoeld in de artikelen 32, 33, 34 en 34a;  
@@ -705,11 +711,9 @@ d. uitgaven in verband met molest als bedoeld in artikel 55, inclusief vergoedin
 
 e. de uitgaven die in verband met deze wet voortvloeien uit internationale overeenkomsten;  
 
-f.uitkeringen als bedoeld in artikel 118a;
+f. bedragen als bedoeld in artikel 56a van de Wet marktordening gezondheidszorg; 
 
-g. bedragen als bedoeld in artikel 56a van de Wet marktordening gezondheidszorg; 
-
-h. de door het College zorgverzekeringen op grond van een ministeriële regeling vastgestelde verdeelbedragen, zijnde aan de relevante zorgverzekeraars toegekende delen van de bedragen bedoeld in onderdeel k van het tweede lid.    
+g. de door het College zorgverzekeringen op grond van een ministeriële regeling vastgestelde verdeelbedragen, zijnde aan de relevante zorgverzekeraars toegekende delen van de bedragen bedoeld in onderdeel k van het tweede lid.    
 4.  Uit het Zorgverzekeringsfonds kunnen, volgens bij ministeriële regeling te stellen regels, middelen worden gebruikt voor het vormen en in stand houden van een voor de doelstelling van het fonds noodzakelijke reserve.  
 
 ### Artikel  40  
@@ -807,7 +811,7 @@ De rijksbelastingdienst heft de inkomensafhankelijke bijdrage.
 1.  De door de inhoudingsplichtige verschuldigde inkomensafhankelijke bijdrage wordt geheven met overeenkomstige toepassing van de voor de heffing van loonbelasting geldende regels.   
 2.  Voor zover het bijdrage-inkomen bestaat uit loon als bedoeld in artikel 43, tweede lid, onderdeel a, dat van een inhoudingsplichtige wordt genoten, wordt de inkomensafhankelijke bijdrage bij wijze van inhouding geheven met overeenkomstige toepassing van de voor de heffing van loonbelasting geldende regels.   
 3.  Voor zover het bijdrage-inkomen bestaat uit andere dan de in het tweede lid bedoelde bestanddelen, wordt de inkomensafhankelijke bijdrage bij wege van aanslag geheven met overeenkomstige toepassing van de voor de heffing van de inkomstenbelasting geldende regels, met uitzondering van artikel 3 154 van de Wet inkomstenbelasting 2001.   
-4.  Artikel 13bis, zestiende en twintigste lid, van de Wet op de loonbelasting 1964 is van overeenkomstige toepassing.  
+4.  Artikel 13bis, vijftiende en negentiende lid, van de Wet op de loonbelasting 1964 is van overeenkomstige toepassing.  
 
 ### Artikel  50  
 
@@ -841,7 +845,6 @@ Bij regeling van Onze Minister, in overeenstemming met Onze Minister van Financi
 3.  De bijdrage wordt betaald in gelijke maandelijkse delen.  
 
 ### Artikel  54a  
-Treedt in werking per 01-01-2015 
 
 1.  Onze Minister verleent over de kalenderjaren 2015 tot en met 2018 aan het Zorgverzekeringsfonds een bijdrage in de financiering van de verzekeringsdekking van zorg die tot 1 januari 2015 op grond van de Algemene Wet Bijzondere Ziektekosten verzekerd was.   
 2.  De bijdrage voor het jaar 2015 is gelijk aan het bedrag dat daarvoor in de wet tot vaststelling van de begroting van zijn ministerie voor dat jaar is toegestaan, en de bijdragen voor de jaren 2016, 2017 en 2018 bedragen respectievelijk 75, 50 en 25% van de bijdrage voor het jaar 2015.   
@@ -871,7 +874,7 @@ Indien de situatie, bedoeld in artikel 31, eerste lid, zich heeft voorgedaan, ve
 ### Artikel  57  
 
 1.  Van de persoon die op grond van artikel 2, tweede lid, onderdeel b, niet verzekeringsplichtig is, wordt bijdragevervangende belasting geheven, tot het bedrag van de in artikel 43, tweede lid, bedoelde inkomensafhankelijke bijdrage dat deze persoon verschuldigd zou zijn als hij verzekeringsplichtig zou zijn.   
-2.  In afwijking in zoverre van artikel 43 wordt van de persoon aan wie met toepassing van artikel 64 van de Wet financiering sociale verzekeringen een ontheffing is verleend in het kader van één of meer volksverzekeringen anders dan die volgens de Algemene Wet Bijzondere Ziektekosten, geen inkomensafhankelijke bijdrage geheven maar een bijdragevervangende belasting, tot het bedrag van de inkomensafhankelijke bijdrage, bedoeld in artikel 43, tweede lid.   
+2.  In afwijking in zoverre van artikel 43 wordt van de persoon aan wie met toepassing van artikel 64 van de Wet financiering sociale verzekeringen een ontheffing is verleend in het kader van één of meer volksverzekeringen anders dan die volgens de Wet langdurige zorg, geen inkomensafhankelijke bijdrage geheven maar een bijdragevervangende belasting, tot het bedrag van de inkomensafhankelijke bijdrage, bedoeld in artikel 43, tweede lid.   
 3.  De heffing van de bijdragevervangende belasting vindt plaats met overeenkomstige toepassing van artikel 49, tweede, derde en vierde lid.   
 4.  De rijksbelastingdienst stort de belasting, bedoeld in het eerste lid, op de rekening, bedoeld in artikel 70, eerste dan wel tweede lid. 
 
@@ -989,7 +992,7 @@ c. het inzichtelijk maken van informatie over de kwaliteit van zorg.
 
 Het Zorginstituut bevordert de afstemming van de uitvoering: 
 
-a. van en tussen de zorgverzekering en de algemene verzekering bijzondere ziektekosten, en  
+a. van en tussen de zorgverzekering en de verzekering langdurige zorg, en  
 
 b. van deze verzekeringen met de uitvoering van het beleid op andere terreinen van de volksgezondheid en op andere terreinen van sociale zekerheid.   
 
@@ -1127,13 +1130,13 @@ Na de goedkeuring, bedoeld in artikel 75, eerste lid, en de goedkeuring, bedoeld
 
 1.  Tenzij de verzekerde daarover niet beschikt, neemt de zorgverzekeraar met het oog op de uitvoering van de zorgverzekering en van deze wet het burgerservicenummer van zijn verzekerde en, gedurende zeven jaren na het einde van de verzekering, van zijn gewezen verzekerde in zijn administratie op.  
 2. De zorgverzekeraar stelt bij de eerste opname in zijn administratie en vervolgens indien daartoe aanleiding is het burgerservicenummer van de verzekerde vast met overeenkomstige toepassing van artikel 7 van de Wet gebruik burgerservicenummer in de zorg.
-3. De zorgverzekeraar gebruikt het burgerservicenummer van de verzekerde met het doel te waarborgen dat de in het kader van de verzekering van zorg te verwerken persoonsgegevens op die verzekerde betrekking hebben.
-4. Bij gegevensuitwisseling tussen de zorgverzekeraars en de stichtingen, bedoeld in artikel 14, derde lid, alsmede tussen de zorgverzekeraars en de in de artikelen 88 en 89 genoemde personen en instanties wordt, voor zover die stichtingen, personen en instanties tot gebruik van dat nummer bevoegd zijn, het burgerservicenummer gebruikt.
+3. De zorgverzekeraar gebruikt het burgerservicenummer van de verzekerde met het doel te waarborgen dat de in het kader van de verzekering van zorg te verwerken persoonsgegevens op die verzekerde betrekking hebben. 
+4.  Bij gegevensuitwisseling tussen de zorgverzekeraars en de in de artikelen 88 en 89 genoemde personen en instanties wordt, voor zover die personen en instanties tot gebruik van dat nummer bevoegd zijn, het burgerservicenummer of, bij het ontbreken daarvan, het sociaal-fiscaalnummer gebruikt. 
 5. Het vierde lid is van overeenkomstige toepassing op de gegevensuitwisseling tussen de zorgverzekeraars en de zorgaanbieders, indicatieorganen en zorgverzekeraars in de zin van de Wet gebruik burgerservicenummer in de zorg die niet in de artikelen 88 en 89 zijn genoemd.  
 6.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot het eerste en tweede lid.  
 7. Bij ministeriële regeling kan worden bepaald aan welke beveiligingseisen de gegevensverwerking, bedoeld in het eerste, vierde en vijfde lid, voldoet.
 8. Bij of krachtens algemene maatregel van bestuur kunnen regels gesteld worden over de bij de gegevensuitwisseling, bedoeld in het vierde en vijfde lid, te verwerken feiten of gegevens met betrekking tot verzekerden van wie het vaststellen van het burgerservicenummer onmogelijk blijkt of een onevenredige inspanning kost. Bij of krachtens die maatregel kan worden bepaald aan welke beveiligingseisen de verwerking van die feiten of gegevens voldoet.
-9. Bij algemene maatregel van bestuur kunnen vormen van zorg of andere diensten als bedoeld in artikel 11, alsmede categorieën van zorgverzekeraars, van stichtingen als bedoeld in artikel 14, derde lid, en van in de artikelen 88 en 89 genoemde personen en instanties worden uitgezonderd van de toepassing van het bepaalde bij of krachtens het eerste tot en met het achtste lid.
+9. Bij algemene maatregel van bestuur kunnen vormen van zorg of andere diensten als bedoeld in artikel 11, alsmede categorieën van zorgverzekeraars en van in de artikelen 88 en 89 genoemde personen en instanties worden uitgezonderd van de toepassing van het bepaalde bij of krachtens het eerste tot en met het achtste lid.
 
 ### Artikel  87  
 
@@ -1164,20 +1167,18 @@ e.in welke gevallen gegevens, bedoeld in het eerste of tweede lid, verder worden
 
 ### Artikel  88  
 
-1.  Een ieder verstrekt op verzoek aan de zorgverzekeraars, het Zorginstituut, de zorgautoriteit, Onze Minister, de rijksbelastingdienst, het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank, het college van burgemeester en wethouders, het CAK, of aan een daartoe door of vanwege een van deze zorgverzekeraars of instanties aangewezen persoon kosteloos alle inlichtingen en gegevens, waaronder persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens, die noodzakelijk zijn voor de uitvoering van de zorgverzekeringen of van deze wet.   
+1.  Een ieder verstrekt op verzoek aan de zorgverzekeraars, het Zorginstituut, de zorgautoriteit, Onze Minister, de rijksbelastingdienst, het Uitvoeringsinstituut werknemersverzekeringen, de Sociale verzekeringsbank, het college van burgemeester en wethouders, of aan een daartoe door of vanwege een van deze zorgverzekeraars of instanties aangewezen persoon kosteloos alle inlichtingen en gegevens, waaronder persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens, die noodzakelijk zijn voor de uitvoering van de zorgverzekeringen of van deze wet.   
 2.  De in het eerste lid bedoelde gegevens en inlichtingen worden op verzoek verstrekt in schriftelijke vorm of in een andere vorm die redelijkerwijs kan worden verlangd, binnen een termijn die schriftelijk wordt gesteld bij het in het eerste lid bedoelde verzoek.   
 3.  Een ieder geeft op verzoek van een rechtspersoon als bedoeld in het eerste lid, inzage in alle bescheiden en andere gegevensdragers, stelt deze op verzoek ter beschikking voor het nemen van afschrift en verleent de terzake verlangde medewerking, voor zover dit noodzakelijk is voor de uitvoering van deze wet door de desbetreffende zorgverzekeraars of instanties.   
 4.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste, tweede of derde lid.  
 
 ### Artikel  89  
 
-1.  De in artikel 88, eerste lid, bedoelde zorgverzekeraars en instanties zijn bevoegd uit eigen beweging en verplicht op verzoek binnen een bij dat verzoek genoemde termijn, uit de onder hun verantwoordelijkheid gevoerde administratie, aan elkaar, aan een daartoe door of vanwege hen aangewezen persoon of aan een door Onze Minister aangewezen persoon, kosteloos, de gegevens, waaronder persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens, te verstrekken die noodzakelijk zijn voor de uitvoering van de zorgverzekeringen of van deze wet.   
+1.  De in artikel 88, eerste lid, bedoelde zorgverzekeraars en instanties, alsmede de Wlz-uitvoerders, zijn bevoegd uit eigen beweging en verplicht op verzoek binnen een bij dat verzoek genoemde termijn, uit de onder hun verantwoordelijkheid gevoerde administratie, aan elkaar, aan een daartoe door of vanwege hen aangewezen persoon of aan een door Onze Minister aangewezen persoon, kosteloos, de gegevens, waaronder persoonsgegevens als bedoeld in de Wet bescherming persoonsgegevens, te verstrekken die noodzakelijk zijn voor de uitvoering van de zorgverzekeringen of van deze wet, of voor de onderlinge afstemming van op grond van de zorgverzekering verzekerde zorg en zorg die is verzekerd op grond van de Wet langdurige zorg.   
 2.  Een zorgverzekeraar verleent op verzoek van het Zorginstituut dan wel van de zorgautoriteit aan door het desbetreffende bestuursorgaan aangewezen personen inzage in alle bescheiden en andere gegevensdragers, stelt deze op verzoek ter beschikking voor het nemen van afschrift en verleent de terzake verlangde medewerking, voor zover het desbetreffende bestuursorgaan dit nodig acht voor de uitoefening van zijn taak.   
-3.  Onze Minister is bevoegd zorgverzekeraars en zorgaanbieders, ter handhaving van het bepaalde bij of krachtens het eerste lid, een aanwijzing te geven betreffende de verstrekking van gegevens die het CAK voor de vaststelling van het recht op en de verstrekking van de tegemoetkomingen, bedoeld in artikel 11a en van de uitkeringen, bedoeld in artikel 118a, eerste lid, nodig heeft.   
-4.  Indien een zorgverzekeraar of een zorgaanbieder niet binnen vier weken aan een aanwijzing als bedoeld in het derde lid voldoet, is Onze Minister bevoegd een last onder dwangsom op te leggen.  
-5.  Alle ambtenaren tot afgifte van uittreksels uit registers van burgerlijke stand bevoegd, zijn verplicht aan een in artikel 88, eerste lid, bedoelde zorgverzekeraar of instantie de door deze gevraagde uittreksels uit de registers kosteloos toe te zenden.   
-6.  Griffiers van colleges, geheel of ten dele met rechtspraak belast, verstrekken op verzoek, kosteloos, aan een zorgverzekeraar, aan het CAK, aan het Zorginstituut of aan de zorgautoriteit alle gegevens, inlichtingen en uittreksels uit of afschriften van uitspraken, registers en andere stukken, die noodzakelijk zijn voor de uitvoering van deze wet door de zorgverzekeraar of het desbetreffende bestuursorgaan.  
-7. Bij algemene maatregel van bestuur worden nadere regels gesteld over de verstrekking van gegevens door de rijksbelastingdienst aan de zorgverzekeraars. 
+3.  Alle ambtenaren tot afgifte van uittreksels uit registers van burgerlijke stand bevoegd, zijn verplicht aan een in artikel 88, eerste lid, bedoelde zorgverzekeraar of instantie de door deze gevraagde uittreksels uit de registers kosteloos toe te zenden.   
+4.  Griffiers van colleges, geheel of ten dele met rechtspraak belast, verstrekken op verzoek, kosteloos, aan een zorgverzekeraar, aan het CAK, aan het Zorginstituut of aan de zorgautoriteit alle gegevens, inlichtingen en uittreksels uit of afschriften van uitspraken, registers en andere stukken, die noodzakelijk zijn voor de uitvoering van deze wet door de zorgverzekeraar of het desbetreffende bestuursorgaan.  
+5. Bij algemene maatregel van bestuur worden nadere regels gesteld over de verstrekking van gegevens door de rijksbelastingdienst aan de zorgverzekeraars. 
 6.  Bij ministeriële regeling kunnen nadere regels worden gesteld met betrekking tot het eerste of tweede lid.  
 
 ### Artikel  90  
@@ -1218,7 +1219,7 @@ b. de toepasselijkheid van de bepalingen van het Wetboek van Burgerlijke Rechtsv
 
 c. de bevoegdheden van de Algemene Rekenkamer ingevolge artikel 91 van de Comptabiliteitswet 2001, voor zover deze niet bij artikel 121 zijn beperkt.     
 5.  Het vierde lid, onderdeel b, geldt niet voor gegevens of inlichtingen die betrekking hebben op verzekeraars die betrokken zijn of zijn geweest bij een poging de desbetreffende verzekeraar in staat te stellen zijn bedrijf voort te zetten.   
-6.  De Algemene Rekenkamer is bij het doen van mededelingen als bedoeld in artikel 91, elfde tot en met veertiende lid, van de Comptabiliteitswet 2001, verplicht tot geheimhouding, voor zover het betreft gegevens en inlichtingen die haar ingevolge het vierde lid, onderdeel c, bekend zijn geworden.  
+6.  De Algemene Rekenkamer is bij het doen van mededelingen als bedoeld in artikel 91, twaalfde tot en met vijftiende lid, van de Comptabiliteitswet 2001, verplicht tot geheimhouding, voor zover het betreft gegevens en inlichtingen die haar ingevolge het vierde lid, onderdeel c, bekend zijn geworden.  
 
 ### Artikel  93a  
 
@@ -1246,30 +1247,6 @@ Een ieder die uit hoofde van de toepassing van artikel 45 van de Wet marktordeni
 3.  De persoon of instelling stelt aan de hand van het ter inzage verstrekte document de identiteit vast van degene aan wie de in het eerste lid bedoelde zorg of dienst wordt verleend, en neemt het met inachtneming van artikel 7 van de Wet gebruik burgerservicenummer in de zorg vastgestelde burgerservicenummer van de verzekerde in zijn administratie op.   
 4.   Dit lid is nog niet in werking getreden. 
 
-###Artikel 118a 
-
-1. Verzekerden van achttien jaar of ouder:
-
-a.met meerjarige, onvermijdbare zorgkosten, of
-
-b.die in een instelling als bedoeld in de Algemene Wet Bijzondere Ziektekosten verblijven,hebben, indien zij behoren tot bij of krachtens algemene maatregel van bestuur aan te wijzen groepen, in het kalenderjaar recht op een jaarlijkse uitkering ter hoogte van het bedrag genoemd in artikel 19, eerste lid, verminderd met het geraamde gemiddelde bedrag dat een verzekerde die geen recht heeft op de in dit lid bedoelde uitkering naar verwachting in dat kalenderjaar ingevolge artikel 19 betaalt, en met een bedrag van € 54. 
-2. Vervallen. 
-3. Zorgverzekeraars verstrekken aan het CAK de persoonsgegevens van de personen bedoeld in het eerste lid, waaronder persoonsgegevens betreffende de gezondheid als bedoeld in de Wet bescherming persoonsgegevens, die noodzakelijk zijn ter uitvoering van het eerste lid.
-4. Bij ministeriële regeling kan worden bepaald:
-
-a.tot welke gegevens de verplichting, bedoeld in het derde lid, zich uitstrekt;
-
-b.op welke wijze gegevens, bedoeld in het derde lid, worden verwerkt;
-
-c.volgens welke technische standaarden gegevensverwerking plaatsvindt;
-
-d.aan welke beveiligingseisen gegevensverwerking voldoet;
-
-e.in welke gevallen gegevens, bedoeld in het derde lid, verder worden verwerkt met het oog op de uitvoering van het uitkeren van het bedrag, bedoeld in het eerste lid. 
-5.  Er bestaat in afwijking van het eerste lid, met betrekking tot een kalenderjaar dat na 31 december 2013 aanvangt, geen recht op de uitkering, bedoeld in dat lid.   
-6.  Het CAK stelt het recht op de uitkering, bedoeld in het eerste lid, in het kalenderjaar waarop die uitkering betrekking heeft, ambtshalve vast, dan wel indien pas na dat kalenderjaar blijkt dat een persoon rechthebbende is, uiterlijk voor het einde van het kalenderjaar volgend op het kalenderjaar waarop de uitkering betrekking heeft.   
-7.  Het CAK kan op aanvraag uitsluitend binnen de termijn, bedoeld in het zesde lid, een uitkering als bedoeld in het eerste lid verlenen. 
-
 ### Artikel  119  
 
 1.  Een overeenkomst met betrekking tot de verzekering van geneeskundige zorg of de kosten daarvan, gesloten voor een verzekerde met of ten behoeve van wie tevens een zorgverzekering is gesloten, vervalt met ingang van de dag waarop de bij en krachtens artikel 11 te verzekeren prestaties worden uitgebreid, voor zover aan de overeenkomst rechten kunnen worden ontleend, gelijkwaardig aan die, welke vanaf dat moment uit de zorgverzekering voortvloeien.   
@@ -1294,7 +1271,7 @@ Een zorgverzekeraar wordt, voor zover deze niet kan worden aangemerkt als ondern
 a. vreemdelingen als bedoeld in artikel 8, onderdelen f of h, van de Vreemdelingenwet 2000, voor zover het betreft vreemdelingen die in afwachting zijn van een beslissing op een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 14 van die wet, dan wel vreemdelingen die in afwachting zijn van een beslissing op een bezwaarschrift of een beroepschrift naar aanleiding van een beslissing als hiervoor bedoeld en deze procedure krachtens de Vreemdelingenwet 2000 of op grond van een rechterlijke beslissing in Nederland mogen afwachten, en  
 
 b. vreemdelingen als bedoeld in artikel 10 van de Vreemdelingenwet 2000.     
-2.  Onder medisch noodzakelijke zorg wordt verstaan zorg of overige diensten als bedoeld in artikel 11 van deze wet of in artikel 6 van de Algemene Wet Bijzondere Ziektekosten, met uitzondering van bij of krachtens algemene maatregel van bestuur aan te wijzen vormen van zorg of diensten, en slechts voor zover de zorgaanbieder verstrekking ervan, gezien de aard van de prestaties en de verwachte duur van het verblijf van de vreemdeling, medisch noodzakelijk acht.   
+2.  Onder medisch noodzakelijke zorg wordt verstaan zorg of overige diensten als bedoeld in artikel 11 van deze wet of in artikel 3.1.1 van de Wet langdurige zorg, met uitzondering van bij of krachtens algemene maatregel van bestuur aan te wijzen vormen van zorg of diensten, en slechts voor zover de zorgaanbieder verstrekking ervan, gezien de aard van de prestaties en de verwachte duur van het verblijf van de vreemdeling, medisch noodzakelijk acht.   
 3.  Geen bijdrage wordt verstrekt voor zover de kosten voor de verleende zorg: 
 
 a. op de vreemdeling of een verzekeraar van de vreemdeling kunnen worden verhaald,  

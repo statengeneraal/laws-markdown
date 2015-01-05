@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. Onze Minister: Onze Minister van Sociale Zaken en Werkgelegenheid;   
 
-b. Raad: De Sociaal-Economische Raad, bedoeld in de Wet op de Bedrijfsorganisatie;   
+b. Raad: De Sociaal-Economische Raad, bedoeld in de Wet op de Sociaal-Economische Raad;   
 
 c. onderneming: elk in de maatschappij als zelfstandige eenheid optredend organisatorisch verband waarin krachtens arbeidsovereenkomst of krachtens publiekrechtelijke aanstelling arbeid wordt verricht;   
 
@@ -26,7 +26,7 @@ d. ondernemer: de natuurlijke persoon of de rechtspersoon die een onderneming in
 
 e. bestuurder: hij die alleen dan wel te zamen met anderen in een onderneming rechtstreeks de hoogste zeggenschap uitoefent bij de leiding van de arbeid;   
 
-f. bedrijfscommissie: de bevoegde bedrijfscommissie, bedoeld in de artikelen 37, 43 en 46.      
+f. bedrijfscommissie: de bevoegde bedrijfscommissie, bedoeld in de artikelen 37 en 46.      
 2.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder in de onderneming werkzame personen verstaan: degenen die in de onderneming werkzaam zijn krachtens een publiekrechtelijke aanstelling bij dan wel krachtens een arbeidsovereenkomst met de ondernemer die de onderneming in stand houdt. Personen die in meer dan één onderneming van dezelfde ondernemer werkzaam zijn, worden geacht uitsluitend werkzaam te zijn in die onderneming van waaruit hun werkzaamheden worden geleid.    
 3.  Voor de toepassing van het bij of krachtens deze wet bepaalde wordt onder in de onderneming werkzame personen mede verstaan:  
 
@@ -221,7 +221,7 @@ De ondernemer draagt er zorg voor, dat de in de onderneming werkzame personen di
 1.  De kosten die redelijkerwijze noodzakelijk zijn voor de vervulling van de taak van de ondernemingsraad en de commissies van die raad komen ten laste van de ondernemer.    
 2.   Met inachtneming van het bepaalde in het eerste lid komen de kosten van het overeenkomstig artikel 16 en artikel 23a, zesde lid, raadplegen van een deskundige door de ondernemingsraad of een commissie van die raad, alsmede de kosten van het voeren van rechtsgedingen door de ondernemingsraad slechts ten laste van de ondernemer, indien hij van de te maken kosten vooraf in kennis is gesteld. De eerste volzin is niet van toepassing wanneer uitvoering is gegeven aan het vierde lid.    
 3.  Met inachtneming van het eerste lid komen de kosten van scholing en vorming, bedoeld in artikel 18, tweede lid, ten laste van de ondernemer. De Raad kan voor verschillende kosten verbonden aan scholing en vorming richtbedragen vaststellen.  
-4.   De ondernemer kan in overeenstemming met de ondernemingsraad de kosten die de ondernemingsraad en de commissies van die raad in enig jaar zullen maken, voor zover deze geen verband houden met artikel 17 en artikel 18, eerste lid, vaststellen op een bepaald bedrag, dat de ondernemingsraad naar eigen inzicht kan besteden. Kosten waardoor het hier bedoelde bedrag zou worden overschreden, komen slechts ten laste van de ondernemer voor zover hij in het dragen daarvan toestemt.   
+4.   De ondernemer kan in overeenstemming met de ondernemingsraad de kosten die de ondernemingsraad en de commissies van die raad in enig jaar zullen maken, voor zover deze geen verband houden met artikel artikelen 17 en 18, eerste lid, vaststellen op een bepaald bedrag, dat de ondernemingsraad naar eigen inzicht kan besteden. Kosten waardoor het hier bedoelde bedrag zou worden overschreden, komen slechts ten laste van de ondernemer voor zover hij in het dragen daarvan toestemt.   
 
 ### Artikel  22a  
 
@@ -296,7 +296,7 @@ k. invoering of wijziging van een belangrijke technologische voorziening;
 
 l. het treffen van een belangrijke maatregel in verband met de zorg van de onderneming voor het milieu, waaronder begrepen het treffen of wijzigen van een beleidsmatige, organisatorische en administratieve voorziening in verband met het milieu;   
 
-m. vaststelling van een regeling met betrekking tot het zelf dragen van het risico, bedoeld in artikel 40, aanhef en eerste lid, onderdeel a, artikel 40, aanhef en eerste lid, onderdeel b, of artikel 40, aanhef en eerste lid, onderdeel c, van de Wet financiering sociale verzekeringen;  
+m. vaststelling van een regeling met betrekking tot het zelf dragen van het risico, bedoeld in artikel 40, eerste lid, van de Wet financiering sociale verzekeringen;  
 
 n. het verstrekken en het formuleren van een adviesopdracht aan een deskundige buiten de onderneming betreffende een der hiervoor bedoelde aangelegenheden.    Het onder *b* bepaalde, alsmede het onder n bepaalde, voor zover dit betrekking heeft op een aangelegenheid als bedoeld onder b, is niet van toepassing wanneer de andere onderneming in het buitenland gevestigd is of wordt en redelijkerwijs niet te verwachten is dat het voorgenomen besluit zal leiden tot een besluit als bedoeld onder c-f ten aanzien van een onderneming die door de ondernemer in Nederland in stand wordt gehouden.    
 2.  De ondernemer legt het te nemen besluit schriftelijk aan de ondernemingsraad voor. Het advies moet op een zodanig tijdstip worden gevraagd, dat het van wezenlijke invloed kan zijn op het te nemen besluit.    
@@ -551,10 +551,6 @@ Iedere in de onderneming werkzame persoon, met uitzondering van een persoon als 
 ### Artikel  42  
 
 Ten aanzien van de voorzitters, de leden en de plaatsvervangende leden van de bedrijfscommissies, alsmede ten aanzien van de personen die met het secretariaat van een bedrijfscommissie zijn belast, is artikel 20, eerste en zesde lid, van overeenkomstige toepassing.  
-
-### Artikel  43  
-
-Indien voor een groep van ondernemingen een hoofdbedrijfschap of een bedrijfschap als bedoeld in de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K 22) bestaat, kan de Raad het bestuur van dat hoofdbedrijfschap of bedrijfschap aanwijzen als bedrijfscommissie in de zin van deze wet. In dat geval zijn de artikelen 37, 38 en 41 niet van toepassing en evenmin het bepaalde bij of krachtens artikel 39 voor zover het betreft de samenstelling en het voorzitterschap van de bedrijfscommissie.  
 
 ### Artikel  46  
 

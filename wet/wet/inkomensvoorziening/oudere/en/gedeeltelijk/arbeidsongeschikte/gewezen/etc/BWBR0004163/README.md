@@ -26,7 +26,7 @@ d. Sociale verzekeringsbank: de Sociale verzekeringsbank, genoemd in hoofdstuk 6
 
 e. het Inlichtingenbureau: het Inlichtingenbureau, bedoeld in artikel 63 van de Wet structuur uitvoeringsorganisatie werk en inkomen;  
 
-f. netto minimumloon: het netto minimumloon, bedoeld in artikel 37, eerste lid, van de Wet werk en bijstand;  
+f. netto minimumloon: het netto minimumloon, bedoeld in artikel 37, eerste lid, van de Participatiewet;  
 
 g. vrijheidsstraf of vrijheidsbenemende maatregel: een bij onherroepelijk geworden vonnis opgelegde vrijheidsstraf of vrijheidsbenemende maatregel als bedoeld in het Wetboek van Strafrecht.  
 
@@ -75,7 +75,7 @@ d. zij op grond van een registratie worden aangemerkt als een gezamenlijke huish
 5.   Bij algemene maatregel van bestuur wordt vastgesteld welke registraties, en gedurende welk tijdvak, in aanmerking worden genomen voor de toepassing van het vierde lid, onderdeel *d*.    
 6.   Bij algemene maatregel van bestuur kunnen regels worden gesteld ten aanzien van hetgeen wordt verstaan onder het blijk geven zorg te dragen voor een ander, zoals bedoeld in het derde lid.    
 7.  Onder bloedverwant in de eerste graad als bedoeld in het tweede lid, onderdeel b, wordt mede verstaan een meerderjarig aangehuwd kind of een meerderjarig voormalig pleegkind van de ongehuwde meerderjarige.   
-8.  Onder voormalig pleegkind als bedoeld in het zevende lid wordt verstaan een pleegkind waarvoor de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
+8.  Onder voormalig pleegkind als bedoeld in het zevende lid wordt verstaan een pleegkind voor wie de ongehuwde meerderjarige een pleegvergoeding ontving of ontvangt op grond van de Wet op de jeugdzorg of de Jeugdwet, of kinderbijslag ontving op grond van de Algemene Kinderbijslagwet. 
 
 ### Artikel  3a  
 
@@ -92,17 +92,15 @@ b. kind: het kind jonger dan 18 jaar, dat niet als eigen kind, aangehuwd kind of
 
 ### Artikel  4a  
 
-1. In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
+In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
 a. arbeidsinschakeling: het verkrijgen van algemeen geaccepteerde arbeid, waarbij geen gebruik wordt gemaakt van een voorziening als bedoeld in artikel 34, eerste lid, onderdeel a;  
 
 b. sociale activering: het verrichten van onbeloonde maatschappelijk zinvolle activiteiten gericht op arbeidsinschakeling of, als arbeidsinschakeling nog niet mogelijk is, op zelfstandige maatschappelijke participatie; 
 
-c. startkwalificatie: een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in artikel 7 onderscheidenlijk 8 van de Wet op het voortgezet onderwijs.   
-2. Voor de toepassing van deze wet wordt niet als algemeen geaccepteerde arbeid beschouwd arbeid op grond van een dienstbetrekking als bedoeld in hoofdstuk 2 of 3 van de Wet sociale werkvoorziening. Voor de toepassing van de artikelen 34 tot en met 36 wordt voor personen die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoren van de Wet sociale werkvoorziening onder een voorziening gericht op arbeidsinschakeling mede verstaan een voorziening gericht op het verkrijgen van arbeid in een dienstbetrekking als bedoeld in de artikelen 2 en 7 van die wet.
+c. startkwalificatie: een diploma van een opleiding als bedoeld in artikel 7.2.2, eerste lid, onderdelen b tot en met e, van de Wet educatie en beroepsonderwijs of een diploma hoger algemeen voortgezet onderwijs of voorbereidend wetenschappelijk onderwijs als bedoeld in artikel 7 onderscheidenlijk 8 van de Wet op het voortgezet onderwijs. 
 
 ### Artikel  4b  
-Treedt in werking per 01-01-2015 
 
 1.  In deze wet en de daarop berustende bepalingen wordt onder medisch urenbeperkt verstaan: als rechtstreeks en objectief medisch vast te stellen gevolg van ziekte, gebreken, zwangerschap of bevalling voor een geringer aantal uren belastbaar zijn dan de normale arbeidsduur, bedoeld in artikel 12, tweede lid, van de Wet minimumloon en minimumvakantiebijslag.   
 2.  Het college kan: 
@@ -127,9 +125,7 @@ b. op schriftelijke aanvraag van een persoon die een uitkering op grond van deze
 
 a. de gewezen zelfstandige en de echtgenoot;   
 
-b. de alleenstaande gewezen zelfstandige met een of meer kinderen;   
-
-c. de alleenstaande gewezen zelfstandige zonder kinderen.      
+b. de alleenstaande gewezen zelfstandige.      
 2.   De in het eerste lid bedoelde voorwaarden zijn voor de gewezen zelfstandige, bedoeld in artikel 2:  
 
 1°. de gewezen zelfstandige heeft gedurende drie jaar, onmiddellijk voorafgaand aan de aanvraag, onafgebroken rechtmatig een bedrijf of beroep in Nederland uitgeoefend en gedurende de zeven jaar daarvoor eveneens rechtmatig een bedrijf of beroep in Nederland uitgeoefend dan wel arbeid in dienstbetrekking verricht;   
@@ -144,12 +140,10 @@ c. de alleenstaande gewezen zelfstandige zonder kinderen.
 
 a. de gewezen zelfstandige en de echtgenoot de helft van de grondslag netto gelijk is aan € 661,77 per 1 juli 2014: € 679,75;  
 
-b. de alleenstaande gewezen zelfstandige met een of meer kinderen de grondslag netto gelijk is aan € 1.191,18 per 1 juli 2014: € 1.223,54;  
-
-c. voor de alleenstaande gewezen zelfstandige zonder kinderen netto gelijk is aan € 926,47 per 1 juli 2014: € 951,64.      
+b. voor de alleenstaande gewezen zelfstandige netto gelijk is aan € 926,47 per 1 juli 2014: € 951,64.      
 5.   Onze Minister herziet de bedragen, genoemd in het tweede lid, 2° en 3°, met ingang van een door hem te bepalen dag zodanig, dat deze netto gelijk zijn aan het netto minimumloon.    
 6.  De in het vierde lid genoemde bedragen worden herzien met ingang van de dag waarop het netto minimumloon wordt herzien met het percentage van deze herziening.   
-7.  Bij de bepaling van het inkomen, bedoeld in het eerste lid, wordt een koopkrachttegemoetkoming op grond van artikel 36a van de Wet werk en bijstand niet in aanmerking genomen.  
+7.  Bij de bepaling van het inkomen, bedoeld in het eerste lid, wordt een koopkrachttegemoetkoming op grond van artikel 36a van de Participatiewet niet in aanmerking genomen.  
 8.  Van de herziene bedragen en van de dag waarop de herziening plaats vindt wordt door Onze Minister mededeling gedaan in de Staatscourant. 
 
 ### Artikel  5a  
@@ -196,10 +190,10 @@ b. voor de alleenstaande gewezen zelfstandige: zijn inkomen uit arbeid of overig
 2.   Als inkomen wordt voorts aangemerkt het inkomen uit het vermogen waarover de gewezen zelfstandige en zijn echtgenoot na de beëindiging van het bedrijf of beroep beschikken, met dien verstande dat daarbij een vermogen van ƒ 202 000 per 1 januari 2014: € 128.547,00 buiten beschouwing blijft. Het inkomen uit vermogen wordt bepaald op 5% Bij Stcrt. 1996/247 is dit percentage m.i.v. 1 januari 1997 vastgesteld op 4%. per jaar van het vermogen.    
 3.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid gedurende zes aangesloten maanden tot 25 procent van dit inkomen, met een maximum van € 291,04per 1 juli 2014: € 306,56 per maand, voor zover een uitkering wordt ontvangen en dit naar het oordeel van burgemeester en wethouders bijdraagt aan de arbeidsinschakeling.   
 4.  Bij algemene maatregel van bestuur wordt bepaald wat wordt verstaan onder inkomen uit arbeid of overig inkomen als bedoeld in het eerste lid en in artikel 5, tweede lid. Daarbij kan tevens worden bepaald dat nader te bepalen inkomen dat gedeeltelijk, niet, of niet langer wordt genoten als gevolg van gewijzigde omstandigheden of enig handelen of nalaten van betrokkene in aanmerking wordt genomen alsof het wel volledig wordt genoten.   
-5.   Onze Minister herziet het bedrag, genoemd in het tweede lid, met ingang van een door hem te bepalen dag, voor zover de consumentenprijsindex daartoe aanleiding geeft.    
+5.  Het bedrag, genoemd in het tweede lid, wordt gewijzigd met ingang van 1 januari van elk kalenderjaar, met het percentage waarmee het prijsindexcijfer van de gezinsconsumptie over de maand oktober daaraan voorafgaand afwijkt van het prijsindexcijfer waarop de laatste vaststelling van het bedrag is gebaseerd.   
 6.   Onze Minister herziet het percentage, bedoeld in het tweede lid, zodra de rente-ontwikkeling daartoe aanleiding geeft.    
 7.   Onze Minister stelt regels met betrekking tot de waardering van het vermogen, bedoeld in het tweede lid.    
-8.  Onze Minister herziet het bedrag, genoemd in het derde lid, met ingang van een door hem te bepalen dag, voor zover de ontwikkeling van het in artikel 31, tweede lid, onderdeel n, van de Wet werk en bijstand genoemde bedrag daartoe aanleiding geeft.  
+8.  Het bedrag, genoemd in het derde lid, wordt gewijzigd met ingang van de dag waarop het in artikel 31, tweede lid, onderdeel n, van de Participatiewet genoemde bedrag wordt gewijzigd.  
 9.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een alleenstaande ouder tot 12,5 procent van dit inkomen, met een maximum van € 187,28 per 1 juli 2014: € 202,57 per maand, gedurende een aaneengesloten periode van maximaal 30 maanden, voor zover hij een uitkering ontvangt, ingeval: 
 
 a. hij de volledige zorg heeft voor zijn kind tot 12 jaar,  
@@ -207,7 +201,10 @@ a. hij de volledige zorg heeft voor zijn kind tot 12 jaar,
 b. de periode van zes aaneengesloten maanden, bedoeld in het derde lid, is verstreken, en  
 
 c. dit volgens het college bijdraagt aan zijn arbeidsinschakeling.     
-10.  Onze Minister herziet het bedrag, genoemd in het negende lid, met ingang van een door hem te bepalen dag, voor zover de ontwikkeling van het in artikel 31, tweede lid, onderdeel r, van de Wet werk en bijstand genoemde bedrag daartoe aanleiding geeft. 
+10.  Het bedrag, genoemd in het negende lid, wordt gewijzigd met ingang van de dag waarop het in artikel 31, tweede lid, onderdeel r, van de Participatiewet genoemde bedrag wordt gewijzigd.  
+11.  In afwijking van het eerste lid wordt niet als inkomen uit arbeid beschouwd het inkomen uit arbeid van een persoon die medisch urenbeperkt is tot 15 procent van dit inkomen uit arbeid, met een maximum van € 124,00 per maand, voor zover hij een uitkering op grond van deze wet ontvangt, tenzij het derde of negende lid van toepassing is.   
+12.  Het bedrag, genoemd in het elfde lid, wordt gewijzigd met ingang van de dag waarop het in artikel 21, tweede lid, onderdeel z, van de Participatiewet genoemde bedrag wordt gewijzigd.  
+13.  De gewijzigde bedragen en de dag waarop de wijzigingen ingaan, worden door of namens Onze Minister bekend gemaakt in de Staatscourant. 
 
 ### §  2  
 
@@ -246,10 +243,10 @@ Het recht op uitkering bestaat jegens het college van de gemeente waar de belang
 1.  Onverminderd artikel 30c, tweede, vierde en vijfde lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen, bepaalt het college welke gegevens ten behoeve van de verlening van de uitkering dan wel de voortzetting daarvan door de belanghebbende in ieder geval worden verstrekt en welke bewijsstukken worden overgelegd, alsmede de wijze en het tijdstip waarop de verstrekking van gegevens plaatsvindt. De gegevens en bewijsstukken worden door het college niet verkregen van de belanghebbende voor zover zij verkregen kunnen worden uit de polisadministratie, bedoeld in artikel 33 van de Wet structuur uitvoeringsorganisatie werk en inkomen, de verzekerdenadministratie, bedoeld in artikel 35 van die wet, alsmede uit de basisregistratie personen, tenzij hierdoor een goede vervulling van de taak van het college op grond van dit artikel wordt belet of bij wettelijk voorschrift anders is bepaald. Bij of krachtens algemene maatregel van bestuur kunnen andere administraties worden aangewezen waarvoor de tweede zin van toepassing is, worden regels gesteld over de gegevens die het betreft en kunnen administraties worden aangewezen waarvoor de tweede zin tijdelijk niet van toepassing is. Indien het authentieke gegevens uit andere basisregistraties betreft, is dit lid van overeenkomstige toepassing.   
 2.  In aanvulling op het eerste lid kan het college de belanghebbende verzoeken aan te tonen dat: 
 
-a. hij een gewezen zelfstandige is als bedoeld in artikel 5, vierde lid, onderdeel b of c;  
+a. hij een gewezen zelfstandige is als bedoeld in artikel 5, vierde lid, onderdeel b;  
 
 b. de feitelijke woonsituatie van hemzelf, van zijn echtgenoot of van een kind in overeenstemming is met het door hem verstrekte adres van hemzelf, zijn echtgenoot of van een kind.   Teneinde hem daartoe in de gelegenheid te stellen kan het college bij die verzoeken de belanghebbende aanbieden met diens toestemming zijn woning binnen te treden.   
-3.  Indien de belanghebbende niet desgevraagd aantoont dat hij een gewezen zelfstandige is als bedoeld in artikel 5, vierde lid, onderdeel b of c: 
+3.  Indien de belanghebbende niet desgevraagd aantoont dat hij een gewezen zelfstandige is als bedoeld in artikel 5, vierde lid, onderdeel b: 
 
 a. kent het college de uitkering toe respectievelijk herziet het de uitkering naar de helft van de grondslag, bedoeld in artikel 5, vierde lid, onderdeel a;  
 
@@ -276,12 +273,8 @@ b. wordt de belanghebbende voor de toepassing van de artikelen 37a, tweede lid, 
 a. vanaf de eerste dag van de periode waarop het verzuim betrekking heeft, of   
 
 b. vanaf de dag van het verzuim indien niet kan worden bepaald op welke periode dit verzuim betrekking heeft.      
-2.   Het college doet mededeling van de opschorting aan de belanghebbende en nodigen hem uit binnen een door hen te stellen termijn het verzuim te herstellen.    
-3.  Onverminderd het elders in deze wet bepaalde terzake van herziening of intrekking van een besluit tot toekenning van uitkering en terzake van weigering van uitkering, kan het college een dergelijk besluit herzien of intrekken: 
-
-a. indien een gedraging als bedoeld in artikel 20, eerste lid, of het niet of niet behoorlijk nakomen van de verplichting , bedoeld in artikel 13, eerste lid, heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering;  
-
-b. indien anderszins de uitkering ten onrechte of tot een te hoog bedrag is verleend.     
+2.   Het college doet mededeling van de opschorting aan de belanghebbende en nodigt hem uit binnen een door het college te stellen termijn het verzuim te herstellen.    
+3.  Het college herziet een besluit tot toekenning van de uitkering, dan wel trekt een besluit tot toekenning van de uitkering in, indien het niet of niet behoorlijk nakomen van de verplichting, bedoeld in artikel 13, eerste lid, heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering. Onverminderd het elders in deze wet bepaalde ter zake van herziening of intrekking van een besluit tot toekenning van uitkering kan het college een besluit tot toekenning van uitkering herzien of intrekken, indien een gedraging als bedoeld in artikel 20, tweede lid, heeft geleid tot het ten onrechte of tot een te hoog bedrag verlenen van uitkering of anderszins de uitkering ten onrechte of tot een te hoog bedrag is verleend.   
 4.  Als de belanghebbende in het geval bedoeld in het eerste lid het verzuim niet herstelt binnen de daarvoor gestelde termijn, kan het college na het verstrijken van deze termijn het besluit tot toekenning van uitkering intrekken met ingang van de eerste dag waarover het recht op uitkering is opgeschort.  
 
 ### Artikel  17a  
@@ -297,7 +290,7 @@ b. indien de belanghebbende van de afwijking redelijkerwijs geen verwijt kan wor
 
 ### Artikel  20  
 
-1.  Het college verlaagt de uitkering overeenkomstig de verordening, bedoeld in artikel 35, eerste lid, onderdeel b, ter zake van het niet of onvoldoende nakomen door de belanghebbende van een verplichting als bedoeld in artikel 13, tweede en vierde lid, of een op grond van hoofdstuk III aan de uitkering verbonden verplichting, anders dan de verplichting, bedoeld in artikel 37, eerste lid, onderdelen a en c, waaronder begrepen het zich jegens het college zeer ernstig misdragen, in de periode voorafgaand aan de aanvraag om een uitkering of ter zake van het nadien onvoldoende inzetten voor de voorziening in het bestaan.  
+1.  Het college verlaagt de uitkering overeenkomstig de verordening, bedoeld in artikel 35, onderdeel a, ter zake van het niet of onvoldoende nakomen door de belanghebbende van een verplichting als bedoeld in artikel 13, tweede en vierde lid, of een op grond van hoofdstuk III aan de uitkering verbonden verplichting, anders dan de verplichting, bedoeld in artikel 37, eerste lid, onderdelen a en c, waaronder begrepen het zich jegens het college zeer ernstig misdragen, in de periode voorafgaand aan de aanvraag om een uitkering of ter zake van het nadien onvoldoende inzetten voor de voorziening in het bestaan.  
 2.  Het college kan de uitkering blijvend of tijdelijk weigeren tot de mate waarin de belanghebbende die arbeid in dienstbetrekking heeft aanvaard uit of in verband met deze arbeid inkomen als bedoeld in of op grond van artikel 8 zou hebben kunnen verwerven, indien: 
 
 a. aan de beëindiging van zijn dienstbetrekking een dringende reden ten grondslag ligt in de zin van artikel 678 van Boek 7 van het Burgerlijk Wetboek en de belanghebbende ter zake een verwijt kan worden gemaakt;  
@@ -391,9 +384,9 @@ De persoon van wie wordt teruggevorderd is verplicht desgevraagd aan het college
 ### Artikel  28  
 
 1.  Het college kan de onverschuldigd betaalde uitkering, bedoeld in artikel 25, eerste, tweede en derde lid, invorderen bij dwangbevel.   
-2.  Indien degene van wie de uitkering op grond van artikel 25, eerste lid, wordt teruggevorderd dan wel verplicht is tot betaling van een bestuurlijke boete als bedoeld in artikel 20a algemene bijstand op grond van de Wet werk en bijstand of een uitkering op grond van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of het Besluit bijstandverlening zelfstandigen 2004 ontvangt, verrekent het college die uitkering en bestuurlijke boete met die algemene bijstand of uitkering.  
-3.  Indien degene van wie de uitkering op grond van artikel 25, tweede of derde lid, wordt teruggevorderd algemene bijstand op grond van de Wet werk en bijstand of een uitkering op grond van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of het Besluit bijstandverlening zelfstandigen 2004 ontvangt, is het college bevoegd tot verrekening van die uitkering met die algemene bijstand of uitkering.   
-4.  Indien degene van wie de uitkering wordt teruggevorderd dan wel verplicht is tot betaling van een bestuurlijke boete als bedoeld in artikel 20a een uitkering of algemene bijstand ontvangt van een andere gemeente dan de gemeente waarvan het college de uitkering terugvordert of de bestuurlijke boete heeft opgelegd, dan wel een uitkering of inkomensvoorziening ontvangt op grond van de Werkloosheidswet, de Ziektewet, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet werk en arbeidsondersteuning jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsvoorziening militairen, de Wet arbeid en zorg, de Wet inkomensvoorziening oudere werklozen, de Toeslagenwet, de Algemene Ouderdomswet of de Algemene nabestaandenwet, betaalt dat college, het Uitvoeringsinstituut werknemersverzekeringen, onderscheidenlijk de Sociale verzekeringsbank het bedrag van de terugvordering of de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is van de belanghebbende, op verzoek aan het college, dat besluit tot terugvordering of de bestuurlijke boete heeft opgelegd.   
+2.  Indien degene van wie de uitkering op grond van artikel 25, eerste lid, wordt teruggevorderd dan wel verplicht is tot betaling van een bestuurlijke boete als bedoeld in artikel 20a algemene bijstand op grond van de Participatiewet of een uitkering op grond van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of het Besluit bijstandverlening zelfstandigen 2004 ontvangt, verrekent het college die uitkering en bestuurlijke boete met die algemene bijstand of uitkering.  
+3.  Indien degene van wie de uitkering op grond van artikel 25, tweede of derde lid, wordt teruggevorderd algemene bijstand op grond van de Participatiewet of een uitkering op grond van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers of het Besluit bijstandverlening zelfstandigen 2004 ontvangt, is het college bevoegd tot verrekening van die uitkering met die algemene bijstand of uitkering.   
+4.  Indien degene van wie de uitkering wordt teruggevorderd dan wel verplicht is tot betaling van een bestuurlijke boete als bedoeld in artikel 20a een uitkering of algemene bijstand ontvangt van een andere gemeente dan de gemeente waarvan het college de uitkering terugvordert of de bestuurlijke boete heeft opgelegd, dan wel een uitkering of inkomensvoorziening ontvangt op grond van de Werkloosheidswet, de Ziektewet, de Wet arbeidsongeschiktheidsverzekering zelfstandigen, de Wet arbeidsongeschiktheidsvoorziening jonggehandicapten, de Wet werk en inkomen naar arbeidsvermogen, de Wet op de arbeidsongeschiktheidsverzekering, de Wet arbeidsongeschiktheidsvoorziening militairen, de Wet arbeid en zorg, de Wet inkomensvoorziening oudere werklozen, de Toeslagenwet, de Algemene Ouderdomswet of de Algemene nabestaandenwet, betaalt dat college, het Uitvoeringsinstituut werknemersverzekeringen, onderscheidenlijk de Sociale verzekeringsbank het bedrag van de terugvordering of de bestuurlijke boete, zonder dat daarvoor een machtiging nodig is van de belanghebbende, op verzoek aan het college, dat besluit tot terugvordering of de bestuurlijke boete heeft opgelegd.   
 5.  De in artikel 479g van het Wetboek van Burgerlijke Rechtsvordering aan de raad voor de kinderbescherming toegekende bevoegdheid komt gelijkelijk toe aan het college. Indien het college gebruik maakt van deze bevoegdheid, geschiedt de bekendmaking van het dwangbevel, in afwijking van artikel 4:123, eerste lid, van de Algemene wet bestuursrecht, door middel van toezending per post aan degene van wie uitkering wordt teruggevorderd.   
 6.  Zolang de belanghebbende de verplichtingen, bedoeld in de artikelen 20a, achtste lid, en 27, niet of niet behoorlijk nakomt: 
 
@@ -409,7 +402,7 @@ b. geldt de beslagvrije voet, bedoeld in de artikelen 475c tot en met 475e van h
 3.  Het eerste lid is van overeenkomstige toepassing bij de betaling, bedoeld in artikel 28, vierde lid, van de bestuurlijke boete, bedoeld in artikel 20a, vijfde lid, door een andere gemeente dan de gemeente waarvan het college de bestuurlijke boete heeft opgelegd met dien verstande dat het college van die andere gemeente de bevoegdheid heeft op verzoek van de belanghebbende bij de verrekening de beslagvrije voet in acht te nemen indien, gelet op bijzondere omstandigheden, dringende redenen daartoe noodzaken.   
 4.  Artikel 28, tweede lid, en het eerste tot en met derde lid zijn van overeenkomstige toepassing op de verrekening van de bestuurlijke boete, bedoeld in artikel 20a, eerste lid, indien en voor zover op het moment van verrekening, bedoeld in het eerste lid, de bestuurlijke boete door de overtreder niet is betaald.   
 5.  De voorgaande leden laten de verrekening van de bestuurlijke boete op grond van de artikelen 28, tweede en vierde lid, na het tijdvak, bedoeld in het eerste lid, onverlet.   
-6.  Indien als gevolg van de verrekening, bedoeld in het eerste en vierde lid, algemene bijstand op grond van de Wet werk en bijstand wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
+6.  Indien als gevolg van de verrekening, bedoeld in het eerste en vierde lid, algemene bijstand op grond van de Participatiewet wordt toegekend, wordt bij de verrekening een bij ministeriële regeling bepaald deel van de uitkering op grond van deze wet op aanvraag vrijgelaten in verband met zorgkosten, woonkosten en de kosten van kinderen. Het vrij te laten deel van de uitkering kan afhankelijk worden gesteld van de leefsituatie.   
 7.  Voor de toepassing van het zesde lid kunnen bij ministeriële regeling nadere regels worden gesteld.   
 8.  Het vrijgelaten deel, bedoeld in het zesde lid, is niet vatbaar voor beslag, waaronder begrepen beslag ingevolge faillissement of toepassing van de schuldsaneringsregeling natuurlijke personen. 
 
@@ -434,29 +427,27 @@ Onder uitkering in de zin van deze paragraaf wordt verstaan de uitkering, bedoel
 
 1.  Het college is verantwoordelijk voor: 
 
-a. het ondersteunen van personen die een uitkering op grond van deze wet ontvangen bij arbeidsinschakeling en, indien het college daarbij het aanbieden van een voorziening, waaronder begrepen sociale activering, gericht op arbeidsinschakeling noodzakelijk acht, voor het bepalen en aanbieden van deze voorziening, en;  
+a. het verlenen van een uitkering aan de gewezen zelfstandige, bedoeld in artikel 2;  
 
-b. het verlenen van een uitkering aan de werkloze werknemer, bedoeld in artikel 2.    
-2.  Het college werkt bij de uitvoering van het eerste lid, onderdeel a, samen met het Uitvoeringsinstituut werknemersverzekeringen.   
-3.  Het college kan de uitvoering van deze wet, behoudens de vaststelling van de rechten en plichten van de belanghebbende en de daarvoor noodzakelijke beoordeling van zijn omstandigheden, door derden laten verrichten. Het college kan de in de eerste volzin bedoelde vaststelling en beoordeling mandateren aan bestuursorganen.   
-4.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het tweede en derde lid.  
+b. het ontwikkelen van beleid ten behoeve van het verrichten van een tegenprestatie als bedoeld in artikel 37, eerste lid, onderdeel f, en het uitvoeren ervan, overeenkomstig de verordening, bedoeld in artikel 35, eerste lid, onderdeel e.     
+2.  Het college kan de uitvoering van deze wet, behoudens de vaststelling van de rechten en plichten van de belanghebbende en de daarvoor noodzakelijke beoordeling van zijn omstandigheden, door derden laten verrichten. Het college kan de in de eerste volzin bedoelde vaststelling en beoordeling mandateren aan bestuursorganen.   
+3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld met betrekking tot het tweede lid.  
 
 ### Artikel  35  
 
-1.  De gemeenteraad stelt bij verordening regels met betrekking tot: 
+De gemeenteraad stelt bij verordening regels met betrekking tot: 
 
-a. het ondersteunen bij arbeidsinschakeling en het aanbieden van voorzieningen gericht op arbeidsinschakeling, bedoeld in artikel 34, eerste lid, onderdeel a;  
+a. de weigering en verlaging, bedoeld in artikel 20;  
 
-b. de weigering en verlaging, bedoeld in artikel 20;  
+b. de bestrijding van het ten onrechte ontvangen van een uitkering alsmede van misbruik en oneigenlijk gebruik van de wet in het kader van het financiële beheer;  
 
-c. de bestrijding van het ten onrechte ontvangen van een uitkering alsmede van misbruik en oneigenlijk gebruik van de wet in het kader van het financiële beheer;  
+c. het verlagen van de uitkering, bedoeld in artikel 38, twaalfde lid; 
 
-d. het verlagen van de uitkering, bedoeld in artikel 38, twaalfde lid.    
-2.  De regels, bedoeld in het eerste lid, hebben in ieder geval betrekking op de taken vermeld in artikel 34, eerste lid, onderdeel a. 
+d. het opdragen van een tegenprestatie als bedoeld in artikel 37, eerste lid, onderdeel f.  
 
 ### Artikel  36  
 
-1.  Belanghebbenden die een uitkering ontvangen, hebben overeenkomstig de verordening, bedoeld in artikel 35, eerste lid, aanspraak op ondersteuning bij arbeidsinschakeling en op de naar het oordeel van het college noodzakelijk geachte voorziening gericht op arbeidsinschakeling.   
+1.  Belanghebbenden die een uitkering ontvangen, hebben overeenkomstig de verordening, bedoeld in artikel 8a van de Participatiewet, aanspraak op ondersteuning bij arbeidsinschakeling en op de naar het oordeel van het college noodzakelijk geachte voorziening gericht op arbeidsinschakeling.   
 2.  Artikel 11 is van overeenkomstige toepassing.  
 
 ### Artikel  37  
@@ -473,14 +464,17 @@ d. na te laten hetgeen inschakeling in de arbeid belemmert;
 
 e. gebruik te maken van een door het college aangeboden voorziening, waaronder begrepen sociale activering, gericht op arbeidsinschakeling, alsmede mee te werken aan een onderzoek naar zijn mogelijkheden tot arbeidsinschakeling; 
 
-f. naar vermogen door het college opgedragen onbeloonde maatschappelijk nuttige werkzaamheden te verrichten die worden verricht naast of in aanvulling op reguliere arbeid en die niet leiden tot verdringing op de arbeidsmarkt.    
+f. naar vermogen door het college opgedragen onbeloonde maatschappelijk nuttige werkzaamheden te verrichten die worden verricht naast of in aanvulling op reguliere arbeid en die niet leiden tot verdringing op de arbeidsmarkt; 
+
+g. zich te onthouden van zeer ernstige misdragingen jegens de met de uitvoering van deze wet belaste personen en instanties tijdens het verrichten van hun werkzaamheden.    
 2.  Indien uitkering wordt verleend aan echtgenoten gelden de verplichtingen bedoeld in het eerste lid voor ieder van hen.  
 
 ###Artikel 37a 
 
 1. Indien daarvoor dringende redenen aanwezig zijn, kan het college in individuele gevallen tijdelijk ontheffing verlenen van een of meer verplichtingen als bedoeld in artikel 37. Zorgtaken kunnen als dringende redenen worden aangemerkt, voorzover hiermee geen rekening kan worden gehouden door middel van een voorziening als bedoeld in artikel 34, eerste lid, onderdeel a.
 2. De verplichting om algemeen geaccepteerde arbeid te aanvaarden geldt voor de alleenstaande ouder met kinderen tot 12 jaar slechts nadat het college zich genoegzaam heeft overtuigd van de beschikbaarheid van passende kinderopvang, de toepassing van voldoende scholing en de belastbaarheid van de betrokkene. 
-3. De verplichtingen, bedoeld in artikel 37, zijn niet van toepassing op de persoon die blijkens een indicatiebeschikking of herindicatiebeschikking tot de doelgroep behoort van de Wet sociale werkvoorziening.
+3. Vervallen. 
+4.  De verplichting, bedoeld in artikel 37, eerste lid, onderdeel f, is niet van toepassing op de alleenstaande ouder die in het bezit is van een ontheffing als bedoeld in artikel 38, eerste lid. 
 
 ###Artikel 38 
 
@@ -503,11 +497,11 @@ d. door het college ingetrokken indien uit houding en gedragingen van de alleens
 9.  Indien het heronderzoek, bedoeld in het achtste lid, daartoe aanleiding geeft stelt het college een gewijzigd plan van aanpak op.   
 10.  Het college vult de voorziening, bedoeld in artikel 37, eerste lid, onderdeel e, voor de alleenstaande ouder aan wie een ontheffing is verleend als bedoeld in het eerste lid en die niet beschikt over een startkwalificatie ten minste in met scholing of opleiding die de toegang tot de arbeidsmarkt bevordert, tenzij naar het oordeel van het college een dergelijke scholing of opleiding de krachten of bekwaamheden van betrokkene te boven gaat.   
 11.  Op verzoek van de alleenstaande ouder die beschikt over een startkwalificatie en aan wie een ontheffing is verleend als bedoeld in het eerste lid, vult het college de voorziening in met een opleiding, als bedoeld in artikel 7.2.2., tweede lid, onder a, van de Wet educatie en beroepsonderwijs, die de toegang tot de arbeidsmarkt bevordert, tenzij naar het oordeel van het college een dergelijke scholing of opleiding de krachten of bekwaamheden van de alleenstaande ouder te boven gaat.   
-12.  Het college verlaagt de uitkering overeenkomstig de verordening, bedoeld in artikel 35, eerste lid, onderdeel d, indien het college de ontheffing, bedoeld in het eerste lid, heeft ingetrokken op grond van het vijfde lid, onderdeel d. Van een verlaging wordt afgezien, indien elke vorm van verwijtbaarheid ontbreekt.  
+12.  Het college verlaagt de uitkering overeenkomstig de verordening, bedoeld in artikel 35, onderdeel c, indien het college de ontheffing, bedoeld in het eerste lid, heeft ingetrokken op grond van het vijfde lid, onderdeel d. Van een verlaging wordt afgezien, indien elke vorm van verwijtbaarheid ontbreekt.  
 
 ### Artikel  38a  
 
-Het college kan ter uitvoering van artikel 34, eerste lid, onderdeel a, degene die uitkering op grond van deze wet ontvangt en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. Artikel 10a, tweede tot en met zesde en achtste tot en met tiende lid, van de Wet werk en bijstand alsmede de regels, bedoeld in artikel 8, eerste lid, onderdelen e en f, van die wet, zijn van overeenkomstige toepassing. 
+Het college kan ter uitvoering van artikel 34, eerste lid, onderdeel a, degene die uitkering op grond van deze wet ontvangt en voor wie de kans op inschakeling in het arbeidsproces gering is en die daardoor vooralsnog niet bemiddelbaar is op de arbeidsmarkt, onbeloonde additionele werkzaamheden laten verrichten gedurende maximaal twee jaar. Artikel 10a, tweede tot en met zesde en achtste tot en met tiende lid, van de Participatiewet alsmede de regels, bedoeld in artikel 8, eerste lid, onderdelen e en f, van die wet, zijn van overeenkomstige toepassing. 
 
 ### Artikel  39  
 
@@ -548,7 +542,7 @@ b. het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsba
 
 c. de Belastingdienst;  
 
-d. het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet, de Nederlandse Zorgautoriteit, bedoeld in de Wet marktordening gezondheidszorg en de zorgverzekeraars in de zin van de artikelen 1, onderdeel b, van de Zorgverzekeringswet of van de Algemene Wet Bijzondere Ziektekosten;  
+d. het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet, de Nederlandse Zorgautoriteit, bedoeld in de Wet marktordening gezondheidszorg en de zorgverzekeraars in de zin van de artikelen 1, onderdeel b, van de Zorgverzekeringswet of van de Wet langdurige zorg;  
 
 e. de bedrijfstakpensioenfondsen, ondernemingspensioenfondsen, risicofondsen, stichtingen tot uitvoering van een regeling inzake vervroegd uittreden en andere organen belast met het doen van uitkeringen of verstrekkingen die bij of krachtens artikel 8 van de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers als inkomen worden aangemerkt;  
 
@@ -616,9 +610,9 @@ a. het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsba
 
 b. de Belastingdienst voor de heffing of invordering van enige rijksbelasting, de premies voor de sociale verzekeringen, bedoeld in artikel 2, onderdelen a en c, van de Wet financiering sociale verzekeringen, of inkomensafhankelijke bijdragen als bedoeld in artikel 41 van de Zorgverzekeringswet en de Belastingdienst/Toeslagen voor de uitvoering van inkomensafhankelijke regelingen als bedoeld in de Algemene wet inkomensafhankelijke regelingen;  
 
-c. het college van andere gemeenten voor de uitvoering van deze wet, de Wet werk en bijstand en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;  
+c. het college van andere gemeenten voor de uitvoering van deze wet, de Participatiewet en de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;  
 
-d. het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet, de Nederlandse Zorgautoriteit, bedoeld in de Wet marktordening gezondheidszorg en de zorgverzekeraars in de zin van de artikelen 1, onderdeel b, van de Zorgverzekeringswet of van de Algemene Wet Bijzondere Ziektekosten, voor de uitvoering van de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten; 
+d. het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet, de Nederlandse Zorgautoriteit, bedoeld in de Wet marktordening gezondheidszorg, de zorgverzekeraars in de zin van artikel 1, onderdeel b, van de Zorgverzekeringswet, voor de uitvoering van de Zorgverzekeringswet of de Wlz-uitvoerders, bedoeld in artikel 1.1.1 van de Wet langdurige zorg, voor de uitvoering van de Wet langdurige zorg; 
 
 e. derden die in het kader van de uitoefening van beroep of bedrijf de inschakeling van personen in de arbeid bevorderen;  
 
@@ -697,10 +691,6 @@ Vervallen per 01-01-2010
 ### Paragraaf  5  
 
 ####Voorzieningen
-
-### Artikel  59i  
-
-Ten behoeve van de kosten van voorzieningen als bedoeld in artikel 34, eerste lid, onderdeel a, niet zijnde uitvoeringskosten, ontvangt het college een uitkering op grond van de Wet participatiebudget. 
 
 ### Hoofdstuk  VI  
 

@@ -11,7 +11,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ### Artikel  1  
 
-1.  Onze Minister van Verkeer en Waterstaat kan aan een gemeente dan wel aan een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, 's-Gravenhage, Rotterdam of Utrecht omvat, of een provincie uit 's Rijks kas een bijdrage verlenen terzake van maatregelen ter bestrijding van de verkeersonveiligheid.   
+1.  Onze Minister van Verkeer en Waterstaat kan aan een gemeente dan wel aan een openbaar lichaam als bedoeld in artikel 20, derde lid, van de Wet personenvervoer 2000 of een provincie uit 's Rijks kas een bijdrage verlenen terzake van maatregelen ter bestrijding van de verkeersonveiligheid.   
 2.   Bij algemene maatregel van bestuur worden regels gesteld omtrent de verlening van bijdragen als bedoeld in het eerste lid.  
 
 ### Artikel  2  

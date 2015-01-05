@@ -12,16 +12,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Algemene bepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### §  1  
 
 ####Begripsbepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  1  
-Treedt in werking per 01-01-2015 
 
 1.  In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -46,34 +41,30 @@ i.  *woonruimte:* besloten ruimte die, al dan niet tezamen met een of meer ander
 
 a.  *huurprijs:* prijs die bij huur en verhuur is verschuldigd voor het enkele gebruik van een woonruimte, uitgedrukt in een bedrag per maand;  
 
-b.  *koopprijs:* prijs die voor de enkele koop van een woonruimte daadwerkelijk is of zal worden betaald.     
-3.  Een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen wordt in ieder geval aangemerkt als een woningmarktregio.  
+b.  *koopprijs:* prijs die voor de enkele koop van een woonruimte daadwerkelijk is of zal worden betaald.    
 
 ### §  2  
 
 ####Toepassing bevoegdheden
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  2  
-Treedt in werking per 01-01-2015 
 
 1.  De gemeenteraad maakt van zijn bevoegdheden op grond van deze wet slechts gebruik indien dat noodzakelijk en geschikt is voor het bestrijden van onevenwichtige en onrechtvaardige effecten van schaarste aan goedkope woonruimte.   
 2.  De gemeenteraad kan van zijn bevoegdheden op grond van de artikelen 12 en 13, alsmede, voor zover daartoe noodzakelijk, van die op grond van artikel 7, ook gebruik maken indien daartoe geen noodzaak is vanuit het oogpunt van het bestrijden van onevenwichtige en onrechtvaardige effecten van schaarste aan goedkope woonruimte.  
 
 ### Artikel  3  
-Treedt in werking per 01-01-2015 
 
-Indien een gemeente is gelegen in een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen treedt het algemeen bestuur van die plusregio voor de toepassing van deze wet in de plaats van de gemeenteraad en treedt het dagelijks bestuur van die regio voor de toepassing van artikel 6, eerste lid, in de plaats van burgemeester en wethouders. 
+1.  Op verzoek van burgemeester en wethouders van een of meer gemeenten kunnen gedeputeerde staten, indien een evenwichtige regionale verdeling van woonruimte dat naar hun oordeel vereist, een woningmarktregio aanwijzen waarin de in artikel 4 gegeven bevoegdheid uitsluitend met toepassing van de Wet gemeenschappelijke regelingen kan worden uitgeoefend.   
+2.  Gebieden, bedoeld in artikel 5, eerste lid, van de Wet bijzondere maatregelen grootstedelijke problematiek zijn van een aanwijzing als bedoeld in het eerste lid uitgezonderd.   
+3.  Indien de woningmarktregio in meer dan een provincie is gelegen, wordt de aanwijzing gegeven door gedeputeerde staten van de provincie waarin de meerderheid van de bevolking van de woningmarktregio woont, na overleg met gedeputeerde staten van de andere provincie of provincies.   
+4.  Alvorens een aanwijzing te geven plegen gedeputeerde staten overleg met burgemeester en wethouders van de gemeenten in de woningmarktregio.   
+5.  De gemeentelijke huisvestingsverordeningen die op het tijdstip waarop de aanwijzing wordt gegeven van kracht zijn, vervallen een jaar na dat tijdstip. Deze vervaltermijn treedt in de plaats van de termijnen waarop die verordeningen waren vervallen, indien geen aanwijzing zou zijn gegeven.  
 
 ### §  3  
 
 ####De huisvestingsverordening
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  4  
-Treedt in werking per 01-01-2015 
 
 1.  De gemeenteraad kan uitsluitend bij verordening voor de duur van ten hoogste vier jaar regels geven met betrekking tot: 
 
@@ -83,7 +74,6 @@ b. wijzigingen in de bestaande woonruimtevoorraad.
 2.  Het eerste lid is ten aanzien van het kunnen geven van regels met betrekking tot het in gebruik nemen of geven van voor verkoop bestemde goedkope woonruimte slechts van toepassing op de gemeenten Ameland, Schiermonnikoog, Terschelling, Texel en Vlieland.  
 
 ### Artikel  5  
-Treedt in werking per 01-01-2015 
 
 De gemeenteraad stelt, indien hij toepassing heeft gegeven aan artikel 7, 21 of 22, in de huisvestingsverordening regels over: 
 
@@ -92,31 +82,24 @@ a. de wijze van aanvragen van vergunningen als bedoeld in die artikelen, en
 b. de gegevens die door de aanvrager worden verstrekt bij de aanvraag van een vergunning als bedoeld in die artikelen.   
 
 ### Artikel  6  
-Treedt in werking per 01-01-2015 
 
 1.  Bij de voorbereiding van de vaststelling of wijziging van een huisvestingsverordening plegen burgemeester en wethouders overleg met de in de gemeente werkzame toegelaten instellingen, met woonconsumentenorganisaties en met andere daarvoor naar hun oordeel in aanmerking komende organisaties.   
-2.  Indien de gemeente niet is gelegen in een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen stemmen burgemeester en wethouders bij de voorbereiding van de vaststelling of wijziging van een huisvestingsverordening deze af met de besturen van de overige gemeenten die deel uitmaken van de woningmarktregio waarin de gemeente is gelegen.  
+2.  Bij de voorbereiding van de vaststelling of wijziging van een huisvestingsverordening stemmen burgemeester en wethouders deze af met burgemeester en wethouders van de overige gemeenten die deel uitmaken van de woningmarktregio waarin de gemeente is gelegen.  
 
 ### Hoofdstuk  2  
 
 ####De huisvestingsvergunning
 
-Treedt in werking per 01-01-2015 
-
 ### §  1  
 
 ####Aanwijzing van vergunningplichtige woonruimte
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7  
-Treedt in werking per 01-01-2015 
 
 1.  In de huisvestingsverordening kan de gemeenteraad categorieën goedkope woonruimte aanwijzen die niet voor bewoning in gebruik mogen worden genomen of gegeven indien daarvoor geen huisvestingsvergunning is verleend.   
 2.  Het eerste lid is ten aanzien van het kunnen aanwijzen van voor verkoop bestemde goedkope woonruimte slechts van toepassing op de gemeenten Ameland, Schiermonnikoog, Terschelling, Texel en Vlieland.  
 
 ### Artikel  8  
-Treedt in werking per 01-01-2015 
 
 1.  Het is verboden om woonruimte die is aangewezen krachtens artikel 7 voor bewoning in gebruik te nemen zonder vergunning van burgemeester en wethouders.   
 2.  Het is verboden om woonruimte die is aangewezen krachtens artikel 7 voor bewoning in gebruik te geven aan een persoon die niet beschikt over een huisvestingsvergunning.  
@@ -125,17 +108,13 @@ Treedt in werking per 01-01-2015
 
 ####Criteria voor verlening van de huisvestingsvergunning
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  9  
-Treedt in werking per 01-01-2015 
 
 1.  Indien de gemeenteraad toepassing heeft gegeven aan artikel 7 legt hij in de huisvestingsverordening de criteria vast voor de verlening van huisvestingsvergunningen.   
 2.  De criteria, bedoeld in het eerste lid, hebben geen betrekking op het stellen van eisen aan de minimale hoogte van het huishoudinkomen.   
 3.  De criteria, bedoeld in het eerste lid, hebben niet tot gevolg dat toegelaten instellingen die feitelijk werkzaam zijn in de gemeente belemmerd worden om bij de toewijzing van hun woongelegenheden uitvoering te geven aan wettelijke voorschriften die zijn gegeven met het oog op de nakoming van voor Nederland verbindende internationale verplichtingen.  
 
 ### Artikel  10  
-Treedt in werking per 01-01-2015 
 
 1.  De gemeenteraad wijst indien hij toepassing heeft gegeven aan artikel 7 in de huisvestingsverordening de categorieën woningzoekenden aan die voor het verkrijgen van een huisvestingsvergunning in aanmerking komen.   
 2.  Voor een huisvestingsvergunning komen slechts in aanmerking woningzoekenden die: 
@@ -145,25 +124,21 @@ a. de Nederlandse nationaliteit bezitten of op grond van een wettelijke bepaling
 b. vreemdeling zijn en rechtmatig verblijf in Nederland hebben als bedoeld in artikel 8, onderdelen a tot en met e en l, van de Vreemdelingenwet 2000.    
 
 ### Artikel  11  
-Treedt in werking per 01-01-2015 
 
 In de huisvestingsverordening kan de gemeenteraad bepalen dat voor een of meer daarbij aangewezen categorieën woonruimte in verband met de aard, grootte of prijs van die woonruimte bij het verlenen van huisvestingsvergunningen voorrang wordt gegeven aan een daarbij aangewezen gedeelte van de overeenkomstig artikel 10, eerste lid, aangewezen categorieën woningzoekenden. 
 
 ### Artikel  12  
-Treedt in werking per 01-01-2015 
 
 1.  In de huisvestingsverordening kan de gemeenteraad bepalen dat voor een of meer daarbij aangewezen categorieën woonruimte bij het verlenen van huisvestingsvergunningen voorrang wordt gegeven aan woningzoekenden waarvoor de voorziening in de behoefte aan woonruimte dringend noodzakelijk is.   
 2.  De gemeenteraad legt, indien hij toepassing heeft gegeven aan het eerste lid, in de huisvestingsverordening de criteria vast volgens welke de woningzoekenden, bedoeld in dat lid, worden ingedeeld in urgentiecategorieën.   
 3.  Woningzoekenden die verblijven in een voorziening voor tijdelijke opvang van personen, die in verband met problemen van relationele aard of geweld hun woonruimte hebben verlaten, woningzoekenden die mantelzorg als bedoeld in artikel 1, eerste lid, onderdeel b, van de Wet maatschappelijke ondersteuning verlenen of ontvangen alsmede vergunninghouders als bedoeld in artikel 28 behoren in ieder geval tot de woningzoekenden, bedoeld in het eerste lid.  
 
 ### Artikel  13  
-Treedt in werking per 01-01-2015 
 
 1.  Burgemeester en wethouders beslissen over de indeling van woningzoekenden in de urgentiecategorieën, bedoeld in artikel 12, tweede lid. Burgemeester en wethouders kunnen van deze bevoegdheid mandaat verlenen.   
 2.  In de huisvestingsverordening stelt de gemeenteraad regels omtrent de wijze waarop woningzoekenden kunnen verzoeken om indeling in een urgentiecategorie.  
 
 ### Artikel  14  
-Treedt in werking per 01-01-2015 
 
 1.  In de huisvestingsverordening kan de gemeenteraad bepalen dat bij de verlening van huisvestingsvergunningen voorrang wordt gegeven aan woningzoekenden die economisch of maatschappelijk gebonden zijn aan de woningmarktregio, de gemeente of een tot de gemeente behorende kern voor een of meer daarbij aangewezen categorieën woonruimte voor zover de gemeente als gevolg van regels gesteld bij of krachtens een algemene maatregel van bestuur als bedoeld in artikel 4.3 van de Wet ruimtelijke ordening of bij een provinciale verordening als bedoeld in artikel 4.1 van die wet geringe of geen mogelijkheden heeft tot uitbreiding van de woonruimtevoorraad.   
 2.  In de huisvestingsverordening kan de gemeenteraad voor zover het een andere gemeente dan die, bedoeld in eerste lid, betreft, bepalen dat bij de verlening van huisvestingsvergunningen voor ten hoogste 50 procent van een of meer daarbij aangewezen categorieën woonruimte, voorrang wordt gegeven aan woningzoekenden die economisch of maatschappelijk gebonden zijn aan de woningmarktregio. Voor ten hoogste de helft van dat percentage mag bij de verlening van huisvestingsvergunningen voorrang worden gegeven aan woningzoekenden die economisch of maatschappelijk gebonden zijn aan een tot de gemeente behorende kern.   
@@ -181,10 +156,7 @@ b. maatschappelijk gebonden aan de woningmarktregio, de gemeente of de kern indi
 
 ####Verlening en intrekking van de huisvestingsvergunning
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  15  
-Treedt in werking per 01-01-2015 
 
 1.  Een huisvestingsvergunning wordt verleend indien de aanvrager behoort tot een krachtens artikel 10, eerste lid, aangewezen categorie woningzoekenden en hij voldoet aan het bepaalde in artikel 10, tweede lid.   
 2.  Indien de woonruimte is aangewezen op grond van artikel 11, 12, eerste lid, of 14, eerste of tweede lid, kan de huisvestingsvergunning worden geweigerd indien een of meer andere woningzoekenden aan wie op grond van die artikelen voorrang kan worden gegeven in aanmerking wensen te komen voor die woonruimte.   
@@ -192,7 +164,6 @@ Treedt in werking per 01-01-2015
 4.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
 
 ### Artikel  16  
-Treedt in werking per 01-01-2015 
 
 Artikel 15, tweede lid, is met betrekking tot een op grond van artikel 14, eerste of tweede lid, aangewezen woonruimte niet van toepassing ten aanzien van: 
 
@@ -201,14 +172,12 @@ a. vergunninghouders die na de verlening van de verblijfsvergunning voor de eers
 b. woningzoekenden die verblijven in een voorziening voor tijdelijke opvang van personen die in verband met problemen van relationele aard of geweld hun woonruimte hebben verlaten.   
 
 ### Artikel  16a  
-Treedt in werking per 01-01-2015 
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/458 per 29-11-2014. 
 1.  De vergunning kan, in afwijking van artikel 16, eerste lid, worden geweigerd in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
 2.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.  
 
 ### Artikel  17  
-Treedt in werking per 01-01-2015 
 
 1.  Artikel 15, tweede lid, is met betrekking tot een op grond van artikel 14, eerste of tweede lid, aangewezen woonruimte voorts niet van toepassing indien de eigenaar van de woonruimte gedurende een door de gemeenteraad in de huisvestingsverordening vastgestelde termijn die woonruimte vruchteloos heeft aangeboden aan woningzoekenden als bedoeld in dat lid, en: 
 
@@ -220,7 +189,6 @@ c. ingeval de woonruimte te koop wordt aangeboden, de koopprijs niet hoger is da
 2.  De gemeenteraad stelt in de huisvestingsverordening een termijn als bedoeld in het eerste lid van ten hoogste dertien weken en stelt regels met betrekking tot de wijze waarop de aanbieding, bedoeld in het eerste lid, dient plaats te vinden. De gemeenteraad kan daarbij regels stellen omtrent de wijze waarop ten genoegen van burgemeester en wethouders moet worden aangetoond dat de aanbieding in overeenstemming met het bij en krachtens deze wet bepaalde heeft plaatsgevonden, alsmede met betrekking tot de wijze waarop aan burgemeester en wethouders verslag moet worden uitgebracht over het verloop van de aanbiedingsprocedure.  
 
 ### Artikel  18  
-Treedt in werking per 01-01-2015 
 
 1. Burgemeester en wethouders kunnen een huisvestingsvergunning intrekken indien: 
 
@@ -231,7 +199,6 @@ b. die vergunning is verleend op grond van door de houder van de vergunning vers
 3.  Voordat toepassing wordt gegeven aan het tweede lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd. 
 
 ### Artikel  19  
-Treedt in werking per 01-01-2015 
 
 Burgemeester en wethouders kunnen van de bevoegdheden krachtens de artikelen 15 tot en met 17 mandaat verlenen aan eigenaren of beheerders van woonruimte voor zover het die woonruimte betreft. 
 
@@ -239,10 +206,7 @@ Burgemeester en wethouders kunnen van de bevoegdheden krachtens de artikelen 15 
 
 ####Aanbieding van woonruimte
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  20  
-Treedt in werking per 01-01-2015 
 
 In de huisvestingsverordening kan de gemeenteraad regels stellen omtrent de wijze van bekendmaken van het aanbod van de op grond van artikel 7 aangewezen categorieën woonruimte die bestemd zijn voor verhuur. 
 
@@ -250,16 +214,11 @@ In de huisvestingsverordening kan de gemeenteraad regels stellen omtrent de wijz
 
 ####Wijzigingen in de woonruimtevoorraad
 
-Treedt in werking per 01-01-2015 
-
 ### §  1  
 
 ####Aanwijzing vergunningplichtige woonruimte
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  21  
-Treedt in werking per 01-01-2015 
 
 Het is verboden om een woonruimte, behorend tot een met het oog op het behoud of de samenstelling van de woonruimtevoorraad door de gemeenteraad in de huisvestingsverordening aangewezen categorie gebouwen en die gelegen is in een in de huisvestingsverordening aangewezen wijk, zonder vergunning van burgemeester en wethouders: 
 
@@ -278,7 +237,6 @@ Treedt in werking op een nader te bepalen tijdstip
 2.  Op het verlenen van deelnemings- of lidmaatschapsrechten of het aangaan van een verbintenis daartoe door een rechtspersoon is het eerste lid van overeenkomstige toepassing.  
 
 ### Artikel  23  
-Treedt in werking per 01-01-2015 
 
 Een vergunning als bedoeld in artikel 21 of 22 kan slechts worden aangevraagd door de eigenaar van de woonruimte respectievelijk het gebouw. 
 
@@ -286,10 +244,7 @@ Een vergunning als bedoeld in artikel 21 of 22 kan slechts worden aangevraagd do
 
 ####Criteria voor verlening van de vergunning
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  24  
-Treedt in werking per 01-01-2015 
 
 De gemeenteraad stelt in de huisvestingsverordening regels omtrent de gronden die tot weigering van een vergunning als bedoeld in artikel 21 of 22 kunnen leiden en de voorwaarden en voorschriften die burgemeester en wethouders kunnen verbinden aan een vergunning als bedoeld in die artikelen. 
 
@@ -297,10 +252,7 @@ De gemeenteraad stelt in de huisvestingsverordening regels omtrent de gronden di
 
 ####Verlening van de vergunning
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  25  
-Treedt in werking per 01-01-2015 
 
 1.  De vergunning, bedoeld in artikel 21 of 22, kan worden geweigerd in het geval en onder de voorwaarden, bedoeld in artikel 3 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur.   
 2.  Voordat toepassing wordt gegeven aan het eerste lid, kan het Bureau bevordering integriteitsbeoordelingen door het openbaar bestuur, bedoeld in artikel 8 van de Wet bevordering integriteitsbeoordelingen door het openbaar bestuur, om een advies als bedoeld in artikel 9 van die wet worden gevraagd.  
@@ -309,7 +261,6 @@ Treedt in werking per 01-01-2015
 3.  Afdeling 4.1.3.3 van de Algemene wet bestuursrecht is van toepassing.  
 
 ### Artikel  26  
-Treedt in werking per 01-01-2015 
 
 1. Burgemeester en wethouders kunnen een vergunning als bedoeld in artikel 21 of 22 intrekken indien: 
 
@@ -325,10 +276,7 @@ c. de voorwaarden of voorschriften, bedoeld in artikel 24, niet worden nageleefd
 
 ####Inschrijving splitsingsakte
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  27  
-Treedt in werking per 01-01-2015 
 
 Inschrijving in de openbare registers van een akte als bedoeld in artikel 109 van Boek 5 van het Burgerlijk Wetboek vindt alleen plaats indien onder de akte een notariële verklaring is opgenomen dat ten tijde van het verlijden van de akte een vergunning als bedoeld in artikel 22 niet was vereist dan wel onherroepelijk is geworden. 
 
@@ -336,21 +284,15 @@ Inschrijving in de openbare registers van een akte als bedoeld in artikel 109 va
 
 ####Bovengemeentelijke voorschriften
 
-Treedt in werking per 01-01-2015 
-
 ### §  1  
 
 ####Huisvesting van vergunninghouders
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  28  
-Treedt in werking per 01-01-2015 
 
 Burgemeester en wethouders dragen zorg voor de voorziening in de huisvesting van vergunninghouders in de gemeente overeenkomstig de voor de gemeente geldende taakstelling. 
 
 ### Artikel  29  
-Treedt in werking per 01-01-2015 
 
 1.  De taakstelling, bedoeld in artikel 28, is de uitkomst, naar boven afgerond op een geheel getal, van de formule:  ![253892](http://wetten.overheid.nl/Illustration/253892)
 in welke formule voorstelt: 
@@ -363,7 +305,6 @@ c.  *iN:* het aantal inwoners van Nederland volgens de door het Centraal bureau 
 2.  Burgemeester en wethouders van twee of meer gemeenten kunnen gezamenlijk besluiten de taakstelling die voor hun onderscheidenlijke gemeenten volgt uit de formule, genoemd in het eerste lid, te wijzigen, met dien verstande dat de som van de aantallen vergunninghouders in wier huisvesting na die wijziging in de betrokken gemeenten tezamen dient te worden voorzien niet wijzigt.  
 
 ### Artikel  30  
-Treedt in werking per 01-01-2015 
 
 1.  Gedeputeerde staten van de betrokken provincie of de betrokken provincies stellen het aantal inwoners van een gemeente op de datum, bedoeld in artikel 29, eerste lid, onderdeel a, vast voor de gemeenten die zijn betrokken bij een wijziging van de gemeentelijke indeling met ingang van 1 januari van het kalenderjaar waartoe het kalenderhalfjaar, bedoeld in artikel 29, eerste lid, onderdeel c, behoort.   
 2.  Bij de vaststelling, bedoeld in het eerste lid, wordt zo veel mogelijk rekening gehouden met de aantallen inwoners van de samenstellende delen van de bij de wijziging van de gemeentelijke indeling betrokken gemeenten.   
@@ -373,10 +314,7 @@ Treedt in werking per 01-01-2015
 
 ####Huisvesting bijzondere groepen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  31  
-Treedt in werking per 01-01-2015 
 
 1.  Bij ministeriële regeling kunnen categorieën van woningzoekenden worden aangewezen, wier huisvesting bijzondere zorg van rijkswege behoeft.   
 2.  Onze Minister kan burgemeester en wethouders een aanwijzing geven met betrekking tot de voorziening in de huisvesting van een of meer personen die behoren tot een krachtens het eerste lid aangewezen categorie indien dat met het oog op de huisvesting van die persoon of personen noodzakelijk is. Alvorens een aanwijzing te geven pleegt Onze Minister overleg met burgemeester en wethouders.   
@@ -387,27 +325,20 @@ Treedt in werking per 01-01-2015
 
 ####Handhaving en toezicht
 
-Treedt in werking per 01-01-2015 
-
 ### §  1  
 
 ####Bestuursrechtelijke handhaving
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  32  
-Treedt in werking per 01-01-2015 
 
 Burgemeester en wethouders dragen zorg voor de bestuursrechtelijke handhaving van het bij of krachtens deze wet bepaalde. 
 
 ### Artikel  33  
-Treedt in werking per 01-01-2015 
 
 1.  Met het toezicht op de naleving van het bij of krachtens deze wet bepaalde zijn belast de bij besluit van burgemeester en wethouders aangewezen ambtenaren.   
 2.  Van een besluit als bedoeld in het eerste lid wordt mededeling gedaan door plaatsing in de Staatscourant.  
 
 ### Artikel  34  
-Treedt in werking per 01-01-2015 
 
 De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een woning binnen te treden zonder toestemming van de bewoner. 
 
@@ -415,10 +346,7 @@ De toezichthouder is bevoegd, met medeneming van de benodigde apparatuur, een wo
 
 ####Bestuurlijke boete
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  35  
-Treedt in werking per 01-01-2015 
 
 1.  De gemeenteraad kan in de huisvestingsverordening bepalen dat een bestuurlijke boete kan worden opgelegd ter zake van de overtreding van de verboden bedoeld in de artikelen 8, 21 of 22, of van het handelen in strijd met de voorwaarden of voorschriften, bedoeld in artikel 26. Burgemeester en wethouders zijn bevoegd tot het opleggen van een bestuurlijke boete.   
 2.  De op te leggen bestuurlijke boete bedraagt ten hoogste: 
@@ -438,70 +366,55 @@ Vervallen per 01-01-2015
 
 ####Wijziging van enkele wetten
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  39  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Burgerlijk Wetboek Boek 7. 
 
 ### Artikel  40  
-Treedt in werking per 01-01-2015 
 
 Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/458 per 29-11-2014.Wijzigt de Evaluatie- en uitbreidingswet Bibob. 
 
 ### Artikel  41  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Leegstandwet. 
 
 ### Artikel  42  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Uitvoeringswet huurprijzen woonruimte. 
 
 ### Artikel  43  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet bijzondere maatregelen grootstedelijke problematiek. 
 
 ### Artikel  44  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet Centraal Orgaan opvang asielzoekers. 
 
 ### Artikel  45  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet geluidhinder. 
 
 ### Artikel  45a  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Algemene wet bestuursrecht.
 
 ### Artikel  46  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomstenbelasting 2001. 
 
 ### Artikel  47  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de huurtoeslag. 
 
 ### Artikel  48  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de vennootschapsbelasting 1969. 
 
 ### Artikel  49  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op het overleg huurders verhuurder. 
 
 ### Artikel  50  
-Treedt in werking per 01-01-2015 
 
 De volgende wetten worden ingetrokken: 
 
@@ -517,29 +430,24 @@ d. de wet van 2 maart 2005, houdende wijziging van de Huisvestingwet (wijziging
 
 ####Overgangs- en slotbepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  51  
-Treedt in werking per 01-01-2015 
 
 1.  De Huisvestingswet wordt ingetrokken.   
 2.  Een verordening die berust op de Huisvestingswet vervalt zes maanden na het tijdstip van inwerkingtreding van deze wet.   
-3.  Een vergunning als bedoeld in de artikelen 25 en 26, eerste en tweede lid, van de Huisvestingswet, die is verleend voor het tijdstip van inwerkingtreding van een huisvestingsverordening, wordt gelijkgesteld met een huisvestingsvergunning.   
-4.  Een vergunning als bedoeld in de artikelen 30, eerste lid, en 33, van de Huisvestingswet, die is verleend voor het tijdstip van inwerkingtreding van een huisvestingsverordening, wordt gelijkgesteld met een vergunning die is verleend met toepassing van artikel 21 onderscheidenlijk 22.   
-5.  Aanvragen om een vergunning die zijn ingediend voor het tijdstip van inwerkingtreding van een huisvestingsverordening, worden behandeld volgens het voor het tijdstip van inwerkingtreding van deze wet geldende recht.  
+3.  Het tweede lid is niet van toepassing op de huisvestingsverordeningen, bedoeld in artikel 2, derde lid, van de Huisvestingswet. Op deze verordeningen is artikel XXIII van de Wet afschaffing plusregio’s van toepassing.  
+4.  Een vergunning als bedoeld in de artikelen 25 en 26, eerste en tweede lid, van de Huisvestingswet, die is verleend voor het tijdstip van inwerkingtreding van een huisvestingsverordening, wordt gelijkgesteld met een huisvestingsvergunning.   
+5.  Een vergunning als bedoeld in de artikelen 30, eerste lid, en 33, van de Huisvestingswet, die is verleend voor het tijdstip van inwerkingtreding van een huisvestingsverordening, wordt gelijkgesteld met een vergunning die is verleend met toepassing van artikel 21 onderscheidenlijk 22.   
+6.  Aanvragen om een vergunning die zijn ingediend voor het tijdstip van inwerkingtreding van een huisvestingsverordening, worden behandeld volgens het voor het tijdstip van inwerkingtreding van deze wet geldende recht.  
 
 ### Artikel  52  
-Treedt in werking per 01-01-2015 
 
 Onze Minister zendt binnen vijf jaar na het tijdstip van inwerkingtreding van deze wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  53  
-Treedt in werking per 01-01-2015 
 
 Deze wet treedt in werking op een bij koninklijk besluit te bepalen tijdstip. 
 
 ### Artikel  54  
-Treedt in werking per 01-01-2015 
 
 Deze wet wordt aangehaald als: Huisvestingswet 2014. 
 

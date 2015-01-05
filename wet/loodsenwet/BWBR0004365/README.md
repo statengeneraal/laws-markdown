@@ -545,26 +545,30 @@ d. verval of beperking van de bevoegdheid.
 ### Artikel  29  
 
 1.  Er is een tuchtcollege loodsen dat is gevestigd te 's-Gravenhage.    
-2.  Het tuchtcollege loodsen is belast met de behandeling van zaken als bedoeld in artikel 28.  
-3. Het tuchtcollege loodsen bestaat uit een voorzitter en vier registerloodsen.Bij algemene maatregel van bestuur kunnen graden, verleend door een universiteit, de Open Universiteit of een hogeschool als bedoeld in de Wet op het hoger onderwijs en wetenschappelijk onderzoek, of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van onderdeel a gelijk worden gesteld aan de in dat onderdeel bedoelde graad Bachelor op het gebied van het recht. 
+2.  Het tuchtcollege loodsen is belast met de behandeling van zaken als bedoeld in artikel 28.   
+3.  Het tuchtcollege loodsen bestaat uit een voorzitter en vier registerloodsen. Tot voorzitter kan worden benoemd degene:
+
+a. aan wie op grond van het afsluitend examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit, waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht is verleend, of  
+
+b. die op grond van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit, waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het recht heeft verkregen om de titel meester te voeren.   
 
 ### Artikel  30  
 
-1.  De voorzitter en de overige leden, alsmede voor elk hunner een of meer plaatsvervangers worden voor de tijd van zes jaren benoemd door Onze Minister en Onze Minister van Justitie. Zij zijn bij hun aftreden weer benoembaar. Op eigen verzoek kunnen zij door Onze voornoemde Ministers worden ontslagen. De benoemingstermijn van hem die wordt benoemd ter vervulling van een tussentijdse vacature, eindigt bij het verstrijken van de benoemingstermijn van degene in wiens plaats hij is getreden.    
+1.  De voorzitter en de overige leden, alsmede voor elk hunner een of meer plaatsvervangers worden voor de tijd van zes jaren benoemd door Onze Minister. Zij zijn bij hun aftreden weer benoembaar. Op eigen verzoek kunnen zij door Onze Minister worden ontslagen. De benoemingstermijn van hem die wordt benoemd ter vervulling van een tussentijdse vacature, eindigt bij het verstrijken van de benoemingstermijn van degene in wiens plaats hij is getreden.    
 2.   De voorzitter moet voldoen aan de vereisten voor benoeming tot rechter in een rechtbank. Uit iedere regionale corporatie wordt een registerloods benoemd uit een voordracht van het bestuur van een regionale corporatie welke ten minste twee personen bevat die behoren tot de betreffende regionale corporatie en geen lid of plaatsvervangend lid van dat bestuur zijn.    
 3.   Voor de in het eerste lid bedoelde plaatsvervangers is het bepaalde in het tweede lid van overeenkomstige toepassing.   
 4. Het tuchtcollege loodsen heeft een secretaris en zo nodig een plaatsvervangend secretaris:
 
 a.aan wie op grond van een afsluitend examen van een opleiding in het wetenschappelijk onderwijs door een universiteit dan wel de Open Universiteit, waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, de graad Bachelor op het gebied van het recht en tevens de graad Master op het gebied van het recht is verleend, of
 
-b.die op grond van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit, waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het recht heeft verkregen om de titel meester te voeren. Zij worden door Onze Minister en Onze Minister van Justitie benoemd, geschorst en ontslagen.   
+b.die op grond van het afsluitend examen van een opleiding op het gebied van het recht aan een universiteit dan wel de Open Universiteit, waarop de Wet op het hoger onderwijs en wetenschappelijk onderzoek betrekking heeft, het recht heeft verkregen om de titel meester te voeren. Zij worden door Onze Minister benoemd, geschorst en ontslagen.   
 5.   De voorzitter en de secretaris, alsmede hun plaatsvervangers, worden in ieder geval ontslagen met ingang van de maand volgend op die waarin zij de leeftijd van zeventig jaar hebben bereikt.   
 
 ### Artikel  31  
 
 1.  Echtgenoten of geregistreerde partners, bloedverwanten of aanverwanten tot de derde graad ingesloten, kunnen niet tezamen zijn voorzitter of plaatsvervangend voorzitter, lid of plaatsvervangend lid en secretaris van het tuchtcollege loodsen.    
 2.   Indien het huwelijk of het geregistreerd partnerschap eerst mocht worden aangegaan na de benoeming, zal de jongstbenoemde der echtelieden of geregistreerde partners zijn ambt niet kunnen behouden.    
-3.   Indien de aanverwantschap eerst mocht zijn ontstaan na de benoeming, zal degene, die haar veroorzaakte, zijn ambt niet kunnen behouden, behoudens door Onze Minister en Onze Minister van Justitie te verlenen vergunning.    
+3.   Indien de aanverwantschap eerst mocht zijn ontstaan na de benoeming, zal degene, die haar veroorzaakte, zijn ambt niet kunnen behouden, behoudens door Onze Minister te verlenen vergunning.    
 4.   De aanverwantschap houdt op door de ontbinding van het huwelijk of het geregistreerd partnerschap dat haar veroorzaakte.   
 
 ### Artikel  32  
@@ -589,7 +593,7 @@ b. de procureur-generaal niet verplicht is aan het verzoek, bedoeld in artikel 1
 
 ### Artikel  35  
 
-De voorzitter, de overige leden en de secretaris, alsmede hun plaatsvervangers, ontvangen een vacatiegeld, alsmede vergoeding van reis- en verblijfkosten en van verdere verschotten, volgens door Onze Minister en Onze Minister van Justitie te stellen regels.  
+De voorzitter, de overige leden en de secretaris, alsmede hun plaatsvervangers, ontvangen een vacatiegeld, alsmede vergoeding van reis- en verblijfkosten en van verdere verschotten, volgens door Onze Minister te stellen regels.  
 
 ### §  3  
 
@@ -654,7 +658,7 @@ Beslissingen van het tuchtcollege loodsen, genomen met een ander aantal personen
 
 ### Artikel  44  
 
-De artikelen 1, onderdeel b, 3, 4, eerste lid, 5, 31 tot en met 43 en 44 eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004 zijn van overeenkomstige toepassing, met dien verstande dat: 
+De artikelen 1, onderdeel b, 3, 4, eerste lid, 5, 31 tot en met 43 en 44 eerste lid, van de Wet tuchtrechtspraak bedrijfsorganisatie 2004, zoals die wet luidde onmiddellijk voorafgaand aan het tijdstip waarop die wet werd ingetrokken zijn van overeenkomstige toepassing, met dien verstande dat: 
 
 a. van artikel 4, eerste lid, slechts de minimumboete van overeenkomstige toepassing is; 
 

@@ -13,15 +13,11 @@ Zo is het, dat Wij, de Afdeling advisering van de Raad van State gehoord, en met
 
 ####Wet werk en bijstand
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Wet werk en bijstand. 
 
 ### Artikel  II  
 
 ####Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers. 
 
@@ -29,15 +25,11 @@ Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte wer
 
 ####Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen. 
 
 ### Artikel  IV  
 
 ####Algemene Kinderbijslagwet
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Algemene Kinderbijslagwet. 
 
@@ -45,15 +37,11 @@ Wijzigt de Algemene Kinderbijslagwet.
 
 ####Algemene nabestaandenwet
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Algemene nabestaandenwet. 
 
 ### Artikel  VI  
 
 ####Algemene Ouderdomswet
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Algemene Ouderdomswet. 
 
@@ -61,15 +49,11 @@ Wijzigt de Algemene Ouderdomswet.
 
 ####Werkloosheidswet
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Werkloosheidswet. 
 
 ### Artikel  VIII  
 
 ####Wet inkomensvoorziening oudere werklozen
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet inkomensvoorziening oudere werklozen. 
 
@@ -77,15 +61,11 @@ Wijzigt de Wet inkomensvoorziening oudere werklozen.
 
 ####Toeslagenwet
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Toeslagenwet. 
 
 ### Artikel  X  
 
 ####Wet arbeid en zorg
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet arbeid en zorg. 
 
@@ -93,15 +73,11 @@ Wijzigt de Wet arbeid en zorg.
 
 ####Ziektewet
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Ziektewet. 
 
 ### Artikel  XII  
 
 ####Wet op de arbeidsongeschiktheidsverzekering
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet op de arbeidsongeschiktheidsverzekering. 
 
@@ -109,15 +85,11 @@ Wijzigt de Wet op de arbeidsongeschiktheidsverzekering.
 
 ####Wet arbeidsongeschiktheidsverzekering zelfstandigen
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Wet arbeidsongeschiktheidsverzekering zelfstandigen. 
 
 ### Artikel  XIV  
 
 ####Wet werk en inkomen naar arbeidsvermogen
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet werk en inkomen naar arbeidsvermogen. 
 
@@ -125,15 +97,11 @@ Wijzigt de Wet werk en inkomen naar arbeidsvermogen.
 
 ####Wet werk en arbeidsondersteuning jonggehandicapten
 
-Treedt in werking per 01-01-2015 
-
 Wijzigt de Wet werk en arbeidsondersteuning jonggehandicapten. 
 
 ### Artikel  XVI  
 
 ####Wetboek van Burgerlijke Rechtsvordering
-
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Wetboek van Burgerlijke Rechtsvordering. 
 
@@ -141,16 +109,12 @@ Wijzigt het Wetboek van Burgerlijke Rechtsvordering.
 
 ####Eenmalige aanpassing bedragen
 
-Treedt in werking per 01-01-2015 
-
-1.  Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de artikelen I, onderdeel I, II, onderdelen C en I, III, onderdelen A en D, IX, onderdelen A en H, en XVIII van deze wet eenmalig aanpassen na de datum van inwerkingtreding van die artikelen.   
+1.  Onze Minister van Sociale Zaken en Werkgelegenheid kan de bedragen, genoemd in de artikelen I, onderdeel I, II, onderdelen C en I, III, onderdelen A en E, IX, onderdelen A en H, en XVIII van deze wet eenmalig aanpassen na de datum van inwerkingtreding van die artikelen.   
 2.  Dit artikel vervalt zes maanden na de inwerkingtreding van de artikelen, genoemd in het eerste lid.  
 
 ### Artikel  XVIII  
 
 ####Overgangsrecht Wet werk en bijstand
-
-Treedt in werking per 01-01-2015 
 
 1.  Op de alleenstaande, alleenstaande ouder of gehuwde die op 31 december 2014 recht heeft op algemene bijstand en met een of meer meerderjarige personen, waarbij de echtgenoot van de gehuwde niet meetelt tenzij deze echtgenoot geen recht op algemene bijstand heeft, in dezelfde woning zijn hoofdverblijf heeft: 
 
@@ -177,23 +141,17 @@ b. op wie het eerste lid niet van toepassing is,   wordt tot 1 juli 2015 in art
 
 ####Overgangsrecht Wetboek van Burgerlijke Rechtsvordering
 
-Treedt in werking per 01-01-2015 
-
 Op de schuldenaar op wie op de dag voorafgaand aan de datum van inwerkingtreding van artikel XVI de schuldsaneringsregeling natuurlijke personen van toepassing is, is gedurende de periode dat uitvoering wordt gegeven aan die regeling artikel XVI niet van toepassing. 
 
 ### Artikel  XX  
 
 ####Inwerkingtreding
 
-Treedt in werking per 01-01-2015 
-
 De artikelen van deze wet treden in werking op een bij koninklijk besluit te bepalen tijdstip, dat voor de verschillende artikelen of onderdelen daarvan verschillend kan worden vastgesteld. 
 
 ### Artikel  XXI  
 
 ####Citeertitel
-
-Treedt in werking per 01-01-2015 
 
 Deze wet wordt aangehaald als: Wet maatregelen Wet werk en bijstand en enkele andere wetten. 
 

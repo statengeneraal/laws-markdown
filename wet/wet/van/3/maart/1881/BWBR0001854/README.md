@@ -62,7 +62,7 @@ f. aan het misdrijf omschreven in artikel 207a.
 
 a. aan een van de misdrijven omschreven in de Titels I en II van het Tweede Boek en in de artikelen 192a tot en met 192c, 197a tot en met 197c, 206, 237, 272 en 273;  
 
-b. aan een van de misdrijven omschreven in de artikelen 177, 177a, 178, 180, 189, 200, 285a en 361, voor zover het feit gericht is tegen de rechtspleging van het Internationaal Strafhof;  
+b. aan een van de misdrijven omschreven in de artikelen 177, 178, 179, 180, 189, 200, 207a, 285a en 361, voor zover het feit gericht is tegen de rechtspleging van het Internationaal Strafhof;  
 
 c. aan een van de misdrijven omschreven in de artikelen 240b en 242 tot en met 250;  
 
@@ -545,7 +545,7 @@ Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld ove
 4.  Er zijn zes categorieën:de eerste categorie, € 335 Per 1 januari 2014: € 405.;de tweede categorie, € 3 350 Per 1 januari 2014: € 4.050.;de derde categorie, € 6 700 Per 1 januari 2014: € 8.100.;de vierde categorie, € 16 750 Per 1 januari 2014: € 20.250.;de vijfde categorie, € 67 000 Per 1 januari 2014: € 81.000.;de zesde categorie, € 670 000 Per 1 januari 2014: € 810.000..   
 5.   Voor een overtreding, onderscheidenlijk een misdrijf, waarop geen geldboete is gesteld, kan een geldboete worden opgelegd tot ten hoogste het bedrag van de eerste, onderscheidenlijk de derde categorie.   
 6.   Voor een overtreding, onderscheidenlijk een misdrijf, waarop een geldboete is gesteld, maar waarvoor geen boetecategorie is bepaald, kan een geldboete worden opgelegd tot ten hoogste het bedrag van de eerste, onderscheidenlijk de derde categorie, indien dit bedrag hoger is dan het bedrag van de op het betrokken strafbare feit gestelde geldboete.   
-7.   Bij veroordeling van een rechtspersoon kan, indien de voor het feit bepaalde boetecategorie geen passende bestraffing toelaat, een geldboete worden opgelegd tot ten hoogste het bedrag van de naast hogere categorie.   
+7.   Bij veroordeling van een rechtspersoon kan, indien de voor het feit bepaalde boetecategorie geen passende bestraffing toelaat, een geldboete worden opgelegd tot ten hoogste het bedrag van de naast hogere categorie. Indien voor het feit een geldboete van de zesde categorie kan worden opgelegd en die boetecategorie geen passende bestraffing toelaat, kan een geldboete worden opgelegd tot ten hoogste tien procent van de jaaromzet van de rechtspersoon in het boekjaar voorafgaande aan de uitspraak of strafbeschikking.   
 8.   Het voorgaande lid is van overeenkomstige toepassing bij veroordeling van een vennootschap zonder rechtspersoonlijkheid, maatschap, rederij of doelvermogen.   
 9. De in het vierde lid genoemde bedragen worden elke twee jaar, met ingang van 1 januari van een jaar, bij algemene maatregel van bestuur aangepast aan de ontwikkeling van de consumentenprijsindex sinds de vorige aanpassing van deze bedragen. Bij deze aanpassing wordt het geldbedrag van de eerste categorie op een veelvoud van € 5 naar beneden afgerond en worden, uitgaande van het geldbedrag van deze eerste categorie en onder instandhouding van de onderlinge verhouding tussen de bedragen van de geldboetecategorieën, de bedragen van de tweede tot en met de zesde geldboetecategorie bepaald.
 
@@ -746,9 +746,10 @@ b. voorwerpen die in een periode van zes jaren voorafgaand aan het plegen van da
 5.   De rechter stelt het bedrag vast waarop het wederrechtelijk verkregen voordeel wordt geschat. Onder voordeel is de besparing van kosten begrepen. De waarde van voorwerpen die door de rechter tot het wederrechtelijk verkregen voordeel worden gerekend, kan worden geschat op de marktwaarde op het tijdstip van de beslissing of door verwijzing naar de bij openbare verkoop te behalen opbrengst, indien verhaal moet worden genomen. De rechter kan het te betalen bedrag lager vaststellen dan het geschatte voordeel. Op het gemotiveerde verzoek van de verdachte of veroordeelde kan de rechter, indien de huidige en de redelijkerwijs te verwachten toekomstige draagkracht van de verdachte of veroordeelde niet toereikend zullen zijn om het te betalen bedrag te voldoen, bij de vaststelling van het te betalen bedrag daarmee rekening houden. Bij het ontbreken van zodanig verzoek kan de rechter ambtshalve of op vordering van de officier van justitie deze bevoegdheid toepassen.   
 6.   Onder voorwerpen worden verstaan alle zaken en alle vermogensrechten.   
 7.  Bij het vaststellen van het bedrag van het wederrechtelijk verkregen voordeel op grond van het eerste en tweede lid ter zake van strafbare feiten die door twee of meer personen zijn gepleegd, kan de rechter bepalen dat deze hoofdelijk dan wel voor een door hem te bepalen deel aansprakelijk zijn voor de gezamenlijke betalingsverplichting.  
-8.   Bij de bepaling van de omvang van het bedrag waarop het wederrechtelijk verkregen voordeel wordt geschat, worden aan benadeelde derden in rechte toegekende vorderingen alsmede de verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer als bedoeld in artikel 36f voor zover die zijn voldaan, in mindering gebracht.   
-9.   Bij de oplegging van de maatregel wordt rekening gehouden met uit hoofde van eerdere beslissingen opgelegde verplichtingen tot betaling van een geldbedrag ter ontneming van wederrechtelijk verkregen voordeel.   
-10.  Lijfsdwang kan met toepassing van artikel 577c van het Wetboek van Strafvordering door de rechter tot maximaal drie jaar worden bevolen en geldt als maatregel. 
+8.  De rechter kan bij de bepaling van de hoogte van het voordeel kosten in mindering brengen die rechtstreeks in verband staan met het begaan van strafbare feiten, bedoeld in het eerste tot en met derde lid, en die redelijkerwijs voor aftrek in aanmerking komen.  
+9.   Bij de bepaling van de omvang van het bedrag waarop het wederrechtelijk verkregen voordeel wordt geschat, worden aan benadeelde derden in rechte toegekende vorderingen alsmede de verplichting tot betaling aan de staat van een som gelds ten behoeve van het slachtoffer als bedoeld in artikel 36f voor zover die zijn voldaan, in mindering gebracht.   
+10.   Bij de oplegging van de maatregel wordt rekening gehouden met uit hoofde van eerdere beslissingen opgelegde verplichtingen tot betaling van een geldbedrag ter ontneming van wederrechtelijk verkregen voordeel.   
+11.  Lijfsdwang kan met toepassing van artikel 577c van het Wetboek van Strafvordering door de rechter tot maximaal drie jaar worden bevolen en geldt als maatregel. 
 
 ### Artikel  36f  
 
@@ -1428,7 +1429,7 @@ c. de wijze waarop de toestemming van de officier van justitie kan worden verkre
 
 1.  In een strafbeschikking kan de officier van justitie tevens de aanwijzing geven dat: 
 
-a. de jeugdige zich zal richten naar de aanwijzingen van een stichting als bedoeld in artikel 1 van de Wet op de jeugdzorg voor een daarbij te bepalen termijn van ten hoogste zes maanden;  
+a. de jeugdige zich zal richten naar de aanwijzingen van een gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet voor een daarbij te bepalen termijn van ten hoogste zes maanden;  
 
 b. indien de jeugdige ten tijde van het begaan van het strafbaar feit de leeftijd van zestien jaren reeds heeft bereikt, kan de officier van justitie in plaats daarvan de aanwijzing geven dat de jeugdige zich zal richten naar de aanwijzingen van een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid.    
 2. In afwijking van artikel 257a, tweede lid, onderdeel a, van het Wetboek van Strafvordering kan de officier van justitie in een strafbeschikking een taakstraf opleggen voor ten hoogste zestig uren. Indien de taakstraf bestaat uit een werkstraf wordt deze verricht binnen een termijn van vier maanden. Indien de taakstraf bestaat uit een leerstraf wordt deze verricht binnen een termijn van zes maanden. Artikel 77m, negende lid, is van overeenkomstige toepassing.  
@@ -1535,7 +1536,7 @@ b. een van de misdrijven omschreven in de artikelen 240b, 248a, 248b, 248c en 25
 
 ### Artikel  77o  
 
-1.  De raad voor de kinderbescherming heeft tot taak de voorbereiding en de ondersteuning van de tenuitvoerlegging van taakstraffen. Over de wijze waarop de veroordeelde de taakstraf uitvoert, kan het openbaar ministerie inlichtingen inwinnen bij de raad voor de kinderbescherming. Het openbaar ministerie kan diens medewerking inroepen en hem de nodige opdrachten geven. De raad voor de kinderbescherming is bevoegd aanwijzingen te geven aan de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, wanneer het de tenuitvoerlegging van een taakstraf door de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg betreft.   
+1.  De raad voor de kinderbescherming heeft tot taak de voorbereiding en de ondersteuning van de tenuitvoerlegging van taakstraffen. Over de wijze waarop de veroordeelde de taakstraf uitvoert, kan het openbaar ministerie inlichtingen inwinnen bij de raad voor de kinderbescherming. Het openbaar ministerie kan diens medewerking inroepen en hem de nodige opdrachten geven. De raad voor de kinderbescherming is bevoegd aanwijzingen te geven wanneer het de tenuitvoerlegging van een taakstraf door die instelling betreft.   
 2.  Bij de tenuitvoerlegging van de taakstraf wordt de identiteit van de veroordeelde vastgesteld op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering.   
 3.  Het openbaar ministerie kan na overleg met de raad voor de kinderbescherming en de veroordeelde, de opgelegde straf, behoudens voor wat betreft het aantal opgelegde uren, wijzigen indien het van oordeel is dat de veroordeelde de taakstraf niet geheel overeenkomstig het vonnis of de strafbeschikking kan of heeft kunnen volbrengen. Hij benadert daarbij zo veel mogelijk de opgelegde taakstraf. Het openbaar ministerie geeft hiervan kennis aan de veroordeelde en de raad voor de kinderbescherming.   
 4.  Het openbaar ministerie doet deze kennisgeving zo spoedig mogelijk aan de veroordeelde betekenen. De kennisgeving behelst het aantal uren dat naar het oordeel van het openbaar ministerie reeds naar behoren is volbracht, alsmede de straf zoals deze voor het overige nader is vastgesteld.   
@@ -1600,8 +1601,8 @@ b. een afschrift van de aantekeningen omtrent de lichamelijke en geestelijke ges
 
 a. de veroordeelde zich ten tijde van de voorwaardelijke beëindiging niet schuldig maakt aan een strafbaar feit;  
 
-b. de veroordeelde ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt en medewerking verleent aan het toezicht door de stichting, bedoeld in artikel 1, van de Wet op de jeugdzorg dan wel van een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid.    
-2.  Met het toezicht op de naleving van de voorwaarden is het openbaar ministerie belast. Over de wijze waarop de veroordeelde aan de voorwaarden voldoet, wordt het openbaar ministerie door de stichting, de reclasseringsinstelling of reclasseringsambtenaar als bedoeld in het eerste lid, onderdeel b, ingelicht.   
+b. de veroordeelde ten behoeve van het vaststellen van zijn identiteit medewerking verleent aan het nemen van een of meer vingerafdrukken of een identiteitsbewijs als bedoeld in artikel 1 van de Wet op de identificatieplicht ter inzage aanbiedt en medewerking verleent aan het toezicht door de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet dan wel van een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid.    
+2.  Met het toezicht op de naleving van de voorwaarden is het openbaar ministerie belast. Over de wijze waarop de veroordeelde aan de voorwaarden voldoet, wordt het openbaar ministerie door de gecertificeerde instelling, de reclasseringsinstelling of reclasseringsambtenaar als bedoeld in het eerste lid, onderdeel b, ingelicht.   
 3.  Een jaar nadat de maatregel voorwaardelijk is geëindigd als bedoeld in artikel 77s, zevende lid, en artikel 77t, tweede lid, eindigt de maatregel van rechtswege onvoorwaardelijk, tenzij de voorwaardelijke beëindiging wordt verlengd op de wijze als bedoeld in artikel 77tb. In de gevallen waarin de voorwaardelijke beëindiging is verlengd, eindigt de maatregel onvoorwaardelijk nadat de maximale duur van de voorwaardelijke beëindiging is bereikt.  
 
 ### Artikel  77tb  
@@ -1662,15 +1663,14 @@ b.de maatregel in het belang is van een zo gunstig mogelijke verdere ontwikkelin
 7.  Het bevel, bedoeld in het zesde lid, kan door de rechter die kennisneemt van het hoger beroep, ambtshalve, op verzoek van de veroordeelde of op vordering van het openbaar ministerie, worden opgeheven. 
 8. De instellingen of organisaties, bedoeld in het derde lid, stellen voor de uitvoering van het programma een plan vast dat is afgestemd op de problematiek van de veroordeelde. Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld omtrent de eisen waaraan het plan, alsmede waaraan de programma’s en de instellingen of organisaties, bedoeld in het derde lid, moeten voldoen. Bij of krachtens algemene maatregel van bestuur kunnen voorts regels worden gesteld omtrent de werkwijze van de instellingen of organisaties, bedoeld in het derde lid.
 9. De maatregel wordt opgelegd voor de tijd van ten minste zes maanden en ten hoogste een jaar. De termijn gaat in nadat de rechterlijke uitspraak onherroepelijk is geworden.
-10. De stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg heeft tot taak de voorbereiding en de ondersteuning van de tenuitvoerlegging van de maatregel. Bij de tenuitvoerlegging van de maatregel stelt de stichting de identiteit van de veroordeelde vast op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering. Over de wijze waarop de veroordeelde de maatregel uitvoert, kan het openbaar ministerie inlichtingen inwinnen bij de stichting. Indien de jeugdige ten tijde van de tenuitvoerlegging van de maatregel de leeftijd van zestien jaren bereikt of heeft bereikt, kan de rechter bepalen dat de ondersteuning van de tenuitvoerlegging van de maatregel geschiedt door een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid.
+10. De gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet heeft tot taak de voorbereiding en de ondersteuning van de tenuitvoerlegging van de maatregel. Bij de tenuitvoerlegging van de maatregel stelt de gecertificeerde instelling de identiteit van de veroordeelde vast op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering. Over de wijze waarop de veroordeelde de maatregel uitvoert, kan het openbaar ministerie inlichtingen inwinnen bij de gecertificeerde instelling. Indien de jeugdige ten tijde van de tenuitvoerlegging van de maatregel de leeftijd van zestien jaren bereikt of heeft bereikt, kan de rechter bepalen dat de ondersteuning van de tenuitvoerlegging van de maatregel geschiedt door een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid.
 11. De termijn van de maatregel loopt niet gedurende de tijd dat aan de veroordeelde uit anderen hoofde rechtens zijn vrijheid is ontnomen en gedurende de tijd dat hij uit zodanige vrijheidsontneming ongeoorloofd afwezig is. 
 12.  De maatregel eindigt van rechtswege bij het onherroepelijk worden van een rechterlijke uitspraak waarbij de verdachte opnieuw de maatregel of de maatregel plaatsing in een inrichting voor jeugdigen wordt opgelegd. 
 
 ### Artikel 77wa 
 
-1. De rechter kan bepalen dat het in artikel 77w, derde lid, bedoelde programma geheel of ten dele komt te bestaan uit een vorm van zorg als bedoeld in artikel 5, tweede lid, onderdelen a en b, van de Wet op de jeugdzorg, indien de stichting, bedoeld in artikel 1, eerste lid, van die wet ten aanzien van de verdachte een besluit heeft genomen waaruit blijkt dat deze op deze vorm van zorg is aangewezen. Het besluit wordt overgelegd bij het advies van de raad voor de kinderbescherming.
-2. In afwijking van het eerste lid kan de rechter, indien de stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg een besluit waaruit blijkt of de verdachte op deze vorm van zorg is aangewezen niet of niet tijdig neemt, op een daartoe strekkend advies van de raad voor de kinderbescherming bepalen dat het in artikel 77w, derde lid, bedoelde programma geheel of ten dele komt te bestaan uit een vorm van zorg als bedoeld in het eerste lid.
-3. Indien de rechter toepassing heeft gegeven aan het bepaalde in het tweede lid, doet de raad daarvan onverwijld mededeling aan de stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg.
+1.  De rechter kan bepalen dat het in artikel 77w, derde lid, bedoelde programma geheel of ten dele komt te bestaan uit een vorm van jeugdhulp als bedoeld in artikel 1.1 van de Jeugdwet.   
+2.  Indien de rechter toepassing heeft gegeven aan het bepaalde in het eerste lid, doet de raad daarvan onverwijld mededeling aan de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet. 
 
 ### Artikel 77wb 
 
@@ -1769,18 +1769,18 @@ b. de veroordeelde, voor zover aan de toepassing van artikel 77x bijzondere voor
 
 15°. andere voorwaarden, het gedrag van de veroordeelde betreffende.     
 3.  Aan een bijzondere voorwaarde kan elektronisch toezicht worden verbonden.   
-4.  De voorwaarden in het tweede lid, onderdelen 10°, 11° of 15° en de gedragsinterventie, bedoeld in het tweede lid, onderdeel 13°, kunnen geheel of ten dele bestaan uit een vorm van zorg als bedoeld in artikel 5, tweede lid, onderdelen a en b, van de Wet op de jeugdzorg, indien de stichting, bedoeld in artikel 1 van die wet ten aanzien van de veroordeelde een besluit heeft genomen waaruit blijkt dat deze op deze vorm van zorg is aangewezen. 
+4.  De voorwaarden in het tweede lid, onderdelen 10°, 11° of 15° en de gedragsinterventie, bedoeld in het tweede lid, onderdeel 13°, kunnen geheel of ten dele bestaan uit van jeugdhulp als bedoeld in artikel 1.1 van de Jeugdwet. 
 
 ### Artikel  77za  
 
-1.  De rechter kan bij zijn uitspraak, ambtshalve of op vordering van het openbaar ministerie, bevelen dat de op grond van artikel 77z gestelde voorwaarden, de op grond van artikel 77aa, tweede en derde lid, te verlenen hulp en steun dan wel het op grond van artikel 77aa, vierde lid, uit te oefenen toezicht, dadelijk uitvoerbaar zijn, indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.   
+1.  De rechter kan bij zijn uitspraak, ambtshalve of op vordering van het openbaar ministerie, bevelen dat de op grond van artikel 77z gestelde voorwaarden, en het op grond van artikel 77aa uit te oefenen toezicht, dadelijk uitvoerbaar zijn, indien er ernstig rekening mee moet worden gehouden dat de veroordeelde wederom een misdrijf zal begaan dat gericht is tegen of gevaar veroorzaakt voor de onaantastbaarheid van het lichaam van een of meer personen.   
 2.  Het bevel, bedoeld in het eerste lid, kan door de rechter die kennisneemt van het hoger beroep, ambtshalve, op verzoek van de veroordeelde of op vordering van het openbaar ministerie, worden opgeheven.  
 
 ### Artikel  77aa  
 
 1.  Met het toezicht op de naleving van de voorwaarden is het openbaar ministerie belast.   
-2.   De rechter kan aan een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, of, in bijzondere gevallen en na overleg met een dergelijke rechtspersoon, aan een particulier persoon, opdracht geven toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden. Daarbij stelt de stichting de identiteit van de veroordeelde vast op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering.   
-3.   De rechter kan, indien de veroordeelde ingevolge artikel 254 van Boek 1 van het Burgerlijk Wetboek onder toezicht is gesteld, aan een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg opdragen aan de veroordeelde ter zake van de naleving der bijzondere voorwaarden hulp en steun te verlenen.   
+2.   De rechter kan aan een gecertificeerde instelling als bedoeld in artikel 1.1 van de Jeugdwet, of, in bijzondere gevallen en na overleg met een dergelijke rechtspersoon, aan een particulier persoon, opdracht geven toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden. Daarbij stelt de gecertificeerde instelling de identiteit van de veroordeelde vast op de wijze, bedoeld in artikel 27a, eerste lid, eerste volzin, en tweede lid, van het Wetboek van Strafvordering.   
+3.  Indien de veroordeelde onder toezicht is gesteld ingevolge artikel 255 van Boek 1 van het Burgerlijk Wetboek, kan de rechter de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet, die met dit toezicht is belast, opdracht geven op de naleving van de voorwaarden toe te zien en de veroordeelde ten behoeve daarvan te begeleiden.   
 4.  Indien de jeugdige de leeftijd van zestien jaren heeft bereikt, kan de rechter een in artikel 14d, tweede lid, bedoelde reclasseringsinstelling opdracht geven toezicht te houden op de naleving van de voorwaarden en de veroordeelde ten behoeve daarvan te begeleiden.   
 5.  Bij algemene maatregel van bestuur, op de voordracht van Onze Ministers van Veiligheid en Justitie en van Volksgezondheid, Welzijn en Sport, kunnen regels worden gesteld omtrent de aard en de omvang van het toezicht en de begeleiding, bedoeld in het tweede en derde lid. 
 
@@ -1834,7 +1834,8 @@ a. projecten als bedoeld in de artikelen 77e en 77f, eerste lid, onder b,
 b. taakstraffen als bedoeld in artikel 77h, tweede lid, en  
 
 c.maatregelen betreffende het gedrag van de jeugdige als bedoeld in artikel 77h, vierde lid, onderdeel b.   
-4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de inhoud van de taakstraf, de tenuitvoerlegging van de taakstraf en de rechten en plichten van de tot een taakstraf veroordeelde. Daarbij kan van het aantal uren dat een leerproject kan duren, genoemd in artikel 77m, vierde lid, worden afgeweken indien de aard van het leerproject daartoe aanleiding geeft.  
+4.  Bij of krachtens algemene maatregel van bestuur worden nadere regels gesteld over de inhoud van de taakstraf, de tenuitvoerlegging van de taakstraf en de rechten en plichten van de tot een taakstraf veroordeelde. Daarbij kan van het aantal uren dat een leerproject kan duren, genoemd in artikel 77m, vierde lid, worden afgeweken indien de aard van het leerproject daartoe aanleiding geeft.   
+5.  Bij algemene maatregel van bestuur worden nadere regels gesteld over de tenuitvoerlegging van een straf of maatregel waarvan de rechter heeft gelast dat deze geheel of gedeeltelijk niet ten uitvoer wordt gelegd. 
 
 ### Artikel  77gg  
 
@@ -1843,8 +1844,8 @@ c.maatregelen betreffende het gedrag van de jeugdige als bedoeld in artikel 77h,
 
 ### Artikel  77hh  
 
-1. De raad voor de kinderbescherming heeft tot taak toezicht te houden op de uitvoering van reclasseringswerkzaamheden als bedoeld in artikel 77f, eerste lid, artikel 77j, vierde en vijfde lid, artikel 77s, negende lid, 77w, derde en tiende lid, artikel 77aa, tweede en vierde lid, van het Wetboek van Strafrecht, en artikel 493 van het Wetboek van Strafvordering, en is in dat kader bevoegd de stichting, bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg dan wel, indien het minderjarigen betreft, een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid aanwijzingen te geven. 
-2. In door Onze Minister van Justitie aan te wijzen gevallen kan de raad voor de kinderbescherming de stichting inschakelen voor vrijwillige begeleiding van een jeugdige.
+1. De raad voor de kinderbescherming heeft tot taak toezicht te houden op de uitvoering van reclasseringswerkzaamheden als bedoeld in artikel 77f, eerste lid, artikel 77j, vierde en vijfde lid, artikel 77s, negende lid, 77w, derde en tiende lid, artikel 77aa, tweede en vierde lid, van het Wetboek van Strafrecht, en artikel 493 van het Wetboek van Strafvordering, en is in dat kader bevoegd de gecertificeerde instelling, bedoeld in artikel 1.1 van de Jeugdwet dan wel, indien het minderjarigen betreft, een reclasseringsinstelling als bedoeld in artikel 14d, tweede lid aanwijzingen te geven. 
+2. In door Onze Minister van Justitie aan te wijzen gevallen kan de raad voor de kinderbescherming de gecertificeerde instelling inschakelen voor vrijwillige begeleiding van een jeugdige.
 
 ### Titel  IX  
 
@@ -2899,37 +2900,26 @@ Indien een misdrijf, strafbaar gesteld in artikel 157, 159, 160, 161, 161bis, 16
 
 ### Artikel  177  
 
-1.  Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie wordt gestraft: 
+1.  Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft: 
 
-1°. hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt met het oogmerk om hem te bewegen in zijn bediening, in strijd met zijn plicht, iets te doen of na te laten;  
+1°. hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt met het oogmerk om hem te bewegen in zijn bediening iets te doen of na te laten;  
 
-2°. hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt ten gevolge of naar aanleiding van hetgeen door deze in zijn huidige of vroegere bediening, in strijd met zijn plicht, is gedaan of nagelaten.     
+2°. hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt ten gevolge of naar aanleiding van hetgeen door deze in zijn huidige of vroegere bediening is gedaan of nagelaten.     
 2.  Met dezelfde straf wordt gestraft hij die een feit als in het eerste lid, onder 1°, omschreven, begaat jegens een persoon in het vooruitzicht van een aanstelling als ambtenaar, indien de aanstelling als ambtenaar is gevolgd.   
 3.  Indien de schuldige een van de misdrijven omschreven in dit artikel in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.   
 4.  Ontzetting van de in artikel 28, eerste lid, onder 1°, 2° en 4°, vermelde rechten kan worden uitgesproken.  
 
-### Artikel  177a  
-
-1.  Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie wordt gestraft: 
-
-1°. hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt met het oogmerk om hem te bewegen in zijn bediening, zonder daardoor in strijd met zijn plicht te handelen, iets te doen of na te laten;  
-
-2°. hij die een ambtenaar een gift of belofte doet dan wel een dienst verleent of aanbiedt ten gevolge of naar aanleiding van hetgeen door deze in zijn huidige of vroegere bediening, zonder daardoor in strijd met zijn plicht te handelen, is gedaan of nagelaten.     
-2.  Met dezelfde straf wordt gestraft hij die een feit als in het eerste lid, onder 1°, omschreven, begaat jegens een persoon in het vooruitzicht van een aanstelling als ambtenaar, indien de aanstelling van ambtenaar is gevolgd.   
-3.  Indien de schuldige een van de misdrijven omschreven in dit artikel in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.  
-4.  Ontzetting van de in artikel 28, eerste lid, onder 1°, 2° en 4°, vermelde rechten kan worden uitgesproken.  
-
 ### Artikel  178  
 
-1.  Hij die een rechter een gift of belofte doet dan wel een dienst verleent of aanbiedt met het oogmerk invloed uit te oefenen op de beslissing van een aan diens oordeel onderworpen zaak, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.   
-2.   Indien die gift of belofte gedaan wordt dan wel die dienst verleend of aangeboden wordt met het oogmerk om een veroordeling in een strafzaak te verkrijgen, wordt de schuldige gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.   
+1.  Hij die een rechter een gift of belofte doet dan wel een dienst verleent of aanbiedt met het oogmerk invloed uit te oefenen op de beslissing van een aan diens oordeel onderworpen zaak, wordt gestraft met gevangenisstraf van ten hoogste negen jaren of geldboete van de vijfde categorie.   
+2.   Indien die gift of belofte gedaan wordt dan wel die dienst verleend of aangeboden wordt met het oogmerk om een veroordeling in een strafzaak te verkrijgen, wordt de schuldige gestraft met gevangenisstraf van ten hoogste twaalf jaren of geldboete van de vijfde categorie.   
 3.  Indien de schuldige een van de misdrijven omschreven in dit artikel in zijn beroep begaat, kan hij van de uitoefening van dat beroep worden ontzet.   
 4.   Ontzetting van de in artikel 28, eerste lid, onder 1°, 2° en 4°, vermelde rechten kan worden uitgesproken.  
 
 ### Artikel  178a  
 
-1.  Met ambtenaren worden ten aanzien van de artikelen 177 en 177a gelijkgesteld personen in de openbare dienst van een vreemde staat of van een volkenrechtelijke organisatie.   
-2.  Met ambtenaren worden ten aanzien van de artikelen 177, eerste lid, onder 2°, en 177a, eerste lid, onder 2°, voormalige ambtenaren gelijkgesteld.   
+1.  Met ambtenaren worden ten aanzien van artikel 177 gelijkgesteld personen in de openbare dienst van een vreemde staat of van een volkenrechtelijke organisatie.   
+2.  Met ambtenaren worden ten aanzien van artikel 177, eerste lid, onder 2°, voormalige ambtenaren gelijkgesteld.   
 3.  Met rechter wordt ten aanzien van artikel 178 gelijkgesteld de rechter van een vreemde staat of van een volkenrechtelijke organisatie.  
 
 ### Artikel  179  
@@ -3726,7 +3716,7 @@ Hij die iemand over de grenzen van het Rijk in Europa voert, met het oogmerk om 
 
 a. hem die de raad voor de kinderbescherming onverwijld de verblijfplaats van de minderjarige meedeelt; of  
 
-b. de zorgaanbieder, bedoeld in artikel 1 van de Wet op de jeugdzorg, die op grond van artikel 41 van die wet van de provincie subsidie ontvangt en handelt overeenkomstig de krachtens artikel 3, vijfde lid gestelde regels;  
+b. de jeugdhulpaanbieder, bedoeld in artikel 1.1 van de Jeugdwet, in zoverre hij handelt overeenkomstig de Jeugdwet  
 
 c. hem die handelt in het kader van zorgvuldige hulpverlening aan de minderjarige.     
 3.   Van zorgvuldige hulpverlening vormen de onverwijlde melding dat hulp wordt verleend alsmede de onverwijlde bekendmaking van de identiteit van de hulpverlener en zijn plaats van verblijf of vestiging aan degene die het gezag over de minderjarige uitoefent, bestanddelen.  
@@ -4061,7 +4051,7 @@ Verduistering gepleegd door hem wie het goed uit noodzaak in bewaring is gegeven
 
 ### Artikel  323a  
 
-Hij die opzettelijk en wederrechtelijk middelen die met een bepaald doel door of vanwege de Europese Gemeenschappen zijn verstrekt, aanwendt voor andere doeleinden dan waarvoor zij zijn verstrekt, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde categorie. 
+Hij die opzettelijk en wederrechtelijk middelen die met een bepaald doel door of vanwege de overheid dan wel door of vanwege een volkenrechtelijke organisatie zijn verstrekt, aanwendt voor andere doeleinden dan waarvoor zij zijn verstrekt, wordt gestraft met gevangenisstraf van ten hoogste drie jaren of geldboete van de vijfde categorie. 
 
 ### Artikel  324  
 
@@ -4119,8 +4109,11 @@ Hij die, om het handels- of bedrijfsdebiet van zichzelf of van een ander te vest
 
 ### Artikel  328ter  
 
-1.  Hij die, anders dan als ambtenaar, werkzaam zijnde in dienstbetrekking of optredend als lasthebber, naar aanleiding van hetgeen hij in zijn betrekking of bij de uitvoering van zijn last heeft gedaan of nagelaten dan wel zal doen of nalaten, een gift, belofte of dienst aanneemt dan wel vraagt, en dit aannemen of vragen in strijd met de goede trouw verzwijgt tegenover zijn werkgever of lastgever, wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie.   
-2.   Met gelijke straf wordt gestraft hij die aan iemand die, anders dan als ambtenaar, werkzaam is in dienstbetrekking of optreedt als lasthebber, naar aanleiding van hetgeen deze in zijn betrekking of bij de uitvoering van zijn last heeft gedaan of nagelaten dan wel zal doen of nalaten, een gift of belofte doet dan wel een dienst verleent of aanbiedt van die aard of onder zodanige omstandigheden, dat hij redelijkerwijs moet aannemen dat deze de gift, belofte of dienst in strijd met de goede trouw zal verzwijgen tegenover zijn werkgever of lastgever.  
+1.  Hij die, anders dan als ambtenaar, werkzaam zijnde in dienstbetrekking of optredend als lasthebber, naar aanleiding van hetgeen hij in strijd met zijn plicht in zijn betrekking of bij de uitvoering van zijn last heeft gedaan of nagelaten dan wel zal doen of nalaten, een gift, belofte of dienst aanneemt dan wel vraagt, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.   
+2.  Met gelijke straf wordt gestraft hij die aan iemand die, anders dan als ambtenaar, werkzaam is in dienstbetrekking of optreedt als lasthebber, naar aanleiding van hetgeen deze in zijn betrekking of bij de uitvoering van zijn last heeft gedaan of nagelaten dan wel zal doen of nalaten, een gift of belofte doet dan wel een dienst verleent of aanbiedt van die aard of onder zodanige omstandigheden, dat hij redelijkerwijs moet aannemen dat deze handelt in strijd met zijn plicht.   
+3.  Onder handelen in strijd met zijn plicht als bedoeld in de voorgaande leden wordt in elk geval begrepen het in strijd met de goede trouw tegenover de werkgever of lastgever verzwijgen van het aannemen dan wel vragen van een gift, belofte of dienst.   
+4.  Met gelijke straf wordt gestraft hij die in het vooruitzicht van zijn dienstbetrekking of optreden als lasthebber, indien de dienstbetrekking of het optreden als lasthebber is gevolgd, een feit begaat als in het eerste lid omschreven alsmede hij die dit feit begaat na zijn dienstbetrekking of optreden als lasthebber.   
+5.  Met gelijke straf wordt gestraft hij die een feit als in het tweede lid omschreven begaat jegens een persoon in het vooruitzicht van een dienstbetrekking of het optreden als lasthebber, indien deze dienstbetrekking of dit optreden als lasthebber is gevolgd alsmede hij die dit feit begaat jegens een persoon na diens dienstbetrekking of optreden als lasthebber.  
 
 ###Artikel 328quater 
 
@@ -4377,33 +4370,19 @@ De ambtenaar of een ander met enige openbare dienst voortdurend of tijdelijk bel
 1.  De ambtenaar of een ander met enige openbare dienst voortdurend of tijdelijk belast persoon, die opzettelijk zaken bestemd om voor de bevoegde macht tot overtuiging of bewijs te dienen, akten, bescheiden of registers, welke hij in zijn bediening onder zich heeft verduistert, vernielt, beschadigt of onbruikbaar maakt, of toelaat dat zij door een ander worden weggemaakt, vernield, beschadigd of onbruikbaar gemaakt, of die ander daarbij als medeplichtige ter zijde staat, wordt gestraft met gevangenisstraf van ten hoogste vier jaren en zes maanden of geldboete van de vijfde categorie.   
 2.  Onder bevoegde macht wordt mede verstaan: een internationaal gerecht dat zijn rechtsmacht ontleent aan een verdrag waarbij het Koninkrijk partij is.  
 
-### Artikel  362  
-
-1.  Met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie wordt gestraft de ambtenaar: 
-
-1°. die een gift, belofte of dienst aanneemt, wetende of redelijkerwijs vermoedende dat deze hem gedaan, verleend of aangeboden wordt teneinde hem te bewegen om, zonder daardoor in strijd met zijn plicht te handelen, in zijn bediening iets te doen of na te laten;  
-
-2°. die een gift, belofte of dienst aanneemt, wetende of redelijkerwijs vermoedende dat deze hem gedaan, verleend of aangeboden wordt ten gevolge of naar aanleiding van hetgeen door hem, zonder daardoor in strijd met zijn plicht te handelen, in zijn huidige of vroegere bediening is gedaan of nagelaten;  
-
-3°. die een gift, belofte of dienst vraagt teneinde hem te bewegen om, zonder daardoor in strijd met zijn plicht te handelen, in zijn bediening iets te doen of na te laten;  
-
-4°. die een gift, belofte of dienst vraagt ten gevolge of naar aanleiding van hetgeen door hem, zonder daardoor in strijd met zijn plicht te handelen, in zijn huidige of vroegere bediening is gedaan of nagelaten.     
-2.  Met dezelfde straf wordt gestraft, hij die in het vooruitzicht van een aanstelling als ambtenaar, indien de aanstelling als ambtenaar is gevolgd, een feit begaat als in het eerste lid, onder 1° en 3°, omschreven.   
-3.  Hij die een feit als omschreven in het eerste lid begaat in verband met zijn hoedanigheid van minister, staatssecretaris, commissaris van de Koning, gedeputeerde, burgemeester, wethouder of lid van een algemeen vertegenwoordigend orgaan, wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie.  
-
 ### Artikel  363  
 
-1.  Met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie wordt gestraft de ambtenaar: 
+1.  Met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie wordt gestraft de ambtenaar: 
 
-1°. die een gift of belofte dan wel een dienst aanneemt, wetende of redelijkerwijs vermoedende dat deze hem gedaan, verleend of aangeboden wordt teneinde hem te bewegen om, in strijd met zijn plicht, in zijn bediening iets te doen of na te laten;  
+1°. die een gift of belofte dan wel een dienst aanneemt, wetende of redelijkerwijs vermoedende dat deze hem gedaan, verleend of aangeboden wordt teneinde hem te bewegen om in zijn bediening iets te doen of na te laten;  
 
-2°. die een gift of belofte dan wel een dienst aanneemt, wetende of redelijkerwijs vermoedende dat deze hem gedaan, verleend of aangeboden wordt ten gevolge of naar aanleiding van hetgeen door hem, in strijd met zijn plicht, in zijn huidige of vroegere bediening is gedaan of nagelaten;  
+2°. die een gift of belofte dan wel een dienst aanneemt, wetende of redelijkerwijs vermoedende dat deze hem gedaan, verleend of aangeboden wordt ten gevolge of naar aanleiding van hetgeen door hem in zijn huidige of vroegere bediening is gedaan of nagelaten;  
 
-3°. die een gift of belofte dan wel een dienst vraagt teneinde hem te bewegen om, in strijd met zijn plicht, in zijn bediening iets te doen of na te laten;  
+3°. die een gift of belofte dan wel een dienst vraagt teneinde hem te bewegen om in zijn bediening iets te doen of na te laten;  
 
-4°. die een gift of belofte dan wel een dienst vraagt ten gevolge of naar aanleiding van hetgeen door hem, in strijd met zijn plicht, in zijn huidige of vroegere bediening is gedaan of nagelaten.     
+4°. die een gift of belofte dan wel een dienst vraagt ten gevolge of naar aanleiding van hetgeen door hem in zijn huidige of vroegere bediening is gedaan of nagelaten.     
 2.  Met dezelfde straf wordt gestraft hij die in het vooruitzicht van een aanstelling als ambtenaar, indien de aanstelling als ambtenaar is gevolgd, een feit begaat als in het eerste lid, onder 1° en 3°, omschreven.   
-3.  Hij die een feit als omschreven in het eerste lid begaat in verband met zijn hoedanigheid van minister, staatssecretaris, commissaris van de Koning, gedeputeerde, burgemeester, wethouder of lid van een algemeen vertegenwoordigend orgaan, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie.  
+3.  Hij die een feit als omschreven in het eerste lid begaat in verband met zijn hoedanigheid van minister, staatssecretaris, commissaris van de Koning, gedeputeerde, burgemeester, wethouder of lid van een algemeen vertegenwoordigend orgaan, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.  
 
 ### Artikel  364  
 
@@ -4414,8 +4393,8 @@ De ambtenaar of een ander met enige openbare dienst voortdurend of tijdelijk bel
 
 ### Artikel  364a  
 
-1.  Met ambtenaren worden ten aanzien van de artikelen 361 tot en met 363, 365 tot en met 368 en 376 gelijkgesteld personen in de openbare dienst van een vreemde staat of van een volkenrechtelijke organisatie.   
-2.  Met ambtenaren worden ten aanzien van de artikelen 362, onder 2° en 4°, en 363, onder 2° en 4°, voormalige ambtenaren gelijkgesteld.  
+1.  Met ambtenaren worden ten aanzien van de artikelen 361, 363, 365 tot en met 368 en 376 gelijkgesteld personen in de openbare dienst van een vreemde staat of van een volkenrechtelijke organisatie.   
+2.  Met ambtenaren worden ten aanzien van artikel 363, onder 2° en 4°, voormalige ambtenaren gelijkgesteld.  
 3. Met rechter wordt ten aanzien van artikel 364 gelijkgesteld de rechter van een vreemde staat of van een volkenrechtelijke organisatie.
 
 ### Artikel  365  
@@ -4474,7 +4453,7 @@ Degene, in dienst van een waarborginstelling als bedoeld in artikel 7 van de Waa
 ### Artikel  380  
 
 1.  Bij veroordeling wegens een der in de artikelen 355, 357 en 358 omschreven misdrijven kan ontzetting van het in artikel 28, eerste lid, onder 3°, vermelde recht worden uitgesproken.   
-2.   Bij veroordeling wegens een der in de artikelen 359, 362 tot en met 364, 366 en 379, eerste lid, omschreven misdrijven kan ontzetting van het in artikel 28, eerste lid, onder 4°, vermelde recht worden uitgesproken.  
+2.   Bij veroordeling wegens een der in de artikelen 359, 363, 364, 366 en 379, eerste lid, omschreven misdrijven kan ontzetting van het in artikel 28, eerste lid, onder 4°, vermelde recht worden uitgesproken.  
 
 ### Titel  XXIX  
 
@@ -4726,7 +4705,7 @@ Indien de aard van het geschrift of de afbeelding een misdrijf oplevert dat alle
 
 ### Artikel  420bis  
 
-1.  Als schuldig aan witwassen wordt gestraft met gevangenisstraf van ten hoogste vier jaren of geldboete van de vijfde categorie: 
+1.  Als schuldig aan witwassen wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie: 
 
 a. hij die van een voorwerp de werkelijke aard, de herkomst, de vindplaats, de vervreemding of de verplaatsing verbergt of verhult, dan wel verbergt of verhult wie de rechthebbende op een voorwerp is of het voorhanden heeft, terwijl hij weet dat het voorwerp – onmiddellijk of middellijk – afkomstig is uit enig misdrijf;  
 
@@ -4735,11 +4714,12 @@ b. hij die een voorwerp verwerft, voorhanden heeft, overdraagt of omzet of van e
 
 ### Artikel  420ter  
 
-Hij die van het plegen van witwassen een gewoonte maakt, wordt gestraft met gevangenisstraf van ten hoogste zes jaren of geldboete van de vijfde categorie. 
+1.  Hij die van het plegen van witwassen een gewoonte maakt, wordt gestraft met gevangenisstraf van ten hoogste acht jaren of geldboete van de vijfde categorie.   
+2.  Met dezelfde straf wordt gestraft hij die zich schuldig maakt aan witwassen in de uitoefening van zijn beroep of bedrijf.  
 
 ### Artikel  420quater  
 
-1.  Als schuldig aan schuldwitwassen wordt gestraft met gevangenisstraf van ten hoogste een jaar of geldboete van de vijfde categorie: 
+1.  Als schuldig aan schuldwitwassen wordt gestraft met gevangenisstraf van ten hoogste twee jaren of geldboete van de vijfde categorie: 
 
 a. hij die van een voorwerp de werkelijke aard, de herkomst, de vindplaats, de vervreemding of de verplaatsing verbergt of verhult, dan wel verbergt of verhult wie de rechthebbende op een voorwerp is of het voorhanden heeft, terwijl hij redelijkerwijs moet vermoeden dat het voorwerp – onmiddellijk of middellijk – afkomstig is uit enig misdrijf;  
 

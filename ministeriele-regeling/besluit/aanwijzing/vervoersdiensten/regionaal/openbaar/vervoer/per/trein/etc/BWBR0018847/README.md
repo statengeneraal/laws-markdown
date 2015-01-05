@@ -5,7 +5,7 @@
 De Minister van Verkeer en Waterstaat,  
 In overeenstemming met het Dagelijks Bestuur van het Knooppunt Arnhem Nijmegen, het College van Gedeputeerde Staten van de provincie Limburg en het College van Gedeputeerde Staten van de provincie Noord-Brabant;
 
-Gelet op [artikel 20, derde lid, van de Wet personenvervoer 2000](../../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);
+Gelet op artikel 20, derde lid, van de Wet personenvervoer 2000;
 Besluit:    
 
 ### Artikel  1  
@@ -26,7 +26,7 @@ Besluit:
 |:---|:---|
 | Roermond–Cuijck, als onderdeel van de vervoersdienst Roermond–Nijmegen  | Roermond, Swalmen, Reuver, Tegelen, Venlo, Blerick, Venray, Vierlingsbeek, Boxmeer en Cuijck.  |
 
-2.  Het eerste lid laat onverlet de rechten als bedoeld in artikel 2, van de concessie bedoeld in [artikel 69d, tweede lid van de Wet personenvervoer 2000](../../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md), voor het hoofdrailnet, als bedoeld in [artikel 69b van de Wet personenvervoer 2000](../../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md) tussen de stations Venlo–Blerick.   
+2.  Het eerste lid laat onverlet de rechten als bedoeld in artikel 2, van de concessie bedoeld in artikel 69d, tweede lid van de Wet personenvervoer 2000, voor het hoofdrailnet, als bedoeld in artikel 69b van de Wet personenvervoer 2000 tussen de stations Venlo–Blerick.   
 3.  De in het eerste lid bedoelde bevoegdheid heeft betrekking op het openbaar vervoer per trein na 9 december 2006.  
 
 ### Artikel  3  

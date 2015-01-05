@@ -22,7 +22,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: Wet werk en bijstand;  
+a. wet: Participatiewet;  
 
 b. zelfstandige: de belanghebbende van 18 jaar tot aan de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet die voor de voorziening in het bestaan is aangewezen op arbeid in eigen bedrijf of zelfstandig beroep hier te lande en die: 
 
@@ -90,10 +90,10 @@ b. is de belanghebbende verplicht mee te werken aan begeleiding door een door he
 
 1.  Bijstand in de vorm van een bedrag om niet als bedoeld in de artikelen 12, 19, 21 en 22: 
 
-a.  wordt niet verleend indien het eigen vermogen meer bedraagt dan  € 156 240,00 per 1 januari 2014: € 183.638,00;  
+a.  wordt niet verleend indien het eigen vermogen meer bedraagt dan  € 156 240,00 per 1 januari 2015: € 185.015,00;  
 
-b.  wordt, indien het eigen vermogen meer bedraagt dan  € 37 177,00 per 1 januari 2014: € 43.698,00, doch minder dan € 156 240,00 per 1 januari 2014: € 183.638,00 slechts verleend indien dit eigen vermogen niet meer bedraagt dan 30 procent van het totaal vermogen.     
-2.  In afwijking van het eerste lid wordt aan de zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel c, bijstand in de vorm van een bedrag om niet als bedoeld in de artikelen 12 en 26 niet verleend, indien het eigen vermogen meer bedraagt dan  € 109 368,00 per 1 januari 2014: € 128.547,00.  
+b.  wordt, indien het eigen vermogen meer bedraagt dan  € 37 177,00 per 1 januari 2015: € 44.025,00, doch minder dan € 156 240,00 per 1 januari 2015: € 185.015,00 slechts verleend indien dit eigen vermogen niet meer bedraagt dan 30 procent van het totaal vermogen.     
+2.  In afwijking van het eerste lid wordt aan de zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel c, bijstand in de vorm van een bedrag om niet als bedoeld in de artikelen 12 en 26 niet verleend, indien het eigen vermogen meer bedraagt dan  € 109 368,00 per 1 januari 2015: € 129.511.  
 
 ### Artikel  4  
 
@@ -116,7 +116,7 @@ De algemene bijstand wordt per boekjaar vastgesteld.
 ####Het inkomen
 
 1.  In afwijking van artikel 32, eerste lid, onderdeel b, van de wet wordt bij de bijstandsverlening aan een zelfstandige rekening gehouden met het inkomen over een boekjaar. Een teruggave van inkomstenbelasting en premies volksverzekeringen wordt bij een zelfstandige niet als inkomen aangemerkt.   
-2.  Bij de bijstandsverlening aan een zelfstandige worden de verschuldigde inkomstenbelasting en premies volksverzekeringen over inkomen waarover geen loonbelasting is geheven gesteld op 20 procent per 1 januari 2014: 21 procent van dat inkomen.  
+2.  Bij de bijstandsverlening aan een zelfstandige worden de verschuldigde inkomstenbelasting en premies volksverzekeringen over inkomen waarover geen loonbelasting is geheven gesteld op 20 procent per 1 januari 2015: 20 procent van dat inkomen.  
 
 ### §  3  
 
@@ -271,7 +271,7 @@ c.het vermogen van de zelfstandige, het bedrag, bedoeld in artikel 3, eerste lid
 
 ####Bedrijfskapitaal gevestigde zelfstandige
 
-1.  Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel a, kan ter voorziening in de behoefte aan bedrijfskapitaal bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste  € 162 344,00 per 1 januari 2014: € 190.812,00. Dit bedrag geldt per bedrijf of zelfstandig beroep.   
+1.  Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel a, kan ter voorziening in de behoefte aan bedrijfskapitaal bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste  € 162 344,00 per 1 januari 2015: € 192.243,00. Dit bedrag geldt per bedrijf of zelfstandig beroep.   
 2.  Indien aan een zelfstandige, als bedoeld in artikel 2, eerste lid, onderdeel a, bijstand wordt verleend zowel ter voorziening in de behoefte aan bedrijfskapitaal als ter voorziening in de algemeen noodzakelijke kosten van het bestaan wordt de bijstand verleend met toepassing van het eerste lid.  
 
 ###Artikel 21 
@@ -287,7 +287,7 @@ c.het vermogen van de zelfstandige, het bedrag, bedoeld in artikel 3, eerste lid
 
 ####Bedrijfskapitaal om niet gevestigde zelfstandige
 
-Bijstand in de behoefte aan bedrijfskapitaal kan aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel a, worden verleend in de vorm van een bedrag om niet tot ten hoogste  € 8 117,00 per 1 januari 2014: € 9.541,00, indien het inkomen van de zelfstandige duurzaam lager is dan de som van de bijstandsnorm, bedoeld in hoofdstuk 3, paragraaf 3.2 en 3.3, van de wet, en de verleende bijzondere bijstand en diens vermogen de grens genoemd in artikel 3, eerste lid, niet te boven gaat. Deze bijstand gaat niet samen met bijstand als bedoeld in artikel 20. 
+Bijstand in de behoefte aan bedrijfskapitaal kan aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel a, worden verleend in de vorm van een bedrag om niet tot ten hoogste  € 8 117,00 per 1 januari 2015: € 9.612,00, indien het inkomen van de zelfstandige duurzaam lager is dan de som van de bijstandsnorm, bedoeld in hoofdstuk 3, paragraaf 3.2 en 3.3, van de wet, en de verleende bijzondere bijstand en diens vermogen de grens genoemd in artikel 3, eerste lid, niet te boven gaat. Deze bijstand gaat niet samen met bijstand als bedoeld in artikel 20. 
 
 ### §  2  
 
@@ -309,7 +309,7 @@ b. bij verlenging van de toekenning van algemene bijstand om redenen van medisch
 
 ####Bedrijfskapitaal beginnende zelfstandige
 
-Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel b, kan ter voorziening in de behoefte aan bedrijfskapitaal uitsluitend bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste  € 29 889,00 per 1 januari 2014: € 35.130,00. Dit bedrag geldt per bedrijf of zelfstandig beroep. 
+Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel b, kan ter voorziening in de behoefte aan bedrijfskapitaal uitsluitend bijstand in de vorm van een rentedragende geldlening of borgtocht worden verleend tot een bedrag van ten hoogste  € 29 889,00 per 1 januari 2015: € 35.393,00. Dit bedrag geldt per bedrijf of zelfstandig beroep. 
 
 ### §  3  
 
@@ -319,13 +319,13 @@ Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel b, kan ter 
 
 ####Duur algemene bijstand en inkomenseis oudere zelfstandige
 
-Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel c, wordt algemene bijstand verleend voor de duur dat hij uit het bedrijf of zelfstandig beroep naar verwachting een bruto inkomen zal behalen dat gemiddeld minstens  € 6 447,00 per 1 januari 2014: € 7.578,00 per boekjaar bedraagt. 
+Aan een zelfstandige als bedoeld in artikel 2, eerste lid, onderdeel c, wordt algemene bijstand verleend voor de duur dat hij uit het bedrijf of zelfstandig beroep naar verwachting een bruto inkomen zal behalen dat gemiddeld minstens  € 6 447,00 per 1 januari 2015: € 7.635,00 per boekjaar bedraagt. 
 
 ### Artikel  26  
 
 ####Bedrijfskapitaal oudere zelfstandige
 
-Bijstand ter voorziening in de behoefte aan bedrijfskapitaal wordt aan de zelfstandige, bedoeld in artikel 2, eerste lid, onderdeel c, slechts verleend tot ten hoogste € 8 117,00 per 1 januari 2014: € 9.541,00. Deze bijstand wordt verstrekt in de vorm van een bedrag om niet of, voor zover het eigen vermogen meer bedraagt dan het bedrag, genoemd in artikel 3, tweede lid, in de vorm van een renteloze lening. Artikel 13 is van overeenkomstige toepassing. 
+Bijstand ter voorziening in de behoefte aan bedrijfskapitaal wordt aan de zelfstandige, bedoeld in artikel 2, eerste lid, onderdeel c, slechts verleend tot ten hoogste € 8 117,00 per 1 januari 2015: € 9.612,00. Deze bijstand wordt verstrekt in de vorm van een bedrag om niet of, voor zover het eigen vermogen meer bedraagt dan het bedrag, genoemd in artikel 3, tweede lid, in de vorm van een renteloze lening. Artikel 13 is van overeenkomstige toepassing. 
 
 ### §  4  
 
@@ -537,8 +537,8 @@ b.alle concurrente schuldeisers evenredige medewerking verlenen.
 
 1.  Bij beëindiging van het bedrijf of zelfstandig beroep vangt de aflossing van de geldlening onder verband van hypotheek of verpanding aan op het moment van beëindiging van de bijstandsverlening.   
 2.  De aflossing van de geldlening onder verband van hypotheek of verpanding vindt maandelijks plaats gedurende ten hoogste tien jaar.   
-3.  Het college stelt het maandbedrag van de aflossing vast aan de hand van het inkomen, bedoeld in paragraaf 3.4 van de Wet werk en bijstand, en de noodzakelijke, voor rekening van de zelfstandige en zijn gezin komende, bijzondere bestaanskosten. Indien de omstandigheden daartoe aanleiding geven, wijzigt het college het maandbedrag van de aflossing.   
-4.  Bij een inkomen van de zelfstandige en zijn gezin als bedoeld in het derde lid dat niet uitgaat boven de van toepassing zijnde bijstandsnorm, bedoeld in de paragrafen 3.2 en 3.3 van de Wet werk en bijstand, wordt geen aflossing gevergd.   
+3.  Het college stelt het maandbedrag van de aflossing vast aan de hand van het inkomen, bedoeld in paragraaf 3.4 van de wet, en de noodzakelijke, voor rekening van de zelfstandige en zijn gezin komende, bijzondere bestaanskosten. Indien de omstandigheden daartoe aanleiding geven, wijzigt het college het maandbedrag van de aflossing.   
+4.  Bij een inkomen van de zelfstandige en zijn gezin als bedoeld in het derde lid dat niet uitgaat boven de van toepassing zijnde bijstandsnorm, bedoeld in de paragrafen 3.2 en 3.3 van de wet, wordt geen aflossing gevergd.   
 5.  Indien de zelfstandige en zijn gezin tijdens de aflossingsperiode van tien jaar schuldig nalatig zijn in het voldoen van de vastgestelde aflossing, is het nog niet afgeloste deel van de geldlening terstond opeisbaar en is daarover tevens de wettelijke rente verschuldigd.  
 
 ### Artikel  43b  
@@ -744,8 +744,6 @@ Hoofdstuk VII blijft van toepassing op de vaststelling van de vergoeding, uitker
 ### Artikel  60b  
 
 ####Grondslag
-
-Treedt in werking per 01-01-2015 
 
 Dit besluit berust op artikel 78f van de Participatiewet. 
 

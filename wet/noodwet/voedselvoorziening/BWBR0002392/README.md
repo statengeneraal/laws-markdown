@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. alle voortbrengselen, welke, al dan niet na bewerking of verwerking, kunnen dienen als voedsel voor mens of dier, alsmede de bij bewerking of verwerking van die voortbrengselen verkregen derivaten en afvallen;   
 
-b. de niet reeds onder *a* begrepen, al dan niet bewerkte of verwerkte voortbrengselen van de landbouw en de visserij, alsmede de bij bewerking of verwerking van die voortbrengselen verkregen derivaten en afvallen;    bedrijfslichaam: een bedrijfslichaam als bedoeld in artikel 66 van de Wet op de bedrijfsorganisatie.   
+b. de niet reeds onder *a* begrepen, al dan niet bewerkte of verwerkte voortbrengselen van de landbouw en de visserij, alsmede de bij bewerking of verwerking van die voortbrengselen verkregen derivaten en afvallen.     
 2.   Voor de toepassing van het bepaalde bij of krachtens deze wet wordt mede verstaan onder:  handelaren: tussenpersonen;  visserij: mosselteelt, oesterteelt en viskwekerij.   
 
 ### Hoofdstuk  II  
@@ -39,14 +39,14 @@ Onze Minister kan in door hem te bepalen gebieden voedselcommissarissen aanwijze
 
 ####Buitengewone bevoegdheden 
 
-###Artikel 4 
+### Artikel  4  
 
-1. Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de artikelen 6 tot en met 14 gezamenlijk of afzonderlijk in werking worden gesteld.
-2. Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.
-3. Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.
-4. Bij koninklijk besluit, op voordracht van Onze Minister-President, worden de bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.
-5. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking. 
-6. Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.
+1.  Onverminderd de artikelen 7, eerste lid, en 8, eerste lid, van de Coördinatiewet uitzonderingstoestanden kunnen, ingeval buitengewone omstandigheden dit noodzakelijk maken, bij koninklijk besluit, op voordracht van Onze Minister-President, voor het gehele land of een gedeelte daarvan de artikelen 6 tot en met 12 gezamenlijk of afzonderlijk in werking worden gesteld.   
+2.  Wanneer het in het eerste lid bedoelde besluit is genomen, wordt onverwijld een voorstel van wet aan de Tweede Kamer gezonden omtrent het voortduren van de werking van de bij dat besluit in werking gestelde bepalingen.   
+3.  Wordt het voorstel van wet door de Staten-Generaal verworpen, dan worden bij koninklijk besluit, op voordracht van Onze Minister-President, de bepalingen die ingevolge het eerste lid in werking zijn gesteld, onverwijld buiten werking gesteld.   
+4.  Bij koninklijk besluit, op voordracht van Onze Minister-President, worden de bepalingen die ingevolge het eerste lid in werking zijn gesteld, buiten werking gesteld, zodra de omstandigheden dit naar Ons oordeel toelaten.   
+5.  Het besluit, bedoeld in het eerste, derde en vierde lid, wordt op de daarin te bepalen wijze bekendgemaakt. Het treedt in werking terstond na de bekendmaking.    
+6.  Het besluit, bedoeld in het eerste, derde en vierde lid, wordt in ieder geval geplaatst in het *Staatsblad*.  
 
 ### Artikel  6  
 Treedt in werking op een nader te bepalen tijdstip 
@@ -111,31 +111,9 @@ a. nauwgezet, volledig en naar waarheid aantekening te houden betreffende die ge
 b. boeken en bescheiden betreffende die gedragingen aan de lichamen, organen of personen, die Onze Minister daartoe heeft aangewezen, op eerste vordering te tonen of tegen bewijs van ontvangst af te geven of te zenden.      
 2.   Artikel 6, derde lid, is van overeenkomstige toepassing.   
 
-### Artikel  13  
-Treedt in werking op een nader te bepalen tijdstip 
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. 
-1.  Onze Minister kan bepalen, dat verordeningen of andere besluiten, door een orgaan van een bedrijfslichaam krachtens deze wet, de Landbouwwet of de Wet op de bedrijfsorganisatie vastgesteld, geheel of gedeeltelijk worden geschorst. Hij kan in verband daarmee nadere regels vaststellen.   
-
-### Artikel  14  
-Treedt in werking op een nader te bepalen tijdstip 
-
-Dit artikel is nog niet in werking getreden; ingeval buitengewone omstandigheden dit noodzakelijk maken kan bij koninklijk besluit, op voordracht van Onze Minister-President, dit artikel in werking treden. 
-1.  Indien het naar het oordeel van het dagelijks bestuur van een bedrijfslichaam in een der gevallen, genoemd in het tweede lid van artikel 4, niet mogelijk is, dat het bestuur, een commissie uit het midden van het bestuur of een orgaan, bedoeld in artikel 88a van de Wet op de Bedrijfsorganisatie, bijeenkomt, oefent het dagelijks bestuur de aan het bestuur, die commissie of dat orgaan toekomende bevoegdheden uit.    
-2.   Indien het naar het oordeel van de voorzitter van een bedrijfslichaam in zodanig geval niet mogelijk is, dat het dagelijks bestuur bijeenkomt, oefent hij de aan het dagelijks bestuur toekomende bevoegdheden uit. Indien hij in zodanig geval tevens van oordeel is, dat tengevolge van bedoelde omstandigheden het bestuur, een commissie uit het bestuur of een orgaan, bedoeld in artikel 88a van de Wet op de Bedrijfsorganisatie, niet kan bijeenkomen, oefent hij ook de aan het bestuur, die commissie of dat orgaan toekomende bevoegdheden uit.    
-3.   Zo spoedig mogelijk legt het dagelijks bestuur, onderscheidenlijk de voorzitter aan het bestuur verantwoording af van hetgeen krachtens de vorige leden is verricht.   
-
 ### Hoofdstuk  IV  
 
 ####Decentralisatie 
-
-###Artikel 15 
-
-1. Ten aanzien van de uitoefening van bevoegdheden, welke hem toekomen ingevolge het bepaalde bij of krachtens deze wet en de Distributiewet, kan Onze Minister de medewerking vorderen van een bestuur van een bedrijfslichaam. Artikel 6, derde lid, is van overeenkomstige toepassing.
-2. Indien de van het bestuur van het bedrijfslichaam gevorderde medewerking bestaat in het stellen van nadere regels bij verordening, behoeft zodanige verordening de goedkeuring van Onze Minister en indien het voorschrift waarbij de medewerking gevorderd is, door Onze Minister is vastgesteld in overeenstemming met Onze Minister van Economische Zaken, mede van die Minister.
-3. Krachtens de verordening genomen besluiten behoeven, voor zover dit bij de vordering van de medewerking, bedoeld in het eerste lid, is bepaald, de goedkeuring van de daarbij aangewezen autoriteit.
-4.  Regelen, bedoeld in het tweede lid, en nadere regelen, bedoeld in het derde lid, zijn verbindend voor een ieder, voorzover daarbij niet anders is bepaald. 
-5.  Besluiten zonder algemene gelding, tot het nemen waarvan medewerking is gevorderd, kunnen worden genomen ten aanzien van een ieder, voorzover bij die vordering niet anders is bepaald. 
 
 ### Artikel  17  
 
@@ -159,7 +137,7 @@ In afwijking van artikel 8:72, tweede lid, van de Algemene wet bestuursrecht wer
 
 ### Artikel  22  
 
-1.  Zolang de artikelen 6-14 in werking zijn, is een ieder verplicht bij het verrichten van gedragingen, genoemd in artikel 6, tweede lid, ten aanzien van de desbetreffende produkten die zorg aan te wenden, welke onder de met betrekking tot de voedselvoorziening bestaande omstandigheden redelijkerwijze kan worden verwacht.    
+1.  Zolang de artikelen 6-12 in werking zijn, is een ieder verplicht bij het verrichten van gedragingen, genoemd in artikel 6, tweede lid, ten aanzien van de desbetreffende produkten die zorg aan te wenden, welke onder de met betrekking tot de voedselvoorziening bestaande omstandigheden redelijkerwijze kan worden verwacht.    
 2.   Het bepaalde bij het vorige lid is van overeenkomstige toepassing bij het verrichten van gedragingen, in artikel 9, eerste lid, genoemd.   
 
 ### Artikel  23  
@@ -183,7 +161,7 @@ Het is verboden ter zake van een aanvraag om een ontheffing, vergunning of resti
 
 ### Artikel  27  
 
-Hetgeen krachtens artikel 8 is verschuldigd, kan door Onze Minister, onderscheidenlijk door de voorzitter van het betrokken bedrijfslichaam bij dwangbevel worden ingevorderd. 
+Hetgeen krachtens artikel 8 is verschuldigd, kan door Onze Minister bij dwangbevel worden ingevorderd. 
 
 ### Artikel  29  
 
@@ -196,7 +174,7 @@ Krachtens deze wet vastgestelde regelen treden, tenzij daarbij anders is bepaald
 
 ### Artikel  32  
 
-1.  Besluiten, door Onze Minister krachtens de artikelen 2, 3, 6, 7, 8, 9, 10, 12, 13, 15, 23 en 29 vastgesteld, worden in de *Staatscourant* bekend gemaakt.    
+1.  Besluiten, door Onze Minister krachtens de artikelen 2, 3, 6, 7, 8, 9, 10, 12, 23 en 29 vastgesteld, worden in de *Staatscourant* bekend gemaakt.    
 2.   Indien het landsbelang dit naar zijn oordeel noodzakelijk maakt, kan Onze Minister een besluit, bedoeld in het eerste lid, op andere wijze bekend maken.   
 
 ###Artikel 33 
@@ -211,7 +189,7 @@ Bevat wijzigingen in andere regelgeving.
 ### Artikel  35  
 
 1.  Deze wet kan worden aangehaald als: Noodwet voedselvoorziening.    
-2.   Met uitzondering van de artikelen 6-14 treedt zij in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin zij is geplaatst.   
+2.   Met uitzondering van de artikelen 6-12 treedt zij in werking met ingang van de dag na de datum van uitgifte van het *Staatsblad*, waarin zij is geplaatst.   
 
 Lasten en bevelen, dat deze in het *Staatsblad* zal worden geplaatst, en dat alle Ministeriële Departementen, Autoriteiten, Colleges en Ambtenaren, wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

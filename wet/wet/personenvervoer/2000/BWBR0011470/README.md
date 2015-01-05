@@ -234,7 +234,7 @@ d. het in behandeling nemen van een aanvraag voor een op grond van verordening 1
 
 ### Artikel  14b  
 
-De concessieverleners, bedoeld in artikel 20, tweede en derde lid, verstrekken desgevraagd aan Onze Minister gegevens voor zover hij die nodig heeft om te kunnen voldoen aan een verzoek van de Commissie van de Europese Gemeenschappen als bedoeld in artikel 6, tweede lid, van verordening (EG) 1370/2007. 
+De concessieverleners, bedoeld in artikel 20, tweede, derde en vierde lid, verstrekken desgevraagd aan Onze Minister gegevens voor zover hij die nodig heeft om te kunnen voldoen aan een verzoek van de Commissie van de Europese Gemeenschappen als bedoeld in artikel 6, tweede lid, van verordening (EG) 1370/2007. 
 
 ### §  5  
 
@@ -311,12 +311,14 @@ c. de gestelde beperkingen niet verder gaan dan noodzakelijk is om het in gedran
 ### Artikel  20  
 
 1.  Bevoegd tot het verlenen, wijzigen of intrekken van concessies voor openbaar vervoer per trein is Onze Minister.   
-2.  Bevoegd tot het verlenen, wijzigen of intrekken van concessies voor openbaar vervoer, anders dan openbaar vervoer per trein, zijn gedeputeerde staten, met uitzondering van concessies voor openbaar vervoer in een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, 's-Gravenhage, Rotterdam of Utrecht omvat. De concessies in die plusregio’s worden verleend, gewijzigd of ingetrokken door het dagelijks bestuur van de desbetreffende plusregio.   
-3.  In afwijking van het eerste lid is het bestuur, bedoeld in het tweede lid, bevoegd tot het verlenen, wijzigen of intrekken van concessies voor regionaal openbaar vervoer per trein voor de bij algemene maatregel van bestuur dan wel in overeenstemming met het betrokken bestuur bij besluit van Onze Minister aangewezen vervoersdiensten die de daarbij aangeven stations verbinden.  
+2.  Bevoegd tot het verlenen, wijzigen of intrekken van concessies voor openbaar vervoer, anders dan openbaar vervoer per trein, zijn gedeputeerde staten.   
+3.  Bij algemene maatregel van bestuur kan worden bepaald dat in bij die maatregel aan te wijzen gebieden in afwijking van het tweede lid het dagelijks bestuur van een bij gemeenschappelijke regeling ingesteld openbaar lichaam bevoegd is tot het verlenen, wijzigen of intrekken van de in het tweede lid bedoelde concessies in dat gebied.   
+4.  In afwijking van het eerste lid is het bestuur, bedoeld in het tweede of derde lid, bevoegd tot het verlenen, wijzigen of intrekken van concessies voor regionaal openbaar vervoer per trein voor de bij algemene maatregel van bestuur dan wel in overeenstemming met het betrokken bestuur bij besluit van Onze Minister aangewezen vervoersdiensten die de daarbij aangegeven stations verbinden.   
+5.  De voordracht voor een krachtens het derde lid vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd. 
 
 ### Artikel  21  
 
-Gedeputeerde staten dragen zorg voor de coördinatie en afstemming van het openbaar vervoer in de provincie, met uitzondering van de plusregio’s, bedoeld in artikel 20. 
+Gedeputeerde staten dragen zorg voor de coördinatie en afstemming van het openbaar vervoer in de provincie, met uitzondering van het krachtens artikel 20, derde lid, aangewezen gebied. 
 
 ### Artikel  22  
 
@@ -348,7 +350,7 @@ De concessieverlener verleent overeenkomstig de artikelen 4, derde en vierde lid
 
 ### Artikel  26  
 
-1.  Voordat een concessie wordt verleend of gewijzigd, pleegt de concessieverlener, bedoeld in artikel 20, tweede en derde lid, overleg met de concessieverleners die bevoegd zijn tot het verlenen van concessies in aangrenzende gebieden. Het overleg voorziet in ieder geval in afspraken inzake de afstemming van het openbaar vervoer tussen aangrenzende concessiegebieden.   
+1.  Voordat een concessie wordt verleend of gewijzigd, pleegt de concessieverlener, bedoeld in artikel 20, tweede, derde en vierde lid, overleg met de concessieverleners die bevoegd zijn tot het verlenen van concessies in aangrenzende gebieden. Het overleg voorziet in ieder geval in afspraken inzake de afstemming van het openbaar vervoer tussen aangrenzende concessiegebieden.   
 2.  Het eerste lid is van overeenkomstige toepassing op een concessie als bedoeld in artikel 25, tweede lid.  
 
 ### Artikel  27  
@@ -388,7 +390,7 @@ Een besluit tot verlening of wijziging van een concessie zonder dat daartoe een 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over nationale vervoerbewijzen, de daaraan te stellen eisen, de daarbij behorende tarieven en vervoersvoorwaarden, alsmede het gebied waarbinnen deze geldig zijn.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de invoering, de acceptatie, de uitgifte, de exploitatie of het beheer van elektronische nationale vervoerbewijzen.   
 3.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de erkenning van een of meer instellingen die elektronische nationale vervoerbewijzen uitgeven, exploiteren of beheren, alsmede over de voorschriften waaraan dergelijke instellingen moeten voldoen.   
-4.  De houder van een concessie, verleend door een concessieverlener als bedoeld in artikel 20, tweede lid, is verplicht reizigers te vervoeren die daartoe beschikken over een voor het concessiegebied geldig nationaal vervoerbewijs tegen het daarbij behorende tarief.  
+4.  De houder van een concessie, verleend door een concessieverlener als bedoeld in artikel 20, tweede of derde lid, is verplicht reizigers te vervoeren die daartoe beschikken over een voor het concessiegebied geldig nationaal vervoerbewijs tegen het daarbij behorende tarief.  
 
 ### Artikel  31  
 
@@ -507,7 +509,7 @@ Binnen een maand na het besluit tot verlening van een concessie treden de voorma
 
 ### Artikel  41  
 
-1.  Een concessiehouder kan een concessie, die is verleend door een concessieverlener als bedoeld in artikel 20, tweede lid, geheel of gedeeltelijk overdragen aan een andere vervoerder, indien deze voldoet aan de eisen, die bij of krachtens deze wet aan de concessiehouder zijn gesteld.   
+1.  Een concessiehouder kan een concessie, die is verleend door een concessieverlener als bedoeld in artikel 20, tweede of derde lid, geheel of gedeeltelijk overdragen aan een andere vervoerder, indien deze voldoet aan de eisen, die bij of krachtens deze wet aan de concessiehouder zijn gesteld.   
 2.  De andere vervoerder, bedoeld in het eerste lid, is jegens de concessieverlener verplicht tot naleving van de ingevolge deze wet op de concessiehouder rustende verplichtingen.   
 3.  De concessiehouder kan de concessie niet overdragen dan na schriftelijke toestemming van de concessieverlener.   
 4.  Toestemming voor overdracht van een concessie die is verleend na aanbesteding wordt onthouden, indien de andere vervoerder niet beschikt over een verklaring van geen bezwaar inzake de desbetreffende concessie. De artikelen 52 tot en met 56, eerste lid, en 57 tot en met 60 zijn van overeenkomstige toepassing.   
@@ -714,16 +716,16 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 ### Artikel  61  
 
 1.  Concessies voor openbaar vervoer worden slechts verleend nadat daartoe een aanbesteding is gehouden, tenzij artikel 63a of artikel 64, eerste lid, van toepassing is.   
-2.  In bij of krachtens algemene maatregel van bestuur bepaalde gevallen kan het eerste lid buiten toepassing worden gelaten voor de verlening van een concessie voor regionaal openbaar vervoer per trein als bedoeld in artikel 20, derde lid.   
+2.  In bij of krachtens algemene maatregel van bestuur bepaalde gevallen kan het eerste lid buiten toepassing worden gelaten voor de verlening van een concessie voor regionaal openbaar vervoer per trein als bedoeld in artikel 20, vierde lid.   
 3.  Indien het openbaar vervoer uitvalt of dreigt uit te vallen kan, in afwijking van het eerste lid, een aanbesteding van dat openbaar vervoer achterwege blijven. Artikel 5, vijfde lid, van verordening (EG) 1370/2007 is van toepassing.   
 4.  In afwijking van het eerste lid kan een concessie voor openbaar vervoer, anders dan per trein, worden verleend zonder dat daartoe een aanbesteding is gehouden, indien die concessie voldoet aan een van de kenmerken, bedoeld in artikel 5, vierde lid, van verordening (EG) 1370/2007.  
 
 ### Artikel  62  
 
-1.  Een concessieverlener sluit een vervoerder aan wie op grond van artikel 63a een concessie is verleend, of een vervoerder waarop die vervoerder invloed heeft uit van de aanbesteding van een concessie voor openbaar vervoer buiten het grondgebied van de plusregio waar de concessie op grond van artikel 63a verleend is, ook indien die invloed slechts minimaal is.   
-2.  Een bestuursorgaan als bedoeld in artikel 20, sluit een vervoerder aan wie op grond van artikel 63a een concessie is verleend, of een vervoerder waarop die vervoerder invloed heeft uit van de aanbesteding van vervoer buiten het grondgebied van de plusregio waar de concessie op grond van artikel 63a verleend is, waarop artikel 2, tweede of vierde lid, bij algemene maatregel van bestuur van toepassing is verklaard, ook indien die invloed slechts minimaal is.   
-3.  Een concessieverlener of een bestuursorgaan kan een vervoerder aan wie op grond van artikel 63a een concessie is verleend, of een vervoerder waarop die vervoerder invloed heeft, uitsluiten van de aanbesteding van vervoer binnen het grondgebied van de plusregio waar de concessie op grond van artikel 63a verleend is, ook indien die invloed slechts minimaal is.   
-4.  Een concessieverlener als bedoeld in artikel 20, tweede lid, sluit een vervoerder uit van een aanbesteding als bedoeld in het eerste of tweede lid, indien die vervoerder is gevestigd in een andere staat, niet zijnde een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voor zover de wederkerigheid van de toegang tot de desbetreffende markt voor personenvervoer voor vervoerders die in Nederland zijn gevestigd niet gewaarborgd is.   
+1.  Een concessieverlener sluit een vervoerder aan wie op grond van artikel 63a een concessie is verleend, of een vervoerder waarop die vervoerder invloed heeft uit van de aanbesteding van een concessie voor openbaar vervoer buiten het krachtens artikel 20, derde lid, aangewezen gebied waar de concessie op grond van artikel 63a verleend is, ook indien die invloed slechts minimaal is.   
+2.  Een bestuursorgaan als bedoeld in artikel 20, sluit een vervoerder aan wie op grond van artikel 63a een concessie is verleend, of een vervoerder waarop die vervoerder invloed heeft uit van de aanbesteding van vervoer buiten het krachtens artikel 20, derde lid, aangewezen gebied waar de concessie op grond van artikel 63a verleend is, waarop artikel 2, tweede of vierde lid, bij algemene maatregel van bestuur van toepassing is verklaard, ook indien die invloed slechts minimaal is.   
+3.  Een concessieverlener of een bestuursorgaan kan een vervoerder aan wie op grond van artikel 63a een concessie is verleend, of een vervoerder waarop die vervoerder invloed heeft, uitsluiten van de aanbesteding van vervoer binnen het krachtens artikel 20, derde lid, aangewezen gebied waar de concessie op grond van artikel 63a verleend is, ook indien die invloed slechts minimaal is.   
+4.  Een concessieverlener als bedoeld in artikel 20, tweede of derde lid, sluit een vervoerder uit van een aanbesteding als bedoeld in het eerste of tweede lid, indien die vervoerder is gevestigd in een andere staat, niet zijnde een lidstaat van de Europese Unie of een andere staat die partij is bij de Overeenkomst betreffende de Europese Economische Ruimte, voor zover de wederkerigheid van de toegang tot de desbetreffende markt voor personenvervoer voor vervoerders die in Nederland zijn gevestigd niet gewaarborgd is.   
 5.  Het eerste, tweede en derde lid zijn niet van toepassing indien wordt voldaan aan de voorwaarden, genoemd in artikel 5, tweede lid, onderdeel c, van verordening (EG) 1370/2007.   
 6.  Het vijfde lid is van overeenkomstige toepassing op een gemeentelijk vervoerbedrijf in de zin van artikel 69, eerste of zevende lid, zoals dat luidde voor de inwerkingtreding van de Wet aanbestedingsvrijheid OV grote steden.  
 
@@ -739,7 +741,8 @@ Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 20
 
 ### Artikel  63a  
 
-In afwijking van artikel 61, eerste lid, kan een concessieverlener voor openbaar vervoer, anders dan per trein, in een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente Amsterdam, ’s-Gravenhage, Rotterdam of Utrecht omvat, een concessie verlenen zonder dat daartoe een aanbesteding is gehouden indien deze concessie wordt verleend aan een vervoerder waarop de desbetreffende plusregio net als over haar eigen diensten zeggenschap uitoefent. Artikel 5, tweede lid, van verordening (EG) 1370/2007 is van toepassing. 
+1.  In afwijking van artikel 61, eerste lid, kan een concessieverlener voor openbaar vervoer, anders dan per trein, in een krachtens artikel 20, derde lid, aangewezen gebied, dat de gemeenten Amsterdam, ’s-Gravenhage of Rotterdam omvat, een concessie verlenen zonder dat daartoe een aanbesteding is gehouden, indien deze concessie wordt verleend aan een vervoerder waarop het openbaar lichaam als bedoeld artikel 20, derde lid, net als over haar eigen diensten zeggenschap uitoefent. Artikel 5, tweede lid, van verordening (EG) 1370/2007 is van toepassing.   
+2.  In afwijking van artikel 61, eerste lid, kan een concessieverlener voor openbaar vervoer, anders dan per trein, voor het gebied van de plusregio, bedoeld in hoofdstuk XI van de Wet gemeenschappelijke regelingen, zoals dat luidde op de dag voorafgaand aan de datum van inwerkingtreding van de Wet afschaffing plusregio’s, dat de gemeente Utrecht omvatte, een concessie verlenen zonder dat daartoe een aanbesteding is gehouden, indien deze concessie wordt verleend aan een vervoerder waarop de concessieverlener net als over haar eigen diensten zeggenschap uitoefent. Artikel 5, tweede lid, van verordening (EG) 1370 /2007 is van toepassing.  
 
 ### §  4b  
 
@@ -754,11 +757,11 @@ In afwijking van artikel 61, eerste lid, kan een concessieverlener voor openbaar
 
 1.  Een vervoerder aan wie op grond van artikel 63a een concessie is verleend, doet niet mee aan de aanbesteding van: 
 
-a. concessies voor openbaar vervoer buiten de plusregio waar de concessie, bedoeld in de aanhef, verleend is;  
+a. concessies voor openbaar vervoer buiten de gebieden, bedoeld in artikel 63a, eerste en tweede lid, waar de concessie, bedoeld in de aanhef, verleend is;  
 
-b. concessies voor openbaar vervoer binnen de plusregio waar de concessie, bedoeld in de aanhef, verleend is indien de concessieverlener dit heeft uitgesloten als bedoeld in artikel 62, derde lid.  
+b. concessies voor openbaar vervoer binnen de gebieden, bedoeld in artikel 63a, eerste en tweede lid, waar de concessie, bedoeld in de aanhef, verleend is indien de concessieverlener dit heeft uitgesloten als bedoeld in artikel 62, derde lid.  
 
-c. vervoer buiten het grondgebied van de plusregio waar de concessie verleend is waarop bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, dit artikel van toepassing is verklaard.     
+c. vervoer buiten het gebied, bedoeld in artikel 63a, eerste en tweede lid, waar de concessie verleend is waarop bij algemene maatregel van bestuur als bedoeld in artikel 2, tweede of vierde lid, dit artikel van toepassing is verklaard.     
 2.  In afwijking van het eerste lid mag een vervoerder aan wie op grond van artikel 63a een concessie is verleend, meedoen aan een aanbesteding indien wordt voldaan aan de voorwaarden, genoemd in artikel 5, tweede lid, onderdeel c, van verordening (EG) 1370/2007.  
 
 ### Artikel  63c  
@@ -1142,7 +1145,7 @@ c. het rijden met een lege bus of auto over voor het openbaar verkeer openstaand
 
 a. de bij besluit van Onze Minister aangewezen personen;  
 
-b. de bij besluit van de bestuursorganen, bedoeld in artikel 20, tweede en derde lid, aangewezen personen, voor zover het de door hen verleende concessies betreft, voor het bepaalde bij of krachtens de artikelen 19, 29, 30 tot en met 40, 46 en 63c, eerste, tweede en derde lid, met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, en elfde lid voor zover niet de Autoriteit Consument en Markt is belast met dat toezicht en  
+b. de bij besluit van de bestuursorganen, bedoeld in artikel 20, tweede, derde en vierde lid, aangewezen personen, voor zover het de door hen verleende concessies betreft, voor het bepaalde bij of krachtens de artikelen 19, 29, 30 tot en met 40, 46 en 63c, eerste, tweede en derde lid, met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, en elfde lid voor zover niet de Autoriteit Consument en Markt is belast met dat toezicht en  
 
 c. de bij besluit van het college van burgemeester en wethouders van de desbetreffende gemeenten aangewezen personen, voor zover het betreft het toezicht op naleving van het bepaalde bij of krachtens de artikelen 82a en 82b.    
 2.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet, van verordening 1071/2009/EG en van verordening 1073/2009/EG zijn voorts belast de in artikel 141 van het Wetboek van Strafvordering bedoelde ambtenaren en de met betrekking tot deze wet krachtens artikel 17, eerste lid, onder 2°, van de Wet op de economische delicten aangewezen ambtenaren.   
@@ -1187,7 +1190,7 @@ De reiziger die de leeftijd van veertien jaar nog niet heeft bereikt, is verplic
 
 ### Artikel  93a  
 
-Het dagelijks bestuur van een plusregio als bedoeld in artikel 20, tweede en derde lid, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen gesteld bij of krachtens de artikelen 19, eerste en tweede lid, 29, 32, 34, 39, 46 en 63c, eerste, tweede en derde lid, met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, en elfde lid, voor zover de bevoegdheid tot handhaving niet op grond van artikel 94, eerste lid, aan de Autoriteit Consument en Markt is toegekend. 
+Het dagelijks bestuur van een openbaar lichaam als bedoeld in artikel 20, derde en vierde lid, is bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de verplichtingen gesteld bij of krachtens de artikelen 19, eerste en tweede lid, 29, 32, 34, 39, 46 en 63c, eerste, tweede en derde lid, met uitzondering van openbaar vervoer per trein waarvoor op grond van deze wet Onze Minister het bevoegde bestuursorgaan is, en elfde lid, voor zover de bevoegdheid tot handhaving niet op grond van artikel 94, eerste lid, aan de Autoriteit Consument en Markt is toegekend. 
 
 ### Artikel  94  
 
@@ -1337,13 +1340,6 @@ Een aanvraag voor een vergunning voor het verrichten van taxivervoer die voor de
 
 1.  Een besluit tot aanwijzing van een gemeente als bedoeld in artikel 39 van de Wet personenvervoer zoals dit luidde voor de inwerkingtreding van artikel 127 behoudt zijn geldigheid tot het moment waarop Onze Minister het besluit intrekt.   
 2.  Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop Onze Minister toepassing geeft aan de bevoegdheid tot intrekken van een besluit als bedoeld in het eerste lid.  
-
-### Artikel  121  
-
-1.  Indien een plusregio als bedoeld in artikel 20 wordt opgeheven, zijn de colleges van burgemeester en wethouders van de gemeenten die de plusregio vormden, bevoegd tot het verlenen, wijzigen of intrekken van concessies voor openbaar vervoer ten behoeve van die gemeenten, voor zover zij daartoe door Onze Minister zijn aangewezen.  
-2.  Een aanwijzing als bedoeld in het eerste lid wordt gedaan indien Onze Minister dit doelmatig acht.   
-3.  Bij ministeriële regeling kunnen regels worden gesteld over de wijze waarop Onze Minister toepassing geeft aan het eerste en tweede lid.   
-4.  Het eerste en tweede lid zijn niet van toepassing op de bevoegdheid tot het verlenen van concessies voor openbaar vervoer per trein.  
 
 ### Artikel  121a  
 

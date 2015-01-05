@@ -21,13 +21,15 @@ c.  *Sociale verzekeringsbank:* de Sociale verzekeringsbank, genoemd in hoofdstu
 
 d.  *Cliëntenraad:* de Cliëntenraad verzetsdeelnemers en oorlogsgetroffenen, genoemd in artikel 10;  
 
-e.  *wetten voor verzetsdeelnemers en oorlogsgetroffenen:* de Wet buitengewoon pensioen 1940–1945, de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers, de Wet buitengewoon pensioen Indisch verzet, de Wet uitkeringen vervolgingsslachtoffers 1940–1945 en de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945.   
+e.  *wetten voor verzetsdeelnemers en oorlogsgetroffenen:* de Wet buitengewoon pensioen 1940–1945, de Wet buitengewoon pensioen zeelieden-oorlogsslachtoffers, de Wet buitengewoon pensioen Indisch verzet, de Wet uitkeringen vervolgingsslachtoffers 1940–1945 en de Wet uitkeringen burger-oorlogsslachtoffers 1940–1945;  
+
+f.  *AOR:* de Algemene Oorlogsongevallenregeling Indonesië met inbegrip van het besluit van de Luitenant-Gouverneur-Generaal van Nederlands-Indië van 5 november 1946 (Indisch Staatsblad 1946, 118).  
 
 ### Artikel  2  
 
-1.  De artikelen 18 tot en met 20, 22, 26 tot en met 30 en 33 tot en met 35 van de Kaderwet zelfstandige bestuursorganen zijn van toepassing op de uitvoering door de Sociale verzekeringsbank van de wetten voor verzetsdeelnemers en oorlogsgetroffenen.   
+1.  De artikelen 18 tot en met 20, 22, 26 tot en met 30 en 33 tot en met 35 van de Kaderwet zelfstandige bestuursorganen zijn van toepassing op de uitvoering door de Sociale verzekeringsbank van de wetten voor verzetsdeelnemers en oorlogsgetroffenen en de AOR.   
 2.  De bevoegdheden, bedoeld in de artikelen 20 en 22, van de Kaderwet zelfstandige bestuursorganen, worden door Onze Minister toegepast in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid.   
-3.  In afwijking van artikel 36, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen, wordt het toezicht op de uitvoering door de Sociale verzekeringsbank van de wetten voor verzetsdeelnemers en oorlogsgetroffenen uitgeoefend door Onze Minister.   
+3.  In afwijking van artikel 36, tweede lid, van de Wet structuur uitvoeringsorganisatie werk en inkomen, wordt het toezicht op de uitvoering door de Sociale verzekeringsbank van de wetten voor verzetsdeelnemers en oorlogsgetroffenen en de AOR uitgeoefend door Onze Minister.   
 4.  Artikel 84 van de Wet structuur uitvoeringsorganisatie werk en inkomen is ten aanzien van de uitvoering van deze wet door de Sociale verzekeringsbank niet van toepassing.  
 
 ### Artikel  3  
@@ -45,17 +47,19 @@ a. het geven van beschikkingen op een aanvraag voor een erkenning, buitengewoon 
 
 b. het ambtshalve herzien van de erkenning als verzetsdeelnemer, vervolgde of burger-oorlogsslachtoffer;  
 
-c. het vaststellen van beleidsregels voor beschikkingen van de Sociale verzekeringsbank als bedoeld in artikel 6, onderdelen a en b, en  
+c. het geven van beschikkingen op een aanvraag voor een uitkering of tegemoetkoming op grond van de AOR afkomstig van een persoon die nog geen financiële aanspraak ontleent of heeft ontleend aan deze regeling; 
 
-d. het adviseren van de Sociale verzekeringsbank over beschikkingen waarbij niet op basis van de beleidsregels, bedoeld in onderdeel c, kan worden besloten.   
+d. het vaststellen van beleidsregels voor beschikkingen van de Sociale verzekeringsbank als bedoeld in artikel 6, onderdelen a en b, en  
+
+e. het adviseren van de Sociale verzekeringsbank over beschikkingen waarbij niet op basis van de beleidsregels, bedoeld in onderdeel d, kan worden besloten.   
 
 ### Artikel  5  
 
 1.  De Raad bestaat uit minimaal drie en maximaal negen leden, onder wie een voorzitter.   
-2.  De benoeming van de leden van de Raad geschiedt gehoord hebbende de organisaties en instellingen welke regelmatig zijn betrokken bij de uitvoering van de wetten voor verzetsdeelnemers en oorlogsgetroffenen.   
+2.  De benoeming van de leden van de Raad geschiedt gehoord hebbende de organisaties en instellingen welke regelmatig zijn betrokken bij de uitvoering van de wetten voor verzetsdeelnemers en oorlogsgetroffenen en de AOR.   
 3.  De leden van de Raad worden benoemd voor een periode van vier jaren.   
 4.  De Raad wordt zodanig samengesteld dat daarin de categorieën belanghebbenden waarop de werkzaamheden van de Raad betrekking hebben op een evenwichtige wijze zijn vertegenwoordigd.   
-5.  Het lidmaatschap van de Raad is onverenigbaar met het hebben van een financiële aanspraak op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen.   
+5.  Het lidmaatschap van de Raad is onverenigbaar met het hebben van een financiële aanspraak op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen en de AOR.   
 6.  De Raad stelt regels betreffende de uitvoering van zijn taken, genoemd in artikel 4.   
 7.  De voorzitter vertegenwoordigt de Raad in en buiten rechte.  
 
@@ -63,17 +67,17 @@ d. het adviseren van de Sociale verzekeringsbank over beschikkingen waarbij niet
 
 De Sociale verzekeringsbank heeft tot taak: 
 
-a. het geven van de beschikkingen op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen die niet op grond van artikel 4 aan de Raad zijn opgedragen;  
+a. het geven van de beschikkingen op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen en de AOR die niet op grond van artikel 4 aan de Raad zijn opgedragen;  
 
 b. het geven van beschikkingen op aanvragen voor een vergoeding in de kosten van een behandeling, als bedoeld in artikel 2 van de Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie;  
 
-c. de voorbereiding en de uitvoering van de beschikkingen, bedoeld in artikel 4, onderdelen a en b, en  
+c. de voorbereiding en de uitvoering van de beschikkingen, bedoeld in artikel 4, onderdelen a tot en met c, en  
 
 d. de ondersteuning van de Raad bij zijn werkzaamheden.   
 
 ### Artikel  7  
 
-1.  De beschikkingen, bedoeld in artikel 6, onderdelen a en b, worden gegeven met in achtneming van de beleidsregels, bedoeld in artikel 4, onderdeel c.   
+1.  De beschikkingen, bedoeld in artikel 6, onderdelen a en b, worden gegeven met in achtneming van de beleidsregels, bedoeld in artikel 4, onderdeel d.   
 2.  De Sociale verzekeringsbank vraagt de Raad om advies indien deze niet kan voldoen aan de verplichting, genoemd in het eerste lid, omdat: 
 
 a. er geen beleidsregel is, of  
@@ -88,12 +92,12 @@ b. toepassing van de beleidsregel voor een of meer belanghebbenden gevolgen zou 
 
 ### Artikel  9  
 
-1.  De kosten van de buitengewone pensioenen, garantietoeslagen, uitkeringen, periodieke uitkeringen, garantie-uitkeringen, vergoedingen en tegemoetkomingen, die worden verstrekt op grond van de wetten voor verzetsdeelnemers en oorlogsgetroffenen, komen ten laste van het Rijk.   
+1.  De kosten van de buitengewone pensioenen, garantietoeslagen, uitkeringen, periodieke uitkeringen, garantie-uitkeringen, vergoedingen en tegemoetkomingen, die worden verstrekt op grond van de wetten voor verzetsdeelnemers en oorlogsgetroffenen alsmede de uitkeringen en tegemoetkomingen op grond van de AOR, komen ten laste van het Rijk.   
 2.  De kosten, gemoeid met de uitvoering van deze wet, komen ten laste van ’s Rijks kas, overeenkomstig bij ministeriële regeling te stellen regels.  
 
 ### Artikel  10  
 
-1.  Er is een Cliëntenraad, die met de Raad en de Sociale verzekeringsbank overlegt en hun gevraagd en ongevraagd schriftelijk adviseert over de uitvoering van de wetten voor verzetsdeelnemers en oorlogsgetroffenen, voorzover dit relevant is vanuit het oogpunt van cliëntenbelangen, met uitzondering van individuele zaken.   
+1.  Er is een Cliëntenraad, die met de Raad en de Sociale verzekeringsbank overlegt en hun gevraagd en ongevraagd schriftelijk adviseert over de uitvoering van de wetten voor verzetsdeelnemers en oorlogsgetroffenen en de AOR, voorzover dit relevant is vanuit het oogpunt van cliëntenbelangen, met uitzondering van individuele zaken.   
 2.  De Cliëntenraad bestaat uit personen of vertegenwoordigers van personen die als cliënt betrokken zijn bij de uitvoering van de taken, genoemd in de artikelen 4 en 6.   
 3.  De Cliëntenraad bestaat uit minimaal zeven en maximaal vijftien leden, onder wie een voorzitter, die door de Sociale verzekeringsbank worden benoemd, geschorst en ontslagen. De benoeming van de leden van de eerste Cliëntenraad na inwerkingtreding van deze wet, geschiedt op voordracht van de Raad. De daaropvolgende benoemingen geschieden op voordracht van de zittende leden van de Cliëntenraad.   
 4.  De leden van de Cliëntenraad worden benoemd voor een periode van drie jaren.   
@@ -120,13 +124,7 @@ c. de openbaarheid van zijn bijeenkomsten.
 
 ### Artikel  13  
 
-Op het tijdstip van inwerkingtreding van deze wet worden de archiefbescheiden van de Raad, bedoeld in artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad, overgedragen aan de Sociale verzekeringsbank, met uitzondering van de bescheiden die betrekking hebben op de personeelsleden van deze Raad die niet in dienst zijn genomen door de Sociale verzekeringsbank. 
-
-### Artikel  14  
-
-1.  Onze Minister bepaalt in overeenstemming met Onze Minister van Financiën welke vermogensbestanddelen van de Raad, bedoeld in artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad, worden toebedeeld aan de Sociale verzekeringsbank.   
-2.  De in het eerste lid bedoelde vermogensbestanddelen gaan met ingang van de datum van inwerkingtreding van deze wet onder algemene titel over op de Sociale verzekeringsbank tegen een door Onze Minister in overeenstemming met Onze Minister van Financiën te bepalen waarde.   
-3.  Bij ministeriële regeling worden regels gesteld ten aanzien van de besteding van de vermogensbestanddelen, bedoeld in het eerste lid.  
+Op het tijdstip van inwerkingtreding van de wet tot wijziging van de Wet uitvoering wetten voor verzetsdeelnemers en oorlogsgetroffenen in verband met het opnemen van een grondslag voor de uitvoering door de Pensioen- en Uitkeringsraad en de Sociale verzekeringsbank van de Algemene Oorlogsongevallenregeling Indonesië en het besluit van de Luitenant-Gouverneur-Generaal van Nederlands-Indië van 5 november 1946 (Indisch Staatsblad 1946, 118) worden de archiefbescheiden van de Stichting Administratie Indonesische Pensioenen, voor zover betrekking hebbend op de AOR, overgedragen aan de Sociale verzekeringsbank respectievelijk de Pensioen- en Uitkeringsraad, voor zover zij niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats. 
 
 ### Artikel  15  
 
@@ -155,12 +153,6 @@ De Wet op de Pensioen- en Uitkeringsraad wordt ingetrokken.
 ### Artikel  21  
 
 Onze Minister zendt in overeenstemming met Onze Minister van Sociale Zaken en Werkgelegenheid binnen drie jaar na de inwerkingtreding van deze wet, en vervolgens telkens na vijf jaar, aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
-
-### Artikel  22  
-
-1.  De publiekrechtelijke rechten en verplichtingen van de Raad, bedoeld in artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad, ten aanzien van gerechtigden die op het tijdstip van inwerkingtreding van deze wet een financiële aanspraak ontlenen aan de wetten voor verzetsdeelnemers en oorlogsgetroffenen of aan de Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie, gaan over op de Sociale verzekeringsbank.   
-2.  Een tot de Raad, bedoeld in artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad, gerichte aanvraag op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen van een gerechtigde die op het tijdstip van inwerkingtreding van deze wet geen financiële aanspraak ontleent aan de wet waarop hij deze aanvraag baseert en waarop ten tijde van de inwerkingtreding van deze wet nog niet is beslist, wordt beschouwd als te zijn gericht tot de Raad, bedoeld in artikel 3.   
-3.  Een tot de Raad, bedoeld in artikel 2, eerste lid, van de Wet op de Pensioen- en Uitkeringsraad, gerichte aanvraag op basis van de wetten voor verzetsdeelnemers en oorlogsgetroffenen van een gerechtigde die op het tijdstip van inwerkingtreding van deze wet een financiële aanspraak ontleent aan de wet waarop hij deze aanvraag baseert, of op basis van de Tijdelijke vergoedingsregeling psychotherapie na-oorlogse generatie, waarop ten tijde van de inwerkingtreding van deze wet nog niet is beslist, wordt beschouwd als te zijn gericht tot de Sociale verzekeringsbank.  
 
 ### Artikel  23  
 

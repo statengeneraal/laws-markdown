@@ -127,16 +127,16 @@ Onze Minister zendt binnen vijf jaar na de inwerkingtreding van deze wet aan de 
 
 ### Artikel  16  
 
-1. Het bestuur van een regionaal openbaar lichaam als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen dat de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat, stelt een regionaal verkeers- en vervoerplan vast, dat richting geeft aan de voor het gebied van dat regionaal openbaar lichaam te nemen beslissingen inzake verkeer en vervoer. Het bestuur neemt hierbij de essentiële onderdelen van het nationale verkeers- en vervoerplan in acht, evenals de essentiële onderdelen van het provinciale verkeer- en vervoerplan, voor zover die betrekking hebben op de bovenregionale samenhang.
-2. Voor de openbare lichamen als bedoeld in het eerste lid is de onderhavige wet van overeenkomstige toepassing, met dien verstande, dat: 
+1.  Het bestuur van een openbaar lichaam als bedoeld in artikel 20, derde lid, van de Wet personenvervoer 2000, stelt een regionaal verkeer- en vervoerplan vast, dat richting geeft aan de voor het krachtens artikel 20, derde lid, van de Wet personenvervoer aangewezen gebied te nemen beslissingen inzake verkeer en vervoer. Het bestuur neemt hierbij de essentiële onderdelen van het nationale verkeers- en vervoerplan in acht, evenals de essentiële onderdelen van het provinciale verkeers- en vervoerplan, voor zover die betrekking hebben op de bovenregionale samenhang.   
+2.  Voor een openbaar lichaam als bedoeld in het eerste lid is de onderhavige wet van overeenkomstige toepassing, met dien verstande, dat: 
 
-a. voor de toepassing van de artikelen 2, tweede lid, 3, derde lid, onder b, 12, 13, eerste lid, en 14 regionale openbare lichamen gelijkgesteld worden met provincies;   
+a. voor de toepassing van de artikelen 2, tweede lid, 12, 13, eerste lid, en 14, openbare lichamen als bedoeld in artikel 20, derde lid van de Wet personenvervoer 2000 gelijkgesteld worden met provincies;  
 
-b. voor de toepassing van artikel 3, derde lid, onder a en b, na «provincies» ingevoegd wordt: ,regionale openbare lichamen;   
+b. voor de toepassing van artikel 3, derde lid, onderdeel b, na «provincies» ingevoegd wordt:, openbare lichamen;  
 
-c. het in artikel 5 bedoelde provinciale verkeers- en vervoerplan uitsluitend betrekking heeft op het gebied van een in de provincie gelegen regionaal openbaar lichaam voor zover daarin essentiële onderdelen van beleid zijn opgenomen die noodzakelijk zijn voor de bovenregionale samenhang en het bestuur van de provincie over deze onderdelen overleg heeft gevoerd met het bestuur van het betrokken regionaal openbaar lichaam;  
+c. het in artikel 5 bedoelde provinciale verkeers- en vervoerplan uitsluitend betrekking heeft op het krachtens artikel 20, derde lid, van de Wet personenvervoer 2000 aangewezen gebied voor zover daarin essentiële onderdelen van beleid zijn opgenomen die noodzakelijk zijn voor de bovenregionale samenhang en het bestuur van de provincie over deze onderdelen overleg heeft gevoerd met het bestuur van het openbaar lichaam;  
 
-d. in artikel 6, eerste lid, tweede volzin, na «provincies» toegevoegd wordt: , alsmede het algemeen bestuur van het in de provincie bestaand regionaal openbaar lichaam;   
+d. in artikel 6, eerste lid, tweede volzin, na «provincies» ingevoegd wordt:, alsmede het bestuur van het in de provincie bestaand openbaar lichaam als bedoeld in artikel 20, derde lid, van de Wet personenvervoer 2000;  
 
 e. de artikelen 8 en 10 niet van toepassing zijn.   
 

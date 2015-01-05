@@ -2405,7 +2405,7 @@ a. een andere handeling van een bestuursorgaan waarbij de volgende personen, hun
 
 4°. een dienstplichtige als bedoeld in hoofdstuk 2 van de Kaderwet dienstplicht als zodanig,    
 
-b. een andere publiekrechtelijke handeling van een bij of krachtens de Wet op de bedrijfsorganisatie ingesteld bestuursorgaan.     
+b. een andere publiekrechtelijke handeling van de Sociaal-Economische Raad.     
 2.  Met een besluit wordt gelijkgesteld de schriftelijke beslissing, inhoudende de weigering van de goedkeuring van: 
 
 a. een besluit, inhoudende een algemeen verbindend voorschrift of een beleidsregel of de intrekking of de vaststelling van de inwerkingtreding van een algemeen verbindend voorschrift of een beleidsregel,  
@@ -4142,13 +4142,9 @@ f. artikel 5.2a, vierde lid, betreffende de toepassing van hoofdstuk XVII van de
 
 a. een ontslagbesluit als bedoeld in artikel 16, vierde lid  
 
-b. de artikelen 25, achtste lid, 32b, 32c, 36, eerste lid, 45a gelezen in samenhang met artikel 32b, 49 gelezen in samenhang met artikel 36, eerste lid, en 50h, eerste lid  
+b. de artikelen 25, achtste lid, 32b, 32c, 36, eerste lid, 45a gelezen in samenhang met artikel 32b, 49 gelezen in samenhang met artikel 36, eerste lid, en 50h, eerste lid  
 
-c. de artikelen 39c, vierde lid en 39e, tweede lid, betreffende de toepassing van de artikelen 32b en 32c, en artikel 49 gelezen in samenhang met dit onderdeel  
-
-d. een besluit van een plusregio als bedoeld in hoofdstuk XI voor zover het bestuur van een gemeente daartegen beroep instelt  
-
-e. artikel 116, eerste lid, betreffende de toepassing van de artikelen 124 en 124a van de Gemeentewet    Wet luchtvaart: de artikelen 8.25ea, vierde lid, en 8.25f, tweede, vierde en vijfde lid Wet milieubeheer: 
+c. de artikelen 39c, vierde lid en 39e, tweede lid, betreffende de toepassing van de artikelen 32b en 32c, en artikel 49 gelezen in samenhang met dit onderdeel    Wet luchtvaart: de artikelen 8.25ea, vierde lid, en 8.25f, tweede, vierde en vijfde lid Wet milieubeheer: 
 
 a. artikel 16.31, tweede lid  
 
@@ -4256,17 +4252,15 @@ a. een besluit omtrent de goedkeuring als bedoeld in de artikelen 3 en 6
 
 b. een besluit als bedoeld in artikel 13, derde lid   Wet bijzondere opneming in psychiatrische ziekenhuizen   Wet bodembescherming: artikel 43, voor zover het betreft de afwijzing van een verzoek  Wet College voor de rechten van de mens, met uitzondering van de artikelen 14 tot en met 18 Wet gemeenschappelijke regelingen: 
 
-a. de artikelen 32b en 45a gelezen in samenhang met artikel 32b, voor zover het beroep niet wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan  
+a. de artikelen 32b en 45a gelezen in samenhang met artikel 32b, voor zover het beroep niet wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan  
 
 b. artikel 32c, voor zover het beroep niet wordt ingesteld door gedeputeerde staten  
 
-c. de artikelen 36, eerste lid, 49 gelezen in samenhang met artikel 36, eerste lid, en 50h, eerste lid, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging  
+c. de artikelen 36, eerste lid, 49 gelezen in samenhang met artikel 36, eerste lid, en 50h, eerste lid, voor zover het betreft de weigering om een besluit tot vernietiging te nemen en het niet tijdig nemen van een besluit tot vernietiging  
 
-d. de artikelen 39b en 49 gelezen in samenhang met artikel 39b, voor zover het betreft de weigering om een voordracht tot vernietiging te doen  
+d. de artikelen 39b en 49 gelezen in samenhang met artikel 39b, voor zover het betreft de weigering om een voordracht tot vernietiging te doen  
 
-e. de artikelen 39c, vierde lid en 39e, tweede lid, betreffende de toepassing van artikel 32b voor zover het beroep niet wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, en betreffende de toepassing van artikel 32c, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, en artikel 49 gelezen in samenhang met dit onderdeel  
-
-f. artikel 116, eerste lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep niet wordt ingesteld door het bestuur van de plusregio, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep niet wordt ingesteld door gedeputeerde staten   Wet geurhinder en veehouderij: artikel 7  Wet gewasbeschermingsmiddelen en biociden: artikel 108  Wet investeren in jongeren: de artikelen 37, 57 en 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten  Wet luchtvaart:  
+e. de artikelen 39c, vierde lid en 39e, tweede lid, betreffende de toepassing van artikel 32b voor zover het beroep niet wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, en betreffende de toepassing van artikel 32c, voor zover het beroep niet wordt ingesteld door gedeputeerde staten, en artikel 49 gelezen in samenhang met dit onderdeel   Wet geurhinder en veehouderij: artikel 7  Wet gewasbeschermingsmiddelen en biociden: artikel 108  Wet investeren in jongeren: de artikelen 37, 57 en 91, voor zover het besluiten betreft van de voorzitter van gedeputeerde staten  Wet luchtvaart:  
 
 a. de artikelen 8.4 en 8.15  
 
@@ -4428,17 +4422,15 @@ c. de artikelen 6.1.3 tot en met 6.1.6, 6.2.1 tot en met 6.2.3, 6.2.3b, 6.3.1 to
 
 a. artikel 25, achtste lid  
 
-b. de artikelen 32b en 45a gelezen in samenhang met artikel 32b, voor zover het beroep wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan  
+b. de artikelen 32b en 45a gelezen in samenhang met artikel 32b, voor zover het beroep wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan  
 
 c. artikel 32c, voor zover het beroep wordt ingesteld door gedeputeerde staten  
 
-d. de artikelen 36, eerste lid, 49 gelezen in samenhang met artikel 36, eerste lid, en 50h, eerste lid  
+d. de artikelen 36, eerste lid, 49 gelezen in samenhang met artikel 36, eerste lid, en 50h, eerste lid  
 
-e. de artikelen 39c, vierde lid en 39e, tweede lid, betreffende de toepassing van artikel 32b voor zover het beroep wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, en betreffende de toepassing van artikel 32c, voor zover het beroep wordt ingesteld door gedeputeerde staten, en artikel 49 gelezen in samenhang met dit onderdeel  
+e. de artikelen 39c, vierde lid en 39e, tweede lid, betreffende de toepassing van artikel 32b voor zover het beroep wordt ingesteld door het bestuur van het openbaar lichaam, het bestuur van de bedrijfsvoeringsorganisatie of het gemeenschappelijk orgaan, en betreffende de toepassing van artikel 32c, voor zover het beroep wordt ingesteld door gedeputeerde staten, en artikel 49 gelezen in samenhang met dit onderdeel  
 
-f. de artikelen 99, eerste lid, 100, eerste lid, 103b, 103c, eerste lid, en 114  
-
-g. artikel 116, eerste lid, betreffende de toepassing van artikel 124 van de Gemeentewet voor zover het beroep wordt ingesteld door het bestuur van de plusregio, en betreffende de toepassing van artikel 124a van de Gemeentewet voor zover het beroep wordt ingesteld door gedeputeerde staten   Wet gewetensbezwaren militaire dienst:  
+f. de artikelen 99, eerste lid, 100, eerste lid, 103b, en 103c, eerste lid   Wet gewetensbezwaren militaire dienst:  
 
 a. hoofdstuk II, met uitzondering van artikel 4, tweede lid  
 
@@ -4512,7 +4504,7 @@ Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift o
 
 ####Beroep bij het College van Beroep voor het bedrijfsleven
 
-Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven. Een besluit van een bij of krachtens de Wet op de bedrijfsorganisatie ingesteld bestuursorgaan of van de Kamer van Koophandel, genoemd in artikel 2 van de Wet op de Kamer van Koophandel, met uitzondering van: 
+Tegen een besluit, genomen op grond van een in dit artikel genoemd voorschrift of anderszins in dit artikel omschreven, kan beroep worden ingesteld bij het College van Beroep voor het bedrijfsleven. Een besluit van de Sociaal-Economische Raad of van de Kamer van Koophandel, genoemd in artikel 2 van de Wet op de Kamer van Koophandel, met uitzondering van: 
 
 a. een besluit op grond van de Wet openbaarheid van bestuur  
 

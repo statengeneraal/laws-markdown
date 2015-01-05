@@ -115,7 +115,7 @@ De keurling heeft het recht medewerking te weigeren aan een keuring of een onder
 
 a. kan de medewerking van de Sociaal-Economische Raad worden ingeroepen; en  
 
-b. kunnen voor de klachtencommissie in afwijking van artikel 37 van de Wet op de bedrijfsorganisatie ook personen van niet in de Sociaal-Economische Raad vertegenwoordigde organisaties worden aangezocht.     
+b. kunnen voor de klachtencommissie in afwijking van artikel 37 van de Wet op de Sociaal-Economische Raad ook personen van niet in de Sociaal-Economische Raad vertegenwoordigde organisaties worden aangezocht.     
 3.  Bij algemene maatregel van bestuur kunnen nadere regels worden gesteld ter uitvoering van de artikelen 2, 3, 4, 5, 6, 7, 8 en 13, tweede en derde lid. 
 
 ### Artikel  16  

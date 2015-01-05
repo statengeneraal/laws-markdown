@@ -36,7 +36,7 @@ h. vervallen;
 
 i. werknemersverzekeringen: de verplichte verzekeringen op grond van de Werkloosheidswet, de Ziektewet, de Wet werk en inkomen naar arbeidsvermogen en de Wet op de arbeidsongeschiktheidsverzekering;  
 
-j. volksverzekeringen: de verzekeringen op grond van de Algemene Ouderdomswet, de Algemene nabestaandenwet, de Algemene Kinderbijslagwet en de Algemene Wet Bijzondere Ziektekosten;  
+j. volksverzekeringen: de verzekeringen op grond van de Algemene Ouderdomswet, de Algemene nabestaandenwet, de Algemene Kinderbijslagwet en de Wet langdurige zorg;  
 
 k.werknemer: werknemer in de zin van de werknemersverzekeringen of een werknemer, artiest, beroepssporter, lid van een buitenlands gezelschap of een aangewezen andere natuurlijke persoon als bedoeld in artikel 1 van de Wet op de loonbelasting 1964;
 
@@ -495,12 +495,12 @@ b. ten behoeve van een rechtmatige uitvoering van aan de colleges van burgemeest
 c. ten behoeve van Onze Minister met het oog op het toezicht op de naleving van wetten.     
 3.  De Sociale verzekeringsbank verwerkt gegevens afkomstig uit het buitenland en verricht taken in verband met deze gegevensverwerking: 
 
-a. ten behoeve van de uitvoering van bij of krachtens de Algemene Wet Bijzondere Ziektekosten en de Zorgverzekeringswet aan het Zorginstituut Nederland, genoemd in artikel 58 van de Zorgverzekeringswet, opgedragen taken;  
+a. ten behoeve van de uitvoering van bij of krachtens de Wet langdurige zorg en de Zorgverzekeringswet aan het Zorginstituut Nederland, genoemd in artikel 58 van de Zorgverzekeringswet, opgedragen taken;  
 
 b. ten behoeve van de uitvoering van de Algemene wet inkomensafhankelijke regelingen door de Belastingdienst/Toeslagen;  
 
 c. ten behoeve van de vaststelling van het verzekerd zijn op grond van de werknemersverzekeringen, de volksverzekeringen, of het verzekeringsplichtig zijn op grond van de Zorgverzekeringswet, voor zover dit voortvloeit uit internationaalrechtelijke voorschriften, dan wel stelt op basis van door de Sociale verzekeringsbank te verwerken gegevens op verzoek van de genoemde bestuursorganen en de zorgverzekeraars, genoemd in de Zorgverzekeringswet, verzekering of verzekeringstijdvakken vast.     
-4.  De Sociale verzekeringsbank verstrekt op verzoek van een verzekerde, een zorgverzekeraar of andere belanghebbende informatie over de verzekeringsstatus van de verzekerde voor zover deze informatie noodzakelijk is voor de uitvoering van de Algemene Wet Bijzondere Ziektekosten en de Zorgverzekeringswet en verstrekt op verzoek van een verzekerde informatie over de verzekeringstijdvakken en daarop gebaseerde aanspraak op ouderdomspensioen.   
+4.  De Sociale verzekeringsbank verstrekt op verzoek van een verzekerde, een Wlz-uitvoerder als bedoeld in artikel 1.1.1 van de Wet langdurige zorg, een zorgverzekeraar als bedoeld in artikel 1 van de Zorgverzekeringswet of andere belanghebbende informatie over de verzekeringsstatus van de verzekerde voor zover deze informatie noodzakelijk is voor de uitvoering van de Wet langdurige zorg en de Zorgverzekeringswet en verstrekt op verzoek van een verzekerde informatie over de verzekeringstijdvakken en daarop gebaseerde aanspraak op ouderdomspensioen.   
 5.  Bij of krachtens algemene maatregel van bestuur kunnen nadere regels worden gesteld met betrekking tot de financiering van deze taken. 
 
 ### Artikel  34a  
@@ -729,7 +729,7 @@ b. de Belastingdienst;
 
 c. de persoon, bedoeld in artikel 14, eerste lid, van de Arbeidsomstandighedenwet die belast is met de taken, bedoeld in artikel 14, eerste lid, onderdeel b, van die wet en de arbodienst, bedoeld in de Arbeidsomstandighedenwet;  
 
-d. het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet, de zorgverzekeraars, bedoeld in de Zorgverzekeringswet of de Algemene Wet Bijzondere Ziektekosten;  
+d. het Zorginstituut Nederland, genoemd in artikel 58, eerste lid, van de Zorgverzekeringswet, de zorgverzekeraars, bedoeld in de Zorgverzekeringswet, en de Wlz-uitvoerder bedoeld in artikel 1.1.1 van de Wet langdurige zorg;  
 
 e. de bedrijfstakpensioenfondsen, ondernemingspensioenfondsen, risicofondsen, stichtingen tot uitvoering van een regeling inzake vervroegd uittreden, en andere organen belast met het doen van uitkeringen of verstrekkingen die bij of krachtens artikel 6 van de Toeslagenwet als inkomen worden aangemerkt;  
 

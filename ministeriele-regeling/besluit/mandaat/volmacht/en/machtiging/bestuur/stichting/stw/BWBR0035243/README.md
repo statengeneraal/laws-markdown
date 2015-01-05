@@ -3,19 +3,19 @@
 ##Besluit van de Minister van Economische Zaken van 24 juni 2014, nr. WJZ / 14104810, houdende regels inzake mandaat, volmacht en machtiging aan het bestuur van de Stichting voor de Technische Wetenschappen betreffende de uitvoering van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen (Besluit mandaat, volmacht en machtiging bestuur Stichting STW)
 
 De Minister van Economische Zaken,  
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op afdeling 10.1.1 van de Algemene wet bestuursrecht;
 
 Gezien de schriftelijke instemming van het bestuur van de Stichting voor de Technische Wetenschappen;
 Besluit:    
 
 ### Artikel  1  
 
-Aan het bestuur van de Stichting voor de Technische Wetenschappen wordt mandaat, volmacht en machtiging verleend om besluiten te nemen, overeenkomsten tot geldlening te sluiten en daarmee samenhangende privaatrechtelijke handelingen, en overige feitelijke handelingen te verrichten met betrekking tot subsidieverstrekking op grond van hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen, voor zover het subsidies betreft die worden verstrekt aan academische innovatieve starters. 
+Aan het bestuur van de Stichting voor de Technische Wetenschappen wordt mandaat, volmacht en machtiging verleend om besluiten te nemen, overeenkomsten tot geldlening te sluiten en daarmee samenhangende privaatrechtelijke handelingen, en overige feitelijke handelingen te verrichten met betrekking tot subsidieverstrekking op grond van titel 3.16 van de Regeling nationale EZ-subsidies, voor zover het subsidies betreft die worden verstrekt aan academische innovatieve starters. 
 
 ### Artikel  2  
 
 1.  Aan het bestuur van de Stichting voor de Technische Wetenschappen wordt mandaat en machtiging verleend voor het behandelen van bezwaarschriften gericht tegen besluiten als bedoeld in artikel 1, waaronder het nemen van beslissingen op bezwaarschriften en het instellen van (hoger) beroep.   
-2.  Aan het bestuur van de Stichting voor de Technische Wetenschappen wordt volmacht en machtiging verleend voor het instellen van beroep bij de burgerlijke rechter met betrekking tot de overeenkomsten tot geldlening als bedoeld in hoofdstuk 9a van de Subsidieregeling starten, groeien en overdragen van ondernemingen, voor zover het academische innovatieve starters betreft.  
+2.  Aan het bestuur van de Stichting voor de Technische Wetenschappen wordt volmacht en machtiging verleend voor het instellen van beroep bij de burgerlijke rechter met betrekking tot de overeenkomsten tot geldlening als bedoeld in titel 3.16 van de Regeling nationale EZ-subsidies, voor zover het academische innovatieve starters betreft.  
 
 ### Artikel  3  
 

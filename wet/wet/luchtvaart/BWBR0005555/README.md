@@ -2198,7 +2198,7 @@ Deze afdeling is van toepassing op luchthavens van regionale betekenis waarvoor 
 a. het luchthavenluchtverkeer, en  
 
 b. de ruimtelijke indeling van het gebied van en rond de luchthaven.     
-3.  Artikel 107 van de Provinciewet is niet van toepassing, tenzij op grond van artikel 106 van de Wet gemeenschappelijke regelingen een plusregio is ingesteld.  
+3.  Artikel 107 van de Provinciewet is niet van toepassing.  
 
 ### Artikel  8.44  
 

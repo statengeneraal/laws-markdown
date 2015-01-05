@@ -6,7 +6,7 @@ Wij Juliana, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw en Visserij van 28 juli 1977, No. J. 2139, Directie Juridische en Bedrijfsorganisatorische Zaken, na overleg met het Produktschap voor Vis en Visprodukten, het Visserijschap, het Bedrijfschap voor de Groothandel in Vis en Aanverwante Bedrijven en de Nederlandse Vereniging van Sportvissersfederaties;
 
-Gelet op de [artikelen 2, 3*a*, 4 en 9 van de Visserijwet 1963](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) (*Stb.* 312);
+Gelet op de artikelen 2, 3*a*, 4 en 9 van de Visserijwet 1963 (*Stb.* 312);
 
 De Raad van State gehoord (advies van 14 september 1977, No. 19);
 
@@ -17,14 +17,14 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: vissersvaartuig: vaartuig als bedoeld in artikel 3, onderdeel c, van Verordening (EG) nr. 2371/2002 van de Raad van de Europese Unie van 20 december 2002 inzake de instandhouding en de duurzame exploitatie van de visbestanden in het kader van het gemeenschappelijk visserijbeleid (PbEG L 358) dat:  
 
-a. overeenkomstig [artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967](../../../../../../../wet/uitvoeringswet/visserijverdrag/1967/BWBR0002897/README.md) als Nederlands geldt en  
+a. overeenkomstig artikel 1, tweede lid, van de Uitvoeringswet Visserijverdrag 1967 als Nederlands geldt en  
 
-b. overeenkomstig het bepaalde bij of krachtens het [Besluit registratie vissersvaartuigen 1998](../../../../../../../AMvB/besluit/registratie/vissersvaartuigen/1998/BWBR0009353/README.md) staat geregistreerd;   wet: [Visserijwet 1963](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md); ondernemer: degene te wiens naam het vissersvaartuig in het visserijregister, bedoeld in het [Besluit registratie vissersvaartuigen 1998](../../../../../../../AMvB/besluit/registratie/vissersvaartuigen/1998/BWBR0009353/README.md) is geregistreerd; motorvermogen: maximaal continue-vermogen zonder aftrek van door de motor aangedreven hulpmachines, uitgedrukt in kW, dat de hoofdmotor of hoofdmotoren zonder overbelasting kan respectievelijk, kunnen leveren, en dat mechanisch, elektrisch, hydraulisch of anderszins kan worden aangewend voor de voortstuwing van het vaartuig, zoals is vastgesteld door de Inspectie Verkeer en Waterstaat ingevolge het [Vissersvaartuigenbesluit](../../../../../../../KB/vissersvaartuigenbesluit/BWBR0004607/README.md) of het [Vissersvaartuigenbesluit 2002](../../../../../../../rijksKB/vissersvaartuigenbesluit/2002/BWBR0013342/README.md), of in voorkomend geval blijkt uit een verklaring inzake het maximaal continue-vermogen, opgesteld door de fabrikant of de leverancier; boomkor: vistuig dat bestaat uit één net dat is bevestigd aan en in horizontale richting wordt opengehouden door een constructie bestaande uit een boom die ten minste aan elk der uiteinden voorzien is van een slede of een slof, dan wel een soortgelijke constructie waarmee een net in horizontale richting wordt opengehouden; maaswijdte: wijdte van de maas gemeten overeenkomstig het bepaalde in verordening (EG) nr. 517/2008 van de Commissie van 10 juni 2008 houdende uitvoeringsbepalingen inzake de bepaling van de maaswijdte en de twijndikte van visnetten (PbEG L 151); tonnage: tonnage gemeten overeenkomstig het bepaalde bij en krachtens de [Meetbrievenwet 1981](../../../../../../../wet/meetbrievenwet/1981/BWBR0003378/README.md) (*Stb.* 122); investeringsverplichting: rechtens afdwingbare verplichting die is aangegaan voor de bouw van een vaartuig bestemd voor de bedrijfsmatige uitoefening van de visserij en die is vastgelegd in een schriftelijke overeenkomst.   
+b. overeenkomstig het bepaalde bij of krachtens het Besluit registratie vissersvaartuigen 1998 staat geregistreerd;   wet: Visserijwet 1963; ondernemer: degene te wiens naam het vissersvaartuig in het visserijregister, bedoeld in het Besluit registratie vissersvaartuigen 1998 is geregistreerd; motorvermogen: maximaal continue-vermogen zonder aftrek van door de motor aangedreven hulpmachines, uitgedrukt in kW, dat de hoofdmotor of hoofdmotoren zonder overbelasting kan respectievelijk, kunnen leveren, en dat mechanisch, elektrisch, hydraulisch of anderszins kan worden aangewend voor de voortstuwing van het vaartuig, zoals is vastgesteld door de Inspectie Verkeer en Waterstaat ingevolge het Vissersvaartuigenbesluit of het Vissersvaartuigenbesluit 2002, of in voorkomend geval blijkt uit een verklaring inzake het maximaal continue-vermogen, opgesteld door de fabrikant of de leverancier; boomkor: vistuig dat bestaat uit één net dat is bevestigd aan en in horizontale richting wordt opengehouden door een constructie bestaande uit een boom die ten minste aan elk der uiteinden voorzien is van een slede of een slof, dan wel een soortgelijke constructie waarmee een net in horizontale richting wordt opengehouden; maaswijdte: wijdte van de maas gemeten overeenkomstig het bepaalde in verordening (EG) nr. 517/2008 van de Commissie van 10 juni 2008 houdende uitvoeringsbepalingen inzake de bepaling van de maaswijdte en de twijndikte van visnetten (PbEG L 151); tonnage: tonnage gemeten overeenkomstig het bepaalde bij en krachtens de Meetbrievenwet 1981 (*Stb.* 122); investeringsverplichting: rechtens afdwingbare verplichting die is aangegaan voor de bouw van een vaartuig bestemd voor de bedrijfsmatige uitoefening van de visserij en die is vastgelegd in een schriftelijke overeenkomst.   
 2.   Voor de toepassing van het bepaalde in dit besluit heeft het aanlanden plaats op het tijdstip waarop het vissersvaartuig vaste verbinding met de wal heeft gekregen.  
 
 ### Artikel  2  
 
-Tenzij anders is bepaald is dit besluit van toepassing op de visserij in de wateren bedoeld in [artikel 1, vierde lid, onderdeel *b* en *c,* van de wet](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md). 
+Tenzij anders is bepaald is dit besluit van toepassing op de visserij in de wateren bedoeld in artikel 1, vierde lid, onderdeel *b* en *c,* van de wet. 
 
 ### Artikel  3  
 
@@ -35,9 +35,9 @@ a. ter uitvoering van op grond van internationale overeenkomsten of van besluite
 b. ter verzekering van de instandhouding dan wel uitbreiding van de visvoorraden.     
 2.  Bij het stellen van regelen als bedoeld in het eerste lid, onderdeel b,  
 
-a.  kan, voor zover de regelen betrekking hebben op de visserij in de wateren, bedoeld in [artikel 1, vierde lid, onderdeel b, van de wet](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md), mede rekening worden gehouden met de belangen van de natuurbescherming;  
+a.  kan, voor zover de regelen betrekking hebben op de visserij in de wateren, bedoeld in artikel 1, vierde lid, onderdeel b, van de wet, mede rekening worden gehouden met de belangen van de natuurbescherming;  
 
-b. wordt, voor zover de regelen betrekking hebben op de visserij in de wateren, bedoeld in [artikel 1, vierde lid, onderdeel c, van de wet](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md), mede rekening gehouden met de belangen van de natuurbescherming.     
+b. wordt, voor zover de regelen betrekking hebben op de visserij in de wateren, bedoeld in artikel 1, vierde lid, onderdeel c, van de wet, mede rekening gehouden met de belangen van de natuurbescherming.     
 3.   De in het eerste lid bedoelde regelen kunnen betrekking hebben op de visserij op alle dan wel bepaalde door Onze Minister aan te wijzen vissoorten.   
 4.   Onze Minister kan voorschriften geven ter naleving van de in het eerste lid bedoelde regelen.  
 
@@ -61,7 +61,7 @@ g. de maaswijdte van visnetten en de wijze van vaststelling daarvan;
 
 h. het motorvermogen, de lengte en het tonnage van vissersvaartuigen;  
 
-i.  het uitzaaien of uitzetten van schelpdieren van de krachtens [artikel 1, tweede lid, onderdeel b, van de wet](../../../../../../../wet/visserijwet/1963/BWBR0002416/README.md) aangewezen soorten.     
+i.  het uitzaaien of uitzetten van schelpdieren van de krachtens artikel 1, tweede lid, onderdeel b, van de wet aangewezen soorten.     
 2.   Indien de in artikel 3, eerste lid, aanhef en onder b, bedoelde regelen een verbod tot het verrichten van bepaalde handelingen inhouden, kan worden bepaald, dat het verbod niet geldt voor degene, die voorzien is van een vergunning van Onze Minister.   
 3.   Aan een vergunning, als bedoeld in het vorige lid, kunnen voorschriften worden verbonden. Zij kan onder beperkingen worden verleend. Zij kan worden ingetrokken.   
 4.   Tenzij het algemeen belang zich naar zijn oordeel daartegen verzet, stelt Onze Minister een regeling als bedoeld in artikel 3, eerste lid, aanhef en onder b, niet vast dan nadat hij met de daarbij in belangrijke mate betrokken produkt- en bedrijfschappen zomede de naar zijn oordeel daarvoor in aanmerking komende organisaties van sportvissers overleg heeft gepleegd.  
@@ -70,10 +70,6 @@ i.  het uitzaaien of uitzetten van schelpdieren van de krachtens [artikel 1, twe
 
 1.  Degenen die vis van een aanvoerder betrekken en zij, die hun bemiddeling verlenen bij het veilen van vis, zijn verplicht een administratie te voeren en aan Onze Minister periodiek opgave te doen van de hoeveelheden vis behorende tot door Onze Minister aan te wijzen vissoorten door hen van een aanvoerder betrokken onderscheidenlijk aan hen ter veiling aangeboden.   
 2.   Onze Minister stelt regelen ten aanzien van de eisen, waaraan de in het eerste lid bedoelde administratie dient te voldoen en ten aanzien van de wijze waarop de aldaar bedoelde opgave dient te geschieden.  
-
-### Artikel  6  
-
-Tot uitvoering van het bepaalde krachtens dit besluit kan Onze Minister de medewerking van het Productschap Vis vorderen. De te vorderen medewerking kan betrekking hebben op door het Productschap bij verordening nader te stellen regelen. 
 
 ### Artikel  6a  
 

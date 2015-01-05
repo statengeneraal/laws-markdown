@@ -844,7 +844,7 @@ de vergoeding die de leden van de rekenkamer voor hun werkzaamheden ontvangen en
 ### Artikel  79p  
 
 1.  Als geen rekenkamer is ingesteld als bedoeld in hoofdstuk IVa, stellen provinciale staten bij verordening regels vast voor de uitoefening van de rekenkamerfunctie.   
-2.  De artikelen 183, 185a en 186 zijn voor de uitoefening van de rekenkamerfunctie van overeenkomstige toepassing.   
+2.  De artikelen 183, 185, 185a en 186 zijn voor de uitoefening van de rekenkamerfunctie van overeenkomstige toepassing.   
 3.  Op personen die de rekenkamerfunctie uitoefenen is artikel 79f, behoudens het eerste lid, onder g, van overeenkomstige toepassing.  
 
 ###Hoofdstuk IVC 
@@ -1103,16 +1103,14 @@ Bij of krachtens de wet kan zo nodig onderscheid worden gemaakt tussen provincie
 
 ### Artikel  107  
 
-1.  Het provinciebestuur kan bevoegdheden van regeling en bestuur, gevorderd bij of krachtens een andere dan deze wet, voor het gebied van een of meer gemeenten, van plusregio’s als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen of waterschappen overdragen aan de besturen van die gemeenten, plusregio’s of waterschappen voor zover die bevoegdheden zich naar hun aard en schaal daartoe lenen en die besturen daarmee instemmen.   
+1.  Het provinciebestuur kan bevoegdheden van regeling en bestuur, gevorderd bij of krachtens een andere dan deze wet, voor het gebied van een of meer gemeenten of waterschappen overdragen aan de besturen van die gemeenten of waterschappen voor zover die bevoegdheden zich naar hun aard en schaal daartoe lenen en die besturen daarmee instemmen.   
 2.   Een besluit als bedoeld in het eerste lid regelt de gevolgen van intrekking van het besluit.    
-3.   Het ontwerp van een besluit als bedoeld in het eerste lid behoeft de instemming van provinciale staten en van de raden van de betrokken gemeenten onderscheidenlijk de algemene besturen van de betrokken plusregio’s en waterschappen.    
+3.   Het ontwerp van een besluit als bedoeld in het eerste lid behoeft de instemming van provinciale staten en van de raden van de betrokken gemeenten onderscheidenlijk de algemene besturen van de betrokken waterschappen.    
 4.   Een besluit als bedoeld in het eerste lid wordt binnen een week toegezonden aan Onze Minister wie het aangaat.    
 5.   Ten aanzien van de bekendmaking van een besluit als bedoeld in het eerste lid zijn de artikelen 136 tot en met 138 van overeenkomstige toepassing.    
 6.   De voorschriften met betrekking tot de bevoegdheid van het provinciebestuur, de uitoefening daarvan en het toezicht daarop, uitgezonderd die met betrekking tot vergaderingen, zijn ten aanzien van de ingevolge het eerste lid overgedragen bevoegdheden van overeenkomstige toepassing.    
 7.   Het provinciebestuur oefent geen toezicht uit en geeft geen voorschriften met betrekking tot de uitoefening van de ingevolge het eerste lid overgedragen bevoegdheden.    
-8.   Indien het verzoek van een gemeentebestuur of bestuur van een plusregio of waterschap tot het nemen van een besluit als bedoeld in het eerste lid wordt afgewezen, wordt die afwijzing door het provinciebestuur met redenen omkleed.    
-9. Het zevende lid is niet van toepassing bij de overdracht van bevoegdheden aan een plusregio. 
-10. Indien een provinciebestuur besluit een bevoegdheid over te dragen aan een plusregio, zendt het een afschrift van dat besluit aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties.
+8.   Indien het verzoek van een gemeentebestuur of bestuur van een waterschap tot het nemen van een besluit als bedoeld in het eerste lid wordt afgewezen, wordt die afwijzing door het provinciebestuur met redenen omkleed.   
 
 ### Artikel  108  
 
@@ -1599,11 +1597,11 @@ e. de bewaring en registratie van aan hem gerichte stukken, verband houdende met
 
 1.  De rekenkamer heeft de in de volgende leden vermelde bevoegdheden ten aanzien van de volgende instellingen en over de volgende periode: 
 
-a.openbare lichamen en gemeenschappelijke organen ingesteld krachtens de Wet gemeenschappelijke regelingen waaraan de provincie deelneemt, over de jaren dat de provincie deelneemt in de regeling;  
+a.openbare lichamen, bedrijfsvoeringsorganisaties en gemeenschappelijke organen ingesteld krachtens de Wet gemeenschappelijke regelingen waaraan de provincie deelneemt, over de jaren dat de provincie deelneemt in de regeling;  
 
-b.naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de provincie meer dan vijftig procent van het geplaatste aandelenkapitaal houdt, over de jaren dat de provincie meer dan vijftig procent van het geplaatste aandelenkapitaal houdt;  
+b.naamloze vennootschappen en besloten vennootschappen met beperkte aansprakelijkheid waarvan de provincie, alleen of samen met andere provincies, meer dan vijftig procent van het geplaatste aandelenkapitaal houdt, over de jaren dat de provincie, alleen of samen met andere provincies, meer dan vijftig procent van het geplaatste aandelenkapitaal houdt;  
 
-c.andere privaatrechtelijke rechtspersonen waaraan de provincie of een derde voor rekening en risico van de provincie rechtstreeks of middellijk een subsidie, lening of garantie heeft verstrekt ten bedrage van ten minste vijftig procent van de baten van deze instelling, over de jaren waarop deze subsidie, lening of garantie betrekking heeft.     
+c.andere privaatrechtelijke rechtspersonen waaraan de provincie, alleen of samen met andere provincies, of een of meer derden voor rekening en risico van de provincie of provincies rechtstreeks of middellijk een subsidie, lening of garantie heeft verstrekt ten bedrage van ten minste vijftig procent van de baten van deze instelling, over de jaren waarop deze subsidie, lening of garantie betrekking heeft.     
 2.  De rekenkamer is bevoegd bij de betrokken instelling nadere inlichtingen in te winnen over de jaarrekeningen, daarop betrekking hebbende rapporten van hen die deze jaarrekeningen hebben gecontroleerd en overige documenten met betrekking tot die instelling die bij het provinciebestuur berusten. Indien een of meer documenten ontbreken, kan de rekenkamer van de betrokken instelling de overlegging daarvan vorderen.   
 3.  Indien de documenten, bedoeld in het tweede lid, daartoe aanleiding geven, kan de rekenkamer bij de betrokken instelling dan wel bij de derde die de administratie in opdracht van de instelling voert, een onderzoek instellen. De rekenkamer stelt provinciale staten en gedeputeerde staten van haar voornemen een dergelijk onderzoek in te stellen in kennis.  
 
@@ -1864,7 +1862,7 @@ Een belastingverordening vermeldt, in de daartoe leidende gevallen, de belasting
 ### Artikel  222  
 
 1.  Er kunnen provinciale opcenten op de hoofdsom van de motorrijtuigenbelasting worden geheven van de in de provincie wonende of gevestigde houders van personenauto’s en motorrijwielen, bedoeld in artikel 2, onderdelen b en d, en artikel 3 van de Wet op de motorrijtuigenbelasting 1994 en van degenen op wier naam een kenteken als bedoeld in artikel 62 van die wet is gesteld.   
-2.  Het aantal opcenten bedraagt voor de belastingtijdvakken die na 31 december 2011 aanvangen ten hoogste 109,1.  
+2.  Het aantal opcenten bedraagt voor de belastingtijdvakken die na 31 december 2011 aanvangen ten hoogste 110,1.  
 3. Voor de berekening van het aan opcenten verschuldigde bedrag wordt uitgegaan van het tarief van de Wet op de motorrijtuigenbelasting 1994 zoals dat geldt op 1 april 1995, met dien verstande dat:
 
 a.dit tarief voor motorrijwielen wordt vermenigvuldigd met het tarief zoals dat luidt op 1 april 2007 gedeeld door het tarief zoals dat luidde op 31 maart 2007;
@@ -1957,24 +1955,24 @@ f.de Tweede Kamer der Staten-Generaal of de Tweede Kamer: de provinciale staten.
 1.  Het college van gedeputeerde staten kan bepalen dat voor de toezending of uitreiking van aanslagbiljetten ingevolge artikel 8, eerste lid, van de Invorderingswet 1990 voor de in artikel 227a, tweede lid, onderdeel c, bedoelde ambtenaar een andere provincieambtenaar in de plaats treedt.    
 2.  De colleges van gedeputeerde staten van twee of meer provincies kunnen met betrekking tot een of meer provinciale belastingen bepalen dat ambtenaren van een van die provincies worden aangewezen als:  
 
-a. de in artikel 227*a*, tweede lid, onderdeel *b*, bedoelde ambtenaar van die provincies voor de uitvoering van enige wettelijke bepaling betreffende de heffing van provinciale belastingen;   
+a. de in artikel 227a, tweede lid, onderdeel b, bedoelde ambtenaar van die provincies voor de uitvoering van enige wettelijke bepaling betreffende de heffing van provinciale belastingen;   
 
-b. de in artikel 227*a*, tweede lid, onderdeel *c*, bedoelde ambtenaar van die provincies voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen;   
+b. de in artikel 227a, tweede lid, onderdeel c, bedoelde ambtenaar van die provincies voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen;   
 
-c. de in artikel 227*a*, tweede lid, onderdeel *d*, bedoelde ambtenaren van die provincies voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van provinciale belastingen;   
+c. de in artikel 227a, tweede lid, onderdeel d, bedoelde ambtenaren van die provincies voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van provinciale belastingen;   
 
-d. de in artikel 227*a*, tweede lid, onderdeel *e*, bedoelde ambtenaar van die provincies, voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen.      
-3.  Het eerste lid is van overeenkomstige toepassing ten aanzien van het college van gedeputeerde staten van de provincie waarvan de ambtenaar belast met de invordering van provinciale belastingen op grond van het tweede lid, onderdeel *b*, wordt aangewezen.    
-4.  Indien voor de heffing of de invordering van provinciale belastingen een gemeenschappelijke regeling is getroffen en bij die regeling een openbaar lichaam is ingesteld, kan bij of krachtens die regeling worden bepaald dat een daartoe aangewezen ambtenaar van dat openbare lichaam wordt aangewezen als:  
+d. de in artikel 227a, tweede lid, onderdeel e, bedoelde ambtenaar van die provincies, voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen.      
+3.  Het eerste lid is van overeenkomstige toepassing ten aanzien van het college van gedeputeerde staten van de provincie waarvan de ambtenaar belast met de invordering van provinciale belastingen op grond van het tweede lid, onderdeel b, wordt aangewezen.    
+4.  Indien voor de heffing of de invordering van provinciale belastingen een gemeenschappelijke regeling is getroffen en bij die regeling een openbaar lichaam of een bedrijfsvoeringsorganisatie is ingesteld, kan bij of krachtens die regeling worden bepaald dat een daartoe aangewezen ambtenaar van dat openbare lichaam of die bedrijfsvoeringsorganisatie wordt aangewezen als:  
 
-a. de in artikel 227*a*, tweede lid, onderdeel *b*, bedoelde ambtenaar van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de heffing van provinciale belastingen;   
+a. de in artikel 227a, tweede lid, onderdeel b, bedoelde ambtenaar van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de heffing van provinciale belastingen;   
 
-b. de in artikel 227*a*, tweede lid, onderdeel* c*, bedoelde ambtenaar van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen;   
+b. de in artikel 227a, tweede lid, onderdeel c, bedoelde ambtenaar van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen;   
 
-c. de in artikel 227*a*, tweede lid, onderdeel *d*, bedoelde ambtenaren van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van provinciale belastingen;   
+c. de in artikel 227a, tweede lid, onderdeel d, bedoelde ambtenaren van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van provinciale belastingen;   
 
-d. de in artikel 227*a*, tweede lid, onderdeel *e*, bedoelde ambtenaar van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen.      
-5.  Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het openbaar lichaam waarvan een ambtenaar op grond van het vierde lid, onderdeel *b*, wordt aangewezen.   
+d. de in artikel 227a, tweede lid, onderdeel e, bedoelde ambtenaar van de provincie voor de uitvoering van enige wettelijke bepaling betreffende de invordering van provinciale belastingen.      
+5.  Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie waarvan een ambtenaar op grond van het vierde lid, onderdeel b, wordt aangewezen.   
 
 ### Artikel  227c  
 

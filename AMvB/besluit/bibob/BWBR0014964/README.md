@@ -205,7 +205,7 @@ J. P. H. Donner
 
 – Pensioen- en Uitkeringsraad  
 
-– Uitvoeringsorganen AWBZ (Cluster)  
+– Uitvoeringsorganen Wlz (Cluster)  
 
 – Zorg Onderzoek Nederland/ Medische Wetenschappen   
 

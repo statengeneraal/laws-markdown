@@ -3,7 +3,7 @@
 ##Besluit van de Minister van Economische Zaken, Landbouw en Innovatie van 27 april 2012, nr. WJZ/12010735, houdende regels inzake het verlenen van mandaat en machtiging aan de directeur van het Agentschap College ter Beoordeling van Geneesmiddelen (Besluit mandaat en machtiging directeur Agentschap College ter Beoordeling van Geneesmiddelen)
 
 De Minister van Economische Zaken, Landbouw en Innovatie,  
-Gelet op [afdeling 10.1.1 van de Algemene wet bestuursrecht](../../../../../../../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md);
+Gelet op afdeling 10.1.1 van de Algemene wet bestuursrecht;
 
 Gezien de schriftelijke instemming van de Minister van Volksgezondheid, Welzijn en Sport en de directeur van het Agentschap College ter Beoordeling van Geneesmiddelen;
 Besluit:    
@@ -14,8 +14,8 @@ In dit besluit wordt verstaan onder directeur: de directeur van het Agentschap C
 
 ### Artikel  2  
 
-1.  Aan de directeur wordt mandaat en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen op grond van de [Diergeneesmiddelenwet](../../../../../../../../../../../../wet/diergeneesmiddelenwet/BWBR0003818/README.md) die verband houden met registratie, schorsen of doorhalen van diergeneesmiddelen, de aanvraag voor goedkeuring van een partij, de vergunning voor het bereiden, verpakken, etiketteren of afleveren van diergeneesmiddelen of het certificeren van een verklaring hierover.   
-2.  Aan de directeur wordt tevens mandaat en machtiging verleend voor het geven van toestemming voor proefneming of onderzoek van toevoegingsmiddelen als bedoeld in het [Besluit Diervoeders](../../../../../../../../../../../../AMvB/besluit/diervoeders/BWBR0017065/README.md).  
+1.  Aan de directeur wordt mandaat en machtiging verleend voor het nemen van besluiten en het verrichten van overige handelingen op grond van de Wet dieren die verband houden met registratie, schorsen of doorhalen van diergeneesmiddelen, de aanvraag voor goedkeuring van een partij, de vergunning voor het bereiden, verpakken, etiketteren of afleveren van diergeneesmiddelen of het certificeren van een verklaring hierover.   
+2.  Aan de directeur wordt tevens mandaat en machtiging verleend voor het geven van toestemming voor proefneming of onderzoek van toevoegingsmiddelen als bedoeld in het Besluit diervoeders 2012.  
 
 ### Artikel  3  
 
@@ -25,23 +25,11 @@ In dit besluit wordt verstaan onder directeur: de directeur van het Agentschap C
 
 ### Artikel  4  
 
-Het krachtens mandaat of machtiging ondertekenen van stukken geschiedt als volgt:  
-
-|
-|
-| De Minister van Economische Zaken, Landbouw en Innovatie,  |
-| namens deze:  |
-| (handtekening)  |
-| --- |
-| --- |
-| --- |
-| --- |
-| (naam functionaris)  |
-| (functie)  |
+Het krachtens mandaat ondertekenen van stukken geschiedt als volgt: De Minister van Economische Zaken, namens deze: (handtekening) (naam functionaris) (functie) 
 
 ### Artikel  5  
 
-Het [Mandaatbesluit LNV Agentschap College ter Beoordeling van Geneesmiddelen, onderdeel Bureau Diergeneesmiddelen](../../../../../../../../../../../../ministeriele-regeling/mandaatbesluit/lnv/agentschap/college/ter/beoordeling/van/geneesmiddelen/etc/BWBR0020728/README.md) wordt ingetrokken. 
+Het Mandaatbesluit LNV Agentschap College ter Beoordeling van Geneesmiddelen, onderdeel Bureau Diergeneesmiddelen wordt ingetrokken. 
 
 ### Artikel  6  
 

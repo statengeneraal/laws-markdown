@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Volkshuisvesting, Ruimtelijke Ordening en Milieubeheer van 30 oktober 2000, nr. MJZ2000128348, Centrale Directie Juridische Zaken, Afdeling Wetgeving;
 
-Gelet op [artikel 88, negende lid, van de Wet bodembescherming](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);
+Gelet op artikel 88, negende lid, van de Wet bodembescherming;
 
 De Raad van State gehoord (advies van 16 november 2000, nr. W08.00/0509/V);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-[Artikel 88, eerste lid, van de Wet bodembescherming](../../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md) wordt van overeenkomstige toepassing verklaard op de navolgende gemeenten: 
+Artikel 88, eerste lid, van de Wet bodembescherming wordt van overeenkomstige toepassing verklaard op de navolgende gemeenten: 
 
 a. Alkmaar,  
 

@@ -6,7 +6,7 @@ Wij Juliana, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Ministers van Landbouw en Visserij en van Justitie van 8 februari 1979 (Directie Juridische en Bedrijfsorganisatorische Zaken, no. J 435, en van Justitie van 8 maart 1979, Stafafdeling Wetgeving Publiekrecht, no. 127/679);
 
-Gelet op [artikel 13, derde lid, van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) (*Stb.* 1971, 371);
+Gelet op artikel 13, derde lid, van de Landbouwkwaliteitswet (*Stb.* 1971, 371);
 
 De Raad van State gehoord (advies van 21 maart 1979, no. 14);
 
@@ -18,11 +18,11 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: "bestuur"; het orgaan van de controle-instelling, overeenkomstig de statuten of reglementen belast met de leiding, dan wel de dagelijkse leiding van de controle-instelling; "tuchtgerecht": orgaan van de controle-instelling, overeenkomstig de statuten of reglementen belast met de uitoefening van de tuchtrechtspraak over de betrokkenen; "centraal tuchtgerecht": het orgaan van de controle-instelling, overeenkomstig de statuten of reglementen belast met de behandeling van het beroep tegen een tuchtbeschikking, gegeven door een tuchtgerecht; "tuchtreglement": het door de controle-instelling vastgestelde reglement, regelende het aantal, de samenstelling en bevoegdheden van de met de uitoefening van tuchtrechtspraak belaste organen, alsmede de rechtsgang van het tuchtrechtelijk geding; "voorzitter": de voorzitter van een tuchtgerecht, onderscheidenlijk centraal tuchtgerecht, dan wel degene die als zodanig optreedt; "betrokkene": degene als bedoeld in [artikel 13, eerste lid, van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md).
+In dit besluit wordt verstaan onder: "bestuur"; het orgaan van de controle-instelling, overeenkomstig de statuten of reglementen belast met de leiding, dan wel de dagelijkse leiding van de controle-instelling; "tuchtgerecht": orgaan van de controle-instelling, overeenkomstig de statuten of reglementen belast met de uitoefening van de tuchtrechtspraak over de betrokkenen; "centraal tuchtgerecht": het orgaan van de controle-instelling, overeenkomstig de statuten of reglementen belast met de behandeling van het beroep tegen een tuchtbeschikking, gegeven door een tuchtgerecht; "tuchtreglement": het door de controle-instelling vastgestelde reglement, regelende het aantal, de samenstelling en bevoegdheden van de met de uitoefening van tuchtrechtspraak belaste organen, alsmede de rechtsgang van het tuchtrechtelijk geding; "voorzitter": de voorzitter van een tuchtgerecht, onderscheidenlijk centraal tuchtgerecht, dan wel degene die als zodanig optreedt; "betrokkene": degene als bedoeld in artikel 13, eerste lid, van de Landbouwkwaliteitswet.
 
 ### Artikel  1a  
 
-Dit besluit berust op [artikel 13, tweede lid, van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md).
+Dit besluit berust op artikel 13, tweede lid, van de Landbouwkwaliteitswet.
 
 ### Artikel  2  
 
@@ -44,13 +44,13 @@ De controle-instelling is gehouden bij de vaststelling van haar tuchtreglement h
 
 ### Artikel  5  
 
-1.  De voorzitter, de vice-voorzitters, de secretaris en de adjunct-secretarissen van een tuchtgerecht, onderscheidenlijk centraal tuchtgerecht moeten voldoen aan de eisen voor benoeming, genoemd in [artikel 5 van de Wet rechtspositie rechterlijke ambtenaren](../../../../wet/wet/rechtspositie/rechterlijke/ambtenaren/BWBR0008365/README.md).   
+1.  De voorzitter, de vice-voorzitters, de secretaris en de adjunct-secretarissen van een tuchtgerecht, onderscheidenlijk centraal tuchtgerecht moeten voldoen aan de eisen voor benoeming, genoemd in artikel 5 van de Wet rechtspositie rechterlijke ambtenaren.   
 2.   Ingeval van toepassing van artikel 3, tweede lid, is het bepaalde in het voorgaande lid slechts in zoverre van toepassing op de tuchtgerechten, dat ter zitting hetzij de voorzitter, hetzij de fungerend secretaris aan de in dat lid genoemde vereisten moeten voldoen.  
 
 ### Artikel  6  
 
 1.  De controle-instelling regelt de bevoegdheid van het tuchtgerecht te oordelen over de overtredingen, door betrokkenen begaan, van het bij en krachtens een landbouwkwaliteitsbesluit bepaalde, alsmede de bevoegdheid ter zake daarvan maatregelen op te leggen. Indien artikel 3, tweede lid, toepassing vindt, bepaalt het tuchtreglement dat een belanghebbende tegen een beschikking administratief beroep kan instellen bij het centraal tuchtgerecht.   
-2.   Het tuchtreglement houdt een voorziening in voor het in [artikel 18, tweede lid, van de Landbouwkwaliteitswet](../../../../wet/landbouwkwaliteitswet/BWBR0002755/README.md) (*Stb.* 1971, 371) bedoelde overleg.  
+2.   Het tuchtreglement houdt een voorziening in voor het in artikel 18, tweede lid, van de Landbouwkwaliteitswet (*Stb.* 1971, 371) bedoelde overleg.  
 
 ### Artikel  7  
 
@@ -96,9 +96,33 @@ a. indien getuigen en deskundigen ter zitting zijn opgeroepen, de namen, het ber
 b. de mededeling, dat de betrokkene bevoegd is getuigen en deskundigen ter zitting mede te brengen.     
 4.   Degene, die de zaak aanhangig heeft gemaakt, wordt eveneens ter zitting opgeroepen.  
 
+### Artikel  14a  
+
+1.  De betrokkene kan, tenzij het tuchtgerecht beveelt dat hij in persoon zal verschijnen, zich op de terechtzitting doen vertegenwoordigen door een advocaat, indien deze aldaar verklaart daartoe bepaaldelijk gevolmachtigd te zijn, of door een daartoe bij bijzondere volmacht schriftelijk gemachtigde.   
+2.  Het tuchtgerecht kan weigeren bepaalde personen, die geen advocaat zijn, als gemachtigde toe te laten. Bij zodanige weigering houdt het tuchtgerecht de zaak tot de volgende zitting aan.   
+3.  Het tuchtgerecht stelt de betrokkene van de aanhouding en de reden daarvan in kennis en roept hem tevens op om op de voor de zaak bepaalde nadere zitting in persoon of bij een andere gemachtigde tegenwoordig te zijn.   
+4.  De betrokkene kan zich te allen tijde door een raadsman doen bijstaan.   
+5.  Het tuchtgerecht kan weigeren bepaalde personen, die geen advocaat zijn, als raadsman toe te laten. Bij zodanige weigering houdt het tuchtgerecht op verzoek van de betrokkene de zaak tot een volgende zitting aan.  
+
 ### Artikel  15  
 
-Tegen de betrokkene, die ter zitting niet is verschenen of, ingeval zijn persoonlijke verschijning niet is bevolen, zich niet heeft laten vertegenwoordigen, wordt verstek verleend. De behandeling wordt daarna voortgezet. 
+1. Tegen de betrokkene, die ter zitting niet is verschenen of, ingeval zijn persoonlijke verschijning niet is bevolen, zich niet heeft laten vertegenwoordigen, wordt verstek verleend. De behandeling wordt daarna voortgezet.  
+2.  Tegen de bij verstek gegeven uitspraak kan de betrokkene binnen zes weken na verzending van de uitspraak verzet doen. In dat geval wordt de zaak overeenkomstig de artikelen 14, 14a en 15a tot en met 18a behandeld. Indien de betrokkene opnieuw niet ter zitting verschijnt, wordt niet opnieuw verstek verleend. 
+
+### Artikel  15a  
+
+Op verzoek van de betrokkene kan de voorzitter of elk van de leden die een zaak behandelen, worden gewraakt op grond van feiten en omstandigheden waardoor de onpartijdigheid van het tuchtgerecht schade zou kunnen lijden. De artikelen 513 tot en met 515 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing. 
+
+### Artikel  15b  
+
+Op grond van feiten en omstandigheden als bedoeld in artikel 15a kan de voorzitter of een lid die een zaak behandelt, verzoeken zich te mogen verschonen. De artikelen 517, tweede en derde lid, tot en met 518 van het Wetboek van Strafvordering zijn van overeenkomstige toepassing. 
+
+### Artikel  15c  
+
+1.  Het tuchtgerecht kan ambtshalve of op verzoek van de betrokkene of de controle-instelling getuigen oproepen.   
+2.  Ieder, die als getuige is opgeroepen, is verplicht voor het tuchtgerecht te verschijnen. Indien de getuige niet op de oproeping verschijnt, kan het tuchtgerecht de officier van justitie in het arrondissement waarin het tuchtgerecht zitting houdt, verzoeken de getuige ter terechtzitting van het tuchtgerecht te dagvaarden en daarbij te voegen een bevel tot medebrenging.   
+3.  Met betrekking tot het horen van de getuigen en hun recht van verschoning zijn de artikelen 217 tot en met 220 van het Wetboek van Strafvordering van overeenkomstige toepassing.   
+4.  De voorzitter van het tuchtgerecht kan bepalen dat getuigen niet zullen worden gehoord dan na het afleggen van de eed of de belofte. Zij leggen in dat geval de eed of de belofte af dat zij zullen zeggen de gehele waarheid en niets dan de waarheid.  
 
 ### Artikel  16  
 
@@ -118,19 +142,39 @@ c. over een voor hen aanhangige zaak of een zaak, die naar zij weten, zouden kun
 2.   De in het eerste lid omschreven verbodsbepalingen gelden mede voor de secretaris en de adjunct-secretaris, voor zover de aard van hun werkzaamheden niet anders vordert.   
 3.   De geheimhoudingsplicht geldt ook na beëindiging van de functie.  
 
+### Artikel  17a  
+
+1.  Het tuchtgerecht sluit het onderzoek ter zitting, wanneer het van oordeel is dat het is voltooid.   
+2.  Voordat het onderzoek ter zitting wordt gesloten, hebben de betrokkene en de controle-instelling het recht voor het laatst het woord te voeren.   
+3.  Zodra het onderzoek ter zitting is gesloten, deelt de voorzitter mee wanneer uitspraak zal worden gedaan  
+
 ### Artikel  18  
 
 1.  De tuchtzitting is openbaar, tenzij naar het oordeel van de voorzitter dringende redenen zich daartegen verzetten.   
 2.   Het tuchtgerecht beraadslaagt en beslist in raadkamer, zo mogelijk in aansluiting aan de behandeling ter zitting. Terstond na raadkamer wordt ter zitting uitspraak gedaan. Wanneer dat niet mogelijk is, kan de voorzitter een nadere datum voor de uitspraak bepalen, welke binnen drie weken, nadat de behandeling ter zitting is afgesloten, moet plaatshebben.   
 3.   Het tuchtgerecht grondt zijn uitspraak uitsluitend op hetgeen ter zitting is gebleken.  
 
+### Artikel  18a  
+
+1.  Het tuchtgerecht doet schriftelijk uitspraak.   
+2.  De uitspraak houdt in de beslissing omtrent het opleggen van de tuchtrechtelijke maatregel, de gronden en de voorschriften waarop zij berust.   
+3.  Het tuchtgerecht spreekt de beslissing, bedoeld in het tweede lid, in het openbaar uit.   
+4.  In afwijking van het eerste lid kan het tuchtgerecht na sluiting van het onderzoek ter zitting onmiddellijk mondeling uitspraak doen.   
+5.  Van de mondelinge uitspraak wordt door de secretaris een proces-verbaal opgemaakt.   
+6.  De uitspraak wordt onverwijld aan de betrokkene en aan de controle-instelling gezonden.  
+
+### Artikel  18b  
+
+1.  Indien naar het oordeel van de voorzitter van het tuchtgerecht geen tuchtmaatregel of geen andere tuchtmaatregel dan een berisping of een geldboete van ten hoogste € 225 dient te worden opgelegd, kan de voorzitter de zaak zonder zitting afdoen. Artikel 18a is van overeenkomstige toepassing.   
+2.  Tegen de uitspraak, bedoeld in het eerste lid, kan de betrokkene of de controle-instelling binnen zes weken na verzending van de uitspraak verzet doen. In dat geval vervalt de uitspraak en wordt de zaak verder overeenkomstig de artikelen 14, 14a en 15a tot en met 18a behandeld.  
+
 ### Artikel  19  
 
-Indien artikel 3, tweede lid, niet van toepassing is, wordt bij de bekendmaking van de tuchtbeschikking, als bedoeld in artikel 18, tevens vermeld dat daartegen voorziening als bedoeld in [Titel IV van de Wet tuchtrechtspraak bedrijfsorganisatie](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/BWBR0002145/README.md) openstaat. 
+Indien artikel 3, tweede lid, niet van toepassing is, wordt bij de bekendmaking van de tuchtbeschikking, als bedoeld in artikel 18, tevens vermeld dat daartegen hoger beroep als bedoeld in artikel 13f van de Landbouwkwaliteitswet openstaat. 
 
 ### Artikel  20  
 
-Ingeval van toepassing van artikel 3, tweede lid, kunnen degene, die de zaak aanhangig heeft gemaakt, en de aangeslotene overeenkomen de zaak rechtstreeks aanhangig te maken bij het centraal tuchtgerecht. Alsdan is het bepaalde in deze paragraaf op de behandeling voor het centraal tuchtgerecht van overeenkomstige toepassing. 
+Ingeval van toepassing van artikel 3, tweede lid, kunnen degene, die de zaak aanhangig heeft gemaakt, en de betrokkene overeenkomen de zaak rechtstreeks aanhangig te maken bij het centraal tuchtgerecht. Alsdan is het bepaalde in deze paragraaf op de behandeling voor het centraal tuchtgerecht van overeenkomstige toepassing. 
 
 ### §  4  
 
@@ -143,7 +187,7 @@ Ingeval van toepassing van artikel 3, tweede lid, kunnen degene, die de zaak aan
 
 ### Artikel  22  
 
-Bij de bekendmaking van de tuchtbeschikking wordt tevens vermeld dat daartegen voorziening als bedoeld in [Hoofdstuk V van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) openstaat. 
+Bij de bekendmaking van de tuchtbeschikking wordt tevens vermeld dat daartegen hoger beroep als bedoeld in artikel 13f van de Landbouwkwaliteitswet openstaat. 
 
 ### §  5  
 

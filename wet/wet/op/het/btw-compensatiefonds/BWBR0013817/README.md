@@ -19,7 +19,7 @@ b. BTW-richtlijn 2006: Richtlijn 2006/112/EG van de Raad van 28 november 2006 b
 
 c. publiekrechtelijk lichaam: een provincie, dan wel een gemeente;  
 
-d. regionaal openbaar lichaam: een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, ’s-Gravenhage, Rotterdam of Utrecht omvat;  
+d. regionaal openbaar lichaam: een openbaar lichaam als bedoeld in artikel 20, derde lid, van de Wet personenvervoer 2000;  
 
 e. omzetbelasting: de belasting die wordt geheven in de lidstaten van de Europese Unie krachtens de nationale wetgeving die is gebaseerd op de BTW-richtlijn 2006, alsmede de belasting die het karakter van een omzetbelasting heeft en krachtens de nationale wetgeving wordt geheven in de EVA-staten genoemd in artikel 2, onderdeel b, van de Overeenkomst betreffende de Europese Economische Ruimte;  
 

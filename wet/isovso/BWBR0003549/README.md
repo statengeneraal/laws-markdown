@@ -169,8 +169,8 @@ e.niet krachtens rechterlijke uitspraak is uitgesloten van het verrichten van de
 ####Meldcode huiselijk geweld en kindermishandeling
 
 1.  Het bevoegd gezag stelt voor het personeel een meldcode vast waarin stapsgewijs wordt aangegeven hoe met signalen van huiselijk geweld of kindermishandeling wordt omgegaan en die er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
-2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1, eerste lid, van de Wet maatschappelijke ondersteuning.   
-3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1 van de Wet op de jeugdzorg.   
+2.  Onder huiselijk geweld wordt verstaan: huiselijk geweld als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015.   
+3.  Onder kindermishandeling wordt verstaan: kindermishandeling als bedoeld in artikel 1.1 van de Jeugdwet.   
 4.  Het bevoegd gezag bevordert de kennis en het gebruik van de meldcode.   
 5.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.  
 
@@ -230,7 +230,7 @@ c. het verrichten van algemene ondersteuningsactiviteiten ten behoeve van de bev
 
 1.  Het onderwijs wordt afgestemd op de ontwikkelingsmogelijkheden van de leerling. Zo nodig treedt het bevoegd gezag daarbij in overleg met:
 
-a. een stichting als bedoeld in artikel 1 van de Wet op de jeugdzorg,  
+a. het college van burgemeester en wethouders van de gemeente waar de leerling zijn woonplaats heeft als bedoeld in artikel 1.1. van de Jeugdwet,  
 
 b. een instantie die jeugdgezondheidszorg uitvoert als bedoeld in artikel 5 van de Wet publieke gezondheid,  
 
@@ -1898,13 +1898,7 @@ a. voor blijvend onderscheidenlijk voor tijdelijk gebruik bestemde voorzieningen
 
 3°. medegebruik van een ruimte die geschikt is voor het onderwijs, dan wel een bad voor watergewenning of bewegingstherapie;     
 
-b. voorzieningen, bestaande uit:  
-
-1°. aanpassingen met uitzondering van het aanbrengen van een invalidentoilet en het toegankelijk maken van het gebouw voor gehandicapten, en   
-
-2°. vervanging binnenkozijnen en binnendeuren inclusief hang- en sluitwerk, algehele vervanging radiatoren, convectoren en leidingen voor de centrale verwarming alsmede onderhoud aan de buitenzijde van het gebouw met uitzondering van het buitenschilderwerk;     
-
-c. herstel van constructiefouten aan het gebouw, alsmede herstel en vervanging in verband met schade aan gebouw, onderwijsleerpakketten en meubilair in geval van bijzondere omstandigheden.      
+b. herstel van constructiefouten aan het gebouw, alsmede herstel en vervanging in verband met schade aan gebouw, onderwijsleerpakketten en meubilair in geval van bijzondere omstandigheden.      
 2.  Bij algemene maatregel van bestuur worden bruto vloeroppervlakten per gelijktijdig aanwezige leerling voorgeschreven die voorzieningen in de huisvesting ten minste dienen te bevatten. Deze oppervlakten kunnen per schoolsoort verschillend worden vastgesteld.   
 
 ### Artikel  91  
@@ -2149,7 +2143,7 @@ b. de ruimten voor watergewenning of bewegingstherapie.
 
 1.  De programma's van eisen, bedoeld in artikel 111, derde lid onder a, worden onderverdeeld in programma's van eisen omtrent:  
 
-a. onderhoud,   
+a. onderhoud van en aanpassingen aan het gebouw en het terrein,  
 
 b. energie- en waterverbruik,   
 
@@ -2220,8 +2214,6 @@ b. de bekostiging voor de vaste kosten van de materiële instandhouding van een 
 ### Artikel  116a  
 
 ####Vermindering bekostiging materiële instandhouding bij uitputting bekostiging materiële instandhouding samenwerkingsverband
-
-Treedt in werking per 01-01-2015 
 
 1.  Indien het totaal van de bedragen, bedoeld in artikel 118, tiende lid, eerste volzin, en elfde lid, van de Wet op het primair onderwijs de bekostiging voor materiële instandhouding van het samenwerkingsverband, bedoeld in artikel 118, achtste lid, van de Wet op het primair onderwijs overschrijdt, wordt het bedrag waarmee die bekostiging wordt overschreden door Onze minister in mindering gebracht op de materiële bekostiging van alle scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4 voor zover het betreft het daaraan verzorgde speciaal onderwijs, en scholen als bedoeld in de Wet op het primair onderwijs, waarvan één of meer vestigingen zijn gelegen in het gebied van het samenwerkingsverband. Het bedrag dat in mindering wordt gebracht, wordt per school voor speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4 dan wel school als bedoeld in de Wet op het primair onderwijs, bepaald op basis van het leerlingenaantal van de desbetreffende vestiging of vestigingen.   
 2.  Indien het totaal van de bedragen, bedoeld in artikel 89a, derde lid, eerste volzin, en vierde lid, van de Wet op het voortgezet onderwijs de bekostiging voor de materiële instandhouding van het samenwerkingsverband, bedoeld in artikel 89a, eerste lid, van de Wet op het voortgezet onderwijs overschrijdt, wordt het bedrag waarmee die bekostiging wordt overschreden door Onze minister in mindering gebracht op de materiële bekostiging van alle scholen voor voortgezet speciaal onderwijs en speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4 voor zover het betreft het daaraan verzorgde voortgezet speciaal onderwijs, en scholen als bedoeld in de Wet op het voortgezet onderwijs, waarvan één of meer vestigingen zijn gelegen in het gebied van het samenwerkingsverband. Het bedrag dat in mindering wordt gebracht, wordt per school voor voortgezet speciaal onderwijs of speciaal en voortgezet speciaal onderwijs behorend tot cluster 3 en 4 dan wel school als bedoeld in de Wet op het voortgezet onderwijs, bepaald op basis van het leerlingenaantal van de desbetreffende vestiging of vestigingen in het samenwerkingsverband.  
@@ -2326,25 +2318,19 @@ De gemeente bekostigt aan het bevoegd gezag van een niet door de gemeente in sta
 3.  Grondslag voor de bekostiging van de in het eerste en tweede lid bedoelde kosten zijn de voor het desbetreffende jaar vastgestelde bedragen.    
 4.  Grondslag voor de bekostiging ten behoeve van de uitgaven voor de voorzieningen, bedoeld in artikel 111, zijn:  
 
-a. de schoolgrootte die normatief wordt bepaald op basis van het op grond van de algemene maatregel van bestuur, bedoeld in artikel 70, normatief bepaalde aantal te huisvesten groepen leerlingen naar de maatstaf van het aantal leerlingen op 1 oktober van het jaar voorafgaande aan het jaar waarover de bekostiging plaatsvindt dat door een commissie voor de indicatiestelling toelaatbaar is verklaard tot een van de onderwijssoorten als bedoeld in artikel 2, tweede lid, die door de school wordt verzorgd,  
+a. de schoolgrootte die normatief wordt bepaald op basis van het op grond van de algemene maatregel van bestuur, bedoeld in artikel 70, normatief bepaalde aantal te huisvesten groepen leerlingen naar de maatstaf van het aantal leerlingen op 1 oktober van het jaar voorafgaande aan het jaar waarover de bekostiging plaatsvindt dat door een samenwerkingsverband toelaatbaar is verklaard tot het speciaal dan wel voortgezet speciaal onderwijs,  
 
-b. het aantal leerlingen op 1 oktober van het jaar voorafgaande aan het jaar waarover de bekostiging plaatsvindt dat door een commissie voor de indicatiestelling toelaatbaar is verklaard tot een van de onderwijssoorten als bedoeld in artikel 2, tweede lid, die door de school wordt verzorgd, en  
+b. het aantal leerlingen op 1 oktober van het jaar voorafgaande aan het jaar waarover de bekostiging plaatsvindt dat door een samenwerkingsverband toelaatbaar is verklaard tot het speciaal dan wel voortgezet speciaal onderwijs, en  
 
-c. de omvang van de bekostiging, bedoeld in artikel 117, zesde, zevende, achtste, negende en tiende lid.     
+c. de omvang van de bekostiging, bedoeld in artikel 117, achtste en tiende lid.     
 5.  Voor nieuwe scholen zijn gedurende de periode van 1 augustus tot 1 januari volgend op de opening, grondslag voor de bekostiging ten behoeve van de uitgaven voor de voorzieningen, bedoeld in artikel 111:  
 
-a. de schoolgrootte die normatief wordt bepaald op basis van het op grond van de algemene maatregel van bestuur, bedoeld in artikel 70, normatief bepaalde aantal te huisvesten groepen leerlingen naar de maatstaf van het aantal leerlingen op 1 oktober in die periode dat door een commissie voor de indicatiestelling toelaatbaar is verklaard tot een van de onderwijssoorten als bedoeld in artikel 2, tweede lid, die door de school wordt verzorgd,  
+a. de schoolgrootte die normatief wordt bepaald op basis van het op grond van de algemene maatregel van bestuur, bedoeld in artikel 70, normatief bepaalde aantal te huisvesten groepen leerlingen naar de maatstaf van het aantal leerlingen op 1 oktober in die periode dat door een samenwerkingsverband toelaatbaar is verklaard tot het speciaal dan wel voortgezet speciaal onderwijs,  
 
-b. het aantal leerlingen op 1 oktober in die periode dat door een commissie voor de indicatiestelling toelaatbaar is verklaard tot een van de onderwijssoorten als bedoeld in artikel 2, tweede lid, die door de school wordt verzorgd, en  
+b. het aantal leerlingen op 1 oktober in die periode dat door een samenwerkingsverband toelaatbaar is verklaard tot het speciaal dan wel voortgezet speciaal onderwijs, en  
 
-c. de omvang van de bekostiging, bedoeld in artikel 117, zesde, zevende, negende en tiende lid.     
-6.  Indien op 16 januari van het jaar waarover de bekostiging plaatsvindt, aanspraak bestond op verhoging van de bekostiging bij aanzienlijke tussentijdse toename van het aantal leerlingen per die datum, zijn grondslag voor de bekostiging ten behoeve van de uitgaven voor de voorzieningen, bedoeld in artikel 111: 
-
-a. de schoolgrootte die normatief wordt bepaald op basis van het op grond van de algemene maatregel van bestuur, bedoeld in artikel 70, normatief bepaalde aantal te huisvesten groepen leerlingen naar de maatstaf van het aantal leerlingen op 16 januari van het jaar waarover de bekostiging plaatsvindt dat door een commissie voor de indicatiestelling toelaatbaar is verklaard tot een van de onderwijssoorten als bedoeld in artikel 2, tweede lid, die door de school wordt verzorgd,  
-
-b. het aantal leerlingen op 16 januari van het jaar waarover de bekostiging plaatsvindt dat door een commissie voor de indicatiestelling toelaatbaar is verklaard tot een van de onderwijssoorten als bedoeld in artikel 2, tweede lid, die door de school wordt verzorgd, en  
-
-c. de omvang van de bekostiging, bedoeld in artikel 117, zesde, zevende, negende en tiende lid.     
+c. de omvang van de bekostiging, bedoeld in artikel 117, tiende lid.     
+6.  Naast de bekostiging, bedoeld in het eerste lid, ontvangt de school, niet zijnde een instelling, per leerling een bedrag dat afhankelijk is van de in de toelaatbaarheidsverklaring, bedoeld in artikel 40, tiende of twaalfde lid, opgenomen ondersteuningsbehoefte van de leerling en overeenkomt met één van de normbedragen die bij ministeriële regeling zijn vastgesteld.   
 7.  Ingeval een samenvoeging plaatsvindt tussen 1 januari en 1 oktober daaropvolgend, wordt de bekostiging ten behoeve van de uitgaven voor de voorzieningen, bedoeld in artikel 111, van alle bij de samenvoeging betrokken scholen gehandhaafd tot het einde van het jaar waarin de samenvoeging plaatsvond.    
 8.  Ingeval een samenvoeging plaatsvindt tussen 1 oktober en 1 januari daaropvolgend, wordt de bekostiging ten behoeve van de uitgaven voor de voorzieningen, bedoeld in artikel 111, van alle bij de samenvoeging betrokken scholen gehandhaafd tot het einde van het jaar waarin de samenvoeging plaatsvond, en wordt de bekostiging van de uitgaven voor die voorzieningen voor het jaar volgend op de samenvoeging, gebaseerd op de bekostiging van de uitgaven voor die voorzieningen van alle bij de samenvoeging betrokken scholen, zoals die golden op 1 oktober van het jaar van samenvoeging.    
 9.  Het Rijk vergoedt jaarlijks aan het bevoegd gezag van de instellingen het totaalbedrag, bedoeld in artikel 114, voor dat jaar. Voor zover de gemeente eigenaar is van de voorziening, verstrekt het bevoegd gezag van de instelling aan de gemeente de bedragen bedoeld in artikel 114, derde lid, of zevende juncto derde lid, voor dat jaar.   
@@ -3153,22 +3139,13 @@ c. een bijdrage ten behoeve van de uitoefening van landelijke taken in het kader
 1.  Artikel 172 is van overeenkomstige toepassing ten aanzien van de rechtspersoon, bedoeld in artikel 170.    
 2.  Onze Minister zendt binnen vijf jaar na de aanwijzing van de rechtspersoon, bedoeld in artikel 170, en vervolgens telkens na vijf jaar, aan de Tweede Kamer der Staten-Generaal een verslag over de doeltreffendheid en de effecten van de werkzaamheden van die rechtspersoon.   
 
-### Titel  VIa  
+###Titel  VII  
 
-#### *Overgangs- en invoeringsbepalingen* 
+#### Overgangsbepalingen 
 
-### Artikel  173a  
+###Artikel 173a 
 
-####Wet van 11 oktober 2012 (Stb. 545)
-
-1.  Per school waar voortgezet speciaal onderwijs wordt verzorgd informeert het bevoegd gezag uiterlijk op 1 januari voorafgaande aan het tijdstip van inwerkingtreding van artikel I, onderdeel E van de wet van 11 oktober 2012 (Stb. 545), de ouders schriftelijk welk uitstroomprofiel als bedoeld in artikel 14 zoals luidend door artikel I, onderdeel E, van die wet en indien aan de orde, welk onderwijs als bedoeld in artikel 14a, eerste lid, zoals luidend door artikel I, onderdeel F, van die wet en welke schoolsoort als bedoeld in de Wet op het voortgezet onderwijs met ingang van genoemd tijdstip wordt verzorgd.   
-2.  Voor de leerlingen die voortgezet speciaal onderwijs volgen vóór het tijdstip van inwerkingtreding voor het voortgezet speciaal onderwijs van artikel I, onderdeel R, van de wet van 11 oktober 2012 (Stb. 545) stelt het bevoegd gezag vóór dat tijdstip een ontwikkelingsperspectief vast overeenkomstig artikel 41a, eerste lid, zoals luidend door artikel I, onderdeel R, van die wet. De eerste volzin is niet van toepassing op leerlingen die naar verwachting vóór 1 oktober volgend op het tijdstip, bedoeld in de eerste volzin, de school verlaten.   
-3.  Voor de leerlingen die speciaal onderwijs volgen vóór het tijdstip van inwerkingtreding voor het speciaal onderwijs van artikel I, onderdeel R, van de wet van 11 oktober 2012 (Stb. 545) stelt het bevoegd gezag vóór dat tijdstip een ontwikkelingsperspectief vast overeenkomstig artikel 41a, eerste lid, zoals luidend door artikel I, onderdeel R, van die wet.   
-4.  Artikel 44, zoals luidend door artikel I, onderdeel T, van de wet van 11 oktober 2012 (Stb. 545) is niet van toepassing ten aanzien van leerlingen die vóór het tijdstip van inwerkingtreding van dat artikelonderdeel de school hebben verlaten.   
-5.  Leerlingen die speciaal onderwijs volgen die vóór het tijdstip van inwerkingtreding van artikel I, onderdeel N, eerste lid, van de wet van 11 oktober 2012 (Stb. 545) de leeftijd van veertien jaar hebben bereikt, verlaten vóór dat tijdstip van inwerkingtreding het speciaal onderwijs.   
-6.  Artikel 39, vijfde lid, de laatste twee volzinnen, zoals luidend door artikel I, onderdeel N, tweede lid, van de wet van 11 oktober 2012 (Stb. 545) zijn niet van toepassing ten aanzien van verzoeken om ontheffing die voor inwerkingtreding van dat artikelonderdeel zijn gedaan.   
-7.  Tot aan het tijdstip van inwerkingtreding van de wijziging van artikel I, onderdeel E, van de wet van 11 oktober 2012 (Stb. 545) gelden voor het voortgezet speciaal onderwijs artikel 11, vierde lid, 40b, 41, 41a, 43, 53 en 59, zoals die artikelen luidden vóór het tijdstip van inwerkingtreding van artikel I, onderdelen B, P, Q, R, S, V en W, tweede lid, van die wet.   
-8.  Het zevende lid is niet van toepassing ten aanzien van wijzigingen van in het zevende lid genoemde artikelen aangebracht door een andere wet dan de wet van 11 oktober 2012 (Stb. 545).  
+Door vernummering vervallen.
 
 ### Artikel  173b  
 
@@ -3177,10 +3154,6 @@ c. een bijdrage ten behoeve van de uitoefening van landelijke taken in het kader
 Treedt in werking op een nader te bepalen tijdstip 
 
 Onze minister zendt binnen vier jaar na de inwerkingtreding van artikel II van de Wet van 11 december 2013 tot wijziging van onder meer de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet College voor examens in verband met de invoering van een centrale eindtoets, de invoering van een leerling- en onderwijsvolgsysteem en invoering van bekostigingsvoorschriften voor minimumleerresultaten voor speciale scholen voor basisonderwijs en scholen voor speciaal onderwijs en speciaal en voortgezet speciaal onderwijs (centrale eindtoets en leerling- en onderwijsvolgsysteem primair onderwijs) (Stb. 2014, 13) aan de Staten-Generaal een verslag over de doeltreffendheid en effecten van artikel 11, zevende lid, en artikel 18b van de wet in de praktijk. 
-
-###Titel  VII  
-
-#### Overgangsbepalingen 
 
 ###Artikel  174  
 
@@ -3223,6 +3196,45 @@ b. voor zover het betreft uitkeringen die zijn ontstaan na 31 december 1997: in
 
 1. Met betrekking tot de op 31 december 1997 door het Rijk nog niet vastgestelde of uitgekeerde bedragen, blijven van toepassing de bij of krachtens de Wet op de onderwijsverzorging gegeven voorschriften die betrekking hebben op de schoolbegeleidingsdiensten, bedoeld in Hoofdstuk II, Titel II, van die wet.
 2. Met betrekking tot de op 31 december 2001 door het Rijk nog niet vastgestelde of uitgekeerde bedragen, blijven van toepassing de bij of krachtens artikel V, Titel A, van de wet van 15 mei 1997, Stb. 252 gegeven voorschriften.
+
+### Artikel  178a  
+
+####Wet van 11 oktober 2012 (Stb. 545)
+
+1.  Per school waar voortgezet speciaal onderwijs wordt verzorgd informeert het bevoegd gezag uiterlijk op 1 januari voorafgaande aan het tijdstip van inwerkingtreding van artikel I, onderdeel E van de wet van 11 oktober 2012 (Stb. 545), de ouders schriftelijk welk uitstroomprofiel als bedoeld in artikel 14 zoals luidend door artikel I, onderdeel E, van die wet en indien aan de orde, welk onderwijs als bedoeld in artikel 14a, eerste lid, zoals luidend door artikel I, onderdeel F, van die wet en welke schoolsoort als bedoeld in de Wet op het voortgezet onderwijs met ingang van genoemd tijdstip wordt verzorgd.   
+2.  Voor de leerlingen die voortgezet speciaal onderwijs volgen vóór het tijdstip van inwerkingtreding voor het voortgezet speciaal onderwijs van artikel I, onderdeel R, van de wet van 11 oktober 2012 (Stb. 545) stelt het bevoegd gezag vóór dat tijdstip een ontwikkelingsperspectief vast overeenkomstig artikel 41a, eerste lid, zoals luidend door artikel I, onderdeel R, van die wet. De eerste volzin is niet van toepassing op leerlingen die naar verwachting vóór 1 oktober volgend op het tijdstip, bedoeld in de eerste volzin, de school verlaten.   
+3.  Voor de leerlingen die speciaal onderwijs volgen vóór het tijdstip van inwerkingtreding voor het speciaal onderwijs van artikel I, onderdeel R, van de wet van 11 oktober 2012 (Stb. 545) stelt het bevoegd gezag vóór dat tijdstip een ontwikkelingsperspectief vast overeenkomstig artikel 41a, eerste lid, zoals luidend door artikel I, onderdeel R, van die wet.   
+4.  Artikel 44, zoals luidend door artikel I, onderdeel T, van de wet van 11 oktober 2012 (Stb. 545) is niet van toepassing ten aanzien van leerlingen die vóór het tijdstip van inwerkingtreding van dat artikelonderdeel de school hebben verlaten.   
+5.  Leerlingen die speciaal onderwijs volgen die vóór het tijdstip van inwerkingtreding van artikel I, onderdeel N, eerste lid, van de wet van 11 oktober 2012 (Stb. 545) de leeftijd van veertien jaar hebben bereikt, verlaten vóór dat tijdstip van inwerkingtreding het speciaal onderwijs.   
+6.  Artikel 39, vijfde lid, de laatste twee volzinnen, zoals luidend door artikel I, onderdeel N, tweede lid, van de wet van 11 oktober 2012 (Stb. 545) zijn niet van toepassing ten aanzien van verzoeken om ontheffing die voor inwerkingtreding van dat artikelonderdeel zijn gedaan.   
+7.  Tot aan het tijdstip van inwerkingtreding van de wijziging van artikel I, onderdeel E, van de wet van 11 oktober 2012 (Stb. 545) gelden voor het voortgezet speciaal onderwijs artikel 11, vierde lid, 40b, 41, 41a, 43, 53 en 59, zoals die artikelen luidden vóór het tijdstip van inwerkingtreding van artikel I, onderdelen B, P, Q, R, S, V en W, tweede lid, van die wet.   
+8.  Het zevende lid is niet van toepassing ten aanzien van wijzigingen van in het zevende lid genoemde artikelen aangebracht door een andere wet dan de wet van 11 oktober 2012 (Stb. 545).  
+
+### Artikel  178b  
+
+####Invoeringsbepaling wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175)
+
+1.  Onze Minister stelt regels van tijdelijke aard vast die de invoering van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175) vergemakkelijken, door het verstrekken van aanvullende bekostiging aan bevoegde gezagsorganen die in ieder geval voldoen aan de volgende eisen: 
+
+a. het bevoegd gezag ontvangt een bij ministeriële regeling te bepalen hoeveelheid bekostiging als bedoeld in artikel 128, eerste lid, en  
+
+b. het onder het bevoegd gezag ressorterende hoofdgebouw van de school, of één of meer van de onder het bevoegd gezag ressorterende hoofdgebouwen van scholen, danwel een bij ministeriële regeling te bepalen percentage van de onder het bevoegd gezag ressorterende hoofdgebouwen van scholen is of zijn gebouwd in een bij ministeriële regeling te bepalen tijdvak.     
+2.  De hoogte van het bedrag van de aanvullende bekostiging wordt per leerling van één van de scholen, bedoeld in het eerste lid, onderdeel b, vastgesteld.   
+3.  Dit artikel vervalt met ingang van 1 januari van het vierde jaar na de datum van inwerkingtreding van artikel II van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175).  
+
+### Artikel  178c  
+
+####Overgangsbepaling aanhangige bezwaren en beroepen in verband met de overheveling buitenonderhoud en aanpassingen aan het gebouw (wet van 7 mei 2014, Stb. 175)
+
+Op geschillen die in bezwaar, beroep of hoger beroep aanhangig zijn of binnen de bezwaar- dan wel beroepstermijn dan wel verschoonbaar daarbuiten aanhangig worden gemaakt tegen besluiten van de gemeente inzake bouwkundige aanpassingen die zijn genomen voor de inwerkingtreding van artikel II van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb.175) op grond van bepalingen bij of krachtens titel IV, afdeling 3, van deze wet zoals luidend op de dag voor de inwerkingtreding van artikel II van die wet, blijven de op die datum geldende regelingen van toepassing. De eerste volzin is hangende het bezwaar, beroep of hoger beroep van overeenkomstige toepassing op de bevoegdheid tot het intrekken en vervangen van besluiten die tot de aldaar bedoelde geschillen hebben geleid. 
+
+### Artikel  178d  
+
+####Overgangsbepaling liggende aanvragen en vastgestelde programma’s huisvestingsvoorzieningen in verband met de overheveling buitenonderhoud en aanpassingen aan het gebouw (wet van 7 mei 2014, Stb. 175)
+
+1.  Aanvragen als bedoeld in artikel 92 van deze wet, voor zover betreft voorzieningen als bedoeld in artikel 90, eerste lid, onderdeel b, van deze wet zoals luidend op de dag voor de inwerkingtreding van artikel II, van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175), die worden ingediend na de inwerkingtreding van artikel II van die wet, blijven buiten behandeling.   
+2.  Het programma huisvestingsvoorzieningen dat op grond van artikel 93 van deze wet is vastgesteld voor het jaar waarin artikel II van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175) in werking treedt, vervalt voor zover het betreft voorzieningen als bedoeld in artikel 90, eerste lid, onderdeel b, van deze wet, zoals luidend op de dag voor de inwerkingtreding van artikel II van die wet.   
+3.  De programma’s huisvestingsvoorzieningen die op grond van artikel 93 van deze wet zijn vastgesteld voor de jaren voorafgaand aan de inwerkingtreding van artikel II van de Wet van 7 mei 2014 houdende wijziging van de Wet op het primair onderwijs, de Wet op de expertisecentra en de Wet primair onderwijs BES in verband met de overheveling van taak en budget voor aanpassingen in onderwijshuisvesting van gemeente naar school (Stb. 175) worden volledig uitgevoerd.  
 
 ### Titel  VIII  
 

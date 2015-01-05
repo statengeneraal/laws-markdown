@@ -47,9 +47,7 @@ b. werknemer: de ander bedoeld onder *a*.
 
 a. een collectieve arbeidsovereenkomst als bedoeld in artikel 1 van de Wet op de collectieve arbeidsovereenkomst;   
 
-b. een rechtspositieregeling van werknemers in dienst van de overheid alsmede een overeenkomstige rechtspositieregeling van werknemers, werkzaam in instellingen van bijzonder onderwijs of wetenschappelijk onderzoek;   
-
-c. een verordening als bedoeld in de artikelen 16, derde lid, 86, derde lid, en 93, tweede lid, onder d, van de Wet op de bedrijfsorganisatie.      
+b. een rechtspositieregeling van werknemers in dienst van de overheid alsmede een overeenkomstige rechtspositieregeling van werknemers, werkzaam in instellingen van bijzonder onderwijs of wetenschappelijk onderzoek.     
 2.   In deze wet en de daarop berustende bepalingen wordt mede verstaan onder collectieve regeling:  
 
 a. een besluit als bedoeld in artikel 2 van de Wet op het algemeen verbindend en het onverbindend verklaren van bepalingen van collectieve arbeidsovereenkomsten waarbij bepalingen van een collectieve arbeidsovereenkomst algemeen verbindend zijn verklaard;   
@@ -437,7 +435,7 @@ Artikel 4:5, met uitzondering van het zesde lid, is van overeenkomstige toepassi
 
 ### Artikel  5:2  
 
-1.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen, worden voor het bepalen van het aantal uren dat arbeid wordt verricht meegeteld de uren waarop de werknemer de bedongen arbeid zou hebben verricht, maar deze door de uitoefening van zijn taak in het kader van het medezeggenschapsorgaan, ziekte, vakantie, de vervulling van door wet of overheid opgelegde verplichting, welke niet in zijn vrije tijd kon geschieden, of als gevolg van zeer bijzondere persoonlijke omstandigheden, bedoeld in artikel 4:1, eerste lid, van de Wet arbeid en zorg, niet heeft verricht.    
+1.  Voor de toepassing van dit hoofdstuk en de daarop berustende bepalingen, worden voor het bepalen van het aantal uren dat arbeid wordt verricht meegeteld de uren waarop de werknemer de bedongen arbeid zou hebben verricht, maar deze door de uitoefening van zijn taak in het kader van het medezeggenschapsorgaan, ziekte, vakantie, de vervulling van door wet of overheid opgelegde verplichting, welke niet in zijn vrije tijd kon geschieden, of als gevolg van onvoorziene omstandigheden of zeer bijzondere persoonlijke omstandigheden, als bedoeld in artikel 4:1, eerste lid, van de Wet arbeid en zorg, niet heeft verricht.    
 2.   Elk beding waarbij wordt afgeweken van het eerste lid, is nietig.   
 
 ### §  5.2  

@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Tuinbouw van 13 november 2012 houdende regels ter zake van het gebruik van apparatuur bestemd voor de toepassing van gewasbeschermingsmiddelen (Verordening PT keuring van apparatuur voor gewasbeschermingsmiddelen 2012)
 
 Het bestuur van het Productschap Tuinbouw;  
-Gelet op artikel 8 van Richtlijn 2009/128/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van een kader voor communautaire actie ter verwezenlijking van een duurzaam gebruik van pesticiden (PbEG 2009 L 309), [artikel 80, tweede en derde lid, van de Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [artikel 32b van het Besluit gewasbeschermingsmiddelen en biociden](../../../../../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) en de [artikelen 96](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [98](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102, tweede lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md); Verordeningen (EEG) nr. 2392/86 en (EG) nr. 1493/1999;
+Gelet op artikel 8 van Richtlijn 2009/128/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van een kader voor communautaire actie ter verwezenlijking van een duurzaam gebruik van pesticiden (PbEG 2009 L 309), artikel 80, tweede en derde lid, van de Wet gewasbeschermingsmiddelen en biociden, artikel 32b van het Besluit gewasbeschermingsmiddelen en biociden en de artikelen 96, 98, 102, tweede lid, van de Wet op de bedrijfsorganisatie; Verordeningen (EEG) nr. 2392/86 en (EG) nr. 1493/1999;
 
 Gehoord de Commissie voor bollen, knollen en wortelstokken van bloemgewassen;
 
@@ -27,13 +27,13 @@ Deze verordening verstaat onder:
 |:---|:---|:---|
 |a. productschap |: |Productschap Tuinbouw; |
 |b. bestuur |: |bestuur van het productschap; |
-|c. Besluit |: |[Besluit gewasbeschermingsmiddelen en biociden](../../../../../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md);  |
+|c. Besluit |: |Besluit gewasbeschermingsmiddelen en biociden;  |
 |d. ondernemer |: |de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
 |e. Richtlijn |: |Richtlijn 2009/128/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van een kader voor communautaire actie ter verwezenlijking van een duurzaam gebruik van pesticiden (PbEG 2009, L 309); |
 |f. gewasbeschermingsmiddel |: |gewasbeschermingsmiddel als bedoeld in artikel 2, eerste lid van Verordening (EG) 1107/2009 van het Europees Parlement en de Raad van 21 oktober 2009 betreffende het op de markt brengen van gewasbeschermingsmiddelen en tot intrekking van de Richtlijnen 79/117/EEG en 91/414/EEG van de Raad (PbEG 2009, L 309); |
 |g. apparatuur |: |apparaat dat specifiek bestemd is voor de toepassing van gewasbeschermingsmiddelen; |
-|h. volveldspuiten |: |mechanisch voortbewogen apparatuur voor het verdelen van gewasbeschermingsmiddelen, bestemd voor bovengrondse voIveldsbehandelingen in buitenteelten, die overwegend neerwaartse richting van spuitvloeistof bewerkstelligt, waarvoor voorafgaand aan de inwerkingtreding van deze verordening reeds een keuringsplicht bestond op grond van de [Verordening PT gebruik verdeelapparatuur bij gewasbeschermingsmiddelen 2009](../../../../../../../../../../pbo/verordening/pt/gebruik/verdeelapparatuur/bij/gewasbeschermingsmiddelen/etc/BWBR0025530/README.md);  |
-|i. boomgaardspuiten |: |mechanisch voortbewogen apparatuur voor het verdelen van gewasbeschermingsmiddelen, bestemd voor bovengrondse volveldsbehandelingen in buitenteelten, die overwegend zijwaartse of schuin opwaartse richting van spuitvloeistof bewerkstelligt, waarvoor vooraf- gaand aan de inwerkingtreding van deze verordening reeds een keuringsplicht bestond op grond van de [Verordening PT gebruik verdeelapparatuur bij gewasbeschermingsmiddelen 2009](../../../../../../../../../../pbo/verordening/pt/gebruik/verdeelapparatuur/bij/gewasbeschermingsmiddelen/etc/BWBR0025530/README.md). |
+|h. volveldspuiten |: |mechanisch voortbewogen apparatuur voor het verdelen van gewasbeschermingsmiddelen, bestemd voor bovengrondse voIveldsbehandelingen in buitenteelten, die overwegend neerwaartse richting van spuitvloeistof bewerkstelligt, waarvoor voorafgaand aan de inwerkingtreding van deze verordening reeds een keuringsplicht bestond op grond van de Verordening PT gebruik verdeelapparatuur bij gewasbeschermingsmiddelen 2009;  |
+|i. boomgaardspuiten |: |mechanisch voortbewogen apparatuur voor het verdelen van gewasbeschermingsmiddelen, bestemd voor bovengrondse volveldsbehandelingen in buitenteelten, die overwegend zijwaartse of schuin opwaartse richting van spuitvloeistof bewerkstelligt, waarvoor vooraf- gaand aan de inwerkingtreding van deze verordening reeds een keuringsplicht bestond op grond van de Verordening PT gebruik verdeelapparatuur bij gewasbeschermingsmiddelen 2009. |
 
 ###§ 2 
 
@@ -41,7 +41,7 @@ Deze verordening verstaat onder:
 
 ###Artikel 2 
 
-Het verbod, bedoeld in [artikel 32b, eerste lid, van het Besluit](../../../../../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md), om bij de toediening van gewasbeschermingsmiddelen op een gewas of op de grond gebruik te maken van apparatuur, geldt niet voor: 
+Het verbod, bedoeld in artikel 32b, eerste lid, van het Besluit, om bij de toediening van gewasbeschermingsmiddelen op een gewas of op de grond gebruik te maken van apparatuur, geldt niet voor: 
 
 a.apparatuur die voldoet aan de eisen van bijlage 11 van de Richtlijn waarvan de ondernemer een geldig keuringsbewijs kan overleggen, dat is afgegeven door de Stichting Kwaliteitseisen Landbouwtechniek te Wageningen;
 
@@ -83,11 +83,11 @@ Het toezicht op de naleving van het bij of krachtens de verordening bepaalde wor
 
 ###Artikel 6 
 
-De [Verordening PT gebruik verdeelapparatuur bij gewasbeschermingsmiddelen 2009](../../../../../../../../../../pbo/verordening/pt/gebruik/verdeelapparatuur/bij/gewasbeschermingsmiddelen/etc/BWBR0025530/README.md) wordt ingetrokken. 
+De Verordening PT gebruik verdeelapparatuur bij gewasbeschermingsmiddelen 2009 wordt ingetrokken. 
 
 ###Artikel 7 
 
-1. Keuringsbewijzen die zijn afgegeven op grond van de [Verordening PT gebruik verdeelapparatuur bij gewasbeschermingsmiddelen 2009](../../../../../../../../../../pbo/verordening/pt/gebruik/verdeelapparatuur/bij/gewasbeschermingsmiddelen/etc/BWBR0025530/README.md) en die nog geldig zijn op het moment van inwerkingtreding van deze verordening, zijn geldig tot drie jaar na datum afgifte. 
+1. Keuringsbewijzen die zijn afgegeven op grond van de Verordening PT gebruik verdeelapparatuur bij gewasbeschermingsmiddelen 2009 en die nog geldig zijn op het moment van inwerkingtreding van deze verordening, zijn geldig tot drie jaar na datum afgifte. 
 2. In afwijking van artikel 2 is de toediening van gewasbeschermingsmiddelen met apparatuur, niet zijnde volveldspuiten en boomgaardspuiten, met een bouwjaar:
 
 a.ouder dan 1996 toegestaan tot 1 januari 2015;

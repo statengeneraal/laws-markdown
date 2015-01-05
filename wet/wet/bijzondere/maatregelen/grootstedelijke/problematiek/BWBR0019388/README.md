@@ -16,11 +16,11 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 In deze wet en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. huisvestingsvergunning: vergunning als bedoeld in artikel 7, eerste lid, van de Huisvestingswet;  
+a. huisvestingsvergunning: vergunning als bedoeld in artikel 8 van de Huisvestingswet 2014;  
 
 b. regio: gebied dat uit een oogpunt van het functioneren van de woonruimtemarkt als een samenhangend geheel kan worden beschouwd;  
 
-c. huisvestingsverordening: verordening als bedoeld in artikel 2 van de Huisvestingswet;  
+c. huisvestingsverordening: verordening als bedoeld in artikel 4 van de Huisvestingswet 2014;  
 
 d. Onze Minister: Onze Minister voor Wonen en Rijksdienst;  
 
@@ -78,7 +78,7 @@ a. noodzakelijk en geschikt is voor het bestrijden van grootstedelijke problemat
 
 b. voldoet aan de eisen van subsidiariteit en proportionaliteit.     
 2.  De aanwijzing, bedoeld in artikel 5, geschiedt uitsluitend indien is voldaan aan het eerste lid, en de gemeenteraad naar het oordeel van Onze Minister voldoende aannemelijk heeft gemaakt dat woningzoekenden, aan wie als gevolg van die aanwijzing geen huisvestingsvergunning kan worden verleend voor het in gebruik nemen van woonruimte in de aangewezen gebieden, voldoende mogelijkheden houden om binnen de regio waarin de gemeente is gelegen passende huisvesting te vinden.   
-3.  Onze Minister kan gedeputeerde staten dan wel, indien de gemeente is gelegen in een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen, het dagelijks bestuur van die plusregio advies vragen over de mogelijkheden, bedoeld in het tweede lid.   
+3.  Onze Minister kan gedeputeerde staten advies vragen over de mogelijkheden, bedoeld in het tweede lid.   
 4.  Onze Minister neemt binnen dertien weken na verzending door de gemeenteraad van de aanvraag tot aanwijzing van een gebied, bedoeld in artikel 5, eerste lid, een besluit omtrent die aanwijzing. Indien Onze Minister zijn besluit niet binnen de termijn, genoemd in de eerste volzin, aan de gemeenteraad bekend heeft gemaakt, wordt het besluit tot aanwijzing geacht te zijn genomen.  
 
 ### Artikel  7  
@@ -106,18 +106,13 @@ e. een ouderdoms- of nabestaandenpensioen als bedoeld in de Wet op de loonbelast
 
 f. studiefinanciering als bedoeld in de Wet studiefinanciering 2000.     
 2.  De gemeenteraad bepaalt in de huisvestingsverordening dat burgemeester en wethouders aan een woningzoekende die niet voldoet aan de eisen, genoemd in het eerste lid, een huisvestingsvergunning voor het in gebruik nemen van woonruimte als bedoeld in dat lid kunnen verlenen, indien het weigeren van die huisvestingsvergunning tot een onbillijkheid van overwegende aard zou leiden.   
-3.  De artikelen 7, 84, tweede en derde lid, en 85 van de Huisvestingswet zijn van overeenkomstige toepassing.   
-4.  De artikelen 13a en 13c van de Huisvestingswet zijn niet van toepassing.  
+3.  De artikelen 8 en 35 van de Huisvestingswet 2014 zijn van overeenkomstige toepassing.   
+4.  De artikelen 14 en 15 van de Huisvestingswet 2014 zijn niet van toepassing.  
 
 ### Artikel  9  
 
 1.  De gemeenteraad kan, indien dat naar zijn oordeel noodzakelijk en geschikt is voor het bestrijden van grootstedelijke problematiek in de gemeente en voldoet aan de eisen van subsidiariteit en proportionaliteit, in de huisvestingsverordening bepalen dat voor daarbij aan te wijzen categorieën van woonruimte bij het verlenen van huisvestingsvergunningen voorrang wordt gegeven aan woningzoekenden die voldoen aan in die verordening vastgelegde sociaal-economische kenmerken.   
-2.  De gemeenteraad bepaalt in de huisvestingsverordening of aan woningzoekenden als bedoeld in het eerste lid voorrang wordt gegeven boven woningzoekenden als bedoeld in artikel 11, eerste lid, van de Huisvestingswet.  
-
-### Artikel  10  
-
-1.  In afwijking van artikel 2, derde lid, van de Huisvestingswet stelt de gemeenteraad van een gemeente die is gelegen in een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen, ten aanzien van de gebieden aangewezen op grond van artikel 5, de huisvestingsverordening vast.   
-2.  De op grond van het eerste lid vastgestelde huisvestingsverordening treedt voor de op grond van artikel 5 aangewezen gebieden, in de plaats van de huisvestingsverordening die door het algemeen bestuur van de plusregio is vastgesteld.  
+2.  De gemeenteraad bepaalt in de huisvestingsverordening of aan woningzoekenden als bedoeld in het eerste lid voorrang wordt gegeven boven woningzoekenden als bedoeld in artikel 12, eerste lid, van de Huisvestingswet 2014.  
 
 ### Hoofdstuk  4  
 

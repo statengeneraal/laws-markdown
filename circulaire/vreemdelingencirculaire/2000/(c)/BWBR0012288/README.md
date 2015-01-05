@@ -415,9 +415,9 @@ De IND hanteert voor het beoordelen van een aanvraag voor een verblijfsvergunnin
 
 3. Als de IND concludeert dat de vreemdeling zich niet schuldig heeft gemaakt aan een misdrijf of handeling zoals bedoeld in artikel 1F van het Vluchtelingenverdrag, toetst de IND de aanvraag aan artikel 29, eerste en tweede lid, Vw;  
 
-4. In het kader van de toets aan artikel 29, eerste en tweede lid, Vw beoordeelt de IND de geloofwaardigheid van de verklaringen van de vreemdeling;  
+4. In het kader van de toets aan artikel 29, eerste en tweede lid, Vw beoordeelt de IND de geloofwaardigheid van de relevante elementen  
 
-5. In het kader van de toets aan artikel 29, eerste en tweede lid, Vw beoordeelt de IND de zwaarwegendheid van de geloofwaardig geachte verklaringen van de vreemdeling;  
+5. In het kader van de toets aan artikel 29, eerste en tweede lid, Vw beoordeelt de IND de zwaarwegendheid van de geloofwaardig geachte relevante elementen  
 
 6. Als de IND de eerste aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd afwijst, beoordeelt de IND op grond van artikel 3.6a Vb ambtshalve, of de vreemdeling in aanmerking komt voor een verblijfsvergunning regulier voor bepaalde tijd;  
 
@@ -439,13 +439,14 @@ De IND betrekt bij de beoordeling van de aanvraag voor een verblijfsvergunning a
 
 ####De geloofwaardigheid
 
-De IND beoordeelt de geloofwaardigheid van de verklaringen van de vreemdeling over: 
+De IND beoordeelt de geloofwaardigheid van de relevante elementen. Relevante elementen zijn feiten en omstandigheden die in de volgende twee categorieën worden onderscheiden: 
 
-a. de voor de beoordeling van de inwilligbaarheid van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd relevante gestelde feiten en omstandigheden;  
+a. de voor de beoordeling van de inwilligbaarheid van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd relevante gestelde gegevens die zien op de persoon van de vreemdeling;  
 
-b. de voor de beoordeling van de inwilligbaarheid van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd relevante gestelde gebeurtenissen; en  
+b. de voor de beoordeling van de inwilligbaarheid van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd relevante gestelde gebeurtenissen.   
+### *Ad a.* 
 
-c. zijn voor de beoordeling van de inwilligbaarheid van de aanvraag voor een verblijfsvergunning asiel voor bepaalde tijd relevante veronderstellingen.    *Ad a.*  ‘Feiten’ en ‘omstandigheden’ zijn in ieder geval: 
+Gegevens die zien op de persoon van de vreemdeling zijn in ieder geval: 
 
 * de identiteit van de vreemdeling;  
 
@@ -455,25 +456,34 @@ c. zijn voor de beoordeling van de inwilligbaarheid van de aanvraag voor een ver
 
 * (indien relevant) de seksuele geaardheid van de vreemdeling; en  
 
-* (indien relevant) de geloofsovertuiging van de vreemdeling.    *Ad c.*  Onder ‘veronderstellingen’ verstaat de IND aannames van de vreemdeling die deel uitmaken van de door hem gestelde gebeurtenissen in het verleden. 
+* (indien relevant) de geloofsovertuiging van de vreemdeling.   
+### *Ad b.* 
+
+Onder gestelde gebeurtenissen worden ook de ‘veronderstellingen’ van de vreemdeling verstaan. Onder ‘veronderstellingen’ verstaat de IND aannames van de vreemdeling die deel uitmaken van de door hem gestelde gebeurtenissen in het verleden. 
 ### 3.3.1  
 
 ####De beoordeling van de geloofwaardigheid
 
-Bij de beoordeling van de geloofwaardigheid van de door de vreemdeling gestelde feiten, omstandigheden en veronderstellingen betrekt de IND: 
+Bij de beoordeling van de geloofwaardigheid van de door de vreemdeling gestelde relevante elementen betrekt de IND: 
 
 * alle documenten die de vreemdeling heeft ingediend;  
 
-* of sprake is van één of meer van de omstandigheden als genoemd in artikel 31, tweede lid, aanhef en onder a tot en met f, Vw;  
+* de verklaringen van de vreemdeling; en  
 
-* de geloofwaardigheid van de verklaringen van de vreemdeling; en  
-
-* of de verklaringen van de vreemdeling passen in al datgene wat bij de IND bekend is over de situatie in het land van herkomst van de vreemdeling.   Documenten zijn alle gegevensdragers die een vreemdeling ter onderbouwing van zijn verklaringen heeft ingediend. De vreemdeling kan op grond van verklaringen die de IND niet als geloofwaardig beoordeelt, geen aanspraak maken op de beschermingsgronden als genoemd in artikel 29, eerste lid, Vw.
+* of de verklaringen van de vreemdeling passen in al datgene wat bij de IND bekend is over de situatie in het land van herkomst van de vreemdeling.   Documenten zijn alle gegevensdragers die een vreemdeling ter onderbouwing van zijn verklaringen heeft ingediend. Als de IND een relevant element niet als geloofwaardig beoordeelt, kan de vreemdeling op basis van dit element geen aanspraak maken op de beschermingsgronden als genoemd in artikel 29, eerste lid, Vw. 
 ### 3.3.2  
 
 ####Bewijslast voor de geloofwaardigheid
 
-Als sprake is van één of meerdere van de omstandigheden genoemd in artikel 31, tweede lid, aanhef onder a tot en met f Vw, acht de IND de verklaringen van de vreemdeling uitsluitend geloofwaardig als van deze verklaringen een positieve overtuigingskracht uitgaat. Een ambtsbericht van de Minister van Buitenlandse Zaken is voor de IND een gewichtige bron van informatie over de situatie in het land van herkomst. Een ambtsbericht van de Minister van Buitenlandse Zaken is een deskundigenbericht. De IND kan ook informatie uit andere objectieve bronnen gebruiken voor een oordeel over de situatie in het land van herkomst. De IND merkt informatie uit andere bronnen en onderzoek door derden aan als deskundigenbericht als op een onpartijdige, objectieve en inzichtelijke manier informatie wordt verschaft, onder aanduiding – voor zover mogelijk en verantwoord – van de bronnen, waaraan deze informatie is ontleend. De IND gaat uit van de juistheid van een deskundigenbericht, tenzij de IND concrete aanknopingspunten heeft voor twijfel aan de juistheid, de volledigheid of de actualiteit van het deskundigenbericht. De IND stelt nader onderzoek in of laat nader onderzoek instellen om de concrete aanknopingspunten voor de twijfel aan de juistheid, de volledigheid of de actualiteit van een deskundigenbericht te bevestigen of te ontkrachten. Als de concrete aanknopingspunten voor twijfel aan de juistheid, de volledigheid of de actualiteit van een deskundigenbericht door nader onderzoek bevestigd zijn, betrekt de IND deze informatie bij de beoordeling van de geloofwaardigheid van de verklaringen van de vreemdeling. De IND beschouwt in ieder geval niet als concrete aanknopingspunten voor twijfel aan de juistheid, de volledigheid of de actualiteit van een deskundigenbericht: 
+Er vindt een integrale geloofwaardigheidsbeoordeling plaats. Hierbij worden alle relevante omstandigheden van het geval betrokken en in onderlinge samenhang gewogen. Omstandigheden die bij de geloofwaardigheidsbeoordeling kunnen worden betrokken, wanneer zij raken aan de geloofwaardigheid van één of meerdere relevante elementen, zijn in ieder geval: 
+
+* de vreemdeling heeft reeds eerder, onder een andere naam, een aanvraag voor een verblijfsvergunning in Nederland ingediend;  
+
+* de vreemdeling heeft ter staving van zijn aanvraag valse of vervalste reis- of identiteitspapieren dan wel andere bescheiden overgelegd en, hoewel daaromtrent ondervraagd, opzettelijk de echtheid daarvan volgehouden;  
+
+* de vreemdeling heeft ter staving van zijn aanvraag opzettelijk reis- of identiteitspapieren dan wel andere bescheiden overgelegd die niet op hem betrekking hebben;  
+
+* de vreemdeling kan ter staving van zijn aanvraag geen reis- of identiteitspapieren dan wel andere bescheiden overleggen die noodzakelijk zijn voor de beoordeling van zijn aanvraag, tenzij de vreemdeling aannemelijk kan maken dat het ontbreken van deze bescheiden niet aan hem is toe te rekenen.   Een ambtsbericht van de Minister van Buitenlandse Zaken is voor de IND een gewichtige bron van informatie over de situatie in het land van herkomst. Een ambtsbericht van de Minister van Buitenlandse Zaken is een deskundigenbericht. De IND kan ook informatie uit andere objectieve bronnen gebruiken voor een oordeel over de situatie in het land van herkomst. De IND merkt informatie uit andere bronnen en onderzoek door derden aan als deskundigenbericht als op een onpartijdige, objectieve en inzichtelijke manier informatie wordt verschaft, onder aanduiding – voor zover mogelijk en verantwoord – van de bronnen, waaraan deze informatie is ontleend. De IND gaat uit van de juistheid van een deskundigenbericht, tenzij de IND concrete aanknopingspunten heeft voor twijfel aan de juistheid, de volledigheid of de actualiteit van het deskundigenbericht. De IND stelt nader onderzoek in of laat nader onderzoek instellen om de concrete aanknopingspunten voor de twijfel aan de juistheid, de volledigheid of de actualiteit van een deskundigenbericht te bevestigen of te ontkrachten. Als de concrete aanknopingspunten voor twijfel aan de juistheid, de volledigheid of de actualiteit van een deskundigenbericht door nader onderzoek bevestigd zijn, betrekt de IND deze informatie bij de beoordeling van de geloofwaardigheid van de verklaringen van de vreemdeling. De IND beschouwt in ieder geval niet als concrete aanknopingspunten voor twijfel aan de juistheid, de volledigheid of de actualiteit van een deskundigenbericht: 
 
 * een ongemotiveerde of niet nader toegelichte verklaring van de vreemdeling; of  
 
@@ -482,12 +492,14 @@ Als sprake is van één of meerdere van de omstandigheden genoemd in artikel 31,
 
 ####De zwaarwegendheid
 
-De IND beoordeelt of de vermoedens van de vreemdeling over wat er met hem zal gebeuren als hij terugkeert naar zijn land van herkomst, aannemelijk zijn. Naast de aspecten bedoeld in artikel 3.35, tweede lid, VV, betrekt de IND bij de beoordeling van de aannemelijkheid van de vermoedens van de vreemdeling de volgende aspecten: 
+De IND beoordeelt of de vermoedens van de vreemdeling over wat er met hem zal gebeuren als hij terugkeert naar zijn land van herkomst, aannemelijk zijn. Bij de beoordeling van de aannemelijkheid van de vermoedens van de vreemdeling over wat hem bij terugkeer zal overkomen, betrekt de IND de volgende aspecten: 
+
+* de aspecten bedoeld in artikel 3.35, tweede lid VV;  
 
 * het tijdsverloop tussen de gebeurtenissen die voor de vreemdeling aanleiding vormden om zijn land van herkomst te verlaten en het moment van vertrek uit zijn land van herkomst; en  
 
-* de vraag of degenen van wie de vreemdeling vervolging of een onmenselijke of vernederende behandeling of bestraffing vreest op de hoogte zijn of kunnen raken van de omstandigheden waarop de vreemdeling zich beroept en op grond waarvan hij vreest te worden vervolgd of onmenselijk of vernederend te worden behandeld of bestraft.   Als de IND oordeelt dat deze vermoedens aannemelijk zijn, beoordeelt de IND of de gebeurtenissen die de vreemdeling verwacht, voldoende zwaarwegend zijn om te worden aangemerkt als een rechtsgrond voor verlening als bedoeld in artikel 29 Vw. 
-###Medische aspecten
+* de vraag of degenen van wie de vreemdeling vervolging of een onmenselijke of vernederende behandeling of bestraffing vreest op de hoogte zijn of kunnen raken van de omstandigheden waarop de vreemdeling zich beroept en op grond waarvan hij vreest te worden vervolgd of onmenselijk of vernederend te worden behandeld of bestraft.   Als de IND oordeelt dat deze vermoedens aannemelijk zijn, beoordeelt de IND of de gebeurtenissen die de vreemdeling verwacht, voldoende zwaarwegend zijn om te worden aangemerkt als een rechtsgrond voor verlening van een verblijfsvergunning asiel voor bepaalde tijd als bedoeld in artikel 29 Vw. 
+### *Medische aspecten* 
 
 De IND betrekt BMA niet bij de beoordeling van de zwaarwegendheid van de verklaringen van de vreemdeling.
 ### 3.5  

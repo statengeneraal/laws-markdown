@@ -121,9 +121,9 @@ Binnen een week na de eedsaflegging legt de notaris, hetzij in persoon, hetzij d
 
 Kandidaat-notaris is hij die: 
 
-a. hetzij, aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding in het wetenschappelijk onderwijs op het gebied van het recht door een universiteit als bedoeld in 23, eerste lid, Rijkswet Gemeenschappelijk Hof van Justitie, de graad van Bachelor op het gebied van het recht en tevens de graad van Master op het gebied van het recht is verleend;  
+a. hetzij, aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding in het wetenschappelijk onderwijs op het gebied van het recht door een universiteit als bedoeld in artikel 24, eerste lid, Rijkswet Gemeenschappelijk Hof van Justitie, de graad van Bachelor op het gebied van het recht en tevens de graad van Master op het gebied van het recht is verleend;  
 
-b. aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding op het gebied van het recht aan een universiteit als bedoeld in artikel 23, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie, het recht om de titel meester te voeren heeft verkregen;  
+b. aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding op het gebied van het recht aan een universiteit als bedoeld in artikel 24, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie, het recht om de titel meester te voeren heeft verkregen;  
 
 c. en tevens werkzaam is op het kantoor van een notaris.   
 

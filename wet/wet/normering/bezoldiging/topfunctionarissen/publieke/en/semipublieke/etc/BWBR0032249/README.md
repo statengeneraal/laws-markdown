@@ -26,7 +26,7 @@ a.*verantwoordelijke:*
 
 4°. de dagelijkse besturen van de waterschappen;  
 
-5°. de dagelijkse besturen van de bedrijfslichamen in de zin van de Wet op de bedrijfsorganisatie en de dagelijkse besturen van de overige openbare lichamen voor beroep en bedrijf;  
+5°. de dagelijkse besturen van de openbare lichamen voor beroep en bedrijf;  
 
 6°. de organen van een rechtspersoon als bedoeld in artikel 1.2, onderdelen f, g en h, die eindverantwoordelijk zijn voor de binnen de rechtspersoon betaalde bezoldiging of bij of krachtens de wet belast zijn met het vaststellen van een financieel verslaggevingsdocument, en  
 

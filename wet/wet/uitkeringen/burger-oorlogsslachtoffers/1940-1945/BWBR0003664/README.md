@@ -161,9 +161,9 @@ d. de Raad kan, bij beschikking, van het bepaalde onder c afwijken indien naar z
 7.   Indien het burger-oorlogsslachtoffer voldoet aan het bepaalde in artikel 7, onder c, wordt de grondslag vastgesteld op het bedrag, bedoeld in het achtste lid, onder a, tenzij de Raad, rekening houdende met alle omstandigheden, in een individueel geval van oordeel is, dat een hogere grondslag gerechtvaardigd is. Deze grondslag kan niet op een hoger bedrag worden vastgesteld dan de grondslag die zou zijn vastgesteld, indien het burger-oorlogsslachtoffer zou voldoen aan het bepaalde in het tweede lid, onder a of b.    
 8.   De grondslag wordt bepaald op:  
 
-a. ten minste een bedrag van € 1.867,87 per maand per 1 januari 1983per 1 juli 2014: € 2.058,58;   
+a. ten minste een bedrag van € 1.867,87 per maand per 1 januari 1983per 1 januari 2015: € 2.067,64;   
 
-b. ten hoogste een bedrag van € 3.877,64 per maand per 1 januari 1983 per 1 juli 2014: € 4.273,61.      
+b. ten hoogste een bedrag van € 3.877,64 per maand per 1 januari 1983 per 1 januari 2015: € 4.292,41.      
 9.   De grondslag, waarnaar de uitkering aan de weduwe of weduwnaar bedoeld in artikel 7, onder d tot en met f, wordt berekend, wordt vastgesteld op hetzelfde bedrag als waarop de grondslag voor het burger-oorlogsslachtoffer zou zijn vastgesteld, indien hij op de datum van de aanvraag, bedoeld in artikel 35, nog in leven zou zijn geweest en op die datum voldaan zou hebben aan het bepaalde in artikel 7, onder a of b.   
 
 ### Artikel  11  
@@ -274,7 +274,7 @@ b.bij het door de gerechtigde bereiken van de pensioengerechtigde leeftijd, bedo
 c.bij veranderingen in de gezinssituatie van de gerechtigde, of
 
 d.indien de Sociale verzekeringsbank van oordeel is dat het niet herzien van het vastgestelde bedrag gelet op het belang dat dit artikel beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard. 
-4.   Indien de in artikel 18, eerste lid, bedoelde kosten van verpleging of verzorging met toepassing van de Algemene Wet Bijzondere Ziektekosten worden betaald en de uitkeringsgerechtigde in die kosten een eigen bijdrage verschuldigd is, wordt op de overeenkomstig het bepaalde in dat artikel vastgestelde uitkering een toeslag verleend gelijk aan het bedrag van de eigen bijdrage.   
+4.   Indien de in artikel 18, eerste lid, bedoelde kosten van verpleging of verzorging met toepassing van de Wet langdurige zorg worden betaald en de uitkeringsgerechtigde in die kosten een eigen bijdrage verschuldigd is, wordt op de overeenkomstig het bepaalde in dat artikel vastgestelde uitkering een toeslag verleend gelijk aan het bedrag van de eigen bijdrage.   
 
 ### Artikel  21  
 
@@ -301,9 +301,7 @@ d.indien de Sociale verzekeringsbank van oordeel is dat het niet herzien van het
 
 a. voor de gehuwde uitkeringsgerechtigde 60% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in artikel 9, eerste lid, onder b, van de Algemene Ouderdomswet, vermeerderd met de vakantie-uitkering, bedoeld in artikel 29 van die wet;  
 
-b. voor de ongehuwde uitkeringsgerechtigde, die tevens een pensioengerechtigde is als bedoeld in artikel 9, eerste lid, onder c, van de Algemene Ouderdomswet, 20% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in artikel 9, eerste lid, onder c, van die wet, vermeerderd met de vakantie-uitkering, bedoeld in artikel 29 van die wet;  
-
-c. voor de ongehuwde uitkeringsgerechtigde, anders dan die, bedoeld onder b, 20% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in artikel 9, eerste lid, onder a, van de Algemene Ouderdomswet, vermeerderd met de vakantie-uitkering, bedoeld in artikel 29 van die wet.     
+b. voor de ongehuwde uitkeringsgerechtigde 20% van het bedrag van het bruto-ouderdomspensioen voor de pensioengerechtigde, bedoeld in artikel 9, eerste lid, onder a, van de Algemene Ouderdomswet, vermeerderd met de vakantie-uitkering, bedoeld in artikel 29 van die wet.     
 2.  De toeslag, bedoeld in het eerste lid, wordt niet toegekend: 
 
 a. indien artikel 8 van toepassing is;  
@@ -691,7 +689,7 @@ d. betrokkene redelijkerwijs had moeten begrijpen dat hem te veel werd uitbetaal
 
 ### Artikel  64  
 
-Indien aan de uitkeringsgerechtigde, in afwachting van de toekenning van een uitkering, vergoeding of tegemoetkoming ingevolge deze wet, door burgemeester en wethouders een uitkering is verleend ingevolge de Wet werk en bijstand, wordt de uitkering, vergoeding of tegemoetkoming ingevolge deze wet verminderd met de kosten van bijstand welke voor overeenkomstige voorzieningen zijn gemaakt over dezelfde periode waarover de uitkering, vergoeding of tegemoetkoming wordt verleend, terwijl de som welke in mindering wordt gebracht, wordt uitbetaald aan de betrokken gemeente.  
+Indien aan de uitkeringsgerechtigde, in afwachting van de toekenning van een uitkering, vergoeding of tegemoetkoming ingevolge deze wet, door burgemeester en wethouders een uitkering is verleend ingevolge de Participatiewet, wordt de uitkering, vergoeding of tegemoetkoming ingevolge deze wet verminderd met de kosten van bijstand welke voor overeenkomstige voorzieningen zijn gemaakt over dezelfde periode waarover de uitkering, vergoeding of tegemoetkoming wordt verleend, terwijl de som welke in mindering wordt gebracht, wordt uitbetaald aan de betrokken gemeente.  
 
 ### Hoofdstuk  IX  
 

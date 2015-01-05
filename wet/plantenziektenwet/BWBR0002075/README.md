@@ -19,7 +19,7 @@ b. "inspecteur-generaal": inspecteur-generaal van de Nederlandse Voedsel- en War
 
 c. "instelling": privaatrechtelijke rechtspersoon met volledige rechtsbevoegdheid, bedoeld in artikel 9;   
 
-d. "bedrijfslichaam": produktschap of bedrijfschap, bedoeld in artikel 66 van de Wet op de Bedrijfsorganisatie (*Stb.* 1950, K22);   
+d. vervallen;  
 
 e. "schadelijke organismen": voor planten of plantaardige produkten schadelijke organismen van dierlijke of plantaardige aard, alsmede virussen, mycoplasma's, viroïden, rickettsia’s of andere ziekteverwekkers;   
 
@@ -70,9 +70,11 @@ d. het treffen van voorzieningen in of aan ruimten;
 
 e. voor de teelt van planten te gebruiken of gebruikt water;   
 
-f. het melden van verschijnselen van aantasting van planten of plantaardige produkten door schadelijke organismen, of   
+f. het melden van verschijnselen van aantasting van planten of plantaardige produkten door schadelijke organismen;  
 
-g. andere onderwerpen, voor zover de nakoming van internationale overeenkomsten of van besluiten van volkenrechtelijke organisaties zulks met zich meebrengt.      
+g. andere onderwerpen, voor zover de nakoming van internationale overeenkomsten of van besluiten van volkenrechtelijke organisaties zulks met zich meebrengt, of  
+
+h. administratieve verplichtingen en verplichtingen betreffende het verstrekken van informatie die samenhangen met de onderdelen a tot en met g.    
 2.   Onze Minister is bevoegd in het belang van de bestrijding van schadelijke organismen regelen, als in het eerste lid bedoeld, te stellen voor een termijn van ten hoogste vier maanden.    
 3.  Indien een onmiddellijke voorziening geboden is, is Onze Minister bevoegd om, voor een termijn van ten hoogste vier maanden, ten aanzien van individuele gevallen voorschriften te geven betreffende hetgeen in het eerste lid is vermeld.   
 
@@ -106,11 +108,6 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 1.  Aan de bekendmaking van ingevolge deze wet genomen besluiten die niet tot een of meer belanghebbenden zijn gericht, verlenen de burgemeesters desgevraagd hun medewerking.    
 2.   De ingevolge deze wet vastgestelde regelen van algemene aard worden, voorzover niet neergelegd in een algemene maatregel van bestuur, in de *Nederlandse Staatscourant* bekend gemaakt.   
-
-### Artikel  8a  
-
-1.  Bij of krachtens algemene maatregel van bestuur kan medewerking worden gevorderd van het bestuur van een bedrijfslichaam.   
-2.  Indien de van het bestuur van een bedrijfslichaam gevorderde medewerking bestaat in het stellen van nadere regels bij verordening, behoeft deze verordening de goedkeuring van Onze Minister. Krachtens de verordening genomen besluiten behoeven, voorzover dit bij of krachtens de maatregel, als bedoeld in het eerste lid, is bepaald, de goedkeuring van de daarbij aangewezen autoriteit.  
 
 ### Artikel  9  
 

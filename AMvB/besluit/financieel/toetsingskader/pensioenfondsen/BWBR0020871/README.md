@@ -30,6 +30,17 @@ b. fonds:
 
 2°.  beroepspensioenfonds als bedoeld in artikel 1 van de Wet verplichte beroepspensioenregeling.     
 
+### Paragraaf  1a  
+
+####Risicohouding
+
+### Artikel  1a  
+
+####Risicohouding
+
+1.  De risicohouding van een fonds, bedoeld in artikel 102a van de Pensioenwet dan wel artikel 109a van de Wet verplichte beroepspensioenregeling, is de mate waarin een fonds, na overleg met de vertegenwoordigers van werkgevers of werkgeversverenigingen, werknemers of werknemersverenigingen of beroepspensioenverenigingen en na overleg met de organen van het fonds, bereid is beleggingsrisico’s te lopen om de doelstellingen van het fonds te realiseren en de mate waarin het fonds beleggingsrisico’s kan lopen gegeven de kenmerken van het fonds.   
+2.  De risicohouding van het fonds voldoet aan de prudent person regel en komt voor de lange termijn tot uitdrukking in de door het fonds gekozen ondergrenzen in het kader van de haalbaarheidstoets en voor de korte termijn in de hoogte van het vereist eigen vermogen of een bandbreedte hiervoor.  
+
 ### Paragraaf  2  
 
 ####Technische voorzieningen
@@ -58,13 +69,18 @@ b. fonds:
 ####Kostendekkende premie en premiestabilisatie
 
 1.  De actuarieel benodigde premie in verband met de pensioenverplichtingen wordt berekend overeenkomstig artikel 2.   
-2.  In afwijking van artikel 2, tweede lid, kan voor de berekening van de in het eerste lid genoemde premie worden uitgegaan van het rendement op de beleggingen.   
-3.  Voor de berekening, bedoeld in het eerste en tweede lid, kan een fonds met het oog op demping van de premie uitgaan van een: 
+2.  In afwijking van het eerste lid kan een fonds, met het oog op demping van de premie, voor de berekening, bedoeld in het eerste lid, uitgaan van: 
 
-a. voortschrijdend gemiddelde van de rente of de rendementen met een maximumperiode van tien jaar; of  
+a. een voortschrijdend gemiddelde van de rente met een maximumperiode van tien jaar; of  
 
-b. vastgestelde verwachte waarde van het toekomstige rendement.     
-4.  Het gemiddelde en de verwachte waarde, bedoeld in het derde lid, worden gedurende langere tijd gehanteerd, zijn op een goed onderbouwde analyse gebaseerd en wijken op de lange termijn niet af van de gemiddelde realisatie.  
+b. indien aan de voorwaarden, bedoeld in het derde lid wordt voldaan, een vastgestelde verwachte waarde van het toekomstig rendement.     
+3.  De voorwaarden, bedoeld in het tweede lid, onderdeel b, zijn: 
+
+a. het fonds houdt in de premie rekening met toeslagverlening ter hoogte van ten minste de minimale verwachtingswaarde voor de groeivoet van het prijsindexcijfer, bedoeld in artikel 23a, eerste lid, onderdeel a, en tweede lid, tenzij sprake is van een eindloonregeling waarbij de pensioenaanspraken jaarlijks onvoorwaardelijk worden verhoogd op basis van het laatstverdiende loon; en  
+
+b. het rendement op vastrentende waarden, bedoeld in artikel 23a, eerste lid, onderdeel f en g, wordt vastgezet voor vijf jaar op basis van de actuele marktrente bij aanvang van deze periode.     
+4.  Voor de toepassing van de voorwaarde, bedoeld in het derde lid, onderdeel a, wordt bij voorwaardelijke toeslagverlening berekend welke opslag in de premie nodig is voor de toeslagverlening. Is deze opslag hoger dan de opslag die nodig is voor het bij de aangroei van de pensioenverplichtingen behorend vereist eigen vermogen dan wordt dit meerdere in de kostendekkende premie opgenomen.   
+5.  Bij ministeriële regeling kunnen regels worden gesteld over de toepassing van het derde lid, onderdeel b. 
 
 ### Paragraaf  4  
 
@@ -185,17 +201,27 @@ f. het verzekeringtechnisch risico;
 
 g. het liquiditeitsrisico;  
 
-h. het concentratierisico; en  
+h. het concentratierisico;  
 
-i. het operationeel risico.     
-2.  In afwijking van het eerste lid kan een fonds, mits voorafgaande toestemming is verleend door De Nederlandsche Bank, voor de berekening van het vereist eigen vermogen: 
+i. het operationeel risico; en  
 
-a. een vereenvoudigd model hanteren, of  
+j. het actief beheer.    
+2.  In aanvulling op het standaardmodel, bedoeld in het eerste lid, hanteert een fonds, na voorafgaande toestemming van De Nederlandsche Bank, een of meer partiële modellen, indien het risicoprofiel van het fonds niet voldoende aansluit op de uitgangspunten van het standaardmodel.  
+3.  In afwijking van het eerste lid kan een fonds, na voorafgaande toestemming van De Nederlandsche Bank, voor de berekening van het vereist eigen vermogen een intern model hanteren.   
+4.  Voor de berekening van het vereist eigen vermogen kan een fonds dat zijn risico’s heeft verzekerd bij een verzekeraar, in afwijking van het eerste lid, onderdeel e, en het tweede en derde lid, voor het verzekerde deel het kredietrisico buiten beschouwing laten.  
+5. De Nederlandsche Bank kan nadere regels stellen inzake de scenariomethode indien innovatieve beleggingsinstrumenten daartoe aanleiding geven. 
+6.  Bij ministeriële regeling worden regels gesteld met betrekking tot het standaardmodel en de omvang, de inhoud en de samenhang van de risicofactoren, bedoeld in het eerste lid, en met betrekking tot de in het tweede en derde lid bedoelde situaties.  
 
-b. een intern model hanteren.     
-3.  Voor de berekening van het vereist eigen vermogen kan een fonds dat zijn risico’s heeft verzekerd bij een verzekeraar, in afwijking van het eerste lid, onderdeel e, en het tweede lid, voor het verzekerde deel het kredietrisico buiten beschouwing laten.  
-4. De Nederlandsche Bank kan nadere regels stellen inzake de scenariomethode indien innovatieve beleggingsinstrumenten daartoe aanleiding geven. 
-5.  Bij ministeriële regeling worden regels gesteld met betrekking tot het standaardmodel en de omvang, de inhoud en de samenhang van de risicofactoren, bedoeld in het eerste lid, en met betrekking tot de in het tweede lid bedoelde situatie.  
+### Paragraaf  4a  
+
+####Beleidsdekkingsgraad
+
+### Artikel  12a  
+
+####Beleidsdekkingsgraad
+
+1.  De vaststelling van de beleidsdekkingsgraad vindt plaats per het einde van een kalendermaand.   
+2.  De berekening van de beleidsdekkingsgraad wordt gebaseerd op de dekkingsgraden per het einde van elk van de twaalf kalendermaanden voorafgaand aan het moment van vaststelling.  
 
 ### Paragraaf  5  
 
@@ -210,13 +236,11 @@ b. een intern model hanteren.
 3.  De waarden worden hoofdzakelijk op gereglementeerde markten belegd. Beleggingen in niet tot de handel op een gereglementeerde financiële markt toegelaten waarden worden tot een prudent niveau beperkt.   
 4.  Beleggingen in derivaten zijn toegestaan voor zover deze bijdragen aan een vermindering van het risicoprofiel of een doeltreffend portefeuillebeheer vergemakkelijken. Het fonds vermijdt een bovenmatig risico met betrekking tot een en dezelfde tegenpartij en tot andere derivatenverrichtingen.   
 5.  De waarden worden naar behoren gediversifieerd zodat een bovenmatige afhankelijkheid van of vertrouwen in bepaalde waarden, of een bepaalde emittent van waarden of groep van ondernemingen en risicoaccumulatie in de portefeuille als geheel worden vermeden.   
-6.  Onder waardering op marktwaarde als bedoeld in artikel 135, eerste lid, onder c, van de Pensioenwet en artikel 130, eerste lid, onder b, van de Wet verplichte beroepspensioenregeling wordt verstaan: het bedrag waarvoor een actief kan worden verhandeld of een passief kan worden afgewikkeld tussen terzake goed geïnformeerde partijen, die tot een transactie bereid en onafhankelijk van elkaar zijn. Bij de waardering van een vordering van een fonds op een verzekeraar uit hoofde van een verzekering als bedoeld in artikel 12, derde lid, kan het kredietrisico op die verzekeraar buiten beschouwing worden gelaten.  
+6.  Onder waardering op marktwaarde als bedoeld in artikel 135, eerste lid, onder c, van de Pensioenwet en artikel 130, eerste lid, onder b, van de Wet verplichte beroepspensioenregeling wordt verstaan: het bedrag waarvoor een actief kan worden verhandeld of een passief kan worden afgewikkeld tussen terzake goed geïnformeerde partijen, die tot een transactie bereid en onafhankelijk van elkaar zijn. Bij de waardering van een vordering van een fonds op een verzekeraar uit hoofde van een verzekering als bedoeld in artikel 12, vierde lid, kan het kredietrisico op die verzekeraar buiten beschouwing worden gelaten.  
 
 ### Artikel  13a  
 
 ####Beleggingsbeleid
-
-Treedt in werking per 01-01-2015 
 
 1.  Een fonds stelt voor de langere termijn een strategisch beleggingsbeleid vast dat aansluit op de doelstellingen en beleidsuitgangspunten, waaronder de risicohouding, van het fonds en is gebaseerd op gedegen onderzoek.   
 2.  Het strategisch beleggingsbeleid bevat in ieder geval een beschrijving van de beleggingsdoelstelling, de samenstelling van de beoogde beleggingsportefeuille en de mate waarin van de beoogde beleggingsportefeuille kan worden afgeweken.   
@@ -233,53 +257,38 @@ Treedt in werking per 01-01-2015
 
 ### Paragraaf  6  
 
-####Voorwaardelijke toeslagverlening en financiering
+####Voorwaardelijke toeslagverlening
 
 ### Artikel  15  
 
-####Technische voorzieningen in het kader van voorwaardelijke toeslagverlening
+####Voorwaardelijke toeslagverlening
 
-Indien een fonds een technische voorziening vormt voor de financiering van de voorwaardelijke toeslagverlening wordt de hoogte van de technische voorziening vastgesteld overeenkomstig artikel 2. 
+1.  Een fonds stelt beleid vast met betrekking tot voorwaardelijke toeslagverlening waarin is vastgelegd of en zo ja, in welke mate, toeslagverlening wordt beoogd. Indien sprake is van toeslagverlening op basis van een maatstaf als lonen, prijzen of een vast percentage van de pensioenaanspraken of pensioenrechten wordt deze maatstaf weergegeven. Verder wordt een beschrijving opgenomen van de methodiek die wordt gehanteerd bij incidentele toeslagverlening om in het verleden niet toegekende toeslag of in het verleden doorgevoerde vermindering van pensioenaanspraken en pensioenrechten te compenseren.   
+2.  De beleidsdekkingsgraad waaronder geen toeslag wordt verleend, bedoeld in artikel 137, tweede lid, onderdeel a, van de Pensioenwet dan wel artikel 132, tweede lid, onderdeel a, van de Wet verplichte beroepspensioenregeling, is 110%.   
+3.  Voor de toepassing van artikel 137, tweede lid, onderdeel b, van de Pensioenwet dan wel artikel 132, tweede lid, onderdeel b, van de Wet verplichte beroepspensioenregeling wordt de volgende rekenregel toegepast. Eerst wordt de omvang van het voor toeslagverlening beschikbare vermogen boven de beleidsdekkingsgraad van 110%, bedoeld in het tweede lid, bepaald. Vervolgens wordt de hoogte van de toeslag zodanig bepaald dat wanneer deze jaarlijks wordt toegekend de contante waarde van alle toeslagen maximaal gelijk is aan de hoogte van dit vermogen. De hierbij gehanteerde discontovoet is maximaal gelijk aan het verwachte bruto rendement op aandelen, bedoeld in artikel 23a, eerste lid, onderdeel b, verminderd met de uniforme kostenafslag voor beleggingskosten, bedoeld in artikel 23a, eerste lid, onderdeel b.   
+4.  Een fonds dat een op de groeivoeten van het prijs- of loonindexcijfer gebaseerde maatstaf hanteert voor voorwaardelijke toeslagverlening stelt de op grond van de rekenregel in het derde lid berekende toeslag vast als percentage van de maatstaf en past voor de bepaling van de hoogte van de toeslagverlening dit percentage toe op de voor het betreffende jaar relevante gerealiseerde waarde van de maatstaf voor toeslagverlening.   
+5.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot dit artikel.  
 
 ### Paragraaf  7  
 
 ####Herstelplannen
 
-### Paragraaf  7.1  
-
-####Langetermijnherstelplan
-
 ### Artikel  16  
 
-#### *Langetermijnherstelplan* 
+####Herstelplan
 
-1.  Het langetermijnherstelplan, bedoeld in artikel 138 van de Pensioenwet of artikel 133 van de Wet verplichte beroepspensioenregeling, bevat in ieder geval een beschrijving van: 
+1.  Het herstelplan, bedoeld in artikel 138 van de Pensioenwet of artikel 133 van de Wet verplichte beroepspensioenregeling, bevat in ieder geval een beschrijving van: 
 
-a. de oorzaak van het niet meer of niet zullen voldoen aan de bij of krachtens artikel 132 van de Pensioenwet of artikel 127 van de Wet verplichte beroepspensioenregeling gestelde vereisten ten aanzien van het vereist eigen vermogen;  
+a. de oorzaak van het, gezien de beleidsdekkingsgraad, niet meer voldoen aan de bij of krachtens artikel 132 van de Pensioenwet of artikel 127 van de Wet verplichte beroepspensioenregeling gestelde vereisten ten aanzien van het vereist eigen vermogen;  
 
 b. de voorziene ontwikkeling van de technische voorzieningen en de waarden;  
 
-c. de concrete maatregelen waardoor het vereist eigen vermogen binnen maximaal vijftien jaar op het vereiste niveau komt, waarbij rekening wordt gehouden met de naar verwachting toe te kennen toeslagverlening en de overige verplichtingen van het fonds;   en is ten aanzien van de onderdelen b en c gebaseerd op een recente continuïteitsanalyse als bedoeld in artikel 22.   
-2.  De in het eerste lid, onder c, bedoelde maatregelen mogen er niet toe leiden dat het risico dat niet wordt voldaan aan de in het eerste lid, onder a, genoemde vereisten ten aanzien van het vereist eigen vermogen, doelbewust wordt vergroot ten opzichte van de situatie waarin wel werd voldaan aan de in artikel 132 van de Pensioenwet of artikel 127 van de Wet verplichte beroepspensioenregeling opgenomen vereisten.   
-3.  Een herstelplan vertoont ex ante een gestaag herstel.  
-
-### Paragraaf  7.2  
-
-####Kortetermijnherstelplan
-
-### Artikel  17  
-
-#### *Kortetermijnherstelplan* 
-
-Het kortetermijnherstelplan, bedoeld in artikel 140 van de Pensioenwet of artikel 135 van de Wet verplichte beroepspensioenregeling, bevat in ieder geval: 
-
-a. een beschrijving van de oorzaak van het niet meer of niet zullen voldoen aan de bij of krachtens artikel 131 van de Pensioenwet of artikel 126 van de Wet verplichte beroepspensioenregeling gestelde vereisten ten aanzien van het minimaal vereist eigen vermogen;  
-
-b. een beschrijving van de voorziene ontwikkeling van de technische voorzieningen en de waarden;  
-
-c. een beschrijving van de concrete maatregelen waardoor het minimaal vereist eigen vermogen binnen maximaal drie jaren op het vereiste niveau komt, waarbij rekening wordt gehouden met de verplichtingen van het fonds; en  
-
-d. uitsluitsel of is voldaan aan de criteria in artikel 140 van de Pensioenwet of artikel 135 van de Wet verplichte beroepspensioenregeling.   
+c. de concrete maatregelen waardoor, gezien de beleidsdekkingsgraad, het eigen vermogen binnen de looptijd van het herstelplan op het vereiste niveau komt, waarbij rekening wordt gehouden met de naar verwachting toe te kennen toeslagverlening en de overige verplichtingen van het fonds.     
+2.  Het herstelplan is ten aanzien van het eerste lid, onderdelen b en c, gebaseerd op een deterministische analyse op basis van een dekkingsgraadsjabloon.   
+3.  Bij het indienen van het herstelplan onderbouwt het fonds waarom vanuit het belang van deelnemers, gewezen deelnemers, andere aanspraakgerechtigden en pensioengerechtigden een bepaalde looptijd van het herstelplan is gekozen.  
+4.  De in het eerste lid, onder c, bedoelde maatregelen mogen er niet toe leiden dat het risico dat niet wordt voldaan aan de in het eerste lid, onder a, genoemde vereisten ten aanzien van het vereist eigen vermogen, doelbewust wordt vergroot ten opzichte van de situatie waarin wel werd voldaan aan de in artikel 132 van de Pensioenwet of artikel 127 van de Wet verplichte beroepspensioenregeling opgenomen vereisten.   
+5.  Het vierde lid is van overeenkomstige toepassing in de periode tussen het moment dat het fonds vaststelt dat niet wordt voldaan aan de in het eerste lid, onderdeel a, genoemde vereisten ten aanzien van het vereist eigen vermogen en de ingangsdatum van het herstelplan.   
+6.  Bij ministeriële regeling kunnen regels worden gesteld met betrekking tot dit artikel. 
 
 ### Paragraaf  8  
 
@@ -289,7 +298,9 @@ d. uitsluitsel of is voldaan aan de criteria in artikel 140 van de Pensioenwet o
 
 ####Beheerste bedrijfsvoering
 
-Een fonds beschikt over goede administratieve en boekhoudkundige procedures en adequate interne controlemechanismen, stelt beleid op ten aanzien van de beheersing van te lopen risico’s en draagt zorg voor de uitvoering van dat beleid. 
+1. Een fonds beschikt over goede administratieve en boekhoudkundige procedures en adequate interne controlemechanismen, stelt beleid op ten aanzien van de beheersing van te lopen risico’s en draagt zorg voor de uitvoering van dat beleid.  
+2.  Een fonds legt een duidelijke organisatiestructuur vast met betrekking tot het bepalen en uitvoeren van het beleggingsbeleid. Bij deze organisatiestructuur wordt in ieder geval het risicobeheer vorm gegeven en waarborgt het fonds een zorgvuldig en transparant besluitvormingsproces. Het risicobeheer is adequaat en onafhankelijk.   
+3.  Een fonds draagt er zorg voor dat er een balans is tussen omvang, aard en complexiteit van de beleggingsportefeuille enerzijds en de aanwezige kennis en ervaring en het risicobeheer anderzijds. 
 
 ### Artikel  19  
 
@@ -300,8 +311,6 @@ Een fonds draagt zorg voor een systematische analyse van integriteitrisico’s e
 ### Artikel  19a  
 
 ####Incidenten
-
-Treedt in werking per 01-01-2015 
 
 1.  Een fonds beschikt over procedures en maatregelen met betrekking tot de omgang met en vastlegging van incidenten.   
 2.  Onder een incident als bedoeld in dit artikel wordt verstaan: een gedraging of gebeurtenis die een ernstig gevaar vormt voor de integere uitoefening van het bedrijf van een fonds.   
@@ -347,12 +356,24 @@ Een fonds draagt er zorg voor dat voor de beoordeling van de kredietwaardigheid 
 
 ### Artikel  22  
 
-####Continuïteitsanalyse
+####Haalbaarheidstoets
 
-1.  Een fonds voert ten minste eens in de drie jaar een continuïteitsanalyse uit waarbij met een stochastische benaderingswijze wordt bezien of het fonds aan haar verplichtingen op de lange termijn kan voldoen. De continuïteitsanalyse biedt tevens inzicht in de mate waarin de voorwaardelijke toeslagverlening naar verwachting kan worden toegekend.   
-2.  Indien naar de mening van De Nederlandsche Bank sprake is van aanzienlijke wijzigingen in de huidige of verwachte financiële positie van het fonds, voert het fonds tussentijds een extra continuïteitsanalyse uit.   
-3.  De continuïteitsanalyse omvat 15 prognosejaren, gerekend vanaf de rapportagedatum. Het fonds heeft voorbij deze tijdhorizon van 15 prognosejaren een kwalitatief beeld van de verwachtingen, risico’s en het beleid.   
-4.  Bij of krachtens ministeriële regeling worden regels gesteld met betrekking tot de continuïteitsanalyse.  
+1.  Een fonds voert periodiek een haalbaarheidstoets uit die op basis van een stochastische analyse inzicht geeft in de samenhang tussen de financiële opzet, het verwachte pensioenresultaat en de risico’s die daarbij gelden. Er is een aanvangshaalbaarheidstoets en een jaarlijkse haalbaarheidstoets.   
+2.  Een fonds voert een aanvangshaalbaarheidstoets uit bij uitvoering van een nieuwe pensioenregeling en bij significante wijzigingen.   
+3.  De aanvangshaalbaarheidstoets laat zien: 
+
+a. dat het verwachte pensioenresultaat op fondsniveau boven de door het fonds te kiezen ondergrens voor dit pensioenresultaat blijft;  
+
+b. dat het premiebeleid over de gehele berekeningshorizon voldoende realistisch en haalbaar is;  
+
+c. dat het fonds voldoende herstelcapaciteit heeft om naar verwachting vanuit de situatie dat aan de vereisten voor het minimaal vereist eigen vermogen wordt voldaan, binnen de looptijd van het herstelplan aan de vereisten voor het vereist eigen vermogen te voldoen; en  
+
+d. dat het pensioenresultaat op fondsniveau in het slechtweerscenario niet teveel afwijkt van het verwachte pensioenresultaat op fondsniveau, waarbij het fonds hiervoor de maximale afwijking vaststelt.     
+4.  De toetsing van het derde lid, onderdelen a, b, en d, wordt gedaan vanuit de feitelijke financiële positie van het fonds. De toetsing van het derde lid, onderdelen a en b wordt ook gedaan vanuit een dekkingsgraad waarbij aan de vereisten van het vereist eigen vermogen wordt voldaan.   
+5.  Bij de jaarlijkse haalbaarheidstoets wordt vanuit de feitelijke financiële positie van een fonds beoordeeld in hoeverre wordt voldaan aan het derde lid, onderdelen a en d, op basis van de bij de laatste aanvangshaalbaarheidstoets door het fonds gekozen normering bij deze onderdelen.   
+6.  Indien bij de jaarlijkse haalbaarheidstoets blijkt dat niet wordt voldaan aan het derde lid, onderdeel a of d, treedt het fonds in overleg met de vertegenwoordigers, bedoeld in artikel 102a, eerste lid, van de Pensioenwet dan wel artikel 109a, eerste lid, van de Wet verplichte beroepspensioenregeling, om te bezien of maatregelen genomen moeten worden.   
+7.  De haalbaarheidstoets omvat een aantal prognosejaren, gerekend vanaf de rapportagedatum en werkt met de scenariosets, bedoeld in artikel 23b.   
+8.  Bij ministeriele regeling kunnen regels worden gesteld over de haalbaarheidstoets. 
 
 ### Paragraaf  8a  
 
@@ -366,33 +387,66 @@ Een fonds draagt er zorg voor dat voor de beoordeling van de kredietwaardigheid 
 2.  De commissie heeft tot taak Onze Minister over iedere voorgenomen wijziging van de regels, die bij algemene maatregel van bestuur worden gesteld op grond van artikel 144 van de Pensioenwet of artikel 139 van de Wet verplichte beroepspensioenregeling, haar oordeel te geven voordat daartoe een voordracht als bedoeld in genoemde artikelen wordt gedaan.   
 3.  Onze Minister kan regels stellen met betrekking tot de benoeming en het ontslag van de leden en de werkwijze van de commissie.  
 
+### Artikel  23a  
+
+####Parameters vanaf 2015
+
+1.  Een fonds gaat voor de berekeningen, bedoeld in de artikelen 126, 128, 138, 139, 140 en 143 van de Pensioenwet en de artikelen 121, 123, 133, 134, 135 en 138 van de Wet verplichte beroepspensioenregeling, uit van: 
+
+a. minimale verwachtingswaarden voor de groeivoeten van het prijs- en loonindexcijfer van 2% respectievelijk 2,5% per jaar;  
+
+b. een verwacht bruto meetkundig rendement op beursgenoteerde aandelen van maximaal 7% met daarbij een uniforme kostenafslag voor beleggingskosten van 25 basispunten en een standaarddeviatie van 20%;  
+
+c. een verwacht bruto meetkundig rendement op overige zakelijke waarden van maximaal 7,5% met daarbij een uniforme kostenafslag van 25 basispunten en een standaarddeviatie van 25%;  
+
+d. een verwacht bruto meetkundig rendement op grondstoffen van maximaal 5% met daarbij een uniforme kostenafslag van 40 basispunten en een standaarddeviatie van 20%;  
+
+e. een verwacht bruto meetkundig rendement op niet beursgenoteerd vastgoed van maximaal 6% met daarbij een uniforme kostenafslag van 80 basispunten en een standaarddeviatie van 15%;  
+
+f. een maximaal verwacht bruto meetkundig rendement op risicovrije vastrentende waarden conform de toekomstige rentetermijnstructuur met daarbij een uniforme kostenafslag van 15 basispunten en een standaarddeviatie van 8% daarbij rekening houdend met de looptijd van de vastrentende waarden; en  
+
+g. een maximaal verwacht meetkundig rendement voor vastrentende waarden met kredietrisico als een combinatie van het rendement op kredietrisicovrije vastrentende waarden en het rendement op aandelen op basis van de tabel, bedoeld in het vijfde lid, met daarbij een uniforme kostenafslag en een standaarddeviatie eveneens gebaseerd op deze tabel.     
+2.  In afwijking van het eerste lid, onderdeel a, bedragen de minimale verwachtingswaarden voor de groeivoeten van het prijs- en loonindexcijfer voor het: 
+
+a. jaar van vaststelling: het prijs- en loonindexcijfer op basis van de meest recente gegevens van het Centraal Bureau voor de Statistiek van het voorgaande jaar waarbij, indien nog geen gegevens voor het betreffende jaar beschikbaar zijn, het prijs- en loonindexcijfer volgens de raming van het Centraal Planbureau voor het voorgaande jaar gebruikt wordt;  
+
+b. jaar 1: het prijs- en loonindexcijfer op grond van de meest recente door het Centraal Planbureau vastgestelde raming hiervan;  
+
+c. jaar 2: 0,75 x de raming, bedoeld in onderdeel b, + 0,25 x 2% respectievelijk 2,5%;  
+
+d. jaar 3: 0,5 x de raming, bedoeld in onderdeel b, + 0,5 x 2% respectievelijk 2,5%;  
+
+e. jaar 4: 0,25 x de raming, bedoeld in onderdeel b, + 0,75 x 2% respectievelijk 2,5%.   De groeivoeten van het prijs- en loonindexcijfer, bedoeld in onderdeel a en b, worden door De Nederlandsche Bank bekend gemaakt.   
+3.  Een fonds kan na instemming van De Nederlandsche Bank afwijken van de minimale verwachtingswaarden, bedoeld in het tweede lid, indien de specifieke omstandigheden van het fonds dat noodzakelijk maken.   
+4.  De toekomstige rentetermijnstructuur, bedoeld in het eerste lid, onderdeel f, kan worden afgeleid uit de rentetermijnstructuur, bedoeld in artikel 2, tweede lid, waarbij het fonds vanaf jaar t+5 van die toekomstige rentetermijnstructuur gemotiveerd en na toestemming van De Nederlandsche Bank kan afwijken.   
+5.  De tabel, bedoeld in het eerste lid, onderdeel g, luidt als volgt:  
+
+|  *Rating*   |  *Gewicht vastrentende waarden*   |  *Gewicht aandelen*   |
+|:---|:---|:---|
+| AAA  | 100%  | 0%  |
+| AA  | 90%  | 10%  |
+| A  | 85%  | 15%  |
+| BBB  | 80%  | 20%  |
+| High Yield  | 40%  | 60%  |
+
+6.  Voor het omrekenen van rendementen naar het portefeuillerendement wordt gebruik gemaakt van onderstaande tabel met correlatieparameters. Voor de omrekening van het meetkundig naar het rekenkundig gemiddelde geldt de formule: rekenkundig gemiddelde = meetkundig gemiddelde + ½ σ<sup>2</sup>:  
+
+|  *Categorie*   |  *1*   |  *2*   |  *3*   |  *4*   |  *5*   |  *6*   |  *7*   |  *8*   |
+|:---|:---|:---|:---|:---|:---|:---|:---|:---|
+|  *1 Vastrentende waarden*   | 1  | 0  | 0  | 0  | ½  | ½  | ½  | ½  |
+|  *2 Aandelen ontwikkelde markten inclusief beursgenoteerd vastgoed*   | --- | 1  | ¾  | ¾  | ½  | ½  | ½  | ½  |
+|  *3 Aandelen niet-beursgenoteerd*   | --- | --- | 1  | ¾  | ½  | ½  | ½  | ½  |
+|  *4 Aandelen opkomende markten*   | --- | --- | --- | 1  | ½  | ½  | ½  | ½  |
+|  *5 Niet beurs-genoteerd vastgoed*   | --- | --- | --- | --- | 1  | ½  | ½  | ½  |
+| 6* Grondstoffen*   | --- | --- | --- | --- | --- | 1  | ½  | ½  |
+|  *7 Hedge funds*   | --- | --- | --- | --- | --- | --- | 1  | ½  |
+|  *8 Overig*   | --- | --- | --- | --- | --- | --- | --- | 1  |
+
 ### Artikel  23b  
 
-####Parameters vanaf 2012
+####Scenariosets
 
-1.  Vanaf 1 januari 2012 gaat een fonds voor de berekeningen, bedoeld in de artikelen 126, 128, 138, 140 en 143 van de Pensioenwet dan wel de artikelen 121, 123, 133, 135 en 138 van de Wet verplichte beroepspensioenregeling, uit van: 
-
-a. minimale verwachtingswaarden voor de groeivoeten van het loon- en prijsindexcijfer van 3% respectievelijk 2% per jaar;  
-
-b. een maximaal verwacht rendement op vastrentende waarden van 4,5% per jaar;  
-
-c. een verwacht rendement op beursgenoteerde aandelen en indirect onroerend goed met een rekenkundig gemiddelde van maximaal 8,5% per jaar en een meetkundig gemiddelde van maximaal 7% per jaar;  
-
-d. een verwacht rendement op overige zakelijke waarden met een rekenkundig gemiddelde van maximaal 9% per jaar en een meetkundig gemiddelde van maximaal 7,5% per jaar;  
-
-e. een verwacht rendement op direct onroerend goed en grondstoffen met een rekenkundig gemiddelde van maximaal 7,5% per jaar en een meetkundig gemiddelde van maximaal 6% per jaar; en  
-
-f. de toekomstige rentetermijnstructuur voor de disconteringsvoet in de continuïteitsanalyse.     
-2.  Een fonds kan na instemming van De Nederlandsche Bank afwijken van de minimale verwachtingswaarden, bedoeld in het eerste lid, onderdeel a, indien de specifieke omstandigheden van het fonds dat noodzakelijk maken.   
-3.  De toekomstige rentetermijnstructuur, bedoeld in het eerste lid, onderdeel f, kan worden afgeleid uit de rentetermijnstructuur, bedoeld in artikel 2, tweede lid, waarbij het fonds vanaf jaar t+5 van die toekomstige rentetermijnstructuur gemotiveerd en na toestemming van De Nederlandsche Bank kan afwijken.   
-4.  De rendementscijfers, bedoeld in het eerste lid, betreffen bruto cijfers, voor aftrek van beleggingskosten.  
-
-### Artikel  23c  
-
-####Overgangsbepaling wijziging parameters en herstelplannen
-
-1.  Bij een herstelplan als bedoeld in artikel 138 en 140 van de Pensioenwet of artikel 133 en 135 van de Wet verplichte beroepspensioenregeling waarmee De Nederlandsche Bank heeft ingestemd, is het feit dat de uitkomst van berekeningen in het kader van dat herstelplan en het daarin opgenomen beleid wijzigt omdat gebruik wordt gemaakt van na de vaststelling van het herstelplan gewijzigde regels als bedoeld in artikel 144, eerste lid, van de Pensioenwet of artikel 139, eerste lid, van de Wet verplichte beroepspensioenregeling, als zodanig geen aanleiding voor herziening van het herstelplan.   
-2.  In afwijking van het eerste lid kan bij berekeningen ten aanzien van de consistentie, bedoeld in artikel 95, eerste lid, van de Pensioenwet of artikel 103, eerste lid, van de Wet verplichte beroepspensioenregeling, het feit dat de uitkomst van berekeningen wijzigt als bedoeld in het eerste lid, als zodanig wel aanleiding zijn tot herziening van het in het herstelplan, bedoeld in het eerste lid, opgenomen beleid omtrent voorwaardelijke toeslagverlening, nadat de maximale looptijd die geldt voor het kortetermijnherstelplan is verstreken.  
+Fondsen gebruiken voor de haalbaarheidstoets uniforme scenariosets die door De Nederlandsche Bank beschikbaar worden gesteld. 
 
 ### Paragraaf  9  
 
@@ -404,27 +458,31 @@ f. de toekomstige rentetermijnstructuur voor de disconteringsvoet in de continu�
 
 De actuariële en bedrijfstechnische nota, bedoeld in artikel 145 van de Pensioenwet of artikel 140 van de Wet verplichte beroepspensioenregeling, bevat in ieder geval een beschrijving van: 
 
-a. de hoofdlijnen van het interne beheersingssysteem, zoals voorgeschreven bij of krachtens artikel 143 van de Pensioenwet of de artikelen 42 en 138 van de Wet verplichte beroepspensioenregeling, en van de opzet van de administratieve organisatie en interne controle, bedoeld in artikel 18;  
+a. de hoofdlijnen van het interne beheersingssysteem, zoals voorgeschreven bij of krachtens artikel 143 van de Pensioenwet of artikel 138 van de Wet verplichte beroepspensioenregeling, en van de opzet van de administratieve organisatie en interne controle, bedoeld in artikel 18, eerste lid;  
 
 b. voor zover van toepassing procedures en criteria voor de aansluiting van werkgevers bij het betreffende fonds en voor het verkrijgen van het deelnemerschap van hun werknemers;  
 
 c. de hoofdlijnen van de uitvoeringsovereenkomst dan wel het uitvoeringsreglement;  
 
-d. de hoofdlijnen van de reeds verworven en nog te verwerven pensioenaanspraken en -rechten die voor de deelnemers, gewezen deelnemers, gepensioneerden of andere aanspraakgerechtigden voortvloeien uit het pensioenreglement;  
+d. de hoofdlijnen van de reeds verworven en nog te verwerven pensioenaanspraken en -rechten die voor de deelnemers, gewezen deelnemers, pensioengerechtigden of andere aanspraakgerechtigden voortvloeien uit het pensioenreglement;  
 
 e. de uit het pensioenreglement en de uitvoeringsovereenkomst dan wel het uitvoeringsreglement voortvloeiende risico’s die in eigen beheer zijn gehouden dan wel zijn verzekerd of overgedragen;  
 
-f. de financiële opzet;  
+f. de risicohouding;  
 
-g. de financiële sturingsmiddelen; en  
+g. de kwantitatieve normen die gehanteerd worden ten behoeve van de haalbaarheidstoets; 
 
-h. de systematiek van de vaststelling van de parameters, zoals die op grond van artikel 144 van de Pensioenwet en artikel 139 van de Wet verplichte beroepspensioenregeling worden vastgesteld.   
+h. de financiële opzet;  
+
+i. de financiële sturingsmiddelen; en  
+
+j. de systematiek van de vaststelling van de parameters, zoals die op grond van artikel 144 van de Pensioenwet en artikel 139 van de Wet verplichte beroepspensioenregeling worden vastgesteld.   
 
 ### Artikel  25  
 
 ####De financiële opzet
 
-1.  De beschrijving van de financiële opzet, bedoeld in artikel 24, onder f, bevat in ieder geval een beschrijving van de wijze waarop wordt voldaan aan de vereisten ten aanzien van: 
+1.  De beschrijving van de financiële opzet, bedoeld in artikel 24, onderdeel h, bevat in ieder geval een beschrijving van de wijze waarop wordt voldaan aan de vereisten ten aanzien van: 
 
 a. de technische voorzieningen, het minimaal vereist eigen vermogen en het vereist eigen vermogen, bedoeld in de artikelen 126, 131 en 132 van de Pensioenwet of de artikelen 121, 126 en 127 van de Wet verplichte beroepspensioenregeling;  
 
@@ -432,28 +490,31 @@ b. het premiebeleid, bedoeld in de artikelen 128 en 129 van de Pensioenwet of de
 
 c. het beleggingsbeleid en het aangaan van leningen, bedoeld in de artikelen 135 en 136 van de Pensioenwet of de artikelen 130 en 131 van de Wet verplichte beroepspensioenregeling;  
 
-d. de financiering van voorwaardelijke toeslagverlening, bedoeld in de artikelen 95 en 137 van de Pensioenwet of de artikelen 103 en 132 van de Wet verplichte beroepspensioenregeling.     
-2.  Bij de beschrijving, bedoeld in het eerste lid, wordt rekening gehouden met de overige verplichtingen van het fonds.  
+d. het beleid inzake voorwaardelijke toeslagverlening, bedoeld in artikel 137 van de Pensioenwet dan wel artikel 132 van de Wet verplichte beroepspensioenregeling.     
+2.  Bij de beschrijving, bedoeld in het eerste lid, wordt rekening gehouden met de overige verplichtingen van het fonds.   
+3.  De beschrijving van de financiële opzet bevat tevens een beschrijving van de organisatiestructuur met betrekking tot het bepalen en uitvoeren van het beleggingsbeleid, bedoeld in artikel 18, tweede lid. 
 
 ### Artikel  26  
 
 ####De financiële sturingsmiddelen
 
-De beschrijving van de financiële sturingsmiddelen, bedoeld in artikel 24, onder g, bevat in ieder geval een beschrijving van de inzetbaarheid van de sturingsmogelijkheden van het fonds ten aanzien van het premiebeleid, het beleggingsbeleid en het beleid met betrekking tot de aanpassingen van de aanspraken en inzake voorwaardelijke toeslagverlening. Daarbij wordt aangegeven welke effecten met de genoemde sturingsmiddelen worden bereikt. 
+De beschrijving van de financiële sturingsmiddelen, bedoeld in artikel 24, onderdeel i, bevat in ieder geval een beschrijving van de inzetbaarheid van de sturingsmogelijkheden van het fonds ten aanzien van het premiebeleid, het beleggingsbeleid en het beleid met betrekking tot de aanpassingen van de aanspraken en inzake voorwaardelijke toeslagverlening. Daarbij wordt aangegeven welke effecten met de genoemde sturingsmiddelen worden bereikt. 
 
 ### Artikel  27  
 
 ####Het beleggingsbeleid
 
-De beschrijving van het beleggingsbeleid, bedoeld in artikel 25, onder c, bevat in ieder geval een beschrijving van: 
+De beschrijving van het beleggingsbeleid, bedoeld in artikel 25, eerste lid, onderdeel c, bevat in ieder geval een beschrijving van: 
 
-a. het strategisch beleggingsbeleid, waarin opgenomen een beschrijving van de beleggingsdoelstelling, de samenstelling van de beoogde beleggingsportefeuille alsmede de mate waarin van de beoogde beleggingsportefeuille mag worden afgeweken;  
+a. het strategisch beleggingsbeleid en het beleggingsplan;  
 
-b. de opzet van de uitvoering van de vermogensbeheeractiviteiten;  
+b.  de cyclus voor het beleggingsbeleid; 
 
-c. de wijze van risicometing en -beheersing, met name van marktrisico’s en kredietrisico’s; en  
+c. de opzet van de uitvoering van de vermogensbeheeractiviteiten;  
 
-d. de opzet van de resultaatsevaluatie met betrekking tot de onderwerpen genoemd onder a, b en c.   
+d. de wijze van risicometing en -beheersing, met name van marktrisico’s en kredietrisico’s; en  
+
+e. de opzet van de resultaatsevaluatie met betrekking tot de onderwerpen genoemd onder a, c en d.   
 
 ### Artikel  28  
 
@@ -465,21 +526,17 @@ Voor zover risico’s zijn overgedragen of verzekerd kunnen de beschrijvingen, b
 
 ####Uitgangspunten oordeelsvorming De Nederlandsche Bank
 
-De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond van de artikelen 24 tot en met 28 zijn zodanig dat De Nederlandsche Bank op basis van die beschrijvingen tot een oordeel kan komen over de wijze waarop voldaan wordt aan de artikelen 25, 95, 126 tot en met 137 en 143 van de Pensioenwet of de artikelen 35, 103, 121 tot en met 132 en 138 van de Wet verplichte beroepspensioenregeling. 
+De beschrijvingen die de actuariële en bedrijfstechnische nota bevat op grond van de artikelen 24 tot en met 28 zijn zodanig dat De Nederlandsche Bank op basis van die beschrijvingen tot een oordeel kan komen over de wijze waarop voldaan wordt aan de artikelen 25, 126 tot en met 137 en 143 van de Pensioenwet of de artikelen 35, 121 tot en met 132 en 138 van de Wet verplichte beroepspensioenregeling. 
 
 ### Artikel  29a  
 
 ####Verklaring inzake beleggingsbeginselen
-
-Treedt in werking per 01-01-2015 
 
 De verklaring inzake beleggingsbeginselen, bedoeld in artikel 145, eerste lid, van de Pensioenwet dan wel artikel 140, eerste lid, van de Wet verplichte beroepspensioenregeling, omvat in ieder geval onderwerpen als de strategische allocatie van activa in het licht van de aard en de looptijd van de pensioenverplichtingen, de toegepaste wegingmethoden voor beleggingsrisico’s, de risicohouding, het gevoerde risicoprofiel en de risicobeheerprocedures. 
 
 ### Artikel  29b  
 
 ####Financieel crisisplan
-
-Treedt in werking per 01-01-2015 
 
 Een financieel crisisplan als bedoeld in artikel 145, tweede lid, van de Pensioenwet dan wel artikel 140, tweede lid, van de Wet verplichte beroepspensioenregeling omvat in ieder geval: 
 
@@ -523,11 +580,9 @@ a. het fonds en zijn organisatie met betrekking tot:
 
 8°. het interne toezicht;  
 
-9°. de deelnemersraad;  
+9°. het belanghebbendenorgaan; en  
 
-10°. het belanghebbendenorgaan; en  
-
-11°. het bestuursmodel;   
+10°. het bestuursmodel;   
 
 b. een bestuursverslag;  
 
@@ -555,7 +610,7 @@ d. de financiële relaties en transacties van het fonds met:
 
 e. een rekening van baten en lasten met specificatie van de posten;  
 
-f. de dekkingsgraad;  
+f. de dekkingsgraad, de beleidsdekkingsgraad en de reële dekkingsgraad;  
 
 g. toetsing van het eigen vermogen: 
 
@@ -573,11 +628,9 @@ h. actuariële staten:
 
 2°. premiespecificatie garantiecontract;  
 
-3°. indexatiegegevens;  
+3°. actuarieel verslag; en  
 
-4°. actuarieel verslag; en  
-
-5°. een analyse van het saldo van baten en lasten;    
+4°. een analyse van het saldo van baten en lasten;    
 
 i. het deelnemersbestand inzake: 
 
@@ -591,7 +644,7 @@ j. de door het fonds uitgevoerde pensioenregeling met betrekking tot:
 
 2°. het aantal deelnemers;    
 
-k. premiegegevens over het nieuwe jaar, tenzij sprake is van een gesloten fonds;  
+k. specificatie van premiegegevens, tenzij sprake is van een gesloten fonds;  
 
 l. verzekering, met betrekking tot: 
 
@@ -603,13 +656,19 @@ l. verzekering, met betrekking tot:
 
 m. verplichtingen van het fonds voor risico van de deelnemers;  
 
-n. uitvoering van een VUT-regeling;  
+n. informatie over een herstelplan;  
 
-o. uitvoering van een inkoopregeling als bedoeld in het Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004;  
+o. informatie over de haalbaarheidstoets;  
 
-p. toepassing van een herstelplan, met betrekking tot de situatie per 31 december van het verslagjaar;  
+p. informatie over toeslagverlening;  
 
-q. een besluit tot wijziging van een pensioenregeling in de verslagperiode met betrekking tot de kenmerken van de pensioenregeling.     
+q. informatie over vermindering van pensioenaanspraken en pensioenrechten; 
+
+r. uitvoering van een VUT-regeling;  
+
+s. uitvoering van een inkoopregeling als bedoeld in het Uitvoeringsbesluit pensioenaspecten Sociaal Akkoord 2004;  
+
+t. een besluit tot wijziging van een pensioenregeling in de verslagperiode met betrekking tot de kenmerken van de pensioenregeling.     
 2.  Het fonds verstrekt in geval van wijzigingen tevens informatie over: 
 
 a. de door het fonds uitgevoerde pensioenregeling of pensioenregelingen;  
@@ -642,7 +701,7 @@ e. de afronding;
 
 f. de termijn waarbinnen de gegevens worden verstrekt; deze is niet korter dan noodzakelijk voor de uitoefening van het toezicht op de naleving van de Pensioenwet en de Wet verplichte beroepspensioenregeling; en  
 
-g. de frequentie waarmee de gegevens worden verstrekt; deze bedraagt minimaal één maal en maximaal vier maal per jaar.   
+g. de frequentie waarmee de gegevens worden verstrekt; deze bedraagt minimaal één maal en maximaal twaalf maal per jaar.   
 
 ### Artikel  33  
 
@@ -681,6 +740,26 @@ d. de Unie van Beroepspensioenfondsen;   voor zover het gegevens betreft van de 
 ### Paragraaf  11  
 
 ####Overgangs- en slotbepalingen
+
+### Artikel  35  
+
+####Overgangsrecht beleidsdekkingsgraad
+
+1.  In afwijking van artikel 12a, tweede lid, kan een fonds bij de berekening van de beleidsdekkingsgraad in 2015 de dekkingsgraad per het einde van een kalenderkwartaal in 2014 aanmerken als de dekkingsgraad van de kalendermaanden in dat kwartaal.   
+2.  Dit artikel vervalt met ingang van 1 januari 2016.  
+
+### Artikel  36  
+
+####Eenmalige aanpassing beleggingsbeleid
+
+Een fonds dat op het tijdstip van inwerkingtreding van artikel I, onderdeel P, en artikel II, onderdeel N, van de Wet aanpassing financieel toetsingskader gezien de beleidsdekkingsgraad niet beschikt over het vereist eigen vermogen, kan eenmalig het strategisch beleggingsbeleid aanpassen in afwijking van artikel 16, vierde en vijfde lid, mits ten tijde van de aanpassing gezien de beleidsdekkingsgraad ten minste wordt beschikt over het minimaal vereist eigen vermogen. 
+
+### Artikel  36a  
+
+####Overgangsrecht haalbaarheidstoets
+
+1.  In afwijking van artikel 22, tweede lid, voert een fonds binnen negen maanden na het tijdstip van inwerkingtreding van artikel I, onderdeel U, en artikel II, onderdeel S, van de Wet aanpassing financieel toetsingskader een aanvangshaalbaarheidstoets als bedoeld in artikel 22, eerste lid, uit.   
+2.  Dit artikel vervalt met ingang van 1 januari 2016.  
 
 ### Artikel  37  
 

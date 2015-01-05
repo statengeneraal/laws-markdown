@@ -64,11 +64,7 @@ j. onderneming: een onderneming in de zin van de Wet inkomstenbelasting 2001 of 
 
 k. fiscale eenheid: een eenheid in de zin van de artikelen 15 en 15a van de Wet op de vennootschapsbelasting 1969;   
 
-l. S&O-inhoudingsplichtige:  
-
-1°. een inhoudingsplichtige die tevens een onderneming drijft;   
-
-2°. een inhoudingsplichtige die niet tevens een onderneming drijft, voor zover hij speur- en ontwikkelingswerk verricht krachtens een schriftelijk vastgelegde overeenkomst met en voor rekening van een onderneming, een samenwerkingsverband van degenen die een onderneming drijven of een lichaam als bedoeld in de Wet op de bedrijfsorganisatie;     
+l. S&O-inhoudingsplichtige: een inhoudingsplichtige die tevens een onderneming drijft;  
 
 m. S&O-belastingplichtige: een natuurlijke persoon die voldoet aan het urencriterium, bedoeld in artikel 3.6 van de Wet inkomstenbelasting 2001;   
 

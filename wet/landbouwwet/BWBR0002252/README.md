@@ -18,7 +18,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 a. alle voortbrengselen, welke, al dan niet na be- of verwerking, kunnen dienen als voedsel voor mens of dier, alsmede de bij be- of verwerking van die voortbrengselen verkregen derivaten en afvallen;   
 
-b. de niet reeds onder *a* begrepen voortbrengselen van de landbouw;     *bedrijfslichaam:* een bedrijfslichaam als bedoeld in artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie, ingesteld voor ondernemingen, die in het bedrijfsleven een functie vervullen ten aanzien van enig produkt;   *samenwerkingslichaam:* rechtspersoonlijkheid bezittend lichaam als bedoeld in artikel 110 van de Wet op de Bedrijfsorganisatie.    
+b. de niet reeds onder *a* begrepen voortbrengselen van de landbouw.     
 2.   Voor de toepassing van het bepaalde bij of krachtens deze wet wordt mede verstaan onder:   *handelaren:* tussenpersonen;   *visserij:* de mosselteelt, de oesterteelt en de viskwekerij.   
 
 ### Hoofdstuk  II  
@@ -47,13 +47,6 @@ a. het telen, kweken, fokken, vangen en broeden van produkten;
 b. het bereiden, vervaardigen, oogsten, voorhanden en in voorraad hebben, bewaren, opslaan, be- en verwerken, ge- en verbruiken, vervoederen, slachten, vervoeren, aanvoeren, veilen, ontvangen, afleveren, te koop aanbieden, kopen en vervreemden van produkten.      
 3.   Onze Minister kan in door hem te bepalen gevallen of groepen van gevallen tot gehele of gedeeltelijke restitutie overgaan van hetgeen ingevolge het bepaalde krachtens het eerste lid is betaald en gehele of gedeeltelijke ontheffing verlenen van een krachtens het eerste lid opgelegde verplichting tot het betalen van een geldsom.   
 
-### Artikel  14  
-
-1.  Ter verwezenlijking van de in het eerste lid van artikel 13, onder *a* , vermelde doeleinden kan het bestuur van het betrokken bedrijfslichaam bij verordening de verplichting opleggen tot het betalen van een geldsom ter zake van een of meer der in het tweede lid van dat artikel genoemde gedragingen.    
-2.   In een verordening, als bedoeld in het eerste lid, kan worden bepaald, dat een daarbij aangewezen orgaan van het produktschap of bedrijfschap kan besluiten in door hem te bepalen gevallen of groepen van gevallen tot gehele of gedeeltelijke restitutie over te gaan van hetgeen krachtens de verordening is betaald en gehele of gedeeltelijke ontheffing te verlenen van de bij de verordening opgelegde verplichting tot het betalen van een geldsom.    
-3.   Een verordening, als bedoeld in het eerste lid, behoeft de goedkeuring van Onze Minister; bij de goedkeuring kan worden bepaald, dat krachtens die verordening vast te stellen nadere regelen en te nemen besluiten eveneens zodanige goedkeuring behoeven.    
-4.   Een verordening, als bedoeld in het eerste lid, is verbindend voor een ieder voorzover daarin niet anders is bepaald.   
-
 ### Artikel  15  
 
 Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden kan Onze Minister bij in de *Staatscourant* bekend te maken regeling regelen vaststellen ten aanzien van het verstrekken van een subsidie of andere geldelijke bijdrage aan producenten of groepen van producenten van en aan handelaren of groepen van handelaren in produkten.  
@@ -69,19 +62,19 @@ Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden 
 ### Artikel  18  
 
 1.  Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden kunnen bij of krachtens algemene maatregel van bestuur regelen worden vastgesteld ten aanzien van de in het tweede lid , onder *a*, van dat artikel genoemde gedragingen.    
-2.   Een algemene maatregel van bestuur als bedoeld in het eerste lid, die strekt ter verwezenlijking van de in het eerste lid van artikel 13, onder a, vermelde doeleinden wordt slechts vastgesteld, indien zulks naar Ons oordeel noodzakelijk is in verband met een aan artikel 13, 14, 15 of 17 gegeven toepassing.    
+2.   Een algemene maatregel van bestuur als bedoeld in het eerste lid, die strekt ter verwezenlijking van de in het eerste lid van artikel 13, onder a, vermelde doeleinden wordt slechts vastgesteld, indien zulks naar Ons oordeel noodzakelijk is in verband met een aan artikel 13, 15 of 17 gegeven toepassing.    
 3.   Vervallen.    
 4.   Tegelijk met de afkondiging in het *Staatsblad* van een algemene maatregel van bestuur, als bedoeld in het eerste lid, zendt Onze Minister een toelichting op het besluit aan de Staten-Generaal.   
 
 ### Artikel  19  
 
 1.  Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden kan Onze Minister bij in de *Staatscourant* bekend te maken regeling regelen vaststellen ten aanzien van de in het tweede lid, onder b, van dat artikel genoemde gedragingen.   
-2.   De in het eerste lid bedoelde regelen, die strekken ter verwezenlijking van de in het eerste lid van artikel 13, onder a, vermelde doeleinden, worden slechts vastgesteld, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan artikel 13, 14, 15 of 17 gegeven toepassing.  
+2.   De in het eerste lid bedoelde regelen, die strekken ter verwezenlijking van de in het eerste lid van artikel 13, onder a, vermelde doeleinden, worden slechts vastgesteld, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan artikel 13, 15 of 17 gegeven toepassing.  
 
 ### Artikel  20  
 
 1.  Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden kan Onze Minister bij in de *Staatscourant* bekend te maken regeling regelen vaststellen met betrekking tot het ge- en verbruik van grond- en hulpstoffen en verpakkingsmateriaal voor produkten, alsmede met betrekking tot het voorhanden- en in voorraad hebben, gebruiken en vervoeren van fust en van machines, werktuigen en gereedschappen - alsmede onderdelen daarvan - welke worden gebezigd voor het broeden en bij het bereiden en vervaardigen van produkten.    
-2.   De in het eerste lid bedoelde regelen, die strekken ter verwezenlijking van de in het eerste lid van artikel 13, onder *a* , vermelde doeleinden, worden slechts vastgesteld, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan artikel 18 of 19 gegeven toepassing of in verband met een verordening van een bedrijfslichaam. In het laatste geval worden de regelen slechts vastgesteld op verzoek van het betrokken produktschap of bedrijfschap.   
+2.   De in het eerste lid bedoelde regelen, die strekken ter verwezenlijking van de in het eerste lid van artikel 13, onder a, vermelde doeleinden, worden slechts vastgesteld, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan artikel 18 of 19 gegeven toepassing.  
 
 ### Artikel  21  
 
@@ -90,7 +83,7 @@ Onze Minister kan bij in de *Staatscourant* bekend te maken regeling regelen vas
 ### Artikel  22  
 
 1.  Ter verwezenlijking van de in het eerste lid van artikel 13 vermelde doeleinden kan Onze Minister bij in de *Staatscourant* bekend te maken regeling de verplichting opleggen tot het ter beschikking houden van produkten voor of het inleveren daarvan bij een door hem aan te wijzen natuurlijke of rechtspersoon.   
-2.   Een verplichting, als bedoeld in het eerste lid, die strekt ter verwezenlijking van de in het eerste lid van artikel 13, onder a, vermelde doeleinden, wordt slechts opgelegd, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan artikel 13, 14, 15, 17, 18 of 19 gegeven toepassing of in verband met een verordening van een bedrijfslichaam. In het laatste geval wordt een verplichting slechts opgelegd op verzoek van het betrokken bedrijfslichaam.    
+2.   Een verplichting, als bedoeld in het eerste lid, die strekt ter verwezenlijking van de in het eerste lid van artikel 13, onder a, vermelde doeleinden, wordt slechts opgelegd, indien zulks naar het oordeel van Onze Minister noodzakelijk is in verband met een aan artikel 13, 15, 17, 18 of 19 gegeven toepassing.   
 3.   Voor de ingeleverde produkten wordt door Onze Minister een redelijke vergoeding uitbetaald.    
 4.   Onze Minister kan een geldelijke tegemoetkoming verlenen in de kosten, vallende op het ter beschikking houden van produkten.   
 
@@ -110,23 +103,11 @@ Een tarief als bedoeld in artikel 22a, eerste en tweede lid, wordt zodanig vastg
 
 ### §  2  
 
-####De medewerking van produktschappen en bedrijfschappen 
-
-### Artikel  23  
-
-1.  Onze Minister kan bevoegdheden, welke hem ingevolge het bij of krachtens de artikelen 13, 15, 17, 19, 20, 21, 22, 22a en 26 dan wel bij of krachtens een algemene maatregel van bestuur, als bedoeld in artikel 18 bepaalde toekomen, aan het bestuur van een bedrijfslichaam of een samenwerkingslichaam delegeren.   
-2.  Verordeningen, vastgesteld met gebruikmaking van een overgedragen bevoegdheid behoeven de goedkeuring van Onze Minister. Krachtens de verordening vastgestelde genomen besluiten behoeven, voorzover dit bij de overdracht, bedoeld in het eerste lid, is bepaald, de goedkeuring van de daarbij aangewezen autoriteit. Verordeningen zijn verbindend voor een ieder behoudens voorzover bij de overdracht dan wel in de verordening zelf anders is bepaald.   
-3.  Besluiten zonder algemene gelding, tot het nemen waarvan de bevoegdheid is gedelegeerd, kunnen worden genomen ten aanzien van een ieder.    
-4.  Het bedrijfslichaam stelt jaarlijks een begroting en een jaarrekening op met betrekking tot de werkzaamheden voortvloeiend uit de overgedragen bevoegdheden, bedoeld in het eerste lid. De begroting en de jaarrekening behoeven de goedkeuring van Onze Minister. Bij of krachtens een algemene maatregel van bestuur kunnen terzake nadere voorschriften worden gesteld.   
-5.   Een krachtens het eerste lid vastgestelde regeling wordt, evenals een regeling tot haar wijziging of intrekking, in de *Staatscourant* bekendgemaakt.   
-
-### §  2a  
-
 #### Algemene wet bestuursrecht 
 
 ### Artikel  23a  
 
-Ten aanzien van beschikkingen, gegeven krachtens regelen als bedoeld in de artikelen 18, eerste lid, 19, eerste lid, en 20, eerste lid, dan wel krachtens artikel 23 in samenhang met deze artikelen, blijven de artikelen 4:7 en 4:8 van de Algemene wet bestuursrecht buiten toepassing, indien de gestelde regelen strekken tot verwezenlijking van de in artikel 13, eerste lid, onder *b* , vermelde doeleinden.  
+Ten aanzien van beschikkingen, gegeven krachtens regelen als bedoeld in de artikelen 18, eerste lid, 19, eerste lid, en 20, eerste lid, blijven de artikelen 4:7 en 4:8 van de Algemene wet bestuursrecht buiten toepassing, indien de gestelde regelen strekken tot verwezenlijking van de in artikel 13, eerste lid, onder *b* , vermelde doeleinden.  
 
 ### §  3  
 
@@ -200,8 +181,8 @@ Indien aan een vergunning of een ontheffing, krachtens de bepalingen van deze we
 
 ### Artikel  49  
 
-1.  Hetgeen krachtens de artikelen 13 en 14 is verschuldigd, kan door de Staat, onderscheidenlijk door de voorzitter van het betrokken bedrijfslichaam of samenwerkingslichaam bij dwangbevel worden ingevorderd.   
-2.  Verzet tegen de executie geschiedt door dagvaarding van de Staat, onderscheidenlijk het betrokken productschap, bedrijfschap of samenwerkingslichaam voor de rechtbank van het arrondissement, binnen hetwelk zijn woonplaats is gelegen.  
+1.  Hetgeen krachtens artikel 13 is verschuldigd, kan door de Staat bij dwangbevel worden ingevorderd.   
+2.  Verzet tegen de executie geschiedt door dagvaarding van de Staat voor de rechtbank van het arrondissement, binnen hetwelk zijn woonplaats is gelegen.  
 
 ### Artikel  51  
 

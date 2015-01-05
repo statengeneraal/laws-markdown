@@ -26,6 +26,14 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
+*bedrijfsbehandelplan:* een overzicht dat specifiek is voor een bedrijf, waarin aandoeningen en ziektes zijn opgenomen die voorkomen of waarvan het aannemelijk is dat deze voor kunnen komen bij door een houder gehouden dieren en waarbij is weergegeven op welke wijze de aandoeningen en ziektes worden behandeld;  
+
+*bedrijfsgezondheidsplan:* een plan dat specifiek is voor een bedrijf, bestaande uit: 
+
+1°. een analyse van de diergezondheidssituatie van door een houder gehouden dieren en van de toepassing van diergeneesmiddelen bij door een houder gehouden dieren;  
+
+2°. een overzicht van te treffen maatregelen ter verbetering van de diergezondheidssituatie van door een houder gehouden dieren;   
+
 *big:* varken vanaf de geboorte tot aan het spenen;  
 
 *daarmee verband houdende activiteiten:* datgene dat daaronder wordt verstaan in artikel 2, onderdeel b, van verordening (EG) nr. 1099/2009;  
@@ -352,14 +360,41 @@ b. over het bewaren en de te bewaren hoeveelheid van een diergeneesmiddel of die
 
 ####Administratie diergeneesmiddelen door houders van dieren
 
-1.  Bij ministeriële regeling kunnen regels worden gesteld voor de administratie van de ontvangst en toepassing van diergeneesmiddelen en diervoeders met medicinale werking door de houder van een dier en over het administreren van gegevens inzake het zich ontdoen van resten en lege verpakkingen van diergeneesmiddelen en diervoeders met medicinale werking.   
-2.  De regels, bedoeld in het eerste lid, kunnen betrekking hebben op het invoeren van gegevens inzake het toepassen van diergeneesmiddelen en diervoeders met medicinale werking in een gecentraliseerd registratiesysteem of een centrale administratie als bedoeld in de artikelen 2.21, derde lid, of 2.21a, eerste lid, van de wet.  
+Bij ministeriële regeling kunnen regels worden gesteld voor de administratie van de ontvangst en toepassing van diergeneesmiddelen en diervoeders met medicinale werking door de houder van een dier en over het administreren van gegevens inzake het zich ontdoen van resten en lege verpakkingen van diergeneesmiddelen en diervoeders met medicinale werking.
 
 ### Artikel  1.26  
 
 ####Gevoeligheidsbepaling bij toepassing aangewezen diergeneesmiddelen
 
 Het is degen die een dier houdt verboden de diergeneesmiddelen, bedoeld in artikel 5.7, het eerste lid, van het Besluit diergeneeskundigen toe te passen, indien uit de in dat lid bedoelde gevoeligheidsbepaling blijkt dat andere diergeneesmiddelen toepasbaar zijn. 
+
+### Artikel  1.27  
+
+####Melding aangewezen diergeneesmiddelen in register
+
+1.  Een houder van dieren die bij ministeriële regeling aan te wijzen diergeneesmiddelen ontvangt, doet in bij ministeriële regeling aan te wijzen gevallen melding in een register dat daartoe door Onze Minister is aangewezen.   
+2.  De beheerder van een register verstrekt aan de houder van dieren, op basis van de melding, informatie over het gebruik van de betreffende diergeneesmiddelen.   
+3.  Bij ministeriële regeling worden regels gesteld over: 
+
+a. de gegevens die bij de melding worden verstrekt;  
+
+b. de termijn waarbinnen de melding wordt gedaan;  
+
+c. de aard van de informatie die wordt verstrekt.     
+4.  Tarieven voor een vergoeding die de beheerder van een register in rekening brengt voor het verwerken van een melding als bedoeld in het eerste lid, en het verstrekken van informatie als bedoeld in het tweede lid, behoeven de goedkeuring van Onze Minister.   
+5.  Bij ministeriële regeling worden regels gesteld over: 
+
+a. de voorwaarden voor aanwijzing van registers en de gevallen waarin een aanwijzing kan worden ingetrokken, dan wel geschorst;  
+
+b. goedkeuring van tarieven en de gevallen waarin een besluit tot goedkeuring kan worden ingetrokken, dan wel geschorst.    
+
+### Artikel  1.28  
+
+####Bedrijfsgezondheidsplan en bedrijfsbehandelplan
+
+1.  Een houder van dieren draagt er in bij ministeriële regeling aan te wijzen gevallen zorg voor dat er overeenkomstig artikel 5.9, eerste lid, van het Besluit diergeneeskundigen een bedrijfsgezondheidsplan en een bedrijfsbehandelplan worden opgesteld.   
+2.  Een houder van dieren handelt overeenkomstig het bedrijfsgezondheidsplan en het bedrijfsbehandelplan dat in overleg met hem is opgesteld, tenzij een diergeneeskundige noodzaak vereist dat hiervan wordt afgeweken.   
+3.  Artikel 5.9, derde lid, van het Besluit diergeneeskundigen is van toepassing.  
 
 ### Hoofdstuk  2  
 

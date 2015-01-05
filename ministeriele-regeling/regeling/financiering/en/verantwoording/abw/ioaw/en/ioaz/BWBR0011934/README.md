@@ -10,7 +10,23 @@ Besluit:
 
 ####Begripsbepalingen
 
-In deze regeling wordt verstaan onder: a. *minister:*   Minister van Sociale Zaken en Werkgelegenheid;  b. *IOAW:*   Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;  c. *IOAZ:*   Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;  d. *Abw:*   Algemene bijstandswet;  e. *WWB:*  Wet werk en bijstand;  f. *Bbz 2004:*   Besluit bijstandverlening zelfstandigen 2004;  g.*declaratie:*opgave van kosten als bedoeld in artikel 56 van het Bbz 2004;h.*de ten laste van de gemeente gebleven kosten:*de ten laste van de gemeente gebleven kosten, bedoeld in artikel 48, derde en vierde lid, van het Bbz 2004, waaronder begrepen de baten door toepassing van artikel 14a van de Abw;i.*tekortkoming:*het niet hebben voldaan door burgemeester en wethouders aan de bij of krachtens het Bbz 2004 gestelde regels;j.*financieel beslag:*het verschil tussen het bedrag van de ten laste van burgemeester en wethouders gebleven kosten bij een onjuiste wetsuitvoering en dat bij een juiste wetsuitvoering;k.*financiële fouten:*tekortkomingen waarbij met zekerheid kan worden vastgesteld dat de uitkering of bijstand onrechtmatig is verstrekt of is teruggevorderd of verhaald zonder inachtneming van de daarvoor geldende wettelijke bepalingen;l.*financiële onzekerheden:*tekortkomingen waarbij niet met zekerheid kan worden vastgesteld dat de uitkering of bijstand rechtmatig is verstrekt;m.*uitkeringskosten:*de kosten van uitkeringen, bedoeld in artikel 48, eerste lid, van het Bbz 2004;n.*uitvoeringskosten:*de uitvoeringskosten, bedoeld in artikel 56, eerste lid, van het Bbz 2004. 
+In deze regeling wordt verstaan onder: 
+
+a.minister: Minister van Sociale Zaken en Werkgelegenheid;
+
+b.IOAW: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte werkloze werknemers;
+
+c.IOAZ: Wet inkomensvoorziening oudere en gedeeltelijk arbeidsongeschikte gewezen zelfstandigen;
+
+d.Bbz 2004: Besluit bijstandverlening zelfstandigen 2004;
+
+e.declaratie: opgave van kosten als bedoeld in artikel 56 van het Bbz 2004;
+
+f.de ten laste van de gemeente gebleven kosten: de ten laste van de gemeente gebleven kosten, bedoeld in artikel 48, derde en vierde lid, van het Bbz 2004, waaronder begrepen de baten door toepassing van artikel 14a van de Abw;
+
+g.uitkeringskosten: de kosten van uitkeringen, bedoeld in artikel 48, eerste lid, van het Bbz 2004;
+
+h. de ten laste van de gemeente gebleven kosten: de ten laste van de gemeente gebleven kosten, bedoeld in artikel 48, derde en vierde lid, van het Bbz 2004.  
 
 ### Artikel  1a  
 
@@ -30,8 +46,8 @@ In deze regeling wordt verstaan onder: a. *minister:*   Minister van Sociale Zak
 
 ####Opschorting en terugvordering van uitkering en voorschotten
 
-1.  Indien het beeld van de uitvoering, bedoeld in de artikelen 54, tweede lid, van de IOAW, of 54, tweede lid, van de IOAZ, niet op de in artikel 7b, eerste lid, genoemde datum is ontvangen, schort de minister de betaling van de uitkering, bedoeld in artikel 69, eerste lid, van de WWB voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarop de ontvangsttermijn is verlopen, doch niet gedurende de periode waarover door de minister aan het college in geval van overmacht uitstel is verleend.   
-2.  Indien het beeld van de uitvoering, bedoeld in artikel 77, tweede lid, van de WWB, niet op de in artikel 4, eerste lid, van de Regeling WWB genoemde datum is ontvangen, schort de minister de betaling van de maandvoorschotten Bbz 2004 voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarop de ontvangsttermijn is verlopen, doch niet gedurende de periode waarover door de minister aan het college in geval van overmacht uitstel is verleend.  
+1.  Indien het beeld van de uitvoering, bedoeld in de artikelen 54, tweede lid, van de IOAW, of 54, tweede lid, van de IOAZ, niet op de in artikel 7b, eerste lid, genoemde datum is ontvangen, schort de minister de betaling van de uitkering, bedoeld in artikel 69, eerste lid, van de Participatiewet voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarop de ontvangsttermijn is verlopen, doch niet gedurende de periode waarover door de minister aan het college in geval van overmacht uitstel is verleend.   
+2.  Indien het beeld van de uitvoering, bedoeld in artikel 77, tweede lid, van de Participatiewet, niet op de in artikel 4, eerste lid, van de Regeling Participatiewet, IOAW en IOAZ genoemde datum is ontvangen, schort de minister de betaling van de maandvoorschotten Bbz 2004 voor het lopende vergoedingsjaar op met ingang van de kalendermaand volgend op de kalendermaand waarop de ontvangsttermijn is verlopen, doch niet gedurende de periode waarover door de minister aan het college in geval van overmacht uitstel is verleend.  
 3.  Indien de verantwoordingsinformatie, bedoeld in artikel 17a, eerste lid, van de Financiële-verhoudingswet, met betrekking tot de uitvoering van het Bbz 2004 niet door de Minister van Binnenlandse Zaken en Koninkrijksrelaties is ontvangen binnen twaalf maanden na het kalenderjaar waarop zij betrekking heeft, worden de maandvoorschotten met betrekking tot het desbetreffende kalenderjaar op nihil vastgesteld en worden de reeds betaalde voorschotten teruggevorderd.   
 4.   De betaling van de uitkeringen en de maandvoorschotten wordt bij de toepassing van het eerste en het tweede lid hervat op de vijftiende van de kalendermaand volgend op de kalendermaand waarin het beeld van de uitvoering is ontvangen.  
 5.  Het eerste, tweede en vierde lid zijn van overeenkomstige toepassing, indien het college in gebreke blijft om binnen een door de minister vastgestelde termijn aanvullende informatie te verstrekken die noodzakelijk is voor het financieel beheer van de IOAW, de IOAZ of het Bbz 2004. 
@@ -49,40 +65,27 @@ In deze regeling wordt verstaan onder: a. *minister:*   Minister van Sociale Zak
 
 ####Bedragen vergoeding uitvoeringskosten en kosten van onderzoek Bbz 2004
 
-1.  De vergoeding per besluit op een aanvraag van ondernemers in de binnenvaart om verlening van bijstand, bedoeld in artikel 56, eerste lid, onderdeel a, van het Bbz 2004, bedraagt € 303,-.   
+1.  De vergoeding per besluit op een aanvraag van ondernemers in de binnenvaart om verlening van bijstand, bedoeld in artikel 56, eerste lid, onderdeel a, van het Bbz 2004, bedraagt € 305,-.   
 2.  De kosten, bedoeld in artikel 56, eerste lid, onderdeel b, van het Bbz 2004, van een aan derden opgedragen onderzoek inzake verlening van algemene bijstand en bijstand ter voorziening in de behoefte aan bedrijfskapitaal aan zelfstandigen als bedoeld in artikel 2 van het Bbz 2004, komen voor vergoeding in aanmerking, voorzover zij niet meer bedragen dan: 
 
-a. € 2.542,– voor een uitgebreid rapport en € 1.502,– voor een verkort rapport betrekking hebbend op bijstandsverlening aan een gevestigde of een startende zelfstandige als bedoeld in artikel 2, eerste lid, onderdelen a en b, van het Bbz 2004; 
+a. € 2.561,– voor een uitgebreid rapport en € 1.513,– voor een verkort rapport betrekking hebbend op bijstandsverlening aan een gevestigde of een startende zelfstandige als bedoeld in artikel 2, eerste lid, onderdelen a en b, van het Bbz 2004; 
 
-b. € 924,– voor een rapport betrekking hebbend op bijstandsverlening aan een oudere of een beëindigende zelfstandige als bedoeld in artikel 2, eerste lid, onderdelen c en d, van het Bbz 2004 of een nader of vervolgrapport betrekking hebbend op bijstandsverlening aan een zelfstandige.   
+b. € 931,– voor een rapport betrekking hebbend op bijstandsverlening aan een oudere of een beëindigende zelfstandige als bedoeld in artikel 2, eerste lid, onderdelen c en d, van het Bbz 2004 of een nader of vervolgrapport betrekking hebbend op bijstandsverlening aan een zelfstandige.   
 
 ###Artikel 7b 
 
 ####Beeld van de uitvoering
 
 1.  Het beeld van de uitvoering, bedoeld in de artikelen 54, tweede lid, van de IOAW en 54, tweede lid, van de IOAZ, wordt uiterlijk op 28 februari van het kalenderjaar volgend op het kalenderjaar waarop het beeld van de uitvoering betrekking heeft door de minister ontvangen.   
-2.  Het beeld van de uitvoering, bedoeld in het eerste lid artikel 77, tweede lid, van de WWB, omvat mede een declaratie van de uitkeringskosten, bedoeld in artikel 48, eerste lid, van het Bbz 2004, en de uitvoeringskosten en kosten van onderzoek, bedoeld in artikel 56, eerste lid, van het Bbz 2004, over het afgelopen kalenderjaar.  
+2.  Het beeld van de uitvoering, bedoeld in het eerste lid artikel 77, tweede lid, van de Participatiewet, omvat mede een declaratie van de uitkeringskosten, bedoeld in artikel 48, eerste lid, van het Bbz 2004, en de uitvoeringskosten en kosten van onderzoek, bedoeld in artikel 56, eerste lid, van het Bbz 2004, over het afgelopen kalenderjaar.  
 3.  Het beeld van de uitvoering wordt ingediend onder gebruikmaking van een formulier dat door de minister elektronisch beschikbaar wordt gesteld.   
 4.  Op basis van het beeld van de uitvoering, bedoeld in het tweede lid, vindt een voorlopige verrekening plaats met de verleende voorschotten, bedoeld in artikel 2, eerste lid. 
-
-### Artikel 9  
-
-####Berekening financieel beslag van tekortkomingen Bbz 2004
-
-1. Het financieel beslag van tekortkomingen in de uitvoering van het Bbz 2004 wordt bepaald op het totaal van de financiële fouten en financiële onzekerheden met betrekking tot dat besluit.  
-2.  Het financieel beslag van financiële onzekerheden wordt bepaald op: 
-
-a. 0,5% van de ten laste van de gemeente gebleven kosten indien in 15% of meer van de in een kalenderjaar verrichte onderzoeken sprake is van een onvolledig onderzoek als bedoeld in artikel 66, tweede lid, van de Abw, bij een onvolledig heronderzoek als bedoeld in artikel 66, derde lid, van de Abw, bij een onvolledig beëindigingsonderzoek als bedoeld in artikel 66, vijfde lid, van de Abw of bij een onvolledig debiteurenonderzoek als bedoeld in artikel 66, zesde lid, van de Abw;  
-
-b. 0,5% van de ten laste van de gemeente gebleven kosten indien in 15% of meer van de in een kalenderjaar te verrichten onderzoeken sprake is van een niet-tijdig heronderzoek als bedoeld in artikel 66, derde lid, van de Abw, bij een niet-tijdig beëindigingsonderzoek als bedoeld in artikel 66, vijfde lid, van de Abw, of bij een niet-tijdig debiteurenonderzoek als bedoeld in artikel 66, zesde lid, van de Abw.    
-3.  Bij samenloop van tekortkomingen als bedoeld in het tweede lid worden de afzonderlijk berekende financiële uitkomsten bij elkaar opgeteld.   
-4.  Voor de vaststelling van de ten laste van de gemeente gebleven kosten in het kalenderjaar 2009 en daaraan voorafgaande kalenderjaren is artikel 1, onderdeel h, zoals dat luidde op 31 december 2010 van toepassing. 
 
 ###Artikel 9a 
 
 ####Wijziging wettelijke grondslag
 
-Deze regeling berust mede op artikel 54, derde lid, van de IOAW, artikel 54, tweede lid, van de IOAZ en de artikelen 49, eerste lid, 50, tweede lid, 53, 56, eerste lid en 57, eerste lid, van het Bbz 2004.
+Deze regeling berust mede op artikel 54, tweede lid, van de IOAW, artikel 54, tweede lid, van de IOAZ en de artikelen 49, eerste lid, 50, tweede lid, 53, 56, eerste lid en 57, eerste lid, van het Bbz 2004.
 
 ### Artikel  10  
 

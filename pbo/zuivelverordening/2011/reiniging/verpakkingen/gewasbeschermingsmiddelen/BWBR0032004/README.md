@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Zuivel van 3 januari 2012, houdende regels ter zake van de reiniging van verpakkingen van gewasbeschermingsmiddelen (Zuivelverordening 2011, Reiniging verpakkingen gewasbeschermingsmiddelen)
 
 Het bestuur van het Productschap Zuivel;  
-Gelet op artikel 13, eerste lid van de Richtlijn 2009/128/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van een kader voor communautaire actie ter verwezenlijking van een duurzaam gebruik van pesticiden, [artikel 80a, tweede en derde lid van de Wet gewasbeschermingsmiddelen en biociden](../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [artikel 32a van het Besluit gewasbeschermingsmiddelen en biociden](../../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) en de [artikelen 96](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [98](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md);
+Gelet op artikel 13, eerste lid van de Richtlijn 2009/128/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van een kader voor communautaire actie ter verwezenlijking van een duurzaam gebruik van pesticiden, artikel 80a, tweede en derde lid van de Wet gewasbeschermingsmiddelen en biociden, artikel 32a van het Besluit gewasbeschermingsmiddelen en biociden en de artikelen 96, 98, 104, eerste en derde lid, van de Wet op de bedrijfsorganisatie;
 Besluit:    
 ###§ 1 
 
@@ -17,7 +17,7 @@ Deze verordening verstaat onder:
 |:---|:---|:---|
 |a. productschap |: |Productschap Zuivel; |
 |b. ondernemer |: |de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
-|c. gewasbeschermingsmiddel |: |gewasbeschermingsmiddel, als bedoeld in [artikel 1 van de Wet gewasbeschermingsmiddelen en biociden](../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md); |
+|c. gewasbeschermingsmiddel |: |gewasbeschermingsmiddel, als bedoeld in artikel 1 van de Wet gewasbeschermingsmiddelen en biociden; |
 |d. reinigingsapparatuur |: |apparatuur die voldoet aan de normen van NEN-ISO 21278. |
 
 ###§ 2 
@@ -56,7 +56,7 @@ b.overigens alle medewerking te verlenen ter vervulling van de aan de toezichtho
 
 ###Artikel 5 
 
-De [Zuivelverordening 2003, Reiniging verpakkingen gewasbeschermingsmiddelen](../../../../../../../pbo/zuivelverordening/2003/reiniging/verpakkingen/gewasbeschermingsmiddelen/BWBR0014981/README.md) wordt ingetrokken. 
+De Zuivelverordening 2003, Reiniging verpakkingen gewasbeschermingsmiddelen wordt ingetrokken. 
 
 ###Artikel 6 
 

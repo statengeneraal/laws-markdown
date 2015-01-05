@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw en Visserij van 17 augustus 1981, Directie Juridische en Bedrijfsorganisatorische Zaken, nr. J. 5559;
 
-Gelet op [artikel 31, derde en zesde lid, van de Wet agrarisch grondverkeer](../../../../../../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md) (*Stb.* 1981, 248);
+Gelet op artikel 31, derde en zesde lid, van de Wet agrarisch grondverkeer (*Stb.* 1981, 248);
 
 De Raad van State gehoord (advies van 30 september 1981, nr. 810923/23);
 
@@ -15,7 +15,7 @@ Hebben goedgevonden en verstaan:
 
 ### Artikel  1  
 
-In dit besluit wordt verstaan onder: "commissie": commissie beheer landbouwgronden als bedoeld in [artikel 30 van de Wet agrarisch grondverkeer](../../../../../../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md) (*Stb.* 1981, 248); 
+In dit besluit wordt verstaan onder: "commissie": commissie beheer landbouwgronden als bedoeld in artikel 30 van de Wet agrarisch grondverkeer (*Stb.* 1981, 248); 
 
 ### Artikel  2  
 
@@ -39,12 +39,12 @@ h. één lid, te benoemen door Onze Minister op voordracht van de Vereniging tot
 
 i. één lid, dat benoemd wordt op voordracht van de Koninklijke Nederlandse Toeristenbond, ANWB;  
 
-j. één lid, te benoemen door Onze Minister op voordracht van de Nederlandse Vereniging van Boseigenaren en het Bosschap gezamenlijk.   
+j. één lid, te benoemen door Onze Minister op voordracht van de Nederlandse Vereniging van Boseigenaren.   
 
 ### Artikel  3  
 
-1.  De leden hebben zitting voor het tijdvak van vijf jaren, doch uiterlijk totdat zij de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hebben bereikt.   
-2.   De aftredende leden, met uitzondering van hen, die de pensioengerechtigde leeftijd, bedoeld in [artikel 7a, eerste lid, van de Algemene Ouderdomswet](../../../../../../../../../wet/algemene/ouderdomswet/BWBR0002221/README.md), hebben bereikt, zijn terstond herbenoembaar.   
+1.  De leden hebben zitting voor het tijdvak van vijf jaren, doch uiterlijk totdat zij de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, hebben bereikt.   
+2.   De aftredende leden, met uitzondering van hen, die de pensioengerechtigde leeftijd, bedoeld in artikel 7a, eerste lid, van de Algemene Ouderdomswet, hebben bereikt, zijn terstond herbenoembaar.   
 3.   Degene, die in de commissie de plaats inneemt van een lid, wiens zittingsduur nog niet verstreken was, heeft zitting tot het einde van die duur.  
 
 ### Artikel  4  
@@ -75,11 +75,11 @@ Onze Minister kan op verzoek van de commissie sub-commissies instellen.
 
 ### Artikel  9  
 
-Bij de werkzaamheden als bedoeld in [artikel 30, eerste lid, onder *c*, van de Wet agrarisch grondverkeer](../../../../../../../../../wet/wet/agrarisch/grondverkeer/BWBR0003386/README.md), verricht het bureau de uitvoerende werkzaamheden die hier uit voortvloeien. 
+Bij de werkzaamheden als bedoeld in artikel 30, eerste lid, onder *c*, van de Wet agrarisch grondverkeer, verricht het bureau de uitvoerende werkzaamheden die hier uit voortvloeien. 
 
 ### Artikel  10  
 
-De leden en adviserende leden genieten voor het bijwonen van vergaderingen een vergoeding bepaald ingevolge het [Vacatiegeldenbesluit 1988](../../../../../../../../../AMvB/vacatiegeldenbesluit/1988/BWBR0004317/README.md), alsmede een reis- en verblijfkostenvergoeding op de voet van het [Reisbesluit binnenland](../../../../../../../../../AMvB/reisbesluit/binnenland/BWBR0005889/README.md). 
+De leden en adviserende leden genieten voor het bijwonen van vergaderingen een vergoeding bepaald ingevolge het Vacatiegeldenbesluit 1988, alsmede een reis- en verblijfkostenvergoeding op de voet van het Reisbesluit binnenland. 
 
 ### Artikel  11  
 

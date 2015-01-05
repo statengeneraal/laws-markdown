@@ -13,9 +13,7 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 
 ####Algemene bepaling
 
-### Artikel  1  
-
-Voor de toepassing van deze wet worden onder lichamen verstaan de Sociaal-Economische Raad, de bedrijfslichamen, bedoeld in artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie, en de lichamen, ingesteld ter gemeenschappelijke behartiging van belangen, bedoeld in artikel 110 van die wet. 
+Vervallen per 01-01-2015 
 
 ### Titel  II  
 

@@ -497,9 +497,9 @@ b. eenmaal in de vijf jaar een visitatie door een visitatiecommissie wordt verri
 
 ### Artikel  57  
 
-1.  Er is een Inspectie Openbare Orde en Veiligheid, die onder gezag van Onze Minister, belast is met: 
+1.  Er is een Inspectie Openbare Orde en Veiligheid, die onder gezag van Onze Minister belast is met: 
 
-a. het toetsen van de wijze waarop een orgaan van een veiligheidsregio, een gemeente of een ander openbaar lichaam uitvoering geeft aan de taken met betrekking tot de brandweerzorg, de rampenbestrijding of crisisbeheersing;  
+a. het toetsen van de wijze waarop een orgaan van een veiligheidsregio, het Instituut Fysieke Veiligheid, een gemeente of een ander openbaar lichaam uitvoering geeft aan de taken met betrekking tot de brandweerzorg, de rampenbestrijding of crisisbeheersing;  
 
 b. het, in overeenstemming met de inspecties die werkzaam zijn onder gezag van Onze Ministers van Binnenlandse Zaken en Koninkrijksrelaties, van Volksgezondheid, Welzijn en Sport, van Infrastructuur en Milieu en van Sociale Zaken en Werkgelegenheid, periodiek toetsen van de voorbereiding op de rampenbestrijding en de crisisbeheersing door de bestuursorganen, bedoeld onder a;  
 
@@ -779,7 +779,7 @@ Arnhem, Barneveld, Doesburg, Duiven, Ede, Lingewaard, Nijkerk, Overbetuwe, Renku
 
 #### *Gelderland-Zuid* 
 
-Beuningen, Buren, Culemborg, Druten, Geldermalsen, Groesbeek, Heumen, Lingewaal, Maasdriel, Millingen aan de Rijn, Neder-Betuwe, Neerijnen, Nijmegen, Tiel, Ubbergen, West Maas en Waal, Wijchen, Zaltbommel. 
+Beuningen, Buren, Culemborg, Druten, Geldermalsen, Groesbeek, Heumen, Lingewaal, Maasdriel, Neder-Betuwe, Neerijnen, Nijmegen, Tiel, West Maas en Waal, Wijchen, Zaltbommel. 
 
 #### *Utrecht* 
 
@@ -791,7 +791,7 @@ Almere, Dronten, Lelystad, Noordoostpolder, Urk, Zeewolde.
 
 #### *Noord-Holland-Noord* 
 
-Alkmaar, Bergen, Castricum, Den Helder, Drechterland, Enkhuizen, Graft-De Rijp, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Langedijk, Medemblik, Opmeer, Schagen, Schermer, Stede Broec, Texel. 
+Alkmaar, Bergen, Castricum, Den Helder, Drechterland, Enkhuizen, Heerhugowaard, Heiloo, Hollands Kroon, Hoorn, Koggenland, Langedijk, Medemblik, Opmeer, Schagen, Stede Broec, Texel. 
 
 #### *Zaanstreek-Waterland* 
 
@@ -815,11 +815,11 @@ Delft, ’s-Gravenhage, Leidschendam-Voorburg, Pijnacker-Nootdorp, Rijswijk, Mid
 
 #### *Hollands Midden* 
 
-Alphen aan den Rijn, Bergambacht, Bodegraven-Reeuwijk, Gouda, Hillegom, Kaag en Braassem, Katwijk, Leiden, Leiderdorp, Lisse, Nederlek, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Ouderkerk, Schoonhoven, Teylingen, Vlist, Voorschoten, Waddinxveen, Zoeterwoude, Zuidplas. 
+Alphen aan den Rijn, Bodegraven-Reeuwijk, Gouda, Hillegom, Kaag en Braassem, Katwijk, Krimpenerwaard, Leiden, Leiderdorp, Lisse, Nieuwkoop, Noordwijk, Noordwijkerhout, Oegstgeest, Teylingen, Voorschoten, Waddinxveen, Zoeterwoude, Zuidplas. 
 
 #### *Rotterdam-Rijnmond* 
 
-Albrandswaard, Barendrecht, Bernisse, Brielle, Capelle aan den IJssel, Goeree-Overflakkee, Hellevoetsluis, Krimpen aan den IJssel, Lansingerland, Maassluis, Ridderkerk, Rotterdam, Schiedam, Spijkenisse, Vlaardingen, Westvoorne. 
+Albrandswaard, Barendrecht, Brielle, Capelle aan den IJssel, Goeree-Overflakkee, Hellevoetsluis, Krimpen aan den IJssel, Lansingerland, Maassluis, Nissewaard, Ridderkerk, Rotterdam, Schiedam, Vlaardingen, Westvoorne. 
 
 #### *Zuid-Holland-Zuid* 
 
@@ -835,7 +835,7 @@ Aalburg, Alphen-Chaam, Baarle-Nassau, Bergen op Zoom, Breda, Dongen, Drimmelen, 
 
 #### *Brabant-Noord* 
 
-Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, Haaren, ’s-Hertogenbosch, Heusden, Landerd, Maasdonk, Mill en Sint Hubert, Oss, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Uden, Veghel, Vught. 
+Bernheze, Boekel, Boxmeer, Boxtel, Cuijk, Grave, Haaren, ’s-Hertogenbosch, Heusden, Landerd, Mill en Sint Hubert, Oss, Schijndel, Sint Anthonis, Sint-Michielsgestel, Sint-Oedenrode, Uden, Veghel, Vught. 
 
 #### *Brabant-Zuidoost* 
 

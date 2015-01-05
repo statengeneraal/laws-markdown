@@ -20,15 +20,15 @@ richtlijn 2000/60/EG van het Europees Parlement en de Raad van de Europese Unie 
 
 verordening 396/2005/EG van het Europees Parlement en de Raad van de Europese Unie van 23 februari 2005 tot vaststelling van maximumgehalten en bestrijdingsmiddelenresiduen in of op levensmiddelen en diervoeders van plantaardige en dierlijke oorsprong en houdende wijziging van Richtlijn 91/414/EG van de Raad (PbEG L 70),
 
-[artikel 44, eerste lid, van de Grondwet](../../../../../../wet/grondwet/BWBR0001840/README.md) met betrekking tot artikel 74 van dit besluit,
+artikel 44, eerste lid, van de Grondwet met betrekking tot artikel 74 van dit besluit,
 
-de [artikelen 4, eerste lid, onderdeel e](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [23, tweede en derde lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [25, eerste lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [28, tweede en derde lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [29, derde lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [36, derde lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [44, tweede en derde lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [49, tweede lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [50, derde lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [56, derde lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [71, derde lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [74, tweede lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [75](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [76, derde lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [78 tot en met 81, eerste lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [108, derde lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [123, eerste lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [124, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md),
+de artikelen 4, eerste lid, onderdeel e, 23, tweede en derde lid, 25, eerste lid, 28, tweede en derde lid, 29, derde lid, 36, derde lid, 44, tweede en derde lid, 49, tweede lid, 50, derde lid, 56, derde lid, 71, derde lid, 74, tweede lid, 75, 76, derde lid, 78 tot en met 81, eerste lid, 108, derde lid, 123, eerste lid, 124, eerste lid, van de Wet gewasbeschermingsmiddelen en biociden,
 
-[artikel 24, eerste lid en tweede lid, onder b, van de Wet milieugevaarlijke stoffen](../../../../../../wet/wet/milieugevaarlijke/stoffen/BWBR0003892/README.md),
+artikel 24, eerste lid en tweede lid, onder b, van de Wet milieugevaarlijke stoffen,
 
-[artikelen 1, onder i](../../../../../../wet/algemene/wet/erkenning/eg-beroepsopleidingen/BWBR0006781/README.md), en [7, van de Algemene wet erkenning EG-beroepsopleidingen](../../../../../../wet/algemene/wet/erkenning/eg-beroepsopleidingen/BWBR0006781/README.md), en
+artikelen 1, onder i, en 7, van de Algemene wet erkenning EG-beroepsopleidingen, en
 
-[artikel 16, eerste en zevende lid, van de Arbeidsomstandighedenwet](../../../../../../wet/arbeidsomstandighedenwet/BWBR0010346/README.md);
+artikel 16, eerste en zevende lid, van de Arbeidsomstandighedenwet;
 
 De Raad van State gehoord (advies van 12 juli 2007, no. W11.07.0110/IV);
 
@@ -42,7 +42,7 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop rustende bepalingen wordt verstaan onder: 
 
-a. wet: [Wet gewasbeschermingsmiddelen en biociden](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md);  
+a. wet: Wet gewasbeschermingsmiddelen en biociden;  
 
 b.  verordening 396/2005/EG: Verordening nr. 396/2005 van het Europees Parlement en de Raad van de Europese Unie van 23 februari 2005 tot vaststelling van maximumgehalten aan bestrijdingsmiddelenresiduen in of op levensmiddelen en diervoeders van plantaardige en dierlijke oorsprong en houdende wijziging van Richtlijn 91/414/EG van de Raad (PbEU L 70);  
 
@@ -52,7 +52,7 @@ d.  richtlijn 2000/60/EG: richtlijn nr. 2000/60/EG van het Europees Parlement en
 
 e.  richtlijn 2004/10/EG: richtlijn nr. 2004/10/EG van het Europees Parlement en de Raad van de Europese Unie van 11 februari 2004 betreffende de onderlinge aanpassing van de wettelijke en bestuursrechtelijke bepalingen inzake de toepassing van de beginselen van goede laboratoriumpraktijken en het toezicht op de toepassing ervan voor tests op chemische stoffen (gecodificeerde versie) (PbEU L 50);  
 
-f. bodem: bodem als bedoeld in [artikel 1 van de Wet bodembescherming](../../../../../../wet/wet/bodembescherming/BWBR0003994/README.md);  
+f. bodem: bodem als bedoeld in artikel 1 van de Wet bodembescherming;  
 
 g. gasvormende toestand: toestand van een gewasbeschermingsmiddel of biocide waarin het middel of de biocide na gasvorming zijn werking verkrijgt;  
 
@@ -66,7 +66,7 @@ k. uitvoeringsverordening (EU) 546/2011: Verordening (EU) nr. 546/2011 van de C
 
 ###Artikel 1a 
 
-Dit besluit berust mede op [artikel 9.2.2.1, eerste en tweede lid, onder b, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md).
+Dit besluit berust mede op artikel 9.2.2.1, eerste en tweede lid, onder b, van de Wet milieubeheer.
 
 ### Hoofdstuk  2  
 
@@ -213,7 +213,7 @@ Het college beoordeelt een aanvraag bij het ontbreken van vastgestelde beoordeli
 ####Voorschriften
 
 1.  Het college kan bij de toelating het voorschrift opnemen dat het gewasbeschermingsmiddel slechts wordt toegepast na een melding bij Onze Minister van Economische Zaken.   
-2.  Het college houdt bij zijn beslissing omtrent voorschriften als bedoeld in [artikel 29, derde lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), rekening met onder meer: 
+2.  Het college houdt bij zijn beslissing omtrent voorschriften als bedoeld in artikel 29, derde lid, van de wet, rekening met onder meer: 
 
 a. de resultaten van de risicobeoordeling, met name de relatie tussen blootstelling en effect;  
 
@@ -233,7 +233,7 @@ h. de handhaafbaarheid van het voorschrift; en
 
 i. de geschiktheid voor niet-professionele gebruikers.     
 3.  Onze Minister kan regels stellen voor de wijze waarop het college uitvoering geeft aan het eerste en tweede lid alsmede de wijze waarop het college bij de toelating voorschriften geeft voor de uitvoering van geïntegreerde gewasbescherming, goede gewasbeschermingspraktijken of het gebruik van voertuigen, werktuigen, methoden, technieken en materialen.   
-4.  Het college stelt bij iedere toelating voor niet-professioneel gebruik voorschriften als bedoeld in [artikel 29, eerste lid, onderdelen b en c, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md). Deze voorschriften hebben betrekking op gebruiksklare formuleringen en stellen beperkingen aan het formaat van de verpakking. 
+4.  Het college stelt bij iedere toelating voor niet-professioneel gebruik voorschriften als bedoeld in artikel 29, eerste lid, onderdelen b en c, van de wet. Deze voorschriften hebben betrekking op gebruiksklare formuleringen en stellen beperkingen aan het formaat van de verpakking. 
 
 ### §  2  
 
@@ -258,7 +258,7 @@ i. de geschiktheid voor niet-professionele gebruikers.
 
 ####Bewijs van vakbekwaamheid inzake gewasbeschermingsmiddelen
 
-1.  Een bewijs van vakbekwaamheid als bedoeld in [artikel 71, tweede lid, onderdeel a, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), inzake gewasbeschermingsmiddelen kan worden verstrekt aan de persoon die: 
+1.  Een bewijs van vakbekwaamheid als bedoeld in artikel 71, tweede lid, onderdeel a, van de wet, inzake gewasbeschermingsmiddelen kan worden verstrekt aan de persoon die: 
 
 a) een bij regeling van Onze Minister aangewezen opleiding heeft gevolgd;  
 
@@ -274,7 +274,7 @@ c) een instructie heeft gevolgd waarvan de bij regeling van Onze Minister aangew
 
 ####Bewijs van vakbekwaamheid inzake biociden
 
-1.  Een bewijs van vakbekwaamheid inzake biociden als bedoeld in [artikel 71, tweede en vierde lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) wordt verstrekt aan de persoon die voldoet aan bij regeling van Onze Minister te stellen voorwaarden inzake: 
+1.  Een bewijs van vakbekwaamheid inzake biociden als bedoeld in artikel 71, tweede en vierde lid, van de wet wordt verstrekt aan de persoon die voldoet aan bij regeling van Onze Minister te stellen voorwaarden inzake: 
 
 a. de distributie van gasvormige en gasvormende biociden,  
 
@@ -294,9 +294,9 @@ b. die zijn genoemd in het eerste lid en die worden uitgevoerd door:
 1°. een bedrijfsvoerder die in dienst is en die beschikt over een daartoe verstrekt bewijs van vakbekwaamheid als bedoeld in het eerste lid, of  
 
 2°. een bedrijf dat voor de ondernemer een biocide toepast en waarvan de persoon die de biocide distribueert aan klanten of toepast, beschikt over een daartoe verstrekt bewijs van vakbekwaamheid als bedoeld in het eerste lid.       
-3.  [Artikel 71, eerste, tweede en derde lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), is van overeenkomstige toepassing op de in het eerste lid bedoelde gevallen.   
+3.  Artikel 71, eerste, tweede en derde lid, van de wet, is van overeenkomstige toepassing op de in het eerste lid bedoelde gevallen.   
 4.  Het bewijs van vakbekwaamheid vermeldt de volledige naam, het adres, de woonplaats en de geboortedatum van betrokkene en kan een opsomming bevatten van onderwerpen waarvan kennis is verworven en op welk niveau.   
-5.  Bij regeling van Onze Minister kunnen regels of nadere regels worden gesteld met betrekking tot de onderwerpen, genoemd in de [artikelen 71, tweede lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).  
+5.  Bij regeling van Onze Minister kunnen regels of nadere regels worden gesteld met betrekking tot de onderwerpen, genoemd in de artikelen 71, tweede lid, van de wet.  
 
 ### Artikel  18  
 
@@ -305,14 +305,14 @@ b. die zijn genoemd in het eerste lid en die worden uitgevoerd door:
 1.  Een bewijs van vakbekwaamheid wordt verstrekt voor een termijn van vijf jaar na het tijdstip waarop de opleiding is afgerond, het examen is afgelegd, of de instructie is verkregen, overeenkomstig artikel 17, eerste lid, of aan de voorwaarden, bedoeld in artikel 17a, eerste lid, is voldaan.   
 2.  De geldigheid van een bewijs van vakbekwaamheid wordt na afloop van de termijn, bedoeld in het eerste lid, ambtshalve verlengd onder door Onze Minister bij ministeriële regeling vast te stellen voorwaarden.   
 3.  De vernieuwing van een bewijs van vakbekwaamheid als bedoeld in artikel 17, eerste lid, en 17a, eerste lid, wordt geweigerd indien niet is voldaan aan bij regeling door Onze Minister vast te stellen voorwaarden inzake scholing.   
-4.  Onze Minister van Economische Zaken, onderscheidenlijk Onze Minister van Infrastructuur en Milieu, kan een bewijs van vakbekwaamheid voor gewasbescherming, onderscheidenlijk biociden, in een geval als bedoeld in [artikel 85, eerste of derde lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), tijdelijk of permanent intrekken. Bij regeling van Onze Minister worden regels gesteld met betrekking tot de gevallen en de mate waarin tot intrekking kan worden overgegaan.   
+4.  Onze Minister van Economische Zaken, onderscheidenlijk Onze Minister van Infrastructuur en Milieu, kan een bewijs van vakbekwaamheid voor gewasbescherming, onderscheidenlijk biociden, in een geval als bedoeld in artikel 85, eerste of derde lid, van de wet, tijdelijk of permanent intrekken. Bij regeling van Onze Minister worden regels gesteld met betrekking tot de gevallen en de mate waarin tot intrekking kan worden overgegaan.   
 5.  Onze Minister stelt bij ministeriële regeling vast wanneer en op welke wijze na intrekking opnieuw een bewijs van vakbekwaamheid verkregen kan worden.  
 
 ### Artikel  19  
 
 ####Buitenlandse getuigschriften
 
-1. Onze Minister van Economische Zaken, onderscheidenlijk Onze Minister van Infrastructuur en Milieu, kan een bewijs van vakbekwaamheid voor gewasbescherming, onderscheidenlijk biociden, verstrekken aan een persoon, die onderdaan is van een lidstaat als bedoeld in [artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) wanneer op grond van [artikel 6 van de Algemene wet erkenning EG-beroepskwalificaties](../../../../../../wet/algemene/wet/erkenning/eg-beroepskwalificaties/BWBR0023066/README.md) is aangetoond dat deze persoon over gelijkwaardige kwalificaties beschikt als de houder van een bewijs van vakbekwaamheid dat is verkregen op grond van artikel 17, eerste lid, of 17a, eerste lid.
+1. Onze Minister van Economische Zaken, onderscheidenlijk Onze Minister van Infrastructuur en Milieu, kan een bewijs van vakbekwaamheid voor gewasbescherming, onderscheidenlijk biociden, verstrekken aan een persoon, die onderdaan is van een lidstaat als bedoeld in artikel 1 van de Algemene wet erkenning EG-beroepskwalificaties wanneer op grond van artikel 6 van de Algemene wet erkenning EG-beroepskwalificaties is aangetoond dat deze persoon over gelijkwaardige kwalificaties beschikt als de houder van een bewijs van vakbekwaamheid dat is verkregen op grond van artikel 17, eerste lid, of 17a, eerste lid.
 2. Onze Minister van Economische Zaken, onderscheidenlijk Onze Minister van Infrastructuur en Milieu, kan een bewijs van vakbekwaamheid voor gewasbescherming, onderscheidenlijk biociden, verstrekken aan een persoon die beschikt over een getuigschrift niet ouder dan vijf jaar van een door Onze Minister erkende buitenlandse opleiding buiten een lidstaat als bedoeld in het eerste lid, wanneer deze persoon door ervaring of opleiding na het verkrijgen van het getuigschrift nog steeds over een gelijkwaardige kwalificatie beschikt als de houder van een bewijs van vakbekwaamheid dat is verkregen op grond van artikel 17, eerste lid, of 17a, eerste lid.
 3. De houder van een bewijs van vakbekwaamheid beheerst de Nederlandse taal op een zodanig niveau dat voorschriften op etiketten van gewasbeschermingsmiddelen en biociden en andere voor de toepassing van gewasbeschermingsmiddelen en biociden bij of krachtens de wet geldende voorschriften begrepen en uitgevoerd kunnen worden. 
 
@@ -374,7 +374,7 @@ Bij regeling van Onze Minister kunnen ter uitvoering van de verplichtingen, bedo
 
 ####Informatieverstrekking niet-professioneel gebruik
 
-Bij regeling van Onze Minister worden regels gesteld ter uitvoering van [artikel 73, vierde lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md). 
+Bij regeling van Onze Minister worden regels gesteld ter uitvoering van artikel 73, vierde lid, van de wet. 
 
 ###§ 3a 
 
@@ -420,7 +420,7 @@ b. onder de verantwoordelijkheid dan wel in opdracht van een derde een gewasbesc
 
 ####Gebruik van prioritaire gevaarlijke stoffen
 
-Een gewasbeschermingsmiddel dat een prioritaire gevaarlijke stof bevat als bedoeld in artikel 16, derde lid, van richtlijn 2000/60/EG wordt niet gebruikt in de nabijheid van oppervlaktewater of in gebieden die zijn aangewezen krachtens [artikel 1.2, tweede lid, onderdeel a, van de Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md). 
+Een gewasbeschermingsmiddel dat een prioritaire gevaarlijke stof bevat als bedoeld in artikel 16, derde lid, van richtlijn 2000/60/EG wordt niet gebruikt in de nabijheid van oppervlaktewater of in gebieden die zijn aangewezen krachtens artikel 1.2, tweede lid, onderdeel a, van de Wet milieubeheer. 
 
 ### Artikel  27b  
 
@@ -461,8 +461,8 @@ Onze Minister kan bij ministeriële regeling regels stellen voor een juist gebru
 
 ####Toepassing met luchtvaartuigen
 
-1.  Het is verboden een gewasbeschermingsmiddel met behulp van een luchtvaartuig toe te passen, met dien verstande dat Onze Minister van dit verbod vrijstelling kan verlenen in verband met een bedreiging van de plantaardige productie als bedoeld in [artikel 38, eerste lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md). Artikel 38, tweede tot en met vijfde lid, van de wet, is van overeenkomstige toepassing.   
-2.  Het is verboden een biocide met behulp van een luchtvaartuig toe te passen, met dien verstande dat Onze Minister van dit verbod vrijstelling kan verlenen in verband met een niet op andere wijze te bestrijden gevaar als bedoeld in [artikel 46, eerste lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).   
+1.  Het is verboden een gewasbeschermingsmiddel met behulp van een luchtvaartuig toe te passen, met dien verstande dat Onze Minister van dit verbod vrijstelling kan verlenen in verband met een bedreiging van de plantaardige productie als bedoeld in artikel 38, eerste lid, van de wet. Artikel 38, tweede tot en met vijfde lid, van de wet, is van overeenkomstige toepassing.   
+2.  Het is verboden een biocide met behulp van een luchtvaartuig toe te passen, met dien verstande dat Onze Minister van dit verbod vrijstelling kan verlenen in verband met een niet op andere wijze te bestrijden gevaar als bedoeld in artikel 46, eerste lid, van de wet.   
 3.  Onze Minister kan bij ministeriële regeling regels stellen voor de wijze waarop en de voorwaarden waaronder een gewasbeschermingsmiddel of een biocide met behulp van een luchtvaartuig wordt toegepast.  
 
 ### Artikel  30  
@@ -487,7 +487,7 @@ e. het waarschuwingssignaal en het opschrift, bedoeld in onderdeel b, worden na 
 ####Gasvormige of gasvormende gewasbeschermingsmiddel of biocide buiten besloten ruimten
 
 1.  Degene die een gewasbeschermingsmiddel of biocide in een gasvormige of gasvormende toestand anders dan voor het bestrijden van mollen of woelratten buiten een besloten ruimte toepast, meldt het voornemen tot toepassing bij Onze Minister van Infrastructuur en Milieu.   
-2.  Het eerste lid is niet van toepassing, indien gebruik wordt gemaakt van een speciale installatie waarvoor ingevolge de [Wet milieubeheer](../../../../../../wet/wet/milieubeheer/BWBR0003245/README.md) een vergunning is afgegeven voor uitsluitend het gebruik van gasvormige en gasvormende gewasbeschermingsmiddelen of biociden.   
+2.  Het eerste lid is niet van toepassing, indien gebruik wordt gemaakt van een speciale installatie waarvoor ingevolge de Wet milieubeheer een vergunning is afgegeven voor uitsluitend het gebruik van gasvormige en gasvormende gewasbeschermingsmiddelen of biociden.   
 3.  Degene die een gewasbeschermingsmiddel of biocide in een gasvormige of gasvormende toestand anders dan voor het bestrijden van mollen of woelratten buiten een besloten ruimte toepast stelt na de behandeling een gasvrijverklaring op voor de opdrachtgever.   
 4.  Onze Minister stelt bij ministeriële regeling regels inzake: 
 
@@ -504,9 +504,9 @@ b. de geldigheidsduur van de melding.
 2.  Onze Minister van Economische Zaken, onderscheidenlijk Onze Minister van Infrastructuur en Milieu, verstrekt een ontvangstbewijs van de melding aan de melder.   
 3.  Het voornemen tot toepassing van een gewasbeschermingsmiddel, onderscheidenlijk biocide wordt eveneens bij Onze Minister van Economische Zaken, onderscheidenlijk Onze Minister van Infrastructuur en Milieu, gemeld, voor zover voor de toepassing van een gewasbeschermingsmiddel of biocide in afwijking van de toelating, bedoeld in het eerste lid: 
 
-a. een vrijstelling is verleend voor een proef of experiment als bedoeld in [artikel 37, eerste lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), of [artikel 64, eerste lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md),  
+a. een vrijstelling is verleend voor een proef of experiment als bedoeld in artikel 37, eerste lid, of artikel 64, eerste lid, van de wet,  
 
-b. een vrijstelling is verleend op grond van [artikel 38](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) of [artikel 46, eerste lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md).     
+b. een vrijstelling is verleend op grond van artikel 38 of artikel 46, eerste lid, van de wet.     
 4.  Onze Minister stelt bij ministeriële regeling regels inzake: 
 
 a. de wijze waarop een melding wordt gedaan of ingetrokken;  
@@ -525,16 +525,9 @@ d. de gegevens die bij de melding worden verstrekt.
 
 ### Artikel  32a  
 
-####Reinigingsplicht verpakkingen in productschapsverordeningen
+####Reinigingsplicht verpakkingen
 
-1.  Ter uitvoering van [artikel 80a, tweede lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) wordt medewerking gevorderd van de besturen van het Productschap Akkerbouw, het Productschap Tuinbouw en het Productschap Zuivel.   
-2.  Deze medewerking bestaat uit: 
-
-a. het bij verordeningen stellen van regels dan wel nadere regels inzake de terugwinning of verwijdering van restanten van gewasbeschermingsmiddelen uit de verpakkingen ervan;  
-
-b. het aanwijzen van personen die zijn belast met het toezicht op de naleving van de verordeningen.     
-3.  De medewerking bestaat voor het Productschap Akkerbouw tevens uit het bij verordening stellen van regels, inhoudende dat de krachtens het tweede lid gestelde regels mede andere dan de in [artikel 102, eerste lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke personen en rechtspersonen binden, voor zover deze personen handelingen verrichten met betrekking tot de terugwinning of verwijdering van restanten van gewasbeschermingsmiddelen uit de verpakkingen ervan, die bedrijfsmatig in de ondernemingen waarvoor het productschap is ingesteld, plegen te worden verricht.   
-4.  De in het eerste lid genoemde productschappen kunnen tuchtrechtelijke maatregelen stellen als bedoeld in [artikel 2 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md) die kunnen worden toegepast bij overtreding van de in het tweede lid bedoelde verordeningen, behoudens voor de andere natuurlijke personen en rechtspersonen, bedoeld in het derde lid.  
+Onze Minister kan bij ministeriële regeling regels stellen omtrent de terugwinning of verwijdering van restanten van gewasbeschermingsmiddelen uit de verpakkingen ervan.
 
 ###§ 7 
 
@@ -545,14 +538,7 @@ b. het aanwijzen van personen die zijn belast met het toezicht op de naleving va
 ####Keuring van apparatuur
 
 1.  Apparatuur voor de toepassing van gewasbeschermingsmiddelen wordt uitsluitend gebruikt indien zij voldoet aan de eisen van bijlage II bij richtlijn 2009/128/EG en daarvan blijkt door middel van een officieel goedkeuringsbewijs.   
-2.  Ter uitvoering van [artikel 80, tweede lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md) wordt medewerking gevorderd van de besturen van het Productschap Akkerbouw en het Productschap Tuinbouw.   
-3.  Deze medewerking bestaat uit: 
-
-a. het bij verordening stellen van regels dan wel nadere regels inzake de keuring van in gebruik zijnde apparatuur voor de toepassing van gewasbeschermingsmiddelen, waaronder regels omtrent de keuringsfrequentie, de keuringseisen, de keuringsinstanties, het in rekening te brengen tarief voor de keuring en voor de afgifte van het officiële keuringsbewijs, alsmede de aanwijzing van apparatuur waarop het eerste lid niet van toepassing is, dan wel een afwijkende keuringsfrequentie van toepassing is;  
-
-b. het aanwijzen van personen die zijn belast met het toezicht op de naleving van de verordeningen.     
-4.  De medewerking bestaat voor het Productschap Akkerbouw tevens uit het bij verordening stellen van regels, inhoudende dat de krachtens het derde lid gestelde regels mede andere dan de in [artikel 102, eerste lid, van de Wet op de bedrijfsorganisatie](../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md) bedoelde natuurlijke personen en rechtspersonen binden, voor zover deze personen apparatuur voor de toepassing van gewasbeschermingsmiddelen gebruiken.   
-5.  De in het tweede lid genoemde productschappen kunnen tuchtrechtelijke maatregelen stellen als bedoeld in [artikel 2 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004](../../../../../../wet/wet/tuchtrechtspraak/bedrijfsorganisatie/2004/BWBR0016341/README.md), die kunnen worden toegepast bij overtreding van de in het derde lid bedoelde verordeningen, behoudens voor de andere natuurlijke personen en rechtspersonen, bedoeld in het vierde lid.  
+2.  Onze Minister kan bij ministeriële regeling regels stellen omtrent de keuring van in gebruik zijnde apparatuur voor de toepassing van gewasbeschermingsmiddelen, waaronder regels omtrent de keuringsfrequentie, de keuringseisen, de keuringsinstanties, het in rekening te brengen tarief voor de keuring en voor de afgifte van het officiële keuringsbewijs, alsmede de aanwijzing van apparatuur waarop het eerste lid niet van toepassing is, dan wel een afwijkende keuringsfrequentie van toepassing is.  
 
 ### Hoofdstuk  6  
 
@@ -562,7 +548,7 @@ b. het aanwijzen van personen die zijn belast met het toezicht op de naleving va
 
 ####Kosten dwangbevel
 
-De kosten, bedoeld in [artikel 4:120 van de Algemene wet bestuursrecht](../../../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) die Onze Minister in rekening kan brengen voor het uitvaardigen van een dwangbevel bedragen ten hoogste een bedrag dat is berekend met toepassing van [artikel 3, eerste lid, van de Kostenwet invordering rijksbelastingen](../../../../../../wet/kostenwet/invordering/rijksbelastingen/BWBR0002645/README.md). 
+De kosten, bedoeld in artikel 4:120 van de Algemene wet bestuursrecht die Onze Minister in rekening kan brengen voor het uitvaardigen van een dwangbevel bedragen ten hoogste een bedrag dat is berekend met toepassing van artikel 3, eerste lid, van de Kostenwet invordering rijksbelastingen. 
 
 ### Artikel  33a  
 
@@ -586,231 +572,231 @@ d. € 1.000 tot € 10.000.
 
 ### Artikel  38  
 
-####Wijziging [Arbeidsomstandighedenbesluit](../../../../../../AMvB/arbeidsomstandighedenbesluit/BWBR0008498/README.md)
+####Wijziging Arbeidsomstandighedenbesluit
 
 Wijzigt het Arbeidsomstandighedenbesluit. 
 
 ### Artikel  39  
 
-####Wijziging delegatiegrondslag [Lozingenbesluit open teelt en veehouderij](../../../../../../AMvB/lozingenbesluit/open/teelt/en/veehouderij/BWBR0011133/README.md)
+####Wijziging delegatiegrondslag Lozingenbesluit open teelt en veehouderij
 
 Wijzigt het Lozingenbesluit open teelt en veehouderij. 
 
 ### Artikel  40  
 
-####Wijziging delegatiegrondslag [Besluit glastuinbouw](../../../../../../AMvB/besluit/glastuinbouw/BWBR0013430/README.md)
+####Wijziging delegatiegrondslag Besluit glastuinbouw
 
 Wijzigt het Besluit glastuinbouw. 
 
 ### Artikel  41  
 
-####[Inrichtingen- en vergunningenbesluit milieubeheer](../../../../../../AMvB/inrichtingen-/en/vergunningenbesluit/milieubeheer/BWBR0005829/README.md)
+####Inrichtingen- en vergunningenbesluit milieubeheer
 
 Wijzigt het Inrichtingen- en vergunningenbesluit milieubeheer. 
 
 ### Artikel  42  
 
-####[Besluit beheer en schadebestrijding dieren](../../../../../../AMvB/besluit/beheer/en/schadebestrijding/dieren/BWBR0011849/README.md)
+####Besluit beheer en schadebestrijding dieren
 
 Wijzigt het Besluit beheer en schadebestrijding dieren. 
 
 ### Artikel  43  
 
-####[Besluit bouw- en houtbedrijven milieubeheer](../../../../../../AMvB/besluit/bouw-/en/houtbedrijven/milieubeheer/BWBR0011529/README.md)
+####Besluit bouw- en houtbedrijven milieubeheer
 
 Wijzigt het Besluit bouw- en houtbedrijven milieubeheer. 
 
 ### Artikel  44  
 
-####[Besluit detailhandel en ambachtsbedrijven milieubeheer](../../../../../../AMvB/besluit/detailhandel/en/ambachtsbedrijven/milieubeheer/BWBR0009935/README.md)
+####Besluit detailhandel en ambachtsbedrijven milieubeheer
 
 Wijzigt het Besluit detailhandel en ambachtsbedrijven milieubeheer. 
 
 ### Artikel  45  
 
-####[Besluit EOS: demo en transitie-experimenten](../../../../../../AMvB/besluit/eos/demo/en/transitie-experimenten/BWBR0017332/README.md)
+####Besluit EOS: demo en transitie-experimenten
 
 Wijzigt het Besluit EOS: demo en transitie-experimenten. 
 
 ### Artikel  46  
 
-####[Besluit horeca-, sport- en recreatie-inrichtingen milieubeheer](../../../../../../AMvB/besluit/horeca-/sport-/en/recreatie-inrichtingen/milieubeheer/BWBR0009633/README.md)
+####Besluit horeca-, sport- en recreatie-inrichtingen milieubeheer
 
 Wijzigt het Besluit horeca-, sport- en recreatie-inrichtingen milieubeheer. 
 
 ### Artikel  47  
 
-####[Besluit implementatie EG-verbodsrichtlijn Wms 1998](../../../../../../AMvB/besluit/implementatie/eg-verbodsrichtlijn/wms/1998/BWBR0005619/README.md)
+####Besluit implementatie EG-verbodsrichtlijn Wms 1998
 
 Wijzigt het Besluit implementatie EG-verbodsrichtlijn Wms 1998. 
 
 ### Artikel  48  
 
-####[Besluit inrichtingen voor motorvoertuigen milieubeheer](../../../../../../AMvB/besluit/inrichtingen/voor/motorvoertuigen/milieubeheer/BWBR0011409/README.md)
+####Besluit inrichtingen voor motorvoertuigen milieubeheer
 
 Wijzigt het Besluit inrichtingen voor motorvoertuigen milieubeheer. 
 
 ### Artikel  49  
 
-####[Besluit jachthavens](../../../../../../AMvB/besluit/jachthavens/BWBR0017082/README.md)
+####Besluit jachthavens
 
 Wijzigt het Besluit jachthavens. 
 
 ### Artikel  50  
 
-####[Registratiebesluit externe veiligheid](../../../../../../AMvB/registratiebesluit/externe/veiligheid/BWBR0020724/README.md)
+####Registratiebesluit externe veiligheid
 
 Wijzigt het Registratiebesluit externe veiligheid. 
 
 ### Artikel  51  
 
-####[Besluit opslag- en transportbedrijven milieubeheer](../../../../../../AMvB/besluit/opslag-/en/transportbedrijven/milieubeheer/BWBR0011417/README.md)
+####Besluit opslag- en transportbedrijven milieubeheer
 
 Wijzigt het Besluit opslag- en transportbedrijven milieubeheer. 
 
 ### Artikel  52  
 
-####[Besluit ozonlaagafbrekende stoffen Wms 2003](../../../../../../AMvB/besluit/ozonlaagafbrekende/stoffen/wms/2003/BWBR0015507/README.md)
+####Besluit ozonlaagafbrekende stoffen Wms 2003
 
 Wijzigt het Besluit ozonlaagafbrekende stoffen Wms 2003. 
 
 ### Artikel  53  
 
-####[Besluit politieregisters](../../../../../../AMvB/besluit/politieregisters/BWBR0004996/README.md)
+####Besluit politieregisters
 
 Wijzigt het Besluit politieregisters. 
 
 ### Artikel  54  
 
-####[Besluit woon- en verblijfsgebouwen milieubeheer](../../../../../../AMvB/besluit/woon-/en/verblijfsgebouwen/milieubeheer/BWBR0009934/README.md)
+####Besluit woon- en verblijfsgebouwen milieubeheer
 
 Wijzigt het Besluit woon- en verblijfsgebouwen milieubeheer. 
 
 ### Artikel  55  
 
-####[Kennisgevingsbesluit Wet milieugevaarlijke stoffen](../../../../../../AMvB/kennisgevingsbesluit/wet/milieugevaarlijke/stoffen/BWBR0004050/README.md)
+####Kennisgevingsbesluit Wet milieugevaarlijke stoffen
 
 Wijzigt het Kennisgevingsbesluit Wet milieugevaarlijke stoffen. 
 
 ### Artikel  56  
 
-####[Registratiebesluit Wet milieugevaarlijke stoffen](../../../../../../AMvB/registratiebesluit/wet/milieugevaarlijke/stoffen/BWBR0004321/README.md)
+####Registratiebesluit Wet milieugevaarlijke stoffen
 
 Wijzigt het Registratiebesluit Wet milieugevaarlijke stoffen. 
 
 ### Artikel  57  
 
-####[Spaanplaatbesluit (Warenwet)](../../../../../../AMvB/spaanplaatbesluit/(warenwet)/BWBR0004021/README.md)
+####Spaanplaatbesluit (Warenwet)
 
 Wijzigt het Spaanplaatbesluit (Warenwet). 
 
 ### Artikel  58  
 
-####[Uitvoeringsbesluit artikel 1, derde lid, Wet verontreiniging oppervlaktewateren](../../../../../../AMvB/uitvoeringsbesluit/artikel/1/derde/lid/wet/verontreiniging/etc/BWBR0002946/README.md)
+####Uitvoeringsbesluit artikel 1, derde lid, Wet verontreiniging oppervlaktewateren
 
 Wijzigt het Uitvoeringsbesluit artikel 1, derde lid, Wet verontreiniging oppervlaktewateren. 
 
 ### Artikel  59  
 
-####[Warenwetbesluit deponering informatie preparaten](../../../../../../AMvB/warenwetbesluit/deponering/informatie/preparaten/BWBR0008489/README.md)
+####Warenwetbesluit deponering informatie preparaten
 
 Wijzigt het Warenwetbesluit deponering informatie preparaten. 
 
 ### Artikel  60  
 
-####[Warenwetbesluit Levensmiddelenadditieven](../../../../../../AMvB/warenwetbesluit/levensmiddelenadditieven/BWBR0005456/README.md)
+####Warenwetbesluit Levensmiddelenadditieven
 
 Wijzigt het Warenwetbesluit Levensmiddelenadditieven. 
 
 ### Artikel  61  
 
-####[Besluit inbeslaggenomen voorwerpen](../../../../../../AMvB/besluit/inbeslaggenomen/voorwerpen/BWBR0007823/README.md)
+####Besluit inbeslaggenomen voorwerpen
 
 Wijzigt het Besluit inbeslaggenomen voorwerpen. 
 
 ### Artikel  62  
 
-####[Besluit kwaliteitseisen en monitoring water](../../../../../../AMvB/besluit/kwaliteitseisen/en/monitoring/water/BWBR0003633/README.md)
+####Besluit kwaliteitseisen en monitoring water
 
 Wijzigt het Besluit kwaliteitseisen en monitoring water. 
 
 ### Artikel  63  
 
-####[Besluit milieu-effectrapportage 1994](../../../../../../AMvB/besluit/milieueffectrapportage/BWBR0006788/README.md)
+####Besluit milieu-effectrapportage 1994
 
 Wijzigt het Besluit milieu-effectrapportage 1994. 
 
 ### Artikel  64  
 
-####[Besluit externe veiligheid inrichtingen](../../../../../../AMvB/besluit/externe/veiligheid/inrichtingen/BWBR0016767/README.md)
+####Besluit externe veiligheid inrichtingen
 
 Wijzigt het Besluit externe veiligheid inrichtingen. 
 
 ### Artikel  65  
 
-####[Besluit landbouw milieubeheer](../../../../../../AMvB/besluit/landbouw/milieubeheer/BWBR0020112/README.md)
+####Besluit landbouw milieubeheer
 
 Wijzigt het Besluit landbouw milieubeheer. 
 
 ### Artikel  66  
 
-####[Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie](../../../../../../AMvB/aanwijzingsbesluit/rechtspersonen/met/een/beperkte/kasbeheerfunctie/BWBR0017117/README.md)
+####Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie
 
 Wijzigt het Aanwijzingsbesluit rechtspersonen met een beperkte kasbeheerfunctie. 
 
 ### Artikel  67  
 
-####[Besluit BIBOB](../../../../../../AMvB/besluit/bibob/BWBR0014964/README.md)
+####Besluit BIBOB
 
 Wijzigt het Besluit BIBOB. 
 
 ### Artikel  68  
 
-####[Besluit milieuverslaglegging](../../../../../../AMvB/besluit/milieuverslaglegging/BWBR0010010/README.md)
+####Besluit milieuverslaglegging
 
 Wijzigt het Besluit milieuverslaglegging. 
 
 ### Artikel  69  
 
-####[Besluit voorzieningen en installaties milieubeheer](../../../../../../AMvB/besluit/voorzieningen/en/installaties/milieubeheer/BWBR0012897/README.md)
+####Besluit voorzieningen en installaties milieubeheer
 
 Wijzigt het Besluit voorzieningen en installaties milieubeheer. 
 
 ### Artikel  70  
 
-####[Besluit financiële zekerheid milieubeheer](../../../../../../KB/besluit/financiële/zekerheid/milieubeheer/BWBR0014686/README.md)
+####Besluit financiële zekerheid milieubeheer
 
 Wijzigt het Besluit financiële zekerheid milieubeheer. 
 
 ### Artikel  71  
 
-####[Besluit stortplaatsen en stortverboden afvalstoffen](../../../../../../AMvB/besluit/stortverbod/afvalstoffen/BWBR0009094/README.md)
+####Besluit stortplaatsen en stortverboden afvalstoffen
 
 Wijzigt het Besluit stortplaatsen en stortverboden afvalstoffen. 
 
 ### Artikel  72  
 
-####[Besluit vervoer gevaarlijke stoffen](../../../../../../AMvB/besluit/vervoer/gevaarlijke/stoffen/BWBR0008080/README.md)
+####Besluit vervoer gevaarlijke stoffen
 
 Wijzigt het Besluit vervoer gevaarlijke stoffen. 
 
 ### Artikel  73  
 
-####[Lozingenbesluit bodembescherming](../../../../../../AMvB/lozingenbesluit/bodembescherming/BWBR0009092/README.md)
+####Lozingenbesluit bodembescherming
 
 Wijzigt het Lozingenbesluit bodembescherming. 
 
 ### Artikel  74  
 
-####[Besluit overdracht zorg voor beleid inzake biociden](../../../../../../KB/besluit/overdracht/zorg/voor/beleid/inzake/biociden/BWBR0017702/README.md)
+####Besluit overdracht zorg voor beleid inzake biociden
 
-Het [koninklijk besluit van 14 december 2004, houdende de overdracht van de zorg voor het beleid inzake biociden](../../../../../../KB/besluit/overdracht/zorg/voor/beleid/inzake/biociden/BWBR0017702/README.md) (Stb. 2004, 696) wordt ingetrokken. 
+Het koninklijk besluit van 14 december 2004, houdende de overdracht van de zorg voor het beleid inzake biociden (Stb. 2004, 696) wordt ingetrokken. 
 
 ### Artikel  75  
 
 ####Overgangsrecht bewijs van vakbekwaamheid
 
-Bij ministeriële regeling worden regels gesteld voor de gelijkstelling van vergunningen verstrekt ingevolge het [Besluit vakkennis- en vakbekwaamheidseisen bestrijdingsmiddelen](../../../../../../AMvB/besluit/vakkennis-/en/vakbekwaamheidseisen/bestrijdingsmiddelen/BWBR0006814/README.md) zoals dit besluit bij inwerkingtreding van de wet bestond aan bewijzen van vakbekwaamheid verstrekt op grond van de [artikelen 71, derde lid](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), en [76, derde lid, van de wet](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md). 
+Bij ministeriële regeling worden regels gesteld voor de gelijkstelling van vergunningen verstrekt ingevolge het Besluit vakkennis- en vakbekwaamheidseisen bestrijdingsmiddelen zoals dit besluit bij inwerkingtreding van de wet bestond aan bewijzen van vakbekwaamheid verstrekt op grond van de artikelen 71, derde lid, en 76, derde lid, van de wet. 
 
 ### Artikel  76  
 
@@ -822,7 +808,7 @@ Wijzigt dit besluit.
 
 ####Inwerkingtreding
 
-1.  Indien het bij koninklijke boodschap van 1 maart 2006 ingediende voorstel van wet regeling voor de toelating, het op de markt brengen en het gebruik van gewasbeschermingsmiddelen en biociden ([Wet gewasbeschermingsmiddelen en biociden](../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md)) (Kamerstukken II 2005/06, 30474, nr. 2), nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking met uitzondering van: 
+1.  Indien het bij koninklijke boodschap van 1 maart 2006 ingediende voorstel van wet regeling voor de toelating, het op de markt brengen en het gebruik van gewasbeschermingsmiddelen en biociden (Wet gewasbeschermingsmiddelen en biociden) (Kamerstukken II 2005/06, 30474, nr. 2), nadat het tot wet is verheven, in werking treedt, treedt dit besluit op hetzelfde tijdstip in werking met uitzondering van: 
 
 a. artikel 29, eerste en tweede lid, dat vijf jaar na dat tijdstip in werking treedt en  
 

@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Landbouw, Natuur en Voedselkwaliteit van 1 september 2005, TRCJZ/2005/2593, Directie Juridische Zaken;
 
-Gelet op de Europese richtlijnen met betrekking tot het in de handel brengen van teeltmateriaal van verschillende soorten gewassen alsmede gelet op de [artikelen 19](../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), [39, eerste en tweede lid](../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), [40](../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), [41](../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), [43](../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), [85](../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md), en [87, tweede, derde en zesde lid, van de Zaaizaad- en plantgoedwet 2005](../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md);
+Gelet op de Europese richtlijnen met betrekking tot het in de handel brengen van teeltmateriaal van verschillende soorten gewassen alsmede gelet op de artikelen 19, 39, eerste en tweede lid, 40, 41, 43, 85, en 87, tweede, derde en zesde lid, van de Zaaizaad- en plantgoedwet 2005;
 
 De Raad van State gehoord (advies van 14 oktober 2005, nr. W11.05.0400/V);
 
@@ -20,9 +20,9 @@ Hebben goedgevonden en verstaan:
 
 1.  In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
-a. wet: [Zaaizaad- en plantgoedwet 2005](../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md);  
+a. wet: Zaaizaad- en plantgoedwet 2005;  
 
-b. keuringsinstelling: privaatrechtelijke rechtspersoon als bedoeld in [artikel 19 van de wet](../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md);  
+b. keuringsinstelling: privaatrechtelijke rechtspersoon als bedoeld in artikel 19 van de wet;  
 
 c. NAK: de Stichting Nederlandse Algemene Keuringsdienst voor zaaizaad en pootgoed van landbouwgewassen;  
 
@@ -38,7 +38,7 @@ h. oliehoudende planten en vezelgewassen: gewassen, bedoeld in artikel 2, eerste
 
 i.  fruitgewassen: gewassen, alsmede hybriden daarvan, die zijn opgenomen in bijlage I van richtlijn nr. 2008/90/EG;  
 
-j. siergewassen: gewassen waarvan teeltmateriaal, bedoeld in artikel 2, eerste lid, van richtlijn nr. 98/56/EG van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226), wordt voortgebracht, met uitzondering van bloembollen, bedoeld in [artikel 1, onder t, van het Landbouwkwaliteitsbesluit 2007](../../../../../AMvB/landbouwkwaliteitsbesluit/2007/BWBR0022535/README.md);  
+j. siergewassen: gewassen waarvan teeltmateriaal, bedoeld in artikel 2, eerste lid, van richtlijn nr. 98/56/EG van de Raad van de Europese Unie van 20 juli 1998 betreffende het in de handel brengen van teeltmateriaal van siergewassen (PbEG L 226), wordt voortgebracht, met uitzondering van bloembollen, bedoeld in artikel 1, onder t, van het Landbouwkwaliteitsbesluit 2007;  
 
 k. groenteplanten: teeltmateriaal van gewassen, alsmede hybriden daarvan, die zijn opgenomen in bijlage II van richtlijn nr. 92/33/EEG van de Raad van de Europese Gemeenschappen van 28 april 1992 betreffende het in de handel brengen van teeltmateriaal en plantgoed van groentegewassen, met uitzondering van zaad (PbEG L 157);  
 
@@ -52,7 +52,11 @@ o. tuinbouwgewassen: fruitgewassen, groentegewassen en siergewassen;
 
 p. landbouwgewassen: bieten, groenvoedergewassen, oliehoudende planten en vezelgewassen, pootaardappelen en zaaigranen;  
 
-q.  *richtlijn 2008/90/EG:* richtlijn 2008/90/EG van de Raad van de Europese Unie van 29 september 2008 betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEU L 267).    
+q. richtlijn 2008/90/EG: richtlijn 2008/90/EG van de Raad van de Europese Unie van 29 september 2008 betreffende het in de handel brengen van teeltmateriaal van fruitgewassen, alsmede van fruitgewassen die voor de fruitteelt worden gebruikt (PbEU L 267); 
+
+r. landbouwzaaizaad: zaaizaad van landbouwgewassen;  
+
+s. landbouwgrond: grond waarop landbouwgewassen worden geteeld of onmiddellijk kunnen worden geteeld.    
 2.  Een wijziging van de desbetreffende handelsrichtlijn gaat voor de toepassing van dit besluit gelden met ingang van de dag waarop aan de betrokken wijzigingsrichtlijn uitvoering moet zijn gegeven.  
 
 ### Paragraaf  2  
@@ -89,7 +93,7 @@ d. de voorwaarde dat teeltmateriaal van fruitgewassen uitsluitend in de handel w
 
 e. de termijn waarbinnen teeltmateriaal van landbouwgewassen na beëindiging van de toelating en inschrijving in het rassenregister in de handel gebracht mag worden;  
 
-f. de erkenning of registratie van leveranciers als bedoeld in [artikel 42 van de wet](../../../../../wet/zaaizaad-/en/plantgoedwet/2005/BWBR0018040/README.md);  
+f. de erkenning of registratie van leveranciers als bedoeld in artikel 42 van de wet;  
 
 g. de uitvoering van het onderzoek naar de instandhouding van een ras;  
 
@@ -132,21 +136,38 @@ Bij ministeriële regeling kunnen regels worden gesteld over de toestemming, bed
 
 ### Paragraaf  4  
 
+####Teelt
+
+### Artikel  6b  
+
+1.  De teelt van landbouwgewassen, tuinbouwgewassen en bosbouwgewassen is slechts toegestaan indien is voldaan aan de bij ministeriële regeling gestelde regels inzake teelt.   
+2.  De regels, bedoeld in het eerste lid, kunnen betrekking hebben op: 
+
+a. het gebruik, de opslag en de bewerking van landbouwzaaizaad dat niet overeenkomstig de bij die regels aangewezen voorschriften is goedgekeurd;  
+
+b. het verstrekken van gegevens inzake landbouwzaaizaad aan Onze Minister;  
+
+c. het bewerken van landbouwgrond teneinde de verontreiniging van zaaizaad tegen te gaan;  
+
+d. het voorkomen van economische schade door het naast elkaar bestaan van genetisch gemodificeerde gewassen en niet-genetisch gemodificeerde gewassen.    
+
+### Paragraaf  5  
+
 ####Slotbepalingen
 
 ### Artikel  7  
 
 De volgende besluiten worden ingetrokken: 
 
-a. [Aansluitingsbesluit N.A.K.](../../../../../AMvB/aansluitingsbesluit/n.a.k./BWBR0002567/README.md);  
+a. Aansluitingsbesluit N.A.K.;  
 
-b. [Aansluitingsbesluit Naktuinbouw](../../../../../AMvB/aansluitingsbesluit/n.a.k.b./BWBR0002566/README.md);  
+b. Aansluitingsbesluit Naktuinbouw;  
 
-c. [Besluit Categorieën Teeltmateriaal](../../../../../AMvB/besluit/categorieën/teeltmateriaal/BWBR0002570/README.md);  
+c. Besluit Categorieën Teeltmateriaal;  
 
-d. [Besluit verhandeling teeltmateriaal landbouwgewassen](../../../../../AMvB/besluit/verhandeling/teeltmateriaal/landbouwgewassen/BWBR0009072/README.md);  
+d. Besluit verhandeling teeltmateriaal landbouwgewassen;  
 
-e. [Besluit verhandeling teeltmateriaal tuinbouwgewassen](../../../../../AMvB/besluit/verhandeling/teeltmateriaal/tuinbouwgewassen/BWBR0004347/README.md).   
+e. Besluit verhandeling teeltmateriaal tuinbouwgewassen.   
 
 ### Artikel  8  
 

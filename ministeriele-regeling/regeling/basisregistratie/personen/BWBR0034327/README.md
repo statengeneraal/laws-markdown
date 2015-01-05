@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Binnenlandse Zaken en Koninkrijksrelaties van 3 december 2013, nr. 2013-0000731182, DCB/CZW/S&B, houdende regels ter uitvoering van de Wet basisregistratie personen en het Besluit basisregistratie personen (Regeling basisregistratie personen)
 
 De Minister van Binnenlandse Zaken en Koninkrijksrelaties,  
-Gelet op richtlijn nr. 95/46/EG van het Europees Parlement en de Raad van de Europese Unie van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens (PbEG L 281), de [artikelen 1.12, derde en vierde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [1.15, derde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.21, vijfde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [2.40, derde lid](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), en [4.7, tweede lid, van de Wet basisregistratie personen](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) en de [artikelen 3, eerste lid](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), [6, vierde lid](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), [9, tweede lid](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), [15, tweede en zevende lid](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), [16, derde lid](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), [17, derde lid](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), [20](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), [23, tweede lid](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), [32, tweede lid](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), [38](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), [47, tweede, vierde en zesde lid](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), [48, tweede lid](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), [49](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md) en [52 van het Besluit basisregistratie personen](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md);
+Gelet op richtlijn nr. 95/46/EG van het Europees Parlement en de Raad van de Europese Unie van 24 oktober 1995 betreffende de bescherming van natuurlijke personen in verband met de verwerking van persoonsgegevens en betreffende het vrije verkeer van die gegevens (PbEG L 281), de artikelen 1.12, derde en vierde lid, 1.15, derde lid, 2.21, vijfde lid, 2.40, derde lid, en 4.7, tweede lid, van de Wet basisregistratie personen en de artikelen 3, eerste lid, 6, vierde lid, 9, tweede lid, 15, tweede en zevende lid, 16, derde lid, 17, derde lid, 20, 23, tweede lid, 32, tweede lid, 38, 47, tweede, vierde en zesde lid, 48, tweede lid, 49 en 52 van het Besluit basisregistratie personen;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -17,9 +17,9 @@ Besluit:
 
 In deze regeling wordt verstaan onder: 
 
-a.  *de Wet BRP:* de [Wet basisregistratie personen](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md);  
+a.  *de Wet BRP:* de Wet basisregistratie personen;  
 
-b.  *het Besluit BRP:* het [Besluit basisregistratie personen](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md);  
+b.  *het Besluit BRP:* het Besluit basisregistratie personen;  
 
 c.  *de minister:* de Minister van Binnenlandse Zaken en Koninkrijksrelaties.   
 
@@ -49,7 +49,7 @@ c. de hoofdstukken 3 en 4 van de in bijlage 3 bij deze regeling opgenomen beschr
 ### Artikel  4  
 
 1.  De te bewaren geschriften en andere bescheiden, ongeacht hun vorm, die de verantwoordelijke heeft gebruikt in verband met de verwerking van gegevens in de basisregistratie, zijn vermeld in de lijst die als bijlage 6 bij deze regeling is gevoegd.   
-2.  De in het eerste lid bedoelde geschriften en andere bescheiden worden met het oog op het gebruik daarvan bij de uitvoering van de [Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) bewaard gedurende de in de lijst vermelde termijnen.  
+2.  De in het eerste lid bedoelde geschriften en andere bescheiden worden met het oog op het gebruik daarvan bij de uitvoering van de Wet BRP bewaard gedurende de in de lijst vermelde termijnen.  
 
 ### §  4  
 
@@ -59,13 +59,13 @@ c. de hoofdstukken 3 en 4 van de in bijlage 3 bij deze regeling opgenomen beschr
 
 In deze paragraaf wordt verstaan onder: 
 
-a.  *werkzaamheden:* werkzaamheden, vastgelegd in de schriftelijke overeenkomst, bedoeld in [artikel 7, eerste lid, van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md);  
+a.  *werkzaamheden:* werkzaamheden, vastgelegd in de schriftelijke overeenkomst, bedoeld in artikel 7, eerste lid, van het Besluit BRP;  
 
 b.  *medewerker:* een persoon die werkzaam is voor de bewerker.   
 
 ### Artikel  6  
 
-Maatregelen als bedoeld in [artikel 9, eerste lid, van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md) omvatten ten minste de volgende elementen: 
+Maatregelen als bedoeld in artikel 9, eerste lid, van het Besluit BRP omvatten ten minste de volgende elementen: 
 
 a. Een medewerker wordt slechts bij de werkzaamheden betrokken, indien hij in het bezit is van een verklaring omtrent het gedrag die is afgegeven op grond van de Wet justitiële en strafvorderlijke gegevens.  
 
@@ -89,24 +89,24 @@ h. Er worden maatregelen getroffen om de schade te beperken en herhaling te voor
 
 ### Artikel  7  
 
-Een overheidsorgaan of een derde als bedoeld in [artikel 1.12, eerste onderscheidenlijk vierde lid, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), stelt de door de minister hiertoe aangewezen personen in staat gegevens te verzamelen ten behoeve van het onderzoek, bedoeld in artikel 1.12, eerste lid, van de Wet BRP. 
+Een overheidsorgaan of een derde als bedoeld in artikel 1.12, eerste onderscheidenlijk vierde lid, van de Wet BRP, stelt de door de minister hiertoe aangewezen personen in staat gegevens te verzamelen ten behoeve van het onderzoek, bedoeld in artikel 1.12, eerste lid, van de Wet BRP. 
 
 ### §  6  
 
-####Kosten in verband met de uitvoering van de [Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md)
+####Kosten in verband met de uitvoering van de Wet BRP
 
 ### Artikel  8  
 
-1.  Voor de toepassing van [artikel 15 van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md) worden als afstemmingsbericht aangemerkt: 
+1.  Voor de toepassing van artikel 15 van het Besluit BRP worden als afstemmingsbericht aangemerkt: 
 
-a. ieder eerste verzoek tot een eenmalige verstrekking als bedoeld in [artikel 37, eerste lid, onderdeel a, van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), betreffende een geregistreerde persoon als bedoeld in [artikel 15, vijfde lid, van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), en  
+a. ieder eerste verzoek tot een eenmalige verstrekking als bedoeld in artikel 37, eerste lid, onderdeel a, van het Besluit BRP, betreffende een geregistreerde persoon als bedoeld in artikel 15, vijfde lid, van het Besluit BRP, en  
 
-b. iedere eerste eenmalige verstrekking als bedoeld in [artikel 37, eerste lid, onderdeel a, van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), betreffende een geregistreerde persoon als bedoeld in [artikel 15, vijfde lid, van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), indien de verzending en de ontvangst van het bericht geschieden op een wijze die op grond van [artikel 4 van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md) is beschreven in de systeembeschrijving.     
-2.  In afwijking van het eerste lid worden niet als afstemmingsbericht aangemerkt de berichten die door het overheidsorgaan of de derde over het stelsel van berichtuitwisseling worden verzonden en ontvangen, voor zover deze berichten het aantal afstemmingsberichten, bedoeld in [artikel 15, achtste lid, van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), te boven gaan.  
+b. iedere eerste eenmalige verstrekking als bedoeld in artikel 37, eerste lid, onderdeel a, van het Besluit BRP, betreffende een geregistreerde persoon als bedoeld in artikel 15, vijfde lid, van het Besluit BRP, indien de verzending en de ontvangst van het bericht geschieden op een wijze die op grond van artikel 4 van het Besluit BRP is beschreven in de systeembeschrijving.     
+2.  In afwijking van het eerste lid worden niet als afstemmingsbericht aangemerkt de berichten die door het overheidsorgaan of de derde over het stelsel van berichtuitwisseling worden verzonden en ontvangen, voor zover deze berichten het aantal afstemmingsberichten, bedoeld in artikel 15, achtste lid, van het Besluit BRP, te boven gaan.  
 
 ### Artikel  9  
 
-Het tarief, bedoeld in [artikel 15, zevende lid, van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), bedraagt per overheidsorgaan of derde: 
+Het tarief, bedoeld in artikel 15, zevende lid, van het Besluit BRP, bedraagt per overheidsorgaan of derde: 
 
 a. bij verzending en ontvangst van afstemmingsberichten over het stelsel van berichtuitwisseling: € 0,16 per geregistreerde persoon;  
 
@@ -114,13 +114,13 @@ b. bij verzending en ontvangst van afstemmingsberichten met behulp van alternati
 
 ### Artikel  10  
 
-1.  De bijdrage die op grond van [artikel 16 van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md) ten hoogste in rekening kan worden gebracht, bedraagt € 166.   
-2.  De bijdrage die op grond van [artikel 17 van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md) ten hoogste in rekening kan worden gebracht, bedraagt € 7,50.  
+1.  De bijdrage die op grond van artikel 16 van het Besluit BRP ten hoogste in rekening kan worden gebracht, bedraagt € 166.   
+2.  De bijdrage die op grond van artikel 17 van het Besluit BRP ten hoogste in rekening kan worden gebracht, bedraagt € 7,50.  
 
 ### Artikel  11  
 
-1.  Onverminderd de kosten waaraan door de betrokkene al wordt bijgedragen op grond van [artikel 14 van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), worden de kosten op basis waarvan een bijdrage kan worden vastgesteld op grond van [artikel 18 van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md) bepaald door het aantal uren dat wordt gewerkt aan de verstrekking, vermenigvuldigd met een uurtarief van € 98.   
-2.  Onverminderd het bepaalde in [artikel 19 van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), worden de kosten op basis waarvan een bijdrage wordt vastgesteld op grond van artikel 19 van het Besluit BRP bepaald door het aantal uren dat wordt gewerkt aan de verstrekking, vermenigvuldigd met een uurtarief van € 98.   
+1.  Onverminderd de kosten waaraan door de betrokkene al wordt bijgedragen op grond van artikel 14 van het Besluit BRP, worden de kosten op basis waarvan een bijdrage kan worden vastgesteld op grond van artikel 18 van het Besluit BRP bepaald door het aantal uren dat wordt gewerkt aan de verstrekking, vermenigvuldigd met een uurtarief van € 98.   
+2.  Onverminderd het bepaalde in artikel 19 van het Besluit BRP, worden de kosten op basis waarvan een bijdrage wordt vastgesteld op grond van artikel 19 van het Besluit BRP bepaald door het aantal uren dat wordt gewerkt aan de verstrekking, vermenigvuldigd met een uurtarief van € 98.   
 3.  Bij verstrekking met behulp van alternatieve media wordt de bijdrage, bedoeld in het eerste en tweede lid, vermeerderd met € 166.  
 
 ### §  7  
@@ -129,7 +129,7 @@ b. bij verzending en ontvangst van afstemmingsberichten met behulp van alternati
 
 ### Artikel  12  
 
-1.  De representatieve vertegenwoordigingen van de gemeenten, van de aangewezen bestuursorganen als bedoeld in [artikel 2.65 van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) en van de overheidsorganen waaraan en derden aan wie op grond van [artikel 3.2](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), [3.3](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) of [3.13 van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) gegevens uit de basisregistratie worden verstrekt, bedoeld in [artikel 1.15, eerste lid, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), bestaan gezamenlijk uit ten hoogste twaalf personen.   
+1.  De representatieve vertegenwoordigingen van de gemeenten, van de aangewezen bestuursorganen als bedoeld in artikel 2.65 van de Wet BRP en van de overheidsorganen waaraan en derden aan wie op grond van artikel 3.2, 3.3 of 3.13 van de Wet BRP gegevens uit de basisregistratie worden verstrekt, bedoeld in artikel 1.15, eerste lid, van de Wet BRP, bestaan gezamenlijk uit ten hoogste twaalf personen.   
 2.  Het overleg wordt ten minste vier keer per jaar gevoerd.   
 3.  Op verzoek van de minister of een van de vertegenwoordigers kan ook tussentijds overleg plaatsvinden.  
 
@@ -144,27 +144,27 @@ b. bij verzending en ontvangst van afstemmingsberichten met behulp van alternati
 
 ### Artikel  14  
 
-De in de tabel in bijlage 1 bij de [artikelen 23, tweede lid](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), en [32, tweede lid, van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md) bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling zijn nader bepaald in bijlage 7 bij deze regeling. 
+De in de tabel in bijlage 1 bij de artikelen 23, tweede lid, en 32, tweede lid, van het Besluit BRP bedoelde gegevens in verband met het verblijfsrecht van de vreemdeling zijn nader bepaald in bijlage 7 bij deze regeling. 
 
 ### Artikel  15  
 
-De administratieve gegevens, bedoeld in de [artikelen 23, tweede lid](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), en [32, tweede lid, van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), zijn nader bepaald in bijlage 8 bij deze regeling. 
+De administratieve gegevens, bedoeld in de artikelen 23, tweede lid, en 32, tweede lid, van het Besluit BRP, zijn nader bepaald in bijlage 8 bij deze regeling. 
 
 ### Artikel  16  
 
-Het model van het verhuisbericht, bedoeld in [artikel 2.21, vijfde lid, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), is opgenomen in bijlage 9 bij deze regeling. 
+Het model van het verhuisbericht, bedoeld in artikel 2.21, vijfde lid, van de Wet BRP, is opgenomen in bijlage 9 bij deze regeling. 
 
 ### Artikel  17  
 
-Als instellingen voor gezondheidszorg als bedoeld in [artikel 2.40, derde lid, onderdeel a, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), worden aangewezen: de instellingen, bedoeld in [artikel 1, onder 14 en 18, van het Uitvoeringsbesluit WTZi](../../../../../AMvB/uitvoeringsbesluit/wtzi/BWBR0018983/README.md). 
+Als instellingen voor gezondheidszorg als bedoeld in artikel 2.40, derde lid, onderdeel a, van de Wet BRP, worden aangewezen: de instellingen, bedoeld in artikel 1, onder 14 en 18, van het Uitvoeringsbesluit WTZi. 
 
 ### Artikel  18  
 
-Als instellingen op het gebied van de kinderbescherming als bedoeld in [artikel 2.40, derde lid, onderdeel b, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), worden aangewezen: de justitiële jeugdinrichtingen, bedoeld in [artikel 3a van de Beginselenwet justitiële jeugdinrichtingen](../../../../../wet/beginselenwet/justitiële/jeugdinrichtingen/BWBR0011756/README.md), en accommodaties als bedoeld in [artikel 29k, eerste lid, van de Wet op de jeugdzorg](../../../../../wet/wet/op/de/jeugdzorg/BWBR0016637/README.md). 
+Als instellingen op het gebied van de kinderbescherming als bedoeld in artikel 2.40, derde lid, onderdeel b, van de Wet BRP, worden aangewezen: de justitiële jeugdinrichtingen, bedoeld in artikel 3a van de Beginselenwet justitiële jeugdinrichtingen, en accommodaties als bedoeld in artikel 29k, eerste lid, van de Wet op de jeugdzorg. 
 
 ### Artikel  19  
 
-Als penitentiaire instellingen als bedoeld in [artikel 2.40, derde lid, onderdeel c, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), worden aangewezen: de inrichtingen die door de Minister van Veiligheid en Justitie zijn bestemd voor de tenuitvoerlegging van vrijheidsbeneming, niet zijnde inrichtingen als bedoeld in artikel 18. 
+Als penitentiaire instellingen als bedoeld in artikel 2.40, derde lid, onderdeel c, van de Wet BRP, worden aangewezen: de inrichtingen die door de Minister van Veiligheid en Justitie zijn bestemd voor de tenuitvoerlegging van vrijheidsbeneming, niet zijnde inrichtingen als bedoeld in artikel 18. 
 
 ### Hoofdstuk  3  
 
@@ -172,7 +172,7 @@ Als penitentiaire instellingen als bedoeld in [artikel 2.40, derde lid, onderdee
 
 ### Artikel  20  
 
-Het formulier, bedoeld in [artikel 38 van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), is opgenomen in bijlage 10 bij deze regeling. 
+Het formulier, bedoeld in artikel 38 van het Besluit BRP, is opgenomen in bijlage 10 bij deze regeling. 
 
 ### Hoofdstuk  4  
 
@@ -184,38 +184,38 @@ Het formulier, bedoeld in [artikel 38 van het Besluit BRP](../../../../../AMvB/b
 
 ### Artikel  21  
 
-1.  De gegevens in het uittreksel, bedoeld in [artikel 4.3, tweede lid, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), dat door het college van burgemeester en wethouders aan het College bescherming persoonsgegevens wordt gezonden, zijn geaggregeerd zodanig: 
+1.  De gegevens in het uittreksel, bedoeld in artikel 4.3, tweede lid, van de Wet BRP, dat door het college van burgemeester en wethouders aan het College bescherming persoonsgegevens wordt gezonden, zijn geaggregeerd zodanig: 
 
 a. dat het aantal correcte persoonslijsten ten opzichte van het totale aantal persoonslijsten wordt weergegeven en de afwijkingen worden ingedeeld in drie groepen, te weten: 
 
-1° de afwijkingen betreffende de algemene gegevens, bedoeld in [artikel 2.7, eerste lid, onderdeel a, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) over de burgerlijke staat en het adres;  
+1° de afwijkingen betreffende de algemene gegevens, bedoeld in artikel 2.7, eerste lid, onderdeel a, van de Wet BRP over de burgerlijke staat en het adres;  
 
-2° de afwijkingen betreffende de overige algemene gegevens, bedoeld in [artikel 2.7, eerste lid, onderdeel a](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), en [artikel 4.9, eerste lid, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md);  
+2° de afwijkingen betreffende de overige algemene gegevens, bedoeld in artikel 2.7, eerste lid, onderdeel a, en artikel 4.9, eerste lid, van de Wet BRP;  
 
-3° de afwijkingen betreffende de administratieve gegevens, bedoeld in [artikel 2.7, eerste lid, onderdeel b, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).    
+3° de afwijkingen betreffende de administratieve gegevens, bedoeld in artikel 2.7, eerste lid, onderdeel b, van de Wet BRP.    
 
-b. dat het aantal malen wordt weergegeven dat in de verslagperiode een aantekening omtrent een onderzoek als bedoeld in [artikel 2.26 van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) is geplaatst.     
-2.  De gegevens in het uittreksel, bedoeld in [artikel 4.3, tweede lid, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), dat door de minister aan het College bescherming persoonsgegevens wordt gezonden, zijn geaggregeerd zodanig: 
+b. dat het aantal malen wordt weergegeven dat in de verslagperiode een aantekening omtrent een onderzoek als bedoeld in artikel 2.26 van de Wet BRP is geplaatst.     
+2.  De gegevens in het uittreksel, bedoeld in artikel 4.3, tweede lid, van de Wet BRP, dat door de minister aan het College bescherming persoonsgegevens wordt gezonden, zijn geaggregeerd zodanig: 
 
 a. dat het aantal correcte persoonslijsten ten opzichte van het totale aantal persoonslijsten wordt weergegeven en de afwijkingen worden ingedeeld in twee groepen, te weten: 
 
-1° de afwijkingen betreffende de algemene gegevens, bedoeld in [artikel 2.69, eerste lid, onderdeel a](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), en [artikel 4.9, tweede lid, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md);  
+1° de afwijkingen betreffende de algemene gegevens, bedoeld in artikel 2.69, eerste lid, onderdeel a, en artikel 4.9, tweede lid, van de Wet BRP;  
 
-2° de afwijkingen betreffende de administratieve gegevens, bedoeld in [artikel 2.69, eerste lid, onderdeel b, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).    
+2° de afwijkingen betreffende de administratieve gegevens, bedoeld in artikel 2.69, eerste lid, onderdeel b, van de Wet BRP.    
 
-b. dat het aantal malen wordt weergegeven dat in de verslagperiode een aantekening omtrent een onderzoek als bedoeld in [artikel 2.76 van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) is geplaatst.     
-3.  De gegevens in het uittreksel, bedoeld in [artikel 4.3, vierde lid, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), dat door het college van burgemeester en wethouders aan de minister wordt gezonden, zijn geaggregeerd zodanig: 
+b. dat het aantal malen wordt weergegeven dat in de verslagperiode een aantekening omtrent een onderzoek als bedoeld in artikel 2.76 van de Wet BRP is geplaatst.     
+3.  De gegevens in het uittreksel, bedoeld in artikel 4.3, vierde lid, van de Wet BRP, dat door het college van burgemeester en wethouders aan de minister wordt gezonden, zijn geaggregeerd zodanig: 
 
 a. dat het aantal correcte persoonslijsten ten opzichte van het totale aantal persoonslijsten wordt weergegeven en de afwijkingen worden ingedeeld in drie groepen, te weten: 
 
-1° de afwijkingen betreffende de algemene gegevens, bedoeld in [artikel 2.7, eerste lid, onderdeel a, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) over de burgerlijke staat en het adres;  
+1° de afwijkingen betreffende de algemene gegevens, bedoeld in artikel 2.7, eerste lid, onderdeel a, van de Wet BRP over de burgerlijke staat en het adres;  
 
-2° de afwijkingen betreffende de overige algemene gegevens, bedoeld in [artikel 2.7, eerste lid, onderdeel a](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), en [artikel 4.9, eerste lid, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md);  
+2° de afwijkingen betreffende de overige algemene gegevens, bedoeld in artikel 2.7, eerste lid, onderdeel a, en artikel 4.9, eerste lid, van de Wet BRP;  
 
-3° de afwijkingen betreffende de administratieve gegevens, bedoeld in [artikel 2.7, eerste lid, onderdeel b, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md).    
+3° de afwijkingen betreffende de administratieve gegevens, bedoeld in artikel 2.7, eerste lid, onderdeel b, van de Wet BRP.    
 
-b. dat het aantal malen wordt weergegeven dat in de verslagperiode een aantekening omtrent een onderzoek als bedoeld in [artikel 2.26 van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) is geplaatst.     
-4.  Onverminderd het derde lid, omvatten de gegevens in het uittreksel, bedoeld in [artikel 4.3, vierde lid, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md), dat door het college van burgemeester en wethouders aan de minister wordt gezonden, de antwoorden op de vragen van de vragenlijsten die deel uitmaken van het evaluatie-instrument.  
+b. dat het aantal malen wordt weergegeven dat in de verslagperiode een aantekening omtrent een onderzoek als bedoeld in artikel 2.26 van de Wet BRP is geplaatst.     
+4.  Onverminderd het derde lid, omvatten de gegevens in het uittreksel, bedoeld in artikel 4.3, vierde lid, van de Wet BRP, dat door het college van burgemeester en wethouders aan de minister wordt gezonden, de antwoorden op de vragen van de vragenlijsten die deel uitmaken van het evaluatie-instrument.  
 
 ### §  2  
 
@@ -224,7 +224,7 @@ b. dat het aantal malen wordt weergegeven dat in de verslagperiode een aantekeni
 ### Artikel  22  
 
 1.  Het college van burgemeester en wethouders kan besluiten het persoonsregister, bedoeld in het Besluit bevolkingsboekhouding, op een andere wijze dan in de vorm van persoonskaarten als bedoeld in het Besluit bevolkingsboekhouding aan te houden. Indien het college hiertoe besluit, regelt het tevens de vernietiging van de persoonskaarten.   
-2.  Op een besluit als bedoeld in het eerste lid is [artikel 7 van de Archiefwet 1995](../../../../../wet/archiefwet/1995/BWBR0007376/README.md) van toepassing.  
+2.  Op een besluit als bedoeld in het eerste lid is artikel 7 van de Archiefwet 1995 van toepassing.  
 
 ### Artikel  23  
 
@@ -241,11 +241,11 @@ Indien het college van burgemeester en wethouders van ’s-Gravenhage voor een d
 
 ### Artikel  26  
 
-Het college van burgemeester en wethouders van ’s-Gravenhage treft ter beveiliging van het persoonskaartenarchief en het schakelregister de maatregelen, bedoeld in [artikel 6 van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md). 
+Het college van burgemeester en wethouders van ’s-Gravenhage treft ter beveiliging van het persoonskaartenarchief en het schakelregister de maatregelen, bedoeld in artikel 6 van het Besluit BRP. 
 
 ### Artikel  27  
 
-[Hoofdstuk III van de Archiefwet 1995](../../../../../wet/archiefwet/1995/BWBR0007376/README.md) blijft met betrekking tot het persoonskaartenarchief, het schakelregister en de daarbij behorende bescheiden onverkort van kracht. 
+Hoofdstuk III van de Archiefwet 1995 blijft met betrekking tot het persoonskaartenarchief, het schakelregister en de daarbij behorende bescheiden onverkort van kracht. 
 
 ### Artikel  28  
 
@@ -284,7 +284,7 @@ b. met overeenkomstige toepassing van het vijfde lid.
 
 ### Artikel  31  
 
-1.  Een ieder omtrent wie gegevens zijn opgenomen in het centraal archief van overledenen kan de minister schriftelijk verzoeken, geen gegevens die hem betreffen aan een derde te verstrekken. [Artikel 2.55, vierde en vijfde lid, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) is van overeenkomstige toepassing.   
+1.  Een ieder omtrent wie gegevens zijn opgenomen in het centraal archief van overledenen kan de minister schriftelijk verzoeken, geen gegevens die hem betreffen aan een derde te verstrekken. Artikel 2.55, vierde en vijfde lid, van de Wet BRP is van overeenkomstige toepassing.   
 2.  De verzoeker verstrekt de benodigde inlichtingen om aan het verzoek te kunnen voldoen.   
 3.  De minister geeft aan het verzoek binnen vier weken gevolg en doet daarvan terstond schriftelijk mededeling aan de verzoeker.   
 4.  In afwijking van het eerste lid kunnen gegevens omtrent de verzoeker aan een derde worden verstrekt, indien de verstrekking noodzakelijk is in verband met de uitvoering van een algemeen verbindend voorschrift en de persoonlijke levenssfeer daardoor niet onevenredig wordt geschaad.   
@@ -293,19 +293,19 @@ b. met overeenkomstige toepassing van het vijfde lid.
 
 ### Artikel  32  
 
-1.  Een ieder omtrent wie gegevens zijn opgenomen in het centraal archief van overledenen wordt op diens verzoek binnen vier weken kosteloos inzage verleend in die gegevens. [Artikel 2.55, vierde en vijfde lid, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) is van overeenkomstige toepassing.   
+1.  Een ieder omtrent wie gegevens zijn opgenomen in het centraal archief van overledenen wordt op diens verzoek binnen vier weken kosteloos inzage verleend in die gegevens. Artikel 2.55, vierde en vijfde lid, van de Wet BRP is van overeenkomstige toepassing.   
 2.  De verzoeker verstrekt de benodigde inlichtingen om aan het verzoek te kunnen voldoen.   
 3.  De minister verstrekt de verzoeker binnen vier weken een afschrift van de gegevens, bedoeld in het eerste lid.  
 
 ### Artikel  33  
 
-1.  In verband met de verstrekking van gegevens uit het persoonskaartenarchief, het schakelregister en het centraal archief van overledenen, bedoeld in [artikel 49 van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md), wordt een vergoeding in rekening gebracht aan een derde, behoudens in verband met verstrekkingen overeenkomstig [artikel 3.3 van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) en verstrekkingen aan de betrokkene van hem betreffende gegevens.   
+1.  In verband met de verstrekking van gegevens uit het persoonskaartenarchief, het schakelregister en het centraal archief van overledenen, bedoeld in artikel 49 van het Besluit BRP, wordt een vergoeding in rekening gebracht aan een derde, behoudens in verband met verstrekkingen overeenkomstig artikel 3.3 van de Wet BRP en verstrekkingen aan de betrokkene van hem betreffende gegevens.   
 2.  De vergoeding, bedoeld in het eerste lid, bedraagt in het geval van verstrekking uit het persoonskaartenarchief en het schakelregister € 4,05 per persoon op wie het verzoek betrekking heeft.   
 3.  De vergoeding, bedoeld in het eerste lid, bedraagt in het geval van verstrekking uit het centraal archief van overledenen: 
 
-a. € 4,05 per persoon op wie het verzoek betrekking heeft, met dien verstande dat ten minste € 8,10 in rekening wordt gebracht;  
+a. € 4,10 per persoon op wie het verzoek betrekking heeft, met dien verstande dat ten minste € 8,20 in rekening wordt gebracht;  
 
-b. € 3,70 per persoon op wie het verzoek betrekking heeft, indien het verzoek betrekking heeft op meer dan honderd personen.    
+b. € 3,75 per persoon op wie het verzoek betrekking heeft, indien het verzoek betrekking heeft op meer dan honderd personen.    
 
 ### §  3  
 
@@ -313,7 +313,7 @@ b. € 3,70 per persoon op wie het verzoek betrekking heeft, indien het verzoek
 
 ### Artikel  34  
 
-[Artikel 26 van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md) is niet van toepassing in de gevallen dat de in dat artikel bedoelde gegevens, bescheiden of inlichtingen worden verstrekt of mededelingen worden gedaan aan een college van burgemeester en wethouders dat gebruik maakt van een oude gemeentelijke voorziening als bedoeld in [artikel 4.15, eerste lid, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md). 
+Artikel 26 van het Besluit BRP is niet van toepassing in de gevallen dat de in dat artikel bedoelde gegevens, bescheiden of inlichtingen worden verstrekt of mededelingen worden gedaan aan een college van burgemeester en wethouders dat gebruik maakt van een oude gemeentelijke voorziening als bedoeld in artikel 4.15, eerste lid, van de Wet BRP. 
 
 ### Artikel  35  
 
@@ -323,11 +323,11 @@ b. € 3,70 per persoon op wie het verzoek betrekking heeft, indien het verzoek
 
 ### Artikel  36  
 
-Bij de inwerkingtreding van deze regeling gelden als tabellen, bedoeld in artikel 35, eerste lid, de tabellen zoals deze laatstelijk zijn vastgesteld op grond van de [artikelen 13](../../../../../AMvB/besluit/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006933/README.md) en [14 van het Besluit gemeentelijke basisadministratie persoonsgegevens](../../../../../AMvB/besluit/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006933/README.md), zoals dat luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze regeling. 
+Bij de inwerkingtreding van deze regeling gelden als tabellen, bedoeld in artikel 35, eerste lid, de tabellen zoals deze laatstelijk zijn vastgesteld op grond van de artikelen 13 en 14 van het Besluit gemeentelijke basisadministratie persoonsgegevens, zoals dat luidde onmiddellijk voorafgaand aan de inwerkingtreding van deze regeling. 
 
 ### Artikel  37  
 
-Deze regeling treedt in werking op het tijdstip waarop de [Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) in werking treedt. 
+Deze regeling treedt in werking op het tijdstip waarop de Wet BRP in werking treedt. 
 
 ### Artikel  38  
 
@@ -420,17 +420,17 @@ De onderdelen van het Logisch Ontwerp RNI, die deel uitmaken van de systeembesch
 
 ####Inleiding
 
-In deze bijlage wordt een beschrijving gegeven van de wijze waarop de systeembeschrijving BRP moet worden toegepast. Die beschrijving is noodzakelijk omdat er nog geen Logisch Ontwerp BRP beschikbaar is dat specifiek is toegesneden op de uitvoering van de [Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md). De nieuwe regelgeving wordt daarom voorlopig uitgevoerd op basis van een systeembeschrijving waarin onderdelen zijn aangewezen van het bestaande Logisch Ontwerp GBA (LO GBA) en van het nieuwe Logisch Ontwerp RNI (LO RNI). Het LO RNI is weliswaar nieuw, maar sluit wat betreft opzet en inhoud zeer nauw aan bij het LO GBA. In veel gevallen wordt in het LO RNI volstaan met een verwijzing naar het LO GBA. In het LO GBA zijn voorzieningen opgenomen die op grond van de [Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) deels als gemeentelijke voorziening en deels als centrale voorzieningen moeten worden aangemerkt. De bestaande gemeentelijke GBA systemen zijn onder de Wet BRP aan te merken als de oude gemeentelijke voorziening, waarmee door de gemeenten uitvoering wordt gegeven aan de wet. Het LO GBA bevat tevens een beschrijving van de voorziening GBA Verstrekkingen (GBA-V), die in technisch opzicht op de bestaande gemeentelijke systemen aansluit. De GBA-V moet onder de Wet BRP worden aangemerkt als centrale voorziening, waarvoor de Minister van Binnenlandse Zaken en Koninkrijksrelaties verantwoordelijk is. Voorts is in het LO GBA de terugmeldvoorziening beschreven, die onder de Wet BRP eveneens als een centrale voorziening moet worden aangemerkt die functioneert onder de verantwoordelijkheid van de Minister van Binnenlandse Zaken en Koninkrijksrelaties. Het LO RNI beschrijft de technische voorziening die nodig is voor de registratie van niet-ingezetenen. Het gaat hier om een centrale voorziening, waarvoor de Minister van Binnenlandse Zaken en Koninkrijksrelaties verantwoordelijk is. Daartoe behoren ook de inschrijfvoorzieningen waar een niet-ingezetene zich kan inschrijven, die fysiek zijn ondergebracht bij een aantal gemeenten. De RNI voorziening is in technisch opzicht nog gebaseerd op de bestaande GBA voorzieningen, met gebruikmaking van dezelfde standaarden voor gegevensopslag en gegevensuitwisseling. Deze beschrijving geeft, in aanvulling op de aanwijzing van de onderdelen van de hiervoor genoemde Logisch Ontwerpen, aan hoe deze verschillende onderdelen in onderlinge samenhang en in het licht van de nieuwe regelgeving moeten worden toegepast. Daartoe wordt enerzijds in een concordantietabel de in de aangewezen onderdelen gehanteerde terminologie en inhoud van sommige begrippen, die nog naar de [Wet GBA](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) verwijzen, zoveel mogelijk vertaald naar het nieuwe begrippenkader van de [Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md). Anderzijds wordt op hoofdlijnen beschreven in hoeverre de in de systeembeschrijving BRP aangewezen onderdelen van toepassing zijn als gevolg van de aanwijzing of de niet aanwijzing van andere onderdelen van de Logisch Ontwerpen. 
+In deze bijlage wordt een beschrijving gegeven van de wijze waarop de systeembeschrijving BRP moet worden toegepast. Die beschrijving is noodzakelijk omdat er nog geen Logisch Ontwerp BRP beschikbaar is dat specifiek is toegesneden op de uitvoering van de Wet BRP. De nieuwe regelgeving wordt daarom voorlopig uitgevoerd op basis van een systeembeschrijving waarin onderdelen zijn aangewezen van het bestaande Logisch Ontwerp GBA (LO GBA) en van het nieuwe Logisch Ontwerp RNI (LO RNI). Het LO RNI is weliswaar nieuw, maar sluit wat betreft opzet en inhoud zeer nauw aan bij het LO GBA. In veel gevallen wordt in het LO RNI volstaan met een verwijzing naar het LO GBA. In het LO GBA zijn voorzieningen opgenomen die op grond van de Wet BRP deels als gemeentelijke voorziening en deels als centrale voorzieningen moeten worden aangemerkt. De bestaande gemeentelijke GBA systemen zijn onder de Wet BRP aan te merken als de oude gemeentelijke voorziening, waarmee door de gemeenten uitvoering wordt gegeven aan de wet. Het LO GBA bevat tevens een beschrijving van de voorziening GBA Verstrekkingen (GBA-V), die in technisch opzicht op de bestaande gemeentelijke systemen aansluit. De GBA-V moet onder de Wet BRP worden aangemerkt als centrale voorziening, waarvoor de Minister van Binnenlandse Zaken en Koninkrijksrelaties verantwoordelijk is. Voorts is in het LO GBA de terugmeldvoorziening beschreven, die onder de Wet BRP eveneens als een centrale voorziening moet worden aangemerkt die functioneert onder de verantwoordelijkheid van de Minister van Binnenlandse Zaken en Koninkrijksrelaties. Het LO RNI beschrijft de technische voorziening die nodig is voor de registratie van niet-ingezetenen. Het gaat hier om een centrale voorziening, waarvoor de Minister van Binnenlandse Zaken en Koninkrijksrelaties verantwoordelijk is. Daartoe behoren ook de inschrijfvoorzieningen waar een niet-ingezetene zich kan inschrijven, die fysiek zijn ondergebracht bij een aantal gemeenten. De RNI voorziening is in technisch opzicht nog gebaseerd op de bestaande GBA voorzieningen, met gebruikmaking van dezelfde standaarden voor gegevensopslag en gegevensuitwisseling. Deze beschrijving geeft, in aanvulling op de aanwijzing van de onderdelen van de hiervoor genoemde Logisch Ontwerpen, aan hoe deze verschillende onderdelen in onderlinge samenhang en in het licht van de nieuwe regelgeving moeten worden toegepast. Daartoe wordt enerzijds in een concordantietabel de in de aangewezen onderdelen gehanteerde terminologie en inhoud van sommige begrippen, die nog naar de Wet GBA verwijzen, zoveel mogelijk vertaald naar het nieuwe begrippenkader van de Wet BRP. Anderzijds wordt op hoofdlijnen beschreven in hoeverre de in de systeembeschrijving BRP aangewezen onderdelen van toepassing zijn als gevolg van de aanwijzing of de niet aanwijzing van andere onderdelen van de Logisch Ontwerpen. 
 
 ### 2  
 
-####Concordantietabel van termen en begrippen onder de [Wet GBA](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md) en de [Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md)
+####Concordantietabel van termen en begrippen onder de Wet GBA en de Wet BRP
 
-In de onderstaande tabel worden termen en begrippen zoals die voorkomen in de aangewezen onderdelen van het LO GBA en het LO RNI voor zover mogelijk vertaald naar het nieuwe begrippenkader van de [Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md). Het is niet doenlijk om daarbij volledig te zijn, omdat dit zou neerkomen op het geheel herschrijven van de desbetreffende onderdelen. Er wordt daarom volstaan met een concordantietabel waarin de belangrijkste en meest voorkomende termen en begrippen zijn opgenomen. Gezien het feit dat de Wet BRP voorshands met de bestaande voorzieningen wordt uitgevoerd, waarbij in een aantal gevallen van de nieuwe regelgeving wordt afgeweken, is het van belang de bestaande termen en begrippen in hun technische context binnen de systeembeschrijving te blijven zien, ondanks het feit dat zij onder de Wet BRP een nieuwe aanduiding of inhoud hebben gekregen of daarin zelfs niet terugkeren.  
+In de onderstaande tabel worden termen en begrippen zoals die voorkomen in de aangewezen onderdelen van het LO GBA en het LO RNI voor zover mogelijk vertaald naar het nieuwe begrippenkader van de Wet BRP. Het is niet doenlijk om daarbij volledig te zijn, omdat dit zou neerkomen op het geheel herschrijven van de desbetreffende onderdelen. Er wordt daarom volstaan met een concordantietabel waarin de belangrijkste en meest voorkomende termen en begrippen zijn opgenomen. Gezien het feit dat de Wet BRP voorshands met de bestaande voorzieningen wordt uitgevoerd, waarbij in een aantal gevallen van de nieuwe regelgeving wordt afgeweken, is het van belang de bestaande termen en begrippen in hun technische context binnen de systeembeschrijving te blijven zien, ondanks het feit dat zij onder de Wet BRP een nieuwe aanduiding of inhoud hebben gekregen of daarin zelfs niet terugkeren.  
 
-| LO GBA en LO RNI  | [Wet basisregistratie personen](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md)  |
+| LO GBA en LO RNI  | Wet basisregistratie personen  |
 |:---|:---|
-| [Wet GBA](../../../../../wet/wet/gemeentelijke/basisadministratie/persoonsgegevens/BWBR0006723/README.md)  | [Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md)  |
+| Wet GBA  | Wet BRP  |
 | (gemeentelijke) basisadministratie  | basisregistratie personen  |
 | gemeentelijk gba-systeem  | gemeentelijke voorziening  |
 | GBA-V, terugmeldvoorziening, RNI  | centrale voorzieningen  |
@@ -439,8 +439,8 @@ In de onderstaande tabel worden termen en begrippen zoals die voorkomen in de aa
 | vervolginschrijving  | –  |
 | opschorting van de persoonslijst  | opneming van het gegeven over het niet-ingezetenschap op de persoonslijst  |
 | adreslijst  | –  |
-| afnemer  | overheidsorgaan waaraan of derde aan wie op systematische wijze gegevens worden verstrekt of op grond van [artikel 3.14 van de wet](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) informatie beschikbaar wordt gesteld  |
-| bijzondere gegevens in verband met de uitvoering van de [Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md) of de [Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)  | algemene gegevens in verband met de uitvoering van de [Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md) of de [Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)  |
+| afnemer  | overheidsorgaan waaraan of derde aan wie op systematische wijze gegevens worden verstrekt of op grond van artikel 3.14 van de wet informatie beschikbaar wordt gesteld  |
+| bijzondere gegevens in verband met de uitvoering van de Kieswet of de Paspoortwet  | algemene gegevens in verband met de uitvoering van de Kieswet of de Paspoortwet  |
 | verwijsgegevens  | –  |
 | verblijfstitel  | gegevens in verband met het verblijfsrecht van de vreemdeling  |
 | GBA-V (als niet-technische actor)  | de minister (agentschap BPR)  |
@@ -479,7 +479,7 @@ De in de systeembeschrijving aangewezen bijlage C van het LO GBA, die betrekking
 
 ####Alternatieve media
 
-Het gebruik van alternatieve media door gemeenten is onder de werking van de [Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) niet meer aan de orde. Dit houdt in dat alle passages in de onderdelen die betrekking hebben op alternatieve media, voor zover die betrekking hebben op het gebruik daarvan door gemeenten, niet meer van toepassing zijn. 
+Het gebruik van alternatieve media door gemeenten is onder de werking van de Wet BRP niet meer aan de orde. Dit houdt in dat alle passages in de onderdelen die betrekking hebben op alternatieve media, voor zover die betrekking hebben op het gebruik daarvan door gemeenten, niet meer van toepassing zijn. 
 
 ### f  
 
@@ -495,7 +495,7 @@ Alle passages in de onderdelen die betrekking hebben op afnemersindicaties zijn 
 
 ### h  
 
-####Verzoeken van ingeschrevenen als bedoeld in de [artikelen 3.22](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) en [3.23 van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md)
+####Verzoeken van ingeschrevenen als bedoeld in de artikelen 3.22 en 3.23 van de Wet BRP
 
 De passages in de onderdelen die het voldoen aan deze verzoeken beperken tot de gegevens die één jaar voorafgaand aan het verzoek zijn verstrekt, blijven buiten toepassing. 
 
@@ -533,25 +533,25 @@ Deze bijlage wordt ter inzage gelegd en tevens via www.bprbzk.nl beschikbaar ges
 | Bescheiden gebruikt bij opname, wijzigen en corrigeren van gegevens betreffende naam, geboorte, geslacht en afstamming, bescheiden gebruikt bij het verwijderen van historische oudergegevens en bescheiden waaruit de datum rechtsgeldigheid van genoemde gegevens blijkt, voor zover die bescheiden niet uit een Nederlands register kunnen worden gereproduceerd  | 110 jaar  |
 | Bescheiden betreffende het opnemen, wijzigen van gegevens inzake het aangaan of het ontbinden van huwelijk/geregistreerd partnerschap, voor zover het bescheiden betreft die niet uit een Nederlands register kunnen worden gereproduceerd  | 110 jaar  |
 | Bescheiden betreffende het opnemen en wijzigen van overlijdensgegevens, voor zover het bescheiden betreft die niet uit een Nederlands register kunnen worden gereproduceerd  | 110 jaar  |
-| Verklaring onder eed of belofte, als bedoeld in [artikel 2.8, tweede lid, onder e, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md)  | Onbeperkt  |
-| Bescheiden betreffende het aanwijzen van ambtenaren ten overstaan van wie een verklaring als bedoeld in [2.8, tweede lid, onderdeel e, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) kan worden afgelegd  | 5 jaar na het vervallen van de bevoegdheid  |
+| Verklaring onder eed of belofte, als bedoeld in artikel 2.8, tweede lid, onder e, van de Wet BRP  | Onbeperkt  |
+| Bescheiden betreffende het aanwijzen van ambtenaren ten overstaan van wie een verklaring als bedoeld in 2.8, tweede lid, onderdeel e, van de Wet BRP kan worden afgelegd  | 5 jaar na het vervallen van de bevoegdheid  |
 | Bescheiden betreffende het naamgebruik  | 5 jaar  |
 | Bescheiden afkomstig van de Nederlandse burgerlijke stand  | 1 jaar  |
 | Mededelingen afkomstig uit het curateleregister en het gezagsregister  | 1 jaar  |
-| Bescheiden betreffende het vertrek ([art. 2.21](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) en [2.22 van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) en [art. 25 van het Besluit BRP](../../../../../AMvB/besluit/basisregistratie/personen/BWBR0034306/README.md))  | 10 jaar  |
+| Bescheiden betreffende het vertrek (art. 2.21 en 2.22 van de Wet BRP en art. 25 van het Besluit BRP)  | 10 jaar  |
 | Bescheiden betreffende opname of wijziging in de documentindicatie (tot moment van opheffen van de opschorting)  | 110 jaar  |
 | Bescheiden betreffende het bezit, de verkrijging, de verlening en het verlies van het Nederlanderschap, voor zover het de vermelding van dit gegeven in de basisregistratie betreft  | 10 jaar  |
 | Bescheiden betreffende het bezit, de verkrijging en het verlies van bijzonder Nederlanderschap  | 10 jaar  |
 | Bescheiden betreffende het bezit, de verkrijging en het verlies van een niet-Nederlandse nationaliteit  | 10 jaar  |
 | Aangifte van (her)vestiging in Nederland, van adreswijziging (niet zijnde emigratie) en overige bescheiden betreffende het verblijf en het adres  | 5 jaar  |
-| Bescheiden betreffende het aanwijzen van instellingen, bedoeld in [artikel 2.40](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md) of [2.42, onderdeel b, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md)  | 1 jaar na vervallen van de verplichting of opheffing van de instelling  |
+| Bescheiden betreffende het aanwijzen van instellingen, bedoeld in artikel 2.40 of 2.42, onderdeel b, van de Wet BRP  | 1 jaar na vervallen van de verplichting of opheffing van de instelling  |
 | Bescheiden betreffende het bezit van een buitenlands reisdocument  | 5 jaar  |
-| Bescheiden betreffende het opnemen of wijzigen van gegevens met betrekking tot Nederlandse reisdocumenten, voor zover deze gegevens niet in de reisdocumentenadministratie ingevolge de [Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md) worden opgenomen  | 11 jaar  |
+| Bescheiden betreffende het opnemen of wijzigen van gegevens met betrekking tot Nederlandse reisdocumenten, voor zover deze gegevens niet in de reisdocumentenadministratie ingevolge de Paspoortwet worden opgenomen  | 11 jaar  |
 | Bescheiden betreffende het Nederlands kiesrecht  | 1 jaar  |
 | Bescheiden betreffende het Europees kiesrecht  | 10 jaar  |
-| Verzoeken betreffende de toepassing van [artikel 3.21 van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md)  | 5 jaar  |
+| Verzoeken betreffende de toepassing van artikel 3.21 van de Wet BRP  | 5 jaar  |
 | Bescheiden verband houdend met de verstrekking van gegevens uit de basisregistratie (waaronder verzoeken betreffende het inzagerecht)  | 20 jaar  |
-| Alle overige bescheiden verband houdend met de verwerking van persoonsgegevens in de basisregistratie (onder meer onderzoeksdossiers, bescheiden betreffende een procedure ingevolge [artikel 2.60 van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md))  | 10 jaar  |
+| Alle overige bescheiden verband houdend met de verwerking van persoonsgegevens in de basisregistratie (onder meer onderzoeksdossiers, bescheiden betreffende een procedure ingevolge artikel 2.60 van de Wet BRP)  | 10 jaar  |
 
 ### Bijlage  7  
 
@@ -561,53 +561,53 @@ Deze bijlage wordt ter inzage gelegd en tevens via www.bprbzk.nl beschikbaar ges
 
 De aantekeningen in verband met het verblijfsrecht van de vreemdeling: 
 
-a. de aantekening dat de ingeschrevene ingevolge [artikel 8, onderdeel a, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd, waarbij het de ingeschrevene is toegestaan elke vorm van arbeid in loondienst te verrichten;  
+a. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel a, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd, waarbij het de ingeschrevene is toegestaan elke vorm van arbeid in loondienst te verrichten;  
 
-b. de aantekening dat de ingeschrevene ingevolge [artikel 8, onderdeel a, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd, waarbij het de ingeschrevene is toegestaan elke vorm van arbeid in loondienst te verrichten, mits de werkgever van de ingeschrevene beschikt over een daartoe vereiste tewerkstellingsvergunning;  
+b. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel a, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd, waarbij het de ingeschrevene is toegestaan elke vorm van arbeid in loondienst te verrichten, mits de werkgever van de ingeschrevene beschikt over een daartoe vereiste tewerkstellingsvergunning;  
 
-c. de aantekening dat de ingeschrevene ingevolge [artikel 8, onderdeel a, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd, waarbij het de ingeschrevene is toegestaan bepaalde vormen van arbeid in loondienst te verrichten;  
+c. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel a, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd, waarbij het de ingeschrevene is toegestaan bepaalde vormen van arbeid in loondienst te verrichten;  
 
-d. de aantekening dat de ingeschrevene ingevolge [artikel 8, onderdeel a, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd, waarbij het de ingeschrevene niet is toegestaan arbeid in loondienst te verrichten;  
+d. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel a, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd, waarbij het de ingeschrevene niet is toegestaan arbeid in loondienst te verrichten;  
 
-e. de aantekening dat de ingeschrevene ingevolge [artikel 8, onderdeel b, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft, waarbij het de ingeschrevene is toegestaan elke vorm van arbeid in loondienst te verrichten;  
+e. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel b, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft, waarbij het de ingeschrevene is toegestaan elke vorm van arbeid in loondienst te verrichten;  
 
-f. de aantekening dat de ingeschrevene ingevolge [artikel 8, onderdeel c, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd, waarbij het de ingeschrevene is toegestaan elke vorm van arbeid in loondienst te verrichten;  
+f. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel c, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft op grond van een verblijfsvergunning voor bepaalde tijd, waarbij het de ingeschrevene is toegestaan elke vorm van arbeid in loondienst te verrichten;  
 
-g. de aantekening dat de ingeschrevene ingevolge [artikel 8, onderdeel d, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft, waarbij het de ingeschrevene is toegestaan elke vorm van arbeid in loondienst te verrichten;  
+g. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel d, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft, waarbij het de ingeschrevene is toegestaan elke vorm van arbeid in loondienst te verrichten;  
 
-h. de aantekening dat de ingeschrevene als economisch actieve gemeenschapsonderdaan ingevolge [artikel 8.12](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) of [8.13 van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) langer dan drie maanden na inreis rechtmatig verblijf heeft;  
+h. de aantekening dat de ingeschrevene als economisch actieve gemeenschapsonderdaan ingevolge artikel 8.12 of 8.13 van het Vreemdelingenbesluit 2000 langer dan drie maanden na inreis rechtmatig verblijf heeft;  
 
-i. de aantekening dat de ingeschrevene als economisch niet-actieve gemeenschapsonderdaan ingevolge [artikel 8.12](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) of [8.13 van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) langer dan drie maanden na inreis rechtmatig verblijf heeft;  
+i. de aantekening dat de ingeschrevene als economisch niet-actieve gemeenschapsonderdaan ingevolge artikel 8.12 of 8.13 van het Vreemdelingenbesluit 2000 langer dan drie maanden na inreis rechtmatig verblijf heeft;  
 
-j. de aantekening dat de ingeschrevene ingevolge [artikel 8.11 van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) rechtmatig verblijf heeft, waarbij aan het recht van de ingeschrevene om arbeid te verrichten geen voorwaarden kunnen worden gesteld;  
+j. de aantekening dat de ingeschrevene ingevolge artikel 8.11 van het Vreemdelingenbesluit 2000 rechtmatig verblijf heeft, waarbij aan het recht van de ingeschrevene om arbeid te verrichten geen voorwaarden kunnen worden gesteld;  
 
-k. de aantekening dat de ingeschrevene ingevolge [artikel 8, onderdeel f, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 14 van die wet, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op de aanvraag is beslist, dan wel ingevolge [artikel 8, onderdeel h, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een bezwaarschrift of beroepschrift tegen de beslissing op de desbetreffende aanvraag, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op het bezwaarschrift of het beroepschrift is beslist;  
+k. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel f, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft in afwachting van de beslissing op een aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 14 van die wet, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op de aanvraag is beslist, dan wel ingevolge artikel 8, onderdeel h, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft in afwachting van de beslissing op een bezwaarschrift of beroepschrift tegen de beslissing op de desbetreffende aanvraag, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op het bezwaarschrift of het beroepschrift is beslist;  
 
-l. de aantekening dat de ingeschrevene ingevolge [artikel 8, onderdeel f, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in [artikel 28 van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op de aanvraag is beslist, dan wel ingevolge [artikel 8, onderdeel h, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een beroepschrift tegen de beslissing op de desbetreffende aanvraag, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op het beroepschrift is beslist;  
+l. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel f, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft in afwachting van de beslissing op een aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 28 van die wet, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op de aanvraag is beslist, dan wel ingevolge artikel 8, onderdeel h, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft in afwachting van de beslissing op een beroepschrift tegen de beslissing op de desbetreffende aanvraag, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op het beroepschrift is beslist;  
 
-m. de aantekening dat de ingeschrevene ingevolge [artikel 8, onderdeel g, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een door de ingeschrevene tijdig ingediende aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in [artikel 8, onderdelen b en d, van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of tot het verlengen van de geldigheidsduur van een verblijfsvergunning op grond van die wet, of een wijziging ervan, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op de aanvraag is beslist, dan wel ingevolge [artikel 8, onderdeel h, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een bezwaarschrift of beroepschrift tegen de beslissing op de desbetreffende aanvraag of tegen de intrekking van een verblijfsvergunning op grond van die wet, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op het bezwaarschrift of het beroepschrift is beslist;  
+m. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel g, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft in afwachting van de beslissing op een door de ingeschrevene tijdig ingediende aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 8, onderdelen b en d, van die wet, of tot het verlengen van de geldigheidsduur van een verblijfsvergunning op grond van die wet, of een wijziging ervan, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op de aanvraag is beslist, dan wel ingevolge artikel 8, onderdeel h, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft in afwachting van de beslissing op een bezwaarschrift of beroepschrift tegen de beslissing op de desbetreffende aanvraag of tegen de intrekking van een verblijfsvergunning op grond van die wet, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op het bezwaarschrift of het beroepschrift is beslist;  
 
-n. de aantekening dat de ingeschrevene ingevolge [artikel 8, onderdeel g, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een door de ingeschrevene niet tijdig ingediende aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in [artikel 8, onderdelen b en d, van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of tot het verlengen van de geldigheidsduur van de verblijfsvergunning, bedoeld in de [artikelen 14](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) en [28 van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md), of een wijziging ervan, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op de aanvraag is beslist, dan wel ingevolge [artikel 8, onderdeel h, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de beslissing op een bezwaarschrift of beroepschrift tegen de beslissing op de desbetreffende aanvraag, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op het bezwaarschrift of het beroepschrift is beslist;  
+n. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel g, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft in afwachting van de beslissing op een door de ingeschrevene niet tijdig ingediende aanvraag tot het verlenen van de verblijfsvergunning, bedoeld in artikel 8, onderdelen b en d, van die wet, of tot het verlengen van de geldigheidsduur van de verblijfsvergunning, bedoeld in de artikelen 14 en 28 van die wet, of een wijziging ervan, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op de aanvraag is beslist, dan wel ingevolge artikel 8, onderdeel h, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft in afwachting van de beslissing op een bezwaarschrift of beroepschrift tegen de beslissing op de desbetreffende aanvraag, terwijl bij of krachtens die wet dan wel op grond van een rechterlijke beslissing uitzetting van de ingeschrevene achterwege dient te blijven totdat op het bezwaarschrift of het beroepschrift is beslist;  
 
-o. de aantekening dat de ingeschrevene ingevolge [artikel 8, onderdeel l, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft, omdat de ingeschrevene verblijfsrecht ontleent aan het Associatiebesluit 1/80 van de Associatieraad EEG/Turkije;  
+o. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel l, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft, omdat de ingeschrevene verblijfsrecht ontleent aan het Associatiebesluit 1/80 van de Associatieraad EEG/Turkije;  
 
 p. de aantekening dat de ingeschrevene geen titel tot verblijf heeft of deze heeft verloren;  
 
-q. de aantekening dat de ingeschrevene, ingevolge [artikel 8.12 van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) langer dan drie maanden na inreis rechtmatig verblijf heeft als economisch actieve onderdaan van een land dat op of na 1 mei 2004 tot de Europese Unie is toegetreden, waarbij aan het recht van de ingeschrevene om arbeid te verrichten voorwaarden kunnen worden gesteld, dan wel ingevolge [artikel 8.13 van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) langer dan drie maanden rechtmatig verblijf heeft bij een ingeschrevene als hierboven bedoeld, waarbij aan het recht om arbeid te verrichten zodanige voorwaarden kunnen worden gesteld;  
+q. de aantekening dat de ingeschrevene, ingevolge artikel 8.12 van het Vreemdelingenbesluit 2000 langer dan drie maanden na inreis rechtmatig verblijf heeft als economisch actieve onderdaan van een land dat op of na 1 mei 2004 tot de Europese Unie is toegetreden, waarbij aan het recht van de ingeschrevene om arbeid te verrichten voorwaarden kunnen worden gesteld, dan wel ingevolge artikel 8.13 van het Vreemdelingenbesluit 2000 langer dan drie maanden rechtmatig verblijf heeft bij een ingeschrevene als hierboven bedoeld, waarbij aan het recht om arbeid te verrichten zodanige voorwaarden kunnen worden gesteld;  
 
-r. de aantekening dat de ingeschrevene, ingevolge [artikel 8.12 van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) langer dan drie maanden na inreis rechtmatig verblijf heeft als economisch niet-actieve gemeenschapsonderdaan van een land dat op of na 1 mei 2004 tot de Europese Unie is toegetreden, waarbij aan het recht van de ingeschrevene om arbeid te verrichten voorwaarden kunnen worden gesteld, dan wel ingevolge [artikel 8.13 van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) langer dan drie maanden rechtmatig verblijf heeft bij een ingeschrevene als hierboven bedoeld, waarbij aan het recht om arbeid te verrichten zodanige voorwaarden kunnen worden gesteld;  
+r. de aantekening dat de ingeschrevene, ingevolge artikel 8.12 van het Vreemdelingenbesluit 2000 langer dan drie maanden na inreis rechtmatig verblijf heeft als economisch niet-actieve gemeenschapsonderdaan van een land dat op of na 1 mei 2004 tot de Europese Unie is toegetreden, waarbij aan het recht van de ingeschrevene om arbeid te verrichten voorwaarden kunnen worden gesteld, dan wel ingevolge artikel 8.13 van het Vreemdelingenbesluit 2000 langer dan drie maanden rechtmatig verblijf heeft bij een ingeschrevene als hierboven bedoeld, waarbij aan het recht om arbeid te verrichten zodanige voorwaarden kunnen worden gesteld;  
 
-s. de aantekening dat de ingeschrevene, ingevolge [artikel 8.11, eerste lid, van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) rechtmatig verblijf heeft als onderdaan van een land dat op of na 1 mei 2004 tot de Europese Unie is toegetreden, waarbij aan het recht van de ingeschrevene om arbeid te verrichten voorwaarden kunnen worden gesteld, dan wel ingevolge [artikel 8.11, tweede lid, van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) rechtmatig verblijf heeft gedurende een zodanige periode, waarbij aan het recht om arbeid te verrichten zodanige voorwaarden kunnen worden gesteld;  
+s. de aantekening dat de ingeschrevene, ingevolge artikel 8.11, eerste lid, van het Vreemdelingenbesluit 2000 rechtmatig verblijf heeft als onderdaan van een land dat op of na 1 mei 2004 tot de Europese Unie is toegetreden, waarbij aan het recht van de ingeschrevene om arbeid te verrichten voorwaarden kunnen worden gesteld, dan wel ingevolge artikel 8.11, tweede lid, van het Vreemdelingenbesluit 2000 rechtmatig verblijf heeft gedurende een zodanige periode, waarbij aan het recht om arbeid te verrichten zodanige voorwaarden kunnen worden gesteld;  
 
-t. de aantekening dat de ingeschrevene ingevolge [artikel 8.17 van het Vreemdelingenbesluit 2000](../../../../../AMvB/vreemdelingenbesluit/2000/BWBR0011825/README.md) een duurzaam verblijfsrecht heeft, waarbij aan het recht van de ingeschrevene om arbeid te verrichten geen voorwaarden kunnen worden gesteld;  
+t. de aantekening dat de ingeschrevene ingevolge artikel 8.17 van het Vreemdelingenbesluit 2000 een duurzaam verblijfsrecht heeft, waarbij aan het recht van de ingeschrevene om arbeid te verrichten geen voorwaarden kunnen worden gesteld;  
 
-u. de aantekening dat de ingeschrevene ingevolge [artikel 8, onderdeel h, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft gedurende de geldigheid van een door de president van het Europese Hof voor de Rechten van de Mens getroffen voorlopige maatregel, waarin is bepaald dat de vreemdeling niet mag worden uitgezet, waarbij het de ingeschrevene niet is toegestaan om arbeid in loondienst te verrichten;  
+u. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel h, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft gedurende de geldigheid van een door de president van het Europese Hof voor de Rechten van de Mens getroffen voorlopige maatregel, waarin is bepaald dat de vreemdeling niet mag worden uitgezet, waarbij het de ingeschrevene niet is toegestaan om arbeid in loondienst te verrichten;  
 
-v. de aantekening dat de ingeschrevene ingevolge [artikel 8, onderdeel m, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) rechtmatig verblijf heeft in afwachting van de indiening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in [artikel 28 van die wet](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md);  
+v. de aantekening dat de ingeschrevene ingevolge artikel 8, onderdeel m, van de Vreemdelingenwet 2000 rechtmatig verblijf heeft in afwachting van de indiening van een aanvraag tot het verlenen van een verblijfsvergunning als bedoeld in artikel 28 van die wet;  
 
-w. de aantekening dat de ingeschrevene rechtmatig verblijf heeft ingevolge de [Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) op aanwijzing van de Minister van Veiligheid en Justitie, niet zijnde een verblijf op grond van een verblijfsvergunning of de aanvraag van een verblijfsvergunning of een verblijf op grond van internationale verplichtingen en verdragen;  
+w. de aantekening dat de ingeschrevene rechtmatig verblijf heeft ingevolge de Vreemdelingenwet 2000 op aanwijzing van de Minister van Veiligheid en Justitie, niet zijnde een verblijf op grond van een verblijfsvergunning of de aanvraag van een verblijfsvergunning of een verblijf op grond van internationale verplichtingen en verdragen;  
 
-x. de aantekening dat het rechtmatig verblijf van de ingeschrevene ingevolge [artikel 8, onderdeel e, van de Vreemdelingenwet 2000](../../../../../wet/vreemdelingenwet/2000/BWBR0011823/README.md) is beëindigd op grond van een onherroepelijk geworden besluit, waardoor bestaande rechten voortvloeiende uit het recht van de Europese Unie niet meer gecontinueerd worden;  
+x. de aantekening dat het rechtmatig verblijf van de ingeschrevene ingevolge artikel 8, onderdeel e, van de Vreemdelingenwet 2000 is beëindigd op grond van een onherroepelijk geworden besluit, waardoor bestaande rechten voortvloeiende uit het recht van de Europese Unie niet meer gecontinueerd worden;  
 
 y. de aantekening dat het verblijfsrecht van de niet-ingezetene niet is bepaald.   
 
@@ -637,7 +637,7 @@ y. de aantekening dat het verblijfsrecht van de niet-ingezetene niet is bepaald.
 | aanduiding van de verzameling van gegevens, waarbinnen gegevens over de burgerlijke staat zijn opgenomen die onderzocht worden op strijd met de Nederlandse openbare orde  | X  | X  |
 | datum aanvang onderzoek  | X  | X  |
 | datum beëindiging onderzoek  | X  | X  |
-|  *Gegevens over onderzoek in verband met de uitvoering van de Paspoortwet*   | --- | aanduiding van de verzameling van gegevens in verband met de uitvoering van de [Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md), waarbinnen gegevens zijn opgenomen die onderzocht worden op juistheid  | X  | --- |
+|  *Gegevens over onderzoek in verband met de uitvoering van de Paspoortwet*   | --- | aanduiding van de verzameling van gegevens in verband met de uitvoering van de Paspoortwet, waarbinnen gegevens zijn opgenomen die onderzocht worden op juistheid  | X  | --- |
 | datum aanvang onderzoek  | X  | --- |
 | datum beëindiging onderzoek  | X  | --- |
 |  *Andere gegevens noodzakelijk in verband met de verwerking van gegevens in de basisregistratie*   | Gegevens ter aanduiding van de bron waaraan het administratienummer is ontleend  | omschrijving van de bron waaraan het gewijzigde administratienummer is ontleend  | X  | X  |
@@ -654,11 +654,11 @@ y. de aantekening dat het verblijfsrecht van de niet-ingezetene niet is bepaald.
 | reden opschorting verwerking van gegevens op de persoonslijst  | X  | X  |
 | datum opschorting verwerking van gegevens op de persoonslijst  | X  | X  |
 | aantekening dat tijdens de opschorting van de verwerking van gegevens een of meer documenten zijn binnengekomen  | X  | X  |
-| Administratieve gegevens die noodzakelijk zijn in verband met de uitvoering van de [Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)  | gemeentecode van de gemeente waar dossier met betrekking tot het Nederlands reisdocument zich bevindt  | X  | --- |
+| Administratieve gegevens die noodzakelijk zijn in verband met de uitvoering van de Paspoortwet  | gemeentecode van de gemeente waar dossier met betrekking tot het Nederlands reisdocument zich bevindt  | X  | --- |
 | datum van opname in dossier met betrekking tot het Nederlands reisdocument  | X  | --- |
 | beschrijving dossier waarin de aanvullende gegevens met betrekking tot het Nederlands reisdocument zich bevinden  | X  | --- |
-| datum van opneming van een gegeven in verband met de uitvoering van de [Paspoortwet](../../../../../rijkswet/paspoortwet/BWBR0005212/README.md)  | X  | --- |
-| Administratieve gegevens die noodzakelijk zijn in verband met de uitvoering van de [Kieswet](../../../../../wet/kieswet/BWBR0004627/README.md)  | gemeentecode van de gemeente waar het document waaraan de gegevens over het kiesrecht zijn ontleend zich bevindt  | X  | --- |
+| datum van opneming van een gegeven in verband met de uitvoering van de Paspoortwet  | X  | --- |
+| Administratieve gegevens die noodzakelijk zijn in verband met de uitvoering van de Kieswet  | gemeentecode van de gemeente waar het document waaraan de gegevens over het kiesrecht zijn ontleend zich bevindt  | X  | --- |
 | datum van ontlening van de gegevens over het kiesrecht  | X  | --- |
 | beschrijving van het document waaraan de gegevens over het kiesrecht zijn ontleend  | X  | --- |
 |  * Gegevens over de beperking van de verstrekking van gegevens aan derden *   | --- | codering van de inhoud van het besluit om geen gegevens van de persoonslijst aan derden te verstrekken  | X  | X  |
@@ -674,11 +674,11 @@ y. de aantekening dat het verblijfsrecht van de niet-ingezetene niet is bepaald.
 
 ####Bijlage bij artikel 16 
 
-####Model verhuisbericht, bedoeld in [artikel 2.21, vijfde lid, van de Wet basisregistratie personen](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md)
+####Model verhuisbericht, bedoeld in artikel 2.21, vijfde lid, van de Wet basisregistratie personen
 
 Het verhuisbericht dat moet worden verstrekt aan een persoon die in de aangifte van vertrek heeft gemeld te gaan verblijven in Aruba, Curaçao, Sint Maarten of een van de openbare lichamen, bevat de volgende gegevens: 
 
-1. De aanduiding `Verhuisbericht als bedoeld in [artikel 2.21, vijfde lid, van de Wet BRP](../../../../../wet/wet/basisregistratie/personen/BWBR0033715/README.md)'.  
+1. De aanduiding `Verhuisbericht als bedoeld in artikel 2.21, vijfde lid, van de Wet BRP'.  
 
 2. Gegevens betreffende de persoon die vertrekt: 
 

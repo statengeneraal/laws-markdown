@@ -456,21 +456,13 @@ Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld ove
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de productie, het op de markt brengen of het gebruik van voertuigen, vaartuigen, luchtvaartuigen, apparatuur voor de toepassing van gewasbeschermingsmiddelen of andere methoden, technieken en materialen, zowel in de open lucht als in besloten ruimten. Deze regels kunnen een verbod of beperking van het gebruik inhouden.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van artikel 8 van richtlijn 2009/128/EG regels worden gesteld over een keuring van in gebruik zijnde apparatuur voor de toepassing van gewasbeschermingsmiddelen. Deze regels omvatten de keuringsfrequentie, de keuringseisen, de keuringsinstanties, het in rekening te brengen tarief voor de keuring en de mogelijkheid van vrijstelling voor aan te wijzen types apparatuur.   
-3.  Bij of krachtens algemene maatregel van bestuur kan ter uitvoering van het tweede lid de medewerking worden gevorderd van het bestuur van een bedrijfslichaam als bedoeld in artikel 66 van de Wet op de bedrijfsorganisatie.   
-4.  Indien de in het derde lid bedoelde medewerking bestaat uit het stellen van regels of nadere regels bij verordening, behoeft zodanige verordening de goedkeuring van Onze Minister.   
-5.  Bij of krachtens algemene maatregel van bestuur kan worden bepaald dat tuchtrechtelijke maatregelen worden gesteld op overtreding van de in het vierde lid bedoelde regels of nadere regels.   
-6.  In afwijking van artikel 46 van de Wet tuchtrechtspraak bedrijfsorganisatie 2004, is in voorkomend geval de instemming vereist van Onze Minister.   
-7.  In afwijking van artikel 82 kan bij of krachtens algemene maatregel van bestuur worden bepaald dat met het toezicht op de naleving van de regels of nadere regels waarvoor tuchtrechtelijke maatregelen zijn gesteld, de bij besluit van het betrokken bedrijfslichaam aangewezen personen zijn belast. Dat besluit behoeft de goedkeuring van Onze Minister.   
-8.  Een tuchtrechtelijke maatregel vindt geen toepassing, indien, na overleg met het bedrijfslichaam, Onze Minister besluit tot het opleggen van een bestuurlijke boete of de officier van justitie besluit dat de desbetreffende overtreding strafrechtelijk wordt afgedaan.   
-9.  De voordracht voor een krachtens dit artikel vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
+3.  De voordracht voor een krachtens dit artikel vast te stellen algemene maatregel van bestuur wordt niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  80a  
 
 ####Bescherming van milieu en volksgezondheid
 
-1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het gebruik van gewasbeschermingsmiddelen of biociden in specifieke gebieden als bedoeld in artikel 12 van richtlijn 2009/128/EG. Deze regels kunnen een verbod inhouden dan wel zijn gericht op een vermindering van het gebruik van alle of een bepaald type gewasbeschermingsmiddelen of biociden in bij die maatregel aangewezen gebieden.   
-2.  Bij of krachtens algemene maatregel van bestuur kan ter uitvoering van artikel 13, eerste lid, van richtlijn 2009/128/EG de medewerking worden gevorderd van het bestuur van een bedrijfslichaam als bedoeld in artikel 66 van de Wet op de bedrijfsorganisatie.   
-3.  Op de in het tweede lid bedoelde medewerking is artikel 80, vierde tot en met achtste lid, van overeenkomstige toepassing.  
+Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over het gebruik van gewasbeschermingsmiddelen of biociden in specifieke gebieden als bedoeld in artikel 12 van richtlijn 2009/128/EG. Deze regels kunnen een verbod inhouden dan wel zijn gericht op een vermindering van het gebruik van alle of een bepaald type gewasbeschermingsmiddelen of biociden in bij die maatregel aangewezen gebieden. 
 
 ### Artikel  81  
 

@@ -126,10 +126,9 @@ d.degenen die krachtens eigendom, bezit, beperkt recht of persoonlijk recht gebo
 
 ### Artikel 14 
 
-1. De vertegenwoordigers van de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel b, worden benoemd door de daartoe bij reglement aangewezen organisatie of organisaties. Indien meer dan één organisatie wordt aangewezen wordt bij reglement bepaald op welke wijze de aangewezen organisaties tot een benoeming komen. 
-2. De vertegenwoordigers van de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel c, worden benoemd door een krachtens artikel 67 van de Wet op de bedrijfsorganisatie ingesteld bedrijfslichaam voor de bosbouw, het bosbeheer en de houtteelt. 
-3.  De vertegenwoordigers van de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel d, worden benoemd door de Kamer van Koophandel op voordracht van de regionale raad van de regio van de Kamer van Koophandel, bedoeld in artikel 18, eerste lid, van de Wet op de Kamer van Koophandel, die gelegen is in het gebied van het desbetreffende waterschap. Indien binnen het gebied van een waterschap meer dan één regio gelegen is, wordt bij reglement bepaald op welke wijze de betrokken regionale raden tot een voordracht komen. Artikel 7, derde en vierde lid, van de Wet op de Kamer van Koophandel, zijn van toepassing op voordracht en benoeming krachtens dit lid met dien verstande dat voor «Onze Minister» telkens wordt gelezen: de Kamer van Koophandel.  
-4. De organisaties, bedoeld in de voorgaande leden, voorzien tijdig in een regeling omtrent de selectie en de benoeming van de vertegenwoordiger of vertegenwoordigers van de desbetreffende categorie van belanghebbenden en zenden de regeling ter kennisneming aan het waterschapsbestuur. Het waterschapsbestuur maakt de regelingen bekend.
+1.  De vertegenwoordigers van de categorieën van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdelen b en c, worden benoemd door de daartoe bij reglement aangewezen organisaties of, voor zover daarin bij reglement nog niet is voorzien, een door Onze Minister aangewezen organisatie. Indien voor een categorie meer dan één organisatie wordt aangewezen wordt bij reglement bepaald op welke wijze de aangewezen organisaties tot een benoeming komen.  
+2.  De vertegenwoordigers van de categorie van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdeel d, worden benoemd door de Kamer van Koophandel op voordracht van de regionale raad van de regio van de Kamer van Koophandel, bedoeld in artikel 18, eerste lid, van de Wet op de Kamer van Koophandel, die gelegen is in het gebied van het desbetreffende waterschap. Indien binnen het gebied van een waterschap meer dan één regio gelegen is, wordt bij reglement bepaald op welke wijze de betrokken regionale raden tot een voordracht komen. Artikel 7, derde en vierde lid, van de Wet op de Kamer van Koophandel, zijn van toepassing op voordracht en benoeming krachtens dit lid met dien verstande dat voor «Onze Minister» telkens wordt gelezen: de Kamer van Koophandel.  
+3. De organisaties, bedoeld in de voorgaande leden, voorzien tijdig in een regeling omtrent de selectie en de benoeming van de vertegenwoordiger of vertegenwoordigers van de desbetreffende categorie van belanghebbenden en zenden de regeling ter kennisneming aan het waterschapsbestuur. Het waterschapsbestuur maakt de regelingen bekend.
 
 ### §  2  
 
@@ -138,7 +137,7 @@ d.degenen die krachtens eigendom, bezit, beperkt recht of persoonlijk recht gebo
 ### Artikel  15  
 
 1.  Deze paragraaf is van toepassing op vertegenwoordigers van de categorieën van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdelen b, c en d.   
-2.  In deze paragraaf wordt verstaan onder: «organisatie»: organisatie als bedoeld in artikel 14, eerste tot en met derde lid, belast met de benoeming van een vertegenwoordiger van een van de categorieën van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdelen b, c of d. 
+2.  In deze paragraaf wordt verstaan onder: «organisatie»: organisatie als bedoeld in artikel 14, eerste en tweede lid, belast met de benoeming van een vertegenwoordiger van een van de categorieën van belanghebbenden, bedoeld in artikel 12, tweede lid, onderdelen b, c of d. 
 
 ### Artikel  16  
 
@@ -1383,7 +1382,7 @@ c. de in artikel 123, derde lid, onderdeel d, bedoelde ambtenaren van die waters
 
 d. de in artikel 123, derde lid, onderdeel e, bedoelde ambtenaar van die waterschappen voor de uitvoering van enige wettelijke bepaling betreffende de invordering van waterschapsbelastingen.      
 4.  Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het waterschap waarvan de ambtenaar belast met de invordering van waterschapsbelastingen op grond van het derde lid, onderdeel *b*, wordt aangewezen.    
-5.  Indien voor de heffing of de invordering van een of meer waterschapsbelastingen een gemeenschappelijke regeling is getroffen en bij die regeling een openbaar lichaam is ingesteld, kan bij of krachtens die regeling worden bepaald dat een daartoe aangewezen ambtenaar van dat openbaar lichaam wordt aangewezen als:  
+5.  Indien voor de heffing of de invordering van een of meer waterschapsbelastingen een gemeenschappelijke regeling is getroffen en bij die regeling een openbaar lichaam of een bedrijfsvoeringsorganisatie is ingesteld, kan bij of krachtens die regeling worden bepaald dat een daartoe aangewezen ambtenaar van dat openbaar lichaam of die bedrijfsvoeringsorganisatie wordt aangewezen als:  
 
 a. de in artikel 123, derde lid, onderdeel b, bedoelde ambtenaar van het waterschap voor de uitvoering van enige wettelijke bepaling betreffende de heffing van waterschapsbelastingen;   
 
@@ -1392,7 +1391,7 @@ b. de in artikel 123, derde lid, onderdeel c, bedoelde ambtenaar van het watersc
 c. de in artikel 123, derde lid, onderdeel d, bedoelde ambtenaren van het waterschap voor de uitvoering van enige wettelijke bepaling betreffende de heffing of de invordering van waterschapsbelastingen;   
 
 d. de in artikel 123, derde lid, onderdeel e, bedoelde ambtenaar van het waterschap voor de uitvoering van enige wettelijke bepaling betreffende de invordering van waterschapsbelastingen.      
-6.  Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het openbaar lichaam waarvan een ambtenaar op grond van het vijfde lid, onderdeel *b*, wordt aangewezen.   
+6.  Het eerste lid is van overeenkomstige toepassing ten aanzien van het dagelijks bestuur van het openbaar lichaam of het bestuur van de bedrijfsvoeringsorganisatie waarvan een ambtenaar op grond van het vijfde lid, onderdeel *b*, wordt aangewezen.   
 
 ### Artikel  125  
 

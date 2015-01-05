@@ -10,9 +10,9 @@
 
 1.  Bevoegd om aan het Gemeenschappelijk Hof van Justitie van Aruba, Curaçao, Sint Maarten en van Bonaire, Sint Eustatius en Saba schriftelijk inschrijving als advocaat te verzoeken is degene: 
 
-a. aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding in het wetenschappelijk onderwijs op het gebied van het recht door een universiteit als bedoeld in 23, eerste lid, Rijkswet Gemeenschappelijk Hof van Justitie, de graad van Bachelor op het gebied van het recht en tevens de graad van Master op het gebied van het recht is verleend;  
+a. aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding in het wetenschappelijk onderwijs op het gebied van het recht door een universiteit als bedoeld in artikel 24, eerste lid, Rijkswet Gemeenschappelijk Hof van Justitie, de graad van Bachelor op het gebied van het recht en tevens de graad van Master op het gebied van het recht is verleend;  
 
-b. aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding op het gebied van het recht aan een universiteit als bedoeld in artikel 23, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie, het recht om de titel meester te voeren heeft verkregen. Bij algemene maatregel van bestuur kunnen voorts nadere regels worden gesteld aan de beroepsvereisten.     
+b. aan wie op grond van het met goed gevolg afleggen van een afsluitend examen van een opleiding op het gebied van het recht aan een universiteit als bedoeld in artikel artikel 24, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie, het recht om de titel meester te voeren heeft verkregen. Bij algemene maatregel van bestuur kunnen voorts nadere regels worden gesteld aan de beroepsvereisten.     
 2.  Bij algemene maatregel van bestuur kunnen graden verleend door een universiteit of een hogeschool of daaraan gelijkwaardige getuigschriften worden aangewezen die voor de toepasselijkheid van het eerste lid, onder a, gelijk worden gesteld aan de in dat lid bedoelde graad Bachelor op het gebied van het recht.   
 3.  Bij het verzoek worden overgelegd de nodige stukken ten bewijze dat de verzoeker aan de in het eerste of tweede lid gestelde vereisten voldoet.  
 

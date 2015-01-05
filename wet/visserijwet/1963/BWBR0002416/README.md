@@ -24,9 +24,7 @@ a. "Onze Minister": Onze Minister van Economische Zaken;
 
 b. "De Kamer": de Kamer voor de Binnenvisserij bedoeld in artikel 45;   
 
-c. "de rechthebbende op het visrecht": de gerechtigde tot vissen uit welken hoofde ook, behalve de houder van een schriftelijke toestemming, als bedoeld in artikel 7, tweede lid, of van een schriftelijke toestemming, als bedoeld in artikel 21, tweede lid;   
-
-d. "bedrijfslichamen": lichamen als bedoeld in artikel 66, vierde lid, van de Wet op de bedrijfsorganisatie.      
+c. "de rechthebbende op het visrecht": de gerechtigde tot vissen uit welken hoofde ook, behalve de houder van een schriftelijke toestemming, als bedoeld in artikel 7, tweede lid, of van een schriftelijke toestemming, als bedoeld in artikel 21, tweede lid.     
 2.   Voor het bepaalde bij of krachtens deze wet wordt verstaan onder "vis":  
 
 a. vissen van de door Onze Minister aangewezen soorten en delen van deze vissen;   
@@ -57,13 +55,7 @@ d. "binnenvisserij": het vissen in de overige wateren van Nederland.
 
 ####De medewerking van bedrijfslichamen 
 
-### Artikel  2  
-
-1.  Tot uitvoering van het bepaalde krachtens de artikelen 3*a* , 4, 5, 9 en 16, kan bij of krachtens algemene maatregel van bestuur de medewerking worden gevorderd van het bestuur van een bedrijfslichaam.    
-2.   Indien de van het bestuur van een bedrijfslichaam gevorderde medewerking bestaat in het stellen van nadere regelen bij verordening, behoeft zodanige verordening de goedkeuring van Onze Minister.    
-3.  Krachtens een verordening van een bedrijfslichaam genomen besluiten behoeven, voorzover dit bij of krachtens de maatregel als bedoeld in het eerste lid is bepaald, de goedkeuring van de daarbij aangewezen autoriteit.   
-4.  Een verordening, als bedoeld in het tweede lid, is verbindend voor een ieder voor zover daaruit niet het tegendeel blijkt.    
-5.   Indien de gevorderde medewerking bestaat in het nemen van besluiten zonder algemene gelding, kunnen deze besluiten ten aanzien van een ieder worden genomen.   
+Vervallen per 01-01-2015 
 
 ### §  3  
 
@@ -104,8 +96,7 @@ Bij of krachtens algemene maatregel van bestuur worden regelen gesteld betreffen
 
 1.  Bij of krachtens algemene maatregel van bestuur kunnen ter uitvoering van op grond van internationale overeenkomsten of van besluiten van volkenrechtelijke organisaties opgelegde verplichtingen of verleende bevoegdheden regelen worden gesteld in het belang van de visserij.    
 2.   Bij of krachtens een algemene maatregel van bestuur, als bedoeld in het eerste lid, kunnen mede voorschriften worden gegeven in het belang van de naleving van de aldaar bedoelde regelen.    
-3.   De in het tweede lid bedoelde voorschriften kunnen mede inhouden het opleggen van een verplichting aan hen die vis van een aanvoerder betrekken en hen, die hun bemiddeling verlenen bij het veilen van vis tot het voeren van een administratie en tot het doen van opgave aan een bij die voorschriften aangewezen autoriteit van de hoeveelheden vis door hen van een aanvoerder betrokken onderscheidenlijk aan hen ter veiling aangeboden.    
-4.   De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur, als bedoeld in het eerste lid, wordt Ons niet gedaan, dan nadat Onze Minister met de daarbij in belangrijke mate betrokken bedrijfslichamen overleg heeft gepleegd.   
+3.   De in het tweede lid bedoelde voorschriften kunnen mede inhouden het opleggen van een verplichting aan hen die vis van een aanvoerder betrekken en hen, die hun bemiddeling verlenen bij het veilen van vis tot het voeren van een administratie en tot het doen van opgave aan een bij die voorschriften aangewezen autoriteit van de hoeveelheden vis door hen van een aanvoerder betrokken onderscheidenlijk aan hen ter veiling aangeboden.   
 
 ### Hoofdstuk  III  
 
@@ -116,10 +107,9 @@ Bij of krachtens algemene maatregel van bestuur worden regelen gesteld betreffen
 1.  In het belang van de visserij in de wateren, bedoeld in artikel 1, vierde lid, onder b, kunnen bij of krachtens algemene maatregel van bestuur regelen worden gesteld, die kunnen strekken tot instandhouding dan wel uitbreiding van de visvoorraden in die wateren onderscheidenlijk tot een beperking van de vangstcapaciteit. Bij het stellen van zodanige regelen kan mede rekening worden gehouden met de belangen van de natuurbescherming.   
 2.   Bij of krachtens een algemene maatregel van bestuur, als bedoeld in het eerste lid, kunnen mede voorschriften worden gegeven in het belang van de naleving van de aldaar bedoelde regelen.    
 3.   De in het tweede lid bedoelde voorschriften kunnen mede inhouden het opleggen van een verplichting aan hen, die vis van een aanvoerder betrekken en hen, die hun bemiddeling verlenen bij het veilen van vis tot het voeren van een administratie en tot het doen van opgave aan een bij die voorschriften aangewezen autoriteit van de hoeveelheden vis door hen van een aanvoerder betrokken onderscheidenlijk aan hen ter veiling aangeboden.    
-4.   De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur, als bedoeld in het eerste lid, wordt Ons niet gedaan, dan nadat Onze Minister met de daarbij in belangrijke mate betrokken bedrijfslichamen overleg heeft gepleegd.    
-5.   Een krachtens het eerste lid vastgestelde maatregel wordt, indien deze regelen stelt met betrekking tot beperking van de vangstcapaciteit, aan beide Kamers der Staten-Generaal overgelegd. De maatregel kan nadat 30 dagen na de overlegging zijn verstreken in werking treden, tenzij binnen die termijn door ten minste een vijfde van het grondwettelijk aantal leden van één der Kamers de wens te kennen wordt gegeven dat het in de maatregel te regelen onderwerp bij de wet zal worden geregeld. Indien zodanige wens te kennen is gegeven, dienen Wij zo spoedig mogelijk een desbetreffend wetsvoorstel in.    
-6.   Onze Minister kan, indien hij overweegt een voordracht te doen tot vaststelling, wijziging of intrekking van een maatregel als bedoeld in het vijfde lid en naar zijn oordeel de goede werking van de desbetreffende maatregel een onmiddellijke voorziening eist, overeenkomstig de in overweging zijnde maatregel regelen stellen, en in het bestaande besluit vervatte regelen buiten werking stellen. Het tweede en derde lid zijn van overeenkomstige toepassing.    
-7.   Een regeling getroffen op grond van het zesde lid blijft, behoudens eerdere intrekking, van kracht totdat de in het vijfde lid bedoelde maatregel in werking treedt, doch uiterlijk tot acht maanden na de inwerkingtreding van de regeling. In het geval dat ingevolge het bepaalde in het vijfde lid, het in de maatregel te regelen onderwerp bij de wet wordt geregeld, blijft de regeling van kracht totdat de wet in werking treedt danwel totdat het voorstel van wet wordt ingetrokken of een van beide kamers tot niet-aanneming daarvan besluit.   
+4.   Een krachtens het eerste lid vastgestelde maatregel wordt, indien deze regelen stelt met betrekking tot beperking van de vangstcapaciteit, aan beide Kamers der Staten-Generaal overgelegd. De maatregel kan nadat 30 dagen na de overlegging zijn verstreken in werking treden, tenzij binnen die termijn door ten minste een vijfde van het grondwettelijk aantal leden van één der Kamers de wens te kennen wordt gegeven dat het in de maatregel te regelen onderwerp bij de wet zal worden geregeld. Indien zodanige wens te kennen is gegeven, dienen Wij zo spoedig mogelijk een desbetreffend wetsvoorstel in.    
+5.   Onze Minister kan, indien hij overweegt een voordracht te doen tot vaststelling, wijziging of intrekking van een maatregel als bedoeld in het vierde lid en naar zijn oordeel de goede werking van de desbetreffende maatregel een onmiddellijke voorziening eist, overeenkomstig de in overweging zijnde maatregel regelen stellen, en in het bestaande besluit vervatte regelen buiten werking stellen. Het tweede en derde lid zijn van overeenkomstige toepassing.    
+6.   Een regeling getroffen op grond van het vijfde lid blijft, behoudens eerdere intrekking, van kracht totdat de in het vierde lid bedoelde maatregel in werking treedt, doch uiterlijk tot acht maanden na de inwerkingtreding van de regeling. In het geval dat ingevolge het bepaalde in het vierde lid, het in de maatregel te regelen onderwerp bij de wet wordt geregeld, blijft de regeling van kracht totdat de wet in werking treedt danwel totdat het voorstel van wet wordt ingetrokken of een van beide kamers tot niet-aanneming daarvan besluit.   
 
 ### Artikel  5  
 
@@ -154,10 +144,10 @@ d. voor hem, die vist met ten hoogste twee hengels.
 2.   Bij het stellen van regelen als bedoeld in het eerste lid, wordt mede rekening gehouden met de belangen van de natuurbescherming.    
 3.   Bij of krachtens een algemene maatregel van bestuur, als bedoeld in het eerste lid, kunnen mede voorschriften worden gegeven in het belang van de naleving van de aldaar bedoelde regelen.    
 4.   De in het derde lid bedoelde voorschriften kunnen mede inhouden het opleggen van een verplichting aan hen, die vis van een aanvoerder betrekken en hen, die hun bemiddeling verlenen bij het veilen van vis tot het voeren van een administratie en tot het doen van opgave aan een bij die voorschriften aangewezen autoriteit van de hoeveelheden vis door hen van een aanvoerder betrokken onderscheidenlijk aan hen ter veiling aangeboden.    
-5.   De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur, als bedoeld in het eerste lid, wordt Ons niet gedaan, dan nadat Onze Minister met de daarbij in belangrijke mate betrokken bedrijfslichamen, zomede met naar het oordeel van Onze Minister daarvoor in aanmerking komende organisaties van sportvissers overleg heeft gepleegd.    
+5.   De voordracht tot vaststelling, wijziging of intrekking van een algemene maatregel van bestuur, als bedoeld in het eerste lid, wordt Ons niet gedaan, dan nadat Onze Minister met naar het oordeel van Onze Minister daarvoor in aanmerking komende organisaties van sportvissers overleg heeft gepleegd.    
 6.   Een krachtens het eerste lid vastgestelde maatregel wordt, indien deze regelen stelt met betrekking tot beperking van de vangstcapaciteit, aan beide Kamers der Staten-Generaal overgelegd. De maatregel kan nadat 30 dagen na de overlegging zijn verstreken in werking treden, tenzij binnen die termijn door ten minste een vijfde van het grondwettelijk aantal leden van één der Kamers de wens te kennen wordt gegeven dat het in de maatregel te regelen onderwerp bij de wet zal worden geregeld. Indien zodanige wens te kennen is gegeven, dienen Wij zo spoedig mogelijk een desbetreffend wetsvoorstel in.    
-7.   Onze Minister kan, indien hij overweegt een voordracht te doen tot vaststelling, wijziging of intrekking van een maatregel als bedoeld in het vijfde lid en naar zijn oordeel de goede werking van de desbetreffende maatregel een onmiddellijke voorziening eist, overeenkomstig de in overweging zijnde maatregel regelen stellen, en in het bestaande besluit vervatte regelen buiten werking stellen. Het tweede en derde lid zijn van overeenkomstige toepassing.    
-8.   Een regeling getroffen op grond van het zesde lid blijft, behoudens eerdere intrekking, van kracht totdat de in het vijfde lid bedoelde maatregel in werking treedt, doch uiterlijk tot acht maanden na de inwerkingtreding van de regeling. In het geval dat ingevolge het bepaalde in het vijfde lid, het in de maatregel te regelen onderwerp bij de wet wordt geregeld, blijft de regeling van kracht totdat de wet in werking treedt danwel totdat het voorstel van wet wordt ingetrokken of een van beide kamers tot niet-aanneming daarvan besluit.   
+7.   Onze Minister kan, indien hij overweegt een voordracht te doen tot vaststelling, wijziging of intrekking van een maatregel als bedoeld in het zesde lid en naar zijn oordeel de goede werking van de desbetreffende maatregel een onmiddellijke voorziening eist, overeenkomstig de in overweging zijnde maatregel regelen stellen, en in het bestaande besluit vervatte regelen buiten werking stellen. Het tweede en derde lid zijn van overeenkomstige toepassing.    
+8.   Een regeling getroffen op grond van het zevende lid blijft, behoudens eerdere intrekking, van kracht totdat de in het zesde lid bedoelde maatregel in werking treedt, doch uiterlijk tot acht maanden na de inwerkingtreding van de regeling. In het geval dat ingevolge het bepaalde in het zesde lid, het in de maatregel te regelen onderwerp bij de wet wordt geregeld, blijft de regeling van kracht totdat de wet in werking treedt danwel totdat het voorstel van wet wordt ingetrokken of een van beide kamers tot niet-aanneming daarvan besluit.   
 
 ### Hoofdstuk  V  
 
@@ -246,7 +236,8 @@ a. indien geen goedkeuring tot uitreiking der schriftelijke goedkeuring is verle
 b. indien het verlenen van de schriftelijke goedkeuring in strijd is met de aan de goedkeuring verbonden voorschriften;   
 
 c. indien een of meer der in het eerste lid, onder a, bedoelde gegevens, met uitzondering van de gegevens betreffende de houder en de dagtekening der schriftelijke goedkeuring, ontbreken.      
-4.   De geldigheidsduur van een schriftelijke toestemming eindigt in ieder geval na verloop van drie jaren na de dagtekening der schriftelijke toestemming.   
+4.   De geldigheidsduur van een schriftelijke toestemming eindigt in ieder geval na verloop van drie jaren na de dagtekening der schriftelijke toestemming.    
+5.  Het eerste lid, onderdeel a, is op een schriftelijke toestemming voor het vissen met een of meer hengels niet van toepassing voor zover degene die de schriftelijke toestemming heeft verleend de gegevens, bedoeld in dat lid, elektronisch beschikbaar heeft gesteld en de houder deze aldus beschikbaar gestelde gegevens op eerste vordering van een opsporingsambtenaar kan tonen. 
 
 ### §  5  
 

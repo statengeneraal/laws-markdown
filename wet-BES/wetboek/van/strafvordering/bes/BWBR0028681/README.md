@@ -24,7 +24,7 @@ Voor de toepassing van deze wet en de daarop berustende nadere regelingen en uit
 
 *gezagvoerder van een luchtvaartuig:* elke gezagvoerder van een Nederlands burgerlijk luchtvaartuig of degene die deze vervangt;  
 
-*Hof van Justitie en Hof:* Hof van Justitie en Hof: het Gemeenschappelijk Hof, bedoeld in artikel 14, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie;  
+*Hof van Justitie en Hof:* Hof van Justitie en Hof: het Gemeenschappelijk Hof, bedoeld in artikel 15, eerste lid, van de Rijkswet Gemeenschappelijk Hof van Justitie;  
 
 *huiszoeking:* het gericht en stelselmatig onderzoeken van een plaats als bedoeld in de artikelen 144 en 145 van het Wetboek van Strafrecht BES, op de aanwezigheid van voor inbeslagneming vatbare voorwerpen;  
 
@@ -4951,7 +4951,7 @@ Indien de veroordeelde meer dan een straf achtereenvolgens moet ondergaan, worde
 ### Artikel  630  
 
 1.  Op voorwerpen en vorderingen van de veroordeelde die niet op grond van artikel 119a in beslag zijn genomen geschiedt verhaal krachtens een dwangbevel medebrengende het recht om die goederen zonder vonnis aan te tasten.   
-2.  Het dwangbevel wordt in naam des Konings uitgevaardigd door het openbaar ministerie. Het wordt ten uitvoer gelegd als een vonnis van de burgerlijke rechter.   
+2.  Het dwangbevel wordt in naam van de Koning uitgevaardigd door het openbaar ministerie. Het wordt ten uitvoer gelegd als een vonnis van de burgerlijke rechter.   
 3.  De tenuitvoerlegging van het dwangbevel kan niet worden geschorst dan door een verzet, dat evenwel nimmer gericht zal kunnen zijn tegen het vonnis waarbij de geldboete werd opgelegd. Verzet wordt gedaan bij een met redenen omkleed bezwaarschrift, dat voor de verkoop en uiterlijk binnen zeven dagen te rekenen van de dag van de inbeslagneming, wordt ingediend bij het gerecht waartoe de rechter behoort, die de straf heeft opgelegd. Het gerecht geeft binnen zeven dagen, na zo nodig de veroordeelde en de ambtenaar die het dwangbevel heeft uitgevaardigd, te hebben gehoord, althans daartoe behoorlijk te hebben opgeroepen om te verschijnen, zijn met redenen omklede beschikking, die onverwijld aan de veroordeelde wordt betekend.   
 4.  Ten aanzien van derden, die bij een inbeslagneming van goederen daarop geheel of gedeeltelijk recht menen te hebben, zijn de bepalingen van het Wetboek van Burgerlijke Rechtsvordering BES van toepassing.  
 

@@ -678,12 +678,12 @@ Wijzigt het Wetboek van Burgerlijke rechtsvordering.
 
 ### Artikel  65  
 
-Artikel 28 is tot 1 januari 2012 niet van toepassing op vergunningen, verleend krachtens de Provinciewet, de Gemeentewet, de Waterschapswet, de Wet gemeenschappelijke regelingen en de Wet op de bedrijfsorganisatie. 
+Artikel 28 is tot 1 januari 2012 niet van toepassing op vergunningen, verleend krachtens de Provinciewet, de Gemeentewet, de Waterschapswet, de Wet gemeenschappelijke regelingen en de Wet op de Sociaal-Economische Raad. 
 
 ### Artikel  66  
 
 1.  Bij algemene maatregel van bestuur worden tot 1 januari 2012 de vergunningen aangewezen waarvan de aanvraag op grond van artikel 28 is uitgezonderd van de toepassing van paragraaf 4.1.3.3 van de Algemene wet bestuursrecht.   
-2.  Het eerste lid is niet van toepassing op vergunningen, verleend krachtens de Provinciewet, de Gemeentewet, de Waterschapswet, de Wet gemeenschappelijke regelingen en de Wet op de bedrijfsorganisatie.   
+2.  Het eerste lid is niet van toepassing op vergunningen, verleend krachtens de Provinciewet, de Gemeentewet, de Waterschapswet, de Wet gemeenschappelijke regelingen en de Wet op de Sociaal-Economische Raad.   
 3.  De voordracht voor een krachtens het eerste lid vast te stellen algemene maatregel van bestuur wordt voor de eerste maal niet eerder gedaan dan vier weken nadat het ontwerp aan beide kamers der Staten-Generaal is overgelegd.  
 
 ### Artikel  67  

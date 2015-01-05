@@ -21,8 +21,8 @@ Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-
 – Pensioen- en spaarfondsenwet: de Pensioen- en spaarfondsenwet en de daarop berustende bepalingen zoals deze luidden op de peildatum;  
 
 – peildatum: de dag voorafgaand aan de inwerkingtreding van artikel 1 van de Pensioenwet.     
-2.  De definities van artikel 1 van de Pensioenwet zijn van overeenkomstige toepassing op de artikelen 7, 8, 9, 10, het eerste lid van de artikelen 11 tot en met 17, 18, 20, eerste lid, 21, eerste lid, 22, derde, vijfde, zevende, negende en elfde lid, 23, eerste lid, 24, eerste lid, 24a, eerste lid, 25, eerste en tweede lid, 26, eerste lid, 28, eerste, tweede en derde lid, 29, eerste en tweede lid, 30, eerste en tweede lid, 31, 32, eerste, tweede en derde lid, 33, het eerste lid van de artikelen 35 tot en met 38, 42, eerste lid, 44, eerste lid, 48, 48a, 48b, eerste lid, 49, 53, tweede lid, 59, derde en vierde lid, 63, 64 en 66 van deze wet.   
-3.  De definities van artikel 1 van de Wet verplichte beroepspensioenregeling, zoals deze komt te luiden na de datum van inwerkingtreding van deze wet, zijn van overeenkomstige toepassing op het tweede lid van de artikelen 11 tot en met 16, 17, derde lid, 20, tweede lid, 21, tweede lid, 22, vierde, zesde, achtste, tiende en twaalfde lid, 23, tweede lid, 24, tweede lid, 24a, tweede lid, 25, derde en vierde lid, 26, tweede lid, 28, vierde, vijfde en zesde lid, 29, derde en vierde lid, 30, derde en vierde lid, 32, vierde, vijfde en zesde lid, het tweede lid van de artikelen 35 tot en met 38, 42, tweede lid, 44, tweede lid, 48a, 48b, tweede lid en 53, vierde lid van deze wet.  
+2.  De definities van artikel 1 van de Pensioenwet zijn van overeenkomstige toepassing op de artikelen 7, 8, 9, 10, het eerste lid van de artikelen 11 tot en met 17, 18, 20, eerste lid, 21, eerste lid, 22, derde, vijfde, zevende, negende en elfde lid, 23, eerste lid, 24, eerste lid, 24a, eerste lid, 25, eerste en tweede lid, 26, eerste lid, 28, eerste, tweede, derde en vierde lid, 29, eerste en tweede lid, 30, eerste en tweede lid, 32, eerste, tweede en derde lid, 33, het eerste lid van de artikelen 35 tot en met 38, 42, eerste lid, 44, eerste lid, 48, 53, tweede lid, 59, derde en vierde lid, 63, 64 en 66 van deze wet.   
+3.  De definities van artikel 1 van de Wet verplichte beroepspensioenregeling, zoals deze komt te luiden na de datum van inwerkingtreding van deze wet, zijn van overeenkomstige toepassing op het tweede lid van de artikelen 11 tot en met 16, 17, derde lid, 20, tweede lid, 21, tweede lid, 22, vierde, zesde, achtste, tiende en twaalfde lid, 23, tweede lid, 24, tweede lid, 24a, tweede lid, 25, derde en vierde lid, 26, tweede lid, 28, vijfde, zesde, zevende en achtste lid, 29, derde en vierde lid, 30, derde en vierde lid, 32, vierde, vijfde en zesde lid, het tweede lid van de artikelen 35 tot en met 38, 42, tweede lid, 44, tweede lid en 53, vierde lid van deze wet.  
 
 ### Hoofdstuk  2  
 
@@ -289,9 +289,11 @@ c. de pensioenregeling ten tijde van de datum van inwerkingtreding van genoemd a
 1.  Artikel 66 van de Pensioenwet is van toepassing indien de deelneming eindigt na de datum van inwerkingtreding van genoemd artikel.   
 2.  Indien de deelneming is geëindigd voor de datum van inwerkingtreding van artikel 66 van de Pensioenwet, heeft de pensioenuitvoerder het recht om op zijn vroegst twee jaar na de beëindiging van de deelneming of per de eerdere reguliere ingangsdatum van het ouderdomspensioen overeenkomstig genoemd artikel pensioenaanspraken af te kopen, indien de uitkering van het ouderdomspensioen op jaarbasis op de reguliere ingangsdatum, getoetst per 1 januari van dat jaar lager is dan het op grond van genoemd artikel vastgestelde bedrag per jaar, tenzij de gewezen deelnemer of gepensioneerde hiertegen bezwaar maakt.   
 3.  In afwijking van het eerste lid is artikel 66 van de Pensioenwet van toepassing, indien de deelneming is geëindigd voor de datum van inwerkingtreding van genoemd artikel, maar het verzoek tot afkoop in verband met emigratie wordt gedaan na de datum van inwerkingtreding van genoemd artikel.   
-4.  Artikel 78 van de Wet verplichte beroepspensioenregeling, zoals dat komt te luiden na de datum van inwerkingtreding van deze wet, is van toepassing indien de deelneming eindigt na de datum van inwerkingtreding van genoemd artikel.   
-5.  Indien de deelneming is geëindigd voor de datum van inwerkingtreding van artikel 78 van de Wet verplichte beroepspensioenregeling, zoals dat komt te luiden na de datum van inwerkingtreding van deze wet, heeft de pensioenuitvoerder het recht om op zijn vroegst twee jaar na de beëindiging van de deelneming of per de eerdere reguliere ingangsdatum van het ouderdomspensioen overeenkomstig genoemd artikel een ouderdomspensioen af te kopen, indien de uitkering van het ouderdomspensioen op jaarbasis op de reguliere ingangsdatum, getoetst per 1 januari van dat jaar lager is dan het op grond van genoemd artikel vastgestelde bedrag per jaar, tenzij de gewezen deelnemer of gepensioneerde hiertegen bezwaar maakt.   
-6.  In afwijking van het vierde lid is artikel 78 van de Wet verplichte beroepspensioenregeling, zoals dat komt te luiden na de datum van inwerkingtreding van deze wet, van toepassing, indien de deelneming is geëindigd voor de datum van inwerkingtreding van genoemd artikel, maar het verzoek tot afkoop in verband met emigratie wordt gedaan na de datum van inwerkingtreding van genoemd artikel.  
+4.  Indien de pensioenuitvoerder door toepassing van het tweede lid wil afkopen op of na de reguliere ingangsdatum van het ouderdomspensioen, en het moment waarop de pensioenuitvoerder wil afkopen, ligt voor de datum waarop het ouderdomspensioen op grond van de Algemene Ouderdomswet ingaat, dan heeft de gewezen deelnemer het recht ervoor te kiezen dat het ouderdomspensioen waarop de afkoop betrekking heeft, ingaat op de eerste dag van de maand volgend op de datum waarop het ouderdomspensioen op grond van de Algemene Ouderdomswet ingaat. De pensioenuitvoerder koopt af op het moment dat het ouderdomspensioen waarop de afkoop betrekking heeft ingaat. Artikel 62, eerste lid, van de Pensioenwet is van overeenkomstige toepassing.  
+5.  Artikel 78 van de Wet verplichte beroepspensioenregeling, zoals dat komt te luiden na de datum van inwerkingtreding van deze wet, is van toepassing indien de deelneming eindigt na de datum van inwerkingtreding van genoemd artikel.   
+6.  Indien de deelneming is geëindigd voor de datum van inwerkingtreding van artikel 78 van de Wet verplichte beroepspensioenregeling, zoals dat komt te luiden na de datum van inwerkingtreding van deze wet, heeft de pensioenuitvoerder het recht om op zijn vroegst twee jaar na de beëindiging van de deelneming of per de eerdere reguliere ingangsdatum van het ouderdomspensioen overeenkomstig genoemd artikel een ouderdomspensioen af te kopen, indien de uitkering van het ouderdomspensioen op jaarbasis op de reguliere ingangsdatum, getoetst per 1 januari van dat jaar lager is dan het op grond van genoemd artikel vastgestelde bedrag per jaar, tenzij de gewezen deelnemer of gepensioneerde hiertegen bezwaar maakt.   
+7.  In afwijking van het vierde lid is artikel 78 van de Wet verplichte beroepspensioenregeling, zoals dat komt te luiden na de datum van inwerkingtreding van deze wet, van toepassing, indien de deelneming is geëindigd voor de datum van inwerkingtreding van genoemd artikel, maar het verzoek tot afkoop in verband met emigratie wordt gedaan na de datum van inwerkingtreding van genoemd artikel.   
+8.  Indien de pensioenuitvoerder door toepassing van het zesde lid wil afkopen op of na de reguliere ingangsdatum van het ouderdomspensioen, en het moment waarop de pensioenuitvoerder wil afkopen ligt voor de datum waarop het ouderdomspensioen op grond van de Algemene Ouderdomswet ingaat, dan heeft de gewezen deelnemer het recht ervoor te kiezen dat het ouderdomspensioen waarop de afkoop betrekking heeft, ingaat op de eerste dag van de maand volgend op de datum waarop het ouderdomspensioen op grond van de Algemene Ouderdomswet ingaat. De pensioenuitvoerder koopt af op het moment dat het ouderdomspensioen waarop de afkoop betrekking heeft ingaat. Artikel 74, eerste lid, van de Wet verplichte beroepspensioenregeling is van overeenkomstige toepassing. 
 
 ### Artikel  29  
 
@@ -310,12 +312,6 @@ c. de pensioenregeling ten tijde van de datum van inwerkingtreding van genoemd a
 2.  Indien de scheiding plaatsvindt voor de datum van inwerkingtreding van artikel 68 van de Pensioenwet, heeft de pensioenuitvoerder het recht om overeenkomstig genoemd artikel het bijzonder partnerpensioen af te kopen, indien de uitkering van het partnerpensioen op jaarbasis, getoetst op het tijdstip van de scheiding, minder bedraagt dan het op grond van artikel 66 van de Pensioenwet vastgestelde bedrag per jaar en de gewezen partner hiermee instemt.   
 3.  Artikel 80 van de Wet verplichte beroepspensioenregeling, zoals dat komt te luiden na de datum van inwerkingtreding van deze wet, is van toepassing indien de aanspraak op bijzonder partnerpensioen op grond van artikel 68 van de Wet verplichte beroepspensioenregeling, zoals dat komt te luiden na de datum van inwerkingtreding van deze wet, ontstaat als gevolg van een scheiding na de datum van inwerkingtreding van eerstgenoemd artikel.   
 4.  Indien de scheiding plaatsvindt voor de datum van inwerkingtreding van artikel 80 van de Wet verplichte beroepspensioenregeling, zoals dat komt te luiden na de datum van inwerkingtreding van deze wet, heeft de pensioenuitvoerder het recht om overeenkomstig genoemd artikel het bijzonder partnerpensioen af te kopen, indien de uitkering van het partnerpensioen op jaarbasis, getoetst op het tijdstip van de scheiding, minder bedraagt dan het op grond van artikel 78 van de Wet verplichte beroepspensioenregeling, zoals dat komt te luiden na de datum van inwerkingtreding van deze wet, vastgestelde bedrag per jaar en de gewezen partner hiermee instemt.  
-
-### Artikel  31  
-
-####Bevoegdheid tot afkoop van fiscaal bovenmatig pensioen
-
-De in artikel 69, derde lid, van de Pensioenwet opgenomen voorwaarden hebben betrekking op pensioenaanspraken die zijn opgebouwd na de datum van inwerkingtreding van het derde lid van genoemd artikel, tenzij in de pensioenovereenkomst is overeengekomen dat zij tevens betrekking hebben op de pensioenaanspraken die zijn opgebouwd voor de datum van inwerkingtreding van het derde lid van genoemd artikel. 
 
 ### Artikel  32  
 
@@ -425,43 +421,6 @@ De artikelen 76, 77 en 78 van de Pensioenwet zijn van toepassing bij beëindigin
 ####Vrijwillige aansluiting bij een bedrijfstakpensioenfonds
 
 Indien een werkgever zich uiterlijk op de peildatum heeft aangesloten bij een bedrijfstakpensioenfonds, blijft deze aansluiting in stand, ook als niet wordt voldaan aan de in artikel 121 van de Pensioenwet genoemde voorwaarden. 
-
-###Artikel 48a 
-
-####Solvabiliteitsvrijval
-
-De toezichthouder kan op aanvraag van een pensioenfonds of beroepspensioenfonds dat bij de premievaststelling voor de jaren 2007 en 2008 solvabiliteitsvrijval heeft gebruikt voor premiekorting en dat het voornemen heeft om ook na 31 december 2008 solvabiliteitsvrijval te gebruiken voor premiekorting en als gevolg daarvan niet zal voldoen aan artikel 129, eerste lid, van de Pensioenwet of artikel 124, eerste lid, van de Wet verplichte beroepspensioenregeling, voor een periode van maximaal 5 jaar ontheffing verlenen van artikel 129, eerste lid, van de Pensioenwet of artikel 124, eerste lid, van de Wet verplichte beroepspensioenregeling, indien het pensioenfonds of beroepspensioenfonds aantoont dat daaraan redelijkerwijs niet kan worden voldaan.
-
-### Artikel  48b  
-
-####Minimaal vereist eigen vermogen
-
-1.  Indien een pensioenfonds voor de datum van inwerkingtreding van artikel 131 van de Pensioenwet is overgegaan tot volledige overdracht, herverzekering of onderbrenging is instemming van de toezichthouder nodig met het feit dat het pensioenfonds daarom niet beschikt over een minimaal vereist eigen vermogen: 
-
-a. indien de overeenkomst tot overdracht, herverzekering of onderbrenging binnen drie jaar na inwerkingtreding van genoemd artikel gewijzigd of verlengd wordt, uiterlijk binnen die drie jaar;  
-
-b. indien de overeenkomst tot overdracht, herverzekering of onderbrenging na de in onderdeel a genoemde termijn gewijzigd of verlengd wordt, zodra de overeenkomst wordt gewijzigd of verlengd, maar uiterlijk binnen vijf jaar na inwerkingtreding van genoemd artikel.     
-2.  Indien een beroepspensioenfonds voor de datum van inwerkingtreding van artikel 126 van de Wet verplichte beroepspensioenregeling, zoals dat komt te luiden na de datum van inwerkingtreding van deze wet, is overgegaan tot volledige overdracht, herverzekering of onderbrenging is instemming van de toezichthouder nodig met het feit dat het beroepspensioenfonds daarom niet beschikt over een minimaal vereist eigen vermogen: 
-
-a. indien de overeenkomst tot overdracht, herverzekering of onderbrenging binnen drie jaar na inwerkingtreding van genoemd artikel gewijzigd of verlengd wordt, uiterlijk binnen die drie jaar;  
-
-b. indien de overeenkomst tot overdracht, herverzekering of onderbrenging na de in onderdeel a genoemde termijn gewijzigd of verlengd wordt, zodra de overeenkomst wordt gewijzigd of verlengd, maar uiterlijk binnen vijf jaar na inwerkingtreding van genoemd artikel.    
-
-### Artikel  49  
-
-####Eisen ten aanzien van beleggingen
-
-1.  Indien een pensioenfonds bijdragen ontvangt van ondernemingen die zetel hebben in een andere lidstaat dan Nederland geldt voor dat pensioenfonds artikel 135, eerste lid, onderdeel b, van de Pensioenwet.   
-2.  Ten aanzien van andere dan de in het eerste lid bedoelde pensioenfondsen geldt artikel 135, eerste lid, onderdeel b, van de Pensioenwet tot 23 september 2010 niet en blijft, in afwijking van artikel 2, tot 23 september 2010 artikel 9b, tweede lid, van de Pensioen- en spaarfondsenwet van overeenkomstige toepassing.  
-3. De paragrafen 7.1 en 7.4.1 van de Pensioenwet zijn van overeenkomstige toepassing op het eerste en tweede lid.
-
-### Artikel  49a  
-
-####Parameters
-
-1.  In afwijking van artikel 144 van de Pensioenwet worden de regels, bedoeld in artikel 144, eerste lid, van die wet, voor de periode 1 januari 2007 tot en met 31 december 2009 vastgesteld bij regeling van Onze Minister. Deze regeling treedt niet eerder in werking dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.   
-2.  In afwijking van 139 van de Wet verplichte beroepspensioenregeling worden de regels, bedoeld in artikel 139, eerste lid, van die wet, voor de periode 1 januari 2007 tot en met 31 december 2009 vastgesteld bij regeling van Onze Minister. Deze regeling treedt niet eerder in werking dan vier weken nadat het ontwerp aan beide Kamers der Staten-Generaal is overgelegd.   
-3.  De in artikel 144, derde lid, van de Pensioenwet bedoelde commissie wordt uiterlijk 1 juli 2007 ingesteld. Voordat eventuele wijzigingen in de in het eerste en tweede lid bedoelde regeling van Onze Minister worden gedaan, vraagt onze Minister het oordeel van deze commissie.  
 
 ### Artikel  52  
 

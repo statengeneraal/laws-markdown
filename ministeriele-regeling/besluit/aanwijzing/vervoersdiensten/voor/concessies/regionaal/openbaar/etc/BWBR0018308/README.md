@@ -5,7 +5,7 @@
 De Minister van Verkeer en Waterstaat,
 In overeenstemming met het dagelijks bestuur van Regio Twente;
 
-Gelet op [artikel 20, derde lid, van de Wet personenvervoer 2000](../../../../../../../../../../wet/wet/personenvervoer/2000/BWBR0011470/README.md);
+Gelet op artikel 20, derde lid, van de Wet personenvervoer 2000;
 Besluit:
 
 ###Artikel 1 

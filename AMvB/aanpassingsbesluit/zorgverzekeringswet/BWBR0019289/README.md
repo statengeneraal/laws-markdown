@@ -202,7 +202,8 @@ o.het Besluit invoering individuele tarifering apotheekhoudenden WTG.
 a. de verlening van de zorg op of voor die dag is begonnen, of  
 
 b. het zorg betreft waarop hij aansluitend aan of in plaats van de onder a bedoelde zorg in redelijkheid is aangewezen.     
-2.  De artikelen 3.1.3. tot en met 3.1.6. van de Invoerings- en aanpassingswet Zorgverzekeringswet zijn van overeenkomstige toepassing.  
+2.  Het eerste lid geldt na de termijn, bedoeld in artikel 8.3 van de Wet maatschappelijke ondersteuning 2015 niet voor zorg, bedoeld in artikel 8.1 van die wet en geldt na de termijn, bedoeld in artikel 10.1, derde of vierde lid, van de Jeugdwet niet voor zorg, bedoeld in artikel 10.1, tweede lid, van die wet.  
+3.  De artikelen 3.1.3. tot en met 3.1.6. van de Invoerings- en aanpassingswet Zorgverzekeringswet zijn van overeenkomstige toepassing.  
 
 ### Artikel  1.23  
 

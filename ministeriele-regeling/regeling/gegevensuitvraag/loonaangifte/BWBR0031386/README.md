@@ -3,7 +3,7 @@
 ##Regeling met betrekking tot de verstrekking van gegevens (Regeling gegevensuitvraag loonaangifte)
 
 De Staatssecretaris van Financiën,  
-Gelet op [artikel 28a van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md);
+Gelet op artikel 28a van de Wet op de loonbelasting 1964;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -13,7 +13,7 @@ Besluit:
 
 ####Reikwijdte
 
-Deze regeling geeft uitvoering aan de [artikelen 28](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md) en [28a van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md). 
+Deze regeling geeft uitvoering aan de artikelen 28 en 28a van de Wet op de loonbelasting 1964. 
 
 ###Hoofdstuk 1a 
 
@@ -23,7 +23,7 @@ Deze regeling geeft uitvoering aan de [artikelen 28](../../../../../wet/wet/op/d
 
 ####Gegevens opgave bij aangifte
 
-1.  De opgave, bedoeld in [artikel 28, eerste lid, onderdeel d, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), bevat de algemene gegevens, genoemd in het tweede lid, de collectieve gegevens, genoemd in het derde lid, en de nominatieve gegevens, genoemd in het vierde lid.   
+1.  De opgave, bedoeld in artikel 28, eerste lid, onderdeel d, van de Wet op de loonbelasting 1964, bevat de algemene gegevens, genoemd in het tweede lid, de collectieve gegevens, genoemd in het derde lid, en de nominatieve gegevens, genoemd in het vierde lid.   
 2.  De opgave, bedoeld in het eerste lid, bevat de volgende algemene gegevens: 
 
 a. bericht: 
@@ -83,33 +83,31 @@ a. collectieve aangifte:
 
 12°. eindheffing overschrijding forfaitaire werkkostenregeling;  
 
-13°. pseudo-eindheffing hoog loon;  
+13°. afdrachtvermindering zeevaart;  
 
-14°. afdrachtvermindering zeevaart;  
+14°. afdrachtvermindering speur- en ontwikkelingswerk;  
 
-15°. afdrachtvermindering onderwijs;  
+15°. totaal basispremie WAO/IVA/WGA;  
 
-16°. afdrachtvermindering speur- en ontwikkelingswerk;  
+16°. totaal gedifferentieerde premie Whk;  
 
-17°. totaal basispremie WAO/IVA/WGA;  
+17°. totaal premie WW Awf;  
 
-18°. totaal gedifferentieerde premie Whk;  
+18°. totaal premie Ufo;  
 
-19°. totaal premie WW Awf;  
+19°. totaal ingehouden bijdragen Zvw;  
 
-20°. totaal premie Ufo;  
+20°. totaal werkgeversheffing Zvw;  
 
-21°. totaal ingehouden bijdragen Zvw;  
+21°. premiekorting arbeidsgehandicapten;  
 
-22°. totaal werkgeversheffing Zvw;  
+22°. premiekorting nieuwe arbeidsverhouding oudere werknemers;  
 
-23°. premiekorting arbeidsgehandicapten;  
+23°. premiekorting jongere werknemers; 
 
-24°. premiekorting nieuwe arbeidsverhouding oudere werknemers;  
+24°. totaal te betalen over tijdvak;  
 
-25°. totaal te betalen over tijdvak;  
-
-26°. totaal generaal;    
+25°. totaal generaal;    
 
 b. specificatie premie sectorfonds: 
 
@@ -208,35 +206,37 @@ e. inkomstenperiode:
 
 10°. indicatie loonheffingskorting;  
 
-11°. code reden geen bijtelling auto;  
+11°. indicatie premiekorting jongere werknemers; 
 
-12°. code loonbelastingtabel;  
+12°. code reden geen bijtelling auto;  
 
-13°. indicatie verzekerd WAO/IVA/WGA;  
+13°. code loonbelastingtabel;  
 
-14°. indicatie verzekerd WW;  
+14°. indicatie verzekerd WAO/IVA/WGA;  
 
-15°. indicatie verzekerd ZW;  
+15°. indicatie verzekerd WW;  
 
-16°. indicatie premievrijstelling marginale arbeid;  
+16°. indicatie verzekerd ZW;  
 
-17°. indicatie wachtgeld oude regeling;  
+17°. indicatie premievrijstelling marginale arbeid;  
 
-18°. code verzekeringssituatie Zvw;  
+18°. indicatie wachtgeld oude regeling;  
 
-19°. indicatie vakantiebonnen toegepast;  
+19°. code verzekeringssituatie Zvw;  
 
-20°. indicatie loon bestaat (mede) uit een AOW-uitkering voor alleenstaande (met of zonder kinderen);  
+20°. indicatie vakantiebonnen toegepast;  
 
-21°. indicatie loon inclusief Wajong-uitkering;  
+21°. indicatie loon bestaat (mede) uit een AOW-uitkering voor alleenstaande (met of zonder kinderen);  
 
-22°. indicatie personeelslening waarvan de rente- en/of kostenvoordelen niet tot het loon zijn gerekend;  
+22°. indicatie loon inclusief Wajong-uitkering;  
 
-23°. indicatie vervoer vanwege de inhoudingsplichtige;  
+23°. indicatie personeelslening waarvan de rente- en/of kostenvoordelen niet tot het loon zijn gerekend;  
 
-24°. code incidentele inkomstenvermindering;  
+24°. indicatie vervoer vanwege de inhoudingsplichtige;  
 
-25°. indicatie tijdelijke heffingskorting;    
+25°. code incidentele inkomstenvermindering;  
+
+26°. indicatie tijdelijke heffingskorting;    
 
 f. werknemersgegevens: 
 
@@ -316,13 +316,13 @@ g. sector risicogroep:
 
 ####Gegevens opgave bij onjuiste of onvolledige aangifte
 
-De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), bevat de gegevens, genoemd in artikel 1a.1. 
+De opgave, bedoeld in artikel 28a, eerste lid en tweede lid, aanhef en onderdelen a tot en met d, van de Wet op de loonbelasting 1964, bevat de gegevens, genoemd in artikel 1a.1. 
 
 ### Artikel  1a.3  
 
 ####Gegevens opgave bij verwijtbaar onjuiste of onvolledige aangifte over verstreken kalenderjaar (jaarloonopgave)
 
-1.  De opgave, bedoeld in [artikel 28a, eerste lid en tweede lid, aanhef en onderdeel e, van de Wet op de loonbelasting 1964](../../../../../wet/wet/op/de/loonbelasting/1964/BWBR0002471/README.md), bevat de algemene gegevens, genoemd in het tweede lid, en de nominatieve gegevens, genoemd in het derde lid.   
+1.  De opgave, bedoeld in artikel 28a, eerste lid en tweede lid, aanhef en onderdeel e, van de Wet op de loonbelasting 1964, bevat de algemene gegevens, genoemd in het tweede lid, en de nominatieve gegevens, genoemd in het derde lid.   
 2.  De opgave, bedoeld in het eerste lid, bevat de volgende algemene gegevens: 
 
 a. bericht: 
@@ -398,7 +398,7 @@ d. werknemersgegevens (gecumuleerd):
 
 4°. basispremie WAO/IVA/WGA;  
 
-5°. gedifferentieerde premie WGA;  
+5°. gedifferentieerde premie Whk;  
 
 6°. premie WW Awf;  
 

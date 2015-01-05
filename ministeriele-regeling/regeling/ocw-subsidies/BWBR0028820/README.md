@@ -3,7 +3,7 @@
 ##Regeling van de Minister van Onderwijs, Cultuur en Wetenschap van 28 september 2010, nr. WJZ-230010 (8285), houdende algemene regels voor subsidieverstrekking op grond van de Wet overige OCW-subsidies en enkele onderwijswetten (Regeling OCW-subsidies)
 
 De Minister van Onderwijs, Cultuur en Wetenschap,  
-Gelet op [artikel 4:81, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), de [artikelen 2](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) en [4 van de Wet overige OCW-subsidies](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md), de [artikelen 70](../../../../wet/wbo/BWBR0003420/README.md), [116, eerste en tweede lid](../../../../wet/wbo/BWBR0003420/README.md), [123, eerste en tweede lid](../../../../wet/wbo/BWBR0003420/README.md), en [135, eerste lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), de [artikelen 71](../../../../wet/isovso/BWBR0003549/README.md), [113, eerste en tweede lid](../../../../wet/isovso/BWBR0003549/README.md), [120, eerste en tweede lid](../../../../wet/isovso/BWBR0003549/README.md), en [129, eerste lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md), de [artikelen 74](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), [85a, eerste en tweede lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), de [artikelen 89, eerste en tweede lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en de [artikelen 2.2.3, eerste en tweede lid](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), [2.4.3](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md) en [2.7 van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md);
+Gelet op artikel 4:81, eerste lid, van de Algemene wet bestuursrecht, de artikelen 2 en 4 van de Wet overige OCW-subsidies, de artikelen 70, 116, eerste en tweede lid, 123, eerste en tweede lid, en 135, eerste lid, van de Wet op het primair onderwijs, de artikelen 71, 113, eerste en tweede lid, 120, eerste en tweede lid, en 129, eerste lid, van de Wet op de expertisecentra, de artikelen 74, 85a, eerste en tweede lid, de artikelen 89, eerste en tweede lid, van de Wet op het voortgezet onderwijs, en de artikelen 2.2.3, eerste en tweede lid, 2.4.3 en 2.7 van de Wet educatie en beroepsonderwijs;
 Besluit:     
 ### Hoofdstuk  1  
 
@@ -13,19 +13,19 @@ Besluit:
 
 ####Begripsbepalingen
 
-*accountant:* accountant als bedoeld in [artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md),  
+*accountant:* accountant als bedoeld in artikel 393, eerste lid, van Boek 2 van het Burgerlijk Wetboek,  
 
 *instellingssubsidie:* subsidie voor dezelfde of in hoofdzaak dezelfde voortdurende, structurele activiteiten van een instelling,  
 
-*jaarrekening:* jaarrekening als bedoeld in [artikel 361 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md),  
+*jaarrekening:* jaarrekening als bedoeld in artikel 361 van Boek 2 van het Burgerlijk Wetboek,  
 
-*jaarverslaggeving:* geheel van verslaggevingsdocumenten bestaande uit de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in [artikel 392 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md),  
+*jaarverslaggeving:* geheel van verslaggevingsdocumenten bestaande uit de jaarrekening, het jaarverslag en de overige gegevens, bedoeld in artikel 392 van Boek 2 van het Burgerlijk Wetboek,  
 
 *minister:* Minister van Onderwijs, Cultuur en Wetenschap,  
 
 *niet-onderwijsinstelling:* natuurlijk persoon of rechtspersoon, niet zijnde een onderwijsinstelling,  
 
-*onderwijsinstelling:* bekostigde onderwijsinstelling waarop de [Regeling jaarverslaggeving onderwijs](../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md) van toepassing is,  
+*onderwijsinstelling:* bekostigde onderwijsinstelling waarop de Regeling jaarverslaggeving onderwijs van toepassing is,  
 
 *projectsubsidie:* subsidie voor tijdelijke activiteiten, die anders dan als instellingssubsidie wordt verstrekt,  
 
@@ -33,7 +33,7 @@ Besluit:
 
 *subsidie:* instellingssubsidie of projectsubsidie,  
 
-*Wet SLOA 2013:* [Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md).   
+*Wet SLOA 2013:* Wet subsidiëring landelijke onderwijsondersteunende activiteiten 2013.   
 
 ### Artikel  2  
 
@@ -41,55 +41,55 @@ Besluit:
 
 1.  Deze regeling is van toepassing op subsidieverstrekking door de minister op grond van de volgende artikelen of de daarop gebaseerde regelingen: 
 
-a. de [artikelen 2](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) en [4 van de Wet overige OCW-subsidies](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md),  
+a. de artikelen 2 en 4 van de Wet overige OCW-subsidies,  
 
-b. de [artikelen 2](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) en [3, tweede lid, van de Wet overige OCW-subsidies](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md),  
+b. de artikelen 2 en 3, tweede lid, van de Wet overige OCW-subsidies,  
 
-c. [artikel 70, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md),  
+c. artikel 70, van de Wet op het primair onderwijs,  
 
-d. [artikel 116, eerste lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md),  
+d. artikel 116, eerste lid, van de Wet op het primair onderwijs,  
 
-e. [artikel 116, tweede lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md),  
+e. artikel 116, tweede lid, van de Wet op het primair onderwijs,  
 
-f. [artikel 123, eerste lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md),  
+f. artikel 123, eerste lid, van de Wet op het primair onderwijs,  
 
-g. [artikel 123, tweede lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md),  
+g. artikel 123, tweede lid, van de Wet op het primair onderwijs,  
 
-h. [artikel 135, eerste lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md),  
+h. artikel 135, eerste lid, van de Wet op het primair onderwijs,  
 
-i. [artikel 71 van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md),  
+i. artikel 71 van de Wet op de expertisecentra,  
 
-j. [artikel 113, eerste lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md),  
+j. artikel 113, eerste lid, van de Wet op de expertisecentra,  
 
-k. [artikel 113, tweede lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md),  
+k. artikel 113, tweede lid, van de Wet op de expertisecentra,  
 
-l. [artikel 120, eerste lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md),  
+l. artikel 120, eerste lid, van de Wet op de expertisecentra,  
 
-m. [artikel 120, tweede lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md),  
+m. artikel 120, tweede lid, van de Wet op de expertisecentra,  
 
-n. [artikel 129, eerste lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md),  
+n. artikel 129, eerste lid, van de Wet op de expertisecentra,  
 
-o. [artikel 74 van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+o. artikel 74 van de Wet op het voortgezet onderwijs,  
 
-p. [artikel 85a, eerste lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+p. artikel 85a, eerste lid, van de Wet op het voortgezet onderwijs,  
 
-q. [artikel 85a, tweede lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+q. artikel 85a, tweede lid, van de Wet op het voortgezet onderwijs,  
 
-r. [artikel 89, eerste lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+r. artikel 89, eerste lid, van de Wet op het voortgezet onderwijs,  
 
-s. [artikel 89, tweede lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md),  
+s. artikel 89, tweede lid, van de Wet op het voortgezet onderwijs,  
 
-t. [artikel 2.2.3, eerste lid, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+t. artikel 2.2.3, eerste lid, van de Wet educatie en beroepsonderwijs,  
 
-u. [artikel 2.2.3, tweede lid, van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+u. artikel 2.2.3, tweede lid, van de Wet educatie en beroepsonderwijs,  
 
-v. [artikel 2.4.3 van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md),  
+v. artikel 2.4.3 van de Wet educatie en beroepsonderwijs,  
 
-w. [artikel 2.7 van de Wet educatie en beroepsonderwijs](../../../../wet/wet/educatie/en/beroepsonderwijs/BWBR0007625/README.md), en 
+w. artikel 2.7 van de Wet educatie en beroepsonderwijs, en 
 
-x. [artikel 2, tweede lid](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md), en [artikel 3, tweede lid, van de Wet SLOA 2013](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md).     
-2.  Deze regeling houdt tevens beleidsregels in met betrekking tot de wijze waarop de minister gebruik maakt van zijn bevoegdheid als bedoeld in de [artikelen 123, tweede lid](../../../../wet/wbo/BWBR0003420/README.md), en [135, eerste lid, van de Wet op het primair onderwijs](../../../../wet/wbo/BWBR0003420/README.md), de [artikelen 120, tweede lid](../../../../wet/isovso/BWBR0003549/README.md), en [129, eerste lid, van de Wet op de expertisecentra](../../../../wet/isovso/BWBR0003549/README.md) en [85a, tweede lid](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md), en de [artikelen 89, tweede lid, van de Wet op het voortgezet onderwijs](../../../../wet/wet/op/het/voortgezet/onderwijs/BWBR0002399/README.md).   
-3.  Indien subsidie wordt verstrekt op grond van [artikel 4, eerste lid, aanhef en onder a, van de Wet overige OCW-subsidies](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) juncto [artikel 4:23, derde lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) dan wel [artikel 2, tweede lid](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md), of [artikel 3, tweede lid, van de Wet SLOA 2013](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md), kan bij beschikking worden afgeweken van deze regeling.  
+x. artikel 2, tweede lid, en artikel 3, tweede lid, van de Wet SLOA 2013.     
+2.  Deze regeling houdt tevens beleidsregels in met betrekking tot de wijze waarop de minister gebruik maakt van zijn bevoegdheid als bedoeld in de artikelen 123, tweede lid, en 135, eerste lid, van de Wet op het primair onderwijs, de artikelen 120, tweede lid, en 129, eerste lid, van de Wet op de expertisecentra en 85a, tweede lid, en de artikelen 89, tweede lid, van de Wet op het voortgezet onderwijs.   
+3.  Indien subsidie wordt verstrekt op grond van artikel 4, eerste lid, aanhef en onder a, van de Wet overige OCW-subsidies juncto artikel 4:23, derde lid, van de Algemene wet bestuursrecht dan wel artikel 2, tweede lid, of artikel 3, tweede lid, van de Wet SLOA 2013, kan bij beschikking worden afgeweken van deze regeling.  
 
 ### Hoofdstuk  2  
 
@@ -107,14 +107,14 @@ Dit hoofdstuk is van toepassing op zowel onderwijsinstellingen als niet-onderwij
 
 1.  Indien een aanvraag om subsidie op grond van enig wettelijk voorschrift is voorgeschreven, omvat die subsidieaanvraag in ieder geval een activiteitenplan en een begroting.   
 2.  Indien de subsidieaanvraag betrekking heeft op meer dan een jaar, omvat de aanvraag een meerjarenactiviteitenplan en een meerjarenbegroting.   
-3.  [Artikel 4:62 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
+3.  Artikel 4:62 van de Algemene wet bestuursrecht is van overeenkomstige toepassing. 
 
 ### Artikel  5  
 
 ####Begrotingsvoorwaarde
 
-1.  Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
-2.  In geval van het niet vervullen van de voorwaarde, bedoeld in [artikel 4:34, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), worden de verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting van het Ministerie van Onderwijs, Cultuur en Wetenschap ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen.  
+1.  Een subsidie ten laste van een begroting die nog niet is vastgesteld, wordt verleend onder de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht.   
+2.  In geval van het niet vervullen van de voorwaarde, bedoeld in artikel 4:34, eerste lid, van de Algemene wet bestuursrecht, worden de verleende subsidiebedragen verlaagd tot het bedrag van de subsidie dat na de vaststelling of goedkeuring van de begroting van het Ministerie van Onderwijs, Cultuur en Wetenschap ter beschikking staat, een en ander naar rato van het aantal subsidieaanvragers aan wie subsidie is verleend en van de hoogte van de verleende subsidiebedragen.  
 
 ### Artikel  6  
 
@@ -126,21 +126,21 @@ Bij terugvordering van ten onrechte betaalde subsidiebedragen of voorschotten ka
 
 ####Vergoedingsplicht
 
-1.  In de gevallen, bedoeld in [artikel 4:41, tweede lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md), waarin het verstrekken van subsidie heeft geleid tot vermogensvorming, legt de minister een door hem te bepalen vergoedingsplicht op.   
+1.  In de gevallen, bedoeld in artikel 4:41, tweede lid, van de Algemene wet bestuursrecht, waarin het verstrekken van subsidie heeft geleid tot vermogensvorming, legt de minister een door hem te bepalen vergoedingsplicht op.   
 2.  Bij de vaststelling van de hoogte van de vergoeding worden activa gewaardeerd op hun actuele waarde. De waardebepaling van een onroerende zaak geschiedt door drie deskundigen. De minister en de subsidieontvanger wijzen elk een deskundige aan, die in onderling overleg een derde deskundige aanwijzen.   
 3.  Het eerste lid is niet van toepassing, indien de activiteiten van de subsidieontvanger door een derde worden voortgezet en de activa en passiva met toestemming van de minister tegen boekwaarde aan die derde worden overgedragen.  
 
 ### Artikel  7  
 
-####Toepassing [afdeling 4.2.8 Awb](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) bij boekjaarsubsidies van € 125.000 of meer
+####Toepassing afdeling 4.2.8 Awb bij boekjaarsubsidies van € 125.000 of meer
 
-[Afdeling 4.2.8 van de Algemene Wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing op per boekjaar verstrekte subsidies die € 125.000 of meer bedragen. 
+Afdeling 4.2.8 van de Algemene Wet bestuursrecht is van toepassing op per boekjaar verstrekte subsidies die € 125.000 of meer bedragen. 
 
 ### Artikel  8  
 
 ####Administratieplicht bij subsidies van € 125.000 of meer
 
-1.  Indien de subsidie € 125.000 of meer bedraagt, voert de subsidieontvanger een administratie van aan de activiteiten verbonden uitgaven en inkomsten als bedoeld in [artikel 4:37, eerste lid, onderdeel b, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  Indien de subsidie € 125.000 of meer bedraagt, voert de subsidieontvanger een administratie van aan de activiteiten verbonden uitgaven en inkomsten als bedoeld in artikel 4:37, eerste lid, onderdeel b, van de Algemene wet bestuursrecht.   
 2.  De subsidieontvanger bewaart de administratie en de daartoe behorende bescheiden gedurende zeven jaren.  
 
 ### Artikel  9  
@@ -180,12 +180,14 @@ Dit hoofdstuk is uitsluitend van toepassing op onderwijsinstellingen.
 
 ####Verantwoording door onderwijsinstellingen
 
-1.  Indien subsidie wordt verstrekt die op grond van de toepasselijke ministeriële regeling of beschikking ook kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt, geschiedt de verantwoording in de jaarverslaggeving, bedoeld in de [Regeling jaarverslaggeving onderwijs](../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md). De verklaring van de accountant bij de jaarrekening bevat in dat geval tevens een oordeel over de rechtmatige besteding van de subsidie.   
-2.  Indien subsidie wordt verstrekt voor: 
+1.  De verantwoording van subsidie door onderwijsinstellingen geschiedt in de jaarverslaggeving overeenkomstig de voorschriften, bedoeld in de Regeling jaarverslaggeving onderwijs.   
+2.  Bij de verantwoording wordt onderscheid gemaakt tussen: 
 
-a. activiteiten waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, op grond van de toepasselijke ministeriële regeling of beschikking kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt, of  
+a. subsidie waarbij het eventueel niet aangewende deel van de subsidie, mits de activiteiten volledig zijn uitgevoerd, kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt,  
 
-b. activiteiten waarbij de subsidie uitsluitend mag worden aangewend voor die activiteiten,   geschiedt de verantwoording in de jaarverslaggeving, bedoeld in de [Regeling jaarverslaggeving onderwijs](../../../../ministeriele-regeling/regeling/jaarverslaggeving/onderwijs/BWBR0023132/README.md), met model G, behorende bij de richtlijn RJ 660, alinea 212, zoals vastgesteld door de Raad voor de Jaarverslaggeving, met dien verstande dat daarbij tevens de te verrekenen bedragen worden vermeld. De verwerking van niet-bestede middelen geschiedt in dat geval in de jaarrekening van het laatste jaar van besteding. De verklaring van de accountant bij de jaarrekening bevat tevens een oordeel over de rechtmatige besteding van de subsidie.  
+b. subsidie die uitsluitend mag worden aangewend voor het doel waarvoor de subsidie is verstrekt, en  
+
+c. subsidie die ook kan worden besteed aan andere activiteiten waarvoor bekostiging wordt verstrekt.   
 
 ### Hoofdstuk  4  
 
@@ -277,7 +279,7 @@ f. wat het totale bedrag van de gerealiseerde eigen bijdrage is.
 
 ####Verantwoording bij subsidies van € 125.000 of meer
 
-Indien de subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger, onverminderd artikel 19, rekening en verantwoording af aan de hand van een financieel verslag. [Artikel 4:76 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing. 
+Indien de subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger, onverminderd artikel 19, rekening en verantwoording af aan de hand van een financieel verslag. Artikel 4:76 van de Algemene wet bestuursrecht is van overeenkomstige toepassing. 
 
 ### Artikel  22  
 
@@ -313,13 +315,13 @@ Indien de subsidie € 125.000 of meer bedraagt, legt de subsidieontvanger, onv
 
 ### Hoofdstuk  5  
 
-####Voorschriften uitsluitend bedoeld voor instellingen zoals bedoeld in de [Wet SLOA 2013](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md)
+####Voorschriften uitsluitend bedoeld voor instellingen zoals bedoeld in de Wet SLOA 2013
 
 ### Artikel  25  
 
 ####Reikwijdte hoofdstuk 5 
 
-Dit hoofdstuk is uitsluitend en in aanvulling op de hoofdstukken 2 en 4 van toepassing op instellingen zoals bedoeld in de [Wet SLOA 2013](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md). 
+Dit hoofdstuk is uitsluitend en in aanvulling op de hoofdstukken 2 en 4 van toepassing op instellingen zoals bedoeld in de Wet SLOA 2013. 
 
 ### Artikel  26  
 
@@ -335,18 +337,18 @@ Artikel 10 van deze regeling is niet van toepassing.
 2.  De startbrief heeft betrekking op het kalenderjaar dat volgt op het jaar waarin de startbrief aan de instellingen wordt bekendgemaakt.   
 3.  De startbrief bevat in ieder geval: 
 
-a. een nadere invulling en uitsplitsing van de taken, naar activiteiten, zoals omschreven in de [artikelen 2](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md) en [3 van de Wet SLOA 2013](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md),  
+a. een nadere invulling en uitsplitsing van de taken, naar activiteiten, zoals omschreven in de artikelen 2 en 3 van de Wet SLOA 2013,  
 
-b. een financieel kader met daarin opgenomen het subsidieplafond voor de instellingen, bedoeld in [artikel 8, eerste lid, van de Wet SLOA 2013](../../../../ministeriele-regeling/regeling/koopkrachttegemoetkoming/niet-kob-gerechtigden/met/een/etc/BWBR0033860/README.md) en wanneer van toepassing een subsidieplafond voor de instellingen, bedoeld in artikel 8, tweede lid, van de Wet SLOA 2013,  
+b. een financieel kader met daarin opgenomen het subsidieplafond voor de instellingen, bedoeld in artikel 8, eerste lid, van de Wet SLOA 2013 en wanneer van toepassing een subsidieplafond voor de instellingen, bedoeld in artikel 8, tweede lid, van de Wet SLOA 2013,  
 
 c. een planning van de subsidiecyclus.     
-4.  In aanvulling op [artikel 6 van de Wet SLOA 2013](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md) kan subsidieverlening worden geweigerd indien de minister van oordeel is dat de aanvraag niet past binnen de startbrief.  
+4.  In aanvulling op artikel 6 van de Wet SLOA 2013 kan subsidieverlening worden geweigerd indien de minister van oordeel is dat de aanvraag niet past binnen de startbrief.  
 
 ### Artikel  28  
 
-####[Afdeling 4.2.8 Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) van toepassing
+####Afdeling 4.2.8 Algemene wet bestuursrecht van toepassing
 
-[Afdeling 4.2.8 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van toepassing. 
+Afdeling 4.2.8 van de Algemene wet bestuursrecht is van toepassing. 
 
 ### Artikel  29  
 
@@ -360,8 +362,8 @@ c. een planning van de subsidiecyclus.
 ####Subsidieaanvragen
 
 1.  De instellingen dienen hun subsidieaanvraag in voor 1 oktober voorafgaand aan het jaar waarop de subsidieaanvraag betrekking heeft.   
-2.  De subsidieaanvraag, bedoeld in het eerste lid, betreft de taken, genoemd in [artikel 2, eerste lid, onderdelen a tot en met c](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md), onderscheidenlijk [artikel 3, eerste lid, onderdelen a tot en met e, van de Wet SLOA 2013](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md).   
-3.  Subsidieaanvragen voor de taak, genoemd in [artikel 2, eerste lid, onderdeel d](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md), en [artikel 3, eerste lid, onderdeel f, van de Wet SLOA 2013](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md) worden voor 1 oktober voorafgaand aan het jaar waarop de subsidieaanvraag betrekking heeft, of voor 1 maart of voor 1 september van het lopende jaar ingediend.   
+2.  De subsidieaanvraag, bedoeld in het eerste lid, betreft de taken, genoemd in artikel 2, eerste lid, onderdelen a tot en met c, onderscheidenlijk artikel 3, eerste lid, onderdelen a tot en met e, van de Wet SLOA 2013.   
+3.  Subsidieaanvragen voor de taak, genoemd in artikel 2, eerste lid, onderdeel d, en artikel 3, eerste lid, onderdeel f, van de Wet SLOA 2013 worden voor 1 oktober voorafgaand aan het jaar waarop de subsidieaanvraag betrekking heeft, of voor 1 maart of voor 1 september van het lopende jaar ingediend.   
 4.  De minister beslist binnen 13 weken na 1 oktober onderscheidenlijk 1 maart of 1 september.  
 
 ### Artikel  31  
@@ -376,10 +378,10 @@ c. een planning van de subsidiecyclus.
 
 ####Egalisatiereserve
 
-1.  De instellingen vormen een egalisatiereserve als bedoeld in [artikel 4:72 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md).   
+1.  De instellingen vormen een egalisatiereserve als bedoeld in artikel 4:72 van de Algemene wet bestuursrecht.   
 2.  De egalisatiereserve bedraagt ten hoogste 10 procent van het totaal van de over het laatste kalenderjaar verleende subsidie dan wel ten hoogste een lager percentage dat door de minister bij de beschikking tot verlening is bepaald.   
 3.  De egalisatiereserve bedraagt ten laagste € 0.   
-4.  De egalisatiereserve wordt uitsluitend besteed aan de taken, bedoeld in [artikel 2](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md) onderscheidenlijk [3, van de Wet SLOA 2013](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md).   
+4.  De egalisatiereserve wordt uitsluitend besteed aan de taken, bedoeld in artikel 2 onderscheidenlijk 3, van de Wet SLOA 2013.   
 5.  De egalisatiereserve wordt gevormd door een toevoeging bij een positief eindresultaat en een onttrekking bij een negatief eindresultaat. Het eindresultaat is de verleende subsidie verminderd met de werkelijke kosten.   
 6.  Voor zover het voor de toevoeging beschikbare bedrag hoger is dan de maximale toevoeging, wordt dat bedrag bij de vaststelling in mindering gebracht op de subsidie.  
 
@@ -387,7 +389,7 @@ c. een planning van de subsidiecyclus.
 
 ####Toestemming
 
-[Artikel 4:71 van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) is van overeenkomstige toepassing met dien verstande dat het eerste lid, onderdeel e, wordt gelezen als: 
+Artikel 4:71 van de Algemene wet bestuursrecht is van overeenkomstige toepassing met dien verstande dat het eerste lid, onderdeel e, wordt gelezen als: 
 
 e. het aangaan van langlopende kredietovereenkomsten en van langlopende overeenkomsten van geldlening.   
 
@@ -411,7 +413,7 @@ c. subsidies die zijn verleend vóór 1 januari 2012 op grond van een regeling 
 
 ### Artikel  35  
 
-####Overgangsbepaling [SLOA](../../../../wet/wet/subsidiëring/landelijke/onderwijsondersteunende/activiteiten/2013/BWBR0034162/README.md)
+####Overgangsbepaling SLOA
 
 Artikel 29 treedt in werking met ingang van 1 januari 2015 over het verslagjaar 2014, tenzij bij beschikking een ander tijdstip wordt vastgesteld. 
 
@@ -464,13 +466,13 @@ Voor de accountantscontrole is de volgende specifieke OCW wet- en regelgeving (i
 
 – Regeling OCW-subsidies, uitgezonderd hoofdstuk drie;  
 
-– [Wet overige OCW-subsidies, paragrafen 1](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md) en [3](../../../../wet/wet/overige/ocw-subsidies/BWBR0009458/README.md).   Daarnaast is de volgende algemene regelgeving van toepassing: 
+– Wet overige OCW-subsidies, paragrafen 1 en 3.   Daarnaast is de volgende algemene regelgeving van toepassing: 
 
-– [Algemene wet bestuursrecht, Titel 4.2](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) Subsidies ([paragrafen 4.2.3 tot en met 4.2.8](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md));  
+– Algemene wet bestuursrecht, Titel 4.2 Subsidies (paragrafen 4.2.3 tot en met 4.2.8);  
 
-– [Titel 9 van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) (BW 2 Titel 9), met uitsluiting van de [afdelingen 1](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [11](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [12](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [13](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [14](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), [15](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [16 van Boek 2 Titel 9 BW](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), en de Richtlijnen van de Raad voor de Jaarverslaggeving;  
+– Titel 9 van Boek 2 van het Burgerlijk Wetboek (BW 2 Titel 9), met uitsluiting van de afdelingen 1, 11, 12, 13, 14, 15 en 16 van Boek 2 Titel 9 BW, en de Richtlijnen van de Raad voor de Jaarverslaggeving;  
 
-– [Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) (WNT);  
+– Wet normering bezoldiging topfunctionarissen publieke en semipublieke sector (WNT);  
 
 – Aanbestedingswetgeving (zowel Europees als nationaal).   Volledige teksten van de geldende wet- en regelgeving zijn onder andere te vinden via www.wetten.nl. Dit controleprotocol is opgesteld naar analogie van de door de NBA (Nederlandse Beroepsorganisatie van Accountants, destijds NIvRA) uitgegeven ‘Handreiking Controleprotocollen’ (februari 2007). De daarin opgenomen uitgangspunten zijn specifiek gemaakt voor de OCW-situatie. Waar mogelijk zijn tekstpassages uit de handreiking in dit controleprotocol overgenomen. Voor de controle van een jaarrekening of een financieel verslag zijn in dit controleprotocol verplichte teksten voor de controleverklaringen opgenomen. De beschreven (minimale) controlewerkzaamheden zijn bedoeld als aanvulling op de ‘Nadere voorschriften Controle- en overige standaarden’ (NV COS). Het controleprotocol is voorgelegd aan de werkgroep COPRO van de NBA. 
 
@@ -488,7 +490,7 @@ De accountantscontrole op de financiële verantwoording mondt uit in een control
 
 ####Procedure controleprotocol
 
-Dit protocol geldt voor subsidies verleend aan niet-onderwijsinstellingen o.g.v. de [Wet overige OCW-subsidies](../../../../AMvB/besluit/bodemmiddelen/isv-3/BWBR0026377/README.md) per 1 januari 2014, en voor reeds verleende subsidies aan niet-onderwijsinstellingen o.g.v. de Subsidieregeling Emancipatie 2011 vanaf 1 januari 2010. 
+Dit protocol geldt voor subsidies verleend aan niet-onderwijsinstellingen o.g.v. de Wet overige OCW-subsidies per 1 januari 2014, en voor reeds verleende subsidies aan niet-onderwijsinstellingen o.g.v. de Subsidieregeling Emancipatie 2011 vanaf 1 januari 2010. 
 
 ### 2  
 
@@ -584,7 +586,7 @@ De subsidieontvanger legt rekening en verantwoording af volgens het bepaalde in 
 
 ####WNT-getrouwheid
 
-De accountant stelt, aan de hand van de administratie van de instelling, integraal vast of de opgave in de toelichting van de jaarrekening van de instelling op grond van de Wet normering en bezoldiging topfunctionarissen publieke en semipublieke sector ([WNT](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md)) juist en volledig is. Indien dit niet het geval is, geeft de accountant een ander dan goedkeurend getrouwheidsoordeel af en vermeldt hij de ontbrekende informatie in zijn verklaring. Hiervoor geldt een rapportagetolerantie van 0 procent. Daarbij zijn de volgende artikelen van de WNT van bijzonder belang: [artikel 1.7, tweede lid](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [artikel 4.1, eerste en tweede lid](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [artikel 4.2, eerste tot en met zesde lid](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), en [artikel 7.5](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md). 
+De accountant stelt, aan de hand van de administratie van de instelling, integraal vast of de opgave in de toelichting van de jaarrekening van de instelling op grond van de Wet normering en bezoldiging topfunctionarissen publieke en semipublieke sector (WNT) juist en volledig is. Indien dit niet het geval is, geeft de accountant een ander dan goedkeurend getrouwheidsoordeel af en vermeldt hij de ontbrekende informatie in zijn verklaring. Hiervoor geldt een rapportagetolerantie van 0 procent. Daarbij zijn de volgende artikelen van de WNT van bijzonder belang: artikel 1.7, tweede lid, artikel 4.1, eerste en tweede lid, artikel 4.2, eerste tot en met zesde lid, en artikel 7.5. 
 
 ### 2.6  
 
@@ -604,13 +606,13 @@ De accountant houdt bij het vormen van zijn oordeel rekening met de relevante we
 
 1. De accountant stelt vast dat in de financiële verantwoording alleen posten zijn opgenomen die zijn verbonden aan de uitvoering van de activiteiten waarvoor de subsidie is toegekend en dat is voldaan aan de aan de subsidie verbonden verplichtingen (onder andere opgenomen in de subsidiebeschikking).  
 
-2. De accountant gaat na of de financiële verantwoording aansluit op de begroting op grond waarvan subsidie is verleend. Verder gaat hij na of de subsidieontvanger opvallende verschillen tussen begroting en realisatie van een toelichting heeft voorzien ([artikel 4:76, vijfde lid, Awb](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)). Indien dit achterwege blijft, meldt de accountant dat in zijn rapport van bevindingen.  
+2. De accountant gaat na of de financiële verantwoording aansluit op de begroting op grond waarvan subsidie is verleend. Verder gaat hij na of de subsidieontvanger opvallende verschillen tussen begroting en realisatie van een toelichting heeft voorzien (artikel 4:76, vijfde lid, Awb). Indien dit achterwege blijft, meldt de accountant dat in zijn rapport van bevindingen.  
 
-3. De subsidiebeschikking of subsidieregeling kan de bepaling bevatten dat voor rechtshandelingen als bedoeld in [artikel 4:71, eerste lid, van de Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md) de subsidieontvanger de toestemming behoeft van de minister. Indien uit de controle van de financiële verantwoording van een subsidieontvanger blijkt dat de subsidieontvanger geen toestemming van de Minister heeft gevraagd voor rechtshandelingen als bedoeld in artikel 4:71, eerste lid, van de Algemene wet bestuursrecht, meldt de accountant dit in zijn rapport van bevindingen. De accountant beperkt zich tot rechtshandelingen met een mogelijk financieel effect op de financiële verantwoording.  
+3. De subsidiebeschikking of subsidieregeling kan de bepaling bevatten dat voor rechtshandelingen als bedoeld in artikel 4:71, eerste lid, van de Algemene wet bestuursrecht de subsidieontvanger de toestemming behoeft van de minister. Indien uit de controle van de financiële verantwoording van een subsidieontvanger blijkt dat de subsidieontvanger geen toestemming van de Minister heeft gevraagd voor rechtshandelingen als bedoeld in artikel 4:71, eerste lid, van de Algemene wet bestuursrecht, meldt de accountant dit in zijn rapport van bevindingen. De accountant beperkt zich tot rechtshandelingen met een mogelijk financieel effect op de financiële verantwoording.  
 
 4. In bepaalde gevallen is een subsidieontvanger een aanbestedende dienst. De accountant controleert in dat geval of bij in het controlejaar aangegane verplichtingen de aanbestedingswetgeving (zowel Europees als nationaal) is nageleefd. Van de accountant wordt niet verwacht, dat hij de stappen van de subsidieontvanger in het proces van aanbesteden inhoudelijk beoordeelt. De accountant weegt zijn bevindingen mee in zijn oordeel. Indien de accountantscontrole fouten aan het licht brengt die de subsidieontvanger niet herstelt, vermeldt de accountant deze in het rapport van bevindingen. Hiervoor geldt een rapportagetolerantie van 0 procent.  
 
-5. De accountant stelt integraal vast dat de subsidieontvanger de vastgestelde maxima en toegestane bezoldigingen voor topfunctionarissen (Wet normering en bezoldiging topfunctionarissen publieke en semipublieke sector ([WNT](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md))) niet overschrijdt. Indien dit wel het geval is, neemt de accountant dit op in zijn rapport van bevindingen. In het bijzonder gelden de volgende artikelen van de WNT: [artikelen 1.6](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [2.1](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [2.2](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [2.3](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [2.10](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [2.11](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md), [7.3](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) en [7.9](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md). Hiervoor geldt een controle- en een rapportagetolerantie van 0 procent.   
+5. De accountant stelt integraal vast dat de subsidieontvanger de vastgestelde maxima en toegestane bezoldigingen voor topfunctionarissen (Wet normering en bezoldiging topfunctionarissen publieke en semipublieke sector (WNT)) niet overschrijdt. Indien dit wel het geval is, neemt de accountant dit op in zijn rapport van bevindingen. In het bijzonder gelden de volgende artikelen van de WNT: artikelen 1.6, 2.1, 2.2, 2.3, 2.10, 2.11, 7.3 en 7.9. Hiervoor geldt een controle- en een rapportagetolerantie van 0 procent.   
 
 ### Bijlage  1  
 
@@ -626,7 +628,7 @@ Wij hebben de in dit [verslag][rapport] op pagina <<nummer>> tot en met pagina <
 
 ####Verantwoordelijkheid van het bestuur
 
-Het bestuur van de entiteit is verantwoordelijk voor het opmaken van de jaarrekening die het vermogen en resultaat getrouw dient weer te geven, alsmede voor het opstellen van het jaarverslag, beide in overeenstemming met [Titel 9 Boek 2 BW](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en de Richtlijnen voor de Jaarverslaggeving. Het bestuur is tevens verantwoordelijk voor de financiële rechtmatigheid van de in de jaarrekening verantwoorde baten, lasten en balansmutaties. Dit houdt in dat deze bedragen in overeenstemming dienen te zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. Het bestuur is tenslotte verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opmaken van de jaarrekening en de naleving van die relevante wet- en regelgeving mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten. 
+Het bestuur van de entiteit is verantwoordelijk voor het opmaken van de jaarrekening die het vermogen en resultaat getrouw dient weer te geven, alsmede voor het opstellen van het jaarverslag, beide in overeenstemming met Titel 9 Boek 2 BW en de Richtlijnen voor de Jaarverslaggeving. Het bestuur is tevens verantwoordelijk voor de financiële rechtmatigheid van de in de jaarrekening verantwoorde baten, lasten en balansmutaties. Dit houdt in dat deze bedragen in overeenstemming dienen te zijn met de in de relevante wet- en regelgeving opgenomen bepalingen. Het bestuur is tenslotte verantwoordelijk voor een zodanige interne beheersing als het noodzakelijk acht om het opmaken van de jaarrekening en de naleving van die relevante wet- en regelgeving mogelijk te maken zonder afwijkingen van materieel belang als gevolg van fraude of fouten. 
 
 ####Verantwoordelijkheid van de accountant
 
@@ -634,11 +636,11 @@ Onze verantwoordelijkheid is het geven van een oordeel over de jaarrekening op b
 
 ####Oordeel*)
 
-Naar ons oordeel geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van de entiteit per <<datum en jaartal>> en van het resultaat over <<jaartal>> in overeenstemming met [Titel 9 Boek 2 BW](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en de Richtlijnen voor de Jaarverslaggeving. Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten, lasten en balansmutaties over <<jaartal>> voldoen in alle van materieel belang zijnde aspecten aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals die in de subsidiebeschikking en in paragraaf 1.2 wettelijk kader van het Controleprotocol subsidies aan niet-onderwijsinstellingen zijn vermeld. 
+Naar ons oordeel geeft de jaarrekening een getrouw beeld van de grootte en de samenstelling van het vermogen van de entiteit per <<datum en jaartal>> en van het resultaat over <<jaartal>> in overeenstemming met Titel 9 Boek 2 BW en de Richtlijnen voor de Jaarverslaggeving. Voorts zijn wij van oordeel dat de in deze jaarrekening verantwoorde baten, lasten en balansmutaties over <<jaartal>> voldoen in alle van materieel belang zijnde aspecten aan de eisen van financiële rechtmatigheid. Dit houdt in dat deze bedragen in overeenstemming zijn met de in de relevante wet- en regelgeving opgenomen bepalingen, zoals die in de subsidiebeschikking en in paragraaf 1.2 wettelijk kader van het Controleprotocol subsidies aan niet-onderwijsinstellingen zijn vermeld. 
 
 ####Verklaring betreffende overige bij of krachtens de wet gestelde eisen
 
-Ingevolge [artikel 2:393 lid 5 onder e en f BW](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) vermelden wij dat ons geen tekortkomingen zijn gebleken naar aanleiding van het onderzoek of het jaarverslag, voor zover wij dat kunnen beoordelen, overeenkomstig [Titel 9 Boek 2 BW](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is opgesteld, en of de in [artikel 2:392 lid 1 onder b tot en met h BW](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) vereiste gegevens zijn toegevoegd.**) Tevens vermelden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening zoals vereist in [artikel 2:391 lid 4 BW](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md). <<Plaats>>, <<datum>> <<Naam accountantspraktijk>> <<Naam accountant>> *) Indien niet wordt voldaan aan de [WNT](../../../../wet/wet/normering/bezoldiging/topfunctionarissen/publieke/en/semipublieke/etc/BWBR0032249/README.md) vervalt de optie van een goedkeurend getrouwheidsoordeel. **) De onder lid 1 genoemde punten b tot en met f zijn van toepassing op op winst gerichte rechtspersonen. 
+Ingevolge artikel 2:393 lid 5 onder e en f BW vermelden wij dat ons geen tekortkomingen zijn gebleken naar aanleiding van het onderzoek of het jaarverslag, voor zover wij dat kunnen beoordelen, overeenkomstig Titel 9 Boek 2 BW is opgesteld, en of de in artikel 2:392 lid 1 onder b tot en met h BW vereiste gegevens zijn toegevoegd.**) Tevens vermelden wij dat het jaarverslag, voor zover wij dat kunnen beoordelen, verenigbaar is met de jaarrekening zoals vereist in artikel 2:391 lid 4 BW. <<Plaats>>, <<datum>> <<Naam accountantspraktijk>> <<Naam accountant>> *) Indien niet wordt voldaan aan de WNT vervalt de optie van een goedkeurend getrouwheidsoordeel. **) De onder lid 1 genoemde punten b tot en met f zijn van toepassing op op winst gerichte rechtspersonen. 
 
 ### Bijlage  2  
 
@@ -670,7 +672,7 @@ Het financieel verslag is opgesteld voor het Ministerie van Onderwijs, Cultuur e
 
 Deze bijlage bevat voorschriften voor het opstellen van de jaarverslaggeving van door het Ministerie van Onderwijs, Cultuur en Wetenschap (OCW) gesubsidieerde niet-onderwijsinstellingen als bedoeld in artikel 24 van de Regeling OCW-subsidies, verder te noemen: grote niet-onderwijsinstellingen. 
 
-1. [Titel 9](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md), met uitzondering van de [afdelingen 1](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) en [11 tot en met 16, van Boek 2 van het Burgerlijk Wetboek](../../../../wet/burgerlijk/wetboek/boek/2/BWBR0003045/README.md) is van toepassing op de jaarverslaggeving van grote niet-onderwijsinstellingen.  
+1. Titel 9, met uitzondering van de afdelingen 1 en 11 tot en met 16, van Boek 2 van het Burgerlijk Wetboek is van toepassing op de jaarverslaggeving van grote niet-onderwijsinstellingen.  
 
 2. De Richtlijnen voor de jaarverslaggeving voor grote en middelgrote rechtspersonen van de Raad voor de Jaarverslaggeving zijn van toepassing op de jaarverslaggeving van grote niet-onderwijsinstellingen. Hiervan zijn in het bijzonder de richtlijnen RJ 400 Jaarverslag en RJ 640 Organisaties-zonder-winststreven van belang als uitgangspunt voor de inrichting van de jaarverslaggeving.  
 
@@ -682,7 +684,7 @@ Deze bijlage bevat voorschriften voor het opstellen van de jaarverslaggeving van
 
 6. In de jaarrekening wordt de balanspost ‘Eigen Vermogen’ zodanig ingericht, dat onderscheid wordt gemaakt tussen middelen die afkomstig zijn uit ’s Rijks kas, en middelen die worden beschouwd als private geldstromen.  
 
-7. Indien een grote niet-onderwijsinstelling op grond van een wettelijk voorschrift of de subsidiebeschikking een egalisatiereserve ([artikel 4:72 Algemene wet bestuursrecht](../../../../wet/algemene/wet/bestuursrecht/BWBR0005537/README.md)) heeft gevormd, wordt deze opgenomen onder de bestemmingsfondsen publiek.  
+7. Indien een grote niet-onderwijsinstelling op grond van een wettelijk voorschrift of de subsidiebeschikking een egalisatiereserve (artikel 4:72 Algemene wet bestuursrecht) heeft gevormd, wordt deze opgenomen onder de bestemmingsfondsen publiek.  
 
 8. Afwijkingen van deze Voorschriften voor jaarverslaggeving niet-onderwijsinstellingen worden in het jaarverslag uitdrukkelijk genoemd en gemotiveerd.   
 
@@ -704,4 +706,4 @@ Deze bijlage bevat voorschriften voor het opstellen van de jaarverslaggeving van
 
 ### Bijlage  3 
 
-[Subsidieregeling verbeteren binnenmilieu voor scholen in het primair onderwijs](../../../../ministeriele-regeling/subsidieregeling/verbeteren/binnenmilieu/voor/scholen/in/het/primair/etc/BWBR0026680/README.md) [Tijdelijke regeling meerjarig verstrekken subsidie aan het Landelijk Steunpunt Educatie Molukkers](../../../../ministeriele-regeling/tijdelijke/regeling/meerjarig/verstrekken/subsidie/aan/het/landelijk/etc/BWBR0025057/README.md) [Regeling Stichting Nederlands Onderwijs in het Buitenland](../../../../ministeriele-regeling/regeling/stichting/nederlands/onderwijs/in/het/buitenland/BWBR0021823/README.md) [Regeling stimulering Bèta/techniek](../../../../ministeriele-regeling/regeling/stimulering/bètatechniek/BWBR0017643/README.md) [Regeling remedial teaching v.w.o.-a.v.o.-v.b.o.](../../../../ministeriele-regeling/regeling/remedial/teaching/v.w.o.-a.v.o.-v.b.o./BWBR0006573/README.md) [Regeling subsidies voor voortgezet onderwijs](../../../../ministeriele-regeling/regeling/subsidies/voortgezet/onderwijs/BWBR0010583/README.md) [Regeling regionaal zorgbudget, subsidie regionale verwijzingscommissies voortgezet onderwijs en reboundvoorzieningen](../../../../ministeriele-regeling/regeling/regionaal/zorgbudget/subsidie/regionale/verwijzingscommissies/etc/BWBR0019676/README.md) [Regeling Veldleerplanontwikkeling in samenwerking met organisaties en instellingen](../../../../ministeriele-regeling/regeling/veldleerplanontwikkeling/in/samenwerking/met/organisaties/en/etc/BWBR0025569/README.md) [Regeling doorontwikkeling praktijkonderwijs](../../../../ministeriele-regeling/regeling/doorontwikkeling/praktijkonderwijs/BWBR0020500/README.md) [Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vreemdelingen 2009](../../../../ministeriele-regeling/regeling/leerplusarrangement/vo/nieuwkomers/vo/en/eerste/opvang/etc/BWBR0025977/README.md) [Subsidieregeling schoolmaatschappelijk werk in het mbo](../../../../ministeriele-regeling/subsidieregeling/schoolmaatschappelijk/werk/in/het/mbo/BWBR0025939/README.md) [Subsidieregeling LAKS, JOB en Combo](../../../../ministeriele-regeling/subsidieregeling/laks/job/en/combo/BWBR0018144/README.md) [Regeling intensivering Nederlandse taal en rekenen mbo](../../../../ministeriele-regeling/regeling/intensivering/nederlandse/taal/en/rekenen/mbo/BWBR0026615/README.md) [Subsidieregeling Libertas Noodfonds](../../../../ministeriele-regeling/subsidieregeling/libertas/noodfonds/BWBR0020124/README.md) [Regeling subsidie regionale expertisecentra in verband met de pakketmaatregel AWBZ 2009](../../../../ministeriele-regeling/regeling/subsidie/regionale/expertisecentra/in/verband/met/de/etc/BWBR0027606/README.md) [Subsidieregeling passend onderwijs 2010–2012](../../../../ministeriele-regeling/subsidieregeling/passend/onderwijs/2010–2012/BWBR0027772/README.md) [Regeling InnovatieImpuls Onderwijs](../../../../ministeriele-regeling/regeling/innovatieimpuls/onderwijs/BWBR0027516/README.md) [Stimuleringsregeling Krachtig meesterschap](../../../../ministeriele-regeling/stimuleringsregeling/krachtig/meesterschap/BWBR0025837/README.md) [Regeling subsidiëring stagebegeleiding educatieve minoren in het voortgezet onderwijs 2009–2012](../../../../ministeriele-regeling/regeling/subsidiëring/stagebegeleiding/educatieve/minoren/in/het/etc/BWBR0027489/README.md) [Regeling tegemoetkoming kosten opleidingsscholen](../../../../ministeriele-regeling/regeling/tegemoetkoming/kosten/opleidingsscholen/BWBR0025839/README.md) [Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten](../../../../ministeriele-regeling/uitvoeringsregeling/bestrijding/voortijdig/schoolverlaten/en/regionale/etc/BWBR0024501/README.md). [Regeling Bevordering Internationalisering PO/VO](../../../../ministeriele-regeling/regeling/bevordering/internationalisering/povo/BWBR0026080/README.md) [Subsidieregeling BIOS PO en VO](../../../../ministeriele-regeling/subsidieregeling/bios/po/en/vo/BWBR0027535/README.md) [Kaderregeling exploitatiesubsidies onderzoek en wetenschap](../../../../ministeriele-regeling/kaderregeling/exploitatiesubsidies/onderzoek/en/wetenschap/BWBR0013566/README.md) [Kaderregeling subsidiëring bilaterale wetenschappelijke en technologische onderzoeksamenwerking](../../../../ministeriele-regeling/kaderregeling/subsidiëring/bilaterale/wetenschappelijke/en/technologische/etc/BWBR0012454/README.md) [Kaderregeling subsidiering projecten ten behoeve van onderzoek en wetenschap](../../../../ministeriele-regeling/kaderregeling/subsidiëring/projecten/ten/behoeve/van/onderzoek/en/etc/BWBR0012777/README.md) [Subsidieregeling Stichting AAP](../../../../ministeriele-regeling/subsidieregeling/stichting/aap/BWBR0015298/README.md) [Regeling experimenten prestatiebeloning onderwijs](../../../../ministeriele-regeling/regeling/experimenten/prestatiebeloning/onderwijs/BWBR0030689/README.md) [Regeling frictie- en transitiekosten culturele basisinfrastructuur 2009–2012](../../../../ministeriele-regeling/regeling/frictie-/en/transitiekosten/culturele/basisinfrastructuur/etc/BWBR0030665/README.md) [Subsidieregeling ESF-3 voor onderwijsinstellingen 2000–2006](../../../../ministeriele-regeling/subsidieregeling/esf-3/voor/onderwijsinstellingen/2000/-/2006/BWBR0013413/README.md) [Subsidieregeling Huygens Scholarship Programme](../../../../ministeriele-regeling/subsidieregeling/huygens/scholarship/programme/BWBR0019688/README.md) [Tijdelijke regeling subsidie experimenten open bestel](../../../../ministeriele-regeling/tijdelijke/regeling/subsidie/experimenten/open/bestel/BWBR0020467/README.md) [Subsidieregeling postinitiële masteropleidingen hoger beroepsonderwijs](../../../../ministeriele-regeling/subsidieregeling/postinitiële/masteropleidingen/hoger/beroepsonderwijs/BWBR0026214/README.md)
+Subsidieregeling verbeteren binnenmilieu voor scholen in het primair onderwijs Tijdelijke regeling meerjarig verstrekken subsidie aan het Landelijk Steunpunt Educatie Molukkers Regeling Stichting Nederlands Onderwijs in het Buitenland Regeling stimulering Bèta/techniek Regeling remedial teaching v.w.o.-a.v.o.-v.b.o. Regeling subsidies voor voortgezet onderwijs Regeling regionaal zorgbudget, subsidie regionale verwijzingscommissies voortgezet onderwijs en reboundvoorzieningen Regeling Veldleerplanontwikkeling in samenwerking met organisaties en instellingen Regeling doorontwikkeling praktijkonderwijs Regeling Leerplusarrangement VO, Nieuwkomers VO en eerste opvang Vreemdelingen 2009 Subsidieregeling schoolmaatschappelijk werk in het mbo Subsidieregeling LAKS, JOB en Combo Regeling intensivering Nederlandse taal en rekenen mbo Subsidieregeling Libertas Noodfonds Regeling subsidie regionale expertisecentra in verband met de pakketmaatregel AWBZ 2009 Subsidieregeling passend onderwijs 2010–2012 Regeling InnovatieImpuls Onderwijs Stimuleringsregeling Krachtig meesterschap Regeling subsidiëring stagebegeleiding educatieve minoren in het voortgezet onderwijs 2009–2012 Regeling tegemoetkoming kosten opleidingsscholen Uitvoeringsregeling bestrijding voortijdig schoolverlaten en regionale meld- en coördinatiefunctie voortijdig schoolverlaten. Regeling Bevordering Internationalisering PO/VO Subsidieregeling BIOS PO en VO Kaderregeling exploitatiesubsidies onderzoek en wetenschap Kaderregeling subsidiëring bilaterale wetenschappelijke en technologische onderzoeksamenwerking Kaderregeling subsidiering projecten ten behoeve van onderzoek en wetenschap Subsidieregeling Stichting AAP Regeling experimenten prestatiebeloning onderwijs Regeling frictie- en transitiekosten culturele basisinfrastructuur 2009–2012 Subsidieregeling ESF-3 voor onderwijsinstellingen 2000–2006 Subsidieregeling Huygens Scholarship Programme Tijdelijke regeling subsidie experimenten open bestel Subsidieregeling postinitiële masteropleidingen hoger beroepsonderwijs

@@ -18,9 +18,7 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 –  *accommodatie:* bouwkundige voorziening of deel van een bouwkundige voorziening met het daarbij behorende terrein, waar jeugdhulp wordt verleend door of namens een jeugdhulpaanbieder;  
 
-–  *advies- en meldpunt huiselijk geweld en kindermishandeling:* advies- en meldpunt huiselijk geweld en kindermishandeling als bedoeld in artikel 12a van de Wet maatschappelijke ondersteuning;  
-
-–  *begeleiding:* activiteiten waarmee een jeugdige wordt ondersteund bij het uitvoeren van dagelijkse levensverrichtingen en het aanbrengen en behouden van structuur in en regie over het persoonlijk leven;  
+–  *advies- en meldpunt huiselijk geweld en kindermishandeling:* advies- en meldpunt huiselijk geweld en kindermishandeling als bedoeld in artikel 4.1.1 van de Wet maatschappelijke ondersteuning 2015;  
 
 –  *burgerservicenummer:* burgerservicenummer als bedoeld in artikel 1 van de Wet algemene bepalingen burgerservicenummer;  
 
@@ -38,11 +36,11 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 –  *gesloten accommodatie:* bouwkundige voorziening of deel van een bouwkundige voorziening met het daarbij behorende terrein, waar gesloten jeugdhulp wordt verleend;  
 
-–  *gesloten jeugdhulp:* opname, verblijf en jeugdhulp in een gesloten accommodatie op basis van een machtiging als bedoeld in artikel 6.1.2;  
+–  *gesloten jeugdhulp:* opname, verblijf en jeugdhulp in een gesloten accommodatie op basis van een machtiging als bedoeld in de artikelen 6.1.2, 6.1.3 of 6.1.4;  
 
 –  *geweld bij de verlening van jeugdhulp of de uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering:* lichamelijk, geestelijk of seksueel geweld jegens een jeugdige of een ouder, of bedreiging daarmee, door iemand die werkzaam is voor de jeugdhulpaanbieder of een gecertificeerde instelling, of door iemand die werkzaam is voor een rechtspersoon die in opdracht van de aanbieder of gecertificeerde instelling jeugdhulp verleent of door een andere jeugdige of ouder met wie de jeugdige of ouder gedurende het etmaal of een dagdeel bij de aanbieder verblijft;  
 
-–  *huiselijk geweld:* huiselijk geweld als bedoeld in artikel 1 van de Wet maatschappelijke ondersteuning;  
+–  *huiselijk geweld:* huiselijk geweld als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015;  
 
 –  *hulpverleningsplan:* plan betreffende de verlening van jeugdhulp als bedoeld in artikel 4.1.3 en hoofdstuk 6;  
 
@@ -74,17 +72,23 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 2°. de leeftijd van achttien jaar heeft bereikt en ten aanzien van wie op grond van artikel 77c van het Wetboek van Strafrecht recht is gedaan overeenkomstig de artikelen 77g tot en met 77gg van het Wetboek van Strafrecht, of  
 
-3°. de leeftijd van achttien jaar doch niet de leeftijd van drieëntwintig jaar heeft bereikt, en voor wie de voortzetting van jeugdhulp als bedoeld in onderdeel 1°, die was aangevangen, of voor wie het college vóór het bereiken van de leeftijd van achttien jaar heeft bepaald dat een voorziening op het gebied van jeugdhulp noodzakelijk is of voor wie, na beëindiging van jeugdhulp die was aangevangen vóór het bereiken van de leeftijd van achttien jaar, binnen een termijn van een half jaar hervatting van de jeugdhulp noodzakelijk is;    
+3°. de leeftijd van achttien jaar doch niet de leeftijd van drieëntwintig jaar heeft bereikt en ten aanzien van wie op grond van deze wet: 
 
-– *jeugdreclassering:* reclasseringswerkzaamheden, genoemd in artikel 77hh, eerste lid, van het Wetboek van Strafrecht, begeleiding, genoemd in artikel 77hh, tweede lid, van dat wetboek en het begeleiding van en toezicht houden op jeugdigen die deel nemen aan een scholings- en trainingsprogramma als bedoeld in artikel 3 van de Beginselenwet justitiële jeugdinrichtingen, het geven van de aanwijzingen, bedoeld in artikel 12, vijfde lid, van die wet, of de overige taken die bij of krachtens de wet aan de gecertificeerde instellingen zijn opgedragen;  
+– is bepaald dat de voortzetting van jeugdhulp als bedoeld in onderdeel 1°, waarvan de verlening was aangevangen vóór het bereiken van de leeftijd van achttien jaar, noodzakelijk is;  
 
-–  *kinderbeschermingsmaatregel:* voogdij en de voorlopige voogdij op grond van Boek 1 van het Burgerlijk Wetboek, de ondertoezichtstelling, bedoeld in artikel 254, eerste lid, Boek 1 van het Burgerlijk Wetboek en de voorlopige ondertoezichtstelling, bedoeld in artikel 255 Boek 1 van het Burgerlijk Wetboek;  
+– vóór het bereiken van de leeftijd van achttien jaar is bepaald dat jeugdhulp noodzakelijk is, of  
+
+– is bepaald dat na beëindiging van jeugdhulp die was aangevangen vóór het bereiken van de leeftijd van achttien jaar, binnen een termijn van een half jaar hervatting van de jeugdhulp noodzakelijk is;      
+
+– *jeugdreclassering:* reclasseringswerkzaamheden, genoemd in artikel 77hh, eerste lid, van het Wetboek van Strafrecht, begeleiding, genoemd in artikel 77hh, tweede lid, van dat wetboek en het begeleiden van en toezicht houden op jeugdigen die deel nemen aan een scholings- en trainingsprogramma als bedoeld in artikel 3 van de Beginselenwet justitiële jeugdinrichtingen, het geven van de aanwijzingen, bedoeld in artikel 12, vijfde lid, van die wet, of de overige taken die bij of krachtens de wet aan de gecertificeerde instellingen zijn opgedragen;  
+
+–  *kinderbeschermingsmaatregel:* voogdij en voorlopige voogdij op grond van Boek 1 van het Burgerlijk Wetboek, ondertoezichtstelling, bedoeld in artikel 255, eerste lid, van Boek 1 van het Burgerlijk Wetboek en voorlopige ondertoezichtstelling, bedoeld in artikel 257, eerste lid, van Boek 1 van het Burgerlijk Wetboek; 
 
 – *kindermishandeling:* elke vorm van voor een minderjarige bedreigende of gewelddadige interactie van fysieke, psychische of seksuele aard, die de ouders of andere personen ten opzichte van wie de minderjarige in een relatie van afhankelijkheid of van onvrijheid staat, actief of passief opdringen, waardoor ernstige schade wordt berokkend of dreigt te worden berokkend aan de minderjarige in de vorm van fysiek of psychisch letsel;  
 
-– *maatschappelijke ondersteuning:* maatschappelijke ondersteuning als bedoeld in artikel 1 van de Wet maatschappelijke ondersteuning;  
+– *maatschappelijke ondersteuning:* maatschappelijke ondersteuning als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015;  
 
-– *machtiging gesloten jeugdhulp:* de machtiging, bedoeld in artikel 6.1.2.  
+–  *machtiging:* machtiging, bedoeld in artikel 6.1.2;  
 
 – *medisch specialist:* geneeskundig specialist die als specialist is ingeschreven in een door het College Geneeskundig Specialismen van de Koninklijke Nederlandsche Maatschappij ter bevordering van de Geneeskunst ingestelde register als bedoeld in artikel 14 van de Wet op de beroepen in de individuele gezondheidszorg;  
 
@@ -120,25 +124,26 @@ In deze wet en de daarop berustende bepalingen wordt verstaan onder:
 
 –*woonplaats:* 
 
-1°. woonplaats als bedoeld in artikel 12 van Boek 1 van het Burgerlijk Wetboek;  
+1°. woonplaats als bedoeld in titel 3 van Boek 1 van het Burgerlijk Wetboek;  
 
-2°. ingeval de voogdij over de jeugdige berust bij een instelling als bedoeld in artikel 302 van Boek 1 van het Burgerlijk Wetboek: de plaats van het werkelijke verblijf van de jeugdige;  
+2°. ingeval de voogdij over de jeugdige berust bij een gecertificeerde instelling: de plaats van het werkelijke verblijf van de jeugdige;  
 
-3°. ingeval de woonplaats, bedoeld onder 1° en 2°, onbekend is dan wel buiten Nederland is: de plaats van het werkelijke verblijf van de jeugdige op het moment van de hulpvraag.     
+3°. ingeval de woonplaats, bedoeld onder 1° en 2°, onbekend is dan wel buiten Nederland is: de plaats van het werkelijke verblijf van de jeugdige op het moment van de hulpvraag;  
+
+4° ingeval de jeugdige de leeftijd van achttien jaar heeft bereikt: de woonplaats van de jeugdige, bedoeld in artikel 10 van Boek 1 van het Burgerlijk Wetboek.    
 
 ### Artikel  1.2  
-Treedt in werking per 01-01-2015 
 
 1.  Het college is niet gehouden een voorziening op grond van deze wet te treffen: 
 
-a. indien er met betrekking tot de problematiek een aanspraak bestaat op zorg als bedoeld bij of krachtens de Algemene Wet Bijzondere Ziektekosten of de Beginselenwet justitiële jeugdinrichtingen of een recht op zorg als bedoeld bij of krachtens de Zorgverzekeringswet, of  
+a. indien er met betrekking tot de problematiek een aanspraak bestaat op zorg als bedoeld bij of krachtens de Wet langdurige zorg of de Beginselenwet justitiële jeugdinrichtingen of een recht op zorg als bedoeld bij of krachtens de Zorgverzekeringswet, of  
 
 b. indien naar het oordeel van het college met betrekking tot de problematiek een aanspraak bestaat op een voorziening op grond van een andere wettelijke bepaling, met uitzondering van een maatwerkvoorziening inhoudende begeleiding als bedoeld in artikel 1.1.1 van de Wet maatschappelijke ondersteuning 2015.     
-2.  Indien er meerdere oorzaken ten grondslag liggen aan de betreffende problematiek en daardoor zowel een vorm van zorg, op grond van een aanspraak op zorg als bedoeld bij of krachtens de Algemene Wet Bijzondere Ziektekosten of een recht op zorg als bedoeld bij of krachtens de Zorgverzekeringswet, als een soortgelijke voorziening op grond van deze wet kan worden verkregen, is het college gehouden deze voorziening op grond van deze wet te treffen.   
-3.  In afwijking van het eerste lid is het college gehouden een voorziening op grond van deze wet te treffen, indien het jeugdhulp betreft als bedoeld in artikel 2.4, tweede lid, onderdeel b.  
+2.  Indien er meerdere oorzaken ten grondslag liggen aan de betreffende problematiek en daardoor zowel een vorm van zorg, op grond van een aanspraak op zorg als bedoeld bij of krachtens de Wet langdurige zorg of een recht op zorg als bedoeld bij of krachtens de Zorgverzekeringswet, als een soortgelijke voorziening op grond van deze wet kan worden verkregen, is het college gehouden deze voorziening op grond van deze wet te treffen.   
+3.  In afwijking van het eerste lid is het college gehouden een voorziening op grond van deze wet te treffen, indien het jeugdhulp betreft als bedoeld in artikel 2.4, tweede lid, onderdeel b.   
+4.  Het college kan een voorziening weigeren indien het college gegronde redenen heeft om aan te nemen dat de cliënt aanspraak kan doen gelden op verblijf in een instelling op grond van de Wet langdurige zorg, dan wel weigert mee te werken aan het verkrijgen van een besluit dienaangaande. 
 
 ### Artikel  1.3  
-Treedt in werking per 01-01-2015 
 
 1.  Deze wet is van toepassing op in Nederland verblijvende jeugdigen.   
 2.  Het college is gehouden een voorziening te treffen als bedoeld in artikel 2.3, eerste tot en met derde lid, en uitvoering te geven aan artikel 2.4, tweede lid, ten aanzien van rechtmatig in Nederland verblijvende vreemdelingen. Onder vreemdeling wordt in dit artikel verstaan hetgeen daaronder wordt verstaan in de Vreemdelingenwet 2000.   
@@ -151,7 +156,6 @@ Treedt in werking per 01-01-2015
 ####Gemeente
 
 ### Artikel  2.1  
-Treedt in werking per 01-01-2015 
 
 Het gemeentelijke beleid inzake preventie, jeugdhulp, kinderbeschermingsmaatregelen en jeugdreclassering en de uitvoering van jeugdhulp, kinderbeschermingsmaatregelen en jeugdreclassering is gericht op: 
 
@@ -186,7 +190,6 @@ e. op welke wijze de gemeenteraad en het college zich hebben vergewist van de be
 3.  Het plan wordt, voor zover het de afstemming van en effectieve samenwerking met het onderwijs betreft, niet vastgesteld dan nadat over een concept van het plan op overeenstemming gericht overleg heeft plaatsgevonden met het samenwerkingsverband, bedoeld in artikel 18a van de Wet op het primair onderwijs en het samenwerkingsverband, bedoeld in artikel 17a van de Wet op het voortgezet onderwijs. Het overleg met deze samenwerkingsverbanden vindt plaats overeenkomstig een procedure, vastgesteld door het samenwerkingsverband en het college van de gemeente of gemeenten. De procedure bevat een voorziening voor het beslechten van geschillen.  
 
 ### Artikel  2.3  
-Treedt in werking per 01-01-2015 
 
 1.  Indien naar het oordeel van het college een jeugdige of een ouder jeugdhulp nodig heeft in verband met opgroei- en opvoedingsproblemen, psychische problemen en stoornissen en voor zover de eigen mogelijkheden en het probleemoplossend vermogen ontoereikend zijn, treft het college ten behoeve van de jeugdige die zijn woonplaats heeft binnen zijn gemeente, voorzieningen op het gebied van jeugdhulp en waarborgt het college een deskundige toeleiding naar, advisering over, bepaling van en het inzetten van de aangewezen voorziening, waardoor de jeugdige in staat wordt gesteld: 
 
@@ -206,7 +209,6 @@ b. de godsdienstige gezindheid, de levensovertuiging en de culturele achtergrond
 6.  Het college draagt er zorg voor dat de jeugdige in het geval van een uithuisplaatsing, indien redelijkerwijs mogelijk, bij een pleegouder of in een gezinshuis wordt geplaatst, tenzij dit aantoonbaar niet in het belang is van de jeugdige.  
 
 ### Artikel  2.4  
-Treedt in werking per 01-01-2015 
 
 1.  Zodra het college tot het oordeel komt dat een maatregel met betrekking tot het gezag over een minderjarige die zijn woonplaats heeft binnen zijn gemeente overwogen moet worden, doet het college een verzoek tot onderzoek bij de raad voor de kinderbescherming.   
 2.  Het college is ten behoeve van een jeugdige die zijn woonplaats heeft binnen zijn gemeente verantwoordelijk voor de uitvoering van de kinderbeschermingsmaatregelen, van de jeugdreclassering en van de jeugdhulp die voortvloeit uit een strafrechtelijke beslissing, hetgeen in ieder geval inhoudt dat het college: 
@@ -221,12 +223,10 @@ a. behoeften en persoonskenmerken van de jeugdige en zijn ouders, en
 b. de godsdienstige gezindheid, de levensovertuiging en de culturele achtergrond van de jeugdige en zijn ouders.    
 
 ### Artikel  2.5  
-Treedt in werking per 01-01-2015 
 
 Ter uitvoering van artikel 2.3, vierde lid, en artikel 2.4, derde lid, draagt het college er in ieder geval zorg voor dat passende jeugdhulp ingezet wordt of een passende gecertificeerde instelling de kinderbeschermingsmaatregel of jeugdreclassering uitvoert. 
 
 ### Artikel  2.6  
-Treedt in werking per 01-01-2015 
 
 1.  Het college is er in ieder geval verantwoordelijk voor dat: 
 
@@ -247,7 +247,6 @@ g. jeugdhulp ook toegankelijk is na verwijzing door de huisarts, de medisch spec
 3.  Hetgeen in artikel 4.1.6, eerste, tweede, derde lid en vijfde lid, is bepaald ten aanzien van de jeugdhulpaanbieder is van overeenkomstige toepassing op het college, voor zover het betreft personen die onder verantwoordelijkheid van het college werkzaamheden verrichten met betrekking tot de toeleiding naar, advisering over, de bepaling en het inzetten van de aangewezen voorziening. 
 
 ### Artikel  2.7  
-Treedt in werking per 01-01-2015 
 
 1.  Het college treedt bij het treffen van een individuele voorziening zo nodig in overleg met het bevoegd gezag van een school als bedoeld in artikel 1 van de Wet op het primair onderwijs, artikel 1 van de Wet op het voortgezet onderwijs, artikel 1 van de Wet op de expertisecentra of van een instelling als bedoeld in artikel 1.1.1 van de Wet educatie en beroepsonderwijs, waar de jeugdige schoolgaand is.   
 2.  Op het college zijn de eisen inzake de verantwoordelijkheidstoedeling gesteld bij of krachtens artikel 4.1.1, tweede lid, juncto 4.1.5, eerste lid, van overeenkomstige toepassing ten aanzien van personen die onder verantwoordelijkheid van het college werkzaamheden verrichten met betrekking tot de toeleiding naar, advisering over en de bepaling van de aangewezen voorziening en ten aanzien van personen die door het college worden ingezet om jeugdhulp te verlenen.   
@@ -256,7 +255,6 @@ Treedt in werking per 01-01-2015
 5.  Het college stemt de wijze waarop hij zijn verantwoordelijkheden op grond van deze wet uitvoert, af met zorgverzekeraars met het oog op de wettelijke verantwoordelijkheden van die laatsten.  
 
 ### Artikel  2.8  
-Treedt in werking per 01-01-2015 
 
 1.  De colleges werken met elkaar samen, indien dat voor een doeltreffende en doelmatige uitvoering van deze wet aangewezen is.   
 2.  Bij algemene maatregel van bestuur kunnen gebieden worden aangewezen waarbinnen colleges met het oog op de samenhangende uitvoering van de aan de colleges en de gemeenteraden bij of krachtens deze wet en andere wetten opgedragen taken samenwerken, uitsluitend indien de noodzakelijke samenwerking in deze gebieden ontbreekt en nadat Onze Ministers op overeenstemming gericht overleg hebben gevoerd met de betrokken colleges. Bij die maatregel kunnen regels worden gesteld over de vorm van samenwerking.   
@@ -276,24 +274,20 @@ c. de wijze waarop de hoogte van een persoonsgebonden budget als bedoeld in arti
 d. voor de bestrijding van het ten onrechte ontvangen van een individuele voorziening of een persoonsgebonden budget, alsmede van misbruik of oneigenlijk gebruik van de wet.   
 
 ### Artikel  2.10  
-Treedt in werking per 01-01-2015 
 
 De artikelen 2.1.3, derde lid, en 2.5.1 van de Wet maatschappelijke ondersteuning 2015 zijn van overeenkomstige toepassing. 
 
 ### Artikel  2.11  
-Treedt in werking per 01-01-2015 
 
 1.  Het college kan de uitvoering van deze wet, behoudens de vaststelling van de rechten en plichten van de jeugdige of zijn ouders, door derden laten verrichten.   
 2.  Indien de levering van jeugdhulp of het uitvoeren van een kinderbeschermingsmaatregel of jeugdreclassering wordt aanbesteed, gunt het college de overheidsopdracht op grond van de naar zijn oordeel economisch meest voordelige inschrijving en maakt in de aankondiging van de overheidsopdracht bekend welke nadere criteria hij stelt met het oog op de toepassing van het criterium economisch meest voordelige inschrijving, waaronder in ieder geval een criterium dat betrekking heeft op kwaliteit.   
 3.  In afwijking van artikel 2.114, tweede lid, van de Aanbestedingswet 2012 kan het college een overheidsopdracht niet enkel op grond van het criterium de laagste prijs gunnen.  
 
 ### Artikel  2.12  
-Treedt in werking per 01-01-2015 
 
 Met het oog op gevallen waarin ten aanzien van jeugdhulp, kinderbeschermingsmaatregelen of jeugdreclassering artikel 2.11, eerste lid, wordt toegepast, worden bij verordening regels gesteld ter waarborging van een goede verhouding tussen de prijs voor de levering van jeugdhulp of de uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering en de eisen die worden gesteld aan de kwaliteit daarvan. Daarbij wordt rekening gehouden met de deskundigheid van de beroepskrachten en de toepasselijke arbeidsvoorwaarden. 
 
 ### Artikel  2.13  
-Treedt in werking per 01-01-2015 
 
 1.  Indien het college met een jeugdhulpaanbieder of gecertificeerde instelling een overeenkomst heeft gesloten, ziet het college er op toe dat de jeugdhulpaanbieder of gecertificeerde instelling met degenen die vóór hem in opdracht van het college jeugdhulp leverden of kinderbeschermingsmaatregelen of jeugdreclassering uitvoerden, in overleg treedt over: 
 
@@ -303,7 +297,6 @@ b. het zo veel mogelijk voortzetten van bestaande hulpverleningsrelaties tussen 
 2.  Het college ziet er op toe dat de jeugdhulpaanbieder of gecertificeerde instelling zich zo veel mogelijk inspant de overname, bedoeld in het eerste lid, onderdeel a, en het voorzetten van bestaande hulpverleningsrelaties als bedoeld in het eerste lid, onderdeel b, te bewerkstelligen.  
 
 ### Artikel  2.14  
-Treedt in werking per 01-01-2015 
 
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de beschikbare deskundigheid voor de toeleiding, advisering en bepaling van de aangewezen voorziening, bedoeld in artikel 2.3, eerste lid, alsmede voor de uitvoering van de taken, bedoeld in artikel 2.6, eerste lid, onderdelen b en c.   
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop het college voorziet in een toereikend aanbod om aan de taken als bedoeld in artikel 2.3 te voldoen, waarbij onderscheid gemaakt kan worden in categorieën van jeugdhulp.  
@@ -313,7 +306,6 @@ Treedt in werking per 01-01-2015
 ####Gecertificeerde instellingen
 
 ### Artikel  3.1  
-Treedt in werking per 01-01-2015 
 
 1.  De raad voor de kinderbescherming onderzoekt de noodzaak tot het treffen van een kinderbeschermingsmaatregel indien het college, een daartoe door het college aangewezen jeugdhulpaanbieder, een gecertificeerde instelling of het advies- en meldpunt huiselijk geweld en kindermishandeling hiertoe een verzoek heeft gedaan.   
 2.  Tevens kan de raad voor de kinderbescherming een onderzoek als bedoeld in het eerste lid doen, indien: 
@@ -327,13 +319,11 @@ b. bij de uitvoering van enige andere wettelijke taak van de raad voor de kinder
 6.  In het protocol wordt in ieder geval vastgelegd de wijze waarop de raad voor de kinderbescherming en het college overleggen over welke gecertificeerde instelling in het verzoekschrift aan de rechter wordt opgenomen.  
 
 ### Artikel  3.2  
-Treedt in werking per 01-01-2015 
 
 1.  Een kinderbeschermingsmaatregel of jeugdreclassering wordt uitsluitend uitgevoerd door een gecertificeerde instelling.   
 2.  Een gecertificeerde instelling biedt geen jeugdhulp aan.  
 
 ### Artikel  3.3  
-Treedt in werking per 01-01-2015 
 
 De raad voor de kinderbescherming en de gecertificeerde instelling zijn verplicht in rapportages of verzoekschriften de van belang zijnde feiten volledig en naar waarheid aan te voeren. 
 
@@ -367,7 +357,6 @@ e. de controle door de certificerende instelling van de gecertificeerde instelli
 f. de vergoeding die de gecertificeerde instelling is verschuldigd in verband met de kosten voor de controle door de certificerende instelling.   
 
 ### Artikel  3.5  
-Treedt in werking per 01-01-2015 
 
 1.  De gecertificeerde instelling bepaalt of en, zo ja, welke jeugdhulp is aangewezen bij de uitvoering van de kinderbeschermingsmaatregel of jeugdreclassering. Zij overlegt hiertoe met het college van de gemeente waar de jeugdige zijn woonplaats heeft.   
 2.  Artikel 2.3, zesde lid, is van overeenkomstige toepassing.   
@@ -378,28 +367,21 @@ Treedt in werking per 01-01-2015
 
 ####Eisen aan jeugdhulpaanbieders en gecertificeerde instellingen
 
-Treedt in werking per 01-01-2015 
-
 ### §  4.1  
 
 ####Kwaliteit jeugdhulpaanbieders en gecertificeerde instellingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  4.1.1  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder en de gecertificeerde instelling verlenen verantwoorde hulp, waaronder wordt verstaan hulp van goed niveau, die in ieder geval veilig, doeltreffend, doelmatig en cliëntgericht wordt verleend en die is afgestemd op de reële behoefte van de jeugdige of ouder.   
 2.  De jeugdhulpaanbieder en de gecertificeerde instelling organiseren zich op zodanige wijze, voorzien zich kwalitatief en kwantitatief zodanig van personeel en materieel en dragen zorg voor een zodanige verantwoordelijkheidstoedeling, dat een en ander leidt of redelijkerwijs moet leiden tot verantwoorde hulp. De jeugdhulpaanbieder en de gecertificeerde instelling betrekken hierbij de resultaten van overleg tussen jeugdhulpaanbieders, het college en cliëntenorganisaties. Voor zover het betreft jeugdhulp die verblijf van een jeugdige of ouder in een accommodatie gedurende ten minste een etmaal met zich brengt, draagt de jeugdhulpaanbieder er tevens zorg voor dat in de accommodatie geestelijke verzorging beschikbaar is, die zoveel mogelijk aansluit bij de godsdienst of levensovertuiging van de jeugdige of ouder.   
 3.  De hulpverlener neemt bij zijn werkzaamheden de zorg van een goede hulpverlener in acht en handelt daarbij in overeenstemming met de op hem rustende verantwoordelijkheid, voortvloeiende uit de voor die hulpverlener geldende professionele standaard.  
 
 ### Artikel  4.1.2  
-Treedt in werking per 01-01-2015 
 
 Bij het uitvoeren van artikel 4.1.1 en indien sprake is van vroege signalering van opgroei- en opvoedingsproblemen, psychische problemen en stoornissen biedt de jeugdhulpaanbieder of de gecertificeerde instelling als eerste de mogelijkheid om, binnen een redelijke termijn, een familiegroepsplan op te stellen. Het voorgaande is niet van toepassing op de gecertificeerde instelling die jeugdreclassering uitvoert of die de voogdij uitoefent in het geval dat het gezag van de ouders is beëindigd. Slechts indien de ouders aan de jeugdhulpaanbieder of de gecertificeerde instelling te kennen hebben gegeven dat zij geen gebruik wensen te maken van de in de eerste zin bedoelde mogelijkheid, concrete bedreigingen in de ontwikkeling van het kind hiertoe aanleiding geven of de belangen van het kind anderszins geschaad worden, kan de jeugdhulpaanbieder of de gecertificeerde instelling hiervan afzien. 
 
 ### Artikel  4.1.3  
-Treedt in werking per 01-01-2015 
 
 1.  In dit artikel en de daarop berustende bepalingen wordt verstaan onder plan: hulpverleningsplan of plan van aanpak.   
 2.  Indien afgezien wordt van het opstellen van een familiegroepsplan omvat het uitvoeren van artikel 4.1.1 het werken op basis van een plan waarover is overlegd met de jeugdige en de ouders en dat is afgestemd op de behoeften van de jeugdige.   
@@ -409,7 +391,6 @@ Treedt in werking per 01-01-2015
 6.  Indien het plan betrekking heeft op pleegzorg, behoeft het plan de instemming van de pleegouder, voor zover het betreft de omschrijving daarin van zijn rol in het hulpverleningsproces en van de wijze waarop de begeleiding door de pleegzorgaanbieder plaatsvindt.  
 
 ### Artikel  4.1.4  
-Treedt in werking per 01-01-2015 
 
 1.  Het uitvoeren van artikel 4.1.1, tweede lid, omvat mede de systematische bewaking, beheersing en verbetering van de kwaliteit van de hulpverlening.   
 2.  Ter uitvoering van het eerste lid draagt de jeugdhulpaanbieder of gecertificeerde instelling, afgestemd op de aard en de omvang van de instelling, zorg voor: 
@@ -422,14 +403,12 @@ c. het op basis van de uitkomst van de toetsing, bedoeld onder b, zo nodig veran
 3.  Onder kwaliteit van de hulpverlening, bedoeld in het eerste lid, wordt mede verstaan de begeleiding door de pleegzorgaanbieder van een pleegouder gedurende de plaatsing van een jeugdige.  
 
 ### Artikel  4.1.5  
-Treedt in werking per 01-01-2015 
 
 1.  Bij algemene maatregel van bestuur kunnen, indien het niveau van de hulp dit vereist, nadere regels worden gesteld met betrekking tot de uitvoering van de artikelen 4.1.1, tweede lid, 4.1.3 en 4.1.4.   
 2.  Indien uitvoering van de artikelen 4.1.1, tweede lid, 4.1.3 en 4.1.4 overeenkomstig de op grond van het eerste lid gestelde regels niet blijkt te leiden tot verantwoorde hulp, kunnen bij algemene maatregel van bestuur tevens nadere regels worden gesteld met betrekking tot artikel 4.1.1, eerste lid.   
 3.  De voordracht voor een krachtens het eerste of tweede lid vast te stellen algemene maatregel van bestuur wordt niet gedaan dan nadat het ontwerp in de Staatscourant is bekendgemaakt en aan een ieder de gelegenheid is geboden binnen vier weken na de dag waarop de bekendmaking is geschied, wensen en bedenkingen ter kennis van Onze Ministers te brengen. Gelijktijdig met de bekendmaking wordt het ontwerp aan de beide kamers der Staten-Generaal overgelegd.  
 
 ### Artikel  4.1.6  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder en de gecertificeerde instelling zijn in het bezit van een verklaring omtrent het gedrag als bedoeld in artikel 28 van de Wet justitiële en strafvorderlijke gegevens van personen die in hun opdracht beroepsmatig of niet incidenteel als vrijwilliger in contact kunnen komen met jeugdigen of ouders aan wie de jeugdhulpaanbieder jeugdhulp verleent of aan wie een kinderbeschermingsmaatregel of jeugdreclassering is opgelegd.   
 2.  Een verklaring als bedoeld in het eerste lid is niet eerder afgegeven dan drie maanden voor het tijdstip waarop betrokkene voor de jeugdhulpaanbieder of gecertificeerde instelling ging werken.   
@@ -452,7 +431,6 @@ f. de openbaarheid van gegevens, en
 g. de verantwoordelijkheden van degenen die gegevens aanleveren ten behoeve van het register.    
 
 ### Artikel  4.1.7  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder en de gecertificeerde instelling stellen een meldcode vast waarin stapsgewijs wordt aangegeven hoe wordt omgegaan met signalen van huiselijk geweld of kindermishandeling.   
 2.  De meldcode is zodanig ingericht dat zij er redelijkerwijs aan bijdraagt dat zo snel en adequaat mogelijk hulp kan worden geboden.   
@@ -460,7 +438,6 @@ Treedt in werking per 01-01-2015
 4.  Bij of krachtens algemene maatregel van bestuur wordt vastgesteld uit welke elementen een meldcode in ieder geval bestaat.  
 
 ### Artikel  4.1.8  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder en de gecertificeerde instelling doen aan de ingevolge deze wet met het toezicht belaste ambtenaren onverwijld melding van: 
 
@@ -470,7 +447,6 @@ b. geweld bij de verlening van jeugdhulp of de uitvoering van een kinderbescherm
 2.  De jeugdhulpaanbieder, de jeugdhulpverlener en de gecertificeerde instelling verstrekken bij en naar aanleiding van een melding als bedoeld in het eerste lid aan de ingevolge deze wet met toezicht belaste ambtenaren de gegevens, daaronder begrepen persoonsgegevens, gegevens betreffende de gezondheid en andere bijzondere persoonsgegevens, die voor het onderzoeken van de melding noodzakelijk zijn.  
 
 ### Artikel  4.1.9  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder en de gecertificeerde instelling stellen een vertrouwenspersoon in de gelegenheid zijn taak uit te oefenen.   
 2.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de taken en bevoegdheden van vertrouwenspersonen en de verplichtingen van het college, voor zover het betreft de toeleiding naar, advisering over, de bepaling en het inzetten van de aangewezen voorziening, jeugdhulpaanbieders en gecertificeerde instellingen.   
@@ -482,16 +458,11 @@ Treedt in werking per 01-01-2015
 
 ####Rechtspositie jeugdigen en ouders
 
-Treedt in werking per 01-01-2015 
-
 ### §  4.2.a  
 
 ####Klachtrecht
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  4.2.1  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder en de gecertificeerde instelling treffen een regeling voor de behandeling van klachten over gedragingen van hen of van voor hen werkzame personen jegens een jeugdige, ouder, ouder zonder gezag, voogd, degene die anders dan als ouder samen met de ouder het gezag over de jeugdige uitoefent of een pleegouder in het kader van de verlening van jeugdhulp, de uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering. Zij brengen de regeling op passende wijze onder hun aandacht.   
 2.  De in het eerste lid bedoelde regeling: 
@@ -517,12 +488,10 @@ b. door een nabestaande, indien de jeugdige, ouder, ouder zonder gezag, voogd, d
 6.  Titel 9.1 van de Algemene wet bestuursrecht is niet van toepassing op klachten als bedoeld in dit artikel. 
 
 ### Artikel  4.2.2  
-Treedt in werking per 01-01-2015 
 
 Indien een klacht zich richt op een ernstige situatie met een structureel karakter, stelt de klachtencommissie de jeugdhulpaanbieder of de gecertificeerde instelling daarvan in kennis. Indien de klachtencommissie niet is gebleken dat de jeugdhulpaanbieder of de gecertificeerde instelling ter zake maatregelen heeft getroffen, meldt de klachtencommissie deze klacht aan de ingevolge deze wet met het toezicht belaste ambtenaren. Onder een klacht over een ernstige situatie wordt verstaan een klacht over een situatie waarbij sprake is van onverantwoorde hulp. 
 
 ### Artikel  4.2.3  
-Treedt in werking per 01-01-2015 
 
 De artikelen 4.2.1 en 4.2.2 zijn niet van toepassing op klachten ten aanzien van jeugdigen die op grond van een andere wet onvrijwillig in een accommodatie zijn opgenomen, voor zover deze overeenkomstig een bijzondere wettelijke regeling door een klachtencommissie kunnen worden behandeld. 
 
@@ -530,17 +499,13 @@ De artikelen 4.2.1 en 4.2.2 zijn niet van toepassing op klachten ten aanzien van
 
 ####Medezeggenschap
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  4.2.4  
-Treedt in werking per 01-01-2015 
 
 1.  De artikelen 4.2.5 tot en met 4.2.12 zijn uitsluitend van toepassing op jeugdhulpaanbieders en gecertificeerde instellingen die jeugdhulp doen verlenen onderscheidenlijk hun taken laten uitvoeren door in de regel meer dan tien personen.   
 2.  Indien de jeugdhulpaanbieder of de gecertificeerde instelling de jeugdhulp onderscheidenlijk de uitvoering van haar taken zodanig heeft georganiseerd dat daarbij sprake is van meerdere te onderscheiden organisatorische verbanden of locaties, is het eerste lid van toepassing op ieder afzonderlijk verband of iedere afzonderlijke locatie.  
 3. Deze paragraaf is niet van toepassing op een gecertificeerde instelling die tevens een door Onze Minister van Veiligheid en Justitie aanvaarde rechtspersoon is als bedoeld in de artikelen 256, eerste lid, en 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek.
 
 ### Artikel  4.2.5  
-Treedt in werking per 01-01-2015 
 
 1.  Iedere jeugdhulpaanbieder en iedere gecertificeerde instelling stelt een cliëntenraad in, die binnen het kader van hun doelstelling in het bijzonder de gemeenschappelijke belangen van jeugdigen en ouders aan wie jeugdhulp wordt verleend of ten aanzien van wie een kinderbeschermingsmaatregel of jeugdreclassering wordt uitgevoerd, behartigt.   
 2.  De jeugdhulpaanbieder en de gecertificeerde instelling regelen schriftelijk: 
@@ -558,7 +523,6 @@ b. redelijkerwijze in staat kan worden geacht hun gemeenschappelijke belangen te
 6.  Na vaststelling van de in het tweede lid bedoelde regeling treffen de jeugdhulpaanbieder en de gecertificeerde instelling de voorzieningen die op grond van die regeling noodzakelijk zijn voor de benoeming van de leden van de cliëntenraad. De jeugdhulpaanbieder en de gecertificeerde instelling treffen de bedoelde voorzieningen opnieuw telkens wanneer de cliëntenraad gedurende twee jaren niet heeft gefunctioneerd wegens het ontbreken van het in de regeling vastgestelde aantal leden.  
 
 ### Artikel  4.2.6  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder en de gecertificeerde instelling stellen de cliëntenraad in ieder geval in de gelegenheid advies uit te brengen over elk voorgenomen besluit dat de jeugdhulpaanbieder, de gecertificeerde instelling of een of meer van de door een jeugdhulpaanbieder of gecertificeerde instelling in stand gehouden organisatorische verbanden of locaties betreft, inzake: 
 
@@ -593,7 +557,6 @@ n. het belasten van personen met de leiding van dat onderdeel van het jeugdhulpa
 3.  De cliëntenraad is bevoegd de jeugdhulpaanbieder of de gecertificeerde instelling ook ongevraagd te adviseren inzake de in het eerste lid genoemde en andere onderwerpen die van belang zijn voor de jeugdigen en ouders aan wie jeugdhulp wordt verleend of ten aanzien van wie een kinderbeschermingsmaatregel of jeugdreclassering wordt uitgevoerd.  
 
 ### Artikel  4.2.7  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder en de gecertificeerde instelling nemen geen van een schriftelijk uitgebracht advies afwijkend besluit dan nadat daarover, voor zover dat redelijkerwijs mogelijk is, ten minste eenmaal met de cliëntenraad overleg is gepleegd.   
 2.  Ten aanzien van de onderwerpen, genoemd in artikel 4.2.6, eerste lid, onderdelen i tot en met m, nemen de jeugdhulpaanbieder en de gecertificeerde instelling, behoudens voor zover het besluit door de jeugdhulpaanbieder of de gecertificeerde instelling moet worden genomen krachtens een wettelijk voorschrift, geen van een door de cliëntenraad schriftelijk uitgebracht advies afwijkend besluit, tenzij de commissie, bedoeld in artikel 4.2.11, eerste lid, heeft vastgesteld dat de jeugdhulpaanbieder of de gecertificeerde instelling bij afweging van de betrokken belangen in redelijkheid tot zijn voornemen heeft kunnen komen.   
@@ -601,25 +564,21 @@ Treedt in werking per 01-01-2015
 4.  Een besluit van de jeugdhulpaanbieder of een gecertificeerde instelling, genomen in strijd met het tweede lid, is nietig, indien de cliëntenraad tegenover de jeugdhulpaanbieder of de gecertificeerde instelling schriftelijk een beroep op de nietigheid heeft gedaan. De cliëntenraad kan slechts een beroep op de nietigheid doen binnen een maand nadat de jeugdhulpaanbieder of de gecertificeerde instelling hem zijn besluit heeft medegedeeld dan wel bij gebreke van deze mededeling, de cliëntenraad is gebleken dat de jeugdhulpaanbieder of de gecertificeerde instelling uitvoering of toepassing geeft aan zijn besluit.  
 
 ### Artikel  4.2.8  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder en de gecertificeerde instelling verstrekken de cliëntenraad tijdig, en desgevraagd, alle inlichtingen en gegevens die deze voor de vervulling van zijn taak redelijkerwijs nodig heeft.   
 2.  De jeugdhulpaanbieder en de gecertificeerde instelling verstrekken de cliëntenraad voorts ten minste eenmaal per jaar mondeling of schriftelijk algemene gegevens omtrent het beleid dat in het verstreken tijdvak is gevoerd en in het komende jaar zal worden gevoerd.  
 
 ### Artikel  4.2.9  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder en de gecertificeerde instelling kunnen aan de cliëntenraad schriftelijk verdergaande bevoegdheden dan de in deze paragraaf genoemde bevoegdheden toekennen. Een zodanig besluit wordt schriftelijk aan de cliëntenraad medegedeeld.   
 2.  De jeugdhulpaanbieder en de gecertificeerde instelling stellen de cliëntenraad in de gelegenheid advies uit te brengen over een voornemen een besluit te nemen als bedoeld in het eerste lid en over het voornemen een zodanig besluit te wijzigen. Artikel 4.2.7 is van overeenkomstige toepassing.  
 
 ### Artikel  4.2.10  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder en de gecertificeerde instelling waarborgen, indien zij een rechtspersoon zijn als bedoeld in artikel 3 van Boek 2 van het Burgerlijk Wetboek, in de statuten dat de jeugdigen en ouders aan wie jeugdhulp wordt verleend of ten aanzien van wie een kinderbeschermingsmaatregel of jeugdreclassering wordt uitgevoerd, invloed kunnen uitoefenen op de samenstelling van het bestuur. De regeling houdt ten minste in dat één bestuurslid wordt benoemd op bindende voordracht van de cliëntenraad of cliëntenraden, tenzij deze van de mogelijkheid een voordracht te doen geen gebruik heeft onderscheidenlijk hebben gemaakt.   
 2.  Het eerste lid is niet van toepassing indien het bestuur van de jeugdhulpaanbieder of de gecertificeerde instelling bestaat uit één of meer personen die deze functie uitoefent onderscheidenlijk uitoefenen op grond van een arbeidsrelatie waaraan een geldelijke beloning is verbonden. In dat geval is het eerste lid van overeenkomstige toepassing op de samenstelling van het orgaan dat belast is met het toezicht op of de goedkeuring van besluiten van het bestuur.  
 
 ### Artikel  4.2.11  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder en de gecertificeerde instelling stellen in overeenstemming met de cliëntenraad of cliëntenraden een uit drie leden bestaande commissie van vertrouwenslieden in, waarvan één lid door hen wordt aangewezen, één lid door de cliëntenraad of cliëntenraden kan worden aangewezen en één lid door beide andere leden wordt aangewezen, of wijzen een door één of meer cliëntenorganisaties en één of meer organisaties van jeugdhulpaanbieders of gecertificeerde instellingen ingestelde commissie van vertrouwenslieden aan die tot taak heeft te bemiddelen en zo nodig een bindende uitspraak te doen: 
 
@@ -631,7 +590,6 @@ b. op verzoek van de jeugdhulpaanbieder of de gecertificeerde instelling, indien
 4.  De bepalingen van de derde afdeling van de vijfde titel van het tweede boek van het Wetboek van Burgerlijke Rechtsvordering zijn van overeenkomstige toepassing.  
 
 ### Artikel  4.2.12  
-Treedt in werking per 01-01-2015 
 
 1.  De pleegzorgaanbieder stelt een pleegouderraad in, die binnen het kader van zijn doelstelling de gemeenschappelijke belangen van de pleegouders behartigt. Een pleegzorgaanbieder kan deze verplichting ook nakomen door instelling van een pleegouderraad die voor meer dan één door hem in stand gehouden zorgeenheid werkzaam is.   
 2.  De artikelen 4.2.5 tot en met 4.2.11 zijn van overeenkomstige toepassing met dien verstande dat voor «cliëntenraad» respectievelijk «jeugdhulpaanbieder» wordt gelezen «pleegouderraad» respectievelijk «pleegzorgaanbieder».  
@@ -640,10 +598,7 @@ Treedt in werking per 01-01-2015
 
 ####Maatschappelijke verantwoording
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  4.3.1  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder en de gecertificeerde instelling stellen elk jaarlijks een verslag op over de naleving van deze wet in het voorafgaande jaar met betrekking tot regels omtrent de kwaliteit van de jeugdhulp onderscheidenlijk de kwaliteit van de uitvoering van de taken, het klachtrecht en de medezeggenschap.   
 2.  In het in het eerste lid bedoelde verslag geven de jeugdhulpaanbieder en de gecertificeerde instelling in ieder geval aan: 
@@ -672,7 +627,6 @@ k. op welke wijze de artikelen 4.2.7 tot en met 4.2.11 zijn toegepast.
 3.  Bij regeling van Onze Ministers kunnen nadere regels worden gesteld met betrekking tot het verslag en kan worden bepaald dat het eerste lid, dan wel onderdelen van het tweede lid, niet van toepassing zijn op jeugdhulpaanbieders als bedoeld in artikel 1.1, onderdeel 2°.  
 
 ### Artikel  4.3.2  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder en de gecertificeerde instelling maken binnen tien dagen na vaststelling van het verslag bedoeld in artikel 4.3.1, eerste lid, doch uiterlijk voor 1 juni van het jaar volgend op het jaar waarop het verslag ziet, de volgende zaken openbaar: 
 
@@ -692,10 +646,7 @@ d. de klachtenregeling, bedoeld in artikel 4.2.1, eerste lid, en van andere voor
 
 ####Pleegzorg
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  5.1  
-Treedt in werking per 01-01-2015 
 
 1.  De pleegzorgaanbieder sluit een pleegcontract met een pleegouder indien deze voldoet aan de volgende voorwaarden: 
 
@@ -710,13 +661,11 @@ d. de pleegouder beschikt over een verklaring van geen bezwaar die is afgegeven 
 3.  Indien de betrokkene de jeugdige reeds verzorgt en opvoedt voorafgaand aan het sluiten van een pleegcontract, kan in afwijking van het eerste lid, onder c en d, en het tweede lid, aan de in die artikelonderdelen bedoelde voorwaarden worden voldaan binnen dertien weken nadat een pleegcontract is gesloten, mits de betrokken pleegzorgaanbieder daarbij oordeelt dat de verzorging en opvoeding van de jeugdige door betrokkene niet schadelijk is voor de ontwikkeling van de jeugdige. De betrokkene heeft er recht op dat de pleegzorgaanbieder binnen dertien weken na het sluiten van het pleegcontract vaststelt of aan de in de eerste volzin bedoelde voorwaarden is voldaan. Zodra tijdens die periode blijkt dat niet aan de voorwaarden zal worden voldaan, kan het pleegcontract onverwijld beëindigd worden.  
 
 ### Artikel  5.2  
-Treedt in werking per 01-01-2015 
 
 1.  Het pleegcontract bevat in ieder geval afspraken omtrent de wijze waarop de verzorging en opvoeding van de desbetreffende jeugdige door de pleegouder worden uitgevoerd en de begeleiding die zij daarbij ontvangen van de pleegzorgaanbieder.   
 2.  De afspraken over de begeleiding van een pleegoudervoogd beperken zich tot een begeleiding van één gesprek per jaar, tenzij de pleegoudervoogd verzoekt om meer begeleiding.  
 
 ### Artikel  5.3  
-Treedt in werking per 01-01-2015 
 
 1.  Een pleegzorgaanbieder verstrekt aan een pleegouder een vergoeding voor de verzorging en opvoeding van de in het gezin van de pleegouder geplaatste jeugdige, bestaande uit een basisbedrag, welk bedrag kan worden vermeerderd met een toeslag, of verminderd met een korting. Daarnaast verstrekt een pleegzorgaanbieder een vergoeding van bijzondere kosten aan pleegouders.   
 2.  Bij regeling van Onze Ministers worden regels gesteld over: 
@@ -730,7 +679,6 @@ c. de dagen waarover het basisbedrag en de toeslagen worden verleend en de korti
 d. de vergoeding van bijzondere kosten die de pleegouder maakt ten behoeve van de jeugdige, waaronder de gevallen waarin bijzondere kosten worden vergoed.    
 
 ### Artikel  5.4  
-Treedt in werking per 01-01-2015 
 
 De pleegzorgaanbieder verstrekt aan de pleegouder in het belang van de verzorging en de opvoeding van de desbetreffende jeugdige, zo nodig zonder toestemming en zo mogelijk voorafgaand aan de plaatsing, inlichtingen inzake feiten en omstandigheden die de persoon van de jeugdige of diens verzorging of opvoeding betreffen en die noodzakelijk zijn voor de uitoefening van de taak van de pleegouder. Deze inlichtingen kunnen mede omvatten persoonsgegevens betreffende de gezondheid, bedoeld in artikel 21 van de Wet bescherming persoonsgegevens. 
 
@@ -738,22 +686,16 @@ De pleegzorgaanbieder verstrekt aan de pleegouder in het belang van de verzorgin
 
 ####Gesloten jeugdhulp bij ernstige opgroei- en opvoedingsproblemen
 
-Treedt in werking per 01-01-2015 
-
 ### §  6.1  
 
 ####Machtiging
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  6.1.1  
-Treedt in werking per 01-01-2015 
 
 1.  Dit hoofdstuk is van toepassing op minderjarigen, alsmede op jeugdigen die achttien jaar zijn en ten aanzien van wie op het tijdstip waarop zij achttien werden, een machtiging op grond van dit hoofdstuk gold. Laatstbedoelde jeugdigen worden voor de toepassing van dit hoofdstuk, onverminderd artikel 233 van Boek 1 van het Burgerlijk Wetboek, als minderjarigen beschouwd.   
 2.  In zaken betrekking hebbende op de toepassing van dit hoofdstuk is een minderjarige die de leeftijd van twaalf jaar heeft bereikt, bekwaam in en buiten rechte op te treden. Hetzelfde geldt indien de minderjarige de leeftijd van twaalf jaar nog niet heeft bereikt, maar in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake.  
 
 ### Artikel  6.1.2  
-Treedt in werking per 01-01-2015 
 
 1.  De kinderrechter kan op verzoek een machtiging verlenen om een jeugdige in een gesloten accommodatie te doen opnemen en te doen verblijven.   
 2.  Een machtiging kan slechts worden verleend indien naar het oordeel van de kinderrechter: 
@@ -784,7 +726,6 @@ d. de gesloten jeugdhulp niet langer duurt dan zes maanden na het bereiken van d
 9.  Indien de wettelijke vertegenwoordiger zijn instemming intrekt, kan de jeugdige gedurende ten hoogste veertien dagen in de gesloten accommodatie verblijven, en zijn de paragrafen 6.3, 6.4 en 6.5 op de jeugdige van toepassing.  
 
 ### Artikel  6.1.3  
-Treedt in werking per 01-01-2015 
 
 1.  De kinderrechter kan, indien een machtiging niet kan worden afgewacht, op verzoek een spoedmachtiging verlenen om een jeugdige, met inachtneming van artikel 6.1.2, derde lid, in een gesloten accommodatie te doen opnemen en te doen verblijven.   
 2.  Een spoedmachtiging kan slechts worden verleend indien naar het oordeel van de kinderrechter: 
@@ -797,7 +738,6 @@ b. de opneming en het verblijf noodzakelijk zijn om te voorkomen dat de jeugdige
 5.  Indien de wettelijke vertegenwoordiger zijn instemming intrekt, kan de jeugdige gedurende ten hoogste de geldigheidsduur van de spoedmachtiging in de gesloten accommodatie verblijven, en zijn de paragrafen 6.3, 6.4 en 6.5 op de jeugdige van toepassing.  
 
 ### Artikel  6.1.4  
-Treedt in werking per 01-01-2015 
 
 1.  De kinderrechter kan op verzoek een voorwaardelijke machtiging verlenen om een jeugdige, met inachtneming van artikel 6.1.2, derde lid, in een gesloten accommodatie te doen opnemen en te doen verblijven.   
 2.  Een voorwaardelijke machtiging kan slechts worden verleend, indien naar het oordeel van de kinderrechter: 
@@ -816,12 +756,10 @@ b. de opneming en het verblijf noodzakelijk zijn om te voorkomen dat de jeugdige
 11.  Op een verzoek tot verlenging van een voorwaardelijke machtiging zijn het tweede tot en met tiende lid van overeenkomstige toepassing.  
 
 ### Artikel  6.1.5  
-Treedt in werking per 01-01-2015 
 
 Het hulpverleningsplan, bedoeld in artikel 6.1.4, zesde lid, kan, nadat de voorwaardelijke machtiging is verleend, slechts met instemming van de jeugdige door de jeugdhulpaanbieder worden gewijzigd. 
 
 ### Artikel  6.1.6  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder die bereid is de jeugdige op te nemen in een gesloten accommodatie als bedoeld in artikel 6.1.4, zesde lid, ziet toe op de naleving van de voorwaarden.   
 2.  De jeugdhulpaanbieder, bedoeld in het eerste lid, doet de jeugdige opnemen in een gesloten accommodatie, indien door de naleving van de voorwaarden buiten de gesloten accommodatie de ernstige belemmering van de ontwikkeling naar volwassenheid als gevolg van de ernstige opgroei- of opvoedingsproblemen, niet langer kan worden afgewend en de jeugdige zich onttrekt of door anderen wordt onttrokken aan de jeugdhulp.   
@@ -832,13 +770,11 @@ Treedt in werking per 01-01-2015
 7.  Indien een beslissing als bedoeld in het tweede lid betrekking heeft op een minderjarige die onder toezicht is gesteld, geldt die beslissing als machtiging als bedoeld in artikel 265b van Boek 1 van het Burgerlijk Wetboek.  
 
 ### Artikel  6.1.7  
-Treedt in werking per 01-01-2015 
 
 1.  Op verzoek van de wettelijk vertegenwoordiger of de jeugdige kan de kinderrechter de wijziging van het hulpverleningsplan, bedoeld in artikel 6.1.5, en de opneming, bedoeld in artikel 6.1.6, tweede of derde lid, geheel of gedeeltelijk vervallen verklaren. Bij het verzoek wordt een afschrift van de beslissing van de jeugdhulpaanbieder gevoegd.   
 2.  Indien het verzoek betrekking heeft op een jeugdige die reeds in een gesloten accommodatie verblijft, beslist de kinderrechter in elk geval binnen drie weken na het indienen van het verzoekschrift. Aan de jeugdige wordt schriftelijk medegedeeld dat het verzoekschrift is ingediend.  
 
 ### Artikel  6.1.8  
-Treedt in werking per 01-01-2015 
 
 1.  Een verzoek gericht op het verkrijgen van een machtiging, een spoedmachtiging of een voorwaardelijke machtiging wordt ingediend door het college van de gemeente waar de jeugdige zijn woonplaats heeft.   
 2.  In afwijking van het eerste lid wordt het verzoek, indien het betrekking heeft op een minderjarige die een kinderbeschermingsmaatregel heeft opgelegd gekregen of ten aanzien van wie een kinderbeschermingsmaatregel wordt verzocht, ingediend door de raad voor de kinderbescherming of door de officier van justitie. Ingeval een gecertificeerde instelling de kinderbeschermingsmaatregel uitvoert, kan ook deze instelling het verzoek doen.   
@@ -846,14 +782,12 @@ Treedt in werking per 01-01-2015
 4.  Indien het verzoek tot het verlenen van een machtiging betrekking heeft op een jeugdige die reeds in een gesloten accommodatie verblijft, beslist de kinderrechter in elk geval binnen drie weken na het indienen van het verzoekschrift.  
 
 ### Artikel  6.1.9  
-Treedt in werking per 01-01-2015 
 
 1.  Het college, de raad voor de kinderbescherming, de gecertificeerde instelling, dan wel de officier van justitie legt bij een verzoek als bedoeld in artikel 6.1.8, eerste en tweede lid, een afschrift van het besluit, bedoeld in artikel 6.1.2, vijfde lid, alsmede van de verklaring, bedoeld in artikel 6.1.2, zesde lid, over.   
 2.  In een geval als bedoeld in artikel 6.1.2, zevende lid, legt de raad voor de kinderbescherming bij een verzoek als bedoeld in artikel 6.1.8, eerste lid, de verklaring, bedoeld in artikel 6.1.2, zevende lid, over.   
 3.  In de gevallen, bedoeld in artikel 6.1.3, wordt in afwijking van het eerste en tweede lid, slechts een verklaring van een gekwalificeerde gedragswetenschapper als bedoeld in artikel 6.1.3, derde lid, overgelegd.  
 
 ### Artikel  6.1.10  
-Treedt in werking per 01-01-2015 
 
 1.  De kinderrechter hoort, alvorens een machtiging, een spoedmachtiging of een voorwaardelijke machtiging te verlenen en alvorens een vervallenverklaring als bedoeld in artikel 6.1.7 te doen: 
 
@@ -867,7 +801,6 @@ c. in gevallen als bedoeld in artikel 6.1.7, de jeugdhulpaanbieder.
 4.  De rechter geeft het bestuur van de raad voor rechtsbijstand ambtshalve last tot toevoeging van een raadsman aan de jeugdige.  
 
 ### Artikel  6.1.11  
-Treedt in werking per 01-01-2015 
 
 De griffier zendt, onverminderd artikel 805 van het Wetboek van Burgerlijke Rechtsvordering, een afschrift van de beschikking inzake de machtiging, de spoedmachtiging of de voorwaardelijke machtiging en de mededeling, bedoeld in artikel 6.1.6, zesde lid, en de beschikking als bedoeld in artikel 6.1.7, eerste lid, aan: 
 
@@ -882,7 +815,6 @@ d. de verzoeker, en
 e. de raadsman van de jeugdige.   
 
 ### Artikel  6.1.12  
-Treedt in werking per 01-01-2015 
 
 1.  De beschikking van de kinderrechter is bij voorraad uitvoerbaar.   
 2.  De kinderrechter bepaalt de geldigheidsduur van de machtiging op ten hoogste één jaar, de eerste voorwaardelijke machtiging op ten hoogste zes maanden en verlengingen van voorwaardelijke machtigingen op ten hoogste een jaar. De spoedmachtiging geldt tot het tijdstip waarop een beslissing op een verzoek om een machtiging is genomen, doch ten hoogste vier weken.   
@@ -893,13 +825,11 @@ Treedt in werking per 01-01-2015
 7.  Tegen de beschikking van de kinderrechter op een verzoek om een machtiging, een spoedmachtiging of een voorwaardelijke machtiging te verlenen en een beschikking als bedoeld in artikel 6.1.7, eerste lid, staat hoger beroep bij het gerechtshof open.  
 
 ### Artikel  6.1.13  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder voegt een afschrift van de beslissing, bedoeld in de artikelen 6.1.2, eerste lid, 6.1.3, eerste lid, 6.1.4, eerste lid of 6.1.7, eerste lid, en een wijziging van het hulpverleningsplan als bedoeld in artikel 6.1.5 toe aan het dossier.   
 2.  De jeugdhulpaanbieder in wiens gesloten accommodatie de machtiging ten uitvoer wordt gelegd, doet van de opneming in de gesloten accommodatie zo spoedig mogelijk mededeling aan degene die het gezag over de jeugdige uitoefent, aan het college en, indien het college niet de verzoeker was, tevens aan de verzoeker.  
 
 ### Artikel  6.1.14  
-Treedt in werking per 01-01-2015 
 
 Bij regeling van Onze Ministers kunnen regels worden gesteld met betrekking tot het verzoekschrift, bedoeld in artikel 6.1.8, en de verklaring, bedoeld in de artikelen 6.1.2, zesde lid, of 6.1.3, derde lid. 
 
@@ -907,10 +837,7 @@ Bij regeling van Onze Ministers kunnen regels worden gesteld met betrekking tot 
 
 ####Tenuitvoerlegging van de machtiging
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  6.2.1  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpaanbieder die in een gesloten accommodatie opname en verblijf biedt aan jeugdigen voor wie een machtiging als bedoeld in artikel 6.1.2, 6.1.3 of 6.1.4 is afgegeven, verstrekt Onze Ministers, ter opneming in een openbaar register van zodanige accommodatie, een opgave van: 
 
@@ -921,18 +848,15 @@ b. de naam en de rechtsvorm van de jeugdhulpaanbieder.
 3.  Een registratie wordt in de Staatscourant bekend gemaakt.  
 
 ### Artikel  6.2.2  
-Treedt in werking per 01-01-2015 
 
 1.  Een machtiging kan slechts ten uitvoer worden gelegd in een geregistreerde gesloten accommodatie of een specifiek daartoe aangewezen deel van een geregistreerde gesloten accommodatie van een jeugdhulpaanbieder.   
 2.  De rechter kan, indien het een jeugdige betreft van twaalf jaar of ouder, op verzoek van het college of de raad voor de kinderbescherming, in zijn beschikking inzake de machtiging bepalen dat deze in afwijking van het eerste lid, ten uitvoer wordt gelegd in een inrichting als bedoeld in artikel 1 van de Beginselenwet justitiële jeugdinrichtingen. De eerste volzin wordt slechts toegepast met betrekking tot een jeugdige die op het tijdstip waarop een machtiging wordt verleend op basis van een veroordeling is opgenomen in een inrichting. Toepassing geschiedt slechts met instemming van de jeugdige of indien deze de leeftijd van zestien jaar nog niet heeft bereikt, met instemming van de jeugdige en degene die het gezag over hem heeft. De tenuitvoerlegging in een inrichting geschiedt slechts voor de termijn die nodig is om een behandeling of opleiding af te ronden. Op de tenuitvoerlegging is de Beginselenwet justitiële jeugdinrichtingen van toepassing. Een besluit als bedoeld in artikel 6.1.2, vijfde lid, geeft aanspraak op verblijf als bedoeld in artikel 14 van de Beginselenwet justitiële jeugdinrichtingen.  
 
 ### Artikel  6.2.3  
-Treedt in werking per 01-01-2015 
 
 Een jeugdhulpaanbieder die aan een leerplichtige jeugdige verblijf biedt in een gesloten accommodatie is gedurende de looptijd van de machtiging een persoon die zich met de feitelijke verzorging van de jeugdige heeft belast als bedoeld in artikel 2, eerste lid, van de Leerplichtwet 1969. 
 
 ### Artikel  6.2.4  
-Treedt in werking per 01-01-2015 
 
 1.  Een jeugdhulpaanbieder stelt met het oog op een zorgvuldige toepassing van maatregelen als bedoeld in paragraaf 6.3 een regeling vast omtrent de personen die tot het treffen daarvan bevoegd zijn en met betrekking tot de wijze waarop tot toepassing wordt besloten.   
 2.  Een jeugdhulpaanbieder stelt huisregels vast die betrekking hebben op een ordelijke gang van zaken, de veiligheid binnen de gesloten accommodatie en het waarborgen van een pedagogisch klimaat.   
@@ -942,10 +866,7 @@ Treedt in werking per 01-01-2015
 
 ####Vrijheidsbeperkende maatregelen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  6.3.1  
-Treedt in werking per 01-01-2015 
 
 1.  Ten aanzien van een met een machtiging als bedoeld in de artikelen 6.1.2 tot en met 6.1.4 opgenomen jeugdige kunnen, voor zover noodzakelijk om de met de jeugdhulp beoogde doelen te bereiken of voor zover noodzakelijk voor de veiligheid van de jeugdige of anderen, door de jeugdhulpaanbieder maatregelen worden toegepast waarmee hij tegen zijn wil of die van degene die het gezag over hem uitoefent, binnen de gesloten accommodatie in zijn vrijheden wordt beperkt.   
 2.  De maatregelen, bedoeld in het eerste lid, kunnen inhouden: 
@@ -960,7 +881,6 @@ d. het vastpakken en vasthouden.
 3.  De jeugdhulpaanbieder meldt de toepassing van maatregelen als bedoeld in het tweede lid, onderdelen b en c, aan de gecertificeerde instelling die de gezinsvoogdij uitoefent alsmede aan de ouders indien de jeugdige niet onder toezicht is gesteld.  
 
 ### Artikel  6.3.2  
-Treedt in werking per 01-01-2015 
 
 1.  Ten aanzien van een met een machtiging als bedoeld in de artikelen 6.1.2 tot en met 6.1.4 opgenomen jeugdige kunnen door de jeugdhulpaanbieder tegen de wil van de jeugdige of van degene die het gezag over hem uitoefent: 
 
@@ -970,7 +890,6 @@ b. geneeskundige behandelingsmethoden, waaronder het toedienen van medicijnen, w
 2.  De jeugdhulpaanbieder meldt de toepassing van het eerste lid aan de gecertificeerde instelling die de gezinsvoogdij uitoefent alsmede aan de ouders indien de jeugdige niet onder toezicht is gesteld. Indien de geneeskundige behandelingsmethode wordt toegepast ter behandeling van een stoornis van de geestvermogens, wordt tevens melding gedaan aan het Staatstoezicht op de volksgezondheid.  
 
 ### Artikel  6.3.3  
-Treedt in werking per 01-01-2015 
 
 1.  Ten aanzien van een met een machtiging als bedoeld in de artikelen 6.1.2 tot en met 6.1.4 opgenomen jeugdige kunnen, voor zover noodzakelijk om de met de jeugdhulp beoogde doelen te bereiken, door de jeugdhulpaanbieder tegen de wil van de jeugdige of van degene die het gezag over hem uitoefent en onverminderd de huisregels, bedoeld in artikel 6.2.4, tweede lid: 
 
@@ -980,7 +899,6 @@ b. beperkingen van bezoek plaatsvinden of bepalen dat bezoek slechts onder toezi
 2.  Op de beperkingen, bedoeld in het eerste lid, zijn de artikelen 42, eerste en tweede lid, en 43, zevende lid, van de Beginselenwet justitiële jeugdinrichtingen van overeenkomstige toepassing.  
 
 ### Artikel  6.3.4  
-Treedt in werking per 01-01-2015 
 
 1.  Ten aanzien van een met een machtiging als bedoeld in de artikelen 6.1.2 tot en met 6.1.4 opgenomen jeugdige kunnen, voor zover noodzakelijk om de met de jeugdhulp beoogde doelen te bereiken of voor zover noodzakelijk om te voorkomen dat de jeugdhulp aan andere jeugdigen wordt tegengewerkt, door de jeugdhulpaanbieder tegen de wil van de jeugdige of van degene die het gezag over hem uitoefent controlemaatregelen worden toegepast.   
 2.  De maatregelen, bedoeld in het eerste lid, kunnen inhouden: 
@@ -995,7 +913,6 @@ d. onderzoek van poststukken afkomstig van of bestemd voor de jeugdigen op de aa
 3.  Voorwerpen die niet in het bezit van de jeugdige mogen zijn worden in beslag genomen en voor de jeugdige bewaard of met zijn toestemming vernietigd, dan wel aan een opsporingsambtenaar ter hand gesteld.  
 
 ### Artikel  6.3.5  
-Treedt in werking per 01-01-2015 
 
 1.  Indien een jeugdhulpaanbieder met het oog op de veiligheid van de jeugdige of anderen dan wel om te voorkomen dat de jeugdige zich onttrekt aan de tenuitvoerlegging van de machtiging, bedoeld in de artikelen 6.1.2 en 6.1.3, bepaalt dat het vervoer van en naar een gesloten accommodatie plaatsvindt door een vervoerder als bedoeld in het derde lid, kunnen door de vervoerder, voor zover noodzakelijk met het oog op voren omschreven doeleinden ten aanzien van die jeugdige tijdens dat vervoer tegen zijn wil of van degene die het gezag over hem uitoefent, voor de duur van het vervoer de volgende maatregelen worden genomen: 
 
@@ -1009,7 +926,6 @@ c. tijdelijke plaatsing in een afzonderlijke en af te sluiten ruimte in het verv
 4.  In geval van vervoer als bedoeld in het eerste lid meldt de vervoerder de toepassing van een of meer van de in dat lid genoemde maatregelen aan de jeugdhulpaanbieder en de gecertificeerde instelling. Indien de jeugdige niet onder toezicht is gesteld, licht de zorgaanbieder tevens de ouders in.  
 
 ### Artikel  6.3.6  
-Treedt in werking per 01-01-2015 
 
 1.  De maatregelen, methoden en beperkingen als bedoeld in de artikelen 6.3.1 tot en met 6.3.5 worden slechts toegepast, voor zover zij zijn opgenomen in het hulpverleningsplan.   
 2.  Voorafgaand aan de vaststelling of wijziging van deze onderdelen van het hulpverleningsplan wordt overleg gevoerd met degene die het gezag over de jeugdige heeft. Zij behoeven niet de instemming van de jeugdige of degene die het gezag over hem heeft. Zij behoeven wel de instemming van een gekwalificeerde gedragswetenschapper.   
@@ -1017,12 +933,10 @@ Treedt in werking per 01-01-2015
 4.  Een hulpverleningsplan ten aanzien van een jeugdige die met een machtiging in een gesloten accommodatie verblijft, wordt zo vaak geëvalueerd als in het belang van de jeugdige noodzakelijk is.  
 
 ### Artikel  6.3.7  
-Treedt in werking per 01-01-2015 
 
 In afwijking van artikel 6.3.6, eerste lid, kunnen met betrekking tot een jeugdige, slechts maatregelen, methoden of beperkingen als bedoeld in de artikelen 6.3.1 tot en met 6.3.4 die niet opgenomen zijn in het hulpverleningsplan worden toegepast, voor zover noodzakelijk ter overbrugging van tijdelijke noodsituaties. De toepassing behoeft binnen vierentwintig uur nadat deze is aangevangen de instemming van een gekwalificeerde gedragswetenschapper. De maatregelen, methoden of beperkingen worden ten hoogste gedurende zeven opeenvolgende dagen toegepast. 
 
 ### Artikel  6.3.8  
-Treedt in werking per 01-01-2015 
 
 1.  Ten aanzien van een jeugdige voor wie een machtiging is afgegeven en die in verband met deze machtiging aanwezig is in het gerechtsgebouw, kunnen, om te voorkomen dat de jeugdige zich onttrekt aan de tenuitvoerlegging van de machtiging, tegen de wil van de jeugdige of van degene die het gezag over hem uitoefent, voor de duur van zijn aanwezigheid aldaar de volgende maatregelen worden genomen: 
 
@@ -1034,7 +948,6 @@ c. tijdelijke plaatsing in een geschikte, afzonderlijke en af te sluiten ruimte.
 2.  De maatregelen, bedoeld in het eerste lid, worden uitsluitend ten uitvoer gelegd door ambtenaren aangewezen voor de uitvoering van de politietaak, bedoeld in artikel 3 van de Politiewet 2012.  
 
 ### Artikel  6.3.9  
-Treedt in werking per 01-01-2015 
 
 1.  Degene die de beslissing heeft genomen tot toepassing van de artikelen 6.3.1 tot en met 6.3.4 of van artikel 6.3.7, draagt er zorg voor dat de toepassing zo spoedig mogelijk in het dossier betreffende de jeugdige wordt vastgelegd, onder vermelding van de omstandigheden die daartoe aanleiding gaven.   
 2.  De jeugdhulpaanbieder draagt er zorg voor dat de toepassing van een of meer van de in de artikelen 6.3.5, eerste lid, of 6.3.8, eerste lid, genoemde maatregelen zo spoedig mogelijk in het dossier betreffende de jeugdige wordt vastgelegd, onder vermelding van de omstandigheden die daartoe aanleiding gaven.   
@@ -1044,10 +957,7 @@ Treedt in werking per 01-01-2015
 
 ####Verlof
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  6.4.1  
-Treedt in werking per 01-01-2015 
 
 1.  Aan een jeugdige kan, naast de mogelijkheden die het hulpverleningsplan biedt om de gesloten accommodatie te verlaten, verlof om de gesloten accommodatie te verlaten worden verleend indien zulks, gelet op de reden waarom de jeugdige in de gesloten accommodatie moet verblijven, verantwoord is.   
 2.  Aan het verlof kunnen voorwaarden worden verbonden betreffende de jeugdhulp en het gedrag van de jeugdige.   
@@ -1059,10 +969,7 @@ Treedt in werking per 01-01-2015
 
 ####Klachtrecht bij vrijheidsbeperkende maatregelen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  6.5.1  
-Treedt in werking per 01-01-2015 
 
 1.  Onverminderd artikel 4.2.3 kan een jeugdige of degene die het gezag over hem heeft binnen een redelijke termijn tegen een beslissing als bedoeld in de artikelen 6.3.1, eerste lid, 6.3.2, eerste lid, 6.3.3, eerste lid, en 6.3.4, eerste en derde lid, de toepassing van artikel 6.3.5, eerste lid, 6.3.7 of een beslissing aangaande verlof als bedoeld in artikel 6.4.1 een schriftelijke klacht indienen bij de klachtencommissie, bedoeld in artikel 4.2.1, tweede lid.   
 2.  Bij algemene maatregel van bestuur worden regels gesteld met betrekking tot de samenstelling van de klachtencommissie bij de behandeling van klachten als bedoeld in het eerste lid en de wijze waarop deze klachten worden behandeld.   
@@ -1082,13 +989,11 @@ d. gegrondverklaring van de klacht.
 8.  Titel 9.1 van de Algemene wet bestuursrecht is niet van toepassing op klachten als bedoeld in dit artikel. 
 
 ### Artikel  6.5.2  
-Treedt in werking per 01-01-2015 
 
 1.  Hangende de beslissing op de klacht kan de voorzitter van een beroepscommissie als bedoeld in artikel 74 van de Beginselenwet justitiële jeugdinrichtingen op verzoek van de jeugdige, gehoord degene die de beslissing heeft genomen, de beslissing waartegen de klacht is gericht, schorsen.   
 2.  De voorzitter doet hiervan onverwijld mededeling aan degene die de beslissing heeft genomen en aan de klager.  
 
 ### Artikel  6.5.3  
-Treedt in werking per 01-01-2015 
 
 Ten aanzien van een beslissing als bedoeld in artikel 6.5.1, derde lid, zijn de artikelen 74 tot en met 76 van de Beginselenwet justitiële jeugdinrichtingen van overeenkomstige toepassing, met dien verstande dat voor «directeur» respectievelijk «beklagcommissie» gelezen wordt «jeugdhulpaanbieder» respectievelijk «klachtencommissie». 
 
@@ -1096,22 +1001,15 @@ Ten aanzien van een beslissing als bedoeld in artikel 6.5.1, derde lid, zijn de 
 
 ####Gegevensverwerking, privacy en toestemming
 
-Treedt in werking per 01-01-2015 
-
 ### §  7.1  
 
 ####Verwijsindex
-
-Treedt in werking per 01-01-2015 
 
 ### §  7.1.1  
 
 ####Algemene bepalingen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7.1.1.1  
-Treedt in werking per 01-01-2015 
 
 In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder: 
 
@@ -1120,7 +1018,6 @@ In deze paragraaf en de daarop berustende bepalingen wordt verstaan onder:
 –  *jeugdige:* persoon die de leeftijd van drieëntwintig jaar nog niet heeft bereikt.   
 
 ### Artikel  7.1.1.2  
-Treedt in werking per 01-01-2015 
 
 1.  Meldingsbevoegde is een functionaris die werkzaam is voor een instantie die: 
 
@@ -1139,17 +1036,13 @@ b. afspraken als bedoeld in artikel 7.1.3.1 heeft gemaakt met het college.
 
 ####Inrichting, beheer en verantwoordelijkheid
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7.1.2.1  
-Treedt in werking per 01-01-2015 
 
 1.  Er is een verwijsindex risicojongeren, zijnde een landelijk elektronisch systeem, waarin persoonsgegevens alsmede andere gegevens worden verwerkt.   
 2.  De verwijsindex heeft tot doel vroegtijdige en onderlinge afstemming tussen meldingsbevoegden te bewerkstelligen, opdat zij jeugdigen tijdig passende hulp, zorg of bijsturing kunnen verlenen om daadwerkelijke bedreigingen van de noodzakelijke condities voor een gezonde en veilige ontwikkeling naar volwassenheid te voorkomen, te beperken of weg te nemen.   
 3.  De verwijsindex wordt uitsluitend gebruikt voor het in het tweede lid aangegeven doel.  
 
 ### Artikel  7.1.2.2  
-Treedt in werking per 01-01-2015 
 
 1.  Onze Minister van Volksgezondheid, Welzijn en Sport draagt zorg voor de inrichting en het beheer van de verwijsindex.   
 2.  Onze Minister van Volksgezondheid, Welzijn en Sport is de verantwoordelijke voor de verwijsindex.   
@@ -1157,7 +1050,6 @@ Treedt in werking per 01-01-2015
 4.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de inrichting en het beheer van de verwijsindex. Daartoe behoren in elk geval regels omtrent de beveiliging van persoonsgegevens en de beschikbaarheid van voorzieningen die deel uitmaken van de verwijsindex.  
 
 ### Artikel  7.1.2.3  
-Treedt in werking per 01-01-2015 
 
 1.  Van de verwijsindex maken deel uit: 
 
@@ -1189,22 +1081,17 @@ i. voorzieningen waarmee aan de jeugdige bij de toepassing van de artikelen 35 t
 
 ####Gebruik van de verwijsindex
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7.1.3.1  
-Treedt in werking per 01-01-2015 
 
 1.  Het college bevordert het gebruik van de verwijsindex. Daartoe maakt het college afspraken met de binnen zijn gemeente werkzame instanties en functionarissen, voor zover zij behoren tot een categorie die is aangewezen bij de algemene maatregel van bestuur, bedoeld in artikel 7.1.1.2. Het college organiseert voorts de aansluiting van die instanties en functionarissen op de verwijsindex.   
 2.  De afspraken betreffen in elk geval de wijze waarop het college samenwerkt met die instanties en functionarissen, en die instanties en functionarissen onderling samenwerken bij het verlenen van hulp, zorg of bijsturing ten behoeve van jeugdigen, alsmede het beheer en de nakoming van die afspraken. De afspraken worden schriftelijk vastgelegd.  
 
 ### Artikel  7.1.3.2  
-Treedt in werking per 01-01-2015 
 
 1.  Het college draagt er zorg voor dat wordt nagegaan of de meldingsbevoegden die een jeugdige aan de verwijsindex hebben gemeld en vervolgens daaruit een signaal hebben ontvangen, met elkaar contact hebben opgenomen.   
 2.  Degene die belast is met de taken, bedoeld in het eerste lid, heeft uitsluitend ten behoeve daarvan toegang tot de verwijsindex.  
 
 ### Artikel  7.1.3.3  
-Treedt in werking per 01-01-2015 
 
 1.  Instanties als bedoeld in artikel 7.1.1.2, eerste lid, onderdeel a, kunnen met het oog op een effectief gebruik van de verwijsindex een binnen hun instantie werkzame coördinator aanwijzen. De coördinator heeft als taak de contactgegevens van de meldingsbevoegden te beheren en zo nodig aan te passen en de signalen uit de verwijsindex te beheren.   
 2.  Een coördinator heeft uitsluitend ten behoeve van de taak, bedoeld in het eerste lid, toegang tot de verwijsindex.  
@@ -1213,10 +1100,7 @@ Treedt in werking per 01-01-2015
 
 ####Melding aan de verwijsindex
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7.1.4.1  
-Treedt in werking per 01-01-2015 
 
 Een meldingsbevoegde kan zonder toestemming van de jeugdige of zijn wettelijk vertegenwoordiger en zo nodig met doorbreking van de op grond van zijn ambt of beroep geldende plicht tot geheimhouding, een jeugdige melden aan de verwijsindex indien hij een redelijk vermoeden heeft dat de jeugdige door een of meer van de hierna genoemde risico’s in de noodzakelijke condities voor een gezonde en veilige ontwikkeling naar volwassenheid daadwerkelijk wordt bedreigd: 
 
@@ -1245,7 +1129,6 @@ k. de ouders of andere verzorgers van de jeugdige schieten ernstig tekort in de 
 l. de jeugdige staat bloot aan risico’s die in bepaalde etnische groepen onevenredig vaak voorkomen.   
 
 ### Artikel  7.1.4.2  
-Treedt in werking per 01-01-2015 
 
 1.  Een melding wordt in de verwijsindex gekoppeld aan het burgerservicenummer van de jeugdige, met als doel te waarborgen dat de melding betrekking heeft op die jeugdige.   
 2.  Indien de melding afkomstig is van een meldingsbevoegde die op grond van een wettelijke bepaling reeds bevoegd is het burgerservicenummer van de jeugdige te gebruiken, biedt hij de melding met dat nummer aan de verwijsindex aan.   
@@ -1253,7 +1136,6 @@ Treedt in werking per 01-01-2015
 4.  Bij algemene maatregel van bestuur worden een persoonsidentificerend nummer en andere identificerende gegevens aangewezen die gebruikt worden om jeugdigen die niet beschikken over een burgerservicenummer te melden aan de verwijsindex. Bij of krachtens de maatregel worden voorts regels gesteld over de wijze waarop deze gegevens worden aangeboden aan de verwijsindex.  
 
 ### Artikel  7.1.4.3  
-Treedt in werking per 01-01-2015 
 
 1.  Naast het burgerservicenummer van de jeugdige worden in de verwijsindex bij een melding uitsluitend de volgende gegevens opgeslagen: 
 
@@ -1265,12 +1147,10 @@ c. de datum waarop de melding op grond van artikel 7.1.4.5, tweede lid, onderdee
 2.  Een signaal uit de verwijsindex bevat uitsluitend de gegevens, genoemd in het eerste lid, onderdeel a, en, indien het signaal voortvloeit uit twee of meer meldingen die niet dezelfde jeugdige betreffen, dit gegeven.  
 
 ### Artikel  7.1.4.4  
-Treedt in werking per 01-01-2015 
 
 Ten behoeve van de doeleinden, bedoeld in artikel 7.1.2.1, worden persoonsgegevens betreffende de gezondheid, alsmede strafrechtelijke persoonsgegevens als bedoeld in artikel 16 van de Wet bescherming persoonsgegevens verwerkt. De verwerking van deze gegevens vindt uitsluitend plaats teneinde meldingsbevoegden uit de domeinen jeugdgezondheidszorg, gezondheidszorg en politie en justitie in staat te stellen een jeugdige aan de verwijsindex te melden alsmede andere meldingsbevoegden in staat te stellen van deze melding kennis te nemen. 
 
 ### Artikel  7.1.4.5  
-Treedt in werking per 01-01-2015 
 
 1.  Een meldingsbevoegde verwijdert een door hem gedane melding uit de verwijsindex indien naar zijn oordeel: 
 
@@ -1286,7 +1166,6 @@ b. met ingang van de dag dat de jeugdige de leeftijd van drieëntwintig jaar ber
 c. zo spoedig mogelijk na het overlijden van de jeugdige.    
 
 ### Artikel  7.1.4.6  
-Treedt in werking per 01-01-2015 
 
 1.  Een overeenkomstig artikel 7.1.4.5, eerste lid, onderdeel b, en tweede lid, onderdeel a, uit de verwijsindex verwijderde melding wordt gedurende vijf jaren opgenomen in een historisch meldingenarchief, met dien verstande dat die opname wordt vernietigd met ingang van de dag dat de jeugdige de leeftijd van drieëntwintig jaar bereikt of zo spoedig mogelijk na het overlijden van de jeugdige. Meldingen die uit de verwijsindex zijn verwijderd met toepassing van artikel 7.1.4.5, eerste lid, onderdeel a, of het tweede lid, onderdelen b of c, of de artikelen 36 of 40 van de Wet bescherming persoonsgegevens, worden niet in het historisch meldingenarchief opgenomen.   
 2.  Van een in het historisch meldingenarchief opgenomen melding wordt uitsluitend en eenmalig een signaal aangeboden aan een meldingsbevoegde op het moment dat hij een jeugdige aan de verwijsindex meldt.   
@@ -1296,16 +1175,12 @@ Treedt in werking per 01-01-2015
 
 ####Informatieverstrekking aan en rechten van de betrokkene
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7.1.5.1  
-Treedt in werking per 01-01-2015 
 
 1.  Indien een melding betrekking heeft op een jeugdige die jonger is dan twaalf jaar wordt de mededeling, bedoeld in artikel 34 van de Wet bescherming persoonsgegevens gedaan aan zijn wettelijk vertegenwoordiger. Indien de jeugdige de leeftijd van twaalf, maar nog niet die van zestien jaar heeft bereikt, wordt de mededeling zowel aan de jeugdige als zijn wettelijk vertegenwoordiger gedaan.   
 2.  Indien de jeugdige jonger is dan twaalf jaar wordt een verzoek als bedoeld in de artikelen 35 of 36 van de Wet bescherming persoonsgegevens of een aantekening van verzet als bedoeld in artikel 40 van die wet gedaan door zijn wettelijk vertegenwoordiger. Indien de jeugdige de leeftijd van twaalf, maar nog niet die van zestien jaar heeft bereikt, wordt het verzoek of de aantekening van verzet gedaan door de jeugdige en zijn wettelijk vertegenwoordiger gezamenlijk.  
 
 ### Artikel  7.1.5.2  
-Treedt in werking per 01-01-2015 
 
 1.  Een meldingsbevoegde die een jeugdige aan de verwijsindex heeft gemeld, brengt aan het college een advies uit over een door die jeugdige aan hem gedaan verzoek als bedoeld in de artikelen 35 of 36 van de Wet bescherming persoonsgegevens, of over een bij hem aangetekend verzet als bedoeld in artikel 40 van die wet.   
 2.  De meldingsbevoegde verstrekt het college overigens alle inlichtingen die nodig zijn met het oog op de uitvoering door het college van de in het eerste lid genoemde artikelen en van artikel 43 van de Wet bescherming persoonsgegevens.  
@@ -1314,21 +1189,16 @@ Treedt in werking per 01-01-2015
 
 ####Burgerservicenummer
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7.2.1  
-Treedt in werking per 01-01-2015 
 
 1.  De gecertificeerde instelling, de jeugdhulpaanbieder, de raad voor de kinderbescherming en het college gebruiken het burgerservicenummer van een jeugdige met het doel te waarborgen dat de in het kader van de uitvoering van deze wet en de daarop berustende bepalingen te verwerken persoonsgegevens op die jeugdige betrekking hebben.   
 2.  Het eerste lid is niet van toepassing op een gecertificeerde instelling, voor zover deze ter uitvoering van de taken in het kader van jeugdreclassering, persoonsgegevens uitwisselt van verdachten en veroordeelden ten behoeve van de toepassing van het strafrecht.  
 
 ### Artikel  7.2.2  
-Treedt in werking per 01-01-2015 
 
 De gecertificeerde instelling, de jeugdhulpaanbieder, de raad voor de kinderbescherming en het college stellen het burgerservicenummer van een jeugdige vast wanneer zij voor de eerste maal contact met de jeugdige hebben in het kader van de uitvoering van deze wet en de daarop berustende bepalingen. 
 
 ### Artikel  7.2.3  
-Treedt in werking per 01-01-2015 
 
 1.  Teneinde het burgerservicenummer van de jeugdige vast te stellen worden het nummerregister en de voorzieningen, bedoeld in artikel 3, eerste lid, onderdelen b en d, van de Wet algemene bepalingen burgerservicenummer geraadpleegd.   
 2.  De raadpleging, bedoeld in het eerste lid, kan achterwege gelaten worden, indien: 
@@ -1338,7 +1208,6 @@ a. het burgerservicenummer is verstrekt door een andere gebruiker als bedoeld in
 b. het burgerservicenummer is verkregen uit de basisregistratie personen.    
 
 ### Artikel  7.2.4  
-Treedt in werking per 01-01-2015 
 
 Indien aan een jeugdige geen burgerservicenummer is toegekend: 
 
@@ -1355,23 +1224,19 @@ a. nemen gecertificeerde instellingen, jeugdhulpaanbieders, de raad voor de kind
 b. vermelden gecertificeerde instellingen, jeugdhulpaanbieders, de raad voor de kinderbescherming en het college de gegevens, bedoeld in onderdeel a, bij het verstrekken van persoonsgegevens met betrekking tot de uitvoering van hun taken en de verlening van jeugdhulp.   
 
 ### Artikel  7.2.5  
-Treedt in werking per 01-01-2015 
 
 Bij regeling van Onze Minister van Volksgezondheid, Welzijn en Sport wordt bepaald aan welke beveiligingseisen de gegevensverwerking, bedoeld in de artikelen 7.2.1 en 7.2.4 voldoet. 
 
 ### Artikel  7.2.6  
-Treedt in werking per 01-01-2015 
 
 1.  Gecertificeerde instellingen, jeugdhulpaanbieders, de raad voor de kinderbescherming en het college kunnen van de bij de artikelen 7.2.1 tot en met 7.2.4 gestelde verplichtingen afwijken voor zolang dit noodzakelijk is met betrekking tot spoedeisende gevallen.   
 2.  Indien op grond van het eerste lid wordt afgeweken van bij de artikelen 7.2.1 tot en met 7.2.4 gestelde verplichtingen is het bepaalde krachtens artikel 7.2.5 niet van toepassing.  
 
 ### Artikel  7.2.7  
-Treedt in werking per 01-01-2015 
 
 Onze Minister van Volksgezondheid, Welzijn en Sport of een door hem aangewezen instelling beheert een autorisatielijst van jeugdhulpaanbieders, waarin zij op verzoek worden opgenomen teneinde gebruik te kunnen maken van het nummerregister en de voorzieningen, bedoeld in artikel 3, eerste lid, onderdelen b en d, van de Wet algemene bepalingen burgerservicenummer. 
 
 ### Artikel  7.2.8  
-Treedt in werking per 01-01-2015 
 
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over: 
 
@@ -1386,7 +1251,6 @@ c. het toezicht op het functioneren van de autorisatielijst.
 5.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de kenmerken, de aanvraag, de procedure, de verstrekking, het beheer, de beveiliging, het gebruik en de intrekking van het middel bedoeld in het derde lid.  
 
 ### Artikel  7.2.9  
-Treedt in werking per 01-01-2015 
 
 Ten behoeve van de verantwoordelijkheid, bedoeld in de artikelen 2.1 en 2.4, tweede lid, kan Onze Minister van Veiligheid en Justitie aan een door het college aangewezen ambtenaar of aan een door het college aangewezen en onder zijn verantwoordelijkheid werkzame functionaris het burgerservicenummer verstrekken van een jeugdige ten aanzien van wie in het kader van een strafrechtelijke beslissing is bepaald dat hij in aanmerking komt voor een vorm van jeugdhulp of jeugdreclassering. 
 
@@ -1394,17 +1258,13 @@ Ten behoeve van de verantwoordelijkheid, bedoeld in de artikelen 2.1 en 2.4, twe
 
 ####Toestemming, dossier en privacy
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7.3.1  
-Treedt in werking per 01-01-2015 
 
 1.  Hetgeen in de artikelen 7.3.8 tot en met 7.3.15 is bepaald ten aanzien van de jeugdhulpverlener is van overeenkomstige toepassing op de medewerker van de gecertificeerde instelling, met dien verstande dat voor «jeugdhulp» of «verlening van jeugdhulp» wordt gelezen «uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering».   
 2.  In deze paragraaf wordt verstaan onder betrokkene: persoon aan wie rechtstreeks jeugdhulp wordt verleend, ten aanzien van wie de verlening van jeugdhulp wordt voorgesteld of ten aanzien van wie een kinderbeschermingsmaatregel of jeugdreclassering uitgevoerd wordt of de uitvoering daarvan wordt voorgesteld.   
 3.  Voor zover sprake is van een geneeskundige behandeling als bedoeld in artikel 446 van Boek 7 van het Burgerlijk Wetboek, is deze paragraaf niet van toepassing.  
 
 ### Artikel  7.3.2  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpverlener licht de betrokkene op duidelijke wijze, en desgevraagd schriftelijk in over het voorgenomen onderzoek, de voorgestelde jeugdhulp, de ontwikkelingen omtrent de jeugdhulp en over de geconstateerde opgroei- en opvoedingsproblemen, psychische problemen en stoornissen. De jeugdhulpverlener licht een jeugdige die de leeftijd van twaalf jaar nog niet heeft bereikt, op zodanige wijze in als past bij zijn bevattingsvermogen.   
 2.  Bij het uitvoeren van de in het eerste lid neergelegde verplichting laat de jeugdhulpverlener zich leiden door hetgeen de betrokkene redelijkerwijze dient te weten ten aanzien van: 
@@ -1419,54 +1279,45 @@ d. de staat van en de vooruitzichten met betrekking tot de geconstateerde opgroe
 3.  De hulpverlener mag de betrokkene bedoelde inlichtingen slechts onthouden voor zover het verstrekken ervan kennelijk ernstig nadeel voor de betrokkene zou opleveren. Indien het belang van de betrokkene dit vereist, dient de jeugdhulpverlener de desbetreffende inlichtingen aan een ander te verstrekken. De inlichtingen worden de betrokkene alsnog gegeven, zodra bedoeld nadeel niet meer te duchten is. De jeugdhulpverlener maakt geen gebruik van zijn in de eerste volzin bedoelde bevoegdheid dan nadat hij daarover een andere jeugdhulpverlener heeft geraadpleegd.  
 
 ### Artikel  7.3.3  
-Treedt in werking per 01-01-2015 
 
 Indien de betrokkene te kennen heeft gegeven geen inlichtingen te willen ontvangen, blijft het verstrekken daarvan achterwege, behoudens voor zover het belang dat de betrokkene daarbij heeft niet opweegt tegen het nadeel dat daaruit voor hemzelf of anderen kan voortvloeien. 
 
 ### Artikel  7.3.4  
-Treedt in werking per 01-01-2015 
 
 1.  Voor het verlenen van jeugdhulp is de toestemming van de betrokkene vereist, tenzij het jeugdhulp betreft in het kader van een machtiging gesloten jeugdhulp, een spoedmachtiging gesloten jeugdhulp, een kinderbeschermingsmaatregel of jeugdreclassering.   
 2.  Indien de betrokkene minderjarig is en de leeftijd van twaalf maar nog niet die van zestien jaar heeft bereikt, is tevens de toestemming van de ouders die het gezag over hem uitoefenen of van zijn voogd vereist. De jeugdhulp kan evenwel zonder de toestemming van die ouders of de voogd worden verleend, indien zij kennelijk nodig is teneinde ernstig nadeel voor de betrokkene te voorkomen, alsmede indien de betrokkene ook na de weigering van de toestemming, de verrichting weloverwogen blijft wensen.   
 3.  In het geval waarin een betrokkene van zestien jaar of ouder niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, worden door de jeugdhulpverlener en een persoon als bedoeld in artikel 7.3.15, tweede of derde lid, de kennelijke opvattingen van de betrokkene, geuit in schriftelijke vorm toen deze tot bedoelde redelijke waardering nog in staat was en inhoudende een weigering van toestemming als bedoeld in het eerste lid, opgevolgd. De jeugdhulpverlener kan hiervan afwijken indien hij daartoe gegronde redenen aanwezig acht.  
 
 ### Artikel  7.3.5  
-Treedt in werking per 01-01-2015 
 
 1.  Een minderjarige die de leeftijd van zestien jaar heeft bereikt, is bekwaam tot het verlenen van toestemming voor de verlening van jeugdhulp ten behoeve van zichzelf, alsmede tot het verrichten van rechtshandelingen die daarmee onmiddellijk verband houden.   
 2.  De minderjarige is aansprakelijk voor de daaruit voortvloeiende verbintenissen, onverminderd de verplichting van zijn ouders tot voorziening in de kosten van verzorging en opvoeding.   
 3.  In op die verlening van jeugdhulp betrekking hebbende aangelegenheden is de minderjarige bekwaam in en buiten rechte op te treden.  
 
 ### Artikel  7.3.6  
-Treedt in werking per 01-01-2015 
 
 Op verzoek van de betrokkene legt de jeugdhulpverlener in ieder geval schriftelijk vast voor welke verrichtingen van ingrijpende aard deze toestemming heeft gegeven. 
 
 ### Artikel  7.3.7  
-Treedt in werking per 01-01-2015 
 
 De betrokkene geeft de jeugdhulpverlener naar beste weten de inlichtingen en de medewerking die deze redelijkerwijs voor het verlenen van jeugdhulp behoeft. 
 
 ### Artikel  7.3.8  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpverlener richt een dossier in met betrekking tot de verlening van jeugdhulp. Hij houdt in het dossier aantekening van de gegevens omtrent de geconstateerde opgroei- en opvoedingsproblemen, psychische problemen en stoornissen en de te diens aanzien uitgevoerde verrichtingen en neemt andere stukken, bevattende zodanige gegevens, daarin op, een en ander voor zover dit voor een goede hulpverlening aan de betrokkene noodzakelijk is.   
 2.  De jeugdhulpverlener voegt desgevraagd een door de betrokkene afgegeven verklaring met betrekking tot de in het dossier opgenomen stukken aan het dossier toe.   
 3.  Onverminderd artikel 7.3.9, bewaart de jeugdhulpverlener het dossier gedurende vijftien jaar, te rekenen vanaf het tijdstip van ontvangst of waarop zij door de jeugdhulpverlener is vervaardigd, of zoveel langer als redelijkerwijs uit de zorg van een goed jeugdhulpverlener voortvloeit.  
 
 ### Artikel  7.3.9  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpverlener vernietigt het dossier, of delen daarvan, binnen drie maanden na een daartoe strekkend verzoek van de betrokkene.   
 2.  Het eerste lid geldt niet voor zover het verzoek gegevens betreft waarvan redelijkerwijs aannemelijk is dat de bewaring van aanmerkelijk belang is voor een ander dan de betrokkene, alsmede voor zover het bepaalde bij of krachtens de wet zich tegen vernietiging verzet.  
 
 ### Artikel  7.3.10  
-Treedt in werking per 01-01-2015 
 
 De jeugdhulpverlener verstrekt aan de betrokkene desgevraagd zo spoedig mogelijk inzage in en afschrift van het dossier, of delen daarvan. De verstrekking blijft achterwege voor zover dit noodzakelijk is in het belang van de bescherming van de persoonlijke levenssfeer van een ander. De jeugdhulpverlener kan voor de verstrekking van het afschrift een vergoeding verlangen overeenkomstig artikel 39 van de Wet bescherming persoonsgegevens. 
 
 ### Artikel  7.3.11  
-Treedt in werking per 01-01-2015 
 
 1.  Onverminderd artikel 7.3.2, derde lid, tweede volzin, draagt de jeugdhulpverlener zorg, dat aan anderen dan de betrokkene geen inlichtingen over de betrokkene dan wel inzage in of afschrift van het dossier worden verstrekt dan met toestemming van de betrokkene. Indien verstrekking plaatsvindt, geschiedt deze slechts voor zover daardoor de persoonlijke levenssfeer van een ander niet wordt geschaad. De verstrekking geschiedt zonder inachtneming van beperkingen, indien het bij of krachtens de wet bepaalde daartoe verplicht.   
 2.  Onder anderen dan de betrokkene is niet begrepen: 
@@ -1479,7 +1330,6 @@ b. degene wiens toestemming ter zake van de verlening van jeugdhulp op grond van
 5.  Bij regeling van Onze Ministers kunnen regels worden gesteld omtrent de inhoud van het dossier, de wijze waarop de verwerking van gegevens door en de uitwisseling van gegevens tussen het college, de jeugdhulpaanbieders, de gecertificeerde instellingen en de raad voor de kinderbescherming plaatsvindt en de wijze waarop de verwerking en uitwisseling van gegevens als bedoeld in het vierde lid plaatsvinden. Daarbij kan worden bepaald welke maatregelen moeten worden getroffen om te waarborgen dat de uitwisseling van gegevens veilig en zorgvuldig plaatsvindt.  
 
 ### Artikel  7.3.12  
-Treedt in werking per 01-01-2015 
 
 1.  In afwijking van artikel 7.3.11, eerste lid, kunnen zonder toestemming van de betrokkene ten behoeve van statistiek of wetenschappelijk onderzoek op het gebied van de volksgezondheid, opgroei- en opvoedingsproblemen, psychische problemen en stoornissen, kinderbescherming of jeugdreclassering aan een ander desgevraagd inlichtingen over de betrokkene of inzage in het dossier worden verstrekt indien: 
 
@@ -1496,7 +1346,6 @@ c. voor zover de betrokkene tegen een verstrekking niet uitdrukkelijk bezwaar he
 3.  Bij een verstrekking overeenkomstig het eerste lid wordt daarvan aantekening gehouden in het dossier.  
 
 ### Artikel  7.3.13  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdhulpverlener voert de verlening van jeugdhulp uit buiten de waarneming van anderen dan de betrokkene, tenzij de betrokkene ermee heeft ingestemd dat de verrichtingen kunnen worden waargenomen door anderen.   
 2.  Onder anderen dan de betrokkene is niet begrepen: 
@@ -1507,12 +1356,10 @@ b. degene wiens toestemming terzake van de verlening van die jeugdhulp op grond 
 3.  Indien de jeugdhulpverlener door verrichtingen te doen waarnemen niet geacht kan worden de zorg van een goed jeugdhulpverlener in acht te nemen, laat hij zulks niet toe.  
 
 ### Artikel  7.3.14  
-Treedt in werking per 01-01-2015 
 
 De jeugdhulpverlener kan wegens gewichtige redenen de verlening van jeugdhulp beëindigen. 
 
 ### Artikel  7.3.15  
-Treedt in werking per 01-01-2015 
 
 1.  De verplichtingen op grond van deze paragraaf voor de jeugdhulpverlener jegens de betrokkene, gelden, indien de betrokkene de leeftijd van twaalf jaar nog niet heeft bereikt, voor de jeugdhulpverlener jegens de ouders die het gezag over de betrokkene uitoefenen dan wel jegens zijn voogd.   
 2.  Hetzelfde geldt indien de betrokkene de leeftijd van twaalf jaar heeft bereikt, maar niet in staat kan worden geacht tot een redelijke waardering van zijn belangen ter zake, tenzij zodanige betrokkene meerderjarig is en onder curatele staat of ten behoeve van hem het mentorschap is ingesteld, in welke gevallen de verplichtingen gelden jegens de curator of de mentor.   
@@ -1522,7 +1369,6 @@ Treedt in werking per 01-01-2015
 6.  Verzet de betrokkene zich tegen een verrichting van ingrijpende aard waarvoor een persoon als bedoeld in het tweede of derde lid toestemming heeft gegeven, dan kan de verrichting slechts worden uitgevoerd indien zij kennelijk nodig is teneinde ernstig nadeel voor de betrokkene te voorkomen.  
 
 ### Artikel  7.3.16  
-Treedt in werking per 01-01-2015 
 
 1.  Indien op grond van artikel 7.3.15 voor het uitvoeren van een verrichting uitsluitend de toestemming van een daar bedoelde persoon in plaats van die van de betrokkene vereist is, dan kan tot de verrichting zonder die toestemming worden overgegaan indien de tijd voor het vragen van die toestemming ontbreekt aangezien onverwijlde uitvoering van de verrichting kennelijk nodig is teneinde ernstig nadeel voor de betrokkene te voorkomen.   
 2.  Een volgens de artikelen 7.3.4 en 7.3.15 vereiste toestemming mag worden verondersteld te zijn gegeven, indien de desbetreffende verrichting niet van ingrijpende aard is.  
@@ -1531,26 +1377,20 @@ Treedt in werking per 01-01-2015
 
 ####Gegevensverwerking ten behoeve van de beleidsinformatie en de toegang
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  7.4.1  
-Treedt in werking per 01-01-2015 
 
 1.  Onze Ministers verwerken gegevens die betrekking hebben op de toegang tot de jeugdhulp, preventie, jeugdhulp, het advies- en meldpunt huiselijk geweld en kindermishandeling, de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering teneinde een zorgvuldig en samenhangend jeugdbeleid te kunnen voeren en hun stelselverantwoordelijkheid te kunnen waarborgen.   
 2.  Het college verwerkt gegevens ten behoeve van de totstandbrenging van een doelmatig, doeltreffend en samenhangend gemeentelijk beleid ten aanzien van preventie, jeugdhulp, de uitvoering van kinderbeschermingsmaatregelen en jeugdreclassering en het advies- en meldpunt huiselijk geweld en kindermishandeling, ten behoeve van de verwerking, bedoeld in het eerste lid, en ten behoeve van de toegang van jeugdigen en hun ouders tot de jeugdhulp.  
 
 ### Artikel  7.4.2  
-Treedt in werking per 01-01-2015 
 
 Het college verstrekt kosteloos gegevens aan Onze Ministers ten behoeve van de verwerking, bedoeld in artikel 7.4.1, eerste lid. Deze verstrekking kan zowel een structureel als incidenteel karakter hebben. 
 
 ### Artikel  7.4.3  
-Treedt in werking per 01-01-2015 
 
 Jeugdhulpaanbieders, aanbieders van preventie, gecertificeerde instellingen en de raad voor de kinderbescherming verstrekken kosteloos gegevens aan het college en Onze Ministers, ten behoeve van de verwerking, bedoeld in artikel 7.4.1, eerste en tweede lid. Deze verstrekking kan zowel een structureel als incidenteel karakter hebben. 
 
 ### Artikel  7.4.4  
-Treedt in werking per 01-01-2015 
 
 1.  De gegevens, bedoeld in de artikelen 7.4.1 tot en met 7.4.3 kunnen persoonsgegevens zijn, voor zover deze gegevens noodzakelijk zijn voor: 
 
@@ -1565,7 +1405,6 @@ d. het waarborgen van de stelselverantwoordelijkheid.
 3.  De gegevens, bedoeld in het eerste lid, worden niet verwerkt voor andere doeleinden dan bedoeld in dat lid of daarmee verenigbare doeleinden en worden daar waar mogelijk verwerkt op een wijze die waarborgt dat zij niet tot een persoon herleidbaar zijn.  
 
 ### Artikel  7.4.5  
-Treedt in werking per 01-01-2015 
 
 1.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld omtrent de inhoud van de in de artikelen 7.4.1 tot en met 7.4.3 bedoelde gegevens, de wijze waarop de verwerking en de verstrekking plaatsvindt, de tijdvakken waarop de gegevens die worden verwerkt betrekking hebben en de termijnen waarbinnen of de tijdstippen waarop de gegevens verstrekt dienen te worden en kunnen de categorieën van verstrekkers, bedoeld in artikel 7.4.3, nader worden bepaald.   
 2.  Bij of krachtens de in het eerste lid bedoelde maatregel kan worden bepaald dat de gegevens, bedoeld in de artikelen 7.4.2 en 7.4.3, door de aanbieders van preventie, de jeugdhulpaanbieders, de gecertificeerde instellingen, de raad voor de kinderbescherming en het college, op een bij of krachtens die maatregel aangewezen wijze verstrekt worden aan en verwerkt worden door Onze Ministers of een door hen aan te wijzen instantie.   
@@ -1575,16 +1414,11 @@ Treedt in werking per 01-01-2015
 
 ####Financiën en verantwoording
 
-Treedt in werking per 01-01-2015 
-
 ### §  8.1  
 
 ####Algemeen
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  8.1.1  
-Treedt in werking per 01-01-2015 
 
 1.  Indien de jeugdige of zijn ouders dit wensen, verstrekt het college hun een persoonsgebonden budget dat hen in staat stelt de jeugdhulp die tot de individuele voorziening behoort van derden te betrekken.   
 2.  Een persoonsgebonden budget wordt verstrekt, indien: 
@@ -1602,19 +1436,16 @@ a. voor zover de kosten van het betrekken van de jeugdhulp van derden hoger zijn
 b. indien het college eerder toepassing heeft gegeven aan artikel 8.1.4, eerste lid, onderdeel a, d of e.    
 
 ### Artikel  8.1.2  
-Treedt in werking per 01-01-2015 
 
 1.  De jeugdige en zijn ouders doen aan het college op verzoek of onverwijld uit eigen beweging mededeling van alle feiten en omstandigheden waarvan hun redelijkerwijs duidelijk moet zijn dat deze aanleiding kunnen zijn tot heroverweging van een beslissing aangaande een persoonsgebonden budget.   
 2.  De verplichting, bedoeld in het eerste lid, geldt niet, indien het college die feiten en omstandigheden kan vaststellen op grond van bij wettelijk voorschrift als authentiek aangemerkte gegevens die feiten en omstandigheden kan verkrijgen uit bij regeling van Onze Ministers aan te wijzen administraties.   
 3.  De jeugdige en zijn ouders zijn verplicht aan het college desgevraagd de medewerking te verlenen die redelijkerwijs nodig is voor de uitvoering van deze wet.  
 
 ### Artikel  8.1.3  
-Treedt in werking per 01-01-2015 
 
 Het college onderzoekt periodiek of er aanleiding is een beslissing aangaande een persoonsgebonden budget te heroverwegen. 
 
 ### Artikel  8.1.4  
-Treedt in werking per 01-01-2015 
 
 1.  Het college kan een beslissing aangaande een persoonsgebonden budget herzien dan wel intrekken, indien het college vaststelt dat: 
 
@@ -1631,23 +1462,19 @@ e. de jeugdige of zijn ouders het persoonsgebonden budget niet of voor een ander
 3.  Indien het college een beslissing aangaande een persoonsgebonden budget met toepassing van het eerste lid, onderdeel a, heeft herzien dan wel ingetrokken, kan het college bij dwangbevel geheel of gedeeltelijk het ten onrechte genoten persoonsgebonden budget invorderen. 
 
 ### Artikel  8.1.5  
-Treedt in werking per 01-01-2015 
 
 1.  Een individuele voorziening in natura wordt aan een jeugdige of een ouder door of namens het college verstrekt. Indien een derde de voorziening in natura levert, komen op de persoon die deze voorziening ontvangt, geen werkgevers- of opdrachtgeversverplichtingen te rusten.   
 2.  Indien een jeugdige of een ouder een budget ontvangt, worden de betalingen voor de jeugdhulp die de jeugdige of de ouder ontvangen door of namens het college verstrekt.  
 
 ### Artikel  8.1.6  
-Treedt in werking per 01-01-2015 
 
 Het college licht de jeugdige en zijn ouder vooraf volledig, objectief en in voor hem begrijpelijke bewoordingen in over de gevolgen van de keuze voor een budget in plaats van een individuele voorziening in natura. 
 
 ### Artikel  8.1.7  
-Treedt in werking per 01-01-2015 
 
 Op het budget is titel 4.2 van de Algemene wet bestuursrecht niet van toepassing. 
 
 ### Artikel  8.1.8  
-Treedt in werking per 01-01-2015 
 
 1. De Sociale verzekeringsbank, genoemd in artikel 3 van de Wet structuur uitvoeringsorganisatie werk en inkomen, voert namens de colleges de betalingen ten laste van verstrekte budgetten, alsmede het hiermee verbonden budgetbeheer, uit.  
 2.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de wijze waarop de Sociale verzekeringsbank de taak, bedoeld in het eerste lid, uitvoert. 
@@ -1656,10 +1483,7 @@ Treedt in werking per 01-01-2015
 
 ####Ouderbijdrage
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  8.2.1  
-Treedt in werking per 01-01-2015 
 
 1.  De volgende personen zijn een ouderbijdrage verschuldigd in de kosten van de aan een jeugdige geboden jeugdhulp, voor zover deze jeugdhulp verblijf buiten het gezin inhoudt, of in de kosten van verblijf in een justitiële jeugdinrichting van een jeugdige die met toepassing van artikel 265b, vijfde lid, van Boek 1 van het Burgerlijk Wetboek aldaar is geplaatst: 
 
@@ -1685,12 +1509,10 @@ c. de wijze van invordering van de ouderbijdrage, en
 d. de overige uitzonderingsgronden voor het verschuldigd zijn van een ouderbijdrage.    
 
 ### Artikel  8.2.2  
-Treedt in werking per 01-01-2015 
 
 Indien bijdrageplichtige ouders of stiefouders gescheiden wonen en er geen bedrag is bepaald op de voet van de artikelen 406 of 407 van Boek 1 van het Burgerlijk Wetboek of van artikel 822, eerste lid, onderdeel c, van het Wetboek van Burgerlijke Rechtsvordering, is de ouder of stiefouder die ingevolge de Algemene Kinderbijslagwet onmiddellijk voorafgaande aan de aanvang van de jeugdhulp recht op kinderbijslag heeft, de ouderbijdrage verschuldigd. 
 
 ### Artikel  8.2.3  
-Treedt in werking per 01-01-2015 
 
 1.  De ouderbijdrage wordt vastgesteld en ten behoeve van de gemeente geïnd door het bestuursorgaan dat door Onze Ministers met de vaststelling en de inning is belast.   
 2.  Het college doet onverwijld schriftelijk mededeling aan het bestuursorgaan dat door Onze Ministers met de vaststelling en de inning is belast van de aanvang, de wijziging en de beëindiging van jeugdhulp waarvoor een ouderbijdrage is verschuldigd. Deze mededeling bevat de gegevens die nodig zijn voor de vaststelling van de bijdrage. Onze Ministers kunnen regels stellen over de wijze waarop deze mededeling wordt gedaan.   
@@ -1699,18 +1521,15 @@ Treedt in werking per 01-01-2015
 5.  Het bestuursorgaan dat door Onze Ministers met de vaststelling en de inning is belast kan artikel 8.2.1, eerste lid, buiten toepassing laten of daarvan afwijken voor zover toepassing gelet op het belang dat dit artikel beoogt te beschermen zal leiden tot een onbillijkheid van overwegende aard.  
 
 ### Artikel  8.2.4  
-Treedt in werking per 01-01-2015 
 
 1.  De bijdrageplichtige, bedoeld in artikel 8.2.1, eerste lid, is verplicht aan het bestuursorgaan dat door Onze Ministers met de vaststelling en de inning is belast desgevraagd alle inlichtingen te geven die nodig zijn voor de vaststelling en inning van de ouderbijdrage.   
 2.  De inlichtingen worden op verzoek schriftelijk verstrekt binnen een door het bestuursorgaan dat door Onze Ministers met de vaststelling en de inning is belast, schriftelijk te stellen, redelijke termijn.  
 
 ### Artikel  8.2.5  
-Treedt in werking per 01-01-2015 
 
 Indien naar het oordeel van Onze Ministers het bestuursorgaan dat door Onze Ministers met de vaststelling en de inning is belast zijn wettelijke taak niet naar behoren verricht, kunnen Onze Ministers bepalen dat de bevoegdheden die met die taak verband houden overgaan op Onze Minister van Volksgezondheid, Welzijn en Sport. 
 
 ### Artikel  8.2.6  
-Treedt in werking per 01-01-2015 
 
 Het bestuursorgaan dat door Onze Ministers met de vaststelling en de inning is belast kan het burgerservicenummer van een persoon die een ouderbijdrage verschuldigd is, gebruiken: 
 
@@ -1719,7 +1538,6 @@ a. in het verkeer met de persoon op wie het nummer betrekking heeft, en
 b. in zijn contacten met personen en instanties voor zover deze zelf gemachtigd zijn tot het gebruik van het nummer.   
 
 ### Artikel  8.2.7  
-Treedt in werking per 01-01-2015 
 
 De rijksbelastingdienst verstrekt het bestuursorgaan dat door Onze Ministers met de vaststelling en de inning is belast de persoonsgegevens die voor die rechtspersoon noodzakelijk zijn voor de uitvoering van artikel 8.2.3. 
 
@@ -1727,15 +1545,11 @@ De rijksbelastingdienst verstrekt het bestuursorgaan dat door Onze Ministers met
 
 ####Financiële verantwoording
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  8.3.1  
-Treedt in werking per 01-01-2015 
 
 Jeugdhulpaanbieders als bedoeld in artikel 1.1, onderdeel 1°, en gecertificeerde instellingen stellen overeenkomstig door Onze Ministers te stellen regelen de begroting, de balans en de resultatenrekening alsmede de daarbij behorende toelichting vast en maken deze op door Onze Ministers te bepalen wijze openbaar. 
 
 ### Artikel  8.3.2  
-Treedt in werking per 01-01-2015 
 
 Jeugdhulpaanbieders als bedoeld in artikel 1.1, onderdeel 1°, en gecertificeerde instellingen behorende tot een bij algemene maatregel van bestuur aangewezen categorie, verstrekken aan Onze Ministers of aan een bij of krachtens die maatregel aangewezen bestuursorgaan de bij of krachtens die maatregel omschreven gegevens betreffende de exploitatie. 
 
@@ -1743,28 +1557,22 @@ Jeugdhulpaanbieders als bedoeld in artikel 1.1, onderdeel 1°, en gecertificeerd
 
 #### Verwerking van persoonsgegevens 
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  8.4.1  
-Treedt in werking per 01-01-2015 
 
 1.  Het bestuursorgaan dat met de vaststelling en de inning van de ouderbijdrage, bedoeld in artikel 8.2.3, is belast is bevoegd tot het verwerken van persoonsgegevens van de jeugdige en zijn ouders, waaronder persoonsgegevens betreffende de gezondheid die noodzakelijk zijn voor de vaststelling en de inning van een bijdrage, voor zover deze op rechtmatige wijze zijn verkregen en noodzakelijk zijn voor de uitvoering van zijn taak ingevolge deze wet.   
 2.  Het bestuursorgaan is de verantwoordelijke voor de verwerking, bedoeld in het eerste lid.   
 
 ### Artikel  8.4.2  
-Treedt in werking per 01-01-2015 
 
 1.  De Sociale verzekeringsbank is bevoegd tot het verwerken van persoonsgegevens van de jeugdige en zijn ouders, waaronder persoonsgegevens betreffende de gezondheid die noodzakelijk zijn voor het verrichten van betalingen en het budgetbeheer, bedoeld in artikel 8.1.8, voor zover deze op rechtmatige wijze zijn verkregen en noodzakelijk zijn voor de uitvoering van zijn taak ingevolge deze wet.   
 2.  De Sociale verzekeringsbank is de verantwoordelijke voor de verwerking, bedoeld in het eerste lid.  
 
 ### Artikel  8.4.3  
-Treedt in werking per 01-01-2015 
 
 1.  Op het bestuursorgaan dat met de vaststelling en de inning van de ouderbijdrage, bedoeld in artikel 8.2.3, is belast en op de Sociale verzekeringsbank, zijn de artikelen 7.2.1 tot en met 7.2.5 van toepassing.   
 2.  De in het eerste lid bedoelde instanties kunnen van de artikelen 7.2.2 tot en met 7.2.4 afwijken voor zolang dit noodzakelijk is met betrekking tot spoedeisende gevallen. In zodanig geval is artikel 7.2.5 niet van toepassing.  
 
 ### Artikel  8.4.4  
-Treedt in werking per 01-01-2015 
 
 Op het bestuursorgaan dat met de vaststelling en de inning van de ouderbijdrage, bedoeld in artikel 8.2.3, is belast en op de Sociale verzekeringsbank: 
 
@@ -1776,10 +1584,7 @@ b. is artikel 7.3.12 van toepassing.
 
 ####Toezicht en handhaving
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  9.1  
-Treedt in werking per 01-01-2015 
 
 1.  Er is een inspectie jeugdzorg die ressorteert onder Onze Minister van Volksgezondheid, Welzijn en Sport en die tot taak heeft het onderzoeken van de kwaliteit in algemene zin van: 
 
@@ -1802,7 +1607,6 @@ f. de inrichtingen, bedoeld in artikel 1, onderdeel b, van de Beginselenwet just
 7.  De inspectie jeugdzorg publiceert jaarlijks een verslag van haar werkzaamheden. In het verslag doet zij de voorstellen die zij in het belang van de jeugdhulp nodig acht.  
 
 ### Artikel  9.2  
-Treedt in werking per 01-01-2015 
 
 1.  Met het toezicht op de naleving van het bepaalde bij of krachtens deze wet zijn belast de door Onze Ministers aangewezen ambtenaren.   
 2.  De met het toezicht belaste ambtenaren zijn voor zover dat voor de vervulling van hun taak noodzakelijk is en in afwijking van artikel 5:15, eerste lid, van de Algemene wet bestuursrecht, bevoegd, met medeneming van de benodigde apparatuur, een woning van een jeugdhulpaanbieder binnen te treden zonder toestemming van de bewoner, voor zover die woning wordt gebruikt ten behoeve van de verlening van jeugdhulp of de uitvoering van een kinderbeschermingsmaatregel of jeugdreclassering.   
@@ -1813,7 +1617,6 @@ Treedt in werking per 01-01-2015
 7.  Artikel 9.1, vijfde tot en met zevende lid, is van overeenkomstige toepassing.  
 
 ### Artikel  9.3  
-Treedt in werking per 01-01-2015 
 
 1.  Indien een van Onze Ministers van oordeel is dat een jeugdhulpaanbieder of een gecertificeerde instelling deze wet of de daarop berustende bepalingen niet of onvoldoende naleeft, kan hij de jeugdhulpaanbieder of de gecertificeerde instelling die het betreft een schriftelijke aanwijzing geven.   
 2.  In de aanwijzing geeft Onze Minister die het aangaat met redenen omkleed aan welke maatregelen de jeugdhulpaanbieder of de gecertificeerde instelling moet nemen met het oog op de naleving van het bepaalde bij of krachtens deze wet.   
@@ -1823,20 +1626,17 @@ Treedt in werking per 01-01-2015
 6.  Mandaat tot het verlengen van de geldigheidsduur van een bevel wordt niet verleend aan een met het toezicht belaste ambtenaar.  
 
 ### Artikel  9.4  
-Treedt in werking per 01-01-2015 
 
 1.  Met het toezicht op de naleving van artikel 9 van de Wet Centraal Orgaan opvang asielzoekers, voor zover het betreft minderjarigen die onder toezicht of voogdij staan van een gecertificeerde instelling als bedoeld in artikel 1.1, zijn belast de door Onze Ministers aangewezen ambtenaren.   
 2.  Artikel 9.1, vijfde tot en met zevende lid, is van overeenkomstige toepassing. De artikelen 9.3, 9.5 en 9.6 zijn niet van toepassing.  
 
 ### Artikel  9.5  
-Treedt in werking per 01-01-2015 
 
 1.  Onze Ministers zijn beiden bevoegd tot oplegging van een last onder bestuursdwang ter handhaving van de artikelen 8.3.1 en 8.3.2 en van een krachtens artikel 9.3 gegeven aanwijzing of bevel.   
 2.  Onze Ministers zijn beiden bevoegd tot oplegging van een last onder dwangsom ter handhaving van het bepaalde bij of krachtens artikel 4.2.1, eerste, tweede, derde en vijfde lid.   
 3.  Onze Ministers zijn beiden bevoegd een last onder dwangsom op te leggen aan de betrokken beroepsbeoefenaar die geen medewerking verleent aan de inzage van dossiers, bedoeld in artikel 9.2, derde lid.  
 
 ### Artikel  9.6  
-Treedt in werking per 01-01-2015 
 
 1.  Onze Ministers zijn beiden bevoegd een bestuurlijke boete van ten hoogste € 6.700,– op te leggen ter zake van een gedraging die in strijd is met een krachtens artikel 9.3 gegeven aanwijzing, voor zover deze betreft het niet of onvoldoende naleven van artikel 4.3.1, tweede lid, onderdelen d tot en met j.   
 2.  Onze Ministers zijn beiden bevoegd een bestuurlijke boete van ten hoogste € 33.500,– op te leggen ter zake van een gedraging van een jeugdhulpaanbieder of een gecertificeerde instelling die in strijd is met het bepaalde bij of krachtens de artikelen 4.1.6, 4.1.8, of 4.3.2.   
@@ -1849,7 +1649,6 @@ Treedt in werking per 01-01-2015
 ####Overgangsrecht
 
 ### Artikel  10.1  
-Treedt in werking per 01-01-2015 
 
 1.  In dit artikel wordt verstaan onder: 
 
@@ -1871,7 +1670,6 @@ f.  *verstandelijke handicap:* verstandelijke handicap als bedoeld bij of kracht
 6.  Indien een in het buitenland wonende jeugdige op het tijdstip van inwerkingtreding van deze wet op grond van artikel 3.1.2 van de Invoerings- en aanpassingswet Zorgverzekeringswet aanspraak heeft op een vergoeding dan wel op grond van artikel 1.22 van het Aanpassingsbesluit Zorgverzekeringswet aanspraak heeft op een uitkering ter zake van de kosten van persoonlijke verzorging, verpleging, begeleiding, behandeling, verblijf, kortdurend verblijf, vervoer of voortgezet verblijf, behoudt die jeugdige die aanspraak jegens de gemeente waarbinnen de betreffende jeugdige zijn woonplaats heeft, gedurende de looptijd van het indicatiebesluit, doch uiterlijk tot een jaar na inwerkingtreding van dit artikel.  
 
 ### Artikel  10.2  
-Treedt in werking per 01-01-2015 
 
 1.  In dit artikel wordt verstaan onder: 
 
@@ -1888,7 +1686,6 @@ b.  *jeugdige:* persoon die de leeftijd van achttien jaar nog niet heeft bereikt
 5.  Het college is er verantwoordelijk voor dat de jeugdige in situaties als bedoeld in het derde en vierde lid, de jeugdhulp die reeds is ingezet voor inwerkingtreding van deze wet, na inwerkingtreding van deze wet kan voortzetten bij dezelfde aanbieder, indien dit redelijkerwijs mogelijk is.  
 
 ### Artikel  10.2a  
-Treedt in werking per 01-01-2015 
 
 1.  In dit artikel wordt verstaan onder: 
 
@@ -1903,11 +1700,23 @@ Treedt in werking per 01-01-2015
 
 ### Artikel  10.3  
 
-1.  Dit lid is nog niet in werking getreden.   
-2.  Dit lid is nog niet in werking getreden.   
-3.  Dit lid is nog niet in werking getreden.   
-4.  Dit lid is nog niet in werking getreden.   
-5.  Dit lid is nog niet in werking getreden.   
+1.  In dit artikel wordt verstaan onder: 
+
+a.  *cliënt:* jeugdige of zijn ouders of pleegouders;  
+
+b.  *jeugdige:* persoon die: 
+
+1°. de meerderjarigheidsleeftijd nog niet heeft bereikt,  
+
+2°. de meerderjarigheidsleeftijd heeft bereikt en ten aanzien van wie op grond van artikel 77c van het Wetboek van Strafrecht recht is gedaan overeenkomstig de artikelen 77g tot en met 77gg van het Wetboek van Strafrecht, of  
+
+3°. de meerderjarigheidsleeftijd doch niet de leeftijd van drieëntwintig jaar heeft bereikt, en voor wie voorzetting van jeugdzorg, die was aangevangen of waarvan de aanvraag was ingediend vóór het bereiken van de meerderjarigheidsleeftijd, noodzakelijk is of voor wie, na beëindiging van de jeugdzorg die was aangevangen vóór het bereiken van de meerderjarigheidsleeftijd, binnen een termijn van een half jaar hervatting van jeugdzorg noodzakelijk is, en    
+
+c.  *jeugdzorg:* ondersteuning van en hulp aan jeugdigen, hun ouders, stiefouders of anderen, die een jeugdige als behorende tot hun gezin verzorgen en opvoeden, bij opgroei- of opvoedingsproblemen of dreigende zodanige problemen;     
+2.  De rechten en verplichtingen die op het tijdstip van de inwerkingtreding van deze wet gelden met betrekking tot jeugdzorg waarvoor een indicatiebesluit als bedoeld in artikel 3, derde lid, van de Wet op de jeugdzorg is afgegeven voor de inwerkingtreding van deze wet, blijven gelden gedurende de looptijd van het indicatiebesluit, doch ten hoogste een jaar na de inwerkingtreding van deze wet, met dien verstande dat het college van de gemeente waarbinnen de jeugdige zijn woonplaats heeft, in de plaats treedt van de gedeputeerde staten van de provincie, bedoeld in artikel 3, tweede lid, van de Wet op de jeugdzorg.   
+3.  Het college is er verantwoordelijk voor dat de jeugdige in een situatie als bedoeld in het tweede lid, de jeugdhulp die reeds is ingezet voor inwerkingtreding van deze wet, na inwerkingtreding van deze wet kan voortzetten bij dezelfde aanbieder, indien dit redelijkerwijs mogelijk is.   
+4.  In afwijking van het tweede lid geldt ingeval sprake is van een indicatiebesluit waarin is vastgesteld dat de jeugdige aangewezen is op pleegzorg, geen einddatum voor de rechten en verplichtingen die verbonden zijn aan dit besluit jegens het college.   
+5.  Het college is er verantwoordelijk voor dat bij de jeugdige in een situatie als bedoeld in het tweede lid, die voor inwerkingtreding van deze wet reeds is geplaatst bij een pleegouder, de pleegzorg wordt voortgezet bij dezelfde pleegouders. Hiervan kan slechts worden afgeweken indien dat voor de verlening van verantwoorde hulp noodzakelijk is.   
 6.  Indien de verschuldigdheid van een ouderbijdrage onderdeel uitmaakt van de rechten en verplichtingen als bedoeld in het tweede lid, verstrekt het Landelijk Bureau Inning Onderhoudsbijdragen aan het bestuursorgaan dat met de vaststelling en de inning van de ouderbijdrage is belast, ten behoeve van de goede uitvoering van de taak van dat bestuursorgaan, alsmede aan de gemeente waar de jeugdige als bedoeld in deze wet zijn woonplaats heeft en op wie het indicatiebesluit als bedoeld in het tweede lid betrekking heeft, een afschrift van de in artikel 12, derde volzin, van de Wet op de jeugdzorg bedoelde formulieren. 
 
 ### Artikel  10.4  
@@ -1945,49 +1754,41 @@ e. gegevens betreffende de leveringsvorm van de jeugdhulp.
 5.  Het college is bevoegd tot het verwerken van de persoonsgegevens die overeenkomstig het vierde lid aan hem zijn verstrekt, voor zover dat noodzakelijk is om op de aanvraag te beslissen.  
 
 ### Artikel  10.5  
-Treedt in werking per 01-01-2015 
 
 1.  Een verzoek om een machtiging of een voorlopige machtiging als bedoeld in de artikelen 29b respectievelijk 29c van de Wet op de jeugdzorg ingediend voor het tijdstip van inwerkingtreding van deze wet, gelden met ingang van dat tijdstip als een verzoek om een machtiging als bedoeld in de artikelen 6.1.2 respectievelijk 6.1.3 van deze wet.   
 2.  Een machtiging en een voorlopige machtiging als bedoeld in de artikelen 29b respectievelijk 29c van de Wet op de jeugdzorg verleend voor het tijdstip van inwerkingtreding van deze wet, gelden met ingang van dat tijdstip als een machtiging als bedoeld in de artikelen 6.1.2 respectievelijk 6.1.3 van deze wet.  
 
 ### Artikel  10.6  
-Treedt in werking per 01-01-2015 
 
 1.  In dit artikel en in de artikelen 10.7 en 10.11 wordt verstaan onder bureau jeugdzorg: stichting die een bureau jeugdzorg onder de Wet op de jeugdzorg in stand hield, zoals die wet luidde tot de inwerkingtreding van artikel 11.7, eerste lid.   
 2.  Voogdij en voorlopige voogdij, uitgeoefend door een bureau jeugdzorg of gemandateerd aan een instelling met een landelijk bereik die op het tijdstip van inwerkingtreding van artikel 11.7, eerste lid, is gecertificeerd, berust met ingang van dat tijdstip bij die gecertificeerde instelling.   
 3.  Het tweede lid is van overeenkomstige toepassing met betrekking tot ondertoezichtstelling, voorlopige ondertoezichtstelling en jeugdreclassering.  
 
 ### Artikel  10.7  
-Treedt in werking per 01-01-2015 
 
 1.  Voogdij of voorlopige voogdij, uitgeoefend door een bureau jeugdzorg of gemandateerd aan een instelling met een landelijk bereik die op het tijdstip van inwerkingtreding van artikel 11.7, eerste lid, niet is gecertificeerd, blijft met ingang van dat tijdstip, doch voor ten hoogste een jaar nadien, uitgeoefend worden door dat bureau jeugdzorg of door die gemandateerde instelling met een landelijk bereik.   
 2.  Ondertoezichtstelling en voorlopige ondertoezichtstelling, opgedragen aan een bureau jeugdzorg of gemandateerd aan een instelling met een landelijk bereik die op het tijdstip van inwerkingtreding van artikel 11.7, eerste lid, niet is gecertificeerd, blijft met ingang van dat tijdstip en totdat de kinderrechter een verlenging van de ondertoezichtstelling of een ondertoezichtstelling heeft uitgesproken, uitgevoerd worden door dat bureau jeugdzorg of door die gemandateerde instelling met een landelijk bereik.   
 3.  Jeugdreclassering, uitgeoefend door een bureau jeugdzorg of gemandateerd aan een instelling met een landelijk bereik die op het tijdstip van inwerkingtreding van artikel 11.7, eerste lid, niet is gecertificeerd, blijft met ingang van dat tijdstip, doch voor ten hoogste een jaar nadien, uitgeoefend worden door dat bureau jeugdzorg of door die gemandateerde instelling met een landelijk bereik.  
 
 ### Artikel  10.8  
-Treedt in werking per 01-01-2015 
 
 1.  Voogdij, voorlopige voogdij of tijdelijke voogdij, uitgeoefend door de rechtspersoon, bedoeld in artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, die op het tijdstip van inwerkingtreding van artikel 11.7, eerste lid, als een gecertificeerde instelling wordt aangemerkt, berust met ingang van dat tijdstip bij die gecertificeerde instelling.   
 2.  Het eerste lid is van overeenkomstige toepassing met betrekking tot de taken van de rechtspersoon, bedoeld in artikel 256, eerste lid, van Boek 1 van het Burgerlijk Wetboek. 
 
 ### Artikel  10.9  
-Treedt in werking per 01-01-2015 
 
 1.  Voogdij, voorlopige voogdij of tijdelijke voogdij uitgeoefend door de rechtspersoon, bedoeld in artikel 302, tweede lid, van Boek 1 van het Burgerlijk Wetboek, die op het tijdstip van inwerkingtreding van artikel 11.7, eerste lid, niet als een gecertificeerde instelling wordt aangemerkt, blijft met ingang van dat tijdstip, doch voor ten hoogste een jaar nadien opgedragen aan de rechtspersoon.   
 2.  Het eerste lid is van overeenkomstige toepassing met betrekking tot de taken van de in artikel 256, eerste lid, van Boek 1 van het Burgerlijk Wetboek bedoelde rechtspersoon. 
 
 ### Artikel  10.10  
-Treedt in werking per 01-01-2015 
 
 In afwijking van artikel 3.2, tweede lid, kan een gemandateerde instelling met een landelijk bereik ook jeugdhulp aanbieden voor ten hoogste een jaar na inwerkingtreding van artikel 11.7, eerste lid. 
 
 ### Artikel  10.11  
-Treedt in werking per 01-01-2015 
 
 In het kalenderjaar waarin artikel 11.7, eerste lid, in werking treedt, besteden de colleges van de bij regeling van Onze Ministers aangewezen gemeenten bij het in die regeling aangewezen bureau jeugdzorg of zijn rechtsopvolger minimaal tachtig procent van het budget dat door de provincie in 2014 is verstrekt aan dat bureau jeugdzorg met het oog op de uitvoering van zijn wettelijke taken. 
 
 ### Artikel  10.12  
-Treedt in werking per 01-01-2015 
 
 1.  Het bestuursorgaan dat op grond van artikel 8.2.3, eerste lid, van deze wet met de vaststelling en inning van ouderbijdragen is belast, stelt een persoon aan die op het tijdstip van inwerkingtreding van artikel 11.7 van deze wet als ambtenaar in de zin van artikel 1 van de Ambtenarenwet bij het Landelijk Bureau Inning Onderhoudsbijdragen, bedoeld in artikel 73 van de Wet op de jeugdzorg, in dienst is en die is belast met het vaststellen en innen van ouderbijdragen en in verband met die inwerkingtreding naar het bestuursorgaan, bedoeld in artikel 8.2.3, overgaat.   
 2.  Op een persoon als bedoeld in het eerste lid, zijn de rechtspositieregels die gelden voor de ambtenaren die zijn aangesteld bij ministeries, van overeenkomstige toepassing. De in die regels neergelegde bevoegdheden, met uitzondering van de aan Ons dan wel de aan Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties toegekende bevoegdheden tot het stellen van regels worden uitgeoefend door het bestuursorgaan dat op grond van artikel 8.2.3, eerste lid, van deze wet met de vaststelling en inning van ouderbijdragen is belast. Voor zover in die regels is bepaald dat bevoegdheden worden uitgeoefend met medebetrokkenheid van Onze Minister van Binnenlandse Zaken en Koninkrijksrelaties, worden deze bevoegdheden uitgeoefend met medebetrokkenheid van Onze Minister van Volksgezondheid, Welzijn en Sport.  
@@ -1996,30 +1797,23 @@ Treedt in werking per 01-01-2015
 
 ####Wijziging van andere wetten
 
-Treedt in werking per 01-01-2015 
-
 ### Artikel  11.1  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Algemene Wet Bijzondere Ziektekosten. 
 
 ### Artikel  11.3  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Zorgverzekeringswet. 
 
 ### Artikel  11.4  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet marktordening gezondheidszorg. 
 
 ### Artikel  11.6  
-Treedt in werking per 01-01-2015 
 
 Wijzigt het Wetboek van Strafrecht. 
 
 ### Artikel  11.7  
-Treedt in werking per 01-01-2015 
 
 1.  De Wet op de jeugdzorg wordt ingetrokken, met dien verstande dat: 
 
@@ -2029,7 +1823,6 @@ b. hoofdstuk VII van de Wet op de jeugdzorg van toepassing blijft op het verstre
 2.  In wettelijke procedures en rechtsgedingen tegen besluiten die op grond van de Wet op de jeugdzorg zijn genomen, dan wel op tegen deze besluiten in te stellen of ingestelde beroepen, blijven, zowel in eerste aanleg als in verdere instantie, de regels van toepassing, die golden voor de intrekking van die wet. Indien het een besluit betreft dat is genomen door een stichting als bedoeld in artikel 1 van de Wet op de jeugdzorg, treedt het college van de gemeente waar de jeugdige zijn woonplaats heeft in de plaats van die stichting.  
 
 ### Artikel  11.8  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wet publieke gezondheid. 
 
@@ -2038,7 +1831,6 @@ Wijzigt de Wet publieke gezondheid.
 ####Slotbepalingen
 
 ### Artikel  12.1  
-Treedt in werking per 01-01-2015 
 
 1.  Bij algemene maatregel van bestuur kunnen met het oog op een doelmatigere en doeltreffendere uitvoering van deze wet, waarbij een optimale samenhangende uitvoering van het vrijwillige en het gedwongen kader voorop staat, regels worden gesteld voor een periode van ten hoogste drie jaar ten behoeve van experimenten, waarbij afgeweken kan worden van artikel 3.2, tweede lid.   
 2.  In een algemene maatregel van bestuur als bedoeld in het eerste lid worden in ieder geval de voorwaarden voor het experiment bepaald en tevens welk resultaat met het experiment wordt beoogd.   
@@ -2046,12 +1838,10 @@ Treedt in werking per 01-01-2015
 4.  Bij algemene maatregel van bestuur kunnen experimenten als bedoeld in het eerste lid na afloop van de looptijd worden voortgezet tot een structurele voorziening is getroffen, doch niet langer dan met een tijdsduur van ten hoogste twee jaar.  
 
 ### Artikel  12.2  
-Treedt in werking per 01-01-2015 
 
 Onze Ministers zenden binnen drie jaar na de inwerkingtreding van de wet aan de Staten-Generaal een verslag over de doeltreffendheid en de effecten van deze wet in de praktijk. 
 
 ### Artikel  12.3  
-Treedt in werking per 01-01-2015 
 
 1.  Indien een gecertificeerde instelling geheel of ten dele is gevormd uit een stichting als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, gaan de verplichtingen die ingevolge de Archiefwet 1995 en de artikelen 55 en 56 van de Wet op de jeugdzorg op die stichting rusten over op de gecertificeerde instelling, behoudens het bepaalde in het vijfde lid. Onder stichting wordt in dit artikel mede verstaan een gemandateerde instelling met een landelijk bereik.   
 2.  Indien een of meer gecertificeerde instellingen zijn gevormd uit een of meer stichtingen als bedoeld in artikel 1, eerste lid, van de Wet op de jeugdzorg, treffen zij gezamenlijk een regeling ten aanzien van de in het eerste lid bedoelde verplichtingen onderscheidenlijk een voorziening als bedoeld in artikel 4, eerste lid, van de Archiefwet 1995.   
@@ -2068,7 +1858,6 @@ c. de taken als bedoeld in artikel 11, eerste lid, van de Wet op de jeugdzorg, u
 7.  Overdracht van bescheiden ingevolge dit artikel geschiedt in goede, geordende en toegankelijke staat. Hiervan maakt de overdragende partij een verklaring van vervreemding op.  
 
 ### Artikel  12.3a  
-Treedt in werking per 01-01-2015 
 
 1.  Archiefbescheiden en de daarmee samenhangende verplichtingen, bedoeld in de Archiefwet 1995, met betrekking tot zorg waarvoor een aanvraag als bedoeld in artikel 10.4a, tweede lid, is ingediend bij een indicatieorgaan als bedoeld in artikel 9a van de Algemene Wet Bijzondere Ziektekosten en waarover op de datum van inwerkingtreding van artikel 11.7 nog geen besluit is genomen, worden door dat indicatieorgaan overgedragen aan het college van de gemeente waar de jeugdige zijn woonplaats heeft en dat gehouden is een voorziening op grond van deze wet te treffen.   
 2.  Voor zover de archiefbescheiden, bedoeld in het eerste lid, zorg betreffen waarvoor op de datum van inwerkingtreding van artikel 11.7 een indicatiebesluit is afgegeven, is het indicatieorgaan, bedoeld in artikel 9a van de Algemene Wet Bijzondere Ziektekosten, zorgdrager als bedoeld in artikel 1 van de Archiefwet 1995 voor zover de archiefbescheiden niet overeenkomstig de Archiefwet 1995 zijn overgebracht naar een archiefbewaarplaats.   
@@ -2095,12 +1884,10 @@ b. de bevoorschotting, en
 c. de te hanteren tarieven.   
 
 ### Artikel  12.5  
-Treedt in werking per 01-01-2015 
 
 Het college publiceert voor het eerst voor 1 juli van het tweede kalenderjaar na het kalenderjaar waarin artikel 2.10 in werking is getreden, de uitkomsten van het in artikel 2.10 van deze wet juncto artikel 2.5.1, eerste lid, van de Wet maatschappelijke ondersteuning 2015 bedoelde onderzoek en verstrekt gelijktijdig de in artikel 7.4.2 juncto 7.4.1, eerste lid, bedoelde gegevens aan Onze Ministers. 
 
 ### Artikel  12.6  
-Treedt in werking per 01-01-2015 
 
 Wijzigt de Wijzigingswet Burgerlijk Wetboek Boek 1, enz. (herziening maatregelen kinderbescherming), kamerstuk 32015.
 

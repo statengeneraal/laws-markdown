@@ -22,9 +22,19 @@ Hebben goedgevonden en verstaan:
 
 In dit besluit en de daarop berustende bepalingen wordt verstaan onder: 
 
+–  *boerderijmelk:* rauwe melk die door een melkveehouder kennelijk bestemd is voor aflevering anders dan aan consumenten; 
+
 –  *kaas:* product dat wordt verkregen door stremming van melk waaraan al dan niet melkbestanddelen zijn toegevoegd of onttrokken, de verwijdering van wei en de rijping tot voor de consumptie gereed product;  
 
+–  *leverantie van boerderijmelk:* de transactie waarbij een melkveehouder boerderijmelk ter beschikking van de ontvanger van boerderijmelk stelt en deze de desbetreffende melk in ontvangst neemt met het kennelijke doel deze te bewerken, te verwerken of te verhandelen; 
+
 –  *melk:* door het melken van één of meer koeien, geiten, schapen of buffelkoeien verkregen product, zonder dat daaraan stoffen worden toegevoegd of onttrokken;  
+
+–  *melkveehouder:* de natuurlijke of rechtspersoon die bedrijfsmatig melkkoeien of melkgeiten houdt; 
+
+–  *ontvanger van boerderijmelk:* de natuurlijke of rechtspersoon die op jaarbasis 500.000 kg of meer boerderijmelk bedrijfsmatig ontvangt van één of meer in Nederland gevestigde melkveehouders en ter zake betalingen aan de desbetreffende melkveehouders verricht, met uitzondering van boerderijzuivelbereiders; 
+
+–  *rauwe melk:* product dat wordt afgescheiden door de melkklier van één of meer koeien of geiten en dat niet verwarmd is tot boven 40°C en dat evenmin een behandeling met een gelijkwaardig effect heeft ondergaan; 
 
 –  *Stichting COKZ:* Stichting Centraal Orgaan voor Kwaliteitsaangelegenheden in de Zuivel te Leusden;  
 
@@ -155,17 +165,35 @@ c. «Boerenscharrel ... met uitloop» of «Hoeve ... met uitloop»;
 
 d. «Boerenscharrel ... met vrije uitloop» of «Hoeve ... met vrije uitloop».    
 
+### Artikel  2.8b  
+
+1.  Bij ministeriële regeling kunnen regels worden gesteld over de leverantie van boerderijmelk.   
+2.  Het is ontvangers van boerderijmelk verboden boerderijmelk in ontvangst te nemen als voor de desbetreffende leverantie van boerderijmelk niet wordt voldaan aan de krachtens het eerste lid gestelde regels.   
+3.  De regels, bedoeld in het eerste lid, kunnen betrekking hebben op onder meer: 
+
+a. de registratie van ontvangers van boerderijmelk;  
+
+b. de hoedanigheid van de boerderijmelk;  
+
+c. de bemonstering van de boerderijmelk en het bewaren van de monsters;  
+
+d. de bepaling van de hoeveelheid, kwaliteit, samenstelling en hoedanigheid van de boerderijmelk;  
+
+e. het vervoer van de boerderijmelk en de vervoermiddelen;  
+
+f. het bijhouden van een administratie.    
+
 ### Artikel  2.9  
 
 ####Overeenkomstige toepassing Landbouwkwaliteitswet
 
 1.  Op de uitvoering van het toezicht en de keuring, bedoeld in de artikelen 2.10 en 2.11, door de instellingen, bedoeld in die artikelen, zijn van overeenkomstige toepassing: 
 
-a. de artikelen 8 tot en met 10, 11, eerste en vierde tot en met zevende lid, en 13 van de Landbouwkwaliteitswet;  
+a. de artikelen 8 tot en met 10, 11, eerste en vierde tot en met zevende lid, en 13 tot en met 13y van de Landbouwkwaliteitswet;  
 
 b. het Tuchtrechtbesluit Landbouwkwaliteitswet.     
 2.  Op de uitvoering van het toezicht op de naleving van regels over de kwaliteit van levensmiddelen van dierlijke oorsprong door Onze Minister, is artikel 11, tweede en vierde tot en met zevende lid, van de Landbouwkwaliteitswet van overeenkomstige toepassing.  
-3.  Artikel 13a van de Landbouwkwaliteitswet is van overeenkomstige toepassing op een recht van een houder van een kwaliteitsaanduiding van een landbouwproduct of levensmiddel van dierlijke oorsprong als bedoeld in artikel 2.6.  
+3.  Artikel 14 van de Landbouwkwaliteitswet is van overeenkomstige toepassing op een recht van een houder van een kwaliteitsaanduiding van een landbouwproduct of levensmiddel van dierlijke oorsprong als bedoeld in artikel 2.6.  
 
 ### Artikel  2.10  
 

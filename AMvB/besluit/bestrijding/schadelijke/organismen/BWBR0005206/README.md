@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van de Staatssecretaris van Landbouw, Natuurbeheer en Visserij van 7 januari 1991, No. J. 9017757, Directie Juridische en Bedrijfsorganisatorische Zaken;
 
-Gelet op [artikel 3, eerste lid, van de Plantenziektenwet](../../../../../../wet/plantenziektenwet/BWBR0002075/README.md) (*Stb.* 1951, 96);
+Gelet op artikel 3, eerste lid, van de Plantenziektenwet (*Stb.* 1951, 96);
 
 Gehoord het Landbouwschap, het Hoofdproduktschap voor Akkerbouwprodukten, het Produktschap voor Siergewassen, het Produktschap voor Groenten en Fruit, de Stichting Bloembollenkeuringsdienst en de Pootaardappel Contactcommissie;
 
@@ -179,11 +179,19 @@ Onze Minister kan, ter voorkoming van het optreden en de verbreiding van schadel
 
 a. het toepassen van ontsmettingsmaatregelen door personen die terreinen of ruimten betreden of verlaten;  
 
-b. het voor de teelt van planten te gebruiken of gebruikt water, en  
+b. het voor de teelt van planten te gebruiken of gebruikt water;  
 
 c. het treffen van voorzieningen in of aan ruimten;  
 
-d. het bewaren, voorhanden of in voorraad hebben, verhandelen, verplaatsen, vervoeren, bewerken en behandelen van een partij.   
+d. het oogsten of rooien, bewaren, voorhanden of in voorraad hebben, verhandelen, verplaatsen, vervoeren, zich ontdoen van of vernietigen, bewerken en behandelen van een partij;  
+
+e. het telen van planten;  
+
+f. het verschaffen van informatie aan derden omtrent de aanwezigheid van een schadelijk organisme op een terrein of perceel;  
+
+g. het verschaffen van informatie aan Onze Minister omtrent de overdracht van de eigendom dan wel het gebruik van een terrein of perceel waar zich een schadelijk organisme bevindt;  
+
+h. het houden en bewaren van een administratie door degene die een terrein of perceel in gebruik heeft.  
 
 ### Artikel  15  
 
@@ -194,15 +202,15 @@ a. een partij als bedoeld in de artikelen 2 en 3 kenmerken of onder verzegeling 
 b. verpakkingsmateriaal als bedoeld in de artikelen 3 en 4 kenmerken of onder verzegeling brengen;  
 
 c. materialen als bedoeld in de artikelen 8, 9, 10 en 11 kenmerken of onder verzegeling brengen.     
-2.   Het is anderen dan de ambtenaren, bedoeld in [artikel 10 van de Plantenziektenwet](../../../../../../wet/plantenziektenwet/BWBR0002075/README.md), verboden de kenmerken en zegels, bedoeld in het eerste lid, te verwijderen, behoudens toestemming van Onze Minister.  
+2.   Het is anderen dan de ambtenaren, bedoeld in artikel 10 van de Plantenziektenwet, verboden de kenmerken en zegels, bedoeld in het eerste lid, te verwijderen, behoudens toestemming van Onze Minister.  
 
 ### Artikel  16  
 
-Een ieder die verschijnselen van aantasting van planten of plantaardige produkten door schadelijke organismen, aangewezen door Onze Minister, waarneemt is verplicht deze verschijnselen onverwijld te melden bij een door Onze Minister aangewezen ambtenaar, dan wel een door Onze Minister, op grond van [artikel 9 van de Plantenziektenwet](../../../../../../wet/plantenziektenwet/BWBR0002075/README.md) (*Stb.* 1951, 96) aangewezen instelling. 
+Een ieder die verschijnselen van aantasting van planten of plantaardige produkten door schadelijke organismen, aangewezen door Onze Minister, waarneemt is verplicht deze verschijnselen onverwijld te melden bij een door Onze Minister aangewezen ambtenaar, dan wel een door Onze Minister, op grond van artikel 9 van de Plantenziektenwet (*Stb.* 1951, 96) aangewezen instelling. 
 
 ### Artikel  17  
 
-1.  Indien in een gebied, op een terrein, perceel of in een ruimte de aanwezigheid van een door Onze Minister aangewezen schadelijk organisme is aangetoond of wordt vermoed, kan Onze Minister met betrekking tot dat gebied, dat terrein, perceel of die ruimte regels stellen als bedoeld in [artikel 3, eerste lid, van de Plantenziektenwet](../../../../../../wet/plantenziektenwet/BWBR0002075/README.md).   
+1.  Indien in een gebied, op een terrein, perceel of in een ruimte de aanwezigheid van een door Onze Minister aangewezen schadelijk organisme is aangetoond of wordt vermoed, kan Onze Minister met betrekking tot dat gebied, dat terrein, perceel of die ruimte regels stellen als bedoeld in artikel 3, eerste lid, van de Plantenziektenwet.   
 2.   Krachtens het eerste lid kunnen worden aangewezen:  
 
 a. schadelijke organismen die de teelt en afzet van planten nadelig kunnen beïnvloeden, of  
@@ -233,8 +241,8 @@ b. planten die gevaar kunnen opleveren voor de vermeerdering of de verspreiding 
 5.   Na de inwerkingtreding van dit besluit berusten de regeling teeltverboden knolcyperus (*Stcrt.* 1985, 79) en de Regeling teeltverboden stengelaaltje (*Stcrt.* 1989, 95) op artikel 17 van dit besluit.   
 6.   Na de inwerkingtreding van dit besluit berust de Regeling aanwijzing schadelijke organismen 1984 (*Stcrt.* 248) op artikel 18 van dit besluit.   
 7.   Vrijstellingen en ontheffingen verleend op grond van artikel 10 van het Besluit bestrijding schadelijke organismen 1959 en nog van kracht bij het in werking treden van dit besluit, worden geacht te zijn gegeven op grond van artikel 19.   
-8.  Verklaringen afgegeven krachtens [artikel 5 van het Besluit bestrijding aardappelmoeheid 1991](../../../../../../AMvB/besluit/bestrijding/aardappelmoeheid/1991/BWBR0005234/README.md), die nog van kracht zijn op het tijdstip van inwerkingtreding van het Besluit van 17 juni 2010, houdende wijziging van het Besluit bestrijding schadelijke organismen en intrekking van het Besluit bestrijding aardappelmoeheid 1991, in verband met de implementatie van Richtlijn 2007/33/EG van de Raad van de Europese Unie van 11 juni 2007 betreffende de bestrijding van het aardappelcysteaaltje en houdende intrekking van Richtlijn 69/465/EEG (PbEU L 156), worden geacht te zijn afgegeven op grond van artikel 12b en zijn, tenzij ze voortijdig worden ingetrokken of de geldigheid verstrijkt, geldig tot en met het moment dat op het voor de verklaring relevante perceel voor de eerste maal door Onze Minister op grond van artikel 12b aangewezen planten worden geteeld.   
-9.  Aanwijzingen van terreinen gedaan krachtens [artikel 6 van het Besluit bestrijding aardappelmoeheid 1991](../../../../../../AMvB/besluit/bestrijding/aardappelmoeheid/1991/BWBR0005234/README.md), die nog van kracht zijn op het tijdstip van inwerkingtreding van het Besluit van 17 juni 2010, houdende wijziging van het Besluit bestrijding schadelijke organismen en intrekking van het Besluit bestrijding aardappelmoeheid 1991 in verband met de implementatie van Richtlijn 2007/33/EG van de Raad van de Europese Unie van 11 juni 2007 betreffende de bestrijding van het aardappelcysteaaltje en houdende intrekking van Richtlijn 69/465/EEG (PbEU L 156), worden geacht te zijn gedaan op grond van het bepaalde bij of krachtens artikel 17. 
+8.  Verklaringen afgegeven krachtens artikel 5 van het Besluit bestrijding aardappelmoeheid 1991, die nog van kracht zijn op het tijdstip van inwerkingtreding van het Besluit van 17 juni 2010, houdende wijziging van het Besluit bestrijding schadelijke organismen en intrekking van het Besluit bestrijding aardappelmoeheid 1991, in verband met de implementatie van Richtlijn 2007/33/EG van de Raad van de Europese Unie van 11 juni 2007 betreffende de bestrijding van het aardappelcysteaaltje en houdende intrekking van Richtlijn 69/465/EEG (PbEU L 156), worden geacht te zijn afgegeven op grond van artikel 12b en zijn, tenzij ze voortijdig worden ingetrokken of de geldigheid verstrijkt, geldig tot en met het moment dat op het voor de verklaring relevante perceel voor de eerste maal door Onze Minister op grond van artikel 12b aangewezen planten worden geteeld.   
+9.  Aanwijzingen van terreinen gedaan krachtens artikel 6 van het Besluit bestrijding aardappelmoeheid 1991, die nog van kracht zijn op het tijdstip van inwerkingtreding van het Besluit van 17 juni 2010, houdende wijziging van het Besluit bestrijding schadelijke organismen en intrekking van het Besluit bestrijding aardappelmoeheid 1991 in verband met de implementatie van Richtlijn 2007/33/EG van de Raad van de Europese Unie van 11 juni 2007 betreffende de bestrijding van het aardappelcysteaaltje en houdende intrekking van Richtlijn 69/465/EEG (PbEU L 156), worden geacht te zijn gedaan op grond van het bepaalde bij of krachtens artikel 17. 
 
 ### Artikel  21  
 
@@ -253,7 +261,7 @@ e. Het Besluit bestrijding iepeziekte (*Stb.* 1977, 445).
 
 ### Artikel  22  
 
-Dit besluit treedt in werking met ingang van de datum van inwerkingtreding van de wet van 23 februari 1987 houdende wijziging van de Planten[ziektewet](../../../../../../wet/ziektewet/BWBR0001888/README.md) (*Stb.* 1951, 96). 
+Dit besluit treedt in werking met ingang van de datum van inwerkingtreding van de wet van 23 februari 1987 houdende wijziging van de Plantenziektewet (*Stb.* 1951, 96). 
 
 ### Artikel  23  
 

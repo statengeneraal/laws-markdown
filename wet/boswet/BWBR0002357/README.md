@@ -101,7 +101,7 @@ b. vruchtbomen en windschermen om boomgaarden;
 c. fijnsparren, niet ouder dan twaalf jaar, bestemd om te dienen als kerstbomen en geteeld op daarvoor in het bijzonder bestemde terreinen;   
 
 d. kweekgoed.      
-3.   Voorts zijn de in het vorige lid bedoelde colleges niet bevoegd regelen te stellen ter bewaring van bossen en andere houtopstanden, welke deel uitmaken van bosbouwondernemingen, die als zodanig bij het Bosschap geregistreerd staan, en niet gelegen zijn binnen een bebouwde kom als bedoeld in artikel 1, vijfde lid, behoudens ter bewaring van houtopstanden als bedoeld in artikel 5, tweede lid.   
+3.  Voorts zijn de in het vorige lid bedoelde colleges niet bevoegd regelen te stellen ter bewaring van bossen en andere houtopstanden, welke niet gelegen zijn binnen een bebouwde kom als bedoeld in artikel 1, vijfde lid, behoudens ter bewaring van houtopstanden als bedoeld in de artikelen 1, vierde lid, onderdeel a, en 5, tweede lid.  
 
 ### Artikel  17  
 

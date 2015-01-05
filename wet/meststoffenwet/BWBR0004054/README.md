@@ -78,11 +78,7 @@ aa.productierecht: varkensrecht of pluimveerecht;
 
 bb.concentratiegebied: concentratiegebied Zuid of concentratiegebied Oost als aangegeven in bijlage I;
 
-cc. bedrijfsoverschot: hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, die in een kalenderjaar op een bedrijf wordt geproduceerd boven de hoeveelheid die in het desbetreffende kalenderjaar: 
-
-1°. ingevolge artikel 8, onderdeel c, mag worden gebracht op of in de tot het desbetreffende bedrijf behorende oppervlakte landbouwgrond, en  
-
-2°. ingevolge de krachtens de artikelen 7 en 15 van de Wet bodembescherming geldende voorschriften mag worden aangebracht op een in Nederland gelegen natuurterrein dat de hoofdfunctie natuur heeft, dat in het desbetreffende kalenderjaar op een bij algemene maatregel van bestuur vast te stellen datum bij het bedrijf in gebruik is;    
+cc. bedrijfsoverschot: hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, die in een kalenderjaar op een bedrijf wordt geproduceerd boven de fosfaatruimte;  
 
 dd. dierlijke meststoffen verwerken:
 
@@ -104,7 +100,25 @@ hh. verwerker: natuurlijke persoon of rechtspersoon die of samenwerkingsverband 
 
 ii. verwerkende onderneming: onderneming, niet zijnde een bedrijf, in het kader waarvan dierlijke meststoffen worden verwerkt;  
 
-jj. huisvestingssysteem: gedeelte van een dierenverblijf, waarin dieren van één diercategorie op dezelfde wijze worden gehouden.    
+jj. huisvestingssysteem: gedeelte van een dierenverblijf, waarin dieren van één diercategorie op dezelfde wijze worden gehouden; 
+
+kk. melkvee:
+
+1°. melk- en kalfkoeien, te weten koeien (bos taurus) die ten minste éénmaal hebben gekalfd en die voor de melkproductie of de fokkerij worden gehouden met inbegrip van koeien die drooggezet zijn alsmede koeien die worden vetgemest en in de mesttijd worden gemolken;  
+
+2°. jongvee jonger dan 1 jaar voor de melkveehouderij, en vrouwelijke opfokkalveren voor de vleeshouderij tot 1 jaar en  
+
+3°. jongvee ouder dan 1 jaar, te weten alle runderen van 1 jaar en ouder inclusief overig vleesvee, maar met uitzondering van roodvleesstieren en fokstieren;   
+
+ll.  fosfaatruimte: hoeveelheid dierlijke meststoffen, uitgedrukt in kilogrammen fosfaat, die in een kalenderjaar 
+
+1°. ingevolge artikel 8, onderdeel c, mag worden gebracht op of in de tot het desbetreffende bedrijf behorende oppervlakte landbouwgrond, en  
+
+2°. ingevolge de krachtens de artikelen 7 en 15 van de Wet bodembescherming geldende voorschriften mag worden aangebracht op een in Nederland gelegen natuurterrein dat de hoofdfunctie natuur heeft en dat in het desbetreffende kalenderjaar op een bij algemene maatregel van bestuur vast te stellen datum bij het bedrijf in gebruik is;    
+
+mm. melkveefosfaatreferentie: een beschikking als bedoeld in artikel 21a, eerste lid;  
+
+nn. melkveefosfaatoverschot: de productie van dierlijke meststoffen door melkvee op het bedrijf in kilogrammen fosfaat, verminderd met de fosfaatruimte en het aantal kilogrammen fosfaat, genoemd in de melkveefosfaatreferentie van dat bedrijf.    
 2.  In deze wet en de daarop berustende bepalingen wordt onder bedrijf mede verstaan: een op het Nederlands grondgebied gelegen deel van een in het buitenland gevestigd bedrijf.   
 3. In het eerste lid, onderdelen n en o, wordt onder perceel verstaan: aaneengesloten, door wegen, waterwegen, sloten, houtopstanden, muren, wallen of anderszins topografisch begrensde oppervlakte grond. 
 4. Voor de toepassing van deze wet wordt veengrond, zand- of lössgrond, en kleigrond aangeduid op bij algemene maatregel van bestuur vastgestelde kaarten. 
@@ -281,17 +295,50 @@ b.worden de aantallen kippen en kalkoenen, onderscheiden naar diercategorie, uit
 
 ### Artikel 19 
 
-Het is verboden op een bedrijf gemiddeld in een kalenderjaar een groter aantal varkens te houden dan het op het bedrijf rustende varkensrecht.
+1. Het is verboden op een bedrijf gemiddeld in een kalenderjaar een groter aantal varkens te houden dan het op het bedrijf rustende varkensrecht. 
+2.  Het is verboden anders dan op een bedrijf op enig moment een groter aantal varkens te houden dan overeenkomt met 3 varkenseenheden. 
 
 ### Artikel 20 
 
 1. Het is verboden op een bedrijf gemiddeld in een kalenderjaar een groter aantal kippen en kalkoenen te houden dan het op het bedrijf rustende pluimveerecht. 
-2. Het eerste lid is niet van toepassing indien op het bedrijf op geen enkel moment een groter aantal kippen en kalkoenen wordt gehouden dan overeenkomt met 250 pluimvee-eenheden.
+2. Het eerste lid is niet van toepassing indien op het bedrijf op geen enkel moment een groter aantal kippen en kalkoenen wordt gehouden dan overeenkomt met 250 pluimvee-eenheden. 
+3.  Het is verboden anders dan op een bedrijf op enig moment een groter aantal kippen en kalkoenen te houden dan overeenkomt met 250 pluimvee-eenheden. 
 
 ### Artikel 21 
 
-1. Het is verboden anders dan op een bedrijf op enig moment een groter aantal varkens te houden dan overeenkomt met 3 varkenseenheden. 
-2. Het is verboden anders dan op een bedrijf op enig moment een groter aantal kippen en kalkoenen te houden dan overeenkomt met 250 pluimvee-eenheden.
+1.  Het is een landbouwer verboden op zijn bedrijf in enig kalenderjaar fosfaat met melkvee te produceren.   
+2.  Het eerste lid is, onverminderd artikel 33a, niet van toepassing op een landbouwer die in het desbetreffende kalenderjaar: 
+
+a. op zijn bedrijf minder dan 250 kilogram fosfaat met melkvee produceert,  
+
+b. op zijn bedrijf geen bedrijfsoverschot produceert,  
+
+c. op zijn bedrijf geen melkveefosfaatoverschot produceert,  
+
+d. 100%, verminderd met het percentage, bedoeld in artikel 33a, tweede lid, onderdeel b, van het melkveefosfaatoverschot: 
+
+1°. laat verwerken,  
+
+2°. voor zover de landbouwer behoort tot een bij regeling van Onze Minister aan te wijzen categorie landbouwers, overdraagt of laat overdragen aan een afnemer die behoort tot een bij regeling van Onze Minister aan te wijzen categorie afnemers,  
+
+3°. brengt op of in de in gebruik zijnde landbouwgrond die is gelegen in Duitsland of België op een bij regeling van Onze Minister vast te stellen afstand van de Nederlandse grens, voor zover is voldaan aan bij regeling van Onze Minister te stellen voorwaarden,  
+
+4°. geheel en rechtstreeks, blijkens een schriftelijke en vooraf gesloten overeenkomst, onder bij regeling van Onze Minister te stellen voorwaarden overdraagt of laat overdragen aan een hemelsbreed hoogstens twintig kilometer van de productielocatie verwijderd liggende locatie van bedrijven indien de overgedragen dierlijke meststoffen op landbouwgrond aangewend worden, of  
+
+5°. produceert met dieren waarvan ten minste 90% behoort tot een diercategorie die bij algemene maatregel van bestuur kan worden aangewezen of is gehuisvest in een huisvestingssysteem dat bij die maatregel kan worden aangewezen, omdat hierbij overwegend meststoffen worden geproduceerd met een hoog gehalte aan organische stof in de vorm van stro en die voldoen aan regels die bij of krachtens algemene maatregel van bestuur kunnen worden gesteld.       
+3.  Artikel 33a, derde lid, is van overeenkomstige toepassing op het tweede lid, onderdeel d, onder 1.   
+4.  Bij de toepassing van het tweede lid, onderdeel d, blijven die kilogrammen fosfaat buiten beschouwing, die reeds in aanmerking zijn genomen voor de toepassing van artikel 33a, tweede lid, onderdelen b tot en met e.   
+5.  De rechtvaardigingsgrond, bedoeld in artikel 21, tweede lid, onderdeel d wordt bij algemene maatregel van bestuur beperkt.   
+6.  Het ontwerp van een krachtens het vijfde lid vast te stellen algemene maatregel van bestuur wordt aan de beide kamers der Staten-Generaal overgelegd. De voordacht voor de vast te stellen algemene maatregel van bestuur kan worden gedaan nadat vier weken na de overlegging zijn verstreken, tenzij binnen die termijn door of namens een der kamers of door ten minste een vijfde van het grondwettelijk aantal leden van een der kamers de wens te kennen wordt gegeven dat het onderwerp van de algemene maatregel van bestuur bij wet wordt geregeld. In dat geval wordt een daartoe strekkend voorstel van wet zo spoedig mogelijk ingediend. Indien het voorstel van wet wordt ingetrokken of indien een van de beide kamers van de Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur ingetrokken. 
+
+### Artikel  21a  
+
+1.  Onze Minister verleent aan een landbouwer, die in het kalenderjaar 2013 melkvee hield een melkveefosfaatreferentie, uitgedrukt in kilogrammen fosfaat. De melkveefosfaatreferentie vermeldt het bedrijf waarvoor de melkveefosfaatreferentie wordt afgegeven.   
+2.  De melkveefosfaatreferentie wordt berekend door de forfaitaire productie van dierlijke meststoffen door melkvee in het kalenderjaar 2013 op het bedrijf te verminderen met de fosfaatruimte van dat bedrijf in 2013. Bij de berekening volgens de eerste volzin wordt elk resultaat dat negatief is, op nul gesteld.   
+3.  Indien een landbouwer aantoont dat door bedrijfsoverdrachten tussen 1 januari 2013 en 1 november 2014, een lagere melkveefosfaatreferentie wordt afgegeven dan wanneer deze bedrijfsoverdrachten zouden zijn betrokken bij de berekening, bedoeld in het eerste lid, wordt de melkveefosfaatreferentie met inachtneming van deze bedrijfsoverdrachten vastgesteld.   
+4.  De forfaitaire productie van dierlijke meststoffen door melkvee wordt vastgesteld overeenkomstig de regels, bedoeld in artikel 35.   
+5.  De melkveefosfaatreferentie kan worden overgedragen aan een landbouwer waarmee bloed- of aanverwantschap in de eerste, tweede of derde graad bestaat voor het bedrijf waarvoor de melkveefosfaatreferentie is afgegeven.   
+6.  De melkveefosfaatreferentie gaat over aan degene die het bedrijf waarvoor deze melkveefosfaatreferentie is afgegeven bij erfopvolging verkrijgt.  
 
 ### Artikel 22 
 
@@ -556,11 +603,6 @@ b.de kosten van het onderzoek voortvloeiende uit de aanvraag geheel of gedeeltel
 1.  Indien in deze wet geregelde onderwerpen in het belang van een goede uitvoering van de wet nadere regeling behoeven, kan deze geschieden bij algemene maatregel van bestuur.    
 2.  Indien onderwerpen waarop deze wet van toepassing is, ter uitvoering van een bindend besluit van de Raad van de Europese Unie, van het Europees Parlement en de Raad gezamenlijk of van de Commissie van de Europese Gemeenschappen regeling behoeven, kan dit geschieden bij ministeriële regeling.   
 
-### Artikel  41  
-
-1.  Bij of krachtens algemene maatregel van bestuur kan medewerking worden gevorderd van het bestuur van een bedrijfslichaam.   
-2.  Indien de van het bestuur van een bedrijfslichaam gevorderde medewerking bestaat in het stellen van nadere regels bij verordening, behoeft deze verordening de goedkeuring van Onze Minister en van Onze Ministers wie het mede aangaat, tezamen. Krachtens de verordening genomen besluiten behoeven, voorzover dit bij of krachtens de maatregel als bedoeld in het eerste lid is bepaald, de goedkeuring van de daarbij aangewezen autoriteit.  
-
 ### Artikel  43  
 
 1. Afdeling 3.4 van de Algemene wet bestuursrecht is van toepassing op de voorbereiding van:
@@ -616,7 +658,7 @@ Onze Minister is bevoegd tot oplegging van een last onder bestuursdwang ter hand
 
 ### Artikel  51  
 
-Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de artikelen 7, 9, tweede en derde lid, 11, vijfde lid, 13, vierde lid, 14, eerste lid, 15, 33a, eerste, vierde, vijfde en zevende lid, 33b, vijfde lid, 33d, eerste lid 34, 35, 36, 37, 38, derde lid, of 40.
+Onze Minister kan een bestuurlijke boete opleggen ter zake van overtreding van het bepaalde bij of krachtens de artikelen 7, 9, tweede en derde lid, 11, vijfde lid, 13, vierde lid, 14, eerste lid, 15, 21, eerste lid, 33a, eerste, vierde, vijfde en zevende lid, 33b, vijfde lid, 33d, eerste lid 34, 35, 36, 37, 38, derde lid, of 40.
 
 ### Artikel 55 
 
@@ -643,6 +685,10 @@ c.€ 11 per kilogram fosfaat waarmee de in artikel 8, onderdeel c, bedoelde fo
 1. Ingeval van overtreding van artikel 14, eerste lid, bedraagt de bestuurlijke boete € 11 per kilogram fosfaat en € 7 per kilogram stikstof waarvan de afvoer niet kan worden verantwoord. 
 2. In afwijking van het eerste lid wordt geen bestuurlijke boete opgelegd voor zover wegens overtreding van artikel 7 een bestuurlijke boete wordt opgelegd voor de kilogrammen stikstof en fosfaat waarmee de in artikel 8 bedoelde stikstofgebruiksnorm voor meststoffen, onderscheidenlijk fosfaatgebruiksnorm voor meststoffen is overschreden.
 
+### Artikel  58a  
+
+In geval van overtreding van artikel 21, eerste lid, bedraagt de bestuurlijke boete € 11 per kilogram fosfaat ten aanzien waarvan de landbouwer niet heeft gehandeld overeenkomstig artikel 21, tweede lid, onderdeel d. 
+
 ### Artikel  59  
 
 1.  In geval van overtreding van artikel 33a, eerste lid, bedraagt de bestuurlijke boete € 11 per kilogram fosfaat ten aanzien waarvan de landbouwer niet heeft gehandeld overeenkomstig artikel 33a, tweede lid, onderdeel b.   
@@ -653,14 +699,14 @@ c.€ 11 per kilogram fosfaat waarmee de in artikel 8, onderdeel c, bedoelde fo
 
 ### Artikel 60 
 
-1. Bij algemene maatregel van bestuur kunnen van de artikelen 57, eerste lid, 58, eerste lid, en 59 afwijkende tarieven worden vastgesteld. 
+1. Bij algemene maatregel van bestuur kunnen van de artikelen 57, eerste lid, 58, eerste lid, 58a en 59 afwijkende tarieven worden vastgesteld. 
 2. De afwijking bedraagt ten hoogste 50%. 
 3. Na de plaatsing in het Staatsblad van de algemene maatregel van bestuur wordt een voorstel van wet tot regeling van het betrokken onderwerp zo spoedig mogelijk bij de Staten-Generaal ingediend. Indien het voorstel wordt ingetrokken of indien een van de beide kamers der Staten-Generaal besluit het voorstel niet aan te nemen, wordt de algemene maatregel van bestuur onverwijld ingetrokken. Wordt het voorstel tot wet verheven, dan wordt de algemene maatregel van bestuur ingetrokken op het tijdstip van inwerkingtreding van die wet. 
 4. Artikel 1, tweede lid, van het Wetboek van Strafrecht is van overeenkomstige toepassing.
 
 ### Artikel 62 
 
-1.  De op grond van artikel 57, 58 of 59 te bepalen bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een rechtspersoon of een vennootschap.   
+1.  De op grond van artikel 57, 58, 58a of 59 te bepalen bestuurlijke boete bedraagt ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een natuurlijke persoon, en ten hoogste het bedrag dat is bepaald voor de zesde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht, per overtreding begaan door een rechtspersoon of een vennootschap.   
 2.  Bij of krachtens algemene maatregel van bestuur worden regels gesteld over de hoogte van de bestuurlijke boete die voor een overtreding of voor categorieën van overtredingen ten hoogste kan worden opgelegd ter zake van overtreding van het bij of krachtens artikel 9, tweede en derde lid, 11, vijfde lid, 13, vierde lid, 15, 33b, vijfde lid, 34, 35, 36, 37, 38, derde lid, of 40 bepaalde.   
 3.  De op grond van het tweede lid te bepalen bestuurlijke boete bedraagt per overtreding ten hoogste het bedrag dat is bepaald voor de vijfde categorie, bedoeld in artikel 23, vierde lid, van het Wetboek van Strafrecht. 
 

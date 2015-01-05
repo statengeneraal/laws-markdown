@@ -1410,7 +1410,7 @@ f. *vervoerder:* persoon door of namens wie een overeenkomst van personenvervoer
 
 g. *feitelijke vervoerder:* een andere persoon dan de vervoerder, zijnde de eigenaar, bevrachter of exploitant van een schip, die het vervoer feitelijk geheel of gedeeltelijk verricht;  
 
-h. *vervoerder die het vervoer feitelijk geheel of gedeeltelijk verricht:* de feitelijke vervoerder, of, voor zover de vervoerder zelf het vervoer verricht, de vervoerder.  
+h. *vervoerder die het vervoer feitelijk geheel of gedeeltelijk verricht:* de feitelijke vervoerder, of, voor zover de vervoerder zelf het vervoer verricht, de vervoerder;  
 
 i. *reiziger:* iedere persoon vervoerd op een schip krachtens een overeenkomst van personenvervoer en iedere persoon vervoerd op een schip die met toestemming van de vervoerder een voertuig of levend dier begeleidt, waarvoor een overeenkomst van goederenvervoer is gesloten;  
 
@@ -1431,7 +1431,7 @@ n. *Onze Minister:* de Minister van Infrastructuur en Milieu.
 ### Artikel  500a  
 
 1.  Deze afdeling is van toepassing op de overeenkomst van personenvervoer voor zover daarop niet de Verordening van toepassing is.   
-2.  In afwijking van het eerste lid zijn op de overeenkomst van personenvervoer waarop de Verordening van toepassing is, de artikelen 509 tot en met 510, 512, 514 tot en met 515 en 521 tot en met 529k van deze afdeling van toepassing.   
+2.  In afwijking van het eerste lid zijn op de overeenkomst van personenvervoer waarop de Verordening van toepassing is, de artikelen 509 tot en met 510, 512, 514, 515 en 521 tot en met 529k van deze afdeling van toepassing.   
 3.  In afwijking van het eerste lid zijn op de overeenkomst van internationaal personenvervoer waarop het Verdrag noch de Verordening van toepassing is, de artikelen 529 tot en met 529k niet van toepassing.  
 
 ### Artikel  500b  
@@ -1473,7 +1473,7 @@ c. wordt onder defect aan het schip verstaan: gebrekkig of niet functioneren of 
 
 1° ontsnapping, evacuatie, inscheping en ontscheping van reizigers;  
 
-2° aandrijving, besturing, veilig navigeren, afmeren, ankeren;  
+2° aandrijving, besturing, veilig navigeren, afmeren of ankeren;  
 
 3° het aankomen op of vertrekken van een aanleg- of ankerplaats;  
 
@@ -1529,7 +1529,7 @@ Indien een rechtsvordering tegen een ondergeschikte, vertegenwoordiger of lasthe
 
 ### Artikel  504f  
 
-Deze afdeling laat de titels 7 en 12 van dit boek onverlet. 
+Deze afdeling laat de titels 7 en 12 onverlet. 
 
 ### Artikel  507  
 
@@ -1537,7 +1537,7 @@ De vervoerder is niet aansprakelijk voor verlies of beschadiging van geld, verha
 
 ### Artikel  509  
 
-Onverminderd artikel 508 en onverminderd artikel 179 van Boek 6 is de reiziger verplicht de vervoerder de schade te vergoeden die hij of zijn bagage deze berokkende, behalve voor zover deze schade is veroorzaakt door een omstandigheid die een zorgvuldig reiziger niet heeft kunnen vermijden en voor zover zulk een reiziger de gevolgen daarvan niet heeft kunnen verhinderen. De reiziger kan niet om zich van zijn aansprakelijkheid te ontheffen beroep doen op de hoedanigheid of een gebrek van zijn bagage.  
+Onverminderd artikel 179 van Boek 6 is de reiziger verplicht de vervoerder de schade te vergoeden die hij of zijn bagage deze berokkende, behalve voor zover deze schade is veroorzaakt door een omstandigheid die een zorgvuldig reiziger niet heeft kunnen vermijden en voor zover zulk een reiziger de gevolgen daarvan niet heeft kunnen verhinderen. De reiziger kan niet om zich van zijn aansprakelijkheid te ontheffen beroep doen op de hoedanigheid of een gebrek van zijn bagage.  
 
 ### Artikel  510  
 
@@ -1623,13 +1623,13 @@ Wanneer de reiziger na verlaten van het schip niet tijdig terugkeert kan de verv
 ### Artikel  529  
 
 1.  De vervoerder die feitelijk geheel of gedeeltelijk passagiers vervoert aan boord van een in Nederland te boek staand schip dat vergunning heeft voor het vervoeren van meer dan twaalf reizigers, is verplicht een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden ter dekking van de uit deze afdeling voortvloeiende aansprakelijkheid voor schade door dood of letsel van een reiziger. Het minimumbedrag van deze verplichte verzekering of andere financiële zekerheid beloopt ten minste het in artikel 4bis, eerste lid, van het Verdrag genoemde bedrag, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 23 van het Protocol, per reiziger per incident.   
-2.  De vervoerder die feitelijk geheel of gedeeltelijk reizigers vervoert aan boord van een in Nederland te boek staand schip dat vergunning heeft voor het vervoeren van meer dan twaalf reizigers, is verplicht een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden ter dekking van de uit deze afdeling voortvloeiende aansprakelijkheid voor schade door dood of letsel van een reiziger ten gevolge van een van de risico’s die zijn genoemd in punt 2.2 van de IMO richtsnoeren. Het minimumbedrag van deze verplichte verzekering of andere financiële zekerheid beloopt ten minste het laagste van de volgende bedragen: 
+2.  De vervoerder die feitelijk geheel of gedeeltelijk passagiers vervoert aan boord van een in Nederland te boek staand schip dat vergunning heeft voor het vervoeren van meer dan twaalf passagiers, is verplicht een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden ter dekking van de uit deze afdeling voortvloeiende aansprakelijkheid voor schade door dood of letsel van een reiziger ten gevolge van een van de risico’s die zijn genoemd in punt 2.2 van de IMO richtsnoeren. Het minimumbedrag van deze verplichte verzekering of andere financiële zekerheid beloopt ten minste het laagste van de volgende bedragen: 
 
 – 250 000 rekeneenheden per passagier, per afzonderlijk incident, of  
 
 – 340 miljoen rekeneenheden in totaal per schip, per afzonderlijk incident.     
 3.  De vervoerder die feitelijk geheel of gedeeltelijk passagiers vervoert aan boord van een schip dat vergunning heeft voor het vervoeren van meer dan twaalf reizigers en dat te boek staat buiten Nederland of een andere dan de Nederlandse vlag voert, is verplicht om, indien het schip een haven of laad- of losplaats in Nederland aanloopt of verlaat, of een Nederlands binnenwater bevaart, een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden ter dekking van de uit deze afdeling voortvloeiende aansprakelijkheid voor schade door dood of letsel van een reiziger. Het minimumbedrag van deze verplichte verzekering of andere financiële zekerheid beloopt ten minste het in artikel 4bis, eerste lid, van het Verdrag genoemde bedrag, behoudens wijziging door de bijzondere amenderingsprocedure voorzien in artikel 23 van het Protocol, per reiziger per incident.   
-4.  De vervoerder die feitelijk geheel of gedeeltelijk reizigers vervoert aan boord van een schip dat vergunning heeft voor het vervoeren van meer dan twaalf reizigers en dat te boek staat buiten Nederland of een andere dan de Nederlandse vlag voert, is verplicht om, indien het schip een haven of laad- of losplaats in Nederland aanloopt of verlaat, of een Nederlands binnenwater bevaart, een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden ter dekking van de uit deze afdeling voortvloeiende aansprakelijkheid voor schade door dood of letsel van een reiziger ten gevolge van een van de risico’s die zijn genoemd in punt 2.2 van de IMO richtsnoeren. Het minimumbedrag van deze verplichte verzekering of andere financiële zekerheid beloopt ten minste het laagste van de volgende bedragen: 
+4.  De vervoerder die feitelijk geheel of gedeeltelijk passagiers vervoert aan boord van een schip dat vergunning heeft voor het vervoeren van meer dan twaalf passagiers en dat te boek staat buiten Nederland of een andere dan de Nederlandse vlag voert, is verplicht om, indien het schip een haven of laad- of losplaats in Nederland aanloopt of verlaat, of een Nederlands binnenwater bevaart, een verzekering of andere financiële zekerheid, zoals een bankgarantie, in stand te houden ter dekking van de uit deze afdeling voortvloeiende aansprakelijkheid voor schade door dood of letsel van een reiziger ten gevolge van een van de risico’s die zijn genoemd in punt 2.2 van de IMO richtsnoeren. Het minimumbedrag van deze verplichte verzekering of andere financiële zekerheid beloopt ten minste het laagste van de volgende bedragen: 
 
 – 250 000 rekeneenheden per passagier, per afzonderlijk incident, of  
 
@@ -1706,7 +1706,7 @@ Bij algemene maatregel van bestuur kunnen regels worden gesteld betreffende de v
 
 ### Artikel  529k  
 
-In afwijking van artikel 8:7 van de Algemene wet bestuursrecht is voor beroepen tegen besluiten op grond van deze afdeling de rechtbank te Rotterdam bevoegd. 
+In afwijking van artikel 8:7 van de Algemene wet bestuursrecht is voor beroepen tegen besluiten op grond van deze afdeling de rechtbank Rotterdam bevoegd. 
 
 ### Afdeling  4  
 

@@ -46,9 +46,9 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 –de leden van dagelijkse besturen van waterschappen, waaronder de voorzitters;
 
-–de voorzitter, de plaatsvervangende voorzitters en de andere leden van de Sociaal-Economische Raad, de voorzitters en de plaatsvervangende voorzitters van de produkt-, de hoofdbedrijf- en de bedrijfschappen en de leden van de besturen van deze lichamen, alsmede degenen die deel uitmaken van organen van lichamen als bedoeld in artikel 110 van de Wet op de Bedrijfsorganisatie;
+–de voorzitter, de plaatsvervangende voorzitters en de andere leden van de Sociaal-Economische Raad;
 
-–het personeel in dienst van de Sociaal-Economische Raad, de produkt-, de hoofdbedrijf- en de bedrijfschappen en de lichamen, bedoeld in artikel 110 van de Wet op de Bedrijfsorganisatie;
+–het personeel in dienst van de Sociaal-Economische Raad;
 
 –de leden van de Raden van bestuur van het Uitvoeringsinstituut werknemersverzekeringen en de Sociale verzekeringsbank, bedoeld in de Wet structuur uitvoeringsorganisatie werk en inkomen;
 
@@ -88,7 +88,9 @@ Zoo is het, dat Wij, den Raad van State gehoord, en met gemeen overleg der State
 
 – de buitengriffiers en de waarnemend griffiers, bedoeld in de artikelen 14, vierde lid, en 73, tweede lid, van de Wet op de rechterlijke organisatie; 
 
-–de voorzitter en de leden van het CAK, genoemd in artikel 48, eerste lid, van de Algemene Wet Bijzondere Ziektekosten.  
+–de voorzitter en de leden van het CAK, genoemd in artikel 6.1.1, eerste lid, van de Wet langdurige zorg;
+
+– de voorzitter en de leden van het CIZ, genoemd in 7.1.1, eerste lid, van de Wet langdurige zorg.   
 2.  De artikelen 125, 125bis, 125ter, 125quater, 125quinquies, 125a, 125c, 125d, 125f en 126 zijn niet van toepassing op de rechterlijke ambtenaren, bedoeld in artikel 1, onderdeel b, onderdelen 5° tot en met 9°, van de Wet op de rechterlijke organisatie, en de rechterlijke ambtenaren in opleiding, bedoeld in artikel 145 van diezelfde wet.  
 
 ### Titel  II  

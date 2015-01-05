@@ -29,7 +29,7 @@ g. bediening: handelingen nodig voor het gebruik van de infrastructuur en voor h
 
 h. basisinformatie: het inwinnen, bewerken en verspreiden van gegevens nodig voor het beschrijven, van het verkeer te water, van het wegverkeer en van het verkeer over spoorwegen, met het oog op aanleg en gebruik van infrastructuur;   
 
-i. regionaal openbaar lichaam: een plusregio als bedoeld in artikel 104 van de Wet gemeenschappelijke regelingen die de gemeente of gemeenten Amsterdam, Arnhem en Nijmegen, Eindhoven en Helmond, Enschede en Hengelo, 's-Gravenhage, Rotterdam of Utrecht omvat;   
+i. regionaal openbaar lichaam: een openbaar lichaam als bedoeld in artikel 20, derde lid, van de Wet personenvervoer 2000;  
 
 j. intermodaal vervoer: vervoer van goederen in de aangeboden laadeenheid door middel van twee of meer vervoersmodaliteiten.    
 

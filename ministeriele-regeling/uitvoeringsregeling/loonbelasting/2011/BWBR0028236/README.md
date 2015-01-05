@@ -17,7 +17,7 @@ Besluit:
 
 ####Reikwijdte
 
-Deze regeling geeft uitvoering aan de artikelen 5b, 6, 8, 8a, 11, 11b, 12, 13, 13bis, 18, 19a, 19f, 25, vierde lid, 26, zesde lid, 27, 28, 28a, 29, 31, eerste lid, onderdeel c, 31a, 32ab, 32ba, 33, 35, 35d, 35e, 35g, 35k, 35l, 35m en 39c, eerste lid, van de Wet op de loonbelasting 1964 en de artikelen 2e, 10e en 10eb van het Uitvoeringsbesluit loonbelasting 1965. 
+Deze regeling geeft uitvoering aan de artikelen 5b, 6, 8, 8a, 11, 11b, 12, 13, 13bis, 18, 19a, 19f, 25, vierde lid, 26, zesde lid, 27, 28, 28a, 29, 31, eerste lid, onderdeel c, 31a, 32, 32ab, 32ba, 33, 35, 35d, 35e, 35g, 35k, 35l, 35m en 39c, eerste lid, van de Wet op de loonbelasting 1964 en de artikelen 2e, 10e en 10eb van het Uitvoeringsbesluit loonbelasting 1965. 
 
 ### Artikel  1.2  
 
@@ -296,9 +296,7 @@ Tot het loon behoort niet de krachtens de Wet inkomensvoorziening oudere en gede
 
 a. voorzieningen waarvan het niet gebruikelijk is deze elders te gebruiken of verbruiken;  
 
-b. voorzieningen die rechtstreeks voortvloeien uit het arbeidsomstandighedenbeleid dat de inhoudingsplichtige voert op grond van de Arbeidsomstandighedenwet;  
-
-c.ter beschikking gestelde kleding die:
+b.ter beschikking gestelde kleding die:
 
 1°.uitsluitend of nagenoeg uitsluitend geschikt is om tijdens de vervulling van de dienstbetrekking te worden gedragen;
 
@@ -306,14 +304,10 @@ c.ter beschikking gestelde kleding die:
 
 3°.achterblijft op de werkplek; 
 
-d. consumpties die geen deel uitmaken van een maaltijd;  
+c. consumpties die geen deel uitmaken van een maaltijd;  
 
-e. ter beschikking gestelde hulpmiddelen, waaronder computers en dergelijke apparatuur, gereedschappen en toebehoren, die ook elders gebruikt kunnen worden en die geheel of nagenoeg geheel zakelijk gebruikt worden;  
-
-f. ter beschikking gestelde mobiele communicatiemiddelen – niet zijnde computers en dergelijke apparatuur – waarvan het zakelijke gebruik van meer dan bijkomstig belang is;  
-
-g.huisvesting en inwoning, met inbegrip van – indien mede verstrekt – het genot van energie, water en bewassing, ter vervulling van de dienstbetrekking, indien de werknemer niet op de werkplek woont en zich redelijkerwijs niet aan deze voorziening kan onttrekken.   
-2.  In afwijking in zoverre van artikel 1.2, eerste lid, onderdeel f, wordt voor de toepassing van het eerste lid, onderdeel b, in geval van thuiswerk in de zin van de Arbeidsomstandighedenwet onder werkplek tevens verstaan een werkruimte gelegen in een woning, een duurzaam aan een plaats gebonden schip of een woonwagen in de zin van artikel 1 van de Huisvestingswet, de aanhorigheden daaronder begrepen, van de werknemer.  
+d.huisvesting en inwoning, met inbegrip van – indien mede verstrekt – het genot van energie, water en bewassing, ter vervulling van de dienstbetrekking, indien de werknemer niet op de werkplek woont en zich redelijkerwijs niet aan deze voorziening kan onttrekken.   
+2.  In afwijking in zoverre van artikel 1.2, eerste lid, onderdeel f, worden voor de toepassing van het eerste lid, onderdeel a, met betrekking tot personeelsfestiviteiten met een gezamenlijk karakter onder werkplek verstaan alle werkplekken van werknemers van de inhoudingsplichtige of een met de inhoudingsplichtige in concernverband opererende inhoudingsplichtige als bedoeld in artikel 32 van de wet.  
 
 ### Artikel  3.8  
 
@@ -321,9 +315,9 @@ g.huisvesting en inwoning, met inbegrip van – indien mede verstrekt – het ge
 
 De waarde van de volgende voorzieningen die op de werkplek gebruikt of verbruikt worden, wordt gesteld op de daarbij vermelde bedragen: 
 
-a. maaltijden: de waarde wordt gesteld op € 3,15;  
+a. maaltijden: de waarde wordt gesteld op € 3,20;  
 
-b. huisvesting en inwoning, anders dan de ter behoorlijke vervulling van de dienstbetrekking ter beschikking gestelde woning, met inbegrip van – indien mede verstrekt – het genot van energie, water en bewassing: de waarde wordt gesteld € 5,35 per dag;  
+b. huisvesting en inwoning, anders dan de ter behoorlijke vervulling van de dienstbetrekking ter beschikking gestelde woning, met inbegrip van – indien mede verstrekt – het genot van energie, water en bewassing: de waarde wordt gesteld € 5,40 per dag;  
 
 c. door de inhoudingsplichtige verrichte kinderopvang waarvoor aanspraak op een kinderopvangtoeslag onderscheidenlijk aanspraak op een tegemoetkoming kan ontstaan op de voet van artikel 1.5 van de Wet kinderopvangen kwaliteitseisen peuterspeelzalen: de waarde wordt gesteld op het aantal uren genoten kinderopvang maal de uurprijs vastgesteld krachtens artikel 1.7, tweede lid, van de Wet kinderopvang en kwaliteitseisen peuterspeelzalen.   
 
@@ -693,6 +687,50 @@ d. de volgende landen in Europa: Albanië, Armenië, Azerbeidzjan, Belarus, Bosn
 1.  Voor de toepassing van artikel 31a, tweede lid, onderdeel f, van de wet verhuist de werknemer in ieder geval in het kader van de dienstbetrekking ingeval hij binnen twee jaar na de aanvaarding van een nieuwe dienstbetrekking of na overplaatsing binnen de bestaande dienstbetrekking door de verhuizing de afstand tussen zijn woning en de plaats van zijn dienstbetrekking met ten minste 60% verkleint terwijl tot die verhuizing de afstand tussen zijn woning en de plaats van zijn dienstbetrekking ten minste 25 kilometer bedroeg.   
 2.  Onder afstand als bedoeld in het eerste lid wordt verstaan de afstand gemeten langs de meest gebruikelijke weg.  
 
+### Artikel  8.4a  
+
+####Gericht vrijgestelde vergoedingen en verstrekkingen van voorzieningen op de werkplek
+
+1.  Tot de voorzieningen, bedoeld in artikel 31a, tweede lid, onderdeel h, van de wet, behoren, ingeval deze geheel of gedeeltelijk op de werkplek gebruikt of verbruikt worden: 
+
+a. voorzieningen die rechtstreeks voortvloeien uit het arbeidsomstandighedenbeleid dat de inhoudingsplichtige voert op grond van de Arbeidsomstandighedenwet;  
+
+b. hulpmiddelen die ook elders gebruikt kunnen worden en die geheel of nagenoeg geheel zakelijk gebruikt worden.     
+2.  In afwijking in zoverre van artikel 1.2, eerste lid, onderdeel f, wordt voor de toepassing van het eerste lid, onderdeel a, onder werkplek tevens verstaan: 
+
+1°. in geval van thuiswerk in de zin van de Arbeidsomstandighedenwet een werkruimte gelegen in een woning, een duurzaam aan een plaats gebonden schip of een woonwagen in de zin van artikel 1, onderdeel l, van de Wet op de huurtoeslag, de aanhorigheden daaronder begrepen, van de werknemer;  
+
+2°. de plaats waar uitvoering wordt gegeven aan het arbeidsomstandighedenbeleid dat de inhoudingsplichtige voert op grond van de Arbeidsomstandighedenwet.    
+
+### Artikel  8.4b  
+
+####Toepassing concernregeling
+
+1.  Iedere inhoudingsplichtige die ingevolge artikel 32, eerste lid, van de wet samen met andere inhoudingsplichtigen als één inhoudingsplichtige wordt beschouwd legt in zijn administratie vast: 
+
+a. het door hem verstrekte loon waarover in het kalenderjaar met toepassing van de artikelen 20a, 20b, 26 en 26b van de wet belasting is geheven;  
+
+b. het door hem verstrekte loon dat ingevolge artikel 31a, tiende lid, van de wet bij de bepaling van het loon, bedoeld in artikel 31a, tweede lid, van de wet, buiten beschouwing wordt gelaten;  
+
+c. de in het kalenderjaar ingevolge artikel 31, eerste lid, onderdeel f en onderdeel g, van de wet door hem aangewezen vergoedingen en verstrekkingen, met uitzondering van de vergoedingen en verstrekkingen die ingevolge artikel 31a, tweede lid, van de wet naast 1,2% van het loon, bedoeld in artikel 31a, tweede lid, van de wet, met inachtneming van artikel 31a, tiende lid, van de wet, in mindering komen;  
+
+d. van de andere inhoudingsplichtigen, bedoeld in de aanhef, per inhoudingsplichtige: 
+
+1°. de naam en het voor de loonbelasting, premie voor de volksverzekeringen, premies werknemersverzekeringen en inkomensafhankelijke bijdrage Zorgverzekeringswet geldende identificatienummer (loonheffingennummer);  
+
+2°. het door die inhoudingsplichtige verstrekte loon waarover in het kalenderjaar met toepassing van de artikelen 20a, 20b, 26 en 26b van de wet belasting is geheven;  
+
+3°. het door die inhoudingsplichtige verstrekte loon dat ingevolge artikel 31a, tiende lid, van de wet bij de bepaling van het loon, bedoeld in artikel 31a, tweede lid, van de wet, buiten beschouwing wordt gelaten;  
+
+4°. de in het kalenderjaar ingevolge artikel 31, eerste lid, onderdeel f en onderdeel g, van de wet door die inhoudingsplichtige aangewezen vergoedingen en verstrekkingen, met uitzondering van de vergoedingen en verstrekkingen die ingevolge artikel 31a, tweede lid, van de wet naast 1,2% van het loon, bedoeld in artikel 31a, tweede lid, van de wet, met inachtneming van artikel 31a, tiende lid, van de wet, in mindering komen;    
+
+d. de berekening van de gezamenlijk verschuldigde belasting, bedoeld in artikel 32, eerste lid, van de wet, en, ingeval deze belasting meer bedraagt dan nihil, de naam en het loonheffingennummer van de inhoudingsplichtige die deze belasting heeft aangegeven en afgedragen.     
+2.  Van verwevenheid in financieel, organisatorisch en economisch opzicht tussen inhoudingsplichtige stichtingen als bedoeld in artikel 32, tweede lid, van de wet is sprake indien statutair is vastgelegd dat: 
+
+a. het bestuur van een van de stichtingen, bedoeld in de aanhef, de bestuursleden van de andere stichtingen, bedoeld in de aanhef, benoemt of een bindende voordracht doet voor de benoeming van die bestuursleden;  
+
+b. bij vereffening bij faillissement of opheffing van een stichting als bedoeld in de aanhef het vermogen van die stichting wordt overgedragen aan een van de andere stichtingen, bedoeld in de aanhef.    
+
 ### Artikel  8.5  
 
 ####Verstrekkingen aan anderen dan eigen werknemers
@@ -986,35 +1024,11 @@ Voor de actuariële herrekening, bedoeld in de artikelen 38c en 38d van de wet, 
 
 Voor aanspraken ingevolge een regeling voor verlofsparen als bedoeld in artikel 11 van de wet, zoals dit op 31 december 2005 luidde, blijven de artikelen 12 tot en met 16 van de Uitvoeringsregeling loonbelasting 2001, zoals deze op 31 december 2005 luidden, van toepassing, voor zover deze aanspraken niet zijn omgezet in aanspraken ingevolge een levensloopregeling. 
 
-### Artikel  12.7  
-
-####Toepassing keuzeregime
-
-Ingeval de inhoudingsplichtige artikel 39c, eerste lid, van de wet toepast:
-
-a.zijn niet van toepassing:
-
-1°.hoofdstuk 4a van het besluit;
-
-2°.de artikelen 3.7, 3.8, 3.9, 3.10, 3.11, 7.3, 8.2, 8.3, 8.4, 8.5, 10.1, 11.2 en 12.7a;
-
-b.blijven van toepassing:
-
-1°.de artikelen 8 tot en met 10 en 10f van het besluit, zoals deze op 31 december 2010 luidden;
-
-2°.de artikelen 2, 8, 9, 20, 21, 21a, 21b, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 32a, 33, 34, 35, 36, 37, 41, 43, 44, 45, 46, 47, 51, 52, 55, 56, 59, 68, 82, 82a, 84 en 84a van de Uitvoeringsregeling loonbelasting 2001, zoals deze op 31 december 2010 luidden, met inachtneming van de krachtens artikel 39c, vierde lid, van de wet aangebrachte wijzigingen. 
-
 ###Artikel 12.7a 
 
 ####Overgangsregeling saldering reiskosten
 
 Ingeval de inhoudingsplichtige in het aan het kalenderjaar voorafgaande kalenderjaar artikel 10f, eerste of vierde lid, van het besluit, zoals dat luidde op 31 december 2010, heeft toegepast, wordt het in dat voorafgaande kalenderjaar in artikel 10f, tweede of vierde lid, van het besluit, zoals dat luidde op 31 december 2010, bedoelde bedrag geacht te behoren tot het loon van het eerste loontijdvak van het kalenderjaar en geacht te zijn betaald op de laatste werkdag in januari van het kalenderjaar.
-
-### Artikel  12.7b  
-
-####Uitvoering looncriterium 30%-regeling bij toepassing overgangsregeling werkkostenregeling
-
-Ingeval het loon, bedoeld in artikel 9a, eerste en tweede lid, van het besluit zoals dat luidde op 31 december 2010, van een werknemer als bedoeld in artikel 39c, eerste lid, van de wet als gevolg van het opnemen van ouderschapsverlof of zwangerschapsverlof in een tijdvak op jaarbasis lager is dan het bedrag, genoemd in artikel 9a, eerste lid, onderscheidenlijk tweede lid, van het besluit zoals dat luidde op 31 december 2010, wordt in dat loontijdvak bij de toepassing van dat artikel ten aanzien van de werknemer uitgegaan van het loon, bedoeld in dat artikel, dat de werknemer zou hebben genoten indien hij geen ouderschapsverlof of zwangerschapsverlof zou hebben opgenomen. 
 
 ### Artikel  12.8  
 

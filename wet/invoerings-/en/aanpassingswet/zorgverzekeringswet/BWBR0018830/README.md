@@ -177,7 +177,7 @@ Ten aanzien van bezwaar en beroep tegen een besluit op grond van het bepaalde bi
 4. De belanghebbende die zich heeft aangemeld, is aan het Zorginstituut per maand een bijdrage verschuldigd die gelijk is aan eentwaalfde van het bedrag van de standaardpremie als bedoeld in de Wet op de zorgtoeslag, nadat die is verminderd met het bedrag dat de zorgtoeslag ten hoogste bedraagt, voor een in Nederland wonende verzekeringsplichtige zonder partner. 
 5. Bij ministeriële regeling kunnen nadere regels worden gesteld die noodzakelijk zijn voor een goede uitvoering van de aanspraak op de vergoeding, bedoeld in het eerste lid. 
 6. De kosten van de vergoedingen, verleend ingevolge dit artikel, onderscheidenlijk de baten van de bijdrage, betaald op grond van dit artikel, komen ten laste onderscheidenlijk ten gunste van het Zorgverzekeringsfonds. 
-7. Ten aanzien van bezwaar en beroep tegen een besluit inzake een vergoeding als bedoeld in het eerste lid, is het recht zoals dat geldt ten aanzien van besluiten inzake een aanspraak op zorg ingevolge de Algemene Wet Bijzondere Ziektekosten, met uitzondering van artikel 58 van die wet, van toepassing.
+7. Ten aanzien van bezwaar en beroep tegen een besluit inzake een vergoeding als bedoeld in het eerste lid, is het recht zoals dat geldt ten aanzien van besluiten inzake een recht op zorg ingevolge de Wet langdurige zorg, met uitzondering van artikel 10.3.1 van die wet, van toepassing.
 
 ###Artikel   2.2.6 
 
@@ -281,11 +281,6 @@ b. het geven van een aanwijzing als bedoeld in artikel 54 van die wet tot overdr
 6.  Zolang het ziekenfonds, bedoeld in het eerste lid, niet voldoet aan artikel 32, aanhef en onderdeel a, van de Wet toezicht verzekeringsbedrijf 1993 beperkt het zijn werkzaamheden tot uitvoering van de in artikel 1, onderdeel d, van de Zorgverzekeringswet bedoelde zorgverzekeringen.   
 7.  Ten aanzien van besluiten, genomen op grond van dit artikel, is de Wet toezicht verzekeringsbedrijf 1993 van overeenkomstige toepassing.  
 
-### Artikel  2.5.9  
-
-1.  In afwijking van artikel 39, derde lid, van de Zorgverzekeringswet komt voor de jaren 2006 en 2007 met het oog op de financiering van de geneeskundige geestelijke gezondheidszorg tevens ten laste van het Zorgverzekeringsfonds een bij ministeriële regeling te bepalen bedrag.   
-2.  In afwijking van artikel 90, eerste lid, van de Wet financiering sociale verzekeringen komt voor de jaren 2006 en 2007 met het oog op de financiering van de geneeskundige geestelijke gezondheidszorg tevens ten gunste van het Algemeen Fonds Bijzondere Ziektekosten het bedrag, bedoeld in het eerste lid.  
-
 ### Hoofdstuk  3  
 
 ####Wijziging van andere wetten
@@ -300,46 +295,32 @@ Wijzigt de Algemene Wet Bijzondere Ziektekosten.
 
 ### Artikel  3.1.2  
 
-De persoon die op de dag voorafgaande aan de inwerkingtreding van artikel 3.1.1 vrijwillig verzekerd is ingevolge artikel 32a van de Algemene Wet Bijzondere Ziektekosten, heeft aanspraak op een vergoeding ter zake van de kosten van zorg waarop op die dag aanspraak bestond op grond van artikel 6 van de Algemene Wet Bijzondere Ziektekosten, voor zover: 
+1. De persoon die op de dag voorafgaande aan de inwerkingtreding van artikel 3.1.1 vrijwillig verzekerd was ingevolge artikel 32a van de Algemene Wet Bijzondere Ziektekosten, heeft aanspraak op een vergoeding ter zake van de kosten van zorg waarop op die dag aanspraak bestond op grond van artikel 6 van de Algemene Wet Bijzondere Ziektekosten, voor zover: 
 
 a. de verlening van de zorg op of voor die dag is begonnen of  
 
-b. het zorg betreft waarop hij aansluitend aan en in plaats van de onder a bedoelde zorg in redelijkheid is aangewezen.   
+b. het zorg betreft waarop hij aansluitend aan en in plaats van de onder a bedoelde zorg in redelijkheid is aangewezen.    
+2.  Het eerste lid geldt na de termijn, bedoeld in artikel 8.3 van de Wet maatschappelijke ondersteuning 2015 niet voor zorg, bedoeld in artikel 8.1. van die wet en geldt na de termijn, bedoeld in artikel 10.1, derde of vierde lid, van de Jeugdwet niet voor zorg, bedoeld in artikel 10.1, tweede lid, van die wet. 
 
 ### Artikel  3.1.3  
 
 1.  De vergoeding, bedoeld in artikel 3.1.2, is gelijk aan het bedrag dat ingevolge de wettelijke regeling van de staat van wonen of verblijf voor rekening van de rechthebbende blijft, in geval in die staat op de desbetreffende zorg recht bestaat met toepassing van enig door Nederland gesloten verdrag inzake sociale zekerheid of van een verordening van de Raad van Europese Gemeenschappen.   
 2.  De vergoeding, bedoeld in artikel 3.1.2, is gelijk aan de in rekening gebrachte kosten tot het in het land van wonen of verblijf voor de verleende zorg geldende tarief, en bij het ontbreken van een zodanig tarief tot het bedrag dat daar voor de desbetreffende zorg in rekening pleegt te worden gebracht, indien op die zorg in het woonland geen aanspraak bestaat op grond van de in het eerste lid bedoelde verdragen of verordeningen.   
 3.  Indien voor de zorg geen tarief geldt of er geen tarief bestaat dat daarvoor in rekening pleegt te worden gebracht, is de vergoeding gelijk aan de in rekening gebrachte kosten, voor zover die gelet op het kostenniveau van de gezondheidszorg in het land van wonen of verblijf in redelijkheid aanvaardbaar zijn.   
-4.  Indien een verzekerde op grond van de Algemene Wet Bijzondere Ziektekosten voor de verleende zorg een bijdrage in de kosten is verschuldigd, wordt een bedrag ter grootte van die bijdrage op de vergoeding in mindering gebracht.  
+4.  Op de vergoeding worden in mindering gebracht bijdragen die de persoon, bedoeld in artikel 3.1.2, verschuldigd zou zijn geweest indien hij verzekerd zou zijn geweest op grond van de Wet langdurige zorg dan wel een zorgverzekering zou hebben gehad op grond waarvan hij recht op prestaties zou hebben gehad als bedoeld in artikel 11, eerste lid, onderdeel b, van de Zorgverzekeringswet.  
 
 ### Artikel  3.1.4  
 
 1.  De aanspraak op een vergoeding als bedoeld in artikel 3.1.2, bestaat slechts indien de rechthebbende zich, binnen een termijn van vier maanden nadat deze wet in werking is getreden, dan wel binnen een termijn van vier maanden nadat hij in redelijkheid van de inwerkingtreding van deze wet heeft kunnen kennisnemen, als zodanig heeft aangemeld bij het Zorginstituut. Dat instituut verleent de vergoedingen, bedoeld in artikel 3.1.2.   
-2.  Het Zorginstituut kan een rechtspersoon, aangewezen ingevolge artikel 40 van de Algemene Wet Bijzondere Ziektekosten, mandaat en volmacht verlenen om namens hem besluiten te nemen of werkzaamheden te verrichten die verband houden met het verlenen van vergoedingen als bedoeld in artikel 3.1.2.  
+2.  Het Zorginstituut kan een rechtspersoon, aangewezen ingevolge artikel 4.2.4, tweede lid, van de Wet langdurige zorg, mandaat en volmacht verlenen om namens hem besluiten te nemen of werkzaamheden te verrichten die verband houden met het verlenen van vergoedingen als bedoeld in artikel 3.1.2.  
 
 ### Artikel  3.1.5  
 
-De vergoedingen, bedoeld in artikel 3.1.2, en de kosten verbonden aan de werkzaamheden, verband houdende met het verlenen van vergoedingen, komen ten laste van het Algemeen Fonds Bijzondere Ziektekosten, bedoeld in artikel 89 van de Wet financiering sociale verzekeringen. 
+De vergoedingen, bedoeld in artikel 3.1.2, en de kosten verbonden aan de werkzaamheden, verband houdende met het verlenen van vergoedingen, komen ten laste van het Fonds langdurige zorg, bedoeld in artikel 89 van de Wet financiering sociale verzekeringen. 
 
 ### Artikel  3.1.6  
 
-Ten aanzien van bezwaar en beroep tegen een besluit inzake een vergoeding als bedoeld in artikel 3.1.2 is het recht zoals dat geldt ten aanzien van besluiten inzake een aanspraak op zorg ingevolge de Algemene Wet Bijzondere Ziektekosten, met uitzondering van artikel 58 van die wet, van overeenkomstige toepassing. 
-
-### Artikel  3.1.7  
-
-In aanvulling op artikel 44, eerste lid, van de Algemene Wet Bijzondere Ziektekosten kan tot een bij ministeriële regeling te bepalen tijdstip door het Zorginstituut volgens bij ministeriële regeling te stellen regels ten laste van het Algemeen Fonds Bijzondere Ziektekosten subsidie worden verstrekt aan instellingen die in 2008 subsidie ontvingen voor laagdrempelige, onafhankelijke ondersteuning voor verzekerden met een verstandelijke, lichamelijke of zintuiglijke handicap al dan niet veroorzaakt door een chronische ziekte of een beperking uit het autistisch spectrum. 
-
-### Artikel  3.1.8  
-
-1.  Zolang een verzekeringsplichtige geen zorgverzekering heeft, geldt, voor de uitvoering van de Algemene Wet Bijzondere Ziektekosten, een inschrijving bij een uitvoeringsorgaan als bedoeld in die wet zoals die wet luidde op de dag voor inwerkingtreding van deze wet, vanaf laatstbedoelde dag als inschrijving bij de zorgverzekeraar die uit dat uitvoeringsorgaan is voortgekomen.   
-2.  Als zorgverzekeraar die voortkomt uit een ziekenfonds of een orgaan dat een publiekrechtelijke ziektekostenregeling voor ambtenaren uitvoert, wordt beschouwd: 
-
-a. indien de verzekerde een aanbod heeft gekregen als bedoeld in artikel 2.5.1: de in dat aanbod aangewezen zorgverzekeraar;  
-
-b. in andere gevallen: de zorgverzekeraar die als rechtsopvolger van dat ziekenfonds of van dat orgaan te beschouwen is.     
-3.  Het eerste lid is niet van toepassing indien de zorgverzekeraar zich niet overeenkomstig artikel 33 van de Algemene Wet Bijzondere Ziektekosten bij het College toezicht heeft gemeld.   
-4.  Indien een verzekeringsplichtige binnen vier maanden na de dag waarop zijn verzekeringsplicht, bedoeld in de Zorgverzekeringswet, is ontstaan, een zorgverzekering sluit bij een andere zorgverzekeraar dan de zorgverzekeraar, bedoeld in het eerste lid, vervalt de inschrijving, bedoeld in dat lid, met terugwerkende kracht tot en met die dag.  
+Ten aanzien van bezwaar en beroep tegen een besluit inzake een vergoeding als bedoeld in artikel 3.1.2 is het recht zoals dat geldt ten aanzien van besluiten inzake een recht op zorg ingevolge de Wet langdurige zorg, met uitzondering van artikel 10.3.1 van die wet, van overeenkomstige toepassing. 
 
 ### Paragraaf  3.2  
 
@@ -716,11 +697,6 @@ Wijzigt de Ziektewet.
 
 ####Overige bepalingen
 
-### Artikel  4.1  
-
-1.  In afwijking van artikel 61 van de Zorgverzekeringswet en de artikelen 22 juncto 32 van de Wet toelating zorginstellingen, zijn op de rechtspositie van het personeel van het College zorgverzekeringen en het College bouw respectievelijk het College sanering de regels die gelden voor ambtenaren die zijn aangesteld bij ministeries niet van toepassing gedurende een periode van vier jaren, te rekenen vanaf de datum waarop deze wet in werking treedt.   
-2.  Gedurende de periode, bedoeld in het eerste lid, wordt de rechtspositie van het daar genoemde personeel geregeld door het College zorgverzekeringen en het College bouw respectievelijk het College sanering.  
-
 ### Hoofdstuk  5  
 
 ####Slotbepalingen
@@ -737,10 +713,6 @@ De artikelen van deze wet treden in werking op een bij koninklijk besluit te bep
 ### Artikel  5.3  
 
 Het Administratiebesluit Bijzondere Ziektekostenverzekering berust met ingang van de datum van inwerkingtreding van artikel 3.1.1 op artikel 40, eerste lid, van de Algemene Wet Bijzondere Ziektekosten. 
-
-### Artikel  5.4  
-
-Deze wet wordt aangehaald als: Invoerings- en aanpassingswet Zorgverzekeringswet. 
 
 Lasten en bevelen dat deze in het Staatsblad zal worden geplaatst en dat alle ministeries, autoriteiten, colleges en ambtenaren wie zulks aangaat, aan de nauwkeurige uitvoering de hand zullen houden.   
 

@@ -34,26 +34,26 @@ e.zusterschepen: schepen die volgens dezelfde bouwtekening zijn gebouwd.
 
 ####metingen
 
-1.  Voor de meting of de hermeting van een schip of een ponton ten behoeve van de afgifte van een meetbrief, hieronder begrepen het aanbrengen van ijkmerken of ijkplaten, is een tarief verschuldigd, van € 1.405.
-2.  In afwijking van het eerste lid is voor de meting of de hermeting van een schip dat niet bestemd is voor het vervoer van goederen een tarief verschuldigd van € 891.
-3.  Voor de controlemeting is een tarief verschuldigd van € 399.
+1.  Voor de meting of de hermeting van een schip of een ponton ten behoeve van de afgifte van een meetbrief, hieronder begrepen het aanbrengen van ijkmerken of ijkplaten, is een tarief verschuldigd, van € 1.436.
+2.  In afwijking van het eerste lid is voor de meting of de hermeting van een schip dat niet bestemd is voor het vervoer van goederen een tarief verschuldigd van € 911.
+3.  Voor de controlemeting is een tarief verschuldigd van € 408.
 
 ### Artikel  1.5  
 
 ####Tarief afgifte meetbrief
 
-1.  Voor de afgifte van een meetbrief, zonder dat hiervoor een meting of hermeting plaatsvindt, is een tarief verschuldigd van € 152 en voor een verlenging van de meetbrief een tarief van € 152.   
-2.  Voor het aanbrengen van een wijziging in een meetbrief, zonder dat hiervoor een meting of hermeting plaatsvindt, is een tarief verschuldigd van € 152.  
+1.  Voor de afgifte van een meetbrief, zonder dat hiervoor een meting of hermeting plaatsvindt, is een tarief verschuldigd van € 155 en voor een verlenging van de meetbrief een tarief van € 155.   
+2.  Voor het aanbrengen van een wijziging in een meetbrief, zonder dat hiervoor een meting of hermeting plaatsvindt, is een tarief verschuldigd van € 155.  
 
 ### Artikel  1.7  
 
-Indien de werkzaamheden ten behoeve van de afgifte van een meetbrief buiten toedoen van de Minister van Infrastructuur en Milieu of de daartoe door hem aangewezen natuurlijke personen of rechtspersonen, niet leiden tot afgifte van het desbetreffende document is een tarief verschuldigd van € 111 per manuur, indien de werkzaamheden niet volledig zijn uitgevoerd. 
+Indien de werkzaamheden ten behoeve van de afgifte van een meetbrief buiten toedoen van de Minister van Infrastructuur en Milieu of de daartoe door hem aangewezen natuurlijke personen of rechtspersonen, niet leiden tot afgifte van het desbetreffende document is een tarief verschuldigd van € 114 per manuur, indien de werkzaamheden niet volledig zijn uitgevoerd. 
 
 ### Artikel  1.8  
 
 ####Tarief overige werkzaamheden
 
-Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de Binnenvaartwet, en waarvoor niet op grond van een van de overige artikelen van deze paragraaf een tarief is vastgesteld, is een tarief verschuldigd van € 111 per manuur. 
+Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de Binnenvaartwet, en waarvoor niet op grond van een van de overige artikelen van deze paragraaf een tarief is vastgesteld, is een tarief verschuldigd van € 114 per manuur. 
 
 ###§ 1.2 
 
@@ -83,14 +83,14 @@ g. verklaring minimumbemanning: in artikel 3.14, tweede lid, van het Reglement b
 
 ####Tarief afgifte of wijziging certificaat, verklaring of ontheffing
 
-1.  Voor de afgifte of wijziging van in deze paragraaf genoemde certificaten of verklaringen is een tarief verschuldigd van € 98.   
-2.  Voor de afgifte van een ontheffing als bedoeld in de artikelen 13, tweede lid, en 22, vijfde lid, van de Binnenvaartwet, waarbij geen inspectie plaatsvindt, is een tarief verschuldigd van € 98, per certificaat, bijlage bij een certificaat of verklaring.  
+1.  Voor de afgifte of wijziging van in deze paragraaf genoemde certificaten of verklaringen is een tarief verschuldigd van € 101.   
+2.  Voor de afgifte van een ontheffing als bedoeld in de artikelen 13, tweede lid, en 22, vijfde lid, van de Binnenvaartwet, waarbij geen inspectie plaatsvindt, is een tarief verschuldigd van € 101, per certificaat, bijlage bij een certificaat of verklaring.  
 
 ### Artikel  1.11  
 
 ####Tarief afgifte duplicaat, uittreksel, of gewaarmerkt afschrift
 
-Voor de afgifte van een duplicaat, uittreksel, of gewaarmerkt afschrift van een certificaat van onderzoek, een certificaat van goedkeuring, een communautair certificaat, een communautair aanvullend certificaat of een bijlage bij een certificaat of verklaring is een tarief verschuldigd van € 118. 
+Voor de afgifte van een duplicaat, uittreksel, of gewaarmerkt afschrift van een certificaat van onderzoek, een certificaat van goedkeuring, een communautair certificaat, een communautair aanvullend certificaat of een bijlage bij een certificaat of verklaring is een tarief verschuldigd van € 120. 
 
 ### Artikel  1.12  
 
@@ -102,15 +102,15 @@ Aan degene die ingevolge artikel 14, eerste lid, van de Binnenvaartwet is aangew
 
 1.  Voor het onderzoek nodig voor de eerste of hernieuwde afgifte van een certificaat van onderzoek, een communautair certificaat, een communautair aanvullend certificaat of een certificaat van goedkeuring ten behoeve van bestaande schepen, dan wel voor het wijzigen van die certificaten ten behoeve van deze schepen is een tarief verschuldigd dat wordt berekend aan de hand van het aantal inspecties aan boord van het schip.   
 2.  Indien bij de inspecties aan boord van het schip gelijktijdig een elektrotechnisch onderzoek en een scheepsbouwkundig onderzoek plaatsvindt, worden deze onderzoeken als afzonderlijke inspecties aangemerkt.   
-3.  Voor het afstempelen plaatjes, het opnieuw verzegelen van lensafsluiters en andere werkzaamheden op verzoek is een tarief verschuldigd van € 111 per manuur.   
-4.  Indien een inspectie aan boord van het schip niet kan plaatsvinden op de geplande tijd en plaats, doordat het schip of de eigenaar van het schip of zijn vertegenwoordiger niet aanwezig is, is, indien de inspectie geheel vervalt, een tarief van € 250 verschuldigd. 
+3.  Voor het afstempelen plaatjes, het opnieuw verzegelen van lensafsluiters en andere werkzaamheden op verzoek is een tarief verschuldigd van € 114 per manuur.   
+4.  Indien een inspectie aan boord van het schip niet kan plaatsvinden op de geplande tijd en plaats, doordat het schip of de eigenaar van het schip of zijn vertegenwoordiger niet aanwezig is, is, indien de inspectie geheel vervalt, een tarief van € 256 verschuldigd. 
 
 ### Artikel  1.14  
 
 ####Tarief onderzoek keuring onderdelen of uitrustingsstukken
 
-1.  Voor een onderzoek voor keuring van onderdelen of uitrustingsstukken waarvoor de goedkeuring van de Minister van Infrastructuur en Milieu of de Commissie van Deskundigen voor de Rijnvaart is voorgeschreven, is een tarief verschuldigd van € 384.   
-2.  Voor het aanwijzen van bedrijven om namens de Minister van Infrastructuur en Milieu installaties en onderdelen van objecten te mogen keuren is een tarief verschuldigd van € 112.  
+1.  Voor een onderzoek voor keuring van onderdelen of uitrustingsstukken waarvoor de goedkeuring van de Minister van Infrastructuur en Milieu of de Commissie van Deskundigen voor de Rijnvaart is voorgeschreven, is een tarief verschuldigd van € 392.   
+2.  Voor het aanwijzen van bedrijven om namens de Minister van Infrastructuur en Milieu installaties en onderdelen van objecten te mogen keuren is een tarief verschuldigd van € 115.  
 
 ### Artikel  1.16  
 
@@ -125,6 +125,12 @@ Alvorens een onderzoek of keuring als bedoeld in deze paragraaf wordt aangevange
 ####Begripsbepaling
 
 In deze paragraaf wordt onder het CBR verstaan: het bureau bedoeld in artikel 4z van de Wegenverkeerswet 1994. 
+
+### Artikel  1.18  
+
+####Tarief ontheffing vaarbewijsplicht
+
+Voor de behandeling van een aanvraag van een ontheffing, als bedoeld in artikel 31, tweede lid, van de Binnenvaartwet, is een tarief verschuldigd van € 203. 
 
 ### Artikel  1.19  
 
@@ -160,7 +166,7 @@ In deze paragraaf wordt onder het CBR verstaan: het bureau bedoeld in artikel 4z
 
 ####Tarief ontheffing vaartijden en bemanningssterkte
 
-Voor de behandeling van een aanvraag tot ontheffing als bedoeld in artikel 22, vijfde lid, van de Binnenvaartwet, is een vergoeding verschuldigd van € 83. 
+Voor de behandeling van een aanvraag tot ontheffing als bedoeld in artikel 22, vijfde lid, van de Binnenvaartwet, is een vergoeding verschuldigd van € 82. 
 
 ### Artikel  1.24  
 
@@ -168,11 +174,11 @@ Voor de behandeling van een aanvraag tot ontheffing als bedoeld in artikel 22, v
 
 Een tarief is verschuldigd van: 
 
-a. € 112 voor documenten van toelating als bedoeld in artikel 5, tweede lid, van de Binnenvaartwet;  
+a. € 111 voor documenten van toelating als bedoeld in artikel 5, tweede lid, van de Binnenvaartwet;  
 
-b. € 592 voor de behandeling van een aanvraag van een bewijs van vakbekwaamheid als bedoeld in artikel 6, eerste lid, van de Binnenvaartwet;  
+b. € 583 voor de behandeling van een aanvraag van een bewijs van vakbekwaamheid als bedoeld in artikel 6, eerste lid, van de Binnenvaartwet;  
 
-c. € 181 voor de behandeling van een aanvraag van ontheffing van de eis van vakbekwaamheid als bedoeld in artikel 6, vijfde lid, van de Binnenvaartwet;  
+c. € 178 voor de behandeling van een aanvraag van ontheffing van de eis van vakbekwaamheid als bedoeld in artikel 6, vijfde lid, van de Binnenvaartwet;  
 
 d. € 43 voor de behandeling van een aanvraag van een gewaarmerkt afschrift van documenten als bedoeld in de onderdelen a, b en c;  
 
@@ -196,7 +202,7 @@ e.  een bedrag dat is vastgesteld door het CBR overeenkomstig artikel 4am van de
 
 ####Tarief klein vaarbewijs
 
-Voor de kosten van behandeling van het aanvragen van een klein vaarbewijs als bedoeld in artikel 16, van het Binnenvaartbesluit, is een tarief verschuldigd van €21,–. 
+Voor de kosten van behandeling van het aanvragen van een klein vaarbewijs als bedoeld in artikel 16, van het Binnenvaartbesluit, is een tarief verschuldigd van € 20,–. 
 
 ###Artikel 1.27a 
 
@@ -204,21 +210,20 @@ Voor de kosten van behandeling van het aanvragen van een klein vaarbewijs als be
 
 De kosten van het examen ter verkrijging van het klein vaarbewijs voor: 
 
-a. de vaart op de rivieren, kanalen en meren bedragen € 49,–;  
+a. de vaart op de rivieren, kanalen en meren bedragen € 42,–;  
 
-b. de vaart op alle binnenwateren bedragen € 75,–.   
+b. de vaart op alle binnenwateren bedragen € 70,–.   
 
 ###Artikel 1.27b  
 
-1. De kosten van het gedeeltelijk onderzoek, op basis van een gedeeltelijke vrijstelling van de examenverplichtingen voor het klein vaarbewijs I, bedoeld in artikel 7.12 van de Binnenvaartregeling, bedragen € 49,–.
-2. De kosten van het examen voor het klein vaarbewijs II, betrekking hebbend op de onderwerpen genoemd in artikel 7.15, tweede lid, onderdelen a tot en met d, van de Binnenvaartregeling, bedragen € 59,–.
+1. De kosten van het gedeeltelijk onderzoek, op basis van een gedeeltelijke vrijstelling van de examenverplichtingen voor het klein vaarbewijs I, bedoeld in artikel 7.12 van de Binnenvaartregeling, bedragen € 42,–.
+2. De kosten van het examen voor het klein vaarbewijs II, betrekking hebbend op de onderwerpen genoemd in artikel 7.15, tweede lid, onderdelen a tot en met d, van de Binnenvaartregeling, bedragen € 50,–.
 
 ### Artikel  1.27c  
 
 ####Tarief groot pleziervaartbewijs
 
-1.  Voor de behandeling van een aanvraag voor een groot pleziervaartbewijs, als bedoeld in artikel 7.8, derde lid, van de Binnenvaartregeling is een tarief verschuldigd van € 21,–.   
-2.  Voor de behandeling van een aanvraag om voor de overgangsregeling in aanmerking te komen, als bedoeld in artikel 7.8, vierde lid, van de Binnenvaartregeling is een tarief verschuldigd van € 35.  
+Voor de behandeling van een aanvraag voor een groot pleziervaartbewijs, als bedoeld in artikel 7.8, derde lid, van de Binnenvaartregeling is een tarief verschuldigd van € 20,–. 
 
 ### Artikel  1.27d  
 
@@ -240,14 +245,14 @@ b. de vaart op alle binnenwateren bedragen € 75,–.
 
 ####Tarief examen CWO groot motorschip
 
-1.  Voor deelname aan het theoriegedeelte van het examen ter verkrijging van het diploma CWO groot motorschip, bedoeld in artikel 7.8, derde lid, onderdeel a, van de Binnenvaartregeling, is een tarief verschuldigd van € 49,00 voor deel A, van € 59,00 voor deel B en van € 75,00 voor de delen A en B tezamen.   
+1.  Voor deelname aan het theoriegedeelte van het examen ter verkrijging van het diploma CWO groot motorschip, bedoeld in artikel 7.8, derde lid, onderdeel a, van de Binnenvaartregeling, is een tarief verschuldigd van € 42,00 voor deel A, van € 50,00 voor deel B en van € 70,00 voor de delen A en B tezamen.   
 2.  Voor deelname aan het praktijkgedeelte van het examen ter verkrijging van het diploma CWO groot motorschip, bedoeld in artikel 7.8, derde lid, onderdeel a, van de Binnenvaartregeling is een tarief verschuldigd van € 295,00.  
 
 ### Artikel  1.27g  
 
 ####Tarief internationaal certificaat van competentie
 
-Voor de kosten van de behandeling van een aanvraag van een internationaal certificaat van competentie als bedoeld in artikel 7.25 van de Binnenvaartregeling is een tarief verschuldigd van € 21. 
+Voor de kosten van de behandeling van een aanvraag van een internationaal certificaat van competentie als bedoeld in artikel 7.25 van de Binnenvaartregeling is een tarief verschuldigd van € 20. 
 
 ### Artikel  1.27h  
 
@@ -295,9 +300,9 @@ Voor de werkzaamheden die samenhangen met het omwisselen van radardiploma’s al
 
 De kosten van het geneeskundig onderzoek van de individuele aanvrager van een vaarbewijs, bedoeld in artikel 28, eerste en derde lid, van de Binnenvaartwet, of van de individuele aanvrager van een rijnpatent, bedoeld in de artikelen 7.01, derde lid, onderdeel a, 7.02, derde lid, onderdeel a, 7.03, tweede lid, onderdeel a, en artikel 7.17, eerste lid, van het Rsp, bedragen: 
 
-a. van de arts: ten hoogste € 133, exclusief BTW;  
+a. van de arts: ten hoogste € 136, exclusief BTW;  
 
-b. van de deskundige: ten hoogste € 133, exclusief BTW, indien een fysiek onderzoek plaatsvindt en ten hoogste € 87, exclusief BTW bij een schriftelijke beoordeling.  
+b. van de deskundige: ten hoogste € 136, exclusief BTW, indien een fysiek onderzoek plaatsvindt en ten hoogste € 89, exclusief BTW bij een schriftelijke beoordeling.  
 
 ### Artikel 1.32 
 
@@ -362,51 +367,51 @@ d.zusterschepen: schepen die volgens dezelfde bouwtekening zijn gebouwd
 
 ####Tarief onderzoek afgifte Internationale Meetbrief (1969)
 
-1.  Voor de meting van een schip ten behoeve van de afgifte van een internationale Meetbrief (1969) is een tarief verschuldigd van € 142 per uur. 
+1.  Voor de meting van een schip ten behoeve van de afgifte van een internationale Meetbrief (1969) is een tarief verschuldigd van € 145 per uur. 
 2.  In afwijking van het eerste lid is voor de meting van:
 
-a. een vissersvaartuig met een lengte in zijn totaliteit van minder dan 15 meter een tarief verschuldigd van € 299;  
+a. een vissersvaartuig met een lengte in zijn totaliteit van minder dan 15 meter een tarief verschuldigd van € 306;  
 
-b. een pleziervaartuig met een lengte van minder dan 24 meter een tarief verschuldigd van € 260.   
+b. een pleziervaartuig met een lengte van minder dan 24 meter een tarief verschuldigd van € 266.   
 
 ### Artikel  2.3  
 
 ####Tarief onderzoek meetbrief
 
-Voor de meting van een schip, ten behoeve van de afgifte van een bijzondere meetbrief, speciaal ingericht voor gebruik bij de vaart door het Suezkanaal, is een tarief verschuldigd van € 142 per uur.
+Voor de meting van een schip, ten behoeve van de afgifte van een bijzondere meetbrief, speciaal ingericht voor gebruik bij de vaart door het Suezkanaal, is een tarief verschuldigd van € 145 per uur.
 
 ### Artikel  2.4  
 
 ####Tarief onderzoek inhoudsverklaring Panamakanaal
 
-Voor onderzoek ten behoeve van de afgifte van een inhoudsverklaring voor gebruik bij de vaart door het Panamakanaal (*PC/UMS Documentation of Total Volume*) is een tarief verschuldigd van € 400. 
+Voor onderzoek ten behoeve van de afgifte van een inhoudsverklaring voor gebruik bij de vaart door het Panamakanaal (*PC/UMS Documentation of Total Volume*) is een tarief verschuldigd van € 409. 
 
 ### Artikel  2.5  
 
 ####Tarief controlewerkzaamheden
 
-Voor controlewerkzaamheden ten behoeve van de afgifte van een Internationale Meetbrief (1969) of een bijzondere meetbrief is, indien bij het omvlaggen van een schip de buitenlandse meetgegevens worden overgenomen of indien een schip door een daartoe bevoegde buitenlandse autoriteit ingevolge artikel 8 van de Meetbrievenwet 1981 of de Regeling metingsvoorschriften is gemeten of hermeten, een tarief verschuldigd van € 1.020. 
+Voor controlewerkzaamheden ten behoeve van de afgifte van een Internationale Meetbrief (1969) of een bijzondere meetbrief is, indien bij het omvlaggen van een schip de buitenlandse meetgegevens worden overgenomen of indien een schip door een daartoe bevoegde buitenlandse autoriteit ingevolge artikel 8 van de Meetbrievenwet 1981 of de Regeling metingsvoorschriften is gemeten of hermeten, een tarief verschuldigd van € 1.043. 
 
 ### Artikel  2.6  
 
 ####Tarief afgifte document
 
-1.  Voor de afgifte van een meetbrief of een bijzondere meetbrief is een het tarief verschuldigd van € 144.   
-2.  Voor het aanbrengen van een wijziging in een Internationale Meetbrief (1969), een bijzondere meetbrief of een inhoudsverklaring als bedoeld in artikel 2.4, zonder dat hiervoor een meting of hermeting plaatsvindt, is een tarief verschuldigd van € 50.  
+1.  Voor de afgifte van een meetbrief of een bijzondere meetbrief is een het tarief verschuldigd van € 148.   
+2.  Voor het aanbrengen van een wijziging in een Internationale Meetbrief (1969), een bijzondere meetbrief of een inhoudsverklaring als bedoeld in artikel 2.4, zonder dat hiervoor een meting of hermeting plaatsvindt, is een tarief verschuldigd van € 51.  
 
 ### Artikel  2.7  
 
 ####Tarief meting meerdere schepen
 
-Indien de eigenaar een verzoek indient voor de meting of hermeting van twee of meer van zijn schepen, niet zijnde zusterschepen, en deze metingen gelijktijdig op één locatie kunnen worden uitgevoerd voor één rekening, is voor het eerste schip een tarief als bedoeld in de deze paragraaf verschuldigd en voor de volgende schepen een tarief van € 111 per manuur verschuldigd. 
+Indien de eigenaar een verzoek indient voor de meting of hermeting van twee of meer van zijn schepen, niet zijnde zusterschepen, en deze metingen gelijktijdig op één locatie kunnen worden uitgevoerd voor één rekening, is voor het eerste schip een tarief als bedoeld in de deze paragraaf verschuldigd en voor de volgende schepen een tarief van € 114 per manuur verschuldigd. 
 
 ### Artikel  2.8  
 
 ####Tarief onderzoek zonder afgifte van document
 
-Indien de werkzaamheden ten behoeve van de afgifte van documenten als bedoeld in deze paragraaf, buiten toedoen van de ambtenaren van de Inspectie Verkeer en Waterstaat, niet leiden tot afgifte van dat document, is het volgende tarief verschuldigd: 
+Indien de werkzaamheden ten behoeve van de afgifte van documenten als bedoeld in deze paragraaf, buiten toedoen van de ambtenaren van de Inspectie Leefomgeving en Transport, niet leiden tot afgifte van dat document, is het volgende tarief verschuldigd: 
 
-a. indien de werkzaamheden niet volledig zijn uitgevoerd € 111 per manuur;  
+a. indien de werkzaamheden niet volledig zijn uitgevoerd € 114 per manuur;  
 
 b. indien de werkzaamheden volledig zijn uitgevoerd, het tarief dat is vastgesteld voor werkzaamheden of meting ten behoeve van de afgifte van het document.   
 
@@ -414,7 +419,7 @@ b. indien de werkzaamheden volledig zijn uitgevoerd, het tarief dat is vastgeste
 
 ####Tarief overige werkzaamheden
 
-Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de Meetbrievenwet 1981, en waarvoor niet op grond van een van de overige artikelen van deze paragraaf een tarief is vastgesteld, is een tarief verschuldigd van € 111 per manuur. 
+Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de Meetbrievenwet 1981, en waarvoor niet op grond van een van de overige artikelen van deze paragraaf een tarief is vastgesteld, is een tarief verschuldigd van € 114 per manuur. 
 
 ###§ 2.2 
 
@@ -424,11 +429,11 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de Meetbriev
 
 ####Tarief inschrijving rompbevrachtingsregister
 
-1.  Voor de werkzaamheden ten behoeve van de inschrijving van een zeeschip in het rompbevrachtingsregister, bedoeld in artikel 2, eerste lid, van de Wet nationaliteit zeeschepen in rompbevrachting, is de rompbevrachter een tarief verschuldigd van € 1.408.   
-2.  Voor het aanbrengen van een wijziging in de in het eerste lid bedoelde inschrijving, is de rompbevrachter een tarief verschuldigd van € 152.   
-3.  Voor de werkzaamheden ten behoeve van de afgifte van een gewaarmerkt uittreksel uit het rompbevrachtingsregister, bedoeld in het eerste lid, is de rompbevrachter een tarief verschuldigd van € 126.   
-4.  In afwijking van het tweede lid is de rompbevrachter voor het aanbrengen van een wijziging die betrekking heeft op de dagtekening of de tijdsduur van de rompbevrachtingsovereenkomst een tarief verschuldigd van € 433.   
-5.  Voor een bareboat-outverklaring, houdende de instemming van de Minister van Infrastructuur en Milieu met de inschrijving in een buitenlands rompbevrachtingsregister, is een vergoeding verschuldigd van € 145. 
+1.  Voor de werkzaamheden ten behoeve van de inschrijving van een zeeschip in het rompbevrachtingsregister, bedoeld in artikel 2, eerste lid, van de Wet nationaliteit zeeschepen in rompbevrachting, is de rompbevrachter een tarief verschuldigd van €1.440.   
+2.  Voor het aanbrengen van een wijziging in de in het eerste lid bedoelde inschrijving, is de rompbevrachter een tarief verschuldigd van € 155.   
+3.  Voor de werkzaamheden ten behoeve van de afgifte van een gewaarmerkt uittreksel uit het rompbevrachtingsregister, bedoeld in het eerste lid, is de rompbevrachter een tarief verschuldigd van € 129.   
+4.  In afwijking van het tweede lid is de rompbevrachter voor het aanbrengen van een wijziging die betrekking heeft op de dagtekening of de tijdsduur van de rompbevrachtingsovereenkomst een tarief verschuldigd van € 443.   
+5.  Voor een bareboat-outverklaring, houdende de instemming van de Minister van Infrastructuur en Milieu met de inschrijving in een buitenlands rompbevrachtingsregister, is een vergoeding verschuldigd van € 148. 
 
 ### Artikel  2.11  
 
@@ -436,23 +441,23 @@ Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de Meetbriev
 
 Voor de werkzaamheden ten behoeve van de afgifte van een verklaring als bedoeld in artikel 311a, eerste lid, van het Wetboek van Koophandel of artikel 37, eerste lid, van de Maatregel teboekgestelde schepen 1992, is de aanvrager het volgende tarief verschuldigd: 
 
-a. indien de aanvraag betrekking heeft op een schip dat uitsluitend of mede in de uitoefening van een beroep of bedrijf wordt gebruikt: € 278;  
+a. indien de aanvraag betrekking heeft op een schip dat uitsluitend of mede in de uitoefening van een beroep of bedrijf wordt gebruikt: € 284;  
 
-b. indien de aanvraag betrekking heeft op een schip dat uitsluitend anders dan in de uitoefening van een beroep of bedrijf wordt gebruikt: € 167.   
+b. indien de aanvraag betrekking heeft op een schip dat uitsluitend anders dan in de uitoefening van een beroep of bedrijf wordt gebruikt: € 171.   
 
 ### Artikel  2.12  
 
 ####Tarief afgifte zeebrief
 
-Voor de werkzaamheden ten behoeve van de afgifte van de zeebrief, bedoeld in artikel 6, derde lid, en 6a, derde lid, van de Zeebrievenwet, of een voorlopige zeebrief als bedoeld in de artikelen 4 en 4a van de Zeebrievenwet, is een tarief verschuldigd van € 158. 
+Voor de werkzaamheden ten behoeve van de afgifte van de zeebrief, bedoeld in artikel 6, derde lid, en 6a, derde lid, van de Zeebrievenwet, of een voorlopige zeebrief als bedoeld in de artikelen 4 en 4a van de Zeebrievenwet, is een tarief verschuldigd van € 162. 
 
 ### Artikel  2.13  
 
 ####Tarief onderzoek zonder afgifte van document
 
-Indien de werkzaamheden ten behoeve van de afgifte van documenten als bedoeld in deze paragraaf, buiten toedoen van de ambtenaren van de Inspectie Verkeer en Waterstaat, niet leiden tot afgifte van dat document, is het volgende tarief verschuldigd: 
+Indien de werkzaamheden ten behoeve van de afgifte van documenten als bedoeld in deze paragraaf, buiten toedoen van de ambtenaren van de Inspectie Leefomgeving en Transport, niet leiden tot afgifte van dat document, is het volgende tarief verschuldigd: 
 
-a. indien de werkzaamheden niet volledig zijn uitgevoerd € 111 per manuur;  
+a. indien de werkzaamheden niet volledig zijn uitgevoerd € 114 per manuur;  
 
 b. indien de werkzaamheden volledig zijn uitgevoerd, het tarief dat is vastgesteld voor werkzaamheden ten behoeve van de afgifte van het document.   
 
@@ -460,7 +465,7 @@ b. indien de werkzaamheden volledig zijn uitgevoerd, het tarief dat is vastgeste
 
 ####Tarief overige werkzaamheden
 
-Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de Wet nationaliteit zeeschepen in rompbevrachting, de Zeebrievenwet of de Maatregel teboekgestelde schepen 1992, en waarvoor niet op grond van een van de overige artikelen van deze paragraaf een tarief is vastgesteld, is een tarief verschuldigd van € 111 per manuur. 
+Voor werkzaamheden voortvloeiende uit het bepaalde bij of krachtens de Wet nationaliteit zeeschepen in rompbevrachting, de Zeebrievenwet of de Maatregel teboekgestelde schepen 1992, en waarvoor niet op grond van een van de overige artikelen van deze paragraaf een tarief is vastgesteld, is een tarief verschuldigd van € 114 per manuur. 
 
 ### §  2.3  
 
@@ -482,7 +487,7 @@ c. certificaat: Internationaal certificaat van voorkoming van verontreiniging do
 
 ####Tarief certificaat of verklaring
 
-Voor de afgifte of tussentijdse vervanging van een certificaat of een verklaring is een tarief verschuldigd van € 227. 
+Voor de afgifte of tussentijdse vervanging van een certificaat of een verklaring is een tarief verschuldigd van € 232. 
 
 ### Artikel  2.17  
 
@@ -492,15 +497,15 @@ Voor de afgifte of tussentijdse vervanging van een certificaat of een verklaring
 
 | Type onderzoek  | <75 m  | >75 M  |
 |:---|:---|:---|
-| Onderzoek eerste afgifte  | € 142  | --- |
-| Onderzoek eerste afgifte  | --- | € 284  |
-| Viseren certificaten  | € 72  | --- |
-| Viseren certificaten  | --- | € 72  |
-| Onderzoek hernieuwde afgifte  | € 142  | --- |
-| Onderzoek hernieuwde afgifte  | --- | € 142  |
+| Onderzoek eerste afgifte  | € 145  | --- |
+| Onderzoek eerste afgifte  | --- | € 290  |
+| Viseren certificaten  | € 74  | --- |
+| Viseren certificaten  | --- | € 74  |
+| Onderzoek hernieuwde afgifte  | € 145  | --- |
+| Onderzoek hernieuwde afgifte  | --- | € 145  |
 
-2.  Voor het onderzoek van niet-geklasseerde schepen, nodig voor het viseren of de hernieuwde afgifte van een certificaat of een verklaring, is een tarief verschuldigd van € 349.   
-3.  Voor het onderzoek van niet-geklasseerde vissersvaartuigen nodig voor de eerste afgifte van een certificaat of een verklaring, is het tarief verschuldigd van: € 522 voor vissersvaartuigen kleiner dan 400 GT.  
+2.  Voor het onderzoek van niet-geklasseerde schepen, nodig voor het viseren of de hernieuwde afgifte van een certificaat of een verklaring, is een tarief verschuldigd van € 356.   
+3.  Voor het onderzoek van niet-geklasseerde vissersvaartuigen nodig voor de eerste afgifte van een certificaat of een verklaring, is het tarief verschuldigd van: € 535 voor vissersvaartuigen kleiner dan 400 GT.  
 
 ### Artikel  2.18  
 
@@ -512,40 +517,40 @@ Indien een scheepstype niet is opgenomen in artikel 2.17, wordt voor het onderzo
 
 ####Tarief onderzoek tussentijdse aanpassing
 
-Voor het onderzoek aan boord nodig voor een tussentijdse aanpassing van een certificaat of verklaring, is een tarief verschuldigd van € 166. 
+Voor het onderzoek aan boord nodig voor een tussentijdse aanpassing van een certificaat of verklaring, is een tarief verschuldigd van € 169. 
 
 ### Artikel  2.20  
 
 ####AFS-certificaat
 
-1.  Voor het onderzoek aan boord nodig voor de afgifte of tussentijdse aanpassing van een AFS-certificaat als bedoeld in artikel 2, zevende lid, van verordening (EG) nr. 782/2003 van het Europees Parlement en de Raad van de Europese Unie van 14 april 2003 houdende een verbod op organische tinverbindingen op schepen (PbEU L115), is een tarief verschuldigd van € 166.   
-2.  Voor de afgifte of tussentijdse vervanging van een AFS-certificaat is een tarief verschuldigd van € 227.  
+1.  Voor het onderzoek aan boord nodig voor de afgifte of tussentijdse aanpassing van een AFS-certificaat als bedoeld in artikel 2, zevende lid, van verordening (EG) nr. 782/2003 van het Europees Parlement en de Raad van de Europese Unie van 14 april 2003 houdende een verbod op organische tinverbindingen op schepen (PbEU L115), is een tarief verschuldigd van € 169.   
+2.  Voor de afgifte of tussentijdse vervanging van een AFS-certificaat is een tarief verschuldigd van € 232.  
 
 ### Artikel  2.21  
 
 ####Tarieven Besluit voorkoming verontreiniging door schepen in samenhang met Bijlage II van het MARPOL-verdrag
 
-Voor de afgifte, tussentijdse controle of verlenging van het internationaal certificaat van voorkoming van verontreiniging voor vervoer van schadelijke vloeistoffen in bulk, als bedoeld in voorschrift 9 van Bijlage II van het MARPOL-verdrag is een tarief verschuldigd van € 227.
+Voor de afgifte, tussentijdse controle of verlenging van het internationaal certificaat van voorkoming van verontreiniging voor vervoer van schadelijke vloeistoffen in bulk, als bedoeld in voorschrift 9 van Bijlage II van het MARPOL-verdrag is een tarief verschuldigd van € 232.
 
 ### Artikel 2.21a 
 
 ####Tarieven Besluit voorkoming verontreiniging door schepen in samenhang met Bijlage IV van het MARPOL-verdrag
 
-1.  Voor het onderzoek, als bedoeld in artikel 16, eerste lid, onderdeel c, van het Besluit voorkoming verontreiniging van door schepen is een tarief verschuldigd van € 158.   
-2.  Voor de afgifte of tussentijdse vervanging van een Internationaal certificaat van voorkoming van verontreiniging door sanitair afval, als bedoeld in voorschrift 5 van Bijlage IV van het MARPOL-verdrag is een tarief verschuldigd van € 227.  
+1.  Voor het onderzoek, als bedoeld in artikel 16, eerste lid, onderdeel c, van het Besluit voorkoming verontreiniging van door schepen is een tarief verschuldigd van € 162.   
+2.  Voor de afgifte of tussentijdse vervanging van een Internationaal certificaat van voorkoming van verontreiniging door sanitair afval, als bedoeld in voorschrift 5 van Bijlage IV van het MARPOL-verdrag is een tarief verschuldigd van € 232.  
 
 ### Artikel  2.21b 
 
 ####Tarieven Besluit voorkoming verontreiniging door schepen in samenhang met Bijlage VI van het MARPOL-verdrag
 
-1.  Voor het onderzoek aan boord nodig voor de afgifte van een Internationaal certificaat betreffende voorkoming van luchtverontreiniging, als bedoeld in voorschrift 6 van Bijlage VI van het MARPOL-verdrag of een Internationaal certificaat betreffende voorkoming van luchtverontreiniging door motoren, behorende bij Nox-Code als bedoeld in artikel 1, onderdeel p, van het Besluit voorkoming verontreiniging door schepen, is een tarief verschuldigd van € 142 per stuk.   
-2.  Voor de afgifte of vervanging van een certificaat, als bedoeld in het eerste lid is een tarief verschuldigd van € 227. 
+1.  Voor het onderzoek aan boord nodig voor de afgifte van een Internationaal certificaat betreffende voorkoming van luchtverontreiniging, als bedoeld in voorschrift 6 van Bijlage VI van het MARPOL-verdrag of een Internationaal certificaat betreffende voorkoming van luchtverontreiniging door motoren, behorende bij Nox-Code als bedoeld in artikel 1, onderdeel p, van het Besluit voorkoming verontreiniging door schepen, is een tarief verschuldigd van € 145 per stuk.   
+2.  Voor de afgifte of vervanging van een certificaat, als bedoeld in het eerste lid is een tarief verschuldigd van € 232. 
 
 ### Artikel  2.21c  
 
 ####Tarief IEEC-certificaat
 
-Voor de afgifte of vervanging van een International Energie Efficiency Certificate is een tarief verschuldigd van € 155. 
+Voor de afgifte of vervanging van een International Energie Efficiency Certificate is een tarief verschuldigd van € 158. 
 
 ### Artikel  2.22  
 
@@ -553,9 +558,9 @@ Voor de afgifte of vervanging van een International Energie Efficiency Certifica
 
 Voor de vergoeding van de kosten die samenhangen met een ontheffing als bedoeld in artikel 35a, van de Wet voorkoming verontreiniging door schepen is een tarief verschuldigd van: 
 
-a. € 220 voor het onderzoek voor een ontheffing;  
+a. € 225 voor het onderzoek voor een ontheffing;  
 
-b. € 227 voor de afgifte van een ontheffing.   
+b. € 232 voor de afgifte van een ontheffing.   
 
 ###Artikel 2.23 
 
@@ -569,7 +574,7 @@ Op deze paragraaf is artikel 23 van de Regeling Nederlandse tarieven ingevolge d
 
 ####Tarief monsterboekje
 
-Voor de afgifte of vervanging van een monsterboekje als bedoeld in artikel 35, eerste lid, van de Wet zeevarenden is een tarief verschuldigd van € 72. 
+Voor de afgifte of vervanging van een monsterboekje als bedoeld in artikel 35, eerste lid, van de Wet zeevarenden is een tarief verschuldigd van € 71. 
 
 ### Artikel  2.25  
 
@@ -577,7 +582,7 @@ Voor de afgifte of vervanging van een monsterboekje als bedoeld in artikel 35, e
 
 1. Voor de afgifte van een vaarbevoegdheidsbewijs als bedoeld in artikel 18, eerste lid, van de Wet zeevarenden, zijn de volgende tarieven verschuldigd: 
 
-a. € 110 voor elk vaarbevoegdheidsbewijs of een duplicaat vaarbevoegdheidsbewijs, waarop ten minste één van de volgende functies voorkomt: 
+a. € 109 voor elk vaarbevoegdheidsbewijs of een duplicaat vaarbevoegdheidsbewijs, waarop ten minste één van de volgende functies voorkomt: 
 
 1°. kapitein;  
 
@@ -608,26 +613,26 @@ a. € 110 voor elk vaarbevoegdheidsbewijs of een duplicaat vaarbevoegdheidsbew
 b. € 74 voor elk vaarbevoegdheidsbewijs of duplicaat van een vaarbevoegdheidsbewijs waarop de in onderdeel a genoemde functies niet voorkomen.  
 
 c. € 130 voor een vaarbevoegdheidsbewijs van erkenning als bedoeld in artikel 22, tweede lid, van de Wet zeevarenden.    
-2.  Voor de behandeling van een aanvraag om ontheffing van de verplichting om in het bezit te zijn van een geldig vaarbevoegdheidsbewijs, bedoeld in artikel 25 van de Wet zeevarenden, is een tarief verschuldigd van € 237. 
+2.  Voor de behandeling van een aanvraag om ontheffing van de verplichting om in het bezit te zijn van een geldig vaarbevoegdheidsbewijs, bedoeld in artikel 25 van de Wet zeevarenden, is een tarief verschuldigd van € 234. 
 
 ### Artikel  2.26  
 
 ####Tarief erkennen opleidingsinstituten
 
-Voor de behandeling van een aanvraag voor de erkenning van een opleiding als bedoeld in artikel 19a, derde lid, van de Wet zeevarenden wordt een tarief in rekening gebracht van € 142 per manuur. 
+Voor de behandeling van een aanvraag voor de erkenning van een opleiding als bedoeld in artikel 19a, derde lid, van de Wet zeevarenden wordt een tarief in rekening gebracht van € 145 per manuur. 
 
 ### Artikel  2.27  
 
 ####Tarief type rating HSC
 
-Voor de afgifte van een certificaat *type rating HSC *als bedoeld in artikel 8.27 van de Regeling zeevarenden is een tarief verschuldigd van € 118. 
+Voor de afgifte van een certificaat *type rating HSC *als bedoeld in artikel 8.27 van de Regeling zeevarenden is een tarief verschuldigd van € 121. 
 
 ### Artikel  2.28  
 
 ####Tarief bunker liability certificate en civil liability certificate
 
-1.  Voor de afgifte of vervanging van een bunker liability certificate als bedoeld in artikel 647, eerste lid, van boek 8 van het Burgerlijk Wetboek is een tarief verschuldigd van € 131.   
-2.  Voor de afgifte of vervanging van een civil liability certificate als bedoeld in artikel 15, eerste lid, van de Wet aansprakelijkheid olietankschepen is een tarief verschuldigd van € 131.  
+1.  Voor de afgifte, vervanging of duplicaat van een bunker liability certificate als bedoeld in artikel 647, eerste lid, van boek 8 van het Burgerlijk Wetboek is een tarief verschuldigd van € 134.   
+2.  Voor de afgifte, vervanging of duplicaat van een civil liability certificate als bedoeld in artikel 15, eerste lid, van de Wet aansprakelijkheid olietankschepen is een tarief verschuldigd van € 134.  
 
 ###§  2.5  
 
@@ -643,14 +648,14 @@ In deze paragraaf wordt verstaan onder geneeskundige verklaring: Schriftelijke v
 
 ####Tarief verklaring algemene lichamelijke gesteldheid
 
-Het tarief voor de afgifte van een geneeskundige verklaring betreffende de algemene lichamelijke gesteldheid door een aangewezen geneeskundige bedraagt ten hoogste € 87, exclusief BTW bij een uitsluitend lichamelijke keuring en ten hoogste € 133, exclusief BTW, bij een volledige keuring. 
+Het tarief voor de afgifte van een geneeskundige verklaring betreffende de algemene lichamelijke gesteldheid door een aangewezen geneeskundige bedraagt ten hoogste € 89, exclusief BTW bij een uitsluitend lichamelijke keuring en ten hoogste € 136, exclusief BTW, bij een volledige keuring. 
 
 ### Artikel  2.33  
 
 ####Tarieven verklaring op grond van Wet zeevarenden
 
-1.  Het tarief voor de afgifte van een geneeskundige verklaring door een op grond van artikel 42, eerste lid, van de Wet zeevarenden aangewezen scheidsrechter bedraagt ten hoogste € 133, exclusief BTW, indien een fysiek onderzoek plaatsvindt en ten hoogste € 87, exclusief BTW bij een schriftelijke beoordeling.   
-2.  Het tarief voor het verlenen van de in artikel 44, derde lid, van de Wet zeevarenden bedoelde ontheffing bedraagt ten hoogste €31, exclusief BTW.  
+1.  Het tarief voor de afgifte van een geneeskundige verklaring door een op grond van artikel 42, eerste lid, van de Wet zeevarenden aangewezen scheidsrechter bedraagt ten hoogste € 136, exclusief BTW, indien een fysiek onderzoek plaatsvindt en ten hoogste € 89, exclusief BTW bij een schriftelijke beoordeling.   
+2.  Het tarief voor het verlenen van de in artikel 44, derde lid, van de Wet zeevarenden bedoelde ontheffing bedraagt ten hoogste € 32, exclusief BTW.  
 
 ### Artikel 2.34 
 
@@ -666,41 +671,41 @@ Alvorens met een onderzoek of keuring als bedoeld in deze paragraaf wordt aangev
 
 ####Tarieven Wet havenstaatcontrole
 
-1.  Voor de vergoeding, bedoeld in artikel 14, eerste lid, van de Wet havenstaatcontrole, is een tarief verschuldigd van € 1.429.   
-2.  Voor de vergoeding, bedoeld in artikel 14, tweede lid, van de Wet havenstaatcontrole, is een tarief verschuldigd van € 491.  
+1.  Voor de vergoeding, bedoeld in artikel 14, eerste lid, van de Wet havenstaatcontrole, is een tarief verschuldigd van € 1.461.   
+2.  Voor de vergoeding, bedoeld in artikel 14, tweede lid, van de Wet havenstaatcontrole, is een tarief verschuldigd van € 502.  
 
 ### Artikel  3.1a  
 
 ####Tarieven havenstaatcontrole Caribisch Nederland
 
-1.  Voor de kosten van werkzaamheden verricht door ambtenaren van de Inspectie Leefomgeving en Transport in het kader van de aanhouding bedoeld in artikel 23 van de Wet voorkoming van verontreiniging door schepen BES, en de opheffing van de aanhouding bedoeld in artikel 27 van die wet, is een tarief verschuldigd van USD 2045.   
-2.  Het in het eerste lid bedoelde tarief wordt vermeerderd met USD 162 per keer dat ambtenaren van de Inspectie Leefomgeving en Transport over water hebben moeten afreizen naar het schip dat onderwerp van een onderzoek was dat geleid heeft tot de aanhouding, dan wel de opheffing van de aanhouding van dat schip.  
+1.  Voor de kosten van werkzaamheden verricht door ambtenaren van de Inspectie Leefomgeving en Transport in het kader van de aanhouding bedoeld in artikel 23 van de Wet voorkoming van verontreiniging door schepen BES, en de opheffing van de aanhouding bedoeld in artikel 27 van die wet, is een tarief verschuldigd van USD 2.091.   
+2.  Het in het eerste lid bedoelde tarief wordt vermeerderd met USD 166 per keer dat ambtenaren van de Inspectie Leefomgeving en Transport over water hebben moeten afreizen naar het schip dat onderwerp van een onderzoek was dat geleid heeft tot de aanhouding, dan wel de opheffing van de aanhouding van dat schip.  
 
 ### Artikel  3.2  
 
 ####Tarief Wet laden en lossen zeeschepen
 
-Voor een ontheffing van een gecertificeerd kwaliteitszorgsysteem voor terminals als bedoeld in artikel 21, eerste lid, van de Wet laden en lossen zeeschepen, is voor de afgifte van een ontheffing een tarief verschuldigd van € 227. 
+Voor een ontheffing van een gecertificeerd kwaliteitszorgsysteem voor terminals als bedoeld in artikel 21, eerste lid, van de Wet laden en lossen zeeschepen, is voor de afgifte van een ontheffing een tarief verschuldigd van € 232. 
 
 ###Artikel 3.4 
 
 ####Tarief bemanningscertificaat en beoordeling bemanningsplan Wet zeevarenden
 
-1.  Voor de afgifte van een bemanningscertificaat als bedoeld in artikel 5, eerste lid, van de Wet zeevarenden, is een tarief verschuldigd van € 227.   
-2.  Voor de beoordeling van een bemanningsplan als bedoeld in artikel 7, eerste lid, Wet zeevarenden, is een tarief verschuldigd van € 284.  
-3.  Voor de behandeling van een aanvraag om ontheffing van de verplichting om een schip te bemannen in overeenstemming met het bemanningscertificaat, bedoeld in artikel 16 van de Wet zeevarenden, is een tarief verschuldigd van € 227. 
+1.  Voor de afgifte van een bemanningscertificaat als bedoeld in artikel 5, eerste lid, van de Wet zeevarenden, is een tarief verschuldigd van € 232.   
+2.  Voor de beoordeling van een bemanningsplan als bedoeld in artikel 7, eerste lid, Wet zeevarenden, is een tarief verschuldigd van € 291.  
+3.  Voor de behandeling van een aanvraag om ontheffing van de verplichting om een schip te bemannen in overeenstemming met het bemanningscertificaat, bedoeld in artikel 16 van de Wet zeevarenden, is een tarief verschuldigd van € 232. 
 
 ### Artikel  3.5  
 
 ####Tarief verklaring naleving maritieme arbeid
 
-Voor de behandeling van de aanvraag van een verklaring naleving maritieme arbeid, deel I, is een tarief verschuldigd van € 139,-. 
+Voor de behandeling van de aanvraag van een verklaring naleving maritieme arbeid, deel I, is een tarief verschuldigd van € 142,-. 
 
 ### Artikel  3.6  
 
 ####Tarief bekwaamheidsbewijzen tankschepen
 
-1.  Voor de afgifte van de volgende bewijzen is een tarief van € 118 verschuldigd: 
+1.  Voor de afgifte van de volgende bewijzen is een tarief van € 119 verschuldigd: 
 
 a. bekwaamheidsbewijs basis ladingbehandeling olie- en chemicaliëntankschepen als bedoeld in artikel 35, eerste lid, van het Besluit zeevarenden handelsvaart en zeilvaart;  
 
@@ -713,26 +718,24 @@ d. bekwaamheidsbewijs ladingbehandeling chemicaliëntankschepen voor gevorderden
 e. bekwaamheidsbewijs ladingbehandeling gastankschepen voor gevorderden als bedoeld in artikel 35, vijfde lid, van het Besluit zeevarenden handelsvaart en zeilvaart;  
 
 f. de vernieuwing van een bekwaamheidsbewijs als bedoeld onder a tot en met e.     
-2.  Voor de afgifte van een erkenning van een buitenlands bekwaamheidsbewijs als bedoeld in het eerste lid, onderdelen a tot en met e, is een tarief verschuldigd van € 138.  
+2.  Voor de afgifte van een erkenning van een buitenlands bekwaamheidsbewijs als bedoeld in het eerste lid, onderdelen a tot en met e, is een tarief verschuldigd van € 139.  
 
 ### Artikel  3.7  
 
 ####Tarief bekwaamheidsbewijs scheepskok
 
-1.  Voor de afgifte van een bekwaamheidsbewijs scheepskok als bedoeld in artikel 8.37 van de Regeling zeevarenden is een tarief verschuldigd van € 118.   
-2.  Voor de afgifte van een erkenning van een buitenlands bekwaamheidsbewijs als bedoeld in het eerste lid is een tarief verschuldigd van € 138.  
+1.  Voor de afgifte van een bekwaamheidsbewijs scheepskok als bedoeld in artikel 8.37 van de Regeling zeevarenden is een tarief verschuldigd van € 119.   
+2.  Voor de afgifte van een erkenning van een buitenlands bekwaamheidsbewijs als bedoeld in het eerste lid is een tarief verschuldigd van € 139.  
 
 ### Artikel  3.8  
 
 ####Tarief certificaten uitvoering beveiligingstaken en bewustwording scheepsbeveiliging
 
-Voor de afgifte van een certificaat uitvoering beveiligingstaken of een certificaat bewustwording scheepsbeveiliging als bedoeld in artikel 11.1 van de Regeling zeevarenden is een tarief verschuldigd van € 65. 
+Voor de afgifte van een certificaat uitvoering beveiligingstaken of een certificaat bewustwording scheepsbeveiliging als bedoeld in artikel 11.1 van de Regeling zeevarenden is een tarief verschuldigd van € 66. 
 
 ### Artikel  3.9  
 
 ####Tarief verzekeringscertificaat
-
-Treedt in werking op een nader te bepalen tijdstip 
 
 Voor de afgifte of waarmerking van een certificaat als bedoeld in artikel 529c, van Boek 8, van het Burgerlijk Wetboek is een tarief verschuldigd van € 132. 
 
@@ -744,23 +747,23 @@ Voor de afgifte of waarmerking van een certificaat als bedoeld in artikel 529c, 
 
 ####Afgifte duplicaat
 
-Voor de afgifte van een duplicaat van een certificaat of enig ander document als bedoeld in de paragrafen 2.2 en 2.3 en hoofdstuk 3 van deze regeling, is een tarief verschuldigd van € 155. 
+Voor de afgifte van een duplicaat van een certificaat of enig ander document als bedoeld in de paragrafen 2.2 en 2.3 en hoofdstuk 3 van deze regeling, is een tarief verschuldigd van € 158. 
 
 ### Artikel  4.2  
 
 ####Toeslag onderzoek buiten werktijd
 
-Indien werkzaamheden geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 en 08.00 uur, op een zaterdag, op een zondag of op een in het Algemeen Rijksambtenarenreglement daaraan gelijkgestelde dag, is een aanvullend tarief per uur verschuldigd van € 73 voor de werkzaamheden bedoeld in § 2.1, § 2.2, § 2.3 en in artikel 2.26.
+Indien werkzaamheden geheel of gedeeltelijk worden uitgevoerd op werkdagen tussen 18.00 en 08.00 uur, op een zaterdag, op een zondag of op een in het Algemeen Rijksambtenarenreglement daaraan gelijkgestelde dag, is een aanvullend tarief per uur verschuldigd van € 74 voor de werkzaamheden bedoeld in § 2.1, § 2.2, § 2.3 en in artikel 2.26.
 
 ### Artikel  4.3  
 
 ####Toeslag onderzoek buiten Nederland
 
-1.  Indien onderzoeken geheel of gedeeltelijk buiten Nederland worden uitgevoerd, is voor de reistijd buiten Nederland en voor de eventuele wachttijd tijdens het verblijf buiten Nederland een aanvullend tarief per manuur verschuldigd van € 142 voor onderzoeken bedoeld in § 2.3 en § 2.4.   
+1.  Indien onderzoeken geheel of gedeeltelijk buiten Nederland worden uitgevoerd, is voor de reistijd buiten Nederland en voor de eventuele wachttijd tijdens het verblijf buiten Nederland een aanvullend tarief per manuur verschuldigd van € 145 voor onderzoeken bedoeld in § 2.3 en § 2.4.   
 2.  Bij de berekening van de reistijd buiten Nederland als bedoeld in het eerste lid en eventuele wachttijd geldt een maximum van acht uren per etmaal.   
 3.  De reis- en verblijfkosten van de ambtenaar, ten behoeve van de in het eerste lid bedoelde onderzoeken buiten Nederland, komen voor rekening van de aanvrager. Deze kosten worden afzonderlijk in rekening gebracht.   
 4.  In afwijking van het eerste lid, is voor onderzoeken bedoeld in § 1.2 een aanvullende tarief niet verschuldigd, indien het onderzoek plaatsvindt in België of Duitsland, binnen een afstand van 50 km van de Nederlands-Belgische grens of Nederlands-Duitse grens.   
-5.  Indien onderzoek ten behoeve van de afgifte van een certificaat, vergunning, verklaring of document als bedoeld in deze regeling, buiten toedoen van de ambtenaren van de Inspectie Verkeer en Waterstaat niet volledig is uitgevoerd en niet leidt tot de afgifte van dat document, is het geldende uurtarief verschuldigd. 
+5.  Indien onderzoek ten behoeve van de afgifte van een certificaat, vergunning, verklaring of document als bedoeld in deze regeling, buiten toedoen van de ambtenaren van de Inspectie Leefomgeving en Transport niet volledig is uitgevoerd en niet leidt tot de afgifte van dat document, is het geldende uurtarief verschuldigd. 
 
 ###Hoofdstuk 5 
 

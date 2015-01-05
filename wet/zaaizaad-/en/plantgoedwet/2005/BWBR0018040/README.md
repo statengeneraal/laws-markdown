@@ -7,7 +7,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 Allen, die deze zullen zien of horen lezen, saluut! doen te weten:
 
 Alzo Wij in overweging genomen hebben, dat het wenselijk is een nieuwe regeling voor het toelaten van plantenrassen, het in de handel brengen van teeltmateriaal en het verlenen van kwekersrecht vast te stellen, mede gelet op het op 2 december 1961 te Parijs tot stand gekomen Internationaal Verdrag tot bescherming van kweekprodukten (Trb. 1962, 117), zoals dit laatstelijk is herzien bij Akte van 19 maart 1991 (Trb. 1992, 52), alsmede gelet op diverse Europese richtlijnen met betrekking tot het in de handel brengen van teeltmateriaal van verschillende soorten gewassen;
-Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:
+Zo is het, dat Wij, de Raad van State gehoord, en met gemeen overleg der Staten-Generaal, hebben goedgevonden en verstaan, gelijk Wij goedvinden en verstaan bij deze:  
 ###Hoofdstuk 1 
 
 ####Begripsbepalingen
@@ -437,6 +437,26 @@ a. om de markt te kunnen voorzien van voldoende teeltmateriaal van gewassen waar
 b. ten behoeve van het uitvoeren van tijdelijke experimenten.     
 3.  Aan vrijstellingen en ontheffingen kunnen voorwaarden en beperkingen worden verbonden.  
 
+### Hoofdstuk  6a  
+
+####Teelt
+
+### Artikel  48a  
+
+1.  Bij of krachtens algemene maatregel van bestuur kunnen regels worden gesteld over de teelt van gewassen.   
+2.  De regels, bedoeld in het eerste lid, kunnen betrekking hebben op: 
+
+a. het gebruik van teeltmateriaal, waaronder het verbod om bepaalde soorten teeltmateriaal te gebruiken of het stellen van voorwaarden daaraan;  
+
+b. het gebruik van landbouwgronden, waaronder het stellen van voorwaarden aan het gebruik van die gronden, teneinde de verontreiniging van zaaizaad tegen te gaan;  
+
+c. administratieve verplichtingen die samenhangen met het bedoelde in de onderdelen a en b, waaronder de verplichting tot het doen van meldingen.    
+
+### Artikel  48b  
+
+1.  Onze Minister kan ontheffing verlenen van het bepaalde krachtens artikel 48a, tweede lid, onderdeel b, ten behoeve van onderzoek naar de uitkruising van genetisch gemodificeerde organismen of naar de vermenging van genetische gemodificeerde organismen met organismen die niet genetisch gemodificeerd zijn.   
+2.  Aan ontheffingen kunnen voorwaarden en beperkingen worden verbonden.  
+
 ###Hoofdstuk 7 
 
 ####Kwekersrecht
@@ -772,11 +792,6 @@ Bij of krachtens algemene maatregel van bestuur kunnen, ter uitvoering van een b
 a. taken worden opgedragen en bevoegdheden worden verleend aan Onze Minister, de Raad of een krachtens artikel 19 aangewezen keuringsinstelling;  
 
 b. voorschriften uit een handelsverordening worden aangewezen waarop door Onze Minister aangewezen ambtenaren of personen toezicht houden of die Onze Minister, de Raad of een krachtens artikel 19 aangewezen keuringsinstelling kunnen toepassen door besluiten te nemen.    
-
-### Artikel  88  
-
-1.  Bij of krachtens algemene maatregel van bestuur kan medewerking worden gevorderd van het bestuur van een productschap of bedrijfschap als bedoeld in artikel 66 van de Wet op de bedrijfsorganisatie.   
-2.  Indien de van het bestuur van een bedrijfslichaam gevorderde medewerking bestaat uit het stellen van regels of nadere regels bij verordening, behoeft zodanige verordening de goedkeuring van Onze Minister. Krachtens de verordening genomen besluiten behoeven, voor zover zulks bij of krachtens algemene maatregel van bestuur is bepaald, de goedkeuring van Onze Minister.  
 
 ### Artikel  89  
 

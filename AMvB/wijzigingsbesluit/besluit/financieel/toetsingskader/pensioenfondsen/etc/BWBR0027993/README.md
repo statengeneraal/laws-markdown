@@ -6,7 +6,7 @@ Wij Beatrix, bij de gratie Gods, Koningin der Nederlanden, Prinses van Oranje-Na
 
 Op de voordracht van Onze Minister van Sociale Zaken en Werkgelegenheid van 22 juni 2010, nr. AV/PB/2010/12710;
 
-Gelet op de [artikelen 138, zesde lid](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md), [140, vijfde lid](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en [144, eerste lid, van de Pensioenwet](../../../../../../../../wet/pensioenwet/BWBR0020809/README.md) en de [artikelen 133, zesde lid](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md), [135, vijfde lid](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md) en [139, eerste lid, van de Wet verplichte beroepspensioenregeling](../../../../../../../../wet/wet/verplichte/beroepspensioenregeling/BWBR0018831/README.md);
+Gelet op de artikelen 138, zesde lid, 140, vijfde lid en 144, eerste lid, van de Pensioenwet en de artikelen 133, zesde lid, 135, vijfde lid en 139, eerste lid, van de Wet verplichte beroepspensioenregeling;
 
 De Raad van State gehoord (advies van 25 juni 2010, nr. W12.10.0196/III);
 

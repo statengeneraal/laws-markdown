@@ -3,7 +3,7 @@
 ##Verordening van het Productschap Akkerbouw van 10 november 2011 houdende regels terzake van de reiniging van verpakkingen van gewasbeschermingsmiddelen (Verordening PA reiniging verpakkingen gewasbeschermingsmiddelen 2011)
 
 Het bestuur van het Productschap Akkerbouw;  
-Gelet op artikel 13, eerste lid van de Richtlijn 2009/128/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van een kader voor communautaire actie ter verwezenlijking van een duurzaam gebruik van pesticiden, [artikel 80a, tweede en derde lid van de Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md), [artikel 32a van het Besluit gewasbeschermingsmiddelen en biociden](../../../../../../../../AMvB/besluit/gewasbeschermingsmiddelen/en/biociden/BWBR0022530/README.md) en de [artikelen 96](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [98](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [102, tweede lid](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md), [104, eerste en derde lid, van de Wet op de bedrijfsorganisatie](../../../../../../../../wet/wet/op/de/bedrijfsorganisatie/BWBR0002058/README.md); Gehoord de commissie teeltaangelegenheden,
+Gelet op artikel 13, eerste lid van de Richtlijn 2009/128/EG van het Europees Parlement en de Raad van 21 oktober 2009 tot vaststelling van een kader voor communautaire actie ter verwezenlijking van een duurzaam gebruik van pesticiden, artikel 80a, tweede en derde lid van de Wet gewasbeschermingsmiddelen en biociden, artikel 32a van het Besluit gewasbeschermingsmiddelen en biociden en de artikelen 96, 98, 102, tweede lid, 104, eerste en derde lid, van de Wet op de bedrijfsorganisatie; Gehoord de commissie teeltaangelegenheden,
 Besluit:    
 ###§ 1 
 
@@ -19,7 +19,7 @@ Deze verordening verstaat onder:
 |b. bestuur |: |bestuur van het productschap; |
 |c. secretaris |: |secretaris van het productschap; |
 |d. ondernemer |: |de natuurlijke of rechtspersoon die een onderneming drijft waarvoor het productschap is ingesteld; |
-|e. gewasbeschermingsmiddel |: |gewasbeschermingsmiddel, als bedoeld in [artikel 1 van de Wet gewasbeschermingsmiddelen en biociden](../../../../../../../../wet/wet/gewasbeschermingsmiddelen/en/biociden/BWBR0021670/README.md); |
+|e. gewasbeschermingsmiddel |: |gewasbeschermingsmiddel, als bedoeld in artikel 1 van de Wet gewasbeschermingsmiddelen en biociden; |
 |f. reinigingsapparatuur |: |apparatuur die voldoet aan de normen van NEN-ISO 21278. |
 
 ###§ 2 
@@ -66,7 +66,7 @@ Het bepaalde bij of krachtens deze verordening, waarbij aan ondernemers verplich
 
 ###Artikel 6 
 
-De [Verordening PA reiniging verpakkingen gewasbeschermingsmiddelen 2008](../../../../../../../../pbo/verordening/pa/reiniging/verpakkingen/gewasbeschermingsmiddelen/2008/BWBR0024024/README.md) wordt ingetrokken. 
+De Verordening PA reiniging verpakkingen gewasbeschermingsmiddelen 2008 wordt ingetrokken. 
 
 ###Artikel 7 
 

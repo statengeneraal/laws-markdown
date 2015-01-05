@@ -179,9 +179,8 @@ Wijzigt de Wet ambulancevervoer.
 Wijzigt de Wet ambulancezorg.
 
 ### Artikel  XXXIII  
-Treedt in werking op een nader te bepalen tijdstip 
 
-Wijzigt de Wet veiligheidsregio's.
+Dit artikel treedt niet meer in werking. Het artikel is ingetrokken door Stb. 2014/540.Wijzigt de Wet veiligheidsregio's.
 
 ### Artikel  XXXIV  
 
