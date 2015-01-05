@@ -7,22 +7,18 @@ Gelet op artikel 7, zesde lid, onderdeel b, onder 1°, van de Algemene Kinderbij
 Besluit:    
 
 ### Artikel  1  
-Treedt in werking per 01-01-2015 
 
 Als beroepsopleiding of school als bedoeld in artikel 7, zesde lid, onderdeel b, onder 1°, van de Algemene Kinderbijslagwet wordt aangewezen een beroepsopleiding of school die is opgenomen in de bij deze regeling behorende bijlagen. 
 
 ### Artikel  2  
-Treedt in werking per 01-01-2015 
 
 De afstand, bedoeld in artikel 7, zesde lid, onderdeel b, onder 1°, van de Algemene Kinderbijslagwet, bedraagt 25 kilometer. 
 
 ### Artikel  3  
-Treedt in werking per 01-01-2015 
 
 Deze regeling treedt in werking met ingang van 1 januari 2015. 
 
 ### Artikel  4  
-Treedt in werking per 01-01-2015 
 
 Deze regeling wordt aangehaald als: Regeling dubbele kinderbijslag om onderwijsredenen. 
 Deze regeling zal met de toelichting en de bijlagen in de Staatscourant worden geplaatst.   
@@ -37,8 +33,6 @@ L.F. Asscher
 ### Bijlage  A  
 
 ####Lijst van aangewezen beroepsopleidingen
-
-Treedt in werking per 01-01-2015 
 
 | kwalificatie  | kwalificatienaam  | leerweg  | niveau  | instellingsnaam  | postcode plaats  | adres  |
 |:---|:---|:---|:---|:---|:---|:---|
@@ -2191,32 +2185,30 @@ Treedt in werking per 01-01-2015
 | 97552  | Zorg, natuur en gezondheid (Werkbegeleider zorgbedrijf plant)  | BOL  | 3  | Helicon Opleidingen  | 7314 AH APELDOORN  | Loolaan 69  |
 | 97552  | Zorg, natuur en gezondheid (Werkbegeleider zorgbedrijf plant)  | BOL  | 3  | Helicon Opleidingen  | 6541 CW NIJMEGEN  | Energieweg 19  |
 | --- | --- | --- | --- | --- | --- | --- |
-| voetnoot 1  | --- | --- | --- | --- | --- | 5684 PT BEST  |
-| --- | --- | --- | --- | --- | --- | 4462 DZ GOES  |
-| --- | --- | --- | --- | --- | --- | 9721 SW GRONINGRN  |
-| --- | --- | --- | --- | --- | --- | 1703 DC HEERHUGOWAARD  |
-| --- | --- | --- | --- | --- | --- | 6042 KA ROERMOND  |
-| --- | --- | --- | --- | --- | --- | 2288 EW RIJSWIJK  |
-| --- | --- | --- | --- | --- | --- | 3751 AT SPAKENBURG  |
-| --- | --- | --- | --- | --- | --- | 6709 PG WAGENINGEN  |
-| --- | --- | --- | --- | --- | --- | 8032 VS ZWOLLE  |
+| voetnoot 1  | --- | --- | --- | --- | 5684 PT BEST  | De Dieze 28 b-c  |
+| --- | --- | --- | --- | --- | 4462 DZ GOES  | Stationspark 39  |
+| --- | --- | --- | --- | --- | 9721 SW GRONINGEN  | Van Ketwich Verschuurlaan 100  |
+| --- | --- | --- | --- | --- | 1703 DC HEERHUGOWAARD  | W.M. Dudokweg 78  |
+| --- | --- | --- | --- | --- | 6042 KA ROERMOND  | Jagerstraat 6  |
+| --- | --- | --- | --- | --- | 2288 EW RIJSWIJK  | Diepenhorstlaan 3  |
+| --- | --- | --- | --- | --- | 3751 AT SPAKENBURG  | Kerkstraat 103  |
+| --- | --- | --- | --- | --- | 6709 PG WAGENINGEN  | Marijkeweg 20  |
+| --- | --- | --- | --- | --- | 8032 VS ZWOLLE  | Spui 2  |
 | --- | --- | --- | --- | --- | --- | --- |
-| voetnoot 2  | --- | --- | --- | --- | --- | 7604 EH ALMELO  |
-| --- | --- | --- | --- | --- | --- | 1101 EB AMSTERDAM  |
-| --- | --- | --- | --- | --- | --- | 6811 LT ARNHEM  |
-| --- | --- | --- | --- | --- | --- | 4811 BB BREDA  |
-| --- | --- | --- | --- | --- | --- | 1703 DC HEERHUGOWAARD  |
-| --- | --- | --- | --- | --- | --- | 8919 AA LEEUWARDEN  |
-| --- | --- | --- | --- | --- | --- | 6301 EZ VALKENBURG a/de GEUL  |
-| --- | --- | --- | --- | --- | --- | 3032 AL ROTTERDAM  |
-| --- | --- | --- | --- | --- | --- | 3515 ET UTRECHT  |
-| --- | --- | --- | --- | --- | --- | 3334 KC ZWIJNDRECHT  |
+| voetnoot 2  | --- | --- | --- | --- | 7604 EH ALMELO  | Apollolaan 1  |
+| --- | --- | --- | --- | --- | 1101 EB AMSTERDAM  | Laarderhoogtweg 51  |
+| --- | --- | --- | --- | --- | 6811 LT ARNHEM  | Utrechtsestraat 35  |
+| --- | --- | --- | --- | --- | 4811 BB BREDA  | Stationsplein 14  |
+| --- | --- | --- | --- | --- | 1703 DC HEERHUGOWAARD  | W.M. Dudokweg 66  |
+| --- | --- | --- | --- | --- | 8919 AA LEEUWARDEN  | Mr. P.J. Troelstraweg 147-a  |
+| --- | --- | --- | --- | --- | 6301 EZ VALKENBURG a/d GEUL  | Stationsstraat 21  |
+| --- | --- | --- | --- | --- | 3032 AL ROTTERDAM  | Schiekade 830  |
+| --- | --- | --- | --- | --- | 3515 ET UTRECHT  | Goeman Borgesiuslaan 77  |
+| --- | --- | --- | --- | --- | 3334 KC ZWIJNDRECHT  | Gildenweg 12  |
 
 ### Bijlage  B  
 
 ####bij de Regeling dubbele kinderbijslag om onderwijsredenen
-
-Treedt in werking per 01-01-2015 
 
 Scholen in het voortgezet onderwijs met een Loot-licentie (Beleidsregel verstrekking Loot-licentie VO)  
 
